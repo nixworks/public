@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/24/former-cuban-leader-fidel-castro-appears-on-television-for-the-first-time-in-more-than-a-year.html)  [JSON](/news/2009/08/24/former-cuban-leader-fidel-castro-appears-on-television-for-the-first-time-in-more-than-a-year.json)  [XML](/news/2009/08/24/former-cuban-leader-fidel-castro-appears-on-television-for-the-first-time-in-more-than-a-year.xml)  
+
 ### [2009-08-24](/news/2009/08/24/index.md)
 
+##### Cuba
 #  Former Cuban leader Fidel Castro appears on television for the first time in more than a year. 
 
 Former president shown meeting students, suggesting his health has improved.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/08/2009824401286492.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8217334.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/5/zimbabwe-s-top-court-rules-that-the-general-election-should-be-held-on-july-31-despite-an-appeal-by-president-robert-mugabe-and-his-main-riv.html)  [JSON](/news/2013/07/5/zimbabwe-s-top-court-rules-that-the-general-election-should-be-held-on-july-31-despite-an-appeal-by-president-robert-mugabe-and-his-main-riv.json)  [XML](/news/2013/07/5/zimbabwe-s-top-court-rules-that-the-general-election-should-be-held-on-july-31-despite-an-appeal-by-president-robert-mugabe-and-his-main-riv.xml)  
+
 ### [2013-07-5](/news/2013/07/5/index.md)
 
+##### Zimbabwe
 # Zimbabwe's top court rules that the general election should be held on July 31 despite an appeal by President Robert Mugabe and his main rival Prime Minister Morgan Tsvangirai. 
 
 Elections to choose a new government in Zimbabwe will go ahead on July 31, the country&#039;s top court has ruled.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/world/zimbabwe-sets-election-date-20130705-2pft3.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/2/p/f/x/1/image.related.thumbnail.320x214.2pft3.png/1372991628547.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/17/mauritania-s-state-information-agency-announces-that-abdullah-senussi-muammar-gaddafi-s-former-intelligence-chief-has-been-arrested-at-the.html)  [JSON](/news/2012/03/17/mauritania-s-state-information-agency-announces-that-abdullah-senussi-muammar-gaddafi-s-former-intelligence-chief-has-been-arrested-at-the.json)  [XML](/news/2012/03/17/mauritania-s-state-information-agency-announces-that-abdullah-senussi-muammar-gaddafi-s-former-intelligence-chief-has-been-arrested-at-the.xml)  
+
 ### [2012-03-17](/news/2012/03/17/index.md)
 
+##### Mauritanian
 # Mauritania's state information agency announces that Abdullah Senussi, Muammar Gaddafi's former intelligence chief, has been arrested at the airport in Nouakchott upon arrival from Morocco. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g1x0fK2Qeyj81yxGYLODazULmZ9g?docId=694bd705a960490d8206ead450c948c3)
 2. [CNN](http://edition.cnn.com/2012/03/17/world/africa/mauritania-gadhafi-spy-chief/)
@@ -16,4 +20,4 @@
 2. [The army in Mauritania destroy a car packed with explosives outside the capital Nouakchott, killing three people suspected of being members of Al Qaeda in the Islamic Maghreb. ](/news/2011/02/2/the-army-in-mauritania-destroy-a-car-packed-with-explosives-outside-the-capital-nouakchott-killing-three-people-suspected-of-being-members.md) _Context: Mauritanian, Nouakchott_
 3. [ A suicide bomber detonates a bomb outside the French embassy in Nouakchott, Mauritania, wounding two. The attack is the first suicide bombing in Mauritania's history.](/news/2009/08/8/a-suicide-bomber-detonates-a-bomb-outside-the-french-embassy-in-nouakchott-mauritania-wounding-two-the-attack-is-the-first-suicide-bombi.md) _Context: Mauritanian, Nouakchott_
 4. [ Experts and officials from Interpol and 19 countries met Tuesday in Burkina Faso to elaborate a strategy to combat terrorism and crime in Africa. Countries participating included France, the United States, Britain, Morocco, Algeria, Egypt, Turkey, Senegal, Burkina Faso, Chad, Sudan, Cte d'Ivoire, Lesotho, Zimbabwe, Cambodia, Benin, Burundi, Togo and Mauritania. ](/news/2004/09/22/experts-and-officials-from-interpol-and-19-countries-met-tuesday-in-burkina-faso-to-elaborate-a-strategy-to-combat-terrorism-and-crime-in-a.md) _Context: Mauritanian, Morocco_
-5. [Results from Saturday's constitutional referendum show Mauritanians have voted to abolish the Senate. Turnout was 53.73%, with 85% of voters supporting the change, according to officials. ](/news/2017/08/7/results-from-saturday-s-constitutional-referendum-show-mauritanians-have-voted-to-abolish-the-senate-turnout-was-53-73-with-85-of-voters.md) _Context: Mauritanian_
+5. [Thousands of Moroccans protest working conditions in Morocco's coal pits. ](/news/2017/12/26/thousands-of-moroccans-protest-working-conditions-in-morocco-s-coal-pits.md) _Context: Morocco_

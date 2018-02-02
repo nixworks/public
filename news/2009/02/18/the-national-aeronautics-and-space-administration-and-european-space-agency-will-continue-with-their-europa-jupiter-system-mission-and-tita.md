@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/18/the-national-aeronautics-and-space-administration-and-european-space-agency-will-continue-with-their-europa-jupiter-system-mission-and-tita.html)  [JSON](/news/2009/02/18/the-national-aeronautics-and-space-administration-and-european-space-agency-will-continue-with-their-europa-jupiter-system-mission-and-tita.json)  [XML](/news/2009/02/18/the-national-aeronautics-and-space-administration-and-european-space-agency-will-continue-with-their-europa-jupiter-system-mission-and-tita.xml)  
+
 ### [2009-02-18](/news/2009/02/18/index.md)
 
+##### NASA
 #  The National Aeronautics and Space Administration and European Space Agency will continue with their Europa Jupiter System Mission and Titan Saturn System Missions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://www.nasa.gov/topics/solarsystem/features/20090218.html)
 

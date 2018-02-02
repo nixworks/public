@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/15/rafael-correa-becomes-president-of-ecuador-replacing-alfredo-palacio.html)  [JSON](/news/2007/01/15/rafael-correa-becomes-president-of-ecuador-replacing-alfredo-palacio.json)  [XML](/news/2007/01/15/rafael-correa-becomes-president-of-ecuador-replacing-alfredo-palacio.xml)  
+
 ### [2007-01-15](/news/2007/01/15/index.md)
 
+##### Rafael Correa
 #  Rafael Correa becomes President of Ecuador, replacing Alfredo Palacio. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Kansas City Star](http://www.kansascity.com/mld/kansascity/news/world/16460742.htm)
 

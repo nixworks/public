@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/29/liverpool-f-c-player-steven-gerrard-is-arrested-following-an-altercation-at-a-southport-nightclub-and-subsequently-charged-with-section-20.html)  [JSON](/news/2008/12/29/liverpool-f-c-player-steven-gerrard-is-arrested-following-an-altercation-at-a-southport-nightclub-and-subsequently-charged-with-section-20.json)  [XML](/news/2008/12/29/liverpool-f-c-player-steven-gerrard-is-arrested-following-an-altercation-at-a-southport-nightclub-and-subsequently-charged-with-section-20.xml)  
+
 ### [2008-12-29](/news/2008/12/29/index.md)
 
+##### Liverpool
 #  Liverpool F.C. player Steven Gerrard is arrested following an altercation at a Southport nightclub and subsequently charged with Section 20 grievous bodily harm. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/merseyside/7802932.stm)
 

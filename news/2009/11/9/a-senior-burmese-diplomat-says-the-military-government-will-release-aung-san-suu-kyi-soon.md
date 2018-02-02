@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/9/a-senior-burmese-diplomat-says-the-military-government-will-release-aung-san-suu-kyi-soon.html)  [JSON](/news/2009/11/9/a-senior-burmese-diplomat-says-the-military-government-will-release-aung-san-suu-kyi-soon.json)  [XML](/news/2009/11/9/a-senior-burmese-diplomat-says-the-military-government-will-release-aung-san-suu-kyi-soon.xml)  
+
 ### [2009-11-9](/news/2009/11/9/index.md)
 
+##### Burma
 #  A senior Burmese diplomat says the military government will release Aung San Suu Kyi soon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5guSoils3M8NmCUsy6YLOUln-IzyAD9BS1TO00)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/nov/09/aung-san-suu-kyi-release)

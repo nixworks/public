@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/5/at-least-37-people-die-in-the-indian-state-of-gu
 
 ### [2016-02-5](/news/2016/02/5/index.md)
 
+##### India
 # At least 37 people die in the Indian state of Gujarat after a passenger bus plunges off a bridge over the Purna River. 
 
 At least 37 people were killed and as many injured when a Gujarat State Road Transport Corporation (GSRTC) bus fell from a river bridge in Navsari district in South Gujarat on...

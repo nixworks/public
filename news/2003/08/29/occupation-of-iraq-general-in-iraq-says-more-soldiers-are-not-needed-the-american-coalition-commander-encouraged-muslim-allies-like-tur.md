@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/29/occupation-of-iraq-general-in-iraq-says-more-soldiers-are-not-needed-the-american-coalition-commander-encouraged-muslim-allies-like-tur.html)  [JSON](/news/2003/08/29/occupation-of-iraq-general-in-iraq-says-more-soldiers-are-not-needed-the-american-coalition-commander-encouraged-muslim-allies-like-tur.json)  [XML](/news/2003/08/29/occupation-of-iraq-general-in-iraq-says-more-soldiers-are-not-needed-the-american-coalition-commander-encouraged-muslim-allies-like-tur.xml)  
+
 ### [2003-08-29](/news/2003/08/29/index.md)
 
+##### Iraq war
 #  "Occupation of Iraq": General in Iraq says more soldiers are not needed. The American Coalition commander encouraged Muslim allies like Turkey and Pakistan to send peacekeepers and said accelerating the training of a new Iraqi army should be considered.
 
 

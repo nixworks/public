@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/22/three-men-who-escaped-from-a-jail-near-quebec-city-via-helicopter-on-7-june-are-recaptured-by-the-rcmp-in-montreal.html)  [JSON](/news/2014/06/22/three-men-who-escaped-from-a-jail-near-quebec-city-via-helicopter-on-7-june-are-recaptured-by-the-rcmp-in-montreal.json)  [XML](/news/2014/06/22/three-men-who-escaped-from-a-jail-near-quebec-city-via-helicopter-on-7-june-are-recaptured-by-the-rcmp-in-montreal.xml)  
+
 ### [2014-06-22](/news/2014/06/22/index.md)
 
+##### Quebec City
 # Three men who escaped from a jail near Quebec City via helicopter on 7 June are recaptured by the RCMP in Montreal. 
 
 Three inmates who escaped a jail near Quebec City by helicopter have been arrested at an upscale condominium in Old Montreal, Quebec provincial police say.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/quebec-police-capture-3-inmates-escaped-in-helicopter-jailbreak-1.2683695)
 1. [Cover Image](https://i.cbc.ca/1.2673910.1402610963!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/quebec-jail-fugitives-helicopter-escape.jpg)

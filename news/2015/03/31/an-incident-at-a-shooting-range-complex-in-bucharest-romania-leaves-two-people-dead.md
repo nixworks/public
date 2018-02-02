@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/31/an-incident-at-a-shooting-range-complex-in-bucharest-romania-leaves-two-people-dead.html)  [JSON](/news/2015/03/31/an-incident-at-a-shooting-range-complex-in-bucharest-romania-leaves-two-people-dead.json)  [XML](/news/2015/03/31/an-incident-at-a-shooting-range-complex-in-bucharest-romania-leaves-two-people-dead.xml)  
+
 ### [2015-03-31](/news/2015/03/31/index.md)
 
+##### Bucharest
 # An incident at a shooting range complex in Bucharest, Romania leaves two people dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mediafax](http://www.mediafax.ro/social/incident-armat-la-poligonul-uti-din-capitala-un-instructor-si-un-elev-au-murit-14094805)
 1. [Cover Image](http://storage0.dms.mpinteractiv.ro/media/1/1/1688/14094805/2/uti-incident-dragos-savu.jpg?width=300&height=300)

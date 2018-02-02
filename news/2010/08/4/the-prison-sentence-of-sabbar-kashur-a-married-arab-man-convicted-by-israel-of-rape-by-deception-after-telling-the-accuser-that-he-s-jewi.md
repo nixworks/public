@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/the-prison-sentence-of-sabbar-kashur-a-married-arab-man-convicted-by-israel-of-rape-by-deception-after-telling-the-accuser-that-he-s-jewi.html)  [JSON](/news/2010/08/4/the-prison-sentence-of-sabbar-kashur-a-married-arab-man-convicted-by-israel-of-rape-by-deception-after-telling-the-accuser-that-he-s-jewi.json)  [XML](/news/2010/08/4/the-prison-sentence-of-sabbar-kashur-a-married-arab-man-convicted-by-israel-of-rape-by-deception-after-telling-the-accuser-that-he-s-jewi.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### Sabbar Kashur
 # The prison sentence of Sabbar Kashur, a married Arab man convicted by Israel of "rape by deception" after telling the accuser that he's Jewish and single, is delayed as he attempts an appeal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/print-edition/news/high-court-frees-arab-in-case-of-rape-by-impersonating-jew-1.305845)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/04/saber-kushour-rape-deception-release)

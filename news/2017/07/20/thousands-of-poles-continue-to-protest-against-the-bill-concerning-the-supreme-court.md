@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/20/thousands-of-poles-continue-to-protest-against-
 
 ### [2017-07-20](/news/2017/07/20/index.md)
 
+##### Cabinet of Beata Szydlo
 # Thousands of Poles continue to protest against the bill concerning the Supreme Court. 
 
 

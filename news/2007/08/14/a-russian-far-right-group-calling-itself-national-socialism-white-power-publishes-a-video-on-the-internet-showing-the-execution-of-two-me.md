@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/14/a-russian-far-right-group-calling-itself-national-socialism-white-power-publishes-a-video-on-the-internet-showing-the-execution-of-two-me.html)  [JSON](/news/2007/08/14/a-russian-far-right-group-calling-itself-national-socialism-white-power-publishes-a-video-on-the-internet-showing-the-execution-of-two-me.json)  [XML](/news/2007/08/14/a-russian-far-right-group-calling-itself-national-socialism-white-power-publishes-a-video-on-the-internet-showing-the-execution-of-two-me.xml)  
+
 ### [2007-08-14](/news/2007/08/14/index.md)
 
+##### Russia
 #  A Russian far right group calling itself "National Socialism-White Power" publishes a video on the Internet showing the execution of two men, one from Tajikistan and the other one from Dagestan. Russian authorities investigate the video. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6946810.stm)
 

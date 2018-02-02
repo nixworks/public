@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/17/the-spanish-parliament-approves-plan-to-begin-negotiations-with-the-basque-eta.html)  [JSON](/news/2005/05/17/the-spanish-parliament-approves-plan-to-begin-negotiations-with-the-basque-eta.json)  [XML](/news/2005/05/17/the-spanish-parliament-approves-plan-to-begin-negotiations-with-the-basque-eta.xml)  
+
 ### [2005-05-17](/news/2005/05/17/index.md)
 
+##### Spain
 #  The Spanish parliament approves plan to begin negotiations with the Basque ETA. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian Unlimited](http://www.guardian.co.uk/spain/article/0,2763,1486497,00.html)
 2. [IHT](http://www.iht.com/articles/2005/05/18/news/basque.php)

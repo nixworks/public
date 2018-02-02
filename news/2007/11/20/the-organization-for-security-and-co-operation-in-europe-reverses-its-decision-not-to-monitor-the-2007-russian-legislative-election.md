@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/20/the-organization-for-security-and-co-operation-in-europe-reverses-its-decision-not-to-monitor-the-2007-russian-legislative-election.html)  [JSON](/news/2007/11/20/the-organization-for-security-and-co-operation-in-europe-reverses-its-decision-not-to-monitor-the-2007-russian-legislative-election.json)  [XML](/news/2007/11/20/the-organization-for-security-and-co-operation-in-europe-reverses-its-decision-not-to-monitor-the-2007-russian-legislative-election.xml)  
+
 ### [2007-11-20](/news/2007/11/20/index.md)
 
+##### OSCE
 #  The Organization for Security and Co-operation in Europe reverses its decision not to monitor the 2007 Russian legislative election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7104382.stm)
 

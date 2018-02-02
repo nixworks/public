@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/20/zimbabwean-opposition-leader-morgan-tsvangirai-tells-his-supporters-to-fight-fear-as-they-campaign-against-president-robert-mugabe-his-c.html)  [JSON](/news/2003/12/20/zimbabwean-opposition-leader-morgan-tsvangirai-tells-his-supporters-to-fight-fear-as-they-campaign-against-president-robert-mugabe-his-c.json)  [XML](/news/2003/12/20/zimbabwean-opposition-leader-morgan-tsvangirai-tells-his-supporters-to-fight-fear-as-they-campaign-against-president-robert-mugabe-his-c.xml)  
+
 ### [2003-12-20](/news/2003/12/20/index.md)
 
+##### Zimbabwe
 #  Zimbabwean opposition leader Morgan Tsvangirai tells his supporters to "fight fear" as they campaign against President Robert Mugabe. His comments follow the decision of Zimbabwe's police to occupy the offices of Zimbabwe's only privately owned newspaper in defiance of a court order that the newspaper could resume publication. [http:--news.bbc.co.uk-2-hi-africa-3337147.stm]
 
 

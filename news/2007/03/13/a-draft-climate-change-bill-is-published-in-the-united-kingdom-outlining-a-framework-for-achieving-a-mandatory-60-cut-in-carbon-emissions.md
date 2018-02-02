@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/13/a-draft-climate-change-bill-is-published-in-the-united-kingdom-outlining-a-framework-for-achieving-a-mandatory-60-cut-in-carbon-emissions.html)  [JSON](/news/2007/03/13/a-draft-climate-change-bill-is-published-in-the-united-kingdom-outlining-a-framework-for-achieving-a-mandatory-60-cut-in-carbon-emissions.json)  [XML](/news/2007/03/13/a-draft-climate-change-bill-is-published-in-the-united-kingdom-outlining-a-framework-for-achieving-a-mandatory-60-cut-in-carbon-emissions.xml)  
+
 ### [2007-03-13](/news/2007/03/13/index.md)
 
+##### Climate Change Bill
 #  A draft Climate Change Bill is published in the United Kingdom, outlining a framework for achieving a mandatory 60% cut in carbon emissions by 2050. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/6444145.stm)
 

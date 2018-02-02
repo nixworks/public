@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/salman-butt-captains-pakistan-for-the-rest-of-their-tour-after-shahid-afridi-s-retirement-from-tests.html)  [JSON](/news/2010/07/17/salman-butt-captains-pakistan-for-the-rest-of-their-tour-after-shahid-afridi-s-retirement-from-tests.json)  [XML](/news/2010/07/17/salman-butt-captains-pakistan-for-the-rest-of-their-tour-after-shahid-afridi-s-retirement-from-tests.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### Salman Butt
 # Salman Butt captains Pakistan for the rest of their tour after Shahid Afridi's retirement from Tests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/sport/2010/jul/17/salman-butt-captain-pakistan-shahid-afridi)
 

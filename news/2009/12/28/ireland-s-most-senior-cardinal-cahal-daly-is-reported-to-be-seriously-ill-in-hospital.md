@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/28/ireland-s-most-senior-cardinal-cahal-daly-is-reported-to-be-seriously-ill-in-hospital.html)  [JSON](/news/2009/12/28/ireland-s-most-senior-cardinal-cahal-daly-is-reported-to-be-seriously-ill-in-hospital.json)  [XML](/news/2009/12/28/ireland-s-most-senior-cardinal-cahal-daly-is-reported-to-be-seriously-ill-in-hospital.xml)  
+
 ### [2009-12-28](/news/2009/12/28/index.md)
 
+##### Cardinal
 #  Ireland's most senior Cardinal, Cahal Daly, is reported to be "seriously ill" in hospital. 
 
 Ireland&#39;s most senior Cardinal, Dr Cahal Daly, is seriously ill in Belfast City Hospital.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8432902.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/1228/dalyc.html)

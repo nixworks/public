@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/18/amid-a-state-of-emergency-venezuelan-police-cla
 
 ### [2016-05-18](/news/2016/05/18/index.md)
 
+##### 2014-16 Venezuelan protests
 # Amid a state of emergency, Venezuelan police clash and fire tear gas at protesters calling for the downfall of socialist president Nicolas Maduro in central Caracas. The protests come a day after Maduro warned that the opposition-controlled National Assembly may soon "disappear". 
 
 Wednesday’s protests in Caracas came the day after Maduro said the opposition-controlled parliament had become irrelevant amid a shrinking economy

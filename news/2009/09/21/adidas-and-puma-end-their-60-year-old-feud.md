@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/21/adidas-and-puma-end-their-60-year-old-feud.html)  [JSON](/news/2009/09/21/adidas-and-puma-end-their-60-year-old-feud.json)  [XML](/news/2009/09/21/adidas-and-puma-end-their-60-year-old-feud.xml)  
+
 ### [2009-09-21](/news/2009/09/21/index.md)
 
+##### Adidas
 #  Adidas and Puma end their 60-year-old feud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8267709.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/14/the-philippines-states-that-a-chinese-warship-entered-its-territory-in-the-south-china-sea.html)  [JSON](/news/2012/07/14/the-philippines-states-that-a-chinese-warship-entered-its-territory-in-the-south-china-sea.json)  [XML](/news/2012/07/14/the-philippines-states-that-a-chinese-warship-entered-its-territory-in-the-south-china-sea.xml)  
+
 ### [2012-07-14](/news/2012/07/14/index.md)
 
+##### The Philippines
 # The Philippines states that a Chinese warship entered its territory in the South China Sea. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC](http://abcnews.go.com/International/wireStory/philippines-china-warship-territory-16777729)
 

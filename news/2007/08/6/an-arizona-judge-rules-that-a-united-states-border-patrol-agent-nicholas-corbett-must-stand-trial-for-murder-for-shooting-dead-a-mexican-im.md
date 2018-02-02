@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/08/6/an-arizona-judge-rules-that-a-united-states-border-patrol-agent-nicholas-corbett-must-stand-trial-for-murder-for-shooting-dead-a-mexican-im.html)  [JSON](/news/2007/08/6/an-arizona-judge-rules-that-a-united-states-border-patrol-agent-nicholas-corbett-must-stand-trial-for-murder-for-shooting-dead-a-mexican-im.json)  [XML](/news/2007/08/6/an-arizona-judge-rules-that-a-united-states-border-patrol-agent-nicholas-corbett-must-stand-trial-for-murder-for-shooting-dead-a-mexican-im.xml)  
+
 ### [2007-08-6](/news/2007/08/6/index.md)
 
+##### Arizona
 #  An Arizona judge rules that a United States Border Patrol agent Nicholas Corbett must stand trial for murder for shooting dead a Mexican immigrant. 
 
 A U.S. Border Patrol agent must stand trial for murder in the shooting of a Mexican man trying to enter the United States, an Arizona judge ruled Monday in a case that drew criticism from Mexico.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSN0645298420070807?feedType=RSS)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070807&t=2&i=1258240&w=&fh=545px&fw=&ll=&pl=&sq=&r=1258240)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSN0645298420070807?feedType=RSS)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070807&t=2&i=1258240&w=&fh=545px&fw=&ll=&pl=&sq=&r=1258240)
 
 ### Related:
 

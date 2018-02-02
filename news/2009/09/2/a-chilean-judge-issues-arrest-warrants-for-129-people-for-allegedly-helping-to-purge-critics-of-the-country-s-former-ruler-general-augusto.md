@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/2/a-chilean-judge-issues-arrest-warrants-for-129-people-for-allegedly-helping-to-purge-critics-of-the-country-s-former-ruler-general-augusto.html)  [JSON](/news/2009/09/2/a-chilean-judge-issues-arrest-warrants-for-129-people-for-allegedly-helping-to-purge-critics-of-the-country-s-former-ruler-general-augusto.json)  [XML](/news/2009/09/2/a-chilean-judge-issues-arrest-warrants-for-129-people-for-allegedly-helping-to-purge-critics-of-the-country-s-former-ruler-general-augusto.xml)  
+
 ### [2009-09-2](/news/2009/09/2/index.md)
 
+##### Chile
 #  A Chilean judge issues arrest warrants for 129 people for allegedly helping to purge critics of the country's former ruler General Augusto Pinochet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8232996.stm)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=437409)

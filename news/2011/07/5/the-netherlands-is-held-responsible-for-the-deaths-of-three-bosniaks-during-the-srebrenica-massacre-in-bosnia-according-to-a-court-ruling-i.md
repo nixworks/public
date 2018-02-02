@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/5/the-netherlands-is-held-responsible-for-the-deaths-of-three-bosniaks-during-the-srebrenica-massacre-in-bosnia-according-to-a-court-ruling-i.html)  [JSON](/news/2011/07/5/the-netherlands-is-held-responsible-for-the-deaths-of-three-bosniaks-during-the-srebrenica-massacre-in-bosnia-according-to-a-court-ruling-i.json)  [XML](/news/2011/07/5/the-netherlands-is-held-responsible-for-the-deaths-of-three-bosniaks-during-the-srebrenica-massacre-in-bosnia-according-to-a-court-ruling-i.xml)  
+
 ### [2011-07-5](/news/2011/07/5/index.md)
 
+##### Netherlands
 # The Netherlands is held responsible for the deaths of three Bosniaks during the Srebrenica massacre in Bosnia, according to a court ruling in The Hague. 
 
 The Dutch state was responsible for the deaths of three Bosniaks in the 1995 Srebrenica massacre, a court rules, opening the way for more claims.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/07/20117585931325737.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-14026218)

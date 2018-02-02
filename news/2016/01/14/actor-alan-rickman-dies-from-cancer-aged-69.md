@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/14/actor-alan-rickman-dies-from-cancer-aged-69.htm
 
 ### [2016-01-14](/news/2016/01/14/index.md)
 
+##### Alan Rickman
 # Actor Alan Rickman dies from cancer, aged 69. 
 
 British actor Alan Rickman, known for films including Harry Potter and Die Hard, has died aged 69, his family says.

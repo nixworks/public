@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/4/a-gunman-in-gainesville-florida-shoots-six-people-killing-his-father-before-committing-suicide.html)  [JSON](/news/2010/10/4/a-gunman-in-gainesville-florida-shoots-six-people-killing-his-father-before-committing-suicide.json)  [XML](/news/2010/10/4/a-gunman-in-gainesville-florida-shoots-six-people-killing-his-father-before-committing-suicide.xml)  
+
 ### [2010-10-4](/news/2010/10/4/index.md)
 
+##### Gainesville, Florida
 # A gunman in Gainesville, Florida shoots six people, killing his father before committing suicide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Gainesville Sun](http://www.gainesville.com/article/20101004/ARTICLES/101009766/1109/sports?Title=Gainesville-gunman-killed-self-after-deadly-shooting-spree)
 

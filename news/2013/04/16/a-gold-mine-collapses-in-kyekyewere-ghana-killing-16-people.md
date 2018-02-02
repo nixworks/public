@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/16/a-gold-mine-collapses-in-kyekyewere-ghana-killing-16-people.html)  [JSON](/news/2013/04/16/a-gold-mine-collapses-in-kyekyewere-ghana-killing-16-people.json)  [XML](/news/2013/04/16/a-gold-mine-collapses-in-kyekyewere-ghana-killing-16-people.xml)  
+
 ### [2013-04-16](/news/2013/04/16/index.md)
 
+##### gold mine
 # A gold mine collapses in Kyekyewere, Ghana, killing 16 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-22165585)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67033000/gif/_67033018_ghana_kyekyewere_accra_0413.gif)

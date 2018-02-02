@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/8/mario-r-capecchi-oliver-smithies-and-sir-martin-j-evans-are-announced-as-winners-of-the-2007-nobel-prize-in-physiology-or-medicine-for.html)  [JSON](/news/2007/10/8/mario-r-capecchi-oliver-smithies-and-sir-martin-j-evans-are-announced-as-winners-of-the-2007-nobel-prize-in-physiology-or-medicine-for.json)  [XML](/news/2007/10/8/mario-r-capecchi-oliver-smithies-and-sir-martin-j-evans-are-announced-as-winners-of-the-2007-nobel-prize-in-physiology-or-medicine-for.xml)  
+
 ### [2007-10-8](/news/2007/10/8/index.md)
 
+##### Mario R. Capecchi
 #  Mario R. Capecchi, Oliver Smithies, and Sir Martin J. Evans are announced as winners of the 2007 Nobel Prize in Physiology or Medicine for their discoveries of the principles for introducing specific gene modifications by the use of embryonic stem cells in mice. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nobelprize.org](http://nobelprize.org/nobel_prizes/medicine/laureates/2007/index.html)
 1. [Cover Image](http://www.nobelprize.org/nobel_prizes/medicine/laureates/2007/smithies_postcard.jpg)

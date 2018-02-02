@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/29/serbia-s-minister-of-labour-employment-and-social-affairs-rasim-ljajia-resigns-a-job-due-to-his-inability-to-keep-his-promise-to-locate.html)  [JSON](/news/2009/12/29/serbia-s-minister-of-labour-employment-and-social-affairs-rasim-ljajia-resigns-a-job-due-to-his-inability-to-keep-his-promise-to-locate.json)  [XML](/news/2009/12/29/serbia-s-minister-of-labour-employment-and-social-affairs-rasim-ljajia-resigns-a-job-due-to-his-inability-to-keep-his-promise-to-locate.xml)  
+
 ### [2009-12-29](/news/2009/12/29/index.md)
 
+##### Serbia
 #  Serbia's Minister of Labour, Employment, and Social Affairs Rasim Ljajic resigns a job due to his inability to keep his promise to locate Ratko Mladic by the end of 2009. 
 
 The Serbian minister responsible for helping the U.N. war crimes tribunal track down suspects resigned on Tuesday because efforts to bring fugitive Bosnian Serb General Ratko Mladic before the court had failed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8433947.stm)
 2. [Houston Chronicle](http://www.chron.com/disp/story.mpl/world/6790392.html)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/2/at-least-nine-people-are-killed-and-40-are-missi
 
 ### [2016-12-2](/news/2016/12/2/index.md)
 
+##### 2016 Oakland warehouse fire
 # At least nine people are killed and 40 are missing in a warehouse fire in Oakland, California. 
 
 Police say they are preparing for as many as 40 deaths after a fire breaks out at a rave in Oakland.

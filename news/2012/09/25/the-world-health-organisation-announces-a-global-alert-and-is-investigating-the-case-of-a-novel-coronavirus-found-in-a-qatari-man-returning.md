@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/25/the-world-health-organisation-announces-a-global-alert-and-is-investigating-the-case-of-a-novel-coronavirus-found-in-a-qatari-man-returning.html)  [JSON](/news/2012/09/25/the-world-health-organisation-announces-a-global-alert-and-is-investigating-the-case-of-a-novel-coronavirus-found-in-a-qatari-man-returning.json)  [XML](/news/2012/09/25/the-world-health-organisation-announces-a-global-alert-and-is-investigating-the-case-of-a-novel-coronavirus-found-in-a-qatari-man-returning.xml)  
+
 ### [2012-09-25](/news/2012/09/25/index.md)
 
+##### World Health Organisation
 # The World Health Organisation announces a global alert and is investigating the case of a novel coronavirus found in a Qatari man returning from Saudi Arabia. 
 
 * U.N. health agency gives global guidance on reporting newvirus* Two cases so far, Saudi and Qatari who went to Saudi* WHO working with Sau
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2012/09/26/health-virus-idINL5E8KQ9GL20120926)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

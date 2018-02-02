@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/12/slovenian-president-borut-pahor-winning-nearly-
 
 ### [2017-11-12](/news/2017/11/12/index.md)
 
+##### Slovenian presidential election, 2017
 # Slovenian President Borut Pahor, winning nearly 53 percent of the vote (373,877), is reelected for a second term in the runoff between the top two candidates from the October, 22, 2017, poll. Marjan Sarec, the other candidate from the original field of nine, received 332,366 votes. 
 
 Slovenian President Borut Pahor was re-elected for a second term in a runoff vote on Sunday, beating his challenger in a tight race.

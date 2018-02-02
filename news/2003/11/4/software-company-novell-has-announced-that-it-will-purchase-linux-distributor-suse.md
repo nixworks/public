@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/4/software-company-novell-has-announced-that-it-will-purchase-linux-distributor-suse.html)  [JSON](/news/2003/11/4/software-company-novell-has-announced-that-it-will-purchase-linux-distributor-suse.json)  [XML](/news/2003/11/4/software-company-novell-has-announced-that-it-will-purchase-linux-distributor-suse.xml)  
+
 ### [2003-11-4](/news/2003/11/4/index.md)
 
+##### Novell
 #  Software company Novell has announced that it will purchase Linux distributor SuSE.
 
 

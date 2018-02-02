@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/22/united-states-president-barack-obama-orders-an-assessment-of-whether-intelligence-reports-from-u-s-central-command-were-changed-by-supervis.html)  [JSON](/news/2015/11/22/united-states-president-barack-obama-orders-an-assessment-of-whether-intelligence-reports-from-u-s-central-command-were-changed-by-supervis.json)  [XML](/news/2015/11/22/united-states-president-barack-obama-orders-an-assessment-of-whether-intelligence-reports-from-u-s-central-command-were-changed-by-supervis.xml)  
+
 ### [2015-11-22](/news/2015/11/22/index.md)
 
+##### U.S. President
 # United States President Barack Obama orders an assessment of whether intelligence reports from U.S. Central Command were changed by supervisory military personnel before formal submission to present a more optimistic picture of the American military campaign against Daesh (Islamic State). The Pentagon's Office of the Inspector General investigators seized emails from military servers over the last few weeks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jurist](http://jurist.org/paperchase/2015/11/president-obama-order-assessment-of-intelligence-reports-on-american-military-campaign-in-islamic-st.php)
 1. [Cover Image](http://test.jurist.org/images/wiki/15/11/PO.jpg)

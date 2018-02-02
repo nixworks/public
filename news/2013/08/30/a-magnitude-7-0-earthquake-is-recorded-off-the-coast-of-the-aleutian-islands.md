@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/30/a-magnitude-7-0-earthquake-is-recorded-off-the-coast-of-the-aleutian-islands.html)  [JSON](/news/2013/08/30/a-magnitude-7-0-earthquake-is-recorded-off-the-coast-of-the-aleutian-islands.json)  [XML](/news/2013/08/30/a-magnitude-7-0-earthquake-is-recorded-off-the-coast-of-the-aleutian-islands.xml)  
+
 ### [2013-08-30](/news/2013/08/30/index.md)
 
+##### Aleutian Islands
 # A magnitude 7.0 earthquake is recorded off the coast of the Aleutian Islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/2013/08/30/alaska-earthquake_n_3844284.html)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/3/mathematician-jean-pierre-serre-is-awarded-the-first-abel-prize-at-a-ceremony-in-oslo-norway.html)  [JSON](/news/2003/06/3/mathematician-jean-pierre-serre-is-awarded-the-first-abel-prize-at-a-ceremony-in-oslo-norway.json)  [XML](/news/2003/06/3/mathematician-jean-pierre-serre-is-awarded-the-first-abel-prize-at-a-ceremony-in-oslo-norway.xml)  
+
 ### [2003-06-3](/news/2003/06/3/index.md)
 
+##### Jean-Pierre Serre
 #  Mathematician Jean-Pierre Serre is awarded the first Abel Prize at a ceremony in Oslo, Norway.
 
 

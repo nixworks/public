@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/17/cisco-announces-a-cut-of-5-500-jobs-in-their-sh
 
 ### [2016-08-17](/news/2016/08/17/index.md)
 
+##### Cisco
 # Cisco announces a cut of 5,500 jobs in their shift from switches to software. 
 
 

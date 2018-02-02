@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/08/25/2011-pacific-typhoon-season-at-least-one-person-in-the-philippines-is-missing-and-several-towns-are-flooded-as-a-result-of-typhoon-nanmadol.html)  [JSON](/news/2011/08/25/2011-pacific-typhoon-season-at-least-one-person-in-the-philippines-is-missing-and-several-towns-are-flooded-as-a-result-of-typhoon-nanmadol.json)  [XML](/news/2011/08/25/2011-pacific-typhoon-season-at-least-one-person-in-the-philippines-is-missing-and-several-towns-are-flooded-as-a-result-of-typhoon-nanmadol.xml)  
+
 ### [2011-08-25](/news/2011/08/25/index.md)
 
+##### 2011 Pacific typhoon season
 # 2011 Pacific typhoon season: At least one person in the Philippines is missing and several towns are flooded as a result of Typhoon Nanmadol which is now heading for Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/asia-pacific/1-person-missing-as-strong-typhoon-floods-northern-philippines-drifts-toward-taiwan/2011/08/25/gIQABlareJ_story.html)
+1. [Washington Post](https://www.washingtonpost.com/world/asia-pacific/1-person-missing-as-strong-typhoon-floods-northern-philippines-drifts-toward-taiwan/2011/08/25/gIQABlareJ_story.html)
 
 ### Related:
 

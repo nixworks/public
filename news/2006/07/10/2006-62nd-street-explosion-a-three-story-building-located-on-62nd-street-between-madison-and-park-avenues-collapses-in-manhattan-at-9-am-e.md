@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2006/07/10/2006-62nd-street-explosion-a-three-story-building-located-on-62nd-street-between-madison-and-park-avenues-collapses-in-manhattan-at-9-am-e.html)  [JSON](/news/2006/07/10/2006-62nd-street-explosion-a-three-story-building-located-on-62nd-street-between-madison-and-park-avenues-collapses-in-manhattan-at-9-am-e.json)  [XML](/news/2006/07/10/2006-62nd-street-explosion-a-three-story-building-located-on-62nd-street-between-madison-and-park-avenues-collapses-in-manhattan-at-9-am-e.xml)  
+
 ### [2006-07-10](/news/2006/07/10/index.md)
 
+##### 2006 62nd Street explosion
 #  2006 62nd Street explosion: A three-story building located on 62nd Street between Madison and Park avenues collapses in Manhattan at 9 AM EDT following an explosion, and then followed by flames erupting in the building. FDNY labels it a "major incident." 
 
 Authorities were investigating whether a doctor who survived the explosion of a four-story home on Manhattan&#8217;s Upper East Side might have caused the blast rather than sell the home as part of a divorce judgment in his ex-wife&#8217;s favor.
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.myfoxny.com/myfox/pages/Home/Detail?contentId=182596&version=9&locale=EN-US&layoutCode=TSTY&pageId=1.1.1)
-2. [Associated Press](http://www.nytimes.com/2006/07/10/nyregion/10cnd-blast.html?hp&ex=1152590400&en=2756d46347201da8&ei=5094&partner=homepage)
+2. [Associated Press](https://www.nytimes.com/2006/07/10/nyregion/10cnd-blast.html?hp&ex=1152590400&en=2756d46347201da8&ei=5094&partner=homepage)
 3. [CNN](http://www.cnn.com/2006/US/07/10/building.collapse/index.html)
 4. [MSNBC/AP](http://www.msnbc.msn.com/id/13801112/)
 5. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=newsOne&storyID=2006-07-10T141909Z_01_N10334591_RTRUKOC_0_US-USA-EXPLOSION.xml)

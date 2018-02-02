@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/13/supporters-of-ousted-kyrgyz-president-kurmanbek-bakiyev-seize-government-buildings-in-the-south-of-the-country.html)  [JSON](/news/2010/05/13/supporters-of-ousted-kyrgyz-president-kurmanbek-bakiyev-seize-government-buildings-in-the-south-of-the-country.json)  [XML](/news/2010/05/13/supporters-of-ousted-kyrgyz-president-kurmanbek-bakiyev-seize-government-buildings-in-the-south-of-the-country.xml)  
+
 ### [2010-05-13](/news/2010/05/13/index.md)
 
+##### Kyrgyzstan
 # Supporters of ousted Kyrgyz President Kurmanbek Bakiyev seize government buildings in the south of the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hIuHnhmh5l0xZtebqSqKYuCP7Opg)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8679258.stm)

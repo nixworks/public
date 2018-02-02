@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/13/the-united-nations-is-to-evacuate-some-staff-from-sudan-s-west-darfur-state-because-of-an-increase-in-violence-u-n-officials-said-that-th.html)  [JSON](/news/2005/10/13/the-united-nations-is-to-evacuate-some-staff-from-sudan-s-west-darfur-state-because-of-an-increase-in-violence-u-n-officials-said-that-th.json)  [XML](/news/2005/10/13/the-united-nations-is-to-evacuate-some-staff-from-sudan-s-west-darfur-state-because-of-an-increase-in-violence-u-n-officials-said-that-th.xml)  
+
 ### [2005-10-13](/news/2005/10/13/index.md)
 
+##### United Nations
 #  The United Nations is to evacuate some staff from Sudan's West Darfur state because of an increase in violence. U.N. officials said that the violence had hindered aid access to 650,000 refugees in the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L1373226.htm)
 

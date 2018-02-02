@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/10/new-evacuations-are-ordered-as-the-fires-spread
 
 ### [2017-12-10](/news/2017/12/10/index.md)
 
+##### California wildfires
 # New evacuations are ordered as the fires spread toward a string of California coastal cities. Santa Ana winds and rugged mountain terrain continue to hamper firefighting efforts. Authorities report the Thomas Fire is only 15 percent contained. 
 
  A massive California wildfire that has already destroyed nearly 800 structures scorched another 56,000 acres on Sunday, making it the fifth largest such blaze 
@@ -20,4 +21,4 @@ Formats: [HTML](/news/2017/12/10/new-evacuations-are-ordered-as-the-fires-spread
 2. [The Thomas Fire becomes the largest in Californian state history. ](/news/2017/12/23/the-thomas-fire-becomes-the-largest-in-californian-state-history.md) _Context: California, Thomas Fire_
 3. [ More evacuations are ordered as surging Santa Ana winds drive the 40-percent contained Thomas Fire, now the third-largest in California history, further westward in Santa Barbara County. ](/news/2017/12/16/more-evacuations-are-ordered-as-surging-santa-ana-winds-drive-the-40-percent-contained-thomas-fire-now-the-third-largest-in-california-his.md) _Context: Santa Ana winds, Thomas Fire_
 4. [The Thomas Fire is the fifth largest in modern Californian history. ](/news/2017/12/11/the-thomas-fire-is-the-fifth-largest-in-modern-californian-history.md) _Context: California, Thomas Fire_
-5. [Munich Re reports that the insurance industry faces record claims of US$135 billion from natural catastrophes, such as the Mexico earthquakes, South Asian floods, California wildfires and Atlantic hurricanes in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. ](/news/2018/01/4/munich-re-reports-that-the-insurance-industry-faces-record-claims-of-us-135-billion-from-natural-catastrophes-such-as-the-mexico-earthquake.md) _Context: California wildfires_
+5. [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md) _Context: California_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/6/a-french-court-does-not-order-the-custody-of-sul
 
 ### [2017-12-6](/news/2017/12/6/index.md)
 
+##### Crime in France
 # A French court does not order the custody of Suleyman Kerimov but sets a EUR40 million bail and tighter controls. Kerimov was arrested on November 21 in a money laundering and tax fraud case. 
 
 The court has increased the bail for the Russian senator from 5 mln to 40 mln euros

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/25/george-best-the-northern-irish-international-footballer-who-won-the-european-footballer-of-the-year-award-in-1968-has-died-of-lung-infect.html)  [JSON](/news/2005/11/25/george-best-the-northern-irish-international-footballer-who-won-the-european-footballer-of-the-year-award-in-1968-has-died-of-lung-infect.json)  [XML](/news/2005/11/25/george-best-the-northern-irish-international-footballer-who-won-the-european-footballer-of-the-year-award-in-1968-has-died-of-lung-infect.xml)  
+
 ### [2005-11-25](/news/2005/11/25/index.md)
 
+##### George Best
 #  George Best, the Northern Irish international footballer who won the European Footballer of the Year award in 1968, has died of lung infection and organ failure at the age of 59. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/4380332.stm)
 

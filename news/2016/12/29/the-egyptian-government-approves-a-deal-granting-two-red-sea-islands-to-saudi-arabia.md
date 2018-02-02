@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/29/the-egyptian-government-approves-a-deal-grantin
 
 ### [2016-12-29](/news/2016/12/29/index.md)
 
+##### 
 # The Egyptian government approves a deal granting two Red Sea islands to Saudi Arabia. 
 
 

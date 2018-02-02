@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/17/king-of-morocco-mohammed-vi-announces-constitutional-reforms-with-a-referendum-to-be-held-on-july-1.html)  [JSON](/news/2011/06/17/king-of-morocco-mohammed-vi-announces-constitutional-reforms-with-a-referendum-to-be-held-on-july-1.json)  [XML](/news/2011/06/17/king-of-morocco-mohammed-vi-announces-constitutional-reforms-with-a-referendum-to-be-held-on-july-1.xml)  
+
 ### [2011-06-17](/news/2011/06/17/index.md)
 
+##### King
 # King of Morocco Mohammed VI announces constitutional reforms with a referendum to be held on July 1. 
 
 King Mohammed VI proposes constitutional changes that will whittle down his powers, but keep his role as power-broker.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/africa/2011/06/2011617172114510513.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/9/201139211124935954_20.jpg)

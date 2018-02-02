@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/2/the-ugandan-army-announces-it-has-killed-bok-abudema-a-senior-member-of-the-lord-s-resistance-army-in-the-central-african-republic.html)  [JSON](/news/2010/01/2/the-ugandan-army-announces-it-has-killed-bok-abudema-a-senior-member-of-the-lord-s-resistance-army-in-the-central-african-republic.json)  [XML](/news/2010/01/2/the-ugandan-army-announces-it-has-killed-bok-abudema-a-senior-member-of-the-lord-s-resistance-army-in-the-central-african-republic.xml)  
+
 ### [2010-01-2](/news/2010/01/2/index.md)
 
+##### Uganda
 # The Ugandan army announces it has killed Bok Abudema, a senior member of the Lord's Resistance Army, in the Central African Republic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gTqD26AXUORJLz_8xPBR-F6P0xiQ)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8437886.stm)

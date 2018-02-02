@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/19/colombian-foreign-minister-maria-consuelo-araujo-resigns-days-after-the-arrest-of-her-brother-senator-alvaro-araujo-in-the-country-s-ongo.html)  [JSON](/news/2007/02/19/colombian-foreign-minister-maria-consuelo-araujo-resigns-days-after-the-arrest-of-her-brother-senator-alvaro-araujo-in-the-country-s-ongo.json)  [XML](/news/2007/02/19/colombian-foreign-minister-maria-consuelo-araujo-resigns-days-after-the-arrest-of-her-brother-senator-alvaro-araujo-in-the-country-s-ongo.xml)  
+
 ### [2007-02-19](/news/2007/02/19/index.md)
 
+##### Colombia
 #  Colombian foreign minister Mara Consuelo Arajo resigns days after the arrest of her brother, Senator lvaro Arajo, in the country's ongoing para-political scandal. President lvaro Uribe Vlez appoints Fernando Arajo as the new Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6376359.stm)
 2. [El Tiempo](http://www.eltiempo.com/politica/2007-02-19/ARTICULO-WEB-NOTA_INTERIOR-3445001.html)

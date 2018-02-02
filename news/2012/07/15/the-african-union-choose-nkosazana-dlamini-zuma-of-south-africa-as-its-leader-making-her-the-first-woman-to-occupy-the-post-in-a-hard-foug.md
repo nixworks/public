@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/15/the-african-union-choose-nkosazana-dlamini-zuma-of-south-africa-as-its-leader-making-her-the-first-woman-to-occupy-the-post-in-a-hard-foug.html)  [JSON](/news/2012/07/15/the-african-union-choose-nkosazana-dlamini-zuma-of-south-africa-as-its-leader-making-her-the-first-woman-to-occupy-the-post-in-a-hard-foug.json)  [XML](/news/2012/07/15/the-african-union-choose-nkosazana-dlamini-zuma-of-south-africa-as-its-leader-making-her-the-first-woman-to-occupy-the-post-in-a-hard-foug.xml)  
+
 ### [2012-07-15](/news/2012/07/15/index.md)
 
+##### African Union
 # The African Union choose Nkosazana Dlamini-Zuma of South Africa as its leader, making her the first woman to occupy the post, in a hard fought battle with incumbent Jean Ping of Gabon. 
 
 The African Union breaks months of deadlock over its choice of leader, electing Nkosazana Dlamini-Zuma as its first woman leader.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18846210)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61586000/jpg/_61586505_61585564.jpg)

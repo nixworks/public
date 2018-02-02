@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/23/two-indonesian-men-are-publicly-caned-by-local-
 
 ### [2017-05-23](/news/2017/05/23/index.md)
 
+##### LGBT rights in Indonesia
 # Two Indonesian men are publicly caned by local authorities in Aceh on accusation of illegal homosexual intercourse. 
 
 Hooded men inflicted 82 lashes on each of the men as hundreds of people watched.

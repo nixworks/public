@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/20/elizabeth-ramos-and-louis-williams-owners-of-defense-contracting-company-technical-logistics-admit-to-bribing-an-employee-of-the-u-s-nav.html)  [JSON](/news/2009/08/20/elizabeth-ramos-and-louis-williams-owners-of-defense-contracting-company-technical-logistics-admit-to-bribing-an-employee-of-the-u-s-nav.json)  [XML](/news/2009/08/20/elizabeth-ramos-and-louis-williams-owners-of-defense-contracting-company-technical-logistics-admit-to-bribing-an-employee-of-the-u-s-nav.xml)  
+
 ### [2009-08-20](/news/2009/08/20/index.md)
 
+##### U.S. Navy
 #  Elizabeth Ramos and Louis Williams, owners of defense contracting company Technical Logistics, admit to bribing an employee of the U.S. Navy's Space and Naval Warfare Systems Command in exchange for defense contracts. 
 
 A couple who own a California defense contracting company have admitted bribing an employee of a Navy installation in San Diego.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/2009/08/20/Couple-admit-bribes-for-defense-contracts/UPI-34401250826069/)
 

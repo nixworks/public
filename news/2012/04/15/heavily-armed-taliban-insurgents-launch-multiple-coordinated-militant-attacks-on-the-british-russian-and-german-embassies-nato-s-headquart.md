@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/15/heavily-armed-taliban-insurgents-launch-multiple-coordinated-militant-attacks-on-the-british-russian-and-german-embassies-nato-s-headquart.html)  [JSON](/news/2012/04/15/heavily-armed-taliban-insurgents-launch-multiple-coordinated-militant-attacks-on-the-british-russian-and-german-embassies-nato-s-headquart.json)  [XML](/news/2012/04/15/heavily-armed-taliban-insurgents-launch-multiple-coordinated-militant-attacks-on-the-british-russian-and-german-embassies-nato-s-headquart.xml)  
+
 ### [2012-04-15](/news/2012/04/15/index.md)
 
+##### Taliban
 # Heavily armed Taliban insurgents launch multiple coordinated militant attacks on the British, Russian and German embassies, NATO's headquarters, military bases and the Afghan parliament in central Kabul, Afghanistan, and other cities, including Jalalabad and Gardez. 
 
 At least 17 insurgents and two Afghan security force members are killed as the Taliban stage attacks across Afghanistan at the start of a &quot;spring offensive&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17719956)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/afghanistan/9205318/Afghanistan-Taliban-insurgents-attack-embassies-and-Nato-headquarters-in-Kabul.html)

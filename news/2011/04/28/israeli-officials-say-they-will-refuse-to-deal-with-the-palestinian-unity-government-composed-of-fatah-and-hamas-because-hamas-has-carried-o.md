@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/28/israeli-officials-say-they-will-refuse-to-deal-with-the-palestinian-unity-government-composed-of-fatah-and-hamas-because-hamas-has-carried-o.html)  [JSON](/news/2011/04/28/israeli-officials-say-they-will-refuse-to-deal-with-the-palestinian-unity-government-composed-of-fatah-and-hamas-because-hamas-has-carried-o.json)  [XML](/news/2011/04/28/israeli-officials-say-they-will-refuse-to-deal-with-the-palestinian-unity-government-composed-of-fatah-and-hamas-because-hamas-has-carried-o.xml)  
+
 ### [2011-04-28](/news/2011/04/28/index.md)
 
+##### Israel
 # Israeli officials say they will refuse to deal with the Palestinian unity government composed of Fatah and Hamas because Hamas has carried out bombings and rocket attacks against Israel for years and does not recognise its right to exist.
 
 Netanyahu huddles with top officials to discuss diplomatic, security impact of Abbas’s embrace of &quot;most extreme, violent enemies of peace.&quot;
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/201142817747522257.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13221843)

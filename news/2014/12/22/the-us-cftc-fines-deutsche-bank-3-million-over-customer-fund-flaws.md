@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/22/the-us-cftc-fines-deutsche-bank-3-million-over-customer-fund-flaws.html)  [JSON](/news/2014/12/22/the-us-cftc-fines-deutsche-bank-3-million-over-customer-fund-flaws.json)  [XML](/news/2014/12/22/the-us-cftc-fines-deutsche-bank-3-million-over-customer-fund-flaws.xml)  
+
 ### [2014-12-22](/news/2014/12/22/index.md)
 
+##### CFTC
 # The US CFTC fines Deutsche Bank $3 million over customer fund flaws. 
 
 The U.S. Commodity Futures Trading Commission on Monday ordered Deutsche Bank to pay a $3 million fine over charges that it had failed to properly invest customer funds and had made other mistakes in the process.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via FOX Business](http://www.foxbusiness.com/economy-policy/2014/12/22/us-cftc-fines-deutsche-bank-3b-over-customer-fund-flaws)
 1. [Cover Image](http://global.fncstatic.com/static/cq/fb/img/all/og-fox-business.png)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/22/brett-favre-played-one-of-the-most-memorable-games-of-his-career-leading-the-green-bay-packers-to-a-win-over-the-oakland-raiders-41-7-th.html)  [JSON](/news/2003/12/22/brett-favre-played-one-of-the-most-memorable-games-of-his-career-leading-the-green-bay-packers-to-a-win-over-the-oakland-raiders-41-7-th.json)  [XML](/news/2003/12/22/brett-favre-played-one-of-the-most-memorable-games-of-his-career-leading-the-green-bay-packers-to-a-win-over-the-oakland-raiders-41-7-th.xml)  
+
 ### [2003-12-22](/news/2003/12/22/index.md)
 
+##### Brett Favre
 #  Brett Favre played one of the most memorable games of his career, leading the Green Bay Packers to a win over the Oakland Raiders, 41-7, the day after the death of his father, Irvin.
 
 

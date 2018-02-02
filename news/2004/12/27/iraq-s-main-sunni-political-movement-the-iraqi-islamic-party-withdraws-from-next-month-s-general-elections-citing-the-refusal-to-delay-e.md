@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/27/iraq-s-main-sunni-political-movement-the-iraqi-islamic-party-withdraws-from-next-month-s-general-elections-citing-the-refusal-to-delay-e.html)  [JSON](/news/2004/12/27/iraq-s-main-sunni-political-movement-the-iraqi-islamic-party-withdraws-from-next-month-s-general-elections-citing-the-refusal-to-delay-e.json)  [XML](/news/2004/12/27/iraq-s-main-sunni-political-movement-the-iraqi-islamic-party-withdraws-from-next-month-s-general-elections-citing-the-refusal-to-delay-e.xml)  
+
 ### [2004-12-27](/news/2004/12/27/index.md)
 
+##### Iraq
 #  Iraq's main Sunni political movement, the Iraqi Islamic Party, withdraws from next month's general elections, citing the refusal to delay elections until all parts of Iraq could participate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4127279.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4127623.stm)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/8/at-least-seven-people-are-killed-including-five-
 
 ### [2016-04-8](/news/2016/04/8/index.md)
 
+##### Sinai insurgency
 # At least seven people are killed, including five Egyptian Army soldiers, a military officer and a civilian woman in two separate blasts in Egypt's Sinai Peninsula. ISIL's Sinai branch claimed responsibility for the attacks on several websites. 
 
 At least five Egyptian soldiers, a military officer and a civilian woman were killed, and 15 injured, on Thursday in the Sinai peninsula, after armored personnel carriers exploded in two separate incidents, security and medical sources said.

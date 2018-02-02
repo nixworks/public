@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2014/11/13/the-investigation-team-extends-its-deadline-by-another-nine-months-to-august-2015-due-to-difficulties-in-accessing-the-crash-site.html)  [JSON](/news/2014/11/13/the-investigation-team-extends-its-deadline-by-another-nine-months-to-august-2015-due-to-difficulties-in-accessing-the-crash-site.json)  [XML](/news/2014/11/13/the-investigation-team-extends-its-deadline-by-another-nine-months-to-august-2015-due-to-difficulties-in-accessing-the-crash-site.xml)  
+
 ### [2014-11-13](/news/2014/11/13/index.md)
 
+##### Malaysia Airlines Flight 17
 # The investigation team extends its deadline by another nine months to August 2015 due to difficulties in accessing the crash site. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/in-depth/mh17/mh17-crash-investigation-extended-nine-months/story-fno88it0-1227121706104)
+
+### Changes:
+
+1. [Malaysia Airlines Flight 17: The investigation team extends its deadline by another nine months to August 2015 due to difficulties in accessing the crash site. ](/news/2014/11/13/malaysia-airlines-flight-17-the-investigation-team-extends-its-deadline-by-another-nine-months-to-august-2015-due-to-difficulties-in-access.md) _2017-08-27 03:41:30 (First version)_
+1. [The investigation team extends its deadline by another nine months to August 2015 due to difficulties in accessing the crash site. ](/news/2014/11/13/the-investigation-team-extends-its-deadline-by-another-nine-months-to-august-2015-due-to-difficulties-in-accessing-the-crash-site.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Debris from a Buk surface-to-air missile is found at an unspecified location in eastern Ukraine. According to the Dutch Safety Board and the Dutch prosecutor overseeing the criminal investigation, it may have come from a Buk (possibly of Russian origin) fired by rebel fighters, accidentally or purposefully, in the downing of Malaysia Airlines Flight 17. The investigation remains classified. ](/news/2015/08/11/debris-from-a-buk-surface-to-air-missile-is-found-at-an-unspecified-location-in-eastern-ukraine-according-to-the-dutch-safety-board-and-the.md) _Context: Malaysia Airlines Flight 17_
 4. [Russia vetoes a U.N. Security Council resolution that would have established an international criminal tribunal to investigate the downing of Malaysia Airlines Flight 17. ](/news/2015/07/30/russia-vetoes-a-u-n-security-council-resolution-that-would-have-established-an-international-criminal-tribunal-to-investigate-the-downing-o.md) _Context: Malaysia Airlines Flight 17_
 5. [A preliminary report from the Dutch Safety Board of the investigation of the Malaysia Airlines Flight 17 (MH17) disaster points to pro-Russian rebels as being responsible for the shooting down of the passenger flight on 17 July 2014. ](/news/2015/07/15/a-preliminary-report-from-the-dutch-safety-board-of-the-investigation-of-the-malaysia-airlines-flight-17-mh17-disaster-points-to-pro-russi.md) _Context: Malaysia Airlines Flight 17_
-
-### Changes:
-
-1. [Malaysia Airlines Flight 17: The investigation team extends its deadline by another nine months to August 2015 due to difficulties in accessing the crash site. ](/news/2014/11/13/malaysia-airlines-flight-17-the-investigation-team-extends-its-deadline-by-another-nine-months-to-august-2015-due-to-difficulties-in-access.md) _2017-08-27 03:41:30 (First version)_
-1. [The investigation team extends its deadline by another nine months to August 2015 due to difficulties in accessing the crash site. ](/news/2014/11/13/the-investigation-team-extends-its-deadline-by-another-nine-months-to-august-2015-due-to-difficulties-in-accessing-the-crash-site.md) _(Current version)_

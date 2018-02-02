@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/8/the-new-jersey-legislature-passes-a-bill-creating-a-domestic-partnership-status-for-same-sex-couples-with-many-of-the-same-legal-rights-as.html)  [JSON](/news/2004/01/8/the-new-jersey-legislature-passes-a-bill-creating-a-domestic-partnership-status-for-same-sex-couples-with-many-of-the-same-legal-rights-as.json)  [XML](/news/2004/01/8/the-new-jersey-legislature-passes-a-bill-creating-a-domestic-partnership-status-for-same-sex-couples-with-many-of-the-same-legal-rights-as.xml)  
+
 ### [2004-01-8](/news/2004/01/8/index.md)
 
+##### New Jersey
 #  The New Jersey legislature passes a bill creating a domestic partnership status for same-sex couples, with many of the same legal rights as marriage. It becomes the fifth U.S. state to offer such a status to same-sex couples.
 
 

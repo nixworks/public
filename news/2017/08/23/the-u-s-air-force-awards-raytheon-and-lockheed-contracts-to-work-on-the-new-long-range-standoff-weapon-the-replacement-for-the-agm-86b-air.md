@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/08/23/the-u-s-air-force-awards-raytheon-and-lockheed-contracts-to-work-on-the-new-long-range-standoff-weapon-the-replacement-for-the-agm-86b-air.html)  [JSON](/news/2017/08/23/the-u-s-air-force-awards-raytheon-and-lockheed-contracts-to-work-on-the-new-long-range-standoff-weapon-the-replacement-for-the-agm-86b-air.json)  [XML](/news/2017/08/23/the-u-s-air-force-awards-raytheon-and-lockheed-contracts-to-work-on-the-new-long-range-standoff-weapon-the-replacement-for-the-agm-86b-air.xml)  
+
 ### [2017-08-23](/news/2017/08/23/index.md)
 
+##### Nuclear weapons and the United States
 # The U.S. Air Force awards Raytheon and Lockheed contracts to work on the new Long Range Standoff weapon, the replacement for the AGM-86B air-launched nuclear cruise missile. 
 
 The U.S. Air Force has awarded Lockheed Martin Corp and Raytheon Co separate $900 million contracts to continue work on a replacement for the AGM-86B air-launched nuclear cruise missile, the Pentagon said on Wednesday.

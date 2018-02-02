@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/1/the-world-rings-in-2005-some-nations-observe-a-moment-of-silence-with-candles-and-white-roses-for-the-at-least-150-000-dead-and-5-000-000.html)  [JSON](/news/2005/01/1/the-world-rings-in-2005-some-nations-observe-a-moment-of-silence-with-candles-and-white-roses-for-the-at-least-150-000-dead-and-5-000-000.json)  [XML](/news/2005/01/1/the-world-rings-in-2005-some-nations-observe-a-moment-of-silence-with-candles-and-white-roses-for-the-at-least-150-000-dead-and-5-000-000.xml)  
+
 ### [2005-01-1](/news/2005/01/1/index.md)
 
+##### 2005
 #  The world rings in 2005. Some nations observe a moment of silence with candles and white roses for the at least 150,000 dead and 5,000,000 left homeless after the 26 December tsunamis. In many countries flags are flown at half staff. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=646937)
 

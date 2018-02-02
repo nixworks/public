@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/31/united-states-president-george-w-bush-visits-the-location-of-the-former-death-camp-at-auschwitz-he-is-only-the-second-president-to-do-so.html)  [JSON](/news/2003/05/31/united-states-president-george-w-bush-visits-the-location-of-the-former-death-camp-at-auschwitz-he-is-only-the-second-president-to-do-so.json)  [XML](/news/2003/05/31/united-states-president-george-w-bush-visits-the-location-of-the-former-death-camp-at-auschwitz-he-is-only-the-second-president-to-do-so.xml)  
+
 ### [2003-05-31](/news/2003/05/31/index.md)
 
+##### President of the United States of America
 #  United States President George W. Bush visits the location of the former death camp at Auschwitz. He is only the second president to do so, after Gerald Ford toured the camp in 1975.
 
 

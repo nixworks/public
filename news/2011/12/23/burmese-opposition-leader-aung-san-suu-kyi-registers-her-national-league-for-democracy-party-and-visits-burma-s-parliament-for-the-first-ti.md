@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/23/burmese-opposition-leader-aung-san-suu-kyi-registers-her-national-league-for-democracy-party-and-visits-burma-s-parliament-for-the-first-ti.html)  [JSON](/news/2011/12/23/burmese-opposition-leader-aung-san-suu-kyi-registers-her-national-league-for-democracy-party-and-visits-burma-s-parliament-for-the-first-ti.json)  [XML](/news/2011/12/23/burmese-opposition-leader-aung-san-suu-kyi-registers-her-national-league-for-democracy-party-and-visits-burma-s-parliament-for-the-first-ti.xml)  
+
 ### [2011-12-23](/news/2011/12/23/index.md)
 
+##### Burma
 # Burmese opposition leader Aung San Suu Kyi registers her National League for Democracy party, and visits Burma's parliament for the first time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/world-news/Myanmar/Suu-Kyi-registers-party-makes-first-parliament-visit/Article1-786077.aspx)
 

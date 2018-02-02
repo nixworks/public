@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/24/prime-minister-of-australia-kevin-rudd-steps-down-after-his-leadership-is-contested-following-considerable-drops-in-popularity-in-polls-in-r.html)  [JSON](/news/2010/06/24/prime-minister-of-australia-kevin-rudd-steps-down-after-his-leadership-is-contested-following-considerable-drops-in-popularity-in-polls-in-r.json)  [XML](/news/2010/06/24/prime-minister-of-australia-kevin-rudd-steps-down-after-his-leadership-is-contested-following-considerable-drops-in-popularity-in-polls-in-r.xml)  
+
 ### [2010-06-24](/news/2010/06/24/index.md)
 
+##### Australian Prime Minister
 # Prime Minister of Australia Kevin Rudd steps down after his leadership is contested following considerable drops in popularity in polls in recent months. Julia Gillard becomes Australia's first female Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SMH](http://www.smh.com.au/national/gillard--to-become-australias-first-female-prime-minister-as-rudd-stands-aside-20100624-yzvw.html?autostart=1)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/z/0/d/e/image.related.articleLeadwide.620x349.yzvw.png/1277436505263.jpg)

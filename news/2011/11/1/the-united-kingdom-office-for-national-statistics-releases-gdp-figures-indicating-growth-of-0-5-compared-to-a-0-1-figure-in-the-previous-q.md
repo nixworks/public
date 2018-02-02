@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/1/the-united-kingdom-office-for-national-statistics-releases-gdp-figures-indicating-growth-of-0-5-compared-to-a-0-1-figure-in-the-previous-q.html)  [JSON](/news/2011/11/1/the-united-kingdom-office-for-national-statistics-releases-gdp-figures-indicating-growth-of-0-5-compared-to-a-0-1-figure-in-the-previous-q.json)  [XML](/news/2011/11/1/the-united-kingdom-office-for-national-statistics-releases-gdp-figures-indicating-growth-of-0-5-compared-to-a-0-1-figure-in-the-previous-q.xml)  
+
 ### [2011-11-1](/news/2011/11/1/index.md)
 
+##### Office for National Statistics
 # The United Kingdom Office for National Statistics releases GDP figures indicating growth of 0.5% compared to a 0.1% figure in the previous quarter. 
 
 The UK economy grew by 0.5% in the third quarter of 2011, official figures show, faster than the 0.1% rate seen in the previous quarter.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-15535518)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54835000/jpg/_54835556_006887773-1.jpg)

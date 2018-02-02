@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/24/china-energy-conservation-and-environmental-protection-group-invests-rmb-30-billion-offshore-in-a-wind-farm-project-in-liaoning-province-of.html)  [JSON](/news/2010/09/24/china-energy-conservation-and-environmental-protection-group-invests-rmb-30-billion-offshore-in-a-wind-farm-project-in-liaoning-province-of.json)  [XML](/news/2010/09/24/china-energy-conservation-and-environmental-protection-group-invests-rmb-30-billion-offshore-in-a-wind-farm-project-in-liaoning-province-of.xml)  
+
 ### [2010-09-24](/news/2010/09/24/index.md)
 
+##### China Energy Conservation and Environmental Protection Group
 # China Energy Conservation and Environmental Protection Group invests RMB 30 billion offshore in a wind farm project in Liaoning province of northern China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business China](http://en.21cbh.com/HTML/2010-9-21/5MMDAwMDE5ODY5MQ.html)
 

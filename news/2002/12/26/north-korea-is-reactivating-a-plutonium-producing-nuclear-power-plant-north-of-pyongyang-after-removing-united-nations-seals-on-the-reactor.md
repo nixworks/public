@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/26/north-korea-is-reactivating-a-plutonium-producing-nuclear-power-plant-north-of-pyongyang-after-removing-united-nations-seals-on-the-reactor.html)  [JSON](/news/2002/12/26/north-korea-is-reactivating-a-plutonium-producing-nuclear-power-plant-north-of-pyongyang-after-removing-united-nations-seals-on-the-reactor.json)  [XML](/news/2002/12/26/north-korea-is-reactivating-a-plutonium-producing-nuclear-power-plant-north-of-pyongyang-after-removing-united-nations-seals-on-the-reactor.xml)  
+
 ### [2002-12-26](/news/2002/12/26/index.md)
 
+##### North Korea
 # North Korea is reactivating a plutonium producing nuclear power plant north of Pyongyang after removing United Nations seals on the reactor and degrading the capability of surveillance cameras. This same reactor is thought by U.S. officials as the source for plutonium for two previously produced atomic bombs. North Korea has been named by the George W. Bush Administration as part of the so-called "axis of evil".
 
 

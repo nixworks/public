@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/31/antananarivo-mayor-andry-rajoelina-declares-himself-in-charge-of-madagascar.html)  [JSON](/news/2009/01/31/antananarivo-mayor-andry-rajoelina-declares-himself-in-charge-of-madagascar.json)  [XML](/news/2009/01/31/antananarivo-mayor-andry-rajoelina-declares-himself-in-charge-of-madagascar.xml)  
+
 ### [2009-01-31](/news/2009/01/31/index.md)
 
+##### Antananarivo
 #  Antananarivo Mayor Andry Rajoelina declares himself "in charge" of Madagascar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7862495.stm)
 

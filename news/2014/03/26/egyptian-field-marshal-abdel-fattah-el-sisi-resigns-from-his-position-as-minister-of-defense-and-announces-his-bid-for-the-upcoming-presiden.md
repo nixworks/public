@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/03/26/egyptian-field-marshal-abdel-fattah-el-sisi-resigns-from-his-position-as-minister-of-defense-and-announces-his-bid-for-the-upcoming-presiden.html)  [JSON](/news/2014/03/26/egyptian-field-marshal-abdel-fattah-el-sisi-resigns-from-his-position-as-minister-of-defense-and-announces-his-bid-for-the-upcoming-presiden.json)  [XML](/news/2014/03/26/egyptian-field-marshal-abdel-fattah-el-sisi-resigns-from-his-position-as-minister-of-defense-and-announces-his-bid-for-the-upcoming-presiden.xml)  
+
 ### [2014-03-26](/news/2014/03/26/index.md)
 
+##### Egypt
 # Egyptian Field Marshal Abdel Fattah el-Sisi resigns from his position as Minister of Defense and announces his bid for the upcoming presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/03/26/us-egypt-sisi-idUSBREA2P0XE20140326)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140326&t=2&i=870931194&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA2P1SJL00)
+1. [Reuters](https://www.reuters.com/article/2014/03/26/us-egypt-sisi-idUSBREA2P0XE20140326)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140326&t=2&i=870931194&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA2P1SJL00)
 
 ### Related:
 

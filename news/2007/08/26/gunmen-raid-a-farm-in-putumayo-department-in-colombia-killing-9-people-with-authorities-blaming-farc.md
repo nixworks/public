@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/26/gunmen-raid-a-farm-in-putumayo-department-in-colombia-killing-9-people-with-authorities-blaming-farc.html)  [JSON](/news/2007/08/26/gunmen-raid-a-farm-in-putumayo-department-in-colombia-killing-9-people-with-authorities-blaming-farc.json)  [XML](/news/2007/08/26/gunmen-raid-a-farm-in-putumayo-department-in-colombia-killing-9-people-with-authorities-blaming-farc.xml)  
+
 ### [2007-08-26](/news/2007/08/26/index.md)
 
+##### Putumayo
 #  Gunmen raid a farm in Putumayo Department in Colombia killing 9 people with authorities blaming FARC. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press in International Herald Tribune](http://www.iht.com/articles/ap/2007/08/27/america/LA-GEN-Colombia-Massacre.php)
 

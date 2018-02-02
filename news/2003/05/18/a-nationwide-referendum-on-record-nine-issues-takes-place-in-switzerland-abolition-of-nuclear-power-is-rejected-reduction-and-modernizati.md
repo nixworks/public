@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/18/a-nationwide-referendum-on-record-nine-issues-takes-place-in-switzerland-abolition-of-nuclear-power-is-rejected-reduction-and-modernizati.html)  [JSON](/news/2003/05/18/a-nationwide-referendum-on-record-nine-issues-takes-place-in-switzerland-abolition-of-nuclear-power-is-rejected-reduction-and-modernizati.json)  [XML](/news/2003/05/18/a-nationwide-referendum-on-record-nine-issues-takes-place-in-switzerland-abolition-of-nuclear-power-is-rejected-reduction-and-modernizati.xml)  
+
 ### [2003-05-18](/news/2003/05/18/index.md)
 
+##### referendum
 #  A nationwide referendum on record nine issues takes place in Switzerland. Abolition of nuclear power is rejected. Reduction and modernization of army is approved. It ends requirement of nuclear bunker in every home and famous bicycle brigade.
 
 

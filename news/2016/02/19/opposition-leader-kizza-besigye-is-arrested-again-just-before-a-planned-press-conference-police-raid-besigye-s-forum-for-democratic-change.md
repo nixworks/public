@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/19/opposition-leader-kizza-besigye-is-arrested-aga
 
 ### [2016-02-19](/news/2016/02/19/index.md)
 
+##### Ugandan general election, 2016
 # Opposition leader Kizza Besigye is arrested again just before a planned press conference. Police raid Besigye's Forum for Democratic Change party headquarters and fire tear gas at the FDC supporters. Partial results from the electoral commission show a lead for incumbent president Yoweri Museveni. 
 
 

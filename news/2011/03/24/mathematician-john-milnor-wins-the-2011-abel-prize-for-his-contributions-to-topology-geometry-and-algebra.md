@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/24/mathematician-john-milnor-wins-the-2011-abel-prize-for-his-contributions-to-topology-geometry-and-algebra.html)  [JSON](/news/2011/03/24/mathematician-john-milnor-wins-the-2011-abel-prize-for-his-contributions-to-topology-geometry-and-algebra.json)  [XML](/news/2011/03/24/mathematician-john-milnor-wins-the-2011-abel-prize-for-his-contributions-to-topology-geometry-and-algebra.xml)  
+
 ### [2011-03-24](/news/2011/03/24/index.md)
 
+##### John Milnor
 # Mathematician John Milnor wins the 2011 Abel Prize for his contributions to topology, geometry and algebra. 
 
 The Norwegian Academy of Science and Letters has chosen one of the living legends of mathematics, John Willard Milnor of the Institute for Mathematical Sciences in the University of Stony Brook, U.S.A
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/sci-tech/science/article1565424.ece)
 1. [Cover Image](http://www.thehindu.com/migration_catalog/article14922713.ece/ALTERNATES/LANDSCAPE_615/John_Milnor.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/25/liechtenstein-recognizes-kosovo-as-an-independent-state.html)  [JSON](/news/2008/03/25/liechtenstein-recognizes-kosovo-as-an-independent-state.json)  [XML](/news/2008/03/25/liechtenstein-recognizes-kosovo-as-an-independent-state.xml)  
+
 ### [2008-03-25](/news/2008/03/25/index.md)
 
+##### Liechtenstein
 #  Liechtenstein recognizes Kosovo as an independent state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Government of Liechtenstein](http://www.llv.li/amtsstellen/llv-pia-pressemitteilungen/pressemitteilungen-alt.htm?pmid=108807&lpid=3789&imainpos=15844)
 

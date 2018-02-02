@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/2/a-mass-shooting-at-oikos-university-at-oakland-california-leaves-7-people-dead-and-three-injured-according-to-a-police-spokesperson.html)  [JSON](/news/2012/04/2/a-mass-shooting-at-oikos-university-at-oakland-california-leaves-7-people-dead-and-three-injured-according-to-a-police-spokesperson.json)  [XML](/news/2012/04/2/a-mass-shooting-at-oikos-university-at-oakland-california-leaves-7-people-dead-and-three-injured-according-to-a-police-spokesperson.xml)  
+
 ### [2012-04-2](/news/2012/04/2/index.md)
 
+##### Oikos University shooting
 # A mass shooting at Oikos University at Oakland, California leaves 7 people dead and three injured, according to a police spokesperson. 
 
 A 43-year-old former student is arrested after seven people are shot dead at a private college in Oakland, California, police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17590859)
 2. [CNN](http://news.blogs.cnn.com/2012/04/02/multiple-fatalities-in-shooting-at-california-college-oakland-police-say/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/4/a-court-case-to-challenge-the-overthrow-of-laisenia-qarase-s-government-of-fiji-opens-in-suva.html)  [JSON](/news/2007/10/4/a-court-case-to-challenge-the-overthrow-of-laisenia-qarase-s-government-of-fiji-opens-in-suva.json)  [XML](/news/2007/10/4/a-court-case-to-challenge-the-overthrow-of-laisenia-qarase-s-government-of-fiji-opens-in-suva.xml)  
+
 ### [2007-10-4](/news/2007/10/4/index.md)
 
+##### coup in 2006
 #  A court case to challenge the overthrow of Laisenia Qarase's government of Fiji opens in Suva. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=35558)
 

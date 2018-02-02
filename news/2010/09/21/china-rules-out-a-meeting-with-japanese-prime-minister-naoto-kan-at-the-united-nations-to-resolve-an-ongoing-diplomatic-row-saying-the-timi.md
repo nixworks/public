@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/21/china-rules-out-a-meeting-with-japanese-prime-minister-naoto-kan-at-the-united-nations-to-resolve-an-ongoing-diplomatic-row-saying-the-timi.html)  [JSON](/news/2010/09/21/china-rules-out-a-meeting-with-japanese-prime-minister-naoto-kan-at-the-united-nations-to-resolve-an-ongoing-diplomatic-row-saying-the-timi.json)  [XML](/news/2010/09/21/china-rules-out-a-meeting-with-japanese-prime-minister-naoto-kan-at-the-united-nations-to-resolve-an-ongoing-diplomatic-row-saying-the-timi.xml)  
+
 ### [2010-09-21](/news/2010/09/21/index.md)
 
+##### China
 # China rules out a meeting with Japanese Prime Minister Naoto Kan at the United Nations to resolve an ongoing diplomatic row, saying the timing is "not proper". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gk3wdMIkq8L96kd_dHSTGEdc7MXQ)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100921/news_20100921_56_700027.htm)

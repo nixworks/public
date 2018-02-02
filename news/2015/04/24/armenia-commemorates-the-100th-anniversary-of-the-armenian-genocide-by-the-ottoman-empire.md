@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/24/armenia-commemorates-the-100th-anniversary-of-the-armenian-genocide-by-the-ottoman-empire.html)  [JSON](/news/2015/04/24/armenia-commemorates-the-100th-anniversary-of-the-armenian-genocide-by-the-ottoman-empire.json)  [XML](/news/2015/04/24/armenia-commemorates-the-100th-anniversary-of-the-armenian-genocide-by-the-ottoman-empire.xml)  
+
 ### [2015-04-24](/news/2015/04/24/index.md)
 
+##### Armenia
 # Armenia commemorates the 100th anniversary of the Armenian Genocide by the Ottoman Empire. 
 
 Ceremonies are held in Armenia and around the world to mark the centenary of the start of mass killings of Armenians by Ottoman Turks.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32443266)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82554000/jpg/_82554245_5bpcaka9.jpg)

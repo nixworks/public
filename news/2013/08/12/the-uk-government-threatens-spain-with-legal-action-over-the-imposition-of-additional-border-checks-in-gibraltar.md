@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/12/the-uk-government-threatens-spain-with-legal-action-over-the-imposition-of-additional-border-checks-in-gibraltar.html)  [JSON](/news/2013/08/12/the-uk-government-threatens-spain-with-legal-action-over-the-imposition-of-additional-border-checks-in-gibraltar.json)  [XML](/news/2013/08/12/the-uk-government-threatens-spain-with-legal-action-over-the-imposition-of-additional-border-checks-in-gibraltar.xml)  
+
 ### [2013-08-12](/news/2013/08/12/index.md)
 
+##### 10 Downing Street
 # The UK government threatens Spain with legal action over the imposition of additional border checks in Gibraltar. 
 
 The UK government is considering &quot;unprecedented&quot; legal action against Spain over additional checks at the Gibraltar border.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23668589)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69242000/jpg/_69242708_018913184-1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/30/the-president-of-the-central-bank-of-argentina-resigns-after-a-row-with-the-country-s-president-cristina-fernandez-de-kirchner.html)  [JSON](/news/2010/01/30/the-president-of-the-central-bank-of-argentina-resigns-after-a-row-with-the-country-s-president-cristina-fernandez-de-kirchner.json)  [XML](/news/2010/01/30/the-president-of-the-central-bank-of-argentina-resigns-after-a-row-with-the-country-s-president-cristina-fernandez-de-kirchner.xml)  
+
 ### [2010-01-30](/news/2010/01/30/index.md)
 
+##### Central Bank
 # The President of the Central Bank of Argentina resigns after a row with the country's President, Cristina Fernndez de Kirchner. 
 
 Government rejects resignation
 
 
-### Source:
+### Sources:
 
 1. [Buenos Aires Herald](http://www.buenosairesherald.com/BreakingNews/View/23878)
 2. [The Financial Times](http://www.ft.com/cms/s/0/91e7bf84-0d40-11df-af79-00144feabdc0.html)

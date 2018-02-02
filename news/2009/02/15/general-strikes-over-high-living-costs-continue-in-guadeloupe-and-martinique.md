@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/15/general-strikes-over-high-living-costs-continue-in-guadeloupe-and-martinique.html)  [JSON](/news/2009/02/15/general-strikes-over-high-living-costs-continue-in-guadeloupe-and-martinique.json)  [XML](/news/2009/02/15/general-strikes-over-high-living-costs-continue-in-guadeloupe-and-martinique.xml)  
+
 ### [2009-02-15](/news/2009/02/15/index.md)
 
+##### General strikes
 #  General strikes over high living costs continue in Guadeloupe and Martinique. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/travel/chi-0215-world-watchfeb15,0,2669738.story)
 1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)

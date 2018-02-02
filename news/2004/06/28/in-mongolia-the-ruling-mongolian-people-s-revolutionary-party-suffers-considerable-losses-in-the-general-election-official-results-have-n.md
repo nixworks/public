@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/06/28/in-mongolia-the-ruling-mongolian-people-s-revolutionary-party-suffers-considerable-losses-in-the-general-election-official-results-have-n.html)  [JSON](/news/2004/06/28/in-mongolia-the-ruling-mongolian-people-s-revolutionary-party-suffers-considerable-losses-in-the-general-election-official-results-have-n.json)  [XML](/news/2004/06/28/in-mongolia-the-ruling-mongolian-people-s-revolutionary-party-suffers-considerable-losses-in-the-general-election-official-results-have-n.xml)  
+
 ### [2004-06-28](/news/2004/06/28/index.md)
 
+##### Mongolia
 #  In Mongolia, the ruling Mongolian People's Revolutionary Party suffers considerable losses in the general election. Official results have not yet been announced, and it remains unclear whether the MPRP will retain its majority. The MPRP has accused the opposition of vote rigging, and has refused to concede defeat. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5526426)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5526426)
 2. [Ulaanbaatar Post](http://ubpost.mongolnews.mn/index.php?subaction=showfull&id=1088387315&archive=&cnshow=news&start_from=&ucat=1&)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

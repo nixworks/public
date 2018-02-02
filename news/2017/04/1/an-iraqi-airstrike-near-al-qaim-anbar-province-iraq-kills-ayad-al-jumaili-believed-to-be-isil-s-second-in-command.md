@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/1/an-iraqi-airstrike-near-al-qaim-anbar-province-i
 
 ### [2017-04-1](/news/2017/04/1/index.md)
 
+##### Military intervention against ISIL
 # An Iraqi airstrike near Al Qaim, Anbar province, Iraq, kills Ayad al-Jumaili, believed to be ISIL's second-in-command. 
 
 Ayad al-Jumaili, along with other commanders, killed in air strike in al-Qaim region, Iraqi state TV reports.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/4/in-minsk-about-1-000-opposition-activists-protest-russia-s-plans-to-establish-a-military-air-base-in-belarus-saying-it-would-turn-the-form.html)  [JSON](/news/2015/10/4/in-minsk-about-1-000-opposition-activists-protest-russia-s-plans-to-establish-a-military-air-base-in-belarus-saying-it-would-turn-the-form.json)  [XML](/news/2015/10/4/in-minsk-about-1-000-opposition-activists-protest-russia-s-plans-to-establish-a-military-air-base-in-belarus-saying-it-would-turn-the-form.xml)  
+
 ### [2015-10-4](/news/2015/10/4/index.md)
 
+##### Minsk
 # In Minsk, about 1,000 opposition activists protest Russia's plans to establish a military air base in Belarus, saying it would turn the former Soviet republic into a Kremlin "vassal" and add to regional tensions. Belarussian President Alexander Lukashenko has refrained from commenting on the initiative to establish the base. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2015/10/04/about-1000-belarusian-protesters-decry-planned-russian-air-base/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/10/04/about-1000-belarusian-protesters-decry-planned-russian-air-base/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1443980027495.jpg?ve=1)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/01/6/israeli-prime-minister-ariel-sharon-successfully-undergoes-a-third-round-of-surgery-to-correct-a-rise-in-cranial-pressure.html)  [JSON](/news/2006/01/6/israeli-prime-minister-ariel-sharon-successfully-undergoes-a-third-round-of-surgery-to-correct-a-rise-in-cranial-pressure.json)  [XML](/news/2006/01/6/israeli-prime-minister-ariel-sharon-successfully-undergoes-a-third-round-of-surgery-to-correct-a-rise-in-cranial-pressure.xml)  
+
 ### [2006-01-6](/news/2006/01/6/index.md)
 
+##### Israeli Prime Minister
 #  Israeli Prime Minister Ariel Sharon successfully undergoes a third round of surgery to correct a rise in cranial pressure. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/s/ap/20060106/ap_on_re_mi_ea/israel_sharon_123)
+1. [AP](https://news.yahoo.com/s/ap/20060106/ap_on_re_mi_ea/israel_sharon_123)
 
 ### Related:
 

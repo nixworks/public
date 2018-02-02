@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/05/26/archaeologists-discover-what-they-term-the-world-s-oldest-university-in-alexandria-egypt-it-dates-from-the-5th-century-ad.html)  [JSON](/news/2004/05/26/archaeologists-discover-what-they-term-the-world-s-oldest-university-in-alexandria-egypt-it-dates-from-the-5th-century-ad.json)  [XML](/news/2004/05/26/archaeologists-discover-what-they-term-the-world-s-oldest-university-in-alexandria-egypt-it-dates-from-the-5th-century-ad.xml)  
+
 ### [2004-05-26](/news/2004/05/26/index.md)
 
+##### Archaeologists
 #  Archaeologists discover what they term the 'world's oldest university' in Alexandria, Egypt. It dates from the 5th century AD. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1085609411132&call_pageid=968332188492&col=968705899037)
+1. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1085609411132&call_pageid=968332188492&col=968705899037)
 
 ### Related:
 

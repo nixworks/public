@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/17/italian-police-arrest-fugitive-camorra-crime-boss-antonio-iovine.html)  [JSON](/news/2010/11/17/italian-police-arrest-fugitive-camorra-crime-boss-antonio-iovine.json)  [XML](/news/2010/11/17/italian-police-arrest-fugitive-camorra-crime-boss-antonio-iovine.xml)  
+
 ### [2010-11-17](/news/2010/11/17/index.md)
 
+##### Italian
 # Italian police arrest fugitive Camorra crime boss Antonio Iovine. 
 
 Italian police seize a top mafia boss of the Camorra organised crime syndicate as he attempts to escape by jumping off a balcony north of Naples.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11777486)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

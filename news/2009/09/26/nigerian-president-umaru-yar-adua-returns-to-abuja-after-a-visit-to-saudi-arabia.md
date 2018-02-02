@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/26/nigerian-president-umaru-yar-adua-returns-to-abuja-after-a-visit-to-saudi-arabia.html)  [JSON](/news/2009/09/26/nigerian-president-umaru-yar-adua-returns-to-abuja-after-a-visit-to-saudi-arabia.json)  [XML](/news/2009/09/26/nigerian-president-umaru-yar-adua-returns-to-abuja-after-a-visit-to-saudi-arabia.xml)  
+
 ### [2009-09-26](/news/2009/09/26/index.md)
 
+##### Nigeria
 #  Nigerian President Umaru Yar'Adua returns to Abuja after a visit to Saudi Arabia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=86&art_id=nw20090926132808626C688063)
 

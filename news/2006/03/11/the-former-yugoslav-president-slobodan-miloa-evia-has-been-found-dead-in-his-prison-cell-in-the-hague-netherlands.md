@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/11/the-former-yugoslav-president-slobodan-miloa-evia-has-been-found-dead-in-his-prison-cell-in-the-hague-netherlands.html)  [JSON](/news/2006/03/11/the-former-yugoslav-president-slobodan-miloa-evia-has-been-found-dead-in-his-prison-cell-in-the-hague-netherlands.json)  [XML](/news/2006/03/11/the-former-yugoslav-president-slobodan-miloa-evia-has-been-found-dead-in-his-prison-cell-in-the-hague-netherlands.xml)  
+
 ### [2006-03-11](/news/2006/03/11/index.md)
 
+##### Federal Republic of Yugoslavia
 #  The former Yugoslav president Slobodan Milosevic has been found dead in his prison cell in The Hague, Netherlands. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4796470.stm)
 2. [CNN](http://edition.cnn.com/2006/WORLD/europe/03/11/milosovic/index.html)

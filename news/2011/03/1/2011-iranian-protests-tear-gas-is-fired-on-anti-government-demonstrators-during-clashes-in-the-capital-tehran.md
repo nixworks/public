@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/1/2011-iranian-protests-tear-gas-is-fired-on-anti-government-demonstrators-during-clashes-in-the-capital-tehran.html)  [JSON](/news/2011/03/1/2011-iranian-protests-tear-gas-is-fired-on-anti-government-demonstrators-during-clashes-in-the-capital-tehran.json)  [XML](/news/2011/03/1/2011-iranian-protests-tear-gas-is-fired-on-anti-government-demonstrators-during-clashes-in-the-capital-tehran.xml)  
+
 ### [2011-03-1](/news/2011/03/1/index.md)
 
+##### protestors
 # 2011 Iranian protests: Tear gas is fired on anti-government demonstrators during clashes in the capital Tehran. 
 
 Iran security forces fire tear gas to break up demonstrations by opposition supporters in the capital Tehran.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gDVKAo7oplrqKqRV_w4JL3EeupQQ?docId=CNG.4633d09e43b19b31d6b5fb4eb63f2bd4.bd1)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12612133)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/27/guinea-holds-the-first-democratic-election-in-the-nation-s-history.html)  [JSON](/news/2010/06/27/guinea-holds-the-first-democratic-election-in-the-nation-s-history.json)  [XML](/news/2010/06/27/guinea-holds-the-first-democratic-election-in-the-nation-s-history.xml)  
+
 ### [2010-06-27](/news/2010/06/27/index.md)
 
+##### Guinea
 # Guinea holds the first democratic election in the nation's history. 
 
 West African nation to elect president on Sunday after decades of military rule.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/06/2010626132957866405.html)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/guineans-go-to-polls-to-turn-page-on-dictatorship-20100627-zbl5.html)

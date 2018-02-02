@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/5/david-blaine-begins-a-new-stunt-he-will-stay-in-a-small-transparent-capsule-suspended-30-feet-above-the-ground-near-tower-bridge-on-london.html)  [JSON](/news/2003/09/5/david-blaine-begins-a-new-stunt-he-will-stay-in-a-small-transparent-capsule-suspended-30-feet-above-the-ground-near-tower-bridge-on-london.json)  [XML](/news/2003/09/5/david-blaine-begins-a-new-stunt-he-will-stay-in-a-small-transparent-capsule-suspended-30-feet-above-the-ground-near-tower-bridge-on-london.xml)  
+
 ### [2003-09-5](/news/2003/09/5/index.md)
 
+##### David Blaine
 #  David Blaine begins a new stunt. He will stay in a small transparent capsule suspended 30 feet above the ground near Tower Bridge on London's River Thames without food for 44 days.
 
 

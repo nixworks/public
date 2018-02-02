@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/5/cuba-and-its-partners-announce-plans-to-drill-for-oil-in-cuban-waters-in-the-gulf-of-mexico.html)  [JSON](/news/2011/04/5/cuba-and-its-partners-announce-plans-to-drill-for-oil-in-cuban-waters-in-the-gulf-of-mexico.json)  [XML](/news/2011/04/5/cuba-and-its-partners-announce-plans-to-drill-for-oil-in-cuban-waters-in-the-gulf-of-mexico.xml)  
+
 ### [2011-04-5](/news/2011/04/5/index.md)
 
+##### Cuba
 # Cuba and its partners announce plans to drill for oil in Cuban waters in the Gulf of Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Boston Globe](http://www.boston.com/business/articles/2011/04/05/cuba_partners_to_drill_5_gulf_wells_this_summer/)
 

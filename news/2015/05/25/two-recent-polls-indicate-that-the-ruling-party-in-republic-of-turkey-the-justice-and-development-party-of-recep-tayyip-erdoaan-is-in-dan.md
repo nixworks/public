@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/05/25/two-recent-polls-indicate-that-the-ruling-party-in-republic-of-turkey-the-justice-and-development-party-of-recep-tayyip-erdoaan-is-in-dan.html)  [JSON](/news/2015/05/25/two-recent-polls-indicate-that-the-ruling-party-in-republic-of-turkey-the-justice-and-development-party-of-recep-tayyip-erdoaan-is-in-dan.json)  [XML](/news/2015/05/25/two-recent-polls-indicate-that-the-ruling-party-in-republic-of-turkey-the-justice-and-development-party-of-recep-tayyip-erdoaan-is-in-dan.xml)  
+
 ### [2015-05-25](/news/2015/05/25/index.md)
 
+##### Republic of Turkey
 # Two recent polls indicate that the ruling party in Republic of Turkey, the Justice and Development Party of Recep Tayyip Erdogan, is in danger of losing its parliamentary majority in the June 7 election. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/05/25/us-turkey-election-poll-idUSKBN0OA0O920150525)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/05/25/us-turkey-election-poll-idUSKBN0OA0O920150525)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

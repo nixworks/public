@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/5/andal-ampatuan-jr-charged-with-41-counts-of-murder-in-the-maguindanao-massacre-in-november-pleads-not-guilty-at-the-beginning-of-his-tria.html)  [JSON](/news/2010/01/5/andal-ampatuan-jr-charged-with-41-counts-of-murder-in-the-maguindanao-massacre-in-november-pleads-not-guilty-at-the-beginning-of-his-tria.json)  [XML](/news/2010/01/5/andal-ampatuan-jr-charged-with-41-counts-of-murder-in-the-maguindanao-massacre-in-november-pleads-not-guilty-at-the-beginning-of-his-tria.xml)  
+
 ### [2010-01-5](/news/2010/01/5/index.md)
 
+##### Andal Ampatuan Jr.
 # Andal Ampatuan Jr., charged with 41 counts of murder in the Maguindanao massacre in November, pleads not guilty at the beginning of his trial in the Philippines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gq61Sd3gtb4XVLAaacRAFPqrCP3Q)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/01/05/philippines.murder.trial/)

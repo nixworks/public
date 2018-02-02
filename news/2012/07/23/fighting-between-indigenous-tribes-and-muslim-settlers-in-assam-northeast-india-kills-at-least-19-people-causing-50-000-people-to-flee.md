@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/23/fighting-between-indigenous-tribes-and-muslim-settlers-in-assam-northeast-india-kills-at-least-19-people-causing-50-000-people-to-flee.html)  [JSON](/news/2012/07/23/fighting-between-indigenous-tribes-and-muslim-settlers-in-assam-northeast-india-kills-at-least-19-people-causing-50-000-people-to-flee.json)  [XML](/news/2012/07/23/fighting-between-indigenous-tribes-and-muslim-settlers-in-assam-northeast-india-kills-at-least-19-people-causing-50-000-people-to-flee.xml)  
+
 ### [2012-07-23](/news/2012/07/23/index.md)
 
+##### Muslim
 # Fighting between indigenous tribes and Muslim settlers in Assam, northeast India kills at least 19 people, causing 50,000 people to flee. 
 
 Thousands of people have fled their homes in Assam after fighting between indigenous tribes and Muslim settlers killed at least 19 people, wounded many more, and left villages in flames, police said on Monday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2012/07/23/india-violence-assam-flood-idINDEE86M03J20120723?feedType=RSS&feedName=globalCoverage2)
 2. [Times of India](http://timesofindia.indiatimes.com/india/Nineteen-dead-50000-flee-as-violence-grips-Assam/articleshow/15109436.cms)

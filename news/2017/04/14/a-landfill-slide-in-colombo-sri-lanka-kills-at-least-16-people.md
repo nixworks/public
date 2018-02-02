@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/14/a-landfill-slide-in-colombo-sri-lanka-kills-at-
 
 ### [2017-04-14](/news/2017/04/14/index.md)
 
+##### landfill
 # A landfill slide in Colombo, Sri Lanka, kills at least 16 people. 
 
 A rubbish dump landslide in the Sri Lankan capital Colombo has killed at least 16 people and injured over a dozen, a military spokesman and hospital officials said this morning.

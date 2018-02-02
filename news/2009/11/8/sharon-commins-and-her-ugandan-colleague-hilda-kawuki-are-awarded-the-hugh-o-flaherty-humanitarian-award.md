@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/8/sharon-commins-and-her-ugandan-colleague-hilda-kawuki-are-awarded-the-hugh-o-flaherty-humanitarian-award.html)  [JSON](/news/2009/11/8/sharon-commins-and-her-ugandan-colleague-hilda-kawuki-are-awarded-the-hugh-o-flaherty-humanitarian-award.json)  [XML](/news/2009/11/8/sharon-commins-and-her-ugandan-colleague-hilda-kawuki-are-awarded-the-hugh-o-flaherty-humanitarian-award.xml)  
+
 ### [2009-11-8](/news/2009/11/8/index.md)
 
+##### Sharon Commins and her Ugandan colleague Hilda Kawuki
 #  Sharon Commins and her Ugandan colleague Hilda Kawuki are awarded the Hugh O'Flaherty Humanitarian Award. 
 
 Sharon Commins and her Ugandan colleague Hilda Kawuki have been awarded this year&#39;s Hugh O&#39;Flaherty Humanitarian Award.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1108/comminss.html)
 1. [Cover Image](https://img.rasset.ie/0002b01d-1600.jpg)

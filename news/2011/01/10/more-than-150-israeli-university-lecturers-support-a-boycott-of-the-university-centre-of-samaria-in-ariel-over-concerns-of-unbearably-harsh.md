@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/10/more-than-150-israeli-university-lecturers-support-a-boycott-of-the-university-centre-of-samaria-in-ariel-over-concerns-of-unbearably-harsh.html)  [JSON](/news/2011/01/10/more-than-150-israeli-university-lecturers-support-a-boycott-of-the-university-centre-of-samaria-in-ariel-over-concerns-of-unbearably-harsh.json)  [XML](/news/2011/01/10/more-than-150-israeli-university-lecturers-support-a-boycott-of-the-university-centre-of-samaria-in-ariel-over-concerns-of-unbearably-harsh.xml)  
+
 ### [2011-01-10](/news/2011/01/10/index.md)
 
+##### Israel
 # More than 150 Israeli university lecturers support a boycott of the University Centre of Samaria in Ariel over concerns of "unbearably harsh conditions" faced by Palestinians living nearby, as well as Ariel being an "illegal settlement" and a roadblock to the establishment of an independent Palestinian state. 
 
 MORE THAN 150 Israeli university lecturers have signed a petition calling for a boycott of the University Centre of Samaria, &hellip;
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/20111918558150780.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/world/2011/0110/1224287155599.html)

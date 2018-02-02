@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/22/in-the-united-kingdom-chancellor-george-osborne-presents-the-coalition-government-s-emergency-budget-statement-to-the-house-of-commons.html)  [JSON](/news/2010/06/22/in-the-united-kingdom-chancellor-george-osborne-presents-the-coalition-government-s-emergency-budget-statement-to-the-house-of-commons.json)  [XML](/news/2010/06/22/in-the-united-kingdom-chancellor-george-osborne-presents-the-coalition-government-s-emergency-budget-statement-to-the-house-of-commons.xml)  
+
 ### [2010-06-22](/news/2010/06/22/index.md)
 
+##### George Osborne
 # In the United Kingdom, Chancellor George Osborne presents the coalition government's emergency budget statement to the House of Commons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/10375236.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

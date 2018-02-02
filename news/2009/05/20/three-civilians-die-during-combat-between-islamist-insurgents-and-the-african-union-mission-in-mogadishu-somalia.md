@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/20/three-civilians-die-during-combat-between-islamist-insurgents-and-the-african-union-mission-in-mogadishu-somalia.html)  [JSON](/news/2009/05/20/three-civilians-die-during-combat-between-islamist-insurgents-and-the-african-union-mission-in-mogadishu-somalia.json)  [XML](/news/2009/05/20/three-civilians-die-during-combat-between-islamist-insurgents-and-the-african-union-mission-in-mogadishu-somalia.xml)  
+
 ### [2009-05-20](/news/2009/05/20/index.md)
 
+##### civilian
 #  Three civilians die during combat between Islamist insurgents and the African Union Mission in Mogadishu, Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8058895.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/19/pierre-nkurunziza-of-the-national-council-for-the-defense-of-democracy-forces-for-the-defense-of-democracy-a-former-rebel-leader-of-the-hu.html)  [JSON](/news/2005/08/19/pierre-nkurunziza-of-the-national-council-for-the-defense-of-democracy-forces-for-the-defense-of-democracy-a-former-rebel-leader-of-the-hu.json)  [XML](/news/2005/08/19/pierre-nkurunziza-of-the-national-council-for-the-defense-of-democracy-forces-for-the-defense-of-democracy-a-former-rebel-leader-of-the-hu.xml)  
+
 ### [2005-08-19](/news/2005/08/19/index.md)
 
+##### Pierre Nkurunziza
 #  Pierre Nkurunziza of the National Council for the Defense of Democracy-Forces for the Defense of Democracy, a former rebel leader of the Hutu majority in Burundi, has been elected unopposed as the new President of Burundi by the parliament, the first president chosen through democratic means since the start of the civil war in 1993. He will be sworn in on 27 August. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4162504.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4165094.stm)

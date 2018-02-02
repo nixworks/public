@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/29/former-prime-minister-of-the-united-kingdom-margaret-thatcher-leaves-hospital-after-undergoing-surgery-to-remove-a-tumour.html)  [JSON](/news/2012/12/29/former-prime-minister-of-the-united-kingdom-margaret-thatcher-leaves-hospital-after-undergoing-surgery-to-remove-a-tumour.json)  [XML](/news/2012/12/29/former-prime-minister-of-the-united-kingdom-margaret-thatcher-leaves-hospital-after-undergoing-surgery-to-remove-a-tumour.xml)  
+
 ### [2012-12-29](/news/2012/12/29/index.md)
 
+##### Prime Minister
 # Former Prime Minister of the United Kingdom Margaret Thatcher leaves hospital after undergoing surgery to remove a tumour. 
 
 Former Prime Minister Margaret Thatcher has left hospital after having a growth removed from her bladder, sources tell the BBC.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20866352)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64909000/jpg/_64909799_64909798.jpg)

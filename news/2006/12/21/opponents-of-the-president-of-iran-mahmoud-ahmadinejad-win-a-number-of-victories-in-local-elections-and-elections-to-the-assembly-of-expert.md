@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/21/opponents-of-the-president-of-iran-mahmoud-ahmadinejad-win-a-number-of-victories-in-local-elections-and-elections-to-the-assembly-of-expert.html)  [JSON](/news/2006/12/21/opponents-of-the-president-of-iran-mahmoud-ahmadinejad-win-a-number-of-victories-in-local-elections-and-elections-to-the-assembly-of-expert.json)  [XML](/news/2006/12/21/opponents-of-the-president-of-iran-mahmoud-ahmadinejad-win-a-number-of-victories-in-local-elections-and-elections-to-the-assembly-of-expert.xml)  
+
 ### [2006-12-21](/news/2006/12/21/index.md)
 
+##### President
 #  Opponents of the President of Iran Mahmoud Ahmadinejad win a number of victories in local elections and elections to the Assembly of Experts as dissatisfaction grows with his Presidency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Philadelphia Inquirer](http://www.philly.com/mld/inquirer/news/nation/16286111.htm?source=rss&channel=inquirer_nation)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/4/2-azeri-soldiers-are-killed-in-fighting-near-nagorno-karabakh-the-second-incident-of-clashes-within-a-week.html)  [JSON](/news/2010/09/4/2-azeri-soldiers-are-killed-in-fighting-near-nagorno-karabakh-the-second-incident-of-clashes-within-a-week.json)  [XML](/news/2010/09/4/2-azeri-soldiers-are-killed-in-fighting-near-nagorno-karabakh-the-second-incident-of-clashes-within-a-week.xml)  
+
 ### [2010-09-4](/news/2010/09/4/index.md)
 
+##### Azerbaijan
 # 2 Azeri soldiers are killed in fighting near Nagorno-Karabakh, the second incident of clashes within a week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=15461939&PageNum=0)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/LDE68304J.htm)

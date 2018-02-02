@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/17/the-bolivian-departments-of-beni-pando-santa-cruz-and-tarija-declare-autonomy-from-evo-morales-central-government.html)  [JSON](/news/2007/12/17/the-bolivian-departments-of-beni-pando-santa-cruz-and-tarija-declare-autonomy-from-evo-morales-central-government.json)  [XML](/news/2007/12/17/the-bolivian-departments-of-beni-pando-santa-cruz-and-tarija-declare-autonomy-from-evo-morales-central-government.xml)  
+
 ### [2007-12-17](/news/2007/12/17/index.md)
 
+##### Bolivia
 #  The Bolivian departments of Beni, Pando, Santa Cruz, and Tarija declare autonomy from Evo Morales' central government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/WORLD/americas/12/15/bolivia.unrest/?iref=mpstoryview)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/29/azim-isabekov-becomes-prime-minister-of-kyrgyzstan-replacing-felix-kulov.html)  [JSON](/news/2007/01/29/azim-isabekov-becomes-prime-minister-of-kyrgyzstan-replacing-felix-kulov.json)  [XML](/news/2007/01/29/azim-isabekov-becomes-prime-minister-of-kyrgyzstan-replacing-felix-kulov.xml)  
+
 ### [2007-01-29](/news/2007/01/29/index.md)
 
+##### Azim Isabekov
 #  Azim Isabekov becomes Prime Minister of Kyrgyzstan, replacing Felix Kulov. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyiv Post](http://www.kyivpost.com/bn/25955/)
 

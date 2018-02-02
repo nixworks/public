@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/07/10/automaker-general-motors-emerges-from-bankruptcy-protection-after-40-days-under-court-supervision.html)  [JSON](/news/2009/07/10/automaker-general-motors-emerges-from-bankruptcy-protection-after-40-days-under-court-supervision.json)  [XML](/news/2009/07/10/automaker-general-motors-emerges-from-bankruptcy-protection-after-40-days-under-court-supervision.xml)  
+
 ### [2009-07-10](/news/2009/07/10/index.md)
 
+##### General Motors
 #  Automaker General Motors emerges from bankruptcy protection after 40 days under court supervision. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo](http://news.yahoo.com/s/ap/20090710/ap_on_bi_ge/us_gm_bankruptcy_61)
+1. [AP via Yahoo](https://news.yahoo.com/s/ap/20090710/ap_on_bi_ge/us_gm_bankruptcy_61)
 
 ### Related:
 

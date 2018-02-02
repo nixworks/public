@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/07/23/former-king-of-afghanistan-mohammed-zahir-shah-dies-after-prolonged-illness.html)  [JSON](/news/2007/07/23/former-king-of-afghanistan-mohammed-zahir-shah-dies-after-prolonged-illness.json)  [XML](/news/2007/07/23/former-king-of-afghanistan-mohammed-zahir-shah-dies-after-prolonged-illness.xml)  
+
 ### [2007-07-23](/news/2007/07/23/index.md)
 
+##### Mohammed Zahir Shah
 #  Former King of Afghanistan Mohammed Zahir Shah dies after prolonged illness. 
 
 

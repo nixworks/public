@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/3/india-s-supreme-court-judges-disclose-their-assets-online.html)  [JSON](/news/2009/11/3/india-s-supreme-court-judges-disclose-their-assets-online.json)  [XML](/news/2009/11/3/india-s-supreme-court-judges-disclose-their-assets-online.xml)  
+
 ### [2009-11-3](/news/2009/11/3/index.md)
 
+##### India
 #  India's Supreme Court judges disclose their assets online. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ibUBx2x8TB_uZAqkldqmbsvLI1GA)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8339330.stm)

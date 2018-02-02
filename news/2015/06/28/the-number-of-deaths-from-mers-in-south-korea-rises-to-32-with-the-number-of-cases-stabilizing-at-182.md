@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/28/the-number-of-deaths-from-mers-in-south-korea-rises-to-32-with-the-number-of-cases-stabilizing-at-182.html)  [JSON](/news/2015/06/28/the-number-of-deaths-from-mers-in-south-korea-rises-to-32-with-the-number-of-cases-stabilizing-at-182.json)  [XML](/news/2015/06/28/the-number-of-deaths-from-mers-in-south-korea-rises-to-32-with-the-number-of-cases-stabilizing-at-182.xml)  
+
 ### [2015-06-28](/news/2015/06/28/index.md)
 
+##### recent MERS outbreak
 # The number of deaths from MERS in South Korea rises to 32, with the number of cases stabilizing at 182. 
 
  South Korea reported an additional death from Middle East Respiratory Syndrome on Sunday, bringing its death toll to 32.
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2015/06/28/0200000000AEN20150628000351320.html?input=www.tweeter.com)
 

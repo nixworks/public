@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/8/an-expert-says-that-the-aids-epidemic-in-the-people-s-republic-of-china-is-reaching-major-proportions.html)  [JSON](/news/2003/11/8/an-expert-says-that-the-aids-epidemic-in-the-people-s-republic-of-china-is-reaching-major-proportions.json)  [XML](/news/2003/11/8/an-expert-says-that-the-aids-epidemic-in-the-people-s-republic-of-china-is-reaching-major-proportions.xml)  
+
 ### [2003-11-8](/news/2003/11/8/index.md)
 
+##### AIDS
 #  An expert says that the AIDS epidemic in the People's Republic of China is reaching major proportions.
 
 

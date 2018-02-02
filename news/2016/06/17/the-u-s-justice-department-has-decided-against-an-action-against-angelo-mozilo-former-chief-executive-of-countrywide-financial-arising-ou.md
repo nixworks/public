@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/17/the-u-s-justice-department-has-decided-against-
 
 ### [2016-06-17](/news/2016/06/17/index.md)
 
+##### U.S. Justice Department
 # The U.S. Justice Department has decided against an action against Angelo Mozilo, former chief executive of Countrywide Financial, arising out of the issuance of mortgage backed securities during his tenure there. 
 
 Former Countrywide Financial Corp CEO Angelo Mozilo and other executives will not face a U.S. Justice Department lawsuit for defrauding investors in mortgage-backed securities issued before the 2008 financial crisis, people familiar with the matter said on Friday.

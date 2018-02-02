@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/19/two-armed-robbers-are-holding-several-people-hostage-in-a-credit-lyonnais-bank-in-paris.html)  [JSON](/news/2007/06/19/two-armed-robbers-are-holding-several-people-hostage-in-a-credit-lyonnais-bank-in-paris.json)  [XML](/news/2007/06/19/two-armed-robbers-are-holding-several-people-hostage-in-a-credit-lyonnais-bank-in-paris.xml)  
+
 ### [2007-06-19](/news/2007/06/19/index.md)
 
+##### hostage
 #  Two armed robbers are holding several people hostage in a Crdit Lyonnais bank in Paris. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky](http://news.sky.com/skynews/article/0,,30200-1271176,00.html)
 

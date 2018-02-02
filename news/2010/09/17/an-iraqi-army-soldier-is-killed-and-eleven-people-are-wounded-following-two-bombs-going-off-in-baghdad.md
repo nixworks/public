@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/17/an-iraqi-army-soldier-is-killed-and-eleven-people-are-wounded-following-two-bombs-going-off-in-baghdad.html)  [JSON](/news/2010/09/17/an-iraqi-army-soldier-is-killed-and-eleven-people-are-wounded-following-two-bombs-going-off-in-baghdad.json)  [XML](/news/2010/09/17/an-iraqi-army-soldier-is-killed-and-eleven-people-are-wounded-following-two-bombs-going-off-in-baghdad.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### Iraqi Army
 # An Iraqi Army soldier is killed and eleven people are wounded following two bombs going off in Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/18/c_13518512.htm)
 

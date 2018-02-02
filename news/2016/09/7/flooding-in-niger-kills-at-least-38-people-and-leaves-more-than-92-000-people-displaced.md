@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/7/flooding-in-niger-kills-at-least-38-people-and-l
 
 ### [2016-09-7](/news/2016/09/7/index.md)
 
+##### Niger
 # Flooding in Niger kills at least 38 people and leaves more than 92,000 people displaced. 
 
 At least 38 people have been killed and more than 92,000 left homeless since June in disastrous floods in Niger.

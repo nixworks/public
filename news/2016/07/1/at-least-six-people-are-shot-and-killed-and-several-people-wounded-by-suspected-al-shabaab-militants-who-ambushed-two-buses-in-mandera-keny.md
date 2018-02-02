@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/1/at-least-six-people-are-shot-and-killed-and-seve
 
 ### [2016-07-1](/news/2016/07/1/index.md)
 
+##### War in Somalia
 # At least six people are shot and killed and several people wounded by suspected Al-Shabaab militants who ambushed two buses in Mandera, Kenya, near the Somalian border. 
 
 NAIROBI, Kenya (AP) — Suspected al-Shabab gunmen killed at least six people when they shot at two buses traveling in Mandera County in northern Kenya, a Kenyan official said Friday. The attack comes a day after the U.S.…

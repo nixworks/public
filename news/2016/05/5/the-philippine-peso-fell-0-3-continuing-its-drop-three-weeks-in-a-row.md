@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/5/the-philippine-peso-fell-0-3-continuing-its-drop
 
 ### [2016-05-5](/news/2016/05/5/index.md)
 
+##### Philippine presidential election, 2016
 # The Philippine peso fell 0.3% continuing its drop three weeks in a row. 
 
 The Philippine peso keeps on sliding as the May 9 presidential elections get closer. The currency has been falling for three weeks as the mayor of Davao City, Rodrigo Duterte, rises in opinion polls. Duterte ranked third in a Bloomberg survey last month that asked analysts who was the best candidate to run the economy.

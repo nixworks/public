@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/24/jun-azumi-the-minister-of-finance-of-japan-says-he-is-to-step-down-and-take-on-a-senior-function-as-the-acting-secretary-general-of-the-de.html)  [JSON](/news/2012/09/24/jun-azumi-the-minister-of-finance-of-japan-says-he-is-to-step-down-and-take-on-a-senior-function-as-the-acting-secretary-general-of-the-de.json)  [XML](/news/2012/09/24/jun-azumi-the-minister-of-finance-of-japan-says-he-is-to-step-down-and-take-on-a-senior-function-as-the-acting-secretary-general-of-the-de.xml)  
+
 ### [2012-09-24](/news/2012/09/24/index.md)
 
+##### Jun Azumi
 # Jun Azumi, the Minister of Finance of Japan, says he is to step down and take on a senior function as the acting secretary-general of the Democratic Party of Japan. His announcement comes ahead of an expected cabinet reshuffle. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/SB10000872396390444358804578015951630512308.html?mod=googlenews_wsj)
 

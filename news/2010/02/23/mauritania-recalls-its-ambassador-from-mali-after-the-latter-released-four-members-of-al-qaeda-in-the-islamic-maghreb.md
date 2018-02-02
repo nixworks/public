@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/23/mauritania-recalls-its-ambassador-from-mali-after-the-latter-released-four-members-of-al-qaeda-in-the-islamic-maghreb.html)  [JSON](/news/2010/02/23/mauritania-recalls-its-ambassador-from-mali-after-the-latter-released-four-members-of-al-qaeda-in-the-islamic-maghreb.json)  [XML](/news/2010/02/23/mauritania-recalls-its-ambassador-from-mali-after-the-latter-released-four-members-of-al-qaeda-in-the-islamic-maghreb.xml)  
+
 ### [2010-02-23](/news/2010/02/23/index.md)
 
+##### Mauritanian
 # Mauritania recalls its ambassador from Mali after the latter released four members of Al-Qaeda in the Islamic Maghreb. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8530295.stm)
 2. [Reuters South Africa](http://af.reuters.com/article/topNews/idAFJOE61M04E20100223)

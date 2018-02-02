@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/19/cuba-frees-ivan-hernandez-a-dissident-who-refused-to-go-into-exile-in-spain.html)  [JSON](/news/2011/02/19/cuba-frees-ivan-hernandez-a-dissident-who-refused-to-go-into-exile-in-spain.json)  [XML](/news/2011/02/19/cuba-frees-ivan-hernandez-a-dissident-who-refused-to-go-into-exile-in-spain.xml)  
+
 ### [2011-02-19](/news/2011/02/19/index.md)
 
+##### Cuba
 # Cuba frees Ivan Hernandez, a dissident who refused to go into exile in Spain. 
 
 The Cuban government frees a jailed dissident journalist who refused to go into exile in Spain as a condition for release.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12516568)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2004/10/5/the-united-states-vetoes-a-united-nations-resolution-urging-israel-to-halt-its-current-offensive-in-the-gaza-strip-over-70-palestinians-i.html)  [JSON](/news/2004/10/5/the-united-states-vetoes-a-united-nations-resolution-urging-israel-to-halt-its-current-offensive-in-the-gaza-strip-over-70-palestinians-i.json)  [XML](/news/2004/10/5/the-united-states-vetoes-a-united-nations-resolution-urging-israel-to-halt-its-current-offensive-in-the-gaza-strip-over-70-palestinians-i.xml)  
+
 ### [2004-10-5](/news/2004/10/5/index.md)
 
+##### United Nations
 #  The United States vetoes a United Nations resolution urging Israel to halt its current offensive in the Gaza Strip. Over 70 Palestinians, including civilians, have died in the offensive. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.mlive.com/newsflash/international/index.ssf?/base/international-18/1096983240144640.xml&storylist=international)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3715890.stm)
 3. [Haaretz](http://www.haaretz.com/hasen/spages/485254.html)
 4. [INN &#91;Israel&#93;](http://www.israelnn.com/news.php3?id=69914)
-5. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6421699)
+5. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6421699)
 6. [The Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4535593,00.html)
 7. [Xinhua &#91;China&#93;](http://news.xinhuanet.com/english/2004-10/05/content_2055961.htm)
 

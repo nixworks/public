@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/7/a-gunman-who-killed-one-man-injured-two-others-a
 
 ### [2016-03-7](/news/2016/03/7/index.md)
 
+##### SWAT
 # A gunman, who killed one man, injured two others, and was holding three people hostage, is found dead when an armed tactical response police team storms a building in the Ingleburn industrial area in suburban Sydney, Australia. All hostages were unharmed. 
 
 One man has been killed and two others taken to hospital during a shooting at a signage business in an industrial area at Ingleburn in Sydney&#039;s south-west. 

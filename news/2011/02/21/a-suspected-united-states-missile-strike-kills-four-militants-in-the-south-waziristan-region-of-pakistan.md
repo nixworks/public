@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/21/a-suspected-united-states-missile-strike-kills-four-militants-in-the-south-waziristan-region-of-pakistan.html)  [JSON](/news/2011/02/21/a-suspected-united-states-missile-strike-kills-four-militants-in-the-south-waziristan-region-of-pakistan.json)  [XML](/news/2011/02/21/a-suspected-united-states-missile-strike-kills-four-militants-in-the-south-waziristan-region-of-pakistan.xml)  
+
 ### [2011-02-21](/news/2011/02/21/index.md)
 
+##### South Waziristan
 # A suspected United States missile strike kills four militants in the South Waziristan region of Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5j2LQ8q4x7lQfYjyWUKoeEUJWil0w?docId=e7eab271e60545f09f4de98ca88007f2)
 

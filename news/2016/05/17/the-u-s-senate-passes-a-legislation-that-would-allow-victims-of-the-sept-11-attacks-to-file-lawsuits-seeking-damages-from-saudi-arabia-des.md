@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/17/the-u-s-senate-passes-a-legislation-that-would-
 
 ### [2016-05-17](/news/2016/05/17/index.md)
 
+##### U.S. Senate
 # The U.S. Senate passes a legislation that would allow victims of the Sept. 11 attacks to file lawsuits seeking damages from Saudi Arabia despite Saudi threats to pull billions of dollars from the U.S. economy. 
 
 The Senate passed legislation Tuesday that would allow families of Sept. 11 victims to sue the government of Saudi Arabia despite a White House veto threat and fierce objections from the U.S. ally.
@@ -17,8 +18,8 @@ The Senate passed legislation Tuesday that would allow families of Sept. 11 vict
 
 ### Related:
 
-1. [Four women accuse Roy Moore, a former Alabama judge and U.S. Senate candidate, of sexual misconduct during the 1970s and early 1980s when they were between the ages of 14 and 18 and he was in his 30s. ](/news/2017/11/9/four-women-accuse-roy-moore-a-former-alabama-judge-and-u-s-senate-candidate-of-sexual-misconduct-during-the-1970s-and-early-1980s-when-th.md) _Context: U.S. Senate_
-2. [Saudi Arabia's Crown Prince Mohammad bin Salman accuses Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. ](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.md) _Context: Saudi Arabia_
-3. [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md) _Context: Saudi Arabia_
-4. [A helicopter crashes near Saudi Arabia's border with Yemen, killing Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. ](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-with-yemen-killing-prince-mansour-bin-muqrin-and-seven-other-saudi-officials-the-cause-of.md) _Context: Saudi Arabia_
-5. [Saudi Arabia announces the arrest of billionaire investor Prince Al-Waleed bin Talal, plus at least 10 other princes, four government ministers and tens of former ministers by Crown Prince Mohammad bin Salman's newly formed anti-corruption agency. ](/news/2017/11/4/saudi-arabia-announces-the-arrest-of-billionaire-investor-prince-al-waleed-bin-talal-plus-at-least-10-other-princes-four-government-minist.md) _Context: Saudi Arabia_
+1. [For the first time, Saudi Arabia allows women to spectate at football matches, part of an easing of strict rules on gender separation by the ultra-conservative Muslim country. ](/news/2018/01/12/for-the-first-time-saudi-arabia-allows-women-to-spectate-at-football-matches-part-of-an-easing-of-strict-rules-on-gender-separation-by-the.md) _Context: Saudi Arabia_
+2. [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md) _Context: Saudi Arabia_
+3. [At a GCC summit in Kuwait City, the United Arab Emirates announce a political and military alliance with Saudi Arabia. ](/news/2017/12/5/at-a-gcc-summit-in-kuwait-city-the-united-arab-emirates-announce-a-political-and-military-alliance-with-saudi-arabia.md) _Context: Saudi Arabia_
+4. [Seven Israeli chess players are denied travel visas to the Rapid and Blitz Chess Championships in Saudi Arabia as the two countries have no diplomatic relations. Players from Qatar and Iran are given last-minute visas, while Ukrainian champion Anna Muzychuk refuses to participate because she does not want to wear an abaya. ](/news/2017/12/26/seven-israeli-chess-players-are-denied-travel-visas-to-the-rapid-and-blitz-chess-championships-in-saudi-arabia-as-the-two-countries-have-no.md) _Context: Saudi Arabia_
+5. [According to emergency services and the Houthi-owned Al Masirah, Saudi Arabian coalition air strikes kill 15 people and wound 60 at al-Shahra souq, a popular market in Taiz Governorate. ](/news/2017/12/26/according-to-emergency-services-and-the-houthi-owned-al-masirah-saudi-arabian-coalition-air-strikes-kill-15-people-and-wound-60-at-al-shahr.md) _Context: Saudi Arabia_

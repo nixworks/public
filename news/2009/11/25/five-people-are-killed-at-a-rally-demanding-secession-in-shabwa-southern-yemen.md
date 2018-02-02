@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/11/25/five-people-are-killed-at-a-rally-demanding-secession-in-shabwa-southern-yemen.html)  [JSON](/news/2009/11/25/five-people-are-killed-at-a-rally-demanding-secession-in-shabwa-southern-yemen.json)  [XML](/news/2009/11/25/five-people-are-killed-at-a-rally-demanding-secession-in-shabwa-southern-yemen.xml)  
+
 ### [2009-11-25](/news/2009/11/25/index.md)
 
+##### secession
 #  Five people are killed at a rally demanding secession in Shabwa, southern Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8378727.stm)
-2. [Reuters](http://www.reuters.com/article/africaCrisis/idUSGEE5AO0Q1)
+2. [Reuters](https://www.reuters.com/article/africaCrisis/idUSGEE5AO0Q1)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-11/25/content_12539156.htm)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/28/volkswagen-recalls-71000-2011-model-jetta-sedans-due-to-a-wiring-problem.html)  [JSON](/news/2011/03/28/volkswagen-recalls-71000-2011-model-jetta-sedans-due-to-a-wiring-problem.json)  [XML](/news/2011/03/28/volkswagen-recalls-71000-2011-model-jetta-sedans-due-to-a-wiring-problem.xml)  
+
 ### [2011-03-28](/news/2011/03/28/index.md)
 
+##### Volkswagen
 # Volkswagen recalls 71000 2011 model Jetta sedans due to a wiring problem. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Detroit News](http://www.detnews.com/article/20110328/AUTO01/103280394/1148/auto01/VW-recalls-71-000-’11-Jetta-models-over-wiring-problem)
 

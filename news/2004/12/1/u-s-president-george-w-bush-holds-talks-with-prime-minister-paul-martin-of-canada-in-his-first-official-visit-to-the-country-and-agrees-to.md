@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/1/u-s-president-george-w-bush-holds-talks-with-prime-minister-paul-martin-of-canada-in-his-first-official-visit-to-the-country-and-agrees-to.html)  [JSON](/news/2004/12/1/u-s-president-george-w-bush-holds-talks-with-prime-minister-paul-martin-of-canada-in-his-first-official-visit-to-the-country-and-agrees-to.json)  [XML](/news/2004/12/1/u-s-president-george-w-bush-holds-talks-with-prime-minister-paul-martin-of-canada-in-his-first-official-visit-to-the-country-and-agrees-to.xml)  
+
 ### [2004-12-1](/news/2004/12/1/index.md)
 
+##### U.S. President
 # U.S. President George W. Bush holds talks with Prime Minister Paul Martin of Canada in his first official visit to the country and agrees to work together to combat terrorism. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4053747.stm)
 

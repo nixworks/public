@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/01/1/a-british-airways-flight-from-london-to-washington-d-c-is-canceled-one-day-after-the-same-flight-is-delayed-for-three-hours-on-the-tarmac.html)  [JSON](/news/2004/01/1/a-british-airways-flight-from-london-to-washington-d-c-is-canceled-one-day-after-the-same-flight-is-delayed-for-three-hours-on-the-tarmac.json)  [XML](/news/2004/01/1/a-british-airways-flight-from-london-to-washington-d-c-is-canceled-one-day-after-the-same-flight-is-delayed-for-three-hours-on-the-tarmac.xml)  
+
 ### [2004-01-1](/news/2004/01/1/index.md)
 
+##### British Airways
 #  A British Airways flight from London to Washington, D.C. is canceled one day after the same flight is delayed for three hours on the tarmac at Dulles International Airport for security screening. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yahoo](http://story.news.yahoo.com/news?tmpl=story&cid=514&e=1&u=/ap/20040101/ap_on_re_eu/britain_flight_canceled)
 

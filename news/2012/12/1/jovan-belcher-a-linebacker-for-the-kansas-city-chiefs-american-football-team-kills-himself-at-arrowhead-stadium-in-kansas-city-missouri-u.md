@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/1/jovan-belcher-a-linebacker-for-the-kansas-city-chiefs-american-football-team-kills-himself-at-arrowhead-stadium-in-kansas-city-missouri-u.html)  [JSON](/news/2012/12/1/jovan-belcher-a-linebacker-for-the-kansas-city-chiefs-american-football-team-kills-himself-at-arrowhead-stadium-in-kansas-city-missouri-u.json)  [XML](/news/2012/12/1/jovan-belcher-a-linebacker-for-the-kansas-city-chiefs-american-football-team-kills-himself-at-arrowhead-stadium-in-kansas-city-missouri-u.xml)  
+
 ### [2012-12-1](/news/2012/12/1/index.md)
 
+##### Jovan Belcher
 # Jovan Belcher, a linebacker for the Kansas City Chiefs American football team kills himself at Arrowhead Stadium in Kansas City, Missouri, USA, after reportedly killing his girlfriend. 
 
 An American football player has shot himself at the Kansas City Chiefs&#039; stadium.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/northamerica/9716347/American-football-player-with-Kansas-City-Chiefs-kills-himself-at-team-stadium.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02415/jovan-belcher_2415662k.jpg)

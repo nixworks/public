@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/19/iran-says-it-has-installed-faster-nuclear-centrifuges-to-enrich-uranium.html)  [JSON](/news/2011/07/19/iran-says-it-has-installed-faster-nuclear-centrifuges-to-enrich-uranium.json)  [XML](/news/2011/07/19/iran-says-it-has-installed-faster-nuclear-centrifuges-to-enrich-uranium.xml)  
+
 ### [2011-07-19](/news/2011/07/19/index.md)
 
+##### Iran
 # Iran says it has installed faster nuclear centrifuges to enrich uranium. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hhGqmLVav8hMbmgNbzKqRgN6zKeQ?docId=CNG.7e4a598f9713cc3df378c520326d27b1.661)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/20/malaysia-bans-the-import-of-horses-from-australia-following-an-outbreak-of-hendra-virus.html)  [JSON](/news/2011/07/20/malaysia-bans-the-import-of-horses-from-australia-following-an-outbreak-of-hendra-virus.json)  [XML](/news/2011/07/20/malaysia-bans-the-import-of-horses-from-australia-following-an-outbreak-of-hendra-virus.xml)  
+
 ### [2011-07-20](/news/2011/07/20/index.md)
 
+##### Malaysia
 # Malaysia bans the import of horses from Australia following an outbreak of Hendra virus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''The West Australian](http://au.news.yahoo.com/thewest/a/-/world/9881273/malaysia-bans-australian-horses/)
 

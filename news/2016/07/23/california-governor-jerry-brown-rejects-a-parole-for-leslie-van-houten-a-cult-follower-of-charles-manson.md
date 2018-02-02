@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/23/california-governor-jerry-brown-rejects-a-parol
 
 ### [2016-07-23](/news/2016/07/23/index.md)
 
+##### Jerry Brown
 # California governor Jerry Brown rejects a parole for Leslie van Houten, a cult follower of Charles Manson. 
 
 California Gov. Jerry Brown denied parole Friday for Leslie Van Houten, the youngest follower of murderous cult leader Charles Manson who is serving a life sentence for killing a wealthy grocer and his wife more than 40 years ago.

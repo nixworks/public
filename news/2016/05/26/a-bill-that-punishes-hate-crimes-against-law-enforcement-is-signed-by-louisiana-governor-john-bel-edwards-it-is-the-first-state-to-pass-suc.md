@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/26/a-bill-that-punishes-hate-crimes-against-law-en
 
 ### [2016-05-26](/news/2016/05/26/index.md)
 
+##### Louisiana
 # A bill that punishes hate crimes against law enforcement is signed by Louisiana Governor John Bel Edwards. It is the first state to pass such a law. 
 
 Some in Louisiana wondered if the new law, which comes at a time of national debate over policing and race, was really necessary.

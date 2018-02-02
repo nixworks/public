@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/10/scientists-at-the-wuhan-institute-of-virology-t
 
 ### [2017-12-10](/news/2017/12/10/index.md)
 
+##### Severe acute respiratory syndrome
 # Scientists at the Wuhan Institute of Virology trace the source of the deadly 2002-04 SARS virus outbreak, which killed 774 people in 37 countries, to a colony of cave-dwelling horseshoe bats in China's Yunnan province. 
 
 Genetic source found for disease that killed 750 round the world

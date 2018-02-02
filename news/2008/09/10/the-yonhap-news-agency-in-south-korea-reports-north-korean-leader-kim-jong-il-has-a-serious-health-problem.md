@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2008/09/10/the-yonhap-news-agency-in-south-korea-reports-north-korean-leader-kim-jong-il-has-a-serious-health-problem.html)  [JSON](/news/2008/09/10/the-yonhap-news-agency-in-south-korea-reports-north-korean-leader-kim-jong-il-has-a-serious-health-problem.json)  [XML](/news/2008/09/10/the-yonhap-news-agency-in-south-korea-reports-north-korean-leader-kim-jong-il-has-a-serious-health-problem.xml)  
+
 ### [2008-09-10](/news/2008/09/10/index.md)
 
+##### Yonhap
 #  The Yonhap News Agency in South Korea reports North Korean leader Kim Jong-il has a serious health problem. 
 
 North Korean leader Kim Jong Il is reported to be in failing health. North Korean officials denied the report, while a U.S. intelligence official told NPR that Kim may have suffered a stroke in recent weeks.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5j2zReXndGtxbEQ9gsY3SWxImKHHw)
 2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7607513.stm)
 3. [NPR](http://www.npr.org/templates/story/story.php?storyId=94449410)
-4. [Reuters](http://www.reuters.com/article/topNews/idUSSEO30199920080910)
+4. [Reuters](https://www.reuters.com/article/topNews/idUSSEO30199920080910)
 4. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)
 
 ### Related:

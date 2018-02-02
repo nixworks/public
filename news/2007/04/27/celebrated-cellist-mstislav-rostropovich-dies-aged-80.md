@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/04/27/celebrated-cellist-mstislav-rostropovich-dies-aged-80.html)  [JSON](/news/2007/04/27/celebrated-cellist-mstislav-rostropovich-dies-aged-80.json)  [XML](/news/2007/04/27/celebrated-cellist-mstislav-rostropovich-dies-aged-80.xml)  
+
 ### [2007-04-27](/news/2007/04/27/index.md)
 
+##### Mstislav Rostropovich
 #  Celebrated cellist: Mstislav Rostropovich dies aged 80.
 
 

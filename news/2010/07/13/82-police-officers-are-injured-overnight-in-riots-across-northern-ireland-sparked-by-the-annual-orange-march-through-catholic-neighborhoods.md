@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/13/82-police-officers-are-injured-overnight-in-riots-across-northern-ireland-sparked-by-the-annual-orange-march-through-catholic-neighborhoods.html)  [JSON](/news/2010/07/13/82-police-officers-are-injured-overnight-in-riots-across-northern-ireland-sparked-by-the-annual-orange-march-through-catholic-neighborhoods.json)  [XML](/news/2010/07/13/82-police-officers-are-injured-overnight-in-riots-across-northern-ireland-sparked-by-the-annual-orange-march-through-catholic-neighborhoods.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### Northern Ireland
 # 82 police officers are injured overnight in riots across Northern Ireland, sparked by the annual Orange march through Catholic neighborhoods. 
 
 A policewoman suffers a head injury in a riot following an Orange parade through the nationalist Ardoyne area of Belfast.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/northern_ireland/10609517.stm)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48337000/jpg/_48337297__48336778_009795953-1-1.jpg)

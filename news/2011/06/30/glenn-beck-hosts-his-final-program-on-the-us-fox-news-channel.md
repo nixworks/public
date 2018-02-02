@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/30/glenn-beck-hosts-his-final-program-on-the-us-fox-news-channel.html)  [JSON](/news/2011/06/30/glenn-beck-hosts-his-final-program-on-the-us-fox-news-channel.json)  [XML](/news/2011/06/30/glenn-beck-hosts-his-final-program-on-the-us-fox-news-channel.xml)  
+
 ### [2011-06-30](/news/2011/06/30/index.md)
 
+##### Glenn Beck
 # Glenn Beck hosts his final program on the US Fox News Channel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York times](http://mediadecoder.blogs.nytimes.com/2011/06/30/live-glenn-beck-says-goodbye-to-fox-news/)
 

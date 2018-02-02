@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/25/results-of-the-juno-mission-are-announced-by-na
 
 ### [2017-05-25](/news/2017/05/25/index.md)
 
+##### Juno mission
 # Results of the Juno mission are announced by NASA researchers, revealing new and unexpected information concerning Jupiter's poles, meteorology, and magnetic and gravitational fields. 
 
 

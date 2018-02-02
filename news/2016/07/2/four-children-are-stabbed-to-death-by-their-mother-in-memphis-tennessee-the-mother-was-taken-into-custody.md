@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/2/four-children-are-stabbed-to-death-by-their-moth
 
 ### [2016-07-2](/news/2016/07/2/index.md)
 
+##### Memphis, Tennessee
 # Four children are stabbed to death by their mother in Memphis, Tennessee. The mother was taken into custody. 
 
 

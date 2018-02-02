@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/20/scientists-at-the-j-craig-venter-institute-announce-the-successful-transplant-of-a-synthesized-genome-into-an-existing-cell-creating-the-w.html)  [JSON](/news/2010/05/20/scientists-at-the-j-craig-venter-institute-announce-the-successful-transplant-of-a-synthesized-genome-into-an-existing-cell-creating-the-w.json)  [XML](/news/2010/05/20/scientists-at-the-j-craig-venter-institute-announce-the-successful-transplant-of-a-synthesized-genome-into-an-existing-cell-creating-the-w.xml)  
+
 ### [2010-05-20](/news/2010/05/20/index.md)
 
+##### J. Craig Venter Institute
 # Scientists at the J. Craig Venter Institute announce the successful transplant of a synthesized genome into an existing cell, creating the world's first artificial lifeform ("Mycoplasma laboratorium"). 
 
 Scientists in the US succeed in developing the first living bacterial cell to be controlled entirely by synthetic DNA.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10132762.stm)
 2. [Economist](http://www.economist.com/opinion/displaystory.cfm?story_id=16163006)

@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/09/29/kenneth-bigley-a-british-hostage-held-in-iraq-appeared-alive-in-a-video-broadcast-by-al-jazeera-seen-in-a-cage-wearing-an-orange-jumpsui.html)  [JSON](/news/2004/09/29/kenneth-bigley-a-british-hostage-held-in-iraq-appeared-alive-in-a-video-broadcast-by-al-jazeera-seen-in-a-cage-wearing-an-orange-jumpsui.json)  [XML](/news/2004/09/29/kenneth-bigley-a-british-hostage-held-in-iraq-appeared-alive-in-a-video-broadcast-by-al-jazeera-seen-in-a-cage-wearing-an-orange-jumpsui.xml)  
+
 ### [2004-09-29](/news/2004/09/29/index.md)
 
+##### Conflict in Iraq
 #  Kenneth Bigley, a British hostage held in Iraq, appeared alive in a video broadcast by Al Jazeera. Seen in a cage wearing an orange jumpsuit, Bigley said "Tony Blair is lying. He doesn't care about me". 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/3699998.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6364046)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6364046)
 
 ### Related:
 

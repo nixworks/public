@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/28/abdul-rahman-is-deemed-mentally-unfit-to-stand-trial-and-released-he-is-seeking-asylum-in-a-western-country-his-whereabouts-are-unknown.html)  [JSON](/news/2006/03/28/abdul-rahman-is-deemed-mentally-unfit-to-stand-trial-and-released-he-is-seeking-asylum-in-a-western-country-his-whereabouts-are-unknown.json)  [XML](/news/2006/03/28/abdul-rahman-is-deemed-mentally-unfit-to-stand-trial-and-released-he-is-seeking-asylum-in-a-western-country-his-whereabouts-are-unknown.xml)  
+
 ### [2006-03-28](/news/2006/03/28/index.md)
 
+##### Abdul Rahman
 #  Abdul Rahman is deemed mentally unfit to stand trial, and released. He is seeking asylum in a Western country. His whereabouts are unknown. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4851666.stm)
 2. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/03/28/christian.convert/index.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/24/ghana-eliminate-the-hosts-of-the-2010-africa-cup-of-nations-angola-following-accusations-of-intimidatory-tactics-carried-out-by-the-countr.html)  [JSON](/news/2010/01/24/ghana-eliminate-the-hosts-of-the-2010-africa-cup-of-nations-angola-following-accusations-of-intimidatory-tactics-carried-out-by-the-countr.json)  [XML](/news/2010/01/24/ghana-eliminate-the-hosts-of-the-2010-africa-cup-of-nations-angola-following-accusations-of-intimidatory-tactics-carried-out-by-the-countr.xml)  
+
 ### [2010-01-24](/news/2010/01/24/index.md)
 
+##### Ghana national football team
 # Ghana eliminate the hosts of the 2010 Africa Cup of Nations Angola following accusations of "intimidatory" tactics carried out by the country's security forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France24](http://www.france24.com/en/20100110-angola-CAN-africa-cup-nations-ghana-win-semi-finals-asamoah-gyan)
 

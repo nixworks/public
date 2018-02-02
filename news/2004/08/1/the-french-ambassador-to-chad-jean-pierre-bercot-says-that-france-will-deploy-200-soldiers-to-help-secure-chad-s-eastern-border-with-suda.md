@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/1/the-french-ambassador-to-chad-jean-pierre-bercot-says-that-france-will-deploy-200-soldiers-to-help-secure-chad-s-eastern-border-with-suda.html)  [JSON](/news/2004/08/1/the-french-ambassador-to-chad-jean-pierre-bercot-says-that-france-will-deploy-200-soldiers-to-help-secure-chad-s-eastern-border-with-suda.json)  [XML](/news/2004/08/1/the-french-ambassador-to-chad-jean-pierre-bercot-says-that-france-will-deploy-200-soldiers-to-help-secure-chad-s-eastern-border-with-suda.xml)  
+
 ### [2004-08-1](/news/2004/08/1/index.md)
 
+##### Ambassador
 #  The French Ambassador to Chad, Jean Pierre Bercot, says that France will deploy 200 soldiers to help secure Chad's eastern border with Sudan's conflict-torn Darfur region. The troops will also bring humanitarian aid to tens of thousands of Darfur refugees in Chad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/3943137.stm)
 

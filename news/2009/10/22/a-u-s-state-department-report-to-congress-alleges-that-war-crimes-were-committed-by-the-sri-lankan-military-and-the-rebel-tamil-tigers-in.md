@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/10/22/a-u-s-state-department-report-to-congress-alleges-that-war-crimes-were-committed-by-the-sri-lankan-military-and-the-rebel-tamil-tigers-in.html)  [JSON](/news/2009/10/22/a-u-s-state-department-report-to-congress-alleges-that-war-crimes-were-committed-by-the-sri-lankan-military-and-the-rebel-tamil-tigers-in.json)  [XML](/news/2009/10/22/a-u-s-state-department-report-to-congress-alleges-that-war-crimes-were-committed-by-the-sri-lankan-military-and-the-rebel-tamil-tigers-in.xml)  
+
 ### [2009-10-22](/news/2009/10/22/index.md)
 
+##### State Department's
 #  A U.S. State Department report to Congress alleges that war crimes were committed by the Sri Lankan Military and the rebel Tamil Tigers in the final months of the Sri Lankan Civil War. ([http:--www.google.com-hostednews-afp-article-ALeqM5guGHJ5q9Wicsu44FhV1XC1xlRuug AFP]) ([http:--www.guardian.co.uk-world-2009-oct-22-sri-lanka-state-department-report Guardian]) ([http:--news.bbc.co.uk-1-hi-world-south_asia-8320392.stm BBC])
 
 

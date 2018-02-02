@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/12/asanbekov-sarybayev-the-deputy-culture-minister-of-the-government-of-kyrgyzstan-resigns-and-joins-the-united-front-for-a-worthy-future-fo.html)  [JSON](/news/2007/03/12/asanbekov-sarybayev-the-deputy-culture-minister-of-the-government-of-kyrgyzstan-resigns-and-joins-the-united-front-for-a-worthy-future-fo.json)  [XML](/news/2007/03/12/asanbekov-sarybayev-the-deputy-culture-minister-of-the-government-of-kyrgyzstan-resigns-and-joins-the-united-front-for-a-worthy-future-fo.xml)  
+
 ### [2007-03-12](/news/2007/03/12/index.md)
 
+##### Asanbekov Sarybayev
 #  Asanbekov Sarybayev, the Deputy Culture Minister of the Government of Kyrgyzstan, resigns and joins the United Front For A Worthy Future For Kyrgyzstan opposition coalition. The United Front says it will hold protests in Bishkek in April against the Constitution and in favor of early presidential elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFE/RL](http://www.rferl.org/featuresarticle/2007/3/301749E6-18AB-42E1-838B-8017941F2910.html)
 

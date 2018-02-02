@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/29/canada-has-officially-cut-all-ties-with-the-members-of-the-hamas-cabinet-and-is-suspending-assistance-to-the-palestinian-authority.html)  [JSON](/news/2006/03/29/canada-has-officially-cut-all-ties-with-the-members-of-the-hamas-cabinet-and-is-suspending-assistance-to-the-palestinian-authority.json)  [XML](/news/2006/03/29/canada-has-officially-cut-all-ties-with-the-members-of-the-hamas-cabinet-and-is-suspending-assistance-to-the-palestinian-authority.xml)  
+
 ### [2006-03-29](/news/2006/03/29/index.md)
 
+##### Hamas
 #  Canada has officially cut all ties with the members of the Hamas cabinet and is suspending assistance to the Palestinian Authority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2006/03/29/ottawa-hamas060329.html)
 

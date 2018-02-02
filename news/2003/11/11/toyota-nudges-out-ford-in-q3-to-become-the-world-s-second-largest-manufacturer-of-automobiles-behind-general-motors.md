@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/11/toyota-nudges-out-ford-in-q3-to-become-the-world-s-second-largest-manufacturer-of-automobiles-behind-general-motors.html)  [JSON](/news/2003/11/11/toyota-nudges-out-ford-in-q3-to-become-the-world-s-second-largest-manufacturer-of-automobiles-behind-general-motors.json)  [XML](/news/2003/11/11/toyota-nudges-out-ford-in-q3-to-become-the-world-s-second-largest-manufacturer-of-automobiles-behind-general-motors.xml)  
+
 ### [2003-11-11](/news/2003/11/11/index.md)
 
+##### Toyota
 #  Toyota nudges out Ford in Q3 to become the world's second-largest manufacturer of automobiles behind General Motors.
 
 

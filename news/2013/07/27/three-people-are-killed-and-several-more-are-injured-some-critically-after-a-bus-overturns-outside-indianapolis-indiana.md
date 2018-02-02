@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/27/three-people-are-killed-and-several-more-are-injured-some-critically-after-a-bus-overturns-outside-indianapolis-indiana.html)  [JSON](/news/2013/07/27/three-people-are-killed-and-several-more-are-injured-some-critically-after-a-bus-overturns-outside-indianapolis-indiana.json)  [XML](/news/2013/07/27/three-people-are-killed-and-several-more-are-injured-some-critically-after-a-bus-overturns-outside-indianapolis-indiana.xml)  
+
 ### [2013-07-27](/news/2013/07/27/index.md)
 
+##### Indianapolis, Indiana
 # Three people are killed and several more are injured, some critically, after a bus overturns outside Indianapolis, Indiana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2013/07/27/19719133-three-dead-after-bus-from-church-camp-overturns-in-indianapolis?lite)
 

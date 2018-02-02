@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/31/india-and-bangladesh-have-swapped-control-of-some-160-small-pockets-of-land-on-each-other-s-territory-residents-were-asked-to-choose-where.html)  [JSON](/news/2015/07/31/india-and-bangladesh-have-swapped-control-of-some-160-small-pockets-of-land-on-each-other-s-territory-residents-were-asked-to-choose-where.json)  [XML](/news/2015/07/31/india-and-bangladesh-have-swapped-control-of-some-160-small-pockets-of-land-on-each-other-s-territory-residents-were-asked-to-choose-where.xml)  
+
 ### [2015-07-31](/news/2015/07/31/index.md)
 
+##### India
 # India and Bangladesh have swapped control of some 160 small pockets of land on each other's territory. Residents were asked to choose where they wanted to live and which nationality they would prefer. Most of them decided to change nationality and stay where they live. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-33733911)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/18151/production/_84614689_bangladesh_img_2997.jpg)

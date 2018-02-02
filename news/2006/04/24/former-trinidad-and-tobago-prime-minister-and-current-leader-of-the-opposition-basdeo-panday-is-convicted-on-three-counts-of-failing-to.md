@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/24/former-trinidad-and-tobago-prime-minister-and-current-leader-of-the-opposition-basdeo-panday-is-convicted-on-three-counts-of-failing-to.html)  [JSON](/news/2006/04/24/former-trinidad-and-tobago-prime-minister-and-current-leader-of-the-opposition-basdeo-panday-is-convicted-on-three-counts-of-failing-to.json)  [XML](/news/2006/04/24/former-trinidad-and-tobago-prime-minister-and-current-leader-of-the-opposition-basdeo-panday-is-convicted-on-three-counts-of-failing-to.xml)  
+
 ### [2006-04-24](/news/2006/04/24/index.md)
 
+##### Trinidad and Tobago
 #  Former Trinidad and Tobago Prime Minister, and current Leader of the Opposition, Basdeo Panday, is convicted on three counts of failing to declare a London bank account in 1997, 1998, and 1999. He is sentenced to two years imprisonment with hard labour, fined TT$20,000 on each count, and ordered to forfeit approximately TT$1,600,000 (the accumulated year-end balances of the account in question). He intends to appeal the sentence, but resigned as Leader of the Opposition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Jamaica](http://www.radiojamaica.com/news/story.php?category=2&story=24317)
 2. [T&T Express](http://www.trinidadexpress.com/index.pl/article_news?id=153641644)

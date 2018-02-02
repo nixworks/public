@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/29/the-bank-of-japan-adopts-a-negative-interest-ra
 
 ### [2016-01-29](/news/2016/01/29/index.md)
 
+##### Bank of Japan
 # The Bank of Japan adopts a negative interest rate policy to support the economy. 
 
 U.S. stocks joined an advance in global equities, while bonds rallied as the Bank of Japan’s unexpected monetary stimulus boosted confidence that central banks remain vigilant of slowing economic growth. The yen tumbled, while oil gained.

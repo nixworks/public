@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/26/almaz-atambayev-chairman-of-the-social-democratic-party-of-kyrgyzstan-warns-that-if-prime-minister-felix-kulov-s-proposed-amendments-to-t.html)  [JSON](/news/2006/12/26/almaz-atambayev-chairman-of-the-social-democratic-party-of-kyrgyzstan-warns-that-if-prime-minister-felix-kulov-s-proposed-amendments-to-t.json)  [XML](/news/2006/12/26/almaz-atambayev-chairman-of-the-social-democratic-party-of-kyrgyzstan-warns-that-if-prime-minister-felix-kulov-s-proposed-amendments-to-t.xml)  
+
 ### [2006-12-26](/news/2006/12/26/index.md)
 
+##### Almaz Atambayev
 #  Almaz Atambayev, Chairman of the Social Democratic Party of Kyrgyzstan, warns that if Prime Minister Felix Kulov's proposed amendments to the constitution are passed, giving greater power to the executive branch, Kyrgyzstan will descend into civil war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RadioFreeEurope/RadioLiberty](http://www.rferl.org/featuresarticle/2006/12/BA9BA77F-140E-477E-A444-D7A8B3A594AE.html)
 

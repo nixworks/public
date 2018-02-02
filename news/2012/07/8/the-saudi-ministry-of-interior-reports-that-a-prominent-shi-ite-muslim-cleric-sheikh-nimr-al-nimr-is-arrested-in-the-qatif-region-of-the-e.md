@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/8/the-saudi-ministry-of-interior-reports-that-a-prominent-shi-ite-muslim-cleric-sheikh-nimr-al-nimr-is-arrested-in-the-qatif-region-of-the-e.html)  [JSON](/news/2012/07/8/the-saudi-ministry-of-interior-reports-that-a-prominent-shi-ite-muslim-cleric-sheikh-nimr-al-nimr-is-arrested-in-the-qatif-region-of-the-e.json)  [XML](/news/2012/07/8/the-saudi-ministry-of-interior-reports-that-a-prominent-shi-ite-muslim-cleric-sheikh-nimr-al-nimr-is-arrested-in-the-qatif-region-of-the-e.xml)  
+
 ### [2012-07-8](/news/2012/07/8/index.md)
 
+##### Interior Ministry
 # The Saudi Ministry of Interior reports that a prominent Shi'ite Muslim cleric, Sheikh Nimr al Nimr, is arrested in the Qatif region of the Eastern Province after being shot in the leg by police in an exchange of fire. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/08/us-saudi-arrest-idUSBRE8670GH20120708)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/07/08/us-saudi-arrest-idUSBRE8670GH20120708)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

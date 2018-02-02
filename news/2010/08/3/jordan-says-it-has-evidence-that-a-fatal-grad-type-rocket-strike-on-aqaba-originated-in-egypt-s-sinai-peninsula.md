@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/jordan-says-it-has-evidence-that-a-fatal-grad-type-rocket-strike-on-aqaba-originated-in-egypt-s-sinai-peninsula.html)  [JSON](/news/2010/08/3/jordan-says-it-has-evidence-that-a-fatal-grad-type-rocket-strike-on-aqaba-originated-in-egypt-s-sinai-peninsula.json)  [XML](/news/2010/08/3/jordan-says-it-has-evidence-that-a-fatal-grad-type-rocket-strike-on-aqaba-originated-in-egypt-s-sinai-peninsula.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Jordan
 # Jordan says it has evidence that a fatal Grad-type rocket strike on Aqaba originated in Egypt's Sinai Peninsula. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/jordan-has-proof-rocket-fired-from-egypt-20100803-11553.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

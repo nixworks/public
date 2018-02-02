@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/26/the-greenlandic-self-government-referendum-passes-with-75-approval.html)  [JSON](/news/2008/11/26/the-greenlandic-self-government-referendum-passes-with-75-approval.json)  [XML](/news/2008/11/26/the-greenlandic-self-government-referendum-passes-with-75-approval.xml)  
+
 ### [2008-11-26](/news/2008/11/26/index.md)
 
+##### 2008 referendum
 #  The Greenlandic self-government referendum passes with 75% approval. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/7749427.stm)
 

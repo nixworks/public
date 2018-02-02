@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/12/manchester-city-and-togo-striker-emmanuel-adebayor-announces-his-retirement-from-international-football-at-the-age-of-26-saying-he-is-stil.html)  [JSON](/news/2010/04/12/manchester-city-and-togo-striker-emmanuel-adebayor-announces-his-retirement-from-international-football-at-the-age-of-26-saying-he-is-stil.json)  [XML](/news/2010/04/12/manchester-city-and-togo-striker-emmanuel-adebayor-announces-his-retirement-from-international-football-at-the-age-of-26-saying-he-is-stil.xml)  
+
 ### [2010-04-12](/news/2010/04/12/index.md)
 
+##### Manchester City
 # Manchester City and Togo striker Emmanuel Adebayor announces his retirement from international football at the age of 26, saying he is "still haunted" by the Togo national football team attack which killed three of his colleagues in Angola ahead of the 2010 Africa Cup of Nations three months ago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/africa/8616196.stm)
 2. [The Guardian](http://www.guardian.co.uk/football/2010/apr/12/emmanuel-adebayor-manchester-city-worst-season)

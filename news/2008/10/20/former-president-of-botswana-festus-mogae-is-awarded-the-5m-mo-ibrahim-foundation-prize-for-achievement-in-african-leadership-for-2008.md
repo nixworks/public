@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/20/former-president-of-botswana-festus-mogae-is-awarded-the-5m-mo-ibrahim-foundation-prize-for-achievement-in-african-leadership-for-2008.html)  [JSON](/news/2008/10/20/former-president-of-botswana-festus-mogae-is-awarded-the-5m-mo-ibrahim-foundation-prize-for-achievement-in-african-leadership-for-2008.json)  [XML](/news/2008/10/20/former-president-of-botswana-festus-mogae-is-awarded-the-5m-mo-ibrahim-foundation-prize-for-achievement-in-african-leadership-for-2008.xml)  
+
 ### [2008-10-20](/news/2008/10/20/index.md)
 
+##### President
 #  Former President of Botswana, Festus Mogae is awarded the $5m Mo Ibrahim Foundation Prize for Achievement in African Leadership for 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PA](http://ukpress.google.com/article/ALeqM5gh8oAFaI4WQ-RcH5dCEAK7B-IsaA)
 

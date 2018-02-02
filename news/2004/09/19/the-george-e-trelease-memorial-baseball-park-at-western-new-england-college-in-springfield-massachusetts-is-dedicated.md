@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/19/the-george-e-trelease-memorial-baseball-park-at-western-new-england-college-in-springfield-massachusetts-is-dedicated.html)  [JSON](/news/2004/09/19/the-george-e-trelease-memorial-baseball-park-at-western-new-england-college-in-springfield-massachusetts-is-dedicated.json)  [XML](/news/2004/09/19/the-george-e-trelease-memorial-baseball-park-at-western-new-england-college-in-springfield-massachusetts-is-dedicated.xml)  
+
 ### [2004-09-19](/news/2004/09/19/index.md)
 
+##### George E. Trelease Memorial Baseball Park
 #  The George E. Trelease Memorial Baseball Park at Western New England College in Springfield, Massachusetts, is dedicated. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Western New England College Athletics](http://www1.wnec.edu/athletics/index.cfm?selection=doc.3488)
 

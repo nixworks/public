@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/29/north-korea-fires-artillery-towards-south-korean-territory-at-the-northern-limit-line-for-a-third-consecutive-day.html)  [JSON](/news/2010/01/29/north-korea-fires-artillery-towards-south-korean-territory-at-the-northern-limit-line-for-a-third-consecutive-day.json)  [XML](/news/2010/01/29/north-korea-fires-artillery-towards-south-korean-territory-at-the-northern-limit-line-for-a-third-consecutive-day.xml)  
+
 ### [2010-01-29](/news/2010/01/29/index.md)
 
+##### North Korea
 # North Korea fires artillery towards South Korean territory at the Northern Limit Line for a third consecutive day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-01/29/c_13155902.htm)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/01/29/32/0301000000AEN20100129006400315F.HTML)

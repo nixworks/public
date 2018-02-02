@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/27/a-suspected-u-s-drone-fired-missiles-at-a-house-in-northwestern-pakistan-in-khushali-a-village-near-mir-ali-killing-four-people.html)  [JSON](/news/2010/09/27/a-suspected-u-s-drone-fired-missiles-at-a-house-in-northwestern-pakistan-in-khushali-a-village-near-mir-ali-killing-four-people.json)  [XML](/news/2010/09/27/a-suspected-u-s-drone-fired-missiles-at-a-house-in-northwestern-pakistan-in-khushali-a-village-near-mir-ali-killing-four-people.xml)  
+
 ### [2010-09-27](/news/2010/09/27/index.md)
 
+##### drones launch
 # A suspected U.S. drone fired missiles at a house in northwestern Pakistan in Khushali, a village near Mir Ali, killing four people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2010/09/27/suspected-us-missile-strike-kills-4-nw-pakistan.html)
 

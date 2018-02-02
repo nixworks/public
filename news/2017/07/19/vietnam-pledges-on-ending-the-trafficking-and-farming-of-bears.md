@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/19/vietnam-pledges-on-ending-the-trafficking-and-f
 
 ### [2017-07-19](/news/2017/07/19/index.md)
 
+##### Vietnam
 # Vietnam pledges on ending the trafficking and farming of bears. 
 
 The country has agreed to move about a thousand animals to sanctuaries.

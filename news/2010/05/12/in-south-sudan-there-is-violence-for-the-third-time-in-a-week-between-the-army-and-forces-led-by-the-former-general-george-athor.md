@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/12/in-south-sudan-there-is-violence-for-the-third-time-in-a-week-between-the-army-and-forces-led-by-the-former-general-george-athor.html)  [JSON](/news/2010/05/12/in-south-sudan-there-is-violence-for-the-third-time-in-a-week-between-the-army-and-forces-led-by-the-former-general-george-athor.json)  [XML](/news/2010/05/12/in-south-sudan-there-is-violence-for-the-third-time-in-a-week-between-the-army-and-forces-led-by-the-former-general-george-athor.xml)  
+
 ### [2010-05-12](/news/2010/05/12/index.md)
 
+##### South Sudan
 # In South Sudan there is violence for the third time in a week between the army and forces led by the former general George Athor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8678387.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKLDE64B2S1._CH_.2420)

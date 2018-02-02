@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/04/4/the-moldovan-parliament-re-elects-president-vladimir-voronin.html)  [JSON](/news/2005/04/4/the-moldovan-parliament-re-elects-president-vladimir-voronin.json)  [XML](/news/2005/04/4/the-moldovan-parliament-re-elects-president-vladimir-voronin.xml)  
+
 ### [2005-04-4](/news/2005/04/4/index.md)
 
+##### Moldova
 #  The Moldovan parliament re-elects president Vladimir Voronin. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/rian/index.cfm?prd_id=160&msg_id=5488648&startrow=1&date=2005-04-04&do_alert=0)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8080583)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8080583)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

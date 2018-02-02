@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/08/23/a-judge-in-new-york-city-rules-in-favour-dropping-sexual-assault-charges-against-former-international-monetary-fund-head-dominique-strauss-k.html)  [JSON](/news/2011/08/23/a-judge-in-new-york-city-rules-in-favour-dropping-sexual-assault-charges-against-former-international-monetary-fund-head-dominique-strauss-k.json)  [XML](/news/2011/08/23/a-judge-in-new-york-city-rules-in-favour-dropping-sexual-assault-charges-against-former-international-monetary-fund-head-dominique-strauss-k.xml)  
+
 ### [2011-08-23](/news/2011/08/23/index.md)
 
+##### New York City
 # A judge in New York City rules in favour dropping sexual assault charges against former International Monetary Fund head Dominique Strauss-Kahn. 
 
 A judge’s dismissal of the sexual assault case against Dominique Strauss-Kahn brought some measure of legal vindication to him after his stunning arrest.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/08/24/nyregion/charges-against-strauss-kahn-dismissed.html)
+1. [New York Times](https://www.nytimes.com/2011/08/24/nyregion/charges-against-strauss-kahn-dismissed.html)
 1. [Cover Image](https://static01.nyt.com/images/2011/08/24/nyregion/jpydsk1/jpydsk1-thumbStandard.jpg)
 
 ### Related:

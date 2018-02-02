@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/12/at-a-meeting-in-caracas-venezuelan-president-hugo-chavez-and-argentine-president-cristina-fernandez-de-kirchner-sign-agreements-expanding.html)  [JSON](/news/2009/08/12/at-a-meeting-in-caracas-venezuelan-president-hugo-chavez-and-argentine-president-cristina-fernandez-de-kirchner-sign-agreements-expanding.json)  [XML](/news/2009/08/12/at-a-meeting-in-caracas-venezuelan-president-hugo-chavez-and-argentine-president-cristina-fernandez-de-kirchner-sign-agreements-expanding.xml)  
+
 ### [2009-08-12](/news/2009/08/12/index.md)
 
+##### Caracas
 #  At a meeting in Caracas, Venezuelan President Hugo Chvez and Argentine President Cristina Fernndez de Kirchner sign agreements expanding trade between their two countries. 
 
 Venezuelan President Hugo Chavez received on Tuesday Argentine President Cristina Fernandez de Kirchner in Caracas to sign agreements expanding trade between the two countries. Among the deals was an accord to import as many as 10,000 cars from Argentina this year instead of Colombia.
 
 
-### Source:
+### Sources:
 
 1. [MercoPress](http://en.mercopress.com/2009/08/12/chavez-and-cristina-sign-a-billion-usd-trade-agreement)
 1. [Cover Image](http://en.mercopress.com/imgs.php/noticias/19794/200x200/fe9971bf7ae206ff19dcd8dc219a6b95.jpg)

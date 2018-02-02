@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/3/greek-and-turkish-cypriots-open-a-crossing-at-ledra-street-a-main-shopping-street-in-cyprus-divided-capital-nicosia-that-has-come-to-symb.html)  [JSON](/news/2008/04/3/greek-and-turkish-cypriots-open-a-crossing-at-ledra-street-a-main-shopping-street-in-cyprus-divided-capital-nicosia-that-has-come-to-symb.json)  [XML](/news/2008/04/3/greek-and-turkish-cypriots-open-a-crossing-at-ledra-street-a-main-shopping-street-in-cyprus-divided-capital-nicosia-that-has-come-to-symb.xml)  
+
 ### [2008-04-3](/news/2008/04/3/index.md)
 
+##### northern
 #  Greek and Turkish Cypriots open a crossing at Ledra Street, a main shopping street in Cyprus' divided capital Nicosia that has come to symbolize the island's ethnic partition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The International Herald Tribune](http://www.iht.com/articles/ap/2008/04/03/europe/EU-GEN-Cyprus-Ledra-Street.php)
 

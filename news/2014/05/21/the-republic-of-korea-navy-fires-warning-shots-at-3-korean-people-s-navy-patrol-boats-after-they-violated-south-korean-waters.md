@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/21/the-republic-of-korea-navy-fires-warning-shots-at-3-korean-people-s-navy-patrol-boats-after-they-violated-south-korean-waters.html)  [JSON](/news/2014/05/21/the-republic-of-korea-navy-fires-warning-shots-at-3-korean-people-s-navy-patrol-boats-after-they-violated-south-korean-waters.json)  [XML](/news/2014/05/21/the-republic-of-korea-navy-fires-warning-shots-at-3-korean-people-s-navy-patrol-boats-after-they-violated-south-korean-waters.xml)  
+
 ### [2014-05-21](/news/2014/05/21/index.md)
 
+##### South Korean Navy
 # The Republic of Korea Navy fires warning shots at 3 Korean People's Navy patrol boats after they violated South Korean waters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/05/20/world/asia/north-korea-ships/)
 

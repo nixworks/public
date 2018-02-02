@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/3/nato-s-secretary-general-anders-fogh-rasmussen-is-to-visit-russia-to-discuss-the-european-missile-defence-project-with-president-medvedev.html)  [JSON](/news/2010/11/3/nato-s-secretary-general-anders-fogh-rasmussen-is-to-visit-russia-to-discuss-the-european-missile-defence-project-with-president-medvedev.json)  [XML](/news/2010/11/3/nato-s-secretary-general-anders-fogh-rasmussen-is-to-visit-russia-to-discuss-the-european-missile-defence-project-with-president-medvedev.xml)  
+
 ### [2010-11-3](/news/2010/11/3/index.md)
 
+##### NATO
 # NATO's Secretary General Anders Fogh Rasmussen is to visit Russia to discuss the European missile defence project with President Medvedev. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/03/c_13588004.htm)
 

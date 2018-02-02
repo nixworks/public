@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/29/in-italy-after-three-weeks-of-wrangling-over-a-narrow-election-defeat-prime-minister-silvio-berlusconi-finally-says-he-will-resign-within.html)  [JSON](/news/2006/04/29/in-italy-after-three-weeks-of-wrangling-over-a-narrow-election-defeat-prime-minister-silvio-berlusconi-finally-says-he-will-resign-within.json)  [XML](/news/2006/04/29/in-italy-after-three-weeks-of-wrangling-over-a-narrow-election-defeat-prime-minister-silvio-berlusconi-finally-says-he-will-resign-within.xml)  
+
 ### [2006-04-29](/news/2006/04/29/index.md)
 
+##### April 9-10 elections
 #  In Italy, after three weeks of wrangling over a narrow election defeat, Prime Minister Silvio Berlusconi finally says he will resign within a week, clearing the way for Romano Prodi and his L'Unione coalition to form a new government. 
 
 Italian Prime Minister Silvio Berlusconi indicated on Saturday that he was ready to resign, more than three weeks after a narrow election defeat.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/04/29/italy_060429.html)
 2. [CNN](http://edition.cnn.com/2006/WORLD/europe/04/30/italy.election.ap/)

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/04/14/united-states-attorney-general-alberto-gonzales-announces-that-law-enforcement-agencies-have-arrested-10-340-fugitives-in-operation-falcon.html)  [JSON](/news/2005/04/14/united-states-attorney-general-alberto-gonzales-announces-that-law-enforcement-agencies-have-arrested-10-340-fugitives-in-operation-falcon.json)  [XML](/news/2005/04/14/united-states-attorney-general-alberto-gonzales-announces-that-law-enforcement-agencies-have-arrested-10-340-fugitives-in-operation-falcon.xml)  
+
 ### [2005-04-14](/news/2005/04/14/index.md)
 
+##### United States Attorney General
 #  United States Attorney General Alberto Gonzales announces that law enforcement agencies have arrested 10,340 fugitives in Operation Falcon between April 4-10. 
 
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/Politics/wireStory?id=671486)
 2. [Operation Falcon website](http://www.usdoj.gov/marshals/falcon/index.html)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=8186497)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=8186497)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

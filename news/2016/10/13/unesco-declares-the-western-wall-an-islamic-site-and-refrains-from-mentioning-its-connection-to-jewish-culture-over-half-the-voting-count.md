@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/13/unesco-declares-the-western-wall-an-islamic-sit
 
 ### [2016-10-13](/news/2016/10/13/index.md)
 
+##### UNESCO
 # UNESCO declares the Western Wall an "Islamic site" and refrains from mentioning its connection to Jewish culture. Over half the voting countries chose to abstain. 
 
 The historic UNESCO vote claims Temple Mount and the Western Wall are solely Muslim holy sites.

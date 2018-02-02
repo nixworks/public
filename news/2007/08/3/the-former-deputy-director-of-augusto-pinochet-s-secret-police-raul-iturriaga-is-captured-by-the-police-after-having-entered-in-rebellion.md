@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/3/the-former-deputy-director-of-augusto-pinochet-s-secret-police-raul-iturriaga-is-captured-by-the-police-after-having-entered-in-rebellion.html)  [JSON](/news/2007/08/3/the-former-deputy-director-of-augusto-pinochet-s-secret-police-raul-iturriaga-is-captured-by-the-police-after-having-entered-in-rebellion.json)  [XML](/news/2007/08/3/the-former-deputy-director-of-augusto-pinochet-s-secret-police-raul-iturriaga-is-captured-by-the-police-after-having-entered-in-rebellion.xml)  
+
 ### [2007-08-3](/news/2007/08/3/index.md)
 
+##### Augusto Pinochet
 #  The former deputy director of Augusto Pinochet's secret police, Raul Iturriaga, is captured by the police after having entered in rebellion in June 2007 against the Chilean state and justice 
 
 A fugitive ex-general from the Pinochet era was captured Thursday, Chilean authorities said.Former Gen. Raul Iturriaga Neumann, 69, was arrested without incident in an apartment in the resort town...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-chile3aug03,0,1144327.story?coll=la-home-world)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/10/united-states-green-berets-and-kurdish-fighters-enter-the-city-of-kirkuk-in-iraq-with-little-resistance-turkey-and-u-s-in-separate-state.html)  [JSON](/news/2003/04/10/united-states-green-berets-and-kurdish-fighters-enter-the-city-of-kirkuk-in-iraq-with-little-resistance-turkey-and-u-s-in-separate-state.json)  [XML](/news/2003/04/10/united-states-green-berets-and-kurdish-fighters-enter-the-city-of-kirkuk-in-iraq-with-little-resistance-turkey-and-u-s-in-separate-state.xml)  
+
 ### [2003-04-10](/news/2003/04/10/index.md)
 
+##### Green Berets
 #  United States Green Berets and Kurdish fighters enter the city of Kirkuk in Iraq with little resistance. Turkey and U.S., in separate statements, say they will not allow the Kurds to occupy the city.,
 
 

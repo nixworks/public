@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/5/palestinian-authority-prime-minister-mahmoud-abbas-tells-the-palestinian-parliament-to-either-support-him-or-fire-him-a-move-seen-as-maki.html)  [JSON](/news/2003/09/5/palestinian-authority-prime-minister-mahmoud-abbas-tells-the-palestinian-parliament-to-either-support-him-or-fire-him-a-move-seen-as-maki.json)  [XML](/news/2003/09/5/palestinian-authority-prime-minister-mahmoud-abbas-tells-the-palestinian-parliament-to-either-support-him-or-fire-him-a-move-seen-as-maki.xml)  
+
 ### [2003-09-5](/news/2003/09/5/index.md)
 
+##### Palestinian Authority
 #  Palestinian Authority: Prime Minister Mahmoud Abbas tells the Palestinian parliament to either support him or fire him, a move seen as making public for the first time his quarrel with Yasser Arafat. VOA characterizes Mr. Abbas' ultimatum as the latest twist in a power struggle between him and Arafat, who is the President of the Palestinian Authority. 
 
 

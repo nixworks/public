@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/08/24/venezuela-s-national-commission-of-telecommunications-conatel-takes-colombian-television-channels-caracol-televisia3n-and-rcn-televisia3n.html)  [JSON](/news/2017/08/24/venezuela-s-national-commission-of-telecommunications-conatel-takes-colombian-television-channels-caracol-televisia3n-and-rcn-televisia3n.json)  [XML](/news/2017/08/24/venezuela-s-national-commission-of-telecommunications-conatel-takes-colombian-television-channels-caracol-televisia3n-and-rcn-televisia3n.xml)  
+
 ### [2017-08-24](/news/2017/08/24/index.md)
 
+##### Colombia-Venezuela relations
 # Venezuela's National Commission of Telecommunications (Conatel) takes Colombian television channels Caracol Television and RCN Television off air due to their coverage of the 2017 Venezuelan constitutional crisis. 
 
 Colombian TV channels Caracol and RCN are the latest foreign media to be pulled from the airwaves.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-41041585)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/9A43/production/_97519493_mediaitem97519489.jpg)

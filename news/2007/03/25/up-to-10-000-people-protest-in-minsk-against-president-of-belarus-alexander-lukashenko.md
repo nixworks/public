@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/03/25/up-to-10-000-people-protest-in-minsk-against-president-of-belarus-alexander-lukashenko.html)  [JSON](/news/2007/03/25/up-to-10-000-people-protest-in-minsk-against-president-of-belarus-alexander-lukashenko.json)  [XML](/news/2007/03/25/up-to-10-000-people-protest-in-minsk-against-president-of-belarus-alexander-lukashenko.xml)  
+
 ### [2007-03-25](/news/2007/03/25/index.md)
 
+##### Minsk
 #  Up to 10,000 people protest in Minsk against President of Belarus Alexander Lukashenko. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/03/25/AR2007032501006.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/03/25/AR2007032501006.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

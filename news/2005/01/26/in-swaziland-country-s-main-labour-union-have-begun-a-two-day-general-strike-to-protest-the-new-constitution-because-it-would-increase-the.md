@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/26/in-swaziland-country-s-main-labour-union-have-begun-a-two-day-general-strike-to-protest-the-new-constitution-because-it-would-increase-the.html)  [JSON](/news/2005/01/26/in-swaziland-country-s-main-labour-union-have-begun-a-two-day-general-strike-to-protest-the-new-constitution-because-it-would-increase-the.json)  [XML](/news/2005/01/26/in-swaziland-country-s-main-labour-union-have-begun-a-two-day-general-strike-to-protest-the-new-constitution-because-it-would-increase-the.xml)  
+
 ### [2005-01-26](/news/2005/01/26/index.md)
 
+##### Swaziland
 #  In Swaziland, country's main labour union have begun a two-day general strike to protest the new constitution because it would increase the power of the king Mswati III 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200501250744.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4204619.stm)

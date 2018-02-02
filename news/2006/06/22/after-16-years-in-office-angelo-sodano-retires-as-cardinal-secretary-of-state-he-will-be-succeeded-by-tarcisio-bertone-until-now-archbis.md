@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/22/after-16-years-in-office-angelo-sodano-retires-as-cardinal-secretary-of-state-he-will-be-succeeded-by-tarcisio-bertone-until-now-archbis.html)  [JSON](/news/2006/06/22/after-16-years-in-office-angelo-sodano-retires-as-cardinal-secretary-of-state-he-will-be-succeeded-by-tarcisio-bertone-until-now-archbis.json)  [XML](/news/2006/06/22/after-16-years-in-office-angelo-sodano-retires-as-cardinal-secretary-of-state-he-will-be-succeeded-by-tarcisio-bertone-until-now-archbis.xml)  
+
 ### [2006-06-22](/news/2006/06/22/index.md)
 
+##### Angelo Sodano
 #  After 16 years in office, Angelo Sodano retires as Cardinal Secretary of State. He will be succeeded by Tarcisio Bertone, until now Archbishop of Genoa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Holy See Bollettino](http://212.77.1.245/news_services/bulletin/news/18525.php?index=18525&lang=en)
 

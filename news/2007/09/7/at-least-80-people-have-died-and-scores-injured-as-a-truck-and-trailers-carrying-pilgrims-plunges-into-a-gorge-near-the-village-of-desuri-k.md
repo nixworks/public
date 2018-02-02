@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/7/at-least-80-people-have-died-and-scores-injured-as-a-truck-and-trailers-carrying-pilgrims-plunges-into-a-gorge-near-the-village-of-desuri-k.html)  [JSON](/news/2007/09/7/at-least-80-people-have-died-and-scores-injured-as-a-truck-and-trailers-carrying-pilgrims-plunges-into-a-gorge-near-the-village-of-desuri-k.json)  [XML](/news/2007/09/7/at-least-80-people-have-died-and-scores-injured-as-a-truck-and-trailers-carrying-pilgrims-plunges-into-a-gorge-near-the-village-of-desuri-k.xml)  
+
 ### [2007-09-7](/news/2007/09/7/index.md)
 
+##### pilgrim
 #  At least 80 people have died and scores injured as a truck and trailers carrying pilgrims plunges into a gorge near the village of Desuri Ki Naal in Rajasthan, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/76D96CE6-F475-4A91-890A-E1D2B74F8B95.htm)
 

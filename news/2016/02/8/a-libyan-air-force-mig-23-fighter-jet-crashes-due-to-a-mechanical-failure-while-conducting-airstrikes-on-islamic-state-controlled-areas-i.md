@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/8/a-libyan-air-force-mig-23-fighter-jet-crashes-du
 
 ### [2016-02-8](/news/2016/02/8/index.md)
 
+##### Libyan Civil War (2014-present)
 # A Libyan Air Force MiG-23 fighter jet crashes due to a "mechanical failure", while conducting airstrikes on Islamic State-controlled areas in the eastern city of Derna. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/28/2012-malian-coup-d-a-c-tat-coup-leaders-in-mali-unveil-a-new-constitution.html)  [JSON](/news/2012/03/28/2012-malian-coup-d-a-c-tat-coup-leaders-in-mali-unveil-a-new-constitution.json)  [XML](/news/2012/03/28/2012-malian-coup-d-a-c-tat-coup-leaders-in-mali-unveil-a-new-constitution.xml)  
+
 ### [2012-03-28](/news/2012/03/28/index.md)
 
+##### Mali's coup
 # 2012 Malian coup d'etat: Coup leaders in Mali unveil a new constitution. 
 
 African delegation set to arrive to press for restoration of democracy, as thousands march in support of mutineers.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/03/201232813426685119.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/28/2012328134041530734_20.jpg)

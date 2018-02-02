@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/16/ekmeleddin-adeghsanoalu-the-secretary-general-of-the-organisation-of-the-islamic-conference-calls-for-an-end-of-fighting-between-the-phili.html)  [JSON](/news/2007/04/16/ekmeleddin-adeghsanoalu-the-secretary-general-of-the-organisation-of-the-islamic-conference-calls-for-an-end-of-fighting-between-the-phili.json)  [XML](/news/2007/04/16/ekmeleddin-adeghsanoalu-the-secretary-general-of-the-organisation-of-the-islamic-conference-calls-for-an-end-of-fighting-between-the-phili.xml)  
+
 ### [2007-04-16](/news/2007/04/16/index.md)
 
+##### Ekmeleddin Ihsanoglu
 #  Ekmeleddin Ihsanoglu, the Secretary-General of the Organisation of the Islamic Conference, calls for an end of fighting between the Philippines government and the Moro National Liberation Front, which has killed at least 12 people over the past few days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/04/17/asia/AS-GEN-Philippines-Muslim-Rebels.php)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/08/4/roughly-1-500-united-arab-emirates-army-troops-deploy-with-tanks-and-heavy-equipment-to-the-strategic-southern-yemeni-city-of-aden-which-has.html)  [JSON](/news/2015/08/4/roughly-1-500-united-arab-emirates-army-troops-deploy-with-tanks-and-heavy-equipment-to-the-strategic-southern-yemeni-city-of-aden-which-has.json)  [XML](/news/2015/08/4/roughly-1-500-united-arab-emirates-army-troops-deploy-with-tanks-and-heavy-equipment-to-the-strategic-southern-yemeni-city-of-aden-which-has.xml)  
+
 ### [2015-08-4](/news/2015/08/4/index.md)
 
+##### Yemeni Civil War (2015)
 # Roughly 1,500 United Arab Emirates Army troops deploy with tanks and heavy equipment to the strategic southern Yemeni city of Aden which has been the scene of heavy fighting between Houthi militants and fighters loyal to the previous regime of Abd Rabbuh Mansur Hadi. Previous attempts by the Saudi Arabian Army and Royal Saudi Air Force to defeat the Houthis were unsuccessful. 
 
 Hundreds of Gulf Arab troops from the Saudi-led coalition fighting Iran-backed rebels in Yemen have entered the southern port of Aden, a military source told AFP on Monday. The source said the troops arrived in Yemen&#x27;s second city on Sunday with tanks and armoured vehicles. The Saudi-owned Al-Hayat
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo](http://news.yahoo.com/hundreds-gulf-arab-troops-enter-yemens-liberated-aden-113146417.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/4FBOYMUsDD.ZsZMy3Lmvhg--/aD03MjY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/9a25cc1a98451e4dd8b12f534534a06d2f198026.jpg)
+1. [AFP via Yahoo](https://news.yahoo.com/hundreds-gulf-arab-troops-enter-yemens-liberated-aden-113146417.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/DDPXnxbQVYarFSHbdLQTWw--~B/aD03MjY7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/9a25cc1a98451e4dd8b12f534534a06d2f198026.jpg)
 
 ### Related:
 

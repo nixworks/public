@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/20/remains-of-a-104-year-old-woman-s-body-are-discovered-in-her-son-s-backpack-during-a-nationwide-search-in-japan-for-missing-centenarians-it.html)  [JSON](/news/2010/08/20/remains-of-a-104-year-old-woman-s-body-are-discovered-in-her-son-s-backpack-during-a-nationwide-search-in-japan-for-missing-centenarians-it.json)  [XML](/news/2010/08/20/remains-of-a-104-year-old-woman-s-body-are-discovered-in-her-son-s-backpack-during-a-nationwide-search-in-japan-for-missing-centenarians-it.xml)  
+
 ### [2010-08-20](/news/2010/08/20/index.md)
 
+##### Japan
 # Remains of a 104-year-old woman's body are discovered in her son's backpack during a nationwide search in Japan for missing centenarians. It is thought they may have been there for a decade. 
 
 The remains of a Japanese woman are found in a backpack, police say, as they search for scores of missing centenarians.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jLjXlOvLKK3ZRqvPb3cHLWYxVIFA)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11039196)
@@ -13,8 +17,8 @@ The remains of a Japanese woman are found in a backpack, police say, as they sea
 
 ### Related:
 
-1. [A national search uncovers 200 missing Japanese centenarians so far. ](/news/2010/08/12/a-national-search-uncovers-200-missing-japanese-centenarians-so-far.md) _Context: 100th birthday, Japan_
-2. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Japan_
-3. [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md) _Context: Japan_
-4. [Aquatic species from Japan hitched a ride on debris from the 2011 Tohoku earthquake and tsunami and were able to reach the West Coast of the United States alive. ](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.md) _Context: Japan_
-5. [Japanese Prime Minister Shinzo Abe is expected to dissolve the House of Representatives on September 28, 2017 to make way for fresh elections. ](/news/2017/09/17/japanese-prime-minister-shinza-abe-is-expected-to-dissolve-the-house-of-representatives-on-september-28-2017-to-make-way-for-fresh-electio.md) _Context: Japan_
+1. [A national search uncovers 200 missing Japanese centenarians so far. ](/news/2010/08/12/a-national-search-uncovers-200-missing-japanese-centenarians-so-far.md) _Context: Japan, centenarian_
+2. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_
+3. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: Japan_
+4. [A 17-pound (8 kg) CH-53E transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-ch-53e-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week.md) _Context: Japan_
+5. [Former millionaire Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. ](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.md) _Context: Japan_

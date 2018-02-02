@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/16/businessman-donald-trump-announces-he-will-not-seek-the-republican-nomination-for-the-2012-united-states-presidential-election.html)  [JSON](/news/2011/05/16/businessman-donald-trump-announces-he-will-not-seek-the-republican-nomination-for-the-2012-united-states-presidential-election.json)  [XML](/news/2011/05/16/businessman-donald-trump-announces-he-will-not-seek-the-republican-nomination-for-the-2012-united-states-presidential-election.xml)  
+
 ### [2011-05-16](/news/2011/05/16/index.md)
 
+##### Donald Trump
 # Businessman Donald Trump announces he will not seek the Republican nomination for the 2012 United States presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Politico](http://www.politico.com/news/stories/0511/55052.html)
 1. [Cover Image](http://s3-origin-images.politico.com/news/110516_trump_car_reuters_328.jpg)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/07/11/lee-sang-deuk-the-elder-brother-of-south-korean-president-lee-myung-bak-is-arrested-in-seoul-on-bribery-charges.html)  [JSON](/news/2012/07/11/lee-sang-deuk-the-elder-brother-of-south-korean-president-lee-myung-bak-is-arrested-in-seoul-on-bribery-charges.json)  [XML](/news/2012/07/11/lee-sang-deuk-the-elder-brother-of-south-korean-president-lee-myung-bak-is-arrested-in-seoul-on-bribery-charges.xml)  
+
 ### [2012-07-11](/news/2012/07/11/index.md)
 
+##### Lee Sang-deuk
 # Lee Sang-deuk, the elder brother of South Korean president Lee Myung-bak, is arrested in Seoul on bribery charges. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia_pacific/skorean-presidents-brother-arrested-over-bribery-allegations-in-embarrassment-to-ruling-party/2012/07/10/gJQAhIHwbW_story.html?wprss=rss_social-world-headlines)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/skorean-presidents-brother-arrested-over-bribery-allegations-in-embarrassment-to-ruling-party/2012/07/10/gJQAhIHwbW_story.html?wprss=rss_social-world-headlines)
 
 ### Related:
 

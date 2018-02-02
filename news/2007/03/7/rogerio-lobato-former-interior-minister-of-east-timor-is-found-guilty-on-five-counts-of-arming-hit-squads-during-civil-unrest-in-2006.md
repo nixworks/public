@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/7/rogerio-lobato-former-interior-minister-of-east-timor-is-found-guilty-on-five-counts-of-arming-hit-squads-during-civil-unrest-in-2006.html)  [JSON](/news/2007/03/7/rogerio-lobato-former-interior-minister-of-east-timor-is-found-guilty-on-five-counts-of-arming-hit-squads-during-civil-unrest-in-2006.json)  [XML](/news/2007/03/7/rogerio-lobato-former-interior-minister-of-east-timor-is-found-guilty-on-five-counts-of-arming-hit-squads-during-civil-unrest-in-2006.xml)  
+
 ### [2007-03-7](/news/2007/03/7/index.md)
 
+##### East Timor
 #  Rogerio Lobato, former Interior Minister of East Timor, is found guilty on five counts of arming hit squads during civil unrest in 2006. 
 
 The Age 404 Page
 
 
-### Source:
+### Sources:
 
 1. [The Melbourne Age](http://www.theage.com.au/news/World/Lobato-guilty-of-arming-Timor-hit-squads/2007/03/07/1173166770605.html)
 1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)

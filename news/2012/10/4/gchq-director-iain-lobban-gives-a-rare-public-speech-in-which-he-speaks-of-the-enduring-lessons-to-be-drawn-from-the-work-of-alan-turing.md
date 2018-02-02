@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/4/gchq-director-iain-lobban-gives-a-rare-public-speech-in-which-he-speaks-of-the-enduring-lessons-to-be-drawn-from-the-work-of-alan-turing.html)  [JSON](/news/2012/10/4/gchq-director-iain-lobban-gives-a-rare-public-speech-in-which-he-speaks-of-the-enduring-lessons-to-be-drawn-from-the-work-of-alan-turing.json)  [XML](/news/2012/10/4/gchq-director-iain-lobban-gives-a-rare-public-speech-in-which-he-speaks-of-the-enduring-lessons-to-be-drawn-from-the-work-of-alan-turing.xml)  
+
 ### [2012-10-4](/news/2012/10/4/index.md)
 
+##### GCHQ
 # GCHQ director Iain Lobban gives a rare public speech in which he speaks of the "enduring lessons" to be drawn from the work of Alan Turing, who reportedly committed suicide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/technology-19834593)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63304000/jpg/_63304560_turing.jpg)

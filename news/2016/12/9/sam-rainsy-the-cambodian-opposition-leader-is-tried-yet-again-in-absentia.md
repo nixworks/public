@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/9/sam-rainsy-the-cambodian-opposition-leader-is-tr
 
 ### [2016-12-9](/news/2016/12/9/index.md)
 
+##### Sam Rainsy
 # Sam Rainsy, the Cambodian opposition leader, is tried yet again in absentia. 
 
 

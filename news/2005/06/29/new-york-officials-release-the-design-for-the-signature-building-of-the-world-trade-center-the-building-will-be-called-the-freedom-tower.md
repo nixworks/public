@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/29/new-york-officials-release-the-design-for-the-signature-building-of-the-world-trade-center-the-building-will-be-called-the-freedom-tower.html)  [JSON](/news/2005/06/29/new-york-officials-release-the-design-for-the-signature-building-of-the-world-trade-center-the-building-will-be-called-the-freedom-tower.json)  [XML](/news/2005/06/29/new-york-officials-release-the-design-for-the-signature-building-of-the-world-trade-center-the-building-will-be-called-the-freedom-tower.xml)  
+
 ### [2005-06-29](/news/2005/06/29/index.md)
 
+##### World Trade Center
 #  New York officials release the design for the signature building of the World Trade Center. The building will be called "The Freedom Tower" and shine a ray of light from its spire.
 
 

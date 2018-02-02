@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/7/a-magnitude-8-1-earthquake-is-recorded-96-kilome
 
 ### [2017-09-7](/news/2017/09/7/index.md)
 
+##### 2017 Chiapas earthquake
 # A magnitude 8.1 earthquake is recorded 96 kilometers (60 miles) south of Pijijiapan, Chiapas, Mexico. This is Mexico's strongest quake since the 8.0 earthquake that hit the Greater Mexico City area in 1985. At least 26 deaths have been recorded.
 
 The death toll from an 8.2-magnitude earthquake that hit Mexico has reached at least 32, according to tallies from local authorities.

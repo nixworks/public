@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/18/ten-tibetans-arrested-after-crossing-into-nepal-are-handed-over-to-the-united-nations-high-commissioner-for-refugees-in-kathmandu-reversing.html)  [JSON](/news/2010/01/18/ten-tibetans-arrested-after-crossing-into-nepal-are-handed-over-to-the-united-nations-high-commissioner-for-refugees-in-kathmandu-reversing.json)  [XML](/news/2010/01/18/ten-tibetans-arrested-after-crossing-into-nepal-are-handed-over-to-the-united-nations-high-commissioner-for-refugees-in-kathmandu-reversing.xml)  
+
 ### [2010-01-18](/news/2010/01/18/index.md)
 
+##### Tibetan
 # Ten Tibetans arrested after crossing into Nepal are handed over to the United Nations High Commissioner for Refugees in Kathmandu, reversing an earlier decision to deport them back to China. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [Republica](http://www.myrepublica.com/portal/index.php?action=news_details&news_id=14206)
 2. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1158632&lang=eng_news)

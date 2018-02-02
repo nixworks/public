@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2015/10/17/ardit-ferizi-a-20-year-old-hacker-from-kosovo-and-computer-student-in-malaysia-is-arrested-for-hacking-into-a-phoenix-arizona-computer-sy.html)  [JSON](/news/2015/10/17/ardit-ferizi-a-20-year-old-hacker-from-kosovo-and-computer-student-in-malaysia-is-arrested-for-hacking-into-a-phoenix-arizona-computer-sy.json)  [XML](/news/2015/10/17/ardit-ferizi-a-20-year-old-hacker-from-kosovo-and-computer-student-in-malaysia-is-arrested-for-hacking-into-a-phoenix-arizona-computer-sy.xml)  
+
 ### [2015-10-17](/news/2015/10/17/index.md)
 
+##### hacker
 # Ardit Ferizi, a 20-year-old hacker from Kosovo and computer student in Malaysia, is arrested for hacking into a Phoenix, Arizona computer system and stealing the names and personal information of thousands of U.S. military personnel. Ferizi is accused of giving the information to ISIS. The U.S. is seeking Ferizi's extradition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/videos/us/2015/10/16/isis-hacker-malaysia-dnt-todd-tsr.cnn)
 
 ### Related:
 
 1. [ Malaysia recognizes Kosovo. ](/news/2008/10/30/malaysia-recognizes-kosovo.md) _Context: Kosovo, Malaysia_
-2. [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. Kim Jong-nam was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-kim-j.md) _Context: Malaysia_
-3. [A fire at an Islamic boarding school for boys kills 24 people, most of them students, in Kuala Lumpur, Malaysia. ](/news/2017/09/14/a-fire-at-an-islamic-boarding-school-for-boys-kills-24-people-most-of-them-students-in-kuala-lumpur-malaysia.md) _Context: Malaysia_
-4. [Several thousand Palestinians protest Israel's installation of metal detectors and a ban on Muslim men under the age of 50 in response to the killing of two Israeli policemen last Friday at a contested Jerusalem holy place, known to Muslims as the Noble Sanctuary and to Jews as the Temple Mount.Protest marches are also held in Indonesia, Jordan, Lebanon, Malaysia, and TurkeyThree Palestinians are killed, 390 people injured with dozens hospitalized in clashes in Jerusalem and the West Bank, according to the Red Crescent. Israeli police report five officers are wounded.2017 Halamish stabbing attack: Three Israelis are stabbed to death by a Palestinian in their home while eating dinner, according to Israeli officials.United Nations deputy spokesman Farhan Haq calls for a de-escalation of violence and tensions at this site.Egypt calls for an immediate halt to the violence underway around this site, urging Israel to show respect for Muslim sacred sites while accusing it of fomenting these tensions.Turkish Prime Minister Binali Yildirim says his country is in dialogue with Israel to end the crisis.Palestinian President Mahmoud Abbas says the Palestinian leadership will "freeze contacts" with Israel "on all levels."](/news/2017/07/21/several-thousand-palestinians-protest-israel-s-installation-of-metal-detectors-and-a-ban-on-muslim-men-under-the-age-of-50-in-response-to-th.md) _Context: Malaysia_
-5. [Indonesia, Malaysia and the Philippines begin joint patrols in the pirate havens within the Celebes and Sulu Seas. ](/news/2017/06/19/indonesia-malaysia-and-the-philippines-begin-joint-patrols-in-the-pirate-havens-within-the-celebes-and-sulu-seas.md) _Context: Malaysia_
+2. [Malaysia upholds death sentences for nine Filipino Tausugs over 2013 incursion in Sabah by a faction of claimant to the Sultanate of Sulu throne. ](/news/2018/01/15/malaysia-upholds-death-sentences-for-nine-filipino-tausa-gs-over-2013-incursion-in-sabah-by-a-faction-of-claimant-to-the-sultanate-of-sulu-t.md) _Context: Malaysia_
+3. [Russian airstrikes hit residential buildings in the ISIS-held village of Al-Shafah in Deir Ezzor province, killing at least 53 civilians, including 21 children. ](/news/2017/11/26/russian-airstrikes-hit-residential-buildings-in-the-isis-held-village-of-al-shafah-in-deir-ezzor-province-killing-at-least-53-civilians-in.md) _Context: ISIS_
+4. [According to the Syrian Observatory for Human Rights, the city of Deir ez-Zor has largely been cleared of ISIS fighters by the Syrian Armed Forces. Deir ez-Zor was the scene of a three-year-long siege until it was broken in September 2017. ](/news/2017/11/2/according-to-the-syrian-observatory-for-human-rights-the-city-of-deir-ez-zor-has-largely-been-cleared-of-isis-fighters-by-the-syrian-armed.md) _Context: ISIS_
+5. [The U.S. District Court for the District of Columbia blocks President Donald Trump's proposed ban on new transgender recruits in the U.S. military. ](/news/2017/10/30/the-u-s-district-court-for-the-district-of-columbia-blocks-president-donald-trump-s-proposed-ban-on-new-transgender-recruits-in-the-u-s-mi.md) _Context: U.S. military_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/26/15-year-old-jane-creba-is-killed-and-six-others-are-wounded-in-toronto-s-boxing-day-shooting-when-two-groups-of-gunmen-open-fire-outside-a.html)  [JSON](/news/2005/12/26/15-year-old-jane-creba-is-killed-and-six-others-are-wounded-in-toronto-s-boxing-day-shooting-when-two-groups-of-gunmen-open-fire-outside-a.json)  [XML](/news/2005/12/26/15-year-old-jane-creba-is-killed-and-six-others-are-wounded-in-toronto-s-boxing-day-shooting-when-two-groups-of-gunmen-open-fire-outside-a.xml)  
+
 ### [2005-12-26](/news/2005/12/26/index.md)
 
+##### Toronto
 #  15-year-old Jane Creba is killed and six others are wounded in Toronto's Boxing Day shooting, when two groups of gunmen open fire outside a Foot Locker store near the Eaton Centre in Toronto. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/ottawa/story/ot-shooting20051228.html)
 2. [CNN](http://www.cnn.com/2005/WORLD/americas/12/26/canada.shooting.ap/index.html)

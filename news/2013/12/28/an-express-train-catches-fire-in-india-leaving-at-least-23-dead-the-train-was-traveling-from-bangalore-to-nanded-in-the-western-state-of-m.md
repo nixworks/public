@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/28/an-express-train-catches-fire-in-india-leaving-at-least-23-dead-the-train-was-traveling-from-bangalore-to-nanded-in-the-western-state-of-m.html)  [JSON](/news/2013/12/28/an-express-train-catches-fire-in-india-leaving-at-least-23-dead-the-train-was-traveling-from-bangalore-to-nanded-in-the-western-state-of-m.json)  [XML](/news/2013/12/28/an-express-train-catches-fire-in-india-leaving-at-least-23-dead-the-train-was-traveling-from-bangalore-to-nanded-in-the-western-state-of-m.xml)  
+
 ### [2013-12-28](/news/2013/12/28/index.md)
 
+##### India
 # An express train catches fire in India, leaving at least 23 dead. The train was traveling from Bangalore to Nanded in the western state of Maharashtra. 
 
 A fire broke out on an express train in southern India early Saturday and killed at least 23 passengers, officials said.
 
 
-### Source:
+### Sources:
 
 1. [AP via FOX News](http://www.foxnews.com/world/2013/12/27/india-train-crash-leaves-at-least-23-dead-officials-say/?intcmp=latestnews)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

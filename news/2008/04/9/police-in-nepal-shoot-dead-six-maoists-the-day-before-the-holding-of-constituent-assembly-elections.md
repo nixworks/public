@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/9/police-in-nepal-shoot-dead-six-maoists-the-day-before-the-holding-of-constituent-assembly-elections.html)  [JSON](/news/2008/04/9/police-in-nepal-shoot-dead-six-maoists-the-day-before-the-holding-of-constituent-assembly-elections.json)  [XML](/news/2008/04/9/police-in-nepal-shoot-dead-six-maoists-the-day-before-the-holding-of-constituent-assembly-elections.xml)  
+
 ### [2008-04-9](/news/2008/04/9/index.md)
 
+##### Nepal
 #  Police in Nepal shoot dead six Maoists the day before the holding of Constituent Assembly elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Radio Australia](http://www.abc.net.au/ra/news/stories/200804/s2212106.htm?tab=latest)
 

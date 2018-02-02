@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/22/the-european-central-bank-reinstates-the-waiver
 
 ### [2016-06-22](/news/2016/06/22/index.md)
 
+##### Greek debt crisis
 # The European Central Bank reinstates the waiver that enables Greek banks to use the country's bonds as collateral for regular loans, for the first time in more than a year. 
 
 FRANKFURT, Germany (AP) — The European Central Bank has restored a key waiver that will let Greek banks tap cheap emergency central bank credit, one step toward putting the country&#039;s financial institutions fully back on…

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/9/israeli-prime-minister-ehud-olmert-denies-taking-bribes-from-businessman-moshe-talansky.html)  [JSON](/news/2008/05/9/israeli-prime-minister-ehud-olmert-denies-taking-bribes-from-businessman-moshe-talansky.json)  [XML](/news/2008/05/9/israeli-prime-minister-ehud-olmert-denies-taking-bribes-from-businessman-moshe-talansky.xml)  
+
 ### [2008-05-9](/news/2008/05/9/index.md)
 
+##### Israel
 #  Israeli Prime Minister Ehud Olmert denies taking bribes from businessman Moshe Talansky. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7391414.stm)
 

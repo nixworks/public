@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/a-man-found-dead-in-forest-near-trongsa-is-thought-to-have-been-killed-by-a-tiger-possibly-bhutan-s-first-such-death-in-15-years.html)  [JSON](/news/2010/08/4/a-man-found-dead-in-forest-near-trongsa-is-thought-to-have-been-killed-by-a-tiger-possibly-bhutan-s-first-such-death-in-15-years.json)  [XML](/news/2010/08/4/a-man-found-dead-in-forest-near-trongsa-is-thought-to-have-been-killed-by-a-tiger-possibly-bhutan-s-first-such-death-in-15-years.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### Trongsa
 # A man found dead in forest near Trongsa is thought to have been killed by a tiger, possibly Bhutan's first such death in 15 years. 
 
 Officials in Bhutan investigate whether a man found dead in forest near the town of Trongsa was killed by a tiger.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10872121)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

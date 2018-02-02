@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/23/three-men-appear-in-court-in-the-town-of-newry-in-northern-ireland-to-face-charges-of-threatening-to-kill-inla-membership-and-blackmail.html)  [JSON](/news/2012/04/23/three-men-appear-in-court-in-the-town-of-newry-in-northern-ireland-to-face-charges-of-threatening-to-kill-inla-membership-and-blackmail.json)  [XML](/news/2012/04/23/three-men-appear-in-court-in-the-town-of-newry-in-northern-ireland-to-face-charges-of-threatening-to-kill-inla-membership-and-blackmail.xml)  
+
 ### [2012-04-23](/news/2012/04/23/index.md)
 
+##### Newry
 # Three men appear in court in the town of Newry in Northern Ireland to face charges of threatening to kill, INLA membership and blackmail. 
 
 Three men appear in court in Newry charged with involvement in terrorist activity.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-17810412)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59801000/jpg/_59801450_newrycourthouse.jpg)

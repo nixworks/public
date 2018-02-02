@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/21/a-court-in-nigeria-upholds-the-election-of-nigerian-president-olusegun-obasanjo-opposition-parties-led-by-muhammadu-buhari-have-challeng.html)  [JSON](/news/2004/12/21/a-court-in-nigeria-upholds-the-election-of-nigerian-president-olusegun-obasanjo-opposition-parties-led-by-muhammadu-buhari-have-challeng.json)  [XML](/news/2004/12/21/a-court-in-nigeria-upholds-the-election-of-nigerian-president-olusegun-obasanjo-opposition-parties-led-by-muhammadu-buhari-have-challeng.xml)  
+
 ### [2004-12-21](/news/2004/12/21/index.md)
 
+##### Nigeria
 #  A court in Nigeria upholds the election of Nigerian president Olusegun Obasanjo. Opposition parties, led by Muhammadu Buhari, have challenged the result, and the EU and U.S. question the election's validity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200412170425.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4113421.stm)

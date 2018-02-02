@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/4/the-kenyan-navy-shells-the-somali-port-town-of-kismayo-the-last-stronghold-of-al-shabaab-militants-in-preparation-for-an-african-union-led.html)  [JSON](/news/2012/09/4/the-kenyan-navy-shells-the-somali-port-town-of-kismayo-the-last-stronghold-of-al-shabaab-militants-in-preparation-for-an-african-union-led.json)  [XML](/news/2012/09/4/the-kenyan-navy-shells-the-somali-port-town-of-kismayo-the-last-stronghold-of-al-shabaab-militants-in-preparation-for-an-african-union-led.xml)  
+
 ### [2012-09-4](/news/2012/09/4/index.md)
 
+##### Kenyan navy
 # The Kenyan navy shells the Somali port town of Kismayo, the last stronghold of Al-Shabaab militants, in preparation for an African Union-led attack by ground forces. 
 
 Kismayo, last stronghold of Islamist group al-Shabab militia, attacked in preparation for ground forces to capture town.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/09/201294144715296506.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/4/20129416101895734_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/3/italy-reports-nearly-4-100-migrants-were-rescued-off-the-libyan-coast-with-more-rescues-expected-as-people-smugglers-take-advantage-of-the-s.html)  [JSON](/news/2015/05/3/italy-reports-nearly-4-100-migrants-were-rescued-off-the-libyan-coast-with-more-rescues-expected-as-people-smugglers-take-advantage-of-the-s.json)  [XML](/news/2015/05/3/italy-reports-nearly-4-100-migrants-were-rescued-off-the-libyan-coast-with-more-rescues-expected-as-people-smugglers-take-advantage-of-the-s.xml)  
+
 ### [2015-05-3](/news/2015/05/3/index.md)
 
+##### Italy
 # Italy reports nearly 4,100 migrants were rescued off the Libyan coast with more rescues expected as people smugglers take advantage of the safe conditions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3066017/Italy-says-3-700-boat-migrants-rescued-operations-ongoing.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
 2. [Reuters](http://in.reuters.com/article/2015/05/03/europe-migrants-italy-idINKBN0NO07120150503)

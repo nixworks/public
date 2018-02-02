@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/15/former-israeli-prime-minister-ehud-olmert-is-a-prime-suspect-in-a-large-corruption-scandal-law-enforcement-sources-have-told-the-bbc.html)  [JSON](/news/2010/04/15/former-israeli-prime-minister-ehud-olmert-is-a-prime-suspect-in-a-large-corruption-scandal-law-enforcement-sources-have-told-the-bbc.json)  [XML](/news/2010/04/15/former-israeli-prime-minister-ehud-olmert-is-a-prime-suspect-in-a-large-corruption-scandal-law-enforcement-sources-have-told-the-bbc.xml)  
+
 ### [2010-04-15](/news/2010/04/15/index.md)
 
+##### Israel
 # Former Israeli Prime Minister Ehud Olmert is a prime suspect in a large corruption scandal, law enforcement sources have told the BBC. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/in_depth/8622268.stm)
 

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2004/11/29/president-of-chile-ricardo-lagos-proposes-special-lifetime-pensions-approx-a-150-a-month-for-28-000-survivors-of-the-pinochet-regime-s.html)  [JSON](/news/2004/11/29/president-of-chile-ricardo-lagos-proposes-special-lifetime-pensions-approx-a-150-a-month-for-28-000-survivors-of-the-pinochet-regime-s.json)  [XML](/news/2004/11/29/president-of-chile-ricardo-lagos-proposes-special-lifetime-pensions-approx-a-150-a-month-for-28-000-survivors-of-the-pinochet-regime-s.xml)  
+
 ### [2004-11-29](/news/2004/11/29/index.md)
 
+##### Chile
 #  President of Chile Ricardo Lagos proposes special lifetime pensions (approx. EUR150 a month) for 28,000 survivors of the Pinochet regime's torture camps. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/N28367922.htm)
 2. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=143&sid=5369892)
-3. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A18924-2004Nov28.html)
+3. [Washington Post](https://www.washingtonpost.com/wp-dyn/articles/A18924-2004Nov28.html)
 
 ### Related:
 

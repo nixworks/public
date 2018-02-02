@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/25/prime-minister-bidzina-ivanishvili-and-his-cabinet-are-approved-by-the-parliament-of-georgia-following-the-victory-in-the-parliamentary-elec.html)  [JSON](/news/2012/10/25/prime-minister-bidzina-ivanishvili-and-his-cabinet-are-approved-by-the-parliament-of-georgia-following-the-victory-in-the-parliamentary-elec.json)  [XML](/news/2012/10/25/prime-minister-bidzina-ivanishvili-and-his-cabinet-are-approved-by-the-parliament-of-georgia-following-the-victory-in-the-parliamentary-elec.xml)  
+
 ### [2012-10-25](/news/2012/10/25/index.md)
 
+##### Prime Minister of Georgia
 # Prime Minister Bidzina Ivanishvili and his cabinet are approved by the Parliament of Georgia following the victory in the parliamentary election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-20081392)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63710000/jpg/_63710431_63710430.jpg)

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2015/03/11/a-search-continues-after-an-army-helicopter-crashed-march-10-during-a-foggy-night-training-exercise-at-eglin-air-force-base-in-the-florida-p.html)  [JSON](/news/2015/03/11/a-search-continues-after-an-army-helicopter-crashed-march-10-during-a-foggy-night-training-exercise-at-eglin-air-force-base-in-the-florida-p.json)  [XML](/news/2015/03/11/a-search-continues-after-an-army-helicopter-crashed-march-10-during-a-foggy-night-training-exercise-at-eglin-air-force-base-in-the-florida-p.xml)  
+
 ### [2015-03-11](/news/2015/03/11/index.md)
 
+##### Eglin Air Force Base
 # A search continues after an army helicopter crashed March 10 during a foggy night training exercise at Eglin Air Force Base in the Florida Panhandle leaving seven Marines and four United States Army soldiers missing. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via US News](http://www.usnews.com/news/us/articles/2015/03/11/7-marines-4-soldiers-missing-after-helicopter-crashes)
+1. [AP via US News](https://www.usnews.com/news/us/articles/2015/03/11/7-marines-4-soldiers-missing-after-helicopter-crashes)
 
 ### Related:
 
-1. [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md) _Context: U.S. Marine_
-2. [The first ever female United States Marine Corps Infantry officer graduates. ](/news/2017/09/25/the-first-ever-female-united-states-marine-corps-infantry-officer-graduates.md) _Context: U.S. Marine_
-3. [Sweden starts its largest military exercise in over 20 years. Nearly 20,000 troops are set to participate, including a contingent of over 1,000 U.S. soldiers. The drills will take place on and around the island of Gotland, including soldiers from NATO countries. ](/news/2017/09/11/sweden-starts-its-largest-military-exercise-in-over-20-years-nearly-20-000-troops-are-set-to-participate-including-a-contingent-of-over-1.md) _Context: U.S. soldiers_
-4. [Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-the-coast-of-the-australi.md) _Context: U.S. Marine_
-5. [The wreckage of the Indianapolis 6 heavy cruiser, torpedoed by the Imperial Japanese Navy submarine I-58 and sunk in 1945 after delivering parts for the Little Boy atomic weapon, is discovered on the floor of the North Pacific Ocean. Only 317 of the U.S. Sailors-Marines who survived the sinking were finally rescued after 4-5 days in shark-infested waters. ](/news/2017/08/19/the-wreckage-of-the-indianapolis-6-heavy-cruiser-torpedoed-by-the-imperial-japanese-navy-submarine-i-58-and-sunk-in-1945-after-delivering-p.md) _Context: U.S. Marine_
+1. [Two bills are unanimously approved by the Florida House and Senate Committees that propose moving the state permanently to Daylight Saving Time (UTC[?]04:00), and shifting most of the Panhandle west of a line from eastern Jackson County to northern Gulf County - which currently lies within the southern boundary of the Central Time Zone (UTC[?]05:00) - to the Eastern Time Zone, in alignment with the remainder of Florida's 67 counties. If passed by the state legislature, any changes would need to be approved by the Department of Transportation and Congress. ](/news/2018/01/25/two-bills-are-unanimously-approved-by-the-florida-house-and-senate-committees-that-propose-moving-the-state-permanently-to-daylight-saving-t.md) _Context: Panhandle_
+2. [The Federal Bureau of Investigation arrests Everitt Aaron Jameson, a 25-year-old former Marine, on suspicion of planning a terrorist attack in the Pier 39 area over Christmas.](/news/2017/12/22/the-federal-bureau-of-investigation-arrests-everitt-aaron-jameson-a-25-year-old-former-marine-on-suspicion-of-planning-a-terrorist-attack.md) _Context: Marine_
+3. [A 17-pound (8 kg) CH-53E transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-ch-53e-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week.md) _Context: Marine_
+4. [United States soldier Bowe Bergdahl is convicted of desertion and dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.md) _Context: United States soldier_
+5. [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md) _Context: Marine_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/15/a-pickup-truck-hurls-off-san-diego-california-s
 
 ### [2016-10-15](/news/2016/10/15/index.md)
 
+##### San Diego
 # A pickup truck hurls off San Diego, California's Coronado Bridge, plummets some 60 feet, and crashes onto a park where hundreds of people had gathered for a motorcycle rally, killing four people in a vendor's booth and injuring eight others. 
 
 

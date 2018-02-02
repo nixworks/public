@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/19/slovak-prime-minister-robert-fico-says-that-he-will-also-demand-an-opt-out-in-the-treaty-of-lisbon-if-the-czech-republic-is-granted-one.html)  [JSON](/news/2009/10/19/slovak-prime-minister-robert-fico-says-that-he-will-also-demand-an-opt-out-in-the-treaty-of-lisbon-if-the-czech-republic-is-granted-one.json)  [XML](/news/2009/10/19/slovak-prime-minister-robert-fico-says-that-he-will-also-demand-an-opt-out-in-the-treaty-of-lisbon-if-the-czech-republic-is-granted-one.xml)  
+
 ### [2009-10-19](/news/2009/10/19/index.md)
 
+##### Slovakia
 #  Slovak Prime Minister Robert Fico says that he will also demand an opt-out in the Treaty of Lisbon if the Czech Republic is granted one. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Der Spiegel](http://www.spiegel.de/international/europe/0,1518,655975,00.html)
 

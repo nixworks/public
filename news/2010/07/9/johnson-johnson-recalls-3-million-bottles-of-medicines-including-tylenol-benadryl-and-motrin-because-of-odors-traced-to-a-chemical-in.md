@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/07/9/johnson-johnson-recalls-3-million-bottles-of-medicines-including-tylenol-benadryl-and-motrin-because-of-odors-traced-to-a-chemical-in.html)  [JSON](/news/2010/07/9/johnson-johnson-recalls-3-million-bottles-of-medicines-including-tylenol-benadryl-and-motrin-because-of-odors-traced-to-a-chemical-in.json)  [XML](/news/2010/07/9/johnson-johnson-recalls-3-million-bottles-of-medicines-including-tylenol-benadryl-and-motrin-because-of-odors-traced-to-a-chemical-in.xml)  
+
 ### [2010-07-9](/news/2010/07/9/index.md)
 
+##### Johnson & Johnson
 # Johnson & Johnson recalls 3 million bottles of medicines, including Tylenol, Benadryl, and Motrin, because of odors traced to a chemical in pallets used to transport and store the medicines. 
 
 Johnson &amp; Johnson provided additional details on Friday about its two most recent recalls of Tylenol and other over-the-counter drugs, saying the actions on Thursday and June 15 involved a total of about 3 million bottles of the medicines.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE66865120100709?type=domesticNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSTRE66865120100709?type=domesticNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

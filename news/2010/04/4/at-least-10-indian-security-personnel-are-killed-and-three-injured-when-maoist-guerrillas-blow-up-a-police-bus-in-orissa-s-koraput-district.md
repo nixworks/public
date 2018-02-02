@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/4/at-least-10-indian-security-personnel-are-killed-and-three-injured-when-maoist-guerrillas-blow-up-a-police-bus-in-orissa-s-koraput-district.html)  [JSON](/news/2010/04/4/at-least-10-indian-security-personnel-are-killed-and-three-injured-when-maoist-guerrillas-blow-up-a-police-bus-in-orissa-s-koraput-district.json)  [XML](/news/2010/04/4/at-least-10-indian-security-personnel-are-killed-and-three-injured-when-maoist-guerrillas-blow-up-a-police-bus-in-orissa-s-koraput-district.xml)  
+
 ### [2010-04-4](/news/2010/04/4/index.md)
 
+##### Naxalite-Maoist insurgency
 # At least 10 Indian security personnel are killed and three injured when Maoist guerrillas blow up a police bus in Orissa's Koraput district. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/10-security-personnel-killed-as-Maoists-blow-up-police-bus-in-Orissa/articleshow/5759634.cms)
 

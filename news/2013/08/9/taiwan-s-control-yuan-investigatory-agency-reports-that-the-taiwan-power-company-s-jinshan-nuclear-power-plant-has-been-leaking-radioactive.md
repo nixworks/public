@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/08/9/taiwan-s-control-yuan-investigatory-agency-reports-that-the-taiwan-power-company-s-jinshan-nuclear-power-plant-has-been-leaking-radioactive.html)  [JSON](/news/2013/08/9/taiwan-s-control-yuan-investigatory-agency-reports-that-the-taiwan-power-company-s-jinshan-nuclear-power-plant-has-been-leaking-radioactive.json)  [XML](/news/2013/08/9/taiwan-s-control-yuan-investigatory-agency-reports-that-the-taiwan-power-company-s-jinshan-nuclear-power-plant-has-been-leaking-radioactive.xml)  
+
 ### [2013-08-9](/news/2013/08/9/index.md)
 
+##### Taiwan
 # Taiwan's Control Yuan investigatory agency reports that the Taiwan Power Company's Jinshan Nuclear Power Plant has been leaking radioactive water for three years. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/08/09/us-taiwan-nuclear-idUSBRE97803Y20130809)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130809&t=2&i=758519200&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9780CL000)
+1. [Reuters](https://www.reuters.com/article/2013/08/09/us-taiwan-nuclear-idUSBRE97803Y20130809)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130809&t=2&i=758519200&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9780CL000)
 
 ### Related:
 

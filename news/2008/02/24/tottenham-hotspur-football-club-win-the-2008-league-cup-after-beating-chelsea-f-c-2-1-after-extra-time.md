@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/24/tottenham-hotspur-football-club-win-the-2008-league-cup-after-beating-chelsea-f-c-2-1-after-extra-time.html)  [JSON](/news/2008/02/24/tottenham-hotspur-football-club-win-the-2008-league-cup-after-beating-chelsea-f-c-2-1-after-extra-time.json)  [XML](/news/2008/02/24/tottenham-hotspur-football-club-win-the-2008-league-cup-after-beating-chelsea-f-c-2-1-after-extra-time.xml)  
+
 ### [2008-02-24](/news/2008/02/24/index.md)
 
+##### Tottenham Hotspur Football Club
 #  Tottenham Hotspur Football Club win the 2008 League Cup after beating Chelsea F.C. 2-1 after extra time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Herald](http://www.theherald.co.uk/sport/headlines/display.var.2069323.0.Tottenham_Hotspur_2_1_Chelsea.php)
 

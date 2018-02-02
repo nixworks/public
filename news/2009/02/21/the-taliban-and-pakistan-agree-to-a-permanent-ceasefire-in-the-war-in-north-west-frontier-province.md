@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/21/the-taliban-and-pakistan-agree-to-a-permanent-ceasefire-in-the-war-in-north-west-frontier-province.html)  [JSON](/news/2009/02/21/the-taliban-and-pakistan-agree-to-a-permanent-ceasefire-in-the-war-in-north-west-frontier-province.json)  [XML](/news/2009/02/21/the-taliban-and-pakistan-agree-to-a-permanent-ceasefire-in-the-war-in-north-west-frontier-province.xml)  
+
 ### [2009-02-21](/news/2009/02/21/index.md)
 
+##### Taliban
 #  The Taliban and Pakistan agree to a permanent ceasefire in the war in North-West Frontier Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2009/WORLD/asiapcf/02/21/pakistan.taliban.truce/index.html)
 

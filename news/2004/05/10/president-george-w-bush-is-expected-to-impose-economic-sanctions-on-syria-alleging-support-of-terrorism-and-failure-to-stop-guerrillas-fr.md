@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/05/10/president-george-w-bush-is-expected-to-impose-economic-sanctions-on-syria-alleging-support-of-terrorism-and-failure-to-stop-guerrillas-fr.html)  [JSON](/news/2004/05/10/president-george-w-bush-is-expected-to-impose-economic-sanctions-on-syria-alleging-support-of-terrorism-and-failure-to-stop-guerrillas-fr.json)  [XML](/news/2004/05/10/president-george-w-bush-is-expected-to-impose-economic-sanctions-on-syria-alleging-support-of-terrorism-and-failure-to-stop-guerrillas-fr.xml)  
+
 ### [2004-05-10](/news/2004/05/10/index.md)
 
+##### Syria
 #  President George W. Bush is expected to impose economic sanctions on Syria, alleging support of terrorism and failure to stop guerrillas from entering Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/reuters/politics/politics-syria-usa.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=5095804)
+1. [NYT](https://www.nytimes.com/reuters/politics/politics-syria-usa.html)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=5095804)
 
 ### Related:
 

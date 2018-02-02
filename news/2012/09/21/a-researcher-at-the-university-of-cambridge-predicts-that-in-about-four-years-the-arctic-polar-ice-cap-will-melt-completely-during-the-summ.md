@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/21/a-researcher-at-the-university-of-cambridge-predicts-that-in-about-four-years-the-arctic-polar-ice-cap-will-melt-completely-during-the-summ.html)  [JSON](/news/2012/09/21/a-researcher-at-the-university-of-cambridge-predicts-that-in-about-four-years-the-arctic-polar-ice-cap-will-melt-completely-during-the-summ.json)  [XML](/news/2012/09/21/a-researcher-at-the-university-of-cambridge-predicts-that-in-about-four-years-the-arctic-polar-ice-cap-will-melt-completely-during-the-summ.xml)  
+
 ### [2012-09-21](/news/2012/09/21/index.md)
 
+##### University of Cambridge
 # A researcher at the University of Cambridge predicts that in about four years, the Arctic polar ice cap will melt completely during the summer months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Planetsave](http://planetsave.com/2012/09/21/arctic-sea-ice-may-disappear-within-4-years-according-to-one-of-the-worlds-leading-sea-ice-researchers/)
 

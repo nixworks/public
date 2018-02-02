@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/13/al-jazeera-america-announces-that-it-will-close
 
 ### [2016-01-13](/news/2016/01/13/index.md)
 
+##### Al Jazeera America
 # Al Jazeera America announces that it will close in April due to poor ratings. 
 
 The cable news outlet, which began broadcasting in August 2013, said it would expand its digital presence in the United States.

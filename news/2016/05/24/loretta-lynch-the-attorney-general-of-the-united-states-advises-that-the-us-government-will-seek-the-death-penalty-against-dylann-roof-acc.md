@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/24/loretta-lynch-the-attorney-general-of-the-unite
 
 ### [2016-05-24](/news/2016/05/24/index.md)
 
+##### Loretta Lynch
 # Loretta Lynch, the Attorney General of the United States, advises that the US government will seek the death penalty against Dylann Roof accused of conducting the 2015 Charleston massacre. 
 
 

@@ -1,17 +1,27 @@
+
+Formats: [HTML](/news/2012/07/14/syrian-uprising-2011-present-a-suicide-bomber-blows-up-his-car-in-a-central-syrian-town-mhardeh-killing-three-civilians-and-one-security.html)  [JSON](/news/2012/07/14/syrian-uprising-2011-present-a-suicide-bomber-blows-up-his-car-in-a-central-syrian-town-mhardeh-killing-three-civilians-and-one-security.json)  [XML](/news/2012/07/14/syrian-uprising-2011-present-a-suicide-bomber-blows-up-his-car-in-a-central-syrian-town-mhardeh-killing-three-civilians-and-one-security.xml)  
+
 ### [2012-07-14](/news/2012/07/14/index.md)
 
+##### Syrian uprising (2011-present)
 # Syrian uprising (2011-present):A suicide bomber blows up his car in a central Syrian town, Mhardeh, killing three civilians and one security officer. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Arab News](http://www.arabnews.com/assad-troops-burn-houses-syria-town-calls-un-action-grow)
 2. [AP via ABC](http://abcnews.go.com/International/wireStory/syria-suicide-bomber-kills-central-town-16777577)
 3. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/07/201271422479946799.html)
-4. [Washington Post](http://www.washingtonpost.com/world/middle_east/fresh-wave-of-protests-in-bahrain-after-authorities-move-to-curb-opposition-rallies/2012/07/14/gJQAAD0OkW_story.html)
+4. [Washington Post](https://www.washingtonpost.com/world/middle_east/fresh-wave-of-protests-in-bahrain-after-authorities-move-to-curb-opposition-rallies/2012/07/14/gJQAAD0OkW_story.html)
 4. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/14/20127142396854734_20.jpg)
+
+### Changes:
+
+1. [Arab Spring:Syrian uprising (2011-present):A suicide bomber blows up his car in a central Syrian town, Mhardeh, killing three civilians and one security officer. ](/news/2012/07/14/arab-spring-psyrian-uprising-2011-present-pa-suicide-bomber-blows-up-his-car-in-a-central-syrian-town-mhardeh-killing-three-civilians-an.md) _2017-08-25 03:36:06 (First version)_
+2. [Arab Spring:: Syrian uprising (2011-present):: A suicide bomber blows up his car in a central Syrian town, Mhardeh, killing three civilians and one security officer. ](/news/2012/07/14/arab-spring-syrian-uprising-2011-present-a-suicide-bomber-blows-up-his-car-in-a-central-syrian-town-mhardeh-killing-three-civilians.md) _2017-08-27 03:36:17 (Update)_
+2. [Syrian uprising (2011-present):A suicide bomber blows up his car in a central Syrian town, Mhardeh, killing three civilians and one security officer. ](/news/2012/07/14/syrian-uprising-2011-present-a-suicide-bomber-blows-up-his-car-in-a-central-syrian-town-mhardeh-killing-three-civilians-and-one-security.md) _(Current version)_
 
 ### Related:
 
@@ -20,9 +30,3 @@ Get the latest international news and world events from Asia, Europe, the Middle
 3. [Dozens of women and children are killed in a massacre by the Syrian army in the town of Houla, Homs province, Syria during the ongoing Syrian uprising. ](/news/2012/05/25/dozens-of-women-and-children-are-killed-in-a-massacre-by-the-syrian-army-in-the-town-of-houla-homs-province-syria-during-the-ongoing-syria.md) _Context: Syrian uprising (2011-present)_
 4. [Syrian uprising: At least 30 people die in a battle between Syrian government forces and rebel fighters in the town of Rastan. Reportedly, 23 of the dead are government soldiers. ](/news/2012/05/14/syrian-uprising-at-least-30-people-die-in-a-battle-between-syrian-government-forces-and-rebel-fighters-in-the-town-of-rastan-reportedly-2.md) _Context: Syrian uprising (2011-present)_
 5. [Syrian uprising: the death toll of the May 10 Damascus double bombing reaches 55, with as many as 370 reportedly injured. Syrian authorities claim that over 1000 kg of explosives were used in the attacks. ](/news/2012/05/11/syrian-uprising-the-death-toll-of-the-may-10-damascus-double-bombing-reaches-55-with-as-many-as-370-reportedly-injured-syrian-authorities.md) _Context: Syrian uprising (2011-present)_
-
-### Changes:
-
-1. [Arab Spring:Syrian uprising (2011-present):A suicide bomber blows up his car in a central Syrian town, Mhardeh, killing three civilians and one security officer. ](/news/2012/07/14/arab-spring-psyrian-uprising-2011-present-pa-suicide-bomber-blows-up-his-car-in-a-central-syrian-town-mhardeh-killing-three-civilians-an.md) _2017-08-25 03:36:06 (First version)_
-2. [Arab Spring:: Syrian uprising (2011-present):: A suicide bomber blows up his car in a central Syrian town, Mhardeh, killing three civilians and one security officer. ](/news/2012/07/14/arab-spring-syrian-uprising-2011-present-a-suicide-bomber-blows-up-his-car-in-a-central-syrian-town-mhardeh-killing-three-civilians.md) _2017-08-27 03:36:17 (Update)_
-2. [Syrian uprising (2011-present):A suicide bomber blows up his car in a central Syrian town, Mhardeh, killing three civilians and one security officer. ](/news/2012/07/14/syrian-uprising-2011-present-a-suicide-bomber-blows-up-his-car-in-a-central-syrian-town-mhardeh-killing-three-civilians-and-one-security.md) _(Current version)_

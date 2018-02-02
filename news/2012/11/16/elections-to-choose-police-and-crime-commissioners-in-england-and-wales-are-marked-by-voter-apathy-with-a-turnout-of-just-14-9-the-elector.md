@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/16/elections-to-choose-police-and-crime-commissioners-in-england-and-wales-are-marked-by-voter-apathy-with-a-turnout-of-just-14-9-the-elector.html)  [JSON](/news/2012/11/16/elections-to-choose-police-and-crime-commissioners-in-england-and-wales-are-marked-by-voter-apathy-with-a-turnout-of-just-14-9-the-elector.json)  [XML](/news/2012/11/16/elections-to-choose-police-and-crime-commissioners-in-england-and-wales-are-marked-by-voter-apathy-with-a-turnout-of-just-14-9-the-elector.xml)  
+
 ### [2012-11-16](/news/2012/11/16/index.md)
 
+##### Elections
 # Elections to choose Police and Crime Commissioners in England and Wales are marked by voter apathy with a turnout of just 14.9%. The Electoral Commission says it will investigate the low turnout. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-20344900)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64180000/jpg/_64180988_voting464.jpg)

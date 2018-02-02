@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/31/india-opens-new-naval-base-in-karwar-in-the-state-of-karnataka.html)  [JSON](/news/2005/05/31/india-opens-new-naval-base-in-karwar-in-the-state-of-karnataka.json)  [XML](/news/2005/05/31/india-opens-new-naval-base-in-karwar-in-the-state-of-karnataka.xml)  
+
 ### [2005-05-31](/news/2005/05/31/index.md)
 
+##### India
 #  India opens new naval base in Karwar in the state of Karnataka 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4596581.stm)
 2. [Hindu](http://www.hindu.com/2005/06/01/stories/2005060105071400.htm)

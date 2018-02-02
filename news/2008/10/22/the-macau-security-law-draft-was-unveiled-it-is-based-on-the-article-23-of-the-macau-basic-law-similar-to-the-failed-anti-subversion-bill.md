@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/22/the-macau-security-law-draft-was-unveiled-it-is-based-on-the-article-23-of-the-macau-basic-law-similar-to-the-failed-anti-subversion-bill.html)  [JSON](/news/2008/10/22/the-macau-security-law-draft-was-unveiled-it-is-based-on-the-article-23-of-the-macau-basic-law-similar-to-the-failed-anti-subversion-bill.json)  [XML](/news/2008/10/22/the-macau-security-law-draft-was-unveiled-it-is-based-on-the-article-23-of-the-macau-basic-law-similar-to-the-failed-anti-subversion-bill.xml)  
+
 ### [2008-10-22](/news/2008/10/22/index.md)
 
+##### Macau security law
 #  The Macau security law draft was unveiled; it is based on the Article 23 of the Macau Basic Law, similar to the failed anti-subversion bill in Hong Kong based on Hong Kong Basic Law Article 23, which drew over 500,000 protesters in 2003. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Standard](http://www.thestandard.com.hk/breaking_news_detail.asp?id=8363&icid=a&d_str=20081022)
 

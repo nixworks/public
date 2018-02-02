@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/5/venezuela-promises-to-investigate-claims-that-rodrigo-granda-a-prominent-member-of-the-colombian-rebel-group-farc-was-captured-from-carac.html)  [JSON](/news/2005/01/5/venezuela-promises-to-investigate-claims-that-rodrigo-granda-a-prominent-member-of-the-colombian-rebel-group-farc-was-captured-from-carac.json)  [XML](/news/2005/01/5/venezuela-promises-to-investigate-claims-that-rodrigo-granda-a-prominent-member-of-the-colombian-rebel-group-farc-was-captured-from-carac.xml)  
+
 ### [2005-01-5](/news/2005/01/5/index.md)
 
+##### Venezuela
 #  Venezuela promises to investigate claims that Rodrigo Granda, a prominent member of the Colombian rebel group FARC, was captured from Caracas instead of from inside Colombia. Granda was arrested December 13, 2004. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4147631.stm)
 

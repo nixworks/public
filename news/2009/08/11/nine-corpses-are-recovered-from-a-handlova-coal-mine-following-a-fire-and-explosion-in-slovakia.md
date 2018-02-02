@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/11/nine-corpses-are-recovered-from-a-handlova-coal-mine-following-a-fire-and-explosion-in-slovakia.html)  [JSON](/news/2009/08/11/nine-corpses-are-recovered-from-a-handlova-coal-mine-following-a-fire-and-explosion-in-slovakia.json)  [XML](/news/2009/08/11/nine-corpses-are-recovered-from-a-handlova-coal-mine-following-a-fire-and-explosion-in-slovakia.xml)  
+
 ### [2009-08-11](/news/2009/08/11/index.md)
 
+##### Handlova
 #  Nine corpses are recovered from a Handlova coal mine following a fire and explosion in Slovakia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Irish Independent](http://www.independent.ie/breaking-news/world-news/europe/nine-bodies-found-after-slovakia-mine-blast-1856884.html)
 2. [TSAR](http://www.tasr.sk/30.axd?k=20090811TBB00579)

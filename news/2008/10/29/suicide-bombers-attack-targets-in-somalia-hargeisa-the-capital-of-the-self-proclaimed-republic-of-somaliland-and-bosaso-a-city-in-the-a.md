@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/29/suicide-bombers-attack-targets-in-somalia-hargeisa-the-capital-of-the-self-proclaimed-republic-of-somaliland-and-bosaso-a-city-in-the-a.html)  [JSON](/news/2008/10/29/suicide-bombers-attack-targets-in-somalia-hargeisa-the-capital-of-the-self-proclaimed-republic-of-somaliland-and-bosaso-a-city-in-the-a.json)  [XML](/news/2008/10/29/suicide-bombers-attack-targets-in-somalia-hargeisa-the-capital-of-the-self-proclaimed-republic-of-somaliland-and-bosaso-a-city-in-the-a.xml)  
+
 ### [2008-10-29](/news/2008/10/29/index.md)
 
+##### Suicide bombers attack targets
 #  Suicide bombers attack targets in Somalia: Hargeisa, the capital of the self-proclaimed republic of Somaliland, and Bosaso, a city in the autonomous state of Puntland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7696986.stm)
 

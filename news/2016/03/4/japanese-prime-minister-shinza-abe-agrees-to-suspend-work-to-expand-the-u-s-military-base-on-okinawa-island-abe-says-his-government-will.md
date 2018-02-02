@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/4/japanese-prime-minister-shinza-abe-agrees-to-sus
 
 ### [2016-03-4](/news/2016/03/4/index.md)
 
+##### Japan-United States relations
 # Japanese Prime Minister Shinzo Abe agrees to suspend work to expand the U.S. military base on Okinawa Island. Abe says his government will follow the court recommendation and settle several lawsuits over landfill work carried out to prepare for new runways. 
 
 Japanese Prime Minister Shinzo Abe agreed Friday to suspend work to expand a U.S. base on the southern island of Okinawa, in a bid to end an ongoing fight with the island’s government and people over the issue.

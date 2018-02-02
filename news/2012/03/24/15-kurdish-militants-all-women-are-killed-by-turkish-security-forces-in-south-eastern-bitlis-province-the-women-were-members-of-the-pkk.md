@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/24/15-kurdish-militants-all-women-are-killed-by-turkish-security-forces-in-south-eastern-bitlis-province-the-women-were-members-of-the-pkk.html)  [JSON](/news/2012/03/24/15-kurdish-militants-all-women-are-killed-by-turkish-security-forces-in-south-eastern-bitlis-province-the-women-were-members-of-the-pkk.json)  [XML](/news/2012/03/24/15-kurdish-militants-all-women-are-killed-by-turkish-security-forces-in-south-eastern-bitlis-province-the-women-were-members-of-the-pkk.xml)  
+
 ### [2012-03-24](/news/2012/03/24/index.md)
 
+##### Kurdish
 # 15 Kurdish militants, all women, are killed by Turkish security forces in south-eastern Bitlis Province. The women were members of the PKK. 
 
 Turkish officials say 15 Kurdish militants, all of them women, have died in fighting with security forces in south-eastern Bitlis province.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17500617)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59281000/gif/_59281282_turkey_bitlis_mar2012.gif)

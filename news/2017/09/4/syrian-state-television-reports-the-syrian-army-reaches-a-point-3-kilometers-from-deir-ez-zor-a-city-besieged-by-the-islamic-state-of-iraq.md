@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-
 
 ### [2017-09-4](/news/2017/09/4/index.md)
 
+##### Syrian Civil War
 # Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. 
 
 With a sudden lunge through jihadist lines, the Syrian military and its allies on Monday came to within three kilometers of relieving the Euphrates city of Deir al-Zor, where Islamic State has besieged an army garrison and 93,000 civilians for years.

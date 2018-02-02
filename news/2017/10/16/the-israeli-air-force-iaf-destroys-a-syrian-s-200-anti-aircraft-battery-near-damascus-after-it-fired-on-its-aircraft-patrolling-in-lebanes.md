@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-2
 
 ### [2017-10-16](/news/2017/10/16/index.md)
 
+##### Spillover of the Syrian Civil War
 # The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. 
 
 

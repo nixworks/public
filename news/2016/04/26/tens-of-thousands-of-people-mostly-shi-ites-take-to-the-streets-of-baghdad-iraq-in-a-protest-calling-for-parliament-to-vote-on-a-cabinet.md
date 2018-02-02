@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/26/tens-of-thousands-of-people-mostly-shi-ites-tak
 
 ### [2016-04-26](/news/2016/04/26/index.md)
 
+##### Shi'ites
 # Tens of thousands of people, mostly Shi'ites, take to the streets of Baghdad, Iraq in a protest calling for Parliament to vote on a cabinet reshuffle. The protest was called for by powerful Shi'te Muslim critic Muqtada al-Sadr. The proposed cabinet reshuffle is aimed at fighting corruption in the midst of divisions between lawmakers that have hampered the work of the government. 
 
 

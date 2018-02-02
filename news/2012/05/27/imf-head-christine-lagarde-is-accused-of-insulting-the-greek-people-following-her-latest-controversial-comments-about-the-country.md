@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/27/imf-head-christine-lagarde-is-accused-of-insulting-the-greek-people-following-her-latest-controversial-comments-about-the-country.html)  [JSON](/news/2012/05/27/imf-head-christine-lagarde-is-accused-of-insulting-the-greek-people-following-her-latest-controversial-comments-about-the-country.json)  [XML](/news/2012/05/27/imf-head-christine-lagarde-is-accused-of-insulting-the-greek-people-following-her-latest-controversial-comments-about-the-country.xml)  
+
 ### [2012-05-27](/news/2012/05/27/index.md)
 
+##### Christine Lagarde
 # IMF head Christine Lagarde is accused of "insulting the Greek people" following her latest controversial comments about the country. 
 
 Political parties in Greece criticise IMF head Christine Lagarde for suggesting that Greeks were avoiding paying taxes.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18227230)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60518000/jpg/_60518990_014836864-1.jpg)

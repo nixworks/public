@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/11/24/chilean-writer-and-historian-josa-c-arraa-o-acevedo-dies-at-the-age-of-88-http-www-pichilemu-cl-noticias-sep2009-2511-index-htm.html)  [JSON](/news/2009/11/24/chilean-writer-and-historian-josa-c-arraa-o-acevedo-dies-at-the-age-of-88-http-www-pichilemu-cl-noticias-sep2009-2511-index-htm.json)  [XML](/news/2009/11/24/chilean-writer-and-historian-josa-c-arraa-o-acevedo-dies-at-the-age-of-88-http-www-pichilemu-cl-noticias-sep2009-2511-index-htm.xml)  
+
 ### [2009-11-24](/news/2009/11/24/index.md)
 
+##### Chilean
 #  Chilean writer and historian, Jose Arrano Acevedo dies at the age of 88. [http:--www.pichilemu.cl-noticias-sep2009-2511-index.htm]
 
 

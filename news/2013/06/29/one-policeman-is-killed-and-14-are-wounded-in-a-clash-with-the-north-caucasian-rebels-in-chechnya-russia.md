@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/06/29/one-policeman-is-killed-and-14-are-wounded-in-a-clash-with-the-north-caucasian-rebels-in-chechnya-russia.html)  [JSON](/news/2013/06/29/one-policeman-is-killed-and-14-are-wounded-in-a-clash-with-the-north-caucasian-rebels-in-chechnya-russia.json)  [XML](/news/2013/06/29/one-policeman-is-killed-and-14-are-wounded-in-a-clash-with-the-north-caucasian-rebels-in-chechnya-russia.xml)  
+
 ### [2013-06-29](/news/2013/06/29/index.md)
 
+##### Insurgency in the North Caucasus
 # One policeman is killed and 14 are wounded in a clash with the North Caucasian rebels in Chechnya, Russia. 
 
 Rebels have killed a Russian policeman and injured 14 others in Chechnya, police said on Saturday, a rare clash in the now mostly calm North Caucasus republic which lies near to the venue for the 2014 Winter Olympics.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/06/29/us-russia-chechnya-clash-idUSBRE95S04H20130629)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/06/29/us-russia-chechnya-clash-idUSBRE95S04H20130629)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/30/officials-from-multinational-corporations-royal-dutch-shell-and-halliburton-are-to-be-questioned-in-nigeria-in-relation-to-bribery-scandals.html)  [JSON](/news/2010/11/30/officials-from-multinational-corporations-royal-dutch-shell-and-halliburton-are-to-be-questioned-in-nigeria-in-relation-to-bribery-scandals.json)  [XML](/news/2010/11/30/officials-from-multinational-corporations-royal-dutch-shell-and-halliburton-are-to-be-questioned-in-nigeria-in-relation-to-bribery-scandals.xml)  
+
 ### [2010-11-30](/news/2010/11/30/index.md)
 
+##### Royal Dutch Shell
 # Officials from multinational corporations Royal Dutch Shell and Halliburton are to be questioned in Nigeria in relation to bribery scandals and corruption. 
 
 The local managing directors of Shell and Halliburton are summoned by anti-corruption police in Nigeria over their role in alleged bribery scandals.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11877434)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

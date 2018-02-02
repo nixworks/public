@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/11/xu-zongheng-the-mayor-of-shenzhen-southern-china-is-dismissed-for-disciplinary-offences-after-being-questioned-on-corruption-allegatio.html)  [JSON](/news/2009/06/11/xu-zongheng-the-mayor-of-shenzhen-southern-china-is-dismissed-for-disciplinary-offences-after-being-questioned-on-corruption-allegatio.json)  [XML](/news/2009/06/11/xu-zongheng-the-mayor-of-shenzhen-southern-china-is-dismissed-for-disciplinary-offences-after-being-questioned-on-corruption-allegatio.xml)  
+
 ### [2009-06-11](/news/2009/06/11/index.md)
 
+##### Xu Zongheng
 #  Xu Zongheng, the mayor of Shenzhen, southern China, is dismissed for "disciplinary offences" after being questioned on corruption allegations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8095114.stm)
 

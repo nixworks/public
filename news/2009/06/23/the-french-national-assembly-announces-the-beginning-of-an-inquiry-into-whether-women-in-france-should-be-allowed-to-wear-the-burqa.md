@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/23/the-french-national-assembly-announces-the-beginning-of-an-inquiry-into-whether-women-in-france-should-be-allowed-to-wear-the-burqa.html)  [JSON](/news/2009/06/23/the-french-national-assembly-announces-the-beginning-of-an-inquiry-into-whether-women-in-france-should-be-allowed-to-wear-the-burqa.json)  [XML](/news/2009/06/23/the-french-national-assembly-announces-the-beginning-of-an-inquiry-into-whether-women-in-france-should-be-allowed-to-wear-the-burqa.xml)  
+
 ### [2009-06-23](/news/2009/06/23/index.md)
 
+##### French National Assembly
 #  The French National Assembly announces the beginning of an inquiry into whether women in France should be allowed to wear the burqa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/europe/06/23/france.burkas/index.html)
 

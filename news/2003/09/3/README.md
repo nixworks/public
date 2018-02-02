@@ -1,31 +1,7 @@
+
+Formats: [HTML](2003/09/3/index.html)  [JSON](2003/09/3/index.json)  [XML](2003/09/3/index.xml)  
+
 ## [2003-09-3](/news/2003/09/3/index.md)
-
-### [ "Occupation of Iraq": Poland assumes a position in postwar Iraq. The coalition in Iraq hands over the south-central part of the country to a force led by Poland. The force of Polish troops leads a multinational peacekeeping brigade that will relieve Coalition forces (in particular the United States Marine expeditionary force). This is Poland's biggest military operation since World War&nbsp;II. This is also the first sign of the global community's commitment to a postwar Iraq. Secretary of State Colin Powell seeks support from Britain, France, Germany, and Russia on a proposed United Nations resolution that would give the United Nations a role in Iraq's economic and political future. Coalition soldiers strongly desire to see more troops from other nations share the work of occupation.](/news/2003/09/3/occupation-of-iraq-poland-assumes-a-position-in-postwar-iraq-the-coalition-in-iraq-hands-over-the-south-central-part-of-the-country-to.md)
-_Context: Colin Powell, Iraq, Iraq war, Marine expeditionary force, Secretary of State, United Nations, World War&nbsp;II, economic, political organisation, soldier_
-
-### [ Palestinian Authority: Palestinian Prime Minister Mahmoud Abbas threatens to quit if the Palestinian legislature does not endorse his government and its policies at a session scheduled for Thursday. [http:--www.voanews.com-article.cfm?objectID=B2CDAE69-7656-4FC5-9082E31ABCE4BE1E&title=Palestinian%20PM%20Abbas%20Threatens%20to%20Resign%20Unless%20Government%20Endorsed ]date=October 2015 ](/news/2003/09/3/palestinian-authority-palestinian-prime-minister-mahmoud-abbas-threatens-to-quit-if-the-palestinian-legislature-does-not-endorse-his-gover.md)
-_Context: Mahmoud Abbas, Palestinian, Palestinian Authority, Prime Minister, seats_
-
-### [ Iraq: Iraqi Governing Council swears in the first ministerial cabinet since Saddam Hussein's removal. They urge the cabinet to help restore stability to the country.](/news/2003/09/3/iraq-iraqi-governing-council-swears-in-the-first-ministerial-cabinet-since-saddam-hussein-s-removal-they-urge-the-cabinet-to-help-restore.md)
-_Context: Iraq, Iraq Interim Governing Council_
-
-### [ Iran: Iranian Vice President Mohammad Ali Abtahi states that President Mohammad Khatami rejects compromise with hard-line opponents over key reform bills. The bills seek to curb the conservatives' power.](/news/2003/09/3/iran-iranian-vice-president-mohammad-ali-abtahi-states-that-president-mohammad-khatami-rejects-compromise-with-hard-line-opponents-over-ke.md)
-_Context: Iran, Mohammad Khatami, Mohammad-Ali Abtahi, President, Vice President_
-
-### [ Diplomacy: British Embassy in Tehran closes temporarily after shots are fired at it from the street.](/news/2003/09/3/diplomacy-british-embassy-in-tehran-closes-temporarily-after-shots-are-fired-at-it-from-the-street.md)
-_Context: Tehran, diplomatic, embassies_
-
-### [ United States: Former Presbyterian minister Paul J. Hill is executed for his 1994 murder in Pensacola, Florida, of an abortion doctor and his bodyguard.](/news/2003/09/3/united-states-former-presbyterian-minister-paul-j-hill-is-executed-for-his-1994-murder-in-pensacola-florida-of-an-abortion-doctor-and-h.md)
-_Context: Paul J. Hill, Pensacola, Florida, Presbyterian, abortion, death penalty_
-
-### [ Irish minister Frank Fahy accuses US Immigration authorities at Shannon Airport of acting 'disgracefully' in turning back a group of 13 Irish musicians travelling to attend New York benefit concert to raise money for an Irish cancer victim in the United States for treatment. Ireland's 2003 Eurovision Song Contest singer Mickey Joe Harte, one of the singers refused entry, said they were told they needed no visas in their case. However, at Shannon, the musicians were suddenly told they needed work visas, though the event was for charity and they were providing their services 'free of charge'. Irish people travelling to the United States do not normally need visas except to get paid employment. The concert is scheduled for Friday.](/news/2003/09/3/irish-minister-frank-fahy-accuses-us-immigration-authorities-at-shannon-airport-of-acting-disgracefully-in-turning-back-a-group-of-13-iri.md)
-_Context: 2003 Eurovision Song Contest, Frank Fahy, Ireland, Mickey Joe Harte, Shannon Airport, cancer, work visa_
-
-### [ Miss Justice Mary Laffoy dramatically resigns as chairperson of the Laffoy Commission on Child Abuse, which is investigating evidence of child sex abuse in schools, orphanages and Catholic Church-run institutions over decades in Ireland. Her resignation followed one day after the Minister for Education, Noel Dempsey told RT Radio that the Irish Government, worried by suggestions that the investigation would last more than a decade and cost hundreds of millions of euro, wanted to restructure the investigation to examine only a sample of the 1800 cases being investigated. The government has delayed publishing Justice Laffoy's resignation letter. Abuse victim and crusader against abuse Christine Buckey calls for Dempsey's resignation. Colm O'Gorman, of the child abuse charity "One in Four", and himself a prominent survivor of abuse, calls on Taoiseach Bertie Ahern to publish all correspondence relating to the resignation.](/news/2003/09/3/miss-justice-mary-laffoy-dramatically-resigns-as-chairperson-of-the-laffoy-commission-on-child-abuse-which-is-investigating-evidence-of-ch.md)
-_Context: Bertie Ahern, Christine Buckey, Colm O'Gorman, Laffoy Commission on Child Abuse, Mary Laffoy, Noel Dempsey, One in Four, RT, Taoiseach_
-
-### [ California recall: Five candidates (Lt. Governor Cruz Bustamante, California state senator Tom McClintock, Peter Camejo, Peter Ueberroth and Arianna Huffington) attended the first debate held for the recall election. Arnold Schwarzenegger was criticized for not turning up at the debate. Issues such as tax and campaign finance were brought up.](/news/2003/09/3/california-recall-five-candidates-lt-governor-cruz-bustamante-california-state-senator-tom-mcclintock-peter-camejo-peter-ueberroth-an.md)
-_Context: 2003 California recall, Arianna Huffington, Arnold Schwarzenegger, Cruz Bustamante, Peter Camejo, Peter Ueberroth, Tom McClintock, tax_
 
 ## [Previous Day...](/news/2003/09/2/index.md)
 

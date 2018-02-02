@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/20/united-states-the-publicist-of-robert-de-niro-announces-that-the-actor-has-prostate-cancer.html)  [JSON](/news/2003/10/20/united-states-the-publicist-of-robert-de-niro-announces-that-the-actor-has-prostate-cancer.json)  [XML](/news/2003/10/20/united-states-the-publicist-of-robert-de-niro-announces-that-the-actor-has-prostate-cancer.xml)  
+
 ### [2003-10-20](/news/2003/10/20/index.md)
 
+##### Robert De Niro
 #  United States: The publicist of Robert De Niro announces that the actor has prostate cancer.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/1/the-stricken-liner-costa-allegra-arrives-at-the-seychelles-after-losing-power-three-days-ago-due-to-an-engine-room-fire.html)  [JSON](/news/2012/03/1/the-stricken-liner-costa-allegra-arrives-at-the-seychelles-after-losing-power-three-days-ago-due-to-an-engine-room-fire.json)  [XML](/news/2012/03/1/the-stricken-liner-costa-allegra-arrives-at-the-seychelles-after-losing-power-three-days-ago-due-to-an-engine-room-fire.xml)  
+
 ### [2012-03-1](/news/2012/03/1/index.md)
 
+##### liner
 # The stricken liner "Costa Allegra" arrives at the Seychelles after losing power three days ago due to an engine room fire. 
 
 Passengers on the Costa Allegra speak of difficult conditions on board as the stricken cruise ship docks in the Seychelles.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17216437)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58803000/jpg/_58803089_014135840-1.jpg)

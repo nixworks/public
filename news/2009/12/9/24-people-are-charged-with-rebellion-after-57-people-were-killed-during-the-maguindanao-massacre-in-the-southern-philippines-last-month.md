@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/9/24-people-are-charged-with-rebellion-after-57-people-were-killed-during-the-maguindanao-massacre-in-the-southern-philippines-last-month.html)  [JSON](/news/2009/12/9/24-people-are-charged-with-rebellion-after-57-people-were-killed-during-the-maguindanao-massacre-in-the-southern-philippines-last-month.json)  [XML](/news/2009/12/9/24-people-are-charged-with-rebellion-after-57-people-were-killed-during-the-maguindanao-massacre-in-the-southern-philippines-last-month.xml)  
+
 ### [2009-12-9](/news/2009/12/9/index.md)
 
+##### Maguindanao massacre
 #  24 people are charged with rebellion after 57 people were killed during the Maguindanao massacre in the southern Philippines last month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Manilla Bulletin](http://www.mb.com.ph/articles/233157/pnp-files-rebellion-case-vs-24-people)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_464431.html)

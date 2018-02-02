@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/30/the-2008-panzhihua-earthquake-in-china-s-sichuan-province-kills-at-least-15-people-and-injures-dozens-more.html)  [JSON](/news/2008/08/30/the-2008-panzhihua-earthquake-in-china-s-sichuan-province-kills-at-least-15-people-and-injures-dozens-more.json)  [XML](/news/2008/08/30/the-2008-panzhihua-earthquake-in-china-s-sichuan-province-kills-at-least-15-people-and-injures-dozens-more.xml)  
+
 ### [2008-08-30](/news/2008/08/30/index.md)
 
+##### 2008 Panzhihua earthquake
 #  The 2008 Panzhihua earthquake in China's Sichuan province kills at least 15 people and injures dozens more. 
 
 Chinese rescue teams carrying tents, quilts and sacks of rice rushed to reach survivors of an earthquake that killed at least 32 people, turned tens of thousands of homes into rubble and cracked reservoirs. 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via MSNBC](http://www.msnbc.msn.com/id/26469490/)
 1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photo/_new/080901-chinaquake-hmed-415a.standard.jpg)

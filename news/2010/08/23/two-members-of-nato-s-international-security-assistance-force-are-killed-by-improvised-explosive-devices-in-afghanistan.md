@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/23/two-members-of-nato-s-international-security-assistance-force-are-killed-by-improvised-explosive-devices-in-afghanistan.html)  [JSON](/news/2010/08/23/two-members-of-nato-s-international-security-assistance-force-are-killed-by-improvised-explosive-devices-in-afghanistan.json)  [XML](/news/2010/08/23/two-members-of-nato-s-international-security-assistance-force-are-killed-by-improvised-explosive-devices-in-afghanistan.xml)  
+
 ### [2010-08-23](/news/2010/08/23/index.md)
 
+##### NATO
 # Two members of NATO's International Security Assistance Force are killed by improvised explosive devices in Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jnTmkHBkdY3KgfRkLnH-BqGf1B9Q)
 

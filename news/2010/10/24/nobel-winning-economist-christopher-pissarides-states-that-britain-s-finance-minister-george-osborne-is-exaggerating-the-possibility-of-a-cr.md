@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/24/nobel-winning-economist-christopher-pissarides-states-that-britain-s-finance-minister-george-osborne-is-exaggerating-the-possibility-of-a-cr.html)  [JSON](/news/2010/10/24/nobel-winning-economist-christopher-pissarides-states-that-britain-s-finance-minister-george-osborne-is-exaggerating-the-possibility-of-a-cr.json)  [XML](/news/2010/10/24/nobel-winning-economist-christopher-pissarides-states-that-britain-s-finance-minister-george-osborne-is-exaggerating-the-possibility-of-a-cr.xml)  
+
 ### [2010-10-24](/news/2010/10/24/index.md)
 
+##### Christopher Pissarides
 # Nobel-winning economist Christopher Pissarides states that Britain's Finance Minister George Osborne is exaggerating the possibility of a crisis and unnecessarily risking the country's economic recovery with his deep spending cuts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Arab News](http://arabnews.com/world/article169043.ece)
 

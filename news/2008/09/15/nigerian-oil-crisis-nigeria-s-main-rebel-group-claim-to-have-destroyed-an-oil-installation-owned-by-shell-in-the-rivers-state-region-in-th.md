@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/15/nigerian-oil-crisis-nigeria-s-main-rebel-group-claim-to-have-destroyed-an-oil-installation-owned-by-shell-in-the-rivers-state-region-in-th.html)  [JSON](/news/2008/09/15/nigerian-oil-crisis-nigeria-s-main-rebel-group-claim-to-have-destroyed-an-oil-installation-owned-by-shell-in-the-rivers-state-region-in-th.json)  [XML](/news/2008/09/15/nigerian-oil-crisis-nigeria-s-main-rebel-group-claim-to-have-destroyed-an-oil-installation-owned-by-shell-in-the-rivers-state-region-in-th.xml)  
+
 ### [2008-09-15](/news/2008/09/15/index.md)
 
+##### Nigerian Oil Crisis
 #  Nigerian Oil Crisis: Nigeria's main rebel group claim to have destroyed an oil installation owned by Shell in the Rivers State region in the south of the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/7616165.stm)
 

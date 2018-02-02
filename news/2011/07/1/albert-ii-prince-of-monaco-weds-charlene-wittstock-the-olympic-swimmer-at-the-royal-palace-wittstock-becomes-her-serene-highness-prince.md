@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/1/albert-ii-prince-of-monaco-weds-charlene-wittstock-the-olympic-swimmer-at-the-royal-palace-wittstock-becomes-her-serene-highness-prince.html)  [JSON](/news/2011/07/1/albert-ii-prince-of-monaco-weds-charlene-wittstock-the-olympic-swimmer-at-the-royal-palace-wittstock-becomes-her-serene-highness-prince.json)  [XML](/news/2011/07/1/albert-ii-prince-of-monaco-weds-charlene-wittstock-the-olympic-swimmer-at-the-royal-palace-wittstock-becomes-her-serene-highness-prince.xml)  
+
 ### [2011-07-1](/news/2011/07/1/index.md)
 
+##### Albert II, Prince of Monaco
 # Albert II, Prince of Monaco weds Charlene Wittstock, the Olympic swimmer, at the royal palace; Wittstock becomes Her Serene Highness, Princess Charlene. 
 
 The principality of Monaco celebrates the wedding of ruler Prince Albert to South African Olympic swimmer Charlene Wittstock.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13973248)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53814000/jpg/_53814604_53814599.jpg)

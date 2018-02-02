@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/5/president-george-w-bush-has-nominated-mary-peters-as-united-states-secretary-of-transportation.html)  [JSON](/news/2006/09/5/president-george-w-bush-has-nominated-mary-peters-as-united-states-secretary-of-transportation.json)  [XML](/news/2006/09/5/president-george-w-bush-has-nominated-mary-peters-as-united-states-secretary-of-transportation.xml)  
+
 ### [2006-09-5](/news/2006/09/5/index.md)
 
+##### George W. Bush
 #  President George W. Bush has nominated Mary Peters as United States Secretary of Transportation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/POLITICS/09/05/transportation.secretary.ap/index.html)
 

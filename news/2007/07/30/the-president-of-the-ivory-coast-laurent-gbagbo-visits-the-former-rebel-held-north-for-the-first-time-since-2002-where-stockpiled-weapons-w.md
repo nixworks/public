@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/30/the-president-of-the-ivory-coast-laurent-gbagbo-visits-the-former-rebel-held-north-for-the-first-time-since-2002-where-stockpiled-weapons-w.html)  [JSON](/news/2007/07/30/the-president-of-the-ivory-coast-laurent-gbagbo-visits-the-former-rebel-held-north-for-the-first-time-since-2002-where-stockpiled-weapons-w.json)  [XML](/news/2007/07/30/the-president-of-the-ivory-coast-laurent-gbagbo-visits-the-former-rebel-held-north-for-the-first-time-since-2002-where-stockpiled-weapons-w.xml)  
+
 ### [2007-07-30](/news/2007/07/30/index.md)
 
+##### Ivory Coast
 #  The President of the Ivory Coast Laurent Gbagbo visits the former rebel held north for the first time since 2002 where stockpiled weapons will be burnt as a symbol of reconciliation after the end of an uprising. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6921585.stm)
 

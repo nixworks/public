@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/25/four-people-are-killed-and-18-injured-after-a-bus-bombing-in-the-philippine-capital-manila.html)  [JSON](/news/2011/01/25/four-people-are-killed-and-18-injured-after-a-bus-bombing-in-the-philippine-capital-manila.json)  [XML](/news/2011/01/25/four-people-are-killed-and-18-injured-after-a-bus-bombing-in-the-philippine-capital-manila.xml)  
+
 ### [2011-01-25](/news/2011/01/25/index.md)
 
+##### Philippines
 # Four people are killed and 18 injured after a bus bombing in the Philippine capital Manila. 
 
 A woman injured in the powerful bomb explosion in a bus in the Philippine capital of Manila died Wednesday, raising the death toll to five, authorities said.
 
 
-### Source:
+### Sources:
 
 1. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=651326&publicationSubCategoryId=63)
 2. [UPI](http://www.upi.com/Top_News/World-News/2011/01/25/Bus-blast-rocks-Manilas-business-center/UPI-30711295966882/)

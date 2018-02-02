@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/28/a-bus-returning-48-pilgrims-from-a-weekend-visit-to-the-shrine-of-saint-padre-pio-of-pietrelcina-in-san-giovanni-rotondo-goes-off-a-bridge.html)  [JSON](/news/2013/07/28/a-bus-returning-48-pilgrims-from-a-weekend-visit-to-the-shrine-of-saint-padre-pio-of-pietrelcina-in-san-giovanni-rotondo-goes-off-a-bridge.json)  [XML](/news/2013/07/28/a-bus-returning-48-pilgrims-from-a-weekend-visit-to-the-shrine-of-saint-padre-pio-of-pietrelcina-in-san-giovanni-rotondo-goes-off-a-bridge.xml)  
+
 ### [2013-07-28](/news/2013/07/28/index.md)
 
+##### shrine
 # A bus returning 48 pilgrims from a weekend visit to the shrine of Saint Padre Pio of Pietrelcina, in San Giovanni Rotondo, goes off a bridge east of Naples, in Avellino Province, killing 39 people (including some children), and injuring at least 9 others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [English News CN](http://news.xinhuanet.com/english/world/2013-07/29/c_132582175.htm)
 

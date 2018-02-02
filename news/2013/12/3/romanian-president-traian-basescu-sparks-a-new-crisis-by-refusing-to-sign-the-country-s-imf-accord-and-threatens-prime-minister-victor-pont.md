@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2013/12/3/romanian-president-traian-basescu-sparks-a-new-crisis-by-refusing-to-sign-the-country-s-imf-accord-and-threatens-prime-minister-victor-pont.html)  [JSON](/news/2013/12/3/romanian-president-traian-basescu-sparks-a-new-crisis-by-refusing-to-sign-the-country-s-imf-accord-and-threatens-prime-minister-victor-pont.json)  [XML](/news/2013/12/3/romanian-president-traian-basescu-sparks-a-new-crisis-by-refusing-to-sign-the-country-s-imf-accord-and-threatens-prime-minister-victor-pont.xml)  
+
 ### [2013-12-3](/news/2013/12/3/index.md)
 
+##### Romania
 # Romanian President Traian Basescu sparks a new crisis by refusing to sign the country's IMF accord and threatens Prime Minister Victor Ponta's government with rejecting the national budget, blocking important indexations of salaries and pensions for the following year, over an ongoing political feud between the two leaders. 
 
+The International Monetary Fund and European Union put an aid agreement with Romania on hold after the country’s president refused to approve a review of the deal in a dispute over a fuel tax, Prime Minister Victor Ponta said.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2013-12-03/romania-imf-accord-frozen-over-political-dispute-on-fuel-tax.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2013-12-03/romania-imf-accord-frozen-over-political-dispute-on-fuel-tax.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

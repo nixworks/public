@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/1/dozens-of-people-are-arrested-in-copenhagen-as-the-police-evict-squatters-from-the-youth-house-in-the-centre-of-the-city.html)  [JSON](/news/2007/03/1/dozens-of-people-are-arrested-in-copenhagen-as-the-police-evict-squatters-from-the-youth-house-in-the-centre-of-the-city.json)  [XML](/news/2007/03/1/dozens-of-people-are-arrested-in-copenhagen-as-the-police-evict-squatters-from-the-youth-house-in-the-centre-of-the-city.xml)  
+
 ### [2007-03-1](/news/2007/03/1/index.md)
 
+##### Copenhagen
 #  Dozens of people are arrested in Copenhagen as the police evict squatters from The Youth House in the centre of the city. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/2007/03/01/news/denmark.php)
 

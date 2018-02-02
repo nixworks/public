@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/13/waodzimierz-umaniec-who-daubed-a-mark-rothko-painting-with-black-paint-in-the-name-of-yellowism-is-jailed-for-two-years-in-the-uk.html)  [JSON](/news/2012/12/13/waodzimierz-umaniec-who-daubed-a-mark-rothko-painting-with-black-paint-in-the-name-of-yellowism-is-jailed-for-two-years-in-the-uk.json)  [XML](/news/2012/12/13/waodzimierz-umaniec-who-daubed-a-mark-rothko-painting-with-black-paint-in-the-name-of-yellowism-is-jailed-for-two-years-in-the-uk.xml)  
+
 ### [2012-12-13](/news/2012/12/13/index.md)
 
+##### Mark Rothko
 # Wlodzimierz Umaniec, who daubed a Mark Rothko painting with black paint in the name of yellowism, is jailed for two years in the UK. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/artanddesign/2012/dec/13/mark-rothko-vandal-jailed)
 

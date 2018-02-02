@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/8/in-northern-ireland-the-ira-issues-an-unprecedented-statement-that-they-made-an-offer-to-the-family-of-murder-victim-robert-mccartney-to-sh.html)  [JSON](/news/2005/03/8/in-northern-ireland-the-ira-issues-an-unprecedented-statement-that-they-made-an-offer-to-the-family-of-murder-victim-robert-mccartney-to-sh.json)  [XML](/news/2005/03/8/in-northern-ireland-the-ira-issues-an-unprecedented-statement-that-they-made-an-offer-to-the-family-of-murder-victim-robert-mccartney-to-sh.xml)  
+
 ### [2005-03-8](/news/2005/03/8/index.md)
 
+##### Northern Ireland
 #  In Northern Ireland the IRA issues an unprecedented statement that they made an offer to the family of murder victim Robert McCartney to shoot the members involved in his 31 January killing. The family made it clear that they wanted the people concerned prosecuted, not physically harmed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4330445.stm)
 

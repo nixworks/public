@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/11/15/students-at-the-university-of-tennessee-ut-received-international-criticism-and-praise-for-interrupting-u-s-vice-president-dick-cheney-s.html)  [JSON](/news/2005/11/15/students-at-the-university-of-tennessee-ut-received-international-criticism-and-praise-for-interrupting-u-s-vice-president-dick-cheney-s.json)  [XML](/news/2005/11/15/students-at-the-university-of-tennessee-ut-received-international-criticism-and-praise-for-interrupting-u-s-vice-president-dick-cheney-s.xml)  
+
 ### [2005-11-15](/news/2005/11/15/index.md)
 
+##### Dick Cheney
 #  Students at the University of Tennessee (UT) received international criticism and praise for interrupting U.S. Vice President Dick Cheney's keynote speech at the groundbreaking of the Howard Baker Center. The students protested in favor of ending the Iraq War by "heckling" Cheney while a group of 50-100 protesters gathered outside the building also protesting the war. This incident has come to be known as the Baker Center Protest. [http:--seattlepi.com-national-1151AP_Cheney.html]
 
 

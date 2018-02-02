@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/9/three-members-of-the-british-armed-forces-are-being-investigated-by-military-lawyers-over-alleged-abuse-of-iraqi-detainees.html)  [JSON](/news/2010/11/9/three-members-of-the-british-armed-forces-are-being-investigated-by-military-lawyers-over-alleged-abuse-of-iraqi-detainees.json)  [XML](/news/2010/11/9/three-members-of-the-british-armed-forces-are-being-investigated-by-military-lawyers-over-alleged-abuse-of-iraqi-detainees.xml)  
+
 ### [2010-11-9](/news/2010/11/9/index.md)
 
+##### British military personnel
 # Three members of the British Armed Forces are being investigated by military lawyers over alleged abuse of Iraqi detainees. 
 
 Three British soldiers are being investigated by military lawyers over the alleged abuse of Iraqi detainees, the High Court is told.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11723188)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

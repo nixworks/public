@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/30/4-african-union-peacekeepers-from-uganda-are-killed-during-a-mortar-strike-in-mogadishu-somalia.html)  [JSON](/news/2010/08/30/4-african-union-peacekeepers-from-uganda-are-killed-during-a-mortar-strike-in-mogadishu-somalia.json)  [XML](/news/2010/08/30/4-african-union-peacekeepers-from-uganda-are-killed-during-a-mortar-strike-in-mogadishu-somalia.xml)  
+
 ### [2010-08-30](/news/2010/08/30/index.md)
 
+##### African Union
 # 4 African Union peacekeepers from Uganda are killed during a mortar strike in Mogadishu, Somalia. 
 
 Four&#x20;Ugandan&#x20;peacekeepers&#x20;were&#x20;killed&#x20;in&#x20;Mogadishu&#x20;on&#x20;Monday&#x20;in&#x20;a&#x20;mortar&#x20;attack&#x20;by&#x20;al&#x20;Shabaab&#x20;rebels.&#x20;The&#x20;attack&#x20;comes&#x20;as&#x20;authorities&#x20;in&#x20;Somalia&#x20;called&#x20;for&#x20;more&#x20;international&#x20;assistance&#x20;to&#x20;quell&#x20;the&#x20;insurgency.
 
 
-### Source:
+### Sources:
 
 1. [AFP via France24](http://www.france24.com/en/20100830-four-ugandan-peacekeepers-killed-fresh-clashes-somalia-al-shabaab)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11131813)

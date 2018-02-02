@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/14/negotiators-in-honduras-reach-a-deal-to-restore-president-manuel-zelaya-to-office-to-end-the-political-crisis-in-the-country.html)  [JSON](/news/2009/10/14/negotiators-in-honduras-reach-a-deal-to-restore-president-manuel-zelaya-to-office-to-end-the-political-crisis-in-the-country.json)  [XML](/news/2009/10/14/negotiators-in-honduras-reach-a-deal-to-restore-president-manuel-zelaya-to-office-to-end-the-political-crisis-in-the-country.xml)  
+
 ### [2009-10-14](/news/2009/10/14/index.md)
 
+##### Honduras
 #  Negotiators in Honduras reach a deal to restore President Manuel Zelaya to office to end the political crisis in the country. 
 
 Opponents in the political standoff in Honduras appear to have reached a compromise on the return to power of deposed president Manuel Zelaya.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i6u0qJXVKmnGMC0Nxk6gry1enTxg)
 2. [CBC](http://www.cbc.ca/sports/story/2009/10/14/honduras-possible-deal-president.html)

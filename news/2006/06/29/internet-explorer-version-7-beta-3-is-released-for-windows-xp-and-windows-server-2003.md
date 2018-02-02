@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/06/29/internet-explorer-version-7-beta-3-is-released-for-windows-xp-and-windows-server-2003.html)  [JSON](/news/2006/06/29/internet-explorer-version-7-beta-3-is-released-for-windows-xp-and-windows-server-2003.json)  [XML](/news/2006/06/29/internet-explorer-version-7-beta-3-is-released-for-windows-xp-and-windows-server-2003.xml)  
+
 ### [2006-06-29](/news/2006/06/29/index.md)
 
+##### Internet Explorer
 #  Internet Explorer Version 7 Beta 3 is released for Windows XP and Windows Server 2003
 
 

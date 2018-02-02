@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/17/russia-s-finance-ministry-sues-ukraine-in-londo
 
 ### [2016-02-17](/news/2016/02/17/index.md)
 
+##### Russia-Ukraine relations
 # Russia's Finance Ministry sues Ukraine in London's High Court of Justice over a $3 billion debt. Payment was due December 21, 2015. Negotiations between Kiev and Moscow have not reached an agreement. Over the last 6 months Ukrainian government officials repeatedly stated they refuse to pay the debt. 
 
 Russia filed a lawsuit against Ukraine to demand compensation for the debt on bonds worth $3 billion and reimbursement of expenses.

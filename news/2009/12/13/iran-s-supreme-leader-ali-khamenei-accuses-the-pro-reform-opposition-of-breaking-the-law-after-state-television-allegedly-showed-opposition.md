@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/12/13/iran-s-supreme-leader-ali-khamenei-accuses-the-pro-reform-opposition-of-breaking-the-law-after-state-television-allegedly-showed-opposition.html)  [JSON](/news/2009/12/13/iran-s-supreme-leader-ali-khamenei-accuses-the-pro-reform-opposition-of-breaking-the-law-after-state-television-allegedly-showed-opposition.json)  [XML](/news/2009/12/13/iran-s-supreme-leader-ali-khamenei-accuses-the-pro-reform-opposition-of-breaking-the-law-after-state-television-allegedly-showed-opposition.xml)  
+
 ### [2009-12-13](/news/2009/12/13/index.md)
 
+##### Iran
 #  Iran's Supreme Leader Ali Khamenei accuses the pro-reform opposition of breaking the law after state television allegedly showed opposition supporters destroying images of founder Ruhollah Khomeini. 
 
 

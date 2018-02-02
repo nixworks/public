@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/24/in-a-poll-conducted-by-the-u-s-agency-for-development-following-president-kurmanbek-bakiyev-s-signing-of-the-controversial-new-constitut.html)  [JSON](/news/2006/11/24/in-a-poll-conducted-by-the-u-s-agency-for-development-following-president-kurmanbek-bakiyev-s-signing-of-the-controversial-new-constitut.json)  [XML](/news/2006/11/24/in-a-poll-conducted-by-the-u-s-agency-for-development-following-president-kurmanbek-bakiyev-s-signing-of-the-controversial-new-constitut.xml)  
+
 ### [2006-11-24](/news/2006/11/24/index.md)
 
+##### president
 #  In a poll conducted by the U.S. Agency for Development, following President Kurmanbek Bakiyev's signing of the controversial, new Constitution of Kyrgyzstan, 62% of Kyrgyz citizens believe the country is moving in the right direction. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Angus Reid](http://www.angus-reid.com/polls/index.cfm?fuseaction=viewItem&itemID=13892)
 

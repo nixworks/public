@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/24/former-united-states-vice-president-dick-cheney-receives-a-heart-transplant-from-an-unknown-donor.html)  [JSON](/news/2012/03/24/former-united-states-vice-president-dick-cheney-receives-a-heart-transplant-from-an-unknown-donor.json)  [XML](/news/2012/03/24/former-united-states-vice-president-dick-cheney-receives-a-heart-transplant-from-an-unknown-donor.xml)  
+
 ### [2012-03-24](/news/2012/03/24/index.md)
 
+##### United States Vice President
 # Former United States Vice President Dick Cheney receives a heart transplant from an unknown donor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://m.cbsnews.com/storysynopsis.rbml?pageType=politics&catid=57403969&feed_id=3&videofeed=39)
 

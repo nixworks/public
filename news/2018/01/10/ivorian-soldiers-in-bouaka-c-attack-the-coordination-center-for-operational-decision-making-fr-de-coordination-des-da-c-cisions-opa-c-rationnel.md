@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/10/ivorian-soldiers-in-bouaka-c-attack-the-coordin
 
 ### [2018-01-10](/news/2018/01/10/index.md)
 
+##### Ivorian soldiers
 # Ivorian soldiers in Bouake attack the Coordination Center for Operational Decision-Making ("fr de Coordination des Decisions Operationnelles") military base, seizing their weaponry and setting the base on fire after accusations that the unit was spying on them. Last year the soldiers were involved in a series of mutinies. 
 
 

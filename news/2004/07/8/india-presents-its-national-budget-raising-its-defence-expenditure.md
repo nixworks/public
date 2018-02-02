@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/8/india-presents-its-national-budget-raising-its-defence-expenditure.html)  [JSON](/news/2004/07/8/india-presents-its-national-budget-raising-its-defence-expenditure.json)  [XML](/news/2004/07/8/india-presents-its-national-budget-raising-its-defence-expenditure.xml)  
+
 ### [2004-07-8](/news/2004/07/8/index.md)
 
+##### budget
 #  India presents its national budget, raising its defence expenditure. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Rediff India](http://in.rediff.com/r/r/tn25)
 

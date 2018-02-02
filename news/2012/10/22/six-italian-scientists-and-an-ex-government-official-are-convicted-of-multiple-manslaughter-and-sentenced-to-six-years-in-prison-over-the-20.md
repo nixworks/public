@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/22/six-italian-scientists-and-an-ex-government-official-are-convicted-of-multiple-manslaughter-and-sentenced-to-six-years-in-prison-over-the-20.html)  [JSON](/news/2012/10/22/six-italian-scientists-and-an-ex-government-official-are-convicted-of-multiple-manslaughter-and-sentenced-to-six-years-in-prison-over-the-20.json)  [XML](/news/2012/10/22/six-italian-scientists-and-an-ex-government-official-are-convicted-of-multiple-manslaughter-and-sentenced-to-six-years-in-prison-over-the-20.xml)  
+
 ### [2012-10-22](/news/2012/10/22/index.md)
 
+##### 2009 L'Aquila earthquake
 # Six Italian scientists and an ex-government official are convicted of multiple manslaughter and sentenced to six years in prison over the 2009 L'Aquila earthquake after prosecutors accuse them of being "falsely reassuring" before the event. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/10/20121022151851442575.html)
 2. [BBC](http://www.bbc.com/news/world-europe-20025626)

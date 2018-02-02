@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/4/north-korea-announces-re-election-of-dictator-kim-jong-il-as-chairman-of-the-national-defense-commission-by-a-unanimous-vote-of-the-supreme.html)  [JSON](/news/2003/09/4/north-korea-announces-re-election-of-dictator-kim-jong-il-as-chairman-of-the-national-defense-commission-by-a-unanimous-vote-of-the-supreme.json)  [XML](/news/2003/09/4/north-korea-announces-re-election-of-dictator-kim-jong-il-as-chairman-of-the-national-defense-commission-by-a-unanimous-vote-of-the-supreme.xml)  
+
 ### [2003-09-4](/news/2003/09/4/index.md)
 
+##### North Korea
 #  North Korea announces re-election of dictator Kim Jong-il as chairman of the National Defense Commission by a unanimous vote of the Supreme People's Assembly, a move dismissed as a propaganda stunt by Western observers, who nearly all regard the Supreme People's Assembly as a rubber stamp body.
 
 

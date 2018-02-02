@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/22/war-in-iraq-gunmen-kill-21-members-of-northern-iraq-s-yezidi-community-after-dragging-them-from-a-bus.html)  [JSON](/news/2007/04/22/war-in-iraq-gunmen-kill-21-members-of-northern-iraq-s-yezidi-community-after-dragging-them-from-a-bus.json)  [XML](/news/2007/04/22/war-in-iraq-gunmen-kill-21-members-of-northern-iraq-s-yezidi-community-after-dragging-them-from-a-bus.xml)  
+
 ### [2007-04-22](/news/2007/04/22/index.md)
 
+##### Iraq War
 #  War in Iraq: Gunmen kill 21 members of northern Iraq's Yezidi community after dragging them from a bus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/WORLD/meast/04/22/iraq.main.ap/index.html)
 

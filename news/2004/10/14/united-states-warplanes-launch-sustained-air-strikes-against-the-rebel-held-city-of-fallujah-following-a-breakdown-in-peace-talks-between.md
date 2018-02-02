@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/10/14/united-states-warplanes-launch-sustained-air-strikes-against-the-rebel-held-city-of-fallujah-following-a-breakdown-in-peace-talks-between.html)  [JSON](/news/2004/10/14/united-states-warplanes-launch-sustained-air-strikes-against-the-rebel-held-city-of-fallujah-following-a-breakdown-in-peace-talks-between.json)  [XML](/news/2004/10/14/united-states-warplanes-launch-sustained-air-strikes-against-the-rebel-held-city-of-fallujah-following-a-breakdown-in-peace-talks-between.xml)  
+
 ### [2004-10-14](/news/2004/10/14/index.md)
 
+##### rebel-held
 #  United States warplanes launch sustained air strikes against the rebel-held city of Fallujah, following a breakdown in peace talks between the Iraqi government and representatives of the city. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3742498.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6505955)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6504154)
-3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6505955)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6504154)
 
 ### Related:
 

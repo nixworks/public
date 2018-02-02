@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/08/29/toomas-hendrik-ilves-is-re-elected-by-an-electoral-body-to-another-term-as-president-of-estonia.html)  [JSON](/news/2011/08/29/toomas-hendrik-ilves-is-re-elected-by-an-electoral-body-to-another-term-as-president-of-estonia.json)  [XML](/news/2011/08/29/toomas-hendrik-ilves-is-re-elected-by-an-electoral-body-to-another-term-as-president-of-estonia.xml)  
+
 ### [2011-08-29](/news/2011/08/29/index.md)
 
+##### Toomas Hendrik Ilves
 # Toomas Hendrik Ilves is re-elected by an electoral body to another term as President of Estonia. 
 
 Former U.S. citizen Toomas Hendrik Ilves was easily re-elected president of Estonia in a vote in parliament on Monday, providing further political stability in the euro zone nation.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/08/29/us-estonia-president-idUSTRE77S2HA20110829)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/08/29/us-estonia-president-idUSTRE77S2HA20110829)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

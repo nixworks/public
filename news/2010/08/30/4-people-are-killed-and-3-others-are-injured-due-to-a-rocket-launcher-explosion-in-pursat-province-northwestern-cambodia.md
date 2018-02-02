@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/30/4-people-are-killed-and-3-others-are-injured-due-to-a-rocket-launcher-explosion-in-pursat-province-northwestern-cambodia.html)  [JSON](/news/2010/08/30/4-people-are-killed-and-3-others-are-injured-due-to-a-rocket-launcher-explosion-in-pursat-province-northwestern-cambodia.json)  [XML](/news/2010/08/30/4-people-are-killed-and-3-others-are-injured-due-to-a-rocket-launcher-explosion-in-pursat-province-northwestern-cambodia.xml)  
+
 ### [2010-08-30](/news/2010/08/30/index.md)
 
+##### rocket launcher
 # 4 people are killed and 3 others are injured due to a rocket launcher explosion in Pursat Province, northwestern Cambodia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/30/c_13469997.htm)
 

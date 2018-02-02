@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/04/28/malaysian-police-use-tear-gas-and-water-cannon-to-disperse-thousands-of-protesters-gathered-in-kuala-lumpur-calling-for-free-and-fair-electi.html)  [JSON](/news/2012/04/28/malaysian-police-use-tear-gas-and-water-cannon-to-disperse-thousands-of-protesters-gathered-in-kuala-lumpur-calling-for-free-and-fair-electi.json)  [XML](/news/2012/04/28/malaysian-police-use-tear-gas-and-water-cannon-to-disperse-thousands-of-protesters-gathered-in-kuala-lumpur-calling-for-free-and-fair-electi.xml)  
+
 ### [2012-04-28](/news/2012/04/28/index.md)
 
+##### Malaysian police
 # Malaysian police use tear gas and water cannon to disperse thousands of protesters gathered in Kuala Lumpur calling for free and fair elections. 
 
 At least 25,000 activists took to the streets on Saturday to call for free and fair elections, and were met by police who fired tear gas at some demonstrators who broke through barriers.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ispoDM6d7dKxv6iV_UGnCgrM46RQ?docId=CNG.ee85d12e96c8d0fef3111bf61b8cadd3.4c1)
-2. [The New York Times](http://www.nytimes.com/2012/04/29/world/asia/malaysian-capital-braces-for-rally-by-democracy-activists.html?_r=1)
+2. [The New York Times](https://www.nytimes.com/2012/04/29/world/asia/malaysian-capital-braces-for-rally-by-democracy-activists.html?_r=1)
 2. [Cover Image](https://static01.nyt.com/images/2012/04/29/world/29malaysia-span/29malaysia-span-superJumbo.jpg)
 
 ### Related:

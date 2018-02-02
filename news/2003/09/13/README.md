@@ -1,7 +1,7 @@
-## [2003-09-13](/news/2003/09/13/index.md)
 
-### [ A typhoon hits South Korea, reportedly killing 42 people and leaving 24 missing.](/news/2003/09/13/a-typhoon-hits-south-korea-reportedly-killing-42-people-and-leaving-24-missing.md)
-_Context: South Korea, Typhoon_
+Formats: [HTML](2003/09/13/index.html)  [JSON](2003/09/13/index.json)  [XML](2003/09/13/index.xml)  
+
+## [2003-09-13](/news/2003/09/13/index.md)
 
 ## [Previous Day...](/news/2003/09/12/index.md)
 

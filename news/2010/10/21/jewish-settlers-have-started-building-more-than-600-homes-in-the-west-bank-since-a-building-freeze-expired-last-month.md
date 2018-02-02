@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/21/jewish-settlers-have-started-building-more-than-600-homes-in-the-west-bank-since-a-building-freeze-expired-last-month.html)  [JSON](/news/2010/10/21/jewish-settlers-have-started-building-more-than-600-homes-in-the-west-bank-since-a-building-freeze-expired-last-month.json)  [XML](/news/2010/10/21/jewish-settlers-have-started-building-more-than-600-homes-in-the-west-bank-since-a-building-freeze-expired-last-month.xml)  
+
 ### [2010-10-21](/news/2010/10/21/index.md)
 
+##### Jewish
 # Jewish settlers have started building more than 600 homes in the West Bank since a building freeze expired last month. 
 
 Jewish settlers have started work on some 600 West Bank homes since an Israeli construction freeze expired - four times the pace of building before then, a pressure group says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11596718)
 2. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=192225)

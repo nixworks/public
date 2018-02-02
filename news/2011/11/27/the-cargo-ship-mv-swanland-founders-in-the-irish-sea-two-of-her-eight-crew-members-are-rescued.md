@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/27/the-cargo-ship-mv-swanland-founders-in-the-irish-sea-two-of-her-eight-crew-members-are-rescued.html)  [JSON](/news/2011/11/27/the-cargo-ship-mv-swanland-founders-in-the-irish-sea-two-of-her-eight-crew-members-are-rescued.json)  [XML](/news/2011/11/27/the-cargo-ship-mv-swanland-founders-in-the-irish-sea-two-of-her-eight-crew-members-are-rescued.xml)  
+
 ### [2011-11-27](/news/2011/11/27/index.md)
 
+##### MV ''Swanland''
 # The cargo ship MV "Swanland" founders in the Irish Sea; two of her eight crew members are rescued. 
 
 Rescuers searching for six Russian seamen missing after a cargo vessel sank off north Wales in gale force weather say one crew member has been recovered.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-15908292)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56964000/jpg/_56964627_56964625.jpg)

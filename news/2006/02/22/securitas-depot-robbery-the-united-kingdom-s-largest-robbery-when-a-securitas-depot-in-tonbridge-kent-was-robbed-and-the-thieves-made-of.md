@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/22/securitas-depot-robbery-the-united-kingdom-s-largest-robbery-when-a-securitas-depot-in-tonbridge-kent-was-robbed-and-the-thieves-made-of.html)  [JSON](/news/2006/02/22/securitas-depot-robbery-the-united-kingdom-s-largest-robbery-when-a-securitas-depot-in-tonbridge-kent-was-robbed-and-the-thieves-made-of.json)  [XML](/news/2006/02/22/securitas-depot-robbery-the-united-kingdom-s-largest-robbery-when-a-securitas-depot-in-tonbridge-kent-was-robbed-and-the-thieves-made-of.xml)  
+
 ### [2006-02-22](/news/2006/02/22/index.md)
 
+##### Securitas depot robbery
 #  Securitas depot robbery: The United Kingdom's largest robbery when a Securitas depot in Tonbridge, Kent, was robbed and the thieves made off with Bank of England banknotes worth GBP53 million. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/kent/4742972.stm)
 

@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2005/11/13/2005-jilin-chemical-plant-explosions-explosion-in-a-factory-of-the-state-owned-jilin-petrochemical-company-in-jilin-city-china-the-indus.html)  [JSON](/news/2005/11/13/2005-jilin-chemical-plant-explosions-explosion-in-a-factory-of-the-state-owned-jilin-petrochemical-company-in-jilin-city-china-the-indus.json)  [XML](/news/2005/11/13/2005-jilin-chemical-plant-explosions-explosion-in-a-factory-of-the-state-owned-jilin-petrochemical-company-in-jilin-city-china-the-indus.xml)  
+
 ### [2005-11-13](/news/2005/11/13/index.md)
 
+##### last year's toxic chemical spill
 #  2005 Jilin chemical plant explosions: Explosion in a factory of the state-owned Jilin Petrochemical Company in Jilin City, China. The industrial accident results in 100 tons of toxic benzene and nitrobenzene contaminating a river and posing a major health problem downstream, which is covered-up by the Chinese government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/media/2005/dec/04/business.china)
-2. [NYT II](http://www.nytimes.com/2005/11/26/international/asia/26china.html?pagewanted=all)
-3. [NYT I](http://www.nytimes.com/2005/11/25/world/asia/25iht-beijing.html)
-3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+2. [NYT II](https://www.nytimes.com/2005/11/26/international/asia/26china.html?pagewanted=all)
+3. [NYT I](https://www.nytimes.com/2005/11/25/world/asia/25iht-beijing.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/12/nouri-al-maliki-the-prime-minister-of-iraq-calls-for-emergency-talks-with-iraq-s-political-leaders-to-try-to-save-his-national-unity-gove.html)  [JSON](/news/2007/08/12/nouri-al-maliki-the-prime-minister-of-iraq-calls-for-emergency-talks-with-iraq-s-political-leaders-to-try-to-save-his-national-unity-gove.json)  [XML](/news/2007/08/12/nouri-al-maliki-the-prime-minister-of-iraq-calls-for-emergency-talks-with-iraq-s-political-leaders-to-try-to-save-his-national-unity-gove.xml)  
+
 ### [2007-08-12](/news/2007/08/12/index.md)
 
+##### Nouri al-Maliki
 #  Nouri al-Maliki, the Prime Minister of Iraq, calls for emergency talks with Iraq's political leaders to try to save his national unity government. 
 
 Iraqi Prime Minister Nouri al-Maliki has called for the senior leaders from Iraq&#039;s bitterly divided communities to hold crisis talks aimed at saving his beleaguered national unity government.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/13/2002935.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/637922-1x1-700x700.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/2/the-united-states-senate-passes-legislation-to-raise-the-debt-ceiling-in-order-to-avert-the-2011-us-debt-ceiling-crisis-and-president-barack.html)  [JSON](/news/2011/08/2/the-united-states-senate-passes-legislation-to-raise-the-debt-ceiling-in-order-to-avert-the-2011-us-debt-ceiling-crisis-and-president-barack.json)  [XML](/news/2011/08/2/the-united-states-senate-passes-legislation-to-raise-the-debt-ceiling-in-order-to-avert-the-2011-us-debt-ceiling-crisis-and-president-barack.xml)  
+
 ### [2011-08-2](/news/2011/08/2/index.md)
 
+##### United States Senate
 # The United States Senate passes legislation to raise the debt ceiling in order to avert the 2011 US debt ceiling crisis and President Barack Obama signs it into law. 
 
 The US Senate will vote Tuesday on a massive austerity bill that averts a disastrous debt default, two senior Democratic aides said on Monday.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-business/us-senate-to-vote-tuesday-on-debt-bill-20110802-1i8s2.html)
 2. [New Zealand Herald](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10742621)

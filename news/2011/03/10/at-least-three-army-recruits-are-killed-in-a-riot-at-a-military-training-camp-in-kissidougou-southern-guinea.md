@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/10/at-least-three-army-recruits-are-killed-in-a-riot-at-a-military-training-camp-in-kissidougou-southern-guinea.html)  [JSON](/news/2011/03/10/at-least-three-army-recruits-are-killed-in-a-riot-at-a-military-training-camp-in-kissidougou-southern-guinea.json)  [XML](/news/2011/03/10/at-least-three-army-recruits-are-killed-in-a-riot-at-a-military-training-camp-in-kissidougou-southern-guinea.xml)  
+
 ### [2011-03-10](/news/2011/03/10/index.md)
 
+##### Kissidougou
 # At least three army recruits are killed in a riot at a military training camp in Kissidougou, southern Guinea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12698761)
 2. [People's Daily](http://english.peopledaily.com.cn/90001/90777/90855/7313875.html)

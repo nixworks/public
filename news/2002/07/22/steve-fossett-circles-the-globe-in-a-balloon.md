@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/22/steve-fossett-circles-the-globe-in-a-balloon.html)  [JSON](/news/2002/07/22/steve-fossett-circles-the-globe-in-a-balloon.json)  [XML](/news/2002/07/22/steve-fossett-circles-the-globe-in-a-balloon.xml)  
+
 ### [2002-07-22](/news/2002/07/22/index.md)
 
+##### Steve Fossett
 #  Steve Fossett circles the Globe in a balloon.
 
 

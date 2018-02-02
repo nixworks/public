@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/13/the-people-s-republic-of-china-and-taiwan-agree-to-regular-civil-aviation-flights-across-the-taiwan-strait-for-the-first-time-since-1949-wi.html)  [JSON](/news/2008/06/13/the-people-s-republic-of-china-and-taiwan-agree-to-regular-civil-aviation-flights-across-the-taiwan-strait-for-the-first-time-since-1949-wi.json)  [XML](/news/2008/06/13/the-people-s-republic-of-china-and-taiwan-agree-to-regular-civil-aviation-flights-across-the-taiwan-strait-for-the-first-time-since-1949-wi.xml)  
+
 ### [2008-06-13](/news/2008/06/13/index.md)
 
+##### China
 #  The People's Republic of China and Taiwan agree to regular civil aviation flights across the Taiwan Strait for the first time since 1949 with flights limited to weekend charters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''The Guardian](http://www.guardian.co.uk/business/feedarticle/7582549)
 

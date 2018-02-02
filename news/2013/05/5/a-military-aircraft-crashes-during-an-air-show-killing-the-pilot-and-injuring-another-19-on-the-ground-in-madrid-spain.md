@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/5/a-military-aircraft-crashes-during-an-air-show-killing-the-pilot-and-injuring-another-19-on-the-ground-in-madrid-spain.html)  [JSON](/news/2013/05/5/a-military-aircraft-crashes-during-an-air-show-killing-the-pilot-and-injuring-another-19-on-the-ground-in-madrid-spain.json)  [XML](/news/2013/05/5/a-military-aircraft-crashes-during-an-air-show-killing-the-pilot-and-injuring-another-19-on-the-ground-in-madrid-spain.xml)  
+
 ### [2013-05-5](/news/2013/05/5/index.md)
 
+##### air show
 # A military aircraft crashes during an air show killing the pilot and injuring another 19 on the ground in Madrid, Spain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kuwaiti News Agency](http://www.kuna.net.kw/ArticleDetails.aspx?id=2308991&language=en)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/06/11/king-felipe-vi-of-spain-strips-his-sister-cristina-of-her-titles-after-she-is-charged-with-tax-evasion.html)  [JSON](/news/2015/06/11/king-felipe-vi-of-spain-strips-his-sister-cristina-of-her-titles-after-she-is-charged-with-tax-evasion.json)  [XML](/news/2015/06/11/king-felipe-vi-of-spain-strips-his-sister-cristina-of-her-titles-after-she-is-charged-with-tax-evasion.xml)  
+
 ### [2015-06-11](/news/2015/06/11/index.md)
 
+##### Felipe VI of Spain
 # King Felipe VI of Spain strips his sister Cristina of her titles after she is charged with tax evasion. 
 
 Spain&#x27;s King Felipe VI has issued a decree stripping his sister Princess Cristina of her title as Duchess of Palma, the palace announced Thursday, as the royal sibling faces tax evasion charges in a scandal that has embarrassed the monarchy. &quot;The Official Journal of the state will tomorrow
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo!](http://news.yahoo.com/spanish-king-strips-graft-accused-sister-duchess-title-225033939.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/09ycU3_i7cRZC6kcQBrkIQ--/aD0xMDI0O3c9Njc0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DV-DV2060466-1-1-1.jpg)
+1. [AFP via Yahoo!](https://news.yahoo.com/spanish-king-strips-graft-accused-sister-duchess-title-225033939.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/GSpJL1B8UdZGuWhLeiiyeg--~B/aD0xMDI0O3c9Njc0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-DV-DV2060466-1-1-1.jpg)
 
 ### Related:
 

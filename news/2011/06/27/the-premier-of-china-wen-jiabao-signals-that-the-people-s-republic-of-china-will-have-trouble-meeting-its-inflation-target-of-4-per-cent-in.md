@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/06/27/the-premier-of-china-wen-jiabao-signals-that-the-people-s-republic-of-china-will-have-trouble-meeting-its-inflation-target-of-4-per-cent-in.html)  [JSON](/news/2011/06/27/the-premier-of-china-wen-jiabao-signals-that-the-people-s-republic-of-china-will-have-trouble-meeting-its-inflation-target-of-4-per-cent-in.json)  [XML](/news/2011/06/27/the-premier-of-china-wen-jiabao-signals-that-the-people-s-republic-of-china-will-have-trouble-meeting-its-inflation-target-of-4-per-cent-in.xml)  
+
 ### [2011-06-27](/news/2011/06/27/index.md)
 
+##### Premier of China
 # The Premier of China Wen Jiabao signals that the People's Republic of China will have trouble meeting its inflation target of 4 per cent in 2011. 
 
 Chinese Premier Wen Jiabao signaled for the first time that China would struggle to meet its 4 percent inflation target this year, underlining expectations that interest rates will rise further even as economic growth slows down.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/06/27/us-china-wen-idUSTRE75Q04020110627)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110627&t=2&i=447522232&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-06-27T145448Z_01_BTRE75Q0CQX00_RTROPTP_0_HUNGARY)
+1. [Reuters](https://www.reuters.com/article/2011/06/27/us-china-wen-idUSTRE75Q04020110627)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110627&t=2&i=447522232&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-06-27T145448Z_01_BTRE75Q0CQX00_RTROPTP_0_HUNGARY)
 
 ### Related:
 

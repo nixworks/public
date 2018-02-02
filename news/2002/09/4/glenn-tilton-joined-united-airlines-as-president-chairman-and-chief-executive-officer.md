@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/4/glenn-tilton-joined-united-airlines-as-president-chairman-and-chief-executive-officer.html)  [JSON](/news/2002/09/4/glenn-tilton-joined-united-airlines-as-president-chairman-and-chief-executive-officer.json)  [XML](/news/2002/09/4/glenn-tilton-joined-united-airlines-as-president-chairman-and-chief-executive-officer.xml)  
+
 ### [2002-09-4](/news/2002/09/4/index.md)
 
+##### Glenn Tilton
 # Glenn Tilton joined United Airlines as President, Chairman and Chief Executive Officer.
 
 

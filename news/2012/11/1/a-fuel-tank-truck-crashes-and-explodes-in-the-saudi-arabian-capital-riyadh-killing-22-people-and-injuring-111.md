@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/1/a-fuel-tank-truck-crashes-and-explodes-in-the-saudi-arabian-capital-riyadh-killing-22-people-and-injuring-111.html)  [JSON](/news/2012/11/1/a-fuel-tank-truck-crashes-and-explodes-in-the-saudi-arabian-capital-riyadh-killing-22-people-and-injuring-111.json)  [XML](/news/2012/11/1/a-fuel-tank-truck-crashes-and-explodes-in-the-saudi-arabian-capital-riyadh-killing-22-people-and-injuring-111.xml)  
+
 ### [2012-11-1](/news/2012/11/1/index.md)
 
+##### crashes and explodes
 # A fuel tank truck crashes and explodes in the Saudi Arabian capital Riyadh killing 22 people and injuring 111. 
 
 At least 22 people are reported killed and scores injured in a fuel truck crash and explosion in the Saudi Arabian capital Riyadh.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20165363)
 2. [NBC News](http://worldnews.nbcnews.com/_news/2012/11/01/14846800-23-killed-135-hurt-by-explosion-in-saudi-arabias-capital)
@@ -13,8 +17,8 @@ At least 22 people are reported killed and scores injured in a fuel truck crash 
 
 ### Related:
 
-1. [In Riyadh, India's Prime Minister Narendra Modi and Saudi Arabia's King Salman sign five agreements, including plans to increase investments, and to cooperate in intelligence sharing. ](/news/2016/04/3/in-riyadh-india-s-prime-minister-narendra-modi-and-saudi-arabia-s-king-salman-sign-five-agreements-including-plans-to-increase-investments.md) _Context: Riyadh_
-2. [Pakistani prime minister Nawaz Sharif and army chief General Raheel Sharif will visit Riyadh on Monday and Tehran on Tuesday to launch mediation efforts between Iran and Saudi Arabia for normalization of relations and to ease the tensions in the region after Saudi Arabia executed a prominent Shia cleric Sheikh Nimr and an attack on the Saudi Embassy in Tehran. ](/news/2016/01/17/pakistani-prime-minister-nawaz-sharif-and-army-chief-general-raheel-sharif-will-visit-riyadh-on-monday-and-tehran-on-tuesday-to-launch-media.md) _Context: Riyadh_
-3. [Pakistan says it was surprised to learn of the country's inclusion in Saudi Arabia's so-called "Islamic anti-terrorist alliance", and that Pakistan was not consulted before inclusion in the alliance by the Saudis. Pakistan's Foreign Secretary Aizaz Ahmad Chaudhry says he has asked the country's ambassador in Riyadh to get a clarification from Saudi Arabia on the matter. Malaysia has also denied any involvement in Saudi Arabia's military coalition to counter terrorism. ](/news/2015/12/16/pakistan-says-it-was-surprised-to-learn-of-the-country-s-inclusion-in-saudi-arabia-s-so-called-islamic-anti-terrorist-alliance-and-that-p.md) _Context: Riyadh_
-4. [Saudi Arabia announces the formation of a 34-member Islamic Military Alliance against terrorism including Egypt, Qatar, the United Arab Emirates, Turkey, Malaysia and Pakistan with a joint operations centre based in Riyadh. ](/news/2015/12/15/saudi-arabia-announces-the-formation-of-a-34-member-islamic-military-alliance-against-terrorism-including-egypt-qatar-the-united-arab-emir.md) _Context: Riyadh_
-5. [Syrian President Bashar al-Assad says he will not negotiate with armed groups, a day after the Syrian opposition's multi-group, two-day meeting in Riyadh agreed on a framework for future negotiations to end the conflict. Assad's statement also appears to put a damper on peace talks Russia and the United States are working to set up. ](/news/2015/12/11/syrian-president-bashar-al-assad-says-he-will-not-negotiate-with-armed-groups-a-day-after-the-syrian-opposition-s-multi-group-two-day-meet.md) _Context: Riyadh_
+1. [Saudi authorities arrest 11 princes in Riyadh for staging a protest against Saudi Arabia's austerity measures. ](/news/2018/01/6/saudi-authorities-arrest-11-princes-in-riyadh-for-staging-a-protest-against-saudi-arabia-s-austerity-measures.md) _Context: Riyadh_
+2. [A dozen camels are disqualified from a beauty pageant at the King Abdulaziz Camel Festival, near Riyadh, after reports in the media about injections with botox. A veterinarian is caught performing plastic surgery to make the camels more attractive. Rules prohibit to change the natural form of participating camels. ](/news/2018/01/24/a-dozen-camels-are-disqualified-from-a-beauty-pageant-at-the-king-abdulaziz-camel-festival-near-riyadh-after-reports-in-the-media-about-in.md) _Context: Riyadh_
+3. [Houthis say that they launched a Volcano H-2 missile targeting at the Al-Yamamah Palace in the Saudi capital city of Riyadh. According to the Saudis, the missile was intercepted south of Riyadh and caused no casualties. ](/news/2017/12/19/houthis-say-that-they-launched-a-volcano-h-2-missile-targeting-at-the-al-yamamah-palace-in-the-saudi-capital-city-of-riyadh-according-to-th.md) _Context: Riyadh_
+4. [In Riyadh, India's Prime Minister Narendra Modi and Saudi Arabia's King Salman sign five agreements, including plans to increase investments, and to cooperate in intelligence sharing. ](/news/2016/04/3/in-riyadh-india-s-prime-minister-narendra-modi-and-saudi-arabia-s-king-salman-sign-five-agreements-including-plans-to-increase-investments.md) _Context: Riyadh_
+5. [Pakistani prime minister Nawaz Sharif and army chief General Raheel Sharif will visit Riyadh on Monday and Tehran on Tuesday to launch mediation efforts between Iran and Saudi Arabia for normalization of relations and to ease the tensions in the region after Saudi Arabia executed a prominent Shia cleric Sheikh Nimr and an attack on the Saudi Embassy in Tehran. ](/news/2016/01/17/pakistani-prime-minister-nawaz-sharif-and-army-chief-general-raheel-sharif-will-visit-riyadh-on-monday-and-tehran-on-tuesday-to-launch-media.md) _Context: Riyadh_

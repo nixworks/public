@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/10/further-evidence-accrues-to-show-that-the-polar-ice-caps-are-shrinking.html)  [JSON](/news/2006/03/10/further-evidence-accrues-to-show-that-the-polar-ice-caps-are-shrinking.json)  [XML](/news/2006/03/10/further-evidence-accrues-to-show-that-the-polar-ice-caps-are-shrinking.xml)  
+
 ### [2006-03-10](/news/2006/03/10/index.md)
 
+##### polar ice cap
 #  Further evidence accrues to show that the polar ice caps are shrinking. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4790238.stm)
 

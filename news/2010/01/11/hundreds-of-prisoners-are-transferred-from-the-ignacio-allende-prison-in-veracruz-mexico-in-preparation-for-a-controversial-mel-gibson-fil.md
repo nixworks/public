@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/11/hundreds-of-prisoners-are-transferred-from-the-ignacio-allende-prison-in-veracruz-mexico-in-preparation-for-a-controversial-mel-gibson-fil.html)  [JSON](/news/2010/01/11/hundreds-of-prisoners-are-transferred-from-the-ignacio-allende-prison-in-veracruz-mexico-in-preparation-for-a-controversial-mel-gibson-fil.json)  [XML](/news/2010/01/11/hundreds-of-prisoners-are-transferred-from-the-ignacio-allende-prison-in-veracruz-mexico-in-preparation-for-a-controversial-mel-gibson-fil.xml)  
+
 ### [2010-01-11](/news/2010/01/11/index.md)
 
+##### Ignacio Allende
 # Hundreds of prisoners are transferred from the Ignacio Allende prison in Veracruz, Mexico, in preparation for a controversial Mel Gibson film shoot. Protests from relatives of the prisoners are ignored. 
 
 &quot;I have spent my life haunted by guilt for the undue anguish my recipe has caused the bake sale community.&quot;
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8452477.stm)
 2. [CBC News](http://www.cbc.ca/arts/film/story/2010/01/11/gibson-mexico-prison-veracruz.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/5/singapore-jails-the-leader-of-the-singapore-democratic-party-chee-soon-juan-for-failing-to-pay-a-fine-of-s-4-000-for-trying-to-leave-the-ci.html)  [JSON](/news/2007/09/5/singapore-jails-the-leader-of-the-singapore-democratic-party-chee-soon-juan-for-failing-to-pay-a-fine-of-s-4-000-for-trying-to-leave-the-ci.json)  [XML](/news/2007/09/5/singapore-jails-the-leader-of-the-singapore-democratic-party-chee-soon-juan-for-failing-to-pay-a-fine-of-s-4-000-for-trying-to-leave-the-ci.xml)  
+
 ### [2007-09-5](/news/2007/09/5/index.md)
 
+##### Singapore
 #  Singapore jails the leader of the Singapore Democratic Party Chee Soon Juan for failing to pay a fine of S$4,000 for trying to leave the city-state without permission. 
 
 Singapore has jailed a prominent opposition leader for three weeks after he failed to pay a fine for trying to leave the city-state without permission from the government, as required of him as a bankrupt.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-29339820070905)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070905&t=2&i=1653504&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2007-09-05T095757Z_01_NOOTR_RTRMDNC_0_India-293398-1)

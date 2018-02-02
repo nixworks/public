@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/24/legg-mason-announces-the-sale-of-its-broker-dealer-to-citigroup-in-exchange-for-citigroup-s-asset-management-business.html)  [JSON](/news/2005/06/24/legg-mason-announces-the-sale-of-its-broker-dealer-to-citigroup-in-exchange-for-citigroup-s-asset-management-business.json)  [XML](/news/2005/06/24/legg-mason-announces-the-sale-of-its-broker-dealer-to-citigroup-in-exchange-for-citigroup-s-asset-management-business.xml)  
+
 ### [2005-06-24](/news/2005/06/24/index.md)
 
+##### Legg Mason
 #  Legg Mason announces the sale of its broker-dealer to Citigroup in exchange for Citigroup's asset management business.
 
 

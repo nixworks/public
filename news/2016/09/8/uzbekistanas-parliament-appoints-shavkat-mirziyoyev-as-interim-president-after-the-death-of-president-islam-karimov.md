@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/8/uzbekistanas-parliament-appoints-shavkat-mirziyo
 
 ### [2016-09-8](/news/2016/09/8/index.md)
 
+##### Uzbekistan
 # Uzbekistan's parliament appoints Shavkat Mirziyoyev as interim president after the death of President Islam Karimov. 
 
 Uzbekistan’s first and only president was confirmed dead last week.

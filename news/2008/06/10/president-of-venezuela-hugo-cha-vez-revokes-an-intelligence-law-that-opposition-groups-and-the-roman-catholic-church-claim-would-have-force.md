@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/10/president-of-venezuela-hugo-cha-vez-revokes-an-intelligence-law-that-opposition-groups-and-the-roman-catholic-church-claim-would-have-force.html)  [JSON](/news/2008/06/10/president-of-venezuela-hugo-cha-vez-revokes-an-intelligence-law-that-opposition-groups-and-the-roman-catholic-church-claim-would-have-force.json)  [XML](/news/2008/06/10/president-of-venezuela-hugo-cha-vez-revokes-an-intelligence-law-that-opposition-groups-and-the-roman-catholic-church-claim-would-have-force.xml)  
+
 ### [2008-06-10](/news/2008/06/10/index.md)
 
+##### President
 #  President of Venezuela Hugo Chavez revokes an intelligence law that opposition groups and the Roman Catholic church claim would have forced citizens to become government informants and asks the National Assembly to develop new legislation. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601086&sid=aQ7aZULU6OhY&refer=)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601086&sid=aQ7aZULU6OhY&refer=)
 
 ### Related:
 

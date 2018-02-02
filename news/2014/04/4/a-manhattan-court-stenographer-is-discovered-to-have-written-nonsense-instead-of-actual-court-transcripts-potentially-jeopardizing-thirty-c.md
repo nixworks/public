@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/4/a-manhattan-court-stenographer-is-discovered-to-have-written-nonsense-instead-of-actual-court-transcripts-potentially-jeopardizing-thirty-c.html)  [JSON](/news/2014/04/4/a-manhattan-court-stenographer-is-discovered-to-have-written-nonsense-instead-of-actual-court-transcripts-potentially-jeopardizing-thirty-c.json)  [XML](/news/2014/04/4/a-manhattan-court-stenographer-is-discovered-to-have-written-nonsense-instead-of-actual-court-transcripts-potentially-jeopardizing-thirty-c.xml)  
+
 ### [2014-04-4](/news/2014/04/4/index.md)
 
+##### Manhattan
 # A Manhattan court stenographer is discovered to have written nonsense instead of actual court transcripts, potentially jeopardizing thirty court cases. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KNTV](http://www.nbcbayarea.com/news/national-international/Alcoholic-Court-Stenographer-Types-I-Hate-My-Job-I-Hate-My-Job-Botched-Transcripts-253801881.html?_osource=SocialFlowTwt_BAYBrand)
 1. [Cover Image](http://media.nbcbayarea.com/images/1200*675/courtroom+generic+722.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/4/after-counting-special-votes-from-the-20-september-new-zealand-general-election-the-national-party-loses-its-one-seat-majority-after-losing.html)  [JSON](/news/2014/10/4/after-counting-special-votes-from-the-20-september-new-zealand-general-election-the-national-party-loses-its-one-seat-majority-after-losing.json)  [XML](/news/2014/10/4/after-counting-special-votes-from-the-20-september-new-zealand-general-election-the-national-party-loses-its-one-seat-majority-after-losing.xml)  
+
 ### [2014-10-4](/news/2014/10/4/index.md)
 
+##### special vote
 # After counting special votes from the 20 September New Zealand general election, the National Party loses its one-seat majority after losing a seat to the Green Party. With the support of ACT and United Future, National still forms a government, albeit a minority government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NZ Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11337042)
 1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201440/SCCZEN_A_200914NZHMMELECTION8_1024x762.jpg)

@@ -1,25 +1,29 @@
+
+Formats: [HTML](/news/2011/10/9/voters-in-poland-go-to-the-polls-for-a-parliamentary-election-with-prime-minister-donald-tusk-s-civic-platform-a-polish-people-s-party-co.html)  [JSON](/news/2011/10/9/voters-in-poland-go-to-the-polls-for-a-parliamentary-election-with-prime-minister-donald-tusk-s-civic-platform-a-polish-people-s-party-co.json)  [XML](/news/2011/10/9/voters-in-poland-go-to-the-polls-for-a-parliamentary-election-with-prime-minister-donald-tusk-s-civic-platform-a-polish-people-s-party-co.xml)  
+
 ### [2011-10-9](/news/2011/10/9/index.md)
 
+##### Poland
 # Voters in Poland go to the polls for a parliamentary election, with Prime Minister Donald Tusk's Civic Platform - Polish People's Party coalition becoming the first government to be reelected since Poland transitioned to democracy in 1989. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jIp4PfsW5FPzgyx7m2ewWbRGpmGQ?docId=CNG.342b2fda95ff676d661cfb8393d151f9.31)
-2. [Reuters](http://www.reuters.com/article/2011/10/10/us-poland-election-idUSTRE79806920111010)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111010&t=2&i=513571517&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7990UDD00)
-
-### Related:
-
-1. [ Donald Tusk, leader of the Civic Platform party, is sworn in as Prime Minister of Poland in coalition with the Polish People's Party. ](/news/2007/11/16/donald-tusk-leader-of-the-civic-platform-party-is-sworn-in-as-prime-minister-of-poland-in-coalition-with-the-polish-people-s-party.md) _Context: Civic Platform, Donald Tusk, Polish People's Party, Polish Prime Minister_
-2. [Prime Minister of Poland Donald Tusk is hospitalized with an acute infection of the respiratory tract. ](/news/2013/01/24/prime-minister-of-poland-donald-tusk-is-hospitalized-with-an-acute-infection-of-the-respiratory-tract.md) _Context: Donald Tusk, Polish, Polish Prime Minister_
-3. [ Donald Tusk, the Prime Minister of Poland, announces that the United States and Poland have reached an agreement on basing missile defense in Poland. ](/news/2008/08/14/donald-tusk-the-prime-minister-of-poland-announces-that-the-united-states-and-poland-have-reached-an-agreement-on-basing-missile-defense.md) _Context: Donald Tusk, Polish, Polish Prime Minister_
-4. [Official results show Poland's conservative Law and Justice (PiS) party, led by eurosceptic Jaroslaw Kaczynski and the new PM Beata Szydlo, won more seats than any other party in today's general elections. Kaczynski is the twin brother of the late President Lech Kaczynski, who died in a 2010 jet crash. Prime Minister Ewa Kopacz has conceded defeat. ](/news/2015/10/25/official-results-show-poland-s-conservative-law-and-justice-pis-party-led-by-eurosceptic-jarosaaw-kaczyaski-and-the-new-pm-beata-szyda.md) _Context: Polish, Polish Prime Minister_
-5. [Donald Tusk, the Prime Minister of Poland, is chosen as the President of the European Council, while Federica Mogherini is chosen as the High Representative of the Union for Foreign Affairs and Security Policy. ](/news/2014/08/30/donald-tusk-the-prime-minister-of-poland-is-chosen-as-the-president-of-the-european-council-while-federica-mogherini-is-chosen-as-the-hig.md) _Context: Donald Tusk, Polish Prime Minister_
+2. [Reuters](https://www.reuters.com/article/2011/10/10/us-poland-election-idUSTRE79806920111010)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111010&t=2&i=513571517&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7990UDD00)
 
 ### Changes:
 
 1. [Voters in Poland go to the polls for a parliamentary election, with Prime Minister Donald Tusk's Civic Platform - Polish People's Party coalition becoming the first government to be reelected since Poland transitioned to democracy in 1989. ](/news/2011/10/9/voters-in-poland-go-to-the-polls-for-a-parliamentary-election-with-prime-minister-donald-tusk-s-civic-platform-polish-people-s-party-co.md) _2017-08-27 03:34:25 (First version)_
 1. [Voters in Poland go to the polls for a parliamentary election, with Prime Minister Donald Tusk's Civic Platform - Polish People's Party coalition becoming the first government to be reelected since Poland transitioned to democracy in 1989. ](/news/2011/10/9/voters-in-poland-go-to-the-polls-for-a-parliamentary-election-with-prime-minister-donald-tusk-s-civic-platform-a-polish-people-s-party-co.md) _(Current version)_
+
+### Related:
+
+1. [ Donald Tusk, leader of the Civic Platform party, is sworn in as Prime Minister of Poland in coalition with the Polish People's Party. ](/news/2007/11/16/donald-tusk-leader-of-the-civic-platform-party-is-sworn-in-as-prime-minister-of-poland-in-coalition-with-the-polish-people-s-party.md) _Context: Civic Platform, Donald Tusk, Polish People's Party_
+2. [Prime Minister of Poland Donald Tusk is hospitalized with an acute infection of the respiratory tract. ](/news/2013/01/24/prime-minister-of-poland-donald-tusk-is-hospitalized-with-an-acute-infection-of-the-respiratory-tract.md) _Context: Donald Tusk, Poland_
+3. [ Poland's Prime Minister Donald Tusk agrees to station SM-3 missile interceptors from United States President Barack Obama's reformulated missile defense system on the territory of this NATO ally. ](/news/2009/10/21/poland-s-prime-minister-donald-tusk-agrees-to-station-sm-3-missile-interceptors-from-united-states-president-barack-obama-s-reformulated-mi.md) _Context: Donald Tusk, Poland_
+4. [ Donald Tusk, the Prime Minister of Poland, announces that the United States and Poland have reached an agreement on basing missile defense in Poland. ](/news/2008/08/14/donald-tusk-the-prime-minister-of-poland-announces-that-the-united-states-and-poland-have-reached-an-agreement-on-basing-missile-defense.md) _Context: Donald Tusk, Poland_
+5. [ Polish Prime Minister Jaroslaw Kaczynski is conceding defeat as exit polls give Donald Tusk's Civic Platform a large lead over his ruling nationalists in the parliamentary elections. ](/news/2007/10/21/polish-prime-minister-jaroslaw-kaczynski-is-conceding-defeat-as-exit-polls-give-donald-tusk-s-civic-platform-a-large-lead-over-his-ruling-n.md) _Context: Civic Platform, Donald Tusk_

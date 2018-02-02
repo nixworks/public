@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/26/tankers-anchored-in-the-caribbean-sea-are-unabl
 
 ### [2017-01-26](/news/2017/01/26/index.md)
 
+##### Caribbean
 # Tankers anchored in the Caribbean Sea are unable to deliver over four million barrels of crude oil, due to Venezuela's state-owned oil and natural gas company being unable to pay for hull cleaning, inspections, and other port services. 
 
  More than 4 million barrels of Venezuelan crude and fuels are sitting in tankers anchored in the Caribbean sea, unable to reach their final destination because

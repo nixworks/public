@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/9/the-current-bishop-of-durham-justin-welby-is-officially-named-as-the-next-archbishop-of-canterbury-the-leader-of-the-anglican-church-he-wi.html)  [JSON](/news/2012/11/9/the-current-bishop-of-durham-justin-welby-is-officially-named-as-the-next-archbishop-of-canterbury-the-leader-of-the-anglican-church-he-wi.json)  [XML](/news/2012/11/9/the-current-bishop-of-durham-justin-welby-is-officially-named-as-the-next-archbishop-of-canterbury-the-leader-of-the-anglican-church-he-wi.xml)  
+
 ### [2012-11-9](/news/2012/11/9/index.md)
 
+##### Bishop of Durham
 # The current Bishop of Durham Justin Welby is officially named as the next Archbishop of Canterbury, the leader of the Anglican Church. He will succeed the present incumbent, Rowan Williams, who is set to retire in December. 
 
 The next Archbishop of Canterbury sets out his support for the ordination of women bishops, as his appointment is confirmed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20264520)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64037000/jpg/_64037859_64034654.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/20/the-2006-malaysian-floods-caused-by-heavy-monsoon-rain-force-the-evacuation-of-26-000-people-in-the-southern-malaysian-state-of-johor-floo.html)  [JSON](/news/2006/12/20/the-2006-malaysian-floods-caused-by-heavy-monsoon-rain-force-the-evacuation-of-26-000-people-in-the-southern-malaysian-state-of-johor-floo.json)  [XML](/news/2006/12/20/the-2006-malaysian-floods-caused-by-heavy-monsoon-rain-force-the-evacuation-of-26-000-people-in-the-southern-malaysian-state-of-johor-floo.xml)  
+
 ### [2006-12-20](/news/2006/12/20/index.md)
 
+##### 2006 Malaysian floods
 #  The 2006 Malaysian floods caused by heavy monsoon rain force the evacuation of 26,000 people in the southern Malaysian state of Johor. Flooding is also reported in the southern states of Malacca and Negeri Sembilan but the situation there is not as serious. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4415808.html)
 

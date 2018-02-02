@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/14/daimlerchrysler-announces-it-has-sold-80-1-of-its-stake-in-the-chrysler-group-to-cerberus-capital-management-a-private-equity-firm-for-7.html)  [JSON](/news/2007/05/14/daimlerchrysler-announces-it-has-sold-80-1-of-its-stake-in-the-chrysler-group-to-cerberus-capital-management-a-private-equity-firm-for-7.json)  [XML](/news/2007/05/14/daimlerchrysler-announces-it-has-sold-80-1-of-its-stake-in-the-chrysler-group-to-cerberus-capital-management-a-private-equity-firm-for-7.xml)  
+
 ### [2007-05-14](/news/2007/05/14/index.md)
 
+##### DaimlerChrysler
 #  DaimlerChrysler announces it has sold 80.1% of its stake in the Chrysler Group to Cerberus Capital Management, a private equity firm for $7.4 Billion. It is announced that the corporate names are to be changed to "Daimler AG" and "Chrysler Holding LLC". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WDIV-TV](http://www.clickondetroit.com/news/13311559/detail.html)
 

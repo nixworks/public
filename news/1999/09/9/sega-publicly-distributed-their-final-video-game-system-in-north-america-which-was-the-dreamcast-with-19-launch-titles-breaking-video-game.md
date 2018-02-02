@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/09/9/sega-publicly-distributed-their-final-video-game-system-in-north-america-which-was-the-dreamcast-with-19-launch-titles-breaking-video-game.html)  [JSON](/news/1999/09/9/sega-publicly-distributed-their-final-video-game-system-in-north-america-which-was-the-dreamcast-with-19-launch-titles-breaking-video-game.json)  [XML](/news/1999/09/9/sega-publicly-distributed-their-final-video-game-system-in-north-america-which-was-the-dreamcast-with-19-launch-titles-breaking-video-game.xml)  
+
 ### [1999-09-9](/news/1999/09/9/index.md)
 
+##### Sega
 #  Sega publicly distributed their final video game system in North America which was the Dreamcast with 19 launch titles, breaking video game and entertainment sales records in the first 24 sale hours.
 
 

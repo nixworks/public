@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/20/a-u-s-missile-strike-kills-six-alleged-militants-in-northwestern-pakistan-in-shawa-near-mir-ali-in-the-north-waziristan-tribal-area.html)  [JSON](/news/2010/09/20/a-u-s-missile-strike-kills-six-alleged-militants-in-northwestern-pakistan-in-shawa-near-mir-ali-in-the-north-waziristan-tribal-area.json)  [XML](/news/2010/09/20/a-u-s-missile-strike-kills-six-alleged-militants-in-northwestern-pakistan-in-shawa-near-mir-ali-in-the-north-waziristan-tribal-area.xml)  
+
 ### [2010-09-20](/news/2010/09/20/index.md)
 
+##### Pakistan
 # A U.S. missile strike kills six alleged militants in northwestern Pakistan in Shawa near Mir Ali in the North Waziristan tribal area. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_PAKISTAN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2010-09-20-08-11-23)
 

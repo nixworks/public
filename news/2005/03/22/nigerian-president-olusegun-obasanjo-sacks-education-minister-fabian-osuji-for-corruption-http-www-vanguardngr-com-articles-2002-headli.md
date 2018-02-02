@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/03/22/nigerian-president-olusegun-obasanjo-sacks-education-minister-fabian-osuji-for-corruption-http-www-vanguardngr-com-articles-2002-headli.html)  [JSON](/news/2005/03/22/nigerian-president-olusegun-obasanjo-sacks-education-minister-fabian-osuji-for-corruption-http-www-vanguardngr-com-articles-2002-headli.json)  [XML](/news/2005/03/22/nigerian-president-olusegun-obasanjo-sacks-education-minister-fabian-osuji-for-corruption-http-www-vanguardngr-com-articles-2002-headli.xml)  
+
 ### [2005-03-22](/news/2005/03/22/index.md)
 
+##### Nigeria
 #  Nigerian President Olusegun Obasanjo sacks education minister Fabian Osuji for corruption. [http:--www.vanguardngr.com-articles-2002-headline-f123032005.html (Vanguard, Nigeria)] [http:--allafrica.com-stories-200503210766.html (AllAfrica)] [http:--www.reuters.co.za-locales-c_newsArticle.jsp;:423c1bf9:67cb6051ffa8377b?type=topNews&localeKey=en_ZA&storyID=7950277 (Reuters SA)] (Link dead as of 03:13, 15 January 2007 (UTC))
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/30/24-miners-have-been-killed-in-a-mine-explosion-in-the-chinese-province-of-shaanxi.html)  [JSON](/news/2006/04/30/24-miners-have-been-killed-in-a-mine-explosion-in-the-chinese-province-of-shaanxi.json)  [XML](/news/2006/04/30/24-miners-have-been-killed-in-a-mine-explosion-in-the-chinese-province-of-shaanxi.xml)  
+
 ### [2006-04-30](/news/2006/04/30/index.md)
 
+##### miners
 #  24 miners have been killed in a mine explosion in the Chinese province of Shaanxi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4959254.stm)
 

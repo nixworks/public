@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/26/nigeria-s-state-security-service-intercepts-an-arms-shipment-in-lagos-amid-high-security-following-bomb-attacks-in-abuja-earlier-this-month.html)  [JSON](/news/2010/10/26/nigeria-s-state-security-service-intercepts-an-arms-shipment-in-lagos-amid-high-security-following-bomb-attacks-in-abuja-earlier-this-month.json)  [XML](/news/2010/10/26/nigeria-s-state-security-service-intercepts-an-arms-shipment-in-lagos-amid-high-security-following-bomb-attacks-in-abuja-earlier-this-month.xml)  
+
 ### [2010-10-26](/news/2010/10/26/index.md)
 
+##### State Security Service
 # Nigeria's State Security Service intercepts an arms shipment in Lagos amid high security following bomb attacks in Abuja earlier this month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/nigeria-finds-weapons-in-cargo-1.689145)
 2. [Nigerian Tribune](http://tribune.com.ng/index.php/front-page-news/12706-customs-seize-13-containers-of-arms-ammunition-in-lagos)

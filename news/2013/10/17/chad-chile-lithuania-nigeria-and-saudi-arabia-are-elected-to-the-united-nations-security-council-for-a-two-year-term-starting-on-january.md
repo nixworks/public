@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/10/17/chad-chile-lithuania-nigeria-and-saudi-arabia-are-elected-to-the-united-nations-security-council-for-a-two-year-term-starting-on-january.html)  [JSON](/news/2013/10/17/chad-chile-lithuania-nigeria-and-saudi-arabia-are-elected-to-the-united-nations-security-council-for-a-two-year-term-starting-on-january.json)  [XML](/news/2013/10/17/chad-chile-lithuania-nigeria-and-saudi-arabia-are-elected-to-the-united-nations-security-council-for-a-two-year-term-starting-on-january.xml)  
+
 ### [2013-10-17](/news/2013/10/17/index.md)
 
+##### Chad
 # Chad, Chile, Lithuania, Nigeria and Saudi Arabia are elected to the United Nations Security Council for a two-year term, starting on January 1, 2014. 
 
 Saudi Arabia, Chad and Nigeria were elected by the U.N. General Assembly on Thursday to serve a two-year term on the U.N. Security Council as human rights groups called for all three countries to improve their records.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/10/17/us-un-securitycouncil-election-idUSBRE99G0R120131017)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/10/17/us-un-securitycouncil-election-idUSBRE99G0R120131017)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

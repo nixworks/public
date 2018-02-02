@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/25/the-european-parliament-adopts-a-resolution-cal
 
 ### [2016-02-25](/news/2016/02/25/index.md)
 
+##### Foreign relations of Saudi Arabia
 # The European Parliament adopts a resolution calling for the introduction of an arms embargo against Saudi Arabia, saying the United Kingdom, France and other EU governments should no longer sell weapons to a country accused of targeting civilians in Yemen. 
 
 The European Parliament calledon the European Union to impose an arms embargo against SaudiArabia on Thursday, saying Britain, France and other EUgovernments should no longer sell weapons to a country accusedof targeting civilians in Yemen.

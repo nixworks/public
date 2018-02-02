@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/30/extreme-weather-including-snow-and-wind-leads-to-chaos-and-as-many-as-three-deaths-in-bavaria-and-north-rhine-westphalia.html)  [JSON](/news/2010/01/30/extreme-weather-including-snow-and-wind-leads-to-chaos-and-as-many-as-three-deaths-in-bavaria-and-north-rhine-westphalia.json)  [XML](/news/2010/01/30/extreme-weather-including-snow-and-wind-leads-to-chaos-and-as-many-as-three-deaths-in-bavaria-and-north-rhine-westphalia.xml)  
+
 ### [2010-01-30](/news/2010/01/30/index.md)
 
+##### Bavaria
 # Extreme weather, including snow and wind, leads to "chaos" and as many as three deaths in Bavaria and North Rhine-Westphalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8489123.stm)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5195720,00.html)

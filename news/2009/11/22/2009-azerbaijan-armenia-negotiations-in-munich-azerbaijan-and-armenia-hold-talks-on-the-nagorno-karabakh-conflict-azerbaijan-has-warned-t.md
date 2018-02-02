@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/22/2009-azerbaijan-armenia-negotiations-in-munich-azerbaijan-and-armenia-hold-talks-on-the-nagorno-karabakh-conflict-azerbaijan-has-warned-t.html)  [JSON](/news/2009/11/22/2009-azerbaijan-armenia-negotiations-in-munich-azerbaijan-and-armenia-hold-talks-on-the-nagorno-karabakh-conflict-azerbaijan-has-warned-t.json)  [XML](/news/2009/11/22/2009-azerbaijan-armenia-negotiations-in-munich-azerbaijan-and-armenia-hold-talks-on-the-nagorno-karabakh-conflict-azerbaijan-has-warned-t.xml)  
+
 ### [2009-11-22](/news/2009/11/22/index.md)
 
+##### 2009 Azerbaijan-Armenia negotiations in Munich
 #  2009 Azerbaijan-Armenia negotiations in Munich: Azerbaijan and Armenia hold talks on the Nagorno-Karabakh conflict. Azerbaijan has warned that the meeting of presidents in Munich will be "decisive" and that its troops are ready to take the territory by force unless there is a breakthrough in negotiations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://thestar.com.my/news/story.asp?file=/2009/11/22/worldupdates/2009-11-22T105906Z_01_NOOTR_RTRMDNC_0_-441424-1&sec=Worldupdates)
 

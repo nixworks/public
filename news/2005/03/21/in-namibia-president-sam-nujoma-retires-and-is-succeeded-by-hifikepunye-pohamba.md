@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2005/03/21/in-namibia-president-sam-nujoma-retires-and-is-succeeded-by-hifikepunye-pohamba.html)  [JSON](/news/2005/03/21/in-namibia-president-sam-nujoma-retires-and-is-succeeded-by-hifikepunye-pohamba.json)  [XML](/news/2005/03/21/in-namibia-president-sam-nujoma-retires-and-is-succeeded-by-hifikepunye-pohamba.xml)  
+
 ### [2005-03-21](/news/2005/03/21/index.md)
 
+##### Namibia
 #  In Namibia, president Sam Nujoma retires and is succeeded by Hifikepunye Pohamba. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200503180690.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/4367015.stm)
-3. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aj8V3EHtH_LY&refer=top_world_news)
+3. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=aj8V3EHtH_LY&refer=top_world_news)
 4. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1679289,00.html)
 5. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:423d6e5b:f456dbbb13f0485e?type=topNews&localeKey=en_ZA&storyID=7952122)
-6. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7956341)
-6. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+6. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7956341)
+6. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

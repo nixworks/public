@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/21/in-mexico-police-are-looking-for-kidnapped-soccer-coach-omar-romano.html)  [JSON](/news/2005/07/21/in-mexico-police-are-looking-for-kidnapped-soccer-coach-omar-romano.json)  [XML](/news/2005/07/21/in-mexico-police-are-looking-for-kidnapped-soccer-coach-omar-romano.xml)  
+
 ### [2005-07-21](/news/2005/07/21/index.md)
 
+##### soccer
 #  In Mexico, police are looking for kidnapped soccer coach Omar Romano. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4702173.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N20439256.htm)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/03/13/politicians-in-cyprus-demand-the-resignation-of-the-governor-of-the-central-bank-there-chrystalla-georghadji-raising-concerns-about-a-conf.html)  [JSON](/news/2015/03/13/politicians-in-cyprus-demand-the-resignation-of-the-governor-of-the-central-bank-there-chrystalla-georghadji-raising-concerns-about-a-conf.json)  [XML](/news/2015/03/13/politicians-in-cyprus-demand-the-resignation-of-the-governor-of-the-central-bank-there-chrystalla-georghadji-raising-concerns-about-a-conf.xml)  
+
 ### [2015-03-13](/news/2015/03/13/index.md)
 
+##### Cyprus
 # Politicians in Cyprus demand the resignation of the governor of the central bank there, Chrystalla Georghadji, raising concerns about a conflict of interest. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/03/13/cyprus-cenbank-banker-idUSL5N0WF1ZH20150313)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/03/13/cyprus-cenbank-banker-idUSL5N0WF1ZH20150313)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

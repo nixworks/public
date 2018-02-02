@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/25/australian-electronics-retailer-dick-smith-plac
 
 ### [2016-02-25](/news/2016/02/25/index.md)
 
+##### Dick Smith
 # Australian electronics retailer Dick Smith, placed in administration by creditors in January, will close 301 stores in Australia and 62 in New Zealand with nearly 3000 people to lose their jobs. 
 
 

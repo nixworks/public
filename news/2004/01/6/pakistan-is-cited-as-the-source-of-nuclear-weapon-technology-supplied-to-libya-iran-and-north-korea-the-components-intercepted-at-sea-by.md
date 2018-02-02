@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/6/pakistan-is-cited-as-the-source-of-nuclear-weapon-technology-supplied-to-libya-iran-and-north-korea-the-components-intercepted-at-sea-by.html)  [JSON](/news/2004/01/6/pakistan-is-cited-as-the-source-of-nuclear-weapon-technology-supplied-to-libya-iran-and-north-korea-the-components-intercepted-at-sea-by.json)  [XML](/news/2004/01/6/pakistan-is-cited-as-the-source-of-nuclear-weapon-technology-supplied-to-libya-iran-and-north-korea-the-components-intercepted-at-sea-by.xml)  
+
 ### [2004-01-6](/news/2004/01/6/index.md)
 
+##### nuclear weapon
 #  Pakistan is cited as the source of nuclear weapon technology supplied to Libya, Iran and North Korea. The components intercepted at sea by Italy en route to Libya were fabricated in Malaysia. There is no evidence that the Pakistani government of President Pervez Musharraf knew about the transfer of technology of Libya. url=http:--www.gulf-news.com-Articles-news.asp?ArticleID=107214 News, Abu Dhabi News, UAE News and International News from GulfNews.com - plus Gold rates, sport scores, city guides, prayer times, Dubai financial data, weather forecasts and more .com 
 
 

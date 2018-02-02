@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/19/research-published-in-the-journal-nature-claims-that-a-large-portion-of-the-lithium-in-the-universe-was-produced-by-novae.html)  [JSON](/news/2015/02/19/research-published-in-the-journal-nature-claims-that-a-large-portion-of-the-lithium-in-the-universe-was-produced-by-novae.json)  [XML](/news/2015/02/19/research-published-in-the-journal-nature-claims-that-a-large-portion-of-the-lithium-in-the-universe-was-produced-by-novae.xml)  
+
 ### [2015-02-19](/news/2015/02/19/index.md)
 
+##### ''Nature''
 # Research published in the journal "Nature" claims that a large portion of the lithium in the universe was produced by novae. 
 
 A large amount of lithium, one of the key elements in the chemical evolution of the cosmos, is produced by stellar explosions called novae.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/science/articles/2015/02/19/4182512.htm)
 1. [Cover Image](http://www.abc.net.au/reslib/201502/r1390578_19769457.jpg)

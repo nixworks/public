@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/23/indonesian-authorities-evacuate-foreign-and-female-prisoners-from-kerobokan-prison-on-bali-following-a-second-night-of-unrest.html)  [JSON](/news/2012/02/23/indonesian-authorities-evacuate-foreign-and-female-prisoners-from-kerobokan-prison-on-bali-following-a-second-night-of-unrest.json)  [XML](/news/2012/02/23/indonesian-authorities-evacuate-foreign-and-female-prisoners-from-kerobokan-prison-on-bali-following-a-second-night-of-unrest.xml)  
+
 ### [2012-02-23](/news/2012/02/23/index.md)
 
+##### Indonesia
 # Indonesian authorities evacuate foreign and female prisoners from Kerobokan Prison on Bali following a second night of unrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/top-stories/bali-jail-set-to-be-evacuated/story-e6frfkp9-1226279864774)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/ad29f2dc7a25f43e48691d3811daff22)

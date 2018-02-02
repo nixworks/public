@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/20/north-korea-confirms-a-bird-flu-outbreak-that-has-forced-authorities-to-kill-over-160-000-ducks-in-pyongyang.html)  [JSON](/news/2013/05/20/north-korea-confirms-a-bird-flu-outbreak-that-has-forced-authorities-to-kill-over-160-000-ducks-in-pyongyang.json)  [XML](/news/2013/05/20/north-korea-confirms-a-bird-flu-outbreak-that-has-forced-authorities-to-kill-over-160-000-ducks-in-pyongyang.xml)  
+
 ### [2013-05-20](/news/2013/05/20/index.md)
 
+##### North Korea
 # North Korea confirms a bird flu outbreak that has forced authorities to kill over 160,000 ducks in Pyongyang. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap News Agency](http://english.yonhapnews.co.kr/northkorea/2013/05/20/17/0401000000AEN20130520010900315F.HTML)
 

@@ -1,7 +1,7 @@
-## [2003-06-29](/news/2003/06/29/index.md)
 
-### [ Actress Katharine Hepburn dies of natural causes at the age of 96 at her family home in Old Saybrook, Connecticut.](/news/2003/06/29/actress-katharine-hepburn-dies-of-natural-causes-at-the-age-of-96-at-her-family-home-in-old-saybrook-connecticut.md)
-_Context: Katharine Hepburn, Old Saybrook, Connecticut_
+Formats: [HTML](2003/06/29/index.html)  [JSON](2003/06/29/index.json)  [XML](2003/06/29/index.xml)  
+
+## [2003-06-29](/news/2003/06/29/index.md)
 
 ## [Previous Day...](/news/2003/06/28/index.md)
 

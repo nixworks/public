@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/11/sri-lanka-s-military-claims-a-major-victory-against-tamil-tiger-rebels-saying-it-has-sunk-three-vessels-carrying-war-equipment.html)  [JSON](/news/2007/09/11/sri-lanka-s-military-claims-a-major-victory-against-tamil-tiger-rebels-saying-it-has-sunk-three-vessels-carrying-war-equipment.json)  [XML](/news/2007/09/11/sri-lanka-s-military-claims-a-major-victory-against-tamil-tiger-rebels-saying-it-has-sunk-three-vessels-carrying-war-equipment.xml)  
+
 ### [2007-09-11](/news/2007/09/11/index.md)
 
+##### Sri Lanka
 #  Sri Lanka's military claims a major victory against Tamil Tiger rebels, saying it has sunk three vessels carrying war equipment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/southAsiaNews/idINIndia-29458720070911)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070911&t=2&i=1690958&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2007-09-11T151853Z_01_NOOTR_RTRMDNC_0_India-294587-1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/6/sri-lanka-orders-a-united-nations-official-from-unicef-to-leave-after-he-made-adverse-remarks-to-the-foreign-media-regarding-the-ltte.html)  [JSON](/news/2009/09/6/sri-lanka-orders-a-united-nations-official-from-unicef-to-leave-after-he-made-adverse-remarks-to-the-foreign-media-regarding-the-ltte.json)  [XML](/news/2009/09/6/sri-lanka-orders-a-united-nations-official-from-unicef-to-leave-after-he-made-adverse-remarks-to-the-foreign-media-regarding-the-ltte.xml)  
+
 ### [2009-09-6](/news/2009/09/6/index.md)
 
+##### Sri Lanka
 #  Sri Lanka orders a United Nations official from UNICEF to leave after he made "adverse remarks" to the foreign media regarding the LTTE. 
 
 Sri Lanka has ordered a senior UN official to leave the country for his &quot;propaganda in support of the Tigers&quot; during the war in which the LTTE was defeated.
 
 
-### Source:
+### Sources:
 
 1. [The Island](http://www.island.lk/2009/09/07/news3.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6824039.ece)

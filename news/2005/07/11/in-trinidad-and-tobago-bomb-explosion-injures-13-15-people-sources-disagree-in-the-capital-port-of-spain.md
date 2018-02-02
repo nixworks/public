@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/11/in-trinidad-and-tobago-bomb-explosion-injures-13-15-people-sources-disagree-in-the-capital-port-of-spain.html)  [JSON](/news/2005/07/11/in-trinidad-and-tobago-bomb-explosion-injures-13-15-people-sources-disagree-in-the-capital-port-of-spain.json)  [XML](/news/2005/07/11/in-trinidad-and-tobago-bomb-explosion-injures-13-15-people-sources-disagree-in-the-capital-port-of-spain.xml)  
+
 ### [2005-07-11](/news/2005/07/11/index.md)
 
+##### Trinidad and Tobago
 #  In Trinidad and Tobago, bomb explosion injures 13-15 people (sources disagree) in the capital Port of Spain 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4673879.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N7B335707.htm)

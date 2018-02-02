@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/18/zimbabwean-prime-minister-morgan-tsvangirai-says-the-country-is-descending-into-a-police-state-and-urges-regional-intervention-at-a-rally.html)  [JSON](/news/2011/03/18/zimbabwean-prime-minister-morgan-tsvangirai-says-the-country-is-descending-into-a-police-state-and-urges-regional-intervention-at-a-rally.json)  [XML](/news/2011/03/18/zimbabwean-prime-minister-morgan-tsvangirai-says-the-country-is-descending-into-a-police-state-and-urges-regional-intervention-at-a-rally.xml)  
+
 ### [2011-03-18](/news/2011/03/18/index.md)
 
+##### Zimbabwe
 # Zimbabwean Prime Minister Morgan Tsvangirai says the country is descending into a "police state" and urges regional intervention, at a rally banned by police. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE72H0FL20110318?sp=true)
 

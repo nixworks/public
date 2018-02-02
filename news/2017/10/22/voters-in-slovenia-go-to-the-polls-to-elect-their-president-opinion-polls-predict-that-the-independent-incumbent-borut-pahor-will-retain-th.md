@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/22/voters-in-slovenia-go-to-the-polls-to-elect-the
 
 ### [2017-10-22](/news/2017/10/22/index.md)
 
+##### Slovenian presidential election, 2017
 # Voters in Slovenia go to the polls to elect their president. Opinion polls predict that the independent incumbent Borut Pahor will retain the largely ceremonial role despite being challenged by noted actor and comedian Marjan Sarec. 
 
 Slovenian incumbent Borut Pahor is poised to win the first round of a presidential election, potentially becoming the first in 15 years, by fighting off a candidate who’s vowed to oust the country’s ruling elite.

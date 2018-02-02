@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/2/services-are-held-outdoors-after-dustin-connor-allegedly-stole-a-computer-discharged-fire-extinguishers-and-damaged-a-cross-and-other-stru.html)  [JSON](/news/2015/08/2/services-are-held-outdoors-after-dustin-connor-allegedly-stole-a-computer-discharged-fire-extinguishers-and-damaged-a-cross-and-other-stru.json)  [XML](/news/2015/08/2/services-are-held-outdoors-after-dustin-connor-allegedly-stole-a-computer-discharged-fire-extinguishers-and-damaged-a-cross-and-other-stru.xml)  
+
 ### [2015-08-2](/news/2015/08/2/index.md)
 
+##### Ohio
 # Services are held outdoors after Dustin Connor allegedly stole a computer, discharged fire extinguishers, and damaged a cross and other structures at a church in Piqua, Ohio. He is aleady a person of interest in similar vandalism to another church in the town.
 
 The congregation of a vandalized western Ohio church held its Sunday services outdoors and prayed for the man charged in the incident.
 
 
-### Source:
+### Sources:
 
 1. [The Washington Times'' and ''The Dayton Daily News](http://www.washingtontimes.com/news/2015/aug/3/congregation-of-vandalized-ohio-church-pray-for-su/)
 

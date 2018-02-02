@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/16/conflict-in-iraq-five-u-s-marines-die-from-a-roadside-bomb-in-ramadi-western-iraq.html)  [JSON](/news/2005/06/16/conflict-in-iraq-five-u-s-marines-die-from-a-roadside-bomb-in-ramadi-western-iraq.json)  [XML](/news/2005/06/16/conflict-in-iraq-five-u-s-marines-die-from-a-roadside-bomb-in-ramadi-western-iraq.xml)  
+
 ### [2005-06-16](/news/2005/06/16/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Five U.S. Marines die from a roadside bomb in Ramadi, Western Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4098178.stm)
 

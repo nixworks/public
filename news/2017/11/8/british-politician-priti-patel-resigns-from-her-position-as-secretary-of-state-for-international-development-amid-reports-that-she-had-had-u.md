@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/8/british-politician-priti-patel-resigns-from-her-
 
 ### [2017-11-8](/news/2017/11/8/index.md)
 
+##### Politics of the United Kingdom
 # British politician Priti Patel resigns from her position as Secretary of State for International Development amid reports that she had had unauthorized meetings with senior Israeli officials. 
 
 Theresa May loses second cabinet minister in a week as pro-Brexit international development secretary departs
@@ -20,8 +21,8 @@ Theresa May loses second cabinet minister in a week as pro-Brexit international 
 
 ### Related:
 
-1. [The Czech Republic recognizes West Jerusalem as Israel's capital "in practice". ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital-in-practice.md) _Context: Israel_
-2. [For the second time in three days, Israel carries out a missile strike on military facilities near Damascus. ](/news/2017/12/4/for-the-second-time-in-three-days-israel-carries-out-a-missile-strike-on-military-facilities-near-damascus.md) _Context: Israel_
-3. [Israel's Transportation Minister Yisrael Katz says that the new underground railroad terminal in the Jewish Quarter in the Old City of Jerusalem (part of East Jerusalem) will be named in honor of U.S. President Donald Trump. ](/news/2017/12/27/israel-s-transportation-minister-yisrael-katz-says-that-the-new-underground-railroad-terminal-in-the-jewish-quarter-in-the-old-city-of-jerus.md) _Context: Israel_
-4. [Seven Israeli chess players are denied travel visas to the Rapid and Blitz Chess Championships in Saudi Arabia as the two countries have no diplomatic relations. Players from Qatar and Iran are given last-minute visas, while Ukrainian champion Anna Muzychuk refuses to participate because she does not want to wear an abaya. ](/news/2017/12/26/seven-israeli-chess-players-are-denied-travel-visas-to-the-rapid-and-blitz-chess-championships-in-saudi-arabia-as-the-two-countries-have-no.md) _Context: Israel_
-5. [Guatemalan President Jimmy Morales says he will move his country's Israeli embassy from Tel Aviv to Jerusalem. ](/news/2017/12/24/guatemalan-president-jimmy-morales-says-he-will-move-his-country-s-israeli-embassy-from-tel-aviv-to-jerusalem.md) _Context: Israel_
+1. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: Israel_
+2. [Prime Minister Theresa May orders Phillip Lee, a Justice minister, to "air his views in private" after he suggested that Brexit planning should be based on evidence rather than dogma. ](/news/2018/01/31/prime-minister-theresa-may-orders-phillip-lee-a-justice-minister-to-air-his-views-in-private-after-he-suggested-that-brexit-planning-sho.md) _Context: Politics of the United Kingdom_
+3. [U.S. President Donald Trump threatens to stop aid to Palestine if they do not agree to partake in peace talks with Israel. ](/news/2018/01/25/u-s-president-donald-trump-threatens-to-stop-aid-to-palestine-if-they-do-not-agree-to-partake-in-peace-talks-with-israel.md) _Context: Israel_
+4. [Theresa May criticizes Boris Johnson for airing National Health Service funding concerns outside private U.K. Cabinet meetings. ](/news/2018/01/23/theresa-may-criticizes-boris-johnson-for-airing-national-health-service-funding-concerns-outside-private-u-k-cabinet-meetings.md) _Context: Politics of the United Kingdom_
+5. [Abdullah II of Jordan tells U.S. Vice President Mike Pence the U.S. has to rebuild "trust and confidence" to achieve a two-state solution in Israel after the U.S. recognized Jerusalem as Israel's capital. ](/news/2018/01/21/abdullah-ii-of-jordan-tells-u-s-vice-president-mike-pence-the-u-s-has-to-rebuild-trust-and-confidence-to-achieve-a-two-state-solution-in.md) _Context: Israel_

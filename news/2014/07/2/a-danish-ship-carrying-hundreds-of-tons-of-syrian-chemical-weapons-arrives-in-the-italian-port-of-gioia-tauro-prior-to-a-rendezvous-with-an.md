@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/2/a-danish-ship-carrying-hundreds-of-tons-of-syrian-chemical-weapons-arrives-in-the-italian-port-of-gioia-tauro-prior-to-a-rendezvous-with-an.html)  [JSON](/news/2014/07/2/a-danish-ship-carrying-hundreds-of-tons-of-syrian-chemical-weapons-arrives-in-the-italian-port-of-gioia-tauro-prior-to-a-rendezvous-with-an.json)  [XML](/news/2014/07/2/a-danish-ship-carrying-hundreds-of-tons-of-syrian-chemical-weapons-arrives-in-the-italian-port-of-gioia-tauro-prior-to-a-rendezvous-with-an.xml)  
+
 ### [2014-07-2](/news/2014/07/2/index.md)
 
+##### chemical weapons
 # A Danish ship carrying hundreds of tons of Syrian chemical weapons arrives in the Italian port of Gioia Tauro prior to a rendezvous with an American ship that will destroy the weapons at sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/ship-carrying-syria-weapons-arrives-italy)
 

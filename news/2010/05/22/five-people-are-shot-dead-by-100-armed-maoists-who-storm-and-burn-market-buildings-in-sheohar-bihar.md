@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/22/five-people-are-shot-dead-by-100-armed-maoists-who-storm-and-burn-market-buildings-in-sheohar-bihar.html)  [JSON](/news/2010/05/22/five-people-are-shot-dead-by-100-armed-maoists-who-storm-and-burn-market-buildings-in-sheohar-bihar.json)  [XML](/news/2010/05/22/five-people-are-shot-dead-by-100-armed-maoists-who-storm-and-burn-market-buildings-in-sheohar-bihar.xml)  
+
 ### [2010-05-22](/news/2010/05/22/index.md)
 
+##### Naxalite-Maoist insurgency
 # Five people are shot dead by 100 armed Maoists who storm and burn market buildings in Sheohar, Bihar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Economic Times](http://economictimes.indiatimes.com/news/politics/nation/Maoists-kill-five-people-in-Bihar/articleshow/5961420.cms)
 2. [The Hindu](http://beta.thehindu.com/news/national/article435464.ece)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/18/nike-inc-drops-manny-pacquiao-as-an-endorser-af
 
 ### [2016-02-18](/news/2016/02/18/index.md)
 
+##### Philippine Senate election, 2016
 # Nike, Inc. drops Manny Pacquiao as an endorser after his remarks about LGBT people. 
 
 Nike terminates its relationship with Manny Pacquiao after the boxing great described homosexuals as &quot;worse than animals&quot;.

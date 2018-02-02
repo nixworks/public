@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/26/the-united-states-food-and-drug-administration-finds-that-feed-given-to-hens-at-wright-county-egg-and-hillandale-farm-led-to-a-salmonella-ou.html)  [JSON](/news/2010/08/26/the-united-states-food-and-drug-administration-finds-that-feed-given-to-hens-at-wright-county-egg-and-hillandale-farm-led-to-a-salmonella-ou.json)  [XML](/news/2010/08/26/the-united-states-food-and-drug-administration-finds-that-feed-given-to-hens-at-wright-county-egg-and-hillandale-farm-led-to-a-salmonella-ou.xml)  
+
 ### [2010-08-26](/news/2010/08/26/index.md)
 
+##### United States Food and Drug Administration
 # The United States Food and Drug Administration finds that feed given to hens at Wright County Egg and Hillandale Farm led to a salmonella outbreak in eggs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/HEALTH/08/26/eggs.salmonella.farms/?hpt=T1)
 

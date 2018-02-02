@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/13/a-four-year-old-boy-dies-during-an-exorcism-ritual-carried-out-by-a-traditional-healer-in-the-russian-far-east.html)  [JSON](/news/2010/07/13/a-four-year-old-boy-dies-during-an-exorcism-ritual-carried-out-by-a-traditional-healer-in-the-russian-far-east.json)  [XML](/news/2010/07/13/a-four-year-old-boy-dies-during-an-exorcism-ritual-carried-out-by-a-traditional-healer-in-the-russian-far-east.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### exorcism
 # A four-year-old boy dies during an exorcism ritual carried out by a traditional healer in the Russian Far East. 
 
 A four-year-old boy has died during an exorcism ritual carried out by a traditional healer in the Far East of Russia, investigators say.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/russian-boy-dies-during-exorcism-ritual-20100713-109ja.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

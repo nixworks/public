@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/17/the-federal-constitutional-court-of-germany-rules-that-the-german-constitution-allows-its-military-to-start-operations-inside-germany-for-t.html)  [JSON](/news/2012/08/17/the-federal-constitutional-court-of-germany-rules-that-the-german-constitution-allows-its-military-to-start-operations-inside-germany-for-t.json)  [XML](/news/2012/08/17/the-federal-constitutional-court-of-germany-rules-that-the-german-constitution-allows-its-military-to-start-operations-inside-germany-for-t.xml)  
+
 ### [2012-08-17](/news/2012/08/17/index.md)
 
+##### Federal Constitutional Court of Germany
 # The Federal Constitutional Court of Germany rules that the German constitution allows its military to start operations inside Germany, for the first time since 1945. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19295351)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/62339000/jpg/_62339213_2.jpg)

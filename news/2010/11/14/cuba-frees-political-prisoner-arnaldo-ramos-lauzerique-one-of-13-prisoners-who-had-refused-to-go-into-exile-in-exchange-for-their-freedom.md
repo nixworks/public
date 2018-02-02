@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/14/cuba-frees-political-prisoner-arnaldo-ramos-lauzerique-one-of-13-prisoners-who-had-refused-to-go-into-exile-in-exchange-for-their-freedom.html)  [JSON](/news/2010/11/14/cuba-frees-political-prisoner-arnaldo-ramos-lauzerique-one-of-13-prisoners-who-had-refused-to-go-into-exile-in-exchange-for-their-freedom.json)  [XML](/news/2010/11/14/cuba-frees-political-prisoner-arnaldo-ramos-lauzerique-one-of-13-prisoners-who-had-refused-to-go-into-exile-in-exchange-for-their-freedom.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### Cuba
 # Cuba frees political prisoner Arnaldo Ramos Lauzerique, one of 13 prisoners who had refused to go into exile in exchange for their freedom. 
 
 Cuba frees one of 13 dissidents who have been refusing a government deal to go into exile in exchange for their freedom.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11752157)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/3/phil-walsh-the-coach-of-the-adelaide-football-club-in-the-australian-football-league-is-stabbed-to-death-in-his-home-with-his-son-charged.html)  [JSON](/news/2015/07/3/phil-walsh-the-coach-of-the-adelaide-football-club-in-the-australian-football-league-is-stabbed-to-death-in-his-home-with-his-son-charged.json)  [XML](/news/2015/07/3/phil-walsh-the-coach-of-the-adelaide-football-club-in-the-australian-football-league-is-stabbed-to-death-in-his-home-with-his-son-charged.xml)  
+
 ### [2015-07-3](/news/2015/07/3/index.md)
 
+##### Phil Walsh
 # Phil Walsh, the coach of the Adelaide Football Club in the Australian Football League, is stabbed to death in his home with his son charged with murder. 
 
 Adelaide Crows coach Phil Walsh is stabbed to death and police have charged his son with murder.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-07-03/crows-coach-phil-walsh-allegedly-murdered-son-charged/6591832)
 1. [Cover Image](http://www.abc.net.au/news/image/6591932-1x1-700x700.jpg)

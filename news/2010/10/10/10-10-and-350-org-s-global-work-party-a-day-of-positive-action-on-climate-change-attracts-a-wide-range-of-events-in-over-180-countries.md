@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/10/10-10-and-350-org-s-global-work-party-a-day-of-positive-action-on-climate-change-attracts-a-wide-range-of-events-in-over-180-countries.html)  [JSON](/news/2010/10/10/10-10-and-350-org-s-global-work-party-a-day-of-positive-action-on-climate-change-attracts-a-wide-range-of-events-in-over-180-countries.json)  [XML](/news/2010/10/10/10-10-and-350-org-s-global-work-party-a-day-of-positive-action-on-climate-change-attracts-a-wide-range-of-events-in-over-180-countries.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### 10:10
 # 10:10 and 350.org's "Global Work Party: a day of positive action on climate change" attracts a wide range of events in over 180 countries. 
 
 Silicon Valley joins Global Work Party to combat climate change
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/bill-mckibben/the-101010-global-work-pa_b_757336.html#s153546)
 2. [LoHud.com](http://www.lohud.com/article/20101011/NEWS02/10110329/-1/newsfront/Community-Gardeners-in-Ossining-have-own-Global-Work-Party)

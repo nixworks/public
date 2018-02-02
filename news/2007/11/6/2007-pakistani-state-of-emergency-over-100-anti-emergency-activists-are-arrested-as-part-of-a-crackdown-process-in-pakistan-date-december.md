@@ -1,9 +1,18 @@
+
+Formats: [HTML](/news/2007/11/6/2007-pakistani-state-of-emergency-over-100-anti-emergency-activists-are-arrested-as-part-of-a-crackdown-process-in-pakistan-date-december.html)  [JSON](/news/2007/11/6/2007-pakistani-state-of-emergency-over-100-anti-emergency-activists-are-arrested-as-part-of-a-crackdown-process-in-pakistan-date-december.json)  [XML](/news/2007/11/6/2007-pakistani-state-of-emergency-over-100-anti-emergency-activists-are-arrested-as-part-of-a-crackdown-process-in-pakistan-date-december.xml)  
+
 ### [2007-11-6](/news/2007/11/6/index.md)
 
+##### 2007 Pakistani state of emergency
 #  2007 Pakistani state of emergency: Over 100 anti-emergency activists are arrested as part of a crackdown process in Pakistan.date=December 2007
 
 
 
+
+### Changes:
+
+1. [ 2007 Pakistani state of emergency: Over 100 anti-emergency activists are arrested as part of a crackdown process in Pakistan.{{Fact|date=December 2007}}](/news/2007/11/6/2007-pakistani-state-of-emergency-over-100-anti-emergency-activists-are-arrested-as-part-of-a-crackdown-process-in-pakistan-fact-date-de.md) _2017-05-01 03:22:11 (First version)_
+1. [ 2007 Pakistani state of emergency: Over 100 anti-emergency activists are arrested as part of a crackdown process in Pakistan.date=December 2007](/news/2007/11/6/2007-pakistani-state-of-emergency-over-100-anti-emergency-activists-are-arrested-as-part-of-a-crackdown-process-in-pakistan-date-december.md) _(Current version)_
 
 ### Related:
 
@@ -11,9 +20,4 @@
 2. [ Pakistan is suspended from the Commonwealth of Nations again for its imposition of the state of emergency. ](/news/2007/11/22/pakistan-is-suspended-from-the-commonwealth-of-nations-again-for-its-imposition-of-the-state-of-emergency.md) _Context: 2007 Pakistani state of emergency, Pakistan_
 3. [ 2007 Pakistani state of emergency: Backed by hundreds of police officers, the Pakistani government again placed former Prime Minister Benazir Bhutto under house arrest to prevent a protest against President Pervez Musharraf. ](/news/2007/11/13/2007-pakistani-state-of-emergency-backed-by-hundreds-of-police-officers-the-pakistani-government-again-placed-former-prime-minister-benaz.md) _Context: 2007 Pakistani state of emergency, Pakistan_
 4. [ Malik Mohammad Qayyum, the Attorney General of Pakistan predicts that the 2007 Pakistani state of emergency could be lifted within a month. [http:--news.bbc.co.uk-2-hi-south_asia-7088346.stm (BBC)] Benazir Bhutto is to lead a long march against the emergency on 13 November. ](/news/2007/11/10/malik-mohammad-qayyum-the-attorney-general-of-pakistan-predicts-that-the-2007-pakistani-state-of-emergency-could-be-lifted-within-a-month.md) _Context: 2007 Pakistani state of emergency, Pakistan_
-5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Pakistan_
-
-### Changes:
-
-1. [ 2007 Pakistani state of emergency: Over 100 anti-emergency activists are arrested as part of a crackdown process in Pakistan.{{Fact|date=December 2007}}](/news/2007/11/6/2007-pakistani-state-of-emergency-over-100-anti-emergency-activists-are-arrested-as-part-of-a-crackdown-process-in-pakistan-fact-date-de.md) _2017-05-01 03:22:11 (First version)_
-1. [ 2007 Pakistani state of emergency: Over 100 anti-emergency activists are arrested as part of a crackdown process in Pakistan.date=December 2007](/news/2007/11/6/2007-pakistani-state-of-emergency-over-100-anti-emergency-activists-are-arrested-as-part-of-a-crackdown-process-in-pakistan-date-december.md) _(Current version)_
+5. [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2018/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md) _Context: Pakistan_

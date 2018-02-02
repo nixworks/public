@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/11/8/houthi-forces-regain-several-positions-across-southern-yemen-after-launching-a-fresh-offensive-against-loyalist-and-coalition-forces-in-lah.html)  [JSON](/news/2015/11/8/houthi-forces-regain-several-positions-across-southern-yemen-after-launching-a-fresh-offensive-against-loyalist-and-coalition-forces-in-lah.json)  [XML](/news/2015/11/8/houthi-forces-regain-several-positions-across-southern-yemen-after-launching-a-fresh-offensive-against-loyalist-and-coalition-forces-in-lah.xml)  
+
 ### [2015-11-8](/news/2015/11/8/index.md)
 
+##### Yemeni Civil War (2015)
 # Houthi forces regain several positions across southern Yemen after launching a fresh offensive against loyalist and coalition forces. In Lahij province, which borders Aden, Houthi forces are now positioned on a hill overlooking the strategic Al Anad Air Base, which houses Sudanese forces. The Houthis also retook the Damt District in the Dhale province after besieging it for hours, at least 16 people were killed in the clashes. 
 
 Iran-backed rebels retook positions in southern Yemen in a bid to advance on second city Aden, military sources said Sunday as a landmine blast killed 16 soldiers east of Sanaa. The rebels regained the positions they had lost in fighting in recent months, including a hilltop overlooking the strategic
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo](http://news.yahoo.com/iran-backed-huthi-rebels-retake-positions-south-yemen-112620896.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/fK_qUaek17LWRhO92kv2FQ--/aD02MDM7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6492755-1-1-0.jpg)
+1. [AFP via Yahoo](https://news.yahoo.com/iran-backed-huthi-rebels-retake-positions-south-yemen-112620896.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/8sYqAOeZwPlV1DYGe8s3zg--~B/aD02MDM7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-NIC-Nic6492755-1-1-0.jpg)
+
+### Changes:
+
+1. [Yemeni Civil War (2015): Houthi forces regain several positions across southern Yemen after launching a fresh offensive against loyalist and coalition forces. In Lahij province, which borders Aden, Houthi forces are now positioned on a hill overlooking the strategic Al Anad Air Base, which houses Sudanese forces. The Houthis also retook the Damt District in the Dhale province after besieging it for hours, at least 16 people were killed in the clashes. ](/news/2015/11/8/yemeni-civil-war-2015-houthi-forces-regain-several-positions-across-southern-yemen-after-launching-a-fresh-offensive-against-loyalist-and.md) _2017-08-27 03:43:44 (First version)_
+1. [Houthi forces regain several positions across southern Yemen after launching a fresh offensive against loyalist and coalition forces. In Lahij province, which borders Aden, Houthi forces are now positioned on a hill overlooking the strategic Al Anad Air Base, which houses Sudanese forces. The Houthis also retook the Damt District in the Dhale province after besieging it for hours, at least 16 people were killed in the clashes. ](/news/2015/11/8/houthi-forces-regain-several-positions-across-southern-yemen-after-launching-a-fresh-offensive-against-loyalist-and-coalition-forces-in-lah.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +25,4 @@ Iran-backed rebels retook positions in southern Yemen in a bid to advance on sec
 2. [Two senior army commanders from Saudi Arabia and the United Arab Emirates are killed, including the head of the Saudi Special forces in Yemen, Colonel Abdullah al-Sahyan, along with dozens of Saudi, Emirati, Sudanese and Yemeni coalition troops in a OTR-21 Tochka missile attack by Houthi forces on their base near the city of Taiz in southwestern Yemen. ](/news/2015/12/14/two-senior-army-commanders-from-saudi-arabia-and-the-united-arab-emirates-are-killed-including-the-head-of-the-saudi-special-forces-in-yeme.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen, Yemen, Yemeni Civil War (2015)_
 3. [A hotel where Vice President of Yemen and Prime Minister Khaled Bahah was staying in Aden which was also being used as a de facto military base by Arab coalition forces is hit by multiple explosions killing at least 15 coalition soldiers. Although the Houthis were first suspected and accused of being behind the attack, the Islamic State of Iraq and the Levant has since claimed responsibility, marking the first attack on Arab coalition forces in Yemen by the extremist group. ](/news/2015/10/6/a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used-as-a-de-facto-military-b.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen, Yemen, Yemeni Civil War (2015)_
 4. [Five Saudi troops are killed following clashes with Houthi militants in the southern Najran region near the border with Yemen. ](/news/2015/09/14/five-saudi-troops-are-killed-following-clashes-with-houthi-militants-in-the-southern-najran-region-near-the-border-with-yemen.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen, Yemen, Yemeni Civil War (2015)_
-5. [An air raid kills at least 24 civilians at a market in Houthi-held Saada Governorate, Yemen. ](/news/2017/06/18/an-air-raid-kills-at-least-24-civilians-at-a-market-in-houthi-held-saada-governorate-yemen.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen, Yemen_
-
-### Changes:
-
-1. [Yemeni Civil War (2015): Houthi forces regain several positions across southern Yemen after launching a fresh offensive against loyalist and coalition forces. In Lahij province, which borders Aden, Houthi forces are now positioned on a hill overlooking the strategic Al Anad Air Base, which houses Sudanese forces. The Houthis also retook the Damt District in the Dhale province after besieging it for hours, at least 16 people were killed in the clashes. ](/news/2015/11/8/yemeni-civil-war-2015-houthi-forces-regain-several-positions-across-southern-yemen-after-launching-a-fresh-offensive-against-loyalist-and.md) _2017-08-27 03:43:44 (First version)_
-1. [Houthi forces regain several positions across southern Yemen after launching a fresh offensive against loyalist and coalition forces. In Lahij province, which borders Aden, Houthi forces are now positioned on a hill overlooking the strategic Al Anad Air Base, which houses Sudanese forces. The Houthis also retook the Damt District in the Dhale province after besieging it for hours, at least 16 people were killed in the clashes. ](/news/2015/11/8/houthi-forces-regain-several-positions-across-southern-yemen-after-launching-a-fresh-offensive-against-loyalist-and-coalition-forces-in-lah.md) _(Current version)_
+5. [A Saudi-led coalition airstrike on a market in Sahar District in Yemen's northern Saada Governorate, which is under Houthi control, kills at least 26 people, according to medics and local officials. ](/news/2017/11/1/a-saudi-led-coalition-airstrike-on-a-market-in-sahar-district-in-yemen-s-northern-saada-governorate-which-is-under-houthi-control-kills-at.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen, Yemen_

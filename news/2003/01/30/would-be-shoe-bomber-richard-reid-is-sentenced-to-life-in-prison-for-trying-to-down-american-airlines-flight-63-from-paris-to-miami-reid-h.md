@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/30/would-be-shoe-bomber-richard-reid-is-sentenced-to-life-in-prison-for-trying-to-down-american-airlines-flight-63-from-paris-to-miami-reid-h.html)  [JSON](/news/2003/01/30/would-be-shoe-bomber-richard-reid-is-sentenced-to-life-in-prison-for-trying-to-down-american-airlines-flight-63-from-paris-to-miami-reid-h.json)  [XML](/news/2003/01/30/would-be-shoe-bomber-richard-reid-is-sentenced-to-life-in-prison-for-trying-to-down-american-airlines-flight-63-from-paris-to-miami-reid-h.xml)  
+
 ### [2003-01-30](/news/2003/01/30/index.md)
 
+##### Richard Reid
 #  Would-be shoe-bomber Richard Reid is sentenced to life in prison for trying to down American Airlines Flight 63 from Paris to Miami. Reid had previously pleaded guilty.
 
 

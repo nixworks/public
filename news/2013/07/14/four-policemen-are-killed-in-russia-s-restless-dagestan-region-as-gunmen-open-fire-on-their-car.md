@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/07/14/four-policemen-are-killed-in-russia-s-restless-dagestan-region-as-gunmen-open-fire-on-their-car.html)  [JSON](/news/2013/07/14/four-policemen-are-killed-in-russia-s-restless-dagestan-region-as-gunmen-open-fire-on-their-car.json)  [XML](/news/2013/07/14/four-policemen-are-killed-in-russia-s-restless-dagestan-region-as-gunmen-open-fire-on-their-car.xml)  
+
 ### [2013-07-14](/news/2013/07/14/index.md)
 
+##### Russia
 # Four policemen are killed in Russia's restless Dagestan region as gunmen open fire on their car. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/07/14/us-russia-dagestan-policemen-idUSBRE96D04920130714)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/07/14/us-russia-dagestan-policemen-idUSBRE96D04920130714)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

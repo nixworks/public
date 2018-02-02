@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/19/edinburgh-university-students-vote-in-favour-of-boycotting-israeli-goods-and-services-citing-israeli-treatment-of-palestinians.html)  [JSON](/news/2011/03/19/edinburgh-university-students-vote-in-favour-of-boycotting-israeli-goods-and-services-citing-israeli-treatment-of-palestinians.json)  [XML](/news/2011/03/19/edinburgh-university-students-vote-in-favour-of-boycotting-israeli-goods-and-services-citing-israeli-treatment-of-palestinians.xml)  
+
 ### [2011-03-19](/news/2011/03/19/index.md)
 
+##### Edinburgh University
 # Edinburgh University students vote in favour of boycotting Israeli goods and services, citing Israeli treatment of Palestinians.
 
 
 
 
-### Source:
+### Sources:
 
 1. [International Middle East Media Center](http://www.imemc.org/article/60900)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/12/23/the-greek-parliament-fails-to-elect-a-new-president-in-the-second-round-of-voting.html)  [JSON](/news/2014/12/23/the-greek-parliament-fails-to-elect-a-new-president-in-the-second-round-of-voting.json)  [XML](/news/2014/12/23/the-greek-parliament-fails-to-elect-a-new-president-in-the-second-round-of-voting.xml)  
+
 ### [2014-12-23](/news/2014/12/23/index.md)
 
+##### Hellenic Parliament
 # The Greek parliament fails to elect a new president in the second round of voting. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2014/dec/23/greece-presidential-vote-second-round)
+1. [The Guardian](https://www.theguardian.com/world/2014/dec/23/greece-presidential-vote-second-round)
 
 ### Related:
 

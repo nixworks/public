@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/16/more-than-40-people-have-drowned-as-a-migrant-boat-sinks-travelling-between-libya-and-italy-in-a-separate-incident-15-muslim-migrants-from.html)  [JSON](/news/2015/04/16/more-than-40-people-have-drowned-as-a-migrant-boat-sinks-travelling-between-libya-and-italy-in-a-separate-incident-15-muslim-migrants-from.json)  [XML](/news/2015/04/16/more-than-40-people-have-drowned-as-a-migrant-boat-sinks-travelling-between-libya-and-italy-in-a-separate-incident-15-muslim-migrants-from.xml)  
+
 ### [2015-04-16](/news/2015/04/16/index.md)
 
+##### Libya
 # More than 40 people have drowned as a migrant boat sinks travelling between Libya and Italy. In a separate incident, 15 Muslim migrants from another Italy-bound boat have been arrested, after allegedly throwing 12 Christian migrants overboard. 
 
 Italian police say they have arrested 15 Muslim migrants after they allegedly threw 12 Christians overboard after a row on a boat heading to Italy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-32337725)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/82355000/jpg/_82355955_82355954.jpg)

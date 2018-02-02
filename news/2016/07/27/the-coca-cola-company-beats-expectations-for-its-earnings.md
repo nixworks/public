@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/27/the-coca-cola-company-beats-expectations-for-it
 
 ### [2016-07-27](/news/2016/07/27/index.md)
 
+##### The Coca-Cola Company
 # "The Coca-Cola Company" beats expectations for its earnings. 
 
 Coca-Cola share prices fall after the Dow component cut its organic revenue forecast for the year.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/11/a-us-soldier-kills-16-civilians-in-the-panjwayi-district-of-afghanistan-near-kandahar.html)  [JSON](/news/2012/03/11/a-us-soldier-kills-16-civilians-in-the-panjwayi-district-of-afghanistan-near-kandahar.json)  [XML](/news/2012/03/11/a-us-soldier-kills-16-civilians-in-the-panjwayi-district-of-afghanistan-near-kandahar.xml)  
+
 ### [2012-03-11](/news/2012/03/11/index.md)
 
+##### Kandahar massacre
 # A US soldier kills 16 civilians in the Panjwayi District of Afghanistan near Kandahar. 
 
 A US soldier in Afghanistan shoots dead 16 civilians and wounds others after entering their homes in Kandahar province, Afghan and Nato officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17332398)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59002000/jpg/_59002896_014230496-2.jpg)

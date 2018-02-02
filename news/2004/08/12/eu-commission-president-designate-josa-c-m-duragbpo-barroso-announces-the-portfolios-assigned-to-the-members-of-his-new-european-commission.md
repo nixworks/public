@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/12/eu-commission-president-designate-josa-c-m-duragbpo-barroso-announces-the-portfolios-assigned-to-the-members-of-his-new-european-commission.html)  [JSON](/news/2004/08/12/eu-commission-president-designate-josa-c-m-duragbpo-barroso-announces-the-portfolios-assigned-to-the-members-of-his-new-european-commission.json)  [XML](/news/2004/08/12/eu-commission-president-designate-josa-c-m-duragbpo-barroso-announces-the-portfolios-assigned-to-the-members-of-his-new-european-commission.xml)  
+
 ### [2004-08-12](/news/2004/08/12/index.md)
 
+##### President of the European Commission
 #  EU Commission President-designate Jose M. DurGBPo Barroso announces the portfolios assigned to the members of his new European Commission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [EU Press Release](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/04/1029&format=HTML&aged=0&language=en&guiLanguage=en)
 
@@ -15,4 +19,4 @@
 2. [ European Parliament lawmakers urge European Commission president Jos Manuel Barroso to suspend Transport Commissioner Jacques Barrot, after it was revealed that Barrot was involved in a party funding scandal in 2000. ](/news/2004/11/22/european-parliament-lawmakers-urge-european-commission-president-jose-manuel-barroso-to-suspend-transport-commissioner-jacques-barrot-afte.md) _Context: European Commission, President of the European Commission_
 3. [ European Union leaders formally nominate Portuguese Prime Minister Jose Manuel Barroso to the post of European Commission president. ](/news/2004/06/29/european-union-leaders-formally-nominate-portuguese-prime-minister-josa-c-manuel-barroso-to-the-post-of-european-commission-president.md) _Context: European Commission, President of the European Commission_
 4. [ Romano Prodi, the President of the European Commission, survives a letter bomb attack. ](/news/2003/12/27/romano-prodi-the-president-of-the-european-commission-survives-a-letter-bomb-attack.md) _Context: European Commission, President of the European Commission_
-5. [President of the European Commission, Jean-Claude Juncker, holds his annual State of the European Union speech in Strasbourg. ](/news/2017/09/13/president-of-the-european-commission-jean-claude-juncker-holds-his-annual-state-of-the-european-union-speech-in-strasbourg.md) _Context: European Commission_
+5. [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md) _Context: European Commission_

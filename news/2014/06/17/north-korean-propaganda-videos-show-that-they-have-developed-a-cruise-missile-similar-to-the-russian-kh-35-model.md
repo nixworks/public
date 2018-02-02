@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/17/north-korean-propaganda-videos-show-that-they-have-developed-a-cruise-missile-similar-to-the-russian-kh-35-model.html)  [JSON](/news/2014/06/17/north-korean-propaganda-videos-show-that-they-have-developed-a-cruise-missile-similar-to-the-russian-kh-35-model.json)  [XML](/news/2014/06/17/north-korean-propaganda-videos-show-that-they-have-developed-a-cruise-missile-similar-to-the-russian-kh-35-model.xml)  
+
 ### [2014-06-17](/news/2014/06/17/index.md)
 
+##### North Korea
 # North Korean propaganda videos show that they have developed a cruise missile similar to the Russian Kh-35 model. 
 
 A North Korean propaganda film posted on the internet reveals footage of a newly developed cruise missile based on a Russian design, experts say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27881483)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75577000/jpg/_75577211_missile_still.jpg)

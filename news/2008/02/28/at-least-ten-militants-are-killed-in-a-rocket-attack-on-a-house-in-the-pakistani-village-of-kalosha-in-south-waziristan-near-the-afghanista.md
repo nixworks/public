@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/28/at-least-ten-militants-are-killed-in-a-rocket-attack-on-a-house-in-the-pakistani-village-of-kalosha-in-south-waziristan-near-the-afghanista.html)  [JSON](/news/2008/02/28/at-least-ten-militants-are-killed-in-a-rocket-attack-on-a-house-in-the-pakistani-village-of-kalosha-in-south-waziristan-near-the-afghanista.json)  [XML](/news/2008/02/28/at-least-ten-militants-are-killed-in-a-rocket-attack-on-a-house-in-the-pakistani-village-of-kalosha-in-south-waziristan-near-the-afghanista.xml)  
+
 ### [2008-02-28](/news/2008/02/28/index.md)
 
+##### militant
 #  At least ten militants are killed in a rocket attack on a house in the Pakistani village of Kalosha in South Waziristan near the Afghanistan border. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7268253.stm)
 
@@ -15,4 +19,4 @@
 2. [ Suspected Taliban militants suspend NATO supply lines by destroying a bridge on the Pakistan-Afghanistan border. ](/news/2009/02/3/suspected-taliban-militants-suspend-nato-supply-lines-by-destroying-a-bridge-on-the-pakistan-afghanistan-border.md) _Context: Afghanistan, Pakistan, militant_
 3. [ NATO raises concerns about an increase in insurgent attacks in Afghanistan and raises concern that it is partly due to agreements between Pakistan and militants in the Federally Administered Tribal Areas of Pakistan. ](/news/2008/05/14/nato-raises-concerns-about-an-increase-in-insurgent-attacks-in-afghanistan-and-raises-concern-that-it-is-partly-due-to-agreements-between-p.md) _Context: Afghanistan, Pakistan, militant_
 4. [ Three militants with alleged links to al-Qaeda are killed by Pakistani forces near the border with Afghanistan. ](/news/2004/10/27/three-militants-with-alleged-links-to-al-qaeda-are-killed-by-pakistani-forces-near-the-border-with-afghanistan.md) _Context: Afghanistan, Pakistan, militant_
-5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Afghanistan, Pakistan_
+5. [Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. ](/news/2018/01/21/six-insurgents-kill-at-least-18-people-including-4-afghans-and-14-foreigners-in-a-13-hour-gun-battle-the-afghan-interior-ministry-says-th.md) _Context: Afghanistan, Pakistan_

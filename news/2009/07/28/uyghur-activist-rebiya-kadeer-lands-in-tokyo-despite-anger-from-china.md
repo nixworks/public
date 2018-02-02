@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/28/uyghur-activist-rebiya-kadeer-lands-in-tokyo-despite-anger-from-china.html)  [JSON](/news/2009/07/28/uyghur-activist-rebiya-kadeer-lands-in-tokyo-despite-anger-from-china.json)  [XML](/news/2009/07/28/uyghur-activist-rebiya-kadeer-lands-in-tokyo-despite-anger-from-china.xml)  
+
 ### [2009-07-28](/news/2009/07/28/index.md)
 
+##### Uyghur
 #  Uyghur activist Rebiya Kadeer lands in Tokyo despite anger from China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8171791.stm)
 2. [China Daily](http://www.chinadaily.com.cn/china/2009-07/28/content_8479227.htm)

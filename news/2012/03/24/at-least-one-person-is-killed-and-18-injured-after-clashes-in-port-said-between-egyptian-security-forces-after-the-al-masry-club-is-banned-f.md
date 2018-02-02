@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/24/at-least-one-person-is-killed-and-18-injured-after-clashes-in-port-said-between-egyptian-security-forces-after-the-al-masry-club-is-banned-f.html)  [JSON](/news/2012/03/24/at-least-one-person-is-killed-and-18-injured-after-clashes-in-port-said-between-egyptian-security-forces-after-the-al-masry-club-is-banned-f.json)  [XML](/news/2012/03/24/at-least-one-person-is-killed-and-18-injured-after-clashes-in-port-said-between-egyptian-security-forces-after-the-al-masry-club-is-banned-f.xml)  
+
 ### [2012-03-24](/news/2012/03/24/index.md)
 
+##### Port Said
 # At least one person is killed and 18 injured after clashes in Port Said between Egyptian security forces after the Al-Masry Club is banned for two seasons from the Egyptian Premier League following the Port Said Stadium disaster. 
 
 One person killed and more than 100 injured in ongoing violence in Port Said following two-year ban on al-Masry club.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/201232421448253544.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/25/201232534134309734_20.jpg)

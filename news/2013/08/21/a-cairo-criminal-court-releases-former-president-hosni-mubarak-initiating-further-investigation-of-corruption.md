@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/21/a-cairo-criminal-court-releases-former-president-hosni-mubarak-initiating-further-investigation-of-corruption.html)  [JSON](/news/2013/08/21/a-cairo-criminal-court-releases-former-president-hosni-mubarak-initiating-further-investigation-of-corruption.json)  [XML](/news/2013/08/21/a-cairo-criminal-court-releases-former-president-hosni-mubarak-initiating-further-investigation-of-corruption.xml)  
+
 ### [2013-08-21](/news/2013/08/21/index.md)
 
+##### Cairo
 # A Cairo criminal court releases former President Hosni Mubarak, initiating further investigation of corruption. 
 
 An Egyptian court orders the release of ex-President Hosni Mubarak, amid reports he could leave prison on Thursday and be placed under house arrest.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-23783055)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69409000/jpg/_69409178_69409177.jpg)

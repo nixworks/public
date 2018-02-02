@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/29/uk-based-internet-blogger-bilal-zaheer-ahmad-is-sentenced-to-12-years-imprisonment-after-admitting-using-his-blog-to-solicit-the-murder-of-m.html)  [JSON](/news/2011/07/29/uk-based-internet-blogger-bilal-zaheer-ahmad-is-sentenced-to-12-years-imprisonment-after-admitting-using-his-blog-to-solicit-the-murder-of-m.json)  [XML](/news/2011/07/29/uk-based-internet-blogger-bilal-zaheer-ahmad-is-sentenced-to-12-years-imprisonment-after-admitting-using-his-blog-to-solicit-the-murder-of-m.xml)  
+
 ### [2011-07-29](/news/2011/07/29/index.md)
 
+##### Iraq War
 # UK based Internet blogger Bilal Zaheer Ahmad is sentenced to 12 years imprisonment after admitting using his blog to solicit the murder of MPs who voted for the Iraq War. 
 
 An internet blogger is jailed for 12 years after admitting soliciting the murder of MPs who had voted in favour of the Iraq War.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-14344199)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52908000/jpg/_52908535_bn-448x252.jpg)

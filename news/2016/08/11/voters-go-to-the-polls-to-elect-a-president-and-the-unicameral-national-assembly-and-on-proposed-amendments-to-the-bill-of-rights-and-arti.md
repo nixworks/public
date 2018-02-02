@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/11/voters-go-to-the-polls-to-elect-a-president-and
 
 ### [2016-08-11](/news/2016/08/11/index.md)
 
+##### Zambian constitutional referendum, 2016
 #  Voters go to the polls to elect a president and the unicameral national assembly, and on proposed amendments to the bill of rights and Article 79. Incumbent President Edgar Lungu again faces off against President of the opposition United Party for National Development Hakainde Hichilema, and seven other candidates. 
 
 President Edgar Lungu, who won a special election last year, is seeking a full term in a country whose copper-reliant economy has been hurt by weaker demand from China.

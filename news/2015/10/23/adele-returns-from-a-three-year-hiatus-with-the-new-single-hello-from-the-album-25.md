@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/10/23/adele-returns-from-a-three-year-hiatus-with-the-new-single-hello-from-the-album-25.html)  [JSON](/news/2015/10/23/adele-returns-from-a-three-year-hiatus-with-the-new-single-hello-from-the-album-25.json)  [XML](/news/2015/10/23/adele-returns-from-a-three-year-hiatus-with-the-new-single-hello-from-the-album-25.xml)  
+
 ### [2015-10-23](/news/2015/10/23/index.md)
 
+##### Adele
 # Adele returns from a three-year hiatus with the new single "Hello" from the album "25". 
 
+Video After what feels like forever, Adele has finally returned with a typically perfect new song. “Hello” is more of what has made the singer one of the most beloved in the world: pure, gut wrenching heartbreak. The track begins as a standard piano and vocal affair, but even that takes on [...]
 
 
-
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-34613748)
-2. [Forbes](http://www.forbes.com/sites/hughmcintyre/2015/10/23/adele-finally-returns-with-comeback-single-hello/)
-2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/EFFE/production/_86283416_adele_2.jpg)
+2. [Forbes](https://www.forbes.com/sites/hughmcintyre/2015/10/23/adele-finally-returns-with-comeback-single-hello/)
+2. [Cover Image](https://thumbor.forbes.com/thumbor/600x315/smart/https%3A%2F%2Fimg.youtube.com%2Fvi%2FYQHsXMglC9A%2F0.jpg)
 
 ### Related:
 

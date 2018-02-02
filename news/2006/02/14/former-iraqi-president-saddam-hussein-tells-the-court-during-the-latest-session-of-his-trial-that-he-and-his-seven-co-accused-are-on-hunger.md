@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/14/former-iraqi-president-saddam-hussein-tells-the-court-during-the-latest-session-of-his-trial-that-he-and-his-seven-co-accused-are-on-hunger.html)  [JSON](/news/2006/02/14/former-iraqi-president-saddam-hussein-tells-the-court-during-the-latest-session-of-his-trial-that-he-and-his-seven-co-accused-are-on-hunger.json)  [XML](/news/2006/02/14/former-iraqi-president-saddam-hussein-tells-the-court-during-the-latest-session-of-his-trial-that-he-and-his-seven-co-accused-are-on-hunger.xml)  
+
 ### [2006-02-14](/news/2006/02/14/index.md)
 
+##### President of Iraq
 #  Former Iraqi president Saddam Hussein tells the court during the latest session of his trial that he and his seven co-accused are on hunger strike to protest at their treatment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060213/saddam_hunger_060214/20060214?hub=TopStories)
 

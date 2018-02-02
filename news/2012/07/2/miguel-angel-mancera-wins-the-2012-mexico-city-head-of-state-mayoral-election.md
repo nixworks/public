@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/2/miguel-angel-mancera-wins-the-2012-mexico-city-head-of-state-mayoral-election.html)  [JSON](/news/2012/07/2/miguel-angel-mancera-wins-the-2012-mexico-city-head-of-state-mayoral-election.json)  [XML](/news/2012/07/2/miguel-angel-mancera-wins-the-2012-mexico-city-head-of-state-mayoral-election.xml)  
+
 ### [2012-07-2](/news/2012/07/2/index.md)
 
+##### Miguel Angel Mancera
 # Miguel Angel Mancera wins the 2012 Mexico City head of state (mayoral) election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FoxNews Latino](http://latino.foxnews.com/latino/politics/2012/07/02/mancera-wins-mexico-city-mayoral-election/)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/08/27/the-dalai-lama-cancels-two-international-trips-mexico-dominican-republic-to-undergo-medical-tests-due-to-exhaustion.html)  [JSON](/news/2008/08/27/the-dalai-lama-cancels-two-international-trips-mexico-dominican-republic-to-undergo-medical-tests-due-to-exhaustion.json)  [XML](/news/2008/08/27/the-dalai-lama-cancels-two-international-trips-mexico-dominican-republic-to-undergo-medical-tests-due-to-exhaustion.xml)  
+
 ### [2008-08-27](/news/2008/08/27/index.md)
 
+##### 14th Dalai Lama
 #  The Dalai Lama cancels two international trips (Mexico & Dominican Republic) to undergo medical tests due to "exhaustion". 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''USA Today](http://www.usatoday.com/news/world/2008-08-27-DalaiLama_N.htm?csp=34)
+1. [AP via ''USA Today](https://www.usatoday.com/news/world/2008-08-27-DalaiLama_N.htm?csp=34)
 
 ### Related:
 

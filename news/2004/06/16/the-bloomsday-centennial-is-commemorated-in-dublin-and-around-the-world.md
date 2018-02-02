@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/16/the-bloomsday-centennial-is-commemorated-in-dublin-and-around-the-world.html)  [JSON](/news/2004/06/16/the-bloomsday-centennial-is-commemorated-in-dublin-and-around-the-world.json)  [XML](/news/2004/06/16/the-bloomsday-centennial-is-commemorated-in-dublin-and-around-the-world.xml)  
+
 ### [2004-06-16](/news/2004/06/16/index.md)
 
+##### Bloomsday
 #  The Bloomsday centennial is commemorated in Dublin and around the world. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/525270.html)
 2. [Reuters UK](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=entertainmentNews&storyID=530819&section=news)

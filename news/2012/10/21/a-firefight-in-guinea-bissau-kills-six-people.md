@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/21/a-firefight-in-guinea-bissau-kills-six-people.html)  [JSON](/news/2012/10/21/a-firefight-in-guinea-bissau-kills-six-people.json)  [XML](/news/2012/10/21/a-firefight-in-guinea-bissau-kills-six-people.xml)  
+
 ### [2012-10-21](/news/2012/10/21/index.md)
 
+##### Guinea-Bissau
 # A firefight in Guinea-Bissau kills six people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-20022211)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63624000/jpg/_63624187_63624186.jpg)

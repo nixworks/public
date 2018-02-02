@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/13/internet-censorship-in-mainland-china-access-to-wikimedia-has-been-blocked-by-the-people-s-republic-of-china.html)  [JSON](/news/2004/06/13/internet-censorship-in-mainland-china-access-to-wikimedia-has-been-blocked-by-the-people-s-republic-of-china.json)  [XML](/news/2004/06/13/internet-censorship-in-mainland-china-access-to-wikimedia-has-been-blocked-by-the-people-s-republic-of-china.xml)  
+
 ### [2004-06-13](/news/2004/06/13/index.md)
 
+##### Internet censorship in mainland China
 #  Internet censorship in mainland China: Access to Wikimedia has been blocked by the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Tech News](http://www.chinatechnews.com/index.php?action=show&type=news&id=1316)
 2. [ITworld](http://www.itworld.com/Tech/2987/040614wikipedia/)

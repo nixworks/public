@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/13/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-over-900-with-hundreds-still-unaccounted-for.html)  [JSON](/news/2012/12/13/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-over-900-with-hundreds-still-unaccounted-for.json)  [XML](/news/2012/12/13/the-death-toll-in-the-philippines-from-typhoon-bopha-rises-over-900-with-hundreds-still-unaccounted-for.xml)  
+
 ### [2012-12-13](/news/2012/12/13/index.md)
 
+##### Philippines
 # The death toll in the Philippines from Typhoon Bopha rises over 900 with hundreds still unaccounted for. 
 
 THE death toll from the strongest typhoon to hit the Philippines this year has climbed above 900, with hundreds still missing, the government says.
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/philippines-typhoon-death-toll-tops-900/story-e6frfkui-1226536046034)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/29/the-new-england-patriots-are-the-first-team-in-the-nfl-to-ever-finish-the-regular-season-with-a-record-of-16-0-the-first-perfect-regular-s.html)  [JSON](/news/2007/12/29/the-new-england-patriots-are-the-first-team-in-the-nfl-to-ever-finish-the-regular-season-with-a-record-of-16-0-the-first-perfect-regular-s.json)  [XML](/news/2007/12/29/the-new-england-patriots-are-the-first-team-in-the-nfl-to-ever-finish-the-regular-season-with-a-record-of-16-0-the-first-perfect-regular-s.xml)  
+
 ### [2007-12-29](/news/2007/12/29/index.md)
 
+##### New England Patriots
 #  The New England Patriots are the first team in the NFL to ever finish the regular season with a record of 16-0, the first perfect regular season in the league since the 1972 Miami Dolphins. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/nfl/news/story?id=3173309&lpos=spotlight&lid=tab1pos2)
 1. [Cover Image](http://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2007%2F1229%2Fnfl_g_brady5_580.jpg)

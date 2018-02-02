@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/30/syrian-civil-defense-claim-that-more-than-45-pe
 
 ### [2016-11-30](/news/2016/11/30/index.md)
 
+##### Aleppo offensive (November 2016)
 # Syrian Civil Defense claim that more than 45 people have died as a result of heavy artillery bombardment of eastern Aleppo. 
 
 Rescue workers said more than 45 people had been killed in artillery bombardment of rebel-held eastern Aleppo on Wednesday, and the Syrian Observatory for Human Rights said more than 50,000 people had been displaced by the fighting.

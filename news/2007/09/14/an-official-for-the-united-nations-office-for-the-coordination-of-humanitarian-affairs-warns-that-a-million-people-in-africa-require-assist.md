@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/14/an-official-for-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-warns-that-a-million-people-in-africa-require-assist.html)  [JSON](/news/2007/09/14/an-official-for-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-warns-that-a-million-people-in-africa-require-assist.json)  [XML](/news/2007/09/14/an-official-for-the-united-nations-office-for-the-coordination-of-humanitarian-affairs-warns-that-a-million-people-in-africa-require-assist.xml)  
+
 ### [2007-09-14](/news/2007/09/14/index.md)
 
+##### United Nations
 #  An official for the United Nations Office for the Coordination of Humanitarian Affairs warns that a million people in Africa require assistance after floods have killed more than 200 people in recent weeks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://afp.google.com/article/ALeqM5hlydF-pIX_oep2oddq3-krsjYy1g)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/25/at-least-12-are-killed-in-an-attack-on-a-hotel-
 
 ### [2016-10-25](/news/2016/10/25/index.md)
 
+##### Kenya
 #  At least 12 are killed in an attack on a hotel in Kenya. Al-Shabaab claims responsibility. 
 
 Attackers blew up part of a hotel in northeastern Kenya, killing at least 12 people on Tuesday, in a raid claimed by al Shabaab militants from neighboring Somalia.

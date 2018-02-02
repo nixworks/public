@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/28/the-prime-minister-of-kuwait-sheikh-nasser-mohammed-al-ahmed-al-sabah-and-his-cabinet-resign-after-protesters-storm-the-national-parliamen.html)  [JSON](/news/2011/11/28/the-prime-minister-of-kuwait-sheikh-nasser-mohammed-al-ahmed-al-sabah-and-his-cabinet-resign-after-protesters-storm-the-national-parliamen.json)  [XML](/news/2011/11/28/the-prime-minister-of-kuwait-sheikh-nasser-mohammed-al-ahmed-al-sabah-and-his-cabinet-resign-after-protesters-storm-the-national-parliamen.xml)  
+
 ### [2011-11-28](/news/2011/11/28/index.md)
 
+##### Prime Minister of Kuwait
 # The Prime Minister of Kuwait, Sheikh Nasser Mohammed Al-Ahmed Al-Sabah, and his cabinet resign after protesters storm the national Parliament. 
 
 Kuwait&#039;s PM and his government have resigned after protesters stormed parliament last week.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2011-11-29/kuwait-government-resigns/3700504)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

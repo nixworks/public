@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/28/spain-and-russia-each-expel-two-diplomats-on-suspicion-of-spying-in-a-tit-for-tat-row.html)  [JSON](/news/2010/12/28/spain-and-russia-each-expel-two-diplomats-on-suspicion-of-spying-in-a-tit-for-tat-row.json)  [XML](/news/2010/12/28/spain-and-russia-each-expel-two-diplomats-on-suspicion-of-spying-in-a-tit-for-tat-row.xml)  
+
 ### [2010-12-28](/news/2010/12/28/index.md)
 
+##### Spain
 # Spain and Russia each expel two diplomats on suspicion of spying in a tit-for-tat row. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12086186)
 2. [The Moscow Times](http://www.themoscowtimes.com/news/article/spain-and-russia-in-tit-for-tat-diplomat-expulsions/427963.html)
@@ -17,4 +21,4 @@
 2. [Russia withdraws a request to refuel three of its warships, including the flagship of the Russian Navy, "Admiral Kuznetsov", en route to Syria, at the Spanish port of Ceuta following NATO pressure on the Spanish government to not allow the warships to dock. ](/news/2016/10/26/russia-withdraws-a-request-to-refuel-three-of-its-warships-including-the-flagship-of-the-russian-navy-admiral-kuznetsov-en-route-to-syr.md) _Context: Russia, Spain_
 3. [A Spanish judge issues an arrest warrant for various individuals with links to organized crime from Russia. The list also includes former and current officials of the Russian government with close links to Russian President Vladimir Putin. Prominent officials include former Defense Minister Anatoliy Serdyukov and former Prime Minister Viktor Zubkov. The charges range from money laundering to assassination. ](/news/2016/05/3/a-spanish-judge-issues-an-arrest-warrant-for-various-individuals-with-links-to-organized-crime-from-russia-the-list-also-includes-former-an.md) _Context: Russia, Spain_
 4. [David Triesman, Baron Triesman resigns as chairman of The Football Association as well as England's 2018 FIFA World Cup bid after his "entrapment" by "The Mail on Sunday" in which he suggested Spain could drop its bid if Russia bribed referees at the 2010 FIFA World Cup next month. ](/news/2010/05/16/david-triesman-baron-triesman-resigns-as-chairman-of-the-football-association-as-well-as-england-s-2018-fifa-world-cup-bid-after-his-entra.md) _Context: Russia, Spain_
-5. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Russia_
+5. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/14/nokia-announces-it-will-cut-10-000-jobs.html)  [JSON](/news/2012/06/14/nokia-announces-it-will-cut-10-000-jobs.json)  [XML](/news/2012/06/14/nokia-announces-it-will-cut-10-000-jobs.xml)  
+
 ### [2012-06-14](/news/2012/06/14/index.md)
 
+##### Nokia
 # Nokia announces it will cut 10,000 jobs. 
 
 Nokia cuts another 10,000 jobs and warns that second-quarter losses from its mobile phone business will be larger than expected.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-18438052)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59599000/jpg/_59599378_014483943-1.jpg)

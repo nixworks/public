@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/6/twenty-six-people-are-killed-during-and-100-others-remain-missing-after-a-landslide-near-chongqing-china.html)  [JSON](/news/2009/06/6/twenty-six-people-are-killed-during-and-100-others-remain-missing-after-a-landslide-near-chongqing-china.json)  [XML](/news/2009/06/6/twenty-six-people-are-killed-during-and-100-others-remain-missing-after-a-landslide-near-chongqing-china.xml)  
+
 ### [2009-06-6](/news/2009/06/6/index.md)
 
+##### landslide
 #  Twenty-six people are killed during and 100 others remain missing after a landslide near Chongqing, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8086808.stm)
 

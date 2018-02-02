@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/03/24/england-international-footballer-adam-johnson-is-sentenced-to-six-years-in-prison-for-child-grooming-and-child-sexual-activity.html)  [JSON](/news/2016/03/24/england-international-footballer-adam-johnson-is-sentenced-to-six-years-in-prison-for-child-grooming-and-child-sexual-activity.json)  [XML](/news/2016/03/24/england-international-footballer-adam-johnson-is-sentenced-to-six-years-in-prison-for-child-grooming-and-child-sexual-activity.xml)  
+
 ### [2016-03-24](/news/2016/03/24/index.md)
 
+##### England
 # England international footballer Adam Johnson is sentenced to six years in prison for child grooming and child sexual activity. 
 
 Footballer Adam Johnson is jailed for six years for sexual activity with a girl, as it emerges animal pornography was found on his laptop.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-35891143)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/7227/production/_88932292_88925765.jpg)

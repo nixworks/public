@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/10/a-new-bill-is-introduced-in-the-israeli-knesset-that-would-force-haredi-jewish-schools-to-teach-core-subjects-such-as-mathematics-science.html)  [JSON](/news/2010/07/10/a-new-bill-is-introduced-in-the-israeli-knesset-that-would-force-haredi-jewish-schools-to-teach-core-subjects-such-as-mathematics-science.json)  [XML](/news/2010/07/10/a-new-bill-is-introduced-in-the-israeli-knesset-that-would-force-haredi-jewish-schools-to-teach-core-subjects-such-as-mathematics-science.xml)  
+
 ### [2010-07-10](/news/2010/07/10/index.md)
 
+##### Israel
 # A new bill is introduced in the Israeli Knesset that would force Haredi Jewish schools to teach core subjects such as mathematics, science, English, and civics, or lose state funding. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/national/bill-could-force-haredi-schools-to-teach-math-or-lose-funding-1.301152)
 

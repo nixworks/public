@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/10/muslims-celebrate-the-islamic-festival-of-eid-al-adha.html)  [JSON](/news/2003/02/10/muslims-celebrate-the-islamic-festival-of-eid-al-adha.json)  [XML](/news/2003/02/10/muslims-celebrate-the-islamic-festival-of-eid-al-adha.xml)  
+
 ### [2003-02-10](/news/2003/02/10/index.md)
 
+##### Islamic festival
 #  Muslims celebrate the Islamic festival of Eid al-Adha.
 
 

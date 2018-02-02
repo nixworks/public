@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/1/mohammad-ali-najafi-is-elected-leader-of-iranian-executives-of-construction-party-to-replace-with-gholamhossein-karbaschi.html)  [JSON](/news/2011/04/1/mohammad-ali-najafi-is-elected-leader-of-iranian-executives-of-construction-party-to-replace-with-gholamhossein-karbaschi.json)  [XML](/news/2011/04/1/mohammad-ali-najafi-is-elected-leader-of-iranian-executives-of-construction-party-to-replace-with-gholamhossein-karbaschi.xml)  
+
 ### [2011-04-1](/news/2011/04/1/index.md)
 
+##### Mohammad-Ali Najafi
 # Mohammad-Ali Najafi is elected leader of Iranian Executives of Construction Party to replace with Gholamhossein Karbaschi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kalame](http://www.kalame.org)
 

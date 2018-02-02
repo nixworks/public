@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/10/james-murdoch-the-chief-executive-of-news-international-makes-his-second-appearance-before-the-house-of-commons-culture-media-and-sport-c.html)  [JSON](/news/2011/11/10/james-murdoch-the-chief-executive-of-news-international-makes-his-second-appearance-before-the-house-of-commons-culture-media-and-sport-c.json)  [XML](/news/2011/11/10/james-murdoch-the-chief-executive-of-news-international-makes-his-second-appearance-before-the-house-of-commons-culture-media-and-sport-c.xml)  
+
 ### [2011-11-10](/news/2011/11/10/index.md)
 
+##### James Murdoch
 # James Murdoch, the chief executive of News International, makes his second appearance before the House of Commons Culture, Media and Sport Committee, as the News International phone hacking scandal continues. 
 
 James Murdoch says suggestions News International operated like the Mafia over the phone hacking scandal are &quot;offensive&quot; and untrue.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-15660023)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56626000/jpg/_56626216_murdochgrab.jpg)

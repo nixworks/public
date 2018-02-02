@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/6/former-sky-news-correspondent-james-furlong-who-resigned-over-allegations-that-he-had-faked-a-report-during-the-iraq-war-is-found-dead-f.html)  [JSON](/news/2003/10/6/former-sky-news-correspondent-james-furlong-who-resigned-over-allegations-that-he-had-faked-a-report-during-the-iraq-war-is-found-dead-f.json)  [XML](/news/2003/10/6/former-sky-news-correspondent-james-furlong-who-resigned-over-allegations-that-he-had-faked-a-report-during-the-iraq-war-is-found-dead-f.xml)  
+
 ### [2003-10-6](/news/2003/10/6/index.md)
 
+##### Sky News
 #  Former Sky News correspondent James Furlong, who resigned over allegations that he had faked a report during the Iraq War, is found dead. Furlong, aged 44, had served as Sky News' Defence and Royal Correspondent. He had previously worked for ITN.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/22/floods-hit-the-city-of-dar-es-salaam-tanzania-killing-at-least-13-people-in-the-nation-s-worst-floods-since-its-independence-in-1961.html)  [JSON](/news/2011/12/22/floods-hit-the-city-of-dar-es-salaam-tanzania-killing-at-least-13-people-in-the-nation-s-worst-floods-since-its-independence-in-1961.json)  [XML](/news/2011/12/22/floods-hit-the-city-of-dar-es-salaam-tanzania-killing-at-least-13-people-in-the-nation-s-worst-floods-since-its-independence-in-1961.xml)  
+
 ### [2011-12-22](/news/2011/12/22/index.md)
 
+##### Dar es Salaam
 # Floods hit the city of Dar es Salaam, Tanzania, killing at least 13 people in the nation's worst floods since its independence in 1961. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16299734)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/57520000/jpg/_57520107_photo.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/17/president-yoweri-museveni-refuses-to-sign-a-ugandan-bill-that-would-criminalize-homosexuality-saying-that-they-should-instead-be-rehabilitat.html)  [JSON](/news/2014/01/17/president-yoweri-museveni-refuses-to-sign-a-ugandan-bill-that-would-criminalize-homosexuality-saying-that-they-should-instead-be-rehabilitat.json)  [XML](/news/2014/01/17/president-yoweri-museveni-refuses-to-sign-a-ugandan-bill-that-would-criminalize-homosexuality-saying-that-they-should-instead-be-rehabilitat.xml)  
+
 ### [2014-01-17](/news/2014/01/17/index.md)
 
+##### Yoweri Museveni
 # President Yoweri Museveni refuses to sign a Ugandan bill that would criminalize homosexuality saying that they should instead be rehabilitated. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Huffington Post](http://www.huffingtonpost.com/2014/01/17/uganda-president-gay-bill-_n_4617151.html)
 

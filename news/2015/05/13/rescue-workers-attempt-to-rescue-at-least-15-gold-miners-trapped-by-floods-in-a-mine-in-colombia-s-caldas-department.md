@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/13/rescue-workers-attempt-to-rescue-at-least-15-gold-miners-trapped-by-floods-in-a-mine-in-colombia-s-caldas-department.html)  [JSON](/news/2015/05/13/rescue-workers-attempt-to-rescue-at-least-15-gold-miners-trapped-by-floods-in-a-mine-in-colombia-s-caldas-department.json)  [XML](/news/2015/05/13/rescue-workers-attempt-to-rescue-at-least-15-gold-miners-trapped-by-floods-in-a-mine-in-colombia-s-caldas-department.xml)  
+
 ### [2015-05-13](/news/2015/05/13/index.md)
 
+##### gold mine
 # Rescue workers attempt to rescue at least 15 gold miners trapped by floods in a mine in Colombia's Caldas Department. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-32732268)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/82987000/jpg/_82987785_82987784.jpg)

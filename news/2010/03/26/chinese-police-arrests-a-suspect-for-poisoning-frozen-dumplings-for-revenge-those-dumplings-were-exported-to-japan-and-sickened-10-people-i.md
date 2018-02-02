@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/26/chinese-police-arrests-a-suspect-for-poisoning-frozen-dumplings-for-revenge-those-dumplings-were-exported-to-japan-and-sickened-10-people-i.html)  [JSON](/news/2010/03/26/chinese-police-arrests-a-suspect-for-poisoning-frozen-dumplings-for-revenge-those-dumplings-were-exported-to-japan-and-sickened-10-people-i.json)  [XML](/news/2010/03/26/chinese-police-arrests-a-suspect-for-poisoning-frozen-dumplings-for-revenge-those-dumplings-were-exported-to-japan-and-sickened-10-people-i.xml)  
+
 ### [2010-03-26](/news/2010/03/26/index.md)
 
+##### China
 # Chinese police arrests a suspect for poisoning frozen dumplings for revenge. Those dumplings were exported to Japan and sickened 10 people in 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Asahi Shimbun](http://www.asahi.com/national/update/0327/TKY201003260548.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-03/26/c_13226313.htm)

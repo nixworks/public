@@ -1,16 +1,25 @@
+
+Formats: [HTML](/news/2015/10/24/israel-and-jordan-agree-to-take-steps-to-quell-violence-at-the-al-aqsa-mosque-in-jerusalem-which-includes-round-the-clock-monitoring-of-new.html)  [JSON](/news/2015/10/24/israel-and-jordan-agree-to-take-steps-to-quell-violence-at-the-al-aqsa-mosque-in-jerusalem-which-includes-round-the-clock-monitoring-of-new.json)  [XML](/news/2015/10/24/israel-and-jordan-agree-to-take-steps-to-quell-violence-at-the-al-aqsa-mosque-in-jerusalem-which-includes-round-the-clock-monitoring-of-new.xml)  
+
 ### [2015-10-24](/news/2015/10/24/index.md)
 
+##### Israeli-Palestinian conflict (2015)
 # Israel and Jordan agree to take steps to quell violence at the Al-Aqsa Mosque in Jerusalem which includes round-the-clock monitoring of new security cameras there. Israel reaffirms Jordan's historic role as formal custodian of what is known to Jews as the Temple Mount and as Haram al-Sharif to Muslims. Yesterday, Israeli authorities lifted restrictions that had banned men aged under 40 from praying at al-Aqsa. 
 
 ISRAEL-PALESTINIANS/ (TV, PIX, UPDATE 1):UPDATE 1-Jordan proposes TV cameras to defuse Jerusalem tensions - Kerry
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-34626425)
 2. [Reuters](http://www.trust.org/item/20151024154737-9peqk)
 3. [Washington Post](https://www.washingtonpost.com/world/kerry-travels-to-jordan-in-quest-to-stop-violence-in-israel/2015/10/24/a6c1dbe2-d518-46cd-b71d-355aee59bfc5_story.html)
 3. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/31d194b4-5cf7-4b73-9b10-84909989e582/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)
+
+### Changes:
+
+1. [Israeli-Palestinian conflict (2015): Israel and Jordan agree to take steps to quell violence at the Al-Aqsa Mosque in Jerusalem which includes round-the-clock monitoring of new security cameras there. Israel reaffirms Jordan's historic role as formal custodian of what is known to Jews as the Temple Mount and as Haram al-Sharif to Muslims. Yesterday, Israeli authorities lifted restrictions that had banned men aged under 40 from praying at al-Aqsa. ](/news/2015/10/24/israeli-palestinian-conflict-2015-israel-and-jordan-agree-to-take-steps-to-quell-violence-at-the-al-aqsa-mosque-in-jerusalem-which-incl.md) _2017-08-27 03:43:29 (First version)_
+1. [Israel and Jordan agree to take steps to quell violence at the Al-Aqsa Mosque in Jerusalem which includes round-the-clock monitoring of new security cameras there. Israel reaffirms Jordan's historic role as formal custodian of what is known to Jews as the Temple Mount and as Haram al-Sharif to Muslims. Yesterday, Israeli authorities lifted restrictions that had banned men aged under 40 from praying at al-Aqsa. ](/news/2015/10/24/israel-and-jordan-agree-to-take-steps-to-quell-violence-at-the-al-aqsa-mosque-in-jerusalem-which-includes-round-the-clock-monitoring-of-new.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +28,3 @@ ISRAEL-PALESTINIANS/ (TV, PIX, UPDATE 1):UPDATE 1-Jordan proposes TV cameras to 
 3. [UNESCO's executive board approves the "Occupied Palestine" resolution which reaffirms the cultural heritage of Palestine, especially East Jerusalem, and criticizes certain Israeli actions regarding the Palestinian territories. For the land in Jerusalem where the Al-Aqsa Mosque stands, the board uses only Islamic naming terms without also mentioning Jewish or Christian historical references. ](/news/2016/10/18/unesco-s-executive-board-approves-the-occupied-palestine-resolution-which-reaffirms-the-cultural-heritage-of-palestine-especially-east-je.md) _Context: Al-Aqsa Mosque, Israel, Jerusalem, Jewish_
 4. [The Israeli government says it will remove metal detectors and some cameras recently installed at the entrances to the Temple Mount in Jerusalem that resulted in a wave of protests and some deaths. Instead, less obtrusive surveillance means will be used. ](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.md) _Context: Israel, Jerusalem, Temple Mount_
 5. [Two assailants are shot dead by Israeli police after knife-wielding Palestinians attacked Israelis in Jerusalem and in the West Bank. Another four people, including a Palestinian assailant, are injured in incidents at an Israeli checkpoint outside the West Bank city of Nablus and at a tram station in East Jerusalem. ](/news/2015/10/30/two-assailants-are-shot-dead-by-israeli-police-after-knife-wielding-palestinians-attacked-israelis-in-jerusalem-and-in-the-west-bank-anothe.md) _Context: Israel, Israeli-Palestinian conflict (2015), Jerusalem_
-
-### Changes:
-
-1. [Israeli-Palestinian conflict (2015): Israel and Jordan agree to take steps to quell violence at the Al-Aqsa Mosque in Jerusalem which includes round-the-clock monitoring of new security cameras there. Israel reaffirms Jordan's historic role as formal custodian of what is known to Jews as the Temple Mount and as Haram al-Sharif to Muslims. Yesterday, Israeli authorities lifted restrictions that had banned men aged under 40 from praying at al-Aqsa. ](/news/2015/10/24/israeli-palestinian-conflict-2015-israel-and-jordan-agree-to-take-steps-to-quell-violence-at-the-al-aqsa-mosque-in-jerusalem-which-incl.md) _2017-08-27 03:43:29 (First version)_
-1. [Israel and Jordan agree to take steps to quell violence at the Al-Aqsa Mosque in Jerusalem which includes round-the-clock monitoring of new security cameras there. Israel reaffirms Jordan's historic role as formal custodian of what is known to Jews as the Temple Mount and as Haram al-Sharif to Muslims. Yesterday, Israeli authorities lifted restrictions that had banned men aged under 40 from praying at al-Aqsa. ](/news/2015/10/24/israel-and-jordan-agree-to-take-steps-to-quell-violence-at-the-al-aqsa-mosque-in-jerusalem-which-includes-round-the-clock-monitoring-of-new.md) _(Current version)_

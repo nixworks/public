@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/04/10/the-governing-democratic-party-of-japan-loses-70-seats-in-local-government-elections-due-to-concerns-over-handling-of-the-fukushima-i-nuclea.html)  [JSON](/news/2011/04/10/the-governing-democratic-party-of-japan-loses-70-seats-in-local-government-elections-due-to-concerns-over-handling-of-the-fukushima-i-nuclea.json)  [XML](/news/2011/04/10/the-governing-democratic-party-of-japan-loses-70-seats-in-local-government-elections-due-to-concerns-over-handling-of-the-fukushima-i-nuclea.xml)  
+
 ### [2011-04-10](/news/2011/04/10/index.md)
 
+##### Democratic Party
 # The governing Democratic Party of Japan loses 70 seats in local government elections due to concerns over handling of the Fukushima I nuclear accidents. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20110411/ts_nm/us_japan)
+1. [Reuters via Yahoo! News](https://news.yahoo.com/s/nm/20110411/ts_nm/us_japan)
 
 ### Related:
 

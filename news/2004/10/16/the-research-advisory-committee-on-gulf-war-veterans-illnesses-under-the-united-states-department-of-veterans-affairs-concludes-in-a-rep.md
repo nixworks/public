@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/10/16/the-research-advisory-committee-on-gulf-war-veterans-illnesses-under-the-united-states-department-of-veterans-affairs-concludes-in-a-rep.html)  [JSON](/news/2004/10/16/the-research-advisory-committee-on-gulf-war-veterans-illnesses-under-the-united-states-department-of-veterans-affairs-concludes-in-a-rep.json)  [XML](/news/2004/10/16/the-research-advisory-committee-on-gulf-war-veterans-illnesses-under-the-united-states-department-of-veterans-affairs-concludes-in-a-rep.xml)  
+
 ### [2004-10-16](/news/2004/10/16/index.md)
 
+##### Gulf War Veterans' Illnesses
 #  The Research Advisory Committee on Gulf War Veterans' Illnesses, under The United States Department of Veterans Affairs, concludes in a report that "a substantial proportion of Gulf War veterans are ill with multisymptom conditions not explained by wartime stress or psychiatric illness" and a "probable link" to exposure to neurotoxins. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3748844.stm)
-2. [NY Times](http://www.nytimes.com/2004/10/15/politics/15gulf.html)
-2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+2. [NY Times](https://www.nytimes.com/2004/10/15/politics/15gulf.html)
 
 ### Related:
 

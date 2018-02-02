@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/28/amd-files-an-antitrust-lawsuit-against-rival-chipmaker-intel.html)  [JSON](/news/2005/06/28/amd-files-an-antitrust-lawsuit-against-rival-chipmaker-intel.json)  [XML](/news/2005/06/28/amd-files-an-antitrust-lawsuit-against-rival-chipmaker-intel.xml)  
+
 ### [2005-06-28](/news/2005/06/28/index.md)
 
+##### AMD
 #  AMD files an antitrust lawsuit against rival chipmaker Intel 
 
 Here are the latest articles published on Tom’s Hardware. See the latest news, reviews and roundups and access our tech archives.
 
 
-### Source:
+### Sources:
 
 1. [Tom's Hardware](http://www.tomshardware.com/hardnews/20050628_102226.html)
 1. [Cover Image](http://www.tomshardware.com/medias/img/th_pic.jpg)

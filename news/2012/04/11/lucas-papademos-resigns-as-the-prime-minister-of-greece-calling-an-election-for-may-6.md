@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/11/lucas-papademos-resigns-as-the-prime-minister-of-greece-calling-an-election-for-may-6.html)  [JSON](/news/2012/04/11/lucas-papademos-resigns-as-the-prime-minister-of-greece-calling-an-election-for-may-6.json)  [XML](/news/2012/04/11/lucas-papademos-resigns-as-the-prime-minister-of-greece-calling-an-election-for-may-6.xml)  
+
 ### [2012-04-11](/news/2012/04/11/index.md)
 
+##### Lucas Papademos
 # Lucas Papademos resigns as the Prime Minister of Greece, calling an election for May 6. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/greek-pm-lucas-papademos-resigns-calls-may-6-elections/story-e6frg6so-1226324538423)
 

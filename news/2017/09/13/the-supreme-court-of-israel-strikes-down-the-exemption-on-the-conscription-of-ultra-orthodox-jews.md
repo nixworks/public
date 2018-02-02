@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/13/the-supreme-court-of-israel-strikes-down-the-ex
 
 ### [2017-09-13](/news/2017/09/13/index.md)
 
+##### Law of Israel
 # The Supreme Court of Israel strikes down the exemption on the conscription of ultra-Orthodox Jews. 
 
 Israel&apos;s Supreme Court has ruled that religious young men studying in seminaries have no intrinsic right to be exempt from military service, a major change that threatens the governing coalition.

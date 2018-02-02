@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/2/conflict-in-iraq-iraqi-officials-report-at-least-eight-dead-in-a-car-bomb-outside-the-education-ministry-in-baghdad-in-mosul-another-car.html)  [JSON](/news/2004/11/2/conflict-in-iraq-iraqi-officials-report-at-least-eight-dead-in-a-car-bomb-outside-the-education-ministry-in-baghdad-in-mosul-another-car.json)  [XML](/news/2004/11/2/conflict-in-iraq-iraqi-officials-report-at-least-eight-dead-in-a-car-bomb-outside-the-education-ministry-in-baghdad-in-mosul-another-car.xml)  
+
 ### [2004-11-2](/news/2004/11/2/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Iraqi officials report at least eight dead in a car bomb outside the education ministry in Baghdad. In Mosul, another car bomb kills two and wounds four Iraqi National Guard. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3975195.stm)
 2. [Reuters](http://reuters.com/newsArticle.jhtml?type=worldNews&storyID=6692993&pageNumber=1)

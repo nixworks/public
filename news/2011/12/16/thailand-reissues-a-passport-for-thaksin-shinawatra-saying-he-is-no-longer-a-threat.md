@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/16/thailand-reissues-a-passport-for-thaksin-shinawatra-saying-he-is-no-longer-a-threat.html)  [JSON](/news/2011/12/16/thailand-reissues-a-passport-for-thaksin-shinawatra-saying-he-is-no-longer-a-threat.json)  [XML](/news/2011/12/16/thailand-reissues-a-passport-for-thaksin-shinawatra-saying-he-is-no-longer-a-threat.xml)  
+
 ### [2011-12-16](/news/2011/12/16/index.md)
 
+##### Thailand
 # Thailand reissues a passport for Thaksin Shinawatra, saying he is no longer a "threat". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1171765/1/.html)
 

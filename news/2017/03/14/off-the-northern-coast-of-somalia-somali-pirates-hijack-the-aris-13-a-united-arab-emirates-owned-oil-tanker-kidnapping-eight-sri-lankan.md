@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/14/off-the-northern-coast-of-somalia-somali-pirate
 
 ### [2017-03-14](/news/2017/03/14/index.md)
 
+##### Piracy off the coast of Somalia
 # Off the northern coast of Somalia, Somali pirates hijack the "Aris 13", a United Arab Emirates-owned oil tanker, kidnapping eight Sri Lankan crew members. This is the first hijacking of a large commercial vessel in five years. 
 
 Pirates have hijacked an oil tanker off the coast of Somalia, Somali officials and piracy experts have said, the first such seizure of a large commercial vessel on the crucial global trade route since 2012. The Aris 13 reported being approached by two skiffs on Monday, John Steed with the organisation Oceans Beyond Piracy said. The ship was carrying fuel from Djibouti to Somalia&#039;s capital, Mogadishu, he said. Eight Sri Lankan crew members were aboard. 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/2/the-afghan-parliament-rejects-17-out-of-24-cabinet-nominees-proposed-by-president-hamid-karzai.html)  [JSON](/news/2010/01/2/the-afghan-parliament-rejects-17-out-of-24-cabinet-nominees-proposed-by-president-hamid-karzai.json)  [XML](/news/2010/01/2/the-afghan-parliament-rejects-17-out-of-24-cabinet-nominees-proposed-by-president-hamid-karzai.xml)  
+
 ### [2010-01-2](/news/2010/01/2/index.md)
 
+##### National Assembly
 # The Afghan Parliament rejects 17 out of 24 cabinet nominees proposed by President Hamid Karzai. 
 
 Afghan president Hamid Karzai has suffered a stinging rebuke with the rejection by the country&#039;s parliament of 17 of his 24 cabinet nominees.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/01/201012111935617946.html)
 2. [Hürriyet](http://www.hurriyetdailynews.com/n.php?n=afghan-parliament-rejects-most-of-karzais-cabinet-nominees-2010-01-02)

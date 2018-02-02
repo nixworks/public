@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/27/armenian-president-robert-kocharyan-and-azerbaijani-president-ilham-aliyev-agree-to-allow-the-residents-of-nagorno-karabakh-to-decide-the-r.html)  [JSON](/news/2006/06/27/armenian-president-robert-kocharyan-and-azerbaijani-president-ilham-aliyev-agree-to-allow-the-residents-of-nagorno-karabakh-to-decide-the-r.json)  [XML](/news/2006/06/27/armenian-president-robert-kocharyan-and-azerbaijani-president-ilham-aliyev-agree-to-allow-the-residents-of-nagorno-karabakh-to-decide-the-r.xml)  
+
 ### [2006-06-27](/news/2006/06/27/index.md)
 
+##### Armenia
 #  Armenian President Robert Kocharyan and Azerbaijani President Ilham Aliyev agree to allow the residents of Nagorno-Karabakh to decide the region's future status through a popular vote. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe-Armenian Liberty](http://www.armenialiberty.org/armeniareport/report/en/2006/06/00DB055C-7469-4805-A919-3395C5858110.ASP)
 

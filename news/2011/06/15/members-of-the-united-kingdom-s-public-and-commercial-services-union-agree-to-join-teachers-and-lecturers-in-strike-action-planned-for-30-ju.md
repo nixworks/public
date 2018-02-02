@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/15/members-of-the-united-kingdom-s-public-and-commercial-services-union-agree-to-join-teachers-and-lecturers-in-strike-action-planned-for-30-ju.html)  [JSON](/news/2011/06/15/members-of-the-united-kingdom-s-public-and-commercial-services-union-agree-to-join-teachers-and-lecturers-in-strike-action-planned-for-30-ju.json)  [XML](/news/2011/06/15/members-of-the-united-kingdom-s-public-and-commercial-services-union-agree-to-join-teachers-and-lecturers-in-strike-action-planned-for-30-ju.xml)  
+
 ### [2011-06-15](/news/2011/06/15/index.md)
 
+##### Public and Commercial Services Union
 # Members of the United Kingdom's Public and Commercial Services Union agree to join teachers and lecturers in strike action planned for 30 June. 
 
 Up to 750,000 public sector workers will strike on 30 June after members of the PCS union agreed to join teachers and lecturers on the picket line.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13772326)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53412000/jpg/_53412108_011623884-1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/8/benon-sevan-head-of-the-united-nations-oil-for-food-program-resigns-before-the-publication-of-a-report-that-is-expected-to-accuse-him-of.html)  [JSON](/news/2005/08/8/benon-sevan-head-of-the-united-nations-oil-for-food-program-resigns-before-the-publication-of-a-report-that-is-expected-to-accuse-him-of.json)  [XML](/news/2005/08/8/benon-sevan-head-of-the-united-nations-oil-for-food-program-resigns-before-the-publication-of-a-report-that-is-expected-to-accuse-him-of.xml)  
+
 ### [2005-08-8](/news/2005/08/8/index.md)
 
+##### Benon Sevan
 #  Benon Sevan, head of the United Nations' oil-for-food program, resigns before the publication of a report that is expected to accuse him of corruption. He blames Kofi Annan for "sacrificing" him and denies all charges 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4130390.stm)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-08-07T143819Z_01_MOL752626_RTRUKOC_0_IRAQ-UN-PROBE.xml)

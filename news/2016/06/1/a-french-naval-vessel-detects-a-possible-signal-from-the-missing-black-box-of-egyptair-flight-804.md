@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/1/a-french-naval-vessel-detects-a-possible-signal-
 
 ### [2016-06-1](/news/2016/06/1/index.md)
 
+##### French naval
 # A French naval vessel detects a possible signal from the missing black box of EgyptAir Flight 804. 
 
 The retrieval of the plane’s data recorders would shed light on why it crashed into the Mediterranean on May 19, killing all 66 on board.

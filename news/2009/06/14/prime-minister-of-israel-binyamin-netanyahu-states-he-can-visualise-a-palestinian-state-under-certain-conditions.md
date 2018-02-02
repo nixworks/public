@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/14/prime-minister-of-israel-binyamin-netanyahu-states-he-can-visualise-a-palestinian-state-under-certain-conditions.html)  [JSON](/news/2009/06/14/prime-minister-of-israel-binyamin-netanyahu-states-he-can-visualise-a-palestinian-state-under-certain-conditions.json)  [XML](/news/2009/06/14/prime-minister-of-israel-binyamin-netanyahu-states-he-can-visualise-a-palestinian-state-under-certain-conditions.xml)  
+
 ### [2009-06-14](/news/2009/06/14/index.md)
 
+##### Israeli Prime Minister
 #  Prime Minister of Israel Binyamin Netanyahu states he can visualise a Palestinian state, under certain conditions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Full Transcript, Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1244371096849&pagename=JPost/JPArticle/ShowFull)
 

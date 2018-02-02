@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/08/22/the-un-says-600-people-have-been-killed-in-clashes-in-south-sudan.html)  [JSON](/news/2011/08/22/the-un-says-600-people-have-been-killed-in-clashes-in-south-sudan.json)  [XML](/news/2011/08/22/the-un-says-600-people-have-been-killed-in-clashes-in-south-sudan.xml)  
+
 ### [2011-08-22](/news/2011/08/22/index.md)
 
+##### United Nations
 # The UN says 600 people have been killed in clashes in South Sudan. 
 
 As many as 200 people may have been abducted in connection with ethnic fighting, and up to 30,000 head of cattle stolen.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/08/23/world/africa/23sudan.html)
+1. [New York Times](https://www.nytimes.com/2011/08/23/world/africa/23sudan.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

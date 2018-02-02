@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/21/new-zealand-prime-minister-john-key-settles-a-d
 
 ### [2016-03-21](/news/2016/03/21/index.md)
 
+##### Tea tape scandal
 # New Zealand Prime Minister John Key settles a defamation case with freelance cameraman Bradley Ambrose, acknowledging comments he made about the man caused him professional and personal harm. 
 
 

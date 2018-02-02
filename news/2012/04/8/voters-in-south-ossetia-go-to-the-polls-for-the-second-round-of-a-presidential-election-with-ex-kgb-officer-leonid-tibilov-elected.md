@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/8/voters-in-south-ossetia-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-ex-kgb-officer-leonid-tibilov-elected.html)  [JSON](/news/2012/04/8/voters-in-south-ossetia-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-ex-kgb-officer-leonid-tibilov-elected.json)  [XML](/news/2012/04/8/voters-in-south-ossetia-go-to-the-polls-for-the-second-round-of-a-presidential-election-with-ex-kgb-officer-leonid-tibilov-elected.xml)  
+
 ### [2012-04-8](/news/2012/04/8/index.md)
 
+##### South Ossetia
 # Voters in South Ossetia go to the polls for the second round of a presidential election with ex-KGB officer Leonid Tibilov elected. 
 
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jGIIN3oOeDI5k62udMXCMPgrZD_g?docId=CNG.cf996c196adcad68ef31bfc0abf4d3a4.3a1)
 2. [Reuters via Euronews](http://www.euronews.com/newswires/1475500-ex-kgb-man-wins-presidency-in-south-ossetia/)

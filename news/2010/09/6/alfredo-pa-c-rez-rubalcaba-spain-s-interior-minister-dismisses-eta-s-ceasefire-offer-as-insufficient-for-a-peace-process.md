@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/6/alfredo-pa-c-rez-rubalcaba-spain-s-interior-minister-dismisses-eta-s-ceasefire-offer-as-insufficient-for-a-peace-process.html)  [JSON](/news/2010/09/6/alfredo-pa-c-rez-rubalcaba-spain-s-interior-minister-dismisses-eta-s-ceasefire-offer-as-insufficient-for-a-peace-process.json)  [XML](/news/2010/09/6/alfredo-pa-c-rez-rubalcaba-spain-s-interior-minister-dismisses-eta-s-ceasefire-offer-as-insufficient-for-a-peace-process.xml)  
+
 ### [2010-09-6](/news/2010/09/6/index.md)
 
+##### Alfredo Perez Rubalcaba
 # Alfredo Perez Rubalcaba, Spain's Interior Minister, dismisses ETA's ceasefire offer as insufficient for a peace process. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/europe/09/06/spain.eta.ceasefire.reaction/?hpt=T1#fbid=Zi63FEAlScD&wom=false)
 

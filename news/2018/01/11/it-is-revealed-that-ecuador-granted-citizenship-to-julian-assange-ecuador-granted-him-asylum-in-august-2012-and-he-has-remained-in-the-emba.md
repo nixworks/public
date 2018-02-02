@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/11/it-is-revealed-that-ecuador-granted-citizenship
 
 ### [2018-01-11](/news/2018/01/11/index.md)
 
+##### Julian Assange political asylum and life at the Ecuadorian embassy
 # It is revealed that Ecuador granted citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. 
 
 Ecuador’s foreign minister reveals to reporters in Quito that Wikileaks founder was granted citizenship a month ago

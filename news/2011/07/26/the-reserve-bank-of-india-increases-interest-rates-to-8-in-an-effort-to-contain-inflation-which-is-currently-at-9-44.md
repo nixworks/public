@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/26/the-reserve-bank-of-india-increases-interest-rates-to-8-in-an-effort-to-contain-inflation-which-is-currently-at-9-44.html)  [JSON](/news/2011/07/26/the-reserve-bank-of-india-increases-interest-rates-to-8-in-an-effort-to-contain-inflation-which-is-currently-at-9-44.json)  [XML](/news/2011/07/26/the-reserve-bank-of-india-increases-interest-rates-to-8-in-an-effort-to-contain-inflation-which-is-currently-at-9-44.xml)  
+
 ### [2011-07-26](/news/2011/07/26/index.md)
 
+##### Reserve Bank of India
 # The Reserve Bank of India increases interest rates to 8% in an effort to contain inflation which is currently at 9.44%. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-14287444)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54267000/jpg/_54267014_india.jpg)

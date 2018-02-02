@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/2/in-dearborn-michigan-the-driver-and-passenger-of
 
 ### [2017-01-2](/news/2017/01/2/index.md)
 
+##### 
 #  In Dearborn Michigan the driver and passenger of a minivan being pursued by police for missing plates were killed when they struck a car, lost control and hit several parked vehicles. 
 
 

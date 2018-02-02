@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/9/three-people-are-missing-after-a-rockwell-turbo-commander-turboprop-plane-crashes-into-two-homes-in-east-haven-connecticut-united-states.html)  [JSON](/news/2013/08/9/three-people-are-missing-after-a-rockwell-turbo-commander-turboprop-plane-crashes-into-two-homes-in-east-haven-connecticut-united-states.json)  [XML](/news/2013/08/9/three-people-are-missing-after-a-rockwell-turbo-commander-turboprop-plane-crashes-into-two-homes-in-east-haven-connecticut-united-states.xml)  
+
 ### [2013-08-9](/news/2013/08/9/index.md)
 
+##### Rockwell Turbo Commander
 # Three people are missing after a Rockwell Turbo Commander turboprop plane crashes into two homes in East Haven, Connecticut, United States. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://usnews.nbcnews.com/_news/2013/08/09/19949138-two-children-pilot-missing-after-plane-crashes-into-connecticut-homes?lite)
 

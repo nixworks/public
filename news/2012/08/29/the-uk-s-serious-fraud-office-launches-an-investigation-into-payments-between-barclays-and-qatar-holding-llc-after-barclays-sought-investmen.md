@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/29/the-uk-s-serious-fraud-office-launches-an-investigation-into-payments-between-barclays-and-qatar-holding-llc-after-barclays-sought-investmen.html)  [JSON](/news/2012/08/29/the-uk-s-serious-fraud-office-launches-an-investigation-into-payments-between-barclays-and-qatar-holding-llc-after-barclays-sought-investmen.json)  [XML](/news/2012/08/29/the-uk-s-serious-fraud-office-launches-an-investigation-into-payments-between-barclays-and-qatar-holding-llc-after-barclays-sought-investmen.xml)  
+
 ### [2012-08-29](/news/2012/08/29/index.md)
 
+##### Serious Fraud Office
 # The UK's Serious Fraud Office launches an investigation into payments between Barclays and Qatar Holding LLC after Barclays sought investment from the latter during the financial crisis in 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/business/2012/aug/29/sfo-investigation-barclays-qatar?newsfeed=true)
 

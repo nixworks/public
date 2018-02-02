@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/13/the-date-of-the-venezuelan-presidential-election-is-set-for-7-october-2012.html)  [JSON](/news/2011/09/13/the-date-of-the-venezuelan-presidential-election-is-set-for-7-october-2012.json)  [XML](/news/2011/09/13/the-date-of-the-venezuelan-presidential-election-is-set-for-7-october-2012.xml)  
+
 ### [2011-09-13](/news/2011/09/13/index.md)
 
+##### inauguration approaches
 # The date of the Venezuelan presidential election is set for 7 October, 2012. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14908556)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/55355000/jpg/_55355882_012871361-1.jpg)

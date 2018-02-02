@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/3/czech-president-va-clav-klaus-signs-the-lisbon-treaty-after-it-was-upheld-by-the-constitutional-court-thus-fulfilling-the-final-step-in-it.html)  [JSON](/news/2009/11/3/czech-president-va-clav-klaus-signs-the-lisbon-treaty-after-it-was-upheld-by-the-constitutional-court-thus-fulfilling-the-final-step-in-it.json)  [XML](/news/2009/11/3/czech-president-va-clav-klaus-signs-the-lisbon-treaty-after-it-was-upheld-by-the-constitutional-court-thus-fulfilling-the-final-step-in-it.xml)  
+
 ### [2009-11-3](/news/2009/11/3/index.md)
 
+##### Czech Republic
 #  Czech President Vaclav Klaus signs the Lisbon Treaty after it was upheld by the Constitutional Court, thus fulfilling the final step in its ratification. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8340664.stm)
 2. [euronews](http://www.euronews.net/2009/11/03/czech-court-clears-way-for-lisbon-ratification/)

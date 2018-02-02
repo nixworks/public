@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/20/president-of-belarus-alexander-lukashenko-announces-the-ousted-president-of-kyrgyzstan-kurmanbek-bakiyev-who-is-wanted-by-his-successors-in.html)  [JSON](/news/2010/04/20/president-of-belarus-alexander-lukashenko-announces-the-ousted-president-of-kyrgyzstan-kurmanbek-bakiyev-who-is-wanted-by-his-successors-in.json)  [XML](/news/2010/04/20/president-of-belarus-alexander-lukashenko-announces-the-ousted-president-of-kyrgyzstan-kurmanbek-bakiyev-who-is-wanted-by-his-successors-in.xml)  
+
 ### [2010-04-20](/news/2010/04/20/index.md)
 
+##### Belarussian President
 # President of Belarus Alexander Lukashenko announces the ousted President of Kyrgyzstan Kurmanbek Bakiyev, who is wanted by his successors in connection with the recent unrest, is in Minsk. 
 
 Kurmanbek Bakiyev and three family members under government protection in Minsk.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201042013289607380.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8632521.stm)

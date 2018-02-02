@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/11/filip-vujanovic-a-former-prime-minister-who-favors-independence-was-elected-president-of-montenegro-this-was-the-third-attempt-at-electi.html)  [JSON](/news/2003/05/11/filip-vujanovic-a-former-prime-minister-who-favors-independence-was-elected-president-of-montenegro-this-was-the-third-attempt-at-electi.json)  [XML](/news/2003/05/11/filip-vujanovic-a-former-prime-minister-who-favors-independence-was-elected-president-of-montenegro-this-was-the-third-attempt-at-electi.xml)  
+
 ### [2003-05-11](/news/2003/05/11/index.md)
 
+##### Filip Vujanovic
 #  Filip Vujanovic, a former Prime Minister who favors independence, was elected President of Montenegro. This was the third attempt at electing a President in five months; the first two votes did not attract enough voters to make the vote valid. This time the legislature had eliminated the turnout requirement.
 
 

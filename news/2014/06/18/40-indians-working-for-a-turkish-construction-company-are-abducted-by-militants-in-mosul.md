@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/06/18/40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.html)  [JSON](/news/2014/06/18/40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.json)  [XML](/news/2014/06/18/40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.xml)  
+
 ### [2014-06-18](/news/2014/06/18/index.md)
 
+##### 2014 Northern Iraq offensive
 # 40 Indians working for a Turkish construction company are abducted by militants in Mosul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-06-18-ML-Iraq/id-d6d28f9e3d334e8aab94fe9508d07d84)
 2. [IANS via Biharprabha](http://news.biharprabha.com/2014/06/40-indian-workers-kidnapped-by-sunni-militants-in-mosul-iraq/)
+
+### Changes:
+
+1. [2014 Northern Iraq offensive: 40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/2014-northern-iraq-offensive-40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md) _2017-08-27 03:40:52 (First version)_
+1. [40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Pope Francis, in his first speech upon arrival at the presidential palace of Serzh Sargsyan in the Armenian capital Yerevan, denounces the planned genocide of Armenians by Ottoman-era Turks a century ago, though the word "genocide" was not included in his prepared speech. ](/news/2016/06/24/pope-francis-in-his-first-speech-upon-arrival-at-the-presidential-palace-of-serzh-sargsyan-in-the-armenian-capital-yerevan-denounces-the-p.md) _Context: Turkish_
 4. [Twelve Turkish academics are detained for signing a declaration opposing military action against Kurdistan Workers Party forces in southeast Turkey. ](/news/2016/01/15/twelve-turkish-academics-are-detained-for-signing-a-declaration-opposing-military-action-against-kurdistan-workers-party-forces-in-southeast.md) _Context: Turkish_
 5. [Masked men in military uniforms kidnap 16 Turkish workers in Baghdad. ](/news/2015/09/2/masked-men-in-military-uniforms-kidnap-16-turkish-workers-in-baghdad.md) _Context: Turkish_
-
-### Changes:
-
-1. [2014 Northern Iraq offensive: 40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/2014-northern-iraq-offensive-40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md) _2017-08-27 03:40:52 (First version)_
-1. [40 Indians working for a Turkish construction company are abducted by militants in Mosul. ](/news/2014/06/18/40-indians-working-for-a-turkish-construction-company-are-abducted-by-militants-in-mosul.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/23/a-court-in-copenhagen-denmark-convicts-three-men-for-plotting-terrorist-attacks-using-triacetone-triperoxide.html)  [JSON](/news/2007/11/23/a-court-in-copenhagen-denmark-convicts-three-men-for-plotting-terrorist-attacks-using-triacetone-triperoxide.json)  [XML](/news/2007/11/23/a-court-in-copenhagen-denmark-convicts-three-men-for-plotting-terrorist-attacks-using-triacetone-triperoxide.xml)  
+
 ### [2007-11-23](/news/2007/11/23/index.md)
 
+##### Copenhagen
 #  A court in Copenhagen, Denmark, convicts three men for plotting terrorist attacks using triacetone triperoxide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7109191.stm)
 

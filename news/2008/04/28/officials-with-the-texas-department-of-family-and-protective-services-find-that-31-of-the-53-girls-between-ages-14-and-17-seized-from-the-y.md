@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/28/officials-with-the-texas-department-of-family-and-protective-services-find-that-31-of-the-53-girls-between-ages-14-and-17-seized-from-the-y.html)  [JSON](/news/2008/04/28/officials-with-the-texas-department-of-family-and-protective-services-find-that-31-of-the-53-girls-between-ages-14-and-17-seized-from-the-y.json)  [XML](/news/2008/04/28/officials-with-the-texas-department-of-family-and-protective-services-find-that-31-of-the-53-girls-between-ages-14-and-17-seized-from-the-y.xml)  
+
 ### [2008-04-28](/news/2008/04/28/index.md)
 
+##### Texas Department of Family and Protective Services
 #  Officials with the Texas Department of Family and Protective Services find that 31 of the 53 girls between ages 14 and 17 seized from the YFZ Ranch have been, or are currently, pregnant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,352966,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

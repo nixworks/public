@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/1/makybe-diva-wins-the-melbourne-cup-thoroughbred-horse-race-for-the-third-consecutive-year-becoming-the-first-horse-ever-to-do-so-shortly.html)  [JSON](/news/2005/11/1/makybe-diva-wins-the-melbourne-cup-thoroughbred-horse-race-for-the-third-consecutive-year-becoming-the-first-horse-ever-to-do-so-shortly.json)  [XML](/news/2005/11/1/makybe-diva-wins-the-melbourne-cup-thoroughbred-horse-race-for-the-third-consecutive-year-becoming-the-first-horse-ever-to-do-so-shortly.xml)  
+
 ### [2005-11-1](/news/2005/11/1/index.md)
 
+##### Makybe Diva
 #  Makybe Diva wins the Melbourne Cup thoroughbred horse race for the third consecutive year, becoming the first horse ever to do so. Shortly thereafter, owner Tony Santic announces her retirement from racing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Herald Sun](http://www.heraldsun.news.com.au/common/story_page/0,5478,17105207%5E661,00.html)
 

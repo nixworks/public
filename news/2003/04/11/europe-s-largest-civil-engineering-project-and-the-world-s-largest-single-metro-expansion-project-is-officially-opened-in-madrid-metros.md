@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/11/europe-s-largest-civil-engineering-project-and-the-world-s-largest-single-metro-expansion-project-is-officially-opened-in-madrid-metros.html)  [JSON](/news/2003/04/11/europe-s-largest-civil-engineering-project-and-the-world-s-largest-single-metro-expansion-project-is-officially-opened-in-madrid-metros.json)  [XML](/news/2003/04/11/europe-s-largest-civil-engineering-project-and-the-world-s-largest-single-metro-expansion-project-is-officially-opened-in-madrid-metros.xml)  
+
 ### [2003-04-11](/news/2003/04/11/index.md)
 
+##### civil engineering
 #  Europe's largest civil engineering project, and the world's largest single metro expansion project, is officially opened in Madrid. "MetroSur", a 40-kilometre loop of the Madrid Metro in the southern suburbs of the city, took under three years to complete.
 
 

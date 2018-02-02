@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/7/villagers-in-assam-kill-a-55-year-old-man-suspected-of-practicing-black-magic-to-appease-a-goddess.html)  [JSON](/news/2013/06/7/villagers-in-assam-kill-a-55-year-old-man-suspected-of-practicing-black-magic-to-appease-a-goddess.json)  [XML](/news/2013/06/7/villagers-in-assam-kill-a-55-year-old-man-suspected-of-practicing-black-magic-to-appease-a-goddess.xml)  
+
 ### [2013-06-7](/news/2013/06/7/index.md)
 
+##### Assam
 # Villagers in Assam kill a 55-year-old man suspected of practicing black magic to "appease" a goddess. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [India Today](http://indiatoday.intoday.in/story/assam-villagers-kill-55-year-old-man-to-appease-goddess-11-held/1/279043.html)
 1. [Cover Image](http://media2.intoday.in/indiatoday/images/stories/sacrifice-660_060813124020.jpg)

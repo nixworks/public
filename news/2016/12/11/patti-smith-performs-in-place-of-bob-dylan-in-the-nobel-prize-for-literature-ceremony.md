@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/11/patti-smith-performs-in-place-of-bob-dylan-in-t
 
 ### [2016-12-11](/news/2016/12/11/index.md)
 
+##### Patti Smith
 # Patti Smith performs in place of Bob Dylan in the Nobel Prize for Literature ceremony. 
 
 Representing the Nobel laureate at the prize-giving, the US singer admitted nerves in performance at Swedish academy

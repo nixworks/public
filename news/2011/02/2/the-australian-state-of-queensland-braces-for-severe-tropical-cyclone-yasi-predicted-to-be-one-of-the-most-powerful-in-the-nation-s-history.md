@@ -1,16 +1,26 @@
+
+Formats: [HTML](/news/2011/02/2/the-australian-state-of-queensland-braces-for-severe-tropical-cyclone-yasi-predicted-to-be-one-of-the-most-powerful-in-the-nation-s-history.html)  [JSON](/news/2011/02/2/the-australian-state-of-queensland-braces-for-severe-tropical-cyclone-yasi-predicted-to-be-one-of-the-most-powerful-in-the-nation-s-history.json)  [XML](/news/2011/02/2/the-australian-state-of-queensland-braces-for-severe-tropical-cyclone-yasi-predicted-to-be-one-of-the-most-powerful-in-the-nation-s-history.xml)  
+
 ### [2011-02-2](/news/2011/02/2/index.md)
 
+##### Australia
 # The Australian state of Queensland braces for Severe Tropical Cyclone Yasi predicted to be one of the most powerful in the nation's history. 
 
 Looking for local news? Find your Fairfax newspaper on the list below.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/02/201122141533487439.html)
 2. [New Zealand Stuff](http://www.stuff.co.nz/nz-newspapers/west-coast-6013/news-6662/4609661/Yasi-shuts-Queensland-airports)
 3. [Reuters](http://in.reuters.com/article/2011/02/01/idINIndia-54576720110201?feedType=RSS&feedName=worldNews)
 3. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110201&t=2&i=325240476&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2011-02-02T041306Z_01_NOOTR_RTRMDNC_0_India-545767-1)
+
+### Changes:
+
+1. [Cyclone Yasi:The Australian state of Queensland braces for Severe Tropical Cyclone Yasi predicted to be one of the most powerful in the nation's history. ](/news/2011/02/2/cyclone-yasi-pthe-australian-state-of-queensland-braces-for-severe-tropical-cyclone-yasi-predicted-to-be-one-of-the-most-powerful-in-the-nat.md) _2017-08-25 03:32:00 (First version)_
+2. [Cyclone Yasi:: The Australian state of Queensland braces for Severe Tropical Cyclone Yasi predicted to be one of the most powerful in the nation's history. ](/news/2011/02/2/cyclone-yasi-the-australian-state-of-queensland-braces-for-severe-tropical-cyclone-yasi-predicted-to-be-one-of-the-most-powerful-in-the-na.md) _2017-08-27 03:32:09 (Update)_
+2. [The Australian state of Queensland braces for Severe Tropical Cyclone Yasi predicted to be one of the most powerful in the nation's history. ](/news/2011/02/2/the-australian-state-of-queensland-braces-for-severe-tropical-cyclone-yasi-predicted-to-be-one-of-the-most-powerful-in-the-nation-s-history.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +29,3 @@ Looking for local news? Find your Fairfax newspaper on the list below.
 3. [The death toll from Cyclone Debbie and the associated flooding in the Australian states of New South Wales and Queensland rises to five people. ](/news/2017/04/2/the-death-toll-from-cyclone-debbie-and-the-associated-flooding-in-the-australian-states-of-new-south-wales-and-queensland-rises-to-five-peop.md) _Context: Australia, Queensland_
 4. [An accident on board the Thunder River Rapids Ride at Dreamworld on the Gold Coast in Queensland, Australia, leaves four people dead. ](/news/2016/10/25/an-accident-on-board-the-thunder-river-rapids-ride-at-dreamworld-on-the-gold-coast-in-queensland-australia-leaves-four-people-dead.md) _Context: Australia, Queensland_
 5. [The results of a referendum last month in the Australian state of Queensland with voters agreeing to plans for a four-year fixed parliamentary term. ](/news/2016/04/5/the-results-of-a-referendum-last-month-in-the-australian-state-of-queensland-with-voters-agreeing-to-plans-for-a-four-year-fixed-parliamenta.md) _Context: Australia, Queensland_
-
-### Changes:
-
-1. [Cyclone Yasi:The Australian state of Queensland braces for Severe Tropical Cyclone Yasi predicted to be one of the most powerful in the nation's history. ](/news/2011/02/2/cyclone-yasi-pthe-australian-state-of-queensland-braces-for-severe-tropical-cyclone-yasi-predicted-to-be-one-of-the-most-powerful-in-the-nat.md) _2017-08-25 03:32:00 (First version)_
-2. [Cyclone Yasi:: The Australian state of Queensland braces for Severe Tropical Cyclone Yasi predicted to be one of the most powerful in the nation's history. ](/news/2011/02/2/cyclone-yasi-the-australian-state-of-queensland-braces-for-severe-tropical-cyclone-yasi-predicted-to-be-one-of-the-most-powerful-in-the-na.md) _2017-08-27 03:32:09 (Update)_
-2. [The Australian state of Queensland braces for Severe Tropical Cyclone Yasi predicted to be one of the most powerful in the nation's history. ](/news/2011/02/2/the-australian-state-of-queensland-braces-for-severe-tropical-cyclone-yasi-predicted-to-be-one-of-the-most-powerful-in-the-nation-s-history.md) _(Current version)_

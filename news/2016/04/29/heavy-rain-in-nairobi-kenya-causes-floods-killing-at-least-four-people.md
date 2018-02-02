@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/29/heavy-rain-in-nairobi-kenya-causes-floods-killi
 
 ### [2016-04-29](/news/2016/04/29/index.md)
 
+##### Nairobi
 # Heavy rain in Nairobi, Kenya, causes floods killing at least four people. 
 
 At least four people lost their lives on Friday evening after a perimeter wall collapsed at 5pm along Lenana Road, Nairobi due to heavy rains.

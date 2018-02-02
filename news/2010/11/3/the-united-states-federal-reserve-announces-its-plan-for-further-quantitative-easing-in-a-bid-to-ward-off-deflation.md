@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/3/the-united-states-federal-reserve-announces-its-plan-for-further-quantitative-easing-in-a-bid-to-ward-off-deflation.html)  [JSON](/news/2010/11/3/the-united-states-federal-reserve-announces-its-plan-for-further-quantitative-easing-in-a-bid-to-ward-off-deflation.json)  [XML](/news/2010/11/3/the-united-states-federal-reserve-announces-its-plan-for-further-quantitative-easing-in-a-bid-to-ward-off-deflation.xml)  
+
 ### [2010-11-3](/news/2010/11/3/index.md)
 
+##### United States Federal Reserve
 # The United States Federal Reserve announces its plan for further quantitative easing in a bid to ward off deflation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2010/11/03/news/economy/fed_decision/index.htm?eref=edition)
 

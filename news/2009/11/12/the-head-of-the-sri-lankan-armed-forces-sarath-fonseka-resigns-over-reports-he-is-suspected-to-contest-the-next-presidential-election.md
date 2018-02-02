@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/12/the-head-of-the-sri-lankan-armed-forces-sarath-fonseka-resigns-over-reports-he-is-suspected-to-contest-the-next-presidential-election.html)  [JSON](/news/2009/11/12/the-head-of-the-sri-lankan-armed-forces-sarath-fonseka-resigns-over-reports-he-is-suspected-to-contest-the-next-presidential-election.json)  [XML](/news/2009/11/12/the-head-of-the-sri-lankan-armed-forces-sarath-fonseka-resigns-over-reports-he-is-suspected-to-contest-the-next-presidential-election.xml)  
+
 ### [2009-11-12](/news/2009/11/12/index.md)
 
+##### Sri Lanka
 #  The head of the Sri Lankan armed forces Sarath Fonseka resigns over reports he is suspected to contest the next presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jTuZljsoy7vxSiavsZxfWTeb1S8AD9BTV96G1)
 

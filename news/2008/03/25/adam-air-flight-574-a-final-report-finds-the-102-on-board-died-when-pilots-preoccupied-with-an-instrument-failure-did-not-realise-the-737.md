@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/03/25/adam-air-flight-574-a-final-report-finds-the-102-on-board-died-when-pilots-preoccupied-with-an-instrument-failure-did-not-realise-the-737.html)  [JSON](/news/2008/03/25/adam-air-flight-574-a-final-report-finds-the-102-on-board-died-when-pilots-preoccupied-with-an-instrument-failure-did-not-realise-the-737.json)  [XML](/news/2008/03/25/adam-air-flight-574-a-final-report-finds-the-102-on-board-died-when-pilots-preoccupied-with-an-instrument-failure-did-not-realise-the-737.xml)  
+
 ### [2008-03-25](/news/2008/03/25/index.md)
 
+##### Adam Air
 #  Adam Air Flight 574: A final report finds the 102 on board died when pilots preoccupied with an instrument failure did not realise the 737 was descending out of control. [http:--news.xinhuanet.com-english-2008-03-25-content_7855402.htm (Xinhua)] (Wikinews)
 
 

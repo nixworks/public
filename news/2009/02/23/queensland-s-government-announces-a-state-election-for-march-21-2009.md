@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/23/queensland-s-government-announces-a-state-election-for-march-21-2009.html)  [JSON](/news/2009/02/23/queensland-s-government-announces-a-state-election-for-march-21-2009.json)  [XML](/news/2009/02/23/queensland-s-government-announces-a-state-election-for-march-21-2009.xml)  
+
 ### [2009-02-23](/news/2009/02/23/index.md)
 
+##### Queensland
 #  Queensland's government announces a state election for March 21, 2009. 
 
 Queensland Premier Anna Bligh has called a snap state election for March 21.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/02/23/2498604.htm?section=australia)
 1. [Cover Image](http://www.abc.net.au/news/image/304878-1x1-700x700.jpg)

@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2007/12/10/former-atlanta-falcons-quarterback-michael-vick-receives-a-23-month-jail-sentence-for-his-involvement-in-a-dogfighting-ring.html)  [JSON](/news/2007/12/10/former-atlanta-falcons-quarterback-michael-vick-receives-a-23-month-jail-sentence-for-his-involvement-in-a-dogfighting-ring.json)  [XML](/news/2007/12/10/former-atlanta-falcons-quarterback-michael-vick-receives-a-23-month-jail-sentence-for-his-involvement-in-a-dogfighting-ring.xml)  
+
 ### [2007-12-10](/news/2007/12/10/index.md)
 
+##### Atlanta Falcons
 #  Former Atlanta Falcons quarterback Michael Vick receives a 23-month jail sentence for his involvement in a dogfighting ring. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Canadian Press via TSN](http://www.tsn.ca/nfl/news_story/?ID=224839&hubname=)
-1. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
+1. [Canadian Press via TSN](https://www.tsn.ca/nfl/news_story/?ID=224839&hubname=)
 
 ### Related:
 

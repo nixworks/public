@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/11/the-unasur-constitutive-treaty-enters-into-force-making-the-union-of-south-american-nations-an-international-legal-personality.html)  [JSON](/news/2011/03/11/the-unasur-constitutive-treaty-enters-into-force-making-the-union-of-south-american-nations-an-international-legal-personality.json)  [XML](/news/2011/03/11/the-unasur-constitutive-treaty-enters-into-force-making-the-union-of-south-american-nations-an-international-legal-personality.xml)  
+
 ### [2011-03-11](/news/2011/03/11/index.md)
 
+##### UNASUR Constitutive Treaty
 # The UNASUR Constitutive Treaty enters into force, making the Union of South American Nations an international legal personality. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Telesur](http://www.telesurtv.net/secciones/noticias/90085-NN/entra-en-vigencia-tratado-constitutivo-de-la-unasur/)
 2. [Télam](http://english.telam.com.ar/index.php?option=com_content&view=article&id=11380:unasur-starts-formal-operation-as-a-regional-body&catid=42:politics)

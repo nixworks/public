@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/21/a-rebellion-by-villagers-in-wukan-southern-china-ends-after-authorities-say-they-will-release-three-protesters-detained-and-agree-to-other.html)  [JSON](/news/2011/12/21/a-rebellion-by-villagers-in-wukan-southern-china-ends-after-authorities-say-they-will-release-three-protesters-detained-and-agree-to-other.json)  [XML](/news/2011/12/21/a-rebellion-by-villagers-in-wukan-southern-china-ends-after-authorities-say-they-will-release-three-protesters-detained-and-agree-to-other.xml)  
+
 ### [2011-12-21](/news/2011/12/21/index.md)
 
+##### rebellion by villagers in Wukan
 # A rebellion by villagers in Wukan, southern China, ends after authorities say they will release three protesters detained and agree to other demands. 
 
 The rebellious Chinese fishing village of Wukan forced the ruling Communist Party to agree to the release of three villagers detained for protesting against corruption and land grabs on Wednesday.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/8969702/Wukan-forces-Chinese-officials-to-release-three-villagers.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02088/Wukan_2088401a.jpg)

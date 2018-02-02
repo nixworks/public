@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2013/04/4/egypt-intercepts-a-togolese-flagged-ship-carrying-a-large-arsenal-of-weapons-it-is-believed-the-ship-was-headed-to-iran.html)  [JSON](/news/2013/04/4/egypt-intercepts-a-togolese-flagged-ship-carrying-a-large-arsenal-of-weapons-it-is-believed-the-ship-was-headed-to-iran.json)  [XML](/news/2013/04/4/egypt-intercepts-a-togolese-flagged-ship-carrying-a-large-arsenal-of-weapons-it-is-believed-the-ship-was-headed-to-iran.xml)  
+
 ### [2013-04-4](/news/2013/04/4/index.md)
 
+##### Egypt
 # Egypt intercepts a Togolese flagged ship carrying a large arsenal of weapons. It is believed the ship was headed to Iran. 
 
+Egypt’s navy seized a Togolese-flagged ship carrying heavy weapons late yesterday and was questioning crew members at the port of Safaga, Reuters reported.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2013-04-04/egypt-s-navy-seizes-ship-carring-arms-in-red-sea.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2013-04-04/egypt-s-navy-seizes-ship-carring-arms-in-red-sea.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

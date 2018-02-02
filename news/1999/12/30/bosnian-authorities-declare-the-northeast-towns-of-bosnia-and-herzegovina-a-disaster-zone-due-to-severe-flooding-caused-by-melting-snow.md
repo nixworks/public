@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/1999/12/30/bosnian-authorities-declare-the-northeast-towns-of-bosnia-and-herzegovina-a-disaster-zone-due-to-severe-flooding-caused-by-melting-snow.html)  [JSON](/news/1999/12/30/bosnian-authorities-declare-the-northeast-towns-of-bosnia-and-herzegovina-a-disaster-zone-due-to-severe-flooding-caused-by-melting-snow.json)  [XML](/news/1999/12/30/bosnian-authorities-declare-the-northeast-towns-of-bosnia-and-herzegovina-a-disaster-zone-due-to-severe-flooding-caused-by-melting-snow.xml)  
+
 ### [1999-12-30](/news/1999/12/30/index.md)
 
+##### Bosnia and Herzegovina
 #  Bosnian authorities declare the northeast towns of Bosnia and Herzegovina a disaster zone due to severe flooding caused by melting snow. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/584109.stm)
 

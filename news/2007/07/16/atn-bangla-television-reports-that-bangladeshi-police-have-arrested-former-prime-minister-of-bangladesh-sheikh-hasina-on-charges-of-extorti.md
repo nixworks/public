@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/16/atn-bangla-television-reports-that-bangladeshi-police-have-arrested-former-prime-minister-of-bangladesh-sheikh-hasina-on-charges-of-extorti.html)  [JSON](/news/2007/07/16/atn-bangla-television-reports-that-bangladeshi-police-have-arrested-former-prime-minister-of-bangladesh-sheikh-hasina-on-charges-of-extorti.json)  [XML](/news/2007/07/16/atn-bangla-television-reports-that-bangladeshi-police-have-arrested-former-prime-minister-of-bangladesh-sheikh-hasina-on-charges-of-extorti.xml)  
+
 ### [2007-07-16](/news/2007/07/16/index.md)
 
+##### ATN Bangla
 #  ATN Bangla television reports that Bangladeshi police have arrested former Prime Minister of Bangladesh Sheikh Hasina on charges of extorting money from a businessman. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/07/16/asia/AS-GEN-Bangladesh-Hasina-Detained.php)
 

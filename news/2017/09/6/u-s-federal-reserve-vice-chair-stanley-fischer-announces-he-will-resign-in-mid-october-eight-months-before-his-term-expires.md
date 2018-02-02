@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/6/u-s-federal-reserve-vice-chair-stanley-fischer-a
 
 ### [2017-09-6](/news/2017/09/6/index.md)
 
+##### Economy of the United States
 # U.S. Federal Reserve Vice Chair Stanley Fischer announces he will resign in mid-October, eight months before his term expires. 
 
 

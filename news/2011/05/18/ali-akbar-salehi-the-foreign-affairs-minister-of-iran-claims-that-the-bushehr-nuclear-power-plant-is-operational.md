@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/18/ali-akbar-salehi-the-foreign-affairs-minister-of-iran-claims-that-the-bushehr-nuclear-power-plant-is-operational.html)  [JSON](/news/2011/05/18/ali-akbar-salehi-the-foreign-affairs-minister-of-iran-claims-that-the-bushehr-nuclear-power-plant-is-operational.json)  [XML](/news/2011/05/18/ali-akbar-salehi-the-foreign-affairs-minister-of-iran-claims-that-the-bushehr-nuclear-power-plant-is-operational.xml)  
+
 ### [2011-05-18](/news/2011/05/18/index.md)
 
+##### Ali Akbar Salehi
 # Ali Akbar Salehi, the Foreign Affairs Minister of Iran, claims that the Bushehr Nuclear Power Plant is operational. 
 
 Nuclear power plant has reached critical mass, will be powered up within weeks, Salehi says, echoing statements of senior Russian diplomat.
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?id=221118)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=160983)

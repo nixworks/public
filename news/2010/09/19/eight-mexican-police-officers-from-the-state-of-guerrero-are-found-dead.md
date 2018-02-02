@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/19/eight-mexican-police-officers-from-the-state-of-guerrero-are-found-dead.html)  [JSON](/news/2010/09/19/eight-mexican-police-officers-from-the-state-of-guerrero-are-found-dead.json)  [XML](/news/2010/09/19/eight-mexican-police-officers-from-the-state-of-guerrero-are-found-dead.xml)  
+
 ### [2010-09-19](/news/2010/09/19/index.md)
 
+##### Mexican
 # Eight Mexican police officers from the state of Guerrero are found dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/CRIME/09/19/mexico.police.killed/?hpt=T2)
 

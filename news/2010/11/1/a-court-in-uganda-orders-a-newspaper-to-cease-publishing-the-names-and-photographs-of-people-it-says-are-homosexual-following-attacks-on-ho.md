@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/1/a-court-in-uganda-orders-a-newspaper-to-cease-publishing-the-names-and-photographs-of-people-it-says-are-homosexual-following-attacks-on-ho.html)  [JSON](/news/2010/11/1/a-court-in-uganda-orders-a-newspaper-to-cease-publishing-the-names-and-photographs-of-people-it-says-are-homosexual-following-attacks-on-ho.json)  [XML](/news/2010/11/1/a-court-in-uganda-orders-a-newspaper-to-cease-publishing-the-names-and-photographs-of-people-it-says-are-homosexual-following-attacks-on-ho.xml)  
+
 ### [2010-11-1](/news/2010/11/1/index.md)
 
+##### Uganda
 # A court in Uganda orders a newspaper to cease publishing the names and photographs of people it says are homosexual, following attacks on homosexuals in the past month. 
 
 A judge in Uganda orders the local Rolling Stone newspaper to stop publishing the names and photographs of people it says are homosexual.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11666789)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

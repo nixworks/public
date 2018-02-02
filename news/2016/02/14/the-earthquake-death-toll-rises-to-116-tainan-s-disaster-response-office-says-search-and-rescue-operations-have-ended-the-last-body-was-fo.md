@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/14/the-earthquake-death-toll-rises-to-116-tainan-s
 
 ### [2016-02-14](/news/2016/02/14/index.md)
 
+##### 2016 Taiwan earthquake
 # The earthquake death toll rises to 116. Tainan's disaster response office says search and rescue operations have ended. The last body was found yesterday. Ninety-six, of the 289 people rescued, remain hospitalized. 
 
 Tainan Mayor William Lai (賴清德) at 4:20pm yesterday announced that the search-and-rescue operation at the Weiguan Jinlong complex in Tainan, which collapsed in an earthquake on Feb. 6, has come to an end, after the body of the last missing resident was found.

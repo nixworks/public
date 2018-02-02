@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/7/battulga-khaltmaa-of-the-opposition-democratic-p
 
 ### [2017-07-7](/news/2017/07/7/index.md)
 
+##### Mongolian presidential election, 2017
 # Battulga Khaltmaa of the opposition Democratic Party (DP) is elected President of Mongolia in the second round, defeating former Prime Minister Miyeegombyn Enkhbold of the Mongolian People's Party.
 
 Khaltmaa Battulga won more than 50 percent of the votes in a scandal-ridden presidential runoff campaign.

@@ -1,17 +1,26 @@
+
+Formats: [HTML](/news/2010/08/30/category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135-miles-per-hour-215-km-h-prompt.html)  [JSON](/news/2010/08/30/category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135-miles-per-hour-215-km-h-prompt.json)  [XML](/news/2010/08/30/category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135-miles-per-hour-215-km-h-prompt.xml)  
+
 ### [2010-08-30](/news/2010/08/30/index.md)
 
+##### 2010 Atlantic hurricane season
 # Category 4 Hurricane Earl takes aim at the northern Leeward Islands and Puerto Rico with winds of up to 135 miles per hour (215 km-h) prompting hurricane warnings. 
 
 Hurricane Earl&#39;s winds and driving rains churned over the North Carolina in the dark of night, leaving residents and officials to wait for daybreak to assess the damage. 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11128738)
 2. [CNN](http://www.cnn.com/2010/US/08/30/tropical.weather/index.html)
 3. [Huffington Post](http://www.huffingtonpost.com/2010/08/30/tropical-storm-fiona-form_n_699656.html)
 4. [msnbc.com](http://www.msnbc.msn.com/id/38877306/ns/weather/?gt1=43001)
 4. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Slideshows/_production/ss-100830-HurricaneEarl/ss-100905-earl-01.standard.jpg)
+
+### Changes:
+
+1. [2010 Atlantic hurricane season: Category 4 Hurricane Earl takes aim at the northern Leeward Islands and Puerto Rico with winds of up to 135 miles per hour (215 km-h) prompting hurricane warnings. ](/news/2010/08/30/2010-atlantic-hurricane-season-category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135.md) _2017-08-27 03:29:49 (First version)_
+1. [Category 4 Hurricane Earl takes aim at the northern Leeward Islands and Puerto Rico with winds of up to 135 miles per hour (215 km-h) prompting hurricane warnings. ](/news/2010/08/30/category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135-miles-per-hour-215-km-h-prompt.md) _(Current version)_
 
 ### Related:
 
@@ -20,8 +29,3 @@ Hurricane Earl&#39;s winds and driving rains churned over the North Carolina in 
 3. [Hurricane Maria reaches Category 5 as it threatens the Leeward Islands, Puerto Rico, and the Dominican Republic. ](/news/2017/09/18/hurricane-maria-reaches-category-5-as-it-threatens-the-leeward-islands-puerto-rico-and-the-dominican-republic.md) _Context: Leeward Islands, Puerto Rico_
 4. [2010 Atlantic hurricane season: Tropical Storm Paula (2010) reaches hurricane strength as it moves towards Mexico's Yucatan Peninsula. ](/news/2010/10/12/2010-atlantic-hurricane-season-tropical-storm-paula-2010-reaches-hurricane-strength-as-it-moves-towards-mexico-s-yucata-n-peninsula.md) _Context: 2010 Atlantic hurricane season, hurricane_
 5. [2010 Atlantic hurricane season: Tropical Storm Paula forms near Honduras and is expected to become a hurricane by Tuesday. ](/news/2010/10/11/2010-atlantic-hurricane-season-tropical-storm-paula-forms-near-honduras-and-is-expected-to-become-a-hurricane-by-tuesday.md) _Context: 2010 Atlantic hurricane season, hurricane_
-
-### Changes:
-
-1. [2010 Atlantic hurricane season: Category 4 Hurricane Earl takes aim at the northern Leeward Islands and Puerto Rico with winds of up to 135 miles per hour (215 km-h) prompting hurricane warnings. ](/news/2010/08/30/2010-atlantic-hurricane-season-category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135.md) _2017-08-27 03:29:49 (First version)_
-1. [Category 4 Hurricane Earl takes aim at the northern Leeward Islands and Puerto Rico with winds of up to 135 miles per hour (215 km-h) prompting hurricane warnings. ](/news/2010/08/30/category-4-hurricane-earl-takes-aim-at-the-northern-leeward-islands-and-puerto-rico-with-winds-of-up-to-135-miles-per-hour-215-km-h-prompt.md) _(Current version)_

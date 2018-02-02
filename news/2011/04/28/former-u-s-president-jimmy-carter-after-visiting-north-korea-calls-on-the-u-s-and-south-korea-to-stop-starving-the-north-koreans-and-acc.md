@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/28/former-u-s-president-jimmy-carter-after-visiting-north-korea-calls-on-the-u-s-and-south-korea-to-stop-starving-the-north-koreans-and-acc.html)  [JSON](/news/2011/04/28/former-u-s-president-jimmy-carter-after-visiting-north-korea-calls-on-the-u-s-and-south-korea-to-stop-starving-the-north-koreans-and-acc.json)  [XML](/news/2011/04/28/former-u-s-president-jimmy-carter-after-visiting-north-korea-calls-on-the-u-s-and-south-korea-to-stop-starving-the-north-koreans-and-acc.xml)  
+
 ### [2011-04-28](/news/2011/04/28/index.md)
 
+##### Jimmy Carter
 # Former U.S. president Jimmy Carter, after visiting North Korea, calls on the U.S. and South Korea to stop starving the North Koreans and accuses the U.S. and South Korea of violating the human rights of the North Korean people. Carter also says Kim Jong-il is willing to hold unconditional talks with South Korea, though current U.S. officials dismiss the visit of their former president to North Korea as "strictly private". 
 
 Former US President Jimmy Carter accuses the US and South Korea of human rights violations against North Koreans by withholding food aid.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13221867)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52338000/jpg/_52338296_011833751-1.jpg)

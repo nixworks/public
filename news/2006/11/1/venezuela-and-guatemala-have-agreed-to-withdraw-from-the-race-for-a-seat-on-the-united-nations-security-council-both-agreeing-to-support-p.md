@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/1/venezuela-and-guatemala-have-agreed-to-withdraw-from-the-race-for-a-seat-on-the-united-nations-security-council-both-agreeing-to-support-p.html)  [JSON](/news/2006/11/1/venezuela-and-guatemala-have-agreed-to-withdraw-from-the-race-for-a-seat-on-the-united-nations-security-council-both-agreeing-to-support-p.json)  [XML](/news/2006/11/1/venezuela-and-guatemala-have-agreed-to-withdraw-from-the-race-for-a-seat-on-the-united-nations-security-council-both-agreeing-to-support-p.xml)  
+
 ### [2006-11-1](/news/2006/11/1/index.md)
 
+##### Venezuela
 #  Venezuela and Guatemala have agreed to withdraw from the race for a seat on the United Nations Security Council; both agreeing to support Panama after 47 rounds of voting. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Canadian Press](http://www.breitbart.com/news/na/cp_w110169A.xml.html)
 

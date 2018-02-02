@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/6/nigeria-s-acting-president-goodluck-jonathan-inaugurates-a-new-cabinet.html)  [JSON](/news/2010/04/6/nigeria-s-acting-president-goodluck-jonathan-inaugurates-a-new-cabinet.json)  [XML](/news/2010/04/6/nigeria-s-acting-president-goodluck-jonathan-inaugurates-a-new-cabinet.xml)  
+
 ### [2010-04-6](/news/2010/04/6/index.md)
 
+##### Nigeria
 # Nigeria's acting President Goodluck Jonathan inaugurates a new Cabinet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8605590.stm)
 2. [NEXT](http://234next.com/csp/cms/sites/Next/Home/5551011-146/new_cabinet_emerges___.csp)

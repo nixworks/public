@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/17/iraqi-authorities-are-searching-for-10-grams-of
 
 ### [2016-02-17](/news/2016/02/17/index.md)
 
+##### Iraqi Civil War
 # Iraqi authorities are searching for 10 grams of iridium-192, a radioactive material stolen from a Weatherford International oilfield services facility near Basra in November 2015. Authorities are concerned about its potential use by Islamic State, or the like, to develop a dirty bomb weapon. 
 
 Iraq is searching for &quot;highly dangerous&quot; radioactive material whose theft last year has raised fears among Iraqi officials that it could be used as a weapon if acquired by Islamic State.

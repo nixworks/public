@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/6/cuba-united-states-relations-a-judge-in-el-paso-texas-orders-the-release-of-accused-terrorist-luis-posada-carriles-pending-an-immigratio.html)  [JSON](/news/2007/04/6/cuba-united-states-relations-a-judge-in-el-paso-texas-orders-the-release-of-accused-terrorist-luis-posada-carriles-pending-an-immigratio.json)  [XML](/news/2007/04/6/cuba-united-states-relations-a-judge-in-el-paso-texas-orders-the-release-of-accused-terrorist-luis-posada-carriles-pending-an-immigratio.xml)  
+
 ### [2007-04-6](/news/2007/04/6/index.md)
 
+##### Cuba-United States relations
 #  Cuba-United States relations: A judge in El Paso, Texas orders the release of accused terrorist Luis Posada Carriles, pending an immigration hearing. Federal prosecutors plan to appeal the ruling. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6534065.stm)
 

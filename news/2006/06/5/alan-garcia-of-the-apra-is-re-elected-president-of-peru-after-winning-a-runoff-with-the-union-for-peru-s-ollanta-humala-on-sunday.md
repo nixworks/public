@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/5/alan-garcia-of-the-apra-is-re-elected-president-of-peru-after-winning-a-runoff-with-the-union-for-peru-s-ollanta-humala-on-sunday.html)  [JSON](/news/2006/06/5/alan-garcia-of-the-apra-is-re-elected-president-of-peru-after-winning-a-runoff-with-the-union-for-peru-s-ollanta-humala-on-sunday.json)  [XML](/news/2006/06/5/alan-garcia-of-the-apra-is-re-elected-president-of-peru-after-winning-a-runoff-with-the-union-for-peru-s-ollanta-humala-on-sunday.xml)  
+
 ### [2006-06-5](/news/2006/06/5/index.md)
 
+##### Alan Garca
 #  Alan Garca of the APRA is re-elected President of Peru after winning a runoff with the Union for Peru's Ollanta Humala on Sunday. 
 
 Former President Alan Garcia won a runoff election against the Hugo Chavez-backed Ollanta Humala to win the Peruvian presidential election
 
 
-### Source:
+### Sources:
 
 1. [FoxNews.com](http://www.foxnews.com/story/0,2933,198151,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

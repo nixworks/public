@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/9/the-supreme-islamic-courts-council-of-somalia-declare-jihad-against-ethiopia-following-the-ethiopian-military-incursions-into-bur-haqaba.html)  [JSON](/news/2006/10/9/the-supreme-islamic-courts-council-of-somalia-declare-jihad-against-ethiopia-following-the-ethiopian-military-incursions-into-bur-haqaba.json)  [XML](/news/2006/10/9/the-supreme-islamic-courts-council-of-somalia-declare-jihad-against-ethiopia-following-the-ethiopian-military-incursions-into-bur-haqaba.xml)  
+
 ### [2006-10-9](/news/2006/10/9/index.md)
 
+##### Islamic Court Union
 #  The Supreme Islamic Courts Council of Somalia declare 'jihad' against Ethiopia following the Ethiopian military incursions into Bur Haqaba close to the shared border. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6032907.stm)
 2. [Reuters](http://today.reuters.com/News/CrisesArticle.aspx?storyId=L09256177)

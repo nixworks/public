@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/12/the-government-in-east-timor-faces-a-motion-of-no-confidence-after-releasing-an-indonesian-militia-member-martenus-bere-accused-of-crimes.html)  [JSON](/news/2009/10/12/the-government-in-east-timor-faces-a-motion-of-no-confidence-after-releasing-an-indonesian-militia-member-martenus-bere-accused-of-crimes.json)  [XML](/news/2009/10/12/the-government-in-east-timor-faces-a-motion-of-no-confidence-after-releasing-an-indonesian-militia-member-martenus-bere-accused-of-crimes.xml)  
+
 ### [2009-10-12](/news/2009/10/12/index.md)
 
+##### East Timor
 #  The government in East Timor faces a motion of no confidence after releasing an Indonesian militia member, Martenus Bere, accused of crimes against humanity a decade ago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ibd5vhNSA7S3yo1QOyB2IeWRwrQw)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2009/10/12/timor-leste-government-faces-no-confidence-vote.html)

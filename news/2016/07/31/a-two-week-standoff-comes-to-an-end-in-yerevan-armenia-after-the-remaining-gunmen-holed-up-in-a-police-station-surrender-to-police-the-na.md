@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/31/a-two-week-standoff-comes-to-an-end-in-yerevan-
 
 ### [2016-07-31](/news/2016/07/31/index.md)
 
+##### 2016 Yerevan hostage crisis
 # A two-week standoff comes to an end in Yerevan, Armenia, after the remaining gunmen holed up in a police station surrender to police. The National Security Service says "twenty terrorists have been arrested" following the "complete liberation" of the police compound. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/27/former-russian-oil-tycoon-mikhail-khodorkovsky-is-found-guilty-of-embezzlement-in-a-second-trial-which-he-described-as-politically-motivate.html)  [JSON](/news/2010/12/27/former-russian-oil-tycoon-mikhail-khodorkovsky-is-found-guilty-of-embezzlement-in-a-second-trial-which-he-described-as-politically-motivate.json)  [XML](/news/2010/12/27/former-russian-oil-tycoon-mikhail-khodorkovsky-is-found-guilty-of-embezzlement-in-a-second-trial-which-he-described-as-politically-motivate.xml)  
+
 ### [2010-12-27](/news/2010/12/27/index.md)
 
+##### Russia
 # Former Russian oil tycoon Mikhail Khodorkovsky is found guilty of embezzlement in a second trial, which he described as politically motivated. 
 
 The former oil tycoon, Mikhail Khodorkovsky, who is serving an eight-year prison term, was found guilty in his second trial, which would keep him behind bars for several more years. A judge who starte
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/russia/20101227/161947823.html)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101228/news_20101228_56_722697.htm)

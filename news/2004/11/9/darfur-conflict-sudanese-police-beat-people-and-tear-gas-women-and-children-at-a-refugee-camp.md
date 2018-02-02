@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/9/darfur-conflict-sudanese-police-beat-people-and-tear-gas-women-and-children-at-a-refugee-camp.html)  [JSON](/news/2004/11/9/darfur-conflict-sudanese-police-beat-people-and-tear-gas-women-and-children-at-a-refugee-camp.json)  [XML](/news/2004/11/9/darfur-conflict-sudanese-police-beat-people-and-tear-gas-women-and-children-at-a-refugee-camp.xml)  
+
 ### [2004-11-9](/news/2004/11/9/index.md)
 
+##### Darfur conflict
 #  Darfur conflict: Sudanese Police beat people and tear gas women and children at a refugee camp 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/3998243.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/10/iraqi-prime-minister-haider-al-abadi-declares-t
 
 ### [2017-07-10](/news/2017/07/10/index.md)
 
+##### Battle of Mosul (2016-17)
 # Iraqi Prime Minister Haider al-Abadi declares the battle for Mosul over, after the majority of ISIL militants were defeated. 
 
 The battle has taken nine months, leaving large areas in ruins and thousands of civilians dead.

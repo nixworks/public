@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/7/the-magistrate-court-in-bhopal-india-convicts-eight-people-one-posthumously-for-their-role-in-the-bhopal-disaster-industrial-castastrophe.html)  [JSON](/news/2010/06/7/the-magistrate-court-in-bhopal-india-convicts-eight-people-one-posthumously-for-their-role-in-the-bhopal-disaster-industrial-castastrophe.json)  [XML](/news/2010/06/7/the-magistrate-court-in-bhopal-india-convicts-eight-people-one-posthumously-for-their-role-in-the-bhopal-disaster-industrial-castastrophe.xml)  
+
 ### [2010-06-7](/news/2010/06/7/index.md)
 
+##### Bhopal
 # The Magistrate court in Bhopal, India convicts eight people, one posthumously, for their role in the Bhopal disaster industrial castastrophe 25 years ago in 1984. 
 
 Eight accused were sentenced to 2 years in jail in the 26-year-old case. Seven got bail on submission of a surety of Rs 25,000 by a trial court. One of the accused had died during the trial.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j2dF0b8DtsKtBQBiUC1yQeK4ASbQ)
 2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/2010675255855283.html)
@@ -18,5 +22,5 @@ Eight accused were sentenced to 2 years in jail in the 26-year-old case. Seven g
 1. [ Indian activists mark the 25th anniversary of the industrial disaster that took place in Bhopal which led to 3,787 deaths. ](/news/2009/12/3/indian-activists-mark-the-25th-anniversary-of-the-industrial-disaster-that-took-place-in-bhopal-which-led-to-3-787-deaths.md) _Context: Bhopal, Bhopal disaster, India_
 2. [Police kill eight Students Islamic Movement of India members after their prison escape in Bhopal, India. ](/news/2016/10/31/police-kill-eight-students-islamic-movement-of-india-members-after-their-prison-escape-in-bhopal-india.md) _Context: Bhopal, India_
 3. [Indian government ministers meet for the first time as they re-examine the 1984 Bhopal disaster. ](/news/2010/06/18/indian-government-ministers-meet-for-the-first-time-as-they-re-examine-the-1984-bhopal-disaster.md) _Context: Bhopal disaster, India_
-4. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
-5. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
+4. [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md) _Context: India_
+5. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: India_

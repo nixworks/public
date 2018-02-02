@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/15/the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-rules-unanimously-that-the-california-gubernatorial-recall-electi.html)  [JSON](/news/2003/09/15/the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-rules-unanimously-that-the-california-gubernatorial-recall-electi.json)  [XML](/news/2003/09/15/the-united-states-court-of-appeals-for-the-ninth-circuit-in-san-francisco-rules-unanimously-that-the-california-gubernatorial-recall-electi.xml)  
+
 ### [2003-09-15](/news/2003/09/15/index.md)
 
+##### United States Court of Appeals for the Ninth Circuit
 #  The United States Court of Appeals for the Ninth Circuit in San Francisco rules unanimously that the California gubernatorial recall election be postponed because several large counties, including Los Angeles County, have not upgraded their voting machines to replace the punched card systems which have consistently resulted in a significant number of uncountable votes (and thus unrepresented citizens).
 
 

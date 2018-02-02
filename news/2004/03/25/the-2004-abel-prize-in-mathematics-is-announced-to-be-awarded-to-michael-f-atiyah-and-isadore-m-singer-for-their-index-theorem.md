@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/25/the-2004-abel-prize-in-mathematics-is-announced-to-be-awarded-to-michael-f-atiyah-and-isadore-m-singer-for-their-index-theorem.html)  [JSON](/news/2004/03/25/the-2004-abel-prize-in-mathematics-is-announced-to-be-awarded-to-michael-f-atiyah-and-isadore-m-singer-for-their-index-theorem.json)  [XML](/news/2004/03/25/the-2004-abel-prize-in-mathematics-is-announced-to-be-awarded-to-michael-f-atiyah-and-isadore-m-singer-for-their-index-theorem.xml)  
+
 ### [2004-03-25](/news/2004/03/25/index.md)
 
+##### Abel Prize
 #  The 2004 Abel Prize in mathematics is announced to be awarded to Michael F. Atiyah and Isadore M. Singer for their index theorem. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aftenposten](http://www.aftenposten.no/english/local/article760518.ece)
 

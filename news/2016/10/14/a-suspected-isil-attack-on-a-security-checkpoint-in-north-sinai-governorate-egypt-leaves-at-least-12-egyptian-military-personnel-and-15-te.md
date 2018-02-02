@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/14/a-suspected-isil-attack-on-a-security-checkpoin
 
 ### [2016-10-14](/news/2016/10/14/index.md)
 
+##### Sinai insurgency
 # A suspected ISIL attack on a security checkpoint in North Sinai Governorate, Egypt, leaves at least 12 Egyptian military personnel and 15 terrorists dead. 
 
 

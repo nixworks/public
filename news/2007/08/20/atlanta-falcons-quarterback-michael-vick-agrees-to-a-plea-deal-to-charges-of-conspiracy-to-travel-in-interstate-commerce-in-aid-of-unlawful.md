@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/20/atlanta-falcons-quarterback-michael-vick-agrees-to-a-plea-deal-to-charges-of-conspiracy-to-travel-in-interstate-commerce-in-aid-of-unlawful.html)  [JSON](/news/2007/08/20/atlanta-falcons-quarterback-michael-vick-agrees-to-a-plea-deal-to-charges-of-conspiracy-to-travel-in-interstate-commerce-in-aid-of-unlawful.json)  [XML](/news/2007/08/20/atlanta-falcons-quarterback-michael-vick-agrees-to-a-plea-deal-to-charges-of-conspiracy-to-travel-in-interstate-commerce-in-aid-of-unlawful.xml)  
+
 ### [2007-08-20](/news/2007/08/20/index.md)
 
+##### Atlanta Falcons
 #  Atlanta Falcons quarterback Michael Vick agrees to a plea deal to charges of conspiracy to travel in interstate commerce in aid of unlawful activities and conspiracy to sponsor a dog in an animal fighting venture in Richmond, Virginia, USA. 
 
 Atlanta Falcons quarterback Michael Vick accepted a plea deal Monday and lengthy prison sentence to avoid additional federal charges in a dogfighting case that has driven his NFL career to a halt.
 
 
-### Source:
+### Sources:
 
 1. [ESPN.com](http://sports.espn.go.com/nfl/news/story?id=2983121)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fheadshots%2Fnfl%2Fplayers%2Ffull%2F2549.png)

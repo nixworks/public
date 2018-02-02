@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/02/6/chokri-belaid-the-general-secretary-of-the-patriotic-democratic-party-is-shot-dead-outside-his-house-in-tunis-leading-to-reported-clashes.html)  [JSON](/news/2013/02/6/chokri-belaid-the-general-secretary-of-the-patriotic-democratic-party-is-shot-dead-outside-his-house-in-tunis-leading-to-reported-clashes.json)  [XML](/news/2013/02/6/chokri-belaid-the-general-secretary-of-the-patriotic-democratic-party-is-shot-dead-outside-his-house-in-tunis-leading-to-reported-clashes.xml)  
+
 ### [2013-02-6](/news/2013/02/6/index.md)
 
+##### Chokri Belaid
 # Chokri Belaid, the general secretary of the Patriotic Democratic Party, is shot dead outside his house in Tunis, leading to reported clashes between the police and hundreds of protesters. The Prime Minister of Tunisia Hamadi Jebali claims that a new government will be formed within one day. 
 
 The prime minister said he would dissolve the Islamist-led government after a politician, Chokri Belaid, was killed and thousands took to the streets in protest.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2013/02/07/world/africa/chokri-belaid-tunisian-opposition-figure-is-killed.html)
+1. [The New York Times](https://www.nytimes.com/2013/02/07/world/africa/chokri-belaid-tunisian-opposition-figure-is-killed.html)
 1. [Cover Image](https://static01.nyt.com/images/2013/02/07/world/tunisia1/tunisia1-videoLarge.jpg)
 
 ### Related:

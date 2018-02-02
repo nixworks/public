@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/9/president-of-venezuela-hugo-cha-vez-announces-that-he-has-agreed-to-meet-president-of-colombia-juan-manuel-santos-tomorrow-for-talks-to-end.html)  [JSON](/news/2010/08/9/president-of-venezuela-hugo-cha-vez-announces-that-he-has-agreed-to-meet-president-of-colombia-juan-manuel-santos-tomorrow-for-talks-to-end.json)  [XML](/news/2010/08/9/president-of-venezuela-hugo-cha-vez-announces-that-he-has-agreed-to-meet-president-of-colombia-juan-manuel-santos-tomorrow-for-talks-to-end.xml)  
+
 ### [2010-08-9](/news/2010/08/9/index.md)
 
+##### Venezuelan President
 # President of Venezuela Hugo Chavez announces that he has agreed to meet President of Colombia Juan Manuel Santos tomorrow for talks to end strained relations between the two countries. 
 
 Venezuelan, Colombian presidents expected to meet on Tuesday to mend diplomatic ties.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/20108823266455303.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,9 +1,18 @@
+
+Formats: [HTML](/news/2002/12/22/a-senior-member-of-eta-ibon-femandez-de-iradi-escaped-from-french-custody-yesterday-he-and-a-woman-companion-was-arrested-wednesday-after.html)  [JSON](/news/2002/12/22/a-senior-member-of-eta-ibon-femandez-de-iradi-escaped-from-french-custody-yesterday-he-and-a-woman-companion-was-arrested-wednesday-after.json)  [XML](/news/2002/12/22/a-senior-member-of-eta-ibon-femandez-de-iradi-escaped-from-french-custody-yesterday-he-and-a-woman-companion-was-arrested-wednesday-after.xml)  
+
 ### [2002-12-22](/news/2002/12/22/index.md)
 
+##### ETA
 # A senior member of ETA, Ibon Femandez de Iradi, escaped from French custody yesterday. He and a woman companion was arrested Wednesday after their car was found to have false number plates. Ibon Femandez de Iradi was the logistics chief for ETA, a Basque separatist group which has been implicated in terrorist activities.
 
 
 
+
+### Changes:
+
+1. [A senior member of ETA, Ibon Femandez de Iradi, escaped from French custody yesterday. He and a woman companion was arrested Wednesday after their car was found to have false number plates. Ibon Femandez de Iradi was the logistics chief for ETA, a Basque separatist group which has been implicated in terrorist activities.](/news/2002/12/22/a-senior-member-of-eta-ibon-femandez-de-iradi-escaped-from-french-custody-yesterday-he-and-a-woman-companion-was-arrested-wednesday-afte.md) _2017-08-25 03:15:18 (First version)_
+1. [A senior member of ETA, Ibon Femandez de Iradi, escaped from French custody yesterday. He and a woman companion was arrested Wednesday after their car was found to have false number plates. Ibon Femandez de Iradi was the logistics chief for ETA, a Basque separatist group which has been implicated in terrorist activities.](/news/2002/12/22/a-senior-member-of-eta-ibon-femandez-de-iradi-escaped-from-french-custody-yesterday-he-and-a-woman-companion-was-arrested-wednesday-after.md) _(Current version)_
 
 ### Related:
 
@@ -12,8 +21,3 @@
 3. [ Members of Basque separatist movement ETA vow not to surrender their weapons while still seeking independence from Spain, despite the organisation having called a ceasefire six months ago. ](/news/2006/09/24/members-of-basque-separatist-movement-eta-vow-not-to-surrender-their-weapons-while-still-seeking-independence-from-spain-despite-the-organ.md) _Context: Basque, ETA_
 4. [ In Spain, police arrests 6 suspected members of the Basque separatist group ETA ](/news/2005/07/27/in-spain-police-arrests-6-suspected-members-of-the-basque-separatist-group-eta.md) _Context: Basque, ETA_
 5. [ In Spain, 250,000 people demonstrate in Madrid against a government plan to negotiate with the Basque ETA ](/news/2005/06/5/in-spain-250-000-people-demonstrate-in-madrid-against-a-government-plan-to-negotiate-with-the-basque-eta.md) _Context: Basque, ETA_
-
-### Changes:
-
-1. [A senior member of ETA, Ibon Femandez de Iradi, escaped from French custody yesterday. He and a woman companion was arrested Wednesday after their car was found to have false number plates. Ibon Femandez de Iradi was the logistics chief for ETA, a Basque separatist group which has been implicated in terrorist activities.](/news/2002/12/22/a-senior-member-of-eta-ibon-femandez-de-iradi-escaped-from-french-custody-yesterday-he-and-a-woman-companion-was-arrested-wednesday-afte.md) _2017-08-25 03:15:18 (First version)_
-1. [A senior member of ETA, Ibon Femandez de Iradi, escaped from French custody yesterday. He and a woman companion was arrested Wednesday after their car was found to have false number plates. Ibon Femandez de Iradi was the logistics chief for ETA, a Basque separatist group which has been implicated in terrorist activities.](/news/2002/12/22/a-senior-member-of-eta-ibon-femandez-de-iradi-escaped-from-french-custody-yesterday-he-and-a-woman-companion-was-arrested-wednesday-after.md) _(Current version)_

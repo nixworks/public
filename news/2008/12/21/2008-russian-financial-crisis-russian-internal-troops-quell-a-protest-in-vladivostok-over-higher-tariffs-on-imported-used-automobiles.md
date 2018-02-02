@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/21/2008-russian-financial-crisis-russian-internal-troops-quell-a-protest-in-vladivostok-over-higher-tariffs-on-imported-used-automobiles.html)  [JSON](/news/2008/12/21/2008-russian-financial-crisis-russian-internal-troops-quell-a-protest-in-vladivostok-over-higher-tariffs-on-imported-used-automobiles.json)  [XML](/news/2008/12/21/2008-russian-financial-crisis-russian-internal-troops-quell-a-protest-in-vladivostok-over-higher-tariffs-on-imported-used-automobiles.xml)  
+
 ### [2008-12-21](/news/2008/12/21/index.md)
 
+##### 2008 Russian financial crisis
 #  2008 Russian financial crisis: Russian Internal Troops quell a protest in Vladivostok over higher tariffs on imported used automobiles. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,10117,24832652-401,00.html)
 
@@ -15,4 +19,4 @@
 2. [Economic leaders assemble on Russky Island, off the coast of Vladivostok, Russia, for the forum's 24th summit on September 8th and 9th. ](/news/2012/09/7/economic-leaders-assemble-on-russky-island-off-the-coast-of-vladivostok-russia-for-the-forum-s-24th-summit-on-september-8th-and-9th.md) _Context: Russia, Vladivostok_
 3. [The Bridge to Russky Island, a giant cable-stayed bridge currently under construction south of Vladivostok, Russia, catches fire due to safety violations during welding. ](/news/2011/12/13/the-bridge-to-russky-island-a-giant-cable-stayed-bridge-currently-under-construction-south-of-vladivostok-russia-catches-fire-due-to-safe.md) _Context: Russia, Vladivostok_
 4. [ 2008 Russian financial crisis: Russian Deputy Economics Minister Andrei Klepach claims that Russia may face at least two quarters of economic decline in the future. ](/news/2008/12/12/2008-russian-financial-crisis-russian-deputy-economics-minister-andrei-klepach-claims-that-russia-may-face-at-least-two-quarters-of-econom.md) _Context: 2008 Russian financial crisis, Russia_
-5. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Russia_
+5. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_

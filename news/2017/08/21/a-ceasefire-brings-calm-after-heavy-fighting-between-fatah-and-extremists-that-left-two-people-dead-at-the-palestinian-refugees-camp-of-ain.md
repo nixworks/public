@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/21/a-ceasefire-brings-calm-after-heavy-fighting-be
 
 ### [2017-08-21](/news/2017/08/21/index.md)
 
+##### Ain al-Hilweh conflict
 # A ceasefire brings calm after heavy fighting between Fatah and extremists that left two people dead at the Palestinian refugees camp of Ain al-Hilweh, Lebanon. 
 
 A cease-fire Sunday brought a tentative calm to Ain al-Hilweh after days of clashes shook the south Lebanon Palestinian refugee camp.

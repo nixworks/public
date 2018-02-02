@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/12/the-miners-strike-movement-in-south-africa-extends-to-anglo-platinum-in-rustenburg-at-least-45-people-have-died-in-the-ongoing-lonmin-mari.html)  [JSON](/news/2012/09/12/the-miners-strike-movement-in-south-africa-extends-to-anglo-platinum-in-rustenburg-at-least-45-people-have-died-in-the-ongoing-lonmin-mari.json)  [XML](/news/2012/09/12/the-miners-strike-movement-in-south-africa-extends-to-anglo-platinum-in-rustenburg-at-least-45-people-have-died-in-the-ongoing-lonmin-mari.xml)  
+
 ### [2012-09-12](/news/2012/09/12/index.md)
 
+##### South Africa
 # The miners' strike movement in South Africa extends to Anglo Platinum in Rustenburg. At least 45 people have died in the ongoing Lonmin Marikana miners' strike. 
 
 More than 1,500 striking workers moving from shaft to shaft at Amplats platinum mine urging others to put down tools.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/09/201291265611275964.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/12/20129127318145734_20.jpg)

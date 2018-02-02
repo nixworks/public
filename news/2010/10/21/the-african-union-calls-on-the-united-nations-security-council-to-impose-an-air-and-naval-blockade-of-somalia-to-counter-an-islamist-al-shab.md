@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/21/the-african-union-calls-on-the-united-nations-security-council-to-impose-an-air-and-naval-blockade-of-somalia-to-counter-an-islamist-al-shab.html)  [JSON](/news/2010/10/21/the-african-union-calls-on-the-united-nations-security-council-to-impose-an-air-and-naval-blockade-of-somalia-to-counter-an-islamist-al-shab.json)  [XML](/news/2010/10/21/the-african-union-calls-on-the-united-nations-security-council-to-impose-an-air-and-naval-blockade-of-somalia-to-counter-an-islamist-al-shab.xml)  
+
 ### [2010-10-21](/news/2010/10/21/index.md)
 
+##### African Union
 # The African Union calls on the United Nations Security Council to impose an air and naval blockade of Somalia to counter an Islamist Al-Shabaab militant insurgency and piracy. 
 
 There should be a complete naval and air blockade of Somalia, the African Union tells the United Nations Security Council.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jqmVEwT19L5JmN2I32bq_GCzX_qg?docId=CNG.11954f53a361a13ab8bbeec0a689bbb3.561)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11603023)

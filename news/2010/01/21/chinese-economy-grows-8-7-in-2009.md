@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/21/chinese-economy-grows-8-7-in-2009.html)  [JSON](/news/2010/01/21/chinese-economy-grows-8-7-in-2009.json)  [XML](/news/2010/01/21/chinese-economy-grows-8-7-in-2009.xml)  
+
 ### [2010-01-21](/news/2010/01/21/index.md)
 
+##### China
 # Chinese economy grows 8.7% in 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8471613.stm)
 2. [China Daily](http://www.chinadaily.com.cn/bizchina/2010-01/21/content_9354887.htm)

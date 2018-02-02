@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/1/the-shinmoedake-volcano-on-the-japanese-island-of-kya-sha-erupts-again-with-its-biggest-explosion-since-becoming-active-again.html)  [JSON](/news/2011/02/1/the-shinmoedake-volcano-on-the-japanese-island-of-kya-sha-erupts-again-with-its-biggest-explosion-since-becoming-active-again.json)  [XML](/news/2011/02/1/the-shinmoedake-volcano-on-the-japanese-island-of-kya-sha-erupts-again-with-its-biggest-explosion-since-becoming-active-again.xml)  
+
 ### [2011-02-1](/news/2011/02/1/index.md)
 
+##### Shinmoedake
 # The Shinmoedake volcano on the Japanese island of Kyushu erupts again with its biggest explosion since becoming active again. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jhpJUyfitCQbLhIwKIDUJhn1Gxcg?docId=8c79fcef3f664b5ebc7cd3a03937df5e)
 

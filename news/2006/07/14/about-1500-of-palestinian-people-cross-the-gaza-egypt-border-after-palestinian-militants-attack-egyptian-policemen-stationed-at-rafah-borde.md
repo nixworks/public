@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/14/about-1500-of-palestinian-people-cross-the-gaza-egypt-border-after-palestinian-militants-attack-egyptian-policemen-stationed-at-rafah-borde.html)  [JSON](/news/2006/07/14/about-1500-of-palestinian-people-cross-the-gaza-egypt-border-after-palestinian-militants-attack-egyptian-policemen-stationed-at-rafah-borde.json)  [XML](/news/2006/07/14/about-1500-of-palestinian-people-cross-the-gaza-egypt-border-after-palestinian-militants-attack-egyptian-policemen-stationed-at-rafah-borde.xml)  
+
 ### [2006-07-14](/news/2006/07/14/index.md)
 
+##### Palestinian
 #  About 1500 of Palestinian people cross the Gaza-Egypt border after Palestinian militants attack Egyptian policemen stationed at Rafah border terminal, blowing a hole in the wall near it. 
 
 Gunmen blow a hole in wall on Gaza-Egypt border, allowing Palestinians to enter Strip
 
 
-### Source:
+### Sources:
 
 1. [AL-JAZEERA](http://english.aljazeera.net/NR/exeres/7519DF56-D356-4E1B-971C-EEF17C65027A.htm)
 2. [Associated Press](http://www.breitbart.com/news/2006/07/14/D8IRROQOD.html)

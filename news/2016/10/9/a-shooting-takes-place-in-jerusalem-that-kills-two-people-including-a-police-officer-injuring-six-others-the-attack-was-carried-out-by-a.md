@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/9/a-shooting-takes-place-in-jerusalem-that-kills-t
 
 ### [2016-10-9](/news/2016/10/9/index.md)
 
+##### Israeli-Palestinian conflict (2015-present)
 # A shooting takes place in Jerusalem that kills two people, including a police officer, injuring six others. The attack was carried out by a Palestinian gunman who opened fire from a vehicle on people waiting at a train station and then the nearby police headquarters in Jerusalem. Israeli police kill the gunman. 
 
 

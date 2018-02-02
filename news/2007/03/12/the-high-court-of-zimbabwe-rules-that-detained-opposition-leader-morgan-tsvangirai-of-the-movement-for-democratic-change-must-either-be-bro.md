@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/12/the-high-court-of-zimbabwe-rules-that-detained-opposition-leader-morgan-tsvangirai-of-the-movement-for-democratic-change-must-either-be-bro.html)  [JSON](/news/2007/03/12/the-high-court-of-zimbabwe-rules-that-detained-opposition-leader-morgan-tsvangirai-of-the-movement-for-democratic-change-must-either-be-bro.json)  [XML](/news/2007/03/12/the-high-court-of-zimbabwe-rules-that-detained-opposition-leader-morgan-tsvangirai-of-the-movement-for-democratic-change-must-either-be-bro.xml)  
+
 ### [2007-03-12](/news/2007/03/12/index.md)
 
+##### Zimbabwe
 #  The High Court of Zimbabwe rules that detained opposition leader Morgan Tsvangirai of the Movement for Democratic Change must either be brought into court on Tuesday or released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6444259.stm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/7/senior-citizens-groups-began-a-call-for-a-boycott-of-british-owned-pharmaceuticals-company-glaxosmithkline-the-largest-in-the-world-after.html)  [JSON](/news/2003/02/7/senior-citizens-groups-began-a-call-for-a-boycott-of-british-owned-pharmaceuticals-company-glaxosmithkline-the-largest-in-the-world-after.json)  [XML](/news/2003/02/7/senior-citizens-groups-began-a-call-for-a-boycott-of-british-owned-pharmaceuticals-company-glaxosmithkline-the-largest-in-the-world-after.xml)  
+
 ### [2003-02-7](/news/2003/02/7/index.md)
 
+##### Senior citizen
 #  Senior citizens groups began a call for a boycott of British-owned pharmaceuticals company GlaxoSmithKline, the largest in the world, after the company announced that it would no longer sell drugs to Canadian companies that sell drugs at steep discounts to Americans over the Internet. The boycott would include such brands as Tums antacid, Aquafresh toothpaste, Contac cold remedy, Paxil and Flonase.
 
 

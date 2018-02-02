@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/17/john-fahey-former-premier-of-new-south-wales-is-appointed-as-the-president-of-the-world-anti-doping-agency.html)  [JSON](/news/2007/10/17/john-fahey-former-premier-of-new-south-wales-is-appointed-as-the-president-of-the-world-anti-doping-agency.json)  [XML](/news/2007/10/17/john-fahey-former-premier-of-new-south-wales-is-appointed-as-the-president-of-the-world-anti-doping-agency.xml)  
+
 ### [2007-10-17](/news/2007/10/17/index.md)
 
+##### John Fahey
 #  John Fahey, former Premier of New South Wales, is appointed as the President of the World Anti-Doping Agency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,22604894-11088,00.html)
 

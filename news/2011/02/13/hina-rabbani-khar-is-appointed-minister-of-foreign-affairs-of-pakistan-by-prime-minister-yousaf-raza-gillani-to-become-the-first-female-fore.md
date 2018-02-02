@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/13/hina-rabbani-khar-is-appointed-minister-of-foreign-affairs-of-pakistan-by-prime-minister-yousaf-raza-gillani-to-become-the-first-female-fore.html)  [JSON](/news/2011/02/13/hina-rabbani-khar-is-appointed-minister-of-foreign-affairs-of-pakistan-by-prime-minister-yousaf-raza-gillani-to-become-the-first-female-fore.json)  [XML](/news/2011/02/13/hina-rabbani-khar-is-appointed-minister-of-foreign-affairs-of-pakistan-by-prime-minister-yousaf-raza-gillani-to-become-the-first-female-fore.xml)  
+
 ### [2011-02-13](/news/2011/02/13/index.md)
 
+##### Hina Rabbani Khar
 # Hina Rabbani Khar is appointed Minister of Foreign Affairs of Pakistan by Prime Minister Yousaf Raza Gillani to become the first female Foreign Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Star](http://thestar.com.my/news/story.asp?file=/2011/2/12/nation)
 

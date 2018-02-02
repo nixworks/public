@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/29/the-international-monetary-fund-says-it-will-take-unprecedented-measures-to-help-poor-countries-cope-with-the-economic-downturn.html)  [JSON](/news/2009/07/29/the-international-monetary-fund-says-it-will-take-unprecedented-measures-to-help-poor-countries-cope-with-the-economic-downturn.json)  [XML](/news/2009/07/29/the-international-monetary-fund-says-it-will-take-unprecedented-measures-to-help-poor-countries-cope-with-the-economic-downturn.xml)  
+
 ### [2009-07-29](/news/2009/07/29/index.md)
 
+##### International Monetary Fund
 #  The International Monetary Fund says it will take "unprecedented" measures to help poor countries cope with the economic downturn. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8175442.stm)
 

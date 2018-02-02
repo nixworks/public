@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/5/nobel-prize-winner-anti-apartheid-activist-and-former-south-african-president-nelson-mandela-dies-at-age-95.html)  [JSON](/news/2013/12/5/nobel-prize-winner-anti-apartheid-activist-and-former-south-african-president-nelson-mandela-dies-at-age-95.json)  [XML](/news/2013/12/5/nobel-prize-winner-anti-apartheid-activist-and-former-south-african-president-nelson-mandela-dies-at-age-95.xml)  
+
 ### [2013-12-5](/news/2013/12/5/index.md)
 
+##### South Africa
 # Nobel prize winner, anti-Apartheid activist, and former South African president, Nelson Mandela, dies at age 95. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25249520)
 2. [World News](http://worldnews.nbcnews.com/_news/2013/12/05/17500450-nelson-mandela-dead-at-95)

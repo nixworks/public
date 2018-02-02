@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/1/a-2-meter-6-5-feet-tall-12th-century-sandstone-s
 
 ### [2017-08-1](/news/2017/08/1/index.md)
 
+##### 12th century
 # A 2 meter (6.5 feet) tall 12th century sandstone statue of a human figure is unearthed by archaeologists during an excavation of a Khmer Empire-era hospital built during the reign of King Jayavarman VII at Cambodia's Angkor Wat temple complex in Siem Reap Province. 
 
 The discovery at Angkor Wat has been described as &quot;like something that only happens in the movies&quot;.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/7/malaysia-s-royal-police-quell-demonstrations-in-kuala-lumpur-against-the-use-of-the-english-language-in-schools.html)  [JSON](/news/2009/03/7/malaysia-s-royal-police-quell-demonstrations-in-kuala-lumpur-against-the-use-of-the-english-language-in-schools.json)  [XML](/news/2009/03/7/malaysia-s-royal-police-quell-demonstrations-in-kuala-lumpur-against-the-use-of-the-english-language-in-schools.xml)  
+
 ### [2009-03-7](/news/2009/03/7/index.md)
 
+##### Malaysia
 #  Malaysia's Royal Police quell demonstrations in Kuala Lumpur against the use of the English language in schools. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/7930243.stm)
 

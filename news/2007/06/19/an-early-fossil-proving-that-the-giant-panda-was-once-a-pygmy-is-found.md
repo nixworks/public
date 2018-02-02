@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/19/an-early-fossil-proving-that-the-giant-panda-was-once-a-pygmy-is-found.html)  [JSON](/news/2007/06/19/an-early-fossil-proving-that-the-giant-panda-was-once-a-pygmy-is-found.json)  [XML](/news/2007/06/19/an-early-fossil-proving-that-the-giant-panda-was-once-a-pygmy-is-found.xml)  
+
 ### [2007-06-19](/news/2007/06/19/index.md)
 
+##### fossil
 #  An early fossil proving that the giant panda was once a pygmy is found. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/uk/science/article1951118.ece)
 

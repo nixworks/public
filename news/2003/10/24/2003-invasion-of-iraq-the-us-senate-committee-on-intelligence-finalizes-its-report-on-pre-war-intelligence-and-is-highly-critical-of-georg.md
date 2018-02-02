@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/24/2003-invasion-of-iraq-the-us-senate-committee-on-intelligence-finalizes-its-report-on-pre-war-intelligence-and-is-highly-critical-of-georg.html)  [JSON](/news/2003/10/24/2003-invasion-of-iraq-the-us-senate-committee-on-intelligence-finalizes-its-report-on-pre-war-intelligence-and-is-highly-critical-of-georg.json)  [XML](/news/2003/10/24/2003-invasion-of-iraq-the-us-senate-committee-on-intelligence-finalizes-its-report-on-pre-war-intelligence-and-is-highly-critical-of-georg.xml)  
+
 ### [2003-10-24](/news/2003/10/24/index.md)
 
+##### 2003 invasion of Iraq
 #  2003 invasion of Iraq: The US Senate Committee on Intelligence finalizes its report on pre-war intelligence and is highly critical of George Tenet and the quality of US intelligence about Iraq's weapons.
 
 

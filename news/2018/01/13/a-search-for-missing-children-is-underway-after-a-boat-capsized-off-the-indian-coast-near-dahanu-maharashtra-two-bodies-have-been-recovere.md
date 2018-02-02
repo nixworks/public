@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/13/a-search-for-missing-children-is-underway-after
 
 ### [2018-01-13](/news/2018/01/13/index.md)
 
+##### Indian
 # A search for missing children is underway after a boat capsized off the Indian coast near Dahanu, Maharashtra. Two bodies have been recovered. 
 
 Three bodies are found off Mumbai, with 32 of the 40 students on board rescued so far.

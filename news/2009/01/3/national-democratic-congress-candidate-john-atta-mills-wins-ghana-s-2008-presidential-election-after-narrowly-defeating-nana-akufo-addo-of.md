@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/3/national-democratic-congress-candidate-john-atta-mills-wins-ghana-s-2008-presidential-election-after-narrowly-defeating-nana-akufo-addo-of.html)  [JSON](/news/2009/01/3/national-democratic-congress-candidate-john-atta-mills-wins-ghana-s-2008-presidential-election-after-narrowly-defeating-nana-akufo-addo-of.json)  [XML](/news/2009/01/3/national-democratic-congress-candidate-john-atta-mills-wins-ghana-s-2008-presidential-election-after-narrowly-defeating-nana-akufo-addo-of.xml)  
+
 ### [2009-01-3](/news/2009/01/3/index.md)
 
+##### National Democratic Congress
 #  National Democratic Congress candidate John Atta Mills wins Ghana's 2008 presidential election after narrowly defeating Nana Akufo-Addo of the incumbent New Patriotic Party in a run-off. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7809451.stm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/06/15/george-morber-senior-and-carolyn-frederick-are-murdered-by-angel-maturino-resendiz-in-gorham-illinois-they-are-his-eighth-and-ninth-victi.html)  [JSON](/news/1999/06/15/george-morber-senior-and-carolyn-frederick-are-murdered-by-angel-maturino-resendiz-in-gorham-illinois-they-are-his-eighth-and-ninth-victi.json)  [XML](/news/1999/06/15/george-morber-senior-and-carolyn-frederick-are-murdered-by-angel-maturino-resendiz-in-gorham-illinois-they-are-his-eighth-and-ninth-victi.xml)  
+
 ### [1999-06-15](/news/1999/06/15/index.md)
 
+##### Angel Maturino Resendiz
 #  George Morber Senior and Carolyn Frederick are murdered by Angel Maturino Resendiz in Gorham, Illinois. They are his eighth and ninth victims, in his seventh and final incident.
 
 

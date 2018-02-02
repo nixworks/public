@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/17/english-writer-david-irving-is-arrested-in-vienna-on-charges-of-denying-the-holocaust-a-criminal-offence-in-austria.html)  [JSON](/news/2005/11/17/english-writer-david-irving-is-arrested-in-vienna-on-charges-of-denying-the-holocaust-a-criminal-offence-in-austria.json)  [XML](/news/2005/11/17/english-writer-david-irving-is-arrested-in-vienna-on-charges-of-denying-the-holocaust-a-criminal-offence-in-austria.xml)  
+
 ### [2005-11-17](/news/2005/11/17/index.md)
 
+##### David Irving
 #  English writer David Irving is arrested in Vienna on charges of denying the Holocaust, a criminal offence in Austria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.news.yahoo.com/17112005/325/irving-arrested-holocaust-denial.html)
 

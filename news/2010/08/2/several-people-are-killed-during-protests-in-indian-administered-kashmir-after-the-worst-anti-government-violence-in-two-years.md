@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/2/several-people-are-killed-during-protests-in-indian-administered-kashmir-after-the-worst-anti-government-violence-in-two-years.html)  [JSON](/news/2010/08/2/several-people-are-killed-during-protests-in-indian-administered-kashmir-after-the-worst-anti-government-violence-in-two-years.json)  [XML](/news/2010/08/2/several-people-are-killed-during-protests-in-indian-administered-kashmir-after-the-worst-anti-government-violence-in-two-years.xml)  
+
 ### [2010-08-2](/news/2010/08/2/index.md)
 
+##### Jammu and Kashmir
 # Several people are killed during protests in Indian-administered Kashmir after the worst anti-government violence in two years. 
 
 Seven civilians died in continuing violence in the Kashmir Valley on Monday as thousands of people defied curfew at several places. At least 50 people were injured. Mobs set on fire several government
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10839411)
 2. [The Hindu](http://www.thehindu.com/news/national/article548095.ece?homepage=true)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/1/militants-launch-two-attacks-on-the-indian-army-in-indian-administered-kashmir-resulting-in-two-soldiers-killed-and-19-injured.html)  [JSON](/news/2007/06/1/militants-launch-two-attacks-on-the-indian-army-in-indian-administered-kashmir-resulting-in-two-soldiers-killed-and-19-injured.json)  [XML](/news/2007/06/1/militants-launch-two-attacks-on-the-indian-army-in-indian-administered-kashmir-resulting-in-two-soldiers-killed-and-19-injured.xml)  
+
 ### [2007-06-1](/news/2007/06/1/index.md)
 
+##### Indian Army
 #  Militants launch two attacks on the Indian Army in Indian-administered Kashmir, resulting in two soldiers killed and 19 injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/06/01/kashmir.violence/index.html?eref=rss_world)
 

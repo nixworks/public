@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/29/voters-in-romania-go-to-the-polls-for-an-impeachment-referendum-against-the-president-of-romania-traian-basescu.html)  [JSON](/news/2012/07/29/voters-in-romania-go-to-the-polls-for-an-impeachment-referendum-against-the-president-of-romania-traian-basescu.json)  [XML](/news/2012/07/29/voters-in-romania-go-to-the-polls-for-an-impeachment-referendum-against-the-president-of-romania-traian-basescu.xml)  
+
 ### [2012-07-29](/news/2012/07/29/index.md)
 
+##### Romania
 # Voters in Romania go to the polls for an impeachment referendum against the President of Romania Traian Basescu. 
 
 Turnout of less than 50% means Romanian President Traian Basescu survives a strong vote against him in a referendum on his impeachment.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19034173)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61891000/jpg/_61891680_015453202.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/26/democratic-party-nominee-hillary-clinton-and-re
 
 ### [2016-09-26](/news/2016/09/26/index.md)
 
+##### 2016 U.S. presidential election
 # Democratic Party nominee Hillary Clinton and Republican Party nominee Donald Trump hold the first presidential debate of the 2016 presidential election at Hofstra University in Hempstead, New York. 
 
 The candidates prepare to go head-to-head for the first presidential debate which is expected to pull in over 100 million viewers.

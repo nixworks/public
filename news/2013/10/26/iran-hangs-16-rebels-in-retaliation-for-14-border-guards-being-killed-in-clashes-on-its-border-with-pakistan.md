@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/26/iran-hangs-16-rebels-in-retaliation-for-14-border-guards-being-killed-in-clashes-on-its-border-with-pakistan.html)  [JSON](/news/2013/10/26/iran-hangs-16-rebels-in-retaliation-for-14-border-guards-being-killed-in-clashes-on-its-border-with-pakistan.json)  [XML](/news/2013/10/26/iran-hangs-16-rebels-in-retaliation-for-14-border-guards-being-killed-in-clashes-on-its-border-with-pakistan.xml)  
+
 ### [2013-10-26](/news/2013/10/26/index.md)
 
+##### Iran
 # Iran hangs 16 rebels in retaliation for 14 border guards being killed in clashes on its border with Pakistan. 
 
 Sixteen imprisoned rebels have been hanged in south-eastern Iran in retaliation for a deadly ambush on border guards, Iranian officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24682729)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70726000/jpg/_70726465_83860338.jpg)

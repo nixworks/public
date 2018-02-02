@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/28/mexican-drug-war-a-kidnapped-mexican-mayor-is-found-tortured-and-killed-in-the-state-of-oaxaca.html)  [JSON](/news/2012/06/28/mexican-drug-war-a-kidnapped-mexican-mayor-is-found-tortured-and-killed-in-the-state-of-oaxaca.json)  [XML](/news/2012/06/28/mexican-drug-war-a-kidnapped-mexican-mayor-is-found-tortured-and-killed-in-the-state-of-oaxaca.xml)  
+
 ### [2012-06-28](/news/2012/06/28/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: A kidnapped Mexican mayor is found tortured and killed in the state of Oaxaca. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://latino.foxnews.com/latino/news/2012/06/28/kidnapped-mexican-mayor-found-dead/)
 

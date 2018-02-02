@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/05/16/the-state-peace-and-development-council-in-burma-doubles-the-death-toll-from-cyclone-nargis-to-78-000-with-55-917-people-missing-and-19-359.html)  [JSON](/news/2008/05/16/the-state-peace-and-development-council-in-burma-doubles-the-death-toll-from-cyclone-nargis-to-78-000-with-55-917-people-missing-and-19-359.json)  [XML](/news/2008/05/16/the-state-peace-and-development-council-in-burma-doubles-the-death-toll-from-cyclone-nargis-to-78-000-with-55-917-people-missing-and-19-359.xml)  
+
 ### [2008-05-16](/news/2008/05/16/index.md)
 
+##### State Peace and Development Council
 #  The State Peace and Development Council in Burma doubles the death toll from Cyclone Nargis to 78,000 with 55,917 people missing and 19,359 people injured. 
 
 The government’s revised death toll almost doubled, and it also raised the number of missing to 55,917.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/05/17/world/asia/17myanmar.html)
+1. [The New York Times](https://www.nytimes.com/2008/05/17/world/asia/17myanmar.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/05/16/world/myanmar_7575.jpg)
 
 ### Related:

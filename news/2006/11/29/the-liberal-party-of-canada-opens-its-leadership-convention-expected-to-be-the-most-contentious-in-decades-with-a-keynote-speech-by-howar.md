@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/29/the-liberal-party-of-canada-opens-its-leadership-convention-expected-to-be-the-most-contentious-in-decades-with-a-keynote-speech-by-howar.html)  [JSON](/news/2006/11/29/the-liberal-party-of-canada-opens-its-leadership-convention-expected-to-be-the-most-contentious-in-decades-with-a-keynote-speech-by-howar.json)  [XML](/news/2006/11/29/the-liberal-party-of-canada-opens-its-leadership-convention-expected-to-be-the-most-contentious-in-decades-with-a-keynote-speech-by-howar.xml)  
+
 ### [2006-11-29](/news/2006/11/29/index.md)
 
+##### Liberal Party's
 #  The Liberal Party of Canada opens its leadership convention, expected to be the most contentious in decades, with a keynote speech by Howard Dean. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2006/11/29/dean-liberals.html)
 

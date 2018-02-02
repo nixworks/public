@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/26/naoto-kan-announces-his-resignation-as-prime-minister-of-japan-after-the-parliament-passes-two-key-pieces-of-legislation.html)  [JSON](/news/2011/08/26/naoto-kan-announces-his-resignation-as-prime-minister-of-japan-after-the-parliament-passes-two-key-pieces-of-legislation.json)  [XML](/news/2011/08/26/naoto-kan-announces-his-resignation-as-prime-minister-of-japan-after-the-parliament-passes-two-key-pieces-of-legislation.xml)  
+
 ### [2011-08-26](/news/2011/08/26/index.md)
 
+##### Naoto Kan
 # Naoto Kan announces his resignation as Prime Minister of Japan after the Parliament passes two key pieces of legislation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''San Jose Mercury News](http://www.mercurynews.com/news/ci_18760300?nclick_check=1)
 2. [AP via NineMSN](http://news.ninemsn.com.au/world/8290652/japanese-prime-minister-expected-to-resign)

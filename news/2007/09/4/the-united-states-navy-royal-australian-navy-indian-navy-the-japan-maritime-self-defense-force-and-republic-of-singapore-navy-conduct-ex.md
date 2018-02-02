@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/4/the-united-states-navy-royal-australian-navy-indian-navy-the-japan-maritime-self-defense-force-and-republic-of-singapore-navy-conduct-ex.html)  [JSON](/news/2007/09/4/the-united-states-navy-royal-australian-navy-indian-navy-the-japan-maritime-self-defense-force-and-republic-of-singapore-navy-conduct-ex.json)  [XML](/news/2007/09/4/the-united-states-navy-royal-australian-navy-indian-navy-the-japan-maritime-self-defense-force-and-republic-of-singapore-navy-conduct-ex.xml)  
+
 ### [2007-09-4](/news/2007/09/4/index.md)
 
+##### United States Navy
 #  The United States Navy, Royal Australian Navy, Indian Navy, the Japan Maritime Self-Defense Force and Republic of Singapore Navy conduct exercises in the Bay of Bengal, 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6977376.stm)
 

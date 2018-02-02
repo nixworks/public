@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/7/another-earthquake-measuring-at-6-7-strikes-off-
 
 ### [2016-04-7](/news/2016/04/7/index.md)
 
+##### Vanuatu
 # Another earthquake measuring at 6.7 strikes off the northwest of Vanuatu, the third earthquake in the same region this week. However, the Pacific Tsunami Warning Center says the earthquake poses no tsunami threat. 
 
 An earthquake measuring 6.7 has struck the northwest of Vanuatu, the third large earthquake in the same region this week.

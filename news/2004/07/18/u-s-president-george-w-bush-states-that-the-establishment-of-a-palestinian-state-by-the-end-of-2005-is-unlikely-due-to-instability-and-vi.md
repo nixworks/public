@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/18/u-s-president-george-w-bush-states-that-the-establishment-of-a-palestinian-state-by-the-end-of-2005-is-unlikely-due-to-instability-and-vi.html)  [JSON](/news/2004/07/18/u-s-president-george-w-bush-states-that-the-establishment-of-a-palestinian-state-by-the-end-of-2005-is-unlikely-due-to-instability-and-vi.json)  [XML](/news/2004/07/18/u-s-president-george-w-bush-states-that-the-establishment-of-a-palestinian-state-by-the-end-of-2005-is-unlikely-due-to-instability-and-vi.xml)  
+
 ### [2004-07-18](/news/2004/07/18/index.md)
 
+##### U.S. President
 #  U.S. President George W. Bush states that the establishment of a Palestinian state by the end of 2005 is unlikely due to instability and violence in the Palestinian Authority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://fr.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1089695506813&p=1006688055060)
 2. [Maariv](http://www.maarivintl.com/index.cfm?fuseaction=article&articleID=9873)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/24/2014-isla-vista-killings-the-suspected-gunman-in-the-may-23-spree-killing-in-santa-barbara-california-is-named-as-elliot-rodger.html)  [JSON](/news/2014/05/24/2014-isla-vista-killings-the-suspected-gunman-in-the-may-23-spree-killing-in-santa-barbara-california-is-named-as-elliot-rodger.json)  [XML](/news/2014/05/24/2014-isla-vista-killings-the-suspected-gunman-in-the-may-23-spree-killing-in-santa-barbara-california-is-named-as-elliot-rodger.xml)  
+
 ### [2014-05-24](/news/2014/05/24/index.md)
 
+##### 2014 Isla Vista killings
 # 2014 Isla Vista killings: The suspected gunman in the May 23 spree killing in Santa Barbara, California, is named as Elliot Rodger. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-27561127)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75081000/jpg/_75081397_75081396.jpg)

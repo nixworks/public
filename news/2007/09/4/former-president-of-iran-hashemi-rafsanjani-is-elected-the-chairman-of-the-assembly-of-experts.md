@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/4/former-president-of-iran-hashemi-rafsanjani-is-elected-the-chairman-of-the-assembly-of-experts.html)  [JSON](/news/2007/09/4/former-president-of-iran-hashemi-rafsanjani-is-elected-the-chairman-of-the-assembly-of-experts.json)  [XML](/news/2007/09/4/former-president-of-iran-hashemi-rafsanjani-is-elected-the-chairman-of-the-assembly-of-experts.xml)  
+
 ### [2007-09-4](/news/2007/09/4/index.md)
 
+##### President
 #  Former President of Iran, Hashemi Rafsanjani is elected the chairman of the Assembly of Experts 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://ap.google.com/article/ALeqM5iMaIWHcA_tsFqawQOrVsUy5p3ICg)
 

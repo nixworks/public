@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/a-decision-by-malacca-to-allow-under-age-marriage-is-criticised-by-groups-of-women.html)  [JSON](/news/2010/08/4/a-decision-by-malacca-to-allow-under-age-marriage-is-criticised-by-groups-of-women.json)  [XML](/news/2010/08/4/a-decision-by-malacca-to-allow-under-age-marriage-is-criticised-by-groups-of-women.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### Malacca
 # A decision by Malacca to allow under-age marriage is criticised by groups of women. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10868338)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE6731AP20100804)

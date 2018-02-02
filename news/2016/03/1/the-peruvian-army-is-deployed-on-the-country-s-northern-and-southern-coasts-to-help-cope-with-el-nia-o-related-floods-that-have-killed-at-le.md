@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/1/the-peruvian-army-is-deployed-on-the-country-s-n
 
 ### [2016-03-1](/news/2016/03/1/index.md)
 
+##### Peruvian Army
 # The Peruvian Army is deployed on the country's northern and southern coasts to help cope with El Nino-related floods that have killed at least two people and left thousands homeless. 
 
 The authorities in Peru are sending the military to help areas affected by floods that have afflicted several parts of the country. Scientists blame

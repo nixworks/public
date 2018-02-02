@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/2/fijian-military-commander-frank-bainimarama-announces-that-he-has-taken-control-of-fiji.html)  [JSON](/news/2006/12/2/fijian-military-commander-frank-bainimarama-announces-that-he-has-taken-control-of-fiji.json)  [XML](/news/2006/12/2/fijian-military-commander-frank-bainimarama-announces-that-he-has-taken-control-of-fiji.xml)  
+
 ### [2006-12-2](/news/2006/12/2/index.md)
 
+##### Fiji
 #  Fijian military commander Frank Bainimarama announces that he has taken control of Fiji. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=2&ObjectID=10413559)
 

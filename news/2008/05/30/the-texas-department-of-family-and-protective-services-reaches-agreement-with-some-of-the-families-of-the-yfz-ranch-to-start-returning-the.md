@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/30/the-texas-department-of-family-and-protective-services-reaches-agreement-with-some-of-the-families-of-the-yfz-ranch-to-start-returning-the.html)  [JSON](/news/2008/05/30/the-texas-department-of-family-and-protective-services-reaches-agreement-with-some-of-the-families-of-the-yfz-ranch-to-start-returning-the.json)  [XML](/news/2008/05/30/the-texas-department-of-family-and-protective-services-reaches-agreement-with-some-of-the-families-of-the-yfz-ranch-to-start-returning-the.xml)  
+
 ### [2008-05-30](/news/2008/05/30/index.md)
 
+##### Texas Department of Family and Protective Services
 #  The Texas Department of Family and Protective Services reaches agreement with some of the families of the YFZ Ranch to start returning the children on Monday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press via Google News](http://canadianpress.google.com/article/ALeqM5ifUbSOhuOjc0sTO84iC1IMBfWTZQ)
 

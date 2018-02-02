@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/2/the-bbc-shows-a-video-about-a-new-alleged-massacre-by-us-troops-in-ishaqi-iraq-on-march-15-2006.html)  [JSON](/news/2006/06/2/the-bbc-shows-a-video-about-a-new-alleged-massacre-by-us-troops-in-ishaqi-iraq-on-march-15-2006.json)  [XML](/news/2006/06/2/the-bbc-shows-a-video-about-a-new-alleged-massacre-by-us-troops-in-ishaqi-iraq-on-march-15-2006.xml)  
+
 ### [2006-06-2](/news/2006/06/2/index.md)
 
+##### BBC
 #  The BBC shows a video about a new alleged massacre by US troops in Ishaqi, Iraq, on March 15, 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5039714.stm)
 

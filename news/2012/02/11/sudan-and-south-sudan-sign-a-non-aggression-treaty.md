@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/11/sudan-and-south-sudan-sign-a-non-aggression-treaty.html)  [JSON](/news/2012/02/11/sudan-and-south-sudan-sign-a-non-aggression-treaty.json)  [XML](/news/2012/02/11/sudan-and-south-sudan-sign-a-non-aggression-treaty.xml)  
+
 ### [2012-02-11](/news/2012/02/11/index.md)
 
+##### Sudan
 # Sudan and South Sudan sign a non-aggression treaty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/sudan-and-south-sudan-sign-treaty-1.1232113)
 

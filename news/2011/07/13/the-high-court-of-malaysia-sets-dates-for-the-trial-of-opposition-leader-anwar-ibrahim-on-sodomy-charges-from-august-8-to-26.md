@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/13/the-high-court-of-malaysia-sets-dates-for-the-trial-of-opposition-leader-anwar-ibrahim-on-sodomy-charges-from-august-8-to-26.html)  [JSON](/news/2011/07/13/the-high-court-of-malaysia-sets-dates-for-the-trial-of-opposition-leader-anwar-ibrahim-on-sodomy-charges-from-august-8-to-26.json)  [XML](/news/2011/07/13/the-high-court-of-malaysia-sets-dates-for-the-trial-of-opposition-leader-anwar-ibrahim-on-sodomy-charges-from-august-8-to-26.xml)  
+
 ### [2011-07-13](/news/2011/07/13/index.md)
 
+##### High Court
 # The High Court of Malaysia sets dates for the trial of Opposition Leader Anwar Ibrahim on sodomy charges from August 8 to 26. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Star](http://thestar.com.my/news/story.asp?file=/2011/7/13/nation/20110713114808)
 

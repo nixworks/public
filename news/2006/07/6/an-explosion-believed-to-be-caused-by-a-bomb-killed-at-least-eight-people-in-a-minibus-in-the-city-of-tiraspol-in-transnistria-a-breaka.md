@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/6/an-explosion-believed-to-be-caused-by-a-bomb-killed-at-least-eight-people-in-a-minibus-in-the-city-of-tiraspol-in-transnistria-a-breaka.html)  [JSON](/news/2006/07/6/an-explosion-believed-to-be-caused-by-a-bomb-killed-at-least-eight-people-in-a-minibus-in-the-city-of-tiraspol-in-transnistria-a-breaka.json)  [XML](/news/2006/07/6/an-explosion-believed-to-be-caused-by-a-bomb-killed-at-least-eight-people-in-a-minibus-in-the-city-of-tiraspol-in-transnistria-a-breaka.xml)  
+
 ### [2006-07-6](/news/2006/07/6/index.md)
 
+##### Tiraspol
 #  An explosion, believed to be caused by a bomb, killed at least eight people in a minibus in the city of Tiraspol, in Transnistria, a breakaway region of Moldova. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/5153322.stm)
 

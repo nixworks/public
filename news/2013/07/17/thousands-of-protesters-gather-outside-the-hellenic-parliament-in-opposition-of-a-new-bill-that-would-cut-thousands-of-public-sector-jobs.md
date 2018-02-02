@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/07/17/thousands-of-protesters-gather-outside-the-hellenic-parliament-in-opposition-of-a-new-bill-that-would-cut-thousands-of-public-sector-jobs.html)  [JSON](/news/2013/07/17/thousands-of-protesters-gather-outside-the-hellenic-parliament-in-opposition-of-a-new-bill-that-would-cut-thousands-of-public-sector-jobs.json)  [XML](/news/2013/07/17/thousands-of-protesters-gather-outside-the-hellenic-parliament-in-opposition-of-a-new-bill-that-would-cut-thousands-of-public-sector-jobs.xml)  
+
 ### [2013-07-17](/news/2013/07/17/index.md)
 
+##### Hellenic Parliament
 # Thousands of protesters gather outside the Hellenic Parliament in opposition of a new bill that would cut thousands of public sector jobs. 
 
 Thousands of Greek workers chanting anti-austerity slogans flocked outside parliament on Wednesday, hours before lawmakers inside vote on a divisive reform bill that would cut thousands of public sector jobs.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/07/17/us-greece-vat-idUSBRE96G14F20130717?feedType=RSS&feedName=worldNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130717&t=2&i=751724499&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE96G1HMJ00)
+1. [Reuters](https://www.reuters.com/article/2013/07/17/us-greece-vat-idUSBRE96G14F20130717?feedType=RSS&feedName=worldNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130717&t=2&i=751724499&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE96G1HMJ00)
 
 ### Related:
 

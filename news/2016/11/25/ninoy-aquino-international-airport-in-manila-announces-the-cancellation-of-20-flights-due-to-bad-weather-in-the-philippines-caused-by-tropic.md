@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/25/ninoy-aquino-international-airport-in-manila-an
 
 ### [2016-11-25](/news/2016/11/25/index.md)
 
+##### 2016 Pacific typhoon season
 # Ninoy Aquino International Airport in Manila announces the cancellation of 20 flights due to bad weather in the Philippines caused by Tropical Storm Marce. 
 
 

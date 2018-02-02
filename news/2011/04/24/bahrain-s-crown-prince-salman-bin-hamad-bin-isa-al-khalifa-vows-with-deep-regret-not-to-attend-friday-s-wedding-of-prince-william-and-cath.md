@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/24/bahrain-s-crown-prince-salman-bin-hamad-bin-isa-al-khalifa-vows-with-deep-regret-not-to-attend-friday-s-wedding-of-prince-william-and-cath.html)  [JSON](/news/2011/04/24/bahrain-s-crown-prince-salman-bin-hamad-bin-isa-al-khalifa-vows-with-deep-regret-not-to-attend-friday-s-wedding-of-prince-william-and-cath.json)  [XML](/news/2011/04/24/bahrain-s-crown-prince-salman-bin-hamad-bin-isa-al-khalifa-vows-with-deep-regret-not-to-attend-friday-s-wedding-of-prince-william-and-cath.xml)  
+
 ### [2011-04-24](/news/2011/04/24/index.md)
 
+##### Bahrain
 # Bahrain's Crown Prince Salman bin Hamad bin Isa Al Khalifa vows with "deep regret" not to attend Friday's wedding of Prince William and Catherine Middleton in the UK due to his preoccupation with a popular uprising among his own people against his father's long-running rule. 
 
 Salman bin Hamad al-Khalifa declines British royal wedding invite amid criticism by activists following crackdown.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011424165555715419.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-13181999)

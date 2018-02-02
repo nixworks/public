@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/11/the-european-commission-announces-that-they-will-begin-a-formal-investigation-into-apple-starbucks-and-fiat-in-relation-to-tax-arrangements.html)  [JSON](/news/2014/06/11/the-european-commission-announces-that-they-will-begin-a-formal-investigation-into-apple-starbucks-and-fiat-in-relation-to-tax-arrangements.json)  [XML](/news/2014/06/11/the-european-commission-announces-that-they-will-begin-a-formal-investigation-into-apple-starbucks-and-fiat-in-relation-to-tax-arrangements.xml)  
+
 ### [2014-06-11](/news/2014/06/11/index.md)
 
+##### European Commission
 # The European Commission announces that they will begin a formal investigation into Apple, Starbucks and Fiat in relation to tax arrangements with Ireland, the Netherlands and Luxembourg. 
 
 The European Commission opens investigations into whether three European countries are giving Apple, Starbucks and Fiat unfair tax advantages.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-27788238)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75435000/jpg/_75435321_75435320.jpg)

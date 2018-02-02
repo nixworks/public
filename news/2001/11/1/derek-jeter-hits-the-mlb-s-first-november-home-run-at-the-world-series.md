@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/11/1/derek-jeter-hits-the-mlb-s-first-november-home-run-at-the-world-series.html)  [JSON](/news/2001/11/1/derek-jeter-hits-the-mlb-s-first-november-home-run-at-the-world-series.json)  [XML](/news/2001/11/1/derek-jeter-hits-the-mlb-s-first-november-home-run-at-the-world-series.xml)  
+
 ### [2001-11-1](/news/2001/11/1/index.md)
 
+##### Derek Jeter
 #  Derek Jeter hits the MLB's first November home run at the World Series.
 
 

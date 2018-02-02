@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2006/06/9/seven-palestinian-civilians-including-women-and-three-children-are-killed-in-an-explosion-on-a-beach-in-the-gaza-strip-crowded-by-holiday.html)  [JSON](/news/2006/06/9/seven-palestinian-civilians-including-women-and-three-children-are-killed-in-an-explosion-on-a-beach-in-the-gaza-strip-crowded-by-holiday.json)  [XML](/news/2006/06/9/seven-palestinian-civilians-including-women-and-three-children-are-killed-in-an-explosion-on-a-beach-in-the-gaza-strip-crowded-by-holiday.xml)  
+
 ### [2006-06-9](/news/2006/06/9/index.md)
 
+##### Palestinian
 #  Seven Palestinian civilians, including women and three children, are killed in an explosion on a beach in the Gaza Strip crowded by holiday makers, sparking an intense international debate as for its cause. 
 
 After meeting with Israel&#39;s UN Ambassador Danny Gillerman, Secretary General Kofi Annan pulls back comments he said after conclusion of IDF report on civilian casualties on Gaza beach
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5066768.stm)
 2. [Guardian](http://www.guardian.co.uk/israel/Story/0,,1796691,00.html)
 3. [Haaretz](http://www.haaretz.com/hasen/spages/726162.html)
-4. [New York Times](http://www.nytimes.com/2006/06/09/world/middleeast/09cnd-mideast.html)
+4. [New York Times](https://www.nytimes.com/2006/06/09/world/middleeast/09cnd-mideast.html)
 5. [Reuters](http://www.alertnet.org/thenews/newsdesk/L12267868.htm)
 6. [Süddeutsche Zeitung](http://www.sueddeutsche.de/ausland/artikel/315/78237)
 7. [The Australian](http://www.theaustralian.news.com.au/story/0,29867,19465042-2703.html)

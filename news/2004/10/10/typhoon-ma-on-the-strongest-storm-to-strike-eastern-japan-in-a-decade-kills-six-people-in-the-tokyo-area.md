@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/10/typhoon-ma-on-the-strongest-storm-to-strike-eastern-japan-in-a-decade-kills-six-people-in-the-tokyo-area.html)  [JSON](/news/2004/10/10/typhoon-ma-on-the-strongest-storm-to-strike-eastern-japan-in-a-decade-kills-six-people-in-the-tokyo-area.json)  [XML](/news/2004/10/10/typhoon-ma-on-the-strongest-storm-to-strike-eastern-japan-in-a-decade-kills-six-people-in-the-tokyo-area.xml)  
+
 ### [2004-10-10](/news/2004/10/10/index.md)
 
+##### Typhoon Ma-on
 #  Typhoon Ma-on, the strongest storm to strike eastern Japan in a decade, kills six people in the Tokyo area. 
 
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/111032/1/.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/22/tropical-storm-paul-is-upgraded-to-a-category-1-hurricane-and-is-threatening-baja-california.html)  [JSON](/news/2006/10/22/tropical-storm-paul-is-upgraded-to-a-category-1-hurricane-and-is-threatening-baja-california.json)  [XML](/news/2006/10/22/tropical-storm-paul-is-upgraded-to-a-category-1-hurricane-and-is-threatening-baja-california.xml)  
+
 ### [2006-10-22](/news/2006/10/22/index.md)
 
+##### Hurricane Paul
 #  Tropical Storm Paul is upgraded to a Category 1 hurricane and is threatening Baja California. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/N22283358.htm)
 

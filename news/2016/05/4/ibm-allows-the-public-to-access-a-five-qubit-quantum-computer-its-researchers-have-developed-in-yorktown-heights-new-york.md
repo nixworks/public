@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/4/ibm-allows-the-public-to-access-a-five-qubit-qua
 
 ### [2016-05-4](/news/2016/05/4/index.md)
 
+##### IBM
 # IBM allows the public to access a five-qubit quantum computer its researchers have developed in Yorktown Heights, New York. 
 
 

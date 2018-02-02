@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/20/dozens-are-killed-and-hundreds-missing-in-india-and-bangladesh-after-heavy-rainstorms-in-the-bay-of-bengal.html)  [JSON](/news/2006/09/20/dozens-are-killed-and-hundreds-missing-in-india-and-bangladesh-after-heavy-rainstorms-in-the-bay-of-bengal.json)  [XML](/news/2006/09/20/dozens-are-killed-and-hundreds-missing-in-india-and-bangladesh-after-heavy-rainstorms-in-the-bay-of-bengal.xml)  
+
 ### [2006-09-20](/news/2006/09/20/index.md)
 
+##### India
 #  Dozens are killed and hundreds missing in India and Bangladesh after heavy rainstorms in the Bay of Bengal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/5363498.stm)
 

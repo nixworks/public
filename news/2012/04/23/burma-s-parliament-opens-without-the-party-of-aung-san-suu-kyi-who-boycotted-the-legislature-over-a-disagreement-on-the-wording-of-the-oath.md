@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/23/burma-s-parliament-opens-without-the-party-of-aung-san-suu-kyi-who-boycotted-the-legislature-over-a-disagreement-on-the-wording-of-the-oath.html)  [JSON](/news/2012/04/23/burma-s-parliament-opens-without-the-party-of-aung-san-suu-kyi-who-boycotted-the-legislature-over-a-disagreement-on-the-wording-of-the-oath.json)  [XML](/news/2012/04/23/burma-s-parliament-opens-without-the-party-of-aung-san-suu-kyi-who-boycotted-the-legislature-over-a-disagreement-on-the-wording-of-the-oath.xml)  
+
 ### [2012-04-23](/news/2012/04/23/index.md)
 
+##### Burma
 # Burma's parliament opens without the party of Aung San Suu Kyi who boycotted the legislature over a disagreement on the wording of the oath of office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/04/23/world/asia/myanmar-politics/index.html?eref=edition)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFBRE83L0G320120423?sp=true)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/01/24/terrorist-suspect-john-walker-lindh-s-hearing-begins.html)  [JSON](/news/2002/01/24/terrorist-suspect-john-walker-lindh-s-hearing-begins.json)  [XML](/news/2002/01/24/terrorist-suspect-john-walker-lindh-s-hearing-begins.xml)  
+
 ### [2002-01-24](/news/2002/01/24/index.md)
 
+##### John Walker Lindh
 # Terrorist suspect John Walker Lindh's hearing begins.
 
 

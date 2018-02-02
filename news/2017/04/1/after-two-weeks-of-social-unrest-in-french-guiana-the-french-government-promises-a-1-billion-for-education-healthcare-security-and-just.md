@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/1/after-two-weeks-of-social-unrest-in-french-guian
 
 ### [2017-04-1](/news/2017/04/1/index.md)
 
+##### social unrest in French Guiana
 # After two weeks of social unrest in French Guiana, the French government promises EUR1 billion for education, healthcare, security, and justice. 
 
  France offered one billion euros ($1.06 billion) in aid for French Guiana on Saturday after protests swept the French territory in South America in recent days

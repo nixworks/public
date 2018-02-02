@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/7/a-burmese-court-sentences-two-officials-to-death-and-one-to-imprisonment-for-leaking-details-of-secret-government-visits-to-north-korea-and.html)  [JSON](/news/2010/01/7/a-burmese-court-sentences-two-officials-to-death-and-one-to-imprisonment-for-leaking-details-of-secret-government-visits-to-north-korea-and.json)  [XML](/news/2010/01/7/a-burmese-court-sentences-two-officials-to-death-and-one-to-imprisonment-for-leaking-details-of-secret-government-visits-to-north-korea-and.xml)  
+
 ### [2010-01-7](/news/2010/01/7/index.md)
 
+##### Burma
 # A Burmese court sentences two officials to death and one to imprisonment for leaking details of secret government visits to North Korea and Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8446462.stm)
 

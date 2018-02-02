@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/19/chinese-authorities-launch-a-clean-up-operation-to-tackle-a-50-sq-km-slick-following-an-explosion-of-two-crude-oil-pipelines-in-dalian.html)  [JSON](/news/2010/07/19/chinese-authorities-launch-a-clean-up-operation-to-tackle-a-50-sq-km-slick-following-an-explosion-of-two-crude-oil-pipelines-in-dalian.json)  [XML](/news/2010/07/19/chinese-authorities-launch-a-clean-up-operation-to-tackle-a-50-sq-km-slick-following-an-explosion-of-two-crude-oil-pipelines-in-dalian.xml)  
+
 ### [2010-07-19](/news/2010/07/19/index.md)
 
+##### China
 # Chinese authorities launch a clean-up operation to tackle a 50 sq km slick following an explosion of two crude oil pipelines in Dalian. 
 
 China launches an operation to clean up an oil spill in the Yellow Sea after two oil pipelines exploded causing a massive fire.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hmbbqtW_wP_pjgzJuHY0orw0bPkQ)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10680630)

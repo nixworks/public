@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/1/natalie-coughlin-and-aaron-peirsol-break-world-records-for-the-100-metres-backstroke-at-the-united-states-olympic-trials.html)  [JSON](/news/2008/07/1/natalie-coughlin-and-aaron-peirsol-break-world-records-for-the-100-metres-backstroke-at-the-united-states-olympic-trials.json)  [XML](/news/2008/07/1/natalie-coughlin-and-aaron-peirsol-break-world-records-for-the-100-metres-backstroke-at-the-united-states-olympic-trials.xml)  
+
 ### [2008-07-1](/news/2008/07/1/index.md)
 
+##### Natalie Coughlin
 #  Natalie Coughlin and Aaron Peirsol break world records for the 100 metres backstroke at the United States Olympic trials. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://www.smh.com.au/news/swimming/coughlin-peirsol-break-world-records/2008/07/02/1214950796500.html)
 

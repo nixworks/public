@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/7/ivan-rybkin-candidate-in-the-russian-presidential-election-is-reported-missing.html)  [JSON](/news/2004/02/7/ivan-rybkin-candidate-in-the-russian-presidential-election-is-reported-missing.json)  [XML](/news/2004/02/7/ivan-rybkin-candidate-in-the-russian-presidential-election-is-reported-missing.xml)  
+
 ### [2004-02-7](/news/2004/02/7/index.md)
 
+##### Ivan Rybkin
 #  Ivan Rybkin, candidate in the Russian presidential election, is reported missing.
 
 

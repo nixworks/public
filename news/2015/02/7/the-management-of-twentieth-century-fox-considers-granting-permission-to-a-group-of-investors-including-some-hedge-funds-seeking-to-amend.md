@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/02/7/the-management-of-twentieth-century-fox-considers-granting-permission-to-a-group-of-investors-including-some-hedge-funds-seeking-to-amend.html)  [JSON](/news/2015/02/7/the-management-of-twentieth-century-fox-considers-granting-permission-to-a-group-of-investors-including-some-hedge-funds-seeking-to-amend.json)  [XML](/news/2015/02/7/the-management-of-twentieth-century-fox-considers-granting-permission-to-a-group-of-investors-including-some-hedge-funds-seeking-to-amend.xml)  
+
 ### [2015-02-7](/news/2015/02/7/index.md)
 
+##### Twentieth Century Fox
 # The management of Twentieth Century Fox considers granting permission to a group of investors, including some hedge funds, seeking to amend the company's charter and turn their type of voting shares of stock into non-voting shares, a conversion that might raise that type of shares' market price and that also would further concentrate control in the hands of Rupert Murdoch and his family. 
 
 Several top investors in Twenty-First Century Fox Inc are pressing for the right to swap their voting shares for ordinary shares, which are trading at an unusual premium, even though the move could hand even more control of the company to Rupert Murdoch, according to people familiar with the matter.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/02/07/us-fox-votingshares-exclusive-idUSKBN0LA2HP20150207)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150206&t=2&i=1023066081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB1511W)
+1. [Reuters](https://www.reuters.com/article/2015/02/07/us-fox-votingshares-exclusive-idUSKBN0LA2HP20150207)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20150206&t=2&i=1023066081&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB1511W)
 
 ### Related:
 

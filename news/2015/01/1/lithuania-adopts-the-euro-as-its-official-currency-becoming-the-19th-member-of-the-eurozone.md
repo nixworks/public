@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/1/lithuania-adopts-the-euro-as-its-official-currency-becoming-the-19th-member-of-the-eurozone.html)  [JSON](/news/2015/01/1/lithuania-adopts-the-euro-as-its-official-currency-becoming-the-19th-member-of-the-eurozone.json)  [XML](/news/2015/01/1/lithuania-adopts-the-euro-as-its-official-currency-becoming-the-19th-member-of-the-eurozone.xml)  
+
 ### [2015-01-1](/news/2015/01/1/index.md)
 
+##### Lithuania adopts the euro
 # Lithuania adopts the euro as its official currency, becoming the 19th member of the Eurozone. 
 
 Lithuania adopted the euro and became the 19th country to join the currency union on Jan. 1.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2014/12/31/news/economy/lithuania-europe-euro/)
 

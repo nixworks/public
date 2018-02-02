@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/10/united-states-special-forces-join-the-battle-in
 
 ### [2017-06-10](/news/2017/06/10/index.md)
 
+##### Marawi crisis
 # United States special forces join the battle in Marawi, Philippines, against the Maute. 
 
 U.S. special forces are aiding troops from the Philippines in attempting to break a now three-week-old siege of the town of Marawi on Mindanao island, a military spokesman for the Southeast Asian country said.

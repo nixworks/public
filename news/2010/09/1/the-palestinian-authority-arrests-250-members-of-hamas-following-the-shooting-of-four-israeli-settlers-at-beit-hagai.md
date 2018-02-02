@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/1/the-palestinian-authority-arrests-250-members-of-hamas-following-the-shooting-of-four-israeli-settlers-at-beit-hagai.html)  [JSON](/news/2010/09/1/the-palestinian-authority-arrests-250-members-of-hamas-following-the-shooting-of-four-israeli-settlers-at-beit-hagai.json)  [XML](/news/2010/09/1/the-palestinian-authority-arrests-250-members-of-hamas-following-the-shooting-of-four-israeli-settlers-at-beit-hagai.xml)  
+
 ### [2010-09-1](/news/2010/09/1/index.md)
 
+##### Palestinian Authority
 # The Palestinian Authority arrests 250 members of Hamas following the shooting of four Israeli settlers at Beit Hagai. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/la-fgw-hamas-arrests-20100902,0,1295568.story)
 

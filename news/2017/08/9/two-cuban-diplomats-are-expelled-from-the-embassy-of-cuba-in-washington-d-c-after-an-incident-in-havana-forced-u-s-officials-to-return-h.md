@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/9/two-cuban-diplomats-are-expelled-from-the-embass
 
 ### [2017-08-9](/news/2017/08/9/index.md)
 
+##### Cuba-United States relations
 # Two Cuban diplomats are expelled from the Embassy of Cuba in Washington, D.C., after an incident in Havana forced U.S. officials to return home. 
 
 Two Cuban diplomats were kicked out of their embassy in Washington by the State Department after a number of mysterious incidents forced U.S. officials in Cuba to return home.

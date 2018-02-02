@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/25/the-nominees-for-the-83rd-academy-awards-are-announced-with-the-king-s-speech-receiving-twelve-nominations.html)  [JSON](/news/2011/01/25/the-nominees-for-the-83rd-academy-awards-are-announced-with-the-king-s-speech-receiving-twelve-nominations.json)  [XML](/news/2011/01/25/the-nominees-for-the-83rd-academy-awards-are-announced-with-the-king-s-speech-receiving-twelve-nominations.xml)  
+
 ### [2011-01-25](/news/2011/01/25/index.md)
 
+##### 83rd Academy Awards
 # The nominees for the 83rd Academy Awards are announced, with "The King's Speech" receiving twelve nominations. 
 
 A psychological ballet thriller, a historical drama and a social network movie are among the movies vying for an Oscar.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/2011125165221705359.html)
 2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-12274205)

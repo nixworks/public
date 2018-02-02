@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/02/9/eastman-kodak-co-announces-that-it-will-no-longer-make-digital-cameras-pocket-video-cameras-and-digital-picture-frames-in-an-effort-to-sav.html)  [JSON](/news/2012/02/9/eastman-kodak-co-announces-that-it-will-no-longer-make-digital-cameras-pocket-video-cameras-and-digital-picture-frames-in-an-effort-to-sav.json)  [XML](/news/2012/02/9/eastman-kodak-co-announces-that-it-will-no-longer-make-digital-cameras-pocket-video-cameras-and-digital-picture-frames-in-an-effort-to-sav.xml)  
+
 ### [2012-02-9](/news/2012/02/9/index.md)
 
+##### Eastman Kodak
 # Eastman Kodak Co. announces that it will no longer make digital cameras, pocket video cameras and digital picture frames in an effort to save money during bankruptcy. 
 
 Eastman Kodak Co EKDKQ.PK, the inventor of the digital camera, plans to get out of that business in the first half of the year as the bankrupt company looks to cut costs.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/09/us-kodak-idUSTRE81816Z20120209)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120209&t=2&i=568848579&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81812JD00)
+1. [Reuters](https://www.reuters.com/article/2012/02/09/us-kodak-idUSTRE81816Z20120209)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120209&t=2&i=568848579&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81812JD00)
 
 ### Related:
 

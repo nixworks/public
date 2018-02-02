@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/4/the-u-s-backed-syrian-democratic-forces-sdf-take
 
 ### [2017-06-4](/news/2017/06/4/index.md)
 
+##### Syrian Civil War
 # The U.S.-backed Syrian Democratic Forces (SDF) take control of the Baath Dam on the Euphrates, near the ISIL stronghold of Raqqa, and upon doing so, rename it "Freedom Dam". 
 
 U.S.-backed Syrian militias said they seized a major dam on the Euphrates river from Islamic State on Sunday, their latest gain as they push towards Raqqa city.

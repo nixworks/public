@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/12/italian-prime-minister-silvio-berlusconi-causes-a-political-storm-by-comparing-himself-to-jesus-christ.html)  [JSON](/news/2006/02/12/italian-prime-minister-silvio-berlusconi-causes-a-political-storm-by-comparing-himself-to-jesus-christ.json)  [XML](/news/2006/02/12/italian-prime-minister-silvio-berlusconi-causes-a-political-storm-by-comparing-himself-to-jesus-christ.xml)  
+
 ### [2006-02-12](/news/2006/02/12/index.md)
 
+##### Italian Prime Minister
 #  Italian prime minister Silvio Berlusconi causes a political storm by comparing himself to Jesus Christ. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4707368.stm)
 

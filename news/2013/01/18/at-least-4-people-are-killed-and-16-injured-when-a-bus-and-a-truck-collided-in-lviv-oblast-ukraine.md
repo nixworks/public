@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/18/at-least-4-people-are-killed-and-16-injured-when-a-bus-and-a-truck-collided-in-lviv-oblast-ukraine.html)  [JSON](/news/2013/01/18/at-least-4-people-are-killed-and-16-injured-when-a-bus-and-a-truck-collided-in-lviv-oblast-ukraine.json)  [XML](/news/2013/01/18/at-least-4-people-are-killed-and-16-injured-when-a-bus-and-a-truck-collided-in-lviv-oblast-ukraine.xml)  
+
 ### [2013-01-18](/news/2013/01/18/index.md)
 
+##### bus
 # At least 4 people are killed and 16 injured when a bus and a truck collided in Lviv Oblast, Ukraine. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/world/2013-01/18/c_132112813.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/24/wang-lequan-communist-party-secretary-since-1994-is-replaced-by-zhang-chunxian-as-the-most-powerful-official-in-xinjiang.html)  [JSON](/news/2010/04/24/wang-lequan-communist-party-secretary-since-1994-is-replaced-by-zhang-chunxian-as-the-most-powerful-official-in-xinjiang.json)  [XML](/news/2010/04/24/wang-lequan-communist-party-secretary-since-1994-is-replaced-by-zhang-chunxian-as-the-most-powerful-official-in-xinjiang.xml)  
+
 ### [2010-04-24](/news/2010/04/24/index.md)
 
+##### Wang Lequan
 # Wang Lequan, Communist Party secretary since 1994, is replaced by Zhang Chunxian as the most powerful official in Xinjiang. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/world/article46813.ece)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8641443.stm)

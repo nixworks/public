@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/29/mexican-international-football-player-alan-puli
 
 ### [2016-05-29](/news/2016/05/29/index.md)
 
+##### Mexico
 # Mexican international football player Alan Pulido, who plays for Olympiacos F.C., is kidnapped by masked men near his home in Ciudad Victoria, Tamaulipas. He is later rescued. 
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/20/fighting-persists-in-chechnya-with-six-russian-servicemen-killed-and-11-others-wounded-in-the-war-ravaged-region.html)  [JSON](/news/2003/08/20/fighting-persists-in-chechnya-with-six-russian-servicemen-killed-and-11-others-wounded-in-the-war-ravaged-region.json)  [XML](/news/2003/08/20/fighting-persists-in-chechnya-with-six-russian-servicemen-killed-and-11-others-wounded-in-the-war-ravaged-region.xml)  
+
 ### [2003-08-20](/news/2003/08/20/index.md)
 
+##### Chechnya
 #  Fighting persists in Chechnya, with six Russian servicemen killed and 11 others wounded in the war-ravaged region.
 
 

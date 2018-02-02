@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/8/zambian-president-levy-mwanawasa-is-stable-after-undergoing-an-operation-to-improve-his-breathing-his-deputy-says.html)  [JSON](/news/2008/07/8/zambian-president-levy-mwanawasa-is-stable-after-undergoing-an-operation-to-improve-his-breathing-his-deputy-says.json)  [XML](/news/2008/07/8/zambian-president-levy-mwanawasa-is-stable-after-undergoing-an-operation-to-improve-his-breathing-his-deputy-says.xml)  
+
 ### [2008-07-8](/news/2008/07/8/index.md)
 
+##### Zambia
 #  Zambian President Levy Mwanawasa is stable after undergoing an operation to improve his breathing, his deputy says. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7494932.stm)
 

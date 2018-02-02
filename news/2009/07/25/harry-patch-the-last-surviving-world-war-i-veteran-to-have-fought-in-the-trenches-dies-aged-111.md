@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/25/harry-patch-the-last-surviving-world-war-i-veteran-to-have-fought-in-the-trenches-dies-aged-111.html)  [JSON](/news/2009/07/25/harry-patch-the-last-surviving-world-war-i-veteran-to-have-fought-in-the-trenches-dies-aged-111.json)  [XML](/news/2009/07/25/harry-patch-the-last-surviving-world-war-i-veteran-to-have-fought-in-the-trenches-dies-aged-111.xml)  
+
 ### [2009-07-25](/news/2009/07/25/index.md)
 
+##### Harry Patch
 #  Harry Patch, the last surviving World War I veteran to have fought in the trenches, dies aged 111. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/8168691.stm)
 2. [CNN](http://edition.cnn.com/2009/WORLD/europe/07/25/uk.last.veteran.obit/)

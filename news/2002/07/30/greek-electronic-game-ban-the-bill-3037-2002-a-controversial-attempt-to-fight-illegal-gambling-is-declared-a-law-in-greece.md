@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/30/greek-electronic-game-ban-the-bill-3037-2002-a-controversial-attempt-to-fight-illegal-gambling-is-declared-a-law-in-greece.html)  [JSON](/news/2002/07/30/greek-electronic-game-ban-the-bill-3037-2002-a-controversial-attempt-to-fight-illegal-gambling-is-declared-a-law-in-greece.json)  [XML](/news/2002/07/30/greek-electronic-game-ban-the-bill-3037-2002-a-controversial-attempt-to-fight-illegal-gambling-is-declared-a-law-in-greece.xml)  
+
 ### [2002-07-30](/news/2002/07/30/index.md)
 
+##### Greek electronic game ban
 #  Greek electronic game ban: The bill 3037-2002, a controversial attempt to fight illegal gambling, is declared a law in Greece.
 
 

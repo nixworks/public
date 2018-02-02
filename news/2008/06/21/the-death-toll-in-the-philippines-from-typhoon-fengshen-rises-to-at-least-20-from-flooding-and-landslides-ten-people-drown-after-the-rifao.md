@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2008/06/21/the-death-toll-in-the-philippines-from-typhoon-fengshen-rises-to-at-least-20-from-flooding-and-landslides-ten-people-drown-after-the-rifao.html)  [JSON](/news/2008/06/21/the-death-toll-in-the-philippines-from-typhoon-fengshen-rises-to-at-least-20-from-flooding-and-landslides-ten-people-drown-after-the-rifao.json)  [XML](/news/2008/06/21/the-death-toll-in-the-philippines-from-typhoon-fengshen-rises-to-at-least-20-from-flooding-and-landslides-ten-people-drown-after-the-rifao.xml)  
+
 ### [2008-06-21](/news/2008/06/21/index.md)
 
+##### Philippines
 #  The death toll in the Philippines from Typhoon Fengshen rises to at least 20 from flooding and landslides. Ten people drown after the Rifao River overflows its banks and sweeps away three houses in South Upi, Maguindanao. 
 
 More than 800 people were missing on Monday after a Philippine ferry capsized in a typhoon that has killed scores and left a trail of destruction across the archipelago.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/asiaCompanyAndMarkets/idINMAN2671720080622)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSMAN9076220080622)
+2. [Reuters](https://www.reuters.com/article/worldNews/idUSMAN9076220080622)
 3. [Xinhua](http://news.xinhuanet.com/english/2008-06/21/content_8414202.htm)
-3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080622&t=2&i=4857661&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-22T030749Z_01_MAN90762_RTRUKOP_0_PICTURE0)
+3. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080622&t=2&i=4857661&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-22T030749Z_01_MAN90762_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

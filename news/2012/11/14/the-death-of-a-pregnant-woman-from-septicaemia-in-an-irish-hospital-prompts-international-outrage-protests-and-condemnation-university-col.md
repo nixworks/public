@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/11/14/the-death-of-a-pregnant-woman-from-septicaemia-in-an-irish-hospital-prompts-international-outrage-protests-and-condemnation-university-col.html)  [JSON](/news/2012/11/14/the-death-of-a-pregnant-woman-from-septicaemia-in-an-irish-hospital-prompts-international-outrage-protests-and-condemnation-university-col.json)  [XML](/news/2012/11/14/the-death-of-a-pregnant-woman-from-septicaemia-in-an-irish-hospital-prompts-international-outrage-protests-and-condemnation-university-col.xml)  
+
 ### [2012-11-14](/news/2012/11/14/index.md)
 
+##### septicaemia
 # The death of a pregnant woman from septicaemia in an Irish hospital prompts international outrage, protests and condemnation. University College Hospital Galway refused numerous requests from Savita Halappanavar and her family for an abortion on the grounds that "this is a Catholic country." 
 
 The death in Ireland of a woman whose repeated requests for an abortion were turned down - reportedly because “this is a Catholic country” - has sparked international protests and condemnation.
 
 
-### Source:
+### Sources:
 
 1. [Irish Independent](http://www.independent.ie/national-news/pregnant-woman-died-after-hospital-denied-abortion-3293842.html)
 2. [NDTV](http://www.ndtv.com/article/india/savita-halappanavar-s-parents-slam-irish-abortion-laws-292871)
-3. [The Independent](http://www.independent.co.uk/news/world/europe/this-is-a-catholic-country-woman-dies-of-septicaemia-after-being-refused-an-abortion-in-irish-hospital-8315609.html)
+3. [The Independent](https://www.independent.co.uk/news/world/europe/this-is-a-catholic-country-woman-dies-of-septicaemia-after-being-refused-an-abortion-in-irish-hospital-8315609.html)
 3. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/11/14/13/abortiondeath.jpg)
 
 ### Related:

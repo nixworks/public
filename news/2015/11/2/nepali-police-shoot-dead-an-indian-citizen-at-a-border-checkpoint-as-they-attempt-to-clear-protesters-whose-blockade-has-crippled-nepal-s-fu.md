@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/11/2/nepali-police-shoot-dead-an-indian-citizen-at-a-border-checkpoint-as-they-attempt-to-clear-protesters-whose-blockade-has-crippled-nepal-s-fu.html)  [JSON](/news/2015/11/2/nepali-police-shoot-dead-an-indian-citizen-at-a-border-checkpoint-as-they-attempt-to-clear-protesters-whose-blockade-has-crippled-nepal-s-fu.json)  [XML](/news/2015/11/2/nepali-police-shoot-dead-an-indian-citizen-at-a-border-checkpoint-as-they-attempt-to-clear-protesters-whose-blockade-has-crippled-nepal-s-fu.xml)  
+
 ### [2015-11-2](/news/2015/11/2/index.md)
 
+##### 2015 Nepal fuel crisis
 # Nepali police shoot dead an Indian citizen at a border checkpoint as they attempt to clear protesters whose blockade has crippled Nepal's fuel supplies and badly damaged relations between the neighboring countries. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/02/us-nepal-india-idUSKCN0SR0IU20151102)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/11/02/us-nepal-india-idUSKCN0SR0IU20151102)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [2015 Nepal fuel crisis: Nepali police shoot dead an Indian citizen at a border checkpoint as they attempt to clear protesters whose blockade has crippled Nepal's fuel supplies and badly damaged relations between the neighboring countries. ](/news/2015/11/2/2015-nepal-fuel-crisis-nepali-police-shoot-dead-an-indian-citizen-at-a-border-checkpoint-as-they-attempt-to-clear-protesters-whose-blockade.md) _2017-08-27 03:43:38 (First version)_
+1. [Nepali police shoot dead an Indian citizen at a border checkpoint as they attempt to clear protesters whose blockade has crippled Nepal's fuel supplies and badly damaged relations between the neighboring countries. ](/news/2015/11/2/nepali-police-shoot-dead-an-indian-citizen-at-a-border-checkpoint-as-they-attempt-to-clear-protesters-whose-blockade-has-crippled-nepal-s-fu.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md) _Context: India, Nepal_
 4. [The World Wildlife Fund reports global populations of tigers, an endangered species, are up about 20 percent over the past six years. This increase in tiger numbers, after declining for a century, was primarily in India, Russia, Nepal, and Bhutan. The third Asian Ministerial Conference on Tiger Conservation starts Monday in New Delhi, India. ](/news/2016/04/10/the-world-wildlife-fund-reports-global-populations-of-tigers-an-endangered-species-are-up-about-20-percent-over-the-past-six-years-this-i.md) _Context: India, Nepal_
 5. [India offers Nepal an additional billion dollars to help it recover from the April 2015 Nepal earthquake. ](/news/2015/06/25/india-offers-nepal-an-additional-billion-dollars-to-help-it-recover-from-the-april-2015-nepal-earthquake.md) _Context: India, Nepal_
-
-### Changes:
-
-1. [2015 Nepal fuel crisis: Nepali police shoot dead an Indian citizen at a border checkpoint as they attempt to clear protesters whose blockade has crippled Nepal's fuel supplies and badly damaged relations between the neighboring countries. ](/news/2015/11/2/2015-nepal-fuel-crisis-nepali-police-shoot-dead-an-indian-citizen-at-a-border-checkpoint-as-they-attempt-to-clear-protesters-whose-blockade.md) _2017-08-27 03:43:38 (First version)_
-1. [Nepali police shoot dead an Indian citizen at a border checkpoint as they attempt to clear protesters whose blockade has crippled Nepal's fuel supplies and badly damaged relations between the neighboring countries. ](/news/2015/11/2/nepali-police-shoot-dead-an-indian-citizen-at-a-border-checkpoint-as-they-attempt-to-clear-protesters-whose-blockade-has-crippled-nepal-s-fu.md) _(Current version)_

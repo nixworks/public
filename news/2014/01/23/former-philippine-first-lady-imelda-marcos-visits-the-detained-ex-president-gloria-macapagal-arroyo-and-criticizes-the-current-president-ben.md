@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/23/former-philippine-first-lady-imelda-marcos-visits-the-detained-ex-president-gloria-macapagal-arroyo-and-criticizes-the-current-president-ben.html)  [JSON](/news/2014/01/23/former-philippine-first-lady-imelda-marcos-visits-the-detained-ex-president-gloria-macapagal-arroyo-and-criticizes-the-current-president-ben.json)  [XML](/news/2014/01/23/former-philippine-first-lady-imelda-marcos-visits-the-detained-ex-president-gloria-macapagal-arroyo-and-criticizes-the-current-president-ben.xml)  
+
 ### [2014-01-23](/news/2014/01/23/index.md)
 
+##### Philippines
 # Former Philippine First Lady Imelda Marcos visits the detained ex-President Gloria Macapagal-Arroyo and criticizes the current President Benigno Aquino III as "cruel, unjust". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Inquirer](http://newsinfo.inquirer.net/568129/arroyo-detention-cruel-unjust-says-imelda-marcos)
 

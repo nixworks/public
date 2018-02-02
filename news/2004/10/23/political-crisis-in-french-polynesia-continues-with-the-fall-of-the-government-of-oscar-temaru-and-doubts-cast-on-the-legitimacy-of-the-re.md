@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/23/political-crisis-in-french-polynesia-continues-with-the-fall-of-the-government-of-oscar-temaru-and-doubts-cast-on-the-legitimacy-of-the-re.html)  [JSON](/news/2004/10/23/political-crisis-in-french-polynesia-continues-with-the-fall-of-the-government-of-oscar-temaru-and-doubts-cast-on-the-legitimacy-of-the-re.json)  [XML](/news/2004/10/23/political-crisis-in-french-polynesia-continues-with-the-fall-of-the-government-of-oscar-temaru-and-doubts-cast-on-the-legitimacy-of-the-re.xml)  
+
 ### [2004-10-23](/news/2004/10/23/index.md)
 
+##### Tensions
 #  Political Crisis in French Polynesia continues with the fall of the government of Oscar Temaru and doubts cast on the legitimacy of the re-election of Gaston Flosse as President of French Polynesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Pacific Islands Report](http://pidp.eastwestcenter.org/pireport/2004/October/10-25-01.htm)
 

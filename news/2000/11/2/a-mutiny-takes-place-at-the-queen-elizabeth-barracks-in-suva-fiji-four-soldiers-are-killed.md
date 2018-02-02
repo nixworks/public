@@ -1,10 +1,10 @@
+
+Formats: [HTML](/news/2000/11/2/a-mutiny-takes-place-at-the-queen-elizabeth-barracks-in-suva-fiji-four-soldiers-are-killed.html)  [JSON](/news/2000/11/2/a-mutiny-takes-place-at-the-queen-elizabeth-barracks-in-suva-fiji-four-soldiers-are-killed.json)  [XML](/news/2000/11/2/a-mutiny-takes-place-at-the-queen-elizabeth-barracks-in-suva-fiji-four-soldiers-are-killed.xml)  
+
 ### [2000-11-2](/news/2000/11/2/index.md)
 
+##### mutiny
 # A mutiny takes place at the Queen Elizabeth Barracks in Suva, Fiji. Four soldiers are killed.
 
 
 
-
-### Related:
-
-1. [ Former Prime Minister of Fiji Sitiveni Rabuka is cleared of two charges of mutiny in relation to the mutinies of the 2000 Fijian coup d'tat. ](/news/2006/12/11/former-prime-minister-of-fiji-sitiveni-rabuka-is-cleared-of-two-charges-of-mutiny-in-relation-to-the-mutinies-of-the-2000-fijian-coup-d-eta.md) _Context: mutinies of the 2000 Fijian coup d'tat_

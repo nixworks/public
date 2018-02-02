@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/06/2/mitt-romney-announces-plans-to-seek-the-republican-party-nomination-as-president-of-the-united-states.html)  [JSON](/news/2011/06/2/mitt-romney-announces-plans-to-seek-the-republican-party-nomination-as-president-of-the-united-states.json)  [XML](/news/2011/06/2/mitt-romney-announces-plans-to-seek-the-republican-party-nomination-as-president-of-the-united-states.xml)  
+
 ### [2011-06-2](/news/2011/06/2/index.md)
 
+##### Mitt Romney
 # Mitt Romney announces plans to seek the Republican Party nomination as President of the United States. 
 
 Saying President Obama &ldquo;has failed America,&rdquo; former Massachusetts governor Mitt Romney launched his bid for the 2012 GOP presidential nomination.
 
 
-### Source:
+### Sources:
 
 1. [Time](http://swampland.time.com/2011/06/02/the-frontrunner-makes-it-official-mitt-romney-targets-obama-acts-like-himself/)
-2. [Washington Post](http://www.washingtonpost.com/politics/mitt-romney-announces-2012-presidential-bid/2011/06/02/AG05iJHH_story.html?wpisrc=al_national)
+2. [Washington Post](https://www.washingtonpost.com/politics/mitt-romney-announces-2012-presidential-bid/2011/06/02/AG05iJHH_story.html?wpisrc=al_national)
 2. [Cover Image](https://timeswampland.files.wordpress.com/2011/06/romney.jpg?w=600)
 
 ### Related:

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/05/21/campaigners-against-an-immigration-law-in-the-u-s-state-of-arizona-adopt-children-s-cartoon-character-dora-the-explorer-as-a-symbol-of-thei.html)  [JSON](/news/2010/05/21/campaigners-against-an-immigration-law-in-the-u-s-state-of-arizona-adopt-children-s-cartoon-character-dora-the-explorer-as-a-symbol-of-thei.json)  [XML](/news/2010/05/21/campaigners-against-an-immigration-law-in-the-u-s-state-of-arizona-adopt-children-s-cartoon-character-dora-the-explorer-as-a-symbol-of-thei.xml)  
+
 ### [2010-05-21](/news/2010/05/21/index.md)
 
+##### immigration law
 # Campaigners against an immigration law in the U.S. state of Arizona adopt children's cartoon character Dora the Explorer as a symbol of their cause. 
 
 Famed cartoon Dora the Explorer has been mocked in an image that shows the 7-year-old as an illegal immigrant
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/dora-explorer-labeled-illegal-immigrant/story?id=10711944)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8698065.stm)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/21/AR2010052100863.html)
+3. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/05/21/AR2010052100863.html)
 
 ### Related:
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/27/president-george-w-bush-makes-a-surprise-visit-to-baghdad-to-visit-the-american-troops-on-thanksgiving-day-the-visit-is-not-announced-pub.html)  [JSON](/news/2003/11/27/president-george-w-bush-makes-a-surprise-visit-to-baghdad-to-visit-the-american-troops-on-thanksgiving-day-the-visit-is-not-announced-pub.json)  [XML](/news/2003/11/27/president-george-w-bush-makes-a-surprise-visit-to-baghdad-to-visit-the-american-troops-on-thanksgiving-day-the-visit-is-not-announced-pub.xml)  
+
 ### [2003-11-27](/news/2003/11/27/index.md)
 
+##### U.S. President
 #  President George W. Bush makes a surprise visit to Baghdad to visit the American troops on Thanksgiving Day. The visit is not announced publicly until after Bush has left.
 
 

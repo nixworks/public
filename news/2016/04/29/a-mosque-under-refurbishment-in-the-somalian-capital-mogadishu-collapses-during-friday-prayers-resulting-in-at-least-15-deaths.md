@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/29/a-mosque-under-refurbishment-in-the-somalian-ca
 
 ### [2016-04-29](/news/2016/04/29/index.md)
 
+##### mosque
 # A mosque under refurbishment in the Somalian capital Mogadishu collapses during Friday prayers resulting in at least 15 deaths. 
 
 A mosque under refurbishment collapses during Friday prayers in the Somali capital Mogadishu, killing at least 15 people and injuring 40.

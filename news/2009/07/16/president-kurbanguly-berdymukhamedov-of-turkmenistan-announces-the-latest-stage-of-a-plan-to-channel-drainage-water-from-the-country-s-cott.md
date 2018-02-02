@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/16/president-kurbanguly-berdymukhamedov-of-turkmenistan-announces-the-latest-stage-of-a-plan-to-channel-drainage-water-from-the-country-s-cott.html)  [JSON](/news/2009/07/16/president-kurbanguly-berdymukhamedov-of-turkmenistan-announces-the-latest-stage-of-a-plan-to-channel-drainage-water-from-the-country-s-cott.json)  [XML](/news/2009/07/16/president-kurbanguly-berdymukhamedov-of-turkmenistan-announces-the-latest-stage-of-a-plan-to-channel-drainage-water-from-the-country-s-cott.xml)  
+
 ### [2009-07-16](/news/2009/07/16/index.md)
 
+##### president
 #  President Kurbanguly Berdymukhamedov of Turkmenistan announces the latest stage of a plan to channel drainage water from the country's cotton fields through desert. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8154467.stm)
 

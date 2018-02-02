@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/9/u-s-homeland-security-secretary-janet-napolitano-claims-the-possibility-of-terrorism-being-carried-out-against-the-country-has-evolved-sig.html)  [JSON](/news/2011/02/9/u-s-homeland-security-secretary-janet-napolitano-claims-the-possibility-of-terrorism-being-carried-out-against-the-country-has-evolved-sig.json)  [XML](/news/2011/02/9/u-s-homeland-security-secretary-janet-napolitano-claims-the-possibility-of-terrorism-being-carried-out-against-the-country-has-evolved-sig.xml)  
+
 ### [2011-02-9](/news/2011/02/9/index.md)
 
+##### Janet Napolitano
 # U.S. Homeland Security Secretary Janet Napolitano claims the possibility of terrorism being carried out against the country "has evolved significantly" and, she claims, is "at its most heightened state" since the 9-11 attacks". 
 
 The threat of terrorism in the US is in some ways &quot;at its most heightened state&quot; since the 9/11 attacks, the US homeland security secretary says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-12407859)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

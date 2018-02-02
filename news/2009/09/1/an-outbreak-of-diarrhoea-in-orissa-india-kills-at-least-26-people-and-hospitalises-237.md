@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/1/an-outbreak-of-diarrhoea-in-orissa-india-kills-at-least-26-people-and-hospitalises-237.html)  [JSON](/news/2009/09/1/an-outbreak-of-diarrhoea-in-orissa-india-kills-at-least-26-people-and-hospitalises-237.json)  [XML](/news/2009/09/1/an-outbreak-of-diarrhoea-in-orissa-india-kills-at-least-26-people-and-hospitalises-237.xml)  
+
 ### [2009-09-1](/news/2009/09/1/index.md)
 
+##### diarrhoea
 #  An outbreak of diarrhoea in Orissa, India, kills at least 26 people and hospitalises 237. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8230960.stm)
 

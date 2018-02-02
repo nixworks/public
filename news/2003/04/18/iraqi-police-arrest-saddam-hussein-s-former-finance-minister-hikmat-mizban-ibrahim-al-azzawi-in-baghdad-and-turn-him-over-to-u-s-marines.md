@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/18/iraqi-police-arrest-saddam-hussein-s-former-finance-minister-hikmat-mizban-ibrahim-al-azzawi-in-baghdad-and-turn-him-over-to-u-s-marines.html)  [JSON](/news/2003/04/18/iraqi-police-arrest-saddam-hussein-s-former-finance-minister-hikmat-mizban-ibrahim-al-azzawi-in-baghdad-and-turn-him-over-to-u-s-marines.json)  [XML](/news/2003/04/18/iraqi-police-arrest-saddam-hussein-s-former-finance-minister-hikmat-mizban-ibrahim-al-azzawi-in-baghdad-and-turn-him-over-to-u-s-marines.xml)  
+
 ### [2003-04-18](/news/2003/04/18/index.md)
 
+##### Iraq
 #  Iraqi Police arrest Saddam Hussein's former finance minister, Hikmat Mizban Ibrahim al-Azzawi in Baghdad, and turn him over to U.S. Marines.
 
 

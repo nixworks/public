@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/3/the-independent-monitoring-commission-reports-that-the-provisional-ira-has-effectively-been-disbanded-as-a-terrorist-organization-but-the.html)  [JSON](/news/2008/09/3/the-independent-monitoring-commission-reports-that-the-provisional-ira-has-effectively-been-disbanded-as-a-terrorist-organization-but-the.json)  [XML](/news/2008/09/3/the-independent-monitoring-commission-reports-that-the-provisional-ira-has-effectively-been-disbanded-as-a-terrorist-organization-but-the.xml)  
+
 ### [2008-09-3](/news/2008/09/3/index.md)
 
+##### Independent Monitoring Commission
 #  The Independent Monitoring Commission reports that the Provisional IRA has effectively been disbanded as a terrorist organization, but the Provisional IRA Army Council still exists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2008/sep/03/northernireland.ireland?gusrc=rss&feed=networkfront)
 

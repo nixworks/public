@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/24/muhammad-v-is-formally-installed-as-the-15th-ki
 
 ### [2017-04-24](/news/2017/04/24/index.md)
 
+##### Muhammad V
 # Muhammad V is formally installed as the 15th King of Malaysia. 
 
 

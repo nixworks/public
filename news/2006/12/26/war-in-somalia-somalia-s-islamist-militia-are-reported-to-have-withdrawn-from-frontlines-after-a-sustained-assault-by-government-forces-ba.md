@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/26/war-in-somalia-somalia-s-islamist-militia-are-reported-to-have-withdrawn-from-frontlines-after-a-sustained-assault-by-government-forces-ba.html)  [JSON](/news/2006/12/26/war-in-somalia-somalia-s-islamist-militia-are-reported-to-have-withdrawn-from-frontlines-after-a-sustained-assault-by-government-forces-ba.json)  [XML](/news/2006/12/26/war-in-somalia-somalia-s-islamist-militia-are-reported-to-have-withdrawn-from-frontlines-after-a-sustained-assault-by-government-forces-ba.xml)  
+
 ### [2006-12-26](/news/2006/12/26/index.md)
 
+##### War in Somalia
 #  War in Somalia: Somalia's Islamist militia are reported to have withdrawn from frontlines after a sustained assault by government forces backed by Ethiopian troops. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6209643.stm)
 

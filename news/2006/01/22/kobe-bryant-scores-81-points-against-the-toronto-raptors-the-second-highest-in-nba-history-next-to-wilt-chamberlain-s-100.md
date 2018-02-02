@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/01/22/kobe-bryant-scores-81-points-against-the-toronto-raptors-the-second-highest-in-nba-history-next-to-wilt-chamberlain-s-100.html)  [JSON](/news/2006/01/22/kobe-bryant-scores-81-points-against-the-toronto-raptors-the-second-highest-in-nba-history-next-to-wilt-chamberlain-s-100.json)  [XML](/news/2006/01/22/kobe-bryant-scores-81-points-against-the-toronto-raptors-the-second-highest-in-nba-history-next-to-wilt-chamberlain-s-100.xml)  
+
 ### [2006-01-22](/news/2006/01/22/index.md)
 
+##### Kobe Bryant
 #  Kobe Bryant scores 81 points against the Toronto Raptors, the second highest in NBA history, next to Wilt Chamberlain's 100.
 
 

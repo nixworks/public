@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/27/stanley-kingaipe-and-charles-chookole-two-ex-officers-in-zambia-s-air-force-are-awarded-10-million-kwacha-in-damages-following-claims-they.html)  [JSON](/news/2010/05/27/stanley-kingaipe-and-charles-chookole-two-ex-officers-in-zambia-s-air-force-are-awarded-10-million-kwacha-in-damages-following-claims-they.json)  [XML](/news/2010/05/27/stanley-kingaipe-and-charles-chookole-two-ex-officers-in-zambia-s-air-force-are-awarded-10-million-kwacha-in-damages-following-claims-they.xml)  
+
 ### [2010-05-27](/news/2010/05/27/index.md)
 
+##### Stanley Kingaipe and Charles Chookole
 # Stanley Kingaipe and Charles Chookole, two ex-officers in Zambia's air force, are awarded 10 million kwacha in damages following claims they were tested and treated for HIV without their knowledge. 
 
 A Zambian court orders the air force to pay damages to two ex-pilots who say they were tested for HIV without their knowledge.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10172817.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/13/former-uda-member-ken-barrett-pleads-guilty-to-the-murder-of-solicitor-pat-finucane-in-1989-mdash-one-of-the-most-controversial-murders-of.html)  [JSON](/news/2004/09/13/former-uda-member-ken-barrett-pleads-guilty-to-the-murder-of-solicitor-pat-finucane-in-1989-mdash-one-of-the-most-controversial-murders-of.json)  [XML](/news/2004/09/13/former-uda-member-ken-barrett-pleads-guilty-to-the-murder-of-solicitor-pat-finucane-in-1989-mdash-one-of-the-most-controversial-murders-of.xml)  
+
 ### [2004-09-13](/news/2004/09/13/index.md)
 
+##### Ulster Defence Association
 #  Former UDA member Ken Barrett pleads guilty to the murder of solicitor Pat Finucane in 1989&mdash;one of the most controversial murders of Northern Ireland's Troubles. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/3650842.stm)
 2. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=topNews&storyID=582279&section=news)

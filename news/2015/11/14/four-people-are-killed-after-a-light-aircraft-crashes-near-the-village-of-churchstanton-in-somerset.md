@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/14/four-people-are-killed-after-a-light-aircraft-crashes-near-the-village-of-churchstanton-in-somerset.html)  [JSON](/news/2015/11/14/four-people-are-killed-after-a-light-aircraft-crashes-near-the-village-of-churchstanton-in-somerset.json)  [XML](/news/2015/11/14/four-people-are-killed-after-a-light-aircraft-crashes-near-the-village-of-churchstanton-in-somerset.xml)  
+
 ### [2015-11-14](/news/2015/11/14/index.md)
 
+##### light aircraft
 # Four people are killed after a light aircraft crashes near the village of Churchstanton in Somerset. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-34822189)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/BB7E/production/_86689974_dunkeswell,_runway_-_geograph.org.uk_-_194515.jpg)

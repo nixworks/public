@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/5/bangladeshi-police-report-that-two-opposition-bangladesh-nationalist-party-activists-are-shot-dead-in-clashes-with-members-of-the-ruling-awa.html)  [JSON](/news/2015/01/5/bangladeshi-police-report-that-two-opposition-bangladesh-nationalist-party-activists-are-shot-dead-in-clashes-with-members-of-the-ruling-awa.json)  [XML](/news/2015/01/5/bangladeshi-police-report-that-two-opposition-bangladesh-nationalist-party-activists-are-shot-dead-in-clashes-with-members-of-the-ruling-awa.xml)  
+
 ### [2015-01-5](/news/2015/01/5/index.md)
 
+##### police officers
 # Bangladeshi police report that two opposition Bangladesh Nationalist Party activists are shot dead in clashes with members of the ruling Awami League in the town of Natore on the first anniversary of disputed general election. 
 
 Bangladeshi opposition leader Khaleda Zia calls for a transport blockade after four protesters are killed in clashes with police and government supporters.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-30678474)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80065000/jpg/_80065201_80065200.jpg)

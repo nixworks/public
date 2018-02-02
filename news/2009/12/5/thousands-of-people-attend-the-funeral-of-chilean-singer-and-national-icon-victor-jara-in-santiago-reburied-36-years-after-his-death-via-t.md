@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/5/thousands-of-people-attend-the-funeral-of-chilean-singer-and-national-icon-victor-jara-in-santiago-reburied-36-years-after-his-death-via-t.html)  [JSON](/news/2009/12/5/thousands-of-people-attend-the-funeral-of-chilean-singer-and-national-icon-victor-jara-in-santiago-reburied-36-years-after-his-death-via-t.json)  [XML](/news/2009/12/5/thousands-of-people-attend-the-funeral-of-chilean-singer-and-national-icon-victor-jara-in-santiago-reburied-36-years-after-his-death-via-t.xml)  
+
 ### [2009-12-5](/news/2009/12/5/index.md)
 
+##### Chile
 #  Thousands of people attend the funeral of Chilean singer and national icon Vctor Jara in Santiago, reburied 36 years after his death via torture in the 1973 military coup carried out by Augusto Pinochet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8397042.stm)
 

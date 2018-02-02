@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/20/western-romance-brokeback-mountain-wins-awards-for-best-film-and-best-director-for-ang-lee-at-the-bafta-awards.html)  [JSON](/news/2006/02/20/western-romance-brokeback-mountain-wins-awards-for-best-film-and-best-director-for-ang-lee-at-the-bafta-awards.json)  [XML](/news/2006/02/20/western-romance-brokeback-mountain-wins-awards-for-best-film-and-best-director-for-ang-lee-at-the-bafta-awards.xml)  
+
 ### [2006-02-20](/news/2006/02/20/index.md)
 
+##### Brokeback Mountain
 #  Western romance "Brokeback Mountain" wins awards for best film and best director for Ang Lee at the BAFTA awards. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/entertainment/4724066.stm)
 

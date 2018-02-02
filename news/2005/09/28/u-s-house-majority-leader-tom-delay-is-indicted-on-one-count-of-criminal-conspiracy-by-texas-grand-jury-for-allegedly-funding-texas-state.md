@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/09/28/u-s-house-majority-leader-tom-delay-is-indicted-on-one-count-of-criminal-conspiracy-by-texas-grand-jury-for-allegedly-funding-texas-state.html)  [JSON](/news/2005/09/28/u-s-house-majority-leader-tom-delay-is-indicted-on-one-count-of-criminal-conspiracy-by-texas-grand-jury-for-allegedly-funding-texas-state.json)  [XML](/news/2005/09/28/u-s-house-majority-leader-tom-delay-is-indicted-on-one-count-of-criminal-conspiracy-by-texas-grand-jury-for-allegedly-funding-texas-state.xml)  
+
 ### [2005-09-28](/news/2005/09/28/index.md)
 
+##### Majority Leader
 #  U.S. House Majority Leader Tom DeLay is indicted on one count of criminal conspiracy by Texas grand jury, for allegedly funding Texas state elections secretly through the Republican national office.
 
 

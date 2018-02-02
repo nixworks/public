@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/11/conflict-in-iraq-at-least-60-people-die-following-a-series-of-bombings-throughout-iraq.html)  [JSON](/news/2005/05/11/conflict-in-iraq-at-least-60-people-die-following-a-series-of-bombings-throughout-iraq.json)  [XML](/news/2005/05/11/conflict-in-iraq-at-least-60-people-die-following-a-series-of-bombings-throughout-iraq.xml)  
+
 ### [2005-05-11](/news/2005/05/11/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: At least 60 people die following a series of bombings throughout Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4535323.stm)
 

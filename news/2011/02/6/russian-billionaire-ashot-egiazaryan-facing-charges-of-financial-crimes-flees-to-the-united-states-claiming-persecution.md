@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/02/6/russian-billionaire-ashot-egiazaryan-facing-charges-of-financial-crimes-flees-to-the-united-states-claiming-persecution.html)  [JSON](/news/2011/02/6/russian-billionaire-ashot-egiazaryan-facing-charges-of-financial-crimes-flees-to-the-united-states-claiming-persecution.json)  [XML](/news/2011/02/6/russian-billionaire-ashot-egiazaryan-facing-charges-of-financial-crimes-flees-to-the-united-states-claiming-persecution.xml)  
+
 ### [2011-02-6](/news/2011/02/6/index.md)
 
+##### Russia
 # Russian billionaire Ashot Egiazaryan, facing charges of financial crimes, flees to the United States claiming persecution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo! News](http://finance.yahoo.com/news/AP-Exclusive-Fearful-Russian-apf-203931339.html?x=0&sec=topStories&pos=6&asset=&ccode=)
 
 ### Related:
 
-1. [Facebook agrees to disclose ads that ran in the U.S. in 2016 from accounts associated with a Russian entity known as the Internet Research Agency to United States Congressional investigators. Earlier, this information was provided to Special Counsel Robert Mueller. ](/news/2017/09/21/facebook-agrees-to-disclose-ads-that-ran-in-the-u-s-in-2016-from-accounts-associated-with-a-russian-entity-known-as-the-internet-research-a.md) _Context: Russia, United States_
-2. [The United States Department of Justice has requested Moscow-based Russian media channel RT America to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-moscow-based-russian-media-channel-rt-america-to-register-as-a-foreign-lobbying-firm-i.md) _Context: Russia, United States_
-3. [The United States State Department orders Russia to close the Consulate-General in San Francisco and two other buildings by September 2, 2017, invoking "parity" over a Russian measure in July. ](/news/2017/08/31/the-united-states-state-department-orders-russia-to-close-the-consulate-general-in-san-francisco-and-two-other-buildings-by-september-2-201.md) _Context: Russia, United States_
-4. [The United States Senate passed by an overwhelming majority a bill ramping-up sanctions against Russia and against Iran. Language in the measure also reaffirms United States' commitment to NATO. ](/news/2017/06/16/the-united-states-senate-passed-by-an-overwhelming-majority-a-bill-ramping-up-sanctions-against-russia-and-against-iran-language-in-the-mea.md) _Context: Russia, United States_
-5. [Russia and China veto a draft United Nations Security Council resolution sponsored by France, the United Kingdom and the United States calling for sanctions against the Syrian government and President Bashar al-Assad over allegations that the government used chemical weapons in the conflict. ](/news/2017/03/1/russia-and-china-veto-a-draft-united-nations-security-council-resolution-sponsored-by-france-the-united-kingdom-and-the-united-states-calli.md) _Context: Russia, United States_
+1. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia, U.S._
+2. [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md) _Context: Russia, U.S._
+3. [The United States and Russia begin fighting over the extradition of Yevgeniy Nikulin, who was detained in October 2016 in the Czech Republic, after the U.S. Justice Department issued an international arrest warrant for him. However, soon after the U.S. issued its arrest warrant, Russian authorities also sought his extradition. The Russian charge accuses Nikulin of stealing from an online money transfer company back in 2009. ](/news/2017/11/25/the-united-states-and-russia-begin-fighting-over-the-extradition-of-yevgeniy-nikulin-who-was-detained-in-october-2016-in-the-czech-republic.md) _Context: Russia, U.S._
+4. [The United States releases a list of 39 Russian military companies and intelligence agencies targeted by economic sanctions under the Countering America's Adversaries Through Sanctions Act. ](/news/2017/10/27/the-united-states-releases-a-list-of-39-russian-military-companies-and-intelligence-agencies-targeted-by-economic-sanctions-under-the-counte.md) _Context: Russia, U.S._
+5. [Facebook agrees to disclose ads that ran in the U.S. in 2016 from accounts associated with a Russian entity known as the Internet Research Agency to United States Congressional investigators. Earlier, this information was provided to Special Counsel Robert Mueller. ](/news/2017/09/21/facebook-agrees-to-disclose-ads-that-ran-in-the-u-s-in-2016-from-accounts-associated-with-a-russian-entity-known-as-the-internet-research-a.md) _Context: Russia, U.S._

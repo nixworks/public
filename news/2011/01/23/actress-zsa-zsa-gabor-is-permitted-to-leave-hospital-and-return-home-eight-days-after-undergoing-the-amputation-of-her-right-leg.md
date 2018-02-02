@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/23/actress-zsa-zsa-gabor-is-permitted-to-leave-hospital-and-return-home-eight-days-after-undergoing-the-amputation-of-her-right-leg.html)  [JSON](/news/2011/01/23/actress-zsa-zsa-gabor-is-permitted-to-leave-hospital-and-return-home-eight-days-after-undergoing-the-amputation-of-her-right-leg.json)  [XML](/news/2011/01/23/actress-zsa-zsa-gabor-is-permitted-to-leave-hospital-and-return-home-eight-days-after-undergoing-the-amputation-of-her-right-leg.xml)  
+
 ### [2011-01-23](/news/2011/01/23/index.md)
 
+##### Zsa Zsa Gabor
 # Actress Zsa Zsa Gabor is permitted to leave hospital and return home, eight days after undergoing the amputation of her right leg. 
 
 Actress Zsa Zsa Gabor is allowed home from hospital eight days after having her right leg amputated, her spokesman says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-12261798)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

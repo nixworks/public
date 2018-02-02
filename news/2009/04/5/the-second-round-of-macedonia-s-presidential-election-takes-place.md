@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/5/the-second-round-of-macedonia-s-presidential-election-takes-place.html)  [JSON](/news/2009/04/5/the-second-round-of-macedonia-s-presidential-election-takes-place.json)  [XML](/news/2009/04/5/the-second-round-of-macedonia-s-presidential-election-takes-place.xml)  
+
 ### [2009-04-5](/news/2009/04/5/index.md)
 
+##### second round
 #  The second round of Macedonia's presidential election takes place. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7984084.stm)
 

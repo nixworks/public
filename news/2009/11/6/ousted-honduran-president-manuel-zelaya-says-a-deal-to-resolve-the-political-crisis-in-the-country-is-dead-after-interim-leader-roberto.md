@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/11/6/ousted-honduran-president-manuel-zelaya-says-a-deal-to-resolve-the-political-crisis-in-the-country-is-dead-after-interim-leader-roberto.html)  [JSON](/news/2009/11/6/ousted-honduran-president-manuel-zelaya-says-a-deal-to-resolve-the-political-crisis-in-the-country-is-dead-after-interim-leader-roberto.json)  [XML](/news/2009/11/6/ousted-honduran-president-manuel-zelaya-says-a-deal-to-resolve-the-political-crisis-in-the-country-is-dead-after-interim-leader-roberto.xml)  
+
 ### [2009-11-6](/news/2009/11/6/index.md)
 
+##### Honduras
 #  Ousted Honduran President Manuel Zelaya says a deal to resolve the political crisis in the country is "dead", after interim leader Roberto Micheletti announced a unity government without him. 
 
 At each stage, the camps of the ousted president and of the acting president have been on different pages.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8345899.stm)
-2. [New York Times](http://www.nytimes.com/2009/11/07/world/americas/07honduras.html)
+2. [New York Times](https://www.nytimes.com/2009/11/07/world/americas/07honduras.html)
 2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

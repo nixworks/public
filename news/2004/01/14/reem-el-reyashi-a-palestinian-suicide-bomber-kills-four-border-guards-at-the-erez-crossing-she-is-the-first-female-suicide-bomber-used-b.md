@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/14/reem-el-reyashi-a-palestinian-suicide-bomber-kills-four-border-guards-at-the-erez-crossing-she-is-the-first-female-suicide-bomber-used-b.html)  [JSON](/news/2004/01/14/reem-el-reyashi-a-palestinian-suicide-bomber-kills-four-border-guards-at-the-erez-crossing-she-is-the-first-female-suicide-bomber-used-b.json)  [XML](/news/2004/01/14/reem-el-reyashi-a-palestinian-suicide-bomber-kills-four-border-guards-at-the-erez-crossing-she-is-the-first-female-suicide-bomber-used-b.xml)  
+
 ### [2004-01-14](/news/2004/01/14/index.md)
 
+##### Palestinian
 #  Reem El-Reyashi, a Palestinian suicide bomber, kills four border guards at the Erez Crossing. She is the first female suicide bomber used by Hamas. Four months before, Israel targeted Hamas leadership, including Ahmed Yassin, as a result Hamas halted all suicide bombing for four months. Jack Kelley, USA TODAY foreign correspondent and a finalist for a Pulitzer Prize just two years ago, was forced to resign after the newspaper determined he repeatedly misled editors during an internal investigation into stories he wrote. Among the stories that are being investigated is one published September 4, 2001, contains an account of an attack on Palestinians by 13 Jewish settlers in the West Bank. Mark Memmott, the reporter asked to investigate Kelley, said he could not find anyone with first-hand knowledge of the attack.
 
 

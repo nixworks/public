@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/2/thousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-the-news-that-osama-bin-laden-has-been-killed.html)  [JSON](/news/2011/05/2/thousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-the-news-that-osama-bin-laden-has-been-killed.json)  [XML](/news/2011/05/2/thousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-the-news-that-osama-bin-laden-has-been-killed.xml)  
+
 ### [2011-05-2](/news/2011/05/2/index.md)
 
+##### Ground Zero
 # Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. 
 
 The inability to find bin Laden has frustrated lawmakers throughout Washington for nearly a decade. While they almost uniformly responded with elation to the news, most also warned the terrorist threat is still very much alive.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.africasia.com/services/news_mideast/article.php?ID=CNG.b74138877e2c6db836a76c96669b7602.781)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-13259492)
@@ -15,9 +19,15 @@ The inability to find bin Laden has frustrated lawmakers throughout Washington f
 6. [Sky News](http://news.sky.com/skynews/Home/World-News/Reaction-To-Bin-Ladens-Death-Condoleeza-Rice-Bill-Clinton-Hamid-Karzi-Nicolas-Sarkozy/Article/201105115983705)
 7. [The Jerusalem Post](http://www.jpost.com/International/Article.aspx?id=218812)
 8. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=218821)
-9. [USA Today](http://www.usatoday.com/news/washington/2011-05-03-politicians-react-bin-laden-death_n.htm)
+9. [USA Today](https://www.usatoday.com/news/washington/2011-05-03-politicians-react-bin-laden-death_n.htm)
 10. [abcnews](http://blogs.abcnews.com/thenote/2011/05/osama-bin-laden-body-headed-for-burial-at-sea-officials-say.html)
 10. [Cover Image](http://i.usatoday.net/news/_photos/2011/05/03/politicians-react-bin-laden-death-CL3OD48-x.jpg)
+
+### Changes:
+
+1. [Reactions to the death of Osama bin Laden:Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. ](/news/2011/05/2/reactions-to-the-death-of-osama-bin-laden-pthousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-th.md) _2017-08-25 03:32:57 (First version)_
+2. [Reactions to the death of Osama bin Laden:: Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. ](/news/2011/05/2/reactions-to-the-death-of-osama-bin-laden-thousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-t.md) _2017-08-27 03:33:06 (Update)_
+2. [Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. ](/news/2011/05/2/thousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-the-news-that-osama-bin-laden-has-been-killed.md) _(Current version)_
 
 ### Related:
 
@@ -26,9 +36,3 @@ The inability to find bin Laden has frustrated lawmakers throughout Washington f
 3. [Hillary Clinton's doctor says she is being treated for pneumonia and dehydration after the Democratic Party presidential candidate fell ill and abruptly left a ceremony in New York City honoring the 15th anniversary of the September 11 attacks. ](/news/2016/09/11/hillary-clinton-s-doctor-says-she-is-being-treated-for-pneumonia-and-dehydration-after-the-democratic-party-presidential-candidate-fell-ill.md) _Context: New York City, September 11 attacks_
 4. [Swedish deputy prime minister Asa Romson is criticized after referring to the September 11 attacks in New York as mere "accidents". Romson made the comments on public television while discussing the resignation of housing minister Mehmet Kaplan who had compared Israel's treatment of Arabs to the Nazis' treatment of Jews during the Holocaust. ](/news/2016/04/19/swedish-deputy-prime-minister-asa-romson-is-criticized-after-referring-to-the-september-11-attacks-in-new-york-as-mere-accidents-romson.md) _Context: New York City, September 11 attacks_
 5. [Abu Anas al-Libi, a one-time associate of Osama bin Laden, dies in New York, United States, while awaiting trial for allegedly plotting the bombings of the U.S. embassies in Kenya and Tanzania. ](/news/2015/01/2/abu-anas-al-libi-a-one-time-associate-of-osama-bin-laden-dies-in-new-york-united-states-while-awaiting-trial-for-allegedly-plotting-the.md) _Context: New York City, Osama bin Laden_
-
-### Changes:
-
-1. [Reactions to the death of Osama bin Laden:Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. ](/news/2011/05/2/reactions-to-the-death-of-osama-bin-laden-pthousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-th.md) _2017-08-25 03:32:57 (First version)_
-2. [Reactions to the death of Osama bin Laden:: Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. ](/news/2011/05/2/reactions-to-the-death-of-osama-bin-laden-thousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-t.md) _2017-08-27 03:33:06 (Update)_
-2. [Thousands of people gather at Ground Zero of the September 11 attacks in New York to celebrate the news that Osama bin Laden has been killed. ](/news/2011/05/2/thousands-of-people-gather-at-ground-zero-of-the-september-11-attacks-in-new-york-to-celebrate-the-news-that-osama-bin-laden-has-been-killed.md) _(Current version)_

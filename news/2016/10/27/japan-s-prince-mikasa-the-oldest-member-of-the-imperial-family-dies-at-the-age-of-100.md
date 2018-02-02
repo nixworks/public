@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/27/japan-s-prince-mikasa-the-oldest-member-of-the-
 
 ### [2016-10-27](/news/2016/10/27/index.md)
 
+##### Prince Mikasa
 # Japan's Prince Mikasa, the oldest member of the Imperial Family, dies at the age of 100. 
 
 The 100-year-old uncle of Japanese Emperor Akihito, Prince Mikasa, died on Thursday, leaving only four heirs to the Chrysanthemum throne, the Imperial Household Agency said.

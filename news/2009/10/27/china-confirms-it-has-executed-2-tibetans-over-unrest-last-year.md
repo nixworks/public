@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/27/china-confirms-it-has-executed-2-tibetans-over-unrest-last-year.html)  [JSON](/news/2009/10/27/china-confirms-it-has-executed-2-tibetans-over-unrest-last-year.json)  [XML](/news/2009/10/27/china-confirms-it-has-executed-2-tibetans-over-unrest-last-year.xml)  
+
 ### [2009-10-27](/news/2009/10/27/index.md)
 
+##### China
 #  China confirms it has executed 2 Tibetans over unrest last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2009/9/44/Tibetans-executed-China-over-riots-last-year,6aa5aafc-6d6a-4d7b-b6d0-364cfd9faefc.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/oct/27/china-executes-two-tibetans)

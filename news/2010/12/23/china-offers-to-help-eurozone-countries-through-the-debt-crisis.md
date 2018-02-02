@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/23/china-offers-to-help-eurozone-countries-through-the-debt-crisis.html)  [JSON](/news/2010/12/23/china-offers-to-help-eurozone-countries-through-the-debt-crisis.json)  [XML](/news/2010/12/23/china-offers-to-help-eurozone-countries-through-the-debt-crisis.xml)  
+
 ### [2010-12-23](/news/2010/12/23/index.md)
 
+##### China
 # China offers to help eurozone countries through the debt crisis. 
 
 China offers its support to eurozone countries to help them through the debt crisis that has gripped the region.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-12065731)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

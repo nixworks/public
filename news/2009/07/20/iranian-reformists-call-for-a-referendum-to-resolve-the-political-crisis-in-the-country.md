@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/07/20/iranian-reformists-call-for-a-referendum-to-resolve-the-political-crisis-in-the-country.html)  [JSON](/news/2009/07/20/iranian-reformists-call-for-a-referendum-to-resolve-the-political-crisis-in-the-country.json)  [XML](/news/2009/07/20/iranian-reformists-call-for-a-referendum-to-resolve-the-political-crisis-in-the-country.xml)  
+
 ### [2009-07-20](/news/2009/07/20/index.md)
 
+##### Iran
 #  Iranian reformists call for a referendum to resolve the political crisis in the country. 
 
 Ex-president seeks referendum to resolve dispute over June 12 presidential vote.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/07/2009720112418612488.html)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE56J13J20090720)
+2. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE56J13J20090720)
 3. [The Malaysia Star](http://thestar.com.my/news/story.asp?file=/2009/7/20/worldupdates/2009-07-20T132949Z_01_NOOTR_RTRMDNC_0_-411702-1&sec=Worldupdates)
 3. [Cover Image](http://www.aljazeera.com)
 

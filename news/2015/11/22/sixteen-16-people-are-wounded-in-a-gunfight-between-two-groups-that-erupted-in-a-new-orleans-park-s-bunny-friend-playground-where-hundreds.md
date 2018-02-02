@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/11/22/sixteen-16-people-are-wounded-in-a-gunfight-between-two-groups-that-erupted-in-a-new-orleans-park-s-bunny-friend-playground-where-hundreds.html)  [JSON](/news/2015/11/22/sixteen-16-people-are-wounded-in-a-gunfight-between-two-groups-that-erupted-in-a-new-orleans-park-s-bunny-friend-playground-where-hundreds.json)  [XML](/news/2015/11/22/sixteen-16-people-are-wounded-in-a-gunfight-between-two-groups-that-erupted-in-a-new-orleans-park-s-bunny-friend-playground-where-hundreds.xml)  
+
 ### [2015-11-22](/news/2015/11/22/index.md)
 
+##### gunfight
 # Sixteen (16) people are wounded in a gunfight between two groups that erupted in a New Orleans park's Bunny Friend playground where hundreds of people gathered for a block party and filming of a music video. No fatalities were reported. The fighters ran from the park immediately after the shooting. 
 
 A weekend shootout that wounded 17 people, including a 10-year-old boy, in a New Orleans park appears to be gang-related, city officials said on Monday, as they urged hesitant witnesses to come forward with information about the suspects and a motive.
 
 
-### Source:
+### Sources:
 
 1. [NOLA.com](http://www.nola.com/crime/index.ssf/2015/11/at_least_10_victims_of_bunny_f.html)
-2. [Reuters](http://www.reuters.com/article/2015/11/23/us-louisiana-shooting-idUSKBN0TC06820151123#l1IkeJjFDtO8sOjP.97)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/2015/11/23/us-louisiana-shooting-idUSKBN0TC06820151123#l1IkeJjFDtO8sOjP.97)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

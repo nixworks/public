@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/29/goodluck-jonathan-is-sworn-in-as-president-of-nigeria-at-a-ceremony-attended-by-foreign-heads-of-state-in-abuja.html)  [JSON](/news/2011/05/29/goodluck-jonathan-is-sworn-in-as-president-of-nigeria-at-a-ceremony-attended-by-foreign-heads-of-state-in-abuja.json)  [XML](/news/2011/05/29/goodluck-jonathan-is-sworn-in-as-president-of-nigeria-at-a-ceremony-attended-by-foreign-heads-of-state-in-abuja.xml)  
+
 ### [2011-05-29](/news/2011/05/29/index.md)
 
+##### Goodluck Jonathan
 # Goodluck Jonathan is sworn in as President of Nigeria at a ceremony attended by foreign heads of state in Abuja. 
 
 Deadly blast hits a northern city just hours after Goodluck Jonathan begins four-year term in the West African nation.
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20110529-goodluck-jonathan-sworn-first-full-presidential-term-nigeria-inauguration)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/201152984646173248.html)

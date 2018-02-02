@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/15/police-in-hebei-province-people-s-republic-of-china-arrest-a-suspected-serial-killer-alleged-to-have-killed-at-least-65-people.html)  [JSON](/news/2003/11/15/police-in-hebei-province-people-s-republic-of-china-arrest-a-suspected-serial-killer-alleged-to-have-killed-at-least-65-people.json)  [XML](/news/2003/11/15/police-in-hebei-province-people-s-republic-of-china-arrest-a-suspected-serial-killer-alleged-to-have-killed-at-least-65-people.xml)  
+
 ### [2003-11-15](/news/2003/11/15/index.md)
 
+##### Hebei
 #  Police in Hebei province, People's Republic of China, arrest a suspected serial killer alleged to have killed at least 65 people.
 
 

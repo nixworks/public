@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/21/sacramento-mayor-and-former-basketball-star-kev
 
 ### [2016-09-21](/news/2016/09/21/index.md)
 
+##### Sacramento
 # Sacramento mayor and former basketball star Kevin Johnson beats protester Sean Thompson's face to a "bloody pulp" after being hit in the face with a a whipped cream pie at a charity dinner. Authorities arrest Thompson for felony assault of a public official. 
 
 Kevin Johnson reportedly assaulted the protester in a bloody brawl during a dinner event. 

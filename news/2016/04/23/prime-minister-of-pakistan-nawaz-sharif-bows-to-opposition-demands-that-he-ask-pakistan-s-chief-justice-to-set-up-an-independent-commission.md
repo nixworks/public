@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/23/prime-minister-of-pakistan-nawaz-sharif-bows-to
 
 ### [2016-04-23](/news/2016/04/23/index.md)
 
+##### Panama Papers
 # Prime Minister of Pakistan Nawaz Sharif bows to opposition demands that he ask Pakistan's chief justice to set up an independent commission to investigate offshore accounts linked to his family. Sharif said he would accept the commission's findings and even resign if called upon. 
 
 Ministers agree to propose joint list of tax havens and approve plan to automatically exchange data on shell company owners

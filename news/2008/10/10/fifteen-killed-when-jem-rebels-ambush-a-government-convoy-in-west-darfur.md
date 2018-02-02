@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/10/fifteen-killed-when-jem-rebels-ambush-a-government-convoy-in-west-darfur.html)  [JSON](/news/2008/10/10/fifteen-killed-when-jem-rebels-ambush-a-government-convoy-in-west-darfur.json)  [XML](/news/2008/10/10/fifteen-killed-when-jem-rebels-ambush-a-government-convoy-in-west-darfur.xml)  
+
 ### [2008-10-10](/news/2008/10/10/index.md)
 
+##### Justice and Equality Movement
 #  Fifteen killed when JEM rebels ambush a government convoy in west Darfur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Yahoo News](http://ca.news.yahoo.com/s/afp/081010/world/sudan_conflict_darfur)
 

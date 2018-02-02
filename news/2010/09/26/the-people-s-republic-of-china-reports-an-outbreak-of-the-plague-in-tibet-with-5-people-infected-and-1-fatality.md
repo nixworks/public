@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/26/the-people-s-republic-of-china-reports-an-outbreak-of-the-plague-in-tibet-with-5-people-infected-and-1-fatality.html)  [JSON](/news/2010/09/26/the-people-s-republic-of-china-reports-an-outbreak-of-the-plague-in-tibet-with-5-people-infected-and-1-fatality.json)  [XML](/news/2010/09/26/the-people-s-republic-of-china-reports-an-outbreak-of-the-plague-in-tibet-with-5-people-infected-and-1-fatality.xml)  
+
 ### [2010-09-26](/news/2010/09/26/index.md)
 
+##### China
 # The People's Republic of China reports an outbreak of the plague in Tibet, with 5 people infected and 1 fatality. 
 
 China issued a health alert in its southwestern region of Tibet after five people were diagnosed with the plague, an often fatal infectious disease.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/plague-breaks-out-in-chinas-tibet-20100926-15s6z.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

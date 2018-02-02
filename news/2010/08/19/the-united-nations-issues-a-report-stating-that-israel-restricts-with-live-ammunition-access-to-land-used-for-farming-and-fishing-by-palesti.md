@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/19/the-united-nations-issues-a-report-stating-that-israel-restricts-with-live-ammunition-access-to-land-used-for-farming-and-fishing-by-palesti.html)  [JSON](/news/2010/08/19/the-united-nations-issues-a-report-stating-that-israel-restricts-with-live-ammunition-access-to-land-used-for-farming-and-fishing-by-palesti.json)  [XML](/news/2010/08/19/the-united-nations-issues-a-report-stating-that-israel-restricts-with-live-ammunition-access-to-land-used-for-farming-and-fishing-by-palesti.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### United Nations
 # The United Nations issues a report stating that Israel restricts with live ammunition access to land used for farming and fishing by Palestinians, causing a loss of livelihood for tens of thousands of Palestinians. 
 
 A UN report says the Israeli army has increasingly restricted Palestinian access to farmland in the Gaza Strip and fishing zones along its shore.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11030512)
 2. [United Nations Report](http://www.ochaopt.org/documents/ocha_opt_special_focus_2010_08_19_english.pdf)

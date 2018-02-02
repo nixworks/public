@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/12/after-european-parliament-auditors-conclude-tha
 
 ### [2018-01-12](/news/2018/01/12/index.md)
 
+##### European Parliament
 # After European Parliament auditors conclude that he used a parliamentary assistant for UKIP party matters instead of for work related to the duties of a Member of the European Parliament, Nigel Farage will now pay back GBP35,500 (EUR40,000) through having half of his salary withheld. 
 
 Former Ukip leader Nigel Farage is having half his MEP’s salary docked following a European Parliament investigation into the alleged misspending of EU funds. Mr Farage and seven other Ukip MEPs were last February accused of spending money meant to fund their offices on Ukip party matters – leading the Parliament’s financial watchdog to launch an investigation.

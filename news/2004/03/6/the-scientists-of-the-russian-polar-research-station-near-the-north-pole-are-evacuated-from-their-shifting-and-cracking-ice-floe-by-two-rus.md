@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/6/the-scientists-of-the-russian-polar-research-station-near-the-north-pole-are-evacuated-from-their-shifting-and-cracking-ice-floe-by-two-rus.html)  [JSON](/news/2004/03/6/the-scientists-of-the-russian-polar-research-station-near-the-north-pole-are-evacuated-from-their-shifting-and-cracking-ice-floe-by-two-rus.json)  [XML](/news/2004/03/6/the-scientists-of-the-russian-polar-research-station-near-the-north-pole-are-evacuated-from-their-shifting-and-cracking-ice-floe-by-two-rus.xml)  
+
 ### [2004-03-6](/news/2004/03/6/index.md)
 
+##### North Pole
 #  The scientists of the Russian polar research station near the North Pole are evacuated from their shifting and cracking ice floe by two Russian helicopters via Norway's Spitzbergen island. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3538937.stm)
 

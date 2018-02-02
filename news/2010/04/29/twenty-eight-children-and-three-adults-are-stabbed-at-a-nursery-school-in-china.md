@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/29/twenty-eight-children-and-three-adults-are-stabbed-at-a-nursery-school-in-china.html)  [JSON](/news/2010/04/29/twenty-eight-children-and-three-adults-are-stabbed-at-a-nursery-school-in-china.json)  [XML](/news/2010/04/29/twenty-eight-children-and-three-adults-are-stabbed-at-a-nursery-school-in-china.xml)  
+
 ### [2010-04-29](/news/2010/04/29/index.md)
 
+##### China
 # Twenty-eight children and three adults are stabbed at a nursery school in China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/asia-pacific/8650626.stm)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-04/29/content_9788583.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/20/iranian-director-jafar-panahi-is-sentenced-to-six-years-imprisonment-for-making-a-film-against-the-regime.html)  [JSON](/news/2010/12/20/iranian-director-jafar-panahi-is-sentenced-to-six-years-imprisonment-for-making-a-film-against-the-regime.json)  [XML](/news/2010/12/20/iranian-director-jafar-panahi-is-sentenced-to-six-years-imprisonment-for-making-a-film-against-the-regime.xml)  
+
 ### [2010-12-20](/news/2010/12/20/index.md)
 
+##### Iranian director
 # Iranian director Jafar Panahi is sentenced to six years imprisonment for making a film "against the regime." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Time](http://www.time.com/time/arts/article/0,8599,2039505,00.html)
 

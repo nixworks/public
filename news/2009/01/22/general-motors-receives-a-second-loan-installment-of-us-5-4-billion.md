@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/22/general-motors-receives-a-second-loan-installment-of-us-5-4-billion.html)  [JSON](/news/2009/01/22/general-motors-receives-a-second-loan-installment-of-us-5-4-billion.json)  [XML](/news/2009/01/22/general-motors-receives-a-second-loan-installment-of-us-5-4-billion.xml)  
+
 ### [2009-01-22](/news/2009/01/22/index.md)
 
+##### General Motors
 #  General Motors receives a second loan installment of US$5.4 billion. 
 
 GM received the second piece of its government loan package Wednesday, a $5.4 billion installment that will allow the automaker to pay its bills and avoid running out of cash.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/28780943/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/ap/d0d50b4e-5c2b-4924-a255-8c2d58c63694.standard.jpg)

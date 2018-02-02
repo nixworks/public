@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/28/in-australia-councillor-paul-tully-wants-to-exhume-the-bodies-of-outlaws-steve-hart-and-dan-kelly-two-members-of-ned-kelly-s-gang-becaus.html)  [JSON](/news/2005/06/28/in-australia-councillor-paul-tully-wants-to-exhume-the-bodies-of-outlaws-steve-hart-and-dan-kelly-two-members-of-ned-kelly-s-gang-becaus.json)  [XML](/news/2005/06/28/in-australia-councillor-paul-tully-wants-to-exhume-the-bodies-of-outlaws-steve-hart-and-dan-kelly-two-members-of-ned-kelly-s-gang-becaus.xml)  
+
 ### [2005-06-28](/news/2005/06/28/index.md)
 
+##### Australia
 #  In Australia, councillor Paul Tully wants to exhume the bodies of outlaws Steve Hart and Dan Kelly, two members of Ned Kelly's gang, because he suspects they may have survived and fled to Queensland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200506/s1401855.htm)
 2. [Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,15754179%255E29277,00.html)

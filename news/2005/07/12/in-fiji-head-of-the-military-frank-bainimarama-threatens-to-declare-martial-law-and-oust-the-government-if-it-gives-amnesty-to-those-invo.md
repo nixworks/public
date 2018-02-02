@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/12/in-fiji-head-of-the-military-frank-bainimarama-threatens-to-declare-martial-law-and-oust-the-government-if-it-gives-amnesty-to-those-invo.html)  [JSON](/news/2005/07/12/in-fiji-head-of-the-military-frank-bainimarama-threatens-to-declare-martial-law-and-oust-the-government-if-it-gives-amnesty-to-those-invo.json)  [XML](/news/2005/07/12/in-fiji-head-of-the-military-frank-bainimarama-threatens-to-declare-martial-law-and-oust-the-government-if-it-gives-amnesty-to-those-invo.xml)  
+
 ### [2005-07-12](/news/2005/07/12/index.md)
 
+##### Fiji
 #  In Fiji, head of the military, Frank Bainimarama threatens to declare martial law and oust the government if it gives amnesty to those involved with 2000 coup attempt 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fiji Times](http://www.fijitimes.com/story.aspx?id=24644)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/SP266284.htm)

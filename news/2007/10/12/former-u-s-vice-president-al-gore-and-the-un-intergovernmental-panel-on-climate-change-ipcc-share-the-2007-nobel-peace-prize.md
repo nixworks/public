@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/10/12/former-u-s-vice-president-al-gore-and-the-un-intergovernmental-panel-on-climate-change-ipcc-share-the-2007-nobel-peace-prize.html)  [JSON](/news/2007/10/12/former-u-s-vice-president-al-gore-and-the-un-intergovernmental-panel-on-climate-change-ipcc-share-the-2007-nobel-peace-prize.json)  [XML](/news/2007/10/12/former-u-s-vice-president-al-gore-and-the-un-intergovernmental-panel-on-climate-change-ipcc-share-the-2007-nobel-peace-prize.xml)  
+
 ### [2007-10-12](/news/2007/10/12/index.md)
 
+##### U.S. Vice President
 #  Former U.S. Vice President Al Gore and the UN Intergovernmental Panel on Climate Change (IPCC) share the 2007 Nobel Peace Prize. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/10/12/AR2007101200384.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/10/12/AR2007101200384.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

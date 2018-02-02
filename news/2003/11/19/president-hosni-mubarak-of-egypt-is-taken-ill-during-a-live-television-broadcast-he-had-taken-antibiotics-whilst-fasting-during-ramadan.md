@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/19/president-hosni-mubarak-of-egypt-is-taken-ill-during-a-live-television-broadcast-he-had-taken-antibiotics-whilst-fasting-during-ramadan.html)  [JSON](/news/2003/11/19/president-hosni-mubarak-of-egypt-is-taken-ill-during-a-live-television-broadcast-he-had-taken-antibiotics-whilst-fasting-during-ramadan.json)  [XML](/news/2003/11/19/president-hosni-mubarak-of-egypt-is-taken-ill-during-a-live-television-broadcast-he-had-taken-antibiotics-whilst-fasting-during-ramadan.xml)  
+
 ### [2003-11-19](/news/2003/11/19/index.md)
 
+##### Hosni Mubarak
 #  President Hosni Mubarak of Egypt is taken ill during a live television broadcast; he had taken antibiotics whilst fasting during Ramadan.
 
 

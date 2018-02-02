@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/7/north-korea-holds-a-rare-second-session-of-its-parliament-with-choe-yong-rim-appointed-to-replace-kim-yong-il-as-premier.html)  [JSON](/news/2010/06/7/north-korea-holds-a-rare-second-session-of-its-parliament-with-choe-yong-rim-appointed-to-replace-kim-yong-il-as-premier.json)  [XML](/news/2010/06/7/north-korea-holds-a-rare-second-session-of-its-parliament-with-choe-yong-rim-appointed-to-replace-kim-yong-il-as-premier.xml)  
+
 ### [2010-06-7](/news/2010/06/7/index.md)
 
+##### North Korea
 # North Korea holds a rare second session of its parliament, with Choe Yong-rim appointed to replace Kim Yong-il as Premier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/201067105435668569.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10252477.stm)
@@ -16,6 +20,6 @@
 
 1. [ North Korean Premier Kim Yong-il begins a five-day goodwill tour of China in Jinan, Shandong. ](/news/2009/03/17/north-korean-premier-kim-yong-il-begins-a-five-day-goodwill-tour-of-china-in-jinan-shandong.md) _Context: Kim Yong-il, North Korea, Premier_
 2. [ North Korean leader Kim Jong-il dismisses Prime Minister Pak Pong-ju and appoints Kim Yong-il in his place. ](/news/2007/04/12/north-korean-leader-kim-jong-il-dismisses-prime-minister-pak-pong-ju-and-appoints-kim-yong-il-in-his-place.md) _Context: Kim Yong-il, North Korea_
-3. [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. Kim Jong-nam was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-kim-j.md) _Context: North Korea_
-4. [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md) _Context: North Korea_
-5. [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _Context: North Korea_
+3. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: North Korea_
+4. [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md) _Context: North Korea_
+5. [ U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than Kim's. ](/news/2018/01/2/u-s-president-donald-trump-responds-to-kim-jong-un-s-claim-of-having-north-korea-s-nuclear-missile-launch-button-on-his-desk-boasting-tha.md) _Context: North Korea_

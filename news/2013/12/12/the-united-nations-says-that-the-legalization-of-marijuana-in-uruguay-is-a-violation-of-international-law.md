@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/12/the-united-nations-says-that-the-legalization-of-marijuana-in-uruguay-is-a-violation-of-international-law.html)  [JSON](/news/2013/12/12/the-united-nations-says-that-the-legalization-of-marijuana-in-uruguay-is-a-violation-of-international-law.json)  [XML](/news/2013/12/12/the-united-nations-says-that-the-legalization-of-marijuana-in-uruguay-is-a-violation-of-international-law.xml)  
+
 ### [2013-12-12](/news/2013/12/12/index.md)
 
+##### United Nations
 # The United Nations says that the legalization of marijuana in Uruguay is a violation of international law. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Huffington Post](http://www.huffingtonpost.com/2013/12/11/uruguay-marijuana-illegal_n_4426789.html)
 

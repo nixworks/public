@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/22/tens-of-thousands-of-venezuelan-students-march-in-caracas-in-two-different-rallies-one-to-oppose-hugo-chavez-and-the-other-one-to-support.html)  [JSON](/news/2007/11/22/tens-of-thousands-of-venezuelan-students-march-in-caracas-in-two-different-rallies-one-to-oppose-hugo-chavez-and-the-other-one-to-support.json)  [XML](/news/2007/11/22/tens-of-thousands-of-venezuelan-students-march-in-caracas-in-two-different-rallies-one-to-oppose-hugo-chavez-and-the-other-one-to-support.xml)  
+
 ### [2007-11-22](/news/2007/11/22/index.md)
 
+##### Venezuela
 #  Tens of thousands of Venezuelan students march in Caracas in two different rallies, one to oppose Hugo Chvez and the other one to support him. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7106816.stm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/17/democratic-presidential-nomination-wisconsin-held-its-primary-election-john-kerry-got-40-of-the-vote-followed-by-john-edwards-with-34.html)  [JSON](/news/2004/02/17/democratic-presidential-nomination-wisconsin-held-its-primary-election-john-kerry-got-40-of-the-vote-followed-by-john-edwards-with-34.json)  [XML](/news/2004/02/17/democratic-presidential-nomination-wisconsin-held-its-primary-election-john-kerry-got-40-of-the-vote-followed-by-john-edwards-with-34.xml)  
+
 ### [2004-02-17](/news/2004/02/17/index.md)
 
+##### Democratic presidential nomination
 #  Democratic presidential nomination: Wisconsin held its primary election. John Kerry got 40% of the vote, followed by John Edwards with 34%, and Howard Dean with 18%.
 
 

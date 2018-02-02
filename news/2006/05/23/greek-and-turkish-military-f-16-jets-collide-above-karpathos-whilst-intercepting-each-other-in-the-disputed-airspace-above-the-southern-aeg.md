@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/23/greek-and-turkish-military-f-16-jets-collide-above-karpathos-whilst-intercepting-each-other-in-the-disputed-airspace-above-the-southern-aeg.html)  [JSON](/news/2006/05/23/greek-and-turkish-military-f-16-jets-collide-above-karpathos-whilst-intercepting-each-other-in-the-disputed-airspace-above-the-southern-aeg.json)  [XML](/news/2006/05/23/greek-and-turkish-military-f-16-jets-collide-above-karpathos-whilst-intercepting-each-other-in-the-disputed-airspace-above-the-southern-aeg.xml)  
+
 ### [2006-05-23](/news/2006/05/23/index.md)
 
+##### Hellenic Air Force
 #  Greek and Turkish military F-16 jets collide above Karpathos whilst intercepting each other in the disputed airspace above the southern Aegean Sea. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/low/world/europe/5008178.stm)
 2. [CNN](http://edition.cnn.com/2006/WORLD/europe/05/23/greece.crash.reut/)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/9/occupation-of-iraq-twin-attacks-in-baghdad-killed-a-spanish-diplomat-by-gunshot-and-in-the-other-at-least-ten-people-following-an-atta.html)  [JSON](/news/2003/10/9/occupation-of-iraq-twin-attacks-in-baghdad-killed-a-spanish-diplomat-by-gunshot-and-in-the-other-at-least-ten-people-following-an-atta.json)  [XML](/news/2003/10/9/occupation-of-iraq-twin-attacks-in-baghdad-killed-a-spanish-diplomat-by-gunshot-and-in-the-other-at-least-ten-people-following-an-atta.xml)  
+
 ### [2003-10-9](/news/2003/10/9/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: Twin attacks in Baghdad killed a Spanish diplomat (by gunshot) and, in the other, at least ten people following an attack on a police station in Baghdad's main Shi'ite neighbourhood, exactly half a year since Coalition troops occupied the Iraqi city.
 
 

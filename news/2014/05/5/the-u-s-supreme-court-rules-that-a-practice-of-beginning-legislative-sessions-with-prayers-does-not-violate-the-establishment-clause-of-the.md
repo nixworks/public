@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/5/the-u-s-supreme-court-rules-that-a-practice-of-beginning-legislative-sessions-with-prayers-does-not-violate-the-establishment-clause-of-the.html)  [JSON](/news/2014/05/5/the-u-s-supreme-court-rules-that-a-practice-of-beginning-legislative-sessions-with-prayers-does-not-violate-the-establishment-clause-of-the.json)  [XML](/news/2014/05/5/the-u-s-supreme-court-rules-that-a-practice-of-beginning-legislative-sessions-with-prayers-does-not-violate-the-establishment-clause-of-the.xml)  
+
 ### [2014-05-5](/news/2014/05/5/index.md)
 
+##### U.S. Supreme Court
 # The U.S. Supreme Court rules that a practice of beginning legislative sessions with prayers does not violate the Establishment Clause of the First Amendment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/nation/nationnow/la-na-nn-supreme-court-religion-catholics-jews-20140505,0,5918654.story)
 1. [Cover Image](http://www.trbimg.com/img-5367efb9/turbine/la-na-nn-supreme-court-religion-catholics-jews-20140505)

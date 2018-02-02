@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/8/australia-announces-a-ban-of-live-cattle-exports-to-indonesia-of-up-to-six-months-following-recent-reports-of-cruel-treatment-in-indonesian.html)  [JSON](/news/2011/06/8/australia-announces-a-ban-of-live-cattle-exports-to-indonesia-of-up-to-six-months-following-recent-reports-of-cruel-treatment-in-indonesian.json)  [XML](/news/2011/06/8/australia-announces-a-ban-of-live-cattle-exports-to-indonesia-of-up-to-six-months-following-recent-reports-of-cruel-treatment-in-indonesian.xml)  
+
 ### [2011-06-8](/news/2011/06/8/index.md)
 
+##### Australia
 # Australia announces a ban of live cattle exports to Indonesia of up to six months following recent reports of cruel treatment in Indonesian abattoirs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/national-affairs/temporary-ban-on-exports-leaves-cattle-stranded/story-fn59niix-1226071488817)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/12/former-president-of-palau-tommy-remengesau-is-convicted-of-12-ethics-code-violations.html)  [JSON](/news/2009/11/12/former-president-of-palau-tommy-remengesau-is-convicted-of-12-ethics-code-violations.json)  [XML](/news/2009/11/12/former-president-of-palau-tommy-remengesau-is-convicted-of-12-ethics-code-violations.xml)  
+
 ### [2009-11-12](/news/2009/11/12/index.md)
 
+##### President of Palau
 #  Former President of Palau Tommy Remengesau is convicted of 12 ethics code violations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=50283)
 

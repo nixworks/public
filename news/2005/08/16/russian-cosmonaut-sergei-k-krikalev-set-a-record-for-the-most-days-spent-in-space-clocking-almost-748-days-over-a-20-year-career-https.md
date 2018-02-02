@@ -1,0 +1,23 @@
+
+Formats: [HTML](/news/2005/08/16/russian-cosmonaut-sergei-k-krikalev-set-a-record-for-the-most-days-spent-in-space-clocking-almost-748-days-over-a-20-year-career-https.html)  [JSON](/news/2005/08/16/russian-cosmonaut-sergei-k-krikalev-set-a-record-for-the-most-days-spent-in-space-clocking-almost-748-days-over-a-20-year-career-https.json)  [XML](/news/2005/08/16/russian-cosmonaut-sergei-k-krikalev-set-a-record-for-the-most-days-spent-in-space-clocking-almost-748-days-over-a-20-year-career-https.xml)  
+
+### [2005-08-16](/news/2005/08/16/index.md)
+
+##### Russia
+#  Russian cosmonaut Sergei K. Krikalev set a record for the most days spent in space, clocking almost 748 days over a 20-year career. [https:--news.yahoo.com-news?tmpl=story&u=-afp-20050816-en_afp-russiausspaceiss_050816194454 (AFP via Yahoo! News)] (Link dead as of 21:21, 14 January 2007 (UTC)), [https:--news.yahoo.com-news?tmpl=story&cid=585&ncid=585&e=1&u=-nm-20050816-sc_nm-space_record_dc_2 (Reuters via Yahoo! News)] (Link dead as of 21:21, 14 January 2007 (UTC))
+
+
+
+
+### Changes:
+
+1. [ Russian cosmonaut Sergei K. Krikalev set a record for the most days spent in space, clocking almost 748 days over a 20-year career. [http:--news.yahoo.com-news?tmpl=story&u=-afp-20050816-en_afp-russiausspaceiss_050816194454 (AFP via Yahoo! News)] (Link dead as of 21:21, 14 January 2007 (UTC)), [http:--news.yahoo.com-news?tmpl=story&cid=585&ncid=585&e=1&u=-nm-20050816-sc_nm-space_record_dc_2 (Reuters via Yahoo! News)] (Link dead as of 21:21, 14 January 2007 (UTC))](/news/2005/08/16/russian-cosmonaut-sergei-k-krikalev-set-a-record-for-the-most-days-spent-in-space-clocking-almost-748-days-over-a-20-year-career-http.md) _2017-10-17 03:19:11 (First version)_
+1. [ Russian cosmonaut Sergei K. Krikalev set a record for the most days spent in space, clocking almost 748 days over a 20-year career. [https:--news.yahoo.com-news?tmpl=story&u=-afp-20050816-en_afp-russiausspaceiss_050816194454 (AFP via Yahoo! News)] (Link dead as of 21:21, 14 January 2007 (UTC)), [https:--news.yahoo.com-news?tmpl=story&cid=585&ncid=585&e=1&u=-nm-20050816-sc_nm-space_record_dc_2 (Reuters via Yahoo! News)] (Link dead as of 21:21, 14 January 2007 (UTC))](/news/2005/08/16/russian-cosmonaut-sergei-k-krikalev-set-a-record-for-the-most-days-spent-in-space-clocking-almost-748-days-over-a-20-year-career-https.md) _(Current version)_
+
+### Related:
+
+1. [Three astronauts, Sunita Williams of the United States, Yuri Malenchenko of Russia and Aki Hoshide of Japan, arrive at the International Space Station for a three month visit. ](/news/2012/07/17/three-astronauts-sunita-williams-of-the-united-states-yuri-malenchenko-of-russia-and-aki-hoshide-of-japan-arrive-at-the-international-spa.md) _Context: Russia, astronaut_
+2. [Two Russian cosmonauts, Aleksandr Kaleri and Oleg Skripochka, and American astronaut Scott Kelly leave on mission Soyuz TMA-01M for the International Space Station from Kazakhstan's Baikonur Cosmodrome. ](/news/2010/10/8/two-russian-cosmonauts-aleksandr-kaleri-and-oleg-skripochka-and-american-astronaut-scott-kelly-leave-on-mission-soyuz-tma-01m-for-the-inte.md) _Context: Russia, astronaut_
+3. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_
+4. [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md) _Context: Russia_
+5. [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic, after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md) _Context: Russia_

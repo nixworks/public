@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/18/a-bus-traveling-to-chile-overturns-in-argentina
 
 ### [2017-02-18](/news/2017/02/18/index.md)
 
+##### Chile
 # A bus traveling to Chile overturns in Argentina's Mendoza Province, killing at least 19 people. 
 
 

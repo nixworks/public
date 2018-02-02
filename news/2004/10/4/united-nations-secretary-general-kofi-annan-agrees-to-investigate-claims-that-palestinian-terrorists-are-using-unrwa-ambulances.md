@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/4/united-nations-secretary-general-kofi-annan-agrees-to-investigate-claims-that-palestinian-terrorists-are-using-unrwa-ambulances.html)  [JSON](/news/2004/10/4/united-nations-secretary-general-kofi-annan-agrees-to-investigate-claims-that-palestinian-terrorists-are-using-unrwa-ambulances.json)  [XML](/news/2004/10/4/united-nations-secretary-general-kofi-annan-agrees-to-investigate-claims-that-palestinian-terrorists-are-using-unrwa-ambulances.xml)  
+
 ### [2004-10-4](/news/2004/10/4/index.md)
 
+##### Israeli-Palestinian conflict
 #  United Nations Secretary General Kofi Annan agrees to investigate claims that Palestinian terrorists are using UNRWA ambulances. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://fr.jpost.com/servlet/Satellite?pagename=JPost/JPArticle/ShowFull&cid=1096870639425)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/7/in-belgium-government-formation-discussions-have-gone-on-for-a-record-150-days-as-flemish-and-walloon-politicians-clash-over-brussels-hall.html)  [JSON](/news/2007/11/7/in-belgium-government-formation-discussions-have-gone-on-for-a-record-150-days-as-flemish-and-walloon-politicians-clash-over-brussels-hall.json)  [XML](/news/2007/11/7/in-belgium-government-formation-discussions-have-gone-on-for-a-record-150-days-as-flemish-and-walloon-politicians-clash-over-brussels-hall.xml)  
+
 ### [2007-11-7](/news/2007/11/7/index.md)
 
+##### Belgium
 #  In Belgium, government formation discussions have gone on for a record 150 days as Flemish and Walloon politicians clash over Brussels-Halle-Vilvoorde. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Economist](http://www.economist.com/displaystory.cfm?story_id=10110979)
 

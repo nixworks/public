@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/14/liverpool-f-c-wins-a-football-match-against-tottenham-hotspur-f-c-by-1-0.html)  [JSON](/news/2006/01/14/liverpool-f-c-wins-a-football-match-against-tottenham-hotspur-f-c-by-1-0.json)  [XML](/news/2006/01/14/liverpool-f-c-wins-a-football-match-against-tottenham-hotspur-f-c-by-1-0.xml)  
+
 ### [2006-01-14](/news/2006/01/14/index.md)
 
+##### Liverpool
 #  Liverpool F.C. wins a football match against Tottenham Hotspur F.C. by 1-0. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/eng_prem/4590268.stm)
 

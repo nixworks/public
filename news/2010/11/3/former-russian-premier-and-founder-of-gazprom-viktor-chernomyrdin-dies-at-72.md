@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2010/11/3/former-russian-premier-and-founder-of-gazprom-viktor-chernomyrdin-dies-at-72.html)  [JSON](/news/2010/11/3/former-russian-premier-and-founder-of-gazprom-viktor-chernomyrdin-dies-at-72.json)  [XML](/news/2010/11/3/former-russian-premier-and-founder-of-gazprom-viktor-chernomyrdin-dies-at-72.xml)  
+
 ### [2010-11-3](/news/2010/11/3/index.md)
 
+##### Russian Premier
 # Former Russian Premier and founder of Gazprom Viktor Chernomyrdin dies at 72. 
 
 Viktor Chernomyrdin, who served under Boris Yeltsin as Russian prime minister during the 1990s, has died aged 72.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ghh1Ok2_WibBnohMpbmvI51clJkw?docId=CNG.6fb684b4ae91d9e1fbe4ebe8eae0b22a.1d1)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11682573)
 3. [RT](http://rt.com/Politics/2010-11-03/former-pm-chernomyrdin-dies.html)
 4. [The Guardian](http://www.guardian.co.uk/world/2010/nov/03/former-russian-prime-minister-dies)
-5. [The New York Times](http://www.nytimes.com/2010/11/04/world/europe/04chernomyrdin.html)
+5. [The New York Times](https://www.nytimes.com/2010/11/04/world/europe/04chernomyrdin.html)
 6. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704462704575591602315511546.html)
 6. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/49766000/jpg/_49766985_vik3.jpg)
 

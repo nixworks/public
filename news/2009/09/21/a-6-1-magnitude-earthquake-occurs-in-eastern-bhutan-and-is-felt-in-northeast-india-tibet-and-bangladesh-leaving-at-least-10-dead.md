@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/21/a-6-1-magnitude-earthquake-occurs-in-eastern-bhutan-and-is-felt-in-northeast-india-tibet-and-bangladesh-leaving-at-least-10-dead.html)  [JSON](/news/2009/09/21/a-6-1-magnitude-earthquake-occurs-in-eastern-bhutan-and-is-felt-in-northeast-india-tibet-and-bangladesh-leaving-at-least-10-dead.json)  [XML](/news/2009/09/21/a-6-1-magnitude-earthquake-occurs-in-eastern-bhutan-and-is-felt-in-northeast-india-tibet-and-bangladesh-leaving-at-least-10-dead.xml)  
+
 ### [2009-09-21](/news/2009/09/21/index.md)
 
+##### 6.1 magnitude earthquake
 #  A 6.1 magnitude earthquake occurs in eastern Bhutan and is felt in northeast India, Tibet and Bangladesh, leaving at least 10 dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBS](http://www.bbs.com.bt/Earthquake%20hits%20Bhutan.html)
 2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/09/21/bhutan.quake/)

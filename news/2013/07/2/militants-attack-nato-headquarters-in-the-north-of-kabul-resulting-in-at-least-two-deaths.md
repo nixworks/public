@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2013/07/2/militants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.html)  [JSON](/news/2013/07/2/militants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.json)  [XML](/news/2013/07/2/militants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.xml)  
+
 ### [2013-07-2](/news/2013/07/2/index.md)
 
+##### NATO
 # Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. 
 
 Taliban insurgents including a suicide bomber in a truck killed six people in an attack on a foreign logistics and supply company in Kabul on Tuesday, police said, the latest in a string of daring assaults in the Afghan capital.
 
 
-### Source:
+### Sources:
 
 1. [AP via Newsday](http://www.newsday.com/news/world/nato-compound-in-kabul-attacked-6-killed-1.5601208)
-2. [Reuters](http://www.reuters.com/article/2013/07/02/us-afghanistan-blast-idUSBRE96102520130702)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130702&t=2&i=746727259&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9610DBA00)
+2. [Reuters](https://www.reuters.com/article/2013/07/02/us-afghanistan-blast-idUSBRE96102520130702)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130702&t=2&i=746727259&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9610DBA00)
+
+### Changes:
+
+1. [War in Afghanistan (2001-present):Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/war-in-afghanistan-2001apresent-pmilitants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md) _2017-08-25 03:38:56 (First version)_
+2. [War in Afghanistan (2001-present):: Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/war-in-afghanistan-2001-present-militants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md) _2017-08-27 03:39:11 (Update)_
+2. [Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/militants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ Taliban insurgents including a suicide bomber in a truck killed six people in an
 3. [A car bomb near Kabul's Hamid Karzai International Airport, that was targeting a NATO convoy passing through the area, kills one civilian and injures 33 others. The Taliban claim responsibility. ](/news/2015/12/28/a-car-bomb-near-kabul-s-hamid-karzai-international-airport-that-was-targeting-a-nato-convoy-passing-through-the-area-kills-one-civilian-an.md) _Context: Kabul, NATO_
 4. [An overnight attack on Camp Integrity in Kabul leaves one NATO service member killed, along with eight support staff and two Taliban insurgents. ](/news/2015/08/8/an-overnight-attack-on-camp-integrity-in-kabul-leaves-one-nato-service-member-killed-along-with-eight-support-staff-and-two-taliban-insurge.md) _Context: Kabul, NATO_
 5. [An Afghan suicide bomber attacks a NATO convoy in Kabul killing at least twelve people and injuring 66 others. ](/news/2015/08/22/an-afghan-suicide-bomber-attacks-a-nato-convoy-in-kabul-killing-at-least-twelve-people-and-injuring-66-others.md) _Context: Kabul, NATO_
-
-### Changes:
-
-1. [War in Afghanistan (2001-present):Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/war-in-afghanistan-2001apresent-pmilitants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md) _2017-08-25 03:38:56 (First version)_
-2. [War in Afghanistan (2001-present):: Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/war-in-afghanistan-2001-present-militants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md) _2017-08-27 03:39:11 (Update)_
-2. [Militants attack NATO headquarters in the north of Kabul resulting in at least two deaths. ](/news/2013/07/2/militants-attack-nato-headquarters-in-the-north-of-kabul-resulting-in-at-least-two-deaths.md) _(Current version)_

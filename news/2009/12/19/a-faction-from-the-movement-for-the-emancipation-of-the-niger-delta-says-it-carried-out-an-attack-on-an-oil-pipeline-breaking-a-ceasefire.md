@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/19/a-faction-from-the-movement-for-the-emancipation-of-the-niger-delta-says-it-carried-out-an-attack-on-an-oil-pipeline-breaking-a-ceasefire.html)  [JSON](/news/2009/12/19/a-faction-from-the-movement-for-the-emancipation-of-the-niger-delta-says-it-carried-out-an-attack-on-an-oil-pipeline-breaking-a-ceasefire.json)  [XML](/news/2009/12/19/a-faction-from-the-movement-for-the-emancipation-of-the-niger-delta-says-it-carried-out-an-attack-on-an-oil-pipeline-breaking-a-ceasefire.xml)  
+
 ### [2009-12-19](/news/2009/12/19/index.md)
 
+##### Movement for the Emancipation of the Niger Delta
 #  A faction from the Movement for the Emancipation of the Niger Delta says it carried out an attack on an oil pipeline, breaking a ceasefire agreed upon with the Nigerian government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8422165.stm)
 2. [Times of Nigeria](http://www.thetimesofnigeria.com/Article.aspx?id=2345)

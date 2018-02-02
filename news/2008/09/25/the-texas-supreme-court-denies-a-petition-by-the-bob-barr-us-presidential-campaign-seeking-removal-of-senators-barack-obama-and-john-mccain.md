@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/25/the-texas-supreme-court-denies-a-petition-by-the-bob-barr-us-presidential-campaign-seeking-removal-of-senators-barack-obama-and-john-mccain.html)  [JSON](/news/2008/09/25/the-texas-supreme-court-denies-a-petition-by-the-bob-barr-us-presidential-campaign-seeking-removal-of-senators-barack-obama-and-john-mccain.json)  [XML](/news/2008/09/25/the-texas-supreme-court-denies-a-petition-by-the-bob-barr-us-presidential-campaign-seeking-removal-of-senators-barack-obama-and-john-mccain.xml)  
+
 ### [2008-09-25](/news/2008/09/25/index.md)
 
+##### Texas Supreme Court
 #  The Texas Supreme Court denies a petition by the Bob Barr US Presidential campaign seeking removal of Senators Barack Obama and John McCain from that state's ballot due to both candidates missing the filing deadline. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dallas Morning News](http://www.dallasnews.com/sharedcontent/APStories/stories/D93CLMO82.html)
 2. [Nolan Report](http://www.nolanchart.com/article4987.html)

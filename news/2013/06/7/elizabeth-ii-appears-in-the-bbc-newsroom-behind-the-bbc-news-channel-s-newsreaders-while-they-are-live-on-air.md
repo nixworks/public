@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/7/elizabeth-ii-appears-in-the-bbc-newsroom-behind-the-bbc-news-channel-s-newsreaders-while-they-are-live-on-air.html)  [JSON](/news/2013/06/7/elizabeth-ii-appears-in-the-bbc-newsroom-behind-the-bbc-news-channel-s-newsreaders-while-they-are-live-on-air.json)  [XML](/news/2013/06/7/elizabeth-ii-appears-in-the-bbc-newsroom-behind-the-bbc-news-channel-s-newsreaders-while-they-are-live-on-air.xml)  
+
 ### [2013-06-7](/news/2013/06/7/index.md)
 
+##### Elizabeth II
 # Elizabeth II appears in the BBC newsroom behind the BBC News Channel's newsreaders while they are live on air. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22813905)
 2. [The Guardian](http://www.guardian.co.uk/uk/2013/jun/07/queen-photobombs-bbc-news-broadcasting-house)

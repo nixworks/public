@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/19/three-salvadoran-deputies-to-the-central-american-parliament-from-the-ruling-arena-party-are-killed-execution-style-in-guatemala-city-one.html)  [JSON](/news/2007/02/19/three-salvadoran-deputies-to-the-central-american-parliament-from-the-ruling-arena-party-are-killed-execution-style-in-guatemala-city-one.json)  [XML](/news/2007/02/19/three-salvadoran-deputies-to-the-central-american-parliament-from-the-ruling-arena-party-are-killed-execution-style-in-guatemala-city-one.xml)  
+
 ### [2007-02-19](/news/2007/02/19/index.md)
 
+##### El Salvador
 #  Three Salvadoran deputies to the Central American Parliament from the ruling ARENA party are killed execution-style in Guatemala City. One of the dead is the son of former president and party founder Roberto D'Aubuisson. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6378645.stm)
 
@@ -15,4 +19,4 @@
 2. [ Mauricio Funes of the Farabundo Mart National Liberation Front wins El Salvador's presidential election. ](/news/2009/03/15/mauricio-funes-of-the-farabundo-marti-national-liberation-front-wins-el-salvador-s-presidential-election.md) _Context: El Salvador, President of El Salvador_
 3. [ Four Guatemalan police officers jailed for the 19 February slaying of three Salvadoran deputies to the Central American Parliament are shot dead inside a maximum security prison; a riot ensues. ](/news/2007/02/26/four-guatemalan-police-officers-jailed-for-the-19-february-slaying-of-three-salvadoran-deputies-to-the-central-american-parliament-are-shot.md) _Context: Central American Parliament, El Salvador_
 4. [ Four men are arrested in Guatemala for the killing of three Central American Parliament members from El Salvador and their driver. ](/news/2007/02/22/four-men-are-arrested-in-guatemala-for-the-killing-of-three-central-american-parliament-members-from-el-salvador-and-their-driver.md) _Context: Central American Parliament, El Salvador_
-5. [Police in Chimaltenango, Guatemala capture ngel Gabriel Reyes Marroquin, a leader of the notorious Mara Salvatrucha, or MS-13, street gang. Prosecutors say he is connected to the deaths of at least 287 people. In 2014 Reyes escaped while facing charges including murder from a maximum security prison. Currently, he was also wanted for an August 17 armed attack on Roosevelt Hospital in Guatemala City in which seven people were shot dead. ](/news/2017/10/13/police-in-chimaltenango-guatemala-capture-angel-gabriel-reyes-marroquin-a-leader-of-the-notorious-mara-salvatrucha-or-ms-13-street-gang.md) _Context: Guatemala City_
+5. [The Trump administration will, in 18 months, end the Temporary Protected Status (TPS) for immigrants from El Salvador living in the U.S. under the TPS issued after a series of devastating earthquakes in 2001. The Department of Homeland Security estimates about 200,000 Salvadorans will be impacted. ](/news/2018/01/8/the-trump-administration-will-in-18-months-end-the-temporary-protected-status-tps-for-immigrants-from-el-salvador-living-in-the-u-s-und.md) _Context: El Salvador_

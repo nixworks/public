@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/9/iranian-president-mahmoud-ahmadinejad-meets-with-venezuelan-president-hugo-chavez-on-the-first-stop-of-ahmadinejad-s-latin-american-tour.html)  [JSON](/news/2012/01/9/iranian-president-mahmoud-ahmadinejad-meets-with-venezuelan-president-hugo-chavez-on-the-first-stop-of-ahmadinejad-s-latin-american-tour.json)  [XML](/news/2012/01/9/iranian-president-mahmoud-ahmadinejad-meets-with-venezuelan-president-hugo-chavez-on-the-first-stop-of-ahmadinejad-s-latin-american-tour.xml)  
+
 ### [2012-01-9](/news/2012/01/9/index.md)
 
+##### President
 # Iranian President Mahmoud Ahmadinejad meets with Venezuelan President Hugo Chvez on the first stop of Ahmadinejad's Latin American tour. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/01/09/world/americas/venezuela-ahmadinejad/index.html?hpt=wo_c2)
 

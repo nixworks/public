@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/10/president-of-bolivia-evo-morales-expels-the-united-states-ambassador-philip-goldberg-for-allegedly-encouraging-anti-government-protests.html)  [JSON](/news/2008/09/10/president-of-bolivia-evo-morales-expels-the-united-states-ambassador-philip-goldberg-for-allegedly-encouraging-anti-government-protests.json)  [XML](/news/2008/09/10/president-of-bolivia-evo-morales-expels-the-united-states-ambassador-philip-goldberg-for-allegedly-encouraging-anti-government-protests.xml)  
+
 ### [2008-09-10](/news/2008/09/10/index.md)
 
+##### President of Bolivia
 #  President of Bolivia Evo Morales expels the United States ambassador, Philip Goldberg, for allegedly encouraging anti-government protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://cbs2chicago.com/national/bolivia.us.ambassador.2.814449.html)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/1/anti-americanism-a-panel-chosen-by-the-administration-of-president-george-w-bush-concludes-that-the-united-states-must-drastically-increa.html)  [JSON](/news/2003/10/1/anti-americanism-a-panel-chosen-by-the-administration-of-president-george-w-bush-concludes-that-the-united-states-must-drastically-increa.json)  [XML](/news/2003/10/1/anti-americanism-a-panel-chosen-by-the-administration-of-president-george-w-bush-concludes-that-the-united-states-must-drastically-increa.xml)  
+
 ### [2003-10-1](/news/2003/10/1/index.md)
 
+##### Anti-Americanism
 #  Anti-Americanism: A panel chosen by the administration of President George W. Bush concludes that the United States must drastically increase and overhaul its public relations efforts to recast its image among Muslims and Arabs abroad. "Hostility toward America has reached shocking levels&nbsp;... What is required is not merely tactical adaptation but strategic, and radical, transformation."
 
 

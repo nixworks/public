@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/20/u-s-defense-secretary-donald-rumsfeld-has-admitted-that-he-had-used-a-machine-to-sign-letters-of-condolence-to-relatives-of-more-than-1-00.html)  [JSON](/news/2004/12/20/u-s-defense-secretary-donald-rumsfeld-has-admitted-that-he-had-used-a-machine-to-sign-letters-of-condolence-to-relatives-of-more-than-1-00.json)  [XML](/news/2004/12/20/u-s-defense-secretary-donald-rumsfeld-has-admitted-that-he-had-used-a-machine-to-sign-letters-of-condolence-to-relatives-of-more-than-1-00.xml)  
+
 ### [2004-12-20](/news/2004/12/20/index.md)
 
+##### U.S. Defense Secretary
 #  U.S. Defense Secretary Donald Rumsfeld has admitted that he had used a machine to sign letters of condolence to relatives of more than 1,000 troops killed in Iraq and Afghanistan, but pledged to sign the letters personally in future. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4110091.stm)
 

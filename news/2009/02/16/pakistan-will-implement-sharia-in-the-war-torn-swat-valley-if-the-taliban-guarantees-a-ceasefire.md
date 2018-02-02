@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/16/pakistan-will-implement-sharia-in-the-war-torn-swat-valley-if-the-taliban-guarantees-a-ceasefire.html)  [JSON](/news/2009/02/16/pakistan-will-implement-sharia-in-the-war-torn-swat-valley-if-the-taliban-guarantees-a-ceasefire.json)  [XML](/news/2009/02/16/pakistan-will-implement-sharia-in-the-war-torn-swat-valley-if-the-taliban-guarantees-a-ceasefire.xml)  
+
 ### [2009-02-16](/news/2009/02/16/index.md)
 
+##### Pakistan
 #  Pakistan will implement sharia in the war-torn Swat Valley if the Taliban guarantees a ceasefire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7894581.stm)
 

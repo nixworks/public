@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/2/children-in-jae-ar-yemen-accidentally-set-off-a-shell-killing-one-and-wounding-seven-others.html)  [JSON](/news/2012/07/2/children-in-jae-ar-yemen-accidentally-set-off-a-shell-killing-one-and-wounding-seven-others.json)  [XML](/news/2012/07/2/children-in-jae-ar-yemen-accidentally-set-off-a-shell-killing-one-and-wounding-seven-others.xml)  
+
 ### [2012-07-2](/news/2012/07/2/index.md)
 
+##### Ja'ar
 # Children in Ja'ar, Yemen, accidentally set off a shell, killing one and wounding seven others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/yemen-shell-kills-child-injures-7-others#overlay-context=)
 

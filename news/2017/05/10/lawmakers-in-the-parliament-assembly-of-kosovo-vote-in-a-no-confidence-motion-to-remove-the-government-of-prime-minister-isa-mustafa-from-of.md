@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/05/10/lawmakers-in-the-parliament-assembly-of-kosovo-vote-in-a-no-confidence-motion-to-remove-the-government-of-prime-minister-isa-mustafa-from-of.html)  [JSON](/news/2017/05/10/lawmakers-in-the-parliament-assembly-of-kosovo-vote-in-a-no-confidence-motion-to-remove-the-government-of-prime-minister-isa-mustafa-from-of.json)  [XML](/news/2017/05/10/lawmakers-in-the-parliament-assembly-of-kosovo-vote-in-a-no-confidence-motion-to-remove-the-government-of-prime-minister-isa-mustafa-from-of.xml)  
+
 ### [2017-05-10](/news/2017/05/10/index.md)
 
+##### Parliament Assembly of Kosovo
 # Lawmakers in the Parliament Assembly of Kosovo vote in a no-confidence motion to remove the government of Prime Minister Isa Mustafa from office, triggering a snap election that is due to take place next month. 
 
 Members of parliament dismiss government in no-confidence motion, triggering a snap election in June.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/05/pm-isa-mustafa-loses-confidence-vote-kosovo-170510153858332.html)
 

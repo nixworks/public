@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/29/the-indonesian-foreign-ministry-says-10-indones
 
 ### [2016-03-29](/news/2016/03/29/index.md)
 
+##### Indonesian foreign ministry
 # The Indonesian foreign ministry says 10 Indonesian nationals are being held hostage after their tug boat and coal barge was hijacked in Philippine waters. Islamist militant group, Abu Sayyaf is demanding a ransom. 
 
 

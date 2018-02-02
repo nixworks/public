@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/04/15/nasdaq-in-pursuit-of-its-bid-for-control-of-nyse-euronext-would-be-willing-to-sell-one-key-nyse-euronext-property-the-american-stock-exch.html)  [JSON](/news/2011/04/15/nasdaq-in-pursuit-of-its-bid-for-control-of-nyse-euronext-would-be-willing-to-sell-one-key-nyse-euronext-property-the-american-stock-exch.json)  [XML](/news/2011/04/15/nasdaq-in-pursuit-of-its-bid-for-control-of-nyse-euronext-would-be-willing-to-sell-one-key-nyse-euronext-property-the-american-stock-exch.xml)  
+
 ### [2011-04-15](/news/2011/04/15/index.md)
 
+##### Nasdaq
 # Nasdaq, in pursuit of its bid for control of NYSE Euronext, would be willing to sell one key NYSE Euronext property, the American Stock Exchange, in order to resolve antitrust issues, according to an unnamed source cited by Reuters. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/04/16/us-nasdaq-idUSTRE73E89L20110416)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/04/16/us-nasdaq-idUSTRE73E89L20110416)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

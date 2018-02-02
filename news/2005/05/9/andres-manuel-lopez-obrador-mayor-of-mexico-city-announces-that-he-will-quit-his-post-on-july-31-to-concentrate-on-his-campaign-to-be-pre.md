@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/05/9/andres-manuel-lopez-obrador-mayor-of-mexico-city-announces-that-he-will-quit-his-post-on-july-31-to-concentrate-on-his-campaign-to-be-pre.html)  [JSON](/news/2005/05/9/andres-manuel-lopez-obrador-mayor-of-mexico-city-announces-that-he-will-quit-his-post-on-july-31-to-concentrate-on-his-campaign-to-be-pre.json)  [XML](/news/2005/05/9/andres-manuel-lopez-obrador-mayor-of-mexico-city-announces-that-he-will-quit-his-post-on-july-31-to-concentrate-on-his-campaign-to-be-pre.xml)  
+
 ### [2005-05-9](/news/2005/05/9/index.md)
 
+##### Andrs Manuel Lpez Obrador
 #  Andrs Manuel Lpez Obrador, mayor of Mexico City, announces that he will quit his post on July 31 to concentrate on his campaign to be president of Mexico. 
 
 Reuters.com is your online source for the latest U.S. news stories from coast to coast and stay current on the events that shape our nation.
 
 
-### Source:
+### Sources:
 
 1. [El Universal](http://www2.eluniversal.com.mx/pls/impreso/noticia.html?id_nota=282459&tabla=notas)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=8429019)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=8429019)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

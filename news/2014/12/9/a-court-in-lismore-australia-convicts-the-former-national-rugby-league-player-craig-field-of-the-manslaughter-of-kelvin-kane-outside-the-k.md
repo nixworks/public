@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/9/a-court-in-lismore-australia-convicts-the-former-national-rugby-league-player-craig-field-of-the-manslaughter-of-kelvin-kane-outside-the-k.html)  [JSON](/news/2014/12/9/a-court-in-lismore-australia-convicts-the-former-national-rugby-league-player-craig-field-of-the-manslaughter-of-kelvin-kane-outside-the-k.json)  [XML](/news/2014/12/9/a-court-in-lismore-australia-convicts-the-former-national-rugby-league-player-craig-field-of-the-manslaughter-of-kelvin-kane-outside-the-k.xml)  
+
 ### [2014-12-9](/news/2014/12/9/index.md)
 
+##### Lismore
 # A court in Lismore, Australia, convicts the former National Rugby League player Craig Field of the manslaughter of Kelvin Kane outside the Kingscliff Hotel in 2012. 
 
 Former rugby league star Craig Field is found guilty of killing a man outside a hotel in northern New South Wales in 2012.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-12-09/ex-league-star-craig-field-guilty-of-manslaughter/5955040)
 1. [Cover Image](http://www.abc.net.au/news/image/5899102-1x1-700x700.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/5/the-death-toll-from-the-2007-south-asian-floods-nears-1-100-in-india-while-120-people-have-died-in-bangladesh-and-84-in-nepal-health-offic.html)  [JSON](/news/2007/08/5/the-death-toll-from-the-2007-south-asian-floods-nears-1-100-in-india-while-120-people-have-died-in-bangladesh-and-84-in-nepal-health-offic.json)  [XML](/news/2007/08/5/the-death-toll-from-the-2007-south-asian-floods-nears-1-100-in-india-while-120-people-have-died-in-bangladesh-and-84-in-nepal-health-offic.xml)  
+
 ### [2007-08-5](/news/2007/08/5/index.md)
 
+##### 2007 South Asian floods
 #  The death toll from the 2007 South Asian floods nears 1,100 in India while 120 people have died in Bangladesh and 84 in Nepal. Health officials have raised concerns about epidemics. 
 
 The death toll from raging floods in India has neared 1,100 as more people drowned in swollen rivers that have stranded millions in their homes, officials say.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/05/1997078.htm)
 2. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/06/1997312.htm)

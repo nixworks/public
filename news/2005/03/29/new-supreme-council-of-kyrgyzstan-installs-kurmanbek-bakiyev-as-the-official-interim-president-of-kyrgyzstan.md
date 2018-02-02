@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/29/new-supreme-council-of-kyrgyzstan-installs-kurmanbek-bakiyev-as-the-official-interim-president-of-kyrgyzstan.html)  [JSON](/news/2005/03/29/new-supreme-council-of-kyrgyzstan-installs-kurmanbek-bakiyev-as-the-official-interim-president-of-kyrgyzstan.json)  [XML](/news/2005/03/29/new-supreme-council-of-kyrgyzstan-installs-kurmanbek-bakiyev-as-the-official-interim-president-of-kyrgyzstan.xml)  
+
 ### [2005-03-29](/news/2005/03/29/index.md)
 
+##### Supreme Council
 #  New Supreme Council of Kyrgyzstan installs Kurmanbek Bakiyev as the official interim President of Kyrgyzstan, 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/International/wireStory?id=623340)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4389197.stm)

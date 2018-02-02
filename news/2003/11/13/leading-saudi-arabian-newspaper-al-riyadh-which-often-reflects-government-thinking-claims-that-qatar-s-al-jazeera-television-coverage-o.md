@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/13/leading-saudi-arabian-newspaper-al-riyadh-which-often-reflects-government-thinking-claims-that-qatar-s-al-jazeera-television-coverage-o.html)  [JSON](/news/2003/11/13/leading-saudi-arabian-newspaper-al-riyadh-which-often-reflects-government-thinking-claims-that-qatar-s-al-jazeera-television-coverage-o.json)  [XML](/news/2003/11/13/leading-saudi-arabian-newspaper-al-riyadh-which-often-reflects-government-thinking-claims-that-qatar-s-al-jazeera-television-coverage-o.xml)  
+
 ### [2003-11-13](/news/2003/11/13/index.md)
 
+##### Saudi Arabia
 #  Leading Saudi Arabian newspaper "al-Riyadh" (which often reflects government thinking) claims that Qatar's Al Jazeera television coverage of the bombing in Riyadh is aimed at inciting more violence. Thirty media outlets claim, with two separate letters sent to The Pentagon, that United States troops are harassing journalists in Iraq and sometimes confiscating equipment, digital camera media and videotapes. A statement by a Pentagon official states the military is aware of reports that soldiers had sometimes not followed procedures on dealing with the media and promises to take appropriate action.
 
 

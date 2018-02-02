@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/22/egyptian-police-arrests-mahmud-ezzat-leader-of-banned-muslim-brotherhood-various-reports-tell-of-different-amounts-from-11-to-24-of-oth.html)  [JSON](/news/2005/05/22/egyptian-police-arrests-mahmud-ezzat-leader-of-banned-muslim-brotherhood-various-reports-tell-of-different-amounts-from-11-to-24-of-oth.json)  [XML](/news/2005/05/22/egyptian-police-arrests-mahmud-ezzat-leader-of-banned-muslim-brotherhood-various-reports-tell-of-different-amounts-from-11-to-24-of-oth.xml)  
+
 ### [2005-05-22](/news/2005/05/22/index.md)
 
+##### Egypt
 #  Egyptian police arrests Mahmud Ezzat, leader of banned Muslim Brotherhood. Various reports tell of different amounts (from 11 to 24) of other arrested members 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/International/wireStory?id=779533)
 2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/C6C7EBAE-D886-40D3-B747-6B08C0994124.htm)

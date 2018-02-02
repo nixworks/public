@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/21/a-hindu-priest-is-hacked-to-death-and-two-devot
 
 ### [2016-02-21](/news/2016/02/21/index.md)
 
+##### Hindu priest
 # A Hindu priest is hacked to death and two devotees, who tried to intercede, are wounded in a temple in the Panchagarh District in northern Bangladesh. The Islamic State of Iraq and the Levant claims responsibility. 
 
 The so-called Islamic State group says it is responsible for decapitating a senior Hindu priest and wounding two worshippers in northern Bangladesh.

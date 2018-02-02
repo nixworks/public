@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/9/republican-dean-heller-is-sworn-in-as-a-united-states-senator-representing-nevada-replacing-john-ensign-who-resigned.html)  [JSON](/news/2011/05/9/republican-dean-heller-is-sworn-in-as-a-united-states-senator-representing-nevada-replacing-john-ensign-who-resigned.json)  [XML](/news/2011/05/9/republican-dean-heller-is-sworn-in-as-a-united-states-senator-representing-nevada-replacing-john-ensign-who-resigned.xml)  
+
 ### [2011-05-9](/news/2011/05/9/index.md)
 
+##### Republican
 # Republican Dean Heller is sworn in as a United States Senator representing Nevada replacing John Ensign who resigned. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Las Vegas Review-Journal](http://www.lvrj.com/news/heller-sworn-in-as-u-s-senator-121512899.html)
 

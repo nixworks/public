@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/7/the-ongoing-allied-war-in-afghanistan-marks-its-tenth-anniversary-with-the-death-toll-among-isaf-personnel-reaching-2-670.html)  [JSON](/news/2011/10/7/the-ongoing-allied-war-in-afghanistan-marks-its-tenth-anniversary-with-the-death-toll-among-isaf-personnel-reaching-2-670.json)  [XML](/news/2011/10/7/the-ongoing-allied-war-in-afghanistan-marks-its-tenth-anniversary-with-the-death-toll-among-isaf-personnel-reaching-2-670.xml)  
+
 ### [2011-10-7](/news/2011/10/7/index.md)
 
+##### War in Afghanistan (2001-present)
 # The ongoing allied war in Afghanistan marks its tenth anniversary, with the death toll among ISAF personnel reaching 2,670. 
 
 Afghanistan is marking 10 years since the start of the US-led war against the Taliban in quiet fashion, but security is being stepped up in the capital.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/afghanistan-marks-10-years-since-war-20111007-1ld00.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

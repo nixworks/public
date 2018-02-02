@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/01/27/a-7-7-magnitude-earthquake-strikes-the-banda-sea-of-eastern-indonesia.html)  [JSON](/news/2006/01/27/a-7-7-magnitude-earthquake-strikes-the-banda-sea-of-eastern-indonesia.json)  [XML](/news/2006/01/27/a-7-7-magnitude-earthquake-strikes-the-banda-sea-of-eastern-indonesia.xml)  
+
 ### [2006-01-27](/news/2006/01/27/index.md)
 
+##### earthquake
 #  A 7.7 magnitude earthquake strikes the Banda Sea of eastern Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USGS](http://earthquake.usgs.gov/eqcenter/eqinthenews/2006/usika7/)
+1. [USGS](https://earthquake.usgs.gov/eqcenter/eqinthenews/2006/usika7/)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/14/indian-foreign-minister-s-m-krishna-goes-to-islamabad-for-talks-with-his-counterpart-of-pakistan-shah-mehmood-qureshi-for-the-first-time.html)  [JSON](/news/2010/07/14/indian-foreign-minister-s-m-krishna-goes-to-islamabad-for-talks-with-his-counterpart-of-pakistan-shah-mehmood-qureshi-for-the-first-time.json)  [XML](/news/2010/07/14/indian-foreign-minister-s-m-krishna-goes-to-islamabad-for-talks-with-his-counterpart-of-pakistan-shah-mehmood-qureshi-for-the-first-time.xml)  
+
 ### [2010-07-14](/news/2010/07/14/index.md)
 
+##### India
 # Indian Foreign Minister S. M. Krishna goes to Islamabad for talks with his counterpart of Pakistan, Shah Mehmood Qureshi, for the first time since the 2008 Mumbai attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south+asia-10630985)
 

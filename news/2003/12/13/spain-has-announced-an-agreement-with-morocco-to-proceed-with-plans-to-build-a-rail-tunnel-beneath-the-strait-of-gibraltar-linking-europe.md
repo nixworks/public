@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/13/spain-has-announced-an-agreement-with-morocco-to-proceed-with-plans-to-build-a-rail-tunnel-beneath-the-strait-of-gibraltar-linking-europe.html)  [JSON](/news/2003/12/13/spain-has-announced-an-agreement-with-morocco-to-proceed-with-plans-to-build-a-rail-tunnel-beneath-the-strait-of-gibraltar-linking-europe.json)  [XML](/news/2003/12/13/spain-has-announced-an-agreement-with-morocco-to-proceed-with-plans-to-build-a-rail-tunnel-beneath-the-strait-of-gibraltar-linking-europe.xml)  
+
 ### [2003-12-13](/news/2003/12/13/index.md)
 
+##### Spain
 #  Spain has announced an agreement with Morocco to proceed with plans to build a rail tunnel beneath the Strait of Gibraltar, linking Europe and Africa. Assuming the project is technically and financially feasible, digging would start in 2008. 
 
 

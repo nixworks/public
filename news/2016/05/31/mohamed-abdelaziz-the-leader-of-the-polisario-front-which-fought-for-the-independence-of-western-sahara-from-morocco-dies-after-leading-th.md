@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/31/mohamed-abdelaziz-the-leader-of-the-polisario-f
 
 ### [2016-05-31](/news/2016/05/31/index.md)
 
+##### Mohamed Abdelaziz
 # Mohamed Abdelaziz, the leader of the Polisario Front which fought for the independence of Western Sahara from Morocco, dies after leading the group since 1976. 
 
 Mohamed Abdelaziz, secretary general of movement fighting for independence of Western Sahara, dies after long illness.

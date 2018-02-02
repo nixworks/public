@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/28/the-world-health-organization-announces-that-sars-has-peaked-in-all-affected-countries-except-the-people-s-republic-of-china-these-countri.html)  [JSON](/news/2003/04/28/the-world-health-organization-announces-that-sars-has-peaked-in-all-affected-countries-except-the-people-s-republic-of-china-these-countri.json)  [XML](/news/2003/04/28/the-world-health-organization-announces-that-sars-has-peaked-in-all-affected-countries-except-the-people-s-republic-of-china-these-countri.xml)  
+
 ### [2003-04-28](/news/2003/04/28/index.md)
 
+##### World Health Organization
 #  The World Health Organization announces that SARS has peaked in all affected countries except the People's Republic of China. These countries include Canada, Singapore, and Vietnam, as well as Hong Kong. [http:--www.globeandmail.com-servlet-story-RTGAM.20030428.wsars0428-BNStory-International ]date=September 2015 
 
 

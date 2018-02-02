@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/12/new-zealand-refuses-entry-to-sri-lankan-asylum-seekers-detained-in-indonesia-who-claimed-to-be-heading-there.html)  [JSON](/news/2011/07/12/new-zealand-refuses-entry-to-sri-lankan-asylum-seekers-detained-in-indonesia-who-claimed-to-be-heading-there.json)  [XML](/news/2011/07/12/new-zealand-refuses-entry-to-sri-lankan-asylum-seekers-detained-in-indonesia-who-claimed-to-be-heading-there.xml)  
+
 ### [2011-07-12](/news/2011/07/12/index.md)
 
+##### New Zealand
 # New Zealand refuses entry to Sri Lankan asylum seekers detained in Indonesia who claimed to be heading there. 
 
 New Zealand has refused entry to a boat load of Sri Lankan asylum seekers, saying it would only open the door to &#039;millions of others&#039; and reward people smugglers.
 
 
-### Source:
+### Sources:
 
 1. [SBS](http://www.sbs.com.au/news/article/1569611/NZ-shuts-door-on-asylum-seekers)
 1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/5/7/5790_asylum-seeker-boat-b-110614-aap.jpg)

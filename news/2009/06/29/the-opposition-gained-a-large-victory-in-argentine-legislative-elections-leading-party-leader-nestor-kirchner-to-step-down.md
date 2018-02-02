@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/29/the-opposition-gained-a-large-victory-in-argentine-legislative-elections-leading-party-leader-nestor-kirchner-to-step-down.html)  [JSON](/news/2009/06/29/the-opposition-gained-a-large-victory-in-argentine-legislative-elections-leading-party-leader-nestor-kirchner-to-step-down.json)  [XML](/news/2009/06/29/the-opposition-gained-a-large-victory-in-argentine-legislative-elections-leading-party-leader-nestor-kirchner-to-step-down.xml)  
+
 ### [2009-06-29](/news/2009/06/29/index.md)
 
+##### opposition
 #  The opposition gained a large victory in Argentine legislative elections, leading party leader Nstor Kirchner to step down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8125279.stm)
 

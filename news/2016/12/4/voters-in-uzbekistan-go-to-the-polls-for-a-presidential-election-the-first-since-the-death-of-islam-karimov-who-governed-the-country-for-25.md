@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/4/voters-in-uzbekistan-go-to-the-polls-for-a-presi
 
 ### [2016-12-4](/news/2016/12/4/index.md)
 
+##### Uzbekistani presidential election, 2016
 # Voters in Uzbekistan go to the polls for a presidential election, the first since the death of Islam Karimov who governed the country for 25 years. 
 
 

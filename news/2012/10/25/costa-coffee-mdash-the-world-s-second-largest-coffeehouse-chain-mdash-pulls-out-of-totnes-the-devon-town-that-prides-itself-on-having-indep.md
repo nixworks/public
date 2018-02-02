@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/25/costa-coffee-mdash-the-world-s-second-largest-coffeehouse-chain-mdash-pulls-out-of-totnes-the-devon-town-that-prides-itself-on-having-indep.html)  [JSON](/news/2012/10/25/costa-coffee-mdash-the-world-s-second-largest-coffeehouse-chain-mdash-pulls-out-of-totnes-the-devon-town-that-prides-itself-on-having-indep.json)  [XML](/news/2012/10/25/costa-coffee-mdash-the-world-s-second-largest-coffeehouse-chain-mdash-pulls-out-of-totnes-the-devon-town-that-prides-itself-on-having-indep.xml)  
+
 ### [2012-10-25](/news/2012/10/25/index.md)
 
+##### Costa Coffee
 # Costa Coffee&mdash;the world's second-largest coffeehouse chain&mdash;pulls out of Totnes, the Devon town that prides itself on having independent shops. 
 
 Costa Coffee, given approval to open in Totnes, pulls out after &quot;recognising the strength of feeling&quot; against it.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-devon-20079092)
 2. [ITV](http://www.itv.com/news/westcountry/2012-10-25/totnes-businesses-say-no-to-costa/)

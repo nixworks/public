@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/25/russian-foreign-minister-sergey-lavrov-says-that-russia-now-formally-recognizes-petro-poroshenko-as-the-legitimate-president-of-ukraine-in-t.html)  [JSON](/news/2014/08/25/russian-foreign-minister-sergey-lavrov-says-that-russia-now-formally-recognizes-petro-poroshenko-as-the-legitimate-president-of-ukraine-in-t.json)  [XML](/news/2014/08/25/russian-foreign-minister-sergey-lavrov-says-that-russia-now-formally-recognizes-petro-poroshenko-as-the-legitimate-president-of-ukraine-in-t.xml)  
+
 ### [2014-08-25](/news/2014/08/25/index.md)
 
+##### Sergey Lavrov
 # Russian Foreign Minister Sergey Lavrov says that Russia now formally recognizes Petro Poroshenko as the legitimate President of Ukraine in the hope that Poroshenko will "live up to Russia's trust." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/lavrov-moscow-hopes-poroshenko-will-live-up-to-russias-trust-361935.html)
 

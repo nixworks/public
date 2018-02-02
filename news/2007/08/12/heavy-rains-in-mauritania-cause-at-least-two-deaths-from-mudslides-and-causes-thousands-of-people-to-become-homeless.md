@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/12/heavy-rains-in-mauritania-cause-at-least-two-deaths-from-mudslides-and-causes-thousands-of-people-to-become-homeless.html)  [JSON](/news/2007/08/12/heavy-rains-in-mauritania-cause-at-least-two-deaths-from-mudslides-and-causes-thousands-of-people-to-become-homeless.json)  [XML](/news/2007/08/12/heavy-rains-in-mauritania-cause-at-least-two-deaths-from-mudslides-and-causes-thousands-of-people-to-become-homeless.xml)  
+
 ### [2007-08-12](/news/2007/08/12/index.md)
 
+##### Mauritanian
 #  Heavy rains in Mauritania cause at least two deaths from mudslides and causes thousands of people to become homeless. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/english/2007-08-12-voa17.cfm)
 

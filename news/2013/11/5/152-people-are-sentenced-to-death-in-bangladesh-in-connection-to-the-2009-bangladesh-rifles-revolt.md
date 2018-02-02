@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/11/5/152-people-are-sentenced-to-death-in-bangladesh-in-connection-to-the-2009-bangladesh-rifles-revolt.html)  [JSON](/news/2013/11/5/152-people-are-sentenced-to-death-in-bangladesh-in-connection-to-the-2009-bangladesh-rifles-revolt.json)  [XML](/news/2013/11/5/152-people-are-sentenced-to-death-in-bangladesh-in-connection-to-the-2009-bangladesh-rifles-revolt.xml)  
+
 ### [2013-11-5](/news/2013/11/5/index.md)
 
+##### Bangladesh
 # 152 people are sentenced to death in Bangladesh in connection to the 2009 Bangladesh Rifles revolt. 
 
 A special court in Bangladesh on Tuesday sentenced to death more than 150 people among hundreds of border guards accused of murder and arson during a mutiny at their headquarters in 2009.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/11/05/us-bangladesh-mutiny-verdict-idUSBRE9A40CK20131105)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131105&t=2&i=809047849&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9A40XHE00)
+1. [Reuters](https://www.reuters.com/article/2013/11/05/us-bangladesh-mutiny-verdict-idUSBRE9A40CK20131105)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131105&t=2&i=809047849&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9A40XHE00)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/16/ethiopia-s-ruling-party-eprdf-states-it-has-won-general-elections-when-the-opposition-claims-a-victory-voter-turnout-was-over-90.html)  [JSON](/news/2005/05/16/ethiopia-s-ruling-party-eprdf-states-it-has-won-general-elections-when-the-opposition-claims-a-victory-voter-turnout-was-over-90.json)  [XML](/news/2005/05/16/ethiopia-s-ruling-party-eprdf-states-it-has-won-general-elections-when-the-opposition-claims-a-victory-voter-turnout-was-over-90.xml)  
+
 ### [2005-05-16](/news/2005/05/16/index.md)
 
+##### Ethiopia
 #  Ethiopia's ruling party EPRDF states it has won general elections when the opposition claims a victory. Voter turnout was over 90%. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4550839.stm)
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1705687,00.html)

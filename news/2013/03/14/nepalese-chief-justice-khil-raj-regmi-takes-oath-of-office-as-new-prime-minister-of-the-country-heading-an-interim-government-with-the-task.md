@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/14/nepalese-chief-justice-khil-raj-regmi-takes-oath-of-office-as-new-prime-minister-of-the-country-heading-an-interim-government-with-the-task.html)  [JSON](/news/2013/03/14/nepalese-chief-justice-khil-raj-regmi-takes-oath-of-office-as-new-prime-minister-of-the-country-heading-an-interim-government-with-the-task.json)  [XML](/news/2013/03/14/nepalese-chief-justice-khil-raj-regmi-takes-oath-of-office-as-new-prime-minister-of-the-country-heading-an-interim-government-with-the-task.xml)  
+
 ### [2013-03-14](/news/2013/03/14/index.md)
 
+##### Nepal
 # Nepalese Chief Justice Khil Raj Regmi takes oath of office as new Prime Minister of the country, heading an interim government with the task of conducting elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''The Australian](http://www.theaustralian.com.au/news/breaking-news/nepals-prime-minister-to-step-down/story-fn3dxix6-1226596834214)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/10/occupation-of-iraq-a-large-car-bomb-explodes-in-the-central-iraqi-town-of-iskandariya-25-mi-south-of-baghdad-killing-at-least-50-people.html)  [JSON](/news/2004/02/10/occupation-of-iraq-a-large-car-bomb-explodes-in-the-central-iraqi-town-of-iskandariya-25-mi-south-of-baghdad-killing-at-least-50-people.json)  [XML](/news/2004/02/10/occupation-of-iraq-a-large-car-bomb-explodes-in-the-central-iraqi-town-of-iskandariya-25-mi-south-of-baghdad-killing-at-least-50-people.xml)  
+
 ### [2004-02-10](/news/2004/02/10/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: A large car bomb explodes in the central Iraqi town of Iskandariya, 25 mi south of Baghdad, killing at least 50 people.
 
 

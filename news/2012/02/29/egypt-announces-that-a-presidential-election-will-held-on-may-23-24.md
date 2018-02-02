@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/29/egypt-announces-that-a-presidential-election-will-held-on-may-23-24.html)  [JSON](/news/2012/02/29/egypt-announces-that-a-presidential-election-will-held-on-may-23-24.json)  [XML](/news/2012/02/29/egypt-announces-that-a-presidential-election-will-held-on-may-23-24.xml)  
+
 ### [2012-02-29](/news/2012/02/29/index.md)
 
+##### Egypt
 # Egypt announces that a presidential election will held on May 23-24. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Business Day](http://www.businessday.com.au/breaking-news-world/egypt-sets-date-for-presidential-election-20120301-1u3wj.html)
 

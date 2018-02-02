@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/12/at-least-six-people-are-killed-and-29-injured-in-a-methane-gas-leak-at-the-bhilai-steel-plant-in-bhilai-chhattisgarh-india.html)  [JSON](/news/2014/06/12/at-least-six-people-are-killed-and-29-injured-in-a-methane-gas-leak-at-the-bhilai-steel-plant-in-bhilai-chhattisgarh-india.json)  [XML](/news/2014/06/12/at-least-six-people-are-killed-and-29-injured-in-a-methane-gas-leak-at-the-bhilai-steel-plant-in-bhilai-chhattisgarh-india.xml)  
+
 ### [2014-06-12](/news/2014/06/12/index.md)
 
+##### methane
 # At least six people are killed and 29 injured in a methane gas leak at the Bhilai Steel Plant in Bhilai, Chhattisgarh, India. 
 
 Six people including two Deputy General Managers are dead and over 30 sustained injuries after a gas leak occurred at the Bhilai Steel Plant in Chhattisgarh on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/article/india/six-dead-29-injured-after-gas-leak-at-bhilai-steel-plant-540548?curl=1402598685)
 1. [Cover Image](http://i.ndtvimg.com/mt/2014-06/bhilai_explosion_360x270.jpg)

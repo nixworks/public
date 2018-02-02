@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/18/the-first-nelson-mandela-international-day-is-held-on-nelson-mandela-s-92nd-birthday.html)  [JSON](/news/2010/07/18/the-first-nelson-mandela-international-day-is-held-on-nelson-mandela-s-92nd-birthday.json)  [XML](/news/2010/07/18/the-first-nelson-mandela-international-day-is-held-on-nelson-mandela-s-92nd-birthday.xml)  
+
 ### [2010-07-18](/news/2010/07/18/index.md)
 
+##### Nelson Mandela International Day
 # The first Nelson Mandela International Day is held on Nelson Mandela's 92nd birthday. 
 
 People across the world give 67 minutes of public service to pay tribute to Mandela.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/201071853612813416.html)
 1. [Cover Image](http://www.aljazeera.com)

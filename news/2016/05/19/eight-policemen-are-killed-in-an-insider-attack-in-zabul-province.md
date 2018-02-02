@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/19/eight-policemen-are-killed-in-an-insider-attack
 
 ### [2016-05-19](/news/2016/05/19/index.md)
 
+##### Taliban insurgency
 #  Eight policemen are killed in an insider attack in Zabul Province. 
 
 Eight Afghan policemen were killed by a colleague who turned his gun on them at a checkpoint in the volatile southern Zabul province in Afghanistan.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/1/over-a-thousand-dead-blackbirds-and-other-fowl-fall-out-of-the-sky-in-arkansas-after-a-violent-tornado-outbreak-and-hailstorm.html)  [JSON](/news/2011/01/1/over-a-thousand-dead-blackbirds-and-other-fowl-fall-out-of-the-sky-in-arkansas-after-a-violent-tornado-outbreak-and-hailstorm.json)  [XML](/news/2011/01/1/over-a-thousand-dead-blackbirds-and-other-fowl-fall-out-of-the-sky-in-arkansas-after-a-violent-tornado-outbreak-and-hailstorm.xml)  
+
 ### [2011-01-1](/news/2011/01/1/index.md)
 
+##### blackbirds
 # Over a thousand dead blackbirds and other fowl fall out of the sky in Arkansas after a violent tornado outbreak and hailstorm. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/US/01/02/arkansas.falling.birds/)
 2. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hR5yNrCf_J3vwK_xXRBmb56cfkEw)

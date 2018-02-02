@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/10/israeli-forces-remove-palestinian-tents-near-nablus-of-which-8-were-reportedly-used-as-homes.html)  [JSON](/news/2011/02/10/israeli-forces-remove-palestinian-tents-near-nablus-of-which-8-were-reportedly-used-as-homes.json)  [XML](/news/2011/02/10/israeli-forces-remove-palestinian-tents-near-nablus-of-which-8-were-reportedly-used-as-homes.xml)  
+
 ### [2011-02-10](/news/2011/02/10/index.md)
 
+##### Israel
 # Israeli forces remove Palestinian tents near Nablus of which 8 were reportedly used as homes.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/middleeast/article255266.ece)
 2. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=207539)

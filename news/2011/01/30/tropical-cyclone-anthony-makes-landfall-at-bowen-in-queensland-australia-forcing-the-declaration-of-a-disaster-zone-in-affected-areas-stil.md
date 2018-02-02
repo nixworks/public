@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/30/tropical-cyclone-anthony-makes-landfall-at-bowen-in-queensland-australia-forcing-the-declaration-of-a-disaster-zone-in-affected-areas-stil.html)  [JSON](/news/2011/01/30/tropical-cyclone-anthony-makes-landfall-at-bowen-in-queensland-australia-forcing-the-declaration-of-a-disaster-zone-in-affected-areas-stil.json)  [XML](/news/2011/01/30/tropical-cyclone-anthony-makes-landfall-at-bowen-in-queensland-australia-forcing-the-declaration-of-a-disaster-zone-in-affected-areas-stil.xml)  
+
 ### [2011-01-30](/news/2011/01/30/index.md)
 
+##### Anthony
 # Tropical Cyclone Anthony makes landfall at Bowen in Queensland, Australia, forcing the declaration of a disaster zone in affected areas still recovering from the 2010-2011 Queensland floods. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fraser Coast Chronicle](http://www.frasercoastchronicle.com.au/story/2011/01/31/double-trouble-cyclone-anthony-queensland-coast/)
 2. [Radio Australia News](http://www.radioaustralianews.net.au/stories/201101/3125240.htm?desktop)

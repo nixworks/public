@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/13/a-civilian-is-killed-and-six-people-injured-in-fighting-in-iraq-s-diyala-governorate.html)  [JSON](/news/2010/09/13/a-civilian-is-killed-and-six-people-injured-in-fighting-in-iraq-s-diyala-governorate.json)  [XML](/news/2010/09/13/a-civilian-is-killed-and-six-people-injured-in-fighting-in-iraq-s-diyala-governorate.xml)  
+
 ### [2010-09-13](/news/2010/09/13/index.md)
 
+##### Iraq
 # A civilian is killed and six people injured in fighting in Iraq's Diyala Governorate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/13/c_13492800.htm)
 

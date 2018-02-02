@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/9/jailed-ukrainian-opposition-leader-yulia-tymoshenko-is-moved-to-a-hospital-after-a-political-compromise-and-ends-her-hunger-strike.html)  [JSON](/news/2012/05/9/jailed-ukrainian-opposition-leader-yulia-tymoshenko-is-moved-to-a-hospital-after-a-political-compromise-and-ends-her-hunger-strike.json)  [XML](/news/2012/05/9/jailed-ukrainian-opposition-leader-yulia-tymoshenko-is-moved-to-a-hospital-after-a-political-compromise-and-ends-her-hunger-strike.xml)  
+
 ### [2012-05-9](/news/2012/05/9/index.md)
 
+##### Ukraine
 # Jailed Ukrainian opposition leader Yulia Tymoshenko is moved to a hospital after a political compromise, and ends her hunger strike. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2012/05/09/uk-ukraine-tymoshenko-idUKBRE8480I020120509)
 1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20120509&t=2&i=604884874&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-05-09T135315Z_1_CBRE84812KT00_RTROPTP_0_EU-UKRAINE)

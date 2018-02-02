@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/2/zhou-zhengyi-the-11th-richest-businessman-in-mainland-china-is-given-a-three-year-jail-sentence-for-stock-market-fraud.html)  [JSON](/news/2004/06/2/zhou-zhengyi-the-11th-richest-businessman-in-mainland-china-is-given-a-three-year-jail-sentence-for-stock-market-fraud.json)  [XML](/news/2004/06/2/zhou-zhengyi-the-11th-richest-businessman-in-mainland-china-is-given-a-three-year-jail-sentence-for-stock-market-fraud.xml)  
+
 ### [2004-06-2](/news/2004/06/2/index.md)
 
+##### Zhou Zhengyi
 #  Zhou Zhengyi, the 11th richest businessman in mainland China, is given a three-year jail sentence for stock market fraud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/3767815.stm)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/07/30/fiat-wins-at-least-a-partial-victory-in-delaware-chancery-court-but-the-judge-declines-its-invitation-to-order-a-united-autoworkers-affilia.html)  [JSON](/news/2013/07/30/fiat-wins-at-least-a-partial-victory-in-delaware-chancery-court-but-the-judge-declines-its-invitation-to-order-a-united-autoworkers-affilia.json)  [XML](/news/2013/07/30/fiat-wins-at-least-a-partial-victory-in-delaware-chancery-court-but-the-judge-declines-its-invitation-to-order-a-united-autoworkers-affilia.xml)  
+
 ### [2013-07-30](/news/2013/07/30/index.md)
 
+##### Fiat
 # Fiat wins at least a partial victory in Delaware Chancery Court, but the judge declines its invitation to order a United Autoworkers affiliated trust to sell its Chrysler shares to the Italian company. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/07/31/us-fiat-veba-statement-idUSBRE96U0A920130731)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130731&t=2&i=755916195&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE96U0OY300)
+1. [Reuters](https://www.reuters.com/article/2013/07/31/us-fiat-veba-statement-idUSBRE96U0A920130731)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130731&t=2&i=755916195&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE96U0OY300)
 
 ### Related:
 

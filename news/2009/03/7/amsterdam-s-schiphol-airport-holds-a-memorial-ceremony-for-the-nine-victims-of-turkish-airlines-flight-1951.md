@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/7/amsterdam-s-schiphol-airport-holds-a-memorial-ceremony-for-the-nine-victims-of-turkish-airlines-flight-1951.html)  [JSON](/news/2009/03/7/amsterdam-s-schiphol-airport-holds-a-memorial-ceremony-for-the-nine-victims-of-turkish-airlines-flight-1951.json)  [XML](/news/2009/03/7/amsterdam-s-schiphol-airport-holds-a-memorial-ceremony-for-the-nine-victims-of-turkish-airlines-flight-1951.xml)  
+
 ### [2009-03-7](/news/2009/03/7/index.md)
 
+##### Amsterdam
 #  Amsterdam's Schiphol Airport holds a memorial ceremony for the nine victims of Turkish Airlines Flight 1951. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Netherlands](http://www.radionetherlands.nl/news/zijlijn/6205747/Ceremony-for-Schiphol-plane-crash-victims)
 

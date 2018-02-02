@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/2/in-columbus-ohio-a-7-month-old-baby-is-killed-in
 
 ### [2016-06-2](/news/2016/06/2/index.md)
 
+##### 
 #  In Columbus, Ohio, a 7 month old baby is killed in his stroller when a woman driving alone with a learning permit jumped the curb, hit his father and the child and crashed into a building. No cause of the crash has been established. 
 
 Micah Ferebee was being pushed in a stroller by his father on Westerville Road when the crash happened.

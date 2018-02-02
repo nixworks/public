@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/24/british-police-find-the-body-of-22-year-old-sian-o-callaghan-in-oxfordshire-five-days-after-she-went-missing-in-swindon-wiltshire-a-47-ye.html)  [JSON](/news/2011/03/24/british-police-find-the-body-of-22-year-old-sian-o-callaghan-in-oxfordshire-five-days-after-she-went-missing-in-swindon-wiltshire-a-47-ye.json)  [XML](/news/2011/03/24/british-police-find-the-body-of-22-year-old-sian-o-callaghan-in-oxfordshire-five-days-after-she-went-missing-in-swindon-wiltshire-a-47-ye.xml)  
+
 ### [2011-03-24](/news/2011/03/24/index.md)
 
+##### Sian O'Callaghan
 # British Police find the body of 22-year-old Sian O'Callaghan in Oxfordshire, five days after she went missing in Swindon, Wiltshire. A 47-year-old man is arrested on suspicion of murder and police are also searching for the body of an unnamed missing woman who is feared to have been murdered. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-wiltshire-12852499)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606887_bn-304x171.jpg)

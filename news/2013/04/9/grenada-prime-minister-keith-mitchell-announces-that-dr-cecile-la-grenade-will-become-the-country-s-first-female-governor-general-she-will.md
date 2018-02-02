@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/9/grenada-prime-minister-keith-mitchell-announces-that-dr-cecile-la-grenade-will-become-the-country-s-first-female-governor-general-she-will.html)  [JSON](/news/2013/04/9/grenada-prime-minister-keith-mitchell-announces-that-dr-cecile-la-grenade-will-become-the-country-s-first-female-governor-general-she-will.json)  [XML](/news/2013/04/9/grenada-prime-minister-keith-mitchell-announces-that-dr-cecile-la-grenade-will-become-the-country-s-first-female-governor-general-she-will.xml)  
+
 ### [2013-04-9](/news/2013/04/9/index.md)
 
+##### Grenada
 # Grenada Prime Minister Keith Mitchell announces that Dr. Cecile La Grenade will become the country's first female Governor General. She will succeed Sir Carlyle Glean. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Caribbean Journal](http://www.caribjournal.com/2013/04/10/grenada-names-first-female-governor-general-cecile-la-grenade/)
 

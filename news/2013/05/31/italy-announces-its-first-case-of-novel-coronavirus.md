@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/05/31/italy-announces-its-first-case-of-novel-coronavirus.html)  [JSON](/news/2013/05/31/italy-announces-its-first-case-of-novel-coronavirus.json)  [XML](/news/2013/05/31/italy-announces-its-first-case-of-novel-coronavirus.xml)  
+
 ### [2013-05-31](/news/2013/05/31/index.md)
 
+##### Middle East respiratory syndrome coronavirus
 # Italy announces its first case of novel coronavirus. 
 
 Italy reported its first case of the SARS-like coronavirus on Friday, a 45-year-old man who had been travelling in Jordan, the health ministry said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/05/31/us-coronavirus-italy-idUSBRE94U15M20130531)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/05/31/us-coronavirus-italy-idUSBRE94U15M20130531)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

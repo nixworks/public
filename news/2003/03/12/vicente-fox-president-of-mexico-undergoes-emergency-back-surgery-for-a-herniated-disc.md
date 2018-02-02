@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/12/vicente-fox-president-of-mexico-undergoes-emergency-back-surgery-for-a-herniated-disc.html)  [JSON](/news/2003/03/12/vicente-fox-president-of-mexico-undergoes-emergency-back-surgery-for-a-herniated-disc.json)  [XML](/news/2003/03/12/vicente-fox-president-of-mexico-undergoes-emergency-back-surgery-for-a-herniated-disc.xml)  
+
 ### [2003-03-12](/news/2003/03/12/index.md)
 
+##### Vicente Fox
 #  Vicente Fox, president of Mexico, undergoes emergency back surgery for a herniated disc.
 
 

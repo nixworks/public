@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/5/peru-recalls-carlos-urrutia-its-ambassador-to-venezuela-after-venezuelan-president-hugo-chavez-praises-peruvian-presidential-hopeful-olla.html)  [JSON](/news/2006/01/5/peru-recalls-carlos-urrutia-its-ambassador-to-venezuela-after-venezuelan-president-hugo-chavez-praises-peruvian-presidential-hopeful-olla.json)  [XML](/news/2006/01/5/peru-recalls-carlos-urrutia-its-ambassador-to-venezuela-after-venezuelan-president-hugo-chavez-praises-peruvian-presidential-hopeful-olla.xml)  
+
 ### [2006-01-5](/news/2006/01/5/index.md)
 
+##### Peru
 #  Peru recalls Carlos Urrutia, its ambassador to Venezuela, after Venezuelan President Hugo Chvez praises Peruvian presidential hopeful Ollanta Humala for his left-leaning policies. A spokeswoman for the Peruvian Foreign Ministry stated, "There are concerns of political meddling in Peru's electoral affairs and comments by President Chvez were out of place." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yahoo! News](http://au.news.yahoo.com/060105/15/xh1r.html)
 

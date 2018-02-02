@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/16/toshiba-plans-to-withdraw-from-hd-dvd-production-ending-the-format-war-in-blu-ray-disc-s-favor.html)  [JSON](/news/2008/02/16/toshiba-plans-to-withdraw-from-hd-dvd-production-ending-the-format-war-in-blu-ray-disc-s-favor.json)  [XML](/news/2008/02/16/toshiba-plans-to-withdraw-from-hd-dvd-production-ending-the-format-war-in-blu-ray-disc-s-favor.xml)  
+
 ### [2008-02-16](/news/2008/02/16/index.md)
 
+##### Toshiba
 #  Toshiba plans to withdraw from HD DVD production, ending the format war in Blu-ray Disc's favor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NHK](http://www.nhk.or.jp/daily/english/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/3/london-police-arrest-the-leader-of-pakistan-s-mqm-party-altaf-hussain-on-suspicion-of-money-laundering.html)  [JSON](/news/2014/06/3/london-police-arrest-the-leader-of-pakistan-s-mqm-party-altaf-hussain-on-suspicion-of-money-laundering.json)  [XML](/news/2014/06/3/london-police-arrest-the-leader-of-pakistan-s-mqm-party-altaf-hussain-on-suspicion-of-money-laundering.xml)  
+
 ### [2014-06-3](/news/2014/06/3/index.md)
 
+##### London police
 # London police arrest the leader of Pakistan's MQM party, Altaf Hussain, on suspicion of money-laundering. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-27680038)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75275000/jpg/_75275480_75275476.jpg)

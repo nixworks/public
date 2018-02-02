@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/22/the-attorney-general-for-england-and-wales-is-being-asked-to-consider-prosecuting-a-journalist-who-allegedly-broke-a-privacy-order-on-twitte.html)  [JSON](/news/2011/05/22/the-attorney-general-for-england-and-wales-is-being-asked-to-consider-prosecuting-a-journalist-who-allegedly-broke-a-privacy-order-on-twitte.json)  [XML](/news/2011/05/22/the-attorney-general-for-england-and-wales-is-being-asked-to-consider-prosecuting-a-journalist-who-allegedly-broke-a-privacy-order-on-twitte.xml)  
+
 ### [2011-05-22](/news/2011/05/22/index.md)
 
+##### Attorney General for England and Wales
 # The Attorney General for England and Wales is being asked to consider prosecuting a journalist who allegedly broke a privacy order on Twitter in respect of another footballer who has taken out an injunction. 
 
 A Scottish newspaper names a footballer accused of being linked to a privacy injunction by users of social networking website Twitter.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13491086)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52874000/jpg/_52874896_twitter_legal_grab.jpg)

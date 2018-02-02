@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/5/sports-journalist-alberto-angulo-gerardo-is-killed-in-the-mexican-state-of-sinaloa-his-death-add-ups-to-the-death-toll-of-more-than-100-med.html)  [JSON](/news/2013/11/5/sports-journalist-alberto-angulo-gerardo-is-killed-in-the-mexican-state-of-sinaloa-his-death-add-ups-to-the-death-toll-of-more-than-100-med.json)  [XML](/news/2013/11/5/sports-journalist-alberto-angulo-gerardo-is-killed-in-the-mexican-state-of-sinaloa-his-death-add-ups-to-the-death-toll-of-more-than-100-med.xml)  
+
 ### [2013-11-5](/news/2013/11/5/index.md)
 
+##### Sinaloa
 # Sports journalist Alberto Angulo Gerardo is killed in the Mexican state of Sinaloa. His death add ups to the death toll of more than 100 media workers killed in Mexico since the year 2000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [GlobalPost](http://www.globalpost.com/dispatch/news/regions/americas/mexico/131105/mexico-violence-sports-journalist-killed-sinaloa)
 

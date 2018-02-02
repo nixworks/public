@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/9/prosecutors-in-the-u-k-drop-the-case-against-members-of-a-group-who-were-planning-to-forcefully-shut-down-the-coal-based-ratcliffe-on-soar.html)  [JSON](/news/2011/01/9/prosecutors-in-the-u-k-drop-the-case-against-members-of-a-group-who-were-planning-to-forcefully-shut-down-the-coal-based-ratcliffe-on-soar.json)  [XML](/news/2011/01/9/prosecutors-in-the-u-k-drop-the-case-against-members-of-a-group-who-were-planning-to-forcefully-shut-down-the-coal-based-ratcliffe-on-soar.xml)  
+
 ### [2011-01-9](/news/2011/01/9/index.md)
 
+##### U.K.
 # Prosecutors in the U.K. drop the case against members of a group who were planning to forcefully shut down the coal based Ratcliffe-on-Soar power station temporarily, after the undercover officer, an alleged provocateur in the group, offers to give evidence in support of the activists. 
 
 The trial of six green campaigners collapses after an undercover policeman who had infiltrated their group offers to give evidence on their behalf.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12148753)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

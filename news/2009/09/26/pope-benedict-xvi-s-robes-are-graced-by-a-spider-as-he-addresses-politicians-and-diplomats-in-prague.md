@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/26/pope-benedict-xvi-s-robes-are-graced-by-a-spider-as-he-addresses-politicians-and-diplomats-in-prague.html)  [JSON](/news/2009/09/26/pope-benedict-xvi-s-robes-are-graced-by-a-spider-as-he-addresses-politicians-and-diplomats-in-prague.json)  [XML](/news/2009/09/26/pope-benedict-xvi-s-robes-are-graced-by-a-spider-as-he-addresses-politicians-and-diplomats-in-prague.xml)  
+
 ### [2009-09-26](/news/2009/09/26/index.md)
 
+##### Pope Benedict XVI
 #  Pope Benedict XVI's robes are graced by a spider as he addresses politicians and diplomats in Prague. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8276951.stm)
 

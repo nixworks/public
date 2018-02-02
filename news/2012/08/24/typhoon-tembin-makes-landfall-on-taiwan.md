@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/24/typhoon-tembin-makes-landfall-on-taiwan.html)  [JSON](/news/2012/08/24/typhoon-tembin-makes-landfall-on-taiwan.json)  [XML](/news/2012/08/24/typhoon-tembin-makes-landfall-on-taiwan.xml)  
+
 ### [2012-08-24](/news/2012/08/24/index.md)
 
+##### Typhoon Tembin
 # Typhoon Tembin makes landfall on Taiwan. 
 
 A powerful typhoon made landfall in southern Taiwan before dawn Friday, toppling trees and dumping torrential rain that flooded farmlands before roaring out to sea.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/typhoon-batters-southern-taiwan-winds-rain-012101246.html)
+1. [AP via Yahoo! News](https://news.yahoo.com/typhoon-batters-southern-taiwan-winds-rain-012101246.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

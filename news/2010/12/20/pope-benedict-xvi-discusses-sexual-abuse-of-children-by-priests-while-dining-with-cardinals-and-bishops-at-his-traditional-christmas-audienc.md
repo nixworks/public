@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/20/pope-benedict-xvi-discusses-sexual-abuse-of-children-by-priests-while-dining-with-cardinals-and-bishops-at-his-traditional-christmas-audienc.html)  [JSON](/news/2010/12/20/pope-benedict-xvi-discusses-sexual-abuse-of-children-by-priests-while-dining-with-cardinals-and-bishops-at-his-traditional-christmas-audienc.json)  [XML](/news/2010/12/20/pope-benedict-xvi-discusses-sexual-abuse-of-children-by-priests-while-dining-with-cardinals-and-bishops-at-his-traditional-christmas-audienc.xml)  
+
 ### [2010-12-20](/news/2010/12/20/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI discusses sexual abuse of children by priests while dining with cardinals and bishops at his traditional Christmas audience. 
 
 Pope Benedict calls for the Catholic Church to reflect on mistakes that allowed sexual abuse of children by priests to happen.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20101220-310071/Pope-says-Church-must-admit-paedophile-crisis-mistakes)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-12039499)

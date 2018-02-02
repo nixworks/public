@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/18/the-president-of-indonesia-joko-widodo-drops-his-nomination-of-budi-gunawan-as-national-police-chief-following-allegations-that-gunawan-was.html)  [JSON](/news/2015/02/18/the-president-of-indonesia-joko-widodo-drops-his-nomination-of-budi-gunawan-as-national-police-chief-following-allegations-that-gunawan-was.json)  [XML](/news/2015/02/18/the-president-of-indonesia-joko-widodo-drops-his-nomination-of-budi-gunawan-as-national-police-chief-following-allegations-that-gunawan-was.xml)  
+
 ### [2015-02-18](/news/2015/02/18/index.md)
 
+##### President of Indonesia
 # The President of Indonesia Joko Widodo drops his nomination of Budi Gunawan as national police chief following allegations that Gunawan was involved in a bribery scandal. 
 
 JAKARTA – Indonesian President Joko Widodo on Wednesday dropped his sole nomination for the post of national police chief after public outcry over the candidate’s implication in a bribery scandal.. Read more at straitstimes.com.
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/news/asia/south-east-asia/story/indonesias-president-jokowi-drops-budi-gunawan-police-chief-nominee-)
 1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/02/18/CORRUPTION180215e_2x.jpg?itok=k5b8QXUD)

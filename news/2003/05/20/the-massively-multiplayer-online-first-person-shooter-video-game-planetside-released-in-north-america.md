@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/20/the-massively-multiplayer-online-first-person-shooter-video-game-planetside-released-in-north-america.html)  [JSON](/news/2003/05/20/the-massively-multiplayer-online-first-person-shooter-video-game-planetside-released-in-north-america.json)  [XML](/news/2003/05/20/the-massively-multiplayer-online-first-person-shooter-video-game-planetside-released-in-north-america.xml)  
+
 ### [2003-05-20](/news/2003/05/20/index.md)
 
+##### massively-multiplayer online first-person-shooter
 #  The massively-multiplayer online first-person-shooter video game Planetside released in North America.
 
 

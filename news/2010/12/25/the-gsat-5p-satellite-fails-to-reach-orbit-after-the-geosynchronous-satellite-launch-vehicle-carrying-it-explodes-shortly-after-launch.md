@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/25/the-gsat-5p-satellite-fails-to-reach-orbit-after-the-geosynchronous-satellite-launch-vehicle-carrying-it-explodes-shortly-after-launch.html)  [JSON](/news/2010/12/25/the-gsat-5p-satellite-fails-to-reach-orbit-after-the-geosynchronous-satellite-launch-vehicle-carrying-it-explodes-shortly-after-launch.json)  [XML](/news/2010/12/25/the-gsat-5p-satellite-fails-to-reach-orbit-after-the-geosynchronous-satellite-launch-vehicle-carrying-it-explodes-shortly-after-launch.xml)  
+
 ### [2010-12-25](/news/2010/12/25/index.md)
 
+##### GSAT-5P
 # The GSAT-5P satellite fails to reach orbit after the Geosynchronous Satellite Launch Vehicle carrying it explodes shortly after launch. 
 
 The rocket geosynchronous satellite launch vehicle (GSLV) exploded mid-air moments after it took off from the Sriharikota rocket launch centre.
 
 
-### Source:
+### Sources:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/india/GSAT-5P-launch-fails-satellite-vehicle-explodes-mid-air/articleshow/7162634.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/7162648.cms)

@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2014/06/24/moon-chang-keuk-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-korea-due-to-his-alleged-historic-pro-japanese-v.html)  [JSON](/news/2014/06/24/moon-chang-keuk-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-korea-due-to-his-alleged-historic-pro-japanese-v.json)  [XML](/news/2014/06/24/moon-chang-keuk-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-korea-due-to-his-alleged-historic-pro-japanese-v.xml)  
+
 ### [2014-06-24](/news/2014/06/24/index.md)
 
+##### Prime Minister
 #  (Moon Chang-keuk withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2014/06/24/0200000000AEN20140624003200315.html)
 1. [Cover Image](http://img.yonhapnews.co.kr/photo/yna/YH/2014/06/24/PYH2014062403140001300_T.jpg)
+
+### Changes:
+
+1. [ ({{Interlanguage link multi|Moon Chang-keuk|ko|3=muncanggeug}}) withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. ](/news/2014/06/24/interlanguage-link-multi-moon-chang-keuk-ko-3-e-ideg1-2e-1-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-kor.md) _2017-05-01 03:44:08 (First version)_
+2. [ (Moon Chang-keuk|ko|3=muncanggeug) withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. ](/news/2014/06/24/moon-chang-keuk-ko-3-e-ideg1-2e-1-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-korea-due-to-his-alleged-histori.md) _2017-08-29 03:40:32 (Update)_
+2. [ (Moon Chang-keuk withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. ](/news/2014/06/24/moon-chang-keuk-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-korea-due-to-his-alleged-historic-pro-japanese-v.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [Jung Hong-won will stay on as the Prime Minister of South Korea despite resigning after the sinking of the MV Sewol as two nominations as replacements have fallen through. ](/news/2014/06/26/jung-hong-won-will-stay-on-as-the-prime-minister-of-south-korea-despite-resigning-after-the-sinking-of-the-mv-sewol-as-two-nominations-as-re.md) _Context: Prime Minister_
 4. [The Prime Minister of South Korea Jung Hong-won announces his immediate resignation following growing criticism of the response to the sinking of the MV "Sewol". ](/news/2014/04/27/the-prime-minister-of-south-korea-jung-hong-won-announces-his-immediate-resignation-following-growing-criticism-of-the-response-to-the-sinki.md) _Context: Prime Minister_
 5. [The Prime Minister of South Korea, Kim Hwang-sik, calls for an overhaul of disaster management following the death of 59 people in floods and landslides caused by heavy rain in recent days. ](/news/2011/07/29/the-prime-minister-of-south-korea-kim-hwang-sik-calls-for-an-overhaul-of-disaster-management-following-the-death-of-59-people-in-floods-an.md) _Context: Prime Minister_
-
-### Changes:
-
-1. [ ({{Interlanguage link multi|Moon Chang-keuk|ko|3=muncanggeug}}) withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. ](/news/2014/06/24/interlanguage-link-multi-moon-chang-keuk-ko-3-e-ideg1-2e-1-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-kor.md) _2017-05-01 03:44:08 (First version)_
-2. [ (Moon Chang-keuk|ko|3=muncanggeug) withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. ](/news/2014/06/24/moon-chang-keuk-ko-3-e-ideg1-2e-1-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-korea-due-to-his-alleged-histori.md) _2017-08-29 03:40:32 (Update)_
-2. [ (Moon Chang-keuk withdraws his name from nomination to be the next Prime Minister of South Korea due to his alleged historic pro-Japanese views. ](/news/2014/06/24/moon-chang-keuk-withdraws-his-name-from-nomination-to-be-the-next-prime-minister-of-south-korea-due-to-his-alleged-historic-pro-japanese-v.md) _(Current version)_

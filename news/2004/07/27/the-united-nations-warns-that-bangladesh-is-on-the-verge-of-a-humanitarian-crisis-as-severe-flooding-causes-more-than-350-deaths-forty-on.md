@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/27/the-united-nations-warns-that-bangladesh-is-on-the-verge-of-a-humanitarian-crisis-as-severe-flooding-causes-more-than-350-deaths-forty-on.html)  [JSON](/news/2004/07/27/the-united-nations-warns-that-bangladesh-is-on-the-verge-of-a-humanitarian-crisis-as-severe-flooding-causes-more-than-350-deaths-forty-on.json)  [XML](/news/2004/07/27/the-united-nations-warns-that-bangladesh-is-on-the-verge-of-a-humanitarian-crisis-as-severe-flooding-causes-more-than-350-deaths-forty-on.xml)  
+
 ### [2004-07-27](/news/2004/07/27/index.md)
 
+##### United Nations
 #  The United Nations warns that Bangladesh is on the verge of a humanitarian crisis, as severe flooding causes more than 350 deaths. Forty-one of the country's sixty-four districts are affected by the floods, and officials say 14 million people are either marooned or homeless; other estimates reach as high as 30 million. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/3928463.stm)
 

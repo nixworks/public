@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/10/17/the-economic-community-of-west-african-states-ecowas-imposes-an-arms-embargo-on-guinea-after-the-deaths-of-opposition-supporters-at-a-ral.html)  [JSON](/news/2009/10/17/the-economic-community-of-west-african-states-ecowas-imposes-an-arms-embargo-on-guinea-after-the-deaths-of-opposition-supporters-at-a-ral.json)  [XML](/news/2009/10/17/the-economic-community-of-west-african-states-ecowas-imposes-an-arms-embargo-on-guinea-after-the-deaths-of-opposition-supporters-at-a-ral.xml)  
+
 ### [2009-10-17](/news/2009/10/17/index.md)
 
+##### ECOWAS
 #  The Economic Community of West African States (ECOWAS) imposes an arms embargo on Guinea after the deaths of opposition supporters at a rally last month. 
 
 * ECOWAS accuses Guinea of &quot;mass human rights violations&quot; * Group says violence threat to stability in region * ECOWAS also threatens
 
 
-### Source:
+### Sources:
 
 1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=109161)
-2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLH513511)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/latestCrisis/idUSLH513511)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

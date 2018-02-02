@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/28/nepal-elects-baburam-bhattarai-as-its-new-prime-minister.html)  [JSON](/news/2011/08/28/nepal-elects-baburam-bhattarai-as-its-new-prime-minister.json)  [XML](/news/2011/08/28/nepal-elects-baburam-bhattarai-as-its-new-prime-minister.xml)  
+
 ### [2011-08-28](/news/2011/08/28/index.md)
 
+##### Nepal
 # Nepal elects Baburam Bhattarai as its new Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/08/28/nepal.politics/index.html?hpt=hp_t2)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/08/28/nepal.politics/tzvids.bhattarai.afp.gi.jpg)

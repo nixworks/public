@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/19/president-of-zimbabwe-robert-mugabe-is-fired-as
 
 ### [2017-11-19](/news/2017/11/19/index.md)
 
+##### 2017 Zimbabwean coup d'etat
 # President of Zimbabwe Robert Mugabe is fired as the leader of ZANU-PF and replaced with former Vice President Emmerson Mnangagwa. 
 
 Zanu PF has sacked the president and replaced him with Emmerson Mnangagwa, the deputy he dismissed two weeks ago

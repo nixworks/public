@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/19/more-than-20-garment-workers-are-killed-after-a-bus-that-they-were-travelling-to-work-in-collides-with-a-tourist-bus-in-cambodia-s-svay-rien.html)  [JSON](/news/2015/05/19/more-than-20-garment-workers-are-killed-after-a-bus-that-they-were-travelling-to-work-in-collides-with-a-tourist-bus-in-cambodia-s-svay-rien.json)  [XML](/news/2015/05/19/more-than-20-garment-workers-are-killed-after-a-bus-that-they-were-travelling-to-work-in-collides-with-a-tourist-bus-in-cambodia-s-svay-rien.xml)  
+
 ### [2015-05-19](/news/2015/05/19/index.md)
 
+##### Cambodia
 # More than 20 garment workers are killed after a bus that they were travelling to work in collides with a tourist bus in Cambodia's Svay Rieng Province. 
 
 Eighteen garment workers were killed and 21 injured Tuesday morning when the van they were traveling in on their way to work in Svay Rieng province crashed with a tourist bus, according to an Interior Ministry official.
 
 
-### Source:
+### Sources:
 
 1. [Cambodia Daily](https://www.cambodiadaily.com/news/more-than-20-garment-workers-killed-in-crash-83915/)
 1. [Cover Image](https://www.cambodiadaily.com/cdfiles/wp-content/uploads/2015/05/crash-pic_WEB.jpg)

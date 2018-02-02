@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/10/georgia-senator-david-perdue-is-criticized-for-
 
 ### [2016-06-10](/news/2016/06/10/index.md)
 
+##### Georgia
 # Georgia Senator David Perdue is criticized for remarks at the Faith and Freedom Coalition's Road to Majority conference in which his quote of Psalm 109:8, "Let his days be few, and may another have his office," appears to be a prayer for President Barack Obama's death. Perdue says, "It was a little humor and I said it in a way that we were talking about his days as president." 
 
 Georgia Sen. David Perdue said people should pray for President Barack Obama, then recited a Bible verse about death, praying &quot;let his days be few.&quot;

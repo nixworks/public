@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/03/18/a-thai-farm-worker-in-israel-is-killed-by-a-rocket-fired-from-the-hamas-controlled-palestinian-territory-of-gaza-according-to-the-israeli-m.html)  [JSON](/news/2010/03/18/a-thai-farm-worker-in-israel-is-killed-by-a-rocket-fired-from-the-hamas-controlled-palestinian-territory-of-gaza-according-to-the-israeli-m.json)  [XML](/news/2010/03/18/a-thai-farm-worker-in-israel-is-killed-by-a-rocket-fired-from-the-hamas-controlled-palestinian-territory-of-gaza-according-to-the-israeli-m.xml)  
+
 ### [2010-03-18](/news/2010/03/18/index.md)
 
+##### Thai Society
 # A Thai farm worker in Israel is killed by a rocket fired from the Hamas-controlled Palestinian territory of Gaza, according to the Israeli military. 
 
 A foreign agricultural worker was the first fatality from Gaza rocket fire since Israel’s 2009 military offensive.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/2010318101628795550.html)
-2. [The New York Times](http://www.nytimes.com/2010/03/19/world/middleeast/19gaza.html?ref=global-home)
+2. [The New York Times](https://www.nytimes.com/2010/03/19/world/middleeast/19gaza.html?ref=global-home)
 2. [Cover Image](https://static01.nyt.com/images/2010/03/19/world/19gazaspan-cnd/19gazaspan-cnd-thumbStandard.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/22/the-ten-members-of-the-association-of-southeast-asian-nations-agree-to-set-up-an-economic-community-to-commence-on-january-1-2016.html)  [JSON](/news/2015/11/22/the-ten-members-of-the-association-of-southeast-asian-nations-agree-to-set-up-an-economic-community-to-commence-on-january-1-2016.json)  [XML](/news/2015/11/22/the-ten-members-of-the-association-of-southeast-asian-nations-agree-to-set-up-an-economic-community-to-commence-on-january-1-2016.xml)  
+
 ### [2015-11-22](/news/2015/11/22/index.md)
 
+##### Association of Southeast Asian Nations
 # The ten members of the Association of Southeast Asian Nations agree to set up an economic community to commence on January 1, 2016. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/520809b4f18f49329994c23abf3b8c20/latest-about-100-malaysian-muslims-protest-obama)
 

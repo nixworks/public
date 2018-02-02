@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/6/cuban-president-fidel-castro-is-elected-unopposed-to-a-sixth-term-he-has-served-as-the-head-of-cuba-s-government-for-44-yearsalonger-tha.html)  [JSON](/news/2003/03/6/cuban-president-fidel-castro-is-elected-unopposed-to-a-sixth-term-he-has-served-as-the-head-of-cuba-s-government-for-44-yearsalonger-tha.json)  [XML](/news/2003/03/6/cuban-president-fidel-castro-is-elected-unopposed-to-a-sixth-term-he-has-served-as-the-head-of-cuba-s-government-for-44-yearsalonger-tha.xml)  
+
 ### [2003-03-6](/news/2003/03/6/index.md)
 
+##### Cuba
 #  Cuban President Fidel Castro is elected unopposed to a sixth term. He has served as the head of Cuba's government for 44 years--longer than any other living head of government.
 
 

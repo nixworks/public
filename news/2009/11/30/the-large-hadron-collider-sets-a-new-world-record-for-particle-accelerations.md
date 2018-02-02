@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/30/the-large-hadron-collider-sets-a-new-world-record-for-particle-accelerations.html)  [JSON](/news/2009/11/30/the-large-hadron-collider-sets-a-new-world-record-for-particle-accelerations.json)  [XML](/news/2009/11/30/the-large-hadron-collider-sets-a-new-world-record-for-particle-accelerations.xml)  
+
 ### [2009-11-30](/news/2009/11/30/index.md)
 
+##### Large Hadron Collider
 #  The Large Hadron Collider sets a new world record for particle accelerations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8385891.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/science/large-hadron-collider/6690033/LHC-sets-new-energy-record-CERN-says.html)

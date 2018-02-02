@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2006/10/4/the-european-union-imposes-an-anti-dumping-tariff-on-leather-shoe-imports-from-the-far-east-16-5-on-imports-from-china-and-10-on-import.html)  [JSON](/news/2006/10/4/the-european-union-imposes-an-anti-dumping-tariff-on-leather-shoe-imports-from-the-far-east-16-5-on-imports-from-china-and-10-on-import.json)  [XML](/news/2006/10/4/the-european-union-imposes-an-anti-dumping-tariff-on-leather-shoe-imports-from-the-far-east-16-5-on-imports-from-china-and-10-on-import.xml)  
+
 ### [2006-10-4](/news/2006/10/4/index.md)
 
+##### European Union
 #  The European Union imposes an anti-dumping tariff on leather shoe imports from the Far East - 16.5% on imports from China and 10% on imports from Vietnam. China supplies about 1.25 billion pairs of shoes to the EU each year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [EUobserver.com](http://euobserver.com/9/22568)
 
 ### Related:
 
-1. [ French Foreign Minister Bernard Kouchner says the EU should consider punishing China's crackdown in Tibet with a boycott of the opening ceremony of the Olympic Games in Beijing. ](/news/2008/03/18/french-foreign-minister-bernard-kouchner-says-the-eu-should-consider-punishing-china-s-crackdown-in-tibet-with-a-boycott-of-the-opening-cer.md) _Context: Chinese, EU_
-2. [Floods and landslides in Yen Bai and Hoa Binh provinces in Vietnam kill at least 54 people with 39 more missing. ](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-54-people-with-39-more-missing.md) _Context: Vietnam_
-3. [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md) _Context: EU_
-4. [Flights are cancelled and evacuations are ordered for over 100,000 people in the North Central Coast of Vietnam, in preparation for Typhoon Doksuri. The system has already claimed four lives passing over the Philippines. ](/news/2017/09/14/flights-are-cancelled-and-evacuations-are-ordered-for-over-100-000-people-in-the-north-central-coast-of-vietnam-in-preparation-for-typhoon.md) _Context: Vietnam_
-5. [The European Union's executive branch sends a formal notice to Poland expressing their concern that the new "discretionary" powers given to the country's justice minister threaten the independence of the courts in violation of EU laws. Poland has a month to respond. ](/news/2017/07/29/the-european-union-s-executive-branch-sends-a-formal-notice-to-poland-expressing-their-concern-that-the-new-discretionary-powers-given-to.md) _Context: EU_
+1. [Turkish President Recep Tayyip Erdogan says he is "tired" of waiting for the European Union to approve Turkey's membership in the political union. ](/news/2018/01/5/turkish-president-recep-tayyip-erdoaan-says-he-is-tired-of-waiting-for-the-european-union-to-approve-turkey-s-membership-in-the-political.md) _Context: European Union_
+2. [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md) _Context: European Union_
+3. [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md) _Context: European Union_
+4. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: European Union_
+5. [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md) _Context: European Union_

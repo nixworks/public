@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/04/29/an-explosion-in-the-nangarhar-province-of-afghanistan-kills-at-least-15-afghans-with-another-25-injured.html)  [JSON](/news/2008/04/29/an-explosion-in-the-nangarhar-province-of-afghanistan-kills-at-least-15-afghans-with-another-25-injured.json)  [XML](/news/2008/04/29/an-explosion-in-the-nangarhar-province-of-afghanistan-kills-at-least-15-afghans-with-another-25-injured.xml)  
+
 ### [2008-04-29](/news/2008/04/29/index.md)
 
+##### Nangarhar Province
 #  An explosion in the Nangarhar Province of Afghanistan kills at least 15 Afghans with another 25 injured. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via ''The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/04/29/AR2008042900241.html)
+1. [Reuters via ''The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2008/04/29/AR2008042900241.html)
 
 ### Related:
 

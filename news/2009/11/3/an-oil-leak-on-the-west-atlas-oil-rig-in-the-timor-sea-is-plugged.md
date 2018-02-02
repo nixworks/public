@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/3/an-oil-leak-on-the-west-atlas-oil-rig-in-the-timor-sea-is-plugged.html)  [JSON](/news/2009/11/3/an-oil-leak-on-the-west-atlas-oil-rig-in-the-timor-sea-is-plugged.json)  [XML](/news/2009/11/3/an-oil-leak-on-the-west-atlas-oil-rig-in-the-timor-sea-is-plugged.xml)  
+
 ### [2009-11-3](/news/2009/11/3/index.md)
 
+##### Montara oil spill
 #  An oil leak on the West Atlas oil rig in the Timor Sea is plugged. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8339807.stm)
 2. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26302356-2702,00.html)

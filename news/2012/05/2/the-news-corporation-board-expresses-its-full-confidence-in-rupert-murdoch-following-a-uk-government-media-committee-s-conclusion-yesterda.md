@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/2/the-news-corporation-board-expresses-its-full-confidence-in-rupert-murdoch-following-a-uk-government-media-committee-s-conclusion-yesterda.html)  [JSON](/news/2012/05/2/the-news-corporation-board-expresses-its-full-confidence-in-rupert-murdoch-following-a-uk-government-media-committee-s-conclusion-yesterda.json)  [XML](/news/2012/05/2/the-news-corporation-board-expresses-its-full-confidence-in-rupert-murdoch-following-a-uk-government-media-committee-s-conclusion-yesterda.xml)  
+
 ### [2012-05-2](/news/2012/05/2/index.md)
 
+##### News Corporation
 # The News Corporation board expresses its "full confidence" in Rupert Murdoch following a UK government media committee's conclusion yesterday that Murdoch is "not a fit person" to run a major international business. 
 
 The News Corporation board says it has &quot;full confidence&quot; in Rupert Murdoch following a highly critical UK parliamentary committee report.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17932195)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60001000/jpg/_60001027_014646770-1.jpg)

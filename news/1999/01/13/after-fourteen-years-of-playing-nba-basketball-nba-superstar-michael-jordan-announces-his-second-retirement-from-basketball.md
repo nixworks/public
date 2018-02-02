@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/01/13/after-fourteen-years-of-playing-nba-basketball-nba-superstar-michael-jordan-announces-his-second-retirement-from-basketball.html)  [JSON](/news/1999/01/13/after-fourteen-years-of-playing-nba-basketball-nba-superstar-michael-jordan-announces-his-second-retirement-from-basketball.json)  [XML](/news/1999/01/13/after-fourteen-years-of-playing-nba-basketball-nba-superstar-michael-jordan-announces-his-second-retirement-from-basketball.xml)  
+
 ### [1999-01-13](/news/1999/01/13/index.md)
 
+##### NBA
 #  After fourteen years of playing NBA basketball, NBA superstar Michael Jordan announces his second retirement from basketball.
 
 

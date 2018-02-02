@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/13/qantas-passengers-in-australia-face-long-delays-and-flight-cancellations-as-another-strike-by-the-airline-s-ground-crew-begins.html)  [JSON](/news/2011/10/13/qantas-passengers-in-australia-face-long-delays-and-flight-cancellations-as-another-strike-by-the-airline-s-ground-crew-begins.json)  [XML](/news/2011/10/13/qantas-passengers-in-australia-face-long-delays-and-flight-cancellations-as-another-strike-by-the-airline-s-ground-crew-begins.xml)  
+
 ### [2011-10-13](/news/2011/10/13/index.md)
 
+##### Qantas
 # Qantas passengers in Australia face long delays and flight cancellations, as another strike by the airline's ground crew begins. 
 
 QANTAS baggage handlers and ground crew have begun their latest round of industrial action, causing delays and cancellations for passengers across the country. Join us for live updates throughout the day (all times AEDT)
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/travel/news/travellers-warned-as-customs-strikes/story-e6frfq80-1226165474919)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/60e92f12be5a7c06db19aea3bb279ab8)

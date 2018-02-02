@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/3/palestinian-factional-violence-clashes-between-hamas-fatah-result-in-abductions-from-both-sides-four-fatah-loyalists-and-a-female-bystan.html)  [JSON](/news/2007/01/3/palestinian-factional-violence-clashes-between-hamas-fatah-result-in-abductions-from-both-sides-four-fatah-loyalists-and-a-female-bystan.json)  [XML](/news/2007/01/3/palestinian-factional-violence-clashes-between-hamas-fatah-result-in-abductions-from-both-sides-four-fatah-loyalists-and-a-female-bystan.xml)  
+
 ### [2007-01-3](/news/2007/01/3/index.md)
 
+##### clashes
 #  Palestinian factional violence: Clashes between Hamas, Fatah result in abductions from both sides. Four Fatah loyalists and a female bystander are killed in gunbattles. 
 
 Clashes between Hamas, Fatah result in abductions from both sides, including nephews of top PA security officer. Four Fatah loyalists, woman killed in gunbattles
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3347997,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

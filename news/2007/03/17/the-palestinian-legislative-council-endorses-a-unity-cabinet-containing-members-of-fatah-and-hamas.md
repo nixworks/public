@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/17/the-palestinian-legislative-council-endorses-a-unity-cabinet-containing-members-of-fatah-and-hamas.html)  [JSON](/news/2007/03/17/the-palestinian-legislative-council-endorses-a-unity-cabinet-containing-members-of-fatah-and-hamas.json)  [XML](/news/2007/03/17/the-palestinian-legislative-council-endorses-a-unity-cabinet-containing-members-of-fatah-and-hamas.xml)  
+
 ### [2007-03-17](/news/2007/03/17/index.md)
 
+##### Palestinian Legislative Council
 #  The Palestinian Legislative Council endorses a unity cabinet containing members of Fatah and Hamas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via News Limited](http://www.news.com.au/story/0,23599,21401955-1702,00.html)
 

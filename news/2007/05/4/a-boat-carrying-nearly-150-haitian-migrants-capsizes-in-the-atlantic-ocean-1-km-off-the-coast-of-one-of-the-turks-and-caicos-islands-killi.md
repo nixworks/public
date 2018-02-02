@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/4/a-boat-carrying-nearly-150-haitian-migrants-capsizes-in-the-atlantic-ocean-1-km-off-the-coast-of-one-of-the-turks-and-caicos-islands-killi.html)  [JSON](/news/2007/05/4/a-boat-carrying-nearly-150-haitian-migrants-capsizes-in-the-atlantic-ocean-1-km-off-the-coast-of-one-of-the-turks-and-caicos-islands-killi.json)  [XML](/news/2007/05/4/a-boat-carrying-nearly-150-haitian-migrants-capsizes-in-the-atlantic-ocean-1-km-off-the-coast-of-one-of-the-turks-and-caicos-islands-killi.xml)  
+
 ### [2007-05-4](/news/2007/05/4/index.md)
 
+##### Haiti
 #  A boat carrying nearly 150 Haitian migrants capsizes in the Atlantic Ocean 1 km off the coast of one of the Turks and Caicos Islands, killing at least twenty, requiring the rescue of at least seventy-three and leaving at least fifty-eight unaccounted for. 
 
 At least 20 people are dead and dozens are still missing Friday after a boat loaded with Haitian migrants capsized in the Atlantic Ocean southeast of the Bahamas.
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://www.cbc.ca/world/story/2007/05/04/haitian-capsize.html)
 1. [Cover Image](https://i.cbc.ca/1.2281069.1383022405!/httpImage/image.jpg_gen/derivatives/16x9_1180/top-migrants-map-070504.jpg)

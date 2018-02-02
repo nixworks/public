@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/11/11/with-45-percent-of-the-pyithu-hluttaw-house-of-representatives-results-announced-from-sunday-s-election-aung-san-suu-kyi-s-national-leagu.html)  [JSON](/news/2015/11/11/with-45-percent-of-the-pyithu-hluttaw-house-of-representatives-results-announced-from-sunday-s-election-aung-san-suu-kyi-s-national-leagu.json)  [XML](/news/2015/11/11/with-45-percent-of-the-pyithu-hluttaw-house-of-representatives-results-announced-from-sunday-s-election-aung-san-suu-kyi-s-national-leagu.xml)  
+
 ### [2015-11-11](/news/2015/11/11/index.md)
 
+##### Myanmar general election, 2015
 # With 45 percent of the Pyithu Hluttaw (House of Representatives) results announced from Sunday's election, Aung San Suu Kyi's National League for Democracy (NLD) moves closer to an absolute majority in the country's parliament, winning over 90 percent (135 of 149 seats) in the country's lower house. The NLD also has taken over 85 percent in the upper house and regional assemblies. The NLD needs to win more than two-thirds of seats that were contested in parliament to form Myanmar's first democratically elected government since the early 1960s. 
 
 Myanmar President Thein Sein and the powerful army congratulated democratic champion Aung San Suu Kyi on Wednesday, after her party trounced the ruling camp in the first free election in 25 years and was closing in on an absolute majority in parliament.
 
 
-### Source:
+### Sources:
 
 1. [Channel 3000](http://www.channel3000.com/news/myanmar-vote-suu-kyi-predicts-majority/36358008)
-2. [Reuters](http://www.reuters.com/article/2015/11/11/us-myanmar-election-idUSKCN0SW0TP20151111#TZdzAMkJp5jOPYS2.97)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151111&t=2&i=1094003690&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAA0EU)
+2. [Reuters](https://www.reuters.com/article/2015/11/11/us-myanmar-election-idUSKCN0SW0TP20151111#TZdzAMkJp5jOPYS2.97)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20151111&t=2&i=1094003690&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBAA0EU)
+
+### Changes:
+
+1. [Myanmar general election, 2015: With 45 percent of the Pyithu Hluttaw (House of Representatives) results announced from Sunday's election, Aung San Suu Kyi's National League for Democracy (NLD) moves closer to an absolute majority in the country's parliament, winning over 90 percent (135 of 149 seats) in the country's lower house. The NLD also has taken over 85 percent in the upper house and regional assemblies. The NLD needs to win more than two-thirds of seats that were contested in parliament to form Myanmar's first democratically elected government since the early 1960s. ](/news/2015/11/11/myanmar-general-election-2015-with-45-percent-of-the-pyithu-hluttaw-house-of-representatives-results-announced-from-sunday-s-election-a.md) _2017-08-27 03:43:48 (First version)_
+1. [With 45 percent of the Pyithu Hluttaw (House of Representatives) results announced from Sunday's election, Aung San Suu Kyi's National League for Democracy (NLD) moves closer to an absolute majority in the country's parliament, winning over 90 percent (135 of 149 seats) in the country's lower house. The NLD also has taken over 85 percent in the upper house and regional assemblies. The NLD needs to win more than two-thirds of seats that were contested in parliament to form Myanmar's first democratically elected government since the early 1960s. ](/news/2015/11/11/with-45-percent-of-the-pyithu-hluttaw-house-of-representatives-results-announced-from-sunday-s-election-aung-san-suu-kyi-s-national-leagu.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Myanmar President Thein Sein and the powerful army congratulated democratic cham
 3. [Myanmar's democracy icon Aung San Suu Kyi discusses the smooth transfer of power to her National League for Democracy (NLD) party with President Thein Sein, their first public meeting since the November election. The new administration will be sworn in early next year. ](/news/2015/12/2/myanmar-s-democracy-icon-aung-san-suu-kyi-discusses-the-smooth-transfer-of-power-to-her-national-league-for-democracy-nld-party-with-presi.md) _Context: Aung San Suu Kyi, Myanmar, Myanmar general election, 2015, National League for Democracy_
 4. [Voters in Myanmar head to the polls with the National League for Democracy, the party of Nobel Peace Prize-winner Aung San Suu Kyi, expected to win a majority of seats in Parliament and the ruling Union Solidarity and Development Party conceding defeat on Monday. Early indication is an 80 percent turnout of the more than 30 million people eligible to vote. ](/news/2015/11/8/voters-in-myanmar-head-to-the-polls-with-the-national-league-for-democracy-the-party-of-nobel-peace-prize-winner-aung-san-suu-kyi-expected.md) _Context: Aung San Suu Kyi, Myanmar, Myanmar general election, 2015, National League for Democracy_
 5. [Myanmar opposition leader and Nobel Laureate Aung San Suu Kyi says she would be "above the president" if her National League for Democracy party (NLD) gets the expected win in the Sunday, November 8, 2015, election. The 2008 constitution, drafted by the military without NLD participation, bars her from becoming President. ](/news/2015/11/5/myanmar-opposition-leader-and-nobel-laureate-aung-san-suu-kyi-says-she-would-be-above-the-president-if-her-national-league-for-democracy-p.md) _Context: Aung San Suu Kyi, Myanmar, Myanmar general election, 2015, National League for Democracy_
-
-### Changes:
-
-1. [Myanmar general election, 2015: With 45 percent of the Pyithu Hluttaw (House of Representatives) results announced from Sunday's election, Aung San Suu Kyi's National League for Democracy (NLD) moves closer to an absolute majority in the country's parliament, winning over 90 percent (135 of 149 seats) in the country's lower house. The NLD also has taken over 85 percent in the upper house and regional assemblies. The NLD needs to win more than two-thirds of seats that were contested in parliament to form Myanmar's first democratically elected government since the early 1960s. ](/news/2015/11/11/myanmar-general-election-2015-with-45-percent-of-the-pyithu-hluttaw-house-of-representatives-results-announced-from-sunday-s-election-a.md) _2017-08-27 03:43:48 (First version)_
-1. [With 45 percent of the Pyithu Hluttaw (House of Representatives) results announced from Sunday's election, Aung San Suu Kyi's National League for Democracy (NLD) moves closer to an absolute majority in the country's parliament, winning over 90 percent (135 of 149 seats) in the country's lower house. The NLD also has taken over 85 percent in the upper house and regional assemblies. The NLD needs to win more than two-thirds of seats that were contested in parliament to form Myanmar's first democratically elected government since the early 1960s. ](/news/2015/11/11/with-45-percent-of-the-pyithu-hluttaw-house-of-representatives-results-announced-from-sunday-s-election-aung-san-suu-kyi-s-national-leagu.md) _(Current version)_

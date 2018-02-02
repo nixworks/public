@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/03/20/indonesian-police-shoot-dead-a-suspected-member-of-jemaah-islamiyah-wound-three-people-and-arrest-others-in-an-anti-terrorist-raid.html)  [JSON](/news/2007/03/20/indonesian-police-shoot-dead-a-suspected-member-of-jemaah-islamiyah-wound-three-people-and-arrest-others-in-an-anti-terrorist-raid.json)  [XML](/news/2007/03/20/indonesian-police-shoot-dead-a-suspected-member-of-jemaah-islamiyah-wound-three-people-and-arrest-others-in-an-anti-terrorist-raid.xml)  
+
 ### [2007-03-20](/news/2007/03/20/index.md)
 
+##### Indonesia
 #  Indonesian police shoot dead a suspected member of Jemaah Islamiyah, wound three people and arrest others in an anti-terrorist raid. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via USA Today](http://www.usatoday.com/news/world/2007-03-21-indonesian-police_N.htm)
+1. [AP via USA Today](https://www.usatoday.com/news/world/2007-03-21-indonesian-police_N.htm)
 
 ### Related:
 

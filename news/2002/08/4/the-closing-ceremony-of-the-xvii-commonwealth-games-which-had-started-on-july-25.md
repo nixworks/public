@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/4/the-closing-ceremony-of-the-xvii-commonwealth-games-which-had-started-on-july-25.html)  [JSON](/news/2002/08/4/the-closing-ceremony-of-the-xvii-commonwealth-games-which-had-started-on-july-25.json)  [XML](/news/2002/08/4/the-closing-ceremony-of-the-xvii-commonwealth-games-which-had-started-on-july-25.xml)  
+
 ### [2002-08-4](/news/2002/08/4/index.md)
 
+##### XVII Commonwealth Games
 #  The closing ceremony of the XVII Commonwealth Games which had started on July 25.
 
 

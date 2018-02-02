@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/24/people-are-evacuated-from-houses-in-oxford-due-to-the-2007-united-kingdom-floods-as-the-350-000-people-in-gloucestershire-without-running-w.html)  [JSON](/news/2007/07/24/people-are-evacuated-from-houses-in-oxford-due-to-the-2007-united-kingdom-floods-as-the-350-000-people-in-gloucestershire-without-running-w.json)  [XML](/news/2007/07/24/people-are-evacuated-from-houses-in-oxford-due-to-the-2007-united-kingdom-floods-as-the-350-000-people-in-gloucestershire-without-running-w.xml)  
+
 ### [2007-07-24](/news/2007/07/24/index.md)
 
+##### Oxford
 #  People are evacuated from houses in Oxford due to the 2007 United Kingdom floods as the 350,000 people in Gloucestershire without running water are supplied with bottled water. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6914876.stm)
 

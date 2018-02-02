@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2013/02/19/pakistani-police-arrest-170-suspected-militants-following-the-february-2013-quetta-bombing-that-killed-84-people-and-injured-another-190.html)  [JSON](/news/2013/02/19/pakistani-police-arrest-170-suspected-militants-following-the-february-2013-quetta-bombing-that-killed-84-people-and-injured-another-190.json)  [XML](/news/2013/02/19/pakistani-police-arrest-170-suspected-militants-following-the-february-2013-quetta-bombing-that-killed-84-people-and-injured-another-190.xml)  
+
 ### [2013-02-19](/news/2013/02/19/index.md)
 
+##### Pakistan
 # Pakistani police arrest 170 suspected militants following the February 2013 Quetta bombing that killed 84 people and injured another 190. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21504249)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65951000/jpg/_65951379_65951378.jpg)
+
+### Changes:
+
+1. [War in North-West Pakistan:Pakistani police arrest 170 suspected militants following the February 2013 Quetta bombing that killed 84 people and injured another 190. ](/news/2013/02/19/war-in-north-west-pakistan-ppakistani-police-arrest-170-suspected-militants-following-the-february-2013-quetta-bombing-that-killed-84-people.md) _2017-08-25 03:37:34 (First version)_
+2. [War in North-West Pakistan:: Pakistani police arrest 170 suspected militants following the February 2013 Quetta bombing that killed 84 people and injured another 190. ](/news/2013/02/19/war-in-north-west-pakistan-pakistani-police-arrest-170-suspected-militants-following-the-february-2013-quetta-bombing-that-killed-84-peopl.md) _2017-08-27 03:37:45 (Update)_
+2. [Pakistani police arrest 170 suspected militants following the February 2013 Quetta bombing that killed 84 people and injured another 190. ](/news/2013/02/19/pakistani-police-arrest-170-suspected-militants-following-the-february-2013-quetta-bombing-that-killed-84-people-and-injured-another-190.md) _(Current version)_
 
 ### Related:
 
@@ -16,10 +26,4 @@
 2. [Pakistani protesters armed with sticks and stones clash with police in the centre of Islamabad after protests calling for the resignation of Prime Minister Nawaz Sharif turn violent. All schools in the capital have been closed as a result of the clashes. ](/news/2014/09/1/pakistani-protesters-armed-with-sticks-and-stones-clash-with-police-in-the-centre-of-islamabad-after-protests-calling-for-the-resignation-of.md) _Context: Pakistan, Pakistani police_
 3. [Pakistani police defuse a car bomb near a fortified farmhouse, where the former Pakistan President Pervez Musharraf is under house arrest. ](/news/2013/04/23/pakistani-police-defuse-a-car-bomb-near-a-fortified-farmhouse-where-the-former-pakistan-president-pervez-musharraf-is-under-house-arrest.md) _Context: Pakistan, Pakistani police_
 4. [Protests occur in Pakistan demanding protection for Shiite Muslims following yesterday's bombing in Quetta that killed 84 people. ](/news/2013/02/17/protests-occur-in-pakistan-demanding-protection-for-shiite-muslims-following-yesterday-s-bombing-in-quetta-that-killed-84-people.md) _Context: February 2013 Quetta bombing, Pakistan_
-5. [Gunmen kill nine police officers and injure others in an overnight raid in the Pakistani city of Lahore. ](/news/2012/07/12/gunmen-kill-nine-police-officers-and-injure-others-in-an-overnight-raid-in-the-pakistani-city-of-lahore.md) _Context: Pakistan, Pakistani police_
-
-### Changes:
-
-1. [War in North-West Pakistan:Pakistani police arrest 170 suspected militants following the February 2013 Quetta bombing that killed 84 people and injured another 190. ](/news/2013/02/19/war-in-north-west-pakistan-ppakistani-police-arrest-170-suspected-militants-following-the-february-2013-quetta-bombing-that-killed-84-people.md) _2017-08-25 03:37:34 (First version)_
-2. [War in North-West Pakistan:: Pakistani police arrest 170 suspected militants following the February 2013 Quetta bombing that killed 84 people and injured another 190. ](/news/2013/02/19/war-in-north-west-pakistan-pakistani-police-arrest-170-suspected-militants-following-the-february-2013-quetta-bombing-that-killed-84-peopl.md) _2017-08-27 03:37:45 (Update)_
-2. [Pakistani police arrest 170 suspected militants following the February 2013 Quetta bombing that killed 84 people and injured another 190. ](/news/2013/02/19/pakistani-police-arrest-170-suspected-militants-following-the-february-2013-quetta-bombing-that-killed-84-people-and-injured-another-190.md) _(Current version)_
+5. [A bomb explodes outside the home of a senior police officer in Karachi, Pakistan, killing at least eight people. ](/news/2011/09/19/a-bomb-explodes-outside-the-home-of-a-senior-police-officer-in-karachi-pakistan-killing-at-least-eight-people.md) _Context: Pakistan, Pakistani police_

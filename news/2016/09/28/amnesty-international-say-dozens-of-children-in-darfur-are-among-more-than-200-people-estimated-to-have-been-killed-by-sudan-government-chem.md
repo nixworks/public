@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/28/amnesty-international-say-dozens-of-children-in
 
 ### [2016-09-28](/news/2016/09/28/index.md)
 
+##### Amnesty International
 # Amnesty International say dozens of children in Darfur are among more than 200 people estimated to have been killed by Sudan government chemical weapons since January. 
 
 The Sudanese government is allegedly using chemical weapons against its own people, with dozens of children among 200 killed in Darfur, Amnesty International alleges.

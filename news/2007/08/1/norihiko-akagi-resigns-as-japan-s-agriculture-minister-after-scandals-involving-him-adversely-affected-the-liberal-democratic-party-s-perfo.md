@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/1/norihiko-akagi-resigns-as-japan-s-agriculture-minister-after-scandals-involving-him-adversely-affected-the-liberal-democratic-party-s-perfo.html)  [JSON](/news/2007/08/1/norihiko-akagi-resigns-as-japan-s-agriculture-minister-after-scandals-involving-him-adversely-affected-the-liberal-democratic-party-s-perfo.json)  [XML](/news/2007/08/1/norihiko-akagi-resigns-as-japan-s-agriculture-minister-after-scandals-involving-him-adversely-affected-the-liberal-democratic-party-s-perfo.xml)  
+
 ### [2007-08-1](/news/2007/08/1/index.md)
 
+##### Norihiko Akagi
 #  Norihiko Akagi resigns as Japan's agriculture minister after scandals involving him adversely affected the Liberal Democratic Party's performance in the Japanese House of Councillors election, 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://abc.net.au/news/stories/2007/08/01/1993990.htm?section=justin)
 

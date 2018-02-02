@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/27/an-unruly-crowd-riots-on-hollywood-boulevard-outside-grauman-s-chinese-theatre-in-hollywood-california-after-being-refused-admission-to-a-d.html)  [JSON](/news/2011/07/27/an-unruly-crowd-riots-on-hollywood-boulevard-outside-grauman-s-chinese-theatre-in-hollywood-california-after-being-refused-admission-to-a-d.json)  [XML](/news/2011/07/27/an-unruly-crowd-riots-on-hollywood-boulevard-outside-grauman-s-chinese-theatre-in-hollywood-california-after-being-refused-admission-to-a-d.xml)  
+
 ### [2011-07-27](/news/2011/07/27/index.md)
 
+##### Hollywood Boulevard
 # An unruly crowd riots on Hollywood Boulevard outside Grauman's Chinese Theatre in Hollywood, California after being refused admission to a documentary on the Electric Daisy Carnival. 
 
 Police were unable to control an unruly crowd of roughly 2,000 people in Hollywood Wednesday night, Los Angeles Police Department Officer Karen Rayner said.
 
 
-### Source:
+### Sources:
 
 1. [CBS Los Angeles](http://losangeles.cbslocal.com/2011/07/27/unruly-crowds-setting-fires-vandalizing-police-cars-near-graumanns/#.TjDe2hikvVI.tweet)
 2. [NBC Los Angeles](http://www.nbclosangeles.com/news/local/Cancelled-Movie-Promps-Crowd-Disturbance-on-Hollywood-Boulevard-126297928.html)
@@ -14,7 +18,7 @@ Police were unable to control an unruly crowd of roughly 2,000 people in Hollywo
 ### Related:
 
 1. [The 84th Academy Awards are held at the Hollywood and Highland Center Theatre (formerly Kodak Theatre) in Hollywood, California. ](/news/2012/02/26/the-84th-academy-awards-are-held-at-the-hollywood-and-highland-center-theatre-formerly-kodak-theatre-in-hollywood-california.md) _Context: California, Hollywood_
-2. [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md) _Context: California_
-3. [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md) _Context: California_
-4. [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz; his widow was evacuated Monday. "Peanuts" featured the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-his-widow-was-evac.md) _Context: California_
-5. [ California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. ](/news/2017/09/27/california-moves-its-2020-presidential-primary-to-march-3-making-it-fifth-in-the-nominating-process-after-iowa-new-hampshire-nevada-and.md) _Context: California_
+2. [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md) _Context: California_
+3. [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope for federal aid for the project. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-for-federal-aid-for-the-project.md) _Context: California_
+4. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: California_
+5. [California becomes the latest and most-populated state to legalize the recreational use of cannabis. ](/news/2018/01/1/california-becomes-the-latest-and-most-populated-state-to-legalize-the-recreational-use-of-cannabis.md) _Context: California_

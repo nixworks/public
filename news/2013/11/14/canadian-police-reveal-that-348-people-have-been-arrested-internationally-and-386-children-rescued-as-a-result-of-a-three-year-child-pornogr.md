@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/14/canadian-police-reveal-that-348-people-have-been-arrested-internationally-and-386-children-rescued-as-a-result-of-a-three-year-child-pornogr.html)  [JSON](/news/2013/11/14/canadian-police-reveal-that-348-people-have-been-arrested-internationally-and-386-children-rescued-as-a-result-of-a-three-year-child-pornogr.json)  [XML](/news/2013/11/14/canadian-police-reveal-that-348-people-have-been-arrested-internationally-and-386-children-rescued-as-a-result-of-a-three-year-child-pornogr.xml)  
+
 ### [2013-11-14](/news/2013/11/14/index.md)
 
+##### Canadian police
 # Canadian police reveal that 348 people have been arrested internationally and 386 children rescued as a result of a three-year child pornography investigation called "Project Spade". 
 
 Canadian police revealed that 348 people have been arrested and 386 children rescued as part of a three-year child pornography investigation codenamed ‘Project Spade.’
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-24944358)
 2. [RT](http://rt.com/news/hundreds-arrested-pornography-case-743/)

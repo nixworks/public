@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/8/hurricane-paloma-reaches-category-4-strength-near-the-cayman-islands-with-winds-up-to-140-mph-225-kph.html)  [JSON](/news/2008/11/8/hurricane-paloma-reaches-category-4-strength-near-the-cayman-islands-with-winds-up-to-140-mph-225-kph.json)  [XML](/news/2008/11/8/hurricane-paloma-reaches-category-4-strength-near-the-cayman-islands-with-winds-up-to-140-mph-225-kph.xml)  
+
 ### [2008-11-8](/news/2008/11/8/index.md)
 
+##### Hurricane Paloma
 #  Hurricane Paloma reaches Category 4 strength near the Cayman Islands, with winds up to 140 mph (225 kph). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NHC](http://www.nhc.noaa.gov)
 

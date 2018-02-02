@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/30/a-han-chinese-man-is-to-face-trial-for-the-killing-of-a-mongolian-man-amid-a-crackdown-on-ethnic-protests-in-the-inner-mongolia-region-of-c.html)  [JSON](/news/2011/05/30/a-han-chinese-man-is-to-face-trial-for-the-killing-of-a-mongolian-man-amid-a-crackdown-on-ethnic-protests-in-the-inner-mongolia-region-of-c.json)  [XML](/news/2011/05/30/a-han-chinese-man-is-to-face-trial-for-the-killing-of-a-mongolian-man-amid-a-crackdown-on-ethnic-protests-in-the-inner-mongolia-region-of-c.xml)  
+
 ### [2011-05-30](/news/2011/05/30/index.md)
 
+##### Chinese
 # A Han Chinese man is to face trial for the killing of a Mongolian man, amid a crackdown on ethnic protests in the Inner Mongolia region of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iltkJ33mPgcn8VEfzLDgOcPjM60w?docId=8b5b8c91d99a42288a7bb4095cb5f55b)
 

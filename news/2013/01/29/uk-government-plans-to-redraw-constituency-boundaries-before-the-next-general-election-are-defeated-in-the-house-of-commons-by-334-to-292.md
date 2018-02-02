@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/29/uk-government-plans-to-redraw-constituency-boundaries-before-the-next-general-election-are-defeated-in-the-house-of-commons-by-334-to-292.html)  [JSON](/news/2013/01/29/uk-government-plans-to-redraw-constituency-boundaries-before-the-next-general-election-are-defeated-in-the-house-of-commons-by-334-to-292.json)  [XML](/news/2013/01/29/uk-government-plans-to-redraw-constituency-boundaries-before-the-next-general-election-are-defeated-in-the-house-of-commons-by-334-to-292.xml)  
+
 ### [2013-01-29](/news/2013/01/29/index.md)
 
+##### 10 Downing Street
 # UK government plans to redraw constituency boundaries before the next general election are defeated in the House of Commons by 334 to 292. 
 
 Government plans to redraw constituency boundaries before 2015, which split Tories and Lib Dems, are defeated in the House of Commons.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-21235169)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65562000/jpg/_65562146_65562145.jpg)

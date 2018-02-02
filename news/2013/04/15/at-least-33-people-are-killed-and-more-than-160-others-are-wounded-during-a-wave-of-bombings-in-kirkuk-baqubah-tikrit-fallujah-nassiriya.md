@@ -1,16 +1,26 @@
+
+Formats: [HTML](/news/2013/04/15/at-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah-tikrit-fallujah-nassiriya.html)  [JSON](/news/2013/04/15/at-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah-tikrit-fallujah-nassiriya.json)  [XML](/news/2013/04/15/at-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah-tikrit-fallujah-nassiriya.xml)  
+
 ### [2013-04-15](/news/2013/04/15/index.md)
 
+##### bombings
 # At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. 
 
 Officials say at least 31 people have been killed and more than 200 others wounded in a series of early morning explosions across Iraq.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/04/201341562946963175.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-22149863)
-3. [Reuters](http://www.reuters.com/article/2013/04/15/us-iraq-violence-idUSBRE93E07320130415)
+3. [Reuters](https://www.reuters.com/article/2013/04/15/us-iraq-violence-idUSBRE93E07320130415)
 3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67005000/jpg/_67005307_iraqbomb2.jpg)
+
+### Changes:
+
+1. [15 April 2013 Iraq attacks:At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/15-april-2013-iraq-attacks-pat-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah.md) _2017-08-25 03:38:21 (First version)_
+2. [15 April 2013 Iraq attacks:: At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/15-april-2013-iraq-attacks-at-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah.md) _2017-08-27 03:38:33 (Update)_
+2. [At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/at-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah-tikrit-fallujah-nassiriya.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +29,3 @@ Officials say at least 31 people have been killed and more than 200 others wound
 3. [Bombings in Kirkuk and Shia Muslim sections of Baghdad kill at least 33 people. ](/news/2014/12/4/bombings-in-kirkuk-and-shia-muslim-sections-of-baghdad-kill-at-least-33-people.md) _Context: Baghdad, Kirkuk_
 4. [A suicide attacker blows up a tanker lorry at the police headquarters in the Iraqi city of Tikrit, killing at least nine people. Three people are killed in a separate shooting in Baghdad. ](/news/2013/04/1/a-suicide-attacker-blows-up-a-tanker-lorry-at-the-police-headquarters-in-the-iraqi-city-of-tikrit-killing-at-least-nine-people-three-peopl.md) _Context: Baghdad, Tikrit_
 5. [Coordinated car bombings against five Shiite mosques in Baghdad and Kirkuk kill 23 worshipers. ](/news/2013/03/29/coordinated-car-bombings-against-five-shiite-mosques-in-baghdad-and-kirkuk-kill-23-worshipers.md) _Context: Baghdad, Kirkuk_
-
-### Changes:
-
-1. [15 April 2013 Iraq attacks:At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/15-april-2013-iraq-attacks-pat-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah.md) _2017-08-25 03:38:21 (First version)_
-2. [15 April 2013 Iraq attacks:: At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/15-april-2013-iraq-attacks-at-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah.md) _2017-08-27 03:38:33 (Update)_
-2. [At least 33 people are killed and more than 160 others are wounded during a wave of bombings in Kirkuk, Baqubah, Tikrit, Fallujah, Nassiriyah, Mussayab and Baghdad. ](/news/2013/04/15/at-least-33-people-are-killed-and-more-than-160-others-are-wounded-during-a-wave-of-bombings-in-kirkuk-baqubah-tikrit-fallujah-nassiriya.md) _(Current version)_

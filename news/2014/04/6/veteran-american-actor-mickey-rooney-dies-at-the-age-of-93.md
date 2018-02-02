@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/04/6/veteran-american-actor-mickey-rooney-dies-at-the-age-of-93.html)  [JSON](/news/2014/04/6/veteran-american-actor-mickey-rooney-dies-at-the-age-of-93.json)  [XML](/news/2014/04/6/veteran-american-actor-mickey-rooney-dies-at-the-age-of-93.xml)  
+
 ### [2014-04-6](/news/2014/04/6/index.md)
 
+##### American
 # Veteran American actor Mickey Rooney dies at the age of 93. 
 
-Mickey Rooney was the original Hardy boy. His 200-plus credits notwithstanding, the spry, spirited Rooney will be best remembered for playing the impetuous title character in MGM&#39;s beloved Andy Hardy movies.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/life/people/2014/04/06/mickey-rooney-dies/7404557/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/life/people/2014/04/06/mickey-rooney-dies/7404557/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

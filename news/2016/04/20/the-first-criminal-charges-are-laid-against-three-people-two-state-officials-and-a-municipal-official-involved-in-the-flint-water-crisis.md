@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/the-first-criminal-charges-are-laid-against-thr
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### Flint water crisis
 # The first criminal charges are laid against three people, two state officials and a municipal official, involved in the Flint water crisis. 
 
 Two Michigan officials were accused of misleading other officials about the city’s water, and a city employee was charged with misconduct.

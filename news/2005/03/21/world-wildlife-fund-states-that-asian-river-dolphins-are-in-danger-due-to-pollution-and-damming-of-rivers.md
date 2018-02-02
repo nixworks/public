@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/21/world-wildlife-fund-states-that-asian-river-dolphins-are-in-danger-due-to-pollution-and-damming-of-rivers.html)  [JSON](/news/2005/03/21/world-wildlife-fund-states-that-asian-river-dolphins-are-in-danger-due-to-pollution-and-damming-of-rivers.json)  [XML](/news/2005/03/21/world-wildlife-fund-states-that-asian-river-dolphins-are-in-danger-due-to-pollution-and-damming-of-rivers.xml)  
+
 ### [2005-03-21](/news/2005/03/21/index.md)
 
+##### World Wildlife Fund
 #  World Wildlife Fund states that Asian river dolphins are in danger due to pollution and damming of rivers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4367135.stm)
 

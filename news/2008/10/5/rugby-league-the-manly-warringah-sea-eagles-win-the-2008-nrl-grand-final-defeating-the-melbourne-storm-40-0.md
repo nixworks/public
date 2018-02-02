@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/5/rugby-league-the-manly-warringah-sea-eagles-win-the-2008-nrl-grand-final-defeating-the-melbourne-storm-40-0.html)  [JSON](/news/2008/10/5/rugby-league-the-manly-warringah-sea-eagles-win-the-2008-nrl-grand-final-defeating-the-melbourne-storm-40-0.json)  [XML](/news/2008/10/5/rugby-league-the-manly-warringah-sea-eagles-win-the-2008-nrl-grand-final-defeating-the-melbourne-storm-40-0.xml)  
+
 ### [2008-10-5](/news/2008/10/5/index.md)
 
+##### Rugby League
 #  Rugby League: The Manly-Warringah Sea Eagles win the 2008 NRL Grand Final, defeating the Melbourne Storm 40-0. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via the ''Melbourne Age](http://news.theage.com.au/sport/manly-thump-storm-400-in-grand-final-20081005-4u0t.html)
 

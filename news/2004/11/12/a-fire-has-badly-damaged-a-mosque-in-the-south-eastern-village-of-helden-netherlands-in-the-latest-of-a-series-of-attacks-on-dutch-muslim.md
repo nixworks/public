@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/12/a-fire-has-badly-damaged-a-mosque-in-the-south-eastern-village-of-helden-netherlands-in-the-latest-of-a-series-of-attacks-on-dutch-muslim.html)  [JSON](/news/2004/11/12/a-fire-has-badly-damaged-a-mosque-in-the-south-eastern-village-of-helden-netherlands-in-the-latest-of-a-series-of-attacks-on-dutch-muslim.json)  [XML](/news/2004/11/12/a-fire-has-badly-damaged-a-mosque-in-the-south-eastern-village-of-helden-netherlands-in-the-latest-of-a-series-of-attacks-on-dutch-muslim.xml)  
+
 ### [2004-11-12](/news/2004/11/12/index.md)
 
+##### mosque
 #  A fire has badly damaged a mosque in the south-eastern village of Helden, Netherlands, in the latest of a series of attacks on Dutch Muslim sites. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4008781.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/29/floods-worsen-in-pakistan-as-more-towns-are-threatened.html)  [JSON](/news/2010/08/29/floods-worsen-in-pakistan-as-more-towns-are-threatened.json)  [XML](/news/2010/08/29/floods-worsen-in-pakistan-as-more-towns-are-threatened.xml)  
+
 ### [2010-08-29](/news/2010/08/29/index.md)
 
+##### devastating floods
 # Floods worsen in Pakistan as more towns are threatened. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail/140518.html)
 

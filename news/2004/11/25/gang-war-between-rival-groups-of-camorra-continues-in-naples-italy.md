@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/25/gang-war-between-rival-groups-of-camorra-continues-in-naples-italy.html)  [JSON](/news/2004/11/25/gang-war-between-rival-groups-of-camorra-continues-in-naples-italy.json)  [XML](/news/2004/11/25/gang-war-between-rival-groups-of-camorra-continues-in-naples-italy.xml)  
+
 ### [2004-11-25](/news/2004/11/25/index.md)
 
+##### Camorra
 #  Gang war between rival groups of Camorra continues in Naples, Italy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4037879.stm)
 2. [Scotsman](http://news.scotsman.com/latest.cfm?id=3786371)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/29/the-international-olympic-committee-lifts-its-ban-on-iraqi-athletes-participating-in-the-beijing-olympics-following-assurances-from-the-gov.html)  [JSON](/news/2008/07/29/the-international-olympic-committee-lifts-its-ban-on-iraqi-athletes-participating-in-the-beijing-olympics-following-assurances-from-the-gov.json)  [XML](/news/2008/07/29/the-international-olympic-committee-lifts-its-ban-on-iraqi-athletes-participating-in-the-beijing-olympics-following-assurances-from-the-gov.xml)  
+
 ### [2008-07-29](/news/2008/07/29/index.md)
 
+##### International Olympic Committee
 #  The International Olympic Committee lifts its ban on Iraqi athletes participating in the Beijing Olympics following assurances from the Government of Iraq about the independence of the Iraqi Olympic Committee. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5gx1X43pDXJ1DrOBAFa2XjnMLHJmAD927NM780)
 

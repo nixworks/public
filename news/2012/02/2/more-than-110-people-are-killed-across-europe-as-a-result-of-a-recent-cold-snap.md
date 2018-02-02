@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/2/more-than-110-people-are-killed-across-europe-as-a-result-of-a-recent-cold-snap.html)  [JSON](/news/2012/02/2/more-than-110-people-are-killed-across-europe-as-a-result-of-a-recent-cold-snap.json)  [XML](/news/2012/02/2/more-than-110-people-are-killed-across-europe-as-a-result-of-a-recent-cold-snap.xml)  
+
 ### [2012-02-2](/news/2012/02/2/index.md)
 
+##### Europe
 # More than 110 people are killed across Europe as a result of a recent cold snap. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Courier Mail](http://www.couriermail.com.au/news/breaking-news/scores-die-in-icy-weather-across-europe/story-e6freonf-1226260176255)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-16852065)

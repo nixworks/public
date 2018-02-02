@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/31/richard-von-weizsa-cker-who-was-president-of-west-germany-from-1984-to-1990-and-became-the-first-president-of-reunified-germany-from-1990-t.html)  [JSON](/news/2015/01/31/richard-von-weizsa-cker-who-was-president-of-west-germany-from-1984-to-1990-and-became-the-first-president-of-reunified-germany-from-1990-t.json)  [XML](/news/2015/01/31/richard-von-weizsa-cker-who-was-president-of-west-germany-from-1984-to-1990-and-became-the-first-president-of-reunified-germany-from-1990-t.xml)  
+
 ### [2015-01-31](/news/2015/01/31/index.md)
 
+##### Richard von Weizsacker
 # Richard von Weizsacker, who was president of West Germany from 1984 to 1990 and became the first president of reunified Germany from 1990 to 1994, dies at the age of 94. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.de/former-german-president-richard-von-weizsäcker-dies/a-18227460)
 

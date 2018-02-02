@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/12/in-the-glasgow-north-east-by-election-voters-pick-labour-candidate-willie-bain-as-the-replacement-for-former-speaker-of-the-british-house.html)  [JSON](/news/2009/11/12/in-the-glasgow-north-east-by-election-voters-pick-labour-candidate-willie-bain-as-the-replacement-for-former-speaker-of-the-british-house.json)  [XML](/news/2009/11/12/in-the-glasgow-north-east-by-election-voters-pick-labour-candidate-willie-bain-as-the-replacement-for-former-speaker-of-the-british-house.xml)  
+
 ### [2009-11-12](/news/2009/11/12/index.md)
 
+##### Glasgow North East by-election
 #  In the Glasgow North East by-election, voters pick Labour candidate Willie Bain as the replacement for former Speaker of the British House of Commons Michael Martin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/scotland/glasgow_and_west/8355282.stm)
 

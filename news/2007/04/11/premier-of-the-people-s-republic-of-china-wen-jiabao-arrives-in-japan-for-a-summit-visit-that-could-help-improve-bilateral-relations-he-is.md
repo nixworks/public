@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/11/premier-of-the-people-s-republic-of-china-wen-jiabao-arrives-in-japan-for-a-summit-visit-that-could-help-improve-bilateral-relations-he-is.html)  [JSON](/news/2007/04/11/premier-of-the-people-s-republic-of-china-wen-jiabao-arrives-in-japan-for-a-summit-visit-that-could-help-improve-bilateral-relations-he-is.json)  [XML](/news/2007/04/11/premier-of-the-people-s-republic-of-china-wen-jiabao-arrives-in-japan-for-a-summit-visit-that-could-help-improve-bilateral-relations-he-is.xml)  
+
 ### [2007-04-11](/news/2007/04/11/index.md)
 
+##### Premier of the People's Republic of China
 #  Premier of the People's Republic of China Wen Jiabao arrives in Japan for a summit visit that could help improve bilateral relations. He is the first Chinese Premier to visit Japan in almost seven years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6543647.stm)
 

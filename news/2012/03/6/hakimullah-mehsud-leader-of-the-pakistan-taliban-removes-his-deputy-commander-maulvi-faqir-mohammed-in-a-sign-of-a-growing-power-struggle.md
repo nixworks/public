@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/6/hakimullah-mehsud-leader-of-the-pakistan-taliban-removes-his-deputy-commander-maulvi-faqir-mohammed-in-a-sign-of-a-growing-power-struggle.html)  [JSON](/news/2012/03/6/hakimullah-mehsud-leader-of-the-pakistan-taliban-removes-his-deputy-commander-maulvi-faqir-mohammed-in-a-sign-of-a-growing-power-struggle.json)  [XML](/news/2012/03/6/hakimullah-mehsud-leader-of-the-pakistan-taliban-removes-his-deputy-commander-maulvi-faqir-mohammed-in-a-sign-of-a-growing-power-struggle.xml)  
+
 ### [2012-03-6](/news/2012/03/6/index.md)
 
+##### Hakimullah Mehsud
 # Hakimullah Mehsud, leader of the Pakistan Taliban, removes his deputy commander Maulvi Faqir Mohammed in a sign of a growing power struggle. 
 
 The head of the Pakistani Taliban has removed his deputy commander, the militant group confirms to the BBC, the latest sign of a growing power struggle.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17256129)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58876000/jpg/_58876131_58876049.jpg)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/06/11/michael-bloomberg-appeals-to-the-new-york-supreme-court-s-appellate-division-on-the-invalidation-of-a-law-limiting-soft-drink-sales-in-new-y.html)  [JSON](/news/2013/06/11/michael-bloomberg-appeals-to-the-new-york-supreme-court-s-appellate-division-on-the-invalidation-of-a-law-limiting-soft-drink-sales-in-new-y.json)  [XML](/news/2013/06/11/michael-bloomberg-appeals-to-the-new-york-supreme-court-s-appellate-division-on-the-invalidation-of-a-law-limiting-soft-drink-sales-in-new-y.xml)  
+
 ### [2013-06-11](/news/2013/06/11/index.md)
 
+##### Michael Bloomberg
 # Michael Bloomberg appeals to the New York Supreme Court's Appellate Division on the invalidation of a law limiting soft drink sales in New York City. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/06/11/us-usa-sodaban-appeal-idUSBRE95A09M20130611)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130611&t=2&i=740126341&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95A0Q7400)
+1. [Reuters](https://www.reuters.com/article/2013/06/11/us-usa-sodaban-appeal-idUSBRE95A09M20130611)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130611&t=2&i=740126341&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95A0Q7400)
 
 ### Related:
 

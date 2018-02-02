@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/11/5/google-and-the-open-handset-alliance-announce-the-android-operating-system-a-joint-effort-in-handheld-computing.html)  [JSON](/news/2007/11/5/google-and-the-open-handset-alliance-announce-the-android-operating-system-a-joint-effort-in-handheld-computing.json)  [XML](/news/2007/11/5/google-and-the-open-handset-alliance-announce-the-android-operating-system-a-joint-effort-in-handheld-computing.xml)  
+
 ### [2007-11-5](/news/2007/11/5/index.md)
 
+##### Google
 #  Google and the Open Handset Alliance announce the Android operating system, a joint effort in handheld computing. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Ars Technica](http://arstechnica.com/news.ars/post/20071105-its-official-google-announces-open-source-mobile-phone-os-android.html)
+1. [Ars Technica](https://arstechnica.com/news.ars/post/20071105-its-official-google-announces-open-source-mobile-phone-os-android.html)
 2. [CNN](http://money.cnn.com/news/newsfeeds/articles/newstex/AFX-0013-20741757.htm)
 
 ### Related:

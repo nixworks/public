@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/18/the-vatican-dismisses-zambia-s-controversial-roman-catholic-church-archbishop-emmanuel-milingo.html)  [JSON](/news/2009/12/18/the-vatican-dismisses-zambia-s-controversial-roman-catholic-church-archbishop-emmanuel-milingo.json)  [XML](/news/2009/12/18/the-vatican-dismisses-zambia-s-controversial-roman-catholic-church-archbishop-emmanuel-milingo.xml)  
+
 ### [2009-12-18](/news/2009/12/18/index.md)
 
+##### Holy See
 #  The Vatican dismisses Zambia's controversial Roman Catholic Church archbishop Emmanuel Milingo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=113953)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8420653.stm)

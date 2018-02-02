@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/07/28/suicide-bombers-target-kurdish-political-protesters-in-kirkuk-and-shiite-pilgrims-in-baghdad-killing-at-least-48-people-and-wounding-249.html)  [JSON](/news/2008/07/28/suicide-bombers-target-kurdish-political-protesters-in-kirkuk-and-shiite-pilgrims-in-baghdad-killing-at-least-48-people-and-wounding-249.json)  [XML](/news/2008/07/28/suicide-bombers-target-kurdish-political-protesters-in-kirkuk-and-shiite-pilgrims-in-baghdad-killing-at-least-48-people-and-wounding-249.xml)  
+
 ### [2008-07-28](/news/2008/07/28/index.md)
 
+##### Suicide bombers
 #  Suicide bombers target Kurdish political protesters in Kirkuk and Shiite pilgrims in Baghdad killing at least 48 people and wounding 249. 
 
 Suicide bombers struck Kurdish protesters in Kirkuk and Shiite pilgrims in Baghdad in one of the deadliest series of attacks in Iraq this year.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/07/29/world/middleeast/29iraq.html)
+1. [The New York Times](https://www.nytimes.com/2008/07/29/world/middleeast/29iraq.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/07/29/world/29iraq-span-75.jpg)
 
 ### Related:

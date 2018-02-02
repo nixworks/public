@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/09/18/three-protesters-die-in-anti-india-protests-in-jammu-and-kashmir-with-the-death-toll-from-protests-rising-to-one-hundred.html)  [JSON](/news/2010/09/18/three-protesters-die-in-anti-india-protests-in-jammu-and-kashmir-with-the-death-toll-from-protests-rising-to-one-hundred.json)  [XML](/news/2010/09/18/three-protesters-die-in-anti-india-protests-in-jammu-and-kashmir-with-the-death-toll-from-protests-rising-to-one-hundred.xml)  
+
 ### [2010-09-18](/news/2010/09/18/index.md)
 
+##### India
 # Three protesters die in anti-India protests in Jammu and Kashmir with the death toll from protests rising to one hundred. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100918/wl_sthasia_afp/indiakashmirunresttoll)
+1. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20100918/wl_sthasia_afp/indiakashmirunresttoll)
 
 ### Related:
 

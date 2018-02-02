@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/21/human-rights-watch-calls-for-an-independent-investigation-in-rwanda-into-the-death-of-andre-kagwa-rwisereka-vice-president-of-the-oppositio.html)  [JSON](/news/2010/07/21/human-rights-watch-calls-for-an-independent-investigation-in-rwanda-into-the-death-of-andre-kagwa-rwisereka-vice-president-of-the-oppositio.json)  [XML](/news/2010/07/21/human-rights-watch-calls-for-an-independent-investigation-in-rwanda-into-the-death-of-andre-kagwa-rwisereka-vice-president-of-the-oppositio.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### Human Rights Watch
 # Human Rights Watch calls for an independent investigation in Rwanda into the death of Andre Kagwa Rwisereka, vice president of the opposition Democratic Green Party, who was killed weeks before a presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iR4vAXjcZ6OZmpcLsSOiD55etcwg)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/07/21/rwanda.opposition.leader/#fbid=Dxrzb6Q-4_O)

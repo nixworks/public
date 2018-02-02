@@ -1,11 +1,9 @@
 
-### Formats:
+Formats: [HTML](/news/2017/05/12/british-author-j-k-rowling-urges-fans-to-refrain-from-buying-a-manuscript-written-by-her-a-harry-potter-prequel-which-was-originally-a.html)  [JSON](/news/2017/05/12/british-author-j-k-rowling-urges-fans-to-refrain-from-buying-a-manuscript-written-by-her-a-harry-potter-prequel-which-was-originally-a.json)  [XML](/news/2017/05/12/british-author-j-k-rowling-urges-fans-to-refrain-from-buying-a-manuscript-written-by-her-a-harry-potter-prequel-which-was-originally-a.xml)  
 
-* [HTML](/news/2017/05/12/british-author-j-k-rowling-urges-fans-to-refrain-from-buying-a-manuscript-written-by-her-a-harry-potter-prequel-which-was-originally-a.html)
-* [JSON](/news/2017/05/12/british-author-j-k-rowling-urges-fans-to-refrain-from-buying-a-manuscript-written-by-her-a-harry-potter-prequel-which-was-originally-a.json)
-* [XML](/news/2017/05/12/british-author-j-k-rowling-urges-fans-to-refrain-from-buying-a-manuscript-written-by-her-a-harry-potter-prequel-which-was-originally-a.xml)
 ### [2017-05-12](/news/2017/05/12/index.md)
 
+##### J. K. Rowling
 # British author J. K. Rowling urges fans to refrain from buying a manuscript written by her, a "Harry Potter" prequel, which was originally auctioned off for charity but was later stolen. 
 
 &#8220;Originally auctioned for @englishpen, the owner supported writers&#8217; freedoms by bidding for it,&#8221; J.K.. Rowling tweeted Friday of the one-of-a-kind story

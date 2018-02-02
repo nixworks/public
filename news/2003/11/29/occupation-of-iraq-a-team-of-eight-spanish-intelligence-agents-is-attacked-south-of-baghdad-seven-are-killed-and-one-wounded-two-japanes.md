@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/29/occupation-of-iraq-a-team-of-eight-spanish-intelligence-agents-is-attacked-south-of-baghdad-seven-are-killed-and-one-wounded-two-japanes.html)  [JSON](/news/2003/11/29/occupation-of-iraq-a-team-of-eight-spanish-intelligence-agents-is-attacked-south-of-baghdad-seven-are-killed-and-one-wounded-two-japanes.json)  [XML](/news/2003/11/29/occupation-of-iraq-a-team-of-eight-spanish-intelligence-agents-is-attacked-south-of-baghdad-seven-are-killed-and-one-wounded-two-japanes.xml)  
+
 ### [2003-11-29](/news/2003/11/29/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: A team of eight Spanish intelligence agents is attacked south of Baghdad; seven are killed and one wounded. Two Japanese diplomats are killed near Tikrit. Two U.S. soldiers and a Colombian civilian contractor are killed in Baghdad.
 
 

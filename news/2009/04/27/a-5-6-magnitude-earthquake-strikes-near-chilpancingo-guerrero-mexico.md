@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/27/a-5-6-magnitude-earthquake-strikes-near-chilpancingo-guerrero-mexico.html)  [JSON](/news/2009/04/27/a-5-6-magnitude-earthquake-strikes-near-chilpancingo-guerrero-mexico.json)  [XML](/news/2009/04/27/a-5-6-magnitude-earthquake-strikes-near-chilpancingo-guerrero-mexico.xml)  
+
 ### [2009-04-27](/news/2009/04/27/index.md)
 
+##### magnitude
 #  A 5.6-magnitude earthquake strikes near Chilpancingo, Guerrero, Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Mexico-Earthquake-Mexico-City-Is-Rocked-By-Earthquake-Sending-Office-Workers-Spilling-Onto-Streets/Article/200904415270304?lpos=World_News_Top_Stories_Header_2&lid=ARTICLE_15270304_Mexico_Earthquake%3A_Mexico_City_Is_Rocked_By_Earthquake_Sending_Office_Workers_Spilling_Onto_Streets)
 

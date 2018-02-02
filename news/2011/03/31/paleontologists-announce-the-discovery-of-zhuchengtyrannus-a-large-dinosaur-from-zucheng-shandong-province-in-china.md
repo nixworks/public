@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/31/paleontologists-announce-the-discovery-of-zhuchengtyrannus-a-large-dinosaur-from-zucheng-shandong-province-in-china.html)  [JSON](/news/2011/03/31/paleontologists-announce-the-discovery-of-zhuchengtyrannus-a-large-dinosaur-from-zucheng-shandong-province-in-china.json)  [XML](/news/2011/03/31/paleontologists-announce-the-discovery-of-zhuchengtyrannus-a-large-dinosaur-from-zucheng-shandong-province-in-china.xml)  
+
 ### [2011-03-31](/news/2011/03/31/index.md)
 
+##### Paleontologist
 # Paleontologists announce the discovery of Zhuchengtyrannus, a large dinosaur from Zucheng, Shandong Province in China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Discovery](http://news.discovery.com/dinosaurs/huge-new-dinosaur-cousin-of-t-rex-110331.html)
 

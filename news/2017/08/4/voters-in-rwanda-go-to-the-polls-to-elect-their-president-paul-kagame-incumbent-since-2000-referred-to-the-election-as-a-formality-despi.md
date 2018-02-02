@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/4/voters-in-rwanda-go-to-the-polls-to-elect-their-
 
 ### [2017-08-4](/news/2017/08/4/index.md)
 
+##### Rwandan presidential election, 2017
 # Voters in Rwanda go to the polls to elect their president. Paul Kagame, incumbent since 2000, referred to the election as a formality, despite challenges from the Democratic Greens' Frank Habineza and independent Philippe Mpayimana. Kagame is re-elected with 98.66 of the vote. 
 
 Rwandan President Paul Kagame has extended his 17 years in power after winning the presidential election.

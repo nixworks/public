@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/03/12/judge-katherine-b-forrest-of-the-u-s-district-court-in-manhattan-orders-fabrice-fabulous-fab-tourre-to-pay-more-than-825-000-for-defra.html)  [JSON](/news/2014/03/12/judge-katherine-b-forrest-of-the-u-s-district-court-in-manhattan-orders-fabrice-fabulous-fab-tourre-to-pay-more-than-825-000-for-defra.json)  [XML](/news/2014/03/12/judge-katherine-b-forrest-of-the-u-s-district-court-in-manhattan-orders-fabrice-fabulous-fab-tourre-to-pay-more-than-825-000-for-defra.xml)  
+
 ### [2014-03-12](/news/2014/03/12/index.md)
 
+##### Katherine B. Forrest
 # Judge Katherine B. Forrest of the U.S. District Court in Manhattan, orders Fabrice "Fabulous Fab" Tourre to pay more than $825,000 for defrauding investors while a trader at Goldman Sachs. 
 
 A U.S. judge on Wednesday ordered former Goldman Sachs Group Inc trader Fabrice Tourre to pay more than $825,000 after a jury found him liable for defrauding investors in a subprime mortgage product that failed during the financial crisis.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/03/12/us-goldmansachs-sec-tourre-idUSBREA2B11220140312)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140312&t=2&i=860765810&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA2B1GAQ00)
+1. [Reuters](https://www.reuters.com/article/2014/03/12/us-goldmansachs-sec-tourre-idUSBREA2B11220140312)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140312&t=2&i=860765810&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA2B1GAQ00)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/11/former-cuban-president-fidel-castro-calls-colombia-disloyal-saying-the-pending-military-deal-with-the-united-states-could-be-used-to-att.html)  [JSON](/news/2009/08/11/former-cuban-president-fidel-castro-calls-colombia-disloyal-saying-the-pending-military-deal-with-the-united-states-could-be-used-to-att.json)  [XML](/news/2009/08/11/former-cuban-president-fidel-castro-calls-colombia-disloyal-saying-the-pending-military-deal-with-the-united-states-could-be-used-to-att.xml)  
+
 ### [2009-08-11](/news/2009/08/11/index.md)
 
+##### Cuba
 #  Former Cuban President Fidel Castro calls Colombia "disloyal", saying the pending military deal with the United States could be used to attack other Latin American countries. 
 
 Former Cuban president Fidel Castro called Colombia &#147;disloyal,&#148; claiming the pending military deal between the United States and Colombia could be used to attack other Latinamerican countries.
 
 
-### Source:
+### Sources:
 
 1. [Granma](http://www.granma.cu/ingles/2009/agosto/lun10/reflexiones.html)
 2. [MercoPress](http://en.mercopress.com/2009/08/11/fidel)

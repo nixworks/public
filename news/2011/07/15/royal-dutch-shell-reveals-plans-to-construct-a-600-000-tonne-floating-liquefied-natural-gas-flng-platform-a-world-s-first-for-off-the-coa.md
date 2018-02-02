@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/15/royal-dutch-shell-reveals-plans-to-construct-a-600-000-tonne-floating-liquefied-natural-gas-flng-platform-a-world-s-first-for-off-the-coa.html)  [JSON](/news/2011/07/15/royal-dutch-shell-reveals-plans-to-construct-a-600-000-tonne-floating-liquefied-natural-gas-flng-platform-a-world-s-first-for-off-the-coa.json)  [XML](/news/2011/07/15/royal-dutch-shell-reveals-plans-to-construct-a-600-000-tonne-floating-liquefied-natural-gas-flng-platform-a-world-s-first-for-off-the-coa.xml)  
+
 ### [2011-07-15](/news/2011/07/15/index.md)
 
+##### Royal Dutch Shell
 # Royal Dutch Shell reveals plans to construct a 600,000-tonne floating liquefied natural gas (FLNG) platform, a world's first for off the coast of Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-13709293)
 1. [Cover Image](http://news.bbcimg.co.uk/media/images/53903000/jpg/_53903970_flngship.jpg)

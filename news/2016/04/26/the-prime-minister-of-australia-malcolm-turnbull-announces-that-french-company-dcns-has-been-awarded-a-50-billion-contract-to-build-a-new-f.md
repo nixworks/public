@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/26/the-prime-minister-of-australia-malcolm-turnbul
 
 ### [2016-04-26](/news/2016/04/26/index.md)
 
+##### Collins-class submarine replacement project
 # The Prime Minister of Australia Malcolm Turnbull announces that French company DCNS has been awarded a $50 billion contract to build a new fleet of submarines for the Royal Australian Navy with the subs to be built in Adelaide. 
 
 French company wins the contract to build Australia&#039;s next fleet of submarines, with Prime Minister Malcolm Turnbull promising thousands of jobs.

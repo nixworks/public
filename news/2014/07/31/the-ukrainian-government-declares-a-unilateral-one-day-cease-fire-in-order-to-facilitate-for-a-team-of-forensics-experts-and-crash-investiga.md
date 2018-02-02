@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/07/31/the-ukrainian-government-declares-a-unilateral-one-day-cease-fire-in-order-to-facilitate-for-a-team-of-forensics-experts-and-crash-investiga.html)  [JSON](/news/2014/07/31/the-ukrainian-government-declares-a-unilateral-one-day-cease-fire-in-order-to-facilitate-for-a-team-of-forensics-experts-and-crash-investiga.json)  [XML](/news/2014/07/31/the-ukrainian-government-declares-a-unilateral-one-day-cease-fire-in-order-to-facilitate-for-a-team-of-forensics-experts-and-crash-investiga.xml)  
+
 ### [2014-07-31](/news/2014/07/31/index.md)
 
+##### Malaysia Airlines Flight 17
 # The Ukrainian government declares a unilateral one-day cease-fire in order to facilitate for a team of forensics experts and crash investigators to reach the site where Malaysia Airlines Flight 17 went down two weeks ago, after days of delay caused by heavy fighting in the area. 
 
 The military is suspending an offensive against rebels as a test in response to the U.N. chief&rsquo;s appeal.
 
 
-### Source:
+### Sources:
 
 1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/at-least-363-soldiers-killed-in-russias-war-against-ukraine-358839.html)
-2. [Washington Post](http://www.washingtonpost.com/world/europe/ukraine-declares-one-day-cease-fire-in-east/2014/07/31/6371eb6a-189f-11e4-9349-84d4a85be981_story.html)
+2. [Washington Post](https://www.washingtonpost.com/world/europe/ukraine-declares-one-day-cease-fire-in-east/2014/07/31/6371eb6a-189f-11e4-9349-84d4a85be981_story.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/16/the-sri-lankan-military-claims-to-have-captured-a-major-coastal-town-in-the-northern-district-of-mannar-from-the-tamil-tigers.html)  [JSON](/news/2008/07/16/the-sri-lankan-military-claims-to-have-captured-a-major-coastal-town-in-the-northern-district-of-mannar-from-the-tamil-tigers.json)  [XML](/news/2008/07/16/the-sri-lankan-military-claims-to-have-captured-a-major-coastal-town-in-the-northern-district-of-mannar-from-the-tamil-tigers.xml)  
+
 ### [2008-07-16](/news/2008/07/16/index.md)
 
+##### Sri Lankan military
 #  The Sri Lankan military claims to have captured a major coastal town in the Northern district of Mannar from the Tamil Tigers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7508829.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/29/former-candidate-manuel-valls-ps-announces-his-
 
 ### [2017-03-29](/news/2017/03/29/index.md)
 
+##### last month's presidential election
 # Former candidate Manuel Valls (PS) announces his support for Emmanuel Macron (En Marche!) rather than for his own party's nominee, Benoit Hamon. 
 
 French Socialist Benoit Hamon called on all leftist voters to unite behind his presidential bid Wednesday after former prime minister Manuel Valls said he will vote for rival Emmanuel Macron rather than his own party’s nominee.

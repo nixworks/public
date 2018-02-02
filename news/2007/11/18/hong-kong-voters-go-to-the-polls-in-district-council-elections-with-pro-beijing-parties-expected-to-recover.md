@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/18/hong-kong-voters-go-to-the-polls-in-district-council-elections-with-pro-beijing-parties-expected-to-recover.html)  [JSON](/news/2007/11/18/hong-kong-voters-go-to-the-polls-in-district-council-elections-with-pro-beijing-parties-expected-to-recover.json)  [XML](/news/2007/11/18/hong-kong-voters-go-to-the-polls-in-district-council-elections-with-pro-beijing-parties-expected-to-recover.xml)  
+
 ### [2007-11-18](/news/2007/11/18/index.md)
 
+##### Hong Kong
 #  Hong Kong voters go to the polls in District Council elections, with pro-Beijing parties expected to recover. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7100344.stm)
 

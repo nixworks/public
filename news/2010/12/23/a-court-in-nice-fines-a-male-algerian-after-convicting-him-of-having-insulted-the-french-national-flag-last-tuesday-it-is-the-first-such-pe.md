@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/23/a-court-in-nice-fines-a-male-algerian-after-convicting-him-of-having-insulted-the-french-national-flag-last-tuesday-it-is-the-first-such-pe.html)  [JSON](/news/2010/12/23/a-court-in-nice-fines-a-male-algerian-after-convicting-him-of-having-insulted-the-french-national-flag-last-tuesday-it-is-the-first-such-pe.json)  [XML](/news/2010/12/23/a-court-in-nice-fines-a-male-algerian-after-convicting-him-of-having-insulted-the-french-national-flag-last-tuesday-it-is-the-first-such-pe.xml)  
+
 ### [2010-12-23](/news/2010/12/23/index.md)
 
+##### Nice
 # A court in Nice fines a male Algerian after convicting him of having insulted the French national flag last Tuesday. It is the first such penalty of its kind. 
 
 A French court fines a man 750 euros for insulting the national flag - the first such sentence under a new decree.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12069307)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

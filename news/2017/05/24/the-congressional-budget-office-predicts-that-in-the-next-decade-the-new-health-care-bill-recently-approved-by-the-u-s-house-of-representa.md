@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/24/the-congressional-budget-office-predicts-that-i
 
 ### [2017-05-24](/news/2017/05/24/index.md)
 
+##### American Health Care Act of 2017
 # The Congressional Budget Office predicts that in the next decade, the new health care bill recently approved by the U.S. House of Representatives will reduce the federal deficit by $120 billion and leave 23 million more Americans uninsured, as opposed to current law. 
 
 The Congressional Budget Office gave its projections Wednesday on the costs and impact of the version of the American Health Care Act passed by the House earlier this month.

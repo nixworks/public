@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/01/20/president-robert-mugabe-of-zimbabwe-makes-his-first-public-appearance-in-several-weeks.html)  [JSON](/news/2014/01/20/president-robert-mugabe-of-zimbabwe-makes-his-first-public-appearance-in-several-weeks.json)  [XML](/news/2014/01/20/president-robert-mugabe-of-zimbabwe-makes-his-first-public-appearance-in-several-weeks.xml)  
+
 ### [2014-01-20](/news/2014/01/20/index.md)
 
+##### President of Zimbabwe
 # President Robert Mugabe of Zimbabwe makes his first public appearance in several weeks. 
 
 Zimbabwe President Robert Mugabe appeared in public for the first time in several weeks on Monday to mourn the death of his sister, ending speculation that he may be bed-ridden, in declining health or even dead.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/01/20/us-zimbabwe-mugabe-idUSBREA0J0KC20140120)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140120&t=2&i=830989059&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0J0SK200)
+1. [Reuters](https://www.reuters.com/article/2014/01/20/us-zimbabwe-mugabe-idUSBREA0J0KC20140120)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140120&t=2&i=830989059&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0J0SK200)
 
 ### Related:
 

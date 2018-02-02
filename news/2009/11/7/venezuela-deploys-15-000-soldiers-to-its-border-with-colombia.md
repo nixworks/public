@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/7/venezuela-deploys-15-000-soldiers-to-its-border-with-colombia.html)  [JSON](/news/2009/11/7/venezuela-deploys-15-000-soldiers-to-its-border-with-colombia.json)  [XML](/news/2009/11/7/venezuela-deploys-15-000-soldiers-to-its-border-with-colombia.xml)  
+
 ### [2009-11-7](/news/2009/11/7/index.md)
 
+##### Venezuela
 #  Venezuela deploys 15,000 soldiers to its border with Colombia. 
 
 CARACAS: Venezuela is sending 15,000 soldiers to the border with Colombia, saying the military build-up is needed to increase security, combat drug trafficking and root out paramilitary groups.
 
 
-### Source:
+### Sources:
 
 1. [The Scotsman](http://news.scotsman.com/world/Chavez-troops-sent-to-Colombia.5804115.jp)
 2. [The Sydney Morning Herald](http://www.smh.com.au/world/chavez-orders-troops-to-border-20091106-i25s.html)

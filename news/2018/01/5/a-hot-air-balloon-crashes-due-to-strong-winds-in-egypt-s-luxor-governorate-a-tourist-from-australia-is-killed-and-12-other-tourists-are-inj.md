@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in
 
 ### [2018-01-5](/news/2018/01/5/index.md)
 
+##### 2018 Luxor hot air balloon crash
 # A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. 
 
 

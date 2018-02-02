@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/7/a-major-crisis-deepens-in-tunisia-after-the-murder-of-chokri-belaid-the-leading-party-ennahda-states-that-it-will-not-accept-a-new-governme.html)  [JSON](/news/2013/02/7/a-major-crisis-deepens-in-tunisia-after-the-murder-of-chokri-belaid-the-leading-party-ennahda-states-that-it-will-not-accept-a-new-governme.json)  [XML](/news/2013/02/7/a-major-crisis-deepens-in-tunisia-after-the-murder-of-chokri-belaid-the-leading-party-ennahda-states-that-it-will-not-accept-a-new-governme.xml)  
+
 ### [2013-02-7](/news/2013/02/7/index.md)
 
+##### Tunisia
 # A major crisis deepens in Tunisia after the murder of Chokri Belaid. The leading party Ennahda states that it will not accept a new government, even if suggested by its leading member, Prime Minister Hamadi Jebali. In today's clashes at least one person died. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21366235)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65764000/jpg/_65764694_65764693.jpg)

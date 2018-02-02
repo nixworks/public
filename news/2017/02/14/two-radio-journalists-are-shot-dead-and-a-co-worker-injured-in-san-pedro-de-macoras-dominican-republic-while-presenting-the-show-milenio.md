@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/14/two-radio-journalists-are-shot-dead-and-a-co-wo
 
 ### [2017-02-14](/news/2017/02/14/index.md)
 
+##### San Pedro de Macoris
 # Two radio journalists are shot dead and a co-worker injured in San Pedro de Macoris, Dominican Republic, while presenting the show "Milenio Caliente" on Facebook Live. Three people were arrested. 
 
 

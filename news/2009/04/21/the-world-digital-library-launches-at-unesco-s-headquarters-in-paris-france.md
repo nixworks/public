@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/21/the-world-digital-library-launches-at-unesco-s-headquarters-in-paris-france.html)  [JSON](/news/2009/04/21/the-world-digital-library-launches-at-unesco-s-headquarters-in-paris-france.json)  [XML](/news/2009/04/21/the-world-digital-library-launches-at-unesco-s-headquarters-in-paris-france.xml)  
+
 ### [2009-04-21](/news/2009/04/21/index.md)
 
+##### World Digital Library
 #  The World Digital Library launches at UNESCO's headquarters in Paris, France. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iat-c9Vu7m8Me8PqwSp5FYNiv7sQ)
 

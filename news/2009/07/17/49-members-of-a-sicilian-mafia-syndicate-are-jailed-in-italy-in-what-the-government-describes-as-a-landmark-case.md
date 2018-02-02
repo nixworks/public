@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/17/49-members-of-a-sicilian-mafia-syndicate-are-jailed-in-italy-in-what-the-government-describes-as-a-landmark-case.html)  [JSON](/news/2009/07/17/49-members-of-a-sicilian-mafia-syndicate-are-jailed-in-italy-in-what-the-government-describes-as-a-landmark-case.json)  [XML](/news/2009/07/17/49-members-of-a-sicilian-mafia-syndicate-are-jailed-in-italy-in-what-the-government-describes-as-a-landmark-case.xml)  
+
 ### [2009-07-17](/news/2009/07/17/index.md)
 
+##### Sicily
 #  49 members of a Sicilian Mafia syndicate are jailed in Italy in what the government describes as a landmark case. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8156906.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/15/ethiopian-forces-supported-by-somaliland-kill-123-members-of-the-rebel-ogaden-national-liberation-front-in-the-east-of-the-country-and-sur.html)  [JSON](/news/2010/09/15/ethiopian-forces-supported-by-somaliland-kill-123-members-of-the-rebel-ogaden-national-liberation-front-in-the-east-of-the-country-and-sur.json)  [XML](/news/2010/09/15/ethiopian-forces-supported-by-somaliland-kill-123-members-of-the-rebel-ogaden-national-liberation-front-in-the-east-of-the-country-and-sur.xml)  
+
 ### [2010-09-15](/news/2010/09/15/index.md)
 
+##### Ethiopia
 # Ethiopian forces, supported by Somaliland, kill 123 members of the rebel Ogaden National Liberation Front in the east of the country and surround a further 90 rebels. 
 
 Ethiopian forces have killed 123 separatist rebels in the eastern region of the country, a senior Ethiopian official has told the BBC.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11315967)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

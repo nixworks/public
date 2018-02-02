@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/03/23/gunmen-assassinate-paraguay-s-vice-president-luis-maria-argana.html)  [JSON](/news/1999/03/23/gunmen-assassinate-paraguay-s-vice-president-luis-maria-argana.json)  [XML](/news/1999/03/23/gunmen-assassinate-paraguay-s-vice-president-luis-maria-argana.xml)  
+
 ### [1999-03-23](/news/1999/03/23/index.md)
 
+##### Paraguay
 #  Gunmen assassinate Paraguay's Vice President Luis Mara Argaa.
 
 

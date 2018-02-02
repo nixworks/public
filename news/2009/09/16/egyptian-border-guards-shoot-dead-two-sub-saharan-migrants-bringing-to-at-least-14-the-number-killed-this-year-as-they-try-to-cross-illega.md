@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/16/egyptian-border-guards-shoot-dead-two-sub-saharan-migrants-bringing-to-at-least-14-the-number-killed-this-year-as-they-try-to-cross-illega.html)  [JSON](/news/2009/09/16/egyptian-border-guards-shoot-dead-two-sub-saharan-migrants-bringing-to-at-least-14-the-number-killed-this-year-as-they-try-to-cross-illega.json)  [XML](/news/2009/09/16/egyptian-border-guards-shoot-dead-two-sub-saharan-migrants-bringing-to-at-least-14-the-number-killed-this-year-as-they-try-to-cross-illega.xml)  
+
 ### [2009-09-16](/news/2009/09/16/index.md)
 
+##### Egypt
 #  Egyptian border guards shoot dead two sub-Saharan migrants, bringing to at least 14 the number killed this year as they try to cross illegally into Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=85&art_id=nw20090916100524369C781493)
 

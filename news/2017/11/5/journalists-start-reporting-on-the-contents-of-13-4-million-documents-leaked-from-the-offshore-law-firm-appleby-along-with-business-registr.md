@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/5/journalists-start-reporting-on-the-contents-of-1
 
 ### [2017-11-5](/news/2017/11/5/index.md)
 
+##### Paradise Papers
 # Journalists start reporting on the contents of 13.4 million documents leaked from the offshore law firm Appleby, along with business registries in 19 tax jurisdictions that reveal offshore financial activities of politicians, celebrities, corporate giants and business leaders. The German newspaper "Suddeutsche Zeitung" had previously obtained the documents and shared them with the International Consortium of Investigative Journalists. 
 
 The leak, called the Paradise Papers, centers on an offshore law firm that has helped obscure the wealth of multinational companies and the superrich.

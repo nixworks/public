@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/18/michelle-lodzinski-is-convicted-of-murdering-he
 
 ### [2016-05-18](/news/2016/05/18/index.md)
 
+##### Timothy Wiltsey
 #  Michelle Lodzinski is convicted of murdering her five-year-old son Timothy Wiltsey 25 years ago in New Jersey. 
 
 The verdict ended a mystery that has long haunted the New Jersey community where the child disappeared and confirmed suspicions harbored by many that his mother, Michelle Lodzinski, was responsible.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/2/israel-s-likud-party-votes-in-a-referendum-not-to-pull-out-of-the-gaza-strip-unilaterally-the-referendum-s-defeat-is-seen-as-a-major-blow.html)  [JSON](/news/2004/05/2/israel-s-likud-party-votes-in-a-referendum-not-to-pull-out-of-the-gaza-strip-unilaterally-the-referendum-s-defeat-is-seen-as-a-major-blow.json)  [XML](/news/2004/05/2/israel-s-likud-party-votes-in-a-referendum-not-to-pull-out-of-the-gaza-strip-unilaterally-the-referendum-s-defeat-is-seen-as-a-major-blow.xml)  
+
 ### [2004-05-2](/news/2004/05/2/index.md)
 
+##### Israel
 #  Israel's Likud Party votes in a referendum not to pull out of the Gaza Strip unilaterally. The referendum's defeat is seen as a major blow to the Sharon government. Sharon subsequently says that he will not resign and may modify the plan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3678031.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3680679.stm)

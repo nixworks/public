@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/8/mozambique-announces-it-will-build-a-new-bridge-across-the-zambezi-to-allow-for-a-giant-coal-project-in-tete-province.html)  [JSON](/news/2010/07/8/mozambique-announces-it-will-build-a-new-bridge-across-the-zambezi-to-allow-for-a-giant-coal-project-in-tete-province.json)  [XML](/news/2010/07/8/mozambique-announces-it-will-build-a-new-bridge-across-the-zambezi-to-allow-for-a-giant-coal-project-in-tete-province.xml)  
+
 ### [2010-07-8](/news/2010/07/8/index.md)
 
+##### Mozambique
 # Mozambique announces it will build a new bridge across the Zambezi to allow for a giant coal project in Tete Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Afrol News](http://www.afrol.com/articles/36471)
 2. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/10552771.stm)

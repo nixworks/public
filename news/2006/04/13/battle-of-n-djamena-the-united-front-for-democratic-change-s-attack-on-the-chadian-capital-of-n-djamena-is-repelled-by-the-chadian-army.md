@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2006/04/13/battle-of-n-djamena-the-united-front-for-democratic-change-s-attack-on-the-chadian-capital-of-n-djamena-is-repelled-by-the-chadian-army.html)  [JSON](/news/2006/04/13/battle-of-n-djamena-the-united-front-for-democratic-change-s-attack-on-the-chadian-capital-of-n-djamena-is-repelled-by-the-chadian-army.json)  [XML](/news/2006/04/13/battle-of-n-djamena-the-united-front-for-democratic-change-s-attack-on-the-chadian-capital-of-n-djamena-is-repelled-by-the-chadian-army.xml)  
+
 ### [2006-04-13](/news/2006/04/13/index.md)
 
+##### attempted coup
 #  Battle of N'Djamena: The United Front for Democratic Change's attack on the Chadian capital of N'Djamena is repelled by the Chadian army. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4908836.stm)
-2. [Canadian Press](http://news.yahoo.com/s/cpress/20060413/ca_pr_on_wo/chad_rebels)
+2. [Canadian Press](https://news.yahoo.com/s/cpress/20060413/ca_pr_on_wo/chad_rebels)
 
 ### Related:
 

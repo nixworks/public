@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/07/28/francisco-jose-garzon-amo-the-driver-of-the-train-involved-in-the-santiago-de-compostela-derailment-is-charged-with-79-counts-of-manslaugh.html)  [JSON](/news/2013/07/28/francisco-jose-garzon-amo-the-driver-of-the-train-involved-in-the-santiago-de-compostela-derailment-is-charged-with-79-counts-of-manslaugh.json)  [XML](/news/2013/07/28/francisco-jose-garzon-amo-the-driver-of-the-train-involved-in-the-santiago-de-compostela-derailment-is-charged-with-79-counts-of-manslaugh.xml)  
+
 ### [2013-07-28](/news/2013/07/28/index.md)
 
+##### train that derailed
 # Francisco Jos Garzn Amo, the driver of the train involved in the Santiago de Compostela derailment, is charged with 79 counts of manslaughter in a Spanish court. 
 
-A local resident of the town where a train derailed, killing 78 people, says the driver said minutes after the crash that he had been going fast and couldn&#39;t brake.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2013/07/28/spain-train-driver-speed/2593407/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/world/2013/07/28/spain-train-driver-speed/2593407/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/29/the-united-states-house-of-representatives-approves-legislation-that-would-lead-to-trade-sanctions-against-china-which-is-accused-of-underv.html)  [JSON](/news/2010/09/29/the-united-states-house-of-representatives-approves-legislation-that-would-lead-to-trade-sanctions-against-china-which-is-accused-of-underv.json)  [XML](/news/2010/09/29/the-united-states-house-of-representatives-approves-legislation-that-would-lead-to-trade-sanctions-against-china-which-is-accused-of-underv.xml)  
+
 ### [2010-09-29](/news/2010/09/29/index.md)
 
+##### House of Representatives
 # The United States House of Representatives approves legislation that would lead to trade sanctions against China, which is accused of undervaluing the yuan. 
 
 The US House of Representatives passes a bill aimed at increasing pressure on China over the value of its currency, the yuan.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-11437808)
 2. [CNN](http://money.cnn.com/2010/09/29/news/economy/congress_china_currency_bill/)
@@ -15,6 +19,6 @@ The US House of Representatives passes a bill aimed at increasing pressure on Ch
 
 1. [The International Monetary Fund modifies its benchmark currency basket to include the yuan of the People's Republic of China. The basket also includes the U.S. dollar, the euro, the pound sterling, and the Japanese yen. ](/news/2015/11/30/the-international-monetary-fund-modifies-its-benchmark-currency-basket-to-include-the-yuan-of-the-people-s-republic-of-china-the-basket-als.md) _Context: China, yuan_
 2. [ China's trade surplus increases by 67%, increasing pressure on the government to float the yuan. ](/news/2007/02/12/china-s-trade-surplus-increases-by-67-increasing-pressure-on-the-government-to-float-the-yuan.md) _Context: China, yuan_
-3. [At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoyang.md) _Context: China_
-4. [An early morning fire in the Chinese city of Changshu in Jiangsu province kills 22 people and injures three. ](/news/2017/07/16/an-early-morning-fire-in-the-chinese-city-of-changshu-in-jiangsu-province-kills-22-people-and-injures-three.md) _Context: China_
-5. [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.md) _Context: United States House of Representatives_
+3. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _Context: House of Representatives_
+4. [The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program, permitted by Section 702. Changes to the program will require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. ](/news/2018/01/11/the-united-states-house-of-representatives-passes-a-bill-to-reauthorize-for-a-period-of-six-years-a-key-foreign-intelligence-collection-pr.md) _Context: House of Representatives_
+5. [Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations that he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. ](/news/2017/12/8/trent-franks-a-united-states-representative-for-arizona-s-8th-congressional-district-announces-his-immediate-resignation-following-allega.md) _Context: House of Representatives_

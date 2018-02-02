@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/29/militants-launch-an-attack-on-an-indian-army-ba
 
 ### [2016-11-29](/news/2016/11/29/index.md)
 
+##### Kashmir conflict
 # Militants launch an attack on an Indian Army base in the town of Nagrota. At least 7 soldiers and 3 insurgents die in the attack. 
 
 Militants attacked an army base near the Indian city of Jammu on Tuesday, killing at least seven security personnel and taking hostages in the boldest assault on a military base in the region in recent months, officials said.

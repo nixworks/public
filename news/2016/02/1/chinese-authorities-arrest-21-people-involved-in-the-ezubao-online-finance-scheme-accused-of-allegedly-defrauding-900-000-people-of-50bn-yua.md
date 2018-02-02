@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/1/chinese-authorities-arrest-21-people-involved-in
 
 ### [2016-02-1](/news/2016/02/1/index.md)
 
+##### Ponzi scheme
 # Chinese authorities arrest 21 people involved in the Ezubao online finance scheme accused of allegedly defrauding 900,000 people of 50bn yuan ($7.6bn; GBP5.3bn) in a Ponzi scheme. 
 
 China arrests 21 people involved in an online finance scam alleged to have robbed some 50bn yuan ($7.6bn) from around 900,000 investors.

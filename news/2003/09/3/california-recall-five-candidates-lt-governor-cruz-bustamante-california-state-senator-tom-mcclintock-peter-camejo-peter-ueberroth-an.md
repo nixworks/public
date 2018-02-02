@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/3/california-recall-five-candidates-lt-governor-cruz-bustamante-california-state-senator-tom-mcclintock-peter-camejo-peter-ueberroth-an.html)  [JSON](/news/2003/09/3/california-recall-five-candidates-lt-governor-cruz-bustamante-california-state-senator-tom-mcclintock-peter-camejo-peter-ueberroth-an.json)  [XML](/news/2003/09/3/california-recall-five-candidates-lt-governor-cruz-bustamante-california-state-senator-tom-mcclintock-peter-camejo-peter-ueberroth-an.xml)  
+
 ### [2003-09-3](/news/2003/09/3/index.md)
 
+##### 2003 California recall
 #  California recall: Five candidates (Lt. Governor Cruz Bustamante, California state senator Tom McClintock, Peter Camejo, Peter Ueberroth and Arianna Huffington) attended the first debate held for the recall election. Arnold Schwarzenegger was criticized for not turning up at the debate. Issues such as tax and campaign finance were brought up.
 
 

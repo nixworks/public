@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/24/the-congress-of-the-united-states-rejected-condoleezza-rice-s-request-to-restore-50-million-in-aid-to-the-african-union-that-human-rights.html)  [JSON](/news/2005/12/24/the-congress-of-the-united-states-rejected-condoleezza-rice-s-request-to-restore-50-million-in-aid-to-the-african-union-that-human-rights.json)  [XML](/news/2005/12/24/the-congress-of-the-united-states-rejected-condoleezza-rice-s-request-to-restore-50-million-in-aid-to-the-african-union-that-human-rights.xml)  
+
 ### [2005-12-24](/news/2005/12/24/index.md)
 
+##### Congressman
 #  The Congress of the United States rejected Condoleezza Rice's request to restore $50 million in aid to the African Union that human rights groups say had been cut from the budget in November. The money would have gone to maintain AU peacekeepers in controlling the Darfur conflict, in which about 180,000 people have died. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Herald News Daily](http://www.heraldnewsdaily.com/stories/news-00115568.html)
 2. [UN](http://www.un.org/apps/news/story.asp?NewsID=16981&Cr=Sudan&Cr1=)

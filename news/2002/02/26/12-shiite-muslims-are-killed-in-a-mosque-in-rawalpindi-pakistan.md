@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/02/26/12-shiite-muslims-are-killed-in-a-mosque-in-rawalpindi-pakistan.html)  [JSON](/news/2002/02/26/12-shiite-muslims-are-killed-in-a-mosque-in-rawalpindi-pakistan.json)  [XML](/news/2002/02/26/12-shiite-muslims-are-killed-in-a-mosque-in-rawalpindi-pakistan.xml)  
+
 ### [2002-02-26](/news/2002/02/26/index.md)
 
+##### Shiite
 #  12 Shiite Muslims are killed in a mosque in Rawalpindi, Pakistan.
 
 

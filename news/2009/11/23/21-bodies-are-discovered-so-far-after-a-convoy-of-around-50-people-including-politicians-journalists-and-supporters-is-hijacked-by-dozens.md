@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/23/21-bodies-are-discovered-so-far-after-a-convoy-of-around-50-people-including-politicians-journalists-and-supporters-is-hijacked-by-dozens.html)  [JSON](/news/2009/11/23/21-bodies-are-discovered-so-far-after-a-convoy-of-around-50-people-including-politicians-journalists-and-supporters-is-hijacked-by-dozens.json)  [XML](/news/2009/11/23/21-bodies-are-discovered-so-far-after-a-convoy-of-around-50-people-including-politicians-journalists-and-supporters-is-hijacked-by-dozens.xml)  
+
 ### [2009-11-23](/news/2009/11/23/index.md)
 
+##### Maguindanao
 #  21 bodies are discovered so far after a convoy of around 50 people including politicians, journalists and supporters is hijacked by dozens of armed gunmen in Maguindanao, southern Philippines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ha6FJ6JRsaJkvGnvppty2USWW8UAD9C56ONG0)
 2. [GMA News](http://www.gmanews.tv/story/177644/maguindanao-poll-related-massacre-claims-at-least-36-lives)

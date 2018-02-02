@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/14/john-ashcroft-tells-the-national-commission-on-terrorist-attacks-upon-the-united-states-that-he-blames-former-president-bill-clinton-for-in.html)  [JSON](/news/2004/04/14/john-ashcroft-tells-the-national-commission-on-terrorist-attacks-upon-the-united-states-that-he-blames-former-president-bill-clinton-for-in.json)  [XML](/news/2004/04/14/john-ashcroft-tells-the-national-commission-on-terrorist-attacks-upon-the-united-states-that-he-blames-former-president-bill-clinton-for-in.xml)  
+
 ### [2004-04-14](/news/2004/04/14/index.md)
 
+##### John Ashcroft
 #  John Ashcroft tells the National Commission on Terrorist Attacks Upon the United States that he blames former president Bill Clinton for intelligence failures and Jamie S. Gorelick for organizational failures leading to the September 11, 2001 attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Democracy Now!](http://www.democracynow.org/article.pl?sid=04/04/14/1612210)
 2. [Washington Times](http://www.washtimes.com/national/20040414-124718-2114r.htm)

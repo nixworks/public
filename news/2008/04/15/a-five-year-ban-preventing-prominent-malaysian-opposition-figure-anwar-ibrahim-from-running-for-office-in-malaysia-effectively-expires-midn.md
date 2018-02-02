@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2008/04/15/a-five-year-ban-preventing-prominent-malaysian-opposition-figure-anwar-ibrahim-from-running-for-office-in-malaysia-effectively-expires-midn.html)  [JSON](/news/2008/04/15/a-five-year-ban-preventing-prominent-malaysian-opposition-figure-anwar-ibrahim-from-running-for-office-in-malaysia-effectively-expires-midn.json)  [XML](/news/2008/04/15/a-five-year-ban-preventing-prominent-malaysian-opposition-figure-anwar-ibrahim-from-running-for-office-in-malaysia-effectively-expires-midn.xml)  
+
 ### [2008-04-15](/news/2008/04/15/index.md)
 
+##### Malaysia
 #  A five-year ban preventing prominent Malaysian Opposition figure Anwar Ibrahim from running for office in Malaysia effectively expires midnight (MST). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7345790.stm)
-2. [Reuters](http://www.reuters.com/article/newsOne/idUSSP20752520080414)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/newsOne/idUSSP20752520080414)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

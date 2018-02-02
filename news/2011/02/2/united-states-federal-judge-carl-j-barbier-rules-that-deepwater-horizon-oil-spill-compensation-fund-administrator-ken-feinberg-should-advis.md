@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/2/united-states-federal-judge-carl-j-barbier-rules-that-deepwater-horizon-oil-spill-compensation-fund-administrator-ken-feinberg-should-advis.html)  [JSON](/news/2011/02/2/united-states-federal-judge-carl-j-barbier-rules-that-deepwater-horizon-oil-spill-compensation-fund-administrator-ken-feinberg-should-advis.json)  [XML](/news/2011/02/2/united-states-federal-judge-carl-j-barbier-rules-that-deepwater-horizon-oil-spill-compensation-fund-administrator-ken-feinberg-should-advis.xml)  
+
 ### [2011-02-2](/news/2011/02/2/index.md)
 
+##### Federal District Judge
 # United States federal judge Carl J. Barbier rules that Deepwater Horizon oil spill compensation fund administrator Ken Feinberg should advise people that he is working for BP. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Newser](http://www.newser.com/article/d9l4v5tg0/us-judge-oil-spill-claims-czar-not-independent-of-bp-cannot-tell-potential-claimants-he-is.html#)
 

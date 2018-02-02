@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/1/turkish-presidential-election-2007-the-constitutional-court-of-turkey-annuls-last-friday-s-presidential-vote-in-the-grand-national-assemb.html)  [JSON](/news/2007/05/1/turkish-presidential-election-2007-the-constitutional-court-of-turkey-annuls-last-friday-s-presidential-vote-in-the-grand-national-assemb.json)  [XML](/news/2007/05/1/turkish-presidential-election-2007-the-constitutional-court-of-turkey-annuls-last-friday-s-presidential-vote-in-the-grand-national-assemb.xml)  
+
 ### [2007-05-1](/news/2007/05/1/index.md)
 
+##### July elections
 #  Turkish presidential election, 2007: The Constitutional Court of Turkey annuls last Friday's presidential vote in the Grand National Assembly after a challenge by opposition parties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6612831.stm)
 

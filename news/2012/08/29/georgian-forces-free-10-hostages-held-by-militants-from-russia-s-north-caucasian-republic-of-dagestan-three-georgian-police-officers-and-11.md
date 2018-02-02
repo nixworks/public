@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/29/georgian-forces-free-10-hostages-held-by-militants-from-russia-s-north-caucasian-republic-of-dagestan-three-georgian-police-officers-and-11.html)  [JSON](/news/2012/08/29/georgian-forces-free-10-hostages-held-by-militants-from-russia-s-north-caucasian-republic-of-dagestan-three-georgian-police-officers-and-11.json)  [XML](/news/2012/08/29/georgian-forces-free-10-hostages-held-by-militants-from-russia-s-north-caucasian-republic-of-dagestan-three-georgian-police-officers-and-11.xml)  
+
 ### [2012-08-29](/news/2012/08/29/index.md)
 
+#####  Georgian
 # Georgian forces free 10 hostages held by militants from Russia's North Caucasian republic of Dagestan. Three Georgian police officers and 11 militants die in a clash. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.ria.ru/russia/20120829/175501559.html)
 2. [The Seattle Times](http://seattletimes.com/html/nationworld/2019013216_apeugeorgiamilitants.html)

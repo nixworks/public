@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/10/tides-of-over-2-meters-inundate-port-blair-andaman-islands-india-raising-fears-that-the-2004-indian-ocean-earthquake-has-changed-tidal-p.html)  [JSON](/news/2005/01/10/tides-of-over-2-meters-inundate-port-blair-andaman-islands-india-raising-fears-that-the-2004-indian-ocean-earthquake-has-changed-tidal-p.json)  [XML](/news/2005/01/10/tides-of-over-2-meters-inundate-port-blair-andaman-islands-india-raising-fears-that-the-2004-indian-ocean-earthquake-has-changed-tidal-p.xml)  
+
 ### [2005-01-10](/news/2005/01/10/index.md)
 
+##### Port Blair
 #  Tides of over 2 meters inundate Port Blair, Andaman Islands, India, raising fears that the 2004 Indian Ocean earthquake has changed tidal patterns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4162425.stm)
 

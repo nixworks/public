@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/09/29/a-high-school-principal-is-shot-to-death-by-15-year-old-eric-hainstock-principal-john-klang-of-weston-high-school-in-cazenovia-wisconsin.html)  [JSON](/news/2006/09/29/a-high-school-principal-is-shot-to-death-by-15-year-old-eric-hainstock-principal-john-klang-of-weston-high-school-in-cazenovia-wisconsin.json)  [XML](/news/2006/09/29/a-high-school-principal-is-shot-to-death-by-15-year-old-eric-hainstock-principal-john-klang-of-weston-high-school-in-cazenovia-wisconsin.xml)  
+
 ### [2006-09-29](/news/2006/09/29/index.md)
 
+##### Eric Hainstock
 #  A high school principal is shot to death by 15-year-old Eric Hainstock. Principal John Klang of Weston High School in Cazenovia, Wisconsin is shot three times by Hainstock with a gun which he stole from his family home. A custodian and others confront the student who is now in police custody. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/s/ap/20060930/ap_on_re_us/school_shooting)
+1. [AP](https://news.yahoo.com/s/ap/20060930/ap_on_re_us/school_shooting)
 
 ### Related:
 

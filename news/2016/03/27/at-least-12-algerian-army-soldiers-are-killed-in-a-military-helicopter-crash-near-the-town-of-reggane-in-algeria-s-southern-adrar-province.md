@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2016/03/27/at-least-12-algerian-army-soldiers-are-killed-in-a-military-helicopter-crash-near-the-town-of-reggane-in-algeria-s-southern-adrar-province.html)  [JSON](/news/2016/03/27/at-least-12-algerian-army-soldiers-are-killed-in-a-military-helicopter-crash-near-the-town-of-reggane-in-algeria-s-southern-adrar-province.json)  [XML](/news/2016/03/27/at-least-12-algerian-army-soldiers-are-killed-in-a-military-helicopter-crash-near-the-town-of-reggane-in-algeria-s-southern-adrar-province.xml)  
+
 ### [2016-03-27](/news/2016/03/27/index.md)
 
+##### Algerian Army
 # At least 12 Algerian Army soldiers are killed in a military helicopter crash near the town of Reggane, in Algeria's southern Adrar Province. 
 
 At least 12 Algerian soldiers were killed when a military helicopter crashed in the south of the country, the Defense Ministry said on Sunday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-algeria-crash-idUSKCN0WT0RJ)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/us-algeria-crash-idUSKCN0WT0RJ)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/17/prince-william-of-wales-visits-christchurch-new-zealand-to-inspect-relief-efforts-for-the-2011-christchurch-earthquake.html)  [JSON](/news/2011/03/17/prince-william-of-wales-visits-christchurch-new-zealand-to-inspect-relief-efforts-for-the-2011-christchurch-earthquake.json)  [XML](/news/2011/03/17/prince-william-of-wales-visits-christchurch-new-zealand-to-inspect-relief-efforts-for-the-2011-christchurch-earthquake.xml)  
+
 ### [2011-03-17](/news/2011/03/17/index.md)
 
+##### Duke of Cambridge
 # Prince William of Wales visits Christchurch, New Zealand, to inspect relief efforts for the 2011 Christchurch earthquake. 
 
 Prince William has touched down in quake-ravaged Christchurch to a rapturous round of applause, taking time out to hold a baby as he passed through the airport.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/prince-william-arrives-in-christchurch-20110317-1bxzp.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/b/y/0/8/image.related.articleLeadwide.620x349.1bxzp.png/1300322846683.jpg)

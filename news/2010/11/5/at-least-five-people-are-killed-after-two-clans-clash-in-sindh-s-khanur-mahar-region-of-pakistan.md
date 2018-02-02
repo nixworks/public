@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/5/at-least-five-people-are-killed-after-two-clans-clash-in-sindh-s-khanur-mahar-region-of-pakistan.html)  [JSON](/news/2010/11/5/at-least-five-people-are-killed-after-two-clans-clash-in-sindh-s-khanur-mahar-region-of-pakistan.json)  [XML](/news/2010/11/5/at-least-five-people-are-killed-after-two-clans-clash-in-sindh-s-khanur-mahar-region-of-pakistan.xml)  
+
 ### [2010-11-5](/news/2010/11/5/index.md)
 
+##### Sindh
 # At least five people are killed after two clans clash in Sindh's Khanur Mahar region of Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dawn](http://public.dawn.com/2010/11/05/five-killed-in-khanpur-mahar.html)
 

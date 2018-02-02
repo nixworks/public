@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/9/serial-blasts-rock-russia-s-grozny-at-least-five-people-are-wounded.html)  [JSON](/news/2011/02/9/serial-blasts-rock-russia-s-grozny-at-least-five-people-are-wounded.json)  [XML](/news/2011/02/9/serial-blasts-rock-russia-s-grozny-at-least-five-people-are-wounded.xml)  
+
 ### [2011-02-9](/news/2011/02/9/index.md)
 
+##### Russia
 # Serial blasts rock Russia's Grozny, at least five people are wounded. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People's Daily](http://english.people.com.cn/90001/90777/90853/7282438.html)
 

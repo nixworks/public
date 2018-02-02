@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/9/voters-in-cameroon-go-to-the-polls-for-a-presidential-election-with-incumbent-president-paul-biya-likely-to-be-re-elected.html)  [JSON](/news/2011/10/9/voters-in-cameroon-go-to-the-polls-for-a-presidential-election-with-incumbent-president-paul-biya-likely-to-be-re-elected.json)  [XML](/news/2011/10/9/voters-in-cameroon-go-to-the-polls-for-a-presidential-election-with-incumbent-president-paul-biya-likely-to-be-re-elected.xml)  
+
 ### [2011-10-9](/news/2011/10/9/index.md)
 
+##### Cameroon
 # Voters in Cameroon go to the polls for a presidential election, with incumbent President Paul Biya likely to be re-elected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Fen](http://www.focus-fen.net/index.php?id=n261270)
 1. [Cover Image](http://images.focus-news.net/38ae1b84f7dbe353e6426359a9ba2cbd.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/29/chen-xitong-former-mayor-of-beijing-apologises-for-deaths-during-the-1989-tiananmen-square-protests-adding-that-they-could-have-been-avoide.html)  [JSON](/news/2012/05/29/chen-xitong-former-mayor-of-beijing-apologises-for-deaths-during-the-1989-tiananmen-square-protests-adding-that-they-could-have-been-avoide.json)  [XML](/news/2012/05/29/chen-xitong-former-mayor-of-beijing-apologises-for-deaths-during-the-1989-tiananmen-square-protests-adding-that-they-could-have-been-avoide.xml)  
+
 ### [2012-05-29](/news/2012/05/29/index.md)
 
+##### Chen Xitong
 # Chen Xitong former mayor of Beijing apologises for deaths during the 1989 Tiananmen Square protests, adding that they could have been avoided, in a book released in Hong Kong this week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h13Q51bzdxXw_GeUNEP5vdZ8lZ6Q?docId=CNG.6bb93ccc3bb23cd58fdc00d7b70de121.2a1)
 

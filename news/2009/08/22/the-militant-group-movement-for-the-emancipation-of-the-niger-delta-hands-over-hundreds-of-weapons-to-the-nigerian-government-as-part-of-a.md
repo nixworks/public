@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/22/the-militant-group-movement-for-the-emancipation-of-the-niger-delta-hands-over-hundreds-of-weapons-to-the-nigerian-government-as-part-of-a.html)  [JSON](/news/2009/08/22/the-militant-group-movement-for-the-emancipation-of-the-niger-delta-hands-over-hundreds-of-weapons-to-the-nigerian-government-as-part-of-a.json)  [XML](/news/2009/08/22/the-militant-group-movement-for-the-emancipation-of-the-niger-delta-hands-over-hundreds-of-weapons-to-the-nigerian-government-as-part-of-a.xml)  
+
 ### [2009-08-22](/news/2009/08/22/index.md)
 
+##### Movement for the Emancipation of the Niger Delta
 #  The militant group Movement for the Emancipation of the Niger Delta hands over hundreds of weapons to the Nigerian government as part of a weapons amnesty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8215918.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=86&art_id=nw20090822121017520C697486)

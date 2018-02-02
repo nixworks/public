@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/11/30/super-typhoon-durian-reming-the-strongest-typhoon-to-hit-philippines-impacts-the-bical-region-in-virac-catanduanes-265-km-h-wind-was.html)  [JSON](/news/2006/11/30/super-typhoon-durian-reming-the-strongest-typhoon-to-hit-philippines-impacts-the-bical-region-in-virac-catanduanes-265-km-h-wind-was.json)  [XML](/news/2006/11/30/super-typhoon-durian-reming-the-strongest-typhoon-to-hit-philippines-impacts-the-bical-region-in-virac-catanduanes-265-km-h-wind-was.xml)  
+
 ### [2006-11-30](/news/2006/11/30/index.md)
 
+##### Super Typhoon Durian (Reming)
 #  Super Typhoon Durian (Reming), the strongest Typhoon to hit Philippines, impacts the Bical region. In Virac Catanduanes 265 - km-h wind was recorded, while in Legaspi, Albay 4.66 mm of rain is recorded and a total of 740 people are killed.
 
 

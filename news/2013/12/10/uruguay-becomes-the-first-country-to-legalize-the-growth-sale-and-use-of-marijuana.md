@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/12/10/uruguay-becomes-the-first-country-to-legalize-the-growth-sale-and-use-of-marijuana.html)  [JSON](/news/2013/12/10/uruguay-becomes-the-first-country-to-legalize-the-growth-sale-and-use-of-marijuana.json)  [XML](/news/2013/12/10/uruguay-becomes-the-first-country-to-legalize-the-growth-sale-and-use-of-marijuana.xml)  
+
 ### [2013-12-10](/news/2013/12/10/index.md)
 
+##### Uruguay
 # Uruguay becomes the first country to legalize the growth, sale, and use of marijuana. 
 
 Uruguay became the first country to legalize the growing, sale and smoking of marijuana on Tuesday, a pioneering social experiment that will be closely watched by other nations debating drug liberalization.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/12/11/us-uruguay-marijuana-vote-idUSBRE9BA01520131211)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131211&t=2&i=819239767&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9BA01XH00)
+1. [Reuters](https://www.reuters.com/article/2013/12/11/us-uruguay-marijuana-vote-idUSBRE9BA01520131211)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131211&t=2&i=819239767&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9BA01XH00)
 
 ### Related:
 

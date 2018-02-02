@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/13/south-korea-reports-two-more-outbreaks-of-bird-flu-near-seoul.html)  [JSON](/news/2011/02/13/south-korea-reports-two-more-outbreaks-of-bird-flu-near-seoul.json)  [XML](/news/2011/02/13/south-korea-reports-two-more-outbreaks-of-bird-flu-near-seoul.xml)  
+
 ### [2011-02-13](/news/2011/02/13/index.md)
 
+##### South Korea
 # South Korea reports two more outbreaks of bird flu near Seoul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/business/2011/02/13/95/0501000000AEN20110213001500320F.HTML)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/13/dana-shell-smith-announces-she-is-resigning-as-
 
 ### [2017-06-13](/news/2017/06/13/index.md)
 
+##### Qatar-United States relations
 # Dana Shell Smith announces she is resigning as United States Ambassador to Qatar amid regional tensions over Qatar's alleged support for terrorist groups. 
 
 The US ambassador to Qatar said Tuesday she is resigning her post in Doha amid the worst diplomatic crisis involving Washington’s Persian Gulf allies in years. &#8220;This month, I end my 3 years a…

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/18/president-of-nigeria-goodluck-jonathan-announces-a-n3-billion-fund-to-intervene-in-nollywood.html)  [JSON](/news/2013/06/18/president-of-nigeria-goodluck-jonathan-announces-a-n3-billion-fund-to-intervene-in-nollywood.json)  [XML](/news/2013/06/18/president-of-nigeria-goodluck-jonathan-announces-a-n3-billion-fund-to-intervene-in-nollywood.xml)  
+
 ### [2013-06-18](/news/2013/06/18/index.md)
 
+##### President
 # President of Nigeria Goodluck Jonathan announces a N3 billion fund to "intervene" in Nollywood. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [allAfrica](http://allafrica.com/stories/201306171672.html)
 

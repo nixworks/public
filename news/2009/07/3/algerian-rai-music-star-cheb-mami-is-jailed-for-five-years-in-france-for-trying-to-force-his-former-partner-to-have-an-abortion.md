@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/07/3/algerian-rai-music-star-cheb-mami-is-jailed-for-five-years-in-france-for-trying-to-force-his-former-partner-to-have-an-abortion.html)  [JSON](/news/2009/07/3/algerian-rai-music-star-cheb-mami-is-jailed-for-five-years-in-france-for-trying-to-force-his-former-partner-to-have-an-abortion.json)  [XML](/news/2009/07/3/algerian-rai-music-star-cheb-mami-is-jailed-for-five-years-in-france-for-trying-to-force-his-former-partner-to-have-an-abortion.xml)  
+
 ### [2009-07-3](/news/2009/07/3/index.md)
 
+##### Algeria
 #  Algerian ra music star Cheb Mami is jailed for five years in France for trying to force his former partner to have an abortion. 
 
 Algerian singer Cheb Mami went on trial in France on Thursday over accusations that he forced his former lover into an attempted abortion in 2005.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8130873.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=24&art_id=nw20090702172709911C277243)
-3. [Reuters](http://www.reuters.com/article/peopleNews/idUSTRE5614DJ20090702)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/peopleNews/idUSTRE5614DJ20090702)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/3/at-least-three-people-die-and-50-are-injured-after-a-passenger-train-derails-in-the-kamrup-district-in-india-s-assam-state.html)  [JSON](/news/2012/02/3/at-least-three-people-die-and-50-are-injured-after-a-passenger-train-derails-in-the-kamrup-district-in-india-s-assam-state.json)  [XML](/news/2012/02/3/at-least-three-people-die-and-50-are-injured-after-a-passenger-train-derails-in-the-kamrup-district-in-india-s-assam-state.xml)  
+
 ### [2012-02-3](/news/2012/02/3/index.md)
 
+##### passenger train
 # At least three people die and 50 are injured after a passenger train derails in the Kamrup district in India's Assam state. 
 
 At least three people have been killed and 50 others have been injured after seven coaches of a passenger train derailed at an unmanned crossing in Kamrup district of Assam today.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/article/india/guwahati-bound-passenger-train-derails-in-assam-50-injured-172909)
 1. [Cover Image](http://i.ndtvimg.com/mt/2012-02/Assam-train-accident-295x200_t2.jpg)

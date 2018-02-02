@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/13/the-prime-minister-of-pakistan-yousuf-raza-gilani-appears-before-the-supreme-court-of-pakistan-to-face-contempt-of-court-charges.html)  [JSON](/news/2012/02/13/the-prime-minister-of-pakistan-yousuf-raza-gilani-appears-before-the-supreme-court-of-pakistan-to-face-contempt-of-court-charges.json)  [XML](/news/2012/02/13/the-prime-minister-of-pakistan-yousuf-raza-gilani-appears-before-the-supreme-court-of-pakistan-to-face-contempt-of-court-charges.xml)  
+
 ### [2012-02-13](/news/2012/02/13/index.md)
 
+##### Prime Minister
 # The Prime Minister of Pakistan Yousuf Raza Gilani appears before the Supreme Court of Pakistan to face contempt of court charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IBN Live](http://ibnlive.in.com/news/pakistan-sc-likely-to-decide-gilanis-fate-today/229654-56.html)
 

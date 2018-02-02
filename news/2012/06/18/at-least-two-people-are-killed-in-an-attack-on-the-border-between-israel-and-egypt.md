@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/18/at-least-two-people-are-killed-in-an-attack-on-the-border-between-israel-and-egypt.html)  [JSON](/news/2012/06/18/at-least-two-people-are-killed-in-an-attack-on-the-border-between-israel-and-egypt.json)  [XML](/news/2012/06/18/at-least-two-people-are-killed-in-an-attack-on-the-border-between-israel-and-egypt.xml)  
+
 ### [2012-06-18](/news/2012/06/18/index.md)
 
+##### Israel
 # At least two people are killed in an attack on the border between Israel and Egypt. 
 
 An Israeli citizen and at least one militant were killed in an attack on the Egyptian border on Monday, Israeli media said.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/201261872739550706.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18483018)

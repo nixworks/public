@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/4/president-elect-donald-trump-fills-in-more-of-hi
 
 ### [2017-01-4](/news/2017/01/4/index.md)
 
+##### Presidential transition of Donald Trump
 # President-elect Donald Trump fills in more of his White House staff. 
 
 Clayton has worked with some of the biggest names on Wall Street, including Goldman Sachs and Barclays.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/29/the-israeli-navy-intercepts-and-takes-control-of-the-lone-ship-still-involved-in-freedom-flotilla-iii-and-pilots-it-to-ashdod-the-other-th.html)  [JSON](/news/2015/06/29/the-israeli-navy-intercepts-and-takes-control-of-the-lone-ship-still-involved-in-freedom-flotilla-iii-and-pilots-it-to-ashdod-the-other-th.json)  [XML](/news/2015/06/29/the-israeli-navy-intercepts-and-takes-control-of-the-lone-ship-still-involved-in-freedom-flotilla-iii-and-pilots-it-to-ashdod-the-other-th.xml)  
+
 ### [2015-06-29](/news/2015/06/29/index.md)
 
+##### Israeli Navy
 #  The Israeli Navy intercepts and takes control of the lone ship still involved in Freedom Flotilla III and pilots it to Ashdod. The other three ships involved had already turned back after being intercepted. Israel offered all ships to unload their humanitarian aid cargo in Israeli ports and transport it into Gaza for free but the ships refused. 
 
 Contact lost with Swedish-registered &#8216;Marianne&#8217; making its way to Palestinian enclave alone; Israeli Navy boats said to be nearby
 
 
-### Source:
+### Sources:
 
 1. [Israel National News](http://www.israelnationalnews.com/News/News.aspx/197406#.VZC2EF3D-M8)
 2. [Times Of Israel](http://www.timesofisrael.com/three-of-four-flotilla-vessels-turn-back-one-heads-toward-gaza/)

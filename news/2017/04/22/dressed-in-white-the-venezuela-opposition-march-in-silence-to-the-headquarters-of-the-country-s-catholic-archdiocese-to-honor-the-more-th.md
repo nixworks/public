@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/22/dressed-in-white-the-venezuela-opposition-march
 
 ### [2017-04-22](/news/2017/04/22/index.md)
 
+##### Venezuelan protests
 # Dressed in white, the Venezuela opposition march, in silence, to the headquarters of the country's Catholic archdiocese to honor the more than a dozen people killed in three weeks of protests. For the first time, protesters were able to cross from the east to the western side of Caracas without being confronted by state security. 
 
 CARACAS (AFP) - Venezuelans marched in silence on Saturday (April 22) against President Nicolas Maduro, a test of his government&#039;s tolerance for peaceful protests after three weeks of violent unrest that has left 20 people dead.. Read more at straitstimes.com.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/3/mexican-drug-war-the-mexican-army-arrests-another-member-of-los-zetas-drug-cartel-responsible-for-decapitating-49-bodies-and-dumping-them-o.html)  [JSON](/news/2012/08/3/mexican-drug-war-the-mexican-army-arrests-another-member-of-los-zetas-drug-cartel-responsible-for-decapitating-49-bodies-and-dumping-them-o.json)  [XML](/news/2012/08/3/mexican-drug-war-the-mexican-army-arrests-another-member-of-los-zetas-drug-cartel-responsible-for-decapitating-49-bodies-and-dumping-them-o.xml)  
+
 ### [2012-08-3](/news/2012/08/3/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: The Mexican Army arrests another member of Los Zetas drug cartel responsible for decapitating 49 bodies and dumping them on a roadside in May 2012; the suspect is one of the 37 fugitives of the Apodaca prison riot earlier this year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://latino.foxnews.com/latino/politics/2012/08/03/mexican-army-captures-suspect-in-slaughter-4-people/)
 

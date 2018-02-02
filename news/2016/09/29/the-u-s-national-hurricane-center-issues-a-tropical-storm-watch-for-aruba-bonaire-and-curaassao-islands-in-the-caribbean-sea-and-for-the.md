@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/29/the-u-s-national-hurricane-center-issues-a-trop
 
 ### [2016-09-29](/news/2016/09/29/index.md)
 
+##### Hurricane Matthew
 # The U.S. National Hurricane Center issues a Tropical Storm Watch for Aruba, Bonaire, and Curacao islands in the Caribbean Sea, and for the northwest South American coast. 
 
 The National Hurricane Center upgraded Matthew to a hurricane Thursday afternoon and said it is headed toward Jamaica, and then Cuba and the Bahamas.

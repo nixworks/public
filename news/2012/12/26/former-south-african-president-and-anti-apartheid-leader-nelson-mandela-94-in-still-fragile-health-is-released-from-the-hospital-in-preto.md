@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/26/former-south-african-president-and-anti-apartheid-leader-nelson-mandela-94-in-still-fragile-health-is-released-from-the-hospital-in-preto.html)  [JSON](/news/2012/12/26/former-south-african-president-and-anti-apartheid-leader-nelson-mandela-94-in-still-fragile-health-is-released-from-the-hospital-in-preto.json)  [XML](/news/2012/12/26/former-south-african-president-and-anti-apartheid-leader-nelson-mandela-94-in-still-fragile-health-is-released-from-the-hospital-in-preto.xml)  
+
 ### [2012-12-26](/news/2012/12/26/index.md)
 
+##### President
 # Former South African President and anti-apartheid leader Nelson Mandela, 94, in still-fragile health, is released from the hospital in Pretoria, South Africa to receive continuing at-home care. He had had his longest period of hospitalization (more than 2 weeks) there since his 1990 release from prison, as the result of a gallstone removal operation and a lung infection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://news.msn.com/world/update-mandela-released-from-hospital)
 

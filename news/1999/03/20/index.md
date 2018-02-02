@@ -1,7 +1,7 @@
-## [1999-03-20](/news/1999/03/20/index.md)
 
-### [ Serbs launch an offensive in Kosovo.](/news/1999/03/20/serbs-launch-an-offensive-in-kosovo.md)
-_Context: Kosovo, Serb_
+Formats: [HTML](1999/03/20/index.html)  [JSON](1999/03/20/index.json)  [XML](1999/03/20/index.xml)  
+
+## [1999-03-20](/news/1999/03/20/index.md)
 
 ## [Previous Day...](/news/1999/03/19/index.md)
 

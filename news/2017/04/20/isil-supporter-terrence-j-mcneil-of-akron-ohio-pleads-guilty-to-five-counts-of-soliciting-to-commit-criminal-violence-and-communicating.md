@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/20/isil-supporter-terrence-j-mcneil-of-akron-ohio-
 
 ### [2017-04-20](/news/2017/04/20/index.md)
 
+##### Terrorism in the United States
 # ISIL supporter, Terrence J. McNeil, of Akron, Ohio, pleads guilty to five counts of soliciting to commit criminal violence and communicating interstate threats in calls to kill U.S. military personnel. He is scheduled to be sentenced in August and faces up to 20 years in prison.
 
 Terrence McNeil of Akron faces 15 to 20 years in prison.

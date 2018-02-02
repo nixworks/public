@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/14/thirteen-people-are-killed-in-hama-syria-during-the-latest-violence-in-the-ongoing-uprising.html)  [JSON](/news/2011/12/14/thirteen-people-are-killed-in-hama-syria-during-the-latest-violence-in-the-ongoing-uprising.json)  [XML](/news/2011/12/14/thirteen-people-are-killed-in-hama-syria-during-the-latest-violence-in-the-ongoing-uprising.xml)  
+
 ### [2011-12-14](/news/2011/12/14/index.md)
 
+##### Hama
 # Thirteen people are killed in Hama, Syria, during the latest violence in the ongoing uprising. 
 
 Activists say reprisal ambush in Hama province left eight soldiers dead after government forces killed five civilians.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2011/12/2011121415429686966.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/14/2011121415242162734_20.jpg)

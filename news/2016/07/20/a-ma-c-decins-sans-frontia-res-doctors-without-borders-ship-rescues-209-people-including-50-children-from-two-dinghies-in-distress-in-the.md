@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/20/a-ma-c-decins-sans-frontia-res-doctors-without-
 
 ### [2016-07-20](/news/2016/07/20/index.md)
 
+##### European migrant crisis
 # A Medecins Sans Frontieres (Doctors Without Borders) ship rescues 209 people, including 50 children, from two dinghies in distress in the Mediterranean Sea but finds 22 dead bodies, 21 women and a child, lying in a pool of fuel in the bottom of one of the boats. The dinghies were 17 miles east of Tripoli, Libya. Cause of death is unknown, though an MSF official says it could be that fumes from mixed fuel and water rendered the people unconscious. The MSF ship is expected to arrive in the Sicilian port of Trapani on Friday.
 
 The bodies of 21 women and one man were found on a rubber dinghy adrift near the Libyan coast on Wednesday, just hours after they had set sail for Italy, humanitarian group Medecins Sans Frontieres (MSF) said.

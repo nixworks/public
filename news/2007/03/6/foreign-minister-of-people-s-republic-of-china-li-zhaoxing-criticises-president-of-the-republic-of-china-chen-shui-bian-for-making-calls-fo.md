@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/6/foreign-minister-of-people-s-republic-of-china-li-zhaoxing-criticises-president-of-the-republic-of-china-chen-shui-bian-for-making-calls-fo.html)  [JSON](/news/2007/03/6/foreign-minister-of-people-s-republic-of-china-li-zhaoxing-criticises-president-of-the-republic-of-china-chen-shui-bian-for-making-calls-fo.json)  [XML](/news/2007/03/6/foreign-minister-of-people-s-republic-of-china-li-zhaoxing-criticises-president-of-the-republic-of-china-chen-shui-bian-for-making-calls-fo.xml)  
+
 ### [2007-03-6](/news/2007/03/6/index.md)
 
+##### Foreign Minister
 #  Foreign Minister of People's Republic of China Li Zhaoxing criticises President of the Republic of China Chen Shui-bian for making calls for Taiwan independence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article1475250.ece)
 

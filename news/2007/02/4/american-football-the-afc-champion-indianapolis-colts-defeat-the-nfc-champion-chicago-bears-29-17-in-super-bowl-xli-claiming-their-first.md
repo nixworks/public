@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/4/american-football-the-afc-champion-indianapolis-colts-defeat-the-nfc-champion-chicago-bears-29-17-in-super-bowl-xli-claiming-their-first.html)  [JSON](/news/2007/02/4/american-football-the-afc-champion-indianapolis-colts-defeat-the-nfc-champion-chicago-bears-29-17-in-super-bowl-xli-claiming-their-first.json)  [XML](/news/2007/02/4/american-football-the-afc-champion-indianapolis-colts-defeat-the-nfc-champion-chicago-bears-29-17-in-super-bowl-xli-claiming-their-first.xml)  
+
 ### [2007-02-4](/news/2007/02/4/index.md)
 
+##### American football
 #  American football: The AFC champion Indianapolis Colts defeat the NFC champion Chicago Bears 29-17 in Super Bowl XLI, claiming their first Super Bowl victory since winning Super Bowl V in 1971. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/other_sports/american_football/6330397.stm)
 2. [CBS Sport](http://www.sportsline.com/nfl/gamecenter/live/NFL_20070204_IND@CHI)

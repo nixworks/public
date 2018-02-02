@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/23/the-search-intensifies-for-the-indian-air-force
 
 ### [2016-07-23](/news/2016/07/23/index.md)
 
+##### 2016 Indian Air Force An-32 disappearance
 # The search intensifies for the Indian Air Force Antonov An-32 military transport with 29 people aboard that went missing over the Bay of Bengal shortly after its Friday morning takeoff from Tambaram. 
 
 India Defense Minister Manohar Parrikar joined an armed forces operation as the search for the missing military transport plane intensified.

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/07/29/musician-wyclef-jean-announces-that-he-has-taken-formal-steps-towards-running-for-president-of-haiti-in-the-2010-general-election-but-has-no.html)  [JSON](/news/2010/07/29/musician-wyclef-jean-announces-that-he-has-taken-formal-steps-towards-running-for-president-of-haiti-in-the-2010-general-election-but-has-no.json)  [XML](/news/2010/07/29/musician-wyclef-jean-announces-that-he-has-taken-formal-steps-towards-running-for-president-of-haiti-in-the-2010-general-election-but-has-no.xml)  
+
 ### [2010-07-29](/news/2010/07/29/index.md)
 
+##### Wyclef Jean
 # Musician Wyclef Jean announces that he has taken formal steps towards running for President of Haiti in the 2010 general election but has not yet decided on a candidacy. 
 
 AU-PRINCE (Reuters) - Grammy-award winning singer Wyclef Jean said on Thursday that he has taken legal steps toward running for president in quake-devastated Haiti, but has not made a definite decision to run.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE66Q5TX20100730)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100730&t=2&i=166984475&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-07-30T000429Z_01_BTRE66T007P00_RTROPTP_0_QUAKE-HAITI)
+1. [Reuters](https://www.reuters.com/article/idUSTRE66Q5TX20100730)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20100730&t=2&i=166984475&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-07-30T000429Z_01_BTRE66T007P00_RTROPTP_0_QUAKE-HAITI)
 
 ### Related:
 

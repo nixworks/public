@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/29/protests-erupt-in-various-cities-of-venezuela-a
 
 ### [2016-04-29](/news/2016/04/29/index.md)
 
+##### 2014-16 Venezuelan protests
 # Protests erupt in various cities of Venezuela as the country faces increased food and power shortages, forcing the government to ration them, leading to widespread looting and violence. According to the opposition, who control the National Assembly, over a million people support its bid to start a referendum on ousting President Nicolas Maduro. 
 
 Looting and clashes reported in several cities as queues get longer for food items while power situation looks bleak.

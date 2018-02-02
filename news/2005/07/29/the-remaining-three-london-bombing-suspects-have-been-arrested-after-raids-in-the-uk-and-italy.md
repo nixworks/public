@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/29/the-remaining-three-london-bombing-suspects-have-been-arrested-after-raids-in-the-uk-and-italy.html)  [JSON](/news/2005/07/29/the-remaining-three-london-bombing-suspects-have-been-arrested-after-raids-in-the-uk-and-italy.json)  [XML](/news/2005/07/29/the-remaining-three-london-bombing-suspects-have-been-arrested-after-raids-in-the-uk-and-italy.xml)  
+
 ### [2005-07-29](/news/2005/07/29/index.md)
 
+##### 21 July 2005 London bombings
 #  The remaining three London bombing suspects have been arrested after raids in the UK and Italy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/4727975.stm)
 

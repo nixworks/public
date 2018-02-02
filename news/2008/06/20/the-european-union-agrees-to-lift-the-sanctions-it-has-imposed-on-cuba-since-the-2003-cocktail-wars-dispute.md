@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/20/the-european-union-agrees-to-lift-the-sanctions-it-has-imposed-on-cuba-since-the-2003-cocktail-wars-dispute.html)  [JSON](/news/2008/06/20/the-european-union-agrees-to-lift-the-sanctions-it-has-imposed-on-cuba-since-the-2003-cocktail-wars-dispute.json)  [XML](/news/2008/06/20/the-european-union-agrees-to-lift-the-sanctions-it-has-imposed-on-cuba-since-the-2003-cocktail-wars-dispute.xml)  
+
 ### [2008-06-20](/news/2008/06/20/index.md)
 
+##### European Union
 #  The European Union agrees to lift the sanctions it has imposed on Cuba since the 2003 Cocktail Wars dispute. 
 
 The EU has agreed to lift sanctions it imposed on Cuba in 2003.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7463803.stm)
 2. [RTÉ](http://www.rte.ie/news/2008/0620/cuba.html)
@@ -13,8 +17,8 @@ The EU has agreed to lift sanctions it imposed on Cuba in 2003.
 
 ### Related:
 
-1. [Cuba and the European Union sign an accord in Brussels to normalize relations, formally ending the Common Position which was adopted by the Council of the European Union in 1996. ](/news/2016/12/12/cuba-and-the-european-union-sign-an-accord-in-brussels-to-normalize-relations-formally-ending-the-common-position-which-was-adopted-by-the.md) _Context: Cuba, EU_
-2. [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md) _Context: Cuba_
-3. [Hurricane Irma makes landfall in Cuba. The death toll across the Caribbean is at least 25 people, ](/news/2017/09/9/hurricane-irma-makes-landfall-in-cuba-the-death-toll-across-the-caribbean-is-at-least-25-people.md) _Context: Cuba_
-4. [Irma has killed at least 14 people. The storm, still at Category 5 strength with maximum sustained winds of 175 mph (280 km-h), is moving west-northwest at 16 mph (26 km-h). It has reached the dual-country island of Hispaniola and is forecast to pass over the Turks and Caicos Islands as it heads towards The Bahamas and Cuba. The eye did not directly hit Puerto Rico; still casualties are reported and around two-thirds of its 3.4 million population are without electricity. ](/news/2017/09/7/irma-has-killed-at-least-14-people-the-storm-still-at-category-5-strength-with-maximum-sustained-winds-of-175-mph-280-km-h-is-moving-we.md) _Context: Cuba_
-5. [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md) _Context: EU_
+1. [Cuba and the European Union sign an accord in Brussels to normalize relations, formally ending the Common Position which was adopted by the Council of the European Union in 1996. ](/news/2016/12/12/cuba-and-the-european-union-sign-an-accord-in-brussels-to-normalize-relations-formally-ending-the-common-position-which-was-adopted-by-the.md) _Context: Cuba, European Union_
+2. [Turkish President Recep Tayyip Erdogan says he is "tired" of waiting for the European Union to approve Turkey's membership in the political union. ](/news/2018/01/5/turkish-president-recep-tayyip-erdoaan-says-he-is-tired-of-waiting-for-the-european-union-to-approve-turkey-s-membership-in-the-political.md) _Context: European Union_
+3. [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md) _Context: European Union_
+4. [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md) _Context: European Union_
+5. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: European Union_

@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2013/09/22/the-65th-primetime-emmy-awards-are-held-in-the-us-city-of-los-angeles-california-with-breaking-bad-winning-the-primetime-emmy-award-for.html)  [JSON](/news/2013/09/22/the-65th-primetime-emmy-awards-are-held-in-the-us-city-of-los-angeles-california-with-breaking-bad-winning-the-primetime-emmy-award-for.json)  [XML](/news/2013/09/22/the-65th-primetime-emmy-awards-are-held-in-the-us-city-of-los-angeles-california-with-breaking-bad-winning-the-primetime-emmy-award-for.xml)  
+
 ### [2013-09-22](/news/2013/09/22/index.md)
 
+##### 65th Primetime Emmy Awards
 # The 65th Primetime Emmy Awards are held in the US city of Los Angeles, California, with "Breaking Bad" winning the Primetime Emmy Award for Outstanding Drama Series and "Modern Family" winning the Primetime Emmy Award for Outstanding Comedy Series. 
 
 Jeff Daniels and Claire Danes win dramatic acting awards, Julia Louis-Dreyfus and Jim Parsons win for lead acting in comedy series
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://www.cbsnews.com/8301-35220_162-57604078/emmy-awards-2013-jeff-daniels-julia-louis-dreyfus-win-awards/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/09/22/64b21b7d-3598-11e3-8ce8-047d7b15b92e/181625306.jpg)
+
+### Changes:
+
+1. [The 65th Primetime Emmy Awards are held in the US city of Los Angeles, California, with ''Breaking Bad'' winning the Primetime Emmy Award for Outstanding Drama Series and ''Modern Family'' winning the Primetime Emmy Award for Outstanding Comedy Series. ](/news/2013/09/22/the-65th-primetime-emmy-awards-are-held-in-the-us-city-of-los-angeles-california-with-breaking-bad-winning-the-primetime-emmy-award-fo.md) _2017-08-25 03:39:18 (First version)_
+1. [The 65th Primetime Emmy Awards are held in the US city of Los Angeles, California, with "Breaking Bad" winning the Primetime Emmy Award for Outstanding Drama Series and "Modern Family" winning the Primetime Emmy Award for Outstanding Comedy Series. ](/news/2013/09/22/the-65th-primetime-emmy-awards-are-held-in-the-us-city-of-los-angeles-california-with-breaking-bad-winning-the-primetime-emmy-award-for.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Jeff Daniels and Claire Danes win dramatic acting awards, Julia Louis-Dreyfus an
 3. [The 89th Academy Awards are held in Los Angeles, California. ](/news/2017/02/26/the-89th-academy-awards-are-held-in-los-angeles-california.md) _Context: Los Angeles, California_
 4. [The board for the US$1 billion Lucas Museum of Narrative Art announces it will construct the museum in Los Angeles, California. ](/news/2017/01/10/the-board-for-the-us-1-billion-lucas-museum-of-narrative-art-announces-it-will-construct-the-museum-in-los-angeles-california.md) _Context: Los Angeles, California_
 5. [Ex National Football League player Darren Sharper is sentenced to 20 years in prison for drugging and raping two women in the American city of Los Angeles, California. Sharper has been accused of attacking a dozen women across the United States. ](/news/2016/11/29/ex-national-football-league-player-darren-sharper-is-sentenced-to-20-years-in-prison-for-drugging-and-raping-two-women-in-the-american-city.md) _Context: Los Angeles, California_
-
-### Changes:
-
-1. [The 65th Primetime Emmy Awards are held in the US city of Los Angeles, California, with ''Breaking Bad'' winning the Primetime Emmy Award for Outstanding Drama Series and ''Modern Family'' winning the Primetime Emmy Award for Outstanding Comedy Series. ](/news/2013/09/22/the-65th-primetime-emmy-awards-are-held-in-the-us-city-of-los-angeles-california-with-breaking-bad-winning-the-primetime-emmy-award-fo.md) _2017-08-25 03:39:18 (First version)_
-1. [The 65th Primetime Emmy Awards are held in the US city of Los Angeles, California, with "Breaking Bad" winning the Primetime Emmy Award for Outstanding Drama Series and "Modern Family" winning the Primetime Emmy Award for Outstanding Comedy Series. ](/news/2013/09/22/the-65th-primetime-emmy-awards-are-held-in-the-us-city-of-los-angeles-california-with-breaking-bad-winning-the-primetime-emmy-award-for.md) _(Current version)_

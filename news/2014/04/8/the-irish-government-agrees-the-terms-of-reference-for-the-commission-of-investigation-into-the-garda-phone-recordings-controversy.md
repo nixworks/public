@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/8/the-irish-government-agrees-the-terms-of-reference-for-the-commission-of-investigation-into-the-garda-phone-recordings-controversy.html)  [JSON](/news/2014/04/8/the-irish-government-agrees-the-terms-of-reference-for-the-commission-of-investigation-into-the-garda-phone-recordings-controversy.json)  [XML](/news/2014/04/8/the-irish-government-agrees-the-terms-of-reference-for-the-commission-of-investigation-into-the-garda-phone-recordings-controversy.xml)  
+
 ### [2014-04-8](/news/2014/04/8/index.md)
 
+##### Government of Ireland
 # The Irish government agrees the terms of reference for the Commission of Investigation into the Garda phone recordings controversy. 
 
 The Government has agreed on the terms of reference for the Commission of Investigation to be conducted by Mr Justice Nial Fennelly.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2014/0408/607407-cabinet-to-discuss-commission-of-investigation-ter/)
 1. [Cover Image](https://img.rasset.ie/0007e11e-1600.jpg)

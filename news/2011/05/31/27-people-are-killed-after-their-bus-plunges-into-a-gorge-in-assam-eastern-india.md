@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/31/27-people-are-killed-after-their-bus-plunges-into-a-gorge-in-assam-eastern-india.html)  [JSON](/news/2011/05/31/27-people-are-killed-after-their-bus-plunges-into-a-gorge-in-assam-eastern-india.json)  [XML](/news/2011/05/31/27-people-are-killed-after-their-bus-plunges-into-a-gorge-in-assam-eastern-india.xml)  
+
 ### [2011-05-31](/news/2011/05/31/index.md)
 
+##### Assam
 # 27 people are killed after their bus plunges into a gorge in Assam, eastern India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5g4_-9VRf3wmkzdnCvbJLznyFlK5w?docId=CNG.3cf1e082768131d9b373932dd736ba67.521)
 2. [Kuwait News Agency](http://www.kuna.net.kw/NewsAgenciesPublicSite/ArticleDetails.aspx?id=2170425&Language=en)

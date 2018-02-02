@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/04/10/the-government-of-france-announces-the-withdrawal-of-its-youth-employment-law-the-proposed-law-had-catalyzed-more-than-a-month-of-sometime.html)  [JSON](/news/2006/04/10/the-government-of-france-announces-the-withdrawal-of-its-youth-employment-law-the-proposed-law-had-catalyzed-more-than-a-month-of-sometime.json)  [XML](/news/2006/04/10/the-government-of-france-announces-the-withdrawal-of-its-youth-employment-law-the-proposed-law-had-catalyzed-more-than-a-month-of-sometime.xml)  
+
 ### [2006-04-10](/news/2006/04/10/index.md)
 
+##### youth employment law
 #  The government of France announces the withdrawal of its youth employment law. The proposed law had catalyzed more than a month of sometimes-violent protests on the streets of Paris and other cities. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/10/AR2006041000157.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2006/04/10/AR2006041000157.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/25/five-people-are-killed-and-one-is-seriously-wounded-after-an-attack-at-a-wedding-party-in-ghrab-hamlet-in-algeria-s-ta-c-bessa-province.html)  [JSON](/news/2010/06/25/five-people-are-killed-and-one-is-seriously-wounded-after-an-attack-at-a-wedding-party-in-ghrab-hamlet-in-algeria-s-ta-c-bessa-province.json)  [XML](/news/2010/06/25/five-people-are-killed-and-one-is-seriously-wounded-after-an-attack-at-a-wedding-party-in-ghrab-hamlet-in-algeria-s-ta-c-bessa-province.xml)  
+
 ### [2010-06-25](/news/2010/06/25/index.md)
 
+##### Ghrab
 # Five people are killed and one is seriously wounded after an attack at a wedding party in Ghrab hamlet in Algeria's Tebessa Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/Five-killed-in-attack-on-wedding-party-in-Algeria/Article1-563334.aspx)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=85&art_id=nw20100625185300165C882825)

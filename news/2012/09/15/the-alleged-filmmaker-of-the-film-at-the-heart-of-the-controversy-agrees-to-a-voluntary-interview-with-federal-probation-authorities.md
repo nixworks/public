@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/15/the-alleged-filmmaker-of-the-film-at-the-heart-of-the-controversy-agrees-to-a-voluntary-interview-with-federal-probation-authorities.html)  [JSON](/news/2012/09/15/the-alleged-filmmaker-of-the-film-at-the-heart-of-the-controversy-agrees-to-a-voluntary-interview-with-federal-probation-authorities.json)  [XML](/news/2012/09/15/the-alleged-filmmaker-of-the-film-at-the-heart-of-the-controversy-agrees-to-a-voluntary-interview-with-federal-probation-authorities.xml)  
+
 ### [2012-09-15](/news/2012/09/15/index.md)
 
+##### Innocence of Muslims
 # The alleged filmmaker of the film at the heart of the controversy agrees to a "voluntary interview" with federal probation authorities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://hosted.ap.org/dynamic/stories/U/US_EGYPT_FILMMAKER_PROBATION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2012-09-15-12-41-45)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2012/09/alleged-anti-muslim-innocence-muslims-interview.html)

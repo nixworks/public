@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/18/the-international-olympic-committee-selects-london-madrid-moscow-new-york-city-and-paris-as-finalists-to-host-the-2012-summer-olympics.html)  [JSON](/news/2004/05/18/the-international-olympic-committee-selects-london-madrid-moscow-new-york-city-and-paris-as-finalists-to-host-the-2012-summer-olympics.json)  [XML](/news/2004/05/18/the-international-olympic-committee-selects-london-madrid-moscow-new-york-city-and-paris-as-finalists-to-host-the-2012-summer-olympics.xml)  
+
 ### [2004-05-18](/news/2004/05/18/index.md)
 
+##### International Olympic Committee
 #  The International Olympic Committee selects London, Madrid, Moscow, New York City, and Paris as finalists to host the 2012 Summer Olympics. The winner will be announced on June 6, 2005. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://sfgate.com/cgi-bin/article.cgi?f=/news/archive/2004/05/18/sports0737EDT0213.DTL)
 2. [BBC](http://news.bbc.co.uk/sport2/hi/other_sports/olympics_2012/3720515.stm)

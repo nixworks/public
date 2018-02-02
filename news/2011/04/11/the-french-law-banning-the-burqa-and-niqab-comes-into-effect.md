@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/11/the-french-law-banning-the-burqa-and-niqab-comes-into-effect.html)  [JSON](/news/2011/04/11/the-french-law-banning-the-burqa-and-niqab-comes-into-effect.json)  [XML](/news/2011/04/11/the-french-law-banning-the-burqa-and-niqab-comes-into-effect.xml)  
+
 ### [2011-04-11](/news/2011/04/11/index.md)
 
+##### France
 # The French law banning the burqa and niqab comes into effect. 
 
 FRANCE has officially banned women from wearing full-face veils in public places, with a controversial new law coming into effect today.
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/breaking-news/world/french-ban-on-burqa-and-niqab-begins/story-e6frfkui-1226037166312)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-13031397)
@@ -13,8 +17,8 @@ FRANCE has officially banned women from wearing full-face veils in public places
 
 ### Related:
 
-1. [Austria agrees to ban the full-face veil (burqa and niqab) in public spaces, part of a larger deal struck by the center-left Social Democratic Party and the center-right Austrian People's Party to avoid the collapse of the ruling coalition government. ](/news/2017/01/31/austria-agrees-to-ban-the-full-face-veil-burqa-and-niqab-in-public-spaces-part-of-a-larger-deal-struck-by-the-center-left-social-democra.md) _Context: burqa, niqab_
-2. [The Parliament of Egypt drafts a law which will ban women from wearing full-face veils such as the niqab and burqa in public places and government institutions. The move comes after Cairo University recently banned nurses and doctors from wearing veils in medical schools and in teaching hospitals, arguing the ban would "protect patients' rights and interests". ](/news/2016/03/9/the-parliament-of-egypt-drafts-a-law-which-will-ban-women-from-wearing-full-face-veils-such-as-the-niqab-and-burqa-in-public-places-and-gov.md) _Context: burqa, niqab_
-3. [The new right wing coalition in the Netherlands have agreed to ban full Islamic veils, such as the Burqa and Niqab ](/news/2010/09/30/the-new-right-wing-coalition-in-the-netherlands-have-agreed-to-ban-full-islamic-veils-such-as-the-burqa-and-niqab.md) _Context: burqa, niqab_
-4. [France's lower house of parliament approves a bill that bans wearing burqa and niqab in public. ](/news/2010/07/13/france-s-lower-house-of-parliament-approves-a-bill-that-bans-wearing-burqa-and-niqab-in-public.md) _Context: burqa, niqab_
-5. [Police issue a French Muslim woman with a fine of EUR22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-a-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md) _Context: France, burqa_
+1. [Police issue a French Muslim woman with a fine of EUR22 for wearing a burqa while driving in Nantes, causing controversy and threatening her husband's status. ](/news/2010/04/23/police-issue-a-french-muslim-woman-with-a-fine-of-a-22-for-wearing-a-burqa-while-driving-in-nantes-causing-controversy-and-threatening-her.md) _Context: France, burqa_
+2. [ The French National Assembly announces the beginning of an inquiry into whether women in France should be allowed to wear the burqa. ](/news/2009/06/23/the-french-national-assembly-announces-the-beginning-of-an-inquiry-into-whether-women-in-france-should-be-allowed-to-wear-the-burqa.md) _Context: France, burqa_
+3. [ French President Nicolas Sarkozy calls for the burqa to be banned in France. ](/news/2009/06/22/french-president-nicolas-sarkozy-calls-for-the-burqa-to-be-banned-in-france.md) _Context: France, burqa_
+4. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: France_
+5. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: France_

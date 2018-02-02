@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/16/police-in-the-australian-state-of-queensland-remove-an-aboriginal-tent-embassy-in-musgrave-park-in-the-state-capital-brisbane.html)  [JSON](/news/2012/05/16/police-in-the-australian-state-of-queensland-remove-an-aboriginal-tent-embassy-in-musgrave-park-in-the-state-capital-brisbane.json)  [XML](/news/2012/05/16/police-in-the-australian-state-of-queensland-remove-an-aboriginal-tent-embassy-in-musgrave-park-in-the-state-capital-brisbane.xml)  
+
 ### [2012-05-16](/news/2012/05/16/index.md)
 
+##### Police
 # Police in the Australian state of Queensland remove an Aboriginal Tent Embassy in Musgrave Park in the state capital Brisbane. 
 
 Hundreds of police have broken up an Aboriginal tent embassy in Brisbane, escorting and sometimes dragging away about 80 protesters.
 
 
-### Source:
+### Sources:
 
 1. [ABC Online](http://www.abc.net.au/news/2012-05-16/police-drag-away-brisbane-tent-embassy-protesters/4013566/?site=indigenous&topic=latest)
 1. [Cover Image](http://www.abc.net.au/news/image/4014146-1x1-700x700.jpg)

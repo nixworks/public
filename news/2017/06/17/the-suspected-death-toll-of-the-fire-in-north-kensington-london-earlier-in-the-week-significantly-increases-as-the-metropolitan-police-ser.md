@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/17/the-suspected-death-toll-of-the-fire-in-north-k
 
 ### [2017-06-17](/news/2017/06/17/index.md)
 
+##### Grenfell Tower fire
 # The suspected death toll of the fire in North Kensington, London earlier in the week significantly increases, as the Metropolitan Police Service reports that a minimum of 58 people are missing and feared dead. 
 
 The official response to the Grenfell Tower catastrophe &ldquo;was not good enough&rdquo;, the Prime Minister admitted last night as the death toll exceeded that of Britain&rsquo;s worst fires since the war.

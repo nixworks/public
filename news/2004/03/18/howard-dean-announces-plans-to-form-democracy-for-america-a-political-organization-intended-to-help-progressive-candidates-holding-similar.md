@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/18/howard-dean-announces-plans-to-form-democracy-for-america-a-political-organization-intended-to-help-progressive-candidates-holding-similar.html)  [JSON](/news/2004/03/18/howard-dean-announces-plans-to-form-democracy-for-america-a-political-organization-intended-to-help-progressive-candidates-holding-similar.json)  [XML](/news/2004/03/18/howard-dean-announces-plans-to-form-democracy-for-america-a-political-organization-intended-to-help-progressive-candidates-holding-similar.xml)  
+
 ### [2004-03-18](/news/2004/03/18/index.md)
 
+##### Howard Dean
 #  Howard Dean announces plans to form Democracy for America, a political organization intended to help progressive candidates holding similar views. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/ALLPOLITICS/03/18/dean.advocacy.ap/index.html)
 

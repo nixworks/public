@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/23/the-united-states-senate-confirms-jerome-powell
 
 ### [2018-01-23](/news/2018/01/23/index.md)
 
+##### United States Senate
 # The United States Senate confirms Jerome Powell as chairman of the Federal Reserve Bank with 84 votes for and 13 against. 
 
 

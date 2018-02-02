@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/3/the-french-navy-frigate-nivose-captures-11-somali-pirates.html)  [JSON](/news/2009/05/3/the-french-navy-frigate-nivose-captures-11-somali-pirates.json)  [XML](/news/2009/05/3/the-french-navy-frigate-nivose-captures-11-somali-pirates.xml)  
+
 ### [2009-05-3](/news/2009/05/3/index.md)
 
+##### France
 #  The French Navy frigate "Nivse" captures 11 Somali pirates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/africa/05/03/kenya.pirates/)
 

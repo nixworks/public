@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/5/at-least-eight-people-die-in-blasts-at-two-explosives-factories-in-madhya-pradesh-india.html)  [JSON](/news/2009/07/5/at-least-eight-people-die-in-blasts-at-two-explosives-factories-in-madhya-pradesh-india.json)  [XML](/news/2009/07/5/at-least-eight-people-die-in-blasts-at-two-explosives-factories-in-madhya-pradesh-india.xml)  
+
 ### [2009-07-5](/news/2009/07/5/index.md)
 
+##### Madhya Pradesh
 #  At least eight people die in blasts at two explosives factories in Madhya Pradesh, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8135536.stm)
 

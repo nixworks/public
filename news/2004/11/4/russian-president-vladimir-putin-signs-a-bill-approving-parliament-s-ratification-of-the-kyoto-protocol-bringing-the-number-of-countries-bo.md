@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2004/11/4/russian-president-vladimir-putin-signs-a-bill-approving-parliament-s-ratification-of-the-kyoto-protocol-bringing-the-number-of-countries-bo.html)  [JSON](/news/2004/11/4/russian-president-vladimir-putin-signs-a-bill-approving-parliament-s-ratification-of-the-kyoto-protocol-bringing-the-number-of-countries-bo.json)  [XML](/news/2004/11/4/russian-president-vladimir-putin-signs-a-bill-approving-parliament-s-ratification-of-the-kyoto-protocol-bringing-the-number-of-countries-bo.xml)  
+
 ### [2004-11-4](/news/2004/11/4/index.md)
 
+##### Vladimir Putin
 #  Russian President Vladimir Putin signs a bill approving parliament's ratification of the Kyoto protocol bringing the number of countries bound by the treaty to 126. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=615771&section=news)
 
 ### Related:
 
-1. [ Russian President Vladimir Putin announces that his country will pursue ratification of the Kyoto Protocol. Ratification will make the protocol take effect and impose trade restrictions on non-participating countries, such as Australia and the United States. ](/news/2004/05/21/russian-president-vladimir-putin-announces-that-his-country-will-pursue-ratification-of-the-kyoto-protocol-ratification-will-make-the-prot.md) _Context: Kyoto Protocol, Vladimir Putin_
-2. [ Andrei Illarionov, economic advisor to President Vladimir Putin, indicates Russia will not ratify the Kyoto Protocol in its current form, a decision that would kill the accord. Some observers speculate that this is purely domestic posturing for forthcoming elections. [http:--news.bbc.co.uk-2-hi-science-nature-3256604.stm]](/news/2003/12/2/andrei-illarionov-economic-advisor-to-president-vladimir-putin-indicates-russia-will-not-ratify-the-kyoto-protocol-in-its-current-form-a.md) _Context: Kyoto Protocol, Vladimir Putin_
-3. [ Canadian Prime Minister Jean Chrtien indicates that during an informal meeting between him and Vladimir Putin, the Russian president indicated that he was tentatively in favour of signing the Kyoto Protocol. Russia's signature is absolutely necessary for the protocol to acquire the force of law.](/news/2003/10/20/canadian-prime-minister-jean-chretien-indicates-that-during-an-informal-meeting-between-him-and-vladimir-putin-the-russian-president-indic.md) _Context: Kyoto Protocol, Vladimir Putin_
-4. [Russian police arrest 290 protesters calling on President Vladimir Putin to resign. ](/news/2017/10/7/russian-police-arrest-290-protesters-calling-on-president-vladimir-putin-to-resign.md) _Context: Vladimir Putin_
-5. [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md) _Context: Vladimir Putin_
+1. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Vladimir Putin_
+2. [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md) _Context: Vladimir Putin_
+3. [President Vladimir Putin declares victory over the Islamic State terror group across both banks of the river Euphrates. ](/news/2017/12/6/president-vladimir-putin-declares-victory-over-the-islamic-state-terror-group-across-both-banks-of-the-river-euphrates.md) _Context: Vladimir Putin_
+4. [President Vladimir Putin announces his participation in the 2018 presidential election. ](/news/2017/12/6/president-vladimir-putin-announces-his-participation-in-the-2018-presidential-election.md) _Context: Vladimir Putin_
+5. [Russian President Vladimir Putin thanks U.S. President Donald Trump for sharing intelligence from the Central Intelligence Agency which they say helped prevent a terrorist attack in Saint Petersburg. ](/news/2017/12/17/russian-president-vladimir-putin-thanks-u-s-president-donald-trump-for-sharing-intelligence-from-the-central-intelligence-agency-which-they.md) _Context: Vladimir Putin_

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/22/the-german-bundestag-made-gerhard-schroder-again-chancellor-he-was-elected-with-305-votes-one-vote-out-of-the-306-red-green-coalition-mis.html)  [JSON](/news/2002/10/22/the-german-bundestag-made-gerhard-schroder-again-chancellor-he-was-elected-with-305-votes-one-vote-out-of-the-306-red-green-coalition-mis.json)  [XML](/news/2002/10/22/the-german-bundestag-made-gerhard-schroder-again-chancellor-he-was-elected-with-305-votes-one-vote-out-of-the-306-red-green-coalition-mis.xml)  
+
 ### [2002-10-22](/news/2002/10/22/index.md)
 
+##### Bundestag
 #  The German Bundestag made Gerhard Schrder again Chancellor. He was elected with 305 votes, one vote out of the 306 red-green coalition missing. After that, the new ministers of the Bundesregierung were appointed.
 
 

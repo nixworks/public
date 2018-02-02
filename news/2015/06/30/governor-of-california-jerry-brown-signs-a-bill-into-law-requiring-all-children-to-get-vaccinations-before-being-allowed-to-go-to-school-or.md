@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/30/governor-of-california-jerry-brown-signs-a-bill-into-law-requiring-all-children-to-get-vaccinations-before-being-allowed-to-go-to-school-or.html)  [JSON](/news/2015/06/30/governor-of-california-jerry-brown-signs-a-bill-into-law-requiring-all-children-to-get-vaccinations-before-being-allowed-to-go-to-school-or.json)  [XML](/news/2015/06/30/governor-of-california-jerry-brown-signs-a-bill-into-law-requiring-all-children-to-get-vaccinations-before-being-allowed-to-go-to-school-or.xml)  
+
 ### [2015-06-30](/news/2015/06/30/index.md)
 
+##### Governor of California
 # Governor of California Jerry Brown signs a bill into law requiring all children to get vaccinations before being allowed to go to school or day care. 
 
 SACRAMENTO — Gov. Jerry Brown signed legislation Tuesday that will make California one of the strictest states in requiring children to be vaccinated before attending public and private schools or day care, beginning in January. The state will stop offering personal- or religious-belief exemptions for school vaccines next year, when California joins just two other states in allowing only medical exemptions signed by a doctor. Brown signed SB277 less than 24 hours after the bill landed on his desk, prompting supporters to turn their Tuesday news conference into a victory rally instead of a meeting to urge the governor to sign the legislation. “The science is clear that vaccines dramatically protect children against a number of infectious and dangerous diseases,” Brown wrote in a signing message with the bill. Noting the “considerable debate” in the Legislature about the vaccine mandate, Brown called attention to an amendment of the new law that will allow children to receive a medical exemption from a doctor. In addition to medical exemptions for children who cannot be safely vaccinated, doctors can also consider family medical history — such as a sibling’s adverse reaction to a vaccine. Parents who choose not to vaccinate their children will have to homeschool or enroll them in an off-campus independent study program. California requires public- and private-school students to be vaccinated against 10 diseases — including measles, mumps, rubella, tetanus, chicken pox, hepatitis B and diphtheria — before entering kindergarten. Public health officials say immunization rates need to be high — at least 90 percent of the population — to prevent the spread of diseases and protect individuals who can’t receive vaccines because of age or illness. Some children were given conditional entry when a vaccine was not yet due, making the total vaccination rate 90.4 percent of the 535,332 students enrolled in kindergartens across the state. Marin County has the highest rate of personal-belief exemptions in the Bay Area, with 6.5 percent of children having entered school without all of the required vaccinations.
 
 
-### Source:
+### Sources:
 
 1. [SFgate](http://www.sfgate.com/news/article/Brown-signs-bill-requiring-childhood-vaccinations-6358317.php)
 1. [Cover Image](http://ww4.hdnux.com/photos/37/33/52/8239779/3/rawImage.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/9/a-man-calls-the-police-that-he-has-an-ak-47-in-both-santa-fe-middle-school-in-monrovia-california-and-the-citrus-medical-center-in-west-c.html)  [JSON](/news/2013/09/9/a-man-calls-the-police-that-he-has-an-ak-47-in-both-santa-fe-middle-school-in-monrovia-california-and-the-citrus-medical-center-in-west-c.json)  [XML](/news/2013/09/9/a-man-calls-the-police-that-he-has-an-ak-47-in-both-santa-fe-middle-school-in-monrovia-california-and-the-citrus-medical-center-in-west-c.xml)  
+
 ### [2013-09-9](/news/2013/09/9/index.md)
 
+##### AK-47s
 # A man calls the police that he has an AK-47 in both Santa Fe Middle School in Monrovia, California and the "Citrus Medical Center" in West Covina, California. 
 
 A Monrovia middle school was on lockdown Monday afternoon after a man called police and said he was on campus with a firearm, authorities said. A male caller phoned the Monrovia Police Department at about 2 p.m., saying he was on the campus of Santa Fe Middle School with an AK-47 assault rifle, Lt. Michael Lee said.
 
 
-### Source:
+### Sources:
 
 1. [KTLA5](http://ktla.com/2013/09/09/monrovia-middle-school-on-lockdown-swat-team-responding/#2JIKGqpRcMIdHPgf.01)
 1. [Cover Image](http://tribktla.files.wordpress.com/2013/09/santa-fe-ms.jpg?w=300)

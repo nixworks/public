@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/04/6/the-trial-of-prime-minister-of-italy-silvio-berlusconi-for-having-sex-with-an-underage-prostitute-begins.html)  [JSON](/news/2011/04/6/the-trial-of-prime-minister-of-italy-silvio-berlusconi-for-having-sex-with-an-underage-prostitute-begins.json)  [XML](/news/2011/04/6/the-trial-of-prime-minister-of-italy-silvio-berlusconi-for-having-sex-with-an-underage-prostitute-begins.xml)  
+
 ### [2011-04-6](/news/2011/04/6/index.md)
 
+##### found guilty
 # The trial of Prime Minister of Italy Silvio Berlusconi for having sex with an underage prostitute begins. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/04/06/us-italy-berlusconi-idUSTRE73453Y20110406?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/2011/04/06/us-italy-berlusconi-idUSTRE73453Y20110406?feedType=RSS&feedName=topNews)
 1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110406&t=2&i=380291350&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-04-06T132340Z_01_BTRE735117J00_RTROPTP_0_ITALY-BERLUSCONI)
 
 ### Related:

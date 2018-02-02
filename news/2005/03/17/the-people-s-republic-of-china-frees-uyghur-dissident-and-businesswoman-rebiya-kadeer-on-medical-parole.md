@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/17/the-people-s-republic-of-china-frees-uyghur-dissident-and-businesswoman-rebiya-kadeer-on-medical-parole.html)  [JSON](/news/2005/03/17/the-people-s-republic-of-china-frees-uyghur-dissident-and-businesswoman-rebiya-kadeer-on-medical-parole.json)  [XML](/news/2005/03/17/the-people-s-republic-of-china-frees-uyghur-dissident-and-businesswoman-rebiya-kadeer-on-medical-parole.xml)  
+
 ### [2005-03-17](/news/2005/03/17/index.md)
 
+##### China
 #  The People's Republic of China frees Uyghur dissident and businesswoman Rebiya Kadeer on medical parole. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4357637.stm)
 

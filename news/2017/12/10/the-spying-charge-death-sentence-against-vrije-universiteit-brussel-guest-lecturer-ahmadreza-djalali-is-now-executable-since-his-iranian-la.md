@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/10/the-spying-charge-death-sentence-against-vrije-
 
 ### [2017-12-10](/news/2017/12/10/index.md)
 
+##### Capital punishment in Iran
 # The spying charge death sentence against Vrije Universiteit Brussel guest-lecturer Ahmadreza Djalali is now executable, since his Iranian lawyer did not appeal the verdict and sentence within the required three-week limit. 
 
 

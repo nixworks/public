@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/6/milan-babia-former-leader-of-the-breakaway-republic-of-serbian-krajina-commits-suicide-in-prison-while-serving-a-sentence-for-war-crimes.html)  [JSON](/news/2006/03/6/milan-babia-former-leader-of-the-breakaway-republic-of-serbian-krajina-commits-suicide-in-prison-while-serving-a-sentence-for-war-crimes.json)  [XML](/news/2006/03/6/milan-babia-former-leader-of-the-breakaway-republic-of-serbian-krajina-commits-suicide-in-prison-while-serving-a-sentence-for-war-crimes.xml)  
+
 ### [2006-03-6](/news/2006/03/6/index.md)
 
+##### Milan Babic
 #  Milan Babic, former leader of the breakaway Republic of Serbian Krajina, commits suicide in prison while serving a sentence for war crimes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4778498.stm)
 

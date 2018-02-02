@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/4/fidel-castro-makes-his-first-public-appearance-in-several-months-to-vote-in-cuba-s-parliamentary-elections-he-spends-an-hour-talking-to-vot.html)  [JSON](/news/2013/02/4/fidel-castro-makes-his-first-public-appearance-in-several-months-to-vote-in-cuba-s-parliamentary-elections-he-spends-an-hour-talking-to-vot.json)  [XML](/news/2013/02/4/fidel-castro-makes-his-first-public-appearance-in-several-months-to-vote-in-cuba-s-parliamentary-elections-he-spends-an-hour-talking-to-vot.xml)  
+
 ### [2013-02-4](/news/2013/02/4/index.md)
 
+##### Fidel Castro
 # Fidel Castro makes his first public appearance in several months to vote in Cuba's parliamentary elections; he spends an hour talking to voters and the media and a crowd gathers around his car to cheer him. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-21318208)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65680000/jpg/_65680337_017121694.jpg)

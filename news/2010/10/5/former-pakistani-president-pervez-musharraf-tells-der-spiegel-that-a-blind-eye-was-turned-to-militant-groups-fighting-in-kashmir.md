@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/5/former-pakistani-president-pervez-musharraf-tells-der-spiegel-that-a-blind-eye-was-turned-to-militant-groups-fighting-in-kashmir.html)  [JSON](/news/2010/10/5/former-pakistani-president-pervez-musharraf-tells-der-spiegel-that-a-blind-eye-was-turned-to-militant-groups-fighting-in-kashmir.json)  [XML](/news/2010/10/5/former-pakistani-president-pervez-musharraf-tells-der-spiegel-that-a-blind-eye-was-turned-to-militant-groups-fighting-in-kashmir.xml)  
+
 ### [2010-10-5](/news/2010/10/5/index.md)
 
+##### Pakistan
 # Former Pakistani President Pervez Musharraf tells "Der Spiegel" that a blind eye was turned to militant groups fighting in Kashmir. 
 
 Former Pakistani military ruler Pervez Musharraf says that his forces trained militant groups to fight in Indian-administered Kashmir.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11474618)
 2. [Der Spiegel](http://www.spiegel.de/international/world/0,1518,721110,00.html)

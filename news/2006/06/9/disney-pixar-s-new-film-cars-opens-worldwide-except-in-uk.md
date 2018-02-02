@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/06/9/disney-pixar-s-new-film-cars-opens-worldwide-except-in-uk.html)  [JSON](/news/2006/06/9/disney-pixar-s-new-film-cars-opens-worldwide-except-in-uk.json)  [XML](/news/2006/06/9/disney-pixar-s-new-film-cars-opens-worldwide-except-in-uk.xml)  
+
 ### [2006-06-9](/news/2006/06/9/index.md)
 
+##### Disney
 #  Disney-Pixar's new film "Cars" opens worldwide (except in UK)
 
 

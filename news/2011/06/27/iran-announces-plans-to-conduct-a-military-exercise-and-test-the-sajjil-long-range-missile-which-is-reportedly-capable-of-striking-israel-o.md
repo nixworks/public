@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/27/iran-announces-plans-to-conduct-a-military-exercise-and-test-the-sajjil-long-range-missile-which-is-reportedly-capable-of-striking-israel-o.html)  [JSON](/news/2011/06/27/iran-announces-plans-to-conduct-a-military-exercise-and-test-the-sajjil-long-range-missile-which-is-reportedly-capable-of-striking-israel-o.json)  [XML](/news/2011/06/27/iran-announces-plans-to-conduct-a-military-exercise-and-test-the-sajjil-long-range-missile-which-is-reportedly-capable-of-striking-israel-o.xml)  
+
 ### [2011-06-27](/news/2011/06/27/index.md)
 
+##### Iran
 # Iran announces plans to conduct a military exercise and test the Sajjil long-range missile, which is reportedly capable of striking Israel or southeastern Europe. 
 
 Revolutionary Guard to test arsenal, including Sajjil missile, with range of 2,000 km, which would allow it to strike targets as far away as Israel.
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/IranianThreat/News/Article.aspx?ID=226711&R=R1)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=165645)

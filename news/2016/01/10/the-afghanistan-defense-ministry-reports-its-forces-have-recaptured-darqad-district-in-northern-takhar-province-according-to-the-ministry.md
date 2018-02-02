@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/10/the-afghanistan-defense-ministry-reports-its-fo
 
 ### [2016-01-10](/news/2016/01/10/index.md)
 
+##### War in Afghanistan (2015-present)
 # The Afghanistan defense ministry reports its forces have recaptured Darqad District in northern Takhar Province. According to the ministry, twenty Taliban militants and one Afghan soldier were killed in two days of fighting. 
 
 Afghan security forces have retaken a district in the north of the country, killing 30 Taliban fighters and capturing vehicles and weapons from the insurgents, the defense ministry said on Sunday.

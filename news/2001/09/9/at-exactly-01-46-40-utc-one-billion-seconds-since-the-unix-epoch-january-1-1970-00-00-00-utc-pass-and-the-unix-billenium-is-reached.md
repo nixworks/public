@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/09/9/at-exactly-01-46-40-utc-one-billion-seconds-since-the-unix-epoch-january-1-1970-00-00-00-utc-pass-and-the-unix-billenium-is-reached.html)  [JSON](/news/2001/09/9/at-exactly-01-46-40-utc-one-billion-seconds-since-the-unix-epoch-january-1-1970-00-00-00-utc-pass-and-the-unix-billenium-is-reached.json)  [XML](/news/2001/09/9/at-exactly-01-46-40-utc-one-billion-seconds-since-the-unix-epoch-january-1-1970-00-00-00-utc-pass-and-the-unix-billenium-is-reached.xml)  
+
 ### [2001-09-9](/news/2001/09/9/index.md)
 
+##### UTC
 #  At exactly 01:46:40 UTC, one billion seconds since the Unix epoch (January 1, 1970 00:00:00 UTC) pass and the Unix billenium is reached.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/19/sudanese-civil-war-at-a-special-session-of-the-united-nations-security-council-in-nairobi-kenya-the-government-of-sudan-and-southern-reb.html)  [JSON](/news/2004/11/19/sudanese-civil-war-at-a-special-session-of-the-united-nations-security-council-in-nairobi-kenya-the-government-of-sudan-and-southern-reb.json)  [XML](/news/2004/11/19/sudanese-civil-war-at-a-special-session-of-the-united-nations-security-council-in-nairobi-kenya-the-government-of-sudan-and-southern-reb.xml)  
+
 ### [2004-11-19](/news/2004/11/19/index.md)
 
+##### civil war
 #  Sudanese Civil War: At a special session of the United Nations Security Council in Nairobi, Kenya, the government of Sudan and southern rebels sign an agreement which states that both sides will commit themselves to ending the 21-year conflict by December 31. The Council then unanimously passes a resolution which promises substantial aid to the country after the wars in the south and in the region of Darfur come to an end. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6870630)
 

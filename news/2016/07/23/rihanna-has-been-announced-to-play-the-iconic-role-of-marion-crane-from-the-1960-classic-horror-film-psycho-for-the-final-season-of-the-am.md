@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/23/rihanna-has-been-announced-to-play-the-iconic-r
 
 ### [2016-07-23](/news/2016/07/23/index.md)
 
+##### Rihanna
 # Rihanna has been announced to play the iconic role of Marion Crane from the 1960 classic horror film "Psycho" for the final season of the American television series "Bates Motel". 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/9/former-south-african-president-and-anti-apartheid-leader-nelson-mandela-aged-94-is-hospitalized-officials-say-it-is-only-for-a-routine-ch.html)  [JSON](/news/2013/03/9/former-south-african-president-and-anti-apartheid-leader-nelson-mandela-aged-94-is-hospitalized-officials-say-it-is-only-for-a-routine-ch.json)  [XML](/news/2013/03/9/former-south-african-president-and-anti-apartheid-leader-nelson-mandela-aged-94-is-hospitalized-officials-say-it-is-only-for-a-routine-ch.xml)  
+
 ### [2013-03-9](/news/2013/03/9/index.md)
 
+##### South Africa
 # Former South African President and anti-apartheid leader Nelson Mandela, aged 94, is hospitalized; officials say it is only for a routine checkup. 
 
 Former South African President Nelson Mandela, 94, is back home in Johannesburg after spending the night in hospital following a check-up, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21728050)
 2. [NBC](http://www.nbcnews.com/id/51115059)

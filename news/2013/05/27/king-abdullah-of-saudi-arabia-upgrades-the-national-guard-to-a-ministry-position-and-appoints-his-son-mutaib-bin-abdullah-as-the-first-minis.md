@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/27/king-abdullah-of-saudi-arabia-upgrades-the-national-guard-to-a-ministry-position-and-appoints-his-son-mutaib-bin-abdullah-as-the-first-minis.html)  [JSON](/news/2013/05/27/king-abdullah-of-saudi-arabia-upgrades-the-national-guard-to-a-ministry-position-and-appoints-his-son-mutaib-bin-abdullah-as-the-first-minis.json)  [XML](/news/2013/05/27/king-abdullah-of-saudi-arabia-upgrades-the-national-guard-to-a-ministry-position-and-appoints-his-son-mutaib-bin-abdullah-as-the-first-minis.xml)  
+
 ### [2013-05-27](/news/2013/05/27/index.md)
 
+##### Abdullah
 # King Abdullah of Saudi Arabia upgrades the National Guard to a ministry position and appoints his son Mutaib bin Abdullah as the first minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Nation](http://www.nation.com.pk/pakistan-news-newspaper-daily-english-online/international/28-May-2013/saudi-arabia-forms-national-guard-ministry)
 

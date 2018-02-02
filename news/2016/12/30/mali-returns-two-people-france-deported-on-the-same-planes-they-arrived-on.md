@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/30/mali-returns-two-people-france-deported-on-the-
 
 ### [2016-12-30](/news/2016/12/30/index.md)
 
+##### Mali
 # Mali returns two people France deported on the same planes they arrived on. 
 
 Mali sends back two people deported from France on the same planes they came on.

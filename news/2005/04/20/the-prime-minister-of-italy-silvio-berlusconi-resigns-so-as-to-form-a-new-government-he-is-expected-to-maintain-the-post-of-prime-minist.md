@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/20/the-prime-minister-of-italy-silvio-berlusconi-resigns-so-as-to-form-a-new-government-he-is-expected-to-maintain-the-post-of-prime-minist.html)  [JSON](/news/2005/04/20/the-prime-minister-of-italy-silvio-berlusconi-resigns-so-as-to-form-a-new-government-he-is-expected-to-maintain-the-post-of-prime-minist.json)  [XML](/news/2005/04/20/the-prime-minister-of-italy-silvio-berlusconi-resigns-so-as-to-form-a-new-government-he-is-expected-to-maintain-the-post-of-prime-minist.xml)  
+
 ### [2005-04-20](/news/2005/04/20/index.md)
 
+##### Italian Prime Minister
 #  The Prime Minister of Italy, Silvio Berlusconi, resigns so as to form a new government. He is expected to maintain the post of Prime Minister in this new government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4464865.stm)
 

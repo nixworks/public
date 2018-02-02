@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/5/the-nigerian-people-s-democratic-party-wins-the-governorship-in-adamawa-state.html)  [JSON](/news/2012/02/5/the-nigerian-people-s-democratic-party-wins-the-governorship-in-adamawa-state.json)  [XML](/news/2012/02/5/the-nigerian-people-s-democratic-party-wins-the-governorship-in-adamawa-state.xml)  
+
 ### [2012-02-5](/news/2012/02/5/index.md)
 
+##### Nigeria
 # The Nigerian People's Democratic Party wins the governorship in Adamawa State. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2012/02/05/uk-nigeria-election-adamawa-idUKTRE8140F420120205)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

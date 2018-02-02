@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/17/zara-phillips-granddaughter-of-queen-elizabeth-ii-gives-birth-to-a-daughter.html)  [JSON](/news/2014/01/17/zara-phillips-granddaughter-of-queen-elizabeth-ii-gives-birth-to-a-daughter.json)  [XML](/news/2014/01/17/zara-phillips-granddaughter-of-queen-elizabeth-ii-gives-birth-to-a-daughter.xml)  
+
 ### [2014-01-17](/news/2014/01/17/index.md)
 
+##### Zara Phillips
 # Zara Phillips, granddaughter of Queen Elizabeth II gives birth to a daughter. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-25778334)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68606000/jpg/_68606238_zara1_pa.jpg)

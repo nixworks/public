@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/30/several-sudanese-political-parties-boycott-a-conference-on-the-future-of-south-sudan.html)  [JSON](/news/2009/09/30/several-sudanese-political-parties-boycott-a-conference-on-the-future-of-south-sudan.json)  [XML](/news/2009/09/30/several-sudanese-political-parties-boycott-a-conference-on-the-future-of-south-sudan.xml)  
+
 ### [2009-09-30](/news/2009/09/30/index.md)
 
+##### Sudan
 #  Several Sudanese political parties boycott a conference on the future of South Sudan. 
 
 Six parties withdraw from Juba conference discussing the future of south Sudan.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/09/200992992348587440.html)
 1. [Cover Image](http://www.aljazeera.com)

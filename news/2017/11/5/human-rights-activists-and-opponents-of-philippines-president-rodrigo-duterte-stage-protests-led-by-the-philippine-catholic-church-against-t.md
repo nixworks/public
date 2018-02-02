@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/5/human-rights-activists-and-opponents-of-philippi
 
 ### [2017-11-5](/news/2017/11/5/index.md)
 
+##### Protests against Rodrigo Duterte
 # Human rights activists and opponents of Philippines president Rodrigo Duterte stage protests led by the Philippine Catholic Church against the ongoing drug crackdown that has killed thousands of people. 
 
 

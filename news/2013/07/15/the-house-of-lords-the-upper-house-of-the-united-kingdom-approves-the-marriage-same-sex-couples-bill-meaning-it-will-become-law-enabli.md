@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/15/the-house-of-lords-the-upper-house-of-the-united-kingdom-approves-the-marriage-same-sex-couples-bill-meaning-it-will-become-law-enabli.html)  [JSON](/news/2013/07/15/the-house-of-lords-the-upper-house-of-the-united-kingdom-approves-the-marriage-same-sex-couples-bill-meaning-it-will-become-law-enabli.json)  [XML](/news/2013/07/15/the-house-of-lords-the-upper-house-of-the-united-kingdom-approves-the-marriage-same-sex-couples-bill-meaning-it-will-become-law-enabli.xml)  
+
 ### [2013-07-15](/news/2013/07/15/index.md)
 
+##### House of Lords
 # The House of Lords, the upper house of the United Kingdom, approves the Marriage (Same Sex Couples) Bill, meaning it will become law, enabling gay marriage in England and Wales to take place from 2014. 
 
 Same-sex marriage in England and Wales is a step closer to becoming law after the House of Lords approved the change.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-23320624)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67702000/jpg/_67702082_gaymarriagepic.jpg)

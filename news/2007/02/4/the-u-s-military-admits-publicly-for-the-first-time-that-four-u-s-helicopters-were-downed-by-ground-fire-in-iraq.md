@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/4/the-u-s-military-admits-publicly-for-the-first-time-that-four-u-s-helicopters-were-downed-by-ground-fire-in-iraq.html)  [JSON](/news/2007/02/4/the-u-s-military-admits-publicly-for-the-first-time-that-four-u-s-helicopters-were-downed-by-ground-fire-in-iraq.json)  [XML](/news/2007/02/4/the-u-s-military-admits-publicly-for-the-first-time-that-four-u-s-helicopters-were-downed-by-ground-fire-in-iraq.xml)  
+
 ### [2007-02-4](/news/2007/02/4/index.md)
 
+##### Military of the United States
 #  The U.S. military admits publicly for the first time that four U.S. helicopters were downed by ground fire in Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6329353.stm)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/06/27/police-in-bolivia-end-their-violent-rebellion-after-a-pay-deal-is-reached.html)  [JSON](/news/2012/06/27/police-in-bolivia-end-their-violent-rebellion-after-a-pay-deal-is-reached.json)  [XML](/news/2012/06/27/police-in-bolivia-end-their-violent-rebellion-after-a-pay-deal-is-reached.xml)  
+
 ### [2012-06-27](/news/2012/06/27/index.md)
 
+##### Police
 # Police in Bolivia end their violent rebellion after a pay deal is reached 
 
 
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/id/47977628)
+1. [CNBC](https://www.cnbc.com/id/47977628)
 
 ### Related:
 

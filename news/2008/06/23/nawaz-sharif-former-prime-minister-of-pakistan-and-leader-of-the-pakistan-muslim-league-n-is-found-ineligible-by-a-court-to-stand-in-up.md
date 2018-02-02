@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/23/nawaz-sharif-former-prime-minister-of-pakistan-and-leader-of-the-pakistan-muslim-league-n-is-found-ineligible-by-a-court-to-stand-in-up.html)  [JSON](/news/2008/06/23/nawaz-sharif-former-prime-minister-of-pakistan-and-leader-of-the-pakistan-muslim-league-n-is-found-ineligible-by-a-court-to-stand-in-up.json)  [XML](/news/2008/06/23/nawaz-sharif-former-prime-minister-of-pakistan-and-leader-of-the-pakistan-muslim-league-n-is-found-ineligible-by-a-court-to-stand-in-up.xml)  
+
 ### [2008-06-23](/news/2008/06/23/index.md)
 
+##### Nawaz Sharif
 #  Nawaz Sharif, former Prime Minister of Pakistan and leader of the Pakistan Muslim League (N), is found ineligible by a court to stand in upcoming by-elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7469755.stm)
 

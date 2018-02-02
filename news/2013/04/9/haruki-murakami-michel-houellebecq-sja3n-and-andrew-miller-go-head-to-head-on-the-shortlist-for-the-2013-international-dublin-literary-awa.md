@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/9/haruki-murakami-michel-houellebecq-sja3n-and-andrew-miller-go-head-to-head-on-the-shortlist-for-the-2013-international-dublin-literary-awa.html)  [JSON](/news/2013/04/9/haruki-murakami-michel-houellebecq-sja3n-and-andrew-miller-go-head-to-head-on-the-shortlist-for-the-2013-international-dublin-literary-awa.json)  [XML](/news/2013/04/9/haruki-murakami-michel-houellebecq-sja3n-and-andrew-miller-go-head-to-head-on-the-shortlist-for-the-2013-international-dublin-literary-awa.xml)  
+
 ### [2013-04-9](/news/2013/04/9/index.md)
 
+##### Haruki Murakami
 # Haruki Murakami, Michel Houellebecq, Sjon and Andrew Miller go head-to-head on the shortlist for the 2013 International Dublin Literary Award. 
 
 A shortlist of ten authors including Haruki Murakami and past winners Michel Houellebecq and Andrew Mille are up for the lucrative Impac Dublin Literary Award.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-22081548)
 2. [The Guardian](http://www.guardian.co.uk/books/2013/apr/09/murakami-houllebecq-2013-impac-award-shortlist)

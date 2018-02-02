@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/11/6/at-least-34-people-are-killed-and-29-are-injured-when-a-bus-falls-into-a-gorge-in-himachal-pradesh.html)  [JSON](/news/2009/11/6/at-least-34-people-are-killed-and-29-are-injured-when-a-bus-falls-into-a-gorge-in-himachal-pradesh.json)  [XML](/news/2009/11/6/at-least-34-people-are-killed-and-29-are-injured-when-a-bus-falls-into-a-gorge-in-himachal-pradesh.xml)  
+
 ### [2009-11-6](/news/2009/11/6/index.md)
 
+##### Himachal Pradesh
 #  At least 34 people are killed and 29 are injured when a bus falls into a gorge in Himachal Pradesh. 
 
 Thirty-four people, including six children and 12 women, were killed and another 29 injured when a bus rolled down over 100 ft from a bridge in Kangra district on Friday morning.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8346100.stm)
 2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/06/india.bus.plunge/)
 3. [RIA Novosti](http://en.rian.ru/world/20091106/156731165.html)
-4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSDEL301588)
+4. [Reuters](https://www.reuters.com/article/latestCrisis/idUSDEL301588)
 5. [The Times of India](http://timesofindia.indiatimes.com/india/34-killed-as-bus-falls-into-gorge-in-Himachal/articleshow/5204496.cms)
 5. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/4/sixty-are-ill-with-fifteen-others-requiring-treatment-for-smoke-inhalation-when-a-bart-train-makes-an-emergency-stop-in-the-berkeley-hills-t.html)  [JSON](/news/2013/12/4/sixty-are-ill-with-fifteen-others-requiring-treatment-for-smoke-inhalation-when-a-bart-train-makes-an-emergency-stop-in-the-berkeley-hills-t.json)  [XML](/news/2013/12/4/sixty-are-ill-with-fifteen-others-requiring-treatment-for-smoke-inhalation-when-a-bart-train-makes-an-emergency-stop-in-the-berkeley-hills-t.xml)  
+
 ### [2013-12-4](/news/2013/12/4/index.md)
 
+##### BART
 # Sixty are ill with fifteen others requiring treatment for smoke inhalation when a BART train makes an emergency stop in the Berkeley Hills Tunnel near the Rockridge station due to mechanical problems. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KRON](http://news.kron4.com/news/breaking-news-bart-train-stopped-in-caldecott-tunnel/)
 

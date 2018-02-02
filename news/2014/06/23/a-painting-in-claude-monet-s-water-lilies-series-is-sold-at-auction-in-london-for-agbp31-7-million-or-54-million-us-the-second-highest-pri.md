@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2014/06/23/a-painting-in-claude-monet-s-water-lilies-series-is-sold-at-auction-in-london-for-agbp31-7-million-or-54-million-us-the-second-highest-pri.html)  [JSON](/news/2014/06/23/a-painting-in-claude-monet-s-water-lilies-series-is-sold-at-auction-in-london-for-agbp31-7-million-or-54-million-us-the-second-highest-pri.json)  [XML](/news/2014/06/23/a-painting-in-claude-monet-s-water-lilies-series-is-sold-at-auction-in-london-for-agbp31-7-million-or-54-million-us-the-second-highest-pri.xml)  
+
 ### [2014-06-23](/news/2014/06/23/index.md)
 
+##### Monet
 # A painting in Claude Monet's Water Lilies series is sold at auction in London for GBP31.7 million or $54 million US, the second highest price for a Monet on record. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Bangkok Post](http://www.bangkokpost.com/news/world/417025/water-lilies-painting-sells-for-54m)
+
+### Changes:
+
+1. [A painting in Claude Monet's Water Lilies series is sold at auction in London for PS31.7 million or $54 million US, the second highest price for a Monet on record. ](/news/2014/06/23/a-painting-in-claude-monet-s-water-lilies-series-is-sold-at-auction-in-london-for-aps31-7-million-or-54-million-us-the-second-highest-price.md) _2017-08-25 03:40:35 (First version)_
+1. [A painting in Claude Monet's Water Lilies series is sold at auction in London for GBP31.7 million or $54 million US, the second highest price for a Monet on record. ](/news/2014/06/23/a-painting-in-claude-monet-s-water-lilies-series-is-sold-at-auction-in-london-for-agbp31-7-million-or-54-million-us-the-second-highest-pri.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Romanian investigators find the remains of paint, canvas and nails in the oven of a woman whose son is charged with stealing seven paintings by Picasso, Monet and Matisse from the Kunsthal gallery in October 2012. ](/news/2013/07/18/romanian-investigators-find-the-remains-of-paint-canvas-and-nails-in-the-oven-of-a-woman-whose-son-is-charged-with-stealing-seven-paintings.md) _Context: Monet_
 4. [ The Wallraf-Richartz Museum in Cologne has announced that its painting "The Seine at Port Villez", thought to be by Claude Monet, is a forgery. ](/news/2008/02/14/the-wallraf-richartz-museum-in-cologne-has-announced-that-its-painting-the-seine-at-port-villez-thought-to-be-by-claude-monet-is-a-forg.md) _Context: Monet_
 5. [ Paintings by Paul Czanne, Edgar Degas, Vincent van Gogh, and Claude Monet are stolen from the Foundation E.G. Bhrle, a museum in Zrich. ](/news/2008/02/11/paintings-by-paul-cezanne-edgar-degas-vincent-van-gogh-and-claude-monet-are-stolen-from-the-foundation-e-g-buhrle-a-museum-in-zurich.md) _Context: Monet_
-
-### Changes:
-
-1. [A painting in Claude Monet's Water Lilies series is sold at auction in London for PS31.7 million or $54 million US, the second highest price for a Monet on record. ](/news/2014/06/23/a-painting-in-claude-monet-s-water-lilies-series-is-sold-at-auction-in-london-for-aps31-7-million-or-54-million-us-the-second-highest-price.md) _2017-08-25 03:40:35 (First version)_
-1. [A painting in Claude Monet's Water Lilies series is sold at auction in London for GBP31.7 million or $54 million US, the second highest price for a Monet on record. ](/news/2014/06/23/a-painting-in-claude-monet-s-water-lilies-series-is-sold-at-auction-in-london-for-agbp31-7-million-or-54-million-us-the-second-highest-pri.md) _(Current version)_

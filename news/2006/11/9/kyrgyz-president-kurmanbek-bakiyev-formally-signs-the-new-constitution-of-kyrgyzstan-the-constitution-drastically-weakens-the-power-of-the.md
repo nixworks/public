@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/9/kyrgyz-president-kurmanbek-bakiyev-formally-signs-the-new-constitution-of-kyrgyzstan-the-constitution-drastically-weakens-the-power-of-the.html)  [JSON](/news/2006/11/9/kyrgyz-president-kurmanbek-bakiyev-formally-signs-the-new-constitution-of-kyrgyzstan-the-constitution-drastically-weakens-the-power-of-the.json)  [XML](/news/2006/11/9/kyrgyz-president-kurmanbek-bakiyev-formally-signs-the-new-constitution-of-kyrgyzstan-the-constitution-drastically-weakens-the-power-of-the.xml)  
+
 ### [2006-11-9](/news/2006/11/9/index.md)
 
+##### Kyrgyz President
 #  Kyrgyz President Kurmanbek Bakiyev formally signs the new Constitution of Kyrgyzstan. The Constitution drastically weakens the power of the executive branch in favor of the legislative. Bakiyev and Prime Minister Felix Kulov are expected to maintain their positions until 2010. 
 
 The new constitution marks a political defeat for Bakiyev, who had been wrestling for power with his parliamentary foes for most of 2006.[For background see the Eurasia Insight archive]. Presidential 
 
 
-### Source:
+### Sources:
 
 1. [EurasiaNet](http://www.eurasianet.org/departments/insight/articles/eav110906.shtml)
 

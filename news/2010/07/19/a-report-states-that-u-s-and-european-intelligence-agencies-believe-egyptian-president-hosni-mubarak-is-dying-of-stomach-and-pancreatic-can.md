@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/19/a-report-states-that-u-s-and-european-intelligence-agencies-believe-egyptian-president-hosni-mubarak-is-dying-of-stomach-and-pancreatic-can.html)  [JSON](/news/2010/07/19/a-report-states-that-u-s-and-european-intelligence-agencies-believe-egyptian-president-hosni-mubarak-is-dying-of-stomach-and-pancreatic-can.json)  [XML](/news/2010/07/19/a-report-states-that-u-s-and-european-intelligence-agencies-believe-egyptian-president-hosni-mubarak-is-dying-of-stomach-and-pancreatic-can.xml)  
+
 ### [2010-07-19](/news/2010/07/19/index.md)
 
+##### Egypt
 # A report states that U.S. and European intelligence agencies believe Egyptian President Hosni Mubarak is dying of stomach and pancreatic cancer, and has one year left to live. The report states that Mubarak will likely die before the country's next presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/international/report-western-officials-believe-mubarak-is-terminally-ill-1.302787)
 

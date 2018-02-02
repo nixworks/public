@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/29/an-explosion-in-a-firecracker-warehouse-kills-16-people-in-henan-on-chinese-new-year.html)  [JSON](/news/2006/01/29/an-explosion-in-a-firecracker-warehouse-kills-16-people-in-henan-on-chinese-new-year.json)  [XML](/news/2006/01/29/an-explosion-in-a-firecracker-warehouse-kills-16-people-in-henan-on-chinese-new-year.xml)  
+
 ### [2006-01-29](/news/2006/01/29/index.md)
 
+##### firecracker
 #  An explosion in a firecracker warehouse kills 16 people in Henan on Chinese New Year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-01-29T154347Z_01_PEK251428_RTRUKOC_0_UK-CHINA-NEWYEAR.xml&archived=False)
 

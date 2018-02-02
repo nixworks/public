@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/2/fifteen-young-children-die-of-severe-sepsis-toxi
 
 ### [2017-06-2](/news/2017/06/2/index.md)
 
+##### Health in South Sudan
 # Fifteen young children die of "severe sepsis-toxicity" from contaminated vaccine during South Sudan's measles vaccination campaign. In one instance, a syringe containing vaccine stored without refrigeration was used for all the children over four days. 
 
 Contaminated measles vaccine killed 15 children in South Sudan, U.N. and WHO officials say

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/09/3/the-japan-meteorological-agency-announces-category-5-typhoon-nabi-is-set-to-hit-okinawa-and-the-ryukyu-islands-and-possibly-kya-sha-on-mon.html)  [JSON](/news/2005/09/3/the-japan-meteorological-agency-announces-category-5-typhoon-nabi-is-set-to-hit-okinawa-and-the-ryukyu-islands-and-possibly-kya-sha-on-mon.json)  [XML](/news/2005/09/3/the-japan-meteorological-agency-announces-category-5-typhoon-nabi-is-set-to-hit-okinawa-and-the-ryukyu-islands-and-possibly-kya-sha-on-mon.xml)  
+
 ### [2005-09-3](/news/2005/09/3/index.md)
 
+##### Japan Meteorological Agency
 #  The Japan Meteorological Agency announces Category 5 Typhoon Nabi is set to hit Okinawa and the Ryukyu Islands and possibly Kyushu on Monday. [http:--www.abc.net.au-news-newsitems-200509-s1452378.htm (ABC)]"'
 
 

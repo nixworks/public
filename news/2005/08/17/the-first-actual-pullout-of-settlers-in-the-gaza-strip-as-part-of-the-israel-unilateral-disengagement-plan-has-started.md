@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/17/the-first-actual-pullout-of-settlers-in-the-gaza-strip-as-part-of-the-israel-unilateral-disengagement-plan-has-started.html)  [JSON](/news/2005/08/17/the-first-actual-pullout-of-settlers-in-the-gaza-strip-as-part-of-the-israel-unilateral-disengagement-plan-has-started.json)  [XML](/news/2005/08/17/the-first-actual-pullout-of-settlers-in-the-gaza-strip-as-part-of-the-israel-unilateral-disengagement-plan-has-started.xml)  
+
 ### [2005-08-17](/news/2005/08/17/index.md)
 
+##### Israeli settlement
 #  The first actual pullout of settlers in the Gaza Strip, as part of the Israel unilateral disengagement plan, has started. 
 
 Angry Israeli gunman kills three Palestinians; Hamas says it wants to see withdrawal proceed.
 
 
-### Source:
+### Sources:
 
 1. [FOXNews](http://www.foxnews.com/story/0,2933,165951,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

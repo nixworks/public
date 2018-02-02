@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/27/a-mass-shooting-takes-place-at-accent-signage-systems-a-sign-company-in-minneapolis-minnesota-united-states-five-people-are-killed-incl.html)  [JSON](/news/2012/09/27/a-mass-shooting-takes-place-at-accent-signage-systems-a-sign-company-in-minneapolis-minnesota-united-states-five-people-are-killed-incl.json)  [XML](/news/2012/09/27/a-mass-shooting-takes-place-at-accent-signage-systems-a-sign-company-in-minneapolis-minnesota-united-states-five-people-are-killed-incl.xml)  
+
 ### [2012-09-27](/news/2012/09/27/index.md)
 
+##### mass shooting
 # A mass shooting takes place at Accent Signage Systems, a sign company in Minneapolis, Minnesota, United States; five people are killed, including the gunman who committed suicide, and four others are wounded. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/2012/09/27/minneapolis-shooting-accent-signage-systems_n_1921261.html?1348788584&icid=maing-grid7%7Cmain5%7Cdl3%7Csec1_lnk2%26pLid%3D212107)
 

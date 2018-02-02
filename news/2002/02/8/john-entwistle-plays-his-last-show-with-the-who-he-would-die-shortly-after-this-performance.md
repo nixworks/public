@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/02/8/john-entwistle-plays-his-last-show-with-the-who-he-would-die-shortly-after-this-performance.html)  [JSON](/news/2002/02/8/john-entwistle-plays-his-last-show-with-the-who-he-would-die-shortly-after-this-performance.json)  [XML](/news/2002/02/8/john-entwistle-plays-his-last-show-with-the-who-he-would-die-shortly-after-this-performance.xml)  
+
 ### [2002-02-8](/news/2002/02/8/index.md)
 
+##### John Entwistle
 #  John Entwistle plays his last show with The Who. He would die shortly after this performance.
 
 

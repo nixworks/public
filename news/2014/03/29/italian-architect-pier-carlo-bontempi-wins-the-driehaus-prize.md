@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/29/italian-architect-pier-carlo-bontempi-wins-the-driehaus-prize.html)  [JSON](/news/2014/03/29/italian-architect-pier-carlo-bontempi-wins-the-driehaus-prize.json)  [XML](/news/2014/03/29/italian-architect-pier-carlo-bontempi-wins-the-driehaus-prize.xml)  
+
 ### [2014-03-29](/news/2014/03/29/index.md)
 
+##### Pier Carlo Bontempi
 # Italian architect Pier Carlo Bontempi wins the Driehaus Prize. 
 
 Italian architect Pier Carlo Bontempi has been selected as the 12th recipient of the Richard H. Driehaus Prize at the...
 
 
-### Source:
+### Sources:
 
 1. [ArchDaily](http://www.archdaily.com/456165/pier-carlo-bontempi-named-2014-driehaus-laureate/)
 2. [PRweb](http://www.prweb.com/releases/2014/03/prweb11690171.htm)

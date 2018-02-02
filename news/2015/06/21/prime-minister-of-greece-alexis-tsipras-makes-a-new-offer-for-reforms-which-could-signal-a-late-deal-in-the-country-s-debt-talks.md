@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/21/prime-minister-of-greece-alexis-tsipras-makes-a-new-offer-for-reforms-which-could-signal-a-late-deal-in-the-country-s-debt-talks.html)  [JSON](/news/2015/06/21/prime-minister-of-greece-alexis-tsipras-makes-a-new-offer-for-reforms-which-could-signal-a-late-deal-in-the-country-s-debt-talks.json)  [XML](/news/2015/06/21/prime-minister-of-greece-alexis-tsipras-makes-a-new-offer-for-reforms-which-could-signal-a-late-deal-in-the-country-s-debt-talks.xml)  
+
 ### [2015-06-21](/news/2015/06/21/index.md)
 
+##### Alexis Tsipras
 # Prime Minister of Greece Alexis Tsipras makes a new offer for reforms which could signal a late deal in the country's debt talks. 
 
 Greek debt talks are resuming after creditors accused the country&#x27;s Prime Minister Alexis Tsipras of failing to compromise. Greece faces a 1.6 billion euro debt repayment to the International Monetary Fund on Tuesday, and is thought to require a new deal to avoid default and a possible withdrawal from the eurozone.
 
 
-### Source:
+### Sources:
 
 1. [ITV News](http://www.itv.com/news/story/2015-06-21/greece-debt-crisis-tsipras-makes-last-minute-offer/)
 1. [Cover Image](http://news-assets.sn.itv.com/image/file/698960/mobile_article_img.jpg)

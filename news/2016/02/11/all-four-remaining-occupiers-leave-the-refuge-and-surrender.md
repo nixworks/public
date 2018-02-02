@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/11/all-four-remaining-occupiers-leave-the-refuge-a
 
 ### [2016-02-11](/news/2016/02/11/index.md)
 
+##### Occupation of the Malheur National Wildlife Refuge
 # All four remaining occupiers leave the refuge and surrender. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/20/iaea-reports-that-iran-is-continuing-to-meet-its-commitments-under-the-interim-accord-that-it-reached-with-the-p5-1.html)  [JSON](/news/2014/08/20/iaea-reports-that-iran-is-continuing-to-meet-its-commitments-under-the-interim-accord-that-it-reached-with-the-p5-1.json)  [XML](/news/2014/08/20/iaea-reports-that-iran-is-continuing-to-meet-its-commitments-under-the-interim-accord-that-it-reached-with-the-p5-1.xml)  
+
 ### [2014-08-20](/news/2014/08/20/index.md)
 
+##### IAEA
 # IAEA reports that Iran is continuing to meet its commitments under the interim accord that it reached with the P5+1. 
 
 Iran has started taking action to comply with the terms of an extended agreement with six world powers over its disputed atomic activities, a U.N. nuclear watchdog report obtained by Reuters on Wednesday showed.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://mobile.reuters.com/article/idUSKBN0GK1SQ20140820?irpc=932)
 1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140820&t=2&i=965578770&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7J0R3)

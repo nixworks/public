@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/10/australian-crime-figure-judy-moran-is-sentenced-to-26-years-in-jail-for-her-part-in-the-murder-of-des-tuppence-moran-in-melbourne-with-the.html)  [JSON](/news/2011/08/10/australian-crime-figure-judy-moran-is-sentenced-to-26-years-in-jail-for-her-part-in-the-murder-of-des-tuppence-moran-in-melbourne-with-the.json)  [XML](/news/2011/08/10/australian-crime-figure-judy-moran-is-sentenced-to-26-years-in-jail-for-her-part-in-the-murder-of-des-tuppence-moran-in-melbourne-with-the.xml)  
+
 ### [2011-08-10](/news/2011/08/10/index.md)
 
+##### Australian
 # Australian crime figure Judy Moran is sentenced to 26 years in jail for her part in the murder of Des "Tuppence" Moran in Melbourne with the actual murderer Geoffrey Armour also sentenced to 26 years. 
 
 A defiant Judy Moran has been jailed for 26 years for the murder of her brother-in-law Desmond &quot;Tuppence&quot; Moran.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/defiant-moran-gets-26-years-for-murder-20110810-1ilv2.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

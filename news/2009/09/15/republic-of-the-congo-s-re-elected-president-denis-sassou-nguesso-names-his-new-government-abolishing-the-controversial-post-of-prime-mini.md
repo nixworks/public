@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/15/republic-of-the-congo-s-re-elected-president-denis-sassou-nguesso-names-his-new-government-abolishing-the-controversial-post-of-prime-mini.html)  [JSON](/news/2009/09/15/republic-of-the-congo-s-re-elected-president-denis-sassou-nguesso-names-his-new-government-abolishing-the-controversial-post-of-prime-mini.json)  [XML](/news/2009/09/15/republic-of-the-congo-s-re-elected-president-denis-sassou-nguesso-names-his-new-government-abolishing-the-controversial-post-of-prime-mini.xml)  
+
 ### [2009-09-15](/news/2009/09/15/index.md)
 
+##### Republic of the Congo
 #  Republic of the Congo's re-elected President Denis Sassou Nguesso names his new government, abolishing the controversial post of Prime Minister and replacing the nation's oil minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=136&art_id=nw20090916132725546C641341)
 

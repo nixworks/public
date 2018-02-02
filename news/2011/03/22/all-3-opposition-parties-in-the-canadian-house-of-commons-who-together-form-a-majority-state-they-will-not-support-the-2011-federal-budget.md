@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/03/22/all-3-opposition-parties-in-the-canadian-house-of-commons-who-together-form-a-majority-state-they-will-not-support-the-2011-federal-budget.html)  [JSON](/news/2011/03/22/all-3-opposition-parties-in-the-canadian-house-of-commons-who-together-form-a-majority-state-they-will-not-support-the-2011-federal-budget.json)  [XML](/news/2011/03/22/all-3-opposition-parties-in-the-canadian-house-of-commons-who-together-form-a-majority-state-they-will-not-support-the-2011-federal-budget.xml)  
+
 ### [2011-03-22](/news/2011/03/22/index.md)
 
+##### Canadian House of Commons
 # All 3 opposition parties in the Canadian House of Commons, who together form a majority, state they will not support the 2011 federal budget, precipitating a possible election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/news/politics/story/2011/03/22/pol-budget-main.html)
-2. [Globe and Mail](http://www.theglobeandmail.com/news/politics/budget/news/spring-election-possible-as-all-three-opposition-parties-reject-tory-budget/article1935056/)
+2. [Globe and Mail](https://www.theglobeandmail.com/news/politics/budget/news/spring-election-possible-as-all-three-opposition-parties-reject-tory-budget/article1935056/)
 2. [Cover Image](https://i.cbc.ca/1.1947782.1381652810!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-flaherty-00374028-852.jpg)
 
 ### Related:

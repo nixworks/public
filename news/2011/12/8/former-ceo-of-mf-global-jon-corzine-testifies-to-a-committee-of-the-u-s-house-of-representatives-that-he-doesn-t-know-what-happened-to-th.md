@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/12/8/former-ceo-of-mf-global-jon-corzine-testifies-to-a-committee-of-the-u-s-house-of-representatives-that-he-doesn-t-know-what-happened-to-th.html)  [JSON](/news/2011/12/8/former-ceo-of-mf-global-jon-corzine-testifies-to-a-committee-of-the-u-s-house-of-representatives-that-he-doesn-t-know-what-happened-to-th.json)  [XML](/news/2011/12/8/former-ceo-of-mf-global-jon-corzine-testifies-to-a-committee-of-the-u-s-house-of-representatives-that-he-doesn-t-know-what-happened-to-th.xml)  
+
 ### [2011-12-8](/news/2011/12/8/index.md)
 
+##### MF Global
 # Former CEO of MF Global, Jon Corzine, testifies to a committee of the U.S. House of Representatives that he doesn't know what happened to the hundreds of millions of dollars of customers' money, supposedly in segregated accounts, that appears to be missing. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/08/us-mfglobal-corzine-idUSTRE7B70ET20111208)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111208&t=2&i=544547723&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7B71R6L00)
+1. [Reuters](https://www.reuters.com/article/2011/12/08/us-mfglobal-corzine-idUSTRE7B70ET20111208)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111208&t=2&i=544547723&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7B71R6L00)
 
 ### Related:
 

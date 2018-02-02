@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/19/israel-s-prime-minister-ariel-sharon-vows-to-press-on-with-his-disengagement-plan-despite-it-receiving-another-rejection-from-his-likud.html)  [JSON](/news/2004/08/19/israel-s-prime-minister-ariel-sharon-vows-to-press-on-with-his-disengagement-plan-despite-it-receiving-another-rejection-from-his-likud.json)  [XML](/news/2004/08/19/israel-s-prime-minister-ariel-sharon-vows-to-press-on-with-his-disengagement-plan-despite-it-receiving-another-rejection-from-his-likud.xml)  
+
 ### [2004-08-19](/news/2004/08/19/index.md)
 
+##### Israel
 #  Israel's prime minister, Ariel Sharon, vows to press on with his disengagement plan, despite it receiving another rejection from his Likud party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://newsvote.bbc.co.uk/1/hi/world/middle_east/3578860.stm)
 

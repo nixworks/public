@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/enda-kenny-and-michael-noonan-of-ireland-s-opposition-fine-gael-party-meet-the-president-of-the-european-commission-josa-c-manuel-barroso-i.html)  [JSON](/news/2011/01/28/enda-kenny-and-michael-noonan-of-ireland-s-opposition-fine-gael-party-meet-the-president-of-the-european-commission-josa-c-manuel-barroso-i.json)  [XML](/news/2011/01/28/enda-kenny-and-michael-noonan-of-ireland-s-opposition-fine-gael-party-meet-the-president-of-the-european-commission-josa-c-manuel-barroso-i.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### Enda Kenny
 # Enda Kenny and Michael Noonan of Ireland's (opposition) Fine Gael party meet the President of the European Commission Jose Manuel Barroso in Brussels. The pair are believed to be protesting against the terms of the country's recent financial bailout from the EU-IMF. 
 
 Fine Gael leader Enda Kenny has told the president of the European Commission José Manuel Barroso that if given a mandate by the people a Fine Gael-led coalition would seek to renegotiate the terms of the EU IMF bailout.
 
 
-### Source:
+### Sources:
 
 1. [Irish Independent](http://www.independent.ie/national-news/kenny-urges-eu-to-cut-interest-rate-on-bailout-2514708.html)
 2. [RTÉ](http://www.rte.ie/news/2011/0128/economy.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/9/thousands-of-british-students-demonstrate-as-mps-vote-to-triple-university-tuition-fees.html)  [JSON](/news/2010/12/9/thousands-of-british-students-demonstrate-as-mps-vote-to-triple-university-tuition-fees.json)  [XML](/news/2010/12/9/thousands-of-british-students-demonstrate-as-mps-vote-to-triple-university-tuition-fees.xml)  
+
 ### [2010-12-9](/news/2010/12/9/index.md)
 
+##### 
 # Thousands of British students demonstrate as MPs vote to triple university tuition fees. 
 
 Parliamentary coalition votes to triple university fees as students clash with police in massive, violent protests.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012914839267478.html)
 2. [BBC](http://www.bbc.co.uk/news/education-11954333)

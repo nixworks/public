@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/16/chinese-athletes-withdraw-from-the-opening-ceremony-of-the-world-games-but-say-they-will-compete.html)  [JSON](/news/2009/07/16/chinese-athletes-withdraw-from-the-opening-ceremony-of-the-world-games-but-say-they-will-compete.json)  [XML](/news/2009/07/16/chinese-athletes-withdraw-from-the-opening-ceremony-of-the-world-games-but-say-they-will-compete.xml)  
+
 ### [2009-07-16](/news/2009/07/16/index.md)
 
+##### China
 #  Chinese athletes withdraw from the opening ceremony of the World Games but say they will compete. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8153144.stm)
 

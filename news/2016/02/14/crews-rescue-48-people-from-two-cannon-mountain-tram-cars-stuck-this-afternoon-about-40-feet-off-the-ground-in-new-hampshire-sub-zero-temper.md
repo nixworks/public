@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/14/crews-rescue-48-people-from-two-cannon-mountain
 
 ### [2016-02-14](/news/2016/02/14/index.md)
 
+##### Cannon Mountain
 # Crews rescue 48 people from two Cannon Mountain tram cars stuck this afternoon about 40 feet off the ground in New Hampshire sub-zero temperatures in the White Mountains. 
 
 

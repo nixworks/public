@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/5/the-university-of-dusseldorf-strips-german-minister-of-education-and-research-annette-schavan-of-a-doctorate-and-degree-following-allegation.html)  [JSON](/news/2013/02/5/the-university-of-dusseldorf-strips-german-minister-of-education-and-research-annette-schavan-of-a-doctorate-and-degree-following-allegation.json)  [XML](/news/2013/02/5/the-university-of-dusseldorf-strips-german-minister-of-education-and-research-annette-schavan-of-a-doctorate-and-degree-following-allegation.xml)  
+
 ### [2013-02-5](/news/2013/02/5/index.md)
 
+##### University of Dsseldorf
 # The University of Dsseldorf strips German Minister of Education and Research Annette Schavan of a doctorate and degree following allegations of plagiarism. 
 
 A German university votes to strip Education Minister Annette Schavan of her doctorate after an investigation into plagiarism allegations.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21347510)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65723000/jpg/_65723919_017011729-1.jpg)

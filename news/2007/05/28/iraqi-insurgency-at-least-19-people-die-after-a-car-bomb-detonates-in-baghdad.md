@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/28/iraqi-insurgency-at-least-19-people-die-after-a-car-bomb-detonates-in-baghdad.html)  [JSON](/news/2007/05/28/iraqi-insurgency-at-least-19-people-die-after-a-car-bomb-detonates-in-baghdad.json)  [XML](/news/2007/05/28/iraqi-insurgency-at-least-19-people-die-after-a-car-bomb-detonates-in-baghdad.xml)  
+
 ### [2007-05-28](/news/2007/05/28/index.md)
 
+##### Iraqi insurgency
 #  Iraqi insurgency: At least 19 people die after a car bomb detonates in Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6698093.stm)
 

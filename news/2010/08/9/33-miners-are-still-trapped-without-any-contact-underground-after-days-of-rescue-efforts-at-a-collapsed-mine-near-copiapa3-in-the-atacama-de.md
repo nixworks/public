@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/9/33-miners-are-still-trapped-without-any-contact-underground-after-days-of-rescue-efforts-at-a-collapsed-mine-near-copiapa3-in-the-atacama-de.html)  [JSON](/news/2010/08/9/33-miners-are-still-trapped-without-any-contact-underground-after-days-of-rescue-efforts-at-a-collapsed-mine-near-copiapa3-in-the-atacama-de.json)  [XML](/news/2010/08/9/33-miners-are-still-trapped-without-any-contact-underground-after-days-of-rescue-efforts-at-a-collapsed-mine-near-copiapa3-in-the-atacama-de.xml)  
+
 ### [2010-08-9](/news/2010/08/9/index.md)
 
+##### Copiapo
 # 33 miners are still trapped without any contact underground after days of rescue efforts at a collapsed mine near Copiapo in the Atacama Desert. 
 
 Rescuers in Chile drill shafts for oxygen, water and food in a bid to rescue 33 workers who have been trapped since a mine collapse on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net//news/americas/2010/08/201086235533819605.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-10917304)

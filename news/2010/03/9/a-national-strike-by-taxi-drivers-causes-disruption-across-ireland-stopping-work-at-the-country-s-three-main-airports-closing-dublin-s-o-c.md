@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/9/a-national-strike-by-taxi-drivers-causes-disruption-across-ireland-stopping-work-at-the-country-s-three-main-airports-closing-dublin-s-o-c.html)  [JSON](/news/2010/03/9/a-national-strike-by-taxi-drivers-causes-disruption-across-ireland-stopping-work-at-the-country-s-three-main-airports-closing-dublin-s-o-c.json)  [XML](/news/2010/03/9/a-national-strike-by-taxi-drivers-causes-disruption-across-ireland-stopping-work-at-the-country-s-three-main-airports-closing-dublin-s-o-c.xml)  
+
 ### [2010-03-9](/news/2010/03/9/index.md)
 
+##### Dublin
 # A national strike by taxi drivers causes disruption across Ireland, stopping work at the country's three main airports, closing Dublin's O'Connell Street completely and blocking other streets as the High Court orders protesters to leave their sit-in at Commission for Taxi Regulation headquarters. 
 
 Two men who had been staging a sit-in at the offices of the Taxi Regulator in Dublin have ended their protest.
 
 
-### Source:
+### Sources:
 
 1. [Ireland Online](http://breakingnews.iol.ie/news/ireland/taxi-drivers-protest-at-three-main-airports-449304.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0309/taxi.html)

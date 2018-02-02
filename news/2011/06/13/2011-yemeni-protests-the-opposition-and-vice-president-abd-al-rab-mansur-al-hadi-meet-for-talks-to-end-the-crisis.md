@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/13/2011-yemeni-protests-the-opposition-and-vice-president-abd-al-rab-mansur-al-hadi-meet-for-talks-to-end-the-crisis.html)  [JSON](/news/2011/06/13/2011-yemeni-protests-the-opposition-and-vice-president-abd-al-rab-mansur-al-hadi-meet-for-talks-to-end-the-crisis.json)  [XML](/news/2011/06/13/2011-yemeni-protests-the-opposition-and-vice-president-abd-al-rab-mansur-al-hadi-meet-for-talks-to-end-the-crisis.xml)  
+
 ### [2011-06-13](/news/2011/06/13/index.md)
 
+##### 2011 Yemeni protests
 # 2011 Yemeni protests: The opposition and Vice President Abd al-Rab Mansur al-Hadi meet for talks to end the crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/meast/06/13/yemen.unrest/)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/meast/06/13/yemen.unrest/tzvids.yemen.vp.afp.gi.jpg)

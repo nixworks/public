@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/18/burma-releases-500-prisoners-including-at-least-58-political-prisoners-and-foreigners-in-an-amnesty.html)  [JSON](/news/2012/09/18/burma-releases-500-prisoners-including-at-least-58-political-prisoners-and-foreigners-in-an-amnesty.json)  [XML](/news/2012/09/18/burma-releases-500-prisoners-including-at-least-58-political-prisoners-and-foreigners-in-an-amnesty.xml)  
+
 ### [2012-09-18](/news/2012/09/18/index.md)
 
+##### Burma
 # Burma releases 500 prisoners, including at least 58 political prisoners and foreigners, in an amnesty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19625381)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62949000/jpg/_62949692_016005923.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/04/29/legally-blonde-the-musical-opens-at-the-palace-theatre-in-new-york-city-new-york.html)  [JSON](/news/2007/04/29/legally-blonde-the-musical-opens-at-the-palace-theatre-in-new-york-city-new-york.json)  [XML](/news/2007/04/29/legally-blonde-the-musical-opens-at-the-palace-theatre-in-new-york-city-new-york.xml)  
+
 ### [2007-04-29](/news/2007/04/29/index.md)
 
+##### Legally Blonde: The Musical
 #  Legally Blonde: The Musical opens at the Palace Theatre in New York City, New York.
 
 

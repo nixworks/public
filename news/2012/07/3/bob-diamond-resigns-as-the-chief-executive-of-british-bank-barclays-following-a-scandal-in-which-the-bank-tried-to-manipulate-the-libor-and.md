@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/3/bob-diamond-resigns-as-the-chief-executive-of-british-bank-barclays-following-a-scandal-in-which-the-bank-tried-to-manipulate-the-libor-and.html)  [JSON](/news/2012/07/3/bob-diamond-resigns-as-the-chief-executive-of-british-bank-barclays-following-a-scandal-in-which-the-bank-tried-to-manipulate-the-libor-and.json)  [XML](/news/2012/07/3/bob-diamond-resigns-as-the-chief-executive-of-british-bank-barclays-following-a-scandal-in-which-the-bank-tried-to-manipulate-the-libor-and.xml)  
+
 ### [2012-07-3](/news/2012/07/3/index.md)
 
+##### Bob Diamond
 # Bob Diamond resigns as the Chief Executive of British bank Barclays following a scandal in which the bank tried to manipulate the Libor and Euribor interest rates systems. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-18685040)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61323000/jpg/_61323353_015235694-1.jpg)

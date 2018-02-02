@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/14/the-british-government-orders-the-freezing-of-any-assets-that-abu-musab-al-zarqawi-s-militant-group-tawhid-and-jihad-mdash-which-has-claim.html)  [JSON](/news/2004/10/14/the-british-government-orders-the-freezing-of-any-assets-that-abu-musab-al-zarqawi-s-militant-group-tawhid-and-jihad-mdash-which-has-claim.json)  [XML](/news/2004/10/14/the-british-government-orders-the-freezing-of-any-assets-that-abu-musab-al-zarqawi-s-militant-group-tawhid-and-jihad-mdash-which-has-claim.xml)  
+
 ### [2004-10-14](/news/2004/10/14/index.md)
 
+##### Abu Musab al-Zarqawi
 #  The British government orders the freezing of any assets that Abu Musab al-Zarqawi's militant group, Tawhid and Jihad&mdash;which has claimed responsibility for killing Kenneth Bigley&mdash;may hold in Britain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/3742998.stm)
 

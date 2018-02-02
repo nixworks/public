@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/9/buckingham-palace-confirms-that-the-wedding-of-zara-phillips-and-mike-tindall-will-be-held-on-30-july-2011-at-the-canongate-kirk-in-edinburg.html)  [JSON](/news/2011/03/9/buckingham-palace-confirms-that-the-wedding-of-zara-phillips-and-mike-tindall-will-be-held-on-30-july-2011-at-the-canongate-kirk-in-edinburg.json)  [XML](/news/2011/03/9/buckingham-palace-confirms-that-the-wedding-of-zara-phillips-and-mike-tindall-will-be-held-on-30-july-2011-at-the-canongate-kirk-in-edinburg.xml)  
+
 ### [2011-03-9](/news/2011/03/9/index.md)
 
+##### Buckingham Palace
 # Buckingham Palace confirms that the wedding of Zara Phillips and Mike Tindall will be held on 30 July 2011 at the Canongate Kirk in Edinburgh, Scotland. 
 
 Zara Phillips and her rugby player fiance Mike Tindall are to be married at the Canongate Kirk, Edinburgh, on 30 July, Buckingham Palace says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12688849)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

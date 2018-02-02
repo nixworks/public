@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/20/minister-for-transport-noel-dempsey-minister-for-justice-and-law-reform-dermot-ahern-and-minister-for-defence-tony-killeen-all-resign-follo.html)  [JSON](/news/2011/01/20/minister-for-transport-noel-dempsey-minister-for-justice-and-law-reform-dermot-ahern-and-minister-for-defence-tony-killeen-all-resign-follo.json)  [XML](/news/2011/01/20/minister-for-transport-noel-dempsey-minister-for-justice-and-law-reform-dermot-ahern-and-minister-for-defence-tony-killeen-all-resign-follo.xml)  
+
 ### [2011-01-20](/news/2011/01/20/index.md)
 
+##### Minister for Transport
 # Minister for Transport Noel Dempsey, Minister for Justice and Law Reform Dermot Ahern and Minister for Defence Tony Killeen all resign following the recent resignations of Minister for Health and Children Mary Harney and Minister for Foreign Affairs Micheal Martin. 
 
 Noel Dempsey, Dermot Ahern and Tony Killeen have joined Mary Harney in resigning from Cabinet.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://politics.inquirer.net/politics/view/20110120-315576/Four-Irish-cabinet-ministers-quitreports)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/01/201112014193633285.html)
@@ -21,6 +25,12 @@ Noel Dempsey, Dermot Ahern and Tony Killeen have joined Mary Harney in resigning
 12. [The Wall Street Journal](http://online.wsj.com/article/BT-CO-20110120-712408.html)
 12. [Cover Image](https://img.rasset.ie/000422ef-1600.jpg)
 
+### Changes:
+
+1. [Situation in Ireland:Minister for Transport Noel Dempsey, Minister for Justice and Law Reform Dermot Ahern and Minister for Defence Tony Killeen all resign following the recent resignations of Minister for Health and Children Mary Harney and Minister for Foreign Affairs Micheal Martin. ](/news/2011/01/20/situation-in-ireland-pminister-for-transport-noel-dempsey-minister-for-justice-and-law-reform-dermot-ahern-and-minister-for-defence-tony-ki.md) _2017-08-25 03:31:52 (First version)_
+2. [Situation in Ireland:: Minister for Transport Noel Dempsey, Minister for Justice and Law Reform Dermot Ahern and Minister for Defence Tony Killeen all resign following the recent resignations of Minister for Health and Children Mary Harney and Minister for Foreign Affairs Micheal Martin. ](/news/2011/01/20/situation-in-ireland-minister-for-transport-noel-dempsey-minister-for-justice-and-law-reform-dermot-ahern-and-minister-for-defence-tony-k.md) _2017-08-27 03:31:59 (Update)_
+2. [Minister for Transport Noel Dempsey, Minister for Justice and Law Reform Dermot Ahern and Minister for Defence Tony Killeen all resign following the recent resignations of Minister for Health and Children Mary Harney and Minister for Foreign Affairs Micheal Martin. ](/news/2011/01/20/minister-for-transport-noel-dempsey-minister-for-justice-and-law-reform-dermot-ahern-and-minister-for-defence-tony-killeen-all-resign-follo.md) _(Current version)_
+
 ### Related:
 
 1. [Taoiseach Brian Cowen tells his government he is to take on the foreign affairs portfolio after his challenger Micheal Martin's resignation yesterday. President Mary McAleese accepts Martin's resignation. ](/news/2011/01/19/taoiseach-brian-cowen-tells-his-government-he-is-to-take-on-the-foreign-affairs-portfolio-after-his-challenger-michea-l-martin-s-resignation.md) _Context: Micheal Martin, Minister for Foreign Affairs_
@@ -28,9 +38,3 @@ Noel Dempsey, Dermot Ahern and Tony Killeen have joined Mary Harney in resigning
 3. [Irish Minister for Foreign Affairs Micheal Martin, writing in the "International Herald Tribune", says Israel's blockade of Gaza is "inhumane and unacceptable" and calls on the European Union and other countries to request that it be ended following his visit there last week. ](/news/2010/03/5/irish-minister-for-foreign-affairs-michea-l-martin-writing-in-the-international-herald-tribune-says-israel-s-blockade-of-gaza-is-inhuma.md) _Context: Micheal Martin, Minister for Foreign Affairs_
 4. [Irish Minister for Foreign Affairs Micheal Martin makes history as he leads a 10-member delegation to Gaza via Egypt, becoming the first EU Foreign Minister to visit since the 2009 Israeli assault after having previously been refused entry by Israel. He calls on Israel to end the blockade. ](/news/2010/02/25/irish-minister-for-foreign-affairs-michea-l-martin-makes-history-as-he-leads-a-10-member-delegation-to-gaza-via-egypt-becoming-the-first-eu.md) _Context: Micheal Martin, Minister for Foreign Affairs_
 5. [ Three detainees held by the United States at Guantanamo Bay in Cuba, are sent abroad to two countries. Ireland accepts two detainees of Uzbeki origin in a humanitarian gesture, with Minister for Justice, Equality and Law Reform Dermot Ahern saying Ireland was one of the first countries in Europe to call for the closure of Guantanamo Bay and that the two men would now be given time to rebuild their lives. ](/news/2009/09/26/three-detainees-held-by-the-united-states-at-guanta-namo-bay-in-cuba-are-sent-abroad-to-two-countries-ireland-accepts-two-detainees-of-uz.md) _Context: Dermot Ahern, Minister for Justice and Equality_
-
-### Changes:
-
-1. [Situation in Ireland:Minister for Transport Noel Dempsey, Minister for Justice and Law Reform Dermot Ahern and Minister for Defence Tony Killeen all resign following the recent resignations of Minister for Health and Children Mary Harney and Minister for Foreign Affairs Micheal Martin. ](/news/2011/01/20/situation-in-ireland-pminister-for-transport-noel-dempsey-minister-for-justice-and-law-reform-dermot-ahern-and-minister-for-defence-tony-ki.md) _2017-08-25 03:31:52 (First version)_
-2. [Situation in Ireland:: Minister for Transport Noel Dempsey, Minister for Justice and Law Reform Dermot Ahern and Minister for Defence Tony Killeen all resign following the recent resignations of Minister for Health and Children Mary Harney and Minister for Foreign Affairs Micheal Martin. ](/news/2011/01/20/situation-in-ireland-minister-for-transport-noel-dempsey-minister-for-justice-and-law-reform-dermot-ahern-and-minister-for-defence-tony-k.md) _2017-08-27 03:31:59 (Update)_
-2. [Minister for Transport Noel Dempsey, Minister for Justice and Law Reform Dermot Ahern and Minister for Defence Tony Killeen all resign following the recent resignations of Minister for Health and Children Mary Harney and Minister for Foreign Affairs Micheal Martin. ](/news/2011/01/20/minister-for-transport-noel-dempsey-minister-for-justice-and-law-reform-dermot-ahern-and-minister-for-defence-tony-killeen-all-resign-follo.md) _(Current version)_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/12/as-the-people-of-equatorial-guinea-vote-in-the-
 
 ### [2017-11-12](/news/2017/11/12/index.md)
 
+##### Equatorial Guinean legislative election, 2017
 # As the people of Equatorial Guinea vote in the legislative election, the government blocks access to the internet and bans private vehicles. Observers predict the Democratic Party of Equatorial Guinea will win the election. 
 
 President Teodoro Obiang Nguema has been the country&#39;s president for 37 years. The party of Africa&#39;s longest serving leader was widely expected to win the vote.

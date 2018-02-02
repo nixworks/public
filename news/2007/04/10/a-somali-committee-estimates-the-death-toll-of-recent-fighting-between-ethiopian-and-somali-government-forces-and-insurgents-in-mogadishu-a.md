@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/10/a-somali-committee-estimates-the-death-toll-of-recent-fighting-between-ethiopian-and-somali-government-forces-and-insurgents-in-mogadishu-a.html)  [JSON](/news/2007/04/10/a-somali-committee-estimates-the-death-toll-of-recent-fighting-between-ethiopian-and-somali-government-forces-and-insurgents-in-mogadishu-a.json)  [XML](/news/2007/04/10/a-somali-committee-estimates-the-death-toll-of-recent-fighting-between-ethiopian-and-somali-government-forces-and-insurgents-in-mogadishu-a.xml)  
+
 ### [2007-04-10](/news/2007/04/10/index.md)
 
+##### Somalia
 #  A Somali committee estimates the death toll of recent fighting between Ethiopian and Somali Government forces and insurgents in Mogadishu at more than 1,000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L10414163.htm)
 

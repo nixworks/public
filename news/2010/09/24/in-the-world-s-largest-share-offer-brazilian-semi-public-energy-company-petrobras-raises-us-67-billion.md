@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/24/in-the-world-s-largest-share-offer-brazilian-semi-public-energy-company-petrobras-raises-us-67-billion.html)  [JSON](/news/2010/09/24/in-the-world-s-largest-share-offer-brazilian-semi-public-energy-company-petrobras-raises-us-67-billion.json)  [XML](/news/2010/09/24/in-the-world-s-largest-share-offer-brazilian-semi-public-energy-company-petrobras-raises-us-67-billion.xml)  
+
 ### [2010-09-24](/news/2010/09/24/index.md)
 
+##### share
 # In the world's largest share offer, Brazilian semi-public energy company Petrobras raises US$67 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20100924-700033.html)
 

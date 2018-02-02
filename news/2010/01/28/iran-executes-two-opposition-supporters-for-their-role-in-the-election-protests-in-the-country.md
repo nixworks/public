@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/28/iran-executes-two-opposition-supporters-for-their-role-in-the-election-protests-in-the-country.html)  [JSON](/news/2010/01/28/iran-executes-two-opposition-supporters-for-their-role-in-the-election-protests-in-the-country.json)  [XML](/news/2010/01/28/iran-executes-two-opposition-supporters-for-their-role-in-the-election-protests-in-the-country.xml)  
+
 ### [2010-01-28](/news/2010/01/28/index.md)
 
+##### Iran
 # Iran executes two opposition supporters for their role in the election protests in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/2010/01/201012883746634565.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/middle_east/article7006047.ece)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/9/closing-their-annual-summit-apec-leaders-report-progress-in-vladivostok-over-environmental-and-trade-barrier-issues-some-territorial-issue.html)  [JSON](/news/2012/09/9/closing-their-annual-summit-apec-leaders-report-progress-in-vladivostok-over-environmental-and-trade-barrier-issues-some-territorial-issue.json)  [XML](/news/2012/09/9/closing-their-annual-summit-apec-leaders-report-progress-in-vladivostok-over-environmental-and-trade-barrier-issues-some-territorial-issue.xml)  
+
 ### [2012-09-9](/news/2012/09/9/index.md)
 
+##### annual summit
 # Closing their annual summit, APEC leaders report progress in Vladivostok over environmental and trade barrier issues; some territorial issues remain unsolved. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390444554704577641301712512154.html?mod=googlenews_wsj)
 

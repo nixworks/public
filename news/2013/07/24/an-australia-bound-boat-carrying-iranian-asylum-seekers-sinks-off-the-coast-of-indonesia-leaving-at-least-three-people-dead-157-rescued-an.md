@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/24/an-australia-bound-boat-carrying-iranian-asylum-seekers-sinks-off-the-coast-of-indonesia-leaving-at-least-three-people-dead-157-rescued-an.html)  [JSON](/news/2013/07/24/an-australia-bound-boat-carrying-iranian-asylum-seekers-sinks-off-the-coast-of-indonesia-leaving-at-least-three-people-dead-157-rescued-an.json)  [XML](/news/2013/07/24/an-australia-bound-boat-carrying-iranian-asylum-seekers-sinks-off-the-coast-of-indonesia-leaving-at-least-three-people-dead-157-rescued-an.xml)  
+
 ### [2013-07-24](/news/2013/07/24/index.md)
 
+##### Australia
 # An Australia-bound boat carrying Iranian asylum seekers sinks off the coast of Indonesia, leaving at least three people dead, 157 rescued and an uncertain number missing. 
 
 At least four people are dead after a boat carrying Australia-bound asylum-seekers sank, amid ongoing debate over the new policy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-23429003)
 2. [The Australian](http://www.theaustralian.com.au/national-affairs/immigration/asylum-seeker-boat-sinks-off-indonesia/story-fn9hm1gu-1226684079708)

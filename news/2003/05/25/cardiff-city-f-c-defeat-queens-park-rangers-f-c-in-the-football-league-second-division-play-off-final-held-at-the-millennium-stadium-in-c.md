@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/25/cardiff-city-f-c-defeat-queens-park-rangers-f-c-in-the-football-league-second-division-play-off-final-held-at-the-millennium-stadium-in-c.html)  [JSON](/news/2003/05/25/cardiff-city-f-c-defeat-queens-park-rangers-f-c-in-the-football-league-second-division-play-off-final-held-at-the-millennium-stadium-in-c.json)  [XML](/news/2003/05/25/cardiff-city-f-c-defeat-queens-park-rangers-f-c-in-the-football-league-second-division-play-off-final-held-at-the-millennium-stadium-in-c.xml)  
+
 ### [2003-05-25](/news/2003/05/25/index.md)
 
+##### Cardiff City Football Club
 #  Cardiff City F.C. defeat Queens Park Rangers F.C. in the Football League Second Division play-off final held at The Millennium Stadium in Cardiff, Wales.
 
 

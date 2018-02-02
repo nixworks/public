@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/23/former-u-s-army-sergeant-robert-bales-is-sentenced-to-life-in-prison-without-parole-for-the-killing-of-16-afghan-civilians-in-march-2012.html)  [JSON](/news/2013/08/23/former-u-s-army-sergeant-robert-bales-is-sentenced-to-life-in-prison-without-parole-for-the-killing-of-16-afghan-civilians-in-march-2012.json)  [XML](/news/2013/08/23/former-u-s-army-sergeant-robert-bales-is-sentenced-to-life-in-prison-without-parole-for-the-killing-of-16-afghan-civilians-in-march-2012.xml)  
+
 ### [2013-08-23](/news/2013/08/23/index.md)
 
+##### Robert Bales
 # Former U.S. Army Sergeant Robert Bales is sentenced to life in prison without parole for the killing of 16 Afghan civilians in March 2012. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://usnews.nbcnews.com/_news/2013/08/23/20155554-soldier-accused-of-massacre-of-afghan-villagers-gets-life-without-parole?lite=)
 

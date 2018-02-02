@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/25/a-record-number-of-migrants-crossing-the-balkans-results-in-a-record-number-of-people-in-hungary-despite-the-government-building-a-wall-on-t.html)  [JSON](/news/2015/08/25/a-record-number-of-migrants-crossing-the-balkans-results-in-a-record-number-of-people-in-hungary-despite-the-government-building-a-wall-on-t.json)  [XML](/news/2015/08/25/a-record-number-of-migrants-crossing-the-balkans-results-in-a-record-number-of-people-in-hungary-despite-the-government-building-a-wall-on-t.xml)  
+
 ### [2015-08-25](/news/2015/08/25/index.md)
 
+##### Balkans
 # A record number of migrants crossing the Balkans results in a record number of people in Hungary despite the government building a wall on the border with Serbia. 
 
 BUDAPEST, Hungary &amp;#8212; The latest surge of migrants crossing the Balkans has brought a record number to Hungary despite government efforts to quickly build a 4-meter (13-foot) high fence on the
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Columbian](http://www.columbian.com/news/2015/aug/25/record-number-of-migrants-arrive-in-hungary/)
 1. [Cover Image](http://16749-presscdn-0-94.pagely.netdna-cdn.com/wp-content/themes/columbian/static/img/columbian_c_200x200.png)

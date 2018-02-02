@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/18/sri-lanka-s-government-declares-an-end-to-its-civil-war-with-the-tamil-tigers.html)  [JSON](/news/2009/05/18/sri-lanka-s-government-declares-an-end-to-its-civil-war-with-the-tamil-tigers.json)  [XML](/news/2009/05/18/sri-lanka-s-government-declares-an-end-to-its-civil-war-with-the-tamil-tigers.xml)  
+
 ### [2009-05-18](/news/2009/05/18/index.md)
 
+##### Sri Lanka
 #  Sri Lanka's government declares an end to its civil war with the Tamil Tigers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.afp.com/afpcom/en/taglibrary/thematic/actuality)
 

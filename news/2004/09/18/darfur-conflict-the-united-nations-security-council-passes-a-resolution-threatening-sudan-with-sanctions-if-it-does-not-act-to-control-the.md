@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/18/darfur-conflict-the-united-nations-security-council-passes-a-resolution-threatening-sudan-with-sanctions-if-it-does-not-act-to-control-the.html)  [JSON](/news/2004/09/18/darfur-conflict-the-united-nations-security-council-passes-a-resolution-threatening-sudan-with-sanctions-if-it-does-not-act-to-control-the.json)  [XML](/news/2004/09/18/darfur-conflict-the-united-nations-security-council-passes-a-resolution-threatening-sudan-with-sanctions-if-it-does-not-act-to-control-the.xml)  
+
 ### [2004-09-18](/news/2004/09/18/index.md)
 
+##### Darfur conflict
 #  Darfur Conflict: The United Nations Security Council passes a resolution threatening Sudan with sanctions if it does not act to control the Arab militias accused of genocide in Darfur. The resolution passes 11&ndash;0, with the People's Republic of China, Russia, Pakistan, and Algeria abstaining. 
 
 A United Nations resolution threatening sanctions over the violence in Darfur will only make it harder for the government to calm an insurrection in the region, a Sudanese offical said Sunday.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://msnbc.msn.com/id/6021717/)
 1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/040919/040919_darfur_vlg_10a.standard.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/26/thirteen-kenyan-police-officers-are-missing-after-an-al-shabaab-ambush-in-garissa-county.html)  [JSON](/news/2015/05/26/thirteen-kenyan-police-officers-are-missing-after-an-al-shabaab-ambush-in-garissa-county.json)  [XML](/news/2015/05/26/thirteen-kenyan-police-officers-are-missing-after-an-al-shabaab-ambush-in-garissa-county.xml)  
+
 ### [2015-05-26](/news/2015/05/26/index.md)
 
+##### Kenya
 # Thirteen Kenyan police officers are missing after an Al-Shabaab ambush in Garissa County. 
 
 Police spokesman George Kinoti says 13 police officers are missing and two others wounded after suspected Al shabaab attack in Yumbis, Garissa county. 
 
 
-### Source:
+### Sources:
 
 1. [Standard Digital](http://www.standardmedia.co.ke/article/2000163548/13-police-officers-missing-after-garissa-al-shabaab-attack)
 1. [Cover Image](http://www.standardmedia.co.ke/images/tuesday/upepagxk2cpep1z5563f886c1cbb.jpg)

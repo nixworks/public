@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/12/11/the-2011-united-nations-climate-change-conference-finishes-in-durban-in-south-africa-with-an-agreement-to-begin-negotiations-on-a-new-treaty.html)  [JSON](/news/2011/12/11/the-2011-united-nations-climate-change-conference-finishes-in-durban-in-south-africa-with-an-agreement-to-begin-negotiations-on-a-new-treaty.json)  [XML](/news/2011/12/11/the-2011-united-nations-climate-change-conference-finishes-in-durban-in-south-africa-with-an-agreement-to-begin-negotiations-on-a-new-treaty.xml)  
+
 ### [2011-12-11](/news/2011/12/11/index.md)
 
+##### 2011 United Nations Climate Change Conference
 # The 2011 United Nations Climate Change Conference finishes in Durban in South Africa with an agreement to begin negotiations on a new treaty. 
 
+The president of a U.N. climate conference has announced agreement on a program mapping out a new course to fight climate change.
 
 
+### Sources:
 
-### Source:
-
-1. [USA Today](http://www.usatoday.com/weather/climate/globalwarming/story/2011-12-10/united-nations-climate-conference/51782606/1)
+1. [USA Today](https://www.usatoday.com/weather/climate/globalwarming/story/2011-12-10/united-nations-climate-conference/51782606/1)
+1. [Cover Image](http://i.usatoday.net/weather/_photos/2011/12/10/Climate-conference-approves-landmark-deal-UFMO9HD-x.jpg)
 
 ### Related:
 

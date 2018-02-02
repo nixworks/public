@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/03/23/abdel-aziz-al-rantissi-is-chosen-to-lead-hamas-in-the-gaza-strip-and-the-movement-s-exiled-politburo-chief-khaled-meshaal-is-chosen-as-its.html)  [JSON](/news/2004/03/23/abdel-aziz-al-rantissi-is-chosen-to-lead-hamas-in-the-gaza-strip-and-the-movement-s-exiled-politburo-chief-khaled-meshaal-is-chosen-as-its.json)  [XML](/news/2004/03/23/abdel-aziz-al-rantissi-is-chosen-to-lead-hamas-in-the-gaza-strip-and-the-movement-s-exiled-politburo-chief-khaled-meshaal-is-chosen-as-its.xml)  
+
 ### [2004-03-23](/news/2004/03/23/index.md)
 
+##### Abdel Aziz al-Rantissi
 #  Abdel Aziz al-Rantissi is chosen to lead Hamas in the Gaza Strip, and the movement's exiled politburo chief Khaled Meshaal is chosen as its overall leader. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3562185.stm)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A18979-2004Mar23.html)
+2. [Washington Post](https://www.washingtonpost.com/wp-dyn/articles/A18979-2004Mar23.html)
 
 ### Related:
 

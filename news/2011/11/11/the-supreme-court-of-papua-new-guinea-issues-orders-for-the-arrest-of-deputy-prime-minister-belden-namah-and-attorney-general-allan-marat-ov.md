@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/11/the-supreme-court-of-papua-new-guinea-issues-orders-for-the-arrest-of-deputy-prime-minister-belden-namah-and-attorney-general-allan-marat-ov.html)  [JSON](/news/2011/11/11/the-supreme-court-of-papua-new-guinea-issues-orders-for-the-arrest-of-deputy-prime-minister-belden-namah-and-attorney-general-allan-marat-ov.json)  [XML](/news/2011/11/11/the-supreme-court-of-papua-new-guinea-issues-orders-for-the-arrest-of-deputy-prime-minister-belden-namah-and-attorney-general-allan-marat-ov.xml)  
+
 ### [2011-11-11](/news/2011/11/11/index.md)
 
+##### Supreme Court of Papua New Guinea
 # The Supreme Court of Papua New Guinea issues orders for the arrest of Deputy Prime Minister Belden Namah and Attorney General Allan Marat over contempt of court charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via Yahoo News Australia](http://au.news.yahoo.com/thewest/a/-/world/11582298/png-police-to-act-on-minister-arrest-order/)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/11/macedonian-voters-elect-a-new-parliament.html) 
 
 ### [2016-12-11](/news/2016/12/11/index.md)
 
+##### Macedonian parliamentary election, 2016
 #  Macedonian voters elect a new parliament. 
 
 

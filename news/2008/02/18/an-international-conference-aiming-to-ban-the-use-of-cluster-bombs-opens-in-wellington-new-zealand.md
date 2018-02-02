@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/18/an-international-conference-aiming-to-ban-the-use-of-cluster-bombs-opens-in-wellington-new-zealand.html)  [JSON](/news/2008/02/18/an-international-conference-aiming-to-ban-the-use-of-cluster-bombs-opens-in-wellington-new-zealand.json)  [XML](/news/2008/02/18/an-international-conference-aiming-to-ban-the-use-of-cluster-bombs-opens-in-wellington-new-zealand.xml)  
+
 ### [2008-02-18](/news/2008/02/18/index.md)
 
+##### cluster bombs
 #  An international conference aiming to ban the use of cluster bombs opens in Wellington, New Zealand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TVNZ](http://tvnz.co.nz/view/page/1316907/1586655)
 

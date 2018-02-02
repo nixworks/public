@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/7/the-mississippi-hospitality-and-restaurant-assoc
 
 ### [2016-04-7](/news/2016/04/7/index.md)
 
+##### LGBT rights in the United States
 # The Mississippi Hospitality and Restaurant Association, in response to the potential backlash from Mississippi Governor Phil Bryant's signing of the known-as "religious freedom" bill which permits denial of services because of religious belief, will distribute decals that say "Everyone's Welcome Here." Mike Cashion, MHRA director, says the bill "created a level of controversy" that affects Mississippi's image. 
 
 

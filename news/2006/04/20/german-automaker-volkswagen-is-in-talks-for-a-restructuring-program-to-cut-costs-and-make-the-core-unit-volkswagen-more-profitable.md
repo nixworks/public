@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/04/20/german-automaker-volkswagen-is-in-talks-for-a-restructuring-program-to-cut-costs-and-make-the-core-unit-volkswagen-more-profitable.html)  [JSON](/news/2006/04/20/german-automaker-volkswagen-is-in-talks-for-a-restructuring-program-to-cut-costs-and-make-the-core-unit-volkswagen-more-profitable.json)  [XML](/news/2006/04/20/german-automaker-volkswagen-is-in-talks-for-a-restructuring-program-to-cut-costs-and-make-the-core-unit-volkswagen-more-profitable.xml)  
+
 ### [2006-04-20](/news/2006/04/20/index.md)
 
+##### Volkswagen
 #  German automaker Volkswagen is in talks for a restructuring program to cut costs and make the core unit Volkswagen more profitable. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo](http://news.yahoo.com/s/ap/20060419/ap_on_bi_ge/germany_volkswagen_2)
+1. [AP via Yahoo](https://news.yahoo.com/s/ap/20060419/ap_on_bi_ge/germany_volkswagen_2)
 
 ### Related:
 

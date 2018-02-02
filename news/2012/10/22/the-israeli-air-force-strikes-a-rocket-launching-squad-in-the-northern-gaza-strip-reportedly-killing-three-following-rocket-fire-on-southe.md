@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/22/the-israeli-air-force-strikes-a-rocket-launching-squad-in-the-northern-gaza-strip-reportedly-killing-three-following-rocket-fire-on-southe.html)  [JSON](/news/2012/10/22/the-israeli-air-force-strikes-a-rocket-launching-squad-in-the-northern-gaza-strip-reportedly-killing-three-following-rocket-fire-on-southe.json)  [XML](/news/2012/10/22/the-israeli-air-force-strikes-a-rocket-launching-squad-in-the-northern-gaza-strip-reportedly-killing-three-following-rocket-fire-on-southe.xml)  
+
 ### [2012-10-22](/news/2012/10/22/index.md)
 
+##### Israeli air force
 # The Israeli air force strikes a rocket launching squad in the northern Gaza Strip, reportedly killing three, following rocket fire on southern Israel from Gaza and a mortar attack on an IDF patrol near the border. 
 
 Two fighters killed in Gaza as Israeli troops allegedly crossed into the Gaza Strip in response to mortar fire.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/20121022101124772940.html)
 2. [The Times of Israel](http://www.timesofisrael.com/air-force-kills-two-in-gaza-airstrike/)
@@ -13,8 +17,8 @@ Two fighters killed in Gaza as Israeli troops allegedly crossed into the Gaza St
 
 ### Related:
 
-1. [The Israeli Air Force launches airstrikes on targets in the Gaza Strip after Palestinians fire a rocket from Gaza at the Eshkol region in southern Israel. ](/news/2013/12/26/the-israeli-air-force-launches-airstrikes-on-targets-in-the-gaza-strip-after-palestinians-fire-a-rocket-from-gaza-at-the-eshkol-region-in-so.md) _Context: Gaza Strip, Israeli Air Force, southern Israel_
-2. [In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. ](/news/2015/10/1/in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-suspected-hamas-positions.md) _Context: Gaza Strip, Israeli Air Force_
-3. [The death toll in the Gaza Strip since the beginning of Israeli air strikes reaches 120. The IAF has performed over 1,300 airstrikes since the beginning of the operation. ](/news/2014/07/12/the-death-toll-in-the-gaza-strip-since-the-beginning-of-israeli-air-strikes-reaches-120-the-iaf-has-performed-over-1-300-airstrikes-since-t.md) _Context: Gaza Strip, Israeli Air Force_
-4. [The Israeli Air Force strikes targets in the Gaza Strip in response to ongoing rocket fire from the Palestinian territory. ](/news/2014/01/31/the-israeli-air-force-strikes-targets-in-the-gaza-strip-in-response-to-ongoing-rocket-fire-from-the-palestinian-territory.md) _Context: Gaza Strip, Israeli Air Force_
-5. [The Israeli Air Force carries out an air strike seriously injuring one Palestinian Islamic Jihad operative in the Gaza Strip and wounding two others. ](/news/2014/01/19/the-israeli-air-force-carries-out-an-air-strike-seriously-injuring-one-palestinian-islamic-jihad-operative-in-the-gaza-strip-and-wounding-tw.md) _Context: Gaza Strip, Israeli Air Force_
+1. [The Israeli Air Force launches airstrikes on targets in the Gaza Strip after Palestinians fire a rocket from Gaza at the Eshkol region in southern Israel. ](/news/2013/12/26/the-israeli-air-force-launches-airstrikes-on-targets-in-the-gaza-strip-after-palestinians-fire-a-rocket-from-gaza-at-the-eshkol-region-in-so.md) _Context: Gaza Strip, southern Israel_
+2. [The Israeli air force launches early morning airstrikes on smuggling tunnels along Gaza-Egypt border as well as a Hamas training camp in Gaza following Palestinian militants' rocket attacks against Beersheba and Ashkelon, Israel. ](/news/2011/03/24/the-israeli-air-force-launches-early-morning-airstrikes-on-smuggling-tunnels-along-gaza-egypt-border-as-well-as-a-hamas-training-camp-in-gaz.md) _Context: Gaza Strip, Israeli air force_
+3. [ At least 66 Israeli troops are wounded when a Qassam rocket from Gaza Strip hits an Israeli Defence Forces training base in Southern Israel. ](/news/2007/09/11/at-least-66-israeli-troops-are-wounded-when-a-qassam-rocket-from-gaza-strip-hits-an-israeli-defence-forces-training-base-in-southern-israel.md) _Context: Gaza Strip, southern Israel_
+4. [Hundreds of people protest on the West Bank and in Gaza for the third day in a row. ](/news/2017/12/9/hundreds-of-people-protest-on-the-west-bank-and-in-gaza-for-the-third-day-in-a-row.md) _Context: Gaza Strip_
+5. [Militant Palestinians fire rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-intercepted-t.md) _Context: Gaza Strip_

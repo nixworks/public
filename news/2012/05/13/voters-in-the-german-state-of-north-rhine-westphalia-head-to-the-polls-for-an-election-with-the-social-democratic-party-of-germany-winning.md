@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/13/voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-for-an-election-with-the-social-democratic-party-of-germany-winning.html)  [JSON](/news/2012/05/13/voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-for-an-election-with-the-social-democratic-party-of-germany-winning.json)  [XML](/news/2012/05/13/voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-for-an-election-with-the-social-democratic-party-of-germany-winning.xml)  
+
 ### [2012-05-13](/news/2012/05/13/index.md)
 
+##### German
 # Voters in the German state of North Rhine-Westphalia head to the polls for an election, with the Social Democratic Party of Germany winning the most votes, allowing it to continue in government with the support of the Greens. 
 
 Angela Merkel&#039;s conservative party suffers a crushing defeat in a crucial state vote ahead of Germany&#039;s national elections next year.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Cleveland Plain-Dealer](http://www.cleveland.com/newsflash/index.ssf/story/merkel-risks-setback-in-german-state-vote/c6fdf6b2aa684b2c92405ef8176379ca)
 2. [Reuters via ABC Australia](http://www.abc.net.au/news/2012-05-14/merkels-party-routed-in-state-polls/4008830)

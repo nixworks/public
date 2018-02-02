@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/2/russian-arms-dealer-viktor-bout-is-convicted-in-new-york-city-for-conspiracy-to-smuggle-weapons-to-the-colombian-terrorist-group-farc.html)  [JSON](/news/2011/11/2/russian-arms-dealer-viktor-bout-is-convicted-in-new-york-city-for-conspiracy-to-smuggle-weapons-to-the-colombian-terrorist-group-farc.json)  [XML](/news/2011/11/2/russian-arms-dealer-viktor-bout-is-convicted-in-new-york-city-for-conspiracy-to-smuggle-weapons-to-the-colombian-terrorist-group-farc.xml)  
+
 ### [2011-11-2](/news/2011/11/2/index.md)
 
+##### Russian
 # Russian arms dealer Viktor Bout is convicted in New York City for conspiracy to smuggle weapons to the Colombian terrorist group FARC. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/nov/02/viktour-bout-convicted-arms-deal)
 

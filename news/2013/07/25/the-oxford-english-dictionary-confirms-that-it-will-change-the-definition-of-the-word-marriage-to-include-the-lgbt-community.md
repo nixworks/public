@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2013/07/25/the-oxford-english-dictionary-confirms-that-it-will-change-the-definition-of-the-word-marriage-to-include-the-lgbt-community.html)  [JSON](/news/2013/07/25/the-oxford-english-dictionary-confirms-that-it-will-change-the-definition-of-the-word-marriage-to-include-the-lgbt-community.json)  [XML](/news/2013/07/25/the-oxford-english-dictionary-confirms-that-it-will-change-the-definition-of-the-word-marriage-to-include-the-lgbt-community.xml)  
+
 ### [2013-07-25](/news/2013/07/25/index.md)
 
+##### Oxford English Dictionary
 # The "Oxford English Dictionary" confirms that it will change the definition of the word "marriage" to include the LGBT community. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-2377485/Dictionary-change-entry-marriage-include-gay-people-sex-weddings-enshrined-law.html)
 
 ### Related:
 
-1. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: same-sex marriage_
-2. [A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _Context: same-sex marriage_
-3. [The Bundestag votes to introduce same-sex marriage in Germany. With 393 votes in favor and 226 against, including Chancellor Angela Merkel, the law is expected to enter into force before the end of the year. ](/news/2017/06/30/the-bundestag-votes-to-introduce-same-sex-marriage-in-germany-with-393-votes-in-favor-and-226-against-including-chancellor-angela-merkel.md) _Context: same-sex marriage_
-4. [German same-sex couples may be able to marry after Chancellor Angela Merkel drops her opposition for a parliamentary vote. ](/news/2017/06/29/german-same-sex-couples-may-be-able-to-marry-after-chancellor-angela-merkel-drops-her-opposition-for-a-parliamentary-vote.md) _Context: same-sex marriage_
-5. [Governor Nathan Deal, of the American state of Georgia, vetoes a religious liberties bill that would have protected people whose religious beliefs don't include same-sex marriage. ](/news/2016/03/28/governor-nathan-deal-of-the-american-state-of-georgia-vetoes-a-religious-liberties-bill-that-would-have-protected-people-whose-religious-b.md) _Context: same-sex marriage_
+1. [Kim Davis, the Rowan County, Kentucky, clerk, is jailed for contempt of court for continuing to refuse, on grounds of religious freedom, to issue marriage licenses to same-sex couples per U.S. District Judge David Bunning's August 12, 2015, order. The deputy clerks are ordered to issue these licenses. ](/news/2015/09/3/kim-davis-the-rowan-county-kentucky-clerk-is-jailed-for-contempt-of-court-for-continuing-to-refuse-on-grounds-of-religious-freedom-to.md) _Context: same-sex couples_
+2. [A Christian-owned Indiana pizza shop closes its doors after receiving death and arson threats in response to the restaurant's saying it would not cater a same-sex wedding; the owners are afraid they may close permanently or leave town. ](/news/2015/04/2/a-christian-owned-indiana-pizza-shop-closes-its-doors-after-receiving-death-and-arson-threats-in-response-to-the-restaurant-s-saying-it-woul.md) _Context: same-sex couples_
+3. [Same-sex marriage in Oregon becomes legal as a U.S. federal district court judge rules that the state's ban on such marriages violates equal protection rights under the Fourteenth Amendment to the United States Constitution.](/news/2014/05/19/same-sex-marriage-in-oregon-becomes-legal-as-a-u-s-federal-district-court-judge-rules-that-the-state-s-ban-on-such-marriages-violates-equal.md) _Context: same-sex couples_
+4. [Same-sex marriage is legalized in the U.S. state of New Mexico. ](/news/2013/12/19/same-sex-marriage-is-legalized-in-the-u-s-state-of-new-mexico.md) _Context: same-sex couples_
+5. [President Obama provides temporary relief for illegal immigrants who are students, veterans, the elderly, crime victims and those with family, including same-sex partners, as part of immigration reform in the United States. ](/news/2011/08/23/president-obama-provides-temporary-relief-for-illegal-immigrants-who-are-students-veterans-the-elderly-crime-victims-and-those-with-famil.md) _Context: same-sex couples_

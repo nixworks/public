@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/the-syrian-military-continues-to-crack-down-on-protesters-with-students-in-the-city-of-aleppo-the-latest-target.html)  [JSON](/news/2011/05/12/the-syrian-military-continues-to-crack-down-on-protesters-with-students-in-the-city-of-aleppo-the-latest-target.json)  [XML](/news/2011/05/12/the-syrian-military-continues-to-crack-down-on-protesters-with-students-in-the-city-of-aleppo-the-latest-target.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### Syria
 # The Syrian military continues to crack down on protesters, with students in the city of Aleppo the latest target. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://blogs.aljazeera.net/live/middle-east/syria-live-blog-may-12)
 

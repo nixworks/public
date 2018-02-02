@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/14/president-elect-adama-barrow-travels-to-the-mal
 
 ### [2017-01-14](/news/2017/01/14/index.md)
 
+##### Gambian presidential election, 2016
 # President-elect Adama Barrow travels to the Malian capital of Bamako to meet with world leaders after yesterday's failed attempts at persuading incumbent president Yahya Jammeh to step down at the end of his term. 
 
 Winner of presidential vote heads to Bamako as last-ditch regional attempts to persuade Yahya Jammeh to step down fail.

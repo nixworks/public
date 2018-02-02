@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/7/at-least-eleven-people-are-killed-following-bombings-in-the-pakistan-city-of-quetta.html)  [JSON](/news/2011/09/7/at-least-eleven-people-are-killed-following-bombings-in-the-pakistan-city-of-quetta.json)  [XML](/news/2011/09/7/at-least-eleven-people-are-killed-following-bombings-in-the-pakistan-city-of-quetta.xml)  
+
 ### [2011-09-7](/news/2011/09/7/index.md)
 
+##### Pakistan
 # At least eleven people are killed following bombings in the Pakistan city of Quetta. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dawn](http://www.dawn.com/2011/09/07/twin-blasts-near-quetta-commissioner-office.html)
 

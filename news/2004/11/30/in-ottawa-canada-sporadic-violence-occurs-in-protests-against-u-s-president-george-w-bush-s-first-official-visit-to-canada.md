@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/11/30/in-ottawa-canada-sporadic-violence-occurs-in-protests-against-u-s-president-george-w-bush-s-first-official-visit-to-canada.html)  [JSON](/news/2004/11/30/in-ottawa-canada-sporadic-violence-occurs-in-protests-against-u-s-president-george-w-bush-s-first-official-visit-to-canada.json)  [XML](/news/2004/11/30/in-ottawa-canada-sporadic-violence-occurs-in-protests-against-u-s-president-george-w-bush-s-first-official-visit-to-canada.xml)  
+
 ### [2004-11-30](/news/2004/11/30/index.md)
 
+##### Ottawa
 #  In Ottawa, Canada, sporadic violence occurs in protests against U.S. President George W. Bush's first official visit to Canada. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2004/11/30/bush_arrives041130.html)
-2. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20041130.wshrub1130/BNStory/Front/)
+2. [Globe and Mail](https://www.theglobeandmail.com/servlet/story/RTGAM.20041130.wshrub1130/BNStory/Front/)
 
 ### Related:
 

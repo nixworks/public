@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/10/mohamed-nasheed-former-president-of-the-maldives-demands-new-elections-and-threatens-protests-if-the-new-government-meet-the-demands.html)  [JSON](/news/2012/02/10/mohamed-nasheed-former-president-of-the-maldives-demands-new-elections-and-threatens-protests-if-the-new-government-meet-the-demands.json)  [XML](/news/2012/02/10/mohamed-nasheed-former-president-of-the-maldives-demands-new-elections-and-threatens-protests-if-the-new-government-meet-the-demands.xml)  
+
 ### [2012-02-10](/news/2012/02/10/index.md)
 
+##### Mohamed Nasheed
 # Mohamed Nasheed, former president of the Maldives, demands new elections and threatens protests if the new government meet the demands. 
 
 The former president of the Maldives, Mohamed Nasheed, on Friday demanded new elections and vowed mass street protests if the new government did not relent, raising the prospect of a protracted crisis on the Indian Ocean islands famed as a beach paradise.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2012/02/10/uk-maldives-idUKTRE8180LG20120210)
 1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20120210&t=2&i=569080823&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-02-10T112828Z_1_BTRE8190VVH00_RTROPTP_0_MALDIVES)

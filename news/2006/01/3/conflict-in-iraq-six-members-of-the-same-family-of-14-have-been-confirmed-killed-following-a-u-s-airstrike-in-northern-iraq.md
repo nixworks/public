@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/3/conflict-in-iraq-six-members-of-the-same-family-of-14-have-been-confirmed-killed-following-a-u-s-airstrike-in-northern-iraq.html)  [JSON](/news/2006/01/3/conflict-in-iraq-six-members-of-the-same-family-of-14-have-been-confirmed-killed-following-a-u-s-airstrike-in-northern-iraq.json)  [XML](/news/2006/01/3/conflict-in-iraq-six-members-of-the-same-family-of-14-have-been-confirmed-killed-following-a-u-s-airstrike-in-northern-iraq.xml)  
+
 ### [2006-01-3](/news/2006/01/3/index.md)
 
+##### Iraqi insurgency
 #  Conflict in Iraq: Six members of the same family of 14 have been confirmed killed following a U.S. airstrike in Northern Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4577578.stm)
 

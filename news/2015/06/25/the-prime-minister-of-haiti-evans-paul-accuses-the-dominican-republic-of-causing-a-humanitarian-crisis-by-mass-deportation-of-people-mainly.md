@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/25/the-prime-minister-of-haiti-evans-paul-accuses-the-dominican-republic-of-causing-a-humanitarian-crisis-by-mass-deportation-of-people-mainly.html)  [JSON](/news/2015/06/25/the-prime-minister-of-haiti-evans-paul-accuses-the-dominican-republic-of-causing-a-humanitarian-crisis-by-mass-deportation-of-people-mainly.json)  [XML](/news/2015/06/25/the-prime-minister-of-haiti-evans-paul-accuses-the-dominican-republic-of-causing-a-humanitarian-crisis-by-mass-deportation-of-people-mainly.xml)  
+
 ### [2015-06-25](/news/2015/06/25/index.md)
 
+##### Prime Minister of Haiti
 # The Prime Minister of Haiti Evans Paul accuses the Dominican Republic of causing a humanitarian crisis by mass deportation of people mainly from Haiti. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Star Tribune](http://www.startribune.com/haiti-dominican-deportations-causing-humanitarian-crisis/309928721/)
 

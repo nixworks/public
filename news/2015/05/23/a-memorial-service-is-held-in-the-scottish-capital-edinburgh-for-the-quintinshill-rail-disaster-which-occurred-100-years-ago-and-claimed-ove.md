@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/23/a-memorial-service-is-held-in-the-scottish-capital-edinburgh-for-the-quintinshill-rail-disaster-which-occurred-100-years-ago-and-claimed-ove.html)  [JSON](/news/2015/05/23/a-memorial-service-is-held-in-the-scottish-capital-edinburgh-for-the-quintinshill-rail-disaster-which-occurred-100-years-ago-and-claimed-ove.json)  [XML](/news/2015/05/23/a-memorial-service-is-held-in-the-scottish-capital-edinburgh-for-the-quintinshill-rail-disaster-which-occurred-100-years-ago-and-claimed-ove.xml)  
+
 ### [2015-05-23](/news/2015/05/23/index.md)
 
+##### Scotland
 # A memorial service is held in the Scottish capital Edinburgh for the Quintinshill rail disaster which occurred 100 years ago and claimed over 200 lives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-scotland-edinburgh-east-fife-32857898)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83185000/jpg/_83185757_83185756.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/5/the-united-states-department-of-justice-charges-
 
 ### [2016-10-5](/news/2016/10/5/index.md)
 
+##### U.S. Justice Department
 # The United States Department of Justice charges a top secret security clearance National Security Agency contractor, Harold Thomas Martin III, with theft of government property and unauthorised removal of "highly classified" materials. 
 
 A National Security Agency contractor is accused of stealing top secret files that could have caused &quot;exceptionally grave damage to national security&quot;.

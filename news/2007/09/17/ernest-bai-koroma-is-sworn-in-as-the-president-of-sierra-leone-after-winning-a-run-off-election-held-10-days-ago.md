@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/17/ernest-bai-koroma-is-sworn-in-as-the-president-of-sierra-leone-after-winning-a-run-off-election-held-10-days-ago.html)  [JSON](/news/2007/09/17/ernest-bai-koroma-is-sworn-in-as-the-president-of-sierra-leone-after-winning-a-run-off-election-held-10-days-ago.json)  [XML](/news/2007/09/17/ernest-bai-koroma-is-sworn-in-as-the-president-of-sierra-leone-after-winning-a-run-off-election-held-10-days-ago.xml)  
+
 ### [2007-09-17](/news/2007/09/17/index.md)
 
+##### Ernest Bai Koroma
 #  Ernest Bai Koroma is sworn in as the President of Sierra Leone after winning a run-off election held 10 days ago. 
 
 Sierra Leone&#039;s Opposition leader has been sworn in as the country&#039;s new President after being declared the victor 10 days after a run-off election.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/18/2035858.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

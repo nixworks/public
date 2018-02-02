@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/17/the-military-of-fiji-issues-an-ultimatum-to-the-government-to-drop-legislation-which-would-give-an-amnesty-to-the-leaders-of-the-2000-coup.html)  [JSON](/news/2006/10/17/the-military-of-fiji-issues-an-ultimatum-to-the-government-to-drop-legislation-which-would-give-an-amnesty-to-the-leaders-of-the-2000-coup.json)  [XML](/news/2006/10/17/the-military-of-fiji-issues-an-ultimatum-to-the-government-to-drop-legislation-which-would-give-an-amnesty-to-the-leaders-of-the-2000-coup.xml)  
+
 ### [2006-10-17](/news/2006/10/17/index.md)
 
+##### military government
 #  The military of Fiji issues an ultimatum to the government to drop legislation which would give an amnesty to the leaders of the 2000 coup, or resign. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SMH](http://www.smh.com.au/news/world/fiji-military-to-government-resign-or-else/2006/10/17/1160850913127.html)
 

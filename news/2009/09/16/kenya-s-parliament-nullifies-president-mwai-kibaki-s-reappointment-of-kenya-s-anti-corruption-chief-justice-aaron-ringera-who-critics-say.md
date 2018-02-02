@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/16/kenya-s-parliament-nullifies-president-mwai-kibaki-s-reappointment-of-kenya-s-anti-corruption-chief-justice-aaron-ringera-who-critics-say.html)  [JSON](/news/2009/09/16/kenya-s-parliament-nullifies-president-mwai-kibaki-s-reappointment-of-kenya-s-anti-corruption-chief-justice-aaron-ringera-who-critics-say.json)  [XML](/news/2009/09/16/kenya-s-parliament-nullifies-president-mwai-kibaki-s-reappointment-of-kenya-s-anti-corruption-chief-justice-aaron-ringera-who-critics-say.xml)  
+
 ### [2009-09-16](/news/2009/09/16/index.md)
 
+##### Kenya
 #  Kenya's parliament nullifies President Mwai Kibaki's reappointment of Kenya's anti-corruption chief, Justice Aaron Ringera, who critics say has shown little interest in fighting graft. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=87&art_id=nw20090916223252835C819002)
 

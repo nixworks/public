@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/3/exploration-of-mars-the-first-of-the-mars-exploration-rovers-spirit-has-successfully-landed-on-the-martian-surface-with-a-very-strong-s.html)  [JSON](/news/2004/01/3/exploration-of-mars-the-first-of-the-mars-exploration-rovers-spirit-has-successfully-landed-on-the-martian-surface-with-a-very-strong-s.json)  [XML](/news/2004/01/3/exploration-of-mars-the-first-of-the-mars-exploration-rovers-spirit-has-successfully-landed-on-the-martian-surface-with-a-very-strong-s.xml)  
+
 ### [2004-01-3](/news/2004/01/3/index.md)
 
+##### route
 #  Exploration of Mars: The first of the Mars Exploration Rovers, Spirit, has successfully landed on the Martian surface with a "very strong signal" being received from the lander. It was a tense few minutes as no signal was received from the lander during the minutes while it bounced over the surface. Mission Control is described as being a wild place with the mission scientists very happy. The first pictures are expected at the earliest around 0730 UTC url=http:--spaceflightnow.com-mars-mera-statustextonly.html Mars &#124; Mission Status Center Now 
 
 

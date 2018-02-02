@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/07/29/iraq-beats-saudi-arabia-to-win-the-asian-cup-creating-a-rare-moment-of-recent-national-unity.html)  [JSON](/news/2007/07/29/iraq-beats-saudi-arabia-to-win-the-asian-cup-creating-a-rare-moment-of-recent-national-unity.json)  [XML](/news/2007/07/29/iraq-beats-saudi-arabia-to-win-the-asian-cup-creating-a-rare-moment-of-recent-national-unity.xml)  
+
 ### [2007-07-29](/news/2007/07/29/index.md)
 
+##### Iraq
 #  Iraq beats Saudi Arabia to win the Asian Cup, creating a rare moment of recent national unity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/sportsNews/idUKSP26426720070729?feedType=RSS&rpc=451)
-2. [The New York Times](http://www.nytimes.com/aponline/world/AP-Iraq.html)
+2. [The New York Times](https://www.nytimes.com/aponline/world/AP-Iraq.html)
 2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20070729&t=2&i=1210639&w=&fh=545px&fw=&ll=&pl=&sq=&r=1210639)
 
 ### Related:

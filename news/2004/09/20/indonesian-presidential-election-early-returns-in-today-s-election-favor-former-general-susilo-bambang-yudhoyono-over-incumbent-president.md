@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/20/indonesian-presidential-election-early-returns-in-today-s-election-favor-former-general-susilo-bambang-yudhoyono-over-incumbent-president.html)  [JSON](/news/2004/09/20/indonesian-presidential-election-early-returns-in-today-s-election-favor-former-general-susilo-bambang-yudhoyono-over-incumbent-president.json)  [XML](/news/2004/09/20/indonesian-presidential-election-early-returns-in-today-s-election-favor-former-general-susilo-bambang-yudhoyono-over-incumbent-president.xml)  
+
 ### [2004-09-20](/news/2004/09/20/index.md)
 
+##### Indonesia
 #  Indonesian presidential election: Early returns in today's election favor former general Susilo Bambang Yudhoyono over incumbent President Megawati Sukarnoputri 61 to 39 percent. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KPU](http://tnp.kpu.go.id/)
 

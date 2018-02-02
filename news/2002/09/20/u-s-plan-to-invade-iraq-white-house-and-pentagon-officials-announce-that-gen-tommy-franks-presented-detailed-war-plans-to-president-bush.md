@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/20/u-s-plan-to-invade-iraq-white-house-and-pentagon-officials-announce-that-gen-tommy-franks-presented-detailed-war-plans-to-president-bush.html)  [JSON](/news/2002/09/20/u-s-plan-to-invade-iraq-white-house-and-pentagon-officials-announce-that-gen-tommy-franks-presented-detailed-war-plans-to-president-bush.json)  [XML](/news/2002/09/20/u-s-plan-to-invade-iraq-white-house-and-pentagon-officials-announce-that-gen-tommy-franks-presented-detailed-war-plans-to-president-bush.xml)  
+
 ### [2002-09-20](/news/2002/09/20/index.md)
 
+##### 2003 invasion of Iraq
 #  U.S. plan to invade Iraq: White House and Pentagon officials announce that Gen. Tommy Franks presented detailed war plans to President Bush in early September.
 
 

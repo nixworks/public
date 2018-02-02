@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/19/former-congressman-bob-mcewen-of-ohio-is-considering-challenging-incumbent-jean-schmidt-in-the-2006-republican-primary.html)  [JSON](/news/2005/10/19/former-congressman-bob-mcewen-of-ohio-is-considering-challenging-incumbent-jean-schmidt-in-the-2006-republican-primary.json)  [XML](/news/2005/10/19/former-congressman-bob-mcewen-of-ohio-is-considering-challenging-incumbent-jean-schmidt-in-the-2006-republican-primary.xml)  
+
 ### [2005-10-19](/news/2005/10/19/index.md)
 
+##### Bob McEwen
 #  Former Congressman Bob McEwen of Ohio is considering challenging incumbent Jean Schmidt in the 2006 Republican primary. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Cincinnati Enquirer](http://news.enquirer.com/apps/pbcs.dll/article?AID=/20051019/NEWS01/510190407/-1/all)
 

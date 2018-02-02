@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2016/03/28/as-part-of-its-wider-military-build-up-along-the-japanese-archipelagos-in-the-east-china-sea-japan-activates-a-new-radar-station-on-the-is.html)  [JSON](/news/2016/03/28/as-part-of-its-wider-military-build-up-along-the-japanese-archipelagos-in-the-east-china-sea-japan-activates-a-new-radar-station-on-the-is.json)  [XML](/news/2016/03/28/as-part-of-its-wider-military-build-up-along-the-japanese-archipelagos-in-the-east-china-sea-japan-activates-a-new-radar-station-on-the-is.xml)  
+
 ### [2016-03-28](/news/2016/03/28/index.md)
 
+##### China-Japan relations
 #  As part of its wider military build up along the Japanese archipelagos in the East China Sea, Japan activates a new radar station on the island of Yonaguni that is close to the disputed Senkaku Islands. 
 
 Japan on Monday switched on a radar station in the East China Sea, giving it a permanent intelligence gathering post close to Taiwan and a group of islands disputed by Japan and China, drawing an angry response from Beijing.
@@ -7,8 +11,8 @@ Japan on Monday switched on a radar station in the East China Sea, giving it a p
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-japan-china-eastchinasea-idUSKCN0WT0QZ)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160328&t=2&i=1128273917&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2R05U)
+1. [Reuters](https://www.reuters.com/article/us-japan-china-eastchinasea-idUSKCN0WT0QZ)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160328&t=2&i=1128273917&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2R05U)
 
 ### Changes:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/17/the-new-jersey-devils-martin-brodeur-passes-patrick-roy-to-becomes-the-national-hockey-league-s-winningest-goaltender.html)  [JSON](/news/2009/03/17/the-new-jersey-devils-martin-brodeur-passes-patrick-roy-to-becomes-the-national-hockey-league-s-winningest-goaltender.json)  [XML](/news/2009/03/17/the-new-jersey-devils-martin-brodeur-passes-patrick-roy-to-becomes-the-national-hockey-league-s-winningest-goaltender.xml)  
+
 ### [2009-03-17](/news/2009/03/17/index.md)
 
+##### New Jersey Devils
 #  The New Jersey Devils' Martin Brodeur passes Patrick Roy to becomes the National Hockey League's winningest goaltender. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://espn.go.com/nhl/recap?gameId=290317011)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)

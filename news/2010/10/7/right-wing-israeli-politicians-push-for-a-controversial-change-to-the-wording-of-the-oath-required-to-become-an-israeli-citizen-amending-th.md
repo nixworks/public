@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/7/right-wing-israeli-politicians-push-for-a-controversial-change-to-the-wording-of-the-oath-required-to-become-an-israeli-citizen-amending-th.html)  [JSON](/news/2010/10/7/right-wing-israeli-politicians-push-for-a-controversial-change-to-the-wording-of-the-oath-required-to-become-an-israeli-citizen-amending-th.json)  [XML](/news/2010/10/7/right-wing-israeli-politicians-push-for-a-controversial-change-to-the-wording-of-the-oath-required-to-become-an-israeli-citizen-amending-th.xml)  
+
 ### [2010-10-7](/news/2010/10/7/index.md)
 
+##### Israel
 # Right-wing Israeli politicians push for a controversial change to the wording of the oath required to become an Israeli citizen, amending the wording so that potential citizens must promise to respect Israel as a "Jewish and democratic state". 
 
 Israeli PM Benjamin Netanyahu re-introduces a controversial proposal to require new citizens to take an oath of loyalty to the Jewish state.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11491988)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

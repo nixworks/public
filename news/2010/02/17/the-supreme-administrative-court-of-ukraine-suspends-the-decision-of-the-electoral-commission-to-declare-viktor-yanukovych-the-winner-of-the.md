@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/17/the-supreme-administrative-court-of-ukraine-suspends-the-decision-of-the-electoral-commission-to-declare-viktor-yanukovych-the-winner-of-the.html)  [JSON](/news/2010/02/17/the-supreme-administrative-court-of-ukraine-suspends-the-decision-of-the-electoral-commission-to-declare-viktor-yanukovych-the-winner-of-the.json)  [XML](/news/2010/02/17/the-supreme-administrative-court-of-ukraine-suspends-the-decision-of-the-electoral-commission-to-declare-viktor-yanukovych-the-winner-of-the.xml)  
+
 ### [2010-02-17](/news/2010/02/17/index.md)
 
+##### Supreme Administrative Court of Ukraine
 # The Supreme Administrative Court of Ukraine suspends the decision of the Electoral Commission to declare Viktor Yanukovych the winner of the Ukrainian presidential election until the court has decided on the complaints brought by the other candidate, Prime Minister Yulia Tymoshenko. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [La Libre Belgique](http://www.lalibre.be/actu/international/article/563554/ukraine-le-resultat-de-l-election-presidentielle-suspendu.html)
 1. [Cover Image](http://r2.llb.be/image/04/51b8b71ae4b0de6db9ba2904.jpg)

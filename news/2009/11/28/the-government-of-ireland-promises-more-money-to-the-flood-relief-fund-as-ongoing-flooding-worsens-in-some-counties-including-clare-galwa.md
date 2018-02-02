@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/28/the-government-of-ireland-promises-more-money-to-the-flood-relief-fund-as-ongoing-flooding-worsens-in-some-counties-including-clare-galwa.html)  [JSON](/news/2009/11/28/the-government-of-ireland-promises-more-money-to-the-flood-relief-fund-as-ongoing-flooding-worsens-in-some-counties-including-clare-galwa.json)  [XML](/news/2009/11/28/the-government-of-ireland-promises-more-money-to-the-flood-relief-fund-as-ongoing-flooding-worsens-in-some-counties-including-clare-galwa.xml)  
+
 ### [2009-11-28](/news/2009/11/28/index.md)
 
+##### Government of Ireland
 #  The Government of Ireland promises more money to the flood relief fund as ongoing flooding worsens in some counties, including Clare, Galway and Offaly. 
 
 The Government has confirmed that further financial assistance will be made available to victims of the recent flooding.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1128/weather.html)
 1. [Cover Image](https://img.rasset.ie/0002c9f6-1600.jpg)

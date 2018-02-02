@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/30/philippines-senator-jinggoy-estrada-is-arrested-for-alleged-corruption.html)  [JSON](/news/2014/06/30/philippines-senator-jinggoy-estrada-is-arrested-for-alleged-corruption.json)  [XML](/news/2014/06/30/philippines-senator-jinggoy-estrada-is-arrested-for-alleged-corruption.xml)  
+
 ### [2014-06-30](/news/2014/06/30/index.md)
 
+##### senators
 # Philippines Senator Jinggoy Estrada is arrested for alleged corruption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via BND](http://www.bnd.com/2014/06/29/3280949/philippine-court-gives-not-guilty.html)
 

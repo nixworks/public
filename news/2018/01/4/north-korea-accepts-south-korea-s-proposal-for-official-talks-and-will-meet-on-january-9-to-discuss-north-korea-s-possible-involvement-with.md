@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-o
 
 ### [2018-01-4](/news/2018/01/4/index.md)
 
+##### North Korea-South Korea relations
 # North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. 
 
 The talks will pave the way for North Korean athletes to attend the Winter Games in South Korea.

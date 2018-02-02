@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/10/hindu-hardliners-the-vhp-announce-plans-to-pull-down-the-controversial-tomb-of-afzalkhan-on-sunday-in-a-grim-echo-of-the-1992-razing-of.html)  [JSON](/news/2004/09/10/hindu-hardliners-the-vhp-announce-plans-to-pull-down-the-controversial-tomb-of-afzalkhan-on-sunday-in-a-grim-echo-of-the-1992-razing-of.json)  [XML](/news/2004/09/10/hindu-hardliners-the-vhp-announce-plans-to-pull-down-the-controversial-tomb-of-afzalkhan-on-sunday-in-a-grim-echo-of-the-1992-razing-of.xml)  
+
 ### [2004-09-10](/news/2004/09/10/index.md)
 
+##### VHP
 #  Hindu hardliners, the VHP, announce plans to pull down the controversial tomb of Afzalkhan on Sunday, in a grim echo of the 1992 razing of the Babri Mosque in Ayodhya that sparked some of India's worst religious riots. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/articleshow/846500.cms)
 

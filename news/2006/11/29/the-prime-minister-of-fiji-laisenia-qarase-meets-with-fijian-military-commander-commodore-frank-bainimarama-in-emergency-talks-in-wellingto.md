@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/29/the-prime-minister-of-fiji-laisenia-qarase-meets-with-fijian-military-commander-commodore-frank-bainimarama-in-emergency-talks-in-wellingto.html)  [JSON](/news/2006/11/29/the-prime-minister-of-fiji-laisenia-qarase-meets-with-fijian-military-commander-commodore-frank-bainimarama-in-emergency-talks-in-wellingto.json)  [XML](/news/2006/11/29/the-prime-minister-of-fiji-laisenia-qarase-meets-with-fijian-military-commander-commodore-frank-bainimarama-in-emergency-talks-in-wellingto.xml)  
+
 ### [2006-11-29](/news/2006/11/29/index.md)
 
+##### Prime Minister
 #  The Prime Minister of Fiji Laisenia Qarase meets with Fijian military commander Commodore Frank Bainimarama in emergency talks in Wellington, New Zealand aimed at averting a coup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/story/0,23599,20840931-1702,00.html)
 

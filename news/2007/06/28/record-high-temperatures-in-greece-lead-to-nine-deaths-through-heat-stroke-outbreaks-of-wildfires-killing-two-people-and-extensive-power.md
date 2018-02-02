@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2007/06/28/record-high-temperatures-in-greece-lead-to-nine-deaths-through-heat-stroke-outbreaks-of-wildfires-killing-two-people-and-extensive-power.html)  [JSON](/news/2007/06/28/record-high-temperatures-in-greece-lead-to-nine-deaths-through-heat-stroke-outbreaks-of-wildfires-killing-two-people-and-extensive-power.json)  [XML](/news/2007/06/28/record-high-temperatures-in-greece-lead-to-nine-deaths-through-heat-stroke-outbreaks-of-wildfires-killing-two-people-and-extensive-power.xml)  
+
 ### [2007-06-28](/news/2007/06/28/index.md)
 
+##### Greece
 #  Record high temperatures in Greece lead to nine deaths through heat stroke; outbreaks of wildfires, killing two people; and extensive power cuts. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via the Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/06/28/AR2007062801226.html)
+1. [AP via the Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/06/28/AR2007062801226.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:
 
-1. [ At least 20 people are killed in Peloponnese, Greece as a result of 150 wildfires burning out of control: two regions have been declared as disaster areas. ](/news/2007/08/24/at-least-20-people-are-killed-in-peloponnese-greece-as-a-result-of-150-wildfires-burning-out-of-control-two-regions-have-been-declared-as.md) _Context: Greek, Wildfire_
-2. [Wildfires prompt the evacuation of 12,000 people along the French Riviera, while more than 4,000 firefighters and French Armed Forces personnel backed by 19 water-bomber planes are mobilised to extinguish the flames. ](/news/2017/07/26/wildfires-prompt-the-evacuation-of-12-000-people-along-the-french-riviera-while-more-than-4-000-firefighters-and-french-armed-forces-person.md) _Context: Wildfire_
-3. [Firefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/firefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _Context: Wildfire_
-4. [Aftershocks cause panic in the Greek island of Kos after a deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-a-deadly-earthquake-that-injured-hundreds.md) _Context: Greek_
-5. [A 6.7 magnitude earthquake in the Aegean Sea near Greece and Turkey kills two people and injures more than 520 others. ](/news/2017/07/21/a-6-7-magnitude-earthquake-in-the-aegean-sea-near-greece-and-turkey-kills-two-people-and-injures-more-than-520-others.md) _Context: Greek_
+1. [ At least 20 people are killed in Peloponnese, Greece as a result of 150 wildfires burning out of control: two regions have been declared as disaster areas. ](/news/2007/08/24/at-least-20-people-are-killed-in-peloponnese-greece-as-a-result-of-150-wildfires-burning-out-of-control-two-regions-have-been-declared-as.md) _Context: Greece, wildfire_
+2. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" - allegedly bound for Libya, loaded with 410 tonnes of explosives - in Heraklion, Greece. 102 safety deficiencies are found, and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-a-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explos.md) _Context: Greece_
+3. [The President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65-years.md) _Context: Greece_
+4. [Flash floods on the outskirts of the Greek capital Athens kill at least 16 people and injure dozens more after a severe thunderstorm. ](/news/2017/11/15/flash-floods-on-the-outskirts-of-the-greek-capital-athens-kill-at-least-16-people-and-injure-dozens-more-after-a-severe-thunderstorm.md) _Context: Greece_
+5. [Firefighters battle wildfires across southern France, including one in Corsica. ](/news/2017/07/25/firefighters-battle-wildfires-across-southern-france-including-one-in-corsica.md) _Context: wildfire_

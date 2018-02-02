@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/14/two-trains-collide-in-the-northern-indian-state-of-punjab-killing-at-least-37-people-one-of-the-trains-was-carrying-hindu-pilgrims-return.html)  [JSON](/news/2004/12/14/two-trains-collide-in-the-northern-indian-state-of-punjab-killing-at-least-37-people-one-of-the-trains-was-carrying-hindu-pilgrims-return.json)  [XML](/news/2004/12/14/two-trains-collide-in-the-northern-indian-state-of-punjab-killing-at-least-37-people-one-of-the-trains-was-carrying-hindu-pilgrims-return.xml)  
+
 ### [2004-12-14](/news/2004/12/14/index.md)
 
+##### train
 #  Two trains collide in the northern Indian state of Punjab, killing at least 37 people. One of the trains was carrying Hindu pilgrims returning from Vaishno Devi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4094193.stm)
 2. [The Times-UK](http://www.timesonline.co.uk/article/0,,3-1403130,00.html)

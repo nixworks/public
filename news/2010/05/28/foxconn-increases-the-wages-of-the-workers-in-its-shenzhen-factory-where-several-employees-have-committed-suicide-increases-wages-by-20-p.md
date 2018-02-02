@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/28/foxconn-increases-the-wages-of-the-workers-in-its-shenzhen-factory-where-several-employees-have-committed-suicide-increases-wages-by-20-p.html)  [JSON](/news/2010/05/28/foxconn-increases-the-wages-of-the-workers-in-its-shenzhen-factory-where-several-employees-have-committed-suicide-increases-wages-by-20-p.json)  [XML](/news/2010/05/28/foxconn-increases-the-wages-of-the-workers-in-its-shenzhen-factory-where-several-employees-have-committed-suicide-increases-wages-by-20-p.xml)  
+
 ### [2010-05-28](/news/2010/05/28/index.md)
 
+##### Foxconn
 # Foxconn increases the wages of the workers in its Shenzhen factory, where several employees have committed suicide, increases wages, by 20 per cent in an effort to boost morale. 
 
 The owner of a Chinese electronics factory where several employees have committed suicide is to increase wages by 20%.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/10184186.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

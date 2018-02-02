@@ -1,20 +1,18 @@
 
-### Formats:
+Formats: [HTML](/news/2017/05/12/a-bomb-hits-a-convoy-of-the-deputy-chairman-of-the-senate-of-pakistan-abdul-ghafoor-haideri-near-mastung-in-the-province-of-balochistan-k.html)  [JSON](/news/2017/05/12/a-bomb-hits-a-convoy-of-the-deputy-chairman-of-the-senate-of-pakistan-abdul-ghafoor-haideri-near-mastung-in-the-province-of-balochistan-k.json)  [XML](/news/2017/05/12/a-bomb-hits-a-convoy-of-the-deputy-chairman-of-the-senate-of-pakistan-abdul-ghafoor-haideri-near-mastung-in-the-province-of-balochistan-k.xml)  
 
-* [HTML](/news/2017/05/12/a-bomb-hits-a-convoy-of-the-deputy-chairman-of-the-senate-of-pakistan-abdul-ghafoor-haideri-near-mastung-in-the-province-of-balochistan-k.html)
-* [JSON](/news/2017/05/12/a-bomb-hits-a-convoy-of-the-deputy-chairman-of-the-senate-of-pakistan-abdul-ghafoor-haideri-near-mastung-in-the-province-of-balochistan-k.json)
-* [XML](/news/2017/05/12/a-bomb-hits-a-convoy-of-the-deputy-chairman-of-the-senate-of-pakistan-abdul-ghafoor-haideri-near-mastung-in-the-province-of-balochistan-k.xml)
 ### [2017-05-12](/news/2017/05/12/index.md)
 
+##### Deputy Chairman of the Senate of Pakistan
 # A bomb hits a convoy of the Deputy Chairman of the Senate of Pakistan, Abdul Ghafoor Haideri, near Mastung in the province of Balochistan, killing at least 25 people and wounding 35 others, including the Senate's Deputy Chairman. 
 
-A bomb exploded next to a convoy of the deputy chairman of the Pakistan Senate on Friday in the violence-plagued province of Baluchistan, killing at least 25 people, officials said.
+ A bomb exploded next to a convoy of the deputy chairman of the Pakistan Senate on Friday in the violence-plagued province of Baluchistan, killing at least 25 p
 
 
 ### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-pakistan-blast-idUSKBN18815A?il=0)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20170512&t=2&i=1184346110&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPED4B13T)
+1. [Reuters](https://www.reuters.com/article/us-pakistan-blast-idUSKBN18815A?il=0)
+1. [Cover Image](/resources/r/?m=02&d=20170512&t=2&i=1184378615&w=400&r=LYNXMPED4B1HB)
 
 ### Changes:
 

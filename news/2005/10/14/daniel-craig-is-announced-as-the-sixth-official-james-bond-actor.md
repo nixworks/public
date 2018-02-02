@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/10/14/daniel-craig-is-announced-as-the-sixth-official-james-bond-actor.html)  [JSON](/news/2005/10/14/daniel-craig-is-announced-as-the-sixth-official-james-bond-actor.json)  [XML](/news/2005/10/14/daniel-craig-is-announced-as-the-sixth-official-james-bond-actor.xml)  
+
 ### [2005-10-14](/news/2005/10/14/index.md)
 
+##### Daniel Craig
 #  Daniel Craig is announced as the sixth official James Bond actor.
 
 

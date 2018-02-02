@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/30/benazir-bhutto-assassination-bhutto-s-son-bilawal-bhutto-zardari-is-appointed-her-successor-as-chairman-of-the-pakistan-peoples-party-hi.html)  [JSON](/news/2007/12/30/benazir-bhutto-assassination-bhutto-s-son-bilawal-bhutto-zardari-is-appointed-her-successor-as-chairman-of-the-pakistan-peoples-party-hi.json)  [XML](/news/2007/12/30/benazir-bhutto-assassination-bhutto-s-son-bilawal-bhutto-zardari-is-appointed-her-successor-as-chairman-of-the-pakistan-peoples-party-hi.xml)  
+
 ### [2007-12-30](/news/2007/12/30/index.md)
 
+##### Benazir Bhutto assassination
 #  Benazir Bhutto assassination: Bhutto's son, Bilawal Bhutto Zardari is appointed her successor as chairman of the Pakistan Peoples Party. His father, Asif Ali Zardari is named co-chairman. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7164968.stm)
 

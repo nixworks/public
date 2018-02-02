@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/27/two-men-are-convicted-in-st-john-s-antigua-of-the-2008-murders-of-british-honeymoon-couple-ben-and-catherine-mullany.html)  [JSON](/news/2011/07/27/two-men-are-convicted-in-st-john-s-antigua-of-the-2008-murders-of-british-honeymoon-couple-ben-and-catherine-mullany.json)  [XML](/news/2011/07/27/two-men-are-convicted-in-st-john-s-antigua-of-the-2008-murders-of-british-honeymoon-couple-ben-and-catherine-mullany.xml)  
+
 ### [2011-07-27](/news/2011/07/27/index.md)
 
+##### St John's
 # Two men are convicted in St John's, Antigua of the 2008 murders of British honeymoon couple Ben and Catherine Mullany. 
 
 Two men have been convicted of murdering British honeymoon couple Ben and Catherine Mullany on the holiday island of Antigua.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/antiguaandbarbuda/8667067/Antigua-honeymoon-murders-two-men-found-guilty.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01910/Catherine-Mullany_1910668a.jpg)

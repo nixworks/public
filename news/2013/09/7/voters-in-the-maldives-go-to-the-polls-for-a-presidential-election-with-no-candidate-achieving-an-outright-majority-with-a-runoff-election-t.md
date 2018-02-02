@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/7/voters-in-the-maldives-go-to-the-polls-for-a-presidential-election-with-no-candidate-achieving-an-outright-majority-with-a-runoff-election-t.html)  [JSON](/news/2013/09/7/voters-in-the-maldives-go-to-the-polls-for-a-presidential-election-with-no-candidate-achieving-an-outright-majority-with-a-runoff-election-t.json)  [XML](/news/2013/09/7/voters-in-the-maldives-go-to-the-polls-for-a-presidential-election-with-no-candidate-achieving-an-outright-majority-with-a-runoff-election-t.xml)  
+
 ### [2013-09-7](/news/2013/09/7/index.md)
 
+##### Maldives
 # Voters in the Maldives go to the polls for a Presidential election with no candidate achieving an outright majority with a runoff election to be held on September 28. 
 
 The presidential elections in the Maldives will go to a second round after frontrunner Mohamed Nasheed fails to win an outright majority.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23983948)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69683000/jpg/_69683577_69681764.jpg)

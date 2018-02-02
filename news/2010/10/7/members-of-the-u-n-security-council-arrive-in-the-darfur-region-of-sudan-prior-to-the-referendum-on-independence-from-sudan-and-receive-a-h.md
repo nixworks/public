@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/7/members-of-the-u-n-security-council-arrive-in-the-darfur-region-of-sudan-prior-to-the-referendum-on-independence-from-sudan-and-receive-a-h.html)  [JSON](/news/2010/10/7/members-of-the-u-n-security-council-arrive-in-the-darfur-region-of-sudan-prior-to-the-referendum-on-independence-from-sudan-and-receive-a-h.json)  [XML](/news/2010/10/7/members-of-the-u-n-security-council-arrive-in-the-darfur-region-of-sudan-prior-to-the-referendum-on-independence-from-sudan-and-receive-a-h.xml)  
+
 ### [2010-10-7](/news/2010/10/7/index.md)
 
+##### Security Council
 # Members of the U.N. Security Council arrive in the Darfur region of Sudan prior to the referendum on independence from Sudan and receive a hostile welcome from pro-government forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hrc6LWr2Iaob17mZVpeb9YVAwDIQ?docId=CNG.9a2217c8f9372029e402c72d739a5595.01)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11497460)

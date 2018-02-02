@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/10/a-group-of-south-korean-lawmakers-make-a-rare-visit-to-north-korea-s-kaesong-industrial-region.html)  [JSON](/news/2012/02/10/a-group-of-south-korean-lawmakers-make-a-rare-visit-to-north-korea-s-kaesong-industrial-region.json)  [XML](/news/2012/02/10/a-group-of-south-korean-lawmakers-make-a-rare-visit-to-north-korea-s-kaesong-industrial-region.xml)  
+
 ### [2012-02-10](/news/2012/02/10/index.md)
 
+##### South Korea
 # A group of South Korean lawmakers make a rare visit to North Korea's Kaesong Industrial Region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jYauU87wsIgOb1V4spJNgjbhtTTQ?docId=CNG.6c5233828f7dafc5f22f34d32bab9496.1b1)
 

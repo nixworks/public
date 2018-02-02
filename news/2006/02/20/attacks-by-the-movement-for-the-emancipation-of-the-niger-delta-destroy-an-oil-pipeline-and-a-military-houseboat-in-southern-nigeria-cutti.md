@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/20/attacks-by-the-movement-for-the-emancipation-of-the-niger-delta-destroy-an-oil-pipeline-and-a-military-houseboat-in-southern-nigeria-cutti.html)  [JSON](/news/2006/02/20/attacks-by-the-movement-for-the-emancipation-of-the-niger-delta-destroy-an-oil-pipeline-and-a-military-houseboat-in-southern-nigeria-cutti.json)  [XML](/news/2006/02/20/attacks-by-the-movement-for-the-emancipation-of-the-niger-delta-destroy-an-oil-pipeline-and-a-military-houseboat-in-southern-nigeria-cutti.xml)  
+
 ### [2006-02-20](/news/2006/02/20/index.md)
 
+##### Movement for the Emancipation of the Niger Delta
 #  Attacks by the Movement for the Emancipation of the Niger Delta destroy an oil pipeline and a military houseboat in southern Nigeria, cutting crude production by about twenty percent. The recent violence has caused a rise in international oil prices due to supply concerns. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/International/wireStory?id=1641106)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/12/7/voters-in-ghana-go-to-the-polls-for-a-presidential-and-parliamentary-election.html)  [JSON](/news/2012/12/7/voters-in-ghana-go-to-the-polls-for-a-presidential-and-parliamentary-election.json)  [XML](/news/2012/12/7/voters-in-ghana-go-to-the-polls-for-a-presidential-and-parliamentary-election.xml)  
+
 ### [2012-12-7](/news/2012/12/7/index.md)
 
+##### Ghana
 # Voters in Ghana go to the polls for a presidential and parliamentary election. 
 
 Visiting leader Khaled Meshal used a Hamas anniversary rally to restate
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20631933)
-2. [The Washington Post](http://www.washingtonpost.com/world/middle_east/hamas-leader-khaled-meshal-denounces-israel-at-anniversary-rally-in-gaza/2012/12/08/b311c70c-4179-11e2-a2d9-822f58ac9fd5_story.html)
+2. [The Washington Post](https://www.washingtonpost.com/world/middle_east/hamas-leader-khaled-meshal-denounces-israel-at-anniversary-rally-in-gaza/2012/12/08/b311c70c-4179-11e2-a2d9-822f58ac9fd5_story.html)
 2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64636000/jpg/_64636271_64636270.jpg)
 
 ### Related:

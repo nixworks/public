@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-
 
 ### [2017-10-2](/news/2017/10/2/index.md)
 
+##### Assassination of Kim Jong-nam
 # Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. Kim Jong-nam was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/6/hundreds-of-panic-stricken-people-queue-at-hospitals-in-pune-india-to-be-tested-for-swine-flu-following-the-first-death-from-the-disease.html)  [JSON](/news/2009/08/6/hundreds-of-panic-stricken-people-queue-at-hospitals-in-pune-india-to-be-tested-for-swine-flu-following-the-first-death-from-the-disease.json)  [XML](/news/2009/08/6/hundreds-of-panic-stricken-people-queue-at-hospitals-in-pune-india-to-be-tested-for-swine-flu-following-the-first-death-from-the-disease.xml)  
+
 ### [2009-08-6](/news/2009/08/6/index.md)
 
+##### Pune
 #  Hundreds of panic-stricken people queue at hospitals in Pune, India, to be tested for swine flu following the first death from the disease in that country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8187258.stm)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/10/3/2013-mediterranean-sea-migrant-shipwreck-a-fire-engulfs-a-boat-carrying-african-migrants-off-the-coast-of-lampedusa-italy-killing-at-leas.html)  [JSON](/news/2013/10/3/2013-mediterranean-sea-migrant-shipwreck-a-fire-engulfs-a-boat-carrying-african-migrants-off-the-coast-of-lampedusa-italy-killing-at-leas.json)  [XML](/news/2013/10/3/2013-mediterranean-sea-migrant-shipwreck-a-fire-engulfs-a-boat-carrying-african-migrants-off-the-coast-of-lampedusa-italy-killing-at-leas.xml)  
+
 ### [2013-10-3](/news/2013/10/3/index.md)
 
+##### migrant boat sinks
 # 2013 Mediterranean Sea migrant shipwreck. A fire engulfs a boat carrying African migrants off the coast of Lampedusa, Italy, killing at least 114 people, 200 remain missing. 
 
 The deaths of at least 111 people again underscored the dangerous, desperate efforts by many in Africa and the Middle East to reach Europe.
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/ship-capsizes-off-italy-114-african-migrants-die-174151950.html)
-2. [The New York Times](http://www.nytimes.com/2013/10/04/world/europe/scores-die-in-shipwreck-off-sicily.html?_r=0)
+1. [AP](https://news.yahoo.com/ship-capsizes-off-italy-114-african-migrants-die-174151950.html)
+2. [The New York Times](https://www.nytimes.com/2013/10/04/world/europe/scores-die-in-shipwreck-off-sicily.html?_r=0)
 2. [Cover Image](https://static01.nyt.com/images/2013/10/04/world/sicily/sicily-videoSixteenByNine600.jpg)
 
 ### Related:

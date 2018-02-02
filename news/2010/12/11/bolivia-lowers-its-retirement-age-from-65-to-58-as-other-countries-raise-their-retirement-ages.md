@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/11/bolivia-lowers-its-retirement-age-from-65-to-58-as-other-countries-raise-their-retirement-ages.html)  [JSON](/news/2010/12/11/bolivia-lowers-its-retirement-age-from-65-to-58-as-other-countries-raise-their-retirement-ages.json)  [XML](/news/2010/12/11/bolivia-lowers-its-retirement-age-from-65-to-58-as-other-countries-raise-their-retirement-ages.xml)  
+
 ### [2010-12-11](/news/2010/12/11/index.md)
 
+##### Bolivia
 # Bolivia lowers its retirement age from 65 to 58 as other countries raise their retirement ages. 
 
 Bucking a global trend which pushes workers to work longer and older, Bolivians can now retire at age 58, down from 65.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/2010121135142432606.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/11/201012114244547734_20.jpg)

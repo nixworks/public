@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/9/anwar-al-awlaki-a-yemeni-cleric-affiliated-with-al-queda-tells-muslims-in-a-new-video-posting-that-they-are-free-to-kill-american-at-will.html)  [JSON](/news/2010/11/9/anwar-al-awlaki-a-yemeni-cleric-affiliated-with-al-queda-tells-muslims-in-a-new-video-posting-that-they-are-free-to-kill-american-at-will.json)  [XML](/news/2010/11/9/anwar-al-awlaki-a-yemeni-cleric-affiliated-with-al-queda-tells-muslims-in-a-new-video-posting-that-they-are-free-to-kill-american-at-will.xml)  
+
 ### [2010-11-9](/news/2010/11/9/index.md)
 
+##### Anwar al-Awlaki
 # Anwar al-Awlaki, a Yemeni cleric affiliated with al-Queda, tells Muslims in a new video posting that they are free to kill American at will, in retaliation for the killing of civilians in Iraq, Afghanistan and elsewhere. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [   (''The Australian](http://www.theaustralian.com.au/news/world/yemeni-cleric-anwar-al-awlaki-calls-for-americans-to-be-killed/story-e6frg6so-1225950061626)
 

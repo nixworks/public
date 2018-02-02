@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/10/sri-lankan-civil-war-a-claymore-mine-explodes-in-northern-jaffna-killing-five-soldiers-on-patrol-and-two-civilians-working-for-the-carita.html)  [JSON](/news/2006/04/10/sri-lankan-civil-war-a-claymore-mine-explodes-in-northern-jaffna-killing-five-soldiers-on-patrol-and-two-civilians-working-for-the-carita.json)  [XML](/news/2006/04/10/sri-lankan-civil-war-a-claymore-mine-explodes-in-northern-jaffna-killing-five-soldiers-on-patrol-and-two-civilians-working-for-the-carita.xml)  
+
 ### [2006-04-10](/news/2006/04/10/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: a claymore mine explodes in northern Jaffna, killing five soldiers on patrol and two civilians working for the Caritas Internationalis aid agency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4895570.stm)
 

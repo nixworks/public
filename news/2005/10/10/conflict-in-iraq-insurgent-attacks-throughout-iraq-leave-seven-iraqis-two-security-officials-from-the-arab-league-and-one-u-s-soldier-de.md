@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/10/conflict-in-iraq-insurgent-attacks-throughout-iraq-leave-seven-iraqis-two-security-officials-from-the-arab-league-and-one-u-s-soldier-de.html)  [JSON](/news/2005/10/10/conflict-in-iraq-insurgent-attacks-throughout-iraq-leave-seven-iraqis-two-security-officials-from-the-arab-league-and-one-u-s-soldier-de.json)  [XML](/news/2005/10/10/conflict-in-iraq-insurgent-attacks-throughout-iraq-leave-seven-iraqis-two-security-officials-from-the-arab-league-and-one-u-s-soldier-de.xml)  
+
 ### [2005-10-10](/news/2005/10/10/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Insurgent attacks throughout Iraq leave seven Iraqis, two security officials from the Arab league and one U.S. soldier dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4326470.stm)
 

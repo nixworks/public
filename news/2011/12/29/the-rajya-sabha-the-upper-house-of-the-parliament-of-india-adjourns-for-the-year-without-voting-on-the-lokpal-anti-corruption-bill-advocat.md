@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/29/the-rajya-sabha-the-upper-house-of-the-parliament-of-india-adjourns-for-the-year-without-voting-on-the-lokpal-anti-corruption-bill-advocat.html)  [JSON](/news/2011/12/29/the-rajya-sabha-the-upper-house-of-the-parliament-of-india-adjourns-for-the-year-without-voting-on-the-lokpal-anti-corruption-bill-advocat.json)  [XML](/news/2011/12/29/the-rajya-sabha-the-upper-house-of-the-parliament-of-india-adjourns-for-the-year-without-voting-on-the-lokpal-anti-corruption-bill-advocat.xml)  
+
 ### [2011-12-29](/news/2011/12/29/index.md)
 
+##### Rajya Sabha
 # The Rajya Sabha, the Upper House of the Parliament of India, adjourns for the year without voting on the Lokpal anti-corruption bill advocated by Anna Hazare and his followers. 
 
 The Rajya Sabha broke up for recess on Thursday without voting on a bill to create a Lokpal before a deadline set by activist Anna Hazare, who has led a campaign for the measure using hunger strikes.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2011/12/29/rajya-sabha-adjourned-without-vote-on-lo-idINDEE7BS0C720111229)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111229&t=2&i=552464232&w=&fh=545px&fw=&ll=&pl=&sq=&r=CDEE7BS1IS000)

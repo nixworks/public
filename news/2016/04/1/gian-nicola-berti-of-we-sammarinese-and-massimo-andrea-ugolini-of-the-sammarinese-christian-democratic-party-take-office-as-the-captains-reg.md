@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/04/1/gian-nicola-berti-of-we-sammarinese-and-massimo-andrea-ugolini-of-the-sammarinese-christian-democratic-party-take-office-as-the-captains-reg.html)  [JSON](/news/2016/04/1/gian-nicola-berti-of-we-sammarinese-and-massimo-andrea-ugolini-of-the-sammarinese-christian-democratic-party-take-office-as-the-captains-reg.json)  [XML](/news/2016/04/1/gian-nicola-berti-of-we-sammarinese-and-massimo-andrea-ugolini-of-the-sammarinese-christian-democratic-party-take-office-as-the-captains-reg.xml)  
+
 ### [2016-04-1](/news/2016/04/1/index.md)
 
+##### Gian Nicola Berti
 # Gian Nicola Berti of We Sammarinese and Massimo Andrea Ugolini of the Sammarinese Christian Democratic Party take office as the Captains Regents of San Marino. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [San Marino Notizie](http://www.sanmarinonotizie.com/2016/04/03/cerimonia-di-insediamento-dei-capitani-reggenti-gian-nicola-berti-e-massimo-andrea-ugolini/)
 

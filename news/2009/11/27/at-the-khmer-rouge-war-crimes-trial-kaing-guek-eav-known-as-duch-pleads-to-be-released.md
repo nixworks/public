@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/27/at-the-khmer-rouge-war-crimes-trial-kaing-guek-eav-known-as-duch-pleads-to-be-released.html)  [JSON](/news/2009/11/27/at-the-khmer-rouge-war-crimes-trial-kaing-guek-eav-known-as-duch-pleads-to-be-released.json)  [XML](/news/2009/11/27/at-the-khmer-rouge-war-crimes-trial-kaing-guek-eav-known-as-duch-pleads-to-be-released.xml)  
+
 ### [2009-11-27](/news/2009/11/27/index.md)
 
+##### Khmer Rouge
 #  At the Khmer Rouge war crimes trial, Kaing Guek Eav, known as Duch, pleads to be released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gXssZ7V8pKg42hqegCKtdB4TPyZgD9C7VVP80)
 2. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2009112729829/Online-Edition/duch-asks-to-be-set-free.html)

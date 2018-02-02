@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/23/iran-makes-protest-and-cuts-diplomatic-ties-with-argentina-over-the-arrest-in-britain-of-its-former-ambassador-with-the-united-kingdom-and.html)  [JSON](/news/2003/08/23/iran-makes-protest-and-cuts-diplomatic-ties-with-argentina-over-the-arrest-in-britain-of-its-former-ambassador-with-the-united-kingdom-and.json)  [XML](/news/2003/08/23/iran-makes-protest-and-cuts-diplomatic-ties-with-argentina-over-the-arrest-in-britain-of-its-former-ambassador-with-the-united-kingdom-and.xml)  
+
 ### [2003-08-23](/news/2003/08/23/index.md)
 
+##### Iran
 #  Iran makes protest and cuts diplomatic ties with Argentina over the arrest in Britain of its former ambassador with the United Kingdom and Argentina for the alleged bombing Jewish community centre in Buenos Aires in 1994 in which 85 people died.
 
 

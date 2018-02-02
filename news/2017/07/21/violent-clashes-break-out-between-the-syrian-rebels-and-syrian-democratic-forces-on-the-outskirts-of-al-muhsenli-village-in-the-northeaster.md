@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/21/violent-clashes-break-out-between-the-syrian-re
 
 ### [2017-07-21](/news/2017/07/21/index.md)
 
+##### Syrian Civil War
 # Violent clashes break out between the Syrian rebels and Syrian Democratic Forces on the outskirts of al-Muhsenli Village, in the northeastern countryside of Aleppo, but no casualties are reported. 
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/30/the-torre-mayor-in-mexico-city-is-evacuated-after-a-car-containing-explosives-is-found-in-its-carpark-part-of-the-building-latin-america.html)  [JSON](/news/2007/08/30/the-torre-mayor-in-mexico-city-is-evacuated-after-a-car-containing-explosives-is-found-in-its-carpark-part-of-the-building-latin-america.json)  [XML](/news/2007/08/30/the-torre-mayor-in-mexico-city-is-evacuated-after-a-car-containing-explosives-is-found-in-its-carpark-part-of-the-building-latin-america.xml)  
+
 ### [2007-08-30](/news/2007/08/30/index.md)
 
+##### Torre Mayor
 #  The Torre Mayor in Mexico City is evacuated after a car containing explosives is found in its carpark. Part of the building, Latin America's tallest, had also been evacuated the day before after police received an anonymous bomb threat. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601086&sid=abtEtIFU9yrg)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601086&sid=abtEtIFU9yrg)
 
 ### Related:
 

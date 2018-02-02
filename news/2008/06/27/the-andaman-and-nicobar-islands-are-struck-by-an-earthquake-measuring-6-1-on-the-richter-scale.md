@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/27/the-andaman-and-nicobar-islands-are-struck-by-an-earthquake-measuring-6-1-on-the-richter-scale.html)  [JSON](/news/2008/06/27/the-andaman-and-nicobar-islands-are-struck-by-an-earthquake-measuring-6-1-on-the-richter-scale.json)  [XML](/news/2008/06/27/the-andaman-and-nicobar-islands-are-struck-by-an-earthquake-measuring-6-1-on-the-richter-scale.xml)  
+
 ### [2008-06-27](/news/2008/06/27/index.md)
 
+##### Andaman and Nicobar Islands
 #  The Andaman and Nicobar Islands are struck by an earthquake measuring 6.1 on the Richter scale. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601091&sid=a8NbODrCkGPk&refer=india)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601091&sid=a8NbODrCkGPk&refer=india)
 
 ### Related:
 

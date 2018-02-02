@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/20/heathrow-airport-in-london-reopens-after-a-weekend-of-heavy-snowfall.html)  [JSON](/news/2010/12/20/heathrow-airport-in-london-reopens-after-a-weekend-of-heavy-snowfall.json)  [XML](/news/2010/12/20/heathrow-airport-in-london-reopens-after-a-weekend-of-heavy-snowfall.xml)  
+
 ### [2010-12-20](/news/2010/12/20/index.md)
 
+##### Heathrow Airport
 # Heathrow Airport in London reopens after a weekend of heavy snowfall. 
 
 Arrivals and departures to be limited and flight cancellations still expected at busiest passenger air hub in the world.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net//news/europe/2010/12/2010122072125443655.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/19/20101219122854444797_20.bmp)

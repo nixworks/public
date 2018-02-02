@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/26/a-series-of-bomb-blasts-in-ahmedabad-gujarat-india-kills-30-and-injures-over-100-people.html)  [JSON](/news/2008/07/26/a-series-of-bomb-blasts-in-ahmedabad-gujarat-india-kills-30-and-injures-over-100-people.json)  [XML](/news/2008/07/26/a-series-of-bomb-blasts-in-ahmedabad-gujarat-india-kills-30-and-injures-over-100-people.xml)  
+
 ### [2008-07-26](/news/2008/07/26/index.md)
 
+##### A series of bomb blasts
 #  A series of bomb blasts in Ahmedabad, Gujarat, India, kills 30 and injures over 100 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/convergence/ndtv/story.aspx?id=NEWEN20080058856)
 

@@ -1,17 +1,28 @@
+
+Formats: [HTML](/news/2005/12/29/a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-palestinian-civilians-and-himsel.html)  [JSON](/news/2005/12/29/a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-palestinian-civilians-and-himsel.json)  [XML](/news/2005/12/29/a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-palestinian-civilians-and-himsel.xml)  
+
 ### [2005-12-29](/news/2005/12/29/index.md)
 
+##### suicide bombing
 #  A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WORLD/meast/12/29/mideast.alqaeda.claim/)
 2. [Ha'aretz](http://www.haaretzdaily.com/hasen/spages/664070.html)
 3. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2005/12/30/wmid130.xml&sSheet=/news/2005/12/30/ixnewstop.html)
 4. [The Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-122905mideast_lat,0,6610305.story?coll=la-story-footer&track=morenews)
-5. [The New York Times](http://www.nytimes.com/2005/12/29/international/middleeast/29cnd-mideast.html)
+5. [The New York Times](https://www.nytimes.com/2005/12/29/international/middleeast/29cnd-mideast.html)
+
+### Changes:
+
+1. [ Arab-Israeli conflict: A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. ](/news/2005/12/29/arabaisraeli-conflict-p-a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-pales.md) _2017-05-25 03:17:35 (First version)_
+2. [ Arab-Israeli conflict: A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. ](/news/2005/12/29/arabaisraeli-conflict-p-a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-palest.md) _2017-08-25 03:17:20 (Update)_
+3. [ Arab-Israeli conflict:: A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. ](/news/2005/12/29/arab-israeli-conflict-a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-palest.md) _2017-08-27 03:17:19 (Update)_
+3. [ A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. ](/news/2005/12/29/a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-palestinian-civilians-and-himsel.md) _(Current version)_
 
 ### Related:
 
@@ -20,10 +31,3 @@ Latest breaking news, including politics, crime and celebrity. Find stories, upd
 3. [ Israel freezes the handover of West Bank Palestinian towns to the Palestinian Authority. Israel claims they will resume the handover process when militant groups are disarmed. The Prime Minister of Israel, Ariel Sharon, had agreed to hand over five West Bank towns to Palestinian control, but thus far has only handed over Tulkarm and Jericho. ](/news/2005/05/4/israel-freezes-the-handover-of-west-bank-palestinian-towns-to-the-palestinian-authority-israel-claims-they-will-resume-the-handover-proces.md) _Context: Palestinian, Tulkarm, West Bank_
 4. [ Following an Israeli raid on the Palestinian city of Tulkarm, one Israeli soldier and one Islamic Jihad leader are killed. The soldier was killed in a gunfight with 3 members of Palestinian Islamic Jihad. The three were suspected to have been part of the cell which was involved in Tel Aviv "Stage" club bombing in February 2005. Shafiq Abdul Rani, the leader of the Jihad cell in Tulkarm was killed and another militant was arrested. ](/news/2005/05/2/following-an-israeli-raid-on-the-palestinian-city-of-tulkarm-one-israeli-soldier-and-one-islamic-jihad-leader-are-killed-the-soldier-was.md) _Context: Palestinian, Palestinian Islamic Jihad, Tulkarm_
 5. [ Israeli-Palestinian conflict: A Palestinian gunman enters a home in Negohot (an Israeli settlement in the West Bank, near Hebron), murders 7-month-old Shaked Avraham and 27-year-old Eyal Yeberbaum, and injures both of the baby girl's parents as they were celebrating the Jewish New Year. The shooter was later killed by Israeli security forces. The Palestinian Islamic Jihad claimed responsibility for the attack.](/news/2003/09/26/israeli-palestinian-conflict-a-palestinian-gunman-enters-a-home-in-negohot-an-israeli-settlement-in-the-west-bank-near-hebron-murders.md) _Context: Palestinian, Palestinian Islamic Jihad, West Bank_
-
-### Changes:
-
-1. [ Arab-Israeli conflict: A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. ](/news/2005/12/29/arabaisraeli-conflict-p-a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-pales.md) _2017-05-25 03:17:35 (First version)_
-2. [ Arab-Israeli conflict: A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. ](/news/2005/12/29/arabaisraeli-conflict-p-a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-palest.md) _2017-08-25 03:17:20 (Update)_
-3. [ Arab-Israeli conflict:: A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. ](/news/2005/12/29/arab-israeli-conflict-a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-palest.md) _2017-08-27 03:17:19 (Update)_
-3. [ A suicide bomber attacks a checkpoint near the West Bank city of Tulkarm, killing one Israeli soldier, two Palestinian civilians and himself. Islamic Jihad has claimed responsibility for the attack. ](/news/2005/12/29/a-suicide-bomber-attacks-a-checkpoint-near-the-west-bank-city-of-tulkarm-killing-one-israeli-soldier-two-palestinian-civilians-and-himsel.md) _(Current version)_

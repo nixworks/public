@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/11/8/voters-in-myanmar-head-to-the-polls-with-the-national-league-for-democracy-the-party-of-nobel-peace-prize-winner-aung-san-suu-kyi-expected.html)  [JSON](/news/2015/11/8/voters-in-myanmar-head-to-the-polls-with-the-national-league-for-democracy-the-party-of-nobel-peace-prize-winner-aung-san-suu-kyi-expected.json)  [XML](/news/2015/11/8/voters-in-myanmar-head-to-the-polls-with-the-national-league-for-democracy-the-party-of-nobel-peace-prize-winner-aung-san-suu-kyi-expected.xml)  
+
 ### [2015-11-8](/news/2015/11/8/index.md)
 
+##### Myanmar general election, 2015
 # Voters in Myanmar head to the polls with the National League for Democracy, the party of Nobel Peace Prize-winner Aung San Suu Kyi, expected to win a majority of seats in Parliament and the ruling Union Solidarity and Development Party conceding defeat on Monday. Early indication is an 80 percent turnout of the more than 30 million people eligible to vote. 
 
 Voters across the former military dictatorship of Myanmar went to the polls Sunday here in a watershed election, the first in 25 years whose outcome wasn&apos;t a foregone conclusion.
 
 
-### Source:
+### Sources:
 
 1. [Ahmedabad Mirror](http://www.ahmedabadmirror.com/news/world/Myanmar-vote-count-begins-on-Suu-Kyis-day-of-destiny/articleshow/49716295.cms)
 2. [Los Angeles Times](http://www.latimes.com/world/asia/la-fg-voters-head-to-polls-in-former-military-dictatorship-of-myanmar-20151107-story.html)
 2. [Cover Image](http://www.trbimg.com/img-563ea842/turbine/la-fg-voters-head-to-polls-in-former-military-dictatorship-of-myanmar-20151107)
+
+### Changes:
+
+1. [Myanmar general election, 2015: Voters in Myanmar head to the polls with the National League for Democracy, the party of Nobel Peace Prize-winner Aung San Suu Kyi, expected to win a majority of seats in Parliament and the ruling Union Solidarity and Development Party conceding defeat on Monday. Early indication is an 80 percent turnout of the more than 30 million people eligible to vote. ](/news/2015/11/8/myanmar-general-election-2015-voters-in-myanmar-head-to-the-polls-with-the-national-league-for-democracy-the-party-of-nobel-peace-prize-w.md) _2017-08-27 03:43:44 (First version)_
+1. [Voters in Myanmar head to the polls with the National League for Democracy, the party of Nobel Peace Prize-winner Aung San Suu Kyi, expected to win a majority of seats in Parliament and the ruling Union Solidarity and Development Party conceding defeat on Monday. Early indication is an 80 percent turnout of the more than 30 million people eligible to vote. ](/news/2015/11/8/voters-in-myanmar-head-to-the-polls-with-the-national-league-for-democracy-the-party-of-nobel-peace-prize-winner-aung-san-suu-kyi-expected.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Voters across the former military dictatorship of Myanmar went to the polls Sund
 3. [Myanmar opposition leader and Nobel Laureate Aung San Suu Kyi says she would be "above the president" if her National League for Democracy party (NLD) gets the expected win in the Sunday, November 8, 2015, election. The 2008 constitution, drafted by the military without NLD participation, bars her from becoming President. ](/news/2015/11/5/myanmar-opposition-leader-and-nobel-laureate-aung-san-suu-kyi-says-she-would-be-above-the-president-if-her-national-league-for-democracy-p.md) _Context: Aung San Suu Kyi, Myanmar, Myanmar general election, 2015, National League for Democracy_
 4. [Aung San Suu Kyi holds talks with parliament's outgoing chairman, Shwe Mann, seeking his help in an orderly democratic transition to the newly-elected National League for Democracy (NLD) government. Mann, who was ousted as head of the Union Solidarity and Development Party in August, lost his house seat in the November 8 vote. The current parliament will have at least one more session. ](/news/2015/11/15/aung-san-suu-kyi-holds-talks-with-parliament-s-outgoing-chairman-shwe-mann-seeking-his-help-in-an-orderly-democratic-transition-to-the-new.md) _Context: Aung San Suu Kyi, Myanmar general election, 2015, National League for Democracy, Union Solidarity and Development Party_
 5. [With 45 percent of the Pyithu Hluttaw (House of Representatives) results announced from Sunday's election, Aung San Suu Kyi's National League for Democracy (NLD) moves closer to an absolute majority in the country's parliament, winning over 90 percent (135 of 149 seats) in the country's lower house. The NLD also has taken over 85 percent in the upper house and regional assemblies. The NLD needs to win more than two-thirds of seats that were contested in parliament to form Myanmar's first democratically elected government since the early 1960s. ](/news/2015/11/11/with-45-percent-of-the-pyithu-hluttaw-house-of-representatives-results-announced-from-sunday-s-election-aung-san-suu-kyi-s-national-leagu.md) _Context: Aung San Suu Kyi, Myanmar, Myanmar general election, 2015, National League for Democracy_
-
-### Changes:
-
-1. [Myanmar general election, 2015: Voters in Myanmar head to the polls with the National League for Democracy, the party of Nobel Peace Prize-winner Aung San Suu Kyi, expected to win a majority of seats in Parliament and the ruling Union Solidarity and Development Party conceding defeat on Monday. Early indication is an 80 percent turnout of the more than 30 million people eligible to vote. ](/news/2015/11/8/myanmar-general-election-2015-voters-in-myanmar-head-to-the-polls-with-the-national-league-for-democracy-the-party-of-nobel-peace-prize-w.md) _2017-08-27 03:43:44 (First version)_
-1. [Voters in Myanmar head to the polls with the National League for Democracy, the party of Nobel Peace Prize-winner Aung San Suu Kyi, expected to win a majority of seats in Parliament and the ruling Union Solidarity and Development Party conceding defeat on Monday. Early indication is an 80 percent turnout of the more than 30 million people eligible to vote. ](/news/2015/11/8/voters-in-myanmar-head-to-the-polls-with-the-national-league-for-democracy-the-party-of-nobel-peace-prize-winner-aung-san-suu-kyi-expected.md) _(Current version)_

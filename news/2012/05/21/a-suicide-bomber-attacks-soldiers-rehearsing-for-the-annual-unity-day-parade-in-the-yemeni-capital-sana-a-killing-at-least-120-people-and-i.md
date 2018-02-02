@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/21/a-suicide-bomber-attacks-soldiers-rehearsing-for-the-annual-unity-day-parade-in-the-yemeni-capital-sana-a-killing-at-least-120-people-and-i.html)  [JSON](/news/2012/05/21/a-suicide-bomber-attacks-soldiers-rehearsing-for-the-annual-unity-day-parade-in-the-yemeni-capital-sana-a-killing-at-least-120-people-and-i.json)  [XML](/news/2012/05/21/a-suicide-bomber-attacks-soldiers-rehearsing-for-the-annual-unity-day-parade-in-the-yemeni-capital-sana-a-killing-at-least-120-people-and-i.xml)  
+
 ### [2012-05-21](/news/2012/05/21/index.md)
 
+##### attacks
 # A suicide bomber attacks soldiers rehearsing for the annual Unity Day parade in the Yemeni capital Sana'a, killing at least 120 people and injuring more than 350 others. Al-Qaeda in the Arabian Peninsula claims responsibility. 
 
 More than 90 people have been killed in a suicide bomb attack claimed by al-Qaeda on soldiers in the Yemeni capital, Sanaa, security officials say.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/201252175919491219.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18142695)

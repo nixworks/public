@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/18/the-sudanese-government-signs-a-ceasefire-deal-with-a-small-darfur-rebel-group-liberation-and-justice-movement.html)  [JSON](/news/2010/03/18/the-sudanese-government-signs-a-ceasefire-deal-with-a-small-darfur-rebel-group-liberation-and-justice-movement.json)  [XML](/news/2010/03/18/the-sudanese-government-signs-a-ceasefire-deal-with-a-small-darfur-rebel-group-liberation-and-justice-movement.xml)  
+
 ### [2010-03-18](/news/2010/03/18/index.md)
 
+##### Sudan
 # The Sudanese government signs a ceasefire deal with a small Darfur rebel group, Liberation and Justice Movement. 
 
 Khartoum reaches truce agreement with smaller group after talks with Jem stalled.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/03/2010318105359811221.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/01/31/us-airways-the-united-states-largest-low-cost-hub-and-spoke-airline-announced-that-it-was-dropping-its-9-8-billion-bid-for-delta-air-li.html)  [JSON](/news/2007/01/31/us-airways-the-united-states-largest-low-cost-hub-and-spoke-airline-announced-that-it-was-dropping-its-9-8-billion-bid-for-delta-air-li.json)  [XML](/news/2007/01/31/us-airways-the-united-states-largest-low-cost-hub-and-spoke-airline-announced-that-it-was-dropping-its-9-8-billion-bid-for-delta-air-li.xml)  
+
 ### [2007-01-31](/news/2007/01/31/index.md)
 
+##### US Airways
 #  US Airways, the United States' largest low-cost hub and spoke airline, announced that it was dropping its $9.8 billion bid for Delta Air Lines. The airline dropped the bid after Delta's creditors threw their support behind the airline's plan to emerge from bankruptcy on its own. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/6318357.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aTbDXjlE1qqw&refer=home)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=aTbDXjlE1qqw&refer=home)
 3. [US Airways Press Release](http://phx.corporate-ir.net/phoenix.zhtml?c=196799&p=irol-newsArticle&ID=956418&highlight=)
 
 ### Related:

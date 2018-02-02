@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/25/israeli-prime-minister-ariel-sharon-wins-cabinet-approval-for-a-peace-plan-that-includes-the-creation-of-a-palestinian-state-by-2005.html)  [JSON](/news/2003/05/25/israeli-prime-minister-ariel-sharon-wins-cabinet-approval-for-a-peace-plan-that-includes-the-creation-of-a-palestinian-state-by-2005.json)  [XML](/news/2003/05/25/israeli-prime-minister-ariel-sharon-wins-cabinet-approval-for-a-peace-plan-that-includes-the-creation-of-a-palestinian-state-by-2005.xml)  
+
 ### [2003-05-25](/news/2003/05/25/index.md)
 
+##### Israel
 #  Israeli Prime Minister Ariel Sharon wins cabinet approval for a peace plan that includes the creation of a Palestinian state by 2005.
 
 

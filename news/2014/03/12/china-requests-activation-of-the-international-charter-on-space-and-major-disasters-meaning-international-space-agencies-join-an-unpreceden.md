@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/12/china-requests-activation-of-the-international-charter-on-space-and-major-disasters-meaning-international-space-agencies-join-an-unpreceden.html)  [JSON](/news/2014/03/12/china-requests-activation-of-the-international-charter-on-space-and-major-disasters-meaning-international-space-agencies-join-an-unpreceden.json)  [XML](/news/2014/03/12/china-requests-activation-of-the-international-charter-on-space-and-major-disasters-meaning-international-space-agencies-join-an-unpreceden.xml)  
+
 ### [2014-03-12](/news/2014/03/12/index.md)
 
+##### International Charter on Space and Major Disasters
 # China requests activation of the International Charter on Space and Major Disasters meaning international space agencies join an "unprecedented" search for the Malaysian airliner which disappeared over an ocean Saturday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/03/malaysia-widens-search-area-missing-plane-201431210448462225.html)
 2. [CNN](http://www.cnn.com/2014/03/12/world/asia/malaysia-airlines-plane/index.html?hpt=hp_t1)

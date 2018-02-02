@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/25/the-bodies-of-five-singaporeans-are-found-after-their-dragon-boat-capsized-two-days-ago-at-the-end-of-a-1-500-metre-cambodia-asean-traditio.html)  [JSON](/news/2007/11/25/the-bodies-of-five-singaporeans-are-found-after-their-dragon-boat-capsized-two-days-ago-at-the-end-of-a-1-500-metre-cambodia-asean-traditio.json)  [XML](/news/2007/11/25/the-bodies-of-five-singaporeans-are-found-after-their-dragon-boat-capsized-two-days-ago-at-the-end-of-a-1-500-metre-cambodia-asean-traditio.xml)  
+
 ### [2007-11-25](/news/2007/11/25/index.md)
 
+##### Singapore
 #  The bodies of five Singaporeans are found after their dragon boat capsized two days ago at the end of a 1,500-metre Cambodia-ASEAN Traditional Boat Race event during the Bon Om Thook races on the Tonl Sap in Phnom Penh. 17 other members of the team survived. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/313588/1/.html)
 

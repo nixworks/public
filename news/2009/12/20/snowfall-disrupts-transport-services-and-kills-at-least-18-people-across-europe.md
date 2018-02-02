@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/20/snowfall-disrupts-transport-services-and-kills-at-least-18-people-across-europe.html)  [JSON](/news/2009/12/20/snowfall-disrupts-transport-services-and-kills-at-least-18-people-across-europe.json)  [XML](/news/2009/12/20/snowfall-disrupts-transport-services-and-kills-at-least-18-people-across-europe.xml)  
+
 ### [2009-12-20](/news/2009/12/20/index.md)
 
+##### weather-related
 #  Snowfall disrupts transport services and kills at least 18 people across Europe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/in_pictures/8423251.stm)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5038757,00.html)

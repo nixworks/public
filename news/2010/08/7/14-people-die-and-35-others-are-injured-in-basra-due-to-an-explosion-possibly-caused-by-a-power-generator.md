@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/7/14-people-die-and-35-others-are-injured-in-basra-due-to-an-explosion-possibly-caused-by-a-power-generator.html)  [JSON](/news/2010/08/7/14-people-die-and-35-others-are-injured-in-basra-due-to-an-explosion-possibly-caused-by-a-power-generator.json)  [XML](/news/2010/08/7/14-people-die-and-35-others-are-injured-in-basra-due-to-an-explosion-possibly-caused-by-a-power-generator.xml)  
+
 ### [2010-08-7](/news/2010/08/7/index.md)
 
+##### Basra
 # 14 people die and 35 others are injured in Basra due to an explosion, possibly caused by a power generator. 
 
 An explosion, said to have been caused by a power generator, kills 14 people and injures 35 in the Iraqi city of Basra.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10904522)
 2. [France24](http://www.france24.com/en/20100807-iraq-killed-explosion-electricity-generator-basra)

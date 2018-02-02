@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2012/06/25/war-on-terror-the-chief-of-one-of-britain-s-top-intelligence-agencies-says-that-potential-british-terrorists-are-going-to-countries-that-ha.html)  [JSON](/news/2012/06/25/war-on-terror-the-chief-of-one-of-britain-s-top-intelligence-agencies-says-that-potential-british-terrorists-are-going-to-countries-that-ha.json)  [XML](/news/2012/06/25/war-on-terror-the-chief-of-one-of-britain-s-top-intelligence-agencies-says-that-potential-british-terrorists-are-going-to-countries-that-ha.xml)  
+
 ### [2012-06-25](/news/2012/06/25/index.md)
 
+##### War On Terror
 # War On Terror: The chief of one of Britain's top intelligence agencies says that potential British terrorists are going to countries that have been made unsecure by the Arab Spring to get training from Al Qaeda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/topNews/idCABRE85O1BV20120625)
 
 ### Related:
 
-1. [ A tape of senior Al Qaeda figure Ayman al-Zawahiri is released in which he brands US President George W. Bush a "lying failure" over the war on terror. He goes on to condemn Pope Benedict XVI as an "impostor" for his recent controversial speech and labels Roman Catholicism a religion "made of myths". ](/news/2006/09/29/a-tape-of-senior-al-qaeda-figure-ayman-al-zawahiri-is-released-in-which-he-brands-us-president-george-w-bush-a-lying-failure-over-the-wa.md) _Context: War on Terror, al-Qaeda_
-2. [A plot by a group of terrorists believed to be a part of or affiliated to the al-Qaeda network was revealed as having been uncovered by MI5. The plot involved a plan to release poison gas in the London Underground railway network.](/news/2002/11/16/a-plot-by-a-group-of-terrorists-believed-to-be-a-part-of-or-affiliated-to-the-al-qaeda-network-was-revealed-as-having-been-uncovered-by-mi5.md) _Context: MI5, al-Qaeda_
-3. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: al-Qaeda_
-4. [The Obama Administration and Bush Administration had failed to publicly disclose up to thousands of lethal airstrikes the U.S. made in Afghanistan, Iraq, and Syria against ISIL, Al-Qaeda, and the Taliban via U.S. Army helicopters and drones. ](/news/2017/02/5/the-obama-administration-and-bush-administration-had-failed-to-publicly-disclose-up-to-thousands-of-lethal-airstrikes-the-u-s-made-in-afgha.md) _Context: al-Qaeda_
-5. [Six Al Qaeda insurgents are killed by the Arab coalition in Yemen. ](/news/2016/11/8/six-al-qaeda-insurgents-are-killed-by-the-arab-coalition-in-yemen.md) _Context: al-Qaeda_
+1. [Six Al Qaeda insurgents are killed by the Arab coalition in Yemen. ](/news/2016/11/8/six-al-qaeda-insurgents-are-killed-by-the-arab-coalition-in-yemen.md) _Context: Al Qaeda_
+2. [Al Qaeda militants kill at least 13 Yemeni government troops near the city of Mukalla. ](/news/2016/05/12/al-qaeda-militants-kill-at-least-13-yemeni-government-troops-near-the-city-of-mukalla.md) _Context: Al Qaeda_
+3. [ MI5 raises the threat level for dissident Northern Ireland militants from "moderate" to "substantial", meaning there is a strong possibility of an attack on the British mainland. ](/news/2016/05/11/mi5-raises-the-threat-level-for-dissident-northern-ireland-militants-from-moderate-to-substantial-meaning-there-is-a-strong-possibilit.md) _Context: MI5_
+4. [Four American journalists are charged by Bahrain for "unlawful obstruction of vehicles and attending unlawful gatherings." The state-run Bahrain News Agency said all were released "pending further investigations." Freelance reporter Anna Day and a film crew, who were covering the fifth anniversary of the Arab Spring uprisings, are scheduled to fly to Dubai tonight. ](/news/2016/02/16/four-american-journalists-are-charged-by-bahrain-for-unlawful-obstruction-of-vehicles-and-attending-unlawful-gatherings-the-state-run-bah.md) _Context: Arab Spring_
+5. [ Two German intelligence officers are suspected of having given money to Al Qaeda in 2010. ](/news/2016/02/15/two-german-intelligence-officers-are-suspected-of-having-given-money-to-al-qaeda-in-2010.md) _Context: Al Qaeda_

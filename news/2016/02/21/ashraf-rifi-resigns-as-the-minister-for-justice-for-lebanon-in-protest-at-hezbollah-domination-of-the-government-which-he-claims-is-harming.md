@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/21/ashraf-rifi-resigns-as-the-minister-for-justice
 
 ### [2016-02-21](/news/2016/02/21/index.md)
 
+##### Ashraf Rifi
 # Ashraf Rifi resigns as the Minister for Justice for Lebanon in protest at Hezbollah domination of the government which he claims is harming relations with Arab nations. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/8/three-academics-at-istanbul-bilgi-university-are-fired-due-to-a-controversial-dissertation-project-submitted-by-a-student.html)  [JSON](/news/2011/01/8/three-academics-at-istanbul-bilgi-university-are-fired-due-to-a-controversial-dissertation-project-submitted-by-a-student.json)  [XML](/news/2011/01/8/three-academics-at-istanbul-bilgi-university-are-fired-due-to-a-controversial-dissertation-project-submitted-by-a-student.xml)  
+
 ### [2011-01-8](/news/2011/01/8/index.md)
 
+##### Bilgi University
 # Three academics at Istanbul Bilgi University are fired due to a controversial dissertation project submitted by a student. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12142630)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

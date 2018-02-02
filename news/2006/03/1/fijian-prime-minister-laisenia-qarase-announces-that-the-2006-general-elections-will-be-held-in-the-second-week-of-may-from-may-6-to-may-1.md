@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/1/fijian-prime-minister-laisenia-qarase-announces-that-the-2006-general-elections-will-be-held-in-the-second-week-of-may-from-may-6-to-may-1.html)  [JSON](/news/2006/03/1/fijian-prime-minister-laisenia-qarase-announces-that-the-2006-general-elections-will-be-held-in-the-second-week-of-may-from-may-6-to-may-1.json)  [XML](/news/2006/03/1/fijian-prime-minister-laisenia-qarase-announces-that-the-2006-general-elections-will-be-held-in-the-second-week-of-may-from-may-6-to-may-1.xml)  
+
 ### [2006-03-1](/news/2006/03/1/index.md)
 
+##### Prime Minister
 #  Fijian Prime Minister Laisenia Qarase announces that the 2006 general elections will be held in the second week of May, from May 6 to May 13. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=22559)
 

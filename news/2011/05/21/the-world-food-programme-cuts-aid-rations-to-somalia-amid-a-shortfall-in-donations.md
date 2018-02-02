@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/21/the-world-food-programme-cuts-aid-rations-to-somalia-amid-a-shortfall-in-donations.html)  [JSON](/news/2011/05/21/the-world-food-programme-cuts-aid-rations-to-somalia-amid-a-shortfall-in-donations.json)  [XML](/news/2011/05/21/the-world-food-programme-cuts-aid-rations-to-somalia-amid-a-shortfall-in-donations.xml)  
+
 ### [2011-05-21](/news/2011/05/21/index.md)
 
+##### World Food Programme
 # The World Food Programme cuts aid rations to Somalia, amid a shortfall in donations. 
 
 Budget shortages have forced the World Food Program to cut rations for those receiving food aid in Somalia, the organization said.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2011/05/21/World-Food-Program-running-out-of-food/UPI-32951305992256/)
 

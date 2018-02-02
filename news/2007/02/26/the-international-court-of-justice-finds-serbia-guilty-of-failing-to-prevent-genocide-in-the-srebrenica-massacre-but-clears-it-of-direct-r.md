@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/26/the-international-court-of-justice-finds-serbia-guilty-of-failing-to-prevent-genocide-in-the-srebrenica-massacre-but-clears-it-of-direct-r.html)  [JSON](/news/2007/02/26/the-international-court-of-justice-finds-serbia-guilty-of-failing-to-prevent-genocide-in-the-srebrenica-massacre-but-clears-it-of-direct-r.json)  [XML](/news/2007/02/26/the-international-court-of-justice-finds-serbia-guilty-of-failing-to-prevent-genocide-in-the-srebrenica-massacre-but-clears-it-of-direct-r.xml)  
+
 ### [2007-02-26](/news/2007/02/26/index.md)
 
+##### International Court of Justice
 #  The International Court of Justice finds Serbia guilty of failing to prevent genocide in the Srebrenica massacre, but clears it of direct responsibility and complicity in a case brought forth by Bosnia and Herzegovina. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/serbia/article/0,,2021764,00.html)
 

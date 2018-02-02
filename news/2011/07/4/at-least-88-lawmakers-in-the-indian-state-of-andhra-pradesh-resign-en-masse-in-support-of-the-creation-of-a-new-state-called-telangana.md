@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/4/at-least-88-lawmakers-in-the-indian-state-of-andhra-pradesh-resign-en-masse-in-support-of-the-creation-of-a-new-state-called-telangana.html)  [JSON](/news/2011/07/4/at-least-88-lawmakers-in-the-indian-state-of-andhra-pradesh-resign-en-masse-in-support-of-the-creation-of-a-new-state-called-telangana.json)  [XML](/news/2011/07/4/at-least-88-lawmakers-in-the-indian-state-of-andhra-pradesh-resign-en-masse-in-support-of-the-creation-of-a-new-state-called-telangana.xml)  
+
 ### [2011-07-4](/news/2011/07/4/index.md)
 
+##### Indian state
 # At least 88 lawmakers in the Indian state of Andhra Pradesh resign "en masse" in support of the creation of a new state called Telangana. 
 
 The Telangana spectre returned to haunt the Centre with 78 MLAs from across the political spectrum and 10 Congress MPs quitting to demand the formation of a separate state while a 48-hour bandh called from Tuesday threatens to paralyse normal life.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14009929)
 2. [The Hindu](http://www.thehindu.com/news/national/article2158170.ece)

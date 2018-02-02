@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/3/a-van-travelling-at-approximately-50-nbsp-mph-pl
 
 ### [2017-06-3](/news/2017/06/3/index.md)
 
+##### June 2017 London attack
 # A van travelling at approximately 50&nbsp;mph ploughs into pedestrians on London Bridge; the three occupants then abandon the van and embark on a stabbing spree in Borough Market before being shot dead by officers of the Metropolitan Police. At least six civilians are killed. 
 
 Police said a vehicle veered off the road and mowed down pedestrians on London Bridge, while witnesses spoke of men with large knives stabbing passersby at nearby Borough Market in the U.K. capital, leaving six people dead and dozens wounded in hospital. 

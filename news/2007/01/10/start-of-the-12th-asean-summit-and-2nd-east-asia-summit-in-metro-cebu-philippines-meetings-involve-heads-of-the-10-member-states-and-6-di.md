@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/10/start-of-the-12th-asean-summit-and-2nd-east-asia-summit-in-metro-cebu-philippines-meetings-involve-heads-of-the-10-member-states-and-6-di.html)  [JSON](/news/2007/01/10/start-of-the-12th-asean-summit-and-2nd-east-asia-summit-in-metro-cebu-philippines-meetings-involve-heads-of-the-10-member-states-and-6-di.json)  [XML](/news/2007/01/10/start-of-the-12th-asean-summit-and-2nd-east-asia-summit-in-metro-cebu-philippines-meetings-involve-heads-of-the-10-member-states-and-6-di.xml)  
+
 ### [2007-01-10](/news/2007/01/10/index.md)
 
+##### ASEAN Summit
 #  Start of the 12th ASEAN Summit and 2nd East Asia Summit in Metro Cebu, Philippines. Meetings involve heads of the 10 member states and 6 dialogue partners with major discussions on relevance, diplomacy, security, economy and free trade and other important global issues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/breakingnews/nation/view_article.php?article_id=42629)
 

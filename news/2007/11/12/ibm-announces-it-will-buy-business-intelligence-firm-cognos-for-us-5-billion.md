@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/12/ibm-announces-it-will-buy-business-intelligence-firm-cognos-for-us-5-billion.html)  [JSON](/news/2007/11/12/ibm-announces-it-will-buy-business-intelligence-firm-cognos-for-us-5-billion.json)  [XML](/news/2007/11/12/ibm-announces-it-will-buy-business-intelligence-firm-cognos-for-us-5-billion.xml)  
+
 ### [2007-11-12](/news/2007/11/12/index.md)
 
+##### IBM
 #  IBM announces it will buy business intelligence firm Cognos for US$5 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/7091172.stm)
 

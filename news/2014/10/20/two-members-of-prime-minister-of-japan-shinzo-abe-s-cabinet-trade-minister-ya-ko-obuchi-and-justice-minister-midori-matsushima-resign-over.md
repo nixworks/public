@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/20/two-members-of-prime-minister-of-japan-shinzo-abe-s-cabinet-trade-minister-ya-ko-obuchi-and-justice-minister-midori-matsushima-resign-over.html)  [JSON](/news/2014/10/20/two-members-of-prime-minister-of-japan-shinzo-abe-s-cabinet-trade-minister-ya-ko-obuchi-and-justice-minister-midori-matsushima-resign-over.json)  [XML](/news/2014/10/20/two-members-of-prime-minister-of-japan-shinzo-abe-s-cabinet-trade-minister-ya-ko-obuchi-and-justice-minister-midori-matsushima-resign-over.xml)  
+
 ### [2014-10-20](/news/2014/10/20/index.md)
 
+##### Prime Minister of Japan
 # Two members of Prime Minister of Japan Shinzo Abe's cabinet, Trade Minister Yuko Obuchi and Justice Minister Midori Matsushima, resign over a scandal involving alleged misuse of political funds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via NZ Stuff](http://www.stuff.co.nz/world/asia/62549734/blow-to-abe-as-ministers-resign)
 1. [Cover Image](https://resources.stuff.co.nz/content/dam/images/1/1/8/1/l/r/image.related.StuffLandscapeSixteenByNine.620x349.118nom.png/1413783243289.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/20/japanese-toilet-industries-agreed-to-standardiz
 
 ### [2017-01-20](/news/2017/01/20/index.md)
 
+##### Toilets in Japan
 # Japanese toilet industries agreed to standardize the iconography of electric toilet seat controls in order to make them less confusing for users. 
 
 An association of Japanese toilet makers will unify pictograms on toilets with bidet functions to help foreign visitors use them. The nine companies in the

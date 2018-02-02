@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/03/7/zimbabwean-police-in-harare-airport-impound-a-plane-which-flew-in-from-south-africa-with-67-alleged-mercenaries-on-board-the-mercenaries.html)  [JSON](/news/2004/03/7/zimbabwean-police-in-harare-airport-impound-a-plane-which-flew-in-from-south-africa-with-67-alleged-mercenaries-on-board-the-mercenaries.json)  [XML](/news/2004/03/7/zimbabwean-police-in-harare-airport-impound-a-plane-which-flew-in-from-south-africa-with-67-alleged-mercenaries-on-board-the-mercenaries.xml)  
+
 ### [2004-03-7](/news/2004/03/7/index.md)
 
+##### Mark Thatcher
 #  Zimbabwean police in Harare airport impound a plane which flew in from South Africa with 67 alleged mercenaries on board. The mercenaries, funded by Sir Mark Thatcher (UK) were to overthrow the government of Equatorial Guinea.
 
 

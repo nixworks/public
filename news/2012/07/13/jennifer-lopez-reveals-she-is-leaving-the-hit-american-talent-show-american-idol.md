@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/13/jennifer-lopez-reveals-she-is-leaving-the-hit-american-talent-show-american-idol.html)  [JSON](/news/2012/07/13/jennifer-lopez-reveals-she-is-leaving-the-hit-american-talent-show-american-idol.json)  [XML](/news/2012/07/13/jennifer-lopez-reveals-she-is-leaving-the-hit-american-talent-show-american-idol.xml)  
+
 ### [2012-07-13](/news/2012/07/13/index.md)
 
+##### Jennifer Lopez
 # Jennifer Lopez reveals she is leaving the hit American talent show "American Idol". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Billboard](http://www.billboard.com/news/jennifer-lopez-is-leaving-american-idol-1007571952.story#/news/jennifer-lopez-is-leaving-american-idol-1007571952.story)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/25/the-comoros-army-supported-by-african-union-troops-invade-anjouan.html)  [JSON](/news/2008/03/25/the-comoros-army-supported-by-african-union-troops-invade-anjouan.json)  [XML](/news/2008/03/25/the-comoros-army-supported-by-african-union-troops-invade-anjouan.xml)  
+
 ### [2008-03-25](/news/2008/03/25/index.md)
 
+##### Comoros
 #  The Comoros army supported by African Union troops invade Anjouan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7312031.stm)
 

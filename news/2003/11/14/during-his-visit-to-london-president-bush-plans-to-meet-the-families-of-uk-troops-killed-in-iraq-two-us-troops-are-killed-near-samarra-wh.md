@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/14/during-his-visit-to-london-president-bush-plans-to-meet-the-families-of-uk-troops-killed-in-iraq-two-us-troops-are-killed-near-samarra-wh.html)  [JSON](/news/2003/11/14/during-his-visit-to-london-president-bush-plans-to-meet-the-families-of-uk-troops-killed-in-iraq-two-us-troops-are-killed-near-samarra-wh.json)  [XML](/news/2003/11/14/during-his-visit-to-london-president-bush-plans-to-meet-the-families-of-uk-troops-killed-in-iraq-two-us-troops-are-killed-near-samarra-wh.xml)  
+
 ### [2003-11-14](/news/2003/11/14/index.md)
 
+##### London
 #  During his visit to London, President Bush plans to meet the families of UK troops killed in Iraq. Two US troops are killed near Samarra when their vehicle is blown up. US forces kill seven Iraqis thought to have been preparing a rocket attack. Pentagon bans cameras at funerals in Arlington National Cemetery. Coverage of bodies arriving at Dover Air Force Base is already banned.
 
 

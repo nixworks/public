@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/26/an-israeli-citizen-from-an-israeli-settlement-east-of-jerusalem-was-found-murdered-in-ramallah-after-hamas-killed-the-man-they-accused-of-b.html)  [JSON](/news/2005/09/26/an-israeli-citizen-from-an-israeli-settlement-east-of-jerusalem-was-found-murdered-in-ramallah-after-hamas-killed-the-man-they-accused-of-b.json)  [XML](/news/2005/09/26/an-israeli-citizen-from-an-israeli-settlement-east-of-jerusalem-was-found-murdered-in-ramallah-after-hamas-killed-the-man-they-accused-of-b.xml)  
+
 ### [2005-09-26](/news/2005/09/26/index.md)
 
+##### Israel
 #  An Israeli citizen from an Israeli settlement east of Jerusalem was found murdered in Ramallah after Hamas killed the man they accused of being a member of the Shabak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4284216.stm)
 2. [Israeli Insider](http://web.israelinsider.com/Articles/Security/6709.htm)

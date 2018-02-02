@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/10/gholam-ali-haddad-adel-former-speaker-of-the-iranian-parliament-withdraws-his-candidacy-from-the-june-14-presidential-election.html)  [JSON](/news/2013/06/10/gholam-ali-haddad-adel-former-speaker-of-the-iranian-parliament-withdraws-his-candidacy-from-the-june-14-presidential-election.json)  [XML](/news/2013/06/10/gholam-ali-haddad-adel-former-speaker-of-the-iranian-parliament-withdraws-his-candidacy-from-the-june-14-presidential-election.xml)  
+
 ### [2013-06-10](/news/2013/06/10/index.md)
 
+##### Gholam-Ali Haddad-Adel
 # Gholam-Ali Haddad-Adel, former Speaker of the Iranian parliament, withdraws his candidacy from the June 14 presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2013/06/10/world/meast/iran-elections/?hpt=hp_t3)
 2. [Haaretz](http://www.haaretz.com/news/middle-east/conservative-drops-out-of-iranian-presidential-election.premium-1.528902)

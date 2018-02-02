@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/23/the-multi-billion-dollar-king-abdullah-university-of-science-and-technology-boasting-one-of-the-world-s-fastest-supercomputers-opens-near.html)  [JSON](/news/2009/09/23/the-multi-billion-dollar-king-abdullah-university-of-science-and-technology-boasting-one-of-the-world-s-fastest-supercomputers-opens-near.json)  [XML](/news/2009/09/23/the-multi-billion-dollar-king-abdullah-university-of-science-and-technology-boasting-one-of-the-world-s-fastest-supercomputers-opens-near.xml)  
+
 ### [2009-09-23](/news/2009/09/23/index.md)
 
+##### King Abdullah University of Science and Technology
 #  The multi-billion dollar King Abdullah University of Science and Technology, boasting one of the world's fastest supercomputers, opens near Jeddah in Saudi Arabia in an attempt to enable the country to compete in science and technology internationally. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8270601.stm)
 

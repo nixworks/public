@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/10/incumbent-igor-smirnov-wins-the-presidential-elections-in-the-self-declared-state-of-transnistria.html)  [JSON](/news/2006/12/10/incumbent-igor-smirnov-wins-the-presidential-elections-in-the-self-declared-state-of-transnistria.json)  [XML](/news/2006/12/10/incumbent-igor-smirnov-wins-the-presidential-elections-in-the-self-declared-state-of-transnistria.xml)  
+
 ### [2006-12-10](/news/2006/12/10/index.md)
 
+##### Igor Smirnov
 #  Incumbent Igor Smirnov wins the presidential elections in the self-declared state of Transnistria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [DPA](http://www.playfuls.com/news_10_4997-ROUNDUP-Separatist-Wins-Fourth-Term-As-President-In-Transnistria.html)
 

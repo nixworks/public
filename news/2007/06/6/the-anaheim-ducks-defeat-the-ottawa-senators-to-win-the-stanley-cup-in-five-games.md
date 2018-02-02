@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/6/the-anaheim-ducks-defeat-the-ottawa-senators-to-win-the-stanley-cup-in-five-games.html)  [JSON](/news/2007/06/6/the-anaheim-ducks-defeat-the-ottawa-senators-to-win-the-stanley-cup-in-five-games.json)  [XML](/news/2007/06/6/the-anaheim-ducks-defeat-the-ottawa-senators-to-win-the-stanley-cup-in-five-games.xml)  
+
 ### [2007-06-6](/news/2007/06/6/index.md)
 
+##### Anaheim Ducks
 #  The Anaheim Ducks defeat the Ottawa Senators to win the Stanley Cup in five games. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Charlotte Observer](http://www.charlotte.com/472/story/150134.html)
 

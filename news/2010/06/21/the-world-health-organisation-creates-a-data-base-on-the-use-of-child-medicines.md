@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/21/the-world-health-organisation-creates-a-data-base-on-the-use-of-child-medicines.html)  [JSON](/news/2010/06/21/the-world-health-organisation-creates-a-data-base-on-the-use-of-child-medicines.json)  [XML](/news/2010/06/21/the-world-health-organisation-creates-a-data-base-on-the-use-of-child-medicines.xml)  
+
 ### [2010-06-21](/news/2010/06/21/index.md)
 
+##### World Health Organisation
 # The World Health Organisation creates a data base on the use of child medicines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/9136059)
 

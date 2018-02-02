@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/25/u-s-district-judge-charles-r-breyer-in-san-fran
 
 ### [2016-10-25](/news/2016/10/25/index.md)
 
+##### Charles R. Breyer
 # U.S. District Judge Charles R. Breyer in San Francisco approves German automaker Volkswagen $14.7 billion settlement with federal and California regulators and the owners of the 475,000 polluting diesel vehicles over diesel emissions cheating scandal. Volkswagen still faces billions of dollars more in fines and litigation. 
 
 
@@ -15,7 +16,7 @@ Formats: [HTML](/news/2016/10/25/u-s-district-judge-charles-r-breyer-in-san-fran
 
 ### Related:
 
-1. [Volkswagen agrees to pay $175 million to United States lawyers suing the German automaker on behalf of the owners of 475,000 polluting vehicles. ](/news/2016/10/14/volkswagen-agrees-to-pay-175-million-to-united-states-lawyers-suing-the-german-automaker-on-behalf-of-the-owners-of-475-000-polluting-vehic.md) _Context: $, Germany, Volkswagen_
+1. [Volkswagen agrees to pay $175 million to United States lawyers suing the German automaker on behalf of the owners of 475,000 polluting vehicles. ](/news/2016/10/14/volkswagen-agrees-to-pay-175-million-to-united-states-lawyers-suing-the-german-automaker-on-behalf-of-the-owners-of-475-000-polluting-vehic.md) _Context: $, German, Volkswagen_
 2. [ A civil trial begins in San Francisco, California, in the U.S. Justice Department's effort to prevent the purchase of PeopleSoft by Oracle Corporation. Antitrust authorities contend that the proposed acquisition of PeopleSoft, for USD $7.7 billion, would effectively monopolize the market for enterprise software. ](/news/2004/06/7/a-civil-trial-begins-in-san-francisco-california-in-the-u-s-justice-department-s-effort-to-prevent-the-purchase-of-peoplesoft-by-oracle.md) _Context: $, California, San Francisco_
 3. [California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md) _Context: California, San Francisco_
 4. [Four people, including the gunman, are dead, and six injured, after a man opens fire at people in a UPS building in the Potrero Hill neighborhood of San Francisco, California. ](/news/2017/06/14/four-people-including-the-gunman-are-dead-and-six-injured-after-a-man-opens-fire-at-people-in-a-ups-building-in-the-potrero-hill-neighbo.md) _Context: California, San Francisco_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/24/kenyan-amisom-troops-advancing-towards-the-al-shabaab-stronghold-of-kismayo-deliberately-shoot-dead-seven-somali-civilians-according-to.html)  [JSON](/news/2012/09/24/kenyan-amisom-troops-advancing-towards-the-al-shabaab-stronghold-of-kismayo-deliberately-shoot-dead-seven-somali-civilians-according-to.json)  [XML](/news/2012/09/24/kenyan-amisom-troops-advancing-towards-the-al-shabaab-stronghold-of-kismayo-deliberately-shoot-dead-seven-somali-civilians-according-to.xml)  
+
 ### [2012-09-24](/news/2012/09/24/index.md)
 
+##### Kenya
 # Kenyan AMISOM troops, advancing towards the al-Shabaab stronghold of Kismayo, "deliberately" shoot dead seven Somali civilians, according to a Somali Army spokesman. The Hizbul Islam faction announces that it leaves the al-Shabaab. 
 
 Six civilians are shot dead by a Kenyan soldier advancing towards the al-Shabab stronghold of Kismayo, the Kenyan army confirms.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19698348)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63070000/jpg/_63070689_kenyaafp.jpg)

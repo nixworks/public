@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/31/occupation-of-iraq-a-car-bomb-detonates-outside-an-upmarket-baghdad-restaurant-much-favoured-by-foreign-journalists-killing-five-new-year.html)  [JSON](/news/2003/12/31/occupation-of-iraq-a-car-bomb-detonates-outside-an-upmarket-baghdad-restaurant-much-favoured-by-foreign-journalists-killing-five-new-year.json)  [XML](/news/2003/12/31/occupation-of-iraq-a-car-bomb-detonates-outside-an-upmarket-baghdad-restaurant-much-favoured-by-foreign-journalists-killing-five-new-year.xml)  
+
 ### [2003-12-31](/news/2003/12/31/index.md)
 
+##### Occupation of Iraq
 # Occupation of Iraq: A car bomb detonates outside an upmarket Baghdad restaurant much favoured by foreign journalists, killing five New Year revelers. [http:--news.bbc.co.uk-2-hi-middle_east-3359687.stm]
 
 

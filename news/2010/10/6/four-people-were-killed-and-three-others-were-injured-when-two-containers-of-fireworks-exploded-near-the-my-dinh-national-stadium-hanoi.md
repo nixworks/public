@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/6/four-people-were-killed-and-three-others-were-injured-when-two-containers-of-fireworks-exploded-near-the-my-dinh-national-stadium-hanoi.html)  [JSON](/news/2010/10/6/four-people-were-killed-and-three-others-were-injured-when-two-containers-of-fireworks-exploded-near-the-my-dinh-national-stadium-hanoi.json)  [XML](/news/2010/10/6/four-people-were-killed-and-three-others-were-injured-when-two-containers-of-fireworks-exploded-near-the-my-dinh-national-stadium-hanoi.xml)  
+
 ### [2010-10-6](/news/2010/10/6/index.md)
 
+##### My Dinh National Stadium
 # Four people were killed and three others were injured when two containers of fireworks exploded near the My Dinh National Stadium, Hanoi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Vietnamnet](http://english.vietnamnet.vn/social/201010/Four-die-in-firework-explosion-in-Hanoi-939912/)
 

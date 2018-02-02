@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/9/kul-bahadur-khadka-the-nepalese-general-appointed-acting-army-chief-by-former-maoist-prime-minister-prachanda-denies-allegations-of-plans.html)  [JSON](/news/2009/07/9/kul-bahadur-khadka-the-nepalese-general-appointed-acting-army-chief-by-former-maoist-prime-minister-prachanda-denies-allegations-of-plans.json)  [XML](/news/2009/07/9/kul-bahadur-khadka-the-nepalese-general-appointed-acting-army-chief-by-former-maoist-prime-minister-prachanda-denies-allegations-of-plans.xml)  
+
 ### [2009-07-9](/news/2009/07/9/index.md)
 
+##### Kul Bahadur Khadka
 #  Kul Bahadur Khadka, the Nepalese general appointed acting army chief by former Maoist Prime Minister Prachanda denies allegations of plans to stage a coup d'tat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8141249.stm)
 

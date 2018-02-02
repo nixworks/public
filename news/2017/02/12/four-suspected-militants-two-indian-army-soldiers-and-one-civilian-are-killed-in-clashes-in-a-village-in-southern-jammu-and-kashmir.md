@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/12/four-suspected-militants-two-indian-army-soldie
 
 ### [2017-02-12](/news/2017/02/12/index.md)
 
+##### Kashmir conflict
 # Four suspected militants, two Indian Army soldiers, and one civilian are killed in clashes in a village in southern Jammu and Kashmir. 
 
 Four suspected fighters and two Indian soldiers killed in gun battle in a village in Indian-administered Kashmir.

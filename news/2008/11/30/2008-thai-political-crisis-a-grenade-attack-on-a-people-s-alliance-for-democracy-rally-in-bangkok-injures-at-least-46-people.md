@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/30/2008-thai-political-crisis-a-grenade-attack-on-a-people-s-alliance-for-democracy-rally-in-bangkok-injures-at-least-46-people.html)  [JSON](/news/2008/11/30/2008-thai-political-crisis-a-grenade-attack-on-a-people-s-alliance-for-democracy-rally-in-bangkok-injures-at-least-46-people.json)  [XML](/news/2008/11/30/2008-thai-political-crisis-a-grenade-attack-on-a-people-s-alliance-for-democracy-rally-in-bangkok-injures-at-least-46-people.xml)  
+
 ### [2008-11-30](/news/2008/11/30/index.md)
 
+##### assemble
 #  2008 Thai political crisis: A grenade attack on a People's Alliance for Democracy rally in Bangkok injures at least 46 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via The Melbourne Age](http://news.theage.com.au/world/grenade-attack-wounds-46-thai-protesters-20081130-6nhj.html)
 

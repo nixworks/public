@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/12/jailed-palestinian-leader-marwan-barghouti-withdraws-his-nomination-in-the-palestinian-presidential-election-just-ten-days-after-announcing.html)  [JSON](/news/2004/12/12/jailed-palestinian-leader-marwan-barghouti-withdraws-his-nomination-in-the-palestinian-presidential-election-just-ten-days-after-announcing.json)  [XML](/news/2004/12/12/jailed-palestinian-leader-marwan-barghouti-withdraws-his-nomination-in-the-palestinian-presidential-election-just-ten-days-after-announcing.xml)  
+
 ### [2004-12-12](/news/2004/12/12/index.md)
 
+##### Marwan Barghouti
 #  Jailed Palestinian leader Marwan Barghouti withdraws his nomination in the Palestinian presidential election just ten days after announcing his candidacy, and instead endorses Fatah candidate Mahmoud Abbas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4090545.stm)
 

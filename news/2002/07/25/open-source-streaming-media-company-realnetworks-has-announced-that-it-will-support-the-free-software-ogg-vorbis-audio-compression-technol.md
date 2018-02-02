@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/25/open-source-streaming-media-company-realnetworks-has-announced-that-it-will-support-the-free-software-ogg-vorbis-audio-compression-technol.html)  [JSON](/news/2002/07/25/open-source-streaming-media-company-realnetworks-has-announced-that-it-will-support-the-free-software-ogg-vorbis-audio-compression-technol.json)  [XML](/news/2002/07/25/open-source-streaming-media-company-realnetworks-has-announced-that-it-will-support-the-free-software-ogg-vorbis-audio-compression-technol.xml)  
+
 ### [2002-07-25](/news/2002/07/25/index.md)
 
+##### Open source
 #  Open source: Streaming media company RealNetworks has announced that it will support the free software Ogg Vorbis audio compression technology as part of its new open-source initiative. This will provide a mass market for the Vorbis technology, allowing it access to network effects which may make it a serious competitor to Microsoft's closed technologies.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/21/2011-syrian-uprising-gunfire-and-arrests-take-place-in-syria-s-third-largest-city-of-homs-against-anti-government-protests.html)  [JSON](/news/2011/07/21/2011-syrian-uprising-gunfire-and-arrests-take-place-in-syria-s-third-largest-city-of-homs-against-anti-government-protests.json)  [XML](/news/2011/07/21/2011-syrian-uprising-gunfire-and-arrests-take-place-in-syria-s-third-largest-city-of-homs-against-anti-government-protests.xml)  
+
 ### [2011-07-21](/news/2011/07/21/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Gunfire and arrests take place in Syria's third largest city of Homs against anti-government protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/201172110946880289.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/11/2011711101111900833_20.jpg)

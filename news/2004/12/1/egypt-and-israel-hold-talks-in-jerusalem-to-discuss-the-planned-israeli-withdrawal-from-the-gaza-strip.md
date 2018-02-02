@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/1/egypt-and-israel-hold-talks-in-jerusalem-to-discuss-the-planned-israeli-withdrawal-from-the-gaza-strip.html)  [JSON](/news/2004/12/1/egypt-and-israel-hold-talks-in-jerusalem-to-discuss-the-planned-israeli-withdrawal-from-the-gaza-strip.json)  [XML](/news/2004/12/1/egypt-and-israel-hold-talks-in-jerusalem-to-discuss-the-planned-israeli-withdrawal-from-the-gaza-strip.xml)  
+
 ### [2004-12-1](/news/2004/12/1/index.md)
 
+##### Egypt
 # Egypt and Israel hold talks in Jerusalem to discuss the planned Israeli withdrawal from the Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4057671.stm)
 

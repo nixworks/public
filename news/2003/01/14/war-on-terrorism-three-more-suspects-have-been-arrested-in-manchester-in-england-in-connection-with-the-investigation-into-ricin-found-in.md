@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/14/war-on-terrorism-three-more-suspects-have-been-arrested-in-manchester-in-england-in-connection-with-the-investigation-into-ricin-found-in.html)  [JSON](/news/2003/01/14/war-on-terrorism-three-more-suspects-have-been-arrested-in-manchester-in-england-in-connection-with-the-investigation-into-ricin-found-in.json)  [XML](/news/2003/01/14/war-on-terrorism-three-more-suspects-have-been-arrested-in-manchester-in-england-in-connection-with-the-investigation-into-ricin-found-in.xml)  
+
 ### [2003-01-14](/news/2003/01/14/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: Three more suspects have been arrested in Manchester in England in connection with the investigation into ricin found in London, although it now appears as though the raid was initially carried out as the pursuance of an investigation into immigration issues. A Special Branch police officer, Stephen Oake, was fatally stabbed during the arrests, and three other officers were also injured, one seriously. This brings the total of those arrested to fourteen.
 
 

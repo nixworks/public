@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/10/the-diana-princess-of-wales-memorial-fund-announces-that-on-legal-advice-it-has-frozen-its-funds-as-it-faces-a-demand-for-gbp15-nbsp-milli.html)  [JSON](/news/2003/07/10/the-diana-princess-of-wales-memorial-fund-announces-that-on-legal-advice-it-has-frozen-its-funds-as-it-faces-a-demand-for-gbp15-nbsp-milli.json)  [XML](/news/2003/07/10/the-diana-princess-of-wales-memorial-fund-announces-that-on-legal-advice-it-has-frozen-its-funds-as-it-faces-a-demand-for-gbp15-nbsp-milli.xml)  
+
 ### [2003-07-10](/news/2003/07/10/index.md)
 
+##### Diana, Princess of Wales Memorial Fund
 #  The Diana, Princess of Wales Memorial Fund announces that on legal advice it has frozen its funds as it faces a demand for GBP15&nbsp;million ($25&nbsp;million) damages for alleged "malicious prosecution" from the "Franklin Mint" in the US. The Mint had won a courtcase over its right to manufacture a Diana, Princess of Wales lookalike doll. Hundreds of charities are expected face financial difficulties as a result of the freeze. Arc Charity Chief Executive James Churchill says "I hope that the Franklin Mint Corporation is aware of the damage that their action is causing to groups of vulnerable young people all over the world."
 
 

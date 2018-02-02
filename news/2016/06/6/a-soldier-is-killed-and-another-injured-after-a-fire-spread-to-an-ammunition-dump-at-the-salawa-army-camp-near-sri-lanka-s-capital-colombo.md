@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/6/a-soldier-is-killed-and-another-injured-after-a-
 
 ### [2016-06-6](/news/2016/06/6/index.md)
 
+##### Sri Lanka
 # A soldier is killed and another injured after a fire spread to an ammunition dump at the Salawa army camp near Sri Lanka's capital Colombo. Thousands of people in the area were evacuated. The fire is under control, according to a military spokesman. 
 
 COLOMBO, Sri Lanka (AP) — A fire that set off explosions and killed a soldier at an army camp near Sri Lanka&#039;s capital has been put out, officials said Monday. Military spokesman Brig. Jayanath Jayaweera said soldiers…

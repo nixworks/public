@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2015/06/11/greek-broadcaster-ert-is-reopened-as-one-of-new-prime-minister-alexis-tsipras-s-moves.html)  [JSON](/news/2015/06/11/greek-broadcaster-ert-is-reopened-as-one-of-new-prime-minister-alexis-tsipras-s-moves.json)  [XML](/news/2015/06/11/greek-broadcaster-ert-is-reopened-as-one-of-new-prime-minister-alexis-tsipras-s-moves.xml)  
+
 ### [2015-06-11](/news/2015/06/11/index.md)
 
+##### ERT
 # Greek broadcaster ERT is reopened as one of new Prime Minister Alexis Tsipras's moves.
 
 

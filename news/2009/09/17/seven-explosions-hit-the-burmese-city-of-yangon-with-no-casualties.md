@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/17/seven-explosions-hit-the-burmese-city-of-yangon-with-no-casualties.html)  [JSON](/news/2009/09/17/seven-explosions-hit-the-burmese-city-of-yangon-with-no-casualties.json)  [XML](/news/2009/09/17/seven-explosions-hit-the-burmese-city-of-yangon-with-no-casualties.xml)  
+
 ### [2009-09-17](/news/2009/09/17/index.md)
 
+##### Burma
 #  Seven explosions hit the Burmese city of Yangon with no casualties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/154688/seven-bomb-blasts-in-burma-no-casualties-police)
 2. [Times of India](http://timesofindia.indiatimes.com/news/world/rest-of-world/Series-of-explosions-hit-Myanmars-biggest-city/articleshow/5022187.cms)

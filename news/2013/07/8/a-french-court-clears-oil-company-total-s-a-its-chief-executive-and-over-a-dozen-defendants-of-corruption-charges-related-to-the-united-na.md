@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/8/a-french-court-clears-oil-company-total-s-a-its-chief-executive-and-over-a-dozen-defendants-of-corruption-charges-related-to-the-united-na.html)  [JSON](/news/2013/07/8/a-french-court-clears-oil-company-total-s-a-its-chief-executive-and-over-a-dozen-defendants-of-corruption-charges-related-to-the-united-na.json)  [XML](/news/2013/07/8/a-french-court-clears-oil-company-total-s-a-its-chief-executive-and-over-a-dozen-defendants-of-corruption-charges-related-to-the-united-na.xml)  
+
 ### [2013-07-8](/news/2013/07/8/index.md)
 
+##### France
 # A French court clears oil company Total S.A., its chief executive and over a dozen defendants of corruption charges related to the United Nations oil-for-food programme in Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-23232162)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68614000/jpg/_68614177_000132461.jpg)

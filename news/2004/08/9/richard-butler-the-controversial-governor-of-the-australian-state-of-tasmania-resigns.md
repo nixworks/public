@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/9/richard-butler-the-controversial-governor-of-the-australian-state-of-tasmania-resigns.html)  [JSON](/news/2004/08/9/richard-butler-the-controversial-governor-of-the-australian-state-of-tasmania-resigns.json)  [XML](/news/2004/08/9/richard-butler-the-controversial-governor-of-the-australian-state-of-tasmania-resigns.xml)  
+
 ### [2004-08-9](/news/2004/08/9/index.md)
 
+##### Richard Butler
 #  Richard Butler, the controversial governor of the Australian state of Tasmania, resigns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABCnews](http://www.abc.net.au/news/newsitems/200408/s1172530.htm)
 

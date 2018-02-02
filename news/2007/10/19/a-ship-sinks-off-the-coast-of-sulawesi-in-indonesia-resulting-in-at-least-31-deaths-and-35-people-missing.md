@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/19/a-ship-sinks-off-the-coast-of-sulawesi-in-indonesia-resulting-in-at-least-31-deaths-and-35-people-missing.html)  [JSON](/news/2007/10/19/a-ship-sinks-off-the-coast-of-sulawesi-in-indonesia-resulting-in-at-least-31-deaths-and-35-people-missing.json)  [XML](/news/2007/10/19/a-ship-sinks-off-the-coast-of-sulawesi-in-indonesia-resulting-in-at-least-31-deaths-and-35-people-missing.xml)  
+
 ### [2007-10-19](/news/2007/10/19/index.md)
 
+##### Sulawesi island
 #  A ship sinks off the coast of Sulawesi in Indonesia resulting in at least 31 deaths and 35 people missing. 
 
 A capsized passenger ferry close to a port on the Indonesian island of Sulawesi has left 31 people dead and 35 missing.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/10/19/2064249.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

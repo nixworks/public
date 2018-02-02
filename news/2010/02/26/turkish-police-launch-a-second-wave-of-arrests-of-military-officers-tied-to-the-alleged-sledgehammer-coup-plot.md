@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/26/turkish-police-launch-a-second-wave-of-arrests-of-military-officers-tied-to-the-alleged-sledgehammer-coup-plot.html)  [JSON](/news/2010/02/26/turkish-police-launch-a-second-wave-of-arrests-of-military-officers-tied-to-the-alleged-sledgehammer-coup-plot.json)  [XML](/news/2010/02/26/turkish-police-launch-a-second-wave-of-arrests-of-military-officers-tied-to-the-alleged-sledgehammer-coup-plot.xml)  
+
 ### [2010-02-26](/news/2010/02/26/index.md)
 
+##### Turkish police
 # Turkish police launch a second wave of arrests of military officers tied to the alleged "Sledgehammer" coup plot. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/02/26/turkey.sledgehammer.arrests/index.html)
 

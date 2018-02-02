@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/18/the-african-union-says-a-twin-bombing-that-killed-17-peacekeepers-on-its-base-in-mogadishu-somalia-was-conducted-in-un-marked-cars.html)  [JSON](/news/2009/09/18/the-african-union-says-a-twin-bombing-that-killed-17-peacekeepers-on-its-base-in-mogadishu-somalia-was-conducted-in-un-marked-cars.json)  [XML](/news/2009/09/18/the-african-union-says-a-twin-bombing-that-killed-17-peacekeepers-on-its-base-in-mogadishu-somalia-was-conducted-in-un-marked-cars.xml)  
+
 ### [2009-09-18](/news/2009/09/18/index.md)
 
+##### African Union
 #  The African Union says a twin bombing that killed 17 peacekeepers on its base in Mogadishu, Somalia, was conducted in UN marked cars. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/africa/09/18/somalia.suicide.attack/)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090918121524565C823719)

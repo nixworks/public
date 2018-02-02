@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/19/burmese-opposition-figure-aung-san-suu-kyi-celebrates-her-first-birthday-in-freedom-for-more-than-10-years.html)  [JSON](/news/2011/06/19/burmese-opposition-figure-aung-san-suu-kyi-celebrates-her-first-birthday-in-freedom-for-more-than-10-years.json)  [XML](/news/2011/06/19/burmese-opposition-figure-aung-san-suu-kyi-celebrates-her-first-birthday-in-freedom-for-more-than-10-years.xml)  
+
 ### [2011-06-19](/news/2011/06/19/index.md)
 
+##### Burma
 # Burmese opposition figure Aung San Suu Kyi celebrates her first birthday in freedom for more than 10 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jhF3ML20rmM4SaCcpfThgIQEav2Q?docId=5ab35317c866461ca70954f11ce8bc29)
 2. [Al Arabiya](http://english.alarabiya.net/articles/2011/06/19/153932.html)

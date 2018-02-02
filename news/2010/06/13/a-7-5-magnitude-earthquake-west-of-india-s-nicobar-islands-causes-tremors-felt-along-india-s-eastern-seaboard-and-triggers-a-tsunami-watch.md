@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/13/a-7-5-magnitude-earthquake-west-of-india-s-nicobar-islands-causes-tremors-felt-along-india-s-eastern-seaboard-and-triggers-a-tsunami-watch.html)  [JSON](/news/2010/06/13/a-7-5-magnitude-earthquake-west-of-india-s-nicobar-islands-causes-tremors-felt-along-india-s-eastern-seaboard-and-triggers-a-tsunami-watch.json)  [XML](/news/2010/06/13/a-7-5-magnitude-earthquake-west-of-india-s-nicobar-islands-causes-tremors-felt-along-india-s-eastern-seaboard-and-triggers-a-tsunami-watch.xml)  
+
 ### [2010-06-13](/news/2010/06/13/index.md)
 
+##### earthquake
 # A 7.5-magnitude earthquake west of India's Nicobar Islands causes tremors felt along India's eastern seaboard and triggers a tsunami watch, which is later cancelled. 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gIAokUzzRrZDi7xM-zbeaypf6_ew)
 2. [NDTV](http://www.ndtv.com/news/india/earthquake-hits-nicobar-islands-no-damage-reported-31338.php)

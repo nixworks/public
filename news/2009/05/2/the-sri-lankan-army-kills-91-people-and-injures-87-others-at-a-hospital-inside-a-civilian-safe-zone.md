@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/2/the-sri-lankan-army-kills-91-people-and-injures-87-others-at-a-hospital-inside-a-civilian-safe-zone.html)  [JSON](/news/2009/05/2/the-sri-lankan-army-kills-91-people-and-injures-87-others-at-a-hospital-inside-a-civilian-safe-zone.json)  [XML](/news/2009/05/2/the-sri-lankan-army-kills-91-people-and-injures-87-others-at-a-hospital-inside-a-civilian-safe-zone.xml)  
+
 ### [2009-05-2](/news/2009/05/2/index.md)
 
+##### Sri Lanka
 #  The Sri Lankan Army kills 91 people and injures 87 others at a hospital inside a civilian safe zone. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8030605.stm)
 

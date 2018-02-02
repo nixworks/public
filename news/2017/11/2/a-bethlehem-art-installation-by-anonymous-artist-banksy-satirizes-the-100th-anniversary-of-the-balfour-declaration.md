@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/2/a-bethlehem-art-installation-by-anonymous-artist
 
 ### [2017-11-2](/news/2017/11/2/index.md)
 
+##### Bethlehem
 # A Bethlehem art installation (by anonymous artist Banksy) satirizes the 100th anniversary of the Balfour Declaration. 
 
 Palestinian flag raised at event in Bethlehem held in week of centenary of declaration promising UK assistance in creation of Jewish homeland
@@ -20,8 +21,8 @@ Palestinian flag raised at event in Bethlehem held in week of centenary of decla
 
 ### Related:
 
-1. [The Palestinian National Authority says it is planning to sue the United Kingdom over the 1917 Balfour Declaration. Palestinian Foreign Affairs Minister Riyad al-Maliki says the document led to mass Jewish immigration to British Mandatory Palestine, "at the expense of our Palestinian people". ](/news/2016/07/26/the-palestinian-national-authority-says-it-is-planning-to-sue-the-united-kingdom-over-the-1917-balfour-declaration-palestinian-foreign-affa.md) _Context: Balfour Declaration_
-2. [Restoration work at the Church of the Nativity in Bethlehem, Palestine reveals a hidden angel mosaic. ](/news/2016/07/12/restoration-work-at-the-church-of-the-nativity-in-bethlehem-palestine-reveals-a-hidden-angel-mosaic.md) _Context: Bethlehem_
-3. [A Palestinian woman was arrested after stabbing and seriously wounding a female IDF soldier at a checkpoint near Bethlehem. ](/news/2015/06/29/a-palestinian-woman-was-arrested-after-stabbing-and-seriously-wounding-a-female-idf-soldier-at-a-checkpoint-near-bethlehem.md) _Context: Bethlehem_
-4. [Parachuting Rat, an artwork by Banksy, in Melbourne, estimated to be worth AU$50,000, has been accidentally destroyed by building work. ](/news/2012/05/16/parachuting-rat-an-artwork-by-banksy-in-melbourne-estimated-to-be-worth-au-50-000-has-been-accidentally-destroyed-by-building-work.md) _Context: Banksy_
-5. [Greek Orthodox and Armenian Apostolic priests fight in the Church of the Nativity in Bethlehem over a cleaning dispute; Palestinian police break up the fighting. ](/news/2011/12/28/greek-orthodox-and-armenian-apostolic-priests-fight-in-the-church-of-the-nativity-in-bethlehem-over-a-cleaning-dispute-palestinian-police-b.md) _Context: Bethlehem_
+1. [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. In conflicts where Israeli law enforcement used live ammunition and Palestinians threw rocks, two Palestinians died in Gaza while 150 were wounded and two more were killed in the West Bank while a further 10 were wounded. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md) _Context: Bethlehem_
+2. [The Palestinian National Authority says it is planning to sue the United Kingdom over the 1917 Balfour Declaration. Palestinian Foreign Affairs Minister Riyad al-Maliki says the document led to mass Jewish immigration to British Mandatory Palestine, "at the expense of our Palestinian people". ](/news/2016/07/26/the-palestinian-national-authority-says-it-is-planning-to-sue-the-united-kingdom-over-the-1917-balfour-declaration-palestinian-foreign-affa.md) _Context: Balfour Declaration_
+3. [Restoration work at the Church of the Nativity in Bethlehem, Palestine reveals a hidden angel mosaic. ](/news/2016/07/12/restoration-work-at-the-church-of-the-nativity-in-bethlehem-palestine-reveals-a-hidden-angel-mosaic.md) _Context: Bethlehem_
+4. [A Palestinian woman was arrested after stabbing and seriously wounding a female IDF soldier at a checkpoint near Bethlehem. ](/news/2015/06/29/a-palestinian-woman-was-arrested-after-stabbing-and-seriously-wounding-a-female-idf-soldier-at-a-checkpoint-near-bethlehem.md) _Context: Bethlehem_
+5. [Parachuting Rat, an artwork by Banksy, in Melbourne, estimated to be worth AU$50,000, has been accidentally destroyed by building work. ](/news/2012/05/16/parachuting-rat-an-artwork-by-banksy-in-melbourne-estimated-to-be-worth-au-50-000-has-been-accidentally-destroyed-by-building-work.md) _Context: Banksy_

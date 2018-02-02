@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/01/14/the-death-toll-due-to-the-political-crisis-in-the-ivory-coast-reaches-247-since-the-november-28th-election.html)  [JSON](/news/2011/01/14/the-death-toll-due-to-the-political-crisis-in-the-ivory-coast-reaches-247-since-the-november-28th-election.json)  [XML](/news/2011/01/14/the-death-toll-due-to-the-political-crisis-in-the-ivory-coast-reaches-247-since-the-november-28th-election.xml)  
+
 ### [2011-01-14](/news/2011/01/14/index.md)
 
+##### 2010-2011 Ivorian crisis
 # The death toll due to the political crisis in the Ivory Coast reaches 247 since the November 28th election.
 
 At least 247 people have been killed in violence in Ivory Coast since its disputed November 28 presidential election, the United Nations human rights office said on Friday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE70D3HD20110114)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110114&t=2&i=306154911&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-14T213935Z_01_BTRE70D16H700_RTROPTP_0_IVORY-COAST)
+1. [Reuters](https://www.reuters.com/article/idUSTRE70D3HD20110114)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110114&t=2&i=306154911&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-14T213935Z_01_BTRE70D16H700_RTROPTP_0_IVORY-COAST)
 
 ### Related:
 

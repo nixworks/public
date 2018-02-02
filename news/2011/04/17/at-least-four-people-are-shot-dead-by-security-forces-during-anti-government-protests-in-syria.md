@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/17/at-least-four-people-are-shot-dead-by-security-forces-during-anti-government-protests-in-syria.html)  [JSON](/news/2011/04/17/at-least-four-people-are-shot-dead-by-security-forces-during-anti-government-protests-in-syria.json)  [XML](/news/2011/04/17/at-least-four-people-are-shot-dead-by-security-forces-during-anti-government-protests-in-syria.xml)  
+
 ### [2011-04-17](/news/2011/04/17/index.md)
 
+##### protestors
 # At least four people are shot dead by security forces during anti-government protests in Syria. 
 
 Thousands of people waving Syrian flags and shouting &quot;We Want Freedom!&quot; took to the streets in southern Syria, a day after President Bashar Assad promised to end nearly 50 years of emergency rule.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/1123377/1/.html)
 2. [CBC](http://www.cbc.ca/news/world/story/2011/04/17/syria-protests-sunday.html)

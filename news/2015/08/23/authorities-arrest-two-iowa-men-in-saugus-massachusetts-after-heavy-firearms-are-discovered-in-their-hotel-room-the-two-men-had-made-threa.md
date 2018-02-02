@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/23/authorities-arrest-two-iowa-men-in-saugus-massachusetts-after-heavy-firearms-are-discovered-in-their-hotel-room-the-two-men-had-made-threa.html)  [JSON](/news/2015/08/23/authorities-arrest-two-iowa-men-in-saugus-massachusetts-after-heavy-firearms-are-discovered-in-their-hotel-room-the-two-men-had-made-threa.json)  [XML](/news/2015/08/23/authorities-arrest-two-iowa-men-in-saugus-massachusetts-after-heavy-firearms-are-discovered-in-their-hotel-room-the-two-men-had-made-threa.xml)  
+
 ### [2015-08-23](/news/2015/08/23/index.md)
 
+##### Iowa
 # Authorities arrest two Iowa men in Saugus, Massachusetts after heavy firearms are discovered in their hotel room. The two men had made threats on social media stating their targeting of the 2015 Pokemon Video Game World Championships that are being held in Boston. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/08/23/us/pokemon-championships-threats/)
 

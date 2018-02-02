@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/28/thailand-begins-repatriating-4-000-hmong-to-laos-against-their-will-despite-international-protest.html)  [JSON](/news/2009/12/28/thailand-begins-repatriating-4-000-hmong-to-laos-against-their-will-despite-international-protest.json)  [XML](/news/2009/12/28/thailand-begins-repatriating-4-000-hmong-to-laos-against-their-will-despite-international-protest.xml)  
+
 ### [2009-12-28](/news/2009/12/28/index.md)
 
+##### Thailand
 #  Thailand begins repatriating 4,000 Hmong to Laos against their will, despite international protest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/asia-pacific/8432094.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/163776/thailand-starts-deporting-hmong-to-laos)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/02/19/palestinian-israeli-conflict-interim-israeli-prime-minister-ehud-olmert-decides-to-withhold-payment-to-the-palestinian-authority-of-tax-re.html)  [JSON](/news/2006/02/19/palestinian-israeli-conflict-interim-israeli-prime-minister-ehud-olmert-decides-to-withhold-payment-to-the-palestinian-authority-of-tax-re.json)  [XML](/news/2006/02/19/palestinian-israeli-conflict-interim-israeli-prime-minister-ehud-olmert-decides-to-withhold-payment-to-the-palestinian-authority-of-tax-re.xml)  
+
 ### [2006-02-19](/news/2006/02/19/index.md)
 
+##### Palestinian-Israeli conflict
 #  Palestinian-Israeli conflict: Interim Israeli Prime Minister Ehud Olmert decides to withhold payment to the Palestinian Authority of tax receipts amounting to about $50 million per month. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2006/02/19/international/middleeast/19cnd-mideast.html?)
+1. [New York Times](https://www.nytimes.com/2006/02/19/international/middleeast/19cnd-mideast.html?)
 2. [Reuters](http://today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=uri:2006-02-19T204037Z_01_L17580155_RTRUKOC_0_US-MIDEAST.xml&pageNumber=0&summit=)
 2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 

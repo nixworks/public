@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/6/india-successfully-conducts-an-interceptor-missile-test-over-the-bay-of-bengal.html)  [JSON](/news/2011/03/6/india-successfully-conducts-an-interceptor-missile-test-over-the-bay-of-bengal.json)  [XML](/news/2011/03/6/india-successfully-conducts-an-interceptor-missile-test-over-the-bay-of-bengal.xml)  
+
 ### [2011-03-6](/news/2011/03/6/index.md)
 
+##### India
 # India successfully conducts an interceptor missile test over the Bay of Bengal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Indian Express](http://www.indianexpress.com/news/india-testfires-interceptor-missile/758570/)
 2. [The Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_642079.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/30/one-hundred-and-fifty-people-are-trapped-after-a-landslide-in-the-village-of-ambe-in-the-pune-district-in-india-s-maharashtra-state-with-20.html)  [JSON](/news/2014/07/30/one-hundred-and-fifty-people-are-trapped-after-a-landslide-in-the-village-of-ambe-in-the-pune-district-in-india-s-maharashtra-state-with-20.json)  [XML](/news/2014/07/30/one-hundred-and-fifty-people-are-trapped-after-a-landslide-in-the-village-of-ambe-in-the-pune-district-in-india-s-maharashtra-state-with-20.xml)  
+
 ### [2014-07-30](/news/2014/07/30/index.md)
 
+##### landslide
 # One hundred and fifty people are trapped after a landslide in the village of Ambe in the Pune district in India's Maharashtra state with 20 killed. 
 
 126 still trapped under debris in the remote tribal area
 
 
-### Source:
+### Sources:
 
 1. [IBN Live](http://ibnlive.in.com/news/150-people-trapped-under-debris-in-punes-ambe-village-rescue-work-on/489193-3-237.html)
 2. [The Hindu](http://www.thehindu.com/news/national/nearly-150-feared-trapped-in-landslide-in-pune/article6263770.ece)

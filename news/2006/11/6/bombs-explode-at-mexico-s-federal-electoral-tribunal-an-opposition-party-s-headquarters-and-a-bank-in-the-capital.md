@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/6/bombs-explode-at-mexico-s-federal-electoral-tribunal-an-opposition-party-s-headquarters-and-a-bank-in-the-capital.html)  [JSON](/news/2006/11/6/bombs-explode-at-mexico-s-federal-electoral-tribunal-an-opposition-party-s-headquarters-and-a-bank-in-the-capital.json)  [XML](/news/2006/11/6/bombs-explode-at-mexico-s-federal-electoral-tribunal-an-opposition-party-s-headquarters-and-a-bank-in-the-capital.xml)  
+
 ### [2006-11-6](/news/2006/11/6/index.md)
 
+##### Bomb
 #  Bombs explode at Mexico's Federal Electoral Tribunal, an opposition party's headquarters and a bank in the capital. 
 
 Bombs have exploded at Mexico&#39;s top electoral court, an opposition party&#39;s headquarters and a bank in the capital.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ News](http://www.rte.ie/news/2006/1106/mexico.html?rss)
 1. [Cover Image](https://img.rasset.ie/000ba79f-1600.jpg)

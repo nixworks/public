@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/19/a-day-after-a-russian-sponsored-ceasefire-with-
 
 ### [2017-08-19](/news/2017/08/19/index.md)
 
+##### Syrian Civil War
 # A day after a Russian sponsored ceasefire with a rebel group agreed a halt of fighting in the last opposition enclave in the capital, Syrian government airplanes and artillery strike rebel-held eastern Damascus suburbs and Ghouta with barrel bombs, killing at least five civilians in the towns of Hamouriya and Zalamka with several case of suffocation from rockets filled with chlorine that were fired at the front lines of Jobar and Ain Terma. 
 
 

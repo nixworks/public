@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/5/holocaust-survivors-protest-outside-the-prime-minister-of-israel-ehud-olmert-s-office-over-the-level-of-support-from-israel.html)  [JSON](/news/2007/08/5/holocaust-survivors-protest-outside-the-prime-minister-of-israel-ehud-olmert-s-office-over-the-level-of-support-from-israel.json)  [XML](/news/2007/08/5/holocaust-survivors-protest-outside-the-prime-minister-of-israel-ehud-olmert-s-office-over-the-level-of-support-from-israel.xml)  
+
 ### [2007-08-5](/news/2007/08/5/index.md)
 
+##### Holocaust
 #  Holocaust survivors protest outside the Prime Minister of Israel Ehud Olmert's office over the level of support from Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6931812.stm)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/01/19/a-suicide-bomber-driving-an-ambulance-kills-at-least-12-people-and-injures-another-50-in-iraq-s-diyala-governorate.html)  [JSON](/news/2011/01/19/a-suicide-bomber-driving-an-ambulance-kills-at-least-12-people-and-injures-another-50-in-iraq-s-diyala-governorate.json)  [XML](/news/2011/01/19/a-suicide-bomber-driving-an-ambulance-kills-at-least-12-people-and-injures-another-50-in-iraq-s-diyala-governorate.xml)  
+
 ### [2011-01-19](/news/2011/01/19/index.md)
 
+##### suicide bomber
 # A suicide bomber driving an ambulance kills at least 12 people and injures another 50 in Iraq's Diyala Governorate. 
 
 A suicide bomber driving anambulance killed 12 people and wounded more than 50 in an attackon Wednesday on an Iraqi police training centre in volatileDiyala province, a spokeswoman for the provincial governor said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSLDE70I0DM20110119)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSLDE70I0DM20110119)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

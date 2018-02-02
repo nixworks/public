@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/16/australian-airline-qantas-announces-that-it-will-be-cutting-1000-jobs-while-steel-maker-onesteel-announces-the-loss-of-400-jobs.html)  [JSON](/news/2011/08/16/australian-airline-qantas-announces-that-it-will-be-cutting-1000-jobs-while-steel-maker-onesteel-announces-the-loss-of-400-jobs.json)  [XML](/news/2011/08/16/australian-airline-qantas-announces-that-it-will-be-cutting-1000-jobs-while-steel-maker-onesteel-announces-the-loss-of-400-jobs.xml)  
+
 ### [2011-08-16](/news/2011/08/16/index.md)
 
+##### Australia
 # Australian airline Qantas announces that it will be cutting 1000 jobs while steel maker OneSteel announces the loss of 400 jobs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/business/job-losses-due-to-patchwork-economy-swan/story-e6frfm1i-1226115936314?from=public_rss)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

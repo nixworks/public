@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/17/abu-sayyaf-frees-a-norwegian-hostage-for-a-rans
 
 ### [2016-09-17](/news/2016/09/17/index.md)
 
+##### Moro conflict
 # Abu Sayyaf frees a Norwegian hostage for a ransom of [?]30 million (US$638,000) and releases three kidnapped Indonesians from Sabah. 
 
 Reports reaching Manila indicate the Al-Qaeda linked Abu Sayyaf Group released late Friday night their Norwegian kidnap victim Kjartan Sekkingstad at a remote village in Indanan, Sulu.

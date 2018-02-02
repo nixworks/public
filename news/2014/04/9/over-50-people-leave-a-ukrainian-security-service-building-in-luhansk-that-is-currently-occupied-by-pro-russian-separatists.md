@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2014/04/9/over-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-pro-russian-separatists.html)  [JSON](/news/2014/04/9/over-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-pro-russian-separatists.json)  [XML](/news/2014/04/9/over-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-pro-russian-separatists.xml)  
+
 ### [2014-04-9](/news/2014/04/9/index.md)
 
+##### Luhansk
 # Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. 
 
 Pro-Russian separatists reinforced barricades around the state security building in the eastern Ukrainian city of Luhansk on Wednesday and called on President Vladimir Putin for help after the government warned it could use force to restore order.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/04/09/world/europe/ukraine-crisis/)
-2. [Reuters](http://www.reuters.com/article/2014/04/09/us-ukraine-crisis-luhansk-idUSBREA380C620140409)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140409&t=2&i=881741407&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3816M300)
+2. [Reuters](https://www.reuters.com/article/2014/04/09/us-ukraine-crisis-luhansk-idUSBREA380C620140409)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140409&t=2&i=881741407&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3816M300)
+
+### Changes:
+
+1. [2014 pro-Russian protests in Ukraine:Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. ](/news/2014/04/9/2014-pro-russian-protests-in-ukraine-pover-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-pr.md) _2017-08-25 03:40:16 (First version)_
+2. [2014 pro-Russian protests in Ukraine:: Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. ](/news/2014/04/9/2014-pro-russian-protests-in-ukraine-over-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-p.md) _2017-08-27 03:40:34 (Update)_
+2. [Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. ](/news/2014/04/9/over-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-pro-russian-separatists.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ Pro-Russian separatists reinforced barricades around the state security building
 3. [Luhansk People's Republic officials in Donetsk tell U.N. agencies and several other international NGOs to leave the Luhansk region in eastern Ukraine. Despite the Minsk Protocol and Minsk II peace agreements low intensity fighting and shelling have continued non-stop in the region for over a year. ](/news/2015/09/24/luhansk-people-s-republic-officials-in-donetsk-tell-u-n-agencies-and-several-other-international-ngos-to-leave-the-luhansk-region-in-easter.md) _Context: Luhansk_
 4. [Voters in break away "people's republics" (Donetsk People's Republic and Lugansk People's Republic respectively) in Donetsk and Luhansk go to the polls for parliamentary and presidential elections. Rebel leaders Alexander Zakharchenko (Donetsk) and Igor Plotnisky (Luhansk) appear set for victory in early counting in elections which will be recognised in Russia but not elsewhere. International observers noted a very high turnout. ](/news/2014/11/2/voters-in-break-away-people-s-republics-donetsk-people-s-republic-and-lugansk-people-s-republic-respectively-in-donetsk-and-luhansk-go-t.md) _Context: Luhansk_
 5. [Ukrainian government forces recapture control of Yasynuvata from pro-Russian insurgents; government troops have now all but encircled the rebels' second-largest stronghold of Luhansk, and rebels declared a "state of siege" in Donetsk. ](/news/2014/08/4/ukrainian-government-forces-recapture-control-of-yasynuvata-from-pro-russian-insurgents-government-troops-have-now-all-but-encircled-the-re.md) _Context: Luhansk_
-
-### Changes:
-
-1. [2014 pro-Russian protests in Ukraine:Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. ](/news/2014/04/9/2014-pro-russian-protests-in-ukraine-pover-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-pr.md) _2017-08-25 03:40:16 (First version)_
-2. [2014 pro-Russian protests in Ukraine:: Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. ](/news/2014/04/9/2014-pro-russian-protests-in-ukraine-over-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-p.md) _2017-08-27 03:40:34 (Update)_
-2. [Over 50 people leave a Ukrainian security service building in Luhansk that is currently occupied by pro-Russian separatists. ](/news/2014/04/9/over-50-people-leave-a-ukrainian-security-service-building-in-luhansk-that-is-currently-occupied-by-pro-russian-separatists.md) _(Current version)_

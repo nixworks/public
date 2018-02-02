@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/10/17/israeli-prime-minister-benjamin-netanyahu-says-that-israel-had-recently-renewed-contacts-with-a-german-mediator-to-negotiate-the-release-of.html)  [JSON](/news/2010/10/17/israeli-prime-minister-benjamin-netanyahu-says-that-israel-had-recently-renewed-contacts-with-a-german-mediator-to-negotiate-the-release-of.json)  [XML](/news/2010/10/17/israeli-prime-minister-benjamin-netanyahu-says-that-israel-had-recently-renewed-contacts-with-a-german-mediator-to-negotiate-the-release-of.xml)  
+
 ### [2010-10-17](/news/2010/10/17/index.md)
 
+##### Israeli Prime Minister
 # Israeli Prime Minister Benjamin Netanyahu says that Israel had recently renewed contacts with a German mediator to negotiate the release of a captured Israeli soldier, Staff Sgt. Gilad Shalit, who is being held incommunicado by Hamas. 
 
 Prime Minister Benjamin Netanyahu said Israel renewed contacts with a German mediator to negotiate the release of a captured Israeli soldier, Staff Sgt. Gilad Shalit.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iNrMErVQT3vAneSztoFoFRlmzyJw?docId=CNG.25952df47c270a7bf48166d814f52027.451)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=191755)
-3. [The New York Times](http://www.nytimes.com/2010/10/18/world/middleeast/18mideast.html?_r=1)
+3. [The New York Times](https://www.nytimes.com/2010/10/18/world/middleeast/18mideast.html?_r=1)
 3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

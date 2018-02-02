@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/28/james-comey-informs-congress-that-the-fbi-has-l
 
 ### [2016-10-28](/news/2016/10/28/index.md)
 
+##### email server
 #  James Comey informs Congress that "the FBI has learned of the existence of emails that appear pertinent to the investigation." He says the FBI has not yet assessed the importance or significance of these emails. 
 
 &#8220;It is extraordinary that we would see something like this just 11 days out from a presidential election,&#8221; said John Podesta.

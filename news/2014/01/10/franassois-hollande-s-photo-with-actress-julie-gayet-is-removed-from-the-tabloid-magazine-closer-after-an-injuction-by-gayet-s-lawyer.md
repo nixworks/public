@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/10/franassois-hollande-s-photo-with-actress-julie-gayet-is-removed-from-the-tabloid-magazine-closer-after-an-injuction-by-gayet-s-lawyer.html)  [JSON](/news/2014/01/10/franassois-hollande-s-photo-with-actress-julie-gayet-is-removed-from-the-tabloid-magazine-closer-after-an-injuction-by-gayet-s-lawyer.json)  [XML](/news/2014/01/10/franassois-hollande-s-photo-with-actress-julie-gayet-is-removed-from-the-tabloid-magazine-closer-after-an-injuction-by-gayet-s-lawyer.xml)  
+
 ### [2014-01-10](/news/2014/01/10/index.md)
 
+##### Francois Hollande
 # Francois Hollande's photo with actress Julie Gayet is removed from the tabloid magazine "Closer" after an injuction by Gayet's lawyer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Daily Mail](http://www.dailymail.co.uk/news/article-2536940/French-president-Francois-Hollande-threatens-legal-action-against-magazine-accused-having-affair-actress.html)
 

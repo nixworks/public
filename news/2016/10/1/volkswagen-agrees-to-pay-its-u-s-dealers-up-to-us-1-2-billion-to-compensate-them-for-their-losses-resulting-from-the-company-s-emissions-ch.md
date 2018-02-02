@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/1/volkswagen-agrees-to-pay-its-u-s-dealers-up-to-u
 
 ### [2016-10-1](/news/2016/10/1/index.md)
 
+##### Volkswagen emissions scandal
 # Volkswagen agrees to pay its U.S. dealers up to US$1.2 billion to compensate them for their losses resulting from the company's emissions cheating scandal. 
 
 Volkswagen agrees to compensation U.S. dealers $1.2 billion over emissions scandal

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/27/rowan-williams-is-enthroned-as-archbishop-of-canterbury.html)  [JSON](/news/2003/02/27/rowan-williams-is-enthroned-as-archbishop-of-canterbury.json)  [XML](/news/2003/02/27/rowan-williams-is-enthroned-as-archbishop-of-canterbury.xml)  
+
 ### [2003-02-27](/news/2003/02/27/index.md)
 
+##### Rowan Williams
 #  Rowan Williams is enthroned as Archbishop of Canterbury.
 
 

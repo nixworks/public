@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/01/25/burma-s-home-minister-general-maung-oo-says-aung-san-suu-kyi-will-be-released-by-november-this-year.html)  [JSON](/news/2010/01/25/burma-s-home-minister-general-maung-oo-says-aung-san-suu-kyi-will-be-released-by-november-this-year.json)  [XML](/news/2010/01/25/burma-s-home-minister-general-maung-oo-says-aung-san-suu-kyi-will-be-released-by-november-this-year.xml)  
+
 ### [2010-01-25](/news/2010/01/25/index.md)
 
+##### Burma
 # Burma's Home Minister General Maung Oo says Aung San Suu Kyi will be released by November this year. 
 
 Military reportedly planning to free opposition leader from house arrest.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201012554845308917.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE60O0J020100125)
+2. [Reuters](https://www.reuters.com/article/idUSTRE60O0J020100125)
 2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:

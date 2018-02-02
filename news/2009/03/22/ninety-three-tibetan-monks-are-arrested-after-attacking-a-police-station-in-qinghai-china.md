@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/22/ninety-three-tibetan-monks-are-arrested-after-attacking-a-police-station-in-qinghai-china.html)  [JSON](/news/2009/03/22/ninety-three-tibetan-monks-are-arrested-after-attacking-a-police-station-in-qinghai-china.json)  [XML](/news/2009/03/22/ninety-three-tibetan-monks-are-arrested-after-attacking-a-police-station-in-qinghai-china.xml)  
+
 ### [2009-03-22](/news/2009/03/22/index.md)
 
+##### Tibet
 #  Ninety-three Tibetan monks are arrested after attacking a police station in Qinghai, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iAMqM2_Dwudz52KLQeY2ZKFQq9-gD9734N9G0)
 

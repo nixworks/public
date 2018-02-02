@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/24/after-months-of-an-increasing-political-power-struggle-the-thai-prime-minister-thaksin-shinawatra-dissolves-the-house-of-representatives-a.html)  [JSON](/news/2006/02/24/after-months-of-an-increasing-political-power-struggle-the-thai-prime-minister-thaksin-shinawatra-dissolves-the-house-of-representatives-a.json)  [XML](/news/2006/02/24/after-months-of-an-increasing-political-power-struggle-the-thai-prime-minister-thaksin-shinawatra-dissolves-the-house-of-representatives-a.xml)  
+
 ### [2006-02-24](/news/2006/02/24/index.md)
 
+##### Thailand
 #  After months of an increasing political power struggle, the Thai Prime Minister Thaksin Shinawatra dissolves the House of Representatives and calls for new election to be held on April 2. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Nation](http://nationmultimedia.com/2006/02/24/headlines/headlines_20001495.php)
 

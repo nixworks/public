@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/6/kathmandu-university-students-protest-against-the-nepali-government-s-decision-to-replace-indian-head-priests-at-pashupatinath-temple-with.html)  [JSON](/news/2009/01/6/kathmandu-university-students-protest-against-the-nepali-government-s-decision-to-replace-indian-head-priests-at-pashupatinath-temple-with.json)  [XML](/news/2009/01/6/kathmandu-university-students-protest-against-the-nepali-government-s-decision-to-replace-indian-head-priests-at-pashupatinath-temple-with.xml)  
+
 ### [2009-01-6](/news/2009/01/6/index.md)
 
+##### Kathmandu University
 #  Kathmandu University students protest against the Nepali government's decision to replace Indian head priests at Pashupatinath Temple with Nepalis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN-IBN](http://ibnlive.in.com/news/nepalese-students-protest-temple-appointments/82024-2.html?from=rssfeed)
 

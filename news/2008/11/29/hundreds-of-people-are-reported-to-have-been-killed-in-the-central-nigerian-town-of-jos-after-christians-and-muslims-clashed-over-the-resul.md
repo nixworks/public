@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/29/hundreds-of-people-are-reported-to-have-been-killed-in-the-central-nigerian-town-of-jos-after-christians-and-muslims-clashed-over-the-resul.html)  [JSON](/news/2008/11/29/hundreds-of-people-are-reported-to-have-been-killed-in-the-central-nigerian-town-of-jos-after-christians-and-muslims-clashed-over-the-resul.json)  [XML](/news/2008/11/29/hundreds-of-people-are-reported-to-have-been-killed-in-the-central-nigerian-town-of-jos-after-christians-and-muslims-clashed-over-the-resul.xml)  
+
 ### [2008-11-29](/news/2008/11/29/index.md)
 
+##### Nigeria
 #  Hundreds of people are reported to have been killed in the central Nigerian town of Jos after Christians and Muslims clashed over the result of a local election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7756695.stm)
 

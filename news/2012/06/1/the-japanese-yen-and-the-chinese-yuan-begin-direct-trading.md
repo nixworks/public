@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/1/the-japanese-yen-and-the-chinese-yuan-begin-direct-trading.html)  [JSON](/news/2012/06/1/the-japanese-yen-and-the-chinese-yuan-begin-direct-trading.json)  [XML](/news/2012/06/1/the-japanese-yen-and-the-chinese-yuan-begin-direct-trading.xml)  
+
 ### [2012-06-1](/news/2012/06/1/index.md)
 
+##### yen
 # The Japanese yen and the Chinese yuan begin direct trading.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yomiuri](http://www.yomiuri.co.jp/dy/business/T120601005554.htm)
 

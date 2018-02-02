@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/24/hurricane-otto-makes-landfall-in-nicaragua-beco
 
 ### [2016-11-24](/news/2016/11/24/index.md)
 
+##### 2016 Atlantic hurricane season
 # Hurricane Otto makes landfall in Nicaragua, becoming the southernmost hurricane on record to hit Central America. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

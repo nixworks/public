@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/3/jean-pierre-serre-is-announced-as-the-winner-of-the-first-abel-prize.html)  [JSON](/news/2003/04/3/jean-pierre-serre-is-announced-as-the-winner-of-the-first-abel-prize.json)  [XML](/news/2003/04/3/jean-pierre-serre-is-announced-as-the-winner-of-the-first-abel-prize.xml)  
+
 ### [2003-04-3](/news/2003/04/3/index.md)
 
+##### Jean-Pierre Serre
 #  Jean-Pierre Serre is announced as the winner of the first Abel Prize.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/11/the-phoenix-arizona-area-has-had-11-confirmed-shootings-on-and-around-interstate-10-in-less-than-two-weeks-no-life-threatening-injuries-ha.html)  [JSON](/news/2015/09/11/the-phoenix-arizona-area-has-had-11-confirmed-shootings-on-and-around-interstate-10-in-less-than-two-weeks-no-life-threatening-injuries-ha.json)  [XML](/news/2015/09/11/the-phoenix-arizona-area-has-had-11-confirmed-shootings-on-and-around-interstate-10-in-less-than-two-weeks-no-life-threatening-injuries-ha.xml)  
+
 ### [2015-09-11](/news/2015/09/11/index.md)
 
+##### Phoenix, Arizona
 # The Phoenix, Arizona area has had 11 confirmed shootings on and around Interstate 10 in less than two weeks. No life-threatening injuries have been reported, though a 13-year-old girl was cut by flying glass from a shattered window. Arizona Department of Public Safety confirm that a man is being questioned. 
 
 Officials are investigating after another vehicle was shot at on Interstate 10 on Thursday morning. 
 
 
-### Source:
+### Sources:
 
 1. [ABC 15](http://www.abc15.com/news/region-phoenix-metro/west-phoenix/dps-investigating-11th-shooting-on-phoenix-freeway)
 2. [FOX10 Phoenix](http://www.fox10phoenix.com/arizona-news/19013124-story)

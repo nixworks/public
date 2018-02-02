@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/15/candidate-cities-for-the-2012-summer-olympics-paris-london-madrid-moscow-and-new-york-city-submit-120-copies-of-their-candidate-files.html)  [JSON](/news/2004/11/15/candidate-cities-for-the-2012-summer-olympics-paris-london-madrid-moscow-and-new-york-city-submit-120-copies-of-their-candidate-files.json)  [XML](/news/2004/11/15/candidate-cities-for-the-2012-summer-olympics-paris-london-madrid-moscow-and-new-york-city-submit-120-copies-of-their-candidate-files.xml)  
+
 ### [2004-11-15](/news/2004/11/15/index.md)
 
+##### 2012 Summer Olympics
 #  Candidate cities for the 2012 Summer Olympics (Paris, London, Madrid, Moscow, and New York City) submit 120 copies of their candidate files to the International Olympic Committee. The IOC will announce the winning candidate in Singapore in July 2005. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/olympics2012/story/0,14174,1351713,00.html)
 2. [IOC – candidacy procedures (PDF](http://multimedia.olympic.org/pdf/en_report_810.pdf)

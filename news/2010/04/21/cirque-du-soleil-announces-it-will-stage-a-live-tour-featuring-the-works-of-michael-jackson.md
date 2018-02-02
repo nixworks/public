@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/21/cirque-du-soleil-announces-it-will-stage-a-live-tour-featuring-the-works-of-michael-jackson.html)  [JSON](/news/2010/04/21/cirque-du-soleil-announces-it-will-stage-a-live-tour-featuring-the-works-of-michael-jackson.json)  [XML](/news/2010/04/21/cirque-du-soleil-announces-it-will-stage-a-live-tour-featuring-the-works-of-michael-jackson.xml)  
+
 ### [2010-04-21](/news/2010/04/21/index.md)
 
+##### Cirque du Soleil
 # Cirque du Soleil announces it will stage a live tour featuring the works of Michael Jackson. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8634153.stm)
 2. [Financial Times](http://www.ft.com/cms/s/0/efe51e44-4cdb-11df-9977-00144feab49a.html)

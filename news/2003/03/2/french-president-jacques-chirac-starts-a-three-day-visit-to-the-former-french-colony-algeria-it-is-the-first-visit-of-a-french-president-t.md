@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/2/french-president-jacques-chirac-starts-a-three-day-visit-to-the-former-french-colony-algeria-it-is-the-first-visit-of-a-french-president-t.html)  [JSON](/news/2003/03/2/french-president-jacques-chirac-starts-a-three-day-visit-to-the-former-french-colony-algeria-it-is-the-first-visit-of-a-french-president-t.json)  [XML](/news/2003/03/2/french-president-jacques-chirac-starts-a-three-day-visit-to-the-former-french-colony-algeria-it-is-the-first-visit-of-a-french-president-t.xml)  
+
 ### [2003-03-2](/news/2003/03/2/index.md)
 
+##### Jacques Chirac
 #  French president Jacques Chirac starts a three-day visit to the former French colony Algeria. It is the first visit of a French president to Algeria at the highest ceremonial level.
 
 

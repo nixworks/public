@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/28/u-s-army-lt-col-steven-l-jordan-becomes-the-highest-ranking-officer-to-have-charges-brought-against-him-in-connection-with-the-abu-ghra.html)  [JSON](/news/2006/04/28/u-s-army-lt-col-steven-l-jordan-becomes-the-highest-ranking-officer-to-have-charges-brought-against-him-in-connection-with-the-abu-ghra.json)  [XML](/news/2006/04/28/u-s-army-lt-col-steven-l-jordan-becomes-the-highest-ranking-officer-to-have-charges-brought-against-him-in-connection-with-the-abu-ghra.xml)  
+
 ### [2006-04-28](/news/2006/04/28/index.md)
 
+##### U.S. Army
 #  U.S. Army Lt. Col. Steven L. Jordan becomes the highest-ranking officer to have charges brought against him in connection with the Abu Ghraib abuse. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2002960310_ghraib29.html)
 

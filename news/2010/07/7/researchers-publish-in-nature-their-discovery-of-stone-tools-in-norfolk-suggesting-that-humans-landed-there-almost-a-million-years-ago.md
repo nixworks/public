@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/7/researchers-publish-in-nature-their-discovery-of-stone-tools-in-norfolk-suggesting-that-humans-landed-there-almost-a-million-years-ago.html)  [JSON](/news/2010/07/7/researchers-publish-in-nature-their-discovery-of-stone-tools-in-norfolk-suggesting-that-humans-landed-there-almost-a-million-years-ago.json)  [XML](/news/2010/07/7/researchers-publish-in-nature-their-discovery-of-stone-tools-in-norfolk-suggesting-that-humans-landed-there-almost-a-million-years-ago.xml)  
+
 ### [2010-07-7](/news/2010/07/7/index.md)
 
+##### ''Nature''
 # Researchers publish in "Nature" their discovery of stone tools in Norfolk suggesting that humans landed there almost a million years ago. 
 
 Researchers discover stone tools in Norfolk that suggest humans arrived in Britain nearly a million years ago.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science_and_environment/10531419.stm)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48282000/jpg/_48282394_humans.jpg)

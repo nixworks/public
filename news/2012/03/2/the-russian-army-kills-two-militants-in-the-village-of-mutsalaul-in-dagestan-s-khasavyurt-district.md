@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/2/the-russian-army-kills-two-militants-in-the-village-of-mutsalaul-in-dagestan-s-khasavyurt-district.html)  [JSON](/news/2012/03/2/the-russian-army-kills-two-militants-in-the-village-of-mutsalaul-in-dagestan-s-khasavyurt-district.json)  [XML](/news/2012/03/2/the-russian-army-kills-two-militants-in-the-village-of-mutsalaul-in-dagestan-s-khasavyurt-district.xml)  
+
 ### [2012-03-2](/news/2012/03/2/index.md)
 
+##### Russian Army
 # The Russian Army kills two militants in the village of Mutsalaul in Dagestan's Khasavyurt district. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/russia/20120302/171686005.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/8/halo-2-a-game-for-the-xbox-system-exceeds-more-than-us-125-million-in-sales-on-its-first-day-of-release-this-makes-it-the-biggest-ope.html)  [JSON](/news/2004/11/8/halo-2-a-game-for-the-xbox-system-exceeds-more-than-us-125-million-in-sales-on-its-first-day-of-release-this-makes-it-the-biggest-ope.json)  [XML](/news/2004/11/8/halo-2-a-game-for-the-xbox-system-exceeds-more-than-us-125-million-in-sales-on-its-first-day-of-release-this-makes-it-the-biggest-ope.xml)  
+
 ### [2004-11-8](/news/2004/11/8/index.md)
 
+##### Halo 2
 #  "Halo 2", a game for the Xbox system, exceeds more than US$ 125 million in sales on its first day of release. This makes it the biggest opening day in the history of entertainment, surpassing any other games or movies. Microsoft, the publisher of the game, estimates more than 2.4 million units sold. 
 
 Tom’s Hardware helps you buy the best hardware and build the best PC to play, create and work. Join our community of PC building enthusiasts.
 
 
-### Source:
+### Sources:
 
 1. [Tom's Hardware](http://www17.tomshardware.com/game/200411131/index.html)
 1. [Cover Image](https://img.purch.com/o/aHR0cDovL3d3dy50b21zaGFyZHdhcmUuY29tL21lZGlhcy9pbWcvdGhfcGljLmpwZw==)

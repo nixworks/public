@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/5/mordechai-vanunu-seeks-to-renounce-his-israeli-citizenship-to-avoid-confinement-to-the-nation-after-his-release-from-jail.html)  [JSON](/news/2004/04/5/mordechai-vanunu-seeks-to-renounce-his-israeli-citizenship-to-avoid-confinement-to-the-nation-after-his-release-from-jail.json)  [XML](/news/2004/04/5/mordechai-vanunu-seeks-to-renounce-his-israeli-citizenship-to-avoid-confinement-to-the-nation-after-his-release-from-jail.xml)  
+
 ### [2004-04-5](/news/2004/04/5/index.md)
 
+##### Mordechai Vanunu
 #  Mordechai Vanunu seeks to renounce his Israeli citizenship to avoid confinement to the nation after his release from jail. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L0387878.htm)
 

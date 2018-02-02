@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/2/a-7-1-magnitude-earthquake-streaks-southern-chile-having-its-epicenter-96-km-northwest-of-temuco-not-far-from-the-location-of-the-2010-chi.html)  [JSON](/news/2011/01/2/a-7-1-magnitude-earthquake-streaks-southern-chile-having-its-epicenter-96-km-northwest-of-temuco-not-far-from-the-location-of-the-2010-chi.json)  [XML](/news/2011/01/2/a-7-1-magnitude-earthquake-streaks-southern-chile-having-its-epicenter-96-km-northwest-of-temuco-not-far-from-the-location-of-the-2010-chi.xml)  
+
 ### [2011-01-2](/news/2011/01/2/index.md)
 
+##### earthquake
 # A 7.1-magnitude earthquake streaks southern Chile, having its epicenter 96 km northwest of Temuco, not far from the location of the 2010 Chile earthquake. 
 
 A 7.1-magnitude earthquake has struck central Chile, sending tens of thousands of people near coastal communities for higher ground over concerns it would generate a tsunami.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2011/01/02/chile-earthquake.html)
 2. [CNN](http://edition.cnn.com/2011/WORLD/americas/01/02/chile.earthquake/?hpt=T2)

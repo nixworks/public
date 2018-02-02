@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-b
 
 ### [2017-08-25](/news/2017/08/25/index.md)
 
+##### 2017 in spaceflight
 # FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. 
 
 

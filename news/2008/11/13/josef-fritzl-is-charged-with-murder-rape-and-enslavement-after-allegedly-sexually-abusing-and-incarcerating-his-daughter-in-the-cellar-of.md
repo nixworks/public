@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/11/13/josef-fritzl-is-charged-with-murder-rape-and-enslavement-after-allegedly-sexually-abusing-and-incarcerating-his-daughter-in-the-cellar-of.html)  [JSON](/news/2008/11/13/josef-fritzl-is-charged-with-murder-rape-and-enslavement-after-allegedly-sexually-abusing-and-incarcerating-his-daughter-in-the-cellar-of.json)  [XML](/news/2008/11/13/josef-fritzl-is-charged-with-murder-rape-and-enslavement-after-allegedly-sexually-abusing-and-incarcerating-his-daughter-in-the-cellar-of.xml)  
+
 ### [2008-11-13](/news/2008/11/13/index.md)
 
+##### Josef Fritzl
 #  Josef Fritzl is charged with murder, rape and enslavement after allegedly sexually abusing and incarcerating his daughter in the cellar of his home, where one of the children she was forced to bear died due to lack of medical attention. 
 
 Austrian Josef Fritzl, who imprisoned his daughter in a cellar for 24 years and fathered seven children by her, has been charged with the murder of one of their children who died shortly after birth.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE4AC3MO20081113)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20081113&t=2&i=6801433&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-11-13T233114Z_01_BTRE4AC0ZU100_RTROPTP_0_US-AUSTRIA-INCEST)
+1. [Reuters](https://www.reuters.com/article/newsOne/idUSTRE4AC3MO20081113)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20081113&t=2&i=6801433&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-11-13T233114Z_01_BTRE4AC0ZU100_RTROPTP_0_US-AUSTRIA-INCEST)
 
 ### Related:
 

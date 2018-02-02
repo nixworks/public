@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/12/25/iraqi-insurgency-soldiers-from-the-british-army-storm-a-police-headquarters-in-basra-iraq-arresting-allegedly-corrupt-officers-transfer.html)  [JSON](/news/2006/12/25/iraqi-insurgency-soldiers-from-the-british-army-storm-a-police-headquarters-in-basra-iraq-arresting-allegedly-corrupt-officers-transfer.json)  [XML](/news/2006/12/25/iraqi-insurgency-soldiers-from-the-british-army-storm-a-police-headquarters-in-basra-iraq-arresting-allegedly-corrupt-officers-transfer.xml)  
+
 ### [2006-12-25](/news/2006/12/25/index.md)
 
+##### Iraqi insurgency
 #  Iraqi insurgency: Soldiers from the British Army storm a police headquarters in Basra, Iraq, arresting allegedly corrupt officers, transferring prisoners thought to have been subject to torture, and demolishing the building. [http:--news.bbc.co.uk-1-hi-world-middle_east-6208535.stm]
 
 

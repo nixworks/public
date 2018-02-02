@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/19/public-sector-workers-in-the-german-states-of-lower-saxony-and-bremen-begin-a-24-hour-strike-as-part-of-pay-negotiations.html)  [JSON](/news/2012/03/19/public-sector-workers-in-the-german-states-of-lower-saxony-and-bremen-begin-a-24-hour-strike-as-part-of-pay-negotiations.json)  [XML](/news/2012/03/19/public-sector-workers-in-the-german-states-of-lower-saxony-and-bremen-begin-a-24-hour-strike-as-part-of-pay-negotiations.xml)  
+
 ### [2012-03-19](/news/2012/03/19/index.md)
 
+##### German
 # Public sector workers in the German states of Lower Saxony and Bremen begin a 24-hour strike as part of pay negotiations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [DW](http://www.dw.de/dw/article/0,,15816542,00.html?maca)
 

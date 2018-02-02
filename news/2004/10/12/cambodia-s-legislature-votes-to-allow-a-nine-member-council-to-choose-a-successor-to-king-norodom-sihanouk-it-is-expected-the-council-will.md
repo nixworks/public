@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/12/cambodia-s-legislature-votes-to-allow-a-nine-member-council-to-choose-a-successor-to-king-norodom-sihanouk-it-is-expected-the-council-will.html)  [JSON](/news/2004/10/12/cambodia-s-legislature-votes-to-allow-a-nine-member-council-to-choose-a-successor-to-king-norodom-sihanouk-it-is-expected-the-council-will.json)  [XML](/news/2004/10/12/cambodia-s-legislature-votes-to-allow-a-nine-member-council-to-choose-a-successor-to-king-norodom-sihanouk-it-is-expected-the-council-will.xml)  
+
 ### [2004-10-12](/news/2004/10/12/index.md)
 
+##### Cambodia
 #  Cambodia's legislature votes to allow a nine-member council to choose a successor to King Norodom Sihanouk. It is expected the council will choose Prince Norodom Sihamoni. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/article.cfm?objectID=F73B7C7E-E850-4F15-A7604D085393DAEB&title=Cambodian%20King%20Nears%20End%20of%20Long%20Political%20Career&catOID=45C9C78B-88AD-11D4-A57200A0CC5EE46C&categoryname=Asia%20Pacific)
 

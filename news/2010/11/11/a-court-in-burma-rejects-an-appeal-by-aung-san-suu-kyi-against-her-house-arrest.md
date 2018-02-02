@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/11/a-court-in-burma-rejects-an-appeal-by-aung-san-suu-kyi-against-her-house-arrest.html)  [JSON](/news/2010/11/11/a-court-in-burma-rejects-an-appeal-by-aung-san-suu-kyi-against-her-house-arrest.json)  [XML](/news/2010/11/11/a-court-in-burma-rejects-an-appeal-by-aung-san-suu-kyi-against-her-house-arrest.xml)  
+
 ### [2010-11-11](/news/2010/11/11/index.md)
 
+##### Burma
 # A court in Burma rejects an appeal by Aung San Suu Kyi against her house arrest. 
 
 Detained opposition leader loses final appeal against house-arrest order amid hopes she will be freed over the weekend.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/2010111110038160996.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11732151)

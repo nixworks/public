@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/1/south-sudan-s-leader-salva-kiir-announces-he-will-back-the-independence-of-the-semi-autonomous-region-in-a-2011-referendum.html)  [JSON](/news/2009/11/1/south-sudan-s-leader-salva-kiir-announces-he-will-back-the-independence-of-the-semi-autonomous-region-in-a-2011-referendum.json)  [XML](/news/2009/11/1/south-sudan-s-leader-salva-kiir-announces-he-will-back-the-independence-of-the-semi-autonomous-region-in-a-2011-referendum.xml)  
+
 ### [2009-11-1](/news/2009/11/1/index.md)
 
+##### Southern Sudan
 #  South Sudan's leader, Salva Kiir, announces he will back the independence of the semi-autonomous region in a 2011 referendum. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/2009111115645238465.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8336557.stm)

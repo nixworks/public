@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-i
 
 ### [2017-11-3](/news/2017/11/3/index.md)
 
+##### Iraqi Civil War (2014-present)
 # The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. 
 
 Iraqi forces have entered al-Qaim, one of the last remaining territories in the country still held by Islamic State militants, the Joint Operations Command said on Friday.

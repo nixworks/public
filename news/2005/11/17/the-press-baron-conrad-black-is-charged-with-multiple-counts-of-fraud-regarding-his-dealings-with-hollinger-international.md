@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/17/the-press-baron-conrad-black-is-charged-with-multiple-counts-of-fraud-regarding-his-dealings-with-hollinger-international.html)  [JSON](/news/2005/11/17/the-press-baron-conrad-black-is-charged-with-multiple-counts-of-fraud-regarding-his-dealings-with-hollinger-international.json)  [XML](/news/2005/11/17/the-press-baron-conrad-black-is-charged-with-multiple-counts-of-fraud-regarding-his-dealings-with-hollinger-international.xml)  
+
 ### [2005-11-17](/news/2005/11/17/index.md)
 
+##### Conrad Black
 #  The press baron Conrad Black is charged with multiple counts of fraud regarding his dealings with Hollinger International. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/4447538.stm)
 

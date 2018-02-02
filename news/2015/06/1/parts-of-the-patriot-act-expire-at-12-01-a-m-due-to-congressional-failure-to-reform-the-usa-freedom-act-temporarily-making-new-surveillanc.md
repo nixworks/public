@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/06/1/parts-of-the-patriot-act-expire-at-12-01-a-m-due-to-congressional-failure-to-reform-the-usa-freedom-act-temporarily-making-new-surveillanc.html)  [JSON](/news/2015/06/1/parts-of-the-patriot-act-expire-at-12-01-a-m-due-to-congressional-failure-to-reform-the-usa-freedom-act-temporarily-making-new-surveillanc.json)  [XML](/news/2015/06/1/parts-of-the-patriot-act-expire-at-12-01-a-m-due-to-congressional-failure-to-reform-the-usa-freedom-act-temporarily-making-new-surveillanc.xml)  
+
 ### [2015-06-1](/news/2015/06/1/index.md)
 
+##### Patriot Act
 # Parts of the Patriot Act expire at 12:01 a.m. due to Congressional failure to reform the USA Freedom Act, temporarily making new surveillance of telephone records by the NSA illegal. 
 
+The government’s authority to sweep up bulk phone data in the hunt for terrorists expired temporarily at 12:01 a.m. Monday, but the Senate indicated that legislation to curtail the program is likely to pass this week.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/06/01/us/politics/senate-nsa-surveillance-usa-freedom-act.html)
+1. [New York Times](https://www.nytimes.com/2015/06/01/us/politics/senate-nsa-surveillance-usa-freedom-act.html)
+1. [Cover Image](https://static01.nyt.com/images/2015/06/01/us/01nsa-JP/01nsa-JP-facebookJumbo.jpg)
 
 ### Related:
 

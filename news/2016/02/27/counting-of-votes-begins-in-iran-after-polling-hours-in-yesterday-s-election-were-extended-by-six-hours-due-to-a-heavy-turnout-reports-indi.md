@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/27/counting-of-votes-begins-in-iran-after-polling-
 
 ### [2016-02-27](/news/2016/02/27/index.md)
 
+##### Elections in Iran
 # Counting of votes begins in Iran after polling hours in yesterday's election were extended by six hours due to a heavy turnout. Reports indicate that reformist candidates are doing well in the early count. 
 
 Supporters of Rouhani, who championed the nuclear deal, are pitted against hardliners close to Supreme Leader Ayatollah Ali Khameni, who are deeply wary of detente with Western countries. In the capital Tehran, 13 out of the top 16 Assembly of Experts candidates were on a list supported by Rafsanjani
@@ -27,4 +28,4 @@ Supporters of Rouhani, who championed the nuclear deal, are pitted against hardl
 2. [Iran goes to the polls for second round elections in constituencies where no candidate achieved 25 per cent of the vote in February's elections. ](/news/2016/04/29/iran-goes-to-the-polls-for-second-round-elections-in-constituencies-where-no-candidate-achieved-25-per-cent-of-the-vote-in-february-s-electi.md) _Context: Iran, Iranian legislative election, 2016_
 3. [Voters in Iran go to the polls for a Islamic Consultative Assembly and Assembly of Experts elections. ](/news/2016/02/26/voters-in-iran-go-to-the-polls-for-a-islamic-consultative-assembly-and-assembly-of-experts-elections.md) _Context: Iran, Iranian legislative election, 2016_
 4. [The Iranian ministry of interior sets 14 June 2013 as the date of the next presidential election, for a successor of current president, Mahmoud Ahmadinejad. For the first time, this election is to be held on the same date as the next municipal elections. ](/news/2012/09/7/the-iranian-ministry-of-interior-sets-14-june-2013-as-the-date-of-the-next-presidential-election-for-a-successor-of-current-president-mahm.md) _Context: Elections in Iran, Iran_
-5. [Saudi Arabia's Crown Prince Mohammad bin Salman accuses Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. ](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.md) _Context: Iran_
+5. [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md) _Context: Iran_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/6/standard-poor-s-drops-australia-s-debt-outlook-f
 
 ### [2016-07-6](/news/2016/07/6/index.md)
 
+##### 2016 federal election
 # Standard & Poor's drops Australia's debt outlook from stable to negative following the country's surprisingly close election this weekend. 
 
 The credit ratings agency says the negative outlook on Australia reflects its view that prospects for improvements in budget performance have weakened
@@ -22,6 +23,6 @@ The credit ratings agency says the negative outlook on Australia reflects its vi
 
 1. [ Prime Minister of Australia Malcolm Turnbull has called a historic double dissolution election with both houses of Parliament being dissolved and an election to be held on July 2. ](/news/2016/05/8/prime-minister-of-australia-malcolm-turnbull-has-called-a-historic-double-dissolution-election-with-both-houses-of-parliament-being-dissolv.md) _Context: 2016 federal election, Australia_
 2. [A judge in Australia rules that Standard & Poor's misled investors in its rating of two pre-crisis issues of structured debt. ](/news/2012/11/5/a-judge-in-australia-rules-that-standard-poor-s-misled-investors-in-its-rating-of-two-pre-crisis-issues-of-structured-debt.md) _Context: Australia, Standard & Poor's_
-3. [Mungo Man, the oldest human remains in Australia, is returned to Lake Mungo in outback New South Wales, where he was originally buried. ](/news/2017/11/17/mungo-man-the-oldest-human-remains-in-australia-is-returned-to-lake-mungo-in-outback-new-south-wales-where-he-was-originally-buried.md) _Context: Australia_
-4. [The High Court of Australia finds that Deputy Prime Minister Barnaby Joyce of the National Party and several senators were ineligible for the 2016 federal election. ](/news/2017/10/27/the-high-court-of-australia-finds-that-deputy-prime-minister-barnaby-joyce-of-the-national-party-and-several-senators-were-ineligible-for-th.md) _Context: 2016 federal election_
-5. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
+3. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_
+4. [In a world's first, a drone rescues two swimmers off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-swimmers-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-t.md) _Context: Australia_
+5. [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md) _Context: Australia_

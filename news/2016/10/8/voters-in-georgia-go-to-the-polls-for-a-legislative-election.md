@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/8/voters-in-georgia-go-to-the-polls-for-a-legislat
 
 ### [2016-10-8](/news/2016/10/8/index.md)
 
+##### Georgian parliamentary election, 2016
 # Voters in Georgia go to the polls for a legislative election. 
 
 The ruling party in Georgia decisively won parliamentary elections, firming its grip on power in the former Soviet nation, near-complete results showed on Sunday.

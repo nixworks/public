@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/7/cambridge-university-defeats-oxford-university-by-one-and-a-half-lengths-in-the-153rd-university-boat-race.html)  [JSON](/news/2007/04/7/cambridge-university-defeats-oxford-university-by-one-and-a-half-lengths-in-the-153rd-university-boat-race.json)  [XML](/news/2007/04/7/cambridge-university-defeats-oxford-university-by-one-and-a-half-lengths-in-the-153rd-university-boat-race.xml)  
+
 ### [2007-04-7](/news/2007/04/7/index.md)
 
+##### Cambridge University
 #  Cambridge University defeats Oxford University by one and a half lengths in the 153rd University Boat Race.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/other_sports/rowing/6533197.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/18/a-verdict-is-due-in-the-trial-of-former-commander-of-the-sri-lankan-army-sarath-fonseka-on-charges-of-spreading-disaffection.html)  [JSON](/news/2011/11/18/a-verdict-is-due-in-the-trial-of-former-commander-of-the-sri-lankan-army-sarath-fonseka-on-charges-of-spreading-disaffection.json)  [XML](/news/2011/11/18/a-verdict-is-due-in-the-trial-of-former-commander-of-the-sri-lankan-army-sarath-fonseka-on-charges-of-spreading-disaffection.xml)  
+
 ### [2011-11-18](/news/2011/11/18/index.md)
 
+##### Commander
 # A verdict is due in the trial of former Commander of the Sri Lankan Army, Sarath Fonseka, on charges of "spreading disaffection". 
 
 The verdict is due in the third and most serious case brought by Sri Lankan authorities against former army chief Sarath Fonseka.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-15786920)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

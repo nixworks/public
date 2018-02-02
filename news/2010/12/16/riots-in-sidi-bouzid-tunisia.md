@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/16/riots-in-sidi-bouzid-tunisia.html)  [JSON](/news/2010/12/16/riots-in-sidi-bouzid-tunisia.json)  [XML](/news/2010/12/16/riots-in-sidi-bouzid-tunisia.xml)  
+
 ### [2010-12-16](/news/2010/12/16/index.md)
 
+##### Sidi Bouzid
 # Riots in Sidi Bouzid, Tunisia. 
 
 Images posted on social-network sites show police intervening to halt disturbances ignored by national media.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/2010122063745828931.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/20/201012207344659371_20.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/15/imclone-systems-founder-sam-waksal-pleaded-guilty-to-bank-fraud-and-conspiracy-in-an-insider-trading-scandal-that-threatens-martha-stewart.html)  [JSON](/news/2002/10/15/imclone-systems-founder-sam-waksal-pleaded-guilty-to-bank-fraud-and-conspiracy-in-an-insider-trading-scandal-that-threatens-martha-stewart.json)  [XML](/news/2002/10/15/imclone-systems-founder-sam-waksal-pleaded-guilty-to-bank-fraud-and-conspiracy-in-an-insider-trading-scandal-that-threatens-martha-stewart.xml)  
+
 ### [2002-10-15](/news/2002/10/15/index.md)
 
+##### ImClone Systems
 #  ImClone Systems founder Sam Waksal pleaded guilty to bank fraud and conspiracy in an insider trading scandal that threatens Martha Stewart and her home decorating empire.
 
 

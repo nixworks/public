@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/10/the-oil-cartel-opec-announces-further-limits-on-the-output-of-crude-by-one-million-barrels-a-day-beginning-april-1-2004-if-all-member-sta.html)  [JSON](/news/2004/02/10/the-oil-cartel-opec-announces-further-limits-on-the-output-of-crude-by-one-million-barrels-a-day-beginning-april-1-2004-if-all-member-sta.json)  [XML](/news/2004/02/10/the-oil-cartel-opec-announces-further-limits-on-the-output-of-crude-by-one-million-barrels-a-day-beginning-april-1-2004-if-all-member-sta.xml)  
+
 ### [2004-02-10](/news/2004/02/10/index.md)
 
+##### OPEC
 #  The oil cartel OPEC announces further limits on the output of crude by one million barrels a day beginning April 1, 2004. If all member states stick to the agreement, OPEC's daily output will be cut by about 10 percent.
 
 

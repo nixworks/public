@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/10/10/an-alaskan-legislative-committee-finds-that-the-governor-of-alaska-sarah-palin-unlawfully-abused-her-authority-in-terminating-the-public-sa.html)  [JSON](/news/2008/10/10/an-alaskan-legislative-committee-finds-that-the-governor-of-alaska-sarah-palin-unlawfully-abused-her-authority-in-terminating-the-public-sa.json)  [XML](/news/2008/10/10/an-alaskan-legislative-committee-finds-that-the-governor-of-alaska-sarah-palin-unlawfully-abused-her-authority-in-terminating-the-public-sa.xml)  
+
 ### [2008-10-10](/news/2008/10/10/index.md)
 
+##### Alaska
 #  An Alaskan legislative committee finds that the Governor of Alaska Sarah Palin unlawfully abused her authority in terminating the Public Safety Commissioner Walter Monegan. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via The New York Times](http://www.nytimes.com/aponline/us/AP-Palin-Troopergate.html?_r=1&oref=slogin)
+1. [AP via The New York Times](https://www.nytimes.com/aponline/us/AP-Palin-Troopergate.html?_r=1&oref=slogin)
 
 ### Related:
 

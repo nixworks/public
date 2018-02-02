@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/13/a-rare-congress-of-the-korean-workers-party-in-north-korea-is-postponed-amid-speculation-about-the-health-of-kim-jong-il.html)  [JSON](/news/2010/09/13/a-rare-congress-of-the-korean-workers-party-in-north-korea-is-postponed-amid-speculation-about-the-health-of-kim-jong-il.json)  [XML](/news/2010/09/13/a-rare-congress-of-the-korean-workers-party-in-north-korea-is-postponed-amid-speculation-about-the-health-of-kim-jong-il.xml)  
+
 ### [2010-09-13](/news/2010/09/13/index.md)
 
+##### Korean Workers' Party
 # A rare congress of the Korean Workers' Party in North Korea is postponed amid speculation about the health of Kim Jong-il. 
 
 It seems Kim Jong-il ̔s poor health is the reason for the delay of North Korea ̔s party representative meeting. The South Korean 24-hour news channel YTN cited a government official in Seoul on Monday who said South Korean officials are aware that Kim ̔s health had worsened after his recent trip to China delaying Pyeongyang ̔s Worker ̔s Party conference which was planned for last Monday. The source added that the North Korean leader ̔s condition is not serious enough to cancel the meeting and the conference would begin in the near future. It ̔s the first time in 40 years for the representative meeting to be held and it ̔s widely expected that the North ̔s next leader will be announced at the conference. 
 
 
-### Source:
+### Sources:
 
 1. [Arirang](http://www.arirang.co.kr/News/News_View.asp?nseq=106882&code=Ne2&category=2)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100913/news_20100913_56_698118.htm)

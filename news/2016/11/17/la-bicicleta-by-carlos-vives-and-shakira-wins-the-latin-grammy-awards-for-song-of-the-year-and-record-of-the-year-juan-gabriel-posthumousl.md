@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/17/la-bicicleta-by-carlos-vives-and-shakira-wins-t
 
 ### [2016-11-17](/news/2016/11/17/index.md)
 
+##### La Bicicleta
 # "La Bicicleta" by Carlos Vives and Shakira wins the Latin Grammy Awards for Song of the Year and Record of the Year.Juan Gabriel posthumously wins the Latin Grammy Award for Album of the Year for "Los Duo, Vol. 2"
 
 

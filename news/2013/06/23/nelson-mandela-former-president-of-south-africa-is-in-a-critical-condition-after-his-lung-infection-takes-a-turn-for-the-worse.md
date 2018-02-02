@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/23/nelson-mandela-former-president-of-south-africa-is-in-a-critical-condition-after-his-lung-infection-takes-a-turn-for-the-worse.html)  [JSON](/news/2013/06/23/nelson-mandela-former-president-of-south-africa-is-in-a-critical-condition-after-his-lung-infection-takes-a-turn-for-the-worse.json)  [XML](/news/2013/06/23/nelson-mandela-former-president-of-south-africa-is-in-a-critical-condition-after-his-lung-infection-takes-a-turn-for-the-worse.xml)  
+
 ### [2013-06-23](/news/2013/06/23/index.md)
 
+##### Nelson Mandela
 # Nelson Mandela, former President of South Africa, is in a critical condition after his lung infection takes a turn for the worse. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/nelson-mandela-south-african-president-critical-condition/story?id=19468677#.UcdZ_jtkOSo)
 1. [Cover Image](http://a.abcnews.com/images/International/ap_nelson_mandela_ml_130610_wmain.jpg)

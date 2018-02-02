@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/8/at-least-70-people-are-killed-and-about-120-othe
 
 ### [2016-08-8](/news/2016/08/8/index.md)
 
+##### Quetta Bombing
 # At least 70 people are killed and about 120 others injured in a suicide bombing at a hospital in Quetta, Pakistan. 
 
 A suicide bomb attack at a hospital in the Pakistani city of Quetta kills at least 70 people, many of whom had gathered to mourn a prominent local lawyer.

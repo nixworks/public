@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/9/voters-in-the-maldives-go-to-the-polls-for-the-second-round-of-a-presidential-election.html)  [JSON](/news/2013/11/9/voters-in-the-maldives-go-to-the-polls-for-the-second-round-of-a-presidential-election.json)  [XML](/news/2013/11/9/voters-in-the-maldives-go-to-the-polls-for-the-second-round-of-a-presidential-election.xml)  
+
 ### [2013-11-9](/news/2013/11/9/index.md)
 
+##### Maldives
 # Voters in the Maldives go to the polls for the second round of a presidential election. 
 
 Voters in the Maldives have been voting for a new president, amid tensions after a previous round was annulled and another stopped by police.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24850372)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71009000/jpg/_71009690_71009689.jpg)

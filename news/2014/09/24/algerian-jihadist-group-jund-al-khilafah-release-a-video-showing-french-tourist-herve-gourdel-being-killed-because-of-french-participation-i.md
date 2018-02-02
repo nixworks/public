@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2014/09/24/algerian-jihadist-group-jund-al-khilafah-release-a-video-showing-french-tourist-herve-gourdel-being-killed-because-of-french-participation-i.html)  [JSON](/news/2014/09/24/algerian-jihadist-group-jund-al-khilafah-release-a-video-showing-french-tourist-herve-gourdel-being-killed-because-of-french-participation-i.json)  [XML](/news/2014/09/24/algerian-jihadist-group-jund-al-khilafah-release-a-video-showing-french-tourist-herve-gourdel-being-killed-because-of-french-participation-i.xml)  
+
 ### [2014-09-24](/news/2014/09/24/index.md)
 
+##### Islamic State of Iraq and Syria
 # Algerian jihadist group Jund al-Khilafah release a video showing French tourist Herv Gourdel being killed because of French participation in airstrikes against ISIS. 
 
 France confirms an Algerian jihadist group linked to IS has beheaded 55-year-old tourist Herve Gourdel, who was seized on Sunday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-29352537)
 2. [The New York Times](http://mobile.nytimes.com/2014/09/25/world/middleeast/iraq-militants-destroy-historic-church.html?_r=0&referrer=)
 2. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/77798000/jpg/_77798212_77798211.jpg)
+
+### Changes:
+
+1. [Islamic State of Iraq and Syria: Algerian jihadist group Jund al-Khilafah release a video showing French tourist Herv Gourdel being killed because of French participation in airstrikes against ISIS. ](/news/2014/09/24/islamic-state-of-iraq-and-syria-algerian-jihadist-group-jund-al-khilafah-release-a-video-showing-french-tourist-herve-gourdel-being-killed.md) _2017-08-27 03:41:19 (First version)_
+1. [Algerian jihadist group Jund al-Khilafah release a video showing French tourist Herv Gourdel being killed because of French participation in airstrikes against ISIS. ](/news/2014/09/24/algerian-jihadist-group-jund-al-khilafah-release-a-video-showing-french-tourist-herve-gourdel-being-killed-because-of-french-participation-i.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ France confirms an Algerian jihadist group linked to IS has beheaded 55-year-old
 3. [Voter turnout is predicted to be low as Algerians go to the polls to elect members of the People's National Assembly. ](/news/2017/05/4/voter-turnout-is-predicted-to-be-low-as-algerians-go-to-the-polls-to-elect-members-of-the-people-s-national-assembly.md) _Context: Algeria_
 4. [Frenchman Jean-Pierre Sauvage, Scotsman Sir Fraser Stoddart, and Dutchman Ben Feringa win the Nobel Prize in Chemistry for their research into nanotechnology. ](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-fraser-stoddart-and-dutchman-ben-feringa-win-the-nobel-prize-in-chemistry-for-their-research-in.md) _Context: French-born_
 5. [Nigerien authorities discover the bodies of 34 migrants, mostly children, left behind in the Sahara desert by people smugglers who were taking them to Algeria and then to Europe. ](/news/2016/06/16/nigerien-authorities-discover-the-bodies-of-34-migrants-mostly-children-left-behind-in-the-sahara-desert-by-people-smugglers-who-were-taki.md) _Context: Algeria_
-
-### Changes:
-
-1. [Islamic State of Iraq and Syria: Algerian jihadist group Jund al-Khilafah release a video showing French tourist Herv Gourdel being killed because of French participation in airstrikes against ISIS. ](/news/2014/09/24/islamic-state-of-iraq-and-syria-algerian-jihadist-group-jund-al-khilafah-release-a-video-showing-french-tourist-herve-gourdel-being-killed.md) _2017-08-27 03:41:19 (First version)_
-1. [Algerian jihadist group Jund al-Khilafah release a video showing French tourist Herv Gourdel being killed because of French participation in airstrikes against ISIS. ](/news/2014/09/24/algerian-jihadist-group-jund-al-khilafah-release-a-video-showing-french-tourist-herve-gourdel-being-killed-because-of-french-participation-i.md) _(Current version)_

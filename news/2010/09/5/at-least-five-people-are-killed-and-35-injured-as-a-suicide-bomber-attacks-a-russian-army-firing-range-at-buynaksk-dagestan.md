@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2010/09/5/at-least-five-people-are-killed-and-35-injured-as-a-suicide-bomber-attacks-a-russian-army-firing-range-at-buynaksk-dagestan.html)  [JSON](/news/2010/09/5/at-least-five-people-are-killed-and-35-injured-as-a-suicide-bomber-attacks-a-russian-army-firing-range-at-buynaksk-dagestan.json)  [XML](/news/2010/09/5/at-least-five-people-are-killed-and-35-injured-as-a-suicide-bomber-attacks-a-russian-army-firing-range-at-buynaksk-dagestan.xml)  
+
 ### [2010-09-5](/news/2010/09/5/index.md)
 
+##### suicide bomber
 # At least five people are killed and 35 injured as a suicide bomber attacks a Russian Army firing range at Buynaksk, Dagestan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/crime/20100905/160470803.html)
-2. [Reuters](http://www.reuters.com/article/idUSLDE68400Q20100905)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/idUSLDE68400Q20100905)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
 1. [A female suicide bomber injures at least 11 police officers and civilians, including two children, in Makhachkala in the southern Russian republic of Dagestan. ](/news/2013/05/25/a-female-suicide-bomber-injures-at-least-11-police-officers-and-civilians-including-two-children-in-makhachkala-in-the-southern-russian-re.md) _Context: Dagestan, suicide bomber_
 2. [ Russian troops kill eight suspected militants in Makhachkala, Dagestan. ](/news/2007/11/12/russian-troops-kill-eight-suspected-militants-in-makhachkala-dagestan.md) _Context: Dagestan, Russian Army_
-3. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _Context: suicide bomber_
-4. [A suicide bomber kills at least six people and wounds 18 near a Pakistan Army vehicle taking part in the census in the city of Lahore. ](/news/2017/04/5/a-suicide-bomber-kills-at-least-six-people-and-wounds-18-near-a-pakistan-army-vehicle-taking-part-in-the-census-in-the-city-of-lahore.md) _Context: suicide bomber_
-5. [At least three suspected militants are killed by Russian security forces during a firefight in Khasavyurt, Dagestan. ](/news/2017/01/29/at-least-three-suspected-militants-are-killed-by-russian-security-forces-during-a-firefight-in-khasavyurt-dagestan.md) _Context: Dagestan_
+3. [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _Context: suicide bomber_
+4. [A suicide bomber kills at least 15 people in Kabul. ](/news/2017/10/21/a-suicide-bomber-kills-at-least-15-people-in-kabul.md) _Context: suicide bomber_
+5. [Two suicide bomber attacks, one on a Shia mosque in Kabul and one on a Sunni mosque in Ghor Province, kill approximately 60 people. Approximately 180 people have been killed in bombing attacks this week. ](/news/2017/10/20/two-suicide-bomber-attacks-one-on-a-shia-mosque-in-kabul-and-one-on-a-sunni-mosque-in-ghor-province-kill-approximately-60-people-approxim.md) _Context: suicide bomber_

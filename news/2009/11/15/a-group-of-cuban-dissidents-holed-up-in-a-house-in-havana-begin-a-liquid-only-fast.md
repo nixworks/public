@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/15/a-group-of-cuban-dissidents-holed-up-in-a-house-in-havana-begin-a-liquid-only-fast.html)  [JSON](/news/2009/11/15/a-group-of-cuban-dissidents-holed-up-in-a-house-in-havana-begin-a-liquid-only-fast.json)  [XML](/news/2009/11/15/a-group-of-cuban-dissidents-holed-up-in-a-house-in-havana-begin-a-liquid-only-fast.xml)  
+
 ### [2009-11-15](/news/2009/11/15/index.md)
 
+##### Cuba
 #  A group of Cuban dissidents holed up in a house in Havana begin a liquid-only fast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/americas/11/13/cuba.dissidents.protest/)
 

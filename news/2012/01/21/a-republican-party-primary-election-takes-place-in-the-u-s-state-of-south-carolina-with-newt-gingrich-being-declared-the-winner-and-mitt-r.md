@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/21/a-republican-party-primary-election-takes-place-in-the-u-s-state-of-south-carolina-with-newt-gingrich-being-declared-the-winner-and-mitt-r.html)  [JSON](/news/2012/01/21/a-republican-party-primary-election-takes-place-in-the-u-s-state-of-south-carolina-with-newt-gingrich-being-declared-the-winner-and-mitt-r.json)  [XML](/news/2012/01/21/a-republican-party-primary-election-takes-place-in-the-u-s-state-of-south-carolina-with-newt-gingrich-being-declared-the-winner-and-mitt-r.xml)  
+
 ### [2012-01-21](/news/2012/01/21/index.md)
 
+##### A Republican Party primary election
 # A Republican Party primary election takes place in the U.S. state of South Carolina, with Newt Gingrich being declared the winner and Mitt Romney coming second. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16669714)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58028000/jpg/_58028062_013777189-1.jpg)

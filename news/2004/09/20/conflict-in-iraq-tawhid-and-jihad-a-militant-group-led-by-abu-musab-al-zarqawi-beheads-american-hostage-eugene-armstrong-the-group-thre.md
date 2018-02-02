@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/09/20/conflict-in-iraq-tawhid-and-jihad-a-militant-group-led-by-abu-musab-al-zarqawi-beheads-american-hostage-eugene-armstrong-the-group-thre.html)  [JSON](/news/2004/09/20/conflict-in-iraq-tawhid-and-jihad-a-militant-group-led-by-abu-musab-al-zarqawi-beheads-american-hostage-eugene-armstrong-the-group-thre.json)  [XML](/news/2004/09/20/conflict-in-iraq-tawhid-and-jihad-a-militant-group-led-by-abu-musab-al-zarqawi-beheads-american-hostage-eugene-armstrong-the-group-thre.xml)  
+
 ### [2004-09-20](/news/2004/09/20/index.md)
 
+##### rebel-held
 #  Conflict in Iraq: Tawhid and Jihad, a militant group led by Abu Musab al-Zarqawi, beheads American hostage Eugene Armstrong. The group threatens to behead two additional hostages, American Jack Hensley and Briton Kenneth Bigley, within 24 hours unless the United States meets its demands. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6284093)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6284093)
 
 ### Related:
 

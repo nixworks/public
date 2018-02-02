@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/10/1/ukrainian-parliamentary-election-2007-with-70-percent-counted-yulia-tymoshenko-s-bloc-and-viktor-yushchenko-s-our-ukraine-party-had-48-p.html)  [JSON](/news/2007/10/1/ukrainian-parliamentary-election-2007-with-70-percent-counted-yulia-tymoshenko-s-bloc-and-viktor-yushchenko-s-our-ukraine-party-had-48-p.json)  [XML](/news/2007/10/1/ukrainian-parliamentary-election-2007-with-70-percent-counted-yulia-tymoshenko-s-bloc-and-viktor-yushchenko-s-our-ukraine-party-had-48-p.xml)  
+
 ### [2007-10-1](/news/2007/10/1/index.md)
 
+##### Ukrainian parliamentary election, 2007
 #  Ukrainian parliamentary election, 2007: With 70 percent counted, Yulia Tymoshenko's bloc and Viktor Yushchenko's Our Ukraine party had 48 percent of the vote. Prime Minister Viktor Yanukovych's party and his Communist and Socialist allies had 36.8 percent. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=ar.A4lkZ3B_E&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=ar.A4lkZ3B_E&refer=home)
 
 ### Related:
 

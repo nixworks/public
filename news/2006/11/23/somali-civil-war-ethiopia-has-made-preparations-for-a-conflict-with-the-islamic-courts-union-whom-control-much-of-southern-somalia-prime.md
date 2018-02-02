@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/23/somali-civil-war-ethiopia-has-made-preparations-for-a-conflict-with-the-islamic-courts-union-whom-control-much-of-southern-somalia-prime.html)  [JSON](/news/2006/11/23/somali-civil-war-ethiopia-has-made-preparations-for-a-conflict-with-the-islamic-courts-union-whom-control-much-of-southern-somalia-prime.json)  [XML](/news/2006/11/23/somali-civil-war-ethiopia-has-made-preparations-for-a-conflict-with-the-islamic-courts-union-whom-control-much-of-southern-somalia-prime.xml)  
+
 ### [2006-11-23](/news/2006/11/23/index.md)
 
+##### Somali Civil War
 #  Somali Civil War: Ethiopia has made preparations for a conflict with the Islamic Courts Union, whom control much of southern Somalia, Prime Minister Meles Zenawi has told MPs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6175976.stm)
 

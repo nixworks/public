@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/7/litokwa-tomeing-is-elected-as-president-of-the-marshall-islands.html)  [JSON](/news/2008/01/7/litokwa-tomeing-is-elected-as-president-of-the-marshall-islands.json)  [XML](/news/2008/01/7/litokwa-tomeing-is-elected-as-president-of-the-marshall-islands.xml)  
+
 ### [2008-01-7](/news/2008/01/7/index.md)
 
+##### Litokwa Tomeing
 #  Litokwa Tomeing is elected as President of the Marshall Islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=37332)
 

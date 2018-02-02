@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/1/poland-publishes-the-transcript-of-flight-data-recorders-from-the-fatal-2010-polish-air-force-tu-154-crash-which-killed-96-officials-and-int.html)  [JSON](/news/2010/06/1/poland-publishes-the-transcript-of-flight-data-recorders-from-the-fatal-2010-polish-air-force-tu-154-crash-which-killed-96-officials-and-int.json)  [XML](/news/2010/06/1/poland-publishes-the-transcript-of-flight-data-recorders-from-the-fatal-2010-polish-air-force-tu-154-crash-which-killed-96-officials-and-int.xml)  
+
 ### [2010-06-1](/news/2010/06/1/index.md)
 
+##### 2010 Polish Air Force Tu-154 crash
 # Poland publishes the transcript of flight data recorders from the fatal 2010 Polish Air Force Tu-154 crash which killed 96 officials and intellectuals on 10 April. 
 
 Poland publishes a transcript of flight data recorders from the plane crash that killed the Polish president and 95 others.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106115644389229.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/10206841.stm)

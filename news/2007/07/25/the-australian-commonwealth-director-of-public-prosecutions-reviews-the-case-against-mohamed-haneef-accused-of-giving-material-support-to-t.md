@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/25/the-australian-commonwealth-director-of-public-prosecutions-reviews-the-case-against-mohamed-haneef-accused-of-giving-material-support-to-t.html)  [JSON](/news/2007/07/25/the-australian-commonwealth-director-of-public-prosecutions-reviews-the-case-against-mohamed-haneef-accused-of-giving-material-support-to-t.json)  [XML](/news/2007/07/25/the-australian-commonwealth-director-of-public-prosecutions-reviews-the-case-against-mohamed-haneef-accused-of-giving-material-support-to-t.xml)  
+
 ### [2007-07-25](/news/2007/07/25/index.md)
 
+##### Commonwealth
 #  The Australian Commonwealth Director of Public Prosecutions reviews the case against Mohamed Haneef accused of giving material support to terrorism following concerns being raised about the strength of the case. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/news/national/dpp-reviews-haneef-case/2007/07/25/1185339065328.html)
 

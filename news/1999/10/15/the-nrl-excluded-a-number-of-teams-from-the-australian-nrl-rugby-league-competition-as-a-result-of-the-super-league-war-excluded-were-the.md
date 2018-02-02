@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/10/15/the-nrl-excluded-a-number-of-teams-from-the-australian-nrl-rugby-league-competition-as-a-result-of-the-super-league-war-excluded-were-the.html)  [JSON](/news/1999/10/15/the-nrl-excluded-a-number-of-teams-from-the-australian-nrl-rugby-league-competition-as-a-result-of-the-super-league-war-excluded-were-the.json)  [XML](/news/1999/10/15/the-nrl-excluded-a-number-of-teams-from-the-australian-nrl-rugby-league-competition-as-a-result-of-the-super-league-war-excluded-were-the.xml)  
+
 ### [1999-10-15](/news/1999/10/15/index.md)
 
+##### National Rugby League
 #  The NRL excluded a number of teams from the Australian NRL Rugby League competition as a result of the Super League war. Excluded were the South Sydney Rabbitohs who successfully contested their omission in 2001. Other teams were cut previously prior to 1999, or forced to merge.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/4/south-of-sicily-italy-s-coast-guard-saves-941-trafficked-migrants-aboard-five-motorized-dinghies-and-two-larger-vessels-near-southern-itali.html)  [JSON](/news/2015/03/4/south-of-sicily-italy-s-coast-guard-saves-941-trafficked-migrants-aboard-five-motorized-dinghies-and-two-larger-vessels-near-southern-itali.json)  [XML](/news/2015/03/4/south-of-sicily-italy-s-coast-guard-saves-941-trafficked-migrants-aboard-five-motorized-dinghies-and-two-larger-vessels-near-southern-itali.xml)  
+
 ### [2015-03-4](/news/2015/03/4/index.md)
 
+##### Sicily
 # South of Sicily, Italy's Coast Guard saves 941 trafficked migrants aboard five motorized dinghies and two larger vessels near southern Italian ports. Authorities cannot account for ten people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/0a813713c2e84a40a08993a75284a12d/nearly-1000-migrants-rescued-italy-10-die)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/5/coca-cola-and-pepsico-said-they-will-remove-brominated-vegetable-oil-bvo-from-their-drinks.html)  [JSON](/news/2014/05/5/coca-cola-and-pepsico-said-they-will-remove-brominated-vegetable-oil-bvo-from-their-drinks.json)  [XML](/news/2014/05/5/coca-cola-and-pepsico-said-they-will-remove-brominated-vegetable-oil-bvo-from-their-drinks.xml)  
+
 ### [2014-05-5](/news/2014/05/5/index.md)
 
+##### The Coca-Cola Company
 # Coca-Cola and PepsiCo said they will remove brominated vegetable oil (BVO) from their drinks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/mtn-dew-latest-drop-controversial-ingredient)
 

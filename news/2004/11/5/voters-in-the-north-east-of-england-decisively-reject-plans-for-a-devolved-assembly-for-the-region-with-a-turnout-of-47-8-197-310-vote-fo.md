@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/5/voters-in-the-north-east-of-england-decisively-reject-plans-for-a-devolved-assembly-for-the-region-with-a-turnout-of-47-8-197-310-vote-fo.html)  [JSON](/news/2004/11/5/voters-in-the-north-east-of-england-decisively-reject-plans-for-a-devolved-assembly-for-the-region-with-a-turnout-of-47-8-197-310-vote-fo.json)  [XML](/news/2004/11/5/voters-in-the-north-east-of-england-decisively-reject-plans-for-a-devolved-assembly-for-the-region-with-a-turnout-of-47-8-197-310-vote-fo.xml)  
+
 ### [2004-11-5](/news/2004/11/5/index.md)
 
+##### north east
 #  Voters in the north east of England decisively reject plans for a devolved assembly for the region. With a turnout of 47.8% 197,310 vote for and 696,519 vote against the plans. It is a serious setback for the British Deputy Prime Minister, John Prescott, who had championed the plans. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/3984387.stm)
 

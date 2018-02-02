@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/29/2013-north-india-floods-a-uttarakhand-lawmaker-claims-the-actual-death-toll-from-the-floods-is-10-000-ten-times-the-official-estimate.html)  [JSON](/news/2013/06/29/2013-north-india-floods-a-uttarakhand-lawmaker-claims-the-actual-death-toll-from-the-floods-is-10-000-ten-times-the-official-estimate.json)  [XML](/news/2013/06/29/2013-north-india-floods-a-uttarakhand-lawmaker-claims-the-actual-death-toll-from-the-floods-is-10-000-ten-times-the-official-estimate.xml)  
+
 ### [2013-06-29](/news/2013/06/29/index.md)
 
+##### 2013 North India floods
 # 2013 North India floods: A Uttarakhand lawmaker claims the actual death toll from the floods is 10,000, ten times the official estimate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/India-news/NorthIndiaRainFury2013/CM-rubbishes-10-000-deaths-claim-trafficking-epidemics-haunt-Uttarakhand/Article1-1084598.aspx)
 

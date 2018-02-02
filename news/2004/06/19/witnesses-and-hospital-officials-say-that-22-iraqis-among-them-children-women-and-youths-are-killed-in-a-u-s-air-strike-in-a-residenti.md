@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/06/19/witnesses-and-hospital-officials-say-that-22-iraqis-among-them-children-women-and-youths-are-killed-in-a-u-s-air-strike-in-a-residenti.html)  [JSON](/news/2004/06/19/witnesses-and-hospital-officials-say-that-22-iraqis-among-them-children-women-and-youths-are-killed-in-a-u-s-air-strike-in-a-residenti.json)  [XML](/news/2004/06/19/witnesses-and-hospital-officials-say-that-22-iraqis-among-them-children-women-and-youths-are-killed-in-a-u-s-air-strike-in-a-residenti.xml)  
+
 ### [2004-06-19](/news/2004/06/19/index.md)
 
+##### Iraq
 #  Witnesses and hospital officials say that 22 Iraqis, among them children, women, and youths, are killed in a U.S. air strike in a residential neighborhood in Fallujah. U.S. officials say that they targeted an Abu Musab al-Zarqawi safe house. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3822973.stm)
 2. [CBC](http://www.cbc.ca/stories/2004/06/19/iraq_fallujah040619)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5462374)
-3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5462374)
 
 ### Related:
 

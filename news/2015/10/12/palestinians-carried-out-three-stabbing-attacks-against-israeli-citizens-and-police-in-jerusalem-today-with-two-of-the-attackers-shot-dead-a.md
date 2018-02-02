@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/12/palestinians-carried-out-three-stabbing-attacks-against-israeli-citizens-and-police-in-jerusalem-today-with-two-of-the-attackers-shot-dead-a.html)  [JSON](/news/2015/10/12/palestinians-carried-out-three-stabbing-attacks-against-israeli-citizens-and-police-in-jerusalem-today-with-two-of-the-attackers-shot-dead-a.json)  [XML](/news/2015/10/12/palestinians-carried-out-three-stabbing-attacks-against-israeli-citizens-and-police-in-jerusalem-today-with-two-of-the-attackers-shot-dead-a.xml)  
+
 ### [2015-10-12](/news/2015/10/12/index.md)
 
+##### Israeli-Palestinian Conflict
 # Palestinians carried out three stabbing attacks against Israeli citizens and police in Jerusalem today with two of the attackers shot dead as the wave of violence continues, police said. There have been a series of stabbing attacks in Israel and the West Bank in recent days that have wounded several Israelis; nine attackers have been shot dead. Also, at least 16 Palestinians have been killed by Israeli forces during-after violent demonstrations in the West Bank and Gaza. 
 
 Terrorist shot by police when trying to knife officer at Lions&#8217; Gate, where two Israelis were recently stabbed to death
 
 
-### Source:
+### Sources:
 
 1. [AP via Houston Chronicle](http://www.chron.com/news/crime/article/Police-Palestinian-attacks-officer-with-knife-6565622.php)
 2. [Israel National News](http://www.israelnationalnews.com/News/Flash.aspx/338761#.VhwB2uxVhBc)

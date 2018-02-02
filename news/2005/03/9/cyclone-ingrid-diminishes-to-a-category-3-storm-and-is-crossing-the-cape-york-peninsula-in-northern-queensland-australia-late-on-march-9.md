@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/9/cyclone-ingrid-diminishes-to-a-category-3-storm-and-is-crossing-the-cape-york-peninsula-in-northern-queensland-australia-late-on-march-9.html)  [JSON](/news/2005/03/9/cyclone-ingrid-diminishes-to-a-category-3-storm-and-is-crossing-the-cape-york-peninsula-in-northern-queensland-australia-late-on-march-9.json)  [XML](/news/2005/03/9/cyclone-ingrid-diminishes-to-a-category-3-storm-and-is-crossing-the-cape-york-peninsula-in-northern-queensland-australia-late-on-march-9.xml)  
+
 ### [2005-03-9](/news/2005/03/9/index.md)
 
+##### Cyclone Ingrid
 #  Cyclone Ingrid diminishes to a category 3 storm, and is crossing the Cape York Peninsula in northern Queensland, Australia late on March 9, 2005 UTC. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABOM](http://www.bom.gov.au/products/IDQ65002.shtml)
 

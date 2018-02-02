@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/5/unicef-calls-on-australia-not-to-send-18-asylum-seekers-who-are-allegedly-unaccompanied-minors-to-malaysia-as-part-of-a-people-swap.html)  [JSON](/news/2011/08/5/unicef-calls-on-australia-not-to-send-18-asylum-seekers-who-are-allegedly-unaccompanied-minors-to-malaysia-as-part-of-a-people-swap.json)  [XML](/news/2011/08/5/unicef-calls-on-australia-not-to-send-18-asylum-seekers-who-are-allegedly-unaccompanied-minors-to-malaysia-as-part-of-a-people-swap.xml)  
+
 ### [2011-08-5](/news/2011/08/5/index.md)
 
+##### UNICEF
 # UNICEF calls on Australia not to send 18 asylum seekers who are allegedly unaccompanied minors to Malaysia as part of a people swap. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS News](http://www.sbs.com.au/news/article/1575700/UNICEF-'extremely-concerned'-about-deportation-of-kids)
 2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5g488yxhgywacL1RWL-WO2HNMk9DA?docId=CNG.04298063bfaf94bb62f5d50fe84a1d68.601)

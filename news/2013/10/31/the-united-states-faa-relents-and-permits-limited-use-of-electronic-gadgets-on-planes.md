@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/31/the-united-states-faa-relents-and-permits-limited-use-of-electronic-gadgets-on-planes.html)  [JSON](/news/2013/10/31/the-united-states-faa-relents-and-permits-limited-use-of-electronic-gadgets-on-planes.json)  [XML](/news/2013/10/31/the-united-states-faa-relents-and-permits-limited-use-of-electronic-gadgets-on-planes.xml)  
+
 ### [2013-10-31](/news/2013/10/31/index.md)
 
+##### FAA
 # The United States FAA relents and permits limited use of electronic gadgets on planes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/tech/2013/10/31/faa-oks-air-passengers-using-gadgets-on-planes/?intcmp=latestnews)
 1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/103113/0/0/103113_mckelway_faa_640.jpg?ve=1)

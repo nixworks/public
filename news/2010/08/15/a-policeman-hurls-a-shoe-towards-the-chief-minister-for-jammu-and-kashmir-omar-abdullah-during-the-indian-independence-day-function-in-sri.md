@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/15/a-policeman-hurls-a-shoe-towards-the-chief-minister-for-jammu-and-kashmir-omar-abdullah-during-the-indian-independence-day-function-in-sri.html)  [JSON](/news/2010/08/15/a-policeman-hurls-a-shoe-towards-the-chief-minister-for-jammu-and-kashmir-omar-abdullah-during-the-indian-independence-day-function-in-sri.json)  [XML](/news/2010/08/15/a-policeman-hurls-a-shoe-towards-the-chief-minister-for-jammu-and-kashmir-omar-abdullah-during-the-indian-independence-day-function-in-sri.xml)  
+
 ### [2010-08-15](/news/2010/08/15/index.md)
 
+##### throws a shoe
 # A policeman hurls a shoe towards the Chief Minister for Jammu and Kashmir, Omar Abdullah, during the Indian Independence Day function in Srinagar amid protests against Indian rule; 15 policemen are later suspended. 
 
 Prime minister calls for end to violence in speech marking independence day.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j3dBtXHDxzzTPfySXJOwUzNaNMRg)
 2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201081543236212408.html)

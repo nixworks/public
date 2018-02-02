@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/1/voters-in-the-bolivian-departments-of-beni-and-pando-go-to-the-polls-for-autonomy-referendums.html)  [JSON](/news/2008/06/1/voters-in-the-bolivian-departments-of-beni-and-pando-go-to-the-polls-for-autonomy-referendums.json)  [XML](/news/2008/06/1/voters-in-the-bolivian-departments-of-beni-and-pando-go-to-the-polls-for-autonomy-referendums.xml)  
+
 ### [2008-06-1](/news/2008/06/1/index.md)
 
+##### Bolivia
 #  Voters in the Bolivian departments of Beni and Pando go to the polls for autonomy referendums. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2008/WORLD/americas/06/01/bolivia.vote.ap/index.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/1/the-world-health-organization-declares-the-sprea
 
 ### [2016-02-1](/news/2016/02/1/index.md)
 
+##### Zika virus outbreak in the Americas (2015-present)
 # The World Health Organization declares the spread of the Zika virus a global public health emergency requiring an urgent, united response. 
 
 Zika poses a global public health emergency requiring a united response - WHO.

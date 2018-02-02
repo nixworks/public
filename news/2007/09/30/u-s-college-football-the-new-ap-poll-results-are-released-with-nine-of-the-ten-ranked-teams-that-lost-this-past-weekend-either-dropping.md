@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/09/30/u-s-college-football-the-new-ap-poll-results-are-released-with-nine-of-the-ten-ranked-teams-that-lost-this-past-weekend-either-dropping.html)  [JSON](/news/2007/09/30/u-s-college-football-the-new-ap-poll-results-are-released-with-nine-of-the-ten-ranked-teams-that-lost-this-past-weekend-either-dropping.json)  [XML](/news/2007/09/30/u-s-college-football-the-new-ap-poll-results-are-released-with-nine-of-the-ten-ranked-teams-that-lost-this-past-weekend-either-dropping.xml)  
+
 ### [2007-09-30](/news/2007/09/30/index.md)
 
+##### U.S.
 #  U.S. college football: The new AP Poll results are released, with nine of the ten ranked teams that lost this past weekend either dropping further down the list or out of the poll completely. LSU rose to #1 for the first time since 1959, Kentucky and Boston College rise into the Top Ten for the first time since 1977 and 1992, respectively, and South Florida ascends into the Top Ten for the first time ever. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! Sports](http://sports.yahoo.com/ncaaf/news;_ylt=AnKuiidUEzx9U4eVHcoY_iI5nYcB?slug=ap-t25-collegefbpoll&prov=ap&type=lgns)
+1. [AP via Yahoo! Sports](https://sports.yahoo.com/ncaaf/news;_ylt=AnKuiidUEzx9U4eVHcoY_iI5nYcB?slug=ap-t25-collegefbpoll&prov=ap&type=lgns)
 
 ### Related:
 

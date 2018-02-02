@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/5/phil-hogan-says-fine-gael-and-the-labour-party-have-agreed-a-draft-of-a-proposed-programme-for-government-as-talks-between-the-political-par.html)  [JSON](/news/2011/03/5/phil-hogan-says-fine-gael-and-the-labour-party-have-agreed-a-draft-of-a-proposed-programme-for-government-as-talks-between-the-political-par.json)  [XML](/news/2011/03/5/phil-hogan-says-fine-gael-and-the-labour-party-have-agreed-a-draft-of-a-proposed-programme-for-government-as-talks-between-the-political-par.xml)  
+
 ### [2011-03-5](/news/2011/03/5/index.md)
 
+##### Phil Hogan
 # Phil Hogan says Fine Gael and the Labour Party have agreed a draft of a proposed Programme for Government as talks between the political parties resume at Government Buildings in Dublin following the recent general election. 
 
 Fine Gael TD Phil Hogan has said he expects there to be a deal in the talks on the formation of a new Coalition Government.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2011/0305/politics.html)
 1. [Cover Image](https://img.rasset.ie/0004500f-1600.jpg)

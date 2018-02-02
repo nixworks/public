@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/6/officials-of-the-islamic-courts-union-in-power-in-bulo-burto-somalia-declare-that-under-their-interpretation-of-sharia-all-people-in-th.html)  [JSON](/news/2006/12/6/officials-of-the-islamic-courts-union-in-power-in-bulo-burto-somalia-declare-that-under-their-interpretation-of-sharia-all-people-in-th.json)  [XML](/news/2006/12/6/officials-of-the-islamic-courts-union-in-power-in-bulo-burto-somalia-declare-that-under-their-interpretation-of-sharia-all-people-in-th.xml)  
+
 ### [2006-12-6](/news/2006/12/6/index.md)
 
+##### Islamic Courts Union
 #  Officials of the Islamic Courts Union in power in Bulo Burto, Somalia, declare that, under their interpretation of Sharia, all people in the city must pray five times a day, or they will be beheaded on sight. 
 
 Residents of a southern Somalia town who do not pray five times a day will be beheaded, an official said Wednesday, adding the edict will be implemented in three days.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,234817,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

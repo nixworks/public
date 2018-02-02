@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/10/iraqi-forces-and-us-troops-attack-iraqi-insurgents-in-tal-afar.html)  [JSON](/news/2005/09/10/iraqi-forces-and-us-troops-attack-iraqi-insurgents-in-tal-afar.json)  [XML](/news/2005/09/10/iraqi-forces-and-us-troops-attack-iraqi-insurgents-in-tal-afar.xml)  
+
 ### [2005-09-10](/news/2005/09/10/index.md)
 
+##### Iraqi army
 #  Iraqi forces and US troops attack Iraqi insurgents in Tal Afar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-09-10T112604Z_01_SCH022074_RTRUKOC_0_UK-IRAQ.xml)
 

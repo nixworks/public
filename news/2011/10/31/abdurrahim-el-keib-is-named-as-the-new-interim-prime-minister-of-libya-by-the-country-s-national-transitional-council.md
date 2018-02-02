@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/31/abdurrahim-el-keib-is-named-as-the-new-interim-prime-minister-of-libya-by-the-country-s-national-transitional-council.html)  [JSON](/news/2011/10/31/abdurrahim-el-keib-is-named-as-the-new-interim-prime-minister-of-libya-by-the-country-s-national-transitional-council.json)  [XML](/news/2011/10/31/abdurrahim-el-keib-is-named-as-the-new-interim-prime-minister-of-libya-by-the-country-s-national-transitional-council.xml)  
+
 ### [2011-10-31](/news/2011/10/31/index.md)
 
+##### Abdurrahim El-Keib
 # Abdurrahim El-Keib is named as the new interim Prime Minister of Libya by the country's National Transitional Council. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-15530640)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56234000/jpg/_56234791_013213313-1.jpg)

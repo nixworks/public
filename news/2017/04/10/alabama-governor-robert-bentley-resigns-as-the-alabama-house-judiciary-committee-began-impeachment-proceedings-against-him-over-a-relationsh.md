@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/10/alabama-governor-robert-bentley-resigns-as-the-
 
 ### [2017-04-10](/news/2017/04/10/index.md)
 
+##### Alabama Governor
 # Alabama Governor Robert Bentley resigns as the Alabama House Judiciary Committee began impeachment proceedings against him over a relationship with a former aide. In addition, Bentley pleads guilty to two "failure to disclose" misdemeanors. Kay Ivey is sworn in as Alabama Governor. Under terms of the plea bargain, Bentley is forbidden from ever running for elected office in Alabama again. 
 
 The conservative Republican&#x27;s days in office could be numbered as the state&#x27;s House Judiciary Committee began impeachment hearings Monday.

@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-50-c-and-the-iranian-city-of-bandar-mahshahr-recording-a-near-w.html)  [JSON](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-50-c-and-the-iranian-city-of-bandar-mahshahr-recording-a-near-w.json)  [XML](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-50-c-and-the-iranian-city-of-bandar-mahshahr-recording-a-near-w.xml)  
+
 ### [2015-07-30](/news/2015/07/30/index.md)
 
+##### Middle East
 # A heat wave hits the Middle East with Baghdad recording a top temperature of 50 C and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of 165.2 F. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/blogs/capital-weather-gang/wp/2015/07/30/iran-city-hits-suffocating-heat-index-of-154-degrees-near-world-record/)
+1. [Washington Post](https://www.washingtonpost.com/blogs/capital-weather-gang/wp/2015/07/30/iran-city-hits-suffocating-heat-index-of-154-degrees-near-world-record/)
+
+### Changes:
+
+1. [A heat wave hits the Middle East with Baghdad recording a top temperature of {{convert|50|C|F}} and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of {{convert|165.2|F|C|order=flip}}. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-convert-50-c-f-and-the-iranian-city-of-bandar-mahshahr-reco.md) _2017-05-01 03:46:06 (First version)_
+2. [A heat wave hits the Middle East with Baghdad recording a top temperature of 50|C|F and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of 165.2|F|C|order=flip. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-50-c-f-and-the-iranian-city-of-bandar-mahshahr-recording-a-near.md) _2017-08-29 03:42:25 (Update)_
+2. [A heat wave hits the Middle East with Baghdad recording a top temperature of 50 C and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of 165.2 F. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-50-c-and-the-iranian-city-of-bandar-mahshahr-recording-a-near-w.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [At least 37 people are dead after a 7.8 magnitude earthquake strikes with its epicenter below Khash County, Sistan and Baluchestan Province, Iran, near the border with Pakistan. Tremors are felt throughout the Middle East, Pakistan and North India, and hundreds of deaths are expected by the Iran government. ](/news/2013/04/16/at-least-37-people-are-dead-after-a-7-8-magnitude-earthquake-strikes-with-its-epicenter-below-khash-county-sistan-and-baluchestan-province.md) _Context: Iran, Middle East_
 4. [A rocket kills six people and injures over 50 others at Camp Liberty, an Iraqi facility near Baghdad that shelters members of People's Mujahedin of Iran. ](/news/2013/02/9/a-rocket-kills-six-people-and-injures-over-50-others-at-camp-liberty-an-iraqi-facility-near-baghdad-that-shelters-members-of-people-s-mujah.md) _Context: Baghdad, Iran_
 5. [Former Iraqi Prime Minister Ayad Allawi accuses Iran of working to destabilize the Middle East, claiming that the region is falling victim to terrorist groups backed financially by Iran. ](/news/2010/10/17/former-iraqi-prime-minister-ayad-allawi-accuses-iran-of-working-to-destabilize-the-middle-east-claiming-that-the-region-is-falling-victim-t.md) _Context: Iran, Middle East_
-
-### Changes:
-
-1. [A heat wave hits the Middle East with Baghdad recording a top temperature of {{convert|50|C|F}} and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of {{convert|165.2|F|C|order=flip}}. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-convert-50-c-f-and-the-iranian-city-of-bandar-mahshahr-reco.md) _2017-05-01 03:46:06 (First version)_
-2. [A heat wave hits the Middle East with Baghdad recording a top temperature of 50|C|F and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of 165.2|F|C|order=flip. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-50-c-f-and-the-iranian-city-of-bandar-mahshahr-recording-a-near.md) _2017-08-29 03:42:25 (Update)_
-2. [A heat wave hits the Middle East with Baghdad recording a top temperature of 50 C and the Iranian city of Bandar Mahshahr recording a near world record heat index temperature of 165.2 F. ](/news/2015/07/30/a-heat-wave-hits-the-middle-east-with-baghdad-recording-a-top-temperature-of-50-c-and-the-iranian-city-of-bandar-mahshahr-recording-a-near-w.md) _(Current version)_

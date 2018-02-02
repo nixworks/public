@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/16/federal-defence-minister-john-faulkner-rules-out-withdrawing-australian-troops-from-afghanistan-alleging-it-would-undo-nine-years-of-hard-w.html)  [JSON](/news/2010/07/16/federal-defence-minister-john-faulkner-rules-out-withdrawing-australian-troops-from-afghanistan-alleging-it-would-undo-nine-years-of-hard-w.json)  [XML](/news/2010/07/16/federal-defence-minister-john-faulkner-rules-out-withdrawing-australian-troops-from-afghanistan-alleging-it-would-undo-nine-years-of-hard-w.xml)  
+
 ### [2010-07-16](/news/2010/07/16/index.md)
 
+##### Minister for Defence
 # Federal Defence Minister John Faulkner rules out withdrawing Australian troops from Afghanistan, alleging it would undo nine years of hard work. 
 
 Federal Defence Minister John Faulkner has ruled out withdrawing Australian troops from Afghanistan, saying it would undo nine years of hard work.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/faulkner-rules-out-withdrawing-troops-20100716-10dm8.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

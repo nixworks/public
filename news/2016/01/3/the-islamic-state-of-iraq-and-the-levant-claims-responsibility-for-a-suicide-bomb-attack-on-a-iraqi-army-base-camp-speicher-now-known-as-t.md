@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/3/the-islamic-state-of-iraq-and-the-levant-claims-
 
 ### [2016-01-3](/news/2016/01/3/index.md)
 
+##### Iraqi Civil War (2014-present)
 # The Islamic State of Iraq and the Levant claims responsibility for a suicide bomb attack on a Iraqi Army base (Camp Speicher, now known as Tikrit Air Academy), near the town of Tikrit, north of Baghdad, that killed at least 15 and injured 22. 
 
 Attacks by five suicide bombers on an Iraqi military base north of Baghdad on Sunday killed at least 15 members of the security forces and wounded 22 others, security sources said.
@@ -24,4 +25,4 @@ Attacks by five suicide bombers on an Iraqi military base north of Baghdad on Su
 2. [A car bomb explodes in a Shi'ite neighbourhood in Baghdad, killing at least 48 people. ISIL claimed responsibility for the bombing. ](/news/2017/02/16/a-car-bomb-explodes-in-a-shi-ite-neighbourhood-in-baghdad-killing-at-least-48-people-isil-claimed-responsibility-for-the-bombing.md) _Context: Baghdad, ISIL, Iraqi Civil War (2014-present)_
 3. [The Iraqi Army announces the liberation of the eastern part of Mosul following the collapse of ISIL defenses. ](/news/2017/01/18/the-iraqi-army-announces-the-liberation-of-the-eastern-part-of-mosul-following-the-collapse-of-isil-defenses.md) _Context: ISIL, Iraqi Army, Iraqi Civil War (2014-present)_
 4. [According to reports, at least 250 ISIL militants were killed during fighting in the city of Fallujah while fighting Iraqi Army forces with assistance from U.S. airstrikes. ](/news/2016/06/30/according-to-reports-at-least-250-isil-militants-were-killed-during-fighting-in-the-city-of-fallujah-while-fighting-iraqi-army-forces-with.md) _Context: ISIL, Iraqi Army, Iraqi Civil War (2014-present)_
-5. [Iraqi Army forces helped by U.S. airstrikes recapture the southwestern city of Ar-Rutbah from the Islamic State of Iraq and the Levant group. The victory will allow for the re-opening of the Baghdad-Amman highway. ](/news/2016/05/20/iraqi-army-forces-helped-by-u-s-airstrikes-recapture-the-southwestern-city-of-ar-rutbah-from-the-islamic-state-of-iraq-and-the-levant-group.md) _Context: Baghdad, ISIL, Iraqi Civil War (2014-present)_
+5. [ At least 64 people are killed and 87 injured in a bomb attack on a market in Sadr City, Baghdad. Islamic State of Iraq and the Levant (ISIS) claims responsibility. ](/news/2016/05/11/at-least-64-people-are-killed-and-87-injured-in-a-bomb-attack-on-a-market-in-sadr-city-baghdad-islamic-state-of-iraq-and-the-levant-isis.md) _Context: Baghdad, ISIL, Iraqi Civil War (2014-present)_

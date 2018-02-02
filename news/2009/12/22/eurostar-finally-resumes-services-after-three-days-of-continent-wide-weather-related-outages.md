@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/22/eurostar-finally-resumes-services-after-three-days-of-continent-wide-weather-related-outages.html)  [JSON](/news/2009/12/22/eurostar-finally-resumes-services-after-three-days-of-continent-wide-weather-related-outages.json)  [XML](/news/2009/12/22/eurostar-finally-resumes-services-after-three-days-of-continent-wide-weather-related-outages.xml)  
+
 ### [2009-12-22](/news/2009/12/22/index.md)
 
+##### Eurostar
 #  Eurostar finally resumes services after three days of continent-wide weather-related outages. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/cms/s/0/f53fac0c-ee7a-11de-944c-00144feab49a.html)
 

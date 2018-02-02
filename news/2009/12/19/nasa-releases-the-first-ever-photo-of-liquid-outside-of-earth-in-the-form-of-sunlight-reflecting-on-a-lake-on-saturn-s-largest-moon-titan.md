@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/19/nasa-releases-the-first-ever-photo-of-liquid-outside-of-earth-in-the-form-of-sunlight-reflecting-on-a-lake-on-saturn-s-largest-moon-titan.html)  [JSON](/news/2009/12/19/nasa-releases-the-first-ever-photo-of-liquid-outside-of-earth-in-the-form-of-sunlight-reflecting-on-a-lake-on-saturn-s-largest-moon-titan.json)  [XML](/news/2009/12/19/nasa-releases-the-first-ever-photo-of-liquid-outside-of-earth-in-the-form-of-sunlight-reflecting-on-a-lake-on-saturn-s-largest-moon-titan.xml)  
+
 ### [2009-12-19](/news/2009/12/19/index.md)
 
+##### NASA
 #  NASA releases the first ever photo of liquid outside of Earth, in the form of sunlight reflecting on a lake on Saturn's largest moon, Titan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2009/TECH/space/12/18/saturn.titan.reflection/index.html)
 

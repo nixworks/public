@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/american-scientists-announce-an-ice-sheet-has-broken-from-greenland-s-petermann-glacier.html)  [JSON](/news/2010/08/6/american-scientists-announce-an-ice-sheet-has-broken-from-greenland-s-petermann-glacier.json)  [XML](/news/2010/08/6/american-scientists-announce-an-ice-sheet-has-broken-from-greenland-s-petermann-glacier.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Greenland
 # American scientists announce an ice sheet has broken from Greenland's Petermann Glacier. 
 
 A giant block of ice measuring 260 sq km (100 sq miles) breaks off a glacier in Greenland, according to researchers at a US university.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-10900235)
 2. [The Guardian](http://www.guardian.co.uk/environment/2010/aug/07/biggest-ice-island-greenland)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/04/30/after-25-years-bob-edwards-hosts-npr-s-morning-edition-for-the-last-time.html)  [JSON](/news/2004/04/30/after-25-years-bob-edwards-hosts-npr-s-morning-edition-for-the-last-time.json)  [XML](/news/2004/04/30/after-25-years-bob-edwards-hosts-npr-s-morning-edition-for-the-last-time.xml)  
+
 ### [2004-04-30](/news/2004/04/30/index.md)
 
+##### Bob Edwards
 #  After 25 years, Bob Edwards hosts NPR's "Morning Edition" for the last time.
 
 

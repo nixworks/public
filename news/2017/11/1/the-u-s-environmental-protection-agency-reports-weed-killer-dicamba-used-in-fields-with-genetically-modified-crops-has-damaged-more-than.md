@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/1/the-u-s-environmental-protection-agency-reports-
 
 ### [2017-11-1](/news/2017/11/1/index.md)
 
+##### Genetically modified organism
 # The U.S. Environmental Protection Agency reports weed killer dicamba, used in fields with genetically modified crops, has damaged more than 3.6 million acres of normal soybean crops in 25 states this year. 
 
 The herbicide dicamba is intended for soybeans and cotton crops that have been genetically modified. But other crops on nearby fields are suffering.

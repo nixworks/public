@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/7/one-person-is-killed-and-six-others-injured-in-a
 
 ### [2016-02-7](/news/2016/02/7/index.md)
 
+##### explosion
 # One person is killed and six others injured in an explosion at JCG Farms, an American feed mill near Atlanta, Georgia. 
 
 

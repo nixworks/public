@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/24/mohamed-morsi-of-the-muslim-brotherhood-is-declared-the-winner-of-egypt-s-presidential-election-run-off.html)  [JSON](/news/2012/06/24/mohamed-morsi-of-the-muslim-brotherhood-is-declared-the-winner-of-egypt-s-presidential-election-run-off.json)  [XML](/news/2012/06/24/mohamed-morsi-of-the-muslim-brotherhood-is-declared-the-winner-of-egypt-s-presidential-election-run-off.xml)  
+
 ### [2012-06-24](/news/2012/06/24/index.md)
 
+##### Mohamed Morsi
 # Mohamed Morsi of the Muslim Brotherhood is declared the winner of Egypt's presidential election run-off. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-18571580)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61110000/jpg/_61110946_015149265-1.jpg)

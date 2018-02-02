@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/30/battle-of-basra-2008-shiite-cleric-muqtada-al-sadr-calls-for-his-followers-the-mahdi-army-to-lay-down-their-arms-and-end-their-fightin.html)  [JSON](/news/2008/03/30/battle-of-basra-2008-shiite-cleric-muqtada-al-sadr-calls-for-his-followers-the-mahdi-army-to-lay-down-their-arms-and-end-their-fightin.json)  [XML](/news/2008/03/30/battle-of-basra-2008-shiite-cleric-muqtada-al-sadr-calls-for-his-followers-the-mahdi-army-to-lay-down-their-arms-and-end-their-fightin.xml)  
+
 ### [2008-03-30](/news/2008/03/30/index.md)
 
+##### Battle of Basra (2008)
 #  Battle of Basra (2008): Shiite cleric Muqtada al-Sadr calls for his followers, the Mahdi Army, to lay down their arms and end their fighting with the Iraqi Army in Basra. 
 
 The Iraqi government has welcomed an order by Shiite cleric Muqtada al-Sadr to pull his fighters off the streets.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,343231,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

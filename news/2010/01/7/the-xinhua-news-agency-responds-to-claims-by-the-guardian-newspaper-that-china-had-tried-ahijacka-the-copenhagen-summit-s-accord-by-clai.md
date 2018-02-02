@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2010/01/7/the-xinhua-news-agency-responds-to-claims-by-the-guardian-newspaper-that-china-had-tried-ahijacka-the-copenhagen-summit-s-accord-by-clai.html)  [JSON](/news/2010/01/7/the-xinhua-news-agency-responds-to-claims-by-the-guardian-newspaper-that-china-had-tried-ahijacka-the-copenhagen-summit-s-accord-by-clai.json)  [XML](/news/2010/01/7/the-xinhua-news-agency-responds-to-claims-by-the-guardian-newspaper-that-china-had-tried-ahijacka-the-copenhagen-summit-s-accord-by-clai.xml)  
+
 ### [2010-01-7](/news/2010/01/7/index.md)
 
+##### Xinhua
 # The Xinhua news agency responds to claims by The Guardian newspaper that China had tried "hijack" the Copenhagen summit's Accord by claiming that the Chinese premier Wen Jiabao was not invited to secret US-initiated talks on December 17. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Dialogue](http://www.chinadialogue.net/article/show/single/en/3449-When-China-said-no-)
+
+### Changes:
+
+1. [The Xinhua news agency responds to claims by The Guardian newspaper that China had tried -hijack- the Copenhagen summit's Accord by claiming that the Chinese premier Wen Jiabao was not invited to secret US-initiated talks on December 17. ](/news/2010/01/7/the-xinhua-news-agency-responds-to-claims-by-the-guardian-newspaper-that-china-had-tried-hijack-the-copenhagen-summit-s-accord-by-clai.md) _2017-08-27 03:26:41 (First version)_
+1. [The Xinhua news agency responds to claims by The Guardian newspaper that China had tried "hijack" the Copenhagen summit's Accord by claiming that the Chinese premier Wen Jiabao was not invited to secret US-initiated talks on December 17. ](/news/2010/01/7/the-xinhua-news-agency-responds-to-claims-by-the-guardian-newspaper-that-china-had-tried-ahijacka-the-copenhagen-summit-s-accord-by-clai.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Chinese Premier Wen Jiabao says the country needs to carry out political reforms in order to support achievements made in its economic restructuring, contradicting statements by other Politburo members. ](/news/2011/03/14/chinese-premier-wen-jiabao-says-the-country-needs-to-carry-out-political-reforms-in-order-to-support-achievements-made-in-its-economic-restr.md) _Context: Premier of the People's Republic of China, Wen Jiabao_
 4. [Chinese Premier Wen Jiabao arrives for a working visit in Pakistan and meets with Pakistani Prime Minister Yusuf Raza Gilani. ](/news/2010/12/18/chinese-premier-wen-jiabao-arrives-for-a-working-visit-in-pakistan-and-meets-with-pakistani-prime-minister-yusuf-raza-gilani.md) _Context: Premier of the People's Republic of China, Wen Jiabao_
 5. [Chinese Premier Wen Jiabao begins a trade visit to India. ](/news/2010/12/15/chinese-premier-wen-jiabao-begins-a-trade-visit-to-india.md) _Context: Premier of the People's Republic of China, Wen Jiabao_
-
-### Changes:
-
-1. [The Xinhua news agency responds to claims by The Guardian newspaper that China had tried -hijack- the Copenhagen summit's Accord by claiming that the Chinese premier Wen Jiabao was not invited to secret US-initiated talks on December 17. ](/news/2010/01/7/the-xinhua-news-agency-responds-to-claims-by-the-guardian-newspaper-that-china-had-tried-hijack-the-copenhagen-summit-s-accord-by-clai.md) _2017-08-27 03:26:41 (First version)_
-1. [The Xinhua news agency responds to claims by The Guardian newspaper that China had tried "hijack" the Copenhagen summit's Accord by claiming that the Chinese premier Wen Jiabao was not invited to secret US-initiated talks on December 17. ](/news/2010/01/7/the-xinhua-news-agency-responds-to-claims-by-the-guardian-newspaper-that-china-had-tried-ahijacka-the-copenhagen-summit-s-accord-by-clai.md) _(Current version)_

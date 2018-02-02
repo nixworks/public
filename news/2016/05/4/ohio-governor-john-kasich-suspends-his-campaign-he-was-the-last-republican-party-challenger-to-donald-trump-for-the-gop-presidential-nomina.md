@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/4/ohio-governor-john-kasich-suspends-his-campaign-
 
 ### [2016-05-4](/news/2016/05/4/index.md)
 
+##### 2016 U.S. presidential election
 # Ohio Governor John Kasich suspends his campaign. He was the last Republican Party challenger to Donald Trump for the GOP presidential nomination. 
 
 

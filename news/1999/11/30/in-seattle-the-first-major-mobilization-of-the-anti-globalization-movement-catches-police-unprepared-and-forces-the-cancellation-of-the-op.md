@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/11/30/in-seattle-the-first-major-mobilization-of-the-anti-globalization-movement-catches-police-unprepared-and-forces-the-cancellation-of-the-op.html)  [JSON](/news/1999/11/30/in-seattle-the-first-major-mobilization-of-the-anti-globalization-movement-catches-police-unprepared-and-forces-the-cancellation-of-the-op.json)  [XML](/news/1999/11/30/in-seattle-the-first-major-mobilization-of-the-anti-globalization-movement-catches-police-unprepared-and-forces-the-cancellation-of-the-op.xml)  
+
 ### [1999-11-30](/news/1999/11/30/index.md)
 
+##### Seattle
 #  In Seattle, the first major mobilization of the anti-globalization movement catches police unprepared and forces the cancellation of the opening ceremonies of the WTO Meeting of 1999 (protests end on December 3).
 
 

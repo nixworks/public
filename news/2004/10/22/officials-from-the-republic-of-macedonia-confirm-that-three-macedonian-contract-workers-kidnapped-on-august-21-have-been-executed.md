@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2004/10/22/officials-from-the-republic-of-macedonia-confirm-that-three-macedonian-contract-workers-kidnapped-on-august-21-have-been-executed.html)  [JSON](/news/2004/10/22/officials-from-the-republic-of-macedonia-confirm-that-three-macedonian-contract-workers-kidnapped-on-august-21-have-been-executed.json)  [XML](/news/2004/10/22/officials-from-the-republic-of-macedonia-confirm-that-three-macedonian-contract-workers-kidnapped-on-august-21-have-been-executed.xml)  
+
 ### [2004-10-22](/news/2004/10/22/index.md)
 
+##### Macedonian
 #  Officials from the Republic of Macedonia confirm that three Macedonian contract workers kidnapped on August 21 have been executed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP/Boston Globe](http://www.boston.com/dailynews/296/world/Officials_says_Iraq_vote_prepa:.shtml)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3945443.stm)
 3. [BBC](http://news.bbc.co.uk/2/hi/europe/3944711.stm)
-4. [NYT](http://www.nytimes.com/aponline/international/AP-Iraq-Elections.html?oref=login)
+4. [NYT](https://www.nytimes.com/aponline/international/AP-Iraq-Elections.html?oref=login)
 5. [Reuters](http://reuters.com/newsArticle.jhtml?type=worldNews&storyID=6583667)
 6. [Turkish Press](http://www.turkishpress.com/turkishpress/news.asp?ID=31410)
 7. [al-Jazeera](http://www.aljazeera.com/cgi-bin/news_service/middle_east_full_story.asp?service_id=5288)

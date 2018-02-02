@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/6/at-least-39-people-are-killed-across-syria-while-the-red-cross-states-that-it-is-still-unable-to-deliver-aid-to-the-besieged-bab-amr-neighb.html)  [JSON](/news/2012/03/6/at-least-39-people-are-killed-across-syria-while-the-red-cross-states-that-it-is-still-unable-to-deliver-aid-to-the-besieged-bab-amr-neighb.json)  [XML](/news/2012/03/6/at-least-39-people-are-killed-across-syria-while-the-red-cross-states-that-it-is-still-unable-to-deliver-aid-to-the-besieged-bab-amr-neighb.xml)  
+
 ### [2012-03-6](/news/2012/03/6/index.md)
 
+##### Syria
 # At least 39 people are killed across Syria, while the Red Cross states that it is still unable to deliver aid to the besieged Bab Amr neighborhood of Homs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/03/06/world/meast/syria-unrest/index.html)
 

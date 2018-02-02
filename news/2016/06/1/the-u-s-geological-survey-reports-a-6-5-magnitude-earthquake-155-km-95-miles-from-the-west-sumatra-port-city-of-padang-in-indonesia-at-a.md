@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/1/the-u-s-geological-survey-reports-a-6-5-magnitud
 
 ### [2016-06-1](/news/2016/06/1/index.md)
 
+##### United States Geological Survey
 # The U.S. Geological Survey reports a 6.5 magnitude earthquake 155 km (95 miles) from the West Sumatra port city of Padang in Indonesia at a depth of about 50 km (30 miles). There are no immediate reports of damage or injury. 
 
 A 6.5 magnitude earthquake struck off the coast of West Sumatra in Indonesia, according to the U.S. Geological Survey.

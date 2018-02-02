@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/6/the-reserve-bank-of-australia-cuts-interest-rates-by-25-basis-points-to-4-25-per-cent-due-to-continuing-global-economic-concern.html)  [JSON](/news/2011/12/6/the-reserve-bank-of-australia-cuts-interest-rates-by-25-basis-points-to-4-25-per-cent-due-to-continuing-global-economic-concern.json)  [XML](/news/2011/12/6/the-reserve-bank-of-australia-cuts-interest-rates-by-25-basis-points-to-4-25-per-cent-due-to-continuing-global-economic-concern.xml)  
+
 ### [2011-12-6](/news/2011/12/6/index.md)
 
+##### Reserve Bank of Australia
 # The Reserve Bank of Australia cuts interest rates by 25 basis points to 4.25 per cent due to continuing global economic concern. 
 
 The Reserve Bank of Australia hands borrowers a Christmas rate cut, taking the official cash rate down to 4.25 per cent.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-12-06/rba-cuts-interest-rates/3714874)
 1. [Cover Image](http://www.abc.net.au/news/image/413702-1x1-700x700.jpg)

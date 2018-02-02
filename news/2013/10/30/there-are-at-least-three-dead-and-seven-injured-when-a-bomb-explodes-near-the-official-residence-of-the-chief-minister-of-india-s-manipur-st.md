@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/30/there-are-at-least-three-dead-and-seven-injured-when-a-bomb-explodes-near-the-official-residence-of-the-chief-minister-of-india-s-manipur-st.html)  [JSON](/news/2013/10/30/there-are-at-least-three-dead-and-seven-injured-when-a-bomb-explodes-near-the-official-residence-of-the-chief-minister-of-india-s-manipur-st.json)  [XML](/news/2013/10/30/there-are-at-least-three-dead-and-seven-injured-when-a-bomb-explodes-near-the-official-residence-of-the-chief-minister-of-india-s-manipur-st.xml)  
+
 ### [2013-10-30](/news/2013/10/30/index.md)
 
+##### Chief Minister
 # There are at least three dead and seven injured when a bomb explodes near the official residence of the Chief Minister of India's Manipur state Okram Ibobi Singh in the city of Imphal. 
 
 Three persons were killed and four others got seriously injured when a powerful bomb exploded at Yaiskul area in Imphal West district of Manipur this morning, police said.
 
 
-### Source:
+### Sources:
 
 1. [IBN](http://ibnlive.in.com/news/two-killed-seven-injured-in-bomb-blast-near-manipur-cms-residence/431302-3-225.html)
 2. [NDTV](http://www.ndtv.com/article/india/three-killed-in-bomb-blast-near-bus-stand-in-imphal-439127)

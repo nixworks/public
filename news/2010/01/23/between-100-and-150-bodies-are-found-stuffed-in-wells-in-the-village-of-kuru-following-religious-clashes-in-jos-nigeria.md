@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/23/between-100-and-150-bodies-are-found-stuffed-in-wells-in-the-village-of-kuru-following-religious-clashes-in-jos-nigeria.html)  [JSON](/news/2010/01/23/between-100-and-150-bodies-are-found-stuffed-in-wells-in-the-village-of-kuru-following-religious-clashes-in-jos-nigeria.json)  [XML](/news/2010/01/23/between-100-and-150-bodies-are-found-stuffed-in-wells-in-the-village-of-kuru-following-religious-clashes-in-jos-nigeria.xml)  
+
 ### [2010-01-23](/news/2010/01/23/index.md)
 
+##### bodies
 # Between 100 and 150 bodies are found stuffed in wells in the village of Kuru following religious clashes in Jos, Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i05TF66aMoFCCTY_1zJIElU5F3QA)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8476534.stm)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/18/cyril-ramaphosa-becomes-president-of-the-africa
 
 ### [2017-12-18](/news/2017/12/18/index.md)
 
+##### Politics of South Africa
 # Cyril Ramaphosa becomes president of the African National Congress (ANC), defeating Nkosazana Dlamini-Zuma by 2,440 votes to 2,261. 
 
 Cyril Ramaphosa has won the race to become the new ANC president. David Mabuza has won the race to be his deputy. See who else filled positions on the ANC&#39;s top six.

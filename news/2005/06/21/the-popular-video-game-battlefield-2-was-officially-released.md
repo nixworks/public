@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/21/the-popular-video-game-battlefield-2-was-officially-released.html)  [JSON](/news/2005/06/21/the-popular-video-game-battlefield-2-was-officially-released.json)  [XML](/news/2005/06/21/the-popular-video-game-battlefield-2-was-officially-released.xml)  
+
 ### [2005-06-21](/news/2005/06/21/index.md)
 
+##### Battlefield 2
 #  The popular video game, Battlefield 2, was officially released.
 
 

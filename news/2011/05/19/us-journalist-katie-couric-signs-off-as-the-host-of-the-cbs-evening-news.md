@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/19/us-journalist-katie-couric-signs-off-as-the-host-of-the-cbs-evening-news.html)  [JSON](/news/2011/05/19/us-journalist-katie-couric-signs-off-as-the-host-of-the-cbs-evening-news.json)  [XML](/news/2011/05/19/us-journalist-katie-couric-signs-off-as-the-host-of-the-cbs-evening-news.xml)  
+
 ### [2011-05-19](/news/2011/05/19/index.md)
 
+##### Katie Couric
 # US journalist Katie Couric signs off as the host of the CBS Evening News. 
 
 Check out our breaking stories on Hollywood?s hottest stars! Get the latest news on celebrity scandals, engagements, and divorces! 
 
 
-### Source:
+### Sources:
 
 1. [E! Online](http://au.eonline.com/uberblog/b242982_katie_couric_signs_off_from_cbs_evening.html)
 

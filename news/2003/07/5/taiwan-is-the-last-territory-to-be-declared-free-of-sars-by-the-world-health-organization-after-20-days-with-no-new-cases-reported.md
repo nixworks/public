@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2003/07/5/taiwan-is-the-last-territory-to-be-declared-free-of-sars-by-the-world-health-organization-after-20-days-with-no-new-cases-reported.html)  [JSON](/news/2003/07/5/taiwan-is-the-last-territory-to-be-declared-free-of-sars-by-the-world-health-organization-after-20-days-with-no-new-cases-reported.json)  [XML](/news/2003/07/5/taiwan-is-the-last-territory-to-be-declared-free-of-sars-by-the-world-health-organization-after-20-days-with-no-new-cases-reported.xml)  
+
 ### [2003-07-5](/news/2003/07/5/index.md)
 
+##### Taiwan
 #  Taiwan is the last territory to be declared free of SARS by the World Health Organization, after 20 days with no new cases reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3046984.stm)
 

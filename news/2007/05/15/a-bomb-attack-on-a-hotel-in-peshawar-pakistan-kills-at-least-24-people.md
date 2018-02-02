@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2007/05/15/a-bomb-attack-on-a-hotel-in-peshawar-pakistan-kills-at-least-24-people.html)  [JSON](/news/2007/05/15/a-bomb-attack-on-a-hotel-in-peshawar-pakistan-kills-at-least-24-people.json)  [XML](/news/2007/05/15/a-bomb-attack-on-a-hotel-in-peshawar-pakistan-kills-at-least-24-people.xml)  
+
 ### [2007-05-15](/news/2007/05/15/index.md)
 
+##### Peshawar
 #  A bomb attack on a hotel in Peshawar, Pakistan, kills at least 24 people. 
 
 A bomb killed 24 people in northwest Pakistan on Tuesday, while in the capital opposition politicians walked out of parliament, forcing the house to postpone a debate on weekend violence in Karachi.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6656933.stm)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSSP22983520070515)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070515&t=2&i=799206&w=&fh=545px&fw=&ll=&pl=&sq=&r=799206)
+2. [Reuters](https://www.reuters.com/article/worldNews/idUSSP22983520070515)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20070515&t=2&i=799206&w=&fh=545px&fw=&ll=&pl=&sq=&r=799206)
 
 ### Related:
 

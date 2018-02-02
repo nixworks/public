@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/12/24/russia-declares-a-state-of-emergency-after-oil-from-a-russian-oil-pipeline-spills-into-the-black-sea-near-the-port-of-tuapse.html)  [JSON](/news/2014/12/24/russia-declares-a-state-of-emergency-after-oil-from-a-russian-oil-pipeline-spills-into-the-black-sea-near-the-port-of-tuapse.json)  [XML](/news/2014/12/24/russia-declares-a-state-of-emergency-after-oil-from-a-russian-oil-pipeline-spills-into-the-black-sea-near-the-port-of-tuapse.xml)  
+
 ### [2014-12-24](/news/2014/12/24/index.md)
 
+##### Black Sea
 # Russia declares a state of emergency after oil from a Russian oil pipeline spills into the Black Sea near the port of Tuapse. 
 
 A leak on a major Russian oil pipeline caused a spill in the Black Sea near the port of Tuapse on Wednesday where officials said stormy weather was hampering efforts to assess and respond to the mishap.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/12/24/us-russia-oil-spill-idUSKBN0K20ND20141224)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/12/24/us-russia-oil-spill-idUSKBN0K20ND20141224)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

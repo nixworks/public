@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/11/voters-in-uttar-pradesh-cast-ballots-in-phase-1
 
 ### [2017-02-11](/news/2017/02/11/index.md)
 
+##### Uttar Pradesh Legislative Assembly election
 # Voters in Uttar Pradesh cast ballots in Phase 1 of the state's 2017 elections, with Phase 7, the final poll, to be held on 8 March. This will be an important test of India's November policy change that removed 86 percent of the cash then in circulation. 
 
  More than 13 million Indians voted in the first stage of state assembly elections on Saturday, the biggest electoral test for Prime Minister Narendra Modi sinc

@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2013/03/25/rebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.html)  [JSON](/news/2013/03/25/rebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.json)  [XML](/news/2013/03/25/rebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.xml)  
+
 ### [2013-03-25](/news/2013/03/25/index.md)
 
+##### Free Syrian Army
 # Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. 
 
 Officials say National Coalition will represent Syria in upcoming pan-Arab summit, as regional leaders arrive in Doha.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2013/03/2013325105453834.html)
 2. [CNN](http://www.cnn.com/2013/03/25/world/meast/syria-civil-war/)
 2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/22/20121221820501734_20.jpg)
+
+### Changes:
+
+1. [Syrian civil war:Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/syrian-civil-war-prebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md) _2017-08-25 03:38:00 (First version)_
+2. [Syrian civil war:: Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/syrian-civil-war-rebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md) _2017-08-27 03:38:12 (Update)_
+2. [Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/rebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ Officials say National Coalition will represent Syria in upcoming pan-Arab summi
 3. [Syrian rebels and Turkish troops enter al-Bab, with Syrian troops also approaching the town, prompting heavy clashes with ISIL militants. ](/news/2017/02/11/syrian-rebels-and-turkish-troops-enter-al-bab-with-syrian-troops-also-approaching-the-town-prompting-heavy-clashes-with-isil-militants.md) _Context: Free Syrian Army_
 4. [Russian president Vladimir Putin says a ceasefire has been brokered between the Syrian government and rebel forces. The ceasefire is said to be guaranteed by Russia and Turkey and would exclude UN-denominated terror organizations such as ISIL and al-Nusra. The FSA says it would abide by the truce, while Ahrar al-Sham expresses "reservations". ](/news/2016/12/29/russian-president-vladimir-putin-says-a-ceasefire-has-been-brokered-between-the-syrian-government-and-rebel-forces-the-ceasefire-is-said-to.md) _Context: Free Syrian Army_
 5. [Turkish-backed Free Syrian Army rebels seize control of the symbolic town of Dabiq, Aleppo Governorate, following clashes with ISIL militants. ](/news/2016/10/16/turkish-backed-free-syrian-army-rebels-seize-control-of-the-symbolic-town-of-dabiq-aleppo-governorate-following-clashes-with-isil-militant.md) _Context: Free Syrian Army_
-
-### Changes:
-
-1. [Syrian civil war:Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/syrian-civil-war-prebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md) _2017-08-25 03:38:00 (First version)_
-2. [Syrian civil war:: Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/syrian-civil-war-rebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md) _2017-08-27 03:38:12 (Update)_
-2. [Rebel Free Syrian Army chief Colonel Riad al-Asaad is injured after a blast targets his car. ](/news/2013/03/25/rebel-free-syrian-army-chief-colonel-riad-al-asaad-is-injured-after-a-blast-targets-his-car.md) _(Current version)_

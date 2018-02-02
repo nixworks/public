@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/29/baiji-a-river-dolphin-recently-declared-functional-extinct-is-witnessed-in-anhui-china.html)  [JSON](/news/2007/08/29/baiji-a-river-dolphin-recently-declared-functional-extinct-is-witnessed-in-anhui-china.json)  [XML](/news/2007/08/29/baiji-a-river-dolphin-recently-declared-functional-extinct-is-witnessed-in-anhui-china.xml)  
+
 ### [2007-08-29](/news/2007/08/29/index.md)
 
+##### Baiji
 #  Baiji, a river dolphin recently declared functional extinct, is witnessed in Anhui, China. 
 
 Experts say a large white animal swimming in the Yangtze River is a member of a dolphin species unique to China and feared extinct.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/08/30/world/asia/30china.html)
+1. [New York Times](https://www.nytimes.com/2007/08/30/world/asia/30china.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/23/former-president-of-sri-lanka-chandrika-kumaratunga-criticises-the-current-government-for-completely-forgetting-the-legacy-of-sirimavo-ban.html)  [JSON](/news/2010/07/23/former-president-of-sri-lanka-chandrika-kumaratunga-criticises-the-current-government-for-completely-forgetting-the-legacy-of-sirimavo-ban.json)  [XML](/news/2010/07/23/former-president-of-sri-lanka-chandrika-kumaratunga-criticises-the-current-government-for-completely-forgetting-the-legacy-of-sirimavo-ban.xml)  
+
 ### [2010-07-23](/news/2010/07/23/index.md)
 
+##### President of Sri Lanka
 # Former President of Sri Lanka Chandrika Kumaratunga criticises the current government for "completely forgetting the legacy" of Sirimavo Bandaranaike, the first female prime minister on earth. 
 
 Former Sri Lankan President Chandrika Kumaratunga launches an outspoken attack against the government.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10745424)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

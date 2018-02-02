@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/8/the-minister-of-state-for-farming-and-the-environment-jane-kennedy-announces-her-resignation-from-the-government-of-the-united-kingdom.html)  [JSON](/news/2009/06/8/the-minister-of-state-for-farming-and-the-environment-jane-kennedy-announces-her-resignation-from-the-government-of-the-united-kingdom.json)  [XML](/news/2009/06/8/the-minister-of-state-for-farming-and-the-environment-jane-kennedy-announces-her-resignation-from-the-government-of-the-united-kingdom.xml)  
+
 ### [2009-06-8](/news/2009/06/8/index.md)
 
+##### Department for Environment
 #  The Minister of State for Farming and the Environment, Jane Kennedy, announces her resignation from the Government of the United Kingdom. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/8088862.stm)
 

@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2008/07/24/max-mosley-head-of-the-fa-c-da-c-ration-internationale-de-l-automobile-wins-his-privacy-case-against-the-news-of-the-world-after-the-paper.html)  [JSON](/news/2008/07/24/max-mosley-head-of-the-fa-c-da-c-ration-internationale-de-l-automobile-wins-his-privacy-case-against-the-news-of-the-world-after-the-paper.json)  [XML](/news/2008/07/24/max-mosley-head-of-the-fa-c-da-c-ration-internationale-de-l-automobile-wins-his-privacy-case-against-the-news-of-the-world-after-the-paper.xml)  
+
 ### [2008-07-24](/news/2008/07/24/index.md)
 
+##### Max Mosley
 #  Max Mosley, head of the Federation Internationale de l'Automobile, wins his privacy case against the "News of the World", after the paper alleged he took part in a Nazi-themed BDSM orgy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/uk/7523034.stm)
 2. [The Guardian](http://www.guardian.co.uk/media/2008/jul/24/privacy.newsoftheworld2)
+
+### Changes:
+
+1. [ Max Mosley, head of the Federation Internationale de l'Automobile, wins his privacy case against the ''News of the World'', after the paper alleged he took part in a Nazi-themed BDSM orgy. ](/news/2008/07/24/max-mosley-head-of-the-fa-c-da-c-ration-internationale-de-l-automobile-wins-his-privacy-case-against-the-news-of-the-world-after-the-pap.md) _2017-08-25 03:22:36 (First version)_
+1. [ Max Mosley, head of the Federation Internationale de l'Automobile, wins his privacy case against the "News of the World", after the paper alleged he took part in a Nazi-themed BDSM orgy. ](/news/2008/07/24/max-mosley-head-of-the-fa-c-da-c-ration-internationale-de-l-automobile-wins-his-privacy-case-against-the-news-of-the-world-after-the-paper.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [A prosecutor alleges in a London court that the Duke and Duchess of Cambridge's phones were hacked by the now-defunct "News of the World". ](/news/2013/12/19/a-prosecutor-alleges-in-a-london-court-that-the-duke-and-duchess-of-cambridge-s-phones-were-hacked-by-the-now-defunct-news-of-the-world.md) _Context: News of the World_
 4. [Metropolitan Police detective April Casburn, who tried to sell information to the "News of the World", regarding the investigation into phone hacking scandal, is jailed for 15 months. ](/news/2013/02/1/metropolitan-police-detective-april-casburn-who-tried-to-sell-information-to-the-news-of-the-world-regarding-the-investigation-into-phon.md) _Context: News of the World_
 5. [April Casburn, a senior detective with the Metropolitan Police is found guilty of trying to sell information on the investigation into phone hacking to the "News of the World", the newspaper at the centre of the scandal. ](/news/2013/01/10/april-casburn-a-senior-detective-with-the-metropolitan-police-is-found-guilty-of-trying-to-sell-information-on-the-investigation-into-phone.md) _Context: News of the World_
-
-### Changes:
-
-1. [ Max Mosley, head of the Federation Internationale de l'Automobile, wins his privacy case against the ''News of the World'', after the paper alleged he took part in a Nazi-themed BDSM orgy. ](/news/2008/07/24/max-mosley-head-of-the-fa-c-da-c-ration-internationale-de-l-automobile-wins-his-privacy-case-against-the-news-of-the-world-after-the-pap.md) _2017-08-25 03:22:36 (First version)_
-1. [ Max Mosley, head of the Federation Internationale de l'Automobile, wins his privacy case against the "News of the World", after the paper alleged he took part in a Nazi-themed BDSM orgy. ](/news/2008/07/24/max-mosley-head-of-the-fa-c-da-c-ration-internationale-de-l-automobile-wins-his-privacy-case-against-the-news-of-the-world-after-the-paper.md) _(Current version)_

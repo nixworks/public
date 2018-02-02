@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/23/robert-mugabe-calls-war-veterans-who-are-callin
 
 ### [2016-07-23](/news/2016/07/23/index.md)
 
+##### 2016 Zimbabwe protests
 # Robert Mugabe calls war veterans, who are calling for him to resign, traitors. 
 
 

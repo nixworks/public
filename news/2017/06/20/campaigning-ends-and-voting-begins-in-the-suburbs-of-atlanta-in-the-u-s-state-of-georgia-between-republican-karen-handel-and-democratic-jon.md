@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-subur
 
 ### [2017-06-20](/news/2017/06/20/index.md)
 
+##### Georgia's 6th congressional district special election, 2017
 # Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia between Republican Karen Handel and Democratic Jon Ossoff, where Republican Handel wins the election by a narrow margin. 
 
 Results for the special election between Jon Ossoff, a Democrat, and Karen Handel, a Republican.

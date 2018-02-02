@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/29/iranian-nuclear-scientist-majid-shahriari-is-killed-and-his-wife-injured-while-another-scientist-is-wounded-during-two-attacks-in-tehran-i.html)  [JSON](/news/2010/11/29/iranian-nuclear-scientist-majid-shahriari-is-killed-and-his-wife-injured-while-another-scientist-is-wounded-during-two-attacks-in-tehran-i.json)  [XML](/news/2010/11/29/iranian-nuclear-scientist-majid-shahriari-is-killed-and-his-wife-injured-while-another-scientist-is-wounded-during-two-attacks-in-tehran-i.xml)  
+
 ### [2010-11-29](/news/2010/11/29/index.md)
 
+##### Iran
 # Iranian nuclear scientist Majid Shahriari is killed and his wife injured, while another scientist is wounded during two attacks in Tehran. Iran says Western governments and Israel may have carried out the killing. 
 
 An Iranian nuclear scientist is killed and another wounded in separate but similar bomb attacks carried out by motorbike drivers in Tehran.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/11/20101129131235776706.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11860928)

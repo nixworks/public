@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/15/united-states-president-barack-obama-hosts-a-tw
 
 ### [2016-02-15](/news/2016/02/15/index.md)
 
+##### ASEAN Summit
 # United States President Barack Obama hosts a two-day summit in Rancho Mirage, California with leaders of the ASEAN member states, including democratically-elected Benigno Aquino III of the Philippines and Joko Widodo of Indonesia as well as autocratic rulers such as Hun Sen of Cambodia and Najib Razak of Malaysia. 
 
 President Obama on Monday will kick off a two-day summit with 10 Southeast Asian leaders at Sunnylands in Rancho Mirage, the first-ever such meeting on U.S. soil.

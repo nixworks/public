@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/22/as-many-as-80-inmates-take-over-a-section-of-hm
 
 ### [2016-12-22](/news/2016/12/22/index.md)
 
+##### HM Prison Swaleside
 # As many as 80 inmates take over a section of HM Prison Swaleside on the Isle of Sheppey, Kent. 
 
 Specialist teams are sent into a prison in Kent, after 60 inmates take control of part of a wing.

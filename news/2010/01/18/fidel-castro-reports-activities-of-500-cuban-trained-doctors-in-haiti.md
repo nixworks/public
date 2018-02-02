@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/18/fidel-castro-reports-activities-of-500-cuban-trained-doctors-in-haiti.html)  [JSON](/news/2010/01/18/fidel-castro-reports-activities-of-500-cuban-trained-doctors-in-haiti.json)  [XML](/news/2010/01/18/fidel-castro-reports-activities-of-500-cuban-trained-doctors-in-haiti.xml)  
+
 ### [2010-01-18](/news/2010/01/18/index.md)
 
+##### Fidel Castro
 # Fidel Castro reports activities of 500 Cuban-trained doctors in Haiti. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Granma](http://www.granma.cu/ingles/2010/enero/lun18/Reflections-16enero.html)
 

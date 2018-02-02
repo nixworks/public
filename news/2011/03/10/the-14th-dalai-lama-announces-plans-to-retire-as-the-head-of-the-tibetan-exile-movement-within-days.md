@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/10/the-14th-dalai-lama-announces-plans-to-retire-as-the-head-of-the-tibetan-exile-movement-within-days.html)  [JSON](/news/2011/03/10/the-14th-dalai-lama-announces-plans-to-retire-as-the-head-of-the-tibetan-exile-movement-within-days.json)  [XML](/news/2011/03/10/the-14th-dalai-lama-announces-plans-to-retire-as-the-head-of-the-tibetan-exile-movement-within-days.xml)  
+
 ### [2011-03-10](/news/2011/03/10/index.md)
 
+##### 14th Dalai Lama
 # The 14th Dalai Lama announces plans to retire as the head of the Tibetan exile movement within days. 
 
 The 14th Dalai Lama on Thursday decided to give up his political role and shift all temporal power to the prime minister elected by the Tibetan community in exile.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/03/09/india.dalai.lama/index.html#)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/mar/10/dalai-lama-retires-from-political-life-tibet)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/14/a-pro-palestinian-activist-vittorio-arrigoni-is-kidnapped-in-the-gaza-strip-by-an-islamic-salafite-group-with-threats-to-execute-him-within.html)  [JSON](/news/2011/04/14/a-pro-palestinian-activist-vittorio-arrigoni-is-kidnapped-in-the-gaza-strip-by-an-islamic-salafite-group-with-threats-to-execute-him-within.json)  [XML](/news/2011/04/14/a-pro-palestinian-activist-vittorio-arrigoni-is-kidnapped-in-the-gaza-strip-by-an-islamic-salafite-group-with-threats-to-execute-him-within.xml)  
+
 ### [2011-04-14](/news/2011/04/14/index.md)
 
+##### Palestinian
 # A pro-Palestinian activist Vittorio Arrigoni is kidnapped in the Gaza Strip by an Islamic Salafite group with threats to execute him within hours. 
 
 An Italian pro-Palestinian activist is found dead in the Gaza Strip hours after being abducted, local security officials say.
 
 
-### Source:
+### Sources:
 
 1. [Antara](http://www.antaranews.com/en/news/1302823183/gaza-group-threatens-to-execute-abducted-italian)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13088630)

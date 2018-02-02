@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/15/a-federal-district-judge-for-eastern-pennsylvan
 
 ### [2017-12-15](/news/2017/12/15/index.md)
 
+##### Obamacare replacement proposals
 # A Federal District Judge for Eastern Pennsylvania temporarily enjoins the Trump administration from implementing new rules that change the Obamacare contraceptive mandate. California, Delaware, Maryland, Massachusetts, New York, Virginia and Washington have also sued the federal government over the rules. 
 
 

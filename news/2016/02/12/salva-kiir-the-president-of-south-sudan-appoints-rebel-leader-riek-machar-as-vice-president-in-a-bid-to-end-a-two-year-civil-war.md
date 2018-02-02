@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/12/salva-kiir-the-president-of-south-sudan-appoint
 
 ### [2016-02-12](/news/2016/02/12/index.md)
 
+##### South Sudanese Civil War
 # Salva Kiir, the President of South Sudan, appoints rebel leader Riek Machar as Vice President in a bid to end a two year civil war. 
 
 South Sudanese President Salva Kiir reappointed rebel leader Riek Machar as his deputy, a key step in a deal to end a two-year civil war that’s killed tens of thousands of people in the oil-producing nation.

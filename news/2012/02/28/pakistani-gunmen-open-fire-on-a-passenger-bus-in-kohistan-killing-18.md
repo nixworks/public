@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/02/28/pakistani-gunmen-open-fire-on-a-passenger-bus-in-kohistan-killing-18.html)  [JSON](/news/2012/02/28/pakistani-gunmen-open-fire-on-a-passenger-bus-in-kohistan-killing-18.json)  [XML](/news/2012/02/28/pakistani-gunmen-open-fire-on-a-passenger-bus-in-kohistan-killing-18.xml)  
+
 ### [2012-02-28](/news/2012/02/28/index.md)
 
+##### Pakistani
 # Pakistani gunmen open fire on a passenger bus in Kohistan, killing 18. 
 
 Gunmen opened fire on a passenger bus in the northern Pakistani district of Kohistan in an apparent sectarian attack on Tuesday, killing 18 people, police officials said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/28/us-pakistan-violence-idUSTRE81R0AI20120228)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/02/28/us-pakistan-violence-idUSTRE81R0AI20120228)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

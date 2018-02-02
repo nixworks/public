@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/8/the-government-of-burma-apologises-to-buddhist-monks-injured-in-a-protest-outside-a-copper-mine-last-month.html)  [JSON](/news/2012/12/8/the-government-of-burma-apologises-to-buddhist-monks-injured-in-a-protest-outside-a-copper-mine-last-month.json)  [XML](/news/2012/12/8/the-government-of-burma-apologises-to-buddhist-monks-injured-in-a-protest-outside-a-copper-mine-last-month.xml)  
+
 ### [2012-12-8](/news/2012/12/8/index.md)
 
+##### Burma
 # The Government of Burma apologises to Buddhist monks injured in a protest outside a copper mine last month. 
 
 The Burmese government apologises to Buddhist monks for the injuries caused during a police operation at a copper mine.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20650576)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64645000/jpg/_64645422_64645421.jpg)

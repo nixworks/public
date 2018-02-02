@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/17/taiwanese-premier-frank-hsieh-announces-his-resignation-following-the-defeat-of-the-democratic-progressive-party-in-recent-elections.html)  [JSON](/news/2006/01/17/taiwanese-premier-frank-hsieh-announces-his-resignation-following-the-defeat-of-the-democratic-progressive-party-in-recent-elections.json)  [XML](/news/2006/01/17/taiwanese-premier-frank-hsieh-announces-his-resignation-following-the-defeat-of-the-democratic-progressive-party-in-recent-elections.xml)  
+
 ### [2006-01-17](/news/2006/01/17/index.md)
 
+##### Premier
 #  Taiwanese Premier Frank Hsieh announces his resignation following the defeat of the Democratic Progressive Party in recent elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4619216.stm)
 

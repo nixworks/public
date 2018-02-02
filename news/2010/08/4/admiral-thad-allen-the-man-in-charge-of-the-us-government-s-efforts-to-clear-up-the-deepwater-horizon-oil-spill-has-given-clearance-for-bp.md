@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/08/4/admiral-thad-allen-the-man-in-charge-of-the-us-government-s-efforts-to-clear-up-the-deepwater-horizon-oil-spill-has-given-clearance-for-bp.html)  [JSON](/news/2010/08/4/admiral-thad-allen-the-man-in-charge-of-the-us-government-s-efforts-to-clear-up-the-deepwater-horizon-oil-spill-has-given-clearance-for-bp.json)  [XML](/news/2010/08/4/admiral-thad-allen-the-man-in-charge-of-the-us-government-s-efforts-to-clear-up-the-deepwater-horizon-oil-spill-has-given-clearance-for-bp.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### Admiral
 # Admiral Thad Allen, the man in charge of the US Government's efforts to clear up the Deepwater Horizon oil spill, has given clearance for BP to pour cement into its Gulf of Mexico oil well. 
 
 BP Plc (BP.L) (BP.N) can pumpcement into its blown-out Gulf of Mexico oil well to beginsealing the leak for good, the U.S. official in charge of thespill said on Wednesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSN0410858220100805)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSN0410858220100805)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

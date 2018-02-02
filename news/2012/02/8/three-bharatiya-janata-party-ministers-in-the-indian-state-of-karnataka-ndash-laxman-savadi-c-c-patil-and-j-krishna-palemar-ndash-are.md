@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/8/three-bharatiya-janata-party-ministers-in-the-indian-state-of-karnataka-ndash-laxman-savadi-c-c-patil-and-j-krishna-palemar-ndash-are.html)  [JSON](/news/2012/02/8/three-bharatiya-janata-party-ministers-in-the-indian-state-of-karnataka-ndash-laxman-savadi-c-c-patil-and-j-krishna-palemar-ndash-are.json)  [XML](/news/2012/02/8/three-bharatiya-janata-party-ministers-in-the-indian-state-of-karnataka-ndash-laxman-savadi-c-c-patil-and-j-krishna-palemar-ndash-are.xml)  
+
 ### [2012-02-8](/news/2012/02/8/index.md)
 
+##### Bharatiya Janata Party
 # Three Bharatiya Janata Party Ministers in the Indian state of Karnataka &ndash; Laxman Savadi, C C Patil and J. Krishna Palemar &ndash; are forced to resign after footage is shown of them watching a pornographic video in the Legislative Assembly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2012/02/08/karnataka-porn-scandal-ministers-idINDEE81708720120208?feedType=RSS&feedName=southAsiaNews&dlvrit=70621)
 1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120208&t=2&i=568162658&w=&fh=545px&fw=&ll=&pl=&sq=&r=CDEE8170PWU00)

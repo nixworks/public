@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/22/liberal-democratic-party-japan-leadership-election-2008-japan-s-ruling-liberal-democratic-party-chooses-former-foreign-minister-of-japa.html)  [JSON](/news/2008/09/22/liberal-democratic-party-japan-leadership-election-2008-japan-s-ruling-liberal-democratic-party-chooses-former-foreign-minister-of-japa.json)  [XML](/news/2008/09/22/liberal-democratic-party-japan-leadership-election-2008-japan-s-ruling-liberal-democratic-party-chooses-former-foreign-minister-of-japa.xml)  
+
 ### [2008-09-22](/news/2008/09/22/index.md)
 
+##### Liberal Democratic Party (Japan) leadership election, 2008
 #  Liberal Democratic Party (Japan) leadership election, 2008: Japan's ruling Liberal Democratic Party chooses former Foreign Minister of Japan Taro Aso as the next Prime Minister of Japan replacing Yasuo Fukuda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.f211f178f3200b11cc14baa44acfe7bf.271.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/16/the-british-computer-hacker-gary-mckinnon-wins-his-ten-year-legal-battle-to-avoid-extradition-to-the-united-states-after-home-secretary-ther.html)  [JSON](/news/2012/10/16/the-british-computer-hacker-gary-mckinnon-wins-his-ten-year-legal-battle-to-avoid-extradition-to-the-united-states-after-home-secretary-ther.json)  [XML](/news/2012/10/16/the-british-computer-hacker-gary-mckinnon-wins-his-ten-year-legal-battle-to-avoid-extradition-to-the-united-states-after-home-secretary-ther.xml)  
+
 ### [2012-10-16](/news/2012/10/16/index.md)
 
+##### Gary McKinnon
 # The British computer hacker Gary McKinnon wins his ten-year legal battle to avoid extradition to the United States after Home Secretary Theresa May tells the House of Commons she has blocked the order. 
 
 The mother of British computer hacker Gary McKinnon says she is &quot;overwhelmed&quot; after the UK blocked his extradition to the US, ending a 10-year ordeal.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19968973)
 2. [Sky News](http://news.sky.com/story/998312/gary-mckinnon-may-blocks-extradition-to-us)

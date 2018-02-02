@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/30/demonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-continue.html)  [JSON](/news/2011/01/30/demonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-continue.json)  [XML](/news/2011/01/30/demonstrations-against-the-government-in-which-more-than-150-people-have-been-killed-and-over-4-000-injured-continue.xml)  
+
 ### [2011-01-30](/news/2011/01/30/index.md)
 
+##### 
 # Demonstrations against the government, in which more than 150 people have been killed and over 4,000 injured, continue. 
 
 Al Jazeera English is available free-to-air through satellite and cable providers around the world.
 
 
-### Source:
+### Sources:
 
 1. [ABS-CBN News](http://www.abs-cbnnews.com/global-filipino/01/30/11/travel-advisory-out-dfa-allocates-funds-pinoys-egypt)
 2. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5g2iBEen-viF5qaFwrf-E1ay8JByA)
@@ -36,8 +40,8 @@ Al Jazeera English is available free-to-air through satellite and cable provider
 27. [Reuters Africa](http://af.reuters.com/article/egyptMarketNews/idAFLDE70T06S20110130)
 28. [Reuters via ''Arab News](http://arabnews.com/middleeast/article246590.ece)
 29. [Reuters via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0130/breaking2.html)
-30. [Reuters](http://www.reuters.com/article/2011/01/30/us-egypt-usa-elbaradei-idUSTRE70T30920110130?feedType=RSS&feedName=topNews)
-31. [Reuters](http://www.reuters.com/article/2011/01/30/us-egypt-warplanes-idUSTRE70T1IA20110130)
+30. [Reuters](https://www.reuters.com/article/2011/01/30/us-egypt-usa-elbaradei-idUSTRE70T30920110130?feedType=RSS&feedName=topNews)
+31. [Reuters](https://www.reuters.com/article/2011/01/30/us-egypt-warplanes-idUSTRE70T1IA20110130)
 32. [Sify](http://www.sify.com/news/unrest-swells-in-egypt-as-cornered-government-bans-al-jazeera-news-international-lb4skhidgdb.html)
 33. [Sky News](http://news.sky.com/skynews/Home/World-News/Egypt-Protesters-Gather-In-Cairo-After-Mass-Jailbreaks---President-Hosni-Mubarak-Refusing-To-Quit/Article/201003415918759?lpos=World_News_Top_Stories_Header_0&lid=ARTICLE_15918759_Egypt%3A_Protesters_Gather_In_Cairo_After_Mass_Jailbreaks_-_President_Hosni_Mubarak_Refusing_To_Quit)
 34. [Sofia Echo](http://www.sofiaecho.com/2011/01/30/1034006_bulgarian-foreign-minister-speaks-on-egypt-crisis)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/05/15/smarty-jones-wins-the-preakness-stakes-by-12-lengths.html)  [JSON](/news/2004/05/15/smarty-jones-wins-the-preakness-stakes-by-12-lengths.json)  [XML](/news/2004/05/15/smarty-jones-wins-the-preakness-stakes-by-12-lengths.xml)  
+
 ### [2004-05-15](/news/2004/05/15/index.md)
 
+##### Smarty Jones
 #  Smarty Jones wins the Preakness Stakes by 12 lengths. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://sports.yahoo.com/rah/news;_ylc=X3oDMTBpbmdmam0wBF9TAzI1NjY0ODI1BHNlYwN0bQ--?slug=ap-preakness&prov=ap&type=lgns)
+1. [AP](https://sports.yahoo.com/rah/news;_ylc=X3oDMTBpbmdmam0wBF9TAzI1NjY0ODI1BHNlYwN0bQ--?slug=ap-preakness&prov=ap&type=lgns)
 
 ### Related:
 

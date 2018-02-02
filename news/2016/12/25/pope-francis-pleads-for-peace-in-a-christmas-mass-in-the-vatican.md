@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/25/pope-francis-pleads-for-peace-in-a-christmas-ma
 
 ### [2016-12-25](/news/2016/12/25/index.md)
 
+##### Pope Francis
 # Pope Francis pleads for peace in a Christmas Mass in the Vatican. 
 
 

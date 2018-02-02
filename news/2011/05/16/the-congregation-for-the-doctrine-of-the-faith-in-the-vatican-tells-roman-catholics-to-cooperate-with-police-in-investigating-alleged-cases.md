@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/16/the-congregation-for-the-doctrine-of-the-faith-in-the-vatican-tells-roman-catholics-to-cooperate-with-police-in-investigating-alleged-cases.html)  [JSON](/news/2011/05/16/the-congregation-for-the-doctrine-of-the-faith-in-the-vatican-tells-roman-catholics-to-cooperate-with-police-in-investigating-alleged-cases.json)  [XML](/news/2011/05/16/the-congregation-for-the-doctrine-of-the-faith-in-the-vatican-tells-roman-catholics-to-cooperate-with-police-in-investigating-alleged-cases.xml)  
+
 ### [2011-05-16](/news/2011/05/16/index.md)
 
+##### Congregation for the Doctrine of the Faith
 # The Congregation for the Doctrine of the Faith in the Vatican tells Roman Catholics to cooperate with police in investigating alleged cases of sexual abuse by clergy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_VATICAN_CHURCH_ABUSE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-05-16-06-05-41)
 

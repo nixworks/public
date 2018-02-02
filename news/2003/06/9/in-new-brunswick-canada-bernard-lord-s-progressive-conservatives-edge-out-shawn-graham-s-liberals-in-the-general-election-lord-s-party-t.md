@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/9/in-new-brunswick-canada-bernard-lord-s-progressive-conservatives-edge-out-shawn-graham-s-liberals-in-the-general-election-lord-s-party-t.html)  [JSON](/news/2003/06/9/in-new-brunswick-canada-bernard-lord-s-progressive-conservatives-edge-out-shawn-graham-s-liberals-in-the-general-election-lord-s-party-t.json)  [XML](/news/2003/06/9/in-new-brunswick-canada-bernard-lord-s-progressive-conservatives-edge-out-shawn-graham-s-liberals-in-the-general-election-lord-s-party-t.xml)  
+
 ### [2003-06-9](/news/2003/06/9/index.md)
 
+##### New Brunswick
 #  In New Brunswick, Canada, Bernard Lord's Progressive Conservatives edge out Shawn Graham's Liberals in the general election. Lord's party takes 28 seats, Graham's 26 and the New Democratic Party takes 1.
 
 

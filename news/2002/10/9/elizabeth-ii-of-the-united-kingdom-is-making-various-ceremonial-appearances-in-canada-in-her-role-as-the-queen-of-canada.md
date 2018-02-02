@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/9/elizabeth-ii-of-the-united-kingdom-is-making-various-ceremonial-appearances-in-canada-in-her-role-as-the-queen-of-canada.html)  [JSON](/news/2002/10/9/elizabeth-ii-of-the-united-kingdom-is-making-various-ceremonial-appearances-in-canada-in-her-role-as-the-queen-of-canada.json)  [XML](/news/2002/10/9/elizabeth-ii-of-the-united-kingdom-is-making-various-ceremonial-appearances-in-canada-in-her-role-as-the-queen-of-canada.xml)  
+
 ### [2002-10-9](/news/2002/10/9/index.md)
 
+##### Queen Elizabeth
 #  Elizabeth II of the United Kingdom is making various ceremonial appearances in Canada in her role as the Queen of Canada. 
 
 

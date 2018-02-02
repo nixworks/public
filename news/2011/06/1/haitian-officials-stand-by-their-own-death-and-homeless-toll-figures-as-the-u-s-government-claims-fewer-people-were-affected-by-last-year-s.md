@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/1/haitian-officials-stand-by-their-own-death-and-homeless-toll-figures-as-the-u-s-government-claims-fewer-people-were-affected-by-last-year-s.html)  [JSON](/news/2011/06/1/haitian-officials-stand-by-their-own-death-and-homeless-toll-figures-as-the-u-s-government-claims-fewer-people-were-affected-by-last-year-s.json)  [XML](/news/2011/06/1/haitian-officials-stand-by-their-own-death-and-homeless-toll-figures-as-the-u-s-government-claims-fewer-people-were-affected-by-last-year-s.xml)  
+
 ### [2011-06-1](/news/2011/06/1/index.md)
 
+##### 2010 Haiti earthquake
 # Haitian officials stand by their own death and homeless toll figures as the U.S. government claims fewer people were affected by last year's earthquake than previously believed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13606720)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53083000/jpg/_53083535_53083534.jpg)

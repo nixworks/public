@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/27/the-new-season-of-the-parliament-of-iran-is-opened.html)  [JSON](/news/2012/05/27/the-new-season-of-the-parliament-of-iran-is-opened.json)  [XML](/news/2012/05/27/the-new-season-of-the-parliament-of-iran-is-opened.xml)  
+
 ### [2012-05-27](/news/2012/05/27/index.md)
 
+##### MPs
 # The new season of the Parliament of Iran is opened. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail/2012/05/27/243287/9th-majlis-irans-message-to-world/)
 

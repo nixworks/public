@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/18/rwanda-and-burundi-join-the-east-african-community-in-a-meeting-in-kampala-uganda.html)  [JSON](/news/2007/06/18/rwanda-and-burundi-join-the-east-african-community-in-a-meeting-in-kampala-uganda.json)  [XML](/news/2007/06/18/rwanda-and-burundi-join-the-east-african-community-in-a-meeting-in-kampala-uganda.xml)  
+
 ### [2007-06-18](/news/2007/06/18/index.md)
 
+##### Rwanda
 #  Rwanda and Burundi join the East African Community in a meeting in Kampala, Uganda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6762615.stm)
 

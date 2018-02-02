@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/14/thousands-of-cheering-supporters-greet-burmese-democracy-leader-aung-san-suu-kyi-outside-the-headquarters-of-the-national-league-for-democra.html)  [JSON](/news/2010/11/14/thousands-of-cheering-supporters-greet-burmese-democracy-leader-aung-san-suu-kyi-outside-the-headquarters-of-the-national-league-for-democra.json)  [XML](/news/2010/11/14/thousands-of-cheering-supporters-greet-burmese-democracy-leader-aung-san-suu-kyi-outside-the-headquarters-of-the-national-league-for-democra.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### Burma
 # Thousands of cheering supporters greet Burmese democracy leader Aung San Suu Kyi outside the headquarters of the National League for Democracy in Yangon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Star](http://thestar.com.my/news/story.asp?file=/2010/11/14/apworld/20101114140804&sec=apworld)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11752047)

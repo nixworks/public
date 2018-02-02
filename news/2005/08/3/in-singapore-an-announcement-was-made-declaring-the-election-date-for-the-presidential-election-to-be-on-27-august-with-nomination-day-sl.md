@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/3/in-singapore-an-announcement-was-made-declaring-the-election-date-for-the-presidential-election-to-be-on-27-august-with-nomination-day-sl.html)  [JSON](/news/2005/08/3/in-singapore-an-announcement-was-made-declaring-the-election-date-for-the-presidential-election-to-be-on-27-august-with-nomination-day-sl.json)  [XML](/news/2005/08/3/in-singapore-an-announcement-was-made-declaring-the-election-date-for-the-presidential-election-to-be-on-27-august-with-nomination-day-sl.xml)  
+
 ### [2005-08-3](/news/2005/08/3/index.md)
 
+##### Singapore
 #  In Singapore, an announcement was made declaring the election date for the presidential election to be on 27 August, with nomination day slated for 17 August. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/161332/1/.html)
 

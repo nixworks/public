@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/12/two-british-teenagers-are-arrested-at-the-kotoka-international-airport-in-accra-ghana-for-attempting-to-smuggle-6-5-kg-of-cocaine-worth-a.html)  [JSON](/news/2007/07/12/two-british-teenagers-are-arrested-at-the-kotoka-international-airport-in-accra-ghana-for-attempting-to-smuggle-6-5-kg-of-cocaine-worth-a.json)  [XML](/news/2007/07/12/two-british-teenagers-are-arrested-at-the-kotoka-international-airport-in-accra-ghana-for-attempting-to-smuggle-6-5-kg-of-cocaine-worth-a.xml)  
+
 ### [2007-07-12](/news/2007/07/12/index.md)
 
+##### British
 #  Two British teenagers are arrested at the Kotoka International Airport in Accra, Ghana, for attempting to smuggle 6.5 kg of cocaine worth GBP300,000 to the UK.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/6896435.stm)
 

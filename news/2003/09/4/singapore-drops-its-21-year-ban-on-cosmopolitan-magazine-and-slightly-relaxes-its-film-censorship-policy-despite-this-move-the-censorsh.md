@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/4/singapore-drops-its-21-year-ban-on-cosmopolitan-magazine-and-slightly-relaxes-its-film-censorship-policy-despite-this-move-the-censorsh.html)  [JSON](/news/2003/09/4/singapore-drops-its-21-year-ban-on-cosmopolitan-magazine-and-slightly-relaxes-its-film-censorship-policy-despite-this-move-the-censorsh.json)  [XML](/news/2003/09/4/singapore-drops-its-21-year-ban-on-cosmopolitan-magazine-and-slightly-relaxes-its-film-censorship-policy-despite-this-move-the-censorsh.xml)  
+
 ### [2003-09-4](/news/2003/09/4/index.md)
 
+##### Singapore
 #  Singapore drops its 21-year ban on "Cosmopolitan" magazine and slightly relaxes its film censorship policy. Despite this move, the censorship board's surveyors found the Singaporean public largely does not want the country's tough censorship rules liberalized.
 
 

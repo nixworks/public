@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/2/chinese-vice-premier-li-keqiang-travels-to-budapest-and-holds-talks-with-hungarian-prime-minister-viktor-orba-n.html)  [JSON](/news/2012/05/2/chinese-vice-premier-li-keqiang-travels-to-budapest-and-holds-talks-with-hungarian-prime-minister-viktor-orba-n.json)  [XML](/news/2012/05/2/chinese-vice-premier-li-keqiang-travels-to-budapest-and-holds-talks-with-hungarian-prime-minister-viktor-orba-n.xml)  
+
 ### [2012-05-2](/news/2012/05/2/index.md)
 
+##### Li Keqiang
 # Chinese Vice-Premier Li Keqiang travels to Budapest and holds talks with Hungarian Prime Minister Viktor Orban. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://usa.chinadaily.com.cn/china/2012-05/02/content_15183722.htm)
 

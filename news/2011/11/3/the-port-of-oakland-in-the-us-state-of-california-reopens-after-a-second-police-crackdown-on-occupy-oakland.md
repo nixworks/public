@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/11/3/the-port-of-oakland-in-the-us-state-of-california-reopens-after-a-second-police-crackdown-on-occupy-oakland.html)  [JSON](/news/2011/11/3/the-port-of-oakland-in-the-us-state-of-california-reopens-after-a-second-police-crackdown-on-occupy-oakland.json)  [XML](/news/2011/11/3/the-port-of-oakland-in-the-us-state-of-california-reopens-after-a-second-police-crackdown-on-occupy-oakland.xml)  
+
 ### [2011-11-3](/news/2011/11/3/index.md)
 
+##### Port of Oakland
 # The Port of Oakland in the US state of California reopens after a second police crackdown on Occupy Oakland. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/nation/story/2011-11-03/occupy-oakland/51059738/1)
+1. [USA Today](https://www.usatoday.com/news/nation/story/2011-11-03/occupy-oakland/51059738/1)
 1. [Cover Image](http://i.usatoday.net/news/_photos/2011/11/03/Oakland-protesters-condemn-violent-clashes-LTI7G0G-x.jpg)
 
 ### Related:
@@ -16,4 +20,4 @@
 2. [Police fire tear gas at Occupy Oakland protesters after they blocked the Port of Oakland. ](/news/2011/11/3/police-fire-tear-gas-at-occupy-oakland-protesters-after-they-blocked-the-port-of-oakland.md) _Context: Occupy Oakland, Port of Oakland_
 3. [In California, Oakland police disperse Occupy Oakland protesters, using tear gas and rubber bullets and making numerous arrests. ](/news/2011/10/26/in-california-oakland-police-disperse-occupy-oakland-protesters-using-tear-gas-and-rubber-bullets-and-making-numerous-arrests.md) _Context: California, Occupy Oakland_
 4. [Police arrest 75 people outside Oakland City Hall in the U.S. state of California while clearing the campsite of the Occupy Oakland protest. ](/news/2011/10/25/police-arrest-75-people-outside-oakland-city-hall-in-the-u-s-state-of-california-while-clearing-the-campsite-of-the-occupy-oakland-protest.md) _Context: California, Occupy Oakland_
-5. [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md) _Context: California_
+5. [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md) _Context: California_

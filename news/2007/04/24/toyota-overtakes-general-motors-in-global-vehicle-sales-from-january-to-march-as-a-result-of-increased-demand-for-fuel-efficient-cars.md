@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/04/24/toyota-overtakes-general-motors-in-global-vehicle-sales-from-january-to-march-as-a-result-of-increased-demand-for-fuel-efficient-cars.html)  [JSON](/news/2007/04/24/toyota-overtakes-general-motors-in-global-vehicle-sales-from-january-to-march-as-a-result-of-increased-demand-for-fuel-efficient-cars.json)  [XML](/news/2007/04/24/toyota-overtakes-general-motors-in-global-vehicle-sales-from-january-to-march-as-a-result-of-increased-demand-for-fuel-efficient-cars.xml)  
+
 ### [2007-04-24](/news/2007/04/24/index.md)
 
+##### Toyota
 #  Toyota overtakes General Motors in global vehicle sales from January to March as a result of increased demand for fuel-efficient cars. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601101&sid=a.lsX628EHZk)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601101&sid=a.lsX628EHZk)
 
 ### Related:
 

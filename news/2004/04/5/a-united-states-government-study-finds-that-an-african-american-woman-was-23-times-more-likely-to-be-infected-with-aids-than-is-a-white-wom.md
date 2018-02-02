@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/04/5/a-united-states-government-study-finds-that-an-african-american-woman-was-23-times-more-likely-to-be-infected-with-aids-than-is-a-white-wom.html)  [JSON](/news/2004/04/5/a-united-states-government-study-finds-that-an-african-american-woman-was-23-times-more-likely-to-be-infected-with-aids-than-is-a-white-wom.json)  [XML](/news/2004/04/5/a-united-states-government-study-finds-that-an-african-american-woman-was-23-times-more-likely-to-be-infected-with-aids-than-is-a-white-wom.xml)  
+
 ### [2004-04-5](/news/2004/04/5/index.md)
 
+##### African-American
 #  A United States government study finds that an African-American woman was 23 times more likely to be infected with AIDS than is a white woman. Recent studies suggest that 30 percent of all black bisexual men may be infected with HIV. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2004/04/05/health/05AIDS.html?hp)
-1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+1. [NYT](https://www.nytimes.com/2004/04/05/health/05AIDS.html?hp)
 
 ### Related:
 

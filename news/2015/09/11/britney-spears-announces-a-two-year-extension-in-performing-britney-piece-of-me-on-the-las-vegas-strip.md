@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/09/11/britney-spears-announces-a-two-year-extension-in-performing-britney-piece-of-me-on-the-las-vegas-strip.html)  [JSON](/news/2015/09/11/britney-spears-announces-a-two-year-extension-in-performing-britney-piece-of-me-on-the-las-vegas-strip.json)  [XML](/news/2015/09/11/britney-spears-announces-a-two-year-extension-in-performing-britney-piece-of-me-on-the-las-vegas-strip.xml)  
+
 ### [2015-09-11](/news/2015/09/11/index.md)
 
+##### Britney Spears
 # Britney Spears announces a two-year extension in performing "Britney: Piece of Me" on the Las Vegas Strip. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/story/life/2015/09/10/britney-spears-popular-show--staying--vegas-two-more-years/72001670/)
+1. [USA Today](https://www.usatoday.com/story/life/2015/09/10/britney-spears-popular-show--staying--vegas-two-more-years/72001670/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

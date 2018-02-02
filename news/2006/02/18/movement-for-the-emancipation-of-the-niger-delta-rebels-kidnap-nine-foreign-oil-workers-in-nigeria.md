@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/18/movement-for-the-emancipation-of-the-niger-delta-rebels-kidnap-nine-foreign-oil-workers-in-nigeria.html)  [JSON](/news/2006/02/18/movement-for-the-emancipation-of-the-niger-delta-rebels-kidnap-nine-foreign-oil-workers-in-nigeria.json)  [XML](/news/2006/02/18/movement-for-the-emancipation-of-the-niger-delta-rebels-kidnap-nine-foreign-oil-workers-in-nigeria.xml)  
+
 ### [2006-02-18](/news/2006/02/18/index.md)
 
+##### Movement for the Emancipation of the Niger Delta
 #  Movement for the Emancipation of the Niger Delta rebels kidnap nine foreign oil workers in Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/africa/02/18/nigeria.oil.reut/index.html)
 

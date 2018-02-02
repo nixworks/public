@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/2/at-least-two-people-are-killed-and-a-dozen-injured-in-three-simultaneous-explosions-in-kathmandu-in-nepal.html)  [JSON](/news/2007/09/2/at-least-two-people-are-killed-and-a-dozen-injured-in-three-simultaneous-explosions-in-kathmandu-in-nepal.json)  [XML](/news/2007/09/2/at-least-two-people-are-killed-and-a-dozen-injured-in-three-simultaneous-explosions-in-kathmandu-in-nepal.xml)  
+
 ### [2007-09-2](/news/2007/09/2/index.md)
 
+##### Kathmandu
 #  At least two people are killed and a dozen injured in three simultaneous explosions in Kathmandu in Nepal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/09/02/nepal.blasts/index.html)
 

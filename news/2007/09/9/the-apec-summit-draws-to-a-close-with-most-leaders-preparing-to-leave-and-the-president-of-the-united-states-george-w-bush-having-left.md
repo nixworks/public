@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2007/09/9/the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w-bush-having-left.html)  [JSON](/news/2007/09/9/the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w-bush-having-left.json)  [XML](/news/2007/09/9/the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w-bush-having-left.xml)  
+
 ### [2007-09-9](/news/2007/09/9/index.md)
 
+##### APEC
 #  The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. 
 
 The APEC summit in Sydney is drawing to a conclusion, with leaders working on their final statement.
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://www.abc.net.au/news/stories/2007/09/09/2027883.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/664684-1x1-700x700.jpg)
+
+### Changes:
+
+1. [ APEC Australia 2007: The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/apec-australia-2007-p-the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w.md) _2017-08-25 03:20:55 (First version)_
+2. [ APEC Australia 2007:: The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/apec-australia-2007-the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w.md) _2017-08-27 03:20:52 (Update)_
+2. [ The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w-bush-having-left.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ The APEC summit in Sydney is drawing to a conclusion, with leaders working on th
 3. [U.S. news magazine "Time" selects U.S. President Barack Obama as its 2012 Person of the Year, following on from his 2008 award, and those of his predecessors George W. Bush in 2000 and 2004, Bill Clinton in 1992 and 1998, George H. W. Bush in 1990, Ronald Reagan in 1980 and 1983, Jimmy Carter in 1976, Richard Nixon in 1971 and 1972 and Lyndon B. Johnson in 1964 and 1967. ](/news/2012/12/19/u-s-news-magazine-time-selects-u-s-president-barack-obama-as-its-2012-person-of-the-year-following-on-from-his-2008-award-and-those-of.md) _Context: George W. Bush, U.S. President_
 4. [Former President of the United States George W. Bush cancels a planned appearance in Switzerland; Human Rights Watch link the cancellation to growing pressure for Bush to be arrested over his approval of waterboarding torture, saying Bush is "avoiding handcuffs". ](/news/2011/02/5/former-president-of-the-united-states-george-w-bush-cancels-a-planned-appearance-in-switzerland-human-rights-watch-link-the-cancellation-t.md) _Context: George W. Bush, U.S. President_
 5. [A Saudi Arabian student is arrested in Texas for allegedly planning a terrorist attack against the Dallas home of former President of the United States George W. Bush as a target as well as New York City and dams in California and Colorado. ](/news/2011/02/24/a-saudi-arabian-student-is-arrested-in-texas-for-allegedly-planning-a-terrorist-attack-against-the-dallas-home-of-former-president-of-the-un.md) _Context: George W. Bush, U.S. President_
-
-### Changes:
-
-1. [ APEC Australia 2007: The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/apec-australia-2007-p-the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w.md) _2017-08-25 03:20:55 (First version)_
-2. [ APEC Australia 2007:: The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/apec-australia-2007-the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w.md) _2017-08-27 03:20:52 (Update)_
-2. [ The APEC summit draws to a close with most leaders preparing to leave and the President of the United States George W. Bush having left. ](/news/2007/09/9/the-apec-summit-draws-to-a-close-with-most-leaders-preparing-to-leave-and-the-president-of-the-united-states-george-w-bush-having-left.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/13/adam-giles-is-elected-as-the-new-leader-of-the-country-liberal-party-in-australia-s-northern-territory-replacing-terry-mills-as-chief-minist.html)  [JSON](/news/2013/03/13/adam-giles-is-elected-as-the-new-leader-of-the-country-liberal-party-in-australia-s-northern-territory-replacing-terry-mills-as-chief-minist.json)  [XML](/news/2013/03/13/adam-giles-is-elected-as-the-new-leader-of-the-country-liberal-party-in-australia-s-northern-territory-replacing-terry-mills-as-chief-minist.xml)  
+
 ### [2013-03-13](/news/2013/03/13/index.md)
 
+##### Adam Giles
 # Adam Giles is elected as the new leader of the Country Liberal Party in Australia's Northern Territory replacing Terry Mills as Chief Minister. He will be the first indigenous head of government in Australian history. 
 
 Terry Mills has been dumped as Chief Minister of the NT, with Adam Giles the new leader.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-03-13/terry-mills-dumped-as-nt-leader/4570820)
 2. [Northern Territory News](http://www.ntnews.com.au/article/2013/03/13/318520_ntnews.html)

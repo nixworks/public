@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/25/ugandan-general-election-2006-yoweri-museveni-president-of-uganda-since-1986-is-re-elected.html)  [JSON](/news/2006/02/25/ugandan-general-election-2006-yoweri-museveni-president-of-uganda-since-1986-is-re-elected.json)  [XML](/news/2006/02/25/ugandan-general-election-2006-yoweri-museveni-president-of-uganda-since-1986-is-re-elected.xml)  
+
 ### [2006-02-25](/news/2006/02/25/index.md)
 
+##### Ugandan general election, 2006
 #  Ugandan general election, 2006: Yoweri Museveni, President of Uganda since 1986, is re-elected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4750040.stm)
 

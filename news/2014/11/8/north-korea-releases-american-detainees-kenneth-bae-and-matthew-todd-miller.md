@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/8/north-korea-releases-american-detainees-kenneth-bae-and-matthew-todd-miller.html)  [JSON](/news/2014/11/8/north-korea-releases-american-detainees-kenneth-bae-and-matthew-todd-miller.json)  [XML](/news/2014/11/8/north-korea-releases-american-detainees-kenneth-bae-and-matthew-todd-miller.xml)  
+
 ### [2014-11-8](/news/2014/11/8/index.md)
 
+##### North Korea
 # North Korea releases American detainees Kenneth Bae and Matthew Todd Miller. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/11/09/world/asia/us-north-korea-detainees-released/index.html)
 

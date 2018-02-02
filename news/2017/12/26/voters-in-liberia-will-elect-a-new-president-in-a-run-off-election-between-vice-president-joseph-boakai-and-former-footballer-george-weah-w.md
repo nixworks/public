@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/26/voters-in-liberia-will-elect-a-new-president-in
 
 ### [2017-12-26](/news/2017/12/26/index.md)
 
+##### Liberian general election, 2017
 # Voters in Liberia will elect a new president in a run-off election between vice-president Joseph Boakai and former footballer George Weah. Weah is elected with 60% of the vote. 
 
 

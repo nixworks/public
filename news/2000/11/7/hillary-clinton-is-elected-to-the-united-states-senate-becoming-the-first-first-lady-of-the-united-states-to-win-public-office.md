@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/11/7/hillary-clinton-is-elected-to-the-united-states-senate-becoming-the-first-first-lady-of-the-united-states-to-win-public-office.html)  [JSON](/news/2000/11/7/hillary-clinton-is-elected-to-the-united-states-senate-becoming-the-first-first-lady-of-the-united-states-to-win-public-office.json)  [XML](/news/2000/11/7/hillary-clinton-is-elected-to-the-united-states-senate-becoming-the-first-first-lady-of-the-united-states-to-win-public-office.xml)  
+
 ### [2000-11-7](/news/2000/11/7/index.md)
 
+##### Hillary Clinton
 #  Hillary Clinton is elected to the United States Senate, becoming the first First Lady of the United States to win public office.
 
 

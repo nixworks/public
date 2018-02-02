@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/19/papua-new-guinea-deputy-prime-minister-puka-temu-joins-with-opposition-mps-in-an-attempt-to-bring-down-the-government-of-prime-minister-mich.html)  [JSON](/news/2010/07/19/papua-new-guinea-deputy-prime-minister-puka-temu-joins-with-opposition-mps-in-an-attempt-to-bring-down-the-government-of-prime-minister-mich.json)  [XML](/news/2010/07/19/papua-new-guinea-deputy-prime-minister-puka-temu-joins-with-opposition-mps-in-an-attempt-to-bring-down-the-government-of-prime-minister-mich.xml)  
+
 ### [2010-07-19](/news/2010/07/19/index.md)
 
+##### Papua New Guinea
 # Papua New Guinea Deputy Prime Minister Puka Temu joins with opposition MPs in an attempt to bring down the government of Prime Minister Michael Somare. 
 
 Papua New Guinea&#039;s government is facing another threat to its survival, this time from the deputy prime minister, who has joined forces with opposition MPs.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/07/19/2958161.htm?section=justin)
 1. [Cover Image](http://www.abc.net.au/news/image/911062-1x1-700x700.jpg)

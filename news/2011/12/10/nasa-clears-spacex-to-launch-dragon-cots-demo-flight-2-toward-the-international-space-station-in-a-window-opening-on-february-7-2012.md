@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/12/10/nasa-clears-spacex-to-launch-dragon-cots-demo-flight-2-toward-the-international-space-station-in-a-window-opening-on-february-7-2012.html)  [JSON](/news/2011/12/10/nasa-clears-spacex-to-launch-dragon-cots-demo-flight-2-toward-the-international-space-station-in-a-window-opening-on-february-7-2012.json)  [XML](/news/2011/12/10/nasa-clears-spacex-to-launch-dragon-cots-demo-flight-2-toward-the-international-space-station-in-a-window-opening-on-february-7-2012.xml)  
+
 ### [2011-12-10](/news/2011/12/10/index.md)
 
+##### National Aeronautics and Space Administration
 # NASA clears SpaceX to launch Dragon COTS Demo Flight 2 toward the International Space Station in a window opening on February 7, 2012. 
 
 A private company will make a trial cargo run to the International Space Station in February, a key step in a new U.S. program to buy spaceflight services on a commercial basis, NASA said on Friday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/09/us-space-business-idUSTRE7B825D20111209)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111209&t=2&i=544976385&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7B81QA100)
+1. [Reuters](https://www.reuters.com/article/2011/12/09/us-space-business-idUSTRE7B825D20111209)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111209&t=2&i=544976385&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7B81QA100)
 
 ### Related:
 

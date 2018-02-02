@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/4/the-software-company-microsoft-internally-promotes-satya-nadella-to-be-its-next-ceo-and-appoints-john-w-thompson-as-its-chairman.html)  [JSON](/news/2014/02/4/the-software-company-microsoft-internally-promotes-satya-nadella-to-be-its-next-ceo-and-appoints-john-w-thompson-as-its-chairman.json)  [XML](/news/2014/02/4/the-software-company-microsoft-internally-promotes-satya-nadella-to-be-its-next-ceo-and-appoints-john-w-thompson-as-its-chairman.xml)  
+
 ### [2014-02-4](/news/2014/02/4/index.md)
 
+##### Microsoft
 # The software company Microsoft internally promotes Satya Nadella to be its next CEO and appoints John W. Thompson as its chairman. 
 
 Microsoft will tap Satya Nadella as chief executive, while founder Bill Gates will leave his role as chairman and take on a new position as technology adviser. 
 
 
-### Source:
+### Sources:
 
 1. [FOX Business](http://www.foxbusiness.com/industries/2014/02/04/microsoft-names-satya-nadell-as-next-ceo/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-business/features/2014/02/04/microsoft-names-satya-nadell-as-next-ceo/_jcr_content/par/featured-media/media-1.img.png/0/0/1436393663463.png?ve=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/19/nigeria-s-military-forces-rescue-two-escaped-russian-hostages-who-were-abducted-in-the-niger-delta-in-december.html)  [JSON](/news/2009/02/19/nigeria-s-military-forces-rescue-two-escaped-russian-hostages-who-were-abducted-in-the-niger-delta-in-december.json)  [XML](/news/2009/02/19/nigeria-s-military-forces-rescue-two-escaped-russian-hostages-who-were-abducted-in-the-niger-delta-in-december.xml)  
+
 ### [2009-02-19](/news/2009/02/19/index.md)
 
+##### Nigeria
 #  Nigeria's Military Forces rescue two escaped Russian hostages who were abducted in the Niger Delta in December. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7900505.stm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/13/the-former-chechen-president-zelimkhan-yandarbiyev-is-killed-in-an-apparent-car-bomb-explosion-in-doha-the-capital-of-qatar.html)  [JSON](/news/2004/02/13/the-former-chechen-president-zelimkhan-yandarbiyev-is-killed-in-an-apparent-car-bomb-explosion-in-doha-the-capital-of-qatar.json)  [XML](/news/2004/02/13/the-former-chechen-president-zelimkhan-yandarbiyev-is-killed-in-an-apparent-car-bomb-explosion-in-doha-the-capital-of-qatar.xml)  
+
 ### [2004-02-13](/news/2004/02/13/index.md)
 
+##### Chechnya
 #  The former Chechen President Zelimkhan Yandarbiyev is killed in an apparent car bomb explosion in Doha, the capital of Qatar.
 
 

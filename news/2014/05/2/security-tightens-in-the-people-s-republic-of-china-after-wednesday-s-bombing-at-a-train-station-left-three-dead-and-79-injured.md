@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/2/security-tightens-in-the-people-s-republic-of-china-after-wednesday-s-bombing-at-a-train-station-left-three-dead-and-79-injured.html)  [JSON](/news/2014/05/2/security-tightens-in-the-people-s-republic-of-china-after-wednesday-s-bombing-at-a-train-station-left-three-dead-and-79-injured.json)  [XML](/news/2014/05/2/security-tightens-in-the-people-s-republic-of-china-after-wednesday-s-bombing-at-a-train-station-left-three-dead-and-79-injured.xml)  
+
 ### [2014-05-2](/news/2014/05/2/index.md)
 
+##### China
 # Security tightens in the People's Republic of China after Wednesday's bombing at a train station left three dead and 79 injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-2617196/Three-die-scores-injured-terrorist-blast-train-station-Chinas-far-west.html)
 

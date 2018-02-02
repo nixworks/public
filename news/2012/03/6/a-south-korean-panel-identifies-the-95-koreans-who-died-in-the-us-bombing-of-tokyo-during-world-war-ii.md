@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/6/a-south-korean-panel-identifies-the-95-koreans-who-died-in-the-us-bombing-of-tokyo-during-world-war-ii.html)  [JSON](/news/2012/03/6/a-south-korean-panel-identifies-the-95-koreans-who-died-in-the-us-bombing-of-tokyo-during-world-war-ii.json)  [XML](/news/2012/03/6/a-south-korean-panel-identifies-the-95-koreans-who-died-in-the-us-bombing-of-tokyo-during-world-war-ii.xml)  
+
 ### [2012-03-6](/news/2012/03/6/index.md)
 
+##### South Korea
 # A South Korean panel identifies the 95 Koreans who died in the US bombing of Tokyo during World War II. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2012/03/06/33/0200000000AEN20120306004100315F.HTML)
 

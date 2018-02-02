@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/23/interpol-announces-a-stern-warning-that-the-threat-of-a-bioterror-attack-still-exists.html)  [JSON](/news/2005/02/23/interpol-announces-a-stern-warning-that-the-threat-of-a-bioterror-attack-still-exists.json)  [XML](/news/2005/02/23/interpol-announces-a-stern-warning-that-the-threat-of-a-bioterror-attack-still-exists.xml)  
+
 ### [2005-02-23](/news/2005/02/23/index.md)
 
+##### Interpol
 #  Interpol announces a stern warning that the threat of a bioterror attack still exists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4289485.stm)
 2. [Interpol](http://www.interpol.int/Public/BioTerrorism/default.asp)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/9/iowa-governor-tom-vilsack-announces-he-will-be-running-in-the-2008-us-presidential-election.html)  [JSON](/news/2006/11/9/iowa-governor-tom-vilsack-announces-he-will-be-running-in-the-2008-us-presidential-election.json)  [XML](/news/2006/11/9/iowa-governor-tom-vilsack-announces-he-will-be-running-in-the-2008-us-presidential-election.xml)  
+
 ### [2006-11-9](/news/2006/11/9/index.md)
 
+##### Tom Vilsack
 #  Iowa Governor Tom Vilsack announces he will be running in the 2008 US Presidential Election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/POLITICS/11/09/vilsack.president.ap/index.html/)
 

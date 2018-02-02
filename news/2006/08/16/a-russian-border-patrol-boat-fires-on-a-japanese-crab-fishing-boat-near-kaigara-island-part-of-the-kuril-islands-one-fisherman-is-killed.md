@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/16/a-russian-border-patrol-boat-fires-on-a-japanese-crab-fishing-boat-near-kaigara-island-part-of-the-kuril-islands-one-fisherman-is-killed.html)  [JSON](/news/2006/08/16/a-russian-border-patrol-boat-fires-on-a-japanese-crab-fishing-boat-near-kaigara-island-part-of-the-kuril-islands-one-fisherman-is-killed.json)  [XML](/news/2006/08/16/a-russian-border-patrol-boat-fires-on-a-japanese-crab-fishing-boat-near-kaigara-island-part-of-the-kuril-islands-one-fisherman-is-killed.xml)  
+
 ### [2006-08-16](/news/2006/08/16/index.md)
 
+##### Russia
 #  A Russian border patrol boat fires on a Japanese crab fishing boat near Kaigara Island, part of the Kuril Islands. One fisherman is killed and three others detained by the Russian authorities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.breitbart.com/news/2006/08/16/D8JHKAH00.html)
 

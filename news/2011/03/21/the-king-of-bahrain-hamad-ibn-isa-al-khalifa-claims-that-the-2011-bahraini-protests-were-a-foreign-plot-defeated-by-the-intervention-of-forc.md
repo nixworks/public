@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/03/21/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-claims-that-the-2011-bahraini-protests-were-a-foreign-plot-defeated-by-the-intervention-of-forc.html)  [JSON](/news/2011/03/21/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-claims-that-the-2011-bahraini-protests-were-a-foreign-plot-defeated-by-the-intervention-of-forc.json)  [XML](/news/2011/03/21/the-king-of-bahrain-hamad-ibn-isa-al-khalifa-claims-that-the-2011-bahraini-protests-were-a-foreign-plot-defeated-by-the-intervention-of-forc.xml)  
+
 ### [2011-03-21](/news/2011/03/21/index.md)
 
+##### King of Bahrain
 # The King of Bahrain Hamad ibn Isa Al Khalifa claims that the 2011 Bahraini protests were a foreign plot defeated by the intervention of forces from neighbors Saudi Arabia and the UAE of the Cooperation Council for the Arab States of the Gulf's Peninsula Shield Force. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/21/bahrain-protests-king-idUSLDE72K01O20110321)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/03/21/bahrain-protests-king-idUSLDE72K01O20110321)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

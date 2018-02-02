@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/20/storm-angus-brings-strong-winds-and-heavy-rain-
 
 ### [2016-11-20](/news/2016/11/20/index.md)
 
+##### 2016-17 UK and Ireland windstorm season
 # Storm Angus brings strong winds and heavy rain to southern England and the Channel Islands. 
 
 The first named storm of winter - Storm Angus - is battering the south coast of England, with winds of up to 80mph forecast to sweep through some areas.

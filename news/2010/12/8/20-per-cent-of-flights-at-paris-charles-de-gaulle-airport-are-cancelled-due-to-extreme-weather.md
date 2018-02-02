@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/8/20-per-cent-of-flights-at-paris-charles-de-gaulle-airport-are-cancelled-due-to-extreme-weather.html)  [JSON](/news/2010/12/8/20-per-cent-of-flights-at-paris-charles-de-gaulle-airport-are-cancelled-due-to-extreme-weather.json)  [XML](/news/2010/12/8/20-per-cent-of-flights-at-paris-charles-de-gaulle-airport-are-cancelled-due-to-extreme-weather.xml)  
+
 ### [2010-12-8](/news/2010/12/8/index.md)
 
+##### Paris-Charles de Gaulle Airport
 # 20 per cent of flights at Paris-Charles de Gaulle Airport are cancelled due to extreme weather. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_611673.html)
 

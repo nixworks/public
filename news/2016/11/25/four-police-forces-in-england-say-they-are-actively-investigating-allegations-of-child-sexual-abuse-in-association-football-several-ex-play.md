@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/25/four-police-forces-in-england-say-they-are-acti
 
 ### [2016-11-25](/news/2016/11/25/index.md)
 
+##### English football sexual abuse scandal
 # Four police forces in England say they are actively investigating allegations of child sexual abuse in association football. Several ex-players have gone public with allegations against former Crewe Alexandra and Manchester City coach Barry Bennell. 
 
 Four police forces say they are looking into allegations of historical child sex abuse within football.
@@ -20,8 +21,8 @@ Four police forces say they are looking into allegations of historical child sex
 
 ### Related:
 
-1. [ English Premier League footballer Marlon King is convicted of sexual assault, imprisoned and sacked by his club Wigan Athletic F.C. ](/news/2009/10/29/english-premier-league-footballer-marlon-king-is-convicted-of-sexual-assault-imprisoned-and-sacked-by-his-club-wigan-athletic-f-c.md) _Context: England, association football_
-2. [ English Premier League football club Chelsea F.C. are barred from purchasing players on transfer until January 2011 by FIFA for inducing Gal Kakuta to illegally break his contract with French Ligue 1 club RC Lens in 2007. ](/news/2009/09/3/english-premier-league-football-club-chelsea-f-c-are-barred-from-purchasing-players-on-transfer-until-january-2011-by-fifa-for-inducing-ga.md) _Context: England, association football_
-3. [ Football: The semi-finals of Copa del Rey begin in Nou Camp. Argentinian Lionel Messi scored a spectacular goal against Getafe CF.That goal is very similar to a Diego Maradona's goal against England in Mexico World Cup 1986.Both of them passed six defenders including goalkeeper and scored.](/news/2007/04/11/football-the-semi-finals-of-copa-del-rey-begin-in-nou-camp-argentinian-lionel-messi-scored-a-spectacular-goal-against-getafe-cf-that-goal.md) _Context: England, association football_
-4. [Storm Brian, the third windstorm of the season, causes severe flash flooding in Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.md) _Context: England_
-5. [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md) _Context: England_
+1. [ English Premier League football club Chelsea F.C. are barred from purchasing players on transfer until January 2011 by FIFA for inducing Gal Kakuta to illegally break his contract with French Ligue 1 club RC Lens in 2007. ](/news/2009/09/3/english-premier-league-football-club-chelsea-f-c-are-barred-from-purchasing-players-on-transfer-until-january-2011-by-fifa-for-inducing-ga.md) _Context: England, association football_
+2. [American actress Eliza Dushku says she was sexually assaulted by a stuntman when she was 12 years old. ](/news/2018/01/15/american-actress-eliza-dushku-says-she-was-sexually-assaulted-by-a-stuntman-when-she-was-12-years-old.md) _Context: sexually assaulted_
+3. [A fire consumes a multi-story parking garage in Liverpool, England, destroying about 1,400 cars parked there, most for an international horse show in the adjacent Liverpool Echo Arena. No injuries are reported, and all horses and pet dogs were moved to safety. ](/news/2017/12/31/a-fire-consumes-a-multi-story-parking-garage-in-liverpool-england-destroying-about-1-400-cars-parked-there-most-for-an-international-hors.md) _Context: England_
+4. [Six people are killed in a multiple-vehicle collision in Birmingham, England. ](/news/2017/12/17/six-people-are-killed-in-a-multiple-vehicle-collision-in-birmingham-england.md) _Context: England_
+5. [Storm Brian, the third windstorm of the season, causes severe flash flooding in Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.md) _Context: England_

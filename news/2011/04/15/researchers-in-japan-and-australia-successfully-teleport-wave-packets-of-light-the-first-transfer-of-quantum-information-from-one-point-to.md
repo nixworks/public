@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/15/researchers-in-japan-and-australia-successfully-teleport-wave-packets-of-light-the-first-transfer-of-quantum-information-from-one-point-to.html)  [JSON](/news/2011/04/15/researchers-in-japan-and-australia-successfully-teleport-wave-packets-of-light-the-first-transfer-of-quantum-information-from-one-point-to.json)  [XML](/news/2011/04/15/researchers-in-japan-and-australia-successfully-teleport-wave-packets-of-light-the-first-transfer-of-quantum-information-from-one-point-to.xml)  
+
 ### [2011-04-15](/news/2011/04/15/index.md)
 
+##### Japan
 # Researchers in Japan and Australia successfully teleport wave packets of light, the first transfer of quantum information from one point to another in a Schrodinger's cat experiment. 
 
 Researchers from Australia and Japan have successfully teleported wave packets of light, potentially revolutionising quantum communications and computing.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/04/15/3192505.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/2614790-1x1-700x700.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/1/an-explosion-at-an-oil-storage-tank-in-gibraltar-closes-the-port-and-injures-workers-and-cruise-ship-passengers.html)  [JSON](/news/2011/06/1/an-explosion-at-an-oil-storage-tank-in-gibraltar-closes-the-port-and-injures-workers-and-cruise-ship-passengers.json)  [XML](/news/2011/06/1/an-explosion-at-an-oil-storage-tank-in-gibraltar-closes-the-port-and-injures-workers-and-cruise-ship-passengers.xml)  
+
 ### [2011-06-1](/news/2011/06/1/index.md)
 
+##### oil
 # An explosion at an oil storage tank in Gibraltar closes the port and injures workers and cruise ship passengers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Gibraltar Chronicle](http://www.chronicle.gi/headlines_details.php?id=21873)
 

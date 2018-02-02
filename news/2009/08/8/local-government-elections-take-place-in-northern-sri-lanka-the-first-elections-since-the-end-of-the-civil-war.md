@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/08/8/local-government-elections-take-place-in-northern-sri-lanka-the-first-elections-since-the-end-of-the-civil-war.html)  [JSON](/news/2009/08/8/local-government-elections-take-place-in-northern-sri-lanka-the-first-elections-since-the-end-of-the-civil-war.json)  [XML](/news/2009/08/8/local-government-elections-take-place-in-northern-sri-lanka-the-first-elections-since-the-end-of-the-civil-war.xml)  
+
 ### [2009-08-8](/news/2009/08/8/index.md)
 
+##### local elections
 #  Local government elections take place in northern Sri Lanka, the first elections since the end of the civil war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily News](http://www.dailynews.lk/2009/08/08/pol01.asp)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=102844&sectionid=351020406)
-3. [Reuters](http://www.reuters.com/article/asiaCrisis/idUSCOL461692)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/asiaCrisis/idUSCOL461692)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

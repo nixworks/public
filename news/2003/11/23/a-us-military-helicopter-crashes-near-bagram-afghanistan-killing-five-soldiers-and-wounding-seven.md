@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/23/a-us-military-helicopter-crashes-near-bagram-afghanistan-killing-five-soldiers-and-wounding-seven.html)  [JSON](/news/2003/11/23/a-us-military-helicopter-crashes-near-bagram-afghanistan-killing-five-soldiers-and-wounding-seven.json)  [XML](/news/2003/11/23/a-us-military-helicopter-crashes-near-bagram-afghanistan-killing-five-soldiers-and-wounding-seven.xml)  
+
 ### [2003-11-23](/news/2003/11/23/index.md)
 
+##### Bagram
 #  A US military helicopter crashes near Bagram, Afghanistan, killing five soldiers and wounding seven.
 
 
@@ -11,4 +15,4 @@
 2. [ United States Federal Judge John D. Bates rules that enemy combatants incarcerated at the U.S. Air Base in Bagram, Afghanistan, have rights to legal trials. ](/news/2009/04/2/united-states-federal-judge-john-d-bates-rules-that-enemy-combatants-incarcerated-at-the-u-s-air-base-in-bagram-afghanistan-have-rights.md) _Context: Afghanistan, Bagram_
 3. [ U.S. prosecutors admitted that Omar al-Faruq was one of four detainees to escape from the Bagram base, Afghanistan, in July, all of whom are still on the run. ](/news/2005/11/1/u-s-prosecutors-admitted-that-omar-al-faruq-was-one-of-four-detainees-to-escape-from-the-bagram-base-afghanistan-in-july-all-of-whom-ar.md) _Context: Afghanistan, Bagram_
 4. [ At least 1,000 protesters have staged a demonstration outside the main US base of Bagram in Afghanistan. ](/news/2005/07/26/at-least-1-000-protesters-have-staged-a-demonstration-outside-the-main-us-base-of-bagram-in-afghanistan.md) _Context: Afghanistan, Bagram_
-5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Afghanistan_
+5. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Afghanistan_

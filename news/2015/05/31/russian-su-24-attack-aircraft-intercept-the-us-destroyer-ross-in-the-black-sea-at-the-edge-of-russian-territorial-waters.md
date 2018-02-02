@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/31/russian-su-24-attack-aircraft-intercept-the-us-destroyer-ross-in-the-black-sea-at-the-edge-of-russian-territorial-waters.html)  [JSON](/news/2015/05/31/russian-su-24-attack-aircraft-intercept-the-us-destroyer-ross-in-the-black-sea-at-the-edge-of-russian-territorial-waters.json)  [XML](/news/2015/05/31/russian-su-24-attack-aircraft-intercept-the-us-destroyer-ross-in-the-black-sea-at-the-edge-of-russian-territorial-waters.xml)  
+
 ### [2015-05-31](/news/2015/05/31/index.md)
 
+##### Russia
 # Russian Su-24 attack aircraft intercept the US destroyer Ross in the Black Sea at the edge of Russian territorial waters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2015/05/30/uk-russia-usa-destroyer-idUKKBN0OF0PM20150530)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

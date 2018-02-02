@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/01/14/prime-minister-of-israel-ehud-olmert-warns-that-all-options-are-being-taken-into-consideration-to-stop-iran-from-going-nuclear.html)  [JSON](/news/2008/01/14/prime-minister-of-israel-ehud-olmert-warns-that-all-options-are-being-taken-into-consideration-to-stop-iran-from-going-nuclear.json)  [XML](/news/2008/01/14/prime-minister-of-israel-ehud-olmert-warns-that-all-options-are-being-taken-into-consideration-to-stop-iran-from-going-nuclear.xml)  
+
 ### [2008-01-14](/news/2008/01/14/index.md)
 
+##### Israeli Prime Minister
 #  Prime Minister of Israel Ehud Olmert warns that "all options are being taken into consideration" to stop Iran from going nuclear. 
 
 In one of his harshest remarks against Islamic republic, prime minister tells Knesset&#39;s Foreign Affairs and Defense Committee, &#39;We will not accept a nuclear Iran. All options are being taken into consideration&#39; 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080114/ap_on_re_mi_ea/israel_iran)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20080114/ap_on_re_mi_ea/israel_iran)
 2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-3493934,00.html)
 2. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
 

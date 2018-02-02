@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2004/03/22/israel-assassinates-sheikh-ahmed-yassin-the-spiritual-head-of-hamas-in-the-gaza-strip-it-then-seals-off-both-the-west-bank-and-the-gaza.html)  [JSON](/news/2004/03/22/israel-assassinates-sheikh-ahmed-yassin-the-spiritual-head-of-hamas-in-the-gaza-strip-it-then-seals-off-both-the-west-bank-and-the-gaza.json)  [XML](/news/2004/03/22/israel-assassinates-sheikh-ahmed-yassin-the-spiritual-head-of-hamas-in-the-gaza-strip-it-then-seals-off-both-the-west-bank-and-the-gaza.xml)  
+
 ### [2004-03-22](/news/2004/03/22/index.md)
 
+##### Israel
 #  Israel assassinates Sheikh Ahmed Yassin, the spiritual head of Hamas, in the Gaza Strip. It then seals off both the West Bank and the Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/3556753.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3556099.stm)
 3. [FOX](http://www.foxnews.com/story/0,2933,114826,00.html)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=4615931&section=news)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=4615931&section=news)
 
 ### Related:
 

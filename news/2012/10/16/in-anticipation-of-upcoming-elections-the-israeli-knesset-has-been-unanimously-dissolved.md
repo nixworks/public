@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/16/in-anticipation-of-upcoming-elections-the-israeli-knesset-has-been-unanimously-dissolved.html)  [JSON](/news/2012/10/16/in-anticipation-of-upcoming-elections-the-israeli-knesset-has-been-unanimously-dissolved.json)  [XML](/news/2012/10/16/in-anticipation-of-upcoming-elections-the-israeli-knesset-has-been-unanimously-dissolved.xml)  
+
 ### [2012-10-16](/news/2012/10/16/index.md)
 
+##### Elections for the 19th Knesset
 # In anticipation of upcoming elections, the Israeli Knesset has been unanimously dissolved. 
 
 Final reading of bill to dissolve Knesset passes with 100 in favor, none opposed; sets election for January 22, 2013.
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=287962)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=199316)

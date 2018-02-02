@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/24/former-south-african-sprint-runner-oscar-pistor
 
 ### [2017-11-24](/news/2017/11/24/index.md)
 
+##### Trial of Oscar Pistorius
 # Former South African sprint runner Oscar Pistorius has his jail sentence increased to 13 years and five months for the murder of his girlfriend Reeva Steenkamp. The Supreme Court of Appeal ruled his sentence be increased to 15 years, less time already served. 
 
 Oscar Pistorius prison sentence increased to 13 years and 5 months.

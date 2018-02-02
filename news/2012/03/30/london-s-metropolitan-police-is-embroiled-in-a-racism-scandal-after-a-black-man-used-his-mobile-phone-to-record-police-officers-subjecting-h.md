@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/30/london-s-metropolitan-police-is-embroiled-in-a-racism-scandal-after-a-black-man-used-his-mobile-phone-to-record-police-officers-subjecting-h.html)  [JSON](/news/2012/03/30/london-s-metropolitan-police-is-embroiled-in-a-racism-scandal-after-a-black-man-used-his-mobile-phone-to-record-police-officers-subjecting-h.json)  [XML](/news/2012/03/30/london-s-metropolitan-police-is-embroiled-in-a-racism-scandal-after-a-black-man-used-his-mobile-phone-to-record-police-officers-subjecting-h.xml)  
+
 ### [2012-03-30](/news/2012/03/30/index.md)
 
+##### Metropolitan Police
 # London's Metropolitan Police is embroiled in a racism scandal after a black man used his mobile phone to record police officers subjecting him to a tirade of abuse in which he was told: "The problem with you is you will always be a nigger". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2012/mar/30/police-racism-black-man-abuse)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/9/the-president-of-zambia-levy-mwanawasa-suspends-the-head-of-the-drug-enforcement-commission-ryan-chitoba-for-alleged-misappropriation-of-mo.html)  [JSON](/news/2007/08/9/the-president-of-zambia-levy-mwanawasa-suspends-the-head-of-the-drug-enforcement-commission-ryan-chitoba-for-alleged-misappropriation-of-mo.json)  [XML](/news/2007/08/9/the-president-of-zambia-levy-mwanawasa-suspends-the-head-of-the-drug-enforcement-commission-ryan-chitoba-for-alleged-misappropriation-of-mo.xml)  
+
 ### [2007-08-9](/news/2007/08/9/index.md)
 
+##### President
 #  The President of Zambia Levy Mwanawasa suspends the head of the Drug Enforcement Commission Ryan Chitoba for alleged misappropriation of money confiscated from criminals. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6938183.stm)
 

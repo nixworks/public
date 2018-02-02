@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/14/guyana-rejects-the-latest-objections-raised-by-neighboring-venezuela-over-the-granting-to-exxonmobil-corp-of-an-oil-and-gas-concession-in-c.html)  [JSON](/news/2015/03/14/guyana-rejects-the-latest-objections-raised-by-neighboring-venezuela-over-the-granting-to-exxonmobil-corp-of-an-oil-and-gas-concession-in-c.json)  [XML](/news/2015/03/14/guyana-rejects-the-latest-objections-raised-by-neighboring-venezuela-over-the-granting-to-exxonmobil-corp-of-an-oil-and-gas-concession-in-c.xml)  
+
 ### [2015-03-14](/news/2015/03/14/index.md)
 
+##### Guyana
 # Guyana rejects the latest objections raised by neighboring Venezuela over the granting to ExxonMobil Corp. of an oil and gas concession in Caribbean waters claimed by both nations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Miami Herald](http://www.miamiherald.com/news/nation-world/article14431316.html)
 

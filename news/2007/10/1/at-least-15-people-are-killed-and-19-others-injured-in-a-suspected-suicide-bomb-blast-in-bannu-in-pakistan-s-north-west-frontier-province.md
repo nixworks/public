@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/1/at-least-15-people-are-killed-and-19-others-injured-in-a-suspected-suicide-bomb-blast-in-bannu-in-pakistan-s-north-west-frontier-province.html)  [JSON](/news/2007/10/1/at-least-15-people-are-killed-and-19-others-injured-in-a-suspected-suicide-bomb-blast-in-bannu-in-pakistan-s-north-west-frontier-province.json)  [XML](/news/2007/10/1/at-least-15-people-are-killed-and-19-others-injured-in-a-suspected-suicide-bomb-blast-in-bannu-in-pakistan-s-north-west-frontier-province.xml)  
+
 ### [2007-10-1](/news/2007/10/1/index.md)
 
+##### suicide bomb
 #  At least 15 people are killed and 19 others injured in a suspected suicide bomb blast in Bannu in Pakistan's North-West Frontier Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7021432.stm)
 

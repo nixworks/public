@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/07/16/malaysian-opposition-leader-anwar-ibrahim-is-arrested-over-allegations-he-sodomised-a-male-aide.html)  [JSON](/news/2008/07/16/malaysian-opposition-leader-anwar-ibrahim-is-arrested-over-allegations-he-sodomised-a-male-aide.json)  [XML](/news/2008/07/16/malaysian-opposition-leader-anwar-ibrahim-is-arrested-over-allegations-he-sodomised-a-male-aide.xml)  
+
 ### [2008-07-16](/news/2008/07/16/index.md)
 
+##### Malaysia
 #  Malaysian opposition leader Anwar Ibrahim is arrested over allegations he sodomised a male aide. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/afp/20080716/wl_afp/malaysiapoliticsanwar_080716063803)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/afp/20080716/wl_afp/malaysiapoliticsanwar_080716063803)
 
 ### Related:
 

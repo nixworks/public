@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/20/the-prime-minister-of-australia-john-howard-announces-plans-to-buy-three-spanish-designed-warships-and-two-large-spanish-landing-ships-fo.html)  [JSON](/news/2007/06/20/the-prime-minister-of-australia-john-howard-announces-plans-to-buy-three-spanish-designed-warships-and-two-large-spanish-landing-ships-fo.json)  [XML](/news/2007/06/20/the-prime-minister-of-australia-john-howard-announces-plans-to-buy-three-spanish-designed-warships-and-two-large-spanish-landing-ships-fo.xml)  
+
 ### [2007-06-20](/news/2007/06/20/index.md)
 
+##### Australian Prime Minister
 #  The Prime Minister of Australia, John Howard, announces plans to buy three Spanish-designed warships and two large Spanish landing ships for the Royal Australian Navy at a cost of $A11-billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via the West Australian](http://www.thewest.com.au/default.aspx?MenuID=145&ContentID=31911)
 

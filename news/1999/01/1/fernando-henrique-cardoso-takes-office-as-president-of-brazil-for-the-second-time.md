@@ -3,6 +3,7 @@ Formats: [HTML](/news/1999/01/1/fernando-henrique-cardoso-takes-office-as-presid
 
 ### [1999-01-1](/news/1999/01/1/index.md)
 
+##### Fernando Henrique Cardoso
 #  Fernando Henrique Cardoso takes office as President of Brazil for the second time.
 
 

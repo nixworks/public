@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/23/melania-trump-plans-to-sue-the-daily-mail-and-p
 
 ### [2016-08-23](/news/2016/08/23/index.md)
 
+##### Melania Trump
 # Melania Trump plans to sue "The Daily Mail" and "Politico" after the publications allege that she worked as an escort. 
 
 Melania Trump, wife of Donald Trump, has threatened to sue The Daily Mail, Politico and at least eight other news outlets for defamation, her lawyer says.

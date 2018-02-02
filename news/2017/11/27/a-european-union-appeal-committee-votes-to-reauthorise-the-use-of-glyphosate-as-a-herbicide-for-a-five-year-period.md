@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/27/a-european-union-appeal-committee-votes-to-reau
 
 ### [2017-11-27](/news/2017/11/27/index.md)
 
+##### Health in Europe
 # A European Union appeal committee votes to reauthorise the use of glyphosate as a herbicide for a five-year period. 
 
 EU votes to reauthorise the pesticide, ending a bitterly fought battle that saw 1.3 million people sign a petition calling for a ban
@@ -20,8 +21,8 @@ EU votes to reauthorise the pesticide, ending a bitterly fought battle that saw 
 
 ### Related:
 
-1. [Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland, opt out. ](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.md) _Context: European Union_
-2. [The Foreign Affairs Ministers of the European Union unanimously vote to remove the Revolutionary Armed Forces of Colombia (FARC) from its list of designated terrorist groups. ](/news/2017/11/13/the-foreign-affairs-ministers-of-the-european-union-unanimously-vote-to-remove-the-revolutionary-armed-forces-of-colombia-farc-from-its-li.md) _Context: European Union_
-3. [Venezuela's democratic opposition wins the Sakharov Prize, the European Union's top human rights award. ([http:--www.bbc.com-news-world-latin-america-41760899 BBC])](/news/2017/10/26/venezuela-s-democratic-opposition-wins-the-sakharov-prize-the-european-union-s-top-human-rights-award-http-www-bbc-com-news-world-lati.md) _Context: European Union_
-4. [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md) _Context: European Union_
-5. [The European Union heads of state prepare to start negotiations on a future UK-EU trade agreement in December, depending on progress with the financial "exit bill" negotiations by then. ](/news/2017/10/20/the-european-union-heads-of-state-prepare-to-start-negotiations-on-a-future-ukaeu-trade-agreement-in-december-depending-on-progress-with.md) _Context: European Union_
+1. [Turkish President Recep Tayyip Erdogan says he is "tired" of waiting for the European Union to approve Turkey's membership in the political union. ](/news/2018/01/5/turkish-president-recep-tayyip-erdoaan-says-he-is-tired-of-waiting-for-the-european-union-to-approve-turkey-s-membership-in-the-political.md) _Context: European Union_
+2. [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md) _Context: European Union_
+3. [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md) _Context: European Union_
+4. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: European Union_
+5. [The United Kingdom's Home Office confirms the return of the blue British passport after the UK leaves the European Union. The new passports will be issued from October 2019. ](/news/2017/12/22/the-united-kingdom-s-home-office-confirms-the-return-of-the-blue-british-passport-after-the-uk-leaves-the-european-union-the-new-passports.md) _Context: European Union_

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/05/14/a-suicide-bomber-kills-at-least-22-people-and-injures-40-in-an-attack-on-a-funeral-in-a-village-west-of-baghdad.html)  [JSON](/news/2008/05/14/a-suicide-bomber-kills-at-least-22-people-and-injures-40-in-an-attack-on-a-funeral-in-a-village-west-of-baghdad.json)  [XML](/news/2008/05/14/a-suicide-bomber-kills-at-least-22-people-and-injures-40-in-an-attack-on-a-funeral-in-a-village-west-of-baghdad.xml)  
+
 ### [2008-05-14](/news/2008/05/14/index.md)
 
+##### suicide bomber
 #  A suicide bomber kills at least 22 people and injures 40 in an attack on a funeral in a village west of Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080514/ap_on_re_mi_ea/iraq_080510181438)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20080514/ap_on_re_mi_ea/iraq_080510181438)
 2. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7401634.stm)
 
 ### Related:

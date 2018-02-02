@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/3/general-secretary-of-the-communist-party-of-chin
 
 ### [2017-12-3](/news/2017/12/3/index.md)
 
+##### History of the Communist Party of China
 # General Secretary of the Communist Party of China Xi Jinping concludes a two-day "high-level dialogue" with party leaders from 120 countries. The program he announces includes the full funding by the Communist Party of China of 15,000 visits from foreign party leaders over the next five years "to deepen exchanges". 
 
 

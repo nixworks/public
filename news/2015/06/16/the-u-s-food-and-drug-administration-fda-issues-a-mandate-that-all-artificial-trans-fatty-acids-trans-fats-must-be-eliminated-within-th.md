@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2015/06/16/the-u-s-food-and-drug-administration-fda-issues-a-mandate-that-all-artificial-trans-fatty-acids-trans-fats-must-be-eliminated-within-th.html)  [JSON](/news/2015/06/16/the-u-s-food-and-drug-administration-fda-issues-a-mandate-that-all-artificial-trans-fatty-acids-trans-fats-must-be-eliminated-within-th.json)  [XML](/news/2015/06/16/the-u-s-food-and-drug-administration-fda-issues-a-mandate-that-all-artificial-trans-fatty-acids-trans-fats-must-be-eliminated-within-th.xml)  
+
 ### [2015-06-16](/news/2015/06/16/index.md)
 
+##### Food and Drug Administration
 # The U.S. Food and Drug Administration (FDA) issues a mandate that all artificial trans fatty acids (trans fats) must be eliminated within three years (2018) from all foods grown, imported to, or sold within the United States. It is the strictest and most final type of ruling, even more so than a black-box warning or a warning to list ingredients, that can be given from the federal agency, which has ultimate jurisdiction over the safety of all food and drug products, public or private, in the United States. The substances occur in processed meats and other foods, and have been repeatedly implicated in atherosclerotic coronary heart disease, diabetes, and some cancers. 
 
 The clock is ticking on trans fat. FDA sets three-year deadline.
 
 
-### Source:
+### Sources:
 
 1. [CNN Money](http://money.cnn.com/2015/06/16/news/companies/fda-artificial-trans-fats-ban/index.html)
 2. [FDA's statement](http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm451237.htm)
 3. [MSN](http://www.msn.com/en-us/foodanddrink/foodnews/fda-bans-artificial-trans-fats-in-united-states-food-supply/ar-BBldG5q?ocid=ansfoodDailyMeal11)
-4. [Washington Post](http://www.washingtonpost.com/news/to-your-health/wp/2015/06/16/the-100-year-old-scientist-who-pushed-the-fda-to-ban-artificial-trans-fat/)
+4. [Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2015/06/16/the-100-year-old-scientist-who-pushed-the-fda-to-ban-artificial-trans-fat/)
 4. [Cover Image](http://i2.cdn.turner.com/money/dam/assets/150616143438-trans-fats-780x439.jpg)
 
 ### Related:

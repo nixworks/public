@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/08/7/according-to-both-pakistani-officials-and-taliban-insurgents-baitullah-mehsud-leader-of-the-pakistani-taliban-was-killed-in-a-drone-stri.html)  [JSON](/news/2009/08/7/according-to-both-pakistani-officials-and-taliban-insurgents-baitullah-mehsud-leader-of-the-pakistani-taliban-was-killed-in-a-drone-stri.json)  [XML](/news/2009/08/7/according-to-both-pakistani-officials-and-taliban-insurgents-baitullah-mehsud-leader-of-the-pakistani-taliban-was-killed-in-a-drone-stri.xml)  
+
 ### [2009-08-7](/news/2009/08/7/index.md)
 
+##### Pakistan
 #  According to both Pakistani officials and Taliban insurgents, Baitullah Mehsud, leader of the Pakistani Taliban, was killed in a drone strike. 
 
 Baitullah Mehsud was blamed for the assassination of Benazir Bhutto and scores of suicide bombings.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2009/08/08/world/asia/08pstan.html)
+1. [New York Times](https://www.nytimes.com/2009/08/08/world/asia/08pstan.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

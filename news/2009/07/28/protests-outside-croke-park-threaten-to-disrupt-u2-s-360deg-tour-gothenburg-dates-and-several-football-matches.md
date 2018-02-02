@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/07/28/protests-outside-croke-park-threaten-to-disrupt-u2-s-360deg-tour-gothenburg-dates-and-several-football-matches.html)  [JSON](/news/2009/07/28/protests-outside-croke-park-threaten-to-disrupt-u2-s-360deg-tour-gothenburg-dates-and-several-football-matches.json)  [XML](/news/2009/07/28/protests-outside-croke-park-threaten-to-disrupt-u2-s-360deg-tour-gothenburg-dates-and-several-football-matches.xml)  
+
 ### [2009-07-28](/news/2009/07/28/index.md)
 
+##### Croke Park
 #  Protests outside Croke Park threaten to disrupt U2's 360 Tour Gothenburg dates and several football matches. 
 
 White House Press Secretary Sean Spicerâ€™s contentious relationship with the media may have finally reached its apex.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=a7emm7SMy7A4)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601085&sid=a7emm7SMy7A4)
 2. [CBC](http://www.cbc.ca/arts/music/story/2009/07/28/u2-concert-protest-noise-delay.html)
 3. [NME](http://www.nme.com/news/u2/46356)
 4. [RTÉ](http://www.rte.ie/sport/gaa/championship/2009/0728/crokepark.html)

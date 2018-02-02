@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/8/an-unknown-odor-persists-in-manhattan-new-york-and-jersey-city-new-jersey-throughout-much-of-the-day-resulting-in-the-evacuation-of-seve.html)  [JSON](/news/2007/01/8/an-unknown-odor-persists-in-manhattan-new-york-and-jersey-city-new-jersey-throughout-much-of-the-day-resulting-in-the-evacuation-of-seve.json)  [XML](/news/2007/01/8/an-unknown-odor-persists-in-manhattan-new-york-and-jersey-city-new-jersey-throughout-much-of-the-day-resulting-in-the-evacuation-of-seve.xml)  
+
 ### [2007-01-8](/news/2007/01/8/index.md)
 
+##### Manhattan
 #  An unknown odor persists in Manhattan, New York and Jersey City, New Jersey throughout much of the day, resulting in the evacuation of several high-rise buildings and the temporary shutdown of PATH train service under the Hudson River. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/US/01/08/nyc.odor/index.html)
 

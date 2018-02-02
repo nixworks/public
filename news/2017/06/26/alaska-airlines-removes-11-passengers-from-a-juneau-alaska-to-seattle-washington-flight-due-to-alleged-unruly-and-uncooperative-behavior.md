@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/26/alaska-airlines-removes-11-passengers-from-a-ju
 
 ### [2017-06-26](/news/2017/06/26/index.md)
 
+##### Alaska Airlines
 # Alaska Airlines removes 11 passengers from a Juneau, Alaska to Seattle, Washington flight, due to alleged unruly and uncooperative behavior. There were no arrests. 
 
 The Alaska Airlines passengers were reportedly not following directions and making inappropriate comments to flight attendants.

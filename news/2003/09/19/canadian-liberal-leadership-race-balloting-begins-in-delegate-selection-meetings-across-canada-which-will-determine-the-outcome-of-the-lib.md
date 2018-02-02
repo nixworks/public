@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/19/canadian-liberal-leadership-race-balloting-begins-in-delegate-selection-meetings-across-canada-which-will-determine-the-outcome-of-the-lib.html)  [JSON](/news/2003/09/19/canadian-liberal-leadership-race-balloting-begins-in-delegate-selection-meetings-across-canada-which-will-determine-the-outcome-of-the-lib.json)  [XML](/news/2003/09/19/canadian-liberal-leadership-race-balloting-begins-in-delegate-selection-meetings-across-canada-which-will-determine-the-outcome-of-the-lib.xml)  
+
 ### [2003-09-19](/news/2003/09/19/index.md)
 
+##### Liberal Party's
 #  Canadian Liberal Leadership Race: Balloting begins in delegate-selection meetings across Canada which will determine the outcome of the Liberal leadership convention this November. Paul Martin is expected to easily secure enough votes to beat opponent Sheila Copps. This all-but guarantees Martin will replace his longtime rival Jean Chretien as the next Prime Minister of Canada.
 
 

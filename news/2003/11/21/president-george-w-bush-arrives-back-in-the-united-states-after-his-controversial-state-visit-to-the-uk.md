@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/21/president-george-w-bush-arrives-back-in-the-united-states-after-his-controversial-state-visit-to-the-uk.html)  [JSON](/news/2003/11/21/president-george-w-bush-arrives-back-in-the-united-states-after-his-controversial-state-visit-to-the-uk.json)  [XML](/news/2003/11/21/president-george-w-bush-arrives-back-in-the-united-states-after-his-controversial-state-visit-to-the-uk.xml)  
+
 ### [2003-11-21](/news/2003/11/21/index.md)
 
+##### George W. Bush
 #  President George W. Bush arrives back in the United States after his controversial State Visit to the UK.
 
 

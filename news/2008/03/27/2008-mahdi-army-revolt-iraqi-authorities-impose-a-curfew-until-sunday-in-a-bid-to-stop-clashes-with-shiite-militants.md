@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/27/2008-mahdi-army-revolt-iraqi-authorities-impose-a-curfew-until-sunday-in-a-bid-to-stop-clashes-with-shiite-militants.html)  [JSON](/news/2008/03/27/2008-mahdi-army-revolt-iraqi-authorities-impose-a-curfew-until-sunday-in-a-bid-to-stop-clashes-with-shiite-militants.json)  [XML](/news/2008/03/27/2008-mahdi-army-revolt-iraqi-authorities-impose-a-curfew-until-sunday-in-a-bid-to-stop-clashes-with-shiite-militants.xml)  
+
 ### [2008-03-27](/news/2008/03/27/index.md)
 
+##### 2008 Mahdi Army revolt
 #  2008 Mahdi Army revolt: Iraqi authorities impose a curfew until Sunday in a bid to stop clashes with Shiite militants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20080327-total-curfew-imposed-baghdad-iraq&navi=MONDE)
 

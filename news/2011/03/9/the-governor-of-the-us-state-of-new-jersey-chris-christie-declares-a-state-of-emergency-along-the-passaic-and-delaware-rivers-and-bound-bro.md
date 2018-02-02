@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/9/the-governor-of-the-us-state-of-new-jersey-chris-christie-declares-a-state-of-emergency-along-the-passaic-and-delaware-rivers-and-bound-bro.html)  [JSON](/news/2011/03/9/the-governor-of-the-us-state-of-new-jersey-chris-christie-declares-a-state-of-emergency-along-the-passaic-and-delaware-rivers-and-bound-bro.json)  [XML](/news/2011/03/9/the-governor-of-the-us-state-of-new-jersey-chris-christie-declares-a-state-of-emergency-along-the-passaic-and-delaware-rivers-and-bound-bro.xml)  
+
 ### [2011-03-9](/news/2011/03/9/index.md)
 
+##### New Jersey Governor
 # The Governor of the US state of New Jersey, Chris Christie declares a state of emergency along the Passaic and Delaware Rivers and Bound Brook in Somerset County in order to prepare for anticipated floods later in the week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Columbus Republic](http://www.therepublic.com/view/story/d149db5723834f14b9362921dc9f5a66/NJ--Flooding-NJ/#)
 

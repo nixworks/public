@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/26/russia-and-japan-schedule-a-sub-cabinet-level-meeting-for-october-in-tokyo-to-discuss-the-kuril-islands-dispute.html)  [JSON](/news/2012/09/26/russia-and-japan-schedule-a-sub-cabinet-level-meeting-for-october-in-tokyo-to-discuss-the-kuril-islands-dispute.json)  [XML](/news/2012/09/26/russia-and-japan-schedule-a-sub-cabinet-level-meeting-for-october-in-tokyo-to-discuss-the-kuril-islands-dispute.xml)  
+
 ### [2012-09-26](/news/2012/09/26/index.md)
 
+##### Russia
 # Russia and Japan schedule a sub-cabinet level meeting for October in Tokyo to discuss the Kuril Islands dispute. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jiji Press via ''Yomiuri Shimbun](http://www.yomiuri.co.jp/dy/national/T120926003622.htm)
 

@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2005/01/14/israeliapalestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.html)  [JSON](/news/2005/01/14/israeliapalestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.json)  [XML](/news/2005/01/14/israeliapalestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.xml)  
+
 ### [2005-01-14](/news/2005/01/14/index.md)
 
+##### Israeli-Palestinian conflict
 #  Israeli-Palestinian conflict: The Gaza Strip has been completely sealed off by Israel, following yesterday's events which saw the first major attacks by Palestinians on Israeli civilians since Mahmoud Abbas was elected, and followed several Israeli raids in the Gaza Strip and the West Bank. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/4B23CBA7-926A-4935-B870-61987A9694DD.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4174687.stm)
+
+### Changes:
+
+1. [ Israeli-Palestinian conflict: The Gaza Strip has been completely sealed off by Israel, following yesterday's events which saw the first major attacks by Palestinians on Israeli civilians since Mahmoud Abbas was elected, and followed several Israeli raids in the Gaza Strip and the West Bank. ](/news/2005/01/14/israeli-palestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.md) _2017-08-27 03:15:32 (First version)_
+1. [ Israeli-Palestinian conflict: The Gaza Strip has been completely sealed off by Israel, following yesterday's events which saw the first major attacks by Palestinians on Israeli civilians since Mahmoud Abbas was elected, and followed several Israeli raids in the Gaza Strip and the West Bank. ](/news/2005/01/14/israeliapalestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Hamas' leader in Gaza, Ismail Haniyeh, declares an "Intifada" against Israel in the West Bank and says, "Gaza will fulfil its role in the Jerusalem intifada and it is more than ready for confrontation" with Israel. Over 20 stabbing attacks have happened in the last 24 hours in Israel. ](/news/2015/10/9/hamas-leader-in-gaza-ismail-haniyeh-declares-an-intifada-against-israel-in-the-west-bank-and-says-gaza-will-fulfil-its-role-in-the-je.md) _Context: Gaza Strip, Israel, Israeli-Palestinian conflict, West Bank_
 4. [Palestinians carried out three stabbing attacks against Israeli citizens and police in Jerusalem today with two of the attackers shot dead as the wave of violence continues, police said. There have been a series of stabbing attacks in Israel and the West Bank in recent days that have wounded several Israelis; nine attackers have been shot dead. Also, at least 16 Palestinians have been killed by Israeli forces during-after violent demonstrations in the West Bank and Gaza. ](/news/2015/10/12/palestinians-carried-out-three-stabbing-attacks-against-israeli-citizens-and-police-in-jerusalem-today-with-two-of-the-attackers-shot-dead-a.md) _Context: Gaza Strip, Israel, Palestinians, West Bank_
 5. [Israeli airstrikes targeting Hamas weapons facilities in the Gaza Strip result in an explosion that collapsed a nearby house, killing a 30-year old pregnant Palestinian woman and her two-year old daughter. Four others were wounded, including the woman's husband and son, the Gaza Health Ministry said. The Israeli military said the airstrike was in response to Saturday's pair of rocket launches from Gaza at Israel, as well as two large riots that succeeded in breaching the border fence. ](/news/2015/10/11/israeli-airstrikes-targeting-hamas-weapons-facilities-in-the-gaza-strip-result-in-an-explosion-that-collapsed-a-nearby-house-killing-a-30-y.md) _Context: Gaza Strip, Israel, Israeli-Palestinian conflict, Palestinians_
-
-### Changes:
-
-1. [ Israeli-Palestinian conflict: The Gaza Strip has been completely sealed off by Israel, following yesterday's events which saw the first major attacks by Palestinians on Israeli civilians since Mahmoud Abbas was elected, and followed several Israeli raids in the Gaza Strip and the West Bank. ](/news/2005/01/14/israeli-palestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.md) _2017-08-27 03:15:32 (First version)_
-1. [ Israeli-Palestinian conflict: The Gaza Strip has been completely sealed off by Israel, following yesterday's events which saw the first major attacks by Palestinians on Israeli civilians since Mahmoud Abbas was elected, and followed several Israeli raids in the Gaza Strip and the West Bank. ](/news/2005/01/14/israeliapalestinian-conflict-the-gaza-strip-has-been-completely-sealed-off-by-israel-following-yesterday-s-events-which-saw-the-first-m.md) _(Current version)_

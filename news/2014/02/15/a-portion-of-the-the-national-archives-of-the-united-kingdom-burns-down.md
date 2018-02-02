@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/15/a-portion-of-the-the-national-archives-of-the-united-kingdom-burns-down.html)  [JSON](/news/2014/02/15/a-portion-of-the-the-national-archives-of-the-united-kingdom-burns-down.json)  [XML](/news/2014/02/15/a-portion-of-the-the-national-archives-of-the-united-kingdom-burns-down.xml)  
+
 ### [2014-02-15](/news/2014/02/15/index.md)
 
+##### The National Archives of the United Kingdom
 # A portion of the The National Archives of the United Kingdom burns down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-26208830)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/73008000/jpg/_73008526_kewfire.jpg)

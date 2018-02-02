@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/10/ali-haider-gilani-the-son-of-former-prime-minis
 
 ### [2016-05-10](/news/2016/05/10/index.md)
 
+##### War in Afghanistan (2015-present)
 # Ali Haider Gilani, the son of former Prime Minister of Pakistan Yousaf Raza Gilani, is rescued in a joint operation by U.S. and Afghan forces three years after he was kidnapped by suspected Taliban militants. 
 
 US and Afghan forces find the kidnapped son of a former Pakistani prime minister alive in an operation in Afghanistan.

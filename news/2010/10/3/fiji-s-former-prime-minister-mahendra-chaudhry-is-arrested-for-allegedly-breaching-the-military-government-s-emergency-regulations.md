@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/3/fiji-s-former-prime-minister-mahendra-chaudhry-is-arrested-for-allegedly-breaching-the-military-government-s-emergency-regulations.html)  [JSON](/news/2010/10/3/fiji-s-former-prime-minister-mahendra-chaudhry-is-arrested-for-allegedly-breaching-the-military-government-s-emergency-regulations.json)  [XML](/news/2010/10/3/fiji-s-former-prime-minister-mahendra-chaudhry-is-arrested-for-allegedly-breaching-the-military-government-s-emergency-regulations.xml)  
+
 ### [2010-10-3](/news/2010/10/3/index.md)
 
+##### Fiji
 # Fiji's former prime minister, Mahendra Chaudhry, is arrested for allegedly breaching the military government's emergency regulations. 
 
 Wellington, Oct 3 (DPA) Former Fiji prime minister Mahendra Chaudhry has been arrested and charged with breaching public emergency regulations which bar...
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/201010393351576386.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11460749)

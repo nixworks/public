@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/10/labor-and-hatnuah-agree-to-run-in-a-joint-list-for-the-march-2015-elections-in-israel-in-a-bid-to-establish-a-large-center-left-political-bl.html)  [JSON](/news/2014/12/10/labor-and-hatnuah-agree-to-run-in-a-joint-list-for-the-march-2015-elections-in-israel-in-a-bid-to-establish-a-large-center-left-political-bl.json)  [XML](/news/2014/12/10/labor-and-hatnuah-agree-to-run-in-a-joint-list-for-the-march-2015-elections-in-israel-in-a-bid-to-establish-a-large-center-left-political-bl.xml)  
+
 ### [2014-12-10](/news/2014/12/10/index.md)
 
+##### Labor
 # Labor and Hatnuah agree to run in a joint list for the March 2015 elections in Israel in a bid to establish a large center-left political bloc and remove Prime Minister Benjamin Netanyahu from power; Isaac Herzog and Tzipi Livni, should they win the elections, will share the prime ministership on rotation. 
 
 Labor and Hatnua leaders announce deal to run joint list in upcoming elections; &#8216;only together can we win,&#8217; Herzog says 
 
 
-### Source:
+### Sources:
 
 1. [The Times of Israel](http://www.timesofisrael.com/herzog-livni-join-forces-to-rotate-leadership/#ixzz3Lbx8cEZq)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/12/F141210ZZ42-e1418239874516.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/11/baidu-baike-a-collaborative-online-encyclopedia-is-launched-in-people-s-republic-of-china-by-baidu-com-modelled-on-wikipedia-but-heavily.html)  [JSON](/news/2006/05/11/baidu-baike-a-collaborative-online-encyclopedia-is-launched-in-people-s-republic-of-china-by-baidu-com-modelled-on-wikipedia-but-heavily.json)  [XML](/news/2006/05/11/baidu-baike-a-collaborative-online-encyclopedia-is-launched-in-people-s-republic-of-china-by-baidu-com-modelled-on-wikipedia-but-heavily.xml)  
+
 ### [2006-05-11](/news/2006/05/11/index.md)
 
+##### Baidu Baike
 #  Baidu Baike, a collaborative online encyclopedia, is launched in People's Republic of China by Baidu.com, modelled on Wikipedia but heavily self censored. Wikipedia is largely inaccessible without a proxy in China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/low/world/asia-pacific/4761301.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/18/noaa-states-that-2011-is-already-one-of-the-most-extreme-weather-years-on-record.html)  [JSON](/news/2011/06/18/noaa-states-that-2011-is-already-one-of-the-most-extreme-weather-years-on-record.json)  [XML](/news/2011/06/18/noaa-states-that-2011-is-already-one-of-the-most-extreme-weather-years-on-record.xml)  
+
 ### [2011-06-18](/news/2011/06/18/index.md)
 
+##### NOAA
 # NOAA states that 2011 is already one of the most extreme weather years on record. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Scientific American](http://www.scientificamerican.com/article.cfm?id=noaa-makes-2011-most-extreme-weather-year)
 

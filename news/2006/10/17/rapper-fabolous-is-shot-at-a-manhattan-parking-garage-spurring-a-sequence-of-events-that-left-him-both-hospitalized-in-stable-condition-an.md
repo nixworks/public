@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/10/17/rapper-fabolous-is-shot-at-a-manhattan-parking-garage-spurring-a-sequence-of-events-that-left-him-both-hospitalized-in-stable-condition-an.html)  [JSON](/news/2006/10/17/rapper-fabolous-is-shot-at-a-manhattan-parking-garage-spurring-a-sequence-of-events-that-left-him-both-hospitalized-in-stable-condition-an.json)  [XML](/news/2006/10/17/rapper-fabolous-is-shot-at-a-manhattan-parking-garage-spurring-a-sequence-of-events-that-left-him-both-hospitalized-in-stable-condition-an.xml)  
+
 ### [2006-10-17](/news/2006/10/17/index.md)
 
+##### Rapper
 #  Rapper Fabolous is shot at a Manhattan parking garage, spurring a sequence of events that left him both hospitalized in stable condition and under arrest.
 
 

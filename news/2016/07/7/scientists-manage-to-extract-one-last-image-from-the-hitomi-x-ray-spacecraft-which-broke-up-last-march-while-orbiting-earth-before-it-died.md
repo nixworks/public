@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/7/scientists-manage-to-extract-one-last-image-from
 
 ### [2016-07-7](/news/2016/07/7/index.md)
 
+##### Hitomi x-ray spacecraft
 # Scientists manage to extract one last image from the Hitomi x-ray spacecraft, which broke up last March while orbiting Earth. Before it died, the spacecraft captured an image which measured the X-ray activity of the Perseus cluster. 
 
 A doomed Japanese satellite managed to capture a spectacular view of a cluster of galaxies 250 million light years away just before it died, scientists reveal.

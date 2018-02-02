@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/20/police-in-nepal-detain-more-than-700-tibetan-exiles-protesting-outside-the-chinese-embassy-and-arrest-three-activists-for-alleged-anti-chin.html)  [JSON](/news/2008/06/20/police-in-nepal-detain-more-than-700-tibetan-exiles-protesting-outside-the-chinese-embassy-and-arrest-three-activists-for-alleged-anti-chin.json)  [XML](/news/2008/06/20/police-in-nepal-detain-more-than-700-tibetan-exiles-protesting-outside-the-chinese-embassy-and-arrest-three-activists-for-alleged-anti-chin.xml)  
+
 ### [2008-06-20](/news/2008/06/20/index.md)
 
+##### Nepal
 #  Police in Nepal detain more than 700 Tibetan exiles protesting outside the Chinese embassy and arrest three activists for alleged anti-China activities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5h3hd56Gz_PGtyu79IshP6ZPNsz5A)
 

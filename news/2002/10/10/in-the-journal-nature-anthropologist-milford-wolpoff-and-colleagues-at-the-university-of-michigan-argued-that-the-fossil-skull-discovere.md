@@ -1,9 +1,18 @@
+
+Formats: [HTML](/news/2002/10/10/in-the-journal-nature-anthropologist-milford-wolpoff-and-colleagues-at-the-university-of-michigan-argued-that-the-fossil-skull-discovere.html)  [JSON](/news/2002/10/10/in-the-journal-nature-anthropologist-milford-wolpoff-and-colleagues-at-the-university-of-michigan-argued-that-the-fossil-skull-discovere.json)  [XML](/news/2002/10/10/in-the-journal-nature-anthropologist-milford-wolpoff-and-colleagues-at-the-university-of-michigan-argued-that-the-fossil-skull-discovere.xml)  
+
 ### [2002-10-10](/news/2002/10/10/index.md)
 
+##### ''Nature''
 #  In the journal "Nature", anthropologist Milford Wolpoff and colleagues at the University of Michigan argued that the fossil skull discovered in Chad in July is not that of an early human, but of an ape. 
 
 
 
+
+### Changes:
+
+1. [ In the journal ''Nature'', anthropologist Milford Wolpoff and colleagues at the University of Michigan argued that the fossil skull discovered in Chad in July is not that of an early human, but of an ape. ](/news/2002/10/10/in-the-journal-nature-anthropologist-milford-wolpoff-and-colleagues-at-the-university-of-michigan-argued-that-the-fossil-skull-discove.md) _2017-08-25 03:15:15 (First version)_
+1. [ In the journal "Nature", anthropologist Milford Wolpoff and colleagues at the University of Michigan argued that the fossil skull discovered in Chad in July is not that of an early human, but of an ape. ](/news/2002/10/10/in-the-journal-nature-anthropologist-milford-wolpoff-and-colleagues-at-the-university-of-michigan-argued-that-the-fossil-skull-discovere.md) _(Current version)_
 
 ### Related:
 
@@ -12,8 +21,3 @@
 3. [The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. ](/news/2017/09/24/the-white-house-announces-that-citizens-of-north-korea-venezuela-and-chad-will-be-restricted-from-travelling-to-the-united-states-along-w.md) _Context: Chad_
 4. [The Extraordinary African Chambers tribunal in Dakar, Senegal, upholds its conviction of former Chadian president Hissene Habre for crimes against humanity, but acquits him of rape. ](/news/2017/04/27/the-extraordinary-african-chambers-tribunal-in-dakar-senegal-upholds-its-conviction-of-former-chadian-president-hissa-ne-habra-c-for-crimes.md) _Context: Chad_
 5. [Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. ](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himself-again-at-a-brussels-court-against-accusations-of-arms-trafficking-to-libya-chad-guinea-b.md) _Context: Chad_
-
-### Changes:
-
-1. [ In the journal ''Nature'', anthropologist Milford Wolpoff and colleagues at the University of Michigan argued that the fossil skull discovered in Chad in July is not that of an early human, but of an ape. ](/news/2002/10/10/in-the-journal-nature-anthropologist-milford-wolpoff-and-colleagues-at-the-university-of-michigan-argued-that-the-fossil-skull-discove.md) _2017-08-25 03:15:15 (First version)_
-1. [ In the journal "Nature", anthropologist Milford Wolpoff and colleagues at the University of Michigan argued that the fossil skull discovered in Chad in July is not that of an early human, but of an ape. ](/news/2002/10/10/in-the-journal-nature-anthropologist-milford-wolpoff-and-colleagues-at-the-university-of-michigan-argued-that-the-fossil-skull-discovere.md) _(Current version)_

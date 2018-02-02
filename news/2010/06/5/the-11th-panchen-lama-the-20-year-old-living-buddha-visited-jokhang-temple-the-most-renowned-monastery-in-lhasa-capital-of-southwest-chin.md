@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/5/the-11th-panchen-lama-the-20-year-old-living-buddha-visited-jokhang-temple-the-most-renowned-monastery-in-lhasa-capital-of-southwest-chin.html)  [JSON](/news/2010/06/5/the-11th-panchen-lama-the-20-year-old-living-buddha-visited-jokhang-temple-the-most-renowned-monastery-in-lhasa-capital-of-southwest-chin.json)  [XML](/news/2010/06/5/the-11th-panchen-lama-the-20-year-old-living-buddha-visited-jokhang-temple-the-most-renowned-monastery-in-lhasa-capital-of-southwest-chin.xml)  
+
 ### [2010-06-5](/news/2010/06/5/index.md)
 
+##### 11th Panchen Lama
 # The 11th Panchen Lama, the 20-year-old living Buddha visited Jokhang Temple, the most renowned monastery in Lhasa, capital of southwest China's Tibet Autonomous Region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People Daily](http://english.peopledaily.com.cn/90001/90782/90873/7013655.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/culture/2010-06/05/c_13334677.htm)

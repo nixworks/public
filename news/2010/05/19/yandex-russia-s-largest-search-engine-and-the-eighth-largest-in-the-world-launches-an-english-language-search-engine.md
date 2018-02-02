@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/19/yandex-russia-s-largest-search-engine-and-the-eighth-largest-in-the-world-launches-an-english-language-search-engine.html)  [JSON](/news/2010/05/19/yandex-russia-s-largest-search-engine-and-the-eighth-largest-in-the-world-launches-an-english-language-search-engine.json)  [XML](/news/2010/05/19/yandex-russia-s-largest-search-engine-and-the-eighth-largest-in-the-world-launches-an-english-language-search-engine.xml)  
+
 ### [2010-05-19](/news/2010/05/19/index.md)
 
+##### Yandex
 # Yandex, Russia's largest search engine and the eighth-largest in the world, launches an English language search engine. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/russia/20100519/159073419.html)
 2. [RT](http://rt.com/Business/2010-05-19/yandex-opts-latin-script.html)
@@ -14,7 +18,7 @@
 ### Related:
 
 1. [The world's 8th-largest search engine, Yandex, expands into Turkey, marking its first venture outside the Commonwealth of Independent States. ](/news/2011/09/20/the-world-s-8th-largest-search-engine-yandex-expands-into-turkey-marking-its-first-venture-outside-the-commonwealth-of-independent-states.md) _Context: Yandex, search engine_
-2. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Russia_
-3. [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md) _Context: Russia_
-4. [A train hits a bus on a crossing in Vladimir, Russia, killing at least 19 people on the bus. No train passengers were injured. ](/news/2017/10/6/a-train-hits-a-bus-on-a-crossing-in-vladimir-russia-killing-at-least-19-people-on-the-bus-no-train-passengers-were-injured.md) _Context: Russia_
-5. [Alleged Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer. The entrance to the computer was speculated to have possibly been through an installed Kaspersky Lab antivirus. U.S. rules governing federal computers now ban installation of Kaspersky Lab software. ](/news/2017/10/5/alleged-russian-government-backed-hackers-stole-highly-classified-u-s-cyber-secrets-in-2015-from-the-national-security-agency-after-a-contr.md) _Context: Russia_
+2. [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md) _Context: English_
+3. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_
+4. [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md) _Context: Russia_
+5. [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic, after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md) _Context: Russia_

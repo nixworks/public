@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/19/cargo-ship-ms-rocknes-with-a-crew-of-30-including-the-pilot-capsizes-near-bergen-norway-at-1630-local-time-1530-utc-two-people-are-re.html)  [JSON](/news/2004/01/19/cargo-ship-ms-rocknes-with-a-crew-of-30-including-the-pilot-capsizes-near-bergen-norway-at-1630-local-time-1530-utc-two-people-are-re.json)  [XML](/news/2004/01/19/cargo-ship-ms-rocknes-with-a-crew-of-30-including-the-pilot-capsizes-near-bergen-norway-at-1630-local-time-1530-utc-two-people-are-re.xml)  
+
 ### [2004-01-19](/news/2004/01/19/index.md)
 
+##### MS ''Rocknes''
 #  Cargo ship MS "Rocknes" with a crew of 30 including the pilot capsizes near Bergen, Norway at 1630 local time (1530 UTC). Two people are reported dead and 24 still missing the morning after the accident. The ship was carrying a heavy load of rocks for use as shielding on top of a gas pipeline to Emden, Germany, from the Norwegian Ormen Lange offshore gas field.
 
 

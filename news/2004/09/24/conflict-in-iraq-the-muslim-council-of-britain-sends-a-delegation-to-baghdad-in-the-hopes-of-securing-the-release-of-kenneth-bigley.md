@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/24/conflict-in-iraq-the-muslim-council-of-britain-sends-a-delegation-to-baghdad-in-the-hopes-of-securing-the-release-of-kenneth-bigley.html)  [JSON](/news/2004/09/24/conflict-in-iraq-the-muslim-council-of-britain-sends-a-delegation-to-baghdad-in-the-hopes-of-securing-the-release-of-kenneth-bigley.json)  [XML](/news/2004/09/24/conflict-in-iraq-the-muslim-council-of-britain-sends-a-delegation-to-baghdad-in-the-hopes-of-securing-the-release-of-kenneth-bigley.xml)  
+
 ### [2004-09-24](/news/2004/09/24/index.md)
 
+##### rebel-held
 #  Conflict in Iraq: The Muslim Council of Britain sends a delegation to Baghdad in the hopes of securing the release of Kenneth Bigley. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/3688076.stm)
 

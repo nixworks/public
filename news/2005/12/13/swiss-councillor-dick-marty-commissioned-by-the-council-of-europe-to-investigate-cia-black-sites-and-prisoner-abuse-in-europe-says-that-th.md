@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/13/swiss-councillor-dick-marty-commissioned-by-the-council-of-europe-to-investigate-cia-black-sites-and-prisoner-abuse-in-europe-says-that-th.html)  [JSON](/news/2005/12/13/swiss-councillor-dick-marty-commissioned-by-the-council-of-europe-to-investigate-cia-black-sites-and-prisoner-abuse-in-europe-says-that-th.json)  [XML](/news/2005/12/13/swiss-councillor-dick-marty-commissioned-by-the-council-of-europe-to-investigate-cia-black-sites-and-prisoner-abuse-in-europe-says-that-th.xml)  
+
 ### [2005-12-13](/news/2005/12/13/index.md)
 
+##### Swiss Councillor
 #  Swiss Councillor Dick Marty, commissioned by the Council of Europe to investigate CIA black sites and prisoner abuse in Europe says that the CIA has "disregarded all standards of legality". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/europe/12/13/cia.europe.ap/)
 2. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/3521292.html)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/06/21/the-government-of-chad-demands-that-the-security-council-act-to-stop-janjaweed-and-ufdc-incursions-into-chad.html)  [JSON](/news/2006/06/21/the-government-of-chad-demands-that-the-security-council-act-to-stop-janjaweed-and-ufdc-incursions-into-chad.json)  [XML](/news/2006/06/21/the-government-of-chad-demands-that-the-security-council-act-to-stop-janjaweed-and-ufdc-incursions-into-chad.xml)  
+
 ### [2006-06-21](/news/2006/06/21/index.md)
 
+##### second Dby administration
 #  The Government of Chad demands that the Security Council act to stop Janjaweed and UFDC incursions into Chad. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://news.yahoo.com/s/ap/20060621/ap_on_re_af/un_chad_sudan_1)
+1. [Reuters](https://news.yahoo.com/s/ap/20060621/ap_on_re_af/un_chad_sudan_1)
 
 ### Related:
 

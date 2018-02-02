@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/25/a-court-in-pakistan-charges-seven-suspects-in-connection-with-the-2008-terrorist-attacks-in-mumbai.html)  [JSON](/news/2009/11/25/a-court-in-pakistan-charges-seven-suspects-in-connection-with-the-2008-terrorist-attacks-in-mumbai.json)  [XML](/news/2009/11/25/a-court-in-pakistan-charges-seven-suspects-in-connection-with-the-2008-terrorist-attacks-in-mumbai.xml)  
+
 ### [2009-11-25](/news/2009/11/25/index.md)
 
+##### Pakistan
 #  A court in Pakistan charges seven suspects in connection with the 2008 terrorist attacks in Mumbai. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ikO-XtZvAb6Jm5Vy5QonllOpM-sA)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/20091125103013914977.html)

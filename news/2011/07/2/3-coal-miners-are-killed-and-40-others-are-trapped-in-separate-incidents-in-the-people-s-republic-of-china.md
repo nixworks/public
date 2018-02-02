@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/2/3-coal-miners-are-killed-and-40-others-are-trapped-in-separate-incidents-in-the-people-s-republic-of-china.html)  [JSON](/news/2011/07/2/3-coal-miners-are-killed-and-40-others-are-trapped-in-separate-incidents-in-the-people-s-republic-of-china.json)  [XML](/news/2011/07/2/3-coal-miners-are-killed-and-40-others-are-trapped-in-separate-incidents-in-the-people-s-republic-of-china.xml)  
+
 ### [2011-07-2](/news/2011/07/2/index.md)
 
+##### coal mine
 # 3 coal miners are killed and 40 others are trapped in separate incidents in the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Newsday - ''sub. req.](http://www.newsday.com/news/nation/40-miners-trapped-3-dead-in-china-s-disasters-1.3000085)
 2. [China Daily](http://www.chinadaily.com.cn/china/2011-07/03/content_12823951.htm)

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/11/17/u-s-president-barack-obama-continues-his-first-trip-to-china-and-meets-with-chinese-president-hu-jintao-and-premier-wen-jiabao.html)  [JSON](/news/2009/11/17/u-s-president-barack-obama-continues-his-first-trip-to-china-and-meets-with-chinese-president-hu-jintao-and-premier-wen-jiabao.json)  [XML](/news/2009/11/17/u-s-president-barack-obama-continues-his-first-trip-to-china-and-meets-with-chinese-president-hu-jintao-and-premier-wen-jiabao.xml)  
+
 ### [2009-11-17](/news/2009/11/17/index.md)
 
+##### Barack Obama
 #  U.S. President Barack Obama continues his first trip to China and meets with Chinese President Hu Jintao and Premier Wen Jiabao. 
 
 U.S. President Barack Obama was set to continue his effort to court China while cajoling it on economic strains on Wednesday, with the final day of his visit featuring talks with Chinese Premier Wen Jiabao.
 
 
-### Source:
+### Sources:
 
 1. [Asia Times Online](http://www.atimes.com/atimes/China/KK19Ad02.html)
-2. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE5AE15L20091117)
+2. [Reuters](https://www.reuters.com/article/newsOne/idUSTRE5AE15L20091117)
 3. [Xinhua](http://news.xinhuanet.com/english/2009-11/17/content_12478330.htm)
-3. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20091117&t=2&i=13533212&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-17T220354Z_01_BTRE5AG08QU00_RTROPTP_0_OBAMA-CHINA)
+3. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20091117&t=2&i=13533212&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-11-17T220354Z_01_BTRE5AG08QU00_RTROPTP_0_OBAMA-CHINA)
 
 ### Related:
 

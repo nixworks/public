@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/13/the-house-in-tutshill-near-chepstow-where-j-k-rowling-grew-up-is-for-sale.html)  [JSON](/news/2011/07/13/the-house-in-tutshill-near-chepstow-where-j-k-rowling-grew-up-is-for-sale.json)  [XML](/news/2011/07/13/the-house-in-tutshill-near-chepstow-where-j-k-rowling-grew-up-is-for-sale.xml)  
+
 ### [2011-07-13](/news/2011/07/13/index.md)
 
+##### Tutshill
 # The house in Tutshill near Chepstow where J. K. Rowling grew up is for sale. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/books/2011/jul/13/harry-potter-jk-rowling-home)
 

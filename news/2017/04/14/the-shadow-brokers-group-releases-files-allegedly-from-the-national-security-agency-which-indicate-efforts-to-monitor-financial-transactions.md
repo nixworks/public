@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/14/the-shadow-brokers-group-releases-files-alleged
 
 ### [2017-04-14](/news/2017/04/14/index.md)
 
+##### Global surveillance disclosures (2013-present)
 # The Shadow Brokers group releases files allegedly from the National Security Agency which indicate efforts to monitor financial transactions made through the Society for Worldwide Interbank Financial Telecommunication. 
 
  Hackers released documents and files on Friday that cybersecurity experts said indicated the U.S. National Security Agency had accessed the SWIFT interbank mes

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/28/a-building-under-construction-in-the-indian-city-of-chennai-collapses-with-at-least-one-death-and-dozens-trapped.html)  [JSON](/news/2014/06/28/a-building-under-construction-in-the-indian-city-of-chennai-collapses-with-at-least-one-death-and-dozens-trapped.json)  [XML](/news/2014/06/28/a-building-under-construction-in-the-indian-city-of-chennai-collapses-with-at-least-one-death-and-dozens-trapped.xml)  
+
 ### [2014-06-28](/news/2014/06/28/index.md)
 
+##### Chennai
 # A building under construction in the Indian city of Chennai collapses, with at least one death and dozens trapped. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via WOKO TV](http://www.wokv.com/ap/ap/top-news/2-buildings-topple-in-india-killing-at-least-11/ngT4L/)
 

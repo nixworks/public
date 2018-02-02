@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devast
 
 ### [2016-12-3](/news/2016/12/3/index.md)
 
+##### 2012 Pakistan garment factory fires
 # A man believed responsible for starting a devastating factory fire in Karachi has been arrested in Bangkok. 
 
 
@@ -19,8 +20,8 @@ Formats: [HTML](/news/2016/12/3/a-man-believed-responsible-for-starting-a-devast
 
 ### Related:
 
-1. [Michelin unveils its first Michelin Guide for Bangkok, Thailand, which is the sixth city in Asia and second in Southeast Asia after Singapore. ](/news/2017/12/6/michelin-unveils-its-first-michelin-guide-for-bangkok-thailand-which-is-the-sixth-city-in-asia-and-second-in-southeast-asia-after-singapor.md) _Context: Bangkok_
-2. [Severe clear-air turbulence on an Aeroflot flight from Sheremetyevo International Airport, Moscow to Suvarnabhumi Airport, Bangkok, subjects 27 passengers to injuries including bone fractures. ](/news/2017/05/1/severe-clear-air-turbulence-on-an-aeroflot-flight-from-sheremetyevo-international-airport-moscow-to-suvarnabhumi-airport-bangkok-subjects.md) _Context: Bangkok_
-3. [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md) _Context: Karachi_
-4. [At least 12 people are killed and 75 others injured as a fire erupts in Karachi's Regent Plaza Hotel. ](/news/2016/12/5/at-least-12-people-are-killed-and-75-others-injured-as-a-fire-erupts-in-karachi-s-regent-plaza-hotel.md) _Context: Karachi_
-5. [At least 22 people have been killed and 65 injured following a collision of the Bahauddin Zakaria Express with a stationary train at Juma Goth Train station, Karachi, Pakistan. ](/news/2016/11/3/at-least-22-people-have-been-killed-and-65-injured-following-a-collision-of-the-bahauddin-zakaria-express-with-a-stationary-train-at-juma-go.md) _Context: Karachi_
+1. [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2018/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md) _Context: Karachi_
+2. [Michelin unveils its first Michelin Guide for Bangkok, Thailand, which is the sixth city in Asia and second in Southeast Asia after Singapore. ](/news/2017/12/6/michelin-unveils-its-first-michelin-guide-for-bangkok-thailand-which-is-the-sixth-city-in-asia-and-second-in-southeast-asia-after-singapor.md) _Context: Bangkok_
+3. [Severe clear-air turbulence on an Aeroflot flight from Sheremetyevo International Airport, Moscow to Suvarnabhumi Airport, Bangkok, subjects 27 passengers to injuries including bone fractures. ](/news/2017/05/1/severe-clear-air-turbulence-on-an-aeroflot-flight-from-sheremetyevo-international-airport-moscow-to-suvarnabhumi-airport-bangkok-subjects.md) _Context: Bangkok_
+4. [An Afghan diplomat is shot dead at the Afghan consulate in Karachi, Pakistan. ](/news/2017/02/6/an-afghan-diplomat-is-shot-dead-at-the-afghan-consulate-in-karachi-pakistan.md) _Context: Karachi_
+5. [At least 12 people are killed and 75 others injured as a fire erupts in Karachi's Regent Plaza Hotel. ](/news/2016/12/5/at-least-12-people-are-killed-and-75-others-injured-as-a-fire-erupts-in-karachi-s-regent-plaza-hotel.md) _Context: Karachi_

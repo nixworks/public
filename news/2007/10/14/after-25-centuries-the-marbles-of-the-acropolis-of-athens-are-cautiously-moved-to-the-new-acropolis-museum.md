@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/14/after-25-centuries-the-marbles-of-the-acropolis-of-athens-are-cautiously-moved-to-the-new-acropolis-museum.html)  [JSON](/news/2007/10/14/after-25-centuries-the-marbles-of-the-acropolis-of-athens-are-cautiously-moved-to-the-new-acropolis-museum.json)  [XML](/news/2007/10/14/after-25-centuries-the-marbles-of-the-acropolis-of-athens-are-cautiously-moved-to-the-new-acropolis-museum.xml)  
+
 ### [2007-10-14](/news/2007/10/14/index.md)
 
+##### Acropolis of Athens
 #  After 25 centuries, the marbles of the Acropolis of Athens are cautiously moved to the New Acropolis Museum. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/7044407.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/21/in-xinmi-china-a-gas-explosion-in-a-coal-mine-kills-62-people-86-are-still-missing.html)  [JSON](/news/2004/10/21/in-xinmi-china-a-gas-explosion-in-a-coal-mine-kills-62-people-86-are-still-missing.json)  [XML](/news/2004/10/21/in-xinmi-china-a-gas-explosion-in-a-coal-mine-kills-62-people-86-are-still-missing.xml)  
+
 ### [2004-10-21](/news/2004/10/21/index.md)
 
+##### Xinmi
 #  In Xinmi, China, a gas explosion in a coal mine kills 62 people; 86 are still missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3761680.stm)
 2. [Xinhuanet](http://news.xinhuanet.com/english/2004-10/22/content_2123779.htm)

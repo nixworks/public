@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/13/scientists-discover-panthera-blytheae-in-tibet-the-oldest-big-cat-fossil-ever-discovered.html)  [JSON](/news/2013/11/13/scientists-discover-panthera-blytheae-in-tibet-the-oldest-big-cat-fossil-ever-discovered.json)  [XML](/news/2013/11/13/scientists-discover-panthera-blytheae-in-tibet-the-oldest-big-cat-fossil-ever-discovered.xml)  
+
 ### [2013-11-13](/news/2013/11/13/index.md)
 
+##### Panthera blytheae
 # Scientists discover "Panthera blytheae" in Tibet, the oldest big cat fossil ever discovered. 
 
 A sister species of the snow leopard roamed the plateau of Tibet nearly 5 million years ago.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/science/sciencenow/la-sci-sn-big-cat-fossil-20131112,0,4121925.story?track=rss#axzz2kVZNJ8QH)
 1. [Cover Image](http://www.trbimg.com/img-5282c7ba/turbine/la-sci-sn-big-cat-fossil-20131112)

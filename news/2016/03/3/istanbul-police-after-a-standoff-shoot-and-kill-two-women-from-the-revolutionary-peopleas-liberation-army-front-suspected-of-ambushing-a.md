@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/3/istanbul-police-after-a-standoff-shoot-and-kill-
 
 ### [2016-03-3](/news/2016/03/3/index.md)
 
+##### DHKP/C insurgency in Turkey
 # Istanbul police, after a standoff, shoot and kill two women from the Revolutionary People's Liberation Army-Front suspected of ambushing a riot police station in the Bayrampasa neighborhood on the city's European side. Two policemen were injured. 
 
 
@@ -23,4 +24,4 @@ Formats: [HTML](/news/2016/03/3/istanbul-police-after-a-standoff-shoot-and-kill-
 2. [A pipe bomb explodes on a Bayrampasa overpass near the city's central metro station in suburban Istanbul, Turkey leaving five people injured. ](/news/2015/12/1/a-pipe-bomb-explodes-on-a-bayrampaaa-overpass-near-the-city-s-central-metro-station-in-suburban-istanbul-turkey-leaving-five-people-injure.md) _Context: Bayrampasa, Istanbul_
 3. [Turkish police conduct pre-dawn raids on 17 locations in Istanbul and detain some 50 people suspected of being linked to the Islamic State group, according to Turkey's state-run news agency. ](/news/2015/10/18/turkish-police-conduct-pre-dawn-raids-on-17-locations-in-istanbul-and-detain-some-50-people-suspected-of-being-linked-to-the-islamic-state-g.md) _Context: Istanbul, Turkish police_
 4. [The General Directorate of Security reports an explosion in Istanbul, Turkey, most likely caused by a bomb, with a number of people injured. ](/news/2011/05/26/the-general-directorate-of-security-reports-an-explosion-in-istanbul-turkey-most-likely-caused-by-a-bomb-with-a-number-of-people-injured.md) _Context: Istanbul, Turkish police_
-5. [The 450 km-long Turkish March for Justice concludes in Istanbul at a mass rally attended by hundreds of thousands of people. ](/news/2017/07/9/the-450-km-long-turkish-march-for-justice-concludes-in-istanbul-at-a-mass-rally-attended-by-hundreds-of-thousands-of-people.md) _Context: Istanbul_
+5. [Turkey's state news agency announces that prosecutors in Istanbul have requested life sentences against six people, including journalist brothers Ahmet and Mehmet Altan and chronicler Nazli Ilicak. One of the accusations is reportedly "having committed a crime in the name of a terror organization without being a member of it." ](/news/2017/12/11/turkey-s-state-news-agency-announces-that-prosecutors-in-istanbul-have-requested-life-sentences-against-six-people-including-journalist-bro.md) _Context: Istanbul_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/1/in-bolivia-continuing-protests-against-privatisation-of-basic-utilities-force-congress-to-abandon-a-key-session-in-the-capital-la-paz.html)  [JSON](/news/2005/06/1/in-bolivia-continuing-protests-against-privatisation-of-basic-utilities-force-congress-to-abandon-a-key-session-in-the-capital-la-paz.json)  [XML](/news/2005/06/1/in-bolivia-continuing-protests-against-privatisation-of-basic-utilities-force-congress-to-abandon-a-key-session-in-the-capital-la-paz.xml)  
+
 ### [2005-06-1](/news/2005/06/1/index.md)
 
+##### Bolivia
 #  In Bolivia, continuing protests against privatisation of basic utilities force congress to abandon a key session in the capital La Paz 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4594615.stm)
 

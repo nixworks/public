@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/29/the-ms-norman-atlantic-ferry-fire-death-toll-rises-to-at-least-ten-as-the-evacuation-ends.html)  [JSON](/news/2014/12/29/the-ms-norman-atlantic-ferry-fire-death-toll-rises-to-at-least-ten-as-the-evacuation-ends.json)  [XML](/news/2014/12/29/the-ms-norman-atlantic-ferry-fire-death-toll-rises-to-at-least-ten-as-the-evacuation-ends.xml)  
+
 ### [2014-12-29](/news/2014/12/29/index.md)
 
+##### MS ''Norman Atlantic''
 # The MS "Norman Atlantic" ferry fire death toll rises to at least ten as the evacuation ends. 
 
 Italian officials confirm 10 people have died after a fire on the Norman Atlantic ferry off Corfu, amid uncertainty over the number still missing.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30624086)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79977000/jpg/_79977073_025233645-1.jpg)

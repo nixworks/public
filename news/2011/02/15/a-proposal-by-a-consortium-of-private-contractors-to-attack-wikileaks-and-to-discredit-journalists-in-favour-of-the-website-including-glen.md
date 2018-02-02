@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/02/15/a-proposal-by-a-consortium-of-private-contractors-to-attack-wikileaks-and-to-discredit-journalists-in-favour-of-the-website-including-glen.html)  [JSON](/news/2011/02/15/a-proposal-by-a-consortium-of-private-contractors-to-attack-wikileaks-and-to-discredit-journalists-in-favour-of-the-website-including-glen.json)  [XML](/news/2011/02/15/a-proposal-by-a-consortium-of-private-contractors-to-attack-wikileaks-and-to-discredit-journalists-in-favour-of-the-website-including-glen.xml)  
+
 ### [2011-02-15](/news/2011/02/15/index.md)
 
+##### WikiLeaks
 # A proposal by a consortium of private contractors to attack WikiLeaks and to discredit journalists in favour of the website - including Glenn Greenwald - is uncovered after thousands of e-mails are leaked onto the internet, some of which call for people who donate to be tracked and intimidated. 
 
 The computer hackers&#039; collective Anonymous has uncovered a proposal by a consortium of private contractors to attack and discredit WikiLeaks.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/americas/the-us-bank-and-the-secret-plan-to-destroy-wikileaks-2215059.html)
+1. [The Independent](https://www.independent.co.uk/news/world/americas/the-us-bank-and-the-secret-plan-to-destroy-wikileaks-2215059.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/02/14/20/556306.bin)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/13/shooting-of-tony-robinson-demonstrators-peacefully-protest-a-wisconsin-prosecutor-s-decision-announced-yesterday-not-to-pursue-charges-ag.html)  [JSON](/news/2015/05/13/shooting-of-tony-robinson-demonstrators-peacefully-protest-a-wisconsin-prosecutor-s-decision-announced-yesterday-not-to-pursue-charges-ag.json)  [XML](/news/2015/05/13/shooting-of-tony-robinson-demonstrators-peacefully-protest-a-wisconsin-prosecutor-s-decision-announced-yesterday-not-to-pursue-charges-ag.xml)  
+
 ### [2015-05-13](/news/2015/05/13/index.md)
 
+##### Shooting of Tony Robinson
 # Shooting of Tony Robinson: Demonstrators peacefully protest a Wisconsin prosecutor's decision, announced yesterday, not to pursue charges against the officer who shot and killed a 19-year-old. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Milwaukee Wisconsin Journal Sentine''l](http://www.jsonline.com/news/crime/protesters-march-in-madison-day-after-da-declines-to-charge-officer-in-tony-robinson-killing-b994996-303603071.html)
 1. [Cover Image](http://media.jrn.com/images/b99499639z.1_20150513172907_000_gr9b3iub.2-2.jpg)

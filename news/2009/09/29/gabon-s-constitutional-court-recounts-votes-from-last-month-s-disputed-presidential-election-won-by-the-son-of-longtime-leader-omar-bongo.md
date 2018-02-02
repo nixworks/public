@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/29/gabon-s-constitutional-court-recounts-votes-from-last-month-s-disputed-presidential-election-won-by-the-son-of-longtime-leader-omar-bongo.html)  [JSON](/news/2009/09/29/gabon-s-constitutional-court-recounts-votes-from-last-month-s-disputed-presidential-election-won-by-the-son-of-longtime-leader-omar-bongo.json)  [XML](/news/2009/09/29/gabon-s-constitutional-court-recounts-votes-from-last-month-s-disputed-presidential-election-won-by-the-son-of-longtime-leader-omar-bongo.xml)  
+
 ### [2009-09-29](/news/2009/09/29/index.md)
 
+##### Gabon
 #  Gabon's constitutional court recounts votes from last month's disputed presidential election won by the son of longtime leader Omar Bongo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=86&art_id=nw20090927102128474C687471)
 

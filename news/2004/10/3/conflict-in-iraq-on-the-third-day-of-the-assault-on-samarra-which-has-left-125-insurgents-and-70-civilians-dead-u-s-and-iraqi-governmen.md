@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/3/conflict-in-iraq-on-the-third-day-of-the-assault-on-samarra-which-has-left-125-insurgents-and-70-civilians-dead-u-s-and-iraqi-governmen.html)  [JSON](/news/2004/10/3/conflict-in-iraq-on-the-third-day-of-the-assault-on-samarra-which-has-left-125-insurgents-and-70-civilians-dead-u-s-and-iraqi-governmen.json)  [XML](/news/2004/10/3/conflict-in-iraq-on-the-third-day-of-the-assault-on-samarra-which-has-left-125-insurgents-and-70-civilians-dead-u-s-and-iraqi-governmen.xml)  
+
 ### [2004-10-3](/news/2004/10/3/index.md)
 
+##### rebel-held
 #  Conflict in Iraq: On the third day of the assault on Samarra, which has left 125 insurgents and 70 civilians dead, U.S. and Iraqi government officials say they have secured 70 percent of the city. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://story.news.yahoo.com/news?tmpl=story&e=1&u=/ap/20041004/ap_on_re_mi_ea/iraq)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3712480.stm)

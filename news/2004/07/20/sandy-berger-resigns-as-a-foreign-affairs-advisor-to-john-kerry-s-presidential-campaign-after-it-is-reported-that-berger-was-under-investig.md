@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/07/20/sandy-berger-resigns-as-a-foreign-affairs-advisor-to-john-kerry-s-presidential-campaign-after-it-is-reported-that-berger-was-under-investig.html)  [JSON](/news/2004/07/20/sandy-berger-resigns-as-a-foreign-affairs-advisor-to-john-kerry-s-presidential-campaign-after-it-is-reported-that-berger-was-under-investig.json)  [XML](/news/2004/07/20/sandy-berger-resigns-as-a-foreign-affairs-advisor-to-john-kerry-s-presidential-campaign-after-it-is-reported-that-berger-was-under-investig.xml)  
+
 ### [2004-07-20](/news/2004/07/20/index.md)
 
+##### Sandy Berger
 #  Sandy Berger resigns as a foreign affairs advisor to John Kerry's presidential campaign after it is reported that Berger was under investigation for allegedly illegally taking classified documents belonging to the U.S. National Archives, intended for review by the 9-11 Commission, related to the Clinton administration's handling of millennium terror threats. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=5723828)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=5723828)
 
 ### Related:
 

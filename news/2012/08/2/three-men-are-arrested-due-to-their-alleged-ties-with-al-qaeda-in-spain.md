@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2012/08/2/three-men-are-arrested-due-to-their-alleged-ties-with-al-qaeda-in-spain.html)  [JSON](/news/2012/08/2/three-men-are-arrested-due-to-their-alleged-ties-with-al-qaeda-in-spain.json)  [XML](/news/2012/08/2/three-men-are-arrested-due-to-their-alleged-ties-with-al-qaeda-in-spain.xml)  
+
 ### [2012-08-2](/news/2012/08/2/index.md)
 
+##### al Qaeda
 # Three men are arrested due to their alleged ties with al Qaeda in Spain. 
 
 Spanish officials announced the arrest of three suspects who were believed to have been planning attacks in Spain and elsewhere.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2012/08/03/world/europe/3-arrested-in-spain-are-accused-of-having-links-to-al-qaeda.html)
+1. [The New York Times](https://www.nytimes.com/2012/08/03/world/europe/3-arrested-in-spain-are-accused-of-having-links-to-al-qaeda.html)
 1. [Cover Image](https://static01.nyt.com/images/2012/08/03/us/03spain/03spain-superJumbo.jpg)
 
 ### Related:
 
-1. [Spain's government sees a video showing three aid workers who have been held hostage by Al-Qaeda in Mali since November 2009. ](/news/2010/01/15/spain-s-government-sees-a-video-showing-three-aid-workers-who-have-been-held-hostage-by-al-qaeda-in-mali-since-november-2009.md) _Context: Spain, al-Qaeda_
-2. [ Al-Qaeda's deputy leader, Ayman al-Zawahiri, openly supports Hezbollah attacks on Israel, Calling for Jihad until Islam reigns from "Spain to Iraq". ](/news/2006/07/27/al-qaeda-s-deputy-leader-ayman-al-zawahiri-openly-supports-hezbollah-attacks-on-israel-calling-for-jihad-until-islam-reigns-from-spain.md) _Context: Spain, al-Qaeda_
-3. [ Imad Yarkas is convicted in Spain of conspiracy with al-Qaeda in the September 11, 2001 attacks and sentenced to 27 years. Driss Chebli, was convicted of collaborating with a terrorist group and sentenced to six years, Al Jazeera journalist Tayseer Allouni was also convicted of collaborating with a terrorist group and sentenced to seven years, while Ghasoub al-Abrash Ghalyoun was acquitted on all counts. [http:--news.yahoo.com-news?tmpl=story&u=-ap-20050926-ap_on_re_eu-spain_sept11_trial (AP)] (Link dead as of 21:25, 14 January 2007 (UTC))](/news/2005/09/26/imad-yarkas-is-convicted-in-spain-of-conspiracy-with-al-qaeda-in-the-september-11-2001-attacks-and-sentenced-to-27-years-driss-chebli-wa.md) _Context: Spain, al-Qaeda_
-4. [ War on Terrorism: An al Qaeda manual sets a hierarchy of terrorism targets: first, U.S. citizens, followed by Britons, Spaniards, and Australians. ](/news/2004/05/12/war-on-terrorism-an-al-qaeda-manual-sets-a-hierarchy-of-terrorism-targets-first-u-s-citizens-followed-by-britons-spaniards-and-austr.md) _Context: Spain, al-Qaeda_
-5. [Spain's third largest bank, CaixaBank, announces it is moving its legal base out of Catalonia to Valencia. This follows a similar move yesterday by Catalan banking group Banco Sabadell who announced they are moving their headquarters to Alicante in response to growing political insecurity in Catalonia. ](/news/2017/10/6/spain-s-third-largest-bank-caixabank-announces-it-is-moving-its-legal-base-out-of-catalonia-to-valencia-this-follows-a-similar-move-yeste.md) _Context: Spain_
+1. [ War on Terrorism: An al Qaeda manual sets a hierarchy of terrorism targets: first, U.S. citizens, followed by Britons, Spaniards, and Australians. ](/news/2004/05/12/war-on-terrorism-an-al-qaeda-manual-sets-a-hierarchy-of-terrorism-targets-first-u-s-citizens-followed-by-britons-spaniards-and-austr.md) _Context: Spain, al Qaeda_
+2. [Carles Puigdemont, ex-President of Catalonia, travels to Denmark while Spanish Attorney General requests the European Arrest Warrant. The Speaker of the Catalan Parliament appoints Puigdemont to be invested as President. Spain's Supreme Court refuses to reactivate the arrest warrant. ](/news/2018/01/22/carles-puigdemont-ex-president-of-catalonia-travels-to-denmark-while-spanish-attorney-general-requests-the-european-arrest-warrant-the-sp.md) _Context: Spain_
+3. [Spain withdraws the international arrest warrant for five former Catalan officials now residing in Belgium. The charges of sedition and rebellion, however, remain. ](/news/2017/12/5/spain-withdraws-the-international-arrest-warrant-for-five-former-catalan-officials-now-residing-in-belgium-the-charges-of-sedition-and-rebe.md) _Context: Spain_
+4. [The prosecutor in a Brussels court repeats the demand to extradite Carles Puigdemont and four other former Catalan officials to Spain. The defense says that the adduced facts are "not punishable" under Belgian law. The judge delays the decision until December 14. ](/news/2017/12/4/the-prosecutor-in-a-brussels-court-repeats-the-demand-to-extradite-carles-puigdemont-and-four-other-former-catalan-officials-to-spain-the-d.md) _Context: Spain_
+5. [Spain issues an arrest warrant against former Catalonian president Carles Puigdemont. ](/news/2017/11/3/spain-issues-an-arrest-warrant-against-former-catalonian-president-carles-puigdemont.md) _Context: Spain_

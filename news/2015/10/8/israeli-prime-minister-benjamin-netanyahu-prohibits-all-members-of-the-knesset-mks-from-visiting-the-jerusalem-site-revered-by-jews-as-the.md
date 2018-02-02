@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2015/10/8/israeli-prime-minister-benjamin-netanyahu-prohibits-all-members-of-the-knesset-mks-from-visiting-the-jerusalem-site-revered-by-jews-as-the.html)  [JSON](/news/2015/10/8/israeli-prime-minister-benjamin-netanyahu-prohibits-all-members-of-the-knesset-mks-from-visiting-the-jerusalem-site-revered-by-jews-as-the.json)  [XML](/news/2015/10/8/israeli-prime-minister-benjamin-netanyahu-prohibits-all-members-of-the-knesset-mks-from-visiting-the-jerusalem-site-revered-by-jews-as-the.xml)  
+
 ### [2015-10-8](/news/2015/10/8/index.md)
 
+##### Israeli-Palestinian conflict
 # Israeli Prime Minister Benjamin Netanyahu prohibits all members of the Knesset (MKs) from visiting the Jerusalem site revered by Jews as the Temple Mount, and by Muslims as the Noble Sanctuary, in an attempt to calm several days of violence in the Old City. The prohibition applies to both Jewish and Muslim parliamentarians. 
 
 In a bid to defuse the wave of Palestinian violence that has struck Israel and the West Bank during the past few weeks, Israeli Prime Minister Benjamin Netanyahu on Thursday (Oct. 8) prohibited all of the country&rsquo;s parliamentarians from visiting the Temple Mount, a contentious site holy to both Jews and Arabs.
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Netanyahu-bars-Jewish-MKs-ministers-from-visiting-Temple-Mount-421247)
 2. [Washington Post](https://www.washingtonpost.com/national/religion/netanyahu-prohibits-israeli-parliament-from-visiting-temple-mount/2015/10/08/b78a915c-6df8-11e5-91eb-27ad15c2b723_story.html)
 2. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=304113)
+
+### Changes:
+
+1. [Israeli Prime Minister Benjamin Netanyahu prohibits all members of the Knesset (MKs) from visiting the Jerusalem site revered by Jews as the Temple Mount, and by Muslims as the Noble Sanctuary, in an attempt to calm several days of violence in the Old City. The prohibition applies to both Jewish and Muslim parliamentarians. ](/news/2015/10/8/israeli-prime-minister-benjamin-netanyahu-prohibits-all-members-of-the-knesset-mks-from-visiting-the-jerusalem-site-revered-by-jews-as-th.md) _2017-08-25 03:42:59 (First version)_
+2. [Israeli-Palestinian conflict: Israeli Prime Minister Benjamin Netanyahu prohibits all members of the Knesset (MKs) from visiting the Jerusalem site revered by Jews as the Temple Mount, and by Muslims as the Noble Sanctuary, in an attempt to calm several days of violence in the Old City. The prohibition applies to both Jewish and Muslim parliamentarians. ](/news/2015/10/8/israeli-palestinian-conflict-israeli-prime-minister-benjamin-netanyahu-prohibits-all-members-of-the-knesset-mks-from-visiting-the-jerus.md) _2017-08-27 03:43:16 (Update)_
+2. [Israeli Prime Minister Benjamin Netanyahu prohibits all members of the Knesset (MKs) from visiting the Jerusalem site revered by Jews as the Temple Mount, and by Muslims as the Noble Sanctuary, in an attempt to calm several days of violence in the Old City. The prohibition applies to both Jewish and Muslim parliamentarians. ](/news/2015/10/8/israeli-prime-minister-benjamin-netanyahu-prohibits-all-members-of-the-knesset-mks-from-visiting-the-jerusalem-site-revered-by-jews-as-the.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ In a bid to defuse the wave of Palestinian violence that has struck Israel and t
 3. [Israeli Prime Minister Benjamin Netanyahu rejects a French-sponsored international conference to continue peace negotiations that have stalled since 2014 in settling the Israeli-Palestinian conflict, saying that direct talks were the only way to resolve the decades-long conflict. France wants to immediately recognize a Palestinian state without discussion over its borders or security issues. ](/news/2016/04/28/israeli-prime-minister-benjamin-netanyahu-rejects-a-french-sponsored-international-conference-to-continue-peace-negotiations-that-have-stall.md) _Context: Benjamin Netanyahu, Israeli Prime Minister, Israeli-Palestinian conflict_
 4. [Israel's Supreme Court blocks the government's plan, signed last December by Prime Minister Benjamin Netanyahu with the U.S. Noble Energy and the Israeli Delek Group companies, to develop Israel's offshore gas deposits. The court found the so-called "stability clause," that would prevent Israel from making significant regulatory changes for the next 10 years, undemocratically restricts the Knesset's power. The government has one year to come up with an alternative arrangement or the plan will be canceled. ](/news/2016/03/27/israel-s-supreme-court-blocks-the-government-s-plan-signed-last-december-by-prime-minister-benjamin-netanyahu-with-the-u-s-noble-energy-an.md) _Context: Benjamin Netanyahu, Israeli Prime Minister, parliament in Israel_
 5. [Stabbing attacks carried out by Palestinians in Jerusalem's Old City kill two Israeli civilians and injures three others. As a result, Israel bans Palestinians from entering the Old City for two days unless they live there. ](/news/2015/10/4/stabbing-attacks-carried-out-by-palestinians-in-jerusalem-s-old-city-kill-two-israeli-civilians-and-injures-three-others-as-a-result-israe.md) _Context: Israeli-Palestinian conflict, Jerusalem, Old City_
-
-### Changes:
-
-1. [Israeli Prime Minister Benjamin Netanyahu prohibits all members of the Knesset (MKs) from visiting the Jerusalem site revered by Jews as the Temple Mount, and by Muslims as the Noble Sanctuary, in an attempt to calm several days of violence in the Old City. The prohibition applies to both Jewish and Muslim parliamentarians. ](/news/2015/10/8/israeli-prime-minister-benjamin-netanyahu-prohibits-all-members-of-the-knesset-mks-from-visiting-the-jerusalem-site-revered-by-jews-as-th.md) _2017-08-25 03:42:59 (First version)_
-2. [Israeli-Palestinian conflict: Israeli Prime Minister Benjamin Netanyahu prohibits all members of the Knesset (MKs) from visiting the Jerusalem site revered by Jews as the Temple Mount, and by Muslims as the Noble Sanctuary, in an attempt to calm several days of violence in the Old City. The prohibition applies to both Jewish and Muslim parliamentarians. ](/news/2015/10/8/israeli-palestinian-conflict-israeli-prime-minister-benjamin-netanyahu-prohibits-all-members-of-the-knesset-mks-from-visiting-the-jerus.md) _2017-08-27 03:43:16 (Update)_
-2. [Israeli Prime Minister Benjamin Netanyahu prohibits all members of the Knesset (MKs) from visiting the Jerusalem site revered by Jews as the Temple Mount, and by Muslims as the Noble Sanctuary, in an attempt to calm several days of violence in the Old City. The prohibition applies to both Jewish and Muslim parliamentarians. ](/news/2015/10/8/israeli-prime-minister-benjamin-netanyahu-prohibits-all-members-of-the-knesset-mks-from-visiting-the-jerusalem-site-revered-by-jews-as-the.md) _(Current version)_

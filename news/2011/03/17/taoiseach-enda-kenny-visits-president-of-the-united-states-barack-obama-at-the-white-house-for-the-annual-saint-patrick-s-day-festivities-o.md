@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/17/taoiseach-enda-kenny-visits-president-of-the-united-states-barack-obama-at-the-white-house-for-the-annual-saint-patrick-s-day-festivities-o.html)  [JSON](/news/2011/03/17/taoiseach-enda-kenny-visits-president-of-the-united-states-barack-obama-at-the-white-house-for-the-annual-saint-patrick-s-day-festivities-o.json)  [XML](/news/2011/03/17/taoiseach-enda-kenny-visits-president-of-the-united-states-barack-obama-at-the-white-house-for-the-annual-saint-patrick-s-day-festivities-o.xml)  
+
 ### [2011-03-17](/news/2011/03/17/index.md)
 
+##### Taoiseach
 # Taoiseach Enda Kenny visits President of the United States Barack Obama at the White House for the annual Saint Patrick's Day festivities. Obama announces he is to visit Ireland in May and is excited at the prospect of visiting the home of his great, great, great, great, great, grandfather in Moneygall. 
 
 US President Barack Obama has said he will visit Ireland in May.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chibrknews-obama-on-st-pats-day-announces-trip-to-ireland-20110317,0,2489256.story)
 2. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12773056)

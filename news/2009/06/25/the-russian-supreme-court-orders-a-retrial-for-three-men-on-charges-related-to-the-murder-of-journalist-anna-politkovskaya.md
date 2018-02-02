@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/25/the-russian-supreme-court-orders-a-retrial-for-three-men-on-charges-related-to-the-murder-of-journalist-anna-politkovskaya.html)  [JSON](/news/2009/06/25/the-russian-supreme-court-orders-a-retrial-for-three-men-on-charges-related-to-the-murder-of-journalist-anna-politkovskaya.json)  [XML](/news/2009/06/25/the-russian-supreme-court-orders-a-retrial-for-three-men-on-charges-related-to-the-murder-of-journalist-anna-politkovskaya.xml)  
+
 ### [2009-06-25](/news/2009/06/25/index.md)
 
+##### Russia
 #  The Russian Supreme Court orders a retrial for three men on charges related to the murder of journalist Anna Politkovskaya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/europe/06/25/russian.journalist.politkovskaya.trial/)
 2. [RIA Novosti](http://en.rian.ru/russia/20090625/155348295.html)

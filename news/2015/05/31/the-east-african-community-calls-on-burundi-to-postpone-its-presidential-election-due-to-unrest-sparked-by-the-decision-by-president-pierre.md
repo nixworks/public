@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/31/the-east-african-community-calls-on-burundi-to-postpone-its-presidential-election-due-to-unrest-sparked-by-the-decision-by-president-pierre.html)  [JSON](/news/2015/05/31/the-east-african-community-calls-on-burundi-to-postpone-its-presidential-election-due-to-unrest-sparked-by-the-decision-by-president-pierre.json)  [XML](/news/2015/05/31/the-east-african-community-calls-on-burundi-to-postpone-its-presidential-election-due-to-unrest-sparked-by-the-decision-by-president-pierre.xml)  
+
 ### [2015-05-31](/news/2015/05/31/index.md)
 
+##### East African Community
 # The East African Community calls on Burundi to postpone its presidential election due to unrest sparked by the decision by President Pierre Nkurunziza to run for a third term. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/8c9540dbbafd40479d8ee2b4eab248d9/east-african-community-calls-delay-burundi-polls)
 

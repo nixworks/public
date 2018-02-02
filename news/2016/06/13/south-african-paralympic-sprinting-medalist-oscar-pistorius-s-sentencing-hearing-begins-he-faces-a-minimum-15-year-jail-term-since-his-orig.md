@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/13/south-african-paralympic-sprinting-medalist-osc
 
 ### [2016-06-13](/news/2016/06/13/index.md)
 
+##### Trial of Oscar Pistorius
 # South African Paralympic sprinting medalist Oscar Pistorius's sentencing hearing begins. He faces a minimum 15-year jail term since his original manslaughter charge for the 2013 killing of Reeva Steenkamp has been upgraded to murder. The hearing is set to last for five days. 
 
 Oscar Pistorius is a &quot;broken&quot; man who should not be jailed for the murder of his girlfriend Reeva Steenkamp, a psychologist told a court in South Africa on Monday, while a prosecutor said he has shown no remorse.

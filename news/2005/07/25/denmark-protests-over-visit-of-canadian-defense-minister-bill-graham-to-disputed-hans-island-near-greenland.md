@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/25/denmark-protests-over-visit-of-canadian-defense-minister-bill-graham-to-disputed-hans-island-near-greenland.html)  [JSON](/news/2005/07/25/denmark-protests-over-visit-of-canadian-defense-minister-bill-graham-to-disputed-hans-island-near-greenland.json)  [XML](/news/2005/07/25/denmark-protests-over-visit-of-canadian-defense-minister-bill-graham-to-disputed-hans-island-near-greenland.xml)  
+
 ### [2005-07-25](/news/2005/07/25/index.md)
 
+##### Bill Graham
 #  Denmark protests over visit of Canadian defense minister Bill Graham to disputed Hans Island near Greenland 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4715245.stm)
 2. [CBC](http://www.cbc.ca/canada/story/2005/07/25/hansisland050725.html)

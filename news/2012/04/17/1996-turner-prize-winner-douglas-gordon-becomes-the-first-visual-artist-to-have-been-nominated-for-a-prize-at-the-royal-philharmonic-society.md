@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/17/1996-turner-prize-winner-douglas-gordon-becomes-the-first-visual-artist-to-have-been-nominated-for-a-prize-at-the-royal-philharmonic-society.html)  [JSON](/news/2012/04/17/1996-turner-prize-winner-douglas-gordon-becomes-the-first-visual-artist-to-have-been-nominated-for-a-prize-at-the-royal-philharmonic-society.json)  [XML](/news/2012/04/17/1996-turner-prize-winner-douglas-gordon-becomes-the-first-visual-artist-to-have-been-nominated-for-a-prize-at-the-royal-philharmonic-society.xml)  
+
 ### [2012-04-17](/news/2012/04/17/index.md)
 
+##### Turner Prize
 # 1996 Turner Prize winner Douglas Gordon becomes the first visual artist to have been nominated for a prize at the Royal Philharmonic Society Music Awards. 
 
 Douglas Gordon is the first visual artist to be nominated for a Royal Philharmonic Society (RPS) Music Award.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17742620)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59704000/jpg/_59704721_douglasgordonportrait2lowres.jpg)

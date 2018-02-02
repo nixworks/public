@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/27/hilda-heine-is-elected-president-of-the-marshal
 
 ### [2016-01-27](/news/2016/01/27/index.md)
 
+##### Hilda Heine
 # Hilda Heine is elected President of the Marshall Islands by Parliament, becoming the country's first female president, as well as the first woman to serve as president of any Micronesian country. She succeeds outgoing President Casten Nemra, who lost a vote of no confidence on January 26. 
 
 The Marshall Islands parliament has elected Hilda Heine as the country&#39;s new president, making her the first woman to head the government of an independent Pacific Island nation.

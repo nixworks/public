@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/01/13/a-team-of-researchers-from-the-university-of-minnesota-announce-the-creation-of-a-beating-rat-heart-using-cells-from-the-heart-of-newborn-r.html)  [JSON](/news/2008/01/13/a-team-of-researchers-from-the-university-of-minnesota-announce-the-creation-of-a-beating-rat-heart-using-cells-from-the-heart-of-newborn-r.json)  [XML](/news/2008/01/13/a-team-of-researchers-from-the-university-of-minnesota-announce-the-creation-of-a-beating-rat-heart-using-cells-from-the-heart-of-newborn-r.xml)  
+
 ### [2008-01-13](/news/2008/01/13/index.md)
 
+##### University of Minnesota
 #  A team of researchers from the University of Minnesota announce the creation of a beating rat heart using cells from the heart of newborn rats and a heart structure from a dead rat. 
 
 The accomplishment gave a significant boost to medicine’s dream of growing human organs to replace damaged ones. 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/01/14/health/14heart.html)
+1. [The New York Times](https://www.nytimes.com/2008/01/14/health/14heart.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

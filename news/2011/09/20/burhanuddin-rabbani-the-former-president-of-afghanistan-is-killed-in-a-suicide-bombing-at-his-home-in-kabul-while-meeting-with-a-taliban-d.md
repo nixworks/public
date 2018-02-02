@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/20/burhanuddin-rabbani-the-former-president-of-afghanistan-is-killed-in-a-suicide-bombing-at-his-home-in-kabul-while-meeting-with-a-taliban-d.html)  [JSON](/news/2011/09/20/burhanuddin-rabbani-the-former-president-of-afghanistan-is-killed-in-a-suicide-bombing-at-his-home-in-kabul-while-meeting-with-a-taliban-d.json)  [XML](/news/2011/09/20/burhanuddin-rabbani-the-former-president-of-afghanistan-is-killed-in-a-suicide-bombing-at-his-home-in-kabul-while-meeting-with-a-taliban-d.xml)  
+
 ### [2011-09-20](/news/2011/09/20/index.md)
 
+##### Burhanuddin Rabbani
 # Burhanuddin Rabbani, the former President of Afghanistan, is killed in a suicide bombing at his home in Kabul while meeting with a Taliban delegation to discuss a possible peace deal. 
 
 Burhanuddin Rabbani, who headed team tasked with negotiating with Taliban, killed in suicide attack in his home.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Australian](http://www.theaustralian.com.au/a-taliban-suicide-bomber-has-killed-top-afghan-diplomat-burhanuddin-rabbani/story-fn7ycml4-1226142293705)
 2. [Al-Jazeera](http://english.aljazeera.net/news/asia/2011/09/2011920124955977877.html)

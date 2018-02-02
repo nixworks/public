@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/11/the-house-of-representatives-of-the-diet-of-japan-is-dissolved-by-the-prime-minister-koizumi-junichiro-and-the-election-will-take-place-on.html)  [JSON](/news/2003/10/11/the-house-of-representatives-of-the-diet-of-japan-is-dissolved-by-the-prime-minister-koizumi-junichiro-and-the-election-will-take-place-on.json)  [XML](/news/2003/10/11/the-house-of-representatives-of-the-diet-of-japan-is-dissolved-by-the-prime-minister-koizumi-junichiro-and-the-election-will-take-place-on.xml)  
+
 ### [2003-10-11](/news/2003/10/11/index.md)
 
+##### House of Representatives
 #  The House of Representatives of the Diet of Japan is dissolved by the Prime Minister Koizumi Junichiro and the election will take place on November 9, 2003. See Japan general election, 2003 for more.
 
 

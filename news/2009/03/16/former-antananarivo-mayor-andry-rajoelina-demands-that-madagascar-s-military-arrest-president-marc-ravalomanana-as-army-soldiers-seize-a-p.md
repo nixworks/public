@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/16/former-antananarivo-mayor-andry-rajoelina-demands-that-madagascar-s-military-arrest-president-marc-ravalomanana-as-army-soldiers-seize-a-p.html)  [JSON](/news/2009/03/16/former-antananarivo-mayor-andry-rajoelina-demands-that-madagascar-s-military-arrest-president-marc-ravalomanana-as-army-soldiers-seize-a-p.json)  [XML](/news/2009/03/16/former-antananarivo-mayor-andry-rajoelina-demands-that-madagascar-s-military-arrest-president-marc-ravalomanana-as-army-soldiers-seize-a-p.xml)  
+
 ### [2009-03-16](/news/2009/03/16/index.md)
 
+##### Antananarivo
 #  Former Antananarivo Mayor Andry Rajoelina demands that Madagascar's military arrest President Marc Ravalomanana, as Army soldiers seize a presidential palace in the capital. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hfV75EHUookBtBk2OlprGZBpDTzgD96V7RGO2)
 

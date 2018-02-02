@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/19/a-leaked-united-nations-report-suggests-war-crimes-may-have-been-committed-in-south-kordofan-in-sudan-during-a-recent-conflict.html)  [JSON](/news/2011/07/19/a-leaked-united-nations-report-suggests-war-crimes-may-have-been-committed-in-south-kordofan-in-sudan-during-a-recent-conflict.json)  [XML](/news/2011/07/19/a-leaked-united-nations-report-suggests-war-crimes-may-have-been-committed-in-south-kordofan-in-sudan-during-a-recent-conflict.xml)  
+
 ### [2011-07-19](/news/2011/07/19/index.md)
 
+##### United Nations
 # A leaked United Nations report suggests war crimes may have been committed in South Kordofan in Sudan during a recent conflict. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/201171992810221479.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/19/201171993633918734_20.jpg)

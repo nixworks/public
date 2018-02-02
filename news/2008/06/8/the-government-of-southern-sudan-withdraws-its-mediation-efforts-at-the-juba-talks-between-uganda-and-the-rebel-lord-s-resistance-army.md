@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/8/the-government-of-southern-sudan-withdraws-its-mediation-efforts-at-the-juba-talks-between-uganda-and-the-rebel-lord-s-resistance-army.html)  [JSON](/news/2008/06/8/the-government-of-southern-sudan-withdraws-its-mediation-efforts-at-the-juba-talks-between-uganda-and-the-rebel-lord-s-resistance-army.json)  [XML](/news/2008/06/8/the-government-of-southern-sudan-withdraws-its-mediation-efforts-at-the-juba-talks-between-uganda-and-the-rebel-lord-s-resistance-army.xml)  
+
 ### [2008-06-8](/news/2008/06/8/index.md)
 
+##### Southern Sudan
 #  The government of Southern Sudan withdraws its mediation efforts at the Juba talks between Uganda and the rebel Lord's Resistance Army. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Uganda Monitor](http://www.monitor.co.ug/artman/publish/sun_news/GoSS_suspends_talks_over_LRA_attack.shtml)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/17/the-trial-against-comedian-bill-cosby-at-the-mo
 
 ### [2017-06-17](/news/2017/06/17/index.md)
 
+##### Bill Cosby sexual assault allegations
 # The trial against comedian Bill Cosby at the Montgomery County Courthouse ends with a hung jury and the consequent declaration of a mistrial. 
 
 The &quot;Cosby Show&quot; actor was charged with drugging and molesting Andrea Constand in 2004.

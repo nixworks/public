@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/19/scott-polar-research-institute-in-cambridge-has-begun-to-restore-a-hut-of-sir-ernest-shackleton-on-the-south-pole.html)  [JSON](/news/2005/01/19/scott-polar-research-institute-in-cambridge-has-begun-to-restore-a-hut-of-sir-ernest-shackleton-on-the-south-pole.json)  [XML](/news/2005/01/19/scott-polar-research-institute-in-cambridge-has-begun-to-restore-a-hut-of-sir-ernest-shackleton-on-the-south-pole.xml)  
+
 ### [2005-01-19](/news/2005/01/19/index.md)
 
+##### Scott Polar Research Institute
 #  Scott Polar Research Institute in Cambridge has begun to restore a hut of Sir Ernest Shackleton on the South Pole. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4185851.stm)
 

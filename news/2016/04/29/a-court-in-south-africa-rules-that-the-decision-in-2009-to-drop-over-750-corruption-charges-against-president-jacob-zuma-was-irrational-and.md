@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/29/a-court-in-south-africa-rules-that-the-decision
 
 ### [2016-04-29](/news/2016/04/29/index.md)
 
+##### South Africa
 # A court in South Africa rules that the decision in 2009 to drop over 750 corruption charges against President Jacob Zuma was irrational and called for a review of them. However, the court ruling does not automatically reinstate the charges against Zuma as a legal team must be set up to decide on whether to charge him or not. 
 
 

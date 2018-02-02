@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/19/jendayi-frazer-u-s-assistant-secretary-of-state-for-african-affairs-accuses-eritrea-of-arming-the-islamic-courts-union-in-somalia-and-of.html)  [JSON](/news/2006/10/19/jendayi-frazer-u-s-assistant-secretary-of-state-for-african-affairs-accuses-eritrea-of-arming-the-islamic-courts-union-in-somalia-and-of.json)  [XML](/news/2006/10/19/jendayi-frazer-u-s-assistant-secretary-of-state-for-african-affairs-accuses-eritrea-of-arming-the-islamic-courts-union-in-somalia-and-of.xml)  
+
 ### [2006-10-19](/news/2006/10/19/index.md)
 
+##### Jendayi Frazer
 #  Jendayi Frazer, U.S. Assistant Secretary of State for African Affairs, accuses Eritrea of arming the Islamic Courts Union in Somalia and of attacking Ethiopia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/cms/s/9a41bd38-5f97-11db-a011-0000779e2340.html)
 

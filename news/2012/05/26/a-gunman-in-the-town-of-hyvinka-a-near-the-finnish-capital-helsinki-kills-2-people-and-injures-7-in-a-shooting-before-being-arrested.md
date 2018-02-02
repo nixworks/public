@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/26/a-gunman-in-the-town-of-hyvinka-a-near-the-finnish-capital-helsinki-kills-2-people-and-injures-7-in-a-shooting-before-being-arrested.html)  [JSON](/news/2012/05/26/a-gunman-in-the-town-of-hyvinka-a-near-the-finnish-capital-helsinki-kills-2-people-and-injures-7-in-a-shooting-before-being-arrested.json)  [XML](/news/2012/05/26/a-gunman-in-the-town-of-hyvinka-a-near-the-finnish-capital-helsinki-kills-2-people-and-injures-7-in-a-shooting-before-being-arrested.xml)  
+
 ### [2012-05-26](/news/2012/05/26/index.md)
 
+##### Hyvinkaa
 # A gunman in the town of Hyvinkaa near the Finnish capital Helsinki kills 2 people and injures 7 in a shooting before being arrested. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/finland-gunman-kills-wounds-16435260#.T8Bv_rBo3TA)
 2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jM7Nb7U7ql5Vh-fsftK1zedVHd0Q?docId=160ad2bc097e4a2ebbb3269a74aef192)

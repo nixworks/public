@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/09/5/the-australian-government-files-appeal-against-court-decision-to-set-aside-indian-doctor-mohamed-haneef-visa-cancellation.html)  [JSON](/news/2007/09/5/the-australian-government-files-appeal-against-court-decision-to-set-aside-indian-doctor-mohamed-haneef-visa-cancellation.json)  [XML](/news/2007/09/5/the-australian-government-files-appeal-against-court-decision-to-set-aside-indian-doctor-mohamed-haneef-visa-cancellation.xml)  
+
 ### [2007-09-5](/news/2007/09/5/index.md)
 
+##### Australian
 #  The Australian Government files appeal against court decision to set aside Indian doctor Mohamed Haneef visa cancellation. 
 
 

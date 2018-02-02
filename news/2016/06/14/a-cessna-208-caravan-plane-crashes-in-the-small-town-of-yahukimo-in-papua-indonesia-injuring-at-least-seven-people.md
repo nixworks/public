@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/14/a-cessna-208-caravan-plane-crashes-in-the-small
 
 ### [2016-06-14](/news/2016/06/14/index.md)
 
+##### Cessna 208B
 # A Cessna 208 Caravan plane crashes in the small town of Yahukimo in Papua, Indonesia, injuring at least seven people. 
 
 A small plane has crashed in Papua ripping through several houses near a provincial airport in the highlands.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/23/2011-syrian-uprising-the-united-nations-says-syrian-forces-may-have-committed-crimes-against-humanity-amid-the-ongoing-protests.html)  [JSON](/news/2011/07/23/2011-syrian-uprising-the-united-nations-says-syrian-forces-may-have-committed-crimes-against-humanity-amid-the-ongoing-protests.json)  [XML](/news/2011/07/23/2011-syrian-uprising-the-united-nations-says-syrian-forces-may-have-committed-crimes-against-humanity-amid-the-ongoing-protests.xml)  
+
 ### [2011-07-23](/news/2011/07/23/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: The United Nations says Syrian forces may have committed crimes against humanity amid the ongoing protests. 
 
 DAMASCUS, Syria, July 23 - UN officials have said Syrian security forces may have committed crimes against humanity in their crackdown on protesters, as at - Kenya breaking news | Kenya news today | Capitalfm.co.ke
 
 
-### Source:
+### Sources:
 
 1. [Capital FM Kenya](http://www.capitalfm.co.ke/news/2011/07/23/un-fears-crimes-against-humanity-in-syria/)
 2. [Times of Oman](http://www.timesofoman.com/innercat.asp?detail=48048&rand=)

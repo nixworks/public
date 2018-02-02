@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/27/indian-anti-corruption-activist-anna-hazare-begins-a-three-day-fast-in-protest-as-legislation-creating-an-anti-corruption-watchdog-excluding.html)  [JSON](/news/2011/12/27/indian-anti-corruption-activist-anna-hazare-begins-a-three-day-fast-in-protest-as-legislation-creating-an-anti-corruption-watchdog-excluding.json)  [XML](/news/2011/12/27/indian-anti-corruption-activist-anna-hazare-begins-a-three-day-fast-in-protest-as-legislation-creating-an-anti-corruption-watchdog-excluding.xml)  
+
 ### [2011-12-27](/news/2011/12/27/index.md)
 
+##### India
 # Indian anti-corruption activist Anna Hazare begins a three day fast in protest as legislation creating an anti-corruption watchdog excluding the Central Bureau of Investigation goes before the Parliament of India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via SF Gate](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2011/12/26/international/i211542S14.DTL)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/20/mohammed-ali-al-hasani-the-shia-governor-of-iraq-s-southern-al-muthanna-governorate-is-killed-by-a-roadside-bomb-at-samawa.html)  [JSON](/news/2007/08/20/mohammed-ali-al-hasani-the-shia-governor-of-iraq-s-southern-al-muthanna-governorate-is-killed-by-a-roadside-bomb-at-samawa.json)  [XML](/news/2007/08/20/mohammed-ali-al-hasani-the-shia-governor-of-iraq-s-southern-al-muthanna-governorate-is-killed-by-a-roadside-bomb-at-samawa.xml)  
+
 ### [2007-08-20](/news/2007/08/20/index.md)
 
+##### Mohammed Ali al-Hasani
 #  Mohammed Ali al-Hasani, the Shia governor of Iraq's southern Al Muthanna Governorate is killed by a roadside bomb at Samawa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6954467.stm)
 

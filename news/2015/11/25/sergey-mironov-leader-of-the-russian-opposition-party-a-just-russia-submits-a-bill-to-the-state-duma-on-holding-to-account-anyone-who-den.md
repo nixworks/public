@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/11/25/sergey-mironov-leader-of-the-russian-opposition-party-a-just-russia-submits-a-bill-to-the-state-duma-on-holding-to-account-anyone-who-den.html)  [JSON](/news/2015/11/25/sergey-mironov-leader-of-the-russian-opposition-party-a-just-russia-submits-a-bill-to-the-state-duma-on-holding-to-account-anyone-who-den.json)  [XML](/news/2015/11/25/sergey-mironov-leader-of-the-russian-opposition-party-a-just-russia-submits-a-bill-to-the-state-duma-on-holding-to-account-anyone-who-den.xml)  
+
 ### [2015-11-25](/news/2015/11/25/index.md)
 
+##### Sergey Mironov
 # Sergey Mironov, leader of the Russian opposition party, A Just Russia, submits a bill to the State Duma on holding to account anyone who denies that the 1915 mass killings of Armenians by Ottoman Turkish forces was a "genocide". 
 
 Russian lawmaker Sergei Mironov said on Wednesday his party had submitted a bill to parliament on holding to account anyone who denies that the 1915 killings of Armenians by Ottoman Turkish forces was a &quot;genocide&quot;.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/25/us-turkey-armenia-russia-bill-idUSKBN0TE1WL20151125)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/11/25/us-turkey-armenia-russia-bill-idUSKBN0TE1WL20151125)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/14/scott-kelly-the-commander-of-the-space-shuttle-endeavour-on-its-current-mission-expresses-confidence-that-it-can-return-to-earth-safely-w.html)  [JSON](/news/2007/08/14/scott-kelly-the-commander-of-the-space-shuttle-endeavour-on-its-current-mission-expresses-confidence-that-it-can-return-to-earth-safely-w.json)  [XML](/news/2007/08/14/scott-kelly-the-commander-of-the-space-shuttle-endeavour-on-its-current-mission-expresses-confidence-that-it-can-return-to-earth-safely-w.xml)  
+
 ### [2007-08-14](/news/2007/08/14/index.md)
 
+##### Scott Kelly
 #  Scott Kelly, the commander of the Space Shuttle Endeavour, on its current mission expresses confidence that it can return to earth safely without repairs to its heat shield. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,10117,22248788-401,00.html)
 

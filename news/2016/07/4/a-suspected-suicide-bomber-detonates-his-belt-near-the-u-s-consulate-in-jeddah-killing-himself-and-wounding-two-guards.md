@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/4/a-suspected-suicide-bomber-detonates-his-belt-ne
 
 ### [2016-07-4](/news/2016/07/4/index.md)
 
+##### 2016 Saudi Arabia bombings
 # A suspected suicide bomber detonates his belt near the U.S. consulate in Jeddah, killing himself and wounding two guards. 
 
 A suspected suicide bomber dies after being tackled by guards near the US consulate in Jeddah, the Saudi Arabian interior ministry says.

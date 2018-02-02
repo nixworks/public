@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/3/incumbent-president-laurent-gbagbo-is-ruled-as-the-election-winner-in-the-cote-d-ivoire-after-the-constitutional-court-overturns-provisional.html)  [JSON](/news/2010/12/3/incumbent-president-laurent-gbagbo-is-ruled-as-the-election-winner-in-the-cote-d-ivoire-after-the-constitutional-court-overturns-provisional.json)  [XML](/news/2010/12/3/incumbent-president-laurent-gbagbo-is-ruled-as-the-election-winner-in-the-cote-d-ivoire-after-the-constitutional-court-overturns-provisional.xml)  
+
 ### [2010-12-3](/news/2010/12/3/index.md)
 
+##### Laurent Gbagbo
 # Incumbent president Laurent Gbagbo is ruled as the election winner in the Cte d'Ivoire after the constitutional court overturns provisional results which favoured opposition candidate, former prime minister Alassane Ouattara. 
 
 Violence as court overturns provisional results favouring opposition candidate and declares incumbent president winner.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/2010123164818667158.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/3/201012317741876876_20.jpg)

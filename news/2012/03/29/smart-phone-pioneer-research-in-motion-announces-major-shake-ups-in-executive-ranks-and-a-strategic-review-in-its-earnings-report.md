@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/03/29/smart-phone-pioneer-research-in-motion-announces-major-shake-ups-in-executive-ranks-and-a-strategic-review-in-its-earnings-report.html)  [JSON](/news/2012/03/29/smart-phone-pioneer-research-in-motion-announces-major-shake-ups-in-executive-ranks-and-a-strategic-review-in-its-earnings-report.json)  [XML](/news/2012/03/29/smart-phone-pioneer-research-in-motion-announces-major-shake-ups-in-executive-ranks-and-a-strategic-review-in-its-earnings-report.xml)  
+
 ### [2012-03-29](/news/2012/03/29/index.md)
 
+##### Smart phone
 # Smart phone pioneer Research in Motion announces major shake-ups in executive ranks and a strategic review in its earnings report. 
 
 Research In Motion posted a net loss and its first slump in BlackBerry shipments for its holiday quarter since 2006, as its new CEO announced the initial steps in a strategic overhaul and would not rule out an eventual sale of the company.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/03/30/us-rim-idUSBRE82S1DD20120330)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120330&t=2&i=589074739&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82T01S000)
+1. [Reuters](https://www.reuters.com/article/2012/03/30/us-rim-idUSBRE82S1DD20120330)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120330&t=2&i=589074739&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82T01S000)
 
 ### Related:
 

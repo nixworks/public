@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/18/the-icelandic-government-says-it-has-come-to-a-new-agreement-with-the-governments-of-the-netherlands-and-the-uk-over-the-repaying-of-5bn.html)  [JSON](/news/2009/10/18/the-icelandic-government-says-it-has-come-to-a-new-agreement-with-the-governments-of-the-netherlands-and-the-uk-over-the-repaying-of-5bn.json)  [XML](/news/2009/10/18/the-icelandic-government-says-it-has-come-to-a-new-agreement-with-the-governments-of-the-netherlands-and-the-uk-over-the-repaying-of-5bn.xml)  
+
 ### [2009-10-18](/news/2009/10/18/index.md)
 
+##### Iceland
 #  The Icelandic government says it has come to a new agreement with the governments of the Netherlands and the UK over the repaying of $5bn. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8313451.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/8/sri-lankan-civil-war-thousands-of-civilians-flee-their-homes-in-sri-lanka-because-of-fighting-between-government-troops-and-the-tamil-tige.html)  [JSON](/news/2007/03/8/sri-lankan-civil-war-thousands-of-civilians-flee-their-homes-in-sri-lanka-because-of-fighting-between-government-troops-and-the-tamil-tige.json)  [XML](/news/2007/03/8/sri-lankan-civil-war-thousands-of-civilians-flee-their-homes-in-sri-lanka-because-of-fighting-between-government-troops-and-the-tamil-tige.xml)  
+
 ### [2007-03-8](/news/2007/03/8/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: Thousands of civilians flee their homes in Sri Lanka because of fighting between government troops and the Tamil Tigers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/6430907.stm)
 

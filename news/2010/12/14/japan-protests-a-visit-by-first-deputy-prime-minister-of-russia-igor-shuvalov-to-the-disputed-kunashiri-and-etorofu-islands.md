@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/14/japan-protests-a-visit-by-first-deputy-prime-minister-of-russia-igor-shuvalov-to-the-disputed-kunashiri-and-etorofu-islands.html)  [JSON](/news/2010/12/14/japan-protests-a-visit-by-first-deputy-prime-minister-of-russia-igor-shuvalov-to-the-disputed-kunashiri-and-etorofu-islands.json)  [XML](/news/2010/12/14/japan-protests-a-visit-by-first-deputy-prime-minister-of-russia-igor-shuvalov-to-the-disputed-kunashiri-and-etorofu-islands.xml)  
+
 ### [2010-12-14](/news/2010/12/14/index.md)
 
+##### Japan
 # Japan protests a visit by First Deputy Prime Minister of Russia, Igor Shuvalov, to the disputed Kunashiri and Etorofu islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20101214b1.html)
 2. [Straits Times](http://news.xinhuanet.com/english2010/world/2010-12/14/c_13648363.htm)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/7/qatar-announces-it-will-donate-usd-30-million-to
 
 ### [2017-09-7](/news/2017/09/7/index.md)
 
+##### Qatar-United States relations
 # Qatar announces it will donate USD$ 30 million to help people in Texas recover from Harvey. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/28/the-provisional-ira-issues-a-statement-formally-ordering-an-end-to-the-armed-campaign-it-has-pursued-since-1969-and-ordering-all-its-units.html)  [JSON](/news/2005/07/28/the-provisional-ira-issues-a-statement-formally-ordering-an-end-to-the-armed-campaign-it-has-pursued-since-1969-and-ordering-all-its-units.json)  [XML](/news/2005/07/28/the-provisional-ira-issues-a-statement-formally-ordering-an-end-to-the-armed-campaign-it-has-pursued-since-1969-and-ordering-all-its-units.xml)  
+
 ### [2005-07-28](/news/2005/07/28/index.md)
 
+##### IRA
 #  The Provisional IRA issues a statement formally ordering an end to the armed campaign it has pursued since 1969 and ordering all its units to dump their arms, with effect from 1600 BST today (1500 UTC). The IRA has been on "cease-fire" since 1996 and said it would follow a democratic path ending more than 30 years of violence. It will not, however, disband.
 
 The IRA has ended its armed campaign and has ordered all its units to dump arms. 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4720863.stm)
 2. [Guardian](http://www.guardian.co.uk/Northern_Ireland/Story/0,2763,1537901,00.html)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.html)  [JSON](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.json)  [XML](/news/2017/08/23/voters-in-angola-go-to-the-polls-to-elect-220-national-assembly-members-the-leader-of-the-winning-party-will-become-the-new-president-foll.xml)  
+
 ### [2017-08-23](/news/2017/08/23/index.md)
 
+##### Angolan legislative election, 2017
 # Voters in Angola go to the polls to elect 220 National Assembly members. The leader of the winning party will become the new president, following the retirement of Jos Eduardo dos Santos, who has held the role since 1979. 
 
 Millions of Angolans to cast their votes on Wednesday as 74-year-old, who has ruled for 38-years, leaves office.

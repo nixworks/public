@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/3/greek-prime-minister-costas-karamanlis-launches-a-difficult-election-campaign-after-calling-an-early-parliamentary-vote-for-october-4-to-se.html)  [JSON](/news/2009/09/3/greek-prime-minister-costas-karamanlis-launches-a-difficult-election-campaign-after-calling-an-early-parliamentary-vote-for-october-4-to-se.json)  [XML](/news/2009/09/3/greek-prime-minister-costas-karamanlis-launches-a-difficult-election-campaign-after-calling-an-early-parliamentary-vote-for-october-4-to-se.xml)  
+
 ### [2009-09-3](/news/2009/09/3/index.md)
 
+##### Greek
 #  Greek Prime Minister Costas Karamanlis launches a difficult election campaign after calling an early parliamentary vote for October 4 to seek a new mandate and deal with a sharp economic crisis. 
 
 Greek Prime Minister Costas Karamanlis launched a difficult election campaign Thursday after calling an early parliamentary vote for October 4 to seek a new mandate and deal with a sharp economic crisis.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE58235O20090903)
 1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090903&t=2&i=11459377&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-03T121835Z_01_BTRE5820Y7400_RTROPTP_0_GREECE-VOTE)

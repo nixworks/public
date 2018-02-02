@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/11/mount-karangetang-erupts-in-sulawesi-indonesia-forcing-local-evacuations.html)  [JSON](/news/2011/03/11/mount-karangetang-erupts-in-sulawesi-indonesia-forcing-local-evacuations.json)  [XML](/news/2011/03/11/mount-karangetang-erupts-in-sulawesi-indonesia-forcing-local-evacuations.xml)  
+
 ### [2011-03-11](/news/2011/03/11/index.md)
 
+##### Karangetang
 # Mount Karangetang erupts in Sulawesi, Indonesia, forcing local evacuations. 
 
 One of Indonesia’s most active volcanoes has erupted, sending lava and searing gas clouds tumbling down its slopes. Volcanology official Agus Budianto said on Friday that authorities were still trying
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article1529056.ece)
 1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)

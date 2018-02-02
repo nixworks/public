@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/20/israeli-army-radio-reports-ariel-sharon-the-current-prime-minister-of-israel-will-leave-likud-and-create-a-new-centrist-party-positioned.html)  [JSON](/news/2005/11/20/israeli-army-radio-reports-ariel-sharon-the-current-prime-minister-of-israel-will-leave-likud-and-create-a-new-centrist-party-positioned.json)  [XML](/news/2005/11/20/israeli-army-radio-reports-ariel-sharon-the-current-prime-minister-of-israel-will-leave-likud-and-create-a-new-centrist-party-positioned.xml)  
+
 ### [2005-11-20](/news/2005/11/20/index.md)
 
+##### Israeli army radio
 #  Israeli army radio reports Ariel Sharon, the current Prime Minister of Israel, will leave Likud and create a new centrist party positioned between it and Israeli Labor Party. This move ends more than a year of Likud infighting between Sharon and hard-right members led by Benjamin Netanyahu who opposed withdrawal from Gaza, and closely follows Labour's departure from the present grand coalition government. Early elections are now a near-certainty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4455356.stm)
 2. [Haaretz](http://news.haaretz.co.il/hasen/spages/647757.html)

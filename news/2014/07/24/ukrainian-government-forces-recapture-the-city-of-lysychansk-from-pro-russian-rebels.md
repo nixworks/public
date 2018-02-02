@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/24/ukrainian-government-forces-recapture-the-city-of-lysychansk-from-pro-russian-rebels.html)  [JSON](/news/2014/07/24/ukrainian-government-forces-recapture-the-city-of-lysychansk-from-pro-russian-rebels.json)  [XML](/news/2014/07/24/ukrainian-government-forces-recapture-the-city-of-lysychansk-from-pro-russian-rebels.xml)  
+
 ### [2014-07-24](/news/2014/07/24/index.md)
 
+##### Lysychansk
 # Ukrainian Government forces recapture the city of Lysychansk from pro-Russian rebels. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukraine-advances-after-heavy-fighting-357839.html)
 2. [Kyiv Post](http://www.kyivpost.com/content/ukraine/ukrainian-troops-enter-lysychansk-357777.html)

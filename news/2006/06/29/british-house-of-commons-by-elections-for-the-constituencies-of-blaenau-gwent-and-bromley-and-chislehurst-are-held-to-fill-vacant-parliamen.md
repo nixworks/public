@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/29/british-house-of-commons-by-elections-for-the-constituencies-of-blaenau-gwent-and-bromley-and-chislehurst-are-held-to-fill-vacant-parliamen.html)  [JSON](/news/2006/06/29/british-house-of-commons-by-elections-for-the-constituencies-of-blaenau-gwent-and-bromley-and-chislehurst-are-held-to-fill-vacant-parliamen.json)  [XML](/news/2006/06/29/british-house-of-commons-by-elections-for-the-constituencies-of-blaenau-gwent-and-bromley-and-chislehurst-are-held-to-fill-vacant-parliamen.xml)  
+
 ### [2006-06-29](/news/2006/06/29/index.md)
 
+##### British House of Commons
 #  British House of Commons by-elections for the constituencies of Blaenau Gwent and Bromley and Chislehurst are held to fill vacant parliamentary seats. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/5126072.stm)
 

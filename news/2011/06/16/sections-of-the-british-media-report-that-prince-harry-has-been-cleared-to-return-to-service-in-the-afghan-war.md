@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/06/16/sections-of-the-british-media-report-that-prince-harry-has-been-cleared-to-return-to-service-in-the-afghan-war.html)  [JSON](/news/2011/06/16/sections-of-the-british-media-report-that-prince-harry-has-been-cleared-to-return-to-service-in-the-afghan-war.json)  [XML](/news/2011/06/16/sections-of-the-british-media-report-that-prince-harry-has-been-cleared-to-return-to-service-in-the-afghan-war.xml)  
+
 ### [2011-06-16](/news/2011/06/16/index.md)
 
+##### British
 # Sections of the British media report that Prince Harry has been cleared to return to service in the Afghan War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/UK-News/Prince-Harry-Afghanistan-Return-For-Prince-Harry-Reported-After-Apache-Pilots-First-Tour-Cut-Short/Article/201106316012728)
 
 ### Related:
 
-1. [The Nobel Committee awards Swiss Jacques Dubochet, German Joachim Frank, and British Richard Henderson the Nobel Prize in Chemistry for developing cryo-electron microscopy for the high-resolution structural determination of biomolecules in a solution. ](/news/2017/10/4/the-nobel-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-for-deve.md) _Context: British_
-2. [At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-in.md) _Context: War in Afghanistan (2001-present)_
-3. [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. The Taliban claims their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-the-taliban-cl.md) _Context: War in Afghanistan (2001-present)_
-4. [Officials announce that Afghan security forces have retaken Nawa District from the Taliban. ](/news/2017/07/17/officials-announce-that-afghan-security-forces-have-retaken-nawa-district-from-the-taliban.md) _Context: War in Afghanistan (2001-present)_
-5. [The British people vote locally. ](/news/2017/05/4/the-british-people-vote-locally.md) _Context: British_
+1. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: War in Afghanistan (2001-present)_
+2. [Attackers detonate explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad. ](/news/2018/01/24/attackers-detonate-explosives-before-storming-the-offices-of-the-save-the-children-charity-in-the-eastern-afghan-city-of-jalalabad.md) _Context: War in Afghanistan (2001-present)_
+3. [A suicide bombing at a Shi'ite cultural center and news agency in Kabul, Afghanistan, kills 41 people and injures 84 others. ISIL-affiliated Amaq News Agency says this group is responsible. ](/news/2017/12/28/a-suicide-bombing-at-a-shiaite-cultural-center-and-news-agency-in-kabul-afghanistan-kills-41-people-and-injures-84-others-isil-affiliat.md) _Context: War in Afghanistan (2001-present)_
+4. [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIL is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-amaq-news-agency-claims-isil-is-responsible-for-th.md) _Context: War in Afghanistan (2001-present)_
+5. [Prince Harry announces his engagement to American actress Meghan Markle. ](/news/2017/11/27/prince-harry-announces-his-engagement-to-american-actress-meghan-markle.md) _Context: Prince Harry_

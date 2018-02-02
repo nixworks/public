@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/03/14/colombian-legislative-election-2010-over-2500-candidates-can-be-chosen-for-102-senate-seats-and-166-chamber-of-representatives-seats-as-w.html)  [JSON](/news/2010/03/14/colombian-legislative-election-2010-over-2500-candidates-can-be-chosen-for-102-senate-seats-and-166-chamber-of-representatives-seats-as-w.json)  [XML](/news/2010/03/14/colombian-legislative-election-2010-over-2500-candidates-can-be-chosen-for-102-senate-seats-and-166-chamber-of-representatives-seats-as-w.xml)  
+
 ### [2010-03-14](/news/2010/03/14/index.md)
 
+##### Colombian legislative election, 2010
 # Colombian legislative election, 2010: Over 2500 candidates can be chosen for 102 Senate seats and 166 Chamber of Representatives seats, as well as 5 Colombian representatives to the Andean Parliament (organ of the Andean Community of Nations) and a people's initiative in the Caribbean Region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8562087.stm)
 2. [Direct Democracy](http://mydd.com/2010/3/14/in)
-3. [Reuters](http://www.reuters.com/article/idUSTRE62D13U20100314)
-3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100314&t=2&i=75784853&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-14T174730Z_01_BTRE62D1DFP00_RTROPTP_0_COLOMBIA-ELECTION)
+3. [Reuters](https://www.reuters.com/article/idUSTRE62D13U20100314)
+3. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20100314&t=2&i=75784853&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-14T174730Z_01_BTRE62D1DFP00_RTROPTP_0_COLOMBIA-ELECTION)
 
 ### Related:
 

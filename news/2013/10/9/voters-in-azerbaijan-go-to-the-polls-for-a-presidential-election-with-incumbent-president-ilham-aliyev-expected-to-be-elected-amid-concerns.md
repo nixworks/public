@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/9/voters-in-azerbaijan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-ilham-aliyev-expected-to-be-elected-amid-concerns.html)  [JSON](/news/2013/10/9/voters-in-azerbaijan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-ilham-aliyev-expected-to-be-elected-amid-concerns.json)  [XML](/news/2013/10/9/voters-in-azerbaijan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-ilham-aliyev-expected-to-be-elected-amid-concerns.xml)  
+
 ### [2013-10-9](/news/2013/10/9/index.md)
 
+##### Azerbaijan
 # Voters in Azerbaijan go to the polls for a presidential election with incumbent President Ilham Aliyev expected to be elected amid concerns about the fairness of the election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-24450227)
 1. [Cover Image](http://news.bbcimg.co.uk/media/images/70358000/jpg/_70358934_70358845.jpg)

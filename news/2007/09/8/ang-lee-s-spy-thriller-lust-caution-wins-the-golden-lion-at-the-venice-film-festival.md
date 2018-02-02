@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/09/8/ang-lee-s-spy-thriller-lust-caution-wins-the-golden-lion-at-the-venice-film-festival.html)  [JSON](/news/2007/09/8/ang-lee-s-spy-thriller-lust-caution-wins-the-golden-lion-at-the-venice-film-festival.json)  [XML](/news/2007/09/8/ang-lee-s-spy-thriller-lust-caution-wins-the-golden-lion-at-the-venice-film-festival.xml)  
+
 ### [2007-09-8](/news/2007/09/8/index.md)
 
+##### Ang Lee
 #  Ang Lee's spy thriller "Lust, Caution" wins the Golden Lion at the Venice Film Festival. 
 
 White and Silvia Aloisi
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSL084088920070909?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070909&t=2&i=1678839&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-09T043807Z_01_L0840889_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSL084088920070909?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070909&t=2&i=1678839&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-09T043807Z_01_L0840889_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

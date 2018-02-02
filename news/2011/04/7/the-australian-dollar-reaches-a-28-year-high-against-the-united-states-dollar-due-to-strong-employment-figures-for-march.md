@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/7/the-australian-dollar-reaches-a-28-year-high-against-the-united-states-dollar-due-to-strong-employment-figures-for-march.html)  [JSON](/news/2011/04/7/the-australian-dollar-reaches-a-28-year-high-against-the-united-states-dollar-due-to-strong-employment-figures-for-march.json)  [XML](/news/2011/04/7/the-australian-dollar-reaches-a-28-year-high-against-the-united-states-dollar-due-to-strong-employment-figures-for-march.xml)  
+
 ### [2011-04-7](/news/2011/04/7/index.md)
 
+##### A$
 # The Australian dollar reaches a 28-year high against the United States dollar due to strong employment figures for March. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/business/markets/australian-unemployment-rate-falls-to-49pc-in-march/story-e6frg926-1226035325345?referrer=email&source=AusBus_Lunch_email_nl&emcmp=AusBusLunch&emchn=Newsletter&emlist=Member)
 

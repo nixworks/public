@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/16/in-uganda-some-of-the-child-soldiers-that-had-escaped-the-lord-s-resistance-army-are-recruited-into-the-national-army.html)  [JSON](/news/2005/02/16/in-uganda-some-of-the-child-soldiers-that-had-escaped-the-lord-s-resistance-army-are-recruited-into-the-national-army.json)  [XML](/news/2005/02/16/in-uganda-some-of-the-child-soldiers-that-had-escaped-the-lord-s-resistance-army-are-recruited-into-the-national-army.xml)  
+
 ### [2005-02-16](/news/2005/02/16/index.md)
 
+##### Uganda
 #  In Uganda, some of the child soldiers that had escaped the Lord's Resistance Army are recruited into the national army. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4266789.stm)
 2. [World Peace Herald](http://www.wpherald.com/storyview.php?StoryID=20050215-103855-1077r)

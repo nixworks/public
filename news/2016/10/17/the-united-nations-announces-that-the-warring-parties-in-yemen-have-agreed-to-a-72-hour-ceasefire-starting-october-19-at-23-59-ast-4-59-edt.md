@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/17/the-united-nations-announces-that-the-warring-p
 
 ### [2016-10-17](/news/2016/10/17/index.md)
 
+##### Yemeni Civil War
 # The United Nations announces that the warring parties in Yemen have agreed to a 72-hour ceasefire starting October 19 at 23:59 AST (4:59 EDT). 
 
 SANAA, Yemen (AP) — The warring parties in Yemen have agreed to a 72-hour cease-fire that will take effect shortly before midnight Wednesday, the U.N. special envoy to Yemen said. Special Envoy Ismail Ould Cheikh Ahmed…

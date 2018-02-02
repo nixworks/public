@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/21/justin-welby-is-formally-enthroned-as-the-new-archbishop-of-canterbury.html)  [JSON](/news/2013/03/21/justin-welby-is-formally-enthroned-as-the-new-archbishop-of-canterbury.json)  [XML](/news/2013/03/21/justin-welby-is-formally-enthroned-as-the-new-archbishop-of-canterbury.xml)  
+
 ### [2013-03-21](/news/2013/03/21/index.md)
 
+##### Justin Welby
 # Justin Welby is formally enthroned as the new Archbishop of Canterbury. 
 
 The Most Reverend Justin Welby is enthroned as Archbishop of Canterbury, and says there is &quot;every possible reason for optimism&quot; about the future of the Christian faith.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21875199)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66536000/jpg/_66536253_017555812.jpg)

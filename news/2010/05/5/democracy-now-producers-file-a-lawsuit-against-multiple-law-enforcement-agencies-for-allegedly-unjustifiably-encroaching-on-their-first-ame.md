@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/5/democracy-now-producers-file-a-lawsuit-against-multiple-law-enforcement-agencies-for-allegedly-unjustifiably-encroaching-on-their-first-ame.html)  [JSON](/news/2010/05/5/democracy-now-producers-file-a-lawsuit-against-multiple-law-enforcement-agencies-for-allegedly-unjustifiably-encroaching-on-their-first-ame.json)  [XML](/news/2010/05/5/democracy-now-producers-file-a-lawsuit-against-multiple-law-enforcement-agencies-for-allegedly-unjustifiably-encroaching-on-their-first-ame.xml)  
+
 ### [2010-05-5](/news/2010/05/5/index.md)
 
+##### Democracy Now!
 # Democracy Now! producers file a lawsuit against multiple law enforcement agencies for allegedly unjustifiably encroaching on their First Amendment rights at the 2008 Republican National Convention. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [StarTribune](http://www.startribune.com/politics/92860319.html)
 

@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2007/08/26/seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.html)  [JSON](/news/2007/08/26/seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.json)  [XML](/news/2007/08/26/seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.xml)  
+
 ### [2007-08-26](/news/2007/08/26/index.md)
 
+##### bomb blasts
 #  Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aA0uILHDGf_w&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=aA0uILHDGf_w&refer=home)
 2. [Reuters via News Limited](http://www.news.com.au/story/0,10117,22309771-401,00.html)
+
+### Changes:
+
+1. [ 25 August 2007 Hyderabad bombings: Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. ](/news/2007/08/26/25-august-2007-hyderabad-bombings-seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.md) _2017-08-27 03:20:41 (First version)_
+1. [ Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. ](/news/2007/08/26/seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [ At least six people die and 39 are laid by bomb blasts in Assam, India, with the United Liberation Front of Asom believed to be responsible. ](/news/2008/06/29/at-least-six-people-die-and-39-are-laid-by-bomb-blasts-in-assam-india-with-the-united-liberation-front-of-asom-believed-to-be-responsible.md) _Context: India, bomb_
 4. [ A bomb explodes in a movie theatre in Ludhiana in India's Punjab state killing at least six people and wounding at least 30 others. ](/news/2007/10/14/a-bomb-explodes-in-a-movie-theatre-in-ludhiana-in-india-s-punjab-state-killing-at-least-six-people-and-wounding-at-least-30-others.md) _Context: India, bomb_
 5. [ At least 15 dead and many injured when a flyover under construction at Panjagutta junction, Hyderabad, Andhra Pradesh, India collapsed. Wikinews](/news/2007/09/9/at-least-15-dead-and-many-injured-when-a-flyover-under-construction-at-panjagutta-junction-hyderabad-andhra-pradesh-india-collapsed-wik.md) _Context: Hyderabad, Andhra Pradesh, India_
-
-### Changes:
-
-1. [ 25 August 2007 Hyderabad bombings: Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. ](/news/2007/08/26/25-august-2007-hyderabad-bombings-seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.md) _2017-08-27 03:20:41 (First version)_
-1. [ Seven more unexploded bombs are found in Hyderabad, Andhra Pradesh, India a day after the bombings. ](/news/2007/08/26/seven-more-unexploded-bombs-are-found-in-hyderabad-andhra-pradesh-india-a-day-after-the-bombings.md) _(Current version)_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/21/the-philippines-current-crackdown-on-controlled
 
 ### [2016-07-21](/news/2016/07/21/index.md)
 
+##### drug crackdown
 # The Philippines' current crackdown on controlled substances passes a death toll of 500. 
 
 These interactive map and charts show the drug-related fatalities reported since May 10, 2016 based on ABS-CBN&rsquo;s independent monitoring of national and local news reports, and PNP Regional Office press releases.

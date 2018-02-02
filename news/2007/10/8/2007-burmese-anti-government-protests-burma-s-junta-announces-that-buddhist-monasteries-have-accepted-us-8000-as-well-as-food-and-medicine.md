@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/8/2007-burmese-anti-government-protests-burma-s-junta-announces-that-buddhist-monasteries-have-accepted-us-8000-as-well-as-food-and-medicine.html)  [JSON](/news/2007/10/8/2007-burmese-anti-government-protests-burma-s-junta-announces-that-buddhist-monasteries-have-accepted-us-8000-as-well-as-food-and-medicine.json)  [XML](/news/2007/10/8/2007-burmese-anti-government-protests-burma-s-junta-announces-that-buddhist-monasteries-have-accepted-us-8000-as-well-as-food-and-medicine.xml)  
+
 ### [2007-10-8](/news/2007/10/8/index.md)
 
+##### 2007 Burmese anti-government protests
 #  2007 Burmese anti-government protests: Burma's junta announces that Buddhist monasteries have accepted US$8000 as well as food and medicine from its soldiers to signify the armed forces have not left the faith. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Melbourne Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,22549354-5005961,00.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/12/after-five-days-of-fighting-that-left-272-peopl
 
 ### [2016-07-12](/news/2016/07/12/index.md)
 
+##### South Sudanese Civil War
 # After five days of fighting that left 272 people dead and thousands more displaced in the capital, Juba, President Salva Kiir Mayardit and rebel leader and Vice-President Riek Machar declare a ceasefire. 
 
 The leaders of South Sudan&#39;s warring factions call for a ceasefire after days of fighting kill hundreds.

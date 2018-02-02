@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/09/3/sun-zhengcai-the-chinese-minister-for-agriculture-states-that-china-will-clamp-down-on-foods-tainted-with-illegal-and-excessive-chemicals.html)  [JSON](/news/2007/09/3/sun-zhengcai-the-chinese-minister-for-agriculture-states-that-china-will-clamp-down-on-foods-tainted-with-illegal-and-excessive-chemicals.json)  [XML](/news/2007/09/3/sun-zhengcai-the-chinese-minister-for-agriculture-states-that-china-will-clamp-down-on-foods-tainted-with-illegal-and-excessive-chemicals.xml)  
+
 ### [2007-09-3](/news/2007/09/3/index.md)
 
+##### Sun Zhengcai
 #  Sun Zhengcai, the Chinese Minister for Agriculture, states that China will clamp down on foods tainted with illegal and excessive chemicals. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSPEK26840620070903?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070903&t=2&i=1643392&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-03T124930Z_01_PEK268406_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSPEK26840620070903?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070903&t=2&i=1643392&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-03T124930Z_01_PEK268406_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

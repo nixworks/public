@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/6/an-express-train-has-collided-with-a-stationary-car-near-the-village-of-ufton-nervet-england-it-is-thought-that-nine-carriages-of-the-17.html)  [JSON](/news/2004/11/6/an-express-train-has-collided-with-a-stationary-car-near-the-village-of-ufton-nervet-england-it-is-thought-that-nine-carriages-of-the-17.json)  [XML](/news/2004/11/6/an-express-train-has-collided-with-a-stationary-car-near-the-village-of-ufton-nervet-england-it-is-thought-that-nine-carriages-of-the-17.xml)  
+
 ### [2004-11-6](/news/2004/11/6/index.md)
 
+##### express train has collided
 #  An express train has collided with a stationary car near the village of Ufton Nervet, England. It is thought that nine carriages of the 17:35 First Great Western service between London Paddington and Plymouth have been derailed. Six people have reportedly been killed, with around 150 more injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/3989277.stm)
 

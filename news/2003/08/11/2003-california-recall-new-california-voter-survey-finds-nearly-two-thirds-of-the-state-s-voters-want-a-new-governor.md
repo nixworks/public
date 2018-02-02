@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/11/2003-california-recall-new-california-voter-survey-finds-nearly-two-thirds-of-the-state-s-voters-want-a-new-governor.html)  [JSON](/news/2003/08/11/2003-california-recall-new-california-voter-survey-finds-nearly-two-thirds-of-the-state-s-voters-want-a-new-governor.json)  [XML](/news/2003/08/11/2003-california-recall-new-california-voter-survey-finds-nearly-two-thirds-of-the-state-s-voters-want-a-new-governor.xml)  
+
 ### [2003-08-11](/news/2003/08/11/index.md)
 
+##### 2003 California recall
 #  2003 California recall: New California voter survey finds nearly two-thirds of the state's voters want a new governor.
 
 

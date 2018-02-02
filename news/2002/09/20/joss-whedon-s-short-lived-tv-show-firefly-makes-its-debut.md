@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/20/joss-whedon-s-short-lived-tv-show-firefly-makes-its-debut.html)  [JSON](/news/2002/09/20/joss-whedon-s-short-lived-tv-show-firefly-makes-its-debut.json)  [XML](/news/2002/09/20/joss-whedon-s-short-lived-tv-show-firefly-makes-its-debut.xml)  
+
 ### [2002-09-20](/news/2002/09/20/index.md)
 
+##### Joss Whedon
 #  Joss Whedon's short-lived TV show "Firefly" makes its debut.
 
 

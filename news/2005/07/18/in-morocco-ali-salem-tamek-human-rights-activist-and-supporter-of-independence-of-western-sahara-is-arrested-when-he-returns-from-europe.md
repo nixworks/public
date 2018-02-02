@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/18/in-morocco-ali-salem-tamek-human-rights-activist-and-supporter-of-independence-of-western-sahara-is-arrested-when-he-returns-from-europe.html)  [JSON](/news/2005/07/18/in-morocco-ali-salem-tamek-human-rights-activist-and-supporter-of-independence-of-western-sahara-is-arrested-when-he-returns-from-europe.json)  [XML](/news/2005/07/18/in-morocco-ali-salem-tamek-human-rights-activist-and-supporter-of-independence-of-western-sahara-is-arrested-when-he-returns-from-europe.xml)  
+
 ### [2005-07-18](/news/2005/07/18/index.md)
 
+##### Morocco
 #  In Morocco, Ali Salem Tamek, human rights activist and supporter of independence of Western Sahara, is arrested when he returns from Europe. Government accuses him of fomenting riots 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-JAzeera](http://english.aljazeera.net/NR/exeres/DDB7FEDA-9B25-42FA-B3B6-6AA33F854E3D.htm)
 

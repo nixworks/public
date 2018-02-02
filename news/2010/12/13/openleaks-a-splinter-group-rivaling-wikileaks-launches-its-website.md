@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/13/openleaks-a-splinter-group-rivaling-wikileaks-launches-its-website.html)  [JSON](/news/2010/12/13/openleaks-a-splinter-group-rivaling-wikileaks-launches-its-website.json)  [XML](/news/2010/12/13/openleaks-a-splinter-group-rivaling-wikileaks-launches-its-website.xml)  
+
 ### [2010-12-13](/news/2010/12/13/index.md)
 
+##### OpenLeaks
 # OpenLeaks, a splinter group rivaling WikiLeaks, launches its website. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/TECH/web/12/12/wikileaks.rival/index.html?eref=rss_world)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/15/ligo-announces-it-has-detected-gravitational-wa
 
 ### [2017-11-15](/news/2017/11/15/index.md)
 
+##### GW170608
 # LIGO announces it has detected gravitational waves from the merger of two black holes. 
 
 

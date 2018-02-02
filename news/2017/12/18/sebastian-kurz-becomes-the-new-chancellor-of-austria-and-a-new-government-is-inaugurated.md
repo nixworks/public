@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/18/sebastian-kurz-becomes-the-new-chancellor-of-au
 
 ### [2017-12-18](/news/2017/12/18/index.md)
 
+##### Austrian legislative election, 2017
 # Sebastian Kurz becomes the new Chancellor of Austria and a new government is inaugurated. 
 
 Sebastian Kurz will become Austria’s 14th postwar chancellor on Monday amid protests over his new government to be led by the conservative and nationalists.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/25/the-president-of-ukraine-petro-poroshenko-dissolves-the-parliament-and-calls-new-elections-for-october-26.html)  [JSON](/news/2014/08/25/the-president-of-ukraine-petro-poroshenko-dissolves-the-parliament-and-calls-new-elections-for-october-26.json)  [XML](/news/2014/08/25/the-president-of-ukraine-petro-poroshenko-dissolves-the-parliament-and-calls-new-elections-for-october-26.xml)  
+
 ### [2014-08-25](/news/2014/08/25/index.md)
 
+##### Ukrainian President
 # The President of Ukraine Petro Poroshenko dissolves the Parliament and calls new elections for October 26. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2014/08/25/world/europe/ukraine-parliament/index.html?eref=edition)
 

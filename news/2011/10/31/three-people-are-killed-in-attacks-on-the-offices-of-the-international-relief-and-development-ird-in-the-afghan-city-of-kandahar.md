@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/10/31/three-people-are-killed-in-attacks-on-the-offices-of-the-international-relief-and-development-ird-in-the-afghan-city-of-kandahar.html)  [JSON](/news/2011/10/31/three-people-are-killed-in-attacks-on-the-offices-of-the-international-relief-and-development-ird-in-the-afghan-city-of-kandahar.json)  [XML](/news/2011/10/31/three-people-are-killed-in-attacks-on-the-offices-of-the-international-relief-and-development-ird-in-the-afghan-city-of-kandahar.xml)  
+
 ### [2011-10-31](/news/2011/10/31/index.md)
 
+##### Afghanistan
 # Three people are killed in attacks on the offices of the International Relief and Development (IRD) in the Afghan city of Kandahar. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo News](http://news.yahoo.com/two-killed-kandahar-suicide-attack-034314171.html)
+1. [AFP via Yahoo News](https://news.yahoo.com/two-killed-kandahar-suicide-attack-034314171.html)
 
 ### Related:
 

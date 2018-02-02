@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/09/20/gunmen-in-the-pakistan-province-of-baluchistan-open-fire-on-a-bus-carrying-shiite-pilgrims-to-iran-killing-at-least-25-people.html)  [JSON](/news/2011/09/20/gunmen-in-the-pakistan-province-of-baluchistan-open-fire-on-a-bus-carrying-shiite-pilgrims-to-iran-killing-at-least-25-people.json)  [XML](/news/2011/09/20/gunmen-in-the-pakistan-province-of-baluchistan-open-fire-on-a-bus-carrying-shiite-pilgrims-to-iran-killing-at-least-25-people.xml)  
+
 ### [2011-09-20](/news/2011/09/20/index.md)
 
+##### Pakistan
 # Gunmen in the Pakistan province of Baluchistan open fire on a bus carrying Shiite pilgrims to Iran, killing at least 25 people. 
 
 Gunmen in Baluchistan Province attacked a bus carrying Shiite pilgrims to Iran, killing at least 25 people and wounding 6 more.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/09/21/world/asia/dozens-killed-in-attack-on-pilgrim-bus-in-pakistan.html)
+1. [New York Times](https://www.nytimes.com/2011/09/21/world/asia/dozens-killed-in-attack-on-pilgrim-bus-in-pakistan.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

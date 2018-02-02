@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/24/the-white-house-announces-that-citizens-of-nort
 
 ### [2017-09-24](/news/2017/09/24/index.md)
 
+##### Immigration policy of Donald Trump
 # The White House announces that citizens of North Korea, Venezuela, and Chad will be restricted from travelling to the United States, along with citizens of the six nations previously listed in Executive Order 13780 with the exception of Sudan. 
 
 The Trump administration issued an updated travel ban with fresh restrictions on who can enter the U.S., targeting eight countries.

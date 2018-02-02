@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/11/28/jed-s-rakoff-a-judge-at-the-u-s-district-court-in-manhattan-denies-approval-to-a-settlement-agreement-between-the-securities-and-exchang.html)  [JSON](/news/2011/11/28/jed-s-rakoff-a-judge-at-the-u-s-district-court-in-manhattan-denies-approval-to-a-settlement-agreement-between-the-securities-and-exchang.json)  [XML](/news/2011/11/28/jed-s-rakoff-a-judge-at-the-u-s-district-court-in-manhattan-denies-approval-to-a-settlement-agreement-between-the-securities-and-exchang.xml)  
+
 ### [2011-11-28](/news/2011/11/28/index.md)
 
+##### Jed S. Rakoff
 # Jed S. Rakoff, a judge at the U.S. District Court in Manhattan, denies approval to a settlement agreement between the Securities and Exchange Commission and the investment bank Citigroup, which the SEC has charged with deceiving investors about the conditions under which a certain portfolio's investments had been chosen. 
 
 Judge Jed Rakoff said the proposed $285 million settlement over the sale of toxic mortgage debt was “neither fair, nor adequate, nor in the public interest” and ordered a trial.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/11/29/business/judge-rejects-sec-accord-with-citi.html)
+1. [New York Times](https://www.nytimes.com/2011/11/29/business/judge-rejects-sec-accord-with-citi.html)
 1. [Cover Image](https://static01.nyt.com/images/2011/11/29/business/29sec/29sec-thumbStandard.jpg)
 
 ### Related:

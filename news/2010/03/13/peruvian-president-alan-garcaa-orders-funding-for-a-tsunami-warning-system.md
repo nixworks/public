@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/13/peruvian-president-alan-garcaa-orders-funding-for-a-tsunami-warning-system.html)  [JSON](/news/2010/03/13/peruvian-president-alan-garcaa-orders-funding-for-a-tsunami-warning-system.json)  [XML](/news/2010/03/13/peruvian-president-alan-garcaa-orders-funding-for-a-tsunami-warning-system.xml)  
+
 ### [2010-03-13](/news/2010/03/13/index.md)
 
+##### Peru
 # Peruvian President Alan Garcia orders funding for a tsunami-warning system. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10631810)
 

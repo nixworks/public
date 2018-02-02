@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/29/fighting-broke-out-for-the-second-time-in-a-month-in-somalia-between-troops-from-the-autonomous-somaliland-and-puntland-macro-regions-so-f.html)  [JSON](/news/2004/10/29/fighting-broke-out-for-the-second-time-in-a-month-in-somalia-between-troops-from-the-autonomous-somaliland-and-puntland-macro-regions-so-f.json)  [XML](/news/2004/10/29/fighting-broke-out-for-the-second-time-in-a-month-in-somalia-between-troops-from-the-autonomous-somaliland-and-puntland-macro-regions-so-f.xml)  
+
 ### [2004-10-29](/news/2004/10/29/index.md)
 
+##### Somalia
 #  Fighting broke out for the second time in a month in Somalia between troops from the autonomous Somaliland and Puntland macro-regions. So far, fighting in the disputed region has left over a hundred dead.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/3965861.stm)
 

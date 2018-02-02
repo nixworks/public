@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/25/a-girl-scout-in-oklahoma-city-is-reported-as-having-sold-18-107-boxes-of-cookies-breaking-the-previous-record-of-18-000.html)  [JSON](/news/2014/03/25/a-girl-scout-in-oklahoma-city-is-reported-as-having-sold-18-107-boxes-of-cookies-breaking-the-previous-record-of-18-000.json)  [XML](/news/2014/03/25/a-girl-scout-in-oklahoma-city-is-reported-as-having-sold-18-107-boxes-of-cookies-breaking-the-previous-record-of-18-000.xml)  
+
 ### [2014-03-25](/news/2014/03/25/index.md)
 
+##### Girl Scout
 # A Girl Scout in Oklahoma City is reported as having sold 18,107 boxes of cookies, breaking the previous record of 18,000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KRON](http://news.kron4.com/news/girl-scout-breaks-national-record-for-cookie-sales/)
 

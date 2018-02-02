@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/6/south-africa-s-axed-deputy-president-jacob-zuma-who-lost-his-job-in-post-apartheid-south-africa-s-most-sensational-corruption-scandal-has.html)  [JSON](/news/2005/12/6/south-africa-s-axed-deputy-president-jacob-zuma-who-lost-his-job-in-post-apartheid-south-africa-s-most-sensational-corruption-scandal-has.json)  [XML](/news/2005/12/6/south-africa-s-axed-deputy-president-jacob-zuma-who-lost-his-job-in-post-apartheid-south-africa-s-most-sensational-corruption-scandal-has.xml)  
+
 ### [2005-12-6](/news/2005/12/6/index.md)
 
+##### South Africa
 #  South Africa's axed deputy president Jacob Zuma, who lost his job in post-apartheid South Africa's most sensational corruption scandal, has been charged with rape. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200512/s1525197.htm)
 

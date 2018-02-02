@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/12/former-governor-of-minnesota-tim-pawlenty-announces-that-he-will-be-seeking-the-2012-republican-nomination-for-president-of-the-united-state.html)  [JSON](/news/2011/04/12/former-governor-of-minnesota-tim-pawlenty-announces-that-he-will-be-seeking-the-2012-republican-nomination-for-president-of-the-united-state.json)  [XML](/news/2011/04/12/former-governor-of-minnesota-tim-pawlenty-announces-that-he-will-be-seeking-the-2012-republican-nomination-for-president-of-the-united-state.xml)  
+
 ### [2011-04-12](/news/2011/04/12/index.md)
 
+##### Minnesota Governor
 # Former Governor of Minnesota Tim Pawlenty announces that he will be seeking the 2012 Republican nomination for President of the United States. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://politicalticker.blogs.cnn.com/2011/04/12/pawlenty-‘i’m-running-for-president’/)
 

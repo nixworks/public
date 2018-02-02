@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2009/01/30/michael-s-steele-becomes-the-u-s-republican-national-committee-s-first-african-american-chairman.html)  [JSON](/news/2009/01/30/michael-s-steele-becomes-the-u-s-republican-national-committee-s-first-african-american-chairman.json)  [XML](/news/2009/01/30/michael-s-steele-becomes-the-u-s-republican-national-committee-s-first-african-american-chairman.xml)  
+
 ### [2009-01-30](/news/2009/01/30/index.md)
 
+##### Michael S. Steele
 #  Michael S. Steele becomes the U.S. Republican National Committee's first African-American chairman. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2009/POLITICS/01/30/rnc.chairman/index.html?eref=rss_topstories)
 
 ### Related:
 
-1. [ Barack Obama is inaugurated as the 44th and first African-American President of the United States. ](/news/2009/01/20/barack-obama-is-inaugurated-as-the-44th-and-first-african-american-president-of-the-united-states.md) _Context: African-American, United States, first_
-2. [Reince Priebus of Wisconsin is elected as the chairman of the United States Republican National Committee. ](/news/2011/01/14/reince-priebus-of-wisconsin-is-elected-as-the-chairman-of-the-united-states-republican-national-committee.md) _Context: Republican National Committee, United States_
-3. [A new study has found that the gap in wealth between white and black Americans increased by more than four times between 1984 and 2007. ](/news/2010/05/18/a-new-study-has-found-that-the-gap-in-wealth-between-white-and-black-americans-increased-by-more-than-four-times-between-1984-and-2007.md) _Context: African-American, United States_
-4. [ U.S. President Barack Obama arranged a meeting with police officer Sgt. James Crowley and African American public intellectual Henry Louis Gates at the White House in a bid to quell a dispute over racial profiling that arose from an altercation between the two of them. ](/news/2009/07/30/u-s-president-barack-obama-arranged-a-meeting-with-police-officer-sgt-james-crowley-and-african-american-public-intellectual-henry-louis.md) _Context: African-American, United States_
-5. [ The United States Federal Bureau of Investigation locates Stanford Financial Group Chairman Allen Stanford in Virginia and serves him with a fraud complaint on behalf of the Securities and Exchange Commission. ](/news/2009/02/19/the-united-states-federal-bureau-of-investigation-locates-stanford-financial-group-chairman-allen-stanford-in-virginia-and-serves-him-with.md) _Context: United States, chairman_
+1. [Reince Priebus of Wisconsin is elected as the chairman of the United States Republican National Committee. ](/news/2011/01/14/reince-priebus-of-wisconsin-is-elected-as-the-chairman-of-the-united-states-republican-national-committee.md) _Context: Republican National Committee, U.S._
+2. [ Barack Obama is inaugurated as the 44th and first African-American President of the United States. ](/news/2009/01/20/barack-obama-is-inaugurated-as-the-44th-and-first-african-american-president-of-the-united-states.md) _Context: U.S., first_
+3. [ Ken Mehlman is to step down as chairman of the National Committee of the United States Republican Party. ](/news/2006/11/9/ken-mehlman-is-to-step-down-as-chairman-of-the-national-committee-of-the-united-states-republican-party.md) _Context: Republican National Committee, U.S._
+4. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: U.S._
+5. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: U.S._

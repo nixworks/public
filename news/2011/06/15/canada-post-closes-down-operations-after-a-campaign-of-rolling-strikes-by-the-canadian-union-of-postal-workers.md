@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/15/canada-post-closes-down-operations-after-a-campaign-of-rolling-strikes-by-the-canadian-union-of-postal-workers.html)  [JSON](/news/2011/06/15/canada-post-closes-down-operations-after-a-campaign-of-rolling-strikes-by-the-canadian-union-of-postal-workers.json)  [XML](/news/2011/06/15/canada-post-closes-down-operations-after-a-campaign-of-rolling-strikes-by-the-canadian-union-of-postal-workers.xml)  
+
 ### [2011-06-15](/news/2011/06/15/index.md)
 
+##### Canada Post
 # Canada Post closes down operations after a campaign of rolling strikes by the Canadian Union of Postal Workers. 
 
 The federal government has served notice that it intends to introduce back-to-work legislation in the House to end the contract dispute between Canada Post and its 48,000 urban postal workers.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/calgary/story/2011/06/15/canada-post-strike.html)
 1. [Cover Image](https://i.cbc.ca/1.1992640.1381553286!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-post-strike-081329-852.jpg)

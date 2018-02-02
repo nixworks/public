@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/16/six-people-were-killed-and-a-dozen-injured-when-two-buses-collided-in-hangzhou-city-east-china-s-zhejiang-province-china.html)  [JSON](/news/2010/12/16/six-people-were-killed-and-a-dozen-injured-when-two-buses-collided-in-hangzhou-city-east-china-s-zhejiang-province-china.json)  [XML](/news/2010/12/16/six-people-were-killed-and-a-dozen-injured-when-two-buses-collided-in-hangzhou-city-east-china-s-zhejiang-province-china.xml)  
+
 ### [2010-12-16](/news/2010/12/16/index.md)
 
+##### Hangzhou
 # Six people were killed and a dozen injured when two buses collided in Hangzhou City, east China's Zhejiang Province, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kunming via Xinhua](http://en.kunming.cn/index/content/2010-12/17/content_2371631.htm)
 

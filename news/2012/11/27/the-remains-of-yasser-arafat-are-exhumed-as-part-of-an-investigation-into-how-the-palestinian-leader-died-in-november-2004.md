@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/27/the-remains-of-yasser-arafat-are-exhumed-as-part-of-an-investigation-into-how-the-palestinian-leader-died-in-november-2004.html)  [JSON](/news/2012/11/27/the-remains-of-yasser-arafat-are-exhumed-as-part-of-an-investigation-into-how-the-palestinian-leader-died-in-november-2004.json)  [XML](/news/2012/11/27/the-remains-of-yasser-arafat-are-exhumed-as-part-of-an-investigation-into-how-the-palestinian-leader-died-in-november-2004.xml)  
+
 ### [2012-11-27](/news/2012/11/27/index.md)
 
+##### Yasser Arafat
 # The remains of Yasser Arafat are exhumed as part of an investigation into how the Palestinian leader died in November 2004. 
 
 The remains of Palestinian leader Yasser Arafat are exhumed in Ramallah so experts can investigate allegations that he was poisoned.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20501945)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64399000/jpg/_64399616_64399615.jpg)

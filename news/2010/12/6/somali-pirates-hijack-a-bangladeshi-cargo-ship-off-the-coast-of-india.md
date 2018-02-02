@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/6/somali-pirates-hijack-a-bangladeshi-cargo-ship-off-the-coast-of-india.html)  [JSON](/news/2010/12/6/somali-pirates-hijack-a-bangladeshi-cargo-ship-off-the-coast-of-india.json)  [XML](/news/2010/12/6/somali-pirates-hijack-a-bangladeshi-cargo-ship-off-the-coast-of-india.xml)  
+
 ### [2010-12-6](/news/2010/12/6/index.md)
 
+##### Somali pirates
 # Somali pirates hijack a Bangladeshi cargo ship off the coast of India. 
 
 A Bangladeshi-flagged cargo ship hijacked by pirates off the coast of India appears to be heading towards the Somali coast, shipping officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11925616)
 2. [Capital FM Kenya](http://www.capitalfm.co.ke/news/Africa/Pirates-steering-ship-towards-Somalia-10766.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/8/the-united-nations-appoints-a-three-member-panel-led-by-australian-high-court-judge-michael-kirby-to-investigate-alleged-human-rights-breach.html)  [JSON](/news/2013/05/8/the-united-nations-appoints-a-three-member-panel-led-by-australian-high-court-judge-michael-kirby-to-investigate-alleged-human-rights-breach.json)  [XML](/news/2013/05/8/the-united-nations-appoints-a-three-member-panel-led-by-australian-high-court-judge-michael-kirby-to-investigate-alleged-human-rights-breach.xml)  
+
 ### [2013-05-8](/news/2013/05/8/index.md)
 
+##### United Nations
 # The United Nations appoints a three-member panel led by Australian High Court judge Michael Kirby to investigate alleged human rights breaches in North Korea. 
 
 The UN names three panel members of its first-ever human rights investigation into North Korea, which will examine prison camps and torture.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22445339)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66545000/jpg/_66545289_017208497-1.jpg)

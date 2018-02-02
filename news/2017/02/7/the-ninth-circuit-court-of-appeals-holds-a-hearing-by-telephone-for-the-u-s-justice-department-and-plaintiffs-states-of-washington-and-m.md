@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/7/the-ninth-circuit-court-of-appeals-holds-a-heari
 
 ### [2017-02-7](/news/2017/02/7/index.md)
 
+##### U.S. immigration suspension
 # The Ninth Circuit Court of Appeals holds a hearing, by telephone, for the U.S. Justice Department and plaintiffs (states of Washington and Minnesota) arguments whether or not to reinstate the travel ban suspended on Friday by U.S. District Court Judge James Robart. Judge Michelle Friedland states the court will work to deliver its decision quickly. 
 
 The U.S. Court of Appeals for the 9th Circuit asked the Justice Department and lawyers for the states of Washington and Minnesota to argue the matter Tuesday.

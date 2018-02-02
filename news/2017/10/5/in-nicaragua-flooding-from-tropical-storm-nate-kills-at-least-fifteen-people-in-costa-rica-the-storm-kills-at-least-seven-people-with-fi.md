@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-k
 
 ### [2017-10-5](/news/2017/10/5/index.md)
 
+##### Tropical Storm Nate
 # In Nicaragua, flooding from Tropical Storm Nate, kills at least fifteen people. In Costa Rica, the storm kills at least seven people with fifteen missing. 
 
 The Latest on Tropical Storm Nate (all times local): 5:30 p.m. Louisiana Gov. John Bel Edwards has declared a state of emergency as his state prepares for a direct hit from Tropical Storm Nate, possibly as a hurricane. The governor said 1,300 National Guard troops are being...

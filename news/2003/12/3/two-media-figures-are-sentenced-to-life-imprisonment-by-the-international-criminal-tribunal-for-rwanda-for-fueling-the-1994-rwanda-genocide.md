@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/3/two-media-figures-are-sentenced-to-life-imprisonment-by-the-international-criminal-tribunal-for-rwanda-for-fueling-the-1994-rwanda-genocide.html)  [JSON](/news/2003/12/3/two-media-figures-are-sentenced-to-life-imprisonment-by-the-international-criminal-tribunal-for-rwanda-for-fueling-the-1994-rwanda-genocide.json)  [XML](/news/2003/12/3/two-media-figures-are-sentenced-to-life-imprisonment-by-the-international-criminal-tribunal-for-rwanda-for-fueling-the-1994-rwanda-genocide.xml)  
+
 ### [2003-12-3](/news/2003/12/3/index.md)
 
+##### mass media
 # Two media figures are sentenced to life imprisonment by the International Criminal Tribunal for Rwanda for fueling the 1994 Rwanda genocide; a third receives a 35-year prison term. 
 
 

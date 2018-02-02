@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/02/29/the-african-union-says-its-troops-will-arrive-in-the-comoros-in-a-few-days.html)  [JSON](/news/2008/02/29/the-african-union-says-its-troops-will-arrive-in-the-comoros-in-a-few-days.json)  [XML](/news/2008/02/29/the-african-union-says-its-troops-will-arrive-in-the-comoros-in-a-few-days.xml)  
+
 ### [2008-02-29](/news/2008/02/29/index.md)
 
+##### African Union
 #  The African Union says its troops will arrive in the Comoros in a few days. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL28680791)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/latestCrisis/idUSL28680791)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

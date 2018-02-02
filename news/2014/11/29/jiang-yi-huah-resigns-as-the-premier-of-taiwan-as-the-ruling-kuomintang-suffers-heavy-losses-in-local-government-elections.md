@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/29/jiang-yi-huah-resigns-as-the-premier-of-taiwan-as-the-ruling-kuomintang-suffers-heavy-losses-in-local-government-elections.html)  [JSON](/news/2014/11/29/jiang-yi-huah-resigns-as-the-premier-of-taiwan-as-the-ruling-kuomintang-suffers-heavy-losses-in-local-government-elections.json)  [XML](/news/2014/11/29/jiang-yi-huah-resigns-as-the-premier-of-taiwan-as-the-ruling-kuomintang-suffers-heavy-losses-in-local-government-elections.xml)  
+
 ### [2014-11-29](/news/2014/11/29/index.md)
 
+##### Jiang Yi-huah
 # Jiang Yi-huah resigns as the Premier of Taiwan as the ruling Kuomintang suffers heavy losses in local government elections. 
 
 Jiang Yi-huah announced that he had stepped down, saying that he took “political responsibility” for the Kuomintang’s heavy losses in local polls.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Khaleej Times](http://www.khaleejtimes.com/kt-article-display-1.asp?section=international&xfile=data/international/2014/November/international_November662.xml)
 1. [Cover Image](http://www.khaleejtimes.com/storyimage/KT/20141129/ARTICLE/311299935/AR/0/AR-311299935.jpg&NCS_modified=

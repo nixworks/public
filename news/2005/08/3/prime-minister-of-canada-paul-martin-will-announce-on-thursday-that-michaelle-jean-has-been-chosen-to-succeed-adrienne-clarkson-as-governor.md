@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/3/prime-minister-of-canada-paul-martin-will-announce-on-thursday-that-michaelle-jean-has-been-chosen-to-succeed-adrienne-clarkson-as-governor.html)  [JSON](/news/2005/08/3/prime-minister-of-canada-paul-martin-will-announce-on-thursday-that-michaelle-jean-has-been-chosen-to-succeed-adrienne-clarkson-as-governor.json)  [XML](/news/2005/08/3/prime-minister-of-canada-paul-martin-will-announce-on-thursday-that-michaelle-jean-has-been-chosen-to-succeed-adrienne-clarkson-as-governor.xml)  
+
 ### [2005-08-3](/news/2005/08/3/index.md)
 
+##### Prime Minister of Canada
 #  Prime Minister of Canada Paul Martin will announce on Thursday that Michalle Jean has been chosen to succeed Adrienne Clarkson as Governor General of Canada. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2005/08/03/gg050803.html)
 

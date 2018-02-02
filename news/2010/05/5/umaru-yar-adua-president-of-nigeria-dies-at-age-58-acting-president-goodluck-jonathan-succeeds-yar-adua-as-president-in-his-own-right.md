@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/5/umaru-yar-adua-president-of-nigeria-dies-at-age-58-acting-president-goodluck-jonathan-succeeds-yar-adua-as-president-in-his-own-right.html)  [JSON](/news/2010/05/5/umaru-yar-adua-president-of-nigeria-dies-at-age-58-acting-president-goodluck-jonathan-succeeds-yar-adua-as-president-in-his-own-right.json)  [XML](/news/2010/05/5/umaru-yar-adua-president-of-nigeria-dies-at-age-58-acting-president-goodluck-jonathan-succeeds-yar-adua-as-president-in-his-own-right.xml)  
+
 ### [2010-05-5](/news/2010/05/5/index.md)
 
+##### Umaru Yar'Adua
 # Umaru Yar'Adua, President of Nigeria, dies at age 58. Acting President Goodluck Jonathan succeeds Yar'Adua as President in his own right. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/05/nigeria.president.dead/index.html?hpt=T1)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Nigeria-President-Umaru-YarAdua-Has-Died-At-The-Age-Of-58/Article/201005115626233?lpos=World_News_First_Home_Article_Teaser_Region_0&lid=ARTICLE_15626233_Nigeria_President_Umaru_YarAdua_Has_Died_At_The_Age_Of_58)

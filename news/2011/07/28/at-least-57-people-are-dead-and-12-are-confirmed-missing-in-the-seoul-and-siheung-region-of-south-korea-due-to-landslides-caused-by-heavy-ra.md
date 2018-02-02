@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/28/at-least-57-people-are-dead-and-12-are-confirmed-missing-in-the-seoul-and-siheung-region-of-south-korea-due-to-landslides-caused-by-heavy-ra.html)  [JSON](/news/2011/07/28/at-least-57-people-are-dead-and-12-are-confirmed-missing-in-the-seoul-and-siheung-region-of-south-korea-due-to-landslides-caused-by-heavy-ra.json)  [XML](/news/2011/07/28/at-least-57-people-are-dead-and-12-are-confirmed-missing-in-the-seoul-and-siheung-region-of-south-korea-due-to-landslides-caused-by-heavy-ra.xml)  
+
 ### [2011-07-28](/news/2011/07/28/index.md)
 
+##### Seoul
 # At least 57 people are dead and 12 are confirmed missing in the Seoul and Siheung region of South Korea due to landslides caused by heavy rain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV News](http://www.ctv.ca/CTVNews/World/20110728/mudslide-aftermath-search-korea-110728/)
 2. [News Limited](http://www.heraldsun.com.au/news/world/torrential-rains-kill-36-in-south-korea/story-e6frf7lo-1226103249578)

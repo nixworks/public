@@ -1,26 +1,33 @@
+
+Formats: [HTML](2005/10/13/index.html)  [JSON](2005/10/13/index.json)  [XML](2005/10/13/index.xml)  
+
 ## [2005-10-13](/news/2005/10/13/index.md)
 
+##### United Nations
 ### [ The United Nations is to evacuate some staff from Sudan's West Darfur state because of an increase in violence. U.N. officials said that the violence had hindered aid access to 650,000 refugees in the region. ](/news/2005/10/13/the-united-nations-is-to-evacuate-some-staff-from-sudan-s-west-darfur-state-because-of-an-increase-in-violence-u-n-officials-said-that-th.md)
-_Context: Sudan, United Nations, West Darfur_
+_Context: West Darfur, United Nations, Sudan_
 
-### [ "Right to Information Act" 2005, (Act No. 22-2005) law enacted by the Parliament of India giving citizens of India access to Government records, came into force in India. [http:--righttoinformation.gov.in- (RTIAct) ]](/news/2005/10/13/right-to-information-act-2005-act-no-22-2005-law-enacted-by-the-parliament-of-india-giving-citizens-of-india-access-to-government-rec.md)
-_Context: India, Right to Information Act_
-
+##### ABC
 ### [ ABC investigative reporter Brian Ross reports that security at nuclear reactors on U.S. college campuses is easily compromised. ](/news/2005/10/13/abc-investigative-reporter-brian-ross-reports-that-security-at-nuclear-reactors-on-u-s-college-campuses-is-easily-compromised.md)
 _Context: ABC, United States of America_
 
+##### Shenzhou 6
 ### [ "Shenzhou 6" could be brought back one day earlier than planned due to weather conditions at the landing area and the physical condition of the astronauts. The People's Republic of China's second human spaceflight was originally planned for the mission to last five days. ](/news/2005/10/13/shenzhou-6-could-be-brought-back-one-day-earlier-than-planned-due-to-weather-conditions-at-the-landing-area-and-the-physical-condition-of.md)
-_Context: China, Shenzhou 6, fly humans to space_
+_Context: Shenzhou 6, manned launch, China_
 
+##### Chechen
 ### [ Scores of suspected Chechen separatist rebels attack the southern Russian city of Nalchik in a coordinated operation against Russian security forces, killing dozens of people. ](/news/2005/10/13/scores-of-suspected-chechen-separatist-rebels-attack-the-southern-russian-city-of-nalchik-in-a-coordinated-operation-against-russian-securi.md)
-_Context: Chechen, Nalchik, Russia, separatist_
+_Context: Russia, separatist, Chechen, Nalchik_
 
+##### bird flu
 ### [ The presence of the dangerous H5N1 avian influenza virus is confirmed in dead birds found in Turkey, marking the first cases of the disease in Europe. ](/news/2005/10/13/the-presence-of-the-dangerous-h5n1-avian-influenza-virus-is-confirmed-in-dead-birds-found-in-turkey-marking-the-first-cases-of-the-disease.md)
-_Context: Avian flu virus, Europe, Turkey, bird flu, virus_
+_Context: virus, Europe, avian influenza, Turkish, bird flu_
 
+##### Stockholm
 ### [ In Stockholm, it is announced that British playwright Harold Pinter is the 2005 winner of the Nobel Prize for Literature. ](/news/2005/10/13/in-stockholm-it-is-announced-that-british-playwright-harold-pinter-is-the-2005-winner-of-the-nobel-prize-for-literature.md)
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
+##### in the vote held
 ### [ Iraq's Constitutional Referendum: A four day curfew has been announced in order to hamper terrorists. Early voting has begun. ](/news/2005/10/13/iraq-s-constitutional-referendum-a-four-day-curfew-has-been-announced-in-order-to-hamper-terrorists-early-voting-has-begun.md)
 _Context: in the vote held_
 

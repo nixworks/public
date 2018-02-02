@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/6/vodafone-reveals-that-the-governments-of-six-countries-have-a-permanent-link-to-monitor-communications-throughout-vodafone-s-networks.html)  [JSON](/news/2014/06/6/vodafone-reveals-that-the-governments-of-six-countries-have-a-permanent-link-to-monitor-communications-throughout-vodafone-s-networks.json)  [XML](/news/2014/06/6/vodafone-reveals-that-the-governments-of-six-countries-have-a-permanent-link-to-monitor-communications-throughout-vodafone-s-networks.xml)  
+
 ### [2014-06-6](/news/2014/06/6/index.md)
 
+##### Vodafone Group Plc
 # Vodafone reveals that the governments of six countries have a permanent link to monitor communications throughout Vodafone's networks. 
 
 Vodafone says that a small number of governments have direct access to communications flowing over its networks.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-27732743)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75351000/jpg/_75351424_vodafone3.jpg)

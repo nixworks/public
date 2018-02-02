@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2013/02/26/a-study-finds-that-sleep-loss-can-alter-gene-behavior-which-may-explain-why-it-often-precedes-medical-problems-such-as-diabetes-obesity-a.html)  [JSON](/news/2013/02/26/a-study-finds-that-sleep-loss-can-alter-gene-behavior-which-may-explain-why-it-often-precedes-medical-problems-such-as-diabetes-obesity-a.json)  [XML](/news/2013/02/26/a-study-finds-that-sleep-loss-can-alter-gene-behavior-which-may-explain-why-it-often-precedes-medical-problems-such-as-diabetes-obesity-a.xml)  
+
 ### [2013-02-26](/news/2013/02/26/index.md)
 
+##### sleep loss
 # A study finds that sleep loss can alter gene behavior, which may explain why it often precedes medical problems such as diabetes, obesity, and heart disease. 
 
+Just a week of inadequate sleep can alter the activity of hundreds of genes, which may help scientists explain how wakeful nights can lead to ailments such as diabetes, obesity and heart disease.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2013-02-25/sleep-loss-alters-genes-while-raising-risk-of-disease.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2013-02-25/sleep-loss-alters-genes-while-raising-risk-of-disease.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

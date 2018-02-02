@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/30/somali-pirates-seize-a-panamanian-flagged-ship-with-15-indian-crewmen-on-board-off-the-coast-of-tanzania.html)  [JSON](/news/2010/09/30/somali-pirates-seize-a-panamanian-flagged-ship-with-15-indian-crewmen-on-board-off-the-coast-of-tanzania.json)  [XML](/news/2010/09/30/somali-pirates-seize-a-panamanian-flagged-ship-with-15-indian-crewmen-on-board-off-the-coast-of-tanzania.xml)  
+
 ### [2010-09-30](/news/2010/09/30/index.md)
 
+##### Somali pirates
 # Somali pirates seize a Panamanian-flagged ship with 15 Indian crewmen on board, off the coast of Tanzania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Emirates 24/7](http://www.emirates247.com/2.277/logistics/uae-tanker-hijacked-in-somalia-2010-09-30-1.297500)
 2. [The Citizen](http://thecitizen.co.tz/news/4-national-news/4465-pirates-seize-ship-in-tanzania-waters.html)

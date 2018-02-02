@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/11/authorities-in-the-indian-state-of-madhya-pradesh-investigate-the-attack-of-social-worker-shakuntala-verma-after-she-had-investigated-claim.html)  [JSON](/news/2005/05/11/authorities-in-the-indian-state-of-madhya-pradesh-investigate-the-attack-of-social-worker-shakuntala-verma-after-she-had-investigated-claim.json)  [XML](/news/2005/05/11/authorities-in-the-indian-state-of-madhya-pradesh-investigate-the-attack-of-social-worker-shakuntala-verma-after-she-had-investigated-claim.xml)  
+
 ### [2005-05-11](/news/2005/05/11/index.md)
 
+##### India
 #  Authorities in the Indian state of Madhya Pradesh investigate the attack of social worker Shakuntala Verma after she had investigated claims of illegal child marriages. One of her hands was severed and the other was badly wounded. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Newindpress](http://www.newindpress.com/Newsitems.asp?ID=IEP20050511102045&Title=States&Topic=0)
 2. [Telegraph](http://www.telegraphindia.com/1050512/asp/frontpage/story_4728864.asp)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/23/in-serbia-the-miloa-evia-founded-socialist-party-is-to-join-the-coalition-led-by-the-pro-western-democratic-party-which-came-to-power-in.html)  [JSON](/news/2008/06/23/in-serbia-the-miloa-evia-founded-socialist-party-is-to-join-the-coalition-led-by-the-pro-western-democratic-party-which-came-to-power-in.json)  [XML](/news/2008/06/23/in-serbia-the-miloa-evia-founded-socialist-party-is-to-join-the-coalition-led-by-the-pro-western-democratic-party-which-came-to-power-in.xml)  
+
 ### [2008-06-23](/news/2008/06/23/index.md)
 
+##### Serbia
 #  In Serbia, the Milosevic-founded Socialist Party is to join the coalition led by the pro-Western Democratic Party which came to power in 2007 elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7470087.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/5/a-helicopter-crashes-near-saudi-arabia-s-border-
 
 ### [2017-11-5](/news/2017/11/5/index.md)
 
+##### Helicopter accidents and incidents
 # A helicopter crashes near Saudi Arabia's border with Yemen, killing Prince Mansour bin Muqrin, and seven other Saudi officials. The cause of the crash is unknown. 
 
 Saudi Arabia said the crash happened as the prince was touring local projects 500 miles southwest of Riyadh.

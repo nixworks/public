@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/11/japanas-emperor-and-prime-minister-attend-a-mem
 
 ### [2016-03-11](/news/2016/03/11/index.md)
 
+##### Japan
 # Japan's emperor and prime minister attend a memorial service marking the fifth anniversary of the 2011 Tohoku earthquake and tsunami in which 15,894 people died and caused the Fukushima Daiichi nuclear disaster. Many people remain displaced and recovery efforts are ongoing. 
 
 

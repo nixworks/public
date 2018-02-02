@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/17/european-researchers-conclude-that-the-male-menopause-exists-in-2-of-middle-aged-men-who-experience-poor-morning-erection-low-levels-of-se.html)  [JSON](/news/2010/06/17/european-researchers-conclude-that-the-male-menopause-exists-in-2-of-middle-aged-men-who-experience-poor-morning-erection-low-levels-of-se.json)  [XML](/news/2010/06/17/european-researchers-conclude-that-the-male-menopause-exists-in-2-of-middle-aged-men-who-experience-poor-morning-erection-low-levels-of-se.xml)  
+
 ### [2010-06-17](/news/2010/06/17/index.md)
 
+##### Europe
 # European researchers conclude that the male menopause exists in 2% of middle-aged men who experience poor morning erection, low levels of sexual desire and erectile dysfunction. 
 
 The male menopause does exist - but it is rare, researchers have concluded.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/health/10338355.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

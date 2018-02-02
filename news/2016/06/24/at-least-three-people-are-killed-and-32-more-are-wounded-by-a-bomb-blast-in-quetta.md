@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/24/at-least-three-people-are-killed-and-32-more-ar
 
 ### [2016-06-24](/news/2016/06/24/index.md)
 
+##### War in North-West Pakistan
 # At least three people are killed and 32 more are wounded by a bomb blast in Quetta. 
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/22/the-indian-state-government-of-tamil-nadu-lifts
 
 ### [2017-01-22](/news/2017/01/22/index.md)
 
+##### India
 # The Indian state government of Tamil Nadu lifts its ban on the sport of Jallikattu, following five days of protests by demonstrators against the ban. 
 
 

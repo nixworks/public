@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/17/civilian-space-exploration-team-csxt-21-foot-gofast-amateur-rocket-is-launched-carrying-an-amateur-radio-and-reaches-the-edge-of-spac.html)  [JSON](/news/2004/05/17/civilian-space-exploration-team-csxt-21-foot-gofast-amateur-rocket-is-launched-carrying-an-amateur-radio-and-reaches-the-edge-of-spac.json)  [XML](/news/2004/05/17/civilian-space-exploration-team-csxt-21-foot-gofast-amateur-rocket-is-launched-carrying-an-amateur-radio-and-reaches-the-edge-of-spac.xml)  
+
 ### [2004-05-17](/news/2004/05/17/index.md)
 
+##### Civilian Space eXploration Team
 #  Civilian Space eXploration Team (CSXT) 21-foot "GoFast" amateur rocket is launched, carrying an amateur radio, and reaches the edge of space at 100&nbsp;km altitude. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AARL](http://www.arrl.org/news/stories/2004/05/17/100/?nc=1)
 

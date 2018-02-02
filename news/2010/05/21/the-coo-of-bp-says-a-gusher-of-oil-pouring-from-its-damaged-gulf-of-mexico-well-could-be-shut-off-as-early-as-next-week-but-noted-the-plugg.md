@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2010/05/21/the-coo-of-bp-says-a-gusher-of-oil-pouring-from-its-damaged-gulf-of-mexico-well-could-be-shut-off-as-early-as-next-week-but-noted-the-plugg.html)  [JSON](/news/2010/05/21/the-coo-of-bp-says-a-gusher-of-oil-pouring-from-its-damaged-gulf-of-mexico-well-could-be-shut-off-as-early-as-next-week-but-noted-the-plugg.json)  [XML](/news/2010/05/21/the-coo-of-bp-says-a-gusher-of-oil-pouring-from-its-damaged-gulf-of-mexico-well-could-be-shut-off-as-early-as-next-week-but-noted-the-plugg.xml)  
+
 ### [2010-05-21](/news/2010/05/21/index.md)
 
+##### BP
 # The COO of BP says a gusher of oil pouring from its damaged Gulf of Mexico well could be shut off as early as next week, but noted the plugging operation is "quite complex" and has never been tried in water that deep. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/US/05/21/gulf.oil.spill/index.html?hpt=T2)
+
+### Changes:
+
+1. [Deepwater Horizon oil spill :The COO of BP says a gusher of oil pouring from its damaged Gulf of Mexico well could be shut off as early as next week, but noted the plugging operation is "quite complex" and has never been tried in water that deep. ](/news/2010/05/21/deepwater-horizon-oil-spill-pthe-coo-of-bp-says-a-gusher-of-oil-pouring-from-its-damaged-gulf-of-mexico-well-could-be-shut-off-as-early-as.md) _2017-08-25 03:27:58 (First version)_
+2. [Deepwater Horizon oil spill :: The COO of BP says a gusher of oil pouring from its damaged Gulf of Mexico well could be shut off as early as next week, but noted the plugging operation is "quite complex" and has never been tried in water that deep. ](/news/2010/05/21/deepwater-horizon-oil-spill-the-coo-of-bp-says-a-gusher-of-oil-pouring-from-its-damaged-gulf-of-mexico-well-could-be-shut-off-as-early-as.md) _2017-08-27 03:27:56 (Update)_
+2. [The COO of BP says a gusher of oil pouring from its damaged Gulf of Mexico well could be shut off as early as next week, but noted the plugging operation is "quite complex" and has never been tried in water that deep. ](/news/2010/05/21/the-coo-of-bp-says-a-gusher-of-oil-pouring-from-its-damaged-gulf-of-mexico-well-could-be-shut-off-as-early-as-next-week-but-noted-the-plugg.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [The United States Department of Justice files papers in court documenting BP's "gross negligence and willful misconduct" over the April 2010 oil spill in the Gulf of Mexico. ](/news/2012/09/4/the-united-states-department-of-justice-files-papers-in-court-documenting-bp-s-gross-negligence-and-willful-misconduct-over-the-april-2010.md) _Context: BP, Gulf of Mexico_
 4. [BP and plaintiffs reach an agreement over compensation for the Deepwater Horizon oil spill in the Gulf of Mexico. ](/news/2012/03/2/bp-and-plaintiffs-reach-an-agreement-over-compensation-for-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico.md) _Context: BP, Gulf of Mexico_
 5. [BP raises the estimated cost of the Deepwater Horizon oil spill in the Gulf of Mexico to $40 billion. ](/news/2010/11/2/bp-raises-the-estimated-cost-of-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico-to-40-billion.md) _Context: BP, Gulf of Mexico_
-
-### Changes:
-
-1. [Deepwater Horizon oil spill :The COO of BP says a gusher of oil pouring from its damaged Gulf of Mexico well could be shut off as early as next week, but noted the plugging operation is "quite complex" and has never been tried in water that deep. ](/news/2010/05/21/deepwater-horizon-oil-spill-pthe-coo-of-bp-says-a-gusher-of-oil-pouring-from-its-damaged-gulf-of-mexico-well-could-be-shut-off-as-early-as.md) _2017-08-25 03:27:58 (First version)_
-2. [Deepwater Horizon oil spill :: The COO of BP says a gusher of oil pouring from its damaged Gulf of Mexico well could be shut off as early as next week, but noted the plugging operation is "quite complex" and has never been tried in water that deep. ](/news/2010/05/21/deepwater-horizon-oil-spill-the-coo-of-bp-says-a-gusher-of-oil-pouring-from-its-damaged-gulf-of-mexico-well-could-be-shut-off-as-early-as.md) _2017-08-27 03:27:56 (Update)_
-2. [The COO of BP says a gusher of oil pouring from its damaged Gulf of Mexico well could be shut off as early as next week, but noted the plugging operation is "quite complex" and has never been tried in water that deep. ](/news/2010/05/21/the-coo-of-bp-says-a-gusher-of-oil-pouring-from-its-damaged-gulf-of-mexico-well-could-be-shut-off-as-early-as-next-week-but-noted-the-plugg.md) _(Current version)_

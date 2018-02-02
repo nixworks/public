@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/27/two-canadian-medics-are-killed-in-afghanistan-20-kilometres-west-of-kandahar-city-in-panjwaii-district.html)  [JSON](/news/2010/06/27/two-canadian-medics-are-killed-in-afghanistan-20-kilometres-west-of-kandahar-city-in-panjwaii-district.json)  [XML](/news/2010/06/27/two-canadian-medics-are-killed-in-afghanistan-20-kilometres-west-of-kandahar-city-in-panjwaii-district.xml)  
+
 ### [2010-06-27](/news/2010/06/27/index.md)
 
+##### Canadian
 # Two Canadian medics are killed in Afghanistan, 20 kilometres west of Kandahar City in Panjwaii District. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Vancouver Sun](http://www.vancouversun.com/news/Canadian+medics+killed+Afghanistan/3206752/story.html)
 

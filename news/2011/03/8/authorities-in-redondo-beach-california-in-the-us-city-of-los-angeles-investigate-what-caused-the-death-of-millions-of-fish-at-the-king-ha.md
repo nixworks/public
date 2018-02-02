@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/8/authorities-in-redondo-beach-california-in-the-us-city-of-los-angeles-investigate-what-caused-the-death-of-millions-of-fish-at-the-king-ha.html)  [JSON](/news/2011/03/8/authorities-in-redondo-beach-california-in-the-us-city-of-los-angeles-investigate-what-caused-the-death-of-millions-of-fish-at-the-king-ha.json)  [XML](/news/2011/03/8/authorities-in-redondo-beach-california-in-the-us-city-of-los-angeles-investigate-what-caused-the-death-of-millions-of-fish-at-the-king-ha.xml)  
+
 ### [2011-03-8](/news/2011/03/8/index.md)
 
+##### Redondo Beach
 # Authorities in Redondo Beach, California, in the US city of Los Angeles investigate what caused the death of millions of fish at the King Harbor Marina. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2011/03/redondo-beach-authorities-report-large-fish-kill-at-king-harbor.html)
 1. [Cover Image](http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef014e5fb9befe970c-120pi)

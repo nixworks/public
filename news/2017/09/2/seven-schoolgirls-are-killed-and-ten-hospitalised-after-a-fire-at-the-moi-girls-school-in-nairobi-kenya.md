@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalise
 
 ### [2017-09-2](/news/2017/09/2/index.md)
 
+##### 2017 disasters in Kenya
 # Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. 
 
 Eight Kenyan teenage schoolgirls died and 10 more were hospitalized after a fire engulfed their boarding school dormitory in Nairobi early on Saturday morning, a government official said.

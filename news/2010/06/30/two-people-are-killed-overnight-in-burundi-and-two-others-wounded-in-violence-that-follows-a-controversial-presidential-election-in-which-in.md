@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/30/two-people-are-killed-overnight-in-burundi-and-two-others-wounded-in-violence-that-follows-a-controversial-presidential-election-in-which-in.html)  [JSON](/news/2010/06/30/two-people-are-killed-overnight-in-burundi-and-two-others-wounded-in-violence-that-follows-a-controversial-presidential-election-in-which-in.json)  [XML](/news/2010/06/30/two-people-are-killed-overnight-in-burundi-and-two-others-wounded-in-violence-that-follows-a-controversial-presidential-election-in-which-in.xml)  
+
 ### [2010-06-30](/news/2010/06/30/index.md)
 
+##### Burundi
 # Two people are killed overnight in Burundi and two others wounded in violence that follows a controversial presidential election in which incumbent Pierre Nkurunziza was the only candidate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Nation](http://www.nation.co.ke/News/africa/Two%20killed%20in%20Burundi%20%20after%20vote/-/1066/949140/-/aqlk86z/-/index.html)
 

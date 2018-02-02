@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/27/the-italian-senate-votes-to-expel-ex-prime-minister-silvio-berlusconi-from-parliament-over-his-conviction-for-tax-fraud.html)  [JSON](/news/2013/11/27/the-italian-senate-votes-to-expel-ex-prime-minister-silvio-berlusconi-from-parliament-over-his-conviction-for-tax-fraud.json)  [XML](/news/2013/11/27/the-italian-senate-votes-to-expel-ex-prime-minister-silvio-berlusconi-from-parliament-over-his-conviction-for-tax-fraud.xml)  
+
 ### [2013-11-27](/news/2013/11/27/index.md)
 
+##### Italian senate
 # The Italian Senate votes to expel ex-Prime Minister Silvio Berlusconi from parliament over his conviction for tax fraud. 
 
 The Italian Senate expelled former prime minister Silvio Berlusconi over his tax fraud conviction on Wednesday, humiliating the veteran centre-right leader who vowed to continue leading his party from outside parliament.
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/news/world/silvio-berlusconi-expelled-from-parliament-by-italy-s-senate-1.2441982)
 2. [CNN](http://edition.cnn.com/2013/11/27/world/europe/italy-berlusconi/)

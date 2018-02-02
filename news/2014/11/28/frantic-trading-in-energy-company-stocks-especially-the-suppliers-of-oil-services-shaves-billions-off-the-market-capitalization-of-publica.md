@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/11/28/frantic-trading-in-energy-company-stocks-especially-the-suppliers-of-oil-services-shaves-billions-off-the-market-capitalization-of-publica.html)  [JSON](/news/2014/11/28/frantic-trading-in-energy-company-stocks-especially-the-suppliers-of-oil-services-shaves-billions-off-the-market-capitalization-of-publica.json)  [XML](/news/2014/11/28/frantic-trading-in-energy-company-stocks-especially-the-suppliers-of-oil-services-shaves-billions-off-the-market-capitalization-of-publica.xml)  
+
 ### [2014-11-28](/news/2014/11/28/index.md)
 
+##### market capitalization
 # Frantic trading in energy company stocks, especially the suppliers of oil-services, shaves billions off the market capitalization of publically traded businesses within this sector. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/11/28/us-energy-oil-stocks-idUSKCN0JC1DI20141128)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20141128&t=2&i=995369101&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAR0QH)
+1. [Reuters](https://www.reuters.com/article/2014/11/28/us-energy-oil-stocks-idUSKCN0JC1DI20141128)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20141128&t=2&i=995369101&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEAAR0QH)
 
 ### Related:
 

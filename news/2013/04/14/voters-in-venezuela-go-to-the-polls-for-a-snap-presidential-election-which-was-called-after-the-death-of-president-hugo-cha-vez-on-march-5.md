@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/14/voters-in-venezuela-go-to-the-polls-for-a-snap-presidential-election-which-was-called-after-the-death-of-president-hugo-cha-vez-on-march-5.html)  [JSON](/news/2013/04/14/voters-in-venezuela-go-to-the-polls-for-a-snap-presidential-election-which-was-called-after-the-death-of-president-hugo-cha-vez-on-march-5.json)  [XML](/news/2013/04/14/voters-in-venezuela-go-to-the-polls-for-a-snap-presidential-election-which-was-called-after-the-death-of-president-hugo-cha-vez-on-march-5.xml)  
+
 ### [2013-04-14](/news/2013/04/14/index.md)
 
+##### Venezuela
 # Voters in Venezuela go to the polls for a snap presidential election, which was called after the death of President Hugo Chavez on March 5. 
 
 Venezuelans have been voting to choose a successor to late President Hugo Chavez, with the opposition already alleging irregularities.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22141786)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67000000/jpg/_67000150_67000149.jpg)

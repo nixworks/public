@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/10/liberian-president-and-convicted-war-criminal-charles-taylor-who-is-to-step-down-tomorrow-has-appealed-to-rebels-to-submit-to-the-democr.html)  [JSON](/news/2003/08/10/liberian-president-and-convicted-war-criminal-charles-taylor-who-is-to-step-down-tomorrow-has-appealed-to-rebels-to-submit-to-the-democr.json)  [XML](/news/2003/08/10/liberian-president-and-convicted-war-criminal-charles-taylor-who-is-to-step-down-tomorrow-has-appealed-to-rebels-to-submit-to-the-democr.xml)  
+
 ### [2003-08-10](/news/2003/08/10/index.md)
 
+##### Liberia
 #  Liberian President and convicted war criminal Charles Taylor, who is to step down tomorrow, has appealed to rebels to "submit to the democratic process'". He also accuses the United States of funding the rebels who have besieged the capital, Monrovia, for a week.
 
 

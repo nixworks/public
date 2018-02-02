@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/30/multiple-sclerosis-sufferer-debbie-purdy-wins-a-landmark-victory-in-the-house-of-lords-in-her-fight-to-allow-her-husband-to-help-her-comm.html)  [JSON](/news/2009/07/30/multiple-sclerosis-sufferer-debbie-purdy-wins-a-landmark-victory-in-the-house-of-lords-in-her-fight-to-allow-her-husband-to-help-her-comm.json)  [XML](/news/2009/07/30/multiple-sclerosis-sufferer-debbie-purdy-wins-a-landmark-victory-in-the-house-of-lords-in-her-fight-to-allow-her-husband-to-help-her-comm.xml)  
+
 ### [2009-07-30](/news/2009/07/30/index.md)
 
+##### Multiple sclerosis
 #  Multiple sclerosis sufferer Debbie Purdy wins a "landmark victory" in the House of Lords in her fight to allow her husband to help her commit suicide abroad. 
 
 A British woman suffering from multiple sclerosis has won what her lawyers describe as a &#39;landmark victory&#39; in the House of Lords to have the law on assisted suicide clarified.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0730/purdy.html)
 2. [Sky News](http://news.sky.com/skynews/Home/UK-News/MS-Sufferer-Debbie-Purdy-Claims-Victory-In-Right-To-Die-Abroad-Battle-Following-Lords-Ruling/Article/200907415350055?lpos=UK_News_Top_Stories_Header_1&lid=ARTICLE_15350055_MS_Sufferer_Debbie_Purdy_Claims_Victory_In_Right_To_Die_Abroad_Battle_Following_Lords_Ruling)

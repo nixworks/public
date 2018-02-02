@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/29/the-african-union-sets-up-a-panel-of-heads-of-state-to-help-solve-the-political-crisis-in-ca-te-d-ivoire.html)  [JSON](/news/2011/01/29/the-african-union-sets-up-a-panel-of-heads-of-state-to-help-solve-the-political-crisis-in-ca-te-d-ivoire.json)  [XML](/news/2011/01/29/the-african-union-sets-up-a-panel-of-heads-of-state-to-help-solve-the-political-crisis-in-ca-te-d-ivoire.xml)  
+
 ### [2011-01-29](/news/2011/01/29/index.md)
 
+##### African Union
 # The African Union sets up a panel of heads of state to help solve the political crisis in Cote d'Ivoire. 
 
 The&#x20;African&#x20;Union&#x20;is&#x20;to&#x20;form&#x20;a&#x20;panel&#x20;of&#x20;heads&#x20;of&#x20;state&#x20;within&#x20;a&#x20;month&#x20;to&#x20;solve&#x20;C&amp;ocirc&#x3B;te&#x20;d&amp;&#x23;039&#x3B;Ivoire&amp;rsquo&#x3B;s&#x20;leadership&#x20;crisis.&#x20;The&#x20;panel&amp;rsquo&#x3B;s&#x20;conclusions&#x20;will&#x20;legally&#x20;bind&#x20;the&#x20;main&#x20;players&#x20;in&#x20;the&#x20;debate.&#x20;The&#x20;announcement&#x20;comes&#x20;ahead&#x20;of&#x20;an&#x20;African...
 
 
-### Source:
+### Sources:
 
 1. [PANA](http://www.panapress.com/African-leaders-selected-for-panel-on-Cote-d-ivoire-crisis--15-755649-30-lang2-index.html)
 2. [RFI](http://www.english.rfi.fr/africa/20110129-african-union-set-cote-divoire-panel)

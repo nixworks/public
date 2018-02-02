@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/16/international-atomic-energy-agency-inspectors-confirm-the-closure-of-the-yongbyon-reactor-in-north-korea.html)  [JSON](/news/2007/07/16/international-atomic-energy-agency-inspectors-confirm-the-closure-of-the-yongbyon-reactor-in-north-korea.json)  [XML](/news/2007/07/16/international-atomic-energy-agency-inspectors-confirm-the-closure-of-the-yongbyon-reactor-in-north-korea.xml)  
+
 ### [2007-07-16](/news/2007/07/16/index.md)
 
+##### IAEA
 #  International Atomic Energy Agency inspectors confirm the closure of the Yongbyon reactor in North Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6900184.stm)
 

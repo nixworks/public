@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/6/the-ivory-coast-presidential-election-will-go-to-a-second-round-with-president-laurent-gbagbo-facing-opposition-leader-alassane-ouattara.html)  [JSON](/news/2010/11/6/the-ivory-coast-presidential-election-will-go-to-a-second-round-with-president-laurent-gbagbo-facing-opposition-leader-alassane-ouattara.json)  [XML](/news/2010/11/6/the-ivory-coast-presidential-election-will-go-to-a-second-round-with-president-laurent-gbagbo-facing-opposition-leader-alassane-ouattara.xml)  
+
 ### [2010-11-6](/news/2010/11/6/index.md)
 
+##### Ivory Coast
 # The Ivory Coast presidential election will go to a second round with President Laurent Gbagbo facing opposition leader Alassane Ouattara. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11704543)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

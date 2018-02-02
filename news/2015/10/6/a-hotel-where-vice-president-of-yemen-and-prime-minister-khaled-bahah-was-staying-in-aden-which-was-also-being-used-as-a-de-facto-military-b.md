@@ -1,16 +1,25 @@
+
+Formats: [HTML](/news/2015/10/6/a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used-as-a-de-facto-military-b.html)  [JSON](/news/2015/10/6/a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used-as-a-de-facto-military-b.json)  [XML](/news/2015/10/6/a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used-as-a-de-facto-military-b.xml)  
+
 ### [2015-10-6](/news/2015/10/6/index.md)
 
+##### Yemeni Civil War (2015)
 # A hotel where Vice President of Yemen and Prime Minister Khaled Bahah was staying in Aden which was also being used as a de facto military base by Arab coalition forces is hit by multiple explosions killing at least 15 coalition soldiers. Although the Houthis were first suspected and accused of being behind the attack, the Islamic State of Iraq and the Levant has since claimed responsibility, marking the first attack on Arab coalition forces in Yemen by the extremist group. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Arabiyah News](http://english.alarabiya.net/en/News/middle-east/2015/10/06/Yemen-s-VP-hotel-residence-attacked.html)
 2. [CNN](http://edition.cnn.com/2015/10/06/middleeast/yemen-violence/index.html)
 3. [Reuters](http://uk.reuters.com/article/2015/10/06/uk-yemen-security-aden-hotel-idUKKCN0S009H20151006)
 3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151006&t=2&i=1084969318&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB950V3)
+
+### Changes:
+
+1. [Yemeni Civil War (2015): A hotel where Vice President of Yemen and Prime Minister Khaled Bahah was staying in Aden which was also being used as a de facto military base by Arab coalition forces is hit by multiple explosions killing at least 15 coalition soldiers. Although the Houthis were first suspected and accused of being behind the attack, the Islamic State of Iraq and the Levant has since claimed responsibility, marking the first attack on Arab coalition forces in Yemen by the extremist group. ](/news/2015/10/6/yemeni-civil-war-2015-a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used.md) _2017-08-27 03:43:15 (First version)_
+1. [A hotel where Vice President of Yemen and Prime Minister Khaled Bahah was staying in Aden which was also being used as a de facto military base by Arab coalition forces is hit by multiple explosions killing at least 15 coalition soldiers. Although the Houthis were first suspected and accused of being behind the attack, the Islamic State of Iraq and the Levant has since claimed responsibility, marking the first attack on Arab coalition forces in Yemen by the extremist group. ](/news/2015/10/6/a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used-as-a-de-facto-military-b.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +28,3 @@
 3. [Jaafar Mohammed Saad, the governor of Yemen's southern Aden Governorate, along with six guards, are killed by a suicide bomber in the port city of Aden. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2015/12/6/jaafar-mohammed-saad-the-governor-of-yemen-s-southern-aden-governorate-along-with-six-guards-are-killed-by-a-suicide-bomber-in-the-port-c.md) _Context: Aden, ISIL, Yemen, Yemeni Civil War (2015)_
 4. [Two senior army commanders from Saudi Arabia and the United Arab Emirates are killed, including the head of the Saudi Special forces in Yemen, Colonel Abdullah al-Sahyan, along with dozens of Saudi, Emirati, Sudanese and Yemeni coalition troops in a OTR-21 Tochka missile attack by Houthi forces on their base near the city of Taiz in southwestern Yemen. ](/news/2015/12/14/two-senior-army-commanders-from-saudi-arabia-and-the-united-arab-emirates-are-killed-including-the-head-of-the-saudi-special-forces-in-yeme.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen, Yemen, Yemeni Civil War (2015)_
 5. [Houthi forces regain several positions across southern Yemen after launching a fresh offensive against loyalist and coalition forces. In Lahij province, which borders Aden, Houthi forces are now positioned on a hill overlooking the strategic Al Anad Air Base, which houses Sudanese forces. The Houthis also retook the Damt District in the Dhale province after besieging it for hours, at least 16 people were killed in the clashes. ](/news/2015/11/8/houthi-forces-regain-several-positions-across-southern-yemen-after-launching-a-fresh-offensive-against-loyalist-and-coalition-forces-in-lah.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen, Yemen, Yemeni Civil War (2015)_
-
-### Changes:
-
-1. [Yemeni Civil War (2015): A hotel where Vice President of Yemen and Prime Minister Khaled Bahah was staying in Aden which was also being used as a de facto military base by Arab coalition forces is hit by multiple explosions killing at least 15 coalition soldiers. Although the Houthis were first suspected and accused of being behind the attack, the Islamic State of Iraq and the Levant has since claimed responsibility, marking the first attack on Arab coalition forces in Yemen by the extremist group. ](/news/2015/10/6/yemeni-civil-war-2015-a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used.md) _2017-08-27 03:43:15 (First version)_
-1. [A hotel where Vice President of Yemen and Prime Minister Khaled Bahah was staying in Aden which was also being used as a de facto military base by Arab coalition forces is hit by multiple explosions killing at least 15 coalition soldiers. Although the Houthis were first suspected and accused of being behind the attack, the Islamic State of Iraq and the Levant has since claimed responsibility, marking the first attack on Arab coalition forces in Yemen by the extremist group. ](/news/2015/10/6/a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used-as-a-de-facto-military-b.md) _(Current version)_

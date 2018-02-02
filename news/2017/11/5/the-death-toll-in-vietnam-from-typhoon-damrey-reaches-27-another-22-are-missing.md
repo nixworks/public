@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-re
 
 ### [2017-11-5](/news/2017/11/5/index.md)
 
+##### 2017 Pacific typhoon season
 # The death toll in Vietnam from Typhoon Damrey reaches 27, another 22 are missing. 
 
 A powerful typhoon battering Vietnam has killed at least 27 people and left 22 others missing amid extensive damage along the south-central coast.

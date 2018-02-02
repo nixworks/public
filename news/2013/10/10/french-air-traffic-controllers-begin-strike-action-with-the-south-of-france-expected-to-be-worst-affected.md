@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/10/french-air-traffic-controllers-begin-strike-action-with-the-south-of-france-expected-to-be-worst-affected.html)  [JSON](/news/2013/10/10/french-air-traffic-controllers-begin-strike-action-with-the-south-of-france-expected-to-be-worst-affected.json)  [XML](/news/2013/10/10/french-air-traffic-controllers-begin-strike-action-with-the-south-of-france-expected-to-be-worst-affected.xml)  
+
 ### [2013-10-10](/news/2013/10/10/index.md)
 
+##### French-born
 # French air traffic controllers begin strike action with the south of France expected to be worst affected. 
 
 Thousands of UK air travellers face possible delays and cancellations later today due to planned industrial action by French air traffic controllers. The strike will have the biggest impact in the southern area of France.
 
 
-### Source:
+### Sources:
 
 1. [ITV](http://www.itv.com/news/story/2013-10-10/french-air-traffic-strike-delays/)
 1. [Cover Image](http://www.itv.com/news/assets/branding/fb.png)

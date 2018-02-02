@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/20/the-supreme-court-of-the-us-state-of-georgia-has-agreed-to-the-execution-of-cobb-county-killer-andrew-grant-deyoung-to-be-videotaped.html)  [JSON](/news/2011/07/20/the-supreme-court-of-the-us-state-of-georgia-has-agreed-to-the-execution-of-cobb-county-killer-andrew-grant-deyoung-to-be-videotaped.json)  [XML](/news/2011/07/20/the-supreme-court-of-the-us-state-of-georgia-has-agreed-to-the-execution-of-cobb-county-killer-andrew-grant-deyoung-to-be-videotaped.xml)  
+
 ### [2011-07-20](/news/2011/07/20/index.md)
 
+##### Supreme Court
 # The Supreme Court of the US state of Georgia has agreed to the execution of Cobb County killer Andrew Grant DeYoung to be videotaped. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Atlanta Journal-Constitution](http://www.ajc.com/news/cobb/state-supreme-court-allows-1029058.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/7/voters-in-new-jersey-and-virginia-chose-new-gove
 
 ### [2017-11-7](/news/2017/11/7/index.md)
 
+##### United States elections, 2017
 # Voters in New Jersey and Virginia chose new governors. 
 
 Maps and results in the New Jersey general elections for governor, the state legislature and several mayorships. 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/15/a-group-of-soldiers-who-took-part-in-israel-s-assault-in-gaza-say-widespread-abuses-were-committed-against-civilians-under-permissive-rul.html)  [JSON](/news/2009/07/15/a-group-of-soldiers-who-took-part-in-israel-s-assault-in-gaza-say-widespread-abuses-were-committed-against-civilians-under-permissive-rul.json)  [XML](/news/2009/07/15/a-group-of-soldiers-who-took-part-in-israel-s-assault-in-gaza-say-widespread-abuses-were-committed-against-civilians-under-permissive-rul.xml)  
+
 ### [2009-07-15](/news/2009/07/15/index.md)
 
+##### Israel's assault in Gaza
 #  A group of soldiers who took part in Israel's assault in Gaza say widespread abuses were committed against civilians under "permissive" rules of engagement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8149464.stm)
 

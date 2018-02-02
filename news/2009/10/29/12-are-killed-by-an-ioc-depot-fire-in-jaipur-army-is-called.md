@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/29/12-are-killed-by-an-ioc-depot-fire-in-jaipur-army-is-called.html)  [JSON](/news/2009/10/29/12-are-killed-by-an-ioc-depot-fire-in-jaipur-army-is-called.json)  [XML](/news/2009/10/29/12-are-killed-by-an-ioc-depot-fire-in-jaipur-army-is-called.xml)  
+
 ### [2009-10-29](/news/2009/10/29/index.md)
 
+##### IOC depot fire
 #  12 are killed by an IOC depot fire in Jaipur, Army is called. 
 
 A devastating fire swept through an Indian Oil fuel storage and distribution terminal leaving a dozen dead and over 100 hurt. At the time of going to press, all 12 tankers at the terminal were aflame.
 
 
-### Source:
+### Sources:
 
 1. [The Times Of India](http://timesofindia.indiatimes.com/city/jaipur/12-killed-in-Jaipur-IOC-depot-fire-Army-called/articleshow/5178346.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/5178707.cms)

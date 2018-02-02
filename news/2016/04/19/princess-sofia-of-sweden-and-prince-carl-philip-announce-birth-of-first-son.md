@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/19/princess-sofia-of-sweden-and-prince-carl-philip
 
 ### [2016-04-19](/news/2016/04/19/index.md)
 
+##### Princess Sofia
 # Princess Sofia of Sweden and Prince Carl Philip announce birth of first son. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/21/protestors-gather-at-the-french-embassy-in-dublin-in-a-continuation-of-the-dispute-with-fifa-over-the-controversial-handball-incident-in-th.html)  [JSON](/news/2009/11/21/protestors-gather-at-the-french-embassy-in-dublin-in-a-continuation-of-the-dispute-with-fifa-over-the-controversial-handball-incident-in-th.json)  [XML](/news/2009/11/21/protestors-gather-at-the-french-embassy-in-dublin-in-a-continuation-of-the-dispute-with-fifa-over-the-controversial-handball-incident-in-th.xml)  
+
 ### [2009-11-21](/news/2009/11/21/index.md)
 
+##### Dublin
 #  Protestors gather at the French Embassy in Dublin in a continuation of the dispute with FIFA over the controversial handball incident in the 2010 FIFA World Cup qualifying match between France and Republic of Ireland. 
 
 A group of Irish soccer supporters gathered at the French Embassy in Dublin this afternoon in a protest over Wednesday&#39;s controversial World Cup match.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8372123.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/1121/ireland.html)

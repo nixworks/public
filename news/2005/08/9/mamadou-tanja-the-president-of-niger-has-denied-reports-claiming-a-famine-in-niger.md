@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/9/mamadou-tanja-the-president-of-niger-has-denied-reports-claiming-a-famine-in-niger.html)  [JSON](/news/2005/08/9/mamadou-tanja-the-president-of-niger-has-denied-reports-claiming-a-famine-in-niger.json)  [XML](/news/2005/08/9/mamadou-tanja-the-president-of-niger-has-denied-reports-claiming-a-famine-in-niger.xml)  
+
 ### [2005-08-9](/news/2005/08/9/index.md)
 
+##### Mamadou Tanja
 #  Mamadou Tanja, the President of Niger, has denied reports claiming a famine in Niger. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4133374.stm)
 

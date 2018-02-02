@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/18/a-pakistani-court-issues-an-arrest-warrant-for-former-president-pervez-musharraf-in-connection-with-the-house-arrest-of-judges-in-2007.html)  [JSON](/news/2013/04/18/a-pakistani-court-issues-an-arrest-warrant-for-former-president-pervez-musharraf-in-connection-with-the-house-arrest-of-judges-in-2007.json)  [XML](/news/2013/04/18/a-pakistani-court-issues-an-arrest-warrant-for-former-president-pervez-musharraf-in-connection-with-the-house-arrest-of-judges-in-2007.xml)  
+
 ### [2013-04-18](/news/2013/04/18/index.md)
 
+##### Pakistan
 # A Pakistani court issues an arrest warrant for former President Pervez Musharraf in connection with the house arrest of judges in 2007. 
 
 A Pakistani court orders the arrest of ex-military ruler Pervez Musharraf over moves to place judges under house arrest in March 2007.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/news/crime/article/Pakistan-s-Musharraf-on-the-run-after-arrest-order-4443590.php)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-22196101)

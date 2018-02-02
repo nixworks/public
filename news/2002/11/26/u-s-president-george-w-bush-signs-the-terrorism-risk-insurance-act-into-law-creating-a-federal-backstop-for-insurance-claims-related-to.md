@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/26/u-s-president-george-w-bush-signs-the-terrorism-risk-insurance-act-into-law-creating-a-federal-backstop-for-insurance-claims-related-to.html)  [JSON](/news/2002/11/26/u-s-president-george-w-bush-signs-the-terrorism-risk-insurance-act-into-law-creating-a-federal-backstop-for-insurance-claims-related-to.json)  [XML](/news/2002/11/26/u-s-president-george-w-bush-signs-the-terrorism-risk-insurance-act-into-law-creating-a-federal-backstop-for-insurance-claims-related-to.xml)  
+
 ### [2002-11-26](/news/2002/11/26/index.md)
 
+##### George W. Bush
 #  U.S. President George W. Bush signs the Terrorism Risk Insurance Act into law, creating a federal backstop for insurance claims related to acts of terrorism.
 
 

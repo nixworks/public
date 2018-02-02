@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/8/sudan-s-president-omar-al-bashir-could-still-face-charges-of-genocide-in-darfur.html)  [JSON](/news/2010/02/8/sudan-s-president-omar-al-bashir-could-still-face-charges-of-genocide-in-darfur.json)  [XML](/news/2010/02/8/sudan-s-president-omar-al-bashir-could-still-face-charges-of-genocide-in-darfur.xml)  
+
 ### [2010-02-8](/news/2010/02/8/index.md)
 
+##### Sudan
 # Sudan's President Omar al-Bashir could still face charges of genocide in Darfur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/3496731.stm)
 

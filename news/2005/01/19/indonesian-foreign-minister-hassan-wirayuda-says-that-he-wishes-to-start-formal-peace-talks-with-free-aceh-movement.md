@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/01/19/indonesian-foreign-minister-hassan-wirayuda-says-that-he-wishes-to-start-formal-peace-talks-with-free-aceh-movement.html)  [JSON](/news/2005/01/19/indonesian-foreign-minister-hassan-wirayuda-says-that-he-wishes-to-start-formal-peace-talks-with-free-aceh-movement.json)  [XML](/news/2005/01/19/indonesian-foreign-minister-hassan-wirayuda-says-that-he-wishes-to-start-formal-peace-talks-with-free-aceh-movement.xml)  
+
 ### [2005-01-19](/news/2005/01/19/index.md)
 
+##### Indonesia
 #  Indonesian foreign minister Hassan Wirayuda says that he wishes to start formal peace talks with Free Aceh Movement. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4186609.stm)
 2. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050119160320&irec=0)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7363507)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7363507)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/12/university-of-british-columbiaas-michael-brauer
 
 ### [2016-02-12](/news/2016/02/12/index.md)
 
+##### University of British Columbia's
 #  University of British Columbia's Michael Brauer reports new research shows more than 5.5 million people die prematurely every year from air pollution, the world's fourth highest risk factor for death. 
 
 New research shows that more than 5.5 million people die prematurely every year due to household and outdoor air pollution. More than half of deaths occur in two of the world’s fastest growing econ…

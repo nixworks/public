@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/21/the-constitutional-court-of-romania-invalidates-the-presidential-impeachment-referendum-held-on-july-29.html)  [JSON](/news/2012/08/21/the-constitutional-court-of-romania-invalidates-the-presidential-impeachment-referendum-held-on-july-29.json)  [XML](/news/2012/08/21/the-constitutional-court-of-romania-invalidates-the-presidential-impeachment-referendum-held-on-july-29.xml)  
+
 ### [2012-08-21](/news/2012/08/21/index.md)
 
+##### Constitutional Court of Romania
 # The Constitutional Court of Romania invalidates the presidential impeachment referendum held on July 29. 
 
 UPDATE 12.50 - The Constitutional Court of Romania decided to invalidate the results of the referendum for the impeachment of President Traian Basescu. Traian Basescu will be reinstated. The President of the...
 
 
-### Source:
+### Sources:
 
 1. [Antena 3](http://www.antena3.ro/en/politics/ccr-convenes-to-confirm-referendum-results-the-decision-could-be-postponed-180935.html)
 1. [Cover Image](https://www.antena3.ro/thumbs/big3/2012/08/21/ccr-invalidated-the-results-of-the-referendum-for-the-impeachment-of-president-traian-basescu-164070.jpg)

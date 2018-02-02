@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/18/apple-says-it-will-bring-two-key-personnel-to-a
 
 ### [2016-03-18](/news/2016/03/18/index.md)
 
+##### Apple
 # Apple says it will bring two key personnel to a hearing next week, subjecting them to government cross-examination regarding the issues raised by its locked iPhone: its Chief Privacy Engineer and its Global Law Enforcement Officer. 
 
 

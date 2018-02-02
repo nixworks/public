@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/15/at-least-six-people-are-killed-and-seventeen-others-receive-wounds-after-a-car-bomb-explodes-in-tikrit-in-iraq.html)  [JSON](/news/2010/07/15/at-least-six-people-are-killed-and-seventeen-others-receive-wounds-after-a-car-bomb-explodes-in-tikrit-in-iraq.json)  [XML](/news/2010/07/15/at-least-six-people-are-killed-and-seventeen-others-receive-wounds-after-a-car-bomb-explodes-in-tikrit-in-iraq.xml)  
+
 ### [2010-07-15](/news/2010/07/15/index.md)
 
+##### Tikrit
 # At least six people are killed and seventeen others receive wounds after a car bomb explodes in Tikrit in Iraq. 
 
 Police officers among dead and wounded in hometown of ex-president Saddam Hussein.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/201071510468813972.html)
 1. [Cover Image](http://www.aljazeera.com)

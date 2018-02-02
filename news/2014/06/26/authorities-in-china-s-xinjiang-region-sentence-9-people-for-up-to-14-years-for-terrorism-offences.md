@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/06/26/authorities-in-china-s-xinjiang-region-sentence-9-people-for-up-to-14-years-for-terrorism-offences.html)  [JSON](/news/2014/06/26/authorities-in-china-s-xinjiang-region-sentence-9-people-for-up-to-14-years-for-terrorism-offences.json)  [XML](/news/2014/06/26/authorities-in-china-s-xinjiang-region-sentence-9-people-for-up-to-14-years-for-terrorism-offences.xml)  
+
 ### [2014-06-26](/news/2014/06/26/index.md)
 
+##### China
 # Authorities in China's Xinjiang region sentence 9 people for up to 14 years for terrorism offences. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/06/26/us-china-xinjiang-idUSKBN0F107Y20140626)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/06/26/us-china-xinjiang-idUSKBN0F107Y20140626)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

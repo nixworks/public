@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/28/for-the-first-time-a-series-of-self-immolations-have-reached-the-tibetan-capital-of-lhasa-when-two-tibetans-set-themselves-on-fire.html)  [JSON](/news/2012/05/28/for-the-first-time-a-series-of-self-immolations-have-reached-the-tibetan-capital-of-lhasa-when-two-tibetans-set-themselves-on-fire.json)  [XML](/news/2012/05/28/for-the-first-time-a-series-of-self-immolations-have-reached-the-tibetan-capital-of-lhasa-when-two-tibetans-set-themselves-on-fire.xml)  
+
 ### [2012-05-28](/news/2012/05/28/index.md)
 
+##### Lhasa
 # For the first time a series of self-immolations have reached the Tibetan capital of Lhasa when two Tibetans set themselves on fire.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/20125285056419618.html)
 2. [The Times of India](http://timesofindia.indiatimes.com/world/china/2-Tibetans-set-selves-on-fire-in-Lhasa/articleshow/13589591.cms)

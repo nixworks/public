@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/15/a-group-named-turkestan-islamic-party-claims-the-responsibility-for-the-attack-on-ara1-4mqi-railway-station-in-china.html)  [JSON](/news/2014/05/15/a-group-named-turkestan-islamic-party-claims-the-responsibility-for-the-attack-on-ara1-4mqi-railway-station-in-china.json)  [XML](/news/2014/05/15/a-group-named-turkestan-islamic-party-claims-the-responsibility-for-the-attack-on-ara1-4mqi-railway-station-in-china.xml)  
+
 ### [2014-05-15](/news/2014/05/15/index.md)
 
+##### Turkestan Islamic Party
 # A group named Turkestan Islamic Party claims the responsibility for the attack on Urumqi Railway Station in China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Biharprabha News](http://news.biharprabha.com/2014/05/turkestan-islamic-party-claims-chinese-railway-station-attack/)
 

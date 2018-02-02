@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/21/horacio-cartes-of-the-colorado-party-is-elected-president-of-paraguay-with-45-91-percent-of-the-vote.html)  [JSON](/news/2013/04/21/horacio-cartes-of-the-colorado-party-is-elected-president-of-paraguay-with-45-91-percent-of-the-vote.json)  [XML](/news/2013/04/21/horacio-cartes-of-the-colorado-party-is-elected-president-of-paraguay-with-45-91-percent-of-the-vote.xml)  
+
 ### [2013-04-21](/news/2013/04/21/index.md)
 
+##### Horacio Cartes
 # Horacio Cartes, of the Colorado Party, is elected President of Paraguay with 45.91% percent of the vote. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-22241667)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67159000/jpg/_67159324_cartesafpnew.jpg)

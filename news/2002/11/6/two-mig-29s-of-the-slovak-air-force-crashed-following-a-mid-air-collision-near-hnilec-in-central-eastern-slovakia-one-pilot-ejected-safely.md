@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/6/two-mig-29s-of-the-slovak-air-force-crashed-following-a-mid-air-collision-near-hnilec-in-central-eastern-slovakia-one-pilot-ejected-safely.html)  [JSON](/news/2002/11/6/two-mig-29s-of-the-slovak-air-force-crashed-following-a-mid-air-collision-near-hnilec-in-central-eastern-slovakia-one-pilot-ejected-safely.json)  [XML](/news/2002/11/6/two-mig-29s-of-the-slovak-air-force-crashed-following-a-mid-air-collision-near-hnilec-in-central-eastern-slovakia-one-pilot-ejected-safely.xml)  
+
 ### [2002-11-6](/news/2002/11/6/index.md)
 
+##### Mig-29
 # Two Mig-29s of the Slovak Air Force crashed following a mid-air collision near Hnilec in central-eastern Slovakia. One pilot ejected safely, while the other, Major Marian Katuska, was killed in the accident.
 
 

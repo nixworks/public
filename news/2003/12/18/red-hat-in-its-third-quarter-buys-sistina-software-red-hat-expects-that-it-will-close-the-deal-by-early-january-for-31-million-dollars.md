@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2003/12/18/red-hat-in-its-third-quarter-buys-sistina-software-red-hat-expects-that-it-will-close-the-deal-by-early-january-for-31-million-dollars.html)  [JSON](/news/2003/12/18/red-hat-in-its-third-quarter-buys-sistina-software-red-hat-expects-that-it-will-close-the-deal-by-early-january-for-31-million-dollars.json)  [XML](/news/2003/12/18/red-hat-in-its-third-quarter-buys-sistina-software-red-hat-expects-that-it-will-close-the-deal-by-early-january-for-31-million-dollars.xml)  
+
 ### [2003-12-18](/news/2003/12/18/index.md)
 
-#  Red Hat, in its third quarter, buys Sistina Software. Red Hat expects that it will close the deal by early January for $31 million dollars. [http:--www.theregister.co.uk-content-4-34598.html]
+##### Red Hat
+#  Red Hat, in its third quarter, buys Sistina Software. Red Hat expects that it will close the deal by early January for $31 million dollars. [https:--www.theregister.co.uk-content-4-34598.html]
 
 
 

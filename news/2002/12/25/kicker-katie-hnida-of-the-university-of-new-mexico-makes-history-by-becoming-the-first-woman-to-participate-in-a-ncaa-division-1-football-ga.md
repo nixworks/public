@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/25/kicker-katie-hnida-of-the-university-of-new-mexico-makes-history-by-becoming-the-first-woman-to-participate-in-a-ncaa-division-1-football-ga.html)  [JSON](/news/2002/12/25/kicker-katie-hnida-of-the-university-of-new-mexico-makes-history-by-becoming-the-first-woman-to-participate-in-a-ncaa-division-1-football-ga.json)  [XML](/news/2002/12/25/kicker-katie-hnida-of-the-university-of-new-mexico-makes-history-by-becoming-the-first-woman-to-participate-in-a-ncaa-division-1-football-ga.xml)  
+
 ### [2002-12-25](/news/2002/12/25/index.md)
 
+##### Katie Hnida
 # Kicker Katie Hnida of the University of New Mexico makes history by becoming the first woman to participate in a NCAA division 1 football game, missing a kick for her team during the Las Vegas Bowl game.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/29/norodom-sihamoni-is-crowned-king-of-cambodia.html)  [JSON](/news/2004/10/29/norodom-sihamoni-is-crowned-king-of-cambodia.json)  [XML](/news/2004/10/29/norodom-sihamoni-is-crowned-king-of-cambodia.xml)  
+
 ### [2004-10-29](/news/2004/10/29/index.md)
 
+##### Norodom Sihamoni
 #  Norodom Sihamoni is crowned King of Cambodia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3963945.stm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/14/israeli-palestinian-conflict-israel-frees-another-76-prisoners-a-week-after-releasing-more-than-300-people-israel-argues-that-it-is-a-ge.html)  [JSON](/news/2003/08/14/israeli-palestinian-conflict-israel-frees-another-76-prisoners-a-week-after-releasing-more-than-300-people-israel-argues-that-it-is-a-ge.json)  [XML](/news/2003/08/14/israeli-palestinian-conflict-israel-frees-another-76-prisoners-a-week-after-releasing-more-than-300-people-israel-argues-that-it-is-a-ge.xml)  
+
 ### [2003-08-14](/news/2003/08/14/index.md)
 
+##### Israeli-Palestinian conflict
 #  Israeli-Palestinian conflict: Israel frees another 76 prisoners, a week after releasing more than 300 people. Israel argues that it is a gesture of goodwill and in accordance with agreements. The Palestinian authority disagrees and says that most not arrested for terrorist activities, and that it was the people arrested for the latter that Israel originally agreed to release. Palestinian officials want the release of 6000 prisoners, many of whom it claims were wrongly arrested, to obtain public support for the US-backed road map for peace.
 
 

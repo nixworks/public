@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/19/commencing-at-dawn-the-israeli-government-and-hamas-declare-a-truce-in-the-israel-gaza-conflict-halting-attacks-across-the-border-between.html)  [JSON](/news/2008/06/19/commencing-at-dawn-the-israeli-government-and-hamas-declare-a-truce-in-the-israel-gaza-conflict-halting-attacks-across-the-border-between.json)  [XML](/news/2008/06/19/commencing-at-dawn-the-israeli-government-and-hamas-declare-a-truce-in-the-israel-gaza-conflict-halting-attacks-across-the-border-between.xml)  
+
 ### [2008-06-19](/news/2008/06/19/index.md)
 
+##### government
 #  Commencing at dawn, the Israeli Government and Hamas declare a truce in the Israel-Gaza conflict, halting attacks across the border between the Gaza Strip and Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/chi-israel-hamas_greenbergjun19,0,5661747.story)
 

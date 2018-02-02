@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/25/nine-are-killed-in-gun-battles-between-paramilitary-forces-and-drug-gangs-in-rio-de-janeiro-favelas.html)  [JSON](/news/2013/06/25/nine-are-killed-in-gun-battles-between-paramilitary-forces-and-drug-gangs-in-rio-de-janeiro-favelas.json)  [XML](/news/2013/06/25/nine-are-killed-in-gun-battles-between-paramilitary-forces-and-drug-gangs-in-rio-de-janeiro-favelas.xml)  
+
 ### [2013-06-25](/news/2013/06/25/index.md)
 
+##### Rio de Janeiro
 # Nine are killed in gun battles between paramilitary forces and drug gangs in Rio de Janeiro favelas. 
 
 At least nine people have died in gun battles with drug dealers in a favela in the Brazilian city of Rio de Janeiro, police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-23055077)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68376000/jpg/_68376157_68376156.jpg)

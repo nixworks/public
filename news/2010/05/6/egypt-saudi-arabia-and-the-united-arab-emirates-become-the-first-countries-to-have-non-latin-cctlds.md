@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/6/egypt-saudi-arabia-and-the-united-arab-emirates-become-the-first-countries-to-have-non-latin-cctlds.html)  [JSON](/news/2010/05/6/egypt-saudi-arabia-and-the-united-arab-emirates-become-the-first-countries-to-have-non-latin-cctlds.json)  [XML](/news/2010/05/6/egypt-saudi-arabia-and-the-united-arab-emirates-become-the-first-countries-to-have-non-latin-cctlds.xml)  
+
 ### [2010-05-6](/news/2010/05/6/index.md)
 
+##### Egypt
 # Egypt, Saudi Arabia and the United Arab Emirates become the first countries to have non-Latin ccTLDs. 
 
 The web undergoes a &quot;historic&quot; change as a system that allows the first web addresses in non-Latin scripts is switched on.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/10100108.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

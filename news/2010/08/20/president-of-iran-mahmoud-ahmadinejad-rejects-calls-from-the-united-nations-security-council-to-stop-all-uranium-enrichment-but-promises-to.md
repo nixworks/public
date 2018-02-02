@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/20/president-of-iran-mahmoud-ahmadinejad-rejects-calls-from-the-united-nations-security-council-to-stop-all-uranium-enrichment-but-promises-to.html)  [JSON](/news/2010/08/20/president-of-iran-mahmoud-ahmadinejad-rejects-calls-from-the-united-nations-security-council-to-stop-all-uranium-enrichment-but-promises-to.json)  [XML](/news/2010/08/20/president-of-iran-mahmoud-ahmadinejad-rejects-calls-from-the-united-nations-security-council-to-stop-all-uranium-enrichment-but-promises-to.xml)  
+
 ### [2010-08-20](/news/2010/08/20/index.md)
 
+##### President
 # President of Iran Mahmoud Ahmadinejad rejects calls from the United Nations Security Council to stop all uranium enrichment but promises to stop high level enrichment if the country is assured of uranium for a research reactor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/aug/20/ahmadinejad-iran-uranium-enriching)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/09/30/with-the-help-of-the-new-york-mets-completing-one-of-the-most-improbable-collapses-in-baseball-history-leading-the-national-league-east-di.html)  [JSON](/news/2007/09/30/with-the-help-of-the-new-york-mets-completing-one-of-the-most-improbable-collapses-in-baseball-history-leading-the-national-league-east-di.json)  [XML](/news/2007/09/30/with-the-help-of-the-new-york-mets-completing-one-of-the-most-improbable-collapses-in-baseball-history-leading-the-national-league-east-di.xml)  
+
 ### [2007-09-30](/news/2007/09/30/index.md)
 
+##### New York Mets
 #  With the help of the New York Mets completing one of the most improbable collapses in baseball history, leading the National League East division by 7 games with 17 games to play at one point, the Philadelphia Phillies defeat the Washington Nationals to win the 2007 National League East title. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo! Sports](http://sports.yahoo.com/mlb/recap?gid=270930121)
+1. [Yahoo! Sports](https://sports.yahoo.com/mlb/recap?gid=270930121)
 
 ### Related:
 

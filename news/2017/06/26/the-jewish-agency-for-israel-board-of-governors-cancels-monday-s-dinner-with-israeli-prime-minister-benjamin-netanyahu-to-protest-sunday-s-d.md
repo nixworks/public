@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/26/the-jewish-agency-for-israel-board-of-governors
 
 ### [2017-06-26](/news/2017/06/26/index.md)
 
+##### Politics of Israel
 # The Jewish Agency for Israel Board of Governors cancels Monday's dinner with Israeli Prime Minister Benjamin Netanyahu to protest Sunday's decision by his cabinet to rescind plans for a mixed-gender prayer area at Jerusalem's Western Wall, a compromise agreement reached after three years of intense negotiations. 
 
 

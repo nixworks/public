@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/5/at-arusha-tanzania-president-pierre-buyoya-of-burundi-and-pierre-nkurunziza-leader-of-the-hutu-insurgents-forces-for-the-defense-of-democ.html)  [JSON](/news/2002/12/5/at-arusha-tanzania-president-pierre-buyoya-of-burundi-and-pierre-nkurunziza-leader-of-the-hutu-insurgents-forces-for-the-defense-of-democ.json)  [XML](/news/2002/12/5/at-arusha-tanzania-president-pierre-buyoya-of-burundi-and-pierre-nkurunziza-leader-of-the-hutu-insurgents-forces-for-the-defense-of-democ.xml)  
+
 ### [2002-12-5](/news/2002/12/5/index.md)
 
+##### Arusha, Tanzania
 # At Arusha, Tanzania, President Pierre Buyoya of Burundi and Pierre Nkurunziza, leader of the Hutu insurgents Forces for the Defense of Democracy (FDD), signed a cease-fire accord. The goal is to end a nine-year civil war.
 
 

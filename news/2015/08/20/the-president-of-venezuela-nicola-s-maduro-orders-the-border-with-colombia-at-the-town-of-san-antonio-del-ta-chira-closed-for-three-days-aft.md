@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/20/the-president-of-venezuela-nicola-s-maduro-orders-the-border-with-colombia-at-the-town-of-san-antonio-del-ta-chira-closed-for-three-days-aft.html)  [JSON](/news/2015/08/20/the-president-of-venezuela-nicola-s-maduro-orders-the-border-with-colombia-at-the-town-of-san-antonio-del-ta-chira-closed-for-three-days-aft.json)  [XML](/news/2015/08/20/the-president-of-venezuela-nicola-s-maduro-orders-the-border-with-colombia-at-the-town-of-san-antonio-del-ta-chira-closed-for-three-days-aft.xml)  
+
 ### [2015-08-20](/news/2015/08/20/index.md)
 
+##### President
 # The President of Venezuela Nicolas Maduro orders the border with Colombia at the town of San Antonio del Tachira closed for three days after three soldiers are attacked while looking for smugglers. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/venezuelan-leader-closes-colombia-border-crossing-days-33194355)
 

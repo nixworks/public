@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/11/the-prime-minister-of-kyrgyzstan-temir-sariyev-
 
 ### [2016-04-11](/news/2016/04/11/index.md)
 
+##### Prime Minister
 # The Prime Minister of Kyrgyzstan Temir Sariyev announces he will resign from his post. This comes after several Parliament members accused Sariyev and his cabinet of corruption. The Kyrgyz presidential press service said President Almazbek Atambayev accepted his resignation. 
 
 

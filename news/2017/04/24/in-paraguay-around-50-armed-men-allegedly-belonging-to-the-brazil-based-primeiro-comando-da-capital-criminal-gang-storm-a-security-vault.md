@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/24/in-paraguay-around-50-armed-men-allegedly-belon
 
 ### [2017-04-24](/news/2017/04/24/index.md)
 
+##### Paraguay
 # In Paraguay, around 50 armed men, allegedly belonging to the Brazil-based Primeiro Comando da Capital criminal gang, storm a security vault and police headquarters in Ciudad del Este, escaping with around $6 million in a daring cross-border raid. 
 
 Using automatic rifles, dynamite and anti-aircraft guns, around 50 gangsters turned city into a battle zone before fleeing in speedboats with about $6m

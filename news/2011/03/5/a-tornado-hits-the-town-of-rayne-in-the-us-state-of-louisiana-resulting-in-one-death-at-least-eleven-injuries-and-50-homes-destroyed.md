@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/5/a-tornado-hits-the-town-of-rayne-in-the-us-state-of-louisiana-resulting-in-one-death-at-least-eleven-injuries-and-50-homes-destroyed.html)  [JSON](/news/2011/03/5/a-tornado-hits-the-town-of-rayne-in-the-us-state-of-louisiana-resulting-in-one-death-at-least-eleven-injuries-and-50-homes-destroyed.json)  [XML](/news/2011/03/5/a-tornado-hits-the-town-of-rayne-in-the-us-state-of-louisiana-resulting-in-one-death-at-least-eleven-injuries-and-50-homes-destroyed.xml)  
+
 ### [2011-03-5](/news/2011/03/5/index.md)
 
+##### tornado
 # A tornado hits the town of Rayne in the US state of Louisiana resulting in one death, at least eleven injuries and 50 homes destroyed. 
 
 At least one person was killed, and 12 others injured, when a tornado struck the southwestern Louisiana town of Rayne Saturday, according to KATC.com.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Indiana Republic](http://www.therepublic.com/view/story/0269fa3ee4ca49fabcd0ef6e2c7bc379/LA--Louisiana_Tornado/)
 2. [CNN](http://www.cnn.com/2011/US/03/05/louisiana.storm/)

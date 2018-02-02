@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/5/voters-in-slovakia-choose-representatives-for-al
 
 ### [2016-03-5](/news/2016/03/5/index.md)
 
+##### Slovak parliamentary election, 2016
 # Voters in Slovakia choose representatives for all 150 National Council seats. While anti-migrant Prime Minister Robert Fico's Smer party is expected to lose its parliamentary majority, it should be in position to lead a coalition government. 
 
 BRATISLAVA Slovaks voting on Saturday are likely to hand a third term to Prime Minister Robert Fico, a left-wing nationalist whose vocal anti-immigration stance chimes with those of Hungary&#039;s Viktor Orban and Poland&#039;s Jaroslaw Kaczynski. Opinion polls show Fico&#039;s Smer party is set to lose its parliamentary majority after graft scandals and protests by teachers and nurses about low pay cost it support. But a combination of popular welfare measures such as free train rides for students and pensioners and his opposition to immigration even by refugees should secure him well over 30 percent of the vote, pollsters say, enough to form a government with a coalition partner.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/02/1/pope-john-paul-ii-is-taken-to-a-hospital-suffering-from-a-serious-case-of-influenza.html)  [JSON](/news/2005/02/1/pope-john-paul-ii-is-taken-to-a-hospital-suffering-from-a-serious-case-of-influenza.json)  [XML](/news/2005/02/1/pope-john-paul-ii-is-taken-to-a-hospital-suffering-from-a-serious-case-of-influenza.xml)  
+
 ### [2005-02-1](/news/2005/02/1/index.md)
 
+##### Pope John Paul II
 #  Pope John Paul II is taken to a hospital suffering from a serious case of influenza.
 
 

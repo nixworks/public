@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/10/mahmoud-abbas-the-president-of-the-palestinian-authority-spells-out-his-conditions-for-a-peace-deal-with-israel-prior-to-a-conference-in.html)  [JSON](/news/2007/10/10/mahmoud-abbas-the-president-of-the-palestinian-authority-spells-out-his-conditions-for-a-peace-deal-with-israel-prior-to-a-conference-in.json)  [XML](/news/2007/10/10/mahmoud-abbas-the-president-of-the-palestinian-authority-spells-out-his-conditions-for-a-peace-deal-with-israel-prior-to-a-conference-in.xml)  
+
 ### [2007-10-10](/news/2007/10/10/index.md)
 
+##### Mahmoud Abbas
 #  Mahmoud Abbas, the President of the Palestinian Authority, spells out his conditions for a peace deal with Israel prior to a conference in Annapolis, Maryland next month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/israel/Story/0,,2188046,00.html)
 

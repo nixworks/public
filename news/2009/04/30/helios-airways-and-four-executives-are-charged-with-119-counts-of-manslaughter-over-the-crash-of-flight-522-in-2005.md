@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/30/helios-airways-and-four-executives-are-charged-with-119-counts-of-manslaughter-over-the-crash-of-flight-522-in-2005.html)  [JSON](/news/2009/04/30/helios-airways-and-four-executives-are-charged-with-119-counts-of-manslaughter-over-the-crash-of-flight-522-in-2005.json)  [XML](/news/2009/04/30/helios-airways-and-four-executives-are-charged-with-119-counts-of-manslaughter-over-the-crash-of-flight-522-in-2005.xml)  
+
 ### [2009-04-30](/news/2009/04/30/index.md)
 
+##### Helios Airways
 #  Helios Airways and four executives are charged with 119 counts of manslaughter over the crash of Flight 522 in 2005. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jbNtBxJZFBZkqpQMwKvZUHmV5O1gD97SR9582)
 
@@ -15,4 +19,4 @@
 2. [Former President of the Philippines Benigno "Noynoy" Aquino III is indicted (among others) by the Office of the Ombudsman for his failure in handling the 2015 Mamasapano clash, which resulted in the deaths of 44 members of the Special Action Forces of the Philippine National Police. Aquino's legal team has vowed to appeal for a motion for reconsideration; as well as the group Volunteers Against Crime and Corruption (representing the victims' families), against what they call a "weak case" (citing Aquino's charges of "graft" & "usurpation of authority", instead of "reckless imprudence resulting in multiple homicide") ](/news/2017/07/14/former-president-of-the-philippines-benigno-noynoy-aquino-iii-is-indicted-among-others-by-the-office-of-the-ombudsman-for-his-failure-in.md) _Context: indicted_
 3. [Six people are charged with various offences including manslaughter by gross negligence following the Hillsborough disaster in 1989. ](/news/2017/06/28/six-people-are-charged-with-various-offences-including-manslaughter-by-gross-negligence-following-the-hillsborough-disaster-in-1989.md) _Context: manslaughter by gross negligence_
 4. [Following last month's manslaughter conviction, Israeli soldier Elor Azaria is sentenced to 18 months in prison by a military court for, during a violent incident, his deadly shooting of the wounded, unarmed, prone Palestinian Abdel Fattah al-Sharif, who had stabbed a soldier last March in Hebron. ](/news/2017/02/21/following-last-month-s-manslaughter-conviction-israeli-soldier-elor-azaria-is-sentenced-to-18-months-in-prison-by-a-military-court-for-dur.md) _Context: manslaughter by gross negligence_
-5. [An interim report by South Korean prosecutors implicates President Park Geun-hye in a political scandal involving her close friend Choi Soon-sil. Three people have been indicted in relation to the scandal. President Park cannot be indicted due to a constitutional provision preventing a sitting President being indicted except for treason or insurrection. ](/news/2016/11/20/an-interim-report-by-south-korean-prosecutors-implicates-president-park-geun-hye-in-a-political-scandal-involving-her-close-friend-choi-soon.md) _Context: indicted_
+5. [Jury selection begins for the trial of William Porter, a Baltimore, Maryland police officer charged with manslaughter and other charges surrounding the April 19 death of Freddie Gray. Porter is the first of six officers to be tried. ](/news/2015/11/30/jury-selection-begins-for-the-trial-of-william-porter-a-baltimore-maryland-police-officer-charged-with-manslaughter-and-other-charges-surr.md) _Context: manslaughter by gross negligence_

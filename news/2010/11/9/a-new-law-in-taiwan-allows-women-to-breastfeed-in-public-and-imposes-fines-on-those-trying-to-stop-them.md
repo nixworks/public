@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/9/a-new-law-in-taiwan-allows-women-to-breastfeed-in-public-and-imposes-fines-on-those-trying-to-stop-them.html)  [JSON](/news/2010/11/9/a-new-law-in-taiwan-allows-women-to-breastfeed-in-public-and-imposes-fines-on-those-trying-to-stop-them.json)  [XML](/news/2010/11/9/a-new-law-in-taiwan-allows-women-to-breastfeed-in-public-and-imposes-fines-on-those-trying-to-stop-them.xml)  
+
 ### [2010-11-9](/news/2010/11/9/index.md)
 
+##### Taiwan
 # A new law in Taiwan allows women to breastfeed in public and imposes fines on those trying to stop them. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hMHUnypnaJRSUKzzA7orycOCjrPg?docId=CNG.9cffc4fdf846d8715d7cc1b4f8a701a3.51)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_601075.html)

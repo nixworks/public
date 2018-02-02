@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/6/ariel-sharon-is-moved-out-of-the-intensive-care-unit-at-the-sheba-medical-center.html)  [JSON](/news/2006/11/6/ariel-sharon-is-moved-out-of-the-intensive-care-unit-at-the-sheba-medical-center.json)  [XML](/news/2006/11/6/ariel-sharon-is-moved-out-of-the-intensive-care-unit-at-the-sheba-medical-center.xml)  
+
 ### [2006-11-6](/news/2006/11/6/index.md)
 
+##### Ariel Sharon
 #  Ariel Sharon is moved out of the intensive care unit at the Sheba Medical Center. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Malaysia Star](http://thestar.com.my/news/story.asp?file=/2006/11/6/apworld/20061106152441&sec=apworld)
 

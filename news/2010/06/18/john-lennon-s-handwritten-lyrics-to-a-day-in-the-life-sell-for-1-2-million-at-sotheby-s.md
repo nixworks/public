@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/18/john-lennon-s-handwritten-lyrics-to-a-day-in-the-life-sell-for-1-2-million-at-sotheby-s.html)  [JSON](/news/2010/06/18/john-lennon-s-handwritten-lyrics-to-a-day-in-the-life-sell-for-1-2-million-at-sotheby-s.json)  [XML](/news/2010/06/18/john-lennon-s-handwritten-lyrics-to-a-day-in-the-life-sell-for-1-2-million-at-sotheby-s.xml)  
+
 ### [2010-06-18](/news/2010/06/18/index.md)
 
+##### John Lennon
 # John Lennon's handwritten lyrics to "A Day in the Life" sell for $1.2 million at Sotheby's. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/entertainment/8749106.stm)
 

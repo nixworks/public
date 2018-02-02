@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/8/taliban-gunmen-shoot-a-woman-accused-of-adultery-to-death-while-men-watching-the-execution-cheer-in-a-village-near-kabul-afghanistan.html)  [JSON](/news/2012/07/8/taliban-gunmen-shoot-a-woman-accused-of-adultery-to-death-while-men-watching-the-execution-cheer-in-a-village-near-kabul-afghanistan.json)  [XML](/news/2012/07/8/taliban-gunmen-shoot-a-woman-accused-of-adultery-to-death-while-men-watching-the-execution-cheer-in-a-village-near-kabul-afghanistan.xml)  
+
 ### [2012-07-8](/news/2012/07/8/index.md)
 
+##### Taliban
 # Taliban gunmen shoot a woman accused of adultery to death while men watching the execution cheer, in a village near Kabul, Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/07/08/world/asia/afghanistan-public-execution/index.html?hpt=wo_c2)
 

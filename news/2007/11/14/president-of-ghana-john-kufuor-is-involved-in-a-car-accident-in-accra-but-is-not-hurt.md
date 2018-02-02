@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/14/president-of-ghana-john-kufuor-is-involved-in-a-car-accident-in-accra-but-is-not-hurt.html)  [JSON](/news/2007/11/14/president-of-ghana-john-kufuor-is-involved-in-a-car-accident-in-accra-but-is-not-hurt.json)  [XML](/news/2007/11/14/president-of-ghana-john-kufuor-is-involved-in-a-car-accident-in-accra-but-is-not-hurt.xml)  
+
 ### [2007-11-14](/news/2007/11/14/index.md)
 
+##### President of Ghana
 #  President of Ghana John Kufuor is involved in a car accident in Accra, but is not hurt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7094840.stm)
 

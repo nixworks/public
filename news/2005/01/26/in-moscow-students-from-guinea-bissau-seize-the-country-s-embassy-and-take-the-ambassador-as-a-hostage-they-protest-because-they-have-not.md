@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/26/in-moscow-students-from-guinea-bissau-seize-the-country-s-embassy-and-take-the-ambassador-as-a-hostage-they-protest-because-they-have-not.html)  [JSON](/news/2005/01/26/in-moscow-students-from-guinea-bissau-seize-the-country-s-embassy-and-take-the-ambassador-as-a-hostage-they-protest-because-they-have-not.json)  [XML](/news/2005/01/26/in-moscow-students-from-guinea-bissau-seize-the-country-s-embassy-and-take-the-ambassador-as-a-hostage-they-protest-because-they-have-not.xml)  
+
 ### [2005-01-26](/news/2005/01/26/index.md)
 
+##### Guinea-Bissau
 #  In Moscow, students from Guinea-Bissau seize the country's embassy and take the ambassador as a hostage. They protest because they have not received their student's grants for more than a year 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4207659.stm)
 

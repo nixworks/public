@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/06/1/ghazi-mashal-ajil-al-yawer-a-powerful-sunni-muslim-tribal-leader-and-critic-of-the-u-s-led-occupation-is-named-president-of-iraq-s-incom.html)  [JSON](/news/2004/06/1/ghazi-mashal-ajil-al-yawer-a-powerful-sunni-muslim-tribal-leader-and-critic-of-the-u-s-led-occupation-is-named-president-of-iraq-s-incom.json)  [XML](/news/2004/06/1/ghazi-mashal-ajil-al-yawer-a-powerful-sunni-muslim-tribal-leader-and-critic-of-the-u-s-led-occupation-is-named-president-of-iraq-s-incom.xml)  
+
 ### [2004-06-1](/news/2004/06/1/index.md)
 
+##### Ghazi Mashal Ajil al-Yawer
 #  Ghazi Mashal Ajil al-Yawer, a powerful Sunni Muslim tribal leader and critic of the U.S.-led occupation, is named president of Iraq's incoming government, after Iraqi leaders reject the Americans' preferred candidate for the post.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/16/west-caribbean-airways-flight-708-from-colombia-crashes-in-a-remote-region-of-venezuela-with-160-people-on-board.html)  [JSON](/news/2005/08/16/west-caribbean-airways-flight-708-from-colombia-crashes-in-a-remote-region-of-venezuela-with-160-people-on-board.json)  [XML](/news/2005/08/16/west-caribbean-airways-flight-708-from-colombia-crashes-in-a-remote-region-of-venezuela-with-160-people-on-board.xml)  
+
 ### [2005-08-16](/news/2005/08/16/index.md)
 
+##### West Caribbean Airways Flight 708
 #  West Caribbean Airways Flight 708 from Colombia crashes in a remote region of Venezuela with 160 people on board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4156224.stm)
 

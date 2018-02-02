@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/22/the-world-s-first-native-64-bit-x86-processor-the-amd-opteron-processor-is-launched.html)  [JSON](/news/2003/04/22/the-world-s-first-native-64-bit-x86-processor-the-amd-opteron-processor-is-launched.json)  [XML](/news/2003/04/22/the-world-s-first-native-64-bit-x86-processor-the-amd-opteron-processor-is-launched.xml)  
+
 ### [2003-04-22](/news/2003/04/22/index.md)
 
+##### AMD
 #  The world's first native 64-bit x86 processor, the AMD Opteron processor, is launched.
 
 

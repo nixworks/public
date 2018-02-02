@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/10/sri-lankan-civil-war-more-than-30-000-sri-lankans-flee-intensifying-fighting-between-the-government-and-the-tamil-tigers-in-the-east-of-sr.html)  [JSON](/news/2007/03/10/sri-lankan-civil-war-more-than-30-000-sri-lankans-flee-intensifying-fighting-between-the-government-and-the-tamil-tigers-in-the-east-of-sr.json)  [XML](/news/2007/03/10/sri-lankan-civil-war-more-than-30-000-sri-lankans-flee-intensifying-fighting-between-the-government-and-the-tamil-tigers-in-the-east-of-sr.xml)  
+
 ### [2007-03-10](/news/2007/03/10/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: More than 30,000 Sri Lankans flee intensifying fighting between the Government and the Tamil Tigers in the east of Sri Lanka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Australia](http://www.abc.net.au/news/newsitems/200703/s1868623.htm)
 

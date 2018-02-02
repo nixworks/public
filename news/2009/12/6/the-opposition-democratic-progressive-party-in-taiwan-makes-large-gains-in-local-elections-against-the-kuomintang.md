@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/6/the-opposition-democratic-progressive-party-in-taiwan-makes-large-gains-in-local-elections-against-the-kuomintang.html)  [JSON](/news/2009/12/6/the-opposition-democratic-progressive-party-in-taiwan-makes-large-gains-in-local-elections-against-the-kuomintang.json)  [XML](/news/2009/12/6/the-opposition-democratic-progressive-party-in-taiwan-makes-large-gains-in-local-elections-against-the-kuomintang.xml)  
+
 ### [2009-12-6](/news/2009/12/6/index.md)
 
+##### Democratic Progressive Party
 #  The opposition Democratic Progressive Party in Taiwan makes large gains in local elections against the Kuomintang. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/12/200912642214102652.html)
 2. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/taiwan/6742756/Taiwans-pro-China-movement-suffers-blow.html)

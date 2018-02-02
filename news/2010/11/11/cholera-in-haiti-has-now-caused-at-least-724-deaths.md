@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/11/cholera-in-haiti-has-now-caused-at-least-724-deaths.html)  [JSON](/news/2010/11/11/cholera-in-haiti-has-now-caused-at-least-724-deaths.json)  [XML](/news/2010/11/11/cholera-in-haiti-has-now-caused-at-least-724-deaths.xml)  
+
 ### [2010-11-11](/news/2010/11/11/index.md)
 
+##### worst epidemic of cholera
 # Cholera in Haiti has now caused at least 724 deaths. 
 
 Fears grow over rapid spread of cholera in the capital, as death toll rises to 724 people across the nation.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/11/2010111116141596571.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/11/20101111172513622884_20.jpg)

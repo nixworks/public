@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/10/12/elinor-ostrom-and-oliver-williamson-win-the-nobel-prize-for-economics.html)  [JSON](/news/2009/10/12/elinor-ostrom-and-oliver-williamson-win-the-nobel-prize-for-economics.json)  [XML](/news/2009/10/12/elinor-ostrom-and-oliver-williamson-win-the-nobel-prize-for-economics.xml)  
+
 ### [2009-10-12](/news/2009/10/12/index.md)
 
+##### Elinor Ostrom
 #  Elinor Ostrom and Oliver Williamson win the Nobel Prize for Economics. 
 
 Elinor Ostrom and Oliver Williamson of the United States won the 2009 Nobel Economics Prize on Monday for their work on the organisation of cooperation in economic governance.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aYjImnfwh0SE)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=aYjImnfwh0SE)
 2. [The Economic Times](http://economictimes.indiatimes.com/news/news-by-industry/et-cetera/US-duo-wins-Nobel-Economics-Prize-first-woman-lauded/articleshow/5116166.cms)
 2. [Cover Image](http://img.etimg.com/photo/6325547.cms)
 

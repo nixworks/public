@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2005/04/14/police-in-china-arrest-15-people-involved-with-illegal-blood-trade-that-may-have-contributed-to-the-spread-of-aids.html)  [JSON](/news/2005/04/14/police-in-china-arrest-15-people-involved-with-illegal-blood-trade-that-may-have-contributed-to-the-spread-of-aids.json)  [XML](/news/2005/04/14/police-in-china-arrest-15-people-involved-with-illegal-blood-trade-that-may-have-contributed-to-the-spread-of-aids.xml)  
+
 ### [2005-04-14](/news/2005/04/14/index.md)
 
+##### AIDS
 #  Police in China arrest 15 people involved with illegal blood trade that may have contributed to the spread of AIDS. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-04/14/content_434024.htm)
 2. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4936157,00.html)
 3. [People's Daily](http://english.people.com.cn/200504/14/eng20050414_181008.html)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8175563)
-4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8175563)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

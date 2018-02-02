@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/02/6/afghan-police-admit-they-shot-dead-seven-civilians-including-two-children-as-they-collected-firewood-in-spin-boldak-kandahar-last-thursd.html)  [JSON](/news/2010/02/6/afghan-police-admit-they-shot-dead-seven-civilians-including-two-children-as-they-collected-firewood-in-spin-boldak-kandahar-last-thursd.json)  [XML](/news/2010/02/6/afghan-police-admit-they-shot-dead-seven-civilians-including-two-children-as-they-collected-firewood-in-spin-boldak-kandahar-last-thursd.xml)  
+
 ### [2010-02-6](/news/2010/02/6/index.md)
 
+##### Afghanistan
 # Afghan police admit they shot dead seven civilians, including two children, as they collected firewood in Spin Boldak, Kandahar, last Thursday. 
 
 Seven Afghan boys were shot dead on Saturday by police who mistook them for insurgents, a provincial police official said.
 
 
-### Source:
+### Sources:
 
 1. [France24](http://www.france24.com/en/20100206-afghan-border-patrol-kills-seven-civilians-police)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=117948&sectionid=351020403)
-3. [Reuters](http://www.reuters.com/article/idUSTRE6150HC20100206)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/idUSTRE6150HC20100206)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

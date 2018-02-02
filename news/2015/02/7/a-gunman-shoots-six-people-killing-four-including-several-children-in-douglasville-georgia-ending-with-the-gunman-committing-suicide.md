@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/7/a-gunman-shoots-six-people-killing-four-including-several-children-in-douglasville-georgia-ending-with-the-gunman-committing-suicide.html)  [JSON](/news/2015/02/7/a-gunman-shoots-six-people-killing-four-including-several-children-in-douglasville-georgia-ending-with-the-gunman-committing-suicide.json)  [XML](/news/2015/02/7/a-gunman-shoots-six-people-killing-four-including-several-children-in-douglasville-georgia-ending-with-the-gunman-committing-suicide.xml)  
+
 ### [2015-02-7](/news/2015/02/7/index.md)
 
+##### Douglasville
 # A gunman shoots six people, killing four, including several children, in Douglasville, Georgia, ending with the gunman committing suicide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via FOX News](http://www.foxnews.com/us/2015/02/07/7-people-shot-5-dead-in-georgia-shooting/)
 

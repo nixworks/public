@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/01/20/the-china-news-service-announces-new-government-restrictions-on-internet-use-aimed-especially-at-internet-cafes.html)  [JSON](/news/1999/01/20/the-china-news-service-announces-new-government-restrictions-on-internet-use-aimed-especially-at-internet-cafes.json)  [XML](/news/1999/01/20/the-china-news-service-announces-new-government-restrictions-on-internet-use-aimed-especially-at-internet-cafes.xml)  
+
 ### [1999-01-20](/news/1999/01/20/index.md)
 
+##### China News Service
 #  The China News Service announces new government restrictions on Internet use aimed especially at Internet cafes.
 
 

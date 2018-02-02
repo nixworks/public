@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/6/united-states-v-libby-former-bush-administration-aide-lewis-libby-is-found-guilty-of-perjury-and-obstruction-of-justice.html)  [JSON](/news/2007/03/6/united-states-v-libby-former-bush-administration-aide-lewis-libby-is-found-guilty-of-perjury-and-obstruction-of-justice.json)  [XML](/news/2007/03/6/united-states-v-libby-former-bush-administration-aide-lewis-libby-is-found-guilty-of-perjury-and-obstruction-of-justice.xml)  
+
 ### [2007-03-6](/news/2007/03/6/index.md)
 
+##### United States v. Libby
 #  "United States v. Libby": Former Bush administration aide Lewis Libby is found guilty of perjury and obstruction of justice. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/POLITICS/03/06/cia.leak/index.html)
 

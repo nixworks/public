@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/8/exiled-honduran-president-manuel-zelaya-and-interim-president-roberto-micheletti-agree-to-talks-under-mediation-by-costa-rica.html)  [JSON](/news/2009/07/8/exiled-honduran-president-manuel-zelaya-and-interim-president-roberto-micheletti-agree-to-talks-under-mediation-by-costa-rica.json)  [XML](/news/2009/07/8/exiled-honduran-president-manuel-zelaya-and-interim-president-roberto-micheletti-agree-to-talks-under-mediation-by-costa-rica.xml)  
+
 ### [2009-07-8](/news/2009/07/8/index.md)
 
+##### Honduras
 #  Exiled Honduran President Manuel Zelaya and interim President Roberto Micheletti agree to talks under mediation by Costa Rica. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2009/jul/08/honduras-president-coup-leaders-talks)
 

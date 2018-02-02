@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/21/us-president-barack-obama-speaks-at-a-nato-summit-concerning-the-future-of-war-ravaged-afghanistan.html)  [JSON](/news/2012/05/21/us-president-barack-obama-speaks-at-a-nato-summit-concerning-the-future-of-war-ravaged-afghanistan.json)  [XML](/news/2012/05/21/us-president-barack-obama-speaks-at-a-nato-summit-concerning-the-future-of-war-ravaged-afghanistan.xml)  
+
 ### [2012-05-21](/news/2012/05/21/index.md)
 
+##### U.S. President
 # US President Barack Obama speaks at a NATO summit concerning the future of war-ravaged Afghanistan. 
 
 President Barack Obama gives a final press conference at the Chicago NATO summit.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-18153883)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60388000/jpg/_60388191_014815493-1.jpg)

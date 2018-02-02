@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/22/hungary-s-ruling-fidesz-party-loses-its-two-thirds-supermajority-in-the-national-assembly-after-a-left-wing-independent-candidate-wins-a-by.html)  [JSON](/news/2015/02/22/hungary-s-ruling-fidesz-party-loses-its-two-thirds-supermajority-in-the-national-assembly-after-a-left-wing-independent-candidate-wins-a-by.json)  [XML](/news/2015/02/22/hungary-s-ruling-fidesz-party-loses-its-two-thirds-supermajority-in-the-national-assembly-after-a-left-wing-independent-candidate-wins-a-by.xml)  
+
 ### [2015-02-22](/news/2015/02/22/index.md)
 
+##### Hungary
 # Hungary's ruling Fidesz Party loses its two-thirds supermajority in the National Assembly after a left-wing independent candidate wins a by-election in a district based on the city of Veszprem. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Star Tribune](http://www.startribune.com/world/293478431.html)
 

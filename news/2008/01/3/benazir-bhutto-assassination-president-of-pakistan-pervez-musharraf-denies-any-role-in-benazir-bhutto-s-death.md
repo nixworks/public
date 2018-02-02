@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/3/benazir-bhutto-assassination-president-of-pakistan-pervez-musharraf-denies-any-role-in-benazir-bhutto-s-death.html)  [JSON](/news/2008/01/3/benazir-bhutto-assassination-president-of-pakistan-pervez-musharraf-denies-any-role-in-benazir-bhutto-s-death.json)  [XML](/news/2008/01/3/benazir-bhutto-assassination-president-of-pakistan-pervez-musharraf-denies-any-role-in-benazir-bhutto-s-death.xml)  
+
 ### [2008-01-3](/news/2008/01/3/index.md)
 
+##### Benazir Bhutto assassination
 #  Benazir Bhutto assassination: President of Pakistan Pervez Musharraf denies any role in Benazir Bhutto's death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/01/03/pakistan.elections/index.html)
 

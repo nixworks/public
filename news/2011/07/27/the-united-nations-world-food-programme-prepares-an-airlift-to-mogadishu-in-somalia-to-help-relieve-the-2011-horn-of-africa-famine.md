@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/27/the-united-nations-world-food-programme-prepares-an-airlift-to-mogadishu-in-somalia-to-help-relieve-the-2011-horn-of-africa-famine.html)  [JSON](/news/2011/07/27/the-united-nations-world-food-programme-prepares-an-airlift-to-mogadishu-in-somalia-to-help-relieve-the-2011-horn-of-africa-famine.json)  [XML](/news/2011/07/27/the-united-nations-world-food-programme-prepares-an-airlift-to-mogadishu-in-somalia-to-help-relieve-the-2011-horn-of-africa-famine.xml)  
+
 ### [2011-07-27](/news/2011/07/27/index.md)
 
+##### United Nations
 # The United Nations World Food Programme prepares an airlift to Mogadishu in Somalia to help relieve the 2011 Horn of Africa famine. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France24](http://www.france24.com/en/20110727-un-readies-aid-airlift-mogadishu-0)
 

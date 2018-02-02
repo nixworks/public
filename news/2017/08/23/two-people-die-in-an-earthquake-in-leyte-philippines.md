@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/08/23/two-people-die-in-an-earthquake-in-leyte-philippines.html)  [JSON](/news/2017/08/23/two-people-die-in-an-earthquake-in-leyte-philippines.json)  [XML](/news/2017/08/23/two-people-die-in-an-earthquake-in-leyte-philippines.xml)  
+
 ### [2017-08-23](/news/2017/08/23/index.md)
 
+##### Earthquakes in 2017
 # Two people die in an earthquake in Leyte, Philippines. 
 
 Aftershocks are expected from the quake; no injuries or damage yet reported.
@@ -20,5 +24,5 @@ Aftershocks are expected from the quake; no injuries or damage yet reported.
 1. [At least 70 people are still missing after the ferry MV "Maharlika II" sinks off the Philippines island of Leyte. ](/news/2014/09/14/at-least-70-people-are-still-missing-after-the-ferry-mv-maharlika-ii-sinks-off-the-philippines-island-of-leyte.md) _Context: Leyte, Philippines_
 2. [182 inmates escape from a provincial jail in Leyte, Philippines, which was previously affected by Typhoon Haiyan, citing squalid conditions and a lack of food. 148 are recaptured hours later. ](/news/2014/01/30/182-inmates-escape-from-a-provincial-jail-in-leyte-philippines-which-was-previously-affected-by-typhoon-haiyan-citing-squalid-conditions.md) _Context: Leyte, Philippines_
 3. [Philippines: A Philippines police official estimates that 10,000 people have died in the central province of Leyte. ](/news/2013/11/10/philippines-a-philippines-police-official-estimates-that-10-000-people-have-died-in-the-central-province-of-leyte.md) _Context: Leyte, Philippines_
-4. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: Philippines_
-5. [A magnitude 6.2 earthquake strikes the central Mexican state of Oaxaca killing at least five people and damaging housing and infrastructure already damaged by Tuesday's 2017 Central Mexico earthquake. ](/news/2017/09/23/a-magnitude-6-2-earthquake-strikes-the-central-mexican-state-of-oaxaca-killing-at-least-five-people-and-damaging-housing-and-infrastructure.md) _Context: Earthquakes in 2017_
+4. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Philippines_
+5. [Journalists in the Philippines protest the government's decision to cancel the license of Rappler. ](/news/2018/01/19/journalists-in-the-philippines-protest-the-government-s-decision-to-cancel-the-license-of-rappler.md) _Context: Philippines_

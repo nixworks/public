@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/10/venezuelan-president-nicola-s-maduro-who-is-up-
 
 ### [2017-12-10](/news/2017/12/10/index.md)
 
+##### Venezuelan presidential election, 2018
 # Venezuelan President Nicolas Maduro, who is up for re-election, bans the main opposition parties, Justice First, Democratic Action and Popular Will from running in next year's presidential election. 
 
 President Maduro says the three main opposition parties cannot compete against him in 2018.

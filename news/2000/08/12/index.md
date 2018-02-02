@@ -1,7 +1,7 @@
-## [2000-08-12](/news/2000/08/12/index.md)
 
-### [ Russian submarine "Kursk" sinks in the Barents Sea. All 118 men aboard die.](/news/2000/08/12/russian-submarine-kursk-sinks-in-the-barents-sea-all-118-men-aboard-die.md)
-_Context: Barents Sea, K-141 ''Kursk''_
+Formats: [HTML](2000/08/12/index.html)  [JSON](2000/08/12/index.json)  [XML](2000/08/12/index.xml)  
+
+## [2000-08-12](/news/2000/08/12/index.md)
 
 ## [Previous Day...](/news/2000/08/11/index.md)
 

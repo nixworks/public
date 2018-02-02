@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.html)  [JSON](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.json)  [XML](/news/2010/09/18/bulgarian-romani-protest-outside-the-french-embassy-in-sofia-about-expulsions-of-romani-from-france.xml)  
+
 ### [2010-09-18](/news/2010/09/18/index.md)
 
+##### Bulgaria
 # Bulgarian Romani protest outside the French embassy in Sofia about expulsions of Romani from France. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/19/c_13518734.htm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/28/harambe-is-killed.html)  [JSON](/news/2016/05/2
 
 ### [2016-05-28](/news/2016/05/28/index.md)
 
+##### Harambe
 # Harambe is killed.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/28/the-royal-bank-of-scotland-announces-that-it-wi
 
 ### [2016-09-28](/news/2016/09/28/index.md)
 
+##### Royal Bank of Scotland
 # The Royal Bank of Scotland announces that it will pay US$1.1 billion to resolve some of its mortgage claims in the United States. 
 
 Royal Bank of Scotland Group Plc will pay $1.1 billion to resolve claims that it sold toxic mortgage-backed securities to credit unions that later failed, the U.S. National Credit Union Administration (NCUA) said.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/17/bundu-dia-kongo-followers-free-their-leader-and
 
 ### [2017-05-17](/news/2017/05/17/index.md)
 
+##### Bundu dia Kongo
 # Bundu dia Kongo followers free their leader and 50 other inmates with an attack on the Makala jail of Kinshasa, Democratic Republic of the Congo. 
 
 Separatist cult leader and about 50 other inmates freed after supporters attack prison in the capital Kinshasa.

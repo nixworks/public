@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/29/burma-is-to-swear-in-a-new-president-within-two-days-marking-a-transfer-from-military-to-civilian-government.html)  [JSON](/news/2011/03/29/burma-is-to-swear-in-a-new-president-within-two-days-marking-a-transfer-from-military-to-civilian-government.json)  [XML](/news/2011/03/29/burma-is-to-swear-in-a-new-president-within-two-days-marking-a-transfer-from-military-to-civilian-government.xml)  
+
 ### [2011-03-29](/news/2011/03/29/index.md)
 
+##### Burma
 # Burma is to swear in a new President within two days, marking a transfer from military to civilian government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1119474/1/.html)
 

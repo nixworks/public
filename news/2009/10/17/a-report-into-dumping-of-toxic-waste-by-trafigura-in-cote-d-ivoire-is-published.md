@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/17/a-report-into-dumping-of-toxic-waste-by-trafigura-in-cote-d-ivoire-is-published.html)  [JSON](/news/2009/10/17/a-report-into-dumping-of-toxic-waste-by-trafigura-in-cote-d-ivoire-is-published.json)  [XML](/news/2009/10/17/a-report-into-dumping-of-toxic-waste-by-trafigura-in-cote-d-ivoire-is-published.xml)  
+
 ### [2009-10-17](/news/2009/10/17/index.md)
 
+##### the dumped waste
 #  A report into dumping of toxic waste by Trafigura in Cte d'Ivoire is published. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/politics/8312780.stm)
 

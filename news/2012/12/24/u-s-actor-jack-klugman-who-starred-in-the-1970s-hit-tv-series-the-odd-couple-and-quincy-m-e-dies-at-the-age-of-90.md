@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/24/u-s-actor-jack-klugman-who-starred-in-the-1970s-hit-tv-series-the-odd-couple-and-quincy-m-e-dies-at-the-age-of-90.html)  [JSON](/news/2012/12/24/u-s-actor-jack-klugman-who-starred-in-the-1970s-hit-tv-series-the-odd-couple-and-quincy-m-e-dies-at-the-age-of-90.json)  [XML](/news/2012/12/24/u-s-actor-jack-klugman-who-starred-in-the-1970s-hit-tv-series-the-odd-couple-and-quincy-m-e-dies-at-the-age-of-90.xml)  
+
 ### [2012-12-24](/news/2012/12/24/index.md)
 
+##### U.S.
 # U.S. actor Jack Klugman, who starred in the 1970s hit TV series "The Odd Couple" and "Quincy, M.E.", dies at the age of 90. 
 
 US actor Jack Klugman, who starred in the 1970s hit TV series The Odd Couple and Quincy M.E., dies at the age of 90.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20840475)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64936000/jpg/_64936961_64936960.jpg)

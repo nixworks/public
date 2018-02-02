@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/11/several-explosions-in-algiers-algeria-leave-23-dead-and-dozens-of-people-injured.html)  [JSON](/news/2007/04/11/several-explosions-in-algiers-algeria-leave-23-dead-and-dozens-of-people-injured.json)  [XML](/news/2007/04/11/several-explosions-in-algiers-algeria-leave-23-dead-and-dozens-of-people-injured.xml)  
+
 ### [2007-04-11](/news/2007/04/11/index.md)
 
+##### recent bomb attacks
 #  Several explosions in Algiers, Algeria, leave 23 dead and dozens of people injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6544437.stm)
 2. [Sky](http://news.sky.com/skynews/article/0,,30000-1260100,00.html)

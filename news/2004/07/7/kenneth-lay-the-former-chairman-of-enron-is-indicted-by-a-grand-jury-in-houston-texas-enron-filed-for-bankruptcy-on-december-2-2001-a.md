@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/7/kenneth-lay-the-former-chairman-of-enron-is-indicted-by-a-grand-jury-in-houston-texas-enron-filed-for-bankruptcy-on-december-2-2001-a.html)  [JSON](/news/2004/07/7/kenneth-lay-the-former-chairman-of-enron-is-indicted-by-a-grand-jury-in-houston-texas-enron-filed-for-bankruptcy-on-december-2-2001-a.json)  [XML](/news/2004/07/7/kenneth-lay-the-former-chairman-of-enron-is-indicted-by-a-grand-jury-in-houston-texas-enron-filed-for-bankruptcy-on-december-2-2001-a.xml)  
+
 ### [2004-07-7](/news/2004/07/7/index.md)
 
+##### Kenneth Lay
 #  Kenneth Lay, the former Chairman of Enron, is indicted by a grand jury in Houston, Texas. Enron filed for bankruptcy on December 2, 2001, after investigators discovered that it had hidden more than $1 billion in debt and inflated profits. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/3875297.stm)
 2. [CNN](http://money.cnn.com/2004/07/07/news/newsmakers/lay/index.htm?cnn=yes)

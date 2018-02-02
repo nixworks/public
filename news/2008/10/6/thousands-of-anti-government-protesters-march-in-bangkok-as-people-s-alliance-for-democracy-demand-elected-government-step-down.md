@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/6/thousands-of-anti-government-protesters-march-in-bangkok-as-people-s-alliance-for-democracy-demand-elected-government-step-down.html)  [JSON](/news/2008/10/6/thousands-of-anti-government-protesters-march-in-bangkok-as-people-s-alliance-for-democracy-demand-elected-government-step-down.json)  [XML](/news/2008/10/6/thousands-of-anti-government-protesters-march-in-bangkok-as-people-s-alliance-for-democracy-demand-elected-government-step-down.xml)  
+
 ### [2008-10-6](/news/2008/10/6/index.md)
 
+##### Bangkok
 #  Thousands of anti-government protesters march in Bangkok as People's Alliance for Democracy demand elected government step down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Agence France Press](http://ca.news.yahoo.com/s/afp/081006/world/thailand_politics_protest)
 

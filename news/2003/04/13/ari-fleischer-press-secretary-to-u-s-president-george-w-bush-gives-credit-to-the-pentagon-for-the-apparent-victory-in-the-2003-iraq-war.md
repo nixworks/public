@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/13/ari-fleischer-press-secretary-to-u-s-president-george-w-bush-gives-credit-to-the-pentagon-for-the-apparent-victory-in-the-2003-iraq-war.html)  [JSON](/news/2003/04/13/ari-fleischer-press-secretary-to-u-s-president-george-w-bush-gives-credit-to-the-pentagon-for-the-apparent-victory-in-the-2003-iraq-war.json)  [XML](/news/2003/04/13/ari-fleischer-press-secretary-to-u-s-president-george-w-bush-gives-credit-to-the-pentagon-for-the-apparent-victory-in-the-2003-iraq-war.xml)  
+
 ### [2003-04-13](/news/2003/04/13/index.md)
 
+##### Ari Fleischer
 #  Ari Fleischer, press secretary to U.S. President George W. Bush, gives credit to The Pentagon for the apparent victory in the 2003 Iraq war. [http:--www.washtimes.com-national-20030415-2212014.htm ]date=September 2015 
 
 

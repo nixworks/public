@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/14/eleven-egyptian-fishermen-drown-after-their-boat-sinks-in-the-gulf-of-suez.html)  [JSON](/news/2014/12/14/eleven-egyptian-fishermen-drown-after-their-boat-sinks-in-the-gulf-of-suez.json)  [XML](/news/2014/12/14/eleven-egyptian-fishermen-drown-after-their-boat-sinks-in-the-gulf-of-suez.xml)  
+
 ### [2014-12-14](/news/2014/12/14/index.md)
 
+##### Egyptian
 # Eleven Egyptian fishermen drown after their boat sinks in the Gulf of Suez. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/350d6a68f1744564a441569732edb208/officials-11-egypt-fishermen-drown-boat-sinks)
 

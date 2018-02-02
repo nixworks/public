@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/19/botswana-ends-diplomatic-relations-with-north-korea-following-a-un-report-on-the-latter-s-human-rights-record.html)  [JSON](/news/2014/02/19/botswana-ends-diplomatic-relations-with-north-korea-following-a-un-report-on-the-latter-s-human-rights-record.json)  [XML](/news/2014/02/19/botswana-ends-diplomatic-relations-with-north-korea-following-a-un-report-on-the-latter-s-human-rights-record.xml)  
+
 ### [2014-02-19](/news/2014/02/19/index.md)
 
+##### Botswana
 # Botswana ends diplomatic relations with North Korea following a UN report on the latter's human rights record. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Global Post](http://www.dailynk.com/english/read.php?num=11542&cataId=nk00100)
 1. [Cover Image](http://www.dailynk.com//efile/201402/DNKF00011542_List.jpg)

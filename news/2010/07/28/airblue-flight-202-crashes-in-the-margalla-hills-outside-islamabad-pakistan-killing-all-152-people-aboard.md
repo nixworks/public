@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/07/28/airblue-flight-202-crashes-in-the-margalla-hills-outside-islamabad-pakistan-killing-all-152-people-aboard.html)  [JSON](/news/2010/07/28/airblue-flight-202-crashes-in-the-margalla-hills-outside-islamabad-pakistan-killing-all-152-people-aboard.json)  [XML](/news/2010/07/28/airblue-flight-202-crashes-in-the-margalla-hills-outside-islamabad-pakistan-killing-all-152-people-aboard.xml)  
+
 ### [2010-07-28](/news/2010/07/28/index.md)
 
+##### Airblue
 # Airblue Flight 202 crashes in the Margalla Hills outside Islamabad, Pakistan, killing all 152 people aboard. 
 
 Two Americans were among the 152 people killed when a jetliner slammed into wooded hills near Islamabad amid dense fog and heavy rain on Wednesday, officials said.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2010/07/29/world/asia/29pstan.html?hp)
-2. [Reuters](http://www.reuters.com/article/idUSTRE66R0SE20100728)
+1. [New York Times](https://www.nytimes.com/2010/07/29/world/asia/29pstan.html?hp)
+2. [Reuters](https://www.reuters.com/article/idUSTRE66R0SE20100728)
 3. [Voice of America](http://www1.voanews.com/english/news/Pakistan-Plane-Crash-2010Jul28-99445839.html)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-07/28/c_13418900.htm)
 4. [Cover Image](https://static01.nyt.com/images/2010/07/29/world/29pstanspan-cnd/29pstanspan-cnd-thumbStandard.jpg)

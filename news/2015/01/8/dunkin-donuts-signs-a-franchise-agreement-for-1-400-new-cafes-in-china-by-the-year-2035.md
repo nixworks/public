@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/01/8/dunkin-donuts-signs-a-franchise-agreement-for-1-400-new-cafes-in-china-by-the-year-2035.html)  [JSON](/news/2015/01/8/dunkin-donuts-signs-a-franchise-agreement-for-1-400-new-cafes-in-china-by-the-year-2035.json)  [XML](/news/2015/01/8/dunkin-donuts-signs-a-franchise-agreement-for-1-400-new-cafes-in-china-by-the-year-2035.xml)  
+
 ### [2015-01-8](/news/2015/01/8/index.md)
 
+##### Dunkin' Donuts
 # Dunkin' Donuts signs a franchise agreement for 1,400 new cafes in China by the year 2035. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/01/08/dunkinbrands-china-idUSL1N0UN1DP20150108)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/01/08/dunkinbrands-china-idUSL1N0UN1DP20150108)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

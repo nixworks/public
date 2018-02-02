@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/28/cuban-television-shows-images-of-convalescing-leader-fidel-castro-walking-and-reading-the-day-s-newspapers-showing-that-he-is-recovering-fr.html)  [JSON](/news/2006/10/28/cuban-television-shows-images-of-convalescing-leader-fidel-castro-walking-and-reading-the-day-s-newspapers-showing-that-he-is-recovering-fr.json)  [XML](/news/2006/10/28/cuban-television-shows-images-of-convalescing-leader-fidel-castro-walking-and-reading-the-day-s-newspapers-showing-that-he-is-recovering-fr.xml)  
+
 ### [2006-10-28](/news/2006/10/28/index.md)
 
+##### Cuba
 #  Cuban television shows images of convalescing leader Fidel Castro walking and reading the day's newspapers showing that he is recovering from his emergency surgery in July. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/6095622.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-10-28T224450Z_01_N18357550_RTRUKOC_0_US-CUBA-CASTRO.xml)

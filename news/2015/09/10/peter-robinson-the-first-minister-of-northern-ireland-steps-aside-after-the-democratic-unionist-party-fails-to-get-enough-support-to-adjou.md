@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/10/peter-robinson-the-first-minister-of-northern-ireland-steps-aside-after-the-democratic-unionist-party-fails-to-get-enough-support-to-adjou.html)  [JSON](/news/2015/09/10/peter-robinson-the-first-minister-of-northern-ireland-steps-aside-after-the-democratic-unionist-party-fails-to-get-enough-support-to-adjou.json)  [XML](/news/2015/09/10/peter-robinson-the-first-minister-of-northern-ireland-steps-aside-after-the-democratic-unionist-party-fails-to-get-enough-support-to-adjou.xml)  
+
 ### [2015-09-10](/news/2015/09/10/index.md)
 
+##### Peter Robinson
 # Peter Robinson, the First Minister of Northern Ireland, steps aside after the Democratic Unionist Party fails to get enough support to adjourn the assembly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-northern-ireland-34206728)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/3711/production/_85479041_peterrobinsonstepsaside.jpg)

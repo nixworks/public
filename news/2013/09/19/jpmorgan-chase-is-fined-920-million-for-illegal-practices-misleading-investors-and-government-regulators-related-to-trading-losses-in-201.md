@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/19/jpmorgan-chase-is-fined-920-million-for-illegal-practices-misleading-investors-and-government-regulators-related-to-trading-losses-in-201.html)  [JSON](/news/2013/09/19/jpmorgan-chase-is-fined-920-million-for-illegal-practices-misleading-investors-and-government-regulators-related-to-trading-losses-in-201.json)  [XML](/news/2013/09/19/jpmorgan-chase-is-fined-920-million-for-illegal-practices-misleading-investors-and-government-regulators-related-to-trading-losses-in-201.xml)  
+
 ### [2013-09-19](/news/2013/09/19/index.md)
 
+##### JPMorgan Chase
 # JPMorgan Chase is fined $920 million for illegal practices (misleading investors and government regulators) related to trading losses in 2012. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FOXBusiness](http://www.foxbusiness.com/markets/2013/09/19/jp-morgan-to-pay-20-million-whale-fine/)
 

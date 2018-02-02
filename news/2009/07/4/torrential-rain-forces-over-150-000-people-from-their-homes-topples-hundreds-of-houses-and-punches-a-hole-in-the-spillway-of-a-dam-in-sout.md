@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/4/torrential-rain-forces-over-150-000-people-from-their-homes-topples-hundreds-of-houses-and-punches-a-hole-in-the-spillway-of-a-dam-in-sout.html)  [JSON](/news/2009/07/4/torrential-rain-forces-over-150-000-people-from-their-homes-topples-hundreds-of-houses-and-punches-a-hole-in-the-spillway-of-a-dam-in-sout.json)  [XML](/news/2009/07/4/torrential-rain-forces-over-150-000-people-from-their-homes-topples-hundreds-of-houses-and-punches-a-hole-in-the-spillway-of-a-dam-in-sout.xml)  
+
 ### [2009-07-4](/news/2009/07/4/index.md)
 
+##### China
 #  Torrential rain forces over 150,000 people from their homes, topples hundreds of houses and punches a hole in the spillway of a dam in southern China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=3&art_id=nw20090704141415624C844183)
 

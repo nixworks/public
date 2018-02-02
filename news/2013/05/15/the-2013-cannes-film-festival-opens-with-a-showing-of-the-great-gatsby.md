@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/15/the-2013-cannes-film-festival-opens-with-a-showing-of-the-great-gatsby.html)  [JSON](/news/2013/05/15/the-2013-cannes-film-festival-opens-with-a-showing-of-the-great-gatsby.json)  [XML](/news/2013/05/15/the-2013-cannes-film-festival-opens-with-a-showing-of-the-great-gatsby.xml)  
+
 ### [2013-05-15](/news/2013/05/15/index.md)
 
+##### 2013 Cannes Film Festival
 # The 2013 Cannes Film Festival opens with a showing of "The Great Gatsby". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/film/2013/may/15/cannes-2013-great-gatsby-live-blog)
 

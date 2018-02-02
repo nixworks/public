@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/13/israeli-prime-minister-binyamin-netanyahu-launches-an-inquiry-into-how-plans-for-hundreds-of-new-homes-in-east-jerusalem-were-announced.html)  [JSON](/news/2010/03/13/israeli-prime-minister-binyamin-netanyahu-launches-an-inquiry-into-how-plans-for-hundreds-of-new-homes-in-east-jerusalem-were-announced.json)  [XML](/news/2010/03/13/israeli-prime-minister-binyamin-netanyahu-launches-an-inquiry-into-how-plans-for-hundreds-of-new-homes-in-east-jerusalem-were-announced.xml)  
+
 ### [2010-03-13](/news/2010/03/13/index.md)
 
+##### Israeli Prime Minister
 # Israeli Prime Minister Binyamin Netanyahu launches an inquiry into how plans for hundreds of new homes in East Jerusalem were announced.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/2010314211733545356.html)
 1. [Cover Image](http://www.aljazeera.com)

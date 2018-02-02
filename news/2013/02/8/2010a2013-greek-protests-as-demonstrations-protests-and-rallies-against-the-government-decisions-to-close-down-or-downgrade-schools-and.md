@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2013/02/8/2010a2013-greek-protests-as-demonstrations-protests-and-rallies-against-the-government-decisions-to-close-down-or-downgrade-schools-and.html)  [JSON](/news/2013/02/8/2010a2013-greek-protests-as-demonstrations-protests-and-rallies-against-the-government-decisions-to-close-down-or-downgrade-schools-and.json)  [XML](/news/2013/02/8/2010a2013-greek-protests-as-demonstrations-protests-and-rallies-against-the-government-decisions-to-close-down-or-downgrade-schools-and.xml)  
+
 ### [2013-02-8](/news/2013/02/8/index.md)
 
+##### 2010-2013 Greek protests
 # 2010-2013 Greek protests: As demonstrations, protests and rallies against the government decisions to close down or downgrade schools and hospitals continue, in Ierapetra, Crete, over 7,000 people, including students, stage a peaceful march, holding candles and torches, to protest the forthcoming closure of the one of two technical schools and the only hospital of the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Zougla.gr](http://www.zougla.gr/greece/article/ierapetra-maziki-simetoxi-sto-silalitirio)
 1. [Cover Image](http://www.zougla.gr/assets/images/400x300/930542.jpg)
+
+### Changes:
+
+1. [2010-2013 Greek protests: As demonstrations, protests and rallies against the government decisions to close down or downgrade schools and hospitals continue, in Ierapetra, Crete, over 7,000 people, including students, stage a peaceful march, holding candles and torches, to protest the forthcoming closure of the one of two technical schools and the only hospital of the region. ](/news/2013/02/8/2010-2013-greek-protests-as-demonstrations-protests-and-rallies-against-the-government-decisions-to-close-down-or-downgrade-schools-and.md) _2017-08-27 03:37:38 (First version)_
+1. [2010-2013 Greek protests: As demonstrations, protests and rallies against the government decisions to close down or downgrade schools and hospitals continue, in Ierapetra, Crete, over 7,000 people, including students, stage a peaceful march, holding candles and torches, to protest the forthcoming closure of the one of two technical schools and the only hospital of the region. ](/news/2013/02/8/2010a2013-greek-protests-as-demonstrations-protests-and-rallies-against-the-government-decisions-to-close-down-or-downgrade-schools-and.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Freedom Flotilla II: The Greek Coast Guard prevents the ship "Dignity Al Karama" from sailing to the Gaza Strip after it stops to refuel in Crete. ](/news/2011/07/7/freedom-flotilla-ii-the-greek-coast-guard-prevents-the-ship-dignity-al-karama-from-sailing-to-the-gaza-strip-after-it-stops-to-refuel-in.md) _Context: Crete_
 4. [Freedom Flotilla II: The Greek Coast Guard pursues with water cannons then boards the ship carrying activists from Belgium, Canada, Italy, Switzerland and Turkey after an unsuccessful attempt to leave Crete harbour. ](/news/2011/07/4/freedom-flotilla-ii-the-greek-coast-guard-pursues-with-water-cannons-then-boards-the-ship-carrying-activists-from-belgium-canada-italy-s.md) _Context: Crete_
 5. [A 6.2 magnitude earthquake hits the island of Crete. ](/news/2011/04/1/a-6-2-magnitude-earthquake-hits-the-island-of-crete.md) _Context: Crete_
-
-### Changes:
-
-1. [2010-2013 Greek protests: As demonstrations, protests and rallies against the government decisions to close down or downgrade schools and hospitals continue, in Ierapetra, Crete, over 7,000 people, including students, stage a peaceful march, holding candles and torches, to protest the forthcoming closure of the one of two technical schools and the only hospital of the region. ](/news/2013/02/8/2010-2013-greek-protests-as-demonstrations-protests-and-rallies-against-the-government-decisions-to-close-down-or-downgrade-schools-and.md) _2017-08-27 03:37:38 (First version)_
-1. [2010-2013 Greek protests: As demonstrations, protests and rallies against the government decisions to close down or downgrade schools and hospitals continue, in Ierapetra, Crete, over 7,000 people, including students, stage a peaceful march, holding candles and torches, to protest the forthcoming closure of the one of two technical schools and the only hospital of the region. ](/news/2013/02/8/2010a2013-greek-protests-as-demonstrations-protests-and-rallies-against-the-government-decisions-to-close-down-or-downgrade-schools-and.md) _(Current version)_

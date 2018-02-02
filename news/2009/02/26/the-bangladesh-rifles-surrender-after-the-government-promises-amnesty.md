@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/26/the-bangladesh-rifles-surrender-after-the-government-promises-amnesty.html)  [JSON](/news/2009/02/26/the-bangladesh-rifles-surrender-after-the-government-promises-amnesty.json)  [XML](/news/2009/02/26/the-bangladesh-rifles-surrender-after-the-government-promises-amnesty.xml)  
+
 ### [2009-02-26](/news/2009/02/26/index.md)
 
+##### Bangladesh
 #  The Bangladesh Rifles surrender after the government promises amnesty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7912392.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/23/one-of-three-captured-us-soldiers-in-iraq-is-found-dead-during-an-extensive-manhunt-which-occupied-nearly-3-of-us-troops.html)  [JSON](/news/2007/05/23/one-of-three-captured-us-soldiers-in-iraq-is-found-dead-during-an-extensive-manhunt-which-occupied-nearly-3-of-us-troops.json)  [XML](/news/2007/05/23/one-of-three-captured-us-soldiers-in-iraq-is-found-dead-during-an-extensive-manhunt-which-occupied-nearly-3-of-us-troops.xml)  
+
 ### [2007-05-23](/news/2007/05/23/index.md)
 
+##### captured U.S. soldiers
 #  One of three captured US soldiers in Iraq is found dead, during an extensive manhunt which occupied nearly 3% of US troops. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6686533.stm)
 

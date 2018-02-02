@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/20/british-journalist-milo-yiannopoulos-s-invitati
 
 ### [2017-02-20](/news/2017/02/20/index.md)
 
+##### Milo Yiannopoulos
 # British journalist Milo Yiannopoulos's invitation to speak at the 2017 Conservative Political Action Conference is rescinded, and publication of his book "Dangerous" by Simon & Schuster is cancelled after a video is posted allegedly containing statements of his condoning sexual relations with boys as young as thirteen. 
 
 

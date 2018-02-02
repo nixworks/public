@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/3/the-death-toll-in-the-market-fire-in-asuncion-paraguay-rises-to-464-six-people-including-the-co-owner-are-arrested-for-manslaughter-on.html)  [JSON](/news/2004/08/3/the-death-toll-in-the-market-fire-in-asuncion-paraguay-rises-to-464-six-people-including-the-co-owner-are-arrested-for-manslaughter-on.json)  [XML](/news/2004/08/3/the-death-toll-in-the-market-fire-in-asuncion-paraguay-rises-to-464-six-people-including-the-co-owner-are-arrested-for-manslaughter-on.xml)  
+
 ### [2004-08-3](/news/2004/08/3/index.md)
 
+##### Asuncin
 #  The death toll in the market fire in Asuncin, Paraguay rises to 464. Six people, including the co-owner, are arrested for manslaughter on charges that they locked the doors after the fire started, in order to prevent looting. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/wire/World/ap20040803_759.html)
 2. [The Scotsman](http://news.scotsman.com/latest.cfm?id=3294468)

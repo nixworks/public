@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/17/pop-singer-donna-summer-dies-of-lung-cancer-at-the-age-of-63.html)  [JSON](/news/2012/05/17/pop-singer-donna-summer-dies-of-lung-cancer-at-the-age-of-63.json)  [XML](/news/2012/05/17/pop-singer-donna-summer-dies-of-lung-cancer-at-the-age-of-63.xml)  
+
 ### [2012-05-17](/news/2012/05/17/index.md)
 
+##### Donna Summer
 # Pop singer Donna Summer dies of lung cancer at the age of 63. 
 
 Get the scoop on the latest music industry news in the Newsday Music section. Check out reviews, videos, and album and artist info.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/05/18/showbiz/donna-summer-dead/index.html?hpt=hp_t3)
 2. [Newsday](http://www.newsday.com/entertainment/music/backstage-pass-1.811987/donna-summer-dead-at-63-1.3723647)

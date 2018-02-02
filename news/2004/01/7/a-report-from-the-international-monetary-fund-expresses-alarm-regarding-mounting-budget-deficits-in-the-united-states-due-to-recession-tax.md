@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/7/a-report-from-the-international-monetary-fund-expresses-alarm-regarding-mounting-budget-deficits-in-the-united-states-due-to-recession-tax.html)  [JSON](/news/2004/01/7/a-report-from-the-international-monetary-fund-expresses-alarm-regarding-mounting-budget-deficits-in-the-united-states-due-to-recession-tax.json)  [XML](/news/2004/01/7/a-report-from-the-international-monetary-fund-expresses-alarm-regarding-mounting-budget-deficits-in-the-united-states-due-to-recession-tax.xml)  
+
 ### [2004-01-7](/news/2004/01/7/index.md)
 
+##### International Monetary Fund
 #  A report from the International Monetary Fund expresses alarm regarding mounting budget deficits in the United States due to recession, tax cuts, and spending for the war on terrorism. The report says that the unprecedented level of external debt incurred poses "significant risks" not just for the United States but for the rest of the world. However, many outside economists note that other countries are also running large deficits and that underlying economic conditions in the U.S. are still robust.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/30/an-explosion-occurs-outside-a-stadium-in-bishkek-kyrgyzstan-injuring-four-people.html)  [JSON](/news/2010/11/30/an-explosion-occurs-outside-a-stadium-in-bishkek-kyrgyzstan-injuring-four-people.json)  [XML](/news/2010/11/30/an-explosion-occurs-outside-a-stadium-in-bishkek-kyrgyzstan-injuring-four-people.xml)  
+
 ### [2010-11-30](/news/2010/11/30/index.md)
 
+##### Bishkek
 # An explosion occurs outside a stadium in Bishkek, Kyrgyzstan, injuring four people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=15728785&PageNum=0)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/nov/30/explosion-kyrgyzstan-bishkek-clinton-visit)

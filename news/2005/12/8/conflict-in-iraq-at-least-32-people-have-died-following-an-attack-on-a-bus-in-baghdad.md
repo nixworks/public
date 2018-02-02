@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/8/conflict-in-iraq-at-least-32-people-have-died-following-an-attack-on-a-bus-in-baghdad.html)  [JSON](/news/2005/12/8/conflict-in-iraq-at-least-32-people-have-died-following-an-attack-on-a-bus-in-baghdad.json)  [XML](/news/2005/12/8/conflict-in-iraq-at-least-32-people-have-died-following-an-attack-on-a-bus-in-baghdad.xml)  
+
 ### [2005-12-8](/news/2005/12/8/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: At least 32 people have died following an attack on a bus in Baghdad. 
 
 A bomber jumped on a bus after security checks had been completed detonated an explosives belt killing up to 30 people and wounding nearly 40, officials said.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4509376.stm)
 2. [Fox News](http://www.foxnews.com//story/0,2933,178061,00.html)

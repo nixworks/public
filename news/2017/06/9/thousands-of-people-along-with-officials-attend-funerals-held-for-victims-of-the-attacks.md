@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/9/thousands-of-people-along-with-officials-attend-
 
 ### [2017-06-9](/news/2017/06/9/index.md)
 
+##### Tehran attacks
 # Thousands of people along with officials attend funerals held for victims of the attacks. 
 
 Iranians mourn 17 killed in two attacks on the capital this week

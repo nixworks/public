@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-c
 
 ### [2017-10-21](/news/2017/10/21/index.md)
 
+##### 2017-18 UK and Ireland windstorm season
 # Storm Brian, the third windstorm of the season, causes severe flash flooding in Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. 
 
 Gusts of 78mph hit Wales, although the storm has not been as bad as was feared, forecasters say.

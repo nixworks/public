@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/16/two-louisiana-sheriff-s-deputies-are-killed-and-two-others-wounded-in-a-shooting-outside-the-bayou-steel-plant-in-laplace-louisiana-louis.html)  [JSON](/news/2012/08/16/two-louisiana-sheriff-s-deputies-are-killed-and-two-others-wounded-in-a-shooting-outside-the-bayou-steel-plant-in-laplace-louisiana-louis.json)  [XML](/news/2012/08/16/two-louisiana-sheriff-s-deputies-are-killed-and-two-others-wounded-in-a-shooting-outside-the-bayou-steel-plant-in-laplace-louisiana-louis.xml)  
+
 ### [2012-08-16](/news/2012/08/16/index.md)
 
+##### Louisiana
 # Two Louisiana sheriff's deputies are killed and two others wounded in a shooting outside the Bayou Steel Plant, in LaPlace, Louisiana, Louisiana State Police report. Two suspects are in custody and one remains on the loose. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/08/16/justice/louisiana-officers-shot/index.html?hpt=hp_t1)
 

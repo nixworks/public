@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/30/former-new-south-wales-opposition-leader-john-brogden-is-hospitalized-after-apparent-suicide-attempt-after-resigning-as-party-leader.html)  [JSON](/news/2005/08/30/former-new-south-wales-opposition-leader-john-brogden-is-hospitalized-after-apparent-suicide-attempt-after-resigning-as-party-leader.json)  [XML](/news/2005/08/30/former-new-south-wales-opposition-leader-john-brogden-is-hospitalized-after-apparent-suicide-attempt-after-resigning-as-party-leader.xml)  
+
 ### [2005-08-30](/news/2005/08/30/index.md)
 
+##### John Brogden
 #  Former New South Wales Opposition Leader, John Brogden, is hospitalized after apparent suicide attempt after resigning as party leader. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald via SMH.com.au](http://www.smh.com.au/news/national/disgraced-brogdens-suicide-bid/2005/08/31/1125302574623.html)
 

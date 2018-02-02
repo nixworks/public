@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacif
 
 ### [2018-01-14](/news/2018/01/14/index.md)
 
+##### 2018 Peru earthquake
 # A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acari in Peru's Arequipa Region resulting in 1 death and 65 injured. 
 
 A strong magnitude-7.1 earthquake struck the coast of southern Peru on Sunday morning, killing one person, injuring scores and causing homes and roads to collapse.

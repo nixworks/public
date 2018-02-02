@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/1/t-j-lane-perpetrator-of-the-chardon-high-school-shooting-is-charged-with-3-counts-of-aggravated-murder.html)  [JSON](/news/2012/03/1/t-j-lane-perpetrator-of-the-chardon-high-school-shooting-is-charged-with-3-counts-of-aggravated-murder.json)  [XML](/news/2012/03/1/t-j-lane-perpetrator-of-the-chardon-high-school-shooting-is-charged-with-3-counts-of-aggravated-murder.xml)  
+
 ### [2012-03-1](/news/2012/03/1/index.md)
 
+##### child murders
 # T.J. Lane, perpetrator of the Chardon High School shooting, is charged with 3 counts of aggravated murder. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/03/01/justice/ohio-school-shooting/index.html?hpt=hp_t1)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/31/bolivia-takes-steps-to-ensure-that-ahmad-vahidi-the-iranian-minister-of-defence-leaves-the-country-as-soon-as-possible-following-a-complai.html)  [JSON](/news/2011/05/31/bolivia-takes-steps-to-ensure-that-ahmad-vahidi-the-iranian-minister-of-defence-leaves-the-country-as-soon-as-possible-following-a-complai.json)  [XML](/news/2011/05/31/bolivia-takes-steps-to-ensure-that-ahmad-vahidi-the-iranian-minister-of-defence-leaves-the-country-as-soon-as-possible-following-a-complai.xml)  
+
 ### [2011-05-31](/news/2011/05/31/index.md)
 
+##### Bolivia
 # Bolivia takes steps to ensure that Ahmad Vahidi, the Iranian Minister of Defence, leaves the country as soon as possible following a complaint from Argentina who believed that he was responsible for the 1994 bombing of a Jewish Community City in Buenos Aires. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2011/06/01/idINIndia-57411820110601)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20110601&t=2&i=426146024&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2011-06-01T072724Z_01_NOOTR_RTRMDNC_0_India-574118-2)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/25/elections-in-suriname-general-elections-are-underway-in-suriname-likely-winner-could-be-former-dictator-and-drug-smuggler-da-c-si-bouterse.html)  [JSON](/news/2005/05/25/elections-in-suriname-general-elections-are-underway-in-suriname-likely-winner-could-be-former-dictator-and-drug-smuggler-da-c-si-bouterse.json)  [XML](/news/2005/05/25/elections-in-suriname-general-elections-are-underway-in-suriname-likely-winner-could-be-former-dictator-and-drug-smuggler-da-c-si-bouterse.xml)  
+
 ### [2005-05-25](/news/2005/05/25/index.md)
 
+##### Elections in Suriname
 #  Elections in Suriname: General elections are underway in Suriname. Likely winner could be former dictator and drug smuggler, Desi Bouterse. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Scoop](http://www.scoop.co.nz/stories/WO0505/S00374.htm)
 1. [Cover Image](http://img.scoop.co.nz/stories/images/1509/scoop_placeholder.jpg)

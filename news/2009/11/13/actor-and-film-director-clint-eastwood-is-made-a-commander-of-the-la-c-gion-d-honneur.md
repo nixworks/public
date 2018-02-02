@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/13/actor-and-film-director-clint-eastwood-is-made-a-commander-of-the-la-c-gion-d-honneur.html)  [JSON](/news/2009/11/13/actor-and-film-director-clint-eastwood-is-made-a-commander-of-the-la-c-gion-d-honneur.json)  [XML](/news/2009/11/13/actor-and-film-director-clint-eastwood-is-made-a-commander-of-the-la-c-gion-d-honneur.xml)  
+
 ### [2009-11-13](/news/2009/11/13/index.md)
 
+##### Clint Eastwood
 #  Actor and film director Clint Eastwood is made a commander of the Legion d'honneur. 
 
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Entertainment/wireStory?id=9077579)
 2. [Gulf Daily News](http://www.gulf-daily-news.com/NewsDetails.aspx?storyid=263945)

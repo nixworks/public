@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/6/vivendi-reported-a-corporate-loss-of-23-3-billion-euros-the-largest-loss-ever-for-a-french-company.html)  [JSON](/news/2003/03/6/vivendi-reported-a-corporate-loss-of-23-3-billion-euros-the-largest-loss-ever-for-a-french-company.json)  [XML](/news/2003/03/6/vivendi-reported-a-corporate-loss-of-23-3-billion-euros-the-largest-loss-ever-for-a-french-company.xml)  
+
 ### [2003-03-6](/news/2003/03/6/index.md)
 
+##### Vivendi
 #  Vivendi reported a corporate loss of 23.3 billion euros, the largest loss ever for a French company.
 
 

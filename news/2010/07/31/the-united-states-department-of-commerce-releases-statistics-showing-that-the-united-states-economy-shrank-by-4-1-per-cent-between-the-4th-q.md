@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2010/07/31/the-united-states-department-of-commerce-releases-statistics-showing-that-the-united-states-economy-shrank-by-4-1-per-cent-between-the-4th-q.html)  [JSON](/news/2010/07/31/the-united-states-department-of-commerce-releases-statistics-showing-that-the-united-states-economy-shrank-by-4-1-per-cent-between-the-4th-q.json)  [XML](/news/2010/07/31/the-united-states-department-of-commerce-releases-statistics-showing-that-the-united-states-economy-shrank-by-4-1-per-cent-between-the-4th-q.xml)  
+
 ### [2010-07-31](/news/2010/07/31/index.md)
 
+##### U.S. Commerce Department
 # The United States Department of Commerce releases statistics showing that the United States economy shrank by 4.1 per cent between the 4th quarter of 2007 and the second quarter of 2009, a deeper recession than previously thought. 
 
+The worst U.S. recession since the 1930s was even deeper than previously estimated, reflecting bigger slumps in consumer spending and housing, according to revised figures.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2010-07-30/recession-in-america-was-even-worse-than-estimated-revisions-to-data-show.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2010-07-30/recession-in-america-was-even-worse-than-estimated-revisions-to-data-show.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

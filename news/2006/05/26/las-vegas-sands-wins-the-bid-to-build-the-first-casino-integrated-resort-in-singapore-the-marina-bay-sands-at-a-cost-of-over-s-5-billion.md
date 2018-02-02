@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/26/las-vegas-sands-wins-the-bid-to-build-the-first-casino-integrated-resort-in-singapore-the-marina-bay-sands-at-a-cost-of-over-s-5-billion.html)  [JSON](/news/2006/05/26/las-vegas-sands-wins-the-bid-to-build-the-first-casino-integrated-resort-in-singapore-the-marina-bay-sands-at-a-cost-of-over-s-5-billion.json)  [XML](/news/2006/05/26/las-vegas-sands-wins-the-bid-to-build-the-first-casino-integrated-resort-in-singapore-the-marina-bay-sands-at-a-cost-of-over-s-5-billion.xml)  
+
 ### [2006-05-26](/news/2006/05/26/index.md)
 
+##### Las Vegas Sands
 #  Las Vegas Sands wins the bid to build the first casino Integrated Resort in Singapore, The Marina Bay Sands, at a cost of over S$5 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/210501/1/.html)
 

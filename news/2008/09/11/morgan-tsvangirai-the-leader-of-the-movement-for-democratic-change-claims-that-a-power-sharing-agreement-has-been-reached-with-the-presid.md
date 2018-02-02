@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/11/morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-claims-that-a-power-sharing-agreement-has-been-reached-with-the-presid.html)  [JSON](/news/2008/09/11/morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-claims-that-a-power-sharing-agreement-has-been-reached-with-the-presid.json)  [XML](/news/2008/09/11/morgan-tsvangirai-the-leader-of-the-movement-for-democratic-change-claims-that-a-power-sharing-agreement-has-been-reached-with-the-presid.xml)  
+
 ### [2008-09-11](/news/2008/09/11/index.md)
 
+##### Morgan Tsvangirai
 #  Morgan Tsvangirai, the leader of the Movement for Democratic Change, claims that a power sharing agreement has been reached with the President of Zimbabwe Robert Mugabe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7611459.stm)
 

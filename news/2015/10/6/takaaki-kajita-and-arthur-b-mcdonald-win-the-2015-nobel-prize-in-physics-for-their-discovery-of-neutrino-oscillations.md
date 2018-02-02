@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/10/6/takaaki-kajita-and-arthur-b-mcdonald-win-the-2015-nobel-prize-in-physics-for-their-discovery-of-neutrino-oscillations.html)  [JSON](/news/2015/10/6/takaaki-kajita-and-arthur-b-mcdonald-win-the-2015-nobel-prize-in-physics-for-their-discovery-of-neutrino-oscillations.json)  [XML](/news/2015/10/6/takaaki-kajita-and-arthur-b-mcdonald-win-the-2015-nobel-prize-in-physics-for-their-discovery-of-neutrino-oscillations.xml)  
+
 ### [2015-10-6](/news/2015/10/6/index.md)
 
+##### Takaaki Kajita
 # Takaaki Kajita and Arthur B. McDonald win the 2015 Nobel Prize in Physics for their discovery of neutrino oscillations. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/latest-nobel-physics-prize-announced-stockholm-075458781.html)
+1. [AP via Yahoo! News](https://news.yahoo.com/latest-nobel-physics-prize-announced-stockholm-075458781.html)
 
 ### Related:
 

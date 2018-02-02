@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/19/russia-and-japan-begin-discussing-the-main-starting-points-and-modality-of-the-upcoming-talks-on-a-peace-treaty.html)  [JSON](/news/2013/08/19/russia-and-japan-begin-discussing-the-main-starting-points-and-modality-of-the-upcoming-talks-on-a-peace-treaty.json)  [XML](/news/2013/08/19/russia-and-japan-begin-discussing-the-main-starting-points-and-modality-of-the-upcoming-talks-on-a-peace-treaty.xml)  
+
 ### [2013-08-19](/news/2013/08/19/index.md)
 
+##### Russia
 # Russia and Japan begin discussing the main starting points and modality of the upcoming talks on a peace treaty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITAR-TASS](http://www.itar-tass.com/en/c32/844961.html)
 

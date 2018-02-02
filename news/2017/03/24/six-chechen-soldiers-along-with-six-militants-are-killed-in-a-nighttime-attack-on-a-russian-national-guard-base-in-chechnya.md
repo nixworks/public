@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/24/six-chechen-soldiers-along-with-six-militants-a
 
 ### [2017-03-24](/news/2017/03/24/index.md)
 
+##### Insurgency in the North Caucasus
 # Six Chechen soldiers, along with six militants, are killed in a nighttime attack on a Russian National Guard base in Chechnya. 
 
 The clashes come as militants try to gain access to a military base, Russian officials say.

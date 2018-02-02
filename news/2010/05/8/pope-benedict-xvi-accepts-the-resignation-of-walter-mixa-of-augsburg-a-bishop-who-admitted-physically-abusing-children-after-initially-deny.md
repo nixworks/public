@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/05/8/pope-benedict-xvi-accepts-the-resignation-of-walter-mixa-of-augsburg-a-bishop-who-admitted-physically-abusing-children-after-initially-deny.html)  [JSON](/news/2010/05/8/pope-benedict-xvi-accepts-the-resignation-of-walter-mixa-of-augsburg-a-bishop-who-admitted-physically-abusing-children-after-initially-deny.json)  [XML](/news/2010/05/8/pope-benedict-xvi-accepts-the-resignation-of-walter-mixa-of-augsburg-a-bishop-who-admitted-physically-abusing-children-after-initially-deny.xml)  
+
 ### [2010-05-8](/news/2010/05/8/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI accepts the resignation of Walter Mixa of Augsburg, a bishop who admitted physically abusing children after initially denying accusations. 
 
 Pope Benedict SVI has accepted the resignation of a German bishop who has been accused of sexually abusing minors.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8669747.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0508/abuse.html)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/08/AR2010050801109.html?hpid=moreheadlines)
+3. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/05/08/AR2010050801109.html?hpid=moreheadlines)
 3. [Cover Image](https://img.rasset.ie/00034557-1600.jpg)
 
 ### Related:

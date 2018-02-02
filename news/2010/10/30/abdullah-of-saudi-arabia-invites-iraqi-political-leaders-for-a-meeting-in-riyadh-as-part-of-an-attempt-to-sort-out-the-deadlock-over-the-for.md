@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2010/10/30/abdullah-of-saudi-arabia-invites-iraqi-political-leaders-for-a-meeting-in-riyadh-as-part-of-an-attempt-to-sort-out-the-deadlock-over-the-for.html)  [JSON](/news/2010/10/30/abdullah-of-saudi-arabia-invites-iraqi-political-leaders-for-a-meeting-in-riyadh-as-part-of-an-attempt-to-sort-out-the-deadlock-over-the-for.json)  [XML](/news/2010/10/30/abdullah-of-saudi-arabia-invites-iraqi-political-leaders-for-a-meeting-in-riyadh-as-part-of-an-attempt-to-sort-out-the-deadlock-over-the-for.xml)  
+
 ### [2010-10-30](/news/2010/10/30/index.md)
 
+##### Abdullah
 # Abdullah of Saudi Arabia invites Iraqi political leaders for a meeting in Riyadh as part of an attempt to sort out the deadlock over the formation of a new government. 
 
 Saudi king invites bloc leaders to Riyadh for talks aimed at breaking months of political deadlock.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/201010302355173828.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/19/2010101910562046371_20.jpg)
 
 ### Related:
 
-1. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: Iraq_
-2. [Iraqi forces advance into Kurdish-held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. ](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territory-around-the-city-of-kirkuk-clashes-have-been-reported-in-the-surrounding-cities.md) _Context: Iraq_
-3. [Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban "illegal". ](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.md) _Context: Iraq_
-4. [Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-referendum-on-independence-from-iraq.md) _Context: Iraq_
-5. [Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.md) _Context: Iraq_
+1. [Saudi authorities arrest 11 princes in Riyadh for staging a protest against Saudi Arabia's austerity measures. ](/news/2018/01/6/saudi-authorities-arrest-11-princes-in-riyadh-for-staging-a-protest-against-saudi-arabia-s-austerity-measures.md) _Context: Riyadh_
+2. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Iraq_
+3. [A dozen camels are disqualified from a beauty pageant at the King Abdulaziz Camel Festival, near Riyadh, after reports in the media about injections with botox. A veterinarian is caught performing plastic surgery to make the camels more attractive. Rules prohibit to change the natural form of participating camels. ](/news/2018/01/24/a-dozen-camels-are-disqualified-from-a-beauty-pageant-at-the-king-abdulaziz-camel-festival-near-riyadh-after-reports-in-the-media-about-in.md) _Context: Riyadh_
+4. [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md) _Context: Iraq_
+5. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _Context: Iraq_

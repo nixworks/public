@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/22/the-fiji-first-party-led-by-voreqe-bainimarama-wins-32-out-of-50-seats-in-the-parliament-in-last-week-s-general-election.html)  [JSON](/news/2014/09/22/the-fiji-first-party-led-by-voreqe-bainimarama-wins-32-out-of-50-seats-in-the-parliament-in-last-week-s-general-election.json)  [XML](/news/2014/09/22/the-fiji-first-party-led-by-voreqe-bainimarama-wins-32-out-of-50-seats-in-the-parliament-in-last-week-s-general-election.xml)  
+
 ### [2014-09-22](/news/2014/09/22/index.md)
 
+##### Fiji First Party
 # The Fiji First Party led by Voreqe Bainimarama wins 32 out of 50 seats in the Parliament in last week's general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/5ea90dc3975f4e6aaf2d710b0851a777/fiji-election-results-confirm-big-win-ruler)
 

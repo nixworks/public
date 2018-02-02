@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/18/a-committee-of-the-uk-parliament-recommends-that-the-power-to-hold-terrorist-suspects-without-trial-be-repealed.html)  [JSON](/news/2003/12/18/a-committee-of-the-uk-parliament-recommends-that-the-power-to-hold-terrorist-suspects-without-trial-be-repealed.json)  [XML](/news/2003/12/18/a-committee-of-the-uk-parliament-recommends-that-the-power-to-hold-terrorist-suspects-without-trial-be-repealed.xml)  
+
 ### [2003-12-18](/news/2003/12/18/index.md)
 
+##### UK Parliament
 # A committee of the UK Parliament recommends that the power to hold terrorist suspects without trial be repealed. 
 
 

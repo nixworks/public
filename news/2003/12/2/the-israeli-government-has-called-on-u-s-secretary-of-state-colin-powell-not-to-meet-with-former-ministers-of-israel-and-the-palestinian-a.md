@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/2/the-israeli-government-has-called-on-u-s-secretary-of-state-colin-powell-not-to-meet-with-former-ministers-of-israel-and-the-palestinian-a.html)  [JSON](/news/2003/12/2/the-israeli-government-has-called-on-u-s-secretary-of-state-colin-powell-not-to-meet-with-former-ministers-of-israel-and-the-palestinian-a.json)  [XML](/news/2003/12/2/the-israeli-government-has-called-on-u-s-secretary-of-state-colin-powell-not-to-meet-with-former-ministers-of-israel-and-the-palestinian-a.xml)  
+
 ### [2003-12-2](/news/2003/12/2/index.md)
 
+##### Israel
 #  The Israeli government has called on U.S. Secretary of State Colin Powell not to meet with former ministers of Israel and the Palestinian Authority who have drawn up the unofficial Geneva plan. [http:--www.voanews.com-article.cfm?objectID=10A4368A-A917-4370-A4EB40CDB94EF998] 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/2/the-bangladeshi-central-bank-attempts-to-remove-nobel-peace-prize-winner-muhammad-yunus-from-the-grameen-bank-which-he-founded.html)  [JSON](/news/2011/03/2/the-bangladeshi-central-bank-attempts-to-remove-nobel-peace-prize-winner-muhammad-yunus-from-the-grameen-bank-which-he-founded.json)  [XML](/news/2011/03/2/the-bangladeshi-central-bank-attempts-to-remove-nobel-peace-prize-winner-muhammad-yunus-from-the-grameen-bank-which-he-founded.xml)  
+
 ### [2011-03-2](/news/2011/03/2/index.md)
 
+##### Bangladesh
 # The Bangladeshi central bank attempts to remove Nobel Peace Prize winner Muhammad Yunus from the Grameen Bank which he founded. 
 
 Bangladeshi Nobel laureate Muhammad Yunus seeks legal advice after the central bank announces his sacking as head of the Grameen Bank he founded.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12619580)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

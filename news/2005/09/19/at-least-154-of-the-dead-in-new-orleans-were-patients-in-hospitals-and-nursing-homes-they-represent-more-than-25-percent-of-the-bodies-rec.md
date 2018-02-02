@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/19/at-least-154-of-the-dead-in-new-orleans-were-patients-in-hospitals-and-nursing-homes-they-represent-more-than-25-percent-of-the-bodies-rec.html)  [JSON](/news/2005/09/19/at-least-154-of-the-dead-in-new-orleans-were-patients-in-hospitals-and-nursing-homes-they-represent-more-than-25-percent-of-the-bodies-rec.json)  [XML](/news/2005/09/19/at-least-154-of-the-dead-in-new-orleans-were-patients-in-hospitals-and-nursing-homes-they-represent-more-than-25-percent-of-the-bodies-rec.xml)  
+
 ### [2005-09-19](/news/2005/09/19/index.md)
 
+##### New Orleans
 #  At least 154 of the dead in New Orleans were patients in hospitals and nursing homes. They represent more than 25 percent of the bodies recovered to date. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CivilRights.org](http://www.civilrights.org/issues/labor/details.cfm?id=35723)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/9/suspected-abu-sayyaf-militants-ambush-philippines-government-troops-on-the-island-of-jolo-killing-nine-more-than-50-people-died-in-fighti.html)  [JSON](/news/2007/08/9/suspected-abu-sayyaf-militants-ambush-philippines-government-troops-on-the-island-of-jolo-killing-nine-more-than-50-people-died-in-fighti.json)  [XML](/news/2007/08/9/suspected-abu-sayyaf-militants-ambush-philippines-government-troops-on-the-island-of-jolo-killing-nine-more-than-50-people-died-in-fighti.xml)  
+
 ### [2007-08-9](/news/2007/08/9/index.md)
 
+##### Abu Sayyaf
 #  Suspected Abu Sayyaf militants ambush Philippines Government troops on the island of Jolo, killing nine. More than 50 people died in fighting during the day between the army, Abu Sayyaf and elements of the Moro National Liberation Front. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via International Herald Tribune](http://www.iht.com/articles/ap/2007/08/09/asia/AS-GEN-Philippines-Ambush.php)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6939753.stm)

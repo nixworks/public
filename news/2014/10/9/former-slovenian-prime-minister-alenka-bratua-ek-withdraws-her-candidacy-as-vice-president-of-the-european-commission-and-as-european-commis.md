@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/9/former-slovenian-prime-minister-alenka-bratua-ek-withdraws-her-candidacy-as-vice-president-of-the-european-commission-and-as-european-commis.html)  [JSON](/news/2014/10/9/former-slovenian-prime-minister-alenka-bratua-ek-withdraws-her-candidacy-as-vice-president-of-the-european-commission-and-as-european-commis.json)  [XML](/news/2014/10/9/former-slovenian-prime-minister-alenka-bratua-ek-withdraws-her-candidacy-as-vice-president-of-the-european-commission-and-as-european-commis.xml)  
+
 ### [2014-10-9](/news/2014/10/9/index.md)
 
+##### Slovenia
 # Former Slovenian prime minister Alenka Bratusek withdraws her candidacy as Vice-President of the European Commission and as European Commissioner for Energy after having been rejected by the European Parliament. 
 
 The withdrawal of the Slovenian commission candidate clears the way for a new nominee, but the Juncker team is still at risk of being delayed.
 
 
-### Source:
+### Sources:
 
 1. [EU Observer](http://euobserver.com/political/125991)
 1. [Cover Image](https://s3.eu-central-1.amazonaws.com/euobs-media/af71eec58a99202c6b1349fbfeb36d43-480x.jpg)

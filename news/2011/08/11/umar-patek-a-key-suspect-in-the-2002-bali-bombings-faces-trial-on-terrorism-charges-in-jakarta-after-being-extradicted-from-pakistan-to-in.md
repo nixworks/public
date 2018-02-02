@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/11/umar-patek-a-key-suspect-in-the-2002-bali-bombings-faces-trial-on-terrorism-charges-in-jakarta-after-being-extradicted-from-pakistan-to-in.html)  [JSON](/news/2011/08/11/umar-patek-a-key-suspect-in-the-2002-bali-bombings-faces-trial-on-terrorism-charges-in-jakarta-after-being-extradicted-from-pakistan-to-in.json)  [XML](/news/2011/08/11/umar-patek-a-key-suspect-in-the-2002-bali-bombings-faces-trial-on-terrorism-charges-in-jakarta-after-being-extradicted-from-pakistan-to-in.xml)  
+
 ### [2011-08-11](/news/2011/08/11/index.md)
 
+##### Umar Patek
 # Umar Patek, a key suspect in the 2002 Bali bombings, faces trial on terrorism charges in Jakarta after being extradicted from Pakistan to Indonesia. 
 
 A KEY suspect in the 2002 Bali bombings has arrived in the Indonesian capital after authorities extradited him from Pakistan, officials say.
 
 
-### Source:
+### Sources:
 
 1. [AP via News Limited](http://www.news.com.au/breaking-news/bali-bombing-suspect-umar-patek-arrives-in-jakarta/story-e6frfku0-1226112942744)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

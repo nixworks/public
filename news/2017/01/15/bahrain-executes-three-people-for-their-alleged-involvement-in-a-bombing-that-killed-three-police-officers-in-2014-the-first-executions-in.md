@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/15/bahrain-executes-three-people-for-their-alleged
 
 ### [2017-01-15](/news/2017/01/15/index.md)
 
+##### Bahraini uprising (2011-present)
 # Bahrain executes three people for their alleged involvement in a bombing that killed three police officers in 2014, the first executions in the country since 2010. 
 
 UK urged to loosen ties with Gulf nation after killing of three Shia Muslims as protesters claim confessions extracted under torture

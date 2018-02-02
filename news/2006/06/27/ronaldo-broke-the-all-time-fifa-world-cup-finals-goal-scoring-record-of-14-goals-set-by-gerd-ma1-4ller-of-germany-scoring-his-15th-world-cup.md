@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/06/27/ronaldo-broke-the-all-time-fifa-world-cup-finals-goal-scoring-record-of-14-goals-set-by-gerd-ma1-4ller-of-germany-scoring-his-15th-world-cup.html)  [JSON](/news/2006/06/27/ronaldo-broke-the-all-time-fifa-world-cup-finals-goal-scoring-record-of-14-goals-set-by-gerd-ma1-4ller-of-germany-scoring-his-15th-world-cup.json)  [XML](/news/2006/06/27/ronaldo-broke-the-all-time-fifa-world-cup-finals-goal-scoring-record-of-14-goals-set-by-gerd-ma1-4ller-of-germany-scoring-his-15th-world-cup.xml)  
+
 ### [2006-06-27](/news/2006/06/27/index.md)
 
+##### Ronaldo
 #  Ronaldo broke the all-time FIFA World Cup finals goal-scoring record of 14 goals set by Gerd Muller of Germany, scoring his 15th World Cup goal, and Brazil's first goal of the match (Round of 16), against Ghana in his 18th World Cup match.
 
 

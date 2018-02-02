@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2006/11/17/australian-and-new-zealand-military-forces-are-on-standby-to-fly-to-tonga-following-riots-in-the-tongan-capital-nuku-alofa-yesterday-eight.html)  [JSON](/news/2006/11/17/australian-and-new-zealand-military-forces-are-on-standby-to-fly-to-tonga-following-riots-in-the-tongan-capital-nuku-alofa-yesterday-eight.json)  [XML](/news/2006/11/17/australian-and-new-zealand-military-forces-are-on-standby-to-fly-to-tonga-following-riots-in-the-tongan-capital-nuku-alofa-yesterday-eight.xml)  
+
 ### [2006-11-17](/news/2006/11/17/index.md)
 
+##### Australia
 #  Australian and New Zealand military forces are on standby to fly to Tonga following riots in the Tongan capital Nuku'alofa yesterday. Eight people died in the riots. The Tongan government declares a state of emergency and passes emergency laws giving security forces the right to stop and search people without a warrant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=2&ObjectID=10411220)
 2. [Radio NZ](http://www.radionz.co.nz/news/latest/200611171722/tonga_passes_emergency_stop-and-search_laws)
 3. [Radio NZ](http://www.rnzi.com/pages/news.php?op=read&id=28357)
+
+### Changes:
+
+1. [ 2006 Tonga riots: Australian and New Zealand military forces are on standby to fly to Tonga following riots in the Tongan capital Nuku'alofa yesterday. Eight people died in the riots. The Tongan government declares a state of emergency and passes emergency laws giving security forces the right to stop and search people without a warrant. ](/news/2006/11/17/2006-tonga-riots-p-australian-and-new-zealand-military-forces-are-on-standby-to-fly-to-tonga-following-riots-in-the-tongan-capital-nuku-alo.md) _2017-08-25 03:18:47 (First version)_
+2. [ 2006 Tonga riots:: Australian and New Zealand military forces are on standby to fly to Tonga following riots in the Tongan capital Nuku'alofa yesterday. Eight people died in the riots. The Tongan government declares a state of emergency and passes emergency laws giving security forces the right to stop and search people without a warrant. ](/news/2006/11/17/2006-tonga-riots-australian-and-new-zealand-military-forces-are-on-standby-to-fly-to-tonga-following-riots-in-the-tongan-capital-nuku-alo.md) _2017-08-27 03:18:42 (Update)_
+2. [ Australian and New Zealand military forces are on standby to fly to Tonga following riots in the Tongan capital Nuku'alofa yesterday. Eight people died in the riots. The Tongan government declares a state of emergency and passes emergency laws giving security forces the right to stop and search people without a warrant. ](/news/2006/11/17/australian-and-new-zealand-military-forces-are-on-standby-to-fly-to-tonga-following-riots-in-the-tongan-capital-nuku-alofa-yesterday-eight.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@
 3. [A passenger bus carrying 46 people, mostly school groups from Tonga, crashes in the Gisborne Region of New Zealand, approximately 30 kilometers south of the city of Gisborne. Two people died while several were injured, with some still hospitalized. ](/news/2016/12/24/a-passenger-bus-carrying-46-people-mostly-school-groups-from-tonga-crashes-in-the-gisborne-region-of-new-zealand-approximately-30-kilomet.md) _Context: New Zealand, Tonga_
 4. [The Rhode Island Marine Architecture Project claims to have found the wreckage of HMS "Endeavour" used by Royal Navy Lieutenant James Cook on his voyage to Australia, New Zealand and Tahiti between 1768 and 1771. The ship was scuttled in 1778 in Newport Harbor ahead of the Battle of Rhode Island in the American War of Independence. ](/news/2016/05/3/the-rhode-island-marine-architecture-project-claims-to-have-found-the-wreckage-of-hms-endeavour-used-by-royal-navy-lieutenant-james-cook-o.md) _Context: Australia, New Zealand_
 5. [Australian electronics retailer Dick Smith, placed in administration by creditors in January, will close 301 stores in Australia and 62 in New Zealand with nearly 3000 people to lose their jobs. ](/news/2016/02/25/australian-electronics-retailer-dick-smith-placed-in-administration-by-creditors-in-january-will-close-301-stores-in-australia-and-62-in-n.md) _Context: Australia, New Zealand_
-
-### Changes:
-
-1. [ 2006 Tonga riots: Australian and New Zealand military forces are on standby to fly to Tonga following riots in the Tongan capital Nuku'alofa yesterday. Eight people died in the riots. The Tongan government declares a state of emergency and passes emergency laws giving security forces the right to stop and search people without a warrant. ](/news/2006/11/17/2006-tonga-riots-p-australian-and-new-zealand-military-forces-are-on-standby-to-fly-to-tonga-following-riots-in-the-tongan-capital-nuku-alo.md) _2017-08-25 03:18:47 (First version)_
-2. [ 2006 Tonga riots:: Australian and New Zealand military forces are on standby to fly to Tonga following riots in the Tongan capital Nuku'alofa yesterday. Eight people died in the riots. The Tongan government declares a state of emergency and passes emergency laws giving security forces the right to stop and search people without a warrant. ](/news/2006/11/17/2006-tonga-riots-australian-and-new-zealand-military-forces-are-on-standby-to-fly-to-tonga-following-riots-in-the-tongan-capital-nuku-alo.md) _2017-08-27 03:18:42 (Update)_
-2. [ Australian and New Zealand military forces are on standby to fly to Tonga following riots in the Tongan capital Nuku'alofa yesterday. Eight people died in the riots. The Tongan government declares a state of emergency and passes emergency laws giving security forces the right to stop and search people without a warrant. ](/news/2006/11/17/australian-and-new-zealand-military-forces-are-on-standby-to-fly-to-tonga-following-riots-in-the-tongan-capital-nuku-alofa-yesterday-eight.md) _(Current version)_

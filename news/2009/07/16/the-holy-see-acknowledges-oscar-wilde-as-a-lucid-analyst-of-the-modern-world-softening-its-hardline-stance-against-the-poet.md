@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/16/the-holy-see-acknowledges-oscar-wilde-as-a-lucid-analyst-of-the-modern-world-softening-its-hardline-stance-against-the-poet.html)  [JSON](/news/2009/07/16/the-holy-see-acknowledges-oscar-wilde-as-a-lucid-analyst-of-the-modern-world-softening-its-hardline-stance-against-the-poet.json)  [XML](/news/2009/07/16/the-holy-see-acknowledges-oscar-wilde-as-a-lucid-analyst-of-the-modern-world-softening-its-hardline-stance-against-the-poet.xml)  
+
 ### [2009-07-16](/news/2009/07/16/index.md)
 
+##### Holy See
 #  The Holy See acknowledges Oscar Wilde as a "lucid analyst of the modern world", softening its hardline stance against the poet. 
 
 Oscar Wilde, whose flamboyant homosexuality shocked Britain in the 19th century, won an unlikely endorsement from the Vatican on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/5844870/Vatican-reconciles-with-Oscar-Wilde.html)
 2. [The Guardian](http://www.guardian.co.uk/commentisfree/belief/2009/jul/17/oscar-wilde-vatican-catholic-osservatore)

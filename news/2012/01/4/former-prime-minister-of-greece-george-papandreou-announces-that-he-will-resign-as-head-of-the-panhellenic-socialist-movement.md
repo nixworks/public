@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/01/4/former-prime-minister-of-greece-george-papandreou-announces-that-he-will-resign-as-head-of-the-panhellenic-socialist-movement.html)  [JSON](/news/2012/01/4/former-prime-minister-of-greece-george-papandreou-announces-that-he-will-resign-as-head-of-the-panhellenic-socialist-movement.json)  [XML](/news/2012/01/4/former-prime-minister-of-greece-george-papandreou-announces-that-he-will-resign-as-head-of-the-panhellenic-socialist-movement.xml)  
+
 ### [2012-01-4](/news/2012/01/4/index.md)
 
+##### Greek Prime Minister
 # Former Prime Minister of Greece George Papandreou announces that he will resign as head of the Panhellenic Socialist Movement. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/01/04/greece-papandreou-idUSL6E8C42TH20120104)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/01/04/greece-papandreou-idUSL6E8C42TH20120104)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

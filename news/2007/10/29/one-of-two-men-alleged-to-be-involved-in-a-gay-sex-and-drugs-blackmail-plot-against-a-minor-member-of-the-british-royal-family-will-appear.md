@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/29/one-of-two-men-alleged-to-be-involved-in-a-gay-sex-and-drugs-blackmail-plot-against-a-minor-member-of-the-british-royal-family-will-appear.html)  [JSON](/news/2007/10/29/one-of-two-men-alleged-to-be-involved-in-a-gay-sex-and-drugs-blackmail-plot-against-a-minor-member-of-the-british-royal-family-will-appear.json)  [XML](/news/2007/10/29/one-of-two-men-alleged-to-be-involved-in-a-gay-sex-and-drugs-blackmail-plot-against-a-minor-member-of-the-british-royal-family-will-appear.xml)  
+
 ### [2007-10-29](/news/2007/10/29/index.md)
 
+##### UK
 #  One of two men alleged to be involved in a gay-sex-and-drugs blackmail plot against a minor member of the British Royal Family will appear in court this week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times Online](http://www.timesonline.co.uk/tol/news/uk/article2759799.ece)
 

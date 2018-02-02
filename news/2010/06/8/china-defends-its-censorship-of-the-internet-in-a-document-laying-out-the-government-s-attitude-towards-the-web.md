@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/8/china-defends-its-censorship-of-the-internet-in-a-document-laying-out-the-government-s-attitude-towards-the-web.html)  [JSON](/news/2010/06/8/china-defends-its-censorship-of-the-internet-in-a-document-laying-out-the-government-s-attitude-towards-the-web.json)  [XML](/news/2010/06/8/china-defends-its-censorship-of-the-internet-in-a-document-laying-out-the-government-s-attitude-towards-the-web.xml)  
+
 ### [2010-06-8](/news/2010/06/8/index.md)
 
+##### China
 # China defends its censorship of the internet in a document laying out the government's attitude towards the web. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/20106852938900625.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8727647.stm)

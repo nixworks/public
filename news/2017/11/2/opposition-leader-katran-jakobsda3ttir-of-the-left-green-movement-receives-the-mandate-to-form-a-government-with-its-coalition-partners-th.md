@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/2/opposition-leader-katran-jakobsda3ttir-of-the-le
 
 ### [2017-11-2](/news/2017/11/2/index.md)
 
+##### Icelandic parliamentary election, 2017
 # Opposition leader Katrin Jakobsdottir of the Left-Green Movement receives the mandate to form a government with its coalition partners: the Social Democratic Alliance, the Progressives and the Pirates. 
 
 Icelandic Left Green Movement leader Katrin Jakobsdottir has been given a mandate to explore a governing coalition from President Gudni Th. Johannesson.

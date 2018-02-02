@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/14/encyclopedia-dramatica-shuts-down-and-is-replaced-by-oh-internet-provoking-protests-by-4chan-members-and-former-readers-of-the-site.html)  [JSON](/news/2011/04/14/encyclopedia-dramatica-shuts-down-and-is-replaced-by-oh-internet-provoking-protests-by-4chan-members-and-former-readers-of-the-site.json)  [XML](/news/2011/04/14/encyclopedia-dramatica-shuts-down-and-is-replaced-by-oh-internet-provoking-protests-by-4chan-members-and-former-readers-of-the-site.xml)  
+
 ### [2011-04-14](/news/2011/04/14/index.md)
 
+##### Encyclopedia Dramatica
 # Encyclopedia Dramatica shuts down and is replaced by "oh internet", provoking protests by 4chan members and former readers of the site. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Geekosystem](http://www.geekosystem.com/encyclopedia-dramatica-ohinternet)
 

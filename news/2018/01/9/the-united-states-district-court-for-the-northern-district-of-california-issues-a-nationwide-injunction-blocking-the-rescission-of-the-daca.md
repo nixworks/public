@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/9/the-united-states-district-court-for-the-norther
 
 ### [2018-01-9](/news/2018/01/9/index.md)
 
+##### Deferred Action for Childhood Arrivals
 # The United States District Court for the Northern District of California issues a nationwide injunction blocking the rescission of the DACA program, ordering the Trump administration to restart and maintain the program as the legal challenge(s) to the president's decision go forward. 
 
 A federal judge on Tuesday night issued a nationwide injunction ordering the Trump administration to maintain the program.

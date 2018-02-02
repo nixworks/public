@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/27/riot-police-are-deployed-to-the-streets-of-jos-in-central-nigeria-following-clashes-between-ethnic-groups-and-a-bombing-on-christmas-eve.html)  [JSON](/news/2010/12/27/riot-police-are-deployed-to-the-streets-of-jos-in-central-nigeria-following-clashes-between-ethnic-groups-and-a-bombing-on-christmas-eve.json)  [XML](/news/2010/12/27/riot-police-are-deployed-to-the-streets-of-jos-in-central-nigeria-following-clashes-between-ethnic-groups-and-a-bombing-on-christmas-eve.xml)  
+
 ### [2010-12-27](/news/2010/12/27/index.md)
 
+##### Jos
 # Riot police are deployed to the streets of Jos in central Nigeria following clashes between ethnic groups and a bombing on Christmas Eve. 
 
 Riot police were patrolling the streets of Jos in central Nigeria on Monday after clashes between rival ethnic groups over a series of bombings on Christmas Eve left as many as 14 dead.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/nigeria/8227021/Riot-police-out-on-streets-in-Nigerian-city.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01792/Nigeria_1792943a.jpg)

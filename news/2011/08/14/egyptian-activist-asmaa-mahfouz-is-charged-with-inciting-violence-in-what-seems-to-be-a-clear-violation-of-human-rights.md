@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/14/egyptian-activist-asmaa-mahfouz-is-charged-with-inciting-violence-in-what-seems-to-be-a-clear-violation-of-human-rights.html)  [JSON](/news/2011/08/14/egyptian-activist-asmaa-mahfouz-is-charged-with-inciting-violence-in-what-seems-to-be-a-clear-violation-of-human-rights.json)  [XML](/news/2011/08/14/egyptian-activist-asmaa-mahfouz-is-charged-with-inciting-violence-in-what-seems-to-be-a-clear-violation-of-human-rights.xml)  
+
 ### [2011-08-14](/news/2011/08/14/index.md)
 
+##### Asmaa Mahfouz
 # Egyptian activist Asmaa Mahfouz is charged with inciting violence in what seems to be a clear violation of human rights. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Ahram](http://english.ahram.org.eg/NewsContent/1/64/18823/Egypt/Politics-/Military-interrogates-activist-Asmaa-Mahfouz,-accu.aspx)
 2. [Almasry Alyoum](http://www.almasryalyoum.com/en/node/486305)

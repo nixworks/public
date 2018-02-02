@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/28/voters-in-iceland-go-to-the-polls-to-elect-63-members-of-the-althing.html)  [JSON](/news/2017/10/28/voters-in-iceland-go-to-the-polls-to-elect-63-members-of-the-althing.json)  [XML](/news/2017/10/28/voters-in-iceland-go-to-the-polls-to-elect-63-members-of-the-althing.xml)  
+
 ### [2017-10-28](/news/2017/10/28/index.md)
 
+##### Icelandic parliamentary election, 2017
 # Voters in Iceland go to the polls to elect 63 members of the Althing. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/14/russian-security-forces-kill-three-rebels-in-buinaksk-in-the-caucasus-region-of-dagestan.html)  [JSON](/news/2010/11/14/russian-security-forces-kill-three-rebels-in-buinaksk-in-the-caucasus-region-of-dagestan.json)  [XML](/news/2010/11/14/russian-security-forces-kill-three-rebels-in-buinaksk-in-the-caucasus-region-of-dagestan.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### Russia
 # Russian security forces kill three rebels in Buinaksk in the Caucasus region of Dagestan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PTI](http://www.ptinews.com/news/1113045_Russia-kills-leading-militant-in-Caucasus--Official-)
 

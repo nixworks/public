@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/23/2013-thailand-refugee-camp-fire-the-death-toll-from-a-fire-in-a-thai-refugee-camp-for-karen-refugees-from-myanmar-rises-to-37-with-more-tha.html)  [JSON](/news/2013/03/23/2013-thailand-refugee-camp-fire-the-death-toll-from-a-fire-in-a-thai-refugee-camp-for-karen-refugees-from-myanmar-rises-to-37-with-more-tha.json)  [XML](/news/2013/03/23/2013-thailand-refugee-camp-fire-the-death-toll-from-a-fire-in-a-thai-refugee-camp-for-karen-refugees-from-myanmar-rises-to-37-with-more-tha.xml)  
+
 ### [2013-03-23](/news/2013/03/23/index.md)
 
+##### 2013 Thailand refugee camp fire
 # 2013 Thailand refugee camp fire: The death toll from a fire in a Thai refugee camp for Karen refugees from Myanmar rises to 37 with more than a hundred injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/local/342157/camp-to-be-rebuilt-death-toll-at-36)
 

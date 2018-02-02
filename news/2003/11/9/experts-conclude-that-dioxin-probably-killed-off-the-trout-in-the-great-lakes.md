@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/9/experts-conclude-that-dioxin-probably-killed-off-the-trout-in-the-great-lakes.html)  [JSON](/news/2003/11/9/experts-conclude-that-dioxin-probably-killed-off-the-trout-in-the-great-lakes.json)  [XML](/news/2003/11/9/experts-conclude-that-dioxin-probably-killed-off-the-trout-in-the-great-lakes.xml)  
+
 ### [2003-11-9](/news/2003/11/9/index.md)
 
+##### dioxin
 #  Experts conclude that dioxin probably killed off the trout in the Great Lakes.
 
 

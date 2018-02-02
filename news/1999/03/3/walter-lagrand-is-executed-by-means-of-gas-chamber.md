@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/03/3/walter-lagrand-is-executed-by-means-of-gas-chamber.html)  [JSON](/news/1999/03/3/walter-lagrand-is-executed-by-means-of-gas-chamber.json)  [XML](/news/1999/03/3/walter-lagrand-is-executed-by-means-of-gas-chamber.xml)  
+
 ### [1999-03-3](/news/1999/03/3/index.md)
 
+##### Walter LaGrand
 #  Walter LaGrand is executed by means of gas chamber.
 
 

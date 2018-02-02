@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/16/the-highest-court-in-ecuador-upholds-a-criminal-libel-verdict-favoring-the-president-rafael-correa-including-prison-sentences-for-three-exec.html)  [JSON](/news/2012/02/16/the-highest-court-in-ecuador-upholds-a-criminal-libel-verdict-favoring-the-president-rafael-correa-including-prison-sentences-for-three-exec.json)  [XML](/news/2012/02/16/the-highest-court-in-ecuador-upholds-a-criminal-libel-verdict-favoring-the-president-rafael-correa-including-prison-sentences-for-three-exec.xml)  
+
 ### [2012-02-16](/news/2012/02/16/index.md)
 
+##### Ecuador
 # The highest court in Ecuador upholds a criminal libel verdict favoring the President Rafael Correa including prison sentences for three executives and a columnist for the opposition newspaper "El Universo". 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/ecuador-defamation-case-final-hearing-15637364)
 

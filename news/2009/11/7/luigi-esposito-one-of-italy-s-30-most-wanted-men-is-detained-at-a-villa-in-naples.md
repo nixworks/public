@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/7/luigi-esposito-one-of-italy-s-30-most-wanted-men-is-detained-at-a-villa-in-naples.html)  [JSON](/news/2009/11/7/luigi-esposito-one-of-italy-s-30-most-wanted-men-is-detained-at-a-villa-in-naples.json)  [XML](/news/2009/11/7/luigi-esposito-one-of-italy-s-30-most-wanted-men-is-detained-at-a-villa-in-naples.xml)  
+
 ### [2009-11-7](/news/2009/11/7/index.md)
 
+##### Luigi Esposito
 #  Luigi Esposito, one of Italy's 30 most wanted men, is detained at a villa in Naples. 
 
 Italian police say they have arrested one of the country&#039;s leading organised crime figures, Luigi Esposito, in the southern city of Naples.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2009/11/08/2736331.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8348864.stm)

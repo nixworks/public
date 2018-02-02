@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/27/anonymous-targets-koch-brothers-backed-americans-for-prosperity-to-demonstrate-against-its-support-of-anti-union-legislation-in-wisconsin-an.html)  [JSON](/news/2011/02/27/anonymous-targets-koch-brothers-backed-americans-for-prosperity-to-demonstrate-against-its-support-of-anti-union-legislation-in-wisconsin-an.json)  [XML](/news/2011/02/27/anonymous-targets-koch-brothers-backed-americans-for-prosperity-to-demonstrate-against-its-support-of-anti-union-legislation-in-wisconsin-an.xml)  
+
 ### [2011-02-27](/news/2011/02/27/index.md)
 
+##### hacker group Anonymous
 # Anonymous targets Koch Brothers-backed Americans for Prosperity to demonstrate against its support of anti-union legislation in Wisconsin and the influence of money in US politics. 
 
 There was nothing terribly sophisticated about the denial of service attack executed by the activist hackers at Anonymous to temporarily knock out Americansforprosperity.org, the conservative advocacy group backed by billionaire brothers David and Charles Koch.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://firstread.msnbc.msn.com/_news/2011/02/28/6154621-anonymous-attack)
 2. [USA Today](http://content.usatoday.com/communities/technologylive/post/2011/03/anonymous-actively-probing-koch-brothers-corporate-networks-/1)

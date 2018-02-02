@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/25/israeli-prime-minister-and-likud-chairman-benjamin-netanyahu-and-the-israeli-foreign-minister-and-yisrael-beiteinu-chairman-avigdor-lieberma.html)  [JSON](/news/2012/10/25/israeli-prime-minister-and-likud-chairman-benjamin-netanyahu-and-the-israeli-foreign-minister-and-yisrael-beiteinu-chairman-avigdor-lieberma.json)  [XML](/news/2012/10/25/israeli-prime-minister-and-likud-chairman-benjamin-netanyahu-and-the-israeli-foreign-minister-and-yisrael-beiteinu-chairman-avigdor-lieberma.xml)  
+
 ### [2012-10-25](/news/2012/10/25/index.md)
 
+##### Israeli Prime Minister
 # Israeli Prime Minister and Likud chairman Benjamin Netanyahu and the Israeli Foreign Minister and Yisrael Beiteinu chairman Avigdor Lieberman announce the unification of their two parties which will run as a single bloc for the upcoming election to be held in January 2013; the joint party will be called "Likud Beiteinu" ("The Likud Is Our Home") and Netanyahu will be number 1 on the list, followed by Liberman who will be number 2 on the list. 
 
 PM cites Iran, rising cost of living among challenges to be faced &#8216;with strength&#8217; after elections
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20090316)
 2. [The Jewish Press](http://www.jewishpress.com/news/breaking-news/likud-and-yisrael-beiteinu-join-forces/2012/10/25/)

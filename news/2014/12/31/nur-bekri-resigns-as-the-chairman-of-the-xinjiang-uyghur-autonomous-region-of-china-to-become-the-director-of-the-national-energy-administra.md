@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/31/nur-bekri-resigns-as-the-chairman-of-the-xinjiang-uyghur-autonomous-region-of-china-to-become-the-director-of-the-national-energy-administra.html)  [JSON](/news/2014/12/31/nur-bekri-resigns-as-the-chairman-of-the-xinjiang-uyghur-autonomous-region-of-china-to-become-the-director-of-the-national-energy-administra.json)  [XML](/news/2014/12/31/nur-bekri-resigns-as-the-chairman-of-the-xinjiang-uyghur-autonomous-region-of-china-to-become-the-director-of-the-national-energy-administra.xml)  
+
 ### [2014-12-31](/news/2014/12/31/index.md)
 
+##### Nur Bekri
 # Nur Bekri resigns as the Chairman of the Xinjiang Uyghur Autonomous Region of China to become the Director of the National Energy Administration, and is replaced in the interim by Shohrat Zakir. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business Standard](http://www.business-standard.com/article/pti-stories/china-shifts-top-uygur-official-from-xinjiang-114123100762_1.html)
 1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)

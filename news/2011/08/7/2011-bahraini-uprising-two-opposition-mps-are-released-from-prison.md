@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/7/2011-bahraini-uprising-two-opposition-mps-are-released-from-prison.html)  [JSON](/news/2011/08/7/2011-bahraini-uprising-two-opposition-mps-are-released-from-prison.json)  [XML](/news/2011/08/7/2011-bahraini-uprising-two-opposition-mps-are-released-from-prison.xml)  
+
 ### [2011-08-7](/news/2011/08/7/index.md)
 
+##### 2011 Bahraini uprising
 # 2011 Bahraini uprising: Two opposition MPs are released from prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Masry Al-Youm](http://www.almasryalyoum.com/en/node/484209)
 

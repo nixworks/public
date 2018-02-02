@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/6/for-the-second-time-in-history-and-with-the-same-person-the-parliament-of-romania-votes-to-suspend-president-traian-basescu-from-office-o.html)  [JSON](/news/2012/07/6/for-the-second-time-in-history-and-with-the-same-person-the-parliament-of-romania-votes-to-suspend-president-traian-basescu-from-office-o.json)  [XML](/news/2012/07/6/for-the-second-time-in-history-and-with-the-same-person-the-parliament-of-romania-votes-to-suspend-president-traian-basescu-from-office-o.xml)  
+
 ### [2012-07-6](/news/2012/07/6/index.md)
 
+##### Parliament of Romania
 # For the second time in history and with the same person, the Parliament of Romania votes to suspend President Traian Basescu from office. On 29 July 2012 he will face a national referendum for his dismissal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-18736284)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61400000/jpg/_61400738_015252122.jpg)

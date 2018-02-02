@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/5/evacuations-are-ordered-in-town-of-hamburg-in-the-us-state-of-iowa-as-the-missouri-river-partially-breaches-levee-banks.html)  [JSON](/news/2011/06/5/evacuations-are-ordered-in-town-of-hamburg-in-the-us-state-of-iowa-as-the-missouri-river-partially-breaches-levee-banks.json)  [XML](/news/2011/06/5/evacuations-are-ordered-in-town-of-hamburg-in-the-us-state-of-iowa-as-the-missouri-river-partially-breaches-levee-banks.xml)  
+
 ### [2011-06-5](/news/2011/06/5/index.md)
 
+##### Hamburg
 # Evacuations are ordered in town of Hamburg in the US state of Iowa as the Missouri River partially breaches levee banks. 
 
 A levee breach along the swollen Missouri River prompted the evacuation Sunday of about 600 people in the area between the river and Hamburg, Iowa, officials said.
 
 
-### Source:
+### Sources:
 
 1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5j1FRaGNFldcLx0DEPMv0ecbcoJdw?docId=bc6c6cc87630460b9ce29e4783627464)
 2. [CNN](http://edition.cnn.com/2011/US/06/05/missouri.levee.breech/index.html)

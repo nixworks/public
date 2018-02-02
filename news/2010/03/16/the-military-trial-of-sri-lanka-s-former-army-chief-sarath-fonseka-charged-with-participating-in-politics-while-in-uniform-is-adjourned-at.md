@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/16/the-military-trial-of-sri-lanka-s-former-army-chief-sarath-fonseka-charged-with-participating-in-politics-while-in-uniform-is-adjourned-at.html)  [JSON](/news/2010/03/16/the-military-trial-of-sri-lanka-s-former-army-chief-sarath-fonseka-charged-with-participating-in-politics-while-in-uniform-is-adjourned-at.json)  [XML](/news/2010/03/16/the-military-trial-of-sri-lanka-s-former-army-chief-sarath-fonseka-charged-with-participating-in-politics-while-in-uniform-is-adjourned-at.xml)  
+
 ### [2010-03-16](/news/2010/03/16/index.md)
 
+##### Sri Lanka
 # The military trial of Sri Lanka's former army chief Sarath Fonseka, charged with participating in politics while in uniform, is adjourned at the end of day one. 
 
 Sri Lanka&#039;s former army chief, Sarath Fonseka, appeared in a military court yesterday on charges of sedition.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8569405.stm)
 2. [CBC](http://www.cbc.ca/world/story/2010/03/16/sri-lanka-army-court.html?ref=rss)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/02/6/the-united-states-centers-for-disease-control-says-that-an-infected-mother-can-transmit-hiv-to-her-baby-via-pre-chewed-food.html)  [JSON](/news/2008/02/6/the-united-states-centers-for-disease-control-says-that-an-infected-mother-can-transmit-hiv-to-her-baby-via-pre-chewed-food.json)  [XML](/news/2008/02/6/the-united-states-centers-for-disease-control-says-that-an-infected-mother-can-transmit-hiv-to-her-baby-via-pre-chewed-food.xml)  
+
 ### [2008-02-6](/news/2008/02/6/index.md)
 
+##### Centers for Disease Control
 #  The United States Centers for Disease Control says that an infected mother can transmit HIV to her baby via pre-chewed food. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSN0631284520080206)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080206&t=2&i=3064420&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-06T234545Z_01_N06312845_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/newsOne/idUSN0631284520080206)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080206&t=2&i=3064420&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-06T234545Z_01_N06312845_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

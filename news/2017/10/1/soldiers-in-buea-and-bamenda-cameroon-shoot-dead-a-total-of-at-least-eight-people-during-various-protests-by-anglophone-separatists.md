@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead
 
 ### [2017-10-1](/news/2017/10/1/index.md)
 
+##### Anglophone problem (Cameroon)
 # Soldiers in Buea and Bamenda, Cameroon, shoot dead a total of at least eight people during various protests by Anglophone separatists. 
 
 

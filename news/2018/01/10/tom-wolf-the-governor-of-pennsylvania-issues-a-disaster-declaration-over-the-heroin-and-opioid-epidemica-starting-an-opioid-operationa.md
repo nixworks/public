@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/10/tom-wolf-the-governor-of-pennsylvania-issues-a-
 
 ### [2018-01-10](/news/2018/01/10/index.md)
 
+##### Tom Wolf
 # Tom Wolf, the Governor of Pennsylvania, issues a disaster declaration over the "heroin and opioid epidemic", starting an Opioid Operational Command Center at the Pennsylvania Emergency Management Agency. 
 
 Pennsylvania Gov. Tom Wolf declares disaster emergency over what he termed the state&apos;s opioid and heroin epidemic that is killing thousands through drug overdoses and ratcheting up government costs across the state.

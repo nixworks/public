@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/8/three-terror-attacks-are-reported-that-result-in
 
 ### [2016-03-8](/news/2016/03/8/index.md)
 
+##### Israeli-Palestinian conflict
 # Three terror attacks are reported that result in the deaths of four Palestinians and an American tourist with 12 Israelis wounded, including two Israeli policemen, as United States Vice President Joe Biden arrives in Israel for a two-day visit that includes meetings with Israeli and Palestinian leaders.One of the attacks occurred less than a kilometer from where Joe Biden was at the time. 
 
 A West Point graduate from Lubbock died after he was stabbed while on a trip to Israel in an attack that wounded at least 10 others.

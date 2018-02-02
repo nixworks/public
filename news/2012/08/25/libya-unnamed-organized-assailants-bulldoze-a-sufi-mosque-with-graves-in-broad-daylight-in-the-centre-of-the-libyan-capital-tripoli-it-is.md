@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/25/libya-unnamed-organized-assailants-bulldoze-a-sufi-mosque-with-graves-in-broad-daylight-in-the-centre-of-the-libyan-capital-tripoli-it-is.html)  [JSON](/news/2012/08/25/libya-unnamed-organized-assailants-bulldoze-a-sufi-mosque-with-graves-in-broad-daylight-in-the-centre-of-the-libyan-capital-tripoli-it-is.json)  [XML](/news/2012/08/25/libya-unnamed-organized-assailants-bulldoze-a-sufi-mosque-with-graves-in-broad-daylight-in-the-centre-of-the-libyan-capital-tripoli-it-is.xml)  
+
 ### [2012-08-25](/news/2012/08/25/index.md)
 
+##### 2011-present Libyan factional fighting
 # Libya: Unnamed organized assailants bulldoze a Sufi mosque with graves, in broad daylight in the centre of the Libyan capital Tripoli. It is the second such razing of a Sufi site in two days. De facto head of state Mohamed Yousef el-Magariaf tells reporters: "What is truly regrettable and suspicious is that some of those who took part in these destruction activities are supposed to be of the security forces and from the revolutionaries." 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/fighters-bulldoze-sufi-mosque-central-tripoli-172020410.html?_esi=1)
+1. [Reuters via Yahoo! News](https://news.yahoo.com/fighters-bulldoze-sufi-mosque-central-tripoli-172020410.html?_esi=1)
 
 ### Related:
 

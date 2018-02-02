@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/26/the-united-nations-security-council-gave-the-green-light-to-a-plan-by-un-secretary-general-ban-ki-moon-on-the-deployment-of-an-eu-civilian.html)  [JSON](/news/2008/11/26/the-united-nations-security-council-gave-the-green-light-to-a-plan-by-un-secretary-general-ban-ki-moon-on-the-deployment-of-an-eu-civilian.json)  [XML](/news/2008/11/26/the-united-nations-security-council-gave-the-green-light-to-a-plan-by-un-secretary-general-ban-ki-moon-on-the-deployment-of-an-eu-civilian.xml)  
+
 ### [2008-11-26](/news/2008/11/26/index.md)
 
+##### United Nations
 #  The United Nations Security Council gave the green light to a plan by UN Secretary General Ban Ki-moon on the deployment of an EU civilian police and justice mission in Kosovo.
 
 The U.N. Security Council cleared the way on Wednesday for a European Union police and justice mission to deploy in Kosovo, in a statement welcoming agreement by Serbia and Kosovo to the move.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKTRE4AP9JU20081127?sp=true)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

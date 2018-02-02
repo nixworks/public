@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/10/pia-flight-688-a-pakistan-international-airlines-fokker-f-27-plane-crashes-at-multan-international-airport-killing-all-45-passengers-on.html)  [JSON](/news/2006/07/10/pia-flight-688-a-pakistan-international-airlines-fokker-f-27-plane-crashes-at-multan-international-airport-killing-all-45-passengers-on.json)  [XML](/news/2006/07/10/pia-flight-688-a-pakistan-international-airlines-fokker-f-27-plane-crashes-at-multan-international-airport-killing-all-45-passengers-on.xml)  
+
 ### [2006-07-10](/news/2006/07/10/index.md)
 
+##### PIA Flight 688
 #  PIA Flight 688, a Pakistan International Airlines Fokker F-27 plane, crashes at Multan International Airport, killing all 45 passengers on board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://hosted.ap.org/dynamic/stories/P/PAKISTAN_AIR_CRASH?SITE=NHPOR&TEMPLATE=DEFAULT&SECTION=HOME)
 2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/07/10/pakistan.aircrash/index.html?section=cnn_latest)

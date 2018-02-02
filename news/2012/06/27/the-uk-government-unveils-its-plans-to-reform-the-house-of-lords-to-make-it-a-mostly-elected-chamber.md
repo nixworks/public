@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/27/the-uk-government-unveils-its-plans-to-reform-the-house-of-lords-to-make-it-a-mostly-elected-chamber.html)  [JSON](/news/2012/06/27/the-uk-government-unveils-its-plans-to-reform-the-house-of-lords-to-make-it-a-mostly-elected-chamber.json)  [XML](/news/2012/06/27/the-uk-government-unveils-its-plans-to-reform-the-house-of-lords-to-make-it-a-mostly-elected-chamber.xml)  
+
 ### [2012-06-27](/news/2012/06/27/index.md)
 
+##### 10 Downing Street
 # The UK Government unveils its plans to reform the House of Lords to make it a mostly elected chamber. 
 
 The prime minister has called for MPs to support Lords reform, as a Bill to create a mostly elected House of Lords is unveiled.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-18602587)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61191000/jpg/_61191454_houseoflords.jpg)

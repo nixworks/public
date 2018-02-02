@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/4/the-bse-sensex-breaches-the-6-800-mark-for-the-first-time-in-its-history-ending-at-6-849-up-65-points-over-its-previous-close-the-market.html)  [JSON](/news/2005/03/4/the-bse-sensex-breaches-the-6-800-mark-for-the-first-time-in-its-history-ending-at-6-849-up-65-points-over-its-previous-close-the-market.json)  [XML](/news/2005/03/4/the-bse-sensex-breaches-the-6-800-mark-for-the-first-time-in-its-history-ending-at-6-849-up-65-points-over-its-previous-close-the-market.xml)  
+
 ### [2005-03-4](/news/2005/03/4/index.md)
 
+##### Bombay Stock Exchange
 #  The BSE Sensex breaches the 6,800-mark for the first time in its history, ending at 6,849, up 65 points over its previous close. The market rally has added about 160 billion Indian rupees (approx. 3.6 billion US$) to investor wealth with the BSE's market capitalisation at a record high of 17.65 trillion Indian rupees (approx. 400 billion US$). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Express, India](http://www.financialexpress.com/fe_full_story.php?content_id=84411)
 

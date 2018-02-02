@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/18/randy-johnson-pitches-the-17th-perfect-game-in-major-league-baseball-history-in-a-2-0-win-by-the-arizona-diamondbacks-over-the-atlanta-brav.html)  [JSON](/news/2004/05/18/randy-johnson-pitches-the-17th-perfect-game-in-major-league-baseball-history-in-a-2-0-win-by-the-arizona-diamondbacks-over-the-atlanta-brav.json)  [XML](/news/2004/05/18/randy-johnson-pitches-the-17th-perfect-game-in-major-league-baseball-history-in-a-2-0-win-by-the-arizona-diamondbacks-over-the-atlanta-brav.xml)  
+
 ### [2004-05-18](/news/2004/05/18/index.md)
 
+##### Randy Johnson
 #  Randy Johnson pitches the 17th perfect game in Major League Baseball history in a 2-0 win by the Arizona Diamondbacks over the Atlanta Braves. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/mlb/recap?gameId=240518115)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)

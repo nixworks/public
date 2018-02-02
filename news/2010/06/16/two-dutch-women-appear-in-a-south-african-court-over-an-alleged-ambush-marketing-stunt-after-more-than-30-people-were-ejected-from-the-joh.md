@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/16/two-dutch-women-appear-in-a-south-african-court-over-an-alleged-ambush-marketing-stunt-after-more-than-30-people-were-ejected-from-the-joh.html)  [JSON](/news/2010/06/16/two-dutch-women-appear-in-a-south-african-court-over-an-alleged-ambush-marketing-stunt-after-more-than-30-people-were-ejected-from-the-joh.json)  [XML](/news/2010/06/16/two-dutch-women-appear-in-a-south-african-court-over-an-alleged-ambush-marketing-stunt-after-more-than-30-people-were-ejected-from-the-joh.xml)  
+
 ### [2010-06-16](/news/2010/06/16/index.md)
 
+##### Dutch
 # Two Dutch women appear in a South African court over an alleged "ambush marketing" stunt after more than 30 people were ejected from the Johannesburg stadium on Monday during the match between Denmark and the Netherlands in the 2010 FIFA World Cup. 
 
 A court bails two Dutch women over an alleged marketing stunt at the World Cup, in a case called &quot;outrageous&quot; by the Netherlands.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10331583.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/World-Cup-South-Africa-2010-Two-Women-In-Court-Over-Minidress-Marketing-Stunt-By-Dutch-Fans/Article/201006315649682?f=rss)

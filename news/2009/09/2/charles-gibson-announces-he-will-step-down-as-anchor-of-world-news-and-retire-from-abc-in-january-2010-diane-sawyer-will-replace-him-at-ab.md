@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/2/charles-gibson-announces-he-will-step-down-as-anchor-of-world-news-and-retire-from-abc-in-january-2010-diane-sawyer-will-replace-him-at-ab.html)  [JSON](/news/2009/09/2/charles-gibson-announces-he-will-step-down-as-anchor-of-world-news-and-retire-from-abc-in-january-2010-diane-sawyer-will-replace-him-at-ab.json)  [XML](/news/2009/09/2/charles-gibson-announces-he-will-step-down-as-anchor-of-world-news-and-retire-from-abc-in-january-2010-diane-sawyer-will-replace-him-at-ab.xml)  
+
 ### [2009-09-2](/news/2009/09/2/index.md)
 
+##### Charles Gibson
 #  Charles Gibson announces he will step down as anchor of World News and retire from ABC in January 2010. Diane Sawyer will replace him at ABC World News. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/WN/story?id=8471429)
 1. [Cover Image](http://a.abcnews.com/images/WN/abc_Charlie_Diane2_090902_wmain.jpg)

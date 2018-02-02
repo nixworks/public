@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/10/9/serge-haroche-and-david-wineland-win-the-2012-nobel-prize-in-physics-for-their-work-on-quantum-optics.html)  [JSON](/news/2012/10/9/serge-haroche-and-david-wineland-win-the-2012-nobel-prize-in-physics-for-their-work-on-quantum-optics.json)  [XML](/news/2012/10/9/serge-haroche-and-david-wineland-win-the-2012-nobel-prize-in-physics-for-their-work-on-quantum-optics.xml)  
+
 ### [2012-10-9](/news/2012/10/9/index.md)
 
+##### Serge Haroche
 # Serge Haroche and David Wineland win the 2012 Nobel Prize in Physics for their work on quantum optics. 
 
 A French and American duo that developed techniques to study the interplay between light and matter on the smallest and most intimate imaginable scale won the Nobel Prize in Physics Tuesday.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2012/10/10/science/french-and-us-scientists-win-nobel-physics-prize.html?_r=0)
+1. [New York Times](https://www.nytimes.com/2012/10/10/science/french-and-us-scientists-win-nobel-physics-prize.html?_r=0)
 1. [Cover Image](https://static01.nyt.com/images/2012/10/10/science/10nobel/10nobel-superJumbo.jpg)
 
 ### Related:

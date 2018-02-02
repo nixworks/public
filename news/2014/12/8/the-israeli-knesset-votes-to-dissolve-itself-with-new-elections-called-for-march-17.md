@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/8/the-israeli-knesset-votes-to-dissolve-itself-with-new-elections-called-for-march-17.html)  [JSON](/news/2014/12/8/the-israeli-knesset-votes-to-dissolve-itself-with-new-elections-called-for-march-17.json)  [XML](/news/2014/12/8/the-israeli-knesset-votes-to-dissolve-itself-with-new-elections-called-for-march-17.xml)  
+
 ### [2014-12-8](/news/2014/12/8/index.md)
 
+##### Israel
 # The Israeli Knesset votes to dissolve itself with new elections called for March 17. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_ISRAEL_POLITICS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

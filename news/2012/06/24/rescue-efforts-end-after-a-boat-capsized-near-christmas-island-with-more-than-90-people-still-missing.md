@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/24/rescue-efforts-end-after-a-boat-capsized-near-christmas-island-with-more-than-90-people-still-missing.html)  [JSON](/news/2012/06/24/rescue-efforts-end-after-a-boat-capsized-near-christmas-island-with-more-than-90-people-still-missing.json)  [XML](/news/2012/06/24/rescue-efforts-end-after-a-boat-capsized-near-christmas-island-with-more-than-90-people-still-missing.xml)  
+
 ### [2012-06-24](/news/2012/06/24/index.md)
 
+##### Christmas Island
 # Rescue efforts end after a boat capsized near Christmas Island, with more than 90 people still missing. 
 
 Rescue effort ends after refugee boat with 200 people capsized near Christmas Island, with more than 90 still missing.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/06/201262413621421133.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/24/201262415349637734_20.jpg)

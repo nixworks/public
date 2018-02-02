@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/7/the-board-of-general-motors-authorises-chief-executive-officer-rick-wagoner-to-explore-an-alliance-with-nissan-and-renault.html)  [JSON](/news/2006/07/7/the-board-of-general-motors-authorises-chief-executive-officer-rick-wagoner-to-explore-an-alliance-with-nissan-and-renault.json)  [XML](/news/2006/07/7/the-board-of-general-motors-authorises-chief-executive-officer-rick-wagoner-to-explore-an-alliance-with-nissan-and-renault.xml)  
+
 ### [2006-07-7](/news/2006/07/7/index.md)
 
+##### General Motors
 #  The board of General Motors authorises Chief Executive Officer Rick Wagoner to explore an alliance with Nissan and Renault. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=20601087&sid=awiUo51GOGwY)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/07/21/pratibha-patil-wins-the-13th-presidential-election-in-india-to-become-the-first-female-president-of-india.html)  [JSON](/news/2007/07/21/pratibha-patil-wins-the-13th-presidential-election-in-india-to-become-the-first-female-president-of-india.json)  [XML](/news/2007/07/21/pratibha-patil-wins-the-13th-presidential-election-in-india-to-become-the-first-female-president-of-india.xml)  
+
 ### [2007-07-21](/news/2007/07/21/index.md)
 
+##### Pratibha Patil
 #  Pratibha Patil wins the 13th presidential election in India to become the first female President of India. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/07/21/AR2007072100525.html?hpid=artslot)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/07/21/AR2007072100525.html?hpid=artslot)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

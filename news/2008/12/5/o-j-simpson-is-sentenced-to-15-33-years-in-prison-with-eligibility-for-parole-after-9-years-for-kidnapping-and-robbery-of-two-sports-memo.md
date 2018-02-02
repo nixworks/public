@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/5/o-j-simpson-is-sentenced-to-15-33-years-in-prison-with-eligibility-for-parole-after-9-years-for-kidnapping-and-robbery-of-two-sports-memo.html)  [JSON](/news/2008/12/5/o-j-simpson-is-sentenced-to-15-33-years-in-prison-with-eligibility-for-parole-after-9-years-for-kidnapping-and-robbery-of-two-sports-memo.json)  [XML](/news/2008/12/5/o-j-simpson-is-sentenced-to-15-33-years-in-prison-with-eligibility-for-parole-after-9-years-for-kidnapping-and-robbery-of-two-sports-memo.xml)  
+
 ### [2008-12-5](/news/2008/12/5/index.md)
 
+##### O. J. Simpson
 #  O. J. Simpson is sentenced to 15-33 years in prison with eligibility for parole after 9 years for kidnapping and robbery of two sports memorabilia dealers in a Las Vegas, Nevada, casino. 
 
 This was not the O.J. Simpson of old.His wrists shackled, eyes reddened and husky voice cracking, the fallen football star -- who famously was acquitted of double murder in Los Angeles -- was...
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Melbourne Age](http://www.theage.com.au/world/emotional-oj-simpson-gets-15-years-jail-for-kidnapping-20081206-6snm.html?page=-1)
 2. [Los Angeles Times](http://www.latimes.com/news/local/la-na-oj-sentencing6-2008dec06,0,3919620.story)

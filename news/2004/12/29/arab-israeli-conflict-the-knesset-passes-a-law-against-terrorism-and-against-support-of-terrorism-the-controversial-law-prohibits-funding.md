@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/29/arab-israeli-conflict-the-knesset-passes-a-law-against-terrorism-and-against-support-of-terrorism-the-controversial-law-prohibits-funding.html)  [JSON](/news/2004/12/29/arab-israeli-conflict-the-knesset-passes-a-law-against-terrorism-and-against-support-of-terrorism-the-controversial-law-prohibits-funding.json)  [XML](/news/2004/12/29/arab-israeli-conflict-the-knesset-passes-a-law-against-terrorism-and-against-support-of-terrorism-the-controversial-law-prohibits-funding.xml)  
+
 ### [2004-12-29](/news/2004/12/29/index.md)
 
+##### Arab-Israeli Conflict
 #  Arab-Israeli Conflict: The Knesset passes a law against terrorism and against support of terrorism. The controversial law prohibits funding terrorists. It also prohibits aiding the families of perceived terrorists and institutes inciting for terrorism. The law will give Israel the right to confiscate property and funds of any perceived terrorist organization, even though if they do not target Israel or Israelis. The law is part of the state's legal war against terrorism and was approved 62-6. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/520764.html)
 

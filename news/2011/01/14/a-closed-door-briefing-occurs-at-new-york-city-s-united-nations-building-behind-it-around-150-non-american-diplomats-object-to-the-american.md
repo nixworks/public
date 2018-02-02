@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/14/a-closed-door-briefing-occurs-at-new-york-city-s-united-nations-building-behind-it-around-150-non-american-diplomats-object-to-the-american.html)  [JSON](/news/2011/01/14/a-closed-door-briefing-occurs-at-new-york-city-s-united-nations-building-behind-it-around-150-non-american-diplomats-object-to-the-american.json)  [XML](/news/2011/01/14/a-closed-door-briefing-occurs-at-new-york-city-s-united-nations-building-behind-it-around-150-non-american-diplomats-object-to-the-american.xml)  
+
 ### [2011-01-14](/news/2011/01/14/index.md)
 
+##### New York City
 # A closed-door briefing occurs at New York City's United Nations building. Behind it around 150 non-American diplomats object to the American government about a decision by the country's banks to end services for diplomatic missions, with some diplomats suggesting the UN budget could be affected. 
 
 Foreign diplomats complain to the US government about the decision by several US banks to end services for diplomatic missions.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-12188368)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

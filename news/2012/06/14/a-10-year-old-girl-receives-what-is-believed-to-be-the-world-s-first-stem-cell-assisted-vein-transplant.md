@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/14/a-10-year-old-girl-receives-what-is-believed-to-be-the-world-s-first-stem-cell-assisted-vein-transplant.html)  [JSON](/news/2012/06/14/a-10-year-old-girl-receives-what-is-believed-to-be-the-world-s-first-stem-cell-assisted-vein-transplant.json)  [XML](/news/2012/06/14/a-10-year-old-girl-receives-what-is-believed-to-be-the-world-s-first-stem-cell-assisted-vein-transplant.xml)  
+
 ### [2012-06-14](/news/2012/06/14/index.md)
 
+##### stem cell
 # A 10-year-old girl receives what is believed to be the world's first stem cell assisted vein transplant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [HealthDay](http://www.philly.com/philly/health/HealthDay665744_20120614_First_Stem_Cell_Vein_Implant_Helps_Young_Girl.html?cmpid=138896554)
 

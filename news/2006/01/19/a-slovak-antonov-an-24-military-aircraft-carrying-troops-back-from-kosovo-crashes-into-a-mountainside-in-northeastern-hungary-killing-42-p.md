@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/19/a-slovak-antonov-an-24-military-aircraft-carrying-troops-back-from-kosovo-crashes-into-a-mountainside-in-northeastern-hungary-killing-42-p.html)  [JSON](/news/2006/01/19/a-slovak-antonov-an-24-military-aircraft-carrying-troops-back-from-kosovo-crashes-into-a-mountainside-in-northeastern-hungary-killing-42-p.json)  [XML](/news/2006/01/19/a-slovak-antonov-an-24-military-aircraft-carrying-troops-back-from-kosovo-crashes-into-a-mountainside-in-northeastern-hungary-killing-42-p.xml)  
+
 ### [2006-01-19](/news/2006/01/19/index.md)
 
+##### Slovakia
 #  A Slovak Antonov An-24 military aircraft carrying troops back from Kosovo crashes into a mountainside in northeastern Hungary, killing 42 people. Only one person survived. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/europe/01/20/hungary.crash/index.html)
 

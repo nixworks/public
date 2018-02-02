@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/26/prince-settles-his-court-case-with-mcd-productions-which-had-sued-the-musician-after-he-cancelled-a-2008-croke-park-concert-at-short-notice.html)  [JSON](/news/2010/02/26/prince-settles-his-court-case-with-mcd-productions-which-had-sued-the-musician-after-he-cancelled-a-2008-croke-park-concert-at-short-notice.json)  [XML](/news/2010/02/26/prince-settles-his-court-case-with-mcd-productions-which-had-sued-the-musician-after-he-cancelled-a-2008-croke-park-concert-at-short-notice.xml)  
+
 ### [2010-02-26](/news/2010/02/26/index.md)
 
+##### Prince
 # Prince settles his court case with MCD Productions which had sued the musician after he cancelled a 2008 Croke Park concert at short notice. 
 
 A legal action by promoters MCD against the singer Prince and his US agents has been settled at the Commercial Court.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8539066.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0226/prince.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/8/former-south-african-deputy-president-jacob-zuma-is-acquitted-of-a-rape-charge-the-judge-rules-that-a-sexual-encounter-with-a-31-year-old.html)  [JSON](/news/2006/05/8/former-south-african-deputy-president-jacob-zuma-is-acquitted-of-a-rape-charge-the-judge-rules-that-a-sexual-encounter-with-a-31-year-old.json)  [XML](/news/2006/05/8/former-south-african-deputy-president-jacob-zuma-is-acquitted-of-a-rape-charge-the-judge-rules-that-a-sexual-encounter-with-a-31-year-old.xml)  
+
 ### [2006-05-8](/news/2006/05/8/index.md)
 
+##### South Africa
 #  Former South African deputy president Jacob Zuma is acquitted of a rape charge; the judge rules that a sexual encounter with a 31-year-old HIV-positive woman was consensual. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/southafrica/story/0,,1770339,00.html)
 

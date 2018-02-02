@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/20/yoweri-museveni-is-re-elected-president-of-uganda-for-a-fourth-term-the-opposition-does-not-take-the-result-well.html)  [JSON](/news/2011/02/20/yoweri-museveni-is-re-elected-president-of-uganda-for-a-fourth-term-the-opposition-does-not-take-the-result-well.json)  [XML](/news/2011/02/20/yoweri-museveni-is-re-elected-president-of-uganda-for-a-fourth-term-the-opposition-does-not-take-the-result-well.xml)  
+
 ### [2011-02-20](/news/2011/02/20/index.md)
 
+##### Yoweri Museveni
 # Yoweri Museveni is re-elected President of Uganda for a fourth term; the opposition does not take the result well. 
 
 Yoweri Museveni re-elected president for fourth term, but opposition rejects poll result.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/2011220144451681103.html)
 2. [CNN](http://edition.cnn.com/2011/WORLD/africa/02/20/uganda.election/#)

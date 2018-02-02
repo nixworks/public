@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/12/an-indian-railways-train-derailment-near-gulbarga-in-karnataka-state-kills-at-least-two-people-with-several-others-injured.html)  [JSON](/news/2015/09/12/an-indian-railways-train-derailment-near-gulbarga-in-karnataka-state-kills-at-least-two-people-with-several-others-injured.json)  [XML](/news/2015/09/12/an-indian-railways-train-derailment-near-gulbarga-in-karnataka-state-kills-at-least-two-people-with-several-others-injured.xml)  
+
 ### [2015-09-12](/news/2015/09/12/index.md)
 
+##### Indian Railways
 # An Indian Railways train derailment near Gulbarga in Karnataka state kills at least two people with several others injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Star Tribune](http://www.startribune.com/train-derail-in-southern-india-killing-2-people/326870631/)
 

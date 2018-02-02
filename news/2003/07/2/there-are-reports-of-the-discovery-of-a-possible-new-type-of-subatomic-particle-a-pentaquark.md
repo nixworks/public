@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2003/07/2/there-are-reports-of-the-discovery-of-a-possible-new-type-of-subatomic-particle-a-pentaquark.html)  [JSON](/news/2003/07/2/there-are-reports-of-the-discovery-of-a-possible-new-type-of-subatomic-particle-a-pentaquark.json)  [XML](/news/2003/07/2/there-are-reports-of-the-discovery-of-a-possible-new-type-of-subatomic-particle-a-pentaquark.xml)  
+
 ### [2003-07-2](/news/2003/07/2/index.md)
 
+##### subatomic particle
 #  There are reports of the discovery of a possible new type of subatomic particle, a pentaquark. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/low/sci/tech/3034754.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/29/a-huge-number-of-whales-and-dolphins-are-beached-on-the-king-island-between-the-australian-mainland-and-tasmania-rescue-efforts-are-ongoin.html)  [JSON](/news/2004/11/29/a-huge-number-of-whales-and-dolphins-are-beached-on-the-king-island-between-the-australian-mainland-and-tasmania-rescue-efforts-are-ongoin.json)  [XML](/news/2004/11/29/a-huge-number-of-whales-and-dolphins-are-beached-on-the-king-island-between-the-australian-mainland-and-tasmania-rescue-efforts-are-ongoin.xml)  
+
 ### [2004-11-29](/news/2004/11/29/index.md)
 
+##### whale
 #  A huge number of whales and dolphins are beached on the King Island between the Australian mainland and Tasmania; rescue efforts are ongoing 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/index.cfm?ObjectID=8500821)
 2. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=99966&region=7)

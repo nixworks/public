@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/5/brazil-s-air-force-confirms-that-no-debris-has-been-recovered-from-air-france-flight-447.html)  [JSON](/news/2009/06/5/brazil-s-air-force-confirms-that-no-debris-has-been-recovered-from-air-france-flight-447.json)  [XML](/news/2009/06/5/brazil-s-air-force-confirms-that-no-debris-has-been-recovered-from-air-france-flight-447.xml)  
+
 ### [2009-06-5](/news/2009/06/5/index.md)
 
+##### Brazil
 #  Brazil's Air Force confirms that no debris has been recovered from Air France Flight 447. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Air-France-Plane-Disaster-Officials-Say-No-Debris-Has-Been-Found-In-Atlantic-Despite-Earlier-Report/Article/200906115296406?lpos=World_News_First_World_News_Article_Teaser_Region_2&lid=ARTICLE_15296406_Air_France_Plane_Disaster%3A_Officials_Say_No_Debris_Has_Been_Found_In_Atlantic_Despite_Earlier_Report)
 

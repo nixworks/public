@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/29/the-european-commission-blocks-the-third-attemp
 
 ### [2017-03-29](/news/2017/03/29/index.md)
 
+##### European Commission
 # The European Commission blocks the third attempt of the London Stock Exchange and Deutsche Borse at a merger, citing the danger of a "de facto monopoly in the crucial area of fixed income instruments". 
 
 Competition regulator says £21bn deal would create a ‘de facto monopoly’

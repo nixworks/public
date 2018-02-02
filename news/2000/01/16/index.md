@@ -1,7 +1,7 @@
-## [2000-01-16](/news/2000/01/16/index.md)
 
-### [In the second round run-off, Ricardo Lagos is elected president of Chile, as candidate of the Party for Democracy.](/news/2000/01/16/in-the-second-round-run-off-ricardo-lagos-is-elected-president-of-chile-as-candidate-of-the-party-for-democracy.md)
-_Context: Chile, Chilean presidential election, 1999-2000, Party for Democracy, Ricardo Lagos_
+Formats: [HTML](2000/01/16/index.html)  [JSON](2000/01/16/index.json)  [XML](2000/01/16/index.xml)  
+
+## [2000-01-16](/news/2000/01/16/index.md)
 
 ## [Previous Day...](/news/2000/01/15/index.md)
 

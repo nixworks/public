@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/25/madagascar-s-political-rivals-meet-for-a-second-round-of-talks-in-maputo-mozambique.html)  [JSON](/news/2009/08/25/madagascar-s-political-rivals-meet-for-a-second-round-of-talks-in-maputo-mozambique.json)  [XML](/news/2009/08/25/madagascar-s-political-rivals-meet-for-a-second-round-of-talks-in-maputo-mozambique.xml)  
+
 ### [2009-08-25](/news/2009/08/25/index.md)
 
+##### Madagascar
 #  Madagascar's political rivals meet for a second round of talks in Maputo, Mozambique. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE57M07Y20090823)
 
@@ -15,4 +19,4 @@
 2. [At least 6 people die as Mozambique police fire rubber bullets as a protest in Maputo over rising food prices turns into a riot. ](/news/2010/09/1/at-least-6-people-die-as-mozambique-police-fire-rubber-bullets-as-a-protest-in-maputo-over-rising-food-prices-turns-into-a-riot.md) _Context: Maputo, Mozambique_
 3. [ An arms depot explodes in Maputo, Mozambique, killing at least 93 people and injuring hundreds more. ](/news/2007/03/22/an-arms-depot-explodes-in-maputo-mozambique-killing-at-least-93-people-and-injuring-hundreds-more.md) _Context: Maputo, Mozambique_
 4. [ The Mozambique presidential election vote count continues in all of the country, with Frelimo and its candidate Armando Guebuza leading, according to the preliminary results already known, and especially in Maputo, Gaza and Inhambane, traditional regions of influence for the party in power. (Wikinews)](/news/2004/12/4/the-mozambique-presidential-election-vote-count-continues-in-all-of-the-country-with-frelimo-and-its-candidate-armando-guebuza-leading-ac.md) _Context: Maputo, Mozambique_
-5. [Since August 1, another round of pneumonic, bubonic, and septicemic plague spreads in Madagascar, killing at least 45 people. ](/news/2017/10/7/since-august-1-another-round-of-pneumonic-bubonic-and-septicemic-plague-spreads-in-madagascar-killing-at-least-45-people.md) _Context: Madagascar_
+5. [At least 29 people are dead and 22 are missing in the aftermath of a strong tropical cyclone striking Madagascar. ](/news/2018/01/9/at-least-29-people-are-dead-and-22-are-missing-in-the-aftermath-of-a-strong-tropical-cyclone-striking-madagascar.md) _Context: Madagascar_

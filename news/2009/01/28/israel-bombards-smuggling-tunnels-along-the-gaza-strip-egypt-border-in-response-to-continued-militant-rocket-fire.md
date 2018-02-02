@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/28/israel-bombards-smuggling-tunnels-along-the-gaza-strip-egypt-border-in-response-to-continued-militant-rocket-fire.html)  [JSON](/news/2009/01/28/israel-bombards-smuggling-tunnels-along-the-gaza-strip-egypt-border-in-response-to-continued-militant-rocket-fire.json)  [XML](/news/2009/01/28/israel-bombards-smuggling-tunnels-along-the-gaza-strip-egypt-border-in-response-to-continued-militant-rocket-fire.xml)  
+
 ### [2009-01-28](/news/2009/01/28/index.md)
 
+##### Israel
 #  Israel bombards smuggling tunnels along the Gaza Strip-Egypt border in response to continued militant rocket fire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Gaza-Egypt-Border-Strike-Israeli-Aircraft-Attacks-Tunnels-Used-For-Smuggling/Article/200901415211651?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15211651_Gaza-Egypt_Border_Strike%3A_Israeli_Aircraft_Attacks_Tunnels_Used_For_Smuggling)
 

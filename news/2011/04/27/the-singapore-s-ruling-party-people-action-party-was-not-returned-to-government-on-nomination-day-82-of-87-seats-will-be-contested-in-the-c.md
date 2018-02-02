@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/27/the-singapore-s-ruling-party-people-action-party-was-not-returned-to-government-on-nomination-day-82-of-87-seats-will-be-contested-in-the-c.html)  [JSON](/news/2011/04/27/the-singapore-s-ruling-party-people-action-party-was-not-returned-to-government-on-nomination-day-82-of-87-seats-will-be-contested-in-the-c.json)  [XML](/news/2011/04/27/the-singapore-s-ruling-party-people-action-party-was-not-returned-to-government-on-nomination-day-82-of-87-seats-will-be-contested-in-the-c.xml)  
+
 ### [2011-04-27](/news/2011/04/27/index.md)
 
+##### Singapore
 # The Singapore's ruling party People Action Party was not returned to government on Nomination Day, 82 of 87 seats will be contested in the coming election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/1125138/1/.html)
 

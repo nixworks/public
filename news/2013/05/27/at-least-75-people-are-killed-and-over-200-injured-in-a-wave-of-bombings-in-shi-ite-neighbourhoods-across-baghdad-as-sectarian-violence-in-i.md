@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/27/at-least-75-people-are-killed-and-over-200-injured-in-a-wave-of-bombings-in-shi-ite-neighbourhoods-across-baghdad-as-sectarian-violence-in-i.html)  [JSON](/news/2013/05/27/at-least-75-people-are-killed-and-over-200-injured-in-a-wave-of-bombings-in-shi-ite-neighbourhoods-across-baghdad-as-sectarian-violence-in-i.json)  [XML](/news/2013/05/27/at-least-75-people-are-killed-and-over-200-injured-in-a-wave-of-bombings-in-shi-ite-neighbourhoods-across-baghdad-as-sectarian-violence-in-i.xml)  
+
 ### [2013-05-27](/news/2013/05/27/index.md)
 
+##### Shi'ite
 # At least 75 people are killed and over 200 injured in a wave of bombings in Shi'ite neighbourhoods across Baghdad as sectarian violence in Iraq continues to increase. 
 
 At least 75 people have been killed in a wave of bombings in markets in Shi&#39;ite neighbourhoods across Baghdad in worsening sectarian violence in Iraq.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via News24](http://www.news24.com/news24/World/News/Baghdad-bombings-death-toll-on-the-rise-20130527)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2244/1106d4ab669d4cefafa1c30dbfbc29a0.jpg)

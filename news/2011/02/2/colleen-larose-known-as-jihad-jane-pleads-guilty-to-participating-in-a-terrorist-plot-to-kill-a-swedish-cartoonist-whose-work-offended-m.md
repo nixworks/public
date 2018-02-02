@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/2/colleen-larose-known-as-jihad-jane-pleads-guilty-to-participating-in-a-terrorist-plot-to-kill-a-swedish-cartoonist-whose-work-offended-m.html)  [JSON](/news/2011/02/2/colleen-larose-known-as-jihad-jane-pleads-guilty-to-participating-in-a-terrorist-plot-to-kill-a-swedish-cartoonist-whose-work-offended-m.json)  [XML](/news/2011/02/2/colleen-larose-known-as-jihad-jane-pleads-guilty-to-participating-in-a-terrorist-plot-to-kill-a-swedish-cartoonist-whose-work-offended-m.xml)  
+
 ### [2011-02-2](/news/2011/02/2/index.md)
 
+##### Colleen LaRose
 # Colleen LaRose, known as "Jihad Jane", pleads guilty to participating in a terrorist plot to kill a Swedish cartoonist whose work offended many Muslims. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/world/jihadjane-colleen-larose-pleads-guilty-to-terror-charges/story-e6frg6so-1225998576541)
 

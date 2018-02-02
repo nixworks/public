@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/27/iraq-crisis-of-2003-regarding-the-disarmament-of-iraq-the-chief-weapons-inspector-hans-blix-says-the-results-in-terms-of-disarmament-ha.html)  [JSON](/news/2003/02/27/iraq-crisis-of-2003-regarding-the-disarmament-of-iraq-the-chief-weapons-inspector-hans-blix-says-the-results-in-terms-of-disarmament-ha.json)  [XML](/news/2003/02/27/iraq-crisis-of-2003-regarding-the-disarmament-of-iraq-the-chief-weapons-inspector-hans-blix-says-the-results-in-terms-of-disarmament-ha.xml)  
+
 ### [2003-02-27](/news/2003/02/27/index.md)
 
+##### Iraq crisis of 2003
 #  Iraq crisis of 2003: Regarding the disarmament of Iraq, the chief weapons inspector Hans Blix, says "The results in terms of disarmament have been very limited so far."
 
 

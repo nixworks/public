@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/10/36-people-killed-including-possibly-20-police-as-southern-sudan-votes-on-referendum-on-independence.html)  [JSON](/news/2011/01/10/36-people-killed-including-possibly-20-police-as-southern-sudan-votes-on-referendum-on-independence.json)  [XML](/news/2011/01/10/36-people-killed-including-possibly-20-police-as-southern-sudan-votes-on-referendum-on-independence.xml)  
+
 ### [2011-01-10](/news/2011/01/10/index.md)
 
+##### Southern Sudan
 # 36 people killed including possibly 20 police as Southern Sudan votes on referendum on independence. 
 
 At least 36 people have died in clashes near Sudan&#39;s north-south border, leaders in the contested Abyei region said on the second day of a week-long referendum on southern independence.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12150292)
 2. [MSNBC](http://www.msnbc.msn.com/id/40997347/ns/world_news-africa/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/22/2011-bahraini-uprising-the-bahraini-government-sentences-10-pro-democracy-activists-to-life-in-prison-for-their-role-in-the-uprising.html)  [JSON](/news/2011/06/22/2011-bahraini-uprising-the-bahraini-government-sentences-10-pro-democracy-activists-to-life-in-prison-for-their-role-in-the-uprising.json)  [XML](/news/2011/06/22/2011-bahraini-uprising-the-bahraini-government-sentences-10-pro-democracy-activists-to-life-in-prison-for-their-role-in-the-uprising.xml)  
+
 ### [2011-06-22](/news/2011/06/22/index.md)
 
+##### 2011 Bahraini uprising
 # 2011 Bahraini uprising: The Bahraini government sentences 10 pro-democracy activists to life in prison for their role in the uprising. 
 
 Protesters take to the streets, clashing with police after eight Shia activists are given life sentences.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/20116228219100399.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-13872206)

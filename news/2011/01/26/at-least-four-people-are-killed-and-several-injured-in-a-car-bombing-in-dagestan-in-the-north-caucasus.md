@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/26/at-least-four-people-are-killed-and-several-injured-in-a-car-bombing-in-dagestan-in-the-north-caucasus.html)  [JSON](/news/2011/01/26/at-least-four-people-are-killed-and-several-injured-in-a-car-bombing-in-dagestan-in-the-north-caucasus.json)  [XML](/news/2011/01/26/at-least-four-people-are-killed-and-several-injured-in-a-car-bombing-in-dagestan-in-the-north-caucasus.xml)  
+
 ### [2011-01-26](/news/2011/01/26/index.md)
 
+##### Dagestan
 # At least four people are killed and several injured in a car bombing in Dagestan in the North Caucasus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12294171)
 2. [RIA Novosti](http://en.rian.ru/russia/20110127/162323903.html)

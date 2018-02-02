@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/9/pink-floyd-take-legal-action-against-emi.html)  [JSON](/news/2010/03/9/pink-floyd-take-legal-action-against-emi.json)  [XML](/news/2010/03/9/pink-floyd-take-legal-action-against-emi.xml)  
+
 ### [2010-03-9](/news/2010/03/9/index.md)
 
+##### Pink Floyd
 # Pink Floyd take legal action against EMI. 
 
 British rock band Pink Floyd have launched legal action against record label EMI in a case that centres around how music is sold in the digital age.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/03/10/2841310.htm?section=world)
 2. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8558480.stm)

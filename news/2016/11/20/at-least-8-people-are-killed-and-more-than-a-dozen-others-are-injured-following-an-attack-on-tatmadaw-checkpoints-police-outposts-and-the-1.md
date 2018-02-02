@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/20/at-least-8-people-are-killed-and-more-than-a-do
 
 ### [2016-11-20](/news/2016/11/20/index.md)
 
+##### Internal conflict in Myanmar
 # At least 8 people are killed and more than a dozen others are injured following an attack on Tatmadaw checkpoints, police outposts and the 105th Mile Trade Center by several insurgent groups in Muse, Shan State. The State Counselor's office issues a statement claiming that the Kachin Independence Army, Ta'ang National Liberation Army and Myanmar National Democratic Alliance Army were involved in the attack. 
 
 

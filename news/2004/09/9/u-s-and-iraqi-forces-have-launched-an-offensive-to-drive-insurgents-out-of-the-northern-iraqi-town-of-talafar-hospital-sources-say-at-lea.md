@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/9/u-s-and-iraqi-forces-have-launched-an-offensive-to-drive-insurgents-out-of-the-northern-iraqi-town-of-talafar-hospital-sources-say-at-lea.html)  [JSON](/news/2004/09/9/u-s-and-iraqi-forces-have-launched-an-offensive-to-drive-insurgents-out-of-the-northern-iraqi-town-of-talafar-hospital-sources-say-at-lea.json)  [XML](/news/2004/09/9/u-s-and-iraqi-forces-have-launched-an-offensive-to-drive-insurgents-out-of-the-northern-iraqi-town-of-talafar-hospital-sources-say-at-lea.xml)  
+
 ### [2004-09-9](/news/2004/09/9/index.md)
 
+##### Iraq
 #  U.S. and Iraqi forces have launched an offensive to drive insurgents out of the northern Iraqi town of Talafar. Hospital sources say at least 17 people have been killed including several women and children. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3640146.stm)
 

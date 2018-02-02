@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/17/taiwan-prepares-to-permanently-ban-killing-of-poultry-in-traditional-markets-amid-concerns-over-the-spread-of-the-h7n9-avian-flu-virus-in-ma.html)  [JSON](/news/2013/04/17/taiwan-prepares-to-permanently-ban-killing-of-poultry-in-traditional-markets-amid-concerns-over-the-spread-of-the-h7n9-avian-flu-virus-in-ma.json)  [XML](/news/2013/04/17/taiwan-prepares-to-permanently-ban-killing-of-poultry-in-traditional-markets-amid-concerns-over-the-spread-of-the-h7n9-avian-flu-virus-in-ma.xml)  
+
 ### [2013-04-17](/news/2013/04/17/index.md)
 
+##### Taiwan
 # Taiwan prepares to permanently ban killing of poultry in traditional markets amid concerns over the spread of the H7N9 avian flu virus in mainland China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/taiwan-to-ban-killing-of-live-poultry-in/640392.html)
 

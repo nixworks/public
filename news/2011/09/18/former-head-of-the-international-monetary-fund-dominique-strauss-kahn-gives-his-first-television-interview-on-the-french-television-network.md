@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/18/former-head-of-the-international-monetary-fund-dominique-strauss-kahn-gives-his-first-television-interview-on-the-french-television-network.html)  [JSON](/news/2011/09/18/former-head-of-the-international-monetary-fund-dominique-strauss-kahn-gives-his-first-television-interview-on-the-french-television-network.json)  [XML](/news/2011/09/18/former-head-of-the-international-monetary-fund-dominique-strauss-kahn-gives-his-first-television-interview-on-the-french-television-network.xml)  
+
 ### [2011-09-18](/news/2011/09/18/index.md)
 
+##### International Monetary Fund
 # Former head of the International Monetary Fund Dominique Strauss-Kahn gives his first television interview on the French television network TF1 since rape charges against him were dropped in New York City. 
 
 Ex-IMF chief Dominique Strauss-Kahn tells French TV his liaison with a New York hotel maid was a &quot;moral failing&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14963176)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55444000/jpg/_55444091_55444090.jpg)

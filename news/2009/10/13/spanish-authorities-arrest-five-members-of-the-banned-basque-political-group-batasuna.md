@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/13/spanish-authorities-arrest-five-members-of-the-banned-basque-political-group-batasuna.html)  [JSON](/news/2009/10/13/spanish-authorities-arrest-five-members-of-the-banned-basque-political-group-batasuna.json)  [XML](/news/2009/10/13/spanish-authorities-arrest-five-members-of-the-banned-basque-political-group-batasuna.xml)  
+
 ### [2009-10-13](/news/2009/10/13/index.md)
 
+##### Spain
 #  Spanish authorities arrest five members of the banned Basque political group Batasuna. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8305988.stm)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=108601&sectionid=351020606)

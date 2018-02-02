@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/01/25/the-anti-austerity-syriza-party-wins-a-plurality-in-the-2015-greek-legislative-elections.html)  [JSON](/news/2015/01/25/the-anti-austerity-syriza-party-wins-a-plurality-in-the-2015-greek-legislative-elections.json)  [XML](/news/2015/01/25/the-anti-austerity-syriza-party-wins-a-plurality-in-the-2015-greek-legislative-elections.xml)  
+
 ### [2015-01-25](/news/2015/01/25/index.md)
 
+##### SYRIZA
 # The anti-austerity SYRIZA party wins a plurality in the 2015 Greek legislative elections. 
 
 Greek leftist leader Alexis Tsipras promised on Sunday that five years of austerity, &quot;humiliation and suffering&quot; imposed by international creditors were over after his Syriza party swept to victory in a snap election on Sunday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/01/25/us-greece-election-idUSKBN0KY00520150125)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150125&t=2&i=1019832877&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0O0GO)
+1. [Reuters](https://www.reuters.com/article/2015/01/25/us-greece-election-idUSKBN0KY00520150125)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150125&t=2&i=1019832877&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0O0GO)
 
 ### Related:
 

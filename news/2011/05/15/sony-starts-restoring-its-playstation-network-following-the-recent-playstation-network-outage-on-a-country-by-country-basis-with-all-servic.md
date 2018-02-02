@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/15/sony-starts-restoring-its-playstation-network-following-the-recent-playstation-network-outage-on-a-country-by-country-basis-with-all-servic.html)  [JSON](/news/2011/05/15/sony-starts-restoring-its-playstation-network-following-the-recent-playstation-network-outage-on-a-country-by-country-basis-with-all-servic.json)  [XML](/news/2011/05/15/sony-starts-restoring-its-playstation-network-following-the-recent-playstation-network-outage-on-a-country-by-country-basis-with-all-servic.xml)  
+
 ### [2011-05-15](/news/2011/05/15/index.md)
 
+##### Sony
 # Sony starts restoring its PlayStation Network following the recent PlayStation Network outage on a country-by-country basis, with all services to be restored by the end of May. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via MSNBC](http://today.msnbc.msn.com/id/33978506)
 2. [The Australian](http://www.theaustralian.com.au/australian-it/japan-stalls-sony-playstation-restart/story-e6frgakx-1226056625499)

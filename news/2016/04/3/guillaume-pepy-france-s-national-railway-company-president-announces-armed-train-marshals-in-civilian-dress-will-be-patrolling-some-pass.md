@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/3/guillaume-pepy-france-s-national-railway-company
 
 ### [2016-04-3](/news/2016/04/3/index.md)
 
+##### Guillaume Pepy
 # Guillaume Pepy, France's national railway company president, announces armed train marshals, in civilian dress, will be patrolling some passenger trains. 
 
 PARIS (AP) — The head of the French national rail service says that train marshals, armed and allowed to use their weapons, will be patrolling some passenger trains, one of a series of new security measures. Guillaume…

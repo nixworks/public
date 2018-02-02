@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/05/28/the-body-of-canadian-diplomat-lewis-brooke-miskell-is-found-in-naples-italy-three-months-after-his-disappearance.html)  [JSON](/news/2006/05/28/the-body-of-canadian-diplomat-lewis-brooke-miskell-is-found-in-naples-italy-three-months-after-his-disappearance.json)  [XML](/news/2006/05/28/the-body-of-canadian-diplomat-lewis-brooke-miskell-is-found-in-naples-italy-three-months-after-his-disappearance.xml)  
+
 ### [2006-05-28](/news/2006/05/28/index.md)
 
+##### Canadian
 #  The body of Canadian diplomat Lewis Brooke Miskell is found in Naples, Italy, three months after his disappearance. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20060528.wnaples0528/BNStory/National/home)
+1. [Globe and Mail](https://www.theglobeandmail.com/servlet/story/RTGAM.20060528.wnaples0528/BNStory/National/home)
 
 ### Related:
 

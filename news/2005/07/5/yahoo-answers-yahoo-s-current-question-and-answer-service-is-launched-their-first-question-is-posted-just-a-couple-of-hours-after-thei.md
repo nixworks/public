@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/07/5/yahoo-answers-yahoo-s-current-question-and-answer-service-is-launched-their-first-question-is-posted-just-a-couple-of-hours-after-thei.html)  [JSON](/news/2005/07/5/yahoo-answers-yahoo-s-current-question-and-answer-service-is-launched-their-first-question-is-posted-just-a-couple-of-hours-after-thei.json)  [XML](/news/2005/07/5/yahoo-answers-yahoo-s-current-question-and-answer-service-is-launched-their-first-question-is-posted-just-a-couple-of-hours-after-thei.xml)  
+
 ### [2005-07-5](/news/2005/07/5/index.md)
 
+##### Yahoo! Answers
 #  Yahoo! Answers, Yahoo!'s current question-and-answer service, is launched. Their first question is posted just a couple of hours after their 9 A.M. launch time.
 
 

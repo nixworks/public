@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/8/at-least-45-000-people-evacuate-as-war-between-the-government-and-the-taliban-continues-in-swat-pakistan.html)  [JSON](/news/2009/05/8/at-least-45-000-people-evacuate-as-war-between-the-government-and-the-taliban-continues-in-swat-pakistan.json)  [XML](/news/2009/05/8/at-least-45-000-people-evacuate-as-war-between-the-government-and-the-taliban-continues-in-swat-pakistan.xml)  
+
 ### [2009-05-8](/news/2009/05/8/index.md)
 
+##### evacuation centers
 #  At least 45,000 people evacuate as war between the government and the Taliban continues in Swat, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Pakistan-Thousands-Flee-Fighting-Between-Government-Forces-And-The-Taliban-In-Swat-Valley/Article/200905115277489?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15277489_Pakistan%3A_Thousands_Flee_Fighting_Between_Government_Forces_And_The_Taliban_In_Swat_Valley)
 

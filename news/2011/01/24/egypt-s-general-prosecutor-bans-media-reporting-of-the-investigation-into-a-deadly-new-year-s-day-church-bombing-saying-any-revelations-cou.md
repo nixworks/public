@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/24/egypt-s-general-prosecutor-bans-media-reporting-of-the-investigation-into-a-deadly-new-year-s-day-church-bombing-saying-any-revelations-cou.html)  [JSON](/news/2011/01/24/egypt-s-general-prosecutor-bans-media-reporting-of-the-investigation-into-a-deadly-new-year-s-day-church-bombing-saying-any-revelations-cou.json)  [XML](/news/2011/01/24/egypt-s-general-prosecutor-bans-media-reporting-of-the-investigation-into-a-deadly-new-year-s-day-church-bombing-saying-any-revelations-cou.xml)  
+
 ### [2011-01-24](/news/2011/01/24/index.md)
 
+##### Egypt
 # Egypt's general prosecutor bans media reporting of the investigation into a deadly New Year's Day church bombing, saying any revelations could hinder the work of investigators, a day after Egypt's government accused a Palestinian militant group, the Army of Islam, of carrying out the bombing with the help of a local accomplice. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE70N0L220110124)
 

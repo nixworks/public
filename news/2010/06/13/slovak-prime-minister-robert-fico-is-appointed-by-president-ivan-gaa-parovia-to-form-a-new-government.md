@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/13/slovak-prime-minister-robert-fico-is-appointed-by-president-ivan-gaa-parovia-to-form-a-new-government.html)  [JSON](/news/2010/06/13/slovak-prime-minister-robert-fico-is-appointed-by-president-ivan-gaa-parovia-to-form-a-new-government.json)  [XML](/news/2010/06/13/slovak-prime-minister-robert-fico-is-appointed-by-president-ivan-gaa-parovia-to-form-a-new-government.xml)  
+
 ### [2010-06-13](/news/2010/06/13/index.md)
 
+##### Slovakia
 # Slovak Prime Minister Robert Fico is appointed by President Ivan Gasparovic to form a new government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/13/c_13349034.htm)
 

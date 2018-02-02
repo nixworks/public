@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/25/the-head-of-the-african-union-travels-to-ivory-coast-to-visit-laurent-gbagbo-and-alassane-ouattara-who-both-claim-to-be-the-country-s-presid.html)  [JSON](/news/2011/01/25/the-head-of-the-african-union-travels-to-ivory-coast-to-visit-laurent-gbagbo-and-alassane-ouattara-who-both-claim-to-be-the-country-s-presid.json)  [XML](/news/2011/01/25/the-head-of-the-african-union-travels-to-ivory-coast-to-visit-laurent-gbagbo-and-alassane-ouattara-who-both-claim-to-be-the-country-s-presid.xml)  
+
 ### [2011-01-25](/news/2011/01/25/index.md)
 
+##### African Union
 # The head of the African Union travels to Ivory Coast to visit Laurent Gbagbo and Alassane Ouattara who both claim to be the country's president. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i4_lBRHNH2P-wEiqv6twyrjcKFDg?docId=CNG.6c85e79129d810fb6eaee39c9052d602.961)
 

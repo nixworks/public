@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/6/the-new-york-court-of-appeals-rules-in-a-4-2-decision-that-gay-marriage-is-not-allowed-under-state-law.html)  [JSON](/news/2006/07/6/the-new-york-court-of-appeals-rules-in-a-4-2-decision-that-gay-marriage-is-not-allowed-under-state-law.json)  [XML](/news/2006/07/6/the-new-york-court-of-appeals-rules-in-a-4-2-decision-that-gay-marriage-is-not-allowed-under-state-law.xml)  
+
 ### [2006-07-6](/news/2006/07/6/index.md)
 
+##### New York Court of Appeals
 #  The New York Court of Appeals rules in a 4-2 decision that gay marriage is not allowed under state law. 
 
 Follow all the latest news on Long Island with Newsday. Read top local stories, watch video, and see pictures from all around Nassau and Suffolk counties.
 
 
-### Source:
+### Sources:
 
 1. [Newsday](http://www.newsday.com/news/local/state/ny-stgay0707,0,5118918,print.story?coll=ny-top-headlines)
 1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)

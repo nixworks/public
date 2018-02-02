@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/26/the-emperor-of-exmoor-a-red-deer-believed-to-be-britain-s-largest-wild-animal-is-shot-and-killed.html)  [JSON](/news/2010/10/26/the-emperor-of-exmoor-a-red-deer-believed-to-be-britain-s-largest-wild-animal-is-shot-and-killed.json)  [XML](/news/2010/10/26/the-emperor-of-exmoor-a-red-deer-believed-to-be-britain-s-largest-wild-animal-is-shot-and-killed.xml)  
+
 ### [2010-10-26](/news/2010/10/26/index.md)
 
+##### Emperor of Exmoor
 # The Emperor of Exmoor, a red deer believed to be Britain's largest wild animal, is shot and killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2010/oct/25/exmoor-emperor-stag-shot-dead)
 

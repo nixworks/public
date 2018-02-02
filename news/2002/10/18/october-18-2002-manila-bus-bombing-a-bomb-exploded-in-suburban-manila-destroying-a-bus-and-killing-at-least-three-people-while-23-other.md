@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/18/october-18-2002-manila-bus-bombing-a-bomb-exploded-in-suburban-manila-destroying-a-bus-and-killing-at-least-three-people-while-23-other.html)  [JSON](/news/2002/10/18/october-18-2002-manila-bus-bombing-a-bomb-exploded-in-suburban-manila-destroying-a-bus-and-killing-at-least-three-people-while-23-other.json)  [XML](/news/2002/10/18/october-18-2002-manila-bus-bombing-a-bomb-exploded-in-suburban-manila-destroying-a-bus-and-killing-at-least-three-people-while-23-other.xml)  
+
 ### [2002-10-18](/news/2002/10/18/index.md)
 
+##### October 18, 2002 Manila bus bombing
 #  October 18, 2002 Manila bus bombing: A bomb exploded in suburban Manila, destroying a bus and killing at least three people, while 23 others were wounded. A grenade exploded in the Philippine capital's financial district hours earlier. The bomb attacks occurred only one day after two deadly bombings in the southern Philippines.
 
 

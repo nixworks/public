@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/29/the-trial-of-sudanese-journalist-and-united-nations-worker-lubna-ahmed-hussein-who-faces-40-lashes-for-wearing-trousers-is-adjourned.html)  [JSON](/news/2009/07/29/the-trial-of-sudanese-journalist-and-united-nations-worker-lubna-ahmed-hussein-who-faces-40-lashes-for-wearing-trousers-is-adjourned.json)  [XML](/news/2009/07/29/the-trial-of-sudanese-journalist-and-united-nations-worker-lubna-ahmed-hussein-who-faces-40-lashes-for-wearing-trousers-is-adjourned.xml)  
+
 ### [2009-07-29](/news/2009/07/29/index.md)
 
+##### Sudan
 #  The trial of Sudanese journalist and United Nations worker Lubna Ahmed Hussein, who faces 40 lashes for wearing trousers, is adjourned. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8173714.stm)
 

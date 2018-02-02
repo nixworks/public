@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/24/the-cheonan-which-was-destroyed-in-the-baengnyeong-incident-is-recovered.html)  [JSON](/news/2010/04/24/the-cheonan-which-was-destroyed-in-the-baengnyeong-incident-is-recovered.json)  [XML](/news/2010/04/24/the-cheonan-which-was-destroyed-in-the-baengnyeong-incident-is-recovered.xml)  
+
 ### [2010-04-24](/news/2010/04/24/index.md)
 
+##### Cheonan
 # The "Cheonan", which was destroyed in the Baengnyeong incident, is recovered. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/South-Korea-Recovers-Final-Half-Of-Sunken-Warship-Navys-Cheonan-Blew-Up-In-Disputed-Border-Waters/Article/201004415619004?lpos=World_News_First_Home_Article_Teaser_Region_6&lid=ARTICLE_15619004_South_Korea_Recovers_Final_Half_Of_Sunken_Warship%3A_Navys_Cheonan_Blew_Up_In_Disputed_Border_Waters)
 

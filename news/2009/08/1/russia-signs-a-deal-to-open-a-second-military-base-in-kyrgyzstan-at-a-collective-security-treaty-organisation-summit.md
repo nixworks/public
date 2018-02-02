@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/1/russia-signs-a-deal-to-open-a-second-military-base-in-kyrgyzstan-at-a-collective-security-treaty-organisation-summit.html)  [JSON](/news/2009/08/1/russia-signs-a-deal-to-open-a-second-military-base-in-kyrgyzstan-at-a-collective-security-treaty-organisation-summit.json)  [XML](/news/2009/08/1/russia-signs-a-deal-to-open-a-second-military-base-in-kyrgyzstan-at-a-collective-security-treaty-organisation-summit.xml)  
+
 ### [2009-08-1](/news/2009/08/1/index.md)
 
+##### Russia
 #  Russia signs a deal to open a second military base in Kyrgyzstan at a Collective Security Treaty Organisation summit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iTal4FD7pTfRyGnwwO8Nbac-w-IgD99PUQIO0)
 

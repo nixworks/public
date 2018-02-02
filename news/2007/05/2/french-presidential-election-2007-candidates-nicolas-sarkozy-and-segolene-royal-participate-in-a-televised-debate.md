@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/2/french-presidential-election-2007-candidates-nicolas-sarkozy-and-segolene-royal-participate-in-a-televised-debate.html)  [JSON](/news/2007/05/2/french-presidential-election-2007-candidates-nicolas-sarkozy-and-segolene-royal-participate-in-a-televised-debate.json)  [XML](/news/2007/05/2/french-presidential-election-2007-candidates-nicolas-sarkozy-and-segolene-royal-participate-in-a-televised-debate.xml)  
+
 ### [2007-05-2](/news/2007/05/2/index.md)
 
+##### 2007 presidential election
 #  French presidential election, 2007: Candidates Nicolas Sarkozy and Sgolne Royal participate in a televised debate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6614709.stm)
 2. [CNN](http://edition.cnn.com/2007/WORLD/europe/05/02/france.campaign/index.html)

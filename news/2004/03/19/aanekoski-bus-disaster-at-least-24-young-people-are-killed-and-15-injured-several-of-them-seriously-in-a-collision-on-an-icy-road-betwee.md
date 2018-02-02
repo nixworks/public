@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/19/aanekoski-bus-disaster-at-least-24-young-people-are-killed-and-15-injured-several-of-them-seriously-in-a-collision-on-an-icy-road-betwee.html)  [JSON](/news/2004/03/19/aanekoski-bus-disaster-at-least-24-young-people-are-killed-and-15-injured-several-of-them-seriously-in-a-collision-on-an-icy-road-betwee.json)  [XML](/news/2004/03/19/aanekoski-bus-disaster-at-least-24-young-people-are-killed-and-15-injured-several-of-them-seriously-in-a-collision-on-an-icy-road-betwee.xml)  
+
 ### [2004-03-19](/news/2004/03/19/index.md)
 
+##### nekoski bus disaster
 #  nekoski bus disaster: At least 24 young people are killed and 15 injured, several of them seriously, in a collision on an icy road between a coach and a lorry carrying rolls of paper on Highway 4 near nekoski in Central Finland. The accident happened at around 2 a.m. local time (UTC +2). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3549379.stm)
 2. [Helsingin Sanomat](http://www.helsinki-hs.net/news.asp?id=20040318IE8)

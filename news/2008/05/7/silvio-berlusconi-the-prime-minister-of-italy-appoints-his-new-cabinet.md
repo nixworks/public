@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/7/silvio-berlusconi-the-prime-minister-of-italy-appoints-his-new-cabinet.html)  [JSON](/news/2008/05/7/silvio-berlusconi-the-prime-minister-of-italy-appoints-his-new-cabinet.json)  [XML](/news/2008/05/7/silvio-berlusconi-the-prime-minister-of-italy-appoints-his-new-cabinet.xml)  
+
 ### [2008-05-7](/news/2008/05/7/index.md)
 
+##### Silvio Berlusconi
 #  Silvio Berlusconi, the Prime Minister of Italy, appoints his new Cabinet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The International Herald Tribune](http://www.iht.com/articles/ap/2008/05/07/europe/EU-POL-Italy-Government-Thumbnails.php)
 

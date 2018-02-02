@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/05/29/silk-road-founder-ross-ulbricht-is-given-a-life-sentence-after-being-convicted-for-narcotics-trafficking.html)  [JSON](/news/2015/05/29/silk-road-founder-ross-ulbricht-is-given-a-life-sentence-after-being-convicted-for-narcotics-trafficking.json)  [XML](/news/2015/05/29/silk-road-founder-ross-ulbricht-is-given-a-life-sentence-after-being-convicted-for-narcotics-trafficking.xml)  
+
 ### [2015-05-29](/news/2015/05/29/index.md)
 
+##### Silk Road
 # Silk Road founder Ross Ulbricht is given a life sentence after being convicted for narcotics trafficking. 
 
 Ross Ulbricht, founder and mastermind of the Silk Road, has been sentenced to life in prison after being found guilty of narcotics conspiracy and other charges earlier this year. Those charges came...
 
 
-### Source:
+### Sources:
 
-1. [The Verge](http://www.theverge.com/2015/5/29/8687583/prison-sentence-ross-ulbricht-guilty-silk-road-dread-pirate-roberts)
-1. [Cover Image](https://cdn0.vox-cdn.com/thumbor/LIOvidKDKVyUtiFOEvlRT9QrBAo=/0x19:560x334/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/46427540/ross_ulbricht_woods.0.JPG)
+1. [The Verge](https://www.theverge.com/2015/5/29/8687583/prison-sentence-ross-ulbricht-guilty-silk-road-dread-pirate-roberts)
+1. [Cover Image](https://cdn.vox-cdn.com/thumbor/olCmJ40MoF3Mr2qzQynNEXHhx8Y=/0x19:560x334/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/46427540/ross_ulbricht_woods.0.JPG)
 
 ### Related:
 

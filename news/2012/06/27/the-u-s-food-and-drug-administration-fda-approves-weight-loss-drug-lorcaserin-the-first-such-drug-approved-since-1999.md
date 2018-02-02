@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/06/27/the-u-s-food-and-drug-administration-fda-approves-weight-loss-drug-lorcaserin-the-first-such-drug-approved-since-1999.html)  [JSON](/news/2012/06/27/the-u-s-food-and-drug-administration-fda-approves-weight-loss-drug-lorcaserin-the-first-such-drug-approved-since-1999.json)  [XML](/news/2012/06/27/the-u-s-food-and-drug-administration-fda-approves-weight-loss-drug-lorcaserin-the-first-such-drug-approved-since-1999.xml)  
+
 ### [2012-06-27](/news/2012/06/27/index.md)
 
+##### Food and Drug Administration
 # The U.S. Food and Drug Administration (FDA) approves weight loss drug lorcaserin, the first such drug approved since 1999. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/06/27/us-arena-obesity-idUSBRE85Q1AA20120627)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120627&t=2&i=623877925&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE85Q1IHY00)
+1. [Reuters](https://www.reuters.com/article/2012/06/27/us-arena-obesity-idUSBRE85Q1AA20120627)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120627&t=2&i=623877925&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE85Q1IHY00)
 
 ### Related:
 

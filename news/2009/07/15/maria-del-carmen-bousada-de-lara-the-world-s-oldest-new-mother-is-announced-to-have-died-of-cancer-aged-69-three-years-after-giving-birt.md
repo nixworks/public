@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/15/maria-del-carmen-bousada-de-lara-the-world-s-oldest-new-mother-is-announced-to-have-died-of-cancer-aged-69-three-years-after-giving-birt.html)  [JSON](/news/2009/07/15/maria-del-carmen-bousada-de-lara-the-world-s-oldest-new-mother-is-announced-to-have-died-of-cancer-aged-69-three-years-after-giving-birt.json)  [XML](/news/2009/07/15/maria-del-carmen-bousada-de-lara-the-world-s-oldest-new-mother-is-announced-to-have-died-of-cancer-aged-69-three-years-after-giving-birt.xml)  
+
 ### [2009-07-15](/news/2009/07/15/index.md)
 
+##### Maria del Carmen Bousada de Lara
 #  Maria del Carmen Bousada de Lara, the world's oldest new mother, is announced to have died of cancer aged 69, three years after giving birth. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/health/8152002.stm)
 

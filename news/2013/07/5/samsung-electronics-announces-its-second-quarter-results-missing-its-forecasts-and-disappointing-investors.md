@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/07/5/samsung-electronics-announces-its-second-quarter-results-missing-its-forecasts-and-disappointing-investors.html)  [JSON](/news/2013/07/5/samsung-electronics-announces-its-second-quarter-results-missing-its-forecasts-and-disappointing-investors.json)  [XML](/news/2013/07/5/samsung-electronics-announces-its-second-quarter-results-missing-its-forecasts-and-disappointing-investors.xml)  
+
 ### [2013-07-5](/news/2013/07/5/index.md)
 
+##### Samsung
 # Samsung Electronics announces its second quarter results, missing its forecasts and disappointing investors. 
 
 Samsung Electronics Co Ltd missed already modest expectations for its quarterly earnings guidance on Friday, deepening worries that its smartphone business may have peaked, as growth in sales of its blockbuster Galaxy phones begins to wane and new rivals emerge to eat away at its market share.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/07/05/us-samsung-guidance-idUSBRE9630T920130705)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130704&t=2&i=747695223&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9631U1H00)
+1. [Reuters](https://www.reuters.com/article/2013/07/05/us-samsung-guidance-idUSBRE9630T920130705)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130704&t=2&i=747695223&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9631U1H00)
 
 ### Related:
 

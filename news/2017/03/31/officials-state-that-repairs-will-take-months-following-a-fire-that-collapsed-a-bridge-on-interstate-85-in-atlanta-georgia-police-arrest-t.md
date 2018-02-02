@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/31/officials-state-that-repairs-will-take-months-f
 
 ### [2017-03-31](/news/2017/03/31/index.md)
 
+##### Interstate 85 bridge collapse
 # Officials state that repairs will take months following a fire that collapsed a bridge on Interstate 85 in Atlanta, Georgia. Police arrest three individuals in connection with the disaster, charging two with criminal trespass and one with first degree criminal damage. 
 
 

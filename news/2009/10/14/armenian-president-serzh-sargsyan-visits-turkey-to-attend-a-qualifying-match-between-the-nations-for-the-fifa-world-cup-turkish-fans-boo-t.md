@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/14/armenian-president-serzh-sargsyan-visits-turkey-to-attend-a-qualifying-match-between-the-nations-for-the-fifa-world-cup-turkish-fans-boo-t.html)  [JSON](/news/2009/10/14/armenian-president-serzh-sargsyan-visits-turkey-to-attend-a-qualifying-match-between-the-nations-for-the-fifa-world-cup-turkish-fans-boo-t.json)  [XML](/news/2009/10/14/armenian-president-serzh-sargsyan-visits-turkey-to-attend-a-qualifying-match-between-the-nations-for-the-fifa-world-cup-turkish-fans-boo-t.xml)  
+
 ### [2009-10-14](/news/2009/10/14/index.md)
 
+##### Armenia
 #  Armenian President Serzh Sargsyan visits Turkey to attend a qualifying match between the nations for the FIFA World Cup. Turkish fans boo the Armenian anthem. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8307259.stm)
 

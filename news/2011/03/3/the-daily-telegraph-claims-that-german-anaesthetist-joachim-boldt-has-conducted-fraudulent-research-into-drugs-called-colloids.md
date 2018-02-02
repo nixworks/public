@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/3/the-daily-telegraph-claims-that-german-anaesthetist-joachim-boldt-has-conducted-fraudulent-research-into-drugs-called-colloids.html)  [JSON](/news/2011/03/3/the-daily-telegraph-claims-that-german-anaesthetist-joachim-boldt-has-conducted-fraudulent-research-into-drugs-called-colloids.json)  [XML](/news/2011/03/3/the-daily-telegraph-claims-that-german-anaesthetist-joachim-boldt-has-conducted-fraudulent-research-into-drugs-called-colloids.xml)  
+
 ### [2011-03-3](/news/2011/03/3/index.md)
 
+##### Daily Telegraph
 # "The Daily Telegraph" claims that German anaesthetist Joachim Boldt has conducted "fraudulent research" into drugs called colloids. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/health/8360667/Millions-of-surgery-patients-at-risk-in-drug-research-fraud-scandal.html#)
 

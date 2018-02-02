@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/4/j-k-rowling-leaves-her-agent-christopher-little-after-15-years.html)  [JSON](/news/2011/07/4/j-k-rowling-leaves-her-agent-christopher-little-after-15-years.json)  [XML](/news/2011/07/4/j-k-rowling-leaves-her-agent-christopher-little-after-15-years.xml)  
+
 ### [2011-07-4](/news/2011/07/4/index.md)
 
+##### J. K. Rowling
 # J. K. Rowling leaves her agent Christopher Little after 15 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/books/2011/jul/04/harry-potter-jk-rowling-agent)
 

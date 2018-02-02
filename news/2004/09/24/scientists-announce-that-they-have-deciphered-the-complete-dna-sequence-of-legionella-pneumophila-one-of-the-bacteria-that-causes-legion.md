@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/24/scientists-announce-that-they-have-deciphered-the-complete-dna-sequence-of-legionella-pneumophila-one-of-the-bacteria-that-causes-legion.html)  [JSON](/news/2004/09/24/scientists-announce-that-they-have-deciphered-the-complete-dna-sequence-of-legionella-pneumophila-one-of-the-bacteria-that-causes-legion.json)  [XML](/news/2004/09/24/scientists-announce-that-they-have-deciphered-the-complete-dna-sequence-of-legionella-pneumophila-one-of-the-bacteria-that-causes-legion.xml)  
+
 ### [2004-09-24](/news/2004/09/24/index.md)
 
+##### DNA sequence
 #  Scientists announce that they have deciphered the complete DNA sequence of "Legionella pneumophila," one of the bacteria that causes Legionnaires' Disease. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/3677756.stm)
 

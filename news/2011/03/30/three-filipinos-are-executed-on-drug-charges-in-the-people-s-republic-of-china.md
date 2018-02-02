@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/30/three-filipinos-are-executed-on-drug-charges-in-the-people-s-republic-of-china.html)  [JSON](/news/2011/03/30/three-filipinos-are-executed-on-drug-charges-in-the-people-s-republic-of-china.json)  [XML](/news/2011/03/30/three-filipinos-are-executed-on-drug-charges-in-the-people-s-republic-of-china.xml)  
+
 ### [2011-03-30](/news/2011/03/30/index.md)
 
+##### Filipino
 # Three Filipinos are executed on drug charges in the People's Republic of China. 
 
 Vice President Jejomar Binay confirms that the three convicted Filipino drug mules were executed in China.
 
 
-### Source:
+### Sources:
 
 1. [Yahoo! News Philippines](http://ph.news.yahoo.com/binay-confirms-3-filipinos-were-executed-in-china.html)
 

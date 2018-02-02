@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/25/gus-van-sant-is-awarded-the-palme-d-or-at-the-cannes-film-festival-for-his-film-elephant.html)  [JSON](/news/2003/05/25/gus-van-sant-is-awarded-the-palme-d-or-at-the-cannes-film-festival-for-his-film-elephant.json)  [XML](/news/2003/05/25/gus-van-sant-is-awarded-the-palme-d-or-at-the-cannes-film-festival-for-his-film-elephant.xml)  
+
 ### [2003-05-25](/news/2003/05/25/index.md)
 
+##### Gus Van Sant
 #  Gus Van Sant is awarded the "Palme d'Or" at the Cannes Film Festival for his film "Elephant"
 
 

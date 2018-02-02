@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/30/a-car-bomb-explodes-outside-the-president-of-so
 
 ### [2016-08-30](/news/2016/08/30/index.md)
 
+##### War in Somalia (2009-present)
 # A car bomb explodes outside the President of Somalia's compound in Mogadishu claiming at least ten people's lives. Al Shabaab has claimed responsibility for the attack. 
 
 
@@ -19,8 +20,8 @@ Formats: [HTML](/news/2016/08/30/a-car-bomb-explodes-outside-the-president-of-so
 
 ### Related:
 
-1. [A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md) _Context: Mogadishu, President of Somalia, War in Somalia (2009-present), car bomb_
-2. [Al-Shabaab Islamic militants storm the presidential palace in Mogadishu with heavy gunfire as government troops try to repel them. ](/news/2014/07/8/al-shabaab-islamic-militants-storm-the-presidential-palace-in-mogadishu-with-heavy-gunfire-as-government-troops-try-to-repel-them.md) _Context: Al-Shabaab, Mogadishu, President of Somalia, War in Somalia (2009-present)_
-3. [A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu. ](/news/2017/05/6/a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-and-three-others-are-injured-in-a.md) _Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
-4. [A car bomb explodes outside the Ministry of Defence in Mogadishu, killing at least 15 people. Al-Shabaab claims responsibility for the attack. ](/news/2017/04/9/a-car-bomb-explodes-outside-the-ministry-of-defence-in-mogadishu-killing-at-least-15-people-al-shabaab-claims-responsibility-for-the-attac.md) _Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
-5. [A suicide bomber attacks a military training camp in Mogadishu, killing at least nine soldiers. Al-Shabaab claimed responsibility for the attack. ](/news/2017/04/10/a-suicide-bomber-attacks-a-military-training-camp-in-mogadishu-killing-at-least-nine-soldiers-al-shabaab-claimed-responsibility-for-the-at.md) _Context: Al-Shabaab, Mogadishu, War in Somalia (2009-present)_
+1. [A car bomb in Somalia kills at least six people at the gates of the presidential palace in Mogadishu. ](/news/2015/09/21/a-car-bomb-in-somalia-kills-at-least-six-people-at-the-gates-of-the-presidential-palace-in-mogadishu.md) _Context: Mogadishu, President, War in Somalia (2009-present), car bomb_
+2. [A car bomb explodes at a checkpoint near the Villa Somalia, the President of Somalia Mohamed Abdullahi Mohamed's official residence in Mogadishu, killing at least five people. ](/news/2017/03/21/a-car-bomb-explodes-at-a-checkpoint-near-the-villa-somalia-the-president-of-somalia-mohamed-abdullahi-mohamed-s-official-residence-in-mogad.md) _Context: Mogadishu, President, car bomb_
+3. [Al-Shabaab Islamic militants storm the presidential palace in Mogadishu with heavy gunfire as government troops try to repel them. ](/news/2014/07/8/al-shabaab-islamic-militants-storm-the-presidential-palace-in-mogadishu-with-heavy-gunfire-as-government-troops-try-to-repel-them.md) _Context: Mogadishu, President, War in Somalia (2009-present)_
+4. [President Mohamed Abdullahi Mohamed fires Taabit Abdi Mohamed as mayor of Mogadishu and replaces him with his information minister, Abdirahman Omar Osman. ](/news/2018/01/21/president-mohamed-abdullahi-mohamed-fires-taabit-abdi-mohamed-as-mayor-of-mogadishu-and-replaces-him-with-his-information-minister-abdirahm.md) _Context: Mogadishu, President_
+5. [A United States Navy SEAL is killed, becoming the first U.S. service member killed in Somalia since 1993, and three others are injured in a gunfight with al-Shabaab militants, west of Mogadishu. ](/news/2017/05/6/a-united-states-navy-seal-is-killed-becoming-the-first-u-s-service-member-killed-in-somalia-since-1993-and-three-others-are-injured-in-a.md) _Context: Mogadishu, War in Somalia (2009-present)_

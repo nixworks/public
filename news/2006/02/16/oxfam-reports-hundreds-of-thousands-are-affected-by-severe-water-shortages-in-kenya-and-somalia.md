@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/16/oxfam-reports-hundreds-of-thousands-are-affected-by-severe-water-shortages-in-kenya-and-somalia.html)  [JSON](/news/2006/02/16/oxfam-reports-hundreds-of-thousands-are-affected-by-severe-water-shortages-in-kenya-and-somalia.json)  [XML](/news/2006/02/16/oxfam-reports-hundreds-of-thousands-are-affected-by-severe-water-shortages-in-kenya-and-somalia.xml)  
+
 ### [2006-02-16](/news/2006/02/16/index.md)
 
+##### Oxfam
 #  Oxfam reports hundreds of thousands are affected by severe water shortages in Kenya and Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica.com](http://allafrica.com/stories/200602160191.html)
 

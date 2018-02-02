@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/31/thousands-of-protestors-gather-at-dataran-merdeka-kuala-lumpur-to-begin-protests-against-the-malaysian-government-s-introduction-of-price-h.html)  [JSON](/news/2013/12/31/thousands-of-protestors-gather-at-dataran-merdeka-kuala-lumpur-to-begin-protests-against-the-malaysian-government-s-introduction-of-price-h.json)  [XML](/news/2013/12/31/thousands-of-protestors-gather-at-dataran-merdeka-kuala-lumpur-to-begin-protests-against-the-malaysian-government-s-introduction-of-price-h.xml)  
+
 ### [2013-12-31](/news/2013/12/31/index.md)
 
+##### Dataran Merdeka
 # Thousands of protestors gather at Dataran Merdeka, Kuala Lumpur to begin protests against the Malaysian government's introduction of price hikes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/thousands-protest-price/939744.html)
 

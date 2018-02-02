@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/11/8/the-international-fund-for-animal-welfare-ifaw-says-that-the-tokyo-based-institute-of-cetacean-research-is-about-to-start-a-controversial.html)  [JSON](/news/2005/11/8/the-international-fund-for-animal-welfare-ifaw-says-that-the-tokyo-based-institute-of-cetacean-research-is-about-to-start-a-controversial.json)  [XML](/news/2005/11/8/the-international-fund-for-animal-welfare-ifaw-says-that-the-tokyo-based-institute-of-cetacean-research-is-about-to-start-a-controversial.xml)  
+
 ### [2005-11-8](/news/2005/11/8/index.md)
 
+##### International Fund for Animal Welfare
 #  The International Fund for Animal Welfare (IFAW) says that the Tokyo-based Institute of Cetacean Research is about to start a controversial program that could kill up to 940 whales in the name of scientific research, abusing the rights under the International Whaling Convention.
 
 

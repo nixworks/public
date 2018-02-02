@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/2/tropical-storm-emily-moves-towards-puerto-rico.html)  [JSON](/news/2011/08/2/tropical-storm-emily-moves-towards-puerto-rico.json)  [XML](/news/2011/08/2/tropical-storm-emily-moves-towards-puerto-rico.xml)  
+
 ### [2011-08-2](/news/2011/08/2/index.md)
 
+##### Tropical Storm Emily
 # Tropical Storm Emily moves towards Puerto Rico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NOAA](http://www.nhc.noaa.gov/text/refresh/MIATCPAT5+shtml/022339.shtml)
 

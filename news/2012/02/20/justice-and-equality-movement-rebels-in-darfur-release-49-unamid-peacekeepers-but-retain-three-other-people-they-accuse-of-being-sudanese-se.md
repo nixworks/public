@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/20/justice-and-equality-movement-rebels-in-darfur-release-49-unamid-peacekeepers-but-retain-three-other-people-they-accuse-of-being-sudanese-se.html)  [JSON](/news/2012/02/20/justice-and-equality-movement-rebels-in-darfur-release-49-unamid-peacekeepers-but-retain-three-other-people-they-accuse-of-being-sudanese-se.json)  [XML](/news/2012/02/20/justice-and-equality-movement-rebels-in-darfur-release-49-unamid-peacekeepers-but-retain-three-other-people-they-accuse-of-being-sudanese-se.xml)  
+
 ### [2012-02-20](/news/2012/02/20/index.md)
 
+##### Justice and Equality Movement
 # Justice and Equality Movement rebels in Darfur release 49 UNAMID peacekeepers but retain three other people they accuse of being Sudanese security agents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17103522)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58607000/jpg/_58607680_98907506.jpg)

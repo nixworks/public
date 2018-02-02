@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/12/iraq-s-constitutional-referendum-the-prospects-of-the-proposed-iraqi-constitution-being-approved-in-saturday-s-referendum-are-boosted-by-a.html)  [JSON](/news/2005/10/12/iraq-s-constitutional-referendum-the-prospects-of-the-proposed-iraqi-constitution-being-approved-in-saturday-s-referendum-are-boosted-by-a.json)  [XML](/news/2005/10/12/iraq-s-constitutional-referendum-the-prospects-of-the-proposed-iraqi-constitution-being-approved-in-saturday-s-referendum-are-boosted-by-a.xml)  
+
 ### [2005-10-12](/news/2005/10/12/index.md)
 
+##### in the vote held
 #  Iraq's Constitutional referendum: the prospects of the proposed Iraqi constitution being approved in Saturday's referendum are boosted by a deal struck with a major Sunni Arab party, the Iraqi Islamic Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/meast/10/11/iraq.main/index.html)
 

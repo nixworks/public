@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/21/heavy-smog-envelopes-the-chinese-city-of-harbin-leading-to-the-closure-of-schools-and-highways.html)  [JSON](/news/2013/10/21/heavy-smog-envelopes-the-chinese-city-of-harbin-leading-to-the-closure-of-schools-and-highways.json)  [XML](/news/2013/10/21/heavy-smog-envelopes-the-chinese-city-of-harbin-leading-to-the-closure-of-schools-and-highways.xml)  
+
 ### [2013-10-21](/news/2013/10/21/index.md)
 
+##### 2013 Harbin smog
 # Heavy smog envelopes the Chinese city of Harbin leading to the closure of schools and highways. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/china/2013-10/21/c_132815836.htm)
 

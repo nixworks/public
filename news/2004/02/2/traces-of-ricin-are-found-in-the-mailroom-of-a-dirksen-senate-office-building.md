@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/2/traces-of-ricin-are-found-in-the-mailroom-of-a-dirksen-senate-office-building.html)  [JSON](/news/2004/02/2/traces-of-ricin-are-found-in-the-mailroom-of-a-dirksen-senate-office-building.json)  [XML](/news/2004/02/2/traces-of-ricin-are-found-in-the-mailroom-of-a-dirksen-senate-office-building.xml)  
+
 ### [2004-02-2](/news/2004/02/2/index.md)
 
+##### ricin
 #  Traces of ricin are found in the mailroom of a Dirksen Senate Office Building.
 
 

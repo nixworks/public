@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/1/president-of-the-philippines-rodrigo-duterte-thr
 
 ### [2017-07-1](/news/2017/07/1/index.md)
 
+##### Freedom of speech in the Philippines
 # President of the Philippines Rodrigo Duterte threatens the "Philippine Daily Inquirer" with an expose. The newspaper has been a long-time ally of the politically prominent Aquino family (ever since the 1986 EDSA People Power Revolution), as well as the minority opposition Liberal Party (of which the Vice President of the Philippines Leni Robredo is its prominent member); both have been consistent in their criticisms of the Duterty presidency and its policies since its inauguration in 2016. 
 
 

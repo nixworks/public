@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/01/1/all-gabriele-d-annunzio-s-works-becomes-of-public-domain-since-it-has-been-70-years-since-his-death-in-1938.html)  [JSON](/news/2009/01/1/all-gabriele-d-annunzio-s-works-becomes-of-public-domain-since-it-has-been-70-years-since-his-death-in-1938.json)  [XML](/news/2009/01/1/all-gabriele-d-annunzio-s-works-becomes-of-public-domain-since-it-has-been-70-years-since-his-death-in-1938.xml)  
+
 ### [2009-01-1](/news/2009/01/1/index.md)
 
+##### Gabriele D'Annunzio
 #  All Gabriele D'Annunzio's works becomes of public domain, since it has been 70 years since his death in 1938.
 
 

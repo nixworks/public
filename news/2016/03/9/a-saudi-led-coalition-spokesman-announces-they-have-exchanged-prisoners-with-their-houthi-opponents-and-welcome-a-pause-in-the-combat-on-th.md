@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/9/a-saudi-led-coalition-spokesman-announces-they-h
 
 ### [2016-03-9](/news/2016/03/9/index.md)
 
+##### Saudi Arabian-led intervention in Yemen
 # A Saudi-led coalition spokesman announces they have exchanged prisoners with their Houthi opponents and "welcome a pause in the combat on the border." Saudi Foreign Minister Adel al-Jubeir said the lull was important to deliver aid and medical supplies to people in northern regions of Yemen. Yesterday, a Houthi delegation was in Saudi Arabia for talks to end the war. Al-Jubeir and his Yemeni counterpart noted formal negotiations to end the fighting can only take place under the auspices of the United Nations. 
 
 A Saudi-led coalition fighting in Yemen said on Wednesday it had exchanged prisoners with its Houthi opponents and also welcomed a pause in combat on the border, prompting hopes of a push to end the year-long war that has killed some 6,000 people.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/15/a-car-bomb-strikes-a-convoy-of-buses-near-alepp
 
 ### [2017-04-15](/news/2017/04/15/index.md)
 
+##### Syrian Civil War
 # A car bomb strikes a convoy of buses near Aleppo which were carrying evacuees from the pro-government towns of Al-Fu'ah and Kafriya. Over 100 people are killed. 
 
 A blast rips through buses carrying people from pro-government towns, waiting at a rebel checkpoint.

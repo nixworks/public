@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/23/former-icelandic-prime-minister-geir-haarde-is-found-not-guilty-of-negligence-over-the-island-s-2008-economic-meltdown-he-is-to-face-no-pun.html)  [JSON](/news/2012/04/23/former-icelandic-prime-minister-geir-haarde-is-found-not-guilty-of-negligence-over-the-island-s-2008-economic-meltdown-he-is-to-face-no-pun.json)  [XML](/news/2012/04/23/former-icelandic-prime-minister-geir-haarde-is-found-not-guilty-of-negligence-over-the-island-s-2008-economic-meltdown-he-is-to-face-no-pun.xml)  
+
 ### [2012-04-23](/news/2012/04/23/index.md)
 
+##### Geir Haarde
 # Former Icelandic prime minister Geir Haarde is found not guilty of negligence over the island's 2008 economic meltdown. He is to face no punishment and his legal expenses are to be paid. 
 
 Former Icelandic PM Geir Haarde is cleared of the main charge of negligence over the 2008 financial crisis, but is found guilty on a lesser charge
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17817174)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58872000/jpg/_58872402_010160325-1.jpg)

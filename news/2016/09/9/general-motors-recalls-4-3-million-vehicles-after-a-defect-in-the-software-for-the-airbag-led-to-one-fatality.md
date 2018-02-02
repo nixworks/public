@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/9/general-motors-recalls-4-3-million-vehicles-afte
 
 ### [2016-09-9](/news/2016/09/9/index.md)
 
+##### General Motors
 # General Motors recalls 4.3 million vehicles after a defect in the software for the airbag led to one fatality. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/8/microsoft-makes-windows-vista-beta-2-available-for-general-download.html)  [JSON](/news/2006/06/8/microsoft-makes-windows-vista-beta-2-available-for-general-download.json)  [XML](/news/2006/06/8/microsoft-makes-windows-vista-beta-2-available-for-general-download.xml)  
+
 ### [2006-06-8](/news/2006/06/8/index.md)
 
+##### Microsoft
 #  Microsoft makes Windows Vista beta 2 available for general download. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PC World](http://blogs.pcworld.com/staffblog/archives/002226.html)
 

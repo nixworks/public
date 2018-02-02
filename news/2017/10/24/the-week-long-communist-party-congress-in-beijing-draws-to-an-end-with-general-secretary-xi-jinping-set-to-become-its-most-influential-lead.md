@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/24/the-week-long-communist-party-congress-in-beiji
 
 ### [2017-10-24](/news/2017/10/24/index.md)
 
+##### 19th National Congress of the Communist Party of China
 # The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. 
 
 

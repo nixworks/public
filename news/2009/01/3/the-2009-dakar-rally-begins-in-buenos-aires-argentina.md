@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/3/the-2009-dakar-rally-begins-in-buenos-aires-argentina.html)  [JSON](/news/2009/01/3/the-2009-dakar-rally-begins-in-buenos-aires-argentina.json)  [XML](/news/2009/01/3/the-2009-dakar-rally-begins-in-buenos-aires-argentina.xml)  
+
 ### [2009-01-3](/news/2009/01/3/index.md)
 
+##### 2009
 #  The 2009 Dakar Rally begins in Buenos Aires, Argentina. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Motorsport](http://www.motorsport.com/news/article.asp?ID=316040&FS=)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/6/afp-reports-on-israel-s-plans-to-counter-a-palestinian-bid-for-enhanced-united-nations-status-later-this-month.html)  [JSON](/news/2012/11/6/afp-reports-on-israel-s-plans-to-counter-a-palestinian-bid-for-enhanced-united-nations-status-later-this-month.json)  [XML](/news/2012/11/6/afp-reports-on-israel-s-plans-to-counter-a-palestinian-bid-for-enhanced-united-nations-status-later-this-month.xml)  
+
 ### [2012-11-6](/news/2012/11/6/index.md)
 
+##### AFP
 # AFP reports on Israel's plans to counter a Palestinian bid for enhanced United Nations status later this month. 
 
 Foreign Minister Avigdor Lieberman warns that Israel will respond harshly if Palestine is given enhanced status at UN.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/11/2012116172352831476.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/26/2011122642620527734_20.jpg)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/07/11/the-mali-government-returns-to-the-northern-city-of-kidal.html)  [JSON](/news/2013/07/11/the-mali-government-returns-to-the-northern-city-of-kidal.json)  [XML](/news/2013/07/11/the-mali-government-returns-to-the-northern-city-of-kidal.xml)  
+
 ### [2013-07-11](/news/2013/07/11/index.md)
 
+##### Mali
 # The Mali government returns to the northern city of Kidal. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/International/wireStory/malis-government-returns-key-northern-city-19640398#.Ud7y3tL2aSo)
-2. [Washington Post](http://www.washingtonpost.com/world/africa/mali-government-officials-return-to-key-northern-city-of-kidal-16-months-after-rebel-takeover/2013/07/11/9d58ed66-ea4b-11e2-818e-aa29e855f3ab_story.html)
+2. [Washington Post](https://www.washingtonpost.com/world/africa/mali-government-officials-return-to-key-northern-city-of-kidal-16-months-after-rebel-takeover/2013/07/11/9d58ed66-ea4b-11e2-818e-aa29e855f3ab_story.html)
 
 ### Related:
 

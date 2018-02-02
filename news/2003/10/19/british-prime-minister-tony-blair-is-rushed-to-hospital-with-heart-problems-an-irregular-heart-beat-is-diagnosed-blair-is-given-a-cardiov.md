@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/19/british-prime-minister-tony-blair-is-rushed-to-hospital-with-heart-problems-an-irregular-heart-beat-is-diagnosed-blair-is-given-a-cardiov.html)  [JSON](/news/2003/10/19/british-prime-minister-tony-blair-is-rushed-to-hospital-with-heart-problems-an-irregular-heart-beat-is-diagnosed-blair-is-given-a-cardiov.json)  [XML](/news/2003/10/19/british-prime-minister-tony-blair-is-rushed-to-hospital-with-heart-problems-an-irregular-heart-beat-is-diagnosed-blair-is-given-a-cardiov.xml)  
+
 ### [2003-10-19](/news/2003/10/19/index.md)
 
+##### British Prime Minister
 #  British Prime Minister Tony Blair is rushed to hospital with heart problems. An irregular heart-beat is diagnosed. Blair is given a cardioversion in hospital, where he stays for four or five hours before going back to Number 10 Downing Street, and is ordered by his doctors to take 24 hours complete rest.
 
 

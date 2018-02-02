@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/19/president-of-pakistan-pervez-musharraf-meets-the-president-of-the-philippines-gloria-arroyo-in-manila.html)  [JSON](/news/2005/04/19/president-of-pakistan-pervez-musharraf-meets-the-president-of-the-philippines-gloria-arroyo-in-manila.json)  [XML](/news/2005/04/19/president-of-pakistan-pervez-musharraf-meets-the-president-of-the-philippines-gloria-arroyo-in-manila.xml)  
+
 ### [2005-04-19](/news/2005/04/19/index.md)
 
+##### Pakistan
 #  President of Pakistan Pervez Musharraf meets the president of the Philippines, Gloria Arroyo, in Manila. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4461021.stm)
 2. [Manila Bulletin](http://www.mb.com.ph/OPED2005041832866.html)

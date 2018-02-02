@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/3/at-least-33-people-die-and-13-are-injured-in-a-crash-between-a-truck-and-a-bus-near-the-bahia-city-of-milagro-in-northeastern-brazil.html)  [JSON](/news/2011/12/3/at-least-33-people-die-and-13-are-injured-in-a-crash-between-a-truck-and-a-bus-near-the-bahia-city-of-milagro-in-northeastern-brazil.json)  [XML](/news/2011/12/3/at-least-33-people-die-and-13-are-injured-in-a-crash-between-a-truck-and-a-bus-near-the-bahia-city-of-milagro-in-northeastern-brazil.xml)  
+
 ### [2011-12-3](/news/2011/12/3/index.md)
 
+##### Bahia
 # At least 33 people die and 13 are injured in a crash between a truck and a bus near the Bahia city of Milagro in northeastern Brazil. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/12/03/world/americas/brazil-deadly-crash/)
 

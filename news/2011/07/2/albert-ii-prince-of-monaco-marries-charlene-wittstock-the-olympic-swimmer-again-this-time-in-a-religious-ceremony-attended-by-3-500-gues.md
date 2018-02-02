@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/2/albert-ii-prince-of-monaco-marries-charlene-wittstock-the-olympic-swimmer-again-this-time-in-a-religious-ceremony-attended-by-3-500-gues.html)  [JSON](/news/2011/07/2/albert-ii-prince-of-monaco-marries-charlene-wittstock-the-olympic-swimmer-again-this-time-in-a-religious-ceremony-attended-by-3-500-gues.json)  [XML](/news/2011/07/2/albert-ii-prince-of-monaco-marries-charlene-wittstock-the-olympic-swimmer-again-this-time-in-a-religious-ceremony-attended-by-3-500-gues.xml)  
+
 ### [2011-07-2](/news/2011/07/2/index.md)
 
+##### Albert II, Prince of Monaco
 # Albert II, Prince of Monaco marries Charlene Wittstock, the Olympic swimmer, again, this time in a religious ceremony attended by 3,500 guests, including royalty and celebrities. 
 
 The principality of Monaco celebrates the religious wedding of Prince Albert II to South African Olympic swimmer Charlene Wittstock.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13999817)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53822000/jpg/_53822608_012359928-1.jpg)

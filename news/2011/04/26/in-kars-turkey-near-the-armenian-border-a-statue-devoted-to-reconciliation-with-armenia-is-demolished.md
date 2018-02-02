@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/26/in-kars-turkey-near-the-armenian-border-a-statue-devoted-to-reconciliation-with-armenia-is-demolished.html)  [JSON](/news/2011/04/26/in-kars-turkey-near-the-armenian-border-a-statue-devoted-to-reconciliation-with-armenia-is-demolished.json)  [XML](/news/2011/04/26/in-kars-turkey-near-the-armenian-border-a-statue-devoted-to-reconciliation-with-armenia-is-demolished.xml)  
+
 ### [2011-04-26](/news/2011/04/26/index.md)
 
+##### Kars, Turkey
 # In Kars, Turkey, near the Armenian border, a statue devoted to reconciliation with Armenia is demolished. 
 
 Turkey starts demolishing a statue dedicated to reconciliation with Armenia, described by the prime minister as a monstrosity.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13199787)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52349000/jpg/_52349337_52349336.jpg)

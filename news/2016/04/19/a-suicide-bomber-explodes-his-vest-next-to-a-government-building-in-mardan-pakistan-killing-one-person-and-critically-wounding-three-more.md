@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/19/a-suicide-bomber-explodes-his-vest-next-to-a-go
 
 ### [2016-04-19](/news/2016/04/19/index.md)
 
+##### War in North-West Pakistan
 # A suicide bomber explodes his vest next to a government building in Mardan, Pakistan, killing one person and critically wounding three more. 
 
 

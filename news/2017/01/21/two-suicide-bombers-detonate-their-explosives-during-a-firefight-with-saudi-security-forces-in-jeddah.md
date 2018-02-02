@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/21/two-suicide-bombers-detonate-their-explosives-d
 
 ### [2017-01-21](/news/2017/01/21/index.md)
 
+##### Saudi Arabia
 # Two suicide bombers detonate their explosives during a firefight with Saudi security forces in Jeddah. 
 
 

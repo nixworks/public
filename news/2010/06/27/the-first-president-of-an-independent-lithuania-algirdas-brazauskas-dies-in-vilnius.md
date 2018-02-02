@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/27/the-first-president-of-an-independent-lithuania-algirdas-brazauskas-dies-in-vilnius.html)  [JSON](/news/2010/06/27/the-first-president-of-an-independent-lithuania-algirdas-brazauskas-dies-in-vilnius.json)  [XML](/news/2010/06/27/the-first-president-of-an-independent-lithuania-algirdas-brazauskas-dies-in-vilnius.xml)  
+
 ### [2010-06-27](/news/2010/06/27/index.md)
 
+##### President
 # The first President of an independent Lithuania, Algirdas Brazauskas, dies in Vilnius. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=222100)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/03/6/businessman-allen-stanford-is-convicted-of-running-a-us-7-billion-ponzi-scheme.html)  [JSON](/news/2012/03/6/businessman-allen-stanford-is-convicted-of-running-a-us-7-billion-ponzi-scheme.json)  [XML](/news/2012/03/6/businessman-allen-stanford-is-convicted-of-running-a-us-7-billion-ponzi-scheme.xml)  
+
 ### [2012-03-6](/news/2012/03/6/index.md)
 
+##### Allen Stanford
 # Businessman Allen Stanford is convicted of running a US$7 billion Ponzi scheme. 
 
 R. Allen Stanford, a Texas financier, was found guilty on 13 out of 14 fraud counts in a scheme that lasted more than two decades.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2012/03/07/business/jury-convicts-stanford-in-7-billion-ponzi-fraud.html)
+1. [New York Times](https://www.nytimes.com/2012/03/07/business/jury-convicts-stanford-in-7-billion-ponzi-fraud.html)
 1. [Cover Image](https://static01.nyt.com/images/2012/03/07/business/07stanford/07stanford-thumbStandard-v2.jpg)
 
 ### Related:

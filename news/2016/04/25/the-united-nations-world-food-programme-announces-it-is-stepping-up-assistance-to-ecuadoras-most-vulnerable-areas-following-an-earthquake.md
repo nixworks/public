@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/25/the-united-nations-world-food-programme-announc
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
+##### earthquake
 # The United Nations World Food Programme announces it is stepping up assistance to Ecuador's most vulnerable areas following an earthquake that killed over 650 people. 
 
 The United Nations World Food Programme (WFP) is stepping up assistance to Ecuador’s most vulnerable areas following last week’s (April 16)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/24/incumbent-uzbekistani-president-islam-karimov-wins-a-new-term-in-office-following-presidential-elections.html)  [JSON](/news/2007/12/24/incumbent-uzbekistani-president-islam-karimov-wins-a-new-term-in-office-following-presidential-elections.json)  [XML](/news/2007/12/24/incumbent-uzbekistani-president-islam-karimov-wins-a-new-term-in-office-following-presidential-elections.xml)  
+
 ### [2007-12-24](/news/2007/12/24/index.md)
 
+##### Uzbekistan
 #  Incumbent Uzbekistani President Islam Karimov wins a new term in office following presidential elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/asiapcf/12/24/uzbekistan.poll.ap/index.html)
 

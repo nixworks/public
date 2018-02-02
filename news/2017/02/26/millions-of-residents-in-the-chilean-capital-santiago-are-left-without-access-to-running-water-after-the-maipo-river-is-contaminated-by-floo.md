@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/02/26/millions-of-residents-in-the-chilean-capital-santiago-are-left-without-access-to-running-water-after-the-maipo-river-is-contaminated-by-floo.html)  [JSON](/news/2017/02/26/millions-of-residents-in-the-chilean-capital-santiago-are-left-without-access-to-running-water-after-the-maipo-river-is-contaminated-by-floo.json)  [XML](/news/2017/02/26/millions-of-residents-in-the-chilean-capital-santiago-are-left-without-access-to-running-water-after-the-maipo-river-is-contaminated-by-floo.xml)  
+
 ### [2017-02-26](/news/2017/02/26/index.md)
 
+##### Chile
 # Millions of residents in the Chilean capital Santiago are left without access to running water after the Maipo River is contaminated by flooding and landslides. At least four people have died in the floods. 
 
 Rain and floods contaminate a major river and leave four million without water in Santiago.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-39099313)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/10D48/production/_94863986_mediaitem94863985.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/20/france-prepares-to-attempt-to-extradite-manuel-noriega-back-to-panama.html)  [JSON](/news/2011/06/20/france-prepares-to-attempt-to-extradite-manuel-noriega-back-to-panama.json)  [XML](/news/2011/06/20/france-prepares-to-attempt-to-extradite-manuel-noriega-back-to-panama.xml)  
+
 ### [2011-06-20](/news/2011/06/20/index.md)
 
+##### France
 # France prepares to attempt to extradite Manuel Noriega back to Panama. 
 
 The French authorities say they are preparing to extradite the former Panamanian military ruler, Manuel Noriega, back to Panama.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13849520)
 2. [Reuters via ''The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0620/breaking103.html)

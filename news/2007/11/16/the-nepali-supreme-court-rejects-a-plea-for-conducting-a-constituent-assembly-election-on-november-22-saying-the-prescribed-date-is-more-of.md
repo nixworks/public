@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/11/16/the-nepali-supreme-court-rejects-a-plea-for-conducting-a-constituent-assembly-election-on-november-22-saying-the-prescribed-date-is-more-of.html)  [JSON](/news/2007/11/16/the-nepali-supreme-court-rejects-a-plea-for-conducting-a-constituent-assembly-election-on-november-22-saying-the-prescribed-date-is-more-of.json)  [XML](/news/2007/11/16/the-nepali-supreme-court-rejects-a-plea-for-conducting-a-constituent-assembly-election-on-november-22-saying-the-prescribed-date-is-more-of.xml)  
+
 ### [2007-11-16](/news/2007/11/16/index.md)
 
+##### Nepal
 #  The Nepali Supreme Court rejects a plea for conducting a Constituent Assembly election on November 22 saying the prescribed date is more of a moral question rather than a legal one.date=December 2007
 
 

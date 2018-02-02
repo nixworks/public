@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/a-corpse-is-found-in-bradford-the-third-since-tuesday.html)  [JSON](/news/2011/05/12/a-corpse-is-found-in-bradford-the-third-since-tuesday.json)  [XML](/news/2011/05/12/a-corpse-is-found-in-bradford-the-third-since-tuesday.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### Bradford
 # A corpse is found in Bradford, the third since Tuesday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2011/may/12/third-body-bradford)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/11/run-offs-in-the-zimbabwean-presidential-election-according-to-george-chiweshe-the-elections-commissioner-must-be-delayed-past-the-time-a.html)  [JSON](/news/2008/05/11/run-offs-in-the-zimbabwean-presidential-election-according-to-george-chiweshe-the-elections-commissioner-must-be-delayed-past-the-time-a.json)  [XML](/news/2008/05/11/run-offs-in-the-zimbabwean-presidential-election-according-to-george-chiweshe-the-elections-commissioner-must-be-delayed-past-the-time-a.xml)  
+
 ### [2008-05-11](/news/2008/05/11/index.md)
 
+##### run-off presidential election
 #  Run-offs in the Zimbabwean presidential election, according to George Chiweshe, the elections commissioner, must be delayed past the time allotted by law, up to a year, until funding can be found. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://www.cnn.com/2008/WORLD/africa/05/11/zimbabwe.runoff.ap/index.html)
 

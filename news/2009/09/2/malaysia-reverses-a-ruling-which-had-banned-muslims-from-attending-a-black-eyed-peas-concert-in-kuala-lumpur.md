@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/2/malaysia-reverses-a-ruling-which-had-banned-muslims-from-attending-a-black-eyed-peas-concert-in-kuala-lumpur.html)  [JSON](/news/2009/09/2/malaysia-reverses-a-ruling-which-had-banned-muslims-from-attending-a-black-eyed-peas-concert-in-kuala-lumpur.json)  [XML](/news/2009/09/2/malaysia-reverses-a-ruling-which-had-banned-muslims-from-attending-a-black-eyed-peas-concert-in-kuala-lumpur.xml)  
+
 ### [2009-09-2](/news/2009/09/2/index.md)
 
+##### Malaysia
 #  Malaysia reverses a ruling which had banned Muslims from attending a Black Eyed Peas concert in Kuala Lumpur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/entertainment/8233634.stm)
 

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/12/23/political-activists-maria-alyokhina-and-nadezhda-tolokonnikova-of-the-russian-band-pussy-riot-are-given-amnesty-less-than-three-months-bef.html)  [JSON](/news/2013/12/23/political-activists-maria-alyokhina-and-nadezhda-tolokonnikova-of-the-russian-band-pussy-riot-are-given-amnesty-less-than-three-months-bef.json)  [XML](/news/2013/12/23/political-activists-maria-alyokhina-and-nadezhda-tolokonnikova-of-the-russian-band-pussy-riot-are-given-amnesty-less-than-three-months-bef.xml)  
+
 ### [2013-12-23](/news/2013/12/23/index.md)
 
+##### Maria Alyokhina
 # Political activists Maria Alyokhina and Nadezhda Tolokonnikova, of the Russian band Pussy Riot, are given amnesty less than three months before the end of their sentences. They had been convicted of "hooliganism motivated by religious hatred". 
 
 Both jailed members of Russian punk protest band Pussy Riot, whose imprisonment sparked global outrage, are released as part of an amnesty.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25490067)
-2. [The Guardian](http://www.theguardian.com/music/2013/dec/23/pussy-riot-maria-alyokhina-released)
-3. [The New York Times](http://www.nytimes.com/2013/12/24/world/europe/member-of-russian-punk-band-freed-under-amnesty-law.html?_r=0)
+2. [The Guardian](https://www.theguardian.com/music/2013/dec/23/pussy-riot-maria-alyokhina-released)
+3. [The New York Times](https://www.nytimes.com/2013/12/24/world/europe/member-of-russian-punk-band-freed-under-amnesty-law.html?_r=0)
 3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71914000/jpg/_71914852_71917590.jpg)
 
 ### Related:

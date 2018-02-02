@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/31/in-ukraine-after-days-of-vote-tallying-viktor-yanukovych-s-party-of-regions-wins-a-plurality-in-the-2006-parliamentary-election.html)  [JSON](/news/2006/03/31/in-ukraine-after-days-of-vote-tallying-viktor-yanukovych-s-party-of-regions-wins-a-plurality-in-the-2006-parliamentary-election.json)  [XML](/news/2006/03/31/in-ukraine-after-days-of-vote-tallying-viktor-yanukovych-s-party-of-regions-wins-a-plurality-in-the-2006-parliamentary-election.xml)  
+
 ### [2006-03-31](/news/2006/03/31/index.md)
 
+##### Ukraine
 #  In Ukraine, after days of vote tallying, Viktor Yanukovych's Party of Regions wins a plurality in the 2006 parliamentary election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Central Election Commission of Ukraine](http://www.cvk.gov.ua/vnd2006/w6p001e.html)
 

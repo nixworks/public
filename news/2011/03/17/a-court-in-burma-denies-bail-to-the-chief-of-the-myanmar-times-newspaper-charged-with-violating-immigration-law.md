@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/17/a-court-in-burma-denies-bail-to-the-chief-of-the-myanmar-times-newspaper-charged-with-violating-immigration-law.html)  [JSON](/news/2011/03/17/a-court-in-burma-denies-bail-to-the-chief-of-the-myanmar-times-newspaper-charged-with-violating-immigration-law.json)  [XML](/news/2011/03/17/a-court-in-burma-denies-bail-to-the-chief-of-the-myanmar-times-newspaper-charged-with-violating-immigration-law.xml)  
+
 ### [2011-03-17](/news/2011/03/17/index.md)
 
+##### Burma
 # A court in Burma denies bail to the chief of the "Myanmar Times" newspaper, charged with violating immigration law. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Journal of Turkish Weekly](http://www.turkishweekly.net/news/112800/burmese-court-denies-bail-to-australian-publisher.html)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_646190.html)

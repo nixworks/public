@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-their-immigration-status-from-unnece.html)  [JSON](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-their-immigration-status-from-unnece.json)  [XML](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-their-immigration-status-from-unnece.xml)  
+
 ### [2017-09-12](/news/2017/09/12/index.md)
 
+##### Law of California
 # California Governor Jerry Brown signs a bill that will protect all California residents, regardless of their immigration status, from unnecessary detention and questioning; similar to those ordinances in sanctuary cities. 
 
 Gov. Jerry Brown and state Senate leader Kevin de León agreed Monday to amend a &quot;sanctuary state&quot; bill that would limit the role of sta...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-gov-jerry-brown-senate-leader-kevin-1505163123-htmlstory.html)
 1. [Cover Image](http://www.trbimg.com/img-59b72e02/turbine/la-pol-ca-essential-politics-updates-gov-jerry-brown-senate-leader-kevin-1505163123)
+
+### Changes:
+
+1. [California Governor Jerry Brown signs a bill that will protect all California residents, regardless of status, from unnecessary detention and questioning; similar to those ordinances in sanctuary cities. ](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-status-from-unnecessary-detention-an.md) _2017-09-13 08:30:06 (First version)_
+1. [California Governor Jerry Brown signs a bill that will protect all California residents, regardless of their immigration status, from unnecessary detention and questioning; similar to those ordinances in sanctuary cities. ](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-their-immigration-status-from-unnece.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Gov. Jerry Brown and state Senate leader Kevin de León agreed Monday to amend a
 3. [California and San Francisco sue the United States Federal government over its opposition towards sanctuary cities. ](/news/2017/08/14/california-and-san-francisco-sue-the-united-states-federal-government-over-its-opposition-towards-sanctuary-cities.md) _Context: California, sanctuary cities_
 4. [California Governor Jerry Brown declares a state of emergency in 50 counties, as winter storms kill four and cause millions of dollars in damage. ](/news/2017/01/24/california-governor-jerry-brown-declares-a-state-of-emergency-in-50-counties-as-winter-storms-kill-four-and-cause-millions-of-dollars-in-da.md) _Context: California, Jerry Brown_
 5. [A rupture of an underground oil pipeline in California's Santa Barbara County near Refugio State Beach may have released 105,000 gallons of crude oil with tens of thousands gallons released into the Pacific Ocean. Jerry Brown, the Governor of California later declares a state of emergency. ](/news/2015/05/20/a-rupture-of-an-underground-oil-pipeline-in-california-s-santa-barbara-county-near-refugio-state-beach-may-have-released-105-000-gallons-of.md) _Context: California, Jerry Brown_
-
-### Changes:
-
-1. [California Governor Jerry Brown signs a bill that will protect all California residents, regardless of status, from unnecessary detention and questioning; similar to those ordinances in sanctuary cities. ](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-status-from-unnecessary-detention-an.md) _2017-09-13 08:30:06 (First version)_
-1. [California Governor Jerry Brown signs a bill that will protect all California residents, regardless of their immigration status, from unnecessary detention and questioning; similar to those ordinances in sanctuary cities. ](/news/2017/09/12/california-governor-jerry-brown-signs-a-bill-that-will-protect-all-california-residents-regardless-of-their-immigration-status-from-unnece.md) _(Current version)_

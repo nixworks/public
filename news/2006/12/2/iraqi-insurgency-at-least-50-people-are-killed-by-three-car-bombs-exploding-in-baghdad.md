@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/2/iraqi-insurgency-at-least-50-people-are-killed-by-three-car-bombs-exploding-in-baghdad.html)  [JSON](/news/2006/12/2/iraqi-insurgency-at-least-50-people-are-killed-by-three-car-bombs-exploding-in-baghdad.json)  [XML](/news/2006/12/2/iraqi-insurgency-at-least-50-people-are-killed-by-three-car-bombs-exploding-in-baghdad.xml)  
+
 ### [2006-12-2](/news/2006/12/2/index.md)
 
+##### Iraqi insurgency
 #  Iraqi insurgency: At least 50 people are killed by three car bombs exploding in Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6202108.stm)
 

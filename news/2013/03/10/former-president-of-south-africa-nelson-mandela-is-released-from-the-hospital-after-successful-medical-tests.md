@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/10/former-president-of-south-africa-nelson-mandela-is-released-from-the-hospital-after-successful-medical-tests.html)  [JSON](/news/2013/03/10/former-president-of-south-africa-nelson-mandela-is-released-from-the-hospital-after-successful-medical-tests.json)  [XML](/news/2013/03/10/former-president-of-south-africa-nelson-mandela-is-released-from-the-hospital-after-successful-medical-tests.xml)  
+
 ### [2013-03-10](/news/2013/03/10/index.md)
 
+##### President
 # Former President of South Africa Nelson Mandela is released from the hospital after "successful" medical tests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Miami Herald](http://www.miamiherald.com/2013/03/09/3276297/safrica-mandela-admitted-to-hospital.html)
 

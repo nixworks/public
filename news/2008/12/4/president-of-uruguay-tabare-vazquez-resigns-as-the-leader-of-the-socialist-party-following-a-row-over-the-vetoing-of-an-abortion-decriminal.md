@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/4/president-of-uruguay-tabare-vazquez-resigns-as-the-leader-of-the-socialist-party-following-a-row-over-the-vetoing-of-an-abortion-decriminal.html)  [JSON](/news/2008/12/4/president-of-uruguay-tabare-vazquez-resigns-as-the-leader-of-the-socialist-party-following-a-row-over-the-vetoing-of-an-abortion-decriminal.json)  [XML](/news/2008/12/4/president-of-uruguay-tabare-vazquez-resigns-as-the-leader-of-the-socialist-party-following-a-row-over-the-vetoing-of-an-abortion-decriminal.xml)  
+
 ### [2008-12-4](/news/2008/12/4/index.md)
 
+##### President
 #  President of Uruguay Tabar Vzquez resigns as the leader of the Socialist Party following a row over the vetoing of an abortion decriminalisation bill. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7766294.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/11/president-of-the-united-states-barack-obama-s-jobs-bill-stalls-in-the-senate.html)  [JSON](/news/2011/10/11/president-of-the-united-states-barack-obama-s-jobs-bill-stalls-in-the-senate.json)  [XML](/news/2011/10/11/president-of-the-united-states-barack-obama-s-jobs-bill-stalls-in-the-senate.xml)  
+
 ### [2011-10-11](/news/2011/10/11/index.md)
 
+##### U.S. President
 # President of the United States Barack Obama's "jobs bill" stalls in the Senate. 
 
 The W.H. is defeated on its economic initiative after two moderate Democrats join a united GOP front.
 
 
-### Source:
+### Sources:
 
 1. [Politico](http://www.politico.com/news/stories/1011/65630.html)
 1. [Cover Image](http://s3-origin-images.politico.com/news/111011_senate_votes_ap_328.jpg)

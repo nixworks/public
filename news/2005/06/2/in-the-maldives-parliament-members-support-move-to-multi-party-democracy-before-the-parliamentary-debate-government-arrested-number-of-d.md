@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2005/06/2/in-the-maldives-parliament-members-support-move-to-multi-party-democracy-before-the-parliamentary-debate-government-arrested-number-of-d.html)  [JSON](/news/2005/06/2/in-the-maldives-parliament-members-support-move-to-multi-party-democracy-before-the-parliamentary-debate-government-arrested-number-of-d.json)  [XML](/news/2005/06/2/in-the-maldives-parliament-members-support-move-to-multi-party-democracy-before-the-parliamentary-debate-government-arrested-number-of-d.xml)  
+
 ### [2005-06-2](/news/2005/06/2/index.md)
 
+##### Maldives
 #  In the Maldives, parliament members support move to multi party democracy. Before the parliamentary debate, government arrested number of dissidents 
 
-Get the latest breaking news and top news headlines at Reuters.com
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4602703.stm)
 2. [Dhivehi Observer](http://www.dhivehiobserver.com/editorial/Maldives_parties_allowed0306051.htm)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=8676944&type=topNews)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?storyID=8676944&type=topNews)
 
 ### Related:
 

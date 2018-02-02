@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/23/2003-in-film-the-lord-of-the-rings-the-return-of-the-king-becomes-the-second-film-in-history-to-gross-more-than-1-billion-in-worldwide.html)  [JSON](/news/2004/02/23/2003-in-film-the-lord-of-the-rings-the-return-of-the-king-becomes-the-second-film-in-history-to-gross-more-than-1-billion-in-worldwide.json)  [XML](/news/2004/02/23/2003-in-film-the-lord-of-the-rings-the-return-of-the-king-becomes-the-second-film-in-history-to-gross-more-than-1-billion-in-worldwide.xml)  
+
 ### [2004-02-23](/news/2004/02/23/index.md)
 
+##### 2003 in film
 #  2003 in film: "The Lord of the Rings: The Return of the King" becomes the second film in history to gross more than $1 billion in worldwide box office receipts.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BCC](http://news.bbc.co.uk/1/hi/entertainment/film/3516055.stm)
 2. [CNN](http://www.cnn.com/2004/SHOWBIZ/Movies/02/23/leisure.rings.reut/)

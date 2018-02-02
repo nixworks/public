@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/2/sudan-s-army-says-the-un-resolution-on-the-conflict-in-darfur-is-a-declaration-of-war-and-threatens-to-fight-any-foreign-intervention.html)  [JSON](/news/2004/08/2/sudan-s-army-says-the-un-resolution-on-the-conflict-in-darfur-is-a-declaration-of-war-and-threatens-to-fight-any-foreign-intervention.json)  [XML](/news/2004/08/2/sudan-s-army-says-the-un-resolution-on-the-conflict-in-darfur-is-a-declaration-of-war-and-threatens-to-fight-any-foreign-intervention.xml)  
+
 ### [2004-08-2](/news/2004/08/2/index.md)
 
+##### Sudan
 #  Sudan's army says the UN resolution on the conflict in Darfur is "a declaration of war" and threatens to fight any foreign intervention. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/3527310.stm)
 

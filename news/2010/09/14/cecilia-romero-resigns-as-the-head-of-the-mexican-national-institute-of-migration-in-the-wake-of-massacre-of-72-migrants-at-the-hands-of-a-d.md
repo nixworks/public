@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/cecilia-romero-resigns-as-the-head-of-the-mexican-national-institute-of-migration-in-the-wake-of-massacre-of-72-migrants-at-the-hands-of-a-d.html)  [JSON](/news/2010/09/14/cecilia-romero-resigns-as-the-head-of-the-mexican-national-institute-of-migration-in-the-wake-of-massacre-of-72-migrants-at-the-hands-of-a-d.json)  [XML](/news/2010/09/14/cecilia-romero-resigns-as-the-head-of-the-mexican-national-institute-of-migration-in-the-wake-of-massacre-of-72-migrants-at-the-hands-of-a-d.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Cecilia Romero
 # Cecilia Romero resigns as the head of the Mexican National Institute of Migration in the wake of massacre of 72 migrants at the hands of a drug cartel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2010/09/14/international/i181150D24.DTL)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/5/sco-v-ibm-sco-group-widens-unix-and-linux-lawsuit-against-ibm-they-add-a-copyright-infringement-claim-to-case.html)  [JSON](/news/2004/02/5/sco-v-ibm-sco-group-widens-unix-and-linux-lawsuit-against-ibm-they-add-a-copyright-infringement-claim-to-case.json)  [XML](/news/2004/02/5/sco-v-ibm-sco-group-widens-unix-and-linux-lawsuit-against-ibm-they-add-a-copyright-infringement-claim-to-case.xml)  
+
 ### [2004-02-5](/news/2004/02/5/index.md)
 
+##### SCO v. IBM
 #  SCO v. IBM: SCO Group widens Unix and Linux lawsuit against IBM. They add a copyright infringement claim to case.
 
 

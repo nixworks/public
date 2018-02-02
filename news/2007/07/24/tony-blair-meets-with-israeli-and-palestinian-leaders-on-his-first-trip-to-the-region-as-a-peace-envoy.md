@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/07/24/tony-blair-meets-with-israeli-and-palestinian-leaders-on-his-first-trip-to-the-region-as-a-peace-envoy.html)  [JSON](/news/2007/07/24/tony-blair-meets-with-israeli-and-palestinian-leaders-on-his-first-trip-to-the-region-as-a-peace-envoy.json)  [XML](/news/2007/07/24/tony-blair-meets-with-israeli-and-palestinian-leaders-on-his-first-trip-to-the-region-as-a-peace-envoy.xml)  
+
 ### [2007-07-24](/news/2007/07/24/index.md)
 
+##### Tony Blair
 #  Tony Blair meets with Israeli and Palestinian leaders on his first trip to the region as a peace envoy. 
 
 Tony Blair spoke of a &quot;moment of opportunity&quot; after he met Palestinian and Israeli leaders on Tuesday on his first visit to the region as an international envoy.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSL2472137620070725?feedType=RSS)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070725&t=2&i=1184021&w=&fh=545px&fw=&ll=&pl=&sq=&r=1184021)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSL2472137620070725?feedType=RSS)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070725&t=2&i=1184021&w=&fh=545px&fw=&ll=&pl=&sq=&r=1184021)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/13/researchers-at-the-universities-of-texas-wollongong-british-columbia-and-hanyang-announce-that-they-have-collaboratively-developed-carbon.html)  [JSON](/news/2011/10/13/researchers-at-the-universities-of-texas-wollongong-british-columbia-and-hanyang-announce-that-they-have-collaboratively-developed-carbon.json)  [XML](/news/2011/10/13/researchers-at-the-universities-of-texas-wollongong-british-columbia-and-hanyang-announce-that-they-have-collaboratively-developed-carbon.xml)  
+
 ### [2011-10-13](/news/2011/10/13/index.md)
 
+##### Universities of Texas
 # Researchers at the Universities of Texas, Wollongong, British Columbia and Hanyang announce that they have collaboratively developed carbon nanotube-based artificial muscle fibers with over 1,000 times the rotational power of previous designs. The invention is expected to have applications in the creation of nanoscale motors and electrical systems. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Science Daily](http://www.sciencedaily.com/releases/2011/10/111013141809.htm)
 

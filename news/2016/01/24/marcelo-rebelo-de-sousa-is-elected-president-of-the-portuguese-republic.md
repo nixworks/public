@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/24/marcelo-rebelo-de-sousa-is-elected-president-of
 
 ### [2016-01-24](/news/2016/01/24/index.md)
 
+##### Portuguese presidential election, 2016
 # Marcelo Rebelo de Sousa is elected President of the Portuguese Republic. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

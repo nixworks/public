@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/12/former-u-s-president-jimmy-carter-aged-90-announces-that-recent-liver-surgery-revealed-that-he-is-suffering-from-an-as-yet-unspecified-fo.html)  [JSON](/news/2015/08/12/former-u-s-president-jimmy-carter-aged-90-announces-that-recent-liver-surgery-revealed-that-he-is-suffering-from-an-as-yet-unspecified-fo.json)  [XML](/news/2015/08/12/former-u-s-president-jimmy-carter-aged-90-announces-that-recent-liver-surgery-revealed-that-he-is-suffering-from-an-as-yet-unspecified-fo.xml)  
+
 ### [2015-08-12](/news/2015/08/12/index.md)
 
+##### U.S. President
 # Former U.S. President Jimmy Carter, aged 90, announces that recent liver surgery revealed that he is suffering from an as-yet unspecified form of cancer which has spread to other parts of his body. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via MSN](http://www.msn.com/en-us/news/us/former-us-president-jimmy-carter-says-he-has-cancer/ar-BBlGLk4?ocid=spartanntp)
 

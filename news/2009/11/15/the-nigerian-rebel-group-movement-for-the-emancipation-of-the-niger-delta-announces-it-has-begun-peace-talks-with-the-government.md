@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/11/15/the-nigerian-rebel-group-movement-for-the-emancipation-of-the-niger-delta-announces-it-has-begun-peace-talks-with-the-government.html)  [JSON](/news/2009/11/15/the-nigerian-rebel-group-movement-for-the-emancipation-of-the-niger-delta-announces-it-has-begun-peace-talks-with-the-government.json)  [XML](/news/2009/11/15/the-nigerian-rebel-group-movement-for-the-emancipation-of-the-niger-delta-announces-it-has-begun-peace-talks-with-the-government.xml)  
+
 ### [2009-11-15](/news/2009/11/15/index.md)
 
+##### Nigeria
 #  The Nigerian rebel group Movement for the Emancipation of the Niger Delta announces it has begun peace talks with the government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/nigeria%27s-president-%27meets%27-mend%27s-team-2009111538252.html)
 2. [NEXT](http://234next.com/csp/cms/sites/Next/Home/5481399-146/story.csp)
-3. [Reuters](http://www.reuters.com/article/africaCrisis/idUSLF216359)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/africaCrisis/idUSLF216359)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

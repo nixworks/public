@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/10/the-u-s-department-of-commerce-approves-service
 
 ### [2016-06-10](/news/2016/06/10/index.md)
 
+##### Cuba-United States relations
 # The U.S. Department of Commerce approves service by six commercial airlines from five U.S. cities, including Miami and Philadelphia, to nine international airports in Cuba. Approval for routes to the capital Havana are still pending. Most of the carriers plan to begin their new service this fall and winter. 
 
 Flights from Miami and Fort Lauderdale figure heavily in new commercial service. American Airlines has been approved for 8 daily flights from MIA, while JetBlue, Southwest and Silver Airways get authority for routes from Fort Lauderdale.

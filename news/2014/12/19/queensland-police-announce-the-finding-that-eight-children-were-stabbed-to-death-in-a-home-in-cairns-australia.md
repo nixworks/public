@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/12/19/queensland-police-announce-the-finding-that-eight-children-were-stabbed-to-death-in-a-home-in-cairns-australia.html)  [JSON](/news/2014/12/19/queensland-police-announce-the-finding-that-eight-children-were-stabbed-to-death-in-a-home-in-cairns-australia.json)  [XML](/news/2014/12/19/queensland-police-announce-the-finding-that-eight-children-were-stabbed-to-death-in-a-home-in-cairns-australia.xml)  
+
 ### [2014-12-19](/news/2014/12/19/index.md)
 
+##### Cairns child killings
 # Queensland police announce the finding that eight children were stabbed to death in a home in Cairns, Australia. 
 
 Victims aged from 18 months to 15 years were all from same family, with mother being treated in hospital for wounds to chest
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/australia-news/2014/dec/19/at-least-seven-children-killed-in-mass-stabbing-in-cairns)
+1. [The Guardian](https://www.theguardian.com/australia-news/2014/dec/19/at-least-seven-children-killed-in-mass-stabbing-in-cairns)
 1. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/12/19/1418958929031/e66e1427-fbfd-4cf5-b99a-046c9eb9ce3f-2060x1236.jpeg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=c7b8f376c7c771559d63fb807e645f38)
+
+### Changes:
+
+1. [Cairns child killings: Queensland police announce the finding that eight children were stabbed to death in a home in Cairns, Australia. ](/news/2014/12/19/cairns-child-killings-queensland-police-announce-the-finding-that-eight-children-were-stabbed-to-death-in-a-home-in-cairns-australia.md) _2017-08-27 03:41:39 (First version)_
+1. [Queensland police announce the finding that eight children were stabbed to death in a home in Cairns, Australia. ](/news/2014/12/19/queensland-police-announce-the-finding-that-eight-children-were-stabbed-to-death-in-a-home-in-cairns-australia.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Victims aged from 18 months to 15 years were all from same family, with mother b
 3. [The death toll from Cyclone Debbie and the associated flooding in the Australian states of New South Wales and Queensland rises to five people. ](/news/2017/04/2/the-death-toll-from-cyclone-debbie-and-the-associated-flooding-in-the-australian-states-of-new-south-wales-and-queensland-rises-to-five-peop.md) _Context: Australia, Queensland_
 4. [An accident on board the Thunder River Rapids Ride at Dreamworld on the Gold Coast in Queensland, Australia, leaves four people dead. ](/news/2016/10/25/an-accident-on-board-the-thunder-river-rapids-ride-at-dreamworld-on-the-gold-coast-in-queensland-australia-leaves-four-people-dead.md) _Context: Australia, Queensland_
 5. [The results of a referendum last month in the Australian state of Queensland with voters agreeing to plans for a four-year fixed parliamentary term. ](/news/2016/04/5/the-results-of-a-referendum-last-month-in-the-australian-state-of-queensland-with-voters-agreeing-to-plans-for-a-four-year-fixed-parliamenta.md) _Context: Australia, Queensland_
-
-### Changes:
-
-1. [Cairns child killings: Queensland police announce the finding that eight children were stabbed to death in a home in Cairns, Australia. ](/news/2014/12/19/cairns-child-killings-queensland-police-announce-the-finding-that-eight-children-were-stabbed-to-death-in-a-home-in-cairns-australia.md) _2017-08-27 03:41:39 (First version)_
-1. [Queensland police announce the finding that eight children were stabbed to death in a home in Cairns, Australia. ](/news/2014/12/19/queensland-police-announce-the-finding-that-eight-children-were-stabbed-to-death-in-a-home-in-cairns-australia.md) _(Current version)_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/1/venezuela-s-supreme-court-reverses-their-controv
 
 ### [2017-04-1](/news/2017/04/1/index.md)
 
+##### 2017 dissolution of Venezuelan National Assembly
 # Venezuela's Supreme Court reverses their controversial ruling. The court restores legislative power to the National Assembly. However, the court's decision still allows President Nicolas Maduro to enter joint-venture deals. 
 
 The latest court ruling replaces a previous decision that appeared to completely neuter the National Assembly.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/30/community-leaders-in-plateau-state-nigeria-appeal-for-calm-following-attacks-by-muslim-hausa-fulani-against-a-christian-village-near-the-c.html)  [JSON](/news/2010/10/30/community-leaders-in-plateau-state-nigeria-appeal-for-calm-following-attacks-by-muslim-hausa-fulani-against-a-christian-village-near-the-c.json)  [XML](/news/2010/10/30/community-leaders-in-plateau-state-nigeria-appeal-for-calm-following-attacks-by-muslim-hausa-fulani-against-a-christian-village-near-the-c.xml)  
+
 ### [2010-10-30](/news/2010/10/30/index.md)
 
+##### Plateau State
 # Community leaders in Plateau State, Nigeria, appeal for calm following attacks by Muslim Hausa-Fulani against a Christian village near the city of Jos. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11657987)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

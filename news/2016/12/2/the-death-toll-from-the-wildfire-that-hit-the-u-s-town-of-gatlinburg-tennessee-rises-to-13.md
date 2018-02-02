@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/2/the-death-toll-from-the-wildfire-that-hit-the-u-
 
 ### [2016-12-2](/news/2016/12/2/index.md)
 
+##### 2016 Southeastern United States wildfires
 # The death toll from the wildfire that hit the U.S. town of Gatlinburg, Tennessee, rises to 13. 
 
 

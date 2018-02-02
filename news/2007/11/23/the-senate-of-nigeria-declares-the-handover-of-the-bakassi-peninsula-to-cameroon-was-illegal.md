@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/23/the-senate-of-nigeria-declares-the-handover-of-the-bakassi-peninsula-to-cameroon-was-illegal.html)  [JSON](/news/2007/11/23/the-senate-of-nigeria-declares-the-handover-of-the-bakassi-peninsula-to-cameroon-was-illegal.json)  [XML](/news/2007/11/23/the-senate-of-nigeria-declares-the-handover-of-the-bakassi-peninsula-to-cameroon-was-illegal.xml)  
+
 ### [2007-11-23](/news/2007/11/23/index.md)
 
+##### Senate
 #  The Senate of Nigeria declares the handover of the Bakassi peninsula to Cameroon was "illegal". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7108887.stm)
 

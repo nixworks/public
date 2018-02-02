@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/03/10/flags-across-the-nation-fly-at-half-mast-as-the-largest-police-memorial-in-canadian-history-is-held-in-edmonton-to-honour-the-four-royal-c.html)  [JSON](/news/2005/03/10/flags-across-the-nation-fly-at-half-mast-as-the-largest-police-memorial-in-canadian-history-is-held-in-edmonton-to-honour-the-four-royal-c.json)  [XML](/news/2005/03/10/flags-across-the-nation-fly-at-half-mast-as-the-largest-police-memorial-in-canadian-history-is-held-in-edmonton-to-honour-the-four-royal-c.xml)  
+
 ### [2005-03-10](/news/2005/03/10/index.md)
 
+##### half-mast
 #  Flags across the nation fly at half-mast as the largest police memorial in Canadian history is held in Edmonton, to honour the four Royal Canadian Mounted Police (RCMP) victims of the Mayerthorpe Incident. Attending were about 10,000 officers from North America, Canadian dignitaries and entertainers with songs of reflection and sorrow. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2005/03/10/rcmp-memorial050310.html)
-2. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1110495015771&call_pageid=970599119419)
+2. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1110495015771&call_pageid=970599119419)
 
 ### Related:
 

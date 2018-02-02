@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/04/24/the-u-s-government-wins-an-early-round-in-its-litigation-against-the-bank-of-new-york-mellon-over-the-latter-s-allegedly-fraudulent-practic.html)  [JSON](/news/2013/04/24/the-u-s-government-wins-an-early-round-in-its-litigation-against-the-bank-of-new-york-mellon-over-the-latter-s-allegedly-fraudulent-practic.json)  [XML](/news/2013/04/24/the-u-s-government-wins-an-early-round-in-its-litigation-against-the-bank-of-new-york-mellon-over-the-latter-s-allegedly-fraudulent-practic.xml)  
+
 ### [2013-04-24](/news/2013/04/24/index.md)
 
+##### U.S.
 # The U.S. government wins an early round in its litigation against The Bank of New York Mellon over the latter's allegedly fraudulent practices in the trading of currencies. 
 
 A federal judge said on Wednesday the U.S. government can proceed with a lawsuit accusing Bank of New York Mellon Corp (BK.N) of overcharging clients for trading currencies, a case brought under a rarely-used financial fraud law.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/04/24/us-bankofnewyorkmellon-lawsuit-idUSBRE93N12820130424)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130424&t=2&i=725603620&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93N1E5X00)
+1. [Reuters](https://www.reuters.com/article/2013/04/24/us-bankofnewyorkmellon-lawsuit-idUSBRE93N12820130424)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130424&t=2&i=725603620&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93N1E5X00)
 
 ### Related:
 

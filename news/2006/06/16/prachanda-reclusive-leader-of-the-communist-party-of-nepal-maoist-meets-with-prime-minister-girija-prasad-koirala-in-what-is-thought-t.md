@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/16/prachanda-reclusive-leader-of-the-communist-party-of-nepal-maoist-meets-with-prime-minister-girija-prasad-koirala-in-what-is-thought-t.html)  [JSON](/news/2006/06/16/prachanda-reclusive-leader-of-the-communist-party-of-nepal-maoist-meets-with-prime-minister-girija-prasad-koirala-in-what-is-thought-t.json)  [XML](/news/2006/06/16/prachanda-reclusive-leader-of-the-communist-party-of-nepal-maoist-meets-with-prime-minister-girija-prasad-koirala-in-what-is-thought-t.xml)  
+
 ### [2006-06-16](/news/2006/06/16/index.md)
 
+##### Prachanda
 #  Prachanda, reclusive leader of the Communist Party of Nepal (Maoist), meets with Prime Minister Girija Prasad Koirala, in what is thought to be his first visit to the capital Kathmandu in decades. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/5085760.stm)
 

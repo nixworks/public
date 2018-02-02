@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/14/microsoft-chatrooms-close-today-free-unmoderated-chatrooms-outside-the-us-are-closed-in-what-microsoft-claim-is-an-attempt-to-safeguard-ch.html)  [JSON](/news/2003/10/14/microsoft-chatrooms-close-today-free-unmoderated-chatrooms-outside-the-us-are-closed-in-what-microsoft-claim-is-an-attempt-to-safeguard-ch.json)  [XML](/news/2003/10/14/microsoft-chatrooms-close-today-free-unmoderated-chatrooms-outside-the-us-are-closed-in-what-microsoft-claim-is-an-attempt-to-safeguard-ch.xml)  
+
 ### [2003-10-14](/news/2003/10/14/index.md)
 
+##### Microsoft
 #  Microsoft chatrooms close today. Free unmoderated chatrooms outside the US are closed in what Microsoft claim is an attempt to safeguard children.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/24/the-irish-republican-army-apologises-unreservedly-to-the-family-of-14-year-old-kathleen-feeney-whom-it-shot-dead-in-derry-in-november-1973.html)  [JSON](/news/2005/06/24/the-irish-republican-army-apologises-unreservedly-to-the-family-of-14-year-old-kathleen-feeney-whom-it-shot-dead-in-derry-in-november-1973.json)  [XML](/news/2005/06/24/the-irish-republican-army-apologises-unreservedly-to-the-family-of-14-year-old-kathleen-feeney-whom-it-shot-dead-in-derry-in-november-1973.xml)  
+
 ### [2005-06-24](/news/2005/06/24/index.md)
 
+##### IRA
 #  The Irish Republican Army apologises unreservedly to the family of 14-year-old Kathleen Feeney, whom it shot dead in Derry in November 1973. The IRA had previously blamed the British Army for the killing. 
 
 The Sinn Féin President, Gerry Adams, has said that he is fairly certain that the bodies of the so-called disappeared will be re-united with their families.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4618125.stm)
 2. [RTE](http://www.rte.ie/news/2005/0624/ira.html)

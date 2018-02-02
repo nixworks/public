@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/07/8/file-swapping-service-imesh-confirms-that-it-has-entered-into-a-licensing-agreement-with-music-giant-sony-bmg-the-deal-is-widely-considere.html)  [JSON](/news/2005/07/8/file-swapping-service-imesh-confirms-that-it-has-entered-into-a-licensing-agreement-with-music-giant-sony-bmg-the-deal-is-widely-considere.json)  [XML](/news/2005/07/8/file-swapping-service-imesh-confirms-that-it-has-entered-into-a-licensing-agreement-with-music-giant-sony-bmg-the-deal-is-widely-considere.xml)  
+
 ### [2005-07-8](/news/2005/07/8/index.md)
 
+##### iMesh
 #  File-swapping service iMesh confirms that it has entered into a licensing agreement with music giant Sony-BMG. The deal is widely considered a reaction to a recent decision by the U.S. Supreme Court threatening liability for file swapping software providers.
 
 

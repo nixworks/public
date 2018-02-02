@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/03/18/china-releases-seven-tibetan-monks-detained-after-one-monk-set-himself-on-fire-in-protest-at-chinese-rule.html)  [JSON](/news/2011/03/18/china-releases-seven-tibetan-monks-detained-after-one-monk-set-himself-on-fire-in-protest-at-chinese-rule.json)  [XML](/news/2011/03/18/china-releases-seven-tibetan-monks-detained-after-one-monk-set-himself-on-fire-in-protest-at-chinese-rule.xml)  
+
 ### [2011-03-18](/news/2011/03/18/index.md)
 
+##### China
 # China releases seven Tibetan monks detained after one monk set himself on fire in protest at Chinese rule. 
 
 Chinese security officers in Sichuan Province released Tibetan monks detained after a monk’s self-immolation in protest of Chinese rule.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/03/19/world/asia/19tibet.html)
+1. [New York Times](https://www.nytimes.com/2011/03/19/world/asia/19tibet.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

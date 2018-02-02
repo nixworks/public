@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/16/the-funeral-of-otto-von-habsburg-final-heir-to-the-austro-hungarian-empire-occurs-in-vienna-attended-by-monarchs-and-members-of-the-polit.html)  [JSON](/news/2011/07/16/the-funeral-of-otto-von-habsburg-final-heir-to-the-austro-hungarian-empire-occurs-in-vienna-attended-by-monarchs-and-members-of-the-polit.json)  [XML](/news/2011/07/16/the-funeral-of-otto-von-habsburg-final-heir-to-the-austro-hungarian-empire-occurs-in-vienna-attended-by-monarchs-and-members-of-the-polit.xml)  
+
 ### [2011-07-16](/news/2011/07/16/index.md)
 
+##### Otto von Habsburg
 # The funeral of Otto von Habsburg, final heir to the Austro-Hungarian Empire, occurs in Vienna, attended by monarchs and members of the political elite; his corpse is to be buried in the Imperial Crypt. 
 
 European royals and political leaders are among the mourners at the funeral of the last heir to the Austro-Hungarian Empire, Otto von Habsburg, in Vienna.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14172091)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54101000/jpg/_54101400_012463615-2.jpg)

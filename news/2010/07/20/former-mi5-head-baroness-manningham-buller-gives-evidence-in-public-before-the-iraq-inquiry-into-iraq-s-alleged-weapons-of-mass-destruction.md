@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/former-mi5-head-baroness-manningham-buller-gives-evidence-in-public-before-the-iraq-inquiry-into-iraq-s-alleged-weapons-of-mass-destruction.html)  [JSON](/news/2010/07/20/former-mi5-head-baroness-manningham-buller-gives-evidence-in-public-before-the-iraq-inquiry-into-iraq-s-alleged-weapons-of-mass-destruction.json)  [XML](/news/2010/07/20/former-mi5-head-baroness-manningham-buller-gives-evidence-in-public-before-the-iraq-inquiry-into-iraq-s-alleged-weapons-of-mass-destruction.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### MI5
 # Former MI5 head Baroness Manningham-Buller gives evidence in public before the Iraq Inquiry into Iraq's alleged weapons of mass destruction, admitting that the 2003 invasion of Iraq served to "substantially" increase the security threat to the UK. 
 
 The ex-MI5 chief Baroness Manningham-Buller says Iraq posed only a &quot;very limited&quot; threat to the UK - but the war increased the threat from terrorism.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/07/2010720121831261136.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-politics-10693001)

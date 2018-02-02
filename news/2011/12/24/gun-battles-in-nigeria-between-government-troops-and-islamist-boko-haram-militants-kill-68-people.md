@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/12/24/gun-battles-in-nigeria-between-government-troops-and-islamist-boko-haram-militants-kill-68-people.html)  [JSON](/news/2011/12/24/gun-battles-in-nigeria-between-government-troops-and-islamist-boko-haram-militants-kill-68-people.json)  [XML](/news/2011/12/24/gun-battles-in-nigeria-between-government-troops-and-islamist-boko-haram-militants-kill-68-people.xml)  
+
 ### [2011-12-24](/news/2011/12/24/index.md)
 
+##### Nigeria
 # Gun battles in Nigeria between government troops and Islamist Boko Haram militants kill 68 people. 
 
 Gun battles between Nigerian security forces and an Islamist sect killed at least 68 people in two days of fighting in northern Nigeria, authorities and hospital sources said on Saturday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/24/us-nigeria-violence-idUSTRE7BN07U20111224?feedType=RSS&feedName=topNews&rpc=71)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/12/24/us-nigeria-violence-idUSTRE7BN07U20111224?feedType=RSS&feedName=topNews&rpc=71)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

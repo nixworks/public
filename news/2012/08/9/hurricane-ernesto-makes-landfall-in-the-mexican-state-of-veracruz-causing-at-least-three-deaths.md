@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/9/hurricane-ernesto-makes-landfall-in-the-mexican-state-of-veracruz-causing-at-least-three-deaths.html)  [JSON](/news/2012/08/9/hurricane-ernesto-makes-landfall-in-the-mexican-state-of-veracruz-causing-at-least-three-deaths.json)  [XML](/news/2012/08/9/hurricane-ernesto-makes-landfall-in-the-mexican-state-of-veracruz-causing-at-least-three-deaths.xml)  
+
 ### [2012-08-9](/news/2012/08/9/index.md)
 
+##### Hurricane Ernesto
 # Hurricane Ernesto makes landfall in the Mexican state of Veracruz causing at least three deaths. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/tropical-storm-ernesto-skirts-mexican-gulf-coast-kills-224643591.html)
+1. [Reuters via Yahoo! News](https://news.yahoo.com/tropical-storm-ernesto-skirts-mexican-gulf-coast-kills-224643591.html)
 
 ### Related:
 

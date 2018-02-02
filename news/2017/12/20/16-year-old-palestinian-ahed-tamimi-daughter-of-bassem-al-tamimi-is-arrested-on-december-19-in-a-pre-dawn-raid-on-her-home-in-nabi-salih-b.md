@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/20/16-year-old-palestinian-ahed-tamimi-daughter-of
 
 ### [2017-12-20](/news/2017/12/20/index.md)
 
+##### Israel-Palestine relations
 # 16-year-old Palestinian Ahed Tamimi, daughter of Bassem al-Tamimi, is arrested on December 19 in a pre-dawn raid on her home in Nabi Salih by the Israeli army after being suspected of assaulting an Israeli soldier. Later in the day, her mother Nariman is allegedly arrested too when visiting her daughter at a police station. 
 
 Detention of mother follows arrest of Ahed Tamimi, 16, by Israeli soldiers in West Bank village in continuing crackdown.

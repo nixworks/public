@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/28/roger-federer-defeats-fernando-gonzalez-7-6-6-4-6-4-at-the-australian-open-claiming-his-10th-grand-slam-victory.html)  [JSON](/news/2007/01/28/roger-federer-defeats-fernando-gonzalez-7-6-6-4-6-4-at-the-australian-open-claiming-his-10th-grand-slam-victory.json)  [XML](/news/2007/01/28/roger-federer-defeats-fernando-gonzalez-7-6-6-4-6-4-at-the-australian-open-claiming-his-10th-grand-slam-victory.xml)  
+
 ### [2007-01-28](/news/2007/01/28/index.md)
 
+##### Roger Federer
 #  Roger Federer defeats Fernando Gonzalez 7-6 6-4 6-4 at the Australian Open, claiming his 10th Grand Slam victory. 
 
 The Age 404 Page
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.co.uk/news/articlenews.aspx?type=tennisNews&storyID=2007-01-28T113559Z_01_L28065207_RTRIDST_0_TENNIS-OPEN-FEDERER-FACTBOX-PICTURE.XML&WTmodLoc=SportsLanding-C7-Tennis-2)
 2. [The Age](http://www.theage.com.au/news/Sport/Federer-wins-third-Australian-Open-crown/2007/01/28/1169919215634.html)

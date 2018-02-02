@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/16/the-health-ministry-of-the-people-s-republic-of-china-announces-the-country-s-first-one-confirmed-and-one-suspected-cases-of-avian-flu-in-h.html)  [JSON](/news/2005/11/16/the-health-ministry-of-the-people-s-republic-of-china-announces-the-country-s-first-one-confirmed-and-one-suspected-cases-of-avian-flu-in-h.json)  [XML](/news/2005/11/16/the-health-ministry-of-the-people-s-republic-of-china-announces-the-country-s-first-one-confirmed-and-one-suspected-cases-of-avian-flu-in-h.xml)  
+
 ### [2005-11-16](/news/2005/11/16/index.md)
 
+##### China
 #  The Health Ministry of the People's Republic of China announces the country's first one confirmed and one suspected cases of avian flu in humans in Hunan Province, and one confirmed case in Anhui. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4442436.stm)
 

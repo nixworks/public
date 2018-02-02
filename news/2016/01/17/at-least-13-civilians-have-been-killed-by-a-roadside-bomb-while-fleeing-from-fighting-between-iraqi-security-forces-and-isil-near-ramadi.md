@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/17/at-least-13-civilians-have-been-killed-by-a-roa
 
 ### [2016-01-17](/news/2016/01/17/index.md)
 
+##### Iraqi Civil War (2014-present)
 # At least 13 civilians have been killed by a roadside bomb while fleeing from fighting between Iraqi security forces and ISIL near Ramadi. 
 
 Children among those killed by roadside bomb as troops try to push armed group from eastern parts of key city.

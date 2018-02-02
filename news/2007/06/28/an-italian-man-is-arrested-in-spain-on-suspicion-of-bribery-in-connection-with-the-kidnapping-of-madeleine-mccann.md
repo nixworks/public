@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/28/an-italian-man-is-arrested-in-spain-on-suspicion-of-bribery-in-connection-with-the-kidnapping-of-madeleine-mccann.html)  [JSON](/news/2007/06/28/an-italian-man-is-arrested-in-spain-on-suspicion-of-bribery-in-connection-with-the-kidnapping-of-madeleine-mccann.json)  [XML](/news/2007/06/28/an-italian-man-is-arrested-in-spain-on-suspicion-of-bribery-in-connection-with-the-kidnapping-of-madeleine-mccann.xml)  
+
 ### [2007-06-28](/news/2007/06/28/index.md)
 
+##### Italy
 #  An Italian man is arrested in Spain on suspicion of bribery in connection with the kidnapping of Madeleine McCann. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky](http://news.sky.com/skynews/article/0,,91210-1272677,00.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/29/a-security-agent-serving-for-the-italian-embassy-in-sana-a-is-kidnapped-by-gunmen-in-yemen.html)  [JSON](/news/2012/07/29/a-security-agent-serving-for-the-italian-embassy-in-sana-a-is-kidnapped-by-gunmen-in-yemen.json)  [XML](/news/2012/07/29/a-security-agent-serving-for-the-italian-embassy-in-sana-a-is-kidnapped-by-gunmen-in-yemen.xml)  
+
 ### [2012-07-29](/news/2012/07/29/index.md)
 
+##### Sana'a
 # A security agent serving for the Italian embassy in Sana'a is kidnapped by gunmen in Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-19040415)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61887000/gif/_61887472_yemen_sanaa_oct10.gif)

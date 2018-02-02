@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/10/tens-of-thousands-of-people-in-madrid-protest-the-release-of-jailed-basque-separatist-jose-ignacio-de-juana-chaos.html)  [JSON](/news/2007/03/10/tens-of-thousands-of-people-in-madrid-protest-the-release-of-jailed-basque-separatist-jose-ignacio-de-juana-chaos.json)  [XML](/news/2007/03/10/tens-of-thousands-of-people-in-madrid-protest-the-release-of-jailed-basque-separatist-jose-ignacio-de-juana-chaos.xml)  
+
 ### [2007-03-10](/news/2007/03/10/index.md)
 
+##### Madrid
 #  Tens of thousands of people in Madrid protest the release of jailed Basque separatist Jos Ignacio de Juana Chaos. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6438623.stm)
 

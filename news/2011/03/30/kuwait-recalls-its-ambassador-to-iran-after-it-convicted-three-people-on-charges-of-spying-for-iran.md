@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/30/kuwait-recalls-its-ambassador-to-iran-after-it-convicted-three-people-on-charges-of-spying-for-iran.html)  [JSON](/news/2011/03/30/kuwait-recalls-its-ambassador-to-iran-after-it-convicted-three-people-on-charges-of-spying-for-iran.json)  [XML](/news/2011/03/30/kuwait-recalls-its-ambassador-to-iran-after-it-convicted-three-people-on-charges-of-spying-for-iran.xml)  
+
 ### [2011-03-30](/news/2011/03/30/index.md)
 
+##### Kuwait
 # Kuwait recalls its ambassador to Iran after it convicted three people on charges of spying for Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Arabiya](http://www.alarabiya.net/articles/2011/03/30/143606.html)
 

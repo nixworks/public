@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2004/04/5/paul-bremer-states-that-militant-shiite-cleric-muqtada-al-sadr-is-an-outlaw-and-warns-that-uprisings-by-the-cleric-and-his-followers-will-n.html)  [JSON](/news/2004/04/5/paul-bremer-states-that-militant-shiite-cleric-muqtada-al-sadr-is-an-outlaw-and-warns-that-uprisings-by-the-cleric-and-his-followers-will-n.json)  [XML](/news/2004/04/5/paul-bremer-states-that-militant-shiite-cleric-muqtada-al-sadr-is-an-outlaw-and-warns-that-uprisings-by-the-cleric-and-his-followers-will-n.xml)  
+
 ### [2004-04-5](/news/2004/04/5/index.md)
 
+##### Paul Bremer
 #  Paul Bremer states that militant Shiite cleric Muqtada al-Sadr is an outlaw and warns that uprisings by the cleric and his followers will not tolerated. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3602803.stm)
 2. [Middle East Newsline](http://www.menewsline.com/stories/2004/april/04_05_1.html)
 3. [Middle East Online](http://www.middle-east-online.com/english/?id=9514)
 4. [NPR](http://www.npr.org/display_pages/features/feature_1813404.html)
-5. [NYT](http://www.nytimes.com/aponline/international/AP-Iraq-Fallujah.html?hp)
+5. [NYT](https://www.nytimes.com/aponline/international/AP-Iraq-Fallujah.html?hp)
 6. [Online NewsHour](http://www.pbs.org/newshour/bb/middle_east/jan-june04/turmoil_4-5.html)
 7. [UN](http://www.un.org/apps/news/story.asp?NewsID=10314&Cr=Iraq&Cr1=)
 7. [Cover Image](/News/dh/photos/large/30081-brahimi.jpg)

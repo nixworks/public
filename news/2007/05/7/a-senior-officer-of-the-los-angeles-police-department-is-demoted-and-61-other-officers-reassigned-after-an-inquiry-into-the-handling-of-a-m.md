@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/7/a-senior-officer-of-the-los-angeles-police-department-is-demoted-and-61-other-officers-reassigned-after-an-inquiry-into-the-handling-of-a-m.html)  [JSON](/news/2007/05/7/a-senior-officer-of-the-los-angeles-police-department-is-demoted-and-61-other-officers-reassigned-after-an-inquiry-into-the-handling-of-a-m.json)  [XML](/news/2007/05/7/a-senior-officer-of-the-los-angeles-police-department-is-demoted-and-61-other-officers-reassigned-after-an-inquiry-into-the-handling-of-a-m.xml)  
+
 ### [2007-05-7](/news/2007/05/7/index.md)
 
+##### Los Angeles Police Department
 #  A senior officer of the Los Angeles Police Department is demoted and 61 other officers reassigned after an inquiry into the handling of a May Day protest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6633745.stm)
 

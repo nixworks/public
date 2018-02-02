@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/4/the-u-s-chemical-safety-and-hazard-investigation-board-believes-that-there-may-have-been-a-fundamental-safety-design-problems-with-the-devi.html)  [JSON](/news/2011/03/4/the-u-s-chemical-safety-and-hazard-investigation-board-believes-that-there-may-have-been-a-fundamental-safety-design-problems-with-the-devi.json)  [XML](/news/2011/03/4/the-u-s-chemical-safety-and-hazard-investigation-board-believes-that-there-may-have-been-a-fundamental-safety-design-problems-with-the-devi.xml)  
+
 ### [2011-03-4](/news/2011/03/4/index.md)
 
+##### U.S. Chemical Safety and Hazard Investigation Board
 # The U.S. Chemical Safety and Hazard Investigation Board believes that there may have been a fundamental safety design problems with the device that failed to stop the Deepwater Horizon oil spill and has asked for more time to test it. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/41912428)
 

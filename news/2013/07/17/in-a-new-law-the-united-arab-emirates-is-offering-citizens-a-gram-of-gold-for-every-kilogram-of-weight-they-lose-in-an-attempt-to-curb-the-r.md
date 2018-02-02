@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2013/07/17/in-a-new-law-the-united-arab-emirates-is-offering-citizens-a-gram-of-gold-for-every-kilogram-of-weight-they-lose-in-an-attempt-to-curb-the-r.html)  [JSON](/news/2013/07/17/in-a-new-law-the-united-arab-emirates-is-offering-citizens-a-gram-of-gold-for-every-kilogram-of-weight-they-lose-in-an-attempt-to-curb-the-r.json)  [XML](/news/2013/07/17/in-a-new-law-the-united-arab-emirates-is-offering-citizens-a-gram-of-gold-for-every-kilogram-of-weight-they-lose-in-an-attempt-to-curb-the-r.xml)  
+
 ### [2013-07-17](/news/2013/07/17/index.md)
 
+##### United Arab Emirates
 # In a new law the United Arab Emirates is offering citizens a gram of gold for every kilogram of weight they lose in an attempt to curb the rising obesity rate in the nation. 
 
 Alarmed at ballooning waistlines in a region where fast food is common and comfortable outdoor exercise is not, the local government is offering citizens a gram of gold for each kilogram they lose by Aug. 16.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/blogs/health/2013/07/17/202941301/weight-loss-is-worth-gold-in-dubai?ft=1&f=1001)
 1. [Cover Image](https://media.npr.org/assets/img/2013/07/17/goldbars_wide-c710d5351d183a55bc5190f216957e6da5e131cd.jpg?s=1400)
 
 ### Related:
 
-1. [City officials in Dubai, United Arab Emirates, announce that residents will receive incentives for swapping their petrol engine vehicles for electric ones, including a free Salik tag, and an exemption from RTA registration and renewal vehicle fees. ](/news/2017/09/24/city-officials-in-dubai-united-arab-emirates-announce-that-residents-will-receive-incentives-for-swapping-their-petrol-engine-vehicles-for.md) _Context: United Arab Emirates_
-2. [A fire at the 79-story Dubai Torch Tower in the United Arab Emirates, which forced nighttime evacuations, was under control in a few hours with no serious injuries immediately reported. The building's exterior was still being renovated from a fire in February, 2015, which investigators had blamed, at least in part, to flammable siding, echoing the findings of this past June's Grenfell Tower fire in London. ](/news/2017/08/4/a-fire-at-the-79-story-dubai-torch-tower-in-the-united-arab-emirates-which-forced-nighttime-evacuations-was-under-control-in-a-few-hours-w.md) _Context: United Arab Emirates_
-3. [Brazilian President Michel Temer abolishes the 46,000 sq km National Reserve of Copper and Associates (Renca) ecological reserve, which spans the borders of Amapa and Para states in northern Brazil. More than 20 domestic and multinational firms have expressed an interest in accessing the area's deposits of gold, copper, tantalum, iron ore, nickel and manganese. ](/news/2017/08/25/brazilian-president-michel-temer-abolishes-the-46-000-sq-km-national-reserve-of-copper-and-associates-renca-ecological-reserve-which-span.md) _Context: gold_
-4. [Qatar files a legal complaint at the World Trade Organization (WTO) concerning the embargo imposed by Saudi Arabia, Egypt, Bahrain and United Arab Emirates in June. The parties have 60 days to settle the complaint to avoid WTO litigation. ](/news/2017/07/31/qatar-files-a-legal-complaint-at-the-world-trade-organization-wto-concerning-the-embargo-imposed-by-saudi-arabia-egypt-bahrain-and-unite.md) _Context: United Arab Emirates_
-5. [Human rights activists accuse forces led by Saudi Arabia and the UAE of kidnapping and torturing people during the Yemeni conflict. ](/news/2017/06/9/human-rights-activists-accuse-forces-led-by-saudi-arabia-and-the-uae-of-kidnapping-and-torturing-people-during-the-yemeni-conflict.md) _Context: United Arab Emirates_
+1. [United Arab Emirates-backed Southern Transitional Council (STC) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-stc-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md) _Context: United Arab Emirates_
+2. [Value Added Tax (VAT) has been introduced in Saudi Arabia and the United Arab Emirates for the first time. ](/news/2018/01/1/value-added-tax-vat-has-been-introduced-in-saudi-arabia-and-the-united-arab-emirates-for-the-first-time.md) _Context: United Arab Emirates_
+3. [At a GCC summit in Kuwait City, the United Arab Emirates announce a political and military alliance with Saudi Arabia. ](/news/2017/12/5/at-a-gcc-summit-in-kuwait-city-the-united-arab-emirates-announce-a-political-and-military-alliance-with-saudi-arabia.md) _Context: United Arab Emirates_
+4. [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md) _Context: United Arab Emirates_
+5. [Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently, Saudi Arabia declared that a missile attack on its airport from Yemen was "an act of war" by Lebanon. ](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.md) _Context: United Arab Emirates_

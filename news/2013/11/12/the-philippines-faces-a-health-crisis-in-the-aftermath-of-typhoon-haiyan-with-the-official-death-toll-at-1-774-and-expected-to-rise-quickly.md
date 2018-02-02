@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/12/the-philippines-faces-a-health-crisis-in-the-aftermath-of-typhoon-haiyan-with-the-official-death-toll-at-1-774-and-expected-to-rise-quickly.html)  [JSON](/news/2013/11/12/the-philippines-faces-a-health-crisis-in-the-aftermath-of-typhoon-haiyan-with-the-official-death-toll-at-1-774-and-expected-to-rise-quickly.json)  [XML](/news/2013/11/12/the-philippines-faces-a-health-crisis-in-the-aftermath-of-typhoon-haiyan-with-the-official-death-toll-at-1-774-and-expected-to-rise-quickly.xml)  
+
 ### [2013-11-12](/news/2013/11/12/index.md)
 
+##### Philippines
 # The Philippines faces a health crisis in the aftermath of Typhoon Haiyan with the official death toll at 1,774 and expected to rise quickly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2013/11/11/health/typhoon-medical-crisis/index.html)
 

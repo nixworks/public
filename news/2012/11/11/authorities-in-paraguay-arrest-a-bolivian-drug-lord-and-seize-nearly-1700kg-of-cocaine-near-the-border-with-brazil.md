@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/11/authorities-in-paraguay-arrest-a-bolivian-drug-lord-and-seize-nearly-1700kg-of-cocaine-near-the-border-with-brazil.html)  [JSON](/news/2012/11/11/authorities-in-paraguay-arrest-a-bolivian-drug-lord-and-seize-nearly-1700kg-of-cocaine-near-the-border-with-brazil.json)  [XML](/news/2012/11/11/authorities-in-paraguay-arrest-a-bolivian-drug-lord-and-seize-nearly-1700kg-of-cocaine-near-the-border-with-brazil.xml)  
+
 ### [2012-11-11](/news/2012/11/11/index.md)
 
+##### Paraguay
 # Authorities in Paraguay arrest a Bolivian drug lord and seize nearly 1700kg of cocaine near the border with Brazil. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hexUfHPRn8Aae9yTijo9DC7np5MQ?docId=5a7375517f924703be79bd6855a82503)
 

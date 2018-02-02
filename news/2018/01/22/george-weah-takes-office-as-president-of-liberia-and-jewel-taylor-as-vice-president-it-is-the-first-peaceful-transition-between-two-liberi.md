@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/22/george-weah-takes-office-as-president-of-liberi
 
 ### [2018-01-22](/news/2018/01/22/index.md)
 
+##### Politics of Liberia
 # George Weah takes office as President of Liberia, and Jewel Taylor as Vice President. It is the first peaceful transition between two Liberian presidents in 74 years. 
 
 Mr. Weah was inaugurated to the cheers of thousands at a stadium. He faces big challenges lifting Liberia out of poverty.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/26/the-bjp-wins-a-plurality-in-elections-in-the-indian-state-of-karnataka.html)  [JSON](/news/2008/05/26/the-bjp-wins-a-plurality-in-elections-in-the-indian-state-of-karnataka.json)  [XML](/news/2008/05/26/the-bjp-wins-a-plurality-in-elections-in-the-indian-state-of-karnataka.xml)  
+
 ### [2008-05-26](/news/2008/05/26/index.md)
 
+##### Bharatiya Janata Party
 #  The BJP wins a plurality in elections in the Indian state of Karnataka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7419782.stm)
 

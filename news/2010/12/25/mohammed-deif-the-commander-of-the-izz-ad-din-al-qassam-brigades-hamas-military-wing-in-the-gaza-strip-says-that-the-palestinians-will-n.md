@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/25/mohammed-deif-the-commander-of-the-izz-ad-din-al-qassam-brigades-hamas-military-wing-in-the-gaza-strip-says-that-the-palestinians-will-n.html)  [JSON](/news/2010/12/25/mohammed-deif-the-commander-of-the-izz-ad-din-al-qassam-brigades-hamas-military-wing-in-the-gaza-strip-says-that-the-palestinians-will-n.json)  [XML](/news/2010/12/25/mohammed-deif-the-commander-of-the-izz-ad-din-al-qassam-brigades-hamas-military-wing-in-the-gaza-strip-says-that-the-palestinians-will-n.xml)  
+
 ### [2010-12-25](/news/2010/12/25/index.md)
 
+##### Mohammed Deif
 # Mohammed Deif, the commander of the Izz ad-Din al-Qassam Brigades, Hamas' military wing in the Gaza Strip, says that the Palestinians will not give up until Israel "ceases to exist". 
 
 Day after Mahmoud al-Zahar says Islamist group committed to unofficial truce, head of its armed wing says Israel will &#39;cease to exist and we will have Palestine. Spokesman: We have something that will worry the occupation
 
 
-### Source:
+### Sources:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4004173,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

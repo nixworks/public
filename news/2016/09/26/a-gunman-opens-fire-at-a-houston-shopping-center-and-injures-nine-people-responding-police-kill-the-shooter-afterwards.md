@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/26/a-gunman-opens-fire-at-a-houston-shopping-cente
 
 ### [2016-09-26](/news/2016/09/26/index.md)
 
+##### Houston
 # A gunman opens fire at a Houston shopping center and injures nine people. Responding police kill the shooter afterwards. 
 
 A man dressed in a vintage military uniform emblazoned with a Nazi symbol and toting a Tommy Gun and a hand gun unleashed a flurry of bullets near a Houston shopping center on Monday morning, injuring nine people before he was shot dead by police.

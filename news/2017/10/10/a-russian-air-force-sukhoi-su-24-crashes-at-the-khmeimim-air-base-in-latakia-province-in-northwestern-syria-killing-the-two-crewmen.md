@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/10/a-russian-air-force-sukhoi-su-24-crashes-at-the-khmeimim-air-base-in-latakia-province-in-northwestern-syria-killing-the-two-crewmen.html)  [JSON](/news/2017/10/10/a-russian-air-force-sukhoi-su-24-crashes-at-the-khmeimim-air-base-in-latakia-province-in-northwestern-syria-killing-the-two-crewmen.json)  [XML](/news/2017/10/10/a-russian-air-force-sukhoi-su-24-crashes-at-the-khmeimim-air-base-in-latakia-province-in-northwestern-syria-killing-the-two-crewmen.xml)  
+
 ### [2017-10-10](/news/2017/10/10/index.md)
 
+##### Syrian Civil War
 # A Russian Air Force Sukhoi Su-24 crashes at the Khmeimim air base in Latakia province in northwestern Syria, killing the two crewmen. 
 
 An Su-24 military aircraft has crashed at Khmeimim Airbase in Syria after overshooting the runway, the Russian Defense Ministry reports. The crew has been killed.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/20/japan-has-halted-the-import-of-u-s-beef-after-an-animal-spine-was-found-in-a-beef-shipment-at-tokyo-international-airport-a-ban-has-now-b.html)  [JSON](/news/2006/01/20/japan-has-halted-the-import-of-u-s-beef-after-an-animal-spine-was-found-in-a-beef-shipment-at-tokyo-international-airport-a-ban-has-now-b.json)  [XML](/news/2006/01/20/japan-has-halted-the-import-of-u-s-beef-after-an-animal-spine-was-found-in-a-beef-shipment-at-tokyo-international-airport-a-ban-has-now-b.xml)  
+
 ### [2006-01-20](/news/2006/01/20/index.md)
 
+##### Haneda Airport
 #  Japan has halted the import of U.S. beef after an animal spine was found in a beef shipment at Tokyo International Airport. A ban has now been reinstated. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/BUSINESS/01/20/japan.us.beef/index.html)
 

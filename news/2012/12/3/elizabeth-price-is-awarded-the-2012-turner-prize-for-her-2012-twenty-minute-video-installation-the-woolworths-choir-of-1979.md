@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/12/3/elizabeth-price-is-awarded-the-2012-turner-prize-for-her-2012-twenty-minute-video-installation-the-woolworths-choir-of-1979.html)  [JSON](/news/2012/12/3/elizabeth-price-is-awarded-the-2012-turner-prize-for-her-2012-twenty-minute-video-installation-the-woolworths-choir-of-1979.json)  [XML](/news/2012/12/3/elizabeth-price-is-awarded-the-2012-turner-prize-for-her-2012-twenty-minute-video-installation-the-woolworths-choir-of-1979.xml)  
+
 ### [2012-12-3](/news/2012/12/3/index.md)
 
+##### Elizabeth Price
 # Elizabeth Price is awarded the 2012 Turner Prize for her 2012 twenty-minute video installation "The Woolworths Choir of 1979". 
 
 Former 1980s pop musician Elizabeth Price was tonight awarded the Turner Prize for her “seductive and immersive” video trilogy, the first video artist to win for over a decade.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20581283)
-2. [The Independent](http://www.independent.co.uk/arts-entertainment/art/news/elizabeth-price-takes-turner-prize-2012-for-seductive-video-trilogy-8376229.html)
-2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/05/01/14/IN29577056Undated handout p.jpg)
+2. [The Independent](https://www.independent.co.uk/arts-entertainment/art/news/elizabeth-price-takes-turner-prize-2012-for-seductive-video-trilogy-8376229.html)
+2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/05/01/14/IN29577056Undated%20handout%20p.jpg)
 
 ### Related:
 

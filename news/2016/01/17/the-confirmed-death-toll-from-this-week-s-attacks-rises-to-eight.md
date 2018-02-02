@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/17/the-confirmed-death-toll-from-this-week-s-attac
 
 ### [2016-01-17](/news/2016/01/17/index.md)
 
+##### 2016 Jakarta attacks
 # The confirmed death toll from this week's attacks rises to eight. 
 
 

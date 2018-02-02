@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2014/12/16/india-declares-a-ban-on-islamic-state-of-iraq-and-the-levant-after-an-engineer-was-detained-for-campaigning-on-behalf-of-the-group-on-twitte.html)  [JSON](/news/2014/12/16/india-declares-a-ban-on-islamic-state-of-iraq-and-the-levant-after-an-engineer-was-detained-for-campaigning-on-behalf-of-the-group-on-twitte.json)  [XML](/news/2014/12/16/india-declares-a-ban-on-islamic-state-of-iraq-and-the-levant-after-an-engineer-was-detained-for-campaigning-on-behalf-of-the-group-on-twitte.xml)  
+
 ### [2014-12-16](/news/2014/12/16/index.md)
 
+##### ISIL
 # India declares a ban on Islamic State of Iraq and the Levant after an engineer was detained for campaigning on behalf of the group on Twitter. Officials worry that such ban will endanger thirty-nine men, believed to be held hostage by the group. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/12/16/us-mideast-crisis-india-idUSKBN0JU0TV20141216)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20141216&t=2&i=999725095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABF0BD)
+1. [Reuters](https://www.reuters.com/article/2014/12/16/us-mideast-crisis-india-idUSKBN0JU0TV20141216)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20141216&t=2&i=999725095&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABF0BD)
 
 ### Related:
 
-1. [The Iraqi Army fully retakes the city of Hawija in the Kirkuk Governorate from ISIL. Fighting continues to the north and east of the city as Iraqi troops continue anti-ISIL operations in the Hawija District. ](/news/2017/10/5/the-iraqi-army-fully-retakes-the-city-of-hawija-in-the-kirkuk-governorate-from-isil-fighting-continues-to-the-north-and-east-of-the-city-as.md) _Context: ISIL_
-2. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: ISIL_
-3. [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md) _Context: ISIL_
-4. [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md) _Context: ISIL_
-5. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: ISIL_
+1. [A suicide bomber attack near a group of security personnel investigating illegal drugs and alcohol dealing in Kabul, Afghanistan, kills at least 20, wounding another 27 policemen. The Islamic State claims responsibility for the attack. ](/news/2018/01/4/a-suicide-bomber-attack-near-a-group-of-security-personnel-investigating-illegal-drugs-and-alcohol-dealing-in-kabul-afghanistan-kills-at-l.md) _Context: ISIL_
+2. [The U.S.-led coalition against ISIL says it has killed up to 150 militants in air strikes on a headquarters in Deir ez-Zor Governorate, Syria. ](/news/2018/01/24/the-u-s-led-coalition-against-isil-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-in-deir-ez-zor-governorate-syri.md) _Context: ISIL_
+3. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _Context: ISIL_
+4. [President Vladimir Putin declares victory over the Islamic State terror group across both banks of the river Euphrates. ](/news/2017/12/6/president-vladimir-putin-declares-victory-over-the-islamic-state-terror-group-across-both-banks-of-the-river-euphrates.md) _Context: ISIL_
+5. [A suicide bombing at a Shi'ite cultural center and news agency in Kabul, Afghanistan, kills 41 people and injures 84 others. ISIL-affiliated Amaq News Agency says this group is responsible. ](/news/2017/12/28/a-suicide-bombing-at-a-shiaite-cultural-center-and-news-agency-in-kabul-afghanistan-kills-41-people-and-injures-84-others-isil-affiliat.md) _Context: ISIL_

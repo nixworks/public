@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/6/weather-is-an-unseasonably-warm-18-degrees-c-in-london-heathrow-airport.html)  [JSON](/news/2003/11/6/weather-is-an-unseasonably-warm-18-degrees-c-in-london-heathrow-airport.json)  [XML](/news/2003/11/6/weather-is-an-unseasonably-warm-18-degrees-c-in-london-heathrow-airport.xml)  
+
 ### [2003-11-6](/news/2003/11/6/index.md)
 
+##### London Heathrow Airport
 #  Weather is an unseasonably warm 18 degrees c in London Heathrow Airport
 
 

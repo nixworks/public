@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/8/greek-electronic-game-ban-the-greek-government-in-an-attempt-to-fight-illegal-gambling-passes-an-old-decision-1107414-1491-t-e-f-re.html)  [JSON](/news/2003/12/8/greek-electronic-game-ban-the-greek-government-in-an-attempt-to-fight-illegal-gambling-passes-an-old-decision-1107414-1491-t-e-f-re.json)  [XML](/news/2003/12/8/greek-electronic-game-ban-the-greek-government-in-an-attempt-to-fight-illegal-gambling-passes-an-old-decision-1107414-1491-t-e-f-re.xml)  
+
 ### [2003-12-8](/news/2003/12/8/index.md)
 
+##### Greek electronic game ban
 #  Greek electronic game ban: The Greek government in an attempt to fight illegal gambling passes an old decision (1107414-1491-T. & E. F.) regarding the 3037-2002 law.
 
 

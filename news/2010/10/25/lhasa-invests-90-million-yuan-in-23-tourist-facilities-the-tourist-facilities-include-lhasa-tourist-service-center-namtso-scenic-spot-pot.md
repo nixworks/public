@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/25/lhasa-invests-90-million-yuan-in-23-tourist-facilities-the-tourist-facilities-include-lhasa-tourist-service-center-namtso-scenic-spot-pot.html)  [JSON](/news/2010/10/25/lhasa-invests-90-million-yuan-in-23-tourist-facilities-the-tourist-facilities-include-lhasa-tourist-service-center-namtso-scenic-spot-pot.json)  [XML](/news/2010/10/25/lhasa-invests-90-million-yuan-in-23-tourist-facilities-the-tourist-facilities-include-lhasa-tourist-service-center-namtso-scenic-spot-pot.xml)  
+
 ### [2010-10-25](/news/2010/10/25/index.md)
 
+##### Lhasa
 # Lhasa invests 90 million yuan in 23 tourist facilities. The tourist facilities include Lhasa Tourist Service Center, Namtso Scenic Spot, Potala Palace- Jokhang Temple- Norbu Linka Cultural Heritage tourist attractions, etc. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Tibet Online](http://eng.tibet.cn/09index/xwtt/201010/t20101025_760971.htm)
 

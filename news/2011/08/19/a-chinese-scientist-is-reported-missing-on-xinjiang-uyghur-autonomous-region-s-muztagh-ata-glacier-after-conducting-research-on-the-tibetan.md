@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/19/a-chinese-scientist-is-reported-missing-on-xinjiang-uyghur-autonomous-region-s-muztagh-ata-glacier-after-conducting-research-on-the-tibetan.html)  [JSON](/news/2011/08/19/a-chinese-scientist-is-reported-missing-on-xinjiang-uyghur-autonomous-region-s-muztagh-ata-glacier-after-conducting-research-on-the-tibetan.json)  [XML](/news/2011/08/19/a-chinese-scientist-is-reported-missing-on-xinjiang-uyghur-autonomous-region-s-muztagh-ata-glacier-after-conducting-research-on-the-tibetan.xml)  
+
 ### [2011-08-19](/news/2011/08/19/index.md)
 
+##### Chinese Academy of Sciences
 # A Chinese scientist is reported missing on Xinjiang Uyghur Autonomous Region's Muztagh Ata glacier after conducting research on the Tibetan Plateau. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bernama](http://www.bernama.com.my/bernama/v5/newsindex.php?id=609157)
 2. [The People's Daily](http://english.peopledaily.com.cn/90882/7574513.html)

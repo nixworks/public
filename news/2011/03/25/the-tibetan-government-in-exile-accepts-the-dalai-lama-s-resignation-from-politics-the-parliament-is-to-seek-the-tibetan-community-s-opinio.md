@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/25/the-tibetan-government-in-exile-accepts-the-dalai-lama-s-resignation-from-politics-the-parliament-is-to-seek-the-tibetan-community-s-opinio.html)  [JSON](/news/2011/03/25/the-tibetan-government-in-exile-accepts-the-dalai-lama-s-resignation-from-politics-the-parliament-is-to-seek-the-tibetan-community-s-opinio.json)  [XML](/news/2011/03/25/the-tibetan-government-in-exile-accepts-the-dalai-lama-s-resignation-from-politics-the-parliament-is-to-seek-the-tibetan-community-s-opinio.xml)  
+
 ### [2011-03-25](/news/2011/03/25/index.md)
 
+##### Tibet
 # The Tibetan government in-exile accepts the Dalai Lama's resignation from politics; the parliament is to seek the Tibetan community's opinion. 
 
 The exiled Tibetan Parliament here on Friday unanimously accepted the Dalai Lama&rsquo;s formal proposal of retirement or abdication of political responsibilities and passed the resolution in this regard.
 
 
-### Source:
+### Sources:
 
 1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2011/2/12/Tibetan-leaders-ask-public-about-Dalai-Lama-role,e28bd345-2be3-44fc-bc21-e61f6cc3523a.html)
 2. [Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=Tibet+exile+govt+accepts+Dalai+Lama+retirement&NewsID=281360)

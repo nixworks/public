@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/30/mexico-captures-alleged-mexican-american-drug-trafficker-edgar-valdez-villarreal-in-the-state-of-morelos-near-mexico-city.html)  [JSON](/news/2010/08/30/mexico-captures-alleged-mexican-american-drug-trafficker-edgar-valdez-villarreal-in-the-state-of-morelos-near-mexico-city.json)  [XML](/news/2010/08/30/mexico-captures-alleged-mexican-american-drug-trafficker-edgar-valdez-villarreal-in-the-state-of-morelos-near-mexico-city.xml)  
+
 ### [2010-08-30](/news/2010/08/30/index.md)
 
+##### Mexico
 # Mexico captures alleged Mexican-American drug trafficker Edgar Valdez Villarreal in the state of Morelos near Mexico City. 
 
 Mexico has captured major drug trafficker Edgar La Barbie Valdez in a second big coup for president Felipe Calderon in his battle against murderous trafficking cartels.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Online](http://www.abc.net.au/news/stories/2010/08/31/2998313.htm?section=justin)
 1. [Cover Image](http://www.abc.net.au/news/image/964250-1x1-700x700.jpg)

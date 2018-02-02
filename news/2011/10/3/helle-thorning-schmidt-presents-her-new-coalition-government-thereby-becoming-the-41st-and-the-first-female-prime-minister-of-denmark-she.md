@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/3/helle-thorning-schmidt-presents-her-new-coalition-government-thereby-becoming-the-41st-and-the-first-female-prime-minister-of-denmark-she.html)  [JSON](/news/2011/10/3/helle-thorning-schmidt-presents-her-new-coalition-government-thereby-becoming-the-41st-and-the-first-female-prime-minister-of-denmark-she.json)  [XML](/news/2011/10/3/helle-thorning-schmidt-presents-her-new-coalition-government-thereby-becoming-the-41st-and-the-first-female-prime-minister-of-denmark-she.xml)  
+
 ### [2011-10-3](/news/2011/10/3/index.md)
 
+##### Helle Thorning-Schmidt
 # Helle Thorning-Schmidt presents her new coalition government, thereby becoming the 41st and the first female Prime Minister of Denmark. She takes over the office from Lars Lkke Rasmussen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Winnipeg Free Press](http://www.winnipegfreepress.com/world/breakingnews/denmarks-first-female-prime-minister-presents-new-coalition-government-130963848.html)
 

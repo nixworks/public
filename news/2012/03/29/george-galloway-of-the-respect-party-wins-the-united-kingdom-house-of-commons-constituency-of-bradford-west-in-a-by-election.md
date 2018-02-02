@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/29/george-galloway-of-the-respect-party-wins-the-united-kingdom-house-of-commons-constituency-of-bradford-west-in-a-by-election.html)  [JSON](/news/2012/03/29/george-galloway-of-the-respect-party-wins-the-united-kingdom-house-of-commons-constituency-of-bradford-west-in-a-by-election.json)  [XML](/news/2012/03/29/george-galloway-of-the-respect-party-wins-the-united-kingdom-house-of-commons-constituency-of-bradford-west-in-a-by-election.xml)  
+
 ### [2012-03-29](/news/2012/03/29/index.md)
 
+##### George Galloway
 # George Galloway of the Respect Party wins the United Kingdom House of Commons constituency of Bradford West in a by-election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-17549388)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59384000/jpg/_59384596_59384595.jpg)

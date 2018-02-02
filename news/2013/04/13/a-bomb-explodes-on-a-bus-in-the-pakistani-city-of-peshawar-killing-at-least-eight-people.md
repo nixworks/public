@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2013/04/13/a-bomb-explodes-on-a-bus-in-the-pakistani-city-of-peshawar-killing-at-least-eight-people.html)  [JSON](/news/2013/04/13/a-bomb-explodes-on-a-bus-in-the-pakistani-city-of-peshawar-killing-at-least-eight-people.json)  [XML](/news/2013/04/13/a-bomb-explodes-on-a-bus-in-the-pakistani-city-of-peshawar-killing-at-least-eight-people.xml)  
+
 ### [2013-04-13](/news/2013/04/13/index.md)
 
+##### bus
 # A bomb explodes on a bus in the Pakistani city of Peshawar, killing at least eight people. 
 
 At least eight people have been killed in a bomb explosion on a bus in Peshawar in north-western Pakistan, officials say.
 
 
-### Source:
+### Sources:
 
-1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/04/13/bomb-bus-passengers-pakistan/2079691/)
+1. [AP via ''USA Today](https://www.usatoday.com/story/news/world/2013/04/13/bomb-bus-passengers-pakistan/2079691/)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-22136485)
 2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66944000/gif/_66944466_pak_tir_304x171.gif)
+
+### Changes:
+
+1. [War in North-West Pakistan:A bomb explodes on a bus in the Pakistani city of Peshawar, killing at least eight people. ](/news/2013/04/13/war-in-north-west-pakistan-pa-bomb-explodes-on-a-bus-in-the-pakistani-city-of-peshawar-killing-at-least-eight-people.md) _2017-08-25 03:38:20 (First version)_
+2. [War in North-West Pakistan:: A bomb explodes on a bus in the Pakistani city of Peshawar, killing at least eight people. ](/news/2013/04/13/war-in-north-west-pakistan-a-bomb-explodes-on-a-bus-in-the-pakistani-city-of-peshawar-killing-at-least-eight-people.md) _2017-08-27 03:38:31 (Update)_
+2. [A bomb explodes on a bus in the Pakistani city of Peshawar, killing at least eight people. ](/news/2013/04/13/a-bomb-explodes-on-a-bus-in-the-pakistani-city-of-peshawar-killing-at-least-eight-people.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ At least eight people have been killed in a bomb explosion on a bus in Peshawar 
 3. [Twin bombings kill a police officer and wound nine people in Peshawar, Pakistan. ](/news/2016/05/18/twin-bombings-kill-a-police-officer-and-wound-nine-people-in-peshawar-pakistan.md) _Context: Pakistan, Peshawar_
 4. [ A bomb detonates in a bus carrying government employees in Peshawar, Pakistan, killing 15 and injuring at least 54. ](/news/2016/03/16/a-bomb-detonates-in-a-bus-carrying-government-employees-in-peshawar-pakistan-killing-15-and-injuring-at-least-54.md) _Context: Pakistan, Peshawar_
 5. [At least 9 people are killed and 35 injured after a suicide bomber strikes near a security checkpoint near Peshawar, Pakistan. ](/news/2016/01/19/at-least-9-people-are-killed-and-35-injured-after-a-suicide-bomber-strikes-near-a-security-checkpoint-near-peshawar-pakistan.md) _Context: Pakistan, Peshawar_
-
-### Changes:
-
-1. [War in North-West Pakistan:A bomb explodes on a bus in the Pakistani city of Peshawar, killing at least eight people. ](/news/2013/04/13/war-in-north-west-pakistan-pa-bomb-explodes-on-a-bus-in-the-pakistani-city-of-peshawar-killing-at-least-eight-people.md) _2017-08-25 03:38:20 (First version)_
-2. [War in North-West Pakistan:: A bomb explodes on a bus in the Pakistani city of Peshawar, killing at least eight people. ](/news/2013/04/13/war-in-north-west-pakistan-a-bomb-explodes-on-a-bus-in-the-pakistani-city-of-peshawar-killing-at-least-eight-people.md) _2017-08-27 03:38:31 (Update)_
-2. [A bomb explodes on a bus in the Pakistani city of Peshawar, killing at least eight people. ](/news/2013/04/13/a-bomb-explodes-on-a-bus-in-the-pakistani-city-of-peshawar-killing-at-least-eight-people.md) _(Current version)_

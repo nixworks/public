@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/22/former-iranian-vice-president-mohammad-ali-abtahi-who-was-sentenced-to-six-years-imprisonment-in-connection-with-the-june-election-protests.html)  [JSON](/news/2009/11/22/former-iranian-vice-president-mohammad-ali-abtahi-who-was-sentenced-to-six-years-imprisonment-in-connection-with-the-june-election-protests.json)  [XML](/news/2009/11/22/former-iranian-vice-president-mohammad-ali-abtahi-who-was-sentenced-to-six-years-imprisonment-in-connection-with-the-june-election-protests.xml)  
+
 ### [2009-11-22](/news/2009/11/22/index.md)
 
+##### Iran
 #  Former Iranian Vice President Mohammad-Ali Abtahi who was sentenced to six years imprisonment in connection with the June election protests is released on bail. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jKFdYEM-BIoe142VJAtBVwwytEaA)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-11/22/content_12522098.htm)

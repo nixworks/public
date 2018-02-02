@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/03/10/canadian-federal-election-monia-mazigh-the-wife-of-former-syrian-deportee-maher-arar-announces-her-run-for-candidacy-with-the-ndp-in-the.html)  [JSON](/news/2004/03/10/canadian-federal-election-monia-mazigh-the-wife-of-former-syrian-deportee-maher-arar-announces-her-run-for-candidacy-with-the-ndp-in-the.json)  [XML](/news/2004/03/10/canadian-federal-election-monia-mazigh-the-wife-of-former-syrian-deportee-maher-arar-announces-her-run-for-candidacy-with-the-ndp-in-the.xml)  
+
 ### [2004-03-10](/news/2004/03/10/index.md)
 
+##### 2004 federal election
 #  Canadian federal election: Monia Mazigh, the wife of former Syrian deportee Maher Arar, announces her run for candidacy with the NDP in the riding of Ottawa South. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20040310/NDP10/TPNational/Canada)
+1. [Globe and Mail](https://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20040310/NDP10/TPNational/Canada)
 
 ### Related:
 

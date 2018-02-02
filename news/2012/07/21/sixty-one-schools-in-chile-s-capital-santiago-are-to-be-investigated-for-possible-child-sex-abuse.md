@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/21/sixty-one-schools-in-chile-s-capital-santiago-are-to-be-investigated-for-possible-child-sex-abuse.html)  [JSON](/news/2012/07/21/sixty-one-schools-in-chile-s-capital-santiago-are-to-be-investigated-for-possible-child-sex-abuse.json)  [XML](/news/2012/07/21/sixty-one-schools-in-chile-s-capital-santiago-are-to-be-investigated-for-possible-child-sex-abuse.xml)  
+
 ### [2012-07-21](/news/2012/07/21/index.md)
 
+##### Chile
 # Sixty-one schools in Chile's capital Santiago are to be investigated for possible child sex abuse. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/07/201272193424251608.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/21/201272110226234734_20.jpg)

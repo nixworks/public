@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/22/england-football-coach-steve-mcclaren-and-his-deputy-terry-venables-are-sacked-after-england-lose-3-2-to-croatia-at-wembley-stadium.html)  [JSON](/news/2007/11/22/england-football-coach-steve-mcclaren-and-his-deputy-terry-venables-are-sacked-after-england-lose-3-2-to-croatia-at-wembley-stadium.json)  [XML](/news/2007/11/22/england-football-coach-steve-mcclaren-and-his-deputy-terry-venables-are-sacked-after-england-lose-3-2-to-croatia-at-wembley-stadium.xml)  
+
 ### [2007-11-22](/news/2007/11/22/index.md)
 
+##### England
 #  England football coach Steve McClaren and his deputy Terry Venables are sacked after England lose 3-2 to Croatia at Wembley Stadium. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/internationals/7100393.stm)
 

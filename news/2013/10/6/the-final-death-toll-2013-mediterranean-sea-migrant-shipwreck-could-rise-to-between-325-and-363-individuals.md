@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/6/the-final-death-toll-2013-mediterranean-sea-migrant-shipwreck-could-rise-to-between-325-and-363-individuals.html)  [JSON](/news/2013/10/6/the-final-death-toll-2013-mediterranean-sea-migrant-shipwreck-could-rise-to-between-325-and-363-individuals.json)  [XML](/news/2013/10/6/the-final-death-toll-2013-mediterranean-sea-migrant-shipwreck-could-rise-to-between-325-and-363-individuals.xml)  
+
 ### [2013-10-6](/news/2013/10/6/index.md)
 
+##### migrant boat sinks
 # The final death toll 2013 Mediterranean Sea migrant shipwreck could rise to between 325 and 363 individuals. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WDRB](http://www.wdrb.com/story/23619837/italian-migrant-death-toll-reaches-at-least-194)
 

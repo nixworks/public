@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/31/a-terror-plot-has-been-foiled-in-the-uk-where-nine-people-have-been-arrested-in-birmingham-under-suspicion-of-planning-the-kidnap-and-film.html)  [JSON](/news/2007/01/31/a-terror-plot-has-been-foiled-in-the-uk-where-nine-people-have-been-arrested-in-birmingham-under-suspicion-of-planning-the-kidnap-and-film.json)  [XML](/news/2007/01/31/a-terror-plot-has-been-foiled-in-the-uk-where-nine-people-have-been-arrested-in-birmingham-under-suspicion-of-planning-the-kidnap-and-film.xml)  
+
 ### [2007-01-31](/news/2007/01/31/index.md)
 
+##### Birmingham
 #  A terror plot has been foiled in the UK, where nine people have been arrested in Birmingham under suspicion of planning the kidnap and filmed execution of a British Muslim soldier. The alleged plot intended to pressure Prime Minister Tony Blair into withdrawing British troops from Afghanistan and Iraq. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/article/0,,2-2576244,00.html)
 1. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)

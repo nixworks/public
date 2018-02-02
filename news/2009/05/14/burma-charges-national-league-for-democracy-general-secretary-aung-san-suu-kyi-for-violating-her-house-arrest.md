@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/14/burma-charges-national-league-for-democracy-general-secretary-aung-san-suu-kyi-for-violating-her-house-arrest.html)  [JSON](/news/2009/05/14/burma-charges-national-league-for-democracy-general-secretary-aung-san-suu-kyi-for-violating-her-house-arrest.json)  [XML](/news/2009/05/14/burma-charges-national-league-for-democracy-general-secretary-aung-san-suu-kyi-for-violating-her-house-arrest.xml)  
+
 ### [2009-05-14](/news/2009/05/14/index.md)
 
+##### Burma
 #  Burma charges National League for Democracy General Secretary Aung San Suu Kyi for violating her house arrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Burmas-Opposition-Leader-Aung-San-Suu-Kyi-Formally-Charged-Over-Allegedly-Breaking-House-Arrest/Article/200905215281522?lpos=World_News_Top_Stories_Header_1&lid=ARTICLE_15281522_Burmas_Opposition_Leader_Aung_San_Suu_Kyi_Formally_Charged_Over_Allegedly_Breaking_House_Arrest)
 

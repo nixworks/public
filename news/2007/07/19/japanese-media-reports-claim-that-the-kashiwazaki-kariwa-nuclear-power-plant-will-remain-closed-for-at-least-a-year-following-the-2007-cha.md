@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/19/japanese-media-reports-claim-that-the-kashiwazaki-kariwa-nuclear-power-plant-will-remain-closed-for-at-least-a-year-following-the-2007-cha.html)  [JSON](/news/2007/07/19/japanese-media-reports-claim-that-the-kashiwazaki-kariwa-nuclear-power-plant-will-remain-closed-for-at-least-a-year-following-the-2007-cha.json)  [XML](/news/2007/07/19/japanese-media-reports-claim-that-the-kashiwazaki-kariwa-nuclear-power-plant-will-remain-closed-for-at-least-a-year-following-the-2007-cha.xml)  
+
 ### [2007-07-19](/news/2007/07/19/index.md)
 
+##### Japan
 #  Japanese media reports claim that the Kashiwazaki-Kariwa Nuclear Power Plant will remain closed for at least a year following the 2007 Chuetsu offshore earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6905826.stm)
 

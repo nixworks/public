@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and
 
 ### [2017-10-16](/news/2017/10/16/index.md)
 
+##### Atlantic hurricanes
 # Schools and hospitals are closed in Ireland and Northern Ireland as the extratropical cyclone Ophelia is forecasted to make landfall on the island. 
 
 Ireland closed schools and hospitals on Monday and warned people to stay indoors as tropical storm Ophelia threatened to lash the country with the worst weather in 50 years.

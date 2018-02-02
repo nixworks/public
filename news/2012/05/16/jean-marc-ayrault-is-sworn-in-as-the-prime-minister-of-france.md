@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/16/jean-marc-ayrault-is-sworn-in-as-the-prime-minister-of-france.html)  [JSON](/news/2012/05/16/jean-marc-ayrault-is-sworn-in-as-the-prime-minister-of-france.json)  [XML](/news/2012/05/16/jean-marc-ayrault-is-sworn-in-as-the-prime-minister-of-france.xml)  
+
 ### [2012-05-16](/news/2012/05/16/index.md)
 
+##### Jean-Marc Ayrault
 # Jean-Marc Ayrault is sworn in as the Prime Minister of France. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The San-Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2012/05/16/international/i011759D98.DTL)
 

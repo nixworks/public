@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/08/6/about-800-south-korean-christians-left-afghanistan-after-their-planned-peace-festival-was-called-off-due-to-concerns-that-their-presence.html)  [JSON](/news/2006/08/6/about-800-south-korean-christians-left-afghanistan-after-their-planned-peace-festival-was-called-off-due-to-concerns-that-their-presence.json)  [XML](/news/2006/08/6/about-800-south-korean-christians-left-afghanistan-after-their-planned-peace-festival-was-called-off-due-to-concerns-that-their-presence.xml)  
+
 ### [2006-08-6](/news/2006/08/6/index.md)
 
+##### South Korea
 #  About 800 South Korean Christians left Afghanistan after their planned "peace festival" was called off due to concerns that their presence could spark violence. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo News](http://news.yahoo.com/s/afp/20060806/wl_sthasia_afp/afghanistanskoreareligion_060806100947)
+1. [Yahoo News](https://news.yahoo.com/s/afp/20060806/wl_sthasia_afp/afghanistanskoreareligion_060806100947)
 
 ### Related:
 
@@ -15,4 +19,4 @@
 2. [Afghan authorities suspend two Christian foreign aid groups, Church World Service and Norwegian Church Aid, on suspicion of proselytizing in the strictly Islamic republic and said a follow-up investigation would include whether other groups were trying to convert Muslims. ](/news/2010/05/31/afghan-authorities-suspend-two-christian-foreign-aid-groups-church-world-service-and-norwegian-church-aid-on-suspicion-of-proselytizing-in.md) _Context: Afghanistan, Christian_
 3. [ The Taliban threatens to kill 18 South Koreans taken hostage in Afghanistan, prompting the government in Seoul to confirm an earlier plan to withdraw its troops from the country by the end of the year. Separately, the Taliban claims that it has executed two German hostages. ](/news/2007/07/21/the-taliban-threatens-to-kill-18-south-koreans-taken-hostage-in-afghanistan-prompting-the-government-in-seoul-to-confirm-an-earlier-plan-t.md) _Context: Afghanistan, South Korea_
 4. [ Taliban insurgents stop a bus in Afghanistan and kidnap some of the passengers including South Koreans. ](/news/2007/07/20/taliban-insurgents-stop-a-bus-in-afghanistan-and-kidnap-some-of-the-passengers-including-south-koreans.md) _Context: Afghanistan, South Korea_
-5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Afghanistan_
+5. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: South Korea_

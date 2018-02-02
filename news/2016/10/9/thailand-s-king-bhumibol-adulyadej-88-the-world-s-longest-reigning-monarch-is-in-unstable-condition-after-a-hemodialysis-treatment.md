@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/9/thailand-s-king-bhumibol-adulyadej-88-the-world-
 
 ### [2016-10-9](/news/2016/10/9/index.md)
 
+##### Thailand
 # Thailand's King Bhumibol Adulyadej, 88, the world's longest reigning monarch, is in unstable condition after a hemodialysis treatment. 
 
 Royal palace issues rare statement raising fears for the health of King Bhumibol, the world&#39;s longest reigning monarch.

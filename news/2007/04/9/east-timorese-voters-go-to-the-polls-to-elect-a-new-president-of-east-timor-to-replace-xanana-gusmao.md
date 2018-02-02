@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/04/9/east-timorese-voters-go-to-the-polls-to-elect-a-new-president-of-east-timor-to-replace-xanana-gusmao.html)  [JSON](/news/2007/04/9/east-timorese-voters-go-to-the-polls-to-elect-a-new-president-of-east-timor-to-replace-xanana-gusmao.json)  [XML](/news/2007/04/9/east-timorese-voters-go-to-the-polls-to-elect-a-new-president-of-east-timor-to-replace-xanana-gusmao.xml)  
+
 ### [2007-04-9](/news/2007/04/9/index.md)
 
+##### East Timor
 #  East Timorese voters go to the polls to elect a new President of East Timor to replace Xanana Gusmo.
 
 The presidential election has exposed bitter personal rivalries as well as divisions among clans and regions.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/04/09/world/asia/09timor.html?_r=1&oref=slogin)
+1. [New York Times](https://www.nytimes.com/2007/04/09/world/asia/09timor.html?_r=1&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/2007/04/09/world/09timor.751.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/3/the-death-toll-from-rain-triggered-landslides-and-flooding-in-south-china-s-guangxi-zhuang-autonomous-region-rose-to-44.html)  [JSON](/news/2010/06/3/the-death-toll-from-rain-triggered-landslides-and-flooding-in-south-china-s-guangxi-zhuang-autonomous-region-rose-to-44.json)  [XML](/news/2010/06/3/the-death-toll-from-rain-triggered-landslides-and-flooding-in-south-china-s-guangxi-zhuang-autonomous-region-rose-to-44.xml)  
+
 ### [2010-06-3](/news/2010/06/3/index.md)
 
+##### Guangxi Zhuang
 # The death toll from rain-triggered landslides and flooding in south China's Guangxi Zhuang Autonomous Region rose to 44. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhuanet](http://news.xinhuanet.com/english2010/china/2010-06/03/c_13332357.htm)
 

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/08/15/the-independent-democrats-and-democratic-alliance-opposition-parties-in-south-africa-agree-to-merge-against-the-ruling-african-national-cong.html)  [JSON](/news/2010/08/15/the-independent-democrats-and-democratic-alliance-opposition-parties-in-south-africa-agree-to-merge-against-the-ruling-african-national-cong.json)  [XML](/news/2010/08/15/the-independent-democrats-and-democratic-alliance-opposition-parties-in-south-africa-agree-to-merge-against-the-ruling-african-national-cong.xml)  
+
 ### [2010-08-15](/news/2010/08/15/index.md)
 
+##### Independent Democrats
 # The Independent Democrats and Democratic Alliance opposition parties in South Africa agree to merge against the ruling African National Congress. 
 
+South Africa’s official opposition party, the Democratic Alliance, signed a “memorandum of understanding” to complete a merger with the rival Independent Democrats by 2014, according to an e-mailed statement.
 
 
-
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10981635)
-2. [Bloomberg](http://www.bloomberg.com/news/2010-08-15/south-african-opposition-parties-merge-in-bid-to-unseat-anc-in-elections.html)
+2. [Bloomberg](https://www.bloomberg.com/news/2010-08-15/south-african-opposition-parties-merge-in-bid-to-unseat-anc-in-elections.html)
 3. [Times Live South Africa](http://www.timeslive.co.za/local/article603271.ece/Democratic-Alliance-to-absorb-Independent-Democrats)
-3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
+3. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

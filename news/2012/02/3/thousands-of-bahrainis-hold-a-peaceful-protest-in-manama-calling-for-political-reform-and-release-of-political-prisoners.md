@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/3/thousands-of-bahrainis-hold-a-peaceful-protest-in-manama-calling-for-political-reform-and-release-of-political-prisoners.html)  [JSON](/news/2012/02/3/thousands-of-bahrainis-hold-a-peaceful-protest-in-manama-calling-for-political-reform-and-release-of-political-prisoners.json)  [XML](/news/2012/02/3/thousands-of-bahrainis-hold-a-peaceful-protest-in-manama-calling-for-political-reform-and-release-of-political-prisoners.xml)  
+
 ### [2012-02-3](/news/2012/02/3/index.md)
 
+##### Bahrain
 # Thousands of Bahrainis hold a peaceful protest in Manama calling for political reform and release of political prisoners. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://blogs.aljazeera.net/liveblog/manama-feb-3-2012-2158)
 

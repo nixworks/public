@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/21/the-government-of-japan-announces-a-157-billion-additional-budget-to-cover-the-costs-of-recovering-from-march-s-earthquake-and-tsunami.html)  [JSON](/news/2011/10/21/the-government-of-japan-announces-a-157-billion-additional-budget-to-cover-the-costs-of-recovering-from-march-s-earthquake-and-tsunami.json)  [XML](/news/2011/10/21/the-government-of-japan-announces-a-157-billion-additional-budget-to-cover-the-costs-of-recovering-from-march-s-earthquake-and-tsunami.xml)  
+
 ### [2011-10-21](/news/2011/10/21/index.md)
 
+##### Japanese government
 # The Government of Japan announces a $157 billion additional budget to cover the costs of recovering from March's earthquake and tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/business/feedarticle/9906380)
 

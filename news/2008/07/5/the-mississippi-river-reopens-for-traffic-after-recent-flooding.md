@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/07/5/the-mississippi-river-reopens-for-traffic-after-recent-flooding.html)  [JSON](/news/2008/07/5/the-mississippi-river-reopens-for-traffic-after-recent-flooding.json)  [XML](/news/2008/07/5/the-mississippi-river-reopens-for-traffic-after-recent-flooding.xml)  
+
 ### [2008-07-5](/news/2008/07/5/index.md)
 
+##### Mississippi River
 #  The Mississippi River reopens for traffic after recent flooding. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/reuters/feeds/reuters/2008/07/05/2008-07-05T174632Z_01_N05365860_RTRIDST_0_FLOOD-MISSISSIPPI.html)
+1. [AP via Forbes](https://www.forbes.com/reuters/feeds/reuters/2008/07/05/2008-07-05T174632Z_01_N05365860_RTRIDST_0_FLOOD-MISSISSIPPI.html)
 
 ### Related:
 

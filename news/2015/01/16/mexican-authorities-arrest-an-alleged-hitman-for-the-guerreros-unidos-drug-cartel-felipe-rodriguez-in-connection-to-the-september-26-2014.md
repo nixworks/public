@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/16/mexican-authorities-arrest-an-alleged-hitman-for-the-guerreros-unidos-drug-cartel-felipe-rodriguez-in-connection-to-the-september-26-2014.html)  [JSON](/news/2015/01/16/mexican-authorities-arrest-an-alleged-hitman-for-the-guerreros-unidos-drug-cartel-felipe-rodriguez-in-connection-to-the-september-26-2014.json)  [XML](/news/2015/01/16/mexican-authorities-arrest-an-alleged-hitman-for-the-guerreros-unidos-drug-cartel-felipe-rodriguez-in-connection-to-the-september-26-2014.xml)  
+
 ### [2015-01-16](/news/2015/01/16/index.md)
 
+##### Mexican police
 # Mexican authorities arrest an alleged hitman for the Guerreros Unidos drug cartel, Felipe Rodriguez, in connection to the September 26, 2014 death of 43 college students. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/mexico-detains-suspect-disappearance-43-students-28282155)
 

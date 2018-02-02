@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/05/7/usl-leader-victor-ponta-becomes-prime-minister-of-romania.html)  [JSON](/news/2012/05/7/usl-leader-victor-ponta-becomes-prime-minister-of-romania.json)  [XML](/news/2012/05/7/usl-leader-victor-ponta-becomes-prime-minister-of-romania.xml)  
+
 ### [2012-05-7](/news/2012/05/7/index.md)
 
+##### Social Liberal Union
 # USL Leader, Victor Ponta, becomes Prime Minister of Romania. 
 
 Romanian lawmakers on Monday approved a new left-leaning Cabinet that is expected to continue a slate of economic reforms, but partially restore public sector wages and pensions slashed as part of austerity measures.
 
 
-### Source:
+### Sources:
 
-1. [Yahoo](http://news.yahoo.com/romanias-left-leaning-government-approved-171303269.html)
+1. [Yahoo](https://news.yahoo.com/romanias-left-leaning-government-approved-171303269.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

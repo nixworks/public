@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/05/7/the-fda-blocks-the-over-the-counter-sale-of-a-morning-after-pill-despite-the-23a4-recommendation-of-a-federal-advisory-panel.html)  [JSON](/news/2004/05/7/the-fda-blocks-the-over-the-counter-sale-of-a-morning-after-pill-despite-the-23a4-recommendation-of-a-federal-advisory-panel.json)  [XML](/news/2004/05/7/the-fda-blocks-the-over-the-counter-sale-of-a-morning-after-pill-despite-the-23a4-recommendation-of-a-federal-advisory-panel.xml)  
+
 ### [2004-05-7](/news/2004/05/7/index.md)
 
+##### Food and Drug Administration
 #  The FDA blocks the Over-the-counter sale of a morning-after pill despite the (23-4) recommendation of a federal advisory panel. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2004/05/08/politics/08FDA.html)
-1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+1. [NYT](https://www.nytimes.com/2004/05/08/politics/08FDA.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/14/danish-prime-minister-anders-fogh-rasmussen-s-liberal-conservative-government-has-secured-a-third-term-in-office-following-early-parliament.html)  [JSON](/news/2007/11/14/danish-prime-minister-anders-fogh-rasmussen-s-liberal-conservative-government-has-secured-a-third-term-in-office-following-early-parliament.json)  [XML](/news/2007/11/14/danish-prime-minister-anders-fogh-rasmussen-s-liberal-conservative-government-has-secured-a-third-term-in-office-following-early-parliament.xml)  
+
 ### [2007-11-14](/news/2007/11/14/index.md)
 
+##### Denmark
 #  Danish prime minister Anders Fogh Rasmussen's liberal-conservative government has secured a third term in office following early parliamentary elections to the Folketing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article2866559.ece)
 

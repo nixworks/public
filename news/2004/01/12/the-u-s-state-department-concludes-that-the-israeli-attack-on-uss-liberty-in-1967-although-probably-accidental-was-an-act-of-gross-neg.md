@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/12/the-u-s-state-department-concludes-that-the-israeli-attack-on-uss-liberty-in-1967-although-probably-accidental-was-an-act-of-gross-neg.html)  [JSON](/news/2004/01/12/the-u-s-state-department-concludes-that-the-israeli-attack-on-uss-liberty-in-1967-although-probably-accidental-was-an-act-of-gross-neg.json)  [XML](/news/2004/01/12/the-u-s-state-department-concludes-that-the-israeli-attack-on-uss-liberty-in-1967-although-probably-accidental-was-an-act-of-gross-neg.xml)  
+
 ### [2004-01-12](/news/2004/01/12/index.md)
 
+##### State Department
 #  The U.S. State Department concludes that the Israeli attack on USS "Liberty" in 1967, although probably accidental, was an act of gross negligence and that Israel should be held responsible.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/7/gunmen-attack-the-islamic-consultative-assembly-
 
 ### [2017-06-7](/news/2017/06/7/index.md)
 
+##### Tehran attacks
 # Gunmen attack the Islamic Consultative Assembly and Mausoleum of Ruhollah Khomeini in Tehran, Iran. Eighteen civilians are killed in the attack on the Parliament and one in the attack on the mausoleum. 
 
 Armed men launched two attacks in Iran on Wednesday morning local time, killing a guard at the Parliament and wounding several people at another location.

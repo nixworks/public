@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/10/27/gunmen-open-fire-in-the-armenian-parliament-killing-prime-minister-vazgen-sargsyan-parliament-chairman-karen-demirchyan-and-6-other-member.html)  [JSON](/news/1999/10/27/gunmen-open-fire-in-the-armenian-parliament-killing-prime-minister-vazgen-sargsyan-parliament-chairman-karen-demirchyan-and-6-other-member.json)  [XML](/news/1999/10/27/gunmen-open-fire-in-the-armenian-parliament-killing-prime-minister-vazgen-sargsyan-parliament-chairman-karen-demirchyan-and-6-other-member.xml)  
+
 ### [1999-10-27](/news/1999/10/27/index.md)
 
+##### Armenia
 #  Gunmen open fire in the Armenian parliament killing Prime Minister Vazgen Sargsyan, Parliament Chairman Karen Demirchyan and 6 other members.
 
 

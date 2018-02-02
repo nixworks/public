@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/9/sony-corporation-announces-plans-to-cut-8-000-jobs-and-close-10-of-its-manufacturing-plants.html)  [JSON](/news/2008/12/9/sony-corporation-announces-plans-to-cut-8-000-jobs-and-close-10-of-its-manufacturing-plants.json)  [XML](/news/2008/12/9/sony-corporation-announces-plans-to-cut-8-000-jobs-and-close-10-of-its-manufacturing-plants.xml)  
+
 ### [2008-12-9](/news/2008/12/9/index.md)
 
+##### Sony
 #  Sony Corporation announces plans to cut 8,000 jobs and close 10% of its manufacturing plants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/7772597.stm)
 

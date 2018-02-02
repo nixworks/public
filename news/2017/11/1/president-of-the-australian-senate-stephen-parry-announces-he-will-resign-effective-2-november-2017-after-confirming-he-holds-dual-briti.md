@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/1/president-of-the-australian-senate-stephen-parry
 
 ### [2017-11-1](/news/2017/11/1/index.md)
 
+##### 2017 Australian parliamentary eligibility crisis
 # President of the Australian Senate, Stephen Parry, announces he will resign, effective 2 November 2017, after confirming he holds dual British-Australian citizenship. 
 
 

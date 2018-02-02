@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/11/18/a-south-korean-government-report-finds-that-the-sunshine-policy-to-north-korea-adopted-by-the-former-government-had-not-resulted-in-changes.html)  [JSON](/news/2010/11/18/a-south-korean-government-report-finds-that-the-sunshine-policy-to-north-korea-adopted-by-the-former-government-had-not-resulted-in-changes.json)  [XML](/news/2010/11/18/a-south-korean-government-report-finds-that-the-sunshine-policy-to-north-korea-adopted-by-the-former-government-had-not-resulted-in-changes.xml)  
+
 ### [2010-11-18](/news/2010/11/18/index.md)
 
+##### government
 # A South Korean Government report finds that the Sunshine Policy to North Korea adopted by the former government had not resulted in changes to Pyongyang's behaviour. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo News](http://news.yahoo.com/s/nm/20101118/ts_nm/us_korea_north_sunshine)
+1. [Reuters via Yahoo News](https://news.yahoo.com/s/nm/20101118/ts_nm/us_korea_north_sunshine)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/28/arlington-high-school-lagrange-new-york-announces-that-a-columbine-style-attack-on-the-school-was-thwarted-by-new-york-state-police-who.html)  [JSON](/news/2007/11/28/arlington-high-school-lagrange-new-york-announces-that-a-columbine-style-attack-on-the-school-was-thwarted-by-new-york-state-police-who.json)  [XML](/news/2007/11/28/arlington-high-school-lagrange-new-york-announces-that-a-columbine-style-attack-on-the-school-was-thwarted-by-new-york-state-police-who.xml)  
+
 ### [2007-11-28](/news/2007/11/28/index.md)
 
+##### Arlington High School (LaGrange, New York)
 #  Arlington High School (LaGrange, New York) announces that a Columbine-style attack on the school was thwarted by New York State Police, who arrest three students. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Poughkeepsie Journal](http://www.poughkeepsiejournal.com/apps/pbcs.dll/article?AID=/20071128/NEWS01/71128024)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/7/southern-california-edison-announces-it-will-permanently-close-its-san-onofre-nuclear-power-plant-near-san-diego.html)  [JSON](/news/2013/06/7/southern-california-edison-announces-it-will-permanently-close-its-san-onofre-nuclear-power-plant-near-san-diego.json)  [XML](/news/2013/06/7/southern-california-edison-announces-it-will-permanently-close-its-san-onofre-nuclear-power-plant-near-san-diego.xml)  
+
 ### [2013-06-7](/news/2013/06/7/index.md)
 
+##### Southern California Edison
 # Southern California Edison announces it will permanently close its San Onofre nuclear power plant near San Diego. 
 
 Southern California Edison is shutting the remaining two reactors at San Onofre, citing high repair costs and an NRC ruling that the utility says would delay reactor restarts.
 
 
-### Source:
+### Sources:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/Environment/2013/0607/California-nuclear-plant-to-shut-a-case-of-unforgiving-nuclear-economics)
 1. [Cover Image](http://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_1200x630.png)

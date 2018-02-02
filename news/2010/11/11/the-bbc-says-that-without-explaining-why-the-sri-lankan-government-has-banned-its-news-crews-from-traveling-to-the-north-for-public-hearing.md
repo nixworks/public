@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/11/the-bbc-says-that-without-explaining-why-the-sri-lankan-government-has-banned-its-news-crews-from-traveling-to-the-north-for-public-hearing.html)  [JSON](/news/2010/11/11/the-bbc-says-that-without-explaining-why-the-sri-lankan-government-has-banned-its-news-crews-from-traveling-to-the-north-for-public-hearing.json)  [XML](/news/2010/11/11/the-bbc-says-that-without-explaining-why-the-sri-lankan-government-has-banned-its-news-crews-from-traveling-to-the-north-for-public-hearing.xml)  
+
 ### [2010-11-11](/news/2010/11/11/index.md)
 
+##### BBC
 # The BBC says that without explaining why, the Sri Lankan government has banned its news crews from traveling to the north for public hearings of a commission investigating the civil war. 
 
 The Sri Lankan government again blocks BBC News from travelling to the northern city of Jaffna to attend public hearings of a commission looking into the civil war.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11729962)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

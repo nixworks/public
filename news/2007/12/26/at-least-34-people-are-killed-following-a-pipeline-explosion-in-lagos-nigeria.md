@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/26/at-least-34-people-are-killed-following-a-pipeline-explosion-in-lagos-nigeria.html)  [JSON](/news/2007/12/26/at-least-34-people-are-killed-following-a-pipeline-explosion-in-lagos-nigeria.json)  [XML](/news/2007/12/26/at-least-34-people-are-killed-following-a-pipeline-explosion-in-lagos-nigeria.xml)  
+
 ### [2007-12-26](/news/2007/12/26/index.md)
 
+##### Lagos
 #  At least 34 people are killed following a pipeline explosion in Lagos, Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7160316.stm)
 

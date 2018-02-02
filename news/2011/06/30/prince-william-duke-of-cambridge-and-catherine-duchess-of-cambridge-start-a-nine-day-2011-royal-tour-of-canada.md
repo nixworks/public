@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/30/prince-william-duke-of-cambridge-and-catherine-duchess-of-cambridge-start-a-nine-day-2011-royal-tour-of-canada.html)  [JSON](/news/2011/06/30/prince-william-duke-of-cambridge-and-catherine-duchess-of-cambridge-start-a-nine-day-2011-royal-tour-of-canada.json)  [XML](/news/2011/06/30/prince-william-duke-of-cambridge-and-catherine-duchess-of-cambridge-start-a-nine-day-2011-royal-tour-of-canada.xml)  
+
 ### [2011-06-30](/news/2011/06/30/index.md)
 
+##### Duke of Cambridge
 # Prince William, Duke of Cambridge and Catherine, Duchess of Cambridge start a nine-day 2011 royal tour of Canada. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13979606)
 2. [Canadian Press via ''Winnipeg Free Press](http://www.winnipegfreepress.com/canada/breakingnews/124763414.html)

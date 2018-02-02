@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/30/movember-wraps-up-with-over-50-million-raised-for-prostate-cancer.html)  [JSON](/news/2010/11/30/movember-wraps-up-with-over-50-million-raised-for-prostate-cancer.json)  [XML](/news/2010/11/30/movember-wraps-up-with-over-50-million-raised-for-prostate-cancer.xml)  
+
 ### [2010-11-30](/news/2010/11/30/index.md)
 
+##### Movember
 # Movember wraps up with over $50 million raised for prostate cancer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Leader-Post](http://www.leaderpost.com/health/Month+moustache+hair+raising+success/3907961/story.html)
 2. [Movember](http://ca.movember.com/momoney/)

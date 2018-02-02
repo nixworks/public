@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/25/burma-jails-five-more-dissidents-on-charges-including-associating-with-dissident-groups-abroad.html)  [JSON](/news/2011/02/25/burma-jails-five-more-dissidents-on-charges-including-associating-with-dissident-groups-abroad.json)  [XML](/news/2011/02/25/burma-jails-five-more-dissidents-on-charges-including-associating-with-dissident-groups-abroad.xml)  
+
 ### [2011-02-25](/news/2011/02/25/index.md)
 
+##### Burma
 # Burma jails five more dissidents on charges including associating with dissident groups abroad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_638807.html)
 

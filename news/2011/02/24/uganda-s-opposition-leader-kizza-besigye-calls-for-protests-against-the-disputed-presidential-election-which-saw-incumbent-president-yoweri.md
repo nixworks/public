@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/24/uganda-s-opposition-leader-kizza-besigye-calls-for-protests-against-the-disputed-presidential-election-which-saw-incumbent-president-yoweri.html)  [JSON](/news/2011/02/24/uganda-s-opposition-leader-kizza-besigye-calls-for-protests-against-the-disputed-presidential-election-which-saw-incumbent-president-yoweri.json)  [XML](/news/2011/02/24/uganda-s-opposition-leader-kizza-besigye-calls-for-protests-against-the-disputed-presidential-election-which-saw-incumbent-president-yoweri.xml)  
+
 ### [2011-02-24](/news/2011/02/24/index.md)
 
+##### Uganda
 # Uganda's opposition leader Kizza Besigye calls for protests against the disputed presidential election which saw incumbent President Yoweri Museveni win a fourth term in office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71N0BZ20110224)
 

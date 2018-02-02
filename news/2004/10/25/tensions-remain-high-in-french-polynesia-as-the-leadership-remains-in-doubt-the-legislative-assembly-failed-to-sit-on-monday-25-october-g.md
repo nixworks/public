@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/25/tensions-remain-high-in-french-polynesia-as-the-leadership-remains-in-doubt-the-legislative-assembly-failed-to-sit-on-monday-25-october-g.html)  [JSON](/news/2004/10/25/tensions-remain-high-in-french-polynesia-as-the-leadership-remains-in-doubt-the-legislative-assembly-failed-to-sit-on-monday-25-october-g.json)  [XML](/news/2004/10/25/tensions-remain-high-in-french-polynesia-as-the-leadership-remains-in-doubt-the-legislative-assembly-failed-to-sit-on-monday-25-october-g.xml)  
+
 ### [2004-10-25](/news/2004/10/25/index.md)
 
+##### Tensions
 #  Tensions remain high in French Polynesia as the Leadership remains in doubt. The Legislative Assembly failed to sit on Monday 25 October. Gaston Flosse, elected President on 22 October, attempted to enter the Presidential palace on the weekend but was met by closed gates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Oceania Flash](http://pidp.eastwestcenter.org/pireport/2004/October/10-26-03.htm)
 

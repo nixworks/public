@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/20/the-republic-of-korea-marine-corps-holds-live-fire-drill-exercises-on-yeonpyeong-island-north-korea-says-it-will-not-retaliate.html)  [JSON](/news/2010/12/20/the-republic-of-korea-marine-corps-holds-live-fire-drill-exercises-on-yeonpyeong-island-north-korea-says-it-will-not-retaliate.json)  [XML](/news/2010/12/20/the-republic-of-korea-marine-corps-holds-live-fire-drill-exercises-on-yeonpyeong-island-north-korea-says-it-will-not-retaliate.xml)  
+
 ### [2010-12-20](/news/2010/12/20/index.md)
 
+##### Republic of Korea Marine Corps
 # The Republic of Korea Marine Corps holds live-fire drill exercises on Yeonpyeong Island. North Korea says it will not retaliate. 
 
 South Korea holds live-firing exercises on an island close to the border with North Korea, which Pyongyang condemns but vows not to retaliate.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12033330)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/20/c_13656025.htm)
@@ -17,5 +21,5 @@ South Korea holds live-firing exercises on an island close to the border with No
 1. [South Korea announces plans to hold two frontline artillery drills on Baengnyeong Island and Yeonpyeong Island near North Korea. ](/news/2011/04/30/south-korea-announces-plans-to-hold-two-frontline-artillery-drills-on-baengnyeong-island-and-yeonpyeong-island-near-north-korea.md) _Context: North Korea, Yeonpyeong Island_
 2. [The South Korean military holds a live-fire drill on Yeonpyeong Island which was shelled by North Korea last year. ](/news/2011/03/30/the-south-korean-military-holds-a-live-fire-drill-on-yeonpyeong-island-which-was-shelled-by-north-korea-last-year.md) _Context: North Korea, Yeonpyeong Island_
 3. [North and South Korea agree to hold working-level military talks on 8 February, their first since the attack on Yeonpyeong Island in November last year. ](/news/2011/02/1/north-and-south-korea-agree-to-hold-working-level-military-talks-on-8-february-their-first-since-the-attack-on-yeonpyeong-island-in-novembe.md) _Context: North Korea, Yeonpyeong Island_
-4. [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. Kim Jong-nam was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-kim-j.md) _Context: North Korea_
-5. [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md) _Context: North Korea_
+4. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: North Korea_
+5. [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md) _Context: North Korea_

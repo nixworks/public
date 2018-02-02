@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/6/an-ef-2-tornado-strikes-tulsa-oklahoma-injuring-
 
 ### [2017-08-6](/news/2017/08/6/index.md)
 
+##### 2017 Tulsa tornado
 # An EF-2 tornado strikes Tulsa, Oklahoma, injuring 30 people and damaging dozens of buildings. 
 
 More than 30 people were injured and dozens of buildings damaged when a tornado hit Tulsa early on Sunday, causing power outages to about 17,000 customers after powerful winds snapped utility poles and downed trees in the Oklahoma city, officials said.

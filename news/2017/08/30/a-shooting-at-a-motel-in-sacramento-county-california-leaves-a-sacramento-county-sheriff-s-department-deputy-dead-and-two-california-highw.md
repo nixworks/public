@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/30/a-shooting-at-a-motel-in-sacramento-county-cali
 
 ### [2017-08-30](/news/2017/08/30/index.md)
 
+##### Crime in California
 # A shooting at a motel in Sacramento County, California, leaves a Sacramento County Sheriff's Department deputy dead and two California Highway Patrol officers injured. The suspect is later arrested. 
 
 Deputy Robert French, a 21-year veteran of the Sacramento County Sheriff&#x27;s Department, died from a gunshot wound to his side, Sheriff Scott Jones said.

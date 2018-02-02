@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/27/former-u-s-senator-and-2004-democratic-vice-presidential-candidate-john-edwards-will-run-for-the-2008-democratic-presidential-nomination.html)  [JSON](/news/2006/12/27/former-u-s-senator-and-2004-democratic-vice-presidential-candidate-john-edwards-will-run-for-the-2008-democratic-presidential-nomination.json)  [XML](/news/2006/12/27/former-u-s-senator-and-2004-democratic-vice-presidential-candidate-john-edwards-will-run-for-the-2008-democratic-presidential-nomination.xml)  
+
 ### [2006-12-27](/news/2006/12/27/index.md)
 
+##### John Edwards
 #  Former U.S. Senator and 2004 Democratic Vice-Presidential Candidate John Edwards will run for the 2008 Democratic Presidential Nomination. 
 
 Former Democratic vice presidential nominee John Edwards is running for president for a second time, his campaign said Wednesday. NBC News confirmed the senator&#8217;s intention to run. [!]
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/16371206/)
 1. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/061227/061227_edwardsNO_hmed_2p.standard.jpg)

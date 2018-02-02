@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/04/13/mount-talang-volcano-erupts-in-sumatra-indonesia-27-000-residents-are-evacuated.html)  [JSON](/news/2005/04/13/mount-talang-volcano-erupts-in-sumatra-indonesia-27-000-residents-are-evacuated.json)  [XML](/news/2005/04/13/mount-talang-volcano-erupts-in-sumatra-indonesia-27-000-residents-are-evacuated.xml)  
+
 ### [2005-04-13](/news/2005/04/13/index.md)
 
+##### Mount Talang
 #  Mount Talang volcano erupts in Sumatra, Indonesia. 27,000 residents are evacuated. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [Indonesia Relief](http://www.indonesia-relief.org/mod.php?mod=publisher&op=viewarticle&cid=24&artid=656)
 2. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20050412141048&irec=0)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8151891)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8151891)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

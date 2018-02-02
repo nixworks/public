@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/30/australian-entertainer-rolf-harris-is-convicted-in-london-england-of-12-counts-of-indecent-assault-against-young-girls-between-1968-and-19.html)  [JSON](/news/2014/06/30/australian-entertainer-rolf-harris-is-convicted-in-london-england-of-12-counts-of-indecent-assault-against-young-girls-between-1968-and-19.json)  [XML](/news/2014/06/30/australian-entertainer-rolf-harris-is-convicted-in-london-england-of-12-counts-of-indecent-assault-against-young-girls-between-1968-and-19.xml)  
+
 ### [2014-06-30](/news/2014/06/30/index.md)
 
+##### Australian
 # Australian entertainer Rolf Harris is convicted in London, England, of 12 counts of indecent assault against young girls between 1968 and 1986. The 84-year-old is to be sentenced on Friday 4 July. 
 
 Rolf Harris has been found guilty of indecently assaulting four girls in the UK between 1968 and 1986.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-07-01/rolf-harris-guilty-of-indecently-assaulting-young-girls/5542644)
 1. [Cover Image](http://www.abc.net.au/news/image/5561592-1x1-700x700.jpg)

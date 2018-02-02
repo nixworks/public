@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/04/3/united-states-v-microsoft-microsoft-is-ruled-to-have-violated-united-states-antitrust-laws-by-keeping-an-oppressive-thumb-on-its-compet.html)  [JSON](/news/2000/04/3/united-states-v-microsoft-microsoft-is-ruled-to-have-violated-united-states-antitrust-laws-by-keeping-an-oppressive-thumb-on-its-compet.json)  [XML](/news/2000/04/3/united-states-v-microsoft-microsoft-is-ruled-to-have-violated-united-states-antitrust-laws-by-keeping-an-oppressive-thumb-on-its-compet.xml)  
+
 ### [2000-04-3](/news/2000/04/3/index.md)
 
+##### United States v. Microsoft
 #  United States v. Microsoft: Microsoft is ruled to have violated United States antitrust laws by keeping "an oppressive thumb" on its competitors.
 
 

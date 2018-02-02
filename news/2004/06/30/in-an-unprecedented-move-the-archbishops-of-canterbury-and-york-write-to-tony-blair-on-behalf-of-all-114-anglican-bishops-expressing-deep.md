@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/30/in-an-unprecedented-move-the-archbishops-of-canterbury-and-york-write-to-tony-blair-on-behalf-of-all-114-anglican-bishops-expressing-deep.html)  [JSON](/news/2004/06/30/in-an-unprecedented-move-the-archbishops-of-canterbury-and-york-write-to-tony-blair-on-behalf-of-all-114-anglican-bishops-expressing-deep.json)  [XML](/news/2004/06/30/in-an-unprecedented-move-the-archbishops-of-canterbury-and-york-write-to-tony-blair-on-behalf-of-all-114-anglican-bishops-expressing-deep.xml)  
+
 ### [2004-06-30](/news/2004/06/30/index.md)
 
+##### Archbishop of Canterbury
 #  In an unprecedented move, the Archbishops of Canterbury and York write to Tony Blair on behalf of all 114 Anglican bishops, expressing deep concern about UK government policy and criticising coalition troops' conduct in Iraq. They cite the abuse of Iraqi detainees, which they say has been "deeply damaging"&nbsp;- and state that the government's apparent double standards "diminish the credibility of western governments". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/3852127.stm)
 2. [The Scotsman](http://news.scotsman.com/latest.cfm?id=3142630)

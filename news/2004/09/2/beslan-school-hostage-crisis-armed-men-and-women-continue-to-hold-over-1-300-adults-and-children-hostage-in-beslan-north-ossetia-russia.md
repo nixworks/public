@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/09/2/beslan-school-hostage-crisis-armed-men-and-women-continue-to-hold-over-1-300-adults-and-children-hostage-in-beslan-north-ossetia-russia.html)  [JSON](/news/2004/09/2/beslan-school-hostage-crisis-armed-men-and-women-continue-to-hold-over-1-300-adults-and-children-hostage-in-beslan-north-ossetia-russia.json)  [XML](/news/2004/09/2/beslan-school-hostage-crisis-armed-men-and-women-continue-to-hold-over-1-300-adults-and-children-hostage-in-beslan-north-ossetia-russia.xml)  
+
 ### [2004-09-2](/news/2004/09/2/index.md)
 
+##### Beslan children killed a year ago
 #  Beslan school hostage crisis: Armed men and women continue to hold over 1,300 adults and children hostage in Beslan, North Ossetia, Russia. Russian authorities announce that they have, for the moment, ruled out the use of force to end the standoff, while Chechen rebel leader Aslan Maskhadov denies that his forces are responsible. Late in the day, 26 women and children are released by the hostage-takers. (BBC: [http:--news.bbc.co.uk-2-hi-europe-3620498.stm 1], [http:--news.bbc.co.uk-2-hi-europe-3621418.stm 2])
 
 

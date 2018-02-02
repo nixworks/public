@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/13/two-soldiers-died-and-another-one-was-injured-in-clash-with-pkk-militants-in-ovacik-township-of-southeastern-province-of-tunceli-turkey.html)  [JSON](/news/2010/10/13/two-soldiers-died-and-another-one-was-injured-in-clash-with-pkk-militants-in-ovacik-township-of-southeastern-province-of-tunceli-turkey.json)  [XML](/news/2010/10/13/two-soldiers-died-and-another-one-was-injured-in-clash-with-pkk-militants-in-ovacik-township-of-southeastern-province-of-tunceli-turkey.xml)  
+
 ### [2010-10-13](/news/2010/10/13/index.md)
 
+##### Kurdistan Workers' Party
 # Two soldiers died and another one was injured in clash with PKK militants in Ovacik township of southeastern province of Tunceli, Turkey. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [World Bulletin](http://www.worldbulletin.net/news_detail.php?id=65138)
 

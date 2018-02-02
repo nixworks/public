@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/27/the-u-s-federal-trade-commission-gives-the-anti
 
 ### [2016-12-27](/news/2016/12/27/index.md)
 
+##### U.S. Federal Trade Commission
 # The U.S. Federal Trade Commission gives the antitrust go ahead to Abbott Laboratories in its acquisition of St. Jude Medical. 
 
 Healthcare company Abbott Laboratories (ABT.N) has won U.S. antitrust approval for its proposed $25 billion acquisition of medical device maker St. Jude Medical Inc STJ.N, the U.S. Federal Trade Commission said on Tuesday.

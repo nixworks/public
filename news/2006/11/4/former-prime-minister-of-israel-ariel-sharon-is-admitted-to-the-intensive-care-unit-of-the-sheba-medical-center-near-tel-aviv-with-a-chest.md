@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/4/former-prime-minister-of-israel-ariel-sharon-is-admitted-to-the-intensive-care-unit-of-the-sheba-medical-center-near-tel-aviv-with-a-chest.html)  [JSON](/news/2006/11/4/former-prime-minister-of-israel-ariel-sharon-is-admitted-to-the-intensive-care-unit-of-the-sheba-medical-center-near-tel-aviv-with-a-chest.json)  [XML](/news/2006/11/4/former-prime-minister-of-israel-ariel-sharon-is-admitted-to-the-intensive-care-unit-of-the-sheba-medical-center-near-tel-aviv-with-a-chest.xml)  
+
 ### [2006-11-4](/news/2006/11/4/index.md)
 
+##### Israeli Prime Minister
 #  Former Prime Minister of Israel Ariel Sharon is admitted to the intensive care unit of the Sheba Medical Center near Tel Aviv with a chest infection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6113330.stm)
 

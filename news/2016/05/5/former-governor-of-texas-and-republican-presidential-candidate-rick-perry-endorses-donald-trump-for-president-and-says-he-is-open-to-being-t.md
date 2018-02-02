@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/5/former-governor-of-texas-and-republican-presiden
 
 ### [2016-05-5](/news/2016/05/5/index.md)
 
+##### 2016 U.S. presidential election
 # Former Governor of Texas and Republican presidential candidate Rick Perry endorses Donald Trump for president and says he is open to being Trump's vice-presidential running mate. 
 
 

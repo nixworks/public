@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/28/the-president-of-sri-lanka-maithripala-sirisena-reinstates-former-chief-justice-shirani-bandaranayake-who-had-been-sacked-by-former-presiden.html)  [JSON](/news/2015/01/28/the-president-of-sri-lanka-maithripala-sirisena-reinstates-former-chief-justice-shirani-bandaranayake-who-had-been-sacked-by-former-presiden.json)  [XML](/news/2015/01/28/the-president-of-sri-lanka-maithripala-sirisena-reinstates-former-chief-justice-shirani-bandaranayake-who-had-been-sacked-by-former-presiden.xml)  
+
 ### [2015-01-28](/news/2015/01/28/index.md)
 
+##### President of Sri Lanka
 # The President of Sri Lanka Maithripala Sirisena reinstates former Chief Justice Shirani Bandaranayake who had been sacked by former President Mahinda Rajapaksa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2015/01/28/sri-lanka-politics-judiciary-idINL4N0V74B920150128)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

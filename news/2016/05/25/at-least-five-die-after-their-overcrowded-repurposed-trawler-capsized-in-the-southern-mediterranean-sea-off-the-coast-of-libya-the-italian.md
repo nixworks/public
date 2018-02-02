@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/25/at-least-five-die-after-their-overcrowded-repur
 
 ### [2016-05-25](/news/2016/05/25/index.md)
 
+##### European migrant crisis
 # At least five die after their overcrowded, repurposed trawler capsized in the southern Mediterranean Sea off the coast of Libya. The Italian navy rescued 562 people. 
 
 At least five die as Italian navy rescues 562 people, taking the total transferred to the country this year to 40,000.

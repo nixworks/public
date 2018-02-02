@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2012/06/14/a-ceremony-is-held-in-the-falkland-islands-capital-stanley-to-mark-the-30th-anniversary-of-the-end-of-the-falklands-war.html)  [JSON](/news/2012/06/14/a-ceremony-is-held-in-the-falkland-islands-capital-stanley-to-mark-the-30th-anniversary-of-the-end-of-the-falklands-war.json)  [XML](/news/2012/06/14/a-ceremony-is-held-in-the-falkland-islands-capital-stanley-to-mark-the-30th-anniversary-of-the-end-of-the-falklands-war.xml)  
+
 ### [2012-06-14](/news/2012/06/14/index.md)
 
+##### Falkland Islands
 # A ceremony is held in the Falkland Islands capital Stanley to mark the 30th anniversary of the end of the Falklands War. 
 
 Falkland Islanders mark 30 years since the end of the war with Argentina with a service at Liberation Monument, Port Stanley.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18437000)
 2. [BBC](http://www.bbc.co.uk/news/uk-18453372)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60891000/jpg/_60891005_015036397-1.jpg)
+
+### Changes:
+
+1. [Falklands War anniversary:A ceremony is held in the Falkland Islands capital Stanley to mark the 30th anniversary of the end of the Falklands War. ](/news/2012/06/14/falklands-war-anniversary-pa-ceremony-is-held-in-the-falkland-islands-capital-stanley-to-mark-the-30th-anniversary-of-the-end-of-the-falklan.md) _2017-08-25 03:35:52 (First version)_
+2. [Falklands War anniversary:: A ceremony is held in the Falkland Islands capital Stanley to mark the 30th anniversary of the end of the Falklands War. ](/news/2012/06/14/falklands-war-anniversary-a-ceremony-is-held-in-the-falkland-islands-capital-stanley-to-mark-the-30th-anniversary-of-the-end-of-the-falkla.md) _2017-08-27 03:36:03 (Update)_
+2. [A ceremony is held in the Falkland Islands capital Stanley to mark the 30th anniversary of the end of the Falklands War. ](/news/2012/06/14/a-ceremony-is-held-in-the-falkland-islands-capital-stanley-to-mark-the-30th-anniversary-of-the-end-of-the-falklands-war.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ Falkland Islanders mark 30 years since the end of the war with Argentina with a 
 3. [The results of the Falkland Islands sovereignty referendum are announced with 99.8% of voters supporting the Islands staying as an Overseas Territory of the United Kingdom. ](/news/2013/03/11/the-results-of-the-falkland-islands-sovereignty-referendum-are-announced-with-99-8-of-voters-supporting-the-islands-staying-as-an-overseas.md) _Context: Falkland Islands_
 4. [Residents of the Falkland Islands begin voting in a two day sovereignty referendum on whether the islands should remain a British overseas territory. ](/news/2013/03/10/residents-of-the-falkland-islands-begin-voting-in-a-two-day-sovereignty-referendum-on-whether-the-islands-should-remain-a-british-overseas-t.md) _Context: Falkland Islands_
 5. [The Prime Minister of the United Kingdom David Cameron say the future of the Falkland Islands is up to its inhabitants, not Argentina. His statement comes after the President of Argentina Cristina Fernndez de Kirchner urged the prime minister to abide by a 1965 UN resolution to "negotiate a solution" to the dispute. ](/news/2013/01/3/the-prime-minister-of-the-united-kingdom-david-cameron-say-the-future-of-the-falkland-islands-is-up-to-its-inhabitants-not-argentina-his-s.md) _Context: Falkland Islands_
-
-### Changes:
-
-1. [Falklands War anniversary:A ceremony is held in the Falkland Islands capital Stanley to mark the 30th anniversary of the end of the Falklands War. ](/news/2012/06/14/falklands-war-anniversary-pa-ceremony-is-held-in-the-falkland-islands-capital-stanley-to-mark-the-30th-anniversary-of-the-end-of-the-falklan.md) _2017-08-25 03:35:52 (First version)_
-2. [Falklands War anniversary:: A ceremony is held in the Falkland Islands capital Stanley to mark the 30th anniversary of the end of the Falklands War. ](/news/2012/06/14/falklands-war-anniversary-a-ceremony-is-held-in-the-falkland-islands-capital-stanley-to-mark-the-30th-anniversary-of-the-end-of-the-falkla.md) _2017-08-27 03:36:03 (Update)_
-2. [A ceremony is held in the Falkland Islands capital Stanley to mark the 30th anniversary of the end of the Falklands War. ](/news/2012/06/14/a-ceremony-is-held-in-the-falkland-islands-capital-stanley-to-mark-the-30th-anniversary-of-the-end-of-the-falklands-war.md) _(Current version)_

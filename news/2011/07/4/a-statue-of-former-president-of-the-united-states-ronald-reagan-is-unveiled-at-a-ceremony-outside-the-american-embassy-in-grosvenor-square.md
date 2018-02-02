@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/4/a-statue-of-former-president-of-the-united-states-ronald-reagan-is-unveiled-at-a-ceremony-outside-the-american-embassy-in-grosvenor-square.html)  [JSON](/news/2011/07/4/a-statue-of-former-president-of-the-united-states-ronald-reagan-is-unveiled-at-a-ceremony-outside-the-american-embassy-in-grosvenor-square.json)  [XML](/news/2011/07/4/a-statue-of-former-president-of-the-united-states-ronald-reagan-is-unveiled-at-a-ceremony-outside-the-american-embassy-in-grosvenor-square.xml)  
+
 ### [2011-07-4](/news/2011/07/4/index.md)
 
+##### U.S. President
 # A statue of former President of the United States Ronald Reagan is unveiled at a ceremony outside the American embassy in Grosvenor Square, Central London, opposite a statue of Dwight D. Eisenhower. Those invited include Margaret Thatcher and Condoleezza Rice, while a piece of the Berlin Wall also features. 
 
 A statue of the former US President, Ronald Reagan, is unveiled in central London at a ceremony outside the American embassy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14009137)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53840000/jpg/_53840184_jex_1096216_de27-1.jpg)

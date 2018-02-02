@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/29/the-prime-minister-of-thailand-yingluck-shinawatra-is-hospitalised-in-bangkok-with-suspected-food-poisoning.html)  [JSON](/news/2011/11/29/the-prime-minister-of-thailand-yingluck-shinawatra-is-hospitalised-in-bangkok-with-suspected-food-poisoning.json)  [XML](/news/2011/11/29/the-prime-minister-of-thailand-yingluck-shinawatra-is-hospitalised-in-bangkok-with-suspected-food-poisoning.xml)  
+
 ### [2011-11-29](/news/2011/11/29/index.md)
 
+##### Prime Minister
 # The Prime Minister of Thailand, Yingluck Shinawatra, is hospitalised in Bangkok with suspected food poisoning. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Thailand-PM-hospitalized-with-suspected-food-poisoning/articleshow/10914797.cms)
 

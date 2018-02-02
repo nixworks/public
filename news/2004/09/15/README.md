@@ -1,37 +1,43 @@
+
+Formats: [HTML](2004/09/15/index.html)  [JSON](2004/09/15/index.json)  [XML](2004/09/15/index.xml)  
+
 ## [2004-09-15](/news/2004/09/15/index.md)
 
+##### China and the United Nations
 ### [ China and the United Nations: For the 12th consecutive year, the General Assembly of the United Nations rejects a request for the Republic of China (Taiwan) to be represented in the United Nations. This reiterates the Assembly's position that Resolution 2758, which recognized the People's Republic of China rather than the Republic of China as the sole legitimate representative of "China", prevents Taiwan from being separately represented. The ROC's supporters argue that the resolution did not give the People's Republic the exclusive right to represent the people of Taiwan. ](/news/2004/09/15/china-and-the-united-nations-for-the-12th-consecutive-year-the-general-assembly-of-the-united-nations-rejects-a-request-for-the-republic.md)
-_Context: China and the United Nations, Resolution 2758, Taiwan, UN General Assembly, United Nations_
+_Context: Resolution 2758, UN General Assembly, Taiwan, United Nations, China and the United Nations_
 
+##### South Africa
 ### [ South Africa decides to recognize the Sahrawi Arab Democratic Republic (SADR) because Morocco refuse to discuss the territory self-determination.""Once that process was stopped and Baker resigned and Morocco said its (sovereignty claim) was not negotiable, then we were left with no choice"" declared Nkosazana Dlamini-Zuma. Recognition of the SADR by South Africa had been promised by Nelson Mandela in 1994, but had been postponed by pressures from other countries, as the United States, France or Palestine. Thabo Mbeki stated on a speech to the Pan-African Parliament that the international community should press for Western Sahara's self-determination in the same way as it had done to end South Africa's apartheid. Morocco reacted recalling its ambassador in South Africa for consultations, considering the recognition "partial, surprising and inopportune". ](/news/2004/09/15/south-africa-decides-to-recognize-the-sahrawi-arab-democratic-republic-sadr-because-morocco-refuse-to-discuss-the-territory-self-determin.md)
-_Context: Morocco, Nelson Mandela, Nkosazana Dlamini-Zuma, Pan-African Parliament, SADR, Sahrawi Arab Democratic Republic, South Africa, Thabo Mbeki, Western Sahara, apartheid, self-determination_
+_Context: self-determination, Nkosazana Dlamini-Zuma, Nelson Mandela, Sahrawi Arab Democratic Republic, Western Sahara, SADR, Morocco, Thabo Mbeki, Pan-African Parliament, apartheid, South Africa_
 
+##### federal government
 ### [ Canada's federal government and its provincial and territorial leaders reach an accord to increase funding for the country's national health care system. In exchange for an increase in federal funding of CAD 18 billion over the next six years, provincial and territorial leaders agree to reforms intended to reduce patient waiting times. ](/news/2004/09/15/canada-s-federal-government-and-its-provincial-and-territorial-leaders-reach-an-accord-to-increase-funding-for-the-country-s-national-healt.md)
-_Context: Canadian government, health care system, patient_
+_Context: patient, health care system, federal government_
 
+##### State Department's
 ### [ In a report released today, the U.S. State Department for the first time places the Kingdom of Saudi Arabia on its list of "countries of particular concern" (CPCs) that engage in "particularly severe violations" of religious freedom. A designation as a CPC requires the State Department to take whatever steps are necessary&mdash;up to the level of sanctions&mdash;to increase religious tolerance in the designated country. ](/news/2004/09/15/in-a-report-released-today-the-u-s-state-department-for-the-first-time-places-the-kingdom-of-saudi-arabia-on-its-list-of-countries-of-pa.md)
-_Context: Department of State, Saudi Arabia, religious freedom, sanctions_
+_Context: religious freedom, economic sanctions, Saudi Arabia, State Department's_
 
+##### Palestinian
 ### [ Six Palestinian gunmen and four others are killed by Israeli troops. ](/news/2004/09/15/six-palestinian-gunmen-and-four-others-are-killed-by-israeli-troops.md)
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+_Context: Palestinian_
 
+##### Afghanistan
 ### [ In Afghanistan, three Americans are sentenced to up to 10 years imprisonment for illegally detaining and torturing Afghans, and for running an illegal private jail in Kabul. The defiant Americans&mdash;Jonathan Idema, Brent Bennett, and Edward Caraballo&mdash;say they intend to appeal the decision. ](/news/2004/09/15/in-afghanistan-three-americans-are-sentenced-to-up-to-10-years-imprisonment-for-illegally-detaining-and-torturing-afghans-and-for-running.md)
-_Context: Afghanistan, Brent Bennett, Edward Caraballo, Jonathan Idema, Kabul, appealed_
+_Context: Brent Bennett, Edward Caraballo, appeal, Afghanistan, Jonathan Idema, Kabul_
 
-### [ A Countryside Alliance rally outside Britain's Parliament buildings, in opposition to a bill that would ban fox-hunting, descends into violence as protesters and police clash. Some protesters successfully breach security and enter the floor of the House of Commons. The bill later passes 339&ndash;155. (BBC: [http:--news.bbc.co.uk-1-hi-uk_politics-3656524.stm 1], [http:--news.bbc.co.uk-2-hi-uk_news-politics-3660294.stm 2])](/news/2004/09/15/a-countryside-alliance-rally-outside-britain-s-parliament-buildings-in-opposition-to-a-bill-that-would-ban-fox-hunting-descends-into-viol.md)
-_Context: British House of Commons, Countryside Alliance, Parliament, bill, fox hunting, police_
-
+##### yacht
 ### [ Five crew members of an Irish yacht, who had been adrift in a liferaft for seven days after abandoning their ship, are rescued by helicopter off the Cornwall coast of Britain. The crew members ran out of water on Monday and were running low on food when rescued. ](/news/2004/09/15/five-crew-members-of-an-irish-yacht-who-had-been-adrift-in-a-liferaft-for-seven-days-after-abandoning-their-ship-are-rescued-by-helicopte.md)
-_Context: Cornish, helicopter, lifeboat, yacht_
+_Context: Cornish, helicopter, yacht, lifeboat_
 
-### [ Both the European Union and the government of the United States express concern about Russian President Vladimir Putin's announcement that, as a means of responding to terrorism, he would significantly alter Russia's political system. The Russian government rejects the United States' concerns as inappropriate interference in Russia's internal affairs. (Reuters: [http:--www.reuters.co.uk-newsPackageArticle.jhtml?type=worldNews&storyID=583655&section=news 1], [http:--www.reuters.co.uk-newsPackageArticle.jhtml;jsessionid=PK1I2MCEA22IUCRBAE0CFEY?type=worldNews&storyID=583654&section=news 2])](/news/2004/09/15/both-the-european-union-and-the-government-of-the-united-states-express-concern-about-russian-president-vladimir-putin-s-announcement-that.md)
-_Context: EU, Russian president, United States government, Vladimir Putin, terrorism_
-
+##### Southern California
 ### [ In Southern California, the radio system linking air traffic controllers to high-altitude planes breaks down at 17:00 local time, Tuesday (0000 UTC September 15), prompting the U.S. Federal Aviation Administration (FAA) to halt outgoing flights for three hours at Los Angeles International and several other airports. ](/news/2004/09/15/in-southern-california-the-radio-system-linking-air-traffic-controllers-to-high-altitude-planes-breaks-down-at-17-00-local-time-tuesday.md)
-_Context: Federal Aviation Administration, Los Angeles International Airport, Southern California, UTC, air traffic controller, aircraft, airport_
+_Context: UTC, aircraft, airport, Los Angeles International Airport, Federal Aviation Administration, Southern California, air traffic controller_
 
+##### UTC
 ### [ As of 13:00 local time (1800 UTC September 15), the center of Hurricane Ivan is located about 275 km south of the coast of Alabama and is moving northward at about 23 km-h (14&nbsp;mph). The hurricane is now projected to make landfall along the Gulf Coast of the United States very early on Thursday. Forecasters now predict that there is little risk that the hurricane will pass over New Orleans. A hurricane warning is in effect for the Gulf Coast from New Orleans to the Florida Panhandle. ](/news/2004/09/15/as-of-13-00-local-time-1800-utc-september-15-the-center-of-hurricane-ivan-is-located-about-275-km-south-of-the-coast-of-alabama-and-is-m.md)
-_Context: Alabama, Florida Panhandle, Gulf Coast, Hurricane Ivan, New Orleans, Louisiana, UTC, hurricane warning_
+_Context: New Orleans, Louisiana, Panhandle, Gulf Coast, UTC, Hurricane Ivan, Alabama, hurricane warning_
 
 ## [Previous Day...](/news/2004/09/14/index.md)
 

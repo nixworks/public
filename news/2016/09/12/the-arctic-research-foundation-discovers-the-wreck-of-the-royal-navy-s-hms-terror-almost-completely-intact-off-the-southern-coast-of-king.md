@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/12/the-arctic-research-foundation-discovers-the-wr
 
 ### [2016-09-12](/news/2016/09/12/index.md)
 
+##### Arctic Research Foundation
 # The Arctic Research Foundation discovers the wreck of the Royal Navy's HMS "Terror" almost completely intact off the southern coast of King William Island in the Canadian Arctic Archipelago, 168 years after being abandoned during Franklin's lost expedition in 1848. 
 
 Exclusive: Perfectly preserved HMS Terror vessel sank during disastrous expedition led by British explorer Sir John Franklin

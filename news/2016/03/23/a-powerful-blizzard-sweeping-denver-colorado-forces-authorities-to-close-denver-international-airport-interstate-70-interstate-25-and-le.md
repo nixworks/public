@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/03/23/a-powerful-blizzard-sweeping-denver-colorado-forces-authorities-to-close-denver-international-airport-interstate-70-interstate-25-and-le.html)  [JSON](/news/2016/03/23/a-powerful-blizzard-sweeping-denver-colorado-forces-authorities-to-close-denver-international-airport-interstate-70-interstate-25-and-le.json)  [XML](/news/2016/03/23/a-powerful-blizzard-sweeping-denver-colorado-forces-authorities-to-close-denver-international-airport-interstate-70-interstate-25-and-le.xml)  
+
 ### [2016-03-23](/news/2016/03/23/index.md)
 
+##### 2015-16 North American winter
 # A powerful blizzard sweeping Denver, Colorado, forces authorities to close Denver International Airport, Interstate 70, Interstate 25 and leaves more than 100,000 people without power. The Colorado Army National Guard has been deployed to help rescue those stranded by the storm. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Denver Post''²](http://www.denverpost.com/weathernews/ci_29674842/colorado-snow-totals-march-23-2016?source=pkg)
 2. [The Denver Post](http://www.denverpost.com/weathernews/ci_29674648/denver-under-blizzard-warning-between-6-12-inches)

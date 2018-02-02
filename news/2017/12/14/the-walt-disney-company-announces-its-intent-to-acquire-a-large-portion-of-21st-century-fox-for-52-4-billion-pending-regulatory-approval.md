@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/14/the-walt-disney-company-announces-its-intent-to
 
 ### [2017-12-14](/news/2017/12/14/index.md)
 
+##### The Walt Disney Company
 # The Walt Disney Company announces its intent to acquire a large portion of 21st Century Fox for $52.4 billion, pending regulatory approval. 
 
 Disney will pay $52.4 billion for a large portion of the entertainment giant, combining

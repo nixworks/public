@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/04/2/a-twin-engine-utair-aviation-atr-72-crashes-in-western-siberia-near-the-city-of-tyumen-with-at-least-31-people-dead-of-the-43-on-board.html)  [JSON](/news/2012/04/2/a-twin-engine-utair-aviation-atr-72-crashes-in-western-siberia-near-the-city-of-tyumen-with-at-least-31-people-dead-of-the-43-on-board.json)  [XML](/news/2012/04/2/a-twin-engine-utair-aviation-atr-72-crashes-in-western-siberia-near-the-city-of-tyumen-with-at-least-31-people-dead-of-the-43-on-board.xml)  
+
 ### [2012-04-2](/news/2012/04/2/index.md)
 
+##### UTair Aviation
 # A twin engine UTair Aviation ATR-72 crashes in western Siberia near the city of Tyumen with at least 31 people dead of the 43 on board. 
 
 A passenger plane carrying 43 people has crashed shortly after take-off in Siberia, killing 31, Russian officials say.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Nine-MSN](http://news.ninemsn.com.au/world/8445264/plane-crashes-in-siberia-with-43-on-board)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-17580917)
-3. [Reuters](http://www.reuters.com/article/2012/04/02/us-russia-crash-idUSBRE83102N20120402?feedType=RSS&feedName=topNews)
+3. [Reuters](https://www.reuters.com/article/2012/04/02/us-russia-crash-idUSBRE83102N20120402?feedType=RSS&feedName=topNews)
 3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59430000/jpg/_59430468_014420468-1.jpg)
 
 ### Related:

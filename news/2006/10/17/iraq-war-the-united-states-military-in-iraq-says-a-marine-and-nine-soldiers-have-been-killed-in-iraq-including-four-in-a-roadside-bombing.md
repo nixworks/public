@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/17/iraq-war-the-united-states-military-in-iraq-says-a-marine-and-nine-soldiers-have-been-killed-in-iraq-including-four-in-a-roadside-bombing.html)  [JSON](/news/2006/10/17/iraq-war-the-united-states-military-in-iraq-says-a-marine-and-nine-soldiers-have-been-killed-in-iraq-including-four-in-a-roadside-bombing.json)  [XML](/news/2006/10/17/iraq-war-the-united-states-military-in-iraq-says-a-marine-and-nine-soldiers-have-been-killed-in-iraq-including-four-in-a-roadside-bombing.xml)  
+
 ### [2006-10-17](/news/2006/10/17/index.md)
 
+##### Iraq War
 #  Iraq War: The United States military in Iraq says a marine and nine soldiers have been killed in Iraq, including four in a roadside bombing near Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC NEWS](http://news.bbc.co.uk/1/hi/world/middle_east/6061488.stm)
 

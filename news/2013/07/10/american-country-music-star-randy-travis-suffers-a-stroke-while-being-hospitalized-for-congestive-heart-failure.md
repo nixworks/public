@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/10/american-country-music-star-randy-travis-suffers-a-stroke-while-being-hospitalized-for-congestive-heart-failure.html)  [JSON](/news/2013/07/10/american-country-music-star-randy-travis-suffers-a-stroke-while-being-hospitalized-for-congestive-heart-failure.json)  [XML](/news/2013/07/10/american-country-music-star-randy-travis-suffers-a-stroke-while-being-hospitalized-for-congestive-heart-failure.xml)  
+
 ### [2013-07-10](/news/2013/07/10/index.md)
 
+##### Randy Travis
 # American country music star Randy Travis suffers a stroke while being hospitalized for congestive heart failure. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://music.msn.com/music/article.aspx?news=817297)
 

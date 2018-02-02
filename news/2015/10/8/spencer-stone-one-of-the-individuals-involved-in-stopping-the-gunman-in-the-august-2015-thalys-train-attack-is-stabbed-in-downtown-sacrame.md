@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/8/spencer-stone-one-of-the-individuals-involved-in-stopping-the-gunman-in-the-august-2015-thalys-train-attack-is-stabbed-in-downtown-sacrame.html)  [JSON](/news/2015/10/8/spencer-stone-one-of-the-individuals-involved-in-stopping-the-gunman-in-the-august-2015-thalys-train-attack-is-stabbed-in-downtown-sacrame.json)  [XML](/news/2015/10/8/spencer-stone-one-of-the-individuals-involved-in-stopping-the-gunman-in-the-august-2015-thalys-train-attack-is-stabbed-in-downtown-sacrame.xml)  
+
 ### [2015-10-8](/news/2015/10/8/index.md)
 
+##### Spencer Stone
 # Spencer Stone, one of the individuals involved in stopping the gunman in the August 2015 Thalys train attack, is stabbed in downtown Sacramento. Police said the incident is not related to a terrorist act; the assault occurred near a bar. He is in stable condition at a hospital with what are believed to be non-life threatening wounds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://www.msn.com/en-us/news/us/us-hero-of-french-train-attack-stabbed-in-calif/ar-AAfexfe?li=AAa0dzB&ocid=iehp)
 

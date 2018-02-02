@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2012/10/18/the-boy-scouts-of-america-release-documents-containing-over-15-000-pages-relating-to-allegations-of-sexual-abuse-by-over-1200-scout-leaders.html)  [JSON](/news/2012/10/18/the-boy-scouts-of-america-release-documents-containing-over-15-000-pages-relating-to-allegations-of-sexual-abuse-by-over-1200-scout-leaders.json)  [XML](/news/2012/10/18/the-boy-scouts-of-america-release-documents-containing-over-15-000-pages-relating-to-allegations-of-sexual-abuse-by-over-1200-scout-leaders.xml)  
+
 ### [2012-10-18](/news/2012/10/18/index.md)
 
-# The Boy Scouts of America release documents containing over 15,000 pages relating to allegations of sexual abuse by over 1200 scout leaders between 1965-1985.[http:--www.nytimes.com-2012-10-19-us-boy-scout-documents-reveal-decades-of-sexual-abuse.html?pagewanted=all "(New York Times)"]
+##### Boy Scouts of America
+# The Boy Scouts of America release documents containing over 15,000 pages relating to allegations of sexual abuse by over 1200 scout leaders between 1965-1985.[https:--www.nytimes.com-2012-10-19-us-boy-scout-documents-reveal-decades-of-sexual-abuse.html?pagewanted=all "(New York Times)"]
 
 
 

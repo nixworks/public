@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/1/alu-alkhanov-is-confirmed-as-the-winner-of-the-presidential-election-in-chechnya-with-73-68-percent-of-the-vote.html)  [JSON](/news/2004/09/1/alu-alkhanov-is-confirmed-as-the-winner-of-the-presidential-election-in-chechnya-with-73-68-percent-of-the-vote.json)  [XML](/news/2004/09/1/alu-alkhanov-is-confirmed-as-the-winner-of-the-presidential-election-in-chechnya-with-73-68-percent-of-the-vote.xml)  
+
 ### [2004-09-1](/news/2004/09/1/index.md)
 
+##### Alu Alkhanov
 #  Alu Alkhanov is confirmed as the winner of the presidential election in Chechnya, with 73.68 percent of the vote. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3619428.stm)
 

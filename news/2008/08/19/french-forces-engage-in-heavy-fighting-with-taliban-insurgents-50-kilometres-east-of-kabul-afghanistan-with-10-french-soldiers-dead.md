@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/19/french-forces-engage-in-heavy-fighting-with-taliban-insurgents-50-kilometres-east-of-kabul-afghanistan-with-10-french-soldiers-dead.html)  [JSON](/news/2008/08/19/french-forces-engage-in-heavy-fighting-with-taliban-insurgents-50-kilometres-east-of-kabul-afghanistan-with-10-french-soldiers-dead.json)  [XML](/news/2008/08/19/french-forces-engage-in-heavy-fighting-with-taliban-insurgents-50-kilometres-east-of-kabul-afghanistan-with-10-french-soldiers-dead.xml)  
+
 ### [2008-08-19](/news/2008/08/19/index.md)
 
+##### military
 #  French forces engage in heavy fighting with Taliban insurgents 50 kilometres east of Kabul, Afghanistan with 10 French soldiers dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5g_h4Wj1hGIFHdZnvHx5hh7J_mjaw)
 2. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7569942.stm)

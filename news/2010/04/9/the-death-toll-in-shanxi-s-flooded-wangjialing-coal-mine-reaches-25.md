@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/9/the-death-toll-in-shanxi-s-flooded-wangjialing-coal-mine-reaches-25.html)  [JSON](/news/2010/04/9/the-death-toll-in-shanxi-s-flooded-wangjialing-coal-mine-reaches-25.json)  [XML](/news/2010/04/9/the-death-toll-in-shanxi-s-flooded-wangjialing-coal-mine-reaches-25.xml)  
+
 ### [2010-04-9](/news/2010/04/9/index.md)
 
+##### Shanxi province
 # The death toll in Shanxi's flooded Wangjialing coal mine reaches 25. 
 
 Beijing says 28 workers confirmed dead as hopes to find missing begin to fade.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/2010497473559778.html)
 1. [Cover Image](http://www.aljazeera.com)

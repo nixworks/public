@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2008/07/12/six-party-talks-being-held-in-beijing-agrees-on-steps-to-verify-the-end-of-north-korea-s-nuclear-weapons-program.html)  [JSON](/news/2008/07/12/six-party-talks-being-held-in-beijing-agrees-on-steps-to-verify-the-end-of-north-korea-s-nuclear-weapons-program.json)  [XML](/news/2008/07/12/six-party-talks-being-held-in-beijing-agrees-on-steps-to-verify-the-end-of-north-korea-s-nuclear-weapons-program.xml)  
+
 ### [2008-07-12](/news/2008/07/12/index.md)
 
+##### Six party talks
 #  Six party talks being held in Beijing agrees on steps to verify the end of North Korea's nuclear weapons program. 
 
 Six-party talks agree on steps to verify disarmament.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2008/07/20087125270208222.html)
 1. [Cover Image](http://www.aljazeera.com)
 
 ### Related:
 
-1. [The United States and North Korea are expected to hold diplomatic talks regarding North Korea's nuclear program. The talks are the first meeting after the six-party talks stalled in 2008. ](/news/2011/12/16/the-united-states-and-north-korea-are-expected-to-hold-diplomatic-talks-regarding-north-korea-s-nuclear-program-the-talks-are-the-first-mee.md) _Context: North Korea, its nuclear weapons program, six-party talks_
-2. [A South Korean presidential aide warns that North Korea could conduct a third nuclear weapons test if disarmament negotiations do not resume. ](/news/2011/10/7/a-south-korean-presidential-aide-warns-that-north-korea-could-conduct-a-third-nuclear-weapons-test-if-disarmament-negotiations-do-not-resume.md) _Context: North Korea, its nuclear weapons program, six-party talks_
-3. [The governments of North Korea and South Korea meet but fail to reach an agreement on the resumption of Six-party talks on North Korea's nuclear weapons program. ](/news/2011/09/21/the-governments-of-north-korea-and-south-korea-meet-but-fail-to-reach-an-agreement-on-the-resumption-of-six-party-talks-on-north-korea-s-nuc.md) _Context: North Korea, its nuclear weapons program, six-party talks_
-4. [North Korea agrees to further talks with the United States as part of efforts to restore Six Party talks on its nuclear weapons program. ](/news/2011/08/1/north-korea-agrees-to-further-talks-with-the-united-states-as-part-of-efforts-to-restore-six-party-talks-on-its-nuclear-weapons-program.md) _Context: North Korea, its nuclear weapons program, six-party talks_
-5. [Senior North Korean diplomat Kim Kye Gwan heads to the United States for discussions on reopening the six party talks on his country's nuclear weapons program. ](/news/2011/07/26/senior-north-korean-diplomat-kim-kye-gwan-heads-to-the-united-states-for-discussions-on-reopening-the-six-party-talks-on-his-country-s-nucle.md) _Context: North Korea, its nuclear weapons program, six-party talks_
+1. [South Korean President Moon Jae-in, responding to North Korean leader Kim Jong-un's offer during his New Year's Day address, proposes a meeting to discuss the Winter Olympics and North Korea's nuclear program next Tuesday at the border city of Panmunjom. ](/news/2018/01/2/south-korean-president-moon-jae-in-responding-to-north-korean-leader-kim-jong-un-s-offer-during-his-new-yearas-day-address-proposes-a-me.md) _Context: North Korea, North Korea's nuclear program_
+2. [North Korea is building its first operational ballistic missile submarine on an "accelerated schedule," according to the US-Korea Institute of Johns Hopkins School of Advanced International Studies. ](/news/2017/12/27/north-korea-is-building-its-first-operational-ballistic-missile-submarine-on-an-aaccelerated-schedule-a-according-to-the-us-korea-instit.md) _Context: North Korea, North Korea's nuclear program_
+3. [The United Nations Security Council unanimously imposes new sanctions on North Korea that caps refined petroleum product imports to 500,000 barrels a year, a 90 percent cut, and demands the repatriation of North Koreans working abroad within 24 months. ](/news/2017/12/22/the-united-nations-security-council-unanimously-imposes-new-sanctions-on-north-korea-that-caps-refined-petroleum-product-imports-to-500-000.md) _Context: North Korea, North Korea's nuclear program_
+4. [A North Korean defector claims children are being born with deformities near North Korea's nuclear testing site. ](/news/2017/11/7/a-north-korean-defector-claims-children-are-being-born-with-deformities-near-north-korea-s-nuclear-testing-site.md) _Context: North Korea, North Korea's nuclear program_
+5. [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _Context: North Korea, North Korea's nuclear program_

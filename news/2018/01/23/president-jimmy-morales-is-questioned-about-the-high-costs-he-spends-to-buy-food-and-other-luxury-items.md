@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/23/president-jimmy-morales-is-questioned-about-the
 
 ### [2018-01-23](/news/2018/01/23/index.md)
 
+##### Politics of Guatemala
 # President Jimmy Morales is questioned about the high costs he spends to buy food and other luxury items. 
 
 The president says he could not be expected to pay for luxury goods from his salary.

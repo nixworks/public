@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/25/iraq-inquiry-witness-carne-ross-alleges-the-british-government-is-covering-up-embarrassing-testimony-about-its-decision-to-invade-iraq-in.html)  [JSON](/news/2010/07/25/iraq-inquiry-witness-carne-ross-alleges-the-british-government-is-covering-up-embarrassing-testimony-about-its-decision-to-invade-iraq-in.json)  [XML](/news/2010/07/25/iraq-inquiry-witness-carne-ross-alleges-the-british-government-is-covering-up-embarrassing-testimony-about-its-decision-to-invade-iraq-in.xml)  
+
 ### [2010-07-25](/news/2010/07/25/index.md)
 
+##### Iraq Inquiry
 # Iraq Inquiry witness Carne Ross alleges the British government is covering up "embarrassing testimony" about its decision to invade Iraq in 2003. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel 4](http://www.channel4.com/news/articles/uk/accusations+of+iraq+war+coverup/3723132)
 2. [The Observer](http://www.guardian.co.uk/uk/2010/jul/25/chilcot-inquiry-iraq-cover-up-claim)

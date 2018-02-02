@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/10/in-azerbaijan-about-30-000-other-sources-varying-from-10-000-up-to-50-000-opposition-members-demonstrated-in-the-country-s-capital-call.html)  [JSON](/news/2005/07/10/in-azerbaijan-about-30-000-other-sources-varying-from-10-000-up-to-50-000-opposition-members-demonstrated-in-the-country-s-capital-call.json)  [XML](/news/2005/07/10/in-azerbaijan-about-30-000-other-sources-varying-from-10-000-up-to-50-000-opposition-members-demonstrated-in-the-country-s-capital-call.xml)  
+
 ### [2005-07-10](/news/2005/07/10/index.md)
 
+##### Azerbaijan
 #  In Azerbaijan, about 30,000 (other sources varying from 10,000 up to 50,000) opposition members demonstrated in the country's capital, calling for fair parliamentary elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Photos](http://azerphoto.com/gallery/thumbnails.php?album=20)
 

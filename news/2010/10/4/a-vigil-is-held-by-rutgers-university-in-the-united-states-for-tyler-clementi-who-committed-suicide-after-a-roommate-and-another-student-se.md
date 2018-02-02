@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/4/a-vigil-is-held-by-rutgers-university-in-the-united-states-for-tyler-clementi-who-committed-suicide-after-a-roommate-and-another-student-se.html)  [JSON](/news/2010/10/4/a-vigil-is-held-by-rutgers-university-in-the-united-states-for-tyler-clementi-who-committed-suicide-after-a-roommate-and-another-student-se.json)  [XML](/news/2010/10/4/a-vigil-is-held-by-rutgers-university-in-the-united-states-for-tyler-clementi-who-committed-suicide-after-a-roommate-and-another-student-se.xml)  
+
 ### [2010-10-4](/news/2010/10/4/index.md)
 
+##### Rutgers University
 # A vigil is held by Rutgers University in the United States for Tyler Clementi, who committed suicide after a roommate and another student secretly streamed online a private sexual encounter he had with a man. 
 
 Rutgers University in the US has held a silent vigil to remember a student who committed suicide after his sexual encounter with a man was streamed online.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Age](http://news.theage.com.au/breaking-news-world/vigil-for-us-student-20101004-163gx.html)
 1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)

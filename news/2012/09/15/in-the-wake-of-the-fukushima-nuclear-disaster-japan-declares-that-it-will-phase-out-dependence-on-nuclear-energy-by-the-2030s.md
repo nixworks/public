@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/15/in-the-wake-of-the-fukushima-nuclear-disaster-japan-declares-that-it-will-phase-out-dependence-on-nuclear-energy-by-the-2030s.html)  [JSON](/news/2012/09/15/in-the-wake-of-the-fukushima-nuclear-disaster-japan-declares-that-it-will-phase-out-dependence-on-nuclear-energy-by-the-2030s.json)  [XML](/news/2012/09/15/in-the-wake-of-the-fukushima-nuclear-disaster-japan-declares-that-it-will-phase-out-dependence-on-nuclear-energy-by-the-2030s.xml)  
+
 ### [2012-09-15](/news/2012/09/15/index.md)
 
+##### Fukushima Daiichi nuclear disaster
 # In the wake of the Fukushima nuclear disaster, Japan declares that it will phase out dependence on nuclear energy by the 2030s. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyodo News via ''Mainichi Shimbun](http://mainichi.jp/english/english/newsselect/news/20120915p2g00m0dm003000c.html)
 

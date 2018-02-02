@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/18/at-least-60-taliban-militants-are-killed-in-an-ongoing-offensive-in-south-waziristan-northwest-pakistan.html)  [JSON](/news/2009/10/18/at-least-60-taliban-militants-are-killed-in-an-ongoing-offensive-in-south-waziristan-northwest-pakistan.json)  [XML](/news/2009/10/18/at-least-60-taliban-militants-are-killed-in-an-ongoing-offensive-in-south-waziristan-northwest-pakistan.xml)  
+
 ### [2009-10-18](/news/2009/10/18/index.md)
 
+##### Taliban
 #  At least 60 Taliban militants are killed in an ongoing offensive in South Waziristan, northwest Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2009/oct/18/pakistan-offensive-taliban)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-10/18/content_12262653.htm)

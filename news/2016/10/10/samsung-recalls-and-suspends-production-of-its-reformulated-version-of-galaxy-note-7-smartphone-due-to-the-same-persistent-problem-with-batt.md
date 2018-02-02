@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/10/samsung-recalls-and-suspends-production-of-its-
 
 ### [2016-10-10](/news/2016/10/10/index.md)
 
+##### Samsung
 # Samsung recalls and suspends production of its reformulated-version of Galaxy Note 7 smartphone due to the same persistent problem with battery fires and explosions. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/14/french-film-and-television-actor-louis-jourdan-gigi-dies-at-the-age-of-93.html)  [JSON](/news/2015/02/14/french-film-and-television-actor-louis-jourdan-gigi-dies-at-the-age-of-93.json)  [XML](/news/2015/02/14/french-film-and-television-actor-louis-jourdan-gigi-dies-at-the-age-of-93.xml)  
+
 ### [2015-02-14](/news/2015/02/14/index.md)
 
+##### French-born
 # French film and television actor Louis Jourdan ("Gigi") dies at the age of 93. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People](http://www.people.com/people/archive/article/0,,20089688,00.html)
 

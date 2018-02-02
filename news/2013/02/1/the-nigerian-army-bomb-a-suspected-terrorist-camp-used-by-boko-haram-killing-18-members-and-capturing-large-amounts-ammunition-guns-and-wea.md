@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2013/02/1/the-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amounts-ammunition-guns-and-wea.html)  [JSON](/news/2013/02/1/the-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amounts-ammunition-guns-and-wea.json)  [XML](/news/2013/02/1/the-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amounts-ammunition-guns-and-wea.xml)  
+
 ### [2013-02-1](/news/2013/02/1/index.md)
 
+##### Nigerian Army
 # The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. 
 
 The JTF said it lost one of its officials in the attack in Northern Nigeria
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21299327)
 2. [Premium Times](http://premiumtimesng.com/news/118236-18-killed-as-jtf-bombs-boko-haram-training-camp-in-maiduguri.html)
 2. [Cover Image](http://media.premiumtimesng.com/wp-content/files/banners/JTF_Boko_Haram_221153985.jpg)
+
+### Changes:
+
+1. [Nigerian Sharia conflict:The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/nigerian-sharia-conflict-pthe-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amount.md) _2017-08-25 03:37:24 (First version)_
+2. [Nigerian Sharia conflict:: The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/nigerian-sharia-conflict-the-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amoun.md) _2017-08-27 03:37:34 (Update)_
+2. [The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/the-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amounts-ammunition-guns-and-wea.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ The JTF said it lost one of its officials in the attack in Northern Nigeria
 3. [The Nigerian Army claims to have rescued more than 800 hostages from Boko Haram while performing a "clearance operation" in the Northeastern part of Nigeria with fighting killing 22 insurgents. ](/news/2016/03/25/the-nigerian-army-claims-to-have-rescued-more-than-800-hostages-from-boko-haram-while-performing-a-clearance-operation-in-the-northeastern.md) _Context: Boko Haram, Nigerian Army_
 4. [Nigerian Army soldiers rescue 178 people from Boko Haram camps including 101 children. ](/news/2015/08/2/nigerian-army-soldiers-rescue-178-people-from-boko-haram-camps-including-101-children.md) _Context: Boko Haram, Nigerian Army_
 5. [2015 West African offensive: The Nigerian Army rescues a further 160 women and children from a Boko Haram camp in the Sambisa Forest. ](/news/2015/04/30/2015-west-african-offensive-the-nigerian-army-rescues-a-further-160-women-and-children-from-a-boko-haram-camp-in-the-sambisa-forest.md) _Context: Boko Haram, Nigerian Army_
-
-### Changes:
-
-1. [Nigerian Sharia conflict:The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/nigerian-sharia-conflict-pthe-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amount.md) _2017-08-25 03:37:24 (First version)_
-2. [Nigerian Sharia conflict:: The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/nigerian-sharia-conflict-the-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amoun.md) _2017-08-27 03:37:34 (Update)_
-2. [The Nigerian army bomb a suspected terrorist camp used by Boko Haram killing 18 members and capturing large amounts ammunition, guns and weapons. ](/news/2013/02/1/the-nigerian-army-bomb-a-suspected-terrorist-camp-used-by-boko-haram-killing-18-members-and-capturing-large-amounts-ammunition-guns-and-wea.md) _(Current version)_

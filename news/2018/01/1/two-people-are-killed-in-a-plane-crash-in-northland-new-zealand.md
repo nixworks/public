@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/1/two-people-are-killed-in-a-plane-crash-in-northl
 
 ### [2018-01-1](/news/2018/01/1/index.md)
 
+##### Northland
 # Two people are killed in a plane crash in Northland, New Zealand. 
 
 
@@ -15,8 +16,8 @@ Formats: [HTML](/news/2018/01/1/two-people-are-killed-in-a-plane-crash-in-northl
 
 ### Related:
 
-1. [Terminally ill patients in New Zealand are now able to take medicinal cannabis. ](/news/2017/12/20/terminally-ill-patients-in-new-zealand-are-now-able-to-take-medicinal-cannabis.md) _Context: New Zealand_
-2. [An offer is made by New Zealand prime minister Jacinda Ardern to resettle refugees stuck in the Manus Regional Processing Centre but is rejected by Australian Prime Minister Malcolm Turnbull. The processing center has triggered a humanitarian crisis for the refugees and protests in Australian cities. ](/news/2017/11/4/an-offer-is-made-by-new-zealand-prime-minister-jacinda-ardern-to-resettle-refugees-stuck-in-the-manus-regional-processing-centre-but-is-reje.md) _Context: New Zealand_
-3. [Voters in New Zealand go to the polls, electing all members of their House of Representatives and the consequent Prime Minister. ](/news/2017/09/23/voters-in-new-zealand-go-to-the-polls-electing-all-members-of-their-house-of-representatives-and-the-consequent-prime-minister.md) _Context: New Zealand_
-4. [The Labour Party, led by Jacinda Ardern, surges in the polls and is neck-and-neck with the National Party, led by Bill English, for the race for Prime Minister of New Zealand. ](/news/2017/09/1/the-labour-party-led-by-jacinda-ardern-surges-in-the-polls-and-is-neck-and-neck-with-the-national-party-led-by-bill-english-for-the-race.md) _Context: New Zealand_
-5. [New Zealand announces the stationing of three more non-combat military personnel in Afghanistan, boosting its military commitment to 13. ](/news/2017/08/25/new-zealand-announces-the-stationing-of-three-more-non-combat-military-personnel-in-afghanistan-boosting-its-military-commitment-to-13.md) _Context: New Zealand_
+1. [Seven survivors from the MV "Butiraoi", six adults and a baby, are found in a dinghy and rescued, four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there is a lot of debris near the dinghy, but no sign of anyone else. ](/news/2018/01/28/seven-survivors-from-the-mv-butiraoi-six-adults-and-a-baby-are-found-in-a-dinghy-and-rescued-four-days-after-the-50-passenger-ferry-san.md) _Context: New Zealand_
+2. [Rocket Lab successfully launches test rocket Electron into orbit from Mahia Peninsula, New Zealand, becoming the first rocket to reach orbit using an electric-pump-fed engine, after the original rocket launch in May 2017 had to be aborted by safety officials. ](/news/2018/01/21/rocket-lab-successfully-launches-test-rocket-electron-into-orbit-from-mahia-peninsula-new-zealand-becoming-the-first-rocket-to-reach-orbit.md) _Context: New Zealand_
+3. [Terminally ill patients in New Zealand are now able to take medicinal cannabis. ](/news/2017/12/20/terminally-ill-patients-in-new-zealand-are-now-able-to-take-medicinal-cannabis.md) _Context: New Zealand_
+4. [An offer is made by New Zealand prime minister Jacinda Ardern to resettle refugees stuck in the Manus Regional Processing Centre but is rejected by Australian Prime Minister Malcolm Turnbull. The processing center has triggered a humanitarian crisis for the refugees and protests in Australian cities. ](/news/2017/11/4/an-offer-is-made-by-new-zealand-prime-minister-jacinda-ardern-to-resettle-refugees-stuck-in-the-manus-regional-processing-centre-but-is-reje.md) _Context: New Zealand_
+5. [Voters in New Zealand go to the polls, electing all members of their House of Representatives and the consequent Prime Minister. ](/news/2017/09/23/voters-in-new-zealand-go-to-the-polls-electing-all-members-of-their-house-of-representatives-and-the-consequent-prime-minister.md) _Context: New Zealand_

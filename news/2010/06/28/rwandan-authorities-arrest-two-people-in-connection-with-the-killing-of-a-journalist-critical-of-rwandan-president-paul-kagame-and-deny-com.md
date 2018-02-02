@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/28/rwandan-authorities-arrest-two-people-in-connection-with-the-killing-of-a-journalist-critical-of-rwandan-president-paul-kagame-and-deny-com.html)  [JSON](/news/2010/06/28/rwandan-authorities-arrest-two-people-in-connection-with-the-killing-of-a-journalist-critical-of-rwandan-president-paul-kagame-and-deny-com.json)  [XML](/news/2010/06/28/rwandan-authorities-arrest-two-people-in-connection-with-the-killing-of-a-journalist-critical-of-rwandan-president-paul-kagame-and-deny-com.xml)  
+
 ### [2010-06-28](/news/2010/06/28/index.md)
 
+##### Rwanda
 # Rwandan authorities arrest two people in connection with the killing of a journalist critical of Rwandan President Paul Kagame, and deny complicity in the murder. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jAaIJ3B2FlAayu6sSE4Sh3f12Q0g)
 2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iIHDE3QW5_Gljs5EQp86dLjlMvBwD9GJ351G0)

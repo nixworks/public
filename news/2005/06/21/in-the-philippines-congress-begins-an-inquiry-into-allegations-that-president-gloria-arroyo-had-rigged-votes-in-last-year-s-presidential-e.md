@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/21/in-the-philippines-congress-begins-an-inquiry-into-allegations-that-president-gloria-arroyo-had-rigged-votes-in-last-year-s-presidential-e.html)  [JSON](/news/2005/06/21/in-the-philippines-congress-begins-an-inquiry-into-allegations-that-president-gloria-arroyo-had-rigged-votes-in-last-year-s-presidential-e.json)  [XML](/news/2005/06/21/in-the-philippines-congress-begins-an-inquiry-into-allegations-that-president-gloria-arroyo-had-rigged-votes-in-last-year-s-presidential-e.xml)  
+
 ### [2005-06-21](/news/2005/06/21/index.md)
 
+##### Philippines
 #  In the Philippines, congress begins an inquiry into allegations that president Gloria Arroyo had rigged votes in last year's presidential elections. President states that she will comment on the process later. Her supporters and the opposition demonstrate in Manila 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/analysis/view/153847/1/.html)
 2. [INQ7, Philippines](http://news.inq7.net/breaking/index.php?index=1&story_id=41052)

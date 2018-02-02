@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/10/13/the-u-s-federal-reserve-approves-the-merger-of-wells-fargo-and-wachovia-after-citigroup-withdraws-the-legal-case-in-a-new-york-federal-cou.html)  [JSON](/news/2008/10/13/the-u-s-federal-reserve-approves-the-merger-of-wells-fargo-and-wachovia-after-citigroup-withdraws-the-legal-case-in-a-new-york-federal-cou.json)  [XML](/news/2008/10/13/the-u-s-federal-reserve-approves-the-merger-of-wells-fargo-and-wachovia-after-citigroup-withdraws-the-legal-case-in-a-new-york-federal-cou.xml)  
+
 ### [2008-10-13](/news/2008/10/13/index.md)
 
+##### U.S. Federal Reserve
 #  The U.S. Federal Reserve approves the merger of Wells Fargo and Wachovia after Citigroup withdraws the legal case in a New York federal court to put a hold on the merger.
 
 

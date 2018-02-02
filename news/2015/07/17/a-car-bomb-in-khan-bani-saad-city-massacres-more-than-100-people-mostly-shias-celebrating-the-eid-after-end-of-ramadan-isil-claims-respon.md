@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/07/17/a-car-bomb-in-khan-bani-saad-city-massacres-more-than-100-people-mostly-shias-celebrating-the-eid-after-end-of-ramadan-isil-claims-respon.html)  [JSON](/news/2015/07/17/a-car-bomb-in-khan-bani-saad-city-massacres-more-than-100-people-mostly-shias-celebrating-the-eid-after-end-of-ramadan-isil-claims-respon.json)  [XML](/news/2015/07/17/a-car-bomb-in-khan-bani-saad-city-massacres-more-than-100-people-mostly-shias-celebrating-the-eid-after-end-of-ramadan-isil-claims-respon.xml)  
+
 ### [2015-07-17](/news/2015/07/17/index.md)
 
+##### 2015 Khan Bani Saad massacre
 # A car bomb in Khan Bani Saad City massacres more than 100 people, mostly Shias, celebrating the Eid after end of Ramadan. ISIL claims responsibility. 
 
 More than 100 people were killed in a suicide car bombing at a busy market in an Iraqi town on Friday, in one of the deadliest attacks carried out by Islamic State militants since they overran large parts of the country.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/07/17/us-mideast-crisis-iraq-blast-idUSKCN0PR21A20150717)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/07/17/us-mideast-crisis-iraq-blast-idUSKCN0PR21A20150717)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

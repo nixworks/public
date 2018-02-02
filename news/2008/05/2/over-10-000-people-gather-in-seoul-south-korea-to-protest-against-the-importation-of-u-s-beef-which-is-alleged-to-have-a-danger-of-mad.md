@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/05/2/over-10-000-people-gather-in-seoul-south-korea-to-protest-against-the-importation-of-u-s-beef-which-is-alleged-to-have-a-danger-of-mad.html)  [JSON](/news/2008/05/2/over-10-000-people-gather-in-seoul-south-korea-to-protest-against-the-importation-of-u-s-beef-which-is-alleged-to-have-a-danger-of-mad.json)  [XML](/news/2008/05/2/over-10-000-people-gather-in-seoul-south-korea-to-protest-against-the-importation-of-u-s-beef-which-is-alleged-to-have-a-danger-of-mad.xml)  
+
 ### [2008-05-2](/news/2008/05/2/index.md)
 
+##### Seoul
 #  Over 10,000 people gather in Seoul, South Korea, to protest against the importation of U.S. beef, which is alleged to have a danger of mad cow disease. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [YouTube Video](http://youtube.com/watch?v=A-sRgXB24gs)
+1. [YouTube Video](https://www.youtube.com/watch?v=A-sRgXB24gs)
 
 ### Related:
 

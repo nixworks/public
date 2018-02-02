@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/17/voters-in-latvia-go-to-the-polls-for-a-parliamentary-election.html)  [JSON](/news/2011/09/17/voters-in-latvia-go-to-the-polls-for-a-parliamentary-election.json)  [XML](/news/2011/09/17/voters-in-latvia-go-to-the-polls-for-a-parliamentary-election.xml)  
+
 ### [2011-09-17](/news/2011/09/17/index.md)
 
+##### Latvia
 # Voters in Latvia go to the polls for a parliamentary election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/templates/story/story.php?storyId=140556079)
 

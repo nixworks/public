@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/14/ringling-bros-and-barnum-bailey-circus-announce
 
 ### [2017-01-14](/news/2017/01/14/index.md)
 
+##### Ringling Bros. and Barnum & Bailey Circus
 #  Ringling Bros. and Barnum & Bailey Circus announces it will cease operation in May after 146 years, due to lower attendance, higher operating costs and protests from animal rights activists. 
 
 After 146 years, the curtain is coming down on &quot;The Greatest Show on Earth.&quot; The owner of the Ringling Bros. and Barnum &amp; Bailey Circus told The Associated Press that the show will close forever in May. The circus will be visiting Baltimore for the last time at Royal Farms Arena April 20, 2017 - April 30, 2017.

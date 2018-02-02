@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/12/condoleezza-rice-says-iran-s-rejection-of-the-international-incentives-program-will-force-the-major-powers-to-take-decisions-in-the-united.html)  [JSON](/news/2006/07/12/condoleezza-rice-says-iran-s-rejection-of-the-international-incentives-program-will-force-the-major-powers-to-take-decisions-in-the-united.json)  [XML](/news/2006/07/12/condoleezza-rice-says-iran-s-rejection-of-the-international-incentives-program-will-force-the-major-powers-to-take-decisions-in-the-united.xml)  
+
 ### [2006-07-12](/news/2006/07/12/index.md)
 
+##### Condoleezza Rice
 #  Condoleezza Rice says Iran's rejection of the international incentives program will force the major powers to take decisions in the United Nations Security Council. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://go.reuters.com/newsArticle.jhtml?type=politicsNews&storyID=12815100&src=rss/ElectionCoverage)
 

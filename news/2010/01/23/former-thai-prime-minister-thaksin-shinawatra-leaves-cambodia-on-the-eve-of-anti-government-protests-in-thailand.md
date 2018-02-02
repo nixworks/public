@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/23/former-thai-prime-minister-thaksin-shinawatra-leaves-cambodia-on-the-eve-of-anti-government-protests-in-thailand.html)  [JSON](/news/2010/01/23/former-thai-prime-minister-thaksin-shinawatra-leaves-cambodia-on-the-eve-of-anti-government-protests-in-thailand.json)  [XML](/news/2010/01/23/former-thai-prime-minister-thaksin-shinawatra-leaves-cambodia-on-the-eve-of-anti-government-protests-in-thailand.xml)  
+
 ### [2010-01-23](/news/2010/01/23/index.md)
 
+##### Thai Society
 # Former Thai Prime Minister Thaksin Shinawatra leaves Cambodia on the eve of anti-government protests in Thailand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Phnom Penn Post](http://www.phnompenhpost.com/index.php/2010012231025/National-news/thaksin-departs-cambodia.html)
 

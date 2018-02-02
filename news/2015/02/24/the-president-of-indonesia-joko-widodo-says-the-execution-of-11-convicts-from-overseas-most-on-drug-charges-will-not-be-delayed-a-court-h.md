@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/02/24/the-president-of-indonesia-joko-widodo-says-the-execution-of-11-convicts-from-overseas-most-on-drug-charges-will-not-be-delayed-a-court-h.html)  [JSON](/news/2015/02/24/the-president-of-indonesia-joko-widodo-says-the-execution-of-11-convicts-from-overseas-most-on-drug-charges-will-not-be-delayed-a-court-h.json)  [XML](/news/2015/02/24/the-president-of-indonesia-joko-widodo-says-the-execution-of-11-convicts-from-overseas-most-on-drug-charges-will-not-be-delayed-a-court-h.xml)  
+
 ### [2015-02-24](/news/2015/02/24/index.md)
 
+##### President of Indonesia
 # The President of Indonesia Joko Widodo says the execution of 11 convicts from overseas, most on drug charges, will not be delayed. A court has rejected the appeals of Myuran Sukumaran and Andrew Chan, two Australians on death row. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/02/24/us-indonesia-australia-president-idUSKBN0LS0AD20150224)
+1. [Reuters](https://www.reuters.com/article/2015/02/24/us-indonesia-australia-president-idUSKBN0LS0AD20150224)
 2. [Voice of America](http://www.voanews.com/content/reu-indonesia-executions-wont-be-delayed-despite-mercy-pleas/2656213.html)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

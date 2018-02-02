@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2013/12/6/the-china-national-space-administration-achieves-earth-to-lunar-transorbital-insertion-of-their-chang-e-3-probe-the-spacecraft-enters-a-100.html)  [JSON](/news/2013/12/6/the-china-national-space-administration-achieves-earth-to-lunar-transorbital-insertion-of-their-chang-e-3-probe-the-spacecraft-enters-a-100.json)  [XML](/news/2013/12/6/the-china-national-space-administration-achieves-earth-to-lunar-transorbital-insertion-of-their-chang-e-3-probe-the-spacecraft-enters-a-100.xml)  
+
 ### [2013-12-6](/news/2013/12/6/index.md)
 
+##### China National Space Administration
 # The China National Space Administration achieves Earth to Lunar transorbital insertion of their Chang'e 3 probe. The spacecraft enters a 100 km circular lunar orbit at 5:53 p.m. Beijing Time. The orbit is obtained after 361 seconds of variable-thrust engine braking. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Economic Times](http://economictimes.indiatimes.com/news/international/world-news/chinas-first-lunar-probe-change-3-enters-moons-orbit/articleshow/26971534.cms)
 1. [Cover Image](http://img.etimg.com/thumb/msid-26971564,width-672,resizemode-4,imglength-20364/news/international/world-news/chinas-first-lunar-probe-change-3-enters-moons-orbit.jpg)
+
+### Changes:
+
+1. [The China National Space Administration achieves Earth to Lunar transorbital insertion of their Chang'e 3 probe. The spacecraft enters a {{convert|100|km|mi|abbr=on}}-high circular lunar orbit at 5:53 p.m. Beijing Time. The orbit is obtained after 361 seconds of variable-thrust engine braking. ](/news/2013/12/6/the-china-national-space-administration-achieves-earth-to-lunar-transorbital-insertion-of-their-chang-e-3-probe-the-spacecraft-enters-a-c.md) _2017-05-01 03:43:02 (First version)_
+1. [The China National Space Administration achieves Earth to Lunar transorbital insertion of their Chang'e 3 probe. The spacecraft enters a 100 km circular lunar orbit at 5:53 p.m. Beijing Time. The orbit is obtained after 361 seconds of variable-thrust engine braking. ](/news/2013/12/6/the-china-national-space-administration-achieves-earth-to-lunar-transorbital-insertion-of-their-chang-e-3-probe-the-spacecraft-enters-a-100.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [China's National Space Administration says it is working on a program to land a rover on Mars by 2020. ](/news/2016/04/22/china-s-national-space-administration-says-it-is-working-on-a-program-to-land-a-rover-on-mars-by-2020.md) _Context: China National Space Administration_
 4. [The China National Space Administration launches the unmanned Chang'e 5-T1 spacecraft to fly around the moon and back to earth. ](/news/2014/10/24/the-china-national-space-administration-launches-the-unmanned-chang-e-5-t1-spacecraft-to-fly-around-the-moon-and-back-to-earth.md) _Context: China National Space Administration_
 5. [China successfully launches the Bolivian Tupac Katari from the Xichang Satellite Launch Center. ](/news/2013/12/20/china-successfully-launches-the-bolivian-taopac-katari-from-the-xichang-satellite-launch-center.md) _Context: China National Space Administration_
-
-### Changes:
-
-1. [The China National Space Administration achieves Earth to Lunar transorbital insertion of their Chang'e 3 probe. The spacecraft enters a {{convert|100|km|mi|abbr=on}}-high circular lunar orbit at 5:53 p.m. Beijing Time. The orbit is obtained after 361 seconds of variable-thrust engine braking. ](/news/2013/12/6/the-china-national-space-administration-achieves-earth-to-lunar-transorbital-insertion-of-their-chang-e-3-probe-the-spacecraft-enters-a-c.md) _2017-05-01 03:43:02 (First version)_
-1. [The China National Space Administration achieves Earth to Lunar transorbital insertion of their Chang'e 3 probe. The spacecraft enters a 100 km circular lunar orbit at 5:53 p.m. Beijing Time. The orbit is obtained after 361 seconds of variable-thrust engine braking. ](/news/2013/12/6/the-china-national-space-administration-achieves-earth-to-lunar-transorbital-insertion-of-their-chang-e-3-probe-the-spacecraft-enters-a-100.md) _(Current version)_

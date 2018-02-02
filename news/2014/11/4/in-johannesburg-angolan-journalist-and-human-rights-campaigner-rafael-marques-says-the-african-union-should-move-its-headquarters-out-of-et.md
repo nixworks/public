@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/4/in-johannesburg-angolan-journalist-and-human-rights-campaigner-rafael-marques-says-the-african-union-should-move-its-headquarters-out-of-et.html)  [JSON](/news/2014/11/4/in-johannesburg-angolan-journalist-and-human-rights-campaigner-rafael-marques-says-the-african-union-should-move-its-headquarters-out-of-et.json)  [XML](/news/2014/11/4/in-johannesburg-angolan-journalist-and-human-rights-campaigner-rafael-marques-says-the-african-union-should-move-its-headquarters-out-of-et.xml)  
+
 ### [2014-11-4](/news/2014/11/4/index.md)
 
+##### Johannesburg
 # In Johannesburg, Angolan journalist and human rights campaigner Rafael Marques says the African Union should move its headquarters out of Ethiopia because of concerns about freedom of expression there. 
 
 An Angolan journalist and human rights campaigner says the African Union should move its headquarters out of Ethiopia because of concerns about freedom of expression there.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2014/11/05/human-rights-campaigner-says-african-union-should-move-headquarters-out/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

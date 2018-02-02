@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/5/felipe-calderon-of-the-pan-is-declared-the-winner-of-mexico-s-2-july-presidential-election.html)  [JSON](/news/2006/09/5/felipe-calderon-of-the-pan-is-declared-the-winner-of-mexico-s-2-july-presidential-election.json)  [XML](/news/2006/09/5/felipe-calderon-of-the-pan-is-declared-the-winner-of-mexico-s-2-july-presidential-election.xml)  
+
 ### [2006-09-5](/news/2006/09/5/index.md)
 
+##### Felipe Caldern
 #  Felipe Caldern of the PAN is declared the winner of Mexico's 2 July presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/5316840.stm)
 

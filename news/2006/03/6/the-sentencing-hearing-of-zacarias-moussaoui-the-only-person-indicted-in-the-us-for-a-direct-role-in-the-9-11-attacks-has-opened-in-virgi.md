@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/6/the-sentencing-hearing-of-zacarias-moussaoui-the-only-person-indicted-in-the-us-for-a-direct-role-in-the-9-11-attacks-has-opened-in-virgi.html)  [JSON](/news/2006/03/6/the-sentencing-hearing-of-zacarias-moussaoui-the-only-person-indicted-in-the-us-for-a-direct-role-in-the-9-11-attacks-has-opened-in-virgi.json)  [XML](/news/2006/03/6/the-sentencing-hearing-of-zacarias-moussaoui-the-only-person-indicted-in-the-us-for-a-direct-role-in-the-9-11-attacks-has-opened-in-virgi.xml)  
+
 ### [2006-03-6](/news/2006/03/6/index.md)
 
+##### Zacarias Moussaoui
 #  The sentencing hearing of Zacarias Moussaoui, the only person indicted in the US for a direct role in the 9-11 attacks, has opened in Virginia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4777242.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/26/the-south-korean-military-reports-north-korea-h
 
 ### [2017-08-26](/news/2017/08/26/index.md)
 
+##### 2017 North Korea crisis
 # The South Korean military reports North Korea has fired several short-range projectiles into the sea from its eastern Kangwon province. The U.S. military says three short-range missile launches either exploded on launch or failed in flight. 
 
 North Korea fired several short-range missiles into the sea off its east coast early on Saturday, South Korea and the U.S. military said, as the two allies conducted annual joint military drills that the North denounces as preparation for war.

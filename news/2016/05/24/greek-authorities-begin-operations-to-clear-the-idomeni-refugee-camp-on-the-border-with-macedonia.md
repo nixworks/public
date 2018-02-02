@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/24/greek-authorities-begin-operations-to-clear-the
 
 ### [2016-05-24](/news/2016/05/24/index.md)
 
+##### European migrant crisis
 # Greek authorities begin operations to clear the Idomeni refugee camp on the border with Macedonia. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

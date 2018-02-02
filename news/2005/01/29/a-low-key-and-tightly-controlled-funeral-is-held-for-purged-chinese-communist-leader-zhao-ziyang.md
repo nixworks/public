@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/29/a-low-key-and-tightly-controlled-funeral-is-held-for-purged-chinese-communist-leader-zhao-ziyang.html)  [JSON](/news/2005/01/29/a-low-key-and-tightly-controlled-funeral-is-held-for-purged-chinese-communist-leader-zhao-ziyang.json)  [XML](/news/2005/01/29/a-low-key-and-tightly-controlled-funeral-is-held-for-purged-chinese-communist-leader-zhao-ziyang.xml)  
+
 ### [2005-01-29](/news/2005/01/29/index.md)
 
+##### China
 #  A low-key and tightly controlled funeral is held for purged Chinese Communist leader Zhao Ziyang.
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.cbc.ca/cp/world/050128/w012866.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4211157.stm)

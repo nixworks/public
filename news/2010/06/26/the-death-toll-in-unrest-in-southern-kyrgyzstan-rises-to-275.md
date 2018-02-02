@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/26/the-death-toll-in-unrest-in-southern-kyrgyzstan-rises-to-275.html)  [JSON](/news/2010/06/26/the-death-toll-in-unrest-in-southern-kyrgyzstan-rises-to-275.json)  [XML](/news/2010/06/26/the-death-toll-in-unrest-in-southern-kyrgyzstan-rises-to-275.xml)  
+
 ### [2010-06-26](/news/2010/06/26/index.md)
 
+##### Kyrgyzstan
 # The Death toll in unrest in southern Kyrgyzstan rises to 275. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Central Asian News](http://en.ca-news.org/news/194891?from=rss)
 

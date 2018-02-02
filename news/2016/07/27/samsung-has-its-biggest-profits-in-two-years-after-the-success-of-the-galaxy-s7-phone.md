@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/27/samsung-has-its-biggest-profits-in-two-years-af
 
 ### [2016-07-27](/news/2016/07/27/index.md)
 
+##### Samsung
 # Samsung has its biggest profits in two years after the success of the Galaxy S7 phone. 
 
 The South Korean company beats expectations thanks in part to strong sales of the Galaxy S7 and S7 Edge.

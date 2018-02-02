@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/9/pakistani-president-pervez-musharraf-says-that-despite-his-plans-to-go-to-new-delhi-to-watch-the-last-indo-pak-cricket-odi-kashmir-and-no.html)  [JSON](/news/2005/04/9/pakistani-president-pervez-musharraf-says-that-despite-his-plans-to-go-to-new-delhi-to-watch-the-last-indo-pak-cricket-odi-kashmir-and-no.json)  [XML](/news/2005/04/9/pakistani-president-pervez-musharraf-says-that-despite-his-plans-to-go-to-new-delhi-to-watch-the-last-indo-pak-cricket-odi-kashmir-and-no.xml)  
+
 ### [2005-04-9](/news/2005/04/9/index.md)
 
+##### Pakistan
 #  Pakistani President Pervez Musharraf says that despite his plans to go to New Delhi to watch the last Indo-Pak cricket ODI, Kashmir, and not cricket, was on top of his agenda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindu](http://www.hindu.com/2005/04/10/stories/2005041004610800.htm)
 

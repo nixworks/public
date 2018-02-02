@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/30/hutton-inquiry-reporter-andrew-gilligan-resigns-from-the-bbc-in-the-continuing-fallout-of-the-publication-of-lord-hutton-s-report-into-the.html)  [JSON](/news/2004/01/30/hutton-inquiry-reporter-andrew-gilligan-resigns-from-the-bbc-in-the-continuing-fallout-of-the-publication-of-lord-hutton-s-report-into-the.json)  [XML](/news/2004/01/30/hutton-inquiry-reporter-andrew-gilligan-resigns-from-the-bbc-in-the-continuing-fallout-of-the-publication-of-lord-hutton-s-report-into-the.xml)  
+
 ### [2004-01-30](/news/2004/01/30/index.md)
 
+##### Hutton Inquiry
 #  Hutton Inquiry: Reporter Andrew Gilligan resigns from the BBC in the continuing fallout of the publication of Lord Hutton's report into the circumstances of the death of Dr David Kelly. This follows the earlier resignation of the Director-General Greg Dyke and chairman of the Board of Governors Gavyn Davies.
 
 

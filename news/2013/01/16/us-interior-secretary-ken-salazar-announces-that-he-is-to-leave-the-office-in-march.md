@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/16/us-interior-secretary-ken-salazar-announces-that-he-is-to-leave-the-office-in-march.html)  [JSON](/news/2013/01/16/us-interior-secretary-ken-salazar-announces-that-he-is-to-leave-the-office-in-march.json)  [XML](/news/2013/01/16/us-interior-secretary-ken-salazar-announces-that-he-is-to-leave-the-office-in-march.xml)  
+
 ### [2013-01-16](/news/2013/01/16/index.md)
 
+##### Secretary of the Interior
 # US Interior Secretary Ken Salazar announces that he is to leave the office in March. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2013/01/16/politics/salazar-resigning/)
 

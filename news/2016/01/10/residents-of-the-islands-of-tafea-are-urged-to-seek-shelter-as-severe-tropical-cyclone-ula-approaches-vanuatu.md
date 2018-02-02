@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/10/residents-of-the-islands-of-tafea-are-urged-to-
 
 ### [2016-01-10](/news/2016/01/10/index.md)
 
+##### 2015-16 South Pacific cyclone season
 # Residents of the islands of Tafea are urged to seek shelter as Severe Tropical Cyclone Ula approaches Vanuatu. 
 
 Strong winds from tropical cyclone Ula were being felt in Vanuatu&#39;s Tafea province as the storm tracked towards the southern islands.

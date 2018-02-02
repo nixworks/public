@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/03/15/in-kosovo-an-explosion-hits-the-motorcade-of-president-ibrahim-rugova-in-the-capital-pristina.html)  [JSON](/news/2005/03/15/in-kosovo-an-explosion-hits-the-motorcade-of-president-ibrahim-rugova-in-the-capital-pristina.json)  [XML](/news/2005/03/15/in-kosovo-an-explosion-hits-the-motorcade-of-president-ibrahim-rugova-in-the-capital-pristina.xml)  
+
 ### [2005-03-15](/news/2005/03/15/index.md)
 
+##### Kosovo
 #  In Kosovo, an explosion hits the motorcade of president Ibrahim Rugova in the capital Pristina. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4349777.stm)
 2. [CNN](http://www.cnn.com/2005/WORLD/europe/03/15/kosovo.rugova/)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7902023)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7902023)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/19/two-dozen-protesters-park-their-cars-in-the-mid
 
 ### [2016-03-19](/news/2016/03/19/index.md)
 
+##### Republican Party presidential candidates, 2016
 # Two dozen protesters park their cars in the middle of Shea Boulevard, and block the main road to the Phoenix suburb of Fountain Hills, Arizona, where Donald Trump's campaign rally with former Arizona Governor Jan Brewer, and controversial sheriff Joe Arpaio was held. For hours, traffic was backed up for miles. The road was eventually cleared. Three protesters were arrested and two cars were towed from the boulevard. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/3/in-response-to-the-firing-of-a-kassam-rocket-from-the-gaza-strip-into-southern-israel-israel-planes-bomb-three-targets-including-two-refug.html)  [JSON](/news/2011/01/3/in-response-to-the-firing-of-a-kassam-rocket-from-the-gaza-strip-into-southern-israel-israel-planes-bomb-three-targets-including-two-refug.json)  [XML](/news/2011/01/3/in-response-to-the-firing-of-a-kassam-rocket-from-the-gaza-strip-into-southern-israel-israel-planes-bomb-three-targets-including-two-refug.xml)  
+
 ### [2011-01-3](/news/2011/01/3/index.md)
 
+##### Palestinian rocket attacks on Israel
 # In response to the firing of a Kassam rocket from the Gaza Strip into southern Israel, Israel planes bomb three targets, including two refugee camps and a weapons factory in the Gaza Strip, injuring two people. 
 
 The air force hit three targets in the Strip including weapons factory; IDF says it holds Hamas responsible for all terrorist activity in Gaza.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2011/01/03/3105148.htm)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=201829)

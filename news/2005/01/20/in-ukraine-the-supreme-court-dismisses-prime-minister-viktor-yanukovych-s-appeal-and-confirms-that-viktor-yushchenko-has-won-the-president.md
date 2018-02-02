@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/01/20/in-ukraine-the-supreme-court-dismisses-prime-minister-viktor-yanukovych-s-appeal-and-confirms-that-viktor-yushchenko-has-won-the-president.html)  [JSON](/news/2005/01/20/in-ukraine-the-supreme-court-dismisses-prime-minister-viktor-yanukovych-s-appeal-and-confirms-that-viktor-yushchenko-has-won-the-president.json)  [XML](/news/2005/01/20/in-ukraine-the-supreme-court-dismisses-prime-minister-viktor-yanukovych-s-appeal-and-confirms-that-viktor-yushchenko-has-won-the-president.xml)  
+
 ### [2005-01-20](/news/2005/01/20/index.md)
 
+##### Ukraine
 #  In Ukraine, the Supreme Court dismisses prime minister Viktor Yanukovych's appeal and confirms that Viktor Yushchenko has won the presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4190161.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aLwNCPkUqOo0&refer=europe)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000085&sid=aLwNCPkUqOo0&refer=europe)
 3. [ITAR-TASS](http://www.tass.ru/eng/level2.html?NewsID=1658745&PageNum=0)
 4. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7375821)
 

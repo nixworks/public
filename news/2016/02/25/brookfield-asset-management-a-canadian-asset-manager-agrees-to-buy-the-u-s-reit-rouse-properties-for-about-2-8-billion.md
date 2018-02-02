@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/25/brookfield-asset-management-a-canadian-asset-ma
 
 ### [2016-02-25](/news/2016/02/25/index.md)
 
+##### Brookfield Asset Management
 # Brookfield Asset Management, a Canadian asset manager, agrees to buy the U.S. REIT Rouse Properties for about $2.8 billion. 
 
 U.S. real estate investment trust Rouse Properties Inc RSE.N said Canadian asset manager Brookfield Asset Management Inc (BAMa.TO) (BAM.N) agreed to buy the company in a sweetened deal valued at about $2.8 billion, including debt.

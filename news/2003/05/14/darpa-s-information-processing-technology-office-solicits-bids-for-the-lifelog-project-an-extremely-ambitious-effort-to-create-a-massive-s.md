@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/14/darpa-s-information-processing-technology-office-solicits-bids-for-the-lifelog-project-an-extremely-ambitious-effort-to-create-a-massive-s.html)  [JSON](/news/2003/05/14/darpa-s-information-processing-technology-office-solicits-bids-for-the-lifelog-project-an-extremely-ambitious-effort-to-create-a-massive-s.json)  [XML](/news/2003/05/14/darpa-s-information-processing-technology-office-solicits-bids-for-the-lifelog-project-an-extremely-ambitious-effort-to-create-a-massive-s.xml)  
+
 ### [2003-05-14](/news/2003/05/14/index.md)
 
+##### DARPA
 #  DARPA's Information Processing Technology Office solicits bids for the LifeLog project, an extremely ambitious effort to create a massive searchable computer database, "an ontology-based (sub)system that captures, stores, and makes accessible the flow of one person's experience in and interactions with the world&nbsp;... The objective&nbsp;... is to be able to trace the 'threads' of an individual's life in terms of events, states, and relationships".,
 
 

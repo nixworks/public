@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/1/18-militants-killed-near-banda-checkpoint-of-north-waziristan-pakistan-by-pakistan-troops.html)  [JSON](/news/2007/08/1/18-militants-killed-near-banda-checkpoint-of-north-waziristan-pakistan-by-pakistan-troops.json)  [XML](/news/2007/08/1/18-militants-killed-near-banda-checkpoint-of-north-waziristan-pakistan-by-pakistan-troops.xml)  
+
 ### [2007-08-1](/news/2007/08/1/index.md)
 
+##### North Waziristan
 #  18 militants killed near Banda checkpoint of North Waziristan, Pakistan by Pakistan troops. 
 
 

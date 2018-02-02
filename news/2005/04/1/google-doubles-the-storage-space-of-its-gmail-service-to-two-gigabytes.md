@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/1/google-doubles-the-storage-space-of-its-gmail-service-to-two-gigabytes.html)  [JSON](/news/2005/04/1/google-doubles-the-storage-space-of-its-gmail-service-to-two-gigabytes.json)  [XML](/news/2005/04/1/google-doubles-the-storage-space-of-its-gmail-service-to-two-gigabytes.xml)  
+
 ### [2005-04-1](/news/2005/04/1/index.md)
 
+##### Google
 #  Google doubles the storage space of its Gmail service to two gigabytes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [internetnews.com](http://www.internetnews.com/xSP/article.php/3494491)
 

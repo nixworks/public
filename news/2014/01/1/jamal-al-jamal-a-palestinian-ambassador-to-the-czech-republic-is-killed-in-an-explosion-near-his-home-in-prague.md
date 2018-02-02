@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2014/01/1/jamal-al-jamal-a-palestinian-ambassador-to-the-czech-republic-is-killed-in-an-explosion-near-his-home-in-prague.html)  [JSON](/news/2014/01/1/jamal-al-jamal-a-palestinian-ambassador-to-the-czech-republic-is-killed-in-an-explosion-near-his-home-in-prague.json)  [XML](/news/2014/01/1/jamal-al-jamal-a-palestinian-ambassador-to-the-czech-republic-is-killed-in-an-explosion-near-his-home-in-prague.xml)  
+
 ### [2014-01-1](/news/2014/01/1/index.md)
 
+##### Jamal al-Jamal
 # Jamal al-Jamal, a Palestinian ambassador to the Czech Republic, is killed in an explosion near his home in Prague. 
 
 The Palestinian ambassador to Prague was killed on Wednesday in an explosion that was triggered when he opened the door to a safe, Czech police said.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2014/01/01/world/europe/czech-republic-blast-palestinian/index.html?hpt=hp_t3)
-2. [Reuters](http://www.reuters.com/article/2014/01/01/us-czech-palestinian-idUSBREA0008E20140101)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140101&t=2&i=825965044&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA001EJT00)
+2. [Reuters](https://www.reuters.com/article/2014/01/01/us-czech-palestinian-idUSBREA0008E20140101)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140101&t=2&i=825965044&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA001EJT00)
 
 ### Related:
 

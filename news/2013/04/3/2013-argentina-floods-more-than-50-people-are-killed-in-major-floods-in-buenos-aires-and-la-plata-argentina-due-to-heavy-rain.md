@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/04/3/2013-argentina-floods-more-than-50-people-are-killed-in-major-floods-in-buenos-aires-and-la-plata-argentina-due-to-heavy-rain.html)  [JSON](/news/2013/04/3/2013-argentina-floods-more-than-50-people-are-killed-in-major-floods-in-buenos-aires-and-la-plata-argentina-due-to-heavy-rain.json)  [XML](/news/2013/04/3/2013-argentina-floods-more-than-50-people-are-killed-in-major-floods-in-buenos-aires-and-la-plata-argentina-due-to-heavy-rain.xml)  
+
 ### [2013-04-3](/news/2013/04/3/index.md)
 
+##### 2013 Argentina floods
 # 2013 Argentina floods: More than 50 people are killed in major floods in Buenos Aires and La Plata, Argentina, due to heavy rain. 
 
 The deluge left thousands homeless and renewed tensions as politicians blamed one another for the high death toll.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2013/04/04/world/americas/record-flooding-kills-dozens-in-Argentina.html)
+1. [The New York Times](https://www.nytimes.com/2013/04/04/world/americas/record-flooding-kills-dozens-in-Argentina.html)
 2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424127887324600704578400592340888724.html)
 2. [Cover Image](https://static01.nyt.com/images/2013/04/04/world/americas/04argentina/04argentina-videoLarge-v2.jpg)
 

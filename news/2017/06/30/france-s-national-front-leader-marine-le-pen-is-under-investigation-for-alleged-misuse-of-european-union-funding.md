@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/30/france-s-national-front-leader-marine-le-pen-is
 
 ### [2017-06-30](/news/2017/06/30/index.md)
 
+##### Politics of France
 # France's National Front leader Marine Le Pen is under investigation for alleged misuse of European Union funding. 
 
 Magistrates in France have placed Marine Le Pen under formal investigation. This comes after preliminary inquiries into allegations that European

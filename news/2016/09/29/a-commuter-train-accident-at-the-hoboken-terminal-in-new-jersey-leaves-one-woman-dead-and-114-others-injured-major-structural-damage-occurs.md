@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/29/a-commuter-train-accident-at-the-hoboken-termin
 
 ### [2016-09-29](/news/2016/09/29/index.md)
 
+##### 2016 Hoboken train crash
 # A commuter train accident at the Hoboken Terminal in New Jersey leaves one woman dead and 114 others injured. Major structural damage occurs to the station with portions of the roof collapsed. 
 
 One person was killed and 108 were hurt after a crowded train slammed into a busy station in Hoboken, NJ, during the Thursday morning commute, officials said, vowing a full investigation into what may have triggered the crash.

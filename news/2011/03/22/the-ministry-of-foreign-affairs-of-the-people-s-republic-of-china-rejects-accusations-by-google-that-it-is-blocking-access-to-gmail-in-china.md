@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/03/22/the-ministry-of-foreign-affairs-of-the-people-s-republic-of-china-rejects-accusations-by-google-that-it-is-blocking-access-to-gmail-in-china.html)  [JSON](/news/2011/03/22/the-ministry-of-foreign-affairs-of-the-people-s-republic-of-china-rejects-accusations-by-google-that-it-is-blocking-access-to-gmail-in-china.json)  [XML](/news/2011/03/22/the-ministry-of-foreign-affairs-of-the-people-s-republic-of-china-rejects-accusations-by-google-that-it-is-blocking-access-to-gmail-in-china.xml)  
+
 ### [2011-03-22](/news/2011/03/22/index.md)
 
+##### Chinese Foreign Ministry spokesperson
 # The Ministry of Foreign Affairs of the People's Republic of China rejects accusations by Google that it is blocking access to Gmail in China. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/22/us-google-china-idUSTRE72K1VV20110322?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/2011/03/22/us-google-china-idUSTRE72K1VV20110322?feedType=RSS&feedName=topNews)
 1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20110322&t=2&i=368901975&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-22T102148Z_01_BTRE72L0SSF00_RTROPTP_0_GOOGLE-CHINA)
 
 ### Related:

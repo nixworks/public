@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/26/latvian-president-valdis-zatlers-names-former-finance-minister-valdis-dombrovskis-as-the-new-prime-minister.html)  [JSON](/news/2009/02/26/latvian-president-valdis-zatlers-names-former-finance-minister-valdis-dombrovskis-as-the-new-prime-minister.json)  [XML](/news/2009/02/26/latvian-president-valdis-zatlers-names-former-finance-minister-valdis-dombrovskis-as-the-new-prime-minister.xml)  
+
 ### [2009-02-26](/news/2009/02/26/index.md)
 
+##### Latvia
 #  Latvian President Valdis Zatlers names former Finance Minister Valdis Dombrovskis as the new Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7911983.stm)
 

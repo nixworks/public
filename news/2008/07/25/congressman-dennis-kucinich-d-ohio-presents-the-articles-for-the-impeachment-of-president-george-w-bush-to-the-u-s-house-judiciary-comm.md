@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/25/congressman-dennis-kucinich-d-ohio-presents-the-articles-for-the-impeachment-of-president-george-w-bush-to-the-u-s-house-judiciary-comm.html)  [JSON](/news/2008/07/25/congressman-dennis-kucinich-d-ohio-presents-the-articles-for-the-impeachment-of-president-george-w-bush-to-the-u-s-house-judiciary-comm.json)  [XML](/news/2008/07/25/congressman-dennis-kucinich-d-ohio-presents-the-articles-for-the-impeachment-of-president-george-w-bush-to-the-u-s-house-judiciary-comm.xml)  
+
 ### [2008-07-25](/news/2008/07/25/index.md)
 
+##### Dennis Kucinich
 #  Congressman Dennis Kucinich (D-Ohio) presents the articles for the impeachment of President George W. Bush to the U.S. House Judiciary Committee. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,391121,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

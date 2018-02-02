@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/27/more-than-150-prominent-scientists-worldwide-se
 
 ### [2016-05-27](/news/2016/05/27/index.md)
 
+##### Zika virus epidemic
 # More than 150 prominent scientists worldwide send a letter to World Health Organization Director-General Margaret Chan calling for the postponement or relocation of the Rio de Janeiro 2016 Summer Olympics because of the widening Zika virus outbreak in Brazil, despite U.S. Centers for Disease Control and Prevention Director Tom Frieden's statement yesterday that "there is no public health reason to cancel or delay the Olympics." 
 
 More than 100 medical experts, academia and scientists on Friday have called for the Rio Olympic Games to be postponed or moved because of fears that the event could speed up the spread of the Zika virus around the world.

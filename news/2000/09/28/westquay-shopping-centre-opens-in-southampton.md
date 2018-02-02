@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/09/28/westquay-shopping-centre-opens-in-southampton.html)  [JSON](/news/2000/09/28/westquay-shopping-centre-opens-in-southampton.json)  [XML](/news/2000/09/28/westquay-shopping-centre-opens-in-southampton.xml)  
+
 ### [2000-09-28](/news/2000/09/28/index.md)
 
+##### WestQuay Shopping Centre
 #  WestQuay Shopping Centre opens in Southampton.
 
 

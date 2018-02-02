@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/31/the-uk-government-is-defeated-in-the-house-of-commons-over-its-negotiating-position-on-the-eu-budget-with-mps-calling-for-a-cut-in-spending.html)  [JSON](/news/2012/10/31/the-uk-government-is-defeated-in-the-house-of-commons-over-its-negotiating-position-on-the-eu-budget-with-mps-calling-for-a-cut-in-spending.json)  [XML](/news/2012/10/31/the-uk-government-is-defeated-in-the-house-of-commons-over-its-negotiating-position-on-the-eu-budget-with-mps-calling-for-a-cut-in-spending.xml)  
+
 ### [2012-10-31](/news/2012/10/31/index.md)
 
+##### 10 Downing Street
 # The UK government is defeated in the House of Commons over its negotiating position on the EU budget, with MPs calling for a cut in spending. 
 
 The government is defeated in Parliament over the EU budget after 53 Conservative MPs defied their party over the issue.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-20157063)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63845000/jpg/_63845852_jex_1545509_de28.jpg)

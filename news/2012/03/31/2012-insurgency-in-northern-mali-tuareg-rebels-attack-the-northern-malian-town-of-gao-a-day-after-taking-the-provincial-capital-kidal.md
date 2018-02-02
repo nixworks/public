@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/31/2012-insurgency-in-northern-mali-tuareg-rebels-attack-the-northern-malian-town-of-gao-a-day-after-taking-the-provincial-capital-kidal.html)  [JSON](/news/2012/03/31/2012-insurgency-in-northern-mali-tuareg-rebels-attack-the-northern-malian-town-of-gao-a-day-after-taking-the-provincial-capital-kidal.json)  [XML](/news/2012/03/31/2012-insurgency-in-northern-mali-tuareg-rebels-attack-the-northern-malian-town-of-gao-a-day-after-taking-the-provincial-capital-kidal.xml)  
+
 ### [2012-03-31](/news/2012/03/31/index.md)
 
+##### Tuareg Rebellion
 # 2012 insurgency in northern Mali: Tuareg rebels attack the northern Malian town of Gao, a day after taking the provincial capital Kidal. 
 
 Reports of gunfire near northern garrison town of Gao as Tuareg fighters make gains and pressure on coup leaders grows.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/03/2012331101518829540.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/31/201233153156770734_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/18/king-abdullah-of-saudi-arabia-addresses-the-nation-in-the-context-of-regional-unrest.html)  [JSON](/news/2011/03/18/king-abdullah-of-saudi-arabia-addresses-the-nation-in-the-context-of-regional-unrest.json)  [XML](/news/2011/03/18/king-abdullah-of-saudi-arabia-addresses-the-nation-in-the-context-of-regional-unrest.xml)  
+
 ### [2011-03-18](/news/2011/03/18/index.md)
 
+##### King
 # King Abdullah of Saudi Arabia addresses the nation in the context of regional unrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12781068)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

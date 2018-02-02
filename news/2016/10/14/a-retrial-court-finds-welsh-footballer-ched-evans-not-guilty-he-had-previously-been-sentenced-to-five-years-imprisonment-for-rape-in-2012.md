@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/14/a-retrial-court-finds-welsh-footballer-ched-eva
 
 ### [2016-10-14](/news/2016/10/14/index.md)
 
+##### Wales
 # A retrial court finds Welsh footballer Ched Evans not guilty. He had previously been sentenced to five years imprisonment for rape in 2012. 
 
 Footballer Ched Evans says he is &quot;overwhelmed&quot; after being found not guilty at retrial of raping a 19-year-old woman in a hotel room.

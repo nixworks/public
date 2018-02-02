@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/10/6/at-least-53-people-are-killed-during-clashes-between-supporters-and-opponents-of-former-president-mohamed-morsi-on-the-40th-anniversary-of-e.html)  [JSON](/news/2013/10/6/at-least-53-people-are-killed-during-clashes-between-supporters-and-opponents-of-former-president-mohamed-morsi-on-the-40th-anniversary-of-e.json)  [XML](/news/2013/10/6/at-least-53-people-are-killed-during-clashes-between-supporters-and-opponents-of-former-president-mohamed-morsi-on-the-40th-anniversary-of-e.xml)  
+
 ### [2013-10-6](/news/2013/10/6/index.md)
 
+##### Mohamed Morsi
 # At least 53 people are killed during clashes between supporters and opponents of former president Mohamed Morsi on the 40th anniversary of Egypt's crossing of the Suez Canal in 1973. 
 
 At least 51 people were killed in clashes in Egyptian cities on Sunday, security sources said, after opponents and supporters of deposed president Mohamad Mursi took to the streets in one of the bloodiest days since the army seized power.
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/2013/10/06/clashes-as-egypt-marks-1973-attack-on-israel/)
-2. [Reuters](http://www.reuters.com/article/2013/10/06/us-egypt-protests-idUSBRE99506720131006)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131006&t=2&i=800521017&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9951G4B00)
+2. [Reuters](https://www.reuters.com/article/2013/10/06/us-egypt-protests-idUSBRE99506720131006)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131006&t=2&i=800521017&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9951G4B00)
 
 ### Related:
 

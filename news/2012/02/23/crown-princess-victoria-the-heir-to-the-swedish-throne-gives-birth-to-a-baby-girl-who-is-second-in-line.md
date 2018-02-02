@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/23/crown-princess-victoria-the-heir-to-the-swedish-throne-gives-birth-to-a-baby-girl-who-is-second-in-line.html)  [JSON](/news/2012/02/23/crown-princess-victoria-the-heir-to-the-swedish-throne-gives-birth-to-a-baby-girl-who-is-second-in-line.json)  [XML](/news/2012/02/23/crown-princess-victoria-the-heir-to-the-swedish-throne-gives-birth-to-a-baby-girl-who-is-second-in-line.xml)  
+
 ### [2012-02-23](/news/2012/02/23/index.md)
 
+##### Crown Princess Victoria
 # Crown Princess Victoria, the heir to the Swedish throne, gives birth to a baby girl who is second in line. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/feb/23/sweden-crown-princess-victoria-baby)
 

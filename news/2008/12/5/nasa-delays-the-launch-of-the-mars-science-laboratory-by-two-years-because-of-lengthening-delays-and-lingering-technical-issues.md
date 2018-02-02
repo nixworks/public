@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2008/12/5/nasa-delays-the-launch-of-the-mars-science-laboratory-by-two-years-because-of-lengthening-delays-and-lingering-technical-issues.html)  [JSON](/news/2008/12/5/nasa-delays-the-launch-of-the-mars-science-laboratory-by-two-years-because-of-lengthening-delays-and-lingering-technical-issues.json)  [XML](/news/2008/12/5/nasa-delays-the-launch-of-the-mars-science-laboratory-by-two-years-because-of-lengthening-delays-and-lingering-technical-issues.xml)  
+
 ### [2008-12-5](/news/2008/12/5/index.md)
 
+##### NASA
 #  NASA delays the launch of the Mars Science Laboratory by two years because of lengthening delays and lingering technical issues. 
 
 NASA has pushed back the launching of the Mars Science Laboratory by two years because of lengthening delays and lingering technical issues, officials announced.
 
 
-### Source:
+### Sources:
 
-1. [NY Times](http://www.nytimes.com/2008/12/05/science/space/05mars.html)
+1. [NY Times](https://www.nytimes.com/2008/12/05/science/space/05mars.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/12/05/science/space/marslab75.jpg)
 
 ### Related:
 
 1. [NASA's Mars Science Laboratory Curiosity rover lands safely on the surface of Mars. ](/news/2012/08/6/nasa-s-mars-science-laboratory-curiosity-rover-lands-safely-on-the-surface-of-mars.md) _Context: Mars Science Laboratory, NASA_
 2. [NASA launches the robotic Mars Science Laboratory, the largest rover yet sent to Mars, with the aim of finding evidence for past or present life on Mars. ](/news/2011/11/26/nasa-launches-the-robotic-mars-science-laboratory-the-largest-rover-yet-sent-to-mars-with-the-aim-of-finding-evidence-for-past-or-present.md) _Context: Mars Science Laboratory, NASA_
-3. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: NASA_
-4. [Results of the Juno mission are announced by NASA researchers, revealing new and unexpected information concerning Jupiter's poles, meteorology, and magnetic and gravitational fields. ](/news/2017/05/25/results-of-the-juno-mission-are-announced-by-nasa-researchers-revealing-new-and-unexpected-information-concerning-jupiter-s-poles-meteorol.md) _Context: NASA_
-5. [Peggy Whitson, commander of the International Space Station (ISS), breaks the record for most total days spent in space by any NASA astronaut, at more than 534 days. ](/news/2017/04/24/peggy-whitson-commander-of-the-international-space-station-iss-breaks-the-record-for-most-total-days-spent-in-space-by-any-nasa-astronau.md) _Context: NASA_
+3. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: NASA_
+4. [NASA research, published in "Geophysical Research Letters", implies that the ozone layer is starting to recover due to man's actions. The decline in ozone-depleting chemicals, specifically chlorine from chlorofluorocarbon (an effect from the 1980's CFC ban, say the scientists), has resulted in 20 percent less depletion since 2005. ](/news/2018/01/5/nasa-research-published-in-geophysical-research-letters-implies-that-the-ozone-layer-is-starting-to-recover-due-to-man-s-actions-the-de.md) _Context: NASA_
+5. [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md) _Context: NASA_

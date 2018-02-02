@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/09/17/foreign-minister-of-israel-tzipi-livni-is-selected-as-the-new-leader-of-the-kadima-party-putting-her-in-position-to-possibly-become-the-fi.html)  [JSON](/news/2008/09/17/foreign-minister-of-israel-tzipi-livni-is-selected-as-the-new-leader-of-the-kadima-party-putting-her-in-position-to-possibly-become-the-fi.json)  [XML](/news/2008/09/17/foreign-minister-of-israel-tzipi-livni-is-selected-as-the-new-leader-of-the-kadima-party-putting-her-in-position-to-possibly-become-the-fi.xml)  
+
 ### [2008-09-17](/news/2008/09/17/index.md)
 
+##### Foreign Minister of Israel
 #  Foreign Minister of Israel Tzipi Livni is selected as the new leader of the Kadima party, putting her in position to possibly become the first female Prime Minister of Israel since Golda Meir. 
 
 Ilan and Ari Rabinovitch
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSLH62065120080917)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080917&t=2&i=6039679&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-09-17T214356Z_01_LH620651_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSLH62065120080917)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080917&t=2&i=6039679&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-09-17T214356Z_01_LH620651_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

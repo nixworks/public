@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/4/three-more-tibetan-protesters-set-themselves-on-fire-in-sichuan-china.html)  [JSON](/news/2012/02/4/three-more-tibetan-protesters-set-themselves-on-fire-in-sichuan-china.json)  [XML](/news/2012/02/4/three-more-tibetan-protesters-set-themselves-on-fire-in-sichuan-china.xml)  
+
 ### [2012-02-4](/news/2012/02/4/index.md)
 
+##### Tibet
 # Three more Tibetan protesters set themselves on fire in Sichuan, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_763244.html)
 

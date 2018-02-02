@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/14/in-kenya-flash-flooding-in-the-mombasa-region-claims-at-least-21-lives-the-kenyan-red-cross-claims-60-000-people-have-been-made-homeless.html)  [JSON](/news/2006/11/14/in-kenya-flash-flooding-in-the-mombasa-region-claims-at-least-21-lives-the-kenyan-red-cross-claims-60-000-people-have-been-made-homeless.json)  [XML](/news/2006/11/14/in-kenya-flash-flooding-in-the-mombasa-region-claims-at-least-21-lives-the-kenyan-red-cross-claims-60-000-people-have-been-made-homeless.xml)  
+
 ### [2006-11-14](/news/2006/11/14/index.md)
 
+##### Kenya
 #  In Kenya, flash flooding in the Mombasa region claims at least 21 lives. The Kenyan Red Cross claims 60,000 people have been made homeless. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/6144052.stm)
 

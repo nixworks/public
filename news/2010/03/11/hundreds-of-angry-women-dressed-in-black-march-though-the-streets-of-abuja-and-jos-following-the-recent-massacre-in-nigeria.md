@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/11/hundreds-of-angry-women-dressed-in-black-march-though-the-streets-of-abuja-and-jos-following-the-recent-massacre-in-nigeria.html)  [JSON](/news/2010/03/11/hundreds-of-angry-women-dressed-in-black-march-though-the-streets-of-abuja-and-jos-following-the-recent-massacre-in-nigeria.json)  [XML](/news/2010/03/11/hundreds-of-angry-women-dressed-in-black-march-though-the-streets-of-abuja-and-jos-following-the-recent-massacre-in-nigeria.xml)  
+
 ### [2010-03-11](/news/2010/03/11/index.md)
 
+##### Abuja
 # Hundreds of angry women dressed in black march though the streets of Abuja and Jos following the recent massacre in Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8562961.stm)
 

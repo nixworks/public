@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/3/six-people-including-three-children-are-killed-after-a-fire-in-a-high-rise-residential-tower-block-in-camberwell-south-london-england.html)  [JSON](/news/2009/07/3/six-people-including-three-children-are-killed-after-a-fire-in-a-high-rise-residential-tower-block-in-camberwell-south-london-england.json)  [XML](/news/2009/07/3/six-people-including-three-children-are-killed-after-a-fire-in-a-high-rise-residential-tower-block-in-camberwell-south-london-england.xml)  
+
 ### [2009-07-3](/news/2009/07/3/index.md)
 
+##### killed after a fire
 #  Six people, including three children, are killed after a fire in a high rise residential tower block in Camberwell, south London, England. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/london/8133871.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/4/cyclone-gonu-forces-the-government-of-oman-to-evacuate-7-000-people-from-masirah-island-off-the-east-coast-of-oman.html)  [JSON](/news/2007/06/4/cyclone-gonu-forces-the-government-of-oman-to-evacuate-7-000-people-from-masirah-island-off-the-east-coast-of-oman.json)  [XML](/news/2007/06/4/cyclone-gonu-forces-the-government-of-oman-to-evacuate-7-000-people-from-masirah-island-off-the-east-coast-of-oman.xml)  
+
 ### [2007-06-4](/news/2007/06/4/index.md)
 
+##### Cyclone Gonu
 #  Cyclone Gonu forces the Government of Oman to evacuate 7,000 people from Masirah Island, off the east coast of Oman. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Seattle Post-Intelligencer](http://seattlepi.com/national/1107AP_Oman_Cyclone.html)
 

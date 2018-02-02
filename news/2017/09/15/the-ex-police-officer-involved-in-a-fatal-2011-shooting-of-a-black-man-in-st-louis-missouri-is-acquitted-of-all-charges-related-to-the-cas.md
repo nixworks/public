@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/09/15/the-ex-police-officer-involved-in-a-fatal-2011-shooting-of-a-black-man-in-st-louis-missouri-is-acquitted-of-all-charges-related-to-the-cas.html)  [JSON](/news/2017/09/15/the-ex-police-officer-involved-in-a-fatal-2011-shooting-of-a-black-man-in-st-louis-missouri-is-acquitted-of-all-charges-related-to-the-cas.json)  [XML](/news/2017/09/15/the-ex-police-officer-involved-in-a-fatal-2011-shooting-of-a-black-man-in-st-louis-missouri-is-acquitted-of-all-charges-related-to-the-cas.xml)  
+
 ### [2017-09-15](/news/2017/09/15/index.md)
 
+##### Shooting of Anthony Lamar Smith
 # The ex-police officer involved in a fatal 2011 shooting of a black man in St. Louis, Missouri is acquitted of all charges related to the case. 
 
 Demonstrators have clashed with police in St. Louis following the acquittal of ex-officer Jason Stockley in the fatal shooting Anthony Lamar Smith. Two officers have been hospitalized after being hit with bricks.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/st-louis-police-officers-acquittal-fatal-shooting-ignites/story?id=49872333)
 2. [DW](http://www.dw.com/en/st-louis-protests-erupt-after-white-officer-acquitted-in-fatal-shooting-of-black-man/a-40536707)

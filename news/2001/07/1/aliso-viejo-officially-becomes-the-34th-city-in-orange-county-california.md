@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/07/1/aliso-viejo-officially-becomes-the-34th-city-in-orange-county-california.html)  [JSON](/news/2001/07/1/aliso-viejo-officially-becomes-the-34th-city-in-orange-county-california.json)  [XML](/news/2001/07/1/aliso-viejo-officially-becomes-the-34th-city-in-orange-county-california.xml)  
+
 ### [2001-07-1](/news/2001/07/1/index.md)
 
+##### Aliso Viejo
 #  Aliso Viejo officially becomes the 34th city in Orange County, California.
 
 

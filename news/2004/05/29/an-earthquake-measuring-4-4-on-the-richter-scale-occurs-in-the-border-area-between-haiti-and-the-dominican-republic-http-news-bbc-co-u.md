@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/05/29/an-earthquake-measuring-4-4-on-the-richter-scale-occurs-in-the-border-area-between-haiti-and-the-dominican-republic-http-news-bbc-co-u.html)  [JSON](/news/2004/05/29/an-earthquake-measuring-4-4-on-the-richter-scale-occurs-in-the-border-area-between-haiti-and-the-dominican-republic-http-news-bbc-co-u.json)  [XML](/news/2004/05/29/an-earthquake-measuring-4-4-on-the-richter-scale-occurs-in-the-border-area-between-haiti-and-the-dominican-republic-http-news-bbc-co-u.xml)  
+
 ### [2004-05-29](/news/2004/05/29/index.md)
 
+##### earthquake
 #  An earthquake measuring 4.4 on the Richter scale occurs in the border area between Haiti and the Dominican Republic. ([http:--news.bbc.co.uk-1-hi-world-americas-3761171.stm BBC])
 
 

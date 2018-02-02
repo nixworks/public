@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/07/7/king-gyanendra-of-nepal-celebrates-his-60th-birthday-amid-protests-by-students-and-youth-wings-of-eight-ruling-parties.html)  [JSON](/news/2007/07/7/king-gyanendra-of-nepal-celebrates-his-60th-birthday-amid-protests-by-students-and-youth-wings-of-eight-ruling-parties.json)  [XML](/news/2007/07/7/king-gyanendra-of-nepal-celebrates-his-60th-birthday-amid-protests-by-students-and-youth-wings-of-eight-ruling-parties.xml)  
+
 ### [2007-07-7](/news/2007/07/7/index.md)
 
+##### King of Nepal
 #  King Gyanendra of Nepal celebrates his 60th birthday amid protests by students and youth wings of eight ruling parties.
 
 

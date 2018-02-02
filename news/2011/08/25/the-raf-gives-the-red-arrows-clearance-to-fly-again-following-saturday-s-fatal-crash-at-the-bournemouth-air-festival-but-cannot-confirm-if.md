@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/25/the-raf-gives-the-red-arrows-clearance-to-fly-again-following-saturday-s-fatal-crash-at-the-bournemouth-air-festival-but-cannot-confirm-if.html)  [JSON](/news/2011/08/25/the-raf-gives-the-red-arrows-clearance-to-fly-again-following-saturday-s-fatal-crash-at-the-bournemouth-air-festival-but-cannot-confirm-if.json)  [XML](/news/2011/08/25/the-raf-gives-the-red-arrows-clearance-to-fly-again-following-saturday-s-fatal-crash-at-the-bournemouth-air-festival-but-cannot-confirm-if.xml)  
+
 ### [2011-08-25](/news/2011/08/25/index.md)
 
+##### Royal Air Force
 # The RAF gives the Red Arrows clearance to fly again following Saturday's fatal crash at the Bournemouth Air Festival, but cannot confirm if they will fly at similar events this year. 
 
 The Red Arrows are cleared to fly again following a fatal crash, but the RAF is unable to confirm if they will perform at airshows again this year.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-14666350)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54720000/jpg/_54720864_jex_1143410_de25-1.jpg)

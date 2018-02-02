@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2014/08/14/pope-francis-begins-a-five-day-visit-to-south-korea.html)  [JSON](/news/2014/08/14/pope-francis-begins-a-five-day-visit-to-south-korea.json)  [XML](/news/2014/08/14/pope-francis-begins-a-five-day-visit-to-south-korea.xml)  
+
 ### [2014-08-14](/news/2014/08/14/index.md)
 
+##### Pope Francis
 # Pope Francis begins a five day visit to South Korea. 
 
 Pope Francis has arrived in Seoul looking to fuel a new era of Catholic growth in Asia - a mission fraught with complex political challenges but huge potential rewards.
 
 
-### Source:
+### Sources:
 
 1. [AFP, Reuters via ''Sydney Morning Herald](http://www.smh.com.au/world/pope-arrives-in-south-korea-for-fiveday-visit-20140814-103zcu.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/3/d/o/r/8/image.related.articleLeadwide.620x349.103zcu.png/1408503904413.jpg)
 
 ### Related:
 
-1. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: South Korea_
-2. [Pope Francis, responding to FARC rebel leader Rodrigo Londono's open letter asking for forgiveness for the suffering the group had inflicted on the country during his talk in Villavicencio, urges Colombians skeptical of the peace deal to be open to reconciliation. ](/news/2017/09/8/pope-francis-responding-to-farc-rebel-leader-rodrigo-londoa-o-s-open-letter-asking-for-forgiveness-for-the-suffering-the-group-had-inflicte.md) _Context: Pope Francis_
-3. [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md) _Context: Pope Francis_
-4. [Amid tensions from South Korea, U.S. President Donald Trump announces that he is "allowing Japan and South Korea to buy a substantially increased amount of highly sophisticated military equipment from the United States." ](/news/2017/09/5/amid-tensions-from-south-korea-u-s-president-donald-trump-announces-that-he-is-allowing-japan-and-south-korea-to-buy-a-substantially-incr.md) _Context: South Korea_
-5. [The Venerable Rev. Father Stanley Rother, a priest of the Roman Catholic Archdiocese of Oklahoma City (born in Okarche, Oklahoma), is beatified at the Cox Convention Center in Oklahoma City by Cardinal Angelo Amato, head of the sainthood Congregation in the Roman Curia and Pope Francis's delegate. Rother, who became a missionary, was assassinated in July 1981 in the poor rural village of Santiago Atitlan, Guatemala, and is the first Catholic martyr born a citizen of the United States. ](/news/2017/09/23/the-venerable-rev-father-stanley-rother-a-priest-of-the-roman-catholic-archdiocese-of-oklahoma-city-born-in-okarche-oklahoma-is-beatif.md) _Context: Pope Francis_
+1. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: South Korea_
+2. [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md) _Context: South Korea_
+3. [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md) _Context: South Korea_
+4. [The South Korean Ministry of Justice announces that it is a preparing a bill to ban cryptocurrency trading through exchanges. ](/news/2018/01/11/the-south-korean-ministry-of-justice-announces-that-it-is-a-preparing-a-bill-to-ban-cryptocurrency-trading-through-exchanges.md) _Context: South Korea_
+5. [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md) _Context: South Korea_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/15/azerbaijani-national-police-use-tear-gas-and-wa
 
 ### [2016-01-15](/news/2016/01/15/index.md)
 
+##### Azerbaijan
 # Azerbaijani National Police use tear gas and water cannons to forcibly disperse protesters in the Quba District who were protesting the country's worsening economic situation, resulting in scores being arrested. 
 
 

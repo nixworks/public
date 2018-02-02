@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/13/dozens-of-migrants-who-were-refused-entry-to-france-go-on-hunger-strike-at-the-border-crossing-in-the-italian-town-of-ventimiglia.html)  [JSON](/news/2015/06/13/dozens-of-migrants-who-were-refused-entry-to-france-go-on-hunger-strike-at-the-border-crossing-in-the-italian-town-of-ventimiglia.json)  [XML](/news/2015/06/13/dozens-of-migrants-who-were-refused-entry-to-france-go-on-hunger-strike-at-the-border-crossing-in-the-italian-town-of-ventimiglia.xml)  
+
 ### [2015-06-13](/news/2015/06/13/index.md)
 
+##### France
 # Dozens of migrants who were refused entry to France go on hunger strike at the border crossing in the Italian town of Ventimiglia. 
 
 Italian police moved in Saturday to disperse around 200 migrants who were staging a sit-in at a border crossing with France after French police refused to let them enter the country, an AFP reporter said
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/Jun-13/301951-migrants-in-hunger-strike-at-france-italy-border.ashx)
 1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/06/13/425980_img650x420_img650x420_crop.jpg)

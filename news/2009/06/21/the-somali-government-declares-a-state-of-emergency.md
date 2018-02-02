@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/06/21/the-somali-government-declares-a-state-of-emergency.html)  [JSON](/news/2009/06/21/the-somali-government-declares-a-state-of-emergency.json)  [XML](/news/2009/06/21/the-somali-government-declares-a-state-of-emergency.xml)  
+
 ### [2009-06-21](/news/2009/06/21/index.md)
 
+##### Somalia
 #  The Somali government declares a state of emergency. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE55J0US20090620)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090620&t=2&i=10575784&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-20T123726Z_01_BTRE55J0Z2L00_RTROPTP_0_SOMALIA-CONFLICT)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE55J0US20090620)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20090620&t=2&i=10575784&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-20T123726Z_01_BTRE55J0Z2L00_RTROPTP_0_SOMALIA-CONFLICT)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/29/a-25-year-old-employee-of-the-bank-of-ireland-is-detained-by-authorities-in-connection-with-the-largest-bank-robbery-in-the-country-s-histor.html)  [JSON](/news/2010/01/29/a-25-year-old-employee-of-the-bank-of-ireland-is-detained-by-authorities-in-connection-with-the-largest-bank-robbery-in-the-country-s-histor.json)  [XML](/news/2010/01/29/a-25-year-old-employee-of-the-bank-of-ireland-is-detained-by-authorities-in-connection-with-the-largest-bank-robbery-in-the-country-s-histor.xml)  
+
 ### [2010-01-29](/news/2010/01/29/index.md)
 
+##### Bank of Ireland
 # A 25-year-old employee of the Bank of Ireland is detained by authorities in connection with the largest bank robbery in the country's history. 
 
 An employee of the Bank of Ireland is being questioned by garda√≠ investigating the biggest bank robbery in the history of the State.
 
 
-### Source:
+### Sources:
 
 1. [RT…](http://www.rte.ie/news/2010/0129/kilteel.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0129/breaking21.htm)

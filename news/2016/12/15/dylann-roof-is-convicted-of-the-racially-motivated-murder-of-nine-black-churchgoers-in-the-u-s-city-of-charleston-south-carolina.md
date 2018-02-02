@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/15/dylann-roof-is-convicted-of-the-racially-motiva
 
 ### [2016-12-15](/news/2016/12/15/index.md)
 
+##### Charleston church shooting
 # Dylann Roof is convicted of the racially motivated murder of nine black churchgoers in the U.S. city of Charleston, South Carolina. 
 
 Admitted white nationalist Dylann Roof was quickly convicted by a South Carolina federal jury on Thursday of all 33 hate-crime charges against him in the Charleston church massacre trial. It took j…

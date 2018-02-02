@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/13/newly-appointed-japanese-ambassador-to-china-shinichi-nishimiya-is-found-collapsed-on-a-street-in-tokyo-and-hospitalized.html)  [JSON](/news/2012/09/13/newly-appointed-japanese-ambassador-to-china-shinichi-nishimiya-is-found-collapsed-on-a-street-in-tokyo-and-hospitalized.json)  [XML](/news/2012/09/13/newly-appointed-japanese-ambassador-to-china-shinichi-nishimiya-is-found-collapsed-on-a-street-in-tokyo-and-hospitalized.xml)  
+
 ### [2012-09-13](/news/2012/09/13/index.md)
 
+##### Tokyo
 # Newly-appointed Japanese ambassador to China, Shinichi Nishimiya, is found collapsed on a street in Tokyo and hospitalized. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/09/13/world/asia/japan-china-ambassador-collapse/index.html?hpt=hp_t3)
 2. [Kyodo News](http://english.kyodonews.jp/news/2012/09/182166.html)

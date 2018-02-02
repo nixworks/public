@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/04/27/united-states-supreme-court-justice-stephen-g-breyer-is-taken-to-hospital-by-ambulance-after-he-breaks-his-shoulder-in-a-fall-from-his-bicy.html)  [JSON](/news/2013/04/27/united-states-supreme-court-justice-stephen-g-breyer-is-taken-to-hospital-by-ambulance-after-he-breaks-his-shoulder-in-a-fall-from-his-bicy.json)  [XML](/news/2013/04/27/united-states-supreme-court-justice-stephen-g-breyer-is-taken-to-hospital-by-ambulance-after-he-breaks-his-shoulder-in-a-fall-from-his-bicy.xml)  
+
 ### [2013-04-27](/news/2013/04/27/index.md)
 
+##### United States Supreme Court
 # United States Supreme Court Justice Stephen G. Breyer is taken to hospital by ambulance after he breaks his shoulder in a fall from his bicycle. 
 
 Justice Breyer undergoes shoulder surgery after third biking accident
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/local/supreme-court-justice-stephen-breyer-hurts-shoulder-in-biking-accident-in-dc/2013/04/27/f9fafde8-af6d-11e2-a986-eec837b1888b_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/local/supreme-court-justice-stephen-breyer-hurts-shoulder-in-biking-accident-in-dc/2013/04/27/f9fafde8-af6d-11e2-a986-eec837b1888b_story.html)
 
 ### Related:
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/14/korean-founder-and-leader-of-the-worldwide-unification-church-sun-myung-moon-holds-a-mass-wedding-ceremony-for-some-1-000-couples-near-se.html)  [JSON](/news/2009/10/14/korean-founder-and-leader-of-the-worldwide-unification-church-sun-myung-moon-holds-a-mass-wedding-ceremony-for-some-1-000-couples-near-se.json)  [XML](/news/2009/10/14/korean-founder-and-leader-of-the-worldwide-unification-church-sun-myung-moon-holds-a-mass-wedding-ceremony-for-some-1-000-couples-near-se.xml)  
+
 ### [2009-10-14](/news/2009/10/14/index.md)
 
+##### Korea
 #  Korean founder and leader of the worldwide Unification Church, Sun Myung Moon, holds a mass wedding ceremony for some 1,000 couples near Seoul. 
 
 ASAN, South Korea (Reuters Life!) - The founder of the Unification Church, Sun Myung Moon, held his first mass wedding ceremony in years on Wednesday, blessi
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/lifestyleMolt/idUSTRE59D1H720091014)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20091014&t=2&i=11940250&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-14T093423Z_01_BTRE59D0QME00_RTROPTP_0_KOREA)
+1. [Reuters](https://www.reuters.com/article/lifestyleMolt/idUSTRE59D1H720091014)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20091014&t=2&i=11940250&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-14T093423Z_01_BTRE59D0QME00_RTROPTP_0_KOREA)
 
 ### Related:
 

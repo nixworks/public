@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/5/amid-growing-concern-and-criticism-of-its-planned-reforms-to-the-nhs-in-england-the-uk-government-says-it-is-willing-to-make-major-changes.html)  [JSON](/news/2011/04/5/amid-growing-concern-and-criticism-of-its-planned-reforms-to-the-nhs-in-england-the-uk-government-says-it-is-willing-to-make-major-changes.json)  [XML](/news/2011/04/5/amid-growing-concern-and-criticism-of-its-planned-reforms-to-the-nhs-in-england-the-uk-government-says-it-is-willing-to-make-major-changes.xml)  
+
 ### [2011-04-5](/news/2011/04/5/index.md)
 
+##### NHS
 # Amid growing concern and criticism of its planned reforms to the NHS in England, the UK government says it is willing to make major changes to the policy. 
 
 The government is willing to make major changes to its overhaul of the NHS, ministers say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/health-12962003)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

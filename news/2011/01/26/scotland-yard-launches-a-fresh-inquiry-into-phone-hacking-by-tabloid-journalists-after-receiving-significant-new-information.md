@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/26/scotland-yard-launches-a-fresh-inquiry-into-phone-hacking-by-tabloid-journalists-after-receiving-significant-new-information.html)  [JSON](/news/2011/01/26/scotland-yard-launches-a-fresh-inquiry-into-phone-hacking-by-tabloid-journalists-after-receiving-significant-new-information.json)  [XML](/news/2011/01/26/scotland-yard-launches-a-fresh-inquiry-into-phone-hacking-by-tabloid-journalists-after-receiving-significant-new-information.xml)  
+
 ### [2011-01-26](/news/2011/01/26/index.md)
 
+##### Scotland Yard
 # Scotland Yard launches a fresh inquiry into phone hacking by tabloid journalists after receiving "significant new information". 
 
 Police launch a fresh investigation into phone hacking at the News of the World as it emerges its head of news, Ian Edmondson, has been sacked.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12290535)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

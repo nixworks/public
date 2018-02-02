@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/1/the-afghan-government-calls-for-an-international-inquiry-amid-what-it-sees-as-unjust-claims-made-by-nita-lowey-current-chair-of-the-house.html)  [JSON](/news/2010/07/1/the-afghan-government-calls-for-an-international-inquiry-amid-what-it-sees-as-unjust-claims-made-by-nita-lowey-current-chair-of-the-house.json)  [XML](/news/2010/07/1/the-afghan-government-calls-for-an-international-inquiry-amid-what-it-sees-as-unjust-claims-made-by-nita-lowey-current-chair-of-the-house.xml)  
+
 ### [2010-07-1](/news/2010/07/1/index.md)
 
+##### Nita Lowey
 # The Afghan government calls for an international inquiry amid what it sees as "unjust" claims made by Nita Lowey, current chair of the House Appropriations Committee in the United States, that suitcases of cash are being flown out of the country. The United States blocks billions of dollars of aid due to Lowey's claims. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Daily Times](http://www.dailytimes.com.pk/default.asp?page=2010%5C07%5C01%5Cstory_1-7-2010_pg20_8)
 1. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )

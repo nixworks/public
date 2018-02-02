@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/23/former-peru-president-alberto-fujimori-is-taken
 
 ### [2017-12-23](/news/2017/12/23/index.md)
 
+##### Peru
 # Former Peru president Alberto Fujimori is taken, from prison, to a local hospital for treatment for abnormally low blood pressure. 
 
 

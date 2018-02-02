@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/09/29/2011-yemeni-uprising-heavy-fighting-is-reported-in-the-northern-suburbs-of-sana-a-yemen-s-capital.html)  [JSON](/news/2011/09/29/2011-yemeni-uprising-heavy-fighting-is-reported-in-the-northern-suburbs-of-sana-a-yemen-s-capital.json)  [XML](/news/2011/09/29/2011-yemeni-uprising-heavy-fighting-is-reported-in-the-northern-suburbs-of-sana-a-yemen-s-capital.xml)  
+
 ### [2011-09-29](/news/2011/09/29/index.md)
 
+##### 2011 Yemeni uprising
 # 2011 Yemeni uprising: Heavy fighting is reported in the northern suburbs of Sana'a, Yemen's capital. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/09/29/us-yemen-idUSTRE78S0OF20110929)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110929&t=2&i=508346977&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-09-29T045804Z_01_BTRE78S0DSY00_RTROPTP_0_YEMEN)
+1. [Reuters](https://www.reuters.com/article/2011/09/29/us-yemen-idUSTRE78S0OF20110929)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110929&t=2&i=508346977&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-09-29T045804Z_01_BTRE78S0DSY00_RTROPTP_0_YEMEN)
 
 ### Related:
 

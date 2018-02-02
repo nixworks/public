@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/3/war-on-terrorism-saudi-arabian-authorities-have-broken-up-for-the-second-time-a-militant-ring-in-mecca-amid-a-wide-crackdown-on-islamic.html)  [JSON](/news/2003/11/3/war-on-terrorism-saudi-arabian-authorities-have-broken-up-for-the-second-time-a-militant-ring-in-mecca-amid-a-wide-crackdown-on-islamic.json)  [XML](/news/2003/11/3/war-on-terrorism-saudi-arabian-authorities-have-broken-up-for-the-second-time-a-militant-ring-in-mecca-amid-a-wide-crackdown-on-islamic.xml)  
+
 ### [2003-11-3](/news/2003/11/3/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: Saudi Arabian authorities have broken up, for the second time, a militant ring in Mecca amid a wide crackdown on Islamic extremists. The police combated militants in the streets of the holy city of Mecca, killing two of the suspects and uncovering a large cache of weapons. The raid on two buildings in Mecca's al-Share'a neighborhood foiled a terrorist operation "that did not respect the sanctity of holy places and the month of Ramadan".
 
 

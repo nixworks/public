@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/18/delta-air-lines-says-that-it-expects-sharp-fuel-cost-increases-in-2011-perhaps-to-2-60-a-gallon-from-2-47-last-year.html)  [JSON](/news/2011/01/18/delta-air-lines-says-that-it-expects-sharp-fuel-cost-increases-in-2011-perhaps-to-2-60-a-gallon-from-2-47-last-year.json)  [XML](/news/2011/01/18/delta-air-lines-says-that-it-expects-sharp-fuel-cost-increases-in-2011-perhaps-to-2-60-a-gallon-from-2-47-last-year.xml)  
+
 ### [2011-01-18](/news/2011/01/18/index.md)
 
+##### Delta Air Lines
 # Delta Air Lines says that it expects sharp fuel cost increases in 2011, perhaps to $2.60 a gallon from $2.47 last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://www.marketwatch.com/story/delta-fuel-costs-may-rise-by-1-billion-in-2011-2011-01-18?reflink=MW_news_stmp)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)

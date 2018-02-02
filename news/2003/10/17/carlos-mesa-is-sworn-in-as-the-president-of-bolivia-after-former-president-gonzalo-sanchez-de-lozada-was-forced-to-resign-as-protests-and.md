@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/17/carlos-mesa-is-sworn-in-as-the-president-of-bolivia-after-former-president-gonzalo-sanchez-de-lozada-was-forced-to-resign-as-protests-and.html)  [JSON](/news/2003/10/17/carlos-mesa-is-sworn-in-as-the-president-of-bolivia-after-former-president-gonzalo-sanchez-de-lozada-was-forced-to-resign-as-protests-and.json)  [XML](/news/2003/10/17/carlos-mesa-is-sworn-in-as-the-president-of-bolivia-after-former-president-gonzalo-sanchez-de-lozada-was-forced-to-resign-as-protests-and.xml)  
+
 ### [2003-10-17](/news/2003/10/17/index.md)
 
+##### Carlos Mesa
 #  Carlos Mesa is sworn in as the President of Bolivia, after former president Gonzalo Snchez de Lozada was forced to resign as protests and strikes escalated in the Bolivian Gas War.
 
 

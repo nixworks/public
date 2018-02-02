@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/28/a-court-in-chile-strips-former-dictator-augusto-pinochet-of-his-immunity-from-prosecution-paving-the-way-for-him-be-tried-for-human-rights.html)  [JSON](/news/2004/05/28/a-court-in-chile-strips-former-dictator-augusto-pinochet-of-his-immunity-from-prosecution-paving-the-way-for-him-be-tried-for-human-rights.json)  [XML](/news/2004/05/28/a-court-in-chile-strips-former-dictator-augusto-pinochet-of-his-immunity-from-prosecution-paving-the-way-for-him-be-tried-for-human-rights.xml)  
+
 ### [2004-05-28](/news/2004/05/28/index.md)
 
+##### Chile
 #  A court in Chile strips former dictator Augusto Pinochet of his immunity from prosecution, paving the way for him be tried for human rights abuses in the 1970s and 1980s. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/3758005.stm)
 

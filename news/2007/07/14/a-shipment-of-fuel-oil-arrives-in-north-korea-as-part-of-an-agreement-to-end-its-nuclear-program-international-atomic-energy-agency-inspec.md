@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/14/a-shipment-of-fuel-oil-arrives-in-north-korea-as-part-of-an-agreement-to-end-its-nuclear-program-international-atomic-energy-agency-inspec.html)  [JSON](/news/2007/07/14/a-shipment-of-fuel-oil-arrives-in-north-korea-as-part-of-an-agreement-to-end-its-nuclear-program-international-atomic-energy-agency-inspec.json)  [XML](/news/2007/07/14/a-shipment-of-fuel-oil-arrives-in-north-korea-as-part-of-an-agreement-to-end-its-nuclear-program-international-atomic-energy-agency-inspec.xml)  
+
 ### [2007-07-14](/news/2007/07/14/index.md)
 
+##### North Korea
 #  A shipment of fuel oil arrives in North Korea as part of an agreement to end its nuclear program. International Atomic Energy Agency inspectors are monitoring the shutdown of the Yongbyon reactor. North Korea later advises that it has shut the reactor down. 
 
 A shipment of fuel has arrived in North Korea - the first part of a deal to halt Pyongyang&#039;s nuclear program.
 
 
-### Source:
+### Sources:
 
 1. [AP via Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1184168562971&pagename=JPost%2FJPArticle%2FShowFull)
 2. [BBC via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/14/1978657.htm)

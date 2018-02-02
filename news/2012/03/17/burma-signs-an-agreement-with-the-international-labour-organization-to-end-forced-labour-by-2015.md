@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/17/burma-signs-an-agreement-with-the-international-labour-organization-to-end-forced-labour-by-2015.html)  [JSON](/news/2012/03/17/burma-signs-an-agreement-with-the-international-labour-organization-to-end-forced-labour-by-2015.json)  [XML](/news/2012/03/17/burma-signs-an-agreement-with-the-international-labour-organization-to-end-forced-labour-by-2015.xml)  
+
 ### [2012-03-17](/news/2012/03/17/index.md)
 
+##### Burma
 # Burma signs an agreement with the International Labour Organization to end forced labour by 2015. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/284817/myanmar-agrees-to-end-forced-labour-by-2015)
 

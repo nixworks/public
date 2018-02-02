@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/06/12/kosovo-war-operation-joint-guardian-begins-nato-led-united-nations-peacekeeping-force-kfor-enter-the-province-of-kosovo-in-federal-repub.html)  [JSON](/news/1999/06/12/kosovo-war-operation-joint-guardian-begins-nato-led-united-nations-peacekeeping-force-kfor-enter-the-province-of-kosovo-in-federal-repub.json)  [XML](/news/1999/06/12/kosovo-war-operation-joint-guardian-begins-nato-led-united-nations-peacekeeping-force-kfor-enter-the-province-of-kosovo-in-federal-repub.xml)  
+
 ### [1999-06-12](/news/1999/06/12/index.md)
 
+##### Operation Joint Guardian
 #  Kosovo War: Operation Joint Guardian begins - NATO-led United Nations peacekeeping force KFOR enter the province of Kosovo in Federal Republic of Yugoslavia.
 
 

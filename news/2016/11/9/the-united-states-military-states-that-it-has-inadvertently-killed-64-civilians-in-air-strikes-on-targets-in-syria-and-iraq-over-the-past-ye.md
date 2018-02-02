@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/9/the-united-states-military-states-that-it-has-in
 
 ### [2016-11-9](/news/2016/11/9/index.md)
 
+##### Operation Inherent Resolve
 # The United States military states that it has inadvertently killed 64 civilians in air strikes on targets in Syria and Iraq over the past year. 
 
 Sixty-four civilians were killed and eight were injured in 24 U.S.-led coalition airstrikes against Islamic State militants in Iraq and Syria over the past year, the U.S. military said Wednesday, based on newly completed investigations.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/3/two-transcripts-of-telephone-conversations-betwe
 
 ### [2017-08-3](/news/2017/08/3/index.md)
 
+##### 2017 Mexico-United States diplomatic crisis
 # Two transcripts of telephone conversations between U.S. President Donald Trump and foreign leaders are leaked. Trump was shown to disagree with Mexican President Enrique Pena Nieto on 27 January over the proposed border wall, and with Australian Prime Minister Malcolm Turnbull the next day over the resettlement deal of refugees in Nauru and Manus. 
 
 The Post has obtained transcripts of President Donald Trump’s talks with Mexican President Enrique Pena Nieto and Australian Prime Minister Malcolm Turnbull in January.

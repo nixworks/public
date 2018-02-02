@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/01/3/yahoo-stocks-closing-at-an-all-time-high-of-118-75-a-share.html)  [JSON](/news/2000/01/3/yahoo-stocks-closing-at-an-all-time-high-of-118-75-a-share.json)  [XML](/news/2000/01/3/yahoo-stocks-closing-at-an-all-time-high-of-118-75-a-share.xml)  
+
 ### [2000-01-3](/news/2000/01/3/index.md)
 
+##### Yahoo!
 # Yahoo! stocks closing at an all-time high of $118.75 a share.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/28/pakistan-s-supreme-court-suspends-the-acquittal-of-five-men-accused-of-raping-mukhtaran-bibi.html)  [JSON](/news/2005/06/28/pakistan-s-supreme-court-suspends-the-acquittal-of-five-men-accused-of-raping-mukhtaran-bibi.json)  [XML](/news/2005/06/28/pakistan-s-supreme-court-suspends-the-acquittal-of-five-men-accused-of-raping-mukhtaran-bibi.xml)  
+
 ### [2005-06-28](/news/2005/06/28/index.md)
 
+##### Pakistan
 #  Pakistan's Supreme Court suspends the acquittal of five men accused of raping Mukhtaran Bibi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4629457.stm)
 

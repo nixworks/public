@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/9/ugandan-police-arrest-two-presidential-hopefuls-former-prime-minister-amama-mbabazi-and-opposition-leader-kizza-besigye.html)  [JSON](/news/2015/07/9/ugandan-police-arrest-two-presidential-hopefuls-former-prime-minister-amama-mbabazi-and-opposition-leader-kizza-besigye.json)  [XML](/news/2015/07/9/ugandan-police-arrest-two-presidential-hopefuls-former-prime-minister-amama-mbabazi-and-opposition-leader-kizza-besigye.xml)  
+
 ### [2015-07-9](/news/2015/07/9/index.md)
 
+##### Ugandan police
 # Ugandan police arrest two presidential hopefuls, former Prime Minister Amama Mbabazi and opposition leader Kizza Besigye. 
 
 Ex-PM and opposition leader, both planning to challenge incumbent in 2016 poll, detained in separate incidents.
 
 
-### Source:
+### Sources:
 
 1. [AlJazeera](http://www.aljazeera.com/news/2015/07/uganda-arrests-presidential-candidates-amama-mbabazi-kizza-besigye-150709081841654.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/7/9/5a577adfb1b943119f6f4ed0af6679ef_18.jpg)

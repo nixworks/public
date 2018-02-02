@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/1/actor-michael-douglas-speaks-for-the-first-time-in-public-of-his-recent-disgnosis-with-throat-cancer-during-an-interview-on-american-televis.html)  [JSON](/news/2010/09/1/actor-michael-douglas-speaks-for-the-first-time-in-public-of-his-recent-disgnosis-with-throat-cancer-during-an-interview-on-american-televis.json)  [XML](/news/2010/09/1/actor-michael-douglas-speaks-for-the-first-time-in-public-of-his-recent-disgnosis-with-throat-cancer-during-an-interview-on-american-televis.xml)  
+
 ### [2010-09-1](/news/2010/09/1/index.md)
 
+##### Michael Douglas
 # Actor Michael Douglas speaks for the first time in public of his recent disgnosis with throat cancer during an interview on American television. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11148807)
 2. [The Guardian](http://www.guardian.co.uk/film/2010/sep/01/michael-douglas-cancer-spread)

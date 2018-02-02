@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/26/iranian-authorities-halt-the-impending-execution-of-a-kurdish-student-convicted-of-enmity-against-god-in-connection-with-alleged-membersh.html)  [JSON](/news/2010/12/26/iranian-authorities-halt-the-impending-execution-of-a-kurdish-student-convicted-of-enmity-against-god-in-connection-with-alleged-membersh.json)  [XML](/news/2010/12/26/iranian-authorities-halt-the-impending-execution-of-a-kurdish-student-convicted-of-enmity-against-god-in-connection-with-alleged-membersh.xml)  
+
 ### [2010-12-26](/news/2010/12/26/index.md)
 
+##### Iran
 # Iranian authorities halt the impending execution of a Kurdish student convicted of "enmity against God", in connection with alleged membership and activities on behalf of the militant Party for a Free Life in Kurdistan (PJAK), following appeals by international organizations claiming that his trial was held behind closed doors and his lawyer was not allowed to be present. 
 
 Human rights group urges Iran to &quot;show clemency, halt the imminent execution of Habibolah Latifi, and commute his death sentence.&quot;
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jvAlVo3N5MgpMXskKQFyQCefJ7-w?docId=CNG.bf43c601f67e06b129ba3136fcd3b670.281)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12079644)

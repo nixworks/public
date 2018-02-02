@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/10/17-people-are-killed-and-6-are-seriously-injured-after-a-passenger-coach-collides-with-a-cement-tanker-truck-between-hefei-capital-of-the-e.html)  [JSON](/news/2010/10/10/17-people-are-killed-and-6-are-seriously-injured-after-a-passenger-coach-collides-with-a-cement-tanker-truck-between-hefei-capital-of-the-e.json)  [XML](/news/2010/10/10/17-people-are-killed-and-6-are-seriously-injured-after-a-passenger-coach-collides-with-a-cement-tanker-truck-between-hefei-capital-of-the-e.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### Hefei
 # 17 people are killed and 6 are seriously injured after a passenger coach collides with a cement tanker truck between Hefei, capital of the eastern Anhui province, and Nanjing, capital of neighboring Jiangsu province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SINA](http://english.sina.com/china/p/2010/1010/342805.html)
 

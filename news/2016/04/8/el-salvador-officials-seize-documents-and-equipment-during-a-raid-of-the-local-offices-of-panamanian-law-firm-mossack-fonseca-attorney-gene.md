@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/8/el-salvador-officials-seize-documents-and-equipm
 
 ### [2016-04-8](/news/2016/04/8/index.md)
 
+##### Panama Papers
 # El Salvador officials seize documents and equipment during a raid of the local offices of Panamanian law firm Mossack Fonseca. Attorney General Douglas Melendez says authorities interviewed seven employees, and confiscated 20 computers and some documents. 
 
 

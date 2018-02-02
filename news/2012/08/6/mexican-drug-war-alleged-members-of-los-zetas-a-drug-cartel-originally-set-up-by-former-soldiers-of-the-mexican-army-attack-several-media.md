@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/6/mexican-drug-war-alleged-members-of-los-zetas-a-drug-cartel-originally-set-up-by-former-soldiers-of-the-mexican-army-attack-several-media.html)  [JSON](/news/2012/08/6/mexican-drug-war-alleged-members-of-los-zetas-a-drug-cartel-originally-set-up-by-former-soldiers-of-the-mexican-army-attack-several-media.json)  [XML](/news/2012/08/6/mexican-drug-war-alleged-members-of-los-zetas-a-drug-cartel-originally-set-up-by-former-soldiers-of-the-mexican-army-attack-several-media.xml)  
+
 ### [2012-08-6](/news/2012/08/6/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: Alleged members of Los Zetas, a drug cartel originally set up by former soldiers of the Mexican Army, attack several media outlets in Monterrey for publishing on a rumored split between the two principal Zetas bosses. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [InSight Crime](http://www.insightcrime.org/insight-latest-news/item/2994-amid-rumors-of-zetas-split-press-targeted-in-monterrey)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/27/british-airways-cancels-all-flights-from-heathr
 
 ### [2017-05-27](/news/2017/05/27/index.md)
 
+##### British Airways
 # British Airways cancels all flights from Heathrow Airport and Gatwick Airport amid a "major IT system failure", that is causing severe disruption to flight operations worldwide. 
 
 All British Airways flights leaving Heathrow and Gatwick are cancelled until 18:00 BST.

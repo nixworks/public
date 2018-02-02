@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/14/police-in-south-korea-fire-tear-gas-and-water-cannons-at-anti-government-protesters-in-seoul-around-70-000-people-took-part-in-the-protests.html)  [JSON](/news/2015/11/14/police-in-south-korea-fire-tear-gas-and-water-cannons-at-anti-government-protesters-in-seoul-around-70-000-people-took-part-in-the-protests.json)  [XML](/news/2015/11/14/police-in-south-korea-fire-tear-gas-and-water-cannons-at-anti-government-protesters-in-seoul-around-70-000-people-took-part-in-the-protests.xml)  
+
 ### [2015-11-14](/news/2015/11/14/index.md)
 
+##### South Korea
 # Police in South Korea fire tear gas and water cannons at anti-government protesters in Seoul. Around 70,000 people took part in the protests, the largest in Seoul since the 2008 US beef protest in South Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/World/Asia-Pacific/2015/1114/Tens-of-thousands-anti-government-protesters-march-through-South-Korea-s-capital)
 1. [Cover Image](http://images.csmonitor.com/csm/2015/11/947833_1_1114-southkorea_standard.jpg?alias=standard_900x600)

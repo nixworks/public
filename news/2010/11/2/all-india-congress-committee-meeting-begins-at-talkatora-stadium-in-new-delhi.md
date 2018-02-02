@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/2/all-india-congress-committee-meeting-begins-at-talkatora-stadium-in-new-delhi.html)  [JSON](/news/2010/11/2/all-india-congress-committee-meeting-begins-at-talkatora-stadium-in-new-delhi.json)  [XML](/news/2010/11/2/all-india-congress-committee-meeting-begins-at-talkatora-stadium-in-new-delhi.xml)  
+
 ### [2010-11-2](/news/2010/11/2/index.md)
 
+##### All India Congress Committee
 # All India Congress Committee meeting begins at Talkatora Stadium in New Delhi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Samay Live](http://english.samaylive.com/nation-news/676476488/aicc-meet-begins-in-delhi.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/3/plans-for-a-chicago-based-presidential-library-i
 
 ### [2017-05-3](/news/2017/05/3/index.md)
 
+##### Chicago
 # Plans for a Chicago-based presidential library in honour of the former U.S. President Obama are revealed. 
 
 In addition to the presidential museum and gardens, the new center will feature film and recording studios and several gardens.

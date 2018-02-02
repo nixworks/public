@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/11/mychal-bell-of-the-jena-6-is-ordered-to-spend-18-months-in-a-juvenile-facility-for-violating-probation-for-previous-convictions.html)  [JSON](/news/2007/10/11/mychal-bell-of-the-jena-6-is-ordered-to-spend-18-months-in-a-juvenile-facility-for-violating-probation-for-previous-convictions.json)  [XML](/news/2007/10/11/mychal-bell-of-the-jena-6-is-ordered-to-spend-18-months-in-a-juvenile-facility-for-violating-probation-for-previous-convictions.xml)  
+
 ### [2007-10-11](/news/2007/10/11/index.md)
 
+##### Mychal Bell
 #  Mychal Bell of the Jena 6 is ordered to spend 18 months in a juvenile facility for violating probation for previous convictions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/US/law/10/11/bell.jail/index.html)
 

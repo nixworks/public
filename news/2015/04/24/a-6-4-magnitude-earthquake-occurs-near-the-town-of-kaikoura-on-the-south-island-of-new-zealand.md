@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/24/a-6-4-magnitude-earthquake-occurs-near-the-town-of-kaikoura-on-the-south-island-of-new-zealand.html)  [JSON](/news/2015/04/24/a-6-4-magnitude-earthquake-occurs-near-the-town-of-kaikoura-on-the-south-island-of-new-zealand.json)  [XML](/news/2015/04/24/a-6-4-magnitude-earthquake-occurs-near-the-town-of-kaikoura-on-the-south-island-of-new-zealand.xml)  
+
 ### [2015-04-24](/news/2015/04/24/index.md)
 
+##### earthquake
 # A 6.4 magnitude earthquake occurs near the town of Kaikoura on the South Island of New Zealand. 
 
 A strong earthquake centered just off Kaikoura has caused problems with the Spark mobile network today. - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11438112)
 1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/png/201517/seis_1024x768.png)

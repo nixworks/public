@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/06/29/at-least-26-policemen-are-killed-in-a-maoist-attack-in-the-central-indian-state-of-chhattisgarh.html)  [JSON](/news/2010/06/29/at-least-26-policemen-are-killed-in-a-maoist-attack-in-the-central-indian-state-of-chhattisgarh.json)  [XML](/news/2010/06/29/at-least-26-policemen-are-killed-in-a-maoist-attack-in-the-central-indian-state-of-chhattisgarh.xml)  
+
 ### [2010-06-29](/news/2010/06/29/index.md)
 
+##### Maoist attack
 # At least 26 policemen are killed in a Maoist attack in the central Indian state of Chhattisgarh.
 
 

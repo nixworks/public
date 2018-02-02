@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/12/six-uyghurs-are-sentenced-to-death-over-riots-in-the-western-region-of-xinjiang-china-in-july.html)  [JSON](/news/2009/10/12/six-uyghurs-are-sentenced-to-death-over-riots-in-the-western-region-of-xinjiang-china-in-july.json)  [XML](/news/2009/10/12/six-uyghurs-are-sentenced-to-death-over-riots-in-the-western-region-of-xinjiang-china-in-july.xml)  
+
 ### [2009-10-12](/news/2009/10/12/index.md)
 
+##### Uyghur
 #  Six Uyghurs are sentenced to death over riots in the western region of Xinjiang, China in July. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/8302140.stm)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=446419)

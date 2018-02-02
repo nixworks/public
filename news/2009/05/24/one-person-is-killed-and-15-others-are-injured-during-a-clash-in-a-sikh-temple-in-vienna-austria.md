@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/24/one-person-is-killed-and-15-others-are-injured-during-a-clash-in-a-sikh-temple-in-vienna-austria.html)  [JSON](/news/2009/05/24/one-person-is-killed-and-15-others-are-injured-during-a-clash-in-a-sikh-temple-in-vienna-austria.json)  [XML](/news/2009/05/24/one-person-is-killed-and-15-others-are-injured-during-a-clash-in-a-sikh-temple-in-vienna-austria.xml)  
+
 ### [2009-05-24](/news/2009/05/24/index.md)
 
+##### Sikh
 #  One person is killed and 15 others are injured during a clash in a Sikh temple in Vienna, Austria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/8066005.stm)
 

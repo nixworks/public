@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/17/israeli-troops-kill-hamas-militant-iyad-abu-shilbaya-in-an-arrest-raid-in-the-west-bank.html)  [JSON](/news/2010/09/17/israeli-troops-kill-hamas-militant-iyad-abu-shilbaya-in-an-arrest-raid-in-the-west-bank.json)  [XML](/news/2010/09/17/israeli-troops-kill-hamas-militant-iyad-abu-shilbaya-in-an-arrest-raid-in-the-west-bank.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### Israeli Army
 # Israeli troops kill Hamas militant Iyad Abu Shilbaya in an arrest raid in the West Bank. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5ioi_0jtO9RjMwPNRoXNCndRPRq3gD9I9JL7O0)
 

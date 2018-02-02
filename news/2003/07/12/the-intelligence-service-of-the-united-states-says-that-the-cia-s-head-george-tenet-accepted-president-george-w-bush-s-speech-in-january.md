@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/12/the-intelligence-service-of-the-united-states-says-that-the-cia-s-head-george-tenet-accepted-president-george-w-bush-s-speech-in-january.html)  [JSON](/news/2003/07/12/the-intelligence-service-of-the-united-states-says-that-the-cia-s-head-george-tenet-accepted-president-george-w-bush-s-speech-in-january.json)  [XML](/news/2003/07/12/the-intelligence-service-of-the-united-states-says-that-the-cia-s-head-george-tenet-accepted-president-george-w-bush-s-speech-in-january.xml)  
+
 ### [2003-07-12](/news/2003/07/12/index.md)
 
+##### CIA
 #  The intelligence service of the United States says that the CIA's head, George Tenet, accepted President George W. Bush's speech in January, which included wrong information of Iraq's plans to buy uranium from Africa. The office of Prime Minister Tony Blair responded that it stands by its belief that Saddam Hussein attempted to buy African uranium, claiming that it cannot share its information with the United States because it comes from "foreign intelligence sources."
 
 

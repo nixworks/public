@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/2/syrian-army-troops-surround-the-central-prison-i
 
 ### [2016-05-2](/news/2016/05/2/index.md)
 
+##### Syrian Civil War
 # Syrian Army troops surround the central prison in Hama after inmates revolted, seizing several guards. The Syrian Observatory for Human Rights says inmates were protesting against a planned transfer of prisoners from Hama to Sednaya Prison near Damascus. 
 
 Syrian government troops surrounded Hama prison in the west of the country on Monday and fired tear gas after inmates revolted, seizing several guards, a monitoring group reported.

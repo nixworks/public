@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/19/airstrikes-by-syrian-or-russian-warplanes-on-is
 
 ### [2016-03-19](/news/2016/03/19/index.md)
 
+##### Syrian Civil War
 # Airstrikes by Syrian or Russian warplanes on ISIL's de facto capital Al-Raqqah in northern Syria, leaves at least 39 people dead, according to the Syrian Observatory for Human Rights. Airstrikes on the city of Palmyra and nearby villages are said to have killed at least 18 ISIL militants, as the Syrian Army advance on the city. 
 
 Dozens of people were killed in a series of air strikes on the city of Raqqa in northern Syria on Saturday, a monitoring group and activists said, as Damascus and Moscow waged attacks on areas controlled by Islamic State.

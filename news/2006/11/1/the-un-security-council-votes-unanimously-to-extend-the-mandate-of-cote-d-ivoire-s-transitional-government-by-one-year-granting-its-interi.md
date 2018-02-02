@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2006/11/1/the-un-security-council-votes-unanimously-to-extend-the-mandate-of-cote-d-ivoire-s-transitional-government-by-one-year-granting-its-interi.html)  [JSON](/news/2006/11/1/the-un-security-council-votes-unanimously-to-extend-the-mandate-of-cote-d-ivoire-s-transitional-government-by-one-year-granting-its-interi.json)  [XML](/news/2006/11/1/the-un-security-council-votes-unanimously-to-extend-the-mandate-of-cote-d-ivoire-s-transitional-government-by-one-year-granting-its-interi.xml)  
+
 ### [2006-11-1](/news/2006/11/1/index.md)
 
+##### United Nations Security Council
 #  The UN Security Council votes unanimously to extend the mandate of Cte d'Ivoire's transitional government by one year, granting its Interim Prime Minister Charles Konan Banny sweeping powers over security forces. UNSC deadline for Elections, originally set for November 2006, was delayed to November 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.iht.com/articles/ap/2006/11/01/news/UN_GEN_UN_Ivory_Coast.php)
 
 ### Related:
 
 1. [ Cte d'Ivoire Prime Minister Charles Konan Banny dissolves his Cabinet after toxic waste was dumped in the city of Abidjan, making over 1,500 people ill and killing three. ](/news/2006/09/6/cote-d-ivoire-prime-minister-charles-konan-banny-dissolves-his-cabinet-after-toxic-waste-was-dumped-in-the-city-of-abidjan-making-over-1-5.md) _Context: Charles Konan Banny, Cte d'Ivoire_
-2. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: United Nations Security Council_
-3. [The United Nations Security Council approves new sanctions on North Korea, limiting refined petroleum imports and banning textile exports, in response to its recent nuclear test. ](/news/2017/09/11/the-united-nations-security-council-approves-new-sanctions-on-north-korea-limiting-refined-petroleum-imports-and-banning-textile-exports-i.md) _Context: United Nations Security Council_
-4. [The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/the-united-nations-security-council-votes-15a0-to-impose-sanctions-on-north-korea-for-its-intercontinental-ballistic-missile-tests.md) _Context: United Nations Security Council_
-5. [A United Nations Security Council session is to be held to address the escalating violence in Jerusalem. ](/news/2017/07/22/a-united-nations-security-council-session-is-to-be-held-to-address-the-escalating-violence-in-jerusalem.md) _Context: United Nations Security Council_
+2. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: United Nations Security Council_
+3. [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md) _Context: United Nations Security Council_
+4. [The United Nations Security Council unanimously imposes new sanctions on North Korea that caps refined petroleum product imports to 500,000 barrels a year, a 90 percent cut, and demands the repatriation of North Koreans working abroad within 24 months. ](/news/2017/12/22/the-united-nations-security-council-unanimously-imposes-new-sanctions-on-north-korea-that-caps-refined-petroleum-product-imports-to-500-000.md) _Context: United Nations Security Council_
+5. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: United Nations Security Council_

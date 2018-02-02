@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/27/the-kepler-telescope-discovers-715-new-planets.html)  [JSON](/news/2014/02/27/the-kepler-telescope-discovers-715-new-planets.json)  [XML](/news/2014/02/27/the-kepler-telescope-discovers-715-new-planets.xml)  
+
 ### [2014-02-27](/news/2014/02/27/index.md)
 
+##### Kepler telescope
 # The Kepler telescope discovers 715 new planets. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/science-environment-26362433)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73245000/jpg/_73245083_73245082.jpg)

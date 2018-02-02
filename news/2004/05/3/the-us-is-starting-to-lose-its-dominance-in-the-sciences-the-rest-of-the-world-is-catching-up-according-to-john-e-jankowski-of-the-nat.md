@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/05/3/the-us-is-starting-to-lose-its-dominance-in-the-sciences-the-rest-of-the-world-is-catching-up-according-to-john-e-jankowski-of-the-nat.html)  [JSON](/news/2004/05/3/the-us-is-starting-to-lose-its-dominance-in-the-sciences-the-rest-of-the-world-is-catching-up-according-to-john-e-jankowski-of-the-nat.json)  [XML](/news/2004/05/3/the-us-is-starting-to-lose-its-dominance-in-the-sciences-the-rest-of-the-world-is-catching-up-according-to-john-e-jankowski-of-the-nat.xml)  
+
 ### [2004-05-3](/news/2004/05/3/index.md)
 
+##### National Science Foundation
 #  The US is starting to lose its dominance in the sciences; "the rest of the world is catching up", according to John E. Jankowski of the National Science Foundation. Scientists from Europe and now other countries are now publishing more papers in major professional journals than scientists from the U.S.. New York Times p.A1.
 
 

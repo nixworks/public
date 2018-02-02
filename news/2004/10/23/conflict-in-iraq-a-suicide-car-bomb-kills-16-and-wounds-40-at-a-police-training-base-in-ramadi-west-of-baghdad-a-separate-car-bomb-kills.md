@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/23/conflict-in-iraq-a-suicide-car-bomb-kills-16-and-wounds-40-at-a-police-training-base-in-ramadi-west-of-baghdad-a-separate-car-bomb-kills.html)  [JSON](/news/2004/10/23/conflict-in-iraq-a-suicide-car-bomb-kills-16-and-wounds-40-at-a-police-training-base-in-ramadi-west-of-baghdad-a-separate-car-bomb-kills.json)  [XML](/news/2004/10/23/conflict-in-iraq-a-suicide-car-bomb-kills-16-and-wounds-40-at-a-police-training-base-in-ramadi-west-of-baghdad-a-separate-car-bomb-kills.xml)  
+
 ### [2004-10-23](/news/2004/10/23/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: A suicide car bomb kills 16 and wounds 40 at a police training base in Ramadi west of Baghdad. A separate car bomb kills four Iraqi National Guard soldiers at a check point in Samarra. Two die and four are injured in U.S. air strikes on Falluja. In Mosul, two Turkish drivers are killed and two wounded when their convoy is attacked. Mortars land in central Baghdad killing two civilians. The U.S. military say they have captured a senior official of al-Zarqawi's militant organization. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3946831.stm)
 2. [Reuters](http://reuters.com/newsArticle.jhtml;jsessionid=OZ4A3USJM4IJECRBAEZSFFA?type=worldNews&storyID=6588888)

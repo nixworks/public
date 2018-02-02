@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/10/tens-of-millions-of-hindus-bathe-in-the-ganges-river-in-the-indian-city-of-allahabad-during-the-maha-kumbh-mela-festival.html)  [JSON](/news/2013/02/10/tens-of-millions-of-hindus-bathe-in-the-ganges-river-in-the-indian-city-of-allahabad-during-the-maha-kumbh-mela-festival.json)  [XML](/news/2013/02/10/tens-of-millions-of-hindus-bathe-in-the-ganges-river-in-the-indian-city-of-allahabad-during-the-maha-kumbh-mela-festival.xml)  
+
 ### [2013-02-10](/news/2013/02/10/index.md)
 
+##### largest papal gathering
 # Tens of millions of Hindus bathe in the Ganges River in the Indian city of Allahabad during the Maha Kumbh Mela festival. 
 
 At least 36 people die in a stampede as millions of pilgrims gather for the world&#039;s largest religious festival in India.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/2013-02-10/tens-of-millions-bathe-at-ganges-festival/4510894)
 1. [Cover Image](http://www.abc.net.au/news/image/4510912-1x1-700x700.jpg)

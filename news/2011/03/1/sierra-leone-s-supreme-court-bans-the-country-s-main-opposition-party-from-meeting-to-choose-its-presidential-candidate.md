@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/1/sierra-leone-s-supreme-court-bans-the-country-s-main-opposition-party-from-meeting-to-choose-its-presidential-candidate.html)  [JSON](/news/2011/03/1/sierra-leone-s-supreme-court-bans-the-country-s-main-opposition-party-from-meeting-to-choose-its-presidential-candidate.json)  [XML](/news/2011/03/1/sierra-leone-s-supreme-court-bans-the-country-s-main-opposition-party-from-meeting-to-choose-its-presidential-candidate.xml)  
+
 ### [2011-03-1](/news/2011/03/1/index.md)
 
+##### Sierra Leone
 # Sierra Leone's Supreme Court bans the country's main opposition party from meeting to choose its presidential candidate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7200KK20110301?sp=true)
 

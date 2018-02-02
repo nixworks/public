@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-a
 
 ### [2016-06-30](/news/2016/06/30/index.md)
 
+##### Armenia-Russia relations
 # Armenia's parliament, by a 102-8 vote, ratifies an agreement to create an Armenia-Russia joint Air Defense system. 
 
 102 lawmakers voted in favor of the agreement, while 8 voted against.
@@ -22,7 +23,7 @@ Formats: [HTML](/news/2016/06/30/armenia-s-parliament-by-a-102-8-vote-ratifies-a
 ### Related:
 
 1. [Russia reinforces the joint Armenian-Russian run Erebuni Airport, home to the Russian 3624th Air Base, with six attack and transport helicopters. The Russian Defence Ministry said the Mi-24 and Mi-8 helicopters had been transferred from a military base in the southern Russian region of Krasnodar Krai to the air base in Erebuni, Armenia. ](/news/2015/12/21/russia-reinforces-the-joint-armenian-russian-run-erebuni-airport-home-to-the-russian-3624th-air-base-with-six-attack-and-transport-helicop.md) _Context: Armenia, Armenia-Russia relations, Russia_
-2. [A six-month-old boy dies in hospital of his wounds, becoming the seventh member of an Armenian family dead after a killing spree by a Russian soldier. ](/news/2015/01/19/a-six-month-old-boy-dies-in-hospital-of-his-wounds-becoming-the-seventh-member-of-an-armenian-family-dead-after-a-killing-spree-by-a-russia.md) _Context: Armenia, Russia_
-3. [The Eurasian Economic Union between Russia, Kazakhstan, Belarus, Kyrgyzstan and Armenia comes into effect ](/news/2015/01/1/the-eurasian-economic-union-between-russia-kazakhstan-belarus-kyrgyzstan-and-armenia-comes-into-effect.md) _Context: Armenia, Russia_
-4. [Georgia annuls a military transit treaty with Russia, which allowed the latter access to its military base in Armenia.](/news/2011/04/19/georgia-annuls-a-military-transit-treaty-with-russia-which-allowed-the-latter-access-to-its-military-base-in-armenia.md) _Context: Armenia, Russia_
-5. [Russia will refund Iran for the canceled the sale of an air defense missile system following United Nations sanctions against Iran's nuclear program ](/news/2010/10/7/russia-will-refund-iran-for-the-canceled-the-sale-of-an-air-defense-missile-system-following-united-nations-sanctions-against-iranas-nucle.md) _Context: Air Defense, Russia_
+2. [Russia deploys a second anti-air S-400 missile batallion in Crimea. ](/news/2018/01/13/russia-deploys-a-second-anti-air-s-400-missile-batallion-in-crimea.md) _Context: Russia, anti-air_
+3. [A six-month-old boy dies in hospital of his wounds, becoming the seventh member of an Armenian family dead after a killing spree by a Russian soldier. ](/news/2015/01/19/a-six-month-old-boy-dies-in-hospital-of-his-wounds-becoming-the-seventh-member-of-an-armenian-family-dead-after-a-killing-spree-by-a-russia.md) _Context: Armenia, Russia_
+4. [The Eurasian Economic Union between Russia, Kazakhstan, Belarus, Kyrgyzstan and Armenia comes into effect ](/news/2015/01/1/the-eurasian-economic-union-between-russia-kazakhstan-belarus-kyrgyzstan-and-armenia-comes-into-effect.md) _Context: Armenia, Russia_
+5. [Georgia annuls a military transit treaty with Russia, which allowed the latter access to its military base in Armenia.](/news/2011/04/19/georgia-annuls-a-military-transit-treaty-with-russia-which-allowed-the-latter-access-to-its-military-base-in-armenia.md) _Context: Armenia, Russia_

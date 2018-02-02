@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/03/5/key-tokyo-stock-indexes-nikkei-225-and-topix-hit-21-month-highs.html)  [JSON](/news/2004/03/5/key-tokyo-stock-indexes-nikkei-225-and-topix-hit-21-month-highs.json)  [XML](/news/2004/03/5/key-tokyo-stock-indexes-nikkei-225-and-topix-hit-21-month-highs.xml)  
+
 ### [2004-03-5](/news/2004/03/5/index.md)
 
+##### Nikkei 225
 #  Key Tokyo stock indexes (Nikkei 225 and Topix) hit 21-month highs.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/12/the-first-female-nobel-prize-laureate-in-economics-elinor-ostrom-dies-at-the-age-of-78.html)  [JSON](/news/2012/06/12/the-first-female-nobel-prize-laureate-in-economics-elinor-ostrom-dies-at-the-age-of-78.json)  [XML](/news/2012/06/12/the-first-female-nobel-prize-laureate-in-economics-elinor-ostrom-dies-at-the-age-of-78.xml)  
+
 ### [2012-06-12](/news/2012/06/12/index.md)
 
+##### Nobel Prize laureate in Economics
 # The first female Nobel Prize laureate in Economics, Elinor Ostrom, dies at the age of 78. 
 
 Elinor Ostrom, the first and only woman to win the Nobel Prize in economics, died this morning.
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://blogs.wsj.com/economics/2012/06/12/elinor-ostrom-only-female-nobel-laureate-in-economics-dies/)
 1. [Cover Image](http://s.wsj.net/public/resources/images/OB-TI261_ostrom_G_20120612103941.jpg)

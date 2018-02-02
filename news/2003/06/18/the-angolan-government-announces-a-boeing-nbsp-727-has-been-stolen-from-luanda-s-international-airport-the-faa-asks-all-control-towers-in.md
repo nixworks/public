@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/18/the-angolan-government-announces-a-boeing-nbsp-727-has-been-stolen-from-luanda-s-international-airport-the-faa-asks-all-control-towers-in.html)  [JSON](/news/2003/06/18/the-angolan-government-announces-a-boeing-nbsp-727-has-been-stolen-from-luanda-s-international-airport-the-faa-asks-all-control-towers-in.json)  [XML](/news/2003/06/18/the-angolan-government-announces-a-boeing-nbsp-727-has-been-stolen-from-luanda-s-international-airport-the-faa-asks-all-control-towers-in.xml)  
+
 ### [2003-06-18](/news/2003/06/18/index.md)
 
+##### Angola
 #  The Angolan government announces a Boeing&nbsp;727 has been stolen from Luanda's International Airport. The FAA asks all control towers in the United States to watch for any unscheduled aircraft as a consequence.
 
 

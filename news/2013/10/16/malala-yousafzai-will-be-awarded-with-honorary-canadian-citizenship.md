@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/16/malala-yousafzai-will-be-awarded-with-honorary-canadian-citizenship.html)  [JSON](/news/2013/10/16/malala-yousafzai-will-be-awarded-with-honorary-canadian-citizenship.json)  [XML](/news/2013/10/16/malala-yousafzai-will-be-awarded-with-honorary-canadian-citizenship.xml)  
+
 ### [2013-10-16](/news/2013/10/16/index.md)
 
+##### Malala Yousafzai
 # Malala Yousafzai will be awarded with Honorary Canadian citizenship. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/malala-yousafzai-to-get-honorary-canadian-citizenship-1.2055704)
 1. [Cover Image](https://i.cbc.ca/1.1931411.1381333777!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/malala-red-852.jpg)

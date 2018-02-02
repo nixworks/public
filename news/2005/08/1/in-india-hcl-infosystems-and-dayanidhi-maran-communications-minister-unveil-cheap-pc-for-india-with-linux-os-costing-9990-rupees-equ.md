@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/1/in-india-hcl-infosystems-and-dayanidhi-maran-communications-minister-unveil-cheap-pc-for-india-with-linux-os-costing-9990-rupees-equ.html)  [JSON](/news/2005/08/1/in-india-hcl-infosystems-and-dayanidhi-maran-communications-minister-unveil-cheap-pc-for-india-with-linux-os-costing-9990-rupees-equ.json)  [XML](/news/2005/08/1/in-india-hcl-infosystems-and-dayanidhi-maran-communications-minister-unveil-cheap-pc-for-india-with-linux-os-costing-9990-rupees-equ.xml)  
+
 ### [2005-08-1](/news/2005/08/1/index.md)
 
+##### HCL infosystems
 #  In India, HCL infosystems and Dayanidhi Maran, communications minister, unveil cheap "PC for India" with Linux OS, costing 9990 rupees (equivalent to US$225) 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4735927.stm)
 2. [Hindu Business Line](http://www.thehindubusinessline.com/blnus/15011507.htm)

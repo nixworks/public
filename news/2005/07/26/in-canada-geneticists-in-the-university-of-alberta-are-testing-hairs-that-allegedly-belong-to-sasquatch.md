@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/26/in-canada-geneticists-in-the-university-of-alberta-are-testing-hairs-that-allegedly-belong-to-sasquatch.html)  [JSON](/news/2005/07/26/in-canada-geneticists-in-the-university-of-alberta-are-testing-hairs-that-allegedly-belong-to-sasquatch.json)  [XML](/news/2005/07/26/in-canada-geneticists-in-the-university-of-alberta-are-testing-hairs-that-allegedly-belong-to-sasquatch.xml)  
+
 ### [2005-07-26](/news/2005/07/26/index.md)
 
+##### scientists
 #  In Canada, geneticists in the University of Alberta are testing hairs that allegedly belong to sasquatch 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2005/07/25/sasquatchtesting0725.html)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-07-26T140236Z_01_N26536422_RTRIDST_0_ODD-CANADA-SASQUATCH-DC.XML)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/4/united-kingdom-parliament-mps-in-the-british-house-of-commons-have-voted-to-reject-all-seven-options-presented-for-the-reform-of-the-house.html)  [JSON](/news/2003/02/4/united-kingdom-parliament-mps-in-the-british-house-of-commons-have-voted-to-reject-all-seven-options-presented-for-the-reform-of-the-house.json)  [XML](/news/2003/02/4/united-kingdom-parliament-mps-in-the-british-house-of-commons-have-voted-to-reject-all-seven-options-presented-for-the-reform-of-the-house.xml)  
+
 ### [2003-02-4](/news/2003/02/4/index.md)
 
+##### United Kingdom parliament
 #  United Kingdom parliament: MPs in the British House of Commons have voted to reject all seven options presented for the reform of the House of Lords.
 
 

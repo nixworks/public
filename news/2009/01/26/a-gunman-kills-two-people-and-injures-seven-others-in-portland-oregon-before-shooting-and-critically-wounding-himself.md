@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/26/a-gunman-kills-two-people-and-injures-seven-others-in-portland-oregon-before-shooting-and-critically-wounding-himself.html)  [JSON](/news/2009/01/26/a-gunman-kills-two-people-and-injures-seven-others-in-portland-oregon-before-shooting-and-critically-wounding-himself.json)  [XML](/news/2009/01/26/a-gunman-kills-two-people-and-injures-seven-others-in-portland-oregon-before-shooting-and-critically-wounding-himself.xml)  
+
 ### [2009-01-26](/news/2009/01/26/index.md)
 
+##### kills two people and injures seven others
 #  A gunman kills two people and injures seven others in Portland, Oregon, before shooting and critically wounding himself. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Nightclub-Shooting-In-Portland-Oregon-Gunman-Kills-Two-And-Wounds-Seven/Article/200901415210150?lpos=World_News_First_World_News_Article_Teaser_Region_0&lid=ARTICLE_15210150_Nightclub_Shooting_In_Portland%2C_Oregon%3A_Gunman_Kills_Two_And_Wounds_Seven)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/2/egyptian-police-find-2-75-tonnes-of-explosives-in-the-el-gefgafa-area-of-sinai-believed-to-be-en-route-to-the-gaza-strip.html)  [JSON](/news/2007/09/2/egyptian-police-find-2-75-tonnes-of-explosives-in-the-el-gefgafa-area-of-sinai-believed-to-be-en-route-to-the-gaza-strip.json)  [XML](/news/2007/09/2/egyptian-police-find-2-75-tonnes-of-explosives-in-the-el-gefgafa-area-of-sinai-believed-to-be-en-route-to-the-gaza-strip.xml)  
+
 ### [2007-09-2](/news/2007/09/2/index.md)
 
+##### Egypt
 #  Egyptian police find 2.75 tonnes of explosives in the el-Gefgafa area of Sinai, believed to be en route to the Gaza Strip. 
 
 Egyptian police have found 2.75 tonnes of explosives in central Sinai, a security official says.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/03/2021878.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

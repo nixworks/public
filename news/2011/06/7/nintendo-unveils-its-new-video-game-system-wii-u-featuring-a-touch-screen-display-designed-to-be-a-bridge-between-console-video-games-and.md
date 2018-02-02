@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/06/7/nintendo-unveils-its-new-video-game-system-wii-u-featuring-a-touch-screen-display-designed-to-be-a-bridge-between-console-video-games-and.html)  [JSON](/news/2011/06/7/nintendo-unveils-its-new-video-game-system-wii-u-featuring-a-touch-screen-display-designed-to-be-a-bridge-between-console-video-games-and.json)  [XML](/news/2011/06/7/nintendo-unveils-its-new-video-game-system-wii-u-featuring-a-touch-screen-display-designed-to-be-a-bridge-between-console-video-games-and.xml)  
+
 ### [2011-06-7](/news/2011/06/7/index.md)
 
+##### Nintendo
 # Nintendo unveils its new video game system, Wii U, featuring a touch-screen display designed to be a bridge between console video games and portable and tablet-based games, to be released next year. 
 
 Nintendo reveals its new video game system, the Wii U, which plays high-def games with a touch-screen display controller.
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/tech/gaming/2011-06-08-nintendo-wii-u_n.htm)
+1. [USA Today](https://www.usatoday.com/tech/gaming/2011-06-08-nintendo-wii-u_n.htm)
 1. [Cover Image](http://i.usatoday.net/tech/_photos/2011/06/08/nintendo-wii-u-VR5GI4T-x.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/26/6-civilians-are-wounded-in-an-explosion-apparently-targeting-the-shiite-politician-mowaffak-al-rubaie-near-a-fuel-station-in-sa-doun-street.html)  [JSON](/news/2010/09/26/6-civilians-are-wounded-in-an-explosion-apparently-targeting-the-shiite-politician-mowaffak-al-rubaie-near-a-fuel-station-in-sa-doun-street.json)  [XML](/news/2010/09/26/6-civilians-are-wounded-in-an-explosion-apparently-targeting-the-shiite-politician-mowaffak-al-rubaie-near-a-fuel-station-in-sa-doun-street.xml)  
+
 ### [2010-09-26](/news/2010/09/26/index.md)
 
+##### Shiite
 # 6 civilians are wounded in an explosion apparently targeting the Shiite politician Mowaffak al-Rubaie near a fuel station in Sa'doun Street, Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/26/c_13530598.htm)
 

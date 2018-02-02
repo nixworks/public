@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/15/israel-will-pay-us-50-000-to-the-family-of-a-palestinian-man-who-was-killed-by-the-country-s-defense-forces-in-december-2003.html)  [JSON](/news/2009/02/15/israel-will-pay-us-50-000-to-the-family-of-a-palestinian-man-who-was-killed-by-the-country-s-defense-forces-in-december-2003.json)  [XML](/news/2009/02/15/israel-will-pay-us-50-000-to-the-family-of-a-palestinian-man-who-was-killed-by-the-country-s-defense-forces-in-december-2003.xml)  
+
 ### [2009-02-15](/news/2009/02/15/index.md)
 
+##### Israel
 #  Israel will pay US$50,000 to the family of a Palestinian man who was killed by the country's Defense Forces in December 2003. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ma'an](http://www.maannews.net/en/index.php?opr=ShowDetails&Do=&ID=35683)
 2. [PCHR](http://www.pchrgaza.org/files/PressR/English/2008/27-2009.html)

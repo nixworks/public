@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/12/peru-issues-a-map-of-outlining-its-claim-to-maritime-territory-also-claimed-by-chile.html)  [JSON](/news/2007/08/12/peru-issues-a-map-of-outlining-its-claim-to-maritime-territory-also-claimed-by-chile.json)  [XML](/news/2007/08/12/peru-issues-a-map-of-outlining-its-claim-to-maritime-territory-also-claimed-by-chile.xml)  
+
 ### [2007-08-12](/news/2007/08/12/index.md)
 
+##### Peru
 #  Peru issues a map of outlining its claim to maritime territory also claimed by Chile. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2007-08/13/content_6521418.htm)
 

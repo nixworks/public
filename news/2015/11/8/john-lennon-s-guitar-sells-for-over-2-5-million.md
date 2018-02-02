@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/8/john-lennon-s-guitar-sells-for-over-2-5-million.html)  [JSON](/news/2015/11/8/john-lennon-s-guitar-sells-for-over-2-5-million.json)  [XML](/news/2015/11/8/john-lennon-s-guitar-sells-for-over-2-5-million.xml)  
+
 ### [2015-11-8](/news/2015/11/8/index.md)
 
+##### John Lennon
 # John Lennon's guitar sells for over $2.5 million 
 
 An acoustic guitar thought to be have been used by John Lennon to write hits like Love Me Do sells at auction in California for $2.4m (£1.5m).
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-34759332)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/BB41/production/_86573974_86573973.jpg)

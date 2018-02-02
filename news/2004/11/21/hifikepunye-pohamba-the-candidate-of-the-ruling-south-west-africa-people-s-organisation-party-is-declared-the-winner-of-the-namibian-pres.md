@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/21/hifikepunye-pohamba-the-candidate-of-the-ruling-south-west-africa-people-s-organisation-party-is-declared-the-winner-of-the-namibian-pres.html)  [JSON](/news/2004/11/21/hifikepunye-pohamba-the-candidate-of-the-ruling-south-west-africa-people-s-organisation-party-is-declared-the-winner-of-the-namibian-pres.json)  [XML](/news/2004/11/21/hifikepunye-pohamba-the-candidate-of-the-ruling-south-west-africa-people-s-organisation-party-is-declared-the-winner-of-the-namibian-pres.xml)  
+
 ### [2004-11-21](/news/2004/11/21/index.md)
 
+##### Hifikepunye Pohamba
 #  Hifikepunye Pohamba, the candidate of the ruling South-West Africa People's Organisation party, is declared the winner of the Namibian presidential election with 76% of the vote. He succeeds Sam Nujoma, who is retiring after serving as president for 15 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4030163.stm)
 

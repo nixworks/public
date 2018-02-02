@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/12/for-the-first-time-saudi-arabia-allows-women-to
 
 ### [2018-01-12](/news/2018/01/12/index.md)
 
+##### Saudi Vision 2030
 # For the first time, Saudi Arabia allows women to spectate at football matches, part of an easing of strict rules on gender separation by the ultra-conservative Muslim country. 
 
 Amid gradual reforms, Saudi Arabia allows women to attend a football match for the first time.

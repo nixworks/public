@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/01/3/the-final-daily-original-peanuts-comic-strip-is-published.html)  [JSON](/news/2000/01/3/the-final-daily-original-peanuts-comic-strip-is-published.json)  [XML](/news/2000/01/3/the-final-daily-original-peanuts-comic-strip-is-published.xml)  
+
 ### [2000-01-3](/news/2000/01/3/index.md)
 
+##### Peanuts
 # The final daily original "Peanuts" comic strip is published.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/13/former-israeli-prime-minister-ehud-olmert-has-been-sentenced-to-six-years-jail-in-a-bribery-case.html)  [JSON](/news/2014/05/13/former-israeli-prime-minister-ehud-olmert-has-been-sentenced-to-six-years-jail-in-a-bribery-case.json)  [XML](/news/2014/05/13/former-israeli-prime-minister-ehud-olmert-has-been-sentenced-to-six-years-jail-in-a-bribery-case.xml)  
+
 ### [2014-05-13](/news/2014/05/13/index.md)
 
+##### Ehud Olmert
 # Former Israeli Prime Minister Ehud Olmert has been sentenced to six years jail in a bribery case.
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-05-13-ML-Israel-Olmert/id-d705457708b04b2792b776235f1e07e4)
 2. [Biharprabha News](http://news.biharprabha.com/2014/05/ex-israeli-pm-ehud-olmert-sentenced-to-6-years-jail-in-a-bribery-case/)

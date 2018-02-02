@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/17/ethiopia-officially-opens-the-omo-river-gibe-ii
 
 ### [2016-12-17](/news/2016/12/17/index.md)
 
+##### Ethiopia
 #  Ethiopia officially opens the Omo River Gibe III hydroelectric dam, one of the biggest in Africa, that is predicted to double the country's electricity output. Critics are concerned about this dam's impact on locals, on the environment, including Kenya's Lake Turkana, and on neighboring countries. 
 
 But environmentalists and rights groups warn the project will dramatically decrease water levels downstream all the way to Kenya&#039;s Lake Turkana, which derives 80 per cent of its resources from the river.

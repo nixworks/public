@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/20/following-reports-of-the-uk-government-s-hostility-to-a-takeover-of-centrica-russian-gas-giant-gazprom-warns-of-europe-wide-supply-disrupt.html)  [JSON](/news/2006/04/20/following-reports-of-the-uk-government-s-hostility-to-a-takeover-of-centrica-russian-gas-giant-gazprom-warns-of-europe-wide-supply-disrupt.json)  [XML](/news/2006/04/20/following-reports-of-the-uk-government-s-hostility-to-a-takeover-of-centrica-russian-gas-giant-gazprom-warns-of-europe-wide-supply-disrupt.xml)  
+
 ### [2006-04-20](/news/2006/04/20/index.md)
 
+##### Centrica
 #  Following reports of the UK government's hostility to a takeover of Centrica, Russian gas giant Gazprom warns of Europe-wide supply disruption 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel4 News](http://www.channel4.com/news/special-reports/special-reports-storypage.jsp?id=2215)
 

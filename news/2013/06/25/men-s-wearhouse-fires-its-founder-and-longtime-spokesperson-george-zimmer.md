@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/25/men-s-wearhouse-fires-its-founder-and-longtime-spokesperson-george-zimmer.html)  [JSON](/news/2013/06/25/men-s-wearhouse-fires-its-founder-and-longtime-spokesperson-george-zimmer.json)  [XML](/news/2013/06/25/men-s-wearhouse-fires-its-founder-and-longtime-spokesperson-george-zimmer.xml)  
+
 ### [2013-06-25](/news/2013/06/25/index.md)
 
+##### Men's Wearhouse
 # Men's Wearhouse fires its founder and longtime spokesperson George Zimmer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Newsday](http://www.newsday.com/business/men-s-wearhouse-fires-back-at-ousted-founder-1.5568025)
 1. [Cover Image](http://cdn.newsday.com/polopoly_fs/1.5567608.1372257171!/httpImage/image.JPG_gen/derivatives/landscape_1280/image.JPG)

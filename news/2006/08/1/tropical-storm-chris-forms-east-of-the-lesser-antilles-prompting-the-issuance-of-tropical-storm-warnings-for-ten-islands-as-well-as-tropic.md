@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/1/tropical-storm-chris-forms-east-of-the-lesser-antilles-prompting-the-issuance-of-tropical-storm-warnings-for-ten-islands-as-well-as-tropic.html)  [JSON](/news/2006/08/1/tropical-storm-chris-forms-east-of-the-lesser-antilles-prompting-the-issuance-of-tropical-storm-warnings-for-ten-islands-as-well-as-tropic.json)  [XML](/news/2006/08/1/tropical-storm-chris-forms-east-of-the-lesser-antilles-prompting-the-issuance-of-tropical-storm-warnings-for-ten-islands-as-well-as-tropic.xml)  
+
 ### [2006-08-1](/news/2006/08/1/index.md)
 
+##### Tropical Depression Chris
 #  Tropical Storm Chris forms east of the Lesser Antilles, prompting the issuance of tropical storm warnings for ten islands as well as tropical storm watches for Puerto Rico and the Virgin Islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Hurricane Center](http://www.nhc.noaa.gov/archive/2006/pub/al032006.public.002.shtml?)
 

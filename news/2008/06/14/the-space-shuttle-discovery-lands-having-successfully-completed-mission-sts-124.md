@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/14/the-space-shuttle-discovery-lands-having-successfully-completed-mission-sts-124.html)  [JSON](/news/2008/06/14/the-space-shuttle-discovery-lands-having-successfully-completed-mission-sts-124.json)  [XML](/news/2008/06/14/the-space-shuttle-discovery-lands-having-successfully-completed-mission-sts-124.xml)  
+
 ### [2008-06-14](/news/2008/06/14/index.md)
 
+##### Discovery
 #  The Space Shuttle Discovery lands having successfully completed mission STS-124. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://www.nasa.gov/mission_pages/shuttle/launch/landing_blog.html)
 2. [Reuters](http://www.canada.com/reginaleaderpost/news/story.html?id=b734aa11-313e-4052-b538-e652c366cd12)

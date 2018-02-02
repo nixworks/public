@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/15/at-least-44-people-are-killed-amid-a-yemeni-government-offensive-to-retake-zinjibar-and-jaar-from-islamist-militants-among-the-casualties-a.html)  [JSON](/news/2012/05/15/at-least-44-people-are-killed-amid-a-yemeni-government-offensive-to-retake-zinjibar-and-jaar-from-islamist-militants-among-the-casualties-a.json)  [XML](/news/2012/05/15/at-least-44-people-are-killed-amid-a-yemeni-government-offensive-to-retake-zinjibar-and-jaar-from-islamist-militants-among-the-casualties-a.xml)  
+
 ### [2012-05-15](/news/2012/05/15/index.md)
 
+##### Yemen
 # At least 44 people are killed amid a Yemeni government offensive to retake Zinjibar and Jaar from Islamist militants. Among the casualties are three soldiers and at least 11 civilians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Trust.org via AP](http://www.trust.org/alertnet/news/at-least-44-killed-in-offensive-on-yemen-militants/)
 

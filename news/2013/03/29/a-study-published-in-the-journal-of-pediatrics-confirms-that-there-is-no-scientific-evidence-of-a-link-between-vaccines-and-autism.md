@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/29/a-study-published-in-the-journal-of-pediatrics-confirms-that-there-is-no-scientific-evidence-of-a-link-between-vaccines-and-autism.html)  [JSON](/news/2013/03/29/a-study-published-in-the-journal-of-pediatrics-confirms-that-there-is-no-scientific-evidence-of-a-link-between-vaccines-and-autism.json)  [XML](/news/2013/03/29/a-study-published-in-the-journal-of-pediatrics-confirms-that-there-is-no-scientific-evidence-of-a-link-between-vaccines-and-autism.xml)  
+
 ### [2013-03-29](/news/2013/03/29/index.md)
 
+##### The Journal of Pediatrics
 # A study published in "The Journal of Pediatrics" confirms that there is no scientific evidence of a link between vaccines and autism. 
 
 Kids with and without autism received the same amount of antigens, which cause the body to create antibodies to fight disease, by 2
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-204_162-57576999/no-link-found-between-autism-and-number-of-vaccines/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/03/29/f0f395f7-c3e0-11e2-a43e-02911869d855/autism.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/29/argentine-general-election-2007-cristina-fernandez-de-kirchner-is-elected-president-of-argentina.html)  [JSON](/news/2007/10/29/argentine-general-election-2007-cristina-fernandez-de-kirchner-is-elected-president-of-argentina.json)  [XML](/news/2007/10/29/argentine-general-election-2007-cristina-fernandez-de-kirchner-is-elected-president-of-argentina.xml)  
+
 ### [2007-10-29](/news/2007/10/29/index.md)
 
+##### Argentine general election, 2007
 #  Argentine general election, 2007: Cristina Fernndez de Kirchner is elected President of Argentina. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Argentina results](http://www.resultados2007.gov.ar/paginas/f_top.htm)
 2. [CNN](http://www.cnn.com/2007/WORLD/americas/10/29/argentina.election.cnn/index.html)

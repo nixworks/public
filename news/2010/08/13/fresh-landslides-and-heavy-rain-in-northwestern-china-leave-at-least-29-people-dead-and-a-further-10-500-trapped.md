@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/08/13/fresh-landslides-and-heavy-rain-in-northwestern-china-leave-at-least-29-people-dead-and-a-further-10-500-trapped.html)  [JSON](/news/2010/08/13/fresh-landslides-and-heavy-rain-in-northwestern-china-leave-at-least-29-people-dead-and-a-further-10-500-trapped.json)  [XML](/news/2010/08/13/fresh-landslides-and-heavy-rain-in-northwestern-china-leave-at-least-29-people-dead-and-a-further-10-500-trapped.xml)  
+
 ### [2010-08-13](/news/2010/08/13/index.md)
 
+##### 2010 China floods
 # Fresh landslides and heavy rain in northwestern China leave at least 29 people dead and a further 10,500 trapped. 
 
 Torrential rain brings landslides to more areas in China, as relief teams in devastated Zhouqu county battle against the bad weather.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10961252)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-08/13/content_11150675.htm)
-3. [Reuters](http://www.reuters.com/article/idUSTOE67C01T._CH_.2400)
+3. [Reuters](https://www.reuters.com/article/idUSTOE67C01T._CH_.2400)
 3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:

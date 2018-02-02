@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/30/chrysler-announces-that-it-will-indefinitely-close-a-minivan-plant-in-south-st-louis-missouri-and-cut-production-at-another-due-to-fallin.html)  [JSON](/news/2008/06/30/chrysler-announces-that-it-will-indefinitely-close-a-minivan-plant-in-south-st-louis-missouri-and-cut-production-at-another-due-to-fallin.json)  [XML](/news/2008/06/30/chrysler-announces-that-it-will-indefinitely-close-a-minivan-plant-in-south-st-louis-missouri-and-cut-production-at-another-due-to-fallin.xml)  
+
 ### [2008-06-30](/news/2008/06/30/index.md)
 
+##### Chrysler
 #  Chrysler announces that it will indefinitely close a minivan plant in South St. Louis, Missouri and cut production at another due to falling demand for large vehicles. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5if6HTCFwXC90erym0sBymE9FhfaAD91KJE700)
 

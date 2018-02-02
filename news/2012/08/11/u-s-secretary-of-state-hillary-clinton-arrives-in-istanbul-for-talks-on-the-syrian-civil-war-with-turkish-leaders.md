@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/11/u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.html)  [JSON](/news/2012/08/11/u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.json)  [XML](/news/2012/08/11/u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.xml)  
+
 ### [2012-08-11](/news/2012/08/11/index.md)
 
+##### Hillary Clinton
 # U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. 
 
 Britain will give 5-million-pounds ($AU7.8million) worth of equipment to Syrian rebels trying to topple President Bashar Al-Assad, the Foreign Office (FCO) said today.
 
 
-### Source:
+### Sources:
 
 1. [ (SBS](http://www.sbs.com.au/news/article/1681130/UK-gives-millions-in-aid-to-Syria-rebels)
 2. [AAP via ''The Daily Telegraph](http://www.dailytelegraph.com.au/news/breaking-news/us-slaps-sanctions-on-syrian-oil/story-e6freuz9-1226447992318)
@@ -13,16 +17,16 @@ Britain will give 5-million-pounds ($AU7.8million) worth of equipment to Syrian 
 4. [AP via Boston.com](http://www.boston.com/news/world/middle-east/2012/08/12/syria-reporter-for-state-news-agency-assassinated/0nUr9TaR3IIhfrUtWMjn9I/story.html)
 4. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/a/a/aap_4383_120806_Syria_800x600.jpg)
 
-### Related:
-
-1. [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md) _Context: Syrian Civil War_
-2. [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md) _Context: Syrian Civil War_
-3. [Suspected Russian military jets target makeshift rubber dinghies and boats carrying dozens of families fleeing the town of al-Ashara along the western banks of the Euphrates that lies south of Deir Ezzor city, killing at least 60 civilians. ](/news/2017/10/4/suspected-russian-military-jets-target-makeshift-rubber-dinghies-and-boats-carrying-dozens-of-families-fleeing-the-town-of-al-ashara-along-t.md) _Context: Syrian Civil War_
-4. [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md) _Context: Syrian Civil War_
-5. [Two suicide bombers attack a police station in the Al-Midan neighbourhood of Damascus, killing at least 15 people. ](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-the-al-midan-neighbourhood-of-damascus-killing-at-least-15-people.md) _Context: Syrian Civil War_
-
 ### Changes:
 
 1. [Syrian civil war:U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/syrian-civil-war-pu-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md) _2017-08-25 03:36:15 (First version)_
 2. [Syrian civil war:: U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/syrian-civil-war-u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md) _2017-08-27 03:36:26 (Update)_
 2. [U.S. Secretary of State Hillary Clinton arrives in Istanbul for talks on the Syrian civil war with Turkish leaders. ](/news/2012/08/11/u-s-secretary-of-state-hillary-clinton-arrives-in-istanbul-for-talks-on-the-syrian-civil-war-with-turkish-leaders.md) _(Current version)_
+
+### Related:
+
+1. [Turkey's state news agency announces that prosecutors in Istanbul have requested life sentences against six people, including journalist brothers Ahmet and Mehmet Altan and chronicler Nazli Ilicak. One of the accusations is reportedly "having committed a crime in the name of a terror organization without being a member of it." ](/news/2017/12/11/turkey-s-state-news-agency-announces-that-prosecutors-in-istanbul-have-requested-life-sentences-against-six-people-including-journalist-bro.md) _Context: Istanbul_
+2. [Former businessman Martin Shkreli has his bail revoked for threatening former politician Hillary Clinton, after Shkreli posted on Twitter that he would offer $5,000 to anyone who could directly obtain a lock of Clinton's hair. Shkreli was convicted of fraud in August and is awaiting sentencing. ](/news/2017/09/13/former-businessman-martin-shkreli-has-his-bail-revoked-for-threatening-former-politician-hillary-clinton-after-shkreli-posted-on-twitter-th.md) _Context: Hillary Clinton_
+3. [Hillary Clinton releases the book "What Happened", a memoir about her most recent presidential campaign. Clinton has implied that she may not run again in 2020. ](/news/2017/09/12/hillary-clinton-releases-the-book-what-happened-a-memoir-about-her-most-recent-presidential-campaign-clinton-has-implied-that-she-may-no.md) _Context: Hillary Clinton_
+4. [The 450 km-long Turkish March for Justice concludes in Istanbul at a mass rally attended by hundreds of thousands of people. ](/news/2017/07/9/the-450-km-long-turkish-march-for-justice-concludes-in-istanbul-at-a-mass-rally-attended-by-hundreds-of-thousands-of-people.md) _Context: Istanbul_
+5. [Donald Trump Jr. discloses emails in which he and Rob Goldstone discuss gathering opposition research against Hillary Clinton through a June 2016 meeting with Russian lawyer Natalia Veselnitskaya. ](/news/2017/07/11/donald-trump-jr-discloses-emails-in-which-he-and-rob-goldstone-discuss-gathering-opposition-research-against-hillary-clinton-through-a-june.md) _Context: Hillary Clinton_

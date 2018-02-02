@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/11/inflation-in-china-reaches-a-28-month-high-at-5-1.html)  [JSON](/news/2010/12/11/inflation-in-china-reaches-a-28-month-high-at-5-1.json)  [XML](/news/2010/12/11/inflation-in-china-reaches-a-28-month-high-at-5-1.xml)  
+
 ### [2010-12-11](/news/2010/12/11/index.md)
 
+##### China
 # Inflation in China reaches a 28-month high, at 5.1%. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-11975628)
 2. [China Daily](http://www.chinadaily.com.cn/bizchina/2010-12/11/content_11686906.htm)

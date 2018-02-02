@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/9/the-sri-lankan-army-releases-over-700-former-tamil-tiger-fighters-after-a-rehabilitation-program.html)  [JSON](/news/2010/01/9/the-sri-lankan-army-releases-over-700-former-tamil-tiger-fighters-after-a-rehabilitation-program.json)  [XML](/news/2010/01/9/the-sri-lankan-army-releases-over-700-former-tamil-tiger-fighters-after-a-rehabilitation-program.xml)  
+
 ### [2010-01-9](/news/2010/01/9/index.md)
 
+##### Sri Lanka
 # The Sri Lankan army releases over 700 former Tamil Tiger fighters after a rehabilitation program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5inJEfLtds72eXPf8f2HKIQEvOz2w)
 2. [The Hindu](http://beta.thehindu.com/news/international/article78260.ece)

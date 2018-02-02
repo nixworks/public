@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/27/egyptian-prosecutors-begin-investigating-yesterday-s-incident-where-an-italian-cruise-liner-smashed-into-a-dock-at-sharm-el-sheikh-during-se.html)  [JSON](/news/2010/02/27/egyptian-prosecutors-begin-investigating-yesterday-s-incident-where-an-italian-cruise-liner-smashed-into-a-dock-at-sharm-el-sheikh-during-se.json)  [XML](/news/2010/02/27/egyptian-prosecutors-begin-investigating-yesterday-s-incident-where-an-italian-cruise-liner-smashed-into-a-dock-at-sharm-el-sheikh-during-se.xml)  
+
 ### [2010-02-27](/news/2010/02/27/index.md)
 
+##### Egypt
 # Egyptian prosecutors begin investigating yesterday's incident where an Italian cruise liner smashed into a dock at Sharm el-Sheikh during severe weather conditions, killing sailors from Brazil, Honduras and India and injuring several passengers. 
 
 An Italian luxury cruise ship crashed into a pier at the Red Sea port of Sharm El Sheik in the early hours of Friday while attempting to dock in very rough weather. Three crew members aboard the ship were killed in the accident and a fouth crew member and three passengers were slightly injured,...
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Travel/egypt-cruise-ship-accident-kills-crew/story?id=9954182)
 2. [Gulfnews](http://gulfnews.com/news/region/egypt/egypt-investigates-costa-crew-over-pier-crash-1.589533)

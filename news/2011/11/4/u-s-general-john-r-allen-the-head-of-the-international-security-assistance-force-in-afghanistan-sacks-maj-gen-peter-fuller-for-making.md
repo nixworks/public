@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/4/u-s-general-john-r-allen-the-head-of-the-international-security-assistance-force-in-afghanistan-sacks-maj-gen-peter-fuller-for-making.html)  [JSON](/news/2011/11/4/u-s-general-john-r-allen-the-head-of-the-international-security-assistance-force-in-afghanistan-sacks-maj-gen-peter-fuller-for-making.json)  [XML](/news/2011/11/4/u-s-general-john-r-allen-the-head-of-the-international-security-assistance-force-in-afghanistan-sacks-maj-gen-peter-fuller-for-making.xml)  
+
 ### [2011-11-4](/news/2011/11/4/index.md)
 
+##### John R. Allen
 # U.S. General John R. Allen, the head of the International Security Assistance Force in Afghanistan, sacks Maj. Gen. Peter Fuller for making inappropriate comments about Afghan President Hamid Karzai and his government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via WVEC](http://hosted.ap.org/dynamic/stories/U/US_US_AFGHANISTAN?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 

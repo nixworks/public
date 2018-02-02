@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/16/dr-rowan-williams-announces-his-intention-to-retire-as-archbishop-of-canterbury-at-the-end-of-the-year-having-headed-the-anglican-church-s.html)  [JSON](/news/2012/03/16/dr-rowan-williams-announces-his-intention-to-retire-as-archbishop-of-canterbury-at-the-end-of-the-year-having-headed-the-anglican-church-s.json)  [XML](/news/2012/03/16/dr-rowan-williams-announces-his-intention-to-retire-as-archbishop-of-canterbury-at-the-end-of-the-year-having-headed-the-anglican-church-s.xml)  
+
 ### [2012-03-16](/news/2012/03/16/index.md)
 
+##### Rowan Williams
 # Dr. Rowan Williams announces his intention to retire as Archbishop of Canterbury at the end of the year. Having headed the Anglican Church since 2003, he will subsequently take up the role as Master of Magdalene College, Cambridge. 
 
 The Archbishop of Canterbury, Dr Rowan Williams, announces he is to stand down in December and will take up a post at Cambridge University.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/03/201231613413724482.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-17399403)

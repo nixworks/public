@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/19/isabelle-dinoire-the-world-s-first-face-transplant-recipient-is-using-her-new-lips-to-take-up-smoking-again-which-doctors-fear-could-int.html)  [JSON](/news/2006/01/19/isabelle-dinoire-the-world-s-first-face-transplant-recipient-is-using-her-new-lips-to-take-up-smoking-again-which-doctors-fear-could-int.json)  [XML](/news/2006/01/19/isabelle-dinoire-the-world-s-first-face-transplant-recipient-is-using-her-new-lips-to-take-up-smoking-again-which-doctors-fear-could-int.xml)  
+
 ### [2006-01-19](/news/2006/01/19/index.md)
 
+##### Isabelle Dinoire
 #  Isabelle Dinoire, the world's first face transplant recipient, is using her new lips to take up smoking again, which doctors fear could interfere with her healing and raise the risk of tissue rejection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060118/tissue_rejection_060118/20060118?hub=World)
 

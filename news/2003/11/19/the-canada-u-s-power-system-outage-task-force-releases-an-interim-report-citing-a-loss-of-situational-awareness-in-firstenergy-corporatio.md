@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/19/the-canada-u-s-power-system-outage-task-force-releases-an-interim-report-citing-a-loss-of-situational-awareness-in-firstenergy-corporatio.html)  [JSON](/news/2003/11/19/the-canada-u-s-power-system-outage-task-force-releases-an-interim-report-citing-a-loss-of-situational-awareness-in-firstenergy-corporatio.json)  [XML](/news/2003/11/19/the-canada-u-s-power-system-outage-task-force-releases-an-interim-report-citing-a-loss-of-situational-awareness-in-firstenergy-corporatio.xml)  
+
 ### [2003-11-19](/news/2003/11/19/index.md)
 
+##### Canada-U.S. Power System Outage Task Force
 #  The Canada-U.S. Power System Outage Task Force releases an interim report, citing a loss of situational awareness in FirstEnergy Corporation's control room as the primary cause and "immature" monitoring software used at the Midwest Independent Transmission System Operator as a secondary cause.
 
 

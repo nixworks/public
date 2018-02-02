@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/3/sudanese-government-troops-and-sudan-liberation-army-rebels-clash-in-the-western-darfur-region-two-sla-rebels-are-reported-killed.html)  [JSON](/news/2011/06/3/sudanese-government-troops-and-sudan-liberation-army-rebels-clash-in-the-western-darfur-region-two-sla-rebels-are-reported-killed.json)  [XML](/news/2011/06/3/sudanese-government-troops-and-sudan-liberation-army-rebels-clash-in-the-western-darfur-region-two-sla-rebels-are-reported-killed.xml)  
+
 ### [2011-06-3](/news/2011/06/3/index.md)
 
+##### Sudanese government troops
 # Sudanese government troops and Sudan Liberation Army rebels clash in the western Darfur region; two SLA rebels are reported killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE75203A20110603)
 

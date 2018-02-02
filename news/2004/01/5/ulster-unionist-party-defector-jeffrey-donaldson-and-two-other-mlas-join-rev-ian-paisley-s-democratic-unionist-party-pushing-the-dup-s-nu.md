@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/5/ulster-unionist-party-defector-jeffrey-donaldson-and-two-other-mlas-join-rev-ian-paisley-s-democratic-unionist-party-pushing-the-dup-s-nu.html)  [JSON](/news/2004/01/5/ulster-unionist-party-defector-jeffrey-donaldson-and-two-other-mlas-join-rev-ian-paisley-s-democratic-unionist-party-pushing-the-dup-s-nu.json)  [XML](/news/2004/01/5/ulster-unionist-party-defector-jeffrey-donaldson-and-two-other-mlas-join-rev-ian-paisley-s-democratic-unionist-party-pushing-the-dup-s-nu.xml)  
+
 ### [2004-01-5](/news/2004/01/5/index.md)
 
+##### Ulster Unionist Party
 #  Ulster Unionist Party defector Jeffrey Donaldson and two other MLAs join Rev. Ian Paisley's Democratic Unionist Party, pushing the DUP's numbers in the Northern Ireland Assembly to 33.
 
 

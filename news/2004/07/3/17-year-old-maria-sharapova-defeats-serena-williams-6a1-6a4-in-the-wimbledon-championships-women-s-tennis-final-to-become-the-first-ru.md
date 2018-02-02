@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/3/17-year-old-maria-sharapova-defeats-serena-williams-6a1-6a4-in-the-wimbledon-championships-women-s-tennis-final-to-become-the-first-ru.html)  [JSON](/news/2004/07/3/17-year-old-maria-sharapova-defeats-serena-williams-6a1-6a4-in-the-wimbledon-championships-women-s-tennis-final-to-become-the-first-ru.json)  [XML](/news/2004/07/3/17-year-old-maria-sharapova-defeats-serena-williams-6a1-6a4-in-the-wimbledon-championships-women-s-tennis-final-to-become-the-first-ru.xml)  
+
 ### [2004-07-3](/news/2004/07/3/index.md)
 
+##### Maria Sharapova
 #  17-year-old Maria Sharapova defeats Serena Williams 6-1, 6-4 in the Wimbledon Championships women's tennis final to become the first Russian Wimbledon champion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport1/hi/tennis/3860923.stm)
 

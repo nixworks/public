@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/10/a-former-libyan-envoy-to-the-arab-league-confirms-that-musa-al-sadr-an-iranian-lebanese-scholar-was-executed-by-libyan-dictator-muammar-ga.html)  [JSON](/news/2011/11/10/a-former-libyan-envoy-to-the-arab-league-confirms-that-musa-al-sadr-an-iranian-lebanese-scholar-was-executed-by-libyan-dictator-muammar-ga.json)  [XML](/news/2011/11/10/a-former-libyan-envoy-to-the-arab-league-confirms-that-musa-al-sadr-an-iranian-lebanese-scholar-was-executed-by-libyan-dictator-muammar-ga.xml)  
+
 ### [2011-11-10](/news/2011/11/10/index.md)
 
+##### Libya
 # A former Libyan envoy to the Arab League confirms that Musa al-Sadr, an Iranian-Lebanese scholar, was executed by Libyan dictator Muammar Gaddafi in 1978. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PressTV](http://www.presstv.ir/detail/166547.html)
 

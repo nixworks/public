@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/2/don-mckinnon-the-commonwealth-secretary-general-conveys-the-support-of-the-commonwealth-of-nations-to-the-prime-minister-of-fiji-laisenia.html)  [JSON](/news/2006/11/2/don-mckinnon-the-commonwealth-secretary-general-conveys-the-support-of-the-commonwealth-of-nations-to-the-prime-minister-of-fiji-laisenia.json)  [XML](/news/2006/11/2/don-mckinnon-the-commonwealth-secretary-general-conveys-the-support-of-the-commonwealth-of-nations-to-the-prime-minister-of-fiji-laisenia.xml)  
+
 ### [2006-11-2](/news/2006/11/2/index.md)
 
+##### Don McKinnon
 #  Don McKinnon, the Commonwealth Secretary-General, conveys the support of the Commonwealth of Nations to the Prime Minister of Fiji Laisenia Qarase. He warned Fijian military commander Frank Bainimarama against staging a coup d'etat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200611/s1779978.htm)
 

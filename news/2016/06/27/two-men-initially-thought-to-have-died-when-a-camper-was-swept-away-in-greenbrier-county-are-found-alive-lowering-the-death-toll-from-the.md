@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/27/two-men-initially-thought-to-have-died-when-a-c
 
 ### [2016-06-27](/news/2016/06/27/index.md)
 
+##### 2016 West Virginia flood
 #  Two men initially thought to have died when a camper was swept away in Greenbrier County are found alive, lowering the death toll from the disaster to 20 confirmed fatalities and three others missing and presumed dead. 
 
 Two men who were presumed dead when a camper was swept away in rushing waters during the West Virginia floods were found alive, officials said Monday as more heavy rain fell on already-soaked parts of the state.

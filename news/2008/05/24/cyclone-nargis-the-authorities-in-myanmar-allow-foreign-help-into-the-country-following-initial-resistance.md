@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/24/cyclone-nargis-the-authorities-in-myanmar-allow-foreign-help-into-the-country-following-initial-resistance.html)  [JSON](/news/2008/05/24/cyclone-nargis-the-authorities-in-myanmar-allow-foreign-help-into-the-country-following-initial-resistance.json)  [XML](/news/2008/05/24/cyclone-nargis-the-authorities-in-myanmar-allow-foreign-help-into-the-country-following-initial-resistance.xml)  
+
 ### [2008-05-24](/news/2008/05/24/index.md)
 
+##### Cyclone Nargis
 #  Cyclone Nargis: The authorities in Myanmar allow foreign help into the country following initial resistance. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/UKNews1/idUKBKK14044220080524)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080523&t=2&i=4507485&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-05-23T114059Z_01_BKK140442_RTRUKOP_0_PICTURE1)

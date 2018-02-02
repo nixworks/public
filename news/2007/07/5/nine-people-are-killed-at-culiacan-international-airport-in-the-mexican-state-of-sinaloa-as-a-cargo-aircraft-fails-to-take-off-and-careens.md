@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/5/nine-people-are-killed-at-culiacan-international-airport-in-the-mexican-state-of-sinaloa-as-a-cargo-aircraft-fails-to-take-off-and-careens.html)  [JSON](/news/2007/07/5/nine-people-are-killed-at-culiacan-international-airport-in-the-mexican-state-of-sinaloa-as-a-cargo-aircraft-fails-to-take-off-and-careens.json)  [XML](/news/2007/07/5/nine-people-are-killed-at-culiacan-international-airport-in-the-mexican-state-of-sinaloa-as-a-cargo-aircraft-fails-to-take-off-and-careens.xml)  
+
 ### [2007-07-5](/news/2007/07/5/index.md)
 
+##### Culiacn International Airport
 #  Nine people are killed at Culiacn International Airport in the Mexican state of Sinaloa as a cargo aircraft fails to take off and careens across a roadway, hitting several vehicles and business premises. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/6275548.stm)
 

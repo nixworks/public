@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/9/the-united-states-department-of-the-treasury-revamps-its-20-bill-as-part-of-its-never-ending-quest-to-foil-counterfeiters-including-the-a.html)  [JSON](/news/2003/09/9/the-united-states-department-of-the-treasury-revamps-its-20-bill-as-part-of-its-never-ending-quest-to-foil-counterfeiters-including-the-a.json)  [XML](/news/2003/09/9/the-united-states-department-of-the-treasury-revamps-its-20-bill-as-part-of-its-never-ending-quest-to-foil-counterfeiters-including-the-a.xml)  
+
 ### [2003-09-9](/news/2003/09/9/index.md)
 
+##### United States Treasury Department
 #  The United States Department of the Treasury revamps its $20 bill as part of its never-ending quest to foil counterfeiters, including the addition of a peach-hued background to the denomination. (Many non-US citizens regard the US dollar as "hard currency" and keep much of their wealth in it as a hedge against inflation.)
 
 

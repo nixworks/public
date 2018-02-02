@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/22/president-elect-donald-trump-names-his-former-p
 
 ### [2016-12-22](/news/2016/12/22/index.md)
 
+##### Presidential transition of Donald Trump
 # President-elect Donald Trump names his former presidential campaign manager Kellyanne Conway as his Counselor to the President. 
 
 Former campaign manager praised as ‘tireless and tenacious advocate of my agenda’ by president-elect

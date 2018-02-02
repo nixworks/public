@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/31/six-thousand-people-from-the-lou-nuer-tribe-in-south-sudan-attack-the-town-of-pibor-as-a-result-of-a-dispute-over-cattle-rustling.html)  [JSON](/news/2011/12/31/six-thousand-people-from-the-lou-nuer-tribe-in-south-sudan-attack-the-town-of-pibor-as-a-result-of-a-dispute-over-cattle-rustling.json)  [XML](/news/2011/12/31/six-thousand-people-from-the-lou-nuer-tribe-in-south-sudan-attack-the-town-of-pibor-as-a-result-of-a-dispute-over-cattle-rustling.xml)  
+
 ### [2011-12-31](/news/2011/12/31/index.md)
 
+##### Lou Nuer
 # Six thousand people from the Lou Nuer tribe in South Sudan attack the town of Pibor as a result of a dispute over cattle rustling. 
 
 Fighters from the Lou Nuer ethnic group in South Sudan attack the town of Pibor, home of a rival group, a military spokesman says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16375646)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57644000/jpg/_57644039_armed-lou-nuer-youth-in-lik.jpg)

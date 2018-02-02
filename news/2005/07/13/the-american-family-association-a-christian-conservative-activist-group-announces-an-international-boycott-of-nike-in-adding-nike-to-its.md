@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/13/the-american-family-association-a-christian-conservative-activist-group-announces-an-international-boycott-of-nike-in-adding-nike-to-its.html)  [JSON](/news/2005/07/13/the-american-family-association-a-christian-conservative-activist-group-announces-an-international-boycott-of-nike-in-adding-nike-to-its.json)  [XML](/news/2005/07/13/the-american-family-association-a-christian-conservative-activist-group-announces-an-international-boycott-of-nike-in-adding-nike-to-its.xml)  
+
 ### [2005-07-13](/news/2005/07/13/index.md)
 
+##### American Family Association
 #  The American Family Association, a Christian conservative activist group, announces an international boycott of Nike. In adding Nike to its ongoing boycotts of Kmart and the book One of the Guys by Robert Clark Young, the AFA argues that Nike promotes "a back door move to legalise homosexual marriage." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [GayNZ.com](http://www.gaynz.com/news/default.asp?dismode=article&artid=2593)
 

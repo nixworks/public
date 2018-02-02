@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/12/the-supreme-court-of-papua-new-guinea-rules-that-the-august-2011-election-of-peter-o-neill-as-prime-minister-was-unconstitutional-and-orders.html)  [JSON](/news/2011/12/12/the-supreme-court-of-papua-new-guinea-rules-that-the-august-2011-election-of-peter-o-neill-as-prime-minister-was-unconstitutional-and-orders.json)  [XML](/news/2011/12/12/the-supreme-court-of-papua-new-guinea-rules-that-the-august-2011-election-of-peter-o-neill-as-prime-minister-was-unconstitutional-and-orders.xml)  
+
 ### [2011-12-12](/news/2011/12/12/index.md)
 
+##### Supreme Court of Papua New Guinea
 # The Supreme Court of Papua New Guinea rules that the August 2011 election of Peter O'Neill as Prime Minister was unconstitutional and orders the reinstatement of former Prime Minister Michael Somare to office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=64997)
 

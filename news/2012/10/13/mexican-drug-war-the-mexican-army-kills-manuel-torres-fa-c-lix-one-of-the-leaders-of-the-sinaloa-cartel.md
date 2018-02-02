@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/13/mexican-drug-war-the-mexican-army-kills-manuel-torres-fa-c-lix-one-of-the-leaders-of-the-sinaloa-cartel.html)  [JSON](/news/2012/10/13/mexican-drug-war-the-mexican-army-kills-manuel-torres-fa-c-lix-one-of-the-leaders-of-the-sinaloa-cartel.json)  [XML](/news/2012/10/13/mexican-drug-war-the-mexican-army-kills-manuel-torres-fa-c-lix-one-of-the-leaders-of-the-sinaloa-cartel.xml)  
+
 ### [2012-10-13](/news/2012/10/13/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: The Mexican Army kills Manuel Torres Felix, one of the leaders of the Sinaloa Cartel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://latino.foxnews.com/latino/news/2012/10/13/mexican-army-kills-sinaloa-cartel-leader/)
 

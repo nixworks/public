@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/30/naoki-tanaka-japan-s-minister-of-defense-issues-orders-to-shoot-down-a-north-korean-rocket-if-it-falls-towards-japanese-territory.html)  [JSON](/news/2012/03/30/naoki-tanaka-japan-s-minister-of-defense-issues-orders-to-shoot-down-a-north-korean-rocket-if-it-falls-towards-japanese-territory.json)  [XML](/news/2012/03/30/naoki-tanaka-japan-s-minister-of-defense-issues-orders-to-shoot-down-a-north-korean-rocket-if-it-falls-towards-japanese-territory.xml)  
+
 ### [2012-03-30](/news/2012/03/30/index.md)
 
+##### Naoki Tanaka
 # Naoki Tanaka, Japan's Minister of Defense, issues orders to shoot down a North Korean rocket if it falls towards Japanese territory. 
 
 Tokyo deploys missile defence systems and says it will intercept North Korean rocket if it enters Japanese airspace.
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/world/satellite-image-shows-n-korea-rocket-activity/story-e6frfkyi-1226314397852)
 2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/03/2012330605360577.html)

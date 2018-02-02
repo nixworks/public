@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/19/libyan-leader-muammar-al-gaddafi-acknowledges-that-his-country-was-pursuing-a-development-program-for-weapons-of-mass-destruction-but-now-a.html)  [JSON](/news/2003/12/19/libyan-leader-muammar-al-gaddafi-acknowledges-that-his-country-was-pursuing-a-development-program-for-weapons-of-mass-destruction-but-now-a.json)  [XML](/news/2003/12/19/libyan-leader-muammar-al-gaddafi-acknowledges-that-his-country-was-pursuing-a-development-program-for-weapons-of-mass-destruction-but-now-a.xml)  
+
 ### [2003-12-19](/news/2003/12/19/index.md)
 
+##### Libya
 #  Libyan leader Muammar al-Gaddafi acknowledges that his country was pursuing a development program for weapons of mass destruction but now agrees to its dismantling. [http:--news.bbc.co.uk-2-hi-africa-3335965.stm] 
 
 

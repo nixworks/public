@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/13/a-suspected-terrorist-attack-in-the-western-indian-city-of-pune-kills-9-people-and-injures-more-than-45-others.html)  [JSON](/news/2010/02/13/a-suspected-terrorist-attack-in-the-western-indian-city-of-pune-kills-9-people-and-injures-more-than-45-others.json)  [XML](/news/2010/02/13/a-suspected-terrorist-attack-in-the-western-indian-city-of-pune-kills-9-people-and-injures-more-than-45-others.xml)  
+
 ### [2010-02-13](/news/2010/02/13/index.md)
 
+##### 2010 Pune bombing
 # A suspected terrorist attack in the western Indian city of Pune kills 9 people and injures more than 45 others. 
 
 9 people were killed and several wounded, including a foreigner, in a bomb blast at the popular German Bakery near a Jewish prayer house in Pune. In its neighbourhood is Osho Ashram, which had been frequently visited by LeT operative Headley.
 
 
-### Source:
+### Sources:
 
 1. [BBC news](http://news.bbc.co.uk/2/hi/south_asia/8514232.stm)
 2. [The Hindu](http://beta.thehindu.com/incoming/article106274.ece)

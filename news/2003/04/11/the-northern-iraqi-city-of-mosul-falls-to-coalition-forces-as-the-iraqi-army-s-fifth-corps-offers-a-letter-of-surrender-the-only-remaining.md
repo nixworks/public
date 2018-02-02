@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/11/the-northern-iraqi-city-of-mosul-falls-to-coalition-forces-as-the-iraqi-army-s-fifth-corps-offers-a-letter-of-surrender-the-only-remaining.html)  [JSON](/news/2003/04/11/the-northern-iraqi-city-of-mosul-falls-to-coalition-forces-as-the-iraqi-army-s-fifth-corps-offers-a-letter-of-surrender-the-only-remaining.json)  [XML](/news/2003/04/11/the-northern-iraqi-city-of-mosul-falls-to-coalition-forces-as-the-iraqi-army-s-fifth-corps-offers-a-letter-of-surrender-the-only-remaining.xml)  
+
 ### [2003-04-11](/news/2003/04/11/index.md)
 
+##### Iraq
 #  The northern Iraqi city of Mosul falls to coalition forces as the Iraqi army's fifth Corps offers a letter of surrender. The only remaining major city left to fall is Saddam Hussein's hometown of Tikrit, where some expect the remaining regime loyalists to make their final stand.
 
 

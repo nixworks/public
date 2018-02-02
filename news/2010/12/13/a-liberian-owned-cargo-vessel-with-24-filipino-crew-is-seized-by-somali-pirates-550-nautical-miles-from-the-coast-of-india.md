@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/13/a-liberian-owned-cargo-vessel-with-24-filipino-crew-is-seized-by-somali-pirates-550-nautical-miles-from-the-coast-of-india.html)  [JSON](/news/2010/12/13/a-liberian-owned-cargo-vessel-with-24-filipino-crew-is-seized-by-somali-pirates-550-nautical-miles-from-the-coast-of-india.json)  [XML](/news/2010/12/13/a-liberian-owned-cargo-vessel-with-24-filipino-crew-is-seized-by-somali-pirates-550-nautical-miles-from-the-coast-of-india.xml)  
+
 ### [2010-12-13](/news/2010/12/13/index.md)
 
+##### Liberia
 # A Liberian owned cargo vessel with 24 Filipino crew is seized by Somali pirates 550 nautical miles from the coast of India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-12/13/c_13647185.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/19/with-the-exception-of-uganda-and-south-africa-sub-saharan-africa-is-failing-to-meet-united-nations-standards-for-accessibility-to-clean-wa.html)  [JSON](/news/2006/03/19/with-the-exception-of-uganda-and-south-africa-sub-saharan-africa-is-failing-to-meet-united-nations-standards-for-accessibility-to-clean-wa.json)  [XML](/news/2006/03/19/with-the-exception-of-uganda-and-south-africa-sub-saharan-africa-is-failing-to-meet-united-nations-standards-for-accessibility-to-clean-wa.xml)  
+
 ### [2006-03-19](/news/2006/03/19/index.md)
 
+##### Uganda
 #  With the exception of Uganda and South Africa, sub-Saharan Africa is failing to meet United Nations standards for accessibility to clean water or sanitation. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=scienceNews&storyID=2006-03-19T223848Z_01_N19222784_RTRUKOC_0_US-UN-AFRICA-WATER.xml)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/30/the-united-states-coast-guard-calls-off-its-search-for-as-many-as-79-haitians-missing-after-their-boat-capsized-near-the-turks-and-caicos-i.html)  [JSON](/news/2009/07/30/the-united-states-coast-guard-calls-off-its-search-for-as-many-as-79-haitians-missing-after-their-boat-capsized-near-the-turks-and-caicos-i.json)  [XML](/news/2009/07/30/the-united-states-coast-guard-calls-off-its-search-for-as-many-as-79-haitians-missing-after-their-boat-capsized-near-the-turks-and-caicos-i.xml)  
+
 ### [2009-07-30](/news/2009/07/30/index.md)
 
+##### United States Coast Guard
 #  The United States Coast Guard calls off its search for as many as 79 Haitians missing after their boat capsized near the Turks and Caicos Islands with two hundred people onboard. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/07/200973045116233738.html)
 2. [CNN](http://edition.cnn.com/2009/WORLD/americas/07/30/haiti.boat.capsized/index.html)

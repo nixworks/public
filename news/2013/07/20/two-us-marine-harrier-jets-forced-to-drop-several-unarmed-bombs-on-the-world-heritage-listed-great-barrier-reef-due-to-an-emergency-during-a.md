@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/20/two-us-marine-harrier-jets-forced-to-drop-several-unarmed-bombs-on-the-world-heritage-listed-great-barrier-reef-due-to-an-emergency-during-a.html)  [JSON](/news/2013/07/20/two-us-marine-harrier-jets-forced-to-drop-several-unarmed-bombs-on-the-world-heritage-listed-great-barrier-reef-due-to-an-emergency-during-a.json)  [XML](/news/2013/07/20/two-us-marine-harrier-jets-forced-to-drop-several-unarmed-bombs-on-the-world-heritage-listed-great-barrier-reef-due-to-an-emergency-during-a.xml)  
+
 ### [2013-07-20](/news/2013/07/20/index.md)
 
+##### Great Barrier Reef
 # Two US marine harrier jets forced to drop several unarmed bombs on the world-heritage listed Great Barrier Reef due to an emergency during a training exercise. 
 
 TWO US Marine Corps jets have been forced to drop four unarmed bombs on the Great Barrier Reef.
 
 
-### Source:
+### Sources:
 
 1. [news.com.au](http://www.news.com.au/national-news/us-marine-harrier-jets-forced-to-drop-unarmed-bombs-on-heritagelisted-great-barrier-reef/story-fncynjr2-1226682400617)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/b2285876becc7a132941ae1d3482ab01)

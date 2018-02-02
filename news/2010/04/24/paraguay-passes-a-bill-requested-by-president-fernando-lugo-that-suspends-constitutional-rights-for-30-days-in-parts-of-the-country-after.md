@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/24/paraguay-passes-a-bill-requested-by-president-fernando-lugo-that-suspends-constitutional-rights-for-30-days-in-parts-of-the-country-after.html)  [JSON](/news/2010/04/24/paraguay-passes-a-bill-requested-by-president-fernando-lugo-that-suspends-constitutional-rights-for-30-days-in-parts-of-the-country-after.json)  [XML](/news/2010/04/24/paraguay-passes-a-bill-requested-by-president-fernando-lugo-that-suspends-constitutional-rights-for-30-days-in-parts-of-the-country-after.xml)  
+
 ### [2010-04-24](/news/2010/04/24/index.md)
 
+##### Paraguay
 # Paraguay passes a bill, requested by President, Fernando Lugo, that suspends constitutional rights for 30 days in parts of the country after the Paraguayan People's Army (PPA) kills four people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8642369.stm)
 

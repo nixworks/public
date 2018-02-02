@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/31/one-man-is-dead-and-two-are-detained-after-an-incident-at-singapore-s-shangri-la-hotel-which-is-currently-hosting-a-high-level-international.html)  [JSON](/news/2015/05/31/one-man-is-dead-and-two-are-detained-after-an-incident-at-singapore-s-shangri-la-hotel-which-is-currently-hosting-a-high-level-international.json)  [XML](/news/2015/05/31/one-man-is-dead-and-two-are-detained-after-an-incident-at-singapore-s-shangri-la-hotel-which-is-currently-hosting-a-high-level-international.xml)  
+
 ### [2015-05-31](/news/2015/05/31/index.md)
 
+##### Singapore
 # One man is dead and two are detained after an incident at Singapore's Shangri-La Hotel which is currently hosting a high-level international dialogue over the South China Sea. 
 
 Substances believed to be controlled drugs were found in what police said was likely an isolated incident.. Read more at straitstimes.com.
 
 
-### Source:
+### Sources:
 
 1. [Straits-Times](http://www.straitstimes.com/news/singapore/courts-crime/story/man-shot-dead-2-others-detained-incident-near-shangri-la-hotel-201)
 1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/05/31/markshooting08e_2x.jpg?itok=n8L-xiEB)

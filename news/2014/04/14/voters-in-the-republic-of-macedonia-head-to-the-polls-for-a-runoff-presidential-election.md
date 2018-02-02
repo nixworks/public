@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/14/voters-in-the-republic-of-macedonia-head-to-the-polls-for-a-runoff-presidential-election.html)  [JSON](/news/2014/04/14/voters-in-the-republic-of-macedonia-head-to-the-polls-for-a-runoff-presidential-election.json)  [XML](/news/2014/04/14/voters-in-the-republic-of-macedonia-head-to-the-polls-for-a-runoff-presidential-election.xml)  
+
 ### [2014-04-14](/news/2014/04/14/index.md)
 
+##### Macedonian
 # Voters in the Republic of Macedonia head to the polls for a runoff presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/content/macedonia-heads-for-presidential-runoff-vote/1892621.html)
 

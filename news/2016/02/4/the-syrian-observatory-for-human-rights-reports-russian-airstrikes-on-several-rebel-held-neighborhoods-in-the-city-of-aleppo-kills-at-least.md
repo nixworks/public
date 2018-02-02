@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/4/the-syrian-observatory-for-human-rights-reports-
 
 ### [2016-02-4](/news/2016/02/4/index.md)
 
+##### Russian intervention in the Syrian Civil War
 # The Syrian Observatory for Human Rights reports Russian airstrikes on several rebel-held neighborhoods in the city of Aleppo, kills at least 21 civilians. 
 
 At least 21 civilians, including three children, were killed Thursday in Russian strikes on rebel-held districts of Syria&#x27;s Aleppo city, a monitor said. The Britain-based Syrian Observatory for Human Rights said the strikes on six neighbourhoods of the northern city had also wounded many, and that

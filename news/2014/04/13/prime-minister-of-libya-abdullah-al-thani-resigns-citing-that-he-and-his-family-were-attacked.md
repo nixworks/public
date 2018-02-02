@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/13/prime-minister-of-libya-abdullah-al-thani-resigns-citing-that-he-and-his-family-were-attacked.html)  [JSON](/news/2014/04/13/prime-minister-of-libya-abdullah-al-thani-resigns-citing-that-he-and-his-family-were-attacked.json)  [XML](/news/2014/04/13/prime-minister-of-libya-abdullah-al-thani-resigns-citing-that-he-and-his-family-were-attacked.xml)  
+
 ### [2014-04-13](/news/2014/04/13/index.md)
 
+##### Libyan Prime Minister
 # Prime Minister of Libya Abdullah al-Thani resigns, citing that he and his family were attacked. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TIME](http://time.com/60814/libya-prime-minister-quits/)
 

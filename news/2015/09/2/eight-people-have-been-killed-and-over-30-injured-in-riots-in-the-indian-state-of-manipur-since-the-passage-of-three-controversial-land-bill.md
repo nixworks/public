@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/2/eight-people-have-been-killed-and-over-30-injured-in-riots-in-the-indian-state-of-manipur-since-the-passage-of-three-controversial-land-bill.html)  [JSON](/news/2015/09/2/eight-people-have-been-killed-and-over-30-injured-in-riots-in-the-indian-state-of-manipur-since-the-passage-of-three-controversial-land-bill.json)  [XML](/news/2015/09/2/eight-people-have-been-killed-and-over-30-injured-in-riots-in-the-indian-state-of-manipur-since-the-passage-of-three-controversial-land-bill.xml)  
+
 ### [2015-09-2](/news/2015/09/2/index.md)
 
+##### India
 # Eight people have been killed and over 30 injured in riots in the Indian state of Manipur since the passage of three controversial land bills on Monday. 
 
 Three persons were killed on Tuesday when police opened fire on a mob which attacked Churachandpur police station. 
 
 
-### Source:
+### Sources:
 
 1. [IBN Live](http://www.ibnlive.com/news/india/situation-in-manipur-very-serious-says-centre-as-death-toll-in-violence-rises-to-8-1066578.html)
 1. [Cover Image](http://img01.ibnlive.in/ibnlive/uploads/2015/09/manipur.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/07/18/alex-salmond-resigns-as-the-leader-of-the-scottish-national-party.html)  [JSON](/news/2000/07/18/alex-salmond-resigns-as-the-leader-of-the-scottish-national-party.json)  [XML](/news/2000/07/18/alex-salmond-resigns-as-the-leader-of-the-scottish-national-party.xml)  
+
 ### [2000-07-18](/news/2000/07/18/index.md)
 
+##### Alex Salmond
 #  Alex Salmond resigns as the leader of the Scottish National Party.
 
 

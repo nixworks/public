@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/15/russia-is-to-deploy-its-advanced-long-range-s-4
 
 ### [2016-07-15](/news/2016/07/15/index.md)
 
+##### Ukrainian crisis
 # Russia is to deploy its advanced long range S-400 surface-to-air missile system to Feodosia in the Crimean Peninsula next month for the first time. 
 
 Russia is to deploy its advanced long-range surface-to-air missiles S-400 in Crimea, beefing up Russia’s anti-access/area-denial capabilities around the peninsula.
@@ -25,4 +26,4 @@ Russia is to deploy its advanced long-range surface-to-air missiles S-400 in Cri
 2. [Ukraine sues Russia at the International Court of Justice, accusing the latter of being engaged in acts of "terrorism" and "discrimination" in eastern Ukraine and Crimea. ](/news/2017/01/16/ukraine-sues-russia-at-the-international-court-of-justice-accusing-the-latter-of-being-engaged-in-acts-of-terrorism-and-discrimination.md) _Context: Crimea, Russia, Russia-Ukraine relations_
 3. [Ukraine starts a missile test near Crimea, annexed by Russia in 2014, while Russia puts its air-defense and naval forces in the region on high alert. ](/news/2016/12/1/ukraine-starts-a-missile-test-near-crimea-annexed-by-russia-in-2014-while-russia-puts-its-air-defense-and-naval-forces-in-the-region-on-hi.md) _Context: Crimea, Russia, Ukrainian crisis_
 4. [Russia's Federal Security Service (FSB) says it has thwarted two armed Ukrainian incursions into Crimea with at least two killed, including one FSB officer, following a "massive fire fight" with "sabotage-terrorist" groups. Ukraine denies the Russian claims. ](/news/2016/08/10/russia-s-federal-security-service-fsb-says-it-has-thwarted-two-armed-ukrainian-incursions-into-crimea-with-at-least-two-killed-including.md) _Context: Crimea, Russia, Ukrainian crisis_
-5. [The European Union extends economic sanctions on Russia until 31 January 2017 over Moscow's continued support for separatist rebels in eastern Ukraine. ](/news/2016/07/1/the-european-union-extends-economic-sanctions-on-russia-until-31-january-2017-over-moscow-s-continued-support-for-separatist-rebels-in-easte.md) _Context: Russia, Ukrainian crisis_
+5. [Russia deploys a second anti-air S-400 missile batallion in Crimea. ](/news/2018/01/13/russia-deploys-a-second-anti-air-s-400-missile-batallion-in-crimea.md) _Context: Crimea, Russia_

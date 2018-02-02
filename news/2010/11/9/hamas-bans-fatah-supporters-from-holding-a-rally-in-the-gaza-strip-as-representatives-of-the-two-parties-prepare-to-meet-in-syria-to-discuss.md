@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/9/hamas-bans-fatah-supporters-from-holding-a-rally-in-the-gaza-strip-as-representatives-of-the-two-parties-prepare-to-meet-in-syria-to-discuss.html)  [JSON](/news/2010/11/9/hamas-bans-fatah-supporters-from-holding-a-rally-in-the-gaza-strip-as-representatives-of-the-two-parties-prepare-to-meet-in-syria-to-discuss.json)  [XML](/news/2010/11/9/hamas-bans-fatah-supporters-from-holding-a-rally-in-the-gaza-strip-as-representatives-of-the-two-parties-prepare-to-meet-in-syria-to-discuss.xml)  
+
 ### [2010-11-9](/news/2010/11/9/index.md)
 
+##### Hamas
 # Hamas bans Fatah supporters from holding a rally in the Gaza Strip as representatives of the two parties prepare to meet in Syria to discuss ways of resolving the conflict between them. 
 
 The decision comes as representatives of the Fatah and Hamas prepare to meet in Syria to discuss ways of solving the dispute between them.
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=194540)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=141766)

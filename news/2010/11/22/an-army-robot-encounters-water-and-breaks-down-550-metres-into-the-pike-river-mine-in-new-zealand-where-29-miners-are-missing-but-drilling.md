@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/22/an-army-robot-encounters-water-and-breaks-down-550-metres-into-the-pike-river-mine-in-new-zealand-where-29-miners-are-missing-but-drilling.html)  [JSON](/news/2010/11/22/an-army-robot-encounters-water-and-breaks-down-550-metres-into-the-pike-river-mine-in-new-zealand-where-29-miners-are-missing-but-drilling.json)  [XML](/news/2010/11/22/an-army-robot-encounters-water-and-breaks-down-550-metres-into-the-pike-river-mine-in-new-zealand-where-29-miners-are-missing-but-drilling.xml)  
+
 ### [2010-11-22](/news/2010/11/22/index.md)
 
+##### Pike River Mine
 # An army robot encounters water and breaks down 550 metres into the Pike River Mine in New Zealand where 29 miners are missing, but drilling of a shaft continues to allow air sampling. 
 
 The Defence Force robot was the bright spot for West Coast residents waiting on the rescue of 29 trapped miners and news it broke down this morning was a kick in the guts, the - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10689533)
 2. [The Sydney Morning Herald](http://www.smh.com.au/world/robot-set-to-enter-mine-where-29-are-trapped-20101122-182x3.html)

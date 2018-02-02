@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/31/the-governor-of-california-arnold-schwarzenegger-acts-to-end-a-budget-crisis-by-firing-22-000-california-state-workers-and-cutting-the-pay.html)  [JSON](/news/2008/07/31/the-governor-of-california-arnold-schwarzenegger-acts-to-end-a-budget-crisis-by-firing-22-000-california-state-workers-and-cutting-the-pay.json)  [XML](/news/2008/07/31/the-governor-of-california-arnold-schwarzenegger-acts-to-end-a-budget-crisis-by-firing-22-000-california-state-workers-and-cutting-the-pay.xml)  
+
 ### [2008-07-31](/news/2008/07/31/index.md)
 
+##### Governor of California
 #  The Governor of California Arnold Schwarzenegger acts to end a budget crisis by firing 22,000 California state workers and cutting the pay of 200,000 more. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7536486.stm)
 

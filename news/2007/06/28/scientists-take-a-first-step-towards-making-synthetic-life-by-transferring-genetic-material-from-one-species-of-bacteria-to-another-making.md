@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/28/scientists-take-a-first-step-towards-making-synthetic-life-by-transferring-genetic-material-from-one-species-of-bacteria-to-another-making.html)  [JSON](/news/2007/06/28/scientists-take-a-first-step-towards-making-synthetic-life-by-transferring-genetic-material-from-one-species-of-bacteria-to-another-making.json)  [XML](/news/2007/06/28/scientists-take-a-first-step-towards-making-synthetic-life-by-transferring-genetic-material-from-one-species-of-bacteria-to-another-making.xml)  
+
 ### [2007-06-28](/news/2007/06/28/index.md)
 
+##### synthetic life
 #  Scientists take a first step towards making synthetic life by transferring genetic material from one species of bacteria to another, making it a copy of the first. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via News Limited](http://www.news.com.au/story/0,10117,21987898-401,00.html)
 

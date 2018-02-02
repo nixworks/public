@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/15/the-constitutional-court-in-sudan-agrees-to-hear-a-petition-by-lawyers-for-the-dissolution-of-the-body-organising-the-referendum-on-southern.html)  [JSON](/news/2010/12/15/the-constitutional-court-in-sudan-agrees-to-hear-a-petition-by-lawyers-for-the-dissolution-of-the-body-organising-the-referendum-on-southern.json)  [XML](/news/2010/12/15/the-constitutional-court-in-sudan-agrees-to-hear-a-petition-by-lawyers-for-the-dissolution-of-the-body-organising-the-referendum-on-southern.xml)  
+
 ### [2010-12-15](/news/2010/12/15/index.md)
 
+##### Sudan
 # The Constitutional Court in Sudan agrees to hear a petition by lawyers for the dissolution of the body organising the referendum on Southern Sudan's independence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE6BE01L20101215?sp=true)
 2. [Sudan Tribune](http://www.sudantribune.com/Sudan-s-constitutional-court,37277)

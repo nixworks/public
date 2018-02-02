@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/15/the-assembly-of-the-republic-of-macedonia-appoints-a-special-prosecutor-into-a-wiretapping-scandal.html)  [JSON](/news/2015/09/15/the-assembly-of-the-republic-of-macedonia-appoints-a-special-prosecutor-into-a-wiretapping-scandal.json)  [XML](/news/2015/09/15/the-assembly-of-the-republic-of-macedonia-appoints-a-special-prosecutor-into-a-wiretapping-scandal.xml)  
+
 ### [2015-09-15](/news/2015/09/15/index.md)
 
+##### Parliament
 # The Assembly of the Republic of Macedonia appoints a special prosecutor into a wiretapping scandal. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/macedonia-picks-special-prosecutor-wiretap-scandal-33784203)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/11/about-110-000-people-march-peacefully-through-bilbao-demanding-basque-independence-and-freedom-for-more-than-600-eta-prisoners.html)  [JSON](/news/2014/01/11/about-110-000-people-march-peacefully-through-bilbao-demanding-basque-independence-and-freedom-for-more-than-600-eta-prisoners.json)  [XML](/news/2014/01/11/about-110-000-people-march-peacefully-through-bilbao-demanding-basque-independence-and-freedom-for-more-than-600-eta-prisoners.xml)  
+
 ### [2014-01-11](/news/2014/01/11/index.md)
 
+##### Bilbao
 # About 110,000 people march peacefully through Bilbao, demanding Basque independence and freedom for more than 600 ETA prisoners. 
 
 At least 100,000 people march through the northern Spanish city of Bilbao after a rally in support of jailed Basque militants is banned.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-europe-25700221)
 2. [Reuters](http://uk.reuters.com/article/2014/01/11/uk-spain-eta-protest-idUKBREA0A0J020140111?feedType=RSS&feedName=topNews)

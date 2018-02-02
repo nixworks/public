@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/01/25/around-30-50-people-die-in-clashes-between-the-philippine-national-police-and-the-moro-islamic-liberation-front-threatening-a-peace-agreemen.html)  [JSON](/news/2015/01/25/around-30-50-people-die-in-clashes-between-the-philippine-national-police-and-the-moro-islamic-liberation-front-threatening-a-peace-agreemen.json)  [XML](/news/2015/01/25/around-30-50-people-die-in-clashes-between-the-philippine-national-police-and-the-moro-islamic-liberation-front-threatening-a-peace-agreemen.xml)  
+
 ### [2015-01-25](/news/2015/01/25/index.md)
 
+##### Moro insurgency in the Philippines
 # Around 30-50 people die in clashes between the Philippine National Police and the Moro Islamic Liberation Front threatening a peace agreement between the Philippines government and the rebels. 
 
 At least 30 people were killed in heavy fighting between police and Muslim rebels in the Philippines on Sunday, military and local officials said, threatening a year-old peace agreement and shattering a ceasefire that held for three years.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://mobile.reuters.com/article/idUSKBN0KY0MX20150125?irpc=932)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v3/images/rcom-default.png)
+
+### Changes:
+
+1. [Moro insurgency in the Philippines: Around 30-50 people die in clashes between the Philippine National Police and the Moro Islamic Liberation Front threatening a peace agreement between the Philippines government and the rebels. ](/news/2015/01/25/moro-insurgency-in-the-philippines-around-30-50-people-die-in-clashes-between-the-philippine-national-police-and-the-moro-islamic-liberatio.md) _2017-08-27 03:41:49 (First version)_
+1. [Around 30-50 people die in clashes between the Philippine National Police and the Moro Islamic Liberation Front threatening a peace agreement between the Philippines government and the rebels. ](/news/2015/01/25/around-30-50-people-die-in-clashes-between-the-philippine-national-police-and-the-moro-islamic-liberation-front-threatening-a-peace-agreemen.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ At least 30 people were killed in heavy fighting between police and Muslim rebel
 3. [A panel formed by the Senate of the Philippines concludes that operations under Oplan Tokhang by the Philippine National Police is unconstitutional. ](/news/2016/12/8/a-panel-formed-by-the-senate-of-the-philippines-concludes-that-operations-under-oplan-tokhang-by-the-philippine-national-police-is-unconstit.md) _Context: Philippine National Police, Philippines_
 4. [ The Moro Islamic Liberation Front registers the United Bangsamoro Justice Party as its vehicle to run in future elections in the Philippines. ](/news/2015/05/9/the-moro-islamic-liberation-front-registers-the-united-bangsamoro-justice-party-as-its-vehicle-to-run-in-future-elections-in-the-philippine.md) _Context: Moro Islamic Liberation Front, Philippines_
 5. [The Philippines and the Moro Islamic Liberation Front reach a consensus regarding the creation of Bangsamoro. ](/news/2014/08/15/the-philippines-and-the-moro-islamic-liberation-front-reach-a-consensus-regarding-the-creation-of-bangsamoro.md) _Context: Moro Islamic Liberation Front, Philippines_
-
-### Changes:
-
-1. [Moro insurgency in the Philippines: Around 30-50 people die in clashes between the Philippine National Police and the Moro Islamic Liberation Front threatening a peace agreement between the Philippines government and the rebels. ](/news/2015/01/25/moro-insurgency-in-the-philippines-around-30-50-people-die-in-clashes-between-the-philippine-national-police-and-the-moro-islamic-liberatio.md) _2017-08-27 03:41:49 (First version)_
-1. [Around 30-50 people die in clashes between the Philippine National Police and the Moro Islamic Liberation Front threatening a peace agreement between the Philippines government and the rebels. ](/news/2015/01/25/around-30-50-people-die-in-clashes-between-the-philippine-national-police-and-the-moro-islamic-liberation-front-threatening-a-peace-agreemen.md) _(Current version)_

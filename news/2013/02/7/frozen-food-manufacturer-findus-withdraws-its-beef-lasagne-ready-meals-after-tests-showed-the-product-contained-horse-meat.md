@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/7/frozen-food-manufacturer-findus-withdraws-its-beef-lasagne-ready-meals-after-tests-showed-the-product-contained-horse-meat.html)  [JSON](/news/2013/02/7/frozen-food-manufacturer-findus-withdraws-its-beef-lasagne-ready-meals-after-tests-showed-the-product-contained-horse-meat.json)  [XML](/news/2013/02/7/frozen-food-manufacturer-findus-withdraws-its-beef-lasagne-ready-meals-after-tests-showed-the-product-contained-horse-meat.xml)  
+
 ### [2013-02-7](/news/2013/02/7/index.md)
 
+##### Frozen food
 # Frozen food manufacturer Findus withdraws its beef lasagne ready meals after tests showed the product contained horse meat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2013/feb/07/findus-beef-lasagne-horse-meat)
 

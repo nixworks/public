@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/19/sierra-leone-s-annual-rains-kill-15-people-and-displace-hundreds-of-others.html)  [JSON](/news/2009/08/19/sierra-leone-s-annual-rains-kill-15-people-and-displace-hundreds-of-others.json)  [XML](/news/2009/08/19/sierra-leone-s-annual-rains-kill-15-people-and-displace-hundreds-of-others.xml)  
+
 ### [2009-08-19](/news/2009/08/19/index.md)
 
+##### Sierra Leone
 #  Sierra Leone's annual rains kill 15 people and displace hundreds of others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=86&art_id=nw20090820223201927C464842)
 

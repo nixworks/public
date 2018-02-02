@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/01/19/clashes-in-the-yemeni-capital-sana-a-leave-at-least-nine-dead-and-67-injured.html)  [JSON](/news/2015/01/19/clashes-in-the-yemeni-capital-sana-a-leave-at-least-nine-dead-and-67-injured.json)  [XML](/news/2015/01/19/clashes-in-the-yemeni-capital-sana-a-leave-at-least-nine-dead-and-67-injured.xml)  
+
 ### [2015-01-19](/news/2015/01/19/index.md)
 
+##### Shia insurgency in Yemen
 # Clashes in the Yemeni capital Sana'a leave at least nine dead and 67 injured. 
 
 As Yemeni Houthi fighters and army troops waged gun and mortar battles near the presidential palace in Sanaa, the rebels captured the country’s state news agency and TV station. Monday marked the country&#039;s most intensive clashes since September.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/81fe934743c6474b9d2d671ef4ec8cd4/houthis-military-battle-near-yemens-presidential-palace)
 2. [RT](http://rt.com/news/224035-yemen-attack-houthis-media/)
 2. [Cover Image](https://img.rt.com/files/news/36/b2/30/00/yemen.si.jpg)
+
+### Changes:
+
+1. [Shia insurgency in Yemen: Clashes in the Yemeni capital Sana'a leave at least nine dead and 67 injured. ](/news/2015/01/19/shia-insurgency-in-yemen-clashes-in-the-yemeni-capital-sana-a-leave-at-least-nine-dead-and-67-injured.md) _2017-08-27 03:41:49 (First version)_
+1. [Clashes in the Yemeni capital Sana'a leave at least nine dead and 67 injured. ](/news/2015/01/19/clashes-in-the-yemeni-capital-sana-a-leave-at-least-nine-dead-and-67-injured.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ As Yemeni Houthi fighters and army troops waged gun and mortar battles near the 
 3. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Sana'a, Yemen_
 4. [Saudi Arabian-led air raids on the Yemeni capital Sana'a resume after a truce ends. ](/news/2016/10/23/saudi-arabian-led-air-raids-on-the-yemeni-capital-sana-a-resume-after-a-truce-ends.md) _Context: Sana'a, Yemen_
 5. [At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. ](/news/2016/08/9/at-least-14-people-are-killed-after-saudi-led-coalition-airstrikes-hit-a-food-factory-in-yemen-s-capital-sana-a-the-airstrikes-come-just-da.md) _Context: Sana'a, Yemen_
-
-### Changes:
-
-1. [Shia insurgency in Yemen: Clashes in the Yemeni capital Sana'a leave at least nine dead and 67 injured. ](/news/2015/01/19/shia-insurgency-in-yemen-clashes-in-the-yemeni-capital-sana-a-leave-at-least-nine-dead-and-67-injured.md) _2017-08-27 03:41:49 (First version)_
-1. [Clashes in the Yemeni capital Sana'a leave at least nine dead and 67 injured. ](/news/2015/01/19/clashes-in-the-yemeni-capital-sana-a-leave-at-least-nine-dead-and-67-injured.md) _(Current version)_

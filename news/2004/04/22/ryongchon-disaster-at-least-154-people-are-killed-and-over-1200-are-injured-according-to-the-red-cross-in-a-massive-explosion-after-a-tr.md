@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2004/04/22/ryongchon-disaster-at-least-154-people-are-killed-and-over-1200-are-injured-according-to-the-red-cross-in-a-massive-explosion-after-a-tr.html)  [JSON](/news/2004/04/22/ryongchon-disaster-at-least-154-people-are-killed-and-over-1200-are-injured-according-to-the-red-cross-in-a-massive-explosion-after-a-tr.json)  [XML](/news/2004/04/22/ryongchon-disaster-at-least-154-people-are-killed-and-over-1200-are-injured-according-to-the-red-cross-in-a-massive-explosion-after-a-tr.xml)  
+
 ### [2004-04-22](/news/2004/04/22/index.md)
 
+##### Ryongchon disaster
 #  Ryongchon disaster: at least 154 people are killed and over 1200 are injured, according to the Red Cross, in a massive explosion after a train carrying explosives came in contact with live electrical wires in Ryongchon, North Korea. 1850 homes were destroyed and thousands more damaged. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3649655.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3651705.stm)
-3. [NYT](http://www.nytimes.com/2004/04/23/international/asia/23CND-KOREA.html%3Fex%3D1083384000%26amp%3Ben%3De1b879058eba7201%26amp%3Bei%3D5062%26amp%3Bpartner%3DGOOGLE)
+3. [NYT](https://www.nytimes.com/2004/04/23/international/asia/23CND-KOREA.html%3Fex%3D1083384000%26amp%3Ben%3De1b879058eba7201%26amp%3Bei%3D5062%26amp%3Bpartner%3DGOOGLE)
 
 ### Related:
 

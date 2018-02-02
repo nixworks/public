@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/15/a-cold-snap-in-new-zealand-causes-widespread-snow-on-both-the-north-and-south-islands-disruption-to-power-supplies-and-the-closures-of-road.html)  [JSON](/news/2011/08/15/a-cold-snap-in-new-zealand-causes-widespread-snow-on-both-the-north-and-south-islands-disruption-to-power-supplies-and-the-closures-of-road.json)  [XML](/news/2011/08/15/a-cold-snap-in-new-zealand-causes-widespread-snow-on-both-the-north-and-south-islands-disruption-to-power-supplies-and-the-closures-of-road.xml)  
+
 ### [2011-08-15](/news/2011/08/15/index.md)
 
+##### New Zealand
 # A cold snap in New Zealand causes widespread snow on both the North and South Islands, disruption to power supplies and the closures of roads and Wellington International Airport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TV New Zealand](http://tvnz.co.nz/national-news/snow-storm-travel-chaos-spreads-4351436)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/aug/15/new-zealand-snow-heaviest-years)

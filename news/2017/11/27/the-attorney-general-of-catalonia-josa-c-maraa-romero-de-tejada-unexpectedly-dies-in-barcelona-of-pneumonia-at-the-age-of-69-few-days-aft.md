@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/27/the-attorney-general-of-catalonia-josa-c-maraa-
 
 ### [2017-11-27](/news/2017/11/27/index.md)
 
+##### 2017 Spanish constitutional crisis
 # The Attorney General of Catalonia, Jose Maria Romero de Tejada, unexpectedly dies in Barcelona of pneumonia at the age of 69, few days after the death of the Attorney General of the State. 
 
 

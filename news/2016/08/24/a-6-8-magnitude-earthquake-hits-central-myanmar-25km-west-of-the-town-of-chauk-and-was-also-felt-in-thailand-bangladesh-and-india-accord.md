@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/24/a-6-8-magnitude-earthquake-hits-central-myanmar
 
 ### [2016-08-24](/news/2016/08/24/index.md)
 
+##### August 2016 Myanmar earthquake
 # A 6.8 magnitude earthquake hits central Myanmar, 25km west of the town of Chauk, and was also felt in Thailand, Bangladesh and India, according to reports. At least three people are killed. 
 
 A 6.8 magnitude earthquake strikes central Myanmar, damaging ancient temples and leaving at least one person dead.

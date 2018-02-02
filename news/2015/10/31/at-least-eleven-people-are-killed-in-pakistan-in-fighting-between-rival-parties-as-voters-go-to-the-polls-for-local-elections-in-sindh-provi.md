@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/31/at-least-eleven-people-are-killed-in-pakistan-in-fighting-between-rival-parties-as-voters-go-to-the-polls-for-local-elections-in-sindh-provi.html)  [JSON](/news/2015/10/31/at-least-eleven-people-are-killed-in-pakistan-in-fighting-between-rival-parties-as-voters-go-to-the-polls-for-local-elections-in-sindh-provi.json)  [XML](/news/2015/10/31/at-least-eleven-people-are-killed-in-pakistan-in-fighting-between-rival-parties-as-voters-go-to-the-polls-for-local-elections-in-sindh-provi.xml)  
+
 ### [2015-10-31](/news/2015/10/31/index.md)
 
+##### Pakistan
 # At least eleven people are killed in Pakistan in fighting between rival parties as voters go to the polls for local elections in Sindh province. 
 
 Eleven people were killed when rival political parties fired on each other on Saturday as Pakistanis voted in local elections seen as a referendum on the national government halfway through its term.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Sydney Morning Herald](http://www.smh.com.au/world/at-least-11-killed-as-pakistanis-vote-in-election-20151031-gkntjn.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/g/k/n/t/l/h/image.related.socialLead.620x349.gkntjn.png/1446303956433.jpg)

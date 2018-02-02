@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/29/the-sri-lanka-monitoring-mission-submits-its-report-to-the-government-and-the-ltte-rebels-the-report-accuses-both-sides-of-human-rights-vi.html)  [JSON](/news/2006/09/29/the-sri-lanka-monitoring-mission-submits-its-report-to-the-government-and-the-ltte-rebels-the-report-accuses-both-sides-of-human-rights-vi.json)  [XML](/news/2006/09/29/the-sri-lanka-monitoring-mission-submits-its-report-to-the-government-and-the-ltte-rebels-the-report-accuses-both-sides-of-human-rights-vi.xml)  
+
 ### [2006-09-29](/news/2006/09/29/index.md)
 
+##### Sri Lanka Monitoring Mission
 #  The Sri Lanka Monitoring Mission submits its report to the government and the LTTE rebels. The report accuses both sides of human-rights violations and breaking the terms of the cease-fire, citing over 200 civilians killed and over 200,000 displaced in the last two months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.sibernews.com/news/sri-lanka/-200609295835/)
 

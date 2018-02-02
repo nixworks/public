@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/07/22/the-nationwide-persecution-of-falun-gong-starts-in-the-people-s-republic-of-china.html)  [JSON](/news/1999/07/22/the-nationwide-persecution-of-falun-gong-starts-in-the-people-s-republic-of-china.json)  [XML](/news/1999/07/22/the-nationwide-persecution-of-falun-gong-starts-in-the-people-s-republic-of-china.xml)  
+
 ### [1999-07-22](/news/1999/07/22/index.md)
 
+##### persecution of Falun Gong
 #  The nationwide persecution of Falun Gong starts in the People's Republic of China.
 
 

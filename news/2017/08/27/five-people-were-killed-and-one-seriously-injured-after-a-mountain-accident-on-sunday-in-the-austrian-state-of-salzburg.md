@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/27/five-people-were-killed-and-one-seriously-injur
 
 ### [2017-08-27](/news/2017/08/27/index.md)
 
+##### Austria
 # Five people were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg. 
 
 Five climbers were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg, the Austrian Press Agency reported.

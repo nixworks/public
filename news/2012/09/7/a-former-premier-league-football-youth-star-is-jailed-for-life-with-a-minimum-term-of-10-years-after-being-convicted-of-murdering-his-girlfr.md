@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/7/a-former-premier-league-football-youth-star-is-jailed-for-life-with-a-minimum-term-of-10-years-after-being-convicted-of-murdering-his-girlfr.html)  [JSON](/news/2012/09/7/a-former-premier-league-football-youth-star-is-jailed-for-life-with-a-minimum-term-of-10-years-after-being-convicted-of-murdering-his-girlfr.json)  [XML](/news/2012/09/7/a-former-premier-league-football-youth-star-is-jailed-for-life-with-a-minimum-term-of-10-years-after-being-convicted-of-murdering-his-girlfr.xml)  
+
 ### [2012-09-7](/news/2012/09/7/index.md)
 
+##### English Premier League
 # A former Premier League football youth star is jailed for life with a minimum term of 10 years after being convicted of murdering his girlfriend, who sustained at least 60 stab wounds to the head and body. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-19519386)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60899000/jpg/_60899715_andrewhall2.jpg)

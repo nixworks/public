@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/17/the-2005-presidential-election-begins-in-iran-most-pre-voting-polls-favor-akbar-hashemi-rafsanjani.html)  [JSON](/news/2005/06/17/the-2005-presidential-election-begins-in-iran-most-pre-voting-polls-favor-akbar-hashemi-rafsanjani.json)  [XML](/news/2005/06/17/the-2005-presidential-election-begins-in-iran-most-pre-voting-polls-favor-akbar-hashemi-rafsanjani.xml)  
+
 ### [2005-06-17](/news/2005/06/17/index.md)
 
+##### Friday's run-off election
 #  The 2005 Presidential election begins in Iran. Most pre-voting polls favor Akbar Hashemi Rafsanjani. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/749B7F3A-0F25-46BC-94B5-262B742811CE.htm)
 2. [IHT](http://iht.com/articles/2005/06/17/africa/web.0617iran.php)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/9/aung-san-suu-kyi-is-permitted-to-meet-international-diplomats-to-discuss-international-sanctions-against-burma.html)  [JSON](/news/2009/10/9/aung-san-suu-kyi-is-permitted-to-meet-international-diplomats-to-discuss-international-sanctions-against-burma.json)  [XML](/news/2009/10/9/aung-san-suu-kyi-is-permitted-to-meet-international-diplomats-to-discuss-international-sanctions-against-burma.xml)  
+
 ### [2009-10-9](/news/2009/10/9/index.md)
 
+##### Aung San Suu Kyi
 #  Aung San Suu Kyi is permitted to meet international diplomats to discuss international sanctions against Burma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/156587/suu-kyi-talks-sanctions-with-western-diplomats-us)
 2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/09/myanmar.suukyi/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/24/ohio-governor-bob-taft-says-he-will-not-resign-despite-ethical-questions-around-him-and-his-administration.html)  [JSON](/news/2005/06/24/ohio-governor-bob-taft-says-he-will-not-resign-despite-ethical-questions-around-him-and-his-administration.json)  [XML](/news/2005/06/24/ohio-governor-bob-taft-says-he-will-not-resign-despite-ethical-questions-around-him-and-his-administration.xml)  
+
 ### [2005-06-24](/news/2005/06/24/index.md)
 
+##### Ohio
 #  Ohio Governor Bob Taft says he will not resign, despite ethical questions around him and his administration. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Akron Beacon-Journal](http://www.ohio.com/mld/beaconjournal/news/state/11965721.htm)
 

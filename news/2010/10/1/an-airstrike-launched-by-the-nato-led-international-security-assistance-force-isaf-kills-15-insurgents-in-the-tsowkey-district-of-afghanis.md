@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/1/an-airstrike-launched-by-the-nato-led-international-security-assistance-force-isaf-kills-15-insurgents-in-the-tsowkey-district-of-afghanis.html)  [JSON](/news/2010/10/1/an-airstrike-launched-by-the-nato-led-international-security-assistance-force-isaf-kills-15-insurgents-in-the-tsowkey-district-of-afghanis.json)  [XML](/news/2010/10/1/an-airstrike-launched-by-the-nato-led-international-security-assistance-force-isaf-kills-15-insurgents-in-the-tsowkey-district-of-afghanis.xml)  
+
 ### [2010-10-1](/news/2010/10/1/index.md)
 
+##### International Security Assistance Force
 # An airstrike launched by the NATO-led International Security Assistance Force (ISAF) kills 15 insurgents in the Tsowkey district of Afghanistan's eastern Kunar province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/01/c_13539130.htm)
 

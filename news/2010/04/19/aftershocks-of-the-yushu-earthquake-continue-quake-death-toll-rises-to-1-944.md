@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/19/aftershocks-of-the-yushu-earthquake-continue-quake-death-toll-rises-to-1-944.html)  [JSON](/news/2010/04/19/aftershocks-of-the-yushu-earthquake-continue-quake-death-toll-rises-to-1-944.json)  [XML](/news/2010/04/19/aftershocks-of-the-yushu-earthquake-continue-quake-death-toll-rises-to-1-944.xml)  
+
 ### [2010-04-19](/news/2010/04/19/index.md)
 
+##### an earthquake struck on 14 April
 # Aftershocks of the Yushu earthquake continue. Quake death toll rises to 1,944. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CCTV](http://english.cctv.com/program/worldwidewatch/20100419/105539.shtml)
 2. [People](http://english.peopledaily.com.cn/90001/90776/90882/6955937.html)

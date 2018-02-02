@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/8/dolphin-moko-s-corpse-is-believed-to-have-washed-up-on-a-beach-in-new-zealand-s-north-island.html)  [JSON](/news/2010/07/8/dolphin-moko-s-corpse-is-believed-to-have-washed-up-on-a-beach-in-new-zealand-s-north-island.json)  [XML](/news/2010/07/8/dolphin-moko-s-corpse-is-believed-to-have-washed-up-on-a-beach-in-new-zealand-s-north-island.xml)  
+
 ### [2010-07-8](/news/2010/07/8/index.md)
 
+##### Dolphin
 # Dolphin Moko's corpse is believed to have washed up on a beach in New Zealand's North Island. 
 
 The body of a bottlenose dolphin, believed to be the famous Kiwi dolphin, Moko, has washed up on a beach in the North Island.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/famous-kiwi-dolphin-believed-dead-20100708-101qm.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

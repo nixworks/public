@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/17/zimbabwean-politician-roy-bennett-is-killed-in-
 
 ### [2018-01-17](/news/2018/01/17/index.md)
 
+##### 2018 Sapphire Aviation Bell UH-1H Iroquois crash
 # Zimbabwean politician Roy Bennett is killed in a helicopter crash near Raton, New Mexico, United States. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/1/nine-afghan-employees-of-a-czech-charity-people-in-need-have-been-killed-in-an-attack-by-unknown-gunmen-in-zari-district-in-the-north-of-th.html)  [JSON](/news/2015/06/1/nine-afghan-employees-of-a-czech-charity-people-in-need-have-been-killed-in-an-attack-by-unknown-gunmen-in-zari-district-in-the-north-of-th.json)  [XML](/news/2015/06/1/nine-afghan-employees-of-a-czech-charity-people-in-need-have-been-killed-in-an-attack-by-unknown-gunmen-in-zari-district-in-the-north-of-th.xml)  
+
 ### [2015-06-1](/news/2015/06/1/index.md)
 
+##### People In Need
 #  Nine Afghan employees of a Czech charity People In Need have been killed in an attack by unknown gunmen in Zari District in the north of the country. 
 
 Officials say at least nine killed, including a woman, in attack on NGO compound by unknown gunmen in Balkh province.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/06/aid-workers-killed-afghanistan-attack-150602051956762.html)
 2. [BBC](http://www.bbc.com/news/world-asia-32970671)

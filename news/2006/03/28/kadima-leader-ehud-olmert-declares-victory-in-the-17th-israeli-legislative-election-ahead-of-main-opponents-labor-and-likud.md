@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/28/kadima-leader-ehud-olmert-declares-victory-in-the-17th-israeli-legislative-election-ahead-of-main-opponents-labor-and-likud.html)  [JSON](/news/2006/03/28/kadima-leader-ehud-olmert-declares-victory-in-the-17th-israeli-legislative-election-ahead-of-main-opponents-labor-and-likud.json)  [XML](/news/2006/03/28/kadima-leader-ehud-olmert-declares-victory-in-the-17th-israeli-legislative-election-ahead-of-main-opponents-labor-and-likud.xml)  
+
 ### [2006-03-28](/news/2006/03/28/index.md)
 
+##### Kadima
 #  Kadima leader Ehud Olmert declares victory in the 17th Israeli legislative election, ahead of main opponents Labor and Likud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4855154.stm)
 

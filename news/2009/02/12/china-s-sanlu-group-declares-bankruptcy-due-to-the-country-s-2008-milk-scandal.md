@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/12/china-s-sanlu-group-declares-bankruptcy-due-to-the-country-s-2008-milk-scandal.html)  [JSON](/news/2009/02/12/china-s-sanlu-group-declares-bankruptcy-due-to-the-country-s-2008-milk-scandal.json)  [XML](/news/2009/02/12/china-s-sanlu-group-declares-bankruptcy-due-to-the-country-s-2008-milk-scandal.xml)  
+
 ### [2009-02-12](/news/2009/02/12/index.md)
 
+##### China
 #  China's Sanlu Group declares bankruptcy, due to the country's 2008 milk scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7885698.stm)
 

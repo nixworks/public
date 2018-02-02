@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/16/bill-gates-becomes-the-world-s-richest-person-for-the-first-time-since-2007-with-a-fortune-of-approximately-72-7-billion.html)  [JSON](/news/2013/05/16/bill-gates-becomes-the-world-s-richest-person-for-the-first-time-since-2007-with-a-fortune-of-approximately-72-7-billion.json)  [XML](/news/2013/05/16/bill-gates-becomes-the-world-s-richest-person-for-the-first-time-since-2007-with-a-fortune-of-approximately-72-7-billion.xml)  
+
 ### [2013-05-16](/news/2013/05/16/index.md)
 
+##### Bill Gates
 # Bill Gates becomes the world's richest person for the first time since 2007 with a fortune of approximately $72.7 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [abcnews](http://abcnews.go.com/blogs/business/2013/05/bill-gates-once-again-worlds-richest-person/)
 

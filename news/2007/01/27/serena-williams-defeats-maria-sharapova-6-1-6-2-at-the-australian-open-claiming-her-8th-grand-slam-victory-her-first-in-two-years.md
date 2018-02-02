@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/27/serena-williams-defeats-maria-sharapova-6-1-6-2-at-the-australian-open-claiming-her-8th-grand-slam-victory-her-first-in-two-years.html)  [JSON](/news/2007/01/27/serena-williams-defeats-maria-sharapova-6-1-6-2-at-the-australian-open-claiming-her-8th-grand-slam-victory-her-first-in-two-years.json)  [XML](/news/2007/01/27/serena-williams-defeats-maria-sharapova-6-1-6-2-at-the-australian-open-claiming-her-8th-grand-slam-victory-her-first-in-two-years.xml)  
+
 ### [2007-01-27](/news/2007/01/27/index.md)
 
+##### Serena Williams
 #  Serena Williams defeats Maria Sharapova, 6-1, 6-2, at the Australian Open, claiming her 8th Grand Slam victory, her first in two years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.today.reuters.com/news/newsArticle.aspx?type=sportsnews&storyID=2007-01-27T091918Z_01_NOOTR_RTRJONC_0_India-285217-1.xml)
 

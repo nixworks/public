@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/29/us-senate-passes-h-r-5949-fisa-amendments-act-reauthorization-act-which-extends-the-foreign-intelligence-surveillance-act-of-1978-amendme.html)  [JSON](/news/2012/12/29/us-senate-passes-h-r-5949-fisa-amendments-act-reauthorization-act-which-extends-the-foreign-intelligence-surveillance-act-of-1978-amendme.json)  [XML](/news/2012/12/29/us-senate-passes-h-r-5949-fisa-amendments-act-reauthorization-act-which-extends-the-foreign-intelligence-surveillance-act-of-1978-amendme.xml)  
+
 ### [2012-12-29](/news/2012/12/29/index.md)
 
+##### US Senate
 # US Senate passes H.R. 5949, FISA Amendments Act Reauthorization Act, which extends the Foreign Intelligence Surveillance Act of 1978 Amendments Act of 2008 five more years until December 31, 2017. The US House of Representatives also voted for the extension earlier this month. 
 
 To extend the FISA Amendments Act of 2008 for five years.
 
 
-### Source:
+### Sources:
 
 1. [Govtrack](http://www.govtrack.us/congress/bills/112/hr5949)
 1. [Cover Image](http://www.govtrack.us/congress/bills/112/hr5949/thumbnail?aspect=1)

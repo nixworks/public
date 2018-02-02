@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/01/23/five-falun-gong-members-set-themselves-on-fire-in-a-protest-in-tiananmen-square-beijing-china-however-the-incident-has-been-widely-disp.html)  [JSON](/news/2001/01/23/five-falun-gong-members-set-themselves-on-fire-in-a-protest-in-tiananmen-square-beijing-china-however-the-incident-has-been-widely-disp.json)  [XML](/news/2001/01/23/five-falun-gong-members-set-themselves-on-fire-in-a-protest-in-tiananmen-square-beijing-china-however-the-incident-has-been-widely-disp.xml)  
+
 ### [2001-01-23](/news/2001/01/23/index.md)
 
+##### Five Falun Gong members set themselves on fire
 #  Five Falun Gong members set themselves on fire in a protest in Tiananmen Square, Beijing, China. However, the incident has been widely disputed by Falun Gong, claiming the incident was staged by the Chinese government in order to make Falun Gong hated in China.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/9/jaxa-launches-the-unmanned-cargo-spacecraft-koun
 
 ### [2016-12-9](/news/2016/12/9/index.md)
 
+##### JAXA
 # JAXA launches the unmanned cargo spacecraft Kounotori 6, also known as HTV-6, from the Tanegashima Space Center to resupply the International Space Station. 
 
 A robotic Japanese cargo spacecraft began its four-day journey to the International Space Station.

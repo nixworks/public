@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/17/pope-benedict-xvi-announces-he-will-create-twenty-three-new-members-of-the-college-of-cardinals-in-the-consistory-of-november-24.html)  [JSON](/news/2007/10/17/pope-benedict-xvi-announces-he-will-create-twenty-three-new-members-of-the-college-of-cardinals-in-the-consistory-of-november-24.json)  [XML](/news/2007/10/17/pope-benedict-xvi-announces-he-will-create-twenty-three-new-members-of-the-college-of-cardinals-in-the-consistory-of-november-24.xml)  
+
 ### [2007-10-17](/news/2007/10/17/index.md)
 
+##### Pope Benedict XVI
 #  Pope Benedict XVI announces he will create twenty-three new members of the College of Cardinals in the consistory of November 24. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ZENIT](http://www.zenit.org/article-20772?l=english)
 

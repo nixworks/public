@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/05/28/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-indicted-for-allegedly-trying-to-evade-banking-reporting-requ.html)  [JSON](/news/2015/05/28/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-indicted-for-allegedly-trying-to-evade-banking-reporting-requ.json)  [XML](/news/2015/05/28/former-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-indicted-for-allegedly-trying-to-evade-banking-reporting-requ.xml)  
+
 ### [2015-05-28](/news/2015/05/28/index.md)
 
+##### U.S. Speaker of the House of Representatives
 # Former Speaker of the United States House of Representatives Dennis Hastert is indicted for allegedly trying to evade banking reporting requirements and lying to the Federal Bureau of Investigations. 
 
 Dennis Hastert was charged with structuring cash withdrawals to evade currency transaction reporting requirements and lying to the FBI.
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/id/102695146)
+1. [CNBC](https://www.cnbc.com/id/102695146)
 
 ### Related:
 

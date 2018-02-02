@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/14/u-s-president-george-w-bush-says-that-u-s-led-coalition-victory-in-the-2003-iraq-war-is-certain-but-not-complete.html)  [JSON](/news/2003/04/14/u-s-president-george-w-bush-says-that-u-s-led-coalition-victory-in-the-2003-iraq-war-is-certain-but-not-complete.json)  [XML](/news/2003/04/14/u-s-president-george-w-bush-says-that-u-s-led-coalition-victory-in-the-2003-iraq-war-is-certain-but-not-complete.xml)  
+
 ### [2003-04-14](/news/2003/04/14/index.md)
 
+##### George W. Bush
 #  U.S. President George W. Bush says that U.S.-led coalition victory in the 2003 Iraq war is "certain, but not complete."
 
 

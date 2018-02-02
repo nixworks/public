@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/16/the-dow-jones-industrial-average-reaches-26-000
 
 ### [2018-01-16](/news/2018/01/16/index.md)
 
+##### Dow Jones Industrial Average
 # The Dow Jones Industrial Average reaches 26,000 points for the first time, after surpassing the 25,000-mark on January 4. 
 
 The Dow Jones industrial average opened at 26,000, hitting another benchmark just days after crossing 25,000 for the first time.

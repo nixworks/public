@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/30/the-u-s-institute-of-peace-announces-that-the-iraq-study-group-report-will-be-released-to-the-public-december-6-2006-the-group-charged.html)  [JSON](/news/2006/11/30/the-u-s-institute-of-peace-announces-that-the-iraq-study-group-report-will-be-released-to-the-public-december-6-2006-the-group-charged.json)  [XML](/news/2006/11/30/the-u-s-institute-of-peace-announces-that-the-iraq-study-group-report-will-be-released-to-the-public-december-6-2006-the-group-charged.xml)  
+
 ### [2006-11-30](/news/2006/11/30/index.md)
 
+##### U.S. Institute of Peace
 #  The U.S. Institute of Peace announces that the Iraq Study Group report will be released to the public December 6, 2006. The group, charged with conducting a forward-looking assessment of the situation in Iraq, is expected to present their findings to President George W. Bush on that day. The report will be available for download on USIP's 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=politicsNews&storyID=2006-11-29T234802Z_01_WAT006653_RTRUKOC_0_US-IRAQ-USA-GROUP-DATE.xml&WTmodLoc=NewsHome-C3-politicsNews-3)
 2. [web site](http://www.usip.org)

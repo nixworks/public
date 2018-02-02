@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/18/2006-european-floods-thousands-of-emergency-workers-in-romania-bulgaria-and-serbia-try-to-bolster-dikes-to-prevent-flooding-along-the-swo.html)  [JSON](/news/2006/04/18/2006-european-floods-thousands-of-emergency-workers-in-romania-bulgaria-and-serbia-try-to-bolster-dikes-to-prevent-flooding-along-the-swo.json)  [XML](/news/2006/04/18/2006-european-floods-thousands-of-emergency-workers-in-romania-bulgaria-and-serbia-try-to-bolster-dikes-to-prevent-flooding-along-the-swo.xml)  
+
 ### [2006-04-18](/news/2006/04/18/index.md)
 
+##### 2006 European floods
 #  2006 European floods: Thousands of emergency workers in Romania, Bulgaria and Serbia try to bolster dikes to prevent flooding along the swollen Danube River, which has surged to its highest level in more than a century. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4915342.stm)
 2. [CNN](http://edition.cnn.com/2006/WEATHER/04/17/balkans.floods/index.html)

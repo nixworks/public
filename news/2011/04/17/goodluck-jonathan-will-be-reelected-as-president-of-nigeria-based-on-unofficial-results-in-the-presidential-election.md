@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/17/goodluck-jonathan-will-be-reelected-as-president-of-nigeria-based-on-unofficial-results-in-the-presidential-election.html)  [JSON](/news/2011/04/17/goodluck-jonathan-will-be-reelected-as-president-of-nigeria-based-on-unofficial-results-in-the-presidential-election.json)  [XML](/news/2011/04/17/goodluck-jonathan-will-be-reelected-as-president-of-nigeria-based-on-unofficial-results-in-the-presidential-election.xml)  
+
 ### [2011-04-17](/news/2011/04/17/index.md)
 
+##### Goodluck Jonathan
 # Goodluck Jonathan will be reelected as President of Nigeria based on unofficial results in the presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/apr/17/goodluck-jonathan-nigeria-election)
 

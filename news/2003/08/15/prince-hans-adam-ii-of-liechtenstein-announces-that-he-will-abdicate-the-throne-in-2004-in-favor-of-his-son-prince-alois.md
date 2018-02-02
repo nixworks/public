@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/15/prince-hans-adam-ii-of-liechtenstein-announces-that-he-will-abdicate-the-throne-in-2004-in-favor-of-his-son-prince-alois.html)  [JSON](/news/2003/08/15/prince-hans-adam-ii-of-liechtenstein-announces-that-he-will-abdicate-the-throne-in-2004-in-favor-of-his-son-prince-alois.json)  [XML](/news/2003/08/15/prince-hans-adam-ii-of-liechtenstein-announces-that-he-will-abdicate-the-throne-in-2004-in-favor-of-his-son-prince-alois.xml)  
+
 ### [2003-08-15](/news/2003/08/15/index.md)
 
+##### Hans-Adam II of Liechtenstein
 #  Prince Hans-Adam II of Liechtenstein announces that he will abdicate the throne in 2004, in favor of his son, Prince Alois.
 
 

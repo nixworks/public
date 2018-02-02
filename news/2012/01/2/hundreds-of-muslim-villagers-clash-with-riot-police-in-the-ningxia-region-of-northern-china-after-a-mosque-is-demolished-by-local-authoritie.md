@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/2/hundreds-of-muslim-villagers-clash-with-riot-police-in-the-ningxia-region-of-northern-china-after-a-mosque-is-demolished-by-local-authoritie.html)  [JSON](/news/2012/01/2/hundreds-of-muslim-villagers-clash-with-riot-police-in-the-ningxia-region-of-northern-china-after-a-mosque-is-demolished-by-local-authoritie.json)  [XML](/news/2012/01/2/hundreds-of-muslim-villagers-clash-with-riot-police-in-the-ningxia-region-of-northern-china-after-a-mosque-is-demolished-by-local-authoritie.xml)  
+
 ### [2012-01-2](/news/2012/01/2/index.md)
 
+##### Muslim
 # Hundreds of Muslim villagers clash with riot police in the Ningxia region of northern China after a mosque is demolished by local authorities. 
 
 Reports from the Ningxia region of northern China say several hundred Muslim villagers fought with riot police who tore down a mosque.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16383953)
 2. [Pakistan Today](http://www.pakistantoday.com.pk/2012/01/muslims-clash-with-chinese-police-for-destroying-mosque/)
@@ -17,4 +21,4 @@ Reports from the Ningxia region of northern China say several hundred Muslim vil
 2. [ Iranian police arrest about 180 Sufi Muslims who attacked a Shia mosque in Borujerd after a cleric said their religion was "illegitimate". ](/news/2007/11/10/iranian-police-arrest-about-180-sufi-muslims-who-attacked-a-shia-mosque-in-borujerd-after-a-cleric-said-their-religion-was-illegitimate.md) _Context: Muslim, mosque_
 3. [ 2005 Paris riots continue for the fifth consecutive night, sparked by the death of two Muslim youths from electric shock. The controversy caused by police firing tear gas into a mosque on Sunday night led to families of the dead youths pulling out of a meeting with the French Minister of the Interior Nicolas Sarkozy. ](/news/2005/11/1/2005-paris-riots-continue-for-the-fifth-consecutive-night-sparked-by-the-death-of-two-muslim-youths-from-electric-shock-the-controversy-c.md) _Context: Muslim, mosque_
 4. [ A Toronto mosque makes history by hosting the first known Muslim prayer service in history to be led by a woman. ](/news/2005/07/1/a-toronto-mosque-makes-history-by-hosting-the-first-known-muslim-prayer-service-in-history-to-be-led-by-a-woman.md) _Context: Muslim, mosque_
-5. [An Indian Air Force Mi-17 helicopter ferrying military officials crashes in Tawang, Arunachal Pradesh, a remote mountain region near the border with China, killing all seven personnel on board. ](/news/2017/10/6/an-indian-air-force-mi-17-helicopter-ferrying-military-officials-crashes-in-tawang-arunachal-pradesh-a-remote-mountain-region-near-the-bor.md) _Context: China_
+5. [Sanchi is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/sanchi-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md) _Context: Chinese_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/2/the-u-s-court-of-appeals-for-the-second-circuit-rules-that-five-relatives-of-osama-bin-laden-and-a-construction-company-started-by-his-fath.html)  [JSON](/news/2013/05/2/the-u-s-court-of-appeals-for-the-second-circuit-rules-that-five-relatives-of-osama-bin-laden-and-a-construction-company-started-by-his-fath.json)  [XML](/news/2013/05/2/the-u-s-court-of-appeals-for-the-second-circuit-rules-that-five-relatives-of-osama-bin-laden-and-a-construction-company-started-by-his-fath.xml)  
+
 ### [2013-05-2](/news/2013/05/2/index.md)
 
+##### U.S. Court of Appeals for the Second Circuit
 # The U.S. Court of Appeals for the Second Circuit rules that five relatives of Osama bin Laden and a construction company started by his father cannot be held liable for the September 11, 2001 terrorist attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://www.nbcnews.com/id/51558176)
 

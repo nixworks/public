@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/05/20/enes-kanter-a-turkish-basketballer-playing-in-the-american-national-basketball-association-is-detained-at-henri-coanda-international-airp.html)  [JSON](/news/2017/05/20/enes-kanter-a-turkish-basketballer-playing-in-the-american-national-basketball-association-is-detained-at-henri-coanda-international-airp.json)  [XML](/news/2017/05/20/enes-kanter-a-turkish-basketballer-playing-in-the-american-national-basketball-association-is-detained-at-henri-coanda-international-airp.xml)  
+
 ### [2017-05-20](/news/2017/05/20/index.md)
 
+##### Enes Kanter
 # Enes Kanter, a Turkish basketballer playing in the American National Basketball Association, is detained at Henri Coanda International Airport after his Turkish passport was cancelled. 
 
 Enes Kanter, a critic of the Turkish president, was held after Turkey cancelled his passport.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-39987275)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/14215/production/_96135428_hi038787505.jpg)

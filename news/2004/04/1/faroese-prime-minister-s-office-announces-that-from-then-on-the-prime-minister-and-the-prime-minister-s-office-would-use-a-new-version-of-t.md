@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/04/1/faroese-prime-minister-s-office-announces-that-from-then-on-the-prime-minister-and-the-prime-minister-s-office-would-use-a-new-version-of-t.html)  [JSON](/news/2004/04/1/faroese-prime-minister-s-office-announces-that-from-then-on-the-prime-minister-and-the-prime-minister-s-office-would-use-a-new-version-of-t.json)  [XML](/news/2004/04/1/faroese-prime-minister-s-office-announces-that-from-then-on-the-prime-minister-and-the-prime-minister-s-office-would-use-a-new-version-of-t.xml)  
+
 ### [2004-04-1](/news/2004/04/1/index.md)
 
+##### Faroe Islands
 #  Faroese Prime Minister's Office announces that from then on the Prime Minister and the Prime Minister's Office would use a new version of the Faroese Coat of Arms. The colours were inspired from the Merki (flag) and yellow-gold was added. The new Coat of Arms depicts a Ram on a blue shield ready to defend. It can be used by the Government Ministries and by Faroese embassies, but some still use older versions of the Coat of Arms. 
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/14/yahoo-announces-that-id-information-about-more-
 
 ### [2016-12-14](/news/2016/12/14/index.md)
 
+##### Yahoo! data breaches
 # Yahoo! announces that ID information about more than 1 billion accounts may have been hacked in August 2013. This is separate from the company's earlier disclosure of a data breach of 500,000 accounts in 2014. 
 
 The company says the attack was separate from the breach that led to an earlier disclosure that 500 million accounts were hacked.

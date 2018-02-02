@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/4/turkish-airlines-flight-tk726-landing-in-dense-fog-in-the-nepalese-capital-kathmandu-skids-off-a-slippery-runway-however-there-are-no-se.html)  [JSON](/news/2015/03/4/turkish-airlines-flight-tk726-landing-in-dense-fog-in-the-nepalese-capital-kathmandu-skids-off-a-slippery-runway-however-there-are-no-se.json)  [XML](/news/2015/03/4/turkish-airlines-flight-tk726-landing-in-dense-fog-in-the-nepalese-capital-kathmandu-skids-off-a-slippery-runway-however-there-are-no-se.xml)  
+
 ### [2015-03-4](/news/2015/03/4/index.md)
 
+##### Nepal
 # Turkish Airlines Flight TK726, landing in dense fog in the Nepalese capital Kathmandu, skids off a slippery runway, however, there are no serious injuries. 
 
 A Turkish Airlines jet landing in dense fog in the Nepalese capital Wednesday skidded off a slippery runway but there were no serious injuries, officials said.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/turkish-airlines-jet-skids-off-runway-passengers-escape/story?id=29375335)
 1. [Cover Image](http://a.abcnews.com/images/International/AP_PLANE_RUNWAY_150304_DG_16x9_992.jpg)

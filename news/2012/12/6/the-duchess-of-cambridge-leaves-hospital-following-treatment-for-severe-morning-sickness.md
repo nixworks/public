@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/6/the-duchess-of-cambridge-leaves-hospital-following-treatment-for-severe-morning-sickness.html)  [JSON](/news/2012/12/6/the-duchess-of-cambridge-leaves-hospital-following-treatment-for-severe-morning-sickness.json)  [XML](/news/2012/12/6/the-duchess-of-cambridge-leaves-hospital-following-treatment-for-severe-morning-sickness.xml)  
+
 ### [2012-12-6](/news/2012/12/6/index.md)
 
+##### Catherine, Duchess of Cambridge
 # The Duchess of Cambridge leaves hospital following treatment for severe morning sickness. 
 
 The Duchess of Cambridge leaves hospital after treatment for severe morning sickness, and heads to Kensington Palace for a period of rest.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20626495)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64604000/jpg/_64604658_016678705.jpg)

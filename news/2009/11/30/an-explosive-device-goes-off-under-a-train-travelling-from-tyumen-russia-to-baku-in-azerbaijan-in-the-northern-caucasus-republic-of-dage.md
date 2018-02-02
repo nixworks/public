@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/30/an-explosive-device-goes-off-under-a-train-travelling-from-tyumen-russia-to-baku-in-azerbaijan-in-the-northern-caucasus-republic-of-dage.html)  [JSON](/news/2009/11/30/an-explosive-device-goes-off-under-a-train-travelling-from-tyumen-russia-to-baku-in-azerbaijan-in-the-northern-caucasus-republic-of-dage.json)  [XML](/news/2009/11/30/an-explosive-device-goes-off-under-a-train-travelling-from-tyumen-russia-to-baku-in-azerbaijan-in-the-northern-caucasus-republic-of-dage.xml)  
+
 ### [2009-11-30](/news/2009/11/30/index.md)
 
+##### Tyumen
 #  An explosive device goes off under a train travelling from Tyumen, Russia, to Baku in Azerbaijan, in the northern Caucasus republic of Dagestan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Azeri Press Agency](http://en.apa.az/news.php?id=111729)
 2. [RIA Novosti](http://en.rian.ru/russia/20091130/157036318.html)

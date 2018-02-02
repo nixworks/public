@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/06/29/albertan-mla-gary-masyk-blames-premier-ralph-klein-for-causing-the-defeat-of-the-conservative-party-of-canada-in-the-2004-federal-election.html)  [JSON](/news/2004/06/29/albertan-mla-gary-masyk-blames-premier-ralph-klein-for-causing-the-defeat-of-the-conservative-party-of-canada-in-the-2004-federal-election.json)  [XML](/news/2004/06/29/albertan-mla-gary-masyk-blames-premier-ralph-klein-for-causing-the-defeat-of-the-conservative-party-of-canada-in-the-2004-federal-election.xml)  
+
 ### [2004-06-29](/news/2004/06/29/index.md)
 
+##### Alberta
 #  Albertan MLA Gary Masyk blames Premier Ralph Klein for causing the defeat of the Conservative Party of Canada in the 2004 federal election, and leaves the Progressive Conservative Party for the newly formed Alberta Alliance.
 
 

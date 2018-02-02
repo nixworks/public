@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/28/an-australian-recently-freed-from-guantanamo-bay-claims-u-s-agents-told-him-they-killed-his-whole-family-and-strung-the-interrogation-room.html)  [JSON](/news/2005/01/28/an-australian-recently-freed-from-guantanamo-bay-claims-u-s-agents-told-him-they-killed-his-whole-family-and-strung-the-interrogation-room.json)  [XML](/news/2005/01/28/an-australian-recently-freed-from-guantanamo-bay-claims-u-s-agents-told-him-they-killed-his-whole-family-and-strung-the-interrogation-room.xml)  
+
 ### [2005-01-28](/news/2005/01/28/index.md)
 
+##### Guantnamo Bay
 #  An Australian recently freed from Guantanamo Bay claims U.S. agents told him they killed his whole family and strung the interrogation room with faked photos of his wife and children with animals' heads. He also says he was sexually assaulted and menstrual blood had been put all over him before being left alone in a cell with no water. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [news.com.au](http://www.news.com.au/story/0,10117,12062502-26618,00.html)
 2. [yahoo/AP](http://story.news.yahoo.com/news?tmpl=story&cid=514&e=3&u=/ap/20050127/ap_on_re_la_am_ca/guantanamo_sex_vs_faith)

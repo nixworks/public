@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/29/ajmal-kasab-the-last-surviving-gunman-from-the-2008-mumbai-terrorist-attacks-launches-an-appeal-against-his-death-sentence-in-india.html)  [JSON](/news/2011/07/29/ajmal-kasab-the-last-surviving-gunman-from-the-2008-mumbai-terrorist-attacks-launches-an-appeal-against-his-death-sentence-in-india.json)  [XML](/news/2011/07/29/ajmal-kasab-the-last-surviving-gunman-from-the-2008-mumbai-terrorist-attacks-launches-an-appeal-against-his-death-sentence-in-india.xml)  
+
 ### [2011-07-29](/news/2011/07/29/index.md)
 
+##### Ajmal Kasab
 # Ajmal Kasab, the last surviving gunman from the 2008 Mumbai terrorist attacks, launches an appeal against his death sentence in India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/home/world-news/article/16039587)
 2. [Times of India](http://timesofindia.indiatimes.com/india/Kasab-appeals-death-sentence/articleshow/9406042.cms)

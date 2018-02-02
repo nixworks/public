@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/14/an-explosion-that-targeted-a-funeral-in-ma-rib-
 
 ### [2016-10-14](/news/2016/10/14/index.md)
 
+##### Yemeni Civil War
 # An explosion that targeted a funeral in Ma'rib for a top Yemeni army commander, kills five people, including the deceased's brother, and injures 15 more. 
 
 Yemeni officials say an explosion has ripped through a funeral held for a top army commander at a marquee east of the capital Sanaa, killing five people.
@@ -25,5 +26,5 @@ Yemeni officials say an explosion has ripped through a funeral held for a top ar
 1. [A suicide bombing in Aden kills at least five government soldiers. ](/news/2017/11/5/a-suicide-bombing-in-aden-kills-at-least-five-government-soldiers.md) _Context: Yemeni Civil War, government soldiers_
 2. [The Yemeni Army claims to have recaptured the port city of Mocha from Houthi rebels. ](/news/2017/01/23/the-yemeni-army-claims-to-have-recaptured-the-port-city-of-mocha-from-houthi-rebels.md) _Context: Yemeni Civil War, government soldiers_
 3. [About 40 suspected Al-Qaeda in the Arabian Peninsula fighters are killed as Yemeni forces, aided by Saudi-led airstrikes, fight their way into Zinjibar and Ja'ar in eastern Yemen. ](/news/2016/08/14/about-40-suspected-al-qaeda-in-the-arabian-peninsula-fighters-are-killed-as-yemeni-forces-aided-by-saudi-led-airstrikes-fight-their-way-in.md) _Context: Yemeni Civil War, government soldiers_
-4. [Houthi forces kill former president Ali Abdullah Saleh in a roadside attack outside Sana'a after having blown up his house. ](/news/2017/12/4/houthi-forces-kill-former-president-ali-abdullah-saleh-in-a-roadside-attack-outside-sana-a-after-having-blown-up-his-house.md) _Context: Yemeni Civil War_
+4. [Former Yemeni President Ali Abdullah Saleh is killed by Houthi forces in a roadside attack outside Sana'a after an earlier attack on his house. ](/news/2017/12/4/former-yemeni-president-ali-abdullah-saleh-is-killed-by-houthi-forces-in-a-roadside-attack-outside-sana-a-after-an-earlier-attack-on-his-hou.md) _Context: Yemeni Civil War_
 5. [A senior UN official warns that Yemen faces the world's largest famine in decades "with millions of victims" if aid deliveries do not resume. ](/news/2017/11/9/a-senior-un-official-warns-that-yemen-faces-the-world-s-largest-famine-in-decades-with-millions-of-victims-if-aid-deliveries-do-not-resume.md) _Context: Yemeni Civil War_

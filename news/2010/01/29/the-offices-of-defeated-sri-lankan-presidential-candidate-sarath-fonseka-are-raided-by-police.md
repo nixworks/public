@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/29/the-offices-of-defeated-sri-lankan-presidential-candidate-sarath-fonseka-are-raided-by-police.html)  [JSON](/news/2010/01/29/the-offices-of-defeated-sri-lankan-presidential-candidate-sarath-fonseka-are-raided-by-police.json)  [XML](/news/2010/01/29/the-offices-of-defeated-sri-lankan-presidential-candidate-sarath-fonseka-are-raided-by-police.xml)  
+
 ### [2010-01-29](/news/2010/01/29/index.md)
 
+##### Sri Lanka
 # The offices of defeated Sri Lankan presidential candidate Sarath Fonseka are raided by police. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/01/201012912553962880.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8487331.stm)

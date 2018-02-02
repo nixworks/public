@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/9/united-states-secretary-of-housing-and-urban-development-mel-martinez-resigns-effective-friday-at-noon-http-www-msnbc-com-news-1003368.html)  [JSON](/news/2003/12/9/united-states-secretary-of-housing-and-urban-development-mel-martinez-resigns-effective-friday-at-noon-http-www-msnbc-com-news-1003368.json)  [XML](/news/2003/12/9/united-states-secretary-of-housing-and-urban-development-mel-martinez-resigns-effective-friday-at-noon-http-www-msnbc-com-news-1003368.xml)  
+
 ### [2003-12-9](/news/2003/12/9/index.md)
 
+##### Housing and Urban Development
 # United States Secretary of Housing and Urban Development Mel Martinez resigns, effective Friday at noon. [http:--www.msnbc.com-news-1003368.asp?0dm=N15ON]
 
 

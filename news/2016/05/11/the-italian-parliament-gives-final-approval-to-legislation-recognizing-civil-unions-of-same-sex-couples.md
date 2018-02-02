@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/11/the-italian-parliament-gives-final-approval-to-
 
 ### [2016-05-11](/news/2016/05/11/index.md)
 
+##### Recognition of same-sex unions in Italy
 # The Italian Parliament gives final approval to legislation recognizing civil unions of same-sex couples. 
 
 The law, opposed by the Vatican, stops short of gay marriage but brings Italy more in line with other Western European countries.

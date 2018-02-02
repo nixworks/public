@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/1/clashes-break-out-and-tear-gas-is-fired-by-security-forces-in-northern-azerbaijan-after-protesters-torch-the-home-of-a-local-governor.html)  [JSON](/news/2012/03/1/clashes-break-out-and-tear-gas-is-fired-by-security-forces-in-northern-azerbaijan-after-protesters-torch-the-home-of-a-local-governor.json)  [XML](/news/2012/03/1/clashes-break-out-and-tear-gas-is-fired-by-security-forces-in-northern-azerbaijan-after-protesters-torch-the-home-of-a-local-governor.xml)  
+
 ### [2012-03-1](/news/2012/03/1/index.md)
 
+##### Azerbaijan
 # Clashes break out and tear gas is fired by security forces in northern Azerbaijan after protesters torch the home of a local governor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Times of Pakistan](http://www.dailytimes.com.pk/default.asp?page=2012\03\02\story_2-3-2012_pg14_5)
 1. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )

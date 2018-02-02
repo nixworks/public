@@ -1,26 +1,30 @@
+
+Formats: [HTML](/news/2015/11/5/belizean-prime-minister-dean-barrow-wins-a-record-third-term-in-wednesday-s-snap-general-election-in-the-central-american-nation-as-his-unit.html)  [JSON](/news/2015/11/5/belizean-prime-minister-dean-barrow-wins-a-record-third-term-in-wednesday-s-snap-general-election-in-the-central-american-nation-as-his-unit.json)  [XML](/news/2015/11/5/belizean-prime-minister-dean-barrow-wins-a-record-third-term-in-wednesday-s-snap-general-election-in-the-central-american-nation-as-his-unit.xml)  
+
 ### [2015-11-5](/news/2015/11/5/index.md)
 
+##### Belizean general election, 2015
 # Belizean Prime Minister Dean Barrow wins a record third term in Wednesday's snap general election in the Central American nation as his United Democratic Party (UDP) gains a clear majority in parliament. The UDP won 19 constituencies and Francis Fonseca's People's United Party (PUP) took 10, with two constituencies yet to report. Belize is a parliamentary constitutional monarchy with Queen Elizabeth II, the symbolic head of state. 
 
 Belizean Prime Minister Dean Barrow won a record third term in a snap general election in the tiny English-speaking Central American country on Wednesday, after his party gained a clear majority in parliament.
 
 
-### Source:
+### Sources:
 
 1. [Newsweek](http://europe.newsweek.com/belize-pm-dean-barrow-wins-record-third-consecutive-term-336042)
-2. [Reuters](http://www.reuters.com/article/2015/11/05/us-belize-election-idUSKCN0ST1VE20151105#hLWpFMhRXc31M0xR.97)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151105&t=2&i=1092421216&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA406W)
-
-### Related:
-
-1. [Voters in Belize go to the polls with the United Democratic Party led by Dean Barrow hoping for a third consecutive term. ](/news/2015/11/4/voters-in-belize-go-to-the-polls-with-the-united-democratic-party-led-by-dean-barrow-hoping-for-a-third-consecutive-term.md) _Context: Belizean general election, 2015, Dean Barrow, United Democratic Party_
-2. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: Central America_
-3. [Results of yesterday's snap election are counted, revealing a hung parliament as the Conservative Party fails to retain its parliamentary majority, despite remaining the party with the most seats. Prime Minister Theresa May announced that she will form a minority government with the support of the Northern Irish Democratic Unionist Party. ](/news/2017/06/9/results-of-yesterday-s-snap-election-are-counted-revealing-a-hung-parliament-as-the-conservative-party-fails-to-retain-its-parliamentary-ma.md) _Context: snap election_
-4. [British Prime Minster Theresa May proposes that a snap election for the House of Commons will be held on the 8th of June. A two-thirds majority of the House of Commons is needed to approve this, eventually tomorrow. The Labour and Liberal Democrats party leaders have expressed their support. ](/news/2017/04/18/british-prime-minster-theresa-may-proposes-that-a-snap-election-for-the-house-of-commons-will-be-held-on-the-8th-of-june-a-two-thirds-major.md) _Context: snap election_
-5. [Voters in Turkey go to the polls for a referendum that seeks to replace the country's parliamentary system with an executive presidency, thereby giving President Recep Tayyip Erdogan sweeping new powers. Erdogan's AK Party has claimed victory while the opposition CHP has said that it will challenge the result. ](/news/2017/04/16/voters-in-turkey-go-to-the-polls-for-a-referendum-that-seeks-to-replace-the-country-s-parliamentary-system-with-an-executive-presidency-the.md) _Context: parliamentary system_
+2. [Reuters](https://www.reuters.com/article/2015/11/05/us-belize-election-idUSKCN0ST1VE20151105#hLWpFMhRXc31M0xR.97)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20151105&t=2&i=1092421216&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEBA406W)
 
 ### Changes:
 
 1. [Belizean Prime Minister Dean Barrow wins a record third term in Wednesday's snap general election in the Central American nation as his United Democratic Party (UDP) gains a clear majority in parliament. The UDP won 19 constituencies and Francis Fonseca's People's United Party (PUP) took 10, with two constituencies yet to report. Belize is a parliamentary constitutional monarchy with Queen Elizabeth II, the symbolic head of state. ](/news/2015/11/5/belizean-prime-minister-dean-barrow-wins-a-record-third-term-in-wednesday-s-snap-general-election-in-the-central-american-nation-as-his-uni.md) _2017-08-25 03:43:23 (First version)_
 2. [Belizean general election, 2015: Belizean Prime Minister Dean Barrow wins a record third term in Wednesday's snap general election in the Central American nation as his United Democratic Party (UDP) gains a clear majority in parliament. The UDP won 19 constituencies and Francis Fonseca's People's United Party (PUP) took 10, with two constituencies yet to report. Belize is a parliamentary constitutional monarchy with Queen Elizabeth II, the symbolic head of state. ](/news/2015/11/5/belizean-general-election-2015-belizean-prime-minister-dean-barrow-wins-a-record-third-term-in-wednesday-s-snap-general-election-in-the-ce.md) _2017-08-27 03:43:41 (Update)_
 2. [Belizean Prime Minister Dean Barrow wins a record third term in Wednesday's snap general election in the Central American nation as his United Democratic Party (UDP) gains a clear majority in parliament. The UDP won 19 constituencies and Francis Fonseca's People's United Party (PUP) took 10, with two constituencies yet to report. Belize is a parliamentary constitutional monarchy with Queen Elizabeth II, the symbolic head of state. ](/news/2015/11/5/belizean-prime-minister-dean-barrow-wins-a-record-third-term-in-wednesday-s-snap-general-election-in-the-central-american-nation-as-his-unit.md) _(Current version)_
+
+### Related:
+
+1. [Voters in Belize go to the polls with the United Democratic Party led by Dean Barrow hoping for a third consecutive term. ](/news/2015/11/4/voters-in-belize-go-to-the-polls-with-the-united-democratic-party-led-by-dean-barrow-hoping-for-a-third-consecutive-term.md) _Context: Belizean general election, 2015, Dean Barrow, United Democratic Party_
+2. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: Central America_
+3. [Hurricane Otto makes landfall in Nicaragua, becoming the southernmost hurricane on record to hit Central America. ](/news/2016/11/24/hurricane-otto-makes-landfall-in-nicaragua-becoming-the-southernmost-hurricane-on-record-to-hit-central-america.md) _Context: Central America_
+4. [France places Panama back on its list of countries that do not cooperate in catching tax evaders. "France has decided to put Panama back on the list of uncooperative countries, with all the consequences that will have for those who have transactions" with the Central American state, Finance Minister Michel Sapin, told Parliament on Tuesday. ](/news/2016/04/5/france-places-panama-back-on-its-list-of-countries-that-do-not-cooperate-in-catching-tax-evaders-france-has-decided-to-put-panama-back-on.md) _Context: Central America_
+5. [The US Centers for Disease Control and Prevention warns pregnant women against visiting 14 countries and territories in South America, Central America and the Caribbean due to the Zika virus outbreak. ](/news/2016/01/15/the-us-centers-for-disease-control-and-prevention-warns-pregnant-women-against-visiting-14-countries-and-territories-in-south-america-centr.md) _Context: Central America_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/11/greek-broadcaster-ert-is-shut-as-part-of-austerity-measures.html)  [JSON](/news/2013/06/11/greek-broadcaster-ert-is-shut-as-part-of-austerity-measures.json)  [XML](/news/2013/06/11/greek-broadcaster-ert-is-shut-as-part-of-austerity-measures.xml)  
+
 ### [2013-06-11](/news/2013/06/11/index.md)
 
+##### ERT
 # Greek broadcaster ERT is shut as part of austerity measures. 
 
 The Greek public broadcaster ERT is to close down almost immediately, the government has announced, causing shockwaves across the country. Three 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2013/06/2013611172646413743.html)
 2. [Euronews](http://www.euronews.com/2013/06/11/greek-public-television-ert-closes-down/)

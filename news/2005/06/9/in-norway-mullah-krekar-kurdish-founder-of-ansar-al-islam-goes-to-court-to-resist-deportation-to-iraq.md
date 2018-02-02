@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/9/in-norway-mullah-krekar-kurdish-founder-of-ansar-al-islam-goes-to-court-to-resist-deportation-to-iraq.html)  [JSON](/news/2005/06/9/in-norway-mullah-krekar-kurdish-founder-of-ansar-al-islam-goes-to-court-to-resist-deportation-to-iraq.json)  [XML](/news/2005/06/9/in-norway-mullah-krekar-kurdish-founder-of-ansar-al-islam-goes-to-court-to-resist-deportation-to-iraq.xml)  
+
 ### [2005-06-9](/news/2005/06/9/index.md)
 
+##### Mullah Krekar
 #  In Norway, Mullah Krekar, Kurdish founder of Ansar al-Islam, goes to court to resist deportation to Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aftenposten](http://www.aftenposten.no/english/local/article1056170.ece)
 2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/BA0A8E8C-8813-41AF-B85A-BDCA7B4D9CAB.htm)

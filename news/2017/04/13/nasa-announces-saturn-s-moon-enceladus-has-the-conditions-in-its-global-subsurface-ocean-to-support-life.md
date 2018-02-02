@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/04/13/nasa-announces-saturn-s-moon-enceladus-has-the-conditions-in-its-global-subsurface-ocean-to-support-life.html)  [JSON](/news/2017/04/13/nasa-announces-saturn-s-moon-enceladus-has-the-conditions-in-its-global-subsurface-ocean-to-support-life.json)  [XML](/news/2017/04/13/nasa-announces-saturn-s-moon-enceladus-has-the-conditions-in-its-global-subsurface-ocean-to-support-life.xml)  
+
 ### [2017-04-13](/news/2017/04/13/index.md)
 
+##### NASA
 # NASA announces Saturn's moon Enceladus has the conditions in its global subsurface ocean to support life. 
 
 Space organization finds that hydrogen erupts out of underground ocean on Enceladus, meaning it has the water, chemistry and energy sources life requires
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](https://www.theguardian.com/science/2017/apr/13/alien-life-saturn-moon-enceladus-nasa)
 1. [Cover Image](https://i.guim.co.uk/img/media/1a59dfcf885ee65754a88e2dbd63ba7dbb77e34c/439_305_1508_905/master/1508.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=a67bb424b91773586baebe9b653ae92d)

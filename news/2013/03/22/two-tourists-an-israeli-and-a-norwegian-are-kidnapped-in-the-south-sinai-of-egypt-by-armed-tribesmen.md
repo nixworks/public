@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/22/two-tourists-an-israeli-and-a-norwegian-are-kidnapped-in-the-south-sinai-of-egypt-by-armed-tribesmen.html)  [JSON](/news/2013/03/22/two-tourists-an-israeli-and-a-norwegian-are-kidnapped-in-the-south-sinai-of-egypt-by-armed-tribesmen.json)  [XML](/news/2013/03/22/two-tourists-an-israeli-and-a-norwegian-are-kidnapped-in-the-south-sinai-of-egypt-by-armed-tribesmen.xml)  
+
 ### [2013-03-22](/news/2013/03/22/index.md)
 
+##### Israel
 # Two tourists, an Israeli and a Norwegian, are kidnapped in the South Sinai of Egypt by armed tribesmen. 
 
 Two tourists, an Israeli man and a Norwegian woman, have been kidnapped by armed men in the Sinai peninsula in Egypt, security officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21897822)
 2. [Kuwait News Agency](http://www.kuna.net.kw/ArticleDetails.aspx?id=2300030&language=en)

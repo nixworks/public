@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/9/thirteen-people-are-killed-and-10-are-injured-in-hsinchu-county-taiwan-when-a-bus-with-23-people-on-board-rolled-off-a-cliff-and-tumbled-o.html)  [JSON](/news/2012/12/9/thirteen-people-are-killed-and-10-are-injured-in-hsinchu-county-taiwan-when-a-bus-with-23-people-on-board-rolled-off-a-cliff-and-tumbled-o.json)  [XML](/news/2012/12/9/thirteen-people-are-killed-and-10-are-injured-in-hsinchu-county-taiwan-when-a-bus-with-23-people-on-board-rolled-off-a-cliff-and-tumbled-o.xml)  
+
 ### [2012-12-9](/news/2012/12/9/index.md)
 
+##### Hsinchu County
 # Thirteen people are killed and 10 are injured in Hsinchu County, Taiwan, when a bus with 23 people on board rolled off a cliff and tumbled over 100 meters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/325339/13-killed-as-bus-plunges-into-taiwan-ravine)
 2. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aSOC&ID=201212090019)

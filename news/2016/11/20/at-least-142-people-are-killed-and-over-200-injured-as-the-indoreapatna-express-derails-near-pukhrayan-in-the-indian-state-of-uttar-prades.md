@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/20/at-least-142-people-are-killed-and-over-200-inj
 
 ### [2016-11-20](/news/2016/11/20/index.md)
 
+##### Pukhrayan train derailment
 # At least 142 people are killed and over 200 injured as the Indore-Patna Express derails near Pukhrayan in the Indian state of Uttar Pradesh. 
 
 The death toll was likely to rise after one of the country’s worst rail accidents in recent years.

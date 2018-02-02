@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/25/a-detective-in-the-irish-police-force-is-shot-dead-in-an-attempted-robbery-near-dundalk-county-louth.html)  [JSON](/news/2013/01/25/a-detective-in-the-irish-police-force-is-shot-dead-in-an-attempted-robbery-near-dundalk-county-louth.json)  [XML](/news/2013/01/25/a-detective-in-the-irish-police-force-is-shot-dead-in-an-attempted-robbery-near-dundalk-county-louth.xml)  
+
 ### [2013-01-25](/news/2013/01/25/index.md)
 
+##### police officer
 # A detective in the Irish police force is shot dead in an attempted robbery near Dundalk, County Louth. 
 
 Irish police say a detective shot dead in an attempted robbery near Dundalk in County Louth was killed without warning.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21204409)
 2. [RTÉ](http://www.rte.ie/news/2013/0125/364600-garda-louth-shot/)

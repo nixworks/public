@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/17/johann-lamont-is-elected-as-leader-of-the-scottish-labour-party-succeeding-iain-gray.html)  [JSON](/news/2011/12/17/johann-lamont-is-elected-as-leader-of-the-scottish-labour-party-succeeding-iain-gray.json)  [XML](/news/2011/12/17/johann-lamont-is-elected-as-leader-of-the-scottish-labour-party-succeeding-iain-gray.xml)  
+
 ### [2011-12-17](/news/2011/12/17/index.md)
 
+##### Johann Lamont
 # Johann Lamont is elected as Leader of the Scottish Labour Party, succeeding Iain Gray. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-16217972)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57388000/jpg/_57388390_johann_lamont_two.jpg)

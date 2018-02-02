@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/4/in-new-york-city-groundbreaking-takes-place-at-the-site-of-one-world-trade-center-due-to-be-completed-in-2013.html)  [JSON](/news/2004/07/4/in-new-york-city-groundbreaking-takes-place-at-the-site-of-one-world-trade-center-due-to-be-completed-in-2013.json)  [XML](/news/2004/07/4/in-new-york-city-groundbreaking-takes-place-at-the-site-of-one-world-trade-center-due-to-be-completed-in-2013.xml)  
+
 ### [2004-07-4](/news/2004/07/4/index.md)
 
+##### New York
 #  In New York City, groundbreaking takes place at the site of One World Trade Center, due to be completed in 2013. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters/archive.org](https://web.archive.org/web/20040705070540/http://www.reuters.com/newsArticle.jhtml?type=domesticNews&storyID=5582661)
 

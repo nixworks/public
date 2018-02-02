@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/12/at-least-240-bodies-have-been-recovered-off-the-coast-of-zanzibar-following-saturday-s-ferry-sinking.html)  [JSON](/news/2011/09/12/at-least-240-bodies-have-been-recovered-off-the-coast-of-zanzibar-following-saturday-s-ferry-sinking.json)  [XML](/news/2011/09/12/at-least-240-bodies-have-been-recovered-off-the-coast-of-zanzibar-following-saturday-s-ferry-sinking.xml)  
+
 ### [2011-09-12](/news/2011/09/12/index.md)
 
+##### Zanzibar
 # At least 240 bodies have been recovered off the coast of Zanzibar following Saturday's ferry sinking. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-09/12/c_131133707.htm)
 

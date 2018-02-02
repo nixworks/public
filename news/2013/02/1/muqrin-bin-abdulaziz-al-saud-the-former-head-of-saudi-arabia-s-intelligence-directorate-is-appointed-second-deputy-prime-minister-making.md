@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/02/1/muqrin-bin-abdulaziz-al-saud-the-former-head-of-saudi-arabia-s-intelligence-directorate-is-appointed-second-deputy-prime-minister-making.html)  [JSON](/news/2013/02/1/muqrin-bin-abdulaziz-al-saud-the-former-head-of-saudi-arabia-s-intelligence-directorate-is-appointed-second-deputy-prime-minister-making.json)  [XML](/news/2013/02/1/muqrin-bin-abdulaziz-al-saud-the-former-head-of-saudi-arabia-s-intelligence-directorate-is-appointed-second-deputy-prime-minister-making.xml)  
+
 ### [2013-02-1](/news/2013/02/1/index.md)
 
+##### Muqrin bin Abdulaziz Al Saud
 # Muqrin bin Abdulaziz Al Saud, the former head of Saudi Arabia's Intelligence Directorate, is appointed second deputy Prime Minister, making him second in line to the Saudi throne. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/01/us-saudi-succession-idUSBRE9100PT20130201)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130201&t=2&i=699933371&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91012C300)
+1. [Reuters](https://www.reuters.com/article/2013/02/01/us-saudi-succession-idUSBRE9100PT20130201)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130201&t=2&i=699933371&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91012C300)
 
 ### Related:
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/14/a-small-scale-study-has-determined-that-psilocybin-mushrooms-which-contain-the-drug-psilocybin-can-treat-depression.html)  [JSON](/news/2017/10/14/a-small-scale-study-has-determined-that-psilocybin-mushrooms-which-contain-the-drug-psilocybin-can-treat-depression.json)  [XML](/news/2017/10/14/a-small-scale-study-has-determined-that-psilocybin-mushrooms-which-contain-the-drug-psilocybin-can-treat-depression.xml)  
+
 ### [2017-10-14](/news/2017/10/14/index.md)
 
+##### psilocybin mushroom
 # A small-scale study has determined that psilocybin mushrooms, which contain the drug psilocybin, can treat depression. 
 
 Psilocybin - the hallucinogenic ingredient in mushrooms - may help in depression, a study suggests.
@@ -17,5 +21,4 @@ Psilocybin - the hallucinogenic ingredient in mushrooms - may help in depression
 
 ### Related:
 
-1. [ A British brain scan study of Lysergic acid diethylamide shows LSD may be useful in treating mental disorders such as major depressive disorder. ](/news/2016/04/12/a-british-brain-scan-study-of-lysergic-acid-diethylamide-shows-lsd-may-be-useful-in-treating-mental-disorders-such-as-major-depressive-diso.md) _Context: depression_
-2. [ A study suggests that teenagers who go to bed late are more likely to develop depression and to have suicidal thoughts. ](/news/2010/01/1/a-study-suggests-that-teenagers-who-go-to-bed-late-are-more-likely-to-develop-depression-and-to-have-suicidal-thoughts.md) _Context: depression_
+1. [ A study suggests that teenagers who go to bed late are more likely to develop depression and to have suicidal thoughts. ](/news/2010/01/1/a-study-suggests-that-teenagers-who-go-to-bed-late-are-more-likely-to-develop-depression-and-to-have-suicidal-thoughts.md) _Context: depression_

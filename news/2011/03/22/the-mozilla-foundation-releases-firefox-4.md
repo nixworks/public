@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/22/the-mozilla-foundation-releases-firefox-4.html)  [JSON](/news/2011/03/22/the-mozilla-foundation-releases-firefox-4.json)  [XML](/news/2011/03/22/the-mozilla-foundation-releases-firefox-4.xml)  
+
 ### [2011-03-22](/news/2011/03/22/index.md)
 
+##### Mozilla Foundation
 # The Mozilla Foundation releases Firefox 4. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SMH](http://news.smh.com.au/breaking-news-technology/mozilla-unleashes-sleek-new-firefox-web-browser-20110323-1c5hl.html)
 

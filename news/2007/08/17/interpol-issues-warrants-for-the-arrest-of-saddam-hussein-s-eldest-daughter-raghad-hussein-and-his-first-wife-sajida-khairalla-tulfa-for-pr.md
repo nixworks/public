@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/17/interpol-issues-warrants-for-the-arrest-of-saddam-hussein-s-eldest-daughter-raghad-hussein-and-his-first-wife-sajida-khairalla-tulfa-for-pr.html)  [JSON](/news/2007/08/17/interpol-issues-warrants-for-the-arrest-of-saddam-hussein-s-eldest-daughter-raghad-hussein-and-his-first-wife-sajida-khairalla-tulfa-for-pr.json)  [XML](/news/2007/08/17/interpol-issues-warrants-for-the-arrest-of-saddam-hussein-s-eldest-daughter-raghad-hussein-and-his-first-wife-sajida-khairalla-tulfa-for-pr.xml)  
+
 ### [2007-08-17](/news/2007/08/17/index.md)
 
+##### Interpol
 #  Interpol issues warrants for the arrest of Saddam Hussein's eldest daughter Raghad Hussein and his first wife Sajida Khairalla Tulfa for providing support to Iraqi insurgents. 
 
 Iraqi officials would not discuss the specific charges against Raghad Saddam Hussein and her mother, Sajida Khairalla Tulfa.
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2007/08/18/world/middleeast/18iraq.html?_r=1&ref=world&oref=slogin)
+1. [NYT](https://www.nytimes.com/2007/08/18/world/middleeast/18iraq.html?_r=1&ref=world&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

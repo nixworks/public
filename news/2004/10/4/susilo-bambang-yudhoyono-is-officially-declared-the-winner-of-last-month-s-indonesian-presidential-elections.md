@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/4/susilo-bambang-yudhoyono-is-officially-declared-the-winner-of-last-month-s-indonesian-presidential-elections.html)  [JSON](/news/2004/10/4/susilo-bambang-yudhoyono-is-officially-declared-the-winner-of-last-month-s-indonesian-presidential-elections.json)  [XML](/news/2004/10/4/susilo-bambang-yudhoyono-is-officially-declared-the-winner-of-last-month-s-indonesian-presidential-elections.xml)  
+
 ### [2004-10-4](/news/2004/10/4/index.md)
 
+##### Susilo Bambang Yudhoyono
 #  Susilo Bambang Yudhoyono is officially declared the winner of last month's Indonesian presidential elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3712478.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/4/at-least-19-people-have-been-shot-in-the-us-city-of-chicago-since-wednesday-with-four-people-killed-and-15-injured.html)  [JSON](/news/2013/07/4/at-least-19-people-have-been-shot-in-the-us-city-of-chicago-since-wednesday-with-four-people-killed-and-15-injured.json)  [XML](/news/2013/07/4/at-least-19-people-have-been-shot-in-the-us-city-of-chicago-since-wednesday-with-four-people-killed-and-15-injured.xml)  
+
 ### [2013-07-4](/news/2013/07/4/index.md)
 
+##### Chicago, Illinois
 # At least 19 people have been shot in the US city of Chicago since Wednesday with four people killed and 15 injured. 
 
 Seven men were killed and at least 42 other people were wounded in shootings throughout Chicago so far this holiday weekend. A 5-year-old boy was among the wounded -- shot early Friday alongside two men at...
 
 
-### Source:
+### Sources:
 
 1. [NBC Chicago](http://www.nbcchicago.com/news/local/15-Shot-As-Holiday-Weekend-Begins-214275491.html)
 1. [Cover Image](http://media.nbcchicago.com/images/1206*675/4th+of+july+violence.jpg)

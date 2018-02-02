@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/28/in-colombia-government-soldiers-search-for-at-least-seven-people-taken-hostage-by-farc-rebels-last-friday-kidnappers-have-not-made-any-de.html)  [JSON](/news/2004/12/28/in-colombia-government-soldiers-search-for-at-least-seven-people-taken-hostage-by-farc-rebels-last-friday-kidnappers-have-not-made-any-de.json)  [XML](/news/2004/12/28/in-colombia-government-soldiers-search-for-at-least-seven-people-taken-hostage-by-farc-rebels-last-friday-kidnappers-have-not-made-any-de.xml)  
+
 ### [2004-12-28](/news/2004/12/28/index.md)
 
+##### Colombia
 #  In Colombia, government soldiers search for at least seven people taken hostage by FARC rebels last Friday. Kidnappers have not made any demands yet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4125455.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/21/protesters-of-the-police-shooting-of-keith-lamo
 
 ### [2016-09-21](/news/2016/09/21/index.md)
 
+##### Shooting of Keith Lamont Scott
 # Protesters of the police shooting of Keith Lamont Scott yesterday injure twelve Charlotte, North Carolina police officers. Riots continue into a second night with North Carolina Governor Pat McCrory declaring a state of emergency. 
 
 Violent demonstrations in the North Carolina city of Charlotte leave 12 police officers injured after a black man said to be armed is shot dead by police.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/19/the-european-space-agency-fails-to-contact-its-
 
 ### [2016-10-19](/news/2016/10/19/index.md)
 
+##### European Space Agency
 # The European Space Agency fails to contact its "Schiaparelli" lander during its descent through the atmosphere of the planet Mars. 
 
 Nasa announces Juno craft circling gas giant had to shut down camera and instruments, while ESA says Schiaparelli lander may have crashed on red planet

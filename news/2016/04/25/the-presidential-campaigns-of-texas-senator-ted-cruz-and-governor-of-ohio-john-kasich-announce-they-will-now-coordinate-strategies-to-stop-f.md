@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/25/the-presidential-campaigns-of-texas-senator-ted
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
+##### 2016 U.S. presidential election
 # The presidential campaigns of Texas Senator Ted Cruz and Governor of Ohio John Kasich announce they will now coordinate strategies to stop fellow Republican Donald Trump from becoming the party's nominee. Cruz's campaign will cut campaigning in Oregon and New Mexico to help Kasich, while the Kasich campaign will give Cruz a "clear path" in Indiana. 
 
 Republican rivals Ted Cruz and John Kasich announce they will co-ordinate strategies to tackle frontrunner Donald Trump in forthcoming US primaries.

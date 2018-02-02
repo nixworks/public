@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/05/5/world-wrestling-federation-is-renamed-to-world-wrestling-entertainment-due-to-trademark-issues-with-world-wildlife-fund.html)  [JSON](/news/2002/05/5/world-wrestling-federation-is-renamed-to-world-wrestling-entertainment-due-to-trademark-issues-with-world-wildlife-fund.json)  [XML](/news/2002/05/5/world-wrestling-federation-is-renamed-to-world-wrestling-entertainment-due-to-trademark-issues-with-world-wildlife-fund.xml)  
+
 ### [2002-05-5](/news/2002/05/5/index.md)
 
+##### World Wrestling Entertainment
 # World Wrestling Federation is renamed to World Wrestling Entertainment due to trademark issues with World Wildlife Fund
 
 

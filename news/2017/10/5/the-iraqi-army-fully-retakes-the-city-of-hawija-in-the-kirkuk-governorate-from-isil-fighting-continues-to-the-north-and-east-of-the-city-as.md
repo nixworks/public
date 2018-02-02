@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/5/the-iraqi-army-fully-retakes-the-city-of-hawija-
 
 ### [2017-10-5](/news/2017/10/5/index.md)
 
+##### Battle of Hawija
 # The Iraqi Army fully retakes the city of Hawija in the Kirkuk Governorate from ISIL. Fighting continues to the north and east of the city as Iraqi troops continue anti-ISIL operations in the Hawija District. 
 
 If confirmed, capture would mean only area of Iraq that remains under Islamic State control is stretch along Syrian border

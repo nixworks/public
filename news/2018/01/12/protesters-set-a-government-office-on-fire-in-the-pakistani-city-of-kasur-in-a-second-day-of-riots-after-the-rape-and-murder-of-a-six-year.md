@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/12/protesters-set-a-government-office-on-fire-in-t
 
 ### [2018-01-12](/news/2018/01/12/index.md)
 
+##### Murder of Zainab Ansari
 # Protesters set a government office on fire in the Pakistani city of Kasur, in a second day of riots after the rape and murder of a six-year-old girl. 
 
 The body of six-year-old Zainab, who was raped and strangled, was found in a rubbish dump.

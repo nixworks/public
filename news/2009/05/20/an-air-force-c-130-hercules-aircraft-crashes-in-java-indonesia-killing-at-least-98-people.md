@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/05/20/an-air-force-c-130-hercules-aircraft-crashes-in-java-indonesia-killing-at-least-98-people.html)  [JSON](/news/2009/05/20/an-air-force-c-130-hercules-aircraft-crashes-in-java-indonesia-killing-at-least-98-people.json)  [XML](/news/2009/05/20/an-air-force-c-130-hercules-aircraft-crashes-in-java-indonesia-killing-at-least-98-people.xml)  
+
 ### [2009-05-20](/news/2009/05/20/index.md)
 
+##### Indonesian Air Force
 #  An Air Force C-130 Hercules aircraft crashes in Java, Indonesia, killing at least 98 people. 
 
 An Indonesian military transport plane carrying 110 passengers and crew crashed and burst into flames in East Java on Wednesday, killing at least 98 people on board and on the ground, officials said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE54J0WC20090520)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090520&t=2&i=10187940&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-20T103221Z_01_BTRE54J0IH900_RTROPTP_0_INDONESIA-CRASH)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE54J0WC20090520)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20090520&t=2&i=10187940&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-20T103221Z_01_BTRE54J0IH900_RTROPTP_0_INDONESIA-CRASH)
 
 ### Related:
 

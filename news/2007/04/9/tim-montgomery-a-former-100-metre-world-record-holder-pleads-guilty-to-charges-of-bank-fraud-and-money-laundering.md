@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/9/tim-montgomery-a-former-100-metre-world-record-holder-pleads-guilty-to-charges-of-bank-fraud-and-money-laundering.html)  [JSON](/news/2007/04/9/tim-montgomery-a-former-100-metre-world-record-holder-pleads-guilty-to-charges-of-bank-fraud-and-money-laundering.json)  [XML](/news/2007/04/9/tim-montgomery-a-former-100-metre-world-record-holder-pleads-guilty-to-charges-of-bank-fraud-and-money-laundering.xml)  
+
 ### [2007-04-9](/news/2007/04/9/index.md)
 
+##### Tim Montgomery
 #  Tim Montgomery, a former 100-metre world record holder, pleads guilty to charges of bank fraud and money laundering. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6539871.stm)
 

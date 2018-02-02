@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/21/the-kuwaiti-government-condemns-the-besieging-of-its-embassy-in-iran-and-the-beating-of-a-diplomat-regarding-it-as-an-attack-on-kuwait.html)  [JSON](/news/2007/06/21/the-kuwaiti-government-condemns-the-besieging-of-its-embassy-in-iran-and-the-beating-of-a-diplomat-regarding-it-as-an-attack-on-kuwait.json)  [XML](/news/2007/06/21/the-kuwaiti-government-condemns-the-besieging-of-its-embassy-in-iran-and-the-beating-of-a-diplomat-regarding-it-as-an-attack-on-kuwait.xml)  
+
 ### [2007-06-21](/news/2007/06/21/index.md)
 
+##### Kuwait
 #  The Kuwaiti government condemns the besieging of its embassy in Iran and the beating of a diplomat, regarding it as an "attack on Kuwait." The Iranian Foreign Ministry says it regrets that the incident occurred. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Gulf News](http://www.gulf-news.com/region/Kuwait/10133913.html)
 1. [Cover Image](http://static.gulfnews.com/media/img/gulfnews_logo.png?v=1)

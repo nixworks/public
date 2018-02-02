@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/20/the-swedish-academy-the-body-that-selects-the-winner-of-the-nobel-prize-in-literature-announces-that-horace-engdahl-will-be-replaced-as-i.html)  [JSON](/news/2008/12/20/the-swedish-academy-the-body-that-selects-the-winner-of-the-nobel-prize-in-literature-announces-that-horace-engdahl-will-be-replaced-as-i.json)  [XML](/news/2008/12/20/the-swedish-academy-the-body-that-selects-the-winner-of-the-nobel-prize-in-literature-announces-that-horace-engdahl-will-be-replaced-as-i.xml)  
+
 ### [2008-12-20](/news/2008/12/20/index.md)
 
+##### Swedish Academy
 #  The Swedish Academy, the body that selects the winner of the Nobel Prize in Literature, announces that Horace Engdahl will be replaced as its permanent secretary by historian Peter Englund. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5g4NSt_dnw1_BSwF-SLKA-FWV1AIAD956L4H00)
 

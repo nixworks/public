@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/6/police-on-easter-island-evict-indigenous-protesters-battling-for-ancestral-lands-and-a-larger-share-of-tourist-revenues-from-the-grounds-of.html)  [JSON](/news/2011/02/6/police-on-easter-island-evict-indigenous-protesters-battling-for-ancestral-lands-and-a-larger-share-of-tourist-revenues-from-the-grounds-of.json)  [XML](/news/2011/02/6/police-on-easter-island-evict-indigenous-protesters-battling-for-ancestral-lands-and-a-larger-share-of-tourist-revenues-from-the-grounds-of.xml)  
+
 ### [2011-02-6](/news/2011/02/6/index.md)
 
+##### Easter Island
 # Police on Easter Island evict indigenous protesters battling for ancestral lands and a larger share of tourist revenues from the grounds of a luxury hotel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=%2Fn%2Fa%2F2011%2F02%2F06%2Finternational%2Fi113127S56.DTL)
 

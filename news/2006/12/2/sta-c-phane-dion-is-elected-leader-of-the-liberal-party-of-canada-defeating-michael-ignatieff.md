@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/2/sta-c-phane-dion-is-elected-leader-of-the-liberal-party-of-canada-defeating-michael-ignatieff.html)  [JSON](/news/2006/12/2/sta-c-phane-dion-is-elected-leader-of-the-liberal-party-of-canada-defeating-michael-ignatieff.json)  [XML](/news/2006/12/2/sta-c-phane-dion-is-elected-leader-of-the-liberal-party-of-canada-defeating-michael-ignatieff.xml)  
+
 ### [2006-12-2](/news/2006/12/2/index.md)
 
+##### Stephane Dion
 #  Stephane Dion is elected leader of the Liberal Party of Canada, defeating Michael Ignatieff. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2006/12/02/liberals.html)
 

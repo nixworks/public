@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/12/astronauts-on-board-the-international-space-station-think-that-a-leak-in-a-hose-used-to-stop-the-fogging-of-an-earth-observation-window-was.html)  [JSON](/news/2004/01/12/astronauts-on-board-the-international-space-station-think-that-a-leak-in-a-hose-used-to-stop-the-fogging-of-an-earth-observation-window-was.json)  [XML](/news/2004/01/12/astronauts-on-board-the-international-space-station-think-that-a-leak-in-a-hose-used-to-stop-the-fogging-of-an-earth-observation-window-was.xml)  
+
 ### [2004-01-12](/news/2004/01/12/index.md)
 
+##### International Space Station
 #  Astronauts on board the International Space Station think that a leak in a hose used to stop the fogging of an Earth observation window was causing the slow loss of pressure in the station. Although it would have taken a couple of months for the crew to be in any danger, some equipment on the station was only rated to just below the normal pressure. Although the cause appears to have been located, ground controllers are still getting the crew to close the station into three sections to allow them to get baseline pressure readings and to make sure that there are no more leaks.
 
 

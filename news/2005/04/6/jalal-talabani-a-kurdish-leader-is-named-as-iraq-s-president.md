@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/6/jalal-talabani-a-kurdish-leader-is-named-as-iraq-s-president.html)  [JSON](/news/2005/04/6/jalal-talabani-a-kurdish-leader-is-named-as-iraq-s-president.json)  [XML](/news/2005/04/6/jalal-talabani-a-kurdish-leader-is-named-as-iraq-s-president.xml)  
+
 ### [2005-04-6](/news/2005/04/6/index.md)
 
+##### Jalal Talabani
 #  Jalal Talabani, a Kurdish leader, is named as Iraq's President. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/story/0,2933,152590,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

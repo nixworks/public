@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/31/coretta-scott-king-widow-of-assassinated-civil-rights-leader-martin-luther-king-jr-dies-at-age-78.html)  [JSON](/news/2006/01/31/coretta-scott-king-widow-of-assassinated-civil-rights-leader-martin-luther-king-jr-dies-at-age-78.json)  [XML](/news/2006/01/31/coretta-scott-king-widow-of-assassinated-civil-rights-leader-martin-luther-king-jr-dies-at-age-78.xml)  
+
 ### [2006-01-31](/news/2006/01/31/index.md)
 
+##### Coretta Scott King
 #  Coretta Scott King, widow of assassinated civil rights leader Martin Luther King, Jr, dies at age 78. 
 
 Coretta Scott King, who turned a life shattered by her husband&#8217;s assassination into one devoted to enshrining his legacy of human rights and equality, has died. She was 78.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/11110291/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Video/060131/nn_bwms_king_060131.standard.jpg)

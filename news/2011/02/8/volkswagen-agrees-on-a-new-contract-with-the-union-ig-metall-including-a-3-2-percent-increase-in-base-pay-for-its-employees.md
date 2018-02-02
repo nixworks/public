@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/02/8/volkswagen-agrees-on-a-new-contract-with-the-union-ig-metall-including-a-3-2-percent-increase-in-base-pay-for-its-employees.html)  [JSON](/news/2011/02/8/volkswagen-agrees-on-a-new-contract-with-the-union-ig-metall-including-a-3-2-percent-increase-in-base-pay-for-its-employees.json)  [XML](/news/2011/02/8/volkswagen-agrees-on-a-new-contract-with-the-union-ig-metall-including-a-3-2-percent-increase-in-base-pay-for-its-employees.xml)  
+
 ### [2011-02-8](/news/2011/02/8/index.md)
 
+##### Volkswagen
 # Volkswagen agrees on a new contract with the union IG Metall, including a 3.2 percent increase in base pay for its employees. 
 
 The deal ensures workers a larger share of soaring profits in the German auto industry — and may signal an end to a decade in which pay barely kept pace with inflation.
 
 
-### Source:
+### Sources:
 
-1. [NY Times](http://www.nytimes.com/2011/02/09/business/global/09vw.html?ref=business)
+1. [NY Times](https://www.nytimes.com/2011/02/09/business/global/09vw.html?ref=business)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

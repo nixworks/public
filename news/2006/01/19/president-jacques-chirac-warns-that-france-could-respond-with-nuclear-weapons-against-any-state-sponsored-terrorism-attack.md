@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/19/president-jacques-chirac-warns-that-france-could-respond-with-nuclear-weapons-against-any-state-sponsored-terrorism-attack.html)  [JSON](/news/2006/01/19/president-jacques-chirac-warns-that-france-could-respond-with-nuclear-weapons-against-any-state-sponsored-terrorism-attack.json)  [XML](/news/2006/01/19/president-jacques-chirac-warns-that-france-could-respond-with-nuclear-weapons-against-any-state-sponsored-terrorism-attack.xml)  
+
 ### [2006-01-19](/news/2006/01/19/index.md)
 
+##### Jacques Chirac
 #  President Jacques Chirac warns that France could respond with nuclear weapons against any state-sponsored terrorism attack. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory?id=1521988)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/4627862.stm)

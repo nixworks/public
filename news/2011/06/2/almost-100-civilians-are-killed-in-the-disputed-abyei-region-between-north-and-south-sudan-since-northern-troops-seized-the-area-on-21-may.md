@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/2/almost-100-civilians-are-killed-in-the-disputed-abyei-region-between-north-and-south-sudan-since-northern-troops-seized-the-area-on-21-may.html)  [JSON](/news/2011/06/2/almost-100-civilians-are-killed-in-the-disputed-abyei-region-between-north-and-south-sudan-since-northern-troops-seized-the-area-on-21-may.json)  [XML](/news/2011/06/2/almost-100-civilians-are-killed-in-the-disputed-abyei-region-between-north-and-south-sudan-since-northern-troops-seized-the-area-on-21-may.xml)  
+
 ### [2011-06-2](/news/2011/06/2/index.md)
 
+##### Abyei
 # Almost 100 civilians are killed in the disputed Abyei region between North and South Sudan since northern troops seized the area on 21 May. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7510C620110602?sp=true)
 

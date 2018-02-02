@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/25/a-massive-wildfire-destroys-at-least-150-homes-
 
 ### [2016-06-25](/news/2016/06/25/index.md)
 
+##### Erskine Fire
 # A massive wildfire destroys at least 150 homes and leaves two people dead in Kern County, California. The Governor of California Jerry Brown declares a state of emergency for Kern County as more homes are threatened by the fire. 
 
 A massive wildfire burning out of control in the foothills of central California has left at least 150 homes in ruins and damaged another 75, officials said on Saturday, warning that more residents may be forced to flee the advancing flames.

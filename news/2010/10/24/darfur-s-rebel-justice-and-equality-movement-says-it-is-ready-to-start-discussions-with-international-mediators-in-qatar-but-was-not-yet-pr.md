@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/24/darfur-s-rebel-justice-and-equality-movement-says-it-is-ready-to-start-discussions-with-international-mediators-in-qatar-but-was-not-yet-pr.html)  [JSON](/news/2010/10/24/darfur-s-rebel-justice-and-equality-movement-says-it-is-ready-to-start-discussions-with-international-mediators-in-qatar-but-was-not-yet-pr.json)  [XML](/news/2010/10/24/darfur-s-rebel-justice-and-equality-movement-says-it-is-ready-to-start-discussions-with-international-mediators-in-qatar-but-was-not-yet-pr.xml)  
+
 ### [2010-10-24](/news/2010/10/24/index.md)
 
+##### Darfur
 # Darfur's rebel Justice and Equality Movement says it is ready to start discussions with international mediators in Qatar, but was not yet prepared to re-join full peace negotiations, saying Sudan's government had broken a ceasefire 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Africa](http://af.reuters.com/article/sudanNews/idAFHEA42144720101024)
 

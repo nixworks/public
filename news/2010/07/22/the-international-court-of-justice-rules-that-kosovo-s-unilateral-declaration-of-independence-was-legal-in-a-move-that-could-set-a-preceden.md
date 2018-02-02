@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/22/the-international-court-of-justice-rules-that-kosovo-s-unilateral-declaration-of-independence-was-legal-in-a-move-that-could-set-a-preceden.html)  [JSON](/news/2010/07/22/the-international-court-of-justice-rules-that-kosovo-s-unilateral-declaration-of-independence-was-legal-in-a-move-that-could-set-a-preceden.json)  [XML](/news/2010/07/22/the-international-court-of-justice-rules-that-kosovo-s-unilateral-declaration-of-independence-was-legal-in-a-move-that-could-set-a-preceden.xml)  
+
 ### [2010-07-22](/news/2010/07/22/index.md)
 
+##### International Court of Justice
 # The International Court of Justice rules that Kosovo's unilateral declaration of independence was legal, in a move that could set a precedent for unrecognised countries.
 
 Serbia rejects World Court ruling saying it will never recognise Kosovo independence.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/europe/2010/07/201072213840362357.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-10721897)

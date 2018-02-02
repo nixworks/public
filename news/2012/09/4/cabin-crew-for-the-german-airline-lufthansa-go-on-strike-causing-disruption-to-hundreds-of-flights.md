@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/09/4/cabin-crew-for-the-german-airline-lufthansa-go-on-strike-causing-disruption-to-hundreds-of-flights.html)  [JSON](/news/2012/09/4/cabin-crew-for-the-german-airline-lufthansa-go-on-strike-causing-disruption-to-hundreds-of-flights.json)  [XML](/news/2012/09/4/cabin-crew-for-the-german-airline-lufthansa-go-on-strike-causing-disruption-to-hundreds-of-flights.xml)  
+
 ### [2012-09-4](/news/2012/09/4/index.md)
 
+##### German
 # Cabin crew for the German airline Lufthansa go on strike causing disruption to hundreds of flights. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/09/04/us-germany-lufthansa-strikes-idUSBRE88303R20120904?feedType=RSS&feedName=businessNews&dlvrit=56943)
+1. [Reuters](https://www.reuters.com/article/2012/09/04/us-germany-lufthansa-strikes-idUSBRE88303R20120904?feedType=RSS&feedName=businessNews&dlvrit=56943)
 1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120904&t=2&i=649205686&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8830T7O00)
 
 ### Related:

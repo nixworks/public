@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/a-curfew-is-imposed-on-abuja-by-the-nigerian-government-due-to-recent-deadly-attacks.html)  [JSON](/news/2011/06/29/a-curfew-is-imposed-on-abuja-by-the-nigerian-government-due-to-recent-deadly-attacks.json)  [XML](/news/2011/06/29/a-curfew-is-imposed-on-abuja-by-the-nigerian-government-due-to-recent-deadly-attacks.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### Abuja
 # A curfew is imposed on Abuja by the Nigerian government due to recent deadly attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13961332)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53465000/jpg/_53465561_012232946-1.jpg)

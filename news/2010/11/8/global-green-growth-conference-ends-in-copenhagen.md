@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/8/global-green-growth-conference-ends-in-copenhagen.html)  [JSON](/news/2010/11/8/global-green-growth-conference-ends-in-copenhagen.json)  [XML](/news/2010/11/8/global-green-growth-conference-ends-in-copenhagen.xml)  
+
 ### [2010-11-8](/news/2010/11/8/index.md)
 
+##### Global Green Growth
 # Global Green Growth conference ends in Copenhagen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People Daily](http://english.peopledaily.com.cn/90001/90777/90853/7193107.html)
 

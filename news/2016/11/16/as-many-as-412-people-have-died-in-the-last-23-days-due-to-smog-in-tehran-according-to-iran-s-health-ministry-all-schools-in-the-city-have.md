@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/16/as-many-as-412-people-have-died-in-the-last-23-
 
 ### [2016-11-16](/news/2016/11/16/index.md)
 
+##### smog
 # As many as 412 people have died in the last 23 days due to smog in Tehran, according to Iran's Health Ministry. All schools in the city have also been ordered to close as part of emergency measures. 
 
 

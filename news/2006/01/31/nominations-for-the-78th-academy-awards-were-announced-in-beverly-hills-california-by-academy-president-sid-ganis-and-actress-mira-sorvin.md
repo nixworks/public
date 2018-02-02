@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/01/31/nominations-for-the-78th-academy-awards-were-announced-in-beverly-hills-california-by-academy-president-sid-ganis-and-actress-mira-sorvin.html)  [JSON](/news/2006/01/31/nominations-for-the-78th-academy-awards-were-announced-in-beverly-hills-california-by-academy-president-sid-ganis-and-actress-mira-sorvin.json)  [XML](/news/2006/01/31/nominations-for-the-78th-academy-awards-were-announced-in-beverly-hills-california-by-academy-president-sid-ganis-and-actress-mira-sorvin.xml)  
+
 ### [2006-01-31](/news/2006/01/31/index.md)
 
+##### 78th Academy Awards
 #  Nominations for the 78th Academy Awards were announced in Beverly Hills, California, by Academy President Sid Ganis and actress Mira Sorvino. ([http:--www.cnn.com-2006-SHOWBIZ-Movies-01-31-oscar.nominations-index.html CNN])
 
 

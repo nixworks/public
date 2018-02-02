@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/05/15/dzhokhar-tsarnaev-is-sentenced-to-death-for-his-role-in-the-boston-marathon-bombings.html)  [JSON](/news/2015/05/15/dzhokhar-tsarnaev-is-sentenced-to-death-for-his-role-in-the-boston-marathon-bombings.json)  [XML](/news/2015/05/15/dzhokhar-tsarnaev-is-sentenced-to-death-for-his-role-in-the-boston-marathon-bombings.xml)  
+
 ### [2015-05-15](/news/2015/05/15/index.md)
 
+##### Dzhokhar Tsarnaev
 # Dzhokhar Tsarnaev is sentenced to death for his role in the Boston Marathon bombings. 
 
+The federal jury that convicted Mr. Tsarnaev last month in the Boston Marathon bombing rejected the defense’s case that his brother, Tamerlan, had held a malevolent sway over him and had led him to commit the crimes.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/05/16/us/dzhokhar-tsarnaev-death-sentence.html?_r=0)
+1. [New York Times](https://www.nytimes.com/2015/05/16/us/dzhokhar-tsarnaev-death-sentence.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2015/05/15/us/16MARATHON-hp/16MARATHON-hp-facebookJumbo-v2.jpg)
 
 ### Related:
 

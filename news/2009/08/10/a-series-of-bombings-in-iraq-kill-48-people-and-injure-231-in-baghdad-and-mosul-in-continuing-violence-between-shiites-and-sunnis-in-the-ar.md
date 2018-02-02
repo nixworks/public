@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/10/a-series-of-bombings-in-iraq-kill-48-people-and-injure-231-in-baghdad-and-mosul-in-continuing-violence-between-shiites-and-sunnis-in-the-ar.html)  [JSON](/news/2009/08/10/a-series-of-bombings-in-iraq-kill-48-people-and-injure-231-in-baghdad-and-mosul-in-continuing-violence-between-shiites-and-sunnis-in-the-ar.json)  [XML](/news/2009/08/10/a-series-of-bombings-in-iraq-kill-48-people-and-injure-231-in-baghdad-and-mosul-in-continuing-violence-between-shiites-and-sunnis-in-the-ar.xml)  
+
 ### [2009-08-10](/news/2009/08/10/index.md)
 
+##### Iraq
 #  A series of bombings in Iraq kill 48 people and injure 231 in Baghdad and Mosul in continuing violence between Shiites and Sunnis in the area. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/meast/08/10/iraq.bombings/)
 

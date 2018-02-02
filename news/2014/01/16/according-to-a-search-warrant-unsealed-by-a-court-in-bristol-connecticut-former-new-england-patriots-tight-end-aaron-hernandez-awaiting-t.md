@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/16/according-to-a-search-warrant-unsealed-by-a-court-in-bristol-connecticut-former-new-england-patriots-tight-end-aaron-hernandez-awaiting-t.html)  [JSON](/news/2014/01/16/according-to-a-search-warrant-unsealed-by-a-court-in-bristol-connecticut-former-new-england-patriots-tight-end-aaron-hernandez-awaiting-t.json)  [XML](/news/2014/01/16/according-to-a-search-warrant-unsealed-by-a-court-in-bristol-connecticut-former-new-england-patriots-tight-end-aaron-hernandez-awaiting-t.xml)  
+
 ### [2014-01-16](/news/2014/01/16/index.md)
 
+##### Bristol, Connecticut
 # According to a search warrant unsealed by a court in Bristol, Connecticut, former New England Patriots tight end Aaron Hernandez, awaiting trial for a 2013 murder, is under investigation by Boston police as a suspect in a 2012 double homicide. 
 
 Boston police have been investigating whether jailed former New England Patriot Aaron Hernandez may have been the gunman in a 2012 double slaying, according to a search warrant request released Thursday.
 
 
-### Source:
+### Sources:
 
 1. [AP via ESPN](http://espn.go.com/boston/nfl/story/_/id/10303853/aaron-hernandez-eyed-gunman-2012-slayings-police-say)
 1. [Cover Image](http://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2013%2F1009%2Fnfl_a_hernandez01jr_1920x1080.jpg)

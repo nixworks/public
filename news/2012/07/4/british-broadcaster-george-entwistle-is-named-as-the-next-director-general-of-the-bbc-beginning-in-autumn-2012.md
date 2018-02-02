@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/4/british-broadcaster-george-entwistle-is-named-as-the-next-director-general-of-the-bbc-beginning-in-autumn-2012.html)  [JSON](/news/2012/07/4/british-broadcaster-george-entwistle-is-named-as-the-next-director-general-of-the-bbc-beginning-in-autumn-2012.json)  [XML](/news/2012/07/4/british-broadcaster-george-entwistle-is-named-as-the-next-director-general-of-the-bbc-beginning-in-autumn-2012.xml)  
+
 ### [2012-07-4](/news/2012/07/4/index.md)
 
+##### George Entwistle
 # British broadcaster George Entwistle is named as the next Director-General of the BBC, beginning in autumn 2012. 
 
 Current director of BBC Vision, George Entwistle, is announced as the 15th BBC director general.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18702085)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61352000/jpg/_61352456_entwistlepatten.jpg)

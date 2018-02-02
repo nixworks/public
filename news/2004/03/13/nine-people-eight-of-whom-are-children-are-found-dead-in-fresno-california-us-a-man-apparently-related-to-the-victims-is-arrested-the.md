@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/13/nine-people-eight-of-whom-are-children-are-found-dead-in-fresno-california-us-a-man-apparently-related-to-the-victims-is-arrested-the.html)  [JSON](/news/2004/03/13/nine-people-eight-of-whom-are-children-are-found-dead-in-fresno-california-us-a-man-apparently-related-to-the-victims-is-arrested-the.json)  [XML](/news/2004/03/13/nine-people-eight-of-whom-are-children-are-found-dead-in-fresno-california-us-a-man-apparently-related-to-the-victims-is-arrested-the.xml)  
+
 ### [2004-03-13](/news/2004/03/13/index.md)
 
+##### Fresno, California
 #  Nine people, eight of whom are children, are found dead in Fresno, California, US. A man apparently related to the victims is arrested. The police speculate that the deaths may have been part of a ritual. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AOL news](http://aolsvc.news.aol.com/news/article.adp?id=20040313025809990001)
 2. [CNN](http://www.cnn.com/2004/US/West/03/15/fresno.killings/index.html)

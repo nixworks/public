@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/22/joaquim-chissano-wins-the-inaugural-prize-for-achievement-in-african-leadership-for-his-role-in-leading-mozambique-from-conflict-to-peace.html)  [JSON](/news/2007/10/22/joaquim-chissano-wins-the-inaugural-prize-for-achievement-in-african-leadership-for-his-role-in-leading-mozambique-from-conflict-to-peace.json)  [XML](/news/2007/10/22/joaquim-chissano-wins-the-inaugural-prize-for-achievement-in-african-leadership-for-his-role-in-leading-mozambique-from-conflict-to-peace.xml)  
+
 ### [2007-10-22](/news/2007/10/22/index.md)
 
+##### Joaquim Chissano
 #  Joaquim Chissano wins the inaugural Prize for Achievement in African Leadership for "his role in leading Mozambique from conflict to peace and democracy." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/africa/10/22/chissano.award.ap/index.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/7056159.stm)
@@ -15,5 +19,5 @@
 1. [Cyclone Dineo kills seven and destroys twenty-thousand homes in Mozambique. ](/news/2017/02/17/cyclone-dineo-kills-seven-and-destroys-twenty-thousand-homes-in-mozambique.md) _Context: Mozambique_
 2. [At least 73 people have been killed and hundreds injured in a fuel tanker explosion in the town of Caphiridzange in Mozambique's Tete Province. ](/news/2016/11/17/at-least-73-people-have-been-killed-and-hundreds-injured-in-a-fuel-tanker-explosion-in-the-town-of-caphiridzange-in-mozambique-s-tete-provin.md) _Context: Mozambique_
 3. [Australian infrastructure and transport minister Darren Chester says in a statement that debris recovered this month in Mozambique was highly likely to be from the missing Malaysia Airlines flight. ](/news/2016/03/24/australian-infrastructure-and-transport-minister-darren-chester-says-in-a-statement-that-debris-recovered-this-month-in-mozambique-was-highl.md) _Context: Mozambique_
-4. [The Obama Administration through the United States State Department expresses deep frustration over the lack of democratic progress in Thailand after last year's military coup, saying a new constitution there won't pass the "smell test" unless civil society helps to draft it. ](/news/2015/11/19/the-obama-administration-through-the-united-states-state-department-expresses-deep-frustration-over-the-lack-of-democratic-progress-in-thail.md) _Context: democratic progress_
-5. [The Wildlife Conservation Society estimates that poachers have killed half of Mozambique's elephants in the past five years. ](/news/2015/05/26/the-wildlife-conservation-society-estimates-that-poachers-have-killed-half-of-mozambique-s-elephants-in-the-past-five-years.md) _Context: Mozambique_
+4. [The Wildlife Conservation Society estimates that poachers have killed half of Mozambique's elephants in the past five years. ](/news/2015/05/26/the-wildlife-conservation-society-estimates-that-poachers-have-killed-half-of-mozambique-s-elephants-in-the-past-five-years.md) _Context: Mozambique_
+5. [Floods devastate Mozambique and Malawi, with at least 73 deaths and over 70,000 homeless. ](/news/2015/01/14/floods-devastate-mozambique-and-malawi-with-at-least-73-deaths-and-over-70-000-homeless.md) _Context: Mozambique_

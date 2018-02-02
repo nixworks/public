@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/10/karl-theodor-zu-guttenberg-is-named-germany-s-federal-minister-of-economics-and-technology.html)  [JSON](/news/2009/02/10/karl-theodor-zu-guttenberg-is-named-germany-s-federal-minister-of-economics-and-technology.json)  [XML](/news/2009/02/10/karl-theodor-zu-guttenberg-is-named-germany-s-federal-minister-of-economics-and-technology.xml)  
+
 ### [2009-02-10](/news/2009/02/10/index.md)
 
+##### Karl-Theodor zu Guttenberg
 #  Karl-Theodor zu Guttenberg is named Germany's Federal Minister of Economics and Technology. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/ap/2009/02/09/business/EU-Germany-Economy-Minister.php)
 

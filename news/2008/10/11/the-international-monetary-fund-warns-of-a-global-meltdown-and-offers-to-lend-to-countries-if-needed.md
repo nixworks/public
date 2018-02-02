@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/11/the-international-monetary-fund-warns-of-a-global-meltdown-and-offers-to-lend-to-countries-if-needed.html)  [JSON](/news/2008/10/11/the-international-monetary-fund-warns-of-a-global-meltdown-and-offers-to-lend-to-countries-if-needed.json)  [XML](/news/2008/10/11/the-international-monetary-fund-warns-of-a-global-meltdown-and-offers-to-lend-to-countries-if-needed.xml)  
+
 ### [2008-10-11](/news/2008/10/11/index.md)
 
+##### International Monetary Fund
 # The International Monetary Fund warns of a global meltdown and offers to lend to countries if needed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/business/7665515.stm)
 

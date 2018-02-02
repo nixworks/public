@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/9/a-group-of-nine-human-rights-activists-and-journ
 
 ### [2016-03-9](/news/2016/03/9/index.md)
 
+##### North Caucasus clashes
 # A group of nine human rights activists and journalists, heading to Grozny, Chechnya, in a small bus, are attacked on the Kavkaz federal highway near the Ordzhonikidzovskaya settlement at the Ingushetia border. About 20 masked men assaulted the group, confiscated some mobile phones, and set their vehicle on fire. Two of the journalists, the NGO lawyer, and the bus driver were hospitalized. A Committee to Prevent Torture representative said this is the first press tour that was not organized by the Chechen government. 
 
 A group of journalists on a tour organised by human rights activists in Chechnya was attacked by masked men on Wednesday, activists said, with their minibus burned and two reporters hospitalised. Nine people, including five journalists, were en route to Grozny, the main city in Chechnya, when their

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/30/a-fire-in-republica-cromagnon-a-nightclub-in-buenos-aires-argentina-kills-194-and-injures-714.html)  [JSON](/news/2004/12/30/a-fire-in-republica-cromagnon-a-nightclub-in-buenos-aires-argentina-kills-194-and-injures-714.json)  [XML](/news/2004/12/30/a-fire-in-republica-cromagnon-a-nightclub-in-buenos-aires-argentina-kills-194-and-injures-714.xml)  
+
 ### [2004-12-30](/news/2004/12/30/index.md)
 
+##### Repblica Cromagnon
 #  A fire in Repblica Cromagnon, a nightclub in Buenos Aires, Argentina, kills 194 and injures 714. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4136625.stm)
 2. [CNN](http://www.cnn.com/2004/WORLD/americas/12/31/argentina.fire/index.html)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/4/the-united-nations-announces-expansion-of-civili
 
 ### [2017-04-4](/news/2017/04/4/index.md)
 
+##### Battle of Mosul
 # The United Nations announces expansion of civilian camps for people fleeing Mosul, following resumption of airstrikes on ISIL-held portions of the Iraqi city. 
 
 IRBIL: The UN said on Tuesday it is expanding camps for displaced people around Mosul, as airstrikes resumed on Daesh positions in Iraq’s second largest city.More than 300,000 people have fled Mosul since the start of the US-backed campaign in October, the office of the UN Humanitarian Coordinator in Iraq said in a statement.Mosul had a pre-campaign population of about a million and half, split more or less evenly between the sides lying east and west of the Tigris river that runs through the middle.

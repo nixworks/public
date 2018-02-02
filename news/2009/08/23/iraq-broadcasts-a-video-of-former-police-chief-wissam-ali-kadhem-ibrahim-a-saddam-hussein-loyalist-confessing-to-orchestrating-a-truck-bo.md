@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/23/iraq-broadcasts-a-video-of-former-police-chief-wissam-ali-kadhem-ibrahim-a-saddam-hussein-loyalist-confessing-to-orchestrating-a-truck-bo.html)  [JSON](/news/2009/08/23/iraq-broadcasts-a-video-of-former-police-chief-wissam-ali-kadhem-ibrahim-a-saddam-hussein-loyalist-confessing-to-orchestrating-a-truck-bo.json)  [XML](/news/2009/08/23/iraq-broadcasts-a-video-of-former-police-chief-wissam-ali-kadhem-ibrahim-a-saddam-hussein-loyalist-confessing-to-orchestrating-a-truck-bo.xml)  
+
 ### [2009-08-23](/news/2009/08/23/index.md)
 
+##### Iraq
 #  Iraq broadcasts a video of former police chief Wissam Ali Kadhem Ibrahim, a Saddam Hussein loyalist, confessing to orchestrating a truck bombing at the finance ministry, the first of two bombings that killed 95 people and maimed hundreds more in Baghdad on 19 August. 
 
 Iraq has broadcast a video of a Saddam Hussein loyalist confessing to orchestrating one of two massive truck bombings that killed 95 people in Baghdad.
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/World/Story/STIStory_420604.html)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/iraq-broadcasts-truck-bomber-confession-20090824-evef.html)

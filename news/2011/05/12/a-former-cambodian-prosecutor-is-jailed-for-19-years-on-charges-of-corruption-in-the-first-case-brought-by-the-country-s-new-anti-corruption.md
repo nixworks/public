@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/a-former-cambodian-prosecutor-is-jailed-for-19-years-on-charges-of-corruption-in-the-first-case-brought-by-the-country-s-new-anti-corruption.html)  [JSON](/news/2011/05/12/a-former-cambodian-prosecutor-is-jailed-for-19-years-on-charges-of-corruption-in-the-first-case-brought-by-the-country-s-new-anti-corruption.json)  [XML](/news/2011/05/12/a-former-cambodian-prosecutor-is-jailed-for-19-years-on-charges-of-corruption-in-the-first-case-brought-by-the-country-s-new-anti-corruption.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### Cambodia
 # A former Cambodian prosecutor is jailed for 19 years on charges of corruption in the first case brought by the country's new anti-corruption unit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2011051249043/National-news/top-chan-sereyvuth-sentenced-found-guilty-of-corruption.html)
 2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1595957)

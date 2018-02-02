@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/02/20/in-europe-s-first-national-referendum-on-the-proposed-european-constitution-the-people-of-spain-vote-to-endorse-the-treaty-by-a-landslide.html)  [JSON](/news/2005/02/20/in-europe-s-first-national-referendum-on-the-proposed-european-constitution-the-people-of-spain-vote-to-endorse-the-treaty-by-a-landslide.json)  [XML](/news/2005/02/20/in-europe-s-first-national-referendum-on-the-proposed-european-constitution-the-people-of-spain-vote-to-endorse-the-treaty-by-a-landslide.xml)  
+
 ### [2005-02-20](/news/2005/02/20/index.md)
 
+##### referendum
 #  In Europe's first national referendum on the proposed European Constitution, the people of Spain vote to endorse the Treaty by a landslide 76.73% to 17.24%. However, turnout is an extremely low 42.32%, even after both the government and the main opposition party campaigned for a "yes" vote. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4280841.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aGYx9IJZMcKM&refer=europe)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000085&sid=aGYx9IJZMcKM&refer=europe)
 3. [EUobserver](http://www.euobserver.com/?sid=9&aid=18452)
 4. [EurActiv](http://www.euractiv.com/Article?tcmuri=tcm:29-135727-16&type=News)
 5. [Reuters](http://story.news.yahoo.com/news?tmpl=story&cid=574&ncid=721&e=4&u=/nm/20050220/wl_nm/eu_constitution_spain_dc)

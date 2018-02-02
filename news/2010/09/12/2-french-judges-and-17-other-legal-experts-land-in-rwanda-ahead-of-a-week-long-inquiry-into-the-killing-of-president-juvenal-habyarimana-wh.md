@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/12/2-french-judges-and-17-other-legal-experts-land-in-rwanda-ahead-of-a-week-long-inquiry-into-the-killing-of-president-juvenal-habyarimana-wh.html)  [JSON](/news/2010/09/12/2-french-judges-and-17-other-legal-experts-land-in-rwanda-ahead-of-a-week-long-inquiry-into-the-killing-of-president-juvenal-habyarimana-wh.json)  [XML](/news/2010/09/12/2-french-judges-and-17-other-legal-experts-land-in-rwanda-ahead-of-a-week-long-inquiry-into-the-killing-of-president-juvenal-habyarimana-wh.xml)  
+
 ### [2010-09-12](/news/2010/09/12/index.md)
 
+##### Rwanda
 # 2 French judges and 17 other legal experts land in Rwanda ahead of a week-long inquiry into the killing of President Juvnal Habyarimana, whose plane with French crew on board was shot down in 1994. 
 
 A French legal team arrives in Rwanda to begin a week-long inquiry into the 1994 killing of President Juvenal Habyarimana.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11277421)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

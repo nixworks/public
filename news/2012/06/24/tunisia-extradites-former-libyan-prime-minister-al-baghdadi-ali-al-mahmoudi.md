@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/24/tunisia-extradites-former-libyan-prime-minister-al-baghdadi-ali-al-mahmoudi.html)  [JSON](/news/2012/06/24/tunisia-extradites-former-libyan-prime-minister-al-baghdadi-ali-al-mahmoudi.json)  [XML](/news/2012/06/24/tunisia-extradites-former-libyan-prime-minister-al-baghdadi-ali-al-mahmoudi.xml)  
+
 ### [2012-06-24](/news/2012/06/24/index.md)
 
+##### Tunisia
 # Tunisia extradites former Libyan Prime Minister Al Baghdadi Ali Al Mahmoudi. 
 
 Libyan ex-PM al-Baghdadi al-Mahmoudi is extradited by Tunisia, where he fled during the uprising against Col Gaddafi last year.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18571464)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61108000/jpg/_61108496_012681935-1.jpg)

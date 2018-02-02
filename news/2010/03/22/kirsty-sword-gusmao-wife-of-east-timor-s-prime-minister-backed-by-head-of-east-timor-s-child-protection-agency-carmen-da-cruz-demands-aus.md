@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/22/kirsty-sword-gusmao-wife-of-east-timor-s-prime-minister-backed-by-head-of-east-timor-s-child-protection-agency-carmen-da-cruz-demands-aus.html)  [JSON](/news/2010/03/22/kirsty-sword-gusmao-wife-of-east-timor-s-prime-minister-backed-by-head-of-east-timor-s-child-protection-agency-carmen-da-cruz-demands-aus.json)  [XML](/news/2010/03/22/kirsty-sword-gusmao-wife-of-east-timor-s-prime-minister-backed-by-head-of-east-timor-s-child-protection-agency-carmen-da-cruz-demands-aus.xml)  
+
 ### [2010-03-22](/news/2010/03/22/index.md)
 
+##### Kirsty Sword Gusmo
 # Kirsty Sword Gusmo, wife of East Timor's Prime Minister, backed by head of East Timor's child protection agency Carmen da Cruz, demands Australian woman Lala Noronha return to Dili 15 Timorese teenagers she has in Malaysia. However, the youths have stated that they do not want to go back. 
 
 THE wife of East Timor&#039;s Prime Minister has demanded an Australian woman return to Dili 15 Timorese teenagers who have been under her care in Malaysia for several years.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/pms-wife-seeks-return-of-timor-teenagers-20100321-qo4a.html)
 1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)

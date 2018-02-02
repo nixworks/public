@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/1/up-to-30-people-are-feared-dead-after-the-mv-demas-victory-capsizes-and-sinks-in-choppy-persian-gulf-waters-off-the-qatari-capital-doha.html)  [JSON](/news/2009/07/1/up-to-30-people-are-feared-dead-after-the-mv-demas-victory-capsizes-and-sinks-in-choppy-persian-gulf-waters-off-the-qatari-capital-doha.json)  [XML](/news/2009/07/1/up-to-30-people-are-feared-dead-after-the-mv-demas-victory-capsizes-and-sinks-in-choppy-persian-gulf-waters-off-the-qatari-capital-doha.xml)  
+
 ### [2009-07-1](/news/2009/07/1/index.md)
 
+##### Persian Gulf
 #  Up to 30 people are feared dead after the MV "Demas Victory" capsizes and sinks in choppy Persian Gulf waters off the Qatari capital Doha. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Up-To-30-Die-As-Boat-Sinks-In-Persian-Gulf-Off-Qatari-capital-Doha/Article/200907115327085?lpos=World_News_First_World_News_Article_Teaser_Region_3&lid=ARTICLE_15327085_Up_To_30_Die_As_Boat_Sinks_In_Persian_Gulf_Off_Qatari_capital_Doha)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/4/as-part-of-an-investigation-into-the-recent-cybe
 
 ### [2017-07-4](/news/2017/07/4/index.md)
 
+##### 2017 cyberattacks on Ukraine
 # As part of an investigation into the recent cyberattacks, the servers of Ukraine's most popular accounting software company, M.E.Doc, are seized by Ukrainian police. 
 
 M.E.Doc&#x27;s owners deny that some initial infections last week were spread via a malicious update issued by their software.

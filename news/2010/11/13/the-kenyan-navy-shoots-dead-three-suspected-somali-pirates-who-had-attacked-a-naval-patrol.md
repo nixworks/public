@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/11/13/the-kenyan-navy-shoots-dead-three-suspected-somali-pirates-who-had-attacked-a-naval-patrol.html)  [JSON](/news/2010/11/13/the-kenyan-navy-shoots-dead-three-suspected-somali-pirates-who-had-attacked-a-naval-patrol.json)  [XML](/news/2010/11/13/the-kenyan-navy-shoots-dead-three-suspected-somali-pirates-who-had-attacked-a-naval-patrol.xml)  
+
 ### [2010-11-13](/news/2010/11/13/index.md)
 
+##### Kenyan navy
 # The Kenyan navy shoots dead three suspected Somali pirates who had attacked a naval patrol. 
 
 Kenyan navy officers on patrolin the India Ocean shot dead three suspected Somali pirates whoboarded their vessel after mistaking it for a merchant ship, amilitary spokesman said on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/three-pirates-shot-dead-1.746958)
-2. [Reuters](http://www.reuters.com/article/idUSLDE6AC00T20101113)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/idUSLDE6AC00T20101113)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

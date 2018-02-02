@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/17/deputy-attorney-general-rod-rosenstein-appoints
 
 ### [2017-05-17](/news/2017/05/17/index.md)
 
+##### Russian interference in the 2016 United States elections
 #  Deputy Attorney General Rod Rosenstein appoints former FBI Director Robert Mueller as special counsel to oversee the FBI's investigation of Russia's efforts to influence the 2016 election. 
 
 Mueller will oversee the investigation into efforts to influence the election.

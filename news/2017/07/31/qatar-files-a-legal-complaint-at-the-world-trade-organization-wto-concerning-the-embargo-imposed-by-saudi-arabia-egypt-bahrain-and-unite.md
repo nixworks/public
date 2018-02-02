@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/31/qatar-files-a-legal-complaint-at-the-world-trad
 
 ### [2017-07-31](/news/2017/07/31/index.md)
 
+##### 2017 Qatar crisis
 # Qatar files a legal complaint at the World Trade Organization (WTO) concerning the embargo imposed by Saudi Arabia, Egypt, Bahrain and United Arab Emirates in June. The parties have 60 days to settle the complaint to avoid WTO litigation. 
 
 

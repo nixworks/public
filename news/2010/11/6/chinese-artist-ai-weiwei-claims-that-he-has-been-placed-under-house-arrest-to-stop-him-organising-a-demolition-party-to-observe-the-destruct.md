@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/6/chinese-artist-ai-weiwei-claims-that-he-has-been-placed-under-house-arrest-to-stop-him-organising-a-demolition-party-to-observe-the-destruct.html)  [JSON](/news/2010/11/6/chinese-artist-ai-weiwei-claims-that-he-has-been-placed-under-house-arrest-to-stop-him-organising-a-demolition-party-to-observe-the-destruct.json)  [XML](/news/2010/11/6/chinese-artist-ai-weiwei-claims-that-he-has-been-placed-under-house-arrest-to-stop-him-organising-a-demolition-party-to-observe-the-destruct.xml)  
+
 ### [2010-11-6](/news/2010/11/6/index.md)
 
+##### China
 # Chinese artist Ai Weiwei claims that he has been placed under house arrest to stop him organising a demolition party to observe the destruction of his studio. 
 
 Chinese artist Ai Weiwei says he has been placed under house arrest to prevent him holding a party to mark the destruction of his Shanghai studio.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11703775)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/06/china.artist.house.arrest/index.html?eref=edition)

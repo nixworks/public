@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/12/belgium-federal-prosecutors-say-two-more-men-ha
 
 ### [2016-04-12](/news/2016/04/12/index.md)
 
+##### 2016 Brussels bombings
 #  Belgium federal prosecutors say two more men have been charged with terrorist offenses linked to last month's Brussels bombing. Also, three people connected to the last year's Paris attacks are in custody. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/16/it-is-reported-that-mohammad-khatami-an-ex-president-of-iran-has-been-barred-from-leaving-the-country.html)  [JSON](/news/2010/04/16/it-is-reported-that-mohammad-khatami-an-ex-president-of-iran-has-been-barred-from-leaving-the-country.json)  [XML](/news/2010/04/16/it-is-reported-that-mohammad-khatami-an-ex-president-of-iran-has-been-barred-from-leaving-the-country.xml)  
+
 ### [2010-04-16](/news/2010/04/16/index.md)
 
+##### Mohammad Khatami
 # It is reported that Mohammad Khatami, an ex-president of Iran, has been barred from leaving the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8624956.stm)
 

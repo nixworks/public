@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2017/06/22/u-s-president-donald-trump-clarifies-that-he-did-not-record-any-private-conversations-with-former-fbi-director-james-comey.html)  [JSON](/news/2017/06/22/u-s-president-donald-trump-clarifies-that-he-did-not-record-any-private-conversations-with-former-fbi-director-james-comey.json)  [XML](/news/2017/06/22/u-s-president-donald-trump-clarifies-that-he-did-not-record-any-private-conversations-with-former-fbi-director-james-comey.xml)  
+
 ### [2017-06-22](/news/2017/06/22/index.md)
 
+##### Dismissal of James Comey
 # U.S. President Donald Trump clarifies that he did not record any private conversations with former FBI Director James Comey. 
 
 President Donald Trump says he doesn&apos;t have any recordings of his private conversations with fired FBI Director James Comey.
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-trump-tapes-comey-20170622-story.html)
 1. [Cover Image](http://www.trbimg.com/img-594bfc34/turbine/ct-trump-tapes-comey-20170622)
+
+### Changes:
+
+1. [Dismissal of James Comey: U.S. President Donald Trump clarifies that he did not record any private conversations with former FBI Director James Comey. ](/news/2017/06/22/dismissal-of-james-comey-u-s-president-donald-trump-clarifies-that-he-did-not-record-any-private-conversations-with-former-fbi-director-ja.md) _2017-08-27 03:48:32 (First version)_
+1. [U.S. President Donald Trump clarifies that he did not record any private conversations with former FBI Director James Comey. ](/news/2017/06/22/u-s-president-donald-trump-clarifies-that-he-did-not-record-any-private-conversations-with-former-fbi-director-james-comey.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +25,4 @@ President Donald Trump says he doesn&apos;t have any recordings of his private c
 2. [U.S. President Donald Trump removes James Comey as Director of the Federal Bureau of Investigation, with Andrew G. McCabe stepping in as acting director. ](/news/2017/05/9/u-s-president-donald-trump-removes-james-comey-as-director-of-the-federal-bureau-of-investigation-with-andrew-g-mccabe-stepping-in-as-act.md) _Context: Dismissal of James Comey, Donald Trump, James Comey_
 3. [President Donald Trump claims that James Comey committed perjury during his testimony yesterday, and offers to give his own testimony, "under oath," refuting that he requested Comey to drop the Flynn investigation and that he had asked for Comey's allegence. ](/news/2017/06/9/president-donald-trump-claims-that-james-comey-committed-perjury-during-his-testimony-yesterday-and-offers-to-give-his-own-testimony-unde.md) _Context: Donald Trump, James Comey_
 4. ["The New York Times" reports that a memo from James Comey, read in part to a reporter by a Comey associate, revealed that President Donald Trump asked him to end the F.B.I. investigation of Michael T. Flynn. The White House denies the version of events in the memo. ](/news/2017/05/16/the-new-york-times-reports-that-a-memo-from-james-comey-read-in-part-to-a-reporter-by-a-comey-associate-revealed-that-president-donald-t.md) _Context: Donald Trump, James Comey_
-5. [Thai Prime Minister Prayut Chan-o-cha meets with U.S. President Donald Trump in the Oval Office. Trump says he wants to lower the U.S. trade deficit with Thailand. ](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.md) _Context: Donald Trump_
-
-### Changes:
-
-1. [Dismissal of James Comey: U.S. President Donald Trump clarifies that he did not record any private conversations with former FBI Director James Comey. ](/news/2017/06/22/dismissal-of-james-comey-u-s-president-donald-trump-clarifies-that-he-did-not-record-any-private-conversations-with-former-fbi-director-ja.md) _2017-08-27 03:48:32 (First version)_
-1. [U.S. President Donald Trump clarifies that he did not record any private conversations with former FBI Director James Comey. ](/news/2017/06/22/u-s-president-donald-trump-clarifies-that-he-did-not-record-any-private-conversations-with-former-fbi-director-james-comey.md) _(Current version)_
+5. [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md) _Context: Donald Trump_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/3/ali-asghar-soltanieh-iran-s-ambassador-to-the-international-atomic-energy-agency-iaea-says-the-agency-s-latest-report-verifies-that-iran.html)  [JSON](/news/2013/06/3/ali-asghar-soltanieh-iran-s-ambassador-to-the-international-atomic-energy-agency-iaea-says-the-agency-s-latest-report-verifies-that-iran.json)  [XML](/news/2013/06/3/ali-asghar-soltanieh-iran-s-ambassador-to-the-international-atomic-energy-agency-iaea-says-the-agency-s-latest-report-verifies-that-iran.xml)  
+
 ### [2013-06-3](/news/2013/06/3/index.md)
 
+##### Ali Asghar Soltanieh
 # Ali Asghar Soltanieh, Iran's Ambassador to the International Atomic Energy Agency (IAEA), says the agency's latest report verifies that Iran is having "technical and scientific success in its peaceful nuclear activities" and that this is "an important message to the whole world". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.com/detail/2013/06/03/306970/iaea-report-verifies-nondiversion-iran/)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/3/ten-people-are-injured-when-a-taxi-jumps-a-curb-
 
 ### [2017-07-3](/news/2017/07/3/index.md)
 
+##### Logan International Airport
 # Ten people are injured when a taxi jumps a curb and hit a group of cabdrivers outside the taxi pool building at Logan International Airport in Boston, Massachusetts. 
 
 

@@ -1,7 +1,7 @@
-## [2000-08-27](/news/2000/08/27/index.md)
 
-### [ Ostankino Tower in Moscow catches fire, three people are killed.](/news/2000/08/27/ostankino-tower-in-moscow-catches-fire-three-people-are-killed.md)
-_Context: Moscow, Ostankino Tower_
+Formats: [HTML](2000/08/27/index.html)  [JSON](2000/08/27/index.json)  [XML](2000/08/27/index.xml)  
+
+## [2000-08-27](/news/2000/08/27/index.md)
 
 ## [Previous Day...](/news/2000/08/26/index.md)
 

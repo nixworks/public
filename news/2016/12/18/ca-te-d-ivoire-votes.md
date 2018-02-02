@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/18/ca-te-d-ivoire-votes.html)  [JSON](/news/2016/1
 
 ### [2016-12-18](/news/2016/12/18/index.md)
 
+##### Ivorian parliamentary election, 2016
 # Cote d'Ivoire votes. 
 
 

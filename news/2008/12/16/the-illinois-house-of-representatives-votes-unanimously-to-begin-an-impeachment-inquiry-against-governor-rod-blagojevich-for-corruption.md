@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/12/16/the-illinois-house-of-representatives-votes-unanimously-to-begin-an-impeachment-inquiry-against-governor-rod-blagojevich-for-corruption.html)  [JSON](/news/2008/12/16/the-illinois-house-of-representatives-votes-unanimously-to-begin-an-impeachment-inquiry-against-governor-rod-blagojevich-for-corruption.json)  [XML](/news/2008/12/16/the-illinois-house-of-representatives-votes-unanimously-to-begin-an-impeachment-inquiry-against-governor-rod-blagojevich-for-corruption.xml)  
+
 ### [2008-12-16](/news/2008/12/16/index.md)
 
+##### Illinois
 #  The Illinois House of Representatives votes unanimously to begin an impeachment inquiry against Governor Rod Blagojevich for corruption. 
 
 The State House voted unanimously Monday evening to go forward with a plan to gather evidence and testimony against the governor.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2008/12/16/us/politics/16illinois.html?ref=us)
+1. [New York Times](https://www.nytimes.com/2008/12/16/us/politics/16illinois.html?ref=us)
 1. [Cover Image](https://static01.nyt.com/images/2008/12/16/us/16illinois.75.jpg)
 
 ### Related:

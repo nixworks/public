@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/12/australia-s-high-court-rules-same-sex-marriages-held-in-the-country-are-invalid.html)  [JSON](/news/2013/12/12/australia-s-high-court-rules-same-sex-marriages-held-in-the-country-are-invalid.json)  [XML](/news/2013/12/12/australia-s-high-court-rules-same-sex-marriages-held-in-the-country-are-invalid.xml)  
+
 ### [2013-12-12](/news/2013/12/12/index.md)
 
+##### Australia
 # Australia's High Court rules same-sex marriages held in the country are invalid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Businessweek](http://www.businessweek.com/news/2013-12-11/australia-s-first-same-sex-marriages-ruled-invalid-by-top-court)
 

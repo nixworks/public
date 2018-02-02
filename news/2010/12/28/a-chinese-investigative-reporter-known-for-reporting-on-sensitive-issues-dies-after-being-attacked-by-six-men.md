@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/28/a-chinese-investigative-reporter-known-for-reporting-on-sensitive-issues-dies-after-being-attacked-by-six-men.html)  [JSON](/news/2010/12/28/a-chinese-investigative-reporter-known-for-reporting-on-sensitive-issues-dies-after-being-attacked-by-six-men.json)  [XML](/news/2010/12/28/a-chinese-investigative-reporter-known-for-reporting-on-sensitive-issues-dies-after-being-attacked-by-six-men.xml)  
+
 ### [2010-12-28](/news/2010/12/28/index.md)
 
+##### China
 # A Chinese investigative reporter known for reporting on sensitive issues dies after being attacked by six men. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20101228-311392/Chinese-reporter-dies-after-violent-beating-colleague)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101228/news_20101228_56_722945.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/28/independent-lawmaker-catherine-murphy-raises-fresh-allegations-in-ireland-s-da-il-against-billionaire-denis-o-brien-prompting-criticism-ove.html)  [JSON](/news/2015/05/28/independent-lawmaker-catherine-murphy-raises-fresh-allegations-in-ireland-s-da-il-against-billionaire-denis-o-brien-prompting-criticism-ove.json)  [XML](/news/2015/05/28/independent-lawmaker-catherine-murphy-raises-fresh-allegations-in-ireland-s-da-il-against-billionaire-denis-o-brien-prompting-criticism-ove.xml)  
+
 ### [2015-05-28](/news/2015/05/28/index.md)
 
+##### Catherine Murphy
 # Independent lawmaker Catherine Murphy raises fresh allegations in Ireland's Dail against billionaire Denis O'Brien, prompting criticism over the silence of the country's media (much of it owned by O'Brien). 
 
 Independent TD Catherine Murphy has spoken in the Dáil about the business relationship between Denis O&#39;Brien and the Irish Bank Resolution Corporation (IBRC) - the former Anglo Irish Bank - including alleged details of his loans.
 
 
-### Source:
+### Sources:
 
 1. [Broadsheet](http://www.broadsheet.ie/2015/05/28/redacteds-1-25-interest-rate/)
 2. [RTE](http://www.rte.ie/news/2015/0528/704498-dail-leaders/)

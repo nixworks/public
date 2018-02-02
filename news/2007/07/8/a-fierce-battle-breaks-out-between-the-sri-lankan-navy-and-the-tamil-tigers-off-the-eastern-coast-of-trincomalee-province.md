@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/8/a-fierce-battle-breaks-out-between-the-sri-lankan-navy-and-the-tamil-tigers-off-the-eastern-coast-of-trincomalee-province.html)  [JSON](/news/2007/07/8/a-fierce-battle-breaks-out-between-the-sri-lankan-navy-and-the-tamil-tigers-off-the-eastern-coast-of-trincomalee-province.json)  [XML](/news/2007/07/8/a-fierce-battle-breaks-out-between-the-sri-lankan-navy-and-the-tamil-tigers-off-the-eastern-coast-of-trincomalee-province.xml)  
+
 ### [2007-07-8](/news/2007/07/8/index.md)
 
+##### Sri Lanka
 # A fierce battle breaks out between the Sri Lankan navy and the Tamil Tigers off the eastern coast of Trincomalee province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/asiapcf/07/08/sri.lanka.ap/index.html?eref=rss_world)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/8/african-union-troops-kill-24-militants-in-a-foiled-al-shabaab-planned-attack-in-southern-somalia-city-of-afmadow.html)  [JSON](/news/2013/08/8/african-union-troops-kill-24-militants-in-a-foiled-al-shabaab-planned-attack-in-southern-somalia-city-of-afmadow.json)  [XML](/news/2013/08/8/african-union-troops-kill-24-militants-in-a-foiled-al-shabaab-planned-attack-in-southern-somalia-city-of-afmadow.xml)  
+
 ### [2013-08-8](/news/2013/08/8/index.md)
 
+##### African Union
 # African Union troops kill 24 militants in a foiled Al-Shabaab planned attack in southern Somalia city of Afmadow. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/africa/2013-08/08/c_132614524.htm)
 

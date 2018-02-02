@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2015/06/9/hsbc-announces-plans-to-cut-8-000-jobs-in-the-united-kingdom-one-sixth-of-its-u-k-workforce-via-natural-attrition-as-it-restructures-it.html)  [JSON](/news/2015/06/9/hsbc-announces-plans-to-cut-8-000-jobs-in-the-united-kingdom-one-sixth-of-its-u-k-workforce-via-natural-attrition-as-it-restructures-it.json)  [XML](/news/2015/06/9/hsbc-announces-plans-to-cut-8-000-jobs-in-the-united-kingdom-one-sixth-of-its-u-k-workforce-via-natural-attrition-as-it-restructures-it.xml)  
+
 ### [2015-06-9](/news/2015/06/9/index.md)
 
+##### HSBC
 # HSBC announces plans to cut 8,000 jobs in the United Kingdom, one-sixth of its U.K. workforce, via "natural attrition" as it restructures its banking business. A total of 25,000 jobs could be axed globally. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-33058957?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83518000/jpg/_83518379_hsbc_afp.jpg)
-
-### Related:
-
-1. [British-based bank HSBC will pay U.S. authorities $1.9 billion in a settlement over money laundering for drug cartels and countries under sanctions, the largest ever such penalty. ](/news/2012/12/11/british-based-bank-hsbc-will-pay-u-s-authorities-1-9-billion-in-a-settlement-over-money-laundering-for-drug-cartels-and-countries-under-sa.md) _Context: HSBC, United Kingdom_
-2. [The United Kingdom's largest bank HSBC doubles its profits to $19bn (GBP11.8bn) in 2010. ](/news/2011/02/28/the-united-kingdom-s-largest-bank-hsbc-doubles-its-profits-to-19bn-gbp11-8bn-in-2010.md) _Context: HSBC, United Kingdom_
-3. [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md) _Context: United Kingdom_
-4. [According to "The Guardian", the September disclosed hack attack at United Kingdom accounting firm Deloitte compromised a server with emails of some 350 clients, including U.S. government agencies and large corporations. Deloitte disputes the story, saying "very few" clients were affected. ](/news/2017/10/10/according-to-the-guardian-the-september-disclosed-hack-attack-at-united-kingdom-accounting-firm-deloitte-compromised-a-server-with-emails.md) _Context: United Kingdom_
-5. [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving tens of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md) _Context: United Kingdom_
 
 ### Changes:
 
 1. [HSBC announces plans to cut 8,000 jobs in the United Kingdom, one-sixth of its U.K. workforce, via "natural attrition" as it restructures its banking business. A total of 25,000 jobs could be axed globally. ](/news/2015/06/9/hsbc-announces-plans-to-cut-8-000-jobs-in-the-united-kingdom-one-sixth-of-its-u-k-workforce-via-natural-attrition-as-it-restructures-i.md) _2017-08-25 03:42:12 (First version)_
 1. [HSBC announces plans to cut 8,000 jobs in the United Kingdom, one-sixth of its U.K. workforce, via "natural attrition" as it restructures its banking business. A total of 25,000 jobs could be axed globally. ](/news/2015/06/9/hsbc-announces-plans-to-cut-8-000-jobs-in-the-united-kingdom-one-sixth-of-its-u-k-workforce-via-natural-attrition-as-it-restructures-it.md) _(Current version)_
+
+### Related:
+
+1. [British-based bank HSBC will pay U.S. authorities $1.9 billion in a settlement over money laundering for drug cartels and countries under sanctions, the largest ever such penalty. ](/news/2012/12/11/british-based-bank-hsbc-will-pay-u-s-authorities-1-9-billion-in-a-settlement-over-money-laundering-for-drug-cartels-and-countries-under-sa.md) _Context: British, HSBC_
+2. [The United Kingdom's largest bank HSBC doubles its profits to $19bn (GBP11.8bn) in 2010. ](/news/2011/02/28/the-united-kingdom-s-largest-bank-hsbc-doubles-its-profits-to-19bn-gbp11-8bn-in-2010.md) _Context: British, HSBC_
+3. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: British_
+4. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: British_
+5. [The Bayeux Tapestry, which depicts the Norman conquest of England, is to be displayed in the United Kingdom for the first time after French President Emmanuel Macron agreed to loan it out for the first time in 950 years. Subject to the outcome of tests, the loan is expected to happen somewhere after 2020. ](/news/2018/01/17/the-bayeux-tapestry-which-depicts-the-norman-conquest-of-england-is-to-be-displayed-in-the-united-kingdom-for-the-first-time-after-french.md) _Context: British_

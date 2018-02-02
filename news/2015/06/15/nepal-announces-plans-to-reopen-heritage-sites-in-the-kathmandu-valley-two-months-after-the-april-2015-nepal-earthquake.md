@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/15/nepal-announces-plans-to-reopen-heritage-sites-in-the-kathmandu-valley-two-months-after-the-april-2015-nepal-earthquake.html)  [JSON](/news/2015/06/15/nepal-announces-plans-to-reopen-heritage-sites-in-the-kathmandu-valley-two-months-after-the-april-2015-nepal-earthquake.json)  [XML](/news/2015/06/15/nepal-announces-plans-to-reopen-heritage-sites-in-the-kathmandu-valley-two-months-after-the-april-2015-nepal-earthquake.xml)  
+
 ### [2015-06-15](/news/2015/06/15/index.md)
 
+##### Nepal
 # Nepal announces plans to reopen heritage sites in the Kathmandu Valley two months after the April 2015 Nepal earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33130231)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/83625000/jpg/_83625845_durbar.jpg)

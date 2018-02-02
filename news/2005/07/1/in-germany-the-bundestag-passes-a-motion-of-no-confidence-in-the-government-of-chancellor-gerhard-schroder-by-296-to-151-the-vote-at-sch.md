@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/1/in-germany-the-bundestag-passes-a-motion-of-no-confidence-in-the-government-of-chancellor-gerhard-schroder-by-296-to-151-the-vote-at-sch.html)  [JSON](/news/2005/07/1/in-germany-the-bundestag-passes-a-motion-of-no-confidence-in-the-government-of-chancellor-gerhard-schroder-by-296-to-151-the-vote-at-sch.json)  [XML](/news/2005/07/1/in-germany-the-bundestag-passes-a-motion-of-no-confidence-in-the-government-of-chancellor-gerhard-schroder-by-296-to-151-the-vote-at-sch.xml)  
+
 ### [2005-07-1](/news/2005/07/1/index.md)
 
+##### Bundestag
 #  In Germany, the Bundestag passes a Motion of no confidence in the government of Chancellor Gerhard Schrder by 296 to 151. The vote, at Schrder's insistence, opens the way for new elections to be held on September 18. (Wikinews) 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4639781.stm)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1636171,00.html)

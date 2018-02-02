@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/6/the-giant-panda-is-removed-from-iucn-s-endangere
 
 ### [2016-09-6](/news/2016/09/6/index.md)
 
+##### panda
 # The giant panda is removed from IUCN's endangered species list but is replaced by the Eastern gorilla. 
 
 

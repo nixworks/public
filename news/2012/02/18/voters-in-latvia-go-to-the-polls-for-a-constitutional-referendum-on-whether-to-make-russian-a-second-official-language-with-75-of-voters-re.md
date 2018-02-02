@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/18/voters-in-latvia-go-to-the-polls-for-a-constitutional-referendum-on-whether-to-make-russian-a-second-official-language-with-75-of-voters-re.html)  [JSON](/news/2012/02/18/voters-in-latvia-go-to-the-polls-for-a-constitutional-referendum-on-whether-to-make-russian-a-second-official-language-with-75-of-voters-re.json)  [XML](/news/2012/02/18/voters-in-latvia-go-to-the-polls-for-a-constitutional-referendum-on-whether-to-make-russian-a-second-official-language-with-75-of-voters-re.xml)  
+
 ### [2012-02-18](/news/2012/02/18/index.md)
 
+##### Latvia
 # Voters in Latvia go to the polls for a constitutional referendum on whether to make Russian a second official language with 75% of voters rejecting the proposal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iFox2ble4ReEOrUj_1U_PP_tAF1g?docId=CNG.0170e299dccfe0c32de778f254b7d9ad.121)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-17083397)

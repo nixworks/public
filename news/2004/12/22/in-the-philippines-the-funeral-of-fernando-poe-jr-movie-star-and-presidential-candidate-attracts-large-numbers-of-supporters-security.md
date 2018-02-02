@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/12/22/in-the-philippines-the-funeral-of-fernando-poe-jr-movie-star-and-presidential-candidate-attracts-large-numbers-of-supporters-security.html)  [JSON](/news/2004/12/22/in-the-philippines-the-funeral-of-fernando-poe-jr-movie-star-and-presidential-candidate-attracts-large-numbers-of-supporters-security.json)  [XML](/news/2004/12/22/in-the-philippines-the-funeral-of-fernando-poe-jr-movie-star-and-presidential-candidate-attracts-large-numbers-of-supporters-security.xml)  
+
 ### [2004-12-22](/news/2004/12/22/index.md)
 
+##### Philippines
 #  In the Philippines, the funeral of Fernando Poe, Jr, movie star and presidential candidate, attracts large numbers of supporters. Security is high due to rumors of potential anti-government revolt. The detained ex-president Joseph Estrada condemns incumbent president Gloria Arroyo in his eulogy. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [Philippine Daily Inquirer](http://news.inq7.net/top/index.php?index=1&story_id=21991)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7155426)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7155426)
 
 ### Related:
 

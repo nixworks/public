@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/17/the-fifth-summit-of-the-americas-begins-in-port-of-spain-trinidad-and-tobago.html)  [JSON](/news/2009/04/17/the-fifth-summit-of-the-americas-begins-in-port-of-spain-trinidad-and-tobago.json)  [XML](/news/2009/04/17/the-fifth-summit-of-the-americas-begins-in-port-of-spain-trinidad-and-tobago.xml)  
+
 ### [2009-04-17](/news/2009/04/17/index.md)
 
+##### Fifth
 #  The Fifth Summit of the Americas begins in Port-of-Spain, Trinidad and Tobago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Barbados Advocate](http://www.barbadosadvocate.com/newsitem.asp?more=business&NewsID=3064)
 

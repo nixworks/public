@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/12/typhoon-noul-arrives-at-the-southern-japanese-islands-at-amami-oshima-before-moving-through-kyushu-and-then-honshu.html)  [JSON](/news/2015/05/12/typhoon-noul-arrives-at-the-southern-japanese-islands-at-amami-oshima-before-moving-through-kyushu-and-then-honshu.json)  [XML](/news/2015/05/12/typhoon-noul-arrives-at-the-southern-japanese-islands-at-amami-oshima-before-moving-through-kyushu-and-then-honshu.xml)  
+
 ### [2015-05-12](/news/2015/05/12/index.md)
 
+##### Typhoon Noul
 # Typhoon Noul arrives at the southern Japanese islands at Amami Oshima before moving through Kyushu and then Honshu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/fc70f72d2cfb48cca85d3cc27aca3356/typhoon-slams-north-tip-philippines-2500-evacuated)
 

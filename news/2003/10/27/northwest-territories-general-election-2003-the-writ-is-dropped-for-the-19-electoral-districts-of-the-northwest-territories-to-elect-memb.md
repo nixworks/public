@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/27/northwest-territories-general-election-2003-the-writ-is-dropped-for-the-19-electoral-districts-of-the-northwest-territories-to-elect-memb.html)  [JSON](/news/2003/10/27/northwest-territories-general-election-2003-the-writ-is-dropped-for-the-19-electoral-districts-of-the-northwest-territories-to-elect-memb.json)  [XML](/news/2003/10/27/northwest-territories-general-election-2003-the-writ-is-dropped-for-the-19-electoral-districts-of-the-northwest-territories-to-elect-memb.xml)  
+
 ### [2003-10-27](/news/2003/10/27/index.md)
 
+##### Northwest Territories general election, 2003
 #  Northwest Territories general election, 2003: The writ is dropped for the 19 electoral districts of the Northwest Territories to elect members to the 15th session of the consensus government.
 
 

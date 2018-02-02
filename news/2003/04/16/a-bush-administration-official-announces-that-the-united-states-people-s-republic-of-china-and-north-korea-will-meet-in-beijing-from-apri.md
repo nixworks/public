@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/16/a-bush-administration-official-announces-that-the-united-states-people-s-republic-of-china-and-north-korea-will-meet-in-beijing-from-apri.html)  [JSON](/news/2003/04/16/a-bush-administration-official-announces-that-the-united-states-people-s-republic-of-china-and-north-korea-will-meet-in-beijing-from-apri.json)  [XML](/news/2003/04/16/a-bush-administration-official-announces-that-the-united-states-people-s-republic-of-china-and-north-korea-will-meet-in-beijing-from-apri.xml)  
+
 ### [2003-04-16](/news/2003/04/16/index.md)
 
+##### George W. Bush
 #  A Bush administration official announces that the United States, People's Republic of China, and North Korea will meet in Beijing from April 23 to April 24 to discuss North Korea's suspected nuclear weapons program. The United States had refused bilateral discussions with North Korea since October 2002, insisting on multinational talks. The United States will be represented by Assistant Secretary of State James Kelly.
 
 

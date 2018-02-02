@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/8/the-bank-of-england-cuts-interest-rates-to-1-5-percent-its-lowest-level-in-its-315-year-history.html)  [JSON](/news/2009/01/8/the-bank-of-england-cuts-interest-rates-to-1-5-percent-its-lowest-level-in-its-315-year-history.json)  [XML](/news/2009/01/8/the-bank-of-england-cuts-interest-rates-to-1-5-percent-its-lowest-level-in-its-315-year-history.xml)  
+
 ### [2009-01-8](/news/2009/01/8/index.md)
 
+##### Bank of England
 #  The Bank of England cuts interest rates to 1.5 percent, its lowest level in its 315-year history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/7817453.stm)
 

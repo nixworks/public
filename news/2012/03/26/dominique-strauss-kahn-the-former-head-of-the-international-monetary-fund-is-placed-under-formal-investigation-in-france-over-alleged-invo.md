@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/26/dominique-strauss-kahn-the-former-head-of-the-international-monetary-fund-is-placed-under-formal-investigation-in-france-over-alleged-invo.html)  [JSON](/news/2012/03/26/dominique-strauss-kahn-the-former-head-of-the-international-monetary-fund-is-placed-under-formal-investigation-in-france-over-alleged-invo.json)  [XML](/news/2012/03/26/dominique-strauss-kahn-the-former-head-of-the-international-monetary-fund-is-placed-under-formal-investigation-in-france-over-alleged-invo.xml)  
+
 ### [2012-03-26](/news/2012/03/26/index.md)
 
+##### Dominique Strauss-Kahn
 # Dominique Strauss-Kahn, the former head of the International Monetary Fund, is placed under formal investigation in France over alleged involvement in a prostitution ring. 
 
 The former head of the International Monetary Fund, Dominique Strauss-Kahn, faces possible charges in France over an alleged prostitution ring.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17518628)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/59315000/jpg/_59315749_014366452-1.jpg)

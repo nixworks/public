@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/3/fresh-protests-are-reported-in-the-province-of-xinjiang-in-western-china-after-a-series-of-stabbings-with-hypodermic-needles.html)  [JSON](/news/2009/09/3/fresh-protests-are-reported-in-the-province-of-xinjiang-in-western-china-after-a-series-of-stabbings-with-hypodermic-needles.json)  [XML](/news/2009/09/3/fresh-protests-are-reported-in-the-province-of-xinjiang-in-western-china-after-a-series-of-stabbings-with-hypodermic-needles.xml)  
+
 ### [2009-09-3](/news/2009/09/3/index.md)
 
+##### Xinjiang
 #  Fresh protests are reported in the province of Xinjiang in western China, after a series of stabbings with hypodermic needles. 
 
 Hundreds of Han Chinese demonstrate in Urumqui against syringe attacks, state media reports.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/09/200993101354185321.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8235305.stm)

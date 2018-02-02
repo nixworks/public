@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/04/7/the-world-wide-fund-for-nature-expresses-concern-over-the-potential-destruction-of-coral-reefs-after-the-2007-solomon-islands-earthquake-w.html)  [JSON](/news/2007/04/7/the-world-wide-fund-for-nature-expresses-concern-over-the-potential-destruction-of-coral-reefs-after-the-2007-solomon-islands-earthquake-w.json)  [XML](/news/2007/04/7/the-world-wide-fund-for-nature-expresses-concern-over-the-potential-destruction-of-coral-reefs-after-the-2007-solomon-islands-earthquake-w.xml)  
+
 ### [2007-04-7](/news/2007/04/7/index.md)
 
+##### World Wildlife Fund
 #  The World Wide Fund for Nature expresses concern over the potential destruction of coral reefs after the 2007 Solomon Islands earthquake, which caused the island of Ranongga in the New Georgia Islands group to rise three meters (10 ft.), extending its entire shoreline by 70 meters on average. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo!](http://news.yahoo.com/s/afp/20070407/sc_afp/solomonsquakeisland;_ylt=AmWxTgtJeBcLwaF8np6Dex0DW7oF)
+1. [AFP via Yahoo!](https://news.yahoo.com/s/afp/20070407/sc_afp/solomonsquakeisland;_ylt=AmWxTgtJeBcLwaF8np6Dex0DW7oF)
 
 ### Related:
 

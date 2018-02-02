@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/03/26/british-rock-band-the-rolling-stones-performs-in-havana-cuba-playing-an-open-air-free-concert-in-the-country-in-what-has-been-called-a-h.html)  [JSON](/news/2016/03/26/british-rock-band-the-rolling-stones-performs-in-havana-cuba-playing-an-open-air-free-concert-in-the-country-in-what-has-been-called-a-h.json)  [XML](/news/2016/03/26/british-rock-band-the-rolling-stones-performs-in-havana-cuba-playing-an-open-air-free-concert-in-the-country-in-what-has-been-called-a-h.xml)  
+
 ### [2016-03-26](/news/2016/03/26/index.md)
 
+##### British
 # British rock band The Rolling Stones performs in Havana, Cuba, playing an open-air free concert in the country, in what has been called a "historic moment." Western music used to be banned in Cuba as being "ideologically divergent." 
 
 Veteran rockers become first western band to play in an open-air concert in Havana after visit by Barack Obama this week opened up country again
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/music/2016/mar/26/rolling-stones-enjoy-historic-cuba-gig-havana-obama)
+1. [The Guardian](https://www.theguardian.com/music/2016/mar/26/rolling-stones-enjoy-historic-cuba-gig-havana-obama)
 1. [Cover Image](https://i.guim.co.uk/img/media/8478691b0a1ac41d582ac7b6a92e12f560601ddc/0_610_6043_3626/master/6043.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=4d79dd405bd947fa7131695526625e90)
 
 ### Related:

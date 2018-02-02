@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/12/a-serviceman-stationed-at-the-russian-102nd-military-base-valeri-permyakov-kills-six-members-of-an-armenian-family-including-a-two-year-o.html)  [JSON](/news/2015/01/12/a-serviceman-stationed-at-the-russian-102nd-military-base-valeri-permyakov-kills-six-members-of-an-armenian-family-including-a-two-year-o.json)  [XML](/news/2015/01/12/a-serviceman-stationed-at-the-russian-102nd-military-base-valeri-permyakov-kills-six-members-of-an-armenian-family-including-a-two-year-o.xml)  
+
 ### [2015-01-12](/news/2015/01/12/index.md)
 
+##### Russian 102nd Military Base
 # A serviceman stationed at the Russian 102nd Military Base, Valeri Permyakov, kills six members of an Armenian family, including a two-year-old child, and, in addition, wounds a six-month-old child, in Gyumri, Armenia, initiating a manhunt by the Armenian security services until his capture. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ArmeniaNow](http://armenianow.com/news/59715/armenia_president_serzh_sargsyan_gyumri_murder)
 2. [News.Armenia](http://news.am/arm/news/247459.html)

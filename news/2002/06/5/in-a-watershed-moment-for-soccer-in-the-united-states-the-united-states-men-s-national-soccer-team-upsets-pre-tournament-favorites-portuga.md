@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/06/5/in-a-watershed-moment-for-soccer-in-the-united-states-the-united-states-men-s-national-soccer-team-upsets-pre-tournament-favorites-portuga.html)  [JSON](/news/2002/06/5/in-a-watershed-moment-for-soccer-in-the-united-states-the-united-states-men-s-national-soccer-team-upsets-pre-tournament-favorites-portuga.json)  [XML](/news/2002/06/5/in-a-watershed-moment-for-soccer-in-the-united-states-the-united-states-men-s-national-soccer-team-upsets-pre-tournament-favorites-portuga.xml)  
+
 ### [2002-06-5](/news/2002/06/5/index.md)
 
+##### soccer in the United States
 #  In a watershed moment for soccer in the United States, the United States men's national soccer team upsets pre-tournament favorites Portugal 3-2, in their opening match of the 2002 FIFA World Cup.
 
 

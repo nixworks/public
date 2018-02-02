@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/19/yigal-amir-assassin-of-yitzhak-rabin-plans-to-marry.html)  [JSON](/news/2004/01/19/yigal-amir-assassin-of-yitzhak-rabin-plans-to-marry.json)  [XML](/news/2004/01/19/yigal-amir-assassin-of-yitzhak-rabin-plans-to-marry.xml)  
+
 ### [2004-01-19](/news/2004/01/19/index.md)
 
+##### Yigal Amir
 #  Yigal Amir, assassin of Yitzhak Rabin, plans to marry.
 
 

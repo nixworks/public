@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/05/29/luxembourg-ratifies-the-treaty-of-lisbon-becoming-the-fifteenth-country-to-do-so.html)  [JSON](/news/2008/05/29/luxembourg-ratifies-the-treaty-of-lisbon-becoming-the-fifteenth-country-to-do-so.json)  [XML](/news/2008/05/29/luxembourg-ratifies-the-treaty-of-lisbon-becoming-the-fifteenth-country-to-do-so.xml)  
+
 ### [2008-05-29](/news/2008/05/29/index.md)
 
+##### Luxembourg
 #  Luxembourg ratifies the Treaty of Lisbon becoming the fifteenth country to do so. 
 
 

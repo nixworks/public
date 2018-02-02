@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/14/the-u-s-state-of-georgia-executes-vietnam-war-veteran-andrew-brannan-for-the-1998-murder-of-laurens-county-sheriff-s-deputy-kyle-dinkheller.html)  [JSON](/news/2015/01/14/the-u-s-state-of-georgia-executes-vietnam-war-veteran-andrew-brannan-for-the-1998-murder-of-laurens-county-sheriff-s-deputy-kyle-dinkheller.json)  [XML](/news/2015/01/14/the-u-s-state-of-georgia-executes-vietnam-war-veteran-andrew-brannan-for-the-1998-murder-of-laurens-county-sheriff-s-deputy-kyle-dinkheller.xml)  
+
 ### [2015-01-14](/news/2015/01/14/index.md)
 
+##### Georgia
 # The U.S. state of Georgia executes Vietnam War veteran Andrew Brannan for the 1998 murder of Laurens County sheriff's deputy Kyle Dinkheller. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/2015/01/13/andrew-brannan-execution_n_6466968.html?hpcrime=y)
 

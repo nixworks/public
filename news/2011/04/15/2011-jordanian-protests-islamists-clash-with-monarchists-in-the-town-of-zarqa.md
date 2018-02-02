@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/15/2011-jordanian-protests-islamists-clash-with-monarchists-in-the-town-of-zarqa.html)  [JSON](/news/2011/04/15/2011-jordanian-protests-islamists-clash-with-monarchists-in-the-town-of-zarqa.json)  [XML](/news/2011/04/15/2011-jordanian-protests-islamists-clash-with-monarchists-in-the-town-of-zarqa.xml)  
+
 ### [2011-04-15](/news/2011/04/15/index.md)
 
+##### 2011 Jordanian protests
 # 2011 Jordanian protests: Islamists clash with monarchists in the town of Zarqa. 
 
 Islamists clash with monarchy supporters in industrial town of Zarqa.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011415153839185473.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/16/201141641031966734_20.jpg)

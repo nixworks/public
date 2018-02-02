@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/29/in-response-to-a-federal-appeal-u-s-district-ju
 
 ### [2017-03-29](/news/2017/03/29/index.md)
 
+##### United States immigration ban
 # In response to a federal appeal, U.S. District Judge Derrick Watson (Hawaii), who on March 15 issued a temporary, national restraining order on implementation of the revised federal immigration-refugee rules, upgrades his earlier ruling to a preliminary injunction until Hawaii's lawsuit is resolved. 
 
 The Hawaii federal judge who brought President Trump&apos;s revised travel ban to a national halt this month extended his order blocking the...

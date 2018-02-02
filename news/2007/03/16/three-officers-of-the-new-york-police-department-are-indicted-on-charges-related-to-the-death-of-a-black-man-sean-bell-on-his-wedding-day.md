@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/16/three-officers-of-the-new-york-police-department-are-indicted-on-charges-related-to-the-death-of-a-black-man-sean-bell-on-his-wedding-day.html)  [JSON](/news/2007/03/16/three-officers-of-the-new-york-police-department-are-indicted-on-charges-related-to-the-death-of-a-black-man-sean-bell-on-his-wedding-day.json)  [XML](/news/2007/03/16/three-officers-of-the-new-york-police-department-are-indicted-on-charges-related-to-the-death-of-a-black-man-sean-bell-on-his-wedding-day.xml)  
+
 ### [2007-03-16](/news/2007/03/16/index.md)
 
+##### New York Police Department
 #  Three officers of the New York Police Department are indicted on charges related to the death of a black man, Sean Bell, on his wedding day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/03/16/america/NA-GEN-US-Police-Shooting.php)
 

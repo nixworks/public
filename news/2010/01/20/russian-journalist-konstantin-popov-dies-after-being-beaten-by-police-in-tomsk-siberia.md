@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/01/20/russian-journalist-konstantin-popov-dies-after-being-beaten-by-police-in-tomsk-siberia.html)  [JSON](/news/2010/01/20/russian-journalist-konstantin-popov-dies-after-being-beaten-by-police-in-tomsk-siberia.json)  [XML](/news/2010/01/20/russian-journalist-konstantin-popov-dies-after-being-beaten-by-police-in-tomsk-siberia.xml)  
+
 ### [2010-01-20](/news/2010/01/20/index.md)
 
+##### Russia
 # Russian journalist Konstantin Popov dies after being beaten by police in Tomsk, Siberia. 
 
 A Russian journalist died on Wednesday after being beaten in police custody, authorities and colleagues said, deepening concern about police abuses after a string of scandals involving violence and corruption.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE60J5EZ20100120)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSTRE60J5EZ20100120)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/8/roxana-baldetti-the-vice-president-of-guatemala-resigns-over-a-corruption-scandal.html)  [JSON](/news/2015/05/8/roxana-baldetti-the-vice-president-of-guatemala-resigns-over-a-corruption-scandal.json)  [XML](/news/2015/05/8/roxana-baldetti-the-vice-president-of-guatemala-resigns-over-a-corruption-scandal.xml)  
+
 ### [2015-05-8](/news/2015/05/8/index.md)
 
+##### Roxana Baldetti
 # Roxana Baldetti, the Vice President of Guatemala, resigns over a corruption scandal. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/guatemala-vice-president-resigns-amid-corruption-scandal-30917256)
 

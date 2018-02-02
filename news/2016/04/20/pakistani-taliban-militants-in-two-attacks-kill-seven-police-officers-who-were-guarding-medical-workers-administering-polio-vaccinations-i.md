@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/pakistani-taliban-militants-in-two-attacks-kill
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### War in North-West Pakistan
 # Pakistani Taliban militants, in two attacks, kill seven police officers who were guarding medical workers administering polio vaccinations in Karachi. 
 
 Group claims its gunmen carried out the two separate attacks in Karachi but officials say medical teams were not targeted

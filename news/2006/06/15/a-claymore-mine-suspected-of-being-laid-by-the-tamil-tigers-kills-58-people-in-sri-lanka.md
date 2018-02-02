@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/15/a-claymore-mine-suspected-of-being-laid-by-the-tamil-tigers-kills-58-people-in-sri-lanka.html)  [JSON](/news/2006/06/15/a-claymore-mine-suspected-of-being-laid-by-the-tamil-tigers-kills-58-people-in-sri-lanka.json)  [XML](/news/2006/06/15/a-claymore-mine-suspected-of-being-laid-by-the-tamil-tigers-kills-58-people-in-sri-lanka.xml)  
+
 ### [2006-06-15](/news/2006/06/15/index.md)
 
+##### claymore mine
 #  A claymore mine suspected of being laid by the Tamil Tigers kills 58 people in Sri Lanka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://go.reuters.com/newsArticle.jhtml?type=topNews&storyID=12534210&src=rss/topNews)
 

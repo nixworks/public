@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/16/the-european-parliament-approves-four-new-european-commissioners-jyrki-katainen-as-commissioner-for-economic-and-monetary-affairs-and-the-e.html)  [JSON](/news/2014/07/16/the-european-parliament-approves-four-new-european-commissioners-jyrki-katainen-as-commissioner-for-economic-and-monetary-affairs-and-the-e.json)  [XML](/news/2014/07/16/the-european-parliament-approves-four-new-european-commissioners-jyrki-katainen-as-commissioner-for-economic-and-monetary-affairs-and-the-e.xml)  
+
 ### [2014-07-16](/news/2014/07/16/index.md)
 
+##### The European Parliament
 # The European Parliament approves four new European commissioners: Jyrki Katainen as Commissioner for Economic and Monetary Affairs and the Euro, Ferdinando Nelli Feroci as Commissioner for Industry and Entrepreneurship, Martine Reicherts as Commissioner for Justice, Fundamental Rights and Citizenship, and Jacek Dominik as Commissioner for Financial Programming and Budget. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [European Parliament](http://www.elections2014.eu/en/news-room/content/20140715IPR52449/html/MEPs-say-yes-to-four-new-Commissioners-to-replace-those-who-left-to-become-MEPs)
 

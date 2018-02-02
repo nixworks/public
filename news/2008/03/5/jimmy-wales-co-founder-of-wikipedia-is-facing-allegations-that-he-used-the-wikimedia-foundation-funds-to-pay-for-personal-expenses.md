@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/03/5/jimmy-wales-co-founder-of-wikipedia-is-facing-allegations-that-he-used-the-wikimedia-foundation-funds-to-pay-for-personal-expenses.html)  [JSON](/news/2008/03/5/jimmy-wales-co-founder-of-wikipedia-is-facing-allegations-that-he-used-the-wikimedia-foundation-funds-to-pay-for-personal-expenses.json)  [XML](/news/2008/03/5/jimmy-wales-co-founder-of-wikipedia-is-facing-allegations-that-he-used-the-wikimedia-foundation-funds-to-pay-for-personal-expenses.xml)  
+
 ### [2008-03-5](/news/2008/03/5/index.md)
 
+##### Jimmy Wales
 #  Jimmy Wales, co-founder of Wikipedia, is facing allegations that he used the Wikimedia Foundation funds to pay for personal expenses. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/03/04/AR2008030401869.html)
+1. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2008/03/04/AR2008030401869.html)
 
 ### Related:
 

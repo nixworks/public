@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/03/13/roc-presidential-election-2004-2-million-people-march-in-24-rallies-across-taiwan-in-support-of-lien-chan-s-bid-for-the-presidency.html)  [JSON](/news/2004/03/13/roc-presidential-election-2004-2-million-people-march-in-24-rallies-across-taiwan-in-support-of-lien-chan-s-bid-for-the-presidency.json)  [XML](/news/2004/03/13/roc-presidential-election-2004-2-million-people-march-in-24-rallies-across-taiwan-in-support-of-lien-chan-s-bid-for-the-presidency.xml)  
+
 ### [2004-03-13](/news/2004/03/13/index.md)
 
+##### 2004 presidential election
 #  ROC presidential election, 2004: 2 million people march in 24 rallies across Taiwan in support of Lien Chan's bid for the presidency. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=4560910)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=4560910)
 
 ### Related:
 

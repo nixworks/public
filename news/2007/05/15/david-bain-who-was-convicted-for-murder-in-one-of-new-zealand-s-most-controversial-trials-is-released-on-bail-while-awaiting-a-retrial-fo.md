@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/05/15/david-bain-who-was-convicted-for-murder-in-one-of-new-zealand-s-most-controversial-trials-is-released-on-bail-while-awaiting-a-retrial-fo.html)  [JSON](/news/2007/05/15/david-bain-who-was-convicted-for-murder-in-one-of-new-zealand-s-most-controversial-trials-is-released-on-bail-while-awaiting-a-retrial-fo.json)  [XML](/news/2007/05/15/david-bain-who-was-convicted-for-murder-in-one-of-new-zealand-s-most-controversial-trials-is-released-on-bail-while-awaiting-a-retrial-fo.xml)  
+
 ### [2007-05-15](/news/2007/05/15/index.md)
 
+##### David Bain
 #  David Bain, who was convicted for murder in one of New Zealand's most controversial trials, is released on bail while awaiting a retrial following an appeal to the Privy Council in March. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Press via stuff.co.nz](http://stuff.co.nz/4060534a10.html)
 
 ### Related:
 
 1. [ David Bain, after an extensive three-month retrial, is found not guilty of murdering five family members in Dunedin, New Zealand on 20 June 1994. ](/news/2009/06/5/david-bain-after-an-extensive-three-month-retrial-is-found-not-guilty-of-murdering-five-family-members-in-dunedin-new-zealand-on-20-june.md) _Context: David Bain, New Zealand_
-2. [Voters in New Zealand go to the polls, electing all members of their House of Representatives and the consequent Prime Minister. ](/news/2017/09/23/voters-in-new-zealand-go-to-the-polls-electing-all-members-of-their-house-of-representatives-and-the-consequent-prime-minister.md) _Context: New Zealand_
-3. [Brazil is to investigate the supposed murder of ten members of an Amazonian tribe in the Javari Valley. ](/news/2017/09/11/brazil-is-to-investigate-the-supposed-murder-of-ten-members-of-an-amazonian-tribe-in-the-javari-valley.md) _Context: murder_
-4. [The Labour Party, led by Jacinda Ardern, surges in the polls and is neck-and-neck with the National Party, led by Bill English, for the race for Prime Minister of New Zealand. ](/news/2017/09/1/the-labour-party-led-by-jacinda-ardern-surges-in-the-polls-and-is-neck-and-neck-with-the-national-party-led-by-bill-english-for-the-race.md) _Context: New Zealand_
-5. [Two more Filipino journalists are murdered in a span of two days adding to toll of more than a hundred journalists killed since 2000. ](/news/2017/08/7/two-more-filipino-journalists-are-murdered-in-a-span-of-two-days-adding-to-toll-of-more-than-a-hundred-journalists-killed-since-2000.md) _Context: murder_
+2. [Seven survivors from the MV "Butiraoi", six adults and a baby, are found in a dinghy and rescued, four days after the 50-passenger ferry sank in Kiribati. New Zealand rescuers say there is a lot of debris near the dinghy, but no sign of anyone else. ](/news/2018/01/28/seven-survivors-from-the-mv-butiraoi-six-adults-and-a-baby-are-found-in-a-dinghy-and-rescued-four-days-after-the-50-passenger-ferry-san.md) _Context: New Zealand_
+3. [Rocket Lab successfully launches test rocket Electron into orbit from Mahia Peninsula, New Zealand, becoming the first rocket to reach orbit using an electric-pump-fed engine, after the original rocket launch in May 2017 had to be aborted by safety officials. ](/news/2018/01/21/rocket-lab-successfully-launches-test-rocket-electron-into-orbit-from-mahia-peninsula-new-zealand-becoming-the-first-rocket-to-reach-orbit.md) _Context: New Zealand_
+4. [Two people are killed in a plane crash in Northland, New Zealand. ](/news/2018/01/1/two-people-are-killed-in-a-plane-crash-in-northland-new-zealand.md) _Context: New Zealand_
+5. [Terminally ill patients in New Zealand are now able to take medicinal cannabis. ](/news/2017/12/20/terminally-ill-patients-in-new-zealand-are-now-able-to-take-medicinal-cannabis.md) _Context: New Zealand_

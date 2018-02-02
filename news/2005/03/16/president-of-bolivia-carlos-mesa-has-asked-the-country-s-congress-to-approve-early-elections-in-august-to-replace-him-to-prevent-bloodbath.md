@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/03/16/president-of-bolivia-carlos-mesa-has-asked-the-country-s-congress-to-approve-early-elections-in-august-to-replace-him-to-prevent-bloodbath.html)  [JSON](/news/2005/03/16/president-of-bolivia-carlos-mesa-has-asked-the-country-s-congress-to-approve-early-elections-in-august-to-replace-him-to-prevent-bloodbath.json)  [XML](/news/2005/03/16/president-of-bolivia-carlos-mesa-has-asked-the-country-s-congress-to-approve-early-elections-in-august-to-replace-him-to-prevent-bloodbath.xml)  
+
 ### [2005-03-16](/news/2005/03/16/index.md)
 
+##### Bolivia
 #  President of Bolivia Carlos Mesa has asked the country's congress to approve early elections in August to replace him to "prevent bloodbath". There are still widespread opposition protests against his economic policies. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4351227.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aUPgmsV8QdTE&refer=latin_america)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7912341)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000086&sid=aUPgmsV8QdTE&refer=latin_america)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7912341)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

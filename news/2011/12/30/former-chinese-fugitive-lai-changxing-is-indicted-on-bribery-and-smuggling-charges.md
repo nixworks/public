@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/12/30/former-chinese-fugitive-lai-changxing-is-indicted-on-bribery-and-smuggling-charges.html)  [JSON](/news/2011/12/30/former-chinese-fugitive-lai-changxing-is-indicted-on-bribery-and-smuggling-charges.json)  [XML](/news/2011/12/30/former-chinese-fugitive-lai-changxing-is-indicted-on-bribery-and-smuggling-charges.xml)  
+
 ### [2011-12-30](/news/2011/12/30/index.md)
 
+##### Chinese
 # Former Chinese fugitive Lai Changxing is indicted on bribery and smuggling charges. 
 
 Authorities accused Lai Changxing of running a multi-billion-dollar smuggling network out of Xiamen, in the southeastern province of Fujian, in the 1990’s.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/12/31/world/asia/lai-changxing-indicted-in-china.html?_r=1)
+1. [New York Times](https://www.nytimes.com/2011/12/31/world/asia/lai-changxing-indicted-in-china.html?_r=1)
 1. [Cover Image](https://static01.nyt.com/images/2011/12/31/world/brief-lai/brief-lai-thumbStandard.jpg)
 
 ### Related:

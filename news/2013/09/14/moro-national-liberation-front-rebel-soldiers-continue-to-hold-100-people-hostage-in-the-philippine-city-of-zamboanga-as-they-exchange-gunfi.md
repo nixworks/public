@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/14/moro-national-liberation-front-rebel-soldiers-continue-to-hold-100-people-hostage-in-the-philippine-city-of-zamboanga-as-they-exchange-gunfi.html)  [JSON](/news/2013/09/14/moro-national-liberation-front-rebel-soldiers-continue-to-hold-100-people-hostage-in-the-philippine-city-of-zamboanga-as-they-exchange-gunfi.json)  [XML](/news/2013/09/14/moro-national-liberation-front-rebel-soldiers-continue-to-hold-100-people-hostage-in-the-philippine-city-of-zamboanga-as-they-exchange-gunfi.xml)  
+
 ### [2013-09-14](/news/2013/09/14/index.md)
 
+##### Moro National Liberation Front
 # Moro National Liberation Front rebel soldiers continue to hold 100 people hostage in the Philippine city of Zamboanga as they exchange gunfire with Philippine Army troops. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/philippine-president-warns-rebels-end-standoff)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/11/former-iranian-presidential-candidate-mehdi-karroubi-suggests-that-american-and-british-sanctions-on-iran-increase-the-power-of-mahmoud-ahma.html)  [JSON](/news/2010/08/11/former-iranian-presidential-candidate-mehdi-karroubi-suggests-that-american-and-british-sanctions-on-iran-increase-the-power-of-mahmoud-ahma.json)  [XML](/news/2010/08/11/former-iranian-presidential-candidate-mehdi-karroubi-suggests-that-american-and-british-sanctions-on-iran-increase-the-power-of-mahmoud-ahma.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### Mehdi Karroubi
 # Former Iranian presidential candidate Mehdi Karroubi suggests that American and British sanctions on Iran increase the power of Mahmoud Ahmadinejad's government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/aug/11/iran-elections-mehdi-karroubi-interview)
 

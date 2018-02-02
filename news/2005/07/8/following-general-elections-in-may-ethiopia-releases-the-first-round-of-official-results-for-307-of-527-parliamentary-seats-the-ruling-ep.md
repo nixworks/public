@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/8/following-general-elections-in-may-ethiopia-releases-the-first-round-of-official-results-for-307-of-527-parliamentary-seats-the-ruling-ep.html)  [JSON](/news/2005/07/8/following-general-elections-in-may-ethiopia-releases-the-first-round-of-official-results-for-307-of-527-parliamentary-seats-the-ruling-ep.json)  [XML](/news/2005/07/8/following-general-elections-in-may-ethiopia-releases-the-first-round-of-official-results-for-307-of-527-parliamentary-seats-the-ruling-ep.xml)  
+
 ### [2005-07-8](/news/2005/07/8/index.md)
 
+##### 2005 elections
 #  Following general elections in May, Ethiopia releases the first round of official results for 307 of 527 parliamentary seats. The ruling EPRDF has won 139 seats, while opposition parties CUD and UEDF won 93 and 42, respectively. Smaller parties and independent candidates won the remaining 33 seats. CUD and UEDF announced plans to form a coalition government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/4660047.stm)
 

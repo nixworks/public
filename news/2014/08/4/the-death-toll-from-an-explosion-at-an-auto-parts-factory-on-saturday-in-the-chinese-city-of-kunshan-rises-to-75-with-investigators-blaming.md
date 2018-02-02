@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/4/the-death-toll-from-an-explosion-at-an-auto-parts-factory-on-saturday-in-the-chinese-city-of-kunshan-rises-to-75-with-investigators-blaming.html)  [JSON](/news/2014/08/4/the-death-toll-from-an-explosion-at-an-auto-parts-factory-on-saturday-in-the-chinese-city-of-kunshan-rises-to-75-with-investigators-blaming.json)  [XML](/news/2014/08/4/the-death-toll-from-an-explosion-at-an-auto-parts-factory-on-saturday-in-the-chinese-city-of-kunshan-rises-to-75-with-investigators-blaming.xml)  
+
 ### [2014-08-4](/news/2014/08/4/index.md)
 
+##### Chinese
 # The death toll from an explosion at an auto parts factory on Saturday in the Chinese city of Kunshan rises to 75 with investigators blaming faulty safety measures. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Daily Mail](http://www.dailymail.co.uk/wires/ap/article-2714682/Death-toll-rises-75-Chinese-factory-blast.html)
 

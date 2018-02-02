@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/11/paolo-gentiloni-becomes-the-new-prime-minister-
 
 ### [2016-12-11](/news/2016/12/11/index.md)
 
+##### Italian constitutional referendum, 2016
 # Paolo Gentiloni becomes the new Prime Minister of Italy. 
 
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/06/26/an-international-atomic-energy-agency-team-heads-to-north-korea-to-see-if-pyongyang-s-nuclear-reactor-has-been-shut-down.html)  [JSON](/news/2007/06/26/an-international-atomic-energy-agency-team-heads-to-north-korea-to-see-if-pyongyang-s-nuclear-reactor-has-been-shut-down.json)  [XML](/news/2007/06/26/an-international-atomic-energy-agency-team-heads-to-north-korea-to-see-if-pyongyang-s-nuclear-reactor-has-been-shut-down.xml)  
+
 ### [2007-06-26](/news/2007/06/26/index.md)
 
+##### IAEA
 #  An International Atomic Energy Agency team heads to North Korea to see if Pyongyang's nuclear reactor has been shut down. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUST26744620070626?feedType=RSS)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070626&t=2&i=1015501&w=&fh=545px&fw=&ll=&pl=&sq=&r=1015501)
+1. [Reuters](https://www.reuters.com/article/topNews/idUST26744620070626?feedType=RSS)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070626&t=2&i=1015501&w=&fh=545px&fw=&ll=&pl=&sq=&r=1015501)
 
 ### Related:
 

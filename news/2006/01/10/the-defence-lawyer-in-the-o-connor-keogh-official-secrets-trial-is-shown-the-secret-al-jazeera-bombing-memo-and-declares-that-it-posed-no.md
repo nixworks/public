@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/10/the-defence-lawyer-in-the-o-connor-keogh-official-secrets-trial-is-shown-the-secret-al-jazeera-bombing-memo-and-declares-that-it-posed-no.html)  [JSON](/news/2006/01/10/the-defence-lawyer-in-the-o-connor-keogh-official-secrets-trial-is-shown-the-secret-al-jazeera-bombing-memo-and-declares-that-it-posed-no.json)  [XML](/news/2006/01/10/the-defence-lawyer-in-the-o-connor-keogh-official-secrets-trial-is-shown-the-secret-al-jazeera-bombing-memo-and-declares-that-it-posed-no.xml)  
+
 ### [2006-01-10](/news/2006/01/10/index.md)
 
+##### O'Connor - Keogh official secrets trial
 #  The defence lawyer in the O'Connor - Keogh official secrets trial is shown the secret Al Jazeera bombing memo and declares that it posed no threat to national security. He vows to have it made public by the court. The case will return to court on January 24. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2006/01/11/MNGKHGLEFB1.DTL)
 2. [The Guardian](http://www.guardian.co.uk/Iraq/Story/0,2763,1683576,00.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/27/ivory-coast-militia-leader-ibrahim-coulibaly-is-killed-in-fighting-with-the-forces-of-new-president-alassane-ouattara.html)  [JSON](/news/2011/04/27/ivory-coast-militia-leader-ibrahim-coulibaly-is-killed-in-fighting-with-the-forces-of-new-president-alassane-ouattara.json)  [XML](/news/2011/04/27/ivory-coast-militia-leader-ibrahim-coulibaly-is-killed-in-fighting-with-the-forces-of-new-president-alassane-ouattara.xml)  
+
 ### [2011-04-27](/news/2011/04/27/index.md)
 
+##### Ivory Coast
 # Ivory Coast militia leader Ibrahim Coulibaly is killed in fighting with the forces of new President Alassane Ouattara. 
 
 Ibrahim Coulibaly, an Ivory Coast militia leader who has been behind several coup attempts in the past decade, is killed by forces loyal to new President Alassane Ouattara.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13218243)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52378000/jpg/_52378886_011841574-1.jpg)

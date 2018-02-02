@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/29/libby-trickett-of-australia-sets-a-new-world-record-21-28-seconds-for-the-50-metres-freestyle-at-the-selection-trials-for-the-australian.html)  [JSON](/news/2008/03/29/libby-trickett-of-australia-sets-a-new-world-record-21-28-seconds-for-the-50-metres-freestyle-at-the-selection-trials-for-the-australian.json)  [XML](/news/2008/03/29/libby-trickett-of-australia-sets-a-new-world-record-21-28-seconds-for-the-50-metres-freestyle-at-the-selection-trials-for-the-australian.xml)  
+
 ### [2008-03-29](/news/2008/03/29/index.md)
 
+##### Libby Trickett
 #  Libby Trickett of Australia sets a new world record (21.28 seconds) for the 50 metres freestyle at the selection trials for the Australian swimming team at the 2008 Summer Olympics. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5jMDahdrXZ6rE7uoidcYmhmlW65wg)
 

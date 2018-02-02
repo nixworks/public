@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/12/prince-friso-of-orange-nassau-brother-of-king-willem-alexander-of-the-netherlands-dies-aged-44-following-complications-from-a-skiing-accid.html)  [JSON](/news/2013/08/12/prince-friso-of-orange-nassau-brother-of-king-willem-alexander-of-the-netherlands-dies-aged-44-following-complications-from-a-skiing-accid.json)  [XML](/news/2013/08/12/prince-friso-of-orange-nassau-brother-of-king-willem-alexander-of-the-netherlands-dies-aged-44-following-complications-from-a-skiing-accid.xml)  
+
 ### [2013-08-12](/news/2013/08/12/index.md)
 
+##### Prince Friso of Orange-Nassau
 # Prince Friso of Orange-Nassau, brother of King Willem-Alexander of the Netherlands, dies aged 44 following complications from a skiing accident in 2012 which left him comatose for a year and a half. 
 
 Dutch Prince Johan Friso has died after a year and a half in a coma following an avalanche at an Austrian ski resort, officials say.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/International/wireStory/netherlands-prince-friso-dies-19934972)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-23669317)

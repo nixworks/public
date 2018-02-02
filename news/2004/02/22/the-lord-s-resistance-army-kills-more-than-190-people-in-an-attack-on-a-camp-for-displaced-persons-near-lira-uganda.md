@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/22/the-lord-s-resistance-army-kills-more-than-190-people-in-an-attack-on-a-camp-for-displaced-persons-near-lira-uganda.html)  [JSON](/news/2004/02/22/the-lord-s-resistance-army-kills-more-than-190-people-in-an-attack-on-a-camp-for-displaced-persons-near-lira-uganda.json)  [XML](/news/2004/02/22/the-lord-s-resistance-army-kills-more-than-190-people-in-an-attack-on-a-camp-for-displaced-persons-near-lira-uganda.xml)  
+
 ### [2004-02-22](/news/2004/02/22/index.md)
 
+##### Lord's Resistance Army
 #  The Lord's Resistance Army kills more than 190 people in an attack on a camp for displaced persons near Lira, Uganda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/3513039.stm)
 

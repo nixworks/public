@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/5/martha-stewart-is-found-guilty-by-a-jury-on-charges-of-conspiracy-obstruction-of-justice-and-two-counts-of-making-false-statements-regard.html)  [JSON](/news/2004/03/5/martha-stewart-is-found-guilty-by-a-jury-on-charges-of-conspiracy-obstruction-of-justice-and-two-counts-of-making-false-statements-regard.json)  [XML](/news/2004/03/5/martha-stewart-is-found-guilty-by-a-jury-on-charges-of-conspiracy-obstruction-of-justice-and-two-counts-of-making-false-statements-regard.xml)  
+
 ### [2004-03-5](/news/2004/03/5/index.md)
 
+##### Martha Stewart
 #  Martha Stewart is found guilty by a jury on charges of conspiracy, obstruction of justice, and two counts of making false statements regarding alleged insider trading in December 2001. She faces up to 20 years in prison, though it is considered unlikely that she would be sentenced to that maximum. Sentencing is set for June 17. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SF Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/news/archive/2004/03/05/national1508EST0626.DTL)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/21/hockey-india-investigates-after-m-k-kaushik-1980-olympic-gold-medalist-and-coach-of-the-women-s-team-allegedly-sexually-harasses-a-squad.html)  [JSON](/news/2010/07/21/hockey-india-investigates-after-m-k-kaushik-1980-olympic-gold-medalist-and-coach-of-the-women-s-team-allegedly-sexually-harasses-a-squad.json)  [XML](/news/2010/07/21/hockey-india-investigates-after-m-k-kaushik-1980-olympic-gold-medalist-and-coach-of-the-women-s-team-allegedly-sexually-harasses-a-squad.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### Hockey India
 # Hockey India investigates after M. K. Kaushik, 1980 Olympic gold medalist and coach of the women's team, allegedly sexually harasses a squad member; he denies the allegation but temporarily resigns pending the outcome of the investigation. 
 
 Hockey India is investigating claims of sexual harassment of junior female players in the national hockey team.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-south-asia-10712961)
 2. [NDTV](http://www.ndtv.com/article/sports/i-ll-be-exonerated-but-do-not-want-to-continue-kaushik-38771)

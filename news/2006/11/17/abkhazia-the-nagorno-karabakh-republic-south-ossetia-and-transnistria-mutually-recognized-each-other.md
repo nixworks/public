@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/11/17/abkhazia-the-nagorno-karabakh-republic-south-ossetia-and-transnistria-mutually-recognized-each-other.html)  [JSON](/news/2006/11/17/abkhazia-the-nagorno-karabakh-republic-south-ossetia-and-transnistria-mutually-recognized-each-other.json)  [XML](/news/2006/11/17/abkhazia-the-nagorno-karabakh-republic-south-ossetia-and-transnistria-mutually-recognized-each-other.xml)  
+
 ### [2006-11-17](/news/2006/11/17/index.md)
 
+##### Abkhazia
 #  Abkhazia, the Nagorno-Karabakh Republic, South Ossetia, and Transnistria mutually recognized each other.
 
 

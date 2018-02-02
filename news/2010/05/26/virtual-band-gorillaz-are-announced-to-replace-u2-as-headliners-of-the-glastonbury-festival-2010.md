@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/26/virtual-band-gorillaz-are-announced-to-replace-u2-as-headliners-of-the-glastonbury-festival-2010.html)  [JSON](/news/2010/05/26/virtual-band-gorillaz-are-announced-to-replace-u2-as-headliners-of-the-glastonbury-festival-2010.json)  [XML](/news/2010/05/26/virtual-band-gorillaz-are-announced-to-replace-u2-as-headliners-of-the-glastonbury-festival-2010.xml)  
+
 ### [2010-05-26](/news/2010/05/26/index.md)
 
+##### Gorillaz
 # Virtual band Gorillaz are announced to replace U2 as headliners of the Glastonbury Festival 2010. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8706700.stm)
 2. [CBC](http://www.cbc.ca/arts/music/story/2010/05/26/gorillaz-glastonbury.html)

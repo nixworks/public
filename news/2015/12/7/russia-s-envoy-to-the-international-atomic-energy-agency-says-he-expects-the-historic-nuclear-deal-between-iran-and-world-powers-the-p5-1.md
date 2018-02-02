@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/12/7/russia-s-envoy-to-the-international-atomic-energy-agency-says-he-expects-the-historic-nuclear-deal-between-iran-and-world-powers-the-p5-1.html)  [JSON](/news/2015/12/7/russia-s-envoy-to-the-international-atomic-energy-agency-says-he-expects-the-historic-nuclear-deal-between-iran-and-world-powers-the-p5-1.json)  [XML](/news/2015/12/7/russia-s-envoy-to-the-international-atomic-energy-agency-says-he-expects-the-historic-nuclear-deal-between-iran-and-world-powers-the-p5-1.xml)  
+
 ### [2015-12-7](/news/2015/12/7/index.md)
 
+##### Russia
 # Russia's envoy to the International Atomic Energy Agency says he expects the historic nuclear deal between Iran and world powers, the P5+1, to be implemented in January. Before the end of the year, Iran will exchange its stockpile of low-enriched uranium for Russia's non-enriched forms of uranium, he said. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-iran-nuclear-idUSKBN0TQ1II20151207#WBsOXfB9vVMZmOqk.97)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151207&t=2&i=1100509644&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB60PF)
+1. [Reuters](https://www.reuters.com/article/us-iran-nuclear-idUSKBN0TQ1II20151207#WBsOXfB9vVMZmOqk.97)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20151207&t=2&i=1100509644&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB60PF)
 
 ### Related:
 

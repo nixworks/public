@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-f
 
 ### [2018-01-10](/news/2018/01/10/index.md)
 
+##### Hellenic Coast Guard
 # The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" - allegedly bound for Libya, loaded with 410 tonnes of explosives - in Heraklion, Greece. 102 safety deficiencies are found, and 8 crew members are arrested. 
 
 The Hellenic Coast Guard has seized the cargo ship Andromeda after finding 29 containers of ammonium...

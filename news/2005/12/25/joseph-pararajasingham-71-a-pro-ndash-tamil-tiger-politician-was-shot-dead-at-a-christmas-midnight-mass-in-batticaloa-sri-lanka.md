@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/25/joseph-pararajasingham-71-a-pro-ndash-tamil-tiger-politician-was-shot-dead-at-a-christmas-midnight-mass-in-batticaloa-sri-lanka.html)  [JSON](/news/2005/12/25/joseph-pararajasingham-71-a-pro-ndash-tamil-tiger-politician-was-shot-dead-at-a-christmas-midnight-mass-in-batticaloa-sri-lanka.json)  [XML](/news/2005/12/25/joseph-pararajasingham-71-a-pro-ndash-tamil-tiger-politician-was-shot-dead-at-a-christmas-midnight-mass-in-batticaloa-sri-lanka.xml)  
+
 ### [2005-12-25](/news/2005/12/25/index.md)
 
+##### Joseph Pararajasingham
 #  Joseph Pararajasingham, 71, a pro&ndash;Tamil Tiger politician, was shot dead at a Christmas Midnight Mass in Batticaloa, Sri Lanka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/low/world/south_asia/4558560.stm)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L2591313.htm)

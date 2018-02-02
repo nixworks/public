@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/16/following-their-palestinian-legislative-election-victory-hamas-chooses-ismail-haniya-considered-a-moderate-as-prime-minister-of-the-pale.html)  [JSON](/news/2006/02/16/following-their-palestinian-legislative-election-victory-hamas-chooses-ismail-haniya-considered-a-moderate-as-prime-minister-of-the-pale.json)  [XML](/news/2006/02/16/following-their-palestinian-legislative-election-victory-hamas-chooses-ismail-haniya-considered-a-moderate-as-prime-minister-of-the-pale.xml)  
+
 ### [2006-02-16](/news/2006/02/16/index.md)
 
+##### January 2006 legislative elections
 #  Following their Palestinian legislative election victory, Hamas chooses Ismail Haniya, considered a moderate, as Prime Minister of the Palestinian National Authority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4721456.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/30/thousands-of-people-march-in-derry-northern-ireland-in-memory-of-those-killed-by-british-troops-in-the-1972-bloody-sunday-massacre-of-civi.html)  [JSON](/news/2011/01/30/thousands-of-people-march-in-derry-northern-ireland-in-memory-of-those-killed-by-british-troops-in-the-1972-bloody-sunday-massacre-of-civi.json)  [XML](/news/2011/01/30/thousands-of-people-march-in-derry-northern-ireland-in-memory-of-those-killed-by-british-troops-in-the-1972-bloody-sunday-massacre-of-civi.xml)  
+
 ### [2011-01-30](/news/2011/01/30/index.md)
 
+##### Derry
 # Thousands of people march in Derry, Northern Ireland, in memory of those killed by British troops in the 1972 Bloody Sunday massacre of civil rights protesters and local bystanders. It is intended to be the final such march after the British government admitted last year that its troops had been responsible for carrying out the Bogside massacre. 
 
 Thousands of people took part in what is expected to be the final march in Derry to mark the anniversary of Bloody Sunday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12319055)
 2. [CNN](http://edition.cnn.com/2011/WORLD/europe/01/30/northern.ireland.bloody.sunday/)

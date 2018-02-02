@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/6/niger-s-foreign-affairs-ministry-confirms-customs-officials-in-nigeria-are-blocking-niger-from-goods-importation.html)  [JSON](/news/2009/11/6/niger-s-foreign-affairs-ministry-confirms-customs-officials-in-nigeria-are-blocking-niger-from-goods-importation.json)  [XML](/news/2009/11/6/niger-s-foreign-affairs-ministry-confirms-customs-officials-in-nigeria-are-blocking-niger-from-goods-importation.xml)  
+
 ### [2009-11-6](/news/2009/11/6/index.md)
 
+##### Niger
 #  Niger's foreign affairs ministry confirms customs officials in Nigeria are blocking Niger from goods importation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8346697.stm)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE5A40MH20091105)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/16/polk-county-florida-police-arrest-four-men-who-face-charges-in-having-allegedly-robbed-an-auburndale-florida-pawn-shop-and-then-fatally-s.html)  [JSON](/news/2015/01/16/polk-county-florida-police-arrest-four-men-who-face-charges-in-having-allegedly-robbed-an-auburndale-florida-pawn-shop-and-then-fatally-s.json)  [XML](/news/2015/01/16/polk-county-florida-police-arrest-four-men-who-face-charges-in-having-allegedly-robbed-an-auburndale-florida-pawn-shop-and-then-fatally-s.xml)  
+
 ### [2015-01-16](/news/2015/01/16/index.md)
 
+##### Polk County, Florida
 # Polk County, Florida police arrest four men who face charges in having allegedly robbed an Auburndale, Florida pawn shop, and then fatally shot two women in their central Florida home. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSN](http://www.msn.com/en-us/news/crime/2-dead-4-arrested-after-florida-crime-spree/ar-AA8eB67)
 

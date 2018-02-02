@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/15/a-presidential-run-off-election-in-guinea-is-postponed-due-to-lack-of-preparation.html)  [JSON](/news/2010/09/15/a-presidential-run-off-election-in-guinea-is-postponed-due-to-lack-of-preparation.json)  [XML](/news/2010/09/15/a-presidential-run-off-election-in-guinea-is-postponed-due-to-lack-of-preparation.xml)  
+
 ### [2010-09-15](/news/2010/09/15/index.md)
 
+##### November's presidential poll
 # A presidential run-off election in Guinea is postponed due to lack of preparation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11310302)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE68E6HJ20100915?pageNumber=2&virtualBrandChannel=0&sp=true)

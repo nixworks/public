@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/16/mike-nifong-is-disbarred-in-the-u-s-state-of-north-carolina-for-his-role-in-the-prosecution-of-the-2006-duke-university-lacrosse-case.html)  [JSON](/news/2007/06/16/mike-nifong-is-disbarred-in-the-u-s-state-of-north-carolina-for-his-role-in-the-prosecution-of-the-2006-duke-university-lacrosse-case.json)  [XML](/news/2007/06/16/mike-nifong-is-disbarred-in-the-u-s-state-of-north-carolina-for-his-role-in-the-prosecution-of-the-2006-duke-university-lacrosse-case.xml)  
+
 ### [2007-06-16](/news/2007/06/16/index.md)
 
+##### Mike Nifong
 #  Mike Nifong is disbarred in the U.S. state of North Carolina for his role in the prosecution of the 2006 Duke University lacrosse case. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via WRAL](http://www.wral.com/news/state/story/1506796/)
 

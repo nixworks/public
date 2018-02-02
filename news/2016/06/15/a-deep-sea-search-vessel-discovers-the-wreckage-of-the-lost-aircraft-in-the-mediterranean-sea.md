@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/15/a-deep-sea-search-vessel-discovers-the-wreckage
 
 ### [2016-06-15](/news/2016/06/15/index.md)
 
+##### EgyptAir Flight 804
 # A deep sea search vessel discovers the wreckage of the lost aircraft in the Mediterranean Sea. 
 
 Wreckage of the EgyptAir Paris-Cairo flight MS804 has been found in the Mediterranean a month after the crash, Egyptian investigators say.

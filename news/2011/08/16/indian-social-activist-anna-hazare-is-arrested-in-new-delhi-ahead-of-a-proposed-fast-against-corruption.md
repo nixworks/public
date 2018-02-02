@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/16/indian-social-activist-anna-hazare-is-arrested-in-new-delhi-ahead-of-a-proposed-fast-against-corruption.html)  [JSON](/news/2011/08/16/indian-social-activist-anna-hazare-is-arrested-in-new-delhi-ahead-of-a-proposed-fast-against-corruption.json)  [XML](/news/2011/08/16/indian-social-activist-anna-hazare-is-arrested-in-new-delhi-ahead-of-a-proposed-fast-against-corruption.xml)  
+
 ### [2011-08-16](/news/2011/08/16/index.md)
 
+##### Indians
 # Indian social activist Anna Hazare is arrested in New Delhi ahead of a proposed fast against corruption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IBN Live](http://ibnlive.in.com/news/war-over-lokpal-bill-anna-hazare-detained/175930-3.html)
 

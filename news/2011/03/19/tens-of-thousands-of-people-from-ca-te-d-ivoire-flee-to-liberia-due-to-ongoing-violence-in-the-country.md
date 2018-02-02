@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/19/tens-of-thousands-of-people-from-ca-te-d-ivoire-flee-to-liberia-due-to-ongoing-violence-in-the-country.html)  [JSON](/news/2011/03/19/tens-of-thousands-of-people-from-ca-te-d-ivoire-flee-to-liberia-due-to-ongoing-violence-in-the-country.json)  [XML](/news/2011/03/19/tens-of-thousands-of-people-from-ca-te-d-ivoire-flee-to-liberia-due-to-ongoing-violence-in-the-country.xml)  
+
 ### [2011-03-19](/news/2011/03/19/index.md)
 
+##### Cote d'Ivoire
 # Tens of thousands of people from Cote d'Ivoire flee to Liberia due to ongoing violence in the country. 
 
 Tens of thousands of people have been forced to flee to Liberia due to fresh unrest in the West African country.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/africa/2011/03/2011319164523643189.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/19/2011319164947820738_20.jpg)

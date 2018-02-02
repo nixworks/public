@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/16/occupation-of-iraq-the-un-security-council-unanimously-approves-a-new-us-resolution-on-iraq-russia-germany-and-france-back-the-resolutio.html)  [JSON](/news/2003/10/16/occupation-of-iraq-the-un-security-council-unanimously-approves-a-new-us-resolution-on-iraq-russia-germany-and-france-back-the-resolutio.json)  [XML](/news/2003/10/16/occupation-of-iraq-the-un-security-council-unanimously-approves-a-new-us-resolution-on-iraq-russia-germany-and-france-back-the-resolutio.xml)  
+
 ### [2003-10-16](/news/2003/10/16/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: The UN Security Council unanimously approves a new US resolution on Iraq. Russia, Germany and France back the resolution but will not provide troops or money. A survey indicates poor morale amongst the US troops serving in Iraq.
 
 

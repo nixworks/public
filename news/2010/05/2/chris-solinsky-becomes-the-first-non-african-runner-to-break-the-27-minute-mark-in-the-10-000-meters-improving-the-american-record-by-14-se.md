@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/2/chris-solinsky-becomes-the-first-non-african-runner-to-break-the-27-minute-mark-in-the-10-000-meters-improving-the-american-record-by-14-se.html)  [JSON](/news/2010/05/2/chris-solinsky-becomes-the-first-non-african-runner-to-break-the-27-minute-mark-in-the-10-000-meters-improving-the-american-record-by-14-se.json)  [XML](/news/2010/05/2/chris-solinsky-becomes-the-first-non-african-runner-to-break-the-27-minute-mark-in-the-10-000-meters-improving-the-american-record-by-14-se.xml)  
+
 ### [2010-05-2](/news/2010/05/2/index.md)
 
+##### Chris Solinsky
 # Chris Solinsky becomes the first non-African runner to break the 27 minute mark in the 10,000 meters, improving the American record by 14 seconds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Flint Journal](http://blog.mlive.com/flintjournal/runners/2010/05/chris_solinsky_sets_american_1.html)
 1. [Cover Image](//static.advance.net/static/mlive/static/img/logos/logo_fb.jpg)

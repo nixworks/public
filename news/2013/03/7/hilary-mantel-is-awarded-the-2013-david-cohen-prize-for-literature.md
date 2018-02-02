@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/7/hilary-mantel-is-awarded-the-2013-david-cohen-prize-for-literature.html)  [JSON](/news/2013/03/7/hilary-mantel-is-awarded-the-2013-david-cohen-prize-for-literature.json)  [XML](/news/2013/03/7/hilary-mantel-is-awarded-the-2013-david-cohen-prize-for-literature.xml)  
+
 ### [2013-03-7](/news/2013/03/7/index.md)
 
+##### Hilary Mantel
 # Hilary Mantel is awarded the 2013 David Cohen Prize for literature. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/books/2013/mar/07/hilary-mantel-david-cohen-prize)
 

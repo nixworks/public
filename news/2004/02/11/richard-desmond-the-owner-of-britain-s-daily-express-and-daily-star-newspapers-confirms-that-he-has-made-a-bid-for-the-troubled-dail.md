@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/11/richard-desmond-the-owner-of-britain-s-daily-express-and-daily-star-newspapers-confirms-that-he-has-made-a-bid-for-the-troubled-dail.html)  [JSON](/news/2004/02/11/richard-desmond-the-owner-of-britain-s-daily-express-and-daily-star-newspapers-confirms-that-he-has-made-a-bid-for-the-troubled-dail.json)  [XML](/news/2004/02/11/richard-desmond-the-owner-of-britain-s-daily-express-and-daily-star-newspapers-confirms-that-he-has-made-a-bid-for-the-troubled-dail.xml)  
+
 ### [2004-02-11](/news/2004/02/11/index.md)
 
+##### Richard Desmond
 #  Richard Desmond, the owner of Britain's "Daily Express" and "Daily Star" newspapers, confirms that he has made a bid for the troubled "Daily Telegraph".
 
 

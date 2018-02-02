@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/3/u-s-president-elect-donald-trump-says-that-rober
 
 ### [2017-01-3](/news/2017/01/3/index.md)
 
+##### Presidential transition of Donald Trump
 # U.S. President-elect Donald Trump says that Robert Lighthizer will be the country's chief trade negotiator. 
 
 

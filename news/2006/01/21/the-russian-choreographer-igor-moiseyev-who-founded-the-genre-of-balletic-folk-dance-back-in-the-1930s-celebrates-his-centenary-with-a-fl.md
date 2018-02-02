@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2006/01/21/the-russian-choreographer-igor-moiseyev-who-founded-the-genre-of-balletic-folk-dance-back-in-the-1930s-celebrates-his-centenary-with-a-fl.html)  [JSON](/news/2006/01/21/the-russian-choreographer-igor-moiseyev-who-founded-the-genre-of-balletic-folk-dance-back-in-the-1930s-celebrates-his-centenary-with-a-fl.json)  [XML](/news/2006/01/21/the-russian-choreographer-igor-moiseyev-who-founded-the-genre-of-balletic-folk-dance-back-in-the-1930s-celebrates-his-centenary-with-a-fl.xml)  
+
 ### [2006-01-21](/news/2006/01/21/index.md)
 
+##### choreographer
 #  The Russian choreographer Igor Moiseyev, who founded the genre of balletic folk dance back in the 1930s, celebrates his centenary with a flamboyant show in the Moscow Kremlin Palace of Congresses. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2006/01/21/arts/dance/21igor.html?oref=login)
-1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+1. [New York Times](https://www.nytimes.com/2006/01/21/arts/dance/21igor.html?oref=login)
 
 ### Related:
 

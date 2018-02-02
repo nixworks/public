@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/5/prince-harry-arrives-in-sydney-australia-to-celebrate-100-years-of-the-royal-australian-navy.html)  [JSON](/news/2013/10/5/prince-harry-arrives-in-sydney-australia-to-celebrate-100-years-of-the-royal-australian-navy.json)  [XML](/news/2013/10/5/prince-harry-arrives-in-sydney-australia-to-celebrate-100-years-of-the-royal-australian-navy.xml)  
+
 ### [2013-10-5](/news/2013/10/5/index.md)
 
+##### Prince Harry
 # Prince Harry arrives in Sydney, Australia, to celebrate 100 years of the Royal Australian Navy. 
 
 Prince Harry has arrived in Sydney to celebrate the Navy centenary as part of the International Fleet Review.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/2013-10-05/prince-harry-to-join-international-fleet-review/5000534)
 1. [Cover Image](http://www.abc.net.au/news/image/5000690-1x1-700x700.jpg)

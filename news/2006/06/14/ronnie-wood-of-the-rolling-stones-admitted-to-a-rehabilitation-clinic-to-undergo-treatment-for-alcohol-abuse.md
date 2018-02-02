@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/14/ronnie-wood-of-the-rolling-stones-admitted-to-a-rehabilitation-clinic-to-undergo-treatment-for-alcohol-abuse.html)  [JSON](/news/2006/06/14/ronnie-wood-of-the-rolling-stones-admitted-to-a-rehabilitation-clinic-to-undergo-treatment-for-alcohol-abuse.json)  [XML](/news/2006/06/14/ronnie-wood-of-the-rolling-stones-admitted-to-a-rehabilitation-clinic-to-undergo-treatment-for-alcohol-abuse.xml)  
+
 ### [2006-06-14](/news/2006/06/14/index.md)
 
+##### Ronnie Wood
 #  Ronnie Wood of The Rolling Stones admitted to a rehabilitation clinic to undergo treatment for alcohol abuse, 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/articles/2006/06/14/1149964607303.html)
 

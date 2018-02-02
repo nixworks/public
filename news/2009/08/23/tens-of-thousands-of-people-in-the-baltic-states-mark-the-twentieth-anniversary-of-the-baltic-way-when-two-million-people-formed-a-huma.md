@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/23/tens-of-thousands-of-people-in-the-baltic-states-mark-the-twentieth-anniversary-of-the-baltic-way-when-two-million-people-formed-a-huma.html)  [JSON](/news/2009/08/23/tens-of-thousands-of-people-in-the-baltic-states-mark-the-twentieth-anniversary-of-the-baltic-way-when-two-million-people-formed-a-huma.json)  [XML](/news/2009/08/23/tens-of-thousands-of-people-in-the-baltic-states-mark-the-twentieth-anniversary-of-the-baltic-way-when-two-million-people-formed-a-huma.xml)  
+
 ### [2009-08-23](/news/2009/08/23/index.md)
 
+##### Baltic states
 #  Tens of thousands of people in the Baltic states mark the twentieth anniversary of the 'Baltic Way' - when two million people formed a human chain to protest against Soviet Union rule. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2009/08/200982318443710242.html)
 2. [Baltic Times](http://www.baltictimes.com/news/articles/23392/)

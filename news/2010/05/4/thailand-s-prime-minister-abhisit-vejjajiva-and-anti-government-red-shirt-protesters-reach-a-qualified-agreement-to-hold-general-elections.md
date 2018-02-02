@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/4/thailand-s-prime-minister-abhisit-vejjajiva-and-anti-government-red-shirt-protesters-reach-a-qualified-agreement-to-hold-general-elections.html)  [JSON](/news/2010/05/4/thailand-s-prime-minister-abhisit-vejjajiva-and-anti-government-red-shirt-protesters-reach-a-qualified-agreement-to-hold-general-elections.json)  [XML](/news/2010/05/4/thailand-s-prime-minister-abhisit-vejjajiva-and-anti-government-red-shirt-protesters-reach-a-qualified-agreement-to-hold-general-elections.xml)  
+
 ### [2010-05-4](/news/2010/05/4/index.md)
 
+##### Thailand
 # Thailand's Prime Minister Abhisit Vejjajiva and anti-government "Red Shirt" protesters reach a qualified agreement to hold general elections in November, but questions over the dissolution of parliament prevent an end to the two-month standoff in central Bangkok. 
 
 Thailand&#039;s anti-government protesters have given tacit support to a plan for reconciliation, but will continue protesting for now.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/05/04/2890329.htm?section=justin)
 2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g3j-vAVG1fg3kEfnogTiH8_4EXvwD9FG1T9O0)

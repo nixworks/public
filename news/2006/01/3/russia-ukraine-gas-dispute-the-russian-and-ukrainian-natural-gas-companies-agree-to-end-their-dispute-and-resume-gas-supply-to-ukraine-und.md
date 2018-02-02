@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/3/russia-ukraine-gas-dispute-the-russian-and-ukrainian-natural-gas-companies-agree-to-end-their-dispute-and-resume-gas-supply-to-ukraine-und.html)  [JSON](/news/2006/01/3/russia-ukraine-gas-dispute-the-russian-and-ukrainian-natural-gas-companies-agree-to-end-their-dispute-and-resume-gas-supply-to-ukraine-und.json)  [XML](/news/2006/01/3/russia-ukraine-gas-dispute-the-russian-and-ukrainian-natural-gas-companies-agree-to-end-their-dispute-and-resume-gas-supply-to-ukraine-und.xml)  
+
 ### [2006-01-3](/news/2006/01/3/index.md)
 
+##### restarts
 #  Russia-Ukraine gas dispute: The Russian and Ukrainian natural gas companies agree to end their dispute and resume gas supply to Ukraine under a complex price scheme in which OAO Gazprom will sell gas to the Rosukrenergo trading company (owned by Gazprom Bank and Raiffeisen Bank) for US$230 (E195) per 1,000 cubic meters as of Jan. 1, and Ukraine will buy gas from the company for US$95 (E80). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/2006/01/04/business/web.0401gas.php)
 

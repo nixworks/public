@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/3/zimbabwe-s-republic-police-quell-a-march-by-doctors-and-nurses-to-protest-against-the-2008-cholera-outbreak.html)  [JSON](/news/2008/12/3/zimbabwe-s-republic-police-quell-a-march-by-doctors-and-nurses-to-protest-against-the-2008-cholera-outbreak.json)  [XML](/news/2008/12/3/zimbabwe-s-republic-police-quell-a-march-by-doctors-and-nurses-to-protest-against-the-2008-cholera-outbreak.xml)  
+
 ### [2008-12-3](/news/2008/12/3/index.md)
 
+##### Zimbabwe
 #  Zimbabwe's Republic Police quell a march by doctors and nurses to protest against the 2008 cholera outbreak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7762225.stm)
 

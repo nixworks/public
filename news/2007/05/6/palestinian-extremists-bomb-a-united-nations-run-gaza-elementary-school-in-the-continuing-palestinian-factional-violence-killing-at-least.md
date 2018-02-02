@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/6/palestinian-extremists-bomb-a-united-nations-run-gaza-elementary-school-in-the-continuing-palestinian-factional-violence-killing-at-least.html)  [JSON](/news/2007/05/6/palestinian-extremists-bomb-a-united-nations-run-gaza-elementary-school-in-the-continuing-palestinian-factional-violence-killing-at-least.json)  [XML](/news/2007/05/6/palestinian-extremists-bomb-a-united-nations-run-gaza-elementary-school-in-the-continuing-palestinian-factional-violence-killing-at-least.xml)  
+
 ### [2007-05-6](/news/2007/05/6/index.md)
 
+##### United Nations
 #  Palestinian extremists bomb a United Nations-run Gaza elementary school in the continuing Palestinian factional violence, killing at least one and wounding at least seven. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FOX](http://www.foxnews.com/story/0,2933,270306,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

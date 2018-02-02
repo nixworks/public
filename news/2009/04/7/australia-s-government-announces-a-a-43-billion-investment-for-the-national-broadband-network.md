@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/7/australia-s-government-announces-a-a-43-billion-investment-for-the-national-broadband-network.html)  [JSON](/news/2009/04/7/australia-s-government-announces-a-a-43-billion-investment-for-the-national-broadband-network.json)  [XML](/news/2009/04/7/australia-s-government-announces-a-a-43-billion-investment-for-the-national-broadband-network.xml)  
+
 ### [2009-04-7](/news/2009/04/7/index.md)
 
+##### Australia
 #  Australia's government announces a A$43-billion investment for the National Broadband Network. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/7986918.stm)
 

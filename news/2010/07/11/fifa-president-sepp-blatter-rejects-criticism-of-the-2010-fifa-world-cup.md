@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/11/fifa-president-sepp-blatter-rejects-criticism-of-the-2010-fifa-world-cup.html)  [JSON](/news/2010/07/11/fifa-president-sepp-blatter-rejects-criticism-of-the-2010-fifa-world-cup.json)  [XML](/news/2010/07/11/fifa-president-sepp-blatter-rejects-criticism-of-the-2010-fifa-world-cup.xml)  
+
 ### [2010-07-11](/news/2010/07/11/index.md)
 
+##### FIFA
 # FIFA President Sepp Blatter rejects criticism of the 2010 FIFA World Cup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8807649.stm)
 

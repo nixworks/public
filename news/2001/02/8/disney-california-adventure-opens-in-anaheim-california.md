@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/02/8/disney-california-adventure-opens-in-anaheim-california.html)  [JSON](/news/2001/02/8/disney-california-adventure-opens-in-anaheim-california.json)  [XML](/news/2001/02/8/disney-california-adventure-opens-in-anaheim-california.xml)  
+
 ### [2001-02-8](/news/2001/02/8/index.md)
 
+##### Disney California Adventure
 #  Disney California Adventure opens in Anaheim, California. 
 
 

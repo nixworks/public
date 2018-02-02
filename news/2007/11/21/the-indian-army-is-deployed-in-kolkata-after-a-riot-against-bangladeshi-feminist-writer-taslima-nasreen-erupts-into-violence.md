@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/21/the-indian-army-is-deployed-in-kolkata-after-a-riot-against-bangladeshi-feminist-writer-taslima-nasreen-erupts-into-violence.html)  [JSON](/news/2007/11/21/the-indian-army-is-deployed-in-kolkata-after-a-riot-against-bangladeshi-feminist-writer-taslima-nasreen-erupts-into-violence.json)  [XML](/news/2007/11/21/the-indian-army-is-deployed-in-kolkata-after-a-riot-against-bangladeshi-feminist-writer-taslima-nasreen-erupts-into-violence.xml)  
+
 ### [2007-11-21](/news/2007/11/21/index.md)
 
+##### India
 #  The Indian Army is deployed in Kolkata after a riot against Bangladeshi feminist writer Taslima Nasreen erupts into violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7105277.stm)
 

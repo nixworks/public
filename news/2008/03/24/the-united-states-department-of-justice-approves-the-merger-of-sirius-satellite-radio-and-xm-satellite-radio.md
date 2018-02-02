@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/03/24/the-united-states-department-of-justice-approves-the-merger-of-sirius-satellite-radio-and-xm-satellite-radio.html)  [JSON](/news/2008/03/24/the-united-states-department-of-justice-approves-the-merger-of-sirius-satellite-radio-and-xm-satellite-radio.json)  [XML](/news/2008/03/24/the-united-states-department-of-justice-approves-the-merger-of-sirius-satellite-radio-and-xm-satellite-radio.xml)  
+
 ### [2008-03-24](/news/2008/03/24/index.md)
 
+##### U.S. Justice Department
 #  The United States Department of Justice approves the merger of Sirius Satellite Radio and XM Satellite Radio. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/SB120638514923860085.html)
 
 ### Related:
 
-1. [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md) _Context: Department of Justice_
-2. [The U.S. Justice Department announces Roman Seleznev, the son of Russian parliament member Valery Seleznev, pleaded guilty in a $50 million identity theft probe. This past April, Roman Seleznev was sentenced to 27 years in prison on 38 counts of hacking crimes. ](/news/2017/09/8/the-u-s-justice-department-announces-roman-seleznev-the-son-of-russian-parliament-member-valery-seleznev-pleaded-guilty-in-a-50-million.md) _Context: Department of Justice_
-3. [The United States Department of Justice has requested Moscow-based Russian media channel RT America to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-moscow-based-russian-media-channel-rt-america-to-register-as-a-foreign-lobbying-firm-i.md) _Context: Department of Justice_
-4. [The U.S. Justice Department announces internally that it is to start investigating colleges which have admissions policies that are seen as unfair to Asian Americans. ](/news/2017/08/2/the-u-s-justice-department-announces-internally-that-it-is-to-start-investigating-colleges-which-have-admissions-policies-that-are-seen-as.md) _Context: Department of Justice_
-5. [The U.S. Department of Justice charges 412 individuals with health care fraud. Collectively, these individuals are accused of collectively defrauding $1.3 billion from the U.S. government. ](/news/2017/07/13/the-u-s-department-of-justice-charges-412-individuals-with-health-care-fraud-collectively-these-individuals-are-accused-of-collectively-d.md) _Context: Department of Justice_
+1. [The United States Department of Justice antitrust chief has told AT&T that it must sell off either DirecTV or Turner Broadcasting System (the parent of CNN) in order to complete its acquisition of Time Warner. ([http:--money.cnn.com-2017-11-08-media-att-time-warner-index.html CNN])](/news/2017/11/8/the-united-states-department-of-justice-antitrust-chief-has-told-at-t-that-it-must-sell-off-either-directv-or-turner-broadcasting-system-th.md) _Context: U.S. Justice Department_
+2. [The United States and Russia begin fighting over the extradition of Yevgeniy Nikulin, who was detained in October 2016 in the Czech Republic, after the U.S. Justice Department issued an international arrest warrant for him. However, soon after the U.S. issued its arrest warrant, Russian authorities also sought his extradition. The Russian charge accuses Nikulin of stealing from an online money transfer company back in 2009. ](/news/2017/11/25/the-united-states-and-russia-begin-fighting-over-the-extradition-of-yevgeniy-nikulin-who-was-detained-in-october-2016-in-the-czech-republic.md) _Context: U.S. Justice Department_
+3. [RT America registers with the U.S. Department of Justice as a foreign agent in the United States. ](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.md) _Context: U.S. Justice Department_
+4. [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md) _Context: U.S. Justice Department_
+5. [The Trump administration's Department of Justice settles two lawsuits which alleged that the Obama administration's Internal Revenue Service targeted conservative groups. ](/news/2017/10/26/the-trump-administration-s-department-of-justice-settles-two-lawsuits-which-alleged-that-the-obama-administration-s-internal-revenue-service.md) _Context: U.S. Justice Department_

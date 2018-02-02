@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/26/the-rafah-crossing-linking-the-gaza-strip-and-egypt-turns-over-to-palestinian-control-for-the-first-time.html)  [JSON](/news/2005/11/26/the-rafah-crossing-linking-the-gaza-strip-and-egypt-turns-over-to-palestinian-control-for-the-first-time.json)  [XML](/news/2005/11/26/the-rafah-crossing-linking-the-gaza-strip-and-egypt-turns-over-to-palestinian-control-for-the-first-time.xml)  
+
 ### [2005-11-26](/news/2005/11/26/index.md)
 
+##### Rafah
 #  The Rafah crossing linking the Gaza Strip and Egypt turns over to Palestinian control for the first time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4472312.stm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/10/10/christopher-reeve-who-played-superman-in-the-movie-passes-away.html)  [JSON](/news/2004/10/10/christopher-reeve-who-played-superman-in-the-movie-passes-away.json)  [XML](/news/2004/10/10/christopher-reeve-who-played-superman-in-the-movie-passes-away.xml)  
+
 ### [2004-10-10](/news/2004/10/10/index.md)
 
+##### Christopher Reeve
 #  Christopher Reeve who played Superman in the movie passes away.
 
 

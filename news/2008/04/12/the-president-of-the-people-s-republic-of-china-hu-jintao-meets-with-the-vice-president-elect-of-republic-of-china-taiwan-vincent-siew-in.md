@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/12/the-president-of-the-people-s-republic-of-china-hu-jintao-meets-with-the-vice-president-elect-of-republic-of-china-taiwan-vincent-siew-in.html)  [JSON](/news/2008/04/12/the-president-of-the-people-s-republic-of-china-hu-jintao-meets-with-the-vice-president-elect-of-republic-of-china-taiwan-vincent-siew-in.json)  [XML](/news/2008/04/12/the-president-of-the-people-s-republic-of-china-hu-jintao-meets-with-the-vice-president-elect-of-republic-of-china-taiwan-vincent-siew-in.xml)  
+
 ### [2008-04-12](/news/2008/04/12/index.md)
 
+##### Chinese President
 #  The President of the People's Republic of China Hu Jintao meets with the Vice-President-elect of Republic of China (Taiwan) Vincent Siew in the highest level talks between the two sides since 1949. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7343945.stm)
 

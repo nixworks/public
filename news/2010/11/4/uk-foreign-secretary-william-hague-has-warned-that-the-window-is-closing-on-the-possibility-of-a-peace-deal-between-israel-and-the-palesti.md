@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/4/uk-foreign-secretary-william-hague-has-warned-that-the-window-is-closing-on-the-possibility-of-a-peace-deal-between-israel-and-the-palesti.html)  [JSON](/news/2010/11/4/uk-foreign-secretary-william-hague-has-warned-that-the-window-is-closing-on-the-possibility-of-a-peace-deal-between-israel-and-the-palesti.json)  [XML](/news/2010/11/4/uk-foreign-secretary-william-hague-has-warned-that-the-window-is-closing-on-the-possibility-of-a-peace-deal-between-israel-and-the-palesti.xml)  
+
 ### [2010-11-4](/news/2010/11/4/index.md)
 
+##### UK Foreign Secretary
 # UK Foreign Secretary William Hague has warned that "the window is closing" on the possibility of a peace deal between Israel and the Palestinians. 
 
 UK Foreign Secretary William Hague warns that &quot;the window is closing&quot; on a Middle East peace deal and expresses frustration over a diplomatic row with Israel.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11697267)
 2. [The Guardian](http://www.guardian.co.uk/politics/2010/nov/04/william-hague-two-state-solution-israel)

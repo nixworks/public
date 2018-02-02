@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/21/british-singer-songwriter-elton-john-converts-his-domestic-partnership-with-filmmaker-david-furnish-to-marriage.html)  [JSON](/news/2014/12/21/british-singer-songwriter-elton-john-converts-his-domestic-partnership-with-filmmaker-david-furnish-to-marriage.json)  [XML](/news/2014/12/21/british-singer-songwriter-elton-john-converts-his-domestic-partnership-with-filmmaker-david-furnish-to-marriage.xml)  
+
 ### [2014-12-21](/news/2014/12/21/index.md)
 
+##### British
 # British singer-songwriter Elton John converts his domestic partnership with filmmaker David Furnish to marriage. 
 
 Entertainer Elton John and longtime mate David Furnish have officially converted their civil partnership into a marriage.
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/entertainment/2014/12/21/elton-john-marries-longtime-partner-david-furnish-in-england/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/entertainment/2014/12/21/elton-john-marries-longtime-partner-david-furnish-in-england/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422891830162.jpg?ve=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/3/haiti-s-presidential-run-off-candidates-are-named-they-are-former-first-lady-mirlande-manigat-and-popular-singer-michel-martelly.html)  [JSON](/news/2011/02/3/haiti-s-presidential-run-off-candidates-are-named-they-are-former-first-lady-mirlande-manigat-and-popular-singer-michel-martelly.json)  [XML](/news/2011/02/3/haiti-s-presidential-run-off-candidates-are-named-they-are-former-first-lady-mirlande-manigat-and-popular-singer-michel-martelly.xml)  
+
 ### [2011-02-3](/news/2011/02/3/index.md)
 
+##### Mirlande Manigat
 # Haiti's presidential run-off candidates are named. They are former First Lady Mirlande Manigat and popular singer Michel Martelly. 
 
 AU-PRINCE (Reuters) - Haiti on Thursday heeded foreign pressure and amended the results of its November first-round election, setting up a presidential runoff excluding a government-backed candidate hit by fraud allegations.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12342870)
 2. [Reuters](http://uk.reuters.com/article/2011/02/03/uk-haiti-elections-idUKTRE7123AM20110203?feedType=RSS&feedName=worldNews)

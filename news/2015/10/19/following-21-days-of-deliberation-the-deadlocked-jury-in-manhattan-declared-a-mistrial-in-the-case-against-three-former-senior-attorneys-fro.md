@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/10/19/following-21-days-of-deliberation-the-deadlocked-jury-in-manhattan-declared-a-mistrial-in-the-case-against-three-former-senior-attorneys-fro.html)  [JSON](/news/2015/10/19/following-21-days-of-deliberation-the-deadlocked-jury-in-manhattan-declared-a-mistrial-in-the-case-against-three-former-senior-attorneys-fro.json)  [XML](/news/2015/10/19/following-21-days-of-deliberation-the-deadlocked-jury-in-manhattan-declared-a-mistrial-in-the-case-against-three-former-senior-attorneys-fro.xml)  
+
 ### [2015-10-19](/news/2015/10/19/index.md)
 
+##### Manhattan
 # Following 21 days of deliberation the deadlocked jury in Manhattan declared a mistrial in the case against three former senior attorneys from the "once large and prominent law firm" Dewey & LeBoeuf. The three had been charged with "plotting to manipulate financial records in an attempt to defraud bank lenders and insurance companies during the financial crisis." 
 
+The jurors had already acquitted three former leaders of the law firm on dozens of charges and said they were “hopelessly deadlocked” on the rest.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/10/20/business/dealbook/mistrial-is-declared-indewey-leboeuf-case.html)
+1. [New York Times](https://www.nytimes.com/2015/10/20/business/dealbook/mistrial-is-declared-indewey-leboeuf-case.html)
+1. [Cover Image](https://static01.nyt.com/images/2015/10/20/business/20dewey-web1/20dewey-web1-facebookJumbo.jpg)
 
 ### Related:
 

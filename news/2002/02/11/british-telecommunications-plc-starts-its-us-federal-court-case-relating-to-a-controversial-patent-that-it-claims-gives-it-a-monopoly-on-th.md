@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/02/11/british-telecommunications-plc-starts-its-us-federal-court-case-relating-to-a-controversial-patent-that-it-claims-gives-it-a-monopoly-on-th.html)  [JSON](/news/2002/02/11/british-telecommunications-plc-starts-its-us-federal-court-case-relating-to-a-controversial-patent-that-it-claims-gives-it-a-monopoly-on-th.json)  [XML](/news/2002/02/11/british-telecommunications-plc-starts-its-us-federal-court-case-relating-to-a-controversial-patent-that-it-claims-gives-it-a-monopoly-on-th.xml)  
+
 ### [2002-02-11](/news/2002/02/11/index.md)
 
+##### BT
 #  British Telecommunications plc starts its US federal court case relating to a controversial patent that it claims gives it a monopoly on the technology of web links.
 
 

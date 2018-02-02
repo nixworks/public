@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2007/07/8/roger-federer-defeats-rafael-nadal-7a6-4a6-7a6-2a6-6a2-to-claim-his-fifth-consecutive-wimbledon-title-equaling-an-open-era-re.html)  [JSON](/news/2007/07/8/roger-federer-defeats-rafael-nadal-7a6-4a6-7a6-2a6-6a2-to-claim-his-fifth-consecutive-wimbledon-title-equaling-an-open-era-re.json)  [XML](/news/2007/07/8/roger-federer-defeats-rafael-nadal-7a6-4a6-7a6-2a6-6a2-to-claim-his-fifth-consecutive-wimbledon-title-equaling-an-open-era-re.xml)  
+
 ### [2007-07-8](/news/2007/07/8/index.md)
 
+##### Roger Federer
 # Roger Federer defeats Rafael Nadal 7-6, 4-6, 7-6, 2-6, 6-2 to claim his fifth consecutive Wimbledon title, equaling an Open Era record set by Bjorn Borg in 1980. Borg was in attendance to present the Wimbledon trophy to Federer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/tennis/6280788.stm)
+
+### Changes:
+
+1. [Roger Federer defeats Rafael Nadal 7-6, 4-6, 7-6, 2-6, 6-2 to claim his fifth consecutive Wimbledon title, equaling an Open Era record set by Bjorn Borg in 1980. Borg was in attendance to present the Wimbledon trophy to Federer. ](/news/2007/07/8/roger-federer-defeats-rafael-nadal-7-6-4-6-7-6-2-6-6-2-to-claim-his-fifth-consecutive-wimbledon-title-equaling-an-open-era-re.md) _2017-08-27 03:20:07 (First version)_
+1. [Roger Federer defeats Rafael Nadal 7-6, 4-6, 7-6, 2-6, 6-2 to claim his fifth consecutive Wimbledon title, equaling an Open Era record set by Bjorn Borg in 1980. Borg was in attendance to present the Wimbledon trophy to Federer. ](/news/2007/07/8/roger-federer-defeats-rafael-nadal-7a6-4a6-7a6-2a6-6a2-to-claim-his-fifth-consecutive-wimbledon-title-equaling-an-open-era-re.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [ Tennis greats Roger Federer and Rafael Nadal played each other for the first of many times in their careers ](/news/2004/03/28/tennis-greats-roger-federer-and-rafael-nadal-played-each-other-for-the-first-of-many-times-in-their-careers.md) _Context: Rafael Nadal, Roger Federer_
 4. [Rafael Nadal of Spain wins the men's singles titles at the 2010 Wimbledon Championships. ](/news/2010/07/4/rafael-nadal-of-spain-wins-the-men-s-singles-titles-at-the-2010-wimbledon-championships.md) _Context: Rafael Nadal_
 5. [Roger Federer is defeated by Tomas Berdych of the Czech Republic at Wimbledon, so Federer will not contest the final for the first time since 2002, also his second Wimbledon loss during that time. ](/news/2010/06/30/roger-federer-is-defeated-by-toma-a-berdych-of-the-czech-republic-at-wimbledon-so-federer-will-not-contest-the-final-for-the-first-time-si.md) _Context: Roger Federer_
-
-### Changes:
-
-1. [Roger Federer defeats Rafael Nadal 7-6, 4-6, 7-6, 2-6, 6-2 to claim his fifth consecutive Wimbledon title, equaling an Open Era record set by Bjorn Borg in 1980. Borg was in attendance to present the Wimbledon trophy to Federer. ](/news/2007/07/8/roger-federer-defeats-rafael-nadal-7-6-4-6-7-6-2-6-6-2-to-claim-his-fifth-consecutive-wimbledon-title-equaling-an-open-era-re.md) _2017-08-27 03:20:07 (First version)_
-1. [Roger Federer defeats Rafael Nadal 7-6, 4-6, 7-6, 2-6, 6-2 to claim his fifth consecutive Wimbledon title, equaling an Open Era record set by Bjorn Borg in 1980. Borg was in attendance to present the Wimbledon trophy to Federer. ](/news/2007/07/8/roger-federer-defeats-rafael-nadal-7a6-4a6-7a6-2a6-6a2-to-claim-his-fifth-consecutive-wimbledon-title-equaling-an-open-era-re.md) _(Current version)_

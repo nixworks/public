@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/29/five-chadian-security-officials-and-six-militants-have-been-killed-during-an-explosion-in-a-raid-in-the-capital-n-djamena.html)  [JSON](/news/2015/06/29/five-chadian-security-officials-and-six-militants-have-been-killed-during-an-explosion-in-a-raid-in-the-capital-n-djamena.json)  [XML](/news/2015/06/29/five-chadian-security-officials-and-six-militants-have-been-killed-during-an-explosion-in-a-raid-in-the-capital-n-djamena.xml)  
+
 ### [2015-06-29](/news/2015/06/29/index.md)
 
+##### Chad
 # Five Chadian security officials and six militants have been killed during an explosion in a raid in the capital N'Djamena. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-33310745)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5BAF/production/_83917432_chadnigernigeriamao4640315.png)

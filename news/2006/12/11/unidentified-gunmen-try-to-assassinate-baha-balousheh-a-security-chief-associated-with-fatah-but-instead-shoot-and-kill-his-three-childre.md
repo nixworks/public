@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/11/unidentified-gunmen-try-to-assassinate-baha-balousheh-a-security-chief-associated-with-fatah-but-instead-shoot-and-kill-his-three-childre.html)  [JSON](/news/2006/12/11/unidentified-gunmen-try-to-assassinate-baha-balousheh-a-security-chief-associated-with-fatah-but-instead-shoot-and-kill-his-three-childre.json)  [XML](/news/2006/12/11/unidentified-gunmen-try-to-assassinate-baha-balousheh-a-security-chief-associated-with-fatah-but-instead-shoot-and-kill-his-three-childre.xml)  
+
 ### [2006-12-11](/news/2006/12/11/index.md)
 
+##### Baha Balousheh
 #  Unidentified gunmen try to assassinate Baha Balousheh, a security chief associated with Fatah, but instead shoot and kill his three children in the Gaza Strip. The assassination attempt may have been a revenge attack for the attempted assassination of Interior Minister Sayid Seyam of Hamas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6167835.stm)
 2. [JTA](http://www.jta.org/page_view_breaking_story.asp?intid=5990&ref=daily_briefing)

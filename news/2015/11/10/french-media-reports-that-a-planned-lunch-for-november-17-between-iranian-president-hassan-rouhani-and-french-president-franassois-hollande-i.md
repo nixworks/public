@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/10/french-media-reports-that-a-planned-lunch-for-november-17-between-iranian-president-hassan-rouhani-and-french-president-franassois-hollande-i.html)  [JSON](/news/2015/11/10/french-media-reports-that-a-planned-lunch-for-november-17-between-iranian-president-hassan-rouhani-and-french-president-franassois-hollande-i.json)  [XML](/news/2015/11/10/french-media-reports-that-a-planned-lunch-for-november-17-between-iranian-president-hassan-rouhani-and-french-president-franassois-hollande-i.xml)  
+
 ### [2015-11-10](/news/2015/11/10/index.md)
 
+##### Francois Hollande
 # French media reports that a planned lunch for November 17 between Iranian president Hassan Rouhani and French president Francois Hollande is scrapped after Rouhani asked that all wine be pulled from the menu. 
 
 A planned lunch between Iranian president Hassan Rouhani and French president Francois Hollande was scrapped after Rouhani asked that all wine be pulled from the menu, French media reported Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2015/11/11/iran-president-french-lunch-canceled-after-wanted-wine-free-menu-reports-claim/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2015/11/11/iran-president-french-lunch-canceled-after-wanted-wine-free-menu-reports-claim/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1447254128611.jpg?ve=1)

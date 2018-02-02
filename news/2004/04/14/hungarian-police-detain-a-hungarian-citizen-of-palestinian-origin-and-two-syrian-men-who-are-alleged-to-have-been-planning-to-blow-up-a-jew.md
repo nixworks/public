@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/14/hungarian-police-detain-a-hungarian-citizen-of-palestinian-origin-and-two-syrian-men-who-are-alleged-to-have-been-planning-to-blow-up-a-jew.html)  [JSON](/news/2004/04/14/hungarian-police-detain-a-hungarian-citizen-of-palestinian-origin-and-two-syrian-men-who-are-alleged-to-have-been-planning-to-blow-up-a-jew.json)  [XML](/news/2004/04/14/hungarian-police-detain-a-hungarian-citizen-of-palestinian-origin-and-two-syrian-men-who-are-alleged-to-have-been-planning-to-blow-up-a-jew.xml)  
+
 ### [2004-04-14](/news/2004/04/14/index.md)
 
-#  Hungarian police detain a Hungarian citizen of Palestinian origin and two Syrian men who are alleged to have been planning to blow up a Jewish museum in Budapest and assassinate Israeli president Moshe Kutsuv who arrived to attend the museum's inauguration ceremony. 
+##### Hungary
+#  Hungarian police detain a Hungarian citizen of Palestinian origin and two Syrian men who are alleged to have been planning to blow up a Jewish museum in Budapest and assassinate Israeli president Moshe Katsav who arrived to attend the museum's inauguration ceremony. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [HaAretz](http://www.haaretz.com/hasen/spages/415000.html)
 

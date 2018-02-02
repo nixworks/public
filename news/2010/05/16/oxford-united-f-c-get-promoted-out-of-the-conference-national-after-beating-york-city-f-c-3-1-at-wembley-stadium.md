@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/05/16/oxford-united-f-c-get-promoted-out-of-the-conference-national-after-beating-york-city-f-c-3-1-at-wembley-stadium.html)  [JSON](/news/2010/05/16/oxford-united-f-c-get-promoted-out-of-the-conference-national-after-beating-york-city-f-c-3-1-at-wembley-stadium.json)  [XML](/news/2010/05/16/oxford-united-f-c-get-promoted-out-of-the-conference-national-after-beating-york-city-f-c-3-1-at-wembley-stadium.xml)  
+
 ### [2010-05-16](/news/2010/05/16/index.md)
 
+##### Oxford United F.C.
 # Oxford United F.C. get promoted out of the Conference National after beating York City F.C. 3-1 at Wembley Stadium
 
 

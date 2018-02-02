@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/23/the-chancellor-of-the-exchequer-george-osborne-delivers-the-2011-united-kingdom-budget.html)  [JSON](/news/2011/03/23/the-chancellor-of-the-exchequer-george-osborne-delivers-the-2011-united-kingdom-budget.json)  [XML](/news/2011/03/23/the-chancellor-of-the-exchequer-george-osborne-delivers-the-2011-united-kingdom-budget.xml)  
+
 ### [2011-03-23](/news/2011/03/23/index.md)
 
+##### Chancellor of the Exchequer
 # The Chancellor of the Exchequer George Osborne delivers the 2011 United Kingdom budget. 
 
 Market reactions and analysis on the day after George Osborne delivered his 2011 Budget.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/finance/budget/8395079/Budget-2011-live.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01855/budget_1855844a.jpg)

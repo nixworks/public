@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/23/samsung-releases-in-south-korea-a-camera-that-can-post-photos-and-videos-directly-to-facebook-and-youtube.html)  [JSON](/news/2011/02/23/samsung-releases-in-south-korea-a-camera-that-can-post-photos-and-videos-directly-to-facebook-and-youtube.json)  [XML](/news/2011/02/23/samsung-releases-in-south-korea-a-camera-that-can-post-photos-and-videos-directly-to-facebook-and-youtube.xml)  
+
 ### [2011-02-23](/news/2011/02/23/index.md)
 
+##### Samsung
 # Samsung releases, in South Korea, a camera that can post photos and videos directly to Facebook and YouTube. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/newproduct/2011/02/23/64/5000000000AEN20110223002800320F.HTML)
 

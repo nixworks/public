@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/23/the-international-monetary-fund-has-joined-the-world-bank-in-forgiving-us-4-billion-of-the-6-5bn-debt-owed-by-nicaragua-sharply-reducing.html)  [JSON](/news/2004/01/23/the-international-monetary-fund-has-joined-the-world-bank-in-forgiving-us-4-billion-of-the-6-5bn-debt-owed-by-nicaragua-sharply-reducing.json)  [XML](/news/2004/01/23/the-international-monetary-fund-has-joined-the-world-bank-in-forgiving-us-4-billion-of-the-6-5bn-debt-owed-by-nicaragua-sharply-reducing.xml)  
+
 ### [2004-01-23](/news/2004/01/23/index.md)
 
+##### International Monetary Fund
 #  The International Monetary Fund has joined the World Bank in forgiving US$4 billion of the $6.5bn debt owed by Nicaragua, sharply reducing the nation's overall debt payments.
 
 

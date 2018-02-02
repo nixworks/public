@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/31/after-four-days-of-negotiations-with-student-leaders-the-quebec-government-pulls-out-of-talks-meant-to-end-a-mass-student-protest-against-t.html)  [JSON](/news/2012/05/31/after-four-days-of-negotiations-with-student-leaders-the-quebec-government-pulls-out-of-talks-meant-to-end-a-mass-student-protest-against-t.json)  [XML](/news/2012/05/31/after-four-days-of-negotiations-with-student-leaders-the-quebec-government-pulls-out-of-talks-meant-to-end-a-mass-student-protest-against-t.xml)  
+
 ### [2012-05-31](/news/2012/05/31/index.md)
 
+##### Quebec
 # After four days of negotiations with student leaders, the Quebec government pulls out of talks meant to end a mass student protest against tuition fees. Demonstrations have been ongoing since February 13, with more than 150,000 students on strike. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/story/2012/05/31/quebec-students-courchesne-negotiations.html)
 1. [Cover Image](https://i.cbc.ca/1.1600429.1379060899!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-charest-courchesne-cp.jpg)

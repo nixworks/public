@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/23/judge-tomas-norstrapm-of-the-pirate-bay-s-trial-is-revealed-to-be-a-member-of-the-same-copyright-protection-organizations-as-several-entert.html)  [JSON](/news/2009/04/23/judge-tomas-norstrapm-of-the-pirate-bay-s-trial-is-revealed-to-be-a-member-of-the-same-copyright-protection-organizations-as-several-entert.json)  [XML](/news/2009/04/23/judge-tomas-norstrapm-of-the-pirate-bay-s-trial-is-revealed-to-be-a-member-of-the-same-copyright-protection-organizations-as-several-entert.xml)  
+
 ### [2009-04-23](/news/2009/04/23/index.md)
 
+##### Judge
 #  Judge Tomas Norstrom of The Pirate Bay's trial is revealed to be a member of the same copyright protection organizations as several entertainment industry representatives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TT'' via ''The Local](http://www.thelocal.se/19028/20090423/)
 

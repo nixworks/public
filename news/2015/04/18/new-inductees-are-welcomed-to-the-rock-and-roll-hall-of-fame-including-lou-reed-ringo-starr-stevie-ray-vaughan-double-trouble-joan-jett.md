@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/04/18/new-inductees-are-welcomed-to-the-rock-and-roll-hall-of-fame-including-lou-reed-ringo-starr-stevie-ray-vaughan-double-trouble-joan-jett.html)  [JSON](/news/2015/04/18/new-inductees-are-welcomed-to-the-rock-and-roll-hall-of-fame-including-lou-reed-ringo-starr-stevie-ray-vaughan-double-trouble-joan-jett.json)  [XML](/news/2015/04/18/new-inductees-are-welcomed-to-the-rock-and-roll-hall-of-fame-including-lou-reed-ringo-starr-stevie-ray-vaughan-double-trouble-joan-jett.xml)  
+
 ### [2015-04-18](/news/2015/04/18/index.md)
 
+##### List of Rock and Roll Hall of Fame inductees
 # New inductees are welcomed to the Rock and Roll Hall of Fame including Lou Reed, Ringo Starr, Stevie Ray Vaughan & Double Trouble, Joan Jett & the Blackhearts, Green Day, Bill Withers, the Paul Butterfield Blues Band and the 5 Royales. 
 
 The 2015 Rock and Roll Hall of Fame induction ceremony took place in Cleveland, Ohio, on Saturday night and into Sunday morning. Here were the highlights as the evening unfolded, presented in reverse chronological order. Ringo Starr: &apos;Finally I&apos;m invited and I love it&apos; Ringo Starr speaks at his...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/entertainment/music/posts/la-et-ms-rock-hall-of-fame-induction-20150418-htmlstory.html)
 1. [Cover Image](http://www.trbimg.com/img-5533858b/turbine/la-et-ms-rock-hall-of-fame-induction-20150418)
+
+### Changes:
+
+1. [List of Rock and Roll Hall of Fame inductees: New inductees are welcomed to the Rock and Roll Hall of Fame including Lou Reed, Ringo Starr, Stevie Ray Vaughan & Double Trouble, Joan Jett & the Blackhearts, Green Day, Bill Withers, the Paul Butterfield Blues Band and the 5 Royales. ](/news/2015/04/18/list-of-rock-and-roll-hall-of-fame-inductees-new-inductees-are-welcomed-to-the-rock-and-roll-hall-of-fame-including-lou-reed-ringo-starr.md) _2017-08-27 03:42:13 (First version)_
+1. [New inductees are welcomed to the Rock and Roll Hall of Fame including Lou Reed, Ringo Starr, Stevie Ray Vaughan & Double Trouble, Joan Jett & the Blackhearts, Green Day, Bill Withers, the Paul Butterfield Blues Band and the 5 Royales. ](/news/2015/04/18/new-inductees-are-welcomed-to-the-rock-and-roll-hall-of-fame-including-lou-reed-ringo-starr-stevie-ray-vaughan-double-trouble-joan-jett.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ The 2015 Rock and Roll Hall of Fame induction ceremony took place in Cleveland, 
 3. [Tupac Shakur, Joan Baez, and most of the members of Pearl Jam are to receive honors in the Rock and Roll Hall of Fame. ](/news/2016/12/20/tupac-shakur-joan-baez-and-most-of-the-members-of-pearl-jam-are-to-receive-honors-in-the-rock-and-roll-hall-of-fame.md) _Context: Rock and Roll Hall of Fame_
 4. [Peter Gabriel, Hall & Oates, KISS, Nirvana, Linda Ronstadt, and Cat Stevens are inducted into the Rock and Roll Hall of Fame. ](/news/2014/04/11/peter-gabriel-hall-oates-kiss-nirvana-linda-ronstadt-and-cat-stevens-are-inducted-into-the-rock-and-roll-hall-of-fame.md) _Context: Rock and Roll Hall of Fame_
 5. [Cat Stevens, Hall & Oates, Kiss, Linda Ronstadt, and Nirvana are to be inducted into the Rock and Roll Hall of Fame. ](/news/2013/12/17/cat-stevens-hall-oates-kiss-linda-ronstadt-and-nirvana-are-to-be-inducted-into-the-rock-and-roll-hall-of-fame.md) _Context: Rock and Roll Hall of Fame_
-
-### Changes:
-
-1. [List of Rock and Roll Hall of Fame inductees: New inductees are welcomed to the Rock and Roll Hall of Fame including Lou Reed, Ringo Starr, Stevie Ray Vaughan & Double Trouble, Joan Jett & the Blackhearts, Green Day, Bill Withers, the Paul Butterfield Blues Band and the 5 Royales. ](/news/2015/04/18/list-of-rock-and-roll-hall-of-fame-inductees-new-inductees-are-welcomed-to-the-rock-and-roll-hall-of-fame-including-lou-reed-ringo-starr.md) _2017-08-27 03:42:13 (First version)_
-1. [New inductees are welcomed to the Rock and Roll Hall of Fame including Lou Reed, Ringo Starr, Stevie Ray Vaughan & Double Trouble, Joan Jett & the Blackhearts, Green Day, Bill Withers, the Paul Butterfield Blues Band and the 5 Royales. ](/news/2015/04/18/new-inductees-are-welcomed-to-the-rock-and-roll-hall-of-fame-including-lou-reed-ringo-starr-stevie-ray-vaughan-double-trouble-joan-jett.md) _(Current version)_

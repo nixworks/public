@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/22/walden-bello-a-socialist-candidate-for-the-phil
 
 ### [2016-02-22](/news/2016/02/22/index.md)
 
+##### Philippine Senate election, 2016
 # Walden Bello, a socialist candidate for the Philippine Senate, files a petition that may disqualify boxer Manny Pacquiao for violating election rules regarding publicity. Based on the commission's rules, Pacquiao's wife, Jinkee Pacquiao, may substitute. 
 
 

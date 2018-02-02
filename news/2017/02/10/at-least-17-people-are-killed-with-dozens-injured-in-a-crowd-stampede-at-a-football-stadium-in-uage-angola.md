@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/10/at-least-17-people-are-killed-with-dozens-injur
 
 ### [2017-02-10](/news/2017/02/10/index.md)
 
+##### stampede
 # At least 17 people are killed with dozens injured in a crowd stampede at a football stadium in Uige, Angola. 
 
 JOHANNESBURG (AP) — A crowd stampeded at a football stadium in Angola on Friday, leaving at least 17 people dead and dozens injured. The accident happened in the northwestern town of Uige when hundreds of people rushed…

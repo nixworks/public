@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/18/a-memorial-service-is-held-in-christchurch-new-zealand-for-the-victims-of-the-2011-canterbury-earthquake.html)  [JSON](/news/2011/03/18/a-memorial-service-is-held-in-christchurch-new-zealand-for-the-victims-of-the-2011-canterbury-earthquake.json)  [XML](/news/2011/03/18/a-memorial-service-is-held-in-christchurch-new-zealand-for-the-victims-of-the-2011-canterbury-earthquake.xml)  
+
 ### [2011-03-18](/news/2011/03/18/index.md)
 
+##### memorial service
 # A memorial service is held in Christchurch, New Zealand, for the victims of the 2011 Canterbury earthquake. 
 
 At a memorial service for those killed in the Christchurch earthquake, Prince William has paid tribute to the courage and determination of New Zealanders.
 
 
-### Source:
+### Sources:
 
 1. [SBS](http://www.sbs.com.au/news/article/1502567/New-Zealand's-earthquake-victims-mourned)
 1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/images/s/i/site_1_rand_814223578_prince_william_b_getty_110318.jpg)

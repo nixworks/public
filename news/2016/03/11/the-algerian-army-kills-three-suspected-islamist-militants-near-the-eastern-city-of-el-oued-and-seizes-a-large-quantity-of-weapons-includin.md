@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/11/the-algerian-army-kills-three-suspected-islamis
 
 ### [2016-03-11](/news/2016/03/11/index.md)
 
+##### Insurgency in the Maghreb (2002-present)
 # The Algerian Army kills three suspected Islamist militants near the eastern city of El Oued and seizes a large quantity of weapons, including six anti-aircraft missiles. 
 
 

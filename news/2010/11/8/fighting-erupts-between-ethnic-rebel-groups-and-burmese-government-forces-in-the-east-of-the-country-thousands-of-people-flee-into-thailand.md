@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/8/fighting-erupts-between-ethnic-rebel-groups-and-burmese-government-forces-in-the-east-of-the-country-thousands-of-people-flee-into-thailand.html)  [JSON](/news/2010/11/8/fighting-erupts-between-ethnic-rebel-groups-and-burmese-government-forces-in-the-east-of-the-country-thousands-of-people-flee-into-thailand.json)  [XML](/news/2010/11/8/fighting-erupts-between-ethnic-rebel-groups-and-burmese-government-forces-in-the-east-of-the-country-thousands-of-people-flee-into-thailand.xml)  
+
 ### [2010-11-8](/news/2010/11/8/index.md)
 
+##### fighting
 # Fighting erupts between ethnic rebel groups and Burmese government forces in the east of the country; thousands of people flee into Thailand. 
 
 Thousands flee across the Burmese border to escape clashes between troops and ethnic Karen rebels, a day after the first election in 20 years.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/2010118479326824.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11708237)

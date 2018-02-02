@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/05/17/2008-sichuan-earthquake-china-recommends-the-evacuation-of-seriously-injured-people-from-beichuan-due-to-concerns-about-rising-water-level.html)  [JSON](/news/2008/05/17/2008-sichuan-earthquake-china-recommends-the-evacuation-of-seriously-injured-people-from-beichuan-due-to-concerns-about-rising-water-level.json)  [XML](/news/2008/05/17/2008-sichuan-earthquake-china-recommends-the-evacuation-of-seriously-injured-people-from-beichuan-due-to-concerns-about-rising-water-level.xml)  
+
 ### [2008-05-17](/news/2008/05/17/index.md)
 
+##### deadly earthquake
 #  2008 Sichuan earthquake: China recommends the evacuation of seriously injured people from Beichuan due to concerns about rising water levels of a lake in the area. 
 
 Forty-six seriously injured people needed to be evacuated immediately in Beichuan, at the epicenter of the Sichuan quake, where the water level of a lake is rising rapidly and may burst at any time, Xinhua news agency reported, quoting warnings from soldiers at the site.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/GCA-China/idUST33033520080517)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/GCA-China/idUST33033520080517)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

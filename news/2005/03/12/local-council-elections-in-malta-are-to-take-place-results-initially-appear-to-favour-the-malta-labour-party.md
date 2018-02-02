@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/12/local-council-elections-in-malta-are-to-take-place-results-initially-appear-to-favour-the-malta-labour-party.html)  [JSON](/news/2005/03/12/local-council-elections-in-malta-are-to-take-place-results-initially-appear-to-favour-the-malta-labour-party.json)  [XML](/news/2005/03/12/local-council-elections-in-malta-are-to-take-place-results-initially-appear-to-favour-the-malta-labour-party.xml)  
+
 ### [2005-03-12](/news/2005/03/12/index.md)
 
+##### Malta
 #  Local council elections in Malta are to take place. Results initially appear to favour the Malta Labour Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [di-ve](http://www.di-ve.com/dive/portal/html/kunsilli2005/mainpage.html)
 

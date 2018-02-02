@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/3/burma-s-opposition-leader-aung-san-suu-kyi-lodges-an-appeal-against-her-conviction-for-breaching-the-terms-of-her-house-arrest.html)  [JSON](/news/2009/09/3/burma-s-opposition-leader-aung-san-suu-kyi-lodges-an-appeal-against-her-conviction-for-breaching-the-terms-of-her-house-arrest.json)  [XML](/news/2009/09/3/burma-s-opposition-leader-aung-san-suu-kyi-lodges-an-appeal-against-her-conviction-for-breaching-the-terms-of-her-house-arrest.xml)  
+
 ### [2009-09-3](/news/2009/09/3/index.md)
 
+##### Burma
 #  Burma's opposition leader Aung San Suu Kyi lodges an appeal against her conviction for breaching the terms of her house arrest. 
 
 Burma&#39;s opposition leader Aung San Suu Kyi has lodged an appeal against her conviction for breaching the terms of her house arrest.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8235314.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/153383/burma-suu-kyi-appeals-against-conviction)

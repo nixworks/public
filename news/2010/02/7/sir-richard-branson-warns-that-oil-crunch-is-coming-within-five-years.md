@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/7/sir-richard-branson-warns-that-oil-crunch-is-coming-within-five-years.html)  [JSON](/news/2010/02/7/sir-richard-branson-warns-that-oil-crunch-is-coming-within-five-years.json)  [XML](/news/2010/02/7/sir-richard-branson-warns-that-oil-crunch-is-coming-within-five-years.xml)  
+
 ### [2010-02-7](/news/2010/02/7/index.md)
 
+##### Richard Branson
 # Sir Richard Branson warns that oil crunch is coming within five years. 
 
 An oil crunch more serious than the financial crisis threatens to strike Britain within five years, Sir Richard Branson and other business leaders have warned.
 
 
-### Source:
+### Sources:
 
 1. [Current TV](http://current.com/1k8ts4c)
 2. [Telegraph](http://www.telegraph.co.uk/finance/financetopics/oilprices/7203172/Britain-faces-oil-crunch-within-five-years-Richard-Branson-warns.html)

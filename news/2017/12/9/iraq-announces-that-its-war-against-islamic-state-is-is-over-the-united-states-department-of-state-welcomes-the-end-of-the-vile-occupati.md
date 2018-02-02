@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-stat
 
 ### [2017-12-9](/news/2017/12/9/index.md)
 
+##### Iraq-United States relations
 # Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. 
 
 PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
@@ -21,7 +22,7 @@ PM Haider al-Abadi says Iraqi troops are now in complete control of the country.
 
 ### Related:
 
-1. [A senior Iraqi intelligence official, who is also a Syrian activist leader, says Islamic State of Iraq and the Levant commander Omar al-Shishani (Omar the Chechen, real name Tarkhan Tayumurazovich Batirashvili) died of wounds suffered in a March 4 U.S. airstrike near the Syrian town of Al-Shaddadah. The U.S. State Department offered up to $5 million for information on his whereabouts. Amaq news agency, which supports ISIL, says Shishani is neither dead nor hurt. ](/news/2016/03/15/a-senior-iraqi-intelligence-official-who-is-also-a-syrian-activist-leader-says-islamic-state-of-iraq-and-the-levant-commander-omar-al-shis.md) _Context: ISIL, Iraq, United States Department of State_
+1. [A senior Iraqi intelligence official, who is also a Syrian activist leader, says Islamic State of Iraq and the Levant commander Omar al-Shishani (Omar the Chechen, real name Tarkhan Tayumurazovich Batirashvili) died of wounds suffered in a March 4 U.S. airstrike near the Syrian town of Al-Shaddadah. The U.S. State Department offered up to $5 million for information on his whereabouts. Amaq news agency, which supports ISIL, says Shishani is neither dead nor hurt. ](/news/2016/03/15/a-senior-iraqi-intelligence-official-who-is-also-a-syrian-activist-leader-says-islamic-state-of-iraq-and-the-levant-commander-omar-al-shis.md) _Context: ISIL, Iraq, State Department's_
 2. [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md) _Context: ISIL, Iraq_
 3. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: ISIL, Iraq_
 4. [Seven people are killed and 13 are injured after suicide bombers hit a state-run power station near the northern city of Samarra, Iraq. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2017/09/2/seven-people-are-killed-and-13-are-injured-after-suicide-bombers-hit-a-state-run-power-station-near-the-northern-city-of-samarra-iraq-the.md) _Context: ISIL, Iraq_

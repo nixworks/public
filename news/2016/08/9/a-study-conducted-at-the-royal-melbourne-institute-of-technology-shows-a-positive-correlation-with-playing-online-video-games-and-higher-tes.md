@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/9/a-study-conducted-at-the-royal-melbourne-institu
 
 ### [2016-08-9](/news/2016/08/9/index.md)
 
+##### Royal Melbourne Institute of Technology
 # A study conducted at the Royal Melbourne Institute of Technology shows a positive correlation with playing online video games and higher test scores in math, science and reading while a negative correlation with social media use. 
 
 

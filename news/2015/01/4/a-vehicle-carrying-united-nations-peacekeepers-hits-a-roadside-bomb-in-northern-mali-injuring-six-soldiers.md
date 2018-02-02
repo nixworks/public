@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2015/01/4/a-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.html)  [JSON](/news/2015/01/4/a-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.json)  [XML](/news/2015/01/4/a-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.xml)  
+
 ### [2015-01-4](/news/2015/01/4/index.md)
 
+##### United Nations
 # A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/topNews/idCAKBN0KD0DF20150104)
+
+### Changes:
+
+1. [Northern Mali conflict:A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. ](/news/2015/01/4/northern-mali-conflict-pa-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.md) _2017-08-25 03:41:25 (First version)_
+2. [Northern Mali conflict:: A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. ](/news/2015/01/4/northern-mali-conflict-a-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.md) _2017-08-27 03:41:43 (Update)_
+2. [A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. ](/news/2015/01/4/a-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [An attack by suspected Islamist militants on a MINUSMA base in the town of Kidal, northern Mali, kills at least five United Nations peacekeepers and injures 30 others. ](/news/2016/02/12/an-attack-by-suspected-islamist-militants-on-a-minusma-base-in-the-town-of-kidal-northern-mali-kills-at-least-five-united-nations-peacekee.md) _Context: Mali, United Nations_
 4. [At least three people are killed in an attack on a United Nations peacekeeping base in Kidal, northern Mali. The jihadist group Ansar Dine claims responsibility. ](/news/2015/11/28/at-least-three-people-are-killed-in-an-attack-on-a-united-nations-peacekeeping-base-in-kidal-northern-mali-the-jihadist-group-ansar-dine-c.md) _Context: Mali, United Nations_
 5. [Olivier Salgado, a spokesman for the U.N. mission in Mali, says at least 19 people were killed in the attack along with two of the attackers. Earlier reports indicated that 27 people died. ](/news/2015/11/21/olivier-salgado-a-spokesman-for-the-u-n-mission-in-mali-says-at-least-19-people-were-killed-in-the-attack-along-with-two-of-the-attackers.md) _Context: Mali, United Nations_
-
-### Changes:
-
-1. [Northern Mali conflict:A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. ](/news/2015/01/4/northern-mali-conflict-pa-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.md) _2017-08-25 03:41:25 (First version)_
-2. [Northern Mali conflict:: A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. ](/news/2015/01/4/northern-mali-conflict-a-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.md) _2017-08-27 03:41:43 (Update)_
-2. [A vehicle carrying United Nations peacekeepers hits a roadside bomb in northern Mali, injuring six soldiers. ](/news/2015/01/4/a-vehicle-carrying-united-nations-peacekeepers-hits-a-roadside-bomb-in-northern-mali-injuring-six-soldiers.md) _(Current version)_

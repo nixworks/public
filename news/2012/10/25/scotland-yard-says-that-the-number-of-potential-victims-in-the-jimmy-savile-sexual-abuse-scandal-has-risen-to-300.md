@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/25/scotland-yard-says-that-the-number-of-potential-victims-in-the-jimmy-savile-sexual-abuse-scandal-has-risen-to-300.html)  [JSON](/news/2012/10/25/scotland-yard-says-that-the-number-of-potential-victims-in-the-jimmy-savile-sexual-abuse-scandal-has-risen-to-300.json)  [XML](/news/2012/10/25/scotland-yard-says-that-the-number-of-potential-victims-in-the-jimmy-savile-sexual-abuse-scandal-has-risen-to-300.xml)  
+
 ### [2012-10-25](/news/2012/10/25/index.md)
 
+##### Scotland Yard
 # Scotland Yard says that the number of potential victims in the Jimmy Savile sexual abuse scandal has risen to 300. 
 
 Police investigating the Jimmy Savile abuse scandal are now dealing with around 300 alleged victims as they warned living culprits: &#039;we will come for you.&#039;
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/jimmy-savile/9633678/Jimmy-Savile-300-victims-400-lines-of-inquiry-130-interviews.html)
 2. [The Guardian](http://www.guardian.co.uk/media/2012/oct/25/jimmy-savile-bbc-director-general)

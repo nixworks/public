@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/7/19-countries-are-to-miss-the-nobel-peace-prize-ceremony-for-chinese-dissident-liu-xiaobo-44-are-to-attend-china-described-supporters-of-li.html)  [JSON](/news/2010/12/7/19-countries-are-to-miss-the-nobel-peace-prize-ceremony-for-chinese-dissident-liu-xiaobo-44-are-to-attend-china-described-supporters-of-li.json)  [XML](/news/2010/12/7/19-countries-are-to-miss-the-nobel-peace-prize-ceremony-for-chinese-dissident-liu-xiaobo-44-are-to-attend-china-described-supporters-of-li.xml)  
+
 ### [2010-12-7](/news/2010/12/7/index.md)
 
+##### Nobel Peace Prize
 # 19 countries are to miss the Nobel Peace Prize ceremony for Chinese dissident Liu Xiaobo; 44 are to attend. China described supporters of Liu as "clowns". 
 
 Nineteen countries boycott Nobel Peace Prize ceremony, following what committee says is unprecedented campaign by China.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012717240690770.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11935230)

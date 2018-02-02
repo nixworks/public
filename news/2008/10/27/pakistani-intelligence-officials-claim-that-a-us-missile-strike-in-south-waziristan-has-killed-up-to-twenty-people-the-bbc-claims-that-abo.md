@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/27/pakistani-intelligence-officials-claim-that-a-us-missile-strike-in-south-waziristan-has-killed-up-to-twenty-people-the-bbc-claims-that-abo.html)  [JSON](/news/2008/10/27/pakistani-intelligence-officials-claim-that-a-us-missile-strike-in-south-waziristan-has-killed-up-to-twenty-people-the-bbc-claims-that-abo.json)  [XML](/news/2008/10/27/pakistani-intelligence-officials-claim-that-a-us-missile-strike-in-south-waziristan-has-killed-up-to-twenty-people-the-bbc-claims-that-abo.xml)  
+
 ### [2008-10-27](/news/2008/10/27/index.md)
 
+##### Pakistan
 #  Pakistani intelligence officials claim that a US missile strike in South Waziristan has killed up to twenty people. The BBC claims that about 80 people were killed during US strikes into Pakistan over the past month.
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/7932158)
 2. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7692373.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/1/unidentified-gunmen-kill-at-least-20-police-officers-in-an-ambush-in-northwest-kenya.html)  [JSON](/news/2014/11/1/unidentified-gunmen-kill-at-least-20-police-officers-in-an-ambush-in-northwest-kenya.json)  [XML](/news/2014/11/1/unidentified-gunmen-kill-at-least-20-police-officers-in-an-ambush-in-northwest-kenya.xml)  
+
 ### [2014-11-1](/news/2014/11/1/index.md)
 
+##### Kenyan police
 # Unidentified gunmen kill at least 20 police officers in an ambush in northwest Kenya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [World Bulletin](http://www.worldbulletin.net/world/147549/gunmen-ambush-police-in-kenya-20-dead-updated)
 

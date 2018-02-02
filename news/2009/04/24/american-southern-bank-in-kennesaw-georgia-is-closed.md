@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/24/american-southern-bank-in-kennesaw-georgia-is-closed.html)  [JSON](/news/2009/04/24/american-southern-bank-in-kennesaw-georgia-is-closed.json)  [XML](/news/2009/04/24/american-southern-bank-in-kennesaw-georgia-is-closed.xml)  
+
 ### [2009-04-24](/news/2009/04/24/index.md)
 
+##### American Southern Bank
 #  American Southern Bank in Kennesaw, Georgia, is closed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/georgias-american-southern-bank-seized/story.aspx?guid=%7BCD3D70F8%2DD4BD%2D4D01%2D8D0A%2D669CF5955A9B%7D&siteid=bnbh)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)

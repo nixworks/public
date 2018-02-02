@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/1/a-person-claiming-to-be-a-member-of-anonymous-takes-down-the-website-for-singaporean-newspaper-the-straits-times.html)  [JSON](/news/2013/11/1/a-person-claiming-to-be-a-member-of-anonymous-takes-down-the-website-for-singaporean-newspaper-the-straits-times.json)  [XML](/news/2013/11/1/a-person-claiming-to-be-a-member-of-anonymous-takes-down-the-website-for-singaporean-newspaper-the-straits-times.xml)  
+
 ### [2013-11-1](/news/2013/11/1/index.md)
 
+##### hacker group Anonymous
 # A person claiming to be a member of Anonymous takes down the website for Singaporean newspaper "The Straits Times". 
 
 The website of the Singaporean paper, The Straits Times, is hacked by someone who claims to be a part of the hacking collective Anonymous.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-24768053)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70839000/png/_70839949_image(2).png)

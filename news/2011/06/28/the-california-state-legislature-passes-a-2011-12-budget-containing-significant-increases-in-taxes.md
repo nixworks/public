@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/28/the-california-state-legislature-passes-a-2011-12-budget-containing-significant-increases-in-taxes.html)  [JSON](/news/2011/06/28/the-california-state-legislature-passes-a-2011-12-budget-containing-significant-increases-in-taxes.json)  [XML](/news/2011/06/28/the-california-state-legislature-passes-a-2011-12-budget-containing-significant-increases-in-taxes.xml)  
+
 ### [2011-06-28](/news/2011/06/28/index.md)
 
+##### California State Legislature
 # The California State Legislature passes a 2011-12 budget containing significant increases in taxes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via KCRA](http://www.kcra.com/news/28380200/detail.html)
 

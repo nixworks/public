@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/4/six-armed-ethnic-groups-in-burma-join-forces-fearing-they-will-be-attacked-by-the-military-government-after-the-general-election-on-sunday.html)  [JSON](/news/2010/11/4/six-armed-ethnic-groups-in-burma-join-forces-fearing-they-will-be-attacked-by-the-military-government-after-the-general-election-on-sunday.json)  [XML](/news/2010/11/4/six-armed-ethnic-groups-in-burma-join-forces-fearing-they-will-be-attacked-by-the-military-government-after-the-general-election-on-sunday.xml)  
+
 ### [2010-11-4](/news/2010/11/4/index.md)
 
+##### ethnic groups
 # Six armed ethnic groups in Burma join forces, fearing they will be attacked by the military government after the general election on Sunday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN Philippine News](http://news.ph.msn.com/regional/article.aspx?cp-documentid=4438896)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_599273.html)

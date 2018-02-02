@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/9/the-sri-lankan-army-says-that-28-soldiers-were-killed-and-119-were-wounded-while-battling-the-tamil-tiger-rebels-in-jaffna-the-deaths-of-n.html)  [JSON](/news/2006/09/9/the-sri-lankan-army-says-that-28-soldiers-were-killed-and-119-were-wounded-while-battling-the-tamil-tiger-rebels-in-jaffna-the-deaths-of-n.json)  [XML](/news/2006/09/9/the-sri-lankan-army-says-that-28-soldiers-were-killed-and-119-were-wounded-while-battling-the-tamil-tiger-rebels-in-jaffna-the-deaths-of-n.xml)  
+
 ### [2006-09-9](/news/2006/09/9/index.md)
 
+##### Sri Lanka
 #  The Sri Lankan Army says that 28 soldiers were killed and 119 were wounded while battling the Tamil Tiger rebels in Jaffna. The deaths of nearly 150 Tamil Tigers were also reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/09/10/sri.lanka/index.html)
 

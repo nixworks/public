@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/12/19/early-returns-in-the-iraqi-legislative-election-december-2005-indicate-that-religious-parties-have-done-quite-well-winning-up-80-percent.html)  [JSON](/news/2005/12/19/early-returns-in-the-iraqi-legislative-election-december-2005-indicate-that-religious-parties-have-done-quite-well-winning-up-80-percent.json)  [XML](/news/2005/12/19/early-returns-in-the-iraqi-legislative-election-december-2005-indicate-that-religious-parties-have-done-quite-well-winning-up-80-percent.xml)  
+
 ### [2005-12-19](/news/2005/12/19/index.md)
 
+##### December 2005
 #  Early returns in the Iraqi legislative election, December 2005 indicate that religious parties have done quite well, winning up 80 percent of the vote. Election officials are investigating more than 1,000 complaints about irregularities, 20 of them considered serious. Final results will not be released until early January.
 
 

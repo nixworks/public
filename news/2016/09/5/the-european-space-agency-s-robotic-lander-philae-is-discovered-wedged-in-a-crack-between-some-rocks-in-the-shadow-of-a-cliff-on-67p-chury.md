@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/5/the-european-space-agency-s-robotic-lander-phila
 
 ### [2016-09-5](/news/2016/09/5/index.md)
 
+##### European Space Agency
 # The European Space Agency's robotic lander "Philae" is discovered wedged in a crack between some rocks in the shadow of a cliff on 67P-Churyumov-Gerasimenko by the Rosetta space probe after being lost since 2014. 
 
 

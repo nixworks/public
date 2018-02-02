@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2012/12/25/six-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-governorate-separately-gunmen-ta.html)  [JSON](/news/2012/12/25/six-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-governorate-separately-gunmen-ta.json)  [XML](/news/2012/12/25/six-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-governorate-separately-gunmen-ta.xml)  
+
 ### [2012-12-25](/news/2012/12/25/index.md)
 
+##### al-Qaida
 # Six AQAP militants and two Yemeni soldiers are killed after clashes near a damaged oil pipeline in Ma'rib Governorate. Separately, gunmen target military officials and the home of the transport minister in the capital Sana'a, killing a brigadier general and injuring four others. 
 
 At least five militants were killed and three soldiers wounded in Yemen on Tuesday in fighting near a damaged oil pipeline east of the capital Sanaa, a defense ministry official and residents said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/25/us-yemen-violence-idUSBRE8BO02O20121225)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/12/25/us-yemen-violence-idUSBRE8BO02O20121225)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Al-Qaeda insurgency in Yemen:Six AQAP militants and two Yemeni soldiers are killed after clashes near a damaged oil pipeline in Ma'rib Governorate. Separately, gunmen target military officials and the home of the transport minister in the capital Sana'a, killing a brigadier general and injuring four others. ](/news/2012/12/25/al-qaeda-insurgency-in-yemen-psix-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-gove.md) _2017-08-25 03:37:08 (First version)_
+2. [Al-Qaeda insurgency in Yemen:: Six AQAP militants and two Yemeni soldiers are killed after clashes near a damaged oil pipeline in Ma'rib Governorate. Separately, gunmen target military officials and the home of the transport minister in the capital Sana'a, killing a brigadier general and injuring four others. ](/news/2012/12/25/al-qaeda-insurgency-in-yemen-six-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-gov.md) _2017-08-27 03:37:18 (Update)_
+2. [Six AQAP militants and two Yemeni soldiers are killed after clashes near a damaged oil pipeline in Ma'rib Governorate. Separately, gunmen target military officials and the home of the transport minister in the capital Sana'a, killing a brigadier general and injuring four others. ](/news/2012/12/25/six-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-governorate-separately-gunmen-ta.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ At least five militants were killed and three soldiers wounded in Yemen on Tuesd
 3. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Sana'a, Yemen_
 4. [A suspected U.S. drone strike kills two al-Qaida militants in central Shabwa province, according to Yemeni security and tribal officials. ](/news/2017/01/30/a-suspected-u-s-drone-strike-kills-two-al-qaida-militants-in-central-shabwa-province-according-to-yemeni-security-and-tribal-officials.md) _Context: Yemen, al-Qaida_
 5. [A U.S. military raid takes place in Yemen's southern Al Bayda Governorate. According to medics on the scene as reported by Reuters, "around 30" were killed, among which were at least three senior Al-Qaeda members, at least one U.S. service member, and 10 women and children. ](/news/2017/01/29/a-u-s-military-raid-takes-place-in-yemen-s-southern-al-bayda-governorate-according-to-medics-on-the-scene-as-reported-by-reuters-around.md) _Context: Yemen, al-Qaida_
-
-### Changes:
-
-1. [Al-Qaeda insurgency in Yemen:Six AQAP militants and two Yemeni soldiers are killed after clashes near a damaged oil pipeline in Ma'rib Governorate. Separately, gunmen target military officials and the home of the transport minister in the capital Sana'a, killing a brigadier general and injuring four others. ](/news/2012/12/25/al-qaeda-insurgency-in-yemen-psix-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-gove.md) _2017-08-25 03:37:08 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: Six AQAP militants and two Yemeni soldiers are killed after clashes near a damaged oil pipeline in Ma'rib Governorate. Separately, gunmen target military officials and the home of the transport minister in the capital Sana'a, killing a brigadier general and injuring four others. ](/news/2012/12/25/al-qaeda-insurgency-in-yemen-six-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-gov.md) _2017-08-27 03:37:18 (Update)_
-2. [Six AQAP militants and two Yemeni soldiers are killed after clashes near a damaged oil pipeline in Ma'rib Governorate. Separately, gunmen target military officials and the home of the transport minister in the capital Sana'a, killing a brigadier general and injuring four others. ](/news/2012/12/25/six-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-governorate-separately-gunmen-ta.md) _(Current version)_

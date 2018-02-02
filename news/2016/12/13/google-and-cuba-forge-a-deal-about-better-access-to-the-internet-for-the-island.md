@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/13/google-and-cuba-forge-a-deal-about-better-acces
 
 ### [2016-12-13](/news/2016/12/13/index.md)
 
+##### Google
 # Google and Cuba forge a deal about better access to the Internet for the island. 
 
 Deal that eliminates long distances signal have to travel through Venezuela removes major obstacle to normal, faster internet in Cuba
@@ -19,4 +20,4 @@ Deal that eliminates long distances signal have to travel through Venezuela remo
 2. [The "People's Daily", a Chinese stated-owned newspaper, accuses Internet search engine giant Google of becoming a "political tool" after it claimed that computer hacking aimed at it came from China. ](/news/2011/06/6/the-people-s-daily-a-chinese-stated-owned-newspaper-accuses-internet-search-engine-giant-google-of-becoming-a-political-tool-after-it.md) _Context: Google, Internet_
 3. [United States aid worker Alan Gross has been found guilty of crimes against the state of Cuba supposedly for setting up illegal Internet connections. ](/news/2011/03/5/united-states-aid-worker-alan-gross-has-been-found-guilty-of-crimes-against-the-state-of-cuba-supposedly-for-setting-up-illegal-internet-con.md) _Context: Cuba, Internet_
 4. [Google claims that its Chinese Internet search and mobile search is blocked. ](/news/2010/07/29/google-claims-that-its-chinese-internet-search-and-mobile-search-is-blocked.md) _Context: Google, Internet_
-5. [U.S. senators question lawyers representing Facebook, Twitter and Google about Russian activity on their platforms during the 2016 United States presidential election. ](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.md) _Context: Google_
+5. [The organizers of the Google Lunar X Prize announce that the $20 million grand prize for a commercial lunar lander will expire on 31 March 2018 without a winner because none of its five finalist teams would be able to launch a mission before the deadline. ](/news/2018/01/23/the-organizers-of-the-google-lunar-x-prize-announce-that-the-20-million-grand-prize-for-a-commercial-lunar-lander-will-expire-on-31-march-2.md) _Context: Google_

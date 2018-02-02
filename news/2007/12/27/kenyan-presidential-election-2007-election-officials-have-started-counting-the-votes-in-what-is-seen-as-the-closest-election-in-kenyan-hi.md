@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/27/kenyan-presidential-election-2007-election-officials-have-started-counting-the-votes-in-what-is-seen-as-the-closest-election-in-kenyan-hi.html)  [JSON](/news/2007/12/27/kenyan-presidential-election-2007-election-officials-have-started-counting-the-votes-in-what-is-seen-as-the-closest-election-in-kenyan-hi.json)  [XML](/news/2007/12/27/kenyan-presidential-election-2007-election-officials-have-started-counting-the-votes-in-what-is-seen-as-the-closest-election-in-kenyan-hi.xml)  
+
 ### [2007-12-27](/news/2007/12/27/index.md)
 
+##### Kenyan presidential election, 2007
 #  Kenyan presidential election, 2007: Election officials have started counting the votes in what is seen as the closest election in Kenyan history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7160780.stm)
 

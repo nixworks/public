@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/14/four-people-are-shot-leaving-three-critically-injured-when-earnest-moore-39-a-convicted-murderer-who-was-described-as-the-boyfriend-of.html)  [JSON](/news/2013/06/14/four-people-are-shot-leaving-three-critically-injured-when-earnest-moore-39-a-convicted-murderer-who-was-described-as-the-boyfriend-of.json)  [XML](/news/2013/06/14/four-people-are-shot-leaving-three-critically-injured-when-earnest-moore-39-a-convicted-murderer-who-was-described-as-the-boyfriend-of.xml)  
+
 ### [2013-06-14](/news/2013/06/14/index.md)
 
+##### Nashville
 # Four people are shot, leaving three critically injured, when Earnest Moore, 39, a convicted murderer, who was described as the boyfriend of one of the victims, walked up to their SUV and opened fire in Nashville, Tennessee. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2013/06/14/18961989-four-shot-including-three-teen-girls-while-sitting-in-suv-in-nashville?lite)
 

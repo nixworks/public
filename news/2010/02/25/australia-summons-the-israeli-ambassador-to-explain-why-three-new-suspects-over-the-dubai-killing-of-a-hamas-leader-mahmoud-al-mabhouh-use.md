@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/25/australia-summons-the-israeli-ambassador-to-explain-why-three-new-suspects-over-the-dubai-killing-of-a-hamas-leader-mahmoud-al-mabhouh-use.html)  [JSON](/news/2010/02/25/australia-summons-the-israeli-ambassador-to-explain-why-three-new-suspects-over-the-dubai-killing-of-a-hamas-leader-mahmoud-al-mabhouh-use.json)  [XML](/news/2010/02/25/australia-summons-the-israeli-ambassador-to-explain-why-three-new-suspects-over-the-dubai-killing-of-a-hamas-leader-mahmoud-al-mabhouh-use.xml)  
+
 ### [2010-02-25](/news/2010/02/25/index.md)
 
+##### Australia
 # Australia summons the Israeli ambassador to explain why three new suspects over the Dubai killing of a Hamas leader, Mahmoud al-Mabhouh, used Australian passports. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8535728.stm)
 

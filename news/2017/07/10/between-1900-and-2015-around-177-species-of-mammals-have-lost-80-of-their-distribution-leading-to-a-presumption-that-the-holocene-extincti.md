@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/10/between-1900-and-2015-around-177-species-of-mam
 
 ### [2017-07-10](/news/2017/07/10/index.md)
 
+##### mammal
 # Between 1900 and 2015, around 177 species of mammals have lost 80% of their distribution leading to a presumption that the Holocene extinction is accelerating. 
 
 

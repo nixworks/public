@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/21/deposed-prime-minister-of-thailand-thaksin-shinawatra-is-ordered-to-return-to-thailand-to-face-charges-in-an-asset-concealment-case.html)  [JSON](/news/2007/06/21/deposed-prime-minister-of-thailand-thaksin-shinawatra-is-ordered-to-return-to-thailand-to-face-charges-in-an-asset-concealment-case.json)  [XML](/news/2007/06/21/deposed-prime-minister-of-thailand-thaksin-shinawatra-is-ordered-to-return-to-thailand-to-face-charges-in-an-asset-concealment-case.xml)  
+
 ### [2007-06-21](/news/2007/06/21/index.md)
 
+##### Prime Minister
 #  Deposed Prime Minister of Thailand Thaksin Shinawatra is ordered to return to Thailand to face charges in an asset-concealment case. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/NewsTrack/Top_News/2007/06/20/former_thai_pm_must_return_to_face_charges/4583/)
 1. [Cover Image](//www.upi.com/img/upi-fb.png)

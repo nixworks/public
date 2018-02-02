@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/20/pauline-hanson-former-leader-of-the-australian-anti-immigration-one-nation-party-is-sentenced-in-queensland-to-three-years-in-prison-for.html)  [JSON](/news/2003/08/20/pauline-hanson-former-leader-of-the-australian-anti-immigration-one-nation-party-is-sentenced-in-queensland-to-three-years-in-prison-for.json)  [XML](/news/2003/08/20/pauline-hanson-former-leader-of-the-australian-anti-immigration-one-nation-party-is-sentenced-in-queensland-to-three-years-in-prison-for.xml)  
+
 ### [2003-08-20](/news/2003/08/20/index.md)
 
+##### Pauline Hanson
 #  Pauline Hanson, former leader of the Australian anti-immigration One Nation Party, is sentenced in Queensland to three years in prison for electoral fraud.
 
 

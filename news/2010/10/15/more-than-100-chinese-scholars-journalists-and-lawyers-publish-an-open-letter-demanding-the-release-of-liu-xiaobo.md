@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/15/more-than-100-chinese-scholars-journalists-and-lawyers-publish-an-open-letter-demanding-the-release-of-liu-xiaobo.html)  [JSON](/news/2010/10/15/more-than-100-chinese-scholars-journalists-and-lawyers-publish-an-open-letter-demanding-the-release-of-liu-xiaobo.json)  [XML](/news/2010/10/15/more-than-100-chinese-scholars-journalists-and-lawyers-publish-an-open-letter-demanding-the-release-of-liu-xiaobo.xml)  
+
 ### [2010-10-15](/news/2010/10/15/index.md)
 
+##### China
 # More than 100 Chinese scholars, journalists and lawyers publish an open letter demanding the release of Liu Xiaobo. 
 
 China&#039;s leaders faced fresh calls for freedom of speech on Friday after group of 100 scholars, journalists and lawyers published an open letter demanding the release of Nobel peace laureate Liu Xiaobo.
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/world/activists-urge-china-to-release-liu-1.686434)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101016/news_20101016_56_705507.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/18/hurricane-emily-slams-into-the-yucata-n-peninsula-in-mexico-tens-of-thousands-of-tourists-and-residents-were-evacuated-from-the-beach-reso.html)  [JSON](/news/2005/07/18/hurricane-emily-slams-into-the-yucata-n-peninsula-in-mexico-tens-of-thousands-of-tourists-and-residents-were-evacuated-from-the-beach-reso.json)  [XML](/news/2005/07/18/hurricane-emily-slams-into-the-yucata-n-peninsula-in-mexico-tens-of-thousands-of-tourists-and-residents-were-evacuated-from-the-beach-reso.xml)  
+
 ### [2005-07-18](/news/2005/07/18/index.md)
 
+##### Hurricane Emily
 #  Hurricane Emily slams into the Yucatan Peninsula in Mexico. Tens of thousands of tourists and residents were evacuated from the beach resorts in and around Cancun and Cozumel in the state of Quintana Roo. 
 
 Hurricane Emily like a &quot;freight train&quot; as it passed over houses in the Yucatan Peninsula, but left the Mexican resort area relatively unscathed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4678431.stm)
 2. [CBC](http://www.cbc.ca/world/story/2005/07/18/newhurricane-emily050718.html)

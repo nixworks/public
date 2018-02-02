@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/22/the-12th-festival-of-pacific-arts-opens-at-pase
 
 ### [2016-05-22](/news/2016/05/22/index.md)
 
+##### Festival of Pacific Arts
 # The 12th Festival of Pacific Arts opens at Paseo Stadium in Guam. 
 
 The 12th Festival of Pacific Arts kicked off yesterday with thousands of island residents, dignitaries and visiting nations in attendance at the opening ceremony in the Paseo Stadium.

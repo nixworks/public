@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/08/7/conflict-in-iraq-39-people-have-died-including-at-least-two-u-s-soldiers-following-a-series-of-insurgent-attacks-throughout-iraq.html)  [JSON](/news/2005/08/7/conflict-in-iraq-39-people-have-died-including-at-least-two-u-s-soldiers-following-a-series-of-insurgent-attacks-throughout-iraq.json)  [XML](/news/2005/08/7/conflict-in-iraq-39-people-have-died-including-at-least-two-u-s-soldiers-following-a-series-of-insurgent-attacks-throughout-iraq.xml)  
+
 ### [2005-08-7](/news/2005/08/7/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: 39 people have died, including at least two U.S. soldiers, following a series of insurgent attacks throughout Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo!](http://news.yahoo.com/news?tmpl=story&u=/afp/20050807/wl_mideast_afp/iraq)
+1. [AFP via Yahoo!](https://news.yahoo.com/news?tmpl=story&u=/afp/20050807/wl_mideast_afp/iraq)
 
 ### Related:
 

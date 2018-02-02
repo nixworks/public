@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/4/three-women-the-imatra-town-council-chairwoman-a
 
 ### [2016-12-4](/news/2016/12/4/index.md)
 
+##### Imatra shooting
 # Three women, the Imatra Town Council chairwoman and two local reporters, are shot dead outside a restaurant in Imatra, Finland, a town east of the capital, Helsinki. A 23-year-old suspect is apprehended by police. 
 
 A deadly shooting has occurred in the city of Imatra in South-East Finland. Police say that three women are confirmed dead from gunshot wounds from a rifle. A local man has been apprehended.

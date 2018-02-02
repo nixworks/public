@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/21/the-world-health-organization-confirms-that-the
 
 ### [2016-05-21](/news/2016/05/21/index.md)
 
+##### 2015-16 Zika virus epidemic
 #  The World Health Organization confirms that the Zika virus strain spreading in Cape Verde is the same as the one in the Americas. 
 
 The detection has triggered more efforts to beef up surveillance and testing capacity in African countries.

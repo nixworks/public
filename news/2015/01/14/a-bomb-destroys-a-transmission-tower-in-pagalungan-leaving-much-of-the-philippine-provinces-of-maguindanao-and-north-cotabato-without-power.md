@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/14/a-bomb-destroys-a-transmission-tower-in-pagalungan-leaving-much-of-the-philippine-provinces-of-maguindanao-and-north-cotabato-without-power.html)  [JSON](/news/2015/01/14/a-bomb-destroys-a-transmission-tower-in-pagalungan-leaving-much-of-the-philippine-provinces-of-maguindanao-and-north-cotabato-without-power.json)  [XML](/news/2015/01/14/a-bomb-destroys-a-transmission-tower-in-pagalungan-leaving-much-of-the-philippine-provinces-of-maguindanao-and-north-cotabato-without-power.xml)  
+
 ### [2015-01-14](/news/2015/01/14/index.md)
 
+##### Pagalungan
 # A bomb destroys a transmission tower in Pagalungan leaving much of the Philippine provinces of Maguindanao and North Cotabato without power. 
 
 The bomb, which is planted on the post of Tower 26 in the town of Pagalungan, detonates at around 9:10 in the evening
 
 
-### Source:
+### Sources:
 
 1. [Rappler](http://www.rappler.com/nation/80711-bomb-ngcp-tower-maguindanao)
 1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/289CE389363D415B97204382A409535C/maguindanao-explosion-ngcp-20150114.png)

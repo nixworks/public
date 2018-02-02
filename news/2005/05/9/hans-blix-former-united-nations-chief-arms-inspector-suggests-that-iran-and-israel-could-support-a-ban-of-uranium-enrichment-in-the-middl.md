@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/9/hans-blix-former-united-nations-chief-arms-inspector-suggests-that-iran-and-israel-could-support-a-ban-of-uranium-enrichment-in-the-middl.html)  [JSON](/news/2005/05/9/hans-blix-former-united-nations-chief-arms-inspector-suggests-that-iran-and-israel-could-support-a-ban-of-uranium-enrichment-in-the-middl.json)  [XML](/news/2005/05/9/hans-blix-former-united-nations-chief-arms-inspector-suggests-that-iran-and-israel-could-support-a-ban-of-uranium-enrichment-in-the-middl.xml)  
+
 ### [2005-05-9](/news/2005/05/9/index.md)
 
+##### Hans Blix
 #  Hans Blix, former United Nations chief arms inspector, suggests that Iran and Israel could support a ban of uranium enrichment in the Middle East. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://www.aljazeera.com/cgi-bin/news_service/middle_east_full_story.asp?service_id=8508)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N09702375.htm)

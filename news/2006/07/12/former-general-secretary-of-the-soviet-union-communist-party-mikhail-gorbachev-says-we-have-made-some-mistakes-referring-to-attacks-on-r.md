@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/12/former-general-secretary-of-the-soviet-union-communist-party-mikhail-gorbachev-says-we-have-made-some-mistakes-referring-to-attacks-on-r.html)  [JSON](/news/2006/07/12/former-general-secretary-of-the-soviet-union-communist-party-mikhail-gorbachev-says-we-have-made-some-mistakes-referring-to-attacks-on-r.json)  [XML](/news/2006/07/12/former-general-secretary-of-the-soviet-union-communist-party-mikhail-gorbachev-says-we-have-made-some-mistakes-referring-to-attacks-on-r.xml)  
+
 ### [2006-07-12](/news/2006/07/12/index.md)
 
+##### General Secretary of the Soviet Union Communist Party
 #  Former General Secretary of the Soviet Union Communist Party Mikhail Gorbachev says "We have made some mistakes," referring to attacks on Russia's democracy, and makes several unflattering comments about the United States. 
 
 Mikhail Gorbachev is generally regarded as the man who broke down the &quot;iron curtain&quot; that separated the communist world from the West and thawed the Cold War between the United States and the Soviet Union. Now, 15 years after a coup removed him from power and the Soviet Union dissolved, he has...
 
 
-### Source:
+### Sources:
 
 1. [ABC News America](http://abcnews.go.com/GMA/story?id=2182020&page=1&CMP=OTC-RSSFeeds0312)
 
@@ -15,4 +19,4 @@ Mikhail Gorbachev is generally regarded as the man who broke down the &quot;iron
 2. [Former President of the Soviet Union, Mikhail Gorbachev says that the Russian authorities must acknowledge the recent street protests, annul the results of Sunday's parliamentary election and hold a new poll. ](/news/2011/12/7/former-president-of-the-soviet-union-mikhail-gorbachev-says-that-the-russian-authorities-must-acknowledge-the-recent-street-protests-annul.md) _Context: Mikhail Gorbachev, Russia_
 3. [Gennady Yanayev, who briefly declared himself to be the President of the Soviet Union in the August Coup of 1991 that deposed Mikhail Gorbachev, dies in Russia. ](/news/2010/09/24/gennady-yanayev-who-briefly-declared-himself-to-be-the-president-of-the-soviet-union-in-the-august-coup-of-1991-that-deposed-mikhail-gorbac.md) _Context: Mikhail Gorbachev, Russia_
 4. [ Mikhail Gorbachev founds a new political party in Russia, called Union of Social-Democrats. ](/news/2007/10/20/mikhail-gorbachev-founds-a-new-political-party-in-russia-called-union-of-social-democrats.md) _Context: Mikhail Gorbachev, Russia_
-5. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Russia_
+5. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_

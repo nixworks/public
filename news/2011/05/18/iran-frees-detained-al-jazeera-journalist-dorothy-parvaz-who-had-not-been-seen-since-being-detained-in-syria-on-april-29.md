@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/18/iran-frees-detained-al-jazeera-journalist-dorothy-parvaz-who-had-not-been-seen-since-being-detained-in-syria-on-april-29.html)  [JSON](/news/2011/05/18/iran-frees-detained-al-jazeera-journalist-dorothy-parvaz-who-had-not-been-seen-since-being-detained-in-syria-on-april-29.json)  [XML](/news/2011/05/18/iran-frees-detained-al-jazeera-journalist-dorothy-parvaz-who-had-not-been-seen-since-being-detained-in-syria-on-april-29.xml)  
+
 ### [2011-05-18](/news/2011/05/18/index.md)
 
+##### Iran
 # Iran frees detained Al-Jazeera journalist Dorothy Parvaz, who had not been seen since being detained in Syria on April 29. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Seattle Times](http://seattletimes.nwsource.com/html/localnews/2015080494_parvaz18m.html)
 

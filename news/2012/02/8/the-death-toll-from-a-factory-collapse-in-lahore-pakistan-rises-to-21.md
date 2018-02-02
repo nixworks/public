@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/8/the-death-toll-from-a-factory-collapse-in-lahore-pakistan-rises-to-21.html)  [JSON](/news/2012/02/8/the-death-toll-from-a-factory-collapse-in-lahore-pakistan-rises-to-21.json)  [XML](/news/2012/02/8/the-death-toll-from-a-factory-collapse-in-lahore-pakistan-rises-to-21.xml)  
+
 ### [2012-02-8](/news/2012/02/8/index.md)
 
+##### Lahore
 # The death toll from a factory collapse in Lahore, Pakistan, rises to 21. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/46305727)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/7/clerics-in-malaysia-issue-a-fatwa-against-muslims-participating-in-unproductive-demonstrations.html)  [JSON](/news/2012/05/7/clerics-in-malaysia-issue-a-fatwa-against-muslims-participating-in-unproductive-demonstrations.json)  [XML](/news/2012/05/7/clerics-in-malaysia-issue-a-fatwa-against-muslims-participating-in-unproductive-demonstrations.xml)  
+
 ### [2012-05-7](/news/2012/05/7/index.md)
 
+##### Malaysia
 # Clerics in Malaysia issue a fatwa against Muslims participating in "unproductive demonstrations". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2012/05/07/malaysian-clerics-issue-fatwa-against-rallies.html)
 

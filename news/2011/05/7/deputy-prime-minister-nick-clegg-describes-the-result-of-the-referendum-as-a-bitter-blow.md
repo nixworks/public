@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/7/deputy-prime-minister-nick-clegg-describes-the-result-of-the-referendum-as-a-bitter-blow.html)  [JSON](/news/2011/05/7/deputy-prime-minister-nick-clegg-describes-the-result-of-the-referendum-as-a-bitter-blow.json)  [XML](/news/2011/05/7/deputy-prime-minister-nick-clegg-describes-the-result-of-the-referendum-as-a-bitter-blow.xml)  
+
 ### [2011-05-7](/news/2011/05/7/index.md)
 
+##### Deputy Prime Minister
 # Deputy Prime Minister Nick Clegg describes the result of the referendum as a "bitter blow". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13311118)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52438000/jpg/_52438867_000733023-1.jpg)

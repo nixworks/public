@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/19/us-president-george-w-bush-is-named-person-of-the-year-by-time-magazine.html)  [JSON](/news/2004/12/19/us-president-george-w-bush-is-named-person-of-the-year-by-time-magazine.json)  [XML](/news/2004/12/19/us-president-george-w-bush-is-named-person-of-the-year-by-time-magazine.xml)  
+
 ### [2004-12-19](/news/2004/12/19/index.md)
 
+##### U.S. President
 #  US president George W. Bush is named "Person of the Year" by "Time" magazine. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/US/12/19/time.moy.bush.reut/index.html)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/10/14/american-actor-and-un-peace-messenger-george-clooney-calls-for-the-freezing-of-assets-held-by-sudan-s-president-omar-al-bashir-who-is-wan.html)  [JSON](/news/2010/10/14/american-actor-and-un-peace-messenger-george-clooney-calls-for-the-freezing-of-assets-held-by-sudan-s-president-omar-al-bashir-who-is-wan.json)  [XML](/news/2010/10/14/american-actor-and-un-peace-messenger-george-clooney-calls-for-the-freezing-of-assets-held-by-sudan-s-president-omar-al-bashir-who-is-wan.xml)  
+
 ### [2010-10-14](/news/2010/10/14/index.md)
 
+##### UN peace messenger
 # American actor and UN peace messenger, George Clooney, calls for the freezing of assets held by Sudan's President Omar al-Bashir, who is wanted by the International Criminal Court for war crimes in Darfur, as a good way of putting pressure on the Sudanese government 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11540547)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/10/13/AR2010101301545.html?waporef=obinsite)
+2. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/10/13/AR2010101301545.html?waporef=obinsite)
 2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:

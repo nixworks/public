@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/21/john-bryson-resigns-as-united-states-secretary-of-commerce-following-a-seizure-that-led-to-two-car-accidents.html)  [JSON](/news/2012/06/21/john-bryson-resigns-as-united-states-secretary-of-commerce-following-a-seizure-that-led-to-two-car-accidents.json)  [XML](/news/2012/06/21/john-bryson-resigns-as-united-states-secretary-of-commerce-following-a-seizure-that-led-to-two-car-accidents.xml)  
+
 ### [2012-06-21](/news/2012/06/21/index.md)
 
+##### John Bryson
 # John Bryson resigns as United States Secretary of Commerce following a seizure that led to two car accidents. 
 
 He had been on a medical leave of absence since June 11, following a seizure and two car accidents.
 
 
-### Source:
+### Sources:
 
 1. [Politico](http://www.politico.com/news/stories/0612/77695.html)
 1. [Cover Image](http://s3-origin-images.politico.com/2012/06/120621_john_bryson_ap_328.jpg)

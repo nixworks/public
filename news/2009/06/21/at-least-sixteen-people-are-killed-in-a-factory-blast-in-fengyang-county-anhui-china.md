@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/21/at-least-sixteen-people-are-killed-in-a-factory-blast-in-fengyang-county-anhui-china.html)  [JSON](/news/2009/06/21/at-least-sixteen-people-are-killed-in-a-factory-blast-in-fengyang-county-anhui-china.json)  [XML](/news/2009/06/21/at-least-sixteen-people-are-killed-in-a-factory-blast-in-fengyang-county-anhui-china.xml)  
+
 ### [2009-06-21](/news/2009/06/21/index.md)
 
+##### Anhui
 #  At least sixteen people are killed in a factory blast in Fengyang county, Anhui, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hBruxuP_ibDTPG7mz0QloxkIORqAD98V13LO0)
 2. [Times of India](http://timesofindia.indiatimes.com/China/16-killed-in-China-factory-blast/articleshow/4683097.cms)

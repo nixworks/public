@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/3/the-u-s-pentagon-alleges-that-iran-has-violated-united-nations-sanctions-against-itself-by-providing-an-advanced-radar-system-to-syria-a-s.html)  [JSON](/news/2010/07/3/the-u-s-pentagon-alleges-that-iran-has-violated-united-nations-sanctions-against-itself-by-providing-an-advanced-radar-system-to-syria-a-s.json)  [XML](/news/2010/07/3/the-u-s-pentagon-alleges-that-iran-has-violated-united-nations-sanctions-against-itself-by-providing-an-advanced-radar-system-to-syria-a-s.xml)  
+
 ### [2010-07-3](/news/2010/07/3/index.md)
 
+##### United States military
 # The U.S. Pentagon alleges that Iran has violated United Nations sanctions against itself by providing an advanced radar system to Syria, a system the Pentagon claims would hurt Israel's ability to launch surprise attacks against Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/meast/07/01/us.iran.syria.radar/)
 2. [FOX](http://liveshots.blogs.foxnews.com/2010/07/01/iran-sent-defense-radar-system-to-syria/)

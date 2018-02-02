@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/17/virginia-governor-bob-mcdonnell-decides-not-to-halt-the-execution-of-female-murderer-teresa-lewis-who-will-be-executed-on-september-23-2010.html)  [JSON](/news/2010/09/17/virginia-governor-bob-mcdonnell-decides-not-to-halt-the-execution-of-female-murderer-teresa-lewis-who-will-be-executed-on-september-23-2010.json)  [XML](/news/2010/09/17/virginia-governor-bob-mcdonnell-decides-not-to-halt-the-execution-of-female-murderer-teresa-lewis-who-will-be-executed-on-september-23-2010.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### Virginia
 # Virginia Governor Bob McDonnell decides not to halt the execution of female murderer Teresa Lewis, who will be executed on September 23,2010.
 
 Gov. Bob McDonnell issued a statement Friday regarding the scheduled execution of Teresa Lewis.
 
 
-### Source:
+### Sources:
 
 1. [WHSV](http://www.whsv.com/news/headlines/103174994.html)
 1. [Cover Image](http://media.graytvinc.com/images/488*315/TeresaWilsonLewis.jpg)

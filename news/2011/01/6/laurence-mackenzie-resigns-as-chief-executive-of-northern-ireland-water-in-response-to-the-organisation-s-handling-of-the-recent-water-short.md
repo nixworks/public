@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/6/laurence-mackenzie-resigns-as-chief-executive-of-northern-ireland-water-in-response-to-the-organisation-s-handling-of-the-recent-water-short.html)  [JSON](/news/2011/01/6/laurence-mackenzie-resigns-as-chief-executive-of-northern-ireland-water-in-response-to-the-organisation-s-handling-of-the-recent-water-short.json)  [XML](/news/2011/01/6/laurence-mackenzie-resigns-as-chief-executive-of-northern-ireland-water-in-response-to-the-organisation-s-handling-of-the-recent-water-short.xml)  
+
 ### [2011-01-6](/news/2011/01/6/index.md)
 
+##### Laurence Mackenzie
 # Laurence Mackenzie resigns as chief executive of Northern Ireland Water in response to the organisation's handling of the recent water shortage in Northern Ireland. 
 
 Northern Ireland Water (NIW) has apologised to customers for its handling of the recent water shortage after being overwhelmed by more than one million contacts from customers
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12126247)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/48982000/jpg/_48982259_54662c7e-2651-4440-b5d7-f0b6afbf0707.jpg)

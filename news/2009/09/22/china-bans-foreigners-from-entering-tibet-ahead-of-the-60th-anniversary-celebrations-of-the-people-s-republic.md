@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/22/china-bans-foreigners-from-entering-tibet-ahead-of-the-60th-anniversary-celebrations-of-the-people-s-republic.html)  [JSON](/news/2009/09/22/china-bans-foreigners-from-entering-tibet-ahead-of-the-60th-anniversary-celebrations-of-the-people-s-republic.json)  [XML](/news/2009/09/22/china-bans-foreigners-from-entering-tibet-ahead-of-the-60th-anniversary-celebrations-of-the-people-s-republic.xml)  
+
 ### [2009-09-22](/news/2009/09/22/index.md)
 
+##### China
 #  China bans foreigners from entering Tibet, ahead of the 60th anniversary celebrations of the People's Republic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Australia Network News](http://australianetworknews.com/stories/200909/2693514.htm?desktop)
 2. [Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_432888.html)

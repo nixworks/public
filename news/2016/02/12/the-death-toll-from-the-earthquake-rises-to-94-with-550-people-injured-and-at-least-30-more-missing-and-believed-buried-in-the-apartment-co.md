@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/12/the-death-toll-from-the-earthquake-rises-to-94-
 
 ### [2016-02-12](/news/2016/02/12/index.md)
 
+##### 2016 Taiwan earthquake
 # The death toll from the earthquake rises to 94 with 550 people injured, and at least 30 more missing and believed buried in the apartment complex rubble in Tainan. 
 
 

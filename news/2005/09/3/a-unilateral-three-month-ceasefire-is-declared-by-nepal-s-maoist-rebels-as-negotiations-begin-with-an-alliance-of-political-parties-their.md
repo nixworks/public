@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/3/a-unilateral-three-month-ceasefire-is-declared-by-nepal-s-maoist-rebels-as-negotiations-begin-with-an-alliance-of-political-parties-their.html)  [JSON](/news/2005/09/3/a-unilateral-three-month-ceasefire-is-declared-by-nepal-s-maoist-rebels-as-negotiations-begin-with-an-alliance-of-political-parties-their.json)  [XML](/news/2005/09/3/a-unilateral-three-month-ceasefire-is-declared-by-nepal-s-maoist-rebels-as-negotiations-begin-with-an-alliance-of-political-parties-their.xml)  
+
 ### [2005-09-3](/news/2005/09/3/index.md)
 
+##### unilateral
 #  A unilateral three-month ceasefire is declared by Nepal's Maoist rebels as negotiations begin with an alliance of political parties. Their leader, Pushpa Kamal Dahal, said they would "not launch any offensive" during the truce. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200509/s1452594.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4210722.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/13/chinese-authorities-continue-a-crackdown-on-dissent-with-some-activists-placed-on-labour-camps-according-to-rights-groups.html)  [JSON](/news/2011/04/13/chinese-authorities-continue-a-crackdown-on-dissent-with-some-activists-placed-on-labour-camps-according-to-rights-groups.json)  [XML](/news/2011/04/13/chinese-authorities-continue-a-crackdown-on-dissent-with-some-activists-placed-on-labour-camps-according-to-rights-groups.xml)  
+
 ### [2011-04-13](/news/2011/04/13/index.md)
 
+##### China
 # Chinese authorities continue a crackdown on dissent, with some activists placed on labour camps according to rights groups. 
 
 Police in China have sent two activists to labor camps and charged a veteran dissident with subversion over calls for public rallies echoing those in the Arab world, a rights group said yesterday.
 
 
-### Source:
+### Sources:
 
 1. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20110413/news_20110413_56_748175.htm)
 2. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2011/04/14/2003500689)

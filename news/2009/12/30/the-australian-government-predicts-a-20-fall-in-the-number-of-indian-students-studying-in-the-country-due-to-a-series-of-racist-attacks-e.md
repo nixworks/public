@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/30/the-australian-government-predicts-a-20-fall-in-the-number-of-indian-students-studying-in-the-country-due-to-a-series-of-racist-attacks-e.html)  [JSON](/news/2009/12/30/the-australian-government-predicts-a-20-fall-in-the-number-of-indian-students-studying-in-the-country-due-to-a-series-of-racist-attacks-e.json)  [XML](/news/2009/12/30/the-australian-government-predicts-a-20-fall-in-the-number-of-indian-students-studying-in-the-country-due-to-a-series-of-racist-attacks-e.xml)  
+
 ### [2009-12-30](/news/2009/12/30/index.md)
 
+##### Australia
 #  The Australian government predicts a 20% fall in the number of Indian students studying in the country, due to a series of racist attacks earlier this year. 
 
 New figures show there will be 4,000 fewer Indian nationals coming to Australia to study next year.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/12/30/2782416.htm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8434559.stm)

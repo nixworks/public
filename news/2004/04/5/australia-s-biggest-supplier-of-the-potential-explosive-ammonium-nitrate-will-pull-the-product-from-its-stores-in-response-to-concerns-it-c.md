@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/5/australia-s-biggest-supplier-of-the-potential-explosive-ammonium-nitrate-will-pull-the-product-from-its-stores-in-response-to-concerns-it-c.html)  [JSON](/news/2004/04/5/australia-s-biggest-supplier-of-the-potential-explosive-ammonium-nitrate-will-pull-the-product-from-its-stores-in-response-to-concerns-it-c.json)  [XML](/news/2004/04/5/australia-s-biggest-supplier-of-the-potential-explosive-ammonium-nitrate-will-pull-the-product-from-its-stores-in-response-to-concerns-it-c.xml)  
+
 ### [2004-04-5](/news/2004/04/5/index.md)
 
+##### supplier
 #  Australia's biggest supplier of the potential explosive ammonium nitrate will pull the product from its stores in response to concerns it could be used by terrorists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/common/story_page/0,4057,9194059%255E421,00.html)
 

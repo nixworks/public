@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/25/the-opposition-bharatiya-janata-party-wins-the-most-seats-in-elections-for-the-karnataka-legislature-india.html)  [JSON](/news/2008/05/25/the-opposition-bharatiya-janata-party-wins-the-most-seats-in-elections-for-the-karnataka-legislature-india.json)  [XML](/news/2008/05/25/the-opposition-bharatiya-janata-party-wins-the-most-seats-in-elections-for-the-karnataka-legislature-india.xml)  
+
 ### [2008-05-25](/news/2008/05/25/index.md)
 
+##### Bharatiya Janata Party
 #  The opposition Bharatiya Janata Party wins the most seats in elections for the Karnataka legislature, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Australia](http://www.radioaustralia.net.au/news/stories/200805/s2255434.htm?tab=latest)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/10/26/george-w-bush-signs-into-law-the-secure-fence-act-of-2006-to-build-a-fence-along-the-u-s-mexico-border-wikinews.html)  [JSON](/news/2006/10/26/george-w-bush-signs-into-law-the-secure-fence-act-of-2006-to-build-a-fence-along-the-u-s-mexico-border-wikinews.json)  [XML](/news/2006/10/26/george-w-bush-signs-into-law-the-secure-fence-act-of-2006-to-build-a-fence-along-the-u-s-mexico-border-wikinews.xml)  
+
 ### [2006-10-26](/news/2006/10/26/index.md)
 
+##### George W. Bush
 #  George W. Bush signs into law The Secure Fence Act of 2006 to build a fence along the U.S.-Mexico border. (Wikinews)
 
 

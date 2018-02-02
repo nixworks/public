@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/11/president-george-w-bush-proposes-a-change-in-united-states-fish-and-wildlife-service-regulations-which-would-allow-american-citizens-to-tr.html)  [JSON](/news/2003/10/11/president-george-w-bush-proposes-a-change-in-united-states-fish-and-wildlife-service-regulations-which-would-allow-american-citizens-to-tr.json)  [XML](/news/2003/10/11/president-george-w-bush-proposes-a-change-in-united-states-fish-and-wildlife-service-regulations-which-would-allow-american-citizens-to-tr.xml)  
+
 ### [2003-10-11](/news/2003/10/11/index.md)
 
+##### U.S. President
 #  President George W. Bush proposes a change in United States Fish and Wildlife Service regulations which would allow American citizens to travel abroad to capture, kill, and import endangered species. The regulation would not allow Americans to do the same to endangered species inside the United States.
 
 

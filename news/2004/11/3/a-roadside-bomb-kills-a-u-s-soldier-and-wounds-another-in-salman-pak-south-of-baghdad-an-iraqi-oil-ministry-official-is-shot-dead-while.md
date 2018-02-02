@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/3/a-roadside-bomb-kills-a-u-s-soldier-and-wounds-another-in-salman-pak-south-of-baghdad-an-iraqi-oil-ministry-official-is-shot-dead-while.html)  [JSON](/news/2004/11/3/a-roadside-bomb-kills-a-u-s-soldier-and-wounds-another-in-salman-pak-south-of-baghdad-an-iraqi-oil-ministry-official-is-shot-dead-while.json)  [XML](/news/2004/11/3/a-roadside-bomb-kills-a-u-s-soldier-and-wounds-another-in-salman-pak-south-of-baghdad-an-iraqi-oil-ministry-official-is-shot-dead-while.xml)  
+
 ### [2004-11-3](/news/2004/11/3/index.md)
 
+##### Salman Pak
 #  A roadside bomb kills a U.S. soldier and wounds another in Salman Pak, south of Baghdad. An Iraqi Oil Ministry official is shot dead while leaving his house in Baghdad. The militant group Army of Ansar al-Sunna release a video on their website confirming the beheading of an Iraqi officer kidnapped in Mosul. In Tikrit, fires continue to burn from major oil wells and a pipeline attacked earlier, halting oil exports. The militant Brigades of Iraq's Honorable People release videos showing beheadings of three Iraqi security guards kidnapped in Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3979349.stm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3977379.stm)

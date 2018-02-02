@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/30/bedouin-clash-with-egyptian-riot-police-near-the-gaza-strip.html)  [JSON](/news/2007/07/30/bedouin-clash-with-egyptian-riot-police-near-the-gaza-strip.json)  [XML](/news/2007/07/30/bedouin-clash-with-egyptian-riot-police-near-the-gaza-strip.xml)  
+
 ### [2007-07-30](/news/2007/07/30/index.md)
 
+##### Bedouin
 #  Bedouin clash with Egyptian riot police near the Gaza Strip. 
 
 Thousands of Egyptian riot police have clashed with Bedouin protesting against the Government near the border with the Gaza Strip, and witnesses say several civilians were shot and wounded.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/31/1992367.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

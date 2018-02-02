@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/10/dozens-of-bodies-that-washed-ashore-in-yemen-are-believed-to-be-from-the-130-migrants-from-somalia-thrown-overboard-by-smugglers-prompting.html)  [JSON](/news/2008/10/10/dozens-of-bodies-that-washed-ashore-in-yemen-are-believed-to-be-from-the-130-migrants-from-somalia-thrown-overboard-by-smugglers-prompting.json)  [XML](/news/2008/10/10/dozens-of-bodies-that-washed-ashore-in-yemen-are-believed-to-be-from-the-130-migrants-from-somalia-thrown-overboard-by-smugglers-prompting.xml)  
+
 ### [2008-10-10](/news/2008/10/10/index.md)
 
+##### Yemen
 #  Dozens of bodies that washed ashore in Yemen are believed to be from the 130 migrants from Somalia thrown overboard by smugglers; prompting calls for action against human trafficking in the Gulf of Aden. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo News](http://fe6.news.sp1.yahoo.com/s/ap/20081010/ap_on_re_af/ml_yemen_migrants_missing;_ylt=AoHbFASr2a0GD5KMkNJovm5w24cA)
 

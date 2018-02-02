@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/3/north-korea-says-that-at-least-fifteen-people-ar
 
 ### [2016-09-3](/news/2016/09/3/index.md)
 
+##### North Korea
 # North Korea says that at least fifteen people are missing and thousands left homeless in the city of Hoeryong after the Tumen River floods. 
 
 North Korea said on Saturday that 15 people were missing in the northern city of Hoeryong and thousands were left homeless by flooding caused by heavy rain in recent days.
@@ -15,8 +16,8 @@ North Korea said on Saturday that 15 people were missing in the northern city of
 
 ### Related:
 
-1. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: North Korea_
-2. [A North Korean defector claims children are being born with deformities near North Korea's nuclear testing site. ](/news/2017/11/7/a-north-korean-defector-claims-children-are-being-born-with-deformities-near-north-korea-s-nuclear-testing-site.md) _Context: North Korea_
-3. [North Korea fires another missile in a test, landing in the Sea of Japan. ](/news/2017/11/28/north-korea-fires-another-missile-in-a-test-landing-in-the-sea-of-japan.md) _Context: North Korea_
-4. [U.S. President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. ](/news/2017/11/20/u-s-president-donald-trump-announces-the-designation-of-north-korea-as-a-state-sponsor-of-terrorism.md) _Context: North Korea_
-5. [A Korean People's Army soldier defects to South Korea via the Korean Demilitarized Zone (DMZ). He was shot and injured by fellow North Korean soldiers as he crossed to the South Korean side at Panmunjom, and has been taken to hospital. ](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.md) _Context: North Korea_
+1. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: North Korea_
+2. [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md) _Context: North Korea_
+3. [ U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than Kim's. ](/news/2018/01/2/u-s-president-donald-trump-responds-to-kim-jong-un-s-claim-of-having-north-korea-s-nuclear-missile-launch-button-on-his-desk-boasting-tha.md) _Context: North Korea_
+4. [South Korean President Moon Jae-in, responding to North Korean leader Kim Jong-un's offer during his New Year's Day address, proposes a meeting to discuss the Winter Olympics and North Korea's nuclear program next Tuesday at the border city of Panmunjom. ](/news/2018/01/2/south-korean-president-moon-jae-in-responding-to-north-korean-leader-kim-jong-un-s-offer-during-his-new-yearas-day-address-proposes-a-me.md) _Context: North Korea_
+5. [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md) _Context: North Korea_

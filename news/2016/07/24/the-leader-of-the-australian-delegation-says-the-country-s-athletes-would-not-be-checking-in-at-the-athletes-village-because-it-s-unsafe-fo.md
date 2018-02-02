@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/24/the-leader-of-the-australian-delegation-says-th
 
 ### [2016-07-24](/news/2016/07/24/index.md)
 
+##### Olympics
 # The leader of the Australian delegation says the country's athletes would not be checking in at the athletes' village because it's unsafe for human habitation. Australian athletes have been staying at nearby Rio de Janeiro hotels. 
 
 The leader of the Australian delegation in Brazil, Kitty Chiller, said the problems prevented the Olympians from moving in to their quarters in the athletes’ village.

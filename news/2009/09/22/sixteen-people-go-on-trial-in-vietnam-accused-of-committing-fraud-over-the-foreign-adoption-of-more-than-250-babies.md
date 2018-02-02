@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/22/sixteen-people-go-on-trial-in-vietnam-accused-of-committing-fraud-over-the-foreign-adoption-of-more-than-250-babies.html)  [JSON](/news/2009/09/22/sixteen-people-go-on-trial-in-vietnam-accused-of-committing-fraud-over-the-foreign-adoption-of-more-than-250-babies.json)  [XML](/news/2009/09/22/sixteen-people-go-on-trial-in-vietnam-accused-of-committing-fraud-over-the-foreign-adoption-of-more-than-250-babies.xml)  
+
 ### [2009-09-22](/news/2009/09/22/index.md)
 
+##### Vietnam
 #  Sixteen people go on trial in Vietnam accused of committing fraud over the foreign adoption of more than 250 babies. 
 
 Sixteen Vietnamese doctors, nurses and officials sold 266 babies for overseas adoptions, a court heard on Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8269121.stm)
 2. [Miami Herald](http://www.miamiherald.com/news/world/AP/story/1245248.html)
@@ -14,8 +18,8 @@ Sixteen Vietnamese doctors, nurses and officials sold 266 babies for overseas ad
 
 ### Related:
 
-1. [Floods and landslides in Yen Bai and Hoa Binh provinces in Vietnam kill at least 54 people with 39 more missing. ](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-54-people-with-39-more-missing.md) _Context: Vietnam_
-2. [Flights are cancelled and evacuations are ordered for over 100,000 people in the North Central Coast of Vietnam, in preparation for Typhoon Doksuri. The system has already claimed four lives passing over the Philippines. ](/news/2017/09/14/flights-are-cancelled-and-evacuations-are-ordered-for-over-100-000-people-in-the-north-central-coast-of-vietnam-in-preparation-for-typhoon.md) _Context: Vietnam_
-3. [Vietnam pledges on ending the trafficking and farming of bears. ](/news/2017/07/19/vietnam-pledges-on-ending-the-trafficking-and-farming-of-bears.md) _Context: Vietnam_
-4. [At least 11 people are dead after a bus and truck collide in Vietnam's Gia Lai province. ](/news/2017/05/7/at-least-11-people-are-dead-after-a-bus-and-truck-collide-in-vietnam-s-gia-lai-province.md) _Context: Vietnam_
-5. [An Indonesian maritime patrol boat, the "KM Hiu Macan 001", intercepts five boats and arrested 55 Vietnamese crew members for allegedly poaching off Natuna Islands, but after an unexpected aggressive intervention by Vietnamese coast guards forces the Indonesian authorities to back off, release the arrested men and return to base empty handed. ](/news/2017/05/21/an-indonesian-maritime-patrol-boat-the-km-hiu-macan-001-intercepts-five-boats-and-arrested-55-vietnamese-crew-members-for-allegedly-poac.md) _Context: Vietnam_
+1. [The death toll in Vietnam from Typhoon Damrey reaches 27, another 22 are missing. ](/news/2017/11/5/the-death-toll-in-vietnam-from-typhoon-damrey-reaches-27-another-22-are-missing.md) _Context: Vietnam_
+2. [Typhoon Damrey kills at least 19 people in Vietnam, a week before the country is set to host APEC Vietnam 2017. ](/news/2017/11/4/typhoon-damrey-kills-at-least-19-people-in-vietnam-a-week-before-the-country-is-set-to-host-apec-vietnam-2017.md) _Context: Vietnam_
+3. [Floods and landslides in Yen Bai and Hoa Binh provinces in Vietnam kill at least 54 people with 39 more missing. ](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-nh-provinces-in-vietnam-kill-at-least-54-people-with-39-more-missing.md) _Context: Vietnam_
+4. [Flights are cancelled and evacuations are ordered for over 100,000 people in the North Central Coast of Vietnam, in preparation for Typhoon Doksuri. The system has already claimed four lives passing over the Philippines. ](/news/2017/09/14/flights-are-cancelled-and-evacuations-are-ordered-for-over-100-000-people-in-the-north-central-coast-of-vietnam-in-preparation-for-typhoon.md) _Context: Vietnam_
+5. [Vietnam pledges on ending the trafficking and farming of bears. ](/news/2017/07/19/vietnam-pledges-on-ending-the-trafficking-and-farming-of-bears.md) _Context: Vietnam_

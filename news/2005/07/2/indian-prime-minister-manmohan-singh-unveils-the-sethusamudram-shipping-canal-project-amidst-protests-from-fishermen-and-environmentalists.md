@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/2/indian-prime-minister-manmohan-singh-unveils-the-sethusamudram-shipping-canal-project-amidst-protests-from-fishermen-and-environmentalists.html)  [JSON](/news/2005/07/2/indian-prime-minister-manmohan-singh-unveils-the-sethusamudram-shipping-canal-project-amidst-protests-from-fishermen-and-environmentalists.json)  [XML](/news/2005/07/2/indian-prime-minister-manmohan-singh-unveils-the-sethusamudram-shipping-canal-project-amidst-protests-from-fishermen-and-environmentalists.xml)  
+
 ### [2005-07-2](/news/2005/07/2/index.md)
 
+##### India
 #  Indian Prime Minister Manmohan Singh unveils the Sethusamudram Shipping Canal Project amidst protests from fishermen and environmentalists. Nearly 600 are arrested. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Rediff](http://us.rediff.com/news/2005/jul/02sethu.htm)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/DEL205659.htm)

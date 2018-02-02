@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/17/tony-blair-publicly-defends-his-decision-to-invite-president-bush-to-the-uk-on-a-state-visit.html)  [JSON](/news/2003/11/17/tony-blair-publicly-defends-his-decision-to-invite-president-bush-to-the-uk-on-a-state-visit.json)  [XML](/news/2003/11/17/tony-blair-publicly-defends-his-decision-to-invite-president-bush-to-the-uk-on-a-state-visit.xml)  
+
 ### [2003-11-17](/news/2003/11/17/index.md)
 
+##### Tony Blair
 #  Tony Blair publicly defends his decision to invite President Bush to the UK on a state visit.
 
 

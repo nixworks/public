@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/05/16/an-earthquake-of-5-8-magnitude-is-felt-on-puerto-rico.html)  [JSON](/news/2010/05/16/an-earthquake-of-5-8-magnitude-is-felt-on-puerto-rico.json)  [XML](/news/2010/05/16/an-earthquake-of-5-8-magnitude-is-felt-on-puerto-rico.xml)  
+
 ### [2010-05-16](/news/2010/05/16/index.md)
 
+##### Puerto Rico
 # An earthquake of 5.8 magnitude is felt on Puerto Rico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hrDOg_FNp6Oe8QXQpyz3gfYJaJGAD9FNPN4O2)
-2. [Reuters](http://www.reuters.com/article/idUSN1623004620100516?type=marketsNews)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/idUSN1623004620100516?type=marketsNews)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

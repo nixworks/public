@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/6/the-new-england-patriots-win-the-super-bowl-defeating-the-philadelphia-eagles-24-21.html)  [JSON](/news/2005/02/6/the-new-england-patriots-win-the-super-bowl-defeating-the-philadelphia-eagles-24-21.json)  [XML](/news/2005/02/6/the-new-england-patriots-win-the-super-bowl-defeating-the-philadelphia-eagles-24-21.xml)  
+
 ### [2005-02-6](/news/2005/02/6/index.md)
 
+##### New England Patriots
 #  The New England Patriots win the Super Bowl, defeating the Philadelphia Eagles 24-21. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wash. Times](http://www.washtimes.com/national/20050207-124338-3803r.htm)
 

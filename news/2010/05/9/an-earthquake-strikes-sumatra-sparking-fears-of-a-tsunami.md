@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/9/an-earthquake-strikes-sumatra-sparking-fears-of-a-tsunami.html)  [JSON](/news/2010/05/9/an-earthquake-strikes-sumatra-sparking-fears-of-a-tsunami.json)  [XML](/news/2010/05/9/an-earthquake-strikes-sumatra-sparking-fears-of-a-tsunami.xml)  
+
 ### [2010-05-9](/news/2010/05/9/index.md)
 
+##### Sumatra
 # An earthquake strikes Sumatra sparking fears of a tsunami. 
 
 An&#x20;earthquake&#x20;of&#x20;7.2&#x20;magnitude&#x20;on&#x20;the&#x20;Richter&#x20;scale&#x20;hit&#x20;the&#x20;northern&#x20;part&#x20;of&#x20;the&#x20;island&#x20;of&#x20;Sumatra,&#x20;raising&#x20;concerns&#x20;of&#x20;a&#x20;local&#x20;tsunami&#x20;threat.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8670593.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/breakingnews/177347/powerful-quake-hits-indonesia-aceh)

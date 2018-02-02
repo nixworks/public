@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/18/rioting-breaks-out-in-guangxi-province-china-in-protest-at-the-government-imposing-fines-for-breaches-of-its-strict-one-child-policy.html)  [JSON](/news/2007/05/18/rioting-breaks-out-in-guangxi-province-china-in-protest-at-the-government-imposing-fines-for-breaches-of-its-strict-one-child-policy.json)  [XML](/news/2007/05/18/rioting-breaks-out-in-guangxi-province-china-in-protest-at-the-government-imposing-fines-for-breaches-of-its-strict-one-child-policy.xml)  
+
 ### [2007-05-18](/news/2007/05/18/index.md)
 
+##### Guangxi Zhuang
 #  Rioting breaks out in Guangxi province, China, in protest at the government imposing fines for breaches of its strict one-child policy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/6677273.stm)
 

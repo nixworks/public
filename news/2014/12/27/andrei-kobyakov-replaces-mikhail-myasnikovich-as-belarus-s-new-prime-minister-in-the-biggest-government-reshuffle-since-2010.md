@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/27/andrei-kobyakov-replaces-mikhail-myasnikovich-as-belarus-s-new-prime-minister-in-the-biggest-government-reshuffle-since-2010.html)  [JSON](/news/2014/12/27/andrei-kobyakov-replaces-mikhail-myasnikovich-as-belarus-s-new-prime-minister-in-the-biggest-government-reshuffle-since-2010.json)  [XML](/news/2014/12/27/andrei-kobyakov-replaces-mikhail-myasnikovich-as-belarus-s-new-prime-minister-in-the-biggest-government-reshuffle-since-2010.xml)  
+
 ### [2014-12-27](/news/2014/12/27/index.md)
 
+##### Andrei Kobyakov
 # Andrei Kobyakov replaces Mikhail Myasnikovich as Belarus's new prime minister in the biggest government reshuffle since 2010. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/lukashenka-belarus-new-prime-minister/26765257.html)
 

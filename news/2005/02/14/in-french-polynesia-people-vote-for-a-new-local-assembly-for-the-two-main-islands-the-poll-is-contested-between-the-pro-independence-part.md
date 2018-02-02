@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/14/in-french-polynesia-people-vote-for-a-new-local-assembly-for-the-two-main-islands-the-poll-is-contested-between-the-pro-independence-part.html)  [JSON](/news/2005/02/14/in-french-polynesia-people-vote-for-a-new-local-assembly-for-the-two-main-islands-the-poll-is-contested-between-the-pro-independence-part.json)  [XML](/news/2005/02/14/in-french-polynesia-people-vote-for-a-new-local-assembly-for-the-two-main-islands-the-poll-is-contested-between-the-pro-independence-part.xml)  
+
 ### [2005-02-14](/news/2005/02/14/index.md)
 
+##### French Polynesia
 #  In French Polynesia, people vote for a new local assembly for the two main islands. The poll is contested between the pro-independence party of Oscar Temaru and the party of pro-Paris conservative leader Gaston Flosse. The results of the last year's general election were cancelled and a new poll ordered to settle the dispute. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200502/s1302548.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4263207.stm)

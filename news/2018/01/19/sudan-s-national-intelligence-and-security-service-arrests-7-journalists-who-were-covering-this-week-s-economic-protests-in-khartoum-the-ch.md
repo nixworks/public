@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/19/sudan-s-national-intelligence-and-security-serv
 
 ### [2018-01-19](/news/2018/01/19/index.md)
 
+##### Sudan
 # Sudan's National Intelligence and Security Service arrests 7 journalists who were covering this week's economic protests in Khartoum. The charges are unclear. 
 
 The arrests of seven reporters covering economic protests reflect what advocacy groups call increasingly harsh censorship in the vast African country.

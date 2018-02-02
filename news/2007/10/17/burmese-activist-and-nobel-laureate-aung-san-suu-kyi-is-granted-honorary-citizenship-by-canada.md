@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/10/17/burmese-activist-and-nobel-laureate-aung-san-suu-kyi-is-granted-honorary-citizenship-by-canada.html)  [JSON](/news/2007/10/17/burmese-activist-and-nobel-laureate-aung-san-suu-kyi-is-granted-honorary-citizenship-by-canada.json)  [XML](/news/2007/10/17/burmese-activist-and-nobel-laureate-aung-san-suu-kyi-is-granted-honorary-citizenship-by-canada.xml)  
+
 ### [2007-10-17](/news/2007/10/17/index.md)
 
+##### Burma
 #  Burmese activist and Nobel laureate Aung San Suu Kyi is granted honorary citizenship by Canada. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20071017.wsuukyi1017/BNStory/Front)
+1. [Globe and Mail](https://www.theglobeandmail.com/servlet/story/RTGAM.20071017.wsuukyi1017/BNStory/Front)
 
 ### Related:
 

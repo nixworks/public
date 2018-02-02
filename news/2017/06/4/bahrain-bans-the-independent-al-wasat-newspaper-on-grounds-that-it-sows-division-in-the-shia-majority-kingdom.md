@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/4/bahrain-bans-the-independent-al-wasat-newspaper-
 
 ### [2017-06-4](/news/2017/06/4/index.md)
 
+##### Censorship in Bahrain
 # Bahrain bans the independent "Al-Wasat" newspaper on grounds that it "sows division" in the Shia-majority kingdom. 
 
 The government in Sunni-ruled Bahrain announced Sunday an indefinite ban on the independent Al-Wasat newspaper on accusations that it publishes &quot;what sows division&quot; in the Shiite-majority Gulf kingdom. The order was due to Al-Wasat&#x27;s &quot;violation of the law and repeatedly publishing

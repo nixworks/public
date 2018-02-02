@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/12/authorities-in-indonesia-search-for-70-prison-inmates-who-escaped-from-the-tanjung-gusta-prison-in-north-sumatra-province-after-a-prison-rio.html)  [JSON](/news/2013/07/12/authorities-in-indonesia-search-for-70-prison-inmates-who-escaped-from-the-tanjung-gusta-prison-in-north-sumatra-province-after-a-prison-rio.json)  [XML](/news/2013/07/12/authorities-in-indonesia-search-for-70-prison-inmates-who-escaped-from-the-tanjung-gusta-prison-in-north-sumatra-province-after-a-prison-rio.xml)  
+
 ### [2013-07-12](/news/2013/07/12/index.md)
 
+##### Indonesia
 # Authorities in Indonesia search for 70 prison inmates who escaped from the Tanjung Gusta prison in North Sumatra province after a prison riot last night. Twelve of the escapees were convicted of terrorism related offences. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/1788304/Mass-escape-after-Indonesian-prison-riot)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/11/conflict-in-iraq-insurgent-suicide-bomb-attacks-leave-over-30-people-dead-in-talafar-north-west-iraq.html)  [JSON](/news/2005/10/11/conflict-in-iraq-insurgent-suicide-bomb-attacks-leave-over-30-people-dead-in-talafar-north-west-iraq.json)  [XML](/news/2005/10/11/conflict-in-iraq-insurgent-suicide-bomb-attacks-leave-over-30-people-dead-in-talafar-north-west-iraq.xml)  
+
 ### [2005-10-11](/news/2005/10/11/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Insurgent suicide bomb attacks leave over 30 people dead in Talafar, North West Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4330156.stm)
 

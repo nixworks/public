@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/18/in-mexico-the-prd-candidate-andra-c-s-manuel-la3pez-obrador-accuses-the-institutional-revolutionary-party-pri-of-using-illicit-funds-and.html)  [JSON](/news/2012/07/18/in-mexico-the-prd-candidate-andra-c-s-manuel-la3pez-obrador-accuses-the-institutional-revolutionary-party-pri-of-using-illicit-funds-and.json)  [XML](/news/2012/07/18/in-mexico-the-prd-candidate-andra-c-s-manuel-la3pez-obrador-accuses-the-institutional-revolutionary-party-pri-of-using-illicit-funds-and.xml)  
+
 ### [2012-07-18](/news/2012/07/18/index.md)
 
+##### Party of the Democratic Revolution
 # In Mexico, the PRD candidate, Andres Manuel Lopez Obrador, accuses the Institutional Revolutionary Party (PRI) of using illicit funds and laundering money to finance the campaign of Enrique Pena Nieto, the president-elect in the recent presidential elections. The PRI denies the claims and retorts that Lopez Obrador is acting out of desperation and irrationality. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/jul/19/lopez-obrador-election-money-laundering)
 

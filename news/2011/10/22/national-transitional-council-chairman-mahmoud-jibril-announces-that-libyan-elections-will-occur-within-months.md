@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/22/national-transitional-council-chairman-mahmoud-jibril-announces-that-libyan-elections-will-occur-within-months.html)  [JSON](/news/2011/10/22/national-transitional-council-chairman-mahmoud-jibril-announces-that-libyan-elections-will-occur-within-months.json)  [XML](/news/2011/10/22/national-transitional-council-chairman-mahmoud-jibril-announces-that-libyan-elections-will-occur-within-months.xml)  
+
 ### [2011-10-22](/news/2011/10/22/index.md)
 
+##### National Transitional Council
 # National Transitional Council chairman Mahmoud Jibril announces that Libyan elections will occur "within months". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/10/22/world/africa/libya-main/index.html?hpt=hp_t1)
 

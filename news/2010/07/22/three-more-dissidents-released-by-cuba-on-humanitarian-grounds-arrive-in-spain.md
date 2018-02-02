@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/22/three-more-dissidents-released-by-cuba-on-humanitarian-grounds-arrive-in-spain.html)  [JSON](/news/2010/07/22/three-more-dissidents-released-by-cuba-on-humanitarian-grounds-arrive-in-spain.json)  [XML](/news/2010/07/22/three-more-dissidents-released-by-cuba-on-humanitarian-grounds-arrive-in-spain.xml)  
+
 ### [2010-07-22](/news/2010/07/22/index.md)
 
+##### Cuba
 # Three more dissidents released by Cuba on humanitarian grounds arrive in Spain. 
 
 Three more Cuban dissidents recently released by Havana have arrived in Spain, along with their relatives.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10729516)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

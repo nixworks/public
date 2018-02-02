@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/10/burma-s-newly-announced-second-law-relating-to-the-2010-general-election-bars-anyone-with-a-criminal-conviction-from-participating-in-a-poli.html)  [JSON](/news/2010/03/10/burma-s-newly-announced-second-law-relating-to-the-2010-general-election-bars-anyone-with-a-criminal-conviction-from-participating-in-a-poli.json)  [XML](/news/2010/03/10/burma-s-newly-announced-second-law-relating-to-the-2010-general-election-bars-anyone-with-a-criminal-conviction-from-participating-in-a-poli.xml)  
+
 ### [2010-03-10](/news/2010/03/10/index.md)
 
+##### Burma
 # Burma's newly announced second law relating to the 2010 general election bars anyone with a criminal conviction from participating in a political party, effectively barring Aung San Suu Kyi. 
 
 Military announces election law disqualifying anyone convicted of a crime.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/2010310513981448.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/03/10/myanmar.election.law/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/23/a-suicide-bomb-explosion-kills-at-least-26-people-in-a-busy-market-in-sadr-city-a-predominantly-shi-a-district-of-baghdad.html)  [JSON](/news/2006/07/23/a-suicide-bomb-explosion-kills-at-least-26-people-in-a-busy-market-in-sadr-city-a-predominantly-shi-a-district-of-baghdad.json)  [XML](/news/2006/07/23/a-suicide-bomb-explosion-kills-at-least-26-people-in-a-busy-market-in-sadr-city-a-predominantly-shi-a-district-of-baghdad.xml)  
+
 ### [2006-07-23](/news/2006/07/23/index.md)
 
+##### suicide bomb
 #  A suicide bomb explosion kills at least 26 people in a busy market in Sadr City, a predominantly Shi'a district of Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.channelnewsasia.com/stories/afp_world/view/220750/1/.html)
 

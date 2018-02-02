@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/20/a-suicide-bombing-strikes-camp-taji-killing-fou
 
 ### [2016-06-20](/news/2016/06/20/index.md)
 
+##### Iraqi Civil War (2014-present)
 # A suicide bombing strikes Camp Taji, killing four Iraqi Army soldiers. 
 
 Four Iraqi soldiers have been killed in a suicide bombing outside the camp where New Zealand soldiers are deployed in Iraq.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/13/hamas-security-forces-arrest-400-fatah-supporters-after-a-rally-to-commemorate-yasser-arafat-s-death-ended-in-gunfire.html)  [JSON](/news/2007/11/13/hamas-security-forces-arrest-400-fatah-supporters-after-a-rally-to-commemorate-yasser-arafat-s-death-ended-in-gunfire.json)  [XML](/news/2007/11/13/hamas-security-forces-arrest-400-fatah-supporters-after-a-rally-to-commemorate-yasser-arafat-s-death-ended-in-gunfire.xml)  
+
 ### [2007-11-13](/news/2007/11/13/index.md)
 
+##### Hamas
 #  Hamas security forces arrest 400 Fatah supporters after a rally to commemorate Yasser Arafat's death ended in gunfire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7090572.stm)
 

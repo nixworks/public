@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms
 
 ### [2017-08-1](/news/2017/08/1/index.md)
 
+##### Political appointments by Donald Trump
 # The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. 
 
 
@@ -20,8 +21,8 @@ Formats: [HTML](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms
 
 ### Related:
 
-1. [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md) _Context: United States Senate_
-2. [Minnesota Governor Mark Dayton announces the appointment of Lt. Gov. Tina Smith to replace resigning Sen. Al Franken in the United States Senate. ](/news/2017/12/13/minnesota-governor-mark-dayton-announces-the-appointment-of-lt-gov-tina-smith-to-replace-resigning-sen-al-franken-in-the-united-states-se.md) _Context: United States Senate_
-3. [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. The race is between Roy Moore (R) and Doug Jones (D). ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions-the.md) _Context: United States Senate_
-4. [United States Senator Rand Paul is recovering from fractured ribs after being assaulted by a neighbor at his home. ](/news/2017/11/5/united-states-senator-rand-paul-is-recovering-from-fractured-ribs-after-being-assaulted-by-a-neighbor-at-his-home.md) _Context: United States Senate_
-5. [A mistrial is declared in the 10-week corruption trial of U.S. Senator Bob Menendez (D-NJ) who was accused of accepting private flights, campaign contributions, etc., from Florida ophthalmologist Salomon Melgen in exchange for official favors. A juror told the media the panel was split 10-2 in favor of acquittal. ](/news/2017/11/16/a-mistrial-is-declared-in-the-10-week-corruption-trial-of-u-s-senator-bob-menendez-d-nj-who-was-accused-of-accepting-private-flights-cam.md) _Context: United States Senate_
+1. [Dr. Brenda Fitzgerald resigns as head of the Centers for Disease Control and Prevention following a report that she purchased stock in food, health insurance, and tobacco companies shortly after taking up her federal government position. ](/news/2018/01/31/dr-brenda-fitzgerald-resigns-as-head-of-the-centers-for-disease-control-and-prevention-following-a-report-that-she-purchased-stock-in-food.md) _Context: Political appointments by Donald Trump_
+2. [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md) _Context: United States Senate_
+3. [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md) _Context: Political appointments by Donald Trump_
+4. [The United States Senate confirms Jerome Powell as chairman of the Federal Reserve Bank with 84 votes for and 13 against. ](/news/2018/01/23/the-united-states-senate-confirms-jerome-powell-as-chairman-of-the-federal-reserve-bank-with-84-votes-for-and-13-against.md) _Context: United States Senate_
+5. [The United States Senate reaches an agreement to reopen federal agencies through to February 8. A bill is working its way through the legislative process. The first Senate vote was 81-18. ](/news/2018/01/22/the-united-states-senate-reaches-an-agreement-to-reopen-federal-agencies-through-to-february-8-a-bill-is-working-its-way-through-the-legisl.md) _Context: United States Senate_

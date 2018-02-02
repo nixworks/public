@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/01/22/eid-ul-adha-the-second-in-the-series-of-eid-festivals-that-muslims-celebrate.html)  [JSON](/news/2005/01/22/eid-ul-adha-the-second-in-the-series-of-eid-festivals-that-muslims-celebrate.json)  [XML](/news/2005/01/22/eid-ul-adha-the-second-in-the-series-of-eid-festivals-that-muslims-celebrate.xml)  
+
 ### [2005-01-22](/news/2005/01/22/index.md)
 
+##### Eid ul-Adha
 #  Eid ul-Adha the second in the series of Eid festivals that Muslims celebrate.
 
 

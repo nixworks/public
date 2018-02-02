@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/28/a-bulgarian-court-releases-serbian-war-crimes-suspect-aedomir-brankovia-because-of-his-diplomatic-immunity.html)  [JSON](/news/2005/04/28/a-bulgarian-court-releases-serbian-war-crimes-suspect-aedomir-brankovia-because-of-his-diplomatic-immunity.json)  [XML](/news/2005/04/28/a-bulgarian-court-releases-serbian-war-crimes-suspect-aedomir-brankovia-because-of-his-diplomatic-immunity.xml)  
+
 ### [2005-04-28](/news/2005/04/28/index.md)
 
+##### Bulgaria
 #  A Bulgarian court releases Serbian war crimes suspect Cedomir Brankovic because of his diplomatic immunity. 
 
 A panel of Sofia City Court released Serbian war crimes suspect Cedomir Brankovic, who was arrested late on Tuesday in the Bulgarian capital. 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4495829.stm)
 2. [Bulgarian News Network](http://www.bgnewsnet.com/story.php?lang=en&sid=20090)

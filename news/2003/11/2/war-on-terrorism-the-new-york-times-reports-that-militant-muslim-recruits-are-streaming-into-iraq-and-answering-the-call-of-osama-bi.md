@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/2/war-on-terrorism-the-new-york-times-reports-that-militant-muslim-recruits-are-streaming-into-iraq-and-answering-the-call-of-osama-bi.html)  [JSON](/news/2003/11/2/war-on-terrorism-the-new-york-times-reports-that-militant-muslim-recruits-are-streaming-into-iraq-and-answering-the-call-of-osama-bi.json)  [XML](/news/2003/11/2/war-on-terrorism-the-new-york-times-reports-that-militant-muslim-recruits-are-streaming-into-iraq-and-answering-the-call-of-osama-bi.xml)  
+
 ### [2003-11-2](/news/2003/11/2/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: The "New York Times" reports that militant Muslim recruits are ""streaming into Iraq"" and answering the call of Osama bin Laden and other extremists. These individuals are joining the fight against the coalition's occupation in Iraq, state counterterrorism officials. Intelligence officials (in six countries) have detected an estimate of hundreds of militant young Muslims from various countries headed for Iraq (primarily by crossing the Syrian or Iranian borders).
 
 

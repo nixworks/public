@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/3/a-passenger-plane-carrying-27-people-crashes-at-the-murtala-muhammed-international-airport-in-lagos-nigeria-with-13-deaths-reported.html)  [JSON](/news/2013/10/3/a-passenger-plane-carrying-27-people-crashes-at-the-murtala-muhammed-international-airport-in-lagos-nigeria-with-13-deaths-reported.json)  [XML](/news/2013/10/3/a-passenger-plane-carrying-27-people-crashes-at-the-murtala-muhammed-international-airport-in-lagos-nigeria-with-13-deaths-reported.xml)  
+
 ### [2013-10-3](/news/2013/10/3/index.md)
 
+##### Murtala Muhammed International Airport
 # A passenger plane carrying 27 people crashes at the Murtala Muhammed International Airport in Lagos, Nigeria, with 13 deaths reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24381066)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70254000/jpg/_70254943_70254942.jpg)

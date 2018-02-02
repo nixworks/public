@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/29/iraq-prime-minister-haider-al-abadi-declares-th
 
 ### [2017-06-29](/news/2017/06/29/index.md)
 
+##### Battle of Mosul
 # Iraq Prime Minister Haider al-Abadi declares the end of the Islamic State's self-declared caliphate following the capture of the Great Mosque of al-Nuri in Mosul. 
 
 With the capture of a destroyed mosque in the heart of the ISIS’ Iraqi capital of Mosul, the nation&#x27;s government declared victory over ISIS militants in Iraq.

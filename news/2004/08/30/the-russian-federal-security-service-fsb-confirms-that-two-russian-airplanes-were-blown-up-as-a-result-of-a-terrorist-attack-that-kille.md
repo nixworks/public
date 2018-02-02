@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/08/30/the-russian-federal-security-service-fsb-confirms-that-two-russian-airplanes-were-blown-up-as-a-result-of-a-terrorist-attack-that-kille.html)  [JSON](/news/2004/08/30/the-russian-federal-security-service-fsb-confirms-that-two-russian-airplanes-were-blown-up-as-a-result-of-a-terrorist-attack-that-kille.json)  [XML](/news/2004/08/30/the-russian-federal-security-service-fsb-confirms-that-two-russian-airplanes-were-blown-up-as-a-result-of-a-terrorist-attack-that-kille.xml)  
+
 ### [2004-08-30](/news/2004/08/30/index.md)
 
+##### Federal Security Service
 #  The Russian Federal Security Service (FSB) confirms that two Russian "airplanes were blown up as a result of a terrorist attack" that killed 90 people on August 24, 2004. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6103561)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6103561)
 
 ### Related:
 

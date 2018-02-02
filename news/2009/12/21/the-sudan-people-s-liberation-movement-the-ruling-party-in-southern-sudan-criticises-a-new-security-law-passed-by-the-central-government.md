@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/21/the-sudan-people-s-liberation-movement-the-ruling-party-in-southern-sudan-criticises-a-new-security-law-passed-by-the-central-government.html)  [JSON](/news/2009/12/21/the-sudan-people-s-liberation-movement-the-ruling-party-in-southern-sudan-criticises-a-new-security-law-passed-by-the-central-government.json)  [XML](/news/2009/12/21/the-sudan-people-s-liberation-movement-the-ruling-party-in-southern-sudan-criticises-a-new-security-law-passed-by-the-central-government.xml)  
+
 ### [2009-12-21](/news/2009/12/21/index.md)
 
+##### Sudan People's Liberation Army/Movement
 #  The Sudan People's Liberation Movement, the ruling party in Southern Sudan, criticises a new security law passed by the central government, saying it could undermine the 2010 elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8424201.stm)
 2. [Sudan Tribune](http://www.sudantribune.com/spip.php?article33534)

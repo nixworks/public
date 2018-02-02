@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/23/the-day-of-the-doctor-premieres-in-94-countries-simultaneously-to-celebrate-the-50th-anniversary-of-british-science-fiction-show-doctor-wh.html)  [JSON](/news/2013/11/23/the-day-of-the-doctor-premieres-in-94-countries-simultaneously-to-celebrate-the-50th-anniversary-of-british-science-fiction-show-doctor-wh.json)  [XML](/news/2013/11/23/the-day-of-the-doctor-premieres-in-94-countries-simultaneously-to-celebrate-the-50th-anniversary-of-british-science-fiction-show-doctor-wh.xml)  
+
 ### [2013-11-23](/news/2013/11/23/index.md)
 
+##### The Day of the Doctor
 # "The Day of the Doctor" premieres in 94 countries simultaneously to celebrate the 50th anniversary of British science-fiction show Doctor Who. 
 
 Doctor Who fans around the world watch its 50th anniversary episode, in what is believed to be the largest simulcast of a TV drama in history.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/entertainment-arts-25070847)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71309000/jpg/_71309544_untitled2.jpg)

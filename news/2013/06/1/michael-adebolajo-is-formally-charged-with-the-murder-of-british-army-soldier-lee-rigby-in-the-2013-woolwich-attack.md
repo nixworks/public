@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/1/michael-adebolajo-is-formally-charged-with-the-murder-of-british-army-soldier-lee-rigby-in-the-2013-woolwich-attack.html)  [JSON](/news/2013/06/1/michael-adebolajo-is-formally-charged-with-the-murder-of-british-army-soldier-lee-rigby-in-the-2013-woolwich-attack.json)  [XML](/news/2013/06/1/michael-adebolajo-is-formally-charged-with-the-murder-of-british-army-soldier-lee-rigby-in-the-2013-woolwich-attack.xml)  
+
 ### [2013-06-1](/news/2013/06/1/index.md)
 
+##### British Army
 # Michael Adebolajo is formally charged with the murder of British Army soldier Lee Rigby in the 2013 Woolwich attack. 
 
 Michael Adebolajo is accused of murdering Drummer Lee Rigby, the attempted murder of two police officers and possessing a firearm.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/1098237/woolwich-soldier-killing-second-man-charged)
 1. [Cover Image](http://e3.365dm.com/16/07/1600x900/169504904-1_3620448.jpg?20160705140703)

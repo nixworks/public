@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/19/sam-brownback-senator-for-kansas-pulls-out-of-the-united-states-presidential-election-2008-due-to-a-lack-of-support-and-funds.html)  [JSON](/news/2007/10/19/sam-brownback-senator-for-kansas-pulls-out-of-the-united-states-presidential-election-2008-due-to-a-lack-of-support-and-funds.json)  [XML](/news/2007/10/19/sam-brownback-senator-for-kansas-pulls-out-of-the-united-states-presidential-election-2008-due-to-a-lack-of-support-and-funds.xml)  
+
 ### [2007-10-19](/news/2007/10/19/index.md)
 
+##### Sam Brownback
 #  Sam Brownback, Senator for Kansas, pulls out of the United States presidential election, 2008 due to a lack of support and funds. 
 
 Republican Sen. Sam Brownback abandoned his 2008 presidential bid Friday, his White House aspirations dashed by a lack of money and a failure to gain traction nationally
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,303679,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

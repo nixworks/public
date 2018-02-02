@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/5/actor-don-cheadle-is-appointed-as-goodwill-ambassador-for-the-united-nations-environment-agency-during-a-ceremony-in-rwanda-to-mark-world-en.html)  [JSON](/news/2010/06/5/actor-don-cheadle-is-appointed-as-goodwill-ambassador-for-the-united-nations-environment-agency-during-a-ceremony-in-rwanda-to-mark-world-en.json)  [XML](/news/2010/06/5/actor-don-cheadle-is-appointed-as-goodwill-ambassador-for-the-united-nations-environment-agency-during-a-ceremony-in-rwanda-to-mark-world-en.xml)  
+
 ### [2010-06-5](/news/2010/06/5/index.md)
 
+##### Don Cheadle
 # Actor Don Cheadle is appointed as Goodwill Ambassador for the United Nations environment agency during a ceremony in Rwanda to mark World Environment Day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UN](http://www.un.org/apps/news/story.asp?NewsID=34934&Cr=&Cr1=Environment)
 

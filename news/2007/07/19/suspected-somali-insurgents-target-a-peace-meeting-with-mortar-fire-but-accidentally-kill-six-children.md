@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/19/suspected-somali-insurgents-target-a-peace-meeting-with-mortar-fire-but-accidentally-kill-six-children.html)  [JSON](/news/2007/07/19/suspected-somali-insurgents-target-a-peace-meeting-with-mortar-fire-but-accidentally-kill-six-children.json)  [XML](/news/2007/07/19/suspected-somali-insurgents-target-a-peace-meeting-with-mortar-fire-but-accidentally-kill-six-children.xml)  
+
 ### [2007-07-19](/news/2007/07/19/index.md)
 
+##### Somalia
 #  Suspected Somali insurgents target a peace meeting with mortar fire but accidentally kill six children. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Canada.com](http://www.canada.com/topics/news/world/story.html?id=c20f3d58-b314-4717-ac70-dce28cab8076&k=39076)
 
@@ -15,4 +19,4 @@
 2. [ United States Representative Donald M. Payne comes under mortar fire at Aden Adde International Airport in Somalia. [http:--www.telegraph.co.uk-news-worldnews-africaandindianocean-somalia-5149000-US-congressman-comes-under-mortar-fire-as-he-leaves-Somalia.html "(Telegraph)"]](/news/2009/04/13/united-states-representative-donald-m-payne-comes-under-mortar-fire-at-aden-adde-international-airport-in-somalia-http-www-telegraph-c.md) _Context: Mortar, Somalia_
 3. [ A Somali peace conference in Mogadishu gets off to a bad start as it is disrupted by mortar shells. ](/news/2007/07/15/a-somali-peace-conference-in-mogadishu-gets-off-to-a-bad-start-as-it-is-disrupted-by-mortar-shells.md) _Context: Mortar, Somalia_
 4. [ War in Somalia: Eight people are killed in a mortar attack in Somalia's capital Mogadishu. ](/news/2007/02/2/war-in-somalia-eight-people-are-killed-in-a-mortar-attack-in-somalia-s-capital-mogadishu.md) _Context: Mortar, Somalia_
-5. [At least 276 people are killed when a truck filled with explosives detonates outside a hotel in the capital Mogadishu, becoming the worst terrorist attack in Somalia's history. ](/news/2017/10/14/at-least-276-people-are-killed-when-a-truck-filled-with-explosives-detonates-outside-a-hotel-in-the-capital-mogadishu-becoming-the-worst-te.md) _Context: Somalia_
+5. [The United States launches airstrikes against Islamic State in Somalia for the first time. The United States Africa Command says "several terrorists" were killed in the strikes, which took place in coordination with Somalia's government. ](/news/2017/11/3/the-united-states-launches-airstrikes-against-islamic-state-in-somalia-for-the-first-time-the-united-states-africa-command-says-several-te.md) _Context: Somalia_

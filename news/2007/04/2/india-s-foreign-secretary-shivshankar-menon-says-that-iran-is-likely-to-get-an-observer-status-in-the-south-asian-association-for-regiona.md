@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/2/india-s-foreign-secretary-shivshankar-menon-says-that-iran-is-likely-to-get-an-observer-status-in-the-south-asian-association-for-regiona.html)  [JSON](/news/2007/04/2/india-s-foreign-secretary-shivshankar-menon-says-that-iran-is-likely-to-get-an-observer-status-in-the-south-asian-association-for-regiona.json)  [XML](/news/2007/04/2/india-s-foreign-secretary-shivshankar-menon-says-that-iran-is-likely-to-get-an-observer-status-in-the-south-asian-association-for-regiona.xml)  
+
 ### [2007-04-2](/news/2007/04/2/index.md)
 
+##### India
 #  India's Foreign Secretary, Shivshankar Menon, says that Iran is likely to get an observer status in the South Asian Association for Regional Cooperation. 
 
 Iran is set to be the new observer at Saarc and, apart from the UN, may end up sharing the table with the US at one of the few multilateral organisations.
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/ap/2007/04/01/asia/AS-GEN-India-SAARC-Iran.php)
 2. [Times of India](http://timesofindia.indiatimes.com/NEWS/India/Iran_to_be_observer_at_Saarc_meet/articleshow/1839676.cms)

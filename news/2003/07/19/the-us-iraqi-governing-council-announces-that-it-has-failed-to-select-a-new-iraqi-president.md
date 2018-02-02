@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/19/the-us-iraqi-governing-council-announces-that-it-has-failed-to-select-a-new-iraqi-president.html)  [JSON](/news/2003/07/19/the-us-iraqi-governing-council-announces-that-it-has-failed-to-select-a-new-iraqi-president.json)  [XML](/news/2003/07/19/the-us-iraqi-governing-council-announces-that-it-has-failed-to-select-a-new-iraqi-president.xml)  
+
 ### [2003-07-19](/news/2003/07/19/index.md)
 
+##### Iraqi Governing Council
 #  The US Iraqi Governing Council announces that it has failed to select a new Iraqi President.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/30/according-to-survivors-at-least-70-migrants-are
 
 ### [2016-04-30](/news/2016/04/30/index.md)
 
+##### European migrant crisis
 # According to survivors, at least 70 migrants are missing after their dinghy sank off the coast of Libya. 26 people were rescued by the Italian coast guard. 
 
 Eighty-four migrants are missing after their inflatable dinghy sank off the Libyan coast, the International Organization for Migration says.

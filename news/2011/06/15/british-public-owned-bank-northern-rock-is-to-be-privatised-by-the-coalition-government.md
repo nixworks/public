@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/15/british-public-owned-bank-northern-rock-is-to-be-privatised-by-the-coalition-government.html)  [JSON](/news/2011/06/15/british-public-owned-bank-northern-rock-is-to-be-privatised-by-the-coalition-government.json)  [XML](/news/2011/06/15/british-public-owned-bank-northern-rock-is-to-be-privatised-by-the-coalition-government.xml)  
+
 ### [2011-06-15](/news/2011/06/15/index.md)
 
+##### Northern Rock
 # British public-owned bank Northern Rock is to be privatised by the coalition government. 
 
 Chancellor George Osborne announces that he wants to sell Northern Rock to a single buyer to try to raise the most cash for taxpayers.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13783724)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53432000/jpg/_53432590_006120033-1.jpg)

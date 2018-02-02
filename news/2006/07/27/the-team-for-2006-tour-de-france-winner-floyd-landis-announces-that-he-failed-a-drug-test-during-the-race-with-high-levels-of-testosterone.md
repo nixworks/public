@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/27/the-team-for-2006-tour-de-france-winner-floyd-landis-announces-that-he-failed-a-drug-test-during-the-race-with-high-levels-of-testosterone.html)  [JSON](/news/2006/07/27/the-team-for-2006-tour-de-france-winner-floyd-landis-announces-that-he-failed-a-drug-test-during-the-race-with-high-levels-of-testosterone.json)  [XML](/news/2006/07/27/the-team-for-2006-tour-de-france-winner-floyd-landis-announces-that-he-failed-a-drug-test-during-the-race-with-high-levels-of-testosterone.xml)  
+
 ### [2006-07-27](/news/2006/07/27/index.md)
 
+##### 2006
 #  The team for 2006 Tour de France winner Floyd Landis announces that he failed a drug test during the race, with high levels of testosterone. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/newsarticle.aspx?type=newsOne&storyID=2006-07-27T144530Z_01_L27899000_RTRUKOC_0_US-DOPING-LANDIS.xml&WTmodLoc=Home-C2-TopNews-newsOne-9)
 2. [Sports Illustrated](http://sportsillustrated.cnn.com/2006/more/specials/tour_de_france/2006/07/27/landis.doping/index.html)

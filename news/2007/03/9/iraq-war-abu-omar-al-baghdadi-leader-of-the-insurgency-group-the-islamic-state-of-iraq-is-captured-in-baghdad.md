@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/9/iraq-war-abu-omar-al-baghdadi-leader-of-the-insurgency-group-the-islamic-state-of-iraq-is-captured-in-baghdad.html)  [JSON](/news/2007/03/9/iraq-war-abu-omar-al-baghdadi-leader-of-the-insurgency-group-the-islamic-state-of-iraq-is-captured-in-baghdad.json)  [XML](/news/2007/03/9/iraq-war-abu-omar-al-baghdadi-leader-of-the-insurgency-group-the-islamic-state-of-iraq-is-captured-in-baghdad.xml)  
+
 ### [2007-03-9](/news/2007/03/9/index.md)
 
+##### Iraq War
 #  Iraq War: Abu Omar al-Baghdadi, leader of the insurgency group the Islamic State of Iraq, is captured in Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6436569.stm)
 2. [CNN](http://www.cnn.com/2007/WORLD/meast/03/09/iraq.main/index.html?eref=rss_latest)

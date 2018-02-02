@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/24/new-laws-restricting-car-purchases-in-the-chinese-capital-beijing-come-into-force-in-an-attempt-to-combat-serious-traffic-problems.html)  [JSON](/news/2010/12/24/new-laws-restricting-car-purchases-in-the-chinese-capital-beijing-come-into-force-in-an-attempt-to-combat-serious-traffic-problems.json)  [XML](/news/2010/12/24/new-laws-restricting-car-purchases-in-the-chinese-capital-beijing-come-into-force-in-an-attempt-to-combat-serious-traffic-problems.xml)  
+
 ### [2010-12-24](/news/2010/12/24/index.md)
 
+##### China
 # New laws restricting car purchases in the Chinese capital Beijing come into force, in an attempt to combat serious traffic problems. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12072845)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-12/24/content_11747970.htm)

@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2005/01/25/the-bush-administration-is-requesting-an-additional-80-billion-from-congress-for-iraq-and-afghanistan-bringing-the-total-cost-of-both-ope.html)  [JSON](/news/2005/01/25/the-bush-administration-is-requesting-an-additional-80-billion-from-congress-for-iraq-and-afghanistan-bringing-the-total-cost-of-both-ope.json)  [XML](/news/2005/01/25/the-bush-administration-is-requesting-an-additional-80-billion-from-congress-for-iraq-and-afghanistan-bringing-the-total-cost-of-both-ope.xml)  
+
 ### [2005-01-25](/news/2005/01/25/index.md)
 
+##### George W. Bush
 #  The Bush administration is requesting an additional $80 billion from Congress for Iraq and Afghanistan, bringing the total cost of both operations over $280 billion. 
 
-Get the latest breaking news and top news headlines at Reuters.com
 
 
-### Source:
+
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/ALLPOLITICS/01/24/bush.war.funds/)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7416540)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7416540)
 
 ### Related:
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/10/23/the-provisional-irish-republican-army-of-northern-ireland-commences-disarmament-after-peace-talks.html)  [JSON](/news/2001/10/23/the-provisional-irish-republican-army-of-northern-ireland-commences-disarmament-after-peace-talks.json)  [XML](/news/2001/10/23/the-provisional-irish-republican-army-of-northern-ireland-commences-disarmament-after-peace-talks.xml)  
+
 ### [2001-10-23](/news/2001/10/23/index.md)
 
+##### IRA
 #  The Provisional Irish Republican Army of Northern Ireland commences disarmament after peace talks.
 
 

@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2014/07/2/a-missing-palestinian-boy-in-shuafat-is-rumored-to-be-murdered-in-revenge-for-the-kidnapping-and-murder-of-israeli-teenagers-clashes-break.html)  [JSON](/news/2014/07/2/a-missing-palestinian-boy-in-shuafat-is-rumored-to-be-murdered-in-revenge-for-the-kidnapping-and-murder-of-israeli-teenagers-clashes-break.json)  [XML](/news/2014/07/2/a-missing-palestinian-boy-in-shuafat-is-rumored-to-be-murdered-in-revenge-for-the-kidnapping-and-murder-of-israeli-teenagers-clashes-break.xml)  
+
 ### [2014-07-2](/news/2014/07/2/index.md)
 
+##### Israeli-Palestinian conflict
 # A missing Palestinian boy in Shuafat is rumored to be murdered in revenge for the kidnapping and murder of Israeli teenagers, clashes break out. 
 
 The rumors of the murder of 17-year-old Muhammad Abu Khdeir passed among many residents of Beit Hanina and Shuafat.
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/National-News/In-Shuafat-the-summer-heat-and-Ramadan-are-no-match-for-Palestinian-rage-361356)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=247903)
-
-### Related:
-
-1. [The bodies of three kidnapped Israeli teenagers, including one with dual American citizenship, are found partially buried near Hebron on the West Bank. Shin Bet determined they were murdered shortly after being kidnapped, and is searching for two Hamas kidnappers and accomplices.](/news/2014/06/30/the-bodies-of-three-kidnapped-israeli-teenagers-including-one-with-dual-american-citizenship-are-found-partially-buried-near-hebron-on-the.md) _Context: 2014 kidnapping and murder of Israeli teenagers, Israeli-Palestinian conflict_
-2. [The Israeli government says it will remove metal detectors and some cameras recently installed at the entrances to the Temple Mount in Jerusalem that resulted in a wave of protests and some deaths. Instead, less obtrusive surveillance means will be used. ](/news/2017/07/25/the-israeli-government-says-it-will-remove-metal-detectors-and-some-cameras-recently-installed-at-the-entrances-to-the-temple-mount-in-jerus.md) _Context: Israeli-Palestinian conflict_
-3. [A United Nations Security Council session is to be held to address the escalating violence in Jerusalem. ](/news/2017/07/22/a-united-nations-security-council-session-is-to-be-held-to-address-the-escalating-violence-in-jerusalem.md) _Context: Israeli-Palestinian conflict_
-4. [Several thousand Palestinians protest Israel's installation of metal detectors and a ban on Muslim men under the age of 50 in response to the killing of two Israeli policemen last Friday at a contested Jerusalem holy place, known to Muslims as the Noble Sanctuary and to Jews as the Temple Mount.Protest marches are also held in Indonesia, Jordan, Lebanon, Malaysia, and TurkeyThree Palestinians are killed, 390 people injured with dozens hospitalized in clashes in Jerusalem and the West Bank, according to the Red Crescent. Israeli police report five officers are wounded.2017 Halamish stabbing attack: Three Israelis are stabbed to death by a Palestinian in their home while eating dinner, according to Israeli officials.United Nations deputy spokesman Farhan Haq calls for a de-escalation of violence and tensions at this site.Egypt calls for an immediate halt to the violence underway around this site, urging Israel to show respect for Muslim sacred sites while accusing it of fomenting these tensions.Turkish Prime Minister Binali Yildirim says his country is in dialogue with Israel to end the crisis.Palestinian President Mahmoud Abbas says the Palestinian leadership will "freeze contacts" with Israel "on all levels."](/news/2017/07/21/several-thousand-palestinians-protest-israel-s-installation-of-metal-detectors-and-a-ban-on-muslim-men-under-the-age-of-50-in-response-to-th.md) _Context: Israeli-Palestinian conflict_
-5. [Following last month's manslaughter conviction, Israeli soldier Elor Azaria is sentenced to 18 months in prison by a military court for, during a violent incident, his deadly shooting of the wounded, unarmed, prone Palestinian Abdel Fattah al-Sharif, who had stabbed a soldier last March in Hebron. ](/news/2017/02/21/following-last-month-s-manslaughter-conviction-israeli-soldier-elor-azaria-is-sentenced-to-18-months-in-prison-by-a-military-court-for-dur.md) _Context: Israeli-Palestinian conflict_
 
 ### Changes:
 
 1. [Israeli-Palestinian conflict: A missing Palestinian boy in Shuafat is rumored to be murdered in revenge for the kidnapping and murder of Israeli teenagers, clashes break out. ](/news/2014/07/2/israeli-palestinian-conflict-a-missing-palestinian-boy-in-shuafat-is-rumored-to-be-murdered-in-revenge-for-the-kidnapping-and-murder-of-i.md) _2017-08-27 03:40:55 (First version)_
 1. [A missing Palestinian boy in Shuafat is rumored to be murdered in revenge for the kidnapping and murder of Israeli teenagers, clashes break out. ](/news/2014/07/2/a-missing-palestinian-boy-in-shuafat-is-rumored-to-be-murdered-in-revenge-for-the-kidnapping-and-murder-of-israeli-teenagers-clashes-break.md) _(Current version)_
+
+### Related:
+
+1. [The bodies of three kidnapped Israeli teenagers, including one with dual American citizenship, are found partially buried near Hebron on the West Bank. Shin Bet determined they were murdered shortly after being kidnapped, and is searching for two Hamas kidnappers and accomplices.](/news/2014/06/30/the-bodies-of-three-kidnapped-israeli-teenagers-including-one-with-dual-american-citizenship-are-found-partially-buried-near-hebron-on-the.md) _Context: 2014 kidnapping and murder of Israeli teenagers, Israeli-Palestinian conflict_
+2. [Two 16-year-old Palestinians are shot and killed in separate clashes with the Israeli army. ](/news/2018/01/11/two-16-year-old-palestinians-are-shot-and-killed-in-separate-clashes-with-the-israeli-army.md) _Context: Israeli-Palestinian conflict_
+3. [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. In conflicts where Israeli law enforcement used live ammunition and Palestinians threw rocks, two Palestinians died in Gaza while 150 were wounded and two more were killed in the West Bank while a further 10 were wounded. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md) _Context: Israeli-Palestinian conflict_
+4. [Militant Palestinians fire rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-intercepted-t.md) _Context: Israeli-Palestinian conflict_
+5. [A 24-year-old Palestinian stabs and seriously wounds an Israeli security guard at Jerusalem's Central Bus Station. The attacker is arrested. ](/news/2017/12/10/a-24-year-old-palestinian-stabs-and-seriously-wounds-an-israeli-security-guard-at-jerusalem-s-central-bus-station-the-attacker-is-arrested.md) _Context: Israeli-Palestinian conflict_

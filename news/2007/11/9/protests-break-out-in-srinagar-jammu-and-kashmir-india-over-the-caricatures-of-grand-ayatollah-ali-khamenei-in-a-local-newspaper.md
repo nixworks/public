@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/9/protests-break-out-in-srinagar-jammu-and-kashmir-india-over-the-caricatures-of-grand-ayatollah-ali-khamenei-in-a-local-newspaper.html)  [JSON](/news/2007/11/9/protests-break-out-in-srinagar-jammu-and-kashmir-india-over-the-caricatures-of-grand-ayatollah-ali-khamenei-in-a-local-newspaper.json)  [XML](/news/2007/11/9/protests-break-out-in-srinagar-jammu-and-kashmir-india-over-the-caricatures-of-grand-ayatollah-ali-khamenei-in-a-local-newspaper.xml)  
+
 ### [2007-11-9](/news/2007/11/9/index.md)
 
+##### Srinagar
 #  Protests break out in Srinagar, Jammu and Kashmir, India, over the caricatures of Grand Ayatollah Ali Khamenei in a local newspaper. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kashmir Observer](http://www.kashmirobserver.com/index.php?id=3370)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/7/twenty-four-people-are-killed-as-a-fokker-f27-airliner-crashes-in-bandung-west-java-indonesia.html)  [JSON](/news/2009/04/7/twenty-four-people-are-killed-as-a-fokker-f27-airliner-crashes-in-bandung-west-java-indonesia.json)  [XML](/news/2009/04/7/twenty-four-people-are-killed-as-a-fokker-f27-airliner-crashes-in-bandung-west-java-indonesia.xml)  
+
 ### [2009-04-7](/news/2009/04/7/index.md)
 
+##### Fokker F27
 #  Twenty-four people are killed as a Fokker F27 airliner crashes in Bandung, West Java, Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Indonesia-Plane-Crash-In-Bandung-Many-Dead-As-Military-Aircraft-Smashes-Into-Airport-Hanagar/Article/200904115256387?lpos=World_News_First_World_News_Article_Teaser_Region_2&lid=ARTICLE_15256387_Indonesia_Plane_Crash_In_Bandung%3A_Many_Dead_As_Military_Aircraft_Smashes_Into_Airport_Hanagar)
 

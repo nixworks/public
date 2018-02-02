@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/7/the-death-toll-from-flash-floods-in-indonesia-s-west-papua-province-rises-to-97-with-dozens-of-people-missing.html)  [JSON](/news/2010/10/7/the-death-toll-from-flash-floods-in-indonesia-s-west-papua-province-rises-to-97-with-dozens-of-people-missing.json)  [XML](/news/2010/10/7/the-death-toll-from-flash-floods-in-indonesia-s-west-papua-province-rises-to-97-with-dozens-of-people-missing.xml)  
+
 ### [2010-10-7](/news/2010/10/7/index.md)
 
+##### flash flood
 # The death toll from flash floods in Indonesia's West Papua province rises to 97 with dozens of people missing. 
 
 The death toll from flash floods in a remote region of eastern Indonesia has climbed to at least 97, with dozens of people still missing.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/10/07/3032194.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

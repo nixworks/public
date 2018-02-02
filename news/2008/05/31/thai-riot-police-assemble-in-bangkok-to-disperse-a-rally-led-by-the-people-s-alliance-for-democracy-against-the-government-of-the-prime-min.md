@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/05/31/thai-riot-police-assemble-in-bangkok-to-disperse-a-rally-led-by-the-people-s-alliance-for-democracy-against-the-government-of-the-prime-min.html)  [JSON](/news/2008/05/31/thai-riot-police-assemble-in-bangkok-to-disperse-a-rally-led-by-the-people-s-alliance-for-democracy-against-the-government-of-the-prime-min.json)  [XML](/news/2008/05/31/thai-riot-police-assemble-in-bangkok-to-disperse-a-rally-led-by-the-people-s-alliance-for-democracy-against-the-government-of-the-prime-min.xml)  
+
 ### [2008-05-31](/news/2008/05/31/index.md)
 
+##### Thailand
 #  Thai riot police assemble in Bangkok to disperse a rally led by the People's Alliance for Democracy against the government of the Prime Minister of Thailand Samak Sundaravej. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2008/05/31/ap5066483.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2008/05/31/ap5066483.html)
 
 ### Related:
 

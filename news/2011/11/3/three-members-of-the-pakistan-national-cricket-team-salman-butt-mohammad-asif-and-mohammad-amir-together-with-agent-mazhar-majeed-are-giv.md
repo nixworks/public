@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/11/3/three-members-of-the-pakistan-national-cricket-team-salman-butt-mohammad-asif-and-mohammad-amir-together-with-agent-mazhar-majeed-are-giv.html)  [JSON](/news/2011/11/3/three-members-of-the-pakistan-national-cricket-team-salman-butt-mohammad-asif-and-mohammad-amir-together-with-agent-mazhar-majeed-are-giv.json)  [XML](/news/2011/11/3/three-members-of-the-pakistan-national-cricket-team-salman-butt-mohammad-asif-and-mohammad-amir-together-with-agent-mazhar-majeed-are-giv.xml)  
+
 ### [2011-11-3](/news/2011/11/3/index.md)
 
+##### Pakistan national cricket team
 # Three members of the Pakistan national cricket team (Salman Butt, Mohammad Asif and Mohammad Amir) together with agent Mazhar Majeed are given jail sentences for their roles in a spot-fixing scandal. 
 
 The judge in London’s cricket corruption trial imposed prison sentences on Thursday on all four men involved.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/11/04/sports/cricket/judge-sentences-pakistan-cricketers-agent-to-prison.html)
+1. [New York Times](https://www.nytimes.com/2011/11/04/sports/cricket/judge-sentences-pakistan-cricketers-agent-to-prison.html)
 1. [Cover Image](https://static01.nyt.com/images/2011/11/04/world/4cricket-image2/4cricket-image2-thumbStandard.jpg)
 
 ### Related:

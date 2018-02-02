@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/1/the-eurasian-economic-union-between-russia-kazakhstan-belarus-kyrgyzstan-and-armenia-comes-into-effect.html)  [JSON](/news/2015/01/1/the-eurasian-economic-union-between-russia-kazakhstan-belarus-kyrgyzstan-and-armenia-comes-into-effect.json)  [XML](/news/2015/01/1/the-eurasian-economic-union-between-russia-kazakhstan-belarus-kyrgyzstan-and-armenia-comes-into-effect.xml)  
+
 ### [2015-01-1](/news/2015/01/1/index.md)
 
+##### Eurasian Economic Union
 # The Eurasian Economic Union between Russia, Kazakhstan, Belarus, Kyrgyzstan and Armenia comes into effect 
 
 The Eurasian Economic Union (EEU) officially starts functioning on January 1. The EEU unites Russia, Belarus, Kazakhstan, Armenia, and Kyrgyzstan. 
 
 
-### Source:
+### Sources:
 
 1. [Novinite](http://www.novinite.com/articles/165734/Eurasian+Economic+Union+Starts+Functioning)
 1. [Cover Image](http://www.novinite.com/media/images/)

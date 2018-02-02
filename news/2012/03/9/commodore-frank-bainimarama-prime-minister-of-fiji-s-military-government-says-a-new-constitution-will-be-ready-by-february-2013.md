@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/9/commodore-frank-bainimarama-prime-minister-of-fiji-s-military-government-says-a-new-constitution-will-be-ready-by-february-2013.html)  [JSON](/news/2012/03/9/commodore-frank-bainimarama-prime-minister-of-fiji-s-military-government-says-a-new-constitution-will-be-ready-by-february-2013.json)  [XML](/news/2012/03/9/commodore-frank-bainimarama-prime-minister-of-fiji-s-military-government-says-a-new-constitution-will-be-ready-by-february-2013.xml)  
+
 ### [2012-03-9](/news/2012/03/9/index.md)
 
+##### Commodore
 # Commodore Frank Bainimarama, Prime Minister of Fiji's military government, says a new constitution will be ready by February 2013. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jZjIV1mI7AwN-2JQebJKxTA8pdKA?docId=CNG.f0067d6b6c5fc41cfa26baa08eca6055.5e1)
 

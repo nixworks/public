@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/12/19/a-vietnam-official-states-that-twelve-vietnamese-workers-have-been-rescued-three-days-after-being-trapped-in-a-collapsed-tunnel-at-a-constru.html)  [JSON](/news/2014/12/19/a-vietnam-official-states-that-twelve-vietnamese-workers-have-been-rescued-three-days-after-being-trapped-in-a-collapsed-tunnel-at-a-constru.json)  [XML](/news/2014/12/19/a-vietnam-official-states-that-twelve-vietnamese-workers-have-been-rescued-three-days-after-being-trapped-in-a-collapsed-tunnel-at-a-constru.xml)  
+
 ### [2014-12-19](/news/2014/12/19/index.md)
 
+##### Vietnamese
 # A Vietnam official states that twelve Vietnamese workers have been rescued three days after being trapped in a collapsed tunnel at a construction site of a hydropower plant located in Central Highlands. 
 
 12 workers freed from collapsed tunnel in Vietnam
 
 
-### Source:
+### Sources:
 
 1. [AP via Salon](http://www.salon.com/2014/12/19/12_workers_freed_from_collapsed_tunnel_in_vietnam/)
-2. [Reuters](http://www.reuters.com/article/2014/12/19/us-vietnam-rescue-idUSKBN0JX1EV20141219)
+2. [Reuters](https://www.reuters.com/article/2014/12/19/us-vietnam-rescue-idUSKBN0JX1EV20141219)
 2. [Cover Image](http://www.salon.com/content/themes/salon/images/ui/ID_salonTile.gif)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/5/australia-and-south-korea-successfully-negotiate-a-free-trade-agreement.html)  [JSON](/news/2013/12/5/australia-and-south-korea-successfully-negotiate-a-free-trade-agreement.json)  [XML](/news/2013/12/5/australia-and-south-korea-successfully-negotiate-a-free-trade-agreement.xml)  
+
 ### [2013-12-5](/news/2013/12/5/index.md)
 
+##### Australia
 # Australia and South Korea successfully negotiate a free trade agreement. 
 
 THE coalition government has secured a free trade deal with South Korea, the first of three it pledged to seal in its first 12 months in power.
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/national/breaking-news/australia-seals-fta-with-south-korea/story-e6frfku9-1226776077019)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/6/in-an-olympic-first-un-secretary-general-ban-ki-moon-today-addresses-the-ioc-session-in-advance-of-the-olympic-winter-games-in-sochi.html)  [JSON](/news/2014/02/6/in-an-olympic-first-un-secretary-general-ban-ki-moon-today-addresses-the-ioc-session-in-advance-of-the-olympic-winter-games-in-sochi.json)  [XML](/news/2014/02/6/in-an-olympic-first-un-secretary-general-ban-ki-moon-today-addresses-the-ioc-session-in-advance-of-the-olympic-winter-games-in-sochi.xml)  
+
 ### [2014-02-6](/news/2014/02/6/index.md)
 
+##### Ban Ki-moon
 # In an Olympic first, UN Secretary-General Ban Ki-moon today addresses the IOC Session in advance of the Olympic Winter Games in Sochi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [OLYMPIC.ORG](http://www.olympic.org/news/un-secretary-general-speaks-at-ioc-session-in-sochi/223182?id=223182/)
 

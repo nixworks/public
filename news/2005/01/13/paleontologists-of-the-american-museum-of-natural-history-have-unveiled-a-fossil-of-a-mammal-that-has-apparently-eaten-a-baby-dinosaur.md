@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/13/paleontologists-of-the-american-museum-of-natural-history-have-unveiled-a-fossil-of-a-mammal-that-has-apparently-eaten-a-baby-dinosaur.html)  [JSON](/news/2005/01/13/paleontologists-of-the-american-museum-of-natural-history-have-unveiled-a-fossil-of-a-mammal-that-has-apparently-eaten-a-baby-dinosaur.json)  [XML](/news/2005/01/13/paleontologists-of-the-american-museum-of-natural-history-have-unveiled-a-fossil-of-a-mammal-that-has-apparently-eaten-a-baby-dinosaur.xml)  
+
 ### [2005-01-13](/news/2005/01/13/index.md)
 
+##### Paleontologist
 #  Paleontologists of the American Museum of Natural History have unveiled a fossil of a mammal that has apparently eaten a baby dinosaur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=7309447)
 

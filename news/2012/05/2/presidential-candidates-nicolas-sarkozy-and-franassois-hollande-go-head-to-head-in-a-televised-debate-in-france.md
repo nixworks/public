@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/2/presidential-candidates-nicolas-sarkozy-and-franassois-hollande-go-head-to-head-in-a-televised-debate-in-france.html)  [JSON](/news/2012/05/2/presidential-candidates-nicolas-sarkozy-and-franassois-hollande-go-head-to-head-in-a-televised-debate-in-france.json)  [XML](/news/2012/05/2/presidential-candidates-nicolas-sarkozy-and-franassois-hollande-go-head-to-head-in-a-televised-debate-in-france.xml)  
+
 ### [2012-05-2](/news/2012/05/2/index.md)
 
+##### Nicolas Sarkozy
 # Presidential candidates Nicolas Sarkozy and Francois Hollande go head-to-head in a televised debate in France. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17921348)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60004000/jpg/_60004061_014651716-1.jpg)

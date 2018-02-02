@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/30/united-states-negotiators-in-geneva-are-caught-off-guard-by-european-demands-for-a-change-from-u-s-commerce-department-control-to-internat.html)  [JSON](/news/2005/09/30/united-states-negotiators-in-geneva-are-caught-off-guard-by-european-demands-for-a-change-from-u-s-commerce-department-control-to-internat.json)  [XML](/news/2005/09/30/united-states-negotiators-in-geneva-are-caught-off-guard-by-european-demands-for-a-change-from-u-s-commerce-department-control-to-internat.xml)  
+
 ### [2005-09-30](/news/2005/09/30/index.md)
 
+##### Geneva
 #  United States negotiators in Geneva are caught off guard by European demands for a change from U.S. Commerce Department control to international regulation of the Internet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [International Herald Tribune](http://www.iht.com/articles/2005/09/29/business/net.php)
 2. [openDemocracy](http://www.opendemocracy.net/globalization-accountability/cyberspace_2832.jsp)

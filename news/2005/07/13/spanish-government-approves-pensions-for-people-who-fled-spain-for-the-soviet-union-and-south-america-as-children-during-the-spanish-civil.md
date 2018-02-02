@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/13/spanish-government-approves-pensions-for-people-who-fled-spain-for-the-soviet-union-and-south-america-as-children-during-the-spanish-civil.html)  [JSON](/news/2005/07/13/spanish-government-approves-pensions-for-people-who-fled-spain-for-the-soviet-union-and-south-america-as-children-during-the-spanish-civil.json)  [XML](/news/2005/07/13/spanish-government-approves-pensions-for-people-who-fled-spain-for-the-soviet-union-and-south-america-as-children-during-the-spanish-civil.xml)  
+
 ### [2005-07-13](/news/2005/07/13/index.md)
 
+##### Soviet
 #  Spanish government approves pensions for people who fled Spain for the Soviet Union and South America as children during the Spanish Civil War and never returned. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-14T023605Z_01_N13680396_RTRIDST_0_INTERNATIONAL-MEXICO-SPAIN-DC.XML)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

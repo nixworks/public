@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/12/sir-jocelyn-gore-booth-announces-the-sale-of-the-historic-lissadell-estate-in-county-sligo-in-ireland-the-childhood-home-of-early-20th-cen.html)  [JSON](/news/2003/08/12/sir-jocelyn-gore-booth-announces-the-sale-of-the-historic-lissadell-estate-in-county-sligo-in-ireland-the-childhood-home-of-early-20th-cen.json)  [XML](/news/2003/08/12/sir-jocelyn-gore-booth-announces-the-sale-of-the-historic-lissadell-estate-in-county-sligo-in-ireland-the-childhood-home-of-early-20th-cen.xml)  
+
 ### [2003-08-12](/news/2003/08/12/index.md)
 
+##### Lissadell
 #  Sir Jocelyn Gore-Booth announces the sale of the historic Lissadell estate in County Sligo in Ireland, the childhood home of early 20th-century Irish republican Constance Gore-Booth (Constance Markievicz) and which had major associations with the poet W.B. Yeats. Critics condemn the Irish government for failing to buy the estate; Sir Jocelyn had offered it first refusal. The identity of the buyer has not yet been revealed but rock singer Bono had shown major interest in the property.
 
 

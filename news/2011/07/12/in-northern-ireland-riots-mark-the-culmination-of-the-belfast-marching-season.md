@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/12/in-northern-ireland-riots-mark-the-culmination-of-the-belfast-marching-season.html)  [JSON](/news/2011/07/12/in-northern-ireland-riots-mark-the-culmination-of-the-belfast-marching-season.json)  [XML](/news/2011/07/12/in-northern-ireland-riots-mark-the-culmination-of-the-belfast-marching-season.xml)  
+
 ### [2011-07-12](/news/2011/07/12/index.md)
 
+##### Northern Ireland
 # In Northern Ireland, riots mark the culmination of the Belfast marching season. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.net/2011/07/12/riots-mark-culmination-of-belfast-marching-season/)
 

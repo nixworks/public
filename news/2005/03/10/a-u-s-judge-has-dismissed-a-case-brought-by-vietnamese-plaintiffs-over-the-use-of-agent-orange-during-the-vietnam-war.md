@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/10/a-u-s-judge-has-dismissed-a-case-brought-by-vietnamese-plaintiffs-over-the-use-of-agent-orange-during-the-vietnam-war.html)  [JSON](/news/2005/03/10/a-u-s-judge-has-dismissed-a-case-brought-by-vietnamese-plaintiffs-over-the-use-of-agent-orange-during-the-vietnam-war.json)  [XML](/news/2005/03/10/a-u-s-judge-has-dismissed-a-case-brought-by-vietnamese-plaintiffs-over-the-use-of-agent-orange-during-the-vietnam-war.xml)  
+
 ### [2005-03-10](/news/2005/03/10/index.md)
 
+##### Vietnam
 #  A U.S. Judge has dismissed a case brought by Vietnamese plaintiffs over the use of Agent Orange during the Vietnam War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4336941.stm)
 2. [Judges Decision in Full](http://news.bbc.co.uk/1/shared/bsp/hi/pdfs/10_03_05_agentorange.pdf)

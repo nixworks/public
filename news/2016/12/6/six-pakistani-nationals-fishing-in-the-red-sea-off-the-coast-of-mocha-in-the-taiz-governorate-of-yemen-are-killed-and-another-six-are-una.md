@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/6/six-pakistani-nationals-fishing-in-the-red-sea-o
 
 ### [2016-12-6](/news/2016/12/6/index.md)
 
+##### Mocha
 #  Six Pakistani nationals fishing in the Red Sea, off the coast of Mocha in the Taiz Governorate of Yemen, are killed and another six are unaccounted for after a Saudi air raid on a boat carrying 12 Pakistani sailors. 
 
 SANAA: Six Pakistani sailors were reportedly killed in a Saudi air strike targeting their boat off the Yemeni coast, Press TV reported Monday. The Saudi air raid targeted the boat which was...

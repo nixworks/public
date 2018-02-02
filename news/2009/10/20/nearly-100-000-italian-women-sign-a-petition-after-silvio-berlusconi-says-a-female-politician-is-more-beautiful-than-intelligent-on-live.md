@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/10/20/nearly-100-000-italian-women-sign-a-petition-after-silvio-berlusconi-says-a-female-politician-is-more-beautiful-than-intelligent-on-live.html)  [JSON](/news/2009/10/20/nearly-100-000-italian-women-sign-a-petition-after-silvio-berlusconi-says-a-female-politician-is-more-beautiful-than-intelligent-on-live.json)  [XML](/news/2009/10/20/nearly-100-000-italian-women-sign-a-petition-after-silvio-berlusconi-says-a-female-politician-is-more-beautiful-than-intelligent-on-live.xml)  
+
 ### [2009-10-20](/news/2009/10/20/index.md)
 
+##### Silvio Berlusconi
 #  Nearly 100,000 Italian women sign a petition after Silvio Berlusconi says a female politician is "more beautiful than intelligent" on live television. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8317397.stm)
-2. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE59J3F520091020)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20091020&t=2&i=12012934&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-20T143357Z_01_BTRE59J148M00_RTROPTP_0_COLUMN-BERLUSCONI)
+2. [Reuters](https://www.reuters.com/article/newsOne/idUSTRE59J3F520091020)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20091020&t=2&i=12012934&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-10-20T143357Z_01_BTRE59J148M00_RTROPTP_0_COLUMN-BERLUSCONI)
 
 ### Related:
 

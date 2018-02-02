@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/14/osiel-cardenas-suspected-leader-of-a-mexican-drug-cartel-is-arrested-in-matamoros-tamaulipas.html)  [JSON](/news/2003/03/14/osiel-cardenas-suspected-leader-of-a-mexican-drug-cartel-is-arrested-in-matamoros-tamaulipas.json)  [XML](/news/2003/03/14/osiel-cardenas-suspected-leader-of-a-mexican-drug-cartel-is-arrested-in-matamoros-tamaulipas.xml)  
+
 ### [2003-03-14](/news/2003/03/14/index.md)
 
+##### Osiel Crdenas
 #  Osiel Crdenas, suspected leader of a Mexican drug cartel, is arrested in Matamoros, Tamaulipas.
 
 

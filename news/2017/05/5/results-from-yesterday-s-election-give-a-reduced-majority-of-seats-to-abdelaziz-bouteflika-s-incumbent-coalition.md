@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/5/results-from-yesterday-s-election-give-a-reduced
 
 ### [2017-05-5](/news/2017/05/5/index.md)
 
+##### Algerian legislative election, 2017
 # Results from yesterday's election give a reduced majority of seats to Abdelaziz Bouteflika's incumbent coalition. 
 
 National Liberation Front secures majority in national assembly, but loses quarter of seats in Thursday&#39;s vote.

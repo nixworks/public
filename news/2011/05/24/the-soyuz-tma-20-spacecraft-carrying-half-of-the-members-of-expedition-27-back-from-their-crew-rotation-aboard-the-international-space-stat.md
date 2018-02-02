@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/24/the-soyuz-tma-20-spacecraft-carrying-half-of-the-members-of-expedition-27-back-from-their-crew-rotation-aboard-the-international-space-stat.html)  [JSON](/news/2011/05/24/the-soyuz-tma-20-spacecraft-carrying-half-of-the-members-of-expedition-27-back-from-their-crew-rotation-aboard-the-international-space-stat.json)  [XML](/news/2011/05/24/the-soyuz-tma-20-spacecraft-carrying-half-of-the-members-of-expedition-27-back-from-their-crew-rotation-aboard-the-international-space-stat.xml)  
+
 ### [2011-05-24](/news/2011/05/24/index.md)
 
+##### Soyuz TMA-20
 # The Soyuz TMA-20 spacecraft, carrying half of the members of Expedition 27 back from their crew rotation aboard the International Space Station, lands safely in Kazakhstan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/astronauts-land-safely-in-kazakhstan/story-e6frf7jx-1226061949658)
 

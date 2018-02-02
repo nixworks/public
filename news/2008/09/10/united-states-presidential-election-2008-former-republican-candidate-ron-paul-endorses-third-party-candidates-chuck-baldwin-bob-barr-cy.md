@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/10/united-states-presidential-election-2008-former-republican-candidate-ron-paul-endorses-third-party-candidates-chuck-baldwin-bob-barr-cy.html)  [JSON](/news/2008/09/10/united-states-presidential-election-2008-former-republican-candidate-ron-paul-endorses-third-party-candidates-chuck-baldwin-bob-barr-cy.json)  [XML](/news/2008/09/10/united-states-presidential-election-2008-former-republican-candidate-ron-paul-endorses-third-party-candidates-chuck-baldwin-bob-barr-cy.xml)  
+
 ### [2008-09-10](/news/2008/09/10/index.md)
 
+##### 2008
 #  United States presidential election, 2008: Former Republican candidate Ron Paul endorses third-party candidates Chuck Baldwin, Bob Barr, Cynthia McKinney and Ralph Nader, calling the two-party system a "charade.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/politics/la-na-thirdparty11-2008sep11,0,1874271.story)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

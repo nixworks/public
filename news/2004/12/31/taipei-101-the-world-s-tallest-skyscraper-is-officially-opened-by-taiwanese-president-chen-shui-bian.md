@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/31/taipei-101-the-world-s-tallest-skyscraper-is-officially-opened-by-taiwanese-president-chen-shui-bian.html)  [JSON](/news/2004/12/31/taipei-101-the-world-s-tallest-skyscraper-is-officially-opened-by-taiwanese-president-chen-shui-bian.json)  [XML](/news/2004/12/31/taipei-101-the-world-s-tallest-skyscraper-is-officially-opened-by-taiwanese-president-chen-shui-bian.xml)  
+
 ### [2004-12-31](/news/2004/12/31/index.md)
 
+##### Taipei 101
 #  Taipei 101, the world's tallest skyscraper, is officially opened by Taiwanese President Chen Shui-bian. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2004/TRAVEL/12/31/bt.taiwan.skyscraper.ap/)
 2. [Washington Times](http://washingtontimes.com/upi-breaking/20041231-043626-7183r.htm)

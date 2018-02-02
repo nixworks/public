@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/10/members-of-the-united-nations-peacekeeping-force-sent-to-haiti-are-alleged-to-have-raped-a-haitian-teenage-boy-and-sexually-abused-him-at-a.html)  [JSON](/news/2012/05/10/members-of-the-united-nations-peacekeeping-force-sent-to-haiti-are-alleged-to-have-raped-a-haitian-teenage-boy-and-sexually-abused-him-at-a.json)  [XML](/news/2012/05/10/members-of-the-united-nations-peacekeeping-force-sent-to-haiti-are-alleged-to-have-raped-a-haitian-teenage-boy-and-sexually-abused-him-at-a.xml)  
+
 ### [2012-05-10](/news/2012/05/10/index.md)
 
+##### United Nations
 # Members of the United Nations peacekeeping force sent to Haiti are alleged to have raped a Haitian teenage boy and sexually abused him at a UN base in the town of Port-Salut: he is to testify in a closed hearing. 
 
 Haitian teenager who says he was raped by Uruguayan members of UN peacekeeping force to testify in closed hearing.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/video/americas/2012/05/20125105177557662.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/10/20125105336142580_20.jpg)

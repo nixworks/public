@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/27/jewish-settlers-in-gaza-line-a-bridge-and-pelt-passing-palestinian-cars-with-rocks-forcing-the-israeli-army-to-close-the-only-road-from-th.html)  [JSON](/news/2004/09/27/jewish-settlers-in-gaza-line-a-bridge-and-pelt-passing-palestinian-cars-with-rocks-forcing-the-israeli-army-to-close-the-only-road-from-th.json)  [XML](/news/2004/09/27/jewish-settlers-in-gaza-line-a-bridge-and-pelt-passing-palestinian-cars-with-rocks-forcing-the-israeli-army-to-close-the-only-road-from-th.xml)  
+
 ### [2004-09-27](/news/2004/09/27/index.md)
 
+##### Jewish
 #  Jewish settlers in Gaza line a bridge and pelt passing Palestinian cars with rocks, forcing the Israeli army to close the only road from the north into the Gaza Strip. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3692838.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3692858.stm)
@@ -14,11 +18,10 @@ Find late breaking world news from every corner of the globe at Reuters.com, you
 5. [Haaretz](http://www.haaretz.com/hasen/spages/482037.html)
 6. [Haaretz](http://www.haaretz.com/hasen/spages/482329.html)
 7. [Haaretz](http://www.haaretz.com/hasen/spages/482510.html)
-8. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6344981)
-9. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6339496)
+8. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6344981)
+9. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6339496)
 10. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,10896625%255E1702,00.html)
 11. [The Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1314384,00.html)
-11. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

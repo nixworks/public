@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/27/an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.html)  [JSON](/news/2010/02/27/an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.json)  [XML](/news/2010/02/27/an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.xml)  
+
 ### [2010-02-27](/news/2010/02/27/index.md)
 
+##### 2010 Chile earthquake
 # An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. 
 
 One of the biggest earthquakes in recorded history rocked Chile on Saturday, killing more than 300 people, toppling buildings and freeways, and setting off sirens thousands of miles away as...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8540742.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/in_depth/8540289.stm)
@@ -17,16 +21,16 @@ One of the biggest earthquakes in recorded history rocked Chile on Saturday, kil
 8. [The Los Angeles Times](http://www.latimes.com/news/nation-and-world/la-fg-chile-earthquake28-2010feb28,0,2152464.story)
 8. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
-### Related:
-
-1. [A 7.1-magnitude earthquake streaks southern Chile, having its epicenter 96 km northwest of Temuco, not far from the location of the 2010 Chile earthquake. ](/news/2011/01/2/a-7-1-magnitude-earthquake-streaks-southern-chile-having-its-epicenter-96-km-northwest-of-temuco-not-far-from-the-location-of-the-2010-chi.md) _Context: 2010 Chile earthquake, Chile_
-2. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: Chile_
-3. [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md) _Context: Chile_
-4. [Construction begins on the European Extremely Large Telescope (ELT) in northern Chile. The ELT is expected to become operational in 2024. ](/news/2017/05/26/construction-begins-on-the-european-extremely-large-telescope-elt-in-northern-chile-the-elt-is-expected-to-become-operational-in-2024.md) _Context: Chile_
-5. [Millions of residents in the Chilean capital Santiago are left without access to running water after the Maipo River is contaminated by flooding and landslides. At least four people have died in the floods. ](/news/2017/02/26/millions-of-residents-in-the-chilean-capital-santiago-are-left-without-access-to-running-water-after-the-maipo-river-is-contaminated-by-floo.md) _Context: Chile_
-
 ### Changes:
 
 1. [2010 Chile earthquake and Pacific Ocean tsunamis:An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/2010-chile-earthquake-and-pacific-ocean-tsunamis-pan-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md) _2017-08-25 03:27:15 (First version)_
 2. [2010 Chile earthquake and Pacific Ocean tsunamis:: An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/2010-chile-earthquake-and-pacific-ocean-tsunamis-an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md) _2017-08-27 03:27:09 (Update)_
 2. [An 8.8 magnitude earthquake hits near the city of Concepcin, Chile. ](/news/2010/02/27/an-8-8-magnitude-earthquake-hits-near-the-city-of-concepcion-chile.md) _(Current version)_
+
+### Related:
+
+1. [A 7.1-magnitude earthquake streaks southern Chile, having its epicenter 96 km northwest of Temuco, not far from the location of the 2010 Chile earthquake. ](/news/2011/01/2/a-7-1-magnitude-earthquake-streaks-southern-chile-having-its-epicenter-96-km-northwest-of-temuco-not-far-from-the-location-of-the-2010-chi.md) _Context: 2010 Chile earthquake, Chile_
+2. [The 11 remaining countries aiming to create the Trans-Pacific Partnership after the Unites States' withdrawal announce that they will sign an agreement in Chile this March. ](/news/2018/01/23/the-11-remaining-countries-aiming-to-create-the-trans-pacific-partnership-after-the-unites-states-withdrawal-announce-that-they-will-sign-a.md) _Context: Chile_
+3. [Five people are killed and at least 15 missing in a mudslide in Villa Santa Lucia, a remote village in southern Chile, after more than 4.5 inches (11.4 cm) of rain the previous 24 hours. President Michelle Bachelet declares a state of emergency. Sunday is the run-off election for Chile's next president. ](/news/2017/12/16/five-people-are-killed-and-at-least-15-missing-in-a-mudslide-in-villa-santa-lucaa-a-remote-village-in-southern-chile-after-more-than-4-5.md) _Context: Chile_
+4. [Voters in Chile head to the polls to elect a president, as well as positions in the Senate, the Chamber of Deputies, as well as regional boards. ](/news/2017/11/19/voters-in-chile-head-to-the-polls-to-elect-a-president-as-well-as-positions-in-the-senate-the-chamber-of-deputies-as-well-as-regional-boa.md) _Context: Chile_
+5. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: Chile_

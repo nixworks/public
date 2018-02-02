@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/08/20/a-mid-air-collision-between-two-aircraft-near-bratislava-slovakia-leaves-at-least-seven-people-killed.html)  [JSON](/news/2015/08/20/a-mid-air-collision-between-two-aircraft-near-bratislava-slovakia-leaves-at-least-seven-people-killed.json)  [XML](/news/2015/08/20/a-mid-air-collision-between-two-aircraft-near-bratislava-slovakia-leaves-at-least-seven-people-killed.xml)  
+
 ### [2015-08-20](/news/2015/08/20/index.md)
 
+##### Bratislava
 # A mid-air collision between two aircraft near Bratislava, Slovakia leaves at least seven people killed. 
 
 Two aircraft have crashed in mid-air near the Slovakian border with the Czech Republic, killing at least seven people.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/slovakia-plane-crash-two-aircraft-in-fatal-midair-collision-near-bratislava-10463339.html)
+1. [The Independent](https://www.independent.co.uk/news/world/europe/slovakia-plane-crash-two-aircraft-in-fatal-midair-collision-near-bratislava-10463339.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/21/the-charity-save-the-children-says-the-food-crisis-in-niger-is-being-made-worse-by-hoarders-selling-grain-at-higher-prices-than-most-people.html)  [JSON](/news/2010/08/21/the-charity-save-the-children-says-the-food-crisis-in-niger-is-being-made-worse-by-hoarders-selling-grain-at-higher-prices-than-most-people.json)  [XML](/news/2010/08/21/the-charity-save-the-children-says-the-food-crisis-in-niger-is-being-made-worse-by-hoarders-selling-grain-at-higher-prices-than-most-people.xml)  
+
 ### [2010-08-21](/news/2010/08/21/index.md)
 
+##### Save the Children
 # The charity Save the Children says the food crisis in Niger is being made worse by hoarders selling grain at higher prices than most people can afford. 
 
 The lives of hundreds of thousands of children in Niger are being put at risk by grain hoarders, Save the Children says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11045959)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20100821/news_20100821_56_692719.htm)
@@ -14,7 +18,7 @@ The lives of hundreds of thousands of children in Niger are being put at risk by
 ### Related:
 
 1. [Major aid agencies Oxfam and Save the Children both launch $10 million (GBP6.7 million) appeals for Niger where drought is common at the moment and half the country has no food. ](/news/2010/06/21/major-aid-agencies-oxfam-and-save-the-children-both-launch-10-million-agbp6-7-million-appeals-for-niger-where-drought-is-common-at-the-mo.md) _Context: Niger, Save the Children_
-2. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: Niger_
-3. [Unknown assailants attack a refugee camp near the village of Tassalit, in Niger's Tahoua Region, killing at least 22 soldiers. ](/news/2016/10/6/unknown-assailants-attack-a-refugee-camp-near-the-village-of-tassalit-in-niger-s-tahoua-region-killing-at-least-22-soldiers.md) _Context: Niger_
-4. [Flooding in Niger kills at least 38 people and leaves more than 92,000 people displaced. ](/news/2016/09/7/flooding-in-niger-kills-at-least-38-people-and-leaves-more-than-92-000-people-displaced.md) _Context: Niger_
-5. [British-based Syrian Observatory for Human Rights reports a Save the Children maternity hospital in Kafr Takharim in rebel-held Idlib Governorate is hit by airstrikes. No report on casualties. SOHR also says at least five people are killed and more than 25 injured from airstrikes in another part of the northern Idlib countryside. ](/news/2016/07/29/british-based-syrian-observatory-for-human-rights-reports-a-save-the-children-maternity-hospital-in-kafr-takharim-in-rebel-held-idlib-govern.md) _Context: Save the Children_
+2. [Attackers detonate explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad. ](/news/2018/01/24/attackers-detonate-explosives-before-storming-the-offices-of-the-save-the-children-charity-in-the-eastern-afghan-city-of-jalalabad.md) _Context: Save the Children_
+3. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: Niger_
+4. [A suicide bomber kills 13 people and injures five others in the northeast Nigerian city of Maiduguri. According to the police, 13 more civilians were injured in separate attacks. ](/news/2017/10/22/a-suicide-bomber-kills-13-people-and-injures-five-others-in-the-northeast-nigerian-city-of-maiduguri-according-to-the-police-13-more-civil.md) _Context: Niger_
+5. [Gunmen coming from Mali kill 13 gendarmes and injure five on a base in western Niger. ](/news/2017/10/21/gunmen-coming-from-mali-kill-13-gendarmes-and-injure-five-on-a-base-in-western-niger.md) _Context: Niger_

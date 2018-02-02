@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/2/citing-national-security-concerns-the-u-s-govern
 
 ### [2018-01-2](/news/2018/01/2/index.md)
 
+##### United States antitrust law
 # Citing national security concerns, the U.S. government blocks Ant Financial's acquisition of MoneyGram. 
 
 

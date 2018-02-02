@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/18/shane-gibson-the-minister-for-immigration-for-the-bahamas-resigns-over-rumours-of-a-relationship-with-anna-nicole-smith-after-he-had-fast.html)  [JSON](/news/2007/02/18/shane-gibson-the-minister-for-immigration-for-the-bahamas-resigns-over-rumours-of-a-relationship-with-anna-nicole-smith-after-he-had-fast.json)  [XML](/news/2007/02/18/shane-gibson-the-minister-for-immigration-for-the-bahamas-resigns-over-rumours-of-a-relationship-with-anna-nicole-smith-after-he-had-fast.xml)  
+
 ### [2007-02-18](/news/2007/02/18/index.md)
 
+##### Shane Gibson
 #  Shane Gibson, the Minister for Immigration for the Bahamas, resigns over rumours of a relationship with Anna Nicole Smith after he had fast tracked her application for permanent residency. 
 
 Immigration Minister Shane Gibson resigned Sunday night in a flap over his relationship with Anna Nicole Smith. 
 
 
-### Source:
+### Sources:
 
 1. [AP via AccessHollywood](http://www.accesshollywood.com/news/ah4112.shtml?dst=rss%7cgeneral_rss)
 1. [Cover Image](https://d919ce141ef35c47fc40-b9166a60eccf0f83d2d9c63fa65b9129.ssl.cf5.rackcdn.com/images/22047.2e16d0ba.fill-300x300.jpg)

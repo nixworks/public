@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/5/at-least-three-people-die-and-nine-are-injured-by-an-explosion-in-the-afghan-city-of-kandahar.html)  [JSON](/news/2012/02/5/at-least-three-people-die-and-nine-are-injured-by-an-explosion-in-the-afghan-city-of-kandahar.json)  [XML](/news/2012/02/5/at-least-three-people-die-and-nine-are-injured-by-an-explosion-in-the-afghan-city-of-kandahar.xml)  
+
 ### [2012-02-5](/news/2012/02/5/index.md)
 
+##### Afghanistan
 # At least three people die and nine are injured by an explosion in the Afghan city of Kandahar. 
 
 At least nine people are killed in a car bomb attack on police headquarters in the southern Afghan city of Kandahar, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16893697)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58305000/jpg/_58305494_013919030-2.jpg)

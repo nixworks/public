@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/05/20/east-timor-becomes-an-independent-state.html)  [JSON](/news/2002/05/20/east-timor-becomes-an-independent-state.json)  [XML](/news/2002/05/20/east-timor-becomes-an-independent-state.xml)  
+
 ### [2002-05-20](/news/2002/05/20/index.md)
 
+##### East Timor
 #  East Timor becomes an independent state.
 
 

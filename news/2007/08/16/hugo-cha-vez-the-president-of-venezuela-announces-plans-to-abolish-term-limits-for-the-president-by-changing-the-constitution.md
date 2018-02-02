@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/16/hugo-cha-vez-the-president-of-venezuela-announces-plans-to-abolish-term-limits-for-the-president-by-changing-the-constitution.html)  [JSON](/news/2007/08/16/hugo-cha-vez-the-president-of-venezuela-announces-plans-to-abolish-term-limits-for-the-president-by-changing-the-constitution.json)  [XML](/news/2007/08/16/hugo-cha-vez-the-president-of-venezuela-announces-plans-to-abolish-term-limits-for-the-president-by-changing-the-constitution.xml)  
+
 ### [2007-08-16](/news/2007/08/16/index.md)
 
+##### Hugo Chavez
 #  Hugo Chavez, the President of Venezuela, announces plans to abolish term limits for the President by changing the Constitution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6948872.stm)
 

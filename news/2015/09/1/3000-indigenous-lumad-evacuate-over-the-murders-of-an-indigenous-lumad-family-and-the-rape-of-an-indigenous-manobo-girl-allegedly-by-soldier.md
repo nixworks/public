@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/1/3000-indigenous-lumad-evacuate-over-the-murders-of-an-indigenous-lumad-family-and-the-rape-of-an-indigenous-manobo-girl-allegedly-by-soldier.html)  [JSON](/news/2015/09/1/3000-indigenous-lumad-evacuate-over-the-murders-of-an-indigenous-lumad-family-and-the-rape-of-an-indigenous-manobo-girl-allegedly-by-soldier.json)  [XML](/news/2015/09/1/3000-indigenous-lumad-evacuate-over-the-murders-of-an-indigenous-lumad-family-and-the-rape-of-an-indigenous-manobo-girl-allegedly-by-soldier.xml)  
+
 ### [2015-09-1](/news/2015/09/1/index.md)
 
+##### Lumad
 # 3000 indigenous Lumad evacuate over the murders of an indigenous Lumad family and the rape of an indigenous Manobo girl allegedly by soldiers and militiamen of the Philippine Army. 
 
 A dispatch from an international human rights organization criticized on Wednesday President Benigno Aquino III for his inadequate response to the killing of members of Lumad tribes in Mindanao. 
 
 
-### Source:
+### Sources:
 
 1. [Rappler](http://www.rappler.com/newsbreak/in-depth/105272-lumad-eastern-mindanao-war)
 2. [The Philippine Star](http://www.philstar.com/headlines/2015/09/09/1497798/aquino-hit-disappointingly-predictable-reaction-lumad-killings)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/29/john-holmes-the-united-nations-emergency-relief-coordinator-warns-that-refugees-of-the-darfur-conflict-are-arming-themselves-and-may-soo.html)  [JSON](/news/2007/08/29/john-holmes-the-united-nations-emergency-relief-coordinator-warns-that-refugees-of-the-darfur-conflict-are-arming-themselves-and-may-soo.json)  [XML](/news/2007/08/29/john-holmes-the-united-nations-emergency-relief-coordinator-warns-that-refugees-of-the-darfur-conflict-are-arming-themselves-and-may-soo.xml)  
+
 ### [2007-08-29](/news/2007/08/29/index.md)
 
+##### John Holmes
 #  John Holmes, the United Nations' emergency relief coordinator, warns that refugees of the Darfur conflict are arming themselves and may soon be able to defend themselves if the Sudanese government renews its attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6969284.stm)
 

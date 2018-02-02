@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/14/six-palestinians-from-the-armed-wing-of-the-militant-group-hamas-have-been-killed-in-an-israeli-incursion-into-the-gaza-strip-palestinian.html)  [JSON](/news/2006/10/14/six-palestinians-from-the-armed-wing-of-the-militant-group-hamas-have-been-killed-in-an-israeli-incursion-into-the-gaza-strip-palestinian.json)  [XML](/news/2006/10/14/six-palestinians-from-the-armed-wing-of-the-militant-group-hamas-have-been-killed-in-an-israeli-incursion-into-the-gaza-strip-palestinian.xml)  
+
 ### [2006-10-14](/news/2006/10/14/index.md)
 
+##### Palestinians
 #  Six Palestinians from the armed wing of the militant group Hamas have been killed in an Israeli incursion into the Gaza Strip, Palestinian officials say. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6050266.stm)
 

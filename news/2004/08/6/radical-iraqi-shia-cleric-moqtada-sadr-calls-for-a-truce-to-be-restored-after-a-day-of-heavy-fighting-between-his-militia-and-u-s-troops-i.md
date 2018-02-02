@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/6/radical-iraqi-shia-cleric-moqtada-sadr-calls-for-a-truce-to-be-restored-after-a-day-of-heavy-fighting-between-his-militia-and-u-s-troops-i.html)  [JSON](/news/2004/08/6/radical-iraqi-shia-cleric-moqtada-sadr-calls-for-a-truce-to-be-restored-after-a-day-of-heavy-fighting-between-his-militia-and-u-s-troops-i.json)  [XML](/news/2004/08/6/radical-iraqi-shia-cleric-moqtada-sadr-calls-for-a-truce-to-be-restored-after-a-day-of-heavy-fighting-between-his-militia-and-u-s-troops-i.xml)  
+
 ### [2004-08-6](/news/2004/08/6/index.md)
 
+##### Iraq
 #  Radical Iraqi Shia cleric Moqtada Sadr calls for a truce to be restored after a day of heavy fighting between his militia and U.S. troops in Najaf. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3540660.stm)
 2. [Reuters](http://story.news.yahoo.com/news?tmpl=story&cid=574&e=1&u=/nm/20040806/wl_nm/iraq_dc_79)

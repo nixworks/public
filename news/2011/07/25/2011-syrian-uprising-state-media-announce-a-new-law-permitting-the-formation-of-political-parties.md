@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/25/2011-syrian-uprising-state-media-announce-a-new-law-permitting-the-formation-of-political-parties.html)  [JSON](/news/2011/07/25/2011-syrian-uprising-state-media-announce-a-new-law-permitting-the-formation-of-political-parties.json)  [XML](/news/2011/07/25/2011-syrian-uprising-state-media-announce-a-new-law-permitting-the-formation-of-political-parties.xml)  
+
 ### [2011-07-25](/news/2011/07/25/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: State media announce a new law permitting the formation of political parties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14274891)
 1. [Cover Image](http://news.bbcimg.co.uk/media/images/54249000/jpg/_54249650_012434227.jpg)

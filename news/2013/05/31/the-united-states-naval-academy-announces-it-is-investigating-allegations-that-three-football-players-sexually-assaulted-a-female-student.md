@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/31/the-united-states-naval-academy-announces-it-is-investigating-allegations-that-three-football-players-sexually-assaulted-a-female-student.html)  [JSON](/news/2013/05/31/the-united-states-naval-academy-announces-it-is-investigating-allegations-that-three-football-players-sexually-assaulted-a-female-student.json)  [XML](/news/2013/05/31/the-united-states-naval-academy-announces-it-is-investigating-allegations-that-three-football-players-sexually-assaulted-a-female-student.xml)  
+
 ### [2013-05-31](/news/2013/05/31/index.md)
 
+##### United States Naval Academy
 # The United States Naval Academy announces it is investigating allegations that three football players sexually assaulted a female student. 
 
 U.S. Naval Academy investigating allegations that three members of its football team sexually assaulted female midshipman
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57587154/naval-academy-probing-alleged-sexual-assault-by-3-football-players/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/05/31/d282c6a6-d268-11e2-a43e-02911869d855/navy_football_151199360.jpg)

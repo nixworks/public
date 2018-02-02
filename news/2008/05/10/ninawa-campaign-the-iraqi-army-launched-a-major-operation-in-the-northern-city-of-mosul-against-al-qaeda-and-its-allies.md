@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/10/ninawa-campaign-the-iraqi-army-launched-a-major-operation-in-the-northern-city-of-mosul-against-al-qaeda-and-its-allies.html)  [JSON](/news/2008/05/10/ninawa-campaign-the-iraqi-army-launched-a-major-operation-in-the-northern-city-of-mosul-against-al-qaeda-and-its-allies.json)  [XML](/news/2008/05/10/ninawa-campaign-the-iraqi-army-launched-a-major-operation-in-the-northern-city-of-mosul-against-al-qaeda-and-its-allies.xml)  
+
 ### [2008-05-10](/news/2008/05/10/index.md)
 
+##### Ninawa campaign
 #  Ninawa campaign: The Iraqi Army launched a major operation in the northern city of Mosul against al-Qaeda and its allies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7393826.stm)
 

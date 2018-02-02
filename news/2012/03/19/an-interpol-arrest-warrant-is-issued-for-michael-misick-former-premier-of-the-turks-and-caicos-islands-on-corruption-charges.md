@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/19/an-interpol-arrest-warrant-is-issued-for-michael-misick-former-premier-of-the-turks-and-caicos-islands-on-corruption-charges.html)  [JSON](/news/2012/03/19/an-interpol-arrest-warrant-is-issued-for-michael-misick-former-premier-of-the-turks-and-caicos-islands-on-corruption-charges.json)  [XML](/news/2012/03/19/an-interpol-arrest-warrant-is-issued-for-michael-misick-former-premier-of-the-turks-and-caicos-islands-on-corruption-charges.xml)  
+
 ### [2012-03-19](/news/2012/03/19/index.md)
 
+##### Interpol
 # An Interpol arrest warrant is issued for Michael Misick, former Premier of the Turks and Caicos Islands on corruption charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Miami Herald](http://www.miamiherald.com/2012/03/19/2702435_interpol-arrest-warrant-issued.html)
 

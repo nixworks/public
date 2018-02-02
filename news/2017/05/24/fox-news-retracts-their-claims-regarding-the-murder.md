@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/24/fox-news-retracts-their-claims-regarding-the-mu
 
 ### [2017-05-24](/news/2017/05/24/index.md)
 
+##### Murder of Seth Rich
 # Fox News retracts their claims regarding the murder. 
 
 On May 16, a story was posted on the Fox News website on the investigation into the 2016 murder of DNC Staffer Seth Rich. The article was not initially subjected to the high degree of editorial scrutiny we require for all our reporting. Upon appropriate review, the article was found not to meet those standards and has since been removed.

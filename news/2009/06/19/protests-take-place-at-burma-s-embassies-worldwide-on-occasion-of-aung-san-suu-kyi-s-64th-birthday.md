@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/19/protests-take-place-at-burma-s-embassies-worldwide-on-occasion-of-aung-san-suu-kyi-s-64th-birthday.html)  [JSON](/news/2009/06/19/protests-take-place-at-burma-s-embassies-worldwide-on-occasion-of-aung-san-suu-kyi-s-64th-birthday.json)  [XML](/news/2009/06/19/protests-take-place-at-burma-s-embassies-worldwide-on-occasion-of-aung-san-suu-kyi-s-64th-birthday.xml)  
+
 ### [2009-06-19](/news/2009/06/19/index.md)
 
+##### Burma
 #  Protests take place at Burma's embassies worldwide on occasion of Aung San Suu Kyi's 64th birthday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/06/20096197942706703.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8108473.stm)

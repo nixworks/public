@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/1/president-of-the-european-commission-romano-prodi-unveils-a-proposal-to-boost-flagging-economic-growth-in-europe-the-plan-has-two-main-par.html)  [JSON](/news/2003/10/1/president-of-the-european-commission-romano-prodi-unveils-a-proposal-to-boost-flagging-economic-growth-in-europe-the-plan-has-two-main-par.json)  [XML](/news/2003/10/1/president-of-the-european-commission-romano-prodi-unveils-a-proposal-to-boost-flagging-economic-growth-in-europe-the-plan-has-two-main-par.xml)  
+
 ### [2003-10-1](/news/2003/10/1/index.md)
 
+##### President of the European Commission
 #  President of the European Commission Romano Prodi unveils a proposal to boost flagging economic growth in Europe. The plan has two main parts: increasing spending on European transport networks and promoting research and development.
 
 

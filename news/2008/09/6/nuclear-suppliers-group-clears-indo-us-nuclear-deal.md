@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/6/nuclear-suppliers-group-clears-indo-us-nuclear-deal.html)  [JSON](/news/2008/09/6/nuclear-suppliers-group-clears-indo-us-nuclear-deal.json)  [XML](/news/2008/09/6/nuclear-suppliers-group-clears-indo-us-nuclear-deal.xml)  
+
 ### [2008-09-6](/news/2008/09/6/index.md)
 
+##### Nuclear Suppliers Group
 #  Nuclear Suppliers Group clears Indo-US nuclear deal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN-IBN](http://www.ibnlive.com/news/nsg-clears-nuclear-waiver-for-india/73011-3.html?from=rssfeed)
 

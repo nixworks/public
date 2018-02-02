@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/16/orlando-figes-agrees-to-pay-damages-to-rachel-polonsky-and-robert-service-for-fake-book-reviews-he-posted-on-amazon-com.html)  [JSON](/news/2010/07/16/orlando-figes-agrees-to-pay-damages-to-rachel-polonsky-and-robert-service-for-fake-book-reviews-he-posted-on-amazon-com.json)  [XML](/news/2010/07/16/orlando-figes-agrees-to-pay-damages-to-rachel-polonsky-and-robert-service-for-fake-book-reviews-he-posted-on-amazon-com.xml)  
+
 ### [2010-07-16](/news/2010/07/16/index.md)
 
+##### Orlando Figes
 # Orlando Figes agrees to pay damages to Rachel Polonsky and Robert Service for fake book reviews he posted on Amazon.com. 
 
 Historian Orlando Figes, who admitted writing fake reviews on Amazon, is to pay libel damages and costs, it emerges.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-10670407)
 2. [The Guardian](http://www.guardian.co.uk/books/2010/jul/16/orlando-figes-fake-amazon-reviews)

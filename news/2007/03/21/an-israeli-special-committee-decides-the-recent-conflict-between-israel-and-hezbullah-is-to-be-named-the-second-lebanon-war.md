@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/21/an-israeli-special-committee-decides-the-recent-conflict-between-israel-and-hezbullah-is-to-be-named-the-second-lebanon-war.html)  [JSON](/news/2007/03/21/an-israeli-special-committee-decides-the-recent-conflict-between-israel-and-hezbullah-is-to-be-named-the-second-lebanon-war.json)  [XML](/news/2007/03/21/an-israeli-special-committee-decides-the-recent-conflict-between-israel-and-hezbullah-is-to-be-named-the-second-lebanon-war.xml)  
+
 ### [2007-03-21](/news/2007/03/21/index.md)
 
+##### Israel
 #  An Israeli Special committee decides the recent conflict between Israel and Hezbullah is to be named the Second Lebanon War. 
 
 Special committee decides conflict between Israel, Hizbullah to be named Second Lebanon War. Government expected to officially approve name in next weekly meeting
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3379605,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

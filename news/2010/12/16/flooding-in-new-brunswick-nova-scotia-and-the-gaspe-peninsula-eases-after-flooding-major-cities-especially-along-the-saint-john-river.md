@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/12/16/flooding-in-new-brunswick-nova-scotia-and-the-gaspe-peninsula-eases-after-flooding-major-cities-especially-along-the-saint-john-river.html)  [JSON](/news/2010/12/16/flooding-in-new-brunswick-nova-scotia-and-the-gaspe-peninsula-eases-after-flooding-major-cities-especially-along-the-saint-john-river.json)  [XML](/news/2010/12/16/flooding-in-new-brunswick-nova-scotia-and-the-gaspe-peninsula-eases-after-flooding-major-cities-especially-along-the-saint-john-river.xml)  
+
 ### [2010-12-16](/news/2010/12/16/index.md)
 
+##### New Brunswick
 # Flooding in New Brunswick, Nova Scotia and the Gasp Peninsula eases, after flooding major cities especially along the Saint John River. 
 
-Quebec government steps in with emergency aid package
+New Brunswick is promising financial help for people whose homes and businesses were flooded after days of rain caused rivers to overflow.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/new-brunswick/story/2010/12/15/nb-fredericton-flooding-536.html)
 2. [Calgary Herald](http://www.calgaryherald.com/Brunswick+promises+financial+flood+victims/3987367/story.html)
-3. [Globe and Mail](http://www.theglobeandmail.com/news/national/quebec/gasp-flood-victims-to-get-7-million-in-relief/article1840269/)
-3. [Cover Image](http://beta.images.theglobeandmail.com/media/www/images/flag/gam-square.png)
+3. [Globe and Mail](https://www.theglobeandmail.com/news/national/quebec/gasp-flood-victims-to-get-7-million-in-relief/article1840269/)
+3. [Cover Image](http://www.calgaryherald.com/images/icon512x512_CH.jpg)
 
 ### Related:
 

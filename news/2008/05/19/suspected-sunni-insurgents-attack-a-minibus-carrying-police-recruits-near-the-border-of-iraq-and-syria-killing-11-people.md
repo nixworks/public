@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/19/suspected-sunni-insurgents-attack-a-minibus-carrying-police-recruits-near-the-border-of-iraq-and-syria-killing-11-people.html)  [JSON](/news/2008/05/19/suspected-sunni-insurgents-attack-a-minibus-carrying-police-recruits-near-the-border-of-iraq-and-syria-killing-11-people.json)  [XML](/news/2008/05/19/suspected-sunni-insurgents-attack-a-minibus-carrying-police-recruits-near-the-border-of-iraq-and-syria-killing-11-people.xml)  
+
 ### [2008-05-19](/news/2008/05/19/index.md)
 
+##### Sunni
 #  Suspected Sunni insurgents attack a minibus carrying police recruits near the border of Iraq and Syria killing 11 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5gkx-3oYeFwuWKCusr2jrojs98w8wD90OTTO80)
 

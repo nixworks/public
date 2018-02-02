@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/7/flooding-in-the-philippines-capital-manila-forces-at-least-20-000-people-to-flee-their-homes-with-the-death-toll-after-eight-days-of-heavy-r.html)  [JSON](/news/2012/08/7/flooding-in-the-philippines-capital-manila-forces-at-least-20-000-people-to-flee-their-homes-with-the-death-toll-after-eight-days-of-heavy-r.json)  [XML](/news/2012/08/7/flooding-in-the-philippines-capital-manila-forces-at-least-20-000-people-to-flee-their-homes-with-the-death-toll-after-eight-days-of-heavy-r.xml)  
+
 ### [2012-08-7](/news/2012/08/7/index.md)
 
+##### Philippines
 # Flooding in the Philippines capital Manila forces at least 20,000 people to flee their homes with the death toll after eight days of heavy rain throughout the country reaching 53. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5iz8z9dfciDUfIoO9c1bgT5oTiOWw?docId=CNG.ab5b58870ed1ab2c91fea1c72388eebe.181)
 

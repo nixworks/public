@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/06/6/fifty-two-people-die-during-combat-between-peru-s-army-and-indigenous-peoples-in-the-amazon-rainforest.html)  [JSON](/news/2009/06/6/fifty-two-people-die-during-combat-between-peru-s-army-and-indigenous-peoples-in-the-amazon-rainforest.json)  [XML](/news/2009/06/6/fifty-two-people-die-during-combat-between-peru-s-army-and-indigenous-peoples-in-the-amazon-rainforest.xml)  
+
 ### [2009-06-6](/news/2009/06/6/index.md)
 
+##### deadly clashes
 #  Fifty-two people die during combat between Peru's Army and indigenous peoples in the Amazon Rainforest. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE55463G20090607)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090607&t=2&i=10408774&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-07T005407Z_01_BTRE55602IM00_RTROPTP_0_PERU-VIOLENCE)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE55463G20090607)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20090607&t=2&i=10408774&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-07T005407Z_01_BTRE55602IM00_RTROPTP_0_PERU-VIOLENCE)
 
 ### Related:
 

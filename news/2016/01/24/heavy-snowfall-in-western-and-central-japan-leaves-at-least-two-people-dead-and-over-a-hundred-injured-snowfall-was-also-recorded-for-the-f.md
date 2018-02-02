@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/24/heavy-snowfall-in-western-and-central-japan-lea
 
 ### [2016-01-24](/news/2016/01/24/index.md)
 
+##### Japan
 # Heavy snowfall in western and central Japan leaves at least two people dead and over a hundred injured. Snowfall was also recorded for the first time in 155 years on Amami Oshima, a subtropical island in Japan's southern Kagoshima Prefecture. 
 
 Two people die and more than 100 are injured as a cold air mass grips the nation, with record-breaking snowfall in western and central areas of Japan.
@@ -18,5 +19,5 @@ Two people die and more than 100 are injured as a cold air mass grips the nation
 1. [Japan's Sakurajima volcano erupts prompting the Japan Meteorological Agency to issue a warning not to approach it. The volcano, located in the southern Kagoshima Prefecture, is situated 50km from the Sendai Nuclear Power Plant. ](/news/2016/02/5/japan-s-sakurajima-volcano-erupts-prompting-the-japan-meteorological-agency-to-issue-a-warning-not-to-approach-it-the-volcano-located-in-t.md) _Context: Japan, Kagoshima Prefecture_
 2. [Japan's Sendai Nuclear Power Plant in Satsumasendai in Kagoshima Prefecture on Kyushu restarts reactor no. 1. This is the first of 50-plus shut-down nuclear reactors to go back online since the 2011 Fukushima Daiichi nuclear disaster. The problems discovered in the reactor model after the disaster have not been fixed. ](/news/2015/08/11/japan-s-sendai-nuclear-power-plant-in-satsumasendai-in-kagoshima-prefecture-on-kyushu-restarts-reactor-no-1-this-is-the-first-of-50-plus-s.md) _Context: Japan, Kagoshima Prefecture_
 3. [The Shinmoedake volcano in Kagoshima Prefecture, Japan explodes again. ](/news/2011/03/13/the-shinmoedake-volcano-in-kagoshima-prefecture-japan-explodes-again.md) _Context: Japan, Kagoshima Prefecture_
-4. [Former millionaire Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. ](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.md) _Context: Japan_
-5. [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md) _Context: Japan_
+4. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_
+5. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: Japan_

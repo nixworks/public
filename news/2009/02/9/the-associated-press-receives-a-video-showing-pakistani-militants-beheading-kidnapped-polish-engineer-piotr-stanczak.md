@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/9/the-associated-press-receives-a-video-showing-pakistani-militants-beheading-kidnapped-polish-engineer-piotr-stanczak.html)  [JSON](/news/2009/02/9/the-associated-press-receives-a-video-showing-pakistani-militants-beheading-kidnapped-polish-engineer-piotr-stanczak.json)  [XML](/news/2009/02/9/the-associated-press-receives-a-video-showing-pakistani-militants-beheading-kidnapped-polish-engineer-piotr-stanczak.xml)  
+
 ### [2009-02-9](/news/2009/02/9/index.md)
 
+##### Associated Press
 #  The Associated Press receives a video showing Pakistani militants beheading kidnapped Polish engineer Piotr Stanczak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hkiMxbHNH0BqgpWA2ZG6VD6wVTmAD967UBLO0)
 

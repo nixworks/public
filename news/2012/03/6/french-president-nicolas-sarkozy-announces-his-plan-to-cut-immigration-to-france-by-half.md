@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/6/french-president-nicolas-sarkozy-announces-his-plan-to-cut-immigration-to-france-by-half.html)  [JSON](/news/2012/03/6/french-president-nicolas-sarkozy-announces-his-plan-to-cut-immigration-to-france-by-half.json)  [XML](/news/2012/03/6/french-president-nicolas-sarkozy-announces-his-plan-to-cut-immigration-to-france-by-half.xml)  
+
 ### [2012-03-6](/news/2012/03/6/index.md)
 
+##### Nicolas Sarkozy
 # French President Nicolas Sarkozy announces his plan to cut immigration to France by half. 
 
 French President Nicholas Sarkozy says there are too many foreigners in France, and defends his plan to halve new arrivals if he is re-elected.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17280647)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606885_331dc631-6340-4cda-ae6e-bda544b28681.jpg)

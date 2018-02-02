@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/12/a-bomb-is-detonated-outside-a-local-government-headquarters-in-tianjin-northeastern-china-this-is-the-third-explosion-outside-government-f.html)  [JSON](/news/2011/06/12/a-bomb-is-detonated-outside-a-local-government-headquarters-in-tianjin-northeastern-china-this-is-the-third-explosion-outside-government-f.json)  [XML](/news/2011/06/12/a-bomb-is-detonated-outside-a-local-government-headquarters-in-tianjin-northeastern-china-this-is-the-third-explosion-outside-government-f.xml)  
+
 ### [2011-06-12](/news/2011/06/12/index.md)
 
+##### Tianjin
 # A bomb is detonated outside a local government headquarters in Tianjin, northeastern China. This is the third explosion outside government facilities in three weeks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052702304665904576381290666515926.html?mod=googlenews_wsj)
 

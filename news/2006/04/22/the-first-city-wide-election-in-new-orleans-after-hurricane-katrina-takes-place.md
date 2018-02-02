@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/22/the-first-city-wide-election-in-new-orleans-after-hurricane-katrina-takes-place.html)  [JSON](/news/2006/04/22/the-first-city-wide-election-in-new-orleans-after-hurricane-katrina-takes-place.json)  [XML](/news/2006/04/22/the-first-city-wide-election-in-new-orleans-after-hurricane-katrina-takes-place.xml)  
+
 ### [2006-04-22](/news/2006/04/22/index.md)
 
+##### re-elected
 #  The first city-wide election in New Orleans after Hurricane Katrina takes place. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/investing/financeArticle.aspx?type=bondsNews&storyID=2006-04-22T145302Z_01_N21195446_RTRIDST_0_HURRICANES-ELECTION-PICTURE.XML)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/24/iran-aseman-airlines-flight-6895-a-boeing-737-crashes-in-bishkek-kyrgyzstan-shortly-after-takeoff-killing-71-people.html)  [JSON](/news/2008/08/24/iran-aseman-airlines-flight-6895-a-boeing-737-crashes-in-bishkek-kyrgyzstan-shortly-after-takeoff-killing-71-people.json)  [XML](/news/2008/08/24/iran-aseman-airlines-flight-6895-a-boeing-737-crashes-in-bishkek-kyrgyzstan-shortly-after-takeoff-killing-71-people.xml)  
+
 ### [2008-08-24](/news/2008/08/24/index.md)
 
+##### Iran Aseman Airlines
 #  Iran Aseman Airlines Flight 6895, a Boeing 737, crashes in Bishkek, Kyrgyzstan shortly after takeoff, killing 71 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5gWBJlDt_jARNi5s_PQLU-antCwmQ)
 

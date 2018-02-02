@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/01/28/in-russia-special-forces-have-killed-seven-people-in-a-fight-against-what-they-described-as-islamic-militants-the-fight-happened-in-an-ap.html)  [JSON](/news/2005/01/28/in-russia-special-forces-have-killed-seven-people-in-a-fight-against-what-they-described-as-islamic-militants-the-fight-happened-in-an-ap.json)  [XML](/news/2005/01/28/in-russia-special-forces-have-killed-seven-people-in-a-fight-against-what-they-described-as-islamic-militants-the-fight-happened-in-an-ap.xml)  
+
 ### [2005-01-28](/news/2005/01/28/index.md)
 
+##### Russia
 #  In Russia, special forces have killed seven people in a fight against what they described as islamic militants. The fight happened in an apartment block in Nalchik near Chechnya border 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4211625.stm)
 2. [MosNews](http://www.mosnews.com/news/2005/01/27/nalchikoperation.shtml)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7453817)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7453817)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

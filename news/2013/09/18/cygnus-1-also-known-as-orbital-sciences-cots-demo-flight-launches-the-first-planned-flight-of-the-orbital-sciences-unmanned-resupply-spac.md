@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/18/cygnus-1-also-known-as-orbital-sciences-cots-demo-flight-launches-the-first-planned-flight-of-the-orbital-sciences-unmanned-resupply-spac.html)  [JSON](/news/2013/09/18/cygnus-1-also-known-as-orbital-sciences-cots-demo-flight-launches-the-first-planned-flight-of-the-orbital-sciences-unmanned-resupply-spac.json)  [XML](/news/2013/09/18/cygnus-1-also-known-as-orbital-sciences-cots-demo-flight-launches-the-first-planned-flight-of-the-orbital-sciences-unmanned-resupply-spac.xml)  
+
 ### [2013-09-18](/news/2013/09/18/index.md)
 
+##### Cygnus 1
 # Cygnus 1 (also known as Orbital Sciences COTS Demo Flight) launches the first planned flight of the Orbital Sciences' unmanned resupply spacecraft Cygnus, its first flight to the International Space Station and the second launch of the company's Antares launch vehicle. The flight is under contract to NASA as Cygnus' demonstration mission in the Commercial Orbital Transportation Services (COTS) program. The launch site is MARS on the Delmarva Peninsula in Virginia. 
 
 Orbital Sciences Corp. launched its Cygnus cargo spacecraft at 10:58 a.m. EDT Wednesday from NASA’s Wallops Flight Facility.
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://www.nasa.gov/content/cygnus-en-route-for-sunday-rendezvous-with-station/index.html)
 1. [Cover Image](http://www.nasa.gov/sites/default/files/eztv_4541_nasa_tv_hd_2013-09-18_10h57m45s_0.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/20/oil-services-company-baker-hughes-will-lay-off-7-000-people-due-to-falling-crude-oil-prices.html)  [JSON](/news/2015/01/20/oil-services-company-baker-hughes-will-lay-off-7-000-people-due-to-falling-crude-oil-prices.json)  [XML](/news/2015/01/20/oil-services-company-baker-hughes-will-lay-off-7-000-people-due-to-falling-crude-oil-prices.xml)  
+
 ### [2015-01-20](/news/2015/01/20/index.md)
 
+##### Baker Hughes
 # Oil services company Baker Hughes will lay off 7,000 people due to falling crude oil prices. 
 
 Oil services company Baker Hughes Inc. has said that it will lay off about 7,000 workers as it prepares for a downturn. 
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abc13.com/business/baker-hughes-plans-to-lay-off-around-7000-workers/483230/)
 1. [Cover Image](http://cdn.abclocal.go.com/content/ktrk/images/cms/automation/images/483235_1280x720.jpg)

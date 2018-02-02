@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/10/hurricane-and-tropical-storm-warnings-are-issued-for-parts-of-the-canadian-province-newfoundland-and-labrador-as-tropical-storm-leslie-appro.html)  [JSON](/news/2012/09/10/hurricane-and-tropical-storm-warnings-are-issued-for-parts-of-the-canadian-province-newfoundland-and-labrador-as-tropical-storm-leslie-appro.json)  [XML](/news/2012/09/10/hurricane-and-tropical-storm-warnings-are-issued-for-parts-of-the-canadian-province-newfoundland-and-labrador-as-tropical-storm-leslie-appro.xml)  
+
 ### [2012-09-10](/news/2012/09/10/index.md)
 
+##### Newfoundland and Labrador
 # Hurricane and tropical storm warnings are issued for parts of the Canadian province Newfoundland and Labrador as Tropical Storm Leslie approaches. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Hurricane Centre](http://www.nhc.noaa.gov/text/refresh/MIATCUAT2+shtml/100547.shtml)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/03/10/pizza-chain-sbarro-files-for-chapter-11-bankruptcy-for-the-second-time-in-3-years.html)  [JSON](/news/2014/03/10/pizza-chain-sbarro-files-for-chapter-11-bankruptcy-for-the-second-time-in-3-years.json)  [XML](/news/2014/03/10/pizza-chain-sbarro-files-for-chapter-11-bankruptcy-for-the-second-time-in-3-years.xml)  
+
 ### [2014-03-10](/news/2014/03/10/index.md)
 
+##### Sbarro
 # Pizza chain Sbarro files for chapter 11 bankruptcy for the second time in 3 years. 
 
 Pizza chain Sbarro LLC has filed for bankruptcy protection for the second time in three years after struggling with too much debt and fewer customers in malls that house many of its restaurants.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/03/10/us-sbarro-bankruptcy-idUSBREA290TK20140310)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140310&t=2&i=858859782&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA29167800)
+1. [Reuters](https://www.reuters.com/article/2014/03/10/us-sbarro-bankruptcy-idUSBREA290TK20140310)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140310&t=2&i=858859782&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA29167800)
 
 ### Related:
 

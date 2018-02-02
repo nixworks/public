@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/7/the-iranian-ministry-of-interior-sets-14-june-2013-as-the-date-of-the-next-presidential-election-for-a-successor-of-current-president-mahm.html)  [JSON](/news/2012/09/7/the-iranian-ministry-of-interior-sets-14-june-2013-as-the-date-of-the-next-presidential-election-for-a-successor-of-current-president-mahm.json)  [XML](/news/2012/09/7/the-iranian-ministry-of-interior-sets-14-june-2013-as-the-date-of-the-next-presidential-election-for-a-successor-of-current-president-mahm.xml)  
+
 ### [2012-09-7](/news/2012/09/7/index.md)
 
+##### Iran
 # The Iranian ministry of interior sets 14 June 2013 as the date of the next presidential election, for a successor of current president, Mahmoud Ahmadinejad. For the first time, this election is to be held on the same date as the next municipal elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Huffington Post](http://www.huffingtonpost.com/2012/09/07/iran-presidential-election_n_1863823.html)
 

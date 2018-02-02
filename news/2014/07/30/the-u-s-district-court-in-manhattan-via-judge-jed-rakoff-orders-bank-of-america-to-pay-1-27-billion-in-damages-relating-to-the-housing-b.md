@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/07/30/the-u-s-district-court-in-manhattan-via-judge-jed-rakoff-orders-bank-of-america-to-pay-1-27-billion-in-damages-relating-to-the-housing-b.html)  [JSON](/news/2014/07/30/the-u-s-district-court-in-manhattan-via-judge-jed-rakoff-orders-bank-of-america-to-pay-1-27-billion-in-damages-relating-to-the-housing-b.json)  [XML](/news/2014/07/30/the-u-s-district-court-in-manhattan-via-judge-jed-rakoff-orders-bank-of-america-to-pay-1-27-billion-in-damages-relating-to-the-housing-b.xml)  
+
 ### [2014-07-30](/news/2014/07/30/index.md)
 
+##### U.S. District Judge
 # The U.S. District Court in Manhattan, via Judge Jed Rakoff, orders Bank of America to pay $1.27 billion in damages relating to the housing bubble-era actions of what is now its Countrywide unit. 
 
 A federal judge on Wednesday ordered Bank of America Corp (BAC.N) to pay a $1.27 billion penalty for fraud over shoddy mortgages sold by the former Countrywide Financial Corp.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/07/30/us-bankofamerica-fraud-idUSKBN0FZ23R20140730)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140730&t=2&i=952359474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6T0RV)
+1. [Reuters](https://www.reuters.com/article/2014/07/30/us-bankofamerica-fraud-idUSKBN0FZ23R20140730)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20140730&t=2&i=952359474&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6T0RV)
 
 ### Related:
 

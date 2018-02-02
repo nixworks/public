@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/22/harry-potter-the-director-for-the-third-harry-potter-film-has-been-announced-as-mexican-born-alfonso-cuaron-cuaron-will-start-directing.html)  [JSON](/news/2002/07/22/harry-potter-the-director-for-the-third-harry-potter-film-has-been-announced-as-mexican-born-alfonso-cuaron-cuaron-will-start-directing.json)  [XML](/news/2002/07/22/harry-potter-the-director-for-the-third-harry-potter-film-has-been-announced-as-mexican-born-alfonso-cuaron-cuaron-will-start-directing.xml)  
+
 ### [2002-07-22](/news/2002/07/22/index.md)
 
+##### Harry Potter
 #  Harry Potter. The director for the third Harry Potter film has been announced as Mexican-born Alfonso Cuarn. Cuarn will start directing "Harry Potter and the Prisoner of Azkaban" next year.
 
 

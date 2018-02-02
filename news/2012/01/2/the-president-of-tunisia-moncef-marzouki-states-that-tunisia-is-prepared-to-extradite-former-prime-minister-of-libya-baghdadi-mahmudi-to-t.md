@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/2/the-president-of-tunisia-moncef-marzouki-states-that-tunisia-is-prepared-to-extradite-former-prime-minister-of-libya-baghdadi-mahmudi-to-t.html)  [JSON](/news/2012/01/2/the-president-of-tunisia-moncef-marzouki-states-that-tunisia-is-prepared-to-extradite-former-prime-minister-of-libya-baghdadi-mahmudi-to-t.json)  [XML](/news/2012/01/2/the-president-of-tunisia-moncef-marzouki-states-that-tunisia-is-prepared-to-extradite-former-prime-minister-of-libya-baghdadi-mahmudi-to-t.xml)  
+
 ### [2012-01-2](/news/2012/01/2/index.md)
 
+##### President of Tunisia
 # The President of Tunisia, Moncef Marzouki, states that Tunisia is prepared to extradite former Prime Minister of Libya Baghdadi Mahmudi to Tripoli to face charges of abuse of office, if the Libyan government can guarantee a fair trial. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFL6E8C21J820120102)
 

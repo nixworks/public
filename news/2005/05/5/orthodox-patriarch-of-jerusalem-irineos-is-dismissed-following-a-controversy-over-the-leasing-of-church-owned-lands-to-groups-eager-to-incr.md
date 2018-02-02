@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/5/orthodox-patriarch-of-jerusalem-irineos-is-dismissed-following-a-controversy-over-the-leasing-of-church-owned-lands-to-groups-eager-to-incr.html)  [JSON](/news/2005/05/5/orthodox-patriarch-of-jerusalem-irineos-is-dismissed-following-a-controversy-over-the-leasing-of-church-owned-lands-to-groups-eager-to-incr.json)  [XML](/news/2005/05/5/orthodox-patriarch-of-jerusalem-irineos-is-dismissed-following-a-controversy-over-the-leasing-of-church-owned-lands-to-groups-eager-to-incr.xml)  
+
 ### [2005-05-5](/news/2005/05/5/index.md)
 
+##### Orthodox Church of Jerusalem
 #  Orthodox Patriarch of Jerusalem Irineos is dismissed following a controversy over the leasing of church-owned lands to groups eager to increase the Jewish presence in the Old City of Jerusalem. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4517223.stm)
 

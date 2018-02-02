@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/11/9/conflict-in-cote-d-ivoire-canada-has-decided-to-airlift-its-citizens-out-of-the-troubled-cote-d-ivoire-following-a-similar-course-of-actio.html)  [JSON](/news/2004/11/9/conflict-in-cote-d-ivoire-canada-has-decided-to-airlift-its-citizens-out-of-the-troubled-cote-d-ivoire-following-a-similar-course-of-actio.json)  [XML](/news/2004/11/9/conflict-in-cote-d-ivoire-canada-has-decided-to-airlift-its-citizens-out-of-the-troubled-cote-d-ivoire-following-a-similar-course-of-actio.xml)  
+
 ### [2004-11-9](/news/2004/11/9/index.md)
 
+##### airlift
 #  Conflict in Cte d'Ivoire: Canada has decided to airlift its citizens out of the troubled Cte d'Ivoire following a similar course of action by France and the United Nations. Other countries such as Spain, Italy, Germany, and the United Kingdom will do so. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Scotsman](http://news.scotsman.com/latest.cfm?id=3739674)
-2. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1100041812966&call_pageid=968332188854&col=968350060724)
+2. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1100041812966&call_pageid=968332188854&col=968350060724)
 
 ### Related:
 

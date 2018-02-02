@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/27/a-landslide-in-the-indonesian-island-of-sumatra-kills-at-least-4-people-with-18-missing.html)  [JSON](/news/2013/01/27/a-landslide-in-the-indonesian-island-of-sumatra-kills-at-least-4-people-with-18-missing.json)  [XML](/news/2013/01/27/a-landslide-in-the-indonesian-island-of-sumatra-kills-at-least-4-people-with-18-missing.xml)  
+
 ### [2013-01-27](/news/2013/01/27/index.md)
 
+##### landslide
 # A landslide in the Indonesian island of Sumatra kills at least 4 people with 18 missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Malaysia Star](http://thestar.com.my/news/story.asp?file=/2013/1/27/reutersworld/1301271503-indonesia-landslide-kills-four-18-missi)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/5/american-conservative-icon-phyllis-schafly-dies-
 
 ### [2016-09-5](/news/2016/09/5/index.md)
 
+##### Conservative
 # American Conservative icon Phyllis Schafly dies at the age of 92. 
 
 Schlafly rose to prominence and influence among conservatives through her fight against feminism, the Equal Rights Amendment and abortion rights

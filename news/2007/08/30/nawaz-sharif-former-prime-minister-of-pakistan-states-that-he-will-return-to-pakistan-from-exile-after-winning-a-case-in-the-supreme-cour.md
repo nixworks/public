@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/30/nawaz-sharif-former-prime-minister-of-pakistan-states-that-he-will-return-to-pakistan-from-exile-after-winning-a-case-in-the-supreme-cour.html)  [JSON](/news/2007/08/30/nawaz-sharif-former-prime-minister-of-pakistan-states-that-he-will-return-to-pakistan-from-exile-after-winning-a-case-in-the-supreme-cour.json)  [XML](/news/2007/08/30/nawaz-sharif-former-prime-minister-of-pakistan-states-that-he-will-return-to-pakistan-from-exile-after-winning-a-case-in-the-supreme-cour.xml)  
+
 ### [2007-08-30](/news/2007/08/30/index.md)
 
+##### Nawaz Sharif
 #  Nawaz Sharif, former Prime Minister of Pakistan, states that he will return to Pakistan from exile after winning a case in the Supreme Court of Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [chosun](http://english.chosun.com/w21data/html/news/200708/200708310035.html)
 

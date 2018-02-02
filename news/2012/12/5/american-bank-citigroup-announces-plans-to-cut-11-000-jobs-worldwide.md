@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/5/american-bank-citigroup-announces-plans-to-cut-11-000-jobs-worldwide.html)  [JSON](/news/2012/12/5/american-bank-citigroup-announces-plans-to-cut-11-000-jobs-worldwide.json)  [XML](/news/2012/12/5/american-bank-citigroup-announces-plans-to-cut-11-000-jobs-worldwide.xml)  
+
 ### [2012-12-5](/news/2012/12/5/index.md)
 
+##### Citigroup
 # American bank Citigroup announces plans to cut 11,000 jobs worldwide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2012-12-05-Citigroup-Job%20Cuts/id-40d81b545ab24d77aa9d531a4025fc2c)
 

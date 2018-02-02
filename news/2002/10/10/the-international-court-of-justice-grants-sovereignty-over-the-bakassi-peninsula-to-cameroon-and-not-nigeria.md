@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/10/the-international-court-of-justice-grants-sovereignty-over-the-bakassi-peninsula-to-cameroon-and-not-nigeria.html)  [JSON](/news/2002/10/10/the-international-court-of-justice-grants-sovereignty-over-the-bakassi-peninsula-to-cameroon-and-not-nigeria.json)  [XML](/news/2002/10/10/the-international-court-of-justice-grants-sovereignty-over-the-bakassi-peninsula-to-cameroon-and-not-nigeria.xml)  
+
 ### [2002-10-10](/news/2002/10/10/index.md)
 
+##### International Court of Justice
 #  The International Court of Justice grants sovereignty over the Bakassi peninsula to Cameroon and not Nigeria.
 
 

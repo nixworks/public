@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/5/a-convoy-of-troops-loyal-to-former-libyan-leader-muammar-gaddafi-crosses-the-border-with-niger-arriving-in-agadez.html)  [JSON](/news/2011/09/5/a-convoy-of-troops-loyal-to-former-libyan-leader-muammar-gaddafi-crosses-the-border-with-niger-arriving-in-agadez.json)  [XML](/news/2011/09/5/a-convoy-of-troops-loyal-to-former-libyan-leader-muammar-gaddafi-crosses-the-border-with-niger-arriving-in-agadez.xml)  
+
 ### [2011-09-5](/news/2011/09/5/index.md)
 
+##### Libya
 # A convoy of troops loyal to former Libyan leader Muammar Gaddafi crosses the border with Niger arriving in Agadez. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://hosted.ap.org/dynamic/stories/A/AF_NIGER_LIBYAN_CONVOY?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/2/anibal-acevedo-vila-leads-with-3-880-votes-of-advantage-against-pedro-rossello-with-98-27-of-the-total-votes-counted-by-law-a-recount-mu.html)  [JSON](/news/2004/11/2/anibal-acevedo-vila-leads-with-3-880-votes-of-advantage-against-pedro-rossello-with-98-27-of-the-total-votes-counted-by-law-a-recount-mu.json)  [XML](/news/2004/11/2/anibal-acevedo-vila-leads-with-3-880-votes-of-advantage-against-pedro-rossello-with-98-27-of-the-total-votes-counted-by-law-a-recount-mu.xml)  
+
 ### [2004-11-2](/news/2004/11/2/index.md)
 
+##### Anbal Acevedo Vil
 #  Anbal Acevedo Vil leads with 3,880 votes of advantage against Pedro Rossell with 98.27% of the total votes counted. By law, a recount must be performed when the winning margin is less than 0.5%. The official winner will be certified on December 31 after the recount is finished. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CEE-PUR](http://www.ceepur.org/)
 2. [El Nuevo Dia](http://endi.com/elecciones2004/noticia.asp?newsid=7CDB9A33-E61B-4B42-909D-79B79FEF8F98)

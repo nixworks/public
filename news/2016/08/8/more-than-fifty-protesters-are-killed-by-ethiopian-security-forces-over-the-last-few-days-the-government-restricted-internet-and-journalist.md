@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/8/more-than-fifty-protesters-are-killed-by-ethiopi
 
 ### [2016-08-8](/news/2016/08/8/index.md)
 
+##### 2016 Ethiopian protests
 # More than fifty protesters are killed by Ethiopian security forces over the last few days. The government restricted internet and journalist access to the country. 
 
 Security forces accused of shooting dead people in Oromia and Amhara regions in attempt to suppress wave of protests.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/7/a-mexican-drug-war-related-march-inspired-by-the-killing-of-seven-people-one-of-whom-was-the-son-of-prominent-poet-and-journalist-javier-si.html)  [JSON](/news/2011/04/7/a-mexican-drug-war-related-march-inspired-by-the-killing-of-seven-people-one-of-whom-was-the-son-of-prominent-poet-and-journalist-javier-si.json)  [XML](/news/2011/04/7/a-mexican-drug-war-related-march-inspired-by-the-killing-of-seven-people-one-of-whom-was-the-son-of-prominent-poet-and-journalist-javier-si.xml)  
+
 ### [2011-04-7](/news/2011/04/7/index.md)
 
+##### Mexican Drug War
 # A Mexican Drug War-related march inspired by the killing of seven people, one of whom was the son of prominent poet and journalist Javier Sicilia, occur in more than 20 Mexican cities, with marchers chanting "No more blood!". 
 
 As Mexicans march in protest at the drug violence sweeping the nation, at least 59 bodies are found in a mass grave near the US border.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12992664)
 2. [LA Times](http://www.latimes.com/news/nationworld/world/la-fg-mexico-marches-20110407,0,1152174.story)

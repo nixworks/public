@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/10/more-than-30-people-in-and-around-the-us-city-of-baltimore-maryland-are-arrested-on-drugs-charges-including-actress-felicia-pearson-from.html)  [JSON](/news/2011/03/10/more-than-30-people-in-and-around-the-us-city-of-baltimore-maryland-are-arrested-on-drugs-charges-including-actress-felicia-pearson-from.json)  [XML](/news/2011/03/10/more-than-30-people-in-and-around-the-us-city-of-baltimore-maryland-are-arrested-on-drugs-charges-including-actress-felicia-pearson-from.xml)  
+
 ### [2011-03-10](/news/2011/03/10/index.md)
 
+##### Baltimore
 # More than 30 people in and around the US city of Baltimore, Maryland, are arrested on drugs charges, including actress Felicia Pearson from television series "The Wire". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](http://voices.washingtonpost.com/local-breaking-news/the-wire-actress-arrested-in-d.html)
 

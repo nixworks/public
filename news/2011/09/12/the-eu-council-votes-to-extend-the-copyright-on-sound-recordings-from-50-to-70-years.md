@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/12/the-eu-council-votes-to-extend-the-copyright-on-sound-recordings-from-50-to-70-years.html)  [JSON](/news/2011/09/12/the-eu-council-votes-to-extend-the-copyright-on-sound-recordings-from-50-to-70-years.json)  [XML](/news/2011/09/12/the-eu-council-votes-to-extend-the-copyright-on-sound-recordings-from-50-to-70-years.xml)  
+
 ### [2011-09-12](/news/2011/09/12/index.md)
 
+##### Council of the European Union
 # The EU Council votes to extend the copyright on sound recordings from 50 to 70 years. 
 
 Musicians are set to receive royalties from sales and airplay well into their old age after the EU agrees to extend the copyright on sound recordings from 50 to 70 years.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-14882146)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55306000/jpg/_55306181_55306180.jpg)

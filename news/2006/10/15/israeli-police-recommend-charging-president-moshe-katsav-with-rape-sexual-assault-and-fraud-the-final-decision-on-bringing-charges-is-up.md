@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2006/10/15/israeli-police-recommend-charging-president-moshe-katsav-with-rape-sexual-assault-and-fraud-the-final-decision-on-bringing-charges-is-up.html)  [JSON](/news/2006/10/15/israeli-police-recommend-charging-president-moshe-katsav-with-rape-sexual-assault-and-fraud-the-final-decision-on-bringing-charges-is-up.json)  [XML](/news/2006/10/15/israeli-police-recommend-charging-president-moshe-katsav-with-rape-sexual-assault-and-fraud-the-final-decision-on-bringing-charges-is-up.xml)  
+
 ### [2006-10-15](/news/2006/10/15/index.md)
 
-#  Israeli police recommend charging President Moshe Katsav with rape, sexual assault and fraud. The final decision on bringing charges is up to Attorney General Meni Mazuz. ([http:--www.washingtonpost.com-wp-dyn-content-article-2006-10-15-AR2006101500301.html The Washington Post])
+##### Israel
+#  Israeli police recommend charging President Moshe Katsav with rape, sexual assault and fraud. The final decision on bringing charges is up to Attorney General Meni Mazuz. ([https:--www.washingtonpost.com-wp-dyn-content-article-2006-10-15-AR2006101500301.html The Washington Post])
 
 
 

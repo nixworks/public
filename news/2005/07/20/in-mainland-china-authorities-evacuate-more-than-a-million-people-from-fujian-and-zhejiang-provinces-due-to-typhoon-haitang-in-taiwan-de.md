@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/20/in-mainland-china-authorities-evacuate-more-than-a-million-people-from-fujian-and-zhejiang-provinces-due-to-typhoon-haitang-in-taiwan-de.html)  [JSON](/news/2005/07/20/in-mainland-china-authorities-evacuate-more-than-a-million-people-from-fujian-and-zhejiang-provinces-due-to-typhoon-haitang-in-taiwan-de.json)  [XML](/news/2005/07/20/in-mainland-china-authorities-evacuate-more-than-a-million-people-from-fujian-and-zhejiang-provinces-due-to-typhoon-haitang-in-taiwan-de.xml)  
+
 ### [2005-07-20](/news/2005/07/20/index.md)
 
+##### mainland China
 #  In mainland China, authorities evacuate more than a million people from Fujian and Zhejiang provinces due to Typhoon Haitang. In Taiwan, death toll rises to 7 with one missing and 31 injured. The typhoon also causes significant agricultural damage 
 
 Typhoon Haitang, which brought tremendous rainfall and caused dozens of casualties in Taiwan, yesterday was downgraded into a less-devastating tropical storm. However, the Central Weather Bureau (CWB) reminded people of the danger of potential flooding, because torrential rainfall is expected to continue over the next few days.
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/158824/1/.html)
 2. [People's Daily](http://english.people.com.cn/200507/20/eng20050720_197216.html)

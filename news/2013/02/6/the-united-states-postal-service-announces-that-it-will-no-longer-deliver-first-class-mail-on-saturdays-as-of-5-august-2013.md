@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/6/the-united-states-postal-service-announces-that-it-will-no-longer-deliver-first-class-mail-on-saturdays-as-of-5-august-2013.html)  [JSON](/news/2013/02/6/the-united-states-postal-service-announces-that-it-will-no-longer-deliver-first-class-mail-on-saturdays-as-of-5-august-2013.json)  [XML](/news/2013/02/6/the-united-states-postal-service-announces-that-it-will-no-longer-deliver-first-class-mail-on-saturdays-as-of-5-august-2013.xml)  
+
 ### [2013-02-6](/news/2013/02/6/index.md)
 
+##### United States Postal Service
 # The United States Postal Service announces that it will no longer deliver first-class mail on Saturdays as of 5 August 2013. 
 
 The U.S. Postal Service plans to stop delivering letters and other first-class mail on Saturdays beginning Aug. 5 although packages will continue to be delivered.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2013/02/06/news/economy/postal-service-cuts)
 

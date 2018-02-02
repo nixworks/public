@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/18/at-least-37-people-are-killed-and-others-are-wounded-in-a-u-s-led-airstrike-in-kunar-province-afghanistan.html)  [JSON](/news/2011/02/18/at-least-37-people-are-killed-and-others-are-wounded-in-a-u-s-led-airstrike-in-kunar-province-afghanistan.json)  [XML](/news/2011/02/18/at-least-37-people-are-killed-and-others-are-wounded-in-a-u-s-led-airstrike-in-kunar-province-afghanistan.xml)  
+
 ### [2011-02-18](/news/2011/02/18/index.md)
 
+##### Kunar Province
 # At least 37 people are killed and others are wounded in a U.S.-led airstrike in Kunar Province, Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail/165845.html)
 

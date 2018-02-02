@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/07/20/the-supreme-court-of-pakistan-unanimously-reinstates-iftikhar-chaudhry-as-chief-justice.html)  [JSON](/news/2007/07/20/the-supreme-court-of-pakistan-unanimously-reinstates-iftikhar-chaudhry-as-chief-justice.json)  [XML](/news/2007/07/20/the-supreme-court-of-pakistan-unanimously-reinstates-iftikhar-chaudhry-as-chief-justice.xml)  
+
 ### [2007-07-20](/news/2007/07/20/index.md)
 
+##### Supreme Court
 #  The Supreme Court of Pakistan unanimously reinstates Iftikhar Chaudhry as Chief Justice. 
 
 

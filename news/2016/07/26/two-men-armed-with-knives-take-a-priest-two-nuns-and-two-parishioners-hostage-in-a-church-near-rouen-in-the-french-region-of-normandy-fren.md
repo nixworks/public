@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/26/two-men-armed-with-knives-take-a-priest-two-nun
 
 ### [2016-07-26](/news/2016/07/26/index.md)
 
+##### 2016 Normandy church attack
 # Two men armed with knives take a priest, two nuns and two parishioners hostage in a church near Rouen in the French region of Normandy. French police kill the hostage-takers after the 86-year-old priest, Jacques Hamel, was killed by slitting his throat. 
 
 French President Francois Hollande blamed the &quot;cowardly acts&quot; on ISIS-linked terrorists.

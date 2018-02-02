@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/10/27/a-bomb-explodes-in-a-food-market-in-the-pakistani-city-of-peshawar-injuring-at-least-11-people.html)  [JSON](/news/2011/10/27/a-bomb-explodes-in-a-food-market-in-the-pakistani-city-of-peshawar-injuring-at-least-11-people.json)  [XML](/news/2011/10/27/a-bomb-explodes-in-a-food-market-in-the-pakistani-city-of-peshawar-injuring-at-least-11-people.xml)  
+
 ### [2011-10-27](/news/2011/10/27/index.md)
 
+##### Pakistan
 # A bomb explodes in a food market in the Pakistani city of Peshawar, injuring at least 11 people. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/asia-pacific/bomb-explodes-in-food-market-in-northwest-pakistan-city-of-peshawar-injuring-11-people/2011/10/27/gIQALBooKM_story.html)
+1. [Washington Post](https://www.washingtonpost.com/world/asia-pacific/bomb-explodes-in-food-market-in-northwest-pakistan-city-of-peshawar-injuring-11-people/2011/10/27/gIQALBooKM_story.html)
 
 ### Related:
 

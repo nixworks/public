@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/25/miro-cerar-is-appointed-prime-minister-designate-by-the-slovenian-national-assembly.html)  [JSON](/news/2014/08/25/miro-cerar-is-appointed-prime-minister-designate-by-the-slovenian-national-assembly.json)  [XML](/news/2014/08/25/miro-cerar-is-appointed-prime-minister-designate-by-the-slovenian-national-assembly.xml)  
+
 ### [2014-08-25](/news/2014/08/25/index.md)
 
+##### Miro Cerar
 # Miro Cerar is appointed Prime minister-designate by the Slovenian National Assembly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Slovenia Times](http://www.sloveniatimes.com/parliament-confirms-miro-cerar-as-pm-designate)
 

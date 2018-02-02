@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/22/the-burmese-government-appeals-for-understanding-after-rare-protests-in-mandalay-and-yangon-over-power-shortages.html)  [JSON](/news/2012/05/22/the-burmese-government-appeals-for-understanding-after-rare-protests-in-mandalay-and-yangon-over-power-shortages.json)  [XML](/news/2012/05/22/the-burmese-government-appeals-for-understanding-after-rare-protests-in-mandalay-and-yangon-over-power-shortages.xml)  
+
 ### [2012-05-22](/news/2012/05/22/index.md)
 
+##### Burma
 # The Burmese government appeals for "understanding" after rare protests in Mandalay and Yangon over power shortages. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18162333)
 2. [VOA](http://blogs.voanews.com/breaking-news/2012/05/22/burmese-electricity-protests-end-without-arrests/)

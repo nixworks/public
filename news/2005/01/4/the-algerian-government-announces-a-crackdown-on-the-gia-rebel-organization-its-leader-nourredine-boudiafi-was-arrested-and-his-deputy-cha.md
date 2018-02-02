@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/01/4/the-algerian-government-announces-a-crackdown-on-the-gia-rebel-organization-its-leader-nourredine-boudiafi-was-arrested-and-his-deputy-cha.html)  [JSON](/news/2005/01/4/the-algerian-government-announces-a-crackdown-on-the-gia-rebel-organization-its-leader-nourredine-boudiafi-was-arrested-and-his-deputy-cha.json)  [XML](/news/2005/01/4/the-algerian-government-announces-a-crackdown-on-the-gia-rebel-organization-its-leader-nourredine-boudiafi-was-arrested-and-his-deputy-cha.xml)  
+
 ### [2005-01-4](/news/2005/01/4/index.md)
 
+##### Algeria
 #  The Algerian government announces a crackdown on the GIA rebel organization. Its leader Nourredine Boudiafi was arrested and his deputy Chaabane Younes killed in operation two months ago. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [Afrol](http://www.afrol.com/articles/15128)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4144265.stm)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7224300)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7224300)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

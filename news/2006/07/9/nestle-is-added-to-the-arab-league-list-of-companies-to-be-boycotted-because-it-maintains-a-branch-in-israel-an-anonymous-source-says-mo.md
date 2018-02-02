@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/9/nestle-is-added-to-the-arab-league-list-of-companies-to-be-boycotted-because-it-maintains-a-branch-in-israel-an-anonymous-source-says-mo.html)  [JSON](/news/2006/07/9/nestle-is-added-to-the-arab-league-list-of-companies-to-be-boycotted-because-it-maintains-a-branch-in-israel-an-anonymous-source-says-mo.json)  [XML](/news/2006/07/9/nestle-is-added-to-the-arab-league-list-of-companies-to-be-boycotted-because-it-maintains-a-branch-in-israel-an-anonymous-source-says-mo.xml)  
+
 ### [2006-07-9](/news/2006/07/9/index.md)
 
+##### Nestl
 #  Nestl is added to the Arab League list of companies to be boycotted "because it maintains a branch in Israel". An anonymous source says most League members are likely to ignore the decision. 
 
 Despite Arab League&#39;s decision to boycott Swiss food giant because it maintains branch in Israel, most League members are likely to ignore it 
 
 
-### Source:
+### Sources:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3272747,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/27/the-prime-minister-of-pakistan-raja-pervez-ashraf-appears-in-the-pakistani-supreme-court-over-his-failure-to-reopen-investigations-of-corrup.html)  [JSON](/news/2012/08/27/the-prime-minister-of-pakistan-raja-pervez-ashraf-appears-in-the-pakistani-supreme-court-over-his-failure-to-reopen-investigations-of-corrup.json)  [XML](/news/2012/08/27/the-prime-minister-of-pakistan-raja-pervez-ashraf-appears-in-the-pakistani-supreme-court-over-his-failure-to-reopen-investigations-of-corrup.xml)  
+
 ### [2012-08-27](/news/2012/08/27/index.md)
 
+##### Prime Minister
 # The Prime Minister of Pakistan Raja Pervez Ashraf appears in the Pakistani Supreme Court over his failure to reopen investigations of corruption against President Asif Ali Zardari. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Melbourne Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/pakistan-pm-arrives-in-court/story-e6frf7k6-1226459061479)
 

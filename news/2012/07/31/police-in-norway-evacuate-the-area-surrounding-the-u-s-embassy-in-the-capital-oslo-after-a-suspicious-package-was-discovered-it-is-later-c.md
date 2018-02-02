@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/31/police-in-norway-evacuate-the-area-surrounding-the-u-s-embassy-in-the-capital-oslo-after-a-suspicious-package-was-discovered-it-is-later-c.html)  [JSON](/news/2012/07/31/police-in-norway-evacuate-the-area-surrounding-the-u-s-embassy-in-the-capital-oslo-after-a-suspicious-package-was-discovered-it-is-later-c.json)  [XML](/news/2012/07/31/police-in-norway-evacuate-the-area-surrounding-the-u-s-embassy-in-the-capital-oslo-after-a-suspicious-package-was-discovered-it-is-later-c.xml)  
+
 ### [2012-07-31](/news/2012/07/31/index.md)
 
+##### Norway
 # Police in Norway evacuate the area surrounding the U.S. embassy in the capital Oslo after a suspicious package was discovered. It is later confirmed as a false alarm. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/31/us-norway-usebassy-idUSBRE86U0F620120731)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/07/31/us-norway-usebassy-idUSBRE86U0F620120731)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

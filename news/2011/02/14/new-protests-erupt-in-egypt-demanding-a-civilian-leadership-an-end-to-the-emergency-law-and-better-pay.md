@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/14/new-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.html)  [JSON](/news/2011/02/14/new-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.json)  [XML](/news/2011/02/14/new-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.xml)  
+
 ### [2011-02-14](/news/2011/02/14/index.md)
 
+##### protests
 # New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. 
 
 Unrest in Yemen turns ugly as protesters clash with police and government loyalists in Sanaa on a fourth day of rallies.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/201121211858966496.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12460486)
@@ -21,16 +25,16 @@ Unrest in Yemen turns ugly as protesters clash with police and government loyali
 12. [Yemen Post](http://yemenpost.net/Detail123456789.aspx?ID=3&SubID=3137)
 12. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
-### Related:
-
-1. [Former Egyptian President Hosni Mubarak's retrial on charges of corruption and conspiracy to kill protesters during the 2011 Egyptian revolution is transferred to another court. ](/news/2013/04/13/former-egyptian-president-hosni-mubarak-s-retrial-on-charges-of-corruption-and-conspiracy-to-kill-protesters-during-the-2011-egyptian-revolu.md) _Context: 2011 Egyptian revolution, Egypt_
-2. [Massive protests against Mohamed Morsi develop all over Egypt on the second anniversary of the 2011 revolution, including in Tahrir Square, where thousands of protesters gathered. At least 6 civilians and 1 police officer are shot dead in the Egyptian city of Suez, while 456 others are injured nationwide. ](/news/2013/01/25/massive-protests-against-mohamed-morsi-develop-all-over-egypt-on-the-second-anniversary-of-the-2011-revolution-including-in-tahrir-square.md) _Context: 2011 Egyptian revolution, Egypt_
-3. [In Egypt, Hosni Mubarak, ousted from power in last year's revolution, is reported to in a coma and has been taken off life support. ](/news/2012/06/20/in-egypt-hosni-mubarak-ousted-from-power-in-last-year-s-revolution-is-reported-to-in-a-coma-and-has-been-taken-off-life-support.md) _Context: 2011 Egyptian revolution, Egypt_
-4. [post-Mubarak Egypt:Tens of thousands of people converge on Cairo's Tahrir Square to demonstrate against Egypt's military rulers, who have seized power following the ousting from power of Hosni Mubarak in last year's revolution. ](/news/2012/06/19/post-mubarak-egypt-tens-of-thousands-of-people-converge-on-cairo-s-tahrir-square-to-demonstrate-against-egypt-s-military-rulers-who-have-se.md) _Context: 2011 Egyptian revolution, Egypt_
-5. [Voters in Egypt go to the polls for a presidential election, 15 months after former president Hosni Mubarak was ousted in a revolution. ](/news/2012/05/23/voters-in-egypt-go-to-the-polls-for-a-presidential-election-15-months-after-former-president-hosni-mubarak-was-ousted-in-a-revolution.md) _Context: 2011 Egyptian revolution, Egypt_
-
 ### Changes:
 
 1. [Other Arab Spring events:New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. ](/news/2011/02/14/other-arab-spring-events-pnew-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.md) _2017-08-25 03:32:10 (First version)_
 2. [Other Arab Spring events:: New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. ](/news/2011/02/14/other-arab-spring-events-new-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.md) _2017-08-27 03:32:19 (Update)_
 2. [New protests erupt in Egypt demanding a civilian leadership, an end to the emergency law and better pay. ](/news/2011/02/14/new-protests-erupt-in-egypt-demanding-a-civilian-leadership-an-end-to-the-emergency-law-and-better-pay.md) _(Current version)_
+
+### Related:
+
+1. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Egypt_
+2. [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs, Kampp 150 and Kampp 161, in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-kampp-150-and-ka.md) _Context: Egypt_
+3. [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md) _Context: Egypt_
+4. [Nine people are killed in two coordinated attacks targeting Coptic Christians in Egypt. Two of the victims are killed by a gunman in a Coptic-owned appliance store in the Helwan area of Cairo. The gunman then moves to a church where he kills a further six civilians and a policeman before being arrested. ](/news/2017/12/29/nine-people-are-killed-in-two-coordinated-attacks-targeting-coptic-christians-in-egypt-two-of-the-victims-are-killed-by-a-gunman-in-a-copti.md) _Context: Egypt_
+5. [Fifteen militants accused of carrying out attacks in 2013 during the Sinai Insurgency are hanged in Egypt. The last mass execution in the country took place in 2015, when six jihadists were executed. ](/news/2017/12/26/fifteen-militants-accused-of-carrying-out-attacks-in-2013-during-the-sinai-insurgency-are-hanged-in-egypt-the-last-mass-execution-in-the-co.md) _Context: Egypt_

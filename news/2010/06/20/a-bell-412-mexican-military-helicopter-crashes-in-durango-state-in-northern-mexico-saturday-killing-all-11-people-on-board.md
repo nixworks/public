@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/20/a-bell-412-mexican-military-helicopter-crashes-in-durango-state-in-northern-mexico-saturday-killing-all-11-people-on-board.html)  [JSON](/news/2010/06/20/a-bell-412-mexican-military-helicopter-crashes-in-durango-state-in-northern-mexico-saturday-killing-all-11-people-on-board.json)  [XML](/news/2010/06/20/a-bell-412-mexican-military-helicopter-crashes-in-durango-state-in-northern-mexico-saturday-killing-all-11-people-on-board.xml)  
+
 ### [2010-06-20](/news/2010/06/20/index.md)
 
+##### Bell 412 model helicopter
 # A Bell 412 Mexican military helicopter crashes in Durango state in northern Mexico Saturday, killing all 11 people on board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People](http://english.people.com.cn/90001/90777/90852/7031537.html)
 
@@ -15,4 +19,4 @@
 2. [Eight severed heads are discovered in four locations in the Mexican state of Durango. ](/news/2010/07/28/eight-severed-heads-are-discovered-in-four-locations-in-the-mexican-state-of-durango.md) _Context: Durango, Mexico_
 3. [10 children, youths and young adults between the ages of 8 and 21 are gunned down, presumably by drug traffickers, in the northern Mexican state of Durango. ](/news/2010/03/30/10-children-youths-and-young-adults-between-the-ages-of-8-and-21-are-gunned-down-presumably-by-drug-traffickers-in-the-northern-mexican-s.md) _Context: Durango, Mexico_
 4. [ A prison riot in the Mexican state of Durango leaves at least 19 people dead and 20 injured. ](/news/2009/08/15/a-prison-riot-in-the-mexican-state-of-durango-leaves-at-least-19-people-dead-and-20-injured.md) _Context: Durango, Mexico_
-5. [A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. ](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.md) _Context: Mexico_
+5. [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md) _Context: Mexico_

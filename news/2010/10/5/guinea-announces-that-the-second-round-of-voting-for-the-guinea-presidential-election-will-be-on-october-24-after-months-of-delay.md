@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/5/guinea-announces-that-the-second-round-of-voting-for-the-guinea-presidential-election-will-be-on-october-24-after-months-of-delay.html)  [JSON](/news/2010/10/5/guinea-announces-that-the-second-round-of-voting-for-the-guinea-presidential-election-will-be-on-october-24-after-months-of-delay.json)  [XML](/news/2010/10/5/guinea-announces-that-the-second-round-of-voting-for-the-guinea-presidential-election-will-be-on-october-24-after-months-of-delay.xml)  
+
 ### [2010-10-5](/news/2010/10/5/index.md)
 
+##### Guinea
 # Guinea announces that the second round of voting for the Guinea presidential election will be on October 24 after months of delay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/africa/10/05/guinea.elections/)
 

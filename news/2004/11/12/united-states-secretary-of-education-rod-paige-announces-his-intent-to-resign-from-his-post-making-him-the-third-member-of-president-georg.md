@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/11/12/united-states-secretary-of-education-rod-paige-announces-his-intent-to-resign-from-his-post-making-him-the-third-member-of-president-georg.html)  [JSON](/news/2004/11/12/united-states-secretary-of-education-rod-paige-announces-his-intent-to-resign-from-his-post-making-him-the-third-member-of-president-georg.json)  [XML](/news/2004/11/12/united-states-secretary-of-education-rod-paige-announces-his-intent-to-resign-from-his-post-making-him-the-third-member-of-president-georg.xml)  
+
 ### [2004-11-12](/news/2004/11/12/index.md)
 
+##### United States Secretary of Education
 #  United States Secretary of Education Rod Paige announces his intent to resign from his post, making him the third member of President George W. Bush's Cabinet to resign since his re-election. No time-table has been set for his actually leaving the post. White House domestic policy adviser Margaret Spellings has been suggested as his successor. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6803222)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A46017-2004Nov12.html)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=6803222)
+2. [Washington Post](https://www.washingtonpost.com/wp-dyn/articles/A46017-2004Nov12.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/22/in-india-bjp-leader-pramod-mahajan-is-shot-at-his-home-and-reported-to-be-in-critical-condition.html)  [JSON](/news/2006/04/22/in-india-bjp-leader-pramod-mahajan-is-shot-at-his-home-and-reported-to-be-in-critical-condition.json)  [XML](/news/2006/04/22/in-india-bjp-leader-pramod-mahajan-is-shot-at-his-home-and-reported-to-be-in-critical-condition.xml)  
+
 ### [2006-04-22](/news/2006/04/22/index.md)
 
+##### Bharatiya Janata Party
 #  In India, BJP leader Pramod Mahajan is shot at his home, and reported to be in critical condition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4935704.stm)
 2. [Hindustan Times](http://www.hindustantimes.com/2006/Apr/22/181_1680735,0008.htm)

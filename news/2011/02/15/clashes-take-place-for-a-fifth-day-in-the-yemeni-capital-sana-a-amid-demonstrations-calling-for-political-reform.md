@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2011/02/15/clashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.html)  [JSON](/news/2011/02/15/clashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.json)  [XML](/news/2011/02/15/clashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.xml)  
+
 ### [2011-02-15](/news/2011/02/15/index.md)
 
+##### Yemen
 # Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. 
 
 Regime loyalists and plainclothes policemen attack protesters, mainly students, in Sanaa.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011215101053354193.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/15/201121513527688738_20.jpg)
+
+### Changes:
+
+1. [2011 Yemeni protests:Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/2011-yemeni-protests-pclashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md) _2017-08-25 03:32:12 (First version)_
+2. [2011 Yemeni protests:: Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/2011-yemeni-protests-clashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md) _2017-08-27 03:32:20 (Update)_
+2. [Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/clashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ Regime loyalists and plainclothes policemen attack protesters, mainly students, 
 3. [Saudi Arabian-led air raids on the Yemeni capital Sana'a resume after a truce ends. ](/news/2016/10/23/saudi-arabian-led-air-raids-on-the-yemeni-capital-sana-a-resume-after-a-truce-ends.md) _Context: Sana'a, Yemen_
 4. [At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. ](/news/2016/08/9/at-least-14-people-are-killed-after-saudi-led-coalition-airstrikes-hit-a-food-factory-in-yemen-s-capital-sana-a-the-airstrikes-come-just-da.md) _Context: Sana'a, Yemen_
 5. [At least 30 people are killed in an airstrike on a market near the Yemeni capital Sana'a. ](/news/2016/02/27/at-least-30-people-are-killed-in-an-airstrike-on-a-market-near-the-yemeni-capital-sana-a.md) _Context: Sana'a, Yemen_
-
-### Changes:
-
-1. [2011 Yemeni protests:Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/2011-yemeni-protests-pclashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md) _2017-08-25 03:32:12 (First version)_
-2. [2011 Yemeni protests:: Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/2011-yemeni-protests-clashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md) _2017-08-27 03:32:20 (Update)_
-2. [Clashes take place for a fifth day in the Yemeni capital Sana'a, amid demonstrations calling for political reform. ](/news/2011/02/15/clashes-take-place-for-a-fifth-day-in-the-yemeni-capital-sana-a-amid-demonstrations-calling-for-political-reform.md) _(Current version)_

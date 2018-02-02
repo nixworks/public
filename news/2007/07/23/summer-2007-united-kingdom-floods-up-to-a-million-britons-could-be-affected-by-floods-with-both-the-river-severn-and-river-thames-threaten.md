@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/23/summer-2007-united-kingdom-floods-up-to-a-million-britons-could-be-affected-by-floods-with-both-the-river-severn-and-river-thames-threaten.html)  [JSON](/news/2007/07/23/summer-2007-united-kingdom-floods-up-to-a-million-britons-could-be-affected-by-floods-with-both-the-river-severn-and-river-thames-threaten.json)  [XML](/news/2007/07/23/summer-2007-united-kingdom-floods-up-to-a-million-britons-could-be-affected-by-floods-with-both-the-river-severn-and-river-thames-threaten.xml)  
+
 ### [2007-07-23](/news/2007/07/23/index.md)
 
+##### Summer 2007 United Kingdom floods
 #  Summer 2007 United Kingdom floods: Up to a million Britons could be affected by floods with both the River Severn and River Thames threatening to break their banks. Up to 350,000 people in Gloucestershire could be without running water for two weeks with some people unable to move back to their homes for a year. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
-### Source:
+### Sources:
 
 1. [UK Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/07/24/nfloods124.xml)
 

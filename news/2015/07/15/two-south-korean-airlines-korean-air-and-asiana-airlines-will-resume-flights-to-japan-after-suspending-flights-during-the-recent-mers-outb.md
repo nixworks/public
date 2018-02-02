@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/15/two-south-korean-airlines-korean-air-and-asiana-airlines-will-resume-flights-to-japan-after-suspending-flights-during-the-recent-mers-outb.html)  [JSON](/news/2015/07/15/two-south-korean-airlines-korean-air-and-asiana-airlines-will-resume-flights-to-japan-after-suspending-flights-during-the-recent-mers-outb.json)  [XML](/news/2015/07/15/two-south-korean-airlines-korean-air-and-asiana-airlines-will-resume-flights-to-japan-after-suspending-flights-during-the-recent-mers-outb.xml)  
+
 ### [2015-07-15](/news/2015/07/15/index.md)
 
+##### South Korea
 # Two South Korean airlines, Korean Air and Asiana Airlines, will resume flights to Japan after suspending flights during the recent MERS outbreak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TASS](http://tass.ru/en/world/808741)
 1. [Cover Image](http://tass.com/images/tass_logo_share_en.png)

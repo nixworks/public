@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/23/china-s-people-s-liberation-army-conducts-a-series-of-military-exercises-simulating-an-attack-on-taiwan-s-presidential-office-building.html)  [JSON](/news/2015/07/23/china-s-people-s-liberation-army-conducts-a-series-of-military-exercises-simulating-an-attack-on-taiwan-s-presidential-office-building.json)  [XML](/news/2015/07/23/china-s-people-s-liberation-army-conducts-a-series-of-military-exercises-simulating-an-attack-on-taiwan-s-presidential-office-building.xml)  
+
 ### [2015-07-23](/news/2015/07/23/index.md)
 
+##### People's Liberation Army
 # China's People's Liberation Army conducts a series of military exercises simulating an attack on Taiwan's Presidential Office Building. 
 
 This is pretty scary if you&#039;re Taiwanese.
 
 
-### Source:
+### Sources:
 
 1. [Focus Taiwan](http://focustaiwan.tw/news/aipl/201507220031.aspx)
 2. [Quartz](http://qz.com/461110/video-a-chinese-military-drill-simulates-an-attack-on-taiwans-presidential-office/)

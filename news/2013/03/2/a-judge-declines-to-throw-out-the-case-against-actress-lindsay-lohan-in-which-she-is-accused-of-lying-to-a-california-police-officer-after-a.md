@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/2/a-judge-declines-to-throw-out-the-case-against-actress-lindsay-lohan-in-which-she-is-accused-of-lying-to-a-california-police-officer-after-a.html)  [JSON](/news/2013/03/2/a-judge-declines-to-throw-out-the-case-against-actress-lindsay-lohan-in-which-she-is-accused-of-lying-to-a-california-police-officer-after-a.json)  [XML](/news/2013/03/2/a-judge-declines-to-throw-out-the-case-against-actress-lindsay-lohan-in-which-she-is-accused-of-lying-to-a-california-police-officer-after-a.xml)  
+
 ### [2013-03-2](/news/2013/03/2/index.md)
 
+##### judge
 # A judge declines to throw out the case against actress Lindsay Lohan in which she is accused of lying to a California police officer after a car accident in 2012. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Star Pulse](http://www.starpulse.com/news/index.php/2013/03/02/judge_refuses_to_dismiss_lindsay_lohan)
 
@@ -13,6 +17,6 @@
 
 1. [Actress Lindsay Lohan starts a 90-day sentence for breaking her parole for a 2007 conviction for drunk driving in California, United States. ](/news/2010/07/20/actress-lindsay-lohan-starts-a-90-day-sentence-for-breaking-her-parole-for-a-2007-conviction-for-drunk-driving-in-california-united-states.md) _Context: California, Lindsay Lohan_
 2. [ United States District Court judge Ronald Whyte strikes down a California law aiming to prohibit minors from buying or renting violent video games on First Amendment grounds. ](/news/2007/08/6/united-states-district-court-judge-ronald-whyte-strikes-down-a-california-law-aiming-to-prohibit-minors-from-buying-or-renting-violent-vide.md) _Context: California, judge_
-3. [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md) _Context: California_
-4. [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md) _Context: California_
-5. [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz; his widow was evacuated Monday. "Peanuts" featured the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-his-widow-was-evac.md) _Context: California_
+3. [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md) _Context: California_
+4. [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope for federal aid for the project. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-for-federal-aid-for-the-project.md) _Context: California_
+5. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: California_

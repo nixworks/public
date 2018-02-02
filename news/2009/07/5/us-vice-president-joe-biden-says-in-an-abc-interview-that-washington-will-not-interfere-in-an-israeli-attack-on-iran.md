@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/07/5/us-vice-president-joe-biden-says-in-an-abc-interview-that-washington-will-not-interfere-in-an-israeli-attack-on-iran.html)  [JSON](/news/2009/07/5/us-vice-president-joe-biden-says-in-an-abc-interview-that-washington-will-not-interfere-in-an-israeli-attack-on-iran.json)  [XML](/news/2009/07/5/us-vice-president-joe-biden-says-in-an-abc-interview-that-washington-will-not-interfere-in-an-israeli-attack-on-iran.xml)  
+
 ### [2009-07-5](/news/2009/07/5/index.md)
 
+##### United States of America
 #  US Vice President Joe Biden says in an ABC interview that Washington will not interfere in an Israeli attack on Iran. 
 
 US vice-president Joe Biden says Iran nuclear issue for Israel to decide how to fix.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/07/20097633411395606.html)
-2. [The New York Times](http://www.nytimes.com/2009/07/06/us/politics/06biden.html?_r=1)
+2. [The New York Times](https://www.nytimes.com/2009/07/06/us/politics/06biden.html?_r=1)
 2. [Cover Image](http://www.aljazeera.com)
 
 ### Related:

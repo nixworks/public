@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/9/pakistani-president-pervez-musharraf-admits-that-he-had-suspected-for-at-least-three-years-that-abdul-qadeer-khan-pakistan-s-top-nuclear-s.html)  [JSON](/news/2004/02/9/pakistani-president-pervez-musharraf-admits-that-he-had-suspected-for-at-least-three-years-that-abdul-qadeer-khan-pakistan-s-top-nuclear-s.json)  [XML](/news/2004/02/9/pakistani-president-pervez-musharraf-admits-that-he-had-suspected-for-at-least-three-years-that-abdul-qadeer-khan-pakistan-s-top-nuclear-s.xml)  
+
 ### [2004-02-9](/news/2004/02/9/index.md)
 
+##### Pervez Musharraf
 #  Pakistani President Pervez Musharraf admits that he had suspected for at least three years that Abdul Qadeer Khan, Pakistan's top nuclear scientist, was sharing nuclear technology with other countries, blaming the United States for not giving him convincing proof of the activities of his own scientist.
 
 

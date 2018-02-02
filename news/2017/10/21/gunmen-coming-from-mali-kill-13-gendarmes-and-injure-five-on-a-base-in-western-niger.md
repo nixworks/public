@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/21/gunmen-coming-from-mali-kill-13-gendarmes-and-i
 
 ### [2017-10-21](/news/2017/10/21/index.md)
 
+##### Insurgency in the Sahel
 # Gunmen coming from Mali kill 13 gendarmes and injure five on a base in western Niger. 
 
 Gunmen on pick-up trucks and motorcycles coming from Mali killed 13 gendarmes and wounded five more in an attack on their base in western Niger, security sources said on Saturday.

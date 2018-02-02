@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/3/west-point-graduate-billionaire-businessman-and-
 
 ### [2017-02-3](/news/2017/02/3/index.md)
 
+##### Political appointments of Donald Trump
 # West Point graduate, billionaire businessman, and philanthropist Vincent Viola withdraws his name from consideration as Secretary of the Army because of Defense Department rules concerning his family businesses. 
 
 Vincent Viola, owner of the NHL&#039;s Florida Panthers, faced problems divesting his business holdings to take over the role. 

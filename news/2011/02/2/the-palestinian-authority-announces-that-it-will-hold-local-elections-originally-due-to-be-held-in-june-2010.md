@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/2/the-palestinian-authority-announces-that-it-will-hold-local-elections-originally-due-to-be-held-in-june-2010.html)  [JSON](/news/2011/02/2/the-palestinian-authority-announces-that-it-will-hold-local-elections-originally-due-to-be-held-in-june-2010.json)  [XML](/news/2011/02/2/the-palestinian-authority-announces-that-it-will-hold-local-elections-originally-due-to-be-held-in-june-2010.xml)  
+
 ### [2011-02-2](/news/2011/02/2/index.md)
 
+##### Palestinian Authority
 # The Palestinian Authority announces that it will hold local elections originally due to be held in June 2010. 
 
 Delayed from June, vote would be in West Bank only; decision comes after PA expresses alarm at Tunisia, Egypt popular uprisings.
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=206300&R=R3)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=150926)

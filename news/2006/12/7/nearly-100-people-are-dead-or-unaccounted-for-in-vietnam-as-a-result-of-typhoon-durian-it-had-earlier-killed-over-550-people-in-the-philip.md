@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/7/nearly-100-people-are-dead-or-unaccounted-for-in-vietnam-as-a-result-of-typhoon-durian-it-had-earlier-killed-over-550-people-in-the-philip.html)  [JSON](/news/2006/12/7/nearly-100-people-are-dead-or-unaccounted-for-in-vietnam-as-a-result-of-typhoon-durian-it-had-earlier-killed-over-550-people-in-the-philip.json)  [XML](/news/2006/12/7/nearly-100-people-are-dead-or-unaccounted-for-in-vietnam-as-a-result-of-typhoon-durian-it-had-earlier-killed-over-550-people-in-the-philip.xml)  
+
 ### [2006-12-7](/news/2006/12/7/index.md)
 
+##### Vietnam
 #  Nearly 100 people are dead or unaccounted for in Vietnam as a result of Typhoon Durian. It had earlier killed over 550 people in the Philippines and left a similar number missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-12-07T105717Z_01_NOOTR_RTRJONC_0_India-279355-1.xml&archived=False)
 

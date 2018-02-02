@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/6/charcoal-shipments-continue-in-the-somali-port-of-kismayo-under-the-watch-of-african-union-peacekeepers-despite-a-national-and-internationa.html)  [JSON](/news/2012/11/6/charcoal-shipments-continue-in-the-somali-port-of-kismayo-under-the-watch-of-african-union-peacekeepers-despite-a-national-and-internationa.json)  [XML](/news/2012/11/6/charcoal-shipments-continue-in-the-somali-port-of-kismayo-under-the-watch-of-african-union-peacekeepers-despite-a-national-and-internationa.xml)  
+
 ### [2012-11-6](/news/2012/11/6/index.md)
 
+##### Charcoal
 # Charcoal shipments continue in the Somali port of Kismayo under the watch of African Union peacekeepers, despite a national and international ban on such shipments. 
 
 Vessels depart from Kismayo port under watch of Kenyan peacekeepers serving under AMISOM, despite UN ban on the exports.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/11/201211662514769781.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/images/2012/9/24//2012924165539321734_20.jpg)

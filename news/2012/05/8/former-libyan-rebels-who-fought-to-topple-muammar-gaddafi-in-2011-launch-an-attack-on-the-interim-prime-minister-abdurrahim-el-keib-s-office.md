@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/8/former-libyan-rebels-who-fought-to-topple-muammar-gaddafi-in-2011-launch-an-attack-on-the-interim-prime-minister-abdurrahim-el-keib-s-office.html)  [JSON](/news/2012/05/8/former-libyan-rebels-who-fought-to-topple-muammar-gaddafi-in-2011-launch-an-attack-on-the-interim-prime-minister-abdurrahim-el-keib-s-office.json)  [XML](/news/2012/05/8/former-libyan-rebels-who-fought-to-topple-muammar-gaddafi-in-2011-launch-an-attack-on-the-interim-prime-minister-abdurrahim-el-keib-s-office.xml)  
+
 ### [2012-05-8](/news/2012/05/8/index.md)
 
+##### Muammar Gaddafi
 # Former Libyan rebels who fought to topple Muammar Gaddafi in 2011 launch an attack on the interim Prime Minister Abdurrahim El-Keib's office in Tripoli, Libya. 
 
 The office of Libyan PM Abdurrahim al-Keib is attacked by ex-rebels demanding compensation promised by the government, leaving at least one guard dead.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17995427)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60095000/jpg/_60095354_014598019-1.jpg)

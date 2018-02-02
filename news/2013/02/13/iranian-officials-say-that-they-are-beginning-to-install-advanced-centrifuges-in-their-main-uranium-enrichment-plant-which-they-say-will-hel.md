@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/13/iranian-officials-say-that-they-are-beginning-to-install-advanced-centrifuges-in-their-main-uranium-enrichment-plant-which-they-say-will-hel.html)  [JSON](/news/2013/02/13/iranian-officials-say-that-they-are-beginning-to-install-advanced-centrifuges-in-their-main-uranium-enrichment-plant-which-they-say-will-hel.json)  [XML](/news/2013/02/13/iranian-officials-say-that-they-are-beginning-to-install-advanced-centrifuges-in-their-main-uranium-enrichment-plant-which-they-say-will-hel.xml)  
+
 ### [2013-02-13](/news/2013/02/13/index.md)
 
+##### Iran
 # Iranian officials say that they are beginning to install advanced centrifuges in their main uranium enrichment plant which they say will help create better fuel. 
 
 Iran said Wednesday that it has begun installing a new generation of centrifuges at its main uranium enrichment facility, a move that will allow it to vastly increase its pace of uranium enrichment in defiance of U.N. calls to halt such activities.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2013/02/13/iran-says-its-installing-advanced-centrifuges-at-nuclear-sites/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/02/13/iran-says-its-installing-advanced-centrifuges-at-nuclear-sites/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422496176568.jpg?ve=1)

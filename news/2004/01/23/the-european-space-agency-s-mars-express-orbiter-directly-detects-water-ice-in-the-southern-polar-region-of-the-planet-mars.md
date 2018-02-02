@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/23/the-european-space-agency-s-mars-express-orbiter-directly-detects-water-ice-in-the-southern-polar-region-of-the-planet-mars.html)  [JSON](/news/2004/01/23/the-european-space-agency-s-mars-express-orbiter-directly-detects-water-ice-in-the-southern-polar-region-of-the-planet-mars.json)  [XML](/news/2004/01/23/the-european-space-agency-s-mars-express-orbiter-directly-detects-water-ice-in-the-southern-polar-region-of-the-planet-mars.xml)  
+
 ### [2004-01-23](/news/2004/01/23/index.md)
 
+##### European Space Agency
 #  The European Space Agency's Mars Express orbiter directly detects water ice in the southern polar region of the planet Mars.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/21/2007-ogaden-conflict-a-rebel-group-in-eastern-ethiopia-the-ogaden-national-liberation-front-says-it-has-carried-out-an-attack-on-governm.html)  [JSON](/news/2007/10/21/2007-ogaden-conflict-a-rebel-group-in-eastern-ethiopia-the-ogaden-national-liberation-front-says-it-has-carried-out-an-attack-on-governm.json)  [XML](/news/2007/10/21/2007-ogaden-conflict-a-rebel-group-in-eastern-ethiopia-the-ogaden-national-liberation-front-says-it-has-carried-out-an-attack-on-governm.xml)  
+
 ### [2007-10-21](/news/2007/10/21/index.md)
 
+##### 2007 Ogaden conflict
 #  2007 Ogaden conflict: A rebel group in eastern Ethiopia, the Ogaden National Liberation Front, says it has carried out an attack on government troops, killing 140 troops. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7055081.stm)
 

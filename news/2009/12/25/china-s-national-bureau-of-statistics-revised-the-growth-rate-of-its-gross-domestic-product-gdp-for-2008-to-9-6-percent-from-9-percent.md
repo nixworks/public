@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/25/china-s-national-bureau-of-statistics-revised-the-growth-rate-of-its-gross-domestic-product-gdp-for-2008-to-9-6-percent-from-9-percent.html)  [JSON](/news/2009/12/25/china-s-national-bureau-of-statistics-revised-the-growth-rate-of-its-gross-domestic-product-gdp-for-2008-to-9-6-percent-from-9-percent.json)  [XML](/news/2009/12/25/china-s-national-bureau-of-statistics-revised-the-growth-rate-of-its-gross-domestic-product-gdp-for-2008-to-9-6-percent-from-9-percent.xml)  
+
 ### [2009-12-25](/news/2009/12/25/index.md)
 
+##### China
 #  China's National Bureau of Statistics revised the growth rate of its gross domestic product (GDP) for 2008 to 9.6 percent from 9 percent. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-12/25/content_12703345.htm)
 

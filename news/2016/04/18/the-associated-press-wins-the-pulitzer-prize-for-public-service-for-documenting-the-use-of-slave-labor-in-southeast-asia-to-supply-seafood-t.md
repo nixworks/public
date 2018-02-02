@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/18/the-associated-press-wins-the-pulitzer-prize-fo
 
 ### [2016-04-18](/news/2016/04/18/index.md)
 
+##### Associated Press
 # The Associated Press wins the Pulitzer Prize for Public Service for documenting the use of slave labor in Southeast Asia to supply seafood to American tables. 
 
 Passionately smashing every expectation.

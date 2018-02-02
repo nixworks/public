@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/7/muslim-cleric-abu-hamza-al-masri-is-convicted-on-11-of-15-charges-of-solicitation-and-incitement-to-murder-and-incitement-to-racial-hatred.html)  [JSON](/news/2006/02/7/muslim-cleric-abu-hamza-al-masri-is-convicted-on-11-of-15-charges-of-solicitation-and-incitement-to-murder-and-incitement-to-racial-hatred.json)  [XML](/news/2006/02/7/muslim-cleric-abu-hamza-al-masri-is-convicted-on-11-of-15-charges-of-solicitation-and-incitement-to-murder-and-incitement-to-racial-hatred.xml)  
+
 ### [2006-02-7](/news/2006/02/7/index.md)
 
+##### Abu Hamza al-Masri
 #  Muslim cleric Abu Hamza al-Masri is convicted on 11 of 15 charges of solicitation and incitement to murder, and incitement to racial hatred after a lengthy trial at London's Central Criminal Court and is sentenced to seven years' imprisonment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/4689556.stm)
 

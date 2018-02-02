@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/11/the-elbphilharmonie-concert-hall-in-hamburg-ger
 
 ### [2017-01-11](/news/2017/01/11/index.md)
 
+##### Elbphilharmonie
 #  The Elbphilharmonie concert hall in Hamburg, Germany is officially inaugurated with light shows and concerts of the Elbphilharmonie Orchestra. 
 
 

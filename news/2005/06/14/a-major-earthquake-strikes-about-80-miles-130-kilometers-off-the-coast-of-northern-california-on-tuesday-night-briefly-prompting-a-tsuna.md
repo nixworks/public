@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/06/14/a-major-earthquake-strikes-about-80-miles-130-kilometers-off-the-coast-of-northern-california-on-tuesday-night-briefly-prompting-a-tsuna.html)  [JSON](/news/2005/06/14/a-major-earthquake-strikes-about-80-miles-130-kilometers-off-the-coast-of-northern-california-on-tuesday-night-briefly-prompting-a-tsuna.json)  [XML](/news/2005/06/14/a-major-earthquake-strikes-about-80-miles-130-kilometers-off-the-coast-of-northern-california-on-tuesday-night-briefly-prompting-a-tsuna.xml)  
+
 ### [2005-06-14](/news/2005/06/14/index.md)
 
+##### earthquake
 #  A major earthquake strikes about 80 miles (130 kilometers) off the coast of northern California on Tuesday night, briefly prompting a tsunami warning along the Pacific coast but with no immediate reports of damages or injuries. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://www.usatoday.com/news/nation/2005-06-14-california-quake_x.htm?csp=24&RM_Exclude=Juno)
+1. [AP](https://www.usatoday.com/news/nation/2005-06-14-california-quake_x.htm?csp=24&RM_Exclude=Juno)
 
 ### Related:
 

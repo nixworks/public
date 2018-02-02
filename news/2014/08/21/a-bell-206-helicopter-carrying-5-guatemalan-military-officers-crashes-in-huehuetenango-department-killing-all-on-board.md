@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/21/a-bell-206-helicopter-carrying-5-guatemalan-military-officers-crashes-in-huehuetenango-department-killing-all-on-board.html)  [JSON](/news/2014/08/21/a-bell-206-helicopter-carrying-5-guatemalan-military-officers-crashes-in-huehuetenango-department-killing-all-on-board.json)  [XML](/news/2014/08/21/a-bell-206-helicopter-carrying-5-guatemalan-military-officers-crashes-in-huehuetenango-department-killing-all-on-board.xml)  
+
 ### [2014-08-21](/news/2014/08/21/index.md)
 
+##### Bell 206
 # A Bell 206 helicopter carrying 5 Guatemalan Military officers crashes in Huehuetenango department, killing all on board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2014/08/20/guatemala-general-idINL2N0QQ2Z720140820)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

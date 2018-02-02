@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/30/former-russian-oligarch-mikhail-khodorkovsky-has-his-prison-sentence-extended-to-a-total-of-14-years-after-a-second-conviction.html)  [JSON](/news/2010/12/30/former-russian-oligarch-mikhail-khodorkovsky-has-his-prison-sentence-extended-to-a-total-of-14-years-after-a-second-conviction.json)  [XML](/news/2010/12/30/former-russian-oligarch-mikhail-khodorkovsky-has-his-prison-sentence-extended-to-a-total-of-14-years-after-a-second-conviction.xml)  
+
 ### [2010-12-30](/news/2010/12/30/index.md)
 
+##### Russia
 # Former Russian oligarch Mikhail Khodorkovsky has his prison sentence extended to a total of 14 years after a second conviction. 
 
 Former Russian oil tycoon receives six more years in prison after money laundering and embezzlement conviction.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/2010123012597475433.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/30/20101230135047965784_20.jpg)

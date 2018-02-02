@@ -1,13 +1,15 @@
+
+Formats: [HTML](2007/02/8/index.html)  [JSON](2007/02/8/index.json)  [XML](2007/02/8/index.xml)  
+
 ## [2007-02-8](/news/2007/02/8/index.md)
 
+##### British
 ### [ British police arrest Abu Izzadeen, the spokesman for al Ghurabaa, an organization the British government has designated as terrorist, on charges of inciting terrorism. ](/news/2007/02/8/british-police-arrest-abu-izzadeen-the-spokesman-for-al-ghurabaa-an-organization-the-british-government-has-designated-as-terrorist-on-c.md)
-_Context: Abu Izzadeen, His Majesty's Government, United Kingdom, al Ghurabaa_
+_Context: British, al Ghurabaa, Abu Izzadeen, His Majesty's Government_
 
+##### Islamic Movement of Uzbekistan
 ### [ Seven alleged members of the Islamic Movement of Uzbekistan, an organization affiliated with Al-Qaeda, are on trial in Tajikistan. ](/news/2007/02/8/seven-alleged-members-of-the-islamic-movement-of-uzbekistan-an-organization-affiliated-with-al-qaeda-are-on-trial-in-tajikistan.md)
-_Context: Islamic Movement of Uzbekistan, Tajikistan, al-Qaeda_
-
-### [ Media celebrity Anna Nicole Smith dies at the age of 39 At Hard Rock Hotel and Casino.](/news/2007/02/8/media-celebrity-anna-nicole-smith-dies-at-the-age-of-39-at-hard-rock-hotel-and-casino.md)
-_Context: Anna Nicole Smith_
+_Context: al-Qaeda, Islamic Movement of Uzbekistan, Tajikistan_
 
 ## [Previous Day...](/news/2007/02/7/index.md)
 

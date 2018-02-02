@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/30/israeli-forces-arrest-hamas-mp-khalil-ar-rabai-after-surrounding-his-home-in-the-early-morning-in-the-southern-west-bank-town-of-yatta-the.html)  [JSON](/news/2010/12/30/israeli-forces-arrest-hamas-mp-khalil-ar-rabai-after-surrounding-his-home-in-the-early-morning-in-the-southern-west-bank-town-of-yatta-the.json)  [XML](/news/2010/12/30/israeli-forces-arrest-hamas-mp-khalil-ar-rabai-after-surrounding-his-home-in-the-early-morning-in-the-southern-west-bank-town-of-yatta-the.xml)  
+
 ### [2010-12-30](/news/2010/12/30/index.md)
 
+##### Israel
 # Israeli forces arrest Hamas MP Khalil Ar-Rabai after surrounding his home in the early morning in the southern West Bank town of Yatta. The destruction of family property is also reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5giK5BukgYmqg7MktsezdzhQbQaKA?docId=CNG.a69773e48a0970301352054d0054365c.8d1)
 2. [Ma'an](http://www.maannews.net/eng/ViewDetails.aspx?ID=346669)

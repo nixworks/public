@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/14/australia-arrests-the-captain-and-chief-officer-of-a-chinese-ship-that-ran-aground-on-the-great-barrier-reef-damaging-three-kilometres-of-c.html)  [JSON](/news/2010/04/14/australia-arrests-the-captain-and-chief-officer-of-a-chinese-ship-that-ran-aground-on-the-great-barrier-reef-damaging-three-kilometres-of-c.json)  [XML](/news/2010/04/14/australia-arrests-the-captain-and-chief-officer-of-a-chinese-ship-that-ran-aground-on-the-great-barrier-reef-damaging-three-kilometres-of-c.xml)  
+
 ### [2010-04-14](/news/2010/04/14/index.md)
 
+##### Australia
 # Australia arrests the captain and chief officer of a Chinese ship that ran aground on the Great Barrier Reef, damaging three kilometres of coral reef and leaking tonnes of oil. 
 
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8619343.stm)
 2. [Economic Times](http://economictimes.indiatimes.com/news/news-by-industry/et-cetera/Chinese-crew-charged-over-ship-which-hit-Great-Barrier-Reef/articleshow/5801962.cms)

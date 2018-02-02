@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/23/2013-ricin-letters-all-charges-against-a-suspect-of-sending-letters-containing-ricin-to-us-president-barack-obama-are-dropped-due-to-lack-o.html)  [JSON](/news/2013/04/23/2013-ricin-letters-all-charges-against-a-suspect-of-sending-letters-containing-ricin-to-us-president-barack-obama-are-dropped-due-to-lack-o.json)  [XML](/news/2013/04/23/2013-ricin-letters-all-charges-against-a-suspect-of-sending-letters-containing-ricin-to-us-president-barack-obama-are-dropped-due-to-lack-o.xml)  
+
 ### [2013-04-23](/news/2013/04/23/index.md)
 
+##### 2013 ricin letters
 # 2013 ricin letters: All charges against a suspect of sending letters containing ricin to US President Barack Obama are dropped due to lack of evidence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/04/23/us/ricin-suspect-released)
 

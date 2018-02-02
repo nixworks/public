@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/11/in-west-virginia-police-officers-executing-a-ba
 
 ### [2016-12-11](/news/2016/12/11/index.md)
 
+##### 
 #  In West Virginia police officers executing a bailpiece shot and killed a man who "operated a motor vehicle in an aggressive manner" towards officers at a Walmart parking lot. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

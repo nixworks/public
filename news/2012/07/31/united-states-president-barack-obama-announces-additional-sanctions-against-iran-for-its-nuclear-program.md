@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/31/united-states-president-barack-obama-announces-additional-sanctions-against-iran-for-its-nuclear-program.html)  [JSON](/news/2012/07/31/united-states-president-barack-obama-announces-additional-sanctions-against-iran-for-its-nuclear-program.json)  [XML](/news/2012/07/31/united-states-president-barack-obama-announces-additional-sanctions-against-iran-for-its-nuclear-program.xml)  
+
 ### [2012-07-31](/news/2012/07/31/index.md)
 
+##### Barack Obama
 # United States President Barack Obama announces additional sanctions against Iran for its nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://news.blogs.cnn.com/2012/07/31/white-house-announces-additional-sanctions-against-iran/?hpt=hp_t3)
 

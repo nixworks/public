@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/23/the-continuing-influence-of-english-dramatist-w
 
 ### [2016-04-23](/news/2016/04/23/index.md)
 
+##### William Shakespeare
 # The continuing influence of English dramatist William Shakespeare is celebrated on the 400th anniversary of his death in Stratford-upon-Avon. 
 
 

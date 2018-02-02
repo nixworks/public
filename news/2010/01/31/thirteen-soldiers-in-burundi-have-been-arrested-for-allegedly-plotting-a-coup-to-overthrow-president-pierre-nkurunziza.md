@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/31/thirteen-soldiers-in-burundi-have-been-arrested-for-allegedly-plotting-a-coup-to-overthrow-president-pierre-nkurunziza.html)  [JSON](/news/2010/01/31/thirteen-soldiers-in-burundi-have-been-arrested-for-allegedly-plotting-a-coup-to-overthrow-president-pierre-nkurunziza.json)  [XML](/news/2010/01/31/thirteen-soldiers-in-burundi-have-been-arrested-for-allegedly-plotting-a-coup-to-overthrow-president-pierre-nkurunziza.xml)  
+
 ### [2010-01-31](/news/2010/01/31/index.md)
 
+##### Burundi
 # Thirteen soldiers in Burundi have been arrested for allegedly plotting a coup to overthrow President Pierre Nkurunziza. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/burundi-army-arrests-officer,-others-for-alleged-coup-plot-2010013143230.html)
 2. [BBC News](http://news.bbc.co.uk/2/hi/africa/8488598.stm)

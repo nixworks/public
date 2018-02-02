@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/21/the-wreckage-of-the-hmas-ae1-the-first-submarin
 
 ### [2017-12-21](/news/2017/12/21/index.md)
 
+##### HMAS ''AE1''
 # The wreckage of the HMAS "AE1", the first submarine to serve in the Royal Australian Navy, is found near the Duke of York Islands after a 103-year search. 
 
 

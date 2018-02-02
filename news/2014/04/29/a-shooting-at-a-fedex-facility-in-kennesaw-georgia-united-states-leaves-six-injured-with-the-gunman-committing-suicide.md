@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/29/a-shooting-at-a-fedex-facility-in-kennesaw-georgia-united-states-leaves-six-injured-with-the-gunman-committing-suicide.html)  [JSON](/news/2014/04/29/a-shooting-at-a-fedex-facility-in-kennesaw-georgia-united-states-leaves-six-injured-with-the-gunman-committing-suicide.json)  [XML](/news/2014/04/29/a-shooting-at-a-fedex-facility-in-kennesaw-georgia-united-states-leaves-six-injured-with-the-gunman-committing-suicide.xml)  
+
 ### [2014-04-29](/news/2014/04/29/index.md)
 
+##### FedEx
 # A shooting at a FedEx facility in Kennesaw, Georgia, United States, leaves six injured with the gunman committing suicide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/04/29/justice/georgia-fedex/index.html?hpt=hp_t2)
 

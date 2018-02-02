@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/11/13/symbionese-liberation-army-member-kathleen-soliah-sara-jane-olsen-withdraws-her-previous-guilty-plea.html)  [JSON](/news/2001/11/13/symbionese-liberation-army-member-kathleen-soliah-sara-jane-olsen-withdraws-her-previous-guilty-plea.json)  [XML](/news/2001/11/13/symbionese-liberation-army-member-kathleen-soliah-sara-jane-olsen-withdraws-her-previous-guilty-plea.xml)  
+
 ### [2001-11-13](/news/2001/11/13/index.md)
 
+##### Symbionese Liberation Army
 #  Symbionese Liberation Army member Kathleen Soliah (Sara Jane Olsen) withdraws her previous guilty plea.
 
 

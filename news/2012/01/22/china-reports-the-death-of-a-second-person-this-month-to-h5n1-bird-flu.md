@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/22/china-reports-the-death-of-a-second-person-this-month-to-h5n1-bird-flu.html)  [JSON](/news/2012/01/22/china-reports-the-death-of-a-second-person-this-month-to-h5n1-bird-flu.json)  [XML](/news/2012/01/22/china-reports-the-death-of-a-second-person-this-month-to-h5n1-bird-flu.xml)  
+
 ### [2012-01-22](/news/2012/01/22/index.md)
 
+##### China
 # China reports the death of a second person this month to H5N1 bird flu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gvaIOZVDWRJodhH8OwfBOGTkiX4A?docId=CNG.f4b3121d53c9061ef3bd59387255abe5.111)
 

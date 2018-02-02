@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/01/7/parents-in-china-demand-compensation-after-more-than-200-children-are-poisoned-by-lead.html)  [JSON](/news/2011/01/7/parents-in-china-demand-compensation-after-more-than-200-children-are-poisoned-by-lead.json)  [XML](/news/2011/01/7/parents-in-china-demand-compensation-after-more-than-200-children-are-poisoned-by-lead.xml)  
+
 ### [2011-01-7](/news/2011/01/7/index.md)
 
+##### China
 # Parents in China demand compensation after more than 200 children are poisoned by lead. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE7061F520110107)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSTRE7061F520110107)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

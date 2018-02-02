@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/1/2007-tabasco-flood-massive-flooding-hits-the-mexican-state-of-tabasco-with-governor-andra-c-s-granier-estimating-that-80-of-its-25-000-kma.html)  [JSON](/news/2007/11/1/2007-tabasco-flood-massive-flooding-hits-the-mexican-state-of-tabasco-with-governor-andra-c-s-granier-estimating-that-80-of-its-25-000-kma.json)  [XML](/news/2007/11/1/2007-tabasco-flood-massive-flooding-hits-the-mexican-state-of-tabasco-with-governor-andra-c-s-granier-estimating-that-80-of-its-25-000-kma.xml)  
+
 ### [2007-11-1](/news/2007/11/1/index.md)
 
+##### 2007 Tabasco flood
 #  2007 Tabasco flood: Massive flooding hits the Mexican state of Tabasco, with Governor Andres Granier estimating that 80% of its 25,000 km2 surface area is underwater. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7072554.stm)
 2. [El Universal](http://www.eluniversal.com.mx/primera/29850.html)

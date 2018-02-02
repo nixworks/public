@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/01/12/the-bizarre-behaviour-of-a-nocturnal-raspy-cricket-pollinating-a-flower-is-caught-on-camera-on-the-island-of-ra-c-union-contradicting-the-i.html)  [JSON](/news/2010/01/12/the-bizarre-behaviour-of-a-nocturnal-raspy-cricket-pollinating-a-flower-is-caught-on-camera-on-the-island-of-ra-c-union-contradicting-the-i.json)  [XML](/news/2010/01/12/the-bizarre-behaviour-of-a-nocturnal-raspy-cricket-pollinating-a-flower-is-caught-on-camera-on-the-island-of-ra-c-union-contradicting-the-i.xml)  
+
 ### [2010-01-12](/news/2010/01/12/index.md)
 
+##### cricket
 # The "bizarre behaviour" of a nocturnal raspy cricket pollinating a flower is caught on camera on the island of Reunion, contradicting the image of crickets destroying flowers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8391540.stm)
-2. [New Scientist](http://www.newscientist.com/article/dn18375-first-pollinating-cricket-caught-on-camera.html)
+2. [New Scientist](https://www.newscientist.com/article/dn18375-first-pollinating-cricket-caught-on-camera.html)
 
 ### Related:
 

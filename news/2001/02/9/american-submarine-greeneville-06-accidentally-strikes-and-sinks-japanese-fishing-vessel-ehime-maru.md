@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/02/9/american-submarine-greeneville-06-accidentally-strikes-and-sinks-japanese-fishing-vessel-ehime-maru.html)  [JSON](/news/2001/02/9/american-submarine-greeneville-06-accidentally-strikes-and-sinks-japanese-fishing-vessel-ehime-maru.json)  [XML](/news/2001/02/9/american-submarine-greeneville-06-accidentally-strikes-and-sinks-japanese-fishing-vessel-ehime-maru.xml)  
+
 ### [2001-02-9](/news/2001/02/9/index.md)
 
+##### 
 #  American submarine Greeneville 06 accidentally strikes and sinks Japanese fishing vessel "Ehime-Maru".
 
 

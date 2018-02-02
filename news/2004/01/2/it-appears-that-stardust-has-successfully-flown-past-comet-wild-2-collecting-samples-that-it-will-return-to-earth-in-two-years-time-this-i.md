@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/01/2/it-appears-that-stardust-has-successfully-flown-past-comet-wild-2-collecting-samples-that-it-will-return-to-earth-in-two-years-time-this-i.html)  [JSON](/news/2004/01/2/it-appears-that-stardust-has-successfully-flown-past-comet-wild-2-collecting-samples-that-it-will-return-to-earth-in-two-years-time-this-i.json)  [XML](/news/2004/01/2/it-appears-that-stardust-has-successfully-flown-past-comet-wild-2-collecting-samples-that-it-will-return-to-earth-in-two-years-time-this-i.xml)  
+
 ### [2004-01-2](/news/2004/01/2/index.md)
 
+##### Stardust spacecraft
 #  It appears that Stardust has successfully flown past Comet Wild 2 collecting samples that it will return to Earth in two years time. This is the first sample return mission to a comet and the first time that samples have returned to Earth from any celestial body since 1974. The spacecraft also took detailed images of the comet's icy nucleus. 
 
 After a seven-year wait, scientists have finally been able to analyze the cometary and stellar dust particles captured by the NASA Stardust spacecraft.
 
 
-### Source:
+### Sources:
 
 1. [Space Flight Now](http://spaceflightnow.com/stardust/040102image.html)
 2. [Space.com](http://www.space.com/scienceastronomy/stardust_update_040102.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/16/german-prosecutors-ask-the-bundestag-to-lift-the-immunity-from-prosecution-of-president-christian-wulff-over-corruption-claims.html)  [JSON](/news/2012/02/16/german-prosecutors-ask-the-bundestag-to-lift-the-immunity-from-prosecution-of-president-christian-wulff-over-corruption-claims.json)  [XML](/news/2012/02/16/german-prosecutors-ask-the-bundestag-to-lift-the-immunity-from-prosecution-of-president-christian-wulff-over-corruption-claims.xml)  
+
 ### [2012-02-16](/news/2012/02/16/index.md)
 
+##### German
 # German prosecutors ask the Bundestag to lift the immunity from prosecution of President Christian Wulff over corruption claims. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2017522799_apeugermanypresidentunderpressure.html)
 

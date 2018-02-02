@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/21/north-korea-threatens-to-attack-american-military-bases-in-japan-in-response-to-the-use-of-nuclear-capable-b-52-bombers-in-joint-military-dr.html)  [JSON](/news/2013/03/21/north-korea-threatens-to-attack-american-military-bases-in-japan-in-response-to-the-use-of-nuclear-capable-b-52-bombers-in-joint-military-dr.json)  [XML](/news/2013/03/21/north-korea-threatens-to-attack-american-military-bases-in-japan-in-response-to-the-use-of-nuclear-capable-b-52-bombers-in-joint-military-dr.xml)  
+
 ### [2013-03-21](/news/2013/03/21/index.md)
 
+##### North Korea
 # North Korea threatens to attack American military bases in Japan in response to the use of nuclear-capable B-52 bombers in joint military drills with South Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2013/03/201332133659341275.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/3/21/201332134833934734_20.jpg)

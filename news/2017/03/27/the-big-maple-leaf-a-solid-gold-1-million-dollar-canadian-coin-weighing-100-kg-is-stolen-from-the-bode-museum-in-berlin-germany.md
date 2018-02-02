@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/27/the-big-maple-leaf-a-solid-gold-1-million-dolla
 
 ### [2017-03-27](/news/2017/03/27/index.md)
 
+##### Big Maple Leaf
 # The Big Maple Leaf, a solid gold 1 million dollar Canadian coin weighing 100 kg, is stolen from the Bode Museum in Berlin, Germany.
 
 

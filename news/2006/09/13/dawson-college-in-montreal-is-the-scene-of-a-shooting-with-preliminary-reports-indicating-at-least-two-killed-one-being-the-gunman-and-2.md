@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/13/dawson-college-in-montreal-is-the-scene-of-a-shooting-with-preliminary-reports-indicating-at-least-two-killed-one-being-the-gunman-and-2.html)  [JSON](/news/2006/09/13/dawson-college-in-montreal-is-the-scene-of-a-shooting-with-preliminary-reports-indicating-at-least-two-killed-one-being-the-gunman-and-2.json)  [XML](/news/2006/09/13/dawson-college-in-montreal-is-the-scene-of-a-shooting-with-preliminary-reports-indicating-at-least-two-killed-one-being-the-gunman-and-2.xml)  
+
 ### [2006-09-13](/news/2006/09/13/index.md)
 
+##### Dawson College
 #  Dawson College in Montreal is the scene of a shooting, with preliminary reports indicating at least two killed (one being the gunman) and 20 injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2006/09/13/shots-dawson.html)
 

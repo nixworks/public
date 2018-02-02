@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/23/japanese-investment-bank-nomura-holdings-acquires-the-european-asian-and-middle-eastern-equities-and-investment-banking-operations-of-lehm.html)  [JSON](/news/2008/09/23/japanese-investment-bank-nomura-holdings-acquires-the-european-asian-and-middle-eastern-equities-and-investment-banking-operations-of-lehm.json)  [XML](/news/2008/09/23/japanese-investment-bank-nomura-holdings-acquires-the-european-asian-and-middle-eastern-equities-and-investment-banking-operations-of-lehm.xml)  
+
 ### [2008-09-23](/news/2008/09/23/index.md)
 
+##### Japan
 #  Japanese investment bank Nomura Holdings acquires the European, Asian and Middle Eastern equities and investment banking operations of Lehman Brothers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/nomura-acquires-european-operations-lehman/story.aspx?guid=%7B3F8882D9%2DD10C%2D4406%2D8979%2D701FA1BB8BD6%7D&dist=hplatest)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/14/the-sri-lankan-cabinet-meets-in-kilinochchi-the-former-capital-of-the-tamil-tigers-in-the-far-north-of-the-island.html)  [JSON](/news/2010/07/14/the-sri-lankan-cabinet-meets-in-kilinochchi-the-former-capital-of-the-tamil-tigers-in-the-far-north-of-the-island.json)  [XML](/news/2010/07/14/the-sri-lankan-cabinet-meets-in-kilinochchi-the-former-capital-of-the-tamil-tigers-in-the-far-north-of-the-island.xml)  
+
 ### [2010-07-14](/news/2010/07/14/index.md)
 
+##### Sri Lanka
 # The Sri Lankan cabinet meets in Kilinochchi, the former capital of the Tamil Tigers in the far north of the island. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south+asia-10630548)
 

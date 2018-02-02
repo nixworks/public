@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/23/in-the-pakistani-city-of-quetta-armed-people-on-motorcycles-kill-eight-people-targeting-shias.html)  [JSON](/news/2012/06/23/in-the-pakistani-city-of-quetta-armed-people-on-motorcycles-kill-eight-people-targeting-shias.json)  [XML](/news/2012/06/23/in-the-pakistani-city-of-quetta-armed-people-on-motorcycles-kill-eight-people-targeting-shias.xml)  
+
 ### [2012-06-23](/news/2012/06/23/index.md)
 
+##### Pakistan
 # In the Pakistani city of Quetta, armed people on motorcycles kill eight people; targeting Shias. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/04/201241481659932789.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/14/201241483214555734_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/1/afghan-presidential-candidate-abdullah-abdullah-pulls-out-of-the-run-off-election-versus-hamid-karzai-due-to-concerns-over-the-independence.html)  [JSON](/news/2009/11/1/afghan-presidential-candidate-abdullah-abdullah-pulls-out-of-the-run-off-election-versus-hamid-karzai-due-to-concerns-over-the-independence.json)  [XML](/news/2009/11/1/afghan-presidential-candidate-abdullah-abdullah-pulls-out-of-the-run-off-election-versus-hamid-karzai-due-to-concerns-over-the-independence.xml)  
+
 ### [2009-11-1](/news/2009/11/1/index.md)
 
+##### Afghanistan
 #  Afghan Presidential candidate Abdullah Abdullah pulls out of the run-off election versus Hamid Karzai due to concerns over the independence of Azizullah Lodin, the head of the Independent Election Commission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2009/nov/01/afghan-election-karzai-abdullah)
 

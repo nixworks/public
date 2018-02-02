@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/03/24/bobby-fischer-leaves-japan-for-iceland-via-copenhagen-after-8-months-in-detention.html)  [JSON](/news/2005/03/24/bobby-fischer-leaves-japan-for-iceland-via-copenhagen-after-8-months-in-detention.json)  [XML](/news/2005/03/24/bobby-fischer-leaves-japan-for-iceland-via-copenhagen-after-8-months-in-detention.xml)  
+
 ### [2005-03-24](/news/2005/03/24/index.md)
 
+##### Bobby Fischer
 #  Bobby Fischer leaves Japan for Iceland via Copenhagen after 8 months in detention. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4374811.stm)
 2. [Mainichi Daily News](http://mdn.mainichi.co.jp/news/20050324p2a00m0dm008000c.html)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=peopleNews&storyID=7991572)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=peopleNews&storyID=7991572)
 
 ### Related:
 

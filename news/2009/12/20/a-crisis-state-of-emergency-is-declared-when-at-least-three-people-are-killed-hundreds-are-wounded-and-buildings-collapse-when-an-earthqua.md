@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2009/12/20/a-crisis-state-of-emergency-is-declared-when-at-least-three-people-are-killed-hundreds-are-wounded-and-buildings-collapse-when-an-earthqua.html)  [JSON](/news/2009/12/20/a-crisis-state-of-emergency-is-declared-when-at-least-three-people-are-killed-hundreds-are-wounded-and-buildings-collapse-when-an-earthqua.json)  [XML](/news/2009/12/20/a-crisis-state-of-emergency-is-declared-when-at-least-three-people-are-killed-hundreds-are-wounded-and-buildings-collapse-when-an-earthqua.xml)  
+
 ### [2009-12-20](/news/2009/12/20/index.md)
 
+##### state of emergency
 #  A crisis state of emergency is declared when at least three people are killed, hundreds are wounded and buildings collapse when an earthquake strikes Malawi. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/reuters/2009/12/07/world/international-uk-quake-malawi.html)
+1. [The New York Times](https://www.nytimes.com/reuters/2009/12/07/world/international-uk-quake-malawi.html)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/quake-hits-malawi-killing-three-20091221-l7qa.html)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/12/20/AR2009122000190.html)
+3. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2009/12/20/AR2009122000190.html)
 
 ### Related:
 
 1. [ A series of earthquakes and aftershocks kill a 1 year old child and injure several other people in northern Malawi. ](/news/2009/12/8/a-series-of-earthquakes-and-aftershocks-kill-a-1-year-old-child-and-injure-several-other-people-in-northern-malawi.md) _Context: Malawi, earthquake_
-2. [ California Governor Arnold Schwarzenegger declares a state of emergency in San Luis Obispo County, following an earthquake in that county on the previous day. [http:--www.cnn.com-2003-US-West-12-23-ca.earthquake-index.html]](/news/2003/12/23/california-governor-arnold-schwarzenegger-declares-a-state-of-emergency-in-san-luis-obispo-county-following-an-earthquake-in-that-county-o.md) _Context: earthquake, states of emergency_
-3. [Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 km-h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency. ](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-km-h-hurricane-warnings-are-issued-for-the-leewa.md) _Context: states of emergency_
-4. [The La Tuna Fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md) _Context: states of emergency_
-5. [A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM. ](/news/2017/09/3/a-6-3-magnitude-earthquake-is-detected-near-the-punggye-ri-nuclear-test-site-in-kilju-county-north-korea-after-north-korea-tests-its-sixth.md) _Context: earthquake_
+2. [ California Governor Arnold Schwarzenegger declares a state of emergency in San Luis Obispo County, following an earthquake in that county on the previous day. [http:--www.cnn.com-2003-US-West-12-23-ca.earthquake-index.html]](/news/2003/12/23/california-governor-arnold-schwarzenegger-declares-a-state-of-emergency-in-san-luis-obispo-county-following-an-earthquake-in-that-county-o.md) _Context: earthquake, state of emergency_
+3. [The Parliament of Egypt approves, with a two-thirds majority in favour, extending the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-extending-the-nationwide-state-of-emergency-for-a-further-three-mont.md) _Context: state of emergency_
+4. [A magnitude 6.5 earthquake strikes the island of Java causing massive damage along with two confirmed deaths. ](/news/2017/12/15/a-magnitude-6-5-earthquakea-strikesa-the-island-of-javaa-causing-massive-damage-along-with-two-confirmed-deaths.md) _Context: earthquake_
+5. [Police in Malawi arrest 140 people after nine people were lynched for suspected vampirism. ](/news/2017/10/20/police-in-malawi-arrest-140-people-after-nine-people-were-lynched-for-suspected-vampirism.md) _Context: Malawi_

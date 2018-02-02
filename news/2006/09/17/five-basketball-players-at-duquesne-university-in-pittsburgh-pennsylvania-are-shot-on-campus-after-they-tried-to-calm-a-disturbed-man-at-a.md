@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/17/five-basketball-players-at-duquesne-university-in-pittsburgh-pennsylvania-are-shot-on-campus-after-they-tried-to-calm-a-disturbed-man-at-a.html)  [JSON](/news/2006/09/17/five-basketball-players-at-duquesne-university-in-pittsburgh-pennsylvania-are-shot-on-campus-after-they-tried-to-calm-a-disturbed-man-at-a.json)  [XML](/news/2006/09/17/five-basketball-players-at-duquesne-university-in-pittsburgh-pennsylvania-are-shot-on-campus-after-they-tried-to-calm-a-disturbed-man-at-a.xml)  
+
 ### [2006-09-17](/news/2006/09/17/index.md)
 
+##### basketball
 #  Five basketball players at Duquesne University in Pittsburgh, Pennsylvania are shot on campus after they tried to calm a disturbed man at a dance in the Student Union. Three of the five are hospitalized, with one in critical condition. 
 
 Five Duquesne basketball players were shot on campus early Sunday, leaving at least one critically injured, after some of them tried to calm a man who apparently had been disruptive at a dance, officials said.
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/ncb/news/story?id=2591340)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fncaa%2F500%2F2184.png)

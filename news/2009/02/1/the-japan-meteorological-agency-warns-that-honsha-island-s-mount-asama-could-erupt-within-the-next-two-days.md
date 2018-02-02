@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/1/the-japan-meteorological-agency-warns-that-honsha-island-s-mount-asama-could-erupt-within-the-next-two-days.html)  [JSON](/news/2009/02/1/the-japan-meteorological-agency-warns-that-honsha-island-s-mount-asama-could-erupt-within-the-next-two-days.json)  [XML](/news/2009/02/1/the-japan-meteorological-agency-warns-that-honsha-island-s-mount-asama-could-erupt-within-the-next-two-days.xml)  
+
 ### [2009-02-1](/news/2009/02/1/index.md)
 
+##### Japan
 #  The Japan Meteorological Agency warns that Honshu Island's Mount Asama could erupt within the next two days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/UKNews1/idUKTRE5100EF20090201)
 1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090201&t=2&i=8075563&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-01T065401Z_01_BTRE5100J6400_RTROPTP_0_JAPAN)

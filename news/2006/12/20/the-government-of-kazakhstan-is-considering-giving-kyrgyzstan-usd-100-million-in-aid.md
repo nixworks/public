@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/20/the-government-of-kazakhstan-is-considering-giving-kyrgyzstan-usd-100-million-in-aid.html)  [JSON](/news/2006/12/20/the-government-of-kazakhstan-is-considering-giving-kyrgyzstan-usd-100-million-in-aid.json)  [XML](/news/2006/12/20/the-government-of-kazakhstan-is-considering-giving-kyrgyzstan-usd-100-million-in-aid.xml)  
+
 ### [2006-12-20](/news/2006/12/20/index.md)
 
+##### Government of Kazakhstan
 #  The Government of Kazakhstan is considering giving Kyrgyzstan USD $100 million in aid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=11102359&PageNum=0)
 

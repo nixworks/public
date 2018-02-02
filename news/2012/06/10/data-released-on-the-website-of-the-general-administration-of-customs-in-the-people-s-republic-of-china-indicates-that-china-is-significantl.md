@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/10/data-released-on-the-website-of-the-general-administration-of-customs-in-the-people-s-republic-of-china-indicates-that-china-is-significantl.html)  [JSON](/news/2012/06/10/data-released-on-the-website-of-the-general-administration-of-customs-in-the-people-s-republic-of-china-indicates-that-china-is-significantl.json)  [XML](/news/2012/06/10/data-released-on-the-website-of-the-general-administration-of-customs-in-the-people-s-republic-of-china-indicates-that-china-is-significantl.xml)  
+
 ### [2012-06-10](/news/2012/06/10/index.md)
 
+##### General Administration of Customs
 # Data released on the website of the General Administration of Customs in the People's Republic of China indicates that China is significantly increasing its importation of crude oil to a record high, and some refineries have increased their processing rate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business Week](http://www.businessweek.com/news/2012-06-10/china-boosts-crude-imports-to-record-high)
 

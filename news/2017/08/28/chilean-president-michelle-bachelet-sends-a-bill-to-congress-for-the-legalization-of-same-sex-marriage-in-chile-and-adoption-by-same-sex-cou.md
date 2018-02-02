@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bil
 
 ### [2017-08-28](/news/2017/08/28/index.md)
 
+##### Same-sex marriage in Chile
 # Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. 
 
 

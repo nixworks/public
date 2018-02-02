@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/22/three-bombs-explode-in-front-of-government-offices-in-kirovohrad-ukraine-ahead-of-a-visit-by-president-viktor-yanukovych.html)  [JSON](/news/2010/10/22/three-bombs-explode-in-front-of-government-offices-in-kirovohrad-ukraine-ahead-of-a-visit-by-president-viktor-yanukovych.json)  [XML](/news/2010/10/22/three-bombs-explode-in-front-of-government-offices-in-kirovohrad-ukraine-ahead-of-a-visit-by-president-viktor-yanukovych.xml)  
+
 ### [2010-10-22](/news/2010/10/22/index.md)
 
+##### Kirovohrad
 # Three bombs explode in front of government offices in Kirovohrad, Ukraine, ahead of a visit by President Viktor Yanukovych. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyiv Post](http://www.kyivpost.com/news/nation/detail/87193/)
 2. [People's Daily](http://english.peopledaily.com.cn/90001/90777/90853/7174840.html)

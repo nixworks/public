@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/6/jeff-bezos-amazon-com-founder-and-billionaire-has-joined-the-budget-space-race-with-a-test-burn-of-the-blue-origin-passenger-rocket-the.html)  [JSON](/news/2007/01/6/jeff-bezos-amazon-com-founder-and-billionaire-has-joined-the-budget-space-race-with-a-test-burn-of-the-blue-origin-passenger-rocket-the.json)  [XML](/news/2007/01/6/jeff-bezos-amazon-com-founder-and-billionaire-has-joined-the-budget-space-race-with-a-test-burn-of-the-blue-origin-passenger-rocket-the.xml)  
+
 ### [2007-01-6](/news/2007/01/6/index.md)
 
+##### Jeff Bezos
 #  Jeff Bezos, Amazon.com founder and billionaire has joined the "budget space race" with a test burn of the Blue Origin passenger rocket, the New Shepard. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/frontpage/story/0,,1983404,00.html)
 

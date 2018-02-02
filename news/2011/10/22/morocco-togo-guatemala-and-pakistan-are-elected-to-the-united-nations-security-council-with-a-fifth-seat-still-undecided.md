@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/22/morocco-togo-guatemala-and-pakistan-are-elected-to-the-united-nations-security-council-with-a-fifth-seat-still-undecided.html)  [JSON](/news/2011/10/22/morocco-togo-guatemala-and-pakistan-are-elected-to-the-united-nations-security-council-with-a-fifth-seat-still-undecided.json)  [XML](/news/2011/10/22/morocco-togo-guatemala-and-pakistan-are-elected-to-the-united-nations-security-council-with-a-fifth-seat-still-undecided.xml)  
+
 ### [2011-10-22](/news/2011/10/22/index.md)
 
+##### Morocco
 # Morocco, Togo, Guatemala and Pakistan are elected to the United Nations Security Council, with a fifth seat still undecided. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/10/21/us/un-security-council-vote/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/8/powers-fasteners-the-company-that-supplied-the-epoxy-blamed-for-the-big-dig-ceiling-collapse-in-boston-massachusetts-is-indicted-on-a-man.html)  [JSON](/news/2007/08/8/powers-fasteners-the-company-that-supplied-the-epoxy-blamed-for-the-big-dig-ceiling-collapse-in-boston-massachusetts-is-indicted-on-a-man.json)  [XML](/news/2007/08/8/powers-fasteners-the-company-that-supplied-the-epoxy-blamed-for-the-big-dig-ceiling-collapse-in-boston-massachusetts-is-indicted-on-a-man.xml)  
+
 ### [2007-08-8](/news/2007/08/8/index.md)
 
+##### epoxy
 #  Powers Fasteners, the company that supplied the epoxy blamed for the Big Dig ceiling collapse in Boston, Massachusetts is indicted on a manslaughter charge. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6835868,00.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/11/fazul-abdullah-mohammed-mastermind-of-the-1998-united-states-embassy-bombings-in-kenya-and-tanzania-is-killed-in-somalia.html)  [JSON](/news/2011/06/11/fazul-abdullah-mohammed-mastermind-of-the-1998-united-states-embassy-bombings-in-kenya-and-tanzania-is-killed-in-somalia.json)  [XML](/news/2011/06/11/fazul-abdullah-mohammed-mastermind-of-the-1998-united-states-embassy-bombings-in-kenya-and-tanzania-is-killed-in-somalia.xml)  
+
 ### [2011-06-11](/news/2011/06/11/index.md)
 
+##### Fazul Abdullah Mohammed
 # Fazul Abdullah Mohammed, mastermind of the 1998 United States embassy bombings in Kenya and Tanzania, is killed in Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE75A06420110611?sp=true)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-06/11/c_13924199.htm)

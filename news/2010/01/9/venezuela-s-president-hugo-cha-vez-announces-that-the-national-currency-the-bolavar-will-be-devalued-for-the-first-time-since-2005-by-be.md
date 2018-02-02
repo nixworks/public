@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/9/venezuela-s-president-hugo-cha-vez-announces-that-the-national-currency-the-bolavar-will-be-devalued-for-the-first-time-since-2005-by-be.html)  [JSON](/news/2010/01/9/venezuela-s-president-hugo-cha-vez-announces-that-the-national-currency-the-bolavar-will-be-devalued-for-the-first-time-since-2005-by-be.json)  [XML](/news/2010/01/9/venezuela-s-president-hugo-cha-vez-announces-that-the-national-currency-the-bolavar-will-be-devalued-for-the-first-time-since-2005-by-be.xml)  
+
 ### [2010-01-9](/news/2010/01/9/index.md)
 
+##### Venezuela
 # Venezuela's President Hugo Chavez announces that the national currency, the bolivar, will be devalued for the first time since 2005, by between 17% and 50%. 
 
 Devaluation and setting of double exchange rate is attempt to improve export levels.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/business/2010/01/20101913615836221.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/business/8449721.stm)

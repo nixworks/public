@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/13/harley-davidson-workers-in-menomonee-falls-wisconsin-approve-a-new-contract-freezing-pay-and-cutting-jobs-following-a-threat-to-move-produc.html)  [JSON](/news/2010/09/13/harley-davidson-workers-in-menomonee-falls-wisconsin-approve-a-new-contract-freezing-pay-and-cutting-jobs-following-a-threat-to-move-produc.json)  [XML](/news/2010/09/13/harley-davidson-workers-in-menomonee-falls-wisconsin-approve-a-new-contract-freezing-pay-and-cutting-jobs-following-a-threat-to-move-produc.xml)  
+
 ### [2010-09-13](/news/2010/09/13/index.md)
 
+##### Harley-Davidson
 # Harley-Davidson workers in Menomonee Falls, Wisconsin approve a new contract freezing pay and cutting jobs following a threat to move production from the state cutting 1,350 jobs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5im4ZQ7L0db5K7tRvkeDgm9F_QArQD9I76KH80)
 

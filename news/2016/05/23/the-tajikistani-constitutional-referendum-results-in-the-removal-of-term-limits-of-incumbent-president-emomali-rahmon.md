@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/23/the-tajikistani-constitutional-referendum-resul
 
 ### [2016-05-23](/news/2016/05/23/index.md)
 
+##### Tajikistani constitutional referendum, 2016
 #  The Tajikistani constitutional referendum results in the removal of term limits of incumbent President Emomali Rahmon. 
 
 According to the country’s Central Election Commission, 94.5% endorsed the amendments to the Constitution at the referendum

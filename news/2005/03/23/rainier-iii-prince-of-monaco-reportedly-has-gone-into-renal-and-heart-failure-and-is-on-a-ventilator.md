@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/23/rainier-iii-prince-of-monaco-reportedly-has-gone-into-renal-and-heart-failure-and-is-on-a-ventilator.html)  [JSON](/news/2005/03/23/rainier-iii-prince-of-monaco-reportedly-has-gone-into-renal-and-heart-failure-and-is-on-a-ventilator.json)  [XML](/news/2005/03/23/rainier-iii-prince-of-monaco-reportedly-has-gone-into-renal-and-heart-failure-and-is-on-a-ventilator.xml)  
+
 ### [2005-03-23](/news/2005/03/23/index.md)
 
+##### Prince Rainier
 #  Rainier III, Prince of Monaco reportedly has gone into renal and heart failure and is on a ventilator. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yahoo! News](http://story.news.yahoo.com/news?tmpl=story&cid=514&e=7&u=/ap/20050323/ap_on_re_eu/monaco_prince_rainier)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.html)  [JSON](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.json)  [XML](/news/2011/05/19/syria-condemns-the-decision-by-the-united-states-to-impose-sanctions-on-president-bashar-al-assad-in-response-to-ongoing-anti-government-pro.xml)  
+
 ### [2011-05-19](/news/2011/05/19/index.md)
 
+##### Syria
 # Syria condemns the decision by the United States to impose sanctions on President Bashar al-Assad in response to ongoing anti-government protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/2011518164713908756.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/19/2011519102831686360_20.jpg)

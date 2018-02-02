@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/9/swiss-police-seize-computer-records-from-fifa-in-an-investigation-into-alleged-corruption-by-the-world-governing-body-of-association-footbal.html)  [JSON](/news/2015/06/9/swiss-police-seize-computer-records-from-fifa-in-an-investigation-into-alleged-corruption-by-the-world-governing-body-of-association-footbal.json)  [XML](/news/2015/06/9/swiss-police-seize-computer-records-from-fifa-in-an-investigation-into-alleged-corruption-by-the-world-governing-body-of-association-footbal.xml)  
+
 ### [2015-06-9](/news/2015/06/9/index.md)
 
+##### FIFA
 # Swiss police seize computer records from FIFA in an investigation into alleged corruption by the world governing body of association football. 
 
 Fifa has handed over computer data to the Swiss authorities investigating the World Cup bids for 2018 and 2022.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-33088747)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/83550000/jpg/_83550226_police.jpg)

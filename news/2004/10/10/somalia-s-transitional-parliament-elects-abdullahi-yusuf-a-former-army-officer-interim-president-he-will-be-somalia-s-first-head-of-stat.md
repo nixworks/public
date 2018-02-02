@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/10/somalia-s-transitional-parliament-elects-abdullahi-yusuf-a-former-army-officer-interim-president-he-will-be-somalia-s-first-head-of-stat.html)  [JSON](/news/2004/10/10/somalia-s-transitional-parliament-elects-abdullahi-yusuf-a-former-army-officer-interim-president-he-will-be-somalia-s-first-head-of-stat.json)  [XML](/news/2004/10/10/somalia-s-transitional-parliament-elects-abdullahi-yusuf-a-former-army-officer-interim-president-he-will-be-somalia-s-first-head-of-stat.xml)  
+
 ### [2004-10-10](/news/2004/10/10/index.md)
 
+##### Somalia
 #  Somalia's transitional parliament elects Abdullahi Yusuf, a former army officer, interim president. He will be Somalia's first head of state since 1991, when tribal warlords overthrew the ruling military dictatorship. The election was held in Nairobi, Kenya, since the situation in Somalia remains dangerous. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/International/wireStory?id=154352)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/3730562.stm)

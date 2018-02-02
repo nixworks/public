@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/31/former-royal-bank-of-scotland-ceo-fred-goodwin-loses-his-knighthood-from-queen-elizabeth-ii-as-a-result-of-the-near-collapse-of-the-bank-in.html)  [JSON](/news/2012/01/31/former-royal-bank-of-scotland-ceo-fred-goodwin-loses-his-knighthood-from-queen-elizabeth-ii-as-a-result-of-the-near-collapse-of-the-bank-in.json)  [XML](/news/2012/01/31/former-royal-bank-of-scotland-ceo-fred-goodwin-loses-his-knighthood-from-queen-elizabeth-ii-as-a-result-of-the-near-collapse-of-the-bank-in.xml)  
+
 ### [2012-01-31](/news/2012/01/31/index.md)
 
+##### Royal Bank of Scotland
 # Former Royal Bank of Scotland CEO Fred Goodwin loses his knighthood from Queen Elizabeth II as a result of the near collapse of the bank in 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-16821650)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58204000/jpg/_58204732_006335536-1.jpg)

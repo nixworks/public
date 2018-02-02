@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/19/a-truth-commission-is-set-up-by-east-timor-and-indonesia-to-promote-reconciliation-after-the-violence-surrounding-the-1999-independence-ref.html)  [JSON](/news/2007/02/19/a-truth-commission-is-set-up-by-east-timor-and-indonesia-to-promote-reconciliation-after-the-violence-surrounding-the-1999-independence-ref.json)  [XML](/news/2007/02/19/a-truth-commission-is-set-up-by-east-timor-and-indonesia-to-promote-reconciliation-after-the-violence-surrounding-the-1999-independence-ref.xml)  
+
 ### [2007-02-19](/news/2007/02/19/index.md)
 
+##### truth commission
 #  A truth commission is set up by East Timor and Indonesia to promote reconciliation after the violence surrounding the 1999 independence referendum. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6374587.stm)
 

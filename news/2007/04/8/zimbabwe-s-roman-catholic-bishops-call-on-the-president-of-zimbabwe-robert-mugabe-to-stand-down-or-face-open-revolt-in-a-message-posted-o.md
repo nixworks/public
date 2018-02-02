@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/8/zimbabwe-s-roman-catholic-bishops-call-on-the-president-of-zimbabwe-robert-mugabe-to-stand-down-or-face-open-revolt-in-a-message-posted-o.html)  [JSON](/news/2007/04/8/zimbabwe-s-roman-catholic-bishops-call-on-the-president-of-zimbabwe-robert-mugabe-to-stand-down-or-face-open-revolt-in-a-message-posted-o.json)  [XML](/news/2007/04/8/zimbabwe-s-roman-catholic-bishops-call-on-the-president-of-zimbabwe-robert-mugabe-to-stand-down-or-face-open-revolt-in-a-message-posted-o.xml)  
+
 ### [2007-04-8](/news/2007/04/8/index.md)
 
+##### Zimbabwe
 #  Zimbabwe's Roman Catholic bishops call on the President of Zimbabwe Robert Mugabe to stand down or face "open revolt" in a message posted on church bulletin boards across the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/africa/04/08/zimbabwe.easter.ap/index.html?eref=rss_world)
 

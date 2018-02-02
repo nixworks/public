@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/25/in-malawi-president-bingu-wa-mutharika-bans-all-exports-of-maize-and-fertilizers-to-alleviate-the-food-crisis-in-the-country.html)  [JSON](/news/2005/07/25/in-malawi-president-bingu-wa-mutharika-bans-all-exports-of-maize-and-fertilizers-to-alleviate-the-food-crisis-in-the-country.json)  [XML](/news/2005/07/25/in-malawi-president-bingu-wa-mutharika-bans-all-exports-of-maize-and-fertilizers-to-alleviate-the-food-crisis-in-the-country.xml)  
+
 ### [2005-07-25](/news/2005/07/25/index.md)
 
+##### Malawi
 #  In Malawi, president Bingu wa Mutharika bans all exports of maize and fertilizers to alleviate the food crisis in the country 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4715451.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=qw1122300361136B254)

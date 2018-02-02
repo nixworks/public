@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/22/israel-names-former-israeli-air-force-commander-major-general-dan-halutz-as-the-new-chief-of-staff-of-the-israeli-defence-forces-he-will-r.html)  [JSON](/news/2005/02/22/israel-names-former-israeli-air-force-commander-major-general-dan-halutz-as-the-new-chief-of-staff-of-the-israeli-defence-forces-he-will-r.json)  [XML](/news/2005/02/22/israel-names-former-israeli-air-force-commander-major-general-dan-halutz-as-the-new-chief-of-staff-of-the-israeli-defence-forces-he-will-r.xml)  
+
 ### [2005-02-22](/news/2005/02/22/index.md)
 
+##### Israel
 #  Israel names former Israeli Air Force commander Major General Dan Halutz as the new Chief of Staff of the Israeli Defence Forces. He will replace General Moshe Ya'alon at the beginning of July. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/543551.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/7/research-published-in-the-peer-reviewed-scientif
 
 ### [2016-03-7](/news/2016/03/7/index.md)
 
+##### peer-reviewed
 # Research, published in the peer-reviewed scientific journal "Nature Geoscience", confirms that Mercury's darker than expected crusty exterior is from carbon, likely the remains of the planet's ancient surface crust of graphite, rather than carbon dust from comet impacts as previously postulated. 
 
 Mercury may have comet dust to thank for its dark appearance.

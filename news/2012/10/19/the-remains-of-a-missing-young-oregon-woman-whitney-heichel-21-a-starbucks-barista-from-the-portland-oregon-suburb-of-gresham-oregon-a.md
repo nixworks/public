@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/19/the-remains-of-a-missing-young-oregon-woman-whitney-heichel-21-a-starbucks-barista-from-the-portland-oregon-suburb-of-gresham-oregon-a.html)  [JSON](/news/2012/10/19/the-remains-of-a-missing-young-oregon-woman-whitney-heichel-21-a-starbucks-barista-from-the-portland-oregon-suburb-of-gresham-oregon-a.json)  [XML](/news/2012/10/19/the-remains-of-a-missing-young-oregon-woman-whitney-heichel-21-a-starbucks-barista-from-the-portland-oregon-suburb-of-gresham-oregon-a.xml)  
+
 ### [2012-10-19](/news/2012/10/19/index.md)
 
+##### Whitney Heichel
 # The remains of a missing young Oregon woman, Whitney Heichel, 21, a Starbucks barista from the Portland, Oregon suburb of Gresham, Oregon, are found on Larch Mountain, Multnomah County, Oregon; after DNA testing and fingerprint analysis, Gresham Police arrested a neighbor who lived nearby in her Gresham apartment complex, Jonathan Holt, 24, on suspicion of aggravated first-degree murder. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2012/10/20/14571413-police-missing-oregon-womans-remains-found-neighbor-arrested?lite)
 

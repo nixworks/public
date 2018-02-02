@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/26/alaska-airlines-and-its-affiliate-horizon-air-cancel-dozens-of-flights-because-of-problems-with-its-computer-system.html)  [JSON](/news/2011/03/26/alaska-airlines-and-its-affiliate-horizon-air-cancel-dozens-of-flights-because-of-problems-with-its-computer-system.json)  [XML](/news/2011/03/26/alaska-airlines-and-its-affiliate-horizon-air-cancel-dozens-of-flights-because-of-problems-with-its-computer-system.xml)  
+
 ### [2011-03-26](/news/2011/03/26/index.md)
 
+##### Alaska Airlines
 # Alaska Airlines and its affiliate Horizon Air cancel dozens of flights because of problems with its computer system. 
 
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/Business/wireStory?id=13228817)
 

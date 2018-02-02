@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/8/a-blackout-in-southern-california-arizona-and-baja-california-in-mexico-caused-by-the-loss-of-the-entire-san-diego-gas-electric-system-le.html)  [JSON](/news/2011/09/8/a-blackout-in-southern-california-arizona-and-baja-california-in-mexico-caused-by-the-loss-of-the-entire-san-diego-gas-electric-system-le.json)  [XML](/news/2011/09/8/a-blackout-in-southern-california-arizona-and-baja-california-in-mexico-caused-by-the-loss-of-the-entire-san-diego-gas-electric-system-le.xml)  
+
 ### [2011-09-8](/news/2011/09/8/index.md)
 
+##### power outage
 # A blackout in southern California, Arizona and Baja California in Mexico caused by the loss of the entire San Diego Gas & Electric system leads to the closure of San Onofre Nuclear Generating Station and the loss of power to more than two million people. 
 
 Millions were left in the dark Thursday, but SDG&E said it was making progress.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Arizona Star](http://azstarnet.com/news/state-and-regional/article_d5e7bfd8-da74-11e0-837a-001cc4c03286.html)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2011/09/blackout-san-onofre-reactor.html)

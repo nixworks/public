@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/16/a-german-court-in-munich-rules-that-formula-one-boss-bernie-ecclestone-should-face-bribery-charges.html)  [JSON](/news/2014/01/16/a-german-court-in-munich-rules-that-formula-one-boss-bernie-ecclestone-should-face-bribery-charges.json)  [XML](/news/2014/01/16/a-german-court-in-munich-rules-that-formula-one-boss-bernie-ecclestone-should-face-bribery-charges.xml)  
+
 ### [2014-01-16](/news/2014/01/16/index.md)
 
+##### German court
 # A German court in Munich rules that Formula One boss Bernie Ecclestone should face bribery charges. 
 
 Formula 1 boss Bernie Ecclestone will face bribery trial on charges of allegedly giving a $45m (£27.5m) bribe to a German banker, a court in Munich rules.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-25756973#)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/72317000/jpg/_72317638_72317637.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/27/power-returns-to-amsterdam-after-a-5-hour-blackout-that-caused-the-closure-of-amsterdam-airport-schiphol-and-disrupted-public-transport-netw.html)  [JSON](/news/2015/03/27/power-returns-to-amsterdam-after-a-5-hour-blackout-that-caused-the-closure-of-amsterdam-airport-schiphol-and-disrupted-public-transport-netw.json)  [XML](/news/2015/03/27/power-returns-to-amsterdam-after-a-5-hour-blackout-that-caused-the-closure-of-amsterdam-airport-schiphol-and-disrupted-public-transport-netw.xml)  
+
 ### [2015-03-27](/news/2015/03/27/index.md)
 
+##### Amsterdam
 # Power returns to Amsterdam after a 5-hour blackout that caused the closure of Amsterdam Airport Schiphol and disrupted public transport networks throughout the Netherlands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3014341/Amsterdam-surroundings-hit-power-grid-outage.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/1/riken-concludes-that-research-suggesting-stem-cells-could-be-produced-through-stap-techniques-was-falsified.html)  [JSON](/news/2014/04/1/riken-concludes-that-research-suggesting-stem-cells-could-be-produced-through-stap-techniques-was-falsified.json)  [XML](/news/2014/04/1/riken-concludes-that-research-suggesting-stem-cells-could-be-produced-through-stap-techniques-was-falsified.xml)  
+
 ### [2014-04-1](/news/2014/04/1/index.md)
 
+##### RIKEN
 # RIKEN concludes that research suggesting stem cells could be produced through STAP techniques was falsified. 
 
 A probe into possible “research misconduct” by the authors of two potentially revolutionary papers on pluripotent stem cells turns up two instances of deliberate falsification.
 
 
-### Source:
+### Sources:
 
 1. [The Japan Times](http://www.japantimes.co.jp/news/2014/04/01/national/obokata-falsified-data-in-stap-papers-probe/)
 1. [Cover Image](http://www.japantimes.co.jp/wp-content/uploads/2014/04/p1-riken-z-20140402-870x554.jpg)

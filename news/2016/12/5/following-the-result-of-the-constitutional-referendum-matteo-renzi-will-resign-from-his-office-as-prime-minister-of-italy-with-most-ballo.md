@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/5/following-the-result-of-the-constitutional-refer
 
 ### [2016-12-5](/news/2016/12/5/index.md)
 
+##### Italian constitutional referendum, 2016
 #  Following the result of the constitutional referendum, Matteo Renzi will resign from his office as Prime Minister of Italy. With most ballots counted, the "No" vote leads with 60%. 
 
 

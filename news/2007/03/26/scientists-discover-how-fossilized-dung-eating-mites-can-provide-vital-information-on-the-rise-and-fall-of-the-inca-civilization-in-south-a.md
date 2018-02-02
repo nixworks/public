@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/26/scientists-discover-how-fossilized-dung-eating-mites-can-provide-vital-information-on-the-rise-and-fall-of-the-inca-civilization-in-south-a.html)  [JSON](/news/2007/03/26/scientists-discover-how-fossilized-dung-eating-mites-can-provide-vital-information-on-the-rise-and-fall-of-the-inca-civilization-in-south-a.json)  [XML](/news/2007/03/26/scientists-discover-how-fossilized-dung-eating-mites-can-provide-vital-information-on-the-rise-and-fall-of-the-inca-civilization-in-south-a.xml)  
+
 ### [2007-03-26](/news/2007/03/26/index.md)
 
+##### fossil
 #  Scientists discover how fossilized dung-eating mites can provide vital information on the rise and fall of the Inca civilization in South America. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/us_and_americas/article1567478.ece)
 

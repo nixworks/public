@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/23/the-united-nations-mission-in-nepal-is-established-through-united-nations-security-council-resolution-1740-to-monitor-disarmament-of-the-co.html)  [JSON](/news/2007/01/23/the-united-nations-mission-in-nepal-is-established-through-united-nations-security-council-resolution-1740-to-monitor-disarmament-of-the-co.json)  [XML](/news/2007/01/23/the-united-nations-mission-in-nepal-is-established-through-united-nations-security-council-resolution-1740-to-monitor-disarmament-of-the-co.xml)  
+
 ### [2007-01-23](/news/2007/01/23/index.md)
 
+##### United Nations Mission in Nepal
 #  The United Nations Mission in Nepal is established through United Nations Security Council Resolution 1740 to monitor disarmament of the Communist Party of Nepal (Maoist) and preparations for the Nepalese Constituent Assembly election, 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nepal Monitor](http://www.nepalmonitor.com/2007/01/uns_mission_is_strat.html)
 

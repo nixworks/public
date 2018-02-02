@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/27/the-leaders-of-libya-and-venezuela-muammar-al-gaddafi-and-hugo-cha-vez-call-on-the-continents-of-africa-and-south-america-to-unite-to-sec.html)  [JSON](/news/2009/09/27/the-leaders-of-libya-and-venezuela-muammar-al-gaddafi-and-hugo-cha-vez-call-on-the-continents-of-africa-and-south-america-to-unite-to-sec.json)  [XML](/news/2009/09/27/the-leaders-of-libya-and-venezuela-muammar-al-gaddafi-and-hugo-cha-vez-call-on-the-continents-of-africa-and-south-america-to-unite-to-sec.xml)  
+
 ### [2009-09-27](/news/2009/09/27/index.md)
 
+##### Libya
 #  The leaders of Libya and Venezuela, Muammar al-Gaddafi and Hugo Chavez, call on the continents of Africa and South America to unite to secure prosperity for future generations. 
 
 South America-Africa summit aims to increase co-operation and trade between continents.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2009/09/20099271133771129.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8277016.stm)

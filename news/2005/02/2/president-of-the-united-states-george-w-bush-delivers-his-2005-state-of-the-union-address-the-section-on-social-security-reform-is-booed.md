@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/02/2/president-of-the-united-states-george-w-bush-delivers-his-2005-state-of-the-union-address-the-section-on-social-security-reform-is-booed.html)  [JSON](/news/2005/02/2/president-of-the-united-states-george-w-bush-delivers-his-2005-state-of-the-union-address-the-section-on-social-security-reform-is-booed.json)  [XML](/news/2005/02/2/president-of-the-united-states-george-w-bush-delivers-his-2005-state-of-the-union-address-the-section-on-social-security-reform-is-booed.xml)  
+
 ### [2005-02-2](/news/2005/02/2/index.md)
 
+##### U.S. President
 #  President of the United States George W. Bush delivers his 2005 State of the Union address. The section on Social Security reform is booed by some members of Congress, a very rare show of open disdain for the President during such a speech. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Transcript (WP](http://www.washingtonpost.com/wp-srv/politics/transcripts/bushtext_020205.html)
+1. [Transcript (WP](https://www.washingtonpost.com/wp-srv/politics/transcripts/bushtext_020205.html)
 
 ### Related:
 

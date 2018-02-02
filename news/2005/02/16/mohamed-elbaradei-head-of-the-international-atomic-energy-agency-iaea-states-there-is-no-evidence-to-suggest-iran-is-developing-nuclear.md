@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/02/16/mohamed-elbaradei-head-of-the-international-atomic-energy-agency-iaea-states-there-is-no-evidence-to-suggest-iran-is-developing-nuclear.html)  [JSON](/news/2005/02/16/mohamed-elbaradei-head-of-the-international-atomic-energy-agency-iaea-states-there-is-no-evidence-to-suggest-iran-is-developing-nuclear.json)  [XML](/news/2005/02/16/mohamed-elbaradei-head-of-the-international-atomic-energy-agency-iaea-states-there-is-no-evidence-to-suggest-iran-is-developing-nuclear.xml)  
+
 ### [2005-02-16](/news/2005/02/16/index.md)
 
+##### Mohamed ElBaradei
 #  Mohamed ElBaradei, head of the International Atomic Energy Agency (IAEA), states there is no evidence to suggest Iran is developing nuclear weapons. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A27319-2005Feb15.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/articles/A27319-2005Feb15.html)
 
 ### Related:
 

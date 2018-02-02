@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/14/the-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-proposes-that-arab-league-troops-be-sent-to-syria-to-end-ongoing-violence-in-the-count.html)  [JSON](/news/2012/01/14/the-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-proposes-that-arab-league-troops-be-sent-to-syria-to-end-ongoing-violence-in-the-count.json)  [XML](/news/2012/01/14/the-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-proposes-that-arab-league-troops-be-sent-to-syria-to-end-ongoing-violence-in-the-count.xml)  
+
 ### [2012-01-14](/news/2012/01/14/index.md)
 
+##### Emir of Qatar
 # The Emir of Qatar, Sheikh Hamad bin Khalifa al-Thani, proposes that Arab League troops be sent to Syria to end ongoing violence in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VoA](http://www.voanews.com/english/news/middle-east/Qatar-Supports-Sending-Arab-Troops-to-Syria-137348168.html)
 

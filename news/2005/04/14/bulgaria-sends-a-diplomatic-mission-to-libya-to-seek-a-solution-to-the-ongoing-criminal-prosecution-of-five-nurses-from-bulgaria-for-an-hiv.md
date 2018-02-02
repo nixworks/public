@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/14/bulgaria-sends-a-diplomatic-mission-to-libya-to-seek-a-solution-to-the-ongoing-criminal-prosecution-of-five-nurses-from-bulgaria-for-an-hiv.html)  [JSON](/news/2005/04/14/bulgaria-sends-a-diplomatic-mission-to-libya-to-seek-a-solution-to-the-ongoing-criminal-prosecution-of-five-nurses-from-bulgaria-for-an-hiv.json)  [XML](/news/2005/04/14/bulgaria-sends-a-diplomatic-mission-to-libya-to-seek-a-solution-to-the-ongoing-criminal-prosecution-of-five-nurses-from-bulgaria-for-an-hiv.xml)  
+
 ### [2005-04-14](/news/2005/04/14/index.md)
 
+##### Bulgaria
 #  Bulgaria sends a diplomatic mission to Libya to seek a solution to the ongoing criminal prosecution of five nurses from Bulgaria for an HIV outbreak among Benghazi children. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bulgaria News Network](http://www.bgnewsnet.com/story.php?lang=en&sid=20014)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/13/the-constitutional-court-of-italy-strikes-down-a-law-enacted-to-give-prime-minister-silvio-berlusconi-immunity-from-prosecution-while-in-of.html)  [JSON](/news/2004/01/13/the-constitutional-court-of-italy-strikes-down-a-law-enacted-to-give-prime-minister-silvio-berlusconi-immunity-from-prosecution-while-in-of.json)  [XML](/news/2004/01/13/the-constitutional-court-of-italy-strikes-down-a-law-enacted-to-give-prime-minister-silvio-berlusconi-immunity-from-prosecution-while-in-of.xml)  
+
 ### [2004-01-13](/news/2004/01/13/index.md)
 
+##### Constitutional Court
 #  The Constitutional Court of Italy strikes down a law enacted to give Prime Minister Silvio Berlusconi immunity from prosecution while in office.
 
 

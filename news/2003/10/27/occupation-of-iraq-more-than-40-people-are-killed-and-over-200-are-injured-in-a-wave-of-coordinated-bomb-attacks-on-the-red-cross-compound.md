@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/27/occupation-of-iraq-more-than-40-people-are-killed-and-over-200-are-injured-in-a-wave-of-coordinated-bomb-attacks-on-the-red-cross-compound.html)  [JSON](/news/2003/10/27/occupation-of-iraq-more-than-40-people-are-killed-and-over-200-are-injured-in-a-wave-of-coordinated-bomb-attacks-on-the-red-cross-compound.json)  [XML](/news/2003/10/27/occupation-of-iraq-more-than-40-people-are-killed-and-over-200-are-injured-in-a-wave-of-coordinated-bomb-attacks-on-the-red-cross-compound.xml)  
+
 ### [2003-10-27](/news/2003/10/27/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: More than 40 people are killed and over 200 are injured in a wave of coordinated bomb attacks on the Red Cross compound and several local police stations in Baghdad. George W. Bush states that the bombings are a sign of desperation by the insurgents.
 
 

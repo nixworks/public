@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/24/hokkaido-5th-district-by-election-2016-ldp-cand
 
 ### [2016-04-24](/news/2016/04/24/index.md)
 
+##### Hokkaido 5th district by-election, 2016
 # Hokkaido 5th district by-election, 2016: LDP candidate Yoshiaki Wada staved off the competition from independent candidate Maki Ikeda. Despite the LDP's winning margin decreasing from 14% (in 2014) to 2%, this win is seen as a boost for Prime Minister Shinzo Abe in the upcoming upper house election.Kyoto 3rd district by-election, 2016: The newly formed Democratic Party wrested back the seat from the LDP after their candidate and former MP for the district Kenta Izumi won by a landslide.
 
 

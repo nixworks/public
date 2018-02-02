@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/9/in-a-move-denounced-as-unconstitutional-by-the-opposition-the-national-congress-of-ecuador-dismisses-all-31-of-the-country-s-supreme-cou.html)  [JSON](/news/2004/12/9/in-a-move-denounced-as-unconstitutional-by-the-opposition-the-national-congress-of-ecuador-dismisses-all-31-of-the-country-s-supreme-cou.json)  [XML](/news/2004/12/9/in-a-move-denounced-as-unconstitutional-by-the-opposition-the-national-congress-of-ecuador-dismisses-all-31-of-the-country-s-supreme-cou.xml)  
+
 ### [2004-12-9](/news/2004/12/9/index.md)
 
+##### Congress
 #  In a move denounced as "unconstitutional" by the opposition, the National Congress of Ecuador dismisses all 31 of the country's Supreme Court justices. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4082521.stm)
 

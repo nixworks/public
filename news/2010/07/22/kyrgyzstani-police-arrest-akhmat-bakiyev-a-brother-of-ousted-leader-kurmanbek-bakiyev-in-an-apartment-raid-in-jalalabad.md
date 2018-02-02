@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/22/kyrgyzstani-police-arrest-akhmat-bakiyev-a-brother-of-ousted-leader-kurmanbek-bakiyev-in-an-apartment-raid-in-jalalabad.html)  [JSON](/news/2010/07/22/kyrgyzstani-police-arrest-akhmat-bakiyev-a-brother-of-ousted-leader-kurmanbek-bakiyev-in-an-apartment-raid-in-jalalabad.json)  [XML](/news/2010/07/22/kyrgyzstani-police-arrest-akhmat-bakiyev-a-brother-of-ousted-leader-kurmanbek-bakiyev-in-an-apartment-raid-in-jalalabad.xml)  
+
 ### [2010-07-22](/news/2010/07/22/index.md)
 
+##### Kyrgyzstan
 # Kyrgyzstani police arrest Akhmat Bakiyev, a brother of ousted leader Kurmanbek Bakiyev, in an apartment raid in Jalalabad. 
 
 Kyrgyz police detain a brother of ex-leader Kurmanbek Bakiyev on suspicion of orchestrating deadly ethnic violence in June.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10725474)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

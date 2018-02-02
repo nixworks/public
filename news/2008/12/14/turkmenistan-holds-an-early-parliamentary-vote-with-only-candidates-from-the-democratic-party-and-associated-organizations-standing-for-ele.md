@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/12/14/turkmenistan-holds-an-early-parliamentary-vote-with-only-candidates-from-the-democratic-party-and-associated-organizations-standing-for-ele.html)  [JSON](/news/2008/12/14/turkmenistan-holds-an-early-parliamentary-vote-with-only-candidates-from-the-democratic-party-and-associated-organizations-standing-for-ele.json)  [XML](/news/2008/12/14/turkmenistan-holds-an-early-parliamentary-vote-with-only-candidates-from-the-democratic-party-and-associated-organizations-standing-for-ele.xml)  
+
 ### [2008-12-14](/news/2008/12/14/index.md)
 
+##### Turkmenistan
 #  Turkmenistan holds an early parliamentary vote with only candidates from the Democratic Party and associated organizations standing for election. 
 
 Turkmenistan votes on Sunday in a snap parliamentary election touted by the government as a step toward democracy but condemned by critics as a sham.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE4BC1Z720081213)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE4BC1Z720081213)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

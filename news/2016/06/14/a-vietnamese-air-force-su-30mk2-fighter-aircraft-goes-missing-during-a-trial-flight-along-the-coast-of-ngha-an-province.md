@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/14/a-vietnamese-air-force-su-30mk2-fighter-aircraf
 
 ### [2016-06-14](/news/2016/06/14/index.md)
 
+##### Vietnamese air force
 # A Vietnamese air force Su-30MK2 fighter aircraft goes missing during a trial flight along the coast of Nghe An Province 
 
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.

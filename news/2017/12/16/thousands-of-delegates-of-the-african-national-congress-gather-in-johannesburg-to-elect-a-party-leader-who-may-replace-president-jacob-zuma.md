@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/16/thousands-of-delegates-of-the-african-national-
 
 ### [2017-12-16](/news/2017/12/16/index.md)
 
+##### Politics of South Africa
 # Thousands of delegates of the African National Congress gather in Johannesburg to elect a party leader, who may replace President Jacob Zuma before his term expires in 2019. 
 
 

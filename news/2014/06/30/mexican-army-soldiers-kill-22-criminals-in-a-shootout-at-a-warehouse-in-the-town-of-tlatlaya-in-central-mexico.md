@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2014/06/30/mexican-army-soldiers-kill-22-criminals-in-a-shootout-at-a-warehouse-in-the-town-of-tlatlaya-in-central-mexico.html)  [JSON](/news/2014/06/30/mexican-army-soldiers-kill-22-criminals-in-a-shootout-at-a-warehouse-in-the-town-of-tlatlaya-in-central-mexico.json)  [XML](/news/2014/06/30/mexican-army-soldiers-kill-22-criminals-in-a-shootout-at-a-warehouse-in-the-town-of-tlatlaya-in-central-mexico.xml)  
+
 ### [2014-06-30](/news/2014/06/30/index.md)
 
+##### Mexican Drug War
 # Mexican Army soldiers kill 22 criminals in a shootout at a warehouse in the town of Tlatlaya in central Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/soldiers-kill-22-warehouse-central-mexico)
+
+### Changes:
+
+1. [Mexican Drug War: Mexican Army soldiers kill 22 criminals in a shootout at a warehouse in the town of Tlatlaya in central Mexico. ](/news/2014/06/30/mexican-drug-war-mexican-army-soldiers-kill-22-criminals-in-a-shootout-at-a-warehouse-in-the-town-of-tlatlaya-in-central-mexico.md) _2017-08-27 03:40:55 (First version)_
+1. [Mexican Army soldiers kill 22 criminals in a shootout at a warehouse in the town of Tlatlaya in central Mexico. ](/news/2014/06/30/mexican-army-soldiers-kill-22-criminals-in-a-shootout-at-a-warehouse-in-the-town-of-tlatlaya-in-central-mexico.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [At least nine suspected cartel members are killed in gunfights with government forces during an anti-cartel operation in the city of Reynosa, Mexico. ](/news/2016/03/14/at-least-nine-suspected-cartel-members-are-killed-in-gunfights-with-government-forces-during-an-anti-cartel-operation-in-the-city-of-reynosa.md) _Context: Mexican Drug War, Mexico_
 4. [Gisela Mota Ocampo, mayor of Temixco in Mexico's Morelos state is assassinated by gunmen at her home, less than a day after taking office. Morelos Governor, Graco Ramirez, attributed Mota's killing to organized crime, without citing a particular drug cartel or gang. ](/news/2016/01/2/gisela-mota-ocampo-mayor-of-temixco-in-mexico-s-morelos-state-is-assassinated-by-gunmen-at-her-home-less-than-a-day-after-taking-office-m.md) _Context: Mexican Drug War, Mexico_
 5. [Fugitive drug kingpin Joaquin "El Chapo" Guzman suffered injuries to his leg and face as he escaped Mexican authorities who were closing in on him in the mountains in Sinaloa in northwestern Mexico. ](/news/2015/10/17/fugitive-drug-kingpin-joaquan-el-chapo-guzma-n-suffered-injuries-to-his-leg-and-face-as-he-escaped-mexican-authorities-who-were-closing-i.md) _Context: Mexican Drug War, Mexico_
-
-### Changes:
-
-1. [Mexican Drug War: Mexican Army soldiers kill 22 criminals in a shootout at a warehouse in the town of Tlatlaya in central Mexico. ](/news/2014/06/30/mexican-drug-war-mexican-army-soldiers-kill-22-criminals-in-a-shootout-at-a-warehouse-in-the-town-of-tlatlaya-in-central-mexico.md) _2017-08-27 03:40:55 (First version)_
-1. [Mexican Army soldiers kill 22 criminals in a shootout at a warehouse in the town of Tlatlaya in central Mexico. ](/news/2014/06/30/mexican-army-soldiers-kill-22-criminals-in-a-shootout-at-a-warehouse-in-the-town-of-tlatlaya-in-central-mexico.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/14/ten-turkish-policemen-are-injured-by-a-roadside-bomb-explosion-in-van.html)  [JSON](/news/2012/07/14/ten-turkish-policemen-are-injured-by-a-roadside-bomb-explosion-in-van.json)  [XML](/news/2012/07/14/ten-turkish-policemen-are-injured-by-a-roadside-bomb-explosion-in-van.xml)  
+
 ### [2012-07-14](/news/2012/07/14/index.md)
 
+##### Van
 # Ten Turkish policemen are injured by a roadside bomb explosion in Van. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via The Sacramento Bee](http://www.sacbee.com/2012/07/14/4630878/report-6-policemen-injured-in.html)
 

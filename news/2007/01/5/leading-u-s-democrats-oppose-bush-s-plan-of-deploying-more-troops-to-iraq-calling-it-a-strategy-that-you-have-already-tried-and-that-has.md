@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/5/leading-u-s-democrats-oppose-bush-s-plan-of-deploying-more-troops-to-iraq-calling-it-a-strategy-that-you-have-already-tried-and-that-has.html)  [JSON](/news/2007/01/5/leading-u-s-democrats-oppose-bush-s-plan-of-deploying-more-troops-to-iraq-calling-it-a-strategy-that-you-have-already-tried-and-that-has.json)  [XML](/news/2007/01/5/leading-u-s-democrats-oppose-bush-s-plan-of-deploying-more-troops-to-iraq-calling-it-a-strategy-that-you-have-already-tried-and-that-has.xml)  
+
 ### [2007-01-5](/news/2007/01/5/index.md)
 
+##### George W. Bush
 #  Leading U.S. Democrats oppose Bush's plan of deploying more troops to Iraq, calling it "a strategy that you have already tried and that has already failed." 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/POLITICS/01/05/us.iraq/index.html)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2007-01-05T220619Z_01_N05297413_RTRUKOC_0_US-IRAQ-DEMOCRATS-DURBIN.xml&WTmodLoc=Home-C2-TopNews-newsOne-2)

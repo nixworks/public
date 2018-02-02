@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/19/the-muslim-brotherhood-calls-for-millions-of-supporters-to-hold-rallies-across-egypt-two-weeks-after-mohamed-morsi-was-deposed-as-president.html)  [JSON](/news/2013/07/19/the-muslim-brotherhood-calls-for-millions-of-supporters-to-hold-rallies-across-egypt-two-weeks-after-mohamed-morsi-was-deposed-as-president.json)  [XML](/news/2013/07/19/the-muslim-brotherhood-calls-for-millions-of-supporters-to-hold-rallies-across-egypt-two-weeks-after-mohamed-morsi-was-deposed-as-president.xml)  
+
 ### [2013-07-19](/news/2013/07/19/index.md)
 
+##### Muslim Brotherhood
 # The Muslim Brotherhood calls for millions of supporters to hold rallies across Egypt two weeks after Mohamed Morsi was deposed as president. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://worldnews.nbcnews.com/_news/2013/07/19/19554486-muslim-brotherhood-official-to-nbc-news-we-are-willing-to-die-for-democracy?lite)
 

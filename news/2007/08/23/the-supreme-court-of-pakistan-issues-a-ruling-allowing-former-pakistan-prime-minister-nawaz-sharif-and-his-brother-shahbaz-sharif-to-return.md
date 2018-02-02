@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/23/the-supreme-court-of-pakistan-issues-a-ruling-allowing-former-pakistan-prime-minister-nawaz-sharif-and-his-brother-shahbaz-sharif-to-return.html)  [JSON](/news/2007/08/23/the-supreme-court-of-pakistan-issues-a-ruling-allowing-former-pakistan-prime-minister-nawaz-sharif-and-his-brother-shahbaz-sharif-to-return.json)  [XML](/news/2007/08/23/the-supreme-court-of-pakistan-issues-a-ruling-allowing-former-pakistan-prime-minister-nawaz-sharif-and-his-brother-shahbaz-sharif-to-return.xml)  
+
 ### [2007-08-23](/news/2007/08/23/index.md)
 
+##### Supreme Court
 #  The Supreme Court of Pakistan issues a ruling allowing former Pakistan Prime Minister Nawaz Sharif and his brother Shahbaz Sharif to return to Pakistan. 
 
 

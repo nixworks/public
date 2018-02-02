@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/the-united-nations-states-more-than-four-million-people-are-now-affected-by-the-most-severe-flooding-in-pakistan-s-history-while-the-death.html)  [JSON](/news/2010/08/5/the-united-nations-states-more-than-four-million-people-are-now-affected-by-the-most-severe-flooding-in-pakistan-s-history-while-the-death.json)  [XML](/news/2010/08/5/the-united-nations-states-more-than-four-million-people-are-now-affected-by-the-most-severe-flooding-in-pakistan-s-history-while-the-death.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### United Nations
 # The United Nations states more than four million people are now affected by the most severe flooding in Pakistan's history, while the death toll rises to at least 1,600. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201085183457123771.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-10878458)

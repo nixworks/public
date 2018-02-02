@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/19/a-6-1-magnitude-earthquake-strikes-in-southern-kyrgyzstan-near-the-border-with-uzbekistan.html)  [JSON](/news/2011/07/19/a-6-1-magnitude-earthquake-strikes-in-southern-kyrgyzstan-near-the-border-with-uzbekistan.json)  [XML](/news/2011/07/19/a-6-1-magnitude-earthquake-strikes-in-southern-kyrgyzstan-near-the-border-with-uzbekistan.xml)  
+
 ### [2011-07-19](/news/2011/07/19/index.md)
 
+##### earthquake
 # A 6.1 magnitude earthquake strikes in southern Kyrgyzstan, near the border with Uzbekistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jgsH7L6hzL_qFQa_0gYZ054zdkiw?docId=c0488f2ac1464e18bd252ad1b0167863)
 

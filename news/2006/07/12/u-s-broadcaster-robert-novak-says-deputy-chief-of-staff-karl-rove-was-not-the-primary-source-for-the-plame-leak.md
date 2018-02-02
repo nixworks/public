@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2006/07/12/u-s-broadcaster-robert-novak-says-deputy-chief-of-staff-karl-rove-was-not-the-primary-source-for-the-plame-leak.html)  [JSON](/news/2006/07/12/u-s-broadcaster-robert-novak-says-deputy-chief-of-staff-karl-rove-was-not-the-primary-source-for-the-plame-leak.json)  [XML](/news/2006/07/12/u-s-broadcaster-robert-novak-says-deputy-chief-of-staff-karl-rove-was-not-the-primary-source-for-the-plame-leak.xml)  
+
 ### [2006-07-12](/news/2006/07/12/index.md)
 
+##### Robert Novak
 #  U.S. broadcaster Robert Novak says Deputy Chief of Staff Karl Rove was not the primary source for the Plame leak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Human Events](http://www.humaneventsonline.com/article.php?id=15988)
-2. [Wash Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/07/11/AR2006071100903_pf.html)
+2. [Wash Post](https://www.washingtonpost.com/wp-dyn/content/article/2006/07/11/AR2006071100903_pf.html)
 
 ### Related:
 

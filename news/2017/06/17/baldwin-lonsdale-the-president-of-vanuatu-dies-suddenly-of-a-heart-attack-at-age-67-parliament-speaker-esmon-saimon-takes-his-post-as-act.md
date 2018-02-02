@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/17/baldwin-lonsdale-the-president-of-vanuatu-dies-
 
 ### [2017-06-17](/news/2017/06/17/index.md)
 
+##### Politics of Vanuatu
 # Baldwin Lonsdale, the President of Vanuatu, dies suddenly of a heart attack at age 67. Parliament Speaker Esmon Saimon takes his post as acting president. 
 
 Vanuatu was in a state of mourning on Saturday after its revered president, Baldwin Lonsdale, died unexpectedly. He was 67.

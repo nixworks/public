@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/12/rihab-rashid-taha-the-alleged-iraqi-biological-weapons-chief-known-as-dr-germ-is-taken-into-custody-she-is-not-on-the-u-s-list-of-mos.html)  [JSON](/news/2003/05/12/rihab-rashid-taha-the-alleged-iraqi-biological-weapons-chief-known-as-dr-germ-is-taken-into-custody-she-is-not-on-the-u-s-list-of-mos.json)  [XML](/news/2003/05/12/rihab-rashid-taha-the-alleged-iraqi-biological-weapons-chief-known-as-dr-germ-is-taken-into-custody-she-is-not-on-the-u-s-list-of-mos.xml)  
+
 ### [2003-05-12](/news/2003/05/12/index.md)
 
+##### Rihab Rashid Taha
 #  Rihab Rashid Taha, the alleged Iraqi biological weapons chief known as "Dr Germ", is taken into custody. She is not on the U.S. list of most-wanted Iraqis because she has been out of power for several years.
 
 

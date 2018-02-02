@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2004/05/4/william-krar-a-texan-with-ties-to-white-supremacists-is-sentenced-to-11-years-in-prison-after-he-pled-guilty-to-building-and-possessing-c.html)  [JSON](/news/2004/05/4/william-krar-a-texan-with-ties-to-white-supremacists-is-sentenced-to-11-years-in-prison-after-he-pled-guilty-to-building-and-possessing-c.json)  [XML](/news/2004/05/4/william-krar-a-texan-with-ties-to-white-supremacists-is-sentenced-to-11-years-in-prison-after-he-pled-guilty-to-building-and-possessing-c.xml)  
+
 ### [2004-05-4](/news/2004/05/4/index.md)
 
+##### William Krar
 #  William Krar, a Texan with ties to white supremacists, is sentenced to 11 years in prison after he pled guilty to building and possessing chemical weapons in what has been described as one of the most serious cases of domestic terrorism since the Oklahoma City bombing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.napanews.com/templates/index.cfm?template=story_full&id=9D892811-4D6D-42DE-BE5E-3CD674CE1E7C)
 2. [KRT](http://www.sanluisobispo.com/mld/sanluisobispo/news/nation/8589208.htm)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5039866)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5039866)
 
 ### Related:
 

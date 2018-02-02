@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/1/floods-in-northeastern-china-kill-more-than-100-people-and-sweep-3-000-chemical-filled-barrels-into-the-songhua-river.html)  [JSON](/news/2010/08/1/floods-in-northeastern-china-kill-more-than-100-people-and-sweep-3-000-chemical-filled-barrels-into-the-songhua-river.json)  [XML](/news/2010/08/1/floods-in-northeastern-china-kill-more-than-100-people-and-sweep-3-000-chemical-filled-barrels-into-the-songhua-river.xml)  
+
 ### [2010-08-1](/news/2010/08/1/index.md)
 
+##### China
 # Floods in northeastern China kill more than 100 people and sweep 3,000 chemical-filled barrels into the Songhua River. 
 
 More deaths and destruction after northeastern region hit by worst flood in a decade.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jRLi1Yi66uzI_dgPqjpD6OrKW-MQ)
 2. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201081143542397789.html)

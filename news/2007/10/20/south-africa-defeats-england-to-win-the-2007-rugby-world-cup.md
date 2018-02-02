@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/20/south-africa-defeats-england-to-win-the-2007-rugby-world-cup.html)  [JSON](/news/2007/10/20/south-africa-defeats-england-to-win-the-2007-rugby-world-cup.json)  [XML](/news/2007/10/20/south-africa-defeats-england-to-win-the-2007-rugby-world-cup.xml)  
+
 ### [2007-10-20](/news/2007/10/20/index.md)
 
+##### South Africa
 #  South Africa defeats England to win the 2007 Rugby World Cup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/rugby_union/7052822.stm)
 

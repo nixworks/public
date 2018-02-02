@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/18/former-canadian-cabinet-minister-alfonso-gagliano-vehemently-denies-he-has-any-links-with-new-york-s-bonanno-crime-family-as-was-reported.html)  [JSON](/news/2004/11/18/former-canadian-cabinet-minister-alfonso-gagliano-vehemently-denies-he-has-any-links-with-new-york-s-bonanno-crime-family-as-was-reported.json)  [XML](/news/2004/11/18/former-canadian-cabinet-minister-alfonso-gagliano-vehemently-denies-he-has-any-links-with-new-york-s-bonanno-crime-family-as-was-reported.xml)  
+
 ### [2004-11-18](/news/2004/11/18/index.md)
 
+##### cabinet
 #  Former Canadian cabinet minister Alfonso Gagliano vehemently denies he has any links with New York's Bonanno crime family, as was reported on November 17 in the "New York Daily News". The issue is raised by Opposition Leader Stephen Harper in the House of Commons, where Canadian Prime Minister Paul Martin also denies knowing of any links between the Sicilian-born Gagliano and organized crime. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CP](http://story.news.yahoo.com/news?tmpl=story&cid=1845&ncid=1845&e=5&u=/cpress/20041119/ca_pr_on_na/gagliano_mob)
 

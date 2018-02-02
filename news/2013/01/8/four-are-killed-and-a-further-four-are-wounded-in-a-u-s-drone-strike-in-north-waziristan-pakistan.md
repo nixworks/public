@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2013/01/8/four-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.html)  [JSON](/news/2013/01/8/four-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.json)  [XML](/news/2013/01/8/four-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.xml)  
+
 ### [2013-01-8](/news/2013/01/8/index.md)
 
+##### U.S.
 # Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://dawn.com/2013/01/08/us-drone-attack-kills-four-in-north-waziristan-officials/)
+
+### Changes:
+
+1. [War in North-West Pakistan:Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/war-in-north-west-pakistan-pfour-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md) _2017-08-25 03:37:14 (First version)_
+2. [War in North-West Pakistan:: Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/war-in-north-west-pakistan-four-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md) _2017-08-27 03:37:24 (Update)_
+2. [Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/four-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [A roadside bomb near the Afghan border in North Waziristan, Pakistan, kills 8 Pakistani soldiers. ](/news/2014/05/8/a-roadside-bomb-near-the-afghan-border-in-north-waziristan-pakistan-kills-8-pakistani-soldiers.md) _Context: North Waziristan, Pakistan_
 4. [Pakistani military aircraft bomb suspected Taliban hideouts killing 25 militants in North Waziristan. ](/news/2014/01/21/pakistani-military-aircraft-bomb-suspected-taliban-hideouts-killing-25-militants-in-north-waziristan.md) _Context: North Waziristan, Pakistan_
 5. [A roadside bomb targeting a passing Pakistani army convoy kills nine soldiers in North Waziristan near Pakistan's border with Afghanistan. ](/news/2013/09/1/a-roadside-bomb-targeting-a-passing-pakistani-army-convoy-kills-nine-soldiers-in-north-waziristan-near-pakistan-s-border-with-afghanistan.md) _Context: North Waziristan, Pakistan_
-
-### Changes:
-
-1. [War in North-West Pakistan:Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/war-in-north-west-pakistan-pfour-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md) _2017-08-25 03:37:14 (First version)_
-2. [War in North-West Pakistan:: Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/war-in-north-west-pakistan-four-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md) _2017-08-27 03:37:24 (Update)_
-2. [Four are killed and a further four are wounded in a U.S. drone strike in North Waziristan, Pakistan. ](/news/2013/01/8/four-are-killed-and-a-further-four-are-wounded-in-a-u-s-drone-strike-in-north-waziristan-pakistan.md) _(Current version)_

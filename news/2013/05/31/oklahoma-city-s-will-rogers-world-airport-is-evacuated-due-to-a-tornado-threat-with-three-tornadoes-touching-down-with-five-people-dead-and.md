@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/05/31/oklahoma-city-s-will-rogers-world-airport-is-evacuated-due-to-a-tornado-threat-with-three-tornadoes-touching-down-with-five-people-dead-and.html)  [JSON](/news/2013/05/31/oklahoma-city-s-will-rogers-world-airport-is-evacuated-due-to-a-tornado-threat-with-three-tornadoes-touching-down-with-five-people-dead-and.json)  [XML](/news/2013/05/31/oklahoma-city-s-will-rogers-world-airport-is-evacuated-due-to-a-tornado-threat-with-three-tornadoes-touching-down-with-five-people-dead-and.xml)  
+
 ### [2013-05-31](/news/2013/05/31/index.md)
 
+##### Oklahoma City
 # Oklahoma City's Will Rogers World Airport is evacuated due to a tornado threat with three tornadoes touching down with five people dead and others reported missing. 
 
-Deadly storm bore down on an interstate highway as commuters tried to beat it home during evening rush hour.
 
 
-### Source:
+
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/05/31/us/severe-weather/index.html)
-2. [USA Today](http://www.usatoday.com/story/weather/2013/05/31/tornado-oklahoma/2378497/)
+2. [USA Today](https://www.usatoday.com/story/weather/2013/05/31/tornado-oklahoma/2378497/)
 2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

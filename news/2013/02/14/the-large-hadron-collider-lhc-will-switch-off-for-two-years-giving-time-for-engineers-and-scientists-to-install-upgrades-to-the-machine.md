@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/14/the-large-hadron-collider-lhc-will-switch-off-for-two-years-giving-time-for-engineers-and-scientists-to-install-upgrades-to-the-machine.html)  [JSON](/news/2013/02/14/the-large-hadron-collider-lhc-will-switch-off-for-two-years-giving-time-for-engineers-and-scientists-to-install-upgrades-to-the-machine.json)  [XML](/news/2013/02/14/the-large-hadron-collider-lhc-will-switch-off-for-two-years-giving-time-for-engineers-and-scientists-to-install-upgrades-to-the-machine.xml)  
+
 ### [2013-02-14](/news/2013/02/14/index.md)
 
+##### Large Hadron Collider
 # The Large Hadron Collider (LHC) will switch off for two years, giving time for engineers and scientists to install upgrades to the machine. 
 
 The Large Hadron Collider shuts down for a two-year-long period of maintenance and upgrades that should see a near-doubling of its collision energies.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-21421460)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65863000/jpg/_65863874_65863873.jpg)

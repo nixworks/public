@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/3/the-marburg-virus-death-toll-in-angola-rises-to-146-one-of-them-an-italian-female-physician-in-uige.html)  [JSON](/news/2005/04/3/the-marburg-virus-death-toll-in-angola-rises-to-146-one-of-them-an-italian-female-physician-in-uige.json)  [XML](/news/2005/04/3/the-marburg-virus-death-toll-in-angola-rises-to-146-one-of-them-an-italian-female-physician-in-uige.xml)  
+
 ### [2005-04-3](/news/2005/04/3/index.md)
 
+##### Marburg virus
 #  The Marburg virus death toll in Angola rises to 146, one of them an Italian female physician in Uige. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4407461.stm)
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1684580,00.html)

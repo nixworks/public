@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/10/kazakh-police-kill-five-additional-suspected-mi
 
 ### [2016-06-10](/news/2016/06/10/index.md)
 
+##### 2016 Aktobe shootings
 # Kazakh police kill five additional suspected militants in Aktobe as part of a "counterterrorism operation". 
 
 

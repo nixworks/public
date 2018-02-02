@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2004/09/14/hurricane-warnings-are-issued-for-puerto-rico-and-the-united-states-virgin-islands-in-anticipation-of-tropical-storm-jeanne-which-is-expec.html)  [JSON](/news/2004/09/14/hurricane-warnings-are-issued-for-puerto-rico-and-the-united-states-virgin-islands-in-anticipation-of-tropical-storm-jeanne-which-is-expec.json)  [XML](/news/2004/09/14/hurricane-warnings-are-issued-for-puerto-rico-and-the-united-states-virgin-islands-in-anticipation-of-tropical-storm-jeanne-which-is-expec.xml)  
+
 ### [2004-09-14](/news/2004/09/14/index.md)
 
+##### Hurricane warning
 #  Hurricane warnings are issued for Puerto Rico and the United States Virgin Islands in anticipation of Tropical Storm Jeanne, which is expected to become a hurricane by tomorrow. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NOAA/NHC](http://www.nhc.noaa.gov/archive/2004/pub/al092004.public.047.shtml?)
 2. [NOAA/NHC](http://www.nhc.noaa.gov/archive/2004/pub/al092004.public_a.049.shtml?)
 3. [NOAA/NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/142117.shtml?)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml;jsessionid=CIC5MLMQSRTC2CRBAELCFFA?type=topNews&storyID=6225759)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml;jsessionid=CIC5MLMQSRTC2CRBAELCFFA?type=topNews&storyID=6225759)
 
 ### Related:
 

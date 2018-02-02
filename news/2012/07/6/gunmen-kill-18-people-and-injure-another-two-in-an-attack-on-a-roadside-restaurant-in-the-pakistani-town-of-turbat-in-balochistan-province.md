@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/07/6/gunmen-kill-18-people-and-injure-another-two-in-an-attack-on-a-roadside-restaurant-in-the-pakistani-town-of-turbat-in-balochistan-province.html)  [JSON](/news/2012/07/6/gunmen-kill-18-people-and-injure-another-two-in-an-attack-on-a-roadside-restaurant-in-the-pakistani-town-of-turbat-in-balochistan-province.json)  [XML](/news/2012/07/6/gunmen-kill-18-people-and-injure-another-two-in-an-attack-on-a-roadside-restaurant-in-the-pakistani-town-of-turbat-in-balochistan-province.xml)  
+
 ### [2012-07-6](/news/2012/07/6/index.md)
 
+##### Pakistan
 # Gunmen kill 18 people and injure another two in an attack on a roadside restaurant in the Pakistani town of Turbat in Balochistan province. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia_pacific/pakistani-intelligence-officials-say-us-drone-strike-kills-4-militants-near-afghan-border/2012/07/06/gJQA1qH1RW_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia_pacific/pakistani-intelligence-officials-say-us-drone-strike-kills-4-militants-near-afghan-border/2012/07/06/gJQA1qH1RW_story.html)
 
 ### Related:
 

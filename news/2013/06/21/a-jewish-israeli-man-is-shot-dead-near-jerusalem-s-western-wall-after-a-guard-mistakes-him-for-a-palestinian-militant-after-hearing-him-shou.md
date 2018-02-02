@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/21/a-jewish-israeli-man-is-shot-dead-near-jerusalem-s-western-wall-after-a-guard-mistakes-him-for-a-palestinian-militant-after-hearing-him-shou.html)  [JSON](/news/2013/06/21/a-jewish-israeli-man-is-shot-dead-near-jerusalem-s-western-wall-after-a-guard-mistakes-him-for-a-palestinian-militant-after-hearing-him-shou.json)  [XML](/news/2013/06/21/a-jewish-israeli-man-is-shot-dead-near-jerusalem-s-western-wall-after-a-guard-mistakes-him-for-a-palestinian-militant-after-hearing-him-shou.xml)  
+
 ### [2013-06-21](/news/2013/06/21/index.md)
 
+##### Jews
 # A Jewish Israeli man is shot dead near Jerusalem's Western Wall after a guard mistakes him for a Palestinian militant after hearing him shout "Allahu Akbar". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-22998915#)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/68296000/jpg/_68296545_68296544.jpg)

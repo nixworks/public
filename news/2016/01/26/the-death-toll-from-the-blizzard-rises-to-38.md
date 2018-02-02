@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/26/the-death-toll-from-the-blizzard-rises-to-38.ht
 
 ### [2016-01-26](/news/2016/01/26/index.md)
 
+##### January 2016 United States blizzard
 # The death toll from the blizzard rises to 38. 
 
 Get the latest breaking news across the U.S. on ABCNews.com

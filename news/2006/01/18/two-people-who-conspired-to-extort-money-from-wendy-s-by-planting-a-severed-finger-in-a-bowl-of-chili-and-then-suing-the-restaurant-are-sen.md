@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/18/two-people-who-conspired-to-extort-money-from-wendy-s-by-planting-a-severed-finger-in-a-bowl-of-chili-and-then-suing-the-restaurant-are-sen.html)  [JSON](/news/2006/01/18/two-people-who-conspired-to-extort-money-from-wendy-s-by-planting-a-severed-finger-in-a-bowl-of-chili-and-then-suing-the-restaurant-are-sen.json)  [XML](/news/2006/01/18/two-people-who-conspired-to-extort-money-from-wendy-s-by-planting-a-severed-finger-in-a-bowl-of-chili-and-then-suing-the-restaurant-are-sen.xml)  
+
 ### [2006-01-18](/news/2006/01/18/index.md)
 
+##### Wendy's
 #  Two people who conspired to extort money from Wendy's by planting a severed finger in a bowl of chili and then suing the restaurant are sentenced to about ten years each in prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060118/wendys_chili_jail_060118/20060118?hub=World)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/9/president-cristina-fernandez-de-kirchner-of-argentina-successfully-undergoes-surgery-to-remove-a-subdural-hematoma-presidential-duties-will.html)  [JSON](/news/2013/10/9/president-cristina-fernandez-de-kirchner-of-argentina-successfully-undergoes-surgery-to-remove-a-subdural-hematoma-presidential-duties-will.json)  [XML](/news/2013/10/9/president-cristina-fernandez-de-kirchner-of-argentina-successfully-undergoes-surgery-to-remove-a-subdural-hematoma-presidential-duties-will.xml)  
+
 ### [2013-10-9](/news/2013/10/9/index.md)
 
+##### President of Argentina
 # President Cristina Fernndez de Kirchner of Argentina successfully undergoes surgery to remove a subdural hematoma. Presidential duties will be carried out by Vice President Amado Boudou for the duration of Kirchner's estimated month-long recovery. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-24438437)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70326000/jpg/_70326932_kirchner.jpg)

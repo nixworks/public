@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2014/08/12/artur-avila-manjul-bhargava-martin-hairer-and-maryam-mirzakhani-are-awarded-fields-medals-mirzakhani-became-the-first-female-and-the-fir.html)  [JSON](/news/2014/08/12/artur-avila-manjul-bhargava-martin-hairer-and-maryam-mirzakhani-are-awarded-fields-medals-mirzakhani-became-the-first-female-and-the-fir.json)  [XML](/news/2014/08/12/artur-avila-manjul-bhargava-martin-hairer-and-maryam-mirzakhani-are-awarded-fields-medals-mirzakhani-became-the-first-female-and-the-fir.xml)  
+
 ### [2014-08-12](/news/2014/08/12/index.md)
 
+##### Artur Avila
 # Artur Avila, Manjul Bhargava, Martin Hairer, and Maryam Mirzakhani are awarded Fields Medals. Mirzakhani became the first female and the first Iranian Fields medalist. 
 
 Maryam Mirzakhani is among four young researchers to win Fields Medals, awarded every four years.
 
 
-### Source:
+### Sources:
 
 1. [Fields Medals 2014 (IMU](http://www.mathunion.org/general/prizes/2014/)
 2. [Nature](http://www.nature.com/news/iranian-is-first-woman-to-nab-highest-prize-in-maths-1.15686?WT.mc_id=FBK_NatureNews)
-3. [New Scientist](http://www.newscientist.com/article/dn26044-iranian-woman-wins-maths-top-prize-the-fields-medal.html#.U-qB7vldV1k)
+3. [New Scientist](https://www.newscientist.com/article/dn26044-iranian-woman-wins-maths-top-prize-the-fields-medal.html#.U-qB7vldV1k)
 3. [Cover Image](http://www.nature.com/polopoly_fs/7.19063.1407863995!/image/Maryam_Mirzakhani_web.jpg_gen/derivatives/nature_homepage/Maryam_Mirzakhani_web.jpg)
 
 ### Related:

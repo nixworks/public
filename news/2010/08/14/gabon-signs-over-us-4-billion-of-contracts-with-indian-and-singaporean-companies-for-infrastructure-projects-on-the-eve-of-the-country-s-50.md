@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/gabon-signs-over-us-4-billion-of-contracts-with-indian-and-singaporean-companies-for-infrastructure-projects-on-the-eve-of-the-country-s-50.html)  [JSON](/news/2010/08/14/gabon-signs-over-us-4-billion-of-contracts-with-indian-and-singaporean-companies-for-infrastructure-projects-on-the-eve-of-the-country-s-50.json)  [XML](/news/2010/08/14/gabon-signs-over-us-4-billion-of-contracts-with-indian-and-singaporean-companies-for-infrastructure-projects-on-the-eve-of-the-country-s-50.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### Gabon
 # Gabon signs over US$4 billion of contracts with Indian and Singaporean companies for infrastructure projects, on the eve of the country's 50th anniversary since independence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5im6tYmfieW1n9a-rmH0R1QPtWLAA)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=138718&sectionid=351020506)

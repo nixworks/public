@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/1/police-fire-tear-gas-and-arrest-over-400-people-at-street-protests-over-laws-that-can-see-people-detained-indefinitely-without-trial-by-the.html)  [JSON](/news/2009/08/1/police-fire-tear-gas-and-arrest-over-400-people-at-street-protests-over-laws-that-can-see-people-detained-indefinitely-without-trial-by-the.json)  [XML](/news/2009/08/1/police-fire-tear-gas-and-arrest-over-400-people-at-street-protests-over-laws-that-can-see-people-detained-indefinitely-without-trial-by-the.xml)  
+
 ### [2009-08-1](/news/2009/08/1/index.md)
 
+##### Kuala Lumpur
 #  Police fire tear gas and arrest over 400 people at street protests over laws that can see people detained indefinitely without trial by the authorities in Kuala Lumpur, Malaysia. 
 
 Thousands of people have taken to the streets of Kuala Lumpur in protest at laws that can see people detained indefinitely by the authorities.
 
 
-### Source:
+### Sources:
 
 1. [Malaysian Insider](http://www.themalaysianinsider.com/index.php/malaysia/33970-beatings-tear-gas-and-water-cannons-a-setback-for-najibs-reforms)
 2. [RTÉ](http://www.rte.ie/news/2009/0801/malaysia.html)

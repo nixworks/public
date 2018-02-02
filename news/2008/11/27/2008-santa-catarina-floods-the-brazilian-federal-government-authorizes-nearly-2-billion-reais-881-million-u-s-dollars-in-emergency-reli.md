@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2008/11/27/2008-santa-catarina-floods-the-brazilian-federal-government-authorizes-nearly-2-billion-reais-881-million-u-s-dollars-in-emergency-reli.html)  [JSON](/news/2008/11/27/2008-santa-catarina-floods-the-brazilian-federal-government-authorizes-nearly-2-billion-reais-881-million-u-s-dollars-in-emergency-reli.json)  [XML](/news/2008/11/27/2008-santa-catarina-floods-the-brazilian-federal-government-authorizes-nearly-2-billion-reais-881-million-u-s-dollars-in-emergency-reli.xml)  
+
 ### [2008-11-27](/news/2008/11/27/index.md)
 
+##### 2008 Santa Catarina floods
 #  2008 Santa Catarina floods: The Brazilian federal government authorizes nearly 2 billion reais (881 million U.S. dollars) in emergency relief funds. 
 
 Brazil sent hundreds of stateand federal police officers on Wednesday to quell looting byhomeless and hungry landslide victims facing the threat ofdisease after heavy flooding that authorities say killed morethan 100 people and displaced 54,000.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/companyNews/idUSN2633515020081126)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/companyNews/idUSN2633515020081126)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
 1. [ Flooding in the Southern Brazilian state of Santa Catarina causes at least 45 deaths and forces the evacuation of 20,000 people. ](/news/2008/11/24/flooding-in-the-southern-brazilian-state-of-santa-catarina-causes-at-least-45-deaths-and-forces-the-evacuation-of-20-000-people.md) _Context: 2008 Santa Catarina floods, Brazil_
-2. [ The Brazilian government passes legislation aimed at curbing Amazon deforestation. ](/news/2008/01/24/the-brazilian-government-passes-legislation-aimed-at-curbing-amazon-deforestation.md) _Context: Brazil, federal government_
-3. [In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center, killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injured. ](/news/2017/10/5/in-the-town-of-janaaoba-minas-gerais-state-brazil-a-recently-dismissed-security-guard-set-fire-to-a-childcare-center-killing-at-least-fo.md) _Context: Brazil_
-4. [Brazilian police detain fugitive Italian former left-wing guerrilla and convicted murderer Cesare Battisti, as he was attempting to flee across the border into Bolivia to avoid extradition back to Italy and facing his life sentence prison term for four murders in the 1970s. ](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.md) _Context: Brazil_
-5. [Brazilian prosecutor Rodrigo Janot files charges in the Supreme Court against officials in President Michel Temer's Brazilian Democratic Movement Party accusing them of forming a criminal organization. Earlier the Court said, next week, it will consider Temer's request to block Janot from issuing further charges. ](/news/2017/09/8/brazilian-prosecutor-rodrigo-janot-files-charges-in-the-supreme-court-against-officials-in-president-michel-temeras-brazilian-democratic-m.md) _Context: Brazil_
+2. [ The Brazilian government passes legislation aimed at curbing Amazon deforestation. ](/news/2008/01/24/the-brazilian-government-passes-legislation-aimed-at-curbing-amazon-deforestation.md) _Context: Brazil, Politics of Brazil_
+3. [The Brazil Workers' Party (PT) insists that former president Luiz Inacio Lula da Silva will be their candidate for the upcoming presidential election even as a conviction for corruption bars him from participating. The SGBPo Paulo stock market hits new highs and the value of the Brazilian real strengthens. ](/news/2018/01/25/the-brazil-workers-party-pt-insists-that-former-president-luiz-ina-cio-lula-da-silva-will-be-their-candidate-for-the-upcoming-presidentia.md) _Context: Politics of Brazil_
+4. [The state government of Minas Gerais, Brazil, declares a health emergency in three areas, Belo Horizonte, Itabira and Ponte Nova, over an outbreak of yellow fever. ](/news/2018/01/20/the-state-government-of-minas-gerais-brazil-declares-a-health-emergency-in-three-areas-belo-horizonte-itabira-and-ponte-nova-over-an-ou.md) _Context: Brazil_
+5. [Fifteen people are injured and an infant is killed after a car hits a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report that the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-is-killed-after-a-car-hits-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil.md) _Context: Brazil_

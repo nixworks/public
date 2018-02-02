@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/22/france-plans-to-use-drones-in-mali.html)  [JSON](/news/2012/10/22/france-plans-to-use-drones-in-mali.json)  [XML](/news/2012/10/22/france-plans-to-use-drones-in-mali.xml)  
+
 ### [2012-10-22](/news/2012/10/22/index.md)
 
+##### France
 # France plans to use drones in Mali. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/oct/22/france-drones-mali-insurgents)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/3/the-u-s-securities-and-exchange-commission-finds-further-evidence-of-widespread-irregularities-in-the-mutual-fund-industry-the-head-of-pu.html)  [JSON](/news/2003/11/3/the-u-s-securities-and-exchange-commission-finds-further-evidence-of-widespread-irregularities-in-the-mutual-fund-industry-the-head-of-pu.json)  [XML](/news/2003/11/3/the-u-s-securities-and-exchange-commission-finds-further-evidence-of-widespread-irregularities-in-the-mutual-fund-industry-the-head-of-pu.xml)  
+
 ### [2003-11-3](/news/2003/11/3/index.md)
 
+##### Securities and Exchange Commission
 #  The U.S. Securities and Exchange Commission finds further evidence of widespread irregularities in the mutual fund industry. The head of Putnam Investments has resigned.
 
 

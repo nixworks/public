@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2007/08/6/six-miners-are-trapped-in-a-coal-mine-15-miles-west-of-huntington-utah-a-3-9-to-4-5.html)  [JSON](/news/2007/08/6/six-miners-are-trapped-in-a-coal-mine-15-miles-west-of-huntington-utah-a-3-9-to-4-5.json)  [XML](/news/2007/08/6/six-miners-are-trapped-in-a-coal-mine-15-miles-west-of-huntington-utah-a-3-9-to-4-5.xml)  
+
 ### [2007-08-6](/news/2007/08/6/index.md)
 
+##### miner
 #  Six miners are trapped in a coal mine 15 miles west of Huntington, Utah. A 3.9 to 4.5 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSN0641764920070806?src=080607_1406_TOPSTORY_coal_mine_collapses)
-2. [USGS](http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/uu00007535.php)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070806&t=2&i=1255435&w=&fh=545px&fw=&ll=&pl=&sq=&r=1255435)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSN0641764920070806?src=080607_1406_TOPSTORY_coal_mine_collapses)
+2. [USGS](https://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/uu00007535.php)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20070806&t=2&i=1255435&w=&fh=545px&fw=&ll=&pl=&sq=&r=1255435)
 
 ### Related:
 

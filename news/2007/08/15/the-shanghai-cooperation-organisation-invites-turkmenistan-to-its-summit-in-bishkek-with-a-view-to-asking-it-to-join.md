@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/15/the-shanghai-cooperation-organisation-invites-turkmenistan-to-its-summit-in-bishkek-with-a-view-to-asking-it-to-join.html)  [JSON](/news/2007/08/15/the-shanghai-cooperation-organisation-invites-turkmenistan-to-its-summit-in-bishkek-with-a-view-to-asking-it-to-join.json)  [XML](/news/2007/08/15/the-shanghai-cooperation-organisation-invites-turkmenistan-to-its-summit-in-bishkek-with-a-view-to-asking-it-to-join.xml)  
+
 ### [2007-08-15](/news/2007/08/15/index.md)
 
+##### Shanghai Cooperation Organisation
 #  The Shanghai Cooperation Organisation invites Turkmenistan to its summit in Bishkek with a view to asking it to join. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/russia/20070815/71620179.html)
 

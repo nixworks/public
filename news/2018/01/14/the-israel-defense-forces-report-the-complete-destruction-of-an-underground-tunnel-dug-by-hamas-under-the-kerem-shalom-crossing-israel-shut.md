@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/14/the-israel-defense-forces-report-the-complete-d
 
 ### [2018-01-14](/news/2018/01/14/index.md)
 
+##### Palestinian tunnel warfare in the Gaza Strip
 # The Israel Defense Forces report the complete destruction of an underground tunnel dug by Hamas under the Kerem Shalom crossing. Israel shut down the crossing before its jets bombed the tunnel opening in Gaza Saturday night. The crossing remains closed. 
 
 Departing for his state visit to India, PM Netanyahu confirms Israeli jets pounded the entrance of a 1.5km terror tunnel dug by Hamas from the Gazan to Egyptian side of Rafah, stating that the IDF’s actions are part of Israel’s &#39;vigorous and systematic action against hostile infrastructures.&#39;

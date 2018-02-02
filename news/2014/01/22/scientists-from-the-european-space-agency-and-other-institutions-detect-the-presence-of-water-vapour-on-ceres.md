@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/22/scientists-from-the-european-space-agency-and-other-institutions-detect-the-presence-of-water-vapour-on-ceres.html)  [JSON](/news/2014/01/22/scientists-from-the-european-space-agency-and-other-institutions-detect-the-presence-of-water-vapour-on-ceres.json)  [XML](/news/2014/01/22/scientists-from-the-european-space-agency-and-other-institutions-detect-the-presence-of-water-vapour-on-ceres.xml)  
+
 ### [2014-01-22](/news/2014/01/22/index.md)
 
+##### European Space Agency
 # Scientists from the European Space Agency and other institutions detect the presence of water vapour on Ceres. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nature](http://www.nature.com/nature/journal/v505/n7484/full/nature12918.html#author-information)
 

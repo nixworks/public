@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/07/15/the-hellenic-parliament-votes-to-approve-the-greek-bailout-package-despite-many-senior-lawmakers-from-the-ruling-syriza-party-refusing-to-vo.html)  [JSON](/news/2015/07/15/the-hellenic-parliament-votes-to-approve-the-greek-bailout-package-despite-many-senior-lawmakers-from-the-ruling-syriza-party-refusing-to-vo.json)  [XML](/news/2015/07/15/the-hellenic-parliament-votes-to-approve-the-greek-bailout-package-despite-many-senior-lawmakers-from-the-ruling-syriza-party-refusing-to-vo.xml)  
+
 ### [2015-07-15](/news/2015/07/15/index.md)
 
+##### Greek government-debt crisis
 # The Hellenic Parliament votes to approve the Greek bailout package despite many senior lawmakers from the ruling Syriza Party refusing to vote for the deal. 
 
 Greek MPs approve tough economic measures required to enable an €86bn eurozone bailout deal to go ahead, amid clashes outside parliament in Athens.
 
 
-### Source:
+### Sources:
 
-1. [AP via ''New York Times](http://www.nytimes.com/aponline/2015/07/15/world/europe/ap-eu-greece-bailout.html?_r=0)
+1. [AP via ''New York Times](https://www.nytimes.com/aponline/2015/07/15/world/europe/ap-eu-greece-bailout.html?_r=0)
 2. [BBC](http://www.bbc.com/news/world-europe-33535205)
 2. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/125B/production/_84299640_84299639.jpg)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/14/the-first-child-dies-during-the-2011-e-coli-o104-h4-outbreak-in-germany-with-a-total-of-36-deaths-in-germany-and-one-in-sweden.html)  [JSON](/news/2011/06/14/the-first-child-dies-during-the-2011-e-coli-o104-h4-outbreak-in-germany-with-a-total-of-36-deaths-in-germany-and-one-in-sweden.json)  [XML](/news/2011/06/14/the-first-child-dies-during-the-2011-e-coli-o104-h4-outbreak-in-germany-with-a-total-of-36-deaths-in-germany-and-one-in-sweden.xml)  
+
 ### [2011-06-14](/news/2011/06/14/index.md)
 
+##### E. coli blamed for 46 deaths
 # The first child dies during the 2011 E. coli O104:H4 outbreak in Germany with a total of 36 deaths in Germany and one in Sweden. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/health/2011-06/15/c_13929704.htm)
 

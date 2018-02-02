@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/03/14/david-beckham-tears-his-achilles-tendon-in-a-match-for-a-c-milan-he-is-ruled-out-for-the-2010-fifa-world-cup.html)  [JSON](/news/2010/03/14/david-beckham-tears-his-achilles-tendon-in-a-match-for-a-c-milan-he-is-ruled-out-for-the-2010-fifa-world-cup.json)  [XML](/news/2010/03/14/david-beckham-tears-his-achilles-tendon-in-a-match-for-a-c-milan-he-is-ruled-out-for-the-2010-fifa-world-cup.xml)  
+
 ### [2010-03-14](/news/2010/03/14/index.md)
 
+##### David Beckham
 # David Beckham tears his Achilles tendon in a match for A.C. Milan. He is ruled out for the 2010 FIFA World Cup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/SPORT/football/03/14/football.milan.chievo.juventus/)
 2. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/soccer/6913056.html)
-3. [The New York Times](http://www.nytimes.com/reuters/2010/03/14/sports/sports-uk-soccer-italy-beckham.html)
+3. [The New York Times](https://www.nytimes.com/reuters/2010/03/14/sports/sports-uk-soccer-italy-beckham.html)
 4. [The Times](http://www.timesonline.co.uk/tol/sport/football/international/article7061827.ece)
 
 ### Related:

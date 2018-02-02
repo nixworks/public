@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/7/a-court-in-zimbabwe-frees-38-people-detained-for-weeks-on-charges-of-attempting-to-overthrow-president-robert-mugabe-after-they-watched-vid.html)  [JSON](/news/2011/03/7/a-court-in-zimbabwe-frees-38-people-detained-for-weeks-on-charges-of-attempting-to-overthrow-president-robert-mugabe-after-they-watched-vid.json)  [XML](/news/2011/03/7/a-court-in-zimbabwe-frees-38-people-detained-for-weeks-on-charges-of-attempting-to-overthrow-president-robert-mugabe-after-they-watched-vid.xml)  
+
 ### [2011-03-7](/news/2011/03/7/index.md)
 
+##### Zimbabwe
 # A court in Zimbabwe frees 38 people detained for weeks on charges of attempting to overthrow President Robert Mugabe, after they watched videos of the Arab Spring. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7260EI20110307?sp=true)
 

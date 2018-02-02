@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/02/6/twin-brothers-are-killed-and-six-others-injured-in-a-sledding-accident-on-an-olympic-bobsledding-course-at-canada-olympic-park-in-calgary-a.html)  [JSON](/news/2016/02/6/twin-brothers-are-killed-and-six-others-injured-in-a-sledding-accident-on-an-olympic-bobsledding-course-at-canada-olympic-park-in-calgary-a.json)  [XML](/news/2016/02/6/twin-brothers-are-killed-and-six-others-injured-in-a-sledding-accident-on-an-olympic-bobsledding-course-at-canada-olympic-park-in-calgary-a.xml)  
+
 ### [2016-02-6](/news/2016/02/6/index.md)
 
+##### sledding
 # Twin brothers are killed and six others injured in a sledding accident on an Olympic bobsledding course at Canada Olympic Park in Calgary, Alberta. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2016/02/07/world/canada-calgary-sled-teens-killed/)
 

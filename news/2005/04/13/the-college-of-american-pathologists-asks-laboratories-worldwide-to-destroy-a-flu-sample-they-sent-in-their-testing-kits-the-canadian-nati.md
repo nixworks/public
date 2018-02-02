@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/13/the-college-of-american-pathologists-asks-laboratories-worldwide-to-destroy-a-flu-sample-they-sent-in-their-testing-kits-the-canadian-nati.html)  [JSON](/news/2005/04/13/the-college-of-american-pathologists-asks-laboratories-worldwide-to-destroy-a-flu-sample-they-sent-in-their-testing-kits-the-canadian-nati.json)  [XML](/news/2005/04/13/the-college-of-american-pathologists-asks-laboratories-worldwide-to-destroy-a-flu-sample-they-sent-in-their-testing-kits-the-canadian-nati.xml)  
+
 ### [2005-04-13](/news/2005/04/13/index.md)
 
+##### College of American Pathologists
 #  The College of American Pathologists asks laboratories worldwide to destroy a flu sample they sent in their testing kits. The Canadian National Microbial Laboratory identified it as a strain of Asian flu virus that killed millions in 1957. People born after 1969 would have no antibodies to resist it. The World Health Organization supports the plea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/health/story/2005/04/12/flu-vials050412.html)
 2. [CNN](http://www.cnn.com/2005/HEALTH/04/12/flu.recall/)
@@ -13,8 +17,8 @@
 
 ### Related:
 
-1. [Canada's left-leaning New Democratic Party elects Jagmeet Singh its leader. ](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.md) _Context: Canada_
-2. [The World Health Organization says that hunger around the world has risen as a result of war and climate change. ](/news/2017/09/15/the-world-health-organization-says-that-hunger-around-the-world-has-risen-as-a-result-of-war-and-climate-change.md) _Context: World Health Organization_
-3. [According to the World Health Organization, antibiotic resistance is on the rise in strains of gonorrhoea. It says that there is a need to prevent the spread of these bacteria, recommending usage of condoms and an increase in research and development funding. ](/news/2017/07/7/according-to-the-world-health-organization-antibiotic-resistance-is-on-the-rise-in-strains-of-gonorrhoea-it-says-that-there-is-a-need-to-p.md) _Context: World Health Organization_
-4. [Winston Blackmore and James Oler, leaders of a polygamist Mormon sect in Canada, are convicted. ](/news/2017/07/24/winston-blackmore-and-james-oler-leaders-of-a-polygamist-mormon-sect-in-canada-are-convicted.md) _Context: Canada_
-5. [Six teenagers, four males and two females, from a Burundi robotics team are reported missing after competing in the FIRST Global Robotics Competition in Washington, D.C. A 16-year-old boy and a 17-year old girl reportedly crossed the United States border into Canada. There is no indication of foul play. ](/news/2017/07/20/six-teenagers-four-males-and-two-females-from-a-burundi-robotics-team-are-reported-missing-after-competing-in-the-first-global-robotics-co.md) _Context: Canada_
+1. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: Canadian_
+2. [Joshua Boyle, a Canadian man recently rescued from a Taliban linked group, is arrested on 15 charges, including assault, sexual assault, and unlawful confinement. ](/news/2018/01/2/joshua-boyle-a-canadian-man-recently-rescued-from-a-taliban-linked-group-is-arrested-on-15-charges-including-assault-sexual-assault-and.md) _Context: Canadian_
+3. [The Y-linked protein NLGN4Y transfer from an older brother to a younger by transfer through the mother's womb, the mother's bloodstream, and her created antibodies reaching her next male fetus' brain, together appear to influence the gayness of the next brother. ](/news/2017/12/11/the-y-linked-protein-nlgn4y-transfer-from-an-older-brother-to-a-younger-by-transfer-through-the-mother-s-womb-the-mother-s-bloodstream-and.md) _Context: antibodies_
+4. [A blanket of thick grey smog covers the Indian capital, Delhi, with some areas 30 times more polluted than the World Health Organization's recommended limit, one year after a similar smog. ](/news/2017/11/7/a-blanket-of-thick-grey-smog-covers-the-indian-capital-delhi-with-some-areas-30-times-more-polluted-than-the-world-health-organization-s-r.md) _Context: World Health Organization_
+5. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: Canadian_

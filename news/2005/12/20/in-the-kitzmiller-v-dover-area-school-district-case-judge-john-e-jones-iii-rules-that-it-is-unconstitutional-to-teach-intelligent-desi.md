@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/12/20/in-the-kitzmiller-v-dover-area-school-district-case-judge-john-e-jones-iii-rules-that-it-is-unconstitutional-to-teach-intelligent-desi.html)  [JSON](/news/2005/12/20/in-the-kitzmiller-v-dover-area-school-district-case-judge-john-e-jones-iii-rules-that-it-is-unconstitutional-to-teach-intelligent-desi.json)  [XML](/news/2005/12/20/in-the-kitzmiller-v-dover-area-school-district-case-judge-john-e-jones-iii-rules-that-it-is-unconstitutional-to-teach-intelligent-desi.xml)  
+
 ### [2005-12-20](/news/2005/12/20/index.md)
 
+##### Kitzmiller v. Dover Area School District
 #  In the "Kitzmiller v. Dover Area School District" case, Judge John E. Jones III rules that it is unconstitutional to teach intelligent design as an alternative to evolution in a public school science classroom in the United States. 
 
 Teaching the theory in public schools violates Constitution, judge rules.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/NR/exeres/4A05FA5E-9E24-4C52-B5B7-27B56CDD8A03.htm)
-2. [Associated Press](http://www.washingtonpost.com/wp-dyn/content/article/2005/12/20/AR2005122000591.html)
+2. [Associated Press](https://www.washingtonpost.com/wp-dyn/content/article/2005/12/20/AR2005122000591.html)
 3. [BBC](http://news.bbc.co.uk/2/hi/americas/4545822.stm)
 4. [CNN](http://www.cnn.com/2005/LAW/12/20/intelligent.design.ap/index.html)
 5. [Christian Science Monitor](http://www.csmonitor.com/2005/1221/p01s01-ussc.html)
@@ -16,15 +20,15 @@ Teaching the theory in public schools violates Constitution, judge rules.
 7. [Time](http://www.time.com/time/health/article/0,8599,1142672,00.html)
 7. [Cover Image](http://www.csmonitor.com/extension/csm_base/design/csm_design/images/csm_logo_1200x630.png)
 
-### Related:
-
-1. [ "Kitzmiller et al. v. Dover Area School District" is the first direct challenge brought in United States federal courts against a public school district curriculum mandating the teaching of intelligent design as an alternative to evolution. Opening arguments are set for today in Harrisburg, Pennsylvania District Court. [http:--www.latimes.com-news-nationworld-nation-la-na-dover26sep26,0,4324588.story?coll=la-tot-promo&track=morenews (LA Times)] [http:--www.washingtonpost.com-wp-dyn-content-article-2005-09-26-AR2005092600149.html (AP)] (Link dead as of 21:25, 14 January 2007 (UTC))](/news/2005/09/26/kitzmiller-et-al-v-dover-area-school-district-is-the-first-direct-challenge-brought-in-united-states-federal-courts-against-a-public-sc.md) _Context: Evolution, Kitzmiller v. Dover Area School District, intelligent design_
-2. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: United States_
-3. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: United States_
-4. [An apparent ambush in Niger near the Malian border leaves three U.S. Special Forces soldiers and five Nigerien soldiers dead during a joint patrol. ](/news/2017/10/4/an-apparent-ambush-in-niger-near-the-malian-border-leaves-three-u-s-special-forces-soldiers-and-five-nigerien-soldiers-dead-during-a-joint.md) _Context: United States_
-5. [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md) _Context: United States_
-
 ### Changes:
 
 1. [ In the ''Kitzmiller v. Dover Area School District'' case, Judge John E. Jones III rules that it is unconstitutional to teach intelligent design as an alternative to evolution in a public school science classroom in the United States. ](/news/2005/12/20/in-the-kitzmiller-v-dover-area-school-district-case-judge-john-e-jones-iii-rules-that-it-is-unconstitutional-to-teach-intelligent-de.md) _2017-08-25 03:17:18 (First version)_
 1. [ In the "Kitzmiller v. Dover Area School District" case, Judge John E. Jones III rules that it is unconstitutional to teach intelligent design as an alternative to evolution in a public school science classroom in the United States. ](/news/2005/12/20/in-the-kitzmiller-v-dover-area-school-district-case-judge-john-e-jones-iii-rules-that-it-is-unconstitutional-to-teach-intelligent-desi.md) _(Current version)_
+
+### Related:
+
+1. [ "Kitzmiller et al. v. Dover Area School District" is the first direct challenge brought in United States federal courts against a public school district curriculum mandating the teaching of intelligent design as an alternative to evolution. Opening arguments are set for today in Harrisburg, Pennsylvania District Court. [http:--www.latimes.com-news-nationworld-nation-la-na-dover26sep26,0,4324588.story?coll=la-tot-promo&track=morenews (LA Times)] [https:--www.washingtonpost.com-wp-dyn-content-article-2005-09-26-AR2005092600149.html (AP)] (Link dead as of 21:25, 14 January 2007 (UTC))](/news/2005/09/26/kitzmiller-et-al-v-dover-area-school-district-is-the-first-direct-challenge-brought-in-united-states-federal-courts-against-a-public-sc.md) _Context: Kitzmiller v. Dover Area School District, evolution, intelligent design_
+2. [The Palestine Liberation Organization "rejects and condemns" the United States decision to put Hamas leader Ismael Haniyeh on the OFAC SDN terror blacklist. ](/news/2018/02/1/the-palestine-liberation-organization-rejects-and-condemns-the-united-states-decision-to-put-hamas-leader-ismael-haniyeh-on-the-ofac-sdn-t.md) _Context: U.S._
+3. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: U.S._
+4. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: U.S._
+5. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: U.S._

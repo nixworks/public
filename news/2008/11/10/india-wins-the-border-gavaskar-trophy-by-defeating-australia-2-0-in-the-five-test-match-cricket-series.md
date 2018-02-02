@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/10/india-wins-the-border-gavaskar-trophy-by-defeating-australia-2-0-in-the-five-test-match-cricket-series.html)  [JSON](/news/2008/11/10/india-wins-the-border-gavaskar-trophy-by-defeating-australia-2-0-in-the-five-test-match-cricket-series.json)  [XML](/news/2008/11/10/india-wins-the-border-gavaskar-trophy-by-defeating-australia-2-0-in-the-five-test-match-cricket-series.xml)  
+
 ### [2008-11-10](/news/2008/11/10/index.md)
 
+##### India
 #  India wins the Border-Gavaskar Trophy by defeating Australia 2-0 in the five-Test-match cricket series. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CricketNext.in](http://cricketnext.in.com/news/india-beat-oz-by-172-runs-win-series-20/35473-13.html?from=rssfeed)
 

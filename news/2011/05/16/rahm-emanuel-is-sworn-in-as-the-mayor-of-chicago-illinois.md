@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/16/rahm-emanuel-is-sworn-in-as-the-mayor-of-chicago-illinois.html)  [JSON](/news/2011/05/16/rahm-emanuel-is-sworn-in-as-the-mayor-of-chicago-illinois.json)  [XML](/news/2011/05/16/rahm-emanuel-is-sworn-in-as-the-mayor-of-chicago-illinois.xml)  
+
 ### [2011-05-16](/news/2011/05/16/index.md)
 
+##### Rahm Emanuel
 # Rahm Emanuel is sworn in as the Mayor of Chicago, Illinois. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/videobeta/?watchLive=wgntv-tivid-livestream-96)
 

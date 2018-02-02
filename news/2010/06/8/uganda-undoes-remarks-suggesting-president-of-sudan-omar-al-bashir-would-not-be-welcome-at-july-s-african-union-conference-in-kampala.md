@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/8/uganda-undoes-remarks-suggesting-president-of-sudan-omar-al-bashir-would-not-be-welcome-at-july-s-african-union-conference-in-kampala.html)  [JSON](/news/2010/06/8/uganda-undoes-remarks-suggesting-president-of-sudan-omar-al-bashir-would-not-be-welcome-at-july-s-african-union-conference-in-kampala.json)  [XML](/news/2010/06/8/uganda-undoes-remarks-suggesting-president-of-sudan-omar-al-bashir-would-not-be-welcome-at-july-s-african-union-conference-in-kampala.xml)  
+
 ### [2010-06-8](/news/2010/06/8/index.md)
 
+##### Uganda
 # Uganda undoes remarks suggesting President of Sudan Omar al-Bashir would not be welcome at July's African Union conference in Kampala. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/06/201068123447183209.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10264366.stm)

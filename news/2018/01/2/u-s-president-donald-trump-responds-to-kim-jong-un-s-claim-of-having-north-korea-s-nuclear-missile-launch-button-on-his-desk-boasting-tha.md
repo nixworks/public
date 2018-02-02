@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/2/u-s-president-donald-trump-responds-to-kim-jong-
 
 ### [2018-01-2](/news/2018/01/2/index.md)
 
+##### North Korea-United States relations
 #  U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than Kim's. 
 
 The president’s tweet that he has a “much bigger” arsenal of nuclear weapons was met with dread and humor, of both the gallows and locker-room varieties.
@@ -26,4 +27,4 @@ The president’s tweet that he has a “much bigger” arsenal of nuclear weapo
 2. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: Donald Trump, North Korea, U.S. President_
 3. [ North Korea vows to accelerate its nuclear weapons programme to "maximum pace" and test a nuclear device "at any time" in response to U.S. President Donald Trump's aggressive stance towards the regime. ](/news/2017/05/2/north-korea-vows-to-accelerate-its-nuclear-weapons-programme-to-amaximum-pacea-and-test-a-nuclear-device-aat-any-timea-in-response.md) _Context: Donald Trump, North Korea, North Korea-United States relations_
 4. [North Korea says the United States has "crossed the red line in our showdown" after placing sanctions on its leader Kim Jong-un over human rights abuses, and considers the sanctions to be a "declaration of war" by the United States. ](/news/2016/07/28/north-korea-says-the-united-states-has-crossed-the-red-line-in-our-showdown-after-placing-sanctions-on-its-leader-kim-jong-un-over-human-r.md) _Context: Kim Jong-un, North Korea, North Korea-United States relations_
-5. [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md) _Context: Donald Trump, U.S. President_
+5. [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md) _Context: Donald Trump, U.S. President_

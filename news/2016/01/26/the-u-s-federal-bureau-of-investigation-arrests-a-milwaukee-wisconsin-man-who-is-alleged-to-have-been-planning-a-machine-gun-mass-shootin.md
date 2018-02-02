@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/26/the-u-s-federal-bureau-of-investigation-arrests
 
 ### [2016-01-26](/news/2016/01/26/index.md)
 
+##### Terrorism in the United States
 # The U.S. Federal Bureau of Investigation arrests a Milwaukee, Wisconsin, man who is alleged to have been planning a machine gun mass shooting at a local Masonic Temple. 
 
 Prosecutors say Samy Mohamed Hamzeh targeted a &quot;secret society&quot; that goes back to George Washington.

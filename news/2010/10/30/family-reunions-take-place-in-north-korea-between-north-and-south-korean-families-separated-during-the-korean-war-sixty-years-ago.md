@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/30/family-reunions-take-place-in-north-korea-between-north-and-south-korean-families-separated-during-the-korean-war-sixty-years-ago.html)  [JSON](/news/2010/10/30/family-reunions-take-place-in-north-korea-between-north-and-south-korean-families-separated-during-the-korean-war-sixty-years-ago.json)  [XML](/news/2010/10/30/family-reunions-take-place-in-north-korea-between-north-and-south-korean-families-separated-during-the-korean-war-sixty-years-ago.xml)  
+
 ### [2010-10-30](/news/2010/10/30/index.md)
 
+##### North Korea
 # Family reunions take place in North Korea between North and South Korean families separated during the Korean War sixty years ago. 
 
 Hundreds of South Koreans cross into North for three-day reunion of families separated six decades ago.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/2010103035527118694.html)
 2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2010/10/30/12/0401000000AEN20101030002400315F.HTML)

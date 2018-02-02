@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/30/several-avalanches-in-gorno-badakhshan-tajikist
 
 ### [2017-01-30](/news/2017/01/30/index.md)
 
+##### Gorno-Badakhshan
 # Several avalanches in Gorno-Badakhshan, Tajikistan, caused by heavy snowfall over the weekend, leave at least seven people dead. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/8/german-foreign-minister-guido-westerwelle-calls-on-hamas-to-free-captured-israeli-soldier-gilad-shalit-and-urges-israel-to-end-its-embargo-o.html)  [JSON](/news/2010/11/8/german-foreign-minister-guido-westerwelle-calls-on-hamas-to-free-captured-israeli-soldier-gilad-shalit-and-urges-israel-to-end-its-embargo-o.json)  [XML](/news/2010/11/8/german-foreign-minister-guido-westerwelle-calls-on-hamas-to-free-captured-israeli-soldier-gilad-shalit-and-urges-israel-to-end-its-embargo-o.xml)  
+
 ### [2010-11-8](/news/2010/11/8/index.md)
 
+##### German Foreign Minister
 # German Foreign Minister Guido Westerwelle calls on Hamas to free captured Israeli soldier Gilad Shalit and urges Israel to end its embargo of the Hamas-ruled Gaza Strip, but does not meet with the Gaza leadership because of group's refusal to renounce violence and recognize Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/idUKTRE6A72E420101108?pageNumber=1)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=194475)

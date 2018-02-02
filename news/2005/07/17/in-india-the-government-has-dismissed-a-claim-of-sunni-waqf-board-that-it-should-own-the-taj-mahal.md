@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/17/in-india-the-government-has-dismissed-a-claim-of-sunni-waqf-board-that-it-should-own-the-taj-mahal.html)  [JSON](/news/2005/07/17/in-india-the-government-has-dismissed-a-claim-of-sunni-waqf-board-that-it-should-own-the-taj-mahal.json)  [XML](/news/2005/07/17/in-india-the-government-has-dismissed-a-claim-of-sunni-waqf-board-that-it-should-own-the-taj-mahal.xml)  
+
 ### [2005-07-17](/news/2005/07/17/index.md)
 
+##### Sunni Waqf Board
 #  In India, the government has dismissed a claim of Sunni Waqf Board that it should own the Taj Mahal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4688373.stm)
 

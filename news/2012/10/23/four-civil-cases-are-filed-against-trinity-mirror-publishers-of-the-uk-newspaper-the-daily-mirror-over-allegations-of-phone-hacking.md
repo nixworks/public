@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/23/four-civil-cases-are-filed-against-trinity-mirror-publishers-of-the-uk-newspaper-the-daily-mirror-over-allegations-of-phone-hacking.html)  [JSON](/news/2012/10/23/four-civil-cases-are-filed-against-trinity-mirror-publishers-of-the-uk-newspaper-the-daily-mirror-over-allegations-of-phone-hacking.json)  [XML](/news/2012/10/23/four-civil-cases-are-filed-against-trinity-mirror-publishers-of-the-uk-newspaper-the-daily-mirror-over-allegations-of-phone-hacking.xml)  
+
 ### [2012-10-23](/news/2012/10/23/index.md)
 
+##### Trinity Mirror
 # Four civil cases are filed against Trinity Mirror, publishers of the UK newspaper the "Daily Mirror", over allegations of phone hacking. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.guardian.co.uk/media/2012/oct/23/phone-hacking-allegations-trinity-mirror-shares)
 

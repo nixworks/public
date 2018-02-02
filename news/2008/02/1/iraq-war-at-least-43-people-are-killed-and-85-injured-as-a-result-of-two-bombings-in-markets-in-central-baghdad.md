@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/1/iraq-war-at-least-43-people-are-killed-and-85-injured-as-a-result-of-two-bombings-in-markets-in-central-baghdad.html)  [JSON](/news/2008/02/1/iraq-war-at-least-43-people-are-killed-and-85-injured-as-a-result-of-two-bombings-in-markets-in-central-baghdad.json)  [XML](/news/2008/02/1/iraq-war-at-least-43-people-are-killed-and-85-injured-as-a-result-of-two-bombings-in-markets-in-central-baghdad.xml)  
+
 ### [2008-02-1](/news/2008/02/1/index.md)
 
+##### Iraq War
 #  Iraq War: At least 43 people are killed and 85 injured as a result of two bombings in markets in central Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (News Limited](http://www.news.com.au/adelaidenow/story/0,22606,23145172-5012778,00.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/30/a-fire-at-a-retirement-home-in-bucharest-romani
 
 ### [2017-09-30](/news/2017/09/30/index.md)
 
+##### 2017 disasters in Romania
 # A fire at a retirement home in Bucharest, Romania, leaves one person dead and 19 others injured. 
 
 Authorities in Romania say one person has died and 19 people were hospitalized for smoke inhalation after a fire broke out at a retirement home in the capital.

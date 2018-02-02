@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/the-head-of-guinea-s-electoral-commission-who-was-convicted-for-electoral-fraud-ben-sekou-sylla-dies-ahead-of-a-presidential-run-off-on-s.html)  [JSON](/news/2010/09/14/the-head-of-guinea-s-electoral-commission-who-was-convicted-for-electoral-fraud-ben-sekou-sylla-dies-ahead-of-a-presidential-run-off-on-s.json)  [XML](/news/2010/09/14/the-head-of-guinea-s-electoral-commission-who-was-convicted-for-electoral-fraud-ben-sekou-sylla-dies-ahead-of-a-presidential-run-off-on-s.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Guinea
 # The head of Guinea's electoral commission who was convicted for electoral fraud, Ben Sekou Sylla, dies, ahead of a presidential run-off on Sunday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11295287)
 2. [Reuters](http://af.reuters.com/article/guineaNews/idAFLDE68D0VJ20100914)

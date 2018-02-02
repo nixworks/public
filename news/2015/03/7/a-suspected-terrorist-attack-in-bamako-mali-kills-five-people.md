@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/7/a-suspected-terrorist-attack-in-bamako-mali-kills-five-people.html)  [JSON](/news/2015/03/7/a-suspected-terrorist-attack-in-bamako-mali-kills-five-people.json)  [XML](/news/2015/03/7/a-suspected-terrorist-attack-in-bamako-mali-kills-five-people.xml)  
+
 ### [2015-03-7](/news/2015/03/7/index.md)
 
+##### Bamako
 # A suspected terrorist attack in Bamako, Mali, kills five people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via BDlive](http://www.bdlive.co.za/africa/africannews/2015/03/07/five-dead-in-suspected-terror-attack-in-mali-nightclub)
 2. [CNN](http://edition.cnn.com/2015/03/07/africa/mali-bar-shooting/index.html)

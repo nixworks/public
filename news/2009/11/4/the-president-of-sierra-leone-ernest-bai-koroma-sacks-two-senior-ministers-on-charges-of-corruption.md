@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/4/the-president-of-sierra-leone-ernest-bai-koroma-sacks-two-senior-ministers-on-charges-of-corruption.html)  [JSON](/news/2009/11/4/the-president-of-sierra-leone-ernest-bai-koroma-sacks-two-senior-ministers-on-charges-of-corruption.json)  [XML](/news/2009/11/4/the-president-of-sierra-leone-ernest-bai-koroma-sacks-two-senior-ministers-on-charges-of-corruption.xml)  
+
 ### [2009-11-4](/news/2009/11/4/index.md)
 
+##### President of Sierra Leone
 #  The President of Sierra Leone Ernest Bai Koroma sacks two senior ministers on charges of corruption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8342830.stm)
 2. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE5A30P220091104)

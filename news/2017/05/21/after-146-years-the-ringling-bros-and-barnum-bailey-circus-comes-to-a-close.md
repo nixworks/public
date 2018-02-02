@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/05/21/after-146-years-the-ringling-bros-and-barnum-bailey-circus-comes-to-a-close.html)  [JSON](/news/2017/05/21/after-146-years-the-ringling-bros-and-barnum-bailey-circus-comes-to-a-close.json)  [XML](/news/2017/05/21/after-146-years-the-ringling-bros-and-barnum-bailey-circus-comes-to-a-close.xml)  
+
 ### [2017-05-21](/news/2017/05/21/index.md)
 
+##### Ringling Bros. and Barnum & Bailey Circus
 # After 146 years, the Ringling Bros. and Barnum & Bailey Circus comes to a close. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](https://www.nytimes.com/2017/05/21/nyregion/ringling-brothers-circus-takes-final-bow.html)
 

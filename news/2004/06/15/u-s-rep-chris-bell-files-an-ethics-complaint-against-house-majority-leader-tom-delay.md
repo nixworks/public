@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/15/u-s-rep-chris-bell-files-an-ethics-complaint-against-house-majority-leader-tom-delay.html)  [JSON](/news/2004/06/15/u-s-rep-chris-bell-files-an-ethics-complaint-against-house-majority-leader-tom-delay.json)  [XML](/news/2004/06/15/u-s-rep-chris-bell-files-an-ethics-complaint-against-house-majority-leader-tom-delay.xml)  
+
 ### [2004-06-15](/news/2004/06/15/index.md)
 
+##### Chris Bell
 #  U.S. Rep. Chris Bell files an ethics complaint against House Majority Leader Tom DeLay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/ALLPOLITICS/06/15/delay.ethics/index.html)
 

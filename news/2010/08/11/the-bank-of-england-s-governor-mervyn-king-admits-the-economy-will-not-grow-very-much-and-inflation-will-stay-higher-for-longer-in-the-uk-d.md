@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/11/the-bank-of-england-s-governor-mervyn-king-admits-the-economy-will-not-grow-very-much-and-inflation-will-stay-higher-for-longer-in-the-uk-d.html)  [JSON](/news/2010/08/11/the-bank-of-england-s-governor-mervyn-king-admits-the-economy-will-not-grow-very-much-and-inflation-will-stay-higher-for-longer-in-the-uk-d.json)  [XML](/news/2010/08/11/the-bank-of-england-s-governor-mervyn-king-admits-the-economy-will-not-grow-very-much-and-inflation-will-stay-higher-for-longer-in-the-uk-d.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### Bank of England
 # The Bank of England's governor Mervyn King admits the economy will not grow very much and inflation will stay higher for longer in the UK, describing as a "choppy recovery" being ahead over the next two years. 
 
 The Bank of England lowers its growth estimates and says it expects the UK economy to face challenges in the next two years.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-10934302)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

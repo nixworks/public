@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/5/the-pakistan-taliban-claims-to-have-killed-15-security-force-members-it-kidnapped-last-month.html)  [JSON](/news/2012/01/5/the-pakistan-taliban-claims-to-have-killed-15-security-force-members-it-kidnapped-last-month.json)  [XML](/news/2012/01/5/the-pakistan-taliban-claims-to-have-killed-15-security-force-members-it-kidnapped-last-month.xml)  
+
 ### [2012-01-5](/news/2012/01/5/index.md)
 
+##### Pakistan Taliban
 # The Pakistan Taliban claims to have killed 15 security force members it kidnapped last month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_PAKISTAN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

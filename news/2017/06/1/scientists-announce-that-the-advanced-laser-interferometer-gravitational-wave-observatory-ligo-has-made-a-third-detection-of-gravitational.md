@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/1/scientists-announce-that-the-advanced-laser-inte
 
 ### [2017-06-1](/news/2017/06/1/index.md)
 
+##### Gravitational-wave astronomy
 # Scientists announce that the Advanced Laser Interferometer Gravitational-wave Observatory (LIGO) has made a third detection of gravitational waves, named GW170104. The signal beam, detected on 4 January 2017, apparently results from a merger of two black holes of 19 and 31 solar masses. Such detections are said to be progressively moving this emerging field in astronomy "from novelty to new observational science". 
 
 Scientists pick up once again the distortions in space-time resulting from a huge black hole merger.

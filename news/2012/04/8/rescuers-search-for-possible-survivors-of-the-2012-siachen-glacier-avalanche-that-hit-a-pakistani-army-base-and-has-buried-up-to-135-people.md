@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/8/rescuers-search-for-possible-survivors-of-the-2012-siachen-glacier-avalanche-that-hit-a-pakistani-army-base-and-has-buried-up-to-135-people.html)  [JSON](/news/2012/04/8/rescuers-search-for-possible-survivors-of-the-2012-siachen-glacier-avalanche-that-hit-a-pakistani-army-base-and-has-buried-up-to-135-people.json)  [XML](/news/2012/04/8/rescuers-search-for-possible-survivors-of-the-2012-siachen-glacier-avalanche-that-hit-a-pakistani-army-base-and-has-buried-up-to-135-people.xml)  
+
 ### [2012-04-8](/news/2012/04/8/index.md)
 
+##### 2012 Siachen Glacier avalanche
 # Rescuers search for possible survivors of the 2012 Siachen Glacier avalanche that hit a Pakistani Army base and has buried up to 135 people, near the disputed Siachen Glacier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/1640843/Search-to-resume-for-135-buried-at-Pakistan-army-camp)
 

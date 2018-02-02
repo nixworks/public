@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/16/somalis-march-to-demonstrate-their-anger-at-the
 
 ### [2017-10-16](/news/2017/10/16/index.md)
 
+##### War in Somalia
 # Somalis march to demonstrate their anger at the presence of al-Shabaab, the group believed to be responsible for a recent bombing attack. 
 
 Somalis reacted to a devastating bomb attack on Saturday by marching and donating blood.

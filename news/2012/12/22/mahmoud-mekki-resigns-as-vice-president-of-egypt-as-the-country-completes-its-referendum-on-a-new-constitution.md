@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/22/mahmoud-mekki-resigns-as-vice-president-of-egypt-as-the-country-completes-its-referendum-on-a-new-constitution.html)  [JSON](/news/2012/12/22/mahmoud-mekki-resigns-as-vice-president-of-egypt-as-the-country-completes-its-referendum-on-a-new-constitution.json)  [XML](/news/2012/12/22/mahmoud-mekki-resigns-as-vice-president-of-egypt-as-the-country-completes-its-referendum-on-a-new-constitution.xml)  
+
 ### [2012-12-22](/news/2012/12/22/index.md)
 
+##### Mahmoud Mekki
 # Mahmoud Mekki resigns as Vice President of Egypt as the country completes its referendum on a new constitution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20828759)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64918000/jpg/_64918887_94bx20d8.jpg)

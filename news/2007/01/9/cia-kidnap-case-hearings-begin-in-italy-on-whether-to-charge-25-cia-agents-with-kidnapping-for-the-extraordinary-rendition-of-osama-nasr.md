@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/9/cia-kidnap-case-hearings-begin-in-italy-on-whether-to-charge-25-cia-agents-with-kidnapping-for-the-extraordinary-rendition-of-osama-nasr.html)  [JSON](/news/2007/01/9/cia-kidnap-case-hearings-begin-in-italy-on-whether-to-charge-25-cia-agents-with-kidnapping-for-the-extraordinary-rendition-of-osama-nasr.json)  [XML](/news/2007/01/9/cia-kidnap-case-hearings-begin-in-italy-on-whether-to-charge-25-cia-agents-with-kidnapping-for-the-extraordinary-rendition-of-osama-nasr.xml)  
+
 ### [2007-01-9](/news/2007/01/9/index.md)
 
+##### Hassan Mustafa Osama Nasr
 #  CIA Kidnap case: Hearings begin in Italy on whether to charge 25 CIA agents with kidnapping for the "extraordinary rendition" of Osama Nasr in 2003. The named agents have left the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/5BE47410-D116-4168-BDC7-C4EF701F108E.htm)
 2. [BBC News](http://news.bbc.co.uk/2/hi/europe/6243991.stm)

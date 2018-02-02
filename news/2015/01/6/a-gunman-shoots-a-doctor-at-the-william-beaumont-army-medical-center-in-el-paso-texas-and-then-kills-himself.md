@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/6/a-gunman-shoots-a-doctor-at-the-william-beaumont-army-medical-center-in-el-paso-texas-and-then-kills-himself.html)  [JSON](/news/2015/01/6/a-gunman-shoots-a-doctor-at-the-william-beaumont-army-medical-center-in-el-paso-texas-and-then-kills-himself.json)  [XML](/news/2015/01/6/a-gunman-shoots-a-doctor-at-the-william-beaumont-army-medical-center-in-el-paso-texas-and-then-kills-himself.xml)  
+
 ### [2015-01-6](/news/2015/01/6/index.md)
 
+##### shoots
 # A gunman shoots a doctor at the William Beaumont Army Medical Center in El Paso, Texas, and then kills himself. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-2899693/Reports-active-shooting-Texas-veteran-s-clinic.html)
 

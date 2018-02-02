@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/18/taiwan-prepares-for-the-impact-of-typhoon-fanapi.html)  [JSON](/news/2010/09/18/taiwan-prepares-for-the-impact-of-typhoon-fanapi.json)  [XML](/news/2010/09/18/taiwan-prepares-for-the-impact-of-typhoon-fanapi.xml)  
+
 ### [2010-09-18](/news/2010/09/18/index.md)
 
+##### Taiwan
 # Taiwan prepares for the impact of Typhoon Fanapi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-09/18/c_13518590.htm)
 

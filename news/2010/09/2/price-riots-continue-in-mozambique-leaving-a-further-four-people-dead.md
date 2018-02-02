@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/2/price-riots-continue-in-mozambique-leaving-a-further-four-people-dead.html)  [JSON](/news/2010/09/2/price-riots-continue-in-mozambique-leaving-a-further-four-people-dead.json)  [XML](/news/2010/09/2/price-riots-continue-in-mozambique-leaving-a-further-four-people-dead.xml)  
+
 ### [2010-09-2](/news/2010/09/2/index.md)
 
+##### Mozambique
 # Price riots continue in Mozambique, leaving a further four people dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5imAC2bF__FQbPuA3exMkkE6D718AD9HVMQKG0)
 2. [Reuters Africa](http://af.reuters.com/article/commoditiesNews/idAFLDE6810LL20100902?sp=true)

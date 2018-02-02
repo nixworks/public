@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/5/chansa-kabwela-the-news-editor-of-the-the-post-goes-on-trial-in-zambia-after-being-accused-of-distributing-obscene-images.html)  [JSON](/news/2009/08/5/chansa-kabwela-the-news-editor-of-the-the-post-goes-on-trial-in-zambia-after-being-accused-of-distributing-obscene-images.json)  [XML](/news/2009/08/5/chansa-kabwela-the-news-editor-of-the-the-post-goes-on-trial-in-zambia-after-being-accused-of-distributing-obscene-images.xml)  
+
 ### [2009-08-5](/news/2009/08/5/index.md)
 
+##### Zambia
 #  Chansa Kabwela, the news editor of the "The Post", goes on trial in Zambia after being accused of distributing obscene images. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8185221.stm)
 2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20090805185405957C762859)

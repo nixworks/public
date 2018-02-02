@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/16/the-number-of-visitors-to-expo-2010-shanghai-exceeds-64-million-breaking-the-record-the-history-of-the-world-s-fairs.html)  [JSON](/news/2010/10/16/the-number-of-visitors-to-expo-2010-shanghai-exceeds-64-million-breaking-the-record-the-history-of-the-world-s-fairs.json)  [XML](/news/2010/10/16/the-number-of-visitors-to-expo-2010-shanghai-exceeds-64-million-breaking-the-record-the-history-of-the-world-s-fairs.xml)  
+
 ### [2010-10-16](/news/2010/10/16/index.md)
 
+##### Shanghai Expo
 # The number of visitors to Expo 2010 Shanghai exceeds 64 million, breaking the record the history of the World's Fairs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Global Times](http://china.globaltimes.cn/society/2010-10/582703.html)
 

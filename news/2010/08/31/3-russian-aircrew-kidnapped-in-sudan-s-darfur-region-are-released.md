@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/08/31/3-russian-aircrew-kidnapped-in-sudan-s-darfur-region-are-released.html)  [JSON](/news/2010/08/31/3-russian-aircrew-kidnapped-in-sudan-s-darfur-region-are-released.json)  [XML](/news/2010/08/31/3-russian-aircrew-kidnapped-in-sudan-s-darfur-region-are-released.xml)  
+
 ### [2010-08-31](/news/2010/08/31/index.md)
 
+##### Russia
 # 3 Russian aircrew kidnapped in Sudan's Darfur region are released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/world/20100831/160409861.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE67U1L420100831)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/idUSTRE67U1L420100831)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

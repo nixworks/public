@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/18/the-atomic-energy-organization-of-iran-aeoi-starts-designing-a-newer-and-a-more-powerful-nuclear-research-reactor-than-the-current-tehran.html)  [JSON](/news/2010/06/18/the-atomic-energy-organization-of-iran-aeoi-starts-designing-a-newer-and-a-more-powerful-nuclear-research-reactor-than-the-current-tehran.json)  [XML](/news/2010/06/18/the-atomic-energy-organization-of-iran-aeoi-starts-designing-a-newer-and-a-more-powerful-nuclear-research-reactor-than-the-current-tehran.xml)  
+
 ### [2010-06-18](/news/2010/06/18/index.md)
 
+##### Iran nuclear chief
 # The Atomic Energy Organization of Iran (AEOI) starts designing a newer and a more powerful nuclear research reactor than the current Tehran reactor, according to AEOI director Ali Akbar Salehi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Tehran Times](http://www.tehrantimes.com/index_View.asp?code=221519)
 

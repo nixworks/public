@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/14/entertainer-michael-barrymore-is-arrested-in-the-uk-along-with-two-others-over-the-murder-of-stuart-lubbock-who-was-found-dead-in-barrymor.html)  [JSON](/news/2007/06/14/entertainer-michael-barrymore-is-arrested-in-the-uk-along-with-two-others-over-the-murder-of-stuart-lubbock-who-was-found-dead-in-barrymor.json)  [XML](/news/2007/06/14/entertainer-michael-barrymore-is-arrested-in-the-uk-along-with-two-others-over-the-murder-of-stuart-lubbock-who-was-found-dead-in-barrymor.xml)  
+
 ### [2007-06-14](/news/2007/06/14/index.md)
 
+##### Michael Barrymore
 #  Entertainer Michael Barrymore is arrested in the UK along with two others over the murder of Stuart Lubbock, who was found dead in Barrymore's swimming pool in 2001. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky](http://news.sky.com/skynews/article/0,,30100-1270525,00.html)
 

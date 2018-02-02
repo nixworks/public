@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/26/indian-superhero-film-ra-one-the-most-expensive-bollywood-film-to-date-is-released-to-coincide-with-the-hindu-festival-of-diwali.html)  [JSON](/news/2011/10/26/indian-superhero-film-ra-one-the-most-expensive-bollywood-film-to-date-is-released-to-coincide-with-the-hindu-festival-of-diwali.json)  [XML](/news/2011/10/26/indian-superhero-film-ra-one-the-most-expensive-bollywood-film-to-date-is-released-to-coincide-with-the-hindu-festival-of-diwali.xml)  
+
 ### [2011-10-26](/news/2011/10/26/index.md)
 
+##### India
 # Indian superhero film "Ra.One", the most expensive Bollywood film to date, is released to coincide with the Hindu festival of Diwali. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-15442697)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56269000/jpg/_56269455_013182189-1.jpg)

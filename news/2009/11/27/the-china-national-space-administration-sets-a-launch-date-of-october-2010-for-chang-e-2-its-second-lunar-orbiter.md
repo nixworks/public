@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/27/the-china-national-space-administration-sets-a-launch-date-of-october-2010-for-chang-e-2-its-second-lunar-orbiter.html)  [JSON](/news/2009/11/27/the-china-national-space-administration-sets-a-launch-date-of-october-2010-for-chang-e-2-its-second-lunar-orbiter.json)  [XML](/news/2009/11/27/the-china-national-space-administration-sets-a-launch-date-of-october-2010-for-chang-e-2-its-second-lunar-orbiter.xml)  
+
 ### [2009-11-27](/news/2009/11/27/index.md)
 
+##### China National Space Administration
 #  The China National Space Administration sets a launch date of October 2010 for Chang'e 2, its second lunar orbiter. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iZBB3YlRbLgxnFO4CJ0cYG-IQ5qwD9C7KS800)
 

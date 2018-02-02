@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/01/23/the-united-states-armed-forces-overturns-its-ban-on-women-serving-in-combat-reversing-a-1994-rule-and-potentially-clearing-the-way-for-wom.html)  [JSON](/news/2013/01/23/the-united-states-armed-forces-overturns-its-ban-on-women-serving-in-combat-reversing-a-1994-rule-and-potentially-clearing-the-way-for-wom.json)  [XML](/news/2013/01/23/the-united-states-armed-forces-overturns-its-ban-on-women-serving-in-combat-reversing-a-1994-rule-and-potentially-clearing-the-way-for-wom.xml)  
+
 ### [2013-01-23](/news/2013/01/23/index.md)
 
+##### United States military personnel
 # The United States Armed Forces overturns its ban on women serving in combat, reversing a 1994 rule, and potentially clearing the way for women to serve in front-line units and elite commando forces. 
 
 US Defence Secretary Leon Panetta lifts a ban on women in combat, potentially opening hundreds of thousands of frontline jobs to women.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21172033)
-2. [USA Today](http://www.usatoday.com/story/news/nation/2013/01/23/panetta-women-combat-pentagon/1859221/)
+2. [USA Today](https://www.usatoday.com/story/news/nation/2013/01/23/panetta-women-combat-pentagon/1859221/)
 2. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/65495000/jpg/_65495340_65494672.jpg)
 
 ### Related:

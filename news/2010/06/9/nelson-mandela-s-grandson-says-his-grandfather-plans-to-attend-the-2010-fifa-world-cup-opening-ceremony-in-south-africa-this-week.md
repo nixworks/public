@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/9/nelson-mandela-s-grandson-says-his-grandfather-plans-to-attend-the-2010-fifa-world-cup-opening-ceremony-in-south-africa-this-week.html)  [JSON](/news/2010/06/9/nelson-mandela-s-grandson-says-his-grandfather-plans-to-attend-the-2010-fifa-world-cup-opening-ceremony-in-south-africa-this-week.json)  [XML](/news/2010/06/9/nelson-mandela-s-grandson-says-his-grandfather-plans-to-attend-the-2010-fifa-world-cup-opening-ceremony-in-south-africa-this-week.xml)  
+
 ### [2010-06-9](/news/2010/06/9/index.md)
 
+##### Nelson Mandela
 # Nelson Mandela's grandson says his grandfather plans to attend the 2010 FIFA World Cup opening ceremony in South Africa this week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNTV](http://english.cntv.cn/program/newsupdate/20100609/100944.shtml)
 

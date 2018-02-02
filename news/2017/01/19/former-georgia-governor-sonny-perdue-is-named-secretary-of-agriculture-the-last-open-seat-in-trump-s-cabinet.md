@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/19/former-georgia-governor-sonny-perdue-is-named-s
 
 ### [2017-01-19](/news/2017/01/19/index.md)
 
+##### Presidential transition of Donald Trump
 # Former Georgia Governor Sonny Perdue is named Secretary of Agriculture, the last open seat in Trump's cabinet. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/5/myanmar-s-thein-sein-and-the-philippines-benigno-aquino-iii-ink-trade-agreements-including-those-that-involve-renewable-energy-mass-media.html)  [JSON](/news/2013/12/5/myanmar-s-thein-sein-and-the-philippines-benigno-aquino-iii-ink-trade-agreements-including-those-that-involve-renewable-energy-mass-media.json)  [XML](/news/2013/12/5/myanmar-s-thein-sein-and-the-philippines-benigno-aquino-iii-ink-trade-agreements-including-those-that-involve-renewable-energy-mass-media.xml)  
+
 ### [2013-12-5](/news/2013/12/5/index.md)
 
+##### Myanmar
 # Myanmar's Thein Sein and the Philippines' Benigno Aquino III ink trade agreements including those that involve renewable energy, mass media, and visa-free travel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [GMA News](http://www.gmanetwork.com/news/story/338457/pinoyabroad/news/pinoys-may-now-enjoy-visa-free-entry-to-myanmar)
 

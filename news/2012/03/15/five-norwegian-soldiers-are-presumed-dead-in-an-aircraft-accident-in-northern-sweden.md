@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/15/five-norwegian-soldiers-are-presumed-dead-in-an-aircraft-accident-in-northern-sweden.html)  [JSON](/news/2012/03/15/five-norwegian-soldiers-are-presumed-dead-in-an-aircraft-accident-in-northern-sweden.json)  [XML](/news/2012/03/15/five-norwegian-soldiers-are-presumed-dead-in-an-aircraft-accident-in-northern-sweden.xml)  
+
 ### [2012-03-15](/news/2012/03/15/index.md)
 
+##### Norwegian
 # Five Norwegian soldiers are presumed dead in an aircraft accident in northern Sweden. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Local](http://www.thelocal.se/39694/20120315/)
 

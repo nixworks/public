@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/1/the-sri-lankan-army-bombs-a-hospital-in-puthukkudiyiruppu-twice-killing-at-least-six-tamil-civilians-and-wounding-countless-more-patients.html)  [JSON](/news/2009/02/1/the-sri-lankan-army-bombs-a-hospital-in-puthukkudiyiruppu-twice-killing-at-least-six-tamil-civilians-and-wounding-countless-more-patients.json)  [XML](/news/2009/02/1/the-sri-lankan-army-bombs-a-hospital-in-puthukkudiyiruppu-twice-killing-at-least-six-tamil-civilians-and-wounding-countless-more-patients.xml)  
+
 ### [2009-02-1](/news/2009/02/1/index.md)
 
+##### Sri Lanka
 #  The Sri Lankan Army bombs a hospital in Puthukkudiyiruppu twice, killing at least six Tamil civilians and wounding countless more patients. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gVoaDFmbCYS-Usz9ACDRIengj21QD962VS200)
 

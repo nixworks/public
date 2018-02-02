@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/the-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakistan.html)  [JSON](/news/2010/08/12/the-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakistan.json)  [XML](/news/2010/08/12/the-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakistan.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### United Nations
 # The United Nations launches a major appeal for assistance dealing with the ongoing floods that have devastated Pakistan. 
 
 Zardari meets flood victims after heavy criticism of decision to continue European tour.
 
 
-### Source:
+### Sources:
 
 1. [AFP via France24](http://www.france24.com/en/20100812-under-fire-zardari-visits-pakistan-flood-victims)
 2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jX_KetVCMo64AOZxSMudPWArFrJgD9HI00900)
@@ -16,6 +20,12 @@ Zardari meets flood victims after heavy criticism of decision to continue Europe
 7. [The Guardian](http://www.guardian.co.uk/world/2010/aug/12/pakistan-president-flood-response-criticised)
 7. [Cover Image](http://www.aljazeera.com)
 
+### Changes:
+
+1. [2010 Pakistan floods:The United Nations launches a major appeal for assistance dealing with the ongoing floods that have devastated Pakistan. ](/news/2010/08/12/2010-pakistan-floods-pthe-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakista.md) _2017-08-25 03:29:23 (First version)_
+2. [2010 Pakistan floods:: The United Nations launches a major appeal for assistance dealing with the ongoing floods that have devastated Pakistan. ](/news/2010/08/12/2010-pakistan-floods-the-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakist.md) _2017-08-27 03:29:25 (Update)_
+2. [The United Nations launches a major appeal for assistance dealing with the ongoing floods that have devastated Pakistan. ](/news/2010/08/12/the-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakistan.md) _(Current version)_
+
 ### Related:
 
 1. [The United Nations states more than four million people are now affected by the most severe flooding in Pakistan's history, while the death toll rises to at least 1,600. ](/news/2010/08/5/the-united-nations-states-more-than-four-million-people-are-now-affected-by-the-most-severe-flooding-in-pakistan-s-history-while-the-death.md) _Context: Pakistan, United Nations, devastating floods_
@@ -23,9 +33,3 @@ Zardari meets flood victims after heavy criticism of decision to continue Europe
 3. [The United Nations launches an appeal for US$357 million (EUR307 million) of international aid for victims of the 2011 Sindh floods in Pakistan. ](/news/2011/09/19/the-united-nations-launches-an-appeal-for-us-357-million-a-307-million-of-international-aid-for-victims-of-the-2011-sindh-floods-in-pakis.md) _Context: Pakistan, United Nations_
 4. [The United States will provide an additional US$500-million aid to Pakistan to help rebuild the country after devastating floods caused the worst natural disaster in Pakistan's history. ](/news/2010/11/15/the-united-states-will-provide-an-additional-us-500-million-aid-to-pakistan-to-help-rebuild-the-country-after-devastating-floods-caused-the.md) _Context: Pakistan, devastating floods_
 5. [The United Nations launches an appeal for more than $2 billion in the wake of the 2010 Pakistan floods: this represents the organisation's biggest response to a natural disaster. ](/news/2010/09/17/the-united-nations-launches-an-appeal-for-more-than-2-billion-in-the-wake-of-the-2010-pakistan-floods-this-represents-the-organisation-s-b.md) _Context: United Nations, devastating floods_
-
-### Changes:
-
-1. [2010 Pakistan floods:The United Nations launches a major appeal for assistance dealing with the ongoing floods that have devastated Pakistan. ](/news/2010/08/12/2010-pakistan-floods-pthe-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakista.md) _2017-08-25 03:29:23 (First version)_
-2. [2010 Pakistan floods:: The United Nations launches a major appeal for assistance dealing with the ongoing floods that have devastated Pakistan. ](/news/2010/08/12/2010-pakistan-floods-the-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakist.md) _2017-08-27 03:29:25 (Update)_
-2. [The United Nations launches a major appeal for assistance dealing with the ongoing floods that have devastated Pakistan. ](/news/2010/08/12/the-united-nations-launches-a-major-appeal-for-assistance-dealing-with-the-ongoing-floods-that-have-devastated-pakistan.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/26/two-pussy-riot-members-alleged-to-be-the-two-participants-in-the-band-s-cathedral-protest-on-february-21-who-remain-unarrested-leave-rus.html)  [JSON](/news/2012/08/26/two-pussy-riot-members-alleged-to-be-the-two-participants-in-the-band-s-cathedral-protest-on-february-21-who-remain-unarrested-leave-rus.json)  [XML](/news/2012/08/26/two-pussy-riot-members-alleged-to-be-the-two-participants-in-the-band-s-cathedral-protest-on-february-21-who-remain-unarrested-leave-rus.xml)  
+
 ### [2012-08-26](/news/2012/08/26/index.md)
 
+##### Pussy Riot
 # Two Pussy Riot members, alleged to be the two participants in the band's Cathedral protest on February 21 who remain unarrested, "leave" Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/music/2012/aug/26/two-pussy-riot-flee-russia?newsfeed=true)
 

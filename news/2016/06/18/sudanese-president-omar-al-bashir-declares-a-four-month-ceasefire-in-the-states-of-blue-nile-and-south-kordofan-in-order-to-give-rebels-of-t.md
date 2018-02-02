@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/18/sudanese-president-omar-al-bashir-declares-a-fo
 
 ### [2016-06-18](/news/2016/06/18/index.md)
 
+##### Sudanese conflict in South Kordofan and Blue Nile
 # Sudanese President Omar al-Bashir declares a four-month ceasefire in the states of Blue Nile and South Kordofan in order to give rebels of the Sudan People's Liberation Movement-North a chance to join the peace process and to lay down arms in order to end the conflict which has been ongoing since 2011. 
 
 The truce announced in Khartoum is intended to give rebels a chance to surrender their arms and join peace process.

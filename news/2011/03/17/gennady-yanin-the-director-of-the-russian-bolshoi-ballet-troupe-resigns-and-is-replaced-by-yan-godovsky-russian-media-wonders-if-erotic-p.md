@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/17/gennady-yanin-the-director-of-the-russian-bolshoi-ballet-troupe-resigns-and-is-replaced-by-yan-godovsky-russian-media-wonders-if-erotic-p.html)  [JSON](/news/2011/03/17/gennady-yanin-the-director-of-the-russian-bolshoi-ballet-troupe-resigns-and-is-replaced-by-yan-godovsky-russian-media-wonders-if-erotic-p.json)  [XML](/news/2011/03/17/gennady-yanin-the-director-of-the-russian-bolshoi-ballet-troupe-resigns-and-is-replaced-by-yan-godovsky-russian-media-wonders-if-erotic-p.xml)  
+
 ### [2011-03-17](/news/2011/03/17/index.md)
 
+##### Gennady Yanin
 # Gennady Yanin, the director of the Russian Bolshoi ballet troupe, resigns and is replaced by Yan Godovsky. Russian media wonders if erotic photos which appeared on the internet, allegedly of him, were part of a smear campaign. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-12770911)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

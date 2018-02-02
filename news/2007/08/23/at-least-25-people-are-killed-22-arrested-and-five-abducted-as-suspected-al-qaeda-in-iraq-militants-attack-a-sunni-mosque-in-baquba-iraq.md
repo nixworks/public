@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/23/at-least-25-people-are-killed-22-arrested-and-five-abducted-as-suspected-al-qaeda-in-iraq-militants-attack-a-sunni-mosque-in-baquba-iraq.html)  [JSON](/news/2007/08/23/at-least-25-people-are-killed-22-arrested-and-five-abducted-as-suspected-al-qaeda-in-iraq-militants-attack-a-sunni-mosque-in-baquba-iraq.json)  [XML](/news/2007/08/23/at-least-25-people-are-killed-22-arrested-and-five-abducted-as-suspected-al-qaeda-in-iraq-militants-attack-a-sunni-mosque-in-baquba-iraq.xml)  
+
 ### [2007-08-23](/news/2007/08/23/index.md)
 
+##### Al Qaeda in Iraq
 #  At least 25 people are killed, 22 arrested and five abducted as suspected Al Qaeda in Iraq militants attack a Sunni mosque in Baquba, Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6960009.stm)
 

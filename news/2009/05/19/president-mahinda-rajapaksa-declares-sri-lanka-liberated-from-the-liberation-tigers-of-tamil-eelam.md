@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/05/19/president-mahinda-rajapaksa-declares-sri-lanka-liberated-from-the-liberation-tigers-of-tamil-eelam.html)  [JSON](/news/2009/05/19/president-mahinda-rajapaksa-declares-sri-lanka-liberated-from-the-liberation-tigers-of-tamil-eelam.json)  [XML](/news/2009/05/19/president-mahinda-rajapaksa-declares-sri-lanka-liberated-from-the-liberation-tigers-of-tamil-eelam.xml)  
+
 ### [2009-05-19](/news/2009/05/19/index.md)
 
+##### President of Sri Lanka
 #  President Mahinda Rajapaksa declares Sri Lanka "liberated" from the Liberation Tigers of Tamil Eelam. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8056752.stm)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE54I0J420090519)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090519&t=2&i=10178983&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-19T184338Z_01_BTRE54I1G0X00_RTROPTP_0_SRILANKA-WAR)
+2. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE54I0J420090519)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20090519&t=2&i=10178983&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-19T184338Z_01_BTRE54I1G0X00_RTROPTP_0_SRILANKA-WAR)
 
 ### Related:
 

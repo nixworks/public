@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/8/the-tribune-company-files-for-chapter-11-bankruptcy.html)  [JSON](/news/2008/12/8/the-tribune-company-files-for-chapter-11-bankruptcy.json)  [XML](/news/2008/12/8/the-tribune-company-files-for-chapter-11-bankruptcy.xml)  
+
 ### [2008-12-8](/news/2008/12/8/index.md)
 
+##### Tribune Company
 #  The Tribune Company files for Chapter 11 bankruptcy. 
 
 In perhaps the starkest sign yet of trouble in the news business, media giant Tribune Co. -- owner of the Los Angeles Times, KTLA-TV Channel 5 and other newspapers and TV stations -- filed Monday...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/business/la-fi-tribune9-2008dec09,0,5273854.story)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

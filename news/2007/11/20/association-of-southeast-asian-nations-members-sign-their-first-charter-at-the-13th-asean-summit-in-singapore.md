@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/20/association-of-southeast-asian-nations-members-sign-their-first-charter-at-the-13th-asean-summit-in-singapore.html)  [JSON](/news/2007/11/20/association-of-southeast-asian-nations-members-sign-their-first-charter-at-the-13th-asean-summit-in-singapore.json)  [XML](/news/2007/11/20/association-of-southeast-asian-nations-members-sign-their-first-charter-at-the-13th-asean-summit-in-singapore.xml)  
+
 ### [2007-11-20](/news/2007/11/20/index.md)
 
+##### Association of Southeast Asian Nations
 #  Association of Southeast Asian Nations members sign their first charter at the 13th ASEAN Summit in Singapore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7102992.stm)
 

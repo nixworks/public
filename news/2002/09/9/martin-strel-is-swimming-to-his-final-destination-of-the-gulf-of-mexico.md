@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/9/martin-strel-is-swimming-to-his-final-destination-of-the-gulf-of-mexico.html)  [JSON](/news/2002/09/9/martin-strel-is-swimming-to-his-final-destination-of-the-gulf-of-mexico.json)  [XML](/news/2002/09/9/martin-strel-is-swimming-to-his-final-destination-of-the-gulf-of-mexico.xml)  
+
 ### [2002-09-9](/news/2002/09/9/index.md)
 
+##### Martin Strel
 #  Martin Strel is swimming to his final destination of the Gulf of Mexico.
 
 

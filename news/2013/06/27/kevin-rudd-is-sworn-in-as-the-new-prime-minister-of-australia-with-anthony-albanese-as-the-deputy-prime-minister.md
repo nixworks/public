@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/27/kevin-rudd-is-sworn-in-as-the-new-prime-minister-of-australia-with-anthony-albanese-as-the-deputy-prime-minister.html)  [JSON](/news/2013/06/27/kevin-rudd-is-sworn-in-as-the-new-prime-minister-of-australia-with-anthony-albanese-as-the-deputy-prime-minister.json)  [XML](/news/2013/06/27/kevin-rudd-is-sworn-in-as-the-new-prime-minister-of-australia-with-anthony-albanese-as-the-deputy-prime-minister.xml)  
+
 ### [2013-06-27](/news/2013/06/27/index.md)
 
+##### Kevin Rudd
 # Kevin Rudd is sworn in as the new Prime Minister of Australia with Anthony Albanese as the Deputy Prime Minister. 
 
 Kevin Rudd has been sworn in as Prime Minister almost three years to the day since he was ousted by Julia Gillard.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-06-27/rudd-sworn-in-after-dramatic-leadership-comeback/4784038)
 1. [Cover Image](http://www.abc.net.au/news/image/4783932-1x1-700x700.jpg)

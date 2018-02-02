@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/28/gunmen-kill-four-police-officers-and-four-param
 
 ### [2016-06-28](/news/2016/06/28/index.md)
 
+##### Balochistan conflict
 # Gunmen kill four police officers and four paramilitary soldiers in separate attacks in the city of Quetta. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

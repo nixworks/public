@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/5/a-united-nations-court-imposes-a-defense-lawyer-on-former-bosnian-serb-leader-radovan-karada3-4ia-and-postpones-his-trial-until-march-2010.html)  [JSON](/news/2009/11/5/a-united-nations-court-imposes-a-defense-lawyer-on-former-bosnian-serb-leader-radovan-karada3-4ia-and-postpones-his-trial-until-march-2010.json)  [XML](/news/2009/11/5/a-united-nations-court-imposes-a-defense-lawyer-on-former-bosnian-serb-leader-radovan-karada3-4ia-and-postpones-his-trial-until-march-2010.xml)  
+
 ### [2009-11-5](/news/2009/11/5/index.md)
 
+##### United Nations
 #  A United Nations court imposes a defense lawyer on former Bosnian Serb leader Radovan Karadzic, and postpones his trial until March 2010. 
 
 Radovan Karadzic will have a defence lawyer imposed on him after United Nations judges ruled that he had &#039;substantially and persistently obstructed&#039; his trial for genocide and war crimes.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/20091151454126270.html)
 2. [Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/bosnia/6509105/Radovan-Karadzic-trial-delayed-until-March-2010.html)

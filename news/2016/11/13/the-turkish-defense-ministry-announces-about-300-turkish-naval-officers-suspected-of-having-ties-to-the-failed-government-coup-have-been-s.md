@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/13/the-turkish-defense-ministry-announces-about-30
 
 ### [2016-11-13](/news/2016/11/13/index.md)
 
+##### 2016 Turkish purges
 # The Turkish Defense Ministry announces about 300 Turkish naval officers, suspected of having ties to the failed government coup, have been suspended or dismissed. 
 
 Some 300 Turkish naval officers have been suspended or dismissed as part of a crackdown of people suspected of having ties to a failed government coup in July.

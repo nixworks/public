@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2008/02/17/the-parliament-of-kosovo-declares-independence-from-serbia.html)  [JSON](/news/2008/02/17/the-parliament-of-kosovo-declares-independence-from-serbia.json)  [XML](/news/2008/02/17/the-parliament-of-kosovo-declares-independence-from-serbia.xml)  
+
 ### [2008-02-17](/news/2008/02/17/index.md)
 
+##### Kosovo
 #  The parliament of Kosovo declares independence from Serbia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7249034.stm)
+
+### Changes:
+
+1. [ Kosovo declares its independence The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/kosovo-declares-its-independencep-the-parliament-of-kosovo-declares-independence-from-serbia.md) _2017-08-25 03:21:47 (First version)_
+2. [ Kosovo declares its independence: The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/kosovo-declares-its-independence-the-parliament-of-kosovo-declares-independence-from-serbia.md) _2017-08-27 03:21:41 (Update)_
+2. [ The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/the-parliament-of-kosovo-declares-independence-from-serbia.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [Kosovo Serbs block off two border crossings with Serbia as the Kosovo government seeks to take them over. ](/news/2011/09/16/kosovo-serbs-block-off-two-border-crossings-with-serbia-as-the-kosovo-government-seeks-to-take-them-over.md) _Context: Kosovo, Serbia_
 4. [NATO intervenes in the border clashes between Kosovo and Serbia. ](/news/2011/07/27/nato-intervenes-in-the-border-clashes-between-kosovo-and-serbia.md) _Context: Kosovo, Serbia_
 5. [Serbia and Kosovo sign the first accords between the two nations since Kosovo's declaration of independence three years ago. ](/news/2011/07/2/serbia-and-kosovo-sign-the-first-accords-between-the-two-nations-since-kosovo-s-declaration-of-independence-three-years-ago.md) _Context: Kosovo, Serbia_
-
-### Changes:
-
-1. [ Kosovo declares its independence The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/kosovo-declares-its-independencep-the-parliament-of-kosovo-declares-independence-from-serbia.md) _2017-08-25 03:21:47 (First version)_
-2. [ Kosovo declares its independence: The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/kosovo-declares-its-independence-the-parliament-of-kosovo-declares-independence-from-serbia.md) _2017-08-27 03:21:41 (Update)_
-2. [ The parliament of Kosovo declares independence from Serbia. ](/news/2008/02/17/the-parliament-of-kosovo-declares-independence-from-serbia.md) _(Current version)_

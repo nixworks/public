@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/11/11/transport-for-london-takes-over-the-north-london-line-and-the-other-suburban-rail-lines-hitherto-operated-by-silverlink-to-form-the-london.html)  [JSON](/news/2007/11/11/transport-for-london-takes-over-the-north-london-line-and-the-other-suburban-rail-lines-hitherto-operated-by-silverlink-to-form-the-london.json)  [XML](/news/2007/11/11/transport-for-london-takes-over-the-north-london-line-and-the-other-suburban-rail-lines-hitherto-operated-by-silverlink-to-form-the-london.xml)  
+
 ### [2007-11-11](/news/2007/11/11/index.md)
 
+##### Transport for London
 #  Transport for London takes over the North London Line and the other suburban rail lines hitherto operated by Silverlink to form the London Overground. While remaining part of the National Rail network, the contracting authority for the franchise is Transport for London, rather than central Government.
 
 

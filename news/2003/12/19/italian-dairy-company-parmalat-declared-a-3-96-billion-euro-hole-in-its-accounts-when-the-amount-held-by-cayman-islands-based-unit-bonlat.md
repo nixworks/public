@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2003/12/19/italian-dairy-company-parmalat-declared-a-3-96-billion-euro-hole-in-its-accounts-when-the-amount-held-by-cayman-islands-based-unit-bonlat.html)  [JSON](/news/2003/12/19/italian-dairy-company-parmalat-declared-a-3-96-billion-euro-hole-in-its-accounts-when-the-amount-held-by-cayman-islands-based-unit-bonlat.json)  [XML](/news/2003/12/19/italian-dairy-company-parmalat-declared-a-3-96-billion-euro-hole-in-its-accounts-when-the-amount-held-by-cayman-islands-based-unit-bonlat.xml)  
+
 ### [2003-12-19](/news/2003/12/19/index.md)
 
-#  Italian dairy company Parmalat declared a 3.96 billion euro hole in its accounts when the amount held by Cayman Islands-based unit, Bonlat Financing Corporation, was declared false by Bank of America. [http:--www.reuters.com-newsArticle.jhtml?type=businessNews&storyID=4022497]
+##### Parmalat
+#  Italian dairy company Parmalat declared a 3.96 billion euro hole in its accounts when the amount held by Cayman Islands-based unit, Bonlat Financing Corporation, was declared false by Bank of America. [https:--www.reuters.com-newsArticle.jhtml?type=businessNews&storyID=4022497]
 
 
 

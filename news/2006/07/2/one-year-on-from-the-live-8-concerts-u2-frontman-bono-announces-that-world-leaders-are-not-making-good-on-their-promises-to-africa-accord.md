@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/2/one-year-on-from-the-live-8-concerts-u2-frontman-bono-announces-that-world-leaders-are-not-making-good-on-their-promises-to-africa-accord.html)  [JSON](/news/2006/07/2/one-year-on-from-the-live-8-concerts-u2-frontman-bono-announces-that-world-leaders-are-not-making-good-on-their-promises-to-africa-accord.json)  [XML](/news/2006/07/2/one-year-on-from-the-live-8-concerts-u2-frontman-bono-announces-that-world-leaders-are-not-making-good-on-their-promises-to-africa-accord.xml)  
+
 ### [2006-07-2](/news/2006/07/2/index.md)
 
+##### Live 8
 #  One year on from the Live 8 concerts, U2 frontman Bono announces that world leaders are not making good on their promises to Africa. According to Bono in a recent CNN interview, not enough is being done to make trade fair. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/africa/06/29/bono.africa.reut/index.html)
 

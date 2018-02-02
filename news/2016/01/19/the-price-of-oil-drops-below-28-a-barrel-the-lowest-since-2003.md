@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/19/the-price-of-oil-drops-below-28-a-barrel-the-lo
 
 ### [2016-01-19](/news/2016/01/19/index.md)
 
+##### 
 # The price of oil drops below $28 a barrel, the lowest since 2003. 
 
 

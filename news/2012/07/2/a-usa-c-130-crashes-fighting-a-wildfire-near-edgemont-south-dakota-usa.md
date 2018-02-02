@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/2/a-usa-c-130-crashes-fighting-a-wildfire-near-edgemont-south-dakota-usa.html)  [JSON](/news/2012/07/2/a-usa-c-130-crashes-fighting-a-wildfire-near-edgemont-south-dakota-usa.json)  [XML](/news/2012/07/2/a-usa-c-130-crashes-fighting-a-wildfire-near-edgemont-south-dakota-usa.xml)  
+
 ### [2012-07-2](/news/2012/07/2/index.md)
 
+##### USA
 # A USA C-130 crashes fighting a wildfire near Edgemont, South Dakota, USA. 
 
 An Air Force C-130 tanker has crashed while battling a South Dakota wildfire, killing and injuring crew members and forcing the grounding of a fleet of eight such firefighting planes, the U.S. military said on Monday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/02/us-usa-wildfires-crash-idUSBRE8610ZO20120702)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/07/02/us-usa-wildfires-crash-idUSBRE8610ZO20120702)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

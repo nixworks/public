@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/9/new-ministers-of-defence-finance-interior-health
 
 ### [2018-01-9](/news/2018/01/9/index.md)
 
+##### Politics of Poland
 # New ministers of defence, finance, interior, health, environment and foreign affairs, amongst others, are appointed. 
 
 

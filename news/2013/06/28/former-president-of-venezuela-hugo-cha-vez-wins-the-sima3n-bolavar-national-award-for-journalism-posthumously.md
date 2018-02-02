@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/28/former-president-of-venezuela-hugo-cha-vez-wins-the-sima3n-bolavar-national-award-for-journalism-posthumously.html)  [JSON](/news/2013/06/28/former-president-of-venezuela-hugo-cha-vez-wins-the-sima3n-bolavar-national-award-for-journalism-posthumously.json)  [XML](/news/2013/06/28/former-president-of-venezuela-hugo-cha-vez-wins-the-sima3n-bolavar-national-award-for-journalism-posthumously.xml)  
+
 ### [2013-06-28](/news/2013/06/28/index.md)
 
+##### Hugo Chavez
 # Former President of Venezuela Hugo Chavez wins the Simon Bolivar National Award for Journalism posthumously. 
 
 One of the daughters of Venezuela&#039;s late president Hugo Chávez received the Simon Bolivar National Award for Journalism on behalf of her father.
 
 
-### Source:
+### Sources:
 
 1. [Mail & Guardian Online](http://mg.co.za/article/2013-06-28-chavez-wins-posthumous-journalism-award)
 1. [Cover Image](https://cdn.mg.co.za/crop/content/images/2012/05/12/chavez.jpg/1280x720/)

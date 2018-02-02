@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/8/the-non-governmental-organization-freedom-house-ranks-burma-cuba-libya-north-korea-sudan-syria-turkmenistan-and-uzbekistan-as-the-wo.html)  [JSON](/news/2006/09/8/the-non-governmental-organization-freedom-house-ranks-burma-cuba-libya-north-korea-sudan-syria-turkmenistan-and-uzbekistan-as-the-wo.json)  [XML](/news/2006/09/8/the-non-governmental-organization-freedom-house-ranks-burma-cuba-libya-north-korea-sudan-syria-turkmenistan-and-uzbekistan-as-the-wo.xml)  
+
 ### [2006-09-8](/news/2006/09/8/index.md)
 
+##### NGO
 #  The non-governmental organization Freedom House ranks Burma, Cuba, Libya, North Korea, Sudan, Syria, Turkmenistan, and Uzbekistan as the worst violators of human rights. FH also cited Tibet and Chechnya as areas of intense repression. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Payvand](http://www.payvand.com/news/06/sep/1091.html)
 

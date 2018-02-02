@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/09/30/israel-launches-a-major-offensive-into-the-jabaliya-refugee-camp-killing-at-least-23-gunmen-and-civilians-earlier-this-morning-a-column-o.html)  [JSON](/news/2004/09/30/israel-launches-a-major-offensive-into-the-jabaliya-refugee-camp-killing-at-least-23-gunmen-and-civilians-earlier-this-morning-a-column-o.json)  [XML](/news/2004/09/30/israel-launches-a-major-offensive-into-the-jabaliya-refugee-camp-killing-at-least-23-gunmen-and-civilians-earlier-this-morning-a-column-o.xml)  
+
 ### [2004-09-30](/news/2004/09/30/index.md)
 
+##### Arab-Israeli Conflict
 #  Israel launches a major offensive into the Jabaliya refugee camp killing at least 23 gunmen and civilians. Earlier this morning, a column of Israeli tanks moved into the center of the camp, followed by bulldozers. At least three Palestinian civilians have been killed thus far. Homes are being demolished, forcing people to flee. Seventy-two Palestinians are known to have been wounded, some losing limbs. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [AP](http://www.kansascity.com/mld/kansascity/news/local/9797477.htm?1c)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3702902.stm)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6374094)
-3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6374094)
 
 ### Related:
 

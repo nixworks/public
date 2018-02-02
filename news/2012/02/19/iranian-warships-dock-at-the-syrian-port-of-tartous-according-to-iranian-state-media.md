@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/19/iranian-warships-dock-at-the-syrian-port-of-tartous-according-to-iranian-state-media.html)  [JSON](/news/2012/02/19/iranian-warships-dock-at-the-syrian-port-of-tartous-according-to-iranian-state-media.json)  [XML](/news/2012/02/19/iranian-warships-dock-at-the-syrian-port-of-tartous-according-to-iranian-state-media.xml)  
+
 ### [2012-02-19](/news/2012/02/19/index.md)
 
+##### Iran
 # Iranian warships dock at the Syrian port of Tartous, according to Iranian state media. 
 
 Iran state media says two vessels have crossed Suez Canal and arrived in Syria, provoking angry response from Israel.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/02/20122197221461654.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/19/2012219164418606734_20.jpg)

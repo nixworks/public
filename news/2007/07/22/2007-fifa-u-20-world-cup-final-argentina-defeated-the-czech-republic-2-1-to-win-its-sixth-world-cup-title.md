@@ -1,19 +1,22 @@
+
+Formats: [HTML](/news/2007/07/22/2007-fifa-u-20-world-cup-final-argentina-defeated-the-czech-republic-2-1-to-win-its-sixth-world-cup-title.html)  [JSON](/news/2007/07/22/2007-fifa-u-20-world-cup-final-argentina-defeated-the-czech-republic-2-1-to-win-its-sixth-world-cup-title.json)  [XML](/news/2007/07/22/2007-fifa-u-20-world-cup-final-argentina-defeated-the-czech-republic-2-1-to-win-its-sixth-world-cup-title.xml)  
+
 ### [2007-07-22](/news/2007/07/22/index.md)
 
+##### 2007 FIFA U-20 World Cup
 #  2007 FIFA U-20 World Cup Final: Argentina defeated the Czech Republic 2-1 to win its sixth World Cup title. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [TSN](http://www.tsn.ca/soccer/news_story/?ID=214328&hubname=soccer)
-1. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
+1. [TSN](https://www.tsn.ca/soccer/news_story/?ID=214328&hubname=soccer)
 
 ### Related:
 
 1. [ 2007 FIFA U-20 World Cup: After the Argentina vs Chile semi-final game ended, a scuffle between Toronto Police officers and members of the Chilean team led to the arrest of 21 players. ](/news/2007/07/20/2007-fifa-u-20-world-cup-after-the-argentina-vs-chile-semi-final-game-ended-a-scuffle-between-toronto-police-officers-and-members-of-the.md) _Context: 2007 FIFA U-20 World Cup, Argentina_
-2. [The Chamber of Deputies of the Czech Republic passes a Czech Social Democratic Party-proposed amendment to the constitution, giving citizens the right to acquire, possess and carry firearms for the purpose of security. The constitutional amendment will now go to the Senate, where it is expected to pass. ](/news/2017/06/29/the-chamber-of-deputies-of-the-czech-republic-passes-a-czech-social-democratic-party-proposed-amendment-to-the-constitution-giving-citizens.md) _Context: Czech Republic_
-3. [A car knocks down the security fences of the Pink House, the Presidential Palace of Argentina, and then stops in front of the building's gate. The authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. ](/news/2017/06/29/a-car-knocks-down-the-security-fences-of-the-pink-house-the-presidential-palace-of-argentina-and-then-stops-in-front-of-the-building-s-gat.md) _Context: Argentina_
-4. [A secret collection of Nazi heritage is found in Argentina. ](/news/2017/06/20/a-secret-collection-of-nazi-heritage-is-found-in-argentina.md) _Context: Argentina_
-5. [ Czech Prime Minister Bohuslav Sobotka has announced that he will submit his government's resignation because of a disagreement with Finance Minister Andrej Babis. ](/news/2017/05/2/czech-prime-minister-bohuslav-sobotka-has-announced-that-he-will-submit-his-government-s-resignation-because-of-a-disagreement-with-finance.md) _Context: Czech Republic_
+2. [ Mauricio Macri, a member of the National Congress of Argentina and president of Boca Juniors, is elected as the Chief of Government of Buenos Aires. ](/news/2018/06/24/mauricio-macri-a-member-of-the-national-congress-of-argentina-and-president-of-boca-juniors-is-elected-as-the-chief-of-government-of-buen.md) _Context: Argentina_
+3. [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic, after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md) _Context: Czech Republic_
+4. [The European Commission orders Poland, the Czech Republic and Hungary to court over their refusal to incorporate more refugees. This is the third step in a process that may lead to fines and loss of the countries' voting rights in the European Union. ](/news/2017/12/7/the-european-commission-orders-poland-the-czech-republic-and-hungary-to-court-over-their-refusal-to-incorporate-more-refugees-this-is-the.md) _Context: Czech Republic_
+5. [The Czech Republic recognizes West Jerusalem as Israel's capital "in practice". ](/news/2017/12/7/the-czech-republic-recognizes-west-jerusalem-as-israel-s-capital-in-practice.md) _Context: Czech Republic_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/10/the-independent-electoral-commission-announces-the-results-of-the-2014-south-african-general-election.html)  [JSON](/news/2014/05/10/the-independent-electoral-commission-announces-the-results-of-the-2014-south-african-general-election.json)  [XML](/news/2014/05/10/the-independent-electoral-commission-announces-the-results-of-the-2014-south-african-general-election.xml)  
+
 ### [2014-05-10](/news/2014/05/10/index.md)
 
+##### Independent Electoral Commission
 # The Independent Electoral Commission announces the results of the 2014 South African general election. 
 
 IEC chair Pansy Tlakula has announced that 13 parties won seats in the National Assembly in this year&#039;s elections with the ANC taking 249 seats.
 
 
-### Source:
+### Sources:
 
 1. [M&G](http://mg.co.za/article/2014-05-10-07-its-official-2014-election-results-announced)
 1. [Cover Image](https://cdn.mg.co.za/crop/content/images/2014/05/10/panstytlakula3868_landscape.jpg/1280x720/)

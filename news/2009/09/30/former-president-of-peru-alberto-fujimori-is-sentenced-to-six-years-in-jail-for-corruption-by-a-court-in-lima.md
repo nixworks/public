@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/30/former-president-of-peru-alberto-fujimori-is-sentenced-to-six-years-in-jail-for-corruption-by-a-court-in-lima.html)  [JSON](/news/2009/09/30/former-president-of-peru-alberto-fujimori-is-sentenced-to-six-years-in-jail-for-corruption-by-a-court-in-lima.json)  [XML](/news/2009/09/30/former-president-of-peru-alberto-fujimori-is-sentenced-to-six-years-in-jail-for-corruption-by-a-court-in-lima.xml)  
+
 ### [2009-09-30](/news/2009/09/30/index.md)
 
+##### President
 #  Former President of Peru Alberto Fujimori is sentenced to six years in jail for corruption by a court in Lima. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8283844.stm)
 

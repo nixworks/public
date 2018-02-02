@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/15/new-zealand-imposes-diplomatic-sanctions-on-israel-after-an-incident-involving-two-alleged-mossad-agents-committing-passport-fraud.html)  [JSON](/news/2004/07/15/new-zealand-imposes-diplomatic-sanctions-on-israel-after-an-incident-involving-two-alleged-mossad-agents-committing-passport-fraud.json)  [XML](/news/2004/07/15/new-zealand-imposes-diplomatic-sanctions-on-israel-after-an-incident-involving-two-alleged-mossad-agents-committing-passport-fraud.xml)  
+
 ### [2004-07-15](/news/2004/07/15/index.md)
 
+##### New Zealand
 #  New Zealand imposes diplomatic sanctions on Israel after an incident involving two alleged Mossad agents committing passport fraud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3896009.stm)
 2. [Independent](http://news.independent.co.uk/world/australasia/story.jsp?story=541474)

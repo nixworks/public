@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/27/the-south-korean-government-calls-an-emergency-security-meeting-to-investigate-yesterday-s-ship-sinking-near-baengnyeong-island-in-the-yello.html)  [JSON](/news/2010/03/27/the-south-korean-government-calls-an-emergency-security-meeting-to-investigate-yesterday-s-ship-sinking-near-baengnyeong-island-in-the-yello.json)  [XML](/news/2010/03/27/the-south-korean-government-calls-an-emergency-security-meeting-to-investigate-yesterday-s-ship-sinking-near-baengnyeong-island-in-the-yello.xml)  
+
 ### [2010-03-27](/news/2010/03/27/index.md)
 
+##### South Korea
 # The South Korean government calls an emergency security meeting to investigate yesterday's ship sinking near Baengnyeong Island in the Yellow Sea as a rescue operation continues to retrieve 46 missing sailors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/2010326164719466997.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8590396.stm)

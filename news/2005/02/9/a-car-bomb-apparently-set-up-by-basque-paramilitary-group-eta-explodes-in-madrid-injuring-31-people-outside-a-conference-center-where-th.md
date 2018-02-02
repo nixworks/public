@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/02/9/a-car-bomb-apparently-set-up-by-basque-paramilitary-group-eta-explodes-in-madrid-injuring-31-people-outside-a-conference-center-where-th.html)  [JSON](/news/2005/02/9/a-car-bomb-apparently-set-up-by-basque-paramilitary-group-eta-explodes-in-madrid-injuring-31-people-outside-a-conference-center-where-th.json)  [XML](/news/2005/02/9/a-car-bomb-apparently-set-up-by-basque-paramilitary-group-eta-explodes-in-madrid-injuring-31-people-outside-a-conference-center-where-th.xml)  
+
 ### [2005-02-9](/news/2005/02/9/index.md)
 
+##### Basque
 #  A car bomb, apparently set up by Basque paramilitary group ETA, explodes in Madrid, injuring 31 people outside a conference center where the King and Queen of Spain and President of Mexico were to open an exhibition later today. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4249159.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7577444)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7577444)
 2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:

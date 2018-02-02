@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/29/toyota-which-on-tuesday-announced-a-recall-of-1
 
 ### [2016-06-29](/news/2016/06/29/index.md)
 
+##### Toyota
 # Toyota, which on Tuesday announced a recall of 1.43 million hybrids because of an airbag problem, today announces the recall of 2.87 million vehicles worldwide, produced between April 2006 and August 2015, because of a possible problem with their evaporative fuel emissions control unit. 
 
 Toyota Motor Corp (7203.T) has recalled 3.37 million cars worldwide over possible defects involving air bags and emissions control units.

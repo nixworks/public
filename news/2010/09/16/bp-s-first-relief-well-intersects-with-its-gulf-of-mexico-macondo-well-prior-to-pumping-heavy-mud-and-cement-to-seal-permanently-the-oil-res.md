@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/09/16/bp-s-first-relief-well-intersects-with-its-gulf-of-mexico-macondo-well-prior-to-pumping-heavy-mud-and-cement-to-seal-permanently-the-oil-res.html)  [JSON](/news/2010/09/16/bp-s-first-relief-well-intersects-with-its-gulf-of-mexico-macondo-well-prior-to-pumping-heavy-mud-and-cement-to-seal-permanently-the-oil-res.json)  [XML](/news/2010/09/16/bp-s-first-relief-well-intersects-with-its-gulf-of-mexico-macondo-well-prior-to-pumping-heavy-mud-and-cement-to-seal-permanently-the-oil-res.xml)  
+
 ### [2010-09-16](/news/2010/09/16/index.md)
 
+##### BP
 # BP's first relief well intersects with its Gulf of Mexico Macondo well prior to pumping heavy mud and cement to seal permanently the oil reservoir adjacent to the well. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo News](http://news.yahoo.com/s/ap/20100917/ap_on_re_us/us_gulf_oil_spill_2;_ylt=AteMfPy5yI9uhUhOQVDANGKr_aF4;_ylu=X3oDMTE2bWE5NmZ0BHBvcwMxBHNlYwN5bi1yLWItbGVmdARzbGsDZXYtcmVsaWVmd2Vs)
+1. [Yahoo News](https://news.yahoo.com/s/ap/20100917/ap_on_re_us/us_gulf_oil_spill_2;_ylt=AteMfPy5yI9uhUhOQVDANGKr_aF4;_ylu=X3oDMTE2bWE5NmZ0BHBvcwMxBHNlYwN5bi1yLWItbGVmdARzbGsDZXYtcmVsaWVmd2Vs)
 
 ### Related:
 

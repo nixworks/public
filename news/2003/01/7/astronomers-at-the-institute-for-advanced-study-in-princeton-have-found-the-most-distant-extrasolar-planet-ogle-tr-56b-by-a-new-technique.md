@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/7/astronomers-at-the-institute-for-advanced-study-in-princeton-have-found-the-most-distant-extrasolar-planet-ogle-tr-56b-by-a-new-technique.html)  [JSON](/news/2003/01/7/astronomers-at-the-institute-for-advanced-study-in-princeton-have-found-the-most-distant-extrasolar-planet-ogle-tr-56b-by-a-new-technique.json)  [XML](/news/2003/01/7/astronomers-at-the-institute-for-advanced-study-in-princeton-have-found-the-most-distant-extrasolar-planet-ogle-tr-56b-by-a-new-technique.xml)  
+
 ### [2003-01-7](/news/2003/01/7/index.md)
 
+##### Institute for Advanced Study
 #  Astronomers at the Institute for Advanced Study in Princeton have found the most distant extrasolar planet, OGLE-TR-56b, by a new technique of observing the intensity of light as a planet transits its sun, rather than by gravitational perturbation.
 
 

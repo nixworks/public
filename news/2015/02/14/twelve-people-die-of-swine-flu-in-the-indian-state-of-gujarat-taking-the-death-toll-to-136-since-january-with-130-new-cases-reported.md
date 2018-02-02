@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/14/twelve-people-die-of-swine-flu-in-the-indian-state-of-gujarat-taking-the-death-toll-to-136-since-january-with-130-new-cases-reported.html)  [JSON](/news/2015/02/14/twelve-people-die-of-swine-flu-in-the-indian-state-of-gujarat-taking-the-death-toll-to-136-since-january-with-130-new-cases-reported.json)  [XML](/news/2015/02/14/twelve-people-die-of-swine-flu-in-the-indian-state-of-gujarat-taking-the-death-toll-to-136-since-january-with-130-new-cases-reported.xml)  
+
 ### [2015-02-14](/news/2015/02/14/index.md)
 
+##### swine flu
 # Twelve people die of swine flu in the Indian state of Gujarat taking the death toll to 136 since January with 130 new cases reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IBN live](http://ibnlive.in.com/news/swine-flu-claims-12-more-lives-in-gujarat-toll-rises-to-136/528507-3-238.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/4/in-congo-kinshasa-the-equestrian-statue-of-king-leopold-of-the-belgians-who-founded-the-congo-free-state-in-1885-is-briefly-re-erected.html)  [JSON](/news/2005/02/4/in-congo-kinshasa-the-equestrian-statue-of-king-leopold-of-the-belgians-who-founded-the-congo-free-state-in-1885-is-briefly-re-erected.json)  [XML](/news/2005/02/4/in-congo-kinshasa-the-equestrian-statue-of-king-leopold-of-the-belgians-who-founded-the-congo-free-state-in-1885-is-briefly-re-erected.xml)  
+
 ### [2005-02-4](/news/2005/02/4/index.md)
 
+##### Democratic Republic of Congo
 #  In Congo (Kinshasa), the equestrian statue of King Lopold of the Belgians, who founded the Congo Free State in 1885, is briefly re-erected in Kinshasa before it is again removed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4235237.stm)
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1657506,00.html)

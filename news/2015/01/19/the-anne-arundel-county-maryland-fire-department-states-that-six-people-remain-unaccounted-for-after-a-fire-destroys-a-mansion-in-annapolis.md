@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/19/the-anne-arundel-county-maryland-fire-department-states-that-six-people-remain-unaccounted-for-after-a-fire-destroys-a-mansion-in-annapolis.html)  [JSON](/news/2015/01/19/the-anne-arundel-county-maryland-fire-department-states-that-six-people-remain-unaccounted-for-after-a-fire-destroys-a-mansion-in-annapolis.json)  [XML](/news/2015/01/19/the-anne-arundel-county-maryland-fire-department-states-that-six-people-remain-unaccounted-for-after-a-fire-destroys-a-mansion-in-annapolis.xml)  
+
 ### [2015-01-19](/news/2015/01/19/index.md)
 
+##### Anne Arundel County, Maryland
 # The Anne Arundel County, Maryland Fire Department states that six people remain unaccounted for after a fire destroys a mansion in Annapolis, Maryland. The home is the residence of Don Pyle, the CEO of Reston, Virginia-based ScienceLogic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSN](http://www.msn.com/en-us/news/us/fire-official-6-unaccounted-for-in-maryland-mansion-blaze/ar-AA8lXD1)
 

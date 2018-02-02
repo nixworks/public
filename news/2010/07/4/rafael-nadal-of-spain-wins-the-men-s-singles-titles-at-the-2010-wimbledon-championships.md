@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/4/rafael-nadal-of-spain-wins-the-men-s-singles-titles-at-the-2010-wimbledon-championships.html)  [JSON](/news/2010/07/4/rafael-nadal-of-spain-wins-the-men-s-singles-titles-at-the-2010-wimbledon-championships.json)  [XML](/news/2010/07/4/rafael-nadal-of-spain-wins-the-men-s-singles-titles-at-the-2010-wimbledon-championships.xml)  
+
 ### [2010-07-4](/news/2010/07/4/index.md)
 
+##### Rafael Nadal
 # Rafael Nadal of Spain wins the men's singles titles at the 2010 Wimbledon Championships. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gkNZrTZDvv_4f2PAU2cXA-kRxarg)
 2. [BBC](http://news.bbc.co.uk/sport2/hi/tennis/8784861.stm)
@@ -16,4 +20,4 @@
 2. [ Robin Soderling of Sweden defeats world-number-one, four-time French Open and defending champion Rafael Nadal of Spain in tennis's 2009 French Open. ](/news/2009/05/31/robin-sapderling-of-sweden-defeats-world-number-one-four-time-french-open-and-defending-champion-rafael-nadal-of-spain-in-tennis-s-2009-fr.md) _Context: Rafael Nadal, Spain_
 3. [ Rafael Nadal of Spain defeats Roger Federer of Switzerland to win the 2009 Australian Open men's singles. ](/news/2009/02/1/rafael-nadal-of-spain-defeats-roger-federer-of-switzerland-to-win-the-2009-australian-open-men-s-singles.md) _Context: Rafael Nadal, Spain_
 4. [ Rafael Nadal of Spain wins the 2008 Wimbledon Championships for the first time defeating Roger Federer of Switzerland in a marathon match, winning 6-4, 6-4, 6-7 (5), 6-7 (8), 9-7. ](/news/2008/07/6/rafael-nadal-of-spain-wins-the-2008-wimbledon-championships-for-the-first-time-defeating-roger-federer-of-switzerland-in-a-marathon-match.md) _Context: Rafael Nadal, Spain_
-5. [Spain's third largest bank, CaixaBank, announces it is moving its legal base out of Catalonia to Valencia. This follows a similar move yesterday by Catalan banking group Banco Sabadell who announced they are moving their headquarters to Alicante in response to growing political insecurity in Catalonia. ](/news/2017/10/6/spain-s-third-largest-bank-caixabank-announces-it-is-moving-its-legal-base-out-of-catalonia-to-valencia-this-follows-a-similar-move-yeste.md) _Context: Spain_
+5. [Carles Puigdemont, ex-President of Catalonia, travels to Denmark while Spanish Attorney General requests the European Arrest Warrant. The Speaker of the Catalan Parliament appoints Puigdemont to be invested as President. Spain's Supreme Court refuses to reactivate the arrest warrant. ](/news/2018/01/22/carles-puigdemont-ex-president-of-catalonia-travels-to-denmark-while-spanish-attorney-general-requests-the-european-arrest-warrant-the-sp.md) _Context: Spain_

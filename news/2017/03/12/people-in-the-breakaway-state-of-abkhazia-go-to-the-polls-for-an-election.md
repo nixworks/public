@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/12/people-in-the-breakaway-state-of-abkhazia-go-to
 
 ### [2017-03-12](/news/2017/03/12/index.md)
 
+##### Abkhazian parliamentary election, 2017
 # People in the breakaway state of Abkhazia go to the polls for an election. 
 
 

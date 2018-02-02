@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/30/east-timor-rebel-leader-alfredo-reinhado-and-56-other-prisoners-escape-from-a-jail-in-the-capital-dili-throwing-the-troubled-nation-back-i.html)  [JSON](/news/2006/08/30/east-timor-rebel-leader-alfredo-reinhado-and-56-other-prisoners-escape-from-a-jail-in-the-capital-dili-throwing-the-troubled-nation-back-i.json)  [XML](/news/2006/08/30/east-timor-rebel-leader-alfredo-reinhado-and-56-other-prisoners-escape-from-a-jail-in-the-capital-dili-throwing-the-troubled-nation-back-i.xml)  
+
 ### [2006-08-30](/news/2006/08/30/index.md)
 
+##### East Timor
 #  East Timor rebel leader Alfredo Reinhado and 56 other prisoners escape from a jail in the capital Dili, throwing the troubled nation back into turmoil. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Ltd](http://www.news.com.au/story/0,23599,20308910-2,00.html)
 

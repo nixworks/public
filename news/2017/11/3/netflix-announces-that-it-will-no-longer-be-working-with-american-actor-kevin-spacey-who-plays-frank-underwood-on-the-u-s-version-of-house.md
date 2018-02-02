@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/3/netflix-announces-that-it-will-no-longer-be-work
 
 ### [2017-11-3](/news/2017/11/3/index.md)
 
+##### Kevin Spacey sexual assault allegations
 # Netflix announces that it will no longer be working with American actor Kevin Spacey who plays Frank Underwood on the U.S. version of "House of Cards". 
 
 A GRIM demise appears to be in the works for Frank Underwood, after Netflix today confirmed it will no longer work with Kevin Spacey.

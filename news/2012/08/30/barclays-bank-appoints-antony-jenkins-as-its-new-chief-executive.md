@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/30/barclays-bank-appoints-antony-jenkins-as-its-new-chief-executive.html)  [JSON](/news/2012/08/30/barclays-bank-appoints-antony-jenkins-as-its-new-chief-executive.json)  [XML](/news/2012/08/30/barclays-bank-appoints-antony-jenkins-as-its-new-chief-executive.xml)  
+
 ### [2012-08-30](/news/2012/08/30/index.md)
 
+##### Barclays
 # Barclays bank appoints Antony Jenkins as its new chief executive. 
 
 Barclays appoints Antony Jenkins as its new chief executive following the resignation of Bob Diamond over the Libor interest rate fixing scandal.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-19420310)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62568000/jpg/_62568452_015813283-1.jpg)

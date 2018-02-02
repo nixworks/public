@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/1/mohamed-nasheed-the-former-president-of-the-maldives-fails-to-appear-in-court-and-departs-on-tour-for-his-party-vice-president-mohammed-w.html)  [JSON](/news/2012/10/1/mohamed-nasheed-the-former-president-of-the-maldives-fails-to-appear-in-court-and-departs-on-tour-for-his-party-vice-president-mohammed-w.json)  [XML](/news/2012/10/1/mohamed-nasheed-the-former-president-of-the-maldives-fails-to-appear-in-court-and-departs-on-tour-for-his-party-vice-president-mohammed-w.xml)  
+
 ### [2012-10-1](/news/2012/10/1/index.md)
 
+##### Mohamed Nasheed
 # Mohamed Nasheed, the former president of the Maldives, fails to appear in court and departs on tour for his party. Vice-president Mohammed Waheed Deen, opening an academic conference in Male, says a nation can achieve democracy by the teachers imparting the relevant information. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haveeru](http://www.haveeru.com.mv/news/44854)
 2. [Haveeru](http://www.haveeru.com.mv/news/44856)

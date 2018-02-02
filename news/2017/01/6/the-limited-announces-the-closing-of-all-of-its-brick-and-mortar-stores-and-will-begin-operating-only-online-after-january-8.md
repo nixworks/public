@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/6/the-limited-announces-the-closing-of-all-of-its-
 
 ### [2017-01-6](/news/2017/01/6/index.md)
 
+##### The Limited
 # The Limited announces the closing of all of its brick-and-mortar stores and will begin operating only online after January 8. 
 
 The company will close brick-and-mortar stores this month.

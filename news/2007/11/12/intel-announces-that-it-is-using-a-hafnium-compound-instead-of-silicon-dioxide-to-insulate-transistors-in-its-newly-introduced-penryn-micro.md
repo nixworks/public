@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/12/intel-announces-that-it-is-using-a-hafnium-compound-instead-of-silicon-dioxide-to-insulate-transistors-in-its-newly-introduced-penryn-micro.html)  [JSON](/news/2007/11/12/intel-announces-that-it-is-using-a-hafnium-compound-instead-of-silicon-dioxide-to-insulate-transistors-in-its-newly-introduced-penryn-micro.json)  [XML](/news/2007/11/12/intel-announces-that-it-is-using-a-hafnium-compound-instead-of-silicon-dioxide-to-insulate-transistors-in-its-newly-introduced-penryn-micro.xml)  
+
 ### [2007-11-12](/news/2007/11/12/index.md)
 
+##### Intel
 #  Intel announces that it is using a hafnium compound instead of silicon dioxide to insulate transistors in its newly introduced Penryn microprocessor, eliminating power leakage through the gate (but not through the channel). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WSJ](http://online.wsj.com/article/SB119481053795589302.html?mod=MKTW)
 

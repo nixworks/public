@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/6/israeli-aircraft-fire-rockets-at-a-car-in-gaza-killing-two-islamic-jihad-members-and-three-innocent-bystanders-as-well-as-wounding-seven-o.html)  [JSON](/news/2006/03/6/israeli-aircraft-fire-rockets-at-a-car-in-gaza-killing-two-islamic-jihad-members-and-three-innocent-bystanders-as-well-as-wounding-seven-o.json)  [XML](/news/2006/03/6/israeli-aircraft-fire-rockets-at-a-car-in-gaza-killing-two-islamic-jihad-members-and-three-innocent-bystanders-as-well-as-wounding-seven-o.xml)  
+
 ### [2006-03-6](/news/2006/03/6/index.md)
 
+##### Israel
 #  Israeli aircraft fire rockets at a car in Gaza, killing two Islamic Jihad members and three innocent bystanders as well as wounding seven other people, mostly children. Commander-in-Chief of the Israel Air Force, Maj.-Gen. Eliezer Shkedy said: "We are doing everything we can possibly think of to prevent innocent people from being harmed, but this is a war and nothing is certain." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [JPost](http://fr.jpost.com/servlet/Satellite?cid=1139395554481&pagename=JPost/JPArticle/ShowFull)
 

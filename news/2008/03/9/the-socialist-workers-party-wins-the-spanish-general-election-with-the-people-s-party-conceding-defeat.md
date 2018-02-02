@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/9/the-socialist-workers-party-wins-the-spanish-general-election-with-the-people-s-party-conceding-defeat.html)  [JSON](/news/2008/03/9/the-socialist-workers-party-wins-the-spanish-general-election-with-the-people-s-party-conceding-defeat.json)  [XML](/news/2008/03/9/the-socialist-workers-party-wins-the-spanish-general-election-with-the-people-s-party-conceding-defeat.xml)  
+
 ### [2008-03-9](/news/2008/03/9/index.md)
 
+##### Socialist Workers' Party
 #  The Socialist Workers' Party wins the Spanish general election, with the People's Party conceding defeat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7285885.stm)
 

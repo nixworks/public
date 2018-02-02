@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/22/pope-benedict-xvi-pardons-his-former-butler-paolo-gabriele-following-his-recent-conviction-for-stealing-confidential-documents.html)  [JSON](/news/2012/12/22/pope-benedict-xvi-pardons-his-former-butler-paolo-gabriele-following-his-recent-conviction-for-stealing-confidential-documents.json)  [XML](/news/2012/12/22/pope-benedict-xvi-pardons-his-former-butler-paolo-gabriele-following-his-recent-conviction-for-stealing-confidential-documents.xml)  
+
 ### [2012-12-22](/news/2012/12/22/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI pardons his former butler Paolo Gabriele following his recent conviction for stealing confidential documents. 
 
 Pope Benedict XVI pardons former butler Paolo Gabriele, who was sentenced to 18 months in jail in October for stealing confidential papers.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20824814)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64914000/jpg/_64914336_pope_afp.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/29/public-school-teachers-in-detroit-begin-a-strike-after-failing-to-reach-an-agreement-with-school-district-officials.html)  [JSON](/news/2006/08/29/public-school-teachers-in-detroit-begin-a-strike-after-failing-to-reach-an-agreement-with-school-district-officials.json)  [XML](/news/2006/08/29/public-school-teachers-in-detroit-begin-a-strike-after-failing-to-reach-an-agreement-with-school-district-officials.xml)  
+
 ### [2006-08-29](/news/2006/08/29/index.md)
 
+##### Detroit
 #  Public school teachers in Detroit begin a strike after failing to reach an agreement with school district officials. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Detroit Free Press](http://www.freep.com/apps/pbcs.dll/article?AID=/20060828/NEWS12/608280426/-1/BUSINESS07)
 

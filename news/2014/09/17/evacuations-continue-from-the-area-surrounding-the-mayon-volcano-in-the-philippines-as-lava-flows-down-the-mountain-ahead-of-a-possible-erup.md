@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/17/evacuations-continue-from-the-area-surrounding-the-mayon-volcano-in-the-philippines-as-lava-flows-down-the-mountain-ahead-of-a-possible-erup.html)  [JSON](/news/2014/09/17/evacuations-continue-from-the-area-surrounding-the-mayon-volcano-in-the-philippines-as-lava-flows-down-the-mountain-ahead-of-a-possible-erup.json)  [XML](/news/2014/09/17/evacuations-continue-from-the-area-surrounding-the-mayon-volcano-in-the-philippines-as-lava-flows-down-the-mountain-ahead-of-a-possible-erup.xml)  
+
 ### [2014-09-17](/news/2014/09/17/index.md)
 
+##### Mayon Volcano
 # Evacuations continue from the area surrounding the Mayon Volcano in the Philippines as lava flows down the mountain ahead of a possible eruption. 
 
 Lava is flowing down the Philippines&#039; most active volcano as thousands evacuated.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2014-09-17/volcano-spewing-lava-in-philippines-hurries-evacuations/5751210)
 1. [Cover Image](http://www.abc.net.au/news/image/5751214-1x1-700x700.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/24/the-revolutionary-armed-forces-of-colombia-farc
 
 ### [2016-09-24](/news/2016/09/24/index.md)
 
+##### Colombian conflict
 # The Revolutionary Armed Forces of Colombia (FARC), the country's largest rebel group, gives its approval to a peace deal agreement with the government. President Juan Manuel Santos and FARC leader Timoleon Jimenez, known as Timochenko, will sign the agreement on September 26. To complete the approval process, a referendum will be held on October 2. 
 
 

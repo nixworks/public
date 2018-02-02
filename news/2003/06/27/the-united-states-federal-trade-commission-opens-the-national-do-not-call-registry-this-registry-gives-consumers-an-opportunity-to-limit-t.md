@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/27/the-united-states-federal-trade-commission-opens-the-national-do-not-call-registry-this-registry-gives-consumers-an-opportunity-to-limit-t.html)  [JSON](/news/2003/06/27/the-united-states-federal-trade-commission-opens-the-national-do-not-call-registry-this-registry-gives-consumers-an-opportunity-to-limit-t.json)  [XML](/news/2003/06/27/the-united-states-federal-trade-commission-opens-the-national-do-not-call-registry-this-registry-gives-consumers-an-opportunity-to-limit-t.xml)  
+
 ### [2003-06-27](/news/2003/06/27/index.md)
 
+##### U.S. Federal Trade Commission
 #  The United States Federal Trade Commission opens the National Do Not Call Registry. This registry gives consumers an opportunity to limit the telemarketing calls they receive. On October 1, 2003, when the National Do Not Call Registry became enforced, most telemarketers were required to remove the numbers on the registry from their call lists. See http:--donotcall.gov- or call 1-888 382-1222 for registration.,
 
 

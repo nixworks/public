@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/11/a-spate-of-car-bombings-kills-19-people-and-wounds-dozens-in-the-western-iraqi-city-of-ramadi-in-anbar-province.html)  [JSON](/news/2009/10/11/a-spate-of-car-bombings-kills-19-people-and-wounds-dozens-in-the-western-iraqi-city-of-ramadi-in-anbar-province.json)  [XML](/news/2009/10/11/a-spate-of-car-bombings-kills-19-people-and-wounds-dozens-in-the-western-iraqi-city-of-ramadi-in-anbar-province.xml)  
+
 ### [2009-10-11](/news/2009/10/11/index.md)
 
+##### Iraq
 #  A spate of car bombings kills 19 people and wounds dozens in the western Iraqi city of Ramadi, in Anbar province. 
 
 A spate of car bombings killed 19 people Sunday in Iraq&#39;s western Anbar province, once a hotbed of insurgency that later become a showcase for restoring peace. 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/33265136/ns/world_news-conflict_in_iraq/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/091011-iraq-hmed-11a.standard.jpg)

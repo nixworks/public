@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/13/the-television-sitcom-frasier-airs-its-final-episode-bringing-to-an-end-kelsey-grammer-s-23-years-playing-the-character-frasier-crane.html)  [JSON](/news/2004/05/13/the-television-sitcom-frasier-airs-its-final-episode-bringing-to-an-end-kelsey-grammer-s-23-years-playing-the-character-frasier-crane.json)  [XML](/news/2004/05/13/the-television-sitcom-frasier-airs-its-final-episode-bringing-to-an-end-kelsey-grammer-s-23-years-playing-the-character-frasier-crane.xml)  
+
 ### [2004-05-13](/news/2004/05/13/index.md)
 
+##### sitcom
 #  The television sitcom "Frasier" airs its final episode, bringing to an end Kelsey Grammer's 23 years playing the character Frasier Crane. 
 
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.
 
 
-### Source:
+### Sources:
 
 1. [Newsday](http://www.newsday.com/entertainment/tv/nyc-frasier0514,0,4075992.story?coll=ny-television-bigpix)
 1. [Cover Image](https://www.newsday.com/img/blog-share-nd.jpg)

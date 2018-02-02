@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/1/alison-brimelow-becomes-president-of-the-european-patent-office.html)  [JSON](/news/2007/07/1/alison-brimelow-becomes-president-of-the-european-patent-office.json)  [XML](/news/2007/07/1/alison-brimelow-becomes-president-of-the-european-patent-office.xml)  
+
 ### [2007-07-1](/news/2007/07/1/index.md)
 
+##### Alison Brimelow
 #  Alison Brimelow becomes President of the European Patent Office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Lawyer](http://www.thelawyer.com/cgi-bin/item.cgi?id=126935&d=122&h=24&f=46)
 

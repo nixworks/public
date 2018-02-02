@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/11/11/danilo-turk-wins-the-2007-slovenian-presidential-elections-with-a-large-margin.html)  [JSON](/news/2007/11/11/danilo-turk-wins-the-2007-slovenian-presidential-elections-with-a-large-margin.json)  [XML](/news/2007/11/11/danilo-turk-wins-the-2007-slovenian-presidential-elections-with-a-large-margin.xml)  
+
 ### [2007-11-11](/news/2007/11/11/index.md)
 
+##### Danilo Trk
 #  Danilo Trk wins the 2007 Slovenian presidential elections with a large margin. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20071111/wl_nm/slovenia_president_dc_3)
+1. [Reuters via Yahoo! News](https://news.yahoo.com/s/nm/20071111/wl_nm/slovenia_president_dc_3)
 
 ### Related:
 

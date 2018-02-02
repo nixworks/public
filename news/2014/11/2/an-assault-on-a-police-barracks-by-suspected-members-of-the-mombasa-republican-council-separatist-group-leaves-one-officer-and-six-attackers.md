@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/11/2/an-assault-on-a-police-barracks-by-suspected-members-of-the-mombasa-republican-council-separatist-group-leaves-one-officer-and-six-attackers.html)  [JSON](/news/2014/11/2/an-assault-on-a-police-barracks-by-suspected-members-of-the-mombasa-republican-council-separatist-group-leaves-one-officer-and-six-attackers.json)  [XML](/news/2014/11/2/an-assault-on-a-police-barracks-by-suspected-members-of-the-mombasa-republican-council-separatist-group-leaves-one-officer-and-six-attackers.xml)  
+
 ### [2014-11-2](/news/2014/11/2/index.md)
 
+##### Kenyan police
 # An assault on a police barracks by suspected members of the Mombasa Republican Council separatist group leaves one officer and six attackers dead in Mombasa, Kenya. 
 
 Kenyan soldiers shot dead six suspected members of a separatist group after they hacked an officer to death in an attack on barracks in the port city of Mombasa, police and military officials said on Sunday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/11/02/us-kenya-security-idUSKBN0IM0B520141102)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/11/02/us-kenya-security-idUSKBN0IM0B520141102)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

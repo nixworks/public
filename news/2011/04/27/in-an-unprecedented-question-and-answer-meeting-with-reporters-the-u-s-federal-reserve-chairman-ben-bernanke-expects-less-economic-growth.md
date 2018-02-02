@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/27/in-an-unprecedented-question-and-answer-meeting-with-reporters-the-u-s-federal-reserve-chairman-ben-bernanke-expects-less-economic-growth.html)  [JSON](/news/2011/04/27/in-an-unprecedented-question-and-answer-meeting-with-reporters-the-u-s-federal-reserve-chairman-ben-bernanke-expects-less-economic-growth.json)  [XML](/news/2011/04/27/in-an-unprecedented-question-and-answer-meeting-with-reporters-the-u-s-federal-reserve-chairman-ben-bernanke-expects-less-economic-growth.xml)  
+
 ### [2011-04-27](/news/2011/04/27/index.md)
 
+##### U.S. Federal Reserve
 # In an unprecedented question and answer meeting with reporters, the U.S. Federal Reserve chairman Ben Bernanke expects less economic growth for 2011 as the economy has been weaker in recent months than he had thought it would be. 
 
 The Federal Reserve cuts its economic growth forecast for this year, citing weaker growth than expected in the first three months of the year.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13213424)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

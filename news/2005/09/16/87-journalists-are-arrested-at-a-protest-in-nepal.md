@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/16/87-journalists-are-arrested-at-a-protest-in-nepal.html)  [JSON](/news/2005/09/16/87-journalists-are-arrested-at-a-protest-in-nepal.json)  [XML](/news/2005/09/16/87-journalists-are-arrested-at-a-protest-in-nepal.xml)  
+
 ### [2005-09-16](/news/2005/09/16/index.md)
 
+##### journalist
 #  87 journalists are arrested at a protest in Nepal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1126879166429_12/?hub=World)
 
@@ -13,6 +17,6 @@
 
 1. [ In Nepal, thousands of journalists march in protest to restore press freedoms on World Press Freedom Day. ](/news/2005/05/3/in-nepal-thousands-of-journalists-march-in-protest-to-restore-press-freedoms-on-world-press-freedom-day.md) _Context: Nepal, journalist, protest_
 2. [ In Nepal, 10,000 protesters march in Kathmandu against the policies of king Gyanendra and demand return of democracy. ](/news/2005/05/1/in-nepal-10-000-protesters-march-in-kathmandu-against-the-policies-of-king-gyanendra-and-demand-return-of-democracy.md) _Context: Nepal, protest_
-3. [At least 14 people are killed in the Indian city of Mumbai as nearly a month's average rainfall fell yesterday during the worst monsoon in years. More than 1,200 people have been killed across India, Nepal and Bangladesh. ](/news/2017/08/30/at-least-14-people-are-killed-in-the-indian-city-of-mumbai-as-nearly-a-month-s-average-rainfall-fell-yesterday-during-the-worst-monsoon-in-y.md) _Context: Nepal_
-4. [Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths-across-india-bangladesh-and-nepal.md) _Context: Nepal_
-5. [Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _Context: Nepal_
+3. [Voters in Nepal go to the polls for the second round of a historic legislative election. The turnout is 67%, up from 65% in the first round. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-historic-legislative-election-the-turnout-is-67-up-from-65-in-the-first-round.md) _Context: Nepal_
+4. [Nepal bans solo climbers, double amputees and blind climbers from scaling its mountains, including Mount Everest, in a bid to reduce accidents. This has been criticized by successful double-amputee Everest climbers. ](/news/2017/12/30/nepal-bans-solo-climbers-double-amputees-and-blind-climbers-from-scaling-its-mountains-including-mount-everest-in-a-bid-to-reduce-acciden.md) _Context: Nepal_
+5. [Voters in Nepal go to the polls for the first phase of an election to choose members for the House of Representatives and Parliament. ](/news/2017/11/26/voters-in-nepal-go-to-the-polls-for-the-first-phase-of-an-election-to-choose-members-for-the-house-of-representatives-and-parliament.md) _Context: Nepal_

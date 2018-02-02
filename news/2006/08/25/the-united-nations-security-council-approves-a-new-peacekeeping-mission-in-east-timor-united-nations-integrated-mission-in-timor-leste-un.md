@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/25/the-united-nations-security-council-approves-a-new-peacekeeping-mission-in-east-timor-united-nations-integrated-mission-in-timor-leste-un.html)  [JSON](/news/2006/08/25/the-united-nations-security-council-approves-a-new-peacekeeping-mission-in-east-timor-united-nations-integrated-mission-in-timor-leste-un.json)  [XML](/news/2006/08/25/the-united-nations-security-council-approves-a-new-peacekeeping-mission-in-east-timor-united-nations-integrated-mission-in-timor-leste-un.xml)  
+
 ### [2006-08-25](/news/2006/08/25/index.md)
 
+##### United Nations
 #  The United Nations Security Council approves a new peacekeeping mission in East Timor, United Nations Integrated Mission in Timor-Leste (UNMIT), which will have 1,608 police and up to 35 military liaison officers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua News Agency](http://news.xinhuanet.com/english/2006-08/26/content_5008191.htm)
 

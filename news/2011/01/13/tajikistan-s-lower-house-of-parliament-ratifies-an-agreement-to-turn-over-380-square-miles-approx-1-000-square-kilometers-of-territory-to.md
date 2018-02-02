@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/13/tajikistan-s-lower-house-of-parliament-ratifies-an-agreement-to-turn-over-380-square-miles-approx-1-000-square-kilometers-of-territory-to.html)  [JSON](/news/2011/01/13/tajikistan-s-lower-house-of-parliament-ratifies-an-agreement-to-turn-over-380-square-miles-approx-1-000-square-kilometers-of-territory-to.json)  [XML](/news/2011/01/13/tajikistan-s-lower-house-of-parliament-ratifies-an-agreement-to-turn-over-380-square-miles-approx-1-000-square-kilometers-of-territory-to.xml)  
+
 ### [2011-01-13](/news/2011/01/13/index.md)
 
+##### Tajikistan
 # Tajikistan's lower house of parliament ratifies an agreement to turn over 380 square miles (approx. 1,000 square kilometers) of territory to the People's Republic of China, ending a century-old conflict over disputed territory. 
 
 China and Tajikistan say they have settled a century-old border dispute, after the Central Asian nation agreed to cede land to China.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12180567)
 2. [Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=203416)

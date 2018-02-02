@@ -1,7 +1,7 @@
-## [2000-06-23](/news/2000/06/23/index.md)
 
-### [ Palace Backpackers Hostel fire in Childers, Queensland, Australia, kills 15 people.](/news/2000/06/23/palace-backpackers-hostel-fire-in-childers-queensland-australia-kills-15-people.md)
-_Context: Childers, Queensland_
+Formats: [HTML](2000/06/23/index.html)  [JSON](2000/06/23/index.json)  [XML](2000/06/23/index.xml)  
+
+## [2000-06-23](/news/2000/06/23/index.md)
 
 ## [Previous Day...](/news/2000/06/22/index.md)
 

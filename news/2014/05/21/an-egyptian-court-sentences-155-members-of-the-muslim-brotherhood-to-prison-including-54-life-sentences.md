@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/21/an-egyptian-court-sentences-155-members-of-the-muslim-brotherhood-to-prison-including-54-life-sentences.html)  [JSON](/news/2014/05/21/an-egyptian-court-sentences-155-members-of-the-muslim-brotherhood-to-prison-including-54-life-sentences.json)  [XML](/news/2014/05/21/an-egyptian-court-sentences-155-members-of-the-muslim-brotherhood-to-prison-including-54-life-sentences.xml)  
+
 ### [2014-05-21](/news/2014/05/21/index.md)
 
+##### Egypt
 # An Egyptian court sentences 155 members of the Muslim Brotherhood to prison, including 54 life sentences. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFKBN0E113220140521)
 

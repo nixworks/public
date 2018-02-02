@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/15/the-foreign-ministry-of-iran-announced-it-will-hold-a-conference-to-evaluate-the-validity-of-the-holocaust-which-president-mahmoud-ahmadin.html)  [JSON](/news/2006/01/15/the-foreign-ministry-of-iran-announced-it-will-hold-a-conference-to-evaluate-the-validity-of-the-holocaust-which-president-mahmoud-ahmadin.json)  [XML](/news/2006/01/15/the-foreign-ministry-of-iran-announced-it-will-hold-a-conference-to-evaluate-the-validity-of-the-holocaust-which-president-mahmoud-ahmadin.xml)  
+
 ### [2006-01-15](/news/2006/01/15/index.md)
 
+##### Iran
 #  The Foreign Ministry of Iran announced it will hold a conference to evaluate the validity of the Holocaust, which President Mahmoud Ahmadinejad recently referred to as a "myth". 
 
 Iran says it will hold a conference to examine evidence about the Holocaust, which President Mahmoud Ahmadinejad recently called a &quot;myth.&quot;
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/01/15/iran-holocaust-060115.html)
 1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)

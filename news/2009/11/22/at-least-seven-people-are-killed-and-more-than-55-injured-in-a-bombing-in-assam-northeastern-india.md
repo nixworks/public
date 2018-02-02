@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/22/at-least-seven-people-are-killed-and-more-than-55-injured-in-a-bombing-in-assam-northeastern-india.html)  [JSON](/news/2009/11/22/at-least-seven-people-are-killed-and-more-than-55-injured-in-a-bombing-in-assam-northeastern-india.json)  [XML](/news/2009/11/22/at-least-seven-people-are-killed-and-more-than-55-injured-in-a-bombing-in-assam-northeastern-india.xml)  
+
 ### [2009-11-22](/news/2009/11/22/index.md)
 
+##### Assam
 #  At least seven people are killed and more than 55 injured in a bombing in Assam, northeastern India. 
 
 Within a week of blowing up several wagon-tankers of a train laden with fuel, suspected Ulfa militants triggered two back-to-back bomb explosions outside a police station killing seven people.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/200911228423339432.html)
 2. [Times of India](http://timesofindia.indiatimes.com/india/Twin-blasts-rock-Assam-7-dead/articleshow/5258844.cms)

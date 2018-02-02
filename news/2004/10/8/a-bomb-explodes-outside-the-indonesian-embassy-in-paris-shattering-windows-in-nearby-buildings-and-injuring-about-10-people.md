@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2004/10/8/a-bomb-explodes-outside-the-indonesian-embassy-in-paris-shattering-windows-in-nearby-buildings-and-injuring-about-10-people.html)  [JSON](/news/2004/10/8/a-bomb-explodes-outside-the-indonesian-embassy-in-paris-shattering-windows-in-nearby-buildings-and-injuring-about-10-people.json)  [XML](/news/2004/10/8/a-bomb-explodes-outside-the-indonesian-embassy-in-paris-shattering-windows-in-nearby-buildings-and-injuring-about-10-people.xml)  
+
 ### [2004-10-8](/news/2004/10/8/index.md)
 
+##### Indonesia
 #  A bomb explodes outside the Indonesian Embassy in Paris, shattering windows in nearby buildings and injuring about 10 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3725520.stm)
 2. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=topNews&storyID=598898&section=news)
 
 ### Related:
 
-1. [More than 134,000 people on the island of Bali, Indonesia, have been taken to shelters as the Mount Agung volcano continues to release smoke. The alert level for an eruption has been raised to the second highest level, 4. In addition, the entire population of Vanuatu's Aoba Island, also at alert level 4, is being moved from the path of the increasingly active Lombenben volcano. ](/news/2017/09/28/more-than-134-000-people-on-the-island-of-bali-indonesia-have-been-taken-to-shelters-as-the-mount-agung-volcano-continues-to-release-smoke.md) _Context: Indonesia_
-2. [Thousands of people on the Indonesian island of Bali flee from their homes due to concerns over Mount Agung erupting. The alert status for the volcano was increased to the highest level possible yesterday. ](/news/2017/09/23/thousands-of-people-on-the-indonesian-island-of-bali-flee-from-their-homes-due-to-concerns-over-mount-agung-erupting-the-alert-status-for-t.md) _Context: Indonesia_
-3. [In a suspected terror attack, six French soldiers are injured, three seriously, when a man drives a car into them at a barracks in the Paris suburb of Levallois-Perret. ](/news/2017/08/9/in-a-suspected-terror-attack-six-french-soldiers-are-injured-three-seriously-when-a-man-drives-a-car-into-them-at-a-barracks-in-the-paris.md) _Context: Paris_
-4. [A magnitude 6.4 earthquake occurs off the Indonesian island of Sumatra. There are no reports of casualties or structural damage to buildings. ](/news/2017/08/13/a-magnitude-6-4-earthquake-occurs-off-the-indonesian-island-of-sumatra-there-are-no-reports-of-casualties-or-structural-damage-to-buildings.md) _Context: Indonesia_
-5. [A rescue helicopter crashes while attempting to evacuate residents near the Dieng Volcanic Complex in Central Java, Indonesia, killing all eight people on board. ](/news/2017/07/3/a-rescue-helicopter-crashes-while-attempting-to-evacuate-residents-near-the-dieng-volcanic-complex-in-central-java-indonesia-killing-all-e.md) _Context: Indonesia_
+1. [Riverside homes and businesses in Paris are on high alert as the swollen River Seine threatens to overflow its banks. ](/news/2018/01/27/riverside-homes-and-businesses-in-paris-are-on-high-alert-as-the-swollen-river-seine-threatens-to-overflow-its-banks.md) _Context: Paris_
+2. [The mezzanine overlooking the main lobby of the Indonesia Stock Exchange in Jakarta, Indonesia, collapses, injuring at least 70 people. The Indonesian National Police ruled out terrorism as the cause. ](/news/2018/01/15/the-mezzanine-overlooking-the-main-lobby-of-the-indonesia-stock-exchange-in-jakarta-indonesia-collapses-injuring-at-least-70-people-the.md) _Context: Indonesia_
+3. [A boat capsizes in the north of Indonesian Borneo, leaving at least eight people dead. ](/news/2018/01/1/a-boat-capsizes-in-the-north-of-indonesian-borneo-leaving-at-least-eight-people-dead.md) _Context: Indonesia_
+4. [After the United Kingdom withdrawal from the European Union referendum, the European Medicines Agency (EMA) will relocate to Amsterdam and the European Banking Authority (EBA) to Paris from London. ](/news/2017/11/20/after-the-united-kingdom-withdrawal-from-the-european-union-referendum-the-european-medicines-agency-ema-will-relocate-to-amsterdam-and-t.md) _Context: Paris_
+5. [Prime Minister of Lebanon Saad Hariri meets President of France Emmanuel Macron at the Elysee Palace in Paris. ](/news/2017/11/18/prime-minister-of-lebanon-saad-hariri-meets-president-of-france-emmanuel-macron-at-the-alysa-c-e-palace-in-paris.md) _Context: Paris_

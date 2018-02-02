@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/11/lawyers-for-former-prime-minister-of-pakistan-nawaz-sharif-file-a-petition-in-the-supreme-court-of-pakistan-against-his-deportation-to-saud.html)  [JSON](/news/2007/09/11/lawyers-for-former-prime-minister-of-pakistan-nawaz-sharif-file-a-petition-in-the-supreme-court-of-pakistan-against-his-deportation-to-saud.json)  [XML](/news/2007/09/11/lawyers-for-former-prime-minister-of-pakistan-nawaz-sharif-file-a-petition-in-the-supreme-court-of-pakistan-against-his-deportation-to-saud.xml)  
+
 ### [2007-09-11](/news/2007/09/11/index.md)
 
+##### Prime Minister
 #  Lawyers for former Prime Minister of Pakistan Nawaz Sharif file a petition in the Supreme Court of Pakistan against his deportation to Saudi Arabia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,296385,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

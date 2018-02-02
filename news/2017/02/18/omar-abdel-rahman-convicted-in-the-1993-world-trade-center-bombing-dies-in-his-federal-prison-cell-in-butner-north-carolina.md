@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/18/omar-abdel-rahman-convicted-in-the-1993-world-t
 
 ### [2017-02-18](/news/2017/02/18/index.md)
 
+##### Omar Abdel-Rahman
 # Omar Abdel-Rahman, convicted in the 1993 World Trade Center bombing, dies in his federal prison cell in Butner, North Carolina. 
 
 

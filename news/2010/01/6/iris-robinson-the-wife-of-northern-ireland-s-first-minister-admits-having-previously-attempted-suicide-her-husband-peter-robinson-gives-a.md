@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/6/iris-robinson-the-wife-of-northern-ireland-s-first-minister-admits-having-previously-attempted-suicide-her-husband-peter-robinson-gives-a.html)  [JSON](/news/2010/01/6/iris-robinson-the-wife-of-northern-ireland-s-first-minister-admits-having-previously-attempted-suicide-her-husband-peter-robinson-gives-a.json)  [XML](/news/2010/01/6/iris-robinson-the-wife-of-northern-ireland-s-first-minister-admits-having-previously-attempted-suicide-her-husband-peter-robinson-gives-a.xml)  
+
 ### [2010-01-6](/news/2010/01/6/index.md)
 
+##### Iris Robinson
 # Iris Robinson, the wife of Northern Ireland's First Minister, admits having previously attempted suicide. Her husband Peter Robinson gives an emotional interview in which he speaks of being "deeply hurt" after learning of her extramarital affair. 
 
 The wife of Northern Ireland First Minister Peter Robinson tried to kill herself after confessing to her husband that she had an affair.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8444153.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0106/robinson.html)

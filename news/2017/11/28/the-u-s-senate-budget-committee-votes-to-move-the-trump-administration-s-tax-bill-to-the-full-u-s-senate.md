@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/28/the-u-s-senate-budget-committee-votes-to-move-t
 
 ### [2017-11-28](/news/2017/11/28/index.md)
 
+##### Tax Cuts and Jobs Act of 2017
 # The U.S. Senate Budget Committee votes to move the Trump administration's tax bill to the full U.S. Senate. 
 
 
@@ -15,8 +16,8 @@ Formats: [HTML](/news/2017/11/28/the-u-s-senate-budget-committee-votes-to-move-t
 
 ### Related:
 
-1. [Trump signs a continuing resolution to prevent a government shutdown for another two weeks. Congress has until December 22 to hash out differences over funding DACA, CHIP, tax reform, and military funding within the limits of the Budget Control Act of 2011. ](/news/2017/12/8/trump-signs-a-continuing-resolution-to-prevent-a-government-shutdown-for-another-two-weeks-congress-has-until-december-22-to-hash-out-diffe.md) _Context: tax reform_
-2. [France puts the concern on the E.U. Ecofin agenda that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-puts-the-concern-on-the-e-u-ecofin-agenda-that-the-current-version-of-the-united-states-fiscal-act-would-unduly-penalize-e-u-compan.md) _Context: tax reform_
-3. [The United States Senate passes the Republican tax reform bill with a 51-49 vote. ](/news/2017/12/2/the-united-states-senate-passes-the-republican-tax-reform-bill-with-a-51a49-vote.md) _Context: tax reform_
-4. [U.S. federal prosecutors subpoena Carl Icahn over his role as an adviser on biofuels in the Trump administration. ](/news/2017/11/8/u-s-federal-prosecutors-subpoena-carl-icahn-over-his-role-as-an-adviser-on-biofuels-in-the-trump-administration.md) _Context: Trump administration_
-5. [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the visa program. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md) _Context: Trump administration_
+1. [The Trump administration will, in 18 months, end the Temporary Protected Status (TPS) for immigrants from El Salvador living in the U.S. under the TPS issued after a series of devastating earthquakes in 2001. The Department of Homeland Security estimates about 200,000 Salvadorans will be impacted. ](/news/2018/01/8/the-trump-administration-will-in-18-months-end-the-temporary-protected-status-tps-for-immigrants-from-el-salvador-living-in-the-u-s-und.md) _Context: Trump administration_
+2. [The Trump administration through the U.S. Justice Department establishes the Hezbollah Financing and Narcoterrorism Team to assist with the DEA's Project Cassandra investigation into groups supporting Hezbollah. ](/news/2018/01/11/the-trump-administration-through-the-u-s-justice-department-establishes-the-hezbollah-financing-and-narcoterrorism-team-to-assist-with-the.md) _Context: Trump administration_
+3. [France puts the concern on the E.U. Ecofin agenda that the current version of the United States fiscal act would unduly penalize E.U. companies by taxing their U.S. operations beyond locally produced value added. ](/news/2017/12/4/france-puts-the-concern-on-the-e-u-ecofin-agenda-that-the-current-version-of-the-united-states-fiscal-act-would-unduly-penalize-e-u-compan.md) _Context: Tax Cuts and Jobs Act of 2017_
+4. [President Donald Trump signs the Tax Cuts and Jobs Act of 2017 into law. ](/news/2017/12/22/president-donald-trump-signs-the-tax-cuts-and-jobs-act-of-2017-into-law.md) _Context: Tax Cuts and Jobs Act of 2017_
+5. [The United States Senate and House of Representatives pass the Tax Cuts and Jobs Act of 2017, which sends it to United States President Donald Trump for signing. This comes after a previous and different version of this legislation was passed by the House yesterday. The law removes the individual insurance mandate from Obamacare. ](/news/2017/12/20/the-united-states-senate-and-house-of-representatives-pass-the-tax-cuts-and-jobs-act-of-2017-which-sends-it-to-united-states-president-dona.md) _Context: Tax Cuts and Jobs Act of 2017_

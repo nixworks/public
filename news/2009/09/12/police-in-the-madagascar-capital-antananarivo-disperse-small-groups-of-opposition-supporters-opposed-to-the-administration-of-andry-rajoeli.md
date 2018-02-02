@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/12/police-in-the-madagascar-capital-antananarivo-disperse-small-groups-of-opposition-supporters-opposed-to-the-administration-of-andry-rajoeli.html)  [JSON](/news/2009/09/12/police-in-the-madagascar-capital-antananarivo-disperse-small-groups-of-opposition-supporters-opposed-to-the-administration-of-andry-rajoeli.json)  [XML](/news/2009/09/12/police-in-the-madagascar-capital-antananarivo-disperse-small-groups-of-opposition-supporters-opposed-to-the-administration-of-andry-rajoeli.xml)  
+
 ### [2009-09-12](/news/2009/09/12/index.md)
 
+##### Madagascar
 #  Police in the Madagascar capital Antananarivo disperse small groups of opposition supporters opposed to the administration of Andry Rajoelina. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=84&art_id=nw20090912221849853C708654)
 

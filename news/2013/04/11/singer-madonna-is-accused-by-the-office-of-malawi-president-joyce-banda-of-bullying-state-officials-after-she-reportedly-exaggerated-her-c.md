@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/11/singer-madonna-is-accused-by-the-office-of-malawi-president-joyce-banda-of-bullying-state-officials-after-she-reportedly-exaggerated-her-c.html)  [JSON](/news/2013/04/11/singer-madonna-is-accused-by-the-office-of-malawi-president-joyce-banda-of-bullying-state-officials-after-she-reportedly-exaggerated-her-c.json)  [XML](/news/2013/04/11/singer-madonna-is-accused-by-the-office-of-malawi-president-joyce-banda-of-bullying-state-officials-after-she-reportedly-exaggerated-her-c.xml)  
+
 ### [2013-04-11](/news/2013/04/11/index.md)
 
+##### Madonna
 # Singer Madonna is accused by the office of Malawi President Joyce Banda of "bullying state officials" after she reportedly exaggerated her charity's contribution and complained about her treatment on a recent visit to the country. 
 
 Malawi accuses US singer Madonna of &quot;bullying state officials&quot; after she reportedly complained about her treatment on a visit to the country.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-22103748)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66937000/jpg/_66937571_017647767.jpg)

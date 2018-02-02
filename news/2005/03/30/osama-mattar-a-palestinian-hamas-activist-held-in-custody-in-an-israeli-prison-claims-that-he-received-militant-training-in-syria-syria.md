@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/30/osama-mattar-a-palestinian-hamas-activist-held-in-custody-in-an-israeli-prison-claims-that-he-received-militant-training-in-syria-syria.html)  [JSON](/news/2005/03/30/osama-mattar-a-palestinian-hamas-activist-held-in-custody-in-an-israeli-prison-claims-that-he-received-militant-training-in-syria-syria.json)  [XML](/news/2005/03/30/osama-mattar-a-palestinian-hamas-activist-held-in-custody-in-an-israeli-prison-claims-that-he-received-militant-training-in-syria-syria.xml)  
+
 ### [2005-03-30](/news/2005/03/30/index.md)
 
+##### Osama Mattar
 #  Osama Mattar, a Palestinian Hamas activist held in custody in an Israeli prison, claims that he received militant training in Syria, Syria and Hamas claim no such training takes place. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP\Yahoo](http://story.news.yahoo.com/news?tmpl=story&u=/ap/israel_hamas_recruit)
 

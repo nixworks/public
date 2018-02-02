@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/12/ebay-announced-it-will-buy-skype-the-luxembourg-based-web-telephone-network-in-a-2-6-billion-deal.html)  [JSON](/news/2005/09/12/ebay-announced-it-will-buy-skype-the-luxembourg-based-web-telephone-network-in-a-2-6-billion-deal.json)  [XML](/news/2005/09/12/ebay-announced-it-will-buy-skype-the-luxembourg-based-web-telephone-network-in-a-2-6-billion-deal.xml)  
+
 ### [2005-09-12](/news/2005/09/12/index.md)
 
+##### eBay
 #  eBay announced it will buy Skype, the Luxembourg-based web telephone network, in a $2.6 billion deal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/4237338.stm)
 

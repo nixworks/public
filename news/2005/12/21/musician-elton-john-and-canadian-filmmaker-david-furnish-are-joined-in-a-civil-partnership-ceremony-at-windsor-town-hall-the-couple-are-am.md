@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/21/musician-elton-john-and-canadian-filmmaker-david-furnish-are-joined-in-a-civil-partnership-ceremony-at-windsor-town-hall-the-couple-are-am.html)  [JSON](/news/2005/12/21/musician-elton-john-and-canadian-filmmaker-david-furnish-are-joined-in-a-civil-partnership-ceremony-at-windsor-town-hall-the-couple-are-am.json)  [XML](/news/2005/12/21/musician-elton-john-and-canadian-filmmaker-david-furnish-are-joined-in-a-civil-partnership-ceremony-at-windsor-town-hall-the-couple-are-am.xml)  
+
 ### [2005-12-21](/news/2005/12/21/index.md)
 
+##### Elton John
 #  Musician Elton John and Canadian filmmaker David Furnish are joined in a civil partnership ceremony at Windsor Town Hall. The couple are among hundreds of same-sex couples entering civil partnerships in England and Wales on the first day that such ceremonies become possible. Ceremonies were held earlier this week in Northern Ireland and Scotland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/4549626.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/scotland/4543274.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/25/police-fire-tear-gas-and-chemical-laced-water-cannon-to-disperse-a-rally-of-approximately-30-000-people-organized-by-hindraf-in-kuala-lumpu.html)  [JSON](/news/2007/11/25/police-fire-tear-gas-and-chemical-laced-water-cannon-to-disperse-a-rally-of-approximately-30-000-people-organized-by-hindraf-in-kuala-lumpu.json)  [XML](/news/2007/11/25/police-fire-tear-gas-and-chemical-laced-water-cannon-to-disperse-a-rally-of-approximately-30-000-people-organized-by-hindraf-in-kuala-lumpu.xml)  
+
 ### [2007-11-25](/news/2007/11/25/index.md)
 
+##### Malaysian police
 #  Police fire tear gas and chemical-laced water cannon to disperse a rally of approximately 30,000 people organized by HINDRAF in Kuala Lumpur. 
 
 About 30,000 protesters demonstrated under the shadows of KL&#39;s iconic Twin Towers after their efforts to petition the British High Commission was thwarted by the police.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/87C4393A-8EC5-460C-BA56-F7AFE3929C23.htm)
 2. [Malaysiakini](http://www.malaysiakini.com/news/75250)

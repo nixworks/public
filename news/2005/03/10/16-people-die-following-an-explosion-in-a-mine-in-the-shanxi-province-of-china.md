@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/10/16-people-die-following-an-explosion-in-a-mine-in-the-shanxi-province-of-china.html)  [JSON](/news/2005/03/10/16-people-die-following-an-explosion-in-a-mine-in-the-shanxi-province-of-china.json)  [XML](/news/2005/03/10/16-people-die-following-an-explosion-in-a-mine-in-the-shanxi-province-of-china.xml)  
+
 ### [2005-03-10](/news/2005/03/10/index.md)
 
+##### Shanxi province
 #  16 people die following an explosion in a mine in the Shanxi province of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://breakingnews.iol.ie/news/story.asp?j=168302976&p=y683x3848&n=168303854)
 

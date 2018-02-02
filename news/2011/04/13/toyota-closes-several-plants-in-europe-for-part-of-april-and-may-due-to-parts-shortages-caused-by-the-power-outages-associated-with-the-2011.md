@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/04/13/toyota-closes-several-plants-in-europe-for-part-of-april-and-may-due-to-parts-shortages-caused-by-the-power-outages-associated-with-the-2011.html)  [JSON](/news/2011/04/13/toyota-closes-several-plants-in-europe-for-part-of-april-and-may-due-to-parts-shortages-caused-by-the-power-outages-associated-with-the-2011.json)  [XML](/news/2011/04/13/toyota-closes-several-plants-in-europe-for-part-of-april-and-may-due-to-parts-shortages-caused-by-the-power-outages-associated-with-the-2011.xml)  
+
 ### [2011-04-13](/news/2011/04/13/index.md)
 
+##### Toyota
 # Toyota closes several plants in Europe for part of April and May due to parts shortages caused by the power outages associated with the 2011 Tohoku earthquake and tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2011/04/12/business-specialized-consumer-services-as-japan-toyota_8405304.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2011/04/12/business-specialized-consumer-services-as-japan-toyota_8405304.html)
 
 ### Related:
 

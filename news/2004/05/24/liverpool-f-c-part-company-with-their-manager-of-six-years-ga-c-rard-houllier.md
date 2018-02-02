@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/24/liverpool-f-c-part-company-with-their-manager-of-six-years-ga-c-rard-houllier.html)  [JSON](/news/2004/05/24/liverpool-f-c-part-company-with-their-manager-of-six-years-ga-c-rard-houllier.json)  [XML](/news/2004/05/24/liverpool-f-c-part-company-with-their-manager-of-six-years-ga-c-rard-houllier.xml)  
+
 ### [2004-05-24](/news/2004/05/24/index.md)
 
+##### Liverpool
 #  Liverpool F.C. part company with their manager of six years, Gerard Houllier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/football/teams/l/liverpool/3734773.stm)
 2. [Guardian](http://football.guardian.co.uk/News_Story/0,1563,1223589,00.html)

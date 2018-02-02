@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/7/a-diplomatic-dispute-between-romania-and-hungary-erupts-as-a-hungarian-government-official-and-the-ambassador-in-bucharest-make-commentaries.html)  [JSON](/news/2013/02/7/a-diplomatic-dispute-between-romania-and-hungary-erupts-as-a-hungarian-government-official-and-the-ambassador-in-bucharest-make-commentaries.json)  [XML](/news/2013/02/7/a-diplomatic-dispute-between-romania-and-hungary-erupts-as-a-hungarian-government-official-and-the-ambassador-in-bucharest-make-commentaries.xml)  
+
 ### [2013-02-7](/news/2013/02/7/index.md)
 
+##### Romania
 # A diplomatic dispute between Romania and Hungary erupts as a Hungarian government official and the ambassador in Bucharest make commentaries that trigger large criticism from the Romanian side. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nine O'clock](http://www.nineoclock.ro/bucharest-budapest-diplomatic-row-following-hungarian%E2%80%99s-official-divisive-statements/)
 

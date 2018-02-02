@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/18/at-least-six-people-have-been-shot-dead-and-12-
 
 ### [2016-06-18](/news/2016/06/18/index.md)
 
+##### Chicago, Illinois
 # At least six people have been shot dead and 12 injured as a result of 18 shootings in the American city of Chicago, Illinois. 
 
 

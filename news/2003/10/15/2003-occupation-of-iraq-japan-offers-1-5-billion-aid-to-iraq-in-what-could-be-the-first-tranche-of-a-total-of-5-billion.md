@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/15/2003-occupation-of-iraq-japan-offers-1-5-billion-aid-to-iraq-in-what-could-be-the-first-tranche-of-a-total-of-5-billion.html)  [JSON](/news/2003/10/15/2003-occupation-of-iraq-japan-offers-1-5-billion-aid-to-iraq-in-what-could-be-the-first-tranche-of-a-total-of-5-billion.json)  [XML](/news/2003/10/15/2003-occupation-of-iraq-japan-offers-1-5-billion-aid-to-iraq-in-what-could-be-the-first-tranche-of-a-total-of-5-billion.xml)  
+
 ### [2003-10-15](/news/2003/10/15/index.md)
 
+##### U.S. presence in Iraq
 #  2003 occupation of Iraq: Japan offers $1.5 billion aid to Iraq in what could be the first tranche of a total of $5 billion.
 
 

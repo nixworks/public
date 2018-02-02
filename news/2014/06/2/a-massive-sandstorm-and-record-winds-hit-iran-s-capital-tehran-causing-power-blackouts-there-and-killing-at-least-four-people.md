@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/2/a-massive-sandstorm-and-record-winds-hit-iran-s-capital-tehran-causing-power-blackouts-there-and-killing-at-least-four-people.html)  [JSON](/news/2014/06/2/a-massive-sandstorm-and-record-winds-hit-iran-s-capital-tehran-causing-power-blackouts-there-and-killing-at-least-four-people.json)  [XML](/news/2014/06/2/a-massive-sandstorm-and-record-winds-hit-iran-s-capital-tehran-causing-power-blackouts-there-and-killing-at-least-four-people.xml)  
+
 ### [2014-06-2](/news/2014/06/2/index.md)
 
+##### sandstorm
 # A massive sandstorm and record winds hit Iran's capital Tehran, causing power blackouts there and killing at least four people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/06/03/sandstorm-kills-least-4-iran-capital)
 

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2006/11/19/the-british-columbia-lions-win-the-94th-grey-cup-the-championship-game-of-the-canadian-football-league-game-25-14-over-the-montreal-aloue.html)  [JSON](/news/2006/11/19/the-british-columbia-lions-win-the-94th-grey-cup-the-championship-game-of-the-canadian-football-league-game-25-14-over-the-montreal-aloue.json)  [XML](/news/2006/11/19/the-british-columbia-lions-win-the-94th-grey-cup-the-championship-game-of-the-canadian-football-league-game-25-14-over-the-montreal-aloue.xml)  
+
 ### [2006-11-19](/news/2006/11/19/index.md)
 
+##### British Columbia Lions
 #  The British Columbia Lions win the 94th Grey Cup, the championship game of the Canadian Football League, game 25-14 over the Montreal Alouettes in Winnipeg, Manitoba. 
 
 The official source of CFL news, opinion, video highlights, schedules, scores, stats, game day coverage and more.
 
 
-### Source:
+### Sources:
 
-1. [CFL](http://www.cfl.ca/index.php?module=sked&func=review&sked_id=197)
+1. [CFL](https://www.cfl.ca/index.php?module=sked&func=review&sked_id=197)
+1. [Cover Image](https://www.cfl.ca/wp-content/themes/cfl.ca/images/icons/png/logo.png)
 
 ### Related:
 

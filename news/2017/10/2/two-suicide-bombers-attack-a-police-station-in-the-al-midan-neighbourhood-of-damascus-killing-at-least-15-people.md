@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/2/two-suicide-bombers-attack-a-police-station-in-t
 
 ### [2017-10-2](/news/2017/10/2/index.md)
 
+##### Syrian Civil War
 # Two suicide bombers attack a police station in the Al-Midan neighbourhood of Damascus, killing at least 15 people. 
 
 Two suicide bombers struck a police station in Damascus on Monday, with at least 10 people reported dead, in the first such attack to hit the Syrian capital since July.

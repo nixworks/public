@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/2/vladimir-putin-tells-mothers-of-beslan-children-killed-a-year-ago-that-the-government-could-not-guarantee-complete-security-in-the-face-of.html)  [JSON](/news/2005/09/2/vladimir-putin-tells-mothers-of-beslan-children-killed-a-year-ago-that-the-government-could-not-guarantee-complete-security-in-the-face-of.json)  [XML](/news/2005/09/2/vladimir-putin-tells-mothers-of-beslan-children-killed-a-year-ago-that-the-government-could-not-guarantee-complete-security-in-the-face-of.xml)  
+
 ### [2005-09-2](/news/2005/09/2/index.md)
 
+##### Vladimir Putin
 #  Vladimir Putin tells mothers of Beslan children killed a year ago that the government could not guarantee complete security in the face of terrorism. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WORLD/europe/09/02/russia.beslan.putin/index.html)
 

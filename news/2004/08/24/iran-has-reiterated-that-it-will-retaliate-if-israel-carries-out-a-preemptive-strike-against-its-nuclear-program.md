@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/24/iran-has-reiterated-that-it-will-retaliate-if-israel-carries-out-a-preemptive-strike-against-its-nuclear-program.html)  [JSON](/news/2004/08/24/iran-has-reiterated-that-it-will-retaliate-if-israel-carries-out-a-preemptive-strike-against-its-nuclear-program.json)  [XML](/news/2004/08/24/iran-has-reiterated-that-it-will-retaliate-if-israel-carries-out-a-preemptive-strike-against-its-nuclear-program.xml)  
+
 ### [2004-08-24](/news/2004/08/24/index.md)
 
+##### Iran
 #  Iran has reiterated that it will retaliate if Israel carries out a preemptive strike against its nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe](http://www.rferl.org/featuresarticle/2004/8/3715C237-1615-4798-80AE-F489B0B6267C.html)
 

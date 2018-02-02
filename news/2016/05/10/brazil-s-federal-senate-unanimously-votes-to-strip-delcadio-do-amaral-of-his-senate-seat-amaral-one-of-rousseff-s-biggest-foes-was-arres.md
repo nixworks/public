@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/10/brazil-s-federal-senate-unanimously-votes-to-st
 
 ### [2016-05-10](/news/2016/05/10/index.md)
 
+##### Impeachment process against Dilma Rousseff
 # Brazil's Federal Senate unanimously votes to strip Delcidio do Amaral of his senate seat. Amaral, one of Rousseff's biggest foes, was arrested last November for allegedly taking kickbacks from Petrobras. 
 
 RIO DE JANEIRO (AP) — The rollercoaster ride that is the impeachment drive against President Dilma Rousseff took another hairpin turn Tuesday after the acting speaker of Congress&#039; lower house reversed his own decision…

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/4/the-death-toll-from-the-flooding-of-cambodia-s-mekong-river-and-attendant-flash-floods-reaches-164.html)  [JSON](/news/2011/10/4/the-death-toll-from-the-flooding-of-cambodia-s-mekong-river-and-attendant-flash-floods-reaches-164.json)  [XML](/news/2011/10/4/the-death-toll-from-the-flooding-of-cambodia-s-mekong-river-and-attendant-flash-floods-reaches-164.xml)  
+
 ### [2011-10-4](/news/2011/10/4/index.md)
 
+##### Cambodia
 # The death toll from the flooding of Cambodia's Mekong River and attendant flash floods reaches 164. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua via ''Philippines Star](http://www.philstar.com/Article.aspx?articleId=733860&publicationSubCategoryId=200)
 

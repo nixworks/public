@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/13/japan-delays-sending-troops-to-iraq-because-of-the-worsening-security-situation-according-to-military-analysts-recent-attacks-on-coalitio.html)  [JSON](/news/2003/11/13/japan-delays-sending-troops-to-iraq-because-of-the-worsening-security-situation-according-to-military-analysts-recent-attacks-on-coalitio.json)  [XML](/news/2003/11/13/japan-delays-sending-troops-to-iraq-because-of-the-worsening-security-situation-according-to-military-analysts-recent-attacks-on-coalitio.xml)  
+
 ### [2003-11-13](/news/2003/11/13/index.md)
 
+##### Iraq
 #  Japan delays sending troops to Iraq because of the worsening security situation. According to military analysts, recent attacks on coalition forces in Iraq are, reportedly, part of a guerrilla strategy to isolate the United States during attempts to achieve international support for rebuilding the country. With growing insurgency in Iraq and increasing criticism in the United States, the White House is pushing for faster action on crucial aspects of its strategy toward Iraq, accelerating the timetable for Iraqi self-government, redoubling military efforts against insurgents via "Operation Iron Hammer", and increasing efforts to convince the American public of the long-term benefit of the transformation of Iraq.
 
 

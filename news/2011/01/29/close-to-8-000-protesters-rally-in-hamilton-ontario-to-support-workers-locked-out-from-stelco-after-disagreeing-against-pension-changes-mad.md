@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/29/close-to-8-000-protesters-rally-in-hamilton-ontario-to-support-workers-locked-out-from-stelco-after-disagreeing-against-pension-changes-mad.html)  [JSON](/news/2011/01/29/close-to-8-000-protesters-rally-in-hamilton-ontario-to-support-workers-locked-out-from-stelco-after-disagreeing-against-pension-changes-mad.json)  [XML](/news/2011/01/29/close-to-8-000-protesters-rally-in-hamilton-ontario-to-support-workers-locked-out-from-stelco-after-disagreeing-against-pension-changes-mad.xml)  
+
 ### [2011-01-29](/news/2011/01/29/index.md)
 
+##### Hamilton, Ontario
 # Close to 8,000 protesters rally in Hamilton, Ontario to support workers locked out from Stelco after disagreeing against pension changes made by U.S. Steel. Analysts predict that similar protests may spread across the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://www.ctv.ca/CTVNews/Canada/20110129/hamilton-labour-rally-110229/)
 2. [Niagara Falls Review](http://www.niagarafallsreview.ca/ArticleDisplay.aspx?e=2953771)

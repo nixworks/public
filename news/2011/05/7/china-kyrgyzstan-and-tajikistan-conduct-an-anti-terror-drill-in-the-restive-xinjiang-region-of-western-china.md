@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/7/china-kyrgyzstan-and-tajikistan-conduct-an-anti-terror-drill-in-the-restive-xinjiang-region-of-western-china.html)  [JSON](/news/2011/05/7/china-kyrgyzstan-and-tajikistan-conduct-an-anti-terror-drill-in-the-restive-xinjiang-region-of-western-china.json)  [XML](/news/2011/05/7/china-kyrgyzstan-and-tajikistan-conduct-an-anti-terror-drill-in-the-restive-xinjiang-region-of-western-china.xml)  
+
 ### [2011-05-7](/news/2011/05/7/index.md)
 
+##### China
 # China, Kyrgyzstan and Tajikistan conduct an anti-terror drill in the restive Xinjiang region of western China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5igZzIZAtuWmYMeq7lK884LNsafTA?docId=CNG.08792357d46f2afef70ee39435e88b91.3b1)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-05/06/c_13862763.htm)

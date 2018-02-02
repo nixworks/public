@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/5/a-17-year-old-student-at-millard-south-high-school-in-omaha-nebraska-shoots-an-assistant-principal-to-death-and-wounds-the-school-princip.html)  [JSON](/news/2011/01/5/a-17-year-old-student-at-millard-south-high-school-in-omaha-nebraska-shoots-an-assistant-principal-to-death-and-wounds-the-school-princip.json)  [XML](/news/2011/01/5/a-17-year-old-student-at-millard-south-high-school-in-omaha-nebraska-shoots-an-assistant-principal-to-death-and-wounds-the-school-princip.xml)  
+
 ### [2011-01-5](/news/2011/01/5/index.md)
 
+##### Millard South High School
 # A 17-year-old student at Millard South High School, in Omaha, Nebraska, shoots an assistant principal to death and wounds the school principal before turning the gun onto himself. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://news.blogs.cnn.com/2011/01/05/two-shot-at-nebraska-high-school-suspect-dead/?hpt=T2)
 

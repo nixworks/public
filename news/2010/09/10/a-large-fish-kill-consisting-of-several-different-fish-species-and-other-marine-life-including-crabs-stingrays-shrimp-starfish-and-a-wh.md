@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/10/a-large-fish-kill-consisting-of-several-different-fish-species-and-other-marine-life-including-crabs-stingrays-shrimp-starfish-and-a-wh.html)  [JSON](/news/2010/09/10/a-large-fish-kill-consisting-of-several-different-fish-species-and-other-marine-life-including-crabs-stingrays-shrimp-starfish-and-a-wh.json)  [XML](/news/2010/09/10/a-large-fish-kill-consisting-of-several-different-fish-species-and-other-marine-life-including-crabs-stingrays-shrimp-starfish-and-a-wh.xml)  
+
 ### [2010-09-10](/news/2010/09/10/index.md)
 
+##### fish kill
 # A large fish kill, consisting of several different fish species and other marine life, including crabs, stingrays, shrimp, starfish and a whale wash ashore in Venice, Louisiana, near Plaquemines Parish, near the site of the Deepwater Horizon oil spill, and involving more species than usual with localized dead zone and low oxygen events. 
 
 Cause has not been determined; includes pogies, redfish, drum, crabs and shrimp
 
 
-### Source:
+### Sources:
 
 1. [Digital Journal](http://www.digitaljournal.com/article/297542)
 2. [NOLA.com](http://www.nola.com/news/index.ssf/2010/09/huge_fish_kill_reported_in_pla.html)

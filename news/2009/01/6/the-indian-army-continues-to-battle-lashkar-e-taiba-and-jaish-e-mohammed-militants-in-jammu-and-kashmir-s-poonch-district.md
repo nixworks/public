@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/6/the-indian-army-continues-to-battle-lashkar-e-taiba-and-jaish-e-mohammed-militants-in-jammu-and-kashmir-s-poonch-district.html)  [JSON](/news/2009/01/6/the-indian-army-continues-to-battle-lashkar-e-taiba-and-jaish-e-mohammed-militants-in-jammu-and-kashmir-s-poonch-district.json)  [XML](/news/2009/01/6/the-indian-army-continues-to-battle-lashkar-e-taiba-and-jaish-e-mohammed-militants-in-jammu-and-kashmir-s-poonch-district.xml)  
+
 ### [2009-01-6](/news/2009/01/6/index.md)
 
+##### India
 #  The Indian Army continues to battle Lashkar-e-Taiba and Jaish-e-Mohammed militants in Jammu and Kashmir's Poonch District. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN-IBN](http://ibnlive.in.com/news/four-terrorists-dead-poonch-encounter-far-from-over/82012-3.html?from=rssfeed)
 

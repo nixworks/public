@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/16/pope-francis-arrives-on-the-greek-island-of-les
 
 ### [2016-04-16](/news/2016/04/16/index.md)
 
+##### European migrant crisis
 # Pope Francis arrives on the Greek island of Lesbos. Francis is expected to visit the Moria detention facility, where he will have lunch with some of the 3,060 men, women, and children there. 
 
 Pontiff visits Greek island to highlight refugee crisis, telling crowds: ‘We hope the world will heed these scenes of tragic need’

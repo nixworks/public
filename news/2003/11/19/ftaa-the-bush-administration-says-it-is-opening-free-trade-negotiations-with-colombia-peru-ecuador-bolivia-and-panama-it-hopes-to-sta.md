@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/19/ftaa-the-bush-administration-says-it-is-opening-free-trade-negotiations-with-colombia-peru-ecuador-bolivia-and-panama-it-hopes-to-sta.html)  [JSON](/news/2003/11/19/ftaa-the-bush-administration-says-it-is-opening-free-trade-negotiations-with-colombia-peru-ecuador-bolivia-and-panama-it-hopes-to-sta.json)  [XML](/news/2003/11/19/ftaa-the-bush-administration-says-it-is-opening-free-trade-negotiations-with-colombia-peru-ecuador-bolivia-and-panama-it-hopes-to-sta.xml)  
+
 ### [2003-11-19](/news/2003/11/19/index.md)
 
+##### FTAA
 #  FTAA: The Bush administration says it is opening free-trade negotiations with Colombia, Peru, Ecuador, Bolivia, and Panama. It hopes to start the free trade talks by the second quarter of 2004.
 
 

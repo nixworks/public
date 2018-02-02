@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/16/insurgency-in-laos-a-human-rights-group-accuses-laos-and-vietnam-of-killing-four-hmong-christians.html)  [JSON](/news/2011/04/16/insurgency-in-laos-a-human-rights-group-accuses-laos-and-vietnam-of-killing-four-hmong-christians.json)  [XML](/news/2011/04/16/insurgency-in-laos-a-human-rights-group-accuses-laos-and-vietnam-of-killing-four-hmong-christians.xml)  
+
 ### [2011-04-16](/news/2011/04/16/index.md)
 
+##### Insurgency in Laos
 # Insurgency in Laos: A human rights group accuses Laos and Vietnam of killing four Hmong Christians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_657442.html)
 

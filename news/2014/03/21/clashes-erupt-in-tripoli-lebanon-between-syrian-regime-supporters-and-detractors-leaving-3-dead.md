@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/21/clashes-erupt-in-tripoli-lebanon-between-syrian-regime-supporters-and-detractors-leaving-3-dead.html)  [JSON](/news/2014/03/21/clashes-erupt-in-tripoli-lebanon-between-syrian-regime-supporters-and-detractors-leaving-3-dead.json)  [XML](/news/2014/03/21/clashes-erupt-in-tripoli-lebanon-between-syrian-regime-supporters-and-detractors-leaving-3-dead.xml)  
+
 ### [2014-03-21](/news/2014/03/21/index.md)
 
+##### Tripoli, Lebanon
 # Clashes erupt in Tripoli, Lebanon, between Syrian regime supporters and detractors, leaving 3 dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TIME](http://time.com/33293/3-dead-in-lebanon-in-spillover-clashes-from-syria/)
 

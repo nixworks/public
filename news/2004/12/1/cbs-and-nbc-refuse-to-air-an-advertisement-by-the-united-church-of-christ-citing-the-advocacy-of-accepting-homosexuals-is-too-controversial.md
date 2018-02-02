@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/1/cbs-and-nbc-refuse-to-air-an-advertisement-by-the-united-church-of-christ-citing-the-advocacy-of-accepting-homosexuals-is-too-controversial.html)  [JSON](/news/2004/12/1/cbs-and-nbc-refuse-to-air-an-advertisement-by-the-united-church-of-christ-citing-the-advocacy-of-accepting-homosexuals-is-too-controversial.json)  [XML](/news/2004/12/1/cbs-and-nbc-refuse-to-air-an-advertisement-by-the-united-church-of-christ-citing-the-advocacy-of-accepting-homosexuals-is-too-controversial.xml)  
+
 ### [2004-12-1](/news/2004/12/1/index.md)
 
+##### CBS
 # CBS and NBC refuse to air an advertisement by the United Church of Christ citing the advocacy of accepting homosexuals is "too controversial". The advertisement was accepted by numerous other networks including Fox, ABC and TBS. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2004/12/01/news/fortune500/jesus_ad_ban/?cnn=yes)
 2. [UCC](http://www.ucc.org/news/u113004a.htm)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/15/power-is-restored-to-many-but-not-all-areas-of-the-north-eastern-united-states-and-canada-affected-by-the-previous-day-s-blackout-investi.html)  [JSON](/news/2003/08/15/power-is-restored-to-many-but-not-all-areas-of-the-north-eastern-united-states-and-canada-affected-by-the-previous-day-s-blackout-investi.json)  [XML](/news/2003/08/15/power-is-restored-to-many-but-not-all-areas-of-the-north-eastern-united-states-and-canada-affected-by-the-previous-day-s-blackout-investi.xml)  
+
 ### [2003-08-15](/news/2003/08/15/index.md)
 
+##### Lakes Erie
 #  Power is restored to many, but not all areas of the north-eastern United States and Canada affected by the previous day's blackout. Investigations into the root cause of the grid collapse are currently focusing on transmission lines circling Lake Erie.
 
 

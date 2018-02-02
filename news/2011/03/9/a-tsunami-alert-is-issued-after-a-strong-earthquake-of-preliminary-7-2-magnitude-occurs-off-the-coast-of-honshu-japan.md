@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/9/a-tsunami-alert-is-issued-after-a-strong-earthquake-of-preliminary-7-2-magnitude-occurs-off-the-coast-of-honshu-japan.html)  [JSON](/news/2011/03/9/a-tsunami-alert-is-issued-after-a-strong-earthquake-of-preliminary-7-2-magnitude-occurs-off-the-coast-of-honshu-japan.json)  [XML](/news/2011/03/9/a-tsunami-alert-is-issued-after-a-strong-earthquake-of-preliminary-7-2-magnitude-occurs-off-the-coast-of-honshu-japan.xml)  
+
 ### [2011-03-9](/news/2011/03/9/index.md)
 
+##### tsunami
 # A tsunami alert is issued after a strong earthquake of preliminary 7.2 magnitude occurs off the coast of Honshu, Japan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://news.blogs.cnn.com/2011/03/08/strong-quake-shakes-japan/)
 

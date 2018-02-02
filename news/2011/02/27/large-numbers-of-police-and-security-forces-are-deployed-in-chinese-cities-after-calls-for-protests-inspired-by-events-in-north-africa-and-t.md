@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/27/large-numbers-of-police-and-security-forces-are-deployed-in-chinese-cities-after-calls-for-protests-inspired-by-events-in-north-africa-and-t.html)  [JSON](/news/2011/02/27/large-numbers-of-police-and-security-forces-are-deployed-in-chinese-cities-after-calls-for-protests-inspired-by-events-in-north-africa-and-t.json)  [XML](/news/2011/02/27/large-numbers-of-police-and-security-forces-are-deployed-in-chinese-cities-after-calls-for-protests-inspired-by-events-in-north-africa-and-t.xml)  
+
 ### [2011-02-27](/news/2011/02/27/index.md)
 
+##### Arab Spring
 # Large numbers of police and security forces are deployed in Chinese cities after calls for protests inspired by events in North Africa and the Middle East. 
 
 Beijing: Security was stepped up here today to check strolling protests called by overseas Chinese dissident groups in the heart of Chinas capital, modelled...
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://www.ft.com/cms/s/0/e7a66d8a-422d-11e0-8b34-00144feabdc0.html?ftcamp=rss)
 2. [Sify India](http://www.sify.com/news/security-stepped-up-to-check-strolling-protests-in-china-news-international-lc1sadjcfdc.html)

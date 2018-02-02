@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/8/hamas-militants-launch-nearly-20-rockets-at-nearby-israeli-towns.html)  [JSON](/news/2008/02/8/hamas-militants-launch-nearly-20-rockets-at-nearby-israeli-towns.json)  [XML](/news/2008/02/8/hamas-militants-launch-nearly-20-rockets-at-nearby-israeli-towns.xml)  
+
 ### [2008-02-8](/news/2008/02/8/index.md)
 
+##### Hamas
 #  Hamas militants launch nearly 20 rockets at nearby Israeli towns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7234594.stm)
 

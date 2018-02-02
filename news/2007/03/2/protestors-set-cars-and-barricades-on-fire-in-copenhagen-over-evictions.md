@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/2/protestors-set-cars-and-barricades-on-fire-in-copenhagen-over-evictions.html)  [JSON](/news/2007/03/2/protestors-set-cars-and-barricades-on-fire-in-copenhagen-over-evictions.json)  [XML](/news/2007/03/2/protestors-set-cars-and-barricades-on-fire-in-copenhagen-over-evictions.xml)  
+
 ### [2007-03-2](/news/2007/03/2/index.md)
 
+##### Copenhagen
 #  Protestors set cars and barricades on fire in Copenhagen over evictions. 
 
 Violent demonstrations continued in Copenhagen, Denmark on Saturday, sparked by the eviction of squatters from a building, officials said.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,256247,00.html?sPage=fnc.world/europe)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

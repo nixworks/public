@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/4/tupou-vi-is-officially-crowned-as-the-king-of-tonga.html)  [JSON](/news/2015/07/4/tupou-vi-is-officially-crowned-as-the-king-of-tonga.json)  [XML](/news/2015/07/4/tupou-vi-is-officially-crowned-as-the-king-of-tonga.xml)  
+
 ### [2015-07-4](/news/2015/07/4/index.md)
 
+##### Tupou VI
 #  Tupou VI is officially crowned as the King of Tonga. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-33393514)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/EA50/production/_84048995_84048994.jpg)

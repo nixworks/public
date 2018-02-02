@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/25/former-president-of-cuba-fidel-castro-visits-a-mausoleum-in-artemisa-his-first-reported-appearance-outside-havana-since-leaving-office-in-2.html)  [JSON](/news/2010/07/25/former-president-of-cuba-fidel-castro-visits-a-mausoleum-in-artemisa-his-first-reported-appearance-outside-havana-since-leaving-office-in-2.json)  [XML](/news/2010/07/25/former-president-of-cuba-fidel-castro-visits-a-mausoleum-in-artemisa-his-first-reported-appearance-outside-havana-since-leaving-office-in-2.xml)  
+
 ### [2010-07-25](/news/2010/07/25/index.md)
 
+##### President
 # Former President of Cuba Fidel Castro visits a mausoleum in Artemisa, his first reported appearance outside Havana since leaving office in 2006. 
 
 Former Cuban President Fidel Castro makes his first reported appearance outside Havana since handing over power to his brother in 2006.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10754060)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

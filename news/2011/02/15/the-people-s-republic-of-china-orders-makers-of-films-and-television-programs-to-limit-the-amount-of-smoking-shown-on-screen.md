@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/15/the-people-s-republic-of-china-orders-makers-of-films-and-television-programs-to-limit-the-amount-of-smoking-shown-on-screen.html)  [JSON](/news/2011/02/15/the-people-s-republic-of-china-orders-makers-of-films-and-television-programs-to-limit-the-amount-of-smoking-shown-on-screen.json)  [XML](/news/2011/02/15/the-people-s-republic-of-china-orders-makers-of-films-and-television-programs-to-limit-the-amount-of-smoking-shown-on-screen.xml)  
+
 ### [2011-02-15](/news/2011/02/15/index.md)
 
+##### China
 # The People's Republic of China orders makers of films and television programs to limit the amount of smoking shown on-screen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Phil Star](http://www.philstar.com/Article.aspx?articleId=657684&publicationSubCategoryId=200)
 

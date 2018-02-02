@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/5/a-knife-wielding-assailant-injures-the-american-ambassador-to-south-korea-mark-lippert-in-the-south-korean-capital-city-of-seoul-authorit.html)  [JSON](/news/2015/03/5/a-knife-wielding-assailant-injures-the-american-ambassador-to-south-korea-mark-lippert-in-the-south-korean-capital-city-of-seoul-authorit.json)  [XML](/news/2015/03/5/a-knife-wielding-assailant-injures-the-american-ambassador-to-south-korea-mark-lippert-in-the-south-korean-capital-city-of-seoul-authorit.xml)  
+
 ### [2015-03-5](/news/2015/03/5/index.md)
 
+##### ambassador
 # A knife-wielding assailant injures the American ambassador to South Korea, Mark Lippert, in the South Korean capital city of Seoul. Authorities report that the injuries on his face and wrist are not life-threatening. 
 
 A militant Korean nationalist slashes the face of the US ambassador to South Korea, with the North calling it a &quot;knife shower of justice&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-31743055)
 2. [Yonhap News](http://english.yonhapnews.co.kr/news/2015/03/05/0200000000AEN20150305001400315.html?input=www.tweeter.com)

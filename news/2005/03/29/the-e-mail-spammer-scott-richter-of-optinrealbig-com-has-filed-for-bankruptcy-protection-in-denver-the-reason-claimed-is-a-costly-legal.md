@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/29/the-e-mail-spammer-scott-richter-of-optinrealbig-com-has-filed-for-bankruptcy-protection-in-denver-the-reason-claimed-is-a-costly-legal.html)  [JSON](/news/2005/03/29/the-e-mail-spammer-scott-richter-of-optinrealbig-com-has-filed-for-bankruptcy-protection-in-denver-the-reason-claimed-is-a-costly-legal.json)  [XML](/news/2005/03/29/the-e-mail-spammer-scott-richter-of-optinrealbig-com-has-filed-for-bankruptcy-protection-in-denver-the-reason-claimed-is-a-costly-legal.xml)  
+
 ### [2005-03-29](/news/2005/03/29/index.md)
 
+##### spam
 #  The E-mail spammer Scott Richter of "OptInRealBig.com" has filed for bankruptcy protection in Denver. The reason claimed is a costly legal battle with Microsoft. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Denver Post](http://www.denverpost.com/Stories/0,1413,36~32540~2786931,00.html)
 

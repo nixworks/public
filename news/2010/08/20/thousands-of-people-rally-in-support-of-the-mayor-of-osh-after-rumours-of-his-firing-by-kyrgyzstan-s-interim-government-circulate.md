@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/20/thousands-of-people-rally-in-support-of-the-mayor-of-osh-after-rumours-of-his-firing-by-kyrgyzstan-s-interim-government-circulate.html)  [JSON](/news/2010/08/20/thousands-of-people-rally-in-support-of-the-mayor-of-osh-after-rumours-of-his-firing-by-kyrgyzstan-s-interim-government-circulate.json)  [XML](/news/2010/08/20/thousands-of-people-rally-in-support-of-the-mayor-of-osh-after-rumours-of-his-firing-by-kyrgyzstan-s-interim-government-circulate.xml)  
+
 ### [2010-08-20](/news/2010/08/20/index.md)
 
+##### Osh
 # Thousands of people rally in support of the mayor of Osh after rumours of his firing by Kyrgyzstan's interim government circulate. 
 
 Thousands show support for Bakiyev-appointed official amid rumours of his dismissal.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201082014544174385.html)
 1. [Cover Image](http://www.aljazeera.com)

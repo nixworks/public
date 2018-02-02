@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.html)  [JSON](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.json)  [XML](/news/2017/09/9/saudi-arabia-suspends-any-dialogue-with-qatar-accusing-it-of-adistorting-factsa-in-its-reporting-of-yesterday-s-phone-call-between-the.xml)  
+
 ### [2017-09-9](/news/2017/09/9/index.md)
 
+##### 2017 Qatar diplomatic crisis
 # Saudi Arabia suspends any dialogue with Qatar, accusing it of "distorting facts" in its reporting of yesterday's phone call between the leaders of both countries which suggested a breakthrough in the Gulf dispute was possible. 
 
 Saudi Arabia on Saturday suspended any dialogue with Qatar, accusing it of &quot;distorting facts&quot;, just after a report of a phone call between the leaders of both countries suggested a breakthrough in the Gulf dispute.
 
 
-### Source:
+### Sources:
 
 1. [RT via Newsline](https://newsline.com/saudi-arabia-suspends-all-dialogue-with-doha-after-phone-talks-with-qatar-emir-trump/)
 2. [Reuters](https://www.reuters.com/article/us-gulf-qatar/saudi-arabia-suspends-any-dialogue-with-qatar-spa-idUSKCN1BJ2OW)

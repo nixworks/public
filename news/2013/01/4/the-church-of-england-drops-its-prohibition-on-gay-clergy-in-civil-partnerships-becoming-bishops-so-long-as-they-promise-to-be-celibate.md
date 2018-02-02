@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/4/the-church-of-england-drops-its-prohibition-on-gay-clergy-in-civil-partnerships-becoming-bishops-so-long-as-they-promise-to-be-celibate.html)  [JSON](/news/2013/01/4/the-church-of-england-drops-its-prohibition-on-gay-clergy-in-civil-partnerships-becoming-bishops-so-long-as-they-promise-to-be-celibate.json)  [XML](/news/2013/01/4/the-church-of-england-drops-its-prohibition-on-gay-clergy-in-civil-partnerships-becoming-bishops-so-long-as-they-promise-to-be-celibate.xml)  
+
 ### [2013-01-4](/news/2013/01/4/index.md)
 
+##### Church of England
 # The Church of England drops its prohibition on gay clergy in civil partnerships becoming bishops, so long as they promise to be celibate. 
 
 The Church of England drops its prohibition on gay clergy in civil partnerships becoming bishops, so long as they promise to be celibate.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20914799)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/jan/04/church-of-england-gay-bishops)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/7/at-least-16-people-die-and-32-are-injured-after-a-bus-falls-into-a-ravine-north-of-the-bolivian-capital-la-paz.html)  [JSON](/news/2012/06/7/at-least-16-people-die-and-32-are-injured-after-a-bus-falls-into-a-ravine-north-of-the-bolivian-capital-la-paz.json)  [XML](/news/2012/06/7/at-least-16-people-die-and-32-are-injured-after-a-bus-falls-into-a-ravine-north-of-the-bolivian-capital-la-paz.xml)  
+
 ### [2012-06-7](/news/2012/06/7/index.md)
 
+##### ravine
 # At least 16 people die and 32 are injured after a bus falls into a ravine north of the Bolivian capital La Paz. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5ikfiQGqdHHnTMPcWAsdb67D-CAQA?docId=9cac1200a6e9418e8ff1a44999a2d2f9)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/17/australia-apologizes-to-indonesia-for-breaching-its-territorial-waters-while-conducting-operations-against-people-smugglers-in-operation-sov.html)  [JSON](/news/2014/01/17/australia-apologizes-to-indonesia-for-breaching-its-territorial-waters-while-conducting-operations-against-people-smugglers-in-operation-sov.json)  [XML](/news/2014/01/17/australia-apologizes-to-indonesia-for-breaching-its-territorial-waters-while-conducting-operations-against-people-smugglers-in-operation-sov.xml)  
+
 ### [2014-01-17](/news/2014/01/17/index.md)
 
+##### Australia
 # Australia apologizes to Indonesia for breaching its territorial waters while conducting operations against people smugglers in Operation Sovereign Borders. 
 
 The Abbott government has admitted Australia breached Indonesian territorial waters during operations to deter asylum seeker boats.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/federal-politics/political-news/scott-morrison-admits-australia-breached-indonesian-waters-during-boat-operations-20140117-30yi1.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/3/0/y/p/j/image.related.articleLeadwide.620x349.30yi1.png/1389925096420.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/protests-continue-against-president-gjorge-ivan
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### 2016 Macedonian protests
 # Protests continue against President Gjorge Ivanov in Skopje, Macedonia. Opposition leader Zoran Zaev said he will only take part in EU-brokered negotiations with the government if certain conditions are met. 
 
 Opposition leader demands action before Friday&rsquo;s negotiations in Vienna 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/31/rustam-makhmudov-suspected-of-the-2006-shooting-of-russian-journalist-anna-politkovskaya-is-arrested-overnight-at-the-home-of-his-parents.html)  [JSON](/news/2011/05/31/rustam-makhmudov-suspected-of-the-2006-shooting-of-russian-journalist-anna-politkovskaya-is-arrested-overnight-at-the-home-of-his-parents.json)  [XML](/news/2011/05/31/rustam-makhmudov-suspected-of-the-2006-shooting-of-russian-journalist-anna-politkovskaya-is-arrested-overnight-at-the-home-of-his-parents.xml)  
+
 ### [2011-05-31](/news/2011/05/31/index.md)
 
+##### Rustam Makhmudov
 # Rustam Makhmudov, suspected of the 2006 shooting of Russian journalist Anna Politkovskaya, is arrested overnight at the home of his parents in Chechnya. 
 
 The man suspected of shooting Russian journalist Anna Politkovskaya in 2006 is arrested in Chechnya, Russian and Chechen sources say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13601260)
 2. [CNN](http://www.cnn.com/2011/WORLD/europe/05/31/russia.journalist.killed.arrest/index.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/9/the-death-toll-continues-to-rise-due-to-flooding-in-somalia-and-the-somalia-region-of-ethiopia-in-april-2005-heavy-rains-generated-widesp.html)  [JSON](/news/2005/05/9/the-death-toll-continues-to-rise-due-to-flooding-in-somalia-and-the-somalia-region-of-ethiopia-in-april-2005-heavy-rains-generated-widesp.json)  [XML](/news/2005/05/9/the-death-toll-continues-to-rise-due-to-flooding-in-somalia-and-the-somalia-region-of-ethiopia-in-april-2005-heavy-rains-generated-widesp.xml)  
+
 ### [2005-05-9](/news/2005/05/9/index.md)
 
+##### death toll
 #  The death toll continues to rise due to flooding in Somalia and the Somalia Region of Ethiopia. In April 2005, heavy rains generated widespread flooding and caused the Shebelle River to burst its banks. As of May 5, the flooding in Somali Region alone has caused over 100 confirmed deaths and widespread property damage affecting over 100,000 persons. The floods have also destroyed shelters housing 25,000 Somali refugees in Kenya. 
 
 A team mandated to mon
 
 
-### Source:
+### Sources:
 
 1. [UN IRIN](http://www.irinnews.org/report.asp?ReportID=46953&SelectRegion=Horn_of_Africa&SelectCountry=ETHIOPIA)
 2. [UN News](http://www.un.org/apps/news/story.asp?NewsID=14150)

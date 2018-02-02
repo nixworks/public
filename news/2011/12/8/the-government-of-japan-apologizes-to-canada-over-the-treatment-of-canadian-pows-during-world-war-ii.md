@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/8/the-government-of-japan-apologizes-to-canada-over-the-treatment-of-canadian-pows-during-world-war-ii.html)  [JSON](/news/2011/12/8/the-government-of-japan-apologizes-to-canada-over-the-treatment-of-canadian-pows-during-world-war-ii.json)  [XML](/news/2011/12/8/the-government-of-japan-apologizes-to-canada-over-the-treatment-of-canadian-pows-during-world-war-ii.xml)  
+
 ### [2011-12-8](/news/2011/12/8/index.md)
 
+##### Japan
 # The Government of Japan apologizes to Canada over the treatment of Canadian POWs during World War II. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/C/CN_CANADA_JAPAN_POW_APOLOGY?SITE=AZPHG&SECTION=HOME&TEMPLATE=DEFAULT)
 

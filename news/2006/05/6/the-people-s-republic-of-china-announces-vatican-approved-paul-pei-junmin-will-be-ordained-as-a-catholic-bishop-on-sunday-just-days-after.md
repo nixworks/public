@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/6/the-people-s-republic-of-china-announces-vatican-approved-paul-pei-junmin-will-be-ordained-as-a-catholic-bishop-on-sunday-just-days-after.html)  [JSON](/news/2006/05/6/the-people-s-republic-of-china-announces-vatican-approved-paul-pei-junmin-will-be-ordained-as-a-catholic-bishop-on-sunday-just-days-after.json)  [XML](/news/2006/05/6/the-people-s-republic-of-china-announces-vatican-approved-paul-pei-junmin-will-be-ordained-as-a-catholic-bishop-on-sunday-just-days-after.xml)  
+
 ### [2006-05-6](/news/2006/05/6/index.md)
 
+##### China
 #  The People's Republic of China announces Vatican-approved Paul Pei Junmin will be ordained as a Catholic bishop on Sunday, just days after a diplomatic clash due to the unilateral ordination of two other bishops by Beijing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [   (Reuters](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/theworld/2006/May/theworld_May192.xml&section=theworld&col=)
 

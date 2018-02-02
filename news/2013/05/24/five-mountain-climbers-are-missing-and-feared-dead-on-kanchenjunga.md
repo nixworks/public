@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/05/24/five-mountain-climbers-are-missing-and-feared-dead-on-kanchenjunga.html)  [JSON](/news/2013/05/24/five-mountain-climbers-are-missing-and-feared-dead-on-kanchenjunga.json)  [XML](/news/2013/05/24/five-mountain-climbers-are-missing-and-feared-dead-on-kanchenjunga.xml)  
+
 ### [2013-05-24](/news/2013/05/24/index.md)
 
+##### mountain climber
 # Five mountain climbers are missing and feared dead on Kanchenjunga. 
 
-Five climbers have disappeared from the world&#39;s third-highest mountain, in Nepal, and are believed to be dead.
 
 
-### Source:
 
-1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/05/24/climbers-missing-kanchenhjunga-nepal-mountain/2359291/)
+### Sources:
+
+1. [AP via ''USA Today](https://www.usatoday.com/story/news/world/2013/05/24/climbers-missing-kanchenhjunga-nepal-mountain/2359291/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

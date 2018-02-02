@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/22/the-madagascan-army-clashes-with-mutinous-soldiers-near-the-airport-in-the-capital-antananarivo.html)  [JSON](/news/2012/07/22/the-madagascan-army-clashes-with-mutinous-soldiers-near-the-airport-in-the-capital-antananarivo.json)  [XML](/news/2012/07/22/the-madagascan-army-clashes-with-mutinous-soldiers-near-the-airport-in-the-capital-antananarivo.xml)  
+
 ### [2012-07-22](/news/2012/07/22/index.md)
 
+##### Madagascan Army
 # The Madagascan Army clashes with mutinous soldiers near the airport in the capital Antananarivo. 
 
 Two killed, including alleged head of rebellion, as army takes back control of military camp from mutinous soldiers.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/07/201272292553944188.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/22/2012722143242272734_20.jpg)

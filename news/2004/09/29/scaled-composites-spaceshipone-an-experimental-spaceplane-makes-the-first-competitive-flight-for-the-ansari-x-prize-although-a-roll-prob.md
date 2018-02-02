@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/09/29/scaled-composites-spaceshipone-an-experimental-spaceplane-makes-the-first-competitive-flight-for-the-ansari-x-prize-although-a-roll-prob.html)  [JSON](/news/2004/09/29/scaled-composites-spaceshipone-an-experimental-spaceplane-makes-the-first-competitive-flight-for-the-ansari-x-prize-although-a-roll-prob.json)  [XML](/news/2004/09/29/scaled-composites-spaceshipone-an-experimental-spaceplane-makes-the-first-competitive-flight-for-the-ansari-x-prize-although-a-roll-prob.xml)  
+
 ### [2004-09-29](/news/2004/09/29/index.md)
 
+##### Scaled Composites SpaceShipOne
 #  Scaled Composites SpaceShipOne, an experimental spaceplane, makes the first competitive flight for the Ansari X Prize. Although a roll problem caused the mission to be aborted early, SpaceShipOne nonetheless reached an estimated 109.1&nbsp;km (358,000&nbsp;ft), which qualifies as a spaceflight. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [New Scientist](http://www.newscientist.com/news/news.jsp?id=ns99996463)
+1. [New Scientist](https://www.newscientist.com/news/news.jsp?id=ns99996463)
 2. [Space.com](http://www.space.com/missionlaunches/xprize_success_040929.html)
 
 ### Related:

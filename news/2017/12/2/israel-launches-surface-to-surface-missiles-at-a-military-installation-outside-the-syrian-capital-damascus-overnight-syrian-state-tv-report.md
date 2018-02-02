@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/2/israel-launches-surface-to-surface-missiles-at-a
 
 ### [2017-12-2](/news/2017/12/2/index.md)
 
+##### Israeli involvement in the Syrian Civil War
 # Israel launches surface-to-surface missiles at a military installation outside the Syrian capital Damascus overnight, Syrian state TV reports. 
 
 Syria says Israel attacked an army position outside Damascus and two missiles were destroyed.

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/08/19/a-6-8-magnitude-earthquake-occurs-off-the-coast-of-japan-with-a-tsunami-warning-issued-and-then-retracted.html)  [JSON](/news/2011/08/19/a-6-8-magnitude-earthquake-occurs-off-the-coast-of-japan-with-a-tsunami-warning-issued-and-then-retracted.json)  [XML](/news/2011/08/19/a-6-8-magnitude-earthquake-occurs-off-the-coast-of-japan-with-a-tsunami-warning-issued-and-then-retracted.xml)  
+
 ### [2011-08-19](/news/2011/08/19/index.md)
 
+##### earthquake
 # A 6.8 magnitude earthquake occurs off the coast of Japan with a tsunami warning issued and then retracted. 
 
 A strong earthquake with a preliminary magnitude of 6.8 jolted northeastern Japan off Fukushima prefecture on Friday, the Japan Meteorological Agency said, although no damage was reported and a tsunami advisory for the area was lifted after no waves were sighted.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/strong-offshore-quake-hits-japan-20110819-1j1tz.html)
-2. [Reuters](http://www.reuters.com/article/2011/08/19/us-japan-quake-idUSTRE77I0S620110819)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/2011/08/19/us-japan-quake-idUSTRE77I0S620110819)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

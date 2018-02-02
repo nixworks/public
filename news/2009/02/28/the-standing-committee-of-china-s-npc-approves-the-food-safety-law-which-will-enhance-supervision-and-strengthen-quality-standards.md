@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/28/the-standing-committee-of-china-s-npc-approves-the-food-safety-law-which-will-enhance-supervision-and-strengthen-quality-standards.html)  [JSON](/news/2009/02/28/the-standing-committee-of-china-s-npc-approves-the-food-safety-law-which-will-enhance-supervision-and-strengthen-quality-standards.json)  [XML](/news/2009/02/28/the-standing-committee-of-china-s-npc-approves-the-food-safety-law-which-will-enhance-supervision-and-strengthen-quality-standards.xml)  
+
 ### [2009-02-28](/news/2009/02/28/index.md)
 
+##### Standing Committee of the National People's Congress
 #  The Standing Committee of China's NPC approves the Food Safety Law, which will enhance supervision and strengthen quality standards. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-02/28/content_10916180.htm)
 

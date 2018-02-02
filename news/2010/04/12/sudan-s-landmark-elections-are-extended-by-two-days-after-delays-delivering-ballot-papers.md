@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/12/sudan-s-landmark-elections-are-extended-by-two-days-after-delays-delivering-ballot-papers.html)  [JSON](/news/2010/04/12/sudan-s-landmark-elections-are-extended-by-two-days-after-delays-delivering-ballot-papers.json)  [XML](/news/2010/04/12/sudan-s-landmark-elections-are-extended-by-two-days-after-delays-delivering-ballot-papers.xml)  
+
 ### [2010-04-12](/news/2010/04/12/index.md)
 
+##### Sudan
 # Sudan's landmark elections are extended by two days after delays delivering ballot papers. 
 
 Voters head to polls for second day as opposition calls for elections to be extended.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/201041251835701851.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8616249.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/24/part-of-the-montreal-metro-and-the-street-above-are-closed-off-after-the-formation-of-cracks-at-mcgill-station-causing-severe-traffic-prob.html)  [JSON](/news/2007/08/24/part-of-the-montreal-metro-and-the-street-above-are-closed-off-after-the-formation-of-cracks-at-mcgill-station-causing-severe-traffic-prob.json)  [XML](/news/2007/08/24/part-of-the-montreal-metro-and-the-street-above-are-closed-off-after-the-formation-of-cracks-at-mcgill-station-causing-severe-traffic-prob.xml)  
+
 ### [2007-08-24](/news/2007/08/24/index.md)
 
+##### Montreal Metro
 #  Part of the Montreal Metro and the street above are closed off after the formation of cracks at McGill station, causing severe traffic problems in downtown. There is no indication as to when the road or station will be re-opened. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/montreal/story/2007/08/24/collapse.html)
 

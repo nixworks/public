@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/11/israel-is-set-to-impose-a-military-order-which-ten-human-rights-groups-fear-could-see-thousands-of-palestinians-deported-from-the-west-bank.html)  [JSON](/news/2010/04/11/israel-is-set-to-impose-a-military-order-which-ten-human-rights-groups-fear-could-see-thousands-of-palestinians-deported-from-the-west-bank.json)  [XML](/news/2010/04/11/israel-is-set-to-impose-a-military-order-which-ten-human-rights-groups-fear-could-see-thousands-of-palestinians-deported-from-the-west-bank.xml)  
+
 ### [2010-04-11](/news/2010/04/11/index.md)
 
+##### Israel
 # Israel is set to impose a military order, which ten human rights groups fear could see thousands of Palestinians deported from the West Bank if they do not have a residency permit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/04/2010411113726639765.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8614908.stm)

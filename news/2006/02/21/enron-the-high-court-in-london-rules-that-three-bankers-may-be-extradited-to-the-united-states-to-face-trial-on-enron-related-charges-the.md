@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/21/enron-the-high-court-in-london-rules-that-three-bankers-may-be-extradited-to-the-united-states-to-face-trial-on-enron-related-charges-the.html)  [JSON](/news/2006/02/21/enron-the-high-court-in-london-rules-that-three-bankers-may-be-extradited-to-the-united-states-to-face-trial-on-enron-related-charges-the.json)  [XML](/news/2006/02/21/enron-the-high-court-in-london-rules-that-three-bankers-may-be-extradited-to-the-united-states-to-face-trial-on-enron-related-charges-the.xml)  
+
 ### [2006-02-21](/news/2006/02/21/index.md)
 
+##### Enron
 #  Enron: The High Court in London rules that three bankers may be extradited to the United States to face trial on Enron-related charges. The three, David Bermingham, Gary Mulgrew and Giles Darby, former executives at Royal Bank of Scotland Group PLC unit Greenwich NatWest, had argued unsuccessfully that since the majority of the alleged offenses took place in Britain, any trial should be held in that country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Houston Chronicle](http://www.chron.com/disp/story.mpl/special/enron/3674015.html)
 

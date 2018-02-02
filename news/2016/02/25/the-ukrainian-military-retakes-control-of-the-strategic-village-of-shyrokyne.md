@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/25/the-ukrainian-military-retakes-control-of-the-s
 
 ### [2016-02-25](/news/2016/02/25/index.md)
 
+##### War in Donbass
 # The Ukrainian military retakes control of the strategic village of Shyrokyne. 
 
 

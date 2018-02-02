@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/12/31/venezuelan-cabinet-ministers-get-together-to-pray-for-the-recovery-of-president-hugo-cha-vez-who-is-in-cuba-recovering-from-a-cancer-operat.html)  [JSON](/news/2012/12/31/venezuelan-cabinet-ministers-get-together-to-pray-for-the-recovery-of-president-hugo-cha-vez-who-is-in-cuba-recovering-from-a-cancer-operat.json)  [XML](/news/2012/12/31/venezuelan-cabinet-ministers-get-together-to-pray-for-the-recovery-of-president-hugo-cha-vez-who-is-in-cuba-recovering-from-a-cancer-operat.xml)  
+
 ### [2012-12-31](/news/2012/12/31/index.md)
 
+##### Venezuela
 # Venezuelan Cabinet ministers get together to pray for the recovery of President Hugo Chavez, who is in Cuba recovering from a cancer operation. 
 
 Venezuelan cabinet ministers gather at the presidential palace to pray for the health of President Hugo Chavez, who is being treated for cancer.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-20878868)
-2. [Reuters](http://www.reuters.com/article/2012/12/31/us-venezuela-chavez-idUSBRE8BU00K20121231)
+2. [Reuters](https://www.reuters.com/article/2012/12/31/us-venezuela-chavez-idUSBRE8BU00K20121231)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65026000/jpg/_65026933_65026932.jpg)
 
 ### Related:

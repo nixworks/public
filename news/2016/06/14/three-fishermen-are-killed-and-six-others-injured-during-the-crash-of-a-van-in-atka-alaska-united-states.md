@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/14/three-fishermen-are-killed-and-six-others-injur
 
 ### [2016-06-14](/news/2016/06/14/index.md)
 
+##### Atka, Alaska
 #  Three fishermen are killed, and six others injured, during the crash of a van in Atka, Alaska, United States.
 
 Employees of a fish processing plant in the tiny Aleutian village were heading for dinner when their van crashed on Tuesday afternoon.

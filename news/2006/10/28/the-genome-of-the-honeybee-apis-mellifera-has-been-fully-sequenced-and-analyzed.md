@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/28/the-genome-of-the-honeybee-apis-mellifera-has-been-fully-sequenced-and-analyzed.html)  [JSON](/news/2006/10/28/the-genome-of-the-honeybee-apis-mellifera-has-been-fully-sequenced-and-analyzed.json)  [XML](/news/2006/10/28/the-genome-of-the-honeybee-apis-mellifera-has-been-fully-sequenced-and-analyzed.xml)  
+
 ### [2006-10-28](/news/2006/10/28/index.md)
 
+##### genome
 #  The genome of the honeybee "Apis mellifera" has been fully sequenced and analyzed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nature](http://www.nature.com/nature/journal/v443/n7114/full/443884a.html)
 

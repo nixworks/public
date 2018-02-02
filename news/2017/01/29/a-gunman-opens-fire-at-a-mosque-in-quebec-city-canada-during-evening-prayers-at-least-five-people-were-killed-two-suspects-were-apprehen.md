@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/29/a-gunman-opens-fire-at-a-mosque-in-quebec-city-
 
 ### [2017-01-29](/news/2017/01/29/index.md)
 
+##### Quebec City mosque shooting
 # A gunman opens fire at a mosque in Quebec City, Canada, during evening prayers. At least five people were killed. Two suspects were apprehended; one was later released. 
 
 Quebec provincial police now say only one of the two men arrested Sunday night following the deadly shooting at a Quebec City mosque is a suspect. Alexandre Bissonnette, 27, has been charged with six counts of first-degree murder and five counts of attempted murder.

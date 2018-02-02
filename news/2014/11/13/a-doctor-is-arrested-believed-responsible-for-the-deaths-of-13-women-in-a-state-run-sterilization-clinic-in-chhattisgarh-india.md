@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/13/a-doctor-is-arrested-believed-responsible-for-the-deaths-of-13-women-in-a-state-run-sterilization-clinic-in-chhattisgarh-india.html)  [JSON](/news/2014/11/13/a-doctor-is-arrested-believed-responsible-for-the-deaths-of-13-women-in-a-state-run-sterilization-clinic-in-chhattisgarh-india.json)  [XML](/news/2014/11/13/a-doctor-is-arrested-believed-responsible-for-the-deaths-of-13-women-in-a-state-run-sterilization-clinic-in-chhattisgarh-india.xml)  
+
 ### [2014-11-13](/news/2014/11/13/index.md)
 
+##### Chhattisgarh
 # A doctor is arrested, believed responsible for the deaths of 13 women in a state-run sterilization clinic in Chhattisgarh, India. 
 
 A doctor is arrested in connection with the deaths of 15 women at two state-run sterilisation camps in the Indian state of Chhattisgarh.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-30032878)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78952000/jpg/_78952186_78952185.jpg)

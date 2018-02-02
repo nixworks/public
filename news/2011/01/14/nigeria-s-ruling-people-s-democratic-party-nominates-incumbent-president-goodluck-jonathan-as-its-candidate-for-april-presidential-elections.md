@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/14/nigeria-s-ruling-people-s-democratic-party-nominates-incumbent-president-goodluck-jonathan-as-its-candidate-for-april-presidential-elections.html)  [JSON](/news/2011/01/14/nigeria-s-ruling-people-s-democratic-party-nominates-incumbent-president-goodluck-jonathan-as-its-candidate-for-april-presidential-elections.json)  [XML](/news/2011/01/14/nigeria-s-ruling-people-s-democratic-party-nominates-incumbent-president-goodluck-jonathan-as-its-candidate-for-april-presidential-elections.xml)  
+
 ### [2011-01-14](/news/2011/01/14/index.md)
 
+##### Nigeria
 # Nigeria's ruling People's Democratic Party nominates incumbent President Goodluck Jonathan as its candidate for April presidential elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hHJOKAdmy_h9TX-Z-8HvrcBRVHUQ?docId=CNG.cf47aa2fba1edb73982e4c0e962bed14.4f1)
 2. [Africa News](http://www.africanews.com/site/Nigeria_Goodluck_Jonathan_wins_PDP_primary/list_messages/37048)

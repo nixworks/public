@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/3/taylor-swift-wins-the-entertainer-of-the-year-award-at-the-academy-of-country-music-awards-2010-with-miranda-lambert-winning-four-awards-inc.html)  [JSON](/news/2011/04/3/taylor-swift-wins-the-entertainer-of-the-year-award-at-the-academy-of-country-music-awards-2010-with-miranda-lambert-winning-four-awards-inc.json)  [XML](/news/2011/04/3/taylor-swift-wins-the-entertainer-of-the-year-award-at-the-academy-of-country-music-awards-2010-with-miranda-lambert-winning-four-awards-inc.xml)  
+
 ### [2011-04-3](/news/2011/04/3/index.md)
 
+##### Taylor Swift
 # Taylor Swift wins the Entertainer of the Year award at the Academy of Country Music Awards 2010 with Miranda Lambert winning four awards including Female Vocalist of the year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_ACM_AWARDS?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 

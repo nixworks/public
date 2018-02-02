@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/11/nelson-mandela-attends-the-closing-ceremony-after-extreme-pressure-from-fifa.html)  [JSON](/news/2010/07/11/nelson-mandela-attends-the-closing-ceremony-after-extreme-pressure-from-fifa.json)  [XML](/news/2010/07/11/nelson-mandela-attends-the-closing-ceremony-after-extreme-pressure-from-fifa.xml)  
+
 ### [2010-07-11](/news/2010/07/11/index.md)
 
+##### Nelson Mandela
 # Nelson Mandela attends the closing ceremony after "extreme pressure" from FIFA. 
 
 Nelson Mandela enjoys a thunderous greeting from thousands of fans as he attends the World Cup closing ceremony.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/sport/worldcup2010/2010/07/2010711173439712821.html)
 2. [BBC News](http://news.bbc.co.uk/2/hi/world/africa/10589713.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/5/north-american-aerospace-defense-command-and-united-states-northern-command-report-that-north-korea-s-bright-star-2-communications-satellit.html)  [JSON](/news/2009/04/5/north-american-aerospace-defense-command-and-united-states-northern-command-report-that-north-korea-s-bright-star-2-communications-satellit.json)  [XML](/news/2009/04/5/north-american-aerospace-defense-command-and-united-states-northern-command-report-that-north-korea-s-bright-star-2-communications-satellit.xml)  
+
 ### [2009-04-5](/news/2009/04/5/index.md)
 
+##### Strategic Command systems
 #  North American Aerospace Defense Command and United States Northern Command report that North Korea's Bright Star-2 communications satellite did not reach Earth's orbit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2009/WORLD/asiapcf/04/05/north.korea.rocket/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/19/news-international-pays-out-compensation-to-37-people-including-the-actor-jude-law-and-politician-john-prescott-over-phone-hacking-by-the.html)  [JSON](/news/2012/01/19/news-international-pays-out-compensation-to-37-people-including-the-actor-jude-law-and-politician-john-prescott-over-phone-hacking-by-the.json)  [XML](/news/2012/01/19/news-international-pays-out-compensation-to-37-people-including-the-actor-jude-law-and-politician-john-prescott-over-phone-hacking-by-the.xml)  
+
 ### [2012-01-19](/news/2012/01/19/index.md)
 
+##### News International
 # News International pays out compensation to 37 people, including the actor Jude Law and politician John Prescott. over phone hacking by the "News of the World". 
 
 Jude Law and Lord Prescott are among 37 people to receive payouts over phone hacking by the News of the World, the High Court hears.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-16629036)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57981000/jpg/_57981239_013750920-1.jpg)

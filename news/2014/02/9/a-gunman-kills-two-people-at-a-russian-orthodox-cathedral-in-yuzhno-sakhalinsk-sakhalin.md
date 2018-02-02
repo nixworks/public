@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/9/a-gunman-kills-two-people-at-a-russian-orthodox-cathedral-in-yuzhno-sakhalinsk-sakhalin.html)  [JSON](/news/2014/02/9/a-gunman-kills-two-people-at-a-russian-orthodox-cathedral-in-yuzhno-sakhalinsk-sakhalin.json)  [XML](/news/2014/02/9/a-gunman-kills-two-people-at-a-russian-orthodox-cathedral-in-yuzhno-sakhalinsk-sakhalin.xml)  
+
 ### [2014-02-9](/news/2014/02/9/index.md)
 
+##### Russian
 # A gunman kills two people at a Russian Orthodox cathedral in Yuzhno-Sakhalinsk, Sakhalin. 
 
 A gunman opens fire inside a cathedral on the eastern Russian island of Sakhalin, killing a nun and a churchgoer, say reports.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-26106584)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72854000/gif/_72854021_sakahlin_russia_304.gif)

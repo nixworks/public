@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2017/05/4/the-holy-see-and-myanmar-establish-full-diplomatic-relations-following-a-meeting-between-pope-francis-and-myanmar-s-state-counsellor-aung-sa.html)  [JSON](/news/2017/05/4/the-holy-see-and-myanmar-establish-full-diplomatic-relations-following-a-meeting-between-pope-francis-and-myanmar-s-state-counsellor-aung-sa.json)  [XML](/news/2017/05/4/the-holy-see-and-myanmar-establish-full-diplomatic-relations-following-a-meeting-between-pope-francis-and-myanmar-s-state-counsellor-aung-sa.xml)  
+
 ### [2017-05-4](/news/2017/05/4/index.md)
 
+##### Holy See
 # The Holy See and Myanmar establish full diplomatic relations following a meeting between Pope Francis and Myanmar's State Counsellor Aung San Suu Kyi. 
 
 Rome -- The Vatican establishes full relations with Myanmar for the first time after a cordial meeting May 4 between Francis and Aung San Suu Kyi.
 
 
-### Source:
+### Sources:
 
 1. [National Catholic Reporter](https://www.ncronline.org/news/vatican/vatican-myanmar-establish-full-relations-after-francis-suu-kyi-meeting-thursday)
 1. [Cover Image](https://www.ncronline.org/sites/default/files/styles/facebook_ratio/public/stories/images/FrancisSuuKyi2.jpg?itok=-A6lFCYw)
 
 ### Related:
 
-1. [Tens of thousands of people, including politicians and activists, gather for the funeral of Ko Ni, Myanmar leader Aung San Suu Kyi's longtime adviser, who was assassinated yesterday as he walked out of the Yangon International Airport. ](/news/2017/01/30/tens-of-thousands-of-people-including-politicians-and-activists-gather-for-the-funeral-of-ko-ni-myanmar-leader-aung-san-suu-kyi-s-longtim.md) _Context: Aung San Suu Kyi, Myanmar_
-2. [Malaysian Prime Minister Najib Razak leads a protest rally against the persecution of Myanmar's Muslim Rohingya minority in the predominately Buddhist country, and calls on Myanmar State Counsellor Aung San Suu Kyi and the United Nations to address the Rohingya's plight and end the violence. Myanmar's president's office said the rally is timed for Malaysian political purposes, and that Malaysia should respect the Association of Southeast Asian Nations's principle on sovereignty. ](/news/2016/12/4/malaysian-prime-minister-najib-razak-leads-a-protest-rally-against-the-persecution-of-myanmar-s-muslim-rohingya-minority-in-the-predominatel.md) _Context: Aung San Suu Kyi, Myanmar_
-3. [Burmese State Counsellor Aung San Suu Kyi asks U.S. businesses to invest in Myanmar after Barack Obama agrees to lift U.S. sanctions. ](/news/2016/09/15/burmese-state-counsellor-aung-san-suu-kyi-asks-u-s-businesses-to-invest-in-myanmar-after-barack-obama-agrees-to-lift-u-s-sanctions.md) _Context: Aung San Suu Kyi, Myanmar_
-4. [Myanmar's Aung San Suu Kyi holds historic peace talks to end decades of ethnic conflict in the country. ](/news/2016/08/31/myanmar-s-aung-san-suu-kyi-holds-historic-peace-talks-to-end-decades-of-ethnic-conflict-in-the-country.md) _Context: Aung San Suu Kyi, Myanmar_
-5. [Pope Francis's visit to Armenia this weekend may stress relations with Turkey. The Pope is seeking to avoid reigniting the diplomatic dispute that arose last year when he described the 1915 mass killings of Armenians as a genocide. The Vatican prefers the Armenian phrase "Medz Yeghern," which roughly translates as "the great evil or calamity." ](/news/2016/06/23/pope-francis-s-visit-to-armenia-this-weekend-may-stress-relations-with-turkey-the-pope-is-seeking-to-avoid-reigniting-the-diplomatic-disput.md) _Context: Holy See, Pope Francis_
+1. [Pope Francis ends his six-day trip to Myanmar and Bangladesh by visiting the Rohingya refugees in Dhaka. ](/news/2017/12/2/pope-francis-ends-his-six-day-trip-to-myanmar-and-bangladesh-by-visiting-the-rohingya-refugees-in-dhaka.md) _Context: Myanmar, Pope Francis_
+2. [Dublin City Councillors vote 59-2 to revoke the Freedom of the City of Dublin given to Myanmar's Aung San Suu Kyi for her apparent failure to protect the Rohingya minority from violence. Singer Bob Geldof returned his Freedom one month ago, protesting that Suu Kyi also held the honour. ](/news/2017/12/13/dublin-city-councillors-vote-59a2-to-revoke-the-freedom-of-the-city-of-dublin-given-to-myanmar-s-aung-san-suu-kyi-for-her-apparent-failure.md) _Context: Aung San Suu Kyi, Myanmar_
+3. [Pope Francis arrives in Yangon to begin a six-day trip to Myanmar and Bangladesh, where he is expected to meet with the Rohingya people. ](/news/2017/11/27/pope-francis-arrives-in-yangon-to-begin-a-six-day-trip-to-myanmar-and-bangladesh-where-he-is-expected-to-meet-with-the-rohingya-people.md) _Context: Myanmar, Pope Francis_
+4. [Bangladesh's Foreign Minister A. H. Mahmood Ali and Myanmar's State Counsellor Aung San Suu Kyi agree to return Rohingya refugees from Bangladesh to Myanmar in a two-month period. ](/news/2017/11/23/bangladesh-s-foreign-minister-a-h-mahmood-ali-and-myanmar-s-state-counsellor-aung-san-suu-kyi-agree-to-return-rohingya-refugees-from-bangl.md) _Context: Aung San Suu Kyi, Myanmar_
+5. [Tens of thousands of people, including politicians and activists, gather for the funeral of Ko Ni, Myanmar leader Aung San Suu Kyi's longtime adviser, who was assassinated yesterday as he walked out of the Yangon International Airport. ](/news/2017/01/30/tens-of-thousands-of-people-including-politicians-and-activists-gather-for-the-funeral-of-ko-ni-myanmar-leader-aung-san-suu-kyi-s-longtim.md) _Context: Aung San Suu Kyi, Myanmar_

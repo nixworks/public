@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/4/2012-brazzaville-arms-dump-blasts-a-series-of-explosions-is-reported-at-a-munitions-dump-in-brazzaville-the-capital-of-the-republic-of-the.html)  [JSON](/news/2012/03/4/2012-brazzaville-arms-dump-blasts-a-series-of-explosions-is-reported-at-a-munitions-dump-in-brazzaville-the-capital-of-the-republic-of-the.json)  [XML](/news/2012/03/4/2012-brazzaville-arms-dump-blasts-a-series-of-explosions-is-reported-at-a-munitions-dump-in-brazzaville-the-capital-of-the-republic-of-the.xml)  
+
 ### [2012-03-4](/news/2012/03/4/index.md)
 
+##### 2012 Brazzaville arms dump blasts
 # 2012 Brazzaville arms dump blasts: A series of explosions is reported at a munitions dump in Brazzaville, the capital of the Republic of the Congo, with at least 250 people dead. 
 
 Three large explosions rocked Brazzaville, the capital of Congo Republic, and a cloud of grey smoke rose over the city early on Sunday, a Reuters witness said.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17249480)
 2. [Reuters](http://in.reuters.com/article/2012/03/04/congo-explosions-idINDEE82304620120304)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/12/11/chinese-tycoon-guo-guangchang-founder-and-chairman-of-fosun-is-reported-missing-amid-the-chinese-anti-corruption-campaign.html)  [JSON](/news/2015/12/11/chinese-tycoon-guo-guangchang-founder-and-chairman-of-fosun-is-reported-missing-amid-the-chinese-anti-corruption-campaign.json)  [XML](/news/2015/12/11/chinese-tycoon-guo-guangchang-founder-and-chairman-of-fosun-is-reported-missing-amid-the-chinese-anti-corruption-campaign.xml)  
+
 ### [2015-12-11](/news/2015/12/11/index.md)
 
+##### Guo Guangchang
 # Chinese tycoon Guo Guangchang, founder and chairman of Fosun, is reported missing amid the Chinese anti-corruption campaign. 
 
 Chairman of Fosun group Guo Guangchang – known as China’s Warren Buffett – was thought to be missing but was later discovered to be in police custody
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/dec/11/guo-guangchang-chinas-warren-buffet-goes-missing-amid-corruption-crackdown)
+1. [The Guardian](https://www.theguardian.com/world/2015/dec/11/guo-guangchang-chinas-warren-buffet-goes-missing-amid-corruption-crackdown)
 1. [Cover Image](https://i.guim.co.uk/img/media/df6e340f347e3910a5184bd4ad6a469761850a6a/0_137_3500_2101/master/3500.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=67670177428dd2914589d15f3cb1626c)
 
 ### Related:

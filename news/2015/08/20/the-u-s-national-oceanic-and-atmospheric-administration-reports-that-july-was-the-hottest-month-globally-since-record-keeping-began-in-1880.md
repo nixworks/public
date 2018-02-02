@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/20/the-u-s-national-oceanic-and-atmospheric-administration-reports-that-july-was-the-hottest-month-globally-since-record-keeping-began-in-1880.html)  [JSON](/news/2015/08/20/the-u-s-national-oceanic-and-atmospheric-administration-reports-that-july-was-the-hottest-month-globally-since-record-keeping-began-in-1880.json)  [XML](/news/2015/08/20/the-u-s-national-oceanic-and-atmospheric-administration-reports-that-july-was-the-hottest-month-globally-since-record-keeping-began-in-1880.xml)  
+
 ### [2015-08-20](/news/2015/08/20/index.md)
 
+##### U.S.  National Oceanic and Atmospheric Administration
 # The U.S. National Oceanic and Atmospheric Administration reports that July was the hottest month globally since record keeping began in 1880. Global temperatures were 1.46degF (0.81degC) warmer than the 20th century average. NOAA scientists expect 2015 will go down as the warmest year on record. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/news/july-2015-was-hottest-month-on-record-globally/)
 2. [NOAA](http://www.ncdc.noaa.gov/sotc/summary-info/global/201507)

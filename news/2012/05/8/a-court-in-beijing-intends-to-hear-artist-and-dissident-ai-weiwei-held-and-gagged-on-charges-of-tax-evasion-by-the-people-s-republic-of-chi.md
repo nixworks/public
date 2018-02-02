@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/8/a-court-in-beijing-intends-to-hear-artist-and-dissident-ai-weiwei-held-and-gagged-on-charges-of-tax-evasion-by-the-people-s-republic-of-chi.html)  [JSON](/news/2012/05/8/a-court-in-beijing-intends-to-hear-artist-and-dissident-ai-weiwei-held-and-gagged-on-charges-of-tax-evasion-by-the-people-s-republic-of-chi.json)  [XML](/news/2012/05/8/a-court-in-beijing-intends-to-hear-artist-and-dissident-ai-weiwei-held-and-gagged-on-charges-of-tax-evasion-by-the-people-s-republic-of-chi.xml)  
+
 ### [2012-05-8](/news/2012/05/8/index.md)
 
+##### Beijing
 # A court in Beijing intends to hear artist and dissident Ai Weiwei, held and gagged on charges of tax evasion by the People's Republic of China. 
 
 Chinese authorities announce that artist Ai Weiwei will be allowed to challenge a huge fine for alleged tax evasion.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17992674)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57724000/jpg/_57724268_qjseusew.jpg)

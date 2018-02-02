@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/11/27/president-of-the-european-commission-josa-c-manuel-barroso-nominates-a-new-team-of-commissioners-for-his-second-five-year-term.html)  [JSON](/news/2009/11/27/president-of-the-european-commission-josa-c-manuel-barroso-nominates-a-new-team-of-commissioners-for-his-second-five-year-term.json)  [XML](/news/2009/11/27/president-of-the-european-commission-josa-c-manuel-barroso-nominates-a-new-team-of-commissioners-for-his-second-five-year-term.xml)  
+
 ### [2009-11-27](/news/2009/11/27/index.md)
 
+##### President of the European Commission
 #  President of the European Commission Jose Manuel Barroso nominates a new team of commissioners for his second five-year term. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8382404.stm)
-2. [The New York Times](http://www.nytimes.com/reuters/2009/11/27/business/business-uk-eu-commission.html)
+2. [The New York Times](https://www.nytimes.com/reuters/2009/11/27/business/business-uk-eu-commission.html)
 
 ### Related:
 

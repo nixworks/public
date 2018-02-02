@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/14/in-a-court-case-concerning-the-theft-of-kevlar-related-trade-secrets-dupont-is-awarded-us-920-million-in-damages.html)  [JSON](/news/2011/09/14/in-a-court-case-concerning-the-theft-of-kevlar-related-trade-secrets-dupont-is-awarded-us-920-million-in-damages.json)  [XML](/news/2011/09/14/in-a-court-case-concerning-the-theft-of-kevlar-related-trade-secrets-dupont-is-awarded-us-920-million-in-damages.xml)  
+
 ### [2011-09-14](/news/2011/09/14/index.md)
 
+##### court case
 # In a court case concerning the theft of Kevlar-related trade secrets, DuPont is awarded US$920 million in damages.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-14925058)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55379000/jpg/_55379064_012898760-1.jpg)

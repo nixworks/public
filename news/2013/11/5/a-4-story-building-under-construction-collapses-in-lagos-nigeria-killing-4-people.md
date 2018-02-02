@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/5/a-4-story-building-under-construction-collapses-in-lagos-nigeria-killing-4-people.html)  [JSON](/news/2013/11/5/a-4-story-building-under-construction-collapses-in-lagos-nigeria-killing-4-people.json)  [XML](/news/2013/11/5/a-4-story-building-under-construction-collapses-in-lagos-nigeria-killing-4-people.xml)  
+
 ### [2013-11-5](/news/2013/11/5/index.md)
 
+##### Lagos
 # A 4-story building under construction collapses in Lagos, Nigeria, killing 4 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Miami Herald](http://www.miamiherald.com/2013/11/05/3732674/4-dead-25-rescued-in-building.html)
 

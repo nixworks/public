@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/31/the-indian-state-of-gujarat-passes-a-law-which-
 
 ### [2017-03-31](/news/2017/03/31/index.md)
 
+##### India
 # The Indian state of Gujarat passes a law which makes the slaughter of a cow punishable by life imprisonment. 
 
 The new amendment means Gujarat now has the toughest laws dealing with cow slaughter in India.

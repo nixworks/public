@@ -1,25 +1,21 @@
+
+Formats: [HTML](/news/2017/08/15/during-a-press-conference-at-trump-tower-in-new-york-city-which-was-intended-to-announce-an-executive-order-on-infrastructure-policy-presi.html)  [JSON](/news/2017/08/15/during-a-press-conference-at-trump-tower-in-new-york-city-which-was-intended-to-announce-an-executive-order-on-infrastructure-policy-presi.json)  [XML](/news/2017/08/15/during-a-press-conference-at-trump-tower-in-new-york-city-which-was-intended-to-announce-an-executive-order-on-infrastructure-policy-presi.xml)  
+
 ### [2017-08-15](/news/2017/08/15/index.md)
 
+##### Unite the Right rally
 # During a press conference at Trump Tower in New York City, which was intended to announce an executive order on infrastructure policy, President Donald Trump defended his August 12 remarks about the Charlottesville rally, placing "blame on both sides" for the incidents at the rally and criticizing what he referred to as the "alt-left," equating them with white supremacists and neo-Nazis on the right. 
 
 President Trump told reporters the counter-protesters demonstrating against white nationalists are also to blame for violence in Charlottesville Saturday. 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Politics/trump-lashes-alt-left-charlottesville-fine-people-sides/story?id=49235032)
 2. [CNBC](https://www.cnbc.com/2017/08/14/intel-ceo-quit-trumps-manufacturing-council.html)
 3. [NBC News](http://www.nbcnews.com/news/us-news/trump-defends-all-sides-comment-n793001)
 4. [The New York Times](https://www.nytimes.com/2017/08/15/business/trump-councils-ceos.html)
 4. [Cover Image](https://media4.s-nbcnews.com/j/newscms/2017_33/2121071/170815-donald-trump-se-421p_437c115b70c0b0109c098d53c4a135be.nbcnews-fp-1200-800.jpg)
-
-### Related:
-
-1. [U.S. President Donald Trump accuses former President Barack Obama of wiretapping Trump Tower the month before the 2016 presidential election but offers no evidence to support his claim. A spokesman for President Obama rejects these claims. ](/news/2017/03/4/u-s-president-donald-trump-accuses-former-president-barack-obama-of-wiretapping-trump-tower-the-month-before-the-2016-presidential-election.md) _Context: Donald Trump, Trump Tower_
-2. [Thai Prime Minister Prayut Chan-o-cha meets with U.S. President Donald Trump in the Oval Office. Trump says he wants to lower the U.S. trade deficit with Thailand. ](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.md) _Context: Donald Trump_
-3. [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md) _Context: Donald Trump_
-4. [U.S. President Donald Trump signs an executive order allowing the sale of health insurance plans that are exempt from some Obamacare regulations including purchases effective across state lines. ](/news/2017/10/12/u-s-president-donald-trump-signs-an-executive-order-allowing-the-sale-of-health-insurance-plans-that-are-exempt-from-some-obamacare-regulat.md) _Context: Donald Trump_
-5. [U.S. President Donald Trump declares the 17 Northern California wildfires a major disaster. The fires have destroyed 180 square miles in California's wine country where mass evacuations are underway. The fires have killed at least 15 people with more than 150 others missing and at least 2,000 homes and businesses destroyed. ](/news/2017/10/10/u-s-president-donald-trump-declares-the-17-northern-california-wildfires-a-major-disaster-the-fires-have-destroyed-180-square-miles-in-cal.md) _Context: Donald Trump_
 
 ### Changes:
 
@@ -28,3 +24,11 @@ President Trump told reporters the counter-protesters demonstrating against whit
 3. [Aftermath of the During a press conference at Trump Tower in New York City, which was intended to announce an executive order on infrastructure policy, President Donald Trump defended his August 12 remarks about the Charlottesville rally, placing "blame on both sides" for the incidents at the rally and criticizing what he referred to as the "alt-left," equating them with white supremacists and neo-Nazis on the right. ](/news/2017/08/15/aftermath-of-the-during-a-press-conference-at-trump-tower-in-new-york-city-which-was-intended-to-announce-an-executive-order-on-infrastruct.md) _2017-08-25 03:48:21 (Update)_
 4. [Aftermath of the Unite the Right rally: During a press conference at Trump Tower in New York City, which was intended to announce an executive order on infrastructure policy, President Donald Trump defended his August 12 remarks about the Charlottesville rally, placing "blame on both sides" for the incidents at the rally and criticizing what he referred to as the "alt-left," equating them with white supremacists and neo-Nazis on the right. ](/news/2017/08/15/aftermath-of-the-unite-the-right-rally-during-a-press-conference-at-trump-tower-in-new-york-city-which-was-intended-to-announce-an-executi.md) _2017-08-27 03:48:48 (Update)_
 4. [During a press conference at Trump Tower in New York City, which was intended to announce an executive order on infrastructure policy, President Donald Trump defended his August 12 remarks about the Charlottesville rally, placing "blame on both sides" for the incidents at the rally and criticizing what he referred to as the "alt-left," equating them with white supremacists and neo-Nazis on the right. ](/news/2017/08/15/during-a-press-conference-at-trump-tower-in-new-york-city-which-was-intended-to-announce-an-executive-order-on-infrastructure-policy-presi.md) _(Current version)_
+
+### Related:
+
+1. [U.S. President Donald Trump accuses former President Barack Obama of wiretapping Trump Tower the month before the 2016 presidential election but offers no evidence to support his claim. A spokesman for President Obama rejects these claims. ](/news/2017/03/4/u-s-president-donald-trump-accuses-former-president-barack-obama-of-wiretapping-trump-tower-the-month-before-the-2016-presidential-election.md) _Context: Donald Trump, Trump Tower_
+2. [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md) _Context: Donald Trump_
+3. [Twitter, in response to criticism over its handling of U.S. President Donald Trump's account, says it will not block world leaders or remove their controversial tweets. ](/news/2018/01/5/twitter-in-response-to-criticism-over-its-handling-of-u-s-president-donald-trump-s-account-says-it-will-not-block-world-leaders-or-remove.md) _Context: Donald Trump_
+4. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _Context: Donald Trump_
+5. [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md) _Context: Donald Trump_

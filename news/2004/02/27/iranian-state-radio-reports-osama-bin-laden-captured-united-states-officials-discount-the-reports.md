@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/27/iranian-state-radio-reports-osama-bin-laden-captured-united-states-officials-discount-the-reports.html)  [JSON](/news/2004/02/27/iranian-state-radio-reports-osama-bin-laden-captured-united-states-officials-discount-the-reports.json)  [XML](/news/2004/02/27/iranian-state-radio-reports-osama-bin-laden-captured-united-states-officials-discount-the-reports.xml)  
+
 ### [2004-02-27](/news/2004/02/27/index.md)
 
+##### Iran
 #  Iranian state radio reports Osama bin Laden captured. United States officials discount the reports. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.ajc.com/news/content/news/ap/ap_story.html/Intl/AP.V7725.AP-Bin-Laden.html)
 2. [ORF](http://www.orf.at/index.html?url=http%3A//www.orf.at/ticker/139600.html)
@@ -13,7 +17,7 @@
 ### Related:
 
 1. [ War on Terrorism: The "New York Times" reports that militant Muslim recruits are ""streaming into Iraq"" and answering the call of Osama bin Laden and other extremists. These individuals are joining the fight against the coalition's occupation in Iraq, state counterterrorism officials. Intelligence officials (in six countries) have detected an estimate of hundreds of militant young Muslims from various countries headed for Iraq (primarily by crossing the Syrian or Iranian borders).](/news/2003/11/2/war-on-terrorism-the-new-york-times-reports-that-militant-muslim-recruits-are-streaming-into-iraq-and-answering-the-call-of-osama-bi.md) _Context: Iran, Osama bin Laden_
-2. [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md) _Context: Iran_
-3. [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md) _Context: Iran_
-4. [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq-turkey.md) _Context: Iran_
-5. [Iran successfully tests the Khorramshahr missile. ](/news/2017/09/23/iran-successfully-tests-the-khorramshahr-missile.md) _Context: Iran_
+2. [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md) _Context: Iran_
+3. [The U.S. Treasury sanctions five Iranian entities associated with Iran's ballistic missile program. ](/news/2018/01/4/the-u-s-treasury-sanctions-five-iranian-entities-associated-with-iran-s-ballistic-missile-program.md) _Context: Iran_
+4. [U.S. President Donald Trump says he is extending sanctions relief for Iran one last time so Europe and the U.S. can fix the nuclear deal's "terrible flaws". ](/news/2018/01/13/u-s-president-donald-trump-says-he-is-extending-sanctions-relief-for-iran-one-last-time-so-europe-and-the-u-s-can-fix-the-nuclear-deal-s.md) _Context: Iran_
+5. [Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. ](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as-the-largest-anti-government-protests-since-2009-continue.md) _Context: Iran_

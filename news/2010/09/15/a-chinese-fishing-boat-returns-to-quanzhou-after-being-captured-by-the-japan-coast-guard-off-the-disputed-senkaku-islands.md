@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/15/a-chinese-fishing-boat-returns-to-quanzhou-after-being-captured-by-the-japan-coast-guard-off-the-disputed-senkaku-islands.html)  [JSON](/news/2010/09/15/a-chinese-fishing-boat-returns-to-quanzhou-after-being-captured-by-the-japan-coast-guard-off-the-disputed-senkaku-islands.json)  [XML](/news/2010/09/15/a-chinese-fishing-boat-returns-to-quanzhou-after-being-captured-by-the-japan-coast-guard-off-the-disputed-senkaku-islands.xml)  
+
 ### [2010-09-15](/news/2010/09/15/index.md)
 
+##### China
 # A Chinese fishing boat returns to Quanzhou after being captured by the Japan Coast Guard off the disputed Senkaku Islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-09/15/c_13495850.htm)
 

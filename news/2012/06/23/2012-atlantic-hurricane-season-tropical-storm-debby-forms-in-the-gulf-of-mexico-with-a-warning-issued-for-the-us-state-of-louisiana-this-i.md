@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/23/2012-atlantic-hurricane-season-tropical-storm-debby-forms-in-the-gulf-of-mexico-with-a-warning-issued-for-the-us-state-of-louisiana-this-i.html)  [JSON](/news/2012/06/23/2012-atlantic-hurricane-season-tropical-storm-debby-forms-in-the-gulf-of-mexico-with-a-warning-issued-for-the-us-state-of-louisiana-this-i.json)  [XML](/news/2012/06/23/2012-atlantic-hurricane-season-tropical-storm-debby-forms-in-the-gulf-of-mexico-with-a-warning-issued-for-the-us-state-of-louisiana-this-i.xml)  
+
 ### [2012-06-23](/news/2012/06/23/index.md)
 
+##### Tropical Storm Leslie
 # 2012 Atlantic hurricane season: Tropical Storm Debby forms in the Gulf of Mexico with a warning issued for the US state of Louisiana. This is the first time since 1851 that four storms have formed before July. 
 
 Tropical Storm Debby&#160; formed Saturday, the National Hurricane Center said, making it the first named storm in the Gulf of Mexico this season. 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Province](http://www.theprovince.com/news/world/Tropical+Storm+Debby+forms+Gulf+time+since+1851+that+storms+have/6831245/story.html)
 2. [MSNBC](http://www.msnbc.msn.com/id/47904893/ns/weather/t/tropical-storm-debby-forms-gulf-louisiana-warned/#.T-Yy7hdo3TA)

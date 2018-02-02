@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/18/howard-dean-officially-ends-his-campaign-for-president-of-the-united-states-after-placing-a-distant-third-in-the-wisconsin-primary-electio.html)  [JSON](/news/2004/02/18/howard-dean-officially-ends-his-campaign-for-president-of-the-united-states-after-placing-a-distant-third-in-the-wisconsin-primary-electio.json)  [XML](/news/2004/02/18/howard-dean-officially-ends-his-campaign-for-president-of-the-united-states-after-placing-a-distant-third-in-the-wisconsin-primary-electio.xml)  
+
 ### [2004-02-18](/news/2004/02/18/index.md)
 
+##### Howard Dean
 #  Howard Dean officially ends his campaign for President of the United States, after placing a distant third in the Wisconsin primary elections of February 17, 2004. ""I am no longer actively pursuing the presidency,"" he announced.
 
 

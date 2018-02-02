@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/10/south-and-north-korean-naval-ships-fire-on-one-another-after-a-north-korean-ship-crossed-the-disputed-northern-limit-line-in-the-yellow-sea.html)  [JSON](/news/2009/11/10/south-and-north-korean-naval-ships-fire-on-one-another-after-a-north-korean-ship-crossed-the-disputed-northern-limit-line-in-the-yellow-sea.json)  [XML](/news/2009/11/10/south-and-north-korean-naval-ships-fire-on-one-another-after-a-north-korean-ship-crossed-the-disputed-northern-limit-line-in-the-yellow-sea.xml)  
+
 ### [2009-11-10](/news/2009/11/10/index.md)
 
+##### South Korea
 #  South and North Korean naval ships fire on one another after a North Korean ship crossed the disputed Northern Limit Line in the Yellow Sea. The vessel later returned "wrapped in flames" after the incident. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8351738.stm)
 2. [China Daily](http://www.chinadaily.com.cn/world/2009-11/10/content_8938462.htm)

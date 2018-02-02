@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/17/a-5-7-magnitude-earthquake-strikes-250-kilomete
 
 ### [2017-04-17](/news/2017/04/17/index.md)
 
+##### magnitude
 # A 5.7 magnitude earthquake strikes 250 kilometers (155 miles) northwest of the Pacific island nation of Vanuatu. No immediate report of damages or injuries; no tsunami warning has been issued. 
 
 
@@ -19,4 +20,4 @@ Formats: [HTML](/news/2017/04/17/a-5-7-magnitude-earthquake-strikes-250-kilomete
 2. [A 7.7 magnitude earthquake strikes off Russia's Kamchatka Peninsula, west of the Alaskan Aleutian Island of Attu, in the North Pacific Ocean. No immediate reports of casualties or damage; a tsunami warning was cancelled. ](/news/2017/07/18/a-7-7-magnitude-earthquake-strikes-off-russia-s-kamchatka-peninsula-west-of-the-alaskan-aleutian-island-of-attu-in-the-north-pacific-ocean.md) _Context: South Pacific Ocean, magnitude_
 3. [A 7.6 magnitude earthquake and small tsunami hits the Pacific Ocean nation of Vanuatu. ](/news/2010/08/10/a-7-6-magnitude-earthquake-and-small-tsunami-hits-the-pacific-ocean-nation-of-vanuatu.md) _Context: South Pacific Ocean, Vanuatu_
 4. [ An offshore earthquake occurs in the Pacific Ocean off the shore of Vanuatu measuring 7.2 on the Richter scale but no tsunami is triggered. ](/news/2007/08/2/an-offshore-earthquake-occurs-in-the-pacific-ocean-off-the-shore-of-vanuatu-measuring-7-2-on-the-richter-scale-but-no-tsunami-is-triggered.md) _Context: South Pacific Ocean, Vanuatu_
-5. [Costa Rica is hit by a 6.5 magnitude earthquake at Jaco near the capital San Jose. No immediate reports of casualties or damage. ](/news/2017/11/12/costa-rica-is-hit-by-a-6-5-magnitude-earthquake-at-jaca3-near-the-capital-san-josa-c-no-immediate-reports-of-casualties-or-damage.md) _Context: magnitude_
+5. [A 7.9 magnitude earthquake occurs in the Gulf of Alaska. A tsunami warning is issued for coastal Alaska and British Columbia, and the entire U.S. West Coast is placed under a tsunami watch. Areas of Alaska remain under a tsunami advisory. It is tied as the sixth-largest earthquake ever recorded in the United States, but there are no reports of significant damage or fatalities. ](/news/2018/01/23/a-7-9-magnitude-earthquake-occurs-in-the-gulf-of-alaska-a-tsunami-warning-is-issued-for-coastal-alaska-and-british-columbia-and-the-entire.md) _Context: magnitude_

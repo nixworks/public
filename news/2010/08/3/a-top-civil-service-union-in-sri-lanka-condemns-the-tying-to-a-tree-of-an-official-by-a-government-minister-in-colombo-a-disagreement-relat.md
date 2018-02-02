@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/a-top-civil-service-union-in-sri-lanka-condemns-the-tying-to-a-tree-of-an-official-by-a-government-minister-in-colombo-a-disagreement-relat.html)  [JSON](/news/2010/08/3/a-top-civil-service-union-in-sri-lanka-condemns-the-tying-to-a-tree-of-an-official-by-a-government-minister-in-colombo-a-disagreement-relat.json)  [XML](/news/2010/08/3/a-top-civil-service-union-in-sri-lanka-condemns-the-tying-to-a-tree-of-an-official-by-a-government-minister-in-colombo-a-disagreement-relat.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Sri Lanka
 # A top civil service union in Sri Lanka condemns the tying to a tree of an official by a government minister in Colombo, a disagreement related to dengue fever. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10855838)
 2. [People's Daily](http://english.people.com.cn/90001/90777/90851/7091741.html)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/08/30/the-head-of-the-mahdi-army-in-karbala-iraq-is-sentenced-to-death-over-the-battle-of-karbala-2007.html)  [JSON](/news/2008/08/30/the-head-of-the-mahdi-army-in-karbala-iraq-is-sentenced-to-death-over-the-battle-of-karbala-2007.json)  [XML](/news/2008/08/30/the-head-of-the-mahdi-army-in-karbala-iraq-is-sentenced-to-death-over-the-battle-of-karbala-2007.xml)  
+
 ### [2008-08-30](/news/2008/08/30/index.md)
 
+##### Mahdi Army
 #  The head of the Mahdi Army in Karbala, Iraq, is sentenced to death over the Battle of Karbala (2007) 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP](http://news.yahoo.com/s/afp/20080830/wl_mideast_afp/iraqunresttrial)
+1. [AFP](https://news.yahoo.com/s/afp/20080830/wl_mideast_afp/iraqunresttrial)
 
 ### Related:
 

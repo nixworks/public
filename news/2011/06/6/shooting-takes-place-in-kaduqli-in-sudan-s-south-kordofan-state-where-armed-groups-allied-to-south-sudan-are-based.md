@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/6/shooting-takes-place-in-kaduqli-in-sudan-s-south-kordofan-state-where-armed-groups-allied-to-south-sudan-are-based.html)  [JSON](/news/2011/06/6/shooting-takes-place-in-kaduqli-in-sudan-s-south-kordofan-state-where-armed-groups-allied-to-south-sudan-are-based.json)  [XML](/news/2011/06/6/shooting-takes-place-in-kaduqli-in-sudan-s-south-kordofan-state-where-armed-groups-allied-to-south-sudan-are-based.xml)  
+
 ### [2011-06-6](/news/2011/06/6/index.md)
 
+##### Kaduqli
 # Shooting takes place in Kaduqli in Sudan's South Kordofan state, where armed groups allied to South Sudan are based. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7550IW20110606)
 

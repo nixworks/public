@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/17/australia-and-the-people-s-republic-of-china-conclude-a-free-trade-deal-worth-18-billion.html)  [JSON](/news/2014/11/17/australia-and-the-people-s-republic-of-china-conclude-a-free-trade-deal-worth-18-billion.json)  [XML](/news/2014/11/17/australia-and-the-people-s-republic-of-china-conclude-a-free-trade-deal-worth-18-billion.xml)  
+
 ### [2014-11-17](/news/2014/11/17/index.md)
 
+##### Australia
 # Australia and the People's Republic of China conclude a free trade deal worth $18 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/national/breaking-news/pm-seals-china-trade-deal-worth-18b/story-e6frfku9-1227125724467?from=public_rss)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

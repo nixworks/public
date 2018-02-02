@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/26/ten-suspected-former-members-of-the-kosovo-liberation-army-are-arrested-in-serbia.html)  [JSON](/news/2008/12/26/ten-suspected-former-members-of-the-kosovo-liberation-army-are-arrested-in-serbia.json)  [XML](/news/2008/12/26/ten-suspected-former-members-of-the-kosovo-liberation-army-are-arrested-in-serbia.xml)  
+
 ### [2008-12-26](/news/2008/12/26/index.md)
 
+##### Kosovo
 #  Ten suspected former members of the Kosovo Liberation Army are arrested in Serbia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/7800294.stm)
 

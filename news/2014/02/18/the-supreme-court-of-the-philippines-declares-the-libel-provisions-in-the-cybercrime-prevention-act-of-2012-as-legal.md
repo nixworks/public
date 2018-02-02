@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/18/the-supreme-court-of-the-philippines-declares-the-libel-provisions-in-the-cybercrime-prevention-act-of-2012-as-legal.html)  [JSON](/news/2014/02/18/the-supreme-court-of-the-philippines-declares-the-libel-provisions-in-the-cybercrime-prevention-act-of-2012-as-legal.json)  [XML](/news/2014/02/18/the-supreme-court-of-the-philippines-declares-the-libel-provisions-in-the-cybercrime-prevention-act-of-2012-as-legal.xml)  
+
 ### [2014-02-18](/news/2014/02/18/index.md)
 
+##### Supreme Court of the Philippines
 # The Supreme Court of the Philippines declares the libel provisions in the Cybercrime Prevention Act of 2012 as legal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [GMA News](http://www.gmanetwork.com/news/story/348945/scitech/technology/internet-libel-in-cybercrime-law-constitutional-sc)
 2. [Inquirer](http://newsinfo.inquirer.net/578801/online-libel-legal-sc-rules)

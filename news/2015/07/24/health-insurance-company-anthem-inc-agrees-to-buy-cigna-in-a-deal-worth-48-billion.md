@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/07/24/health-insurance-company-anthem-inc-agrees-to-buy-cigna-in-a-deal-worth-48-billion.html)  [JSON](/news/2015/07/24/health-insurance-company-anthem-inc-agrees-to-buy-cigna-in-a-deal-worth-48-billion.json)  [XML](/news/2015/07/24/health-insurance-company-anthem-inc-agrees-to-buy-cigna-in-a-deal-worth-48-billion.xml)  
+
 ### [2015-07-24](/news/2015/07/24/index.md)
 
+##### Anthem
 # Health insurance company Anthem Inc. agrees to buy Cigna in a deal worth $48 billion. 
 
 Anthem Inc. agreed to buy Cigna Corp. for $48.4 billion in a transaction that, along with a previously proposed combination of rivals, could reshape the U.S. health industry.
 
 
-### Source:
+### Sources:
 
-1. [Wall Street Journal](http://www.wsj.com/articles/anthem-agrees-to-buy-cigna-for-48-billion-1437732331)
+1. [Wall Street Journal](https://www.wsj.com/articles/anthem-agrees-to-buy-cigna-for-48-billion-1437732331)
 1. [Cover Image](https://si.wsj.net/public/resources/images/BN-JA371_CIGNAj_G_20150621184007.jpg)
 
 ### Related:

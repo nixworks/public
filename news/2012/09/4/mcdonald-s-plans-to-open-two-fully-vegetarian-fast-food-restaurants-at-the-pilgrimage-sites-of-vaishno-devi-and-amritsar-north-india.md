@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/4/mcdonald-s-plans-to-open-two-fully-vegetarian-fast-food-restaurants-at-the-pilgrimage-sites-of-vaishno-devi-and-amritsar-north-india.html)  [JSON](/news/2012/09/4/mcdonald-s-plans-to-open-two-fully-vegetarian-fast-food-restaurants-at-the-pilgrimage-sites-of-vaishno-devi-and-amritsar-north-india.json)  [XML](/news/2012/09/4/mcdonald-s-plans-to-open-two-fully-vegetarian-fast-food-restaurants-at-the-pilgrimage-sites-of-vaishno-devi-and-amritsar-north-india.xml)  
+
 ### [2012-09-4](/news/2012/09/4/index.md)
 
+##### McDonald's restaurants
 # McDonald's plans to open two fully vegetarian fast food restaurants at the pilgrimage sites of Vaishno Devi and Amritsar, north India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Times](http://blogs.ft.com/beyond-brics/2012/09/04/india-home-of-the-meatless-mcdonalds/)
 2. [Financial Times](http://www.ft.com/cms/s/0/dddc0dd6-f66e-11e1-9fff-00144feabdc0.html)

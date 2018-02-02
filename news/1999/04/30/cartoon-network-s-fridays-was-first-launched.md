@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/04/30/cartoon-network-s-fridays-was-first-launched.html)  [JSON](/news/1999/04/30/cartoon-network-s-fridays-was-first-launched.json)  [XML](/news/1999/04/30/cartoon-network-s-fridays-was-first-launched.xml)  
+
 ### [1999-04-30](/news/1999/04/30/index.md)
 
+##### Cartoon Network
 #  Cartoon Network's Fridays was first launched.
 
 

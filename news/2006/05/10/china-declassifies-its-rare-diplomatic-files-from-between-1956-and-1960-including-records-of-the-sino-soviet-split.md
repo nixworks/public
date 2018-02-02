@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/10/china-declassifies-its-rare-diplomatic-files-from-between-1956-and-1960-including-records-of-the-sino-soviet-split.html)  [JSON](/news/2006/05/10/china-declassifies-its-rare-diplomatic-files-from-between-1956-and-1960-including-records-of-the-sino-soviet-split.json)  [XML](/news/2006/05/10/china-declassifies-its-rare-diplomatic-files-from-between-1956-and-1960-including-records-of-the-sino-soviet-split.xml)  
+
 ### [2006-05-10](/news/2006/05/10/index.md)
 
+##### China
 #  China declassifies its rare diplomatic files from between 1956 and 1960, including records of the Sino-Soviet split. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2006-05/10/content_4531252.htm)
 

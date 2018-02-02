@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/20/american-car-maker-general-motors-recalls-another-2-4-million-vehicles.html)  [JSON](/news/2014/05/20/american-car-maker-general-motors-recalls-another-2-4-million-vehicles.json)  [XML](/news/2014/05/20/american-car-maker-general-motors-recalls-another-2-4-million-vehicles.xml)  
+
 ### [2014-05-20](/news/2014/05/20/index.md)
 
+##### General Motors
 # American car maker General Motors recalls another 2.4 million vehicles. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Breitbart](http://www.breitbart.com/Big-Government/2014/05/20/GM-recalls-24-million-more-vehicles)
 

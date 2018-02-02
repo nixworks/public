@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/20/vladimir-arzumanyan-from-armenia-wins-the-junior-eurovision-song-contest-2010-with-the-entry-mama.html)  [JSON](/news/2010/11/20/vladimir-arzumanyan-from-armenia-wins-the-junior-eurovision-song-contest-2010-with-the-entry-mama.json)  [XML](/news/2010/11/20/vladimir-arzumanyan-from-armenia-wins-the-junior-eurovision-song-contest-2010-with-the-entry-mama.xml)  
+
 ### [2010-11-20](/news/2010/11/20/index.md)
 
+##### Vladimir Arzumanyan
 # Vladimir Arzumanyan from Armenia wins the Junior Eurovision Song Contest 2010 with the entry "Mama". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Junioreurovision.tv](http://www.junioreurovision.tv/page/blog?id=22173&_t=ARMENIA+WINS+8TH+JUNIOR+EUROVISION+SONG+CONTEST%21)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/25/tsuyoshi-kikukawa-the-former-president-of-japan-s-olympus-corporation-pleads-guilty-to-fraud-for-his-role-in-the-olympus-scandal.html)  [JSON](/news/2012/09/25/tsuyoshi-kikukawa-the-former-president-of-japan-s-olympus-corporation-pleads-guilty-to-fraud-for-his-role-in-the-olympus-scandal.json)  [XML](/news/2012/09/25/tsuyoshi-kikukawa-the-former-president-of-japan-s-olympus-corporation-pleads-guilty-to-fraud-for-his-role-in-the-olympus-scandal.xml)  
+
 ### [2012-09-25](/news/2012/09/25/index.md)
 
+##### Tsuyoshi Kikukawa
 # Tsuyoshi Kikukawa, the former President of Japan's Olympus Corporation, pleads guilty to fraud for his role in the Olympus scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Wall Street Journal](http://online.wsj.com/article/SB10000872396390444813104578017262175684182.html)
 

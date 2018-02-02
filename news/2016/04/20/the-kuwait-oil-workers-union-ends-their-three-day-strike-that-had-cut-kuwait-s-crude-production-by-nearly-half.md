@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/the-kuwait-oil-workers-union-ends-their-three-d
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### Kuwait
 # The Kuwait Oil Workers Union ends their three-day strike that had cut Kuwait's crude production by nearly half. 
 
 Kuwaiti oil and gas workers have ended a three-day strike, the trade union said in a statement posted on its Twitter account. 

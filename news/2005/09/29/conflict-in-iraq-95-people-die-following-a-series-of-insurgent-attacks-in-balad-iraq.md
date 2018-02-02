@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/29/conflict-in-iraq-95-people-die-following-a-series-of-insurgent-attacks-in-balad-iraq.html)  [JSON](/news/2005/09/29/conflict-in-iraq-95-people-die-following-a-series-of-insurgent-attacks-in-balad-iraq.json)  [XML](/news/2005/09/29/conflict-in-iraq-95-people-die-following-a-series-of-insurgent-attacks-in-balad-iraq.xml)  
+
 ### [2005-09-29](/news/2005/09/29/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: 95 people die following a series of Insurgent attacks in Balad, Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4295250.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4296254.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/16/ubs-trader-kweku-adoboli-is-charged-with-fraud-and-false-accounting.html)  [JSON](/news/2011/09/16/ubs-trader-kweku-adoboli-is-charged-with-fraud-and-false-accounting.json)  [XML](/news/2011/09/16/ubs-trader-kweku-adoboli-is-charged-with-fraud-and-false-accounting.xml)  
+
 ### [2011-09-16](/news/2011/09/16/index.md)
 
+##### UBS
 # UBS trader Kweku Adoboli is charged with fraud and false accounting. 
 
 The UBS trader alleged to have lost the bank £1.3bn in unauthorised trading appears in court charged with fraud and false accounting.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-14950873)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/55414000/jpg/_55414546_012929550-1.jpg)

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/10/20/the-american-cancer-society-recommends-women-at-average-risk-of-breast-cancer-should-begin-annual-mammograms-at-age-45-and-women-55-and-old.html)  [JSON](/news/2015/10/20/the-american-cancer-society-recommends-women-at-average-risk-of-breast-cancer-should-begin-annual-mammograms-at-age-45-and-women-55-and-old.json)  [XML](/news/2015/10/20/the-american-cancer-society-recommends-women-at-average-risk-of-breast-cancer-should-begin-annual-mammograms-at-age-45-and-women-55-and-old.xml)  
+
 ### [2015-10-20](/news/2015/10/20/index.md)
 
+##### American Cancer Society
 # The American Cancer Society recommends women at average risk of breast cancer should begin annual mammograms at age 45, and women 55 and older scale back screening to every other year. 
 
-New mammogram advice considers the risks posed by screenings, not just the benefits.
+By Andrew M. Seaman(Reuters Health) - In a major shift, the American Cancer Society is recommending that women at average risk of breast cancer get
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/20/us-mammogram-guidelines-shift-idUSKCN0SE1ZQ20151020)
-2. [USA Today](http://www.usatoday.com/story/news/2015/10/20/american-cancer-society-say-women-should-start-mammograms-45/74232470/)
-2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+1. [Reuters](https://www.reuters.com/article/2015/10/20/us-mammogram-guidelines-shift-idUSKCN0SE1ZQ20151020)
+2. [USA Today](https://www.usatoday.com/story/news/2015/10/20/american-cancer-society-say-women-should-start-mammograms-45/74232470/)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20151020&t=2&i=1088437977&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9J1AE)
 
 ### Related:
 

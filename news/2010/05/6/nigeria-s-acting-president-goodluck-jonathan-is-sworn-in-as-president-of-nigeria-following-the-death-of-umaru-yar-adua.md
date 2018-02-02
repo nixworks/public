@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/6/nigeria-s-acting-president-goodluck-jonathan-is-sworn-in-as-president-of-nigeria-following-the-death-of-umaru-yar-adua.html)  [JSON](/news/2010/05/6/nigeria-s-acting-president-goodluck-jonathan-is-sworn-in-as-president-of-nigeria-following-the-death-of-umaru-yar-adua.json)  [XML](/news/2010/05/6/nigeria-s-acting-president-goodluck-jonathan-is-sworn-in-as-president-of-nigeria-following-the-death-of-umaru-yar-adua.xml)  
+
 ### [2010-05-6](/news/2010/05/6/index.md)
 
+##### Nigeria
 # Nigeria's acting President, Goodluck Jonathan, is sworn in as President of Nigeria following the death of Umaru Yar'Adua. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hW8uWhgiqtcuunO2WIHnk8o2iw6gD9FHBMQG6)
 2. [The Punch](http://www.punchng.com/Articl.aspx?theartic=Art201005061042078)

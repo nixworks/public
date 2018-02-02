@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/02/8/media-celebrity-anna-nicole-smith-dies-at-the-age-of-39-at-hard-rock-hotel-and-casino.html)  [JSON](/news/2007/02/8/media-celebrity-anna-nicole-smith-dies-at-the-age-of-39-at-hard-rock-hotel-and-casino.json)  [XML](/news/2007/02/8/media-celebrity-anna-nicole-smith-dies-at-the-age-of-39-at-hard-rock-hotel-and-casino.xml)  
+
 ### [2007-02-8](/news/2007/02/8/index.md)
 
+##### Anna Nicole Smith
 #  Media celebrity Anna Nicole Smith dies at the age of 39 At Hard Rock Hotel and Casino.
 
 

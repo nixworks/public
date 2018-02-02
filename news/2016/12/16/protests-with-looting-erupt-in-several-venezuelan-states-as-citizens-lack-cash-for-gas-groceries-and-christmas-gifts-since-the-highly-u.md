@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/16/protests-with-looting-erupt-in-several-venezuel
 
 ### [2016-12-16](/news/2016/12/16/index.md)
 
+##### Venezuela
 # Protests, with looting, erupt in several Venezuelan states as citizens lack cash for gas, groceries, and Christmas gifts, since the highly used, but now worthless, 100-bolivar notes were removed from circulation, and the substitute 500-bolivar notes are not available because of delays in bank deliveries. 
 
 

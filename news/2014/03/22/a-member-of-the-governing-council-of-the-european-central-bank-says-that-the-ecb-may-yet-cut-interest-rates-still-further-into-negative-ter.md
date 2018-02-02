@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/03/22/a-member-of-the-governing-council-of-the-european-central-bank-says-that-the-ecb-may-yet-cut-interest-rates-still-further-into-negative-ter.html)  [JSON](/news/2014/03/22/a-member-of-the-governing-council-of-the-european-central-bank-says-that-the-ecb-may-yet-cut-interest-rates-still-further-into-negative-ter.json)  [XML](/news/2014/03/22/a-member-of-the-governing-council-of-the-european-central-bank-says-that-the-ecb-may-yet-cut-interest-rates-still-further-into-negative-ter.xml)  
+
 ### [2014-03-22](/news/2014/03/22/index.md)
 
+##### European Central Bank
 # A member of the governing council of the European Central Bank says that the ECB may yet cut interest rates still further, into negative territory. 
 
 The European Central Bank can still cut interest rates further from the current record-low rates, including taking its deposit rate to negative territory, Governing Council member Erkki Liikanen said on Saturday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/03/22/us-ecb-liikanen-rates-idUSBREA2L05H20140322)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140322&t=2&i=868135290&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA2L0OXQ00)
+1. [Reuters](https://www.reuters.com/article/2014/03/22/us-ecb-liikanen-rates-idUSBREA2L05H20140322)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140322&t=2&i=868135290&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA2L0OXQ00)
 
 ### Related:
 

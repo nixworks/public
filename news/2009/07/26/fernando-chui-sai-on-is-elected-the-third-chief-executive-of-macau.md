@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/26/fernando-chui-sai-on-is-elected-the-third-chief-executive-of-macau.html)  [JSON](/news/2009/07/26/fernando-chui-sai-on-is-elected-the-third-chief-executive-of-macau.json)  [XML](/news/2009/07/26/fernando-chui-sai-on-is-elected-the-third-chief-executive-of-macau.xml)  
+
 ### [2009-07-26](/news/2009/07/26/index.md)
 
+##### Fernando Chui Sai On
 #  Fernando Chui Sai On is elected the third Chief Executive of Macau. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/chinese/trad/hi/newsid_8160000/newsid_8169100/8169127.stm)
 

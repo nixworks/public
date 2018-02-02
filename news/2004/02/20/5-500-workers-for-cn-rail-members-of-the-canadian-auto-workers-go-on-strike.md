@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/20/5-500-workers-for-cn-rail-members-of-the-canadian-auto-workers-go-on-strike.html)  [JSON](/news/2004/02/20/5-500-workers-for-cn-rail-members-of-the-canadian-auto-workers-go-on-strike.json)  [XML](/news/2004/02/20/5-500-workers-for-cn-rail-members-of-the-canadian-auto-workers-go-on-strike.xml)  
+
 ### [2004-02-20](/news/2004/02/20/index.md)
 
+##### CN Rail
 #  5,500 workers for CN Rail, members of the Canadian Auto Workers, go on strike. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/stories/2004/02/19/cn_strike040219)
 

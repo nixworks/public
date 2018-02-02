@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/23/tiger-woods-wins-the-the-open-championship-commonly-known-as-the-british-open-finishing-two-shots-ahead-of-chris-dimarco.html)  [JSON](/news/2006/07/23/tiger-woods-wins-the-the-open-championship-commonly-known-as-the-british-open-finishing-two-shots-ahead-of-chris-dimarco.json)  [XML](/news/2006/07/23/tiger-woods-wins-the-the-open-championship-commonly-known-as-the-british-open-finishing-two-shots-ahead-of-chris-dimarco.xml)  
+
 ### [2006-07-23](/news/2006/07/23/index.md)
 
+##### Tiger Woods
 #  Tiger Woods wins the The Open Championship commonly known as the British Open, finishing two shots ahead of Chris DiMarco. 
 
 Find the latest sports news and articles on the NFL, MLB, NBA, NHL, NCAA college football, NCAA college basketball and more at ABC News.
 
 
-### Source:
+### Sources:
 
 1. [ABC News America](http://abcnews.go.com/Sports/wireStory?id=2226481&CMP=OTC-RSSFeeds0312)
 

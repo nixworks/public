@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/16/rwandan-president-paul-kagame-accuses-france-of-direct-involvement-in-the-1994-genocide.html)  [JSON](/news/2004/03/16/rwandan-president-paul-kagame-accuses-france-of-direct-involvement-in-the-1994-genocide.json)  [XML](/news/2004/03/16/rwandan-president-paul-kagame-accuses-france-of-direct-involvement-in-the-1994-genocide.xml)  
+
 ### [2004-03-16](/news/2004/03/16/index.md)
 
+##### Rwanda
 #  Rwandan President Paul Kagame accuses France of direct involvement in the 1994 genocide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/3515512.stm)
 

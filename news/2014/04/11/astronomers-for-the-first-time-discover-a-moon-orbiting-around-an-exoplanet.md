@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/11/astronomers-for-the-first-time-discover-a-moon-orbiting-around-an-exoplanet.html)  [JSON](/news/2014/04/11/astronomers-for-the-first-time-discover-a-moon-orbiting-around-an-exoplanet.json)  [XML](/news/2014/04/11/astronomers-for-the-first-time-discover-a-moon-orbiting-around-an-exoplanet.xml)  
+
 ### [2014-04-11](/news/2014/04/11/index.md)
 
+##### Astronomers
 # Astronomers, for the first time, discover a moon orbiting around an exoplanet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [space.com via Huffington Post](http://www.huffingtonpost.com/2014/04/11/first-exomoon-alien-planet_n_5127551.html)
 

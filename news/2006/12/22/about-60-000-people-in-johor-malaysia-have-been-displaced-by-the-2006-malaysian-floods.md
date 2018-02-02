@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/22/about-60-000-people-in-johor-malaysia-have-been-displaced-by-the-2006-malaysian-floods.html)  [JSON](/news/2006/12/22/about-60-000-people-in-johor-malaysia-have-been-displaced-by-the-2006-malaysian-floods.json)  [XML](/news/2006/12/22/about-60-000-people-in-johor-malaysia-have-been-displaced-by-the-2006-malaysian-floods.xml)  
+
 ### [2006-12-22](/news/2006/12/22/index.md)
 
+##### Johor
 #  About 60,000 people in Johor, Malaysia have been displaced by the 2006 Malaysian floods. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6203973.stm)
 2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/12/22/malaysia.floods.ap/)

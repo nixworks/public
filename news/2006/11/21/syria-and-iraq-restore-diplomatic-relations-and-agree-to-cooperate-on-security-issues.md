@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/21/syria-and-iraq-restore-diplomatic-relations-and-agree-to-cooperate-on-security-issues.html)  [JSON](/news/2006/11/21/syria-and-iraq-restore-diplomatic-relations-and-agree-to-cooperate-on-security-issues.json)  [XML](/news/2006/11/21/syria-and-iraq-restore-diplomatic-relations-and-agree-to-cooperate-on-security-issues.xml)  
+
 ### [2006-11-21](/news/2006/11/21/index.md)
 
+##### Syria
 #  Syria and Iraq restore diplomatic relations and agree to cooperate on security issues. 
 
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment
 
 
-### Source:
+### Sources:
 
 1. [AFP via New Strait Times](http://www.nst.com.my/Current_News/nst/AfpNews/200611211648001164098880.95/afp)
 

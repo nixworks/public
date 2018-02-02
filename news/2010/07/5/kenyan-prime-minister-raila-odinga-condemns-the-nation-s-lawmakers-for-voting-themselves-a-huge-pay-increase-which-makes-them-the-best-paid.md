@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/5/kenyan-prime-minister-raila-odinga-condemns-the-nation-s-lawmakers-for-voting-themselves-a-huge-pay-increase-which-makes-them-the-best-paid.html)  [JSON](/news/2010/07/5/kenyan-prime-minister-raila-odinga-condemns-the-nation-s-lawmakers-for-voting-themselves-a-huge-pay-increase-which-makes-them-the-best-paid.json)  [XML](/news/2010/07/5/kenyan-prime-minister-raila-odinga-condemns-the-nation-s-lawmakers-for-voting-themselves-a-huge-pay-increase-which-makes-them-the-best-paid.xml)  
+
 ### [2010-07-5](/news/2010/07/5/index.md)
 
+##### Kenya
 # Kenyan Prime Minister Raila Odinga condemns the nation's lawmakers for voting themselves a huge pay increase, which makes them the best paid lawmakers in the world. 
 
 Kenya Prime Minister Raila Odinga criticises MPs for voting themselves a huge pay rise, saying it is &quot;unfair&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/africa/10505801.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

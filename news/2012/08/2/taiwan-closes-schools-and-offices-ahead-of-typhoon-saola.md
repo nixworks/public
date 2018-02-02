@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/2/taiwan-closes-schools-and-offices-ahead-of-typhoon-saola.html)  [JSON](/news/2012/08/2/taiwan-closes-schools-and-offices-ahead-of-typhoon-saola.json)  [XML](/news/2012/08/2/taiwan-closes-schools-and-offices-ahead-of-typhoon-saola.xml)  
+
 ### [2012-08-2](/news/2012/08/2/index.md)
 
+##### Taiwan
 # Taiwan closes schools and offices ahead of Typhoon Saola. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BusinessWeek](http://www.businessweek.com/news/2012-08-01/taiwan-shuts-schools-businesses-as-typhoon-saola-nears)
 

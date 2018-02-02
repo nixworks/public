@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/23/the-french-senate-passes-a-bill-that-makes-it-illegal-for-citizens-to-deny-the-armenian-genocide-by-the-ottoman-empire.html)  [JSON](/news/2012/01/23/the-french-senate-passes-a-bill-that-makes-it-illegal-for-citizens-to-deny-the-armenian-genocide-by-the-ottoman-empire.json)  [XML](/news/2012/01/23/the-french-senate-passes-a-bill-that-makes-it-illegal-for-citizens-to-deny-the-armenian-genocide-by-the-ottoman-empire.xml)  
+
 ### [2012-01-23](/news/2012/01/23/index.md)
 
+##### Senate
 # The French Senate passes a bill that makes it illegal for citizens to deny the Armenian Genocide by the Ottoman Empire. 
 
 The French Senate approves a controversial bill that makes it a criminal offence to deny that Turks committed genocide against Armenians during World War I.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-16677986)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58043000/jpg/_58043710_013771521-1.jpg)

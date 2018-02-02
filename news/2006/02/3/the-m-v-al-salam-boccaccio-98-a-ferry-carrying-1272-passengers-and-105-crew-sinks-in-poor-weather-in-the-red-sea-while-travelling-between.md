@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/02/3/the-m-v-al-salam-boccaccio-98-a-ferry-carrying-1272-passengers-and-105-crew-sinks-in-poor-weather-in-the-red-sea-while-travelling-between.html)  [JSON](/news/2006/02/3/the-m-v-al-salam-boccaccio-98-a-ferry-carrying-1272-passengers-and-105-crew-sinks-in-poor-weather-in-the-red-sea-while-travelling-between.json)  [XML](/news/2006/02/3/the-m-v-al-salam-boccaccio-98-a-ferry-carrying-1272-passengers-and-105-crew-sinks-in-poor-weather-in-the-red-sea-while-travelling-between.xml)  
+
 ### [2006-02-3](/news/2006/02/3/index.md)
 
+##### M/V al-Salam Boccaccio 98
 #  The M-V al-Salam Boccaccio 98, a ferry carrying 1272 passengers and 105 crew, sinks in poor weather in the Red Sea while travelling between Saudi Arabia and Egypt. 314 people have been rescued so far. [http:--news.bbc.co.uk-2-hi-middle_east-4676916.stm (BBC)] (Wikinews)
 
 

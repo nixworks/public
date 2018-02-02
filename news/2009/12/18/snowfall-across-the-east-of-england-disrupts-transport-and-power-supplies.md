@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/18/snowfall-across-the-east-of-england-disrupts-transport-and-power-supplies.html)  [JSON](/news/2009/12/18/snowfall-across-the-east-of-england-disrupts-transport-and-power-supplies.json)  [XML](/news/2009/12/18/snowfall-across-the-east-of-england-disrupts-transport-and-power-supplies.xml)  
+
 ### [2009-12-18](/news/2009/12/18/index.md)
 
+##### weather-related
 #  Snowfall across the east of England disrupts transport and power supplies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/8420057.stm)
 

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2013/12/14/british-actor-peter-o-toole-best-known-for-his-role-in-lawrence-of-arabia-dies-at-the-age-of-81-after-a-long-illness.html)  [JSON](/news/2013/12/14/british-actor-peter-o-toole-best-known-for-his-role-in-lawrence-of-arabia-dies-at-the-age-of-81-after-a-long-illness.json)  [XML](/news/2013/12/14/british-actor-peter-o-toole-best-known-for-his-role-in-lawrence-of-arabia-dies-at-the-age-of-81-after-a-long-illness.xml)  
+
 ### [2013-12-14](/news/2013/12/14/index.md)
 
+##### British
 # British actor Peter O'Toole, best known for his role in "Lawrence of Arabia", dies at the age of 81 after a long illness. 
 
+LONDON (AP) — Known on the one hand for his starring role in &quot;Lawrence of Arabia,&quot; leading tribesmen in daring attacks across the desert wastes, and on the other for his headlong charges into drunken debauchery, Peter O&#x27;Toole was one of the most magnetic, charismatic and fun figures in
 
 
+### Sources:
 
-### Source:
-
-1. [AP via Yahoo! News](http://news.yahoo.com/39-lawrence-arabia-39-star-peter-o-39-183119119.html)
+1. [AP via Yahoo! News](https://news.yahoo.com/39-lawrence-arabia-39-star-peter-o-39-183119119.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/.VH66HSdGFxOK8qHwmw4mQ--~B/aD0xMTg5O3c9MjAwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/0146fd0023c3022a460f6a70670026c4.jpg)
 
 ### Related:
 

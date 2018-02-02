@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/25/the-bbc-sacks-jeremy-clarkson-one-of-the-three-presenters-for-the-television-program-top-gear.html)  [JSON](/news/2015/03/25/the-bbc-sacks-jeremy-clarkson-one-of-the-three-presenters-for-the-television-program-top-gear.json)  [XML](/news/2015/03/25/the-bbc-sacks-jeremy-clarkson-one-of-the-three-presenters-for-the-television-program-top-gear.xml)  
+
 ### [2015-03-25](/news/2015/03/25/index.md)
 
+##### BBC
 # The BBC sacks Jeremy Clarkson, one of the three presenters for the television program "Top Gear". 
 
 Top Gear presenter Jeremy Clarkson will not have his contract renewed after the BBC concludes an investigation into his &quot;fracas&quot; with a producer.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/entertainment-arts-32052736)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/81890000/jpg/_81890808_7fb301b3-54aa-49be-a465-6d1e75108d5d.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/10/taiwan-demands-an-apology-from-the-philippines-related-to-an-incident-where-a-taiwanese-fisherman-died-after-a-philippine-coast-guard-interc.html)  [JSON](/news/2013/05/10/taiwan-demands-an-apology-from-the-philippines-related-to-an-incident-where-a-taiwanese-fisherman-died-after-a-philippine-coast-guard-interc.json)  [XML](/news/2013/05/10/taiwan-demands-an-apology-from-the-philippines-related-to-an-incident-where-a-taiwanese-fisherman-died-after-a-philippine-coast-guard-interc.xml)  
+
 ### [2013-05-10](/news/2013/05/10/index.md)
 
+##### Taiwan
 # Taiwan demands an apology from the Philippines related to an incident where a Taiwanese fisherman died after a Philippine Coast Guard intercepted his fishing vessel in the disputed waters of the Bashi Channel. 
 
 Taiwan demands an explanation from Manila after a fisherman was shot and killed in disputed waters by the Philippine coastguard.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22476784)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67515000/jpg/_67515474_017948243-1.jpg)

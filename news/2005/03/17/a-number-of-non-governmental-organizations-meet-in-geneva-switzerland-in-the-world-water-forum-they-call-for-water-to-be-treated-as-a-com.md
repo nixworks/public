@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/17/a-number-of-non-governmental-organizations-meet-in-geneva-switzerland-in-the-world-water-forum-they-call-for-water-to-be-treated-as-a-com.html)  [JSON](/news/2005/03/17/a-number-of-non-governmental-organizations-meet-in-geneva-switzerland-in-the-world-water-forum-they-call-for-water-to-be-treated-as-a-com.json)  [XML](/news/2005/03/17/a-number-of-non-governmental-organizations-meet-in-geneva-switzerland-in-the-world-water-forum-they-call-for-water-to-be-treated-as-a-com.xml)  
+
 ### [2005-03-17](/news/2005/03/17/index.md)
 
+##### NGO
 #  A number of non-governmental organizations meet in Geneva, Switzerland in the World Water Forum. They call for water to be treated as a common asset instead of being privatized. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Swissinfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=106&sid=5607616)
 

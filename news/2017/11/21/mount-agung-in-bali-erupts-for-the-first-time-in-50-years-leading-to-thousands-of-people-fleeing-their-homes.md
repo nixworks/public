@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/21/mount-agung-in-bali-erupts-for-the-first-time-i
 
 ### [2017-11-21](/news/2017/11/21/index.md)
 
+##### 2017 eruption of Mount Agung
 # Mount Agung in Bali erupts for the first time in 50 years, leading to thousands of people fleeing their homes. 
 
 

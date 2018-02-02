@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/29/the-government-of-lesotho-offers-all-its-citizens-a-free-hiv-test-aimed-at-stopping-and-reversing-the-spread-of-aids-this-is-believed-to.html)  [JSON](/news/2005/11/29/the-government-of-lesotho-offers-all-its-citizens-a-free-hiv-test-aimed-at-stopping-and-reversing-the-spread-of-aids-this-is-believed-to.json)  [XML](/news/2005/11/29/the-government-of-lesotho-offers-all-its-citizens-a-free-hiv-test-aimed-at-stopping-and-reversing-the-spread-of-aids-this-is-believed-to.xml)  
+
 ### [2005-11-29](/news/2005/11/29/index.md)
 
+##### Government
 #  The Government of Lesotho offers all its citizens a free HIV test. Aimed at stopping and reversing the spread of AIDS, this is believed to be the first programme of its kind in the world. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4480108.stm)
 

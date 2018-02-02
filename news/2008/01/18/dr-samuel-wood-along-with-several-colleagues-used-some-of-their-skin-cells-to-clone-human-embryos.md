@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/18/dr-samuel-wood-along-with-several-colleagues-used-some-of-their-skin-cells-to-clone-human-embryos.html)  [JSON](/news/2008/01/18/dr-samuel-wood-along-with-several-colleagues-used-some-of-their-skin-cells-to-clone-human-embryos.json)  [XML](/news/2008/01/18/dr-samuel-wood-along-with-several-colleagues-used-some-of-their-skin-cells-to-clone-human-embryos.xml)  
+
 ### [2008-01-18](/news/2008/01/18/index.md)
 
+##### Dr. Samuel Wood
 #  Dr. Samuel Wood along with several colleagues used some of their skin cells to clone human embryos. 
 
 Breaking News, data &amp; opinions in business, sports, entertainment, travel, lifestyle, plus much more. Newsday.com is the leading news source for Long Island &amp; NYC.
 
 
-### Source:
+### Sources:
 
 1. [Newsday](http://www.newsday.com/news/health/ny-hsclon0118,0,2354566.story?coll=ny-news-columnists)
 1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)

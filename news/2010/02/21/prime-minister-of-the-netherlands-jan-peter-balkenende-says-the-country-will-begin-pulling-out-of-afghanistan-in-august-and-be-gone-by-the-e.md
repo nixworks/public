@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/21/prime-minister-of-the-netherlands-jan-peter-balkenende-says-the-country-will-begin-pulling-out-of-afghanistan-in-august-and-be-gone-by-the-e.html)  [JSON](/news/2010/02/21/prime-minister-of-the-netherlands-jan-peter-balkenende-says-the-country-will-begin-pulling-out-of-afghanistan-in-august-and-be-gone-by-the-e.json)  [XML](/news/2010/02/21/prime-minister-of-the-netherlands-jan-peter-balkenende-says-the-country-will-begin-pulling-out-of-afghanistan-in-august-and-be-gone-by-the-e.xml)  
+
 ### [2010-02-21](/news/2010/02/21/index.md)
 
+##### Prime Minister
 # Prime Minister of the Netherlands Jan Peter Balkenende says the country will begin pulling out of Afghanistan in August and be gone by the end of the year following the collapse of Balkenende-4 over the issue. 
 
 The 1,600 Dutch soldiers in Afghanistan will probably leave this year, Prime Minister Jan Peter Balkenende said Sunday. 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2010/02/21/afghan-dutch-marjan.html)
 2. [The Press Association](http://www.google.com/hostednews/ukpress/article/ALeqM5hI-lTRcT28jDu7xJ3phsBQSrWmyQ)
@@ -15,6 +19,6 @@ The 1,600 Dutch soldiers in Afghanistan will probably leave this year, Prime Min
 
 1. [Prime Minister Jan Peter Balkenende resigns as leader of the Christian Democratic Appeal (CDA) after a disappointing election result. ](/news/2010/06/9/prime-minister-jan-peter-balkenende-resigns-as-leader-of-the-christian-democratic-appeal-cda-after-a-disappointing-election-result.md) _Context: Jan Peter Balkenende, Prime Minister_
 2. [The Dutch cabinet Balkenende IV collapses after a dispute on extending the mandate of Task Force Uruzgan in Afghanistan. ](/news/2010/02/20/the-dutch-cabinet-balkenende-iv-collapses-after-a-dispute-on-extending-the-mandate-of-task-force-uruzgan-in-afghanistan.md) _Context: Afghanistan, the collapse of Balkenende-4_
-3. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Afghanistan_
-4. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: Afghanistan_
-5. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _Context: Afghanistan_
+3. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Afghanistan_
+4. [Researchers note that in November 2017, Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally revealed the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/researchers-note-that-in-november-2017-strava-which-processes-data-from-apps-and-internet-of-things-devices-such-as-fitbit-accidentally-r.md) _Context: Afghanistan_
+5. [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _Context: Afghanistan_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/30/in-zimbabwe-four-people-are-charged-for-selling-secrets-to-unspecified-foreign-agents-they-include-former-political-allies-to-president-r.html)  [JSON](/news/2004/12/30/in-zimbabwe-four-people-are-charged-for-selling-secrets-to-unspecified-foreign-agents-they-include-former-political-allies-to-president-r.json)  [XML](/news/2004/12/30/in-zimbabwe-four-people-are-charged-for-selling-secrets-to-unspecified-foreign-agents-they-include-former-political-allies-to-president-r.xml)  
+
 ### [2004-12-30](/news/2004/12/30/index.md)
 
+##### Zimbabwe
 #  In Zimbabwe, four people are charged for selling secrets to unspecified foreign agents. They include former political allies to President Robert Mugabe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Iafrica](http://iafrica.com/news/worldnews/401151.htm)
 2. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=646442)

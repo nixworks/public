@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/21/convicted-cracker-kevin-mitnick-is-allowed-to-use-a-computer-again.html)  [JSON](/news/2003/01/21/convicted-cracker-kevin-mitnick-is-allowed-to-use-a-computer-again.json)  [XML](/news/2003/01/21/convicted-cracker-kevin-mitnick-is-allowed-to-use-a-computer-again.xml)  
+
 ### [2003-01-21](/news/2003/01/21/index.md)
 
+##### cracker
 #  Convicted cracker Kevin Mitnick is allowed to use a computer again.
 
 

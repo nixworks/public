@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/17/china-launches-7th-beidou-navigation-satellite.html)  [JSON](/news/2010/12/17/china-launches-7th-beidou-navigation-satellite.json)  [XML](/news/2010/12/17/china-launches-7th-beidou-navigation-satellite.xml)  
+
 ### [2010-12-17](/news/2010/12/17/index.md)
 
+##### China
 # China launches 7th Beidou navigation satellite. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kunming via Xinhua](http://en.kunming.cn/index/content/2010-12/18/content_2372542.htm)
 

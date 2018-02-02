@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/23/two-people-are-killed-in-ermera-east-timor-in-another-outbreak-of-political-violence.html)  [JSON](/news/2007/08/23/two-people-are-killed-in-ermera-east-timor-in-another-outbreak-of-political-violence.json)  [XML](/news/2007/08/23/two-people-are-killed-in-ermera-east-timor-in-another-outbreak-of-political-violence.xml)  
+
 ### [2007-08-23](/news/2007/08/23/index.md)
 
+##### Ermera
 #  Two people are killed in Ermera, East Timor in another outbreak of political violence. 
 
 Two people have been killed in another outbreak of violence in East Timor.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2007/08/23/2013574.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/635476-1x1-700x700.jpg)

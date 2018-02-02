@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/25/external-cladding-samples-from-60-high-rise-apa
 
 ### [2017-06-25](/news/2017/06/25/index.md)
 
+##### Grenfell Tower fire
 # External cladding samples from 60 high-rise apartment towers, from 25 different areas of the country, fail fire-resistance testing. Evacuation of thousands of apartments is underway as workers start to remove the deficient covering. 
 
 The cladding is believed to have rapidly spread the inferno at London&#8217;s Grenfell Tower that killed at least 79 people

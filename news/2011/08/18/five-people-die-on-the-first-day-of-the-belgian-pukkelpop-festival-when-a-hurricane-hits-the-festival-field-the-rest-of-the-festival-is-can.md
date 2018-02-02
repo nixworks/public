@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/08/18/five-people-die-on-the-first-day-of-the-belgian-pukkelpop-festival-when-a-hurricane-hits-the-festival-field-the-rest-of-the-festival-is-can.html)  [JSON](/news/2011/08/18/five-people-die-on-the-first-day-of-the-belgian-pukkelpop-festival-when-a-hurricane-hits-the-festival-field-the-rest-of-the-festival-is-can.json)  [XML](/news/2011/08/18/five-people-die-on-the-first-day-of-the-belgian-pukkelpop-festival-when-a-hurricane-hits-the-festival-field-the-rest-of-the-festival-is-can.xml)  
+
 ### [2011-08-18](/news/2011/08/18/index.md)
 
+##### Belgian
 # Five people die on the first day of the Belgian Pukkelpop festival when a hurricane hits the festival field. The rest of the festival is cancelled.
 
 

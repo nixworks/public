@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/03/27/in-comments-posted-in-a-german-newspaper-easter-sunday-chancellor-gerhard-schroder-expressed-the-hope-that-german-based-companies-will-sto.html)  [JSON](/news/2005/03/27/in-comments-posted-in-a-german-newspaper-easter-sunday-chancellor-gerhard-schroder-expressed-the-hope-that-german-based-companies-will-sto.json)  [XML](/news/2005/03/27/in-comments-posted-in-a-german-newspaper-easter-sunday-chancellor-gerhard-schroder-expressed-the-hope-that-german-based-companies-will-sto.xml)  
+
 ### [2005-03-27](/news/2005/03/27/index.md)
 
+##### Easter
 #  In comments posted in a German newspaper Easter Sunday, Chancellor Gerhard Schrder expressed the hope that German-based companies will stop outsourcing, that they'll invest in employment opportunities within Germany. German companies have long complained of the stifling labor-regulatory-tax climate at home. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2005/03/28/international/europe/28germany.html?th&emc=th)
+1. [New York Times](https://www.nytimes.com/2005/03/28/international/europe/28germany.html?th&emc=th)
 
 ### Related:
 

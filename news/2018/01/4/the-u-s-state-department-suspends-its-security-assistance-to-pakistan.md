@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/4/the-u-s-state-department-suspends-its-security-a
 
 ### [2018-01-4](/news/2018/01/4/index.md)
 
+##### Pakistan-United States relations
 # The U.S. State Department suspends its security assistance to Pakistan. 
 
 The U.S. is suspending security assistance to Pakistan &quot;until the Pakistani government takes decisive action against [terror] groups including the Afghani Taliban and the Haqqani Network,&quot; State Department spokesperson Heather Nauert said Thursday. The move comes after President Trump ramped up his...

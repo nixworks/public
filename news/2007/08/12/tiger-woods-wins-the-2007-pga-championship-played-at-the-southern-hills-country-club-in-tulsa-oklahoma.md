@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/12/tiger-woods-wins-the-2007-pga-championship-played-at-the-southern-hills-country-club-in-tulsa-oklahoma.html)  [JSON](/news/2007/08/12/tiger-woods-wins-the-2007-pga-championship-played-at-the-southern-hills-country-club-in-tulsa-oklahoma.json)  [XML](/news/2007/08/12/tiger-woods-wins-the-2007-pga-championship-played-at-the-southern-hills-country-club-in-tulsa-oklahoma.xml)  
+
 ### [2007-08-12](/news/2007/08/12/index.md)
 
+##### Tiger Woods
 #  Tiger Woods wins the 2007 PGA Championship played at the Southern Hills Country Club in Tulsa, Oklahoma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://abc.net.au/news/stories/2007/08/13/2003053.htm?section=justin)
 

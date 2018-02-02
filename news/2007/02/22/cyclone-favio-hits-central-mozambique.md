@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/22/cyclone-favio-hits-central-mozambique.html)  [JSON](/news/2007/02/22/cyclone-favio-hits-central-mozambique.json)  [XML](/news/2007/02/22/cyclone-favio-hits-central-mozambique.xml)  
+
 ### [2007-02-22](/news/2007/02/22/index.md)
 
+##### Cyclone Favio
 #  Cyclone Favio hits central Mozambique. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6385405.stm)
 

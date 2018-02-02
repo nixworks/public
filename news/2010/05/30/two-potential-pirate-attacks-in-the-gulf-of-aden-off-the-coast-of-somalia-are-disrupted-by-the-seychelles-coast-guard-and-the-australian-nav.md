@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/30/two-potential-pirate-attacks-in-the-gulf-of-aden-off-the-coast-of-somalia-are-disrupted-by-the-seychelles-coast-guard-and-the-australian-nav.html)  [JSON](/news/2010/05/30/two-potential-pirate-attacks-in-the-gulf-of-aden-off-the-coast-of-somalia-are-disrupted-by-the-seychelles-coast-guard-and-the-australian-nav.json)  [XML](/news/2010/05/30/two-potential-pirate-attacks-in-the-gulf-of-aden-off-the-coast-of-somalia-are-disrupted-by-the-seychelles-coast-guard-and-the-australian-nav.xml)  
+
 ### [2010-05-30](/news/2010/05/30/index.md)
 
+##### Somali pirates
 # Two potential pirate attacks in the Gulf of Aden off the coast of Somalia are disrupted by the Seychelles Coast Guard and the Australian navy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/africa/05/30/somalia.suspected.pirates/index.html)
 

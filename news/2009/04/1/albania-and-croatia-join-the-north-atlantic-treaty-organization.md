@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/1/albania-and-croatia-join-the-north-atlantic-treaty-organization.html)  [JSON](/news/2009/04/1/albania-and-croatia-join-the-north-atlantic-treaty-organization.json)  [XML](/news/2009/04/1/albania-and-croatia-join-the-north-atlantic-treaty-organization.xml)  
+
 ### [2009-04-1](/news/2009/04/1/index.md)
 
+##### Albania
 #  Albania and Croatia join the North Atlantic Treaty Organization. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jPTmqJDexK-a1IWV9lsNDP9t0Fpw)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/1/astronomers-have-directly-confirmed-the-existence-of-an-extrasolar-planet-orbiting-the-brown-dwarf-numbered-2m1207a-the-team-says-that-thi.html)  [JSON](/news/2005/05/1/astronomers-have-directly-confirmed-the-existence-of-an-extrasolar-planet-orbiting-the-brown-dwarf-numbered-2m1207a-the-team-says-that-thi.json)  [XML](/news/2005/05/1/astronomers-have-directly-confirmed-the-existence-of-an-extrasolar-planet-orbiting-the-brown-dwarf-numbered-2m1207a-the-team-says-that-thi.xml)  
+
 ### [2005-05-1](/news/2005/05/1/index.md)
 
+##### Astronomers
 #  Astronomers have directly confirmed the existence of an extrasolar planet orbiting the brown dwarf numbered 2M1207a. The team says that this is the first-ever infrared view of an exoplanet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CP](http://cnews.canoe.ca/CNEWS/Science/2005/04/30/1019331-ap.html)
 2. [ESO](http://www.eso.org/outreach/press-rel/pr-2005/pr-12-05-p2.html)

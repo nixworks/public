@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/03/27/christians-around-the-world-celebrate-easter-sunday.html)  [JSON](/news/2005/03/27/christians-around-the-world-celebrate-easter-sunday.json)  [XML](/news/2005/03/27/christians-around-the-world-celebrate-easter-sunday.xml)  
+
 ### [2005-03-27](/news/2005/03/27/index.md)
 
+##### Christian
 #  Christians around the world celebrate Easter Sunday. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/news?tmpl=story&u=/ap/20050327/ap_on_re_mi_ea/holy_land_easter_2)
+1. [AP via Yahoo! News](https://news.yahoo.com/news?tmpl=story&u=/ap/20050327/ap_on_re_mi_ea/holy_land_easter_2)
 
 ### Related:
 

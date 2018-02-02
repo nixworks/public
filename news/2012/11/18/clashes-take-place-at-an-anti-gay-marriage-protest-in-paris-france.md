@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/18/clashes-take-place-at-an-anti-gay-marriage-protest-in-paris-france.html)  [JSON](/news/2012/11/18/clashes-take-place-at-an-anti-gay-marriage-protest-in-paris-france.json)  [XML](/news/2012/11/18/clashes-take-place-at-an-anti-gay-marriage-protest-in-paris-france.xml)  
+
 ### [2012-11-18](/news/2012/11/18/index.md)
 
+##### same-sex marriage
 # Clashes take place at an anti-gay marriage protest in Paris, France. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/world/europe/Second-day-of-anti-gay-marriage-protests-in-Paris/articleshow/17271499.cms)
 

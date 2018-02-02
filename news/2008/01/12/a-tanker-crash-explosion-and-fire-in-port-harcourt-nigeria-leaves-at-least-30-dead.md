@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/12/a-tanker-crash-explosion-and-fire-in-port-harcourt-nigeria-leaves-at-least-30-dead.html)  [JSON](/news/2008/01/12/a-tanker-crash-explosion-and-fire-in-port-harcourt-nigeria-leaves-at-least-30-dead.json)  [XML](/news/2008/01/12/a-tanker-crash-explosion-and-fire-in-port-harcourt-nigeria-leaves-at-least-30-dead.xml)  
+
 ### [2008-01-12](/news/2008/01/12/index.md)
 
+##### Port Harcourt
 #  A tanker crash, explosion and fire in Port Harcourt, Nigeria leaves at least 30 dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/africa/01/12/nigeria.crash/)
 

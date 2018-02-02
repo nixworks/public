@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/29/india-s-prime-minister-manmohan-singh-announces-a-new-chapter-in-the-jammu-and-kashmir-peace-process-and-withdraws-some-troops-from-the.html)  [JSON](/news/2009/10/29/india-s-prime-minister-manmohan-singh-announces-a-new-chapter-in-the-jammu-and-kashmir-peace-process-and-withdraws-some-troops-from-the.json)  [XML](/news/2009/10/29/india-s-prime-minister-manmohan-singh-announces-a-new-chapter-in-the-jammu-and-kashmir-peace-process-and-withdraws-some-troops-from-the.xml)  
+
 ### [2009-10-29](/news/2009/10/29/index.md)
 
+##### India
 #  India's Prime Minister Manmohan Singh announces a "new chapter" in the Jammu and Kashmir peace process, and withdraws some troops from the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jamqW4jtkklPCpAdqpt3RXn6j-fw)
-2. [New York Times](http://www.nytimes.com/reuters/2009/10/29/world/international-uk-kashmir-army.html)
+2. [New York Times](https://www.nytimes.com/reuters/2009/10/29/world/international-uk-kashmir-army.html)
 
 ### Related:
 

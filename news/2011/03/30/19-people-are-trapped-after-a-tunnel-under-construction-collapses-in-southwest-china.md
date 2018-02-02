@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/30/19-people-are-trapped-after-a-tunnel-under-construction-collapses-in-southwest-china.html)  [JSON](/news/2011/03/30/19-people-are-trapped-after-a-tunnel-under-construction-collapses-in-southwest-china.json)  [XML](/news/2011/03/30/19-people-are-trapped-after-a-tunnel-under-construction-collapses-in-southwest-china.xml)  
+
 ### [2011-03-30](/news/2011/03/30/index.md)
 
+##### China
 # 19 people are trapped after a tunnel under construction collapses in southwest China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_651107.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/21/more-than-a-dozen-suspects-are-indicted-in-the-philippines-in-connection-with-last-year-s-maguindanao-massacre.html)  [JSON](/news/2010/04/21/more-than-a-dozen-suspects-are-indicted-in-the-philippines-in-connection-with-last-year-s-maguindanao-massacre.json)  [XML](/news/2010/04/21/more-than-a-dozen-suspects-are-indicted-in-the-philippines-in-connection-with-last-year-s-maguindanao-massacre.xml)  
+
 ### [2010-04-21](/news/2010/04/21/index.md)
 
+##### Philippines
 # More than a dozen suspects are indicted in the Philippines in connection with last year's Maguindanao massacre. 
 
 More suspects in Philippines massacre indicted as suspected ring-leader denies guilt.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/20104215823215889.html)
 2. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1232978&lang=eng_news)

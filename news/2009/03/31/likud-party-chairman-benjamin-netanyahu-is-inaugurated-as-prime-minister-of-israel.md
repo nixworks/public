@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/31/likud-party-chairman-benjamin-netanyahu-is-inaugurated-as-prime-minister-of-israel.html)  [JSON](/news/2009/03/31/likud-party-chairman-benjamin-netanyahu-is-inaugurated-as-prime-minister-of-israel.json)  [XML](/news/2009/03/31/likud-party-chairman-benjamin-netanyahu-is-inaugurated-as-prime-minister-of-israel.xml)  
+
 ### [2009-03-31](/news/2009/03/31/index.md)
 
+##### Likud
 #  Likud Party Chairman Benjamin Netanyahu is inaugurated as Prime Minister of Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua via Reuters](http://news.xinhuanet.com/english/2009-04/01/content_11109517.htm)
 

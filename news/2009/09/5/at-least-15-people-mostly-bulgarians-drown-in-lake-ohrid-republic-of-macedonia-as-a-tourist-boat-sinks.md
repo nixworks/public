@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/5/at-least-15-people-mostly-bulgarians-drown-in-lake-ohrid-republic-of-macedonia-as-a-tourist-boat-sinks.html)  [JSON](/news/2009/09/5/at-least-15-people-mostly-bulgarians-drown-in-lake-ohrid-republic-of-macedonia-as-a-tourist-boat-sinks.json)  [XML](/news/2009/09/5/at-least-15-people-mostly-bulgarians-drown-in-lake-ohrid-republic-of-macedonia-as-a-tourist-boat-sinks.xml)  
+
 ### [2009-09-5](/news/2009/09/5/index.md)
 
+##### Bulgarians
 #  At least 15 people, mostly Bulgarians, drown in Lake Ohrid, Republic of Macedonia, as a tourist boat sinks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8239659.stm)
 2. [MIA](http://www.mia.com.mk/default.aspx?vId=67285723&lId=2)

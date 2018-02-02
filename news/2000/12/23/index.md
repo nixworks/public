@@ -1,7 +1,7 @@
-## [2000-12-23](/news/2000/12/23/index.md)
 
-### ["'Died:"' Victor Borge, 91, Danish comedian, conductor and pianist.](/news/2000/12/23/died-victor-borge-91-danish-comedian-conductor-and-pianist.md)
-_Context: Victor Borge_
+Formats: [HTML](2000/12/23/index.html)  [JSON](2000/12/23/index.json)  [XML](2000/12/23/index.xml)  
+
+## [2000-12-23](/news/2000/12/23/index.md)
 
 ## [Previous Day...](/news/2000/12/22/index.md)
 

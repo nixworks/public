@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/1/a-female-chinese-national-exchange-student-to-sweden-studying-in-arebro-is-found-murdered-in-daylight.html)  [JSON](/news/2011/04/1/a-female-chinese-national-exchange-student-to-sweden-studying-in-arebro-is-found-murdered-in-daylight.json)  [XML](/news/2011/04/1/a-female-chinese-national-exchange-student-to-sweden-studying-in-arebro-is-found-murdered-in-daylight.xml)  
+
 ### [2011-04-1](/news/2011/04/1/index.md)
 
+##### Chinese
 # A female Chinese national exchange student to Sweden studying in Orebro is found murdered in daylight. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Stockholm News](http://www.stockholmnews.com/more.aspx?NID=6986)
 

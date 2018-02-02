@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/08/5/newmont-minahasa-raya-a-local-subsidiary-of-u-s-mining-giant-newmont-mining-and-its-executive-richard-ness-go-on-trial-in-north-sulawes.html)  [JSON](/news/2005/08/5/newmont-minahasa-raya-a-local-subsidiary-of-u-s-mining-giant-newmont-mining-and-its-executive-richard-ness-go-on-trial-in-north-sulawes.json)  [XML](/news/2005/08/5/newmont-minahasa-raya-a-local-subsidiary-of-u-s-mining-giant-newmont-mining-and-its-executive-richard-ness-go-on-trial-in-north-sulawes.xml)  
+
 ### [2005-08-5](/news/2005/08/5/index.md)
 
+##### Newmont Minahasa Raya
 #  Newmont Minahasa Raya, a local subsidiary of U.S. mining giant Newmont Mining, and its executive Richard Ness, go on trial in North Sulawesi accused of polluting a Buyat Bay near its mine in Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=a4OPKx4HzbvI&refer=asia)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000080&sid=a4OPKx4HzbvI&refer=asia)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/161630/1/.html)
-3. [Forbes](http://www.forbes.com/home/feeds/ap/2005/08/05/ap2174327.html)
+3. [Forbes](https://www.forbes.com/home/feeds/ap/2005/08/05/ap2174327.html)
 
 ### Related:
 

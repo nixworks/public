@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/volkswagen-and-united-states-officials-agree-in
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### Volkswagen emissions scandal
 # Volkswagen and United States officials agree in principle on a deal where the automaker could buy back up to 500,000 diesel cars. 
 
  Volkswagen AG and U.S. officials have reached a framework deal under which the automaker would offer to buy back almost 500,000 diesel cars that used sophistic

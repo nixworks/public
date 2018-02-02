@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/21/palestinian-prisoner-khader-adnan-ends-a-66-day-hunger-strike-over-his-detention-in-a-deal-that-will-see-him-released-in-two-months.html)  [JSON](/news/2012/02/21/palestinian-prisoner-khader-adnan-ends-a-66-day-hunger-strike-over-his-detention-in-a-deal-that-will-see-him-released-in-two-months.json)  [XML](/news/2012/02/21/palestinian-prisoner-khader-adnan-ends-a-66-day-hunger-strike-over-his-detention-in-a-deal-that-will-see-him-released-in-two-months.xml)  
+
 ### [2012-02-21](/news/2012/02/21/index.md)
 
+##### Palestinian
 # Palestinian prisoner Khader Adnan ends a 66-day hunger strike over his detention in a deal that will see him released in two months. 
 
 Palestinian prisoner Khader Adnan, who on Tuesday ended a 66-day hunger strike, has become a potent symbol of protest against Israel&#39;s practice of holding suspects without trial.
 
 
-### Source:
+### Sources:
 
 1. [Daily Star Lebanon](http://www.dailystar.com.lb/News/Middle-East/2012/Feb-21/164099-deal-ends-palestinian-prisoner-hunger-strike-minister.ashx#axzz1n1JF0nep)
 1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2012/02/21/50688_img650x420_img650x420_crop.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/15/taliban-insurgency-the-afghan-security-forces-have-retaken-a-district-headquarters-in-the-western-farah-province-after-a-short-taliban-occ.html)  [JSON](/news/2006/09/15/taliban-insurgency-the-afghan-security-forces-have-retaken-a-district-headquarters-in-the-western-farah-province-after-a-short-taliban-occ.json)  [XML](/news/2006/09/15/taliban-insurgency-the-afghan-security-forces-have-retaken-a-district-headquarters-in-the-western-farah-province-after-a-short-taliban-occ.xml)  
+
 ### [2006-09-15](/news/2006/09/15/index.md)
 
+##### Taliban insurgency
 #  Taliban insurgency: The Afghan security forces have retaken a district headquarters in the western Farah province after a short Taliban occupation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/5349330.stm)
 

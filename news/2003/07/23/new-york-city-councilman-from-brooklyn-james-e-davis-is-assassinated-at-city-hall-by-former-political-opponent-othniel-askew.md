@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/23/new-york-city-councilman-from-brooklyn-james-e-davis-is-assassinated-at-city-hall-by-former-political-opponent-othniel-askew.html)  [JSON](/news/2003/07/23/new-york-city-councilman-from-brooklyn-james-e-davis-is-assassinated-at-city-hall-by-former-political-opponent-othniel-askew.json)  [XML](/news/2003/07/23/new-york-city-councilman-from-brooklyn-james-e-davis-is-assassinated-at-city-hall-by-former-political-opponent-othniel-askew.xml)  
+
 ### [2003-07-23](/news/2003/07/23/index.md)
 
+##### City Council
 #  New York City Councilman from Brooklyn, James E. Davis is assassinated at City Hall by former political opponent Othniel Askew.
 
 

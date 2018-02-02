@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/6/abu-bakar-bashir-a-prominent-indonesian-cleric-rejects-his-terrorism-trial-as-outside-islamic-law.html)  [JSON](/news/2011/06/6/abu-bakar-bashir-a-prominent-indonesian-cleric-rejects-his-terrorism-trial-as-outside-islamic-law.json)  [XML](/news/2011/06/6/abu-bakar-bashir-a-prominent-indonesian-cleric-rejects-his-terrorism-trial-as-outside-islamic-law.xml)  
+
 ### [2011-06-6](/news/2011/06/6/index.md)
 
+##### Abu Bakar Bashir
 # Abu Bakar Bashir, a prominent Indonesian cleric, rejects his terrorism trial as "outside Islamic law." 
 
 Co-founder of Jemaah Islamiyah proclaims innocence over terror charges and rejects trial as outside Islamic law.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/06/201166111121242662.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/6/201166112643838360_20.jpg)

@@ -1,16 +1,26 @@
+
+Formats: [HTML](/news/2012/09/28/the-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.html)  [JSON](/news/2012/09/28/the-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.json)  [XML](/news/2012/09/28/the-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.xml)  
+
 ### [2012-09-28](/news/2012/09/28/index.md)
 
+##### Politburo
 # The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. 
 
 The official Xinhua News translation of a Communist Party statement expelling disgraced Chinese Politburo member Bo Xilai.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-19761669)
-2. [Reuters](http://www.reuters.com/article/2012/09/28/us-china-politics-idUSBRE88R0HM20120928)
+2. [Reuters](https://www.reuters.com/article/2012/09/28/us-china-politics-idUSBRE88R0HM20120928)
 3. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/28/c_131880079.htm)
 3. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63173000/jpg/_63173258_4bcawsdk.jpg)
+
+### Changes:
+
+1. [China:The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/china-pthe-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md) _2017-08-25 03:36:37 (First version)_
+2. [China:: The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/china-the-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md) _2017-08-27 03:36:47 (Update)_
+2. [The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/the-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +29,3 @@ The official Xinhua News translation of a Communist Party statement expelling di
 3. [Bo Xilai, a former member of Politburo of the Communist Party of China, charged with bribery and corruption, will go on trial on August 22 in the city of Jinan. ](/news/2013/08/18/bo-xilai-a-former-member-of-politburo-of-the-communist-party-of-china-charged-with-bribery-and-corruption-will-go-on-trial-on-august-22-i.md) _Context: Politburo_
 4. [The 18th National Congress of the Communist Party of China is opened in Beijing, during which current Paramount Leader Hu Jintao is expected to step down to make way for presumptive leader Xi Jinping. ](/news/2012/11/8/the-18th-national-congress-of-the-communist-party-of-china-is-opened-in-beijing-during-which-current-paramount-leader-hu-jintao-is-expected.md) _Context: 18th National Congress_
 5. [Gu Kailai, the wife of ousted Chongqing Politburo leader Bo Xilai, is given a suspended death sentence for the murder of Neil Heywood in China. ](/news/2012/08/20/gu-kailai-the-wife-of-ousted-chongqing-politburo-leader-bo-xilai-is-given-a-suspended-death-sentence-for-the-murder-of-neil-heywood-in-chi.md) _Context: Politburo_
-
-### Changes:
-
-1. [China:The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/china-pthe-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md) _2017-08-25 03:36:37 (First version)_
-2. [China:: The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/china-the-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md) _2017-08-27 03:36:47 (Update)_
-2. [The Politburo of the Communist Party of China sets November 8 as the date for its 18th National Congress. ](/news/2012/09/28/the-politburo-of-the-communist-party-of-china-sets-november-8-as-the-date-for-its-18th-national-congress.md) _(Current version)_

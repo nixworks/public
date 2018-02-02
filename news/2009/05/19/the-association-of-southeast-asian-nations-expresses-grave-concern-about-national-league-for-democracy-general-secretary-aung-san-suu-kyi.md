@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/05/19/the-association-of-southeast-asian-nations-expresses-grave-concern-about-national-league-for-democracy-general-secretary-aung-san-suu-kyi.html)  [JSON](/news/2009/05/19/the-association-of-southeast-asian-nations-expresses-grave-concern-about-national-league-for-democracy-general-secretary-aung-san-suu-kyi.json)  [XML](/news/2009/05/19/the-association-of-southeast-asian-nations-expresses-grave-concern-about-national-league-for-democracy-general-secretary-aung-san-suu-kyi.xml)  
+
 ### [2009-05-19](/news/2009/05/19/index.md)
 
+##### ASEAN
 #  The Association of Southeast Asian Nations expresses "grave concern" about National League for Democracy General Secretary Aung San Suu Kyi's trial. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSBKK43549020090519)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090519&t=2&i=10173974&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-19T132735Z_01_BTRE54I0TDC00_RTROPTP_0_PHILIPPINES)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSBKK43549020090519)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20090519&t=2&i=10173974&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-19T132735Z_01_BTRE54I0TDC00_RTROPTP_0_PHILIPPINES)
 
 ### Related:
 

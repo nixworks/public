@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/3/early-returns-in-the-iranian-legislative-election-show-the-conservative-opponents-of-president-mahmoud-ahmadinejad-doing-well.html)  [JSON](/news/2012/03/3/early-returns-in-the-iranian-legislative-election-show-the-conservative-opponents-of-president-mahmoud-ahmadinejad-doing-well.json)  [XML](/news/2012/03/3/early-returns-in-the-iranian-legislative-election-show-the-conservative-opponents-of-president-mahmoud-ahmadinejad-doing-well.xml)  
+
 ### [2012-03-3](/news/2012/03/3/index.md)
 
+##### Iranian legislative election
 # Early returns in the Iranian legislative election show the conservative opponents of President Mahmoud Ahmadinejad doing well. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/mar/03/iranian-election-results-ahmadinejad)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/4/scientists-unveil-a-3d-printer-which-creates-material-very-similar-to-human-tissue.html)  [JSON](/news/2013/04/4/scientists-unveil-a-3d-printer-which-creates-material-very-similar-to-human-tissue.json)  [XML](/news/2013/04/4/scientists-unveil-a-3d-printer-which-creates-material-very-similar-to-human-tissue.xml)  
+
 ### [2013-04-4](/news/2013/04/4/index.md)
 
+##### 3D printer
 # Scientists unveil a 3D printer which creates material very similar to human tissue. 
 
 Scientists have built a 3-D printer that creates material resembling human tissues. The novel substance, a deceptively simple network of water droplets coated in lipids, could one day be used to...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/science/sciencenow/la-sci-sn-faux-synthetic-tissue-3d-printer-self-assembling-20130404,0,6286611.story)
 1. [Cover Image](http://www.trbimg.com/img-515de0ec/turbine/la-sci-sn-faux-tissue-3d-printer-self-assembli-001/599/599x185)

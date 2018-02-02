@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/22/an-earthquake-magnitude-4-7-hits-parts-of-germany-belgium-and-the-netherlands.html)  [JSON](/news/2002/07/22/an-earthquake-magnitude-4-7-hits-parts-of-germany-belgium-and-the-netherlands.json)  [XML](/news/2002/07/22/an-earthquake-magnitude-4-7-hits-parts-of-germany-belgium-and-the-netherlands.xml)  
+
 ### [2002-07-22](/news/2002/07/22/index.md)
 
+##### earthquake
 #  An earthquake (magnitude 4.7) hits parts of Germany, Belgium, and the Netherlands.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/20/in-egypt-hosni-mubarak-ousted-from-power-in-last-year-s-revolution-is-reported-to-in-a-coma-and-has-been-taken-off-life-support.html)  [JSON](/news/2012/06/20/in-egypt-hosni-mubarak-ousted-from-power-in-last-year-s-revolution-is-reported-to-in-a-coma-and-has-been-taken-off-life-support.json)  [XML](/news/2012/06/20/in-egypt-hosni-mubarak-ousted-from-power-in-last-year-s-revolution-is-reported-to-in-a-coma-and-has-been-taken-off-life-support.xml)  
+
 ### [2012-06-20](/news/2012/06/20/index.md)
 
+##### Egypt
 # In Egypt, Hosni Mubarak, ousted from power in last year's revolution, is reported to in a coma and has been taken off life support. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18515556)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61017000/jpg/_61017324_014970995-1.jpg)

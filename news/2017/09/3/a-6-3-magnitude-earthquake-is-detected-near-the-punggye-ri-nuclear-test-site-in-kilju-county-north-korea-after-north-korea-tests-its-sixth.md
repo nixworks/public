@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/3/a-6-3-magnitude-earthquake-is-detected-near-the-
 
 ### [2017-09-3](/news/2017/09/3/index.md)
 
+##### 2017 North Korea crisis
 # A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM. 
 
 The test Sunday was an extraordinary show of defiance by the North’s leader, Kim Jong-un, against President Trump.

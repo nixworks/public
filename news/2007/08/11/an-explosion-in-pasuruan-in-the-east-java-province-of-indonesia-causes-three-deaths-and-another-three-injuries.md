@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/11/an-explosion-in-pasuruan-in-the-east-java-province-of-indonesia-causes-three-deaths-and-another-three-injuries.html)  [JSON](/news/2007/08/11/an-explosion-in-pasuruan-in-the-east-java-province-of-indonesia-causes-three-deaths-and-another-three-injuries.json)  [XML](/news/2007/08/11/an-explosion-in-pasuruan-in-the-east-java-province-of-indonesia-causes-three-deaths-and-another-three-injuries.xml)  
+
 ### [2007-08-11](/news/2007/08/11/index.md)
 
+##### Pasuruan
 #  An explosion in Pasuruan in the East Java province of Indonesia causes three deaths and another three injuries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP viaNews Limited](http://www.news.com.au/story/0,23599,22231180-2,00.html)
 

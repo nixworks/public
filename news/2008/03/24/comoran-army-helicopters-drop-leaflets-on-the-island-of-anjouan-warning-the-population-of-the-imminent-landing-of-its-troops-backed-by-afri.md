@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/24/comoran-army-helicopters-drop-leaflets-on-the-island-of-anjouan-warning-the-population-of-the-imminent-landing-of-its-troops-backed-by-afri.html)  [JSON](/news/2008/03/24/comoran-army-helicopters-drop-leaflets-on-the-island-of-anjouan-warning-the-population-of-the-imminent-landing-of-its-troops-backed-by-afri.json)  [XML](/news/2008/03/24/comoran-army-helicopters-drop-leaflets-on-the-island-of-anjouan-warning-the-population-of-the-imminent-landing-of-its-troops-backed-by-afri.xml)  
+
 ### [2008-03-24](/news/2008/03/24/index.md)
 
+##### Comoros
 #  Comoran army helicopters drop leaflets on the island of Anjouan warning the population of the imminent landing of its troops backed by African Union contingents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [france24](http://www.france24.com/en/20080324-leaflets-dropped-anjouan-warn-attack-comoros-bacar&navi=MONDE)
 

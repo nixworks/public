@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/17/the-u-s-department-of-homeland-security-discont
 
 ### [2018-01-17](/news/2018/01/17/index.md)
 
+##### Visa policy of the United States
 # The U.S. Department of Homeland Security discontinues the eligibility of citizens of Belize, Haiti, and Samoa to obtain H-2A and H-2B visas for temporary work. 
 
 Haitians will no longer be eligible for U.S. visas given to low-skilled workers, the Trump administration said on Wednesday, bringing an end to a small-scale effort to employ Haitians in the United States after a catastrophic 2010 earthquake.

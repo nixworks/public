@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/3/nasa-announces-discovery-of-water-in-the-atmosphere-of-mercury-by-its-messenger-probe.html)  [JSON](/news/2008/07/3/nasa-announces-discovery-of-water-in-the-atmosphere-of-mercury-by-its-messenger-probe.json)  [XML](/news/2008/07/3/nasa-announces-discovery-of-water-in-the-atmosphere-of-mercury-by-its-messenger-probe.xml)  
+
 ### [2008-07-3](/news/2008/07/3/index.md)
 
+##### NASA
 #  NASA announces discovery of water in the atmosphere of Mercury by its MESSENGER probe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Planetary Society](http://www.planetary.org/news/2008/0703_MESSENGER_Scientists_Astonished_to.html)
 

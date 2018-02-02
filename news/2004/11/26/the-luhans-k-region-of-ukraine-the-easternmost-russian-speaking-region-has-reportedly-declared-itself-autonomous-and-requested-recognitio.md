@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/26/the-luhans-k-region-of-ukraine-the-easternmost-russian-speaking-region-has-reportedly-declared-itself-autonomous-and-requested-recognitio.html)  [JSON](/news/2004/11/26/the-luhans-k-region-of-ukraine-the-easternmost-russian-speaking-region-has-reportedly-declared-itself-autonomous-and-requested-recognitio.json)  [XML](/news/2004/11/26/the-luhans-k-region-of-ukraine-the-easternmost-russian-speaking-region-has-reportedly-declared-itself-autonomous-and-requested-recognitio.xml)  
+
 ### [2004-11-26](/news/2004/11/26/index.md)
 
+##### Luhans'k region
 #  The Luhans'k region of Ukraine, the easternmost Russian-speaking region, has reportedly declared itself autonomous and requested recognition from the Russian Federation. Several more regions, including Donetsk, have ruled to put autonomy on popular referendum. Supporters of opposition leader Viktor Yushchenko blockaded official buildings in Kiev Friday, in a direct challenge to the Moscow-backed government's control of the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://sg.news.yahoo.com/041125/1/3ot70.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4045449.stm)

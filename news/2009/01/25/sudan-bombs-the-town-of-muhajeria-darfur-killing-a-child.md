@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/25/sudan-bombs-the-town-of-muhajeria-darfur-killing-a-child.html)  [JSON](/news/2009/01/25/sudan-bombs-the-town-of-muhajeria-darfur-killing-a-child.json)  [XML](/news/2009/01/25/sudan-bombs-the-town-of-muhajeria-darfur-killing-a-child.xml)  
+
 ### [2009-01-25](/news/2009/01/25/index.md)
 
+##### Sudan
 #  Sudan bombs the town of Muhajeria, Darfur, killing a child. 
 
 Sudanese government planes have bombed a rebel-held town in southern Darfur, killing a child, burning homes and sending civilians fleeing to a peacekeepers compound, the peacekeeping force said Sunday.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/28841375/)
 1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)

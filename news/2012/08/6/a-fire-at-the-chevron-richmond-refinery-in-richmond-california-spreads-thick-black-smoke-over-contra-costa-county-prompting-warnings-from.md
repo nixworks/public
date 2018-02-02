@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/6/a-fire-at-the-chevron-richmond-refinery-in-richmond-california-spreads-thick-black-smoke-over-contra-costa-county-prompting-warnings-from.html)  [JSON](/news/2012/08/6/a-fire-at-the-chevron-richmond-refinery-in-richmond-california-spreads-thick-black-smoke-over-contra-costa-county-prompting-warnings-from.json)  [XML](/news/2012/08/6/a-fire-at-the-chevron-richmond-refinery-in-richmond-california-spreads-thick-black-smoke-over-contra-costa-county-prompting-warnings-from.xml)  
+
 ### [2012-08-6](/news/2012/08/6/index.md)
 
+##### Chevron Richmond Refinery
 # A fire at the Chevron Richmond Refinery in Richmond, California spreads thick black smoke over Contra Costa County, prompting warnings from officials to shelter in place. 
 
 Massive fire at Chevron refinery in Richmond fully contained; shelter in place lifted
 
 
-### Source:
+### Sources:
 
 1. [Mercury News](http://www.mercurynews.com/breaking-news/ci_21250598/large-fire-burning-at-chevron-refinery-richmond)
 1. [Cover Image](http://www.mercurynews.com/wp-content/uploads/2016/08/20120806_080139_refine1.jpg?w=1024&amp;h=765)

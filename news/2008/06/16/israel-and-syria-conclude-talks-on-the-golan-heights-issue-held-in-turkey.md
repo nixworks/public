@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/16/israel-and-syria-conclude-talks-on-the-golan-heights-issue-held-in-turkey.html)  [JSON](/news/2008/06/16/israel-and-syria-conclude-talks-on-the-golan-heights-issue-held-in-turkey.json)  [XML](/news/2008/06/16/israel-and-syria-conclude-talks-on-the-golan-heights-issue-held-in-turkey.xml)  
+
 ### [2008-06-16](/news/2008/06/16/index.md)
 
+##### Israel
 #  Israel and Syria conclude talks on the Golan Heights issue held in Turkey. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7456073.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of
 
 ### [2017-09-5](/news/2017/09/5/index.md)
 
+##### Syrian Civil War
 # The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. 
 
 Some 93,000 civilians were trapped there for years, leaving them dependent on aid air drops.

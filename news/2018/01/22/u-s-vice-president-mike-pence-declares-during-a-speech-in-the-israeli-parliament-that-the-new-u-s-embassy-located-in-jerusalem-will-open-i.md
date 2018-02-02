@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/22/u-s-vice-president-mike-pence-declares-during-a
 
 ### [2018-01-22](/news/2018/01/22/index.md)
 
+##### United States recognition of Jerusalem as Israeli capital
 # U.S. Vice President Mike Pence declares during a speech in the Israeli parliament that the new U.S. embassy located in Jerusalem will open in 2019, sooner than generally expected. 
 
 Controversial move to be made by end of 2019, vice-president tells Israeli parliament

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/2/a-jordanian-civilian-is-killed-and-three-others-are-wounded-as-a-grad-rocket-launched-from-the-sinai-hits-the-city-of-aqaba-four-other-rock.html)  [JSON](/news/2010/08/2/a-jordanian-civilian-is-killed-and-three-others-are-wounded-as-a-grad-rocket-launched-from-the-sinai-hits-the-city-of-aqaba-four-other-rock.json)  [XML](/news/2010/08/2/a-jordanian-civilian-is-killed-and-three-others-are-wounded-as-a-grad-rocket-launched-from-the-sinai-hits-the-city-of-aqaba-four-other-rock.xml)  
+
 ### [2010-08-2](/news/2010/08/2/index.md)
 
+##### Jordanian
 # A Jordanian civilian is killed and three others are wounded as a Grad rocket launched from the Sinai hits the city of Aqaba. Four other rockets land in open areas in the Gulf of Aqaba. Jordan, Israel, Egypt and the United States condemn the attack. 
 
 Sappers find parts of Grad rocket thought to have been one of five fired towards Eilat in drainage tank north of city. Netanyahu calls Jordanian, Egyptian leaders to inveigh against &#39;criminal attack on innocent citizens&#39;
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/netanyahu-terror-groups-are-trying-to-thwart-mideast-peace-1.305592)
 2. [YnetNews](http://www.ynetnews.com/articles/0,7340,L-3929085,00.html)

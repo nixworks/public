@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/25/bill-gates-donates-750-million-through-the-bill-melinda-gates-foundation-to-the-global-alliance-for-vaccines-and-immunisation-to-provid.html)  [JSON](/news/2005/01/25/bill-gates-donates-750-million-through-the-bill-melinda-gates-foundation-to-the-global-alliance-for-vaccines-and-immunisation-to-provid.json)  [XML](/news/2005/01/25/bill-gates-donates-750-million-through-the-bill-melinda-gates-foundation-to-the-global-alliance-for-vaccines-and-immunisation-to-provid.xml)  
+
 ### [2005-01-25](/news/2005/01/25/index.md)
 
+##### Bill Gates
 #  Bill Gates donates $750 million through the Bill & Melinda Gates Foundation to the Global Alliance for Vaccines and Immunisation, to provide vaccines to children in poor countries. This is one of the largest philanthropic donations ever made by a living donor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/microsoft/Story/0,2763,1398004,00.html)
 

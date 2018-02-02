@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/16/at-the-2008-national-people-s-congress-wen-jiabao-is-elected-as-premier-for-another-five-years-term.html)  [JSON](/news/2008/03/16/at-the-2008-national-people-s-congress-wen-jiabao-is-elected-as-premier-for-another-five-years-term.json)  [XML](/news/2008/03/16/at-the-2008-national-people-s-congress-wen-jiabao-is-elected-as-premier-for-another-five-years-term.xml)  
+
 ### [2008-03-16](/news/2008/03/16/index.md)
 
+##### 2008 National People's Congress
 #  At the 2008 National People's Congress, Wen Jiabao is elected as Premier for another five years term. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://www.chinadaily.com.cn/china/2008npc/2008-03/16/content_6540061.htm)
 

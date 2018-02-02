@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/16/28-of-33-miners-rescued-in-the-2010-copiapo-mining-accident-are-secretly-discharged-from-hospital-in-chile-with-2-remaining-inside.html)  [JSON](/news/2010/10/16/28-of-33-miners-rescued-in-the-2010-copiapo-mining-accident-are-secretly-discharged-from-hospital-in-chile-with-2-remaining-inside.json)  [XML](/news/2010/10/16/28-of-33-miners-rescued-in-the-2010-copiapo-mining-accident-are-secretly-discharged-from-hospital-in-chile-with-2-remaining-inside.xml)  
+
 ### [2010-10-16](/news/2010/10/16/index.md)
 
+##### 2010 Copiap mining accident
 # 28 of 33 miners rescued in the 2010 Copiap mining accident are secretly discharged from hospital in Chile, with 2 remaining inside. 
 
 Twenty-eight rescued miners are secretly released from hospital in Chile, two days after their ordeal came to an end.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11556963)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

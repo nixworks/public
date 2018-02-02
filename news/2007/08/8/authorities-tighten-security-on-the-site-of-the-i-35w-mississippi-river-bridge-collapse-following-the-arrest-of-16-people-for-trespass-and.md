@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/8/authorities-tighten-security-on-the-site-of-the-i-35w-mississippi-river-bridge-collapse-following-the-arrest-of-16-people-for-trespass-and.html)  [JSON](/news/2007/08/8/authorities-tighten-security-on-the-site-of-the-i-35w-mississippi-river-bridge-collapse-following-the-arrest-of-16-people-for-trespass-and.json)  [XML](/news/2007/08/8/authorities-tighten-security-on-the-site-of-the-i-35w-mississippi-river-bridge-collapse-following-the-arrest-of-16-people-for-trespass-and.xml)  
+
 ### [2007-08-8](/news/2007/08/8/index.md)
 
+##### I-35W Mississippi River bridge
 #  Authorities tighten security on the site of the I-35W Mississippi River bridge collapse following the arrest of 16 people for trespass and hindering investigations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/US/08/08/bridge.collapse/index.html?eref=rss_us)
 

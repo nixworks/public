@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/21/a-suicide-bomber-kills-15-and-injures-20-in-a-shi-ite-mosque-in-the-northwestern-pakistani-city-of-peshawar.html)  [JSON](/news/2013/06/21/a-suicide-bomber-kills-15-and-injures-20-in-a-shi-ite-mosque-in-the-northwestern-pakistani-city-of-peshawar.json)  [XML](/news/2013/06/21/a-suicide-bomber-kills-15-and-injures-20-in-a-shi-ite-mosque-in-the-northwestern-pakistani-city-of-peshawar.xml)  
+
 ### [2013-06-21](/news/2013/06/21/index.md)
 
+##### suicide bomber
 # A suicide bomber kills 15 and injures 20 in a Shi'ite mosque in the northwestern Pakistani city of Peshawar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/world/356300/suicide-attack-kills-15-at-pakistan-shiite-mosque)
 

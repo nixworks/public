@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/17/the-death-toll-after-a-ferry-collided-with-an-oil-barge-in-the-irrawaddy-delta-off-the-coast-of-burma-rises-to-50.html)  [JSON](/news/2009/11/17/the-death-toll-after-a-ferry-collided-with-an-oil-barge-in-the-irrawaddy-delta-off-the-coast-of-burma-rises-to-50.json)  [XML](/news/2009/11/17/the-death-toll-after-a-ferry-collided-with-an-oil-barge-in-the-irrawaddy-delta-off-the-coast-of-burma-rises-to-50.xml)  
+
 ### [2009-11-17](/news/2009/11/17/index.md)
 
+##### Irrawaddy Delta
 #  The death toll after a ferry collided with an oil barge in the Irrawaddy Delta, off the coast of Burma, rises to 50. 
 
 Up to 50 feared drowned after nighttime ferry collision in Irrawady delta region.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/11/200911178123358981.html)
 1. [Cover Image](http://www.aljazeera.com)

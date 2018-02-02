@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/19/the-syrian-observatory-for-human-rights-claims-
 
 ### [2016-01-19](/news/2016/01/19/index.md)
 
+##### Syrian Civil War
 # The Syrian Observatory for Human Rights claims that scores of Syrian Army troops have been killed in fighting with the Islamic State of Iraq and the Levant over the past few days with the fiercest battles near the city of Deir ez-Zor. 
 
 
@@ -25,4 +26,4 @@ Formats: [HTML](/news/2016/01/19/the-syrian-observatory-for-human-rights-claims-
 2. [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md) _Context: Deir ez-Zor, ISIL, Syrian Army, Syrian Civil War_
 3. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: Deir ez-Zor, ISIL, Syrian Army, Syrian Civil War_
 4. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _Context: Deir ez-Zor, ISIL, Syrian Army, Syrian Civil War_
-5. [Amaq News Agency claims ISIL is responsible for shooting down a Syrian Air Force fighter jet over Deir ez-Zor. The London-based SOHR says the MiG pilot was killed. ](/news/2016/09/18/amaq-news-agency-claims-isil-is-responsible-for-shooting-down-a-syrian-air-force-fighter-jet-over-deir-ez-zor-the-london-based-sohr-says-th.md) _Context: Deir ez-Zor, ISIL, Syrian Civil War, Syrian Observatory for Human Rights_
+5. [According to Russian ambassador to the United Nations Aleksi Borodavkin, the Syrian Army is preparing to launch an offensive against the ISIL strongholds of Al-Raqqah and the countryside around Deir ez-Zor and that the Russian Air Force will be providing the ground campaign with air support. ](/news/2016/04/29/according-to-russian-ambassador-to-the-united-nations-aleksi-borodavkin-the-syrian-army-is-preparing-to-launch-an-offensive-against-the-isi.md) _Context: Deir ez-Zor, ISIL, Syrian Army, Syrian Civil War_

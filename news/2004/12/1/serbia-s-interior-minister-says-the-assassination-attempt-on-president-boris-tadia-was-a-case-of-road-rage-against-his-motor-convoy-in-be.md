@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/12/1/serbia-s-interior-minister-says-the-assassination-attempt-on-president-boris-tadia-was-a-case-of-road-rage-against-his-motor-convoy-in-be.html)  [JSON](/news/2004/12/1/serbia-s-interior-minister-says-the-assassination-attempt-on-president-boris-tadia-was-a-case-of-road-rage-against-his-motor-convoy-in-be.json)  [XML](/news/2004/12/1/serbia-s-interior-minister-says-the-assassination-attempt-on-president-boris-tadia-was-a-case-of-road-rage-against-his-motor-convoy-in-be.xml)  
+
 ### [2004-12-1](/news/2004/12/1/index.md)
 
+##### Serbia
 # Serbia's interior minister says the "assassination attempt" on president Boris Tadic was a case of road rage against his motor convoy in Belgrade traffic. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6971289)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6971289)
 
 ### Related:
 

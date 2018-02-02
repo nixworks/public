@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/26/an-argument-has-erupted-between-adam-air-and-the-indonesian-government-over-who-bears-the-cost-of-recovering-the-black-box-of-the-crashed-p.html)  [JSON](/news/2007/01/26/an-argument-has-erupted-between-adam-air-and-the-indonesian-government-over-who-bears-the-cost-of-recovering-the-black-box-of-the-crashed-p.json)  [XML](/news/2007/01/26/an-argument-has-erupted-between-adam-air-and-the-indonesian-government-over-who-bears-the-cost-of-recovering-the-black-box-of-the-crashed-p.xml)  
+
 ### [2007-01-26](/news/2007/01/26/index.md)
 
+##### Adam Air
 #  An argument has erupted between Adam Air and the Indonesian government over who bears the cost of recovering the black box of the crashed plane Adam Air Flight 574. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Monstersandcritics.com](http://news.monstersandcritics.com/asiapacific/news/article_1251905.php/Indonesian_airline_government_battle_over_retrieval_of_black_box)
 

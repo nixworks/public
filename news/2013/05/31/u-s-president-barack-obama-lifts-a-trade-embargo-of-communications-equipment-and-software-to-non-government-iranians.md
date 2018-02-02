@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2013/05/31/u-s-president-barack-obama-lifts-a-trade-embargo-of-communications-equipment-and-software-to-non-government-iranians.html)  [JSON](/news/2013/05/31/u-s-president-barack-obama-lifts-a-trade-embargo-of-communications-equipment-and-software-to-non-government-iranians.json)  [XML](/news/2013/05/31/u-s-president-barack-obama-lifts-a-trade-embargo-of-communications-equipment-and-software-to-non-government-iranians.xml)  
+
 ### [2013-05-31](/news/2013/05/31/index.md)
 
+##### Barack Obama
 # U.S. President Barack Obama lifts a trade embargo of communications equipment and software to non-government Iranians. 
 
+President Barack Obama’s administration lifted U.S. trade sanctions that bar sales of consumer communications equipment and software to ordinary Iranians.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2013-05-29/u-s-to-ease-iran-sanctions-on-laptops-mobile-phones.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2013-05-29/u-s-to-ease-iran-sanctions-on-laptops-mobile-phones.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Related:
 

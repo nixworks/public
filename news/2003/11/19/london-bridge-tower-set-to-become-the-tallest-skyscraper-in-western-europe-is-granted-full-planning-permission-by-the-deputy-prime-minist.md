@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/19/london-bridge-tower-set-to-become-the-tallest-skyscraper-in-western-europe-is-granted-full-planning-permission-by-the-deputy-prime-minist.html)  [JSON](/news/2003/11/19/london-bridge-tower-set-to-become-the-tallest-skyscraper-in-western-europe-is-granted-full-planning-permission-by-the-deputy-prime-minist.json)  [XML](/news/2003/11/19/london-bridge-tower-set-to-become-the-tallest-skyscraper-in-western-europe-is-granted-full-planning-permission-by-the-deputy-prime-minist.xml)  
+
 ### [2003-11-19](/news/2003/11/19/index.md)
 
+##### London Bridge Tower
 #  London Bridge Tower, set to become the tallest skyscraper in Western Europe, is granted full planning permission by the Deputy Prime Minister John Prescott.
 
 

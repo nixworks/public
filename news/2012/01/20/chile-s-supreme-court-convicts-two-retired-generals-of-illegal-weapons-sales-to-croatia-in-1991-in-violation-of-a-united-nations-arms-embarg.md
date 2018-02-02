@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/20/chile-s-supreme-court-convicts-two-retired-generals-of-illegal-weapons-sales-to-croatia-in-1991-in-violation-of-a-united-nations-arms-embarg.html)  [JSON](/news/2012/01/20/chile-s-supreme-court-convicts-two-retired-generals-of-illegal-weapons-sales-to-croatia-in-1991-in-violation-of-a-united-nations-arms-embarg.json)  [XML](/news/2012/01/20/chile-s-supreme-court-convicts-two-retired-generals-of-illegal-weapons-sales-to-croatia-in-1991-in-violation-of-a-united-nations-arms-embarg.xml)  
+
 ### [2012-01-20](/news/2012/01/20/index.md)
 
+##### Chile
 # Chile's Supreme Court convicts two retired generals of illegal weapons sales to Croatia in 1991 in violation of a United Nations arms embargo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Newsday](http://www.newsday.com/news/nation/chile-generals-guilty-trafficked-arms-to-croatia-1.3466921)
 

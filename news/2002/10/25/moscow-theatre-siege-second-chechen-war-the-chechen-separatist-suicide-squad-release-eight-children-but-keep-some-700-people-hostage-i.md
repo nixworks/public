@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/25/moscow-theatre-siege-second-chechen-war-the-chechen-separatist-suicide-squad-release-eight-children-but-keep-some-700-people-hostage-i.html)  [JSON](/news/2002/10/25/moscow-theatre-siege-second-chechen-war-the-chechen-separatist-suicide-squad-release-eight-children-but-keep-some-700-people-hostage-i.json)  [XML](/news/2002/10/25/moscow-theatre-siege-second-chechen-war-the-chechen-separatist-suicide-squad-release-eight-children-but-keep-some-700-people-hostage-i.xml)  
+
 ### [2002-10-25](/news/2002/10/25/index.md)
 
+##### Moscow theatre siege
 #  Moscow theatre siege, Second Chechen War: The Chechen separatist "suicide squad" release eight children, but keep some 700 people hostage in a Moscow theater rigged with explosives. Diplomats wait for the gunmen to honor a pledge to free about 75 foreigners among their hostages, including Australians, Austrians, Britons, Germans and three Americans.
 
 

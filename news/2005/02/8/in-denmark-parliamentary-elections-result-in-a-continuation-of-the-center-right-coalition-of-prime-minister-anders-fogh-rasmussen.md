@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/8/in-denmark-parliamentary-elections-result-in-a-continuation-of-the-center-right-coalition-of-prime-minister-anders-fogh-rasmussen.html)  [JSON](/news/2005/02/8/in-denmark-parliamentary-elections-result-in-a-continuation-of-the-center-right-coalition-of-prime-minister-anders-fogh-rasmussen.json)  [XML](/news/2005/02/8/in-denmark-parliamentary-elections-result-in-a-continuation-of-the-center-right-coalition-of-prime-minister-anders-fogh-rasmussen.xml)  
+
 ### [2005-02-8](/news/2005/02/8/index.md)
 
+##### Denmark
 #  In Denmark, parliamentary elections result in a continuation of the center-right coalition of Prime Minister Anders Fogh Rasmussen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4245239.stm)
 

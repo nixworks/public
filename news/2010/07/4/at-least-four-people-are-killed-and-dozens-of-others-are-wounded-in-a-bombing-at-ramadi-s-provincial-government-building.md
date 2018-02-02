@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/4/at-least-four-people-are-killed-and-dozens-of-others-are-wounded-in-a-bombing-at-ramadi-s-provincial-government-building.html)  [JSON](/news/2010/07/4/at-least-four-people-are-killed-and-dozens-of-others-are-wounded-in-a-bombing-at-ramadi-s-provincial-government-building.json)  [XML](/news/2010/07/4/at-least-four-people-are-killed-and-dozens-of-others-are-wounded-in-a-bombing-at-ramadi-s-provincial-government-building.xml)  
+
 ### [2010-07-4](/news/2010/07/4/index.md)
 
+##### Ramadi
 # At least four people are killed and dozens of others are wounded in a bombing at Ramadi's provincial government building. 
 
 Female suicide bomber kills at least four people in western province of Anbar.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107492524124135.html)
 1. [Cover Image](http://www.aljazeera.com)

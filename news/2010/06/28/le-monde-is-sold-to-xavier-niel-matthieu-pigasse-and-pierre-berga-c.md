@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/28/le-monde-is-sold-to-xavier-niel-matthieu-pigasse-and-pierre-berga-c.html)  [JSON](/news/2010/06/28/le-monde-is-sold-to-xavier-niel-matthieu-pigasse-and-pierre-berga-c.json)  [XML](/news/2010/06/28/le-monde-is-sold-to-xavier-niel-matthieu-pigasse-and-pierre-berga-c.xml)  
+
 ### [2010-06-28](/news/2010/06/28/index.md)
 
+##### Le Monde
 # "Le Monde" is sold to Xavier Niel, Matthieu Pigasse and Pierre Berge. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/10442729.stm)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jun/28/tycoons-win-approval-of-le-monde-bid)

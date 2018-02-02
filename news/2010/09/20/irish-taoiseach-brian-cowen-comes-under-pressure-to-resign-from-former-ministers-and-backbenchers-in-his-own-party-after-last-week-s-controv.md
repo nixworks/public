@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/20/irish-taoiseach-brian-cowen-comes-under-pressure-to-resign-from-former-ministers-and-backbenchers-in-his-own-party-after-last-week-s-controv.html)  [JSON](/news/2010/09/20/irish-taoiseach-brian-cowen-comes-under-pressure-to-resign-from-former-ministers-and-backbenchers-in-his-own-party-after-last-week-s-controv.json)  [XML](/news/2010/09/20/irish-taoiseach-brian-cowen-comes-under-pressure-to-resign-from-former-ministers-and-backbenchers-in-his-own-party-after-last-week-s-controv.xml)  
+
 ### [2010-09-20](/news/2010/09/20/index.md)
 
+##### Taoiseach
 # Irish Taoiseach Brian Cowen comes under pressure to resign from former ministers and backbenchers in his own party after last week's controversial live radio interview with Cathal Mac Coille on "Morning Ireland". 
 
 The Irish Prime Minister Brian Cowen says he will continue to lead his country amid speculation over his political future.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11377050)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/sep/20/irish-pm-brian-cowen-drunk-allegations)

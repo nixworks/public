@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/24/france-is-to-build-two-warships-for-russia-in-a-new-deal.html)  [JSON](/news/2010/12/24/france-is-to-build-two-warships-for-russia-in-a-new-deal.json)  [XML](/news/2010/12/24/france-is-to-build-two-warships-for-russia-in-a-new-deal.xml)  
+
 ### [2010-12-24](/news/2010/12/24/index.md)
 
+##### France
 # France is to build two warships for Russia in a new deal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/europe/12/24/france.russia.navy/)
 2. [RIA Novosti](http://en.rian.ru/russia/20101224/161921890.html)

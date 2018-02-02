@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/3/toma-s-medina-caracas-known-by-his-nom-de-guerre-negro-acacio-one-of-farc-s-most-important-leaders-and-the-liaison-between-this-colomb.html)  [JSON](/news/2007/09/3/toma-s-medina-caracas-known-by-his-nom-de-guerre-negro-acacio-one-of-farc-s-most-important-leaders-and-the-liaison-between-this-colomb.json)  [XML](/news/2007/09/3/toma-s-medina-caracas-known-by-his-nom-de-guerre-negro-acacio-one-of-farc-s-most-important-leaders-and-the-liaison-between-this-colomb.xml)  
+
 ### [2007-09-3](/news/2007/09/3/index.md)
 
+##### Tomas Medina Caracas
 #  Tomas Medina Caracas (known by his nom de guerre "Negro Acacio"), one of FARC's most important leaders and the liaison between this Colombian guerrilla and Brazilian drug dealers, is killed in action by Colombian armed forces in Guaviare. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [El Tiempo](http://www.eltiempo.com/conflicto/noticias/ARTICULO-WEB-NOTA_INTERIOR-3705955.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/28/lawmakers-in-the-scottish-parliament-vote-in-fa
 
 ### [2017-03-28](/news/2017/03/28/index.md)
 
+##### Proposed second Scottish independence referendum
 # Lawmakers in the Scottish Parliament vote in favor of holding a second independence referendum for the country within two years. 
 
 Motion passed 69 votes to 59 and comes a day before the UK takes the formal step towards Brexit.

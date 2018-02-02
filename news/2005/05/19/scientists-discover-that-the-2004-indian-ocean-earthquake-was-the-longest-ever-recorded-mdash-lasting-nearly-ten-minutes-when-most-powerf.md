@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/19/scientists-discover-that-the-2004-indian-ocean-earthquake-was-the-longest-ever-recorded-mdash-lasting-nearly-ten-minutes-when-most-powerf.html)  [JSON](/news/2005/05/19/scientists-discover-that-the-2004-indian-ocean-earthquake-was-the-longest-ever-recorded-mdash-lasting-nearly-ten-minutes-when-most-powerf.json)  [XML](/news/2005/05/19/scientists-discover-that-the-2004-indian-ocean-earthquake-was-the-longest-ever-recorded-mdash-lasting-nearly-ten-minutes-when-most-powerf.xml)  
+
 ### [2005-05-19](/news/2005/05/19/index.md)
 
+##### 2004 Indian Ocean earthquake
 #  Scientists discover that the 2004 Indian Ocean earthquake was the longest ever recorded &mdash; lasting nearly ten minutes when most powerful earthquakes last no more than a few seconds &mdash; and shook the entire planet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/TECH/science/05/19/sumatra.quake/index.html)
 

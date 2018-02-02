@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/21/brazilian-anti-corruption-blogger-evany-josa-c-metzker-is-found-dead-after-investigating-a-drug-dealing-and-prostitution-case.html)  [JSON](/news/2015/05/21/brazilian-anti-corruption-blogger-evany-josa-c-metzker-is-found-dead-after-investigating-a-drug-dealing-and-prostitution-case.json)  [XML](/news/2015/05/21/brazilian-anti-corruption-blogger-evany-josa-c-metzker-is-found-dead-after-investigating-a-drug-dealing-and-prostitution-case.xml)  
+
 ### [2015-05-21](/news/2015/05/21/index.md)
 
+##### Brazilian
 # Brazilian anti-corruption blogger Evany Jose Metzker is found dead after investigating a drug dealing and prostitution case. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Weller](http://www.dw.de/brazilian-anti-corruption-blogger-evany-jos%C3%A9-metzker-found-dead/a-18464538)
 

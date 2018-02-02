@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/2/russia-expands-its-military-presence-in-syria-with-an-additional-airbase-that-can-accommodate-fixed-winged-military-aircraft-the-u-s-depar.html)  [JSON](/news/2015/12/2/russia-expands-its-military-presence-in-syria-with-an-additional-airbase-that-can-accommodate-fixed-winged-military-aircraft-the-u-s-depar.json)  [XML](/news/2015/12/2/russia-expands-its-military-presence-in-syria-with-an-additional-airbase-that-can-accommodate-fixed-winged-military-aircraft-the-u-s-depar.xml)  
+
 ### [2015-12-2](/news/2015/12/2/index.md)
 
+##### Syrian Civil War
 # Russia expands its military presence in Syria with an additional airbase that can accommodate fixed-winged military aircraft. The U.S. Department of Defense also confirms that Russia added S-400 surface-to-air missiles to its Syrian stockpile and armed its military aircraft with air-to-air missiles. According to Military Times, "A Pentagon spokesman expressed concern" these moves indicate Russia's commitment to aiding the embattled Assad regime as opposed to combating ISIL. No Syrian opposition groups including ISIL have combat-ready aircraft that require air-to-air missiles. 
 
 Russia has expanded its military operations in Syria to include a second airbase as well as other posts, according to a U.S. official briefed on the latest intelligence from the region – even as President Obama expresses muted optimism that Russian President Vladimir Putin eventually will “shift” his strategy and work with the West.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/politics/2015/12/01/russia-adding-2nd-airbase-in-syria-pursuing-expansion-in-military-campaign.html)
 2. [Military Times](http://www.militarytimes.com/story/military/pentagon/2015/11/30/new-russian-surface--air-missiles-syria-dod-confirms/76567120/)

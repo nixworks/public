@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/20/lieutenant-general-ousman-badjie-chief-of-the-g
 
 ### [2017-01-20](/news/2017/01/20/index.md)
 
+##### 2016-2017 Gambian constitutional crisis
 # Lieutenant General Ousman Badjie, chief of the Gambian army, recognizes Adama Barrow as the new commander-and-chief of the armed forces and says that his troops will not fight ECOWAS soldiers. 
 
 The Gambian strongman Yahya Jammeh has agreed to step down, officials involved in negotiations say.

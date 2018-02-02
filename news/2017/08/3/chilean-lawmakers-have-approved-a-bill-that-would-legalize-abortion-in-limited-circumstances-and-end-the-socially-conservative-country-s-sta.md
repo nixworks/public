@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/3/chilean-lawmakers-have-approved-a-bill-that-woul
 
 ### [2017-08-3](/news/2017/08/3/index.md)
 
+##### Abortion in Chile
 # Chilean lawmakers have approved a bill that would legalize abortion in limited circumstances and end the socially conservative country's status as the last in South America with a blanket ban on the procedure. 
 
 

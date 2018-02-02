@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/03/20/media-reports-in-the-people-s-republic-of-china-claim-that-former-chongqing-communist-party-boss-bo-xilai-interfered-in-a-police-investigati.html)  [JSON](/news/2012/03/20/media-reports-in-the-people-s-republic-of-china-claim-that-former-chongqing-communist-party-boss-bo-xilai-interfered-in-a-police-investigati.json)  [XML](/news/2012/03/20/media-reports-in-the-people-s-republic-of-china-claim-that-former-chongqing-communist-party-boss-bo-xilai-interfered-in-a-police-investigati.xml)  
+
 ### [2012-03-20](/news/2012/03/20/index.md)
 
+##### China
 # Media reports in the People's Republic of China claim that former Chongqing Communist Party boss Bo Xilai interfered in a police investigation into a family member before he was dismissed. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia_pacific/reports-chinese-politician-sacked-after-interfering-in-investigation-into-relatives/2012/03/19/gIQAxgTHOS_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia_pacific/reports-chinese-politician-sacked-after-interfering-in-investigation-into-relatives/2012/03/19/gIQAxgTHOS_story.html)
 
 ### Related:
 

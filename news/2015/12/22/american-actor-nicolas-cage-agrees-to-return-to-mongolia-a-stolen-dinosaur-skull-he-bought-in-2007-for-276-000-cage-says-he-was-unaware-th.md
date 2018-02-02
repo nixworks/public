@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/12/22/american-actor-nicolas-cage-agrees-to-return-to-mongolia-a-stolen-dinosaur-skull-he-bought-in-2007-for-276-000-cage-says-he-was-unaware-th.html)  [JSON](/news/2015/12/22/american-actor-nicolas-cage-agrees-to-return-to-mongolia-a-stolen-dinosaur-skull-he-bought-in-2007-for-276-000-cage-says-he-was-unaware-th.json)  [XML](/news/2015/12/22/american-actor-nicolas-cage-agrees-to-return-to-mongolia-a-stolen-dinosaur-skull-he-bought-in-2007-for-276-000-cage-says-he-was-unaware-th.xml)  
+
 ### [2015-12-22](/news/2015/12/22/index.md)
 
+##### Nicolas Cage
 # American actor Nicolas Cage agrees to return to Mongolia a stolen dinosaur skull he bought in 2007 for $276,000. Cage says he was unaware the skull had entered the country illegally. 
 
-Cage bought the $276k skull from a Beverly Hills Gallery in 2007.
 
 
-### Source:
+
+### Sources:
 
 1. [Reuters](http://www.msn.com/en-us/movies/celebrity/actor-nicolas-cage-returns-stolen-dinosaur-skull-he-bought/ar-BBnNWxx?li=BBnb7Kz&ocid=iehp)
-2. [USA Today](http://www.usatoday.com/story/life/2015/12/22/nicolas-cage-returns-stolen-dinosaur-skull-mongolian-government/77743080/)
+2. [USA Today](https://www.usatoday.com/story/life/2015/12/22/nicolas-cage-returns-stolen-dinosaur-skull-mongolian-government/77743080/)
 2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

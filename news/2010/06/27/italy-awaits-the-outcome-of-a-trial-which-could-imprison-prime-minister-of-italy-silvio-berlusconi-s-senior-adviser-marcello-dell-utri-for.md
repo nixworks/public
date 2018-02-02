@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/06/27/italy-awaits-the-outcome-of-a-trial-which-could-imprison-prime-minister-of-italy-silvio-berlusconi-s-senior-adviser-marcello-dell-utri-for.html)  [JSON](/news/2010/06/27/italy-awaits-the-outcome-of-a-trial-which-could-imprison-prime-minister-of-italy-silvio-berlusconi-s-senior-adviser-marcello-dell-utri-for.json)  [XML](/news/2010/06/27/italy-awaits-the-outcome-of-a-trial-which-could-imprison-prime-minister-of-italy-silvio-berlusconi-s-senior-adviser-marcello-dell-utri-for.xml)  
+
 ### [2010-06-27](/news/2010/06/27/index.md)
 
+##### Italy
 # Italy awaits the outcome of a trial which could imprison Prime Minister of Italy Silvio Berlusconi's senior adviser, Marcello Dell'Utri, for 11 years. 
 
 Italy was yesterday tensely awaiting the outcome of a trial which could send Prime Minister Silvio Berlusconi&#039;s right-hand man to jail for 11 years.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/berlusconi-braced-for-verdict-over-allys-mafia-links-2011539.html)
+1. [The Independent](https://www.independent.co.uk/news/world/europe/berlusconi-braced-for-verdict-over-allys-mafia-links-2011539.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/06/26/20/401879.bin)
 
 ### Related:

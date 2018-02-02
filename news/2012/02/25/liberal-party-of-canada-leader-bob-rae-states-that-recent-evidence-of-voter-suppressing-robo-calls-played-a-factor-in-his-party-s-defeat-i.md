@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/25/liberal-party-of-canada-leader-bob-rae-states-that-recent-evidence-of-voter-suppressing-robo-calls-played-a-factor-in-his-party-s-defeat-i.html)  [JSON](/news/2012/02/25/liberal-party-of-canada-leader-bob-rae-states-that-recent-evidence-of-voter-suppressing-robo-calls-played-a-factor-in-his-party-s-defeat-i.json)  [XML](/news/2012/02/25/liberal-party-of-canada-leader-bob-rae-states-that-recent-evidence-of-voter-suppressing-robo-calls-played-a-factor-in-his-party-s-defeat-i.xml)  
+
 ### [2012-02-25](/news/2012/02/25/index.md)
 
+##### Liberal Party's
 # Liberal Party of Canada leader Bob Rae states that recent evidence of voter suppressing "robo-calls" played a factor in his party's defeat in the 2011 Canadian federal election. 
 
 Voter suppression tactics, including a pattern of harassing phone calls, were a factor in the Liberal party&amp;#8217;s defeat in the last election, says interim leader Bob Rae.
 
 
-### Source:
+### Sources:
 
 1. [The Gazette](http://www.montrealgazette.com/news/Ontario+calls+robocalls+shameful+tactic/6210044/story.html)
 1. [Cover Image](http://www.montrealgazette.com/cms/binary/6210283.jpg)

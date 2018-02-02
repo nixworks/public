@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/17/15-people-are-killed-in-target-killing-in-quetta-pakistan.html)  [JSON](/news/2010/10/17/15-people-are-killed-in-target-killing-in-quetta-pakistan.json)  [XML](/news/2010/10/17/15-people-are-killed-in-target-killing-in-quetta-pakistan.xml)  
+
 ### [2010-10-17](/news/2010/10/17/index.md)
 
+##### Quetta
 # 15 people are killed in target killing in Quetta, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/photo/2010-10/17/c_13561423.htm)
 

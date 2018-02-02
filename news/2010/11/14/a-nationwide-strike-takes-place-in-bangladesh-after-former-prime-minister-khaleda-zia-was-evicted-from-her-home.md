@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/14/a-nationwide-strike-takes-place-in-bangladesh-after-former-prime-minister-khaleda-zia-was-evicted-from-her-home.html)  [JSON](/news/2010/11/14/a-nationwide-strike-takes-place-in-bangladesh-after-former-prime-minister-khaleda-zia-was-evicted-from-her-home.json)  [XML](/news/2010/11/14/a-nationwide-strike-takes-place-in-bangladesh-after-former-prime-minister-khaleda-zia-was-evicted-from-her-home.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### Bangladesh
 # A nationwide strike takes place in Bangladesh after former Prime Minister Khaleda Zia was evicted from her home. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/11/201011144385918519.html)
 2. [Hindustan Times](http://www.hindustantimes.com/Strike-in-Bangladesh-over-Khaleda-Zia-s-eviction/Article1-626005.aspx)

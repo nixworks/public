@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/17/al-shabaab-captures-jowhar-somalia-from-the-transitional-federal-government.html)  [JSON](/news/2009/05/17/al-shabaab-captures-jowhar-somalia-from-the-transitional-federal-government.json)  [XML](/news/2009/05/17/al-shabaab-captures-jowhar-somalia-from-the-transitional-federal-government.xml)  
+
 ### [2009-05-17](/news/2009/05/17/index.md)
 
+##### Al-Shabaab
 #  Al-Shabaab captures Jowhar, Somalia, from the Transitional Federal Government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8054179.stm)
 

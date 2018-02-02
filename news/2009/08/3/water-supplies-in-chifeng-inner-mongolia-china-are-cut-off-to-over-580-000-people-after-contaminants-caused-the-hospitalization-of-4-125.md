@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/3/water-supplies-in-chifeng-inner-mongolia-china-are-cut-off-to-over-580-000-people-after-contaminants-caused-the-hospitalization-of-4-125.html)  [JSON](/news/2009/08/3/water-supplies-in-chifeng-inner-mongolia-china-are-cut-off-to-over-580-000-people-after-contaminants-caused-the-hospitalization-of-4-125.json)  [XML](/news/2009/08/3/water-supplies-in-chifeng-inner-mongolia-china-are-cut-off-to-over-580-000-people-after-contaminants-caused-the-hospitalization-of-4-125.xml)  
+
 ### [2009-08-3](/news/2009/08/3/index.md)
 
+##### Chifeng
 #  Water supplies in Chifeng, Inner Mongolia, China, are cut off to over 580,000 people after contaminants caused the hospitalization of 4,125 people due to gastrointestinal illness. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jf2aNbvIvw_7qLNgC65D4qc0rWWAD99O1Q8G0)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-08/01/content_11810930.htm)

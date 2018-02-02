@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/25/the-northern-ireland-assembly-dissolves-ahead-of-may-elections.html)  [JSON](/news/2011/03/25/the-northern-ireland-assembly-dissolves-ahead-of-may-elections.json)  [XML](/news/2011/03/25/the-northern-ireland-assembly-dissolves-ahead-of-may-elections.xml)  
+
 ### [2011-03-25](/news/2011/03/25/index.md)
 
+##### Northern Ireland Assembly
 # The Northern Ireland Assembly dissolves ahead of May elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12857032)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

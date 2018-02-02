@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/12/three-people-are-sentenced-to-death-and-one-person-given-a-life-sentence-for-the-2014-kunming-attack-in-china-s-xinjiang-region.html)  [JSON](/news/2014/09/12/three-people-are-sentenced-to-death-and-one-person-given-a-life-sentence-for-the-2014-kunming-attack-in-china-s-xinjiang-region.json)  [XML](/news/2014/09/12/three-people-are-sentenced-to-death-and-one-person-given-a-life-sentence-for-the-2014-kunming-attack-in-china-s-xinjiang-region.xml)  
+
 ### [2014-09-12](/news/2014/09/12/index.md)
 
+##### 2014 Kunming attack
 # Three people are sentenced to death and one person given a life sentence for the 2014 Kunming attack in China's Xinjiang region. 
 
 Three people have been condemned to death and one given life in prison for a mass stabbing that killed 31 people in China, state television says, an attack authorities blamed on separatists from largely Muslim Xinjiang.
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS News](http://www.sbs.com.au/news/article/2014/09/12/chinese-attackers-who-killed-31-get-death-sentence)
 1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/xinjiang_trial_120914_aap.jpg)

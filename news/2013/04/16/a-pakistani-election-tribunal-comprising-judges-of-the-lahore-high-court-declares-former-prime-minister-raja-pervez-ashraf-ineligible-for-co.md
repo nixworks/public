@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/16/a-pakistani-election-tribunal-comprising-judges-of-the-lahore-high-court-declares-former-prime-minister-raja-pervez-ashraf-ineligible-for-co.html)  [JSON](/news/2013/04/16/a-pakistani-election-tribunal-comprising-judges-of-the-lahore-high-court-declares-former-prime-minister-raja-pervez-ashraf-ineligible-for-co.json)  [XML](/news/2013/04/16/a-pakistani-election-tribunal-comprising-judges-of-the-lahore-high-court-declares-former-prime-minister-raja-pervez-ashraf-ineligible-for-co.xml)  
+
 ### [2013-04-16](/news/2013/04/16/index.md)
 
+##### Pakistan
 # A Pakistani election tribunal comprising judges of the Lahore High Court declares former Prime Minister Raja Pervez Ashraf ineligible for contesting the upcoming general election. 
 
 The tribunal comprising judges of the Lahore High Court upheld a Returning Officer&#039;s decision to reject nomination papers filed by Ashraf to contest polls from a parliamentary constituency in his hometown of Gujjar Khan.
 
 
-### Source:
+### Sources:
 
 1. [PTI via FirstPost](http://www.firstpost.com/world/former-pak-pm-ashraf-declared-ineligible-for-contesting-polls-701794.html)
 1. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2013/04/RajaAshrafPTI380.jpg)

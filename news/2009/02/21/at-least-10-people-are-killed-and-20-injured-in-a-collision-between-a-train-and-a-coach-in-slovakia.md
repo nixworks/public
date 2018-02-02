@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/21/at-least-10-people-are-killed-and-20-injured-in-a-collision-between-a-train-and-a-coach-in-slovakia.html)  [JSON](/news/2009/02/21/at-least-10-people-are-killed-and-20-injured-in-a-collision-between-a-train-and-a-coach-in-slovakia.json)  [XML](/news/2009/02/21/at-least-10-people-are-killed-and-20-injured-in-a-collision-between-a-train-and-a-coach-in-slovakia.xml)  
+
 ### [2009-02-21](/news/2009/02/21/index.md)
 
+##### collision
 #  At least 10 people are killed and 20 injured in a collision between a train and a coach in Slovakia. 
 
 At least 10 people have been killed and 20 injured in a collision between a train and a tourist coach in central Slovakia.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0221/slovakia.html)
 1. [Cover Image](https://img.rasset.ie/00021633-1600.jpg)

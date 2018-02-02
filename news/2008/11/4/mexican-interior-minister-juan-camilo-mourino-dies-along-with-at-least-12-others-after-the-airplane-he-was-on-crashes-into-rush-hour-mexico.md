@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/4/mexican-interior-minister-juan-camilo-mourino-dies-along-with-at-least-12-others-after-the-airplane-he-was-on-crashes-into-rush-hour-mexico.html)  [JSON](/news/2008/11/4/mexican-interior-minister-juan-camilo-mourino-dies-along-with-at-least-12-others-after-the-airplane-he-was-on-crashes-into-rush-hour-mexico.json)  [XML](/news/2008/11/4/mexican-interior-minister-juan-camilo-mourino-dies-along-with-at-least-12-others-after-the-airplane-he-was-on-crashes-into-rush-hour-mexico.xml)  
+
 ### [2008-11-4](/news/2008/11/4/index.md)
 
+##### Mexico
 #  Mexican Interior Minister Juan Camilo Mourio dies along with at least 12 others after the airplane he was on crashes into rush-hour Mexico City traffic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7709877.stm)
 

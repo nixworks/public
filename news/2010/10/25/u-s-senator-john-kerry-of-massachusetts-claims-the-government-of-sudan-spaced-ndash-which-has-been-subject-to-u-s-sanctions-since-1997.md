@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/25/u-s-senator-john-kerry-of-massachusetts-claims-the-government-of-sudan-spaced-ndash-which-has-been-subject-to-u-s-sanctions-since-1997.html)  [JSON](/news/2010/10/25/u-s-senator-john-kerry-of-massachusetts-claims-the-government-of-sudan-spaced-ndash-which-has-been-subject-to-u-s-sanctions-since-1997.json)  [XML](/news/2010/10/25/u-s-senator-john-kerry-of-massachusetts-claims-the-government-of-sudan-spaced-ndash-which-has-been-subject-to-u-s-sanctions-since-1997.xml)  
+
 ### [2010-10-25](/news/2010/10/25/index.md)
 
+##### United States Senate
 # U.S. Senator John Kerry of Massachusetts claims the government of Sudan{{spaced ndash}}which has been subject to U.S. sanctions since 1997{{spaced ndash}}has assured him it will hold a referendum on independence for the south. 
 
 US Senator John Kerry says Sudan has assured him it will hold a referendum on independence for the south and is committed to the outcome.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11616882)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/25/c_13573246.htm)

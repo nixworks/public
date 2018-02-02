@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2009/12/21/at-least-10-people-are-killed-in-a-rain-of-mortar-shells-during-the-first-meeting-of-mps-in-mogadishu-since-august-2009.html)  [JSON](/news/2009/12/21/at-least-10-people-are-killed-in-a-rain-of-mortar-shells-during-the-first-meeting-of-mps-in-mogadishu-since-august-2009.json)  [XML](/news/2009/12/21/at-least-10-people-are-killed-in-a-rain-of-mortar-shells-during-the-first-meeting-of-mps-in-mogadishu-since-august-2009.xml)  
+
 ### [2009-12-21](/news/2009/12/21/index.md)
 
+##### Mogadishu
 #  At least 10 people are killed in a rain of mortar shells during the first meeting of MPs in Mogadishu since August 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hhtZ4B0Vz3HYrvZfBTTHtuTeyvfg)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8424945.stm)
 
 ### Related:
 
-1. [At least 276 people are killed when a truck filled with explosives detonates outside a hotel in the capital Mogadishu, becoming the worst terrorist attack in Somalia's history. ](/news/2017/10/14/at-least-276-people-are-killed-when-a-truck-filled-with-explosives-detonates-outside-a-hotel-in-the-capital-mogadishu-becoming-the-worst-te.md) _Context: Mogadishu_
-2. [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md) _Context: Mogadishu_
-3. [United States-supported Somali forces shoot and kill 10 Somalis, including three children, in Lower Shebelle's Bariire village near Mogadishu. While the Somalia government reports the other dead were members of the al Shabaab militia, Lower Shabelle deputy governor Ali Nur Mohamed says the victims were all civilians, farm owners, workers and their children. The U.S. Africa Command says they are investigating these civilian casualties reports. ](/news/2017/08/25/united-states-supported-somali-forces-shoot-and-kill-10-somalis-including-three-children-in-lower-shebelle-s-bariire-village-near-mogadish.md) _Context: Mogadishu_
-4. [A car bomb explodes near a police station in Mogadishu, killing at least six people and wounding thirteen others. ](/news/2017/07/30/a-car-bomb-explodes-near-a-police-station-in-mogadishu-killing-at-least-six-people-and-wounding-thirteen-others.md) _Context: Mogadishu_
-5. [A suicide bomber explodes a car bomb near a hotel, al-Shabaab militants then storm the hotel and a pizza restaurant, killing least 20 people and taking others hostage, in Somalia's capital Mogadishu. All five attackers are later killed. ](/news/2017/06/14/a-suicide-bomber-explodes-a-car-bomb-near-a-hotel-al-shabaab-militants-then-storm-the-hotel-and-a-pizza-restaurant-killing-least-20-people.md) _Context: Mogadishu_
+1. [President Mohamed Abdullahi Mohamed fires Taabit Abdi Mohamed as mayor of Mogadishu and replaces him with his information minister, Abdirahman Omar Osman. ](/news/2018/01/21/president-mohamed-abdullahi-mohamed-fires-taabit-abdi-mohamed-as-mayor-of-mogadishu-and-replaces-him-with-his-information-minister-abdirahm.md) _Context: Mogadishu_
+2. [A Somali committee determined that the death toll of the twin bombing in Mogadishu last October is way higher than expected, rising up to 512. This makes the attack the third-deadliest terrorist attack worldwide. ](/news/2017/11/30/a-somali-committee-determined-that-the-death-toll-of-the-twin-bombing-in-mogadishu-last-october-is-way-higher-than-expected-rising-up-to-51.md) _Context: Mogadishu_
+3. [Two car bombs kill at least 25 people, mostly police officers, near the national theater area in Mogadishu, Somalia, two weeks after a similar attack killed hundreds. Islamist group Al-Shabaab claims responsibility. ](/news/2017/10/28/two-car-bombs-kill-at-least-25-people-mostly-police-officers-near-the-national-theater-area-in-mogadishu-somalia-two-weeks-after-a-simil.md) _Context: Mogadishu_
+4. [At least 276 people are killed when a truck filled with explosives detonates outside a hotel in the capital Mogadishu, becoming the worst terrorist attack in Somalia's history. ](/news/2017/10/14/at-least-276-people-are-killed-when-a-truck-filled-with-explosives-detonates-outside-a-hotel-in-the-capital-mogadishu-becoming-the-worst-te.md) _Context: Mogadishu_
+5. [Al-Shabaab militants attack a military base outside the Somalian capital Mogadishu, with 15 soldiers reported dead. ](/news/2017/09/29/al-shabaab-militants-attack-a-military-base-outside-the-somalian-capital-mogadishu-with-15-soldiers-reported-dead.md) _Context: Mogadishu_

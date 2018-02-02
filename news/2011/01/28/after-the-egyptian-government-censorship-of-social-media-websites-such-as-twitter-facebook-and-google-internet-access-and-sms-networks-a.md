@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/after-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet-access-and-sms-networks-a.html)  [JSON](/news/2011/01/28/after-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet-access-and-sms-networks-a.json)  [XML](/news/2011/01/28/after-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet-access-and-sms-networks-a.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### Twitter
 # After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. 
 
 Egypt goes off the digital map as authorities unplug the country entirely from the internet ahead of protests.
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5j_HtoUpZESmxi29XQuPSArRleeAg?docId=16db91b173054d869328330f9803a85b)
 2. [AP](http://video.ap.org/?f=None&pid=oT7qj_wiVHTbYae3scwok4_irYjJ2R8Z)
@@ -40,20 +44,20 @@ Egypt goes off the digital map as authorities unplug the country entirely from t
 31. [The Wall Street Journal](http://blogs.wsj.com/dispatch/2011/01/28/clinton-says-egypt-must-listen-to-people/)
 32. [The Washington Post](http://voices.washingtonpost.com/right-turn/2011/01/obama_blowing_it_again_in_the.html)
 33. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2011/01/watch-aljazeera-live-coverage-of-egyptian-protests-in-english/1)
-34. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/01/25/AR2011012500866.html?hpid=topnews)
+34. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2011/01/25/AR2011012500866.html?hpid=topnews)
 35. [iloubnan.info](http://www.iloubnan.info/politics/actualite/id/55191/titre/Egypt:-NDP-ruling-party-headquarters-set-on-fire-in-Cairo)
 35. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/28/201112875331921784_20.jpg)
-
-### Related:
-
-1. [ Facebook, Google, and Twitter executives have been asked to testify before the House of Representatives Intelligence Committee in October and the Senate Intelligence Committee on November 1, according to committee sources. ](/news/2017/09/27/facebook-google-and-twitter-executives-have-been-asked-to-testify-before-the-house-of-representatives-intelligence-committee-in-october-a.md) _Context: Facebook, Google, Twitter_
-2. [The father of Cal State Long Beach student Nohemi Gonzalez, the only American killed in the November 13, 2015, Paris massacre, files suit in San Francisco, California, federal court against Twitter, Facebook, and Google, alleging the companies provided "material support" to the Islamic State and other extremist groups. While generally free of liability under U.S. law which provides a legal "safe harbor" for content posted, this case targets the behavior social media companies enable. The suit is very similar to a case brought against Twitter in January by the widow of a contractor killed in the November 9, 2015, attack in Jordan. ](/news/2016/06/15/the-father-of-cal-state-long-beach-student-nohemi-gonzalez-the-only-american-killed-in-the-november-13-2015-paris-massacre-files-suit-in.md) _Context: Facebook, Google, Twitter_
-3. [Facebook, Inc. announces that its social media service now has 2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. ](/news/2017/06/27/facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-the-world-s-population-twitt.md) _Context: Facebook, Twitter_
-4. [The United States Federal Communications Commission rejects privacy advocacy group Consumer Watchdog's petition to make it illegal for Internet companies like Google, Facebook and ad providers to ignore "Do Not Track" browser settings. ](/news/2015/11/6/the-united-states-federal-communications-commission-rejects-privacy-advocacy-group-consumer-watchdog-s-petition-to-make-it-illegal-for-inter.md) _Context: Facebook, Google_
-5. [The European Court of Justice decides an international agreement, generally known as a Safe Harbor rule, used by thousands of companies for moving people's digital data between the European Union and the United States is invalid, effective immediately. The decision throws into doubt how global technology giants like Facebook, Amazon and Google can collect, manage, and analyze online information from their millions of users in the 28-member bloc. Decisions by this court, the highest legal authority in the EU, cannot be appealed. ](/news/2015/10/6/the-european-court-of-justice-decides-an-international-agreement-generally-known-as-a-safe-harbor-rule-used-by-thousands-of-companies-for.md) _Context: Facebook, Google_
 
 ### Changes:
 
 1. [2011 Egyptian protests:After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/2011-egyptian-protests-pafter-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet-a.md) _2017-08-25 03:31:57 (First version)_
 2. [2011 Egyptian protests:: After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/2011-egyptian-protests-after-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet.md) _2017-08-27 03:32:05 (Update)_
 2. [After the Egyptian government censorship of social media websites (such as Twitter, Facebook and Google), internet access and SMS networks are cut off in response to anti-government protests. ](/news/2011/01/28/after-the-egyptian-government-censorship-of-social-media-websites-such-as-twitter-facebook-and-google-internet-access-and-sms-networks-a.md) _(Current version)_
+
+### Related:
+
+1. [U.S. senators question lawyers representing Facebook, Twitter and Google about Russian activity on their platforms during the 2016 United States presidential election. ](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.md) _Context: Facebook, Google, Twitter_
+2. [ Facebook, Google, and Twitter executives have been asked to testify before the House of Representatives Intelligence Committee in October and the Senate Intelligence Committee on November 1, according to committee sources. ](/news/2017/09/27/facebook-google-and-twitter-executives-have-been-asked-to-testify-before-the-house-of-representatives-intelligence-committee-in-october-a.md) _Context: Facebook, Google, Twitter_
+3. [The father of Cal State Long Beach student Nohemi Gonzalez, the only American killed in the November 13, 2015, Paris massacre, files suit in San Francisco, California, federal court against Twitter, Facebook, and Google, alleging the companies provided "material support" to the Islamic State and other extremist groups. While generally free of liability under U.S. law which provides a legal "safe harbor" for content posted, this case targets the behavior social media companies enable. The suit is very similar to a case brought against Twitter in January by the widow of a contractor killed in the November 9, 2015, attack in Jordan. ](/news/2016/06/15/the-father-of-cal-state-long-beach-student-nohemi-gonzalez-the-only-american-killed-in-the-november-13-2015-paris-massacre-files-suit-in.md) _Context: Facebook, Google, Twitter_
+4. [Facebook, Inc. announces that its social media service now has 2 billion regular users, more than a quarter of the world's population. Twitter, by comparison, has 328 million users as of April 2017. ](/news/2017/06/27/facebook-inc-announces-that-its-social-media-service-now-has-2-billion-regular-users-more-than-a-quarter-of-the-world-s-population-twitt.md) _Context: Facebook, Twitter_
+5. [The United States Federal Communications Commission rejects privacy advocacy group Consumer Watchdog's petition to make it illegal for Internet companies like Google, Facebook and ad providers to ignore "Do Not Track" browser settings. ](/news/2015/11/6/the-united-states-federal-communications-commission-rejects-privacy-advocacy-group-consumer-watchdog-s-petition-to-make-it-illegal-for-inter.md) _Context: Facebook, Google_

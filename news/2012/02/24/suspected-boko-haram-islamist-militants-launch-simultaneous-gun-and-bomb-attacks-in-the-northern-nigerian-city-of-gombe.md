@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/24/suspected-boko-haram-islamist-militants-launch-simultaneous-gun-and-bomb-attacks-in-the-northern-nigerian-city-of-gombe.html)  [JSON](/news/2012/02/24/suspected-boko-haram-islamist-militants-launch-simultaneous-gun-and-bomb-attacks-in-the-northern-nigerian-city-of-gombe.json)  [XML](/news/2012/02/24/suspected-boko-haram-islamist-militants-launch-simultaneous-gun-and-bomb-attacks-in-the-northern-nigerian-city-of-gombe.xml)  
+
 ### [2012-02-24](/news/2012/02/24/index.md)
 
+##### Boko Haram
 # Suspected Boko Haram Islamist militants launch simultaneous gun and bomb attacks in the northern Nigerian city of Gombe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/world-news/Africa/Nigerian-prison-police-station-under-gun-bomb-attack/Article1-816752.aspx)
 

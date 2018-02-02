@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/03/30/queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.html)  [JSON](/news/2015/03/30/queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.json)  [XML](/news/2015/03/30/queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.xml)  
+
 ### [2015-03-30](/news/2015/03/30/index.md)
 
+##### newly elected
 # Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/03/29/us-britain-election-idUSKBN0MP0ZW20150329)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150329&t=2&i=1036395802&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2S0I6)
+1. [Reuters](https://www.reuters.com/article/2015/03/29/us-britain-election-idUSKBN0MP0ZW20150329)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150329&t=2&i=1036395802&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB2S0I6)
+
+### Changes:
+
+1. [United Kingdom general election, 2015: Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. ](/news/2015/03/30/united-kingdom-general-election-2015-queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.md) _2017-08-27 03:42:08 (First version)_
+1. [Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. ](/news/2015/03/30/queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Buckingham Palace announces that 95-year-old Prince Philip, Duke of Edinburgh, the Prince consort of Queen Elizabeth II, will retire from royal duties in August. ](/news/2017/05/4/buckingham-palace-announces-that-95-year-old-prince-philip-duke-of-edinburgh-the-prince-consort-of-queen-elizabeth-ii-will-retire-from-ro.md) _Context: Elizabeth II_
 4. [Queen Elizabeth II celebrates her 91st birthday. ](/news/2017/04/21/queen-elizabeth-ii-celebrates-her-91st-birthday.md) _Context: Elizabeth II_
 5. [Queen Elizabeth II marks her 65th anniversary as sovereign, making her the only British monarch to commemorate a Sapphire Jubilee. ](/news/2017/02/6/queen-elizabeth-ii-marks-her-65th-anniversary-as-sovereign-making-her-the-only-british-monarch-to-commemorate-a-sapphire-jubilee.md) _Context: Elizabeth II_
-
-### Changes:
-
-1. [United Kingdom general election, 2015: Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. ](/news/2015/03/30/united-kingdom-general-election-2015-queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.md) _2017-08-27 03:42:08 (First version)_
-1. [Queen Elizabeth II dissolves the Parliament and calls a general election for May 7. ](/news/2015/03/30/queen-elizabeth-ii-dissolves-the-parliament-and-calls-a-general-election-for-may-7.md) _(Current version)_

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/22/enron-corporation-richard-causey-former-chief-accounting-officer-was-indicted-in-houston-texas-on-federal-charges-of-securities-fraud-a.html)  [JSON](/news/2004/01/22/enron-corporation-richard-causey-former-chief-accounting-officer-was-indicted-in-houston-texas-on-federal-charges-of-securities-fraud-a.json)  [XML](/news/2004/01/22/enron-corporation-richard-causey-former-chief-accounting-officer-was-indicted-in-houston-texas-on-federal-charges-of-securities-fraud-a.xml)  
+
 ### [2004-01-22](/news/2004/01/22/index.md)
 
+##### Enron Corporation
 #  Enron Corporation: Richard Causey, former chief accounting officer was indicted in Houston, Texas, on federal charges of securities fraud and conspiracy for his role in masking Enron's faltering fiscal health in late 2001. He has pled not guilty.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/14/a-firefighter-is-killed-while-battling-the-thom
 
 ### [2017-12-14](/news/2017/12/14/index.md)
 
+##### Southern California wildfires
 # A firefighter is killed while battling the Thomas Fire, the second death linked to the fourth largest wildfire in California history. 
 
 The death occurred Thursday as officials responded to what is now the fourth-biggest California wildfire on record.

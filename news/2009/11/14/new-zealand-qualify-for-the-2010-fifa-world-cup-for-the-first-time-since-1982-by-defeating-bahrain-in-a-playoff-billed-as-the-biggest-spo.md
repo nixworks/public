@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/14/new-zealand-qualify-for-the-2010-fifa-world-cup-for-the-first-time-since-1982-by-defeating-bahrain-in-a-playoff-billed-as-the-biggest-spo.html)  [JSON](/news/2009/11/14/new-zealand-qualify-for-the-2010-fifa-world-cup-for-the-first-time-since-1982-by-defeating-bahrain-in-a-playoff-billed-as-the-biggest-spo.json)  [XML](/news/2009/11/14/new-zealand-qualify-for-the-2010-fifa-world-cup-for-the-first-time-since-1982-by-defeating-bahrain-in-a-playoff-billed-as-the-biggest-spo.xml)  
+
 ### [2009-11-14](/news/2009/11/14/index.md)
 
+##### New Zealand national football team
 #  New Zealand qualify for the 2010 FIFA World Cup for the first time since 1982, by defeating Bahrain in a playoff billed as "the biggest sporting event ever staged in New Zealand" and the country's most attended football match ever. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arabnews](http://www.arabnews.com/?page=8&section=0&article=128476&d=15&m=11&y=2009)
 2. [BBC](http://news.bbc.co.uk/sport2/hi/football/internationals/8360167.stm)

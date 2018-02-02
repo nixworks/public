@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/25/pope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.html)  [JSON](/news/2010/03/25/pope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.json)  [XML](/news/2010/03/25/pope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.xml)  
+
 ### [2010-03-25](/news/2010/03/25/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. 
 
 Bishop of Waterford &amp; Lismore Dr William Lee has described as &#39;seriously inadequate&#39; his handling of child sexual abuse allegations.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/03/201032591253155272.html)
 2. [BBC News](http://news.bbc.co.uk/2/hi/americas/8587082.stm)
@@ -16,8 +20,14 @@ Bishop of Waterford &amp; Lismore Dr William Lee has described as &#39;seriously
 7. [RTÉ](http://www.rte.ie/news/2010/0325/abuse.html)
 8. [The Hindu](http://beta.thehindu.com/news/international/article304891.ece)
 9. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0325/breaking8.html)
-10. [The New York Times](http://www.nytimes.com/2010/03/26/world/europe/26vatican.html)
+10. [The New York Times](https://www.nytimes.com/2010/03/26/world/europe/26vatican.html)
 10. [Cover Image](https://img.rasset.ie/0002cbec-1600.jpg)
+
+### Changes:
+
+1. [Child sex abuse in the Catholic Church:Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/child-sex-abuse-in-the-catholic-church-ppope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md) _2017-08-25 03:27:28 (First version)_
+2. [Child sex abuse in the Catholic Church:: Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/child-sex-abuse-in-the-catholic-church-pope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md) _2017-08-27 03:27:24 (Update)_
+2. [Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/pope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md) _(Current version)_
 
 ### Related:
 
@@ -26,9 +36,3 @@ Bishop of Waterford &amp; Lismore Dr William Lee has described as &#39;seriously
 3. [Canadian Prime Minister Justin Trudeau asks Pope Francis for a public apology for the Roman Catholic Church's role in the abuse of indigenous children in the residential school system. In 2009, Pope Benedict XVI issued an expression of sorrow after an audience with Assembly of First Nations Chief Phil Fontaine. ](/news/2017/05/29/canadian-prime-minister-justin-trudeau-asks-pope-francis-for-a-public-apology-for-the-roman-catholic-church-s-role-in-the-abuse-of-indigenou.md) _Context: Pope Benedict XVI_
 4. [The Vatican commission on sexual abuse announces that Peter Saunders, a sexual abuse survivor from the U.K., is suspended from commission proceedings. "I am not leaving my position," Saunders said, adding only the person who appointed him, the Pope, can dismiss him. ](/news/2016/02/6/the-vatican-commission-on-sexual-abuse-announces-that-peter-saunders-a-sexual-abuse-survivor-from-the-u-k-is-suspended-from-commission-pr.md) _Context: sexual abuse_
 5. [Pope Francis creates 19 new cardinals in a ceremony at St Peter's Basilica in Rome. In addition, the Pope emeritus Benedict XVI makes his first public appearance at the Vatican since his resignation in 2013. ](/news/2014/02/22/pope-francis-creates-19-new-cardinals-in-a-ceremony-at-st-peter-s-basilica-in-rome-in-addition-the-pope-emeritus-benedict-xvi-makes-his-fi.md) _Context: Pope Benedict XVI_
-
-### Changes:
-
-1. [Child sex abuse in the Catholic Church:Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/child-sex-abuse-in-the-catholic-church-ppope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md) _2017-08-25 03:27:28 (First version)_
-2. [Child sex abuse in the Catholic Church:: Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/child-sex-abuse-in-the-catholic-church-pope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md) _2017-08-27 03:27:24 (Update)_
-2. [Pope Benedict XVI is accused of failing to act in a case of the sexual abuse of 200 deaf boys. ](/news/2010/03/25/pope-benedict-xvi-is-accused-of-failing-to-act-in-a-case-of-the-sexual-abuse-of-200-deaf-boys.md) _(Current version)_

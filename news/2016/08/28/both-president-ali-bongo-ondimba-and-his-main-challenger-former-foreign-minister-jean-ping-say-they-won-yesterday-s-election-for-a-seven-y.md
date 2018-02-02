@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/28/both-president-ali-bongo-ondimba-and-his-main-c
 
 ### [2016-08-28](/news/2016/08/28/index.md)
 
+##### Gabonese presidential election, 2016
 # Both President Ali Bongo Ondimba and his main challenger, former Foreign Minister Jean Ping, say they won yesterday's election for a seven-year term as president. Official results are expected Tuesday. 
 
 

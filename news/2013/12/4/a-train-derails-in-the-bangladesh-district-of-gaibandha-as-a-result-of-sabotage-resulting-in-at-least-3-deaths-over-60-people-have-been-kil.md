@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/4/a-train-derails-in-the-bangladesh-district-of-gaibandha-as-a-result-of-sabotage-resulting-in-at-least-3-deaths-over-60-people-have-been-kil.html)  [JSON](/news/2013/12/4/a-train-derails-in-the-bangladesh-district-of-gaibandha-as-a-result-of-sabotage-resulting-in-at-least-3-deaths-over-60-people-have-been-kil.json)  [XML](/news/2013/12/4/a-train-derails-in-the-bangladesh-district-of-gaibandha-as-a-result-of-sabotage-resulting-in-at-least-3-deaths-over-60-people-have-been-kil.xml)  
+
 ### [2013-12-4](/news/2013/12/4/index.md)
 
+##### Bangladesh
 # A train derails in the Bangladesh district of Gaibandha as a result of sabotage resulting in at least 3 deaths. Over 60 people have been killed since an opposition Bangladesh Nationalist Party announced a campaign against next months election. 
 
 Opposition activists derailed a train in Bangladesh, killing three people, as part of a campaign against elections. 
 
 
-### Source:
+### Sources:
 
 1. [Dawn](http://dawn.com/news/1060436)
 1. [Cover Image](http://i.dawn.com/medium/2013/12/529ebfcf5d4a0.jpg)

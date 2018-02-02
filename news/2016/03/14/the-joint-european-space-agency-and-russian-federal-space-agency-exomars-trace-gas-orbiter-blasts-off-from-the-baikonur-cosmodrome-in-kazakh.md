@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/14/the-joint-european-space-agency-and-russian-fed
 
 ### [2016-03-14](/news/2016/03/14/index.md)
 
+##### European Space Agency
 # The joint European Space Agency and Russian Federal Space Agency ExoMars Trace Gas Orbiter blasts off from the Baikonur Cosmodrome in Kazakhstan. 
 
 Europe and Russia have launched a joint mission to the Red Planet.

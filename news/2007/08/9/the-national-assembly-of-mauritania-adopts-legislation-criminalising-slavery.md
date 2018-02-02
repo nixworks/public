@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/9/the-national-assembly-of-mauritania-adopts-legislation-criminalising-slavery.html)  [JSON](/news/2007/08/9/the-national-assembly-of-mauritania-adopts-legislation-criminalising-slavery.json)  [XML](/news/2007/08/9/the-national-assembly-of-mauritania-adopts-legislation-criminalising-slavery.xml)  
+
 ### [2007-08-9](/news/2007/08/9/index.md)
 
+##### National Assembly of Mauritania
 #  The National Assembly of Mauritania adopts legislation criminalising slavery. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,10117,22215405-401,00.html)
 

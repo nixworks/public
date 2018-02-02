@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/23/previously-secret-documents-from-alan-ewen-dona
 
 ### [2017-12-23](/news/2017/12/23/index.md)
 
+##### Alan Ewen Donald
 # Previously secret documents from Alan Ewen Donald, the United Kingdom's ambassador to China between 1988 and 1991, regarding the Tiananmen Square protests of 1989, are released after being declassified in October, putting the death toll from the protests at 10,000 people. 
 
 The figure for the pro-democracy killings in Beijing in 1989 comes from newly-released UK cables.

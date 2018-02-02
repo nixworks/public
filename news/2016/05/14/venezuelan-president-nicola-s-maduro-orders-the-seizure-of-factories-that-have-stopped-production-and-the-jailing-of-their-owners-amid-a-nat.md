@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/14/venezuelan-president-nicola-s-maduro-orders-the
 
 ### [2016-05-14](/news/2016/05/14/index.md)
 
+##### 2016 state of emergency in Venezuela
 # Venezuelan President Nicolas Maduro orders the seizure of factories that have stopped production and the jailing of their owners amid a nationwide state of emergency. During a speech to pro-government supporters in Caracas, he said the country had to recover the means of production, to counter its deep economic crisis. He also said military exercises would take place next weekend to counter "foreign threats". 
 
 The Venezuelan president threatens the seizure of factories that have stopped production as opposition protesters press for his removal.

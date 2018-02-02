@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/2/up-to-50-000-people-flee-their-homes-in-a-border-area-of-south-sudan-amid-ethnic-violence.html)  [JSON](/news/2012/01/2/up-to-50-000-people-flee-their-homes-in-a-border-area-of-south-sudan-amid-ethnic-violence.json)  [XML](/news/2012/01/2/up-to-50-000-people-flee-their-homes-in-a-border-area-of-south-sudan-amid-ethnic-violence.xml)  
+
 ### [2012-01-2](/news/2012/01/2/index.md)
 
+##### South Sudan
 # Up to 50,000 people flee their homes in a border area of South Sudan amid ethnic violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE8010CQ20120102)
 

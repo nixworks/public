@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/28/a-federal-judge-in-albuquerque-new-mexico-sentences-an-ex-los-alamos-physicist-pedro-leonardo-mascheroni-who-pleaded-guilty-in-2013-to-off.html)  [JSON](/news/2015/01/28/a-federal-judge-in-albuquerque-new-mexico-sentences-an-ex-los-alamos-physicist-pedro-leonardo-mascheroni-who-pleaded-guilty-in-2013-to-off.json)  [XML](/news/2015/01/28/a-federal-judge-in-albuquerque-new-mexico-sentences-an-ex-los-alamos-physicist-pedro-leonardo-mascheroni-who-pleaded-guilty-in-2013-to-off.xml)  
+
 ### [2015-01-28](/news/2015/01/28/index.md)
 
+##### Albuquerque
 # A federal judge in Albuquerque, New Mexico sentences an ex-Los Alamos physicist Pedro Leonardo Mascheroni, who pleaded guilty in 2013 to offering to spy on the US to help Venezuela develop a nuclear weapon, to five years imprisionment. 
 
 A former nuclear scientist in the US is jailed for five years for trying to pass nuclear bomb-making secrets to Venezuela.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/8b54704b35c44359b4e5b2476d7e1dab/ex-los-alamos-scientist-be-sentenced-nuke-spy-sting)
 2. [AP](http://www.bbc.com/news/world-us-canada-31033686)
@@ -17,4 +21,4 @@ A former nuclear scientist in the US is jailed for five years for trying to pass
 2. [A wildfire worsens near major U.S. nuclear weapons research lab Los Alamos National Laboratory in the U.S. state of New Mexico; residents express concern about contamination. ](/news/2011/06/29/a-wildfire-worsens-near-major-u-s-nuclear-weapons-research-lab-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-residents-ex.md) _Context: Los Alamos National Laboratory, New Mexico_
 3. [The Los Alamos National Laboratory in the U.S. state of New Mexico is temporarily closed due to a wildfire burning nearby. ](/news/2011/06/27/the-los-alamos-national-laboratory-in-the-u-s-state-of-new-mexico-is-temporarily-closed-due-to-a-wildfire-burning-nearby.md) _Context: Los Alamos National Laboratory, New Mexico_
 4. [A former scientist at the Los Alamos National Laboratory and his wife are indicted on charges of trying to provide information about the United States nuclear program to Venezuela. ](/news/2010/09/17/a-former-scientist-at-the-los-alamos-national-laboratory-and-his-wife-are-indicted-on-charges-of-trying-to-provide-information-about-the-uni.md) _Context: Los Alamos National Laboratory, Venezuela_
-5. [Voters in Venezuela go to the polls to elect new state governors, resulting in the incumbent socialist party winning the majority of the governorships, a result disputed by the opposition. ](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-new-state-governors-resulting-in-the-incumbent-socialist-party-winning-the-majority-of-the-gov.md) _Context: Venezuela_
+5. [Three people, including the gunman, are killed in a school shooting at Aztec High School in New Mexico. ](/news/2017/12/7/three-people-including-the-gunman-are-killed-in-a-school-shooting-at-aztec-high-school-in-new-mexico.md) _Context: New Mexico_

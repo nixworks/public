@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/13/the-rebel-national-liberation-front-of-burundi-breaks-off-peace-negotiations-with-the-new-government-of-pierre-nkurunziza.html)  [JSON](/news/2005/09/13/the-rebel-national-liberation-front-of-burundi-breaks-off-peace-negotiations-with-the-new-government-of-pierre-nkurunziza.json)  [XML](/news/2005/09/13/the-rebel-national-liberation-front-of-burundi-breaks-off-peace-negotiations-with-the-new-government-of-pierre-nkurunziza.xml)  
+
 ### [2005-09-13](/news/2005/09/13/index.md)
 
+##### National Liberation Front
 #  The rebel National Liberation Front of Burundi breaks off peace negotiations with the new government of Pierre Nkurunziza. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4240976.stm)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/12/15/the-house-of-representatives-of-thailand-selects-abhisit-vejjajiva-of-the-democrat-party-as-the-new-prime-minister.html)  [JSON](/news/2008/12/15/the-house-of-representatives-of-thailand-selects-abhisit-vejjajiva-of-the-democrat-party-as-the-new-prime-minister.json)  [XML](/news/2008/12/15/the-house-of-representatives-of-thailand-selects-abhisit-vejjajiva-of-the-democrat-party-as-the-new-prime-minister.xml)  
+
 ### [2008-12-15](/news/2008/12/15/index.md)
 
+##### House of Representatives
 #  The House of Representatives of Thailand selects Abhisit Vejjajiva of the Democrat Party as the new Prime Minister. 
 
 The vote followed the end of months of protests against pro-Thaksin parties that culminated in a weeklong shutdown of Bangkok’s two airports.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7782950.stm)
-2. [New York Times](http://www.nytimes.com/2008/12/16/world/asia/16thailand.html?ref=world)
+2. [New York Times](https://www.nytimes.com/2008/12/16/world/asia/16thailand.html?ref=world)
 2. [Cover Image](https://static01.nyt.com/images/2008/12/15/world/16thai.75.jpg)
 
 ### Related:

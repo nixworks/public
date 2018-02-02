@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/1/an-entry-on-the-documentary-film-fuck-causes-offence-after-the-wikipedia-website-features-it-prominently-on-its-home-page.html)  [JSON](/news/2014/03/1/an-entry-on-the-documentary-film-fuck-causes-offence-after-the-wikipedia-website-features-it-prominently-on-its-home-page.json)  [XML](/news/2014/03/1/an-entry-on-the-documentary-film-fuck-causes-offence-after-the-wikipedia-website-features-it-prominently-on-its-home-page.xml)  
+
 ### [2014-03-1](/news/2014/03/1/index.md)
 
+##### Fuck
 # An entry on the documentary film "Fuck" causes offence after the Wikipedia website features it prominently on its home page. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Houstonian](http://www.houstonianonline.com/viewpoints/fuck-documentary-article-causes-stir-on-wikipedia-1.2855321#.UxJzHPl_vHQ)
 

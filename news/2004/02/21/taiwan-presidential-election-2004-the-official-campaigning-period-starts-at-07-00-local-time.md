@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/21/taiwan-presidential-election-2004-the-official-campaigning-period-starts-at-07-00-local-time.html)  [JSON](/news/2004/02/21/taiwan-presidential-election-2004-the-official-campaigning-period-starts-at-07-00-local-time.json)  [XML](/news/2004/02/21/taiwan-presidential-election-2004-the-official-campaigning-period-starts-at-07-00-local-time.xml)  
+
 ### [2004-02-21](/news/2004/02/21/index.md)
 
+##### 2004 presidential election
 #  Taiwan presidential election 2004: the official campaigning period starts at 07:00 local time.
 
 

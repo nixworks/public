@@ -1,13 +1,24 @@
+
+Formats: [HTML](/news/2015/12/30/american-entertainer-bill-cosby-is-charged-with-aggravated-indecent-assault-in-montgomery-county-pennsylvania-the-county-s-district-attorn.html)  [JSON](/news/2015/12/30/american-entertainer-bill-cosby-is-charged-with-aggravated-indecent-assault-in-montgomery-county-pennsylvania-the-county-s-district-attorn.json)  [XML](/news/2015/12/30/american-entertainer-bill-cosby-is-charged-with-aggravated-indecent-assault-in-montgomery-county-pennsylvania-the-county-s-district-attorn.xml)  
+
 ### [2015-12-30](/news/2015/12/30/index.md)
 
+##### Bill Cosby sexual assault allegations
 # American entertainer Bill Cosby is charged with aggravated indecent assault in Montgomery County, Pennsylvania. The county's District Attorney-elect said his office is also examining evidence related to other cases. The current charges relate to one particular 2004 incident. 
 
+The comedian, who has for decades been pursued by allegations of sexual misconduct, was charged with sexual assault in Pennsylvania in a case that many people, including women who had come forward, thought prosecutors would never bring.
 
 
+### Sources:
 
-### Source:
+1. [New York Times](https://www.nytimes.com/2015/12/31/business/media/bill-cosby-charged-in-sexual-assault-case.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2015/12/30/us/31xp4-cosby/31xp4-cosby-facebookJumbo-v3.jpg)
 
-1. [New York Times](http://www.nytimes.com/2015/12/31/business/media/bill-cosby-charged-in-sexual-assault-case.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
+### Changes:
+
+1. [American entertainer Bill Cosby is charged with aggravated indecent assault in Montgomery County, Pennsylvania. The county's District Attorney-elect said his office is also examining evidence related to other cases. The current charges relate to one particular 2004 incident. ](/news/2015/12/30/american-entertainer-bill-cosby-is-charged-with-aggravated-indecent-assault-in-montgomery-county-pennsylvania-the-county-s-district-attor.md) _2017-08-25 03:44:12 (First version)_
+2. [Bill Cosby sexual assault allegations: American entertainer Bill Cosby is charged with aggravated indecent assault in Montgomery County, Pennsylvania. The county's District Attorney-elect said his office is also examining evidence related to other cases. The current charges relate to one particular 2004 incident. ](/news/2015/12/30/bill-cosby-sexual-assault-allegations-american-entertainer-bill-cosby-is-charged-with-aggravated-indecent-assault-in-montgomery-county-pen.md) _2017-08-27 03:44:33 (Update)_
+2. [American entertainer Bill Cosby is charged with aggravated indecent assault in Montgomery County, Pennsylvania. The county's District Attorney-elect said his office is also examining evidence related to other cases. The current charges relate to one particular 2004 incident. ](/news/2015/12/30/american-entertainer-bill-cosby-is-charged-with-aggravated-indecent-assault-in-montgomery-county-pennsylvania-the-county-s-district-attorn.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +27,3 @@
 3. [American entertainer Bill Cosby, in response to dozens of accusations of sexual assault and misconduct spanning decades, has filed in U.S. federal court in Massachusetts a defamation suit against seven accusers. ](/news/2015/12/15/american-entertainer-bill-cosby-in-response-to-dozens-of-accusations-of-sexual-assault-and-misconduct-spanning-decades-has-filed-in-u-s-f.md) _Context: Bill Cosby, Bill Cosby sexual assault allegations_
 4. [Wendy Demchick-Alloy, a Montgomery County court judge in Norristown, sentences former Pennsylvania Attorney General Kathleen Kane to serve 10 to 23 months in county jail for leaking confidential grand jury information and then lying about it to investigators. Specifically, she was convicted on August 15 on charges of perjury, false swearing, obstruction of justice, official oppression, and conspiracy. ](/news/2016/10/24/wendy-demchick-alloy-a-montgomery-county-court-judge-in-norristown-sentences-former-pennsylvania-attorney-general-kathleen-kane-to-serve-1.md) _Context: Montgomery County_
 5. [A court in the U.S. state of Pennsylvania finds that there is enough evidence to hold entertainer Bill Cosby on felony indecent assault charges in relation to the case of "Andrea Constand v. William H. Cosby, Jr.". ](/news/2016/05/24/a-court-in-the-u-s-state-of-pennsylvania-finds-that-there-is-enough-evidence-to-hold-entertainer-bill-cosby-on-felony-indecent-assault-char.md) _Context: Bill Cosby_
-
-### Changes:
-
-1. [American entertainer Bill Cosby is charged with aggravated indecent assault in Montgomery County, Pennsylvania. The county's District Attorney-elect said his office is also examining evidence related to other cases. The current charges relate to one particular 2004 incident. ](/news/2015/12/30/american-entertainer-bill-cosby-is-charged-with-aggravated-indecent-assault-in-montgomery-county-pennsylvania-the-county-s-district-attor.md) _2017-08-25 03:44:12 (First version)_
-2. [Bill Cosby sexual assault allegations: American entertainer Bill Cosby is charged with aggravated indecent assault in Montgomery County, Pennsylvania. The county's District Attorney-elect said his office is also examining evidence related to other cases. The current charges relate to one particular 2004 incident. ](/news/2015/12/30/bill-cosby-sexual-assault-allegations-american-entertainer-bill-cosby-is-charged-with-aggravated-indecent-assault-in-montgomery-county-pen.md) _2017-08-27 03:44:33 (Update)_
-2. [American entertainer Bill Cosby is charged with aggravated indecent assault in Montgomery County, Pennsylvania. The county's District Attorney-elect said his office is also examining evidence related to other cases. The current charges relate to one particular 2004 incident. ](/news/2015/12/30/american-entertainer-bill-cosby-is-charged-with-aggravated-indecent-assault-in-montgomery-county-pennsylvania-the-county-s-district-attorn.md) _(Current version)_

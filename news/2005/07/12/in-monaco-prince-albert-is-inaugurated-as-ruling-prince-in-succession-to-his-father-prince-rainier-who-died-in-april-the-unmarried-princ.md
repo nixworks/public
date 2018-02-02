@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/12/in-monaco-prince-albert-is-inaugurated-as-ruling-prince-in-succession-to-his-father-prince-rainier-who-died-in-april-the-unmarried-princ.html)  [JSON](/news/2005/07/12/in-monaco-prince-albert-is-inaugurated-as-ruling-prince-in-succession-to-his-father-prince-rainier-who-died-in-april-the-unmarried-princ.json)  [XML](/news/2005/07/12/in-monaco-prince-albert-is-inaugurated-as-ruling-prince-in-succession-to-his-father-prince-rainier-who-died-in-april-the-unmarried-princ.xml)  
+
 ### [2005-07-12](/news/2005/07/12/index.md)
 
+##### Monaco
 #  In Monaco, Prince Albert is inaugurated as ruling prince, in succession to his father Prince Rainier who died in April. The unmarried Prince Albert acknowledged last week that he has a 22-month-old illegitimate son, Alexandre, and that there may be other paternity suits. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4674109.stm)
 2. [CNN](http://www.cnn.com/2005/WORLD/europe/07/12/albert.monaco.ap/index.html)

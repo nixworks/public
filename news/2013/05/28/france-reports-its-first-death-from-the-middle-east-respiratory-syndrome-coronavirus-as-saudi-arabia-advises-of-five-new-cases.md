@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/28/france-reports-its-first-death-from-the-middle-east-respiratory-syndrome-coronavirus-as-saudi-arabia-advises-of-five-new-cases.html)  [JSON](/news/2013/05/28/france-reports-its-first-death-from-the-middle-east-respiratory-syndrome-coronavirus-as-saudi-arabia-advises-of-five-new-cases.json)  [XML](/news/2013/05/28/france-reports-its-first-death-from-the-middle-east-respiratory-syndrome-coronavirus-as-saudi-arabia-advises-of-five-new-cases.xml)  
+
 ### [2013-05-28](/news/2013/05/28/index.md)
 
+##### France
 # France reports its first death from the Middle East respiratory syndrome coronavirus as Saudi Arabia advises of five new cases. 
 
 France reported its first death from the new SARS-like coronavirus on Tuesday and Saudi Arabia, where the virus first emerged last year, said there were five new cases.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2013/05/29/uk-coronavirus-france-idUKBRE94R0Y320130529)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

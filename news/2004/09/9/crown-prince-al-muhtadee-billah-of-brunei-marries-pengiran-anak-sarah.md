@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/9/crown-prince-al-muhtadee-billah-of-brunei-marries-pengiran-anak-sarah.html)  [JSON](/news/2004/09/9/crown-prince-al-muhtadee-billah-of-brunei-marries-pengiran-anak-sarah.json)  [XML](/news/2004/09/9/crown-prince-al-muhtadee-billah-of-brunei-marries-pengiran-anak-sarah.xml)  
+
 ### [2004-09-9](/news/2004/09/9/index.md)
 
+##### Al-Muhtadee Billah
 #  Crown Prince Al-Muhtadee Billah of Brunei marries Pengiran Anak Sarah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3640114.stm)
 

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2004/10/29/in-rome-heads-of-state-and-government-from-the-countries-of-the-european-union-sign-the-treaty-establishing-a-constitution-for-europe-the.html)  [JSON](/news/2004/10/29/in-rome-heads-of-state-and-government-from-the-countries-of-the-european-union-sign-the-treaty-establishing-a-constitution-for-europe-the.json)  [XML](/news/2004/10/29/in-rome-heads-of-state-and-government-from-the-countries-of-the-european-union-sign-the-treaty-establishing-a-constitution-for-europe-the.xml)  
+
 ### [2004-10-29](/news/2004/10/29/index.md)
 
+##### Rome, Italy
 #  In Rome, heads of state and government from the countries of the European Union sign the treaty establishing a constitution for Europe. The treaty is still subject to ratification by the member nations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3963701.stm)
 
 ### Related:
 
-1. [ The European Commission confirms that Bulgaria and Romania are set to join the European Union on 1 January 2007, in what may be the last EU expansion before a European constitution is established. ](/news/2006/09/26/the-european-commission-confirms-that-bulgaria-and-romania-are-set-to-join-the-european-union-on-1-january-2007-in-what-may-be-the-last-eu.md) _Context: EU, European constitution_
-2. [ In Berlin, Germany, Europe's largest train station, Berlin Hauptbahnhof, is opened by Chancellor Angela Merkel, Deutsche Bahn Chairman Hartmut Mehdorn and Industrial Commissioner of the European Union Gunter Verheugen. The station is the hub of routes from Stockholm to Rome and Paris to Moscow. 1,200 trains will depart and arrive every day. The station is expected to have cost EUR800 million. ](/news/2006/05/26/in-berlin-germany-europe-s-largest-train-station-berlin-hauptbahnhof-is-opened-by-chancellor-angela-merkel-deutsche-bahn-chairman-hart.md) _Context: EU, Rome_
-3. [ Treaty establishing a Constitution for Europe: Following talks with Prime Minister Vladimir Spidla on the draft European Union constitution and the Czech Republic's position on the document, the Czech President Vaclav Klaus decides not to travel to Rome and attend the forthcoming intergovernmental conference.](/news/2003/10/1/treaty-establishing-a-constitution-for-europe-following-talks-with-prime-minister-vladimar-a-pidla-on-the-draft-european-union-constituti.md) _Context: EU, European constitution_
-4. [The European Court of Justice dismisses complaints by Slovakia and Hungary about EU migration policy, upholding Brussels' right to force member states to take in asylum seekers. ](/news/2017/09/6/the-european-court-of-justice-dismisses-complaints-by-slovakia-and-hungary-about-eu-migration-policy-upholding-brusselsa-right-to-force-m.md) _Context: EU_
-5. [The European Union's executive branch sends a formal notice to Poland expressing their concern that the new "discretionary" powers given to the country's justice minister threaten the independence of the courts in violation of EU laws. Poland has a month to respond. ](/news/2017/07/29/the-european-union-s-executive-branch-sends-a-formal-notice-to-poland-expressing-their-concern-that-the-new-discretionary-powers-given-to.md) _Context: EU_
+1. [ In Berlin, Germany, Europe's largest train station, Berlin Hauptbahnhof, is opened by Chancellor Angela Merkel, Deutsche Bahn Chairman Hartmut Mehdorn and Industrial Commissioner of the European Union Gunter Verheugen. The station is the hub of routes from Stockholm to Rome and Paris to Moscow. 1,200 trains will depart and arrive every day. The station is expected to have cost EUR800 million. ](/news/2006/05/26/in-berlin-germany-europe-s-largest-train-station-berlin-hauptbahnhof-is-opened-by-chancellor-angela-merkel-deutsche-bahn-chairman-hart.md) _Context: European Union, Rome, Italy_
+2. [Turkish President Recep Tayyip Erdogan says he is "tired" of waiting for the European Union to approve Turkey's membership in the political union. ](/news/2018/01/5/turkish-president-recep-tayyip-erdoaan-says-he-is-tired-of-waiting-for-the-european-union-to-approve-turkey-s-membership-in-the-political.md) _Context: European Union_
+3. [After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. ](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state-of-palestine-mahmoud-abbas-high-representative-of-the-union-for-foreign-affairs-and-securit.md) _Context: European Union_
+4. [Hundreds of thousands protest in D.C., with thousands of protesters turning out in Los Angeles, Chicago, Philadelphia, and other cities throughout the United States and the world in cities such as Rome, Italy internationally, in support of women's rights. ](/news/2018/01/20/hundreds-of-thousands-protest-in-d-c-with-thousands-of-protesters-turning-out-in-los-angeles-chicago-philadelphia-and-other-cities-thro.md) _Context: Rome, Italy_
+5. [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md) _Context: European Union_

@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2009/07/14/the-11th-micronesian-chief-executivesa-summit-mces-of-micronesian-leaders-opens-in-majuro-marshall-islands.html)  [JSON](/news/2009/07/14/the-11th-micronesian-chief-executivesa-summit-mces-of-micronesian-leaders-opens-in-majuro-marshall-islands.json)  [XML](/news/2009/07/14/the-11th-micronesian-chief-executivesa-summit-mces-of-micronesian-leaders-opens-in-majuro-marshall-islands.xml)  
+
 ### [2009-07-14](/news/2009/07/14/index.md)
 
+##### Micronesia
 #  The 11th Micronesian Chief Executives' Summit (MCES) of Micronesian leaders opens in Majuro, Marshall Islands. 
 
 Guam - A website dedicated to stopping cyber bullying on Guam has been launched. ...
 
 
-### Source:
+### Sources:
 
 1. [Pacific News Center](http://www.pacificnewscenter.com/index.php?option=com_content&view=article&id=9300:final-day-of-micronesian-chief-executives-summit&catid=34:guam&Itemid=141)
+
+### Changes:
+
+1. [ The 11th Micronesian Chief Executives- Summit (MCES) of Micronesian leaders opens in Majuro, Marshall Islands. ](/news/2009/07/14/the-11th-micronesian-chief-executives-summit-mces-of-micronesian-leaders-opens-in-majuro-marshall-islands.md) _2017-08-27 03:25:02 (First version)_
+1. [ The 11th Micronesian Chief Executives' Summit (MCES) of Micronesian leaders opens in Majuro, Marshall Islands. ](/news/2009/07/14/the-11th-micronesian-chief-executivesa-summit-mces-of-micronesian-leaders-opens-in-majuro-marshall-islands.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@ Guam - A website dedicated to stopping cyber bullying on Guam has been launched.
 3. [The aviator Amelia Earhart and her navigator Fred Noonan may have survived in the Marshall Islands and were held captive by the Japanese according to an allegedly undoctored photo in the National Archives. Experts remain divided on the claim, however. ](/news/2017/07/5/the-aviator-amelia-earhart-and-her-navigator-fred-noonan-may-have-survived-in-the-marshall-islands-and-were-held-captive-by-the-japanese-acc.md) _Context: Marshall Islands_
 4. [The United States test launch a Minuteman III missile from California to the Marshall Islands. ](/news/2017/04/26/the-united-states-test-launch-a-minuteman-iii-missile-from-california-to-the-marshall-islands.md) _Context: Marshall Islands_
 5. [Marshall Islands President Casten Nemra is defeated in a vote of no confidence. Nemra had just been elected President in early January 2016. A successor is expected to be selected soon. ](/news/2016/01/26/marshall-islands-president-casten-nemra-is-defeated-in-a-vote-of-no-confidence-nemra-had-just-been-elected-president-in-early-january-2016.md) _Context: Marshall Islands_
-
-### Changes:
-
-1. [ The 11th Micronesian Chief Executives- Summit (MCES) of Micronesian leaders opens in Majuro, Marshall Islands. ](/news/2009/07/14/the-11th-micronesian-chief-executives-summit-mces-of-micronesian-leaders-opens-in-majuro-marshall-islands.md) _2017-08-27 03:25:02 (First version)_
-1. [ The 11th Micronesian Chief Executives' Summit (MCES) of Micronesian leaders opens in Majuro, Marshall Islands. ](/news/2009/07/14/the-11th-micronesian-chief-executivesa-summit-mces-of-micronesian-leaders-opens-in-majuro-marshall-islands.md) _(Current version)_

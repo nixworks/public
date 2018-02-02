@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/3/a-strong-earthquake-registering-magnitude-5-9-shakes-northeastern-japan-but-there-is-no-danger-of-a-tsunami.html)  [JSON](/news/2006/02/3/a-strong-earthquake-registering-magnitude-5-9-shakes-northeastern-japan-but-there-is-no-danger-of-a-tsunami.json)  [XML](/news/2006/02/3/a-strong-earthquake-registering-magnitude-5-9-shakes-northeastern-japan-but-there-is-no-danger-of-a-tsunami.xml)  
+
 ### [2006-02-3](/news/2006/02/3/index.md)
 
+##### earthquake
 #  A strong earthquake registering magnitude 5.9 shakes northeastern Japan, but there is no danger of a tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/02/03/japan.quake.ap/index.html)
 

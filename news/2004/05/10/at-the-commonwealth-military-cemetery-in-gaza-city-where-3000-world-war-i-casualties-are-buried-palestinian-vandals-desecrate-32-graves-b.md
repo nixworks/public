@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/05/10/at-the-commonwealth-military-cemetery-in-gaza-city-where-3000-world-war-i-casualties-are-buried-palestinian-vandals-desecrate-32-graves-b.html)  [JSON](/news/2004/05/10/at-the-commonwealth-military-cemetery-in-gaza-city-where-3000-world-war-i-casualties-are-buried-palestinian-vandals-desecrate-32-graves-b.json)  [XML](/news/2004/05/10/at-the-commonwealth-military-cemetery-in-gaza-city-where-3000-world-war-i-casualties-are-buried-palestinian-vandals-desecrate-32-graves-b.xml)  
+
 ### [2004-05-10](/news/2004/05/10/index.md)
 
+##### Commonwealth of Nations
 #  At the Commonwealth military cemetery in Gaza City where 3000 World War I casualties are buried, Palestinian vandals desecrate 32 graves, breaking headstones and affixing photographs of Iraqi POW abuse to others. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/aponline/international/AP-Israel-Palestinians.html)
+1. [NYT](https://www.nytimes.com/aponline/international/AP-Israel-Palestinians.html)
 
 ### Related:
 

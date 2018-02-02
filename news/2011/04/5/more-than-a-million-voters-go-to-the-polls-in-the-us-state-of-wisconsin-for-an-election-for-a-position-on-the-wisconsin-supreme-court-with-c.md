@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/04/5/more-than-a-million-voters-go-to-the-polls-in-the-us-state-of-wisconsin-for-an-election-for-a-position-on-the-wisconsin-supreme-court-with-c.html)  [JSON](/news/2011/04/5/more-than-a-million-voters-go-to-the-polls-in-the-us-state-of-wisconsin-for-an-election-for-a-position-on-the-wisconsin-supreme-court-with-c.json)  [XML](/news/2011/04/5/more-than-a-million-voters-go-to-the-polls-in-the-us-state-of-wisconsin-for-an-election-for-a-position-on-the-wisconsin-supreme-court-with-c.xml)  
+
 ### [2011-04-5](/news/2011/04/5/index.md)
 
+##### Wisconsin
 # More than a million voters go to the polls in the US state of Wisconsin for an election for a position on the Wisconsin Supreme Court with challenger Joanne Kloppenburg holding a narrow lead over incumbent David Prosser, Jr.. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/04/06/us-wisconsin-election-idUSTRE7350J920110406?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/2011/04/06/us-wisconsin-election-idUSTRE7350J920110406?feedType=RSS&feedName=topNews)
 1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110406&t=2&i=380298771&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-04-06T133630Z_01_BTRE73511SV00_RTROPTP_0_USA-WISCONSIN-PROTESTS)
 
 ### Related:

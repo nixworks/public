@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/07/7/pope-benedict-xvi-removes-restrictions-on-celebrating-the-old-latin-mass-reviving-an-ancient-roman-rite-mass-liturgy-that-was-essentially.html)  [JSON](/news/2007/07/7/pope-benedict-xvi-removes-restrictions-on-celebrating-the-old-latin-mass-reviving-an-ancient-roman-rite-mass-liturgy-that-was-essentially.json)  [XML](/news/2007/07/7/pope-benedict-xvi-removes-restrictions-on-celebrating-the-old-latin-mass-reviving-an-ancient-roman-rite-mass-liturgy-that-was-essentially.xml)  
+
 ### [2007-07-7](/news/2007/07/7/index.md)
 
+##### Benedict XVI
 #  Pope Benedict XVI removes restrictions on celebrating the old Latin Mass, reviving an ancient Roman Rite Mass liturgy that was essentially abolished after the Second Vatican Council. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post via ''AP](http://www.washingtonpost.com/wp-dyn/content/article/2007/07/07/AR2007070700376.html?hpid=sec-religion)
+1. [Washington Post via ''AP](https://www.washingtonpost.com/wp-dyn/content/article/2007/07/07/AR2007070700376.html?hpid=sec-religion)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/12/2012-eps-edison-volta-prize-was-awarded-to-rolf-dieter-heuer-cern-director-general-and-two-his-colleagues.html)  [JSON](/news/2012/11/12/2012-eps-edison-volta-prize-was-awarded-to-rolf-dieter-heuer-cern-director-general-and-two-his-colleagues.json)  [XML](/news/2012/11/12/2012-eps-edison-volta-prize-was-awarded-to-rolf-dieter-heuer-cern-director-general-and-two-his-colleagues.xml)  
+
 ### [2012-11-12](/news/2012/11/12/index.md)
 
+##### EPS
 # 2012 EPS Edison Volta Prize was awarded to Rolf-Dieter Heuer, CERN Director General, and two his colleagues.
 
 
 
 
-### Source:
+### Sources:
 
 1. [EPS](http://www.eps.org/news/108255/)
 

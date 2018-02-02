@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/06/30/the-gas-exporting-countries-forum-elects-abdullah-bin-hamad-al-attiyah-oil-and-energy-minister-of-qatar-as-the-president-of-the-organizat.html)  [JSON](/news/2009/06/30/the-gas-exporting-countries-forum-elects-abdullah-bin-hamad-al-attiyah-oil-and-energy-minister-of-qatar-as-the-president-of-the-organizat.json)  [XML](/news/2009/06/30/the-gas-exporting-countries-forum-elects-abdullah-bin-hamad-al-attiyah-oil-and-energy-minister-of-qatar-as-the-president-of-the-organizat.xml)  
+
 ### [2009-06-30](/news/2009/06/30/index.md)
 
+##### Gas Exporting Countries Forum
 #  The Gas Exporting Countries Forum elects Abdullah Bin Hamad Al-Attiyah, oil and energy minister of Qatar, as the president of the organization. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=newsarchive&sid=ao3fGMSgFHO0)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=newsarchive&sid=ao3fGMSgFHO0)
 
 ### Related:
 

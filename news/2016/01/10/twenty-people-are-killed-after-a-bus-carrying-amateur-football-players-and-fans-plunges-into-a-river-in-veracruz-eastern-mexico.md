@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/10/twenty-people-are-killed-after-a-bus-carrying-a
 
 ### [2016-01-10](/news/2016/01/10/index.md)
 
+##### football
 # Twenty people are killed after a bus carrying amateur football players and fans plunges into a river in Veracruz, eastern Mexico. 
 
 A bus carrying amateur football players and fans plunged into a river after careening off a bridge in eastern Mexico today, leaving at least 16 people dead, authorities said. Another 10 people were injured in the crash in the municipality of Atoyac

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/27/in-horse-racing-gloria-de-campeao-wins-the-dubai-world-cup.html)  [JSON](/news/2010/03/27/in-horse-racing-gloria-de-campeao-wins-the-dubai-world-cup.json)  [XML](/news/2010/03/27/in-horse-racing-gloria-de-campeao-wins-the-dubai-world-cup.xml)  
+
 ### [2010-03-27](/news/2010/03/27/index.md)
 
+##### Gloria de Campeao
 # In horse racing, Gloria de Campeao wins the Dubai World Cup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/other_sports/horse_racing/8589596.stm)
 

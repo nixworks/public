@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/28/a-gene-linked-to-a-genetic-motor-neurone-disease-is-discovered.html)  [JSON](/news/2009/02/28/a-gene-linked-to-a-genetic-motor-neurone-disease-is-discovered.json)  [XML](/news/2009/02/28/a-gene-linked-to-a-genetic-motor-neurone-disease-is-discovered.xml)  
+
 ### [2009-02-28](/news/2009/02/28/index.md)
 
+##### gene
 #  A gene linked to a genetic motor neurone disease is discovered. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/health/7914652.stm)
 

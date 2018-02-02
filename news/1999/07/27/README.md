@@ -1,7 +1,7 @@
-## [1999-07-27](/news/1999/07/27/index.md)
 
-### [ 21 die in a canyoning disaster near Interlaken, Switzerland.](/news/1999/07/27/21-die-in-a-canyoning-disaster-near-interlaken-switzerland.md)
-_Context: Interlaken, Switzerland, canyoning_
+Formats: [HTML](1999/07/27/index.html)  [JSON](1999/07/27/index.json)  [XML](1999/07/27/index.xml)  
+
+## [1999-07-27](/news/1999/07/27/index.md)
 
 ## [Previous Day...](/news/1999/07/26/index.md)
 

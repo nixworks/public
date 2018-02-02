@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/30/further-rioting-occurs-overnight-in-the-parisian-suburb-of-clichy-sous-bois-following-the-electrocutions-of-two-teenagers-aged-15-and-17.html)  [JSON](/news/2005/10/30/further-rioting-occurs-overnight-in-the-parisian-suburb-of-clichy-sous-bois-following-the-electrocutions-of-two-teenagers-aged-15-and-17.json)  [XML](/news/2005/10/30/further-rioting-occurs-overnight-in-the-parisian-suburb-of-clichy-sous-bois-following-the-electrocutions-of-two-teenagers-aged-15-and-17.xml)  
+
 ### [2005-10-30](/news/2005/10/30/index.md)
 
+##### rioting
 #  Further rioting occurs overnight in the Parisian suburb of Clichy-sous-Bois following the electrocutions of two teenagers, aged 15 and 17, and a third teenager suffering severe burns when they entered a substation whilst fleeing police. Rioters attacked police and journalists. Critics allege that the teenagers were targeted because they were Muslim, though this claim has been denied by French Interior Minister Nicolas Sarkozy. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory?id=1262800)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/4389920.stm)

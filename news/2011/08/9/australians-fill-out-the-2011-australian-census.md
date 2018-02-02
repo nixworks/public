@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/9/australians-fill-out-the-2011-australian-census.html)  [JSON](/news/2011/08/9/australians-fill-out-the-2011-australian-census.json)  [XML](/news/2011/08/9/australians-fill-out-the-2011-australian-census.xml)  
+
 ### [2011-08-9](/news/2011/08/9/index.md)
 
+##### Australian
 # Australians fill out the 2011 Australian census. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/specials/census-2011/)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

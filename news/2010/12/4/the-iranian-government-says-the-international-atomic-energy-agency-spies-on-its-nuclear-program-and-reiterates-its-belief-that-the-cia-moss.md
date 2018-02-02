@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/4/the-iranian-government-says-the-international-atomic-energy-agency-spies-on-its-nuclear-program-and-reiterates-its-belief-that-the-cia-moss.html)  [JSON](/news/2010/12/4/the-iranian-government-says-the-international-atomic-energy-agency-spies-on-its-nuclear-program-and-reiterates-its-belief-that-the-cia-moss.json)  [XML](/news/2010/12/4/the-iranian-government-says-the-international-atomic-energy-agency-spies-on-its-nuclear-program-and-reiterates-its-belief-that-the-cia-moss.xml)  
+
 ### [2010-12-4](/news/2010/12/4/index.md)
 
+##### Iran
 # The Iranian government says the International Atomic Energy Agency spies on its nuclear program and reiterates its belief that the CIA, Mossad and MI6 murdered Majid Shahriari earlier this week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11919051)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

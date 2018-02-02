@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/3/german-hostages-rene-braunlich-and-thomas-nitzschke-returned-home-to-germany-they-landed-safe-on-a-governmental-aircraft-at-2-24-pm-in-ber.html)  [JSON](/news/2006/05/3/german-hostages-rene-braunlich-and-thomas-nitzschke-returned-home-to-germany-they-landed-safe-on-a-governmental-aircraft-at-2-24-pm-in-ber.json)  [XML](/news/2006/05/3/german-hostages-rene-braunlich-and-thomas-nitzschke-returned-home-to-germany-they-landed-safe-on-a-governmental-aircraft-at-2-24-pm-in-ber.xml)  
+
 ### [2006-05-3](/news/2006/05/3/index.md)
 
+##### German
 #  German hostages Ren Brunlich and Thomas Nitzschke returned home to Germany. They landed safe on a governmental aircraft at 2:24 pm in Berlin-Tegel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4969204.stm)
 

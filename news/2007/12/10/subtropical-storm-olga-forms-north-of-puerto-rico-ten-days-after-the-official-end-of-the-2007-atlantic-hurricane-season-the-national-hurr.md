@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/10/subtropical-storm-olga-forms-north-of-puerto-rico-ten-days-after-the-official-end-of-the-2007-atlantic-hurricane-season-the-national-hurr.html)  [JSON](/news/2007/12/10/subtropical-storm-olga-forms-north-of-puerto-rico-ten-days-after-the-official-end-of-the-2007-atlantic-hurricane-season-the-national-hurr.json)  [XML](/news/2007/12/10/subtropical-storm-olga-forms-north-of-puerto-rico-ten-days-after-the-official-end-of-the-2007-atlantic-hurricane-season-the-national-hurr.xml)  
+
 ### [2007-12-10](/news/2007/12/10/index.md)
 
+##### Puerto Rico
 #  Subtropical Storm Olga forms north of Puerto Rico, ten days after the official end of the 2007 Atlantic hurricane season. The National Hurricane Center forecasts landfall in the Dominican Republic within 24 hours, and Tropical Storm Warnings and Watches have been posted for the northern shore of the nation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-7142371,00.html)
 

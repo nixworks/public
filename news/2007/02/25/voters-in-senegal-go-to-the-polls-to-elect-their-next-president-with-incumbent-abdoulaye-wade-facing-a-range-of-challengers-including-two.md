@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/25/voters-in-senegal-go-to-the-polls-to-elect-their-next-president-with-incumbent-abdoulaye-wade-facing-a-range-of-challengers-including-two.html)  [JSON](/news/2007/02/25/voters-in-senegal-go-to-the-polls-to-elect-their-next-president-with-incumbent-abdoulaye-wade-facing-a-range-of-challengers-including-two.json)  [XML](/news/2007/02/25/voters-in-senegal-go-to-the-polls-to-elect-their-next-president-with-incumbent-abdoulaye-wade-facing-a-range-of-challengers-including-two.xml)  
+
 ### [2007-02-25](/news/2007/02/25/index.md)
 
+##### Senegal
 #  Voters in Senegal go to the polls to elect their next president, with incumbent Abdoulaye Wade facing a range of challengers including two former Prime Ministers: Moustapha Niasse and Idrissa Seck. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6394177.stm)
 

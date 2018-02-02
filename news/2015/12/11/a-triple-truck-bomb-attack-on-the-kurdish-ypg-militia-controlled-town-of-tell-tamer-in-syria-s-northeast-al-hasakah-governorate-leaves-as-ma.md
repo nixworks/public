@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/11/a-triple-truck-bomb-attack-on-the-kurdish-ypg-militia-controlled-town-of-tell-tamer-in-syria-s-northeast-al-hasakah-governorate-leaves-as-ma.html)  [JSON](/news/2015/12/11/a-triple-truck-bomb-attack-on-the-kurdish-ypg-militia-controlled-town-of-tell-tamer-in-syria-s-northeast-al-hasakah-governorate-leaves-as-ma.json)  [XML](/news/2015/12/11/a-triple-truck-bomb-attack-on-the-kurdish-ypg-militia-controlled-town-of-tell-tamer-in-syria-s-northeast-al-hasakah-governorate-leaves-as-ma.xml)  
+
 ### [2015-12-11](/news/2015/12/11/index.md)
 
+##### Syrian Civil War
 # A triple truck-bomb attack on the Kurdish YPG militia-controlled town of Tell Tamer in Syria's northeast Al-Hasakah Governorate leaves as many as 50 people dead and 80 others wounded. The Islamic State of Iraq and the Levant claims responsibility for the attacks, saying in an online statement that three of its fighters driving three separate vehicles had detonated the suicide bombs targeting "bases" belonging to Kurdish fighters. 
 
 &quot;There is massive destruction in the town and the number killed is between 50 and 60, all of them civilians.&quot;
 
 
-### Source:
+### Sources:
 
 1. [Reuters via NBC News](http://www.nbcnews.com/storyline/isis-terror/isis-truck-bombs-kill-least-50-tel-tamer-syria-n478376)
 1. [Cover Image](https://media1.s-nbcnews.com/j/newscms/2015_50/1336186/151211-syria-turck-bomb-mn-0955_73d261d6dabb09eb3a143b431e62dc26.nbcnews-fp-1200-800.jpg)

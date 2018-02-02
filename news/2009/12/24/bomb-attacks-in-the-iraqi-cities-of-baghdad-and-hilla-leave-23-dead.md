@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/24/bomb-attacks-in-the-iraqi-cities-of-baghdad-and-hilla-leave-23-dead.html)  [JSON](/news/2009/12/24/bomb-attacks-in-the-iraqi-cities-of-baghdad-and-hilla-leave-23-dead.json)  [XML](/news/2009/12/24/bomb-attacks-in-the-iraqi-cities-of-baghdad-and-hilla-leave-23-dead.xml)  
+
 ### [2009-12-24](/news/2009/12/24/index.md)
 
+##### Iraq
 #  Bomb attacks in the Iraqi cities of Baghdad and Hilla leave 23 dead. 
 
 Explosions across Iraq ahead of Shia ceremonies of Ashoura and Christmas.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/2009122414310924426.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8429945.stm)

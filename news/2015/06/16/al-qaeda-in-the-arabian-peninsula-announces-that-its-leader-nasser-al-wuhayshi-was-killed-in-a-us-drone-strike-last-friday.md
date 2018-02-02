@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2015/06/16/al-qaeda-in-the-arabian-peninsula-announces-that-its-leader-nasser-al-wuhayshi-was-killed-in-a-us-drone-strike-last-friday.html)  [JSON](/news/2015/06/16/al-qaeda-in-the-arabian-peninsula-announces-that-its-leader-nasser-al-wuhayshi-was-killed-in-a-us-drone-strike-last-friday.json)  [XML](/news/2015/06/16/al-qaeda-in-the-arabian-peninsula-announces-that-its-leader-nasser-al-wuhayshi-was-killed-in-a-us-drone-strike-last-friday.xml)  
+
 ### [2015-06-16](/news/2015/06/16/index.md)
 
+##### al-Qaeda insurgency in Yemen
 # al-Qaeda in the Arabian Peninsula announces that its leader Nasser al-Wuhayshi was killed in a US drone strike last Friday. 
 
 Al-Qaeda confirms that a key commander - Nasser al-Wuhayshi, who headed Al-Qaeda in the Arabian Peninsula - has been killed in a US drone strike in Yemen.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-33143259#)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83653000/jpg/_83653304_83653303.jpg)
-
-### Related:
-
-1. [Yemeni government forces along with Popular Resistance militia kill dozens of Al-Qaeda in the Arabian Peninsula fighters in clashes in southern Yemen. A drone strike kills two others further north, near Ma'rib. ](/news/2016/04/23/yemeni-government-forces-along-with-popular-resistance-militia-kill-dozens-of-al-qaeda-in-the-arabian-peninsula-fighters-in-clashes-in-south.md) _Context: Al-Qaeda insurgency in Yemen, al-Qaida_
-2. [A U.S. drone strike on a vehicle in Yemen's Shabwah Governorate kills three suspected Al-Qaeda in the Arabian Peninsula (AQAP) militants. ](/news/2016/01/16/a-u-s-drone-strike-on-a-vehicle-in-yemen-s-shabwah-governorate-kills-three-suspected-al-qaeda-in-the-arabian-peninsula-aqap-militants.md) _Context: Al-Qaeda insurgency in Yemen, al-Qaida_
-3. [Al-Qaeda militants seize control of Zinjibar, capital of Yemen's southern Abyan Governorate, as well as the town of Ja'ar, following fierce clashes with pro-Hadi government forces. ](/news/2015/12/2/al-qaeda-militants-seize-control-of-zinjibar-capital-of-yemen-s-southern-abyan-governorate-as-well-as-the-town-of-jae-ar-following-fierc.md) _Context: Al-Qaeda insurgency in Yemen, al-Qaida_
-4. [A US drone strike kills five Al Qaeda in the Arabian Peninsula operatives including Shawki al-Badani and Nabil al-Dahab, leader of Ansar al-Sharia in Yemen's Al Bayda Governorate. ](/news/2014/11/5/a-us-drone-strike-kills-five-al-qaeda-in-the-arabian-peninsula-operatives-including-shawki-al-badani-and-nabil-al-dahab-leader-of-ansar-al.md) _Context: Al-Qaeda insurgency in Yemen, al-Qaida_
-5. [ The U.S. Navy SEAL Team Six's raid on an Al Qaeda in Yemen compound in the Ma'rib Governorate kills at least seven militants. SEAL Team Six also suffered unspecified injuries that were treated at the site. ](/news/2017/05/23/the-u-s-navy-seal-team-six-s-raid-on-an-al-qaeda-in-yemen-compound-in-the-ma-rib-governorate-kills-at-least-seven-militants-seal-team-six.md) _Context: Al-Qaeda insurgency in Yemen_
 
 ### Changes:
 
 1. [al-Qaeda insurgency in Yemen: al-Qaeda in the Arabian Peninsula announces that its leader Nasser al-Wuhayshi was killed in a US drone strike last Friday. ](/news/2015/06/16/al-qaeda-insurgency-in-yemen-al-qaeda-in-the-arabian-peninsula-announces-that-its-leader-nasser-al-wuhayshi-was-killed-in-a-us-drone-strike.md) _2017-08-27 03:42:33 (First version)_
 1. [al-Qaeda in the Arabian Peninsula announces that its leader Nasser al-Wuhayshi was killed in a US drone strike last Friday. ](/news/2015/06/16/al-qaeda-in-the-arabian-peninsula-announces-that-its-leader-nasser-al-wuhayshi-was-killed-in-a-us-drone-strike-last-friday.md) _(Current version)_
+
+### Related:
+
+1. [Some 1,200 people escape from a Yemeni prison including al Qaeda members. ](/news/2015/06/30/some-1-200-people-escape-from-a-yemeni-prison-including-al-qaeda-members.md) _Context: al-Qaeda insurgency in Yemen_
+2. [A car bomb explodes outside a police college in the Yemeni capital Sana'a with at least 38 people reported dead and more than 50 wounded. ](/news/2015/01/7/a-car-bomb-explodes-outside-a-police-college-in-the-yemeni-capital-sana-a-with-at-least-38-people-reported-dead-and-more-than-50-wounded.md) _Context: al-Qaeda insurgency in Yemen_
+3. [An American civilian and a South African civilian die during an attempt to rescue them by U.S. Navy SEALs in Yemen. They were being held hostage by al-Qaeda in the Arabian Peninsula. ](/news/2014/12/6/an-american-civilian-and-a-south-african-civilian-die-during-an-attempt-to-rescue-them-by-u-s-navy-seals-in-yemen-they-were-being-held-hos.md) _Context: al-Qaeda in the Arabian Peninsula_
+4. [A US drone strike kills five Al Qaeda in the Arabian Peninsula operatives including Shawki al-Badani and Nabil al-Dahab, leader of Ansar al-Sharia in Yemen's Al Bayda Governorate. ](/news/2014/11/5/a-us-drone-strike-kills-five-al-qaeda-in-the-arabian-peninsula-operatives-including-shawki-al-badani-and-nabil-al-dahab-leader-of-ansar-al.md) _Context: al-Qaeda insurgency in Yemen_
+5. [A joint operation by U.S. and Yemeni special operations forces on an al-Qaeda hideout in eastern Yemen rescues 8 hostages and leaves 7 militants dead. ](/news/2014/11/25/a-joint-operation-by-u-s-and-yemeni-special-operations-forces-on-an-al-qaeda-hideout-in-eastern-yemen-rescues-8-hostages-and-leaves-7-milit.md) _Context: al-Qaeda insurgency in Yemen_

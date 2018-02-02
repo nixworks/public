@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/18/police-and-indigenous-protesters-clash-in-panama-during-a-protest-against-changes-to-the-country-s-mining-law.html)  [JSON](/news/2011/02/18/police-and-indigenous-protesters-clash-in-panama-during-a-protest-against-changes-to-the-country-s-mining-law.json)  [XML](/news/2011/02/18/police-and-indigenous-protesters-clash-in-panama-during-a-protest-against-changes-to-the-country-s-mining-law.xml)  
+
 ### [2011-02-18](/news/2011/02/18/index.md)
 
+##### Panama
 # Police and indigenous protesters clash in Panama during a protest against changes to the country's mining law. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gi17WcBb7cR99qQ77ApSKDiEwNbA?docId=CNG.caf89b431a9c66f3e75cf5c8f5b2c68e.ed1)
 

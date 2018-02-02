@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/19/occupation-of-iraq-iraq-s-former-defense-minister-sultan-hashim-ahmed-surrenders-to-coalition-troops-he-was-seen-at-saddam-hussein-s.html)  [JSON](/news/2003/09/19/occupation-of-iraq-iraq-s-former-defense-minister-sultan-hashim-ahmed-surrenders-to-coalition-troops-he-was-seen-at-saddam-hussein-s.json)  [XML](/news/2003/09/19/occupation-of-iraq-iraq-s-former-defense-minister-sultan-hashim-ahmed-surrenders-to-coalition-troops-he-was-seen-at-saddam-hussein-s.xml)  
+
 ### [2003-09-19](/news/2003/09/19/index.md)
 
+##### Iraq war
 #  "Occupation of Iraq": Iraq's former defense minister, Sultan Hashim Ahmed, surrenders to Coalition troops. He was seen at Saddam Hussein's side in what is thought to have been the ousted dictator's last public appearance as Baghdad fell. He is number 27 on the most-wanted list of former top officials under Saddam Hussein (also eight of hearts). The ex-minister surrendered at a house in the northern Iraqi city of Mosul and was being taken to Baghdad.
 
 

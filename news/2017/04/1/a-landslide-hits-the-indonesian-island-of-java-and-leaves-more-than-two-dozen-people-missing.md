@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/1/a-landslide-hits-the-indonesian-island-of-java-a
 
 ### [2017-04-1](/news/2017/04/1/index.md)
 
+##### Indonesia
 # A landslide hits the Indonesian island of Java and leaves more than two dozen people missing. 
 
 

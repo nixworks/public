@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/16/russia-announces-that-it-will-pay-us-10-m-to-the-people-who-betrayed-chechen-separatist-leader-aslan-maskhadov-who-was-killed-by-russian-s.html)  [JSON](/news/2005/03/16/russia-announces-that-it-will-pay-us-10-m-to-the-people-who-betrayed-chechen-separatist-leader-aslan-maskhadov-who-was-killed-by-russian-s.json)  [XML](/news/2005/03/16/russia-announces-that-it-will-pay-us-10-m-to-the-people-who-betrayed-chechen-separatist-leader-aslan-maskhadov-who-was-killed-by-russian-s.xml)  
+
 ### [2005-03-16](/news/2005/03/16/index.md)
 
+##### Russia
 #  Russia announces that it will pay US$10 m to the people who betrayed Chechen separatist leader Aslan Maskhadov, who was killed by Russian special forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/russia/article/0,2763,1438509,00.html)
 

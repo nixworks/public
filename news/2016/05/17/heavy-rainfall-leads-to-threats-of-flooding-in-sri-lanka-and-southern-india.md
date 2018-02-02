@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/17/heavy-rainfall-leads-to-threats-of-flooding-in-
 
 ### [2016-05-17](/news/2016/05/17/index.md)
 
+##### Sri Lanka
 # Heavy rainfall leads to threats of flooding in Sri Lanka and southern India. 
 
 The first depression of the season in the Bay of Bengal will track near the east coast of India this week, leading to additional flooding and widespread travel delays.

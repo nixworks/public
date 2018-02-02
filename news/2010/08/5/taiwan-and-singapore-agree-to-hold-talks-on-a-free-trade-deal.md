@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/taiwan-and-singapore-agree-to-hold-talks-on-a-free-trade-deal.html)  [JSON](/news/2010/08/5/taiwan-and-singapore-agree-to-hold-talks-on-a-free-trade-deal.json)  [XML](/news/2010/08/5/taiwan-and-singapore-agree-to-hold-talks-on-a-free-trade-deal.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### Taiwan
 # Taiwan and Singapore agree to hold talks on a free trade deal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10876580)
 2. [Financial Times](http://www.ft.com/cms/s/0/316d0e58-a04c-11df-81eb-00144feabdc0.html?ftcamp=rss)

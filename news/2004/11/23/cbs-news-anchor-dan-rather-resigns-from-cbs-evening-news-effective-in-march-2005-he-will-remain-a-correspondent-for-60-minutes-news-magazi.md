@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/23/cbs-news-anchor-dan-rather-resigns-from-cbs-evening-news-effective-in-march-2005-he-will-remain-a-correspondent-for-60-minutes-news-magazi.html)  [JSON](/news/2004/11/23/cbs-news-anchor-dan-rather-resigns-from-cbs-evening-news-effective-in-march-2005-he-will-remain-a-correspondent-for-60-minutes-news-magazi.json)  [XML](/news/2004/11/23/cbs-news-anchor-dan-rather-resigns-from-cbs-evening-news-effective-in-march-2005-he-will-remain-a-correspondent-for-60-minutes-news-magazi.xml)  
+
 ### [2004-11-23](/news/2004/11/23/index.md)
 
+##### CBS News
 #  CBS News anchor Dan Rather resigns from CBS Evening News effective in March 2005. He will remain a correspondent for 60 Minutes news magazine and other assignments. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=entertainmentNews&storyID=6899357)
 

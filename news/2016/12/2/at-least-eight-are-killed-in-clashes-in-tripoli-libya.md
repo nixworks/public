@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/2/at-least-eight-are-killed-in-clashes-in-tripoli-
 
 ### [2016-12-2](/news/2016/12/2/index.md)
 
+##### Libyan Civil War (2014-present)
 #  At least eight are killed in clashes in Tripoli, Libya. 
 
 Rival militias have clashed in neighbourhoods across the Libyan capital of Tripoli, and the state agency Lana says at least eight militiamen have been killed.
@@ -25,4 +26,4 @@ Rival militias have clashed in neighbourhoods across the Libyan capital of Tripo
 2. [A car-bomb kills five guards at a checkpoint east of the Libyan capital, Tripoli. ](/news/2015/11/24/a-car-bomb-kills-five-guards-at-a-checkpoint-east-of-the-libyan-capital-tripoli.md) _Context: Libya, Libyan Civil War (2014-present), Tripoli_
 3. [A Libyan helicopter carrying cash for a local bank on the way out and returning to Tripoli with passengers is shot down near the coastal Almaya area west of the capital city, killing at least 14 of its 23 passengers including senior officers Hosein Bodaya and Duhain Al-Rammah, officials with Libya's Dawn militias. ](/news/2015/10/27/a-libyan-helicopter-carrying-cash-for-a-local-bank-on-the-way-out-and-returning-to-tripoli-with-passengers-is-shot-down-near-the-coastal-alm.md) _Context: Libya, Libyan Civil War (2014-present), Tripoli_
 4. [Five gunmen at the Libyan Corinthia Hotel in Tripoli attack with at least ten dead. The hotel was previously the location in 2013 where a former prime minister was abducted. ](/news/2015/01/27/five-gunmen-at-the-libyan-corinthia-hotel-in-tripoli-attack-with-at-least-ten-dead-the-hotel-was-previously-the-location-in-2013-where-a-fo.md) _Context: Libya, Libyan Civil War (2014-present), Tripoli_
-5. [The death toll from an attack on a Libyan National Army-controlled airbase in southern Libya reportedly rises to 140 people. ](/news/2017/05/20/the-death-toll-from-an-attack-on-a-libyan-national-army-controlled-airbase-in-southern-libya-reportedly-rises-to-140-people.md) _Context: Libya, Libyan Civil War (2014-present)_
+5. [A double car bombing in Benghazi, Libya, kills at least 33 people and wounds "dozens" of others. The victims include both military personnel and civilians, according to local officials. ](/news/2018/01/23/a-double-car-bombing-in-benghazi-libya-kills-at-least-33-people-and-wounds-dozens-of-others-the-victims-include-both-military-personnel.md) _Context: Libya, Libyan Civil War (2014-present)_

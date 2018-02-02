@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/11/at-least-11-deaths-result-from-violence-in-dagestan-north-caucasus.html)  [JSON](/news/2010/11/11/at-least-11-deaths-result-from-violence-in-dagestan-north-caucasus.json)  [XML](/news/2010/11/11/at-least-11-deaths-result-from-violence-in-dagestan-north-caucasus.xml)  
+
 ### [2010-11-11](/news/2010/11/11/index.md)
 
+##### Dagestan
 # At least 11 deaths result from violence in Dagestan, North Caucasus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/201011112076433618.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/11/20101111162814201876_20.jpg)

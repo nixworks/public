@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/23/two-bombs-explode-at-the-southern-hotel-in-patt
 
 ### [2016-08-23](/news/2016/08/23/index.md)
 
+##### August 2016 Thailand bombings
 # Two bombs explode at the Southern Hotel in Pattani killing one person and injuring 30. 
 
 

@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2010/10/7/the-leader-of-a-congolese-rebel-group-suspected-of-being-involved-in-the-mass-rape-of-more-than-300-civilians-is-arrested-by-the-congolese-a.html)  [JSON](/news/2010/10/7/the-leader-of-a-congolese-rebel-group-suspected-of-being-involved-in-the-mass-rape-of-more-than-300-civilians-is-arrested-by-the-congolese-a.json)  [XML](/news/2010/10/7/the-leader-of-a-congolese-rebel-group-suspected-of-being-involved-in-the-mass-rape-of-more-than-300-civilians-is-arrested-by-the-congolese-a.xml)  
+
 ### [2010-10-7](/news/2010/10/7/index.md)
 
+##### DR Congo
 # The leader of a Congolese rebel group suspected of being involved in the mass rape of more than 300 civilians is arrested by the Congolese army and United Nations peacekeeping troops. 
 
 THE LEADER of a Congolese rebel group suspected of being involved in the rape of more than 300 civilians two months ago has been&hellip;
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/world/2010/1007/1224280566201.html)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:
 
-1. [A rebel attack on army positions in the eastern Democratic Republic of the Congo town of Beni leaves at least 31 people dead, including 23 Mai Mai and three FARDC troops. ](/news/2013/05/15/a-rebel-attack-on-army-positions-in-the-eastern-democratic-republic-of-the-congo-town-of-beni-leaves-at-least-31-people-dead-including-23-m.md) _Context: Democratic Republic of the Congo, Mai Mai_
-2. [3 Indian peacekeepers serving in a United Nations peacekeeping operation in the Democratic Republic of the Congo are killed by rebels in an apparent ambush. ](/news/2010/08/18/3-indian-peacekeepers-serving-in-a-united-nations-peacekeeping-operation-in-the-democratic-republic-of-the-congo-are-killed-by-rebels-in-an.md) _Context: Democratic Republic of the Congo, United Nations peacekeeping_
-3. [Almost 90,000 people flee renewed fighting in the eastern Democratic Republic of the Congo in the past month reflecting a declining security situation as the military fights Allied Democratic Forces-National Army for the Liberation of Uganda Ugandan Islamist rebels. ](/news/2010/08/1/almost-90-000-people-flee-renewed-fighting-in-the-eastern-democratic-republic-of-the-congo-in-the-past-month-reflecting-a-declining-security.md) _Context: Democratic Republic of the Congo, Military of the Democratic Republic of the Congo_
-4. [ The Rwandan Defense Forces and Congolese Armed Forces jointly search the Democratic Republic of the Congo for Hutu leaders who participated in the 1994 Rwandan genocide. ](/news/2009/01/20/the-rwandan-defense-forces-and-congolese-armed-forces-jointly-search-the-democratic-republic-of-the-congo-for-hutu-leaders-who-participated.md) _Context: Democratic Republic of the Congo, Military of the Democratic Republic of the Congo_
-5. [ Unicef announces Mai-Mai forces have released 232 children they had abducted in North Kivu, Democratic Republic of the Congo. ](/news/2007/11/17/unicef-announces-mai-mai-forces-have-released-232-children-they-had-abducted-in-north-kivu-democratic-republic-of-the-congo.md) _Context: Democratic Republic of the Congo, Mai Mai_
+1. [ Unicef announces Mai-Mai forces have released 232 children they had abducted in North Kivu, Democratic Republic of the Congo. ](/news/2007/11/17/unicef-announces-mai-mai-forces-have-released-232-children-they-had-abducted-in-north-kivu-democratic-republic-of-the-congo.md) _Context: DR Congo, rebel group_
+2. [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md) _Context: DR Congo_
+3. [A military transport plane crashes after take-off from N'djili Airport in Kinshasa, Democratic Republic of the Congo, killing all 12 Russian crew members. ](/news/2017/09/30/a-military-transport-plane-crashes-after-take-off-from-n-djili-airport-in-kinshasa-democratic-republic-of-the-congo-killing-all-12-russian.md) _Context: DR Congo_
+4. [A landslide in a village along Lake Albert in the Democratic Republic of the Congo leaves at least 60 dead. ](/news/2017/08/16/a-landslide-in-a-village-along-lake-albert-in-the-democratic-republic-of-the-congo-leaves-at-least-60-dead.md) _Context: DR Congo_
+5. [Bundu dia Kongo followers free their leader and 50 other inmates with an attack on the Makala jail of Kinshasa, Democratic Republic of the Congo. ](/news/2017/05/17/bundu-dia-kongo-followers-free-their-leader-and-50-other-inmates-with-an-attack-on-the-makala-jail-of-kinshasa-democratic-republic-of-the-c.md) _Context: DR Congo_

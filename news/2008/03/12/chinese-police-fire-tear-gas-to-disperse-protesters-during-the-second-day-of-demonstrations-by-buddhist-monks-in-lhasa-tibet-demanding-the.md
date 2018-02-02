@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/12/chinese-police-fire-tear-gas-to-disperse-protesters-during-the-second-day-of-demonstrations-by-buddhist-monks-in-lhasa-tibet-demanding-the.html)  [JSON](/news/2008/03/12/chinese-police-fire-tear-gas-to-disperse-protesters-during-the-second-day-of-demonstrations-by-buddhist-monks-in-lhasa-tibet-demanding-the.json)  [XML](/news/2008/03/12/chinese-police-fire-tear-gas-to-disperse-protesters-during-the-second-day-of-demonstrations-by-buddhist-monks-in-lhasa-tibet-demanding-the.xml)  
+
 ### [2008-03-12](/news/2008/03/12/index.md)
 
+##### China
 #  Chinese police fire tear gas to disperse protesters during the second day of demonstrations by Buddhist monks in Lhasa, Tibet demanding the region's independence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.02bebf8824d07fcaccda7c0c7bdd78b8.191.html)
 

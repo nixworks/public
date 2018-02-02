@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/17/an-earthquake-strikes-adelaide-the-capital-of-south-australia-and-is-felt-50-kilometres-away.html)  [JSON](/news/2010/04/17/an-earthquake-strikes-adelaide-the-capital-of-south-australia-and-is-felt-50-kilometres-away.json)  [XML](/news/2010/04/17/an-earthquake-strikes-adelaide-the-capital-of-south-australia-and-is-felt-50-kilometres-away.xml)  
+
 ### [2010-04-17](/news/2010/04/17/index.md)
 
+##### Adelaide
 # An earthquake strikes Adelaide, the capital of South Australia, and is felt 50 kilometres away. 
 
 An earthquake that shook Adelaide rattled enough residents to flood emergency phone lines late at night.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/earthquake-hits-adelaide-hills-20100417-skw5.html)
 1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)

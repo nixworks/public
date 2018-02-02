@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/8/an-armed-group-kidnaps-at-least-two-americans-two-frenchmen-and-a-canadian-from-an-transocean-oil-rig-in-the-okoro-oilfield-off-the-coast-o.html)  [JSON](/news/2010/11/8/an-armed-group-kidnaps-at-least-two-americans-two-frenchmen-and-a-canadian-from-an-transocean-oil-rig-in-the-okoro-oilfield-off-the-coast-o.json)  [XML](/news/2010/11/8/an-armed-group-kidnaps-at-least-two-americans-two-frenchmen-and-a-canadian-from-an-transocean-oil-rig-in-the-okoro-oilfield-off-the-coast-o.xml)  
+
 ### [2010-11-8](/news/2010/11/8/index.md)
 
+##### U.S.
 # An armed group kidnaps at least two Americans, two Frenchmen and a Canadian from an Transocean oil rig in the Okoro Oilfield off the coast of Niger Delta, Nigeria, injuring two others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/08/nigeria.oil.rig.kidnappings/index.html?eref=edition)
 2. [Reuters](http://af.reuters.com/article/nigeriaNews/idAFLDE6A708L20101108?sp=true)

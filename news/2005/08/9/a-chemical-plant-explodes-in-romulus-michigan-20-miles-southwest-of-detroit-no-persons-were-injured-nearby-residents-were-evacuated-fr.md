@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/08/9/a-chemical-plant-explodes-in-romulus-michigan-20-miles-southwest-of-detroit-no-persons-were-injured-nearby-residents-were-evacuated-fr.html)  [JSON](/news/2005/08/9/a-chemical-plant-explodes-in-romulus-michigan-20-miles-southwest-of-detroit-no-persons-were-injured-nearby-residents-were-evacuated-fr.json)  [XML](/news/2005/08/9/a-chemical-plant-explodes-in-romulus-michigan-20-miles-southwest-of-detroit-no-persons-were-injured-nearby-residents-were-evacuated-fr.xml)  
+
 ### [2005-08-9](/news/2005/08/9/index.md)
 
+##### Romulus, Michigan
 #  A chemical plant explodes in Romulus, Michigan (20 miles southwest of Detroit). No persons were injured; nearby residents were evacuated from their homes.
 
 

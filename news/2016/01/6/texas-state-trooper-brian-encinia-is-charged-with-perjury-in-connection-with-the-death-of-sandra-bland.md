@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/6/texas-state-trooper-brian-encinia-is-charged-wit
 
 ### [2016-01-6](/news/2016/01/6/index.md)
 
+##### Texas
 # Texas state trooper Brian Encinia is charged with perjury in connection with the death of Sandra Bland. 
 
 A Texas state trooper who arrested Sandra Bland after a contentious traffic stop last summer was fired Wednesday after being charged with perjury for allegedly lying about his confrontation with the black woman who died three days later in jail.

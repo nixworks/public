@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/9/environmental-themes-will-feature-during-this-week-s-shanghai-television-festival-and-the-upcoming-shanghai-international-film-festival-off.html)  [JSON](/news/2010/06/9/environmental-themes-will-feature-during-this-week-s-shanghai-television-festival-and-the-upcoming-shanghai-international-film-festival-off.json)  [XML](/news/2010/06/9/environmental-themes-will-feature-during-this-week-s-shanghai-television-festival-and-the-upcoming-shanghai-international-film-festival-off.xml)  
+
 ### [2010-06-9](/news/2010/06/9/index.md)
 
+##### Shanghai Television Festival
 # Environmental themes will feature during this week's Shanghai Television Festival and the upcoming Shanghai International Film Festival, officials said at a press conference to mark World Ocean Day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Shanghai Daily](http://www.shanghaidaily.com/article/?id=439561&type=Metro#ixzz0qdElCycI)
 

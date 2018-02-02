@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/13/four-people-are-found-dead-in-a-car-in-crossville-tennessee-u-s-a-man-is-arrested-in-connection-with-the-deaths.html)  [JSON](/news/2013/09/13/four-people-are-found-dead-in-a-car-in-crossville-tennessee-u-s-a-man-is-arrested-in-connection-with-the-deaths.json)  [XML](/news/2013/09/13/four-people-are-found-dead-in-a-car-in-crossville-tennessee-u-s-a-man-is-arrested-in-connection-with-the-deaths.xml)  
+
 ### [2013-09-13](/news/2013/09/13/index.md)
 
+##### Crossville
 # Four people are found dead in a car in Crossville, Tennessee, U.S. A man is arrested in connection with the deaths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''San Francisco Chronicle](http://www.sfgate.com/news/crime/article/Suspect-arrested-in-4-deaths-on-Renegade-Mountain-4811886.php)
 

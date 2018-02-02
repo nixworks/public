@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/2/authorities-arrest-four-kosovo-jihadists-men-three-in-italy-and-one-in-kosovo-for-making-nonspecific-threats-against-pope-francis-and-the.html)  [JSON](/news/2015/12/2/authorities-arrest-four-kosovo-jihadists-men-three-in-italy-and-one-in-kosovo-for-making-nonspecific-threats-against-pope-francis-and-the.json)  [XML](/news/2015/12/2/authorities-arrest-four-kosovo-jihadists-men-three-in-italy-and-one-in-kosovo-for-making-nonspecific-threats-against-pope-francis-and-the.xml)  
+
 ### [2015-12-2](/news/2015/12/2/index.md)
 
+##### Kosovo
 # Authorities arrest four Kosovo jihadists men, three in Italy and one in Kosovo, for making nonspecific threats against Pope Francis and the former U.S. Ambassador to Kosovo. The men are described by police as highly dangerous and as having celebrated the November 2015 Paris attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Independent'' via MSN](http://www.msn.com/en-us/news/world/pope-francis-threats-four-men-arrested-after-alleged-threat-against-pontiff/ar-AAfTO7R?li=BBnb7Kz)
 

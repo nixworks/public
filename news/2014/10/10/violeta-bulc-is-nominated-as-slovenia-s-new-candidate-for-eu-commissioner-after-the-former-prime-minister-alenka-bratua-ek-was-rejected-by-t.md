@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/10/violeta-bulc-is-nominated-as-slovenia-s-new-candidate-for-eu-commissioner-after-the-former-prime-minister-alenka-bratua-ek-was-rejected-by-t.html)  [JSON](/news/2014/10/10/violeta-bulc-is-nominated-as-slovenia-s-new-candidate-for-eu-commissioner-after-the-former-prime-minister-alenka-bratua-ek-was-rejected-by-t.json)  [XML](/news/2014/10/10/violeta-bulc-is-nominated-as-slovenia-s-new-candidate-for-eu-commissioner-after-the-former-prime-minister-alenka-bratua-ek-was-rejected-by-t.xml)  
+
 ### [2014-10-10](/news/2014/10/10/index.md)
 
+##### Violeta Bulc
 # Violeta Bulc is nominated as Slovenia's new candidate for EU commissioner after the former prime minister Alenka Bratusek was rejected by the European Parliament. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Slovenia Times](http://www.sloveniatimes.com/violeta-bulc-nominated-for-eu-commissioner)
 

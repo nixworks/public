@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/3/indian-member-of-parliament-meira-kumar-becomes-the-first-female-speaker-of-the-house-of-the-people.html)  [JSON](/news/2009/06/3/indian-member-of-parliament-meira-kumar-becomes-the-first-female-speaker-of-the-house-of-the-people.json)  [XML](/news/2009/06/3/indian-member-of-parliament-meira-kumar-becomes-the-first-female-speaker-of-the-house-of-the-people.xml)  
+
 ### [2009-06-3](/news/2009/06/3/index.md)
 
+##### India
 #  Indian Member of Parliament Meira Kumar becomes the first female Speaker of the House of the People. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/06/20096382757888606.html)
 1. [Cover Image](http://www.aljazeera.com)

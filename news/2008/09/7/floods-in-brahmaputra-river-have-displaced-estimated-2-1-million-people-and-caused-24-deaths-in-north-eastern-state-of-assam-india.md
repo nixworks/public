@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/7/floods-in-brahmaputra-river-have-displaced-estimated-2-1-million-people-and-caused-24-deaths-in-north-eastern-state-of-assam-india.html)  [JSON](/news/2008/09/7/floods-in-brahmaputra-river-have-displaced-estimated-2-1-million-people-and-caused-24-deaths-in-north-eastern-state-of-assam-india.json)  [XML](/news/2008/09/7/floods-in-brahmaputra-river-have-displaced-estimated-2-1-million-people-and-caused-24-deaths-in-north-eastern-state-of-assam-india.xml)  
+
 ### [2008-09-7](/news/2008/09/7/index.md)
 
+##### Floods
 #  Floods in Brahmaputra river have displaced estimated 2.1 million people and caused 24 deaths in north-eastern state of Assam, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/India/Assam_flood_situation_grim_21_million_affected/rssarticleshow/3454633.cms)
 

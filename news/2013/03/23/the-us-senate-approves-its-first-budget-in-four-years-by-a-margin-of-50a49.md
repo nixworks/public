@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2013/03/23/the-us-senate-approves-its-first-budget-in-four-years-by-a-margin-of-50a49.html)  [JSON](/news/2013/03/23/the-us-senate-approves-its-first-budget-in-four-years-by-a-margin-of-50a49.json)  [XML](/news/2013/03/23/the-us-senate-approves-its-first-budget-in-four-years-by-a-margin-of-50a49.xml)  
+
 ### [2013-03-23](/news/2013/03/23/index.md)
 
+##### US Senate
 # The US Senate approves its first budget in four years by a margin of 50-49. 
 
 Senate Democrats neared approval of their first budget proposal in four years on Friday, calling for almost $1 trillion in tax increases over the coming decade while sheltering safety net programs targeted by House Republicans. The Democrats also would reverse automatic spending cuts that are beginning to strike both the Pentagon and domestic programs.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/politics/2013/03/23/senate-approves-first-budget-proposal-in-4-years/)
 1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/032213/0/0/032213_sr_senate_640.jpg?ve=1)
+
+### Changes:
+
+1. [The US Senate approves its first budget in four years by a margin of 50-49. ](/news/2013/03/23/the-us-senate-approves-its-first-budget-in-four-years-by-a-margin-of-50-49.md) _2017-08-27 03:38:10 (First version)_
+1. [The US Senate approves its first budget in four years by a margin of 50-49. ](/news/2013/03/23/the-us-senate-approves-its-first-budget-in-four-years-by-a-margin-of-50a49.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Senate Democrats neared approval of their first budget proposal in four years on
 3. [The White House releases a proposed budget that includes an increase in spending for the military but a decrease in healthcare and welfare. ](/news/2017/05/23/the-white-house-releases-a-proposed-budget-that-includes-an-increase-in-spending-for-the-military-but-a-decrease-in-healthcare-and-welfare.md) _Context: United States federal budget_
 4. [U.S. Congressional negotiators reach a bipartisan agreement on the FY 2017 federal government budget that, once approved by both Houses, will fund the entire fiscal year through September 30. The current spending authorization expires Friday, May 5. ](/news/2017/04/30/u-s-congressional-negotiators-reach-a-bipartisan-agreement-on-the-fy-2017-federal-government-budget-that-once-approved-by-both-houses-wil.md) _Context: United States federal budget_
 5. [Lockheed Martin embarks on corporate overhead cost cutting reviews, another initiative following business selloffs and personnel layoffs. In the face of U.S. budget constraints, Lockheed's actions are in step with those of other major U.S. defense contractors. ](/news/2015/10/23/lockheed-martin-embarks-on-corporate-overhead-cost-cutting-reviews-another-initiative-following-business-selloffs-and-personnel-layoffs-in.md) _Context: United States federal budget_
-
-### Changes:
-
-1. [The US Senate approves its first budget in four years by a margin of 50-49. ](/news/2013/03/23/the-us-senate-approves-its-first-budget-in-four-years-by-a-margin-of-50-49.md) _2017-08-27 03:38:10 (First version)_
-1. [The US Senate approves its first budget in four years by a margin of 50-49. ](/news/2013/03/23/the-us-senate-approves-its-first-budget-in-four-years-by-a-margin-of-50a49.md) _(Current version)_

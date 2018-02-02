@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/17/the-canadian-radio-television-and-telecommunications-commission-announces-that-all-over-the-air-tv-broadcasts-must-be-digital-by-august-31.html)  [JSON](/news/2007/05/17/the-canadian-radio-television-and-telecommunications-commission-announces-that-all-over-the-air-tv-broadcasts-must-be-digital-by-august-31.json)  [XML](/news/2007/05/17/the-canadian-radio-television-and-telecommunications-commission-announces-that-all-over-the-air-tv-broadcasts-must-be-digital-by-august-31.xml)  
+
 ### [2007-05-17](/news/2007/05/17/index.md)
 
+##### Canadian Radio-television and Telecommunications Commission
 #  The Canadian Radio-television and Telecommunications Commission announces that all over-the-air TV broadcasts must be digital by August 31, 2011. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Globe and Mail](http://www.reportonbusiness.com/servlet/story/RTGAM.20070517.wtelevisionCRTC0517/BNStory/robNews/home)
 

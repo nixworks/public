@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2008/02/7/a-gunman-kills-five-and-wounds-two-people-at-city-hall-before-being-shot-and-killed-by-police-in-kirkwood-missouri.html)  [JSON](/news/2008/02/7/a-gunman-kills-five-and-wounds-two-people-at-city-hall-before-being-shot-and-killed-by-police-in-kirkwood-missouri.json)  [XML](/news/2008/02/7/a-gunman-kills-five-and-wounds-two-people-at-city-hall-before-being-shot-and-killed-by-police-in-kirkwood-missouri.xml)  
+
 ### [2008-02-7](/news/2008/02/7/index.md)
 
+##### kills five and wounds two people
 #  A gunman kills five and wounds two people at city hall before being shot and killed by police in Kirkwood, Missouri. 
 
 A gunman killed two police officers and three city officials on Thursday night when he stormed into a city council meeting in a suburb of St. Louis, police said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/domesticNews/idUSN0743157520080208)
+1. [Reuters](https://www.reuters.com/article/domesticNews/idUSN0743157520080208)
 2. [St. Louis Post-Dispatch](http://www.stltoday.com/stltoday/news/stories.nsf/stlouiscitycounty/story/C9F47E8DFBA0B871862573E90007E20F?OpenDocument)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080208&t=2&i=3093491&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-08T235124Z_01_N07431575_RTRUKOP_0_PICTURE0)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080208&t=2&i=3093491&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-08T235124Z_01_N07431575_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

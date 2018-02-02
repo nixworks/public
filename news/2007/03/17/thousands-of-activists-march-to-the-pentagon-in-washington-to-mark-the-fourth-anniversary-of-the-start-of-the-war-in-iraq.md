@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/03/17/thousands-of-activists-march-to-the-pentagon-in-washington-to-mark-the-fourth-anniversary-of-the-start-of-the-war-in-iraq.html)  [JSON](/news/2007/03/17/thousands-of-activists-march-to-the-pentagon-in-washington-to-mark-the-fourth-anniversary-of-the-start-of-the-war-in-iraq.json)  [XML](/news/2007/03/17/thousands-of-activists-march-to-the-pentagon-in-washington-to-mark-the-fourth-anniversary-of-the-start-of-the-war-in-iraq.xml)  
+
 ### [2007-03-17](/news/2007/03/17/index.md)
 
+##### march
 #  Thousands of activists march to The Pentagon in Washington to mark the fourth anniversary of the start of the war in Iraq. 
 
 Thousands of demonstrators marked the anniversaries of the U.S. invasion of Iraq and the march to protest the Vietnam War.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/03/18/us/18protest.html?ex=1331870400&en=48d354bff855b4c7&ei=5088&partner=rssnyt&emc=rss)
+1. [New York Times](https://www.nytimes.com/2007/03/18/us/18protest.html?ex=1331870400&en=48d354bff855b4c7&ei=5088&partner=rssnyt&emc=rss)
 1. [Cover Image](https://static01.nyt.com/images/2007/03/18/us/18protestors.75..jpg)
 
 ### Related:

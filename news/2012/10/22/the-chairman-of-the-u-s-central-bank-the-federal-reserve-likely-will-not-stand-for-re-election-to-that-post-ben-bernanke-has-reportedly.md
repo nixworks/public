@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/22/the-chairman-of-the-u-s-central-bank-the-federal-reserve-likely-will-not-stand-for-re-election-to-that-post-ben-bernanke-has-reportedly.html)  [JSON](/news/2012/10/22/the-chairman-of-the-u-s-central-bank-the-federal-reserve-likely-will-not-stand-for-re-election-to-that-post-ben-bernanke-has-reportedly.json)  [XML](/news/2012/10/22/the-chairman-of-the-u-s-central-bank-the-federal-reserve-likely-will-not-stand-for-re-election-to-that-post-ben-bernanke-has-reportedly.xml)  
+
 ### [2012-10-22](/news/2012/10/22/index.md)
 
+##### Federal Reserve
 # The chairman of the U.S. central bank, the Federal Reserve, likely will not stand for re-election to that post. Ben Bernanke has reportedly told friends he will leave when his term ends in January 2014 regardless of who wins the Presidential election campaign. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times](http://dealbook.nytimes.com/2012/10/22/casting-dual-roles-at-treasury-and-the-fed/?smid=tw-share)
 

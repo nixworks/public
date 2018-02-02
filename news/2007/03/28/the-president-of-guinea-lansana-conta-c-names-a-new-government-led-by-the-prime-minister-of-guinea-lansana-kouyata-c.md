@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/28/the-president-of-guinea-lansana-conta-c-names-a-new-government-led-by-the-prime-minister-of-guinea-lansana-kouyata-c.html)  [JSON](/news/2007/03/28/the-president-of-guinea-lansana-conta-c-names-a-new-government-led-by-the-prime-minister-of-guinea-lansana-kouyata-c.json)  [XML](/news/2007/03/28/the-president-of-guinea-lansana-conta-c-names-a-new-government-led-by-the-prime-minister-of-guinea-lansana-kouyata-c.xml)  
+
 ### [2007-03-28](/news/2007/03/28/index.md)
 
+##### President of Guinea
 #  The President of Guinea Lansana Conte names a new government led by the Prime Minister of Guinea Lansana Kouyate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6505263.stm)
 

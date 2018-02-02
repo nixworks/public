@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/05/19/an-egyptian-court-acquits-169-muslim-brotherhood-members-for-charges-relating-to-unrest-that-followed-the-ousting-of-former-egyptian-preside.html)  [JSON](/news/2014/05/19/an-egyptian-court-acquits-169-muslim-brotherhood-members-for-charges-relating-to-unrest-that-followed-the-ousting-of-former-egyptian-preside.json)  [XML](/news/2014/05/19/an-egyptian-court-acquits-169-muslim-brotherhood-members-for-charges-relating-to-unrest-that-followed-the-ousting-of-former-egyptian-preside.xml)  
+
 ### [2014-05-19](/news/2014/05/19/index.md)
 
+##### Egypt
 # An Egyptian court acquits 169 Muslim Brotherhood members for charges relating to unrest that followed the ousting of former Egyptian President Mohamed Morsi. 
 
 An Egyptian court acquitted 169 Muslim Brotherhood supporters charged in connection with unrest that followed the overthrow of president Mohamed Mursi last year, breaking a pattern of mass convictions at trials involving the Islamist opposition.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/05/19/us-egypt-brotherhood-idUSBREA4I08M20140519?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140519&t=2&i=898068029&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA4I0XE900)
+1. [Reuters](https://www.reuters.com/article/2014/05/19/us-egypt-brotherhood-idUSBREA4I08M20140519?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140519&t=2&i=898068029&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA4I0XE900)
 
 ### Related:
 

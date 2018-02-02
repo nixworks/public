@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/10/10/the-cabinet-of-malawi-is-dissolved-by-president-joyce-banda-amidst-a-graft-scandal.html)  [JSON](/news/2013/10/10/the-cabinet-of-malawi-is-dissolved-by-president-joyce-banda-amidst-a-graft-scandal.json)  [XML](/news/2013/10/10/the-cabinet-of-malawi-is-dissolved-by-president-joyce-banda-amidst-a-graft-scandal.xml)  
+
 ### [2013-10-10](/news/2013/10/10/index.md)
 
+##### Cabinet
 # The Cabinet of Malawi is dissolved by President Joyce Banda amidst a graft scandal. 
 
 Malawi President Joyce Bandadissolved the cabinet on Thursday after police arrested severaljunior officials in her government in recent weeks on suspicionof stealing state funds.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/10/10/malawi-cabinet-idUSL6N0I03M020131010)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/10/10/malawi-cabinet-idUSL6N0I03M020131010)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

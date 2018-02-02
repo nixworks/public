@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/5/nato-helicopters-find-the-wreckage-of-a-kam-air-boeing-737-an-afghan-passenger-jet-in-mountains-east-of-kabul-all-104-people-that-were-o.html)  [JSON](/news/2005/02/5/nato-helicopters-find-the-wreckage-of-a-kam-air-boeing-737-an-afghan-passenger-jet-in-mountains-east-of-kabul-all-104-people-that-were-o.json)  [XML](/news/2005/02/5/nato-helicopters-find-the-wreckage-of-a-kam-air-boeing-737-an-afghan-passenger-jet-in-mountains-east-of-kabul-all-104-people-that-were-o.xml)  
+
 ### [2005-02-5](/news/2005/02/5/index.md)
 
+##### NATO
 #  NATO helicopters find the wreckage of a Kam Air Boeing 737, an Afghan passenger jet, in mountains east of Kabul; all 104 people that were on board are presumed dead. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory?id=473996)
 

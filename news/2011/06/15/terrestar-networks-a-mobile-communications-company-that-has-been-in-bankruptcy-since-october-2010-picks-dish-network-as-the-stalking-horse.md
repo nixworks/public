@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/15/terrestar-networks-a-mobile-communications-company-that-has-been-in-bankruptcy-since-october-2010-picks-dish-network-as-the-stalking-horse.html)  [JSON](/news/2011/06/15/terrestar-networks-a-mobile-communications-company-that-has-been-in-bankruptcy-since-october-2010-picks-dish-network-as-the-stalking-horse.json)  [XML](/news/2011/06/15/terrestar-networks-a-mobile-communications-company-that-has-been-in-bankruptcy-since-october-2010-picks-dish-network-as-the-stalking-horse.xml)  
+
 ### [2011-06-15](/news/2011/06/15/index.md)
 
+##### TerreStar Networks
 # TerreStar Networks, a mobile-communications company that has been in bankruptcy since October 2010, picks Dish Network as the stalking horse bidder for an upcoming auction. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052702304186404576387550291090690.html?mod=googlenews_wsj)
 

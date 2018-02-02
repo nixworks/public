@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/27/peter-altmaier-german-chancellor-angela-merkela
 
 ### [2016-06-27](/news/2016/06/27/index.md)
 
+##### Peter Altmaier
 # Peter Altmaier, German Chancellor Angela Merkel's chief of staff, warns Britain of dire consequences of exit from the European Union, saying in a newspaper interview that UK leaders should not rule out the possibility of another referendum on the same issue. 
 
 German Chancellor Angela Merkel’s chief of staff urged a time-out in Britain’s exit from the European Union, saying in a newspaper interview that U.K. leaders should pause to consider the implications.

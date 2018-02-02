@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/15/the-european-union-extends-its-main-ukraine-rel
 
 ### [2016-12-15](/news/2016/12/15/index.md)
 
+##### War in Donbass
 # The European Union extends its main Ukraine-related economic sanctions against Russia for six months until mid-2017. 
 
 European Union leaders agreed on Thursday to extend economic sanctions against Russia over the turmoil in Ukraine until mid-2017, though some wanted a longer timespan over fear U.S. President-elect Donald Trump would ease pressure on Moscow.

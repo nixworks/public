@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/5/china-s-supreme-people-s-procuratorate-arrests-former-politburo-standing-committee-member-zhou-yongkang-on-corruption-charges-and-expels-him.html)  [JSON](/news/2014/12/5/china-s-supreme-people-s-procuratorate-arrests-former-politburo-standing-committee-member-zhou-yongkang-on-corruption-charges-and-expels-him.json)  [XML](/news/2014/12/5/china-s-supreme-people-s-procuratorate-arrests-former-politburo-standing-committee-member-zhou-yongkang-on-corruption-charges-and-expels-him.xml)  
+
 ### [2014-12-5](/news/2014/12/5/index.md)
 
+##### Supreme People's Procuratorate
 # China's Supreme People's Procuratorate arrests former Politburo Standing Committee member Zhou Yongkang on corruption charges and expels him from the Communist Party of China. 
 
 Chinese ex-security chief Zhou Yongkang is arrested and expelled from the Communist Party for alleged corruption, state media report.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-china-30352458)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79544000/jpg/_79544151_79544150.jpg)

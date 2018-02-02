@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/24/equatorial-guinean-voters-go-to-the-polls-with-
 
 ### [2016-04-24](/news/2016/04/24/index.md)
 
+##### Equatorial Guinean presidential election, 2016
 # Equatorial Guinean voters go to the polls with incumbent Teodoro Obiang Nguema Mbasogo expected to win as the opposition boycotts the election. 
 
 

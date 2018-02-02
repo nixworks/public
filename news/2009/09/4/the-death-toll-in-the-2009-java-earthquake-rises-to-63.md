@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/4/the-death-toll-in-the-2009-java-earthquake-rises-to-63.html)  [JSON](/news/2009/09/4/the-death-toll-in-the-2009-java-earthquake-rises-to-63.json)  [XML](/news/2009/09/4/the-death-toll-in-the-2009-java-earthquake-rises-to-63.xml)  
+
 ### [2009-09-4](/news/2009/09/4/index.md)
 
+##### 2009 Java earthquake
 #  The death toll in the 2009 Java earthquake rises to 63. 
 
 The death toll from a powerful earthquake is continuing to rise as Indonesian rescue crews move debris from a landslide in search of bodies.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2009/09/04/indonesia-earthquake-landslide381.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-09/04/content_11996142.htm)

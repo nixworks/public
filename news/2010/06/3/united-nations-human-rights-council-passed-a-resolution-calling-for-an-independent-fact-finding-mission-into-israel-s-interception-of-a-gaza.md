@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/3/united-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-interception-of-a-gaza.html)  [JSON](/news/2010/06/3/united-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-interception-of-a-gaza.json)  [XML](/news/2010/06/3/united-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-interception-of-a-gaza.xml)  
+
 ### [2010-06-3](/news/2010/06/3/index.md)
 
+##### Human Rights Council
 # United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. 
 
 South Africa latest country to express anger over Israeli attack on Gaza aid convoy.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/20106312530449379.html)
 2. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201063132526897233.html)
@@ -21,16 +25,16 @@ South Africa latest country to express anger over Israeli attack on Gaza aid con
 12. [YnetNews](http://www.ynetnews.com/articles/0,7340,L-3898826,00.html)
 12. [Cover Image](http://www.aljazeera.com)
 
-### Related:
-
-1. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Gaza Strip, Israel_
-2. [Israel charges a UN administrative manager of being a Hamas-linked operative from Gaza. ](/news/2016/08/9/israel-charges-a-un-administrative-manager-of-being-a-hamas-linked-operative-from-gaza.md) _Context: Gaza Strip, Israel_
-3. [A Turkish ship carrying humanitarian aid for the Gaza Strip docks at the Israeli port city of Ashdod, the first warming move between the two countries since relations began to improve. Relations between Turkey and Israel were tense since the 2010 Gaza flotilla raid but ended last week when Turkey agreed to normalize ties in a diplomatic treaty. ](/news/2016/07/4/a-turkish-ship-carrying-humanitarian-aid-for-the-gaza-strip-docks-at-the-israeli-port-city-of-ashdod-the-first-warming-move-between-the-two.md) _Context: Gaza Strip, Israel_
-4. [A Palestinian woman is killed and another person is injured in the Gaza Strip by tank fire from Israel. Israel said it responded to mortar rounds and the discovery of another tunnel by Hamas. ](/news/2016/05/5/a-palestinian-woman-is-killed-and-another-person-is-injured-in-the-gaza-strip-by-tank-fire-from-israel-israel-said-it-responded-to-mortar-r.md) _Context: Gaza Strip, Israel_
-5. [Hamas says it has reached a truce with the Israeli military following hostilities today along the Gaza-Israel border. There were no casualties. ](/news/2016/05/4/hamas-says-it-has-reached-a-truce-with-the-israeli-military-following-hostilities-today-along-the-gaza-israel-border-there-were-no-casualti.md) _Context: Gaza Strip, Israel_
-
 ### Changes:
 
 1. [Gaza flotilla raid:United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. ](/news/2010/06/3/gaza-flotilla-raid-punited-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-in.md) _2017-08-25 03:28:07 (First version)_
 2. [Gaza flotilla raid:: United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. ](/news/2010/06/3/gaza-flotilla-raid-united-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-i.md) _2017-08-27 03:28:06 (Update)_
 2. [United Nations Human Rights Council passed a resolution calling for an independent fact-finding mission into Israel's interception of a Gaza-bound flotilla. ](/news/2010/06/3/united-nations-human-rights-council-passed-a-resolution-calling-for-an-independent-fact-finding-mission-into-israel-s-interception-of-a-gaza.md) _(Current version)_
+
+### Related:
+
+1. [Militant Palestinians fire rockets towards Israel from the Gaza Strip. The Israel Defense Forces say that the Iron Dome system intercepted two missiles, while one rocket fell in a flat open area and nobody was hurt. ](/news/2017/12/13/militant-palestinians-fire-rockets-towards-israel-from-the-gaza-strip-the-israel-defense-forces-say-that-the-iron-dome-system-intercepted-t.md) _Context: Gaza Strip, Israel_
+2. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Gaza Strip, Israel_
+3. [Israel charges a UN administrative manager of being a Hamas-linked operative from Gaza. ](/news/2016/08/9/israel-charges-a-un-administrative-manager-of-being-a-hamas-linked-operative-from-gaza.md) _Context: Gaza Strip, Israel_
+4. [A Turkish ship carrying humanitarian aid for the Gaza Strip docks at the Israeli port city of Ashdod, the first warming move between the two countries since relations began to improve. Relations between Turkey and Israel were tense since the 2010 Gaza flotilla raid but ended last week when Turkey agreed to normalize ties in a diplomatic treaty. ](/news/2016/07/4/a-turkish-ship-carrying-humanitarian-aid-for-the-gaza-strip-docks-at-the-israeli-port-city-of-ashdod-the-first-warming-move-between-the-two.md) _Context: Gaza Strip, Israel_
+5. [A Palestinian woman is killed and another person is injured in the Gaza Strip by tank fire from Israel. Israel said it responded to mortar rounds and the discovery of another tunnel by Hamas. ](/news/2016/05/5/a-palestinian-woman-is-killed-and-another-person-is-injured-in-the-gaza-strip-by-tank-fire-from-israel-israel-said-it-responded-to-mortar-r.md) _Context: Gaza Strip, Israel_

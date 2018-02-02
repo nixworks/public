@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/12/the-prime-minister-of-australia-kevin-rudd-announces-that-the-government-of-australia-will-guarantee-all-deposits-in-all-australian-banks-f.html)  [JSON](/news/2008/10/12/the-prime-minister-of-australia-kevin-rudd-announces-that-the-government-of-australia-will-guarantee-all-deposits-in-all-australian-banks-f.json)  [XML](/news/2008/10/12/the-prime-minister-of-australia-kevin-rudd-announces-that-the-government-of-australia-will-guarantee-all-deposits-in-all-australian-banks-f.xml)  
+
 ### [2008-10-12](/news/2008/10/12/index.md)
 
+##### Australian Prime Minister
 #  The Prime Minister of Australia Kevin Rudd announces that the Government of Australia will guarantee all deposits in all Australian banks for three years as a result of the subprime mortgage crisis. 
 
 Kevin Rudd announced that the Government will guarantee all deposits in all Australian banks and other financial institutions.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/10/12/2388681.htm?section=justin)
 1. [Cover Image](http://www.abc.net.au/news/image/231960-1x1-700x700.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/17/thirty-six-minutes-of-the-film-harry-potter-and-the-deathly-hallows-a-part-1-is-leaked.html)  [JSON](/news/2010/11/17/thirty-six-minutes-of-the-film-harry-potter-and-the-deathly-hallows-a-part-1-is-leaked.json)  [XML](/news/2010/11/17/thirty-six-minutes-of-the-film-harry-potter-and-the-deathly-hallows-a-part-1-is-leaked.xml)  
+
 ### [2010-11-17](/news/2010/11/17/index.md)
 
+##### Harry Potter and the Deathly Hallows - Part 1
 # Thirty-six minutes of the film "Harry Potter and the Deathly Hallows - Part 1" is leaked. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/TECH/web/11/16/harry.potter.torrent.sites.mashable/?hpt=C2)
 2. [MTV](http://www.mtv.com/news/articles/1652451f20101117story.html/)

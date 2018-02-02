@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/20/hundreds-of-evacuation-centres-are-activated-in
 
 ### [2016-02-20](/news/2016/02/20/index.md)
 
+##### 2015-16 South Pacific cyclone season
 # Hundreds of evacuation centres are activated in Fiji as Cyclone Winston makes landfall in Fiji's outer islands and heads towards islands with higher population. 
 
 Hundreds of evacuation centres are activated as a powerful category five cyclone lashes Fiji&#039;s outer islands.

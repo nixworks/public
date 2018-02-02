@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/25/yemeni-and-saudi-led-coalition-forces-recapture
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
+##### Yemeni Civil War (2015-present)
 # Yemeni and Saudi-led coalition forces recapture the port city of Al Mukalla from al-Qaeda militants. 
 
 The Yemeni port city of Mukalla, controlled by jihadist militants from al-Qaeda for a year, is recaptured by Yemeni and Saudi-led coalition forces.

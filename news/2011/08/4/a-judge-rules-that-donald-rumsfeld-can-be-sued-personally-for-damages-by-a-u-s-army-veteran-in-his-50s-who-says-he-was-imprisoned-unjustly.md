@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/4/a-judge-rules-that-donald-rumsfeld-can-be-sued-personally-for-damages-by-a-u-s-army-veteran-in-his-50s-who-says-he-was-imprisoned-unjustly.html)  [JSON](/news/2011/08/4/a-judge-rules-that-donald-rumsfeld-can-be-sued-personally-for-damages-by-a-u-s-army-veteran-in-his-50s-who-says-he-was-imprisoned-unjustly.json)  [XML](/news/2011/08/4/a-judge-rules-that-donald-rumsfeld-can-be-sued-personally-for-damages-by-a-u-s-army-veteran-in-his-50s-who-says-he-was-imprisoned-unjustly.xml)  
+
 ### [2011-08-4](/news/2011/08/4/index.md)
 
+##### Donald Rumsfeld
 # A judge rules that Donald Rumsfeld can be sued personally for damages by a U.S. Army veteran in his 50s who says he was imprisoned unjustly and tortured by the U.S. military in Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/2011/08/04/donald-rumsfeld-torture-lawsuit_n_917966.html?icid=maing-grid7%7Cmain5%7Cdl3%7Csec3_lnk3%7C83667)
 

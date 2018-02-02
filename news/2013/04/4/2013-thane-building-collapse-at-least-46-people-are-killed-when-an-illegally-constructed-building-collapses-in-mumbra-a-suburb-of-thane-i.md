@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/4/2013-thane-building-collapse-at-least-46-people-are-killed-when-an-illegally-constructed-building-collapses-in-mumbra-a-suburb-of-thane-i.html)  [JSON](/news/2013/04/4/2013-thane-building-collapse-at-least-46-people-are-killed-when-an-illegally-constructed-building-collapses-in-mumbra-a-suburb-of-thane-i.json)  [XML](/news/2013/04/4/2013-thane-building-collapse-at-least-46-people-are-killed-when-an-illegally-constructed-building-collapses-in-mumbra-a-suburb-of-thane-i.xml)  
+
 ### [2013-04-4](/news/2013/04/4/index.md)
 
+##### 2013 Thane building collapse
 # 2013 Thane building collapse: At least 46 people are killed when an illegally constructed building collapses in Mumbra, a suburb of Thane, India. 
 
 At least 45 people are killed, including 15 children, after a building being constructed illegally collapses near the Indian city of Mumbai.
 
 
-### Source:
+### Sources:
 
 1. [AP via CBS News](http://www.cbsnews.com/8301-202_162-57578076/building-collapses-in-india-at-least-27-killed/)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-india-22036751)

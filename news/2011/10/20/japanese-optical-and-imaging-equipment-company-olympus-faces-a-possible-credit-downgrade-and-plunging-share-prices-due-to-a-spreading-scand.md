@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/10/20/japanese-optical-and-imaging-equipment-company-olympus-faces-a-possible-credit-downgrade-and-plunging-share-prices-due-to-a-spreading-scand.html)  [JSON](/news/2011/10/20/japanese-optical-and-imaging-equipment-company-olympus-faces-a-possible-credit-downgrade-and-plunging-share-prices-due-to-a-spreading-scand.json)  [XML](/news/2011/10/20/japanese-optical-and-imaging-equipment-company-olympus-faces-a-possible-credit-downgrade-and-plunging-share-prices-due-to-a-spreading-scand.xml)  
+
 ### [2011-10-20](/news/2011/10/20/index.md)
 
+##### Japan
 # Japanese optical and imaging equipment company Olympus faces a possible credit downgrade and plunging share prices, due to a spreading scandal over the recent dismissal of its chief executive, Michael Woodford. 
 
 Scandal-hit Olympus Corp (7733.T) came under pressure from its biggest shareholders on Thursday to explain hundreds of millions of dollars in controversial payments publicized this week by its ousted British chief executive Michael Woodford.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/10/20/us-olympus-idUSTRE79I0SX20111020)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111020&t=2&i=519687092&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79I0W3V00)
+1. [Reuters](https://www.reuters.com/article/2011/10/20/us-olympus-idUSTRE79I0SX20111020)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111020&t=2&i=519687092&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79I0W3V00)
 
 ### Related:
 

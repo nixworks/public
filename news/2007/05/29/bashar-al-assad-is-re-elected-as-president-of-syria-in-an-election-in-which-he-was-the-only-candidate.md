@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/29/bashar-al-assad-is-re-elected-as-president-of-syria-in-an-election-in-which-he-was-the-only-candidate.html)  [JSON](/news/2007/05/29/bashar-al-assad-is-re-elected-as-president-of-syria-in-an-election-in-which-he-was-the-only-candidate.json)  [XML](/news/2007/05/29/bashar-al-assad-is-re-elected-as-president-of-syria-in-an-election-in-which-he-was-the-only-candidate.xml)  
+
 ### [2007-05-29](/news/2007/05/29/index.md)
 
+##### Bashar al-Assad
 #  Bashar al-Assad is re-elected as President of Syria in an election in which he was the only candidate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6700021.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/05/15/a-released-report-from-an-interview-with-former-u-s-diplomat-donald-rickard-reveals-that-he-provided-intelligence-that-led-to-the-arrest-of.html)  [JSON](/news/2016/05/15/a-released-report-from-an-interview-with-former-u-s-diplomat-donald-rickard-reveals-that-he-provided-intelligence-that-led-to-the-arrest-of.json)  [XML](/news/2016/05/15/a-released-report-from-an-interview-with-former-u-s-diplomat-donald-rickard-reveals-that-he-provided-intelligence-that-led-to-the-arrest-of.xml)  
+
 ### [2016-05-15](/news/2016/05/15/index.md)
 
+##### Donald Rickard
 # A released report from an interview with former U.S. diplomat Donald Rickard reveals that he provided intelligence that led to the arrest of Nelson Mandela. 
 
 A CIA tip off to South Africa&#39;s apartheid regime which led to Nelson Mandela&#39;s arrest and 27-year imprisonment was yesterday condemned as a &quot;betrayal of our nation&quot; by the grandson and heir of the former president.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2016/05/15/former-cia-spy-says-he-helped-south-africa-arrest-communist-toy/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2016/05/15/5926821_MANDELAFILE--MandelaWinnierelease-WORLD-xlarge_trans_NvBQzQNjv4BqqGw_8_YqFn6oOhW46YSWn8It_vCbIF-jgbZpfKMTXAM.jpg)

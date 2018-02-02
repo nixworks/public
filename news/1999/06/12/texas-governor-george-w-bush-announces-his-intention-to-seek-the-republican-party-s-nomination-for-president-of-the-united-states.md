@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/06/12/texas-governor-george-w-bush-announces-his-intention-to-seek-the-republican-party-s-nomination-for-president-of-the-united-states.html)  [JSON](/news/1999/06/12/texas-governor-george-w-bush-announces-his-intention-to-seek-the-republican-party-s-nomination-for-president-of-the-united-states.json)  [XML](/news/1999/06/12/texas-governor-george-w-bush-announces-his-intention-to-seek-the-republican-party-s-nomination-for-president-of-the-united-states.xml)  
+
 ### [1999-06-12](/news/1999/06/12/index.md)
 
+##### Texas
 #  Texas Governor George W. Bush announces his intention to seek the Republican Party's nomination for President of the United States.
 
 

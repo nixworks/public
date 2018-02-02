@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/28/early-voting-begins-in-the-irish-european-fiscal-compact-referendum-2012.html)  [JSON](/news/2012/05/28/early-voting-begins-in-the-irish-european-fiscal-compact-referendum-2012.json)  [XML](/news/2012/05/28/early-voting-begins-in-the-irish-european-fiscal-compact-referendum-2012.xml)  
+
 ### [2012-05-28](/news/2012/05/28/index.md)
 
+##### Irish referendum
 # Early voting begins in the Irish European Fiscal Compact referendum, 2012. 
 
 The first votes were cast in Ireland&rsquo;s referendum on the European Union&rsquo;s fiscal pact, with the &#039;yes&rsquo; vote leading in the polls.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/finance/economics/9295513/Ireland-casts-first-votes-on-EU-referendum.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02074/endakenny_2074918a.jpg)

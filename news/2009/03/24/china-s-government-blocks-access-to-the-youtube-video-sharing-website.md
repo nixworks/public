@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/03/24/china-s-government-blocks-access-to-the-youtube-video-sharing-website.html)  [JSON](/news/2009/03/24/china-s-government-blocks-access-to-the-youtube-video-sharing-website.json)  [XML](/news/2009/03/24/china-s-government-blocks-access-to-the-youtube-video-sharing-website.xml)  
+
 ### [2009-03-24](/news/2009/03/24/index.md)
 
+##### China
 #  China's government blocks access to the YouTube video-sharing website. 
 
 Traffic on the site has dropped to nearly zero, the company said, adding that it didn’t know the reason for the block.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2009/03/25/technology/internet/25youtube.html?ref=technology)
+1. [New York Times](https://www.nytimes.com/2009/03/25/technology/internet/25youtube.html?ref=technology)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

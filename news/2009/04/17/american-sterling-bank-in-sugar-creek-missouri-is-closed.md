@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/17/american-sterling-bank-in-sugar-creek-missouri-is-closed.html)  [JSON](/news/2009/04/17/american-sterling-bank-in-sugar-creek-missouri-is-closed.json)  [XML](/news/2009/04/17/american-sterling-bank-in-sugar-creek-missouri-is-closed.xml)  
+
 ### [2009-04-17](/news/2009/04/17/index.md)
 
+##### American Sterling Bank
 #  American Sterling Bank in Sugar Creek, Missouri, is closed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://www.marketwatch.com/news/story/missouris-american-sterling-bank-seized/story.aspx?guid=%7BEB798D94%2D22D6%2D4D32%2DA4BF%2D7DA5D6E98515%7D&siteid=bnbh)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)

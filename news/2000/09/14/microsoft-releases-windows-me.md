@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/09/14/microsoft-releases-windows-me.html)  [JSON](/news/2000/09/14/microsoft-releases-windows-me.json)  [XML](/news/2000/09/14/microsoft-releases-windows-me.xml)  
+
 ### [2000-09-14](/news/2000/09/14/index.md)
 
+##### Microsoft
 #  Microsoft releases Windows ME.
 
 

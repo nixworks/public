@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/20/former-subway-pitchman-jared-fogle-reaches-a-plea-deal-with-u-s-federal-prosecutors-in-indianapolis-fogle-will-plead-guilty-to-possessing.html)  [JSON](/news/2015/08/20/former-subway-pitchman-jared-fogle-reaches-a-plea-deal-with-u-s-federal-prosecutors-in-indianapolis-fogle-will-plead-guilty-to-possessing.json)  [XML](/news/2015/08/20/former-subway-pitchman-jared-fogle-reaches-a-plea-deal-with-u-s-federal-prosecutors-in-indianapolis-fogle-will-plead-guilty-to-possessing.xml)  
+
 ### [2015-08-20](/news/2015/08/20/index.md)
 
+##### restaurant
 # Former Subway pitchman Jared Fogle reaches a plea deal with U.S. federal prosecutors in Indianapolis. Fogle will plead guilty to possessing and distributing child pornography and traveling across state lines to have sex with at least two teenage girls. Under the deal, he will serve from 5 to 121/2 years in prison, and will also pay $1.4 million in restitution to 14 victims. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/08/19/us/subway-jared-fogle-charges/)
 

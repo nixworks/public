@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/11/abdulkadir-masharipov-is-charged-with-murder-in
 
 ### [2017-02-11](/news/2017/02/11/index.md)
 
+##### 2017 Istanbul nightclub shooting
 # Abdulkadir Masharipov is charged with murder in relation to the shootings in Istanbul that killed 39 people and is remanded in custody. Islamic State in Iraq and the Levant has claimed responsibility for the shootings. 
 
 The gunman suspected of killing 39 people in an Istanbul nightclub on New Year&#039;s Day is formally arrested.

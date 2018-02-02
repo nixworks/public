@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/8/a-bomb-explodes-outside-french-supermarket-carrefour-in-alexandria-egypt-killing-one-person-and-wounding-six.html)  [JSON](/news/2015/03/8/a-bomb-explodes-outside-french-supermarket-carrefour-in-alexandria-egypt-killing-one-person-and-wounding-six.json)  [XML](/news/2015/03/8/a-bomb-explodes-outside-french-supermarket-carrefour-in-alexandria-egypt-killing-one-person-and-wounding-six.xml)  
+
 ### [2015-03-8](/news/2015/03/8/index.md)
 
+##### France
 # A bomb explodes outside French supermarket Carrefour in Alexandria, Egypt, killing one person and wounding six. 
 
 A bomb has exploded outside a branch of a French supermarket chain in Alexandria, Egyptian security officials say. 
 
 
-### Source:
+### Sources:
 
 1. [AP via News24](http://www.news24.com/news24/Africa/News/1-killed-6-wounded-in-Egypt-blast-20150308)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2962/c40c1f52078d46eb8ad4082263ca54ed.gif)

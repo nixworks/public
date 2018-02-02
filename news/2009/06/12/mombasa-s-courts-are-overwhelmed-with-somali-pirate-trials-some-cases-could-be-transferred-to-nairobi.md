@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/12/mombasa-s-courts-are-overwhelmed-with-somali-pirate-trials-some-cases-could-be-transferred-to-nairobi.html)  [JSON](/news/2009/06/12/mombasa-s-courts-are-overwhelmed-with-somali-pirate-trials-some-cases-could-be-transferred-to-nairobi.json)  [XML](/news/2009/06/12/mombasa-s-courts-are-overwhelmed-with-somali-pirate-trials-some-cases-could-be-transferred-to-nairobi.xml)  
+
 ### [2009-06-12](/news/2009/06/12/index.md)
 
+##### Mombasa
 #  Mombasa's courts are overwhelmed with Somali pirate trials; some cases could be transferred to Nairobi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article6481947.ece)
 

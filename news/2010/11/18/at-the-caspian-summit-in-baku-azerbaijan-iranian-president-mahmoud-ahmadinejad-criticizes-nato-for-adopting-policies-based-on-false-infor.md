@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/18/at-the-caspian-summit-in-baku-azerbaijan-iranian-president-mahmoud-ahmadinejad-criticizes-nato-for-adopting-policies-based-on-false-infor.html)  [JSON](/news/2010/11/18/at-the-caspian-summit-in-baku-azerbaijan-iranian-president-mahmoud-ahmadinejad-criticizes-nato-for-adopting-policies-based-on-false-infor.json)  [XML](/news/2010/11/18/at-the-caspian-summit-in-baku-azerbaijan-iranian-president-mahmoud-ahmadinejad-criticizes-nato-for-adopting-policies-based-on-false-infor.xml)  
+
 ### [2010-11-18](/news/2010/11/18/index.md)
 
+##### Caspian Sea
 # At the Caspian Summit in Baku, Azerbaijan, Iranian President Mahmoud Ahmadinejad criticizes NATO for adopting policies based on "false information". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://presstv.ir/detail/151490.html)
 

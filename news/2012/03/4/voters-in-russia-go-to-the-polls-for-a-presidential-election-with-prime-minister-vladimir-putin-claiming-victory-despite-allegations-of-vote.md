@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/4/voters-in-russia-go-to-the-polls-for-a-presidential-election-with-prime-minister-vladimir-putin-claiming-victory-despite-allegations-of-vote.html)  [JSON](/news/2012/03/4/voters-in-russia-go-to-the-polls-for-a-presidential-election-with-prime-minister-vladimir-putin-claiming-victory-despite-allegations-of-vote.json)  [XML](/news/2012/03/4/voters-in-russia-go-to-the-polls-for-a-presidential-election-with-prime-minister-vladimir-putin-claiming-victory-despite-allegations-of-vote.xml)  
+
 ### [2012-03-4](/news/2012/03/4/index.md)
 
+##### Russia
 # Voters in Russia go to the polls for a presidential election with Prime Minister Vladimir Putin claiming victory despite allegations of voter fraud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2012/03/04/russians-head-to-polls-in-presidential-elections-expected-to-return-putin-to/)
 2. [Radio Free Europe](http://www.rferl.org/content/article/24503746.html)

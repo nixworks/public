@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/1/at-least-38-people-die-as-a-motorised-ferry-sinks-in-myanmar-s-irrawaddy-delta.html)  [JSON](/news/2008/07/1/at-least-38-people-die-as-a-motorised-ferry-sinks-in-myanmar-s-irrawaddy-delta.json)  [XML](/news/2008/07/1/at-least-38-people-die-as-a-motorised-ferry-sinks-in-myanmar-s-irrawaddy-delta.xml)  
+
 ### [2008-07-1](/news/2008/07/1/index.md)
 
+##### ferry
 #  At least 38 people die as a motorised ferry sinks in Myanmar's Irrawaddy Delta. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/07/04/myanmar.ferry.ap/index.html?section=cnn_latest)
 

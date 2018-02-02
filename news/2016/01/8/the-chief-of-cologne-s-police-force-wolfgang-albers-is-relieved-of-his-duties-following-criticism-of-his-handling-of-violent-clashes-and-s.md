@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/8/the-chief-of-cologne-s-police-force-wolfgang-alb
 
 ### [2016-01-8](/news/2016/01/8/index.md)
 
+##### New Year's Eve sexual assaults in Germany
 # The chief of Cologne's police force, Wolfgang Albers, is relieved of his duties following criticism of his handling of violent clashes and sexual assaults by migrant gangs in the city on New Year's Eve. 
 
 The head of Cologne’s police force has been suspended from his post as anger continues to mount over the handling of mass sexual assaults in the city on New Year’s Eve. Wolfgang Albers, 60, was ordered to temporarily step down on Friday by Ralf Jäger, the interior minister for North Rhine-Westphalia (NRW).

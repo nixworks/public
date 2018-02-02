@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/04/17/tuanku-syed-sirajuddin-becomes-raja-of-perlis.html)  [JSON](/news/2000/04/17/tuanku-syed-sirajuddin-becomes-raja-of-perlis.json)  [XML](/news/2000/04/17/tuanku-syed-sirajuddin-becomes-raja-of-perlis.xml)  
+
 ### [2000-04-17](/news/2000/04/17/index.md)
 
+##### Tuanku Syed Sirajuddin
 #  Tuanku Syed Sirajuddin becomes Raja of Perlis.
 
 

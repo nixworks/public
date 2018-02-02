@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/28/police-investigate-the-discovery-of-human-excre
 
 ### [2017-03-28](/news/2017/03/28/index.md)
 
+##### excrement
 # Police investigate the discovery of human excrement in cans of Coca-Cola in a Northern Ireland bottling facility. None of the contaminated product left the facility. 
 
 Northern Ireland factory halts production after machine became clogged with faeces, though no contaminated drinks reached shelves

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/8/pakistan-confirms-that-ajmal-amir-the-last-surviving-participant-in-the-2008-terrorist-attacks-on-mumbai-india-is-a-pakistani-citizen-b.html)  [JSON](/news/2009/01/8/pakistan-confirms-that-ajmal-amir-the-last-surviving-participant-in-the-2008-terrorist-attacks-on-mumbai-india-is-a-pakistani-citizen-b.json)  [XML](/news/2009/01/8/pakistan-confirms-that-ajmal-amir-the-last-surviving-participant-in-the-2008-terrorist-attacks-on-mumbai-india-is-a-pakistani-citizen-b.xml)  
+
 ### [2009-01-8](/news/2009/01/8/index.md)
 
+##### Pakistan
 #  Pakistan confirms that Ajmal Amir, the last surviving participant in the 2008 terrorist attacks on Mumbai, India, is a Pakistani citizen, but dismisses National Security Advisor Mahmud Ali Durrani for making the admission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN-IBN](http://ibnlive.in.com/news/pak-agencies-okayed-kasab-confirmation-sacked-nsa/82274-2.html?from=rssfeed)
 

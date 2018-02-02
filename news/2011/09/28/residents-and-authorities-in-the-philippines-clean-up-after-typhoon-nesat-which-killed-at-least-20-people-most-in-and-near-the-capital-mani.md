@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/28/residents-and-authorities-in-the-philippines-clean-up-after-typhoon-nesat-which-killed-at-least-20-people-most-in-and-near-the-capital-mani.html)  [JSON](/news/2011/09/28/residents-and-authorities-in-the-philippines-clean-up-after-typhoon-nesat-which-killed-at-least-20-people-most-in-and-near-the-capital-mani.json)  [XML](/news/2011/09/28/residents-and-authorities-in-the-philippines-clean-up-after-typhoon-nesat-which-killed-at-least-20-people-most-in-and-near-the-capital-mani.xml)  
+
 ### [2011-09-28](/news/2011/09/28/index.md)
 
+##### Philippines
 # Residents and authorities in the Philippines clean up after Typhoon Nesat which killed at least 20 people, most in and near the capital Manila. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/9868525)
 2. [AP via ''The Star-Tribune](http://www.startribune.com/world/130621688.html)

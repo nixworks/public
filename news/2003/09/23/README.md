@@ -1,22 +1,7 @@
+
+Formats: [HTML](2003/09/23/index.html)  [JSON](2003/09/23/index.json)  [XML](2003/09/23/index.xml)  
+
 ## [2003-09-23](/news/2003/09/23/index.md)
-
-### [ California recall: An 11-judge panel of the United States Court of Appeals for the Ninth Circuit overturns the earlier ruling of a three-judge panel and reinstates October 7 as the date of the California gubernatorial recall election. The American Civil Liberties Union, whose suit was responsible for the original decision, will not appeal to the Supreme Court.](/news/2003/09/23/california-recall-an-11-judge-panel-of-the-united-states-court-of-appeals-for-the-ninth-circuit-overturns-the-earlier-ruling-of-a-three-ju.md)
-_Context: 2003 California recall, American Civil Liberties Union, California gubernatorial recall election, United States Court of Appeals for the Ninth Circuit, United States Supreme Court_
-
-### [ United Nations: World heads of state and government convene at United Nations Headquarters in New York City for the start of the annual General Assembly high-level summit. President of the United States George W. Bush urges the international community to help Iraq rebuild itself into a democracy with the "great power to inspire the Middle East." President Bush states a transformed Middle East would also benefit the entire world "by undermining the ideologies that export violence to other lands." President Bush also calls on the Security Council to adopt new anti-proliferation resolution "calling on all members of the UN to criminalize the proliferation of weapons of mass destruction", enacting strict export controls, and securing all sensitive material.](/news/2003/09/23/united-nations-world-heads-of-state-and-government-convene-at-united-nations-headquarters-in-new-york-city-for-the-start-of-the-annual-gen.md)
-_Context: George W. Bush, Iraq, U.S. President, United Nations, United Nations General Assembly, United Nations Security Council, United Nations headquarters, head of government, head of state_
-
-### [ Iraq: A new Gallup poll shows majority of Iraqis expect a better life in five years. After foreign occupation and the removal of Saddam Hussein, around two-thirds of Baghdad residents state the Iraqi dictator removal was worth the hardships they've been forced to endure.](/news/2003/09/23/iraq-a-new-gallup-poll-shows-majority-of-iraqis-expect-a-better-life-in-five-years-after-foreign-occupation-and-the-removal-of-saddam-hus.md)
-_Context: Baghdad, Gallup poll, Iraq, Occupation of Iraq, Saddam Hussein_
-
-### [ Iraq: A U.S.-led coalition-backed Iraqi Governing Council member, Ayad Allawi, announces restrictions of the operations of TV networks al Jazeera and al-Arabiya. The networks are barred from reporting on official activities and news conferences and from entering ministries and office buildings for the next two weeks. The council claims they incited anti-occupation violence (by airing statements from resistance leaders; specifically broadcasting a video of "terrorists terrorizing Iraqis"), increased ethnic and sectarian tensions and were supportive of the lawless resistance. Allawi hopes the ban sends a "very clear message" to other stations. Al Jazeera responds that it is trying to give a balanced view of the current situation in Iraq and that it considers its ethical standards to be similar to western ones. The Coalition Provisional Authority has not responded to inquiries about the announcement.](/news/2003/09/23/iraq-a-u-s-led-coalition-backed-iraqi-governing-council-member-ayad-allawi-announces-restrictions-of-the-operations-of-tv-networks-al-j.md)
-_Context: Al Arabiya, Al Jazeera, Ayad Allawi, Coalition Provisional Authority, Iraq, Iraqi Governing Council_
-
-### [ The Methuselah Foundation launches the Methuselah mouse contest, offering a prize to the team which can extend mouse lifespan the longest. The aim is to promote research which can offer insights into human longevity.](/news/2003/09/23/the-methuselah-foundation-launches-the-methuselah-mouse-contest-offering-a-prize-to-the-team-which-can-extend-mouse-lifespan-the-longest.md)
-_Context: Methuselah Foundation, Methuselah mouse contest, longevity, mouse_
-
-### [ Blackout: A power shortcut lays the southern part of Sweden and the eastern part of Denmark dead from midday, creating traffic problems and other disruptions throughout the area. About 2-3 million people are affected. From 4 p.m. Copenhagen has power again. A Swedish nuclear power plant abruptly stopped producing power.](/news/2003/09/23/blackout-a-power-shortcut-lays-the-southern-part-of-sweden-and-the-eastern-part-of-denmark-dead-from-midday-creating-traffic-problems-and.md)
-_Context: Copenhagen, nuclear power, power outage_
 
 ## [Previous Day...](/news/2003/09/22/index.md)
 

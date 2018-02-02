@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/29/the-gay-and-lesbian-coalition-of-kenya-s-david-kuria-criticises-kenyan-prime-minister-raila-odinga-after-he-announces-the-imminent-arrest-of.html)  [JSON](/news/2010/11/29/the-gay-and-lesbian-coalition-of-kenya-s-david-kuria-criticises-kenyan-prime-minister-raila-odinga-after-he-announces-the-imminent-arrest-of.json)  [XML](/news/2010/11/29/the-gay-and-lesbian-coalition-of-kenya-s-david-kuria-criticises-kenyan-prime-minister-raila-odinga-after-he-announces-the-imminent-arrest-of.xml)  
+
 ### [2010-11-29](/news/2010/11/29/index.md)
 
+##### David Kuria
 # The Gay and Lesbian Coalition of Kenya's David Kuria criticises Kenyan Prime Minister Raila Odinga after he announces the imminent arrest of the country's homosexuals. 
 
 A gay rights activist criticises Kenyan Prime Minister Raila Odinga for saying homosexual people will be arrested.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11864702)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

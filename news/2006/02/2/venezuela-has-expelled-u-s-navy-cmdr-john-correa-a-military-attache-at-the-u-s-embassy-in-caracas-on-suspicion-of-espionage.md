@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/2/venezuela-has-expelled-u-s-navy-cmdr-john-correa-a-military-attache-at-the-u-s-embassy-in-caracas-on-suspicion-of-espionage.html)  [JSON](/news/2006/02/2/venezuela-has-expelled-u-s-navy-cmdr-john-correa-a-military-attache-at-the-u-s-embassy-in-caracas-on-suspicion-of-espionage.json)  [XML](/news/2006/02/2/venezuela-has-expelled-u-s-navy-cmdr-john-correa-a-military-attache-at-the-u-s-embassy-in-caracas-on-suspicion-of-espionage.xml)  
+
 ### [2006-02-2](/news/2006/02/2/index.md)
 
+##### Venezuela
 #  Venezuela has expelled U.S. Navy Cmdr. John Correa, a military attach at the U.S. embassy in Caracas, on suspicion of espionage. 
 
 Venezuelan President Hugo Chavez said Thursday he was expelling a U.S. Embassy military official who officials accused of spying with Venezuelan officers. 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4675572.stm)
 2. [Newsweek](http://msnbc.msn.com/id/11147752/)

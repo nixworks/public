@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/10/iranian-actress-marzieh-vafamehr-is-sentenced-to-90-lashes-of-the-cane-and-a-year-s-jail-in-tehran-for-appearing-in-the-film-my-tehran-for.html)  [JSON](/news/2011/10/10/iranian-actress-marzieh-vafamehr-is-sentenced-to-90-lashes-of-the-cane-and-a-year-s-jail-in-tehran-for-appearing-in-the-film-my-tehran-for.json)  [XML](/news/2011/10/10/iranian-actress-marzieh-vafamehr-is-sentenced-to-90-lashes-of-the-cane-and-a-year-s-jail-in-tehran-for-appearing-in-the-film-my-tehran-for.xml)  
+
 ### [2011-10-10](/news/2011/10/10/index.md)
 
+##### Iran
 # Iranian actress Marzieh Vafamehr is sentenced to 90 lashes of the cane and a year's jail in Tehran for appearing in the film "My Tehran For Sale" which criticises the Government of Iran's harsh policies on the arts. 
 
 An Iranian actress has been sentenced to 90 lashes and a year in jail for her part in an Australian-produced film critical of the regime in Tehran.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-10-11/iranian-actress-sentenced/3495518)
 1. [Cover Image](http://www.abc.net.au/news/image/3496040-1x1-700x700.jpg)

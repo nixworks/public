@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/29/five-out-of-nine-local-staff-from-the-british-embassy-in-tehran-iran-who-were-recently-arrested-are-released.html)  [JSON](/news/2009/06/29/five-out-of-nine-local-staff-from-the-british-embassy-in-tehran-iran-who-were-recently-arrested-are-released.json)  [XML](/news/2009/06/29/five-out-of-nine-local-staff-from-the-british-embassy-in-tehran-iran-who-were-recently-arrested-are-released.xml)  
+
 ### [2009-06-29](/news/2009/06/29/index.md)
 
+##### Tehran
 #  Five out of nine local staff from the British embassy in Tehran, Iran, who were recently arrested, are released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8123579.stm)
 

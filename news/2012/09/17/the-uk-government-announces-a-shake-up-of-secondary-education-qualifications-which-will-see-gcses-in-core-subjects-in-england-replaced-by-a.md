@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/17/the-uk-government-announces-a-shake-up-of-secondary-education-qualifications-which-will-see-gcses-in-core-subjects-in-england-replaced-by-a.html)  [JSON](/news/2012/09/17/the-uk-government-announces-a-shake-up-of-secondary-education-qualifications-which-will-see-gcses-in-core-subjects-in-england-replaced-by-a.json)  [XML](/news/2012/09/17/the-uk-government-announces-a-shake-up-of-secondary-education-qualifications-which-will-see-gcses-in-core-subjects-in-england-replaced-by-a.xml)  
+
 ### [2012-09-17](/news/2012/09/17/index.md)
 
+##### 10 Downing Street
 # The UK Government announces a shake-up of secondary education qualifications, which will see GCSEs in core subjects in England replaced by a qualification called the English Baccalaureate. 
 
 A shake-up of school qualifications will mean GCSE exams in England are going to be replaced in core subjects by a qualification called the English Baccalaureate Certificate.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/education-19626663)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62937000/jpg/_62937674_015746135-1.jpg)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/12/1/formateur-yves-leterme-resigns.html)  [JSON](/news/2007/12/1/formateur-yves-leterme-resigns.json)  [XML](/news/2007/12/1/formateur-yves-leterme-resigns.xml)  
+
 ### [2007-12-1](/news/2007/12/1/index.md)
 
+##### forms a temporary coalition government
 #  Formateur Yves Leterme resigns. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=adfqr5Q2k44Y&refer=europe)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601085&sid=adfqr5Q2k44Y&refer=europe)
 
 ### Related:
 

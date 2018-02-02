@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecut
 
 ### [2017-06-10](/news/2017/06/10/index.md)
 
+##### Politics of Zimbabwe
 # Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. 
 
 The official had dropped charges against two soldiers accused of plotting against a Mugabe property.

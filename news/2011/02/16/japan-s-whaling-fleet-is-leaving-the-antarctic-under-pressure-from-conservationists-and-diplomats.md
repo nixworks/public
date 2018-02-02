@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/16/japan-s-whaling-fleet-is-leaving-the-antarctic-under-pressure-from-conservationists-and-diplomats.html)  [JSON](/news/2011/02/16/japan-s-whaling-fleet-is-leaving-the-antarctic-under-pressure-from-conservationists-and-diplomats.json)  [XML](/news/2011/02/16/japan-s-whaling-fleet-is-leaving-the-antarctic-under-pressure-from-conservationists-and-diplomats.xml)  
+
 ### [2011-02-16](/news/2011/02/16/index.md)
 
+##### whaling
 # Japan's whaling fleet is leaving the Antarctic under pressure from conservationists and diplomats. 
 
 Japan&#039;s whaling fleet is believed to be quitting the Antarctic under heavy conservationist and diplomatic pressure, just halfway through its worst ever season.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12477398)
 2. [Sydney Morning Herald](http://www.smh.com.au/environment/whale-watch/japan-to-quit-antarctic-whaling-20110216-1aw0k.html)

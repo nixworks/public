@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/22/new-zealand-s-national-rugby-league-team-defeats-australia-s-team-34-to-20-in-the-final-of-the-2008-rugby-league-world-cup.html)  [JSON](/news/2008/11/22/new-zealand-s-national-rugby-league-team-defeats-australia-s-team-34-to-20-in-the-final-of-the-2008-rugby-league-world-cup.json)  [XML](/news/2008/11/22/new-zealand-s-national-rugby-league-team-defeats-australia-s-team-34-to-20-in-the-final-of-the-2008-rugby-league-world-cup.xml)  
+
 ### [2008-11-22](/news/2008/11/22/index.md)
 
+##### New Zealand
 #  New Zealand's national rugby league team defeats Australia's team 34 to 20 in the final of the 2008 Rugby League World Cup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/ap/2008/11/22/sports/RGL-WCup-Final.php)
 

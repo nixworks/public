@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/05/28/comoros-volcano-mount-karthala-erupts.html)  [JSON](/news/2006/05/28/comoros-volcano-mount-karthala-erupts.json)  [XML](/news/2006/05/28/comoros-volcano-mount-karthala-erupts.xml)  
+
 ### [2006-05-28](/news/2006/05/28/index.md)
 
+##### Comoros
 #  Comoros volcano Mount Karthala erupts. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/05/28/AR2006052800593.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2006/05/28/AR2006052800593.html)
 
 ### Related:
 

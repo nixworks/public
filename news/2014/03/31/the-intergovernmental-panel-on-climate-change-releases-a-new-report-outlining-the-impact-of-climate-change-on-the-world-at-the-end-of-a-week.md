@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/31/the-intergovernmental-panel-on-climate-change-releases-a-new-report-outlining-the-impact-of-climate-change-on-the-world-at-the-end-of-a-week.html)  [JSON](/news/2014/03/31/the-intergovernmental-panel-on-climate-change-releases-a-new-report-outlining-the-impact-of-climate-change-on-the-world-at-the-end-of-a-week.json)  [XML](/news/2014/03/31/the-intergovernmental-panel-on-climate-change-releases-a-new-report-outlining-the-impact-of-climate-change-on-the-world-at-the-end-of-a-week.xml)  
+
 ### [2014-03-31](/news/2014/03/31/index.md)
 
+##### Intergovernmental Panel on Climate Change
 # The Intergovernmental Panel on Climate Change releases a new report outlining the impact of climate change on the world at the end of a week of meetings in Yokohama, Japan. 
 
 Global warming is likely to have a &quot;severe, pervasive and irreversible&quot; impact, a major UN report warns.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/science-environment-26810559#)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73916000/jpg/_73916329_73916327.jpg)

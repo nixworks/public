@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/21/chinua-achebe-s-body-is-flown-into-lagos-to-be-greeted-by-a-funeral-processional-his-remains-await-burial-in-ogidi-the-author-s-hometown.html)  [JSON](/news/2013/05/21/chinua-achebe-s-body-is-flown-into-lagos-to-be-greeted-by-a-funeral-processional-his-remains-await-burial-in-ogidi-the-author-s-hometown.json)  [XML](/news/2013/05/21/chinua-achebe-s-body-is-flown-into-lagos-to-be-greeted-by-a-funeral-processional-his-remains-await-burial-in-ogidi-the-author-s-hometown.xml)  
+
 ### [2013-05-21](/news/2013/05/21/index.md)
 
+##### Chinua Achebe
 # Chinua Achebe's body is flown into Lagos to be greeted by a funeral processional. His remains await burial in Ogidi, the author's hometown. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/201305211387.html)
 

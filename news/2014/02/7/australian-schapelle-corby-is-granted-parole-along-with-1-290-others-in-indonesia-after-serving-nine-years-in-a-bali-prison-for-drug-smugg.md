@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/7/australian-schapelle-corby-is-granted-parole-along-with-1-290-others-in-indonesia-after-serving-nine-years-in-a-bali-prison-for-drug-smugg.html)  [JSON](/news/2014/02/7/australian-schapelle-corby-is-granted-parole-along-with-1-290-others-in-indonesia-after-serving-nine-years-in-a-bali-prison-for-drug-smugg.json)  [XML](/news/2014/02/7/australian-schapelle-corby-is-granted-parole-along-with-1-290-others-in-indonesia-after-serving-nine-years-in-a-bali-prison-for-drug-smugg.xml)  
+
 ### [2014-02-7](/news/2014/02/7/index.md)
 
+##### Australian
 # Australian Schapelle Corby is granted parole (along with 1,290 others) in Indonesia after serving nine years in a Bali prison for drug smuggling. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/national/schapelle-corby-parole-verdict-handed-down-20140207-3274q.html)
 2. [The Eastern Tribune](http://www.theeasterntribune.com/story/2500/schapelle-corby-parole-bid-approved/)

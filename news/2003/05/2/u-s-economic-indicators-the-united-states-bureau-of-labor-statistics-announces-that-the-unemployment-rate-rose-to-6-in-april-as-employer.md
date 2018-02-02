@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/2/u-s-economic-indicators-the-united-states-bureau-of-labor-statistics-announces-that-the-unemployment-rate-rose-to-6-in-april-as-employer.html)  [JSON](/news/2003/05/2/u-s-economic-indicators-the-united-states-bureau-of-labor-statistics-announces-that-the-unemployment-rate-rose-to-6-in-april-as-employer.json)  [XML](/news/2003/05/2/u-s-economic-indicators-the-united-states-bureau-of-labor-statistics-announces-that-the-unemployment-rate-rose-to-6-in-april-as-employer.xml)  
+
 ### [2003-05-2](/news/2003/05/2/index.md)
 
+##### United States Bureau of Labor Statistics
 #  U.S. economic indicators: The United States Bureau of Labor Statistics announces that the unemployment rate rose to 6% in April as employers cut 48,000 jobs, smaller than the consensus estimate of 75,000. This followed a revised decline of 124,000 jobs in March.
 
 

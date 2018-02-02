@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/16/the-republic-of-china-adopts-hanyu-pinyin-as-its-official-chinese-romanization-switching-from-the-previously-official-tongyong-pinyin.html)  [JSON](/news/2008/09/16/the-republic-of-china-adopts-hanyu-pinyin-as-its-official-chinese-romanization-switching-from-the-previously-official-tongyong-pinyin.json)  [XML](/news/2008/09/16/the-republic-of-china-adopts-hanyu-pinyin-as-its-official-chinese-romanization-switching-from-the-previously-official-tongyong-pinyin.xml)  
+
 ### [2008-09-16](/news/2008/09/16/index.md)
 
+##### Taiwan
 #  The Republic of China adopts Hanyu Pinyin as its official Chinese romanization, switching from the previously-official Tongyong Pinyin.
 
 The government plans to make Hanyu Pinyin (漢語拼音) the standard system of Romanization nationwide starting on Jan. 1, an official with the Ministry of Education said yesterday.
 
 
-### Source:
+### Sources:
 
 1. [China Post](http://www.chinapost.com.tw/taiwan/national/national%20news/2008/09/18/175155/Gov%27t-to.htm)
 2. [Taipei Times](http://www.taipeitimes.com/News/taiwan/archives/2008/09/18/2003423528)

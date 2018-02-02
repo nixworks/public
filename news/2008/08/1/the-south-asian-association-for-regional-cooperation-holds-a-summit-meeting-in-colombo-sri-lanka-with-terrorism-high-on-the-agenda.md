@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/1/the-south-asian-association-for-regional-cooperation-holds-a-summit-meeting-in-colombo-sri-lanka-with-terrorism-high-on-the-agenda.html)  [JSON](/news/2008/08/1/the-south-asian-association-for-regional-cooperation-holds-a-summit-meeting-in-colombo-sri-lanka-with-terrorism-high-on-the-agenda.json)  [XML](/news/2008/08/1/the-south-asian-association-for-regional-cooperation-holds-a-summit-meeting-in-colombo-sri-lanka-with-terrorism-high-on-the-agenda.xml)  
+
 ### [2008-08-1](/news/2008/08/1/index.md)
 
+##### South Asian Association for Regional Cooperation
 #  The South Asian Association for Regional Cooperation holds a summit meeting in Colombo, Sri Lanka, with terrorism high on the agenda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7536543.stm)
 

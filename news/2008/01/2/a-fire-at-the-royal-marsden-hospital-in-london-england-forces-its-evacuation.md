@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/2/a-fire-at-the-royal-marsden-hospital-in-london-england-forces-its-evacuation.html)  [JSON](/news/2008/01/2/a-fire-at-the-royal-marsden-hospital-in-london-england-forces-its-evacuation.json)  [XML](/news/2008/01/2/a-fire-at-the-royal-marsden-hospital-in-london-england-forces-its-evacuation.xml)  
+
 ### [2008-01-2](/news/2008/01/2/index.md)
 
+##### Royal Marsden Hospital
 #  A fire at the Royal Marsden Hospital in London, England forces its evacuation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/england/london/7168206.stm)
 

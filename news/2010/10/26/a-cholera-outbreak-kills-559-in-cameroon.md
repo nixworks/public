@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/26/a-cholera-outbreak-kills-559-in-cameroon.html)  [JSON](/news/2010/10/26/a-cholera-outbreak-kills-559-in-cameroon.json)  [XML](/news/2010/10/26/a-cholera-outbreak-kills-559-in-cameroon.xml)  
+
 ### [2010-10-26](/news/2010/10/26/index.md)
 
+##### cholera
 # A cholera outbreak kills 559 in Cameroon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [India Vision](http://www.indiavision.com/news/article/health/117895)
 2. [Xinhua](http://news.xinhuanet.com/english2010/health/2010-09/08/c_13484979.htm)

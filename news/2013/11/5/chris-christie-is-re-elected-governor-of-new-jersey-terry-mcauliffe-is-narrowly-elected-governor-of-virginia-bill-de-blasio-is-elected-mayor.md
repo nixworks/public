@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2013/11/5/chris-christie-is-re-elected-governor-of-new-jersey-terry-mcauliffe-is-narrowly-elected-governor-of-virginia-bill-de-blasio-is-elected-mayor.html)  [JSON](/news/2013/11/5/chris-christie-is-re-elected-governor-of-new-jersey-terry-mcauliffe-is-narrowly-elected-governor-of-virginia-bill-de-blasio-is-elected-mayor.json)  [XML](/news/2013/11/5/chris-christie-is-re-elected-governor-of-new-jersey-terry-mcauliffe-is-narrowly-elected-governor-of-virginia-bill-de-blasio-is-elected-mayor.xml)  
+
 ### [2013-11-5](/news/2013/11/5/index.md)
 
+##### Chris Christie
 # Chris Christie is re-elected Governor of New Jersey.Terry McAuliffe is narrowly elected Governor of Virginia.Bill de Blasio is elected Mayor of New York City.
 
 

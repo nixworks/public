@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/4/aminata-toure-is-dismissed-as-prime-minister-of-senegal-by-the-country-s-parliament-following-her-failure-to-win-a-seat-from-dakar-in-the-20.html)  [JSON](/news/2014/07/4/aminata-toure-is-dismissed-as-prime-minister-of-senegal-by-the-country-s-parliament-following-her-failure-to-win-a-seat-from-dakar-in-the-20.json)  [XML](/news/2014/07/4/aminata-toure-is-dismissed-as-prime-minister-of-senegal-by-the-country-s-parliament-following-her-failure-to-win-a-seat-from-dakar-in-the-20.xml)  
+
 ### [2014-07-4](/news/2014/07/4/index.md)
 
+##### Aminata Tour
 # Aminata Tour is dismissed as Prime Minister of Senegal by the country's parliament following her failure to win a seat from Dakar in the 2014 local elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.de/senegal-dismisses-pm-toure-after-she-loses-dakar-vote/a-17759747)
 

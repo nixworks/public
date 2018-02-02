@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/21/the-pakistan-cricket-team-wins-the-2009-icc-world-twenty20-world-cup-after-a-hard-match-against-sri-lanka-at-lord-s-cricket-ground-in-londo.html)  [JSON](/news/2009/06/21/the-pakistan-cricket-team-wins-the-2009-icc-world-twenty20-world-cup-after-a-hard-match-against-sri-lanka-at-lord-s-cricket-ground-in-londo.json)  [XML](/news/2009/06/21/the-pakistan-cricket-team-wins-the-2009-icc-world-twenty20-world-cup-after-a-hard-match-against-sri-lanka-at-lord-s-cricket-ground-in-londo.xml)  
+
 ### [2009-06-21](/news/2009/06/21/index.md)
 
+##### Pakistan
 #  The Pakistan Cricket Team wins the 2009 ICC World Twenty20 world cup after a hard match against Sri Lanka at Lord's Cricket Ground in London, England. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Cricinfo](http://www.cricinfo.com/wt202009/content/current/story/410042.html)
 1. [Cover Image](http://www.espncricinfo.com/db/PICTURES/CMS/105100/105157.2.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/2/occupation-of-iraq-four-u-s-army-soldiers-including-1st-lt-jack-m-saville-and-sgt-tracy-perkins-are-charged-with-offenses-ranging-u.html)  [JSON](/news/2004/07/2/occupation-of-iraq-four-u-s-army-soldiers-including-1st-lt-jack-m-saville-and-sgt-tracy-perkins-are-charged-with-offenses-ranging-u.json)  [XML](/news/2004/07/2/occupation-of-iraq-four-u-s-army-soldiers-including-1st-lt-jack-m-saville-and-sgt-tracy-perkins-are-charged-with-offenses-ranging-u.xml)  
+
 ### [2004-07-2](/news/2004/07/2/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: Four U.S. Army soldiers, including 1st. Lt. Jack M. Saville and Sgt. Tracy Perkins, are charged with offenses ranging up to involuntary manslaughter in the January 3 drowning death of an Iraqi detainee whom they reportedly forced to leap into the Tigris from atop a bridge in Samarra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://story.news.yahoo.com/news?tmpl=story&cid=586&ncid=586&e=6&u=/nm/20040702/wl_nm/iraq_usa_prisoners_dc)
 

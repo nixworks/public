@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/27/a-jury-convicts-former-governor-of-the-us-state-of-illinois-rod-blagojevich-on-seventeen-charges-of-corruption.html)  [JSON](/news/2011/06/27/a-jury-convicts-former-governor-of-the-us-state-of-illinois-rod-blagojevich-on-seventeen-charges-of-corruption.json)  [XML](/news/2011/06/27/a-jury-convicts-former-governor-of-the-us-state-of-illinois-rod-blagojevich-on-seventeen-charges-of-corruption.xml)  
+
 ### [2011-06-27](/news/2011/06/27/index.md)
 
+##### Governor of Illinois
 # A jury convicts former Governor of the US state of Illinois Rod Blagojevich on seventeen charges of corruption. 
 
 A federal jury Monday convicted Rod Blagojevich of sweeping corruption, putting an end to a tragicomic legal and political drama that brought downIllinois’ showy and would-be populist former governor.
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-blagojevich-jurors-going-into-their-10th-day-20110627,0,620170.story)
 1. [Cover Image](http://www.trbimg.com/img-53266367/turbine/chi-blagojevich-jurors-going-into-their-10th-day-20110627)

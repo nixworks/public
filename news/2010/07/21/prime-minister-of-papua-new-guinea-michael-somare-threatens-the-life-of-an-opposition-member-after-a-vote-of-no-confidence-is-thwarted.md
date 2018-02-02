@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/21/prime-minister-of-papua-new-guinea-michael-somare-threatens-the-life-of-an-opposition-member-after-a-vote-of-no-confidence-is-thwarted.html)  [JSON](/news/2010/07/21/prime-minister-of-papua-new-guinea-michael-somare-threatens-the-life-of-an-opposition-member-after-a-vote-of-no-confidence-is-thwarted.json)  [XML](/news/2010/07/21/prime-minister-of-papua-new-guinea-michael-somare-threatens-the-life-of-an-opposition-member-after-a-vote-of-no-confidence-is-thwarted.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### Prime Minister
 # Prime Minister of Papua New Guinea Michael Somare threatens the life of an opposition member after a vote of no confidence is thwarted. 
 
 PNG Prime Minister Michael Somare threatened to kill an opposition member after his government thwarted a vote of no confidence by a prolonged adjournment.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/high-drama-as-somare-survives-png-vote-20100721-10kjy.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

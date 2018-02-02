@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/17/former-governor-of-california-arnold-schwarzenegger-admits-to-fathering-the-child-of-a-longterm-member-of-his-household-staff.html)  [JSON](/news/2011/05/17/former-governor-of-california-arnold-schwarzenegger-admits-to-fathering-the-child-of-a-longterm-member-of-his-household-staff.json)  [XML](/news/2011/05/17/former-governor-of-california-arnold-schwarzenegger-admits-to-fathering-the-child-of-a-longterm-member-of-his-household-staff.xml)  
+
 ### [2011-05-17](/news/2011/05/17/index.md)
 
+##### Governor of California
 # Former Governor of California Arnold Schwarzenegger admits to fathering the child of a longterm member of his household staff. 
 
 His wife, Maria Shriver, moved out of their Brentwood home earlier this year after the former governor acknowledged the paternity. The staff member worked for the family for 20 years, retiring in January.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/la-me-0517-arnold-20110517,0,4552508.story)
 1. [Cover Image](http://www.trbimg.com/img-56fd643a/turbine/la-l-a-times-logo-20160331/600)

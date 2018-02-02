@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/05/31/a-turkish-air-force-eurocopter-as532-cougar-helicopter-crashes-in-aa-rnak-province-after-hitting-an-electricity-line-killing-all-13-soldie.html)  [JSON](/news/2017/05/31/a-turkish-air-force-eurocopter-as532-cougar-helicopter-crashes-in-aa-rnak-province-after-hitting-an-electricity-line-killing-all-13-soldie.json)  [XML](/news/2017/05/31/a-turkish-air-force-eurocopter-as532-cougar-helicopter-crashes-in-aa-rnak-province-after-hitting-an-electricity-line-killing-all-13-soldie.xml)  
+
 ### [2017-05-31](/news/2017/05/31/index.md)
 
+##### Turkish Air Force
 # A Turkish Air Force Eurocopter AS532 Cougar helicopter crashes in Sirnak Province after hitting an electricity line, killing all 13 soldiers on board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2017/05/turkey-military-helicopter-crashes-iraq-border-170531193330643.html)
 

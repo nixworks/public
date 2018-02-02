@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/29/sunni-candidates-retain-a-majority-of-seats-in-the-bahraini-council-of-representatives-after-an-election-which-was-boycotted-by-the-main-shi.html)  [JSON](/news/2014/11/29/sunni-candidates-retain-a-majority-of-seats-in-the-bahraini-council-of-representatives-after-an-election-which-was-boycotted-by-the-main-shi.json)  [XML](/news/2014/11/29/sunni-candidates-retain-a-majority-of-seats-in-the-bahraini-council-of-representatives-after-an-election-which-was-boycotted-by-the-main-shi.xml)  
+
 ### [2014-11-29](/news/2014/11/29/index.md)
 
+##### Sunni Muslim
 # Sunni candidates retain a majority of seats in the Bahraini Council of Representatives after an election which was boycotted by the main Shi'ite opposition. 
 
 Pro-government Sunni candidates including Islamists have won the most seats in parliamentary elections in Bahrain boycotted by the main opposition Shiite majority, officials said on Sunday.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Daily Star](http://www.dailystar.com.lb/News/Middle-East/2014/Nov-30/279402-pro-government-sunnis-dominate-bahrain-vote.ashx)
 1. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2014/11/30/369550_img650x420_img650x420_crop.jpg)

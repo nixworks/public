@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/23/voters-head-to-the-polls-in-second-round-electi
 
 ### [2016-10-23](/news/2016/10/23/index.md)
 
+##### Lithuanian parliamentary election, 2016
 # Voters head to the polls in second round elections in constituencies where no candidate won over 50 percent on October 9 with the Lithuanian Peasant and Greens Union winning a plurality of seats. 
 
 

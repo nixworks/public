@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/7/malaysian-opposition-leader-anwar-ibrahim-is-sentenced-to-5-years-in-prison-for-sodomy-after-his-2012-acquittal-is-overturned.html)  [JSON](/news/2014/03/7/malaysian-opposition-leader-anwar-ibrahim-is-sentenced-to-5-years-in-prison-for-sodomy-after-his-2012-acquittal-is-overturned.json)  [XML](/news/2014/03/7/malaysian-opposition-leader-anwar-ibrahim-is-sentenced-to-5-years-in-prison-for-sodomy-after-his-2012-acquittal-is-overturned.xml)  
+
 ### [2014-03-7](/news/2014/03/7/index.md)
 
+##### Malaysia
 # Malaysian opposition leader Anwar Ibrahim is sentenced to 5 years in prison for sodomy after his 2012 acquittal is overturned. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg via SFGate](http://www.sfgate.com/business/bloomberg/article/Malaysia-Court-Sentences-Anwar-to-Five-Years-Jail-5296732.php)
 

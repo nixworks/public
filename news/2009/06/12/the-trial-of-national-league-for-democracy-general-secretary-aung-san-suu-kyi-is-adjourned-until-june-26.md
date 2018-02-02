@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/12/the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-is-adjourned-until-june-26.html)  [JSON](/news/2009/06/12/the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-is-adjourned-until-june-26.json)  [XML](/news/2009/06/12/the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-is-adjourned-until-june-26.xml)  
+
 ### [2009-06-12](/news/2009/06/12/index.md)
 
+##### trial
 #  The trial of National League for Democracy General Secretary Aung San Suu Kyi is adjourned until June 26. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gs16E0Y8T8w9Edy1yiDa2nXqxwkwD98P0B7O0)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8096456.stm)

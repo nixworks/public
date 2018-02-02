@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-the.html)  [JSON](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-the.json)  [XML](/news/2017/10/19/at-least-43-afghan-soldiers-are-killed-in-a-taliban-attack-on-an-army-base-in-kandahar-province-around-10-taliban-fighters-also-died-in-the.xml)  
+
 ### [2017-10-19](/news/2017/10/19/index.md)
 
+##### War in Afghanistan
 # At least 43 Afghan soldiers are killed in a Taliban attack on an army base in Kandahar Province. Around 10 Taliban fighters also died in the attack. 
 
 The Taliban have killed at least 43 Afghan soldiers in an attack that wiped out an army camp in the southern Kandahar province.

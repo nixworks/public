@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/26/at-least-57-people-are-killed-in-a-marketplace-bombing-in-parachinar-pakistan.html)  [JSON](/news/2013/07/26/at-least-57-people-are-killed-in-a-marketplace-bombing-in-parachinar-pakistan.json)  [XML](/news/2013/07/26/at-least-57-people-are-killed-in-a-marketplace-bombing-in-parachinar-pakistan.xml)  
+
 ### [2013-07-26](/news/2013/07/26/index.md)
 
+##### Parachinar
 # At least 57 people are killed in a marketplace bombing in Parachinar, Pakistan. 
 
 At least 57 people have been killed by bombs at a market in the northwestern Pakistani town of Parachinar, reports say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23470630)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68973000/jpg/_68973941_68973938.jpg)
@@ -14,6 +18,6 @@ At least 57 people have been killed by bombs at a market in the northwestern Pak
 
 1. [At least 22 people are killed and around 90 injured after a bomb explodes at a vegetable market in Parachinar in the Federally Administered Tribal Areas of Pakistan. ](/news/2017/01/21/at-least-22-people-are-killed-and-around-90-injured-after-a-bomb-explodes-at-a-vegetable-market-in-parachinar-in-the-federally-administered.md) _Context: Pakistan, Parachinar_
 2. [The death toll from a bombing on Friday in the Pakistani town of Parachinar in the Kurram region rises to 32. ](/news/2012/02/18/the-death-toll-from-a-bombing-on-friday-in-the-pakistani-town-of-parachinar-in-the-kurram-region-rises-to-32.md) _Context: Pakistan, Parachinar_
-3. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Pakistan_
-4. [A roadside bomb kills five people in Bajaur, Pakistan. ](/news/2017/09/17/a-roadside-bomb-kills-five-people-in-bajaur-pakistan.md) _Context: Pakistan_
-5. [The origin of the zero may have been in South Asia according to a Sanskrit script housed in the United Kingdom since 1902 and discovered in Bakhshali near Peshawar, Pakistan. ](/news/2017/09/14/the-origin-of-the-zero-may-have-been-in-south-asia-according-to-a-sanskrit-script-housed-in-the-united-kingdom-since-1902-and-discovered-in.md) _Context: Pakistan_
+3. [ More than 200 people die in accidents related to storms in Karachi, Pakistan. ](/news/2018/06/24/more-than-200-people-die-in-accidents-related-to-storms-in-karachi-pakistan.md) _Context: Pakistan_
+4. [The U.S. State Department suspends its security assistance to Pakistan. ](/news/2018/01/4/the-u-s-state-department-suspends-its-security-assistance-to-pakistan.md) _Context: Pakistan_
+5. [Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. ](/news/2018/01/21/six-insurgents-kill-at-least-18-people-including-4-afghans-and-14-foreigners-in-a-13-hour-gun-battle-the-afghan-interior-ministry-says-th.md) _Context: Pakistan_

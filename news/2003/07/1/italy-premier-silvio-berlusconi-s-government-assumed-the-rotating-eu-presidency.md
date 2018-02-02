@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/1/italy-premier-silvio-berlusconi-s-government-assumed-the-rotating-eu-presidency.html)  [JSON](/news/2003/07/1/italy-premier-silvio-berlusconi-s-government-assumed-the-rotating-eu-presidency.json)  [XML](/news/2003/07/1/italy-premier-silvio-berlusconi-s-government-assumed-the-rotating-eu-presidency.xml)  
+
 ### [2003-07-1](/news/2003/07/1/index.md)
 
+##### Premier
 #  Italy Premier Silvio Berlusconi's government assumed the rotating EU presidency.
 
 

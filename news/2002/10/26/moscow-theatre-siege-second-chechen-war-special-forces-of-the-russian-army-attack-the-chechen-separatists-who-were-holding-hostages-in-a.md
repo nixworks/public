@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/26/moscow-theatre-siege-second-chechen-war-special-forces-of-the-russian-army-attack-the-chechen-separatists-who-were-holding-hostages-in-a.html)  [JSON](/news/2002/10/26/moscow-theatre-siege-second-chechen-war-special-forces-of-the-russian-army-attack-the-chechen-separatists-who-were-holding-hostages-in-a.json)  [XML](/news/2002/10/26/moscow-theatre-siege-second-chechen-war-special-forces-of-the-russian-army-attack-the-chechen-separatists-who-were-holding-hostages-in-a.xml)  
+
 ### [2002-10-26](/news/2002/10/26/index.md)
 
+##### Moscow theatre siege
 #  Moscow theatre siege, Second Chechen War: Special forces of the Russian army attack the Chechen separatists who were holding hostages in a Moscow theater. Fifty of the 53 separatists and 117 of the 800 hostages are killed. Most of hostages were killed by poison gas used by the special forces, with most of the surviving hostages hospitalised with gas poisoning.
 
 

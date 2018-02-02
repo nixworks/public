@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/04/16/former-macedonian-interior-minister-ljube-boskovski-and-his-ex-bodyguard-johan-tarculovski-face-trials-for-war-crimes-at-the-international.html)  [JSON](/news/2007/04/16/former-macedonian-interior-minister-ljube-boskovski-and-his-ex-bodyguard-johan-tarculovski-face-trials-for-war-crimes-at-the-international.json)  [XML](/news/2007/04/16/former-macedonian-interior-minister-ljube-boskovski-and-his-ex-bodyguard-johan-tarculovski-face-trials-for-war-crimes-at-the-international.xml)  
+
 ### [2007-04-16](/news/2007/04/16/index.md)
 
+##### Macedonian
 #  Former Macedonian Interior Minister Ljube Boskovski and his ex-bodyguard Johan Tarculovski face trials for war crimes at the International Criminal Tribunal for the Former Yugoslavia at The Hague. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6558617.stm)
 
 ### Related:
 
-1. [The war crime convictions of Momcilo Perisic are overturned by a war crimes tribunal in The Hague. The Serbian general had been convicted and sentenced in 2011 for atrocities perpetrated both during wars in Croatia and Bosnia. ](/news/2013/02/28/the-war-crime-convictions-of-momailo-peria-ia-are-overturned-by-a-war-crimes-tribunal-in-the-hague-the-serbian-general-had-been-convicted.md) _Context: International Criminal Tribunal for the former Yugoslavia, The Hague_
-2. [The war crime convictions of Ante Gotovina and Mladen Markac are overturned by a war crimes tribunal in The Hague. The Croatian generals had been convicted and sentenced last year for atrocities against Serbs during the 1990's Yugoslav Wars. ](/news/2012/11/16/the-war-crime-convictions-of-ante-gotovina-and-mladen-markaa-are-overturned-by-a-war-crimes-tribunal-in-the-hague-the-croatian-generals-ha.md) _Context: International Criminal Tribunal for the former Yugoslavia, The Hague_
-3. [The trial of former Bosnian Serb Army Colonel General Ratko Mladic starts in the International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. ](/news/2012/05/16/the-trial-of-former-bosnian-serb-army-colonel-general-ratko-mladia-starts-in-the-international-criminal-tribunal-for-the-former-yugoslavia.md) _Context: International Criminal Tribunal for the former Yugoslavia, The Hague_
-4. [Bosnian Serb genocide suspect Ratko Mladic makes his first appearance at the war crimes tribunal in The Hague, Netherlands, and dismisses charges against him as "obnoxious." ](/news/2011/06/3/bosnian-serb-genocide-suspect-ratko-mladia-makes-his-first-appearance-at-the-war-crimes-tribunal-in-the-hague-netherlands-and-dismisses-c.md) _Context: International Criminal Tribunal for the former Yugoslavia, The Hague_
-5. [The trial of former Bosnian Serb leader Radovan Karadzic resumes at the International Criminal Tribunal for the former Yugoslavia in The Hague, Netherlands. ](/news/2010/09/27/the-trial-of-former-bosnian-serb-leader-radovan-karada3-4ia-resumes-at-the-international-criminal-tribunal-for-the-former-yugoslavia-in-the-h.md) _Context: International Criminal Tribunal for the former Yugoslavia, The Hague_
+1. [ Ramush Haradinaj, the former Prime Minister of Kosovo, goes on trial at the International Criminal Tribunal for the Former Yugoslavia at The Hague for war crimes allegedly committed while he was a regional leader of the Kosovo Liberation Army. ](/news/2007/03/5/ramush-haradinaj-the-former-prime-minister-of-kosovo-goes-on-trial-at-the-international-criminal-tribunal-for-the-former-yugoslavia-at-th.md) _Context: International Criminal Tribunal for the Former Yugoslavia, The Hague_
+2. [ The trial of seven former Bosnian Serb officers for alleged involvement in the Srebrenica massacre begins at The Hague war crimes tribunal. Five of the seven standing trial face genocide charges, as well as crimes against humanity. The trial is the largest yet staged at The Hague. ](/news/2006/07/14/the-trial-of-seven-former-bosnian-serb-officers-for-alleged-involvement-in-the-srebrenica-massacre-begins-at-the-hague-war-crimes-tribunal.md) _Context: International Criminal Tribunal for the Former Yugoslavia, The Hague_
+3. [ Former Bosnian Serb Army General Ratko Mladic, wanted by the International Criminal Tribunal for the Former Yugoslavia in The Hague in connection with the massacre of 8,000 men and boys on July 11, 1995, in Srebrenica, has been reported by Belgrade's Studio B TV to have been arrested. The Serbian government has denied the capture, decrying the report as "manipulation which damages the government". ](/news/2006/02/21/former-bosnian-serb-army-general-ratko-mladia-wanted-by-the-international-criminal-tribunal-for-the-former-yugoslavia-in-the-hague-in-con.md) _Context: International Criminal Tribunal for the Former Yugoslavia, The Hague_
+4. [ Croatian general Ante Gotovina, rated the third-most-wanted war criminal from the Yugoslav wars by the International Criminal Tribunal for the Former Yugoslavia, is arrested by Spanish police in Tenerife and extradited to face the tribunal in The Hague. ](/news/2005/12/8/croatian-general-ante-gotovina-rated-the-third-most-wanted-war-criminal-from-the-yugoslav-wars-by-the-international-criminal-tribunal-for.md) _Context: International Criminal Tribunal for the Former Yugoslavia, The Hague_
+5. [ Ramush Haradinaj, the former prime minister of Kosovo, flies to International Criminal Tribunal for the Former Yugoslavia in The Hague to answer for charges for his role as a former commander of Kosovo Liberation Army in 1998-1999. He goes there voluntarily. ](/news/2005/03/9/ramush-haradinaj-the-former-prime-minister-of-kosovo-flies-to-international-criminal-tribunal-for-the-former-yugoslavia-in-the-hague-to-a.md) _Context: International Criminal Tribunal for the Former Yugoslavia, The Hague_

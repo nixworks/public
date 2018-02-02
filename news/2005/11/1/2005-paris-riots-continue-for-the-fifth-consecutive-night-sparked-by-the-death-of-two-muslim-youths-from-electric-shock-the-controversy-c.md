@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/1/2005-paris-riots-continue-for-the-fifth-consecutive-night-sparked-by-the-death-of-two-muslim-youths-from-electric-shock-the-controversy-c.html)  [JSON](/news/2005/11/1/2005-paris-riots-continue-for-the-fifth-consecutive-night-sparked-by-the-death-of-two-muslim-youths-from-electric-shock-the-controversy-c.json)  [XML](/news/2005/11/1/2005-paris-riots-continue-for-the-fifth-consecutive-night-sparked-by-the-death-of-two-muslim-youths-from-electric-shock-the-controversy-c.xml)  
+
 ### [2005-11-1](/news/2005/11/1/index.md)
 
+##### 2005 Paris riots
 #  2005 Paris riots continue for the fifth consecutive night, sparked by the death of two Muslim youths from electric shock. The controversy caused by police firing tear gas into a mosque on Sunday night led to families of the dead youths pulling out of a meeting with the French Minister of the Interior Nicolas Sarkozy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [news24](http://www.news24.com/News24/World/News/0,,2-10-1462_1826915,00.html)
 1. [Cover Image](http://graph.facebook.com/10227041841/picture)

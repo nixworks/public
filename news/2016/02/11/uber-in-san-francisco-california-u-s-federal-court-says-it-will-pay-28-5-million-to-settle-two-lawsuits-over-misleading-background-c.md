@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/11/uber-in-san-francisco-california-u-s-federal-co
 
 ### [2016-02-11](/news/2016/02/11/index.md)
 
+##### Uber
 # Uber, in San Francisco, California (U.S.), federal court, says it will pay $28.5 million to settle two lawsuits over misleading background check information. Prosecutors settled a similar lawsuit with competitor Lyft in 2014. 
 
 Get the latest science news and technology news, read tech reviews and more at ABC News.

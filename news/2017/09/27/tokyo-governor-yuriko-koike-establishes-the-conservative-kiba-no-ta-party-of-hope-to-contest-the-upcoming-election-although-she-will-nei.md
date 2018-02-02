@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/27/tokyo-governor-yuriko-koike-establishes-the-con
 
 ### [2017-09-27](/news/2017/09/27/index.md)
 
+##### Japanese general election, 2017
 # Tokyo governor Yuriko Koike establishes the conservative Kibo no To (Party of Hope) to contest the upcoming election although she will neither lead it nor run. 
 
 Tokyo Gov. Yuriko Koike says her new party aims to &quot;reset&quot; Japanese politics by operating free from the influence of established interests.

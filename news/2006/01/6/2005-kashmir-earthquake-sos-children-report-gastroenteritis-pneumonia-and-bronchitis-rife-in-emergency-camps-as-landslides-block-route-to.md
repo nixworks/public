@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/6/2005-kashmir-earthquake-sos-children-report-gastroenteritis-pneumonia-and-bronchitis-rife-in-emergency-camps-as-landslides-block-route-to.html)  [JSON](/news/2006/01/6/2005-kashmir-earthquake-sos-children-report-gastroenteritis-pneumonia-and-bronchitis-rife-in-emergency-camps-as-landslides-block-route-to.json)  [XML](/news/2006/01/6/2005-kashmir-earthquake-sos-children-report-gastroenteritis-pneumonia-and-bronchitis-rife-in-emergency-camps-as-landslides-block-route-to.xml)  
+
 ### [2006-01-6](/news/2006/01/6/index.md)
 
+##### 2005 Kashmir earthquake
 #  2005 Kashmir earthquake: SOS Children report gastroenteritis, pneumonia and bronchitis rife in emergency camps as landslides block route to Muzaffarabad. The organization now has a total of 106 children with missing parents in its care. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SOS](http://www.soschildrensvillages.org.uk/charity-news/pakistan-earthquake-6-jan.htm)
 

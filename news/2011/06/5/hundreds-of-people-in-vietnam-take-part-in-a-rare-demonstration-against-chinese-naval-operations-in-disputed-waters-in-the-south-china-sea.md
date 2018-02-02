@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/5/hundreds-of-people-in-vietnam-take-part-in-a-rare-demonstration-against-chinese-naval-operations-in-disputed-waters-in-the-south-china-sea.html)  [JSON](/news/2011/06/5/hundreds-of-people-in-vietnam-take-part-in-a-rare-demonstration-against-chinese-naval-operations-in-disputed-waters-in-the-south-china-sea.json)  [XML](/news/2011/06/5/hundreds-of-people-in-vietnam-take-part-in-a-rare-demonstration-against-chinese-naval-operations-in-disputed-waters-in-the-south-china-sea.xml)  
+
 ### [2011-06-5](/news/2011/06/5/index.md)
 
+##### Vietnam
 # Hundreds of people in Vietnam take part in a rare demonstration against Chinese naval operations in disputed waters in the South China Sea. 
 
 Hundreds of Vietnamese turn out in Hanoi and Ho Chi Minh City to protest against Chinese naval operations in the disputed South China Sea.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13661779)
 2. [Philippine Inquirer](http://newsinfo.inquirer.net/12288/hundreds-of-vietnamese-protest-china)

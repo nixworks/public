@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/26/up-to-five-buddhist-monks-are-killed.html)  [JSON](/news/2007/09/26/up-to-five-buddhist-monks-are-killed.json)  [XML](/news/2007/09/26/up-to-five-buddhist-monks-are-killed.xml)  
+
 ### [2007-09-26](/news/2007/09/26/index.md)
 
+##### Buddhist monk
 #  Up to five Buddhist monks are killed 
 
 Police baton-charged a crowd of about 700 anti-junta protesters including students and some Buddhist monks who gathered near a pagoda in Burma&#039;s main city Rangoon in defiance of a ban, witnesses say.
 
 
-### Source:
+### Sources:
 
 1. [AFP and ABC News Australia](http://www.abc.net.au/news/stories/2007/09/26/2044242.htm)
 2. [AFP via News Limited](http://www.news.com.au/story/0,10117,22486165-401,00.html)

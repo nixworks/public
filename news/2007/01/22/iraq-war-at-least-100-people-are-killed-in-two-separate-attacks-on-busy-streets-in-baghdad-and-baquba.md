@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/22/iraq-war-at-least-100-people-are-killed-in-two-separate-attacks-on-busy-streets-in-baghdad-and-baquba.html)  [JSON](/news/2007/01/22/iraq-war-at-least-100-people-are-killed-in-two-separate-attacks-on-busy-streets-in-baghdad-and-baquba.json)  [XML](/news/2007/01/22/iraq-war-at-least-100-people-are-killed-in-two-separate-attacks-on-busy-streets-in-baghdad-and-baquba.xml)  
+
 ### [2007-01-22](/news/2007/01/22/index.md)
 
+##### Iraq War
 #  Iraq War: At least 100 people are killed in two separate attacks on busy streets in Baghdad and Baquba. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6286459.stm)
 2. [CNN](http://www.cnn.com/2007/WORLD/meast/01/22/Iraq.main/index.html)

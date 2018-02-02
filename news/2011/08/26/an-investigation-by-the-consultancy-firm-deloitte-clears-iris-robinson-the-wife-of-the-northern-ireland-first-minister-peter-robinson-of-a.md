@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/26/an-investigation-by-the-consultancy-firm-deloitte-clears-iris-robinson-the-wife-of-the-northern-ireland-first-minister-peter-robinson-of-a.html)  [JSON](/news/2011/08/26/an-investigation-by-the-consultancy-firm-deloitte-clears-iris-robinson-the-wife-of-the-northern-ireland-first-minister-peter-robinson-of-a.json)  [XML](/news/2011/08/26/an-investigation-by-the-consultancy-firm-deloitte-clears-iris-robinson-the-wife-of-the-northern-ireland-first-minister-peter-robinson-of-a.xml)  
+
 ### [2011-08-26](/news/2011/08/26/index.md)
 
+##### Deloitte
 # An investigation by the consultancy firm Deloitte clears Iris Robinson, the wife of the Northern Ireland First Minister Peter Robinson, of any wrongdoing over a council contract which was awarded to an individual with whom she was conducting an affair. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-14673743)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54845000/jpg/_54845573_irisrobinson.jpg)

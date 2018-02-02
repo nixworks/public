@@ -1,16 +1,26 @@
+
+Formats: [HTML](/news/2006/09/27/an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in-prison-for-murdering-four-palest.html)  [JSON](/news/2006/09/27/an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in-prison-for-murdering-four-palest.json)  [XML](/news/2006/09/27/an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in-prison-for-murdering-four-palest.xml)  
+
 ### [2006-09-27](/news/2006/09/27/index.md)
 
+##### Israel
 #  An Israeli court sentences Asher Weisgan to four consecutive life sentences plus an additional 12 years in prison for murdering four Palestinian workmen and wounding a fifth in August 2005. Weisgan must also pay more than 1,000,000 shekels ($US 235,000) in compensation to the victims' families. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5384790.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/768024.html)
 3. [IMEMC](http://www.imemc.org/content/view/21697/1/)
 4. [IMEMC](http://www.imemc.org/content/view/21701/1/)
+
+### Changes:
+
+1. [ Israeli-Palestinian conflict: An Israeli court sentences Asher Weisgan to four consecutive life sentences plus an additional 12 years in prison for murdering four Palestinian workmen and wounding a fifth in August 2005. Weisgan must also pay more than 1,000,000 shekels ($US 235,000) in compensation to the victims' families. ](/news/2006/09/27/israeliapalestinian-conflict-p-an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in.md) _2017-08-25 03:18:29 (First version)_
+2. [ Israeli-Palestinian conflict:: An Israeli court sentences Asher Weisgan to four consecutive life sentences plus an additional 12 years in prison for murdering four Palestinian workmen and wounding a fifth in August 2005. Weisgan must also pay more than 1,000,000 shekels ($US 235,000) in compensation to the victims' families. ](/news/2006/09/27/israeli-palestinian-conflict-an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in.md) _2017-08-27 03:18:23 (Update)_
+2. [ An Israeli court sentences Asher Weisgan to four consecutive life sentences plus an additional 12 years in prison for murdering four Palestinian workmen and wounding a fifth in August 2005. Weisgan must also pay more than 1,000,000 shekels ($US 235,000) in compensation to the victims' families. ](/news/2006/09/27/an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in-prison-for-murdering-four-palest.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +29,3 @@
 3. [Hundreds of Palestinian prisoners in Israeli jails -- activists say up to 1,500 are participating -- begin an open-ended hunger strike to protest poor conditions and the Israeli policy of detention without trial. ](/news/2017/04/17/hundreds-of-palestinian-prisoners-in-israeli-jails-a-activists-say-up-to-1-500-are-participating-a-begin-an-open-ended-hunger-strike-to.md) _Context: Israel, Palestinians_
 4. [The report of the diplomatic Quartet to the Security Council -- the United Nations, Russia, the United States, and the European Union -- calls on Israel to end settlement construction and expansion policy, and calls on Palestinians to act decisively to stop incitement to violence and to clearly condemn terrorist acts. Special Coordinator for the Middle East Peace Process Nickolay Mladenov tells the UNSC, "The main objective of this report is not about assigning blame ... (rather) it focuses on the major threats to achieving a negotiated peace." ](/news/2016/07/1/the-report-of-the-diplomatic-quartet-to-the-security-council-a-the-united-nations-russia-the-united-states-and-the-european-union-a-c.md) _Context: Israel, Palestinians_
 5. [A 17-year-old Palestinian stabs and kills a sleeping 13-year-old Israeli and American citizen girl Hallel Yaffa Ariel in her bedroom. The assailant is fatally shot by security guards. Israeli Prime Minister Benjamin Netanyahu blamed "incitement-driven terrorists" while the U.S. State Department condemned the "outrageous terrorist attack." ](/news/2016/06/30/a-17-year-old-palestinian-stabs-and-kills-a-sleeping-13-year-old-israeli-and-american-citizen-girl-hallel-yaffa-ariel-in-her-bedroom-the-as.md) _Context: Israel, Palestinians_
-
-### Changes:
-
-1. [ Israeli-Palestinian conflict: An Israeli court sentences Asher Weisgan to four consecutive life sentences plus an additional 12 years in prison for murdering four Palestinian workmen and wounding a fifth in August 2005. Weisgan must also pay more than 1,000,000 shekels ($US 235,000) in compensation to the victims' families. ](/news/2006/09/27/israeliapalestinian-conflict-p-an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in.md) _2017-08-25 03:18:29 (First version)_
-2. [ Israeli-Palestinian conflict:: An Israeli court sentences Asher Weisgan to four consecutive life sentences plus an additional 12 years in prison for murdering four Palestinian workmen and wounding a fifth in August 2005. Weisgan must also pay more than 1,000,000 shekels ($US 235,000) in compensation to the victims' families. ](/news/2006/09/27/israeli-palestinian-conflict-an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in.md) _2017-08-27 03:18:23 (Update)_
-2. [ An Israeli court sentences Asher Weisgan to four consecutive life sentences plus an additional 12 years in prison for murdering four Palestinian workmen and wounding a fifth in August 2005. Weisgan must also pay more than 1,000,000 shekels ($US 235,000) in compensation to the victims' families. ](/news/2006/09/27/an-israeli-court-sentences-asher-weisgan-to-four-consecutive-life-sentences-plus-an-additional-12-years-in-prison-for-murdering-four-palest.md) _(Current version)_

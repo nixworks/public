@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/10/iss-crew-members-prepare-for-a-contingency-spacewalk-to-stop-an-anticipated-ammonia-coolant-leak.html)  [JSON](/news/2013/05/10/iss-crew-members-prepare-for-a-contingency-spacewalk-to-stop-an-anticipated-ammonia-coolant-leak.json)  [XML](/news/2013/05/10/iss-crew-members-prepare-for-a-contingency-spacewalk-to-stop-an-anticipated-ammonia-coolant-leak.xml)  
+
 ### [2013-05-10](/news/2013/05/10/index.md)
 
+##### ISS
 # ISS crew members prepare for a contingency spacewalk to stop an anticipated ammonia coolant leak. 
 
 Station managers and international partners approved plans Friday for Saturday spacewalk to troubleshoot ammonia coolant leak.
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://www.nasa.gov/mission_pages/station/expeditions/expedition35/e35_051013.html)
 2. [nasaspaceflight.com](http://www.nasaspaceflight.com/2013/05/ammonia-leak-iss-contingency-spacewalks/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/9/venus-express-the-first-mission-to-venus-in-over-a-decade-lifts-off-from-the-baikonur-cosmodrome-in-kazakhstan.html)  [JSON](/news/2005/11/9/venus-express-the-first-mission-to-venus-in-over-a-decade-lifts-off-from-the-baikonur-cosmodrome-in-kazakhstan.json)  [XML](/news/2005/11/9/venus-express-the-first-mission-to-venus-in-over-a-decade-lifts-off-from-the-baikonur-cosmodrome-in-kazakhstan.xml)  
+
 ### [2005-11-9](/news/2005/11/9/index.md)
 
+##### Venus Express
 #  Venus Express, the first mission to Venus in over a decade, lifts off from the Baikonur Cosmodrome in Kazakhstan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4420012.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/14/russian-and-syrian-government-jets-conduct-26-a
 
 ### [2016-08-14](/news/2016/08/14/index.md)
 
+##### Syrian Civil War
 # Russian and Syrian government jets conduct 26 airstrikes across Idlib province, killing 122 civilians. 
 
 
@@ -19,8 +20,8 @@ Formats: [HTML](/news/2016/08/14/russian-and-syrian-government-jets-conduct-26-a
 
 ### Related:
 
-1. [The Syrian Observatory for Human Rights claims that 10 people have been killed in an air strike on a hospital in the town of Milis in Syria's Idlib province. ](/news/2016/08/6/the-syrian-observatory-for-human-rights-claims-that-10-people-have-been-killed-in-an-air-strike-on-a-hospital-in-the-town-of-milis-in-syria.md) _Context: Idlib province, Syrian Civil War_
-2. [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: Syrian Civil War_
-3. [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md) _Context: Syrian Civil War_
-4. [Russian airstrikes hit residential buildings in the ISIS-held village of Al-Shafah in Deir Ezzor province, killing at least 53 civilians, including 21 children. ](/news/2017/11/26/russian-airstrikes-hit-residential-buildings-in-the-isis-held-village-of-al-shafah-in-deir-ezzor-province-killing-at-least-53-civilians-in.md) _Context: Syrian Civil War_
-5. [The White House confirms Turkish Foreign Minister Mevlut Cavusoglu's announcement that President Donald Trump told Turkish President Recep Tayyip Erdogan that America is preparing to stop supplying weapons to ethnic Kurdish fighters in Syria. ](/news/2017/11/24/the-white-house-confirms-turkish-foreign-minister-mevla1-4t-aavuaoalu-s-announcement-that-president-donald-trump-told-turkish-president-rec.md) _Context: Syrian Civil War_
+1. [The White Helmets reports that Syrian government and Russian warplanes, using rockets and internationally-banned weapons - including vacuum bombs, repeatedly strike residential areas in the town of Al-Lataminah and six villages in Idlib province, killing 22 people. ](/news/2017/12/28/the-white-helmets-reports-that-syrian-government-and-russian-warplanes-using-rockets-and-internationally-banned-weapons-including-vacuum.md) _Context: Idlib province, Syrian Civil War_
+2. [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md) _Context: Syrian Civil War_
+3. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Syrian Civil War_
+4. [The Syrian Army seizes control of the strategic Abu al-Duhur Military Airbase in Idlib Governorate. ](/news/2018/01/20/the-syrian-army-seizes-control-of-the-strategic-abu-al-duhur-military-airbase-in-idlib-governorate.md) _Context: Syrian Civil War_
+5. [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md) _Context: Syrian Civil War_

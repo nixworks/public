@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/8/the-prime-minister-of-madagascar-jean-ravelonari
 
 ### [2016-04-8](/news/2016/04/8/index.md)
 
+##### Prime Minister of Madagascar
 # The Prime Minister of Madagascar Jean Ravelonarivo and his cabinet resign from office with no explanation given. 
 
 Madagascar’s president has accepted the resignation of Jean Ravelonarivo and his government

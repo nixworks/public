@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/26/a-6-5-6-9-earthquake-strikes-near-taitung-south-east-of-taiwan.html)  [JSON](/news/2010/04/26/a-6-5-6-9-earthquake-strikes-near-taitung-south-east-of-taiwan.json)  [XML](/news/2010/04/26/a-6-5-6-9-earthquake-strikes-near-taitung-south-east-of-taiwan.xml)  
+
 ### [2010-04-26](/news/2010/04/26/index.md)
 
+##### 6.5~6.9 earthquake
 #  A 6.5~6.9 earthquake strikes near Taitung, south east of Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?ID=201004260010&Type=aSOC)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/26/c_13267581.htm)

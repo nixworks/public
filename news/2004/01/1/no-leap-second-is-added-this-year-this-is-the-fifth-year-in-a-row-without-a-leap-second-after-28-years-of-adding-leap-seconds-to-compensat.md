@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/01/1/no-leap-second-is-added-this-year-this-is-the-fifth-year-in-a-row-without-a-leap-second-after-28-years-of-adding-leap-seconds-to-compensat.html)  [JSON](/news/2004/01/1/no-leap-second-is-added-this-year-this-is-the-fifth-year-in-a-row-without-a-leap-second-after-28-years-of-adding-leap-seconds-to-compensat.json)  [XML](/news/2004/01/1/no-leap-second-is-added-this-year-this-is-the-fifth-year-in-a-row-without-a-leap-second-after-28-years-of-adding-leap-seconds-to-compensat.xml)  
+
 ### [2004-01-1](/news/2004/01/1/index.md)
 
+##### leap second
 #  No leap second is added this year. This is the fifth year in a row without a leap-second after 28 years of adding leap-seconds to compensate for the slowing of the Earth's rotation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/TECH/science/01/01/leap.second.ap/index.html)
 

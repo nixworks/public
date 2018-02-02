@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/27/thabo-mbeki-the-president-of-south-africa-leaves-for-japan-to-attend-a-conference-on-african-development-despite-concerns-about-the-2008.html)  [JSON](/news/2008/05/27/thabo-mbeki-the-president-of-south-africa-leaves-for-japan-to-attend-a-conference-on-african-development-despite-concerns-about-the-2008.json)  [XML](/news/2008/05/27/thabo-mbeki-the-president-of-south-africa-leaves-for-japan-to-attend-a-conference-on-african-development-despite-concerns-about-the-2008.xml)  
+
 ### [2008-05-27](/news/2008/05/27/index.md)
 
+##### Thabo Mbeki
 #  Thabo Mbeki, the President of South Africa, leaves for Japan to attend a conference on African development despite concerns about the 2008 South African riots. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.cbe29238f21e4d15ba315cc412f6c6a7.b1.html)
 

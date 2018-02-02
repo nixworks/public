@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/14/an-air-india-pilots-strike-enters-its-seventh-day-with-the-airline-cancelling-13-international-flights.html)  [JSON](/news/2012/05/14/an-air-india-pilots-strike-enters-its-seventh-day-with-the-airline-cancelling-13-international-flights.json)  [XML](/news/2012/05/14/an-air-india-pilots-strike-enters-its-seventh-day-with-the-airline-cancelling-13-international-flights.xml)  
+
 ### [2012-05-14](/news/2012/05/14/index.md)
 
+##### Air India
 # An Air India pilots' strike enters its seventh day, with the airline cancelling 13 international flights. 
 
 It&#039;s the seventh day of the strike by the pilots of Air India and the passengers&#039; woes are mounting. Thirteen international flights have been cancelled overnight including seven from Mumbai and four from Delhi.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-18055260)
 2. [NDTV](http://www.ndtv.com/article/india/air-india-deadlock-13-international-flights-cancelled-angry-passengers-try-to-block-road-outside-mum-210343)

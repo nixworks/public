@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/26/us-actor-charlie-sheen-settles-his-lawsuit-with-warner-brothers-and-two-and-a-half-men-creator-chuck-lorre.html)  [JSON](/news/2011/09/26/us-actor-charlie-sheen-settles-his-lawsuit-with-warner-brothers-and-two-and-a-half-men-creator-chuck-lorre.json)  [XML](/news/2011/09/26/us-actor-charlie-sheen-settles-his-lawsuit-with-warner-brothers-and-two-and-a-half-men-creator-chuck-lorre.xml)  
+
 ### [2011-09-26](/news/2011/09/26/index.md)
 
+##### Charlie Sheen
 # US actor Charlie Sheen settles his lawsuit with Warner Brothers and "Two and a Half Men" creator Chuck Lorre. 
 
 The resolution of the $100 million case was reported by THR last week.
 
 
-### Source:
+### Sources:
 
 1. [Hollywood Reporter](http://www.hollywoodreporter.com/thr-esq/official-charlie-sheen-settles-lawsuit-240214)
 1. [Cover Image](http://cdn3.thr.com/sites/default/files/2011/03/sheen-car-2011-a-p.jpg)

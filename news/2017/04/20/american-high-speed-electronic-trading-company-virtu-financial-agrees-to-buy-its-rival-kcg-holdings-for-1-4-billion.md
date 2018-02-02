@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/20/american-high-speed-electronic-trading-company-
 
 ### [2017-04-20](/news/2017/04/20/index.md)
 
+##### America
 # American high-speed electronic trading company Virtu Financial agrees to buy its rival KCG Holdings for $1.4 billion. 
 
 (Adds Anthem, EDP, Televisa, Novo Banco, Frontline, Societe Generale, Schroders and National Aluminium; updates Virtu Financial)

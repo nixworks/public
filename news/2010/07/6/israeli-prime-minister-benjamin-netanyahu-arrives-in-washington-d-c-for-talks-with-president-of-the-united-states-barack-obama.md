@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/6/israeli-prime-minister-benjamin-netanyahu-arrives-in-washington-d-c-for-talks-with-president-of-the-united-states-barack-obama.html)  [JSON](/news/2010/07/6/israeli-prime-minister-benjamin-netanyahu-arrives-in-washington-d-c-for-talks-with-president-of-the-united-states-barack-obama.json)  [XML](/news/2010/07/6/israeli-prime-minister-benjamin-netanyahu-arrives-in-washington-d-c-for-talks-with-president-of-the-united-states-barack-obama.xml)  
+
 ### [2010-07-6](/news/2010/07/6/index.md)
 
+##### Israel
 # Israeli Prime Minister Benjamin Netanyahu arrives in Washington, D.C. for talks with President of the United States Barack Obama. 
 
 Israeli PM Benjamin Netanyahu and US President Barack Obama hold White House talks, a day after the Gaza blockade is eased.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/middle_east/10518109.stm)
 2. [CNN](http://edition.cnn.com/2010/POLITICS/07/06/obama.netanyahu.meeting/index.html?eref=edition&fbid=4I1tbJn2BPy)

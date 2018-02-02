@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/28/africa-s-longest-serving-leader-teodoro-obiang-
 
 ### [2016-04-28](/news/2016/04/28/index.md)
 
+##### Elections in Equatorial Guinea
 # Africa's longest serving leader Teodoro Obiang, the President of Equatorial Guinea is declared the winner of the recent election with 93.7 per cent of the vote. His government has been heavily criticised by human rights group. 
 
 

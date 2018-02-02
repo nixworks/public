@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/10/30/two-assailants-are-shot-dead-by-israeli-police-after-knife-wielding-palestinians-attacked-israelis-in-jerusalem-and-in-the-west-bank-anothe.html)  [JSON](/news/2015/10/30/two-assailants-are-shot-dead-by-israeli-police-after-knife-wielding-palestinians-attacked-israelis-in-jerusalem-and-in-the-west-bank-anothe.json)  [XML](/news/2015/10/30/two-assailants-are-shot-dead-by-israeli-police-after-knife-wielding-palestinians-attacked-israelis-in-jerusalem-and-in-the-west-bank-anothe.xml)  
+
 ### [2015-10-30](/news/2015/10/30/index.md)
 
+##### Israeli-Palestinian conflict (2015)
 # Two assailants are shot dead by Israeli police after knife-wielding Palestinians attacked Israelis in Jerusalem and in the West Bank. Another four people, including a Palestinian assailant, are injured in incidents at an Israeli checkpoint outside the West Bank city of Nablus and at a tram station in East Jerusalem. 
 
 Knife-wielding Palestinians attacked Israelis in Jerusalem and the occupied West Bank on Friday and police said they had shot dead two assailants, in a further wave of violence spurred partly by tensions over a Jerusalem holy site.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://america.aljazeera.com/articles/2015/10/30/palestinian-killed-as-stabbings-and-clashes-continue.html)
 2. [Reuters](http://in.reuters.com/article/2015/10/30/israeli-palestinians-idINKCN0SO1HX20151030)
 2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151030&t=2&i=1090989273&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB9T0OM)
+
+### Changes:
+
+1. [Israeli-Palestinian conflict (2015): Two assailants are shot dead by Israeli police after knife-wielding Palestinians attacked Israelis in Jerusalem and in the West Bank. Another four people, including a Palestinian assailant, are injured in incidents at an Israeli checkpoint outside the West Bank city of Nablus and at a tram station in East Jerusalem. ](/news/2015/10/30/israeli-palestinian-conflict-2015-two-assailants-are-shot-dead-by-israeli-police-after-knife-wielding-palestinians-attacked-israelis-in.md) _2017-08-27 03:43:36 (First version)_
+1. [Two assailants are shot dead by Israeli police after knife-wielding Palestinians attacked Israelis in Jerusalem and in the West Bank. Another four people, including a Palestinian assailant, are injured in incidents at an Israeli checkpoint outside the West Bank city of Nablus and at a tram station in East Jerusalem. ](/news/2015/10/30/two-assailants-are-shot-dead-by-israeli-police-after-knife-wielding-palestinians-attacked-israelis-in-jerusalem-and-in-the-west-bank-anothe.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Knife-wielding Palestinians attacked Israelis in Jerusalem and the occupied West
 3. [Three Palestinians are shot dead after attacking Israeli soldiers with knives in the occupied West Bank. Jerusalem's Hadassah Hospital reports that 76-year old American-Israeli Richard Lakin, who was critically injured in a bus attack on October 13, 2015, died of his injuries. ](/news/2015/10/27/three-palestinians-are-shot-dead-after-attacking-israeli-soldiers-with-knives-in-the-occupied-west-bank-jerusalem-s-hadassah-hospital-repor.md) _Context: Israel, Jerusalem, Palestinians, West Bank_
 4. [U.N. Secretary-General Ban Ki-moon, during a surprise visit to Jerusalem today, calls for calm ahead of meetings with Israeli and Palestinian leaders in an effort to bring an end to the month-long wave of violence. ](/news/2015/10/20/u-n-secretary-general-ban-ki-moon-during-a-surprise-visit-to-jerusalem-today-calls-for-calm-ahead-of-meetings-with-israeli-and-palestinia.md) _Context: Israel, Israeli-Palestinian conflict (2015), Jerusalem, Palestinians_
 5. [Palestinians carried out three stabbing attacks against Israeli citizens and police in Jerusalem today with two of the attackers shot dead as the wave of violence continues, police said. There have been a series of stabbing attacks in Israel and the West Bank in recent days that have wounded several Israelis; nine attackers have been shot dead. Also, at least 16 Palestinians have been killed by Israeli forces during-after violent demonstrations in the West Bank and Gaza. ](/news/2015/10/12/palestinians-carried-out-three-stabbing-attacks-against-israeli-citizens-and-police-in-jerusalem-today-with-two-of-the-attackers-shot-dead-a.md) _Context: Israel, Jerusalem, Palestinians, West Bank_
-
-### Changes:
-
-1. [Israeli-Palestinian conflict (2015): Two assailants are shot dead by Israeli police after knife-wielding Palestinians attacked Israelis in Jerusalem and in the West Bank. Another four people, including a Palestinian assailant, are injured in incidents at an Israeli checkpoint outside the West Bank city of Nablus and at a tram station in East Jerusalem. ](/news/2015/10/30/israeli-palestinian-conflict-2015-two-assailants-are-shot-dead-by-israeli-police-after-knife-wielding-palestinians-attacked-israelis-in.md) _2017-08-27 03:43:36 (First version)_
-1. [Two assailants are shot dead by Israeli police after knife-wielding Palestinians attacked Israelis in Jerusalem and in the West Bank. Another four people, including a Palestinian assailant, are injured in incidents at an Israeli checkpoint outside the West Bank city of Nablus and at a tram station in East Jerusalem. ](/news/2015/10/30/two-assailants-are-shot-dead-by-israeli-police-after-knife-wielding-palestinians-attacked-israelis-in-jerusalem-and-in-the-west-bank-anothe.md) _(Current version)_

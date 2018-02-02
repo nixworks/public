@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/01/15/the-motion-picture-academy-announces-the-nominees-for-the-87th-academy-awards-best-picture-at-the-samuel-goldwyn-theater-in-beverly-hills-c.html)  [JSON](/news/2015/01/15/the-motion-picture-academy-announces-the-nominees-for-the-87th-academy-awards-best-picture-at-the-samuel-goldwyn-theater-in-beverly-hills-c.json)  [XML](/news/2015/01/15/the-motion-picture-academy-announces-the-nominees-for-the-87th-academy-awards-best-picture-at-the-samuel-goldwyn-theater-in-beverly-hills-c.xml)  
+
 ### [2015-01-15](/news/2015/01/15/index.md)
 
+##### Academy of Motion Picture Arts and Sciences
 # The Motion Picture Academy announces the nominees for the 87th Academy Awards best picture at the Samuel Goldwyn Theater in Beverly Hills, California. The nominations are "American Sniper", "Birdman", "Boyhood", "The Grand Budapest Hotel", "The Imitation Game", "Selma", "The Theory of Everything", and "Whiplash". 
 
 The impetus behind today’s announcement to reveal the Oscar nominees in 24 categories next Thursday wasn’t the result of an outcry by those nominees who are omitted from the short-burst telecast th…
 
 
-### Source:
+### Sources:
 
 1. [Deadline](http://deadline.com/2015/01/oscars-academy-announcement-24-categories-1201345681/)
-2. [Washington Post](http://www.washingtonpost.com/blogs/style-blog/wp/2015/01/15/2015-oscar-nominations-complete-coverage/)
+2. [Washington Post](https://www.washingtonpost.com/blogs/style-blog/wp/2015/01/15/2015-oscar-nominations-complete-coverage/)
 2. [Cover Image](https://pmcdeadline2.files.wordpress.com/2015/01/oscar-nominations-2014.jpg?w=605)
 
 ### Related:

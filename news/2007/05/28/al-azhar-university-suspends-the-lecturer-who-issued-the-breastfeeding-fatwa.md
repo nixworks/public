@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/28/al-azhar-university-suspends-the-lecturer-who-issued-the-breastfeeding-fatwa.html)  [JSON](/news/2007/05/28/al-azhar-university-suspends-the-lecturer-who-issued-the-breastfeeding-fatwa.json)  [XML](/news/2007/05/28/al-azhar-university-suspends-the-lecturer-who-issued-the-breastfeeding-fatwa.xml)  
+
 ### [2007-05-28](/news/2007/05/28/index.md)
 
+##### Al-Azhar University
 #  Al-Azhar University suspends the lecturer who issued the Breastfeeding fatwa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6681511.stm)
 

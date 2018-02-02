@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/02/28/bosnian-muslim-general-rasim-delic-gives-himself-up-for-the-international-war-crimes-tribunal-in-the-hague-as-he-had-promised-earlier.html)  [JSON](/news/2005/02/28/bosnian-muslim-general-rasim-delic-gives-himself-up-for-the-international-war-crimes-tribunal-in-the-hague-as-he-had-promised-earlier.json)  [XML](/news/2005/02/28/bosnian-muslim-general-rasim-delic-gives-himself-up-for-the-international-war-crimes-tribunal-in-the-hague-as-he-had-promised-earlier.xml)  
+
 ### [2005-02-28](/news/2005/02/28/index.md)
 
+##### Bosnian
 #  Bosnian Muslim general Rasim Delic gives himself up for the International War Crimes Tribunal in The Hague, as he had promised earlier 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [FENA](http://www.fena.ba/uk/vijest.html?fena_id=FSA232709&rubrika=ES)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7758133)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7758133)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

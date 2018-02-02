@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/11/11/at-least-100-people-are-killed-in-a-tropical-cyclone-in-somalia-s-semi-autonomous-puntland-region.html)  [JSON](/news/2013/11/11/at-least-100-people-are-killed-in-a-tropical-cyclone-in-somalia-s-semi-autonomous-puntland-region.json)  [XML](/news/2013/11/11/at-least-100-people-are-killed-in-a-tropical-cyclone-in-somalia-s-semi-autonomous-puntland-region.xml)  
+
 ### [2013-11-11](/news/2013/11/11/index.md)
 
+##### Somalia
 # At least 100 people are killed in a tropical cyclone in Somalia's semi-autonomous Puntland region. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/11/11/us-somalia-storm-puntland-idUSBRE9AA0K420131111)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/11/11/us-somalia-storm-puntland-idUSBRE9AA0K420131111)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

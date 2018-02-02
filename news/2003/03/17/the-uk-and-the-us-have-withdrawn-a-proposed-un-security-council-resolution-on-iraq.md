@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/17/the-uk-and-the-us-have-withdrawn-a-proposed-un-security-council-resolution-on-iraq.html)  [JSON](/news/2003/03/17/the-uk-and-the-us-have-withdrawn-a-proposed-un-security-council-resolution-on-iraq.json)  [XML](/news/2003/03/17/the-uk-and-the-us-have-withdrawn-a-proposed-un-security-council-resolution-on-iraq.xml)  
+
 ### [2003-03-17](/news/2003/03/17/index.md)
 
+##### UN Security Council
 #  The UK and the US have withdrawn a proposed UN Security Council resolution on Iraq;
 
 

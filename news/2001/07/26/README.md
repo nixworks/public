@@ -1,7 +1,7 @@
-## [2001-07-26](/news/2001/07/26/index.md)
 
-### [ The republic of Moldova becomes a member of the World Trade Organization.](/news/2001/07/26/the-republic-of-moldova-becomes-a-member-of-the-world-trade-organization.md)
-_Context: Moldova, World Trade Organization_
+Formats: [HTML](2001/07/26/index.html)  [JSON](2001/07/26/index.json)  [XML](2001/07/26/index.xml)  
+
+## [2001-07-26](/news/2001/07/26/index.md)
 
 ## [Previous Day...](/news/2001/07/25/index.md)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/23/an-indian-heat-wave-claims-over-200-lives-with-the-states-of-andhra-pradesh-and-telangana-worst-affected.html)  [JSON](/news/2015/05/23/an-indian-heat-wave-claims-over-200-lives-with-the-states-of-andhra-pradesh-and-telangana-worst-affected.json)  [XML](/news/2015/05/23/an-indian-heat-wave-claims-over-200-lives-with-the-states-of-andhra-pradesh-and-telangana-worst-affected.xml)  
+
 ### [2015-05-23](/news/2015/05/23/index.md)
 
+##### 2015 India heat wave
 # An Indian heat wave claims over 200 lives with the states of Andhra Pradesh and Telangana worst affected. 
 
 Down south in A.P., among those who succumbed to the killer heat were 40 persons in Prakasam district and 12 in Visakhapatnam. In Telangana, 28 persons died.
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/news/national/andhra-pradesh/heat-wave-claims-over-220-lives-in-ap-telangana/article7239790.ece)
 1. [Cover Image](http://www.thehindu.com/migration_catalog/article10416544.ece/ALTERNATES/LANDSCAPE_615/heatwave1)

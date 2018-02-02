@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/spain-and-the-netherlands-are-both-fined-by-fifa-for-their-antics-during-the-2010-fifa-world-cup-final.html)  [JSON](/news/2010/08/3/spain-and-the-netherlands-are-both-fined-by-fifa-for-their-antics-during-the-2010-fifa-world-cup-final.json)  [XML](/news/2010/08/3/spain-and-the-netherlands-are-both-fined-by-fifa-for-their-antics-during-the-2010-fifa-world-cup-final.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Spain
 # Spain and the Netherlands are both fined by FIFA for their antics during the 2010 FIFA World Cup Final. 
 
 Fifa has given fines to both Holland and Spain for poor discipline during the World Cup final.
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/football/8881092.stm)
 2. [Sky Sports](http://www.skysports.com/story/0,19528,11095_6292868,00.html)

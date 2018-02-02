@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/05/23/horst-kohler-is-elected-as-the-president-of-germany-by-a-special-federal-assembly-in-the-reichstag.html)  [JSON](/news/2004/05/23/horst-kohler-is-elected-as-the-president-of-germany-by-a-special-federal-assembly-in-the-reichstag.json)  [XML](/news/2004/05/23/horst-kohler-is-elected-as-the-president-of-germany-by-a-special-federal-assembly-in-the-reichstag.xml)  
+
 ### [2004-05-23](/news/2004/05/23/index.md)
 
+##### Horst Khler
 #  Horst Khler is elected as the President of Germany by a special federal assembly in the Reichstag. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5227391&section=news)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5227391&section=news)
 
 ### Related:
 

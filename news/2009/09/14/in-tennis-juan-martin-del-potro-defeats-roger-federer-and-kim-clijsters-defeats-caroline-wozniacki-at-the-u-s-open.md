@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/14/in-tennis-juan-martin-del-potro-defeats-roger-federer-and-kim-clijsters-defeats-caroline-wozniacki-at-the-u-s-open.html)  [JSON](/news/2009/09/14/in-tennis-juan-martin-del-potro-defeats-roger-federer-and-kim-clijsters-defeats-caroline-wozniacki-at-the-u-s-open.json)  [XML](/news/2009/09/14/in-tennis-juan-martin-del-potro-defeats-roger-federer-and-kim-clijsters-defeats-caroline-wozniacki-at-the-u-s-open.xml)  
+
 ### [2009-09-14](/news/2009/09/14/index.md)
 
+##### tennis
 #  In tennis, Juan Martn del Potro defeats Roger Federer and Kim Clijsters defeats Caroline Wozniacki at the U.S. Open. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](http://straightsets.blogs.nytimes.com/2009/09/14/del-potro-stuns-federer-to-win-open/)
 

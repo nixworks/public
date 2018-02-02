@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/29/sepp-blatter-is-found-to-have-no-case-to-answer.html)  [JSON](/news/2011/05/29/sepp-blatter-is-found-to-have-no-case-to-answer.json)  [XML](/news/2011/05/29/sepp-blatter-is-found-to-have-no-case-to-answer.xml)  
+
 ### [2011-05-29](/news/2011/05/29/index.md)
 
+##### Sepp Blatter
 # Sepp Blatter is found to have no case to answer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/201152916111482442.html)
 

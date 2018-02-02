@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/08/20/israel-and-palestinians-agree-to-resume-peace-talks-on-september-2.html)  [JSON](/news/2010/08/20/israel-and-palestinians-agree-to-resume-peace-talks-on-september-2.json)  [XML](/news/2010/08/20/israel-and-palestinians-agree-to-resume-peace-talks-on-september-2.xml)  
+
 ### [2010-08-20](/news/2010/08/20/index.md)
 
+##### Israel
 # Israel and Palestinians agree to resume peace talks on September 2. 
 
 Palestinians warn negotiations would be threatened if building on occupied land resumes.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010820231351211295.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/aug/20/israel-palestinians-direct-talks-poles-apart)
-3. [The New York Times](http://www.nytimes.com/2010/08/21/world/middleeast/21diplo.html)
+3. [The New York Times](https://www.nytimes.com/2010/08/21/world/middleeast/21diplo.html)
 4. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/20/c_13454823.htm)
 4. [Cover Image](http://www.aljazeera.com)
 

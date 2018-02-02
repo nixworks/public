@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/7/peruvian-spanish-writer-mario-vargas-llosa-is-announced-as-the-winner-of-the-2010-nobel-prize-in-literature.html)  [JSON](/news/2010/10/7/peruvian-spanish-writer-mario-vargas-llosa-is-announced-as-the-winner-of-the-2010-nobel-prize-in-literature.json)  [XML](/news/2010/10/7/peruvian-spanish-writer-mario-vargas-llosa-is-announced-as-the-winner-of-the-2010-nobel-prize-in-literature.xml)  
+
 ### [2010-10-7](/news/2010/10/7/index.md)
 
+##### Peru
 # Peruvian-Spanish writer Mario Vargas Llosa is announced as the winner of the 2010 Nobel Prize in Literature. 
 
 Mario Vargas Llosa, one of the most acclaimed South American writers, has won the Nobel Prize for Literature.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010107105615579655.html)
 2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11493191)
@@ -17,7 +21,7 @@ Mario Vargas Llosa, one of the most acclaimed South American writers, has won th
 ### Related:
 
 1. [Thirteen are killed and 34 others injured after a bus carrying Erasmus exchange students returning from the renowned Falles fireworks festival in Valencia, crashes near Freginals, Spain. The regional government of Catalonia said in a statement that, "... according to the latest data, the ill-fated bus had students from Hungary, Germany, Sweden, Norway, Switzerland, Czech Republic, United Kingdom, Italy, Peru, Bulgaria, Poland, Ireland, Japan, Ukraine, Holland, Belgium, France, Palestine, Turkey, (and) Greece." ](/news/2016/03/20/thirteen-are-killed-and-34-others-injured-after-a-bus-carrying-erasmus-exchange-students-returning-from-the-renowned-falles-fireworks-festiv.md) _Context: Peru, Spain_
-2. [UNESCO declares the Rizal Monument in Manila, Machu Picchu of Peru, Camino de Santiago of Spain, and the Dampier Archipelago of Australia as World Heritage Sites in Danger. ](/news/2014/11/18/unesco-declares-the-rizal-monument-in-manila-machu-picchu-of-peru-camino-de-santiago-of-spain-and-the-dampier-archipelago-of-australia-as.md) _Context: Peru, Spain_
-3. [Mario Vargas Llosa, last year's recipient of the Nobel Prize in Literature, speaks out against authoritarian governments and calls on all citizens to participate in political life while addressing students at Shanghai International Studies University. ](/news/2011/06/15/mario-vargas-llosa-last-year-s-recipient-of-the-nobel-prize-in-literature-speaks-out-against-authoritarian-governments-and-calls-on-all-ci.md) _Context: Mario Vargas Llosa, Nobel Prize in Literature_
-4. [Spain's third largest bank, CaixaBank, announces it is moving its legal base out of Catalonia to Valencia. This follows a similar move yesterday by Catalan banking group Banco Sabadell who announced they are moving their headquarters to Alicante in response to growing political insecurity in Catalonia. ](/news/2017/10/6/spain-s-third-largest-bank-caixabank-announces-it-is-moving-its-legal-base-out-of-catalonia-to-valencia-this-follows-a-similar-move-yeste.md) _Context: Spain_
-5. [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md) _Context: Nobel Prize in Literature_
+2. [Mario Vargas Llosa, last year's recipient of the Nobel Prize in Literature, speaks out against authoritarian governments and calls on all citizens to participate in political life while addressing students at Shanghai International Studies University. ](/news/2011/06/15/mario-vargas-llosa-last-year-s-recipient-of-the-nobel-prize-in-literature-speaks-out-against-authoritarian-governments-and-calls-on-all-ci.md) _Context: Mario Vargas Llosa, Nobel Prize in Literature_
+3. [Carles Puigdemont, ex-President of Catalonia, travels to Denmark while Spanish Attorney General requests the European Arrest Warrant. The Speaker of the Catalan Parliament appoints Puigdemont to be invested as President. Spain's Supreme Court refuses to reactivate the arrest warrant. ](/news/2018/01/22/carles-puigdemont-ex-president-of-catalonia-travels-to-denmark-while-spanish-attorney-general-requests-the-european-arrest-warrant-the-sp.md) _Context: Spain_
+4. [A coach bus plunges off a cliff on a coastal road in Peru, killing at least 48 people. ](/news/2018/01/2/a-coach-bus-plunges-off-a-cliff-on-a-coastal-road-in-peru-killing-at-least-48-people.md) _Context: Peru_
+5. [A 7.1 magnitude earthquake strikes in the Pacific Ocean near Acari in Peru's Arequipa Region resulting in 1 death and 65 injured. ](/news/2018/01/14/a-7-1-magnitude-earthquake-strikes-in-the-pacific-ocean-near-acara-in-peru-s-arequipa-region-resulting-in-1-death-and-65-injured.md) _Context: Peru_

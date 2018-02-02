@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/24/south-korean-presidential-candidate-park-geun-hye-daughter-of-former-president-park-chung-hee-apologises-for-abuses-committed-under-her-fa.html)  [JSON](/news/2012/09/24/south-korean-presidential-candidate-park-geun-hye-daughter-of-former-president-park-chung-hee-apologises-for-abuses-committed-under-her-fa.json)  [XML](/news/2012/09/24/south-korean-presidential-candidate-park-geun-hye-daughter-of-former-president-park-chung-hee-apologises-for-abuses-committed-under-her-fa.xml)  
+
 ### [2012-09-24](/news/2012/09/24/index.md)
 
+##### South Korea
 # South Korean presidential candidate Park Geun-hye, daughter of former president Park Chung-hee, apologises for abuses committed under her father's regime. 
 
 Presidential candidate Park Geun-Hye apologised for abuses committed by her father, Park Chung-Hee, during his rule.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/09/2012924821369510.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/images/2012/9/24//20129248235843734_20.jpg)

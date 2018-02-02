@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/28/at-least-126-people-are-dead-and-97-missing-aft
 
 ### [2017-05-28](/news/2017/05/28/index.md)
 
+##### 2017 Sri Lankan flood and landslide
 # At least 126 people are dead, and 97 missing, after mudslides and floods caused by heavy rain in Sri Lanka. Over 100,000 people have been displaced. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/5/residents-of-el-hierro-in-spain-s-canary-islands-are-evacuated-following-continuing-volcanic-activity.html)  [JSON](/news/2011/11/5/residents-of-el-hierro-in-spain-s-canary-islands-are-evacuated-following-continuing-volcanic-activity.json)  [XML](/news/2011/11/5/residents-of-el-hierro-in-spain-s-canary-islands-are-evacuated-following-continuing-volcanic-activity.xml)  
+
 ### [2011-11-5](/news/2011/11/5/index.md)
 
+##### El Hierro
 # Residents of El Hierro in Spain's Canary Islands are evacuated following continuing volcanic activity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2011/11/05/spain-evacuates-homes-in-el-hierro-island-due-to-volcanic-activity/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

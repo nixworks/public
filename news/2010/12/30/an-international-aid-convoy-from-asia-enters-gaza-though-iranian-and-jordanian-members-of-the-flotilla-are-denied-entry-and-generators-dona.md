@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/30/an-international-aid-convoy-from-asia-enters-gaza-though-iranian-and-jordanian-members-of-the-flotilla-are-denied-entry-and-generators-dona.html)  [JSON](/news/2010/12/30/an-international-aid-convoy-from-asia-enters-gaza-though-iranian-and-jordanian-members-of-the-flotilla-are-denied-entry-and-generators-dona.json)  [XML](/news/2010/12/30/an-international-aid-convoy-from-asia-enters-gaza-though-iranian-and-jordanian-members-of-the-flotilla-are-denied-entry-and-generators-dona.xml)  
+
 ### [2010-12-30](/news/2010/12/30/index.md)
 
+##### Asia
 # An international aid convoy from Asia enters Gaza, though Iranian and Jordanian members of the flotilla are denied entry and generators donated by Iran are banned too. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=201601)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)

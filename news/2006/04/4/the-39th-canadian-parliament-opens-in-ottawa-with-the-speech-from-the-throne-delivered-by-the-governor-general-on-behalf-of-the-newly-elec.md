@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/04/4/the-39th-canadian-parliament-opens-in-ottawa-with-the-speech-from-the-throne-delivered-by-the-governor-general-on-behalf-of-the-newly-elec.html)  [JSON](/news/2006/04/4/the-39th-canadian-parliament-opens-in-ottawa-with-the-speech-from-the-throne-delivered-by-the-governor-general-on-behalf-of-the-newly-elec.json)  [XML](/news/2006/04/4/the-39th-canadian-parliament-opens-in-ottawa-with-the-speech-from-the-throne-delivered-by-the-governor-general-on-behalf-of-the-newly-elec.xml)  
+
 ### [2006-04-4](/news/2006/04/4/index.md)
 
+##### 39th Canadian Parliament
 #  The 39th Canadian Parliament opens in Ottawa, with the Speech from the Throne delivered by the Governor General on behalf of the newly elected government of Stephen Harper. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1144144328619&call_pageid=968332188492&col=968793972154)
+1. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1144144328619&call_pageid=968332188492&col=968793972154)
 
 ### Related:
 

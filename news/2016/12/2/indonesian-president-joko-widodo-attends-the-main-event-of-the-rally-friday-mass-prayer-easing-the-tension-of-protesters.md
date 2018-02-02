@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/2/indonesian-president-joko-widodo-attends-the-mai
 
 ### [2016-12-2](/news/2016/12/2/index.md)
 
+##### Joko Widodo
 # Indonesian president Joko Widodo attends the main event of the rally, Friday mass prayer, easing the tension of protesters. 
 
 People&rsquo;s Consultative Assembly (MPR) speaker Zulkifli Hasan said the presence of President Joko &ldquo;Jokowi&rdquo; Widodo resulted in a mass prayer held by Islamic organizations at the National Monument (Monas) in Central Jakarta on Friday becoming cooler.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/11/the-iraqi-armed-forces-launch-an-offensive-to-r
 
 ### [2017-11-11](/news/2017/11/11/index.md)
 
+##### Iraqi Civil War (2014-present)
 # The Iraqi Armed Forces launch an offensive to recapture the last ISIL stronghold in Iraq, Rawa. 
 
 Rawa is the last town remaining under IS control in Iraq after the fall of al-Qaim.

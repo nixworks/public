@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/14/jp-morgan-chase-co-announced-a-settlement-of-a-lawsuit-brought-against-it-by-enron-investors-who-claim-that-it-helped-the-management-of.html)  [JSON](/news/2005/06/14/jp-morgan-chase-co-announced-a-settlement-of-a-lawsuit-brought-against-it-by-enron-investors-who-claim-that-it-helped-the-management-of.json)  [XML](/news/2005/06/14/jp-morgan-chase-co-announced-a-settlement-of-a-lawsuit-brought-against-it-by-enron-investors-who-claim-that-it-helped-the-management-of.xml)  
+
 ### [2005-06-14](/news/2005/06/14/index.md)
 
+##### JP Morgan Chase
 #  JP Morgan Chase & Co. announced a settlement of a lawsuit brought against it by Enron investors who claim that it helped the management of that company defraud them. JP Morgan will pay claimants US$2.2 billion.
 
 

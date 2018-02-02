@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2000/08/28/for-the-first-time-in-history-religious-and-spiritual-leaders-of-the-world-s-diverse-faith-traditions-came-together-in-new-york-to-discuss.html)  [JSON](/news/2000/08/28/for-the-first-time-in-history-religious-and-spiritual-leaders-of-the-world-s-diverse-faith-traditions-came-together-in-new-york-to-discuss.json)  [XML](/news/2000/08/28/for-the-first-time-in-history-religious-and-spiritual-leaders-of-the-world-s-diverse-faith-traditions-came-together-in-new-york-to-discuss.xml)  
+
 ### [2000-08-28](/news/2000/08/28/index.md)
 
+##### New York City
 # For the first time in history, religious and spiritual leaders of the world's diverse faith traditions came together in New York to discuss how to forge a partnership of peace with the United Nations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UN Millennium Peace Summit](http://www.millenniumpeacesummit.com/news000725.html)
 

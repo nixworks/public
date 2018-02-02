@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/15/china-announces-a-new-series-of-measures-to-combat-sars-foreign-adoptions-of-chinese-babies-are-now-suspended-the-penalties-for-knowingly.html)  [JSON](/news/2003/05/15/china-announces-a-new-series-of-measures-to-combat-sars-foreign-adoptions-of-chinese-babies-are-now-suspended-the-penalties-for-knowingly.json)  [XML](/news/2003/05/15/china-announces-a-new-series-of-measures-to-combat-sars-foreign-adoptions-of-chinese-babies-are-now-suspended-the-penalties-for-knowingly.xml)  
+
 ### [2003-05-15](/news/2003/05/15/index.md)
 
+##### SARS
 #  China announces a new series of measures to combat SARS. Foreign adoptions of Chinese babies are now suspended. The penalties for knowingly spreading the disease have been increased, and now include execution.
 
 

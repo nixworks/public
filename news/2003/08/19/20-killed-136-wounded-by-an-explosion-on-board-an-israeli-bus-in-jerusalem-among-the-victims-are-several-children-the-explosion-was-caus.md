@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/19/20-killed-136-wounded-by-an-explosion-on-board-an-israeli-bus-in-jerusalem-among-the-victims-are-several-children-the-explosion-was-caus.html)  [JSON](/news/2003/08/19/20-killed-136-wounded-by-an-explosion-on-board-an-israeli-bus-in-jerusalem-among-the-victims-are-several-children-the-explosion-was-caus.json)  [XML](/news/2003/08/19/20-killed-136-wounded-by-an-explosion-on-board-an-israeli-bus-in-jerusalem-among-the-victims-are-several-children-the-explosion-was-caus.xml)  
+
 ### [2003-08-19](/news/2003/08/19/index.md)
 
+##### Israel
 #  20 killed, 136 wounded by an explosion on board an Israeli bus in Jerusalem. Among the victims are several children. The explosion was caused by a Palestinian suicide bomber. The Palestinian Islamic Jihad in Hebron claims responsibility for the attack. There are conflicting reports that Hamas is responsible for the bombing. Israeli government reportedly freezes road map for peace negotiations. In the following days, two additional victims died of their wounds, raising the death toll to 22., see also: Jerusalem bus 2 massacre
 
 

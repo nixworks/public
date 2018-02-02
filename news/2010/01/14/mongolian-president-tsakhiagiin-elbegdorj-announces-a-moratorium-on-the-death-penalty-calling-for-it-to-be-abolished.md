@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/14/mongolian-president-tsakhiagiin-elbegdorj-announces-a-moratorium-on-the-death-penalty-calling-for-it-to-be-abolished.html)  [JSON](/news/2010/01/14/mongolian-president-tsakhiagiin-elbegdorj-announces-a-moratorium-on-the-death-penalty-calling-for-it-to-be-abolished.json)  [XML](/news/2010/01/14/mongolian-president-tsakhiagiin-elbegdorj-announces-a-moratorium-on-the-death-penalty-calling-for-it-to-be-abolished.xml)  
+
 ### [2010-01-14](/news/2010/01/14/index.md)
 
+##### Mongolia
 # Mongolian President Tsakhiagiin Elbegdorj announces a moratorium on the death penalty, calling for it to be abolished. 
 
 President Tsakhiagiin Elbegdorj cites cases of innocent people given death penalty.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/20101146493538358.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8458717.stm)

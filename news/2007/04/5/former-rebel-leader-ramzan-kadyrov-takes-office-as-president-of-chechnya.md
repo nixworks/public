@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/5/former-rebel-leader-ramzan-kadyrov-takes-office-as-president-of-chechnya.html)  [JSON](/news/2007/04/5/former-rebel-leader-ramzan-kadyrov-takes-office-as-president-of-chechnya.json)  [XML](/news/2007/04/5/former-rebel-leader-ramzan-kadyrov-takes-office-as-president-of-chechnya.xml)  
+
 ### [2007-04-5](/news/2007/04/5/index.md)
 
+##### Ramzan Kadyrov
 #  Former rebel leader Ramzan Kadyrov takes office as President of Chechnya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6528427.stm)
 

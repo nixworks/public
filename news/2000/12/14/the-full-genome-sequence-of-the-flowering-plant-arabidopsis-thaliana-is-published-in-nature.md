@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/12/14/the-full-genome-sequence-of-the-flowering-plant-arabidopsis-thaliana-is-published-in-nature.html)  [JSON](/news/2000/12/14/the-full-genome-sequence-of-the-flowering-plant-arabidopsis-thaliana-is-published-in-nature.json)  [XML](/news/2000/12/14/the-full-genome-sequence-of-the-flowering-plant-arabidopsis-thaliana-is-published-in-nature.xml)  
+
 ### [2000-12-14](/news/2000/12/14/index.md)
 
+##### Arabidopsis thaliana
 # The full genome sequence of the flowering plant "Arabidopsis thaliana" is published in "Nature".
 
 

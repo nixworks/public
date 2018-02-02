@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/28/former-president-of-south-africa-nelson-mandela-is-hospitalised-with-a-lung-infection.html)  [JSON](/news/2013/03/28/former-president-of-south-africa-nelson-mandela-is-hospitalised-with-a-lung-infection.json)  [XML](/news/2013/03/28/former-president-of-south-africa-nelson-mandela-is-hospitalised-with-a-lung-infection.xml)  
+
 ### [2013-03-28](/news/2013/03/28/index.md)
 
+##### President
 # Former President of South Africa Nelson Mandela is hospitalised with a lung infection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/blogs/health/2013/03/28/nelson-mandelas-lung-infection-could-be-pneumonia/)
 

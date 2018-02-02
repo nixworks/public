@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/6/tropical-storm-tomas-heads-for-the-turks-and-caicos-islands-after-killing-seven-people-in-haiti.html)  [JSON](/news/2010/11/6/tropical-storm-tomas-heads-for-the-turks-and-caicos-islands-after-killing-seven-people-in-haiti.json)  [XML](/news/2010/11/6/tropical-storm-tomas-heads-for-the-turks-and-caicos-islands-after-killing-seven-people-in-haiti.xml)  
+
 ### [2010-11-6](/news/2010/11/6/index.md)
 
+##### Tropical Storm Tomas
 # Tropical Storm Tomas heads for the Turks and Caicos Islands after killing seven people in Haiti. 
 
 Hurricane Tomas was aiming for the British territory of the Turks and Caicos Islands on Saturday after killing seven people in Haiti and turning refugee camps into rivers of mud.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/haiti/8114379/Hurricane-Tomas-kills-seven-in-Haiti.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01755/haiti_1755338a.jpg)

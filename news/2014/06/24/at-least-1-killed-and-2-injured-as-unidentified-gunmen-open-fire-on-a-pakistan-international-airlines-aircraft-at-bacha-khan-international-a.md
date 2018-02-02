@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/24/at-least-1-killed-and-2-injured-as-unidentified-gunmen-open-fire-on-a-pakistan-international-airlines-aircraft-at-bacha-khan-international-a.html)  [JSON](/news/2014/06/24/at-least-1-killed-and-2-injured-as-unidentified-gunmen-open-fire-on-a-pakistan-international-airlines-aircraft-at-bacha-khan-international-a.json)  [XML](/news/2014/06/24/at-least-1-killed-and-2-injured-as-unidentified-gunmen-open-fire-on-a-pakistan-international-airlines-aircraft-at-bacha-khan-international-a.xml)  
+
 ### [2014-06-24](/news/2014/06/24/index.md)
 
+##### Pakistan International Airlines
 # At least 1 killed and 2 injured as unidentified gunmen open fire on a Pakistan International Airlines aircraft at Bacha Khan International Airport in Peshawar, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IANS via Biharprabha](http://news.biharprabha.com/2014/06/one-killed-2-injured-in-a-gun-attack-at-peshawar-airport-in-pakistan/)
 

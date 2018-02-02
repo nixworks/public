@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/11/jimmy-carter-is-honored-with-the-nobel-peace-prize.html)  [JSON](/news/2002/10/11/jimmy-carter-is-honored-with-the-nobel-peace-prize.json)  [XML](/news/2002/10/11/jimmy-carter-is-honored-with-the-nobel-peace-prize.xml)  
+
 ### [2002-10-11](/news/2002/10/11/index.md)
 
+##### Jimmy Carter
 #  Jimmy Carter is honored with the Nobel Peace Prize.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/1/the-chairman-of-the-u-s-securities-and-exchange-commission-william-donaldson-announces-that-he-will-leave-that-post-at-the-end-of-june.html)  [JSON](/news/2005/06/1/the-chairman-of-the-u-s-securities-and-exchange-commission-william-donaldson-announces-that-he-will-leave-that-post-at-the-end-of-june.json)  [XML](/news/2005/06/1/the-chairman-of-the-u-s-securities-and-exchange-commission-william-donaldson-announces-that-he-will-leave-that-post-at-the-end-of-june.xml)  
+
 ### [2005-06-1](/news/2005/06/1/index.md)
 
+##### Securities and Exchange Commission
 #  The chairman of the U.S. Securities and Exchange Commission, William Donaldson, announces that he will leave that post at the end of June. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [thestreet.com](http://www.thestreet.com/_tscs/stocks/banking/10226058.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/3/an-australian-radio-show-is-axed-and-presenter-kyle-sandilands-sacked-from-a-television-show-after-a-lie-detector-stunt-sees-a-14-year-old.html)  [JSON](/news/2009/08/3/an-australian-radio-show-is-axed-and-presenter-kyle-sandilands-sacked-from-a-television-show-after-a-lie-detector-stunt-sees-a-14-year-old.json)  [XML](/news/2009/08/3/an-australian-radio-show-is-axed-and-presenter-kyle-sandilands-sacked-from-a-television-show-after-a-lie-detector-stunt-sees-a-14-year-old.xml)  
+
 ### [2009-08-3](/news/2009/08/3/index.md)
 
+##### Australia
 #  An Australian radio show is axed and presenter Kyle Sandilands sacked from a television show after a lie detector stunt sees a 14-year-old girl say she was raped so her mother could claim Pink tickets. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8181076.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/151012/aussie-radio-show-pulled-after-live-teen-rape-claim)
@@ -18,6 +22,6 @@
 
 1. [Presidential candidate Rodrigo Duterte said that Australia and the United States should go ahead and cut their ties with the Philippines if he was elected president, following critical comments of their ambassadors on his rape remarks. ](/news/2016/04/21/presidential-candidate-rodrigo-duterte-said-that-australia-and-the-united-states-should-go-ahead-and-cut-their-ties-with-the-philippines-if.md) _Context: Australia, rape_
 2. [Presidential frontrunner Rodrigo Duterte jokes about an Australian woman being raped and murdered in Davao City. ](/news/2016/04/17/presidential-frontrunner-rodrigo-duterte-jokes-about-an-australian-woman-being-raped-and-murdered-in-davao-city.md) _Context: Australia, rape_
-3. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
-4. [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md) _Context: Australia_
-5. [The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-qu.md) _Context: Australia_
+3. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_
+4. [In a world's first, a drone rescues two swimmers off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-swimmers-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-t.md) _Context: Australia_
+5. [It is revealed that Ecuador granted citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/it-is-revealed-that-ecuador-granted-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-emba.md) _Context: rape_

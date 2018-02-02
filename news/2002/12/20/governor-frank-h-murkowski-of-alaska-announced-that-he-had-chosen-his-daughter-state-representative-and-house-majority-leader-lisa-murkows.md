@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/20/governor-frank-h-murkowski-of-alaska-announced-that-he-had-chosen-his-daughter-state-representative-and-house-majority-leader-lisa-murkows.html)  [JSON](/news/2002/12/20/governor-frank-h-murkowski-of-alaska-announced-that-he-had-chosen-his-daughter-state-representative-and-house-majority-leader-lisa-murkows.json)  [XML](/news/2002/12/20/governor-frank-h-murkowski-of-alaska-announced-that-he-had-chosen-his-daughter-state-representative-and-house-majority-leader-lisa-murkows.xml)  
+
 ### [2002-12-20](/news/2002/12/20/index.md)
 
+##### Governor
 # Governor Frank H. Murkowski of Alaska announced that he had chosen his daughter, state Representative and House Majority Leader Lisa Murkowski, to succeed him in the United States Senate. The elder Murkowski, in winning the recent election as governor, was forced to leave his Senate position.
 
 

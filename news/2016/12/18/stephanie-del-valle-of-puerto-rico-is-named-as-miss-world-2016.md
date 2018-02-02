@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/18/stephanie-del-valle-of-puerto-rico-is-named-as-
 
 ### [2016-12-18](/news/2016/12/18/index.md)
 
+##### Stephanie Del Valle
 # Stephanie Del Valle of Puerto Rico is named as Miss World 2016. 
 
 Stephanie Del Valle of Puerto Rico was crowned Miss World 2016 on Sunday, edging out runners-up from the Dominican Republic and Indonesia winning the top prize in the 66th edition of the pageant held this year in the United States.

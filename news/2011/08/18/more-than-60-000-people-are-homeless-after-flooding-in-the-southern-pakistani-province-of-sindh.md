@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/18/more-than-60-000-people-are-homeless-after-flooding-in-the-southern-pakistani-province-of-sindh.html)  [JSON](/news/2011/08/18/more-than-60-000-people-are-homeless-after-flooding-in-the-southern-pakistani-province-of-sindh.json)  [XML](/news/2011/08/18/more-than-60-000-people-are-homeless-after-flooding-in-the-southern-pakistani-province-of-sindh.xml)  
+
 ### [2011-08-18](/news/2011/08/18/index.md)
 
+##### Pakistan
 # More than 60,000 people are homeless after flooding in the southern Pakistani province of Sindh. 
 
 Flooding in the southern Pakistani province of Sindh has left more than 60,000 people homeless.
 
 
-### Source:
+### Sources:
 
 1. [Pakistan](http://www.abc.net.au/news/2011-08-18/thousands-homeless-after-pakistan-floods/2844570)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

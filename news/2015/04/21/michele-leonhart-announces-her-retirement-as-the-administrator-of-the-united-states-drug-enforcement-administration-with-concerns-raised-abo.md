@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/21/michele-leonhart-announces-her-retirement-as-the-administrator-of-the-united-states-drug-enforcement-administration-with-concerns-raised-abo.html)  [JSON](/news/2015/04/21/michele-leonhart-announces-her-retirement-as-the-administrator-of-the-united-states-drug-enforcement-administration-with-concerns-raised-abo.json)  [XML](/news/2015/04/21/michele-leonhart-announces-her-retirement-as-the-administrator-of-the-united-states-drug-enforcement-administration-with-concerns-raised-abo.xml)  
+
 ### [2015-04-21](/news/2015/04/21/index.md)
 
+##### Michele Leonhart
 # Michele Leonhart announces her retirement as the Administrator of the United States Drug Enforcement Administration with concerns raised about her leadership following a prostitution scandal involving Agency officers having sex with prostitutes provided by drug cartels. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/04/21/politics/dea-leonhart-resigning-marijuana/)
 

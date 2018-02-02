@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/08/25/the-people-s-bank-of-china-cuts-interest-rates-and-lowers-minimum-requirements-for-bank-reserves-for-the-second-time-in-two-months.html)  [JSON](/news/2015/08/25/the-people-s-bank-of-china-cuts-interest-rates-and-lowers-minimum-requirements-for-bank-reserves-for-the-second-time-in-two-months.json)  [XML](/news/2015/08/25/the-people-s-bank-of-china-cuts-interest-rates-and-lowers-minimum-requirements-for-bank-reserves-for-the-second-time-in-two-months.xml)  
+
 ### [2015-08-25](/news/2015/08/25/index.md)
 
+##### People's Bank of China
 # The People's Bank of China cuts interest rates and lowers minimum requirements for bank reserves for the second time in two months. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/08/25/us-china-economy-interest-rate-idUSKCN0QU16K20150825)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150825&t=2&i=1074399378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7O0H7)
+1. [Reuters](https://www.reuters.com/article/2015/08/25/us-china-economy-interest-rate-idUSKCN0QU16K20150825)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150825&t=2&i=1074399378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7O0H7)
 
 ### Related:
 

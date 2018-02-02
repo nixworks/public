@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/10/baghdadi-mahmudi-a-former-prime-minister-of-libya-under-muammar-gaddafi-goes-on-trial-in-tripoli-charged-with-acts-that-led-to-the-unjus.html)  [JSON](/news/2012/12/10/baghdadi-mahmudi-a-former-prime-minister-of-libya-under-muammar-gaddafi-goes-on-trial-in-tripoli-charged-with-acts-that-led-to-the-unjus.json)  [XML](/news/2012/12/10/baghdadi-mahmudi-a-former-prime-minister-of-libya-under-muammar-gaddafi-goes-on-trial-in-tripoli-charged-with-acts-that-led-to-the-unjus.xml)  
+
 ### [2012-12-10](/news/2012/12/10/index.md)
 
+##### Baghdadi Mahmudi
 # Baghdadi Mahmudi, a former Prime Minister of Libya, under Muammar Gaddafi, goes on trial in Tripoli charged with "acts that led to the unjust killing of Libyans". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/1719477/Gaddafis-last-PM-on-trial-in-Libya)
 

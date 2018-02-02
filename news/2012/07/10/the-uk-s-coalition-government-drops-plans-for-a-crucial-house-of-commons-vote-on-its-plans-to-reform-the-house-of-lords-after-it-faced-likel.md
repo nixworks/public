@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/10/the-uk-s-coalition-government-drops-plans-for-a-crucial-house-of-commons-vote-on-its-plans-to-reform-the-house-of-lords-after-it-faced-likel.html)  [JSON](/news/2012/07/10/the-uk-s-coalition-government-drops-plans-for-a-crucial-house-of-commons-vote-on-its-plans-to-reform-the-house-of-lords-after-it-faced-likel.json)  [XML](/news/2012/07/10/the-uk-s-coalition-government-drops-plans-for-a-crucial-house-of-commons-vote-on-its-plans-to-reform-the-house-of-lords-after-it-faced-likel.xml)  
+
 ### [2012-07-10](/news/2012/07/10/index.md)
 
+##### the coalition
 # The UK's coalition government drops plans for a crucial House of Commons vote on its plans to reform the House of Lords after it faced likely defeat over the issue with as many as 100 Conservative MPs planning to oppose the plans. 
 
 The government abandons plans for a crucial vote on its plans to reform the House of Lords after it faced likely defeat over the issue.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-18778639)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/61396000/jpg/_61396770_015117705-1.jpg)

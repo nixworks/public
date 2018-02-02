@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/19/heavy-rain-triggers-flash-floods-killing-10-people-in-tehran-and-southern-iran-with-eight-others-missing.html)  [JSON](/news/2015/09/19/heavy-rain-triggers-flash-floods-killing-10-people-in-tehran-and-southern-iran-with-eight-others-missing.json)  [XML](/news/2015/09/19/heavy-rain-triggers-flash-floods-killing-10-people-in-tehran-and-southern-iran-with-eight-others-missing.xml)  
+
 ### [2015-09-19](/news/2015/09/19/index.md)
 
+##### flash flood
 # Heavy rain triggers flash floods killing 10 people in Tehran and southern Iran, with eight others missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CP24](http://www.cp24.com/world/ten-killed-by-flash-floods-in-iran-8-others-missing-1.2571298)
 1. [Cover Image](https://www.cp24.com/polopoly_fs/1.2571299.1442679685!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)

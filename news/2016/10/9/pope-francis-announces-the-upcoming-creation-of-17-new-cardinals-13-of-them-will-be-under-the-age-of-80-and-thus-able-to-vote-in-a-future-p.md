@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/9/pope-francis-announces-the-upcoming-creation-of-
 
 ### [2016-10-9](/news/2016/10/9/index.md)
 
+##### Pope Francis
 # Pope Francis announces the upcoming creation of 17 new Cardinals; 13 of them will be under the age of 80 and thus able to vote in a future papal conclave to select the new Pope. 
 
 

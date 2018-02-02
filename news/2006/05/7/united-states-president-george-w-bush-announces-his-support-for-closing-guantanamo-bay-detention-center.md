@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/7/united-states-president-george-w-bush-announces-his-support-for-closing-guantanamo-bay-detention-center.html)  [JSON](/news/2006/05/7/united-states-president-george-w-bush-announces-his-support-for-closing-guantanamo-bay-detention-center.json)  [XML](/news/2006/05/7/united-states-president-george-w-bush-announces-his-support-for-closing-guantanamo-bay-detention-center.xml)  
+
 ### [2006-05-7](/news/2006/05/7/index.md)
 
+##### U.S. President
 #  United States President George W. Bush announces his support for closing Guantanamo Bay detention center. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=topNews&storyID=2006-05-07T175815Z_01_B597743_RTRUKOC_0_US-BUSH-GUANTANAMO.xml)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

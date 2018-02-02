@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/30/the-supreme-court-of-the-philippines-asks-the-government-to-respond-to-a-petition-seeking-to-repeal-a-law-banning-same-sex-marriage-in-the-c.html)  [JSON](/news/2015/06/30/the-supreme-court-of-the-philippines-asks-the-government-to-respond-to-a-petition-seeking-to-repeal-a-law-banning-same-sex-marriage-in-the-c.json)  [XML](/news/2015/06/30/the-supreme-court-of-the-philippines-asks-the-government-to-respond-to-a-petition-seeking-to-repeal-a-law-banning-same-sex-marriage-in-the-c.xml)  
+
 ### [2015-06-30](/news/2015/06/30/index.md)
 
+##### Supreme Court of the Philippines
 # The Supreme Court of the Philippines asks the government to respond to a petition seeking to repeal a law banning same-sex marriage in the country. 
 
 The Supreme Court en banc asks the Civil Registrar to respond to a petition filed by a young Filipino lawyer, who identified himself as openly gay 
 
 
-### Source:
+### Sources:
 
 1. [Rappler](http://www.rappler.com/nation/97941-respond-same-sex-marriage-petition-supreme-court)
 1. [Cover Image](https://assets.rappler.com/5FBFD310A5D745F39B973D9D41D61EC2/img/920B3B2B3D6F4136A550D64C6465E80B/GPMoya_LGBT_MassWedding_20150628-14.jpg)

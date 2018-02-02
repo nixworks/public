@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/11/10/2005-ethiopian-police-massacres-in-the-ethiopian-capital-of-addis-ababa-police-officers-and-protesters-clash.html)  [JSON](/news/2005/11/10/2005-ethiopian-police-massacres-in-the-ethiopian-capital-of-addis-ababa-police-officers-and-protesters-clash.json)  [XML](/news/2005/11/10/2005-ethiopian-police-massacres-in-the-ethiopian-capital-of-addis-ababa-police-officers-and-protesters-clash.xml)  
+
 ### [2005-11-10](/news/2005/11/10/index.md)
 
+##### 2005 Ethiopian police massacres
 #  2005 Ethiopian police massacres: In the Ethiopian capital of Addis Ababa, police officers and protesters clash. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/11/bruce-golding-is-sworn-in-as-prime-minister-of-jamaica-following-the-victory-of-his-jamaica-labour-party-in-the-parliamentary-elections.html)  [JSON](/news/2007/09/11/bruce-golding-is-sworn-in-as-prime-minister-of-jamaica-following-the-victory-of-his-jamaica-labour-party-in-the-parliamentary-elections.json)  [XML](/news/2007/09/11/bruce-golding-is-sworn-in-as-prime-minister-of-jamaica-following-the-victory-of-his-jamaica-labour-party-in-the-parliamentary-elections.xml)  
+
 ### [2007-09-11](/news/2007/09/11/index.md)
 
+##### Bruce Golding
 #  Bruce Golding is sworn in as Prime Minister of Jamaica following the victory of his Jamaica Labour Party in the parliamentary elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jamaica Gleaner News](http://www.jamaica-gleaner.com/gleaner/20070912/lead/lead1.html)
 

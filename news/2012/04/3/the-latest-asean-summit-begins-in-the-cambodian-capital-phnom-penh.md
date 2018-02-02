@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/3/the-latest-asean-summit-begins-in-the-cambodian-capital-phnom-penh.html)  [JSON](/news/2012/04/3/the-latest-asean-summit-begins-in-the-cambodian-capital-phnom-penh.json)  [XML](/news/2012/04/3/the-latest-asean-summit-begins-in-the-cambodian-capital-phnom-penh.xml)  
+
 ### [2012-04-3](/news/2012/04/3/index.md)
 
+##### ASEAN
 # The latest ASEAN summit begins in the Cambodian capital Phnom Penh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1192851/1/.html)
 

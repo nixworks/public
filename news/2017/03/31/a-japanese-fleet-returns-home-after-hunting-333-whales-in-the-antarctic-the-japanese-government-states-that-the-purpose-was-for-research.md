@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/31/a-japanese-fleet-returns-home-after-hunting-333
 
 ### [2017-03-31](/news/2017/03/31/index.md)
 
+##### Japan
 # A Japanese fleet returns home after hunting 333 whales in the Antarctic. The Japanese government states that the purpose was for research. 
 
 The government is skirting an international ban on whale hunting by saying theyâ€™re doing research.
@@ -19,4 +20,4 @@ The government is skirting an international ban on whale hunting by saying theyâ
 2. [The United Nations International Court of Justice rules that Japan's Antarctic whaling program is not scientific but commercial and forbids grants of further permits. ](/news/2014/03/31/the-united-nations-international-court-of-justice-rules-that-japan-s-antarctic-whaling-program-is-not-scientific-but-commercial-and-forbids.md) _Context: Antarctic, Japan_
 3. [Japanese Foreign Minister Katsuya Okada dismisses Australia's threat to take the country to the International Court of Justice over Japan's whaling in the Antarctic. ](/news/2010/02/21/japanese-foreign-minister-katsuya-okada-dismisses-australia-s-threat-to-take-the-country-to-the-international-court-of-justice-over-japan-s.md) _Context: Antarctic, Japan_
 4. [ Chris Ellison, the Australian Minister for Justice, warns anti-whaling protesters and the Japanese whaling fleet that they could face questioning over recent clashes in the Southern Ocean. Meanwhile, the crew were evacuated from the largest ship in the Japanese Antarctic fleet, the "Nisshin Maru," following a fire. ](/news/2007/02/15/chris-ellison-the-australian-minister-for-justice-warns-anti-whaling-protesters-and-the-japanese-whaling-fleet-that-they-could-face-quest.md) _Context: Antarctic, Japan_
-5. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: Japan_
+5. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_

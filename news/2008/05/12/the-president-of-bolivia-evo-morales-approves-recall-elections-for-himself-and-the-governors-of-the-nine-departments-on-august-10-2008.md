@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/12/the-president-of-bolivia-evo-morales-approves-recall-elections-for-himself-and-the-governors-of-the-nine-departments-on-august-10-2008.html)  [JSON](/news/2008/05/12/the-president-of-bolivia-evo-morales-approves-recall-elections-for-himself-and-the-governors-of-the-nine-departments-on-august-10-2008.json)  [XML](/news/2008/05/12/the-president-of-bolivia-evo-morales-approves-recall-elections-for-himself-and-the-governors-of-the-nine-departments-on-august-10-2008.xml)  
+
 ### [2008-05-12](/news/2008/05/12/index.md)
 
+##### President of Bolivia
 #  The President of Bolivia Evo Morales approves recall elections for himself and the governors of the nine departments on August 10, 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Seattle Post-Intelligencer](http://seattlepi.com/national/1102ap_bolivia_recall_election.html)
 

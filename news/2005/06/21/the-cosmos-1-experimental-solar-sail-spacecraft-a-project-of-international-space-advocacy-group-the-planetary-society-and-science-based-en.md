@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2005/06/21/the-cosmos-1-experimental-solar-sail-spacecraft-a-project-of-international-space-advocacy-group-the-planetary-society-and-science-based-en.html)  [JSON](/news/2005/06/21/the-cosmos-1-experimental-solar-sail-spacecraft-a-project-of-international-space-advocacy-group-the-planetary-society-and-science-based-en.json)  [XML](/news/2005/06/21/the-cosmos-1-experimental-solar-sail-spacecraft-a-project-of-international-space-advocacy-group-the-planetary-society-and-science-based-en.xml)  
+
 ### [2005-06-21](/news/2005/06/21/index.md)
 
+##### Cosmos 1
 #  The Cosmos 1 experimental solar sail spacecraft, a project of international space advocacy group The Planetary Society and science based entertainment company Cosmos Studios, is launched by a Russian R-29R Volna ICBM from a Russian Delta III submarine submerged in the Barents Sea. However, the spacecraft is feared lost, for the rocket failed 83 seconds after launch. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4110912.stm)
 2. [PhysOrg](http://www.physorg.com/news4604.html)
 3. [SBS](http://www9.sbs.com.au/theworldnews/region.php?id=114306&region=3)
 4. [The Planetary Society](http://www.planetary.org/solarsail/update_20050625.html)
-5. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2005/06/19/AR2005061900653.html)
+5. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2005/06/19/AR2005061900653.html)
 5. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

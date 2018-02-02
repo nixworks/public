@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/24/dozens-of-people-are-missing-in-sulawesi-indonesia-as-a-result-of-recent-floods-and-landslides.html)  [JSON](/news/2007/07/24/dozens-of-people-are-missing-in-sulawesi-indonesia-as-a-result-of-recent-floods-and-landslides.json)  [XML](/news/2007/07/24/dozens-of-people-are-missing-in-sulawesi-indonesia-as-a-result-of-recent-floods-and-landslides.xml)  
+
 ### [2007-07-24](/news/2007/07/24/index.md)
 
+##### Sulawesi island
 #  Dozens of people are missing in Sulawesi, Indonesia as a result of recent floods and landslides. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6912974.stm)
 

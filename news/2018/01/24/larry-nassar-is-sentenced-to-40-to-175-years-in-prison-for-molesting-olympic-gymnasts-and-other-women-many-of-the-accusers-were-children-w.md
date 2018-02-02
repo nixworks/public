@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/24/larry-nassar-is-sentenced-to-40-to-175-years-in
 
 ### [2018-01-24](/news/2018/01/24/index.md)
 
+##### USA Gymnastics sex abuse scandal
 # Larry Nassar is sentenced to 40 to 175 years in prison for molesting Olympic gymnasts and other women. Many of the accusers were children, who were told to not question authority. 
 
 Larry Nassar who admitted molesting some of the nation&apos;s top gymnasts for years under the guise of medical treatment was sentenced to 40 to 175 years in prison.

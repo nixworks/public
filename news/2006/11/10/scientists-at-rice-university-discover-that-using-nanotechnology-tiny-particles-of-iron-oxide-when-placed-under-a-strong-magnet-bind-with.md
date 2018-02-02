@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/10/scientists-at-rice-university-discover-that-using-nanotechnology-tiny-particles-of-iron-oxide-when-placed-under-a-strong-magnet-bind-with.html)  [JSON](/news/2006/11/10/scientists-at-rice-university-discover-that-using-nanotechnology-tiny-particles-of-iron-oxide-when-placed-under-a-strong-magnet-bind-with.json)  [XML](/news/2006/11/10/scientists-at-rice-university-discover-that-using-nanotechnology-tiny-particles-of-iron-oxide-when-placed-under-a-strong-magnet-bind-with.xml)  
+
 ### [2006-11-10](/news/2006/11/10/index.md)
 
+##### Rice University
 #  Scientists at Rice University discover that using nanotechnology tiny particles of iron oxide, when placed under a strong magnet, bind with arsenic, a potentially important benefit for countries plagued with arsenic contamination of groundwater. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/6136970.stm)
 

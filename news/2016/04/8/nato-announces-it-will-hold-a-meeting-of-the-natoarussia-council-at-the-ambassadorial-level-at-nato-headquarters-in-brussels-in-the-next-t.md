@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/8/nato-announces-it-will-hold-a-meeting-of-the-nat
 
 ### [2016-04-8](/news/2016/04/8/index.md)
 
+##### NATO-Russia relations
 # NATO announces it will hold a meeting of the NATO-Russia Council at the ambassadorial level at NATO headquarters in Brussels in the next two weeks after a two-year break since NATO cut all practical cooperation with Russia in 2014. 
 
 

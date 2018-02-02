@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/25/in-panama-police-has-clashed-for-three-days-with-demonstrators-that-protest-new-pension-reforms-of-president-martan-torrijos.html)  [JSON](/news/2005/05/25/in-panama-police-has-clashed-for-three-days-with-demonstrators-that-protest-new-pension-reforms-of-president-martan-torrijos.json)  [XML](/news/2005/05/25/in-panama-police-has-clashed-for-three-days-with-demonstrators-that-protest-new-pension-reforms-of-president-martan-torrijos.xml)  
+
 ### [2005-05-25](/news/2005/05/25/index.md)
 
+##### Panama
 #  In Panama, police has clashed for three days with demonstrators that protest new pension reforms of president Martin Torrijos 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/N25435186.htm)
 

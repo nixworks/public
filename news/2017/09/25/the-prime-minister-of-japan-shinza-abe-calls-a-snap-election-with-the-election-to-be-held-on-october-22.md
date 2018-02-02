@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/25/the-prime-minister-of-japan-shinza-abe-calls-a-
 
 ### [2017-09-25](/news/2017/09/25/index.md)
 
+##### Japanese general election, 2017
 # The Prime Minister of Japan Shinzo Abe calls a snap election with the election to be held on October 22. 
 
 

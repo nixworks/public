@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/08/28/china-and-india-state-that-the-military-ties-between-the-two-countries-will-not-be-affected-despite-the-recent-visa-dispute-http-www-hind.html)  [JSON](/news/2010/08/28/china-and-india-state-that-the-military-ties-between-the-two-countries-will-not-be-affected-despite-the-recent-visa-dispute-http-www-hind.json)  [XML](/news/2010/08/28/china-and-india-state-that-the-military-ties-between-the-two-countries-will-not-be-affected-despite-the-recent-visa-dispute-http-www-hind.xml)  
+
 ### [2010-08-28](/news/2010/08/28/index.md)
 
+##### China
 # China and India state that the military ties between the two countries will not be affected despite the recent visa dispute.[http:--www.hindustantimes.com-Visa-row-won-t-affect-Sino-India-ties-Article1-593681.aspx][http:--in.reuters.com-article-idINIndia-51126920100828]
 
 

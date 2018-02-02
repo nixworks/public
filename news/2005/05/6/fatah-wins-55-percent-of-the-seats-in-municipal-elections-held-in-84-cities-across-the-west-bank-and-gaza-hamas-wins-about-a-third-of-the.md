@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/6/fatah-wins-55-percent-of-the-seats-in-municipal-elections-held-in-84-cities-across-the-west-bank-and-gaza-hamas-wins-about-a-third-of-the.html)  [JSON](/news/2005/05/6/fatah-wins-55-percent-of-the-seats-in-municipal-elections-held-in-84-cities-across-the-west-bank-and-gaza-hamas-wins-about-a-third-of-the.json)  [XML](/news/2005/05/6/fatah-wins-55-percent-of-the-seats-in-municipal-elections-held-in-84-cities-across-the-west-bank-and-gaza-hamas-wins-about-a-third-of-the.xml)  
+
 ### [2005-05-6](/news/2005/05/6/index.md)
 
+##### Fatah
 #  Fatah wins 55 percent of the seats in municipal elections held in 84 cities across the West Bank and Gaza. Hamas wins about a third of the seats. Fatah won a majority of seats in Beit Lahiya, Hawara and Tulkarem, Hamas won the majority in Qalqiliya and El Boureij. Election participation was 70 percent in the West Bank and 80 percent in Gaza. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/meast/05/06/palestinian.elections/)
 

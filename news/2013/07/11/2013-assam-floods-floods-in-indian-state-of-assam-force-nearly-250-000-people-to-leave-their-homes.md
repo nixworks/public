@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/11/2013-assam-floods-floods-in-indian-state-of-assam-force-nearly-250-000-people-to-leave-their-homes.html)  [JSON](/news/2013/07/11/2013-assam-floods-floods-in-indian-state-of-assam-force-nearly-250-000-people-to-leave-their-homes.json)  [XML](/news/2013/07/11/2013-assam-floods-floods-in-indian-state-of-assam-force-nearly-250-000-people-to-leave-their-homes.xml)  
+
 ### [2013-07-11](/news/2013/07/11/index.md)
 
+##### 2013 Assam floods
 # 2013 Assam floods: Floods in Indian state of Assam force nearly 250,000 people to leave their homes. 
 
 Some 250,000 people are forced to leave their homes because of flooding in the north-eastern Indian state of Assam, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-23237130)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/68621000/jpg/_68621189_lakhimpur_flood1bbc1.jpg)

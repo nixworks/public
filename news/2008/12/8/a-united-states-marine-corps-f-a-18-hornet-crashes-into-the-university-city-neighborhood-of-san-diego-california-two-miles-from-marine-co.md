@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/8/a-united-states-marine-corps-f-a-18-hornet-crashes-into-the-university-city-neighborhood-of-san-diego-california-two-miles-from-marine-co.html)  [JSON](/news/2008/12/8/a-united-states-marine-corps-f-a-18-hornet-crashes-into-the-university-city-neighborhood-of-san-diego-california-two-miles-from-marine-co.json)  [XML](/news/2008/12/8/a-united-states-marine-corps-f-a-18-hornet-crashes-into-the-university-city-neighborhood-of-san-diego-california-two-miles-from-marine-co.xml)  
+
 ### [2008-12-8](/news/2008/12/8/index.md)
 
+##### Marine
 #  A United States Marine Corps F-A-18 Hornet crashes into the University City neighborhood of San Diego, California, two miles from Marine Corps Air Station Miramar, killing four people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/americas/7772344.stm)
 

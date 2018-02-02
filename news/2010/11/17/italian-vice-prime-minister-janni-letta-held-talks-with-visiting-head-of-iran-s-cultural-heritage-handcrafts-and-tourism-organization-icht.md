@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/17/italian-vice-prime-minister-janni-letta-held-talks-with-visiting-head-of-iran-s-cultural-heritage-handcrafts-and-tourism-organization-icht.html)  [JSON](/news/2010/11/17/italian-vice-prime-minister-janni-letta-held-talks-with-visiting-head-of-iran-s-cultural-heritage-handcrafts-and-tourism-organization-icht.json)  [XML](/news/2010/11/17/italian-vice-prime-minister-janni-letta-held-talks-with-visiting-head-of-iran-s-cultural-heritage-handcrafts-and-tourism-organization-icht.xml)  
+
 ### [2010-11-17](/news/2010/11/17/index.md)
 
+##### Janni Letta
 # Italian Vice Prime Minister Janni Letta held talks with visiting Head of Iran's Cultural Heritage, Handcrafts and Tourism Organization (ICHTO) Hamid Baqaei. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IRNA](http://www.irna.ir/ENNewsShow.aspx?NID=30079518&SRCH=1)
 

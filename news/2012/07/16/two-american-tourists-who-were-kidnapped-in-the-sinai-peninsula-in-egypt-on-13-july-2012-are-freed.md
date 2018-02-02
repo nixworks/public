@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/16/two-american-tourists-who-were-kidnapped-in-the-sinai-peninsula-in-egypt-on-13-july-2012-are-freed.html)  [JSON](/news/2012/07/16/two-american-tourists-who-were-kidnapped-in-the-sinai-peninsula-in-egypt-on-13-july-2012-are-freed.json)  [XML](/news/2012/07/16/two-american-tourists-who-were-kidnapped-in-the-sinai-peninsula-in-egypt-on-13-july-2012-are-freed.xml)  
+
 ### [2012-07-16](/news/2012/07/16/index.md)
 
+##### Sinai Peninsula
 # Two American tourists who were kidnapped in the Sinai Peninsula in Egypt on 13 July 2012 are freed. 
 
 Americans had been kidnapped by Bedouin demanding release of uncle allegedly detained for failing to pay bribe to police
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://www.cbsnews.com/8301-202_162-57473018/2-u.s-tourists-abducted-in-egypt-freed/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/07/16/be834887-a644-11e2-a3f0-029118418759/RevMichelLouis_LissaAlphonse.jpg)

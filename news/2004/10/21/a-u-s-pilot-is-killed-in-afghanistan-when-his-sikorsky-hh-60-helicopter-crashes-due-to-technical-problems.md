@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/21/a-u-s-pilot-is-killed-in-afghanistan-when-his-sikorsky-hh-60-helicopter-crashes-due-to-technical-problems.html)  [JSON](/news/2004/10/21/a-u-s-pilot-is-killed-in-afghanistan-when-his-sikorsky-hh-60-helicopter-crashes-due-to-technical-problems.json)  [XML](/news/2004/10/21/a-u-s-pilot-is-killed-in-afghanistan-when-his-sikorsky-hh-60-helicopter-crashes-due-to-technical-problems.xml)  
+
 ### [2004-10-21](/news/2004/10/21/index.md)
 
+##### Afghanistan
 #  A U.S. pilot is killed in Afghanistan when his Sikorsky HH-60 helicopter crashes due to technical problems. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/3763222.stm)
 

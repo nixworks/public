@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/13/more-than-260-sri-lankan-asylum-seekers-threaten-to-blow-up-their-boat-if-indonesian-authorities-force-them-to-disembark.html)  [JSON](/news/2009/10/13/more-than-260-sri-lankan-asylum-seekers-threaten-to-blow-up-their-boat-if-indonesian-authorities-force-them-to-disembark.json)  [XML](/news/2009/10/13/more-than-260-sri-lankan-asylum-seekers-threaten-to-blow-up-their-boat-if-indonesian-authorities-force-them-to-disembark.xml)  
+
 ### [2009-10-13](/news/2009/10/13/index.md)
 
+##### Sri Lanka
 #  More than 260 Sri Lankan asylum seekers threaten to blow up their boat if Indonesian authorities force them to disembark. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26207428-25837,00.html)
 

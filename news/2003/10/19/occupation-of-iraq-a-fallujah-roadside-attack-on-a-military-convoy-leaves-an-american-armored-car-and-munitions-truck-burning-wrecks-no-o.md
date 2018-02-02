@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/19/occupation-of-iraq-a-fallujah-roadside-attack-on-a-military-convoy-leaves-an-american-armored-car-and-munitions-truck-burning-wrecks-no-o.html)  [JSON](/news/2003/10/19/occupation-of-iraq-a-fallujah-roadside-attack-on-a-military-convoy-leaves-an-american-armored-car-and-munitions-truck-burning-wrecks-no-o.json)  [XML](/news/2003/10/19/occupation-of-iraq-a-fallujah-roadside-attack-on-a-military-convoy-leaves-an-american-armored-car-and-munitions-truck-burning-wrecks-no-o.xml)  
+
 ### [2003-10-19](/news/2003/10/19/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: A Fallujah roadside attack on a military convoy leaves an American armored car and munitions truck burning wrecks. No one was reported killed. Iraqis nearby were reportedly cheering. Emerging series of threats.
 
 

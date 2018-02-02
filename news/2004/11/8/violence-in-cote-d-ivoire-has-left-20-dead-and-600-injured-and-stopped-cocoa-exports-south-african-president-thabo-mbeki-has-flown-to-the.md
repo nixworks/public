@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/8/violence-in-cote-d-ivoire-has-left-20-dead-and-600-injured-and-stopped-cocoa-exports-south-african-president-thabo-mbeki-has-flown-to-the.html)  [JSON](/news/2004/11/8/violence-in-cote-d-ivoire-has-left-20-dead-and-600-injured-and-stopped-cocoa-exports-south-african-president-thabo-mbeki-has-flown-to-the.json)  [XML](/news/2004/11/8/violence-in-cote-d-ivoire-has-left-20-dead-and-600-injured-and-stopped-cocoa-exports-south-african-president-thabo-mbeki-has-flown-to-the.xml)  
+
 ### [2004-11-8](/news/2004/11/8/index.md)
 
+##### Cte d'Ivoire
 #  Violence in Cte d'Ivoire has left 20 dead and 600 injured and stopped cocoa exports. South African President Thabo Mbeki has flown to the country to help find a settlement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://story.news.yahoo.com/news?tmpl=story2&u=/ap/20041109/ap_on_re_af/ivory_coast)
 

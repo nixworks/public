@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/09/5/a-masked-gunman-kills-one-person-and-wounds-another-at-a-quebec-rally-for-the-new-premier-pauline-marois.html)  [JSON](/news/2012/09/5/a-masked-gunman-kills-one-person-and-wounds-another-at-a-quebec-rally-for-the-new-premier-pauline-marois.json)  [XML](/news/2012/09/5/a-masked-gunman-kills-one-person-and-wounds-another-at-a-quebec-rally-for-the-new-premier-pauline-marois.xml)  
+
 ### [2012-09-5](/news/2012/09/5/index.md)
 
+##### Quebec rally
 # A masked gunman kills one person and wounds another at a Quebec rally for the new premier Pauline Marois. 
 
 A masked gunman wearing a blue bathrobe opened fire during a midnight victory rally for Quebec&#x27;s new premier, killing one person and wounding another. The new premier, Pauline Marois of the separatist Parti Quebecois, was whisked off the stage by guards while giving her speech and uninjured.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/gunman-kills-1-rally-quebec-premier-060908664.html)
+1. [AP via Yahoo! News](https://news.yahoo.com/gunman-kills-1-rally-quebec-premier-060908664.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/16/a-syrian-activist-claims-that-a-mass-grave-has-been-found-in-the-town-of-deraa-the-town-at-the-centre-of-the-2011-syrian-uprising.html)  [JSON](/news/2011/05/16/a-syrian-activist-claims-that-a-mass-grave-has-been-found-in-the-town-of-deraa-the-town-at-the-centre-of-the-2011-syrian-uprising.json)  [XML](/news/2011/05/16/a-syrian-activist-claims-that-a-mass-grave-has-been-found-in-the-town-of-deraa-the-town-at-the-centre-of-the-2011-syrian-uprising.xml)  
+
 ### [2011-05-16](/news/2011/05/16/index.md)
 
+##### Syria
 # A Syrian activist claims that a mass grave has been found in the town of Deraa, the town at the centre of the 2011 Syrian uprising. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al_Arabiya](http://english.alarabiya.net/articles/2011/05/16/149347.html)
 

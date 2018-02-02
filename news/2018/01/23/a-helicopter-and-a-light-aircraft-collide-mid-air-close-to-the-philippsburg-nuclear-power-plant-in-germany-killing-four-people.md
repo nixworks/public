@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-a
 
 ### [2018-01-23](/news/2018/01/23/index.md)
 
+##### Philippsburg Nuclear Power Plant
 # A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, killing four people. 
 
 A mid-air collision between a small airplane and a helicopter in southern Germany has claimed four lives, according to initial reports. The crash scene is just a short distance from the Philippsburg nuclear power plant

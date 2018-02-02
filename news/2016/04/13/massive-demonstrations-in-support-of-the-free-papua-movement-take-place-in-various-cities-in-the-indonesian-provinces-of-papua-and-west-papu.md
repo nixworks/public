@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/13/massive-demonstrations-in-support-of-the-free-p
 
 ### [2016-04-13](/news/2016/04/13/index.md)
 
+##### Papua conflict
 # Massive demonstrations in support of the Free Papua Movement take place in various cities in the Indonesian provinces of Papua and West Papua. The demonstrations voice support for the Liberation Movement to become a full member of the Melanesian Spearhead Group. 
 
 Demonstrations in support of the United Liberation Movement for West Papua have been taking place in cities across Indonesia&#39;s Papua region today. Ground reports said large peaceful demonstrations have been...

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/8/prime-minister-of-iraq-nouri-al-maliki-visits-irbil-to-talk-with-president-of-kurdistan-massoud-barzani.html)  [JSON](/news/2010/08/8/prime-minister-of-iraq-nouri-al-maliki-visits-irbil-to-talk-with-president-of-kurdistan-massoud-barzani.json)  [XML](/news/2010/08/8/prime-minister-of-iraq-nouri-al-maliki-visits-irbil-to-talk-with-president-of-kurdistan-massoud-barzani.xml)  
+
 ### [2010-08-8](/news/2010/08/8/index.md)
 
+##### Iraq Prime Minister
 # Prime Minister of Iraq Nouri al-Maliki visits Irbil to talk with President of Kurdistan Massoud Barzani. 
 
 Iraqi premier tries to drum up Kurdish support after Shia bloc cuts off negotiations.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/2010887265441307.html)
 1. [Cover Image](http://www.aljazeera.com)

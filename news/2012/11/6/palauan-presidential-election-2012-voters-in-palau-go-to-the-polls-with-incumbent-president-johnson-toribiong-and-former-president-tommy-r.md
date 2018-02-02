@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/6/palauan-presidential-election-2012-voters-in-palau-go-to-the-polls-with-incumbent-president-johnson-toribiong-and-former-president-tommy-r.html)  [JSON](/news/2012/11/6/palauan-presidential-election-2012-voters-in-palau-go-to-the-polls-with-incumbent-president-johnson-toribiong-and-former-president-tommy-r.json)  [XML](/news/2012/11/6/palauan-presidential-election-2012-voters-in-palau-go-to-the-polls-with-incumbent-president-johnson-toribiong-and-former-president-tommy-r.xml)  
+
 ### [2012-11-6](/news/2012/11/6/index.md)
 
+##### Palauan presidential election, 2012
 # Palauan presidential election, 2012: Voters in Palau go to the polls with incumbent President Johnson Toribiong and former President Tommy Remengesau both competing for the presidency. 
 
 As the US election campaign approaches its crescendo, voters in the tiny Pacific nation of Palau have also been casting their ballots to determine their political future.
 
 
-### Source:
+### Sources:
 
 1. [Radio Australia](http://www.radioaustralia.net.au/international/2012-11-07/palau-votes-for-new-leader-in-shadow-of-us-election/1042298)
 1. [Cover Image](http://www.radioaustralia.net.au/sites/default/files/images/2012/11/7/4357434-4x3-700x525_1.jpg)

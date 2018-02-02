@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/6/bradley-manning-is-finally-charged-with-leaking-the-collateral-murder-video-to-wikileaks-along-with-other-documents-after-spending-more-th.html)  [JSON](/news/2010/07/6/bradley-manning-is-finally-charged-with-leaking-the-collateral-murder-video-to-wikileaks-along-with-other-documents-after-spending-more-th.json)  [XML](/news/2010/07/6/bradley-manning-is-finally-charged-with-leaking-the-collateral-murder-video-to-wikileaks-along-with-other-documents-after-spending-more-th.xml)  
+
 ### [2010-07-6](/news/2010/07/6/index.md)
 
+##### Bradley Manning
 # Bradley Manning is finally charged with leaking the Collateral Murder video to Wikileaks, along with other documents, after spending more than a month detained in Kuwait without charge. 
 
 An American soldier suspected of leaking video footage of a US Apache helicopter strike which killed civilians in Baghdad has been charged, the US military said.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/stories/2010/07/07/2946534.htm?section=world)
 2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5haxoKNMZev63Ph0ZkRkMsEaPeCrwD9GPORO00)
@@ -13,8 +17,8 @@ An American soldier suspected of leaking video footage of a US Apache helicopter
 
 ### Related:
 
-1. [In "United States v. Bradley Manning", Bradley Manning is acquitted of aiding the enemy for giving classified United States Army information to WikiLeaks. Manning is found guilty of five espionage charges and five theft charges. ](/news/2013/07/30/in-united-states-v-bradley-manning-bradley-manning-is-acquitted-of-aiding-the-enemy-for-giving-classified-united-states-army-information.md) _Context: Bradley Manning, WikiLeaks_
-2. [The judge disallows discussion of Bradley Manning's motives for leaking classified material to WikiLeaks at this time. ](/news/2013/06/5/the-judge-disallows-discussion-of-bradley-manning-s-motives-for-leaking-classified-material-to-wikileaks-at-this-time.md) _Context: Bradley Manning, WikiLeaks_
-3. [The trial of U.S. serviceman Bradley Manning for leaking classified material to WikiLeaks continues in Fort Meade, Maryland. Former computer hacker Adrian Lamo, who turned Manning in to his persecutors, gives evidence at the court martial. ](/news/2013/06/4/the-trial-of-u-s-serviceman-bradley-manning-for-leaking-classified-material-to-wikileaks-continues-in-fort-meade-maryland-former-computer.md) _Context: Bradley Manning, WikiLeaks_
-4. [The trial of United States Army private Bradley Manning for leaking classified material to WikiLeaks begins in Fort Meade, Maryland. ](/news/2013/06/3/the-trial-of-united-states-army-private-bradley-manning-for-leaking-classified-material-to-wikileaks-begins-in-fort-meade-maryland.md) _Context: Bradley Manning, WikiLeaks_
-5. ["United States v. Manning": Bradley Manning pleads guilty to 10 counts out of 22 against him for leaking classified material in the WikiLeaks case. ](/news/2013/02/28/united-states-v-manning-bradley-manning-pleads-guilty-to-10-counts-out-of-22-against-him-for-leaking-classified-material-in-the-wikileak.md) _Context: Bradley Manning, WikiLeaks_
+1. [Major General Michael Linnington orders a court martial for US Private Bradley Manning responsible for leaking hundreds of thousands of documents to Wikileaks. ](/news/2012/02/3/major-general-michael-linnington-orders-a-court-martial-for-us-private-bradley-manning-responsible-for-leaking-hundreds-of-thousands-of-docu.md) _Context: Bradley Manning, Wikileaks_
+2. [Wikileaks suspect United States Army Private Bradley Manning is formally charged ahead of a court martial. ](/news/2012/02/23/wikileaks-suspect-united-states-army-private-bradley-manning-is-formally-charged-ahead-of-a-court-martial.md) _Context: Bradley Manning, Wikileaks_
+3. [It is revealed that the United States has subpoenaed Twitter for personal information regarding people connected to Wikileaks, including founder Julian Assange, suspected source of leaks Bradley Manning, and supporter Birgitta Jonsdottir, a member of Iceland's Althing. ](/news/2011/01/8/it-is-revealed-that-the-united-states-has-subpoenaed-twitter-for-personal-information-regarding-people-connected-to-wikileaks-including-fou.md) _Context: Bradley Manning, Wikileaks_
+4. [Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently, Saudi Arabia declared that a missile attack on its airport from Yemen was "an act of war" by Lebanon. ](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.md) _Context: Kuwait_
+5. [Equatorial Guinea, Ivory Coast, Kuwait, Peru and Poland are elected to the United Nations Security Council for a two-year term beginning on January 1, 2018. ](/news/2017/06/2/equatorial-guinea-ivory-coast-kuwait-peru-and-poland-are-elected-to-the-united-nations-security-council-for-a-two-year-term-beginning-on.md) _Context: Kuwait_

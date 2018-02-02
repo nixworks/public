@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/10/8/h-d-kumaraswamy-resigns-as-chief-minister-of-the-indian-state-of-karnataka-governor-rameshwar-thakur-is-likely-to-recommend-presidential-r.html)  [JSON](/news/2007/10/8/h-d-kumaraswamy-resigns-as-chief-minister-of-the-indian-state-of-karnataka-governor-rameshwar-thakur-is-likely-to-recommend-presidential-r.json)  [XML](/news/2007/10/8/h-d-kumaraswamy-resigns-as-chief-minister-of-the-indian-state-of-karnataka-governor-rameshwar-thakur-is-likely-to-recommend-presidential-r.xml)  
+
 ### [2007-10-8](/news/2007/10/8/index.md)
 
+##### H D Kumaraswamy
 #  H D Kumaraswamy resigns as Chief Minister of the Indian state of Karnataka. Governor Rameshwar Thakur is likely to recommend presidential rule till further elections.date=December 2007 
 
 

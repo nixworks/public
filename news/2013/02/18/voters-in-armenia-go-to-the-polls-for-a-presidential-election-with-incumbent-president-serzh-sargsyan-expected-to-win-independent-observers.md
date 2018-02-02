@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/18/voters-in-armenia-go-to-the-polls-for-a-presidential-election-with-incumbent-president-serzh-sargsyan-expected-to-win-independent-observers.html)  [JSON](/news/2013/02/18/voters-in-armenia-go-to-the-polls-for-a-presidential-election-with-incumbent-president-serzh-sargsyan-expected-to-win-independent-observers.json)  [XML](/news/2013/02/18/voters-in-armenia-go-to-the-polls-for-a-presidential-election-with-incumbent-president-serzh-sargsyan-expected-to-win-independent-observers.xml)  
+
 ### [2013-02-18](/news/2013/02/18/index.md)
 
+##### Armenia
 # Voters in Armenia go to the polls for a presidential election with incumbent President Serzh Sargsyan expected to win. Independent observers including the Parliamentary Assembly of the Council of Europe have expressed concern about the conduct of the elections. 
 
 Armenian President Serge Sarkisian wins re-election, getting nearly 59% of votes cast, in a poll criticised for lack of competition.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21495377)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65939000/jpg/_65939445_65939444.jpg)

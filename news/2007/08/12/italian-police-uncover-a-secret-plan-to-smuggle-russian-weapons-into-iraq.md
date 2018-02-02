@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/12/italian-police-uncover-a-secret-plan-to-smuggle-russian-weapons-into-iraq.html)  [JSON](/news/2007/08/12/italian-police-uncover-a-secret-plan-to-smuggle-russian-weapons-into-iraq.json)  [XML](/news/2007/08/12/italian-police-uncover-a-secret-plan-to-smuggle-russian-weapons-into-iraq.xml)  
+
 ### [2007-08-12](/news/2007/08/12/index.md)
 
+##### Italy
 #  Italian police uncover a secret plan to smuggle Russian weapons into Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/12/ap4011324.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2007/08/12/ap4011324.html)
 
 ### Related:
 

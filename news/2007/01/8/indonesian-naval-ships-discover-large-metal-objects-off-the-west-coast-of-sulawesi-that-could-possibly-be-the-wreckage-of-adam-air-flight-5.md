@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/8/indonesian-naval-ships-discover-large-metal-objects-off-the-west-coast-of-sulawesi-that-could-possibly-be-the-wreckage-of-adam-air-flight-5.html)  [JSON](/news/2007/01/8/indonesian-naval-ships-discover-large-metal-objects-off-the-west-coast-of-sulawesi-that-could-possibly-be-the-wreckage-of-adam-air-flight-5.json)  [XML](/news/2007/01/8/indonesian-naval-ships-discover-large-metal-objects-off-the-west-coast-of-sulawesi-that-could-possibly-be-the-wreckage-of-adam-air-flight-5.xml)  
+
 ### [2007-01-8](/news/2007/01/8/index.md)
 
+##### Indonesia
 #  Indonesian naval ships discover large metal objects off the west coast of Sulawesi that could possibly be the wreckage of Adam Air Flight 574 missing a week ago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6240405.stm)
 2. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/01/08/missing.plane.ap/index.html)

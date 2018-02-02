@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/31/gas-explosions-in-the-southern-taiwanese-city-of-kaohsiung-kill-at-least-20-people-and-injure-more-than-270.html)  [JSON](/news/2014/07/31/gas-explosions-in-the-southern-taiwanese-city-of-kaohsiung-kill-at-least-20-people-and-injure-more-than-270.json)  [XML](/news/2014/07/31/gas-explosions-in-the-southern-taiwanese-city-of-kaohsiung-kill-at-least-20-people-and-injure-more-than-270.xml)  
+
 ### [2014-07-31](/news/2014/07/31/index.md)
 
+##### Gas explosions
 # Gas explosions in the southern Taiwanese city of Kaohsiung kill at least 20 people and injure more than 270. 
 
 A series of gas explosions in the southern Taiwanese city of Kaohsiung kills at least 25 people and injures about 267 others.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-28594693)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/76663000/jpg/_76663686_76663685.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/1/nigeria-s-state-security-service-claim-to-have-arrested-abul-qaqa-a-purported-spokesman-for-the-radical-islamist-boko-haram-group.html)  [JSON](/news/2012/02/1/nigeria-s-state-security-service-claim-to-have-arrested-abul-qaqa-a-purported-spokesman-for-the-radical-islamist-boko-haram-group.json)  [XML](/news/2012/02/1/nigeria-s-state-security-service-claim-to-have-arrested-abul-qaqa-a-purported-spokesman-for-the-radical-islamist-boko-haram-group.xml)  
+
 ### [2012-02-1](/news/2012/02/1/index.md)
 
+##### Nigeria
 # Nigeria's State Security Service claim to have arrested Abul-Qaqa, a purported spokesman for the radical Islamist Boko Haram group. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jlZdBsCFcLVMZfWw9gUVsfuB9zlA?docId=7aacec3a762945e0b2f5c131534d3496)
 

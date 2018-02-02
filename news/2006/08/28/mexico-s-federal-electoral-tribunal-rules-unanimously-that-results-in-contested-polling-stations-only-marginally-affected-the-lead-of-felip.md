@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/28/mexico-s-federal-electoral-tribunal-rules-unanimously-that-results-in-contested-polling-stations-only-marginally-affected-the-lead-of-felip.html)  [JSON](/news/2006/08/28/mexico-s-federal-electoral-tribunal-rules-unanimously-that-results-in-contested-polling-stations-only-marginally-affected-the-lead-of-felip.json)  [XML](/news/2006/08/28/mexico-s-federal-electoral-tribunal-rules-unanimously-that-results-in-contested-polling-stations-only-marginally-affected-the-lead-of-felip.xml)  
+
 ### [2006-08-28](/news/2006/08/28/index.md)
 
+##### Mexico
 #  Mexico's Federal Electoral Tribunal rules unanimously that results in contested polling stations only marginally affected the lead of Felipe Caldern of the ruling National Action Party over Andrs Manuel Lpez Obrador in July's disputed presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.news.com.au/story/0,20867,20288868-23109,00.html)
 

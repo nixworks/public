@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/11/u-s-presidential-election-2004-retired-general-wesley-clark-officially-announces-his-departure-from-the-race.html)  [JSON](/news/2004/02/11/u-s-presidential-election-2004-retired-general-wesley-clark-officially-announces-his-departure-from-the-race.json)  [XML](/news/2004/02/11/u-s-presidential-election-2004-retired-general-wesley-clark-officially-announces-his-departure-from-the-race.xml)  
+
 ### [2004-02-11](/news/2004/02/11/index.md)
 
+##### Democratic presidential nomination
 #  U.S. Presidential Election, 2004: Retired General Wesley Clark officially announces his departure from the race.
 
 

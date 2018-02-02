@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/28/vietnam-passes-a-new-constitution-that-reaffirms-the-dominant-position-of-the-communist-party.html)  [JSON](/news/2013/11/28/vietnam-passes-a-new-constitution-that-reaffirms-the-dominant-position-of-the-communist-party.json)  [XML](/news/2013/11/28/vietnam-passes-a-new-constitution-that-reaffirms-the-dominant-position-of-the-communist-party.xml)  
+
 ### [2013-11-28](/news/2013/11/28/index.md)
 
+##### Vietnam
 # Vietnam passes a new Constitution that reaffirms the dominant position of the Communist Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/vietnam-reaffirms-party-role-new-charter)
 

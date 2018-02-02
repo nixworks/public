@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/13/a-building-collapse-in-abuja-nigeria-sees-further-rescue-efforts-at-least-14-people-are-known-to-have-died.html)  [JSON](/news/2010/08/13/a-building-collapse-in-abuja-nigeria-sees-further-rescue-efforts-at-least-14-people-are-known-to-have-died.json)  [XML](/news/2010/08/13/a-building-collapse-in-abuja-nigeria-sees-further-rescue-efforts-at-least-14-people-are-known-to-have-died.xml)  
+
 ### [2010-08-13](/news/2010/08/13/index.md)
 
+##### Abuja
 # A building collapse in Abuja, Nigeria sees further rescue efforts; at least 14 people are known to have died. 
 
 Rescue efforts are continuing in the Nigerian capital, Abuja, after a condemned building collapsed, killing at least 14 people.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10963757)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

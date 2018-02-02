@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/12/an-iranian-air-force-f-4-phantom-ii-fighter-jet
 
 ### [2016-01-12](/news/2016/01/12/index.md)
 
+##### Iranian Air Force
 # An Iranian Air Force F-4 Phantom II fighter jet crashes near the southeast port city of Konarak while on a training mission, killing both the pilot and co-pilot. 
 
 Two soldiers died when a military jet crashed in a south-eastern Iranian city while on a training mission, local media reported. The jet is thought to be an F-4 Phantom II bought by Tehran from the US before the 1979 Islamic Revolution. 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/11/samsung-announces-an-end-of-production-of-the-g
 
 ### [2016-10-11](/news/2016/10/11/index.md)
 
+##### Samsung
 # Samsung announces an end of production of the Galaxy Note 7 after continued problems with its battery. 
 
 Samsung has announced it&#39;s ending production of the Galaxy Note 7 around the world, pulling the plug on the phone after a months-long controversy over its defective, dangerous batteries. &quot;Taking...

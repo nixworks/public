@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/29/nigerian-sharia-conflict-three-people-are-killed-by-islamist-group-boko-haram-in-northeastern-nigeria-in-the-latest-in-a-number-of-attacks.html)  [JSON](/news/2010/12/29/nigerian-sharia-conflict-three-people-are-killed-by-islamist-group-boko-haram-in-northeastern-nigeria-in-the-latest-in-a-number-of-attacks.json)  [XML](/news/2010/12/29/nigerian-sharia-conflict-three-people-are-killed-by-islamist-group-boko-haram-in-northeastern-nigeria-in-the-latest-in-a-number-of-attacks.xml)  
+
 ### [2010-12-29](/news/2010/12/29/index.md)
 
+##### Nigerian Sharia conflict
 # Nigerian Sharia conflict: Three people are killed by Islamist group Boko Haram in northeastern Nigeria, in the latest in a number of attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6BP0PM20101229)
 

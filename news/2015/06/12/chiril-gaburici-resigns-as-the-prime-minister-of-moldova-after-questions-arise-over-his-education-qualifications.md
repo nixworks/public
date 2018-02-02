@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/06/12/chiril-gaburici-resigns-as-the-prime-minister-of-moldova-after-questions-arise-over-his-education-qualifications.html)  [JSON](/news/2015/06/12/chiril-gaburici-resigns-as-the-prime-minister-of-moldova-after-questions-arise-over-his-education-qualifications.json)  [XML](/news/2015/06/12/chiril-gaburici-resigns-as-the-prime-minister-of-moldova-after-questions-arise-over-his-education-qualifications.xml)  
+
 ### [2015-06-12](/news/2015/06/12/index.md)
 
+##### Chiril Gaburici
 # Chiril Gaburici resigns as the Prime Minister of Moldova after questions arise over his education qualifications. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/europe/moldovan-premier-resigns-after-questions-about-his-education/2015/06/12/a3621bcc-10de-11e5-a0fe-dccfea4653ee_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/europe/moldovan-premier-resigns-after-questions-about-his-education/2015/06/12/a3621bcc-10de-11e5-a0fe-dccfea4653ee_story.html)
 
 ### Related:
 

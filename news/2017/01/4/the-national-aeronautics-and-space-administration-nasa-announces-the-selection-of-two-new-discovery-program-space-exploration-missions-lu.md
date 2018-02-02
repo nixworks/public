@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/4/the-national-aeronautics-and-space-administratio
 
 ### [2017-01-4](/news/2017/01/4/index.md)
 
+##### National Aeronautics and Space Administration
 # The National Aeronautics and Space Administration (NASA) announces the selection of two new Discovery Program space exploration missions: Lucy, a mission to several Jupiter trojan asteroids, and Psyche, a mission to the asteroid 16 Psyche, which is believed to be the exposed core of an early protoplanet. Both missions are scheduled for launch in the early 2020s. 
 
 NASA has selected two missions that have the potential to open new windows on one of the earliest eras in the history of our solar system – a time less than 10 million years after the birth of our sun. The missions, known as Lucy and Psyche, were chosen from five finalists and will proceed to mission formulation.

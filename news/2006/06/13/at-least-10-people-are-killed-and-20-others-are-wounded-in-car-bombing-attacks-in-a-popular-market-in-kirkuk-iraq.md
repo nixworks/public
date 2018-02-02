@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/13/at-least-10-people-are-killed-and-20-others-are-wounded-in-car-bombing-attacks-in-a-popular-market-in-kirkuk-iraq.html)  [JSON](/news/2006/06/13/at-least-10-people-are-killed-and-20-others-are-wounded-in-car-bombing-attacks-in-a-popular-market-in-kirkuk-iraq.json)  [XML](/news/2006/06/13/at-least-10-people-are-killed-and-20-others-are-wounded-in-car-bombing-attacks-in-a-popular-market-in-kirkuk-iraq.xml)  
+
 ### [2006-06-13](/news/2006/06/13/index.md)
 
+##### Kirkuk
 #  At least 10 people are killed and 20 others are wounded in car bombing attacks in a popular market in Kirkuk, Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Daily Telegraph](http://dailytelegraph.news.com.au/story/0,20281,19457175-5001028,00.html)
 

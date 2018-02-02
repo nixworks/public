@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/new-pictures-and-video-footage-of-a-fit-hugo-cha-vez-chatting-to-fidel-castro-are-shown-on-cuban-state-television-after-concerns-were-expres.html)  [JSON](/news/2011/06/29/new-pictures-and-video-footage-of-a-fit-hugo-cha-vez-chatting-to-fidel-castro-are-shown-on-cuban-state-television-after-concerns-were-expres.json)  [XML](/news/2011/06/29/new-pictures-and-video-footage-of-a-fit-hugo-cha-vez-chatting-to-fidel-castro-are-shown-on-cuban-state-television-after-concerns-were-expres.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### Hugo Chavez
 # New pictures and video footage of a fit Hugo Chavez chatting to Fidel Castro are shown on Cuban state television after concerns were expressed for the President of Venezuela's health following recent surgery. 
 
 Cuban state television airs footage and stills of Venezuelan President Hugo Chavez, amid speculation about his recovery from an emergency operation.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13953810)
 2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1639692)

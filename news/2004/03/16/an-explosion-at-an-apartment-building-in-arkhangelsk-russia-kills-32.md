@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/16/an-explosion-at-an-apartment-building-in-arkhangelsk-russia-kills-32.html)  [JSON](/news/2004/03/16/an-explosion-at-an-apartment-building-in-arkhangelsk-russia-kills-32.json)  [XML](/news/2004/03/16/an-explosion-at-an-apartment-building-in-arkhangelsk-russia-kills-32.xml)  
+
 ### [2004-03-16](/news/2004/03/16/index.md)
 
+##### explosion at an apartment building
 #  An explosion at an apartment building in Arkhangelsk, Russia, kills 32. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/C8C83D4C-2BFE-4274-87D3-5F8A0C4843BB.htm)
 

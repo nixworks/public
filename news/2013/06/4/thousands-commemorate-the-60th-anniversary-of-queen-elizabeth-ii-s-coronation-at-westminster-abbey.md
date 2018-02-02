@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/4/thousands-commemorate-the-60th-anniversary-of-queen-elizabeth-ii-s-coronation-at-westminster-abbey.html)  [JSON](/news/2013/06/4/thousands-commemorate-the-60th-anniversary-of-queen-elizabeth-ii-s-coronation-at-westminster-abbey.json)  [XML](/news/2013/06/4/thousands-commemorate-the-60th-anniversary-of-queen-elizabeth-ii-s-coronation-at-westminster-abbey.xml)  
+
 ### [2013-06-4](/news/2013/06/4/index.md)
 
+##### Queen Elizabeth II
 # Thousands commemorate the 60th anniversary of Queen Elizabeth II's coronation at Westminster Abbey. 
 
 The Queen and Prince Philip join 2,000 guests for a service at Westminster Abbey to mark 60 years since her Coronation.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22762878)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67968000/jpg/_67968649_queenclose_rtr.jpg)

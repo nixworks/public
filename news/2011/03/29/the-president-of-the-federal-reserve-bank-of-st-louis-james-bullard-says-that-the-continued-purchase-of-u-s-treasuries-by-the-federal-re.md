@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/03/29/the-president-of-the-federal-reserve-bank-of-st-louis-james-bullard-says-that-the-continued-purchase-of-u-s-treasuries-by-the-federal-re.html)  [JSON](/news/2011/03/29/the-president-of-the-federal-reserve-bank-of-st-louis-james-bullard-says-that-the-continued-purchase-of-u-s-treasuries-by-the-federal-re.json)  [XML](/news/2011/03/29/the-president-of-the-federal-reserve-bank-of-st-louis-james-bullard-says-that-the-continued-purchase-of-u-s-treasuries-by-the-federal-re.xml)  
+
 ### [2011-03-29](/news/2011/03/29/index.md)
 
+##### Federal Reserve Bank of St. Louis
 # The President of the Federal Reserve Bank of St. Louis, James Bullard, says that the continued purchase of U.S. Treasuries by the Federal Reserve is "feeding the fire" of inflation, and should be tapered off. 
 
 St. Louis Federal Reserve chief James Bullard urged the U.S. central bank on Tuesday to begin reversing its campaign of monetary easing, saying it could trim its $600 billion bond-buying program by $100 billion.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/29/us-fed-bullard-idUSTRE72P0IF20110329)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110329&t=2&i=373965349&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-29T130444Z_01_BTRE72S0QWE00_RTROPTP_0_USA-FED-BULLARD)
+1. [Reuters](https://www.reuters.com/article/2011/03/29/us-fed-bullard-idUSTRE72P0IF20110329)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110329&t=2&i=373965349&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-29T130444Z_01_BTRE72S0QWE00_RTROPTP_0_USA-FED-BULLARD)
 
 ### Related:
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/03/4/horst-kohler-resigns-as-the-head-of-the-international-monetary-fund-in-order-to-accept-the-nomination-for-presidency-of-germany.html)  [JSON](/news/2004/03/4/horst-kohler-resigns-as-the-head-of-the-international-monetary-fund-in-order-to-accept-the-nomination-for-presidency-of-germany.json)  [XML](/news/2004/03/4/horst-kohler-resigns-as-the-head-of-the-international-monetary-fund-in-order-to-accept-the-nomination-for-presidency-of-germany.xml)  
+
 ### [2004-03-4](/news/2004/03/4/index.md)
 
+##### Horst Khler
 #  Horst Khler resigns as the head of the International Monetary Fund in order to accept the nomination for Presidency of Germany.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/11/egyptian-culture-minister-farouk-hosni-announces-that-the-ministry-will-publish-arabic-translations-of-novels-by-israeli-writers-amos-oz-an.html)  [JSON](/news/2009/06/11/egyptian-culture-minister-farouk-hosni-announces-that-the-ministry-will-publish-arabic-translations-of-novels-by-israeli-writers-amos-oz-an.json)  [XML](/news/2009/06/11/egyptian-culture-minister-farouk-hosni-announces-that-the-ministry-will-publish-arabic-translations-of-novels-by-israeli-writers-amos-oz-an.xml)  
+
 ### [2009-06-11](/news/2009/06/11/index.md)
 
+##### Egypt
 #  Egyptian Culture Minister Farouk Hosni announces that the ministry will publish Arabic translations of novels by Israeli writers Amos Oz and David Grossman. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8095723.stm)
 

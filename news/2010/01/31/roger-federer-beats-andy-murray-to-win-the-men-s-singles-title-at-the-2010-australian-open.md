@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/31/roger-federer-beats-andy-murray-to-win-the-men-s-singles-title-at-the-2010-australian-open.html)  [JSON](/news/2010/01/31/roger-federer-beats-andy-murray-to-win-the-men-s-singles-title-at-the-2010-australian-open.json)  [XML](/news/2010/01/31/roger-federer-beats-andy-murray-to-win-the-men-s-singles-title-at-the-2010-australian-open.xml)  
+
 ### [2010-01-31](/news/2010/01/31/index.md)
 
+##### Roger Federer
 # Roger Federer beats Andy Murray to win the men's singles title at the 2010 Australian Open. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/tennis/8489107.stm)
 

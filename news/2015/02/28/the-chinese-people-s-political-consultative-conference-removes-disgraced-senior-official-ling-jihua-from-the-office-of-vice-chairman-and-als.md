@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/28/the-chinese-people-s-political-consultative-conference-removes-disgraced-senior-official-ling-jihua-from-the-office-of-vice-chairman-and-als.html)  [JSON](/news/2015/02/28/the-chinese-people-s-political-consultative-conference-removes-disgraced-senior-official-ling-jihua-from-the-office-of-vice-chairman-and-als.json)  [XML](/news/2015/02/28/the-chinese-people-s-political-consultative-conference-removes-disgraced-senior-official-ling-jihua-from-the-office-of-vice-chairman-and-als.xml)  
+
 ### [2015-02-28](/news/2015/02/28/index.md)
 
+##### Chinese People's Political Consultative Conference
 # The Chinese People's Political Consultative Conference removes disgraced senior official Ling Jihua from the office of Vice-Chairman and also strips him of his ordinary delegate status. 
 
 BEIJING (Reuters) - China expelled a disgraced senior aide to former President Hu Jintao from a high-profile advisory body on Saturday, the official Xinhua news agency reported on its website, marking the latest step in a significant political scandal.. Read more at straitstimes.com.
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/news/asia/east-asia/story/top-china-advisory-body-cppcc-ousts-former-top-hu-jintao-aide-ling-jihua-2)
 1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/02/28/jdchi28e_2x.jpg?itok=RuYfk-v1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/21/the-trial-begins-of-the-three-most-senior-surviving-members-of-cambodia-s-khmer-rouge-regime-on-charges-of-genocide-and-crimes-against-huma.html)  [JSON](/news/2011/11/21/the-trial-begins-of-the-three-most-senior-surviving-members-of-cambodia-s-khmer-rouge-regime-on-charges-of-genocide-and-crimes-against-huma.json)  [XML](/news/2011/11/21/the-trial-begins-of-the-three-most-senior-surviving-members-of-cambodia-s-khmer-rouge-regime-on-charges-of-genocide-and-crimes-against-huma.xml)  
+
 ### [2011-11-21](/news/2011/11/21/index.md)
 
+##### Cambodia
 # The trial begins of the three most senior surviving members of Cambodia's Khmer Rouge regime, on charges of genocide and crimes against humanity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-15814519)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56831000/jpg/_56831328_56831327.jpg)

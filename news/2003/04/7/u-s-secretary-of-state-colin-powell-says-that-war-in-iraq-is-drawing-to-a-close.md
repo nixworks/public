@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/7/u-s-secretary-of-state-colin-powell-says-that-war-in-iraq-is-drawing-to-a-close.html)  [JSON](/news/2003/04/7/u-s-secretary-of-state-colin-powell-says-that-war-in-iraq-is-drawing-to-a-close.json)  [XML](/news/2003/04/7/u-s-secretary-of-state-colin-powell-says-that-war-in-iraq-is-drawing-to-a-close.xml)  
+
 ### [2003-04-7](/news/2003/04/7/index.md)
 
+##### U.S. Secretary of State
 #  U.S. Secretary of State Colin Powell says that war in Iraq is "drawing to a close".
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/4/oakland-police-claim-that-a-19-year-old-man-has-confessed-to-the-murder-of-chauncey-bailey-the-editor-of-the-oakland-post.html)  [JSON](/news/2007/08/4/oakland-police-claim-that-a-19-year-old-man-has-confessed-to-the-murder-of-chauncey-bailey-the-editor-of-the-oakland-post.json)  [XML](/news/2007/08/4/oakland-police-claim-that-a-19-year-old-man-has-confessed-to-the-murder-of-chauncey-bailey-the-editor-of-the-oakland-post.xml)  
+
 ### [2007-08-4](/news/2007/08/4/index.md)
 
+##### Oakland, California
 #  Oakland police claim that a 19-year-old man has confessed to the murder of Chauncey Bailey, the editor of "The Oakland Post". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/US/08/04/journalist.slain/index.html?eref=rss_topstories)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/21/dominic-ongwen-a-former-commander-of-the-lord-s
 
 ### [2016-01-21](/news/2016/01/21/index.md)
 
+##### Dominic Ongwen
 # Dominic Ongwen, a former commander of the Lord's Resistance Army in Uganda, appears before the International Criminal Court in a hearing to determine whether a criminal trial should go ahead. 
 
 

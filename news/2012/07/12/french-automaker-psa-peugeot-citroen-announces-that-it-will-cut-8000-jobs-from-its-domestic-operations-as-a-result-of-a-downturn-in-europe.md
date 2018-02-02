@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/12/french-automaker-psa-peugeot-citroen-announces-that-it-will-cut-8000-jobs-from-its-domestic-operations-as-a-result-of-a-downturn-in-europe.html)  [JSON](/news/2012/07/12/french-automaker-psa-peugeot-citroen-announces-that-it-will-cut-8000-jobs-from-its-domestic-operations-as-a-result-of-a-downturn-in-europe.json)  [XML](/news/2012/07/12/french-automaker-psa-peugeot-citroen-announces-that-it-will-cut-8000-jobs-from-its-domestic-operations-as-a-result-of-a-downturn-in-europe.xml)  
+
 ### [2012-07-12](/news/2012/07/12/index.md)
 
+##### French-born
 # French automaker PSA Peugeot Citroen announces that it will cut 8000 jobs from its domestic operations as a result of a downturn in Europe. 
 
 FRENCH auto group PSA Peugeot Citroen says it will cut 8000 jobs in its domestic operations as a sharp downturn in the European market has led to a loss in the first quarter.
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/business/breaking-news/peugeot-citroen-slashes-jobs-in-france/story-e6frfkur-1226424729301)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

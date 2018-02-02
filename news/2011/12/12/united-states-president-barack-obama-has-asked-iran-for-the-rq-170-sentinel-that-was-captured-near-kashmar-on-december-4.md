@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/12/united-states-president-barack-obama-has-asked-iran-for-the-rq-170-sentinel-that-was-captured-near-kashmar-on-december-4.html)  [JSON](/news/2011/12/12/united-states-president-barack-obama-has-asked-iran-for-the-rq-170-sentinel-that-was-captured-near-kashmar-on-december-4.json)  [XML](/news/2011/12/12/united-states-president-barack-obama-has-asked-iran-for-the-rq-170-sentinel-that-was-captured-near-kashmar-on-december-4.xml)  
+
 ### [2011-12-12](/news/2011/12/12/index.md)
 
+##### U.S. President
 # United States President Barack Obama has asked Iran for the RQ-170 Sentinel that was captured near Kashmar on December 4. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/12/12/world/meast/iran-us-drone/index.html?hpt=hp_t1)
 

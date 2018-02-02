@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/2/cocktail-waitress-jaimee-grubbs-provides-evidence-to-reporters-that-she-had-an-affair-with-golf-legend-tiger-woods.html)  [JSON](/news/2009/12/2/cocktail-waitress-jaimee-grubbs-provides-evidence-to-reporters-that-she-had-an-affair-with-golf-legend-tiger-woods.json)  [XML](/news/2009/12/2/cocktail-waitress-jaimee-grubbs-provides-evidence-to-reporters-that-she-had-an-affair-with-golf-legend-tiger-woods.xml)  
+
 ### [2009-12-2](/news/2009/12/2/index.md)
 
+##### Jaimee Grubbs
 #  Cocktail waitress Jaimee Grubbs provides evidence to reporters that she had an affair with golf legend Tiger Woods. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/2009/12/02/tiger-woods-apology-i-reg_n_376779.html)
 2. [Radaronline](http://www.radaronline.com/exclusives/2009/12/tiger-woods-sexual-text-messages-new-cheating-scandal-girl)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2012/12/28/a-17-year-old-girl-and-indian-rape-victim-commits-suicide-after-local-police-pressure-her-to-marry-her-attacker-it-echos-with-recent-outcry.html)  [JSON](/news/2012/12/28/a-17-year-old-girl-and-indian-rape-victim-commits-suicide-after-local-police-pressure-her-to-marry-her-attacker-it-echos-with-recent-outcry.json)  [XML](/news/2012/12/28/a-17-year-old-girl-and-indian-rape-victim-commits-suicide-after-local-police-pressure-her-to-marry-her-attacker-it-echos-with-recent-outcry.xml)  
+
 ### [2012-12-28](/news/2012/12/28/index.md)
 
+##### Indian rape
 # A 17-year-old girl and Indian rape victim commits suicide after local police pressure her to marry her attacker. It echos with recent outcry over Indian police tolerance over rape in India. ([http:--www.democracynow.org-2012-12-28-headlines#12289 DemocracyNow.org])
 
 

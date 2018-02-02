@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/17/kofi-annan-secretary-general-of-the-united-nations-orders-all-un-personnel-to-leave-iraq.html)  [JSON](/news/2003/03/17/kofi-annan-secretary-general-of-the-united-nations-orders-all-un-personnel-to-leave-iraq.json)  [XML](/news/2003/03/17/kofi-annan-secretary-general-of-the-united-nations-orders-all-un-personnel-to-leave-iraq.xml)  
+
 ### [2003-03-17](/news/2003/03/17/index.md)
 
+##### Kofi Annan
 #  Kofi Annan, Secretary General of the United Nations, orders all UN personnel to leave Iraq.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/25/cristiano-ronaldo-completes-a-world-record-transfer-fee-of-80-million-pounds-which-sends-him-to-real-madrid-from-manchester-united.html)  [JSON](/news/2009/06/25/cristiano-ronaldo-completes-a-world-record-transfer-fee-of-80-million-pounds-which-sends-him-to-real-madrid-from-manchester-united.json)  [XML](/news/2009/06/25/cristiano-ronaldo-completes-a-world-record-transfer-fee-of-80-million-pounds-which-sends-him-to-real-madrid-from-manchester-united.xml)  
+
 ### [2009-06-25](/news/2009/06/25/index.md)
 
+##### Cristiano Ronaldo
 #  Cristiano Ronaldo completes a world record transfer fee of 80 million pounds which sends him to Real Madrid from Manchester United. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/football/teams/m/man_utd/8121951.stm)
 

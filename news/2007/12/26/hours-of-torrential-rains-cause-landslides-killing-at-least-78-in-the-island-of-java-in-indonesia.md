@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/26/hours-of-torrential-rains-cause-landslides-killing-at-least-78-in-the-island-of-java-in-indonesia.html)  [JSON](/news/2007/12/26/hours-of-torrential-rains-cause-landslides-killing-at-least-78-in-the-island-of-java-in-indonesia.json)  [XML](/news/2007/12/26/hours-of-torrential-rains-cause-landslides-killing-at-least-78-in-the-island-of-java-in-indonesia.xml)  
+
 ### [2007-12-26](/news/2007/12/26/index.md)
 
+##### Java
 #  Hours of torrential rains cause landslides killing at least 78 in the island of Java in Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/asiapcf/12/26/indonesia.landslides.ap/index.html)
 

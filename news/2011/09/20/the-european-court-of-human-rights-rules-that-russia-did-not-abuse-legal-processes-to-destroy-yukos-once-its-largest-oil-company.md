@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/20/the-european-court-of-human-rights-rules-that-russia-did-not-abuse-legal-processes-to-destroy-yukos-once-its-largest-oil-company.html)  [JSON](/news/2011/09/20/the-european-court-of-human-rights-rules-that-russia-did-not-abuse-legal-processes-to-destroy-yukos-once-its-largest-oil-company.json)  [XML](/news/2011/09/20/the-european-court-of-human-rights-rules-that-russia-did-not-abuse-legal-processes-to-destroy-yukos-once-its-largest-oil-company.xml)  
+
 ### [2011-09-20](/news/2011/09/20/index.md)
 
+##### European Court of Human Rights
 # The European Court of Human Rights rules that Russia did not abuse legal processes to destroy Yukos, once its largest oil company. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Scotsman](http://news.scotsman.com/world/Court-clears-Russia-over-Yukos.6839748.jp)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/12/mark-david-chapman-is-denied-parole-for-a-fifth-time-for-the-murder-of-ex-beatle-john-lennon-in-1980.html)  [JSON](/news/2008/08/12/mark-david-chapman-is-denied-parole-for-a-fifth-time-for-the-murder-of-ex-beatle-john-lennon-in-1980.json)  [XML](/news/2008/08/12/mark-david-chapman-is-denied-parole-for-a-fifth-time-for-the-murder-of-ex-beatle-john-lennon-in-1980.xml)  
+
 ### [2008-08-12](/news/2008/08/12/index.md)
 
+##### Mark David Chapman
 #  Mark David Chapman is denied parole for a fifth time for the murder of ex-Beatle John Lennon in 1980. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5gmqy358WFD5GMqt__JGXd2JkDSMwD92GSJB80)
 

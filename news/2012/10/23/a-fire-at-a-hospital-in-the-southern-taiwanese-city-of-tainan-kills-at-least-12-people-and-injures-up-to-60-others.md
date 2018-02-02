@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/23/a-fire-at-a-hospital-in-the-southern-taiwanese-city-of-tainan-kills-at-least-12-people-and-injures-up-to-60-others.html)  [JSON](/news/2012/10/23/a-fire-at-a-hospital-in-the-southern-taiwanese-city-of-tainan-kills-at-least-12-people-and-injures-up-to-60-others.json)  [XML](/news/2012/10/23/a-fire-at-a-hospital-in-the-southern-taiwanese-city-of-tainan-kills-at-least-12-people-and-injures-up-to-60-others.xml)  
+
 ### [2012-10-23](/news/2012/10/23/index.md)
 
+##### Taiwan
 # A fire at a hospital in the southern Taiwanese city of Tainan kills at least 12 people and injures up to 60 others. 
 
 An early morning fire at a hospital in the southern Taiwan city of Tainan kills 12 elderly patients and injures dozens more.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-20038287)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/63649000/jpg/_63649659_cylfkekt.jpg)

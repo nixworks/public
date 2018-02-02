@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/19/bp-is-accused-by-transocean-of-trying-to-keep-secret-data-required-to-investigate-the-deepwater-horizon-oil-spill.html)  [JSON](/news/2010/08/19/bp-is-accused-by-transocean-of-trying-to-keep-secret-data-required-to-investigate-the-deepwater-horizon-oil-spill.json)  [XML](/news/2010/08/19/bp-is-accused-by-transocean-of-trying-to-keep-secret-data-required-to-investigate-the-deepwater-horizon-oil-spill.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### BP
 # BP is accused by Transocean of trying to keep secret data required to investigate the "Deepwater Horizon" oil spill. 
 
 Energy giant BP is accused of withholding key data needed to investigate the Gulf of Mexico oil disaster.
 
 
-### Source:
+### Sources:
 
 1. [AFP via France24](http://www.france24.com/en/20100819-partner-says-bp-hiding-oil-spill-documents)
 2. [BBC](http://www.bbc.co.uk/news/business-11033247)

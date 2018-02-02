@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/6/human-rights-group-free-tibet-and-radio-free-asia-report-that-people-s-liberation-army-troops-shot-into-a-crowd-in-biru-county-in-the-tibet.html)  [JSON](/news/2013/10/6/human-rights-group-free-tibet-and-radio-free-asia-report-that-people-s-liberation-army-troops-shot-into-a-crowd-in-biru-county-in-the-tibet.json)  [XML](/news/2013/10/6/human-rights-group-free-tibet-and-radio-free-asia-report-that-people-s-liberation-army-troops-shot-into-a-crowd-in-biru-county-in-the-tibet.xml)  
+
 ### [2013-10-6](/news/2013/10/6/index.md)
 
+##### Free Tibet
 # Human rights group Free Tibet and Radio Free Asia report that People's Liberation Army troops shot into a crowd in Biru County in the Tibet Autonomous Region injuring 60 people. 
 
 At least 60 Tibetans were injured after Chinese police fired into a crowd of protesters, rights group Free Tibet and US-based Radio Free Asia report.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-24442218)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70341000/jpg/_70341697_tibetmap.jpg)

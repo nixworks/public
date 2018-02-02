@@ -1,9 +1,18 @@
+
+Formats: [HTML](/news/2007/01/2/sri-lankan-airforce-bombs-the-fishing-hamlet-of-padahuthurai-in-what-they-call-a-rebel-ltte-sea-base-results-in-the-death-of-14-civilians-o.html)  [JSON](/news/2007/01/2/sri-lankan-airforce-bombs-the-fishing-hamlet-of-padahuthurai-in-what-they-call-a-rebel-ltte-sea-base-results-in-the-death-of-14-civilians-o.json)  [XML](/news/2007/01/2/sri-lankan-airforce-bombs-the-fishing-hamlet-of-padahuthurai-in-what-they-call-a-rebel-ltte-sea-base-results-in-the-death-of-14-civilians-o.xml)  
+
 ### [2007-01-2](/news/2007/01/2/index.md)
 
+##### Padahuthurai
 #  Sri Lankan Airforce bombs the fishing hamlet of Padahuthurai in what they call a rebel LTTE sea base results in the death of 14 civilians on January 2, 2007.
 
 
 
+
+### Changes:
+
+1. [ Sri Lankan Airforce bombs the fishing hamlet of Padahuthurai in what they call a rebel LTTE sea base results in the death of 14 civilians on January 2, 2007.](/news/2007/01/2/sri-lankan-airforce-bombs-the-fishing-hamlet-of-padahuthurai-in-what-they-call-a-rebel-ltte-sea-base-results-in-the-death-of-14-civilians.md) _2017-08-25 03:18:57 (First version)_
+1. [ Sri Lankan Airforce bombs the fishing hamlet of Padahuthurai in what they call a rebel LTTE sea base results in the death of 14 civilians on January 2, 2007.](/news/2007/01/2/sri-lankan-airforce-bombs-the-fishing-hamlet-of-padahuthurai-in-what-they-call-a-rebel-ltte-sea-base-results-in-the-death-of-14-civilians-o.md) _(Current version)_
 
 ### Related:
 
@@ -12,8 +21,3 @@
 3. [ Over 10 rebels are killed and many injured in Batticaloa as the Tamil Tigers attack a breakaway faction led by Col. Karuna Amman. ](/news/2006/05/1/over-10-rebels-are-killed-and-many-injured-in-batticaloa-as-the-tamil-tigers-attack-a-breakaway-faction-led-by-col-karuna-amman.md) _Context: LTTE_
 4. [ Sri Lankan Civil War: A suspected Tamil Tiger suicide bomber attacks the Sri Lankan Army headquarters in the capital, Colombo, killing 8. Twenty-seven have been injured, including the army commander Lieutenant General Sarath Fonseka, as the female suicide bomber, pretending to be pregnant to conceal explosives, detonates her bomb near the military's hospital. The Sri Lankan military has begun aerial assaults on rebel positions in the north-eastern part of the island nation. ](/news/2006/04/25/sri-lankan-civil-war-a-suspected-tamil-tiger-suicide-bomber-attacks-the-sri-lankan-army-headquarters-in-the-capital-colombo-killing-8-t.md) _Context: LTTE_
 5. [ Sri Lankan Civil War: Two suspected Tamil Tiger rebels are shot dead in Batticaloa while being caught planting mines, after rebels reportedly hacked a young mother to death. In the eastern part of the island, two Sinhalese guards are killed as they returned from a funeral and one Tamil is shot dead by unidentified gunmen. ](/news/2006/04/24/sri-lankan-civil-war-two-suspected-tamil-tiger-rebels-are-shot-dead-in-batticaloa-while-being-caught-planting-mines-after-rebels-reported.md) _Context: LTTE_
-
-### Changes:
-
-1. [ Sri Lankan Airforce bombs the fishing hamlet of Padahuthurai in what they call a rebel LTTE sea base results in the death of 14 civilians on January 2, 2007.](/news/2007/01/2/sri-lankan-airforce-bombs-the-fishing-hamlet-of-padahuthurai-in-what-they-call-a-rebel-ltte-sea-base-results-in-the-death-of-14-civilians.md) _2017-08-25 03:18:57 (First version)_
-1. [ Sri Lankan Airforce bombs the fishing hamlet of Padahuthurai in what they call a rebel LTTE sea base results in the death of 14 civilians on January 2, 2007.](/news/2007/01/2/sri-lankan-airforce-bombs-the-fishing-hamlet-of-padahuthurai-in-what-they-call-a-rebel-ltte-sea-base-results-in-the-death-of-14-civilians-o.md) _(Current version)_

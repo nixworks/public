@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/13/an-unspecified-type-egyptian-military-aircraft-crashes-due-to-a-technical-failure-near-the-libyan-border-killing-four-crew-members-and-inj.html)  [JSON](/news/2015/08/13/an-unspecified-type-egyptian-military-aircraft-crashes-due-to-a-technical-failure-near-the-libyan-border-killing-four-crew-members-and-inj.json)  [XML](/news/2015/08/13/an-unspecified-type-egyptian-military-aircraft-crashes-due-to-a-technical-failure-near-the-libyan-border-killing-four-crew-members-and-inj.xml)  
+
 ### [2015-08-13](/news/2015/08/13/index.md)
 
+##### Egypt
 # An unspecified-type Egyptian military aircraft crashes due to a 'technical failure' near the Libyan border killing four crew members and injuring two others. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC via AP](http://abcnews.go.com/International/wireStory/egypt-military-aircraft-crashes-libya-border-dead-33067035)
 

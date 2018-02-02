@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/28/protesters-riot-in-the-ugandan-capital-kampala-after-the-arrest-of-the-opposition-leader-kizza-besigye-for-the-fourth-time-in-two-weeks.html)  [JSON](/news/2011/04/28/protesters-riot-in-the-ugandan-capital-kampala-after-the-arrest-of-the-opposition-leader-kizza-besigye-for-the-fourth-time-in-two-weeks.json)  [XML](/news/2011/04/28/protesters-riot-in-the-ugandan-capital-kampala-after-the-arrest-of-the-opposition-leader-kizza-besigye-for-the-fourth-time-in-two-weeks.xml)  
+
 ### [2011-04-28](/news/2011/04/28/index.md)
 
+##### Uganda
 # Protesters riot in the Ugandan capital, Kampala, after the arrest of the opposition leader, Kizza Besigye for the fourth time in two weeks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704463804576290630009265162.html)
 

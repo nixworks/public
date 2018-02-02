@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/6/pornographic-movies-a-seattle-based-porn-site-reportedly-will-broadcast-the-sex-video-of-the-los-angeles-based-celebutante-paris-hilton.html)  [JSON](/news/2003/11/6/pornographic-movies-a-seattle-based-porn-site-reportedly-will-broadcast-the-sex-video-of-the-los-angeles-based-celebutante-paris-hilton.json)  [XML](/news/2003/11/6/pornographic-movies-a-seattle-based-porn-site-reportedly-will-broadcast-the-sex-video-of-the-los-angeles-based-celebutante-paris-hilton.xml)  
+
 ### [2003-11-6](/news/2003/11/6/index.md)
 
+##### Pornographic movie
 #  Pornographic movies: A Seattle-based porn site reportedly will broadcast the sex video of the Los Angeles-based celebutante, Paris Hilton. Friends of hotel heiress state that new video is a "terrible invasion of her privacy". Roger V, president of the company, claims the video is Hilton and Rick Solomon having sex.
 
 

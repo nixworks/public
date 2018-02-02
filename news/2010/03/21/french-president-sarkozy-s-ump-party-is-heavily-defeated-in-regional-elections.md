@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/21/french-president-sarkozy-s-ump-party-is-heavily-defeated-in-regional-elections.html)  [JSON](/news/2010/03/21/french-president-sarkozy-s-ump-party-is-heavily-defeated-in-regional-elections.json)  [XML](/news/2010/03/21/french-president-sarkozy-s-ump-party-is-heavily-defeated-in-regional-elections.xml)  
+
 ### [2010-03-21](/news/2010/03/21/index.md)
 
+##### Nicolas Sarkozy
 # French President Sarkozy's UMP party is heavily defeated in regional elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8579232.stm)
 

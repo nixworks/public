@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/7/ali-bongo-ondimba-rejects-calls-for-a-recount.ht
 
 ### [2016-09-7](/news/2016/09/7/index.md)
 
+##### Gabonese presidential election, 2016
 # Ali Bongo Ondimba rejects calls for a recount. 
 
 

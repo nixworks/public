@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/20/tunisia-s-army-fires-warning-shots-as-citizens-protest-the-current-government-and-wave-baguettes-in-a-call-for-an-end-to-food-shortages.html)  [JSON](/news/2011/01/20/tunisia-s-army-fires-warning-shots-as-citizens-protest-the-current-government-and-wave-baguettes-in-a-call-for-an-end-to-food-shortages.json)  [XML](/news/2011/01/20/tunisia-s-army-fires-warning-shots-as-citizens-protest-the-current-government-and-wave-baguettes-in-a-call-for-an-end-to-food-shortages.xml)  
+
 ### [2011-01-20](/news/2011/01/20/index.md)
 
+##### baguette
 # Tunisia's army fires warning shots as citizens protest the current government and wave baguettes in a call for an end to food shortages. 
 
 Resignations an attempt to regain credibility in the cabinet but it is unclear if protesters will accept it
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/jan/20/tunisian-army-warning-shots-protesters)
 2. [Africa Review](http://www.africareview.com/News/-/979180/1093020/-/i69y3dz/-/)

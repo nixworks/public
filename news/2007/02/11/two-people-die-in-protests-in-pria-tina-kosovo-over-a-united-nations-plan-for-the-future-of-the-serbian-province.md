@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/11/two-people-die-in-protests-in-pria-tina-kosovo-over-a-united-nations-plan-for-the-future-of-the-serbian-province.html)  [JSON](/news/2007/02/11/two-people-die-in-protests-in-pria-tina-kosovo-over-a-united-nations-plan-for-the-future-of-the-serbian-province.json)  [XML](/news/2007/02/11/two-people-die-in-protests-in-pria-tina-kosovo-over-a-united-nations-plan-for-the-future-of-the-serbian-province.xml)  
+
 ### [2007-02-11](/news/2007/02/11/index.md)
 
+##### Pristina
 #  Two people die in protests in Pristina, Kosovo over a United Nations plan for the future of the Serbian province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6351575.stm)
 

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/11/12/war-in-afghanistan-the-united-states-army-kills-15-insurgents-and-three-civilians-in-the-helmand-province.html)  [JSON](/news/2007/11/12/war-in-afghanistan-the-united-states-army-kills-15-insurgents-and-three-civilians-in-the-helmand-province.json)  [XML](/news/2007/11/12/war-in-afghanistan-the-united-states-army-kills-15-insurgents-and-three-civilians-in-the-helmand-province.xml)  
+
 ### [2007-11-12](/news/2007/11/12/index.md)
 
+##### War in Afghanistan (2001-present)
 #  War in Afghanistan: The United States Army kills 15 insurgents and three civilians in the Helmand Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7090393.stm)
 
 ### Related:
 
 1. [ War in Afghanistan: A British soldier is killed by a rocket attack in the Helmand Province. ](/news/2007/07/28/war-in-afghanistan-a-british-soldier-is-killed-by-a-rocket-attack-in-the-helmand-province.md) _Context: Helmand Province, War in Afghanistan (2001-present)_
-2. [ War in Afghanistan: United States-led troops kill more than 50 insurgents in the Helmand province of Afghanistan. ](/news/2007/07/26/war-in-afghanistan-united-states-led-troops-kill-more-than-50-insurgents-in-the-helmand-province-of-afghanistan.md) _Context: Helmand Province, War in Afghanistan (2001-present)_
-3. [ War in Afghanistan (2001-present): NATO-led forces launch Operation Achilles against the Taliban in Helmand province. ](/news/2007/03/6/war-in-afghanistan-2001apresent-nato-led-forces-launch-operation-achilles-against-the-taliban-in-helmand-province.md) _Context: Helmand Province, War in Afghanistan (2001-present)_
-4. [ Conflict in Afghanistan: U.S. Troops kill four Afghan police, after mistaking them for militants in the Girishk district of the Helmand Province. ](/news/2005/10/7/conflict-in-afghanistan-u-s-troops-kill-four-afghan-police-after-mistaking-them-for-militants-in-the-girishk-district-of-the-helmand-pro.md) _Context: Helmand Province, War in Afghanistan (2001-present)_
-5. [At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-in.md) _Context: War in Afghanistan (2001-present)_
+2. [ Conflict in Afghanistan: U.S. Troops kill four Afghan police, after mistaking them for militants in the Girishk district of the Helmand Province. ](/news/2005/10/7/conflict-in-afghanistan-u-s-troops-kill-four-afghan-police-after-mistaking-them-for-militants-in-the-girishk-district-of-the-helmand-pro.md) _Context: Helmand Province, War in Afghanistan (2001-present)_
+3. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: War in Afghanistan (2001-present)_
+4. [Attackers detonate explosives before storming the offices of the Save the Children charity in the eastern Afghan city of Jalalabad. ](/news/2018/01/24/attackers-detonate-explosives-before-storming-the-offices-of-the-save-the-children-charity-in-the-eastern-afghan-city-of-jalalabad.md) _Context: War in Afghanistan (2001-present)_
+5. [A suicide bombing at a Shi'ite cultural center and news agency in Kabul, Afghanistan, kills 41 people and injures 84 others. ISIL-affiliated Amaq News Agency says this group is responsible. ](/news/2017/12/28/a-suicide-bombing-at-a-shiaite-cultural-center-and-news-agency-in-kabul-afghanistan-kills-41-people-and-injures-84-others-isil-affiliat.md) _Context: War in Afghanistan (2001-present)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/22/in-the-united-states-the-9-11-commission-releases.html)  [JSON](/news/2004/07/22/in-the-united-states-the-9-11-commission-releases.json)  [XML](/news/2004/07/22/in-the-united-states-the-9-11-commission-releases.xml)  
+
 ### [2004-07-22](/news/2004/07/22/index.md)
 
+##### 9/11 Commission
 #  In the United States, the 9-11 Commission releases 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Democracy Now!](http://www.democracynow.org/article.pl?sid=04/07/23/1336253)
 2. [its unanimous final report](http://www.9-11commission.gov/report/911Report.pdf)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/07/15/the-2006-central-american-and-caribbean-games-begin-in-the-city-of-cartagena-colombia.html)  [JSON](/news/2006/07/15/the-2006-central-american-and-caribbean-games-begin-in-the-city-of-cartagena-colombia.json)  [XML](/news/2006/07/15/the-2006-central-american-and-caribbean-games-begin-in-the-city-of-cartagena-colombia.xml)  
+
 ### [2006-07-15](/news/2006/07/15/index.md)
 
+##### 2006 Central American and Caribbean Games
 #  The 2006 Central American and Caribbean Games begin in the city of Cartagena, Colombia.
 
 

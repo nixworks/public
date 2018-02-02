@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/12/the-united-nations-special-rapporteur-to-burma-tomas-quintana-calls-for-investigations-into-war-crimes-and-crimes-against-humanity-perpetrat.html)  [JSON](/news/2010/03/12/the-united-nations-special-rapporteur-to-burma-tomas-quintana-calls-for-investigations-into-war-crimes-and-crimes-against-humanity-perpetrat.json)  [XML](/news/2010/03/12/the-united-nations-special-rapporteur-to-burma-tomas-quintana-calls-for-investigations-into-war-crimes-and-crimes-against-humanity-perpetrat.xml)  
+
 ### [2010-03-12](/news/2010/03/12/index.md)
 
+##### United Nations
 # The United Nations Special Rapporteur to Burma Tomas Quintana calls for investigations into war crimes and crimes against humanity perpetrated against Burmese civilians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iilMtR9g5hSyRNk2zOksdSXX90nA)
 2. [DailyIndia.com](http://www.dailyindia.com/show/364139.php)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/20/danica-patrick-becomes-the-first-woman-to-win-a-race-in-any-top-flight-american-motor-racing-series-with-her-victory-in-indycar-s-2008-indy.html)  [JSON](/news/2008/04/20/danica-patrick-becomes-the-first-woman-to-win-a-race-in-any-top-flight-american-motor-racing-series-with-her-victory-in-indycar-s-2008-indy.json)  [XML](/news/2008/04/20/danica-patrick-becomes-the-first-woman-to-win-a-race-in-any-top-flight-american-motor-racing-series-with-her-victory-in-indycar-s-2008-indy.xml)  
+
 ### [2008-04-20](/news/2008/04/20/index.md)
 
+##### Danica Patrick
 #  Danica Patrick becomes the first woman to win a race in any top-flight American motor racing series with her victory in IndyCar's 2008 Indy Japan 300. 
 
 Danica Patrick became the first female winner in IndyCar history Sunday, taking the Indy Japan 300 after the top contenders were forced to pit for fuel in the final laps.
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/rpm/racing/news/story?id=3355226)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)

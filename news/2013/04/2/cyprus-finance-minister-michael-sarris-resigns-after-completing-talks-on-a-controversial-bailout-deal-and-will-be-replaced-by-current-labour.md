@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/2/cyprus-finance-minister-michael-sarris-resigns-after-completing-talks-on-a-controversial-bailout-deal-and-will-be-replaced-by-current-labour.html)  [JSON](/news/2013/04/2/cyprus-finance-minister-michael-sarris-resigns-after-completing-talks-on-a-controversial-bailout-deal-and-will-be-replaced-by-current-labour.json)  [XML](/news/2013/04/2/cyprus-finance-minister-michael-sarris-resigns-after-completing-talks-on-a-controversial-bailout-deal-and-will-be-replaced-by-current-labour.xml)  
+
 ### [2013-04-2](/news/2013/04/2/index.md)
 
+##### Cyprus
 # Cyprus Finance Minister Michael Sarris resigns after completing talks on a controversial bailout deal and will be replaced by current Labour Minister Charis Georgiades. 
 
 Cypriot Finance Minister Michalis Sarris resigns after completing talks on a controversial bailout deal.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/feedarticle/10728219)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-22005240)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/1/muriel-degauque-is-identified-as-the-belgian-suicide-bomber-who-killed-herself-in-iraq-on-november-9-2005.html)  [JSON](/news/2005/12/1/muriel-degauque-is-identified-as-the-belgian-suicide-bomber-who-killed-herself-in-iraq-on-november-9-2005.json)  [XML](/news/2005/12/1/muriel-degauque-is-identified-as-the-belgian-suicide-bomber-who-killed-herself-in-iraq-on-november-9-2005.xml)  
+
 ### [2005-12-1](/news/2005/12/1/index.md)
 
+##### Muriel Degauque
 #  Muriel Degauque is identified as the Belgian suicide bomber who killed herself in Iraq on November 9, 2005. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4488642.stm)
 

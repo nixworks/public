@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/the-pacific-islands-forum-discusses-fiji-in-vanuatu.html)  [JSON](/news/2010/08/4/the-pacific-islands-forum-discusses-fiji-in-vanuatu.json)  [XML](/news/2010/08/4/the-pacific-islands-forum-discusses-fiji-in-vanuatu.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### Pacific Islands Forum
 # The Pacific Islands Forum discusses Fiji in Vanuatu. 
 
 Pacific Islands Forum host, Vanuatu, says regional leaders must still engage with Fiji to help restore democracy there.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10862441)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/fijis-pacific-comments-ridiculous-20100804-11dqi.html)

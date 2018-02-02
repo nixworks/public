@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/21/a-helicopter-carrying-military-personnel-crashes-killing-12-people-in-brunei.html)  [JSON](/news/2012/07/21/a-helicopter-carrying-military-personnel-crashes-killing-12-people-in-brunei.json)  [XML](/news/2012/07/21/a-helicopter-carrying-military-personnel-crashes-killing-12-people-in-brunei.xml)  
+
 ### [2012-07-21](/news/2012/07/21/index.md)
 
+##### Brunei
 # A helicopter carrying military personnel crashes killing 12 people in Brunei. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2012/07/21/uk-brunei-helicopter-idUKBRE86K06K20120721)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/26/slovakia-s-newly-formed-coalition-government-ga
 
 ### [2016-04-26](/news/2016/04/26/index.md)
 
+##### Slovak parliamentary election, 2016
 # Slovakia's newly-formed coalition government gains a vote of confidence as the legislature approves its program manifesto, 79-61. The ruling Direction - Social Democracy party, which did not win an absolute majority in March, has joined with the three other parties--Slovak National Party, Most-Hid, and Network--to total 85 of the National Council's 150 seats. 
 
 BRATISLAVA, Slovakia (AP) — The new Slovak government of Prime Minister Robert Fico has won a mandatory vote of confidence in Parliament Tuesday&#039;s 79-61 vote came after Fico&#039;s leftist Smer-Social Democracy won the March…

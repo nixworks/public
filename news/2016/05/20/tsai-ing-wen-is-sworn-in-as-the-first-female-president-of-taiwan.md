@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/20/tsai-ing-wen-is-sworn-in-as-the-first-female-pr
 
 ### [2016-05-20](/news/2016/05/20/index.md)
 
+##### Tsai Ing-wen
 # Tsai Ing-wen is sworn in as the first female President of Taiwan. 
 
 

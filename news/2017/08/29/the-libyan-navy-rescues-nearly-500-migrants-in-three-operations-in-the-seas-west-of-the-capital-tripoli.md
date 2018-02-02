@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/29/the-libyan-navy-rescues-nearly-500-migrants-in-
 
 ### [2017-08-29](/news/2017/08/29/index.md)
 
+##### European migrant crisis
 # The Libyan Navy rescues nearly 500 migrants in three operations in the seas west of the capital Tripoli. 
 
 

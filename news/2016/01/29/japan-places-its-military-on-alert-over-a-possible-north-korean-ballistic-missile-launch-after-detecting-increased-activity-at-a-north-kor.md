@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/29/japan-places-its-military-on-alert-over-a-possi
 
 ### [2016-01-29](/news/2016/01/29/index.md)
 
+##### Japan-North Korea relations
 # Japan places its military on alert over a possible North Korean ballistic-missile launch after detecting "increased activity" at a North Korean missile site. Japan's Minister of Defense, Gen Nakatani, has ordered Kongo-class destroyers stationed in the Sea of Japan, equipped with Aegis combat systems, to target any North Korean projectiles heading for Japan. 
 
 Japan has put its military on alert for a possible North Korean ballistic missile launch after indications it is preparing for a test firing, two people with direct knowledge of the order told Reuters on Friday.

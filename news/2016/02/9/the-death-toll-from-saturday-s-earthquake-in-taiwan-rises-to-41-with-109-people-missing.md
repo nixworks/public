@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/9/the-death-toll-from-saturday-s-earthquake-in-tai
 
 ### [2016-02-9](/news/2016/02/9/index.md)
 
+##### 2016 Taiwan earthquake
 # The death toll from Saturday's earthquake in Taiwan rises to 41 with 109 people missing. 
 
 A local court in the southern Taiwan city of Tainan ruled on Tuesday to take into custody the developer of a building which collapsed during an earthquake at the weekend that killed at least 39 people.

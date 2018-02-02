@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/30/gunmen-kidnap-a-politician-in-southern-nigeria-days-after-a-supporter-of-president-goodluck-jonathan-was-also-kidnapped.html)  [JSON](/news/2010/08/30/gunmen-kidnap-a-politician-in-southern-nigeria-days-after-a-supporter-of-president-goodluck-jonathan-was-also-kidnapped.json)  [XML](/news/2010/08/30/gunmen-kidnap-a-politician-in-southern-nigeria-days-after-a-supporter-of-president-goodluck-jonathan-was-also-kidnapped.xml)  
+
 ### [2010-08-30](/news/2010/08/30/index.md)
 
+##### Nigeria
 # Gunmen kidnap a politician in southern Nigeria, days after a supporter of President Goodluck Jonathan was also kidnapped. 
 
 Gunmen have kidnapped a politician in southern Nigeria months ahead of elections, police say, after a prominent supporter of President Goodluck Jonathan was abducted. 
 
 
-### Source:
+### Sources:
 
 1. [News24](http://www.news24.com/Africa/News/Nigerian-politician-kidnapped-20100830)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/30/c_13469952.htm)

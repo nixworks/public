@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/19/egypt-recalls-its-ambassador-to-algeria-after-complaints-about-violence-towards-its-football-fans-after-a-world-cup-play-off-sudan-also-su.html)  [JSON](/news/2009/11/19/egypt-recalls-its-ambassador-to-algeria-after-complaints-about-violence-towards-its-football-fans-after-a-world-cup-play-off-sudan-also-su.json)  [XML](/news/2009/11/19/egypt-recalls-its-ambassador-to-algeria-after-complaints-about-violence-towards-its-football-fans-after-a-world-cup-play-off-sudan-also-su.xml)  
+
 ### [2009-11-19](/news/2009/11/19/index.md)
 
+##### Algeria
 #  Egypt recalls its ambassador to Algeria after complaints about violence towards its football fans after a World Cup play off. Sudan also summons its envoy to Egypt over media coverage of the game's aftermath. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jNVwKbtHQ2lLaQeH17foxUMCMoWw)
 2. [Al Bawaba](http://www.albawaba.com/en/news/257318)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/17/the-environmental-protection-agency-delays-its-proposed-rules-for-the-united-states-for-cutting-pollution-from-industrial-boilers-used-at-oi.html)  [JSON](/news/2011/05/17/the-environmental-protection-agency-delays-its-proposed-rules-for-the-united-states-for-cutting-pollution-from-industrial-boilers-used-at-oi.json)  [XML](/news/2011/05/17/the-environmental-protection-agency-delays-its-proposed-rules-for-the-united-states-for-cutting-pollution-from-industrial-boilers-used-at-oi.xml)  
+
 ### [2011-05-17](/news/2011/05/17/index.md)
 
+##### Environmental Protection Agency
 # The Environmental Protection Agency delays its proposed rules for the United States for cutting pollution from industrial boilers used at oil refineries, chemical plants, paper mills and other factories. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Marketwatch](http://www.marketwatch.com/story/epa-eases-curbs-proposed-for-industrial-boilers-2011-02-23)
 2. [WSJ](http://online.wsj.com/article/SB10001424052748703509104576327303725790640.html?mod=WSJ_topics_obama)

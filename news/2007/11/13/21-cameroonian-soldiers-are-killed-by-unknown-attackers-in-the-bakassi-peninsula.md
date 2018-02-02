@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/13/21-cameroonian-soldiers-are-killed-by-unknown-attackers-in-the-bakassi-peninsula.html)  [JSON](/news/2007/11/13/21-cameroonian-soldiers-are-killed-by-unknown-attackers-in-the-bakassi-peninsula.json)  [XML](/news/2007/11/13/21-cameroonian-soldiers-are-killed-by-unknown-attackers-in-the-bakassi-peninsula.xml)  
+
 ### [2007-11-13](/news/2007/11/13/index.md)
 
+##### Cameroon
 #  21 Cameroonian soldiers are killed by unknown attackers in the Bakassi peninsula. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7092754.stm)
 

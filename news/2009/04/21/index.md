@@ -1,23 +1,33 @@
+
+Formats: [HTML](2009/04/21/index.html)  [JSON](2009/04/21/index.json)  [XML](2009/04/21/index.xml)  
+
 ## [2009-04-21](/news/2009/04/21/index.md)
 
+##### Yahoo!
 ### [ Yahoo! will cut between 600 and 700 jobs. ](/news/2009/04/21/yahoo-will-cut-between-600-and-700-jobs.md)
-_Context: Yahoo!, layoff_
+_Context: cut, Yahoo!_
 
+##### maritime forces
 ### [ Twelve navies from the Americas begin annual UNITAS Gold exercises near Florida, United States. ](/news/2009/04/21/twelve-navies-from-the-americas-begin-annual-unitas-gold-exercises-near-florida-united-states.md)
-_Context: Americas, Florida, UNITAS Gold, United States, maritime forces, military exercise_
+_Context: maritime forces, UNITAS Gold, U.S., the state, Americas, drill_
 
+##### World Digital Library
 ### [ The World Digital Library launches at UNESCO's headquarters in Paris, France. ](/news/2009/04/21/the-world-digital-library-launches-at-unesco-s-headquarters-in-paris-france.md)
-_Context: France, Paris, UNESCO, World Digital Library_
+_Context: World Digital Library, France, UNESCO, Paris_
 
+##### The Wall Street Journal
 ### [ "The Wall Street Journal" reports that cyber-spies have hacked the U.S. Joint Strike Fighter Program. ](/news/2009/04/21/the-wall-street-journal-reports-that-cyber-spies-have-hacked-the-u-s-joint-strike-fighter-program.md)
 The Pentagon and Lockheed Martin Corp, its top supplier, discounted a Wall Street Journal report that cyber spies had stolen secrets of the F-35 Joint Strike Fighter aircraft being built for the United States and nearly a dozen allies.
 
+##### British
 ### [ The United Kingdom's Retail Prices Index records negative inflation for the first time since 1960. ](/news/2009/04/21/the-united-kingdom-s-retail-prices-index-records-negative-inflation-for-the-first-time-since-1960.md)
-_Context: Retail Prices Index, United Kingdom, inflation_
+_Context: inflation, British, Retail Prices Index_
 
+##### killed
 ### [ Twenty-four people are killed during combat between the Mungiki criminal organization and citizens of Karatina in Kenya. ](/news/2009/04/21/twenty-four-people-are-killed-during-combat-between-the-mungiki-criminal-organization-and-citizens-of-karatina-in-kenya.md)
-_Context: Karatina, Kenya, Mungiki, citizenship, killed, organization_
+_Context: organized crime, killed, Mungiki, Kenya, Karatina, citizen_
 
+##### extrasolar planet
 ### [ The smallest confirmed extrasolar planet, Gliese 581 e, is discovered. ](/news/2009/04/21/the-smallest-confirmed-extrasolar-planet-gliese-581-e-is-discovered.md)
 The lightest exoplanet yet discovered &#8212; only about twice the mass of Earth &#8212; has been detected, astronomers announced Tuesday.
 

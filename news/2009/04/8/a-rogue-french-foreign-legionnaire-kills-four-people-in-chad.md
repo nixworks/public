@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/8/a-rogue-french-foreign-legionnaire-kills-four-people-in-chad.html)  [JSON](/news/2009/04/8/a-rogue-french-foreign-legionnaire-kills-four-people-in-chad.json)  [XML](/news/2009/04/8/a-rogue-french-foreign-legionnaire-kills-four-people-in-chad.xml)  
+
 ### [2009-04-8](/news/2009/04/8/index.md)
 
+##### rogue
 #  A rogue French Foreign Legionnaire kills four people in Chad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/7988875.stm)
 

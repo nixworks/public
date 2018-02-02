@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/7/a-report-by-amnesty-international-states-that-be
 
 ### [2017-02-7](/news/2017/02/7/index.md)
 
+##### Syrian Civil War
 # A report by Amnesty International states that between 5,000 and 13,000 people, most of them civilians, were hanged at the military-run Sednaya Prison near Damascus between September 2011 and December 2015. 
 
 Civilians killed and multi-storey buildings collapse in some of the heaviest strikes to hit rebel-held city in months.

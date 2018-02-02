@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/22/bayo-ohu-the-assistant-news-editor-of-the-nigerian-daily-the-guardian-is-shot-dead-at-his-home-in-lagos.html)  [JSON](/news/2009/09/22/bayo-ohu-the-assistant-news-editor-of-the-nigerian-daily-the-guardian-is-shot-dead-at-his-home-in-lagos.json)  [XML](/news/2009/09/22/bayo-ohu-the-assistant-news-editor-of-the-nigerian-daily-the-guardian-is-shot-dead-at-his-home-in-lagos.xml)  
+
 ### [2009-09-22](/news/2009/09/22/index.md)
 
+##### Bayo Ohu
 #  Bayo Ohu, the assistant news editor of the Nigerian daily "The Guardian", is shot dead at his home in Lagos. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/media/greenslade/2009/sep/22/press-freedom-nigeria)
 

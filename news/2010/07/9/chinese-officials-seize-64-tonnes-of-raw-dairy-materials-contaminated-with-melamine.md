@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/9/chinese-officials-seize-64-tonnes-of-raw-dairy-materials-contaminated-with-melamine.html)  [JSON](/news/2010/07/9/chinese-officials-seize-64-tonnes-of-raw-dairy-materials-contaminated-with-melamine.json)  [XML](/news/2010/07/9/chinese-officials-seize-64-tonnes-of-raw-dairy-materials-contaminated-with-melamine.xml)  
+
 ### [2010-07-9](/news/2010/07/9/index.md)
 
+##### China
 # Chinese officials seize 64 tonnes of raw dairy materials contaminated with melamine. 
 
 Chinese officials seize dairy material tainted with the toxic chemical melamine, a practice that killed six babies in 2008.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/20107945239389334.html)
 2. [BBC News](http://news.bbc.co.uk/1/hi/world/asia_pacific/10565838.stm)

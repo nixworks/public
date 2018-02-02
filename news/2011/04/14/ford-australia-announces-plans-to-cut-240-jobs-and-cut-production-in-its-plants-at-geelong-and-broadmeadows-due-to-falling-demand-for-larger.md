@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/14/ford-australia-announces-plans-to-cut-240-jobs-and-cut-production-in-its-plants-at-geelong-and-broadmeadows-due-to-falling-demand-for-larger.html)  [JSON](/news/2011/04/14/ford-australia-announces-plans-to-cut-240-jobs-and-cut-production-in-its-plants-at-geelong-and-broadmeadows-due-to-falling-demand-for-larger.json)  [XML](/news/2011/04/14/ford-australia-announces-plans-to-cut-240-jobs-and-cut-production-in-its-plants-at-geelong-and-broadmeadows-due-to-falling-demand-for-larger.xml)  
+
 ### [2011-04-14](/news/2011/04/14/index.md)
 
+##### Ford Australia
 # Ford Australia announces plans to cut 240 jobs and cut production in its plants at Geelong and Broadmeadows due to falling demand for larger vehicles. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/business/industry-sectors/ford-to-cut-240-jobs-as-sales-of-larger-vehicles-slump/story-e6frg98x-1226039141652)
 

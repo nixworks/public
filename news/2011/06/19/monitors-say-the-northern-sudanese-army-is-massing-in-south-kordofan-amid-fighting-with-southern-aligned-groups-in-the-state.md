@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/19/monitors-say-the-northern-sudanese-army-is-massing-in-south-kordofan-amid-fighting-with-southern-aligned-groups-in-the-state.html)  [JSON](/news/2011/06/19/monitors-say-the-northern-sudanese-army-is-massing-in-south-kordofan-amid-fighting-with-southern-aligned-groups-in-the-state.json)  [XML](/news/2011/06/19/monitors-say-the-northern-sudanese-army-is-massing-in-south-kordofan-amid-fighting-with-southern-aligned-groups-in-the-state.xml)  
+
 ### [2011-06-19](/news/2011/06/19/index.md)
 
+##### Sudan People's Armed Forces
 # Monitors say the northern Sudanese army is massing in South Kordofan, amid fighting with southern-aligned groups in the state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE75I05P20110619?sp=true)
 

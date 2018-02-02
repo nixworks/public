@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/28/former-secretary-general-of-nato-anders-fogh-ra
 
 ### [2016-05-28](/news/2016/05/28/index.md)
 
+##### Secretary General of NATO
 # Former Secretary General of NATO Anders Fogh Rasmussen is named an advisor for Ukrainian President Petro Poroshenko, a move described by a Russian deputy chairman of the Foreign Affairs Committee as a "hostile gesture". 
 
 

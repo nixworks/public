@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/10/zambia-starts-a-program-of-mass-demolition-of-illegal-housing-starting-in-the-capital-lusaka-the-demolitions-are-to-end-corruption-in-the.html)  [JSON](/news/2007/03/10/zambia-starts-a-program-of-mass-demolition-of-illegal-housing-starting-in-the-capital-lusaka-the-demolitions-are-to-end-corruption-in-the.json)  [XML](/news/2007/03/10/zambia-starts-a-program-of-mass-demolition-of-illegal-housing-starting-in-the-capital-lusaka-the-demolitions-are-to-end-corruption-in-the.xml)  
+
 ### [2007-03-10](/news/2007/03/10/index.md)
 
+##### Zambia
 #  Zambia starts a program of mass demolition of illegal housing starting in the capital Lusaka. The demolitions are to end corruption in the distribution of land plots highlighted by the recent sacking of Lands Minister Gladys Nyirongo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via IOL South Africa](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=nw20070310143743857C329090)
 

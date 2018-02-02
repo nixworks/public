@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/30/2002-glasgow-floods.html)  [JSON](/news/2002/07/30/2002-glasgow-floods.json)  [XML](/news/2002/07/30/2002-glasgow-floods.xml)  
+
 ### [2002-07-30](/news/2002/07/30/index.md)
 
+##### 2002 Glasgow floods
 #  2002 Glasgow floods
 
 

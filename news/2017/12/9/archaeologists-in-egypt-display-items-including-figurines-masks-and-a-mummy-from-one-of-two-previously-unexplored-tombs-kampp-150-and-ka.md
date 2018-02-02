@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/9/archaeologists-in-egypt-display-items-including-
 
 ### [2017-12-9](/news/2017/12/9/index.md)
 
+##### Egyptology
 # Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs, Kampp 150 and Kampp 161, in the ancient Nile city of Luxor. 
 
 A mummy dating back about 3,500 years is among items discovered in the two tombs.

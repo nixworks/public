@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/7/space-shuttle-discovery-lands-at-the-kennedy-space-center-ending-sts-120-a-15-day-mission-to-the-international-space-station.html)  [JSON](/news/2007/11/7/space-shuttle-discovery-lands-at-the-kennedy-space-center-ending-sts-120-a-15-day-mission-to-the-international-space-station.json)  [XML](/news/2007/11/7/space-shuttle-discovery-lands-at-the-kennedy-space-center-ending-sts-120-a-15-day-mission-to-the-international-space-station.xml)  
+
 ### [2007-11-7](/news/2007/11/7/index.md)
 
+##### Discovery
 #  Space Shuttle "Discovery" lands at the Kennedy Space Center, ending STS-120, a 15-day mission to the International Space Station. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [spaceflightnow.com ](http://www.spaceflightnow.com)
 

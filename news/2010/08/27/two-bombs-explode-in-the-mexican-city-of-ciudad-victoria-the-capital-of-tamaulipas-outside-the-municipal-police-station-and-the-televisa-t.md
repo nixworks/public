@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/27/two-bombs-explode-in-the-mexican-city-of-ciudad-victoria-the-capital-of-tamaulipas-outside-the-municipal-police-station-and-the-televisa-t.html)  [JSON](/news/2010/08/27/two-bombs-explode-in-the-mexican-city-of-ciudad-victoria-the-capital-of-tamaulipas-outside-the-municipal-police-station-and-the-televisa-t.json)  [XML](/news/2010/08/27/two-bombs-explode-in-the-mexican-city-of-ciudad-victoria-the-capital-of-tamaulipas-outside-the-municipal-police-station-and-the-televisa-t.xml)  
+
 ### [2010-08-27](/news/2010/08/27/index.md)
 
+##### bombs
 # Two bombs explode in the Mexican city of Ciudad Victoria, the capital of Tamaulipas, outside the municipal police station and the Televisa television station. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BNO via New Kerala](http://www.newkerala.com/news2/fullnews-29271.html)
 

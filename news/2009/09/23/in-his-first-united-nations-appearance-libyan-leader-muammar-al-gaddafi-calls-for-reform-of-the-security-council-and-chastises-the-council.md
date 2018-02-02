@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/23/in-his-first-united-nations-appearance-libyan-leader-muammar-al-gaddafi-calls-for-reform-of-the-security-council-and-chastises-the-council.html)  [JSON](/news/2009/09/23/in-his-first-united-nations-appearance-libyan-leader-muammar-al-gaddafi-calls-for-reform-of-the-security-council-and-chastises-the-council.json)  [XML](/news/2009/09/23/in-his-first-united-nations-appearance-libyan-leader-muammar-al-gaddafi-calls-for-reform-of-the-security-council-and-chastises-the-council.xml)  
+
 ### [2009-09-23](/news/2009/09/23/index.md)
 
+##### United Nations
 #  In his first United Nations appearance, Libyan leader Muammar al-Gaddafi calls for reform of the Security Council and chastises the Council for failing to intervene or prevent some 65 wars since the U.N. was founded in 1945. 
 
 In his first U.N. appearance, Libyan leader Moammar Gadhafi slams the Security Council and chastised the world body on Wednesday for failing to intervene or prevent some 65 wars.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/32986087/ns/world_news-united_nations/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/090923-gadhafi-protest-hmed-1p.standard.jpg)

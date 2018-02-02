@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/1/telangana-officially-becomes-the-29th-state-of-india.html)  [JSON](/news/2014/06/1/telangana-officially-becomes-the-29th-state-of-india.json)  [XML](/news/2014/06/1/telangana-officially-becomes-the-29th-state-of-india.xml)  
+
 ### [2014-06-1](/news/2014/06/1/index.md)
 
+##### Telangana
 # Telangana officially becomes the 29th state of India. 
 
 President&rsquo;s Rule will be revoked in Telangana but remain imposed in the Seemandhra region till TDP chief N Chandrababu Naidu takes oath as CM of the successor state &mdash;...
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/india-news/telanganathetroubledstate/president-s-rule-in-telangana-to-be-revoked-tomorrow-to-continue-in-andhra/article1-1224893.aspx)
 1. [Cover Image](http://www.hindustantimes.com/rf/image_size_640x362/HT/p1/2014/06/01/Incoming/Pictures/1225100_Wallpaper2.jpg)

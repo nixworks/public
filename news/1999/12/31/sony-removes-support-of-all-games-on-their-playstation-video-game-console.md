@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/12/31/sony-removes-support-of-all-games-on-their-playstation-video-game-console.html)  [JSON](/news/1999/12/31/sony-removes-support-of-all-games-on-their-playstation-video-game-console.json)  [XML](/news/1999/12/31/sony-removes-support-of-all-games-on-their-playstation-video-game-console.xml)  
+
 ### [1999-12-31](/news/1999/12/31/index.md)
 
+##### Sony
 #  Sony removes support of all games on their PlayStation video game console.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/27/chinese-activist-zhao-lianhai-is-back-home-after-being-detained-for-campaigning-for-victims-of-the-2008-chinese-milk-scandal.html)  [JSON](/news/2011/05/27/chinese-activist-zhao-lianhai-is-back-home-after-being-detained-for-campaigning-for-victims-of-the-2008-chinese-milk-scandal.json)  [XML](/news/2011/05/27/chinese-activist-zhao-lianhai-is-back-home-after-being-detained-for-campaigning-for-victims-of-the-2008-chinese-milk-scandal.xml)  
+
 ### [2011-05-27](/news/2011/05/27/index.md)
 
+##### China
 # Chinese activist Zhao Lianhai is back home after being detained for campaigning for victims of the 2008 Chinese milk scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_673266.html)
 

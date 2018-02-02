@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/17/protesters-in-potosa-and-the-bolivian-government-resolve-a-three-week-disagreement.html)  [JSON](/news/2010/08/17/protesters-in-potosa-and-the-bolivian-government-resolve-a-three-week-disagreement.json)  [XML](/news/2010/08/17/protesters-in-potosa-and-the-bolivian-government-resolve-a-three-week-disagreement.xml)  
+
 ### [2010-08-17](/news/2010/08/17/index.md)
 
+##### Potosi
 # Protesters in Potosi and the Bolivian government resolve a three-week disagreement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10994568)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

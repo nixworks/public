@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/16/american-journalist-barbara-walters-retires-after-a-52-year-career.html)  [JSON](/news/2014/05/16/american-journalist-barbara-walters-retires-after-a-52-year-career.json)  [XML](/news/2014/05/16/american-journalist-barbara-walters-retires-after-a-52-year-career.xml)  
+
 ### [2014-05-16](/news/2014/05/16/index.md)
 
+##### Barbara Walters
 # American journalist Barbara Walters retires after a 52 year career. 
 
 Legendary US broadcaster Barbara Walters is retiring from a 52-year career with a last appearance on her daytime show, The View.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-us-canada-27446759)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74916000/jpg/_74916823_74916822.jpg)

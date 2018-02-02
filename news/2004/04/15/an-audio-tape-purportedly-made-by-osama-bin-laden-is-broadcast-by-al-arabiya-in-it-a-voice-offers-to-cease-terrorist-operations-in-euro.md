@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2004/04/15/an-audio-tape-purportedly-made-by-osama-bin-laden-is-broadcast-by-al-arabiya-in-it-a-voice-offers-to-cease-terrorist-operations-in-euro.html)  [JSON](/news/2004/04/15/an-audio-tape-purportedly-made-by-osama-bin-laden-is-broadcast-by-al-arabiya-in-it-a-voice-offers-to-cease-terrorist-operations-in-euro.json)  [XML](/news/2004/04/15/an-audio-tape-purportedly-made-by-osama-bin-laden-is-broadcast-by-al-arabiya-in-it-a-voice-offers-to-cease-terrorist-operations-in-euro.xml)  
+
 ### [2004-04-15](/news/2004/04/15/index.md)
 
+##### Osama bin Laden
 #  An audio tape, purportedly made by Osama bin Laden, is broadcast by Al-Arabiya. In it, a voice offers to cease terrorist operations in European countries which withdraw their troops from Muslim nations. The tape includes a vow of revenge on Israel and the United States for the death of Hamas leader, Ahmed Yassin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Khaleej Times](http://www.khaleejtimes.com/DisplayArticle.asp?xfile=data/focusoniraq/2004/April/focusoniraq_April134.xml&section=focusoniraq)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=4839834&section=news)
-3. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A13809-2004Apr15.html)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=4839834&section=news)
+3. [Washington Post](https://www.washingtonpost.com/wp-dyn/articles/A13809-2004Apr15.html)
 4. [Xinhuanet](http://news.xinhuanet.com/english/2004-04/15/content_1422272.htm)
 5. [transcript](http://memri.org/bin/latestnews.cgi?ID=SD69504)
 

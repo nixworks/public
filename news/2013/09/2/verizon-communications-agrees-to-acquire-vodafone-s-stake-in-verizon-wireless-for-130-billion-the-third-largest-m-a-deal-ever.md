@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/09/2/verizon-communications-agrees-to-acquire-vodafone-s-stake-in-verizon-wireless-for-130-billion-the-third-largest-m-a-deal-ever.html)  [JSON](/news/2013/09/2/verizon-communications-agrees-to-acquire-vodafone-s-stake-in-verizon-wireless-for-130-billion-the-third-largest-m-a-deal-ever.json)  [XML](/news/2013/09/2/verizon-communications-agrees-to-acquire-vodafone-s-stake-in-verizon-wireless-for-130-billion-the-third-largest-m-a-deal-ever.xml)  
+
 ### [2013-09-2](/news/2013/09/2/index.md)
 
+##### Verizon Communications
 # Verizon Communications agrees to acquire Vodafone's stake in Verizon Wireless for $130 billion, the third largest M&A deal ever. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/09/02/us-vodafone-verizon-idUSBRE97S08C20130902)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130902&t=2&i=783354217&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9801IDC00)
+1. [Reuters](https://www.reuters.com/article/2013/09/02/us-vodafone-verizon-idUSBRE97S08C20130902)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130902&t=2&i=783354217&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9801IDC00)
 
 ### Related:
 

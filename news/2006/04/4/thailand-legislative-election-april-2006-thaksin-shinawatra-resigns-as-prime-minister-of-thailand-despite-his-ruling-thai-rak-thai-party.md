@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/4/thailand-legislative-election-april-2006-thaksin-shinawatra-resigns-as-prime-minister-of-thailand-despite-his-ruling-thai-rak-thai-party.html)  [JSON](/news/2006/04/4/thailand-legislative-election-april-2006-thaksin-shinawatra-resigns-as-prime-minister-of-thailand-despite-his-ruling-thai-rak-thai-party.json)  [XML](/news/2006/04/4/thailand-legislative-election-april-2006-thaksin-shinawatra-resigns-as-prime-minister-of-thailand-despite-his-ruling-thai-rak-thai-party.xml)  
+
 ### [2006-04-4](/news/2006/04/4/index.md)
 
+##### Thailand legislative election, April 2006
 #  Thailand legislative election, April 2006: Thaksin Shinawatra resigns as Prime Minister of Thailand despite his ruling Thai Rak Thai party winning an overwhelming majority in the House of Representatives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4876326.stm)
 

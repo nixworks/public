@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/4/former-media-mogul-conrad-black-is-released-from-prison-in-miami-after-being-locked-up-for-just-over-three-years-for-defrauding-investors.html)  [JSON](/news/2012/05/4/former-media-mogul-conrad-black-is-released-from-prison-in-miami-after-being-locked-up-for-just-over-three-years-for-defrauding-investors.json)  [XML](/news/2012/05/4/former-media-mogul-conrad-black-is-released-from-prison-in-miami-after-being-locked-up-for-just-over-three-years-for-defrauding-investors.xml)  
+
 ### [2012-05-4](/news/2012/05/4/index.md)
 
+##### Conrad Black
 # Former media mogul Conrad Black is released from prison in Miami after being locked up for just over three years for defrauding investors. 
 
 Former media mogul Conrad Black has been released from prison in Miami after serving just over three years for defrauding investors.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17959389)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60051000/jpg/_60051040_60051039.jpg)

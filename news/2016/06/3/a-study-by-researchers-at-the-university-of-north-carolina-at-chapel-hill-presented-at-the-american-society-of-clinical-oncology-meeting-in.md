@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/3/a-study-by-researchers-at-the-university-of-nort
 
 ### [2016-06-3](/news/2016/06/3/index.md)
 
+##### University of North Carolina at Chapel Hill
 # A study by researchers at the University of North Carolina at Chapel Hill, presented at the American Society of Clinical Oncology meeting in Chicago, reports 26 percent of cancer patients can't afford to pay for their treatment, and 18 percent can't afford their prescriptions. 
 
 

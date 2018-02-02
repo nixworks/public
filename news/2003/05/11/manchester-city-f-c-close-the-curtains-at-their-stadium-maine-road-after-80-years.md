@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/11/manchester-city-f-c-close-the-curtains-at-their-stadium-maine-road-after-80-years.html)  [JSON](/news/2003/05/11/manchester-city-f-c-close-the-curtains-at-their-stadium-maine-road-after-80-years.json)  [XML](/news/2003/05/11/manchester-city-f-c-close-the-curtains-at-their-stadium-maine-road-after-80-years.xml)  
+
 ### [2003-05-11](/news/2003/05/11/index.md)
 
+##### Manchester City
 #  Manchester City F.C. close the curtains, at their stadium, Maine Road after 80 years.
 
 

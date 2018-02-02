@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/21/war-on-terrorism-us-officials-state-that-they-believe-wall-street-journal-reporter-daniel-pearl-was-killed-by-khalid-sheikh-mohammed.html)  [JSON](/news/2003/10/21/war-on-terrorism-us-officials-state-that-they-believe-wall-street-journal-reporter-daniel-pearl-was-killed-by-khalid-sheikh-mohammed.json)  [XML](/news/2003/10/21/war-on-terrorism-us-officials-state-that-they-believe-wall-street-journal-reporter-daniel-pearl-was-killed-by-khalid-sheikh-mohammed.xml)  
+
 ### [2003-10-21](/news/2003/10/21/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: US officials state that they believe "Wall Street Journal" reporter Daniel Pearl was killed by Khalid Sheikh Mohammed.
 
 

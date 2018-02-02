@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/22/a-series-of-shootings-in-rothschild-wisconsin-l
 
 ### [2017-03-22](/news/2017/03/22/index.md)
 
+##### Rothschild, Wisconsin
 # A series of shootings in Rothschild, Wisconsin, leave at least four people dead, including a police officer. 
 
 WESTON, Wis. (AP) — The Latest on a string of shootings in northern Wisconsin that killed a police officer and three others and prompted local schools and a hospital to go on lockdown (all times&hellip;

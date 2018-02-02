@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/12/tens-of-thousands-of-people-gather-at-rabin-square-in-tel-aviv-in-a-rally-to-mark-a-decade-since-the-assassination-of-prime-minister-yitzha.html)  [JSON](/news/2005/11/12/tens-of-thousands-of-people-gather-at-rabin-square-in-tel-aviv-in-a-rally-to-mark-a-decade-since-the-assassination-of-prime-minister-yitzha.json)  [XML](/news/2005/11/12/tens-of-thousands-of-people-gather-at-rabin-square-in-tel-aviv-in-a-rally-to-mark-a-decade-since-the-assassination-of-prime-minister-yitzha.xml)  
+
 ### [2005-11-12](/news/2005/11/12/index.md)
 
+##### Rabin Square
 #  Tens of thousands of people gather at Rabin Square in Tel Aviv in a rally to mark a decade since the assassination of Prime Minister Yitzhak Rabin. 
 
 Masses gather in Tel Aviv for emotional memorial ceremony to mark 10 years since assassination of Yitzhak Rabin; former President Clinton receives enthusiastic reception from crowd, says &#39;not a week goes by&#39; where he doesn&#39;t think of Rabin. New Labor party leader Peretz calls for &#39;moral road map,&#39; end to occupation
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3168038,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
@@ -16,4 +20,4 @@ Masses gather in Tel Aviv for emotional memorial ceremony to mark 10 years since
 2. [ Former Prime Minister of Israel Ariel Sharon is admitted to the intensive care unit of the Sheba Medical Center near Tel Aviv with a chest infection. ](/news/2006/11/4/former-prime-minister-of-israel-ariel-sharon-is-admitted-to-the-intensive-care-unit-of-the-sheba-medical-center-near-tel-aviv-with-a-chest.md) _Context: Israeli Prime Minister, Tel Aviv_
 3. [ Israeli television claims that Police in Tel Aviv found evidence that proves Prime Minister of Israel Ariel Sharon's family took bribes while Sharon was running for the leadership of the Likud Party. An aide dismissed the allegations. ](/news/2006/01/3/israeli-television-claims-that-police-in-tel-aviv-found-evidence-that-proves-prime-minister-of-israel-ariel-sharon-s-family-took-bribes-whi.md) _Context: Israeli Prime Minister, Tel Aviv_
 4. [ Israelis begin to mark the 10th anniversary of the assassination of Prime Minister Yitzhak Rabin. ](/news/2005/11/4/israelis-begin-to-mark-the-10th-anniversary-of-the-assassination-of-prime-minister-yitzhak-rabin.md) _Context: Israeli Prime Minister, Yitzhak Rabin_
-5. [The Jewish Agency for Israel Board of Governors cancels Monday's dinner with Israeli Prime Minister Benjamin Netanyahu to protest Sunday's decision by his cabinet to rescind plans for a mixed-gender prayer area at Jerusalem's Western Wall, a compromise agreement reached after three years of intense negotiations. ](/news/2017/06/26/the-jewish-agency-for-israel-board-of-governors-cancels-monday-s-dinner-with-israeli-prime-minister-benjamin-netanyahu-to-protest-sunday-s-d.md) _Context: Israeli Prime Minister_
+5. [U.S. President Donald Trump recognizes Jerusalem as the capital of Israel and says the U.S. starts the process of moving its embassy from Tel Aviv to Jerusalem. The United States Department of State issues an internal travel warning to Israel, Jerusalem and the West Bank until December 20. The U.S. embassy in Amman temporarily suspends routine public services and stops embassy travel around Jordan. Embassies in Berlin and London issue vigilance warnings to U.S. citizens. ](/news/2017/12/6/u-s-president-donald-trump-recognizes-jerusalem-as-the-capital-of-israel-and-says-the-u-s-starts-the-process-of-moving-its-embassy-from-te.md) _Context: Tel Aviv_

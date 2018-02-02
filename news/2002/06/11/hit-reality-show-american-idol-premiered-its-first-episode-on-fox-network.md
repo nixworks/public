@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/06/11/hit-reality-show-american-idol-premiered-its-first-episode-on-fox-network.html)  [JSON](/news/2002/06/11/hit-reality-show-american-idol-premiered-its-first-episode-on-fox-network.json)  [XML](/news/2002/06/11/hit-reality-show-american-idol-premiered-its-first-episode-on-fox-network.xml)  
+
 ### [2002-06-11](/news/2002/06/11/index.md)
 
+##### American Idol
 #  Hit reality show, American Idol premiered its first episode on Fox Network.
 
 

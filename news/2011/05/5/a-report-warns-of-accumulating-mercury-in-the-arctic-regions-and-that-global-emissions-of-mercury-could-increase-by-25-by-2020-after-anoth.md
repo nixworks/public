@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/5/a-report-warns-of-accumulating-mercury-in-the-arctic-regions-and-that-global-emissions-of-mercury-could-increase-by-25-by-2020-after-anoth.html)  [JSON](/news/2011/05/5/a-report-warns-of-accumulating-mercury-in-the-arctic-regions-and-that-global-emissions-of-mercury-could-increase-by-25-by-2020-after-anoth.json)  [XML](/news/2011/05/5/a-report-warns-of-accumulating-mercury-in-the-arctic-regions-and-that-global-emissions-of-mercury-could-increase-by-25-by-2020-after-anoth.xml)  
+
 ### [2011-05-5](/news/2011/05/5/index.md)
 
+##### mercury
 # A report warns of accumulating mercury in the Arctic regions and that global emissions of mercury could increase by 25% by 2020, after another report suggested a global sea level rise by 1.6 metres by 2100, while a previous study detected chemical changes from elemental mercury to neurotoxic monomethylmercury occurring in the Arctic Ocean. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Montreal Gazette](http://www.montrealgazette.com/health/Deadly+form+mercury+found+Arctic+waters+researchers/4691544/story.html)
 2. [Nunatsiaq Online](http://www.nunatsiaqonline.ca/stories/article/060889_Report_calls_for_global_deal_to_reduce_deadly_mercury_fro_the_Arctic/)

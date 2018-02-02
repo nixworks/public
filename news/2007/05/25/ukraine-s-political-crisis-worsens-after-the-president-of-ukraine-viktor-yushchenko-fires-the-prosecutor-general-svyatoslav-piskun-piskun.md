@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/25/ukraine-s-political-crisis-worsens-after-the-president-of-ukraine-viktor-yushchenko-fires-the-prosecutor-general-svyatoslav-piskun-piskun.html)  [JSON](/news/2007/05/25/ukraine-s-political-crisis-worsens-after-the-president-of-ukraine-viktor-yushchenko-fires-the-prosecutor-general-svyatoslav-piskun-piskun.json)  [XML](/news/2007/05/25/ukraine-s-political-crisis-worsens-after-the-president-of-ukraine-viktor-yushchenko-fires-the-prosecutor-general-svyatoslav-piskun-piskun.xml)  
+
 ### [2007-05-25](/news/2007/05/25/index.md)
 
+##### Ukraine
 #  Ukraine's political crisis worsens after the President of Ukraine Viktor Yushchenko fires the prosecutor general Svyatoslav Piskun. Piskun has defied the order and his supporters have occupied government buildings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6688663.stm)
 

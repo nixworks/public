@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/11/the-head-of-bangladeshas-largest-islamist-party
 
 ### [2016-05-11](/news/2016/05/11/index.md)
 
+##### Bangladesh
 # The head of Bangladesh's largest Islamist party, Bangladesh Jamaat-e-Islami, Motiur Rahman Nizami, is executed for his alleged role in acts of genocide and war crimes 45 years ago during the independence war against Pakistan in 1971. Nizami is the fifth senior opposition leader to be executed in connection with the war; a total of 17 people have received the death penalty. Authorities prepare for possibly violent protests. 
 
 Motiur Rahman Nizami, leader of the country’s largest Islamic party, was hanged on a 2014 conviction of committing atrocities in the 1971 war of independence.

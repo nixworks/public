@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/5/pakistan-president-pervez-musharraf-and-indian-prime-minister-atal-bihari-vajpayee-meet-face-to-face-to-discuss-improving-relations-between.html)  [JSON](/news/2004/01/5/pakistan-president-pervez-musharraf-and-indian-prime-minister-atal-bihari-vajpayee-meet-face-to-face-to-discuss-improving-relations-between.json)  [XML](/news/2004/01/5/pakistan-president-pervez-musharraf-and-indian-prime-minister-atal-bihari-vajpayee-meet-face-to-face-to-discuss-improving-relations-between.xml)  
+
 ### [2004-01-5](/news/2004/01/5/index.md)
 
+##### Pervez Musharraf
 #  Pakistan President Pervez Musharraf and Indian Prime Minister Atal Bihari Vajpayee meet face-to-face to discuss improving relations between their two countries.
 
 

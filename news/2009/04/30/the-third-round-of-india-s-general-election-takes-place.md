@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/30/the-third-round-of-india-s-general-election-takes-place.html)  [JSON](/news/2009/04/30/the-third-round-of-india-s-general-election-takes-place.json)  [XML](/news/2009/04/30/the-third-round-of-india-s-general-election-takes-place.xml)  
+
 ### [2009-04-30](/news/2009/04/30/index.md)
 
+##### India
 #  The third round of India's general election takes place. 
 
 Polls have opened in the third round of India&#039;s month-long elections, with the residents of Mumbai, the site of last year&#039;s militant attacks, among 144 million registered to vote.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/india/5247642/Indian-election-Third-wave-of-voting-begins.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01394/indian_voters_1394033a.jpg)

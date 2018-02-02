@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/31/canadian-prime-minister-stephen-harper-is-criticized-after-it-is-revealed-that-he-described-the-kyoto-global-warming-protocol-as-a-sociali.html)  [JSON](/news/2007/01/31/canadian-prime-minister-stephen-harper-is-criticized-after-it-is-revealed-that-he-described-the-kyoto-global-warming-protocol-as-a-sociali.json)  [XML](/news/2007/01/31/canadian-prime-minister-stephen-harper-is-criticized-after-it-is-revealed-that-he-described-the-kyoto-global-warming-protocol-as-a-sociali.xml)  
+
 ### [2007-01-31](/news/2007/01/31/index.md)
 
+##### Stephen Harper
 #  Canadian Prime Minister Stephen Harper is criticized after it is revealed that he described the Kyoto global warming protocol as a "socialist scheme to suck money out of wealth-producing nations" in a 2002 letter. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2007/01/31/liberals-kyoto.html)
 

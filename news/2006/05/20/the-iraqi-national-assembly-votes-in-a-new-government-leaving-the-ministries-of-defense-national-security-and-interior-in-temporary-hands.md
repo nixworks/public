@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/20/the-iraqi-national-assembly-votes-in-a-new-government-leaving-the-ministries-of-defense-national-security-and-interior-in-temporary-hands.html)  [JSON](/news/2006/05/20/the-iraqi-national-assembly-votes-in-a-new-government-leaving-the-ministries-of-defense-national-security-and-interior-in-temporary-hands.json)  [XML](/news/2006/05/20/the-iraqi-national-assembly-votes-in-a-new-government-leaving-the-ministries-of-defense-national-security-and-interior-in-temporary-hands.xml)  
+
 ### [2006-05-20](/news/2006/05/20/index.md)
 
+##### Iraqi National Assembly
 #  The Iraqi National Assembly votes in a new government, leaving the ministries of Defense, National Security and Interior in temporary hands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5000016.stm)
 

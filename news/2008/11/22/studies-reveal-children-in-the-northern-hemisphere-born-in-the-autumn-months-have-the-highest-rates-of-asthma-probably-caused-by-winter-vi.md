@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/11/22/studies-reveal-children-in-the-northern-hemisphere-born-in-the-autumn-months-have-the-highest-rates-of-asthma-probably-caused-by-winter-vi.html)  [JSON](/news/2008/11/22/studies-reveal-children-in-the-northern-hemisphere-born-in-the-autumn-months-have-the-highest-rates-of-asthma-probably-caused-by-winter-vi.json)  [XML](/news/2008/11/22/studies-reveal-children-in-the-northern-hemisphere-born-in-the-autumn-months-have-the-highest-rates-of-asthma-probably-caused-by-winter-vi.xml)  
+
 ### [2008-11-22](/news/2008/11/22/index.md)
 
+##### Northern Hemisphere
 #  Studies reveal children in the Northern Hemisphere born in the autumn months have the highest rates of asthma, probably caused by winter viruses like RSV. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AJRCCM study](http://dx.doi.org/10.1164/rccm.200804-579OC)
+1. [AJRCCM study](https://dx.doi.org/10.1164/rccm.200804-579OC)
 2. [U.S. News & World Report](http://health.usnews.com/articles/health/healthday/2008/11/21/autumn-babies-more-prone-to-asthma.html)
 
 ### Related:

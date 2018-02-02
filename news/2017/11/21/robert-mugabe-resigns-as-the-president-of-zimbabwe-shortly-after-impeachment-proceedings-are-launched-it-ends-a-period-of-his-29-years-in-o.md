@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/21/robert-mugabe-resigns-as-the-president-of-zimba
 
 ### [2017-11-21](/news/2017/11/21/index.md)
 
+##### 2017 Zimbabwean coup d'tat
 # Robert Mugabe resigns as the President of Zimbabwe shortly after impeachment proceedings are launched. It ends a period of his 29 years in office as President. 
 
 Zimbabwe President Robert Mugabe resigned Tuesday, ending nearly four decades of rule in the southern African country.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/19/the-golden-globe-awards-are-held-in-beverley-hills-martin-scorsese-wins-best-director-for-gangs-of-new-york-chicago-wins-three-awards.html)  [JSON](/news/2003/01/19/the-golden-globe-awards-are-held-in-beverley-hills-martin-scorsese-wins-best-director-for-gangs-of-new-york-chicago-wins-three-awards.json)  [XML](/news/2003/01/19/the-golden-globe-awards-are-held-in-beverley-hills-martin-scorsese-wins-best-director-for-gangs-of-new-york-chicago-wins-three-awards.xml)  
+
 ### [2003-01-19](/news/2003/01/19/index.md)
 
+##### Golden Globe
 #  The Golden Globe awards are held in Beverley Hills. Martin Scorsese wins Best Director for "Gangs of New York". "Chicago" wins three awards.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/8/the-ruling-junta-in-guinea-announces-it-has-arrested-60-people-so-far-for-attempting-to-kill-leader-captain-moussa-dadis-camara.html)  [JSON](/news/2009/12/8/the-ruling-junta-in-guinea-announces-it-has-arrested-60-people-so-far-for-attempting-to-kill-leader-captain-moussa-dadis-camara.json)  [XML](/news/2009/12/8/the-ruling-junta-in-guinea-announces-it-has-arrested-60-people-so-far-for-attempting-to-kill-leader-captain-moussa-dadis-camara.xml)  
+
 ### [2009-12-8](/news/2009/12/8/index.md)
 
+##### junta
 #  The ruling junta in Guinea announces it has arrested 60 people so far for attempting to kill leader Captain Moussa Dadis Camara. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [African Press Agency](http://apanews.net/apa.php?page=show_article_eng&id_article=113155)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8402129.stm)

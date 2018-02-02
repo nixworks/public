@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/11/the-bank-of-england-says-it-expects-inflation-to-reach-5-this-year-due-to-higher-fuel-bills-that-could-rise-by-up-to-15-and-revises-down.html)  [JSON](/news/2011/05/11/the-bank-of-england-says-it-expects-inflation-to-reach-5-this-year-due-to-higher-fuel-bills-that-could-rise-by-up-to-15-and-revises-down.json)  [XML](/news/2011/05/11/the-bank-of-england-says-it-expects-inflation-to-reach-5-this-year-due-to-higher-fuel-bills-that-could-rise-by-up-to-15-and-revises-down.xml)  
+
 ### [2011-05-11](/news/2011/05/11/index.md)
 
+##### Bank of England
 # The Bank of England says it expects inflation to reach 5% this year, due to higher fuel bills that could rise by up to 15%, and revises down its growth projection for the UK economy. 
 
 The Bank of England says it expects inflation to hit 5% this year, due to higher utility bills, and revises down its growth projection.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13357282)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52334000/jpg/_52334320_011741368-1.jpg)

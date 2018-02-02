@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/18/the-reserve-bank-of-india-acknowledges-poor-data-for-the-current-monsoon-season.html)  [JSON](/news/2012/08/18/the-reserve-bank-of-india-acknowledges-poor-data-for-the-current-monsoon-season.json)  [XML](/news/2012/08/18/the-reserve-bank-of-india-acknowledges-poor-data-for-the-current-monsoon-season.xml)  
+
 ### [2012-08-18](/news/2012/08/18/index.md)
 
+##### Reserve Bank of India
 # The Reserve Bank of India acknowledges poor data for the current monsoon season. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Indian Express](http://www.indianexpress.com/news/poor-monsoon-portends-protein-shock-gokarn/990136/)
 

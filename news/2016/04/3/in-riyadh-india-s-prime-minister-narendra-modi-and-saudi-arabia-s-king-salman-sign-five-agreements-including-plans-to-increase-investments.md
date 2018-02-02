@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/3/in-riyadh-india-s-prime-minister-narendra-modi-a
 
 ### [2016-04-3](/news/2016/04/3/index.md)
 
+##### India-Saudi Arabia relations
 # In Riyadh, India's Prime Minister Narendra Modi and Saudi Arabia's King Salman sign five agreements, including plans to increase investments, and to cooperate in intelligence sharing. 
 
 RIYADH, Saudi Arabia (AP) — India&#039;s Prime Minister Narendra Modi met with Saudi King Salman on Sunday during his first official visit to the kingdom, home to a large number of Indian laborers and a major trade partner…

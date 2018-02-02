@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/1/maurice-clemmons-suspect-in-the-2009-shooting-of-lakewood-washington-police-officers-is-shot-dead-by-police-in-seattle.html)  [JSON](/news/2009/12/1/maurice-clemmons-suspect-in-the-2009-shooting-of-lakewood-washington-police-officers-is-shot-dead-by-police-in-seattle.json)  [XML](/news/2009/12/1/maurice-clemmons-suspect-in-the-2009-shooting-of-lakewood-washington-police-officers-is-shot-dead-by-police-in-seattle.xml)  
+
 ### [2009-12-1](/news/2009/12/1/index.md)
 
+##### Maurice Clemmons
 #  Maurice Clemmons, suspect in the 2009 shooting of Lakewood, Washington, police officers, is shot dead by police in Seattle. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/low/world/americas/8388396.stm)
 

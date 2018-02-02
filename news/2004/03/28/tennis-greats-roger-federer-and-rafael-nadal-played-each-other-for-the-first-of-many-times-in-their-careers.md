@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/03/28/tennis-greats-roger-federer-and-rafael-nadal-played-each-other-for-the-first-of-many-times-in-their-careers.html)  [JSON](/news/2004/03/28/tennis-greats-roger-federer-and-rafael-nadal-played-each-other-for-the-first-of-many-times-in-their-careers.json)  [XML](/news/2004/03/28/tennis-greats-roger-federer-and-rafael-nadal-played-each-other-for-the-first-of-many-times-in-their-careers.xml)  
+
 ### [2004-03-28](/news/2004/03/28/index.md)
 
+##### Roger Federer
 #  Tennis greats Roger Federer and Rafael Nadal played each other for the first of many times in their careers 
 
 

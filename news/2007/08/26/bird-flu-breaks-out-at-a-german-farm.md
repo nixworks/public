@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/26/bird-flu-breaks-out-at-a-german-farm.html)  [JSON](/news/2007/08/26/bird-flu-breaks-out-at-a-german-farm.json)  [XML](/news/2007/08/26/bird-flu-breaks-out-at-a-german-farm.xml)  
+
 ### [2007-08-26](/news/2007/08/26/index.md)
 
+##### bird flu
 #  Bird flu breaks out at a German farm. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/08/26/AR2007082600393.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/08/26/AR2007082600393.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

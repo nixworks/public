@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/14/fighting-between-somali-government-troops-and-local-police-has-killed-at-least-13-people-in-mogadishu-and-gunmen-killed-a-judiciary-official.html)  [JSON](/news/2010/06/14/fighting-between-somali-government-troops-and-local-police-has-killed-at-least-13-people-in-mogadishu-and-gunmen-killed-a-judiciary-official.json)  [XML](/news/2010/06/14/fighting-between-somali-government-troops-and-local-police-has-killed-at-least-13-people-in-mogadishu-and-gunmen-killed-a-judiciary-official.xml)  
+
 ### [2010-06-14](/news/2010/06/14/index.md)
 
+##### Transitional Federal Government
 # Fighting between Somali government troops and local police has killed at least 13 people in Mogadishu and gunmen killed a judiciary official of the semi-autonomous Puntland region in the Hamarjajab district. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/world/article65503.ece)
 

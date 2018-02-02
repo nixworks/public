@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/18/haiti-police-fire-tear-gas-into-a-camp-for-internally-displaced-people-in-port-au-prince-after-riots-over-united-nations-peacekeepers-from-n.html)  [JSON](/news/2010/11/18/haiti-police-fire-tear-gas-into-a-camp-for-internally-displaced-people-in-port-au-prince-after-riots-over-united-nations-peacekeepers-from-n.json)  [XML](/news/2010/11/18/haiti-police-fire-tear-gas-into-a-camp-for-internally-displaced-people-in-port-au-prince-after-riots-over-united-nations-peacekeepers-from-n.xml)  
+
 ### [2010-11-18](/news/2010/11/18/index.md)
 
+##### Haiti police
 # Haiti police fire tear gas into a camp for internally displaced people in Port-au-Prince after riots over United Nations peacekeepers from Nepal allegedly bringing cholera into the country turn violent. 
 
 Police fire tear gas into a camp for displaced people as protests accusing UN troops of bringing cholera turn violent.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazerra](http://english.aljazeera.net/news/americas/2010/11/20101118173955660861.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/11/19/2010111905544574734_20.jpg)

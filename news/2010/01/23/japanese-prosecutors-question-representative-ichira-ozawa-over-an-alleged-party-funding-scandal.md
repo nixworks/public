@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/23/japanese-prosecutors-question-representative-ichira-ozawa-over-an-alleged-party-funding-scandal.html)  [JSON](/news/2010/01/23/japanese-prosecutors-question-representative-ichira-ozawa-over-an-alleged-party-funding-scandal.json)  [XML](/news/2010/01/23/japanese-prosecutors-question-representative-ichira-ozawa-over-an-alleged-party-funding-scandal.xml)  
+
 ### [2010-01-23](/news/2010/01/23/index.md)
 
+##### Japan
 # Japanese prosecutors question Representative Ichiro Ozawa over an alleged party funding scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8476421.stm)
 2. [Manilla Bulletin](http://www.mb.com.ph/articles/239942/japan-ruling-party-no2-official-quizzed-over-fund)

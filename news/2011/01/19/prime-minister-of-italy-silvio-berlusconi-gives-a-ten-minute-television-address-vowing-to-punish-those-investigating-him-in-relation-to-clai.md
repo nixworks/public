@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/19/prime-minister-of-italy-silvio-berlusconi-gives-a-ten-minute-television-address-vowing-to-punish-those-investigating-him-in-relation-to-clai.html)  [JSON](/news/2011/01/19/prime-minister-of-italy-silvio-berlusconi-gives-a-ten-minute-television-address-vowing-to-punish-those-investigating-him-in-relation-to-clai.json)  [XML](/news/2011/01/19/prime-minister-of-italy-silvio-berlusconi-gives-a-ten-minute-television-address-vowing-to-punish-those-investigating-him-in-relation-to-clai.xml)  
+
 ### [2011-01-19](/news/2011/01/19/index.md)
 
+##### Italian Prime Minister
 # Prime Minister of Italy Silvio Berlusconi gives a ten-minute television address vowing to punish those investigating him in relation to claims he purchased an under-age prostitute. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12232265)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/50862000/jpg/_50862054_011012985-1.jpg)

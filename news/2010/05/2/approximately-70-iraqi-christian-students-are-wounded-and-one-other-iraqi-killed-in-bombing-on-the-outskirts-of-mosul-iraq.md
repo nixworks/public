@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/05/2/approximately-70-iraqi-christian-students-are-wounded-and-one-other-iraqi-killed-in-bombing-on-the-outskirts-of-mosul-iraq.html)  [JSON](/news/2010/05/2/approximately-70-iraqi-christian-students-are-wounded-and-one-other-iraqi-killed-in-bombing-on-the-outskirts-of-mosul-iraq.json)  [XML](/news/2010/05/2/approximately-70-iraqi-christian-students-are-wounded-and-one-other-iraqi-killed-in-bombing-on-the-outskirts-of-mosul-iraq.xml)  
+
 ### [2010-05-2](/news/2010/05/2/index.md)
 
+##### Christian
 # Approximately 70 Iraqi Christian students are wounded and one other Iraqi killed in bombing on the outskirts of Mosul, Iraq. 
 
 An Iraqi was killed and about 70 college students were wounded on the outskirts of Mosul.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2010/05/03/world/middleeast/03iraq.html?src=mv)
+1. [The New York Times](https://www.nytimes.com/2010/05/03/world/middleeast/03iraq.html?src=mv)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

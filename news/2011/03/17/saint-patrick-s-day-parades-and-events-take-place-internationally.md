@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/17/saint-patrick-s-day-parades-and-events-take-place-internationally.html)  [JSON](/news/2011/03/17/saint-patrick-s-day-parades-and-events-take-place-internationally.json)  [XML](/news/2011/03/17/saint-patrick-s-day-parades-and-events-take-place-internationally.xml)  
+
 ### [2011-03-17](/news/2011/03/17/index.md)
 
+##### Saint Patrick's Day
 # Saint Patrick's Day parades and events take place internationally. 
 
 HUNDREDS OF thousands of spectators attended almost 120 St Patrick&rsquo;s Day parades across the country yesterday, with more than&hellip;
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-31749_162-20043752-10391698.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0318/1224292506946.html)

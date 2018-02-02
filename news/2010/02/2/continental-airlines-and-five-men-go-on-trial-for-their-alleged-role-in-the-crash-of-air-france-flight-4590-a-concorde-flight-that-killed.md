@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/02/2/continental-airlines-and-five-men-go-on-trial-for-their-alleged-role-in-the-crash-of-air-france-flight-4590-a-concorde-flight-that-killed.html)  [JSON](/news/2010/02/2/continental-airlines-and-five-men-go-on-trial-for-their-alleged-role-in-the-crash-of-air-france-flight-4590-a-concorde-flight-that-killed.json)  [XML](/news/2010/02/2/continental-airlines-and-five-men-go-on-trial-for-their-alleged-role-in-the-crash-of-air-france-flight-4590-a-concorde-flight-that-killed.xml)  
+
 ### [2010-02-2](/news/2010/02/2/index.md)
 
+##### Continental Airlines
 # Continental Airlines and five men go on trial for their alleged role in the crash of Air France Flight 4590, a Concorde flight, that killed 113 people in 2000. 
 
 * Trial starts to determine cause of 2000 Concorde crash * Continental Airlines, five individuals face trial * Trial expected to last unti
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSLDE6110K320100202?type=marketsNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSLDE6110K320100202?type=marketsNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

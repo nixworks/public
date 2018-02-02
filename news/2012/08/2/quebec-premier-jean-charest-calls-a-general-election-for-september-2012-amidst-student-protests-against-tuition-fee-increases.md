@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/2/quebec-premier-jean-charest-calls-a-general-election-for-september-2012-amidst-student-protests-against-tuition-fee-increases.html)  [JSON](/news/2012/08/2/quebec-premier-jean-charest-calls-a-general-election-for-september-2012-amidst-student-protests-against-tuition-fee-increases.json)  [XML](/news/2012/08/2/quebec-premier-jean-charest-calls-a-general-election-for-september-2012-amidst-student-protests-against-tuition-fee-increases.xml)  
+
 ### [2012-08-2](/news/2012/08/2/index.md)
 
+##### Quebec
 # Quebec premier Jean Charest calls a general election for September 2012 amidst student protests against tuition fee increases. 
 
 &lt;p>Jean Charest is calling upon a “silent majority” to restore him to office in a Sept. 4 Quebec election, when he will seek to tie a provincial record with his fourth consecutive victory.&lt;/p>
 
 
-### Source:
+### Sources:
 
 1. [Hamilton Spectator](http://www.thespec.com/news/canada/article/772678--quebec-election-set-for-sept-4)
 1. [Cover Image](http://www.thespec.com/portals/9/images/fb_logo.jpg)

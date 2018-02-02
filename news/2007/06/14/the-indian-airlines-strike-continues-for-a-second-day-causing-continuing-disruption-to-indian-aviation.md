@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/14/the-indian-airlines-strike-continues-for-a-second-day-causing-continuing-disruption-to-indian-aviation.html)  [JSON](/news/2007/06/14/the-indian-airlines-strike-continues-for-a-second-day-causing-continuing-disruption-to-indian-aviation.json)  [XML](/news/2007/06/14/the-indian-airlines-strike-continues-for-a-second-day-causing-continuing-disruption-to-indian-aviation.xml)  
+
 ### [2007-06-14](/news/2007/06/14/index.md)
 
+##### Indian Airlines
 #  The Indian Airlines strike continues for a second day, causing continuing disruption to Indian aviation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6751243.stm)
 

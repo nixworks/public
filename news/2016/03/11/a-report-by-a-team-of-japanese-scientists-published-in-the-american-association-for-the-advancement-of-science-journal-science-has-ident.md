@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/11/a-report-by-a-team-of-japanese-scientists-publi
 
 ### [2016-03-11](/news/2016/03/11/index.md)
 
+##### American Association for the Advancement of Science
 # A report by a team of Japanese scientists, published in the American Association for the Advancement of Science journal "Science", has identified bacteria -- isolated from outside a bottle recycling facility -- that can break down and metabolize plastic. The microbe appears to have evolved a pair of enzymes it uses to break down polyethylene terephthalate or PET, the most common thermoplastic polymer resin in consumer products. 
 
 Scientists say a newly discovered microbe can break down plastic containers that clog our landfills and oceans

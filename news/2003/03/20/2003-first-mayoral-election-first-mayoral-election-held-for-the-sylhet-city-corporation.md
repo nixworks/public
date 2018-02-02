@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/20/2003-first-mayoral-election-first-mayoral-election-held-for-the-sylhet-city-corporation.html)  [JSON](/news/2003/03/20/2003-first-mayoral-election-first-mayoral-election-held-for-the-sylhet-city-corporation.json)  [XML](/news/2003/03/20/2003-first-mayoral-election-first-mayoral-election-held-for-the-sylhet-city-corporation.xml)  
+
 ### [2003-03-20](/news/2003/03/20/index.md)
 
+##### 2003 First Mayoral election
 #  2003 First Mayoral election: first mayoral election held for the Sylhet city corporation.
 
 

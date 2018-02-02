@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/25/representatives-of-the-dalai-lama-head-to-beijing-for-the-first-discussions-with-chinese-authorities-in-15-months.html)  [JSON](/news/2010/01/25/representatives-of-the-dalai-lama-head-to-beijing-for-the-first-discussions-with-chinese-authorities-in-15-months.json)  [XML](/news/2010/01/25/representatives-of-the-dalai-lama-head-to-beijing-for-the-first-discussions-with-chinese-authorities-in-15-months.xml)  
+
 ### [2010-01-25](/news/2010/01/25/index.md)
 
+##### 14th Dalai Lama
 # Representatives of the Dalai Lama head to Beijing for the first discussions with Chinese authorities in 15 months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gZdB0EB5TYIvdjR5dBg6O8unqvYA)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jan/25/dalai-lama-tibet-talks-beijing)

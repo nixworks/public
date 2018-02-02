@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/9/canadian-prime-minister-stephen-harper-goes-on-an-official-visit-to-china-meeting-with-president-hu-jintao-premier-wen-jiabao-and-vice-pr.html)  [JSON](/news/2012/02/9/canadian-prime-minister-stephen-harper-goes-on-an-official-visit-to-china-meeting-with-president-hu-jintao-premier-wen-jiabao-and-vice-pr.json)  [XML](/news/2012/02/9/canadian-prime-minister-stephen-harper-goes-on-an-official-visit-to-china-meeting-with-president-hu-jintao-premier-wen-jiabao-and-vice-pr.xml)  
+
 ### [2012-02-9](/news/2012/02/9/index.md)
 
+##### Stephen Harper
 # Canadian Prime Minister Stephen Harper goes on an official visit to China, meeting with President Hu Jintao, Premier Wen Jiabao, and Vice-Premier Li Keqiang. The two countries sign trade deals worth over $3 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/politics/story/2012/02/09/china-canada-trade.html)
 1. [Cover Image](https://i.cbc.ca/1.1488409.1379073406!/httpImage/image.jpg_gen/derivatives/16x9_1180/harperhufeb9-852.jpg)

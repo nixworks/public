@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/19/bandar-bin-sultan-is-appointed-director-general-of-the-saudi-intelligence-agency.html)  [JSON](/news/2012/07/19/bandar-bin-sultan-is-appointed-director-general-of-the-saudi-intelligence-agency.json)  [XML](/news/2012/07/19/bandar-bin-sultan-is-appointed-director-general-of-the-saudi-intelligence-agency.xml)  
+
 ### [2012-07-19](/news/2012/07/19/index.md)
 
+##### Bandar bin Sultan
 # Bandar bin Sultan is appointed Director General of the Saudi Intelligence Agency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10000872396390444097904577537311469944198.html?mod=googlenews_wsj)
 

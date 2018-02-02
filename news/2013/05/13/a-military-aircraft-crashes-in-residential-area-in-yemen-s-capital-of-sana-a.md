@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/13/a-military-aircraft-crashes-in-residential-area-in-yemen-s-capital-of-sana-a.html)  [JSON](/news/2013/05/13/a-military-aircraft-crashes-in-residential-area-in-yemen-s-capital-of-sana-a.json)  [XML](/news/2013/05/13/a-military-aircraft-crashes-in-residential-area-in-yemen-s-capital-of-sana-a.xml)  
+
 ### [2013-05-13](/news/2013/05/13/index.md)
 
+##### Yemen
 # A military aircraft crashes in residential area in Yemen's capital of Sana'a. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/world/2013-05/13/c_132379179.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/29/a-thai-cargo-ship-is-hijacked-in-the-gulf-of-aden-off-the-coast-of-somalia.html)  [JSON](/news/2009/10/29/a-thai-cargo-ship-is-hijacked-in-the-gulf-of-aden-off-the-coast-of-somalia.json)  [XML](/news/2009/10/29/a-thai-cargo-ship-is-hijacked-in-the-gulf-of-aden-off-the-coast-of-somalia.xml)  
+
 ### [2009-10-29](/news/2009/10/29/index.md)
 
+##### Thailand
 #  A Thai cargo ship is hijacked in the Gulf of Aden off the coast of Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=87&art_id=nw20091029120222196C714505)
 2. [RIA Novosti](http://en.rian.ru/world/20091029/156635672.html)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/3/spacex-launches-a-falcon-9-rocket-with-a-shipmen
 
 ### [2017-06-3](/news/2017/06/3/index.md)
 
+##### SpaceX CRS-11
 # SpaceX launches a Falcon 9 rocket with a shipment of food and supplies in a refurbished Dragon cargo capsule for the International Space Station. The mission reuses a Dragon cargo vessel that was previously flown in a September 2014 mission. 
 
 SpaceX on Saturday blasted off a shipment of food and supplies for the astronauts living at the International Space Station using for the first time a vessel that had flown before.

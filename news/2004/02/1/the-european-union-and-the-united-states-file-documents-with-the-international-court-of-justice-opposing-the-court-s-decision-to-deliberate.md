@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/1/the-european-union-and-the-united-states-file-documents-with-the-international-court-of-justice-opposing-the-court-s-decision-to-deliberate.html)  [JSON](/news/2004/02/1/the-european-union-and-the-united-states-file-documents-with-the-international-court-of-justice-opposing-the-court-s-decision-to-deliberate.json)  [XML](/news/2004/02/1/the-european-union-and-the-united-states-file-documents-with-the-international-court-of-justice-opposing-the-court-s-decision-to-deliberate.xml)  
+
 ### [2004-02-1](/news/2004/02/1/index.md)
 
+##### European Union
 #  The European Union and the United States file documents with the International Court of Justice opposing the court's decision to deliberate on the Israeli West Bank barrier.
 
 

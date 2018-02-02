@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/17/ryan-newman-wins-the-50th-daytona-500.html)  [JSON](/news/2008/02/17/ryan-newman-wins-the-50th-daytona-500.json)  [XML](/news/2008/02/17/ryan-newman-wins-the-50th-daytona-500.xml)  
+
 ### [2008-02-17](/news/2008/02/17/index.md)
 
+##### Ryan Newman
 #  Ryan Newman wins the 50th Daytona 500. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FOX](http://msn.foxsports.com/nascar/cup/raceTrax?gameId=20080217001)
 

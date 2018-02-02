@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/20/france-continues-deporting-romani-as-the-vatican-condemns-this-act.html)  [JSON](/news/2010/08/20/france-continues-deporting-romani-as-the-vatican-condemns-this-act.json)  [XML](/news/2010/08/20/france-continues-deporting-romani-as-the-vatican-condemns-this-act.xml)  
+
 ### [2010-08-20](/news/2010/08/20/index.md)
 
+##### France
 # France continues deporting Romani as the Vatican condemns this act. 
 
 France was preparing to repatriate nearly another 140 Roma, a day after almost 100 were flown back to Romania under a controversial crackdown ordered by President Nicolas Sarkozy.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/2010820104949237253.html)
 2. [News24](http://www.news24.com/World/News/Vatican-slams-France-over-Roma-20100820)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/9/dublin-s-tallaght-hospital-blames-systemic-and-process-failures-for-more-than-57-000-x-rays-taken-between-2005-and-2009-not-being-reviewed.html)  [JSON](/news/2010/03/9/dublin-s-tallaght-hospital-blames-systemic-and-process-failures-for-more-than-57-000-x-rays-taken-between-2005-and-2009-not-being-reviewed.json)  [XML](/news/2010/03/9/dublin-s-tallaght-hospital-blames-systemic-and-process-failures-for-more-than-57-000-x-rays-taken-between-2005-and-2009-not-being-reviewed.xml)  
+
 ### [2010-03-9](/news/2010/03/9/index.md)
 
+##### Dublin
 # Dublin's Tallaght Hospital blames "systemic and process failures" for more than 57,000 X-rays taken between 2005 and 2009 not being reviewed by medical professionals and admits at least two patients received incorrect treatment, one of whom has since died and the other who is receiving cancer treatment. 
 
 A patient died when their diagnosis was delayed at Tallaght Hospital because x-rays were not reviewed by a consultant radiologist.
 
 
-### Source:
+### Sources:
 
 1. [Ireland Online](http://breakingnews.iol.ie/news/ireland/hospital-confirms-radiologists-did-not-review-57000-xrays-449352.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0309/tallaght.html)

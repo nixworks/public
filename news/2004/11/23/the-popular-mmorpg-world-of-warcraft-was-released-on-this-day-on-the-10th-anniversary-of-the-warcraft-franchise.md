@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/11/23/the-popular-mmorpg-world-of-warcraft-was-released-on-this-day-on-the-10th-anniversary-of-the-warcraft-franchise.html)  [JSON](/news/2004/11/23/the-popular-mmorpg-world-of-warcraft-was-released-on-this-day-on-the-10th-anniversary-of-the-warcraft-franchise.json)  [XML](/news/2004/11/23/the-popular-mmorpg-world-of-warcraft-was-released-on-this-day-on-the-10th-anniversary-of-the-warcraft-franchise.xml)  
+
 ### [2004-11-23](/news/2004/11/23/index.md)
 
+##### MMORPG
 #  The popular MMORPG World of Warcraft was released on this day, on the 10th anniversary of the Warcraft franchise.
 
 

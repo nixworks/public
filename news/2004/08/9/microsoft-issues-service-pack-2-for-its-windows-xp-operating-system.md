@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/9/microsoft-issues-service-pack-2-for-its-windows-xp-operating-system.html)  [JSON](/news/2004/08/9/microsoft-issues-service-pack-2-for-its-windows-xp-operating-system.json)  [XML](/news/2004/08/9/microsoft-issues-service-pack-2-for-its-windows-xp-operating-system.xml)  
+
 ### [2004-08-9](/news/2004/08/9/index.md)
 
+##### Microsoft
 #  Microsoft issues Service Pack 2 for its Windows XP operating system. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/technology/3547978.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/13/prime-minister-of-japan-naoto-kan-tells-a-news-conference-of-his-plans-to-wean-the-country-off-nuclear-energy-after-the-fukushima-daiichi-nu.html)  [JSON](/news/2011/07/13/prime-minister-of-japan-naoto-kan-tells-a-news-conference-of-his-plans-to-wean-the-country-off-nuclear-energy-after-the-fukushima-daiichi-nu.json)  [XML](/news/2011/07/13/prime-minister-of-japan-naoto-kan-tells-a-news-conference-of-his-plans-to-wean-the-country-off-nuclear-energy-after-the-fukushima-daiichi-nu.xml)  
+
 ### [2011-07-13](/news/2011/07/13/index.md)
 
+##### Prime Minister of Japan
 # Prime Minister of Japan Naoto Kan tells a news conference of his plans to wean the country off nuclear energy after the Fukushima Daiichi nuclear disaster. 
 
 Japanese prime minister vows to move country towards renewable energy after disaster-triggered Fukushima meltdown.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/07/201171395417817629.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/13/201171310834365734_20.jpg)

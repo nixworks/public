@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/28/voters-in-mozambique-go-to-the-polls-for-the-general-election.html)  [JSON](/news/2009/10/28/voters-in-mozambique-go-to-the-polls-for-the-general-election.json)  [XML](/news/2009/10/28/voters-in-mozambique-go-to-the-polls-for-the-general-election.xml)  
+
 ### [2009-10-28](/news/2009/10/28/index.md)
 
+##### Mozambique
 #  Voters in Mozambique go to the polls for the general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iLABFq9030yHBqXZb4UzZNAV2zDw)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091028220959289C813953)

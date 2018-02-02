@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/05/13/the-u-s-department-of-treasury-may-probe-why-bloomberg-news-reporters-were-monitoring-how-investment-bank-employees-searched-their-site-for.html)  [JSON](/news/2013/05/13/the-u-s-department-of-treasury-may-probe-why-bloomberg-news-reporters-were-monitoring-how-investment-bank-employees-searched-their-site-for.json)  [XML](/news/2013/05/13/the-u-s-department-of-treasury-may-probe-why-bloomberg-news-reporters-were-monitoring-how-investment-bank-employees-searched-their-site-for.xml)  
+
 ### [2013-05-13](/news/2013/05/13/index.md)
 
+##### U.S. Department of Treasury
 # The U.S. Department of Treasury may probe why Bloomberg News reporters were monitoring how investment bank employees searched their site for financial information, including U.S. Chairman of the Federal Reserve Ben Bernanke and Treasury Secretary Timothy Geithner. 
 
 Reporters at Bloomberg News were told to use the terminals to get an edge in the competitive world of financial journalism, more than half a dozen former employees said.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-22508473)
-2. [The New York Times](http://www.nytimes.com/2013/05/13/business/media/bloomberg-admits-terminal-snooping.html?pagewanted=all&_r=0)
+2. [The New York Times](https://www.nytimes.com/2013/05/13/business/media/bloomberg-admits-terminal-snooping.html?pagewanted=all&_r=0)
 2. [Cover Image](https://static01.nyt.com/images/2013/05/13/business/sub-jp-bloomberg/sub-jp-bloomberg-videoLarge.jpg)
 
 ### Related:

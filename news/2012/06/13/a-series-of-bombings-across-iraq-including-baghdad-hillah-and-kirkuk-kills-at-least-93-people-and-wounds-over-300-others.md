@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/13/a-series-of-bombings-across-iraq-including-baghdad-hillah-and-kirkuk-kills-at-least-93-people-and-wounds-over-300-others.html)  [JSON](/news/2012/06/13/a-series-of-bombings-across-iraq-including-baghdad-hillah-and-kirkuk-kills-at-least-93-people-and-wounds-over-300-others.json)  [XML](/news/2012/06/13/a-series-of-bombings-across-iraq-including-baghdad-hillah-and-kirkuk-kills-at-least-93-people-and-wounds-over-300-others.xml)  
+
 ### [2012-06-13](/news/2012/06/13/index.md)
 
+##### series of bombings
 # A series of bombings across Iraq, including Baghdad, Hillah and Kirkuk, kills at least 93 people and wounds over 300 others. 
 
 At least 93 people killed across the country, many of them Shia pilgrims gathered in Baghdad for a religious event.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126135517423300.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18420488)

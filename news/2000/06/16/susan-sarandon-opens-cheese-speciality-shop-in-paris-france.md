@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/06/16/susan-sarandon-opens-cheese-speciality-shop-in-paris-france.html)  [JSON](/news/2000/06/16/susan-sarandon-opens-cheese-speciality-shop-in-paris-france.json)  [XML](/news/2000/06/16/susan-sarandon-opens-cheese-speciality-shop-in-paris-france.xml)  
+
 ### [2000-06-16](/news/2000/06/16/index.md)
 
+##### Susan Sarandon
 #  Susan Sarandon opens cheese speciality shop in Paris, France.
 
 

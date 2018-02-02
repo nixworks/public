@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/29/a-bomb-explodes-in-male-the-capital-of-the-maldives-injuring-12-tourists.html)  [JSON](/news/2007/09/29/a-bomb-explodes-in-male-the-capital-of-the-maldives-injuring-12-tourists.json)  [XML](/news/2007/09/29/a-bomb-explodes-in-male-the-capital-of-the-maldives-injuring-12-tourists.xml)  
+
 ### [2007-09-29](/news/2007/09/29/index.md)
 
+##### explodes
 #  A bomb explodes in Mal, the capital of the Maldives, injuring 12 tourists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/7020319.stm)
 

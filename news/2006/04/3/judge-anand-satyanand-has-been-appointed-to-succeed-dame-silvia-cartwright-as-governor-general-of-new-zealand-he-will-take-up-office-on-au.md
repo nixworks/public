@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/3/judge-anand-satyanand-has-been-appointed-to-succeed-dame-silvia-cartwright-as-governor-general-of-new-zealand-he-will-take-up-office-on-au.html)  [JSON](/news/2006/04/3/judge-anand-satyanand-has-been-appointed-to-succeed-dame-silvia-cartwright-as-governor-general-of-new-zealand-he-will-take-up-office-on-au.json)  [XML](/news/2006/04/3/judge-anand-satyanand-has-been-appointed-to-succeed-dame-silvia-cartwright-as-governor-general-of-new-zealand-he-will-take-up-office-on-au.xml)  
+
 ### [2006-04-3](/news/2006/04/3/index.md)
 
+##### Anand Satyanand
 #  Judge Anand Satyanand has been appointed to succeed Dame Silvia Cartwright as Governor-General of New Zealand. He will take up office on August 4, 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Beehive](http://www.beehive.govt.nz/ViewDocument.aspx?DocumentID=25354)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/18/chad-admits-that-its-military-has-performed-three-incursions-into-sudan.html)  [JSON](/news/2009/05/18/chad-admits-that-its-military-has-performed-three-incursions-into-sudan.json)  [XML](/news/2009/05/18/chad-admits-that-its-military-has-performed-three-incursions-into-sudan.xml)  
+
 ### [2009-05-18](/news/2009/05/18/index.md)
 
+##### Chad
 #  Chad admits that its military has performed three incursions into Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8055047.stm)
 

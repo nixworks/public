@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/31/an-al-shabaab-attack-on-the-central-investigati
 
 ### [2016-07-31](/news/2016/07/31/index.md)
 
+##### War in Somalia (2009-present)
 # An Al-Shabaab attack on the Central Investigations Department kills at least nine people. 
 
 

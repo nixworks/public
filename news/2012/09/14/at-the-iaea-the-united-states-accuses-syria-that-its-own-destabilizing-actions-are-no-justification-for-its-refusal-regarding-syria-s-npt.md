@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2012/09/14/at-the-iaea-the-united-states-accuses-syria-that-its-own-destabilizing-actions-are-no-justification-for-its-refusal-regarding-syria-s-npt.html)  [JSON](/news/2012/09/14/at-the-iaea-the-united-states-accuses-syria-that-its-own-destabilizing-actions-are-no-justification-for-its-refusal-regarding-syria-s-npt.json)  [XML](/news/2012/09/14/at-the-iaea-the-united-states-accuses-syria-that-its-own-destabilizing-actions-are-no-justification-for-its-refusal-regarding-syria-s-npt.xml)  
+
 ### [2012-09-14](/news/2012/09/14/index.md)
 
+##### IAEA
 # At the IAEA, the United States accuses Syria that its "own destabilizing actions are no justification for its refusal" regarding Syria's NPT obligations. 
 
 The United States accused Syria on Friday of using the &quot;brutal repression&quot; of its people waging an uprising as an excuse not to address U.N. nuclear watchdog concerns about suspected past illicit nuclear activity in the Arab state.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/09/14/us-nuclear-syria-iaea-idUSBRE88D0Q420120914)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120914&t=2&i=652965061&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88D1A3B00)
+1. [Reuters](https://www.reuters.com/article/2012/09/14/us-nuclear-syria-iaea-idUSBRE88D0Q420120914)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120914&t=2&i=652965061&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE88D1A3B00)
 
 ### Related:
 
-1. [United States aircraft bomb a convoy belonging to the Syrian pro-government militia within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-convoy-belonging-to-the-syrian-pro-government-militia-within-a-so-called-deconfliction-zone-around-al-tanf.md) _Context: Syria, United States_
-2. [According to the Syrian Observatory for Human Rights, multiple suspected U.S.-led coalition air raids kill at least 23 civilians in the village of al-Matab in northern Syria. ](/news/2017/03/9/according-to-the-syrian-observatory-for-human-rights-multiple-suspected-u-s-led-coalition-air-raids-kill-at-least-23-civilians-in-the-vill.md) _Context: Syria, United States_
-3. [ A U.S. airstrike in Al-Raqqah, Syria, kills four ISIL leaders, two of which were confirmed to have roles in the November 2015 Paris Attacks. ](/news/2016/12/14/a-u-s-airstrike-in-al-raqqah-syria-kills-four-isil-leaders-two-of-which-were-confirmed-to-have-roles-in-the-november-2015-paris-attacks.md) _Context: Syria, United States_
-4. [France seeks United States and Russian support for a Security Council resolution to impose a new truce that will allow aid into Aleppo, which has experienced two weeks of heavy Syrian and Russian bombing of rebel-held areas. ](/news/2016/10/5/france-seeks-united-states-and-russian-support-for-a-security-council-resolution-to-impose-a-new-truce-that-will-allow-aid-into-aleppo-whic.md) _Context: Syria, United States_
-5. [The United States acknowledges that its warplanes may have hit a Syrian Army position near Deir ez-Zor Airport in eastern Syria, while conducting an operation against ISIL, killing more than 60 Syrian troops. ](/news/2016/09/17/the-united-states-acknowledges-that-its-warplanes-may-have-hit-a-syrian-army-position-near-deir-ez-zor-airport-in-eastern-syria-while-condu.md) _Context: Syria, United States_
+1. [Researchers note that in November 2017, Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally revealed the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/researchers-note-that-in-november-2017-strava-which-processes-data-from-apps-and-internet-of-things-devices-such-as-fitbit-accidentally-r.md) _Context: Syria, U.S._
+2. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: Syria, U.S._
+3. [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md) _Context: Syria, U.S._
+4. [Syria signs the Paris Agreement. This will make the United States the only country not in the Paris Agreement, when they plan to leave on 4 November 2020. ](/news/2017/11/7/syria-signs-the-paris-agreement-this-will-make-the-united-states-the-only-country-not-in-the-paris-agreement-when-they-plan-to-leave-on-4.md) _Context: Syria, U.S._
+5. [United States aircraft bomb a convoy belonging to the Syrian pro-government militia within a so-called "deconfliction zone" around Al-Tanf. ](/news/2017/05/18/united-states-aircraft-bomb-a-convoy-belonging-to-the-syrian-pro-government-militia-within-a-so-called-deconfliction-zone-around-al-tanf.md) _Context: Syria, U.S._

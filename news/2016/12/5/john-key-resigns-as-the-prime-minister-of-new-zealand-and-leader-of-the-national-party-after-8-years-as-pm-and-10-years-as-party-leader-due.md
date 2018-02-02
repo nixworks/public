@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/5/john-key-resigns-as-the-prime-minister-of-new-ze
 
 ### [2016-12-5](/news/2016/12/5/index.md)
 
+##### John Key
 # John Key resigns as the Prime Minister of New Zealand and leader of the National Party after 8 years as PM and 10 years as party leader due to personal reasons. 
 
 John Key has resigned as New Zealand&#039;s prime minister in a sudden announcement.

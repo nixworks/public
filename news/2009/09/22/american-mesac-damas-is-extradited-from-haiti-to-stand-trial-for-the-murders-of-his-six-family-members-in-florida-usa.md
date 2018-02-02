@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2009/09/22/american-mesac-damas-is-extradited-from-haiti-to-stand-trial-for-the-murders-of-his-six-family-members-in-florida-usa.html)  [JSON](/news/2009/09/22/american-mesac-damas-is-extradited-from-haiti-to-stand-trial-for-the-murders-of-his-six-family-members-in-florida-usa.json)  [XML](/news/2009/09/22/american-mesac-damas-is-extradited-from-haiti-to-stand-trial-for-the-murders-of-his-six-family-members-in-florida-usa.xml)  
+
 ### [2009-09-22](/news/2009/09/22/index.md)
 
+##### Mesac Damas
 #  American Mesac Damas is extradited from Haiti to stand trial for the murders of his six family members in Florida, USA.
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC-2](http://www.nbc-2.com/global/story.asp?s=11181238)
 
 ### Related:
 
-1. [Hurricane Matthew kills at least 26 people on the island of Hispaniola; 22 in Haiti and four more in the Dominican Republic. The U.S. National Hurricane Center predicts the storm, currently a Category 3 with maximum sustained winds of 115 mph (185 km-h), will strengthen as it moves across the Bahamas tonight and tomorrow, and be near the east coast of Florida by tomorrow evening. ](/news/2016/10/5/hurricane-matthew-kills-at-least-26-people-on-the-island-of-hispaniola-22-in-haiti-and-four-more-in-the-dominican-republic-the-u-s-nation.md) _Context: Florida, Haiti_
-2. [SpaceX launches a Falcon 9 Full Thrust rocket at Cape Canaveral, Florida, to supersynchronous orbit an Airbus-built communications satellite SES-11 for Luxembourg-based SES, and EchoStar 105 for U.S.-headquartered EchoStar. It's the third time when a Falcon 9 first stage is re-used. ](/news/2017/10/11/spacex-launches-a-falcon-9-full-thrust-rocket-at-cape-canaveral-florida-to-supersynchronous-orbit-an-airbus-built-communications-satellite.md) _Context: Florida_
-3. [Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 km-h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency. ](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-km-h-hurricane-warnings-are-issued-for-the-leewa.md) _Context: Florida_
-4. [Hurricane Irma makes landfall in Florida as a category 4 hurricane, killing at least three people and knocking out power to over one million households. ](/news/2017/09/10/hurricane-irma-makes-landfall-in-florida-as-a-category-4-hurricane-killing-at-least-three-people-and-knocking-out-power-to-over-one-million.md) _Context: Florida_
-5. [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md) _Context: Haiti_
+1. [Hurricane Matthew kills at least 26 people on the island of Hispaniola; 22 in Haiti and four more in the Dominican Republic. The U.S. National Hurricane Center predicts the storm, currently a Category 3 with maximum sustained winds of 115 mph (185 km-h), will strengthen as it moves across the Bahamas tonight and tomorrow, and be near the east coast of Florida by tomorrow evening. ](/news/2016/10/5/hurricane-matthew-kills-at-least-26-people-on-the-island-of-hispaniola-22-in-haiti-and-four-more-in-the-dominican-republic-the-u-s-nation.md) _Context: Haiti, the state_
+2. [Two bills are unanimously approved by the Florida House and Senate Committees that propose moving the state permanently to Daylight Saving Time (UTC[?]04:00), and shifting most of the Panhandle west of a line from eastern Jackson County to northern Gulf County - which currently lies within the southern boundary of the Central Time Zone (UTC[?]05:00) - to the Eastern Time Zone, in alignment with the remainder of Florida's 67 counties. If passed by the state legislature, any changes would need to be approved by the Department of Transportation and Congress. ](/news/2018/01/25/two-bills-are-unanimously-approved-by-the-florida-house-and-senate-committees-that-propose-moving-the-state-permanently-to-daylight-saving-t.md) _Context: the state_
+3. [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md) _Context: Haiti_
+4. [The U.S. Department of Homeland Security discontinues the eligibility of citizens of Belize, Haiti, and Samoa to obtain H-2A and H-2B visas for temporary work. ](/news/2018/01/17/the-u-s-department-of-homeland-security-discontinues-the-eligibility-of-citizens-of-belize-haiti-and-samoa-to-obtain-h-2a-and-h-2b-visas.md) _Context: Haiti_
+5. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: Haiti_

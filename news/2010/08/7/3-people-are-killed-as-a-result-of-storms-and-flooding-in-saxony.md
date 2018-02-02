@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/7/3-people-are-killed-as-a-result-of-storms-and-flooding-in-saxony.html)  [JSON](/news/2010/08/7/3-people-are-killed-as-a-result-of-storms-and-flooding-in-saxony.json)  [XML](/news/2010/08/7/3-people-are-killed-as-a-result-of-storms-and-flooding-in-saxony.xml)  
+
 ### [2010-08-7](/news/2010/08/7/index.md)
 
+##### Saxony
 # 3 people are killed as a result of storms and flooding in Saxony. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5876265,00.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/23/a-250lb-car-bomb-explodes-outside-a-courthouse-in-newry-northern-ireland-the-first-such-bomb-to-explode-in-the-area-since-2000.html)  [JSON](/news/2010/02/23/a-250lb-car-bomb-explodes-outside-a-courthouse-in-newry-northern-ireland-the-first-such-bomb-to-explode-in-the-area-since-2000.json)  [XML](/news/2010/02/23/a-250lb-car-bomb-explodes-outside-a-courthouse-in-newry-northern-ireland-the-first-such-bomb-to-explode-in-the-area-since-2000.xml)  
+
 ### [2010-02-23](/news/2010/02/23/index.md)
 
+##### Newry
 # A 250lb car bomb explodes outside a courthouse in Newry, Northern Ireland, the first such bomb to explode in the area since 2000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/8529884.stm)
 

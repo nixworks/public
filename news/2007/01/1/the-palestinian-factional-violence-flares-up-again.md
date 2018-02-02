@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/1/the-palestinian-factional-violence-flares-up-again.html)  [JSON](/news/2007/01/1/the-palestinian-factional-violence-flares-up-again.json)  [XML](/news/2007/01/1/the-palestinian-factional-violence-flares-up-again.xml)  
+
 ### [2007-01-1](/news/2007/01/1/index.md)
 
+##### clashes
 #  The Palestinian factional violence flares up again. 
 
 Peruvian photographer working for French press agency in Strip kidnapped; no immediate claim of responsibility for abduction; all captive Hamas, Fatah gunmen released following agreement reached between PFLP, Islamic Jihad 
 
 
-### Source:
+### Sources:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3347128,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

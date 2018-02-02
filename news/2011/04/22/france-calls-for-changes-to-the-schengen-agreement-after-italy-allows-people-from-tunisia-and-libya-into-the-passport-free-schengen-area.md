@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/22/france-calls-for-changes-to-the-schengen-agreement-after-italy-allows-people-from-tunisia-and-libya-into-the-passport-free-schengen-area.html)  [JSON](/news/2011/04/22/france-calls-for-changes-to-the-schengen-agreement-after-italy-allows-people-from-tunisia-and-libya-into-the-passport-free-schengen-area.json)  [XML](/news/2011/04/22/france-calls-for-changes-to-the-schengen-agreement-after-italy-allows-people-from-tunisia-and-libya-into-the-passport-free-schengen-area.xml)  
+
 ### [2011-04-22](/news/2011/04/22/index.md)
 
+##### Schengen Agreement
 # France calls for changes to the Schengen Agreement after Italy allows people from Tunisia and Libya into the passport-free Schengen Area. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13171403)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52213000/jpg/_52213677_011664031-1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/5/in-a-letter-ordering-terms-for-the-next-installment-of-the-second-bailout-the-european-commission-european-central-bank-and-international.html)  [JSON](/news/2012/09/5/in-a-letter-ordering-terms-for-the-next-installment-of-the-second-bailout-the-european-commission-european-central-bank-and-international.json)  [XML](/news/2012/09/5/in-a-letter-ordering-terms-for-the-next-installment-of-the-second-bailout-the-european-commission-european-central-bank-and-international.xml)  
+
 ### [2012-09-5](/news/2012/09/5/index.md)
 
+##### second bailout
 # In a letter ordering terms for the next installment of the second bailout, the European Commission, European Central Bank and International Monetary Fund ("the troika") want Greece to raise the maximum amount of weekly work days to six. Prime Minister of the Netherlands Mark Rutte rules out a third bailout loan. Diederik Samsom of the Labour Party, excludes Greece from leaving the eurozone; he mentions tutelage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [De Telegraaf](http://translate.google.com/translate?sl=nl&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.telegraaf.nl%2Fbinnenland%2Fverkiezingen2012%2F12899777%2F___Ingrijpen_bij_Grieken_mogelijk___.html)
 2. [The Guardian](http://www.guardian.co.uk/business/2012/sep/04/eurozone-six-day-week-greece)

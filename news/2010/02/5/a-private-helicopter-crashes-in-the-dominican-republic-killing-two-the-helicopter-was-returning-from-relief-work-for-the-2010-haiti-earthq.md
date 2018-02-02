@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/02/5/a-private-helicopter-crashes-in-the-dominican-republic-killing-two-the-helicopter-was-returning-from-relief-work-for-the-2010-haiti-earthq.html)  [JSON](/news/2010/02/5/a-private-helicopter-crashes-in-the-dominican-republic-killing-two-the-helicopter-was-returning-from-relief-work-for-the-2010-haiti-earthq.json)  [XML](/news/2010/02/5/a-private-helicopter-crashes-in-the-dominican-republic-killing-two-the-helicopter-was-returning-from-relief-work-for-the-2010-haiti-earthq.xml)  
+
 ### [2010-02-5](/news/2010/02/5/index.md)
 
+##### Dominican Republic
 # A private helicopter crashes in the Dominican Republic, killing two. The helicopter was returning from relief work for the 2010 Haiti earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://www.washingtonpost.com/wp-dyn/content/article/2010/02/05/AR2010020502357.html)
+1. [AP](https://www.washingtonpost.com/wp-dyn/content/article/2010/02/05/AR2010020502357.html)
 
 ### Related:
 

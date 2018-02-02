@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/16/telephone-recordings-show-governors-in-plot-against-journalist-lydia-cacho-who-exposed-a-ring-of-pedophiles-the-recordings-include-convers.html)  [JSON](/news/2006/02/16/telephone-recordings-show-governors-in-plot-against-journalist-lydia-cacho-who-exposed-a-ring-of-pedophiles-the-recordings-include-convers.json)  [XML](/news/2006/02/16/telephone-recordings-show-governors-in-plot-against-journalist-lydia-cacho-who-exposed-a-ring-of-pedophiles-the-recordings-include-convers.xml)  
+
 ### [2006-02-16](/news/2006/02/16/index.md)
 
+##### Lydia Cacho
 #  Telephone recordings show governors in plot against journalist Lydia Cacho who exposed a ring of pedophiles. The recordings include conversations between businessman Kamel Nacif Borge and governors Mario Marn (Puebla) and Pablo Salazar Mendigucha (Chiapas) in which they arrange for her imprisonment and bribe prison guards to have her raped on arrival. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [El Universal](http://www.eluniversal.com.mx/miami/16995.html)
 2. [Reporters Without Borders](http://www.rsf.org/article.php3?id_article=16460)

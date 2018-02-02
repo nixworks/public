@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/3/sanctions-on-mali-by-the-economic-community-of-west-african-states-imposed-after-the-recent-coup-d-a-c-tat-result-in-shortages-in-the-country.html)  [JSON](/news/2012/04/3/sanctions-on-mali-by-the-economic-community-of-west-african-states-imposed-after-the-recent-coup-d-a-c-tat-result-in-shortages-in-the-country.json)  [XML](/news/2012/04/3/sanctions-on-mali-by-the-economic-community-of-west-african-states-imposed-after-the-recent-coup-d-a-c-tat-result-in-shortages-in-the-country.xml)  
+
 ### [2012-04-3](/news/2012/04/3/index.md)
 
+##### Mali
 # Sanctions on Mali by the Economic Community of West African States imposed after the recent coup d'etat result in shortages in the country. 
 
 Malians scramble to stockpile fuel and other items as post-coup embargo by West African neighbours begins to take hold.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/04/201243124638453622.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/4/3/2012431315612734_20.jpg)

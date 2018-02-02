@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/23/at-least-five-egyptian-army-soldiers-are-killed
 
 ### [2017-01-23](/news/2017/01/23/index.md)
 
+##### Sinai insurgency
 # At least five Egyptian Army soldiers are killed by unknown gunmen in the Sinai Peninsula. 
 
 

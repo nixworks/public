@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/11/in-nigeria-audu-ogbeh-chairman-of-the-ruling-people-s-democratic-party-resigns-over-disagreements-with-president-olusegun-obasanjo.html)  [JSON](/news/2005/01/11/in-nigeria-audu-ogbeh-chairman-of-the-ruling-people-s-democratic-party-resigns-over-disagreements-with-president-olusegun-obasanjo.json)  [XML](/news/2005/01/11/in-nigeria-audu-ogbeh-chairman-of-the-ruling-people-s-democratic-party-resigns-over-disagreements-with-president-olusegun-obasanjo.xml)  
+
 ### [2005-01-11](/news/2005/01/11/index.md)
 
+##### Nigeria
 #  In Nigeria, Audu Ogbeh, chairman of the ruling People's Democratic Party, resigns over disagreements with President Olusegun Obasanjo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4161837.stm)
 2. [NigeriaWorld](http://nigeriaworld.com/feature/publication/akukwe/010305.html)

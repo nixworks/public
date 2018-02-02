@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/25/verizon-communications-buys-yahoo-for-4-83-bill
 
 ### [2016-07-25](/news/2016/07/25/index.md)
 
+##### Verizon Communications
 # Verizon Communications buys Yahoo! for $4.83 billion in cash, ending the latter's over 20-year run as an independent corporation. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/3/7-people-are-missing-after-a-fishing-boat-sank-in-the-xi-river-in-south-china.html)  [JSON](/news/2011/01/3/7-people-are-missing-after-a-fishing-boat-sank-in-the-xi-river-in-south-china.json)  [XML](/news/2011/01/3/7-people-are-missing-after-a-fishing-boat-sank-in-the-xi-river-in-south-china.xml)  
+
 ### [2011-01-3](/news/2011/01/3/index.md)
 
+##### Xi River
 # 7 people are missing after a fishing boat sank in the Xi River in south China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_620138.html)
 

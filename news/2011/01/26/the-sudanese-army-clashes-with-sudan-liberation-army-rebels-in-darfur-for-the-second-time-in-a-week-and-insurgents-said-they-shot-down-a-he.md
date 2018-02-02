@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/01/26/the-sudanese-army-clashes-with-sudan-liberation-army-rebels-in-darfur-for-the-second-time-in-a-week-and-insurgents-said-they-shot-down-a-he.html)  [JSON](/news/2011/01/26/the-sudanese-army-clashes-with-sudan-liberation-army-rebels-in-darfur-for-the-second-time-in-a-week-and-insurgents-said-they-shot-down-a-he.json)  [XML](/news/2011/01/26/the-sudanese-army-clashes-with-sudan-liberation-army-rebels-in-darfur-for-the-second-time-in-a-week-and-insurgents-said-they-shot-down-a-he.xml)  
+
 ### [2011-01-26](/news/2011/01/26/index.md)
 
+##### Sudan People's Armed Forces
 # The Sudanese army clashes with Sudan Liberation Army rebels in Darfur for the second time in a week, and insurgents said they shot down a helicopter gunship, killing at least three people, a claim denied by the army, which said it had killed 25 rebels. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hi3wV0RjFWm4AmNJU90BaxNN-ijQ?docId=CNG.6c85e79129d810fb6eaee39c9052d602.bf1)
-2. [Reuters](http://www.reuters.com/article/idUSTRE70O3DY20110125)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/idUSTRE70O3DY20110125)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

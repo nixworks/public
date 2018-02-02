@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/29/the-coalition-for-a-european-montenegro-wins-48-of-81-seats-in-montenegro-s-parliament.html)  [JSON](/news/2009/03/29/the-coalition-for-a-european-montenegro-wins-48-of-81-seats-in-montenegro-s-parliament.json)  [XML](/news/2009/03/29/the-coalition-for-a-european-montenegro-wins-48-of-81-seats-in-montenegro-s-parliament.xml)  
+
 ### [2009-03-29](/news/2009/03/29/index.md)
 
+##### Coalition for a European Montenegro
 #  The Coalition for a European Montenegro wins 48 of 81 seats in Montenegro's Parliament. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Earth Times](http://www.earthtimes.org/articles/show/262051,djukanovics-bloc-wins-absolute-majority-in-snap-poll--update.html)
 

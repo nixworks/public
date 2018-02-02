@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/22/catalan-tenor-josa-c-carreras-announces-he-is-to-perform-at-la-scala-for-the-first-time-in-14-years.html)  [JSON](/news/2010/07/22/catalan-tenor-josa-c-carreras-announces-he-is-to-perform-at-la-scala-for-the-first-time-in-14-years.json)  [XML](/news/2010/07/22/catalan-tenor-josa-c-carreras-announces-he-is-to-perform-at-la-scala-for-the-first-time-in-14-years.xml)  
+
 ### [2010-07-22](/news/2010/07/22/index.md)
 
+##### Catalan people
 # Catalan tenor Jose Carreras announces he is to perform at La Scala for the first time in 14 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10723324)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

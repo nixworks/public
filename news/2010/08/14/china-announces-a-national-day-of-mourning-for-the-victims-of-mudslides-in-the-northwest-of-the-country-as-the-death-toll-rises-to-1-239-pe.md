@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/china-announces-a-national-day-of-mourning-for-the-victims-of-mudslides-in-the-northwest-of-the-country-as-the-death-toll-rises-to-1-239-pe.html)  [JSON](/news/2010/08/14/china-announces-a-national-day-of-mourning-for-the-victims-of-mudslides-in-the-northwest-of-the-country-as-the-death-toll-rises-to-1-239-pe.json)  [XML](/news/2010/08/14/china-announces-a-national-day-of-mourning-for-the-victims-of-mudslides-in-the-northwest-of-the-country-as-the-death-toll-rises-to-1-239-pe.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### China
 # China announces a national day of mourning for the victims of mudslides in the northwest of the country, as the death toll rises to 1,239 people. 
 
 China holds a national day of mourning on Sunday for victims of mudslides in the northwest, as the death toll rises to 1,239 people.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201081441551265226.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10975066)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/23/hours-after-the-earthquake-struck-central-canada-severe-thunderstorms-rolled-through-central-ontario-canada-which-has-spawned-at-least-2.html)  [JSON](/news/2010/06/23/hours-after-the-earthquake-struck-central-canada-severe-thunderstorms-rolled-through-central-ontario-canada-which-has-spawned-at-least-2.json)  [XML](/news/2010/06/23/hours-after-the-earthquake-struck-central-canada-severe-thunderstorms-rolled-through-central-ontario-canada-which-has-spawned-at-least-2.xml)  
+
 ### [2010-06-23](/news/2010/06/23/index.md)
 
+##### Midland, Ontario
 # Hours after the earthquake struck Central Canada, severe thunderstorms rolled through Central Ontario, Canada, which has spawned at least 2 tornadoes in cottage country, including one confirmed F-2 tornado touch down in Midland, Ontario, north of Toronto, The most significant damage was reported at Smith's Camp, a trailer park at the south end of the town, where several mobile homes were completely destroyed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://www.ctv.ca/CTVNews/TopStories/20100624/tornado-midland-100624/)
 

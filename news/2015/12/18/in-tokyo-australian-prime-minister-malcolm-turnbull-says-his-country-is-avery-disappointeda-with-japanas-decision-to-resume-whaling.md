@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/12/18/in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-avery-disappointeda-with-japanas-decision-to-resume-whaling.html)  [JSON](/news/2015/12/18/in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-avery-disappointeda-with-japanas-decision-to-resume-whaling.json)  [XML](/news/2015/12/18/in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-avery-disappointeda-with-japanas-decision-to-resume-whaling.xml)  
+
 ### [2015-12-18](/news/2015/12/18/index.md)
 
+##### Australia-Japan relations
 # In Tokyo, Australian Prime Minister Malcolm Turnbull says his country is "very disappointed" with Japan's decision to resume whaling, but this dispute should not be allowed to hurt the two countries' special strategic ties. Malcolm Turnbull, who replaced Tony Abbott in September, is on his first visit to Japan which will include talks with Japanese Prime Minister Shinzo Abe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/australia-leader-disappointed-with-japans-return-to-whaling/2015/12/18/dfe2b820-a546-11e5-8318-bd8caed8c588_story.html)
-2. [Reuters](http://www.reuters.com/article/us-japan-australia-idUSKBN0U107T20151218)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151218&t=2&i=1103208801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBH03N)
+2. [Reuters](https://www.reuters.com/article/us-japan-australia-idUSKBN0U107T20151218)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20151218&t=2&i=1103208801&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBH03N)
+
+### Changes:
+
+1. [Australia-Japan relations: In Tokyo, Australian Prime Minister Malcolm Turnbull says his country is -very disappointed- with Japan-s decision to resume whaling, but this dispute should not be allowed to hurt the two countries' special strategic ties. Malcolm Turnbull, who replaced Tony Abbott in September, is on his first visit to Japan which will include talks with Japanese Prime Minister Shinzo Abe. ](/news/2015/12/18/australia-japan-relations-in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-very-disappointed-with-japan-s.md) _2017-08-27 03:44:25 (First version)_
+1. [In Tokyo, Australian Prime Minister Malcolm Turnbull says his country is "very disappointed" with Japan's decision to resume whaling, but this dispute should not be allowed to hurt the two countries' special strategic ties. Malcolm Turnbull, who replaced Tony Abbott in September, is on his first visit to Japan which will include talks with Japanese Prime Minister Shinzo Abe. ](/news/2015/12/18/in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-avery-disappointeda-with-japanas-decision-to-resume-whaling.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@
 3. [Malcolm Turnbull launches a challenge for the leadership of the Liberal Party of Australia against incumbent Prime Minister Tony Abbott and wins 54&ndash;44. ](/news/2015/09/14/malcolm-turnbull-launches-a-challenge-for-the-leadership-of-the-liberal-party-of-australia-against-incumbent-prime-minister-tony-abbott-and.md) _Context: Australian Prime Minister, Malcolm Turnbull, Tony Abbott_
 4. [The Prime Minister of Australia Tony Abbott and the Prime Minister of Japan Shinzo Abe sign a free trade agreement in the Australian capital Canberra. ](/news/2014/07/8/the-prime-minister-of-australia-tony-abbott-and-the-prime-minister-of-japan-shinzo-abe-sign-a-free-trade-agreement-in-the-australian-capital.md) _Context: Australian Prime Minister, Prime Minister of Japan, Tony Abbott_
 5. [Haruhiko Kuroda is selected by Japanese Prime Minister Shinzo Abe to lead the Bank of Japan. ](/news/2013/02/28/haruhiko-kuroda-is-selected-by-japanese-prime-minister-shinza-abe-to-lead-the-bank-of-japan.md) _Context: Japan, Prime Minister of Japan, Shinzo Abe_
-
-### Changes:
-
-1. [Australia-Japan relations: In Tokyo, Australian Prime Minister Malcolm Turnbull says his country is -very disappointed- with Japan-s decision to resume whaling, but this dispute should not be allowed to hurt the two countries' special strategic ties. Malcolm Turnbull, who replaced Tony Abbott in September, is on his first visit to Japan which will include talks with Japanese Prime Minister Shinzo Abe. ](/news/2015/12/18/australia-japan-relations-in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-very-disappointed-with-japan-s.md) _2017-08-27 03:44:25 (First version)_
-1. [In Tokyo, Australian Prime Minister Malcolm Turnbull says his country is "very disappointed" with Japan's decision to resume whaling, but this dispute should not be allowed to hurt the two countries' special strategic ties. Malcolm Turnbull, who replaced Tony Abbott in September, is on his first visit to Japan which will include talks with Japanese Prime Minister Shinzo Abe. ](/news/2015/12/18/in-tokyo-australian-prime-minister-malcolm-turnbull-says-his-country-is-avery-disappointeda-with-japanas-decision-to-resume-whaling.md) _(Current version)_

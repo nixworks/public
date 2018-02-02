@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/28/ilir-meta-is-elected-the-new-president-of-alban
 
 ### [2017-04-28](/news/2017/04/28/index.md)
 
+##### Albanian presidential election, 2017
 # Ilir Meta is elected the new President of Albania, winning 87 votes out of 140 members of the Assembly. 
 
 

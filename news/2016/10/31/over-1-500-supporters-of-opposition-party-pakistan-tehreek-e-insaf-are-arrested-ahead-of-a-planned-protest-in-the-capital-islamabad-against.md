@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/31/over-1-500-supporters-of-opposition-party-pakis
 
 ### [2016-10-31](/news/2016/10/31/index.md)
 
+##### Corruption in Pakistan
 # Over 1,500 supporters of opposition party Pakistan Tehreek-e-Insaf are arrested ahead of a planned protest in the capital Islamabad against Prime Minister Nawaz Sharif. 
 
 Arrests come ahead of rally for politician Imran Khan later this week

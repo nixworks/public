@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/19/whitney-houston-is-buried-at-fairview-cemetery-in-westfield-new-jersey-usa.html)  [JSON](/news/2012/02/19/whitney-houston-is-buried-at-fairview-cemetery-in-westfield-new-jersey-usa.json)  [XML](/news/2012/02/19/whitney-houston-is-buried-at-fairview-cemetery-in-westfield-new-jersey-usa.xml)  
+
 ### [2012-02-19](/news/2012/02/19/index.md)
 
+##### Whitney Houston
 # Whitney Houston is buried at Fairview Cemetery in Westfield, New Jersey, USA. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17088642)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58589000/jpg/_58589647_arrivalreut.jpg)

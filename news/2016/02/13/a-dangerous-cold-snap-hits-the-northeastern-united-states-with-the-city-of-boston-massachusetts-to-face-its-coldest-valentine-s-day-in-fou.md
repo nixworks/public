@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/13/a-dangerous-cold-snap-hits-the-northeastern-uni
 
 ### [2016-02-13](/news/2016/02/13/index.md)
 
+##### northeastern United States
 # A dangerous cold snap hits the northeastern United States with the city of Boston, Massachusetts, to face its coldest Valentine's Day in four decades. 
 
 A dangerous cold snap bringing life-threatening cold was settling in across the northeastern United States on Saturday and a snow squall triggered a pileup of dozens of vehicles on a Pennsylvania highway that left several people dead.
@@ -16,7 +17,7 @@ A dangerous cold snap bringing life-threatening cold was settling in across the 
 ### Related:
 
 1. [Ten people are injured when a taxi jumps a curb and hit a group of cabdrivers outside the taxi pool building at Logan International Airport in Boston, Massachusetts. ](/news/2017/07/3/ten-people-are-injured-when-a-taxi-jumps-a-curb-and-hit-a-group-of-cabdrivers-outside-the-taxi-pool-building-at-logan-international-airport.md) _Context: Boston_
-2. [The destruction from snow fall kills six people and leaves over 100,000 others without electricity, with some areas in the Northeastern United States receiving over 4 feet of snow. ](/news/2017/03/14/the-destruction-from-snow-fall-kills-six-people-and-leaves-over-100-000-others-without-electricity-with-some-areas-in-the-northeastern-unit.md) _Context: Northeastern United States_
-3. [A major blizzard hits the northeastern United States, cancelling more than 2,400 flights. ](/news/2017/02/9/a-major-blizzard-hits-the-northeastern-united-states-cancelling-more-than-2-400-flights.md) _Context: Northeastern United States_
-4. [The Islamabad High Court indefinitely bans the celebration of Valentine's Day in Pakistan. ](/news/2017/02/13/the-islamabad-high-court-indefinitely-bans-the-celebration-of-valentine-s-day-in-pakistan.md) _Context: Valentine's Day_
-5. [The first penis transplant in the United States is performed successfully at the Massachusetts General Hospital (MGH) in Boston, Massachusetts. Doctors call the operation "a surgical milestone". The patient, 64-year-old Thomas Manning from Halifax, Massachusetts, is the third man worldwide to have had the experimental surgery performed. ](/news/2016/05/16/the-first-penis-transplant-in-the-united-states-is-performed-successfully-at-the-massachusetts-general-hospital-mgh-in-boston-massachuset.md) _Context: Boston_
+2. [A major blizzard hits the northeastern United States, cancelling more than 2,400 flights. ](/news/2017/02/9/a-major-blizzard-hits-the-northeastern-united-states-cancelling-more-than-2-400-flights.md) _Context: northeastern United States_
+3. [The Islamabad High Court indefinitely bans the celebration of Valentine's Day in Pakistan. ](/news/2017/02/13/the-islamabad-high-court-indefinitely-bans-the-celebration-of-valentine-s-day-in-pakistan.md) _Context: Valentine's Day_
+4. [The first penis transplant in the United States is performed successfully at the Massachusetts General Hospital (MGH) in Boston, Massachusetts. Doctors call the operation "a surgical milestone". The patient, 64-year-old Thomas Manning from Halifax, Massachusetts, is the third man worldwide to have had the experimental surgery performed. ](/news/2016/05/16/the-first-penis-transplant-in-the-united-states-is-performed-successfully-at-the-massachusetts-general-hospital-mgh-in-boston-massachuset.md) _Context: Boston_
+5. [The cold snap continues in the northeastern United States with record lows forecast in major cities like New York City and Philadelphia. ](/news/2016/02/14/the-cold-snap-continues-in-the-northeastern-united-states-with-record-lows-forecast-in-major-cities-like-new-york-city-and-philadelphia.md) _Context: northeastern United States_

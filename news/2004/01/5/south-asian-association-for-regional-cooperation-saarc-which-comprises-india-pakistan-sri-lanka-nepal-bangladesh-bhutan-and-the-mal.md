@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/5/south-asian-association-for-regional-cooperation-saarc-which-comprises-india-pakistan-sri-lanka-nepal-bangladesh-bhutan-and-the-mal.html)  [JSON](/news/2004/01/5/south-asian-association-for-regional-cooperation-saarc-which-comprises-india-pakistan-sri-lanka-nepal-bangladesh-bhutan-and-the-mal.json)  [XML](/news/2004/01/5/south-asian-association-for-regional-cooperation-saarc-which-comprises-india-pakistan-sri-lanka-nepal-bangladesh-bhutan-and-the-mal.xml)  
+
 ### [2004-01-5](/news/2004/01/5/index.md)
 
+##### South Asian Association for Regional Cooperation
 #  South Asian Association for Regional Cooperation (SAARC), which comprises India, Pakistan, Sri Lanka, Nepal, Bangladesh, Bhutan and the Maldives, signs the South Asia Free Trade Agreement, a draft agreement to eliminate tariffs by 2016.
 
 

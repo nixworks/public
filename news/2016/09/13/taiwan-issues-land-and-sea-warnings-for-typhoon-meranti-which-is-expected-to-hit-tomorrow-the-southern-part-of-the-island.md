@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/13/taiwan-issues-land-and-sea-warnings-for-typhoon
 
 ### [2016-09-13](/news/2016/09/13/index.md)
 
+##### 2016 Pacific typhoon season
 # Taiwan issues land and sea warnings for Typhoon Meranti which is expected to hit tomorrow the southern part of the island. 
 
 

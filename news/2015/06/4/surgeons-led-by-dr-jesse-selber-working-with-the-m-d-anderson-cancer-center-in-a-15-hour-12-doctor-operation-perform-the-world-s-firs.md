@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/4/surgeons-led-by-dr-jesse-selber-working-with-the-m-d-anderson-cancer-center-in-a-15-hour-12-doctor-operation-perform-the-world-s-firs.html)  [JSON](/news/2015/06/4/surgeons-led-by-dr-jesse-selber-working-with-the-m-d-anderson-cancer-center-in-a-15-hour-12-doctor-operation-perform-the-world-s-firs.json)  [XML](/news/2015/06/4/surgeons-led-by-dr-jesse-selber-working-with-the-m-d-anderson-cancer-center-in-a-15-hour-12-doctor-operation-perform-the-world-s-firs.xml)  
+
 ### [2015-06-4](/news/2015/06/4/index.md)
 
+##### Jesse Selber
 # Surgeons, led by Dr. Jesse Selber, working with the M.D. Anderson Cancer Center, in a 15-hour, 12-doctor operation, perform the world's first partial-skull and scalp transplant, at Houston Methodist Hospital, on 55-year-old Jim Boysten, a software developer from Austin, Texas suffering from a large head wound from cancer treatment; immediately afterward, he was finally able to receive a new kidney and pancreas, which replaced the previous transplants that were failing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://www.msn.com/en-us/news/us/texas-doctors-do-first-skull-scalp-transplant/ar-BBkGvZP)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/20/former-malian-president-amadou-toumani-toure-arrives-in-senegal-after-being-ousted-in-a-military-coup.html)  [JSON](/news/2012/04/20/former-malian-president-amadou-toumani-toure-arrives-in-senegal-after-being-ousted-in-a-military-coup.json)  [XML](/news/2012/04/20/former-malian-president-amadou-toumani-toure-arrives-in-senegal-after-being-ousted-in-a-military-coup.xml)  
+
 ### [2012-04-20](/news/2012/04/20/index.md)
 
+##### Mali
 # Former Malian President Amadou Toumani Toure arrives in Senegal after being ousted in a military coup. 
 
 Mali&#x27;s&#x20;ex-president&#x20;Amadou&#x20;Toumani&#x20;Toure,&#x20;ousted&#x20;by&#x20;the&#x20;military&#x20;junta&#x20;last&#x20;month,&#x20;arrived&#x20;in&#x20;Dakar&#x20;with&#x20;his&#x20;family&#x20;late&#x20;Thursday,&#x20;the&#x20;Senegalese&#x20;president&#x27;s&#x20;office&#x20;said.&#x20;A&#x20;Malian&#x20;military&#x20;source&#x20;said&#x20;Toure&#x20;had&#x20;departed&#x20;with&#x20;agreement&#x20;of&#x20;coup&#x20;leader.
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20120420-mali-senegal-toure-military-junta)
 1. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/toure.gif)

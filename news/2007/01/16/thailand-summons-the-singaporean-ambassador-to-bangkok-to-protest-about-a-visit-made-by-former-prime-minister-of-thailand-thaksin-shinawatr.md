@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/16/thailand-summons-the-singaporean-ambassador-to-bangkok-to-protest-about-a-visit-made-by-former-prime-minister-of-thailand-thaksin-shinawatr.html)  [JSON](/news/2007/01/16/thailand-summons-the-singaporean-ambassador-to-bangkok-to-protest-about-a-visit-made-by-former-prime-minister-of-thailand-thaksin-shinawatr.json)  [XML](/news/2007/01/16/thailand-summons-the-singaporean-ambassador-to-bangkok-to-protest-about-a-visit-made-by-former-prime-minister-of-thailand-thaksin-shinawatr.xml)  
+
 ### [2007-01-16](/news/2007/01/16/index.md)
 
+##### Thailand
 #  Thailand summons the Singaporean ambassador to Bangkok to protest about a visit made by former Prime Minister of Thailand Thaksin Shinawatra, deposed in the 2006 Thai coup d'tat, to Singapore. Thaksin was able to meet the Singaporean Deputy Prime Minister, S Jayakumar, but Singapore played down the meeting as "purely social and private". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6265857.stm)
 

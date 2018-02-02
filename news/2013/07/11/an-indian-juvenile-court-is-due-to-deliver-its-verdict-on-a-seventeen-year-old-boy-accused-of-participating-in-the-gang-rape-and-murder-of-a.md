@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/11/an-indian-juvenile-court-is-due-to-deliver-its-verdict-on-a-seventeen-year-old-boy-accused-of-participating-in-the-gang-rape-and-murder-of-a.html)  [JSON](/news/2013/07/11/an-indian-juvenile-court-is-due-to-deliver-its-verdict-on-a-seventeen-year-old-boy-accused-of-participating-in-the-gang-rape-and-murder-of-a.json)  [XML](/news/2013/07/11/an-indian-juvenile-court-is-due-to-deliver-its-verdict-on-a-seventeen-year-old-boy-accused-of-participating-in-the-gang-rape-and-murder-of-a.xml)  
+
 ### [2013-07-11](/news/2013/07/11/index.md)
 
+##### Indians
 # An Indian juvenile court is due to deliver its verdict on a seventeen-year-old boy accused of participating in the gang rape and murder of a 23-year-old woman in the New Delhi surburb of Munirka. 
 
 An Indian juvenile court defers its verdict in the case of an 18-year-old accused of taking part in the fatal gang rape of a woman on a Delhi bus.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-23265994#)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66546000/jpg/_66546193_65680328.jpg)

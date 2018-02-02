@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/26/a-court-in-milan-rules-that-mediaset-run-by-silvio-berlusconi-is-being-anti-competitive-against-news-corporation-run-by-rupert-murdoch.html)  [JSON](/news/2009/10/26/a-court-in-milan-rules-that-mediaset-run-by-silvio-berlusconi-is-being-anti-competitive-against-news-corporation-run-by-rupert-murdoch.json)  [XML](/news/2009/10/26/a-court-in-milan-rules-that-mediaset-run-by-silvio-berlusconi-is-being-anti-competitive-against-news-corporation-run-by-rupert-murdoch.xml)  
+
 ### [2009-10-26](/news/2009/10/26/index.md)
 
+##### Milan
 #  A court in Milan rules that Mediaset run by Silvio Berlusconi is being anti-competitive against News Corporation run by Rupert Murdoch. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8327072.stm)
 

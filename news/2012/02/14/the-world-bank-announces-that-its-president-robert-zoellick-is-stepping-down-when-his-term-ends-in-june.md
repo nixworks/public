@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/02/14/the-world-bank-announces-that-its-president-robert-zoellick-is-stepping-down-when-his-term-ends-in-june.html)  [JSON](/news/2012/02/14/the-world-bank-announces-that-its-president-robert-zoellick-is-stepping-down-when-his-term-ends-in-june.json)  [XML](/news/2012/02/14/the-world-bank-announces-that-its-president-robert-zoellick-is-stepping-down-when-his-term-ends-in-june.xml)  
+
 ### [2012-02-14](/news/2012/02/14/index.md)
 
+##### World Bank
 # The World Bank announces that its President, Robert Zoellick, is stepping down when his term ends in June. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world-bank-chief-robert-zoellick-will-step-down-on-june-30th/2012/02/15/gIQAzVRjFR_story.html?wprss=rss_business)
+1. [Washington Post](https://www.washingtonpost.com/world-bank-chief-robert-zoellick-will-step-down-on-june-30th/2012/02/15/gIQAzVRjFR_story.html?wprss=rss_business)
 
 ### Related:
 

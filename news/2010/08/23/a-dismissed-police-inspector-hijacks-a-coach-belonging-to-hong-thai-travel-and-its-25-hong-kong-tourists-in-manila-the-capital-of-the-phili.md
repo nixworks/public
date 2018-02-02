@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/23/a-dismissed-police-inspector-hijacks-a-coach-belonging-to-hong-thai-travel-and-its-25-hong-kong-tourists-in-manila-the-capital-of-the-phili.html)  [JSON](/news/2010/08/23/a-dismissed-police-inspector-hijacks-a-coach-belonging-to-hong-thai-travel-and-its-25-hong-kong-tourists-in-manila-the-capital-of-the-phili.json)  [XML](/news/2010/08/23/a-dismissed-police-inspector-hijacks-a-coach-belonging-to-hong-thai-travel-and-its-25-hong-kong-tourists-in-manila-the-capital-of-the-phili.xml)  
+
 ### [2010-08-23](/news/2010/08/23/index.md)
 
+##### Philippine National Police
 # A dismissed police inspector hijacks a coach belonging to Hong Thai Travel and its 25 Hong Kong tourists in Manila, the capital of the Philippines in order to demand his reinstatement. He is later shot dead by the police. At least 7 hostages are killed and 2 others severely injured.
 
 Eight Hong Kong tourists killed in 11-hour standoff in the Philippine capital.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201082313340806606.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/08/23/philippines.bus.hostages/index.html?iref=NS1#fbid=Dxrzb6Q-4_O&wom=false)

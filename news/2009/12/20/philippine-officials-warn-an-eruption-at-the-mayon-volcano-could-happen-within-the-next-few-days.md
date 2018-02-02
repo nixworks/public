@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/20/philippine-officials-warn-an-eruption-at-the-mayon-volcano-could-happen-within-the-next-few-days.html)  [JSON](/news/2009/12/20/philippine-officials-warn-an-eruption-at-the-mayon-volcano-could-happen-within-the-next-few-days.json)  [XML](/news/2009/12/20/philippine-officials-warn-an-eruption-at-the-mayon-volcano-could-happen-within-the-next-few-days.xml)  
+
 ### [2009-12-20](/news/2009/12/20/index.md)
 
+##### Philippines
 #  Philippine officials warn an eruption at the Mayon Volcano could happen within the next few days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hAsh86J3QWdxWNEaLHMmNk7dMbiQD9CN0JJ80)
 2. [Manilla Bulletin](http://www.mb.com.ph/articles/234991/eruption-within-days)

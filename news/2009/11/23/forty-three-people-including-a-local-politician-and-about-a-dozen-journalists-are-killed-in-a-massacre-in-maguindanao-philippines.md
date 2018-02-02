@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/23/forty-three-people-including-a-local-politician-and-about-a-dozen-journalists-are-killed-in-a-massacre-in-maguindanao-philippines.html)  [JSON](/news/2009/11/23/forty-three-people-including-a-local-politician-and-about-a-dozen-journalists-are-killed-in-a-massacre-in-maguindanao-philippines.json)  [XML](/news/2009/11/23/forty-three-people-including-a-local-politician-and-about-a-dozen-journalists-are-killed-in-a-massacre-in-maguindanao-philippines.xml)  
+
 ### [2009-11-23](/news/2009/11/23/index.md)
 
+##### Maguindanao massacre
 #  Forty three people, including a local politician and about a dozen journalists, are killed in a massacre in Maguindanao, Philippines.
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Philippine Star](http://www.philstar.com/Article.aspx?articleId=526314&publicationSubCategoryId=63)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/11/protestors-gather-in-bishkek-kyrgyzstan-to-call-for-the-resignation-of-president-kurmanbek-bakiyev.html)  [JSON](/news/2007/04/11/protestors-gather-in-bishkek-kyrgyzstan-to-call-for-the-resignation-of-president-kurmanbek-bakiyev.json)  [XML](/news/2007/04/11/protestors-gather-in-bishkek-kyrgyzstan-to-call-for-the-resignation-of-president-kurmanbek-bakiyev.xml)  
+
 ### [2007-04-11](/news/2007/04/11/index.md)
 
+##### Bishkek
 #  Protestors gather in Bishkek, Kyrgyzstan, to call for the resignation of President Kurmanbek Bakiyev. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6543381.stm)
 

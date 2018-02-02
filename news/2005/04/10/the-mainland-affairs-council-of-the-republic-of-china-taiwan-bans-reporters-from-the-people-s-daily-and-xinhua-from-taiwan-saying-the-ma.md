@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/10/the-mainland-affairs-council-of-the-republic-of-china-taiwan-bans-reporters-from-the-people-s-daily-and-xinhua-from-taiwan-saying-the-ma.html)  [JSON](/news/2005/04/10/the-mainland-affairs-council-of-the-republic-of-china-taiwan-bans-reporters-from-the-people-s-daily-and-xinhua-from-taiwan-saying-the-ma.json)  [XML](/news/2005/04/10/the-mainland-affairs-council-of-the-republic-of-china-taiwan-bans-reporters-from-the-people-s-daily-and-xinhua-from-taiwan-saying-the-ma.xml)  
+
 ### [2005-04-10](/news/2005/04/10/index.md)
 
+##### Mainland Affairs Council
 #  The Mainland Affairs Council of the Republic of China (Taiwan) bans reporters from the People's Daily and Xinhua from Taiwan, saying the mainland's state-controlled media "tried to present their people with a distorted image of Taiwan". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4431461.stm)
 

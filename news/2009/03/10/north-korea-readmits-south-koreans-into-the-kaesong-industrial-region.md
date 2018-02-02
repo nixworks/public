@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/03/10/north-korea-readmits-south-koreans-into-the-kaesong-industrial-region.html)  [JSON](/news/2009/03/10/north-korea-readmits-south-koreans-into-the-kaesong-industrial-region.json)  [XML](/news/2009/03/10/north-korea-readmits-south-koreans-into-the-kaesong-industrial-region.xml)  
+
 ### [2009-03-10](/news/2009/03/10/index.md)
 
+##### North Korea
 #  North Korea readmits South Koreans into the Kaesong Industrial Region. 
 
 North Korea on Tuesday allowed South Koreans back into a lucrative factory just across the border, a day after the reclusive state accused its neighbor and the United States of threatening war.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSSEO22687020090310)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090310&t=2&i=8576200&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-03-10T093657Z_01_BTRE52810E900_RTROPTP_0_KOREA-NORTH)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSSEO22687020090310)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20090310&t=2&i=8576200&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-03-10T093657Z_01_BTRE52810E900_RTROPTP_0_KOREA-NORTH)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/24/pope-benedict-xvi-announces-a-24-november-2012-consistory-for-the-creation-of-six-new-cardinals-james-michael-harvey-bechara-boutros-al-ra.html)  [JSON](/news/2012/10/24/pope-benedict-xvi-announces-a-24-november-2012-consistory-for-the-creation-of-six-new-cardinals-james-michael-harvey-bechara-boutros-al-ra.json)  [XML](/news/2012/10/24/pope-benedict-xvi-announces-a-24-november-2012-consistory-for-the-creation-of-six-new-cardinals-james-michael-harvey-bechara-boutros-al-ra.xml)  
+
 ### [2012-10-24](/news/2012/10/24/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI announces a 24 November 2012 Consistory for the creation of six new Cardinals: James Michael Harvey, Bechara Boutros al-Rahi, Baselios Cleemis, John Olorunfemi Onaiyekan, Jess Salazar Gmez, and Luis Antonio Tagle. 
 
 It will be the smallest group of cardinals to be created at a consistory since 1977
 
 
-### Source:
+### Sources:
 
 1. [Catholic Herald](http://www.catholicherald.co.uk/news/2012/10/24/pope-names-six-new-cardinals/)
 2. [The Hindu](http://www.thehindu.com/news/international/indian-among-6-new-cardinals-named-by-pope/article4027832.ece?homepage=true)

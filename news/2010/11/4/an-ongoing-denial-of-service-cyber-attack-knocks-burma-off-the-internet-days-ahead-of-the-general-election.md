@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/4/an-ongoing-denial-of-service-cyber-attack-knocks-burma-off-the-internet-days-ahead-of-the-general-election.html)  [JSON](/news/2010/11/4/an-ongoing-denial-of-service-cyber-attack-knocks-burma-off-the-internet-days-ahead-of-the-general-election.json)  [XML](/news/2010/11/4/an-ongoing-denial-of-service-cyber-attack-knocks-burma-off-the-internet-days-ahead-of-the-general-election.xml)  
+
 ### [2010-11-4](/news/2010/11/4/index.md)
 
+##### denial-of-service
 # An ongoing denial-of-service cyber attack knocks Burma off the internet, days ahead of the general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h9weF3XT4BKWBx3Wp6UEgeFX0Jpw?docId=CNG.b4492f600922f04f062f99cc1bbdbf2d.871)
 2. [BBC](http://www.bbc.co.uk/news/technology-11693214)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/08/2/former-iranian-president-mohammad-khatami-criticizes-the-show-trial-of-election-protestors-currently-underway-in-the-country.html)  [JSON](/news/2009/08/2/former-iranian-president-mohammad-khatami-criticizes-the-show-trial-of-election-protestors-currently-underway-in-the-country.json)  [XML](/news/2009/08/2/former-iranian-president-mohammad-khatami-criticizes-the-show-trial-of-election-protestors-currently-underway-in-the-country.xml)  
+
 ### [2009-08-2](/news/2009/08/2/index.md)
 
+##### Iran
 #  Former Iranian President Mohammad Khatami criticizes the "show trial" of election protestors currently underway in the country. 
 
 Mohammad Khatami, the former Iranian president, has attacked the &quot;show trial&quot; of dissidents in Tehran as unlawful and unconstitutional.
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=102303&sectionid=351020101)
-2. [The Independent](http://www.independent.co.uk/news/world/middle-east/khatami-hits-back-over-iran-show-trial-1766572.html)
+2. [The Independent](https://www.independent.co.uk/news/world/middle-east/khatami-hits-back-over-iran-show-trial-1766572.html)
 2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2009/08/02/22/230387.bin)
 
 ### Related:

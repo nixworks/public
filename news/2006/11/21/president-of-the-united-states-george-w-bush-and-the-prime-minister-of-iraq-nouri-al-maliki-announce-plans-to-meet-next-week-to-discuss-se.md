@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/21/president-of-the-united-states-george-w-bush-and-the-prime-minister-of-iraq-nouri-al-maliki-announce-plans-to-meet-next-week-to-discuss-se.html)  [JSON](/news/2006/11/21/president-of-the-united-states-george-w-bush-and-the-prime-minister-of-iraq-nouri-al-maliki-announce-plans-to-meet-next-week-to-discuss-se.json)  [XML](/news/2006/11/21/president-of-the-united-states-george-w-bush-and-the-prime-minister-of-iraq-nouri-al-maliki-announce-plans-to-meet-next-week-to-discuss-se.xml)  
+
 ### [2006-11-21](/news/2006/11/21/index.md)
 
+##### U.S. President
 #  President of the United States George W. Bush and the Prime Minister of Iraq Nouri al-Maliki announce plans to meet next week to discuss security issues in Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox 31 Colorado](http://www.myfoxcolorado.com/myfox/pages/News/Detail?contentId=1560039&version=2&locale=EN-US&layoutCode=TSTY&pageId=3.4.1)
 

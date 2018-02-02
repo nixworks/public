@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2011/06/25/35-people-are-killed-in-a-suicide-car-bomb-attack-in-afghanistan-s-logar-province.html)  [JSON](/news/2011/06/25/35-people-are-killed-in-a-suicide-car-bomb-attack-in-afghanistan-s-logar-province.json)  [XML](/news/2011/06/25/35-people-are-killed-in-a-suicide-car-bomb-attack-in-afghanistan-s-logar-province.xml)  
+
 ### [2011-06-25](/news/2011/06/25/index.md)
 
+##### suicide car bomb attack
 # 35 people are killed in a suicide car bomb attack in Afghanistan's Logar province. 
 
 A suicide car bomber killed at least 20 people, and possibly as many as 35, in an attack at a hospital in a remote district of eastern Afghanistan on Saturday that damaged its maternity ward, officials said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/06/25/us-afghanistan-bombing-idUSTRE75O0OZ20110625?feedType=RSS&feedName=topNews)
+1. [Reuters](https://www.reuters.com/article/2011/06/25/us-afghanistan-bombing-idUSTRE75O0OZ20110625?feedType=RSS&feedName=topNews)
 1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [The U.S. military warns that the Kabul Attack Network, comprised of fighters from various jihadist groups such as the Taliban and Haqqani networks, is planning attacks on people in the Parwan, Khost, Kabul, and Logar Provinces, Afghanistan, and asks for information from the Afghan public. ](/news/2016/04/27/the-u-s-military-warns-that-the-kabul-attack-network-comprised-of-fighters-from-various-jihadist-groups-such-as-the-taliban-and-haqqani-ne.md) _Context: Afghanistan, Logar Province_
-2. [A bomb in a mosque in Afghanistan's Logar Province kills the governor Arsala Jamal and results in other injuries. ](/news/2013/10/15/a-bomb-in-a-mosque-in-afghanistan-s-logar-province-kills-the-governor-arsala-jamal-and-results-in-other-injuries.md) _Context: Afghanistan, Logar Province_
-3. [Eight Afghan labourers are killed on their way to work at a U.S. military base in Logar Province. ](/news/2013/07/18/eight-afghan-labourers-are-killed-on-their-way-to-work-at-a-u-s-military-base-in-logar-province.md) _Context: Afghanistan, Logar Province_
-4. [Two guards and an Afghan police officer are killed in coordinated suicide bombing attacks in Jalalabad and Logar Province in eastern Afghanistan, while a third such attack on the National Directorate of Security in Kabul is foiled. ](/news/2013/02/24/two-guards-and-an-afghan-police-officer-are-killed-in-coordinated-suicide-bombing-attacks-in-jalalabad-and-logar-province-in-eastern-afghani.md) _Context: Afghanistan, Logar Province_
-5. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Afghanistan_
+1. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Afghanistan_
+2. [Researchers note that in November 2017, Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally revealed the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/researchers-note-that-in-november-2017-strava-which-processes-data-from-apps-and-internet-of-things-devices-such-as-fitbit-accidentally-r.md) _Context: Afghanistan_
+3. [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _Context: Afghanistan_
+4. [Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. ](/news/2018/01/21/six-insurgents-kill-at-least-18-people-including-4-afghans-and-14-foreigners-in-a-13-hour-gun-battle-the-afghan-interior-ministry-says-th.md) _Context: Afghanistan_
+5. [At least four gunmen launch an attack on the Intercontinental Hotel in Kabul, Afghanistan. ](/news/2018/01/20/at-least-four-gunmen-launch-an-attack-on-the-intercontinental-hotel-in-kabul-afghanistan.md) _Context: Afghanistan_

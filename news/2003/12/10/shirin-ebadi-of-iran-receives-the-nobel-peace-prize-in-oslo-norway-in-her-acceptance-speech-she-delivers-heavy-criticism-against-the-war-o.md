@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/10/shirin-ebadi-of-iran-receives-the-nobel-peace-prize-in-oslo-norway-in-her-acceptance-speech-she-delivers-heavy-criticism-against-the-war-o.html)  [JSON](/news/2003/12/10/shirin-ebadi-of-iran-receives-the-nobel-peace-prize-in-oslo-norway-in-her-acceptance-speech-she-delivers-heavy-criticism-against-the-war-o.json)  [XML](/news/2003/12/10/shirin-ebadi-of-iran-receives-the-nobel-peace-prize-in-oslo-norway-in-her-acceptance-speech-she-delivers-heavy-criticism-against-the-war-o.xml)  
+
 ### [2003-12-10](/news/2003/12/10/index.md)
 
+##### Shirin Ebadi
 # Shirin Ebadi of Iran receives the Nobel Peace Prize in Oslo, Norway. In her acceptance speech she delivers heavy criticism against the War on Terrorism as an excuse for human rights violations. She also repeats her argument that discrimination against women in Muslim countries has no foundation in religion, but rather in culture. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/8/republican-party-candidate-heinz-hofschneider-and-incumbent-governor-benigno-fitial-virtually-tie-in-the-closest-gubernatorial-election-in.html)  [JSON](/news/2009/11/8/republican-party-candidate-heinz-hofschneider-and-incumbent-governor-benigno-fitial-virtually-tie-in-the-closest-gubernatorial-election-in.json)  [XML](/news/2009/11/8/republican-party-candidate-heinz-hofschneider-and-incumbent-governor-benigno-fitial-virtually-tie-in-the-closest-gubernatorial-election-in.xml)  
+
 ### [2009-11-8](/news/2009/11/8/index.md)
 
+##### Republican
 #  Republican Party candidate Heinz Hofschneider and incumbent Governor Benigno Fitial virtually tie in the closest gubernatorial election in history. A runoff election will be held in the next 14 days to determine the winner. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Marianas Variety](http://www.mvarietynews.com/cnmi-news/local/21571-updated-breaking-news-heinz-fitial-in-runoff.html)
 

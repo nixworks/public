@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/7/the-united-nations-climate-change-conference-opens-in-copenhagen.html)  [JSON](/news/2009/12/7/the-united-nations-climate-change-conference-opens-in-copenhagen.json)  [XML](/news/2009/12/7/the-united-nations-climate-change-conference-opens-in-copenhagen.xml)  
+
 ### [2009-12-7](/news/2009/12/7/index.md)
 
+##### United Nations
 #  The United Nations Climate Change Conference opens in Copenhagen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bernama](http://www.bernama.com/bernama/v5/newsworld.php?id=460656)
 2. [CNN](http://edition.cnn.com/2009/WORLD/europe/12/06/copenhagen.climate.talks/index.html)

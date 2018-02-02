@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/29/the-united-states-supreme-court-rules-5a4-in-ashcroft-v-aclu-that-the-child-online-protection-act-is-likely-in-violation-of-the-first.html)  [JSON](/news/2004/06/29/the-united-states-supreme-court-rules-5a4-in-ashcroft-v-aclu-that-the-child-online-protection-act-is-likely-in-violation-of-the-first.json)  [XML](/news/2004/06/29/the-united-states-supreme-court-rules-5a4-in-ashcroft-v-aclu-that-the-child-online-protection-act-is-likely-in-violation-of-the-first.xml)  
+
 ### [2004-06-29](/news/2004/06/29/index.md)
 
+##### United States Supreme Court
 #  The United States Supreme Court rules 5-4 in "Ashcroft v. ACLU" that the Child Online Protection Act is likely in violation of the First Amendment's guarantee of free speech. The case will be reheard at a lower court. 
 
 The Supreme Court ruled Tuesday that a law meant to punish pornographers who peddle dirty pictures to Web-surfing kids is probably an unconstitutional muzzle on free speech.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/5324463/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Video/040629/nn_pwms_scotus_040629.standard.jpg)

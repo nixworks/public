@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/21/msnbc-terminates-a-contract-with-their-highest-rated-cable-news-host-keith-olbermann.html)  [JSON](/news/2011/01/21/msnbc-terminates-a-contract-with-their-highest-rated-cable-news-host-keith-olbermann.json)  [XML](/news/2011/01/21/msnbc-terminates-a-contract-with-their-highest-rated-cable-news-host-keith-olbermann.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### MSNBC
 # MSNBC terminates a contract with their highest-rated cable news host, Keith Olbermann. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/richard-adams-blog/2011/jan/22/keith-olbermann-msnbc-nbc-terminated?CMP=twt_fd)
 

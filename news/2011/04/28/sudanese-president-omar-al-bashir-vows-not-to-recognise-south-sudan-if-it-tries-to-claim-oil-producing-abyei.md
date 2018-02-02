@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/28/sudanese-president-omar-al-bashir-vows-not-to-recognise-south-sudan-if-it-tries-to-claim-oil-producing-abyei.html)  [JSON](/news/2011/04/28/sudanese-president-omar-al-bashir-vows-not-to-recognise-south-sudan-if-it-tries-to-claim-oil-producing-abyei.json)  [XML](/news/2011/04/28/sudanese-president-omar-al-bashir-vows-not-to-recognise-south-sudan-if-it-tries-to-claim-oil-producing-abyei.xml)  
+
 ### [2011-04-28](/news/2011/04/28/index.md)
 
+##### Omar al-Bashir
 # Sudanese president Omar al-Bashir vows not to recognise South Sudan if it tries to claim oil-producing Abyei. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13230498)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52394000/jpg/_52394308_464bashir_afp.jpg)

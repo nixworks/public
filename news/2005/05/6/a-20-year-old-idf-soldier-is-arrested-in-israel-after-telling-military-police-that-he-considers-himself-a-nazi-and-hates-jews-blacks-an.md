@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/6/a-20-year-old-idf-soldier-is-arrested-in-israel-after-telling-military-police-that-he-considers-himself-a-nazi-and-hates-jews-blacks-an.html)  [JSON](/news/2005/05/6/a-20-year-old-idf-soldier-is-arrested-in-israel-after-telling-military-police-that-he-considers-himself-a-nazi-and-hates-jews-blacks-an.json)  [XML](/news/2005/05/6/a-20-year-old-idf-soldier-is-arrested-in-israel-after-telling-military-police-that-he-considers-himself-a-nazi-and-hates-jews-blacks-an.xml)  
+
 ### [2005-05-6](/news/2005/05/6/index.md)
 
+##### Israeli Defence Force
 #  A 20-year-old IDF soldier is arrested in Israel after telling military police that he considers himself a "Nazi", and hates Jews, blacks and the State of Israel. 
 
 JERUSALEM - An Israeli soldier was arrested today on suspicion of links to neo-Nazi groups abroad, the first case of its kind in the Jewish state, which was founded as a haven for victims of the Holocaust. A police spokesman said the suspect, a 20-year-old army conscript who recently immigrated from the former Soviet Union although he does not identify himself as Jewish, was first taken into custody on drug charges. Israel has taken in hundreds of thousands of Russian-speaking immigrants under laws admitting those who have at least one Jewish grandparent or are married to Jews -- criteria the Nazis applied during their World War Two genocide.
 
 
-### Source:
+### Sources:
 
 1. [Courier-Mail](http://www.thecouriermail.news.com.au/common/story_page/0,5936,15196307%255E1702,00.html)
 2. [Houston Chronicle](http://www.chron.com/cs/CDA/ssistory.mpl/headline/world/3169104)

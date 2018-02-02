@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/twin-explosions-kill-at-least-3-people-and-injure-at-least-50-others-in-a-crowded-shopping-area-in-kut-wasit-women-and-children-are-seen-b.html)  [JSON](/news/2010/08/3/twin-explosions-kill-at-least-3-people-and-injure-at-least-50-others-in-a-crowded-shopping-area-in-kut-wasit-women-and-children-are-seen-b.json)  [XML](/news/2010/08/3/twin-explosions-kill-at-least-3-people-and-injure-at-least-50-others-in-a-crowded-shopping-area-in-kut-wasit-women-and-children-are-seen-b.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Kut
 # Twin explosions kill at least 3 people and injure at least 50 others in a crowded shopping area in Kut, Wasit; women and children are seen bleeding in the streets. 
 
 Twin car bombs kill six in southern Iraq, hours after attacks in Baghdad leave eight police officers dead, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10857251)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

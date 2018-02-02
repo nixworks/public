@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/02/16/in-the-united-states-the-food-and-drug-administration-announces-that-it-will-create-a-board-for-advisement-regarding-drug-complications-an.html)  [JSON](/news/2005/02/16/in-the-united-states-the-food-and-drug-administration-announces-that-it-will-create-a-board-for-advisement-regarding-drug-complications-an.json)  [XML](/news/2005/02/16/in-the-united-states-the-food-and-drug-administration-announces-that-it-will-create-a-board-for-advisement-regarding-drug-complications-an.xml)  
+
 ### [2005-02-16](/news/2005/02/16/index.md)
 
+##### Food and Drug Administration
 #  In the United States, the Food and Drug Administration announces that it will create a board for advisement regarding drug complications and the ongoing study of the safety of already approved drugs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [LA Times](http://www.latimes.com/news/nationworld/nation/la-na-fda16feb16,0,5361557.story?coll=la-home-headlines)
-2. [NY Times](http://www.nytimes.com/2005/02/16/politics/16fda.html)
+2. [NY Times](https://www.nytimes.com/2005/02/16/politics/16fda.html)
 
 ### Related:
 

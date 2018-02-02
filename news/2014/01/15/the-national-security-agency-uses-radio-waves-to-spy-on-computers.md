@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/01/15/the-national-security-agency-uses-radio-waves-to-spy-on-computers.html)  [JSON](/news/2014/01/15/the-national-security-agency-uses-radio-waves-to-spy-on-computers.json)  [XML](/news/2014/01/15/the-national-security-agency-uses-radio-waves-to-spy-on-computers.xml)  
+
 ### [2014-01-15](/news/2014/01/15/index.md)
 
+##### National Security Agency
 # The National Security Agency uses radio waves to spy on computers. 
 
+The agency has put software in thousands of computers that allows for surveillance and can also create a path for launching cyberattacks, according to documents, experts and officials.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2014/01/15/us/nsa-effort-pries-open-computers-not-connected-to-internet.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/2014/01/15/us/nsa-effort-pries-open-computers-not-connected-to-internet.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2014/01/15/world/JP-NSA/JP-NSA-videoSixteenByNine1050.jpg)
 
 ### Related:
 

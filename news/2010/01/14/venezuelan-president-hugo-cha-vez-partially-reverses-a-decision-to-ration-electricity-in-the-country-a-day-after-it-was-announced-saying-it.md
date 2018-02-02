@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/14/venezuelan-president-hugo-cha-vez-partially-reverses-a-decision-to-ration-electricity-in-the-country-a-day-after-it-was-announced-saying-it.html)  [JSON](/news/2010/01/14/venezuelan-president-hugo-cha-vez-partially-reverses-a-decision-to-ration-electricity-in-the-country-a-day-after-it-was-announced-saying-it.json)  [XML](/news/2010/01/14/venezuelan-president-hugo-cha-vez-partially-reverses-a-decision-to-ration-electricity-in-the-country-a-day-after-it-was-announced-saying-it.xml)  
+
 ### [2010-01-14](/news/2010/01/14/index.md)
 
+##### Venezuela
 # Venezuelan President Hugo Chavez partially reverses a decision to ration electricity in the country a day after it was announced, saying it was having "undesirable effects" on the population. Thus, Caracas residents won't have power cuts anymore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hVHmfEtoD34riQp5VktGgj6-AXrQ)
 2. [El Universal](http://english.eluniversal.com/2010/01/14/en_eco_esp_chavez-suspends-elec_14A3286691.shtml)

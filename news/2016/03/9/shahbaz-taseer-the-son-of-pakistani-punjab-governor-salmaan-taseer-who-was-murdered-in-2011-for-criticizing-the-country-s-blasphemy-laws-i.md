@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/9/shahbaz-taseer-the-son-of-pakistani-punjab-gover
 
 ### [2016-03-9](/news/2016/03/9/index.md)
 
+##### Pakistani Punjab governor
 # Shahbaz Taseer, the son of Pakistani Punjab governor Salmaan Taseer who was murdered in 2011 for criticizing the country's blasphemy laws, is reunited with his family four-and-a-half years after his kidnapping. Tuesday, Shahbaz was rescued by Pakistani secret service and counter-terrorism operatives in Kuchlak, Balochistan Province. He had been abducted in Lahore in August 2011, seven months after his father's murder by bodyguard Mumtaz Qadri. Qadri was executed on February 29, 2016. His death was claimed as the reason for the deadly Taliban suicide bombing in Shabqadar two days ago. 
 
 Salmaan Taseer&#039;s son was abducted from the Gulberg area of Lahore in August, 2011

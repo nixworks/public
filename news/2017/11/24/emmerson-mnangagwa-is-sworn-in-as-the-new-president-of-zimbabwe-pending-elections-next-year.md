@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/24/emmerson-mnangagwa-is-sworn-in-as-the-new-presi
 
 ### [2017-11-24](/news/2017/11/24/index.md)
 
+##### 2017 Zimbabwean coup d'etat
 # Emmerson Mnangagwa is sworn in as the new President of Zimbabwe pending elections next year. 
 
 

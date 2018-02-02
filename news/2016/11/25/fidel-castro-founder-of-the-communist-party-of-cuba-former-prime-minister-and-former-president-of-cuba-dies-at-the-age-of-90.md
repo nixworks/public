@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/25/fidel-castro-founder-of-the-communist-party-of-
 
 ### [2016-11-25](/news/2016/11/25/index.md)
 
+##### Fidel Castro
 # Fidel Castro, founder of the Communist Party of Cuba, former Prime Minister and former President of Cuba, dies at the age of 90. 
 
 

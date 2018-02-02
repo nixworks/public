@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/7/jon-johansen-was-acquitted-of-all-charges-in-the-norwegian-decss-trial-in-an-important-test-case-for-copyright-law.html)  [JSON](/news/2003/01/7/jon-johansen-was-acquitted-of-all-charges-in-the-norwegian-decss-trial-in-an-important-test-case-for-copyright-law.json)  [XML](/news/2003/01/7/jon-johansen-was-acquitted-of-all-charges-in-the-norwegian-decss-trial-in-an-important-test-case-for-copyright-law.xml)  
+
 ### [2003-01-7](/news/2003/01/7/index.md)
 
+##### Jon Johansen
 #  Jon Johansen was acquitted of all charges in the Norwegian DeCSS trial, in an important test case for copyright law.
 
 

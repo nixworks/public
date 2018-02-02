@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/03/30/ousted-chongqing-party-chief-bo-xilai-is-reportedly-confined-to-his-house-in-beijing-as-he-undergoes-investigations-from-chinese-authorities.html)  [JSON](/news/2012/03/30/ousted-chongqing-party-chief-bo-xilai-is-reportedly-confined-to-his-house-in-beijing-as-he-undergoes-investigations-from-chinese-authorities.json)  [XML](/news/2012/03/30/ousted-chongqing-party-chief-bo-xilai-is-reportedly-confined-to-his-house-in-beijing-as-he-undergoes-investigations-from-chinese-authorities.xml)  
+
 ### [2012-03-30](/news/2012/03/30/index.md)
 
+##### Chongqing
 # Ousted Chongqing party chief Bo Xilai is reportedly confined to his house in Beijing as he undergoes investigations from Chinese authorities. 
 
 For weeks, there has been frenzied politicking at the top of the Communist Party as it attempts to seal rifts in its leadership.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2012/03/30/world/asia/chinas-leaders-seek-unity-after-ouster-of-bo-xilai.html?_r=1&pagewanted=all)
+1. [The New York Times](https://www.nytimes.com/2012/03/30/world/asia/chinas-leaders-seek-unity-after-ouster-of-bo-xilai.html?_r=1&pagewanted=all)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/17/legal-charges-against-the-pirate-bay-are-amended.html)  [JSON](/news/2009/02/17/legal-charges-against-the-pirate-bay-are-amended.json)  [XML](/news/2009/02/17/legal-charges-against-the-pirate-bay-are-amended.xml)  
+
 ### [2009-02-17](/news/2009/02/17/index.md)
 
+##### trial
 #  Legal charges against The Pirate Bay are amended. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Local](http://www.thelocal.se/17640/20090217/)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/26/chinese-state-media-xinhua-news-agency-criticiz
 
 ### [2016-05-26](/news/2016/05/26/index.md)
 
+##### Xinhua
 # Chinese state media Xinhua News Agency criticizes Taiwan President Tsai Ing-wen as politically extreme and lacking emotional balance because she is unmarried and does not have children. 
 
 An article by a senior scholar for the People’s Liberation Army said that Tsai Ing-wen was prone to a radical style because she lacked the “burden of love, family and children.”

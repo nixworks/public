@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/26/a-dog-is-discovered-carrying-the-hendra-virus-in-the-australian-state-of-queensland-near-the-town-of-beaudesert-it-is-the-first-time-the-vi.html)  [JSON](/news/2011/07/26/a-dog-is-discovered-carrying-the-hendra-virus-in-the-australian-state-of-queensland-near-the-town-of-beaudesert-it-is-the-first-time-the-vi.json)  [XML](/news/2011/07/26/a-dog-is-discovered-carrying-the-hendra-virus-in-the-australian-state-of-queensland-near-the-town-of-beaudesert-it-is-the-first-time-the-vi.xml)  
+
 ### [2011-07-26](/news/2011/07/26/index.md)
 
+##### dog
 # A dog is discovered carrying the hendra virus in the Australian state of Queensland near the town of Beaudesert. It is the first time the virus has been detected in a species other than flying foxes, horses or humans. 
 
 THE deadly Hendra virus has been detected in a dog on a Queensland farm, authorities say.
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/national/dog-near-beaudesert-believed-to-be-the-first-of-species-detected-with-the-hendra-virus/story-e6frfkvr-1226102106856)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

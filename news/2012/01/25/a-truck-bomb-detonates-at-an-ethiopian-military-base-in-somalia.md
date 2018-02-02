@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/25/a-truck-bomb-detonates-at-an-ethiopian-military-base-in-somalia.html)  [JSON](/news/2012/01/25/a-truck-bomb-detonates-at-an-ethiopian-military-base-in-somalia.json)  [XML](/news/2012/01/25/a-truck-bomb-detonates-at-an-ethiopian-military-base-in-somalia.xml)  
+
 ### [2012-01-25](/news/2012/01/25/index.md)
 
+##### Ethiopia
 # A truck bomb detonates at an Ethiopian military base in Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/blast-at-ethiopian-army-base-in-somalia-1.1219910)
 

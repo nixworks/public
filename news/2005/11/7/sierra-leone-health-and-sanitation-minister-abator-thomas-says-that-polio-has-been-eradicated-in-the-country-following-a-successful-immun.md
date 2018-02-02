@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/7/sierra-leone-health-and-sanitation-minister-abator-thomas-says-that-polio-has-been-eradicated-in-the-country-following-a-successful-immun.html)  [JSON](/news/2005/11/7/sierra-leone-health-and-sanitation-minister-abator-thomas-says-that-polio-has-been-eradicated-in-the-country-following-a-successful-immun.json)  [XML](/news/2005/11/7/sierra-leone-health-and-sanitation-minister-abator-thomas-says-that-polio-has-been-eradicated-in-the-country-following-a-successful-immun.xml)  
+
 ### [2005-11-7](/news/2005/11/7/index.md)
 
+##### Sierra Leone
 #  Sierra Leone Health and Sanitation Minister, Abator Thomas says that polio has been eradicated in the country, following a successful immunization program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [allAfrica](http://allafrica.com/stories/200511070896.html)
 

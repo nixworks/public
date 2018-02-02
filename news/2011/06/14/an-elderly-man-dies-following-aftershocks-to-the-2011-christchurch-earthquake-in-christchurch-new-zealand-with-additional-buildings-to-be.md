@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/14/an-elderly-man-dies-following-aftershocks-to-the-2011-christchurch-earthquake-in-christchurch-new-zealand-with-additional-buildings-to-be.html)  [JSON](/news/2011/06/14/an-elderly-man-dies-following-aftershocks-to-the-2011-christchurch-earthquake-in-christchurch-new-zealand-with-additional-buildings-to-be.json)  [XML](/news/2011/06/14/an-elderly-man-dies-following-aftershocks-to-the-2011-christchurch-earthquake-in-christchurch-new-zealand-with-additional-buildings-to-be.xml)  
+
 ### [2011-06-14](/news/2011/06/14/index.md)
 
+##### 2011 Christchurch earthquake
 # An elderly man dies following aftershocks to the 2011 Christchurch earthquake in Christchurch, New Zealand, with additional buildings to be demolished. 
 
 Prime Minister John Key has announced there will not be a state of emergency declared in Christchurch after taking his first look at the damage caused by the latest round of earthquakes - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10732161)
 2. [TV New Zealand](http://tvnz.co.nz/national-news/christchurch-aftershocks-forces-75-new-demolitions-4224808)

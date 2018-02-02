@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/10/a-breakaway-group-from-the-national-league-for-democracy-in-burma-registers-to-participate-in-the-general-election-later-this-year.html)  [JSON](/news/2010/07/10/a-breakaway-group-from-the-national-league-for-democracy-in-burma-registers-to-participate-in-the-general-election-later-this-year.json)  [XML](/news/2010/07/10/a-breakaway-group-from-the-national-league-for-democracy-in-burma-registers-to-participate-in-the-general-election-later-this-year.xml)  
+
 ### [2010-07-10](/news/2010/07/10/index.md)
 
+##### National League for Democracy
 # A breakaway group from the National League for Democracy in Burma registers to participate in the general election later this year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jb1_TnDefbydNIJiDKm33tBBZv3Q)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/2010710816978811.html)

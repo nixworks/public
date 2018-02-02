@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/11/in-nagorno-karabakh-98-6-percent-of-voters-vote-in-favor-of-a-constitution-favoring-independence-from-azerbaijan.html)  [JSON](/news/2006/12/11/in-nagorno-karabakh-98-6-percent-of-voters-vote-in-favor-of-a-constitution-favoring-independence-from-azerbaijan.json)  [XML](/news/2006/12/11/in-nagorno-karabakh-98-6-percent-of-voters-vote-in-favor-of-a-constitution-favoring-independence-from-azerbaijan.xml)  
+
 ### [2006-12-11](/news/2006/12/11/index.md)
 
+##### Nagorno-Karabakh region
 #  In Nagorno-Karabakh 98.6 percent of voters vote in favor of a constitution favoring independence from Azerbaijan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RadioFreeEurope/RadioLibery](http://www.rferl.org/featuresarticle/2006/12/15D9442B-2B41-4132-9312-9A1F77FC92AC.html)
 

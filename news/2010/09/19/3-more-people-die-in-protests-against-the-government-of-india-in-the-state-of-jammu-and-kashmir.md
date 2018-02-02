@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/19/3-more-people-die-in-protests-against-the-government-of-india-in-the-state-of-jammu-and-kashmir.html)  [JSON](/news/2010/09/19/3-more-people-die-in-protests-against-the-government-of-india-in-the-state-of-jammu-and-kashmir.json)  [XML](/news/2010/09/19/3-more-people-die-in-protests-against-the-government-of-india-in-the-state-of-jammu-and-kashmir.xml)  
+
 ### [2010-09-19](/news/2010/09/19/index.md)
 
+##### Government of India
 # 3 more people die in protests against the Government of India in the state of Jammu and Kashmir. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jvKA6FSwHfK3D4qLBBHtEDQt5rlwD9IATQEG0)
 

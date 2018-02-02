@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/9/more-than-a-hundred-tourists-in-the-french-alps-
 
 ### [2016-09-9](/news/2016/09/9/index.md)
 
+##### French Alps
 # More than a hundred tourists in the French Alps spend an evening suspended in midair inside cable cars that ceased to move. 
 
 Helicopters managed to extract 65 people from the gondolas late on Thursday — but then night fell, and the remaining trapped tourists had to wait until morning to be rescued.

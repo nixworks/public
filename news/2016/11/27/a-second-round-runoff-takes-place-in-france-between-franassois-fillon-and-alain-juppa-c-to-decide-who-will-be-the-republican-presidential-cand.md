@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/27/a-second-round-runoff-takes-place-in-france-bet
 
 ### [2016-11-27](/news/2016/11/27/index.md)
 
+##### The Republicans (France) presidential primary, 2016
 # A second-round runoff takes place in France between Francois Fillon and Alain Juppe to decide who will be the Republican presidential candidate in next year's presidential election. 
 
 Francois Fillon looks set to win the French Republican primaries.

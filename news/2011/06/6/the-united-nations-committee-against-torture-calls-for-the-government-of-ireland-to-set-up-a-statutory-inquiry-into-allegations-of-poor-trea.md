@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/6/the-united-nations-committee-against-torture-calls-for-the-government-of-ireland-to-set-up-a-statutory-inquiry-into-allegations-of-poor-trea.html)  [JSON](/news/2011/06/6/the-united-nations-committee-against-torture-calls-for-the-government-of-ireland-to-set-up-a-statutory-inquiry-into-allegations-of-poor-trea.json)  [XML](/news/2011/06/6/the-united-nations-committee-against-torture-calls-for-the-government-of-ireland-to-set-up-a-statutory-inquiry-into-allegations-of-poor-trea.xml)  
+
 ### [2011-06-6](/news/2011/06/6/index.md)
 
+##### United Nations Committee Against Torture
 # The United Nations Committee Against Torture calls for the Government of Ireland to set up a statutory inquiry into allegations of poor treatment of women committed to the Magdalene Laundries. 
 
 The Government should set up a statutory investigation into allegations of torture and degrading treatment against women committed&hellip;
 
 
-### Source:
+### Sources:
 
 1. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0606/breaking4.html)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

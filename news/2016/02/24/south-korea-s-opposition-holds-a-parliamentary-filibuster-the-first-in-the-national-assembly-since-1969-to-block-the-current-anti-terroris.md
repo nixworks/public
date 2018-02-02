@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/24/south-korea-s-opposition-holds-a-parliamentary-
 
 ### [2016-02-24](/news/2016/02/24/index.md)
 
+##### South Korea
 # South Korea's opposition holds a parliamentary filibuster, the first in the National Assembly since 1969, to block the current anti-terrorism bill that would expand National Intelligence Service powers. The opposition plans to continue until March 11, when the session is scheduled to end. 
 
 Wearing a white sweater and a blue blazer, her eyes framed by round spectacles, Eun Soo-mi looked more like a librarian than a political saboteur as she approached the podium in South Korea’s parliament at 2:30 a.m. on Wednesday.

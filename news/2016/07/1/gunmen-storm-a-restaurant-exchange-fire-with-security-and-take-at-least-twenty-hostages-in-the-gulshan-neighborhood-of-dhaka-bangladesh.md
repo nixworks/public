@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/1/gunmen-storm-a-restaurant-exchange-fire-with-sec
 
 ### [2016-07-1](/news/2016/07/1/index.md)
 
+##### 2016 Gulshan attack
 # Gunmen storm a restaurant, exchange fire with security, and take at least twenty hostages in the Gulshan neighborhood of Dhaka, Bangladesh. Two policemen are killed. The Islamic State claims responsibility. 
 
 Twenty hostages were killed by militants who stormed an upscale restaurant in the Bangladeshi capital.

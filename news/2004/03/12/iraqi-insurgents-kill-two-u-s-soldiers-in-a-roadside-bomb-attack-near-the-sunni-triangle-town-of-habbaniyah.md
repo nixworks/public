@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/12/iraqi-insurgents-kill-two-u-s-soldiers-in-a-roadside-bomb-attack-near-the-sunni-triangle-town-of-habbaniyah.html)  [JSON](/news/2004/03/12/iraqi-insurgents-kill-two-u-s-soldiers-in-a-roadside-bomb-attack-near-the-sunni-triangle-town-of-habbaniyah.json)  [XML](/news/2004/03/12/iraqi-insurgents-kill-two-u-s-soldiers-in-a-roadside-bomb-attack-near-the-sunni-triangle-town-of-habbaniyah.xml)  
+
 ### [2004-03-12](/news/2004/03/12/index.md)
 
+##### rebel-held
 #  Iraqi insurgents kill two U.S. soldiers in a roadside bomb attack near the Sunni Triangle town of Habbaniyah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://story.news.yahoo.com/news?tmpl=story&u=/ap/20040312/ap_on_re_mi_ea/iraq_us_soldiers_killed&cid=540&ncid=1473)
 

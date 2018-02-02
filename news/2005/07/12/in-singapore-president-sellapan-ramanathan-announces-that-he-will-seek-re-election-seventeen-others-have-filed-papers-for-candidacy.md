@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/12/in-singapore-president-sellapan-ramanathan-announces-that-he-will-seek-re-election-seventeen-others-have-filed-papers-for-candidacy.html)  [JSON](/news/2005/07/12/in-singapore-president-sellapan-ramanathan-announces-that-he-will-seek-re-election-seventeen-others-have-filed-papers-for-candidacy.json)  [XML](/news/2005/07/12/in-singapore-president-sellapan-ramanathan-announces-that-he-will-seek-re-election-seventeen-others-have-filed-papers-for-candidacy.xml)  
+
 ### [2005-07-12](/news/2005/07/12/index.md)
 
+##### Singapore
 #  In Singapore, president Sellapan Ramanathan announces that he will seek re-election. Seventeen others have filed papers for candidacy 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/157508/1/.html)
 

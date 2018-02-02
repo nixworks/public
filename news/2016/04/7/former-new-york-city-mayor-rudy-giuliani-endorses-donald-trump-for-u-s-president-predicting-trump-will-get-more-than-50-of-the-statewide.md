@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/7/former-new-york-city-mayor-rudy-giuliani-endorse
 
 ### [2016-04-7](/news/2016/04/7/index.md)
 
+##### Donald Trump endorsements
 # Former New York City mayor Rudy Giuliani endorses Donald Trump for U.S. President, predicting Trump will get more than 50% of the statewide vote. 
 
 

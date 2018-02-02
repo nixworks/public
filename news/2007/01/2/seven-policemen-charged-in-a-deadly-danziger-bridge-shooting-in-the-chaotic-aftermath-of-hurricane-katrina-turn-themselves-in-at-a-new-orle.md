@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/01/2/seven-policemen-charged-in-a-deadly-danziger-bridge-shooting-in-the-chaotic-aftermath-of-hurricane-katrina-turn-themselves-in-at-a-new-orle.html)  [JSON](/news/2007/01/2/seven-policemen-charged-in-a-deadly-danziger-bridge-shooting-in-the-chaotic-aftermath-of-hurricane-katrina-turn-themselves-in-at-a-new-orle.json)  [XML](/news/2007/01/2/seven-policemen-charged-in-a-deadly-danziger-bridge-shooting-in-the-chaotic-aftermath-of-hurricane-katrina-turn-themselves-in-at-a-new-orle.xml)  
+
 ### [2007-01-2](/news/2007/01/2/index.md)
 
+##### Danziger Bridge shooting
 #  Seven policemen charged in a deadly Danziger Bridge shooting in the chaotic aftermath of Hurricane Katrina turn themselves in at a New Orleans city jail. 
 
 

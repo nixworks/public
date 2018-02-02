@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/09/17/arcelormittal-announces-the-likely-loss-of-two-thousand-cold-process-jobs-in-liege-belgium-after-the-failure-of-talks-with-unions-unions.html)  [JSON](/news/2012/09/17/arcelormittal-announces-the-likely-loss-of-two-thousand-cold-process-jobs-in-liege-belgium-after-the-failure-of-talks-with-unions-unions.json)  [XML](/news/2012/09/17/arcelormittal-announces-the-likely-loss-of-two-thousand-cold-process-jobs-in-liege-belgium-after-the-failure-of-talks-with-unions-unions.xml)  
+
 ### [2012-09-17](/news/2012/09/17/index.md)
 
+##### ArcelorMittal
 # ArcelorMittal announces the likely loss of two thousand cold process jobs in Lige, Belgium, after the failure of talks with unions. Unions say the steel maker wants to force an agreement before even starting talks. Wallonia wants to see the long-term plan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Le Vif](http://translate.googleusercontent.com/translate_c?act=url&depth=1&hl=en&ie=UTF8&prev=_t&rurl=translate.google.com&sl=fr&tl=en&twu=1&u=http://trends.levif.be/economie/actualite/entreprises/arcelormittal-le-froid-menace/article-4000178697546.htm&usg=ALkJrhjRxIQorb6eOpX3pkDi6lEebRqFdQ)
-2. [Reuters](http://www.reuters.com/article/2012/09/17/arcelormittal-belgium-idUSL5E8KHM0920120917)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/2012/09/17/arcelormittal-belgium-idUSL5E8KHM0920120917)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

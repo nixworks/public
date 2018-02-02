@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/19/iran-s-military-prosecutor-charges-three-officials-with-killing-three-people-at-a-detention-centre-used-to-house-post-election-protesters.html)  [JSON](/news/2009/12/19/iran-s-military-prosecutor-charges-three-officials-with-killing-three-people-at-a-detention-centre-used-to-house-post-election-protesters.json)  [XML](/news/2009/12/19/iran-s-military-prosecutor-charges-three-officials-with-killing-three-people-at-a-detention-centre-used-to-house-post-election-protesters.xml)  
+
 ### [2009-12-19](/news/2009/12/19/index.md)
 
+##### Iran
 #  Iran's military prosecutor charges three officials with killing three people at a detention centre used to house post-election protesters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hfELECdIdkUQhSSY_WTbzPOXvnjg)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8422506.stm)

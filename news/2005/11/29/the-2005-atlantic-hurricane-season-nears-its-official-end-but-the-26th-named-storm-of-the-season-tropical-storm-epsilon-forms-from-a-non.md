@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/29/the-2005-atlantic-hurricane-season-nears-its-official-end-but-the-26th-named-storm-of-the-season-tropical-storm-epsilon-forms-from-a-non.html)  [JSON](/news/2005/11/29/the-2005-atlantic-hurricane-season-nears-its-official-end-but-the-26th-named-storm-of-the-season-tropical-storm-epsilon-forms-from-a-non.json)  [XML](/news/2005/11/29/the-2005-atlantic-hurricane-season-nears-its-official-end-but-the-26th-named-storm-of-the-season-tropical-storm-epsilon-forms-from-a-non.xml)  
+
 ### [2005-11-29](/news/2005/11/29/index.md)
 
+##### 2005 Atlantic hurricane season
 #  The 2005 Atlantic hurricane season nears its official end but the 26th named storm of the season, Tropical Storm Epsilon, forms from a non-tropical low east of Bermuda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WEATHER/11/29/hurricane.season.ender/index.html)
 2. [US NHC](http://www.nhc.noaa.gov/archive/2005/dis/al292005.discus.001.shtml?)

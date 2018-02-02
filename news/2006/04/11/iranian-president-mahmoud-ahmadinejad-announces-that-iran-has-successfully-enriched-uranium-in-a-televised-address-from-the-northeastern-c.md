@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/04/11/iranian-president-mahmoud-ahmadinejad-announces-that-iran-has-successfully-enriched-uranium-in-a-televised-address-from-the-northeastern-c.html)  [JSON](/news/2006/04/11/iranian-president-mahmoud-ahmadinejad-announces-that-iran-has-successfully-enriched-uranium-in-a-televised-address-from-the-northeastern-c.json)  [XML](/news/2006/04/11/iranian-president-mahmoud-ahmadinejad-announces-that-iran-has-successfully-enriched-uranium-in-a-televised-address-from-the-northeastern-c.xml)  
+
 ### [2006-04-11](/news/2006/04/11/index.md)
 
+##### President
 #  Iranian President Mahmoud Ahmadinejad announces that Iran has successfully enriched uranium. In a televised address from the northeastern city of Mashhad, Ahmadinejad said "I am officially announcing that Iran has joined the group of those countries which have nuclear technology". 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=amtza2zxdhAo&refer=top_world_news)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=amtza2zxdhAo&refer=top_world_news)
 
 ### Related:
 

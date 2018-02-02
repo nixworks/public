@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/30/hurricane-tomas-lashes-the-islands-of-saint-lucia-and-saint-vincent-in-the-lesser-antilles.html)  [JSON](/news/2010/10/30/hurricane-tomas-lashes-the-islands-of-saint-lucia-and-saint-vincent-in-the-lesser-antilles.json)  [XML](/news/2010/10/30/hurricane-tomas-lashes-the-islands-of-saint-lucia-and-saint-vincent-in-the-lesser-antilles.xml)  
+
 ### [2010-10-30](/news/2010/10/30/index.md)
 
+##### Tropical Storm Tomas
 # Hurricane Tomas lashes the islands of Saint Lucia and Saint Vincent in the Lesser Antilles. 
 
 Hurricane Tomas lashes St Lucia and St Vincent in the eastern Caribbean, with high winds ripping roofs off houses.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11660080)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

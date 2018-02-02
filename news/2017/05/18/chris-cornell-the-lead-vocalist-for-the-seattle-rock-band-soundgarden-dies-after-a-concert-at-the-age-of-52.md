@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/18/chris-cornell-the-lead-vocalist-for-the-seattle
 
 ### [2017-05-18](/news/2017/05/18/index.md)
 
+##### Chris Cornell
 # Chris Cornell, the lead vocalist for the Seattle rock band Soundgarden, dies after a concert at the age of 52. 
 
 

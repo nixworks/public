@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/09/10/a-united-states-air-strike-on-the-iraqi-city-of-fallujah-kills-one-and-wounds-two-others.html)  [JSON](/news/2004/09/10/a-united-states-air-strike-on-the-iraqi-city-of-fallujah-kills-one-and-wounds-two-others.json)  [XML](/news/2004/09/10/a-united-states-air-strike-on-the-iraqi-city-of-fallujah-kills-one-and-wounds-two-others.xml)  
+
 ### [2004-09-10](/news/2004/09/10/index.md)
 
+##### Iraq
 #  A United States air strike on the Iraqi city of Fallujah kills one and wounds two others. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6203676)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6203676)
 
 ### Related:
 

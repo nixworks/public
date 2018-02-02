@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/27/jailed-u-s-serviceman-bradley-manning-u-s-political-scientist-gene-sharp-and-news-network-al-jazeera-are-among-those-known-to-have-been-n.html)  [JSON](/news/2012/02/27/jailed-u-s-serviceman-bradley-manning-u-s-political-scientist-gene-sharp-and-news-network-al-jazeera-are-among-those-known-to-have-been-n.json)  [XML](/news/2012/02/27/jailed-u-s-serviceman-bradley-manning-u-s-political-scientist-gene-sharp-and-news-network-al-jazeera-are-among-those-known-to-have-been-n.xml)  
+
 ### [2012-02-27](/news/2012/02/27/index.md)
 
+##### Bradley Manning
 # Jailed U.S. serviceman Bradley Manning, U.S. political scientist Gene Sharp and news network Al Jazeera are among those known to have been nominated for the 2012 Nobel Peace Prize. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The National Post](http://news.nationalpost.com/2012/02/27/alleged-wikileaks-informant-bradley-manning-among-231-nobel-peace-prize-nominees/)
 

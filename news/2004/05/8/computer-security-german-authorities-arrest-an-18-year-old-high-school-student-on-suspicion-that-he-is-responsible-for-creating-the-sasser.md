@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/05/8/computer-security-german-authorities-arrest-an-18-year-old-high-school-student-on-suspicion-that-he-is-responsible-for-creating-the-sasser.html)  [JSON](/news/2004/05/8/computer-security-german-authorities-arrest-an-18-year-old-high-school-student-on-suspicion-that-he-is-responsible-for-creating-the-sasser.json)  [XML](/news/2004/05/8/computer-security-german-authorities-arrest-an-18-year-old-high-school-student-on-suspicion-that-he-is-responsible-for-creating-the-sasser.xml)  
+
 ### [2004-05-8](/news/2004/05/8/index.md)
 
+##### Computer security
 #  Computer security: German authorities arrest an 18-year-old high school student on suspicion that he is responsible for creating the Sasser worm, which has infected hundreds of thousands of computers worldwide by exploiting a flaw in the Windows 2000 and Windows XP operating systems. According to CNET, a US$5 million reward from Microsoft was instrumental in leading investigators to the suspect. 
 
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.newsday.com/news/nationworld/world/wire/sns-ap-germany-computer-worm,0,1719391.story?coll=sns-ap-world-headlines)
-2. [CNET](http://archive.is/20130119130420/http://news.com.com/2100-7349_3-5208762.html?tag=nefd.top)
+2. [CNET](https://archive.is/20130119130420/http://news.com.com/2100-7349_3-5208762.html?tag=nefd.top)
 2. [Cover Image](https://www.newsday.com/img/blog-share-nd.jpg)
 
 ### Related:

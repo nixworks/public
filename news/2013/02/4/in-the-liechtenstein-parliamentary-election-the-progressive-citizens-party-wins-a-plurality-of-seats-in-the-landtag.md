@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/4/in-the-liechtenstein-parliamentary-election-the-progressive-citizens-party-wins-a-plurality-of-seats-in-the-landtag.html)  [JSON](/news/2013/02/4/in-the-liechtenstein-parliamentary-election-the-progressive-citizens-party-wins-a-plurality-of-seats-in-the-landtag.json)  [XML](/news/2013/02/4/in-the-liechtenstein-parliamentary-election-the-progressive-citizens-party-wins-a-plurality-of-seats-in-the-landtag.xml)  
+
 ### [2013-02-4](/news/2013/02/4/index.md)
 
+##### Liechtenstein
 # In the Liechtenstein parliamentary election the Progressive Citizens' Party wins a plurality of seats in the Landtag. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France24](http://www.france24.com/en/20130203-new-independent-party-rattles-liechtenstein-vote)
 2. [AP via ''Edmonton Journal](http://www.edmontonjournal.com/news/Politics+tiny+Liechtenstein+shaken+surprise+election/7911940/story.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/21/mordechai-vanunu-who-leaked-israeli-nuclear-weapons-secrets-in-1986-is-released-from-prison-after-18-years.html)  [JSON](/news/2004/04/21/mordechai-vanunu-who-leaked-israeli-nuclear-weapons-secrets-in-1986-is-released-from-prison-after-18-years.json)  [XML](/news/2004/04/21/mordechai-vanunu-who-leaked-israeli-nuclear-weapons-secrets-in-1986-is-released-from-prison-after-18-years.xml)  
+
 ### [2004-04-21](/news/2004/04/21/index.md)
 
+##### Mordechai Vanunu
 #  Mordechai Vanunu, who leaked Israeli nuclear-weapons secrets in 1986, is released from prison after 18 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3645225.stm)
 2. [Guardian](http://www.guardian.co.uk/israel/Story/0,2763,1197406,00.html)

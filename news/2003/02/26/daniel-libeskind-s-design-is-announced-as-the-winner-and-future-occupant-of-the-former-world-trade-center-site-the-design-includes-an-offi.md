@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/26/daniel-libeskind-s-design-is-announced-as-the-winner-and-future-occupant-of-the-former-world-trade-center-site-the-design-includes-an-offi.html)  [JSON](/news/2003/02/26/daniel-libeskind-s-design-is-announced-as-the-winner-and-future-occupant-of-the-former-world-trade-center-site-the-design-includes-an-offi.json)  [XML](/news/2003/02/26/daniel-libeskind-s-design-is-announced-as-the-winner-and-future-occupant-of-the-former-world-trade-center-site-the-design-includes-an-offi.xml)  
+
 ### [2003-02-26](/news/2003/02/26/index.md)
 
+##### Daniel Libeskind
 #  Daniel Libeskind's design is announced as the winner and future occupant of the former World Trade Center site. The design includes an office building and a "Wedge of Light" which will honor the victims of the terrorist attacks by shutting down its lights between 8:46 am and 10:28 am EST every September 11. It will also use the WTC's foundations.
 
 

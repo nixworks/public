@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/8/the-unesco-world-heritage-committee-votes-in-quebec-city-and-adds-27-new-sites-to-the-world-heritage-list.html)  [JSON](/news/2008/07/8/the-unesco-world-heritage-committee-votes-in-quebec-city-and-adds-27-new-sites-to-the-world-heritage-list.json)  [XML](/news/2008/07/8/the-unesco-world-heritage-committee-votes-in-quebec-city-and-adds-27-new-sites-to-the-world-heritage-list.xml)  
+
 ### [2008-07-8](/news/2008/07/8/index.md)
 
+##### UNESCO
 #  The UNESCO World Heritage Committee votes in Quebec City and adds 27 new sites to the World Heritage List. 
 
 The&#x20;World&#x20;Heritage&#x20;Committee,&#x20;meeting&#x20;for&#x20;its&#x20;32nd&#x20;session,&#x20;finished&#x20;inscribing&#x20;new&#x20;sites&#x20;on&#x20;UNESCO&amp;rsquo&#x3b;s&#x20;World&#x20;Heritage&#x20;List&#x20;on&#x20;8&#x20;July&#x20;with&#x20;the&#x20;addition&#x20;of&#x20;19&#x20;cultural&#x20;sites&#x20;and&#x20;eight&#x20;natural&#x20;sites&#x20;to&#x20;the&#x20;&#x20;...
 
 
-### Source:
+### Sources:
 
 1. [Unesco](http://whc.unesco.org/en/news/453)
 

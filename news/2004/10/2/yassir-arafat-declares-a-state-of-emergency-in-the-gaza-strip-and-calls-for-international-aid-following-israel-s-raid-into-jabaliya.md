@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/2/yassir-arafat-declares-a-state-of-emergency-in-the-gaza-strip-and-calls-for-international-aid-following-israel-s-raid-into-jabaliya.html)  [JSON](/news/2004/10/2/yassir-arafat-declares-a-state-of-emergency-in-the-gaza-strip-and-calls-for-international-aid-following-israel-s-raid-into-jabaliya.json)  [XML](/news/2004/10/2/yassir-arafat-declares-a-state-of-emergency-in-the-gaza-strip-and-calls-for-international-aid-following-israel-s-raid-into-jabaliya.xml)  
+
 ### [2004-10-2](/news/2004/10/2/index.md)
 
+##### Yassir Arafat
 #  Yassir Arafat declares a state of emergency in the Gaza Strip and calls for international aid following Israel's raid into Jabaliya. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/8F50ED53-04B6-4ADA-A52C-CB19EE1020F3.htm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3708918.stm)

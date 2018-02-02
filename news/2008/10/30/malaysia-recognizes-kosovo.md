@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/30/malaysia-recognizes-kosovo.html)  [JSON](/news/2008/10/30/malaysia-recognizes-kosovo.json)  [XML](/news/2008/10/30/malaysia-recognizes-kosovo.xml)  
+
 ### [2008-10-30](/news/2008/10/30/index.md)
 
+##### Malaysia
 #  Malaysia recognizes Kosovo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BalkanInsight](http://www.balkaninsight.com/en/main/news/14483/)
 1. [Cover Image](http://www.balkaninsight.com/en/file/show/Images/Banners/BI-FB.png)

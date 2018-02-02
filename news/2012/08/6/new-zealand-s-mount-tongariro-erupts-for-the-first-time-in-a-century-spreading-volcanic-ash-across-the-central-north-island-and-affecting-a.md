@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/6/new-zealand-s-mount-tongariro-erupts-for-the-first-time-in-a-century-spreading-volcanic-ash-across-the-central-north-island-and-affecting-a.html)  [JSON](/news/2012/08/6/new-zealand-s-mount-tongariro-erupts-for-the-first-time-in-a-century-spreading-volcanic-ash-across-the-central-north-island-and-affecting-a.json)  [XML](/news/2012/08/6/new-zealand-s-mount-tongariro-erupts-for-the-first-time-in-a-century-spreading-volcanic-ash-across-the-central-north-island-and-affecting-a.xml)  
+
 ### [2012-08-6](/news/2012/08/6/index.md)
 
+##### New Zealand
 # New Zealand's Mount Tongariro erupts for the first time in a century, spreading volcanic ash across the central North Island and affecting airports. 
 
 QUICK READ: - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10825125)
 2. [Stuff.co.nz](http://www.stuff.co.nz/national/7426862/First-Tongariro-eruption-in-over-100-years)

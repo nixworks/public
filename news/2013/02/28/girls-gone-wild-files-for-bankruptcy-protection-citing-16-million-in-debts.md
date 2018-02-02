@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/02/28/girls-gone-wild-files-for-bankruptcy-protection-citing-16-million-in-debts.html)  [JSON](/news/2013/02/28/girls-gone-wild-files-for-bankruptcy-protection-citing-16-million-in-debts.json)  [XML](/news/2013/02/28/girls-gone-wild-files-for-bankruptcy-protection-citing-16-million-in-debts.xml)  
+
 ### [2013-02-28](/news/2013/02/28/index.md)
 
+##### Girls Gone Wild
 # Girls Gone Wild files for bankruptcy protection citing $16 million in debts. 
 
 The company behind the &quot;Girls Gone Wild&quot; video series featuring scantily clad young women drinking, dancing and stripping, has filed for bankruptcy protection citing $16 million in debts, according to court papers obtained on Thursday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/01/entertainment-us-usa-girlsgonewild-idUSBRE92000J20130301)
-2. [The Independent](http://www.independent.co.uk/arts-entertainment/films/news/soft-porn-company-girls-gone-wild-files-for-bankruptcy-over-16-million-debt-8516188.html)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130301&t=2&i=708498051&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE92000XO00)
+1. [Reuters](https://www.reuters.com/article/2013/03/01/entertainment-us-usa-girlsgonewild-idUSBRE92000J20130301)
+2. [The Independent](https://www.independent.co.uk/arts-entertainment/films/news/soft-porn-company-girls-gone-wild-files-for-bankruptcy-over-16-million-debt-8516188.html)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130301&t=2&i=708498051&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE92000XO00)
 
 ### Related:
 

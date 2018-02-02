@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/8/brazilian-oil-company-petrobras-announces-that-it-plans-to-cut-8-000-jobs-by-voluntary-dismissal-after-a-significant-loss-of-its-economy-due.html)  [JSON](/news/2014/05/8/brazilian-oil-company-petrobras-announces-that-it-plans-to-cut-8-000-jobs-by-voluntary-dismissal-after-a-significant-loss-of-its-economy-due.json)  [XML](/news/2014/05/8/brazilian-oil-company-petrobras-announces-that-it-plans-to-cut-8-000-jobs-by-voluntary-dismissal-after-a-significant-loss-of-its-economy-due.xml)  
+
 ### [2014-05-8](/news/2014/05/8/index.md)
 
+##### Petrobras
 # Brazilian oil company Petrobras announces that it plans to cut 8,000 jobs by voluntary dismissal after a significant loss of its economy due to ongoing crisis at its Pasadena Refining System. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [GloboNews](http://g1.globo.com/jornal-da-globo/noticia/2014/05/funcionarios-da-petrobras-aderem-ao-plano-de-demissao-voluntaria.html)
 1. [Cover Image](http://s2.glbimg.com/meeqheiNhQlkS9FbkyHkAI9Ly0k=/1200x630/filters:max_age(3600)/s03.video.glbimg.com/deo/vi/46/64/3326446)

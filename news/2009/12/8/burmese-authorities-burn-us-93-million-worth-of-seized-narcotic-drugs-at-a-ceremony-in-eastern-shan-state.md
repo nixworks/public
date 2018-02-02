@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/8/burmese-authorities-burn-us-93-million-worth-of-seized-narcotic-drugs-at-a-ceremony-in-eastern-shan-state.html)  [JSON](/news/2009/12/8/burmese-authorities-burn-us-93-million-worth-of-seized-narcotic-drugs-at-a-ceremony-in-eastern-shan-state.json)  [XML](/news/2009/12/8/burmese-authorities-burn-us-93-million-worth-of-seized-narcotic-drugs-at-a-ceremony-in-eastern-shan-state.xml)  
+
 ### [2009-12-8](/news/2009/12/8/index.md)
 
+##### Burma
 #  Burmese authorities burn US$93 million worth of seized narcotic drugs at a ceremony in eastern Shan State. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Myanmar-destroys-seized-drugs-worth-93million/articleshow/5315270.cms)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-12/08/content_12612880.htm)

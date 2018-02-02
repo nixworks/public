@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/01/11/in-australia-9-people-are-dead-and-15-others-are-unaccounted-for-in-a-bushfire-in-eyre-peninsula-south-australia.html)  [JSON](/news/2005/01/11/in-australia-9-people-are-dead-and-15-others-are-unaccounted-for-in-a-bushfire-in-eyre-peninsula-south-australia.json)  [XML](/news/2005/01/11/in-australia-9-people-are-dead-and-15-others-are-unaccounted-for-in-a-bushfire-in-eyre-peninsula-south-australia.xml)  
+
 ### [2005-01-11](/news/2005/01/11/index.md)
 
+##### bushfire
 #  In Australia, 9 people are dead and 15 others are unaccounted for, in a bushfire in Eyre Peninsula, South Australia. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [News.com.au](http://www.news.com.au/common/story_page/0,4057,11911870%255E28217,00.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7287531)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7287531)
 3. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,11912670%255E1702,00.html)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

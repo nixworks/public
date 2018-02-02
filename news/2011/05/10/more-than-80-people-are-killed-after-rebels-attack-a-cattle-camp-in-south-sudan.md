@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/10/more-than-80-people-are-killed-after-rebels-attack-a-cattle-camp-in-south-sudan.html)  [JSON](/news/2011/05/10/more-than-80-people-are-killed-after-rebels-attack-a-cattle-camp-in-south-sudan.json)  [XML](/news/2011/05/10/more-than-80-people-are-killed-after-rebels-attack-a-cattle-camp-in-south-sudan.xml)  
+
 ### [2011-05-10](/news/2011/05/10/index.md)
 
+##### South Sudan
 # More than 80 people are killed after rebels attack a cattle camp in South Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7490B120110510?sp=true)
 

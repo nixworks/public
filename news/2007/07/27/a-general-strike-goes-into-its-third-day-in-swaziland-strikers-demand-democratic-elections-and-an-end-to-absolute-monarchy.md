@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/27/a-general-strike-goes-into-its-third-day-in-swaziland-strikers-demand-democratic-elections-and-an-end-to-absolute-monarchy.html)  [JSON](/news/2007/07/27/a-general-strike-goes-into-its-third-day-in-swaziland-strikers-demand-democratic-elections-and-an-end-to-absolute-monarchy.json)  [XML](/news/2007/07/27/a-general-strike-goes-into-its-third-day-in-swaziland-strikers-demand-democratic-elections-and-an-end-to-absolute-monarchy.xml)  
+
 ### [2007-07-27](/news/2007/07/27/index.md)
 
+##### general strike
 #  A general strike goes into its third day in Swaziland; strikers demand democratic elections and an end to absolute monarchy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [M&C](http://news.monstersandcritics.com/europe/news/article_1335272.php/Striking_workers_call_for_multi-party_elections_in_Swaziland)
 

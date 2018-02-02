@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/20/sri-lankan-civil-war-the-tamil-tigers-have-ended-peace-talks-stating-they-are-not-viable-indefinitely.html)  [JSON](/news/2006/04/20/sri-lankan-civil-war-the-tamil-tigers-have-ended-peace-talks-stating-they-are-not-viable-indefinitely.json)  [XML](/news/2006/04/20/sri-lankan-civil-war-the-tamil-tigers-have-ended-peace-talks-stating-they-are-not-viable-indefinitely.xml)  
+
 ### [2006-04-20](/news/2006/04/20/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: The Tamil Tigers have ended peace talks, stating they are not viable indefinitely. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/CL240006.htm)
 

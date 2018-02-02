@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/7/two-men-from-cameroon-and-iran-unanimously-win-asylum-in-the-uk-in-a-landmark-ruling-after-initially-being-rejected-and-told-they-could-hi.html)  [JSON](/news/2010/07/7/two-men-from-cameroon-and-iran-unanimously-win-asylum-in-the-uk-in-a-landmark-ruling-after-initially-being-rejected-and-told-they-could-hi.json)  [XML](/news/2010/07/7/two-men-from-cameroon-and-iran-unanimously-win-asylum-in-the-uk-in-a-landmark-ruling-after-initially-being-rejected-and-told-they-could-hi.xml)  
+
 ### [2010-07-7](/news/2010/07/7/index.md)
 
+##### Cameroon
 # Two men from Cameroon and Iran "unanimously" win asylum in the UK in a landmark ruling after initially being rejected and told they could hide their homosexuality by "behaving discreetly". 
 
 Homosexuals who cannot live an open life in their own countries without fear of persecution should be entitled to asylum in Britain, the Supreme Court said on Wednesday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk/10180564.stm)
 2. [Daily Express](http://www.dailyexpress.co.uk/posts/view/185617/Now-asylum-if-you-re-gay/)
@@ -15,8 +19,8 @@ Homosexuals who cannot live an open life in their own countries without fear of 
 
 ### Related:
 
-1. [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md) _Context: Iran_
-2. [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md) _Context: Iran_
-3. [Soldiers in Buea and Bamenda, Cameroon, shoot dead a total of at least eight people during various protests by Anglophone separatists. ](/news/2017/10/1/soldiers-in-buea-and-bamenda-cameroon-shoot-dead-a-total-of-at-least-eight-people-during-various-protests-by-anglophone-separatists.md) _Context: Cameroon_
-4. [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq-turkey.md) _Context: Iran_
-5. [Iran successfully tests the Khorramshahr missile. ](/news/2017/09/23/iran-successfully-tests-the-khorramshahr-missile.md) _Context: Iran_
+1. [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md) _Context: Iran_
+2. [The U.S. Treasury sanctions five Iranian entities associated with Iran's ballistic missile program. ](/news/2018/01/4/the-u-s-treasury-sanctions-five-iranian-entities-associated-with-iran-s-ballistic-missile-program.md) _Context: Iran_
+3. [U.S. President Donald Trump says he is extending sanctions relief for Iran one last time so Europe and the U.S. can fix the nuclear deal's "terrible flaws". ](/news/2018/01/13/u-s-president-donald-trump-says-he-is-extending-sanctions-relief-for-iran-one-last-time-so-europe-and-the-u-s-can-fix-the-nuclear-deal-s.md) _Context: Iran_
+4. [Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. ](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as-the-largest-anti-government-protests-since-2009-continue.md) _Context: Iran_
+5. [Two protesters are shot dead by Iranian police in Dorud, Lorestan Province, as anti-government protests spread across the country. ](/news/2017/12/30/two-protesters-are-shot-dead-by-iranian-police-in-dorud-lorestan-province-as-anti-government-protests-spread-across-the-country.md) _Context: Iran_

@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/10/8/archaeologists-date-cave-paintings-in-maros-on-the-indonesian-island-of-sulawesi-as-being-40-000-years-old-which-is-as-old-as-similar-works.html)  [JSON](/news/2014/10/8/archaeologists-date-cave-paintings-in-maros-on-the-indonesian-island-of-sulawesi-as-being-40-000-years-old-which-is-as-old-as-similar-works.json)  [XML](/news/2014/10/8/archaeologists-date-cave-paintings-in-maros-on-the-indonesian-island-of-sulawesi-as-being-40-000-years-old-which-is-as-old-as-similar-works.xml)  
+
 ### [2014-10-8](/news/2014/10/8/index.md)
 
+##### cave painting
 # Archaeologists date cave paintings in Maros on the Indonesian island of Sulawesi as being 40,000 years old, which is as old as similar works in Europe. 
 
+The paintings of hands and animals in seven limestone caves on Sulawesi had previously been dismissed as no more than 10,000 years old.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2014/10/09/science/ancient-indonesian-find-may-rival-oldest-known-cave-art.html?_r=0)
+1. [New York Times](https://www.nytimes.com/2014/10/09/science/ancient-indonesian-find-may-rival-oldest-known-cave-art.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2014/10/09/science/09cave/09cave-videoSixteenByNine1050.jpg)
 
 ### Related:
 

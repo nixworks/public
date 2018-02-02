@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/12/7/us-airways-makes-a-formal-merger-proposal-to-the-parent-of-american-airlines-one-that-values-the-combined-entity-at-8-5-billion.html)  [JSON](/news/2012/12/7/us-airways-makes-a-formal-merger-proposal-to-the-parent-of-american-airlines-one-that-values-the-combined-entity-at-8-5-billion.json)  [XML](/news/2012/12/7/us-airways-makes-a-formal-merger-proposal-to-the-parent-of-american-airlines-one-that-values-the-combined-entity-at-8-5-billion.xml)  
+
 ### [2012-12-7](/news/2012/12/7/index.md)
 
+##### US Airways
 # US Airways makes a formal merger proposal to the parent of American Airlines, one that values the combined entity at $8.5 billion. 
 
 US Airways Group Inc has made a formal merger proposal to American Airlines parent AMR Corp and its creditors that could value the combined airline at around $8.5 billion, two people familiar with the matter said on Friday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/07/us-amr-pilots-idUSBRE8B614320121207)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121207&t=2&i=682427749&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B61P8Y00)
+1. [Reuters](https://www.reuters.com/article/2012/12/07/us-amr-pilots-idUSBRE8B614320121207)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121207&t=2&i=682427749&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B61P8Y00)
 
 ### Related:
 

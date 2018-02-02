@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/24/sun-microsystems-won-a-major-antitrust-victory-against-microsoft-when-a-federal-judge-ordered-microsoft-to-distribute-sun-s-java-programming.html)  [JSON](/news/2002/12/24/sun-microsystems-won-a-major-antitrust-victory-against-microsoft-when-a-federal-judge-ordered-microsoft-to-distribute-sun-s-java-programming.json)  [XML](/news/2002/12/24/sun-microsystems-won-a-major-antitrust-victory-against-microsoft-when-a-federal-judge-ordered-microsoft-to-distribute-sun-s-java-programming.xml)  
+
 ### [2002-12-24](/news/2002/12/24/index.md)
 
+##### Sun Microsystems
 # Sun Microsystems won a major antitrust victory against Microsoft when a federal judge ordered Microsoft to distribute Sun's Java programming language in its Microsoft Windows operating system.
 
 

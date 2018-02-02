@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/25/iraq-war-heavy-fighting-rages-in-basra-as-thousands-of-iraqi-troops-battle-shia-militants.html)  [JSON](/news/2008/03/25/iraq-war-heavy-fighting-rages-in-basra-as-thousands-of-iraqi-troops-battle-shia-militants.json)  [XML](/news/2008/03/25/iraq-war-heavy-fighting-rages-in-basra-as-thousands-of-iraqi-troops-battle-shia-militants.xml)  
+
 ### [2008-03-25](/news/2008/03/25/index.md)
 
+##### Iraq War
 #  Iraq War: Heavy fighting rages in Basra as thousands of Iraqi troops battle Shia militants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7312078.stm)
 

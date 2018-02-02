@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/21/u-s-backed-syrian-democratic-forces-advance-to-
 
 ### [2016-12-21](/news/2016/12/21/index.md)
 
+##### Northern Raqqa offensive
 # U.S.-backed Syrian Democratic Forces advance to eight kilometers (five miles) from the largest prison held by ISIL near the Tabqa Dam. 
 
 BEIRUT (AFP) - A US-backed Arab-Kurdish alliance advanced Wednesday (Dec 21) to several kilometres from the largest prison held by the Islamic State jihadist group in Syria&#039;s northern province of Raqa, a monitor said.. Read more at straitstimes.com.

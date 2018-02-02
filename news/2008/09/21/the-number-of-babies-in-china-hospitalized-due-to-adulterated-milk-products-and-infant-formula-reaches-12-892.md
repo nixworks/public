@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/21/the-number-of-babies-in-china-hospitalized-due-to-adulterated-milk-products-and-infant-formula-reaches-12-892.html)  [JSON](/news/2008/09/21/the-number-of-babies-in-china-hospitalized-due-to-adulterated-milk-products-and-infant-formula-reaches-12-892.json)  [XML](/news/2008/09/21/the-number-of-babies-in-china-hospitalized-due-to-adulterated-milk-products-and-infant-formula-reaches-12-892.xml)  
+
 ### [2008-09-21](/news/2008/09/21/index.md)
 
+##### China
 #  The number of babies in China hospitalized due to adulterated milk products and infant formula reaches 12,892. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/09/21/china.tainted.milk/index.html)
 

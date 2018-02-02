@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/11/the-president-of-the-tokyo-electric-power-co-visits-the-government-offices-of-fukushima-prefecture-and-the-command-centre-for-the-fukushima.html)  [JSON](/news/2011/04/11/the-president-of-the-tokyo-electric-power-co-visits-the-government-offices-of-fukushima-prefecture-and-the-command-centre-for-the-fukushima.json)  [XML](/news/2011/04/11/the-president-of-the-tokyo-electric-power-co-visits-the-government-offices-of-fukushima-prefecture-and-the-command-centre-for-the-fukushima.xml)  
+
 ### [2011-04-11](/news/2011/04/11/index.md)
 
+##### Tokyo Electric Power Co.
 # The President of the Tokyo Electric Power Co. visits the government offices of Fukushima Prefecture and the command centre for the Fukushima I nuclear accidents to apologise. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/04/11/japan.nuclear.reactors/index.html?eref=rss_latest)
 2. [Kyodo](http://english.kyodonews.jp/news/2011/04/84446.html)

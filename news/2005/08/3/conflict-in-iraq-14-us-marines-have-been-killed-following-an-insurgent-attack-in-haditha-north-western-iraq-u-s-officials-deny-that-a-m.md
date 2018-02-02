@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/3/conflict-in-iraq-14-us-marines-have-been-killed-following-an-insurgent-attack-in-haditha-north-western-iraq-u-s-officials-deny-that-a-m.html)  [JSON](/news/2005/08/3/conflict-in-iraq-14-us-marines-have-been-killed-following-an-insurgent-attack-in-haditha-north-western-iraq-u-s-officials-deny-that-a-m.json)  [XML](/news/2005/08/3/conflict-in-iraq-14-us-marines-have-been-killed-following-an-insurgent-attack-in-haditha-north-western-iraq-u-s-officials-deny-that-a-m.xml)  
+
 ### [2005-08-3](/news/2005/08/3/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: 14 US Marines have been killed following an insurgent attack in Haditha, north-western Iraq. U.S. Officials deny that a Marine has been taken hostage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4741989.stm)
 

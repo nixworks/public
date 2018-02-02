@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/26/hillary-clinton-is-nominated-as-the-democratic-
 
 ### [2016-07-26](/news/2016/07/26/index.md)
 
+##### 2016 Democratic National Convention
 # Hillary Clinton is nominated as the Democratic Party candidate for this year's presidential election. She becomes the first woman ever to be nominated for president by a major party in the United States.
 
 Follow live updates from the second night of the DNC with Bill Clinton speaking after Hillary Clinton is formally nominated in a historic roll call

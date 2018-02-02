@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/13/a-high-speed-ferry-in-macau-hits-a-breakwater-injuring-58-people.html)  [JSON](/news/2014/06/13/a-high-speed-ferry-in-macau-hits-a-breakwater-injuring-58-people.json)  [XML](/news/2014/06/13/a-high-speed-ferry-in-macau-hits-a-breakwater-injuring-58-people.xml)  
+
 ### [2014-06-13](/news/2014/06/13/index.md)
 
+##### Macau
 # A high speed ferry in Macau hits a breakwater, injuring 58 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/06/13/macau-high-speed-ferry-hits-breakwater-injuring-58/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2014/06/13/macau-high-speed-ferry-hits-breakwater-injuring-58/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422720093178.jpg?ve=1)

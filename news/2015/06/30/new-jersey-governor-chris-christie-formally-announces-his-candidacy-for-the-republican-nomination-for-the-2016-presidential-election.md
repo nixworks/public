@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2015/06/30/new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nomination-for-the-2016-presidential-election.html)  [JSON](/news/2015/06/30/new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nomination-for-the-2016-presidential-election.json)  [XML](/news/2015/06/30/new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nomination-for-the-2016-presidential-election.xml)  
+
 ### [2015-06-30](/news/2015/06/30/index.md)
 
+##### New Jersey Governor
 #  New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/06/30/politics/chris-christie-2016-presidential-campaign/index.html)
+
+### Changes:
+
+1. [ United States presidential election, 2016: New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/united-states-presidential-election-2016-p-new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nominati.md) _2017-08-25 03:42:19 (First version)_
+2. [ United States presidential election, 2016:: New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/united-states-presidential-election-2016-new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nominati.md) _2017-08-27 03:42:37 (Update)_
+2. [ New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nomination-for-the-2016-presidential-election.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [New Jersey Governor Chris Christie is sued for his role on "Bridgegate". ](/news/2014/01/9/new-jersey-governor-chris-christie-is-sued-for-his-role-on-bridgegate.md) _Context: Chris Christie, New Jersey Governor_
 4. [New Jersey Governor Chris Christie apologizes for his senior aides intentionally causing a traffic jam on the George Washington Bridge for political retribution in September 2013. ](/news/2014/01/9/new-jersey-governor-chris-christie-apologizes-for-his-senior-aides-intentionally-causing-a-traffic-jam-on-the-george-washington-bridge-for-p.md) _Context: Chris Christie, New Jersey Governor_
 5. [Chris Christie is re-elected Governor of New Jersey.Terry McAuliffe is narrowly elected Governor of Virginia.Bill de Blasio is elected Mayor of New York City.](/news/2013/11/5/chris-christie-is-re-elected-governor-of-new-jersey-terry-mcauliffe-is-narrowly-elected-governor-of-virginia-bill-de-blasio-is-elected-mayor.md) _Context: Chris Christie, New Jersey Governor_
-
-### Changes:
-
-1. [ United States presidential election, 2016: New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/united-states-presidential-election-2016-p-new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nominati.md) _2017-08-25 03:42:19 (First version)_
-2. [ United States presidential election, 2016:: New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/united-states-presidential-election-2016-new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nominati.md) _2017-08-27 03:42:37 (Update)_
-2. [ New Jersey governor Chris Christie formally announces his candidacy for the Republican nomination for the 2016 presidential election. ](/news/2015/06/30/new-jersey-governor-chris-christie-formally-announces-his-candidacy-for-the-republican-nomination-for-the-2016-presidential-election.md) _(Current version)_

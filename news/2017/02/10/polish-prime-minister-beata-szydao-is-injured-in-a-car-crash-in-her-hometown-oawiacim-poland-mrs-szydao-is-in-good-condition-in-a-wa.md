@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/10/polish-prime-minister-beata-szydao-is-injured-i
 
 ### [2017-02-10](/news/2017/02/10/index.md)
 
+##### Polish Prime Minister
 # Polish Prime Minister Beata Szydlo is injured in a car crash in her hometown, Oswiecim, Poland. Mrs. Szydlo is in good condition in a Warsaw hospital. 
 
 WARSAW, Poland (AP) — Prime Minister Beata Szydlo suffered injuries in a car crash in southern Poland on Friday and was flown by helicopter to Warsaw for medical tests, even though doctors and her spokesman said that she…

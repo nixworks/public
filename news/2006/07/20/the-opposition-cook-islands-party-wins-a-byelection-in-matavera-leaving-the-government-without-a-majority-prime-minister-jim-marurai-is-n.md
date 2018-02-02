@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/20/the-opposition-cook-islands-party-wins-a-byelection-in-matavera-leaving-the-government-without-a-majority-prime-minister-jim-marurai-is-n.html)  [JSON](/news/2006/07/20/the-opposition-cook-islands-party-wins-a-byelection-in-matavera-leaving-the-government-without-a-majority-prime-minister-jim-marurai-is-n.json)  [XML](/news/2006/07/20/the-opposition-cook-islands-party-wins-a-byelection-in-matavera-leaving-the-government-without-a-majority-prime-minister-jim-marurai-is-n.xml)  
+
 ### [2006-07-20](/news/2006/07/20/index.md)
 
+##### Cook Islands Party
 #  The opposition Cook Islands Party wins a byelection in Matavera, leaving the Government without a majority. Prime Minister Jim Marurai is not conceding defeat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio NZ](http://www.rnzi.com/pages/news.php?op=read&id=25570)
 

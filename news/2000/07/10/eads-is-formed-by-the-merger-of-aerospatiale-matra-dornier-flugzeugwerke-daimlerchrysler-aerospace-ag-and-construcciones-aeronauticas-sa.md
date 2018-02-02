@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/07/10/eads-is-formed-by-the-merger-of-aerospatiale-matra-dornier-flugzeugwerke-daimlerchrysler-aerospace-ag-and-construcciones-aeronauticas-sa.html)  [JSON](/news/2000/07/10/eads-is-formed-by-the-merger-of-aerospatiale-matra-dornier-flugzeugwerke-daimlerchrysler-aerospace-ag-and-construcciones-aeronauticas-sa.json)  [XML](/news/2000/07/10/eads-is-formed-by-the-merger-of-aerospatiale-matra-dornier-flugzeugwerke-daimlerchrysler-aerospace-ag-and-construcciones-aeronauticas-sa.xml)  
+
 ### [2000-07-10](/news/2000/07/10/index.md)
 
+##### EADS
 # EADS is formed by the merger of Arospatiale-Matra, Dornier Flugzeugwerke, DaimlerChrysler Aerospace AG and Construcciones Aeronuticas SA.
 
 

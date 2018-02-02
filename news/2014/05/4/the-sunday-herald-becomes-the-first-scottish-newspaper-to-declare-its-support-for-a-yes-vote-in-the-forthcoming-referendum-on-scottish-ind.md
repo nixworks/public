@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/05/4/the-sunday-herald-becomes-the-first-scottish-newspaper-to-declare-its-support-for-a-yes-vote-in-the-forthcoming-referendum-on-scottish-ind.html)  [JSON](/news/2014/05/4/the-sunday-herald-becomes-the-first-scottish-newspaper-to-declare-its-support-for-a-yes-vote-in-the-forthcoming-referendum-on-scottish-ind.json)  [XML](/news/2014/05/4/the-sunday-herald-becomes-the-first-scottish-newspaper-to-declare-its-support-for-a-yes-vote-in-the-forthcoming-referendum-on-scottish-ind.xml)  
+
 ### [2014-05-4](/news/2014/05/4/index.md)
 
+##### The Sunday Herald
 # "The Sunday Herald" becomes the first Scottish newspaper to declare its support for a Yes vote in the forthcoming referendum on Scottish independence. 
 
 The Sunday Herald becomes the first newspaper to publicly back a &quot;Yes&quot; vote in the Scottish independence referendum.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-27274460)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74631000/jpg/_74631587_herald.jpg)
+
+### Changes:
+
+1. [''The Sunday Herald'' becomes the first Scottish newspaper to declare its support for a Yes vote in the forthcoming referendum on Scottish independence. ](/news/2014/05/4/the-sunday-herald-becomes-the-first-scottish-newspaper-to-declare-its-support-for-a-yes-vote-in-the-forthcoming-referendum-on-scottish-i.md) _2017-08-25 03:40:22 (First version)_
+1. ["The Sunday Herald" becomes the first Scottish newspaper to declare its support for a Yes vote in the forthcoming referendum on Scottish independence. ](/news/2014/05/4/the-sunday-herald-becomes-the-first-scottish-newspaper-to-declare-its-support-for-a-yes-vote-in-the-forthcoming-referendum-on-scottish-ind.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ The Sunday Herald becomes the first newspaper to publicly back a &quot;Yes&quot;
 3. [A surge for the yes-campaign following the TV debate "Scotland Decides: Salmond versus Darling" culminates with a poll from YouGov and The Sunday Times showing that a majority will vote in favor of Scottish independence. ](/news/2014/09/6/a-surge-for-the-yes-campaign-following-the-tv-debate-scotland-decides-salmond-versus-darling-culminates-with-a-poll-from-yougov-and-the-s.md) _Context: independence referendum_
 4. [Voters in Scotland go to the polls to vote on the referendum on independence. ](/news/2014/09/18/voters-in-scotland-go-to-the-polls-to-vote-on-the-referendum-on-independence.md) _Context: independence referendum_
 5. [The Scottish Government agrees to change the wording of the question on the forthcoming Scottish independence referendum after concerns were expressed that it could lead people to vote yes. ](/news/2013/01/30/the-scottish-government-agrees-to-change-the-wording-of-the-question-on-the-forthcoming-scottish-independence-referendum-after-concerns-were.md) _Context: independence referendum_
-
-### Changes:
-
-1. [''The Sunday Herald'' becomes the first Scottish newspaper to declare its support for a Yes vote in the forthcoming referendum on Scottish independence. ](/news/2014/05/4/the-sunday-herald-becomes-the-first-scottish-newspaper-to-declare-its-support-for-a-yes-vote-in-the-forthcoming-referendum-on-scottish-i.md) _2017-08-25 03:40:22 (First version)_
-1. ["The Sunday Herald" becomes the first Scottish newspaper to declare its support for a Yes vote in the forthcoming referendum on Scottish independence. ](/news/2014/05/4/the-sunday-herald-becomes-the-first-scottish-newspaper-to-declare-its-support-for-a-yes-vote-in-the-forthcoming-referendum-on-scottish-ind.md) _(Current version)_

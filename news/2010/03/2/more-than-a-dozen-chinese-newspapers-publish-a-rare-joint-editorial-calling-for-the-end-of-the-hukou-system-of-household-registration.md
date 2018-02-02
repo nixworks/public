@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/2/more-than-a-dozen-chinese-newspapers-publish-a-rare-joint-editorial-calling-for-the-end-of-the-hukou-system-of-household-registration.html)  [JSON](/news/2010/03/2/more-than-a-dozen-chinese-newspapers-publish-a-rare-joint-editorial-calling-for-the-end-of-the-hukou-system-of-household-registration.json)  [XML](/news/2010/03/2/more-than-a-dozen-chinese-newspapers-publish-a-rare-joint-editorial-calling-for-the-end-of-the-hukou-system-of-household-registration.xml)  
+
 ### [2010-03-2](/news/2010/03/2/index.md)
 
+##### China
 # More than a dozen Chinese newspapers publish a rare joint editorial calling for the end of the hukou system of household registration. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hvbkGZlaQhw65kFqluQIxjP-KkhwD9E6FBCG0)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8544650.stm)

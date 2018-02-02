@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/27/pakistan-and-bangladesh-reject-charges-by-india-that-terror-outfits-operating-in-their-countries-were-behind-the-hyderabad-bomb-blasts-whic.html)  [JSON](/news/2007/08/27/pakistan-and-bangladesh-reject-charges-by-india-that-terror-outfits-operating-in-their-countries-were-behind-the-hyderabad-bomb-blasts-whic.json)  [XML](/news/2007/08/27/pakistan-and-bangladesh-reject-charges-by-india-that-terror-outfits-operating-in-their-countries-were-behind-the-hyderabad-bomb-blasts-whic.xml)  
+
 ### [2007-08-27](/news/2007/08/27/index.md)
 
+##### Pakistan
 #  Pakistan and Bangladesh reject charges by India that terror outfits operating in their countries were behind the Hyderabad bomb blasts which killed 42 and injured over 60. 
 
 

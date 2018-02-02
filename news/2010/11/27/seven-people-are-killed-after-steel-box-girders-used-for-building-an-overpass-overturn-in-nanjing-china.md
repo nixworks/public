@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/27/seven-people-are-killed-after-steel-box-girders-used-for-building-an-overpass-overturn-in-nanjing-china.html)  [JSON](/news/2010/11/27/seven-people-are-killed-after-steel-box-girders-used-for-building-an-overpass-overturn-in-nanjing-china.json)  [XML](/news/2010/11/27/seven-people-are-killed-after-steel-box-girders-used-for-building-an-overpass-overturn-in-nanjing-china.xml)  
+
 ### [2010-11-27](/news/2010/11/27/index.md)
 
+##### Nanjing
 # Seven people are killed after steel box girders used for building an overpass overturn in Nanjing, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua via ''Shanghai Daily](http://www.shanghaidaily.com/sp/article/2010/201011/20101127/article_455730.htm)
 

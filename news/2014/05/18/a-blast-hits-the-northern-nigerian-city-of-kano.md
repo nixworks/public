@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/18/a-blast-hits-the-northern-nigerian-city-of-kano.html)  [JSON](/news/2014/05/18/a-blast-hits-the-northern-nigerian-city-of-kano.json)  [XML](/news/2014/05/18/a-blast-hits-the-northern-nigerian-city-of-kano.xml)  
+
 ### [2014-05-18](/news/2014/05/18/index.md)
 
+##### Nigeria
 # A blast hits the northern Nigerian city of Kano. 
 
 A suicide blast in a street full of bars and restaurants in the northern Nigerian city of Kano killed four people, police say.
 
 
-### Source:
+### Sources:
 
 1. [ (BBC](http://www.bbc.com/news/world-africa-27465113)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/74946000/jpg/_74946110_74946109.jpg)

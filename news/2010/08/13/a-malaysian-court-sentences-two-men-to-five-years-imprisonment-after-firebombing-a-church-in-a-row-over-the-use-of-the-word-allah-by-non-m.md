@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/13/a-malaysian-court-sentences-two-men-to-five-years-imprisonment-after-firebombing-a-church-in-a-row-over-the-use-of-the-word-allah-by-non-m.html)  [JSON](/news/2010/08/13/a-malaysian-court-sentences-two-men-to-five-years-imprisonment-after-firebombing-a-church-in-a-row-over-the-use-of-the-word-allah-by-non-m.json)  [XML](/news/2010/08/13/a-malaysian-court-sentences-two-men-to-five-years-imprisonment-after-firebombing-a-church-in-a-row-over-the-use-of-the-word-allah-by-non-m.xml)  
+
 ### [2010-08-13](/news/2010/08/13/index.md)
 
+##### Malaysia
 # A Malaysian court sentences two men to five years imprisonment after firebombing a church in a row over the use of the word "Allah" by non-Muslims. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iBsivc5w3lwu3BlDOW-WCA4b01cgD9HIEDNG0)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsgeneral.php?id=520988)

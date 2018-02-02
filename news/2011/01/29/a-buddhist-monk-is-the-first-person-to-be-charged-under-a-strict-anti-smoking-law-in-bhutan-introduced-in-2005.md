@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/29/a-buddhist-monk-is-the-first-person-to-be-charged-under-a-strict-anti-smoking-law-in-bhutan-introduced-in-2005.html)  [JSON](/news/2011/01/29/a-buddhist-monk-is-the-first-person-to-be-charged-under-a-strict-anti-smoking-law-in-bhutan-introduced-in-2005.json)  [XML](/news/2011/01/29/a-buddhist-monk-is-the-first-person-to-be-charged-under-a-strict-anti-smoking-law-in-bhutan-introduced-in-2005.xml)  
+
 ### [2011-01-29](/news/2011/01/29/index.md)
 
+##### Buddhists
 # A Buddhist monk is the first person to be charged under a strict anti-smoking law in Bhutan, introduced in 2005. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_629630.html)
 

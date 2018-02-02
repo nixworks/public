@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/9/jimmy-lemi-milla-a-south-sudanese-minister-and-his-bodyguard-are-shot-dead-apparently-as-a-result-of-a-personal-dispute.html)  [JSON](/news/2011/02/9/jimmy-lemi-milla-a-south-sudanese-minister-and-his-bodyguard-are-shot-dead-apparently-as-a-result-of-a-personal-dispute.json)  [XML](/news/2011/02/9/jimmy-lemi-milla-a-south-sudanese-minister-and-his-bodyguard-are-shot-dead-apparently-as-a-result-of-a-personal-dispute.xml)  
+
 ### [2011-02-9](/news/2011/02/9/index.md)
 
+##### Jimmy Lemi Milla
 # Jimmy Lemi Milla, a South Sudanese minister, and his bodyguard are shot dead apparently as a result of a personal dispute. 
 
 Jimmy Lemi Milla, minister for cooperatives and reural development, shot dead alongside his bodyguard in personal feud
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201129133511388343.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/5/20112518740102811_20.jpg)

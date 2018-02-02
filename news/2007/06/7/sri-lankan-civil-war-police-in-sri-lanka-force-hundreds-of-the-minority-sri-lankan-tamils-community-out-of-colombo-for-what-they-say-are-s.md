@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/7/sri-lankan-civil-war-police-in-sri-lanka-force-hundreds-of-the-minority-sri-lankan-tamils-community-out-of-colombo-for-what-they-say-are-s.html)  [JSON](/news/2007/06/7/sri-lankan-civil-war-police-in-sri-lanka-force-hundreds-of-the-minority-sri-lankan-tamils-community-out-of-colombo-for-what-they-say-are-s.json)  [XML](/news/2007/06/7/sri-lankan-civil-war-police-in-sri-lanka-force-hundreds-of-the-minority-sri-lankan-tamils-community-out-of-colombo-for-what-they-say-are-s.xml)  
+
 ### [2007-06-7](/news/2007/06/7/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: Police in Sri Lanka force hundreds of the minority Sri Lankan Tamils community out of Colombo for what they say are security reasons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6729555.stm)
 

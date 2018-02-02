@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/6/saudi-forces-continue-more-raids-against-rebel-houthi-fighters-in-northern-yemen-after-rebel-fighters-killed-a-saudi-security-official.html)  [JSON](/news/2009/11/6/saudi-forces-continue-more-raids-against-rebel-houthi-fighters-in-northern-yemen-after-rebel-fighters-killed-a-saudi-security-official.json)  [XML](/news/2009/11/6/saudi-forces-continue-more-raids-against-rebel-houthi-fighters-in-northern-yemen-after-rebel-fighters-killed-a-saudi-security-official.xml)  
+
 ### [2009-11-6](/news/2009/11/6/index.md)
 
+##### Saudi Arabia
 #  Saudi forces continue more raids against rebel Houthi fighters in northern Yemen, after rebel fighters killed a Saudi security official. 
 
 Jets and ground forces hit Yemeni rebel fighters for third consecutive day.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/11/2009116125810626250.html)
 2. [UPI](http://www.upi.com/Top_News/International/2009/11/06/Saudi-Arabia-bombs-Yemeni-rebels/UPI-42251257487353/)

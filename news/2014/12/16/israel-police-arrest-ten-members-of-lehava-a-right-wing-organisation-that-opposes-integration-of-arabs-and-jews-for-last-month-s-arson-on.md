@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/16/israel-police-arrest-ten-members-of-lehava-a-right-wing-organisation-that-opposes-integration-of-arabs-and-jews-for-last-month-s-arson-on.html)  [JSON](/news/2014/12/16/israel-police-arrest-ten-members-of-lehava-a-right-wing-organisation-that-opposes-integration-of-arabs-and-jews-for-last-month-s-arson-on.json)  [XML](/news/2014/12/16/israel-police-arrest-ten-members-of-lehava-a-right-wing-organisation-that-opposes-integration-of-arabs-and-jews-for-last-month-s-arson-on.xml)  
+
 ### [2014-12-16](/news/2014/12/16/index.md)
 
+##### Israeli police
 # Israel Police arrest ten members of Lehava, a right-wing organisation that opposes integration of Arabs and Jews, for last month's arson on an Arab&ndash;Jewish school. 
 
 Bentzi Gopshtain and nine others held on suspicion of incitement to violence and terror, day after members charged in bilingual school arson
 
 
-### Source:
+### Sources:
 
 1. [Times of Israel](http://www.timesofisrael.com/police-arrest-head-of-anti-assimilation-group-lehava/)
 1. [Cover Image](http://cdn.timesofisrael.com/uploads/2014/12/F141030YS23-e1418710536813.jpg)

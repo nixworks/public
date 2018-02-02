@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/15/mount-lokon-on-indonesia-s-sulawesi-island-erupts-prompting-thousands-of-people-to-flee.html)  [JSON](/news/2011/07/15/mount-lokon-on-indonesia-s-sulawesi-island-erupts-prompting-thousands-of-people-to-flee.json)  [XML](/news/2011/07/15/mount-lokon-on-indonesia-s-sulawesi-island-erupts-prompting-thousands-of-people-to-flee.xml)  
+
 ### [2011-07-15](/news/2011/07/15/index.md)
 
+##### Mount Lokon
 # Mount Lokon on Indonesia's Sulawesi island erupts prompting thousands of people to flee. 
 
 An Indonesian volcano has erupted, spewing rocks, lava and ash hundreds of metres into the air.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Online](http://www.abc.net.au/news/2011-07-15/indonesia-volcano-erupts/2796222?WT.mc_id=newsmail)
 2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/07/15/indonesia.volcano/index.html?eref=edition)

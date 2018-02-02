@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/28/kenya-s-internal-security-minister-george-saitoti-is-named-as-acting-foreign-minister-following-the-resignation-of-moses-wetangula-amid-an-e.html)  [JSON](/news/2010/10/28/kenya-s-internal-security-minister-george-saitoti-is-named-as-acting-foreign-minister-following-the-resignation-of-moses-wetangula-amid-an-e.json)  [XML](/news/2010/10/28/kenya-s-internal-security-minister-george-saitoti-is-named-as-acting-foreign-minister-following-the-resignation-of-moses-wetangula-amid-an-e.xml)  
+
 ### [2010-10-28](/news/2010/10/28/index.md)
 
+##### Kenya
 # Kenya's internal security minister George Saitoti is named as acting foreign minister following the resignation of Moses Wetangula amid an embassy property scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kenya Broadcasting Corporation](http://www.kbc.co.ke/news.asp?nid=67246)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE69R0HL20101028?feedType=RSS&feedName=topNews&rpc=401&sp=true)

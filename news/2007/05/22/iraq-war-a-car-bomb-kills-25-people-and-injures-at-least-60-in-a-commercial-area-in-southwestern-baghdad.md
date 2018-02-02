@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/22/iraq-war-a-car-bomb-kills-25-people-and-injures-at-least-60-in-a-commercial-area-in-southwestern-baghdad.html)  [JSON](/news/2007/05/22/iraq-war-a-car-bomb-kills-25-people-and-injures-at-least-60-in-a-commercial-area-in-southwestern-baghdad.json)  [XML](/news/2007/05/22/iraq-war-a-car-bomb-kills-25-people-and-injures-at-least-60-in-a-commercial-area-in-southwestern-baghdad.xml)  
+
 ### [2007-05-22](/news/2007/05/22/index.md)
 
+##### Iraq War
 #  Iraq War: A car bomb kills 25 people and injures at least 60 in a commercial area in southwestern Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L22259740.htm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/31/the-stock-market-continues-its-recovery-from-the-stock-market-downturn-of-2002.html)  [JSON](/news/2002/07/31/the-stock-market-continues-its-recovery-from-the-stock-market-downturn-of-2002.json)  [XML](/news/2002/07/31/the-stock-market-continues-its-recovery-from-the-stock-market-downturn-of-2002.xml)  
+
 ### [2002-07-31](/news/2002/07/31/index.md)
 
+##### stock market
 # The stock market continues its recovery from the Stock market downturn of 2002
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/18/tropical-storm-gamma-forms-from-a-regeneration-of-tropical-depression-27-becoming-the-24th-named-storm-of-the-2005-atlantic-hurricane-seas.html)  [JSON](/news/2005/11/18/tropical-storm-gamma-forms-from-a-regeneration-of-tropical-depression-27-becoming-the-24th-named-storm-of-the-2005-atlantic-hurricane-seas.json)  [XML](/news/2005/11/18/tropical-storm-gamma-forms-from-a-regeneration-of-tropical-depression-27-becoming-the-24th-named-storm-of-the-2005-atlantic-hurricane-seas.xml)  
+
 ### [2005-11-18](/news/2005/11/18/index.md)
 
+##### Tropical Storm Gamma
 #  Tropical Storm Gamma forms from a regeneration of Tropical Depression 27, becoming the 24th named storm of the 2005 Atlantic hurricane season. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NHC](http://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/182033.shtml)
 

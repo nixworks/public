@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/10/30/thomas-menino-former-mayor-of-boston-massachusetts-and-the-longest-serving-mayor-in-the-city-s-history-dies-of-cancer-at-the-age-of-71.html)  [JSON](/news/2014/10/30/thomas-menino-former-mayor-of-boston-massachusetts-and-the-longest-serving-mayor-in-the-city-s-history-dies-of-cancer-at-the-age-of-71.json)  [XML](/news/2014/10/30/thomas-menino-former-mayor-of-boston-massachusetts-and-the-longest-serving-mayor-in-the-city-s-history-dies-of-cancer-at-the-age-of-71.xml)  
+
 ### [2014-10-30](/news/2014/10/30/index.md)
 
+##### Thomas Menino
 # Thomas Menino, former mayor of Boston, Massachusetts, and the longest-serving mayor in the city's history, dies of cancer at the age of 71. 
 
 Thomas Michael Menino, who served an unprecedented five consecutive terms in City Hall, died Thursday. He was 71 and was diagnosed with advanced cancer not long after leaving office at the beginning of this year.
 
 
-### Source:
+### Sources:
 
-1. [Boston Globe](http://www.bostonglobe.com/metro/2014/10/30/thomas-menino-boston-longest-serving-mayor-has-died-age/zAuWXQ4ccPJSv7uuW0kcDK/story.html)
+1. [Boston Globe](https://www.bostonglobe.com/metro/2014/10/30/thomas-menino-boston-longest-serving-mayor-has-died-age/zAuWXQ4ccPJSv7uuW0kcDK/story.html)
 1. [Cover Image](http://www.bostonglobe.com/rf/image_585w/Boston/2011-2020/2014/10/30/BostonGlobe.com/Metro/Images/mayor22]-8585.jpg)
 
 ### Related:

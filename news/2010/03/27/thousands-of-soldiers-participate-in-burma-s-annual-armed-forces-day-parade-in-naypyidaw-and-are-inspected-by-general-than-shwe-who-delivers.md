@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/27/thousands-of-soldiers-participate-in-burma-s-annual-armed-forces-day-parade-in-naypyidaw-and-are-inspected-by-general-than-shwe-who-delivers.html)  [JSON](/news/2010/03/27/thousands-of-soldiers-participate-in-burma-s-annual-armed-forces-day-parade-in-naypyidaw-and-are-inspected-by-general-than-shwe-who-delivers.json)  [XML](/news/2010/03/27/thousands-of-soldiers-participate-in-burma-s-annual-armed-forces-day-parade-in-naypyidaw-and-are-inspected-by-general-than-shwe-who-delivers.xml)  
+
 ### [2010-03-27](/news/2010/03/27/index.md)
 
+##### Burma
 # Thousands of soldiers participate in Burma's annual Armed Forces Day parade in Naypyidaw and are inspected by General Than Shwe who delivers a rare public address. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8590387.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/172917/burma-leader-issues-election-warning-at-military-parade)

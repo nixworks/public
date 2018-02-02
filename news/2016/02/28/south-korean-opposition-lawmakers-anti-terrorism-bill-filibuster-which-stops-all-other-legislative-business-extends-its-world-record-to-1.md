@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/28/south-korean-opposition-lawmakers-anti-terroris
 
 ### [2016-02-28](/news/2016/02/28/index.md)
 
+##### South Korea
 # South Korean opposition lawmakers' anti-terrorism bill filibuster, which stops all other legislative business, extends its world record to 115 hours Sunday afternoon, easily besting Canada's 58-hour session in 2011. The major issue is giving South Korea's intelligence agency powers to monitor private communications. This parliamentary session is set to end March 11, with elections on April 13. 
 
 South Korean opposition lawmakers seeking to block a government-backed &quot;anti-terrorism&quot; bill pushed their record-breaking filibuster into a sixth straight day of speeches in the parliamentary chamber on Sunday.

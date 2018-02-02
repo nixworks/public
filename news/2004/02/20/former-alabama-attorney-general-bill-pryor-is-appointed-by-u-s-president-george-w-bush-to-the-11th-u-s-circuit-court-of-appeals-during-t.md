@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/20/former-alabama-attorney-general-bill-pryor-is-appointed-by-u-s-president-george-w-bush-to-the-11th-u-s-circuit-court-of-appeals-during-t.html)  [JSON](/news/2004/02/20/former-alabama-attorney-general-bill-pryor-is-appointed-by-u-s-president-george-w-bush-to-the-11th-u-s-circuit-court-of-appeals-during-t.json)  [XML](/news/2004/02/20/former-alabama-attorney-general-bill-pryor-is-appointed-by-u-s-president-george-w-bush-to-the-11th-u-s-circuit-court-of-appeals-during-t.xml)  
+
 ### [2004-02-20](/news/2004/02/20/index.md)
 
+##### Bill Pryor
 #  Former Alabama attorney general Bill Pryor is appointed by U.S. President George W. Bush to the 11th U.S. Circuit Court of Appeals during the U.S. Congress's recess period, avoiding U.S. Senate confirmation. Pryor was first nominated in April 2003. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC US](http://abcnews.go.com/wire/Politics/ap20040220_1495.html)
 

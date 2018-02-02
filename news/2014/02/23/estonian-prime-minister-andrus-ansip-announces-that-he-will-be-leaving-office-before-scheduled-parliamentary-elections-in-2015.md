@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/23/estonian-prime-minister-andrus-ansip-announces-that-he-will-be-leaving-office-before-scheduled-parliamentary-elections-in-2015.html)  [JSON](/news/2014/02/23/estonian-prime-minister-andrus-ansip-announces-that-he-will-be-leaving-office-before-scheduled-parliamentary-elections-in-2015.json)  [XML](/news/2014/02/23/estonian-prime-minister-andrus-ansip-announces-that-he-will-be-leaving-office-before-scheduled-parliamentary-elections-in-2015.xml)  
+
 ### [2014-02-23](/news/2014/02/23/index.md)
 
+##### Andrus Ansip
 # Estonian Prime Minister Andrus Ansip announces that he will be leaving office before scheduled parliamentary elections in 2015. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.de/estonian-premier-andrus-ansip-signals-departure/a-17452618)
 

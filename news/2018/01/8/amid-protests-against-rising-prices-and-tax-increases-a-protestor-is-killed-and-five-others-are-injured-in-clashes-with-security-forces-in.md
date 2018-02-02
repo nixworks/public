@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/8/amid-protests-against-rising-prices-and-tax-incr
 
 ### [2018-01-8](/news/2018/01/8/index.md)
 
+##### 2018 Tunisian protests
 # Amid protests against rising prices and tax increases, a protestor is killed and five others are injured in clashes with security forces in the Tunisian town of Tebourba. 
 
 One person was killed on Monday during clashes between security forces and protesters in a Tunisian town near the capital Tunis, state news agency TAP and residents said.

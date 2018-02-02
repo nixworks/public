@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/7/the-philippines-partially-lifts-a-temporary-susp
 
 ### [2017-06-7](/news/2017/06/7/index.md)
 
+##### 2017 Qatar diplomatic crisis
 # The Philippines partially lifts a temporary suspension of deployment of overseas workers to Qatar. 
 
 The Philippine government on Wednesday partially lifted its suspension of deployment of overseas Filipino workers to Qatar, a day after it was implemented. Current top breaking Philippine headlines regarding the nation, world, metro manila, regions and exclusive special investigative reports.

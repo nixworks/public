@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/venezuela-recalls-its-ambassador-to-colombia-following-colombian-accusations-that-venezuela-is-hosting-rebels-on-its-territory.html)  [JSON](/news/2010/07/17/venezuela-recalls-its-ambassador-to-colombia-following-colombian-accusations-that-venezuela-is-hosting-rebels-on-its-territory.json)  [XML](/news/2010/07/17/venezuela-recalls-its-ambassador-to-colombia-following-colombian-accusations-that-venezuela-is-hosting-rebels-on-its-territory.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### Venezuela
 # Venezuela recalls its ambassador to Colombia following Colombian accusations that Venezuela is hosting rebels on its territory. 
 
 Move comes as Caracas rejects Colombian charges that it hosts rebels on its territory.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/2010716153616990995.html)
 1. [Cover Image](http://www.aljazeera.com)

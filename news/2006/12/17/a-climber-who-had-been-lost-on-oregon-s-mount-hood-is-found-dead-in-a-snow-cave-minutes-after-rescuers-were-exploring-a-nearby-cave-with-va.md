@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/17/a-climber-who-had-been-lost-on-oregon-s-mount-hood-is-found-dead-in-a-snow-cave-minutes-after-rescuers-were-exploring-a-nearby-cave-with-va.html)  [JSON](/news/2006/12/17/a-climber-who-had-been-lost-on-oregon-s-mount-hood-is-found-dead-in-a-snow-cave-minutes-after-rescuers-were-exploring-a-nearby-cave-with-va.json)  [XML](/news/2006/12/17/a-climber-who-had-been-lost-on-oregon-s-mount-hood-is-found-dead-in-a-snow-cave-minutes-after-rescuers-were-exploring-a-nearby-cave-with-va.xml)  
+
 ### [2006-12-17](/news/2006/12/17/index.md)
 
+##### Oregon
 #  A climber who had been lost on Oregon's Mount Hood is found dead in a snow cave minutes after rescuers were exploring a nearby cave with various related equipment inside. 
 
 The body of one of the three climbers who have been missing for 10 days on Mount Hood was discovered in a snow cave late Sunday afternoon.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,236983,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

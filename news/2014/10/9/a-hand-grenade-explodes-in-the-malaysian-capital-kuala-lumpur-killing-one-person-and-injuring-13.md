@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/9/a-hand-grenade-explodes-in-the-malaysian-capital-kuala-lumpur-killing-one-person-and-injuring-13.html)  [JSON](/news/2014/10/9/a-hand-grenade-explodes-in-the-malaysian-capital-kuala-lumpur-killing-one-person-and-injuring-13.json)  [XML](/news/2014/10/9/a-hand-grenade-explodes-in-the-malaysian-capital-kuala-lumpur-killing-one-person-and-injuring-13.xml)  
+
 ### [2014-10-9](/news/2014/10/9/index.md)
 
+##### Malaysia
 # A hand grenade explodes in the Malaysian capital Kuala Lumpur killing one person and injuring 13. 
 
 A hand grenade hurled from a parking lot into a popular tourist area of Kuala Lumpur left one person dead and 13 injured.
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/articles/hand-grenade-kills-one-injures-13-in-kuala-lumpur-1412839820?tesla=y&mg=reno64-wsj&url=http://online.wsj.com/article/SB11955092128744023881304580203560440763730.html)
 1. [Cover Image](https://si.wsj.net/public/resources/images/BN-EX688_malexp_G_20141009031303.jpg)

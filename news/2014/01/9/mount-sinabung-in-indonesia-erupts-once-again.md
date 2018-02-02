@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/01/9/mount-sinabung-in-indonesia-erupts-once-again.html)  [JSON](/news/2014/01/9/mount-sinabung-in-indonesia-erupts-once-again.json)  [XML](/news/2014/01/9/mount-sinabung-in-indonesia-erupts-once-again.xml)  
+
 ### [2014-01-9](/news/2014/01/9/index.md)
 
+##### Sinabung
 # Mount Sinabung in Indonesia erupts once again. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Wired](http://www.wired.com/wiredscience/2014/01/eruption-and-humanitarian-crists-at-sinabung-continues/)
+1. [Wired](https://www.wired.com/wiredscience/2014/01/eruption-and-humanitarian-crists-at-sinabung-continues/)
 
 ### Related:
 

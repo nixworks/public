@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/27/venezuelan-president-hugo-cha-vez-claims-that-former-cuban-president-fidel-castro-recently-appeared-publicly-in-havana-for-the-first-time-s.html)  [JSON](/news/2009/02/27/venezuelan-president-hugo-cha-vez-claims-that-former-cuban-president-fidel-castro-recently-appeared-publicly-in-havana-for-the-first-time-s.json)  [XML](/news/2009/02/27/venezuelan-president-hugo-cha-vez-claims-that-former-cuban-president-fidel-castro-recently-appeared-publicly-in-havana-for-the-first-time-s.xml)  
+
 ### [2009-02-27](/news/2009/02/27/index.md)
 
+##### Venezuela
 #  Venezuelan President Hugo Chavez claims that former Cuban President Fidel Castro recently appeared publicly in Havana for the first time since 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0227/breaking67.htm)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

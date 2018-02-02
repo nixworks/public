@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/24/a-machete-attack-in-the-german-city-of-reutling
 
 ### [2016-07-24](/news/2016/07/24/index.md)
 
+##### Reutlingen
 # A machete attack in the German city of Reutlingen by a Syrian asylum-seeker leaves one woman dead and two others injured. 
 
 

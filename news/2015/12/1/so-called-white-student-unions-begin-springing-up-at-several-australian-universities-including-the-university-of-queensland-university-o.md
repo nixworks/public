@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2015/12/1/so-called-white-student-unions-begin-springing-up-at-several-australian-universities-including-the-university-of-queensland-university-o.html)  [JSON](/news/2015/12/1/so-called-white-student-unions-begin-springing-up-at-several-australian-universities-including-the-university-of-queensland-university-o.json)  [XML](/news/2015/12/1/so-called-white-student-unions-begin-springing-up-at-several-australian-universities-including-the-university-of-queensland-university-o.xml)  
+
 ### [2015-12-1](/news/2015/12/1/index.md)
 
+##### Australia
 # So called "White Student Unions" begin springing up at several Australian universities, including the University of Queensland, University of Southern Queensland, University of Technology Sydney, Macquarie University, Western Sydney University, University of New South Wales and the University of Western Australia. The groups say they are defending the interests of white students who they say are becoming marginalized from on-campus life and politics. 
 
 SO-CALLED white student unions are springing up at universities across Australia, charged with supporting and defending the interests of white students who they say are becoming marginalised from on-campus life and political debate.
 
 
-### Source:
+### Sources:
 
 1. [News Corp Australia](http://www.news.com.au/finance/work/careers/behind-the-white-student-unions-springing-up-at-australian-universities/news-story/1ec829bb66b30a8e98544784f1746b75)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/2203e0b46bcf52687f5f2e2a0648328b)
 
 ### Related:
 
-1. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
-2. [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md) _Context: Australia_
-3. [The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-qu.md) _Context: Australia_
-4. [Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-the-coast-of-the-australi.md) _Context: Australia_
-5. [Turkey decides to stop teaching evolution to its students until their university level curriculum, deeming it controversial and too complex to understand. Critics say this undermines the secular foundation of the Turkish state. ](/news/2017/06/23/turkey-decides-to-stop-teaching-evolution-to-its-students-until-their-university-level-curriculum-deeming-it-controversial-and-too-complex.md) _Context: university_
+1. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_
+2. [In a world's first, a drone rescues two swimmers off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-swimmers-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-t.md) _Context: Australia_
+3. [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md) _Context: Australia_
+4. [A large number of fireworks accidentally go off in a barge at a New Year's Day show in Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-in-terrigal-nsw-australia-causing-thousands-to-be-eva.md) _Context: Australia_
+5. [Nineteen people are injured after a car crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. The driver is arrested. Victoria Police believe that the incident was a "deliberate act" but not terrorism-related. ](/news/2017/12/21/nineteen-people-are-injured-after-a-car-crashes-into-pedestrians-at-the-corner-of-flinders-street-and-elizabeth-street-in-melbourne-austral.md) _Context: Australia_

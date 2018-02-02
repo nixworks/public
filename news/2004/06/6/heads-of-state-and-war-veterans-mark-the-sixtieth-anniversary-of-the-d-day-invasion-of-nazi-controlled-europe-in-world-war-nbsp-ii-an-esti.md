@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/6/heads-of-state-and-war-veterans-mark-the-sixtieth-anniversary-of-the-d-day-invasion-of-nazi-controlled-europe-in-world-war-nbsp-ii-an-esti.html)  [JSON](/news/2004/06/6/heads-of-state-and-war-veterans-mark-the-sixtieth-anniversary-of-the-d-day-invasion-of-nazi-controlled-europe-in-world-war-nbsp-ii-an-esti.json)  [XML](/news/2004/06/6/heads-of-state-and-war-veterans-mark-the-sixtieth-anniversary-of-the-d-day-invasion-of-nazi-controlled-europe-in-world-war-nbsp-ii-an-esti.xml)  
+
 ### [2004-06-6](/news/2004/06/6/index.md)
 
+##### D-Day
 #  Heads of state and war veterans mark the sixtieth anniversary of the D-Day invasion of Nazi-controlled Europe in World War&nbsp;II. An estimated 250,000 people died in the Battle of Normandy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3780381.stm)
 

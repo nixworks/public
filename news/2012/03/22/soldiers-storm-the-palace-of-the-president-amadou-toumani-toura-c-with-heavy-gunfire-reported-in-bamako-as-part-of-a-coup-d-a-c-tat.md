@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/22/soldiers-storm-the-palace-of-the-president-amadou-toumani-toura-c-with-heavy-gunfire-reported-in-bamako-as-part-of-a-coup-d-a-c-tat.html)  [JSON](/news/2012/03/22/soldiers-storm-the-palace-of-the-president-amadou-toumani-toura-c-with-heavy-gunfire-reported-in-bamako-as-part-of-a-coup-d-a-c-tat.json)  [XML](/news/2012/03/22/soldiers-storm-the-palace-of-the-president-amadou-toumani-toura-c-with-heavy-gunfire-reported-in-bamako-as-part-of-a-coup-d-a-c-tat.xml)  
+
 ### [2012-03-22](/news/2012/03/22/index.md)
 
+##### President
 # Soldiers storm the palace of the President Amadou Toumani Toure with heavy gunfire reported in Bamako as part of a coup d'etat. 
 
 Mutinous soldiers said they seized power in Mali on Thursday and ordered its borders closed, threatening to reignite conflict in a Saharan region shaken by the turmoil in Libya.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFL6E8EM04O20120322)
 2. [Reuters](http://uk.reuters.com/article/2012/03/22/uk-mali-army-palace-idUKBRE82K1EZ20120322)

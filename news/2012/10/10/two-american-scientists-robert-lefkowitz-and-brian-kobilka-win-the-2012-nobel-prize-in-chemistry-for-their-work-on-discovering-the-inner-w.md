@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/10/10/two-american-scientists-robert-lefkowitz-and-brian-kobilka-win-the-2012-nobel-prize-in-chemistry-for-their-work-on-discovering-the-inner-w.html)  [JSON](/news/2012/10/10/two-american-scientists-robert-lefkowitz-and-brian-kobilka-win-the-2012-nobel-prize-in-chemistry-for-their-work-on-discovering-the-inner-w.json)  [XML](/news/2012/10/10/two-american-scientists-robert-lefkowitz-and-brian-kobilka-win-the-2012-nobel-prize-in-chemistry-for-their-work-on-discovering-the-inner-w.xml)  
+
 ### [2012-10-10](/news/2012/10/10/index.md)
 
+##### American
 # Two American scientists, Robert Lefkowitz and Brian Kobilka, win the 2012 Nobel Prize in Chemistry for their work on discovering the inner workings of G protein-coupled receptors. 
 
 Two American scientists won the 2012 Nobel Prize for chemistry on Wednesday for research into how cells respond to external stimuli that is helping to develop better drugs to fight diseases such as diabetes, cancer and depression.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/10/10/us-nobel-chemistry-idUSBRE8990EN20121010?feedType=RSS&feedName=topNews)
-1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121010&t=2&i=661913456&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE89911JE00)
+1. [Reuters](https://www.reuters.com/article/2012/10/10/us-nobel-chemistry-idUSBRE8990EN20121010?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121010&t=2&i=661913456&w=1200&r=CBRE89911JE00)
 
 ### Related:
 

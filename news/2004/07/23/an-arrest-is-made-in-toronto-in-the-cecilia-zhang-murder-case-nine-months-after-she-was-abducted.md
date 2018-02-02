@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/07/23/an-arrest-is-made-in-toronto-in-the-cecilia-zhang-murder-case-nine-months-after-she-was-abducted.html)  [JSON](/news/2004/07/23/an-arrest-is-made-in-toronto-in-the-cecilia-zhang-murder-case-nine-months-after-she-was-abducted.json)  [XML](/news/2004/07/23/an-arrest-is-made-in-toronto-in-the-cecilia-zhang-murder-case-nine-months-after-she-was-abducted.xml)  
+
 ### [2004-07-23](/news/2004/07/23/index.md)
 
+##### Toronto
 #  An arrest is made in Toronto in the Cecilia Zhang murder case, nine months after she was abducted. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1090534213252&call_pageid=968332188492&col=968793972154)
+1. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1090534213252&call_pageid=968332188492&col=968793972154)
 
 ### Related:
 

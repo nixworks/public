@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/27/three-students-are-killed-and-two-injured-in-a-shooting-at-chardon-high-school-in-the-us-state-of-ohio.html)  [JSON](/news/2012/02/27/three-students-are-killed-and-two-injured-in-a-shooting-at-chardon-high-school-in-the-us-state-of-ohio.json)  [XML](/news/2012/02/27/three-students-are-killed-and-two-injured-in-a-shooting-at-chardon-high-school-in-the-us-state-of-ohio.xml)  
+
 ### [2012-02-27](/news/2012/02/27/index.md)
 
+##### child murders
 # Three students are killed and two injured in a shooting at Chardon High School in the US state of Ohio. 
 
 One student was killed and four were injured in a shooting Monday morning&nbsp;at a high school in suburban Chardon, Ohio, authorities have reported. A suspect was taken into custody, but his name...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17182562)
 2. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-fatality-ohio-shooting-20120227,0,1080775.story)

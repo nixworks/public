@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/21/microsoft-announces-their-eighth-generation-console-the-xbox-one.html)  [JSON](/news/2013/05/21/microsoft-announces-their-eighth-generation-console-the-xbox-one.json)  [XML](/news/2013/05/21/microsoft-announces-their-eighth-generation-console-the-xbox-one.xml)  
+
 ### [2013-05-21](/news/2013/05/21/index.md)
 
+##### Microsoft
 # Microsoft announces their eighth generation console, the Xbox One. 
 
 Microsoft has finally revealed its next-generation console, called Xbox One.
 
 
-### Source:
+### Sources:
 
 1. [IGN](http://www.ign.com/articles/2013/05/21/xbox-720-is-called-xbox-one)
 1. [Cover Image](http://oyster.ignimgs.com/wordpress/stg.ign.com/2013/05/XboxOneBlogroll-136x77.jpg)

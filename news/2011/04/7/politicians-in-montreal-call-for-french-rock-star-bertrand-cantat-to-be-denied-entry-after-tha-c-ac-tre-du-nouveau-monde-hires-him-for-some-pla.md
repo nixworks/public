@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/7/politicians-in-montreal-call-for-french-rock-star-bertrand-cantat-to-be-denied-entry-after-tha-c-ac-tre-du-nouveau-monde-hires-him-for-some-pla.html)  [JSON](/news/2011/04/7/politicians-in-montreal-call-for-french-rock-star-bertrand-cantat-to-be-denied-entry-after-tha-c-ac-tre-du-nouveau-monde-hires-him-for-some-pla.json)  [XML](/news/2011/04/7/politicians-in-montreal-call-for-french-rock-star-bertrand-cantat-to-be-denied-entry-after-tha-c-ac-tre-du-nouveau-monde-hires-him-for-some-pla.xml)  
+
 ### [2011-04-7](/news/2011/04/7/index.md)
 
+##### Montreal
 # Politicians in Montreal call for French rock star Bertrand Cantat to be denied entry after Theatre du Nouveau Monde hires him for some plays by Sophocles. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13008118)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/18/the-republic-of-china-taiwan-conducts-live-fire-missile-tests.html)  [JSON](/news/2011/01/18/the-republic-of-china-taiwan-conducts-live-fire-missile-tests.json)  [XML](/news/2011/01/18/the-republic-of-china-taiwan-conducts-live-fire-missile-tests.xml)  
+
 ### [2011-01-18](/news/2011/01/18/index.md)
 
+##### Taiwan
 # The Republic of China (Taiwan) conducts live-fire missile tests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12213185)
 2. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aIPL&ID=201101180047)

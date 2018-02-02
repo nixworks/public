@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/17/american-soap-opera-as-the-world-turns-airs-its-final-episode-on-cbs-after-a-54-year-run-on-television.html)  [JSON](/news/2010/09/17/american-soap-opera-as-the-world-turns-airs-its-final-episode-on-cbs-after-a-54-year-run-on-television.json)  [XML](/news/2010/09/17/american-soap-opera-as-the-world-turns-airs-its-final-episode-on-cbs-after-a-54-year-run-on-television.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### As the World Turns
 # American soap opera "As the World Turns" airs its final episode on CBS after a 54-year run on television. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://today.msnbc.msn.com/id/39236405/ns/today-entertainment/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/ap/tv as the world turns-301786647_v2.standard.jpg)

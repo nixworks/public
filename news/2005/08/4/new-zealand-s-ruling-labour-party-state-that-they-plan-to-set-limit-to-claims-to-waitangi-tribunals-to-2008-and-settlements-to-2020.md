@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/4/new-zealand-s-ruling-labour-party-state-that-they-plan-to-set-limit-to-claims-to-waitangi-tribunals-to-2008-and-settlements-to-2020.html)  [JSON](/news/2005/08/4/new-zealand-s-ruling-labour-party-state-that-they-plan-to-set-limit-to-claims-to-waitangi-tribunals-to-2008-and-settlements-to-2020.json)  [XML](/news/2005/08/4/new-zealand-s-ruling-labour-party-state-that-they-plan-to-set-limit-to-claims-to-waitangi-tribunals-to-2008-and-settlements-to-2020.xml)  
+
 ### [2005-08-4](/news/2005/08/4/index.md)
 
+##### Labour Party
 #  New Zealand's ruling Labour Party state that they plan to set limit to claims to Waitangi Tribunals to 2008 and settlements to 2020 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4744373.stm)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/161488/1/.html)

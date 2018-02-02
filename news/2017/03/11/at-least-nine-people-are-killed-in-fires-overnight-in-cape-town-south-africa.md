@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/03/11/at-least-nine-people-are-killed-in-fires-overnight-in-cape-town-south-africa.html)  [JSON](/news/2017/03/11/at-least-nine-people-are-killed-in-fires-overnight-in-cape-town-south-africa.json)  [XML](/news/2017/03/11/at-least-nine-people-are-killed-in-fires-overnight-in-cape-town-south-africa.xml)  
+
 ### [2017-03-11](/news/2017/03/11/index.md)
 
+##### Cape Town
 # At least nine people are killed in fires overnight in Cape Town, South Africa. 
 
 Nine people have been killed in three separate fires in Cape Town&#39;s shack settlements between Friday night and Saturday morning, the city&#39;s fire and rescue services said.
 
 
-### Source:
+### Sources:
 
 1. [All Africa](http://allafrica.com/stories/201703110046.html)
 1. [Cover Image](http://allafrica.com/static/images/structure/aa-logo-rgba-no-text-128x128.png)

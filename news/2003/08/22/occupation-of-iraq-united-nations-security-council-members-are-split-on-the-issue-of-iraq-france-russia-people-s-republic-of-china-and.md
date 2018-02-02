@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/22/occupation-of-iraq-united-nations-security-council-members-are-split-on-the-issue-of-iraq-france-russia-people-s-republic-of-china-and.html)  [JSON](/news/2003/08/22/occupation-of-iraq-united-nations-security-council-members-are-split-on-the-issue-of-iraq-france-russia-people-s-republic-of-china-and.json)  [XML](/news/2003/08/22/occupation-of-iraq-united-nations-security-council-members-are-split-on-the-issue-of-iraq-france-russia-people-s-republic-of-china-and.xml)  
+
 ### [2003-08-22](/news/2003/08/22/index.md)
 
+##### Iraq war
 #  Occupation of Iraq: United Nations Security council members are split on the issue of Iraq. France, Russia, People's Republic of China, and Germany are proposing differing ways to expand the United Nations mandate in Iraq beyond humanitarian aid and reconstruction. Secretary of State of the United States Colin Powell states that there is no plan to cede authority to the United Nations from the Coalition forces. Powell also sought a new Security Council resolution that would involve other nations to contribute troops and aid in securing and rebuilding Iraq.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/15/iraqi-transitional-parliamentary-election-iraq-s-defense-minister-accuses-iran-and-syria-of-supporting-terrorists-and-charges-that-a-senio.html)  [JSON](/news/2004/12/15/iraqi-transitional-parliamentary-election-iraq-s-defense-minister-accuses-iran-and-syria-of-supporting-terrorists-and-charges-that-a-senio.json)  [XML](/news/2004/12/15/iraqi-transitional-parliamentary-election-iraq-s-defense-minister-accuses-iran-and-syria-of-supporting-terrorists-and-charges-that-a-senio.xml)  
+
 ### [2004-12-15](/news/2004/12/15/index.md)
 
+##### Iraqi transitional parliamentary election
 #  Iraqi transitional parliamentary election: Iraq's defense minister accuses Iran and Syria of supporting terrorists and charges that a senior Iraqi Shiite was leading a "pro-Iranian" coalition into next month's national elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo](http://story.news.yahoo.com/news?tmpl=story&u=/ap/20041215/ap_on_re_mi_ea/iraq&cid=540&ncid=1480)
 

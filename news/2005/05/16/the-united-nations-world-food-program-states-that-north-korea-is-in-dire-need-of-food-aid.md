@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/16/the-united-nations-world-food-program-states-that-north-korea-is-in-dire-need-of-food-aid.html)  [JSON](/news/2005/05/16/the-united-nations-world-food-program-states-that-north-korea-is-in-dire-need-of-food-aid.json)  [XML](/news/2005/05/16/the-united-nations-world-food-program-states-that-north-korea-is-in-dire-need-of-food-aid.xml)  
+
 ### [2005-05-16](/news/2005/05/16/index.md)
 
+##### United Nations
 #  The United Nations World Food Program states that North Korea is in dire need of food aid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4553695.stm)
 2. [Chosun Ilbo](http://english.chosun.com/w21data/html/news/200505/200505150006.html)

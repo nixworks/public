@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/01/24/a-student-was-shot-and-killed-at-south-carolina-state-university-and-police-were-looking-for-4-suspects.html)  [JSON](/news/2014/01/24/a-student-was-shot-and-killed-at-south-carolina-state-university-and-police-were-looking-for-4-suspects.json)  [XML](/news/2014/01/24/a-student-was-shot-and-killed-at-south-carolina-state-university-and-police-were-looking-for-4-suspects.xml)  
+
 ### [2014-01-24](/news/2014/01/24/index.md)
 
+##### South Carolina State University
 # A student was shot and killed at South Carolina State University and police were looking for 4 suspects. 
 
 A man accused of shooting a fellow student to death after an argument outside a dormitory at South Carolina State University was arrested on a murder charge on Saturday, state police said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/01/25/us-usa-southcarolina-shooting-idUSBREA0N1LS20140125)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/01/25/us-usa-southcarolina-shooting-idUSBREA0N1LS20140125)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

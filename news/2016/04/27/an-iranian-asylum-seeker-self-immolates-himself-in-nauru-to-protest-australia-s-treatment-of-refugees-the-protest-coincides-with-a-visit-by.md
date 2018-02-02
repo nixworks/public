@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/27/an-iranian-asylum-seeker-self-immolates-himself
 
 ### [2016-04-27](/news/2016/04/27/index.md)
 
+##### Iran
 # An Iranian asylum seeker self-immolates himself in Nauru to protest Australia's treatment of refugees. The protest coincides with a visit by representatives from the United Nations High Commissioner for Refugees to the island. Instead of admitting refugees into the country, Australia has been sending them to Nauru or Papua New Guinea. 
 
 An Iranian asylum seeker being held on Nauru is in a critical condition after setting himself alight, the Nauru government says.

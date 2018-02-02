@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/6/the-islamic-state-s-libyan-branch-continues-atta
 
 ### [2016-01-6](/news/2016/01/6/index.md)
 
+##### Libyan Civil War (2014-present)
 # The Islamic State's Libyan branch continues attacks on Libya's oil ports of Sidra and Ra's Lanuf, resulting in at least 10 security personnel deaths and 40 injured. The National Oil Corporation (NOC) reports that fires continue to rage in both Sidra and Ra's Lanuf after oil storage tanks were hit by shells. 
 
 Shelling by Islamic State militants on a major oil terminal in Libya has started fires that have spread to giant storage tanks, officials say.

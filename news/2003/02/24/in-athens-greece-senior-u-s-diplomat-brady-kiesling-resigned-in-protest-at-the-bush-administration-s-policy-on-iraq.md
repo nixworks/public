@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/24/in-athens-greece-senior-u-s-diplomat-brady-kiesling-resigned-in-protest-at-the-bush-administration-s-policy-on-iraq.html)  [JSON](/news/2003/02/24/in-athens-greece-senior-u-s-diplomat-brady-kiesling-resigned-in-protest-at-the-bush-administration-s-policy-on-iraq.json)  [XML](/news/2003/02/24/in-athens-greece-senior-u-s-diplomat-brady-kiesling-resigned-in-protest-at-the-bush-administration-s-policy-on-iraq.xml)  
+
 ### [2003-02-24](/news/2003/02/24/index.md)
 
+##### Athens
 #  In Athens, Greece, senior U.S. diplomat Brady Kiesling resigned in protest at the Bush administration's policy on Iraq.
 
 

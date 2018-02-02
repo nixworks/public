@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/11/25/dubai-world-the-state-owned-real-estate-and-ports-giant-asks-for-a-moratorium-on-its-59-billion-us-dollars-in-debt-until-at-least-may-30.html)  [JSON](/news/2009/11/25/dubai-world-the-state-owned-real-estate-and-ports-giant-asks-for-a-moratorium-on-its-59-billion-us-dollars-in-debt-until-at-least-may-30.json)  [XML](/news/2009/11/25/dubai-world-the-state-owned-real-estate-and-ports-giant-asks-for-a-moratorium-on-its-59-billion-us-dollars-in-debt-until-at-least-may-30.xml)  
+
 ### [2009-11-25](/news/2009/11/25/index.md)
 
+##### Dubai World
 #  Dubai World, the state-owned real-estate and ports giant, asks for a moratorium on its 59 billion US dollars' in debt until at least May 30, 2010. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aoFe12bwzZ2M&pos=1)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=aoFe12bwzZ2M&pos=1)
 
 ### Related:
 

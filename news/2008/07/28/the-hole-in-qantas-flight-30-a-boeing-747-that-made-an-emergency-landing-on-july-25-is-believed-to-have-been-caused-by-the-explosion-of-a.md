@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/28/the-hole-in-qantas-flight-30-a-boeing-747-that-made-an-emergency-landing-on-july-25-is-believed-to-have-been-caused-by-the-explosion-of-a.html)  [JSON](/news/2008/07/28/the-hole-in-qantas-flight-30-a-boeing-747-that-made-an-emergency-landing-on-july-25-is-believed-to-have-been-caused-by-the-explosion-of-a.json)  [XML](/news/2008/07/28/the-hole-in-qantas-flight-30-a-boeing-747-that-made-an-emergency-landing-on-july-25-is-believed-to-have-been-caused-by-the-explosion-of-a.xml)  
+
 ### [2008-07-28](/news/2008/07/28/index.md)
 
+##### Qantas Flight 30
 #  The hole in Qantas Flight 30, a Boeing 747 that made an emergency landing on July 25, is believed to have been caused by the explosion of an oxygen tank. Terrorism is not suspected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/WORLD/asiapcf/07/28/qantas.investigation.ap/index.html)
 

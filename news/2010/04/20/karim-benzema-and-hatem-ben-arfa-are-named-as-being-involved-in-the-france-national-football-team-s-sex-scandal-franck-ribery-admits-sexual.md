@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/20/karim-benzema-and-hatem-ben-arfa-are-named-as-being-involved-in-the-france-national-football-team-s-sex-scandal-franck-ribery-admits-sexual.html)  [JSON](/news/2010/04/20/karim-benzema-and-hatem-ben-arfa-are-named-as-being-involved-in-the-france-national-football-team-s-sex-scandal-franck-ribery-admits-sexual.json)  [XML](/news/2010/04/20/karim-benzema-and-hatem-ben-arfa-are-named-as-being-involved-in-the-france-national-football-team-s-sex-scandal-franck-ribery-admits-sexual.xml)  
+
 ### [2010-04-20](/news/2010/04/20/index.md)
 
+##### Karim Benzema
 # Karim Benzema and Hatem Ben Arfa are named as being involved in the France national football team's sex scandal. Franck Ribry admits sexual relations with an underage prostitute. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/football/2010/apr/20/frank-ribery-sex-scandal-france)
 

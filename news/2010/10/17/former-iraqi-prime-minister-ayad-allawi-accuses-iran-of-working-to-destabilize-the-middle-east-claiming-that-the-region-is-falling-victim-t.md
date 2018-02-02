@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/17/former-iraqi-prime-minister-ayad-allawi-accuses-iran-of-working-to-destabilize-the-middle-east-claiming-that-the-region-is-falling-victim-t.html)  [JSON](/news/2010/10/17/former-iraqi-prime-minister-ayad-allawi-accuses-iran-of-working-to-destabilize-the-middle-east-claiming-that-the-region-is-falling-victim-t.json)  [XML](/news/2010/10/17/former-iraqi-prime-minister-ayad-allawi-accuses-iran-of-working-to-destabilize-the-middle-east-claiming-that-the-region-is-falling-victim-t.xml)  
+
 ### [2010-10-17](/news/2010/10/17/index.md)
 
+##### Iraq Prime Minister
 # Former Iraqi Prime Minister Ayad Allawi accuses Iran of working to destabilize the Middle East, claiming that the region is falling victim to terrorist groups backed financially by Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gu7kJ4VnOoMk0DxML7UkJpTM3l5A?docId=CNG.39d86b87288610357aedef0bdb96a13e.2d1)
 2. [CNN](http://www.cnn.com/2010/WORLD/meast/10/17/iraq.allawi.iran/)

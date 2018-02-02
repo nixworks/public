@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/06/19/the-european-central-bank-increased-the-cap-on-cash-available-to-greek-banks-through-emergency-liquidity-assistance-as-those-banks-continue.html)  [JSON](/news/2015/06/19/the-european-central-bank-increased-the-cap-on-cash-available-to-greek-banks-through-emergency-liquidity-assistance-as-those-banks-continue.json)  [XML](/news/2015/06/19/the-european-central-bank-increased-the-cap-on-cash-available-to-greek-banks-through-emergency-liquidity-assistance-as-those-banks-continue.xml)  
+
 ### [2015-06-19](/news/2015/06/19/index.md)
 
+##### European Central Bank
 # The European Central Bank increased the cap on cash available to Greek banks through emergency liquidity assistance, as those banks continue to experience steady withdrawals. Greek citizens have withdrawn over 3 billion Euros in the last month. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/06/19/us-eurozone-greece-pm-idUSKBN0OZ0DP20150619)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20150619&t=2&i=1057561503&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB5I0UA)
+1. [Reuters](https://www.reuters.com/article/2015/06/19/us-eurozone-greece-pm-idUSKBN0OZ0DP20150619)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20150619&t=2&i=1057561503&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB5I0UA)
 
 ### Related:
 

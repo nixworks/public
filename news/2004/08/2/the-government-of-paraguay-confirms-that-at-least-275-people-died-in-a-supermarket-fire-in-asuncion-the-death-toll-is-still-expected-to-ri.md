@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/2/the-government-of-paraguay-confirms-that-at-least-275-people-died-in-a-supermarket-fire-in-asuncion-the-death-toll-is-still-expected-to-ri.html)  [JSON](/news/2004/08/2/the-government-of-paraguay-confirms-that-at-least-275-people-died-in-a-supermarket-fire-in-asuncion-the-death-toll-is-still-expected-to-ri.json)  [XML](/news/2004/08/2/the-government-of-paraguay-confirms-that-at-least-275-people-died-in-a-supermarket-fire-in-asuncion-the-death-toll-is-still-expected-to-ri.xml)  
+
 ### [2004-08-2](/news/2004/08/2/index.md)
 
+##### Paraguay
 #  The government of Paraguay confirms that at least 275 people died in a supermarket fire in Asuncin. The death toll is still expected to rise as a more thorough search is completed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/WORLD/americas/08/01/supermarket.blast.int/index.html)
 2. [Seattle Post](http://www.seattlepi.com/national/aplatin_story.asp?category=1102&slug=Paraguay%20Supermarket%20Fire)

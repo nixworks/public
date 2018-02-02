@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/20/twelve-people-are-trampled-to-death-trying-to-escape-a-police-raid-in-northern-mexico-city.html)  [JSON](/news/2008/06/20/twelve-people-are-trampled-to-death-trying-to-escape-a-police-raid-in-northern-mexico-city.json)  [XML](/news/2008/06/20/twelve-people-are-trampled-to-death-trying-to-escape-a-police-raid-in-northern-mexico-city.xml)  
+
 ### [2008-06-20](/news/2008/06/20/index.md)
 
+##### Mexico City
 #  Twelve people are trampled to death trying to escape a police raid in northern Mexico City. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/americas/06/21/mexico.nightclub/)
 

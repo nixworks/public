@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/14/twelve-people-die-in-nandigram-near-kolkata-in-india-as-police-shoot-at-farmers-protesting-the-establishment-of-a-special-economic-zone.html)  [JSON](/news/2007/03/14/twelve-people-die-in-nandigram-near-kolkata-in-india-as-police-shoot-at-farmers-protesting-the-establishment-of-a-special-economic-zone.json)  [XML](/news/2007/03/14/twelve-people-die-in-nandigram-near-kolkata-in-india-as-police-shoot-at-farmers-protesting-the-establishment-of-a-special-economic-zone.xml)  
+
 ### [2007-03-14](/news/2007/03/14/index.md)
 
+##### Twelve people die
 #  Twelve people die in Nandigram near Kolkata in India, as police shoot at farmers protesting the establishment of a special economic zone. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6452733.stm)
 

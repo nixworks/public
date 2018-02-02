@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/08/20/usain-bolt-of-jamaica-wins-the-200-metre-race-in-the-2008-summer-olympics-setting-a-new-world-record.html)  [JSON](/news/2008/08/20/usain-bolt-of-jamaica-wins-the-200-metre-race-in-the-2008-summer-olympics-setting-a-new-world-record.json)  [XML](/news/2008/08/20/usain-bolt-of-jamaica-wins-the-200-metre-race-in-the-2008-summer-olympics-setting-a-new-world-record.xml)  
+
 ### [2008-08-20](/news/2008/08/20/index.md)
 
+##### Usain Bolt
 #  Usain Bolt of Jamaica wins the 200-metre race in the 2008 Summer Olympics setting a new world record. 
 
 Jamaica’s Usain Bolt became the first man to win both the 100 and 200 meters at the same Olympics since Carl Lewis in 1984.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/08/21/sports/olympics/21bolt.html)
+1. [The New York Times](https://www.nytimes.com/2008/08/21/sports/olympics/21bolt.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/08/20/sports/olympics/20track2-75.jpg)
 
 ### Related:

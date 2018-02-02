@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/5/in-bolivia-s-santa-cruz-department-86-of-voters-supported-proposals-for-greater-autonomy-in-a-referendum-bolivian-president-evo-morales.html)  [JSON](/news/2008/05/5/in-bolivia-s-santa-cruz-department-86-of-voters-supported-proposals-for-greater-autonomy-in-a-referendum-bolivian-president-evo-morales.json)  [XML](/news/2008/05/5/in-bolivia-s-santa-cruz-department-86-of-voters-supported-proposals-for-greater-autonomy-in-a-referendum-bolivian-president-evo-morales.xml)  
+
 ### [2008-05-5](/news/2008/05/5/index.md)
 
+##### Bolivia
 #  In Bolivia's Santa Cruz department, 86% of voters supported proposals for greater autonomy in a referendum. Bolivian President Evo Morales condemned the referendum, calling it illegal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7382538.stm)
 

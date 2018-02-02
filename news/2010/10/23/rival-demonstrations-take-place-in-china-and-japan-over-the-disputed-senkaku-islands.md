@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/23/rival-demonstrations-take-place-in-china-and-japan-over-the-disputed-senkaku-islands.html)  [JSON](/news/2010/10/23/rival-demonstrations-take-place-in-china-and-japan-over-the-disputed-senkaku-islands.json)  [XML](/news/2010/10/23/rival-demonstrations-take-place-in-china-and-japan-over-the-disputed-senkaku-islands.xml)  
+
 ### [2010-10-23](/news/2010/10/23/index.md)
 
+##### China
 # Rival demonstrations take place in China and Japan over the disputed Senkaku Islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CP](http://www.google.com/hostednews/canadianpress/article/ALeqM5infpmoMXGbYwaYYxh2Pfb_iaueuw?docId=4918927)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_594419.html)

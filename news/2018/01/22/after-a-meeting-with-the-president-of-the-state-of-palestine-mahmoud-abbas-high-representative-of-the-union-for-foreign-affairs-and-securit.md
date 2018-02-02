@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/22/after-a-meeting-with-the-president-of-the-state
 
 ### [2018-01-22](/news/2018/01/22/index.md)
 
+##### Palestine-European Union relations
 # After a meeting with the President of the State of Palestine Mahmoud Abbas, High Representative of the Union for Foreign Affairs and Security Policy Federica Mogherini again assures President Abbas that the European Union supports his ambition to have East Jerusalem as capital of a Palestinian state. 
 
 

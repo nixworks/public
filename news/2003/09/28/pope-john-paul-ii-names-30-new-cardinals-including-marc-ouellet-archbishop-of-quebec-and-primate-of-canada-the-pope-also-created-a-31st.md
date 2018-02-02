@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/28/pope-john-paul-ii-names-30-new-cardinals-including-marc-ouellet-archbishop-of-quebec-and-primate-of-canada-the-pope-also-created-a-31st.html)  [JSON](/news/2003/09/28/pope-john-paul-ii-names-30-new-cardinals-including-marc-ouellet-archbishop-of-quebec-and-primate-of-canada-the-pope-also-created-a-31st.json)  [XML](/news/2003/09/28/pope-john-paul-ii-names-30-new-cardinals-including-marc-ouellet-archbishop-of-quebec-and-primate-of-canada-the-pope-also-created-a-31st.xml)  
+
 ### [2003-09-28](/news/2003/09/28/index.md)
 
+##### Pope John Paul II
 #  Pope John Paul II names 30 new cardinals, including Marc Ouellet, Archbishop of Quebec and Primate of Canada. The Pope also created a 31st Cardinal "in pectore", which means his identity is kept secret and he will not be made a Cardinal if the Pope dies before revealing his name.
 
 

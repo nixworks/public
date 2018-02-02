@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/02/27/olusegun-obasanjo-becomes-nigeria-s-first-elected-president-since-mid-1983.html)  [JSON](/news/1999/02/27/olusegun-obasanjo-becomes-nigeria-s-first-elected-president-since-mid-1983.json)  [XML](/news/1999/02/27/olusegun-obasanjo-becomes-nigeria-s-first-elected-president-since-mid-1983.xml)  
+
 ### [1999-02-27](/news/1999/02/27/index.md)
 
+##### Olusegun Obasanjo
 #  Olusegun Obasanjo becomes Nigeria's first elected president since mid-1983.
 
 

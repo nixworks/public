@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/22/south-sudan-invites-sudan-to-discuss-outstanding-issues-next-month-between-the-two-countries-that-nearly-resulted-in-a-war.html)  [JSON](/news/2012/03/22/south-sudan-invites-sudan-to-discuss-outstanding-issues-next-month-between-the-two-countries-that-nearly-resulted-in-a-war.json)  [XML](/news/2012/03/22/south-sudan-invites-sudan-to-discuss-outstanding-issues-next-month-between-the-two-countries-that-nearly-resulted-in-a-war.xml)  
+
 ### [2012-03-22](/news/2012/03/22/index.md)
 
+##### South Sudan
 # South Sudan invites Sudan to discuss outstanding issues next month between the two countries that nearly resulted in a war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/south-sudan-invites-bashir-for-talks-1.1262073)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/27/amnesty-international-accuses-israel-of-willfully-committing-war-crimes-against-the-palestinians.html)  [JSON](/news/2014/02/27/amnesty-international-accuses-israel-of-willfully-committing-war-crimes-against-the-palestinians.json)  [XML](/news/2014/02/27/amnesty-international-accuses-israel-of-willfully-committing-war-crimes-against-the-palestinians.xml)  
+
 ### [2014-02-27](/news/2014/02/27/index.md)
 
+##### Amnesty International
 # Amnesty International accuses Israel of willfully committing war crimes against the Palestinians. 
 
 JERUSALEM -- Israeli security forces use excessive force against Palestinians in the West Bank and display &quot;callous disregard&quot; for human life, Amnesty International said Thursday.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-israel-amnesty-international-palestinians-20140227,0,5026359.story#axzz2uV3oG0YX)
 1. [Cover Image](http://www.trbimg.com/img-530f86b7/turbine/la-fg-wn-israel-amnesty-international-palestinians-20140227)

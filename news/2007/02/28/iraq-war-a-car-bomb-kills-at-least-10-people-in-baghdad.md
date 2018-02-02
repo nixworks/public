@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/02/28/iraq-war-a-car-bomb-kills-at-least-10-people-in-baghdad.html)  [JSON](/news/2007/02/28/iraq-war-a-car-bomb-kills-at-least-10-people-in-baghdad.json)  [XML](/news/2007/02/28/iraq-war-a-car-bomb-kills-at-least-10-people-in-baghdad.xml)  
+
 ### [2007-02-28](/news/2007/02/28/index.md)
 
+##### Iraq War
 #  Iraq War: A car bomb kills at least 10 people in Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/02/28/AR2007022800254.html)
+1. [AP via Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/02/28/AR2007022800254.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

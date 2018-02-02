@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/21/metropolitan-police-arrested-two-suspects-after-three-women-are-rescued-from-a-residential-address-in-lambeth-south-london-after-thirty-ye.html)  [JSON](/news/2013/11/21/metropolitan-police-arrested-two-suspects-after-three-women-are-rescued-from-a-residential-address-in-lambeth-south-london-after-thirty-ye.json)  [XML](/news/2013/11/21/metropolitan-police-arrested-two-suspects-after-three-women-are-rescued-from-a-residential-address-in-lambeth-south-london-after-thirty-ye.xml)  
+
 ### [2013-11-21](/news/2013/11/21/index.md)
 
+##### Metropolitan Police Service
 # Metropolitan Police arrested two suspects after three women are rescued from a residential address in Lambeth, South London, after thirty years of captivity. 
 
 Three women are &quot;rescued&quot; from a house in south London as police investigate claims they were held as slaves for 30 years, with one thought to have been in captivity her whole life.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-25040741)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71268000/jpg/_71268100_44797439.jpg)

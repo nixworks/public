@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/1/ateke-tom-militant-leader-of-the-niger-delta-vigilante-in-the-niger-delta-region-accepts-an-amnesty-by-the-nigerian-government.html)  [JSON](/news/2009/10/1/ateke-tom-militant-leader-of-the-niger-delta-vigilante-in-the-niger-delta-region-accepts-an-amnesty-by-the-nigerian-government.json)  [XML](/news/2009/10/1/ateke-tom-militant-leader-of-the-niger-delta-vigilante-in-the-niger-delta-region-accepts-an-amnesty-by-the-nigerian-government.xml)  
+
 ### [2009-10-1](/news/2009/10/1/index.md)
 
+##### Ateke Tom
 #  Ateke Tom, militant leader of the Niger Delta Vigilante in the Niger Delta region, accepts an amnesty by the Nigerian government. 
 
 THREE days to the deadline for militants in the Niger-Delta to lay down their arms and embrace the Presidential Amnesty granted by the Federal Government, President Umaru Yarâ€™Adua yesterday received one of the key militants, leader of the Niger-Delta Vigilante and Patriotic Force (NDVPF), Mr Ateke Tom, with a promise that in the next two to five years, the region will witness massive infrastructural development.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jh7NbzYu7Vi-av87cgR7sdn1m2lg)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8285788.stm)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/22/montana-governor-steve-bullock-signs-an-executi
 
 ### [2018-01-22](/news/2018/01/22/index.md)
 
+##### Net neutrality in the United States
 # Montana Governor Steve Bullock signs an executive order that bars any Internet service provider with state contracts from blocking or charging more for faster delivery of websites to any customer in the state. Montana is the first state to respond this way to the FCC's December 14, 2017, net neutrality ruling. 
 
 An executive order forbids broadband providers with new or renewed state contracts to block or charge higher fees for faster delivery of websites.

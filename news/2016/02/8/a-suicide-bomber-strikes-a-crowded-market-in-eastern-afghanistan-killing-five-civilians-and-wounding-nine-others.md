@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/8/a-suicide-bomber-strikes-a-crowded-market-in-eas
 
 ### [2016-02-8](/news/2016/02/8/index.md)
 
+##### War in Afghanistan (2015-present)
 # A suicide bomber strikes a crowded market in eastern Afghanistan killing five civilians and wounding nine others. 
 
 

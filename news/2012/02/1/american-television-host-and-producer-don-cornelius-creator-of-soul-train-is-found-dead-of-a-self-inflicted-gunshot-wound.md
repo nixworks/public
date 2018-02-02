@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/1/american-television-host-and-producer-don-cornelius-creator-of-soul-train-is-found-dead-of-a-self-inflicted-gunshot-wound.html)  [JSON](/news/2012/02/1/american-television-host-and-producer-don-cornelius-creator-of-soul-train-is-found-dead-of-a-self-inflicted-gunshot-wound.json)  [XML](/news/2012/02/1/american-television-host-and-producer-don-cornelius-creator-of-soul-train-is-found-dead-of-a-self-inflicted-gunshot-wound.xml)  
+
 ### [2012-02-1](/news/2012/02/1/index.md)
 
+##### American
 # American television host and producer Don Cornelius, creator of "Soul Train" is found dead of a self-inflicted gunshot wound. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5ipFkLO-g_VVL7TB574dcTT7NOPNQ?docId=06870c8954c442b5882aa8a6be94c79b)
 

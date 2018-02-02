@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/28/the-parliament-of-montenegro-votes-46a0-to-rati
 
 ### [2017-04-28](/news/2017/04/28/index.md)
 
+##### Accession of Montenegro to NATO
 # The Parliament of Montenegro votes 46-0 to ratify Montenegro's membership of NATO, while opposition politicians boycott the vote and hold protests. 
 
 

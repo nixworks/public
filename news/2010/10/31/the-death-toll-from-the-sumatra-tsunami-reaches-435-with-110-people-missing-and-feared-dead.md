@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/31/the-death-toll-from-the-sumatra-tsunami-reaches-435-with-110-people-missing-and-feared-dead.html)  [JSON](/news/2010/10/31/the-death-toll-from-the-sumatra-tsunami-reaches-435-with-110-people-missing-and-feared-dead.json)  [XML](/news/2010/10/31/the-death-toll-from-the-sumatra-tsunami-reaches-435-with-110-people-missing-and-feared-dead.xml)  
+
 ### [2010-10-31](/news/2010/10/31/index.md)
 
+##### Sumatra tsunami
 # The death toll from the Sumatra tsunami reaches 435 with 110 people missing and feared dead. 
 
 Indonesia has ramped up efforts to help those on remote islands hit by a devastating tsunami as an official put the latest death toll at 435.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Online](http://www.abc.net.au/news/stories/2010/10/31/3053085.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/2318188-1x1-700x700.jpg)

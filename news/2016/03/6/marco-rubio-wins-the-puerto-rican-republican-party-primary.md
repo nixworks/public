@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/6/marco-rubio-wins-the-puerto-rican-republican-par
 
 ### [2016-03-6](/news/2016/03/6/index.md)
 
+##### 2016 U.S. presidential election
 # Marco Rubio wins the Puerto Rican Republican Party primary. 
 
 Bernie Sanders beats Hillary Clinton in the Maine caucuses, the latest contest in the battle to be the Democratic presidential candidate.

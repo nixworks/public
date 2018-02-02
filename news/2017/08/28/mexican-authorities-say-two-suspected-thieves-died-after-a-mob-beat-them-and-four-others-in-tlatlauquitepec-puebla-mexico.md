@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/28/mexican-authorities-say-two-suspected-thieves-d
 
 ### [2017-08-28](/news/2017/08/28/index.md)
 
+##### Crime in Mexico
 # Mexican authorities say two suspected thieves died after a mob beat them and four others in Tlatlauquitepec, Puebla, Mexico. 
 
 

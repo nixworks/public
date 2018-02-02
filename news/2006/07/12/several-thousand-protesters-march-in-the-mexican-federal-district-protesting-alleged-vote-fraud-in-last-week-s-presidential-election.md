@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/12/several-thousand-protesters-march-in-the-mexican-federal-district-protesting-alleged-vote-fraud-in-last-week-s-presidential-election.html)  [JSON](/news/2006/07/12/several-thousand-protesters-march-in-the-mexican-federal-district-protesting-alleged-vote-fraud-in-last-week-s-presidential-election.json)  [XML](/news/2006/07/12/several-thousand-protesters-march-in-the-mexican-federal-district-protesting-alleged-vote-fraud-in-last-week-s-presidential-election.xml)  
+
 ### [2006-07-12](/news/2006/07/12/index.md)
 
+##### Mexico
 #  Several thousand protesters march in the Mexican Federal District, protesting alleged vote fraud in last week's presidential election. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/5174796.stm)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-07-12T213246Z_01_N28358335_RTRUKOC_0_US-MEXICO-ELECTION.xml)

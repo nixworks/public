@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/03/5/general-motors-acknowledges-in-its-annual-report-that-its-survival-is-in-substantial-doubt.html)  [JSON](/news/2009/03/5/general-motors-acknowledges-in-its-annual-report-that-its-survival-is-in-substantial-doubt.json)  [XML](/news/2009/03/5/general-motors-acknowledges-in-its-annual-report-that-its-survival-is-in-substantial-doubt.xml)  
+
 ### [2009-03-5](/news/2009/03/5/index.md)
 
+##### General Motors
 #  General Motors acknowledges in its annual report that its survival is in "substantial doubt". 
 
 
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2009/03/06/business/06auto.html?em)
+1. [New York Times](https://www.nytimes.com/2009/03/06/business/06auto.html?em)
 
 ### Related:
 

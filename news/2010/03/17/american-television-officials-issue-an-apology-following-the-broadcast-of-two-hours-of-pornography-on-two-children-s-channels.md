@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/17/american-television-officials-issue-an-apology-following-the-broadcast-of-two-hours-of-pornography-on-two-children-s-channels.html)  [JSON](/news/2010/03/17/american-television-officials-issue-an-apology-following-the-broadcast-of-two-hours-of-pornography-on-two-children-s-channels.json)  [XML](/news/2010/03/17/american-television-officials-issue-an-apology-following-the-broadcast-of-two-hours-of-pornography-on-two-children-s-channels.xml)  
+
 ### [2010-03-17](/news/2010/03/17/index.md)
 
+##### pornography
 # American television officials issue an apology following the broadcast of two hours of pornography on two children's channels. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8571798.stm)
 2. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/playboy-tv-childrens-hour)
@@ -14,8 +18,8 @@
 
 ### Related:
 
-1. [The U.S. state of Utah declares pornography a "public health risk" in a move Governor of Utah Gary Herbert says is to "protect our families and our young people". The bill, signed by the governor, does not ban pornography in the state but does call for greater "efforts to prevent pornography exposure and addiction". ](/news/2016/04/20/the-u-s-state-of-utah-declares-pornography-a-public-health-risk-in-a-move-governor-of-utah-gary-herbert-says-is-to-protect-our-families.md) _Context: pornography_
-2. [Former United States congressman Melvin Jay Reynolds is arrested in Zimbabwe for possession of pornography. ](/news/2014/02/18/former-united-states-congressman-melvin-jay-reynolds-is-arrested-in-zimbabwe-for-possession-of-pornography.md) _Context: pornography_
-3. [New Zealand has a parliamentary expenses scandal, with one MP claiming for pornography. ](/news/2010/06/11/new-zealand-has-a-parliamentary-expenses-scandal-with-one-mp-claiming-for-pornography.md) _Context: pornography_
-4. [Huang Yizhong is jailed for 13 years in Jiangmen, Guangdong, for copying and spreading pornographic material through his website. ](/news/2010/02/7/huang-yizhong-is-jailed-for-13-years-in-jiangmen-guangdong-for-copying-and-spreading-pornographic-material-through-his-website.md) _Context: pornography_
-5. [ Proposed internet domain .xxx for pornography has been dropped shortly before the domain was set to receive approval. ](/news/2005/12/2/proposed-internet-domain-xxx-for-pornography-has-been-dropped-shortly-before-the-domain-was-set-to-receive-approval.md) _Context: pornography_
+1. [Former United States congressman Melvin Jay Reynolds is arrested in Zimbabwe for possession of pornography. ](/news/2014/02/18/former-united-states-congressman-melvin-jay-reynolds-is-arrested-in-zimbabwe-for-possession-of-pornography.md) _Context: pornography_
+2. [New Zealand has a parliamentary expenses scandal, with one MP claiming for pornography. ](/news/2010/06/11/new-zealand-has-a-parliamentary-expenses-scandal-with-one-mp-claiming-for-pornography.md) _Context: pornography_
+3. [ Proposed internet domain .xxx for pornography has been dropped shortly before the domain was set to receive approval. ](/news/2005/12/2/proposed-internet-domain-xxx-for-pornography-has-been-dropped-shortly-before-the-domain-was-set-to-receive-approval.md) _Context: pornography_
+4. [ A French United Nations worker in the Democratic Republic of the Congo is arrested for creating pornographic videos of young girls. ](/news/2004/12/23/a-french-united-nations-worker-in-the-democratic-republic-of-the-congo-is-arrested-for-creating-pornographic-videos-of-young-girls.md) _Context: pornography_
+5. [ Chinese authorities say they have shut down nearly 700 websites and arrested 224 people in a new campaign against internet pornography. ](/news/2004/08/1/chinese-authorities-say-they-have-shut-down-nearly-700-websites-and-arrested-224-people-in-a-new-campaign-against-internet-pornography.md) _Context: pornography_

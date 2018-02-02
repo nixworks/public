@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/01/13/lions-gate-entertainment-the-largest-independent-studio-in-the-united-states-purchases-summit-entertainment-for-us-412-5-million.html)  [JSON](/news/2012/01/13/lions-gate-entertainment-the-largest-independent-studio-in-the-united-states-purchases-summit-entertainment-for-us-412-5-million.json)  [XML](/news/2012/01/13/lions-gate-entertainment-the-largest-independent-studio-in-the-united-states-purchases-summit-entertainment-for-us-412-5-million.xml)  
+
 ### [2012-01-13](/news/2012/01/13/index.md)
 
+##### Lions Gate Entertainment
 # Lions Gate Entertainment, the largest independent studio in the United States, purchases Summit Entertainment for US$412.5 million. 
 
 Jan 13 - Lions Gate Entertainment Corp boughtprivate studio Summit Entertainment, which produced thesuccessful &quot;Twilight&quot; series, for $412.5 million in cas
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/01/13/lionsgate-idUSL3E8CD57820120113)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/01/13/lionsgate-idUSL3E8CD57820120113)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

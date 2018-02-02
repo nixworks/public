@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/30/mamnoon-hussain-is-elected-as-the-12th-president-of-pakistan.html)  [JSON](/news/2013/07/30/mamnoon-hussain-is-elected-as-the-12th-president-of-pakistan.json)  [XML](/news/2013/07/30/mamnoon-hussain-is-elected-as-the-12th-president-of-pakistan.xml)  
+
 ### [2013-07-30](/news/2013/07/30/index.md)
 
+##### Mamnoon Hussain
 # Mamnoon Hussain is elected as the 12th President of Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Geo](http://www.geo.tv/article-111663-Mamnoon-Hussain-elected-12th-President-of-Pakistan)
 

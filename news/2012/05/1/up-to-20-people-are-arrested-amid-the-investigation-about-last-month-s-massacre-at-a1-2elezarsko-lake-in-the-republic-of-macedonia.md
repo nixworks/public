@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/1/up-to-20-people-are-arrested-amid-the-investigation-about-last-month-s-massacre-at-a1-2elezarsko-lake-in-the-republic-of-macedonia.html)  [JSON](/news/2012/05/1/up-to-20-people-are-arrested-amid-the-investigation-about-last-month-s-massacre-at-a1-2elezarsko-lake-in-the-republic-of-macedonia.json)  [XML](/news/2012/05/1/up-to-20-people-are-arrested-amid-the-investigation-about-last-month-s-massacre-at-a1-2elezarsko-lake-in-the-republic-of-macedonia.xml)  
+
 ### [2012-05-1](/news/2012/05/1/index.md)
 
+##### massacre at Zelezarsko lake
 # Up to 20 people are arrested amid the investigation about last month's massacre at Zelezarsko lake in the Republic of Macedonia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [B92](http://www.b92.net/eng/news/region-article.php?yyyy=2012&mm=05&dd=01&nav_id=80047)
 

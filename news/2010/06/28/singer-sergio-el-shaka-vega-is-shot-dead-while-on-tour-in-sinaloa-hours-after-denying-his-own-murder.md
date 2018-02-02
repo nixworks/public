@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/28/singer-sergio-el-shaka-vega-is-shot-dead-while-on-tour-in-sinaloa-hours-after-denying-his-own-murder.html)  [JSON](/news/2010/06/28/singer-sergio-el-shaka-vega-is-shot-dead-while-on-tour-in-sinaloa-hours-after-denying-his-own-murder.json)  [XML](/news/2010/06/28/singer-sergio-el-shaka-vega-is-shot-dead-while-on-tour-in-sinaloa-hours-after-denying-his-own-murder.xml)  
+
 ### [2010-06-28](/news/2010/06/28/index.md)
 
+##### Sergio "El Shaka" Vega
 # Singer Sergio "El Shaka" Vega is shot dead while on tour in Sinaloa, hours after denying his own murder. 
 
 Mexican singer Sergio Vega, known as El Shaka, who sang about drugs, is shot dead hours after denying he had been killed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10429934.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/mexico/7858163/Mexican-singer-El-Shaka-murdered-hours-after-denying-death.html)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/20/gunmen-attack-a-vietnamese-vessel-near-tawi-taw
 
 ### [2017-02-20](/news/2017/02/20/index.md)
 
+##### Vietnam
 # Gunmen attack a Vietnamese vessel near Tawi-Tawi, Philippines, killing at least one sailor and abducting seven others, according to the Philippine Coast Guard. Abu Sayyaf militants are suspected of being behind the attack. 
 
  Gunmen in southern Philippine waters killed one crewman of a Vietnamese vessel and abducted seven in what appeared to be the latest attack by pirates in the ar

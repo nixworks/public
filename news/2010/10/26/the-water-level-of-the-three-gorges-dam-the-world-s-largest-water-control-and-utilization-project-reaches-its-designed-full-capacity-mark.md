@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/26/the-water-level-of-the-three-gorges-dam-the-world-s-largest-water-control-and-utilization-project-reaches-its-designed-full-capacity-mark.html)  [JSON](/news/2010/10/26/the-water-level-of-the-three-gorges-dam-the-world-s-largest-water-control-and-utilization-project-reaches-its-designed-full-capacity-mark.json)  [XML](/news/2010/10/26/the-water-level-of-the-three-gorges-dam-the-world-s-largest-water-control-and-utilization-project-reaches-its-designed-full-capacity-mark.xml)  
+
 ### [2010-10-26](/news/2010/10/26/index.md)
 
+##### Three Gorges Dam
 # The water level of the Three Gorges Dam, the world's largest water control and utilization project, reaches its designed full capacity mark. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/26/china.three.gorges.dam/index.html?eref=edition)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-10/26/content_11457796.htm)

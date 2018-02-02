@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/police-near-colombo-arrest-a-suspected-fraudster-for-whom-they-had-previously-appealed-to-interpol-it-is-unknown-if-he-denies-the-charges-b.html)  [JSON](/news/2010/08/6/police-near-colombo-arrest-a-suspected-fraudster-for-whom-they-had-previously-appealed-to-interpol-it-is-unknown-if-he-denies-the-charges-b.json)  [XML](/news/2010/08/6/police-near-colombo-arrest-a-suspected-fraudster-for-whom-they-had-previously-appealed-to-interpol-it-is-unknown-if-he-denies-the-charges-b.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Colombo
 # Police near Colombo arrest a suspected fraudster for whom they had previously appealed to Interpol; it is unknown if he denies the charges brought against him. 
 
 Police in Sri Lanka arrested a man alleged to be one of the most wanted fraudsters in the country.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10895380)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

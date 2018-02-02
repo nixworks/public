@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/more-than-2-000-firefighters-fight-a-fire-at-the-port-of-dalian-after-two-oil-pipelines-explode.html)  [JSON](/news/2010/07/17/more-than-2-000-firefighters-fight-a-fire-at-the-port-of-dalian-after-two-oil-pipelines-explode.json)  [XML](/news/2010/07/17/more-than-2-000-firefighters-fight-a-fire-at-the-port-of-dalian-after-two-oil-pipelines-explode.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### Dalian
 # More than 2,000 firefighters fight a fire at the port of Dalian after two oil pipelines explode. 
 
 Two oil pipelines in the Chinese port city of Dalian have exploded, starting a fire which burned for 15 hours.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10671444)
 2. [WAtoday](http://www.watoday.com.au/breaking-news-world/firefighters-tackle-blaze-at-china-port-20100717-10f21.html)

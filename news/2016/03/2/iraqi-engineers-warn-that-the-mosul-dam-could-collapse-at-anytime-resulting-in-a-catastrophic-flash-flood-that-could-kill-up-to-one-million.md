@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/2/iraqi-engineers-warn-that-the-mosul-dam-could-co
 
 ### [2016-03-2](/news/2016/03/2/index.md)
 
+##### Iraq
 # Iraqi engineers warn that the Mosul Dam could collapse at anytime, resulting in a catastrophic flash flood that could kill up to one million people along the Tigris, with the major Iraqi cites of Mosul, Tikrit, Samarra and Baghdad all at risk. The U.S. embassy in Baghdad has urged American citizens to leave the area. 
 
 Iraqis who built dam say structure is increasingly precarious and describe government response as ‘ridiculous’

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/5/eleven-people-are-injured-when-a-staircase-collapses-at-the-natural-history-museum-in-dublin.html)  [JSON](/news/2007/07/5/eleven-people-are-injured-when-a-staircase-collapses-at-the-natural-history-museum-in-dublin.json)  [XML](/news/2007/07/5/eleven-people-are-injured-when-a-staircase-collapses-at-the-natural-history-museum-in-dublin.xml)  
+
 ### [2007-07-5](/news/2007/07/5/index.md)
 
+##### Natural History Museum
 #  Eleven people are injured when a staircase collapses at the Natural History Museum in Dublin. 
 
 Eleven people were injured, two seriously, when a stone staircase collapsed inside the Natural History Museum on Merrion Square in Dublin
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2007/0705/museum.html)
 1. [Cover Image](https://img.rasset.ie/0000ee74-1600.jpg)

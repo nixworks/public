@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/5/turkish-police-arrest-over-400-suspected-isil-me
 
 ### [2017-02-5](/news/2017/02/5/index.md)
 
+##### police
 # Turkish police arrest over 400 suspected ISIL members in raids across the country. 
 
 
@@ -14,8 +15,8 @@ Formats: [HTML](/news/2017/02/5/turkish-police-arrest-over-400-suspected-isil-me
 
 ### Related:
 
-1. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _Context: ISIL_
-2. [President Vladimir Putin declares victory over the Islamic State terror group across both banks of the river Euphrates. ](/news/2017/12/6/president-vladimir-putin-declares-victory-over-the-islamic-state-terror-group-across-both-banks-of-the-river-euphrates.md) _Context: ISIL_
-3. [During a visit to Syria, his first, President Vladimir Putin announces that a significant part of Russian forces will withdraw from Syria now that ISIL has been defeated in the country. ](/news/2017/12/11/during-a-visit-to-syria-his-first-president-vladimir-putin-announces-that-a-significant-part-of-russian-forces-will-withdraw-from-syria-no.md) _Context: ISIL_
-4. [ An Iraqi military parade in Baghdad celebrates final victory over the Islamic State of Iraq and the Levant. Prime Minister Haider al-Abadi declares December 10 an annual national holiday. ](/news/2017/12/10/an-iraqi-military-parade-in-baghdad-celebrates-final-victory-over-the-islamic-state-of-iraq-and-the-levant-prime-minister-haider-al-abadi.md) _Context: ISIL_
-5. [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: ISIL_
+1. [A suicide bomber attack near a group of security personnel investigating illegal drugs and alcohol dealing in Kabul, Afghanistan, kills at least 20, wounding another 27 policemen. The Islamic State claims responsibility for the attack. ](/news/2018/01/4/a-suicide-bomber-attack-near-a-group-of-security-personnel-investigating-illegal-drugs-and-alcohol-dealing-in-kabul-afghanistan-kills-at-l.md) _Context: ISIL_
+2. [The U.S.-led coalition against ISIL says it has killed up to 150 militants in air strikes on a headquarters in Deir ez-Zor Governorate, Syria. ](/news/2018/01/24/the-u-s-led-coalition-against-isil-says-it-has-killed-up-to-150-militants-in-air-strikes-on-a-headquarters-in-deir-ez-zor-governorate-syri.md) _Context: ISIL_
+3. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _Context: ISIL_
+4. [President Vladimir Putin declares victory over the Islamic State terror group across both banks of the river Euphrates. ](/news/2017/12/6/president-vladimir-putin-declares-victory-over-the-islamic-state-terror-group-across-both-banks-of-the-river-euphrates.md) _Context: ISIL_
+5. [A suicide bombing at a Shi'ite cultural center and news agency in Kabul, Afghanistan, kills 41 people and injures 84 others. ISIL-affiliated Amaq News Agency says this group is responsible. ](/news/2017/12/28/a-suicide-bombing-at-a-shiaite-cultural-center-and-news-agency-in-kabul-afghanistan-kills-41-people-and-injures-84-others-isil-affiliat.md) _Context: ISIL_

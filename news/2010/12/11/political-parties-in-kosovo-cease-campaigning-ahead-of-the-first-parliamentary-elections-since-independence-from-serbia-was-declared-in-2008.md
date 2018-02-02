@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/11/political-parties-in-kosovo-cease-campaigning-ahead-of-the-first-parliamentary-elections-since-independence-from-serbia-was-declared-in-2008.html)  [JSON](/news/2010/12/11/political-parties-in-kosovo-cease-campaigning-ahead-of-the-first-parliamentary-elections-since-independence-from-serbia-was-declared-in-2008.json)  [XML](/news/2010/12/11/political-parties-in-kosovo-cease-campaigning-ahead-of-the-first-parliamentary-elections-since-independence-from-serbia-was-declared-in-2008.xml)  
+
 ### [2010-12-11](/news/2010/12/11/index.md)
 
+##### Kosovo
 # Political parties in Kosovo cease campaigning ahead of the first parliamentary elections since independence from Serbia was declared in 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012111575244382.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/11/20101211153231824436_20.jpg)

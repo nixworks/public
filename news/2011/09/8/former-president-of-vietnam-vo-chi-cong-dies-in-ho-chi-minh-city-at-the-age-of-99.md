@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/8/former-president-of-vietnam-vo-chi-cong-dies-in-ho-chi-minh-city-at-the-age-of-99.html)  [JSON](/news/2011/09/8/former-president-of-vietnam-vo-chi-cong-dies-in-ho-chi-minh-city-at-the-age-of-99.json)  [XML](/news/2011/09/8/former-president-of-vietnam-vo-chi-cong-dies-in-ho-chi-minh-city-at-the-age-of-99.xml)  
+
 ### [2011-09-8](/news/2011/09/8/index.md)
 
+##### President of Vietnam
 # Former President of Vietnam Vo Chi Cong dies in Ho Chi Minh City at the age of 99. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Hindustan Times](http://www.hindustantimes.com/Ex-Vietnam-President-Cong-dies-at-99/Article1-743415.aspx)
 

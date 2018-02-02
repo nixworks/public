@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/18/a-man-linked-to-the-paris-attacks-is-arrested-i
 
 ### [2016-01-18](/news/2016/01/18/index.md)
 
+##### November 2015 Paris attacks
 # A man linked to the Paris attacks is arrested in Mohammedia, Morocco. 
 
 The suspect, a Belgian of Moroccan origin, was arrested in the port city of Mohammedia, authorities say.

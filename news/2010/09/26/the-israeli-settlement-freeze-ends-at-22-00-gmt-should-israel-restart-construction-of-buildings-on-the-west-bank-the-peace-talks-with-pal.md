@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/26/the-israeli-settlement-freeze-ends-at-22-00-gmt-should-israel-restart-construction-of-buildings-on-the-west-bank-the-peace-talks-with-pal.html)  [JSON](/news/2010/09/26/the-israeli-settlement-freeze-ends-at-22-00-gmt-should-israel-restart-construction-of-buildings-on-the-west-bank-the-peace-talks-with-pal.json)  [XML](/news/2010/09/26/the-israeli-settlement-freeze-ends-at-22-00-gmt-should-israel-restart-construction-of-buildings-on-the-west-bank-the-peace-talks-with-pal.xml)  
+
 ### [2010-09-26](/news/2010/09/26/index.md)
 
+##### Israeli settlement freeze
 # The Israeli settlement freeze ends at 22.00 (GMT), should Israel restart construction of buildings on the West Bank the peace talks with Palestinian leader Mahmoud Abbas are expected to end. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11415719)
 2. [CNN](http://edition.cnn.com/2010/WORLD/meast/09/26/israel.settlement.moratorium/index.html?hpt=T1)

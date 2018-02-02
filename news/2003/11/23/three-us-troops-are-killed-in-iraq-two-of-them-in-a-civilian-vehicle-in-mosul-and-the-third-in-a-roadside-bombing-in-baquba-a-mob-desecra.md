@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/23/three-us-troops-are-killed-in-iraq-two-of-them-in-a-civilian-vehicle-in-mosul-and-the-third-in-a-roadside-bombing-in-baquba-a-mob-desecra.html)  [JSON](/news/2003/11/23/three-us-troops-are-killed-in-iraq-two-of-them-in-a-civilian-vehicle-in-mosul-and-the-third-in-a-roadside-bombing-in-baquba-a-mob-desecra.json)  [XML](/news/2003/11/23/three-us-troops-are-killed-in-iraq-two-of-them-in-a-civilian-vehicle-in-mosul-and-the-third-in-a-roadside-bombing-in-baquba-a-mob-desecra.xml)  
+
 ### [2003-11-23](/news/2003/11/23/index.md)
 
+##### Mosul
 #  Three US troops are killed in Iraq, two of them in a civilian vehicle in Mosul and the third in a roadside bombing in Baquba. A mob desecrates the bodies of the Mosul victims and loots their gear. A female acting ambassador to the US is chosen by Iraq's Governing Council: Rend al-Rahim Francke, an Iraqi-American educated in Britain, France and Lebanon.
 
 

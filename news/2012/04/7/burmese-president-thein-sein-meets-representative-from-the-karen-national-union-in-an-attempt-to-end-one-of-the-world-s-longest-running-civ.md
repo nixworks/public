@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/7/burmese-president-thein-sein-meets-representative-from-the-karen-national-union-in-an-attempt-to-end-one-of-the-world-s-longest-running-civ.html)  [JSON](/news/2012/04/7/burmese-president-thein-sein-meets-representative-from-the-karen-national-union-in-an-attempt-to-end-one-of-the-world-s-longest-running-civ.json)  [XML](/news/2012/04/7/burmese-president-thein-sein-meets-representative-from-the-karen-national-union-in-an-attempt-to-end-one-of-the-world-s-longest-running-civ.xml)  
+
 ### [2012-04-7](/news/2012/04/7/index.md)
 
+##### Burma
 # Burmese President Thein Sein meets representative from the Karen National Union, in an attempt to end one of the world's longest running civil conflicts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-17643633)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59540000/jpg/_59540454_theinseinafp.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/27/australian-minister-for-defence-stephen-smith-announces-that-women-will-be-serving-in-frontline-combat-roles-in-the-australian-military-with.html)  [JSON](/news/2011/09/27/australian-minister-for-defence-stephen-smith-announces-that-women-will-be-serving-in-frontline-combat-roles-in-the-australian-military-with.json)  [XML](/news/2011/09/27/australian-minister-for-defence-stephen-smith-announces-that-women-will-be-serving-in-frontline-combat-roles-in-the-australian-military-with.xml)  
+
 ### [2011-09-27](/news/2011/09/27/index.md)
 
+##### Australian
 # Australian Minister for Defence Stephen Smith announces that women will be serving in frontline-combat roles in the Australian military within five years. 
 
 Women will be allowed to serve in frontline combat roles within five years under changes announced today by Defence Minister Stephen Smith.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Online](http://www.abc.net.au/news/2011-09-27/women-on-the-frontline/2946258)
 1. [Cover Image](http://www.abc.net.au/news/image/2946524-1x1-700x700.jpg)

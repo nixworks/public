@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/06/11/president-george-w-bush-says-that-he-wants-to-solve-the-iran-issue-peacefully-but-all-options-are-on-the-table-in-a-joint-media-conferen.html)  [JSON](/news/2008/06/11/president-george-w-bush-says-that-he-wants-to-solve-the-iran-issue-peacefully-but-all-options-are-on-the-table-in-a-joint-media-conferen.json)  [XML](/news/2008/06/11/president-george-w-bush-says-that-he-wants-to-solve-the-iran-issue-peacefully-but-all-options-are-on-the-table-in-a-joint-media-conferen.xml)  
+
 ### [2008-06-11](/news/2008/06/11/index.md)
 
+##### U.S. President
 #  President George W. Bush says that he wants to solve the Iran issue peacefully but "all options are on the table" in a joint media conference with the Chancellor of Germany Angela Merkel. 
 
 President George W. Bush said on Wednesday he wants to solve the Iran issue peacefully but reiterated that all options are on the table.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/politicsNews/idUSBAT00226220080611)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080611&t=2&i=4721241&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-11T095635Z_01_BAT002262_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/politicsNews/idUSBAT00226220080611)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080611&t=2&i=4721241&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-06-11T095635Z_01_BAT002262_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

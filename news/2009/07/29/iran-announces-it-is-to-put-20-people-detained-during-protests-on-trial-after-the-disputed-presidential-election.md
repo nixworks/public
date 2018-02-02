@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/29/iran-announces-it-is-to-put-20-people-detained-during-protests-on-trial-after-the-disputed-presidential-election.html)  [JSON](/news/2009/07/29/iran-announces-it-is-to-put-20-people-detained-during-protests-on-trial-after-the-disputed-presidential-election.json)  [XML](/news/2009/07/29/iran-announces-it-is-to-put-20-people-detained-during-protests-on-trial-after-the-disputed-presidential-election.xml)  
+
 ### [2009-07-29](/news/2009/07/29/index.md)
 
+##### Iran
 #  Iran announces it is to put 20 people detained during protests on trial after the disputed presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jhIgSs3fkdump5PZ0SLnOc21F0QA)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-07/29/content_11793399.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/8/voters-go-to-the-polls-in-japan-for-local-elections-including-13-gubernatorial-elections-and-4-mayoral-races-with-the-most-closely-watched.html)  [JSON](/news/2007/04/8/voters-go-to-the-polls-in-japan-for-local-elections-including-13-gubernatorial-elections-and-4-mayoral-races-with-the-most-closely-watched.json)  [XML](/news/2007/04/8/voters-go-to-the-polls-in-japan-for-local-elections-including-13-gubernatorial-elections-and-4-mayoral-races-with-the-most-closely-watched.xml)  
+
 ### [2007-04-8](/news/2007/04/8/index.md)
 
+##### Japan
 #  Voters go to the polls in Japan for local elections including 13 gubernatorial elections and 4 mayoral races with the most closely watched race being for the Governor of Tokyo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6536509.stm)
 

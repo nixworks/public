@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/06/5/mexican-drug-war-the-dismembered-remains-of-7-bodies-are-found-in-the-mexican-state-of-sinaloa-the-bodies-are-discovered-along-with-a-writ.html)  [JSON](/news/2012/06/5/mexican-drug-war-the-dismembered-remains-of-7-bodies-are-found-in-the-mexican-state-of-sinaloa-the-bodies-are-discovered-along-with-a-writ.json)  [XML](/news/2012/06/5/mexican-drug-war-the-dismembered-remains-of-7-bodies-are-found-in-the-mexican-state-of-sinaloa-the-bodies-are-discovered-along-with-a-writ.xml)  
+
 ### [2012-06-5](/news/2012/06/5/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: The dismembered remains of 7 bodies are found in the Mexican state of Sinaloa. The bodies are discovered along with a written message accusing the authorities of cooperating with the Sinaloa Cartel, suggesting that the message may have been written by Los Zetas. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/the_americas/7-dismembered-bodies-found-in-mexican-pacific-coast-state-of-sinaloa/2012/06/05/gJQAcqxlGV_story.html)
+1. [Washington Post](https://www.washingtonpost.com/world/the_americas/7-dismembered-bodies-found-in-mexican-pacific-coast-state-of-sinaloa/2012/06/05/gJQAcqxlGV_story.html)
 
 ### Related:
 

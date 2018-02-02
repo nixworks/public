@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/1/scientists-find-that-middle-class-children-in-flanders-are-15-times-more-often-diagnosed-with-a-learning-disorder-than-poor-children.html)  [JSON](/news/2012/09/1/scientists-find-that-middle-class-children-in-flanders-are-15-times-more-often-diagnosed-with-a-learning-disorder-than-poor-children.json)  [XML](/news/2012/09/1/scientists-find-that-middle-class-children-in-flanders-are-15-times-more-often-diagnosed-with-a-learning-disorder-than-poor-children.xml)  
+
 ### [2012-09-1](/news/2012/09/1/index.md)
 
+##### Flanders
 # Scientists find that middle-class children in Flanders are 15 times more often diagnosed with a learning disorder than poor children. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [De Morgen](http://www.demorgen.be/dm/nl/1344/Onderwijs/article/detail/1494222/2012/09/01/Een-leerstoornis-is-te-koop.dhtml)
 1. [Cover Image](https://images2.persgroep.net/rcs/3CtW-EV4w3mexE23LIxDpbzd_MY/diocontent/57906019/_crop/1/1/899/508/_fill/1200/630/?appId=f215d2ebdcdad4aa3dc78550c5970d02&amp;quality=0.80&amp;format=jpg)

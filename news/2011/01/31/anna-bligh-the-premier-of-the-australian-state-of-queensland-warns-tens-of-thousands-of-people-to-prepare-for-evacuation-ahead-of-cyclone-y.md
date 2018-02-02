@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/31/anna-bligh-the-premier-of-the-australian-state-of-queensland-warns-tens-of-thousands-of-people-to-prepare-for-evacuation-ahead-of-cyclone-y.html)  [JSON](/news/2011/01/31/anna-bligh-the-premier-of-the-australian-state-of-queensland-warns-tens-of-thousands-of-people-to-prepare-for-evacuation-ahead-of-cyclone-y.json)  [XML](/news/2011/01/31/anna-bligh-the-premier-of-the-australian-state-of-queensland-warns-tens-of-thousands-of-people-to-prepare-for-evacuation-ahead-of-cyclone-y.xml)  
+
 ### [2011-01-31](/news/2011/01/31/index.md)
 
+##### Anna Bligh
 # Anna Bligh, the Premier of the Australian state of Queensland warns tens of thousands of people to prepare for evacuation ahead of Cyclone Yasi expected to hit later in the week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [the Australian](http://www.theaustralian.com.au/news/nation/east-coast-battens-down-for-intense-cyclone-yasi/story-e6frg6nf-1225997732544)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/8/palestinian-authority-justice-nahed-arreyes-resigns-stating-that-he-has-been-stripped-of-much-of-his-authority-over-the-legal-system.html)  [JSON](/news/2004/08/8/palestinian-authority-justice-nahed-arreyes-resigns-stating-that-he-has-been-stripped-of-much-of-his-authority-over-the-legal-system.json)  [XML](/news/2004/08/8/palestinian-authority-justice-nahed-arreyes-resigns-stating-that-he-has-been-stripped-of-much-of-his-authority-over-the-legal-system.xml)  
+
 ### [2004-08-8](/news/2004/08/8/index.md)
 
+##### Palestinian Authority
 #  Palestinian Authority Justice Nahed Arreyes resigns, stating that he has been stripped of much of his authority over the legal system. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://washingtontimes.com/world/20040807-112344-3852r.htm)
 

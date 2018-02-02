@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/10/several-police-have-been-injured-when-loyalist-gunmen-open-fire-after-the-whiterock-orange-order-parade-in-belfast-northern-ireland.html)  [JSON](/news/2005/09/10/several-police-have-been-injured-when-loyalist-gunmen-open-fire-after-the-whiterock-orange-order-parade-in-belfast-northern-ireland.json)  [XML](/news/2005/09/10/several-police-have-been-injured-when-loyalist-gunmen-open-fire-after-the-whiterock-orange-order-parade-in-belfast-northern-ireland.xml)  
+
 ### [2005-09-10](/news/2005/09/10/index.md)
 
+##### Loyalist
 #  Several police have been injured when Loyalist gunmen open fire after the Whiterock Orange Order Parade in Belfast, Northern Ireland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4233850.stm)
 

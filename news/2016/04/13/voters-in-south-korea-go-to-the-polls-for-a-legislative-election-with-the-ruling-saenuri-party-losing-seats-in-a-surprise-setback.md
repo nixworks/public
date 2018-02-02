@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/13/voters-in-south-korea-go-to-the-polls-for-a-leg
 
 ### [2016-04-13](/news/2016/04/13/index.md)
 
+##### South Korean legislative election, 2016
 # Voters in South Korea go to the polls for a legislative election with the ruling Saenuri Party losing seats in a surprise setback. 
 
 Saenuri Party Chairman Kim Moo Sung is resigning as its chairman, following a surprise setback for President Park Geun Hye’s ruling party in Wednesday’s election.
@@ -26,4 +27,4 @@ Saenuri Party Chairman Kim Moo Sung is resigning as its chairman, following a su
 2. [Former Saenuri Party member of the South Korean National Assembly Cho Hyun-ryong is jailed for five years for accepting bribes. ](/news/2015/11/27/former-saenuri-party-member-of-the-south-korean-national-assembly-cho-hyun-ryong-is-jailed-for-five-years-for-accepting-bribes.md) _Context: Saenuri Party, South Korea_
 3. [Voters in South Korea go to the polls with exit polls showing a very close race expected between Park Geun-hye of the conservative Saenuri Party and Moon Jae-in of the left-of-centre Democratic United Party. ](/news/2012/12/19/voters-in-south-korea-go-to-the-polls-with-exit-polls-showing-a-very-close-race-expected-between-park-geun-hye-of-the-conservative-saenuri-p.md) _Context: Saenuri Party, South Korea_
 4. [Voters in South Korea go to the polls for a legislative election with the governing Saenuri Party retaining control of the National Assembly of South Korea. ](/news/2012/04/11/voters-in-south-korea-go-to-the-polls-for-a-legislative-election-with-the-governing-saenuri-party-retaining-control-of-the-national-assembly.md) _Context: Saenuri Party, South Korea_
-5. [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md) _Context: South Korea_
+5. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: South Korea_

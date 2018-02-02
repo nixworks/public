@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/12/12/stanley-williams-is-denied-clemency-by-the-governor-of-california-arnold-schwarzenegger-the-us-supreme-court-also-refuses-to-stay-his-exe.html)  [JSON](/news/2005/12/12/stanley-williams-is-denied-clemency-by-the-governor-of-california-arnold-schwarzenegger-the-us-supreme-court-also-refuses-to-stay-his-exe.json)  [XML](/news/2005/12/12/stanley-williams-is-denied-clemency-by-the-governor-of-california-arnold-schwarzenegger-the-us-supreme-court-also-refuses-to-stay-his-exe.xml)  
+
 ### [2005-12-12](/news/2005/12/12/index.md)
 
+##### Stanley Williams
 #  Stanley Williams is denied clemency by the Governor of California, Arnold Schwarzenegger. The US Supreme Court also refuses to stay his execution. Williams is scheduled to be executed by lethal injection at 0:01 PST on December 13. There are some concerns of potential rioting and violence tonight across the state. [http:--sfgate.com-cgi-bin-article.cgi?f=-c-a-2005-12-12-MNGEAG6SI84.DTL (SF Chronicle)] [http:--www.governor.ca.gov-govsite-pdf-press_release_2005-Williams_Clemency_Statement.pdf (Governor's statement (PDF))]
 
 

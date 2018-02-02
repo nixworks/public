@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/12/algerian-national-reconciliation-abdelhak-layada-one-of-the-founder-of-the-armed-islamic-group-gia-is-released-from-prison-due-to-th.html)  [JSON](/news/2006/03/12/algerian-national-reconciliation-abdelhak-layada-one-of-the-founder-of-the-armed-islamic-group-gia-is-released-from-prison-due-to-th.json)  [XML](/news/2006/03/12/algerian-national-reconciliation-abdelhak-layada-one-of-the-founder-of-the-armed-islamic-group-gia-is-released-from-prison-due-to-th.xml)  
+
 ### [2006-03-12](/news/2006/03/12/index.md)
 
+##### Algerian "national reconciliation"
 #  Algerian "national reconciliation". Abdelhak Layada, one of the founder of the Armed Islamic Group (GIA), is released from prison due to the February 28, 2006, national reconciliation charter decree of application 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFI](http://www.rfi.fr/actufr/articles/075/article_42395.asp)
 

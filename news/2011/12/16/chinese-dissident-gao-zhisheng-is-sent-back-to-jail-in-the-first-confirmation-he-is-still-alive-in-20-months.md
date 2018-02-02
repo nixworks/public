@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/16/chinese-dissident-gao-zhisheng-is-sent-back-to-jail-in-the-first-confirmation-he-is-still-alive-in-20-months.html)  [JSON](/news/2011/12/16/chinese-dissident-gao-zhisheng-is-sent-back-to-jail-in-the-first-confirmation-he-is-still-alive-in-20-months.json)  [XML](/news/2011/12/16/chinese-dissident-gao-zhisheng-is-sent-back-to-jail-in-the-first-confirmation-he-is-still-alive-in-20-months.xml)  
+
 ### [2011-12-16](/news/2011/12/16/index.md)
 
+##### Gao Zhisheng
 # Chinese dissident Gao Zhisheng is sent back to jail, in the first confirmation he is still alive in 20 months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5jyrb4CB_9fN3J-EQ8-uOjJdkQb1w?docId=9ba3faa2fee14d12a82ad447ed529864)
 

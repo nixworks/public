@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2011/03/18/the-g7-sells-the-japanese-yen-in-order-to-reduce-its-value-in-the-first-joint-operation-on-currency-markets-since-2000.html)  [JSON](/news/2011/03/18/the-g7-sells-the-japanese-yen-in-order-to-reduce-its-value-in-the-first-joint-operation-on-currency-markets-since-2000.json)  [XML](/news/2011/03/18/the-g7-sells-the-japanese-yen-in-order-to-reduce-its-value-in-the-first-joint-operation-on-currency-markets-since-2000.xml)  
+
 ### [2011-03-18](/news/2011/03/18/index.md)
 
+##### G7
 # The G7 sells the Japanese yen in order to reduce its value in the first joint operation on currency markets since 2000. 
 
-Leading central banks carry out the first co-ordinated currency intervention for a decade, to try to help the yen and the Japanese economy.
+The Group of Seven jointly intervened in the foreign exchange market for the first time in more than a decade after Japan’s currency soared, threatening its recovery from the March 11 earthquake.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-12781534)
-2. [Bloomberg](http://www.bloomberg.com/news/2011-03-18/g-7-intervenes-to-weaken-yen-as-surging-currency-threathens-quake-recovery.html)
+2. [Bloomberg](https://www.bloomberg.com/news/2011-03-18/g-7-intervenes-to-weaken-yen-as-surging-currency-threathens-quake-recovery.html)
 3. [Kyodo News](http://english.kyodonews.jp/news/2011/03/79444.html)
-3. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
+3. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

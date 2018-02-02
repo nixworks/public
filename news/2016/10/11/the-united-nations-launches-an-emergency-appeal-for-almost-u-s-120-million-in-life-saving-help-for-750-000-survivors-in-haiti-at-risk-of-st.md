@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/11/the-united-nations-launches-an-emergency-appeal
 
 ### [2016-10-11](/news/2016/10/11/index.md)
 
+##### Hurricane Matthew
 # The United Nations launches an emergency appeal for almost U.S.$120 million in life-saving help for 750,000 survivors in Haiti at risk of starvation and-or cholera. 
 
 Parts of Haiti hit by Matthew were still without aid Tuesday, as the U.N. sought $120 million in life-saving aid for 750,000 survivors at risk of cholera.

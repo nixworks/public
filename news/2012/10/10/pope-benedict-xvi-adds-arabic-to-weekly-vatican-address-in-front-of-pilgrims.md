@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/10/pope-benedict-xvi-adds-arabic-to-weekly-vatican-address-in-front-of-pilgrims.html)  [JSON](/news/2012/10/10/pope-benedict-xvi-adds-arabic-to-weekly-vatican-address-in-front-of-pilgrims.json)  [XML](/news/2012/10/10/pope-benedict-xvi-adds-arabic-to-weekly-vatican-address-in-front-of-pilgrims.xml)  
+
 ### [2012-10-10](/news/2012/10/10/index.md)
 
+##### Pope
 # Pope Benedict XVI adds Arabic to weekly Vatican address in front of pilgrims. 
 
 The head of the Roman Catholic Church, Pope Benedict XVI, speaks in Arabic for the first time during his weekly address to pilgrims to the Vatican.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19903584)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63416000/jpg/_63416107_63416106.jpg)

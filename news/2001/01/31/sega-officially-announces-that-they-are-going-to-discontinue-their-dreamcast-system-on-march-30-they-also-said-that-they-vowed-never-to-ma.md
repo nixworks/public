@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/01/31/sega-officially-announces-that-they-are-going-to-discontinue-their-dreamcast-system-on-march-30-they-also-said-that-they-vowed-never-to-ma.html)  [JSON](/news/2001/01/31/sega-officially-announces-that-they-are-going-to-discontinue-their-dreamcast-system-on-march-30-they-also-said-that-they-vowed-never-to-ma.json)  [XML](/news/2001/01/31/sega-officially-announces-that-they-are-going-to-discontinue-their-dreamcast-system-on-march-30-they-also-said-that-they-vowed-never-to-ma.xml)  
+
 ### [2001-01-31](/news/2001/01/31/index.md)
 
+##### Sega
 #  Sega officially announces that they are going to discontinue their Dreamcast system on March 30. They also said that they vowed never to make another video game system ever again and to make only video games.
 
 

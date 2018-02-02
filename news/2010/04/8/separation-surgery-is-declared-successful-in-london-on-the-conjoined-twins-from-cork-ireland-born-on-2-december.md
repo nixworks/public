@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/8/separation-surgery-is-declared-successful-in-london-on-the-conjoined-twins-from-cork-ireland-born-on-2-december.html)  [JSON](/news/2010/04/8/separation-surgery-is-declared-successful-in-london-on-the-conjoined-twins-from-cork-ireland-born-on-2-december.json)  [XML](/news/2010/04/8/separation-surgery-is-declared-successful-in-london-on-the-conjoined-twins-from-cork-ireland-born-on-2-december.xml)  
+
 ### [2010-04-8](/news/2010/04/8/index.md)
 
+##### London
 # Separation surgery is declared successful in London on the conjoined twins from Cork, Ireland, born on 2 December. 
 
 A 14-hour operation to separate conjoined twins, Hassan and Hussein Benhaffaf from Cork, has been completed at Great Ormond Street Hospital in London.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/health/8609487.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/04/08/uk.conjoined.twins/index.html)
@@ -17,8 +21,8 @@ A 14-hour operation to separate conjoined twins, Hassan and Hussein Benhaffaf fr
 
 ### Related:
 
-1. [AMC Theatres is purchasing London-based Odeon & UCI Cinemas Group in a deal valued at about GBP921 million ($1.21 billion). AMC has 385 theaters with 5,380 screens, most in the United States. Odeon & UCI has 242 theaters and 2,236 screens in the U.K. and Ireland. AMC noted its $1.1 billion (GBP835 million) acquisition of Columbus, Georgia's Carmike Cinemas (276 thrs-2,954 scrs) is still in the works. ](/news/2016/07/12/amc-theatres-is-purchasing-london-based-odeon-uci-cinemas-group-in-a-deal-valued-at-about-agbp921-million-1-21-billion-amc-has-385-the.md) _Context: Ireland, London_
-2. [Seven people are arrested in Ireland &mdash; five in Waterford and two in Cork &mdash; over an alleged plot to assassinate Swedish artist Lars Vilks. ](/news/2010/03/9/seven-people-are-arrested-in-ireland-mdash-five-in-waterford-and-two-in-cork-mdash-over-an-alleged-plot-to-assassinate-swedish-artist-la.md) _Context: Cork, Ireland_
-3. [ The Garda Sochna and Metropolitan Police Service in London arrest and charge three men in connection with Ireland's largest cocaine seizure in West Cork in July 2007. ](/news/2009/07/28/the-garda-siochana-and-metropolitan-police-service-in-london-arrest-and-charge-three-men-in-connection-with-ireland-s-largest-cocaine-seizu.md) _Context: Ireland, London_
-4. [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver but later released him. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md) _Context: London_
-5. [Schools and hospitals are closed in Ireland and Northern Ireland as the extratropical cyclone Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-extratropical-cyclone-ophelia-is-forecasted-to-make-landfall-on-the.md) _Context: Ireland_
+1. [AMC Theatres is purchasing London-based Odeon & UCI Cinemas Group in a deal valued at about GBP921 million ($1.21 billion). AMC has 385 theaters with 5,380 screens, most in the United States. Odeon & UCI has 242 theaters and 2,236 screens in the U.K. and Ireland. AMC noted its $1.1 billion (GBP835 million) acquisition of Columbus, Georgia's Carmike Cinemas (276 thrs-2,954 scrs) is still in the works. ](/news/2016/07/12/amc-theatres-is-purchasing-london-based-odeon-uci-cinemas-group-in-a-deal-valued-at-about-agbp921-million-1-21-billion-amc-has-385-the.md) _Context: Irish, London_
+2. [Seven people are arrested in Ireland &mdash; five in Waterford and two in Cork &mdash; over an alleged plot to assassinate Swedish artist Lars Vilks. ](/news/2010/03/9/seven-people-are-arrested-in-ireland-mdash-five-in-waterford-and-two-in-cork-mdash-over-an-alleged-plot-to-assassinate-swedish-artist-la.md) _Context: Cork, Irish_
+3. [ The Garda Sochna and Metropolitan Police Service in London arrest and charge three men in connection with Ireland's largest cocaine seizure in West Cork in July 2007. ](/news/2009/07/28/the-garda-siochana-and-metropolitan-police-service-in-london-arrest-and-charge-three-men-in-connection-with-ireland-s-largest-cocaine-seizu.md) _Context: Irish, London_
+4. [Senior politicians express outrage after an investigative report by the "Financial Times" on groping practices at a Dorchester hotel charity gala held by the London-based Presidents Club old boy network. Boris Johnson and Mark Carney both deny knowing that their lunch or tea time was sold as lots in the club's charitable auction. ](/news/2018/01/24/senior-politicians-express-outrage-after-an-investigative-report-by-the-financial-times-on-groping-practices-at-a-dorchester-hotel-charity.md) _Context: London_
+5. [It is revealed that Ecuador granted citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/it-is-revealed-that-ecuador-granted-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-emba.md) _Context: London_

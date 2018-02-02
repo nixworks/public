@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/7/archaeologists-announce-the-discovery-of-the-remains-of-the-16th-century-curtain-theatre-where-some-of-william-shakespeare-s-plays-were-fir.html)  [JSON](/news/2012/06/7/archaeologists-announce-the-discovery-of-the-remains-of-the-16th-century-curtain-theatre-where-some-of-william-shakespeare-s-plays-were-fir.json)  [XML](/news/2012/06/7/archaeologists-announce-the-discovery-of-the-remains-of-the-16th-century-curtain-theatre-where-some-of-william-shakespeare-s-plays-were-fir.xml)  
+
 ### [2012-06-7](/news/2012/06/7/index.md)
 
+##### Curtain Theatre
 # Archaeologists announce the discovery of the remains of the 16th-century Curtain Theatre, where some of William Shakespeare's plays were first performed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-18351007)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/60748000/jpg/_60748005_60748001.jpg)

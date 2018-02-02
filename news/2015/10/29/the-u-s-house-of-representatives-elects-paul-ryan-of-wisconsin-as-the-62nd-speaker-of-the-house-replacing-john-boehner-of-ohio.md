@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/10/29/the-u-s-house-of-representatives-elects-paul-ryan-of-wisconsin-as-the-62nd-speaker-of-the-house-replacing-john-boehner-of-ohio.html)  [JSON](/news/2015/10/29/the-u-s-house-of-representatives-elects-paul-ryan-of-wisconsin-as-the-62nd-speaker-of-the-house-replacing-john-boehner-of-ohio.json)  [XML](/news/2015/10/29/the-u-s-house-of-representatives-elects-paul-ryan-of-wisconsin-as-the-62nd-speaker-of-the-house-replacing-john-boehner-of-ohio.xml)  
+
 ### [2015-10-29](/news/2015/10/29/index.md)
 
+##### Speaker of the United States House of Representatives election, October 2015
 # The U.S. House of Representatives elects Paul Ryan of Wisconsin as the 62nd Speaker of the House replacing John Boehner of Ohio. 
 
+Paul D. Ryan, the Wisconsin Republican, insisted on the backing of the party’s right wing before taking the job. But budget issues could soon test that unity.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/10/30/us/politics/paul-ryan-set-to-take-over-as-speaker-hoping-to-manage-the-chaos.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
+1. [New York Times](https://www.nytimes.com/2015/10/30/us/politics/paul-ryan-set-to-take-over-as-speaker-hoping-to-manage-the-chaos.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news&_r=0)
+1. [Cover Image](https://static01.nyt.com/images/2015/10/30/us/politics/CONG-RFR/CONG-RFR-facebookJumbo.jpg)
 
 ### Related:
 

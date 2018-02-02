@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/16/the-united-national-liberation-front-attacks-an-indian-army-camp-in-minou-in-the-chandel-district-of-manipur-killing-at-least-six-soldier.html)  [JSON](/news/2008/03/16/the-united-national-liberation-front-attacks-an-indian-army-camp-in-minou-in-the-chandel-district-of-manipur-killing-at-least-six-soldier.json)  [XML](/news/2008/03/16/the-united-national-liberation-front-attacks-an-indian-army-camp-in-minou-in-the-chandel-district-of-manipur-killing-at-least-six-soldier.xml)  
+
 ### [2008-03-16](/news/2008/03/16/index.md)
 
+##### United National Liberation Front
 #  The United National Liberation Front attacks an Indian Army camp in Minou, in the Chandel district of Manipur, killing at least six soldiers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7299156.stm)
 

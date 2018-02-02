@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/21/minneapolis-police-chief-janea-c-harteau-upon-r
 
 ### [2017-07-21](/news/2017/07/21/index.md)
 
+##### Shooting of Justine Damond
 #  Minneapolis Police Chief Janee Harteau, upon reflection and at Mayor Betsy Hodges's request, resigns in the wake of last Saturday's tragedy as well as some other recent incidents. 
 
 &quot;I have to put the communities we serve first,&quot; she said.

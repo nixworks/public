@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/1/the-yonhap-news-agency-reports-that-north-korea-is-tightening-border-controls-with-south-korea-to-stop-defections.html)  [JSON](/news/2011/07/1/the-yonhap-news-agency-reports-that-north-korea-is-tightening-border-controls-with-south-korea-to-stop-defections.json)  [XML](/news/2011/07/1/the-yonhap-news-agency-reports-that-north-korea-is-tightening-border-controls-with-south-korea-to-stop-defections.xml)  
+
 ### [2011-07-1](/news/2011/07/1/index.md)
 
+##### Yonhap
 # The Yonhap News Agency reports that North Korea is tightening border controls with South Korea to stop defections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap News](http://english.yonhapnews.co.kr/news/2011/07/01/0200000000AEN20110701002800315.HTML)
 

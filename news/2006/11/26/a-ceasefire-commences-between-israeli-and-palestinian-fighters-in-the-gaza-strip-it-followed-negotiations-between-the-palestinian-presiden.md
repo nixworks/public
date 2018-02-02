@@ -1,15 +1,26 @@
+
+Formats: [HTML](/news/2006/11/26/a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations-between-the-palestinian-presiden.html)  [JSON](/news/2006/11/26/a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations-between-the-palestinian-presiden.json)  [XML](/news/2006/11/26/a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations-between-the-palestinian-presiden.xml)  
+
 ### [2006-11-26](/news/2006/11/26/index.md)
 
+##### ceasefire
 #  A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. 
 
 Rocket fire from Gaza subsided Sunday after a daybreak cease-fire, raising hopes for an end to five months of bloody destruction and a new opening toward peace talks.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20061126/ap_on_re_mi_ea/israel_palestinians)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20061126/ap_on_re_mi_ea/israel_palestinians)
 2. [MSNBC](http://www.msnbc.msn.com/id/15894040/)
 2. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Photos/061127/061127_gaza_hmed_3a.standard.jpg)
+
+### Changes:
+
+1. [ Israeli-Palestinian conflict: A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. ](/news/2006/11/26/israeli-palestinian-conflict-p-a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations.md) _2017-05-25 03:19:07 (First version)_
+2. [ Israeli-Palestinian conflict: A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. ](/news/2006/11/26/israeli-palestinian-conflict-p-a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations-b.md) _2017-08-25 03:18:50 (Update)_
+3. [ Israeli-Palestinian conflict:: A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. ](/news/2006/11/26/israeli-palestinian-conflict-a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations-b.md) _2017-08-27 03:18:45 (Update)_
+3. [ A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. ](/news/2006/11/26/a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations-between-the-palestinian-presiden.md) _(Current version)_
 
 ### Related:
 
@@ -18,10 +29,3 @@ Rocket fire from Gaza subsided Sunday after a daybreak cease-fire, raising hopes
 3. [ Eight Palestinian militants, including Hamas militants, infiltrate into an army post in Israel using a tunnel. Two Israeli soldiers are killed, one kidnapped and three wounded in the attack, in which at least two Palestinian militants die. Israeli PM vows a fierce military response to the attack once the soldier, Gilad Shalit, is returned. Two infantry brigades and supporting armoured regiments are deployed along the Gaza Strip border, in preparation for a major offensive.](/news/2006/06/25/eight-palestinian-militants-including-hamas-militants-infiltrate-into-an-army-post-in-israel-using-a-tunnel-two-israeli-soldiers-are-kil.md) _Context: Ehud Olmert, Gaza Strip, Israel, Palestinian_
 4. [ Israeli Prime Minister Ehud Olmert and Palestinean President Mahmoud Abbas will attend a common meeting later this week. ](/news/2006/06/20/israeli-prime-minister-ehud-olmert-and-palestinean-president-mahmoud-abbas-will-attend-a-common-meeting-later-this-week.md) _Context: Ehud Olmert, Israel, Mahmoud Abbas, Palestinian Authority President_
 5. [ Israeli-Palestinian conflict: Palestinian leader Mahmoud Abbas travels to the Gaza Strip to persuade militant groups to join the ceasefire announced with Israel three days ago. ](/news/2005/02/11/israeli-palestinian-conflict-palestinian-leader-mahmoud-abbas-travels-to-the-gaza-strip-to-persuade-militant-groups-to-join-the-ceasefire.md) _Context: Gaza Strip, Israel, Mahmoud Abbas, Palestinian_
-
-### Changes:
-
-1. [ Israeli-Palestinian conflict: A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. ](/news/2006/11/26/israeli-palestinian-conflict-p-a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations.md) _2017-05-25 03:19:07 (First version)_
-2. [ Israeli-Palestinian conflict: A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. ](/news/2006/11/26/israeli-palestinian-conflict-p-a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations-b.md) _2017-08-25 03:18:50 (Update)_
-3. [ Israeli-Palestinian conflict:: A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. ](/news/2006/11/26/israeli-palestinian-conflict-a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations-b.md) _2017-08-27 03:18:45 (Update)_
-3. [ A ceasefire commences between Israeli and Palestinian fighters in the Gaza Strip. It followed negotiations between the Palestinian President Mahmoud Abbas and Israeli Prime Minister Ehud Olmert. ](/news/2006/11/26/a-ceasefire-commences-between-israeli-and-palestinian-fighters-in-the-gaza-strip-it-followed-negotiations-between-the-palestinian-presiden.md) _(Current version)_

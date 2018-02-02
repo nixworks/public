@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-betwee
 
 ### [2017-09-2](/news/2017/09/2/index.md)
 
+##### Timor Gap
 # Australia and East Timor settle a dispute between the two countries in the Timor Sea. 
 
 Australia and Timor-Leste resolve their bitter and long-running dispute over maritime boundaries in the Timor Sea.

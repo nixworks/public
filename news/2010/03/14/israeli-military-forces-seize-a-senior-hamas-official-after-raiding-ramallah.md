@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/03/14/israeli-military-forces-seize-a-senior-hamas-official-after-raiding-ramallah.html)  [JSON](/news/2010/03/14/israeli-military-forces-seize-a-senior-hamas-official-after-raiding-ramallah.json)  [XML](/news/2010/03/14/israeli-military-forces-seize-a-senior-hamas-official-after-raiding-ramallah.xml)  
+
 ### [2010-03-14](/news/2010/03/14/index.md)
 
+##### Israel
 # Israeli military forces seize a senior Hamas official after raiding Ramallah. 
 
 Israeli forces arrested a senior Hamas figure on Sunday after a raid in the town of Ramallah, the seat of the West Bank-based Palestinian government, the Israeli military said.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/03/14/2845450.htm?section=world)
 2. [Hindustan Times](http://www.hindustantimes.com/News-Feed/restofasia/Israel-arrests-top-Hamas-militant/Article1-518983.aspx)
-3. [Reuters](http://www.reuters.com/article/idUSTRE62D0IQ20100314)
-3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100314&t=2&i=75696214&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-14T133149Z_01_BTRE62D11L800_RTROPTP_0_PALESTINIANS-ISRAEL-ARREST)
+3. [Reuters](https://www.reuters.com/article/idUSTRE62D0IQ20100314)
+3. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20100314&t=2&i=75696214&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-14T133149Z_01_BTRE62D11L800_RTROPTP_0_PALESTINIANS-ISRAEL-ARREST)
 
 ### Related:
 

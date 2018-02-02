@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/23/egyptian-authorities-blame-the-gaza-based-army-of-islam-group-for-an-attack-on-a-coptic-christian-church-in-alexandria-on-1-january.html)  [JSON](/news/2011/01/23/egyptian-authorities-blame-the-gaza-based-army-of-islam-group-for-an-attack-on-a-coptic-christian-church-in-alexandria-on-1-january.json)  [XML](/news/2011/01/23/egyptian-authorities-blame-the-gaza-based-army-of-islam-group-for-an-attack-on-a-coptic-christian-church-in-alexandria-on-1-january.xml)  
+
 ### [2011-01-23](/news/2011/01/23/index.md)
 
+##### Egypt
 # Egyptian authorities blame the Gaza-based Army of Islam group for an attack on a Coptic Christian church in Alexandria on 1 January. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/201112311414915283.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/2/20111211323409360_20.jpg)

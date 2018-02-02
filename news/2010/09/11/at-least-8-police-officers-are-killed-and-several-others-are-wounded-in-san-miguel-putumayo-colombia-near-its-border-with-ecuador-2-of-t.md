@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/11/at-least-8-police-officers-are-killed-and-several-others-are-wounded-in-san-miguel-putumayo-colombia-near-its-border-with-ecuador-2-of-t.html)  [JSON](/news/2010/09/11/at-least-8-police-officers-are-killed-and-several-others-are-wounded-in-san-miguel-putumayo-colombia-near-its-border-with-ecuador-2-of-t.json)  [XML](/news/2010/09/11/at-least-8-police-officers-are-killed-and-several-others-are-wounded-in-san-miguel-putumayo-colombia-near-its-border-with-ecuador-2-of-t.xml)  
+
 ### [2010-09-11](/news/2010/09/11/index.md)
 
+##### San Miguel
 # At least 8 police officers are killed and several others are wounded in San Miguel, Putumayo, Colombia, near its border with Ecuador. 2 of the perpetrators are then killed in the jungle. 
 
 Left-wing rebels in Colombia kill at least eight police officers and wound several more in an attack on a town near the border with Ecuador.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11268352)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

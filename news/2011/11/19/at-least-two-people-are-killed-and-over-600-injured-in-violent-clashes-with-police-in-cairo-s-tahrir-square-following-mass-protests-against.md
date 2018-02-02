@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/19/at-least-two-people-are-killed-and-over-600-injured-in-violent-clashes-with-police-in-cairo-s-tahrir-square-following-mass-protests-against.html)  [JSON](/news/2011/11/19/at-least-two-people-are-killed-and-over-600-injured-in-violent-clashes-with-police-in-cairo-s-tahrir-square-following-mass-protests-against.json)  [XML](/news/2011/11/19/at-least-two-people-are-killed-and-over-600-injured-in-violent-clashes-with-police-in-cairo-s-tahrir-square-following-mass-protests-against.xml)  
+
 ### [2011-11-19](/news/2011/11/19/index.md)
 
+##### Cairo
 # At least two people are killed and over 600 injured in violent clashes with police in Cairo's Tahrir Square, following mass protests against Egypt's post-revolutionary military leadership. 
 
 Clashes erupt between Egyptian security forces and protesters in Cairo and Alexandria, killing two and injuring hundreds.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://blogs.aljazeera.com/liveblog/egypt-nov-20-2011-0001)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-15807441)

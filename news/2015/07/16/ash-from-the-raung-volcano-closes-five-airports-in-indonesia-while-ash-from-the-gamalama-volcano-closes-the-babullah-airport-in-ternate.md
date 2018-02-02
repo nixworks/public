@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/16/ash-from-the-raung-volcano-closes-five-airports-in-indonesia-while-ash-from-the-gamalama-volcano-closes-the-babullah-airport-in-ternate.html)  [JSON](/news/2015/07/16/ash-from-the-raung-volcano-closes-five-airports-in-indonesia-while-ash-from-the-gamalama-volcano-closes-the-babullah-airport-in-ternate.json)  [XML](/news/2015/07/16/ash-from-the-raung-volcano-closes-five-airports-in-indonesia-while-ash-from-the-gamalama-volcano-closes-the-babullah-airport-in-ternate.xml)  
+
 ### [2015-07-16](/news/2015/07/16/index.md)
 
+##### Raung
 # Ash from the Raung volcano closes five airports in Indonesia, while ash from the Gamalama volcano closes the Babullah Airport in Ternate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/volcanic-ash-shuts/1989650.html)
 1. [Cover Image](http://www.channelnewsasia.com/image/1989666/1437060991000/large16x9/640/360/indonesia-airports-closed-eve-of-eid.jpg)

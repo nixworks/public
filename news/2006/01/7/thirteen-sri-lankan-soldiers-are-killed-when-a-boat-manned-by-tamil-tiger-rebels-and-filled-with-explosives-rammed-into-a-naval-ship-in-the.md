@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/7/thirteen-sri-lankan-soldiers-are-killed-when-a-boat-manned-by-tamil-tiger-rebels-and-filled-with-explosives-rammed-into-a-naval-ship-in-the.html)  [JSON](/news/2006/01/7/thirteen-sri-lankan-soldiers-are-killed-when-a-boat-manned-by-tamil-tiger-rebels-and-filled-with-explosives-rammed-into-a-naval-ship-in-the.json)  [XML](/news/2006/01/7/thirteen-sri-lankan-soldiers-are-killed-when-a-boat-manned-by-tamil-tiger-rebels-and-filled-with-explosives-rammed-into-a-naval-ship-in-the.xml)  
+
 ### [2006-01-7](/news/2006/01/7/index.md)
 
+##### Sri Lanka
 #  Thirteen Sri Lankan soldiers are killed when a boat manned by Tamil Tiger rebels and filled with explosives rammed into a naval ship in the port city of Trincomalee. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/asiapcf/01/06/srilanka.attack/index.html)
 

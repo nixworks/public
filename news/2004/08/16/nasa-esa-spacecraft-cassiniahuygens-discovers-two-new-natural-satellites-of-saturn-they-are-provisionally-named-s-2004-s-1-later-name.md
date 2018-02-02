@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/16/nasa-esa-spacecraft-cassiniahuygens-discovers-two-new-natural-satellites-of-saturn-they-are-provisionally-named-s-2004-s-1-later-name.html)  [JSON](/news/2004/08/16/nasa-esa-spacecraft-cassiniahuygens-discovers-two-new-natural-satellites-of-saturn-they-are-provisionally-named-s-2004-s-1-later-name.json)  [XML](/news/2004/08/16/nasa-esa-spacecraft-cassiniahuygens-discovers-two-new-natural-satellites-of-saturn-they-are-provisionally-named-s-2004-s-1-later-name.xml)  
+
 ### [2004-08-16](/news/2004/08/16/index.md)
 
+##### NASA
 #  NASA-ESA Spacecraft Cassini-Huygens discovers two new natural satellites of Saturn. They are provisionally named "S-2004 S 1" (later named "Methone") and "S-2004 S 2" (later named "Pallene"). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://saturn.jpl.nasa.gov/news/press-releases-04/20040816-pr-a.cfm)
 

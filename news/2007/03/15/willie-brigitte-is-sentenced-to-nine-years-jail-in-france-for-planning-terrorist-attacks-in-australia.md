@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/15/willie-brigitte-is-sentenced-to-nine-years-jail-in-france-for-planning-terrorist-attacks-in-australia.html)  [JSON](/news/2007/03/15/willie-brigitte-is-sentenced-to-nine-years-jail-in-france-for-planning-terrorist-attacks-in-australia.json)  [XML](/news/2007/03/15/willie-brigitte-is-sentenced-to-nine-years-jail-in-france-for-planning-terrorist-attacks-in-australia.xml)  
+
 ### [2007-03-15](/news/2007/03/15/index.md)
 
+##### Willie Brigitte
 #  Willie Brigitte is sentenced to nine years' jail in France for planning terrorist attacks in Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200703/s1873090.htm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/10/a-suspected-saudi-missile-strike-on-a-ma-c-deci
 
 ### [2016-01-10](/news/2016/01/10/index.md)
 
+##### Yemeni Civil War (2015-present)
 # A suspected Saudi missile strike on a Medecins Sans Frontieres (MSF) clinic in Razih, located in Yemen's northern Saada Governorate, leaves at least five people dead and around a dozen injured. 
 
 At least five people have been killed in a missile strike on a Medecins Sans Frontieres medical facility in Yemen. The organization “strongly condemns this,” while adding that 10 people have been injured in the attack.

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/02/28/a-thai-court-sentences-leftist-political-activist-surachai-danwattananusorn-to-seven-and-a-half-years-in-jail-for-lese-majeste-or-insulting.html)  [JSON](/news/2012/02/28/a-thai-court-sentences-leftist-political-activist-surachai-danwattananusorn-to-seven-and-a-half-years-in-jail-for-lese-majeste-or-insulting.json)  [XML](/news/2012/02/28/a-thai-court-sentences-leftist-political-activist-surachai-danwattananusorn-to-seven-and-a-half-years-in-jail-for-lese-majeste-or-insulting.xml)  
+
 ### [2012-02-28](/news/2012/02/28/index.md)
 
+##### Thai Society
 # A Thai court sentences leftist political activist Surachai Danwattananusorn to seven and a half years in jail for lese majeste or insulting the Thai monarchy. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/28/us-thailand-lesemajeste-idUSTRE81R0C520120228)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/02/28/us-thailand-lesemajeste-idUSTRE81R0C520120228)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

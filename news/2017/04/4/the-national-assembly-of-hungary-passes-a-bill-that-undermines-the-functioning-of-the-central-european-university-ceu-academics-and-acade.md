@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/4/the-national-assembly-of-hungary-passes-a-bill-t
 
 ### [2017-04-4](/news/2017/04/4/index.md)
 
+##### National Assembly
 # The National Assembly of Hungary passes a bill that undermines the functioning of the Central European University (CEU). Academics and academic institutions worldwide have expressed support for CEU. 
 
 The new legislation could force the respected Central European University from the country.

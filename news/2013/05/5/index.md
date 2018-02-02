@@ -1,44 +1,61 @@
+
+Formats: [HTML](2013/05/5/index.html)  [JSON](2013/05/5/index.json)  [XML](2013/05/5/index.xml)  
+
 ## [2013-05-5](/news/2013/05/5/index.md)
 
+##### Israel
 ### [Israeli aircraft hit at least six targets near Damascus, targeting Iranian-made Fateh-110 missile shipments en route to Hezbollah. ](/news/2013/05/5/israeli-aircraft-hit-at-least-six-targets-near-damascus-targeting-iranian-made-fateh-110-missile-shipments-en-route-to-hezbollah.md)
 Multiple explosions shake the suburbs of Damascus, with Syria accusing Israel of launching its second attack in two days.
 
+##### New People's Army
 ### [New People's Army attack a mining site at Sipalay, Negros Occidental and burn equipment. A firefight ensues leaving five soldiers dead and two wounded. ](/news/2013/05/5/new-people-s-army-attack-a-mining-site-at-sipalay-negros-occidental-and-burn-equipment-a-firefight-ensues-leaving-five-soldiers-dead-and-t.md)
 Five soldiers were killed and two others were wounded yesterday during pursuit operations against communist New People’s Army (NPA) rebels who attacked a mining complex in Sipalay City, Negros Occidental late Friday. 
 
+##### Qatar
 ### [Eight people are dead after a suicide bomber rams an explosive-laden car into a convoy carrying Qatari officials through the center of Somalia's capital Mogadishu. Al-Shabaab claims responsibility for the attack. ](/news/2013/05/5/eight-people-are-dead-after-a-suicide-bomber-rams-an-explosive-laden-car-into-a-convoy-carrying-qatari-officials-through-the-center-of-somal.md)
-_Context: Al-Shabaab, Mogadishu, Qatar, Somalia_
+_Context: Somalia, Qatar, Mogadishu, Al-Shabaab_
 
+##### Hefajat-e-Islam
 ### [Three people are dead and over 200 are injured when Hefajat-e-Islam and Jamaat-e-Islami clash with police in Dhaka, Bangladesh. ](/news/2013/05/5/three-people-are-dead-and-over-200-are-injured-when-hefajat-e-islam-and-jamaat-e-islami-clash-with-police-in-dhaka-bangladesh.md)
 At least three people were killed and over 200 injured as radical Islamists of Hefajat-e Islam and Jamaat-e-Islami jointly clashed with the police at the capital during the Dhaka Siege programme by th
 
+##### Roman Catholic
 ### [One person is dead and another 57 are injured after a bomb detonates inside a Roman Catholic church in Arusha, Tanzania. ](/news/2013/05/5/one-person-is-dead-and-another-57-are-injured-after-a-bomb-detonates-inside-a-roman-catholic-church-in-arusha-tanzania.md)
 A suspected bomb attack on a new Catholic church in the northern Tanzanian town of Arusha killed at least one person and wounded dozens of others on Sunday, police said.
 
+##### Adamawa State
 ### [10 people are killed in an attack on a church and a local market in Njilan, Adamawa State, Nigeria. ](/news/2013/05/5/10-people-are-killed-in-an-attack-on-a-church-and-a-local-market-in-njilan-adamawa-state-nigeria.md)
-_Context: Adamawa State, Nigeria_
+_Context: Nigeria, Adamawa State_
 
+##### limousine
 ### [A limousine catches fire on the San Mateo Bridge in Hayward, California, United States killing five women and injuring four trapped inside. ](/news/2013/05/5/a-limousine-catches-fire-on-the-san-mateo-bridge-in-hayward-california-united-states-killing-five-women-and-injuring-four-trapped-inside.md)
-_Context: California, Hayward, San Mateo Bridge, United States, limousine_
+_Context: California, San Mateo Bridge, limousine, U.S., Hayward_
 
+##### air show
 ### [A military aircraft crashes during an air show killing the pilot and injuring another 19 on the ground in Madrid, Spain. ](/news/2013/05/5/a-military-aircraft-crashes-during-an-air-show-killing-the-pilot-and-injuring-another-19-on-the-ground-in-madrid-spain.md)
 _Context: Madrid, Spain, air show_
 
+##### Bangladesh
 ### [The death toll in Bangladesh rises to 622. ](/news/2013/05/5/the-death-toll-in-bangladesh-rises-to-622.md)
 _Context: Bangladesh_
 
+##### drive-by shooting
 ### [Six people are wounded during a drive-by shooting outside a McDonald's restaurant in East Palo Alto, California, United States. ](/news/2013/05/5/six-people-are-wounded-during-a-drive-by-shooting-outside-a-mcdonald-s-restaurant-in-east-palo-alto-california-united-states.md)
-_Context: California, East Palo Alto, McDonald's restaurants, United States, drive-by shooting_
+_Context: California, McDonald's restaurants, U.S., East Palo Alto, drive-by shooting_
 
+##### Malaysia
 ### [Malaysia's ruling coalition Barisan Nasional retains a majority of parliamentary seats in the general election. ](/news/2013/05/5/malaysia-s-ruling-coalition-barisan-nasional-retains-a-majority-of-parliamentary-seats-in-the-general-election.md)
-_Context: Barisan Nasional, Malaysia, general election_
+_Context: general election, Malaysia, Barisan Nasional_
 
+##### Helmin Wiels
 ### [Helmin Wiels, leader of the largest political party in Curacao, is assassinated. ](/news/2013/05/5/helmin-wiels-leader-of-the-largest-political-party-in-curaassao-is-assassinated.md)
 Unidentified gunmen on the Dutch Caribbean island of Curacao kill Helmin Wiels, a prominent politician who campaigned for independence.
 
+##### M51 missile
 ### [A test of an M51 missile by the French military ends in failure when it self-destructs in midair. ](/news/2013/05/5/a-test-of-an-m51-missile-by-the-french-military-ends-in-failure-when-it-self-destructs-in-midair.md)
 A&#x20;ballistic&#x20;missile&#x20;was&#x20;launched&#x20;during&#x20;a&#x20;trial&#x20;run&#x20;in&#x20;Normandy,&#x20;France&#x20;on&#x20;Sunday,&#x20;but&#x20;self-destructed&#x20;minutes&#x20;later.&#x20;The&#x20;ministry&#x20;has&#x20;not&#x20;confirmed&#x20;the&#x20;reasons&#x20;for&#x20;the&#...
 
+##### Defense Distributed
 ### [The world's first gun produced by Defense Distributed using a 3-D printer is fired successfully in Austin, Texas, United States. Security officials worry that such plastic weapons could evade detection at airport screenings. ](/news/2013/05/5/the-world-s-first-gun-produced-by-defense-distributed-using-a-3-d-printer-is-fired-successfully-in-austin-texas-united-states-security-of.md)
 The world’s first gun made using a 3D printer is successfully tested in the US by a group planning to make the blueprints available online.
 

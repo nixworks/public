@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/10/16/a-gas-explosion-in-a-chinese-coal-mine-in-henan-province-kills-at-least-20-workers-another-17-are-declared-missing.html)  [JSON](/news/2010/10/16/a-gas-explosion-in-a-chinese-coal-mine-in-henan-province-kills-at-least-20-workers-another-17-are-declared-missing.json)  [XML](/news/2010/10/16/a-gas-explosion-in-a-chinese-coal-mine-in-henan-province-kills-at-least-20-workers-another-17-are-declared-missing.xml)  
+
 ### [2010-10-16](/news/2010/10/16/index.md)
 
+##### China
 # A gas explosion in a Chinese coal mine in Henan province kills at least 20 workers. Another 17 are declared missing. 
 
 Rescue workers trying to reach 16 miners trapped in Henan pit after 21 were killed in a gas explosion.
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101016/ts_afp/chinaminingaccident)
+1. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20101016/ts_afp/chinaminingaccident)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/10/201010164406795952.html)
 3. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11557581)
 4. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/16/china.miners/index.html?eref=edition)

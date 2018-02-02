@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/02/1/astronomers-measure-the-size-of-newly-discovered-dwarf-planet-eris-as-larger-than-pluto-with-84-probability.html)  [JSON](/news/2006/02/1/astronomers-measure-the-size-of-newly-discovered-dwarf-planet-eris-as-larger-than-pluto-with-84-probability.json)  [XML](/news/2006/02/1/astronomers-measure-the-size-of-newly-discovered-dwarf-planet-eris-as-larger-than-pluto-with-84-probability.xml)  
+
 ### [2006-02-1](/news/2006/02/1/index.md)
 
+##### dwarf planet
 #  Astronomers measure the size of newly discovered dwarf planet Eris as larger than Pluto with 84% probability. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo!](http://news.yahoo.com/s/ap/20060202/ap_on_sc/new_planet)
+1. [AP via Yahoo!](https://news.yahoo.com/s/ap/20060202/ap_on_sc/new_planet)
 2. [astro.uni-bonn.de](http://www.astro.uni-bonn.de/~bertoldi/ub313/)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/2/a-man-shoots-to-death-a-woman-and-a-seven-year-old-boy-then-himself-in-the-queensland-town-of-biddeston-west-of-brisbane-australia.html)  [JSON](/news/2015/03/2/a-man-shoots-to-death-a-woman-and-a-seven-year-old-boy-then-himself-in-the-queensland-town-of-biddeston-west-of-brisbane-australia.json)  [XML](/news/2015/03/2/a-man-shoots-to-death-a-woman-and-a-seven-year-old-boy-then-himself-in-the-queensland-town-of-biddeston-west-of-brisbane-australia.xml)  
+
 ### [2015-03-2](/news/2015/03/2/index.md)
 
+##### Queensland
 # A man shoots to death a woman and a seven-year-old boy then himself in the Queensland town of Biddeston, west of Brisbane, Australia. 
 
 Three people die in a shooting at a house on the Darling Downs, west of Brisbane.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/2015-03-02/three-dead-in-shooting-near-toowoomba/6275670?WT.mc_id=newsmail)
 1. [Cover Image](http://www.abc.net.au/news/image/6276080-1x1-700x700.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/28/in-an-appearance-before-the-house-of-lords-communications-select-committee-bbc-director-general-mark-thompson-denies-that-the-appearance-o.html)  [JSON](/news/2009/10/28/in-an-appearance-before-the-house-of-lords-communications-select-committee-bbc-director-general-mark-thompson-denies-that-the-appearance-o.json)  [XML](/news/2009/10/28/in-an-appearance-before-the-house-of-lords-communications-select-committee-bbc-director-general-mark-thompson-denies-that-the-appearance-o.xml)  
+
 ### [2009-10-28](/news/2009/10/28/index.md)
 
+##### House of Lords
 #  In an appearance before the House of Lords Communications Select Committee, BBC Director-General Mark Thompson denies that the appearance of British National Party leader Nick Griffin on "Question Time" was a bid for ratings. 
 
 The BNP could be invited on to Question Time up to once a year, according to the head of the BBC.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/6454569/BNP-could-appear-on-Question-Time-yearly-says-BBC-boss.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01507/bnp-9_1507954a.jpg)

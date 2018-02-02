@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/6/israel-reopens-the-gazaaegypt-border-crossing-after-a-three-weeks-shutdown-allowing-1-500-palestinians-on-the-egyptian-side-to-return-ho.html)  [JSON](/news/2004/08/6/israel-reopens-the-gazaaegypt-border-crossing-after-a-three-weeks-shutdown-allowing-1-500-palestinians-on-the-egyptian-side-to-return-ho.json)  [XML](/news/2004/08/6/israel-reopens-the-gazaaegypt-border-crossing-after-a-three-weeks-shutdown-allowing-1-500-palestinians-on-the-egyptian-side-to-return-ho.xml)  
+
 ### [2004-08-6](/news/2004/08/6/index.md)
 
+##### Israel
 #  Israel reopens the Gaza-Egypt border crossing after a three-weeks shutdown, allowing 1,500 Palestinians on the Egyptian side to return home. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/I/ISRAEL_PALESTINIANS?SITE=ENCCOM&SECTION=HOME)
 

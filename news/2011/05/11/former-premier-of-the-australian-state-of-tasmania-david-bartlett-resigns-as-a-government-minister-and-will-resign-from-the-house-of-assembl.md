@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/11/former-premier-of-the-australian-state-of-tasmania-david-bartlett-resigns-as-a-government-minister-and-will-resign-from-the-house-of-assembl.html)  [JSON](/news/2011/05/11/former-premier-of-the-australian-state-of-tasmania-david-bartlett-resigns-as-a-government-minister-and-will-resign-from-the-house-of-assembl.json)  [XML](/news/2011/05/11/former-premier-of-the-australian-state-of-tasmania-david-bartlett-resigns-as-a-government-minister-and-will-resign-from-the-house-of-assembl.xml)  
+
 ### [2011-05-11](/news/2011/05/11/index.md)
 
+##### Premier
 # Former Premier of the Australian state of Tasmania David Bartlett resigns as a government minister and will resign from the House of Assembly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/bartlett-quits-tassie-govt-faces-crisis-20110511-1ei02.html)
 

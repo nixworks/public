@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/05/21/the-criminal-trial-of-rajat-gupta-on-charges-of-insider-trading-begins-in-a-federal-courtroom-in-new-york.html)  [JSON](/news/2012/05/21/the-criminal-trial-of-rajat-gupta-on-charges-of-insider-trading-begins-in-a-federal-courtroom-in-new-york.json)  [XML](/news/2012/05/21/the-criminal-trial-of-rajat-gupta-on-charges-of-insider-trading-begins-in-a-federal-courtroom-in-new-york.xml)  
+
 ### [2012-05-21](/news/2012/05/21/index.md)
 
+##### Rajat Gupta
 # The criminal trial of Rajat Gupta on charges of insider trading begins in a federal courtroom in New York. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/05/22/us-goldman-gupta-idUSBRE84K05320120522)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120522&t=2&i=609952243&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE84L055Y00)
+1. [Reuters](https://www.reuters.com/article/2012/05/22/us-goldman-gupta-idUSBRE84K05320120522)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120522&t=2&i=609952243&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE84L055Y00)
 
 ### Related:
 

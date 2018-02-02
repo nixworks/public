@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/22/mahmoud-ahmadinejad-president-of-iran-nominates-ali-nikzad-to-head-the-newly-established-ministry-of-infrastructure.html)  [JSON](/news/2011/05/22/mahmoud-ahmadinejad-president-of-iran-nominates-ali-nikzad-to-head-the-newly-established-ministry-of-infrastructure.json)  [XML](/news/2011/05/22/mahmoud-ahmadinejad-president-of-iran-nominates-ali-nikzad-to-head-the-newly-established-ministry-of-infrastructure.xml)  
+
 ### [2011-05-22](/news/2011/05/22/index.md)
 
+##### Mahmoud Ahmadinejad
 # Mahmoud Ahmadinejad, President of Iran, nominates Ali Nikzad to head the newly-established Ministry of Infrastructure. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PressTV](http://www.presstv.ir/detail/181138.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/10/soweto-hosts-an-opening-concert-ahead-of-the-2010-fifa-world-cup-attended-by-tens-of-thousands-of-people-and-featuring-appearances-from-int.html)  [JSON](/news/2010/06/10/soweto-hosts-an-opening-concert-ahead-of-the-2010-fifa-world-cup-attended-by-tens-of-thousands-of-people-and-featuring-appearances-from-int.json)  [XML](/news/2010/06/10/soweto-hosts-an-opening-concert-ahead-of-the-2010-fifa-world-cup-attended-by-tens-of-thousands-of-people-and-featuring-appearances-from-int.xml)  
+
 ### [2010-06-10](/news/2010/06/10/index.md)
 
+##### Soweto
 # Soweto hosts an opening concert ahead of the 2010 FIFA World Cup, attended by tens of thousands of people and featuring appearances from international figures such as Desmond Tutu, Hugh Masekela, Amadou & Mariam, Shakira, Juanes, Black Eyed Peas and Alicia Keys. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ijQNiV2Xaf9GJ25VnZWBdLQqOl4A)
 2. [The Hindu](http://beta.thehindu.com/sport/football/article452449.ece?homepage=true)

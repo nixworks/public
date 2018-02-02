@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/27/the-death-toll-from-tropical-storm-ketsana-rises-to-73-with-more-than-300-000-people-displaced.html)  [JSON](/news/2009/09/27/the-death-toll-from-tropical-storm-ketsana-rises-to-73-with-more-than-300-000-people-displaced.json)  [XML](/news/2009/09/27/the-death-toll-from-tropical-storm-ketsana-rises-to-73-with-more-than-300-000-people-displaced.xml)  
+
 ### [2009-09-27](/news/2009/09/27/index.md)
 
+##### Tropical Storm Ketsana
 #  The death toll from Tropical Storm Ketsana rises to 73, with more than 300,000 people displaced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8277018.stm)
 2. [China Daily](http://www.chinadaily.com.cn/world/2009-09/27/content_8743411.htm)

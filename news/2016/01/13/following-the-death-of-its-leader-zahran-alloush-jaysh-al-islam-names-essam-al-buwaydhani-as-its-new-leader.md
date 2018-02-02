@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/13/following-the-death-of-its-leader-zahran-allous
 
 ### [2016-01-13](/news/2016/01/13/index.md)
 
+##### Syrian Civil War
 # Following the death of its leader, Zahran Alloush, Jaysh al-Islam names Essam al-Buwaydhani as its new leader. 
 
 
@@ -20,7 +21,7 @@ Formats: [HTML](/news/2016/01/13/following-the-death-of-its-leader-zahran-allous
 ### Related:
 
 1. [Zahran Alloush, founder of Islamist rebel group Jaysh al-Islam (army of Islam), the group's deputy leader, and other officials die in Russian airstrikes on a meeting east of Damascus, according to the Syrian Observatory for Human Rights. Jaysh al-Islam was one of the opposition groups at the December 10th conference that agreed on principles to guide peace talks, which both Bashar al-Assad and Russia rejected. ](/news/2015/12/25/zahran-alloush-founder-of-islamist-rebel-group-jaysh-al-islam-army-of-islam-the-group-s-deputy-leader-and-other-officials-die-in-russia.md) _Context: Jaysh al-Islam, Zahran Alloush_
-2. [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: Syrian Civil War_
-3. [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md) _Context: Syrian Civil War_
-4. [Russian airstrikes hit residential buildings in the ISIS-held village of Al-Shafah in Deir Ezzor province, killing at least 53 civilians, including 21 children. ](/news/2017/11/26/russian-airstrikes-hit-residential-buildings-in-the-isis-held-village-of-al-shafah-in-deir-ezzor-province-killing-at-least-53-civilians-in.md) _Context: Syrian Civil War_
-5. [The White House confirms Turkish Foreign Minister Mevlut Cavusoglu's announcement that President Donald Trump told Turkish President Recep Tayyip Erdogan that America is preparing to stop supplying weapons to ethnic Kurdish fighters in Syria. ](/news/2017/11/24/the-white-house-confirms-turkish-foreign-minister-mevla1-4t-aavuaoalu-s-announcement-that-president-donald-trump-told-turkish-president-rec.md) _Context: Syrian Civil War_
+2. [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md) _Context: Syrian Civil War_
+3. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Syrian Civil War_
+4. [The Syrian Army seizes control of the strategic Abu al-Duhur Military Airbase in Idlib Governorate. ](/news/2018/01/20/the-syrian-army-seizes-control-of-the-strategic-abu-al-duhur-military-airbase-in-idlib-governorate.md) _Context: Syrian Civil War_
+5. [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md) _Context: Syrian Civil War_

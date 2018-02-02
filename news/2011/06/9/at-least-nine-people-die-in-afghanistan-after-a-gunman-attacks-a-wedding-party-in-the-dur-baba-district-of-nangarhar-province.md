@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/9/at-least-nine-people-die-in-afghanistan-after-a-gunman-attacks-a-wedding-party-in-the-dur-baba-district-of-nangarhar-province.html)  [JSON](/news/2011/06/9/at-least-nine-people-die-in-afghanistan-after-a-gunman-attacks-a-wedding-party-in-the-dur-baba-district-of-nangarhar-province.json)  [XML](/news/2011/06/9/at-least-nine-people-die-in-afghanistan-after-a-gunman-attacks-a-wedding-party-in-the-dur-baba-district-of-nangarhar-province.xml)  
+
 ### [2011-06-9](/news/2011/06/9/index.md)
 
+##### Afghanistan
 # At least nine people die in Afghanistan after a gunman attacks a wedding party in the Dur Baba District of Nangarhar Province. 
 
 Nine people are killed and nine wounded as unidentified gunmen attack a wedding party in eastern Afghanistan, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-south-asia-13707862)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52908000/jpg/_52908535_bn-448x252.jpg)

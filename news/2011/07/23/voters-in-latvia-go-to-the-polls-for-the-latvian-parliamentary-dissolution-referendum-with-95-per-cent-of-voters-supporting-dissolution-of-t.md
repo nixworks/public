@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/23/voters-in-latvia-go-to-the-polls-for-the-latvian-parliamentary-dissolution-referendum-with-95-per-cent-of-voters-supporting-dissolution-of-t.html)  [JSON](/news/2011/07/23/voters-in-latvia-go-to-the-polls-for-the-latvian-parliamentary-dissolution-referendum-with-95-per-cent-of-voters-supporting-dissolution-of-t.json)  [XML](/news/2011/07/23/voters-in-latvia-go-to-the-polls-for-the-latvian-parliamentary-dissolution-referendum-with-95-per-cent-of-voters-supporting-dissolution-of-t.xml)  
+
 ### [2011-07-23](/news/2011/07/23/index.md)
 
+##### Latvia
 # Voters in Latvia go to the polls for the Latvian parliamentary dissolution referendum with 95 per cent of voters supporting dissolution of the Saeima. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_LATVIA_REFERENDUM?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-07-23-16-42-44)
 

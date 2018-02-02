@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/4/the-parliament-of-cambodia-ratifies-legislation-creating-a-tribunal-that-will-try-leaders-of-the-former-regime-the-khmer-rouge-for-genoci.html)  [JSON](/news/2004/10/4/the-parliament-of-cambodia-ratifies-legislation-creating-a-tribunal-that-will-try-leaders-of-the-former-regime-the-khmer-rouge-for-genoci.json)  [XML](/news/2004/10/4/the-parliament-of-cambodia-ratifies-legislation-creating-a-tribunal-that-will-try-leaders-of-the-former-regime-the-khmer-rouge-for-genoci.xml)  
+
 ### [2004-10-4](/news/2004/10/4/index.md)
 
+##### Cambodia
 #  The parliament of Cambodia ratifies legislation creating a tribunal that will try leaders of the former regime, the Khmer Rouge, for genocide and crimes against humanity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3712482.stm)
 

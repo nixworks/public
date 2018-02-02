@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/15/ugandan-opposition-leader-kizza-besigye-says-the-government-may-fall-amid-ongoing-protests-unless-president-yoweri-museveni-offers-concessi.html)  [JSON](/news/2011/05/15/ugandan-opposition-leader-kizza-besigye-says-the-government-may-fall-amid-ongoing-protests-unless-president-yoweri-museveni-offers-concessi.json)  [XML](/news/2011/05/15/ugandan-opposition-leader-kizza-besigye-says-the-government-may-fall-amid-ongoing-protests-unless-president-yoweri-museveni-offers-concessi.xml)  
+
 ### [2011-05-15](/news/2011/05/15/index.md)
 
+##### Uganda
 # Ugandan opposition leader Kizza Besigye says the government may fall amid ongoing protests, unless President Yoweri Museveni offers concessions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE74E01M20110515?sp=true)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/31/colombia-s-former-minister-of-national-defence-juan-manuel-santos-wins-the-first-round-of-the-country-s-presidential-election-but-without.html)  [JSON](/news/2010/05/31/colombia-s-former-minister-of-national-defence-juan-manuel-santos-wins-the-first-round-of-the-country-s-presidential-election-but-without.json)  [XML](/news/2010/05/31/colombia-s-former-minister-of-national-defence-juan-manuel-santos-wins-the-first-round-of-the-country-s-presidential-election-but-without.xml)  
+
 ### [2010-05-31](/news/2010/05/31/index.md)
 
+##### Colombia
 # Colombia's former Minister of National Defence, Juan Manuel Santos, wins the first round of the country's presidential election, but without the majority needed to avoid a June run-off with rival Antanas Mockus 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/05/201053023828556716.html)
 1. [Cover Image](http://www.aljazeera.com)

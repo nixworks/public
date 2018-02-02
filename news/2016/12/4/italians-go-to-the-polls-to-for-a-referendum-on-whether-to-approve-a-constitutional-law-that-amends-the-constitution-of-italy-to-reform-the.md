@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/4/italians-go-to-the-polls-to-for-a-referendum-on-
 
 ### [2016-12-4](/news/2016/12/4/index.md)
 
+##### Italian constitutional referendum, 2016
 # Italians go to the polls to for a referendum on whether to approve a constitutional law that amends the Constitution of Italy to reform the powers of the Italian Parliament. Prime Minister Matteo Renzi, who introduced the referendum bill, resigns after exit polls show that the no case is likely to be successful. 
 
 Italian Prime Minister Matteo Renzi looks to have suffered a heavy defeat in the referendum, according to early projections.

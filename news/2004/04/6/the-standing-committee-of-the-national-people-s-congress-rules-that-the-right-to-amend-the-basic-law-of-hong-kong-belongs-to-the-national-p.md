@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/6/the-standing-committee-of-the-national-people-s-congress-rules-that-the-right-to-amend-the-basic-law-of-hong-kong-belongs-to-the-national-p.html)  [JSON](/news/2004/04/6/the-standing-committee-of-the-national-people-s-congress-rules-that-the-right-to-amend-the-basic-law-of-hong-kong-belongs-to-the-national-p.json)  [XML](/news/2004/04/6/the-standing-committee-of-the-national-people-s-congress-rules-that-the-right-to-amend-the-basic-law-of-hong-kong-belongs-to-the-national-p.xml)  
+
 ### [2004-04-6](/news/2004/04/6/index.md)
 
+##### Standing Committee of the National People's Congress
 #  The Standing Committee of the National People's Congress rules that the right to amend the Basic Law of Hong Kong belongs to the National People's Congress. The Standing Committee also issued an "interpretation" (effectively an amendment) of the Basic Law which set out an additional step required for any changes in Hong Kong's political structures. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2004/WORLD/asiapcf/04/06/hk.china.law/index.html)
 

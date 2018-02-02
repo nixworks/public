@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/22/the-naxalite-movement-releases-500-hostages-from-a-hijacked-train-in-latehar-india.html)  [JSON](/news/2009/04/22/the-naxalite-movement-releases-500-hostages-from-a-hijacked-train-in-latehar-india.json)  [XML](/news/2009/04/22/the-naxalite-movement-releases-500-hostages-from-a-hijacked-train-in-latehar-india.xml)  
+
 ### [2009-04-22](/news/2009/04/22/index.md)
 
+##### Naxalite
 #  The Naxalite movement releases 500 hostages from a hijacked train in Latehar, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/India-Naxals-Rebels-Hijack-Train-In-Latehar-In-Jharkhand-On-Eve-Of-Second-Round-Of-Election/Article/200904415266607?lpos=World_News_Top_Stories_Header_0&lid=ARTICLE_15266607_India%3A_Naxals_Rebels_Hijack_Train_In_Latehar_In_Jharkhand_On_Eve_Of_Second_Round_Of_Election)
 

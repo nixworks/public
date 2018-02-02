@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/21/the-battle-of-nahr-al-bared-continues-at-the-nahr-al-bared-refugee-camp-in-tripoli-lebanon-for-a-second-successive-day.html)  [JSON](/news/2007/05/21/the-battle-of-nahr-al-bared-continues-at-the-nahr-al-bared-refugee-camp-in-tripoli-lebanon-for-a-second-successive-day.json)  [XML](/news/2007/05/21/the-battle-of-nahr-al-bared-continues-at-the-nahr-al-bared-refugee-camp-in-tripoli-lebanon-for-a-second-successive-day.xml)  
+
 ### [2007-05-21](/news/2007/05/21/index.md)
 
+##### Battle of Nahr al-Bared
 #  The Battle of Nahr al-Bared continues at the Nahr al-Bared refugee camp in Tripoli, Lebanon for a second successive day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/meast/05/21/lebanon.violence/index.html?eref=rss_world)
 

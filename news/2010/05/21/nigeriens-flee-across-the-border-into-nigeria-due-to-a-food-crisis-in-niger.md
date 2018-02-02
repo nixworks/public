@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/21/nigeriens-flee-across-the-border-into-nigeria-due-to-a-food-crisis-in-niger.html)  [JSON](/news/2010/05/21/nigeriens-flee-across-the-border-into-nigeria-due-to-a-food-crisis-in-niger.json)  [XML](/news/2010/05/21/nigeriens-flee-across-the-border-into-nigeria-due-to-a-food-crisis-in-niger.xml)  
+
 ### [2010-05-21](/news/2010/05/21/index.md)
 
+##### Niger
 # Nigeriens flee across the border into Nigeria due to a food crisis in Niger. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8697042.stm)
 

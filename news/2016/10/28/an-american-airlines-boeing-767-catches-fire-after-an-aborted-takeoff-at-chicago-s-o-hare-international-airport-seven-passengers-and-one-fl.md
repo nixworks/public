@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/28/an-american-airlines-boeing-767-catches-fire-af
 
 ### [2016-10-28](/news/2016/10/28/index.md)
 
+##### American Airlines Flight 383 (2016)
 # An American Airlines Boeing 767 catches fire after an aborted takeoff at Chicago's O'Hare International Airport. Seven passengers and one flight attendant were injured, and taken to area hospitals. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/29/aung-san-suu-kyi-the-leader-of-the-national-league-for-democracy-opposition-party-in-burma-and-mp-for-kawhmu-leaves-yangon-for-bangkok-th.html)  [JSON](/news/2012/05/29/aung-san-suu-kyi-the-leader-of-the-national-league-for-democracy-opposition-party-in-burma-and-mp-for-kawhmu-leaves-yangon-for-bangkok-th.json)  [XML](/news/2012/05/29/aung-san-suu-kyi-the-leader-of-the-national-league-for-democracy-opposition-party-in-burma-and-mp-for-kawhmu-leaves-yangon-for-bangkok-th.xml)  
+
 ### [2012-05-29](/news/2012/05/29/index.md)
 
+##### Aung San Suu Kyi
 # Aung San Suu Kyi, the leader of the National League for Democracy opposition party in Burma and MP for Kawhmu, leaves Yangon for Bangkok, Thailand on her first overseas trip in 22 years. 
 
 Myanmar opposition leader arrives in Thailand, leaving country where she was long imprisoned for first time since 1988.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5ikakx1myDewtt8-2yFCk9K2w1kMA?docId=CNG.5b2286733410766dff5377a676c68019.431)
 2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/201252923137329850.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/23/the-south-african-communist-party-launches-an-investigation-into-what-happened-to-a-political-donation-of-500-000-rand-allegedly-made-in-20.html)  [JSON](/news/2007/08/23/the-south-african-communist-party-launches-an-investigation-into-what-happened-to-a-political-donation-of-500-000-rand-allegedly-made-in-20.json)  [XML](/news/2007/08/23/the-south-african-communist-party-launches-an-investigation-into-what-happened-to-a-political-donation-of-500-000-rand-allegedly-made-in-20.xml)  
+
 ### [2007-08-23](/news/2007/08/23/index.md)
 
+##### South African Communist Party
 #  The South African Communist Party launches an investigation into what happened to a political donation of 500,000 rand allegedly made in 2002. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6960026.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/25/elizabeth-ii-addresses-her-commonwealth-subjects-in-her-annual-royal-christmas-message-referring-to-the-2012-summer-olympics-in-london-and.html)  [JSON](/news/2012/12/25/elizabeth-ii-addresses-her-commonwealth-subjects-in-her-annual-royal-christmas-message-referring-to-the-2012-summer-olympics-in-london-and.json)  [XML](/news/2012/12/25/elizabeth-ii-addresses-her-commonwealth-subjects-in-her-annual-royal-christmas-message-referring-to-the-2012-summer-olympics-in-london-and.xml)  
+
 ### [2012-12-25](/news/2012/12/25/index.md)
 
+##### Elizabeth II
 # Elizabeth II addresses her Commonwealth subjects in her annual Royal Christmas Message, referring to the 2012 Summer Olympics in London and the "humbling" experience of her diamond jubilee celebrations. Her speech - the first to be broadcast in 3D - does not include mention the recently-announced pregnancy of Catherine, Duchess of Cambridge, wife of her eldest grandson. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Independent](http://www.independent.ie/entertainment/tv-radio/rte-guide-makes-majestic-blunder-as-queens-speech-becomes-lecture-3326657.html)
 2. [The Guardian](http://www.guardian.co.uk/uk/2012/dec/25/queen-diamond-jubilee-christmas-message)

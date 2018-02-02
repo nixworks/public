@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/6/the-tenth-night-of-the-2005-french-riots-is-reported-as-being-the-most-intense-yet-and-the-riots-are-now-the-subject-of-crisis-meetings-in.html)  [JSON](/news/2005/11/6/the-tenth-night-of-the-2005-french-riots-is-reported-as-being-the-most-intense-yet-and-the-riots-are-now-the-subject-of-crisis-meetings-in.json)  [XML](/news/2005/11/6/the-tenth-night-of-the-2005-french-riots-is-reported-as-being-the-most-intense-yet-and-the-riots-are-now-the-subject-of-crisis-meetings-in.xml)  
+
 ### [2005-11-6](/news/2005/11/6/index.md)
 
+##### 2005 French riots
 #  The tenth night of the 2005 French riots is reported as being the most intense yet, and the riots are now the subject of crisis meetings in the French government. President Jacques Chirac has called for the arrest, trial and punishment of the rioters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4412316.stm)
 

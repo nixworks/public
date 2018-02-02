@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/28/sick-and-elderly-residents-in-the-town-of-morwell-victoria-are-evacuated-as-a-fire-in-a-disused-coal-mine-near-the-hazelwood-power-station.html)  [JSON](/news/2014/02/28/sick-and-elderly-residents-in-the-town-of-morwell-victoria-are-evacuated-as-a-fire-in-a-disused-coal-mine-near-the-hazelwood-power-station.json)  [XML](/news/2014/02/28/sick-and-elderly-residents-in-the-town-of-morwell-victoria-are-evacuated-as-a-fire-in-a-disused-coal-mine-near-the-hazelwood-power-station.xml)  
+
 ### [2014-02-28](/news/2014/02/28/index.md)
 
+##### 2013-14 Australian bushfire season
 # Sick and elderly residents in the town of Morwell, Victoria, are evacuated as a fire in a disused coal mine near the Hazelwood Power Station continues to worsen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/nation/victorias-morwell-coal-mine-fire-crisis-intensifies/story-e6frg6nf-1226840394887)
 

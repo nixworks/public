@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/19/hundreds-of-vietnamese-citizens-protest-outside-the-chinese-embassy-in-hanoi-for-the-third-straight-week-as-tensions-escalate-over-disputed.html)  [JSON](/news/2011/06/19/hundreds-of-vietnamese-citizens-protest-outside-the-chinese-embassy-in-hanoi-for-the-third-straight-week-as-tensions-escalate-over-disputed.json)  [XML](/news/2011/06/19/hundreds-of-vietnamese-citizens-protest-outside-the-chinese-embassy-in-hanoi-for-the-third-straight-week-as-tensions-escalate-over-disputed.xml)  
+
 ### [2011-06-19](/news/2011/06/19/index.md)
 
+##### Vietnamese
 # Hundreds of Vietnamese citizens protest outside the Chinese embassy in Hanoi for the third straight week as tensions escalate over disputed areas of the South China Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1630275)
 

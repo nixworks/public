@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/15/nasa-scientists-report-that-the-ozone-hole-over-the-antarctic-has-reached-its-largest-expanse-27-million-square-kilometers-vs-26-million.html)  [JSON](/news/2008/09/15/nasa-scientists-report-that-the-ozone-hole-over-the-antarctic-has-reached-its-largest-expanse-27-million-square-kilometers-vs-26-million.json)  [XML](/news/2008/09/15/nasa-scientists-report-that-the-ozone-hole-over-the-antarctic-has-reached-its-largest-expanse-27-million-square-kilometers-vs-26-million.xml)  
+
 ### [2008-09-15](/news/2008/09/15/index.md)
 
+##### ozone hole
 #  NASA scientists report that the ozone hole over the Antarctic has reached its largest expanse, 27 million square kilometers, vs 26 million square kilometers in 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://ozonewatch.gsfc.nasa.gov/)
 

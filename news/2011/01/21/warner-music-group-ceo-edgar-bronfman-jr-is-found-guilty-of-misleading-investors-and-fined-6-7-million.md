@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/21/warner-music-group-ceo-edgar-bronfman-jr-is-found-guilty-of-misleading-investors-and-fined-6-7-million.html)  [JSON](/news/2011/01/21/warner-music-group-ceo-edgar-bronfman-jr-is-found-guilty-of-misleading-investors-and-fined-6-7-million.json)  [XML](/news/2011/01/21/warner-music-group-ceo-edgar-bronfman-jr-is-found-guilty-of-misleading-investors-and-fined-6-7-million.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### Warner Music Group
 # Warner Music Group CEO Edgar Bronfman Jr. is found guilty of misleading investors, and fined $6.7 million. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Seattle Times](http://seattletimes.nwsource.com/html/entertainment/2013993425_apeufrancevivenditrial.html)
 

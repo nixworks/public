@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/3/while-on-the-way-to-the-hospital-due-to-complications-in-a-pregnancy-a-young-ultra-orthodox-hasidic-jewish-couple-from-a-brooklyn-enclave-a.html)  [JSON](/news/2013/03/3/while-on-the-way-to-the-hospital-due-to-complications-in-a-pregnancy-a-young-ultra-orthodox-hasidic-jewish-couple-from-a-brooklyn-enclave-a.json)  [XML](/news/2013/03/3/while-on-the-way-to-the-hospital-due-to-complications-in-a-pregnancy-a-young-ultra-orthodox-hasidic-jewish-couple-from-a-brooklyn-enclave-a.xml)  
+
 ### [2013-03-3](/news/2013/03/3/index.md)
 
+##### pregnancy
 # While on the way to the hospital due to complications in a pregnancy, a young Ultra-Orthodox Hasidic Jewish couple from a Brooklyn enclave are killed in a hit-and-run; the baby was delivered prematurely by C-section but died the next day of its injuries. The car owner was arrested soon after; the driver was arrested days later after a search. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/03/04/us/new-york-crash-baby)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/22/a-bomb-attack-on-a-bus-kills-five-people-and-hurts-12-in-the-russian-republic-of-north-ossetia-alania.html)  [JSON](/news/2007/11/22/a-bomb-attack-on-a-bus-kills-five-people-and-hurts-12-in-the-russian-republic-of-north-ossetia-alania.json)  [XML](/news/2007/11/22/a-bomb-attack-on-a-bus-kills-five-people-and-hurts-12-in-the-russian-republic-of-north-ossetia-alania.xml)  
+
 ### [2007-11-22](/news/2007/11/22/index.md)
 
+##### bomb
 #  A bomb attack on a bus kills five people and hurts 12 in the Russian republic of North Ossetia-Alania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7108196.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/19/at-least-149-people-are-killed-in-two-days-of-violence-between-christians-and-muslims-in-the-nigerian-city-of-jos.html)  [JSON](/news/2010/01/19/at-least-149-people-are-killed-in-two-days-of-violence-between-christians-and-muslims-in-the-nigerian-city-of-jos.json)  [XML](/news/2010/01/19/at-least-149-people-are-killed-in-two-days-of-violence-between-christians-and-muslims-in-the-nigerian-city-of-jos.xml)  
+
 ### [2010-01-19](/news/2010/01/19/index.md)
 
+##### events earlier this year
 # At least 149 people are killed in two days of violence between Christians and Muslims in the Nigerian city of Jos. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8468456.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/22/mexico-says-10-suspected-drug-gang-members-were-killed-in-shootout-with-soldiers-in-valle-hermoso-tamaulipas.html)  [JSON](/news/2011/01/22/mexico-says-10-suspected-drug-gang-members-were-killed-in-shootout-with-soldiers-in-valle-hermoso-tamaulipas.json)  [XML](/news/2011/01/22/mexico-says-10-suspected-drug-gang-members-were-killed-in-shootout-with-soldiers-in-valle-hermoso-tamaulipas.xml)  
+
 ### [2011-01-22](/news/2011/01/22/index.md)
 
+##### Mexico
 # Mexico says 10 suspected drug gang members were killed in shootout with soldiers in Valle Hermoso, Tamaulipas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.chron.com/disp/story.mpl/ap/top/all/7393525.html)
 

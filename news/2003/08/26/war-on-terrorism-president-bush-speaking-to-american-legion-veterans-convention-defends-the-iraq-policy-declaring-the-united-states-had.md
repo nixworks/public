@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/26/war-on-terrorism-president-bush-speaking-to-american-legion-veterans-convention-defends-the-iraq-policy-declaring-the-united-states-had.html)  [JSON](/news/2003/08/26/war-on-terrorism-president-bush-speaking-to-american-legion-veterans-convention-defends-the-iraq-policy-declaring-the-united-states-had.json)  [XML](/news/2003/08/26/war-on-terrorism-president-bush-speaking-to-american-legion-veterans-convention-defends-the-iraq-policy-declaring-the-united-states-had.xml)  
+
 ### [2003-08-26](/news/2003/08/26/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: President Bush, speaking to American Legion veterans convention, defends the Iraq policy, declaring the United States had hit terrorism in overthrowing the government of Saddam Hussein. President Bush vows ""no retreat"" from Iraq. President Bush also states that the United States may carry out other pre-emptive strikes.
 
 

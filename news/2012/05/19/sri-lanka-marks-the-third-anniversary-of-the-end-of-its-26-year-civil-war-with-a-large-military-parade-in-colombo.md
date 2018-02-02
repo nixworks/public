@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/19/sri-lanka-marks-the-third-anniversary-of-the-end-of-its-26-year-civil-war-with-a-large-military-parade-in-colombo.html)  [JSON](/news/2012/05/19/sri-lanka-marks-the-third-anniversary-of-the-end-of-its-26-year-civil-war-with-a-large-military-parade-in-colombo.json)  [XML](/news/2012/05/19/sri-lanka-marks-the-third-anniversary-of-the-end-of-its-26-year-civil-war-with-a-large-military-parade-in-colombo.xml)  
+
 ### [2012-05-19](/news/2012/05/19/index.md)
 
+##### Sri Lanka
 # Sri Lanka marks the third anniversary of the end of its 26-year civil war with a large military parade in Colombo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18127712)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60344000/jpg/_60344153_014771133-1.jpg)

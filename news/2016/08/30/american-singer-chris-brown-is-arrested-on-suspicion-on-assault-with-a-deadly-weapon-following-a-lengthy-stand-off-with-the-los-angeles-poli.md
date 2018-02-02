@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/30/american-singer-chris-brown-is-arrested-on-susp
 
 ### [2016-08-30](/news/2016/08/30/index.md)
 
+##### Chris Brown
 # American singer Chris Brown is arrested on suspicion on assault with a deadly weapon following a lengthy stand-off with the Los Angeles Police Department. 
 
 Chris Brown was released on $250,000 bail Tuesday night after he was booked on charges of assault with a deadly weapon, following an hours-long standoff between the singer and officers at his Los Angeles...

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/10/questions-are-raised-about-the-authenticity-of-memos-obtained-by-the-cbs-television-network-and-broadcast-on-its-september-7-issue-of-60-mi.html)  [JSON](/news/2004/09/10/questions-are-raised-about-the-authenticity-of-memos-obtained-by-the-cbs-television-network-and-broadcast-on-its-september-7-issue-of-60-mi.json)  [XML](/news/2004/09/10/questions-are-raised-about-the-authenticity-of-memos-obtained-by-the-cbs-television-network-and-broadcast-on-its-september-7-issue-of-60-mi.xml)  
+
 ### [2004-09-10](/news/2004/09/10/index.md)
 
+##### CBS
 #  Questions are raised about the authenticity of memos obtained by the CBS television network and broadcast on its September 7 issue of 60 Minutes. The memos were purportedly written by Lt. Col. Jerry B. Killian, one of George W. Bush's commanding officers in the Texas Air National Guard. One of the memos which was supposed to have been written in 1973, uses a proportional font, kerning, and superscripts which were unlikely to have been available in typewriters of the period. See Killian memos. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/ALLPOLITICS/09/10/bush.guard.ap/index.html)
 

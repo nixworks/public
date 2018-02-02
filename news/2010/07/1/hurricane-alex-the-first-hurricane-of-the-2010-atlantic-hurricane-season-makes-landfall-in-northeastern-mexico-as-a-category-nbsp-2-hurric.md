@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/1/hurricane-alex-the-first-hurricane-of-the-2010-atlantic-hurricane-season-makes-landfall-in-northeastern-mexico-as-a-category-nbsp-2-hurric.html)  [JSON](/news/2010/07/1/hurricane-alex-the-first-hurricane-of-the-2010-atlantic-hurricane-season-makes-landfall-in-northeastern-mexico-as-a-category-nbsp-2-hurric.json)  [XML](/news/2010/07/1/hurricane-alex-the-first-hurricane-of-the-2010-atlantic-hurricane-season-makes-landfall-in-northeastern-mexico-as-a-category-nbsp-2-hurric.xml)  
+
 ### [2010-07-1](/news/2010/07/1/index.md)
 
+##### Hurricane Alex
 # Hurricane Alex, the first hurricane of the 2010 Atlantic hurricane season, makes landfall in northeastern Mexico as a Category&nbsp;2 hurricane on the Saffir-Simpson Hurricane Scale with winds of 105&nbsp;mph (165&nbsp;km-h), and causes tornadoes that force people into shelters in southern Texas. 
 
 Storm makes landfall as heavy seas hamper oil clean-up efforts in Gulf of Mexico.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/2010711184185602.html)
 2. [National Hurricane Center](http://www.nhc.noaa.gov/text/refresh/MIATCUAT1+shtml/010158.shtml)

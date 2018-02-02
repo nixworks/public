@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/19/after-negotiations-maoist-rebels-in-nepal-agree-to-work-with-opposition-politicians-in-a-common-front-against-the-rule-of-king-gyanendra.html)  [JSON](/news/2005/11/19/after-negotiations-maoist-rebels-in-nepal-agree-to-work-with-opposition-politicians-in-a-common-front-against-the-rule-of-king-gyanendra.json)  [XML](/news/2005/11/19/after-negotiations-maoist-rebels-in-nepal-agree-to-work-with-opposition-politicians-in-a-common-front-against-the-rule-of-king-gyanendra.xml)  
+
 ### [2005-11-19](/news/2005/11/19/index.md)
 
+##### Maoist supporters
 #  After negotiations, Maoist rebels in Nepal agree to work with opposition politicians in a common front against the rule of King Gyanendra. The Nepalese Civil War has killed more than 12,000 people since 1996. 
 
 During the &quot;secret&quot; parleys with the alliance leaders in New Delhi, the rebels also indicated that they would extend the ceasefire period by a month.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4450438.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/articleshow/1301467.cms)

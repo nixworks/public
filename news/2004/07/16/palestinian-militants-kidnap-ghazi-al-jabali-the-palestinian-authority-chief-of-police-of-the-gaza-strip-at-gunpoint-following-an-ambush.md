@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/07/16/palestinian-militants-kidnap-ghazi-al-jabali-the-palestinian-authority-chief-of-police-of-the-gaza-strip-at-gunpoint-following-an-ambush.html)  [JSON](/news/2004/07/16/palestinian-militants-kidnap-ghazi-al-jabali-the-palestinian-authority-chief-of-police-of-the-gaza-strip-at-gunpoint-following-an-ambush.json)  [XML](/news/2004/07/16/palestinian-militants-kidnap-ghazi-al-jabali-the-palestinian-authority-chief-of-police-of-the-gaza-strip-at-gunpoint-following-an-ambush.xml)  
+
 ### [2004-07-16](/news/2004/07/16/index.md)
 
+##### Palestinian
 #  Palestinian militants kidnap Ghazi al-Jabali, the Palestinian Authority Chief of Police of the Gaza Strip, at gunpoint following an ambush of his convoy and the wounding of two bodyguards. The Jenin Martyrs' Brigade claims responsibility. Hours later the police chief is released and another official of the Palestinian Authority kidnapped. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3900649.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5691768)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5691768)
 
 ### Related:
 

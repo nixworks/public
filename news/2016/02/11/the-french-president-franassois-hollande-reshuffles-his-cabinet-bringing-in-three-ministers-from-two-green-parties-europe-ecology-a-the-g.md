@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/11/the-french-president-franassois-hollande-reshuf
 
 ### [2016-02-11](/news/2016/02/11/index.md)
 
+##### Francois Hollande
 # The French president Francois Hollande reshuffles his cabinet, bringing in three ministers from two green parties, Europe Ecology - The Greens and Ecologistes !; former Prime Minister of France Jean-Marc Ayrault is named as the new Foreign Minister replacing Laurent Fabius who resigned earlier in the week. 
 
 Former prime minister Jean-Marc Ayrault replaces Laurent Fabius as foreign minister while Green party leader Emmanuelle Cosse becomes housing minister

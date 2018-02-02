@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/25/ukrainian-president-viktor-yushchenko-signs-a-decree-delaying-the-2007-parliamentary-election-from-may-27-to-june-24.html)  [JSON](/news/2007/04/25/ukrainian-president-viktor-yushchenko-signs-a-decree-delaying-the-2007-parliamentary-election-from-may-27-to-june-24.json)  [XML](/news/2007/04/25/ukrainian-president-viktor-yushchenko-signs-a-decree-delaying-the-2007-parliamentary-election-from-may-27-to-june-24.xml)  
+
 ### [2007-04-25](/news/2007/04/25/index.md)
 
+##### Ukraine
 #  Ukrainian President Viktor Yushchenko signs a decree delaying the 2007 parliamentary election from May 27 to June 24. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6594037.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/9/parliamentary-elections-were-held-in-indonesia-with-early-count-indicating-megawati-s-pdip-won-a-narrow-plurality.html)  [JSON](/news/2014/04/9/parliamentary-elections-were-held-in-indonesia-with-early-count-indicating-megawati-s-pdip-won-a-narrow-plurality.json)  [XML](/news/2014/04/9/parliamentary-elections-were-held-in-indonesia-with-early-count-indicating-megawati-s-pdip-won-a-narrow-plurality.xml)  
+
 ### [2014-04-9](/news/2014/04/9/index.md)
 
+##### Parliamentary elections
 # Parliamentary elections were held in Indonesia, with early count indicating Megawati's PDIP won a narrow plurality. 
 
 The opposition Indonesian Democratic Party of Struggle leads parliamentary polls, but star candidate Joko Widodo may face a tougher path to the presidency, early results show.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-26966663)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/74147000/jpg/_74147913_483455337.jpg)

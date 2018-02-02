@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/03/24/indonesia-bans-a-conference-of-asian-gay-activists-saying-it-could-prompt-violent-protests-by-conservative-muslim-groups.html)  [JSON](/news/2010/03/24/indonesia-bans-a-conference-of-asian-gay-activists-saying-it-could-prompt-violent-protests-by-conservative-muslim-groups.json)  [XML](/news/2010/03/24/indonesia-bans-a-conference-of-asian-gay-activists-saying-it-could-prompt-violent-protests-by-conservative-muslim-groups.xml)  
+
 ### [2010-03-24](/news/2010/03/24/index.md)
 
+##### Indonesia
 # Indonesia bans a conference of Asian gay activists, saying it could prompt violent protests by conservative Muslim groups. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AsiaOne](http://news.asiaone.com/News/Latest%2BNews/Asia/Story/A1Story20100324-206553.html)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2010/03/24/association-decries-police-ban-conference.html)
-3. [The New York Times](http://www.nytimes.com/aponline/2010/03/24/world/AP-AS-Indonesia-Gay-Conference.html?_r=2&ref=newsThe)
+3. [The New York Times](https://www.nytimes.com/aponline/2010/03/24/world/AP-AS-Indonesia-Gay-Conference.html?_r=2&ref=newsThe)
 
 ### Related:
 

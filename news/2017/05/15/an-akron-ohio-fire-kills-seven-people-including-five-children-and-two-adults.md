@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/15/an-akron-ohio-fire-kills-seven-people-including
 
 ### [2017-05-15](/news/2017/05/15/index.md)
 
+##### Akron, Ohio
 # An Akron, Ohio fire kills seven people, including five children and two adults. 
 
 AKRON, Ohio -- Police confirm that five children and two adults were killed in an early morning house fire in Akron. The fire broke out at 693 Fultz Street around 2:45 a.m. Monday. Neighbors say a family lived in the home. Family members earlier Monday morning told Fox 8 that the mother did not show up to work today, and the children also didn&#039;t show up at school.

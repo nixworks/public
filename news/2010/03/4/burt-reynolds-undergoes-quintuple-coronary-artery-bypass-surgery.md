@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/4/burt-reynolds-undergoes-quintuple-coronary-artery-bypass-surgery.html)  [JSON](/news/2010/03/4/burt-reynolds-undergoes-quintuple-coronary-artery-bypass-surgery.json)  [XML](/news/2010/03/4/burt-reynolds-undergoes-quintuple-coronary-artery-bypass-surgery.xml)  
+
 ### [2010-03-4](/news/2010/03/4/index.md)
 
+##### Burt Reynolds
 # Burt Reynolds undergoes quintuple coronary artery bypass surgery. 
 
 Leah McLaren briefly published a story in the Globe &amp; Mail this week about an unsuccessful attempt to breastfeed the child of MP Michael Chong without permission.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8549222.stm)
 2. [CBC](http://www.cbc.ca/arts/media/story/2010/03/03/burt-reynolds-bypass.html)

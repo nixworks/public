@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2011/09/22/former-television-journalist-shelly-yachimovich-is-elected-as-the-head-of-the-israeli-labor-party.html)  [JSON](/news/2011/09/22/former-television-journalist-shelly-yachimovich-is-elected-as-the-head-of-the-israeli-labor-party.json)  [XML](/news/2011/09/22/former-television-journalist-shelly-yachimovich-is-elected-as-the-head-of-the-israeli-labor-party.xml)  
+
 ### [2011-09-22](/news/2011/09/22/index.md)
 
+##### Shelly Yachimovich
 # Former television journalist Shelly Yachimovich is elected as the head of the Israeli Labor Party. 
 
-Israel TV reports a former broadcaster has won the Israeli Labor Party primary election.
 
 
-### Source:
 
-1. [AP via Yahoo News](http://news.yahoo.com/tv-former-journalist-lead-israels-labor-party-215348609.html)
-1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
+### Sources:
+
+1. [AP via Yahoo News](https://news.yahoo.com/tv-former-journalist-lead-israels-labor-party-215348609.html)
 
 ### Related:
 

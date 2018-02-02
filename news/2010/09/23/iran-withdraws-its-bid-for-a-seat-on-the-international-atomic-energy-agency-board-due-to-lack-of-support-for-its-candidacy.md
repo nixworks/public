@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/23/iran-withdraws-its-bid-for-a-seat-on-the-international-atomic-energy-agency-board-due-to-lack-of-support-for-its-candidacy.html)  [JSON](/news/2010/09/23/iran-withdraws-its-bid-for-a-seat-on-the-international-atomic-energy-agency-board-due-to-lack-of-support-for-its-candidacy.json)  [XML](/news/2010/09/23/iran-withdraws-its-bid-for-a-seat-on-the-international-atomic-energy-agency-board-due-to-lack-of-support-for-its-candidacy.xml)  
+
 ### [2010-09-23](/news/2010/09/23/index.md)
 
+##### Iran
 # Iran withdraws its bid for a seat on the International Atomic Energy Agency board due to lack of support for its candidacy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ilaSwSso6zfQgByJrCEEIeibUlgQ)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/24/a-south-korean-court-rules-that-apple-inc-and-samsung-electronics-infringed-each-other-s-patents-on-mobile-computing-technology.html)  [JSON](/news/2012/08/24/a-south-korean-court-rules-that-apple-inc-and-samsung-electronics-infringed-each-other-s-patents-on-mobile-computing-technology.json)  [XML](/news/2012/08/24/a-south-korean-court-rules-that-apple-inc-and-samsung-electronics-infringed-each-other-s-patents-on-mobile-computing-technology.xml)  
+
 ### [2012-08-24](/news/2012/08/24/index.md)
 
+##### South Korea
 # A South Korean court rules that Apple Inc. and Samsung Electronics infringed each other's patents on mobile computing technology. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/SB10000872396390444812704577608242792921450.html)
 

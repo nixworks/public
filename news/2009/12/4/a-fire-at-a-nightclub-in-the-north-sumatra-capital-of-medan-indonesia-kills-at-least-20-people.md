@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/4/a-fire-at-a-nightclub-in-the-north-sumatra-capital-of-medan-indonesia-kills-at-least-20-people.html)  [JSON](/news/2009/12/4/a-fire-at-a-nightclub-in-the-north-sumatra-capital-of-medan-indonesia-kills-at-least-20-people.json)  [XML](/news/2009/12/4/a-fire-at-a-nightclub-in-the-north-sumatra-capital-of-medan-indonesia-kills-at-least-20-people.xml)  
+
 ### [2009-12-4](/news/2009/12/4/index.md)
 
+##### North Sumatra
 #  A fire at a nightclub in the North Sumatra capital of Medan, Indonesia, kills at least 20 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gijjNXP8q5lneQns7oohXGPHntwg)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8396299.stm)

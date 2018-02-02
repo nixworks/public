@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/20/bal-wins-the-golden-bear-at-the-60th-berlin-international-film-festival.html)  [JSON](/news/2010/02/20/bal-wins-the-golden-bear-at-the-60th-berlin-international-film-festival.json)  [XML](/news/2010/02/20/bal-wins-the-golden-bear-at-the-60th-berlin-international-film-festival.xml)  
+
 ### [2010-02-20](/news/2010/02/20/index.md)
 
+##### ''Bal''
 # "Bal" wins the Golden Bear at the 60th Berlin International Film Festival. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8526500.stm)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5269958,00.html?maca=en-rss-en-cul-2090-rdf)

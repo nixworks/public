@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/4/the-u-s-president-barack-obama-announces-a-plan-
 
 ### [2016-02-4](/news/2016/02/4/index.md)
 
+##### Barack Obama
 # The U.S. President Barack Obama announces a plan to tax crude oil $10 a barrel in order to fund infrastructure spending, according to a White House statement. 
 
 

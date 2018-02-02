@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/18/the-president-of-iran-mahmoud-ahmadinejad-meets-with-the-president-of-algeria-abdelaziz-bouteflika-in-algiers-to-discuss-trade-agreements.html)  [JSON](/news/2010/09/18/the-president-of-iran-mahmoud-ahmadinejad-meets-with-the-president-of-algeria-abdelaziz-bouteflika-in-algiers-to-discuss-trade-agreements.json)  [XML](/news/2010/09/18/the-president-of-iran-mahmoud-ahmadinejad-meets-with-the-president-of-algeria-abdelaziz-bouteflika-in-algiers-to-discuss-trade-agreements.xml)  
+
 ### [2010-09-18](/news/2010/09/18/index.md)
 
+##### President
 # The President of Iran Mahmoud Ahmadinejad meets with the President of Algeria Abdelaziz Bouteflika in Algiers to discuss trade agreements. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5jQ35nEHUTe4UjdJ7JcYRtK1LIKUg)
 

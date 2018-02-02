@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/03/13/an-intoxicated-hit-and-run-driver-in-austin-texas-united-states-drives-into-a-nighttime-crowd-at-the-south-by-southwest-festival-killing.html)  [JSON](/news/2014/03/13/an-intoxicated-hit-and-run-driver-in-austin-texas-united-states-drives-into-a-nighttime-crowd-at-the-south-by-southwest-festival-killing.json)  [XML](/news/2014/03/13/an-intoxicated-hit-and-run-driver-in-austin-texas-united-states-drives-into-a-nighttime-crowd-at-the-south-by-southwest-festival-killing.xml)  
+
 ### [2014-03-13](/news/2014/03/13/index.md)
 
+##### Austin, Texas
 # An intoxicated hit-and-run driver in Austin, Texas, United States, drives into a nighttime crowd at the South by Southwest festival, killing two and injuring 23 
 
-Two people have been killed and as many as 23 injured after a car hit a crowd of people outside a nightclub in downtown Austin, officials say.
 
 
-### Source:
+
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/03/13/us/texas-sxsw-crash/)
-2. [USA Today](http://www.usatoday.com/story/news/nation/2014/03/13/sxsw-austin-nightclub-accident/6360729/)
+2. [USA Today](https://www.usatoday.com/story/news/nation/2014/03/13/sxsw-austin-nightclub-accident/6360729/)
 2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

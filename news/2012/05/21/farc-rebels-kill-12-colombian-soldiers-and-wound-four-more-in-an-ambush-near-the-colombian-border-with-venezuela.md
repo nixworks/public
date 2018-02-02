@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/21/farc-rebels-kill-12-colombian-soldiers-and-wound-four-more-in-an-ambush-near-the-colombian-border-with-venezuela.html)  [JSON](/news/2012/05/21/farc-rebels-kill-12-colombian-soldiers-and-wound-four-more-in-an-ambush-near-the-colombian-border-with-venezuela.json)  [XML](/news/2012/05/21/farc-rebels-kill-12-colombian-soldiers-and-wound-four-more-in-an-ambush-near-the-colombian-border-with-venezuela.xml)  
+
 ### [2012-05-21](/news/2012/05/21/index.md)
 
+##### FARC
 # FARC rebels kill 12 Colombian soldiers and wound four more in an ambush near the Colombian border with Venezuela. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5gK-mn0he_A3uxQNkRzyIJpajHWqw?docId=CNG.1a912181d7fa9842e728368f24799911.211)
 2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ivHaL6-P6mFXb9QIJc63CzVxdxFQ?docId=1d4c50ceaf274b6c83664d40f3400010)

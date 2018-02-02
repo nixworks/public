@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-unit.html)  [JSON](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-unit.json)  [XML](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-unit.xml)  
+
 ### [2010-01-11](/news/2010/01/11/index.md)
 
+##### Perry v. Schwarzenegger
 # "Perry v. Schwarzenegger", a challenge to California Proposition 8 and likely a landmark case regarding same-sex marriage rights in the United States, begins in San Francisco. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://hosted.ap.org/dynamic/stories/U/US_GAY_MARRIAGE_TRIAL?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2010-01-11-15-26-20)
+
+### Changes:
+
+1. [''Perry v. Schwarzenegger'', a challenge to California Proposition 8 and likely a landmark case regarding same-sex marriage rights in the United States, begins in San Francisco. ](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-un.md) _2017-08-25 03:26:51 (First version)_
+1. ["Perry v. Schwarzenegger", a challenge to California Proposition 8 and likely a landmark case regarding same-sex marriage rights in the United States, begins in San Francisco. ](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-unit.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [The New York Senate votes to legalise same-sex marriage in New York, assuring passage of the legislation and making New York the largest state to approve such legislation since California reversed its legalization in 2008. ](/news/2011/06/24/the-new-york-senate-votes-to-legalise-same-sex-marriage-in-new-york-assuring-passage-of-the-legislation-and-making-new-york-the-largest-sta.md) _Context: reversed its legalization, same-sex marriage_
 4. [The United States Court of Appeals for the Ninth Circuit refuses to allow same-sex marriages to resume in the US state of California while it considers the constitutionality of Proposition 8. ](/news/2011/03/23/the-united-states-court-of-appeals-for-the-ninth-circuit-refuses-to-allow-same-sex-marriages-to-resume-in-the-us-state-of-california-while-i.md) _Context: reversed its legalization, same-sex marriage_
 5. [Supporters of California Proposition 8 banning same-sex marriage lodge an appeal against the decision of United States district court Vaughn R. Walker overturning it. ](/news/2010/08/5/supporters-of-california-proposition-8-banning-same-sex-marriage-lodge-an-appeal-against-the-decision-of-united-states-district-court-vaughn.md) _Context: reversed its legalization, same-sex marriage_
-
-### Changes:
-
-1. [''Perry v. Schwarzenegger'', a challenge to California Proposition 8 and likely a landmark case regarding same-sex marriage rights in the United States, begins in San Francisco. ](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-un.md) _2017-08-25 03:26:51 (First version)_
-1. ["Perry v. Schwarzenegger", a challenge to California Proposition 8 and likely a landmark case regarding same-sex marriage rights in the United States, begins in San Francisco. ](/news/2010/01/11/perry-v-schwarzenegger-a-challenge-to-california-proposition-8-and-likely-a-landmark-case-regarding-same-sex-marriage-rights-in-the-unit.md) _(Current version)_

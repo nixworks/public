@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/12/paul-wolfowitz-the-president-of-the-world-bank-apologizes-for-his-role-in-a-pay-scandal-involving-his-girlfriend.html)  [JSON](/news/2007/04/12/paul-wolfowitz-the-president-of-the-world-bank-apologizes-for-his-role-in-a-pay-scandal-involving-his-girlfriend.json)  [XML](/news/2007/04/12/paul-wolfowitz-the-president-of-the-world-bank-apologizes-for-his-role-in-a-pay-scandal-involving-his-girlfriend.xml)  
+
 ### [2007-04-12](/news/2007/04/12/index.md)
 
+##### Paul Wolfowitz
 #  Paul Wolfowitz, the President of the World Bank, apologizes for his role in a pay scandal involving his girlfriend. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/newsitems/200704/s1895969.htm)
 

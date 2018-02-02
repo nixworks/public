@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/18/the-moldovan-parliament-appoints-a-new-government-with-chiril-gaburici-as-prime-minister-and-a-legislative-support-formed-by-the-pldm-pdm-a.html)  [JSON](/news/2015/02/18/the-moldovan-parliament-appoints-a-new-government-with-chiril-gaburici-as-prime-minister-and-a-legislative-support-formed-by-the-pldm-pdm-a.json)  [XML](/news/2015/02/18/the-moldovan-parliament-appoints-a-new-government-with-chiril-gaburici-as-prime-minister-and-a-legislative-support-formed-by-the-pldm-pdm-a.xml)  
+
 ### [2015-02-18](/news/2015/02/18/index.md)
 
+##### Moldovan Parliament
 # The Moldovan Parliament appoints a new government with Chiril Gaburici as Prime Minister and a legislative support formed by the PLDM, PDM and PCRM. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RomaniaJournal](http://www.romaniajournal.ro/moldova-has-new-government-pm-chiril-gaburici-received-the-vote-of-confidence/)
 

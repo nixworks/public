@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/16/2003-rugby-union-world-cup-england-beats-france-24a7-in-high-winds-and-heavy-rain-in-the-world-cup-semi-final.html)  [JSON](/news/2003/11/16/2003-rugby-union-world-cup-england-beats-france-24a7-in-high-winds-and-heavy-rain-in-the-world-cup-semi-final.json)  [XML](/news/2003/11/16/2003-rugby-union-world-cup-england-beats-france-24a7-in-high-winds-and-heavy-rain-in-the-world-cup-semi-final.xml)  
+
 ### [2003-11-16](/news/2003/11/16/index.md)
 
+##### Rugby Union World Cup
 #  2003 Rugby Union World Cup: England beats France 24-7 in high winds and heavy rain in the World Cup semi-final.
 
 

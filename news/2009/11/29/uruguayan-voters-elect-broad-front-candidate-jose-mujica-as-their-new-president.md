@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/11/29/uruguayan-voters-elect-broad-front-candidate-jose-mujica-as-their-new-president.html)  [JSON](/news/2009/11/29/uruguayan-voters-elect-broad-front-candidate-jose-mujica-as-their-new-president.json)  [XML](/news/2009/11/29/uruguayan-voters-elect-broad-front-candidate-jose-mujica-as-their-new-president.xml)  
+
 ### [2009-11-29](/news/2009/11/29/index.md)
 
+##### Uruguay
 #  Uruguayan voters elect Broad Front candidate Jos Mujica as their new president. 
 
 (For more on the Honduras election, click [ID:nHONDURAS]) * Leftist Mujica wins -- exit polls, projections * Rightist rival Lacalle concede
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/companyNewsAndPR/idUSN2940977520091129)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/companyNewsAndPR/idUSN2940977520091129)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

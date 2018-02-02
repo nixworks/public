@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/31/three-united-nations-workers-taken-hostage-in-afghanistan-are-shown-on-a-video-issued-by-their-captors.html)  [JSON](/news/2004/10/31/three-united-nations-workers-taken-hostage-in-afghanistan-are-shown-on-a-video-issued-by-their-captors.json)  [XML](/news/2004/10/31/three-united-nations-workers-taken-hostage-in-afghanistan-are-shown-on-a-video-issued-by-their-captors.xml)  
+
 ### [2004-10-31](/news/2004/10/31/index.md)
 
+##### United Nations
 #  Three United Nations workers taken hostage in Afghanistan are shown on a video issued by their captors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/3969083.stm)
 

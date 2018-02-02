@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/20/a-norwegian-judge-orders-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks-to-be-kept-in-solitary-confinement-for-four-mor.html)  [JSON](/news/2011/09/20/a-norwegian-judge-orders-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks-to-be-kept-in-solitary-confinement-for-four-mor.json)  [XML](/news/2011/09/20/a-norwegian-judge-orders-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks-to-be-kept-in-solitary-confinement-for-four-mor.xml)  
+
 ### [2011-09-20](/news/2011/09/20/index.md)
 
+##### Norway
 # A Norwegian judge orders Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, to be kept in solitary confinement for four more weeks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/09/19/world/europe/norway-attacks/index.html?hpt=wo_c2)
 

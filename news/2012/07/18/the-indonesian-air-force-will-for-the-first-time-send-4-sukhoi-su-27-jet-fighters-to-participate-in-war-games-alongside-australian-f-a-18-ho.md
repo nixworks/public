@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/18/the-indonesian-air-force-will-for-the-first-time-send-4-sukhoi-su-27-jet-fighters-to-participate-in-war-games-alongside-australian-f-a-18-ho.html)  [JSON](/news/2012/07/18/the-indonesian-air-force-will-for-the-first-time-send-4-sukhoi-su-27-jet-fighters-to-participate-in-war-games-alongside-australian-f-a-18-ho.json)  [XML](/news/2012/07/18/the-indonesian-air-force-will-for-the-first-time-send-4-sukhoi-su-27-jet-fighters-to-participate-in-war-games-alongside-australian-f-a-18-ho.xml)  
+
 ### [2012-07-18](/news/2012/07/18/index.md)
 
+##### Indonesian Air Force
 # The Indonesian Air Force will for the first time send 4 Sukhoi Su-27 jet fighters to participate in war games alongside Australian F-A-18 Hornets and U.S Fighter jets from the 27 July 2012 to 17 August 2012.
 
 Indonesia will send its front-line Sukhoi jet fighters to take part in Australia&#039;s largest air combat exercise this month, signalling a new era of enhanced defence co-operation between the two countries.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/indonesian-jets-in-australian-war-games-20120717-228f3.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/2/2/8/w/b/image.related.thumbnail.320x214.228f3.png/1342544400000.jpg)

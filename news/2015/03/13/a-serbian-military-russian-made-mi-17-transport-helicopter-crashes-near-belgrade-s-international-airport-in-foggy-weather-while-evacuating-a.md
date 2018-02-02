@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/13/a-serbian-military-russian-made-mi-17-transport-helicopter-crashes-near-belgrade-s-international-airport-in-foggy-weather-while-evacuating-a.html)  [JSON](/news/2015/03/13/a-serbian-military-russian-made-mi-17-transport-helicopter-crashes-near-belgrade-s-international-airport-in-foggy-weather-while-evacuating-a.json)  [XML](/news/2015/03/13/a-serbian-military-russian-made-mi-17-transport-helicopter-crashes-near-belgrade-s-international-airport-in-foggy-weather-while-evacuating-a.xml)  
+
 ### [2015-03-13](/news/2015/03/13/index.md)
 
+##### Serbia
 # A Serbian military Russian-made MI-17 transport helicopter crashes near Belgrade's international airport in foggy weather while evacuating a sick 5-day-old baby with life-threatening respiratory problems from the south of the country, killing all seven people on board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/ee51ad92ae4e432ab5e4c21e29163215/serbian-military-helicopter-crashes-near-belgrade)
 

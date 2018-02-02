@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/05/25/former-prime-minister-of-israel-ehud-olmert-is-sentenced-to-eight-months-in-jail-following-a-conviction-on-corruption-charges-for-unlawfully.html)  [JSON](/news/2015/05/25/former-prime-minister-of-israel-ehud-olmert-is-sentenced-to-eight-months-in-jail-following-a-conviction-on-corruption-charges-for-unlawfully.json)  [XML](/news/2015/05/25/former-prime-minister-of-israel-ehud-olmert-is-sentenced-to-eight-months-in-jail-following-a-conviction-on-corruption-charges-for-unlawfully.xml)  
+
 ### [2015-05-25](/news/2015/05/25/index.md)
 
+##### Israeli Prime Minister
 # Former Prime Minister of Israel Ehud Olmert is sentenced to eight months in jail following a conviction on corruption charges for unlawfully accepting multiple envelopes with cash from an American supporter. There are 3 more criminals prosecutions against him. 
 
 Former Israeli Prime Minister Ehud Olmert is sentenced to eight months in prison for fraud and breach of trust.
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Guardian](http://www.theguardian.com/world/2015/may/25/former-israeli-leader-ehud-olmert-jailed-for-eight-months-for-corruption)
+1. [AP via ''The Guardian](https://www.theguardian.com/world/2015/may/25/former-israeli-leader-ehud-olmert-jailed-for-eight-months-for-corruption)
 2. [BBC](http://www.bbc.com/news/world-middle-east-32873016?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central)
 2. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/83208000/jpg/_83208621_olmert.jpg)
 

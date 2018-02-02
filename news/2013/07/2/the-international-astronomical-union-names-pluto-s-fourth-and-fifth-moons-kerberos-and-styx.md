@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/2/the-international-astronomical-union-names-pluto-s-fourth-and-fifth-moons-kerberos-and-styx.html)  [JSON](/news/2013/07/2/the-international-astronomical-union-names-pluto-s-fourth-and-fifth-moons-kerberos-and-styx.json)  [XML](/news/2013/07/2/the-international-astronomical-union-names-pluto-s-fourth-and-fifth-moons-kerberos-and-styx.xml)  
+
 ### [2013-07-2](/news/2013/07/2/index.md)
 
+##### International Astronomical Union
 # The International Astronomical Union names Pluto's fourth and fifth moons, Kerberos and Styx. 
 
 Pluto&#039;s fourth and fifth moons, discovered in 2011 and 2012, have been named Kerberos and Styx, the International Astronomical Union (IAU) said on Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/technology/sci-tech/manyheaded-dog-goddess-lend-names-to-pluto-moons-20130703-2paqd.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/2/p/a/s/g/image.related.articleLeadwide.620x349.2paqd.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/22/more-than-60-people-are-reported-to-have-been-killed-and-150-wounded-during-clashes-in-the-somali-port-of-kismayo.html)  [JSON](/news/2008/08/22/more-than-60-people-are-reported-to-have-been-killed-and-150-wounded-during-clashes-in-the-somali-port-of-kismayo.json)  [XML](/news/2008/08/22/more-than-60-people-are-reported-to-have-been-killed-and-150-wounded-during-clashes-in-the-somali-port-of-kismayo.xml)  
+
 ### [2008-08-22](/news/2008/08/22/index.md)
 
+##### clashes
 #  More than 60 people are reported to have been killed and 150 wounded during clashes in the Somali port of Kismayo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7576307.stm)
 

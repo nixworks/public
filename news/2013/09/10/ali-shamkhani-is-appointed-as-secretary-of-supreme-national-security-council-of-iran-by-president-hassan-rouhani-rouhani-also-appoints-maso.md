@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/10/ali-shamkhani-is-appointed-as-secretary-of-supreme-national-security-council-of-iran-by-president-hassan-rouhani-rouhani-also-appoints-maso.html)  [JSON](/news/2013/09/10/ali-shamkhani-is-appointed-as-secretary-of-supreme-national-security-council-of-iran-by-president-hassan-rouhani-rouhani-also-appoints-maso.json)  [XML](/news/2013/09/10/ali-shamkhani-is-appointed-as-secretary-of-supreme-national-security-council-of-iran-by-president-hassan-rouhani-rouhani-also-appoints-maso.xml)  
+
 ### [2013-09-10](/news/2013/09/10/index.md)
 
+##### Ali Shamkhani
 # Ali Shamkhani is appointed as Secretary of Supreme National Security Council of Iran by President Hassan Rouhani. Rouhani also appoints Masoumeh Ebtekar as Vice President of Iran 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Farsnews](http://english.farsnews.com/newstext.aspx?nn=13920619000931)
 

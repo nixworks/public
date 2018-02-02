@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/16/japanese-politician-ichiro-ozawa-vows-to-stay-on-after-the-arrests-of-several-of-his-aides-in-a-growing-funding-scandal-in-the-democratic-pa.html)  [JSON](/news/2010/01/16/japanese-politician-ichiro-ozawa-vows-to-stay-on-after-the-arrests-of-several-of-his-aides-in-a-growing-funding-scandal-in-the-democratic-pa.json)  [XML](/news/2010/01/16/japanese-politician-ichiro-ozawa-vows-to-stay-on-after-the-arrests-of-several-of-his-aides-in-a-growing-funding-scandal-in-the-democratic-pa.xml)  
+
 ### [2010-01-16](/news/2010/01/16/index.md)
 
+##### Japan
 # Japanese politician Ichiro Ozawa vows to stay on after the arrests of several of his aides in a growing funding scandal in the Democratic Party of Japan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5gqd3PdHhrtL86uHluvDwQSb60qSw)
 2. [Xinhua](http://news.xinhuanet.com/english/2010-01/16/content_12821611.htm)

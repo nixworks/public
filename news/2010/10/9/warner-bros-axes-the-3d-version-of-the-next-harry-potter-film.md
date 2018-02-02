@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/9/warner-bros-axes-the-3d-version-of-the-next-harry-potter-film.html)  [JSON](/news/2010/10/9/warner-bros-axes-the-3d-version-of-the-next-harry-potter-film.json)  [XML](/news/2010/10/9/warner-bros-axes-the-3d-version-of-the-next-harry-potter-film.xml)  
+
 ### [2010-10-9](/news/2010/10/9/index.md)
 
+##### Warner Bros.
 # Warner Bros. axes the 3D version of the next Harry Potter film. 
 
 Warner Bros Studios says it is cancelling the 3D conversion of the next Harry Potter film, so as not to delay its November release in standard 2D.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11506354)
 2. [Daily Mail](http://www.dailymail.co.uk/tvshowbiz/article-1319031/Harry-Potter-Deathly-Hallows-3D-release-cancelled.html?ITO=1490)

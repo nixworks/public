@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/14/100-homes-are-destroyed-and-thousands-of-people
 
 ### [2016-08-14](/news/2016/08/14/index.md)
 
+##### 2016 California wildfires
 # 100 homes are destroyed and thousands of people are forced to leave due to wildfire in Lower Lake, California. 
 
 Firefighters are battling to control a Northern California blaze that destroyed at least 175 homes and businesses as it grew to 4,000 acres and forced 4,000 people from their homes.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/31/mother-teresa-of-calcutta-is-to-be-canonized-in
 
 ### [2016-08-31](/news/2016/08/31/index.md)
 
+##### Mother Teresa
 # Mother Teresa of Calcutta is to be canonized into sainthood after "proof" of two miracles. 
 
 

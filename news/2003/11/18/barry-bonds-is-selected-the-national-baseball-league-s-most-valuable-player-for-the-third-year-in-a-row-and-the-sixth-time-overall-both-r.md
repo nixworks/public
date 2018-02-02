@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/18/barry-bonds-is-selected-the-national-baseball-league-s-most-valuable-player-for-the-third-year-in-a-row-and-the-sixth-time-overall-both-r.html)  [JSON](/news/2003/11/18/barry-bonds-is-selected-the-national-baseball-league-s-most-valuable-player-for-the-third-year-in-a-row-and-the-sixth-time-overall-both-r.json)  [XML](/news/2003/11/18/barry-bonds-is-selected-the-national-baseball-league-s-most-valuable-player-for-the-third-year-in-a-row-and-the-sixth-time-overall-both-r.xml)  
+
 ### [2003-11-18](/news/2003/11/18/index.md)
 
+##### Barry Bonds
 #  Barry Bonds is selected the National Baseball League's Most Valuable Player, for the third year in a row and the sixth time overall, both records.
 
 

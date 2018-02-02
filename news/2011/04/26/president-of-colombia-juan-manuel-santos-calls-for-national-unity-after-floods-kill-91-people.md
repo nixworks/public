@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/26/president-of-colombia-juan-manuel-santos-calls-for-national-unity-after-floods-kill-91-people.html)  [JSON](/news/2011/04/26/president-of-colombia-juan-manuel-santos-calls-for-national-unity-after-floods-kill-91-people.json)  [XML](/news/2011/04/26/president-of-colombia-juan-manuel-santos-calls-for-national-unity-after-floods-kill-91-people.xml)  
+
 ### [2011-04-26](/news/2011/04/26/index.md)
 
+##### Colombian President
 # President of Colombia Juan Manuel Santos calls for national unity after floods kill 91 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/americas/04/25/colombia.rain.floods/index.html)
 

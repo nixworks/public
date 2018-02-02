@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/05/22/the-town-of-hallam-nebraska-was-mostly-destroyed-by-the-widest-tornado-on-record.html)  [JSON](/news/2004/05/22/the-town-of-hallam-nebraska-was-mostly-destroyed-by-the-widest-tornado-on-record.json)  [XML](/news/2004/05/22/the-town-of-hallam-nebraska-was-mostly-destroyed-by-the-widest-tornado-on-record.xml)  
+
 ### [2004-05-22](/news/2004/05/22/index.md)
 
+##### Hallam, Nebraska
 #  The town of Hallam, Nebraska, was mostly destroyed by the widest tornado on record.
 
 

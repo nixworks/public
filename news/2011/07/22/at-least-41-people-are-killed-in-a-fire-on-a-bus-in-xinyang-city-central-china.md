@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/22/at-least-41-people-are-killed-in-a-fire-on-a-bus-in-xinyang-city-central-china.html)  [JSON](/news/2011/07/22/at-least-41-people-are-killed-in-a-fire-on-a-bus-in-xinyang-city-central-china.json)  [XML](/news/2011/07/22/at-least-41-people-are-killed-in-a-fire-on-a-bus-in-xinyang-city-central-china.xml)  
+
 ### [2011-07-22](/news/2011/07/22/index.md)
 
+##### Xinyang
 # At least 41 people are killed in a fire on a bus in Xinyang City, central China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14247893)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-07/22/c_131002969.htm)

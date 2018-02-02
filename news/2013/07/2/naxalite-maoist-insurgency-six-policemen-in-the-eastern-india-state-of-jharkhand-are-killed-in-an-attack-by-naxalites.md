@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/2/naxalite-maoist-insurgency-six-policemen-in-the-eastern-india-state-of-jharkhand-are-killed-in-an-attack-by-naxalites.html)  [JSON](/news/2013/07/2/naxalite-maoist-insurgency-six-policemen-in-the-eastern-india-state-of-jharkhand-are-killed-in-an-attack-by-naxalites.json)  [XML](/news/2013/07/2/naxalite-maoist-insurgency-six-policemen-in-the-eastern-india-state-of-jharkhand-are-killed-in-an-attack-by-naxalites.xml)  
+
 ### [2013-07-2](/news/2013/07/2/index.md)
 
+##### Naxalite-Maoist insurgency
 # Naxalite-Maoist insurgency: Six policemen in the eastern India state of Jharkhand are killed in an attack by Naxalites. 
 
 Six policemen, including a Superintendent of Police, have been killed in an ambush by Maoists in Dumka, Jharkhand.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/article/india/major-maoist-attack-in-jharkhand-eight-policemen-feared-killed-386972)
 1. [Cover Image](http://i.ndtvimg.com/mt/2013-07/Amarjit_Balihar_295.jpg)

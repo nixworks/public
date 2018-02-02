@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2013/06/4/turkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.html)  [JSON](/news/2013/06/4/turkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.json)  [XML](/news/2013/06/4/turkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.xml)  
+
 ### [2013-06-4](/news/2013/06/4/index.md)
 
+##### Turkish
 # Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. 
 
 A 22-year-old man died in a hospital after being shot during protests in southern Turkey, as trade unions prepare to strike in support of those on the streets.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/turkey/10097368/Turkey-protests-second-fatality-reported-as-widespread-civil-unrest-continues.html)
 2. [Al Jazeera](http://blogs.aljazeera.com/topic/turkey-protests/international-support-turkey-demonstrators)
 2. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02580/turkey_2580107k.jpg)
+
+### Changes:
+
+1. [2013 protests in Turkey:Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/2013-protests-in-turkey-pturkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md) _2017-08-25 03:38:46 (First version)_
+2. [2013 protests in Turkey:: Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/2013-protests-in-turkey-turkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md) _2017-08-27 03:39:00 (Update)_
+2. [Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/turkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ A 22-year-old man died in a hospital after being shot during protests in souther
 3. [Pope Francis, in his first speech upon arrival at the presidential palace of Serzh Sargsyan in the Armenian capital Yerevan, denounces the planned genocide of Armenians by Ottoman-era Turks a century ago, though the word "genocide" was not included in his prepared speech. ](/news/2016/06/24/pope-francis-in-his-first-speech-upon-arrival-at-the-presidential-palace-of-serzh-sargsyan-in-the-armenian-capital-yerevan-denounces-the-p.md) _Context: Turkish_
 4. [Two weeks after the deadly suicide bombings, Brussels Zaventem International Airport will reopen today with three symbolic flights to Faro, Athens, and Turin. On Thursday, the airport had said it was "technically ready" to resume partial services, but the opening was held up because police unions threatened to strike unless additional security checks were introduced. ](/news/2016/04/3/two-weeks-after-the-deadly-suicide-bombings-brussels-zaventem-international-airport-will-reopen-today-with-three-symbolic-flights-to-faro.md) _Context: strike_
 5. [Twelve Turkish academics are detained for signing a declaration opposing military action against Kurdistan Workers Party forces in southeast Turkey. ](/news/2016/01/15/twelve-turkish-academics-are-detained-for-signing-a-declaration-opposing-military-action-against-kurdistan-workers-party-forces-in-southeast.md) _Context: Turkish_
-
-### Changes:
-
-1. [2013 protests in Turkey:Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/2013-protests-in-turkey-pturkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md) _2017-08-25 03:38:46 (First version)_
-2. [2013 protests in Turkey:: Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/2013-protests-in-turkey-turkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md) _2017-08-27 03:39:00 (Update)_
-2. [Turkish public servants go on a two-day strike in support of the protests as a second fatality is reported. ](/news/2013/06/4/turkish-public-servants-go-on-a-two-day-strike-in-support-of-the-protests-as-a-second-fatality-is-reported.md) _(Current version)_

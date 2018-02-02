@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/26/a-woman-becomes-the-first-person-to-be-jailed-for-violating-a-ban-on-non-recyclable-plastic-bags-in-mandalay-burma.html)  [JSON](/news/2011/03/26/a-woman-becomes-the-first-person-to-be-jailed-for-violating-a-ban-on-non-recyclable-plastic-bags-in-mandalay-burma.json)  [XML](/news/2011/03/26/a-woman-becomes-the-first-person-to-be-jailed-for-violating-a-ban-on-non-recyclable-plastic-bags-in-mandalay-burma.xml)  
+
 ### [2011-03-26](/news/2011/03/26/index.md)
 
+##### Mandalay
 # A woman becomes the first person to be jailed for violating a ban on non-recyclable plastic bags in Mandalay, Burma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_649610.html)
 

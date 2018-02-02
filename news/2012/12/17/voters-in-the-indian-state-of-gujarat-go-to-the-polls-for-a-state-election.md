@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/17/voters-in-the-indian-state-of-gujarat-go-to-the-polls-for-a-state-election.html)  [JSON](/news/2012/12/17/voters-in-the-indian-state-of-gujarat-go-to-the-polls-for-a-state-election.json)  [XML](/news/2012/12/17/voters-in-the-indian-state-of-gujarat-go-to-the-polls-for-a-state-election.xml)  
+
 ### [2012-12-17](/news/2012/12/17/index.md)
 
+##### India
 # Voters in the Indian state of Gujarat go to the polls for a state election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-20752404)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/64800000/jpg/_64800488_64800487.jpg)

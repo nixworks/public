@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/15/the-government-of-papua-new-guinea-reacts-angrily-after-the-new-australian-minister-for-foreign-affairs-bob-carr-threatens-the-imposition-of.html)  [JSON](/news/2012/03/15/the-government-of-papua-new-guinea-reacts-angrily-after-the-new-australian-minister-for-foreign-affairs-bob-carr-threatens-the-imposition-of.json)  [XML](/news/2012/03/15/the-government-of-papua-new-guinea-reacts-angrily-after-the-new-australian-minister-for-foreign-affairs-bob-carr-threatens-the-imposition-of.xml)  
+
 ### [2012-03-15](/news/2012/03/15/index.md)
 
+##### Government of Papua New Guinea
 # The Government of Papua New Guinea reacts angrily after the new Australian Minister for Foreign Affairs Bob Carr threatens the imposition of sanctions if elections are delayed. 
 
 PAPUA New Guinea has responded with dismay over Bob Carr&#039;s surprise threat to sanction the country, calling in Australia&#039;s top diplomat in Port Moresby for a dressing down.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/opinion/political-news/png--reacts-with-fury-to-bob-carrs-sanction-threat-20120315-1v6m8.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/v/6/s/9/image.related.articleLeadwide.620x349.1v6m8.png/1401656955457.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/14/air-canada-services-face-disruption-as-customer-service-agents-affiliated-with-the-canadian-auto-workers-start-a-strike.html)  [JSON](/news/2011/06/14/air-canada-services-face-disruption-as-customer-service-agents-affiliated-with-the-canadian-auto-workers-start-a-strike.json)  [XML](/news/2011/06/14/air-canada-services-face-disruption-as-customer-service-agents-affiliated-with-the-canadian-auto-workers-start-a-strike.xml)  
+
 ### [2011-06-14](/news/2011/06/14/index.md)
 
+##### Air Canada
 # Air Canada services face disruption as customer service agents affiliated with the Canadian Auto Workers start a strike. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Financial Post](http://business.financialpost.com/2011/06/14/caw-workers-on-strike-at-air-canada/)
 

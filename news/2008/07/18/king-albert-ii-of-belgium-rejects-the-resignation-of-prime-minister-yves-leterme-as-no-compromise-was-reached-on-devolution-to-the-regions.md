@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/18/king-albert-ii-of-belgium-rejects-the-resignation-of-prime-minister-yves-leterme-as-no-compromise-was-reached-on-devolution-to-the-regions.html)  [JSON](/news/2008/07/18/king-albert-ii-of-belgium-rejects-the-resignation-of-prime-minister-yves-leterme-as-no-compromise-was-reached-on-devolution-to-the-regions.json)  [XML](/news/2008/07/18/king-albert-ii-of-belgium-rejects-the-resignation-of-prime-minister-yves-leterme-as-no-compromise-was-reached-on-devolution-to-the-regions.xml)  
+
 ### [2008-07-18](/news/2008/07/18/index.md)
 
+##### Albert II of Belgium
 #  King Albert II of Belgium rejects the resignation of Prime Minister Yves Leterme, as no compromise was reached on devolution to the regions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7512975.stm)
 

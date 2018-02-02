@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2014/07/11/ukrainian-forces-in-recently-reclaimed-city-of-sloviansk-discover-documents-that-show-pro-russian-insurgent-leader-igor-strelkov-handed-down.html)  [JSON](/news/2014/07/11/ukrainian-forces-in-recently-reclaimed-city-of-sloviansk-discover-documents-that-show-pro-russian-insurgent-leader-igor-strelkov-handed-down.json)  [XML](/news/2014/07/11/ukrainian-forces-in-recently-reclaimed-city-of-sloviansk-discover-documents-that-show-pro-russian-insurgent-leader-igor-strelkov-handed-down.xml)  
+
 ### [2014-07-11](/news/2014/07/11/index.md)
 
+##### 2014 pro-Russian unrest in Ukraine
 # Ukrainian forces in recently reclaimed city of Sloviansk discover documents that show pro-Russian insurgent leader Igor Strelkov handed down at least four death sentences under a Stalin-era law of 1941. 
 
 Ukrainian President Petro Poroshenko vowed to &quot;find and destroy&quot; pro-Russian rebels who killed 23 servicemen and wounded nearly 100 in a missile attack on Friday.
 
 
-### Source:
+### Sources:
 
 1. [Kyiv Post](http://www.kyivpost.com/content/ukraine/documents-reveal-shadowy-russian-rebel-commander-signed-off-on-executions-of-three-men-in-sloviansk-355580.html)
-2. [Reuters](http://www.reuters.com/article/2014/07/11/us-ukraine-crisis-idUSKBN0FG1A920140711)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140711&t=2&i=928801428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6A0JV)
+2. [Reuters](https://www.reuters.com/article/2014/07/11/us-ukraine-crisis-idUSKBN0FG1A920140711)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20140711&t=2&i=928801428&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA6A0JV)
+
+### Changes:
+
+1. [2014 pro-Russian unrest in Ukraine: Ukrainian forces in recently reclaimed city of Sloviansk discover documents that show pro-Russian insurgent leader Igor Strelkov handed down at least four death sentences under a Stalin-era law of 1941. ](/news/2014/07/11/2014-pro-russian-unrest-in-ukraine-ukrainian-forces-in-recently-reclaimed-city-of-sloviansk-discover-documents-that-show-pro-russian-insurg.md) _2017-08-27 03:40:58 (First version)_
+1. [Ukrainian forces in recently reclaimed city of Sloviansk discover documents that show pro-Russian insurgent leader Igor Strelkov handed down at least four death sentences under a Stalin-era law of 1941. ](/news/2014/07/11/ukrainian-forces-in-recently-reclaimed-city-of-sloviansk-discover-documents-that-show-pro-russian-insurgent-leader-igor-strelkov-handed-down.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Ukrainian President Petro Poroshenko vowed to &quot;find and destroy&quot; pro-R
 3. [Foreign ministers from members of NATO attend a summit in Belgium to discuss the 2014 pro-Russian unrest in Ukraine and the Islamic State in Iraq and the Levant insurgency. ](/news/2014/12/3/foreign-ministers-from-members-of-nato-attend-a-summit-in-belgium-to-discuss-the-2014-pro-russian-unrest-in-ukraine-and-the-islamic-state-in.md) _Context: 2014 pro-Russian unrest in Ukraine_
 4. [Kazakhstan renews its military cooperation with Ukraine, to which it promises vital supplies of coal, following a visit to Kiev by the Kazakh leader, Nursultan Nazarbayev. ](/news/2014/12/22/kazakhstan-renews-its-military-cooperation-with-ukraine-to-which-it-promises-vital-supplies-of-coal-following-a-visit-to-kiev-by-the-kazak.md) _Context: 2014 pro-Russian unrest in Ukraine_
 5. [At least three people die in a new round of fighting between the Armed Forces of Ukraine and pro-Russian separatists. ](/news/2014/11/26/at-least-three-people-die-in-a-new-round-of-fighting-between-the-armed-forces-of-ukraine-and-pro-russian-separatists.md) _Context: 2014 pro-Russian unrest in Ukraine_
-
-### Changes:
-
-1. [2014 pro-Russian unrest in Ukraine: Ukrainian forces in recently reclaimed city of Sloviansk discover documents that show pro-Russian insurgent leader Igor Strelkov handed down at least four death sentences under a Stalin-era law of 1941. ](/news/2014/07/11/2014-pro-russian-unrest-in-ukraine-ukrainian-forces-in-recently-reclaimed-city-of-sloviansk-discover-documents-that-show-pro-russian-insurg.md) _2017-08-27 03:40:58 (First version)_
-1. [Ukrainian forces in recently reclaimed city of Sloviansk discover documents that show pro-Russian insurgent leader Igor Strelkov handed down at least four death sentences under a Stalin-era law of 1941. ](/news/2014/07/11/ukrainian-forces-in-recently-reclaimed-city-of-sloviansk-discover-documents-that-show-pro-russian-insurgent-leader-igor-strelkov-handed-down.md) _(Current version)_

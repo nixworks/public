@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/9/thousands-of-iraqis-protest-in-the-city-of-najaf-to-mark-the-seventh-anniversary-of-the-occupation-of-iraq-by-the-usa.html)  [JSON](/news/2010/04/9/thousands-of-iraqis-protest-in-the-city-of-najaf-to-mark-the-seventh-anniversary-of-the-occupation-of-iraq-by-the-usa.json)  [XML](/news/2010/04/9/thousands-of-iraqis-protest-in-the-city-of-najaf-to-mark-the-seventh-anniversary-of-the-occupation-of-iraq-by-the-usa.xml)  
+
 ### [2010-04-9](/news/2010/04/9/index.md)
 
+##### Iraqi
 # Thousands of Iraqis protest in the city of Najaf to mark the seventh anniversary of the occupation of Iraq by the USA. 
 
 Thousands protest presence of foreign forces, seven years after the US-led invasion.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/04/20104983512528239.html)
 2. [People's Daily Online](http://english.people.com.cn/90001/90777/90854/6946031.html)

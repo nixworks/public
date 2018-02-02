@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/4/an-11-story-building-under-construction-collapses-in-the-indian-city-of-chennai-crushing-to-death-61-people-most-of-them-workers-on-site.html)  [JSON](/news/2014/07/4/an-11-story-building-under-construction-collapses-in-the-indian-city-of-chennai-crushing-to-death-61-people-most-of-them-workers-on-site.json)  [XML](/news/2014/07/4/an-11-story-building-under-construction-collapses-in-the-indian-city-of-chennai-crushing-to-death-61-people-most-of-them-workers-on-site.xml)  
+
 ### [2014-07-4](/news/2014/07/4/index.md)
 
+##### India
 # An 11-story building under construction collapses in the Indian city of Chennai, crushing to death 61 people, most of them workers on site. 
 
 The rescue operation at an 11-storey building that collapsed in the Indian city of Chennai is called off, with the final death toll put at 61.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.com/news/world-asia-india-28156440)
 2. [CNN](http://edition.cnn.com/2014/07/04/world/asia/india-building-collapse/)

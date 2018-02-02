@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/18/the-emirates-airline-announces-an-order-for-up-
 
 ### [2018-01-18](/news/2018/01/18/index.md)
 
+##### Emirates
 # The Emirates airline announces an order for up to 36 Airbus A380s. Emirates is already the aircraft's largest operator, with a fleet of over 100. 
 
 A big order from Emirates airline saves the A380 after Airbus threatened to stop making the plane.

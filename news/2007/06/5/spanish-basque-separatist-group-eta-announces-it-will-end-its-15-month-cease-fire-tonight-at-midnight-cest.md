@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/5/spanish-basque-separatist-group-eta-announces-it-will-end-its-15-month-cease-fire-tonight-at-midnight-cest.html)  [JSON](/news/2007/06/5/spanish-basque-separatist-group-eta-announces-it-will-end-its-15-month-cease-fire-tonight-at-midnight-cest.json)  [XML](/news/2007/06/5/spanish-basque-separatist-group-eta-announces-it-will-end-its-15-month-cease-fire-tonight-at-midnight-cest.xml)  
+
 ### [2007-06-5](/news/2007/06/5/index.md)
 
+##### Spain
 #  Spanish Basque separatist group ETA announces it will end its 15-month cease-fire tonight at midnight (CEST). 
 
 ETA has said it will end its 15-month-old ceasefire at midnight tonight and has warned the Spanish government of new attacks.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2007/0605/spain.html?rss)
 1. [Cover Image](https://img.rasset.ie/0000e40b-1600.jpg)

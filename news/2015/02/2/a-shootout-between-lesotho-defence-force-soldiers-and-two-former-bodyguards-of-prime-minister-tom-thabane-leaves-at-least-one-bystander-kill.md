@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/2/a-shootout-between-lesotho-defence-force-soldiers-and-two-former-bodyguards-of-prime-minister-tom-thabane-leaves-at-least-one-bystander-kill.html)  [JSON](/news/2015/02/2/a-shootout-between-lesotho-defence-force-soldiers-and-two-former-bodyguards-of-prime-minister-tom-thabane-leaves-at-least-one-bystander-kill.json)  [XML](/news/2015/02/2/a-shootout-between-lesotho-defence-force-soldiers-and-two-former-bodyguards-of-prime-minister-tom-thabane-leaves-at-least-one-bystander-kill.xml)  
+
 ### [2015-02-2](/news/2015/02/2/index.md)
 
+##### Lesotho Defence Force
 # A shootout between Lesotho Defence Force soldiers and two former bodyguards of Prime Minister Tom Thabane leaves at least one bystander killed and three others wounded. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFKBN0L61F720150202)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/21/vote-counting-in-nigeria-heavily-favors-olusegun-obasanjo-opposition-makes-accusations-of-electoral-fraud.html)  [JSON](/news/2003/04/21/vote-counting-in-nigeria-heavily-favors-olusegun-obasanjo-opposition-makes-accusations-of-electoral-fraud.json)  [XML](/news/2003/04/21/vote-counting-in-nigeria-heavily-favors-olusegun-obasanjo-opposition-makes-accusations-of-electoral-fraud.xml)  
+
 ### [2003-04-21](/news/2003/04/21/index.md)
 
+##### Nigeria
 #  Vote counting in Nigeria heavily favors Olusegun Obasanjo; opposition makes accusations of electoral fraud.
 
 

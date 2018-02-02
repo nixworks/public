@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/9/microsoft-corporation-releases-the-beta-version-of-its-windows-7-operating-system.html)  [JSON](/news/2009/01/9/microsoft-corporation-releases-the-beta-version-of-its-windows-7-operating-system.json)  [XML](/news/2009/01/9/microsoft-corporation-releases-the-beta-version-of-its-windows-7-operating-system.xml)  
+
 ### [2009-01-9](/news/2009/01/9/index.md)
 
+##### Microsoft
 #  Microsoft Corporation releases the beta version of its Windows 7 operating system. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BusinessWeek](http://www.businessweek.com/the_thread/techbeat/archives/2009/01/ces-windows_7_g.html)
 

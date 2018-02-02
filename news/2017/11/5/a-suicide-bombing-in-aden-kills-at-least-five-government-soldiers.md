@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/5/a-suicide-bombing-in-aden-kills-at-least-five-go
 
 ### [2017-11-5](/news/2017/11/5/index.md)
 
+##### Yemeni Civil War
 # A suicide bombing in Aden kills at least five government soldiers. 
 
 The Yemen government has been based in Aden and Saudi Arabia since Houthi rebels seized control of Sanaa in 2014. 

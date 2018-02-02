@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/reykjavak-s-mayor-ja3n-gnarr-of-the-best-party-dresses-in-drag-for-the-opening-of-the-city-s-gay-pride-festival.html)  [JSON](/news/2010/08/6/reykjavak-s-mayor-ja3n-gnarr-of-the-best-party-dresses-in-drag-for-the-opening-of-the-city-s-gay-pride-festival.json)  [XML](/news/2010/08/6/reykjavak-s-mayor-ja3n-gnarr-of-the-best-party-dresses-in-drag-for-the-opening-of-the-city-s-gay-pride-festival.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Reykjavik
 # Reykjavik's mayor, Jon Gnarr of the Best Party, dresses in drag for the opening of the city's gay pride festival. 
 
 Reykjavik&#039;s comedian-turned-politician mayor, Jon Gnarr, opened the Icelandic capital&#039;s gay pride festival this week in drag, in a blond wig and with bright red lipstick.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10896818)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/iceland/7931421/Reykjavik-mayor-attends-gay-pride-in-drag.html)

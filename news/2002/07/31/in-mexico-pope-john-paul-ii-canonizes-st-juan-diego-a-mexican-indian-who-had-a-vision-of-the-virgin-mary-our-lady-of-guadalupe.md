@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/31/in-mexico-pope-john-paul-ii-canonizes-st-juan-diego-a-mexican-indian-who-had-a-vision-of-the-virgin-mary-our-lady-of-guadalupe.html)  [JSON](/news/2002/07/31/in-mexico-pope-john-paul-ii-canonizes-st-juan-diego-a-mexican-indian-who-had-a-vision-of-the-virgin-mary-our-lady-of-guadalupe.json)  [XML](/news/2002/07/31/in-mexico-pope-john-paul-ii-canonizes-st-juan-diego-a-mexican-indian-who-had-a-vision-of-the-virgin-mary-our-lady-of-guadalupe.xml)  
+
 ### [2002-07-31](/news/2002/07/31/index.md)
 
+##### Pope John Paul II
 # In Mexico Pope John Paul II canonizes St. Juan Diego, a Mexican Indian who had a vision of the Virgin Mary, Our Lady of Guadalupe.
 
 

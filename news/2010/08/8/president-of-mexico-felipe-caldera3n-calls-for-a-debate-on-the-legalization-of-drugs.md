@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/8/president-of-mexico-felipe-caldera3n-calls-for-a-debate-on-the-legalization-of-drugs.html)  [JSON](/news/2010/08/8/president-of-mexico-felipe-caldera3n-calls-for-a-debate-on-the-legalization-of-drugs.json)  [XML](/news/2010/08/8/president-of-mexico-felipe-caldera3n-calls-for-a-debate-on-the-legalization-of-drugs.xml)  
+
 ### [2010-08-8](/news/2010/08/8/index.md)
 
+##### President
 # President of Mexico Felipe Calderon calls for a debate on the legalization of drugs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Observer](http://www.guardian.co.uk/world/2010/aug/08/drugs-legalise-mexico-california)
 

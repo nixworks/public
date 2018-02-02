@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/19/three-people-are-shot-by-a-gunman-at-an-islamic
 
 ### [2016-12-19](/news/2016/12/19/index.md)
 
+##### 2016 Zurich attack
 # Three people are shot by a gunman at an Islamic centre near the Zurich Hauptbahnhof train station. A manhunt was conducted for the assailant, a 24-year-old Swiss citizen of Ghanian descent, whose body was found close to the Islamic centre. 
 
  A man stormed into a Zurich mosque on Monday evening and opened fire on people praying, injuring three, Swiss police said.

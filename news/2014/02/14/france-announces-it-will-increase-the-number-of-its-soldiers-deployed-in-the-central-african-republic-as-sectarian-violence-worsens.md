@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/14/france-announces-it-will-increase-the-number-of-its-soldiers-deployed-in-the-central-african-republic-as-sectarian-violence-worsens.html)  [JSON](/news/2014/02/14/france-announces-it-will-increase-the-number-of-its-soldiers-deployed-in-the-central-african-republic-as-sectarian-violence-worsens.json)  [XML](/news/2014/02/14/france-announces-it-will-increase-the-number-of-its-soldiers-deployed-in-the-central-african-republic-as-sectarian-violence-worsens.xml)  
+
 ### [2014-02-14](/news/2014/02/14/index.md)
 
+##### France
 # France announces it will increase the number of its soldiers deployed in the Central African Republic as sectarian violence worsens. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Miami Herald](http://www.miamiherald.com/2014/02/14/3935178/france-increasing-troops-in-c.html#storylink=cpy)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/8/reports-indicate-that-palestinian-leader-yasser-arafat-had-high-levels-of-polonium-in-his-body-when-he-died.html)  [JSON](/news/2013/11/8/reports-indicate-that-palestinian-leader-yasser-arafat-had-high-levels-of-polonium-in-his-body-when-he-died.json)  [XML](/news/2013/11/8/reports-indicate-that-palestinian-leader-yasser-arafat-had-high-levels-of-polonium-in-his-body-when-he-died.xml)  
+
 ### [2013-11-8](/news/2013/11/8/index.md)
 
+##### Palestinian
 # Reports indicate that Palestinian leader Yasser Arafat had high levels of polonium in his body when he died. 
 
 Palestinian officials say Israel is the only suspect in the 2004 death of Yasser Arafat, after a report said his remains had high levels of polonium.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24863138#TWEET949579)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70986000/jpg/_70986764_019889282.jpg)

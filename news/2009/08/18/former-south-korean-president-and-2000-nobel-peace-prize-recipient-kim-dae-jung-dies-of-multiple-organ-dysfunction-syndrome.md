@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/08/18/former-south-korean-president-and-2000-nobel-peace-prize-recipient-kim-dae-jung-dies-of-multiple-organ-dysfunction-syndrome.html)  [JSON](/news/2009/08/18/former-south-korean-president-and-2000-nobel-peace-prize-recipient-kim-dae-jung-dies-of-multiple-organ-dysfunction-syndrome.json)  [XML](/news/2009/08/18/former-south-korean-president-and-2000-nobel-peace-prize-recipient-kim-dae-jung-dies-of-multiple-organ-dysfunction-syndrome.xml)  
+
 ### [2009-08-18](/news/2009/08/18/index.md)
 
+##### Kim Dae-jung
 #  Former South Korean President and 2000 Nobel Peace Prize recipient Kim Dae-jung dies of multiple organ dysfunction syndrome. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE57H0LO20090818)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090818&t=2&i=11274833&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-18T155014Z_01_BTRE57H0WDQ00_RTROPTP_0_KOREA-PRESIDENT-KIM)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE57H0LO20090818)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20090818&t=2&i=11274833&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-08-18T155014Z_01_BTRE57H0WDQ00_RTROPTP_0_KOREA-PRESIDENT-KIM)
 
 ### Related:
 

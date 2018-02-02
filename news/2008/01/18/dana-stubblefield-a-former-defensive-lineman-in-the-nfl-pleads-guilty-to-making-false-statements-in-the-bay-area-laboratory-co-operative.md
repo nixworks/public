@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/01/18/dana-stubblefield-a-former-defensive-lineman-in-the-nfl-pleads-guilty-to-making-false-statements-in-the-bay-area-laboratory-co-operative.html)  [JSON](/news/2008/01/18/dana-stubblefield-a-former-defensive-lineman-in-the-nfl-pleads-guilty-to-making-false-statements-in-the-bay-area-laboratory-co-operative.json)  [XML](/news/2008/01/18/dana-stubblefield-a-former-defensive-lineman-in-the-nfl-pleads-guilty-to-making-false-statements-in-the-bay-area-laboratory-co-operative.xml)  
+
 ### [2008-01-18](/news/2008/01/18/index.md)
 
+##### Dana Stubblefield
 #  Dana Stubblefield, a former defensive lineman in the NFL, pleads guilty to making false statements in the Bay Area Laboratory Co-operative investigation. 
 
 Dana Stubblefield was the first N.F.L. player charged in the Bay Area Laboratory Co-Operative investigation.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/01/19/sports/football/19balco.html)
+1. [The New York Times](https://www.nytimes.com/2008/01/19/sports/football/19balco.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/01/18/sports/football/stubblefield.75.jpg)
 
 ### Related:

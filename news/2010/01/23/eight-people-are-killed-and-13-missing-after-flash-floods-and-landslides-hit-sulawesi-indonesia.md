@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/23/eight-people-are-killed-and-13-missing-after-flash-floods-and-landslides-hit-sulawesi-indonesia.html)  [JSON](/news/2010/01/23/eight-people-are-killed-and-13-missing-after-flash-floods-and-landslides-hit-sulawesi-indonesia.json)  [XML](/news/2010/01/23/eight-people-are-killed-and-13-missing-after-flash-floods-and-landslides-hit-sulawesi-indonesia.xml)  
+
 ### [2010-01-23](/news/2010/01/23/index.md)
 
+##### landslide
 # Eight people are killed and 13 missing after flash floods and landslides hit Sulawesi, Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1263147958761&pagename=JPost%2FJPArticle%2FShowFull)
 2. [News Australia](http://www.news.com.au/breaking-news/eight-killed-13-missing-in-flash-floods/story-e6frfku0-1225822740279)

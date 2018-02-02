@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/24/38-siberian-miners-are-killed-and-7-injured-by-a-methane-explosion-in-the-yubileinaya-coal-mine-in-the-kemerovo-oblast-in-russia.html)  [JSON](/news/2007/05/24/38-siberian-miners-are-killed-and-7-injured-by-a-methane-explosion-in-the-yubileinaya-coal-mine-in-the-kemerovo-oblast-in-russia.json)  [XML](/news/2007/05/24/38-siberian-miners-are-killed-and-7-injured-by-a-methane-explosion-in-the-yubileinaya-coal-mine-in-the-kemerovo-oblast-in-russia.xml)  
+
 ### [2007-05-24](/news/2007/05/24/index.md)
 
+##### Siberia
 #  38 Siberian miners are killed and 7 injured by a methane explosion in the Yubileinaya coal mine in the Kemerovo Oblast in Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2007-05/24/content_6145848.htm)
 

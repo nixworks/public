@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/4/republican-party-senator-larry-craig-from-idaho-vows-to-serve-out-his-term-in-the-united-states-senate-despite-losing-a-court-bid-to-rescin.html)  [JSON](/news/2007/10/4/republican-party-senator-larry-craig-from-idaho-vows-to-serve-out-his-term-in-the-united-states-senate-despite-losing-a-court-bid-to-rescin.json)  [XML](/news/2007/10/4/republican-party-senator-larry-craig-from-idaho-vows-to-serve-out-his-term-in-the-united-states-senate-despite-losing-a-court-bid-to-rescin.xml)  
+
 ### [2007-10-4](/news/2007/10/4/index.md)
 
+##### Republican
 #  Republican Party Senator Larry Craig from Idaho vows to serve out his term in the United States Senate despite losing a court bid to rescind a guilty plea for an indecent act in a Minneapolis Airport men's room. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6972335,00.html)
 

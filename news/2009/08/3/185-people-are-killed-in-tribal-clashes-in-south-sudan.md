@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/3/185-people-are-killed-in-tribal-clashes-in-south-sudan.html)  [JSON](/news/2009/08/3/185-people-are-killed-in-tribal-clashes-in-south-sudan.json)  [XML](/news/2009/08/3/185-people-are-killed-in-tribal-clashes-in-south-sudan.xml)  
+
 ### [2009-08-3](/news/2009/08/3/index.md)
 
+##### South Sudan
 #  185 people are killed in tribal clashes in South Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AHN](http://www.allheadlinenews.com/articles/7015986538?At%20Least%20185%20Killed%20In%20Ethnic%20Violence%20In%20Southern%20Sudan)
 2. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gGdGLddBuZ3s4AYDgaSjXBy4g-PQD99RJQ383)

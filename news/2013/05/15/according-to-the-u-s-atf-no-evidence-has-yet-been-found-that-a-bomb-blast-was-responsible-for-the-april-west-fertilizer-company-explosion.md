@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/15/according-to-the-u-s-atf-no-evidence-has-yet-been-found-that-a-bomb-blast-was-responsible-for-the-april-west-fertilizer-company-explosion.html)  [JSON](/news/2013/05/15/according-to-the-u-s-atf-no-evidence-has-yet-been-found-that-a-bomb-blast-was-responsible-for-the-april-west-fertilizer-company-explosion.json)  [XML](/news/2013/05/15/according-to-the-u-s-atf-no-evidence-has-yet-been-found-that-a-bomb-blast-was-responsible-for-the-april-west-fertilizer-company-explosion.xml)  
+
 ### [2013-05-15](/news/2013/05/15/index.md)
 
+##### U.S.
 # According to the U.S. ATF, no evidence has yet been found that a bomb blast was responsible for the April West Fertilizer Company explosion that killed fifteen people in West, Texas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2013/05/15/18281213-no-evidence-bomb-caused-texas-fertilizer-blast?lite=)
 

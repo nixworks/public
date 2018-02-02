@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/29/in-the-united-states-the-tennessee-state-senate
 
 ### [2016-03-29](/news/2016/03/29/index.md)
 
+##### Tennessee state Senate
 # In the United States, the Tennessee state Senate will vote on a bill, which narrowly passed the House last year, to declare the Holy Bible the official book of Tennessee. Governor Bill Haslam (R) was among those who opposed the bill in 2015. 
 
 

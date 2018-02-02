@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/25/austrian-presidential-election-heinz-fischer-spo-wins-with-52-against-foreign-minister-benita-ferrero-waldner-ovp.html)  [JSON](/news/2004/04/25/austrian-presidential-election-heinz-fischer-spo-wins-with-52-against-foreign-minister-benita-ferrero-waldner-ovp.json)  [XML](/news/2004/04/25/austrian-presidential-election-heinz-fischer-spo-wins-with-52-against-foreign-minister-benita-ferrero-waldner-ovp.xml)  
+
 ### [2004-04-25](/news/2004/04/25/index.md)
 
+##### Austrian presidential election
 #  Austrian presidential election: Heinz Fischer (SP) wins with 52% against Foreign Minister Benita Ferrero-Waldner (VP). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4019308,00.html)
 

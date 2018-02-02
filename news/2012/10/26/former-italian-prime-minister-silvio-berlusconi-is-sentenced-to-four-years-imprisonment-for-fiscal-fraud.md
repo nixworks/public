@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/26/former-italian-prime-minister-silvio-berlusconi-is-sentenced-to-four-years-imprisonment-for-fiscal-fraud.html)  [JSON](/news/2012/10/26/former-italian-prime-minister-silvio-berlusconi-is-sentenced-to-four-years-imprisonment-for-fiscal-fraud.json)  [XML](/news/2012/10/26/former-italian-prime-minister-silvio-berlusconi-is-sentenced-to-four-years-imprisonment-for-fiscal-fraud.xml)  
+
 ### [2012-10-26](/news/2012/10/26/index.md)
 
+##### Italy
 # Former Italian Prime Minister Silvio Berlusconi is sentenced to four years imprisonment for fiscal fraud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AGI](http://www.agi.it/flash-news/201210261702-pol-ren1058-berlusconi_sentenced_to_4_years_for_fiscal_fraud)
 

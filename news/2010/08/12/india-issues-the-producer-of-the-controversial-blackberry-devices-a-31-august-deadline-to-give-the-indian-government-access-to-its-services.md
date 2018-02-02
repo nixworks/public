@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/india-issues-the-producer-of-the-controversial-blackberry-devices-a-31-august-deadline-to-give-the-indian-government-access-to-its-services.html)  [JSON](/news/2010/08/12/india-issues-the-producer-of-the-controversial-blackberry-devices-a-31-august-deadline-to-give-the-indian-government-access-to-its-services.json)  [XML](/news/2010/08/12/india-issues-the-producer-of-the-controversial-blackberry-devices-a-31-august-deadline-to-give-the-indian-government-access-to-its-services.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### India
 # India issues the producer of the controversial Blackberry devices a 31 August deadline to give the Indian government access to its services or be shut down over concerns the devices could be used to commit a repeat of the 2008 Mumbai attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/business/2010/08/2010812143513776296.html)
 2. [BBC](http://www.bbc.co.uk/news/technology-10951607)

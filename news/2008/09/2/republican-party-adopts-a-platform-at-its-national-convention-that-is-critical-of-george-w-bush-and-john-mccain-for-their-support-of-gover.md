@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/09/2/republican-party-adopts-a-platform-at-its-national-convention-that-is-critical-of-george-w-bush-and-john-mccain-for-their-support-of-gover.html)  [JSON](/news/2008/09/2/republican-party-adopts-a-platform-at-its-national-convention-that-is-critical-of-george-w-bush-and-john-mccain-for-their-support-of-gover.json)  [XML](/news/2008/09/2/republican-party-adopts-a-platform-at-its-national-convention-that-is-critical-of-george-w-bush-and-john-mccain-for-their-support-of-gover.xml)  
+
 ### [2008-09-2](/news/2008/09/2/index.md)
 
+##### Republican
 #  Republican Party adopts a platform at its national convention that is critical of George W. Bush and John McCain for their support of government bailouts of companies. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aMdtdOg3_lBY&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=aMdtdOg3_lBY&refer=home)
 
 ### Related:
 

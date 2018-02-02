@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/20/georgia-s-ministry-of-foreign-affairs-expresses
 
 ### [2016-05-20](/news/2016/05/20/index.md)
 
+##### Abkhaz-Georgian conflict
 # Georgia's Ministry of Foreign Affairs expresses "shock and deep concern" after a Georgian citizen, 31-year-old Giga Otkhozoria, was shot dead by Russian Armed Forces troops patrolling areas near the administrative boundary with Abkhazia. 
 
 

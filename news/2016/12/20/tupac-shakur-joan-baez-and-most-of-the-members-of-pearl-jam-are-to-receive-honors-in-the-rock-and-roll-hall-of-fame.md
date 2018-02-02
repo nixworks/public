@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/20/tupac-shakur-joan-baez-and-most-of-the-members-
 
 ### [2016-12-20](/news/2016/12/20/index.md)
 
+##### Tupac Shakur
 # Tupac Shakur, Joan Baez, and most of the members of Pearl Jam are to receive honors in the Rock and Roll Hall of Fame. 
 
 The Class of 2017 also includes Journey, Electric Light Orchestra and Yes, and a special honor goes to Chic’s Nile Rodgers.

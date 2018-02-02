@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/2/a-four-story-residential-building-under-construction-collapsed-saturday-morning-in-chang-an-district-of-xi-an-city-northwest-china-s-shaanx.html)  [JSON](/news/2010/10/2/a-four-story-residential-building-under-construction-collapsed-saturday-morning-in-chang-an-district-of-xi-an-city-northwest-china-s-shaanx.json)  [XML](/news/2010/10/2/a-four-story-residential-building-under-construction-collapsed-saturday-morning-in-chang-an-district-of-xi-an-city-northwest-china-s-shaanx.xml)  
+
 ### [2010-10-2](/news/2010/10/2/index.md)
 
+##### Chang'an
 # A four-story residential building under construction collapsed Saturday morning in Chang'an District of Xi'an City, northwest China's Shaanxi Province, killing eight workers and injuring three. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2010-10/03/content_11374853.htm)
 

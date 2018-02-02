@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/6/indonesia-s-national-human-rights-commission-submits-a-report-to-president-susilo-bambang-yudhoyono-on-its-investigations-into-reports-of-to.html)  [JSON](/news/2011/01/6/indonesia-s-national-human-rights-commission-submits-a-report-to-president-susilo-bambang-yudhoyono-on-its-investigations-into-reports-of-to.json)  [XML](/news/2011/01/6/indonesia-s-national-human-rights-commission-submits-a-report-to-president-susilo-bambang-yudhoyono-on-its-investigations-into-reports-of-to.xml)  
+
 ### [2011-01-6](/news/2011/01/6/index.md)
 
+##### human rights
 # Indonesia's National Human Rights Commission submits a report to President Susilo Bambang Yudhoyono on its investigations into reports of torture of Papuans by soldiers, and urges him to take action against human rights violations by security forces in the eastern Papua region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j3kPBfCEWbZaxtQP7iFi_VGYWRwQ?docId=CNG.de7188d6046cd1bfcd0dfd9fb5062a9e.771)
 

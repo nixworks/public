@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/14/the-islamic-courts-union-captures-the-somali-town-jowhar-from-the-secular-warlords-of-the-alliance-for-the-restoration-of-peace-and-counter.html)  [JSON](/news/2006/06/14/the-islamic-courts-union-captures-the-somali-town-jowhar-from-the-secular-warlords-of-the-alliance-for-the-restoration-of-peace-and-counter.json)  [XML](/news/2006/06/14/the-islamic-courts-union-captures-the-somali-town-jowhar-from-the-secular-warlords-of-the-alliance-for-the-restoration-of-peace-and-counter.xml)  
+
 ### [2006-06-14](/news/2006/06/14/index.md)
 
+##### Islamic Courts Union
 #  The Islamic Courts Union captures the Somali town Jowhar from the secular warlords of the Alliance for the Restoration of Peace and Counter-Terrorism, one week after taking over Mogadishu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/5078534.stm)
 

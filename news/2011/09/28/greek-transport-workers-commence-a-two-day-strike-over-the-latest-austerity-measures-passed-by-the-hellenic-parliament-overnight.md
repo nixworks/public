@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/28/greek-transport-workers-commence-a-two-day-strike-over-the-latest-austerity-measures-passed-by-the-hellenic-parliament-overnight.html)  [JSON](/news/2011/09/28/greek-transport-workers-commence-a-two-day-strike-over-the-latest-austerity-measures-passed-by-the-hellenic-parliament-overnight.json)  [XML](/news/2011/09/28/greek-transport-workers-commence-a-two-day-strike-over-the-latest-austerity-measures-passed-by-the-hellenic-parliament-overnight.xml)  
+
 ### [2011-09-28](/news/2011/09/28/index.md)
 
+##### Greek
 # Greek transport workers commence a two-day strike over the latest austerity measures passed by the Hellenic Parliament overnight. 
 
 Transport workers across Greece have begun a two-day strike in response to the latest round of austerity measures.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2011-09-28/greeks-protest-new-debt-measure/3025858)
 1. [Cover Image](http://www.abc.net.au/news/image/3025900-1x1-700x700.jpg)

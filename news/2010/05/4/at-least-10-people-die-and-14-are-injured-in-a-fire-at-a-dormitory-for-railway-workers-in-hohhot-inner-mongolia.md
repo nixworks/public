@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/4/at-least-10-people-die-and-14-are-injured-in-a-fire-at-a-dormitory-for-railway-workers-in-hohhot-inner-mongolia.html)  [JSON](/news/2010/05/4/at-least-10-people-die-and-14-are-injured-in-a-fire-at-a-dormitory-for-railway-workers-in-hohhot-inner-mongolia.json)  [XML](/news/2010/05/4/at-least-10-people-die-and-14-are-injured-in-a-fire-at-a-dormitory-for-railway-workers-in-hohhot-inner-mongolia.xml)  
+
 ### [2010-05-4](/news/2010/05/4/index.md)
 
+##### Hohhot
 # At least 10 people die and 14 are injured in a fire at a dormitory for railway workers in Hohhot, Inner Mongolia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/ten-dead-in-china-workers-dorm-fire-20100504-u53e.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

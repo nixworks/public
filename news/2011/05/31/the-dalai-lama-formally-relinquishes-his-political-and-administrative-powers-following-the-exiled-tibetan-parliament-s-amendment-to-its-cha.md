@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/31/the-dalai-lama-formally-relinquishes-his-political-and-administrative-powers-following-the-exiled-tibetan-parliament-s-amendment-to-its-cha.html)  [JSON](/news/2011/05/31/the-dalai-lama-formally-relinquishes-his-political-and-administrative-powers-following-the-exiled-tibetan-parliament-s-amendment-to-its-cha.json)  [XML](/news/2011/05/31/the-dalai-lama-formally-relinquishes-his-political-and-administrative-powers-following-the-exiled-tibetan-parliament-s-amendment-to-its-cha.xml)  
+
 ### [2011-05-31](/news/2011/05/31/index.md)
 
+##### Dalai Lama
 # The Dalai Lama formally relinquishes his political and administrative powers, following the exiled Tibetan parliament's amendment to its charter to relieve him of his political role; the Dalai Lama remains Tibetan Buddhists' spiritual figurehead. 
 
 The Dalai Lama has formally relinquished his political and administrative powers, a spokesman said Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/31/india.dalai.lama/index.html)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/05/31/india.dalai.lama/tzvids.dalai.lama.gi.jpg)

@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2014/12/20/israel-launches-an-airstrike-against-an-alleged-hamas-base-near-khan-yunis-in-retaliation-for-a-rocket-attack.html)  [JSON](/news/2014/12/20/israel-launches-an-airstrike-against-an-alleged-hamas-base-near-khan-yunis-in-retaliation-for-a-rocket-attack.json)  [XML](/news/2014/12/20/israel-launches-an-airstrike-against-an-alleged-hamas-base-near-khan-yunis-in-retaliation-for-a-rocket-attack.xml)  
+
 ### [2014-12-20](/news/2014/12/20/index.md)
 
+##### Israeli-Palestinian conflict
 # Israel launches an airstrike against an alleged Hamas base near Khan Yunis in retaliation for a rocket attack. 
 
 Tensions expected to rise in Israeli-Palestinian conflict as Israel carries out an airstrike on Khan Younis - apparently in response to a rocket fired from the Gaza Strip.
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/2014/12/20/israel-launches-airstrike-on-gaza-in-apparent-retaliation-for-rocket-attack/)
 2. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Gaza-rocket-lands-in-open-area-in-southern-Israel-no-injuries-385190)
 2. [Cover Image](http://static.euronews.com/articles/293026/1000x563_293026.jpg)
+
+### Changes:
+
+1. [Israeli-Palestinian conflict: Israel launches an airstrike against an alleged Hamas base near Khan Yunis in retaliation for a rocket attack. ](/news/2014/12/20/israeli-palestinian-conflict-israel-launches-an-airstrike-against-an-alleged-hamas-base-near-khan-yunis-in-retaliation-for-a-rocket-attac.md) _2017-08-27 03:41:40 (First version)_
+1. [Israel launches an airstrike against an alleged Hamas base near Khan Yunis in retaliation for a rocket attack. ](/news/2014/12/20/israel-launches-an-airstrike-against-an-alleged-hamas-base-near-khan-yunis-in-retaliation-for-a-rocket-attack.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Tensions expected to rise in Israeli-Palestinian conflict as Israel carries out 
 3. [Israeli airstrikes targeting Hamas weapons facilities in the Gaza Strip result in an explosion that collapsed a nearby house, killing a 30-year old pregnant Palestinian woman and her two-year old daughter. Four others were wounded, including the woman's husband and son, the Gaza Health Ministry said. The Israeli military said the airstrike was in response to Saturday's pair of rocket launches from Gaza at Israel, as well as two large riots that succeeded in breaching the border fence. ](/news/2015/10/11/israeli-airstrikes-targeting-hamas-weapons-facilities-in-the-gaza-strip-result-in-an-explosion-that-collapsed-a-nearby-house-killing-a-30-y.md) _Context: Hamas, Israel, Israeli-Palestinian conflict_
 4. [The bodies of three kidnapped Israeli teenagers, including one with dual American citizenship, are found partially buried near Hebron on the West Bank. Shin Bet determined they were murdered shortly after being kidnapped, and is searching for two Hamas kidnappers and accomplices.](/news/2014/06/30/the-bodies-of-three-kidnapped-israeli-teenagers-including-one-with-dual-american-citizenship-are-found-partially-buried-near-hebron-on-the.md) _Context: Hamas, Israel, Israeli-Palestinian conflict_
 5. [ Israeli-Palestinian conflict: Israeli Airstrikes on Palestinian targets continue, with the Israel Defense Forces firing missiles in Gaza, knocking out the power supply to the East of the city, the Khan Yunis refugee camp and Rafah. Hamas had earlier declared an end to rocket attacks following pressure from the Palestinian National Authority and Egypt. ](/news/2005/09/26/israeli-palestinian-conflict-israeli-airstrikes-on-palestinian-targets-continue-with-the-israel-defense-forces-firing-missiles-in-gaza-k.md) _Context: Hamas, Israel, Khan Yunis_
-
-### Changes:
-
-1. [Israeli-Palestinian conflict: Israel launches an airstrike against an alleged Hamas base near Khan Yunis in retaliation for a rocket attack. ](/news/2014/12/20/israeli-palestinian-conflict-israel-launches-an-airstrike-against-an-alleged-hamas-base-near-khan-yunis-in-retaliation-for-a-rocket-attac.md) _2017-08-27 03:41:40 (First version)_
-1. [Israel launches an airstrike against an alleged Hamas base near Khan Yunis in retaliation for a rocket attack. ](/news/2014/12/20/israel-launches-an-airstrike-against-an-alleged-hamas-base-near-khan-yunis-in-retaliation-for-a-rocket-attack.md) _(Current version)_

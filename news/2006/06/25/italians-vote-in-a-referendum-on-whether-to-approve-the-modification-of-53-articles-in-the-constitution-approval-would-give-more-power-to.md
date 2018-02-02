@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/25/italians-vote-in-a-referendum-on-whether-to-approve-the-modification-of-53-articles-in-the-constitution-approval-would-give-more-power-to.html)  [JSON](/news/2006/06/25/italians-vote-in-a-referendum-on-whether-to-approve-the-modification-of-53-articles-in-the-constitution-approval-would-give-more-power-to.json)  [XML](/news/2006/06/25/italians-vote-in-a-referendum-on-whether-to-approve-the-modification-of-53-articles-in-the-constitution-approval-would-give-more-power-to.xml)  
+
 ### [2006-06-25](/news/2006/06/25/index.md)
 
+##### referendum
 #  Italians vote in a referendum on whether to approve the modification of 53 articles in the constitution. Approval would give more power to the prime minister and to the regions, making Italy a federal state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Scotsman](http://news.scotsman.com/latest.cfm?id=928922006)
 

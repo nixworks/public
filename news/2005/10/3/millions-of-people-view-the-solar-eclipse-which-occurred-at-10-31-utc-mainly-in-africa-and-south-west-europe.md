@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/3/millions-of-people-view-the-solar-eclipse-which-occurred-at-10-31-utc-mainly-in-africa-and-south-west-europe.html)  [JSON](/news/2005/10/3/millions-of-people-view-the-solar-eclipse-which-occurred-at-10-31-utc-mainly-in-africa-and-south-west-europe.json)  [XML](/news/2005/10/3/millions-of-people-view-the-solar-eclipse-which-occurred-at-10-31-utc-mainly-in-africa-and-south-west-europe.xml)  
+
 ### [2005-10-3](/news/2005/10/3/index.md)
 
+##### solar eclipse
 #  Millions of people view the solar eclipse which occurred at 10:31 UTC, mainly in Africa and south-west Europe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/4299074.stm)
 

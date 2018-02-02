@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/11/the-singapore-grand-prix-has-been-confirmed-for-the-formula-one-2008-season-with-a-planned-4-8km-3-0-miles-long-street-circuit-around-th.html)  [JSON](/news/2007/05/11/the-singapore-grand-prix-has-been-confirmed-for-the-formula-one-2008-season-with-a-planned-4-8km-3-0-miles-long-street-circuit-around-th.json)  [XML](/news/2007/05/11/the-singapore-grand-prix-has-been-confirmed-for-the-formula-one-2008-season-with-a-planned-4-8km-3-0-miles-long-street-circuit-around-th.xml)  
+
 ### [2007-05-11](/news/2007/05/11/index.md)
 
+##### Grand Prix
 #  The Singapore Grand Prix has been confirmed for the Formula One 2008 season, with a planned 4.8km (3.0 miles) long street circuit around the downtown area. It is planned to be the event's first night race when safety and logistical concerns are addressed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNA](http://www.channelnewsasia.com/stories/singaporelocalnews/view/275566/1/.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/7/the-2004-formula-one-championship-gets-under-way-with-the-australian-grand-prix-in-melbourne-michael-schumacher-wins.html)  [JSON](/news/2004/03/7/the-2004-formula-one-championship-gets-under-way-with-the-australian-grand-prix-in-melbourne-michael-schumacher-wins.json)  [XML](/news/2004/03/7/the-2004-formula-one-championship-gets-under-way-with-the-australian-grand-prix-in-melbourne-michael-schumacher-wins.xml)  
+
 ### [2004-03-7](/news/2004/03/7/index.md)
 
+##### Formula One
 #  The 2004 Formula One championship gets under way with the Australian Grand Prix in Melbourne. Michael Schumacher wins. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/3539193.stm)
 

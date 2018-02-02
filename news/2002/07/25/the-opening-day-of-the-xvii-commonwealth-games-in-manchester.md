@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/25/the-opening-day-of-the-xvii-commonwealth-games-in-manchester.html)  [JSON](/news/2002/07/25/the-opening-day-of-the-xvii-commonwealth-games-in-manchester.json)  [XML](/news/2002/07/25/the-opening-day-of-the-xvii-commonwealth-games-in-manchester.xml)  
+
 ### [2002-07-25](/news/2002/07/25/index.md)
 
+##### XVII Commonwealth Games
 #  The opening day of the XVII Commonwealth Games in Manchester.
 
 

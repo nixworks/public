@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/25/a-court-in-thailand-issues-an-arrest-warrant-for-former-prime-minister-thaksin-shinawatra-on-charges-of-terrorism-following-a-report-by-the.html)  [JSON](/news/2010/05/25/a-court-in-thailand-issues-an-arrest-warrant-for-former-prime-minister-thaksin-shinawatra-on-charges-of-terrorism-following-a-report-by-the.json)  [XML](/news/2010/05/25/a-court-in-thailand-issues-an-arrest-warrant-for-former-prime-minister-thaksin-shinawatra-on-charges-of-terrorism-following-a-report-by-the.xml)  
+
 ### [2010-05-25](/news/2010/05/25/index.md)
 
+##### Thailand
 # A court in Thailand issues an arrest warrant for former Prime Minister Thaksin Shinawatra on charges of terrorism, following a report by the Thai Department of Special Investigations, which concluded that he had financed Red Shirt protesters and had helped them smuggle in weapons and fighters from Cambodia, during the 2010 political crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/05/201052565721987560.html)
 1. [Cover Image](http://www.aljazeera.com)

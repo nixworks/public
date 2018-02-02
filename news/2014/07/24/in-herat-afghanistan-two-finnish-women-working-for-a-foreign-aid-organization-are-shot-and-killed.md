@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/24/in-herat-afghanistan-two-finnish-women-working-for-a-foreign-aid-organization-are-shot-and-killed.html)  [JSON](/news/2014/07/24/in-herat-afghanistan-two-finnish-women-working-for-a-foreign-aid-organization-are-shot-and-killed.json)  [XML](/news/2014/07/24/in-herat-afghanistan-two-finnish-women-working-for-a-foreign-aid-organization-are-shot-and-killed.xml)  
+
 ### [2014-07-24](/news/2014/07/24/index.md)
 
+##### Herat
 # In Herat, Afghanistan, two Finnish women working for a foreign aid organization are shot and killed. 
 
 Gunmen in Afghanistan shoot dead two Finnish women working with an international Christian charity in the western city of Herat.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.com/news/world-asia-28453183)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76474000/jpg/_76474911_76474910.jpg)

@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2010/01/15/russia-ratifies-key-european-court-of-human-rights-reform-russia-was-the-last-of-the-47-council-of-europe-member-states-to-ratify-protocol.html)  [JSON](/news/2010/01/15/russia-ratifies-key-european-court-of-human-rights-reform-russia-was-the-last-of-the-47-council-of-europe-member-states-to-ratify-protocol.json)  [XML](/news/2010/01/15/russia-ratifies-key-european-court-of-human-rights-reform-russia-was-the-last-of-the-47-council-of-europe-member-states-to-ratify-protocol.xml)  
+
 ### [2010-01-15](/news/2010/01/15/index.md)
 
+##### State Duma
 # Russia ratifies key European Court of Human Rights reform. Russia was the last of the 47 Council of Europe member-states to ratify Protocol 14. 
 
 Lower house of parliament ratifies key element of European convention on human rights.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/01/20101151432738981.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8460934.stm)
 3. [FT](http://www.ft.com/cms/s/0/97bf5980-01ec-11df-b8cb-00144feabdc0.html)
 4. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=14720809)
-5. [NY Times](http://www.nytimes.com/2010/01/16/world/europe/16russia.html)
+5. [NY Times](https://www.nytimes.com/2010/01/16/world/europe/16russia.html)
 6. [RFERL](http://www.rferl.org/content/Whats_Behind_Moscows_Decision_To_Finally_Back_Strasbourg_Reform/1930858.html)
 7. [RT](http://rt.com/Politics/2010-01-15/russia-ratifies-protocol-14.html)
 7. [Cover Image](http://www.aljazeera.com)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/12/nigerian-president-umaru-yar-adua-gives-his-first-interview-since-going-into-hospital-in-saudi-arabia-to-the-bbc-saying-he-hopes-to-return.html)  [JSON](/news/2010/01/12/nigerian-president-umaru-yar-adua-gives-his-first-interview-since-going-into-hospital-in-saudi-arabia-to-the-bbc-saying-he-hopes-to-return.json)  [XML](/news/2010/01/12/nigerian-president-umaru-yar-adua-gives-his-first-interview-since-going-into-hospital-in-saudi-arabia-to-the-bbc-saying-he-hopes-to-return.xml)  
+
 ### [2010-01-12](/news/2010/01/12/index.md)
 
+##### Nigeria
 # Nigerian President Umaru Yar'Adua gives his first interview since going into hospital in Saudi Arabia to the BBC, saying he hopes to return home soon as protests in the capital Abuja demand an end to the political situation. 
 
 50 days, after leaving Nigeria for medical treatment in Saudi Arabia with rumoured death in a section of the media, President Umar Musa Yarâ€™Adua has spoken at last!
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8453321.stm)
 2. [Vanguard](http://www.vanguardngr.com/2010/01/12/yar%E2%80%99adua-speaks-at-last/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/16/american-company-goldman-sachs-pays-a-record-550-million-us-fine-to-settle-civil-fraud-charges.html)  [JSON](/news/2010/07/16/american-company-goldman-sachs-pays-a-record-550-million-us-fine-to-settle-civil-fraud-charges.json)  [XML](/news/2010/07/16/american-company-goldman-sachs-pays-a-record-550-million-us-fine-to-settle-civil-fraud-charges.xml)  
+
 ### [2010-07-16](/news/2010/07/16/index.md)
 
+##### Goldman Sachs
 # American company Goldman Sachs pays a record $550 million (US) fine to settle civil fraud charges. 
 
 US financial giant to settle fraud charges in half-a billion dollar agreement.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/business/2010/07/20107160244871882.html)
 1. [Cover Image](http://www.aljazeera.com)

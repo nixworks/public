@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/08/20/northwest-airlines-mechanics-went-on-strike.html)  [JSON](/news/2005/08/20/northwest-airlines-mechanics-went-on-strike.json)  [XML](/news/2005/08/20/northwest-airlines-mechanics-went-on-strike.xml)  
+
 ### [2005-08-20](/news/2005/08/20/index.md)
 
+##### Northwest Airlines
 #  Northwest Airlines mechanics went on strike.
 
 

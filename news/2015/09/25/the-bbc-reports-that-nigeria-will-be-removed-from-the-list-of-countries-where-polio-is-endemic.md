@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/25/the-bbc-reports-that-nigeria-will-be-removed-from-the-list-of-countries-where-polio-is-endemic.html)  [JSON](/news/2015/09/25/the-bbc-reports-that-nigeria-will-be-removed-from-the-list-of-countries-where-polio-is-endemic.json)  [XML](/news/2015/09/25/the-bbc-reports-that-nigeria-will-be-removed-from-the-list-of-countries-where-polio-is-endemic.xml)  
+
 ### [2015-09-25](/news/2015/09/25/index.md)
 
+##### BBC
 # The BBC reports that Nigeria will be removed from the list of countries where polio is endemic. 
 
 The World Health Organization removes Nigeria from the list of polio endemic countries, a &quot;milestone&quot; on the path to eradicating the paralysing viral infection.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/health-34328447)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/11858/production/_85686717_30polioimm2.jpg)
@@ -16,4 +20,4 @@ The World Health Organization removes Nigeria from the list of polio endemic cou
 2. [The World Health Organisation removes India from the list of polio endemic countries with only Pakistan, Afghanistan and Nigeria remaining. ](/news/2012/02/25/the-world-health-organisation-removes-india-from-the-list-of-polio-endemic-countries-with-only-pakistan-afghanistan-and-nigeria-remaining.md) _Context: Nigeria, polio_
 3. [ The BBC obtains a photograph showing Yusuf Mohamed, leader of the Boko Haram sect, was alive when captured by the Nigerian army. ](/news/2009/08/2/the-bbc-obtains-a-photograph-showing-yusuf-mohamed-leader-of-the-boko-haram-sect-was-alive-when-captured-by-the-nigerian-army.md) _Context: BBC, Nigeria_
 4. [ The World Health Organization reports that worldwide polio cases rose by more than one-third in 2004, from 784 in 2003 to 1,185 last year. The increase is attributed to a boycott on vaccines in Kano, Nigeria led by a group of hard-line Islamic clerics who claim that vaccines are part of an American conspiracy. ](/news/2005/01/14/the-world-health-organization-reports-that-worldwide-polio-cases-rose-by-more-than-one-third-in-2004-from-784-in-2003-to-1-185-last-year.md) _Context: Nigeria, polio_
-5. [ Polio spreads across Nigeria and ten other African nations after vaccinations are suspended in Kano province, on rumors that the vaccine was adulterated to cause infertility and AIDS. ](/news/2004/07/4/polio-spreads-across-nigeria-and-ten-other-african-nations-after-vaccinations-are-suspended-in-kano-province-on-rumors-that-the-vaccine-wa.md) _Context: Nigeria, polio_
+5. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: BBC_

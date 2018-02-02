@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/9/a-high-speed-rail-link-under-construction-gautrain-will-not-be-ready-for-the-2010-fifa-world-cup-in-south-africa.html)  [JSON](/news/2009/11/9/a-high-speed-rail-link-under-construction-gautrain-will-not-be-ready-for-the-2010-fifa-world-cup-in-south-africa.json)  [XML](/news/2009/11/9/a-high-speed-rail-link-under-construction-gautrain-will-not-be-ready-for-the-2010-fifa-world-cup-in-south-africa.xml)  
+
 ### [2009-11-9](/news/2009/11/9/index.md)
 
+##### Gautrain
 #  A high speed rail link under construction, Gautrain, will not be ready for the 2010 FIFA World Cup in South Africa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8351066.stm)
 2. [Times of South Africa](http://www.timeslive.co.za/news/article185966.ece)

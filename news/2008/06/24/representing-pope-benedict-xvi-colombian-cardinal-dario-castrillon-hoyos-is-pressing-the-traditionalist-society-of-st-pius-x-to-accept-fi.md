@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/24/representing-pope-benedict-xvi-colombian-cardinal-dario-castrillon-hoyos-is-pressing-the-traditionalist-society-of-st-pius-x-to-accept-fi.html)  [JSON](/news/2008/06/24/representing-pope-benedict-xvi-colombian-cardinal-dario-castrillon-hoyos-is-pressing-the-traditionalist-society-of-st-pius-x-to-accept-fi.json)  [XML](/news/2008/06/24/representing-pope-benedict-xvi-colombian-cardinal-dario-castrillon-hoyos-is-pressing-the-traditionalist-society-of-st-pius-x-to-accept-fi.xml)  
+
 ### [2008-06-24](/news/2008/06/24/index.md)
 
+##### Pope Benedict XVI
 #  Representing Pope Benedict XVI, Colombian Cardinal Daro Castrilln Hoyos is pressing the traditionalist Society of St. Pius X to accept five conditions, including respect for the pope and his authority, as part of a reconciliation offer. 
 
 A chief provider and curator of Catholic information on the web since 1996. Our editorial voice, always faithful to the teachings of the Church, assists and inspires Catholic clergy and laity.
 
 
-### Source:
+### Sources:
 
 1. [CNS](http://www.catholicnews.com/data/stories/cns/0803360.htm)
 2. [Catholic World News](http://www.cwnews.com/news/viewstory.cfm?recnum=59284)

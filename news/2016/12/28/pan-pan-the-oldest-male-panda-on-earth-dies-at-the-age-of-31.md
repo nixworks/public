@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/28/pan-pan-the-oldest-male-panda-on-earth-dies-at-
 
 ### [2016-12-28](/news/2016/12/28/index.md)
 
+##### Pan Pan
 # Pan Pan, the oldest male panda on Earth, dies at the age of 31. 
 
 

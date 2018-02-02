@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/25/an-eta-car-bomb-explodes-near-madrid-spain-after-a-warning-call.html)  [JSON](/news/2005/05/25/an-eta-car-bomb-explodes-near-madrid-spain-after-a-warning-call.json)  [XML](/news/2005/05/25/an-eta-car-bomb-explodes-near-madrid-spain-after-a-warning-call.xml)  
+
 ### [2005-05-25](/news/2005/05/25/index.md)
 
+##### ETA
 #  An ETA car bomb explodes near Madrid, Spain after a warning call. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [EITB24](http://www.eitb24.com/noticia_en.php?id=63080)
 2. [Scotsman](http://news.scotsman.com/latest.cfm?id=4600579)

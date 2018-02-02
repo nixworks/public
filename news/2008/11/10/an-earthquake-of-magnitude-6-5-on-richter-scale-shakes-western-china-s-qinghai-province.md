@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/10/an-earthquake-of-magnitude-6-5-on-richter-scale-shakes-western-china-s-qinghai-province.html)  [JSON](/news/2008/11/10/an-earthquake-of-magnitude-6-5-on-richter-scale-shakes-western-china-s-qinghai-province.json)  [XML](/news/2008/11/10/an-earthquake-of-magnitude-6-5-on-richter-scale-shakes-western-china-s-qinghai-province.xml)  
+
 ### [2008-11-10](/news/2008/11/10/index.md)
 
+##### Richter scale
 #  An earthquake of magnitude 6.5 on Richter scale shakes western China's Qinghai province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/11/09/china.earthquake/index.html?eref=edition_asia)
 

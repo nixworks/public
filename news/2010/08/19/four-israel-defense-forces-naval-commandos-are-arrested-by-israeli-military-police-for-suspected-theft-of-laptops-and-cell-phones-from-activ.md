@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2010/08/19/four-israel-defense-forces-naval-commandos-are-arrested-by-israeli-military-police-for-suspected-theft-of-laptops-and-cell-phones-from-activ.html)  [JSON](/news/2010/08/19/four-israel-defense-forces-naval-commandos-are-arrested-by-israeli-military-police-for-suspected-theft-of-laptops-and-cell-phones-from-activ.json)  [XML](/news/2010/08/19/four-israel-defense-forces-naval-commandos-are-arrested-by-israeli-military-police-for-suspected-theft-of-laptops-and-cell-phones-from-activ.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### Israel Defense Forces
 # Four Israel Defense Forces naval commandos are arrested by Israeli Military Police for suspected theft of laptops and cell phones from activists during May's Gaza flotilla raid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/idf-soldiers-suspected-of-theft-from-gaza-flotilla-aid-ship-1.308862)
 
 ### Related:
 
 1. [Kenneth O'Keefe, an Irish-American living in London who was captured and injured by Israel Defense Forces following last week's raid on a Gaza-bound aid flotilla, threatens legal action after being included on a list of alleged "active terror operatives". ](/news/2010/06/8/kenneth-o-keefe-an-irish-american-living-in-london-who-was-captured-and-injured-by-israel-defense-forces-following-last-week-s-raid-on-a-ga.md) _Context: Gaza flotilla raid, Israel Defense Forces_
-2. [Prime Minister of Israel Benjamin Netanyahu cancels a visit with the foreign minister of Germany Sigmar Gabriel after the latter's refusal to cancel a meeting with the Israel Defense Forces veterans NGO Breaking the Silence saying the group "slanders IDF soldiers as war criminals](/news/2017/04/25/prime-minister-of-israel-benjamin-netanyahu-cancels-a-visit-with-the-foreign-minister-of-germany-sigmar-gabriel-after-the-latter-s-refusal-t.md) _Context: Israel Defense Forces_
-3. [An Israeli Army tank kills a Palestinian teenager and wounds two others near the Gaza border. ](/news/2017/03/22/an-israeli-army-tank-kills-a-palestinian-teenager-and-wounds-two-others-near-the-gaza-border.md) _Context: Israel Defense Forces_
-4. [Citing security concerns because of recent terrorist activity, the American and British governments impose a ban affecting inbound-passengers flying from much of the Middle East and North Africa. The ban includes airplane cabin passenger-accessible items such as laptops, tablets, and other electronic devices which are larger than a smartphone. Larger such electronic devices will still be allowed on board in checked baggage which is thus more closely screened and passenger-inaccessible. ](/news/2017/03/21/citing-security-concerns-because-of-recent-terrorist-activity-the-american-and-british-governments-impose-a-ban-affecting-inbound-passenger.md) _Context: laptop_
-5. [The Syrian Army shoots down an Israel Defense Forces (IDF) Skylark drone over Syria's Quneitra Governorate. ](/news/2017/03/20/the-syrian-army-shoots-down-an-israel-defense-forces-idf-skylark-drone-over-syria-s-quneitra-governorate.md) _Context: Israel Defense Forces_
+2. [The Israel Defense Forces report the complete destruction of an underground tunnel dug by Hamas under the Kerem Shalom crossing. Israel shut down the crossing before its jets bombed the tunnel opening in Gaza Saturday night. The crossing remains closed. ](/news/2018/01/14/the-israel-defense-forces-report-the-complete-destruction-of-an-underground-tunnel-dug-by-hamas-under-the-kerem-shalom-crossing-israel-shut.md) _Context: Israel Defense Forces_
+3. [Two Palestinians are shot dead and about 60 others are wounded by Israeli troops gunfire as thousands protest along the Gaza border fence, in all seven West Bank cities and in East Jerusalem, against the U.S. declaration. ](/news/2017/12/22/two-palestinians-are-shot-dead-and-about-60-others-are-wounded-by-israeli-troops-gunfire-as-thousands-protest-along-the-gaza-border-fence-i.md) _Context: Israel Defense Forces_
+4. [16-year-old Palestinian Ahed Tamimi, daughter of Bassem al-Tamimi, is arrested on December 19 in a pre-dawn raid on her home in Nabi Salih by the Israeli army after being suspected of assaulting an Israeli soldier. Later in the day, her mother Nariman is allegedly arrested too when visiting her daughter at a police station. ](/news/2017/12/20/16-year-old-palestinian-ahed-tamimi-daughter-of-bassem-al-tamimi-is-arrested-on-december-19-in-a-pre-dawn-raid-on-her-home-in-nabi-salih-b.md) _Context: Israel Defense Forces_
+5. [Palestinians and the Israeli army scuffle in Jerusalem, Bethlehem and at the Qalandia border crossing over the status of Jerusalem. Clashes are also reported in Gaza, Ramallah, Hebron and Qalqilya. In conflicts where Israeli law enforcement used live ammunition and Palestinians threw rocks, two Palestinians died in Gaza while 150 were wounded and two more were killed in the West Bank while a further 10 were wounded. ](/news/2017/12/15/palestinians-and-the-israeli-army-scuffle-in-jerusalem-bethlehem-and-at-the-qalandia-border-crossing-over-the-status-of-jerusalem-clashes.md) _Context: Israel Defense Forces_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/14/delta-air-lines-reaches-an-agreement-with-northwest-airlines-to-take-over-northwest-and-create-the-world-s-biggest-airline.html)  [JSON](/news/2008/04/14/delta-air-lines-reaches-an-agreement-with-northwest-airlines-to-take-over-northwest-and-create-the-world-s-biggest-airline.json)  [XML](/news/2008/04/14/delta-air-lines-reaches-an-agreement-with-northwest-airlines-to-take-over-northwest-and-create-the-world-s-biggest-airline.xml)  
+
 ### [2008-04-14](/news/2008/04/14/index.md)
 
+##### Delta Air Lines
 #  Delta Air Lines reaches an agreement with Northwest Airlines to take over Northwest and create the world's biggest airline. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5hvT6NX4k_YVkVtwqeij5T_qaczpwD901V9L80)
 

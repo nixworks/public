@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/10/the-death-toll-from-floods-in-myanmar-tops-100-with-more-than-a-million-people-affected.html)  [JSON](/news/2015/08/10/the-death-toll-from-floods-in-myanmar-tops-100-with-more-than-a-million-people-affected.json)  [XML](/news/2015/08/10/the-death-toll-from-floods-in-myanmar-tops-100-with-more-than-a-million-people-affected.xml)  
+
 ### [2015-08-10](/news/2015/08/10/index.md)
 
+##### floods in Myanmar
 # The death toll from floods in Myanmar tops 100 with more than a million people affected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via Sky News Australia](http://www.skynews.com.au/news/world/asiapacific/2015/08/10/myanmar-flood-death-toll-tops-100.html)
 

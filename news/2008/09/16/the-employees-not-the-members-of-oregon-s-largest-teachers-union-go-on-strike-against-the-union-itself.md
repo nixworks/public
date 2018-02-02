@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/16/the-employees-not-the-members-of-oregon-s-largest-teachers-union-go-on-strike-against-the-union-itself.html)  [JSON](/news/2008/09/16/the-employees-not-the-members-of-oregon-s-largest-teachers-union-go-on-strike-against-the-union-itself.json)  [XML](/news/2008/09/16/the-employees-not-the-members-of-oregon-s-largest-teachers-union-go-on-strike-against-the-union-itself.xml)  
+
 ### [2008-09-16](/news/2008/09/16/index.md)
 
+##### Oregon
 #  The employees (not the members) of Oregon's largest teachers' union go on strike against the union itself. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [OPB News](http://news.opb.org/article/3060-teachers-union-staff-strike-against-teachers-union/)
 

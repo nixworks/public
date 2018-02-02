@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/19/the-new-government-of-karnataka-india-led-by-bharatiya-janata-party-member-b-s-yeddyurappa-falls-after-just-one-week-when-janata-dal-w.html)  [JSON](/news/2007/11/19/the-new-government-of-karnataka-india-led-by-bharatiya-janata-party-member-b-s-yeddyurappa-falls-after-just-one-week-when-janata-dal-w.json)  [XML](/news/2007/11/19/the-new-government-of-karnataka-india-led-by-bharatiya-janata-party-member-b-s-yeddyurappa-falls-after-just-one-week-when-janata-dal-w.xml)  
+
 ### [2007-11-19](/news/2007/11/19/index.md)
 
+##### government
 #  The new government of Karnataka, India, led by Bharatiya Janata Party member B. S. Yeddyurappa, falls after just one week when Janata Dal withdraws support. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7101721.stm)
 

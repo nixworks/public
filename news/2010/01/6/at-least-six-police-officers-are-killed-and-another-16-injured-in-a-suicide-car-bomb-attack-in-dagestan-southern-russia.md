@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/6/at-least-six-police-officers-are-killed-and-another-16-injured-in-a-suicide-car-bomb-attack-in-dagestan-southern-russia.html)  [JSON](/news/2010/01/6/at-least-six-police-officers-are-killed-and-another-16-injured-in-a-suicide-car-bomb-attack-in-dagestan-southern-russia.json)  [XML](/news/2010/01/6/at-least-six-police-officers-are-killed-and-another-16-injured-in-a-suicide-car-bomb-attack-in-dagestan-southern-russia.xml)  
+
 ### [2010-01-6](/news/2010/01/6/index.md)
 
+##### Dagestan
 # At least six police officers are killed and another 16 injured in a suicide car bomb attack in Dagestan, southern Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/01/20101682559232500.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8443221.stm)

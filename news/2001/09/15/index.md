@@ -1,7 +1,7 @@
-## [2001-09-15](/news/2001/09/15/index.md)
 
-### [ The Queen Isabella Causeway in Texas collapses after being hit by a tugboat, killing 8.](/news/2001/09/15/the-queen-isabella-causeway-in-texas-collapses-after-being-hit-by-a-tugboat-killing-8.md)
-_Context: Queen Isabella Causeway, Texas_
+Formats: [HTML](2001/09/15/index.html)  [JSON](2001/09/15/index.json)  [XML](2001/09/15/index.xml)  
+
+## [2001-09-15](/news/2001/09/15/index.md)
 
 ## [Previous Day...](/news/2001/09/14/index.md)
 

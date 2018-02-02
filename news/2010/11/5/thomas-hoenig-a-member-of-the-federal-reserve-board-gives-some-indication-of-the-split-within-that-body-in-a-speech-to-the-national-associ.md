@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2010/11/5/thomas-hoenig-a-member-of-the-federal-reserve-board-gives-some-indication-of-the-split-within-that-body-in-a-speech-to-the-national-associ.html)  [JSON](/news/2010/11/5/thomas-hoenig-a-member-of-the-federal-reserve-board-gives-some-indication-of-the-split-within-that-body-in-a-speech-to-the-national-associ.json)  [XML](/news/2010/11/5/thomas-hoenig-a-member-of-the-federal-reserve-board-gives-some-indication-of-the-split-within-that-body-in-a-speech-to-the-national-associ.xml)  
+
 ### [2010-11-5](/news/2010/11/5/index.md)
 
+##### Thomas Hoenig
 # Thomas Hoenig, a member of the Federal Reserve Board, gives some indication of the split within that body in a speech to the National Association of Realtors. Though the Fed announced a new round of quantitative easing on Wednesday, Hoenig said that the Fed risks inflation and another boom-bust. 
 
+Federal Reserve Bank of Kansas City President Thomas Hoenig said the central bank needs to increase interest rates to foster a more solid U.S. economy.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2010-11-05/hoenig-says-fed-must-raise-rates-to-create-a-stable-economy-.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2010-11-05/hoenig-says-fed-must-raise-rates-to-create-a-stable-economy-.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

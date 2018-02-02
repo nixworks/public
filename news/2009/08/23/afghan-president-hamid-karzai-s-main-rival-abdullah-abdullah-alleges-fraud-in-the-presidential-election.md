@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/23/afghan-president-hamid-karzai-s-main-rival-abdullah-abdullah-alleges-fraud-in-the-presidential-election.html)  [JSON](/news/2009/08/23/afghan-president-hamid-karzai-s-main-rival-abdullah-abdullah-alleges-fraud-in-the-presidential-election.json)  [XML](/news/2009/08/23/afghan-president-hamid-karzai-s-main-rival-abdullah-abdullah-alleges-fraud-in-the-presidential-election.xml)  
+
 ### [2009-08-23](/news/2009/08/23/index.md)
 
+##### Afghanistan
 #  Afghan President Hamid Karzai's main rival Abdullah Abdullah alleges fraud in the presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2009/aug/23/afghanistan-election-abdullah-karzai-fraud)
 2. [The Times of India](http://timesofindia.indiatimes.com/news/world/south-asia/Abdullah-accuses-Karzai-of-rigging-Afghan-vote/articleshow/4924509.cms)

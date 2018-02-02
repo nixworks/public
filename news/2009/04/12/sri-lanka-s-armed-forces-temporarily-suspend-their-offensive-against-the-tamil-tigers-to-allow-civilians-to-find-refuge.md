@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/12/sri-lanka-s-armed-forces-temporarily-suspend-their-offensive-against-the-tamil-tigers-to-allow-civilians-to-find-refuge.html)  [JSON](/news/2009/04/12/sri-lanka-s-armed-forces-temporarily-suspend-their-offensive-against-the-tamil-tigers-to-allow-civilians-to-find-refuge.json)  [XML](/news/2009/04/12/sri-lanka-s-armed-forces-temporarily-suspend-their-offensive-against-the-tamil-tigers-to-allow-civilians-to-find-refuge.xml)  
+
 ### [2009-04-12](/news/2009/04/12/index.md)
 
+##### Sri Lanka
 #  Sri Lanka's Armed Forces temporarily suspend their offensive against the Tamil Tigers to allow civilians to find refuge. 
 
 Halt in offensive against LTTE aimed at allowing civilians to escape to safety.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/04/200941281548105265.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/24/the-uk-government-announces-that-cornish-people-will-be-granted-minority-status-under-council-of-europe-rules-for-the-protection-of-national.html)  [JSON](/news/2014/04/24/the-uk-government-announces-that-cornish-people-will-be-granted-minority-status-under-council-of-europe-rules-for-the-protection-of-national.json)  [XML](/news/2014/04/24/the-uk-government-announces-that-cornish-people-will-be-granted-minority-status-under-council-of-europe-rules-for-the-protection-of-national.xml)  
+
 ### [2014-04-24](/news/2014/04/24/index.md)
 
+##### 10 Downing Street
 # The UK government announces that Cornish people will be granted minority status under Council of Europe rules for the protection of national minorities. 
 
 Cornish people are granted minority status under European rules for the protection of national minorities.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-cornwall-27132035)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/74407000/jpg/_74407076_139978306.jpg)

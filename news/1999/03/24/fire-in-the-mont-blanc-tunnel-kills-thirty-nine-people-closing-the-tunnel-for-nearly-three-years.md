@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/03/24/fire-in-the-mont-blanc-tunnel-kills-thirty-nine-people-closing-the-tunnel-for-nearly-three-years.html)  [JSON](/news/1999/03/24/fire-in-the-mont-blanc-tunnel-kills-thirty-nine-people-closing-the-tunnel-for-nearly-three-years.json)  [XML](/news/1999/03/24/fire-in-the-mont-blanc-tunnel-kills-thirty-nine-people-closing-the-tunnel-for-nearly-three-years.xml)  
+
 ### [1999-03-24](/news/1999/03/24/index.md)
 
+##### Mont Blanc Tunnel
 #  Fire in the Mont Blanc Tunnel kills thirty nine people, closing the tunnel for nearly three years.
 
 

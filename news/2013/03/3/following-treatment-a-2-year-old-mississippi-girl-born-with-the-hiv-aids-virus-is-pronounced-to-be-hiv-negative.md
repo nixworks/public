@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/3/following-treatment-a-2-year-old-mississippi-girl-born-with-the-hiv-aids-virus-is-pronounced-to-be-hiv-negative.html)  [JSON](/news/2013/03/3/following-treatment-a-2-year-old-mississippi-girl-born-with-the-hiv-aids-virus-is-pronounced-to-be-hiv-negative.json)  [XML](/news/2013/03/3/following-treatment-a-2-year-old-mississippi-girl-born-with-the-hiv-aids-virus-is-pronounced-to-be-hiv-negative.xml)  
+
 ### [2013-03-3](/news/2013/03/3/index.md)
 
+##### antiretroviral therapy
 # Following treatment, a 2-year-old Mississippi girl born with the HIV-AIDS virus is pronounced to be HIV negative. 
 
 US doctors say they seem to have cured a baby born with HIV - the virus that causes Aids - through very early treatment with standard drug therapy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21651225)
 2. [CBS](http://www.cbsnews.com/8301-204_162-57572271/baby-born-with-aids-virus-appears-to-have-been-cured/)

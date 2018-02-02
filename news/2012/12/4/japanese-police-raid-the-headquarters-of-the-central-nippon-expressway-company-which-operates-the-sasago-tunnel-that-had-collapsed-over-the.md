@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/4/japanese-police-raid-the-headquarters-of-the-central-nippon-expressway-company-which-operates-the-sasago-tunnel-that-had-collapsed-over-the.html)  [JSON](/news/2012/12/4/japanese-police-raid-the-headquarters-of-the-central-nippon-expressway-company-which-operates-the-sasago-tunnel-that-had-collapsed-over-the.json)  [XML](/news/2012/12/4/japanese-police-raid-the-headquarters-of-the-central-nippon-expressway-company-which-operates-the-sasago-tunnel-that-had-collapsed-over-the.xml)  
+
 ### [2012-12-4](/news/2012/12/4/index.md)
 
+##### Japanese police
 # Japanese police raid the headquarters of the Central Nippon Expressway Company, which operates the Sasago Tunnel that had collapsed over the weekend. 
 
 Tokyo police are also inspecting the tunnel where hundreds of falling concrete ceiling slabs killed nine people
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-202_162-57556936/officials-search-japan-tunnel-operators-offices-after-collapse/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/12/03/2ed8d638-a645-11e2-a3f0-029118418759/japan.jpg)

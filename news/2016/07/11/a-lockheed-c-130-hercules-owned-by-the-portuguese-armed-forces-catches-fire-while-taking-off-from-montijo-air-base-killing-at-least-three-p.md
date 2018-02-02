@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/11/a-lockheed-c-130-hercules-owned-by-the-portugue
 
 ### [2016-07-11](/news/2016/07/11/index.md)
 
+##### Lockheed C-130 Hercules
 # A Lockheed C-130 Hercules owned by the Portuguese Armed Forces catches fire while taking off from Montijo Air Base, killing at least three people. 
 
 

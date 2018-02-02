@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2005/02/17/the-military-regime-of-burma-reopens-constitutional-talks-but-there-is-widespread-criticism-that-the-approximately-1-000-delegates-selecte.html)  [JSON](/news/2005/02/17/the-military-regime-of-burma-reopens-constitutional-talks-but-there-is-widespread-criticism-that-the-approximately-1-000-delegates-selecte.json)  [XML](/news/2005/02/17/the-military-regime-of-burma-reopens-constitutional-talks-but-there-is-widespread-criticism-that-the-approximately-1-000-delegates-selecte.xml)  
+
 ### [2005-02-17](/news/2005/02/17/index.md)
 
+##### State Peace and Development Council
 #  The military regime of Burma reopens constitutional talks but there is widespread criticism that the approximately 1,000 delegates, selected by the military, form an unrepresentative group. They do not include main opposition group National League for Democracy and its leader Aung San Suu Kyi. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4272759.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000080&sid=aGFsqT9kVqi8&refer=asia)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000080&sid=aGFsqT9kVqi8&refer=asia)
 3. [DVB](http://english.dvb.no/news.php?id=4076)
 4. [Mizzima News](http://www.mizzima.com/archives/news-in-2005/news-in-feb/16-February%2005-16.htm)
-5. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7655502&type=worldNews)
-5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+5. [Reuters](https://www.reuters.com/newsArticle.jhtml?storyID=7655502&type=worldNews)
+5. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

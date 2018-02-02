@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/1/danish-drug-company-lundbeck-restricts-use-of-its-nembutal-drug-to-stop-its-use-in-lethal-injections-in-some-us-states.html)  [JSON](/news/2011/07/1/danish-drug-company-lundbeck-restricts-use-of-its-nembutal-drug-to-stop-its-use-in-lethal-injections-in-some-us-states.json)  [XML](/news/2011/07/1/danish-drug-company-lundbeck-restricts-use-of-its-nembutal-drug-to-stop-its-use-in-lethal-injections-in-some-us-states.xml)  
+
 ### [2011-07-1](/news/2011/07/1/index.md)
 
+##### Danish
 # Danish drug company Lundbeck restricts use of its Nembutal drug to stop its use in lethal injections in some US states. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20110701-danish-firm-prevent-use-drug-executions)
 

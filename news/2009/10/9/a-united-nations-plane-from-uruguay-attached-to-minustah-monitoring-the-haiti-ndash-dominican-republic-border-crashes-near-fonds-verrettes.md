@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/9/a-united-nations-plane-from-uruguay-attached-to-minustah-monitoring-the-haiti-ndash-dominican-republic-border-crashes-near-fonds-verrettes.html)  [JSON](/news/2009/10/9/a-united-nations-plane-from-uruguay-attached-to-minustah-monitoring-the-haiti-ndash-dominican-republic-border-crashes-near-fonds-verrettes.json)  [XML](/news/2009/10/9/a-united-nations-plane-from-uruguay-attached-to-minustah-monitoring-the-haiti-ndash-dominican-republic-border-crashes-near-fonds-verrettes.xml)  
+
 ### [2009-10-9](/news/2009/10/9/index.md)
 
+##### United Nations
 #  A United Nations plane from Uruguay attached to MINUSTAH monitoring the Haiti&ndash;Dominican Republic border crashes near Fonds-Verrettes, killing at least 11 people from Jordan and Uruguay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hHBO2kWWUvl_VvLn8sHsgpjn09DgD9B7U1Q00)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/8300299.stm)

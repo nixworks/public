@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/26/the-high-court-of-fiji-overturns-that-country-s-sodomy-laws-after-hearing-the-case-of-one-australian-and-one-native-fijian-who-were-previou.html)  [JSON](/news/2005/08/26/the-high-court-of-fiji-overturns-that-country-s-sodomy-laws-after-hearing-the-case-of-one-australian-and-one-native-fijian-who-were-previou.json)  [XML](/news/2005/08/26/the-high-court-of-fiji-overturns-that-country-s-sodomy-laws-after-hearing-the-case-of-one-australian-and-one-native-fijian-who-were-previou.xml)  
+
 ### [2005-08-26](/news/2005/08/26/index.md)
 
+##### High Court of Fiji
 #  The High Court of Fiji overturns that country's sodomy laws after hearing the case of one Australian and one native Fijian who were previously sentenced to two years in jail under the legislation 
 
 
 
 
-### Source:
+### Sources:
 
 1. [365gay.com](http://www.365gay.com/newscon05/08/082605fiji.htm)
 2. [ABC](http://www.abc.net.au/news/newsitems/200508/s1447219.htm)

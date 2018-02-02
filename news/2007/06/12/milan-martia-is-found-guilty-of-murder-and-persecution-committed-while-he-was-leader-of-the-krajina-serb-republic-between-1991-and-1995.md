@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/12/milan-martia-is-found-guilty-of-murder-and-persecution-committed-while-he-was-leader-of-the-krajina-serb-republic-between-1991-and-1995.html)  [JSON](/news/2007/06/12/milan-martia-is-found-guilty-of-murder-and-persecution-committed-while-he-was-leader-of-the-krajina-serb-republic-between-1991-and-1995.json)  [XML](/news/2007/06/12/milan-martia-is-found-guilty-of-murder-and-persecution-committed-while-he-was-leader-of-the-krajina-serb-republic-between-1991-and-1995.xml)  
+
 ### [2007-06-12](/news/2007/06/12/index.md)
 
+##### Milan Martic
 #  Milan Martic is found guilty of murder and persecution committed while he was leader of the Krajina Serb republic between 1991 and 1995. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6743607.stm)
 

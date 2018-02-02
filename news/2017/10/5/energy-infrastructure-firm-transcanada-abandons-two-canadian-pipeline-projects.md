@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/5/energy-infrastructure-firm-transcanada-abandons-
 
 ### [2017-10-5](/news/2017/10/5/index.md)
 
+##### TransCanada
 # Energy infrastructure firm TransCanada abandons two Canadian pipeline projects. 
 
 The firm says &quot;changed circumstances&quot; led to the decision to abandon the controversial projects.

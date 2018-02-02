@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/5/italian-police-seize-assets-worth-around-1-38-billion-from-the-polverino-mafia-clan-in-the-naples-region-and-arrest-39-alleged-clan-member.html)  [JSON](/news/2011/05/5/italian-police-seize-assets-worth-around-1-38-billion-from-the-polverino-mafia-clan-in-the-naples-region-and-arrest-39-alleged-clan-member.json)  [XML](/news/2011/05/5/italian-police-seize-assets-worth-around-1-38-billion-from-the-polverino-mafia-clan-in-the-naples-region-and-arrest-39-alleged-clan-member.xml)  
+
 ### [2011-05-5](/news/2011/05/5/index.md)
 
+##### $
 # Italian police seize assets worth around $1.38 billion from the Polverino mafia clan in the Naples region, and arrest 39 alleged clan members, including two who were local elections candidates from Prime Minister Silvio Berlusconi's People of Freedom party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/breaking-news/italian-police-seize-mafia-fortune/story-fn3dxity-1226050788719)
 

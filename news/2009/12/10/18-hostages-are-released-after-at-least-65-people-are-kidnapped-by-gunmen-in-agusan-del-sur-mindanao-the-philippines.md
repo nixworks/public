@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/10/18-hostages-are-released-after-at-least-65-people-are-kidnapped-by-gunmen-in-agusan-del-sur-mindanao-the-philippines.html)  [JSON](/news/2009/12/10/18-hostages-are-released-after-at-least-65-people-are-kidnapped-by-gunmen-in-agusan-del-sur-mindanao-the-philippines.json)  [XML](/news/2009/12/10/18-hostages-are-released-after-at-least-65-people-are-kidnapped-by-gunmen-in-agusan-del-sur-mindanao-the-philippines.xml)  
+
 ### [2009-12-10](/news/2009/12/10/index.md)
 
+##### Agusan del Sur
 #  18 hostages are released after at least 65 people are kidnapped by gunmen in Agusan del Sur, Mindanao, the Philippines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/12/10/philippines.kidnapping/)
 2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20091210-241200/18-hostages-freed-2-escape-in-Agusan-kidnapping)

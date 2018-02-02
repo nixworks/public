@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmagbpo-as-the-prime-minister-of-east-timor.html)  [JSON](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmagbpo-as-the-prime-minister-of-east-timor.json)  [XML](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmagbpo-as-the-prime-minister-of-east-timor.xml)  
+
 ### [2007-08-6](/news/2007/08/6/index.md)
 
+##### Jose Ramos-Horta
 #  Jose Ramos-Horta, the President of East Timor, selects Xanana GusmGBPo as the Prime Minister of East Timor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6932860.stm)
+
+### Changes:
+
+1. [ Jose Ramos-Horta, the President of East Timor, selects Xanana Gusmao as the Prime Minister of East Timor. ](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmapso-as-the-prime-minister-of-east-timor.md) _2017-08-25 03:20:27 (First version)_
+1. [ Jose Ramos-Horta, the President of East Timor, selects Xanana GusmGBPo as the Prime Minister of East Timor. ](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmagbpo-as-the-prime-minister-of-east-timor.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [ Xanana GusmGBPo is sworn in as the Prime Minister of East Timor with the opposition Fretilin party boycotting the ceremony. ](/news/2007/08/8/xanana-gusmagbpo-is-sworn-in-as-the-prime-minister-of-east-timor-with-the-opposition-fretilin-party-boycotting-the-ceremony.md) _Context: East Timor, Prime Minister, Xanana GusmGBPo_
 4. [ Australian troops enter the town of Same in East Timor where fugitive East Timorese army officer Alfredo Reinado was located with orders to arrest Reinado from the President of East Timor Xanana GusmGBPo. Reinado evades capture but five of his men are killed in the Battle of Same. ](/news/2007/03/4/australian-troops-enter-the-town-of-same-in-east-timor-where-fugitive-east-timorese-army-officer-alfredo-reinado-was-located-with-orders-to.md) _Context: East Timor, President, Xanana GusmGBPo_
 5. [ Xanana GusmGBPo, President of East Timor, asks Prime Minister Mari Alkatiri to resign. ](/news/2006/06/21/xanana-gusmagbpo-president-of-east-timor-asks-prime-minister-mara-alkatiri-to-resign.md) _Context: East Timor, President, Xanana GusmGBPo_
-
-### Changes:
-
-1. [ Jose Ramos-Horta, the President of East Timor, selects Xanana Gusmao as the Prime Minister of East Timor. ](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmapso-as-the-prime-minister-of-east-timor.md) _2017-08-25 03:20:27 (First version)_
-1. [ Jose Ramos-Horta, the President of East Timor, selects Xanana GusmGBPo as the Prime Minister of East Timor. ](/news/2007/08/6/josa-c-ramos-horta-the-president-of-east-timor-selects-xanana-gusmagbpo-as-the-prime-minister-of-east-timor.md) _(Current version)_

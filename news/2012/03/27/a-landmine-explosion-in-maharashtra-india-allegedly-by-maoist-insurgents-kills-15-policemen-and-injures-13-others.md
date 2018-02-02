@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/03/27/a-landmine-explosion-in-maharashtra-india-allegedly-by-maoist-insurgents-kills-15-policemen-and-injures-13-others.html)  [JSON](/news/2012/03/27/a-landmine-explosion-in-maharashtra-india-allegedly-by-maoist-insurgents-kills-15-policemen-and-injures-13-others.json)  [XML](/news/2012/03/27/a-landmine-explosion-in-maharashtra-india-allegedly-by-maoist-insurgents-kills-15-policemen-and-injures-13-others.xml)  
+
 ### [2012-03-27](/news/2012/03/27/index.md)
 
+##### Maharashtra
 # A landmine explosion in Maharashtra, India, allegedly by Maoist insurgents, kills 15 policemen and injures 13 others. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/news/world/article/1152362--maoist-rebels-kill-15-paramilitary-police-wound-13-in-ambush-in-central-india)
+1. [Toronto Star](https://www.thestar.com/news/world/article/1152362--maoist-rebels-kill-15-paramilitary-police-wound-13-in-ambush-in-central-india)
 
 ### Related:
 

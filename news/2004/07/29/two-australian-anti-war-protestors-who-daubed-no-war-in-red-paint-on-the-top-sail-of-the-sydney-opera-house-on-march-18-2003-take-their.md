@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/29/two-australian-anti-war-protestors-who-daubed-no-war-in-red-paint-on-the-top-sail-of-the-sydney-opera-house-on-march-18-2003-take-their.html)  [JSON](/news/2004/07/29/two-australian-anti-war-protestors-who-daubed-no-war-in-red-paint-on-the-top-sail-of-the-sydney-opera-house-on-march-18-2003-take-their.json)  [XML](/news/2004/07/29/two-australian-anti-war-protestors-who-daubed-no-war-in-red-paint-on-the-top-sail-of-the-sydney-opera-house-on-march-18-2003-take-their.xml)  
+
 ### [2004-07-29](/news/2004/07/29/index.md)
 
+##### Sydney Opera House
 #  Two Australian anti-war protestors who daubed "No War" in red paint on the top sail of the Sydney Opera House on March 18, 2003, take their case to the New South Wales Court of Appeal. David Burgess, 33, and Will Saunders, 42, claim their defence of self-defence was not heard by their original trial judge. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/articles/2004/07/29/1091080369482.html?oneclick=true)
 

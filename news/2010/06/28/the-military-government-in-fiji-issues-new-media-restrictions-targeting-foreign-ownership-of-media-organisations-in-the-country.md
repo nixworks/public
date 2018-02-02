@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/28/the-military-government-in-fiji-issues-new-media-restrictions-targeting-foreign-ownership-of-media-organisations-in-the-country.html)  [JSON](/news/2010/06/28/the-military-government-in-fiji-issues-new-media-restrictions-targeting-foreign-ownership-of-media-organisations-in-the-country.json)  [XML](/news/2010/06/28/the-military-government-in-fiji-issues-new-media-restrictions-targeting-foreign-ownership-of-media-organisations-in-the-country.xml)  
+
 ### [2010-06-28](/news/2010/06/28/index.md)
 
+##### Fiji
 # The military government in Fiji issues new media restrictions targeting foreign ownership of media organisations in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10432247.stm)
 2. [Hindustan Times](http://www.hindustantimes.com/Fiji-regime-cracks-down-on-media/Article1-564339.aspx)

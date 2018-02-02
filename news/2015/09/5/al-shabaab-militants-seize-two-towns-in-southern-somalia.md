@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/09/5/al-shabaab-militants-seize-two-towns-in-southern-somalia.html)  [JSON](/news/2015/09/5/al-shabaab-militants-seize-two-towns-in-southern-somalia.json)  [XML](/news/2015/09/5/al-shabaab-militants-seize-two-towns-in-southern-somalia.xml)  
+
 ### [2015-09-5](/news/2015/09/5/index.md)
 
+##### War in Somalia (2009-present)
 # al Shabaab militants seize two towns in southern Somalia. 
 
 Islamist militants al Shabaab seized control of two towns over two days in southern Somalia and attacked two African Union (AU) convoys in the same region, a spokesman for the group and a local official said on Saturday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/09/05/us-somalia-attack-idUSKCN0R50HX20150905)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/09/05/us-somalia-attack-idUSKCN0R50HX20150905)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [War in Somalia (2009-present): al Shabaab militants seize two towns in southern Somalia. ](/news/2015/09/5/war-in-somalia-2009-present-al-shabaab-militants-seize-two-towns-in-southern-somalia.md) _2017-08-27 03:42:58 (First version)_
+1. [al Shabaab militants seize two towns in southern Somalia. ](/news/2015/09/5/al-shabaab-militants-seize-two-towns-in-southern-somalia.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Islamist militants al Shabaab seized control of two towns over two days in south
 3. [The United States is to deploy troops to Somalia for the first time since 1994 to help train the Somali Armed Forces in their conflict with al-Shabaab insurgents. ](/news/2017/04/14/the-united-states-is-to-deploy-troops-to-somalia-for-the-first-time-since-1994-to-help-train-the-somali-armed-forces-in-their-conflict-with.md) _Context: Al-Shabaab, Somalia, War in Somalia (2009-present)_
 4. [Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. ](/news/2017/01/27/al-shabaab-militants-attack-a-remote-amisom-base-in-southern-somalia-claiming-to-have-killed-dozens-of-kenyan-troops.md) _Context: Al-Shabaab, Somalia, War in Somalia (2009-present)_
 5. [An al-Shabaab suicide car bomb kills at least 20 people in the town of Galkayo in Somalia's semi-autonomous Puntland region. ](/news/2016/08/21/an-al-shabaab-suicide-car-bomb-kills-at-least-20-people-in-the-town-of-galkayo-in-somalia-s-semi-autonomous-puntland-region.md) _Context: Al-Shabaab, Somalia, War in Somalia (2009-present)_
-
-### Changes:
-
-1. [War in Somalia (2009-present): al Shabaab militants seize two towns in southern Somalia. ](/news/2015/09/5/war-in-somalia-2009-present-al-shabaab-militants-seize-two-towns-in-southern-somalia.md) _2017-08-27 03:42:58 (First version)_
-1. [al Shabaab militants seize two towns in southern Somalia. ](/news/2015/09/5/al-shabaab-militants-seize-two-towns-in-southern-somalia.md) _(Current version)_

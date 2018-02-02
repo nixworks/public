@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2015/06/6/five-police-are-injured-following-violent-protests-at-a-gay-pride-march-in-kiev.html)  [JSON](/news/2015/06/6/five-police-are-injured-following-violent-protests-at-a-gay-pride-march-in-kiev.json)  [XML](/news/2015/06/6/five-police-are-injured-following-violent-protests-at-a-gay-pride-march-in-kiev.xml)  
+
 ### [2015-06-6](/news/2015/06/6/index.md)
 
+##### police
 # Five police are injured following violent protests at a gay pride march in Kiev. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-33034247)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/83460000/jpg/_83460033_cf12dbc1-d555-4ee6-b42c-1148d2273275.jpg)
 
 ### Related:
 
-1. [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md) _Context: Kiev_
-2. [DPR leader Alexander Zakharchenko announced that the self-declared Donetsk People's Republic (DPR) and Luhansk People's Republic (LPR) would form a new state called Malorossiya (Little Russia) as an official successor to what he called the "failed state" of Ukraine, with Donetsk replacing Kiev as the country's capital. Ukrainian president Petro Poroshenko and LPR leader Igor Plotnitsky denounced the plans. ](/news/2017/07/18/dpr-leader-alexander-zakharchenko-announced-that-the-self-declared-donetsk-people-s-republic-dpr-and-luhansk-people-s-republic-lpr-would.md) _Context: Kiev_
-3. [An explosive device is hurled at the United States embassy in Kiev. ](/news/2017/06/8/an-explosive-device-is-hurled-at-the-united-states-embassy-in-kiev.md) _Context: Kiev_
-4. [Ukrainian intelligence officer and head of a special forces unit, Maksym Shapoval, is assassinated in Kiev by car bomb. ](/news/2017/06/27/ukrainian-intelligence-officer-and-head-of-a-special-forces-unit-maksym-shapoval-is-assassinated-in-kiev-by-car-bomb.md) _Context: Kiev_
-5. [A former Ukrainian soldier assassinates former Russian Duma deputy Denis Voronenkov in the Ukrainian capital Kiev. In December 2016, he received Ukrainian citizenship. Ilya Ponomarev says Voronenkov was heading to a meeting with him. ](/news/2017/03/23/a-former-ukrainian-soldier-assassinates-former-russian-duma-deputy-denis-voronenkov-in-the-ukrainian-capital-kiev-in-december-2016-he-rece.md) _Context: Kiev_
+1. [Police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless opposition leader Mikheil Saakashvili. A police source says police are preparing a special operation and will be unleashed "in the near future". ](/news/2017/12/6/police-raid-the-wrong-tent-of-an-activist-camp-in-kiev-and-fail-to-arrest-the-stateless-opposition-leader-mikheil-saakashvili-a-police-sour.md) _Context: Kiev_
+2. [As police arrive at the stateless Mikheil Saakashvili's house in Kiev to detain him, Saakashvili goes up on the roof to protest verbally. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. Finally the supporters free him out of the van. Bespeeching the cameras again, he rails against corruption, against Petro Poroshenko and urges Ukrainians to "be afraid of nothing". ](/news/2017/12/5/as-police-arrive-at-the-stateless-mikheil-saakashvili-s-house-in-kiev-to-detain-him-saakashvili-goes-up-on-the-roof-to-protest-verbally-po.md) _Context: Kiev_
+3. [Several thousand opposition supporters demonstrate in central Kiev, calling for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-opposition-supporters-demonstrate-in-central-kiev-calling-for-the-parliament-to-adopt-legislation-on-presidential-impeachm.md) _Context: Kiev_
+4. [Several hundred people take part in clashes between Ukrainian police and anti-Petro Poroshenko protesters (led by opposition leader Mikheil Saakashvili) demanding the president's resignation at the October Palace in Kiev. ](/news/2017/12/17/several-hundred-people-take-part-in-clashes-between-ukrainian-police-and-anti-petro-poroshenko-protesters-led-by-opposition-leader-mikheil.md) _Context: Kiev_
+5. [A parked scooter explosion in Kiev, thought to be an assassination attempt on Ukrainian Radical MP Ihor Mosiychuk, kills his bodyguard and one more man. Mosiychuk, political scientist Vitaliy Bala and a woman are injured. ](/news/2017/10/25/a-parked-scooter-explosion-in-kiev-thought-to-be-an-assassination-attempt-on-ukrainian-radical-mp-ihor-mosiychuk-kills-his-bodyguard-and-o.md) _Context: Kiev_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/14/the-organization-of-american-states-urges-nicaragua-and-costa-rica-to-withdraw-their-security-forces-from-an-island-in-the-san-juan-river-g.html)  [JSON](/news/2010/11/14/the-organization-of-american-states-urges-nicaragua-and-costa-rica-to-withdraw-their-security-forces-from-an-island-in-the-san-juan-river-g.json)  [XML](/news/2010/11/14/the-organization-of-american-states-urges-nicaragua-and-costa-rica-to-withdraw-their-security-forces-from-an-island-in-the-san-juan-river-g.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### Organization of American States
 # The Organization of American States urges Nicaragua and Costa Rica to withdraw their security forces from an island in the San Juan river. Google is blamed for the dispute and revises its maps. 
 
 The Organisation of American States urges Nicaragua and Costa Rica to withdraw their security forces from a disputed border region.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11751727)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

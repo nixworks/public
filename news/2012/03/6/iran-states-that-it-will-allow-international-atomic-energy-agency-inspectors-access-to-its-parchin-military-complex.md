@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/6/iran-states-that-it-will-allow-international-atomic-energy-agency-inspectors-access-to-its-parchin-military-complex.html)  [JSON](/news/2012/03/6/iran-states-that-it-will-allow-international-atomic-energy-agency-inspectors-access-to-its-parchin-military-complex.json)  [XML](/news/2012/03/6/iran-states-that-it-will-allow-international-atomic-energy-agency-inspectors-access-to-its-parchin-military-complex.xml)  
+
 ### [2012-03-6](/news/2012/03/6/index.md)
 
+##### Iran
 # Iran states that it will allow International Atomic Energy Agency inspectors access to its Parchin military complex. 
 
 Iran says it will give the UN nuclear watchdog access to its Parchin military complex, a site believed to have been used for nuclear weapons research.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/2012-03-06/iran-to-allow-parchin-military-site-inspections/3872404?section=world)
 1. [Cover Image](http://www.abc.net.au/news/image/3833062-1x1-700x700.jpg)

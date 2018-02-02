@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/13/former-leader-of-togo-gnassingbe-eyadema-is-buried-in-the-capital-lome.html)  [JSON](/news/2005/03/13/former-leader-of-togo-gnassingbe-eyadema-is-buried-in-the-capital-lome.json)  [XML](/news/2005/03/13/former-leader-of-togo-gnassingbe-eyadema-is-buried-in-the-capital-lome.xml)  
+
 ### [2005-03-13](/news/2005/03/13/index.md)
 
+##### Togo
 #  Former leader of Togo, Gnassingb Eyadma, is buried in the capital Lom 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4345493.stm)
 2. [News24](http://www.news24.com/News24/Africa/News/0,6119,2-11-1447_1675791,00.html)

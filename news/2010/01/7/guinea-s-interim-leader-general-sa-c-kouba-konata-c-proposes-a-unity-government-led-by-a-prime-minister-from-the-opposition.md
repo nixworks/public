@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/7/guinea-s-interim-leader-general-sa-c-kouba-konata-c-proposes-a-unity-government-led-by-a-prime-minister-from-the-opposition.html)  [JSON](/news/2010/01/7/guinea-s-interim-leader-general-sa-c-kouba-konata-c-proposes-a-unity-government-led-by-a-prime-minister-from-the-opposition.json)  [XML](/news/2010/01/7/guinea-s-interim-leader-general-sa-c-kouba-konata-c-proposes-a-unity-government-led-by-a-prime-minister-from-the-opposition.xml)  
+
 ### [2010-01-7](/news/2010/01/7/index.md)
 
+##### Guinea
 # Guinea's interim leader, General Sekouba Konate, proposes a unity government led by a Prime Minister from the opposition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=115089)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jan/07/guinea-unity-government-camara-shooting)

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2011/01/6/prime-minister-of-pakistan-yousaf-raza-gillani-cancels-recent-fuel-price-increases-in-an-apparent-concession-to-the-opposition-in-an-attempt.html)  [JSON](/news/2011/01/6/prime-minister-of-pakistan-yousaf-raza-gillani-cancels-recent-fuel-price-increases-in-an-apparent-concession-to-the-opposition-in-an-attempt.json)  [XML](/news/2011/01/6/prime-minister-of-pakistan-yousaf-raza-gillani-cancels-recent-fuel-price-increases-in-an-apparent-concession-to-the-opposition-in-an-attempt.xml)  
+
 ### [2011-01-6](/news/2011/01/6/index.md)
 
+##### Prime Minister
 # Prime Minister of Pakistan Yousaf Raza Gillani cancels recent fuel price increases in an apparent concession to the opposition in an attempt to save his government from collapse after losing its majority in parliament. 
 
+Pakistan Prime Minister Yousuf Raza Gilani will meet leaders of a former allied party today after conceding to its demand for lower gasoline prices as he seeks to heal a rift that threatens the government.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-01-06/pakistan-prime-minister-cancels-fuel-price-increase-to-save-his-government.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-01-06/pakistan-prime-minister-cancels-fuel-price-increase-to-save-his-government.html)
 2. [Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7368446.html)
-3. [Reuters](http://www.reuters.com/article/idUSSGE7050A320110106)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/idUSSGE7050A320110106)
+3. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

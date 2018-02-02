@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/25/iraq-s-largest-sunni-arab-bloc-the-iraqi-accordance-front-suspends-its-membership-in-prime-minister-nouri-al-maliki-s-coalition-governmen.html)  [JSON](/news/2007/07/25/iraq-s-largest-sunni-arab-bloc-the-iraqi-accordance-front-suspends-its-membership-in-prime-minister-nouri-al-maliki-s-coalition-governmen.json)  [XML](/news/2007/07/25/iraq-s-largest-sunni-arab-bloc-the-iraqi-accordance-front-suspends-its-membership-in-prime-minister-nouri-al-maliki-s-coalition-governmen.xml)  
+
 ### [2007-07-25](/news/2007/07/25/index.md)
 
+##### Iraq
 #  Iraq's largest Sunni Arab bloc, The Iraqi Accordance Front, suspends its membership in Prime Minister Nouri al-Maliki's coalition government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,290664,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

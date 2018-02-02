@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/26/a-newly-discovered-galaxy-known-as-dragonfly-44
 
 ### [2016-08-26](/news/2016/08/26/index.md)
 
+##### Dragonfly 44
 # A newly-discovered galaxy known as Dragonfly 44 appears to be made up mostly of dark matter. 
 
 Astronomers have found a galaxy whose mass is similar to the Milky Way, but Dragonfly 44 — about 300 million light-years away — is made up almost entirely of dark matter.

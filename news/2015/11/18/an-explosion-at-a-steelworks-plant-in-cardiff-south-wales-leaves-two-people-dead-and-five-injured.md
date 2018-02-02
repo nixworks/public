@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/18/an-explosion-at-a-steelworks-plant-in-cardiff-south-wales-leaves-two-people-dead-and-five-injured.html)  [JSON](/news/2015/11/18/an-explosion-at-a-steelworks-plant-in-cardiff-south-wales-leaves-two-people-dead-and-five-injured.json)  [XML](/news/2015/11/18/an-explosion-at-a-steelworks-plant-in-cardiff-south-wales-leaves-two-people-dead-and-five-injured.xml)  
+
 ### [2015-11-18](/news/2015/11/18/index.md)
 
+##### Cardiff
 # An explosion at a steelworks plant in Cardiff, South Wales, leaves two people dead and five injured. 
 
 Two people are killed following an explosion at a Cardiff steelworks.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-south-east-wales-34862540)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/110FD/production/_86758896_wnsteel.jpg)

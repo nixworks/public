@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/1/the-cleanup-efforts-begin-in-the-u-s-city-of-joplin-missouri-after-the-recent-2011-joplin-tornado-with-the-death-toll-confirmed-at-134.html)  [JSON](/news/2011/06/1/the-cleanup-efforts-begin-in-the-u-s-city-of-joplin-missouri-after-the-recent-2011-joplin-tornado-with-the-death-toll-confirmed-at-134.json)  [XML](/news/2011/06/1/the-cleanup-efforts-begin-in-the-u-s-city-of-joplin-missouri-after-the-recent-2011-joplin-tornado-with-the-death-toll-confirmed-at-134.xml)  
+
 ### [2011-06-1](/news/2011/06/1/index.md)
 
+##### Joplin
 # The cleanup efforts begin in the U.S. city of Joplin, Missouri, after the recent 2011 Joplin tornado with the death toll confirmed at 134. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KSPR](http://www.kspr.com/news/local/kspr-debris-removal-efforts-in-joplin-get-underway-20110531,0,5607166.story)
 2. [News Leader](http://www.news-leader.com/article/20110601/NEWS11/110601019/Gov-Nixon-134-dead-from-Joplin-tornado-all-accounted-for)

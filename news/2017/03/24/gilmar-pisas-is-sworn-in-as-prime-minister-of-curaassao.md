@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/24/gilmar-pisas-is-sworn-in-as-prime-minister-of-c
 
 ### [2017-03-24](/news/2017/03/24/index.md)
 
+##### Gilmar Pisas
 # Gilmar Pisas is sworn in as Prime Minister of Curacao. 
 
 WILLEMSTAD - Gilmar Pisas was just sworn in as Prime Minister of Curaçao. The party of the convicted former Prime Minister Gerrit Schotte returns to power thanks to the appointment of his party colleague as head of the interim government. According to Schotte, Pisas’ appointment is just temporarily. Pisas will have to make way for&hellip;

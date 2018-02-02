@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/25/mary-crown-princess-of-denmark-will-have-a-baby-in-october-says-the-royal-house-in-copenhagen.html)  [JSON](/news/2005/04/25/mary-crown-princess-of-denmark-will-have-a-baby-in-october-says-the-royal-house-in-copenhagen.json)  [XML](/news/2005/04/25/mary-crown-princess-of-denmark-will-have-a-baby-in-october-says-the-royal-house-in-copenhagen.xml)  
+
 ### [2005-04-25](/news/2005/04/25/index.md)
 
+##### Mary, Crown Princess of Denmark
 #  Mary, Crown Princess of Denmark will have a baby in October, says the Royal House in Copenhagen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Danmarks Radio](http://www.dr.dk/nyheder/indland/article.jhtml?articleID=249817)
 2. [Royal House](http://kongehuset.dk/artikel.php?id=68632)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/10/indonesia-closes-four-airports-including-bali-international-airport-due-to-an-ongoing-eruption-by-the-raung-volcano-on-java.html)  [JSON](/news/2015/07/10/indonesia-closes-four-airports-including-bali-international-airport-due-to-an-ongoing-eruption-by-the-raung-volcano-on-java.json)  [XML](/news/2015/07/10/indonesia-closes-four-airports-including-bali-international-airport-due-to-an-ongoing-eruption-by-the-raung-volcano-on-java.xml)  
+
 ### [2015-07-10](/news/2015/07/10/index.md)
 
+##### Indonesia
 # Indonesia closes four airports including Bali International Airport due to an ongoing eruption by the Raung volcano on Java. 
 
 INDONESIA-VOLCANO/ (URGENT):Four Indonesian airports closed due to volcanic eruption - Garuda
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Trust](http://www.trust.org/item/20150710024523-k8hq8)
 1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/5c11746c-3caf-48aa-84c5-5f1606b8ab62/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)

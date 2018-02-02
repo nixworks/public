@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/17/naxalite-insurgents-blow-up-a-bus-in-india-filled-with-police-and-para-militaries-50-are-feared-killed.html)  [JSON](/news/2010/05/17/naxalite-insurgents-blow-up-a-bus-in-india-filled-with-police-and-para-militaries-50-are-feared-killed.json)  [XML](/news/2010/05/17/naxalite-insurgents-blow-up-a-bus-in-india-filled-with-police-and-para-militaries-50-are-feared-killed.xml)  
+
 ### [2010-05-17](/news/2010/05/17/index.md)
 
+##### Naxalite
 # Naxalite insurgents blow up a bus in India filled with police and para-militaries, 50 are feared killed. 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/news/india/naxals-blow-up-bus-near-dantewada-50-feared-killed-26110.php)
 1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)

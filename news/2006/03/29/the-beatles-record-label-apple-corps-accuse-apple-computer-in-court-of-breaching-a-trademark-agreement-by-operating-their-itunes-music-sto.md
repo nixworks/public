@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/29/the-beatles-record-label-apple-corps-accuse-apple-computer-in-court-of-breaching-a-trademark-agreement-by-operating-their-itunes-music-sto.html)  [JSON](/news/2006/03/29/the-beatles-record-label-apple-corps-accuse-apple-computer-in-court-of-breaching-a-trademark-agreement-by-operating-their-itunes-music-sto.json)  [XML](/news/2006/03/29/the-beatles-record-label-apple-corps-accuse-apple-computer-in-court-of-breaching-a-trademark-agreement-by-operating-their-itunes-music-sto.xml)  
+
 ### [2006-03-29](/news/2006/03/29/index.md)
 
+##### The Beatles
 #  The Beatles' record label Apple Corps accuse Apple Computer in court of breaching a trademark agreement by operating their iTunes Music Store. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/entertainment/4854408.stm)
 

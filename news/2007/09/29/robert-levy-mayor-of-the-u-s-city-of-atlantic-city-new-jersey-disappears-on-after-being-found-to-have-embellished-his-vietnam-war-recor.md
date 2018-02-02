@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/09/29/robert-levy-mayor-of-the-u-s-city-of-atlantic-city-new-jersey-disappears-on-after-being-found-to-have-embellished-his-vietnam-war-recor.html)  [JSON](/news/2007/09/29/robert-levy-mayor-of-the-u-s-city-of-atlantic-city-new-jersey-disappears-on-after-being-found-to-have-embellished-his-vietnam-war-recor.json)  [XML](/news/2007/09/29/robert-levy-mayor-of-the-u-s-city-of-atlantic-city-new-jersey-disappears-on-after-being-found-to-have-embellished-his-vietnam-war-recor.xml)  
+
 ### [2007-09-29](/news/2007/09/29/index.md)
 
+##### Robert Levy
 #  Robert Levy, mayor of the U.S. city of Atlantic City, New Jersey, disappears on after being found to have embellished his Vietnam War record. 
 
 To most Americans Atlantic City is host to seedy casinos, poverty, crime, murder and corrupt politics.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSN058640320071005?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSN058640320071005?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

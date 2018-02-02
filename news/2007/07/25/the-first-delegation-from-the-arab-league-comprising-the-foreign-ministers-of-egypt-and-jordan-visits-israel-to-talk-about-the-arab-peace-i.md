@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/25/the-first-delegation-from-the-arab-league-comprising-the-foreign-ministers-of-egypt-and-jordan-visits-israel-to-talk-about-the-arab-peace-i.html)  [JSON](/news/2007/07/25/the-first-delegation-from-the-arab-league-comprising-the-foreign-ministers-of-egypt-and-jordan-visits-israel-to-talk-about-the-arab-peace-i.json)  [XML](/news/2007/07/25/the-first-delegation-from-the-arab-league-comprising-the-foreign-ministers-of-egypt-and-jordan-visits-israel-to-talk-about-the-arab-peace-i.xml)  
+
 ### [2007-07-25](/news/2007/07/25/index.md)
 
+##### Arab League
 #  The first delegation from the Arab League comprising the foreign ministers of Egypt and Jordan visits Israel to talk about the Arab Peace Initiative. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6914893.stm)
 

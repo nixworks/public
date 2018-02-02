@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/10/recep-tayyip-erdogan-is-elected-to-the-turkish-parliament-and-is-expected-to-become-prime-minister-shortly-erdogan-supports-deployment-of.html)  [JSON](/news/2003/03/10/recep-tayyip-erdogan-is-elected-to-the-turkish-parliament-and-is-expected-to-become-prime-minister-shortly-erdogan-supports-deployment-of.json)  [XML](/news/2003/03/10/recep-tayyip-erdogan-is-elected-to-the-turkish-parliament-and-is-expected-to-become-prime-minister-shortly-erdogan-supports-deployment-of.xml)  
+
 ### [2003-03-10](/news/2003/03/10/index.md)
 
+##### Recep Tayyip Erdogan
 #  Recep Tayyip Erdogan is elected to the Turkish parliament and is expected to become prime minister shortly. Erdogan supports deployment of US troops in Turkey and is expected to call for a new vote on the issue as one of his first official acts.
 
 
@@ -7,8 +11,8 @@
 
 ### Related:
 
-1. [ Turkish prime minister Recep Tayyip Erdogan wraps up a landmark visit to Greece. Both sides pledge cooperation&mdash;Erdogan visits the Turkish minority in Thrace and urges reconciliation, and his Greek counterpart Costas Karamanlis says Greece will support Turkey's EU bid, marking a high point in Greco-Turkish relations. ](/news/2004/05/8/turkish-prime-minister-recep-tayyip-erdogan-wraps-up-a-landmark-visit-to-greece-both-sides-pledge-cooperation-mdash-erdogan-visits-the-tur.md) _Context: Prime Minister, Recep Tayyip Erdogan, Turkey_
-2. [Turkey's Prime Minister, Recep Tayyip Erdogan, describes Israel as the "main threat to peace" in the Middle East. ](/news/2010/04/7/turkey-s-prime-minister-recep-tayyip-erdoaan-describes-israel-as-the-main-threat-to-peace-in-the-middle-east.md) _Context: Prime Minister, Turkey_
-3. [ Turkey's Prime Minister Erdogan strengthens his rhetoric: "These incidents in China are as if they are genocide. We ask the Chinese government not to remain a spectator to these incidents." ](/news/2009/07/10/turkey-s-prime-minister-erdogan-strengthens-his-rhetoric-these-incidents-in-china-are-as-if-they-are-genocide-we-ask-the-chinese-governm.md) _Context: Recep Tayyip Erdogan, Turkey_
-4. [The U.S. Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md) _Context: Turkey_
-5. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Turkey_
+1. [ Turkish prime minister Recep Tayyip Erdogan wraps up a landmark visit to Greece. Both sides pledge cooperation&mdash;Erdogan visits the Turkish minority in Thrace and urges reconciliation, and his Greek counterpart Costas Karamanlis says Greece will support Turkey's EU bid, marking a high point in Greco-Turkish relations. ](/news/2004/05/8/turkish-prime-minister-recep-tayyip-erdogan-wraps-up-a-landmark-visit-to-greece-both-sides-pledge-cooperation-mdash-erdogan-visits-the-tur.md) _Context: Recep Tayyip Erdogan, Turkish, prime minister_
+2. [Turkish airstrikes and shelling heavily damage the ancient Syro-Hittite Ain Dara temple in Syria's Afrin District. The Directorate-General of Antiquities and Museums calls on the international community to pressure Turkey "to prevent the targeting of archaeological and cultural sites". ](/news/2018/01/28/turkish-airstrikes-and-shelling-heavily-damage-the-ancient-syro-hittite-ain-dara-temple-in-syria-s-afrin-district-the-directorate-general-o.md) _Context: Turkish_
+3. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: Turkish_
+4. [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md) _Context: Turkish_
+5. [A bus crash in Turkey's northwestern Eskisehir Province kills at least 11 people and injures 46 others. ](/news/2018/01/20/a-bus-crash-in-turkey-s-northwestern-eskiaehir-province-kills-at-least-11-people-and-injures-46-others.md) _Context: Turkish_

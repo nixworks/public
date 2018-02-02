@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/5/hurricane-katrina-senator-and-former-first-lady-hillary-clinton-calls-for-a-9-11-style-inquiry-into-the-u-s-federal-government-s-respon.html)  [JSON](/news/2005/09/5/hurricane-katrina-senator-and-former-first-lady-hillary-clinton-calls-for-a-9-11-style-inquiry-into-the-u-s-federal-government-s-respon.json)  [XML](/news/2005/09/5/hurricane-katrina-senator-and-former-first-lady-hillary-clinton-calls-for-a-9-11-style-inquiry-into-the-u-s-federal-government-s-respon.xml)  
+
 ### [2005-09-5](/news/2005/09/5/index.md)
 
+##### Hurricane Katrina
 #  Hurricane Katrina: Senator and former First Lady Hillary Clinton calls for a "9-11 Style Inquiry" into the U.S. federal government's response to the Hurricane. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Myrtle Beach online](http://www.myrtlebeachonline.com/mld/myrtlebeachonline/news/nation/12564823.htm)
 

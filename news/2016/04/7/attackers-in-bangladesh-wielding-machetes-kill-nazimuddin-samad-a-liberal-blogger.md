@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/7/attackers-in-bangladesh-wielding-machetes-kill-n
 
 ### [2016-04-7](/news/2016/04/7/index.md)
 
+##### Attacks on secularists in Bangladesh
 # Attackers in Bangladesh wielding machetes kill Nazimuddin Samad, a liberal blogger. 
 
 Attackers in Bangladesh wielding machetes killed a liberal blogger, police said on Thursday, the latest in series of murders of secular activists by suspected Islamist militants.

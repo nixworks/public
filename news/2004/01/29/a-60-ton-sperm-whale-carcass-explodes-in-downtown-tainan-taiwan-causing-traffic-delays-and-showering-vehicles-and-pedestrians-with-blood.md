@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/29/a-60-ton-sperm-whale-carcass-explodes-in-downtown-tainan-taiwan-causing-traffic-delays-and-showering-vehicles-and-pedestrians-with-blood.html)  [JSON](/news/2004/01/29/a-60-ton-sperm-whale-carcass-explodes-in-downtown-tainan-taiwan-causing-traffic-delays-and-showering-vehicles-and-pedestrians-with-blood.json)  [XML](/news/2004/01/29/a-60-ton-sperm-whale-carcass-explodes-in-downtown-tainan-taiwan-causing-traffic-delays-and-showering-vehicles-and-pedestrians-with-blood.xml)  
+
 ### [2004-01-29](/news/2004/01/29/index.md)
 
+##### sperm whale
 #  A 60-ton sperm whale carcass explodes in downtown Tainan, Taiwan, causing traffic delays and showering vehicles and pedestrians with blood and entrails.
 
 

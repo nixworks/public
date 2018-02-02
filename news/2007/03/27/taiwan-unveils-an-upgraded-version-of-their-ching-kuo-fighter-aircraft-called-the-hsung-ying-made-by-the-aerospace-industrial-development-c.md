@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/27/taiwan-unveils-an-upgraded-version-of-their-ching-kuo-fighter-aircraft-called-the-hsung-ying-made-by-the-aerospace-industrial-development-c.html)  [JSON](/news/2007/03/27/taiwan-unveils-an-upgraded-version-of-their-ching-kuo-fighter-aircraft-called-the-hsung-ying-made-by-the-aerospace-industrial-development-c.json)  [XML](/news/2007/03/27/taiwan-unveils-an-upgraded-version-of-their-ching-kuo-fighter-aircraft-called-the-hsung-ying-made-by-the-aerospace-industrial-development-c.xml)  
+
 ### [2007-03-27](/news/2007/03/27/index.md)
 
+##### Taiwan
 #  Taiwan unveils an upgraded version of their Ching-kuo fighter aircraft called the Hsung Ying made by the Aerospace Industrial Development Corporation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,10117,21460516-401,00.html)
 

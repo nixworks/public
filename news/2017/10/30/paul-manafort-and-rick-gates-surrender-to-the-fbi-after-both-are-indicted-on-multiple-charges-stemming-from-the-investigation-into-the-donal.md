@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/30/paul-manafort-and-rick-gates-surrender-to-the-f
 
 ### [2017-10-30](/news/2017/10/30/index.md)
 
+##### Special Counsel investigation
 # Paul Manafort and Rick Gates surrender to the FBI after both are indicted on multiple charges stemming from the investigation into the Donald Trump presidential campaign's possible associations with the Russian government. The two men--who respectively served as manager and deputy manager of the campaign from March to August 2016--are being charged on twelve counts, which include conspiracy against the U.S., money laundering and failing to register as foreign agents. 
 
 A timeline in the George Papadopoulos case.

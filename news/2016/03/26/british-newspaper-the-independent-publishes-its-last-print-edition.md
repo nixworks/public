@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/03/26/british-newspaper-the-independent-publishes-its-last-print-edition.html)  [JSON](/news/2016/03/26/british-newspaper-the-independent-publishes-its-last-print-edition.json)  [XML](/news/2016/03/26/british-newspaper-the-independent-publishes-its-last-print-edition.xml)  
+
 ### [2016-03-26](/news/2016/03/26/index.md)
 
+##### The Independent
 # British newspaper "The Independent" publishes its last print edition. 
 
 The Independent&#039;s owners announced last month it would cease to be printed as its circulation fell to just above 40,000.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/1667395/independent-newspaper-prints-final-edition)
 1. [Cover Image](http://e3.365dm.com/16/03/1600x900/indie-2-2048x1536_3437672.jpg?20160326115318)

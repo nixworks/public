@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/26/dr-kent-brantly-the-medical-director-for-samaritan-s-purse-in-liberia-tests-positive-for-the-virus.html)  [JSON](/news/2014/07/26/dr-kent-brantly-the-medical-director-for-samaritan-s-purse-in-liberia-tests-positive-for-the-virus.json)  [XML](/news/2014/07/26/dr-kent-brantly-the-medical-director-for-samaritan-s-purse-in-liberia-tests-positive-for-the-virus.xml)  
+
 ### [2014-07-26](/news/2014/07/26/index.md)
 
+##### Samaritan's Purse
 # Dr. Kent Brantly, the medical director for Samaritan's Purse in Liberia, tests positive for the virus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_EBOLA_AMERICAN_DOCTOR?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

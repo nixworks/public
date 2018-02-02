@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/30/thailand-s-ministry-of-foreign-affairs-says-it-
 
 ### [2017-09-30](/news/2017/09/30/index.md)
 
+##### Foreign relations of Thailand
 # Thailand's Ministry of Foreign Affairs says it is "closely following the situation" in Rakhine State and offers aid for the governments of Myanmar and Bangladesh. 
 
 

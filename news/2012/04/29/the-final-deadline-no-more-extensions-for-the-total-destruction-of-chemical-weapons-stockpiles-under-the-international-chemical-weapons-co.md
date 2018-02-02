@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/29/the-final-deadline-no-more-extensions-for-the-total-destruction-of-chemical-weapons-stockpiles-under-the-international-chemical-weapons-co.html)  [JSON](/news/2012/04/29/the-final-deadline-no-more-extensions-for-the-total-destruction-of-chemical-weapons-stockpiles-under-the-international-chemical-weapons-co.json)  [XML](/news/2012/04/29/the-final-deadline-no-more-extensions-for-the-total-destruction-of-chemical-weapons-stockpiles-under-the-international-chemical-weapons-co.xml)  
+
 ### [2012-04-29](/news/2012/04/29/index.md)
 
+##### chemical weapons
 # The final deadline (no more extensions) for the total destruction of chemical weapons stockpiles under the international Chemical Weapons Convention is reached. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/russia/20120429/173121387.html)
 

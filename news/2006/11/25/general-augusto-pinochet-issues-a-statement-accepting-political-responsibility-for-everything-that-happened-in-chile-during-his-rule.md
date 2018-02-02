@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/25/general-augusto-pinochet-issues-a-statement-accepting-political-responsibility-for-everything-that-happened-in-chile-during-his-rule.html)  [JSON](/news/2006/11/25/general-augusto-pinochet-issues-a-statement-accepting-political-responsibility-for-everything-that-happened-in-chile-during-his-rule.json)  [XML](/news/2006/11/25/general-augusto-pinochet-issues-a-statement-accepting-political-responsibility-for-everything-that-happened-in-chile-during-his-rule.xml)  
+
 ### [2006-11-25](/news/2006/11/25/index.md)
 
+##### Augusto Pinochet
 #  General Augusto Pinochet issues a statement accepting "political" responsibility for everything that happened in Chile during his rule. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6184696.stm)
 

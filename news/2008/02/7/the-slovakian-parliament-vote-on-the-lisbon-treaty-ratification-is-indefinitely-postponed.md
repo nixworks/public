@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/7/the-slovakian-parliament-vote-on-the-lisbon-treaty-ratification-is-indefinitely-postponed.html)  [JSON](/news/2008/02/7/the-slovakian-parliament-vote-on-the-lisbon-treaty-ratification-is-indefinitely-postponed.json)  [XML](/news/2008/02/7/the-slovakian-parliament-vote-on-the-lisbon-treaty-ratification-is-indefinitely-postponed.xml)  
+
 ### [2008-02-7](/news/2008/02/7/index.md)
 
+##### Slovakia
 #  The Slovakian Parliament vote on the Lisbon Treaty ratification is indefinitely postponed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SkToday.com](http://www.sktoday.com/content/1197_slovakia-039-s-vote-lisbon-treaty-ratification-postponed-indefinitely)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/21/the-death-toll-from-the-2011-sikkim-earthquake-rises-above-100.html)  [JSON](/news/2011/09/21/the-death-toll-from-the-2011-sikkim-earthquake-rises-above-100.json)  [XML](/news/2011/09/21/the-death-toll-from-the-2011-sikkim-earthquake-rises-above-100.xml)  
+
 ### [2011-09-21](/news/2011/09/21/index.md)
 
+##### 2011 Sikkim earthquake
 # The death toll from the 2011 Sikkim earthquake rises above 100. 
 
 THE death toll from a 6.9-magnitude quake that hit the India-Nepal border has risen to 98 and officials warn more bodies are likely to be found.
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/breaking-news/death-toll-in-india-quake-rises-to-98/story-e6frfku0-1226142722199)
 2. [Voice of America](http://blogs.voanews.com/breaking-news/2011/09/21/himalayan-quake-death-toll-passes-100/)

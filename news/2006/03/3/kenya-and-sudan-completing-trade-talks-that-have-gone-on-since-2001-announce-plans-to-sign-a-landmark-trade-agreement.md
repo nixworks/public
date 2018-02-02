@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2006/03/3/kenya-and-sudan-completing-trade-talks-that-have-gone-on-since-2001-announce-plans-to-sign-a-landmark-trade-agreement.html)  [JSON](/news/2006/03/3/kenya-and-sudan-completing-trade-talks-that-have-gone-on-since-2001-announce-plans-to-sign-a-landmark-trade-agreement.json)  [XML](/news/2006/03/3/kenya-and-sudan-completing-trade-talks-that-have-gone-on-since-2001-announce-plans-to-sign-a-landmark-trade-agreement.xml)  
+
 ### [2006-03-3](/news/2006/03/3/index.md)
 
+##### Kenya
 #  Kenya and Sudan, completing trade talks that have gone on since 2001, announce plans to sign a landmark trade agreement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200603030950.html)
-2. [Reuters](http://news.yahoo.com/s/ap/20060304/ap_on_re_af/kenya_food_shortages)
+2. [Reuters](https://news.yahoo.com/s/ap/20060304/ap_on_re_af/kenya_food_shortages)
 
 ### Related:
 

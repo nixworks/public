@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/27/twenty-nine-convicts-are-hanged-in-evin-prison-in-tehran-iran.html)  [JSON](/news/2008/07/27/twenty-nine-convicts-are-hanged-in-evin-prison-in-tehran-iran.json)  [XML](/news/2008/07/27/twenty-nine-convicts-are-hanged-in-evin-prison-in-tehran-iran.xml)  
+
 ### [2008-07-27](/news/2008/07/27/index.md)
 
+##### hanging
 #  Twenty-nine convicts are hanged in Evin Prison in Tehran, Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7527431.stm)
 

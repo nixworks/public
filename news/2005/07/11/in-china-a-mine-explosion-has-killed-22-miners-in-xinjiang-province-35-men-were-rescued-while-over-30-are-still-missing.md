@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/11/in-china-a-mine-explosion-has-killed-22-miners-in-xinjiang-province-35-men-were-rescued-while-over-30-are-still-missing.html)  [JSON](/news/2005/07/11/in-china-a-mine-explosion-has-killed-22-miners-in-xinjiang-province-35-men-were-rescued-while-over-30-are-still-missing.json)  [XML](/news/2005/07/11/in-china-a-mine-explosion-has-killed-22-miners-in-xinjiang-province-35-men-were-rescued-while-over-30-are-still-missing.xml)  
+
 ### [2005-07-11](/news/2005/07/11/index.md)
 
+##### mine explosion
 #  In China a mine explosion has killed 22 miners in Xinjiang province. 35 men were rescued while over 30 are still missing. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-07/11/content_459101.htm)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-11T035709Z_01_N10412179_RTRIDST_0_INTERNATIONAL-CHINA-MINE-DC.XML)

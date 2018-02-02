@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/1/eight-people-die-in-a-landmine-explosion-in-chhattisgarh-india.html)  [JSON](/news/2007/03/1/eight-people-die-in-a-landmine-explosion-in-chhattisgarh-india.json)  [XML](/news/2007/03/1/eight-people-die-in-a-landmine-explosion-in-chhattisgarh-india.xml)  
+
 ### [2007-03-1](/news/2007/03/1/index.md)
 
+##### landmine
 #  Eight people die in a landmine explosion in Chhattisgarh, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6406811.stm)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/02/25/a-suicide-bomber-in-rawalpindi-pakistan-kills-8-people-including-pakistan-s-surgeon-general-lieutenant-general-mushtaq-ahmed-baig.html)  [JSON](/news/2008/02/25/a-suicide-bomber-in-rawalpindi-pakistan-kills-8-people-including-pakistan-s-surgeon-general-lieutenant-general-mushtaq-ahmed-baig.json)  [XML](/news/2008/02/25/a-suicide-bomber-in-rawalpindi-pakistan-kills-8-people-including-pakistan-s-surgeon-general-lieutenant-general-mushtaq-ahmed-baig.xml)  
+
 ### [2008-02-25](/news/2008/02/25/index.md)
 
+##### suicide bombing
 #  A suicide bomber in Rawalpindi, Pakistan, kills 8 people including Pakistan's Surgeon General, Lieutenant General Mushtaq Ahmed Baig. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/02/25/AR2008022501906.html)
+1. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2008/02/25/AR2008022501906.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

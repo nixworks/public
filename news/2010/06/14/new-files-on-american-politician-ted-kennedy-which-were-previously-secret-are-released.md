@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/14/new-files-on-american-politician-ted-kennedy-which-were-previously-secret-are-released.html)  [JSON](/news/2010/06/14/new-files-on-american-politician-ted-kennedy-which-were-previously-secret-are-released.json)  [XML](/news/2010/06/14/new-files-on-american-politician-ted-kennedy-which-were-previously-secret-are-released.xml)  
+
 ### [2010-06-14](/news/2010/06/14/index.md)
 
+##### Ted Kennedy
 # New files on American politician Ted Kennedy, which were previously secret, are released. 
 
 Over 2,200 pages of previously secret files on the late Senator Edward Kennedy are released by the FBI.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10312283.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

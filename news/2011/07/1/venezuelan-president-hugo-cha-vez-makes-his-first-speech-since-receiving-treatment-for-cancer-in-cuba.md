@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/1/venezuelan-president-hugo-cha-vez-makes-his-first-speech-since-receiving-treatment-for-cancer-in-cuba.html)  [JSON](/news/2011/07/1/venezuelan-president-hugo-cha-vez-makes-his-first-speech-since-receiving-treatment-for-cancer-in-cuba.json)  [XML](/news/2011/07/1/venezuelan-president-hugo-cha-vez-makes-his-first-speech-since-receiving-treatment-for-cancer-in-cuba.xml)  
+
 ### [2011-07-1](/news/2011/07/1/index.md)
 
+##### Venezuela
 # Venezuelan president Hugo Chavez makes his first speech since receiving treatment for cancer in Cuba. 
 
 The left-wing Venezuelan President, Hugo Chavez, says he is willing to open up his political project to the middle classes and private sector.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-14351508)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54350000/jpg/_54350158_012553946-1.jpg)

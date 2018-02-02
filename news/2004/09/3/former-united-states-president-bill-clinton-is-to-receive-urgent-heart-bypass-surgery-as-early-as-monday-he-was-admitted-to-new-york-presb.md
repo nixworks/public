@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/3/former-united-states-president-bill-clinton-is-to-receive-urgent-heart-bypass-surgery-as-early-as-monday-he-was-admitted-to-new-york-presb.html)  [JSON](/news/2004/09/3/former-united-states-president-bill-clinton-is-to-receive-urgent-heart-bypass-surgery-as-early-as-monday-he-was-admitted-to-new-york-presb.json)  [XML](/news/2004/09/3/former-united-states-president-bill-clinton-is-to-receive-urgent-heart-bypass-surgery-as-early-as-monday-he-was-admitted-to-new-york-presb.xml)  
+
 ### [2004-09-3](/news/2004/09/3/index.md)
 
+##### U.S. President
 #  Former United States President Bill Clinton is to receive urgent heart bypass surgery as early as Monday. He was admitted to New York Presbyterian Hospital on Friday after an angiogram showed lesions in multiple coronary arteries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://apnews.myway.com/article/20040903/D84SANK01.html)
 2. [CNN](http://www.cnn.com/2004/ALLPOLITICS/09/03/clinton.tests/index.html)

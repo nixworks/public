@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/at-least-14-people-are-killed-during-a-prison-riot-in-matamoros-in-the-mexican-state-of-tamaulipas.html)  [JSON](/news/2010/08/6/at-least-14-people-are-killed-during-a-prison-riot-in-matamoros-in-the-mexican-state-of-tamaulipas.json)  [XML](/news/2010/08/6/at-least-14-people-are-killed-during-a-prison-riot-in-matamoros-in-the-mexican-state-of-tamaulipas.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Matamoros
 # At least 14 people are killed during a prison riot in Matamoros in the Mexican state of Tamaulipas. 
 
 Police in Mexico say that at least 14 prisoners have been killed in a jail riot in Matamoros, close to the US border.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10899898)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

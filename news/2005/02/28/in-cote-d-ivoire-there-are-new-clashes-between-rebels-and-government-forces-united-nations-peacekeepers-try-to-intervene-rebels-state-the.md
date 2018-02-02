@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2005/02/28/in-cote-d-ivoire-there-are-new-clashes-between-rebels-and-government-forces-united-nations-peacekeepers-try-to-intervene-rebels-state-the.html)  [JSON](/news/2005/02/28/in-cote-d-ivoire-there-are-new-clashes-between-rebels-and-government-forces-united-nations-peacekeepers-try-to-intervene-rebels-state-the.json)  [XML](/news/2005/02/28/in-cote-d-ivoire-there-are-new-clashes-between-rebels-and-government-forces-united-nations-peacekeepers-try-to-intervene-rebels-state-the.xml)  
+
 ### [2005-02-28](/news/2005/02/28/index.md)
 
+##### Cte d'Ivoire
 #  In Cte d'Ivoire there are new clashes between rebels and government forces. United Nations peacekeepers try to intervene. Rebels state the that peace effort is now finished 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4304745.stm)
 2. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:42234aee:7b715a75793c68a?type=topNews&localeKey=en_ZA&storyID=7760507)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7757372)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7757372)
 4. [SABC](http://www.sabcnews.com/africa/west_africa/0,2172,98957,00.html)
-4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

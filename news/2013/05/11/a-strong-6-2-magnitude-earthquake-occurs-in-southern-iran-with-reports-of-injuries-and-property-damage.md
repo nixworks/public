@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/11/a-strong-6-2-magnitude-earthquake-occurs-in-southern-iran-with-reports-of-injuries-and-property-damage.html)  [JSON](/news/2013/05/11/a-strong-6-2-magnitude-earthquake-occurs-in-southern-iran-with-reports-of-injuries-and-property-damage.json)  [XML](/news/2013/05/11/a-strong-6-2-magnitude-earthquake-occurs-in-southern-iran-with-reports-of-injuries-and-property-damage.xml)  
+
 ### [2013-05-11](/news/2013/05/11/index.md)
 
+##### earthquake
 # A strong 6.2 magnitude earthquake occurs in southern Iran with reports of injuries and property damage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via AsiaOne](http://www.asiaone.com/News/Latest%2BNews/World/Story/A1Story20130511-421854.html)
 1. [Cover Image](http://www.asiaone.com/A1MEDIA/news/05May13/20130511.131819_quake430tn.jpg)

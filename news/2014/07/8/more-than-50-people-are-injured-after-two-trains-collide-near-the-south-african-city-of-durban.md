@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/8/more-than-50-people-are-injured-after-two-trains-collide-near-the-south-african-city-of-durban.html)  [JSON](/news/2014/07/8/more-than-50-people-are-injured-after-two-trains-collide-near-the-south-african-city-of-durban.json)  [XML](/news/2014/07/8/more-than-50-people-are-injured-after-two-trains-collide-near-the-south-african-city-of-durban.xml)  
+
 ### [2014-07-8](/news/2014/07/8/index.md)
 
+##### South Africa
 # More than 50 people are injured after two trains collide near the South African city of Durban. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AF_SOUTH_AFRICA_TRAIN_COLLISION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

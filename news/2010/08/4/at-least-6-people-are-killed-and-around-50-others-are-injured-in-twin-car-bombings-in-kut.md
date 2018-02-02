@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/at-least-6-people-are-killed-and-around-50-others-are-injured-in-twin-car-bombings-in-kut.html)  [JSON](/news/2010/08/4/at-least-6-people-are-killed-and-around-50-others-are-injured-in-twin-car-bombings-in-kut.json)  [XML](/news/2010/08/4/at-least-6-people-are-killed-and-around-50-others-are-injured-in-twin-car-bombings-in-kut.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### Kut
 # At least 6 people are killed and around 50 others are injured in twin car bombings in Kut. 
 
 Twin car bombs kill six in southern Iraq, hours after attacks in Baghdad leave eight police officers dead, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10857251)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/10/official-results-for-the-26-november-general-election-confirm-john-key-s-national-party-holding-a-plurality-of-the-votes-and-seats-with-con.html)  [JSON](/news/2011/12/10/official-results-for-the-26-november-general-election-confirm-john-key-s-national-party-holding-a-plurality-of-the-votes-and-seats-with-con.json)  [XML](/news/2011/12/10/official-results-for-the-26-november-general-election-confirm-john-key-s-national-party-holding-a-plurality-of-the-votes-and-seats-with-con.xml)  
+
 ### [2011-12-10](/news/2011/12/10/index.md)
 
+##### John Key
 # Official results for the 26 November general election confirm John Key's National Party holding a plurality of the votes and seats. With confidence and supply agreements with ACT New Zealand and United Future confirmed, National forms a minority government with a one-seat majority, returning the Fifth National Government to a second term in office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TVNZ](http://tvnz.co.nz/election-2011/overwhelming-support-keep-mmp-4625676)
 2. [TVNZ](http://tvnz.co.nz/politics-news/paula-bennett-loses-waitakere-electorate-4623009)

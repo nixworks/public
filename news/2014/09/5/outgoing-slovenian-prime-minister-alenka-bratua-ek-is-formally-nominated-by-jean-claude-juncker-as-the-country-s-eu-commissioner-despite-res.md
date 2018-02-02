@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/5/outgoing-slovenian-prime-minister-alenka-bratua-ek-is-formally-nominated-by-jean-claude-juncker-as-the-country-s-eu-commissioner-despite-res.html)  [JSON](/news/2014/09/5/outgoing-slovenian-prime-minister-alenka-bratua-ek-is-formally-nominated-by-jean-claude-juncker-as-the-country-s-eu-commissioner-despite-res.json)  [XML](/news/2014/09/5/outgoing-slovenian-prime-minister-alenka-bratua-ek-is-formally-nominated-by-jean-claude-juncker-as-the-country-s-eu-commissioner-despite-res.xml)  
+
 ### [2014-09-5](/news/2014/09/5/index.md)
 
+##### Alenka Bratusek
 # Outgoing Slovenian prime minister Alenka Bratusek is formally nominated by Jean-Claude Juncker as the country's EU commissioner despite resistance from the prime minister-designate Miro Cerar, and according to several European media she is slated to become a Vice-President of the Commission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Slovenia Times](http://www.sloveniatimes.com/bratusek-formally-candidate-for-commissioner)
 

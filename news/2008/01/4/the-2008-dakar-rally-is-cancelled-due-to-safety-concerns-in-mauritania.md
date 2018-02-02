@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/4/the-2008-dakar-rally-is-cancelled-due-to-safety-concerns-in-mauritania.html)  [JSON](/news/2008/01/4/the-2008-dakar-rally-is-cancelled-due-to-safety-concerns-in-mauritania.json)  [XML](/news/2008/01/4/the-2008-dakar-rally-is-cancelled-due-to-safety-concerns-in-mauritania.xml)  
+
 ### [2008-01-4](/news/2008/01/4/index.md)
 
+##### 2008 Dakar Rally
 #  The 2008 Dakar Rally is cancelled due to safety concerns in Mauritania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jornal de Negócios](http://www.jornaldenegocios.pt/default.asp?Session=&CpContentId=308632)
 

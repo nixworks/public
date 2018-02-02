@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/1/indonesian-cleric-abu-bakar-ba-asyir-denies-any-involvement-in-the-2002-bali-bombings-and-the-marriott-hotel-attack-saying-that-the-bombin.html)  [JSON](/news/2005/02/1/indonesian-cleric-abu-bakar-ba-asyir-denies-any-involvement-in-the-2002-bali-bombings-and-the-marriott-hotel-attack-saying-that-the-bombin.json)  [XML](/news/2005/02/1/indonesian-cleric-abu-bakar-ba-asyir-denies-any-involvement-in-the-2002-bali-bombings-and-the-marriott-hotel-attack-saying-that-the-bombin.xml)  
+
 ### [2005-02-1](/news/2005/02/1/index.md)
 
+##### Indonesia
 #  Indonesian cleric Abu Bakar Ba'asyir denies any involvement in the 2002 Bali bombings and the Marriott Hotel attack, saying that the bombings were wrong. He also denies being a member of Jemaah Islamiah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4226005.stm)
 

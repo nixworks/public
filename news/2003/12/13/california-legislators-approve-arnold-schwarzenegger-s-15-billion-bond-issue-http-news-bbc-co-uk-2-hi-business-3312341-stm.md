@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/13/california-legislators-approve-arnold-schwarzenegger-s-15-billion-bond-issue-http-news-bbc-co-uk-2-hi-business-3312341-stm.html)  [JSON](/news/2003/12/13/california-legislators-approve-arnold-schwarzenegger-s-15-billion-bond-issue-http-news-bbc-co-uk-2-hi-business-3312341-stm.json)  [XML](/news/2003/12/13/california-legislators-approve-arnold-schwarzenegger-s-15-billion-bond-issue-http-news-bbc-co-uk-2-hi-business-3312341-stm.xml)  
+
 ### [2003-12-13](/news/2003/12/13/index.md)
 
+##### California
 #  California legislators approve Arnold Schwarzenegger's $15 billion bond issue.[http:--news.bbc.co.uk-2-hi-business-3312341.stm]
 
 

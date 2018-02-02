@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/15/seven-people-are-charged-with-public-order-offences-after-around-80-people-from-the-a-c-iraga-group-demonstrate-and-burn-effigies-in-an-anti.html)  [JSON](/news/2010/05/15/seven-people-are-charged-with-public-order-offences-after-around-80-people-from-the-a-c-iraga-group-demonstrate-and-burn-effigies-in-an-anti.json)  [XML](/news/2010/05/15/seven-people-are-charged-with-public-order-offences-after-around-80-people-from-the-a-c-iraga-group-demonstrate-and-burn-effigies-in-an-anti.xml)  
+
 ### [2010-05-15](/news/2010/05/15/index.md)
 
+##### eirigi
 # Seven people are charged with public order offences after around 80 people from the eirigi group demonstrate and burn effigies in an anti-NAMA fashion outside Anglo Irish Bank HQ in Dublin. 
 
 Seven people are to appear in court this evening following a protest outside the headquarters of Anglo Irish Bank in Dublin earlier&hellip;
 
 
-### Source:
+### Sources:
 
 1. [Evening Herald](http://www.herald.ie/national-news/city-news/protesters-hit-at-banks-with-rooftop-demo-2181611.html)
 2. [RTÉ](http://www.rte.ie/news/2010/0515/angloirish.html)

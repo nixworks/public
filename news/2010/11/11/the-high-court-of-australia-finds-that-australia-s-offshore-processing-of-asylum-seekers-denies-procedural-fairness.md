@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/11/the-high-court-of-australia-finds-that-australia-s-offshore-processing-of-asylum-seekers-denies-procedural-fairness.html)  [JSON](/news/2010/11/11/the-high-court-of-australia-finds-that-australia-s-offshore-processing-of-asylum-seekers-denies-procedural-fairness.json)  [XML](/news/2010/11/11/the-high-court-of-australia-finds-that-australia-s-offshore-processing-of-asylum-seekers-denies-procedural-fairness.xml)  
+
 ### [2010-11-11](/news/2010/11/11/index.md)
 
+##### High Court of Australia
 # The High Court of Australia finds that Australia's offshore processing of asylum seekers denies procedural fairness. 
 
 The High Court has ruled that two Sri Lankan boat arrivals were denied &#034;procedural fairness&#034; in the review of their rejected refugee status claims.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/national/court-casts-doubts-over-legality-of-offshore-processing-of-asylum-seekers-20101111-17o9g.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/v/2/5/t/image.related.thumbnail.320x214.17o9g.png/1312094657167.jpg)

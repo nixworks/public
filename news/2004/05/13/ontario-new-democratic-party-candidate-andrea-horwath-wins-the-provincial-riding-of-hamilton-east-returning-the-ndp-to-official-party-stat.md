@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/05/13/ontario-new-democratic-party-candidate-andrea-horwath-wins-the-provincial-riding-of-hamilton-east-returning-the-ndp-to-official-party-stat.html)  [JSON](/news/2004/05/13/ontario-new-democratic-party-candidate-andrea-horwath-wins-the-provincial-riding-of-hamilton-east-returning-the-ndp-to-official-party-stat.json)  [XML](/news/2004/05/13/ontario-new-democratic-party-candidate-andrea-horwath-wins-the-provincial-riding-of-hamilton-east-returning-the-ndp-to-official-party-stat.xml)  
+
 ### [2004-05-13](/news/2004/05/13/index.md)
 
+##### Ontario New Democratic Party
 #  Ontario New Democratic Party candidate Andrea Horwath wins the provincial riding of Hamilton East, returning the NDP to official party status in the Ontario Legislature. The by-election was held to replace Liberal MPP Dominic Agostino, who had died in office.
 
 

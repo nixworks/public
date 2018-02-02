@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/5/voters-in-the-republic-of-macedonia-go-to-the-polls-for-parliamentary-elections.html)  [JSON](/news/2011/06/5/voters-in-the-republic-of-macedonia-go-to-the-polls-for-parliamentary-elections.json)  [XML](/news/2011/06/5/voters-in-the-republic-of-macedonia-go-to-the-polls-for-parliamentary-elections.xml)  
+
 ### [2011-06-5](/news/2011/06/5/index.md)
 
+##### Macedonian
 # Voters in the Republic of Macedonia go to the polls for parliamentary elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Manilla Bulletin](http://www.mb.com.ph/articles/321327/eyeing-eu-macedonia-votes-snap-polls)
 

@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2005/03/24/the-us-supreme-court-declines-to-hear-the-appeal-filed-by-the-parents-of-terri-schiavo-to-have-her-feeding-tube-reinserted-florida-judge-g.html)  [JSON](/news/2005/03/24/the-us-supreme-court-declines-to-hear-the-appeal-filed-by-the-parents-of-terri-schiavo-to-have-her-feeding-tube-reinserted-florida-judge-g.json)  [XML](/news/2005/03/24/the-us-supreme-court-declines-to-hear-the-appeal-filed-by-the-parents-of-terri-schiavo-to-have-her-feeding-tube-reinserted-florida-judge-g.xml)  
+
 ### [2005-03-24](/news/2005/03/24/index.md)
 
+##### US Supreme Court
 #  The US Supreme Court declines to hear the appeal filed by the parents of Terri Schiavo to have her feeding tube reinserted. Florida judge George Greer likewise declines to open Schiavo's records to the Florida Department of Children and Families 
 
-Get the latest breaking news and top news headlines at Reuters.com
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7980989)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7980989)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/swaziland-s-justice-minister-and-senator-ndumiso-mamba-resigns-from-both-positions-over-allegations-of-an-affair-with-a-wife-of-king-mswati.html)  [JSON](/news/2010/08/6/swaziland-s-justice-minister-and-senator-ndumiso-mamba-resigns-from-both-positions-over-allegations-of-an-affair-with-a-wife-of-king-mswati.json)  [XML](/news/2010/08/6/swaziland-s-justice-minister-and-senator-ndumiso-mamba-resigns-from-both-positions-over-allegations-of-an-affair-with-a-wife-of-king-mswati.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Swaziland
 # Swaziland's justice minister and senator Ndumiso Mamba resigns from both positions over allegations of an affair with a wife of King Mswati III; the wife has denied the allegations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10898418)
 2. [IOL](http://www.iol.co.za/index.php?from=rss_Southern&set_id=1&click_id=84&art_id=nw20100805222451597C322528)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-swimmers
 
 ### [2018-01-18](/news/2018/01/18/index.md)
 
+##### Lennox Head, New South Wales
 # In a world's first, a drone rescues two swimmers off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. 
 
 A pair of Australian swimmers on Thursday became the first people to be rescued in the ocean by a drone when the aerial lifesaver dropped an safety device to distressed teens caught in rough seas.

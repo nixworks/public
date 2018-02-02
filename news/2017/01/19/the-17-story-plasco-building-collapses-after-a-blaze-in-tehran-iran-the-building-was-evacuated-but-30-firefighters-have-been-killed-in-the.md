@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/19/the-17-story-plasco-building-collapses-after-a-
 
 ### [2017-01-19](/news/2017/01/19/index.md)
 
+##### Plasco Building
 # The 17-story Plasco Building collapses after a blaze in Tehran, Iran. The building was evacuated but 30 firefighters have been killed in the collapse. 
 
 The 17-story Plasco building in central Tehran has collapsed after a fire engulfed its top floors. Although the building was evacuated, dozens of emergency responders are feared trapped under the rubble.

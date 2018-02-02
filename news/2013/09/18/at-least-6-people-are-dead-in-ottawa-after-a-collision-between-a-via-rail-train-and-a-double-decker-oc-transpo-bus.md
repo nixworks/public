@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/18/at-least-6-people-are-dead-in-ottawa-after-a-collision-between-a-via-rail-train-and-a-double-decker-oc-transpo-bus.html)  [JSON](/news/2013/09/18/at-least-6-people-are-dead-in-ottawa-after-a-collision-between-a-via-rail-train-and-a-double-decker-oc-transpo-bus.json)  [XML](/news/2013/09/18/at-least-6-people-are-dead-in-ottawa-after-a-collision-between-a-via-rail-train-and-a-double-decker-oc-transpo-bus.xml)  
+
 ### [2013-09-18](/news/2013/09/18/index.md)
 
+##### Ottawa
 # At least 6 people are dead in Ottawa after a collision between a Via Rail train and a double-decker OC Transpo bus. 
 
 An Ottawa city bus slammed into a Via Rail train at a level crossing during Wednesday&rsquo;s morning commute, leaving six people dead and dozens injured.
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://ottawa.ctvnews.ca/via-train-and-city-bus-crash-at-least-5-dead-officials-1.1459791)
 1. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.1461003.1379588787!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)

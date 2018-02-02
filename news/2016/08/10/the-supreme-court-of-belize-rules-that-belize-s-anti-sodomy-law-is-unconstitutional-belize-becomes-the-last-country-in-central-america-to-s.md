@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/10/the-supreme-court-of-belize-rules-that-belize-s
 
 ### [2016-08-10](/news/2016/08/10/index.md)
 
+##### Supreme Court of Belize
 # The Supreme Court of Belize rules that Belize's anti-sodomy law is unconstitutional. Belize becomes the last country in Central America to strike down its sodomy law. 
 
 A law in Belize criminalizing same-sex intimacy was ruled unconstitutional on Wednesday by the country&#x27;s Supreme Court.

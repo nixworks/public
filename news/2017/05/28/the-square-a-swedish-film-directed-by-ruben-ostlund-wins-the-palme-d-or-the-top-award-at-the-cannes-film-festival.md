@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/28/the-square-a-swedish-film-directed-by-ruben-ost
 
 ### [2017-05-28](/news/2017/05/28/index.md)
 
+##### ''The Square''
 # "The Square", a Swedish film directed by Ruben stlund, wins the "Palme d'Or", the top award at the Cannes Film Festival. 
 
 &quot;The Square&quot;, a Swedish movie about the curator of a museum filled with grotesquely pretentious conceptual art, beat stiff competition to win the top prize at the Cannes Film Festival on Sunday.

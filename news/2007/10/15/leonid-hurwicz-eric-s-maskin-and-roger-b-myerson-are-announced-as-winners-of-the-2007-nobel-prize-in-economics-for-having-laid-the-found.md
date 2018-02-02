@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/15/leonid-hurwicz-eric-s-maskin-and-roger-b-myerson-are-announced-as-winners-of-the-2007-nobel-prize-in-economics-for-having-laid-the-found.html)  [JSON](/news/2007/10/15/leonid-hurwicz-eric-s-maskin-and-roger-b-myerson-are-announced-as-winners-of-the-2007-nobel-prize-in-economics-for-having-laid-the-found.json)  [XML](/news/2007/10/15/leonid-hurwicz-eric-s-maskin-and-roger-b-myerson-are-announced-as-winners-of-the-2007-nobel-prize-in-economics-for-having-laid-the-found.xml)  
+
 ### [2007-10-15](/news/2007/10/15/index.md)
 
+##### Leonid Hurwicz
 #  Leonid Hurwicz, Eric S. Maskin and Roger B. Myerson are announced as winners of the 2007 Nobel Prize in Economics for having laid the foundations of mechanism design theory. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nobelprize.org](http://nobelprize.org/nobel_prizes/economics/laureates/2007/)
 

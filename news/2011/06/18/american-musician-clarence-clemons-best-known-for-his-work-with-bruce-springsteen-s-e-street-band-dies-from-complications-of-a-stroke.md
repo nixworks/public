@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/18/american-musician-clarence-clemons-best-known-for-his-work-with-bruce-springsteen-s-e-street-band-dies-from-complications-of-a-stroke.html)  [JSON](/news/2011/06/18/american-musician-clarence-clemons-best-known-for-his-work-with-bruce-springsteen-s-e-street-band-dies-from-complications-of-a-stroke.json)  [XML](/news/2011/06/18/american-musician-clarence-clemons-best-known-for-his-work-with-bruce-springsteen-s-e-street-band-dies-from-complications-of-a-stroke.xml)  
+
 ### [2011-06-18](/news/2011/06/18/index.md)
 
+##### Clarence Clemons
 # American musician Clarence Clemons, best known for his work with Bruce Springsteen's E Street Band, dies from complications of a stroke. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bruce Springsteen](http://www.brucespringsteen.net/news/index.html)
 

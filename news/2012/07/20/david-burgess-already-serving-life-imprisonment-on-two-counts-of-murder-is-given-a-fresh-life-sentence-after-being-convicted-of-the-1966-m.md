@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/20/david-burgess-already-serving-life-imprisonment-on-two-counts-of-murder-is-given-a-fresh-life-sentence-after-being-convicted-of-the-1966-m.html)  [JSON](/news/2012/07/20/david-burgess-already-serving-life-imprisonment-on-two-counts-of-murder-is-given-a-fresh-life-sentence-after-being-convicted-of-the-1966-m.json)  [XML](/news/2012/07/20/david-burgess-already-serving-life-imprisonment-on-two-counts-of-murder-is-given-a-fresh-life-sentence-after-being-convicted-of-the-1966-m.xml)  
+
 ### [2012-07-20](/news/2012/07/20/index.md)
 
+##### Berkshire
 # David Burgess, already serving life imprisonment on two counts of murder, is given a fresh life sentence after being convicted of the 1966 murder of Yolande Waddington, a nanny from Berkshire, England. 
 
 A convicted child killer is found guilty of the murder of a teenager in Berkshire 46 years ago.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-berkshire-18861198)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61246000/jpg/_61246234_yolandewaddingtonschoolphoto.jpg)

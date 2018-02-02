@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/30/indian-police-accuse-pakistan-s-security-and-intelligence-service-the-isi-of-masterminding-the-mumbai-train-bombings-in-july-carried-out.html)  [JSON](/news/2006/09/30/indian-police-accuse-pakistan-s-security-and-intelligence-service-the-isi-of-masterminding-the-mumbai-train-bombings-in-july-carried-out.json)  [XML](/news/2006/09/30/indian-police-accuse-pakistan-s-security-and-intelligence-service-the-isi-of-masterminding-the-mumbai-train-bombings-in-july-carried-out.xml)  
+
 ### [2006-09-30](/news/2006/09/30/index.md)
 
+##### India
 #  Indian police accuse Pakistan's security and intelligence service, the ISI, of masterminding the Mumbai train bombings in July, carried out by militant group Lashkar-e-Taiba, which killed nearly 200 people. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/news/181_1809909,001302390000.htm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-30T152848Z_01_DEL12798_RTRUKOC_0_US-INDIA-BLASTS.xml&WTmodLoc=Home-C2-TopNews-newsOne-5)
@@ -17,4 +21,4 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 2. [India's Home Secretary G. K. Pillai states Pakistan's intelligence agency Inter-Services Intelligence (ISI) co-ordinated the 2008 Mumbai attacks. ](/news/2010/07/14/india-s-home-secretary-g-k-pillai-states-pakistan-s-intelligence-agency-inter-services-intelligence-isi-co-ordinated-the-2008-mumbai-att.md) _Context: India, Inter-Services Intelligence, Pakistan_
 3. [Pakistan releases Indian fishermen caught in its territory as a gesture of goodwill. ](/news/2016/12/25/pakistan-releases-indian-fishermen-caught-in-its-territory-as-a-gesture-of-goodwill.md) _Context: India, Pakistan_
 4. [Pakistan appoints Lt. Gen. Naveed Mukhtar as the new head of the Inter-Services Intelligence. ](/news/2016/12/12/pakistan-appoints-lt-gen-naveed-mukhtar-as-the-new-head-of-the-inter-services-intelligence.md) _Context: Inter-Services Intelligence, Pakistan_
-5. [Pakistan accuses eight Indian diplomats of espionage and terrorism amid rising tensions concerning Kashmir. India says it rejects these allegations. The six Pakistani diplomats withdrawn from India last week were reported to have been accused of spying. ](/news/2016/11/3/pakistan-accuses-eight-indian-diplomats-of-espionage-and-terrorism-amid-rising-tensions-concerning-kashmir-india-says-it-rejects-these-alle.md) _Context: India, Pakistan_
+5. [Pakistan accuses eight Indian diplomats of espionage and terrorism amid rising tensions concerning Kashmir. India said it rejects these allegations. The six Pakistani diplomats withdrawn from India last week were reported to have been accused of spying. ](/news/2016/11/3/pakistan-accuses-eight-indian-diplomats-of-espionage-and-terrorism-amid-rising-tensions-concerning-kashmir-india-said-it-rejects-these-alle.md) _Context: India, Pakistan_

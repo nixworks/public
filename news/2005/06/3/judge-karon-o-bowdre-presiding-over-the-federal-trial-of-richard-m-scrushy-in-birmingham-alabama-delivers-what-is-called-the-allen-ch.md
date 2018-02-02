@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2005/06/3/judge-karon-o-bowdre-presiding-over-the-federal-trial-of-richard-m-scrushy-in-birmingham-alabama-delivers-what-is-called-the-allen-ch.html)  [JSON](/news/2005/06/3/judge-karon-o-bowdre-presiding-over-the-federal-trial-of-richard-m-scrushy-in-birmingham-alabama-delivers-what-is-called-the-allen-ch.json)  [XML](/news/2005/06/3/judge-karon-o-bowdre-presiding-over-the-federal-trial-of-richard-m-scrushy-in-birmingham-alabama-delivers-what-is-called-the-allen-ch.xml)  
+
 ### [2005-06-3](/news/2005/06/3/index.md)
 
+##### Karon O. Bowdre
 #  Judge Karon O. Bowdre, presiding over the federal trial of Richard M. Scrushy in Birmingham, Alabama, delivers what is called the "Allen charge" to the jury in that case, in the hope of breaking its deadlock and producing a verdict. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NY Times](http://www.nytimes.com/2005/06/04/business/04scrushy.html?)
+1. [NY Times](https://www.nytimes.com/2005/06/04/business/04scrushy.html?)
+
+### Changes:
+
+1. [ Judge Karon O. Bowdre, presiding over the federal trial of Richard M. Scrushy in Birmingham, Alabama, delivers what is called the ''Allen charge'' to the jury in that case, in the hope of breaking its deadlock and producing a verdict. ](/news/2005/06/3/judge-karon-o-bowdre-presiding-over-the-federal-trial-of-richard-m-scrushy-in-birmingham-alabama-delivers-what-is-called-the-allen-c.md) _2017-08-25 03:16:19 (First version)_
+1. [ Judge Karon O. Bowdre, presiding over the federal trial of Richard M. Scrushy in Birmingham, Alabama, delivers what is called the "Allen charge" to the jury in that case, in the hope of breaking its deadlock and producing a verdict. ](/news/2005/06/3/judge-karon-o-bowdre-presiding-over-the-federal-trial-of-richard-m-scrushy-in-birmingham-alabama-delivers-what-is-called-the-allen-ch.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [An Uzbek man Ulugbek Kodirov pleads guilty to plotting with the Islamic Movement of Uzbekistan to assassinate President of the United States Barack Obama in a hearing in Birmingham, Alabama. ](/news/2012/02/10/an-uzbek-man-ulugbek-kodirov-pleads-guilty-to-plotting-with-the-islamic-movement-of-uzbekistan-to-assassinate-president-of-the-united-states.md) _Context: Birmingham_
 4. [Birmingham-Shuttlesworth International Airport in the US city of Birmingham, Alabama is evacuated following the discovery of a suspicious package. ](/news/2011/02/27/birminghamashuttlesworth-international-airport-in-the-us-city-of-birmingham-alabama-is-evacuated-following-the-discovery-of-a-suspicious.md) _Context: Birmingham_
 5. [ A federal jury in Birmingham, Alabama acquits Richard Scrushy, the former chief executive of HealthSouth, of all criminal charges arising out of the $2.7 billion in accounting fraud at that company.](/news/2005/06/28/a-federal-jury-in-birmingham-alabama-acquits-richard-scrushy-the-former-chief-executive-of-healthsouth-of-all-criminal-charges-arising-o.md) _Context: Birmingham_
-
-### Changes:
-
-1. [ Judge Karon O. Bowdre, presiding over the federal trial of Richard M. Scrushy in Birmingham, Alabama, delivers what is called the ''Allen charge'' to the jury in that case, in the hope of breaking its deadlock and producing a verdict. ](/news/2005/06/3/judge-karon-o-bowdre-presiding-over-the-federal-trial-of-richard-m-scrushy-in-birmingham-alabama-delivers-what-is-called-the-allen-c.md) _2017-08-25 03:16:19 (First version)_
-1. [ Judge Karon O. Bowdre, presiding over the federal trial of Richard M. Scrushy in Birmingham, Alabama, delivers what is called the "Allen charge" to the jury in that case, in the hope of breaking its deadlock and producing a verdict. ](/news/2005/06/3/judge-karon-o-bowdre-presiding-over-the-federal-trial-of-richard-m-scrushy-in-birmingham-alabama-delivers-what-is-called-the-allen-ch.md) _(Current version)_

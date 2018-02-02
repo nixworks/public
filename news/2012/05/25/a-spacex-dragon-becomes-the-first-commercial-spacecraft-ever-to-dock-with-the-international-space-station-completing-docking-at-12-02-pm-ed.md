@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/25/a-spacex-dragon-becomes-the-first-commercial-spacecraft-ever-to-dock-with-the-international-space-station-completing-docking-at-12-02-pm-ed.html)  [JSON](/news/2012/05/25/a-spacex-dragon-becomes-the-first-commercial-spacecraft-ever-to-dock-with-the-international-space-station-completing-docking-at-12-02-pm-ed.json)  [XML](/news/2012/05/25/a-spacex-dragon-becomes-the-first-commercial-spacecraft-ever-to-dock-with-the-international-space-station-completing-docking-at-12-02-pm-ed.xml)  
+
 ### [2012-05-25](/news/2012/05/25/index.md)
 
+##### SpaceX
 # A SpaceX Dragon becomes the first commercial spacecraft ever to dock with the International Space Station, completing docking at 12:02 pm EDT (16:02 UTC). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/05/25/us/spacex/index.html?hpt=hp_t2)
 

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2011/06/13/2011-zengcheng-riot-police-in-xintang-town-zengcheng-guangzhou-area-guangdong-fire-tear-gas-and-use-armoured-vehicles-on-workers-inclu.html)  [JSON](/news/2011/06/13/2011-zengcheng-riot-police-in-xintang-town-zengcheng-guangzhou-area-guangdong-fire-tear-gas-and-use-armoured-vehicles-on-workers-inclu.json)  [XML](/news/2011/06/13/2011-zengcheng-riot-police-in-xintang-town-zengcheng-guangzhou-area-guangdong-fire-tear-gas-and-use-armoured-vehicles-on-workers-inclu.xml)  
+
 ### [2011-06-13](/news/2011/06/13/index.md)
 
+##### 2011 Zengcheng riot
 # 2011 Zengcheng riot: Police in Xintang Town, Zengcheng, Guangzhou area, Guangdong, fire tear gas and use armoured vehicles on workers, including Sichuan migrant workers protesting what they consider the abuse of a pregnant Sichuanese colleague by security guards, after protesters flipped over and burned police vehicles. 
 
 Hundreds of Chinese migrant workers clash with police for a third consecutive night over the alleged mistreatment of a pregnant street vendor.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13746989)
 2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/la-fg-china-riot-pictures,0,4800764.photogallery)
 3. [China Daily](http://www.chinadaily.com.cn/cndy/2011-06/13/content_12679447.htm)
-4. [Reuters](http://www.reuters.com/article/2011/06/13/us-china-labour-unrest-idUSTRE75C0KM20110613)
+4. [Reuters](https://www.reuters.com/article/2011/06/13/us-china-labour-unrest-idUSTRE75C0KM20110613)
 5. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jBOAsw4XxYXQ4jVlyITeHQgWhoLw)
 5. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53376000/jpg/_53376566_012210411-1.jpg)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/27/the-government-of-austria-passes-a-new-law-that
 
 ### [2016-04-27](/news/2016/04/27/index.md)
 
+##### European migrant crisis
 # The government of Austria passes a new law that restricts the right of asylum in the country and allows claimants to be rejected directly at the border, a move criticized by rights groups. Officials say they are also considering building a fence at the main border crossing with Italy at the Brenner Pass. 
 
 The Austrian parliament passes a controversial new law restricting asylum rights and allowing most claimants to be rejected directly at the border.

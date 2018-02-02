@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/11/australian-opera-singer-dame-joan-sutherland-dies-in-switzerland-after-a-lengthy-illness.html)  [JSON](/news/2010/10/11/australian-opera-singer-dame-joan-sutherland-dies-in-switzerland-after-a-lengthy-illness.json)  [XML](/news/2010/10/11/australian-opera-singer-dame-joan-sutherland-dies-in-switzerland-after-a-lengthy-illness.xml)  
+
 ### [2010-10-11](/news/2010/10/11/index.md)
 
+##### Australia
 # Australian opera singer Dame Joan Sutherland dies in Switzerland after a lengthy illness. 
 
 SHE was a transcendental performer who had a magic quality that held audiences captive right around the world. Her influence extended well beyond the opera world and reached into popular culture.
 
 
-### Source:
+### Sources:
 
 1. [Swissinfo.ch](http://www.swissinfo.ch/eng/news_digest/Joan_Sutherland_dies_in_Geneva.html?cid=28520392)
 2. [Sydney Morning Herald](http://www.smh.com.au/entertainment/opera/the-voice-of-a-century-dead-at-83-20101012-16g8q.html)
@@ -13,8 +17,8 @@ SHE was a transcendental performer who had a magic quality that held audiences c
 
 ### Related:
 
-1. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
-2. [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md) _Context: Australia_
-3. [Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. ](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station-in-the-canton-of-uri-switzerland-injuring-around-30-people.md) _Context: Switzerland_
-4. [The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-qu.md) _Context: Australia_
-5. [Searches are underway for three members of the United States Marine Corps missing after a MV-22 Osprey crashed off the coast of the Australian state of Queensland. Twenty three of the twenty six people on board have been rescued. ](/news/2017/08/5/searches-are-underway-for-three-members-of-the-united-states-marine-corps-missing-after-a-mv-22-osprey-crashed-off-the-coast-of-the-australi.md) _Context: Australia_
+1. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_
+2. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: Switzerland_
+3. [Various billionaires, world leaders, and investors gather in Davos, Switzerland to discuss economic issues. ](/news/2018/01/23/various-billionaires-world-leaders-and-investors-gather-in-davos-switzerland-to-discuss-economic-issues.md) _Context: Switzerland_
+4. [In a world's first, a drone rescues two swimmers off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-swimmers-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-t.md) _Context: Australia_
+5. [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md) _Context: Australia_

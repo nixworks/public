@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/5/typhoon-chaba-heads-for-western-japan-with-the-i
 
 ### [2016-10-5](/news/2016/10/5/index.md)
 
+##### 2016 Pacific typhoon season
 # Typhoon Chaba heads for western Japan with the islands of Shikoku and Kyushu experiencing heavy rainfall. 
 
 At least three people have been killed as Typhoon Chaba batters South Korea.

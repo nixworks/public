@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/17/sir-john-stevens-releases-the-stevens-report-which-states-that-the-police-and-other-security-services-in-northern-ireland-colluded-in-the.html)  [JSON](/news/2003/04/17/sir-john-stevens-releases-the-stevens-report-which-states-that-the-police-and-other-security-services-in-northern-ireland-colluded-in-the.json)  [XML](/news/2003/04/17/sir-john-stevens-releases-the-stevens-report-which-states-that-the-police-and-other-security-services-in-northern-ireland-colluded-in-the.xml)  
+
 ### [2003-04-17](/news/2003/04/17/index.md)
 
+##### John Stevens
 #  Sir John Stevens releases the Stevens Report, which states that the police and other security services in Northern Ireland colluded in the murders of many innocent people, including Pat Finucane and Francisco Notarantonio, in the 1970s and 1980s.
 
 

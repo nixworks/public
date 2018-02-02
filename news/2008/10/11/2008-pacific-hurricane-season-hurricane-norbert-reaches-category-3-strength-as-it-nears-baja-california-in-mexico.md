@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/11/2008-pacific-hurricane-season-hurricane-norbert-reaches-category-3-strength-as-it-nears-baja-california-in-mexico.html)  [JSON](/news/2008/10/11/2008-pacific-hurricane-season-hurricane-norbert-reaches-category-3-strength-as-it-nears-baja-california-in-mexico.json)  [XML](/news/2008/10/11/2008-pacific-hurricane-season-hurricane-norbert-reaches-category-3-strength-as-it-nears-baja-california-in-mexico.xml)  
+
 ### [2008-10-11](/news/2008/10/11/index.md)
 
+##### 2008 Pacific hurricane season
 #  2008 Pacific hurricane season: Hurricane Norbert reaches Category 3 strength as it nears Baja California in Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press via Google News](http://canadianpress.google.com/article/ALeqM5inmwUSNfmAtJ0wIQ5FJx89-3gPBA)
 

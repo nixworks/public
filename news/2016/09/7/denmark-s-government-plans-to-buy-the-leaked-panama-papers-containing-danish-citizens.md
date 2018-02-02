@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/7/denmark-s-government-plans-to-buy-the-leaked-pan
 
 ### [2016-09-7](/news/2016/09/7/index.md)
 
+##### Denmark
 # Denmark's government plans to buy the leaked Panama Papers containing Danish citizens. 
 
 The Danish tax minister announces plans to buy data leaked from the law firm at the heart of the Panama Papers scandal, in order to battle tax evasion.

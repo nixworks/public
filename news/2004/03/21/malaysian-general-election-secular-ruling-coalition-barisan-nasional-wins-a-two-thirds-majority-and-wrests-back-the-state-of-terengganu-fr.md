@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/21/malaysian-general-election-secular-ruling-coalition-barisan-nasional-wins-a-two-thirds-majority-and-wrests-back-the-state-of-terengganu-fr.html)  [JSON](/news/2004/03/21/malaysian-general-election-secular-ruling-coalition-barisan-nasional-wins-a-two-thirds-majority-and-wrests-back-the-state-of-terengganu-fr.json)  [XML](/news/2004/03/21/malaysian-general-election-secular-ruling-coalition-barisan-nasional-wins-a-two-thirds-majority-and-wrests-back-the-state-of-terengganu-fr.xml)  
+
 ### [2004-03-21](/news/2004/03/21/index.md)
 
+##### Malaysian general election
 #  Malaysian general election: Secular ruling coalition Barisan Nasional wins a two-thirds majority and wrests back the state of Terengganu from Islamist party PAS. A recount is pending for the closely contested state of Kelantan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Malaysiakini](http://www2.malaysiakini.com/splash/index.php)
 

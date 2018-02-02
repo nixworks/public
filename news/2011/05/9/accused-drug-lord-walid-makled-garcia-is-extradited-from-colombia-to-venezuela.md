@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/9/accused-drug-lord-walid-makled-garcia-is-extradited-from-colombia-to-venezuela.html)  [JSON](/news/2011/05/9/accused-drug-lord-walid-makled-garcia-is-extradited-from-colombia-to-venezuela.json)  [XML](/news/2011/05/9/accused-drug-lord-walid-makled-garcia-is-extradited-from-colombia-to-venezuela.xml)  
+
 ### [2011-05-9](/news/2011/05/9/index.md)
 
+##### Walid Makled Garcia
 # Accused drug lord Walid Makled Garcia is extradited from Colombia to Venezuela. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/americas/05/09/venezuela.colombia.extradition/index.html)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/americas/05/09/venezuela.colombia.extradition/tzvids.walid.makled.gi.jpg)

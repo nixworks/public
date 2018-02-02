@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/2/a-massive-search-operation-continues-amid-severe-weather-conditions-for-the-helicopter-of-arunachal-pradesh-s-chief-minister-dorjee-khandu-w.html)  [JSON](/news/2011/05/2/a-massive-search-operation-continues-amid-severe-weather-conditions-for-the-helicopter-of-arunachal-pradesh-s-chief-minister-dorjee-khandu-w.json)  [XML](/news/2011/05/2/a-massive-search-operation-continues-amid-severe-weather-conditions-for-the-helicopter-of-arunachal-pradesh-s-chief-minister-dorjee-khandu-w.xml)  
+
 ### [2011-05-2](/news/2011/05/2/index.md)
 
+##### Arunachal Pradesh
 # A massive search operation continues amid severe weather conditions for the helicopter of Arunachal Pradesh's chief minister Dorjee Khandu which disappeared while carrying him and four other people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13257033)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52448000/jpg/_52448018_dorjeekhanduafp464.jpg)

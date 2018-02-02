@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/17/china-has-made-rules-which-were-introduced-for-the-olympic-games-allowing-foreign-reporters-to-interview-without-applying-for-permission-pe.html)  [JSON](/news/2008/10/17/china-has-made-rules-which-were-introduced-for-the-olympic-games-allowing-foreign-reporters-to-interview-without-applying-for-permission-pe.json)  [XML](/news/2008/10/17/china-has-made-rules-which-were-introduced-for-the-olympic-games-allowing-foreign-reporters-to-interview-without-applying-for-permission-pe.xml)  
+
 ### [2008-10-17](/news/2008/10/17/index.md)
 
+##### China
 #  China has made rules which were introduced for the Olympic Games allowing foreign reporters to interview without applying for permission permanent. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/7675306.stm)
 

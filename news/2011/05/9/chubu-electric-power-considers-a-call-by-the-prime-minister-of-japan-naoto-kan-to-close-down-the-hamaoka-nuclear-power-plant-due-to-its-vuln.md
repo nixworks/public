@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/05/9/chubu-electric-power-considers-a-call-by-the-prime-minister-of-japan-naoto-kan-to-close-down-the-hamaoka-nuclear-power-plant-due-to-its-vuln.html)  [JSON](/news/2011/05/9/chubu-electric-power-considers-a-call-by-the-prime-minister-of-japan-naoto-kan-to-close-down-the-hamaoka-nuclear-power-plant-due-to-its-vuln.json)  [XML](/news/2011/05/9/chubu-electric-power-considers-a-call-by-the-prime-minister-of-japan-naoto-kan-to-close-down-the-hamaoka-nuclear-power-plant-due-to-its-vuln.xml)  
+
 ### [2011-05-9](/news/2011/05/9/index.md)
 
+##### Chubu Electric Power
 # Chubu Electric Power considers a call by the Prime Minister of Japan Naoto Kan to close down the Hamaoka Nuclear Power Plant due to its vulnerability to a large earthquake. 
 
 Japanese power firm Chubu Electric on Monday agreed to shut a nuclear plant until it can be better defended against the type of massive tsunami that in March triggered the worst atomic crisis in 25 years.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/05/09/us-japan-nuclear-idUSTRE74803G20110509)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110509&t=2&i=409508035&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-09T200055Z_01_BTRE7480V2800_RTROPTP_0_JAPAN-NUCLEAR)
+1. [Reuters](https://www.reuters.com/article/2011/05/09/us-japan-nuclear-idUSTRE74803G20110509)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110509&t=2&i=409508035&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-09T200055Z_01_BTRE7480V2800_RTROPTP_0_JAPAN-NUCLEAR)
 
 ### Related:
 

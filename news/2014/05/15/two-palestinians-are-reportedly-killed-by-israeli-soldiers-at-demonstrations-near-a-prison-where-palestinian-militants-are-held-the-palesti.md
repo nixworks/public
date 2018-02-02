@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2014/05/15/two-palestinians-are-reportedly-killed-by-israeli-soldiers-at-demonstrations-near-a-prison-where-palestinian-militants-are-held-the-palesti.html)  [JSON](/news/2014/05/15/two-palestinians-are-reportedly-killed-by-israeli-soldiers-at-demonstrations-near-a-prison-where-palestinian-militants-are-held-the-palesti.json)  [XML](/news/2014/05/15/two-palestinians-are-reportedly-killed-by-israeli-soldiers-at-demonstrations-near-a-prison-where-palestinian-militants-are-held-the-palesti.xml)  
+
 ### [2014-05-15](/news/2014/05/15/index.md)
 
+##### Palestinian militants
 # Two Palestinians are reportedly killed by Israeli soldiers at demonstrations near a prison where Palestinian militants are held, the Palestinians were throwing stones and waving flags. 
 
 Israeli forces shot dead two Palestinians during a stone-throwing protest on Thursday marking the &quot;Nakba&quot;, the annual commemoration of what Palestinians term the catastrophe of their displacement when Israel was founded.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/05/15/us-israel-palestinian-clashes-idUSBREA4E0HI20140515)
+1. [Reuters](https://www.reuters.com/article/2014/05/15/us-israel-palestinian-clashes-idUSBREA4E0HI20140515)
 2. [The Times of Israel](http://www.timesofisrael.com/2-palestinian-teens-said-killed-in-nakba-day-clashes/)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

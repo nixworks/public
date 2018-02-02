@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/1/new-laws-come-into-effect-giving-the-people-s-republic-of-china-more-control-over-the-selection-of-the-dalai-lama.html)  [JSON](/news/2007/09/1/new-laws-come-into-effect-giving-the-people-s-republic-of-china-more-control-over-the-selection-of-the-dalai-lama.json)  [XML](/news/2007/09/1/new-laws-come-into-effect-giving-the-people-s-republic-of-china-more-control-over-the-selection-of-the-dalai-lama.xml)  
+
 ### [2007-09-1](/news/2007/09/1/index.md)
 
+##### China
 #  New laws come into effect giving the People's Republic of China more control over the selection of the Dalai Lama. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6973605.stm)
 

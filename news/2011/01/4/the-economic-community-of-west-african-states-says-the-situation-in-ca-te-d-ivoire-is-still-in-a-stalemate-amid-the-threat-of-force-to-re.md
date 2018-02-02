@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/4/the-economic-community-of-west-african-states-says-the-situation-in-ca-te-d-ivoire-is-still-in-a-stalemate-amid-the-threat-of-force-to-re.html)  [JSON](/news/2011/01/4/the-economic-community-of-west-african-states-says-the-situation-in-ca-te-d-ivoire-is-still-in-a-stalemate-amid-the-threat-of-force-to-re.json)  [XML](/news/2011/01/4/the-economic-community-of-west-african-states-says-the-situation-in-ca-te-d-ivoire-is-still-in-a-stalemate-amid-the-threat-of-force-to-re.xml)  
+
 ### [2011-01-4](/news/2011/01/4/index.md)
 
+##### ECOWAS
 # The Economic Community of West African States says the situation in Cote d'Ivoire is still in a "stalemate", amid the threat of force to remove Laurent Gbagbo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/ivoryCoastNews/idAFLDE7030WA20110104?sp=true)
 

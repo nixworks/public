@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/7/a-group-of-radical-islamists-hurl-homemade-bombs
 
 ### [2016-07-7](/news/2016/07/7/index.md)
 
+##### Terrorism in Bangladesh
 # A group of radical Islamists hurl homemade bombs at police officers in the Kishoreganj District in central Bangladesh killing at least one officer and injuring several others. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/3/in-saudi-arabia-the-new-king-abdullah-has-been-invested-tony-blair-and-jacques-chirac-along-with-many-european-monarchs-are-present-for-t.html)  [JSON](/news/2005/08/3/in-saudi-arabia-the-new-king-abdullah-has-been-invested-tony-blair-and-jacques-chirac-along-with-many-european-monarchs-are-present-for-t.json)  [XML](/news/2005/08/3/in-saudi-arabia-the-new-king-abdullah-has-been-invested-tony-blair-and-jacques-chirac-along-with-many-european-monarchs-are-present-for-t.xml)  
+
 ### [2005-08-3](/news/2005/08/3/index.md)
 
+##### Saudi Arabia
 #  In Saudi Arabia the new King Abdullah has been invested. Tony Blair and Jacques Chirac, along with many European Monarchs are present for the "bayaa" ceremony while George H. W. Bush and Dick Cheney will meet with the new King the following day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4740741.stm)
 

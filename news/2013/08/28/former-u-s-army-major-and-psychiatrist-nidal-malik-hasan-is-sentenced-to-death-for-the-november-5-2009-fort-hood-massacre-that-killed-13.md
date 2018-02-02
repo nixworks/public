@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/28/former-u-s-army-major-and-psychiatrist-nidal-malik-hasan-is-sentenced-to-death-for-the-november-5-2009-fort-hood-massacre-that-killed-13.html)  [JSON](/news/2013/08/28/former-u-s-army-major-and-psychiatrist-nidal-malik-hasan-is-sentenced-to-death-for-the-november-5-2009-fort-hood-massacre-that-killed-13.json)  [XML](/news/2013/08/28/former-u-s-army-major-and-psychiatrist-nidal-malik-hasan-is-sentenced-to-death-for-the-november-5-2009-fort-hood-massacre-that-killed-13.xml)  
+
 ### [2013-08-28](/news/2013/08/28/index.md)
 
+##### Nidal Malik Hasan
 # Former U.S. Army Major and psychiatrist Nidal Malik Hasan is sentenced to death for the November 5, 2009, Fort Hood massacre that killed 13 and wounded 32 others. He will be granted an automatic appeal; the Army general (convening authority) who will review the case can grant him life without parole; any eventual military execution would need presidential approval. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/08/28/us/nidal-hasan-sentencing/index.html?hpt=hp_c2)
 

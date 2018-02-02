@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/21/voters-in-the-marshall-islands-go-to-the-polls-for-a-general-election.html)  [JSON](/news/2011/11/21/voters-in-the-marshall-islands-go-to-the-polls-for-a-general-election.json)  [XML](/news/2011/11/21/voters-in-the-marshall-islands-go-to-the-polls-for-a-general-election.xml)  
+
 ### [2011-11-21](/news/2011/11/21/index.md)
 
+##### Marshall Islands
 # Voters in the Marshall Islands go to the polls for a general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=64562)
 

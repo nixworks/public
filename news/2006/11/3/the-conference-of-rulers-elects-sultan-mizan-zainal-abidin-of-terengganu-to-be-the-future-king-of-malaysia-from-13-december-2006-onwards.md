@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/3/the-conference-of-rulers-elects-sultan-mizan-zainal-abidin-of-terengganu-to-be-the-future-king-of-malaysia-from-13-december-2006-onwards.html)  [JSON](/news/2006/11/3/the-conference-of-rulers-elects-sultan-mizan-zainal-abidin-of-terengganu-to-be-the-future-king-of-malaysia-from-13-december-2006-onwards.json)  [XML](/news/2006/11/3/the-conference-of-rulers-elects-sultan-mizan-zainal-abidin-of-terengganu-to-be-the-future-king-of-malaysia-from-13-december-2006-onwards.xml)  
+
 ### [2006-11-3](/news/2006/11/3/index.md)
 
+##### Conference of Rulers
 #  The Conference of Rulers elects Sultan Mizan Zainal Abidin of Terengganu to be the future King of Malaysia from 13 December 2006 onwards. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [JapanToday](http://www.japantoday.com/jp/news/389364)
 2. [TimesOnline](http://www.timesonline.co.uk/article/0,,25689-2436381,00.html)

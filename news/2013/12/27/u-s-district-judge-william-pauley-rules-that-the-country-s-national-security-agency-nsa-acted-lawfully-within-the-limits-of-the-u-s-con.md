@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/27/u-s-district-judge-william-pauley-rules-that-the-country-s-national-security-agency-nsa-acted-lawfully-within-the-limits-of-the-u-s-con.html)  [JSON](/news/2013/12/27/u-s-district-judge-william-pauley-rules-that-the-country-s-national-security-agency-nsa-acted-lawfully-within-the-limits-of-the-u-s-con.json)  [XML](/news/2013/12/27/u-s-district-judge-william-pauley-rules-that-the-country-s-national-security-agency-nsa-acted-lawfully-within-the-limits-of-the-u-s-con.xml)  
+
 ### [2013-12-27](/news/2013/12/27/index.md)
 
+##### William Pauley
 # U.S. District Judge William Pauley rules that the country's National Security Agency (NSA) acted lawfully, within the limits of the U.S. Constitution, when, after the September 11, 2001 attacks, it began an en masse bulk collection of metadata from American telephone records. The opinion, which throws out an ACLU lawsuit for now, is in contrast to Judge Richard Leon's earlier ruling in another district. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/12/27/justice/nsa-ruling/index.html)
 2. [NBC](http://usnews.nbcnews.com/_news/2013/12/27/22072205-new-york-federal-judge-rules-nsa-phone-surveillance-is-legal?lite)

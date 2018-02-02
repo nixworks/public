@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2012/11/27/at-least-29-people-are-killed-and-126-wounded-in-eight-car-bombings-across-iraq.html)  [JSON](/news/2012/11/27/at-least-29-people-are-killed-and-126-wounded-in-eight-car-bombings-across-iraq.json)  [XML](/news/2012/11/27/at-least-29-people-are-killed-and-126-wounded-in-eight-car-bombings-across-iraq.xml)  
+
 ### [2012-11-27](/news/2012/11/27/index.md)
 
+##### eight car bombings
 # At least 29 people are killed and 126 wounded in eight car bombings across Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/11/27/world/meast/iraq-violence/)
 
 ### Related:
 
-1. [Iraqi security forces find the bodies of 53 men shot recently in Hamza south of Baghdad. ](/news/2014/07/9/iraqi-security-forces-find-the-bodies-of-53-men-shot-recently-in-hamza-south-of-baghdad.md) _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
-2. [Militants stage an overnight attack in Mosul, Iraq, taking control of the city while police and military flee. ](/news/2014/06/10/militants-stage-an-overnight-attack-in-mosul-iraq-taking-control-of-the-city-while-police-and-military-flee.md) _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
-3. [A wave of bombings in the Iraqi capital Baghdad kills 53 people. ](/news/2014/02/27/a-wave-of-bombings-in-the-iraqi-capital-baghdad-kills-53-people.md) _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
-4. [17 people are killed in car-bomb and mortar attacks on a Shi'ite Muslim village in Iraq. ](/news/2014/01/25/17-people-are-killed-in-car-bomb-and-mortar-attacks-on-a-shi-ite-muslim-village-in-iraq.md) _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
-5. [At least 26 people are killed in a series of attacks in central Iraq. ](/news/2014/01/15/at-least-26-people-are-killed-in-a-series-of-attacks-in-central-iraq.md) _Context: Iraq, Iraqi insurgency (post-U.S. withdrawal)_
+1. [Car bomb blasts kill at least 32 people across Iraq. ](/news/2012/09/30/car-bomb-blasts-kill-at-least-32-people-across-iraq.md) _Context: Iraq, eight car bombings_
+2. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Iraq_
+3. [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md) _Context: Iraq_
+4. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _Context: Iraq_
+5. [The Iraqi Armed Forces enter the town of Al-Qa'im, close to the border with Syria. Al-Qa'im is one of the last towns in Iraq still held by ISIL. ](/news/2017/11/3/the-iraqi-armed-forces-enter-the-town-of-al-qa-im-close-to-the-border-with-syria-al-qa-im-is-one-of-the-last-towns-in-iraq-still-held-by-i.md) _Context: Iraq_

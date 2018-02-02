@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/30/bp-turns-to-a-new-strategy-to-stop-the-gulf-of-mexico-oil-spill-but-it-will-take-at-least-four-to-seven-days-before-the-containment-device.html)  [JSON](/news/2010/05/30/bp-turns-to-a-new-strategy-to-stop-the-gulf-of-mexico-oil-spill-but-it-will-take-at-least-four-to-seven-days-before-the-containment-device.json)  [XML](/news/2010/05/30/bp-turns-to-a-new-strategy-to-stop-the-gulf-of-mexico-oil-spill-but-it-will-take-at-least-four-to-seven-days-before-the-containment-device.xml)  
+
 ### [2010-05-30](/news/2010/05/30/index.md)
 
+##### BP
 # BP turns to a new strategy to stop the Gulf of Mexico oil spill, but it will take at least four to seven days before the containment device that could capture the leaking oil can be put into place. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/US/05/30/gulf.oil.spill/)
 2. [The Australian](http://www.theaustralian.com.au/news/top-kill-attempt-fails-to-stem-oil-leak/story-e6frg6n6-1225873185757)

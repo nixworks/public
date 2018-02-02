@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/30/the-united-states-food-and-drug-administration-
 
 ### [2016-03-30](/news/2016/03/30/index.md)
 
+##### Food and Drug Administration
 # The United States Food and Drug Administration announces it has relaxed its official requirements regarding the use of the abortion drug Mifeprex (RU-486). The current guidelines were based on 1990s medical evidence. Changes include reducing the number of physician visits required by abortion-seeking women, reducing drug dosage, and allowing women to take the drug for three weeks longer -- now a total of 70 days. 
 
 The FDA said Wednesday it has relaxed its official requirements for the use of the abortion drug Mifeprex, which were based on outdated 1990s medical evidence.

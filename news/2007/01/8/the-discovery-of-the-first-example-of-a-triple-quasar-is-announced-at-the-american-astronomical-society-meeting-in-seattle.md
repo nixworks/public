@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/8/the-discovery-of-the-first-example-of-a-triple-quasar-is-announced-at-the-american-astronomical-society-meeting-in-seattle.html)  [JSON](/news/2007/01/8/the-discovery-of-the-first-example-of-a-triple-quasar-is-announced-at-the-american-astronomical-society-meeting-in-seattle.json)  [XML](/news/2007/01/8/the-discovery-of-the-first-example-of-a-triple-quasar-is-announced-at-the-american-astronomical-society-meeting-in-seattle.xml)  
+
 ### [2007-01-8](/news/2007/01/8/index.md)
 
+##### quasar
 #  The discovery of the first example of a "triple quasar" is announced at the American Astronomical Society meeting in Seattle. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/6243361.stm)
 

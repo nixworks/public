@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/13/three-planets-orbiting-hr-8799-and-one-planet-orbiting-fomalhaut-are-visually-verified-by-telescopes-the-first-extrasolar-planets-whose-ex.html)  [JSON](/news/2008/11/13/three-planets-orbiting-hr-8799-and-one-planet-orbiting-fomalhaut-are-visually-verified-by-telescopes-the-first-extrasolar-planets-whose-ex.json)  [XML](/news/2008/11/13/three-planets-orbiting-hr-8799-and-one-planet-orbiting-fomalhaut-are-visually-verified-by-telescopes-the-first-extrasolar-planets-whose-ex.xml)  
+
 ### [2008-11-13](/news/2008/11/13/index.md)
 
+##### planet
 #  Three planets orbiting HR 8799 and one planet orbiting Fomalhaut are visually verified by telescopes, the first extrasolar planets whose existence have been confirmed via direct imaging. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/TECH/space/11/13/new.planets/?iref=mpstoryview)
 

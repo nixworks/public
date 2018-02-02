@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/18/france-s-national-police-arrest-eta-military-leader-jurdan-martitegi-in-montauriol.html)  [JSON](/news/2009/04/18/france-s-national-police-arrest-eta-military-leader-jurdan-martitegi-in-montauriol.json)  [XML](/news/2009/04/18/france-s-national-police-arrest-eta-military-leader-jurdan-martitegi-in-montauriol.xml)  
+
 ### [2009-04-18](/news/2009/04/18/index.md)
 
+##### France
 #  France's National Police arrest ETA military leader Jurdan Martitegi in Montauriol. 
 
 A source in the Spanish government says ETA&#039;s military chief has been arrested by French police, marking the third suspected leader of the Basque separatist guerrillas to be captured in under six months.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2009/04/19/2546681.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

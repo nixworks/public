@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/8/budi-waseso-head-of-indonesia-s-national-narcoti
 
 ### [2016-09-8](/news/2016/09/8/index.md)
 
+##### drug crackdown
 # Budi Waseso, head of Indonesia's National Narcotics Agency (BNN, Badan Narkotika Nasional, says he plans on copying Rodrigo Duterte's hardline tactics against drug traffickers, which have killed almost 3,000 people in the Philippines. 
 
 Indonesia&#039;s anti-drugs chief says he supports implementing a bloody crackdown on traffickers like the war on crime in the Philippines.

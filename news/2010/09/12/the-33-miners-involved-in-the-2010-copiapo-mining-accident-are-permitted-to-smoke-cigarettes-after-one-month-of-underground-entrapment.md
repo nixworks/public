@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/12/the-33-miners-involved-in-the-2010-copiapo-mining-accident-are-permitted-to-smoke-cigarettes-after-one-month-of-underground-entrapment.html)  [JSON](/news/2010/09/12/the-33-miners-involved-in-the-2010-copiapo-mining-accident-are-permitted-to-smoke-cigarettes-after-one-month-of-underground-entrapment.json)  [XML](/news/2010/09/12/the-33-miners-involved-in-the-2010-copiapo-mining-accident-are-permitted-to-smoke-cigarettes-after-one-month-of-underground-entrapment.xml)  
+
 ### [2010-09-12](/news/2010/09/12/index.md)
 
+##### 2010 Copiap mining accident
 # The 33 miners involved in the 2010 Copiap mining accident are permitted to smoke cigarettes after one month of underground entrapment. 
 
 Miners trapped underground in Chile for more than a month are allowed to smoke following improvements to the ventilation system.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Sydney Morning Herald](http://www.smh.com.au/world/stubbed-out-ideal-chance-for-miners-to-quit-smoking-20100912-1571n.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11274224)

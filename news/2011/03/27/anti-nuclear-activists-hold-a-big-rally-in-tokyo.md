@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/27/anti-nuclear-activists-hold-a-big-rally-in-tokyo.html)  [JSON](/news/2011/03/27/anti-nuclear-activists-hold-a-big-rally-in-tokyo.json)  [XML](/news/2011/03/27/anti-nuclear-activists-hold-a-big-rally-in-tokyo.xml)  
+
 ### [2011-03-27](/news/2011/03/27/index.md)
 
+##### Tokyo
 # Anti-nuclear activists hold a big rally in Tokyo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12874198)
 1. [Cover Image](http://playlists.bbc.co.uk/news/world-asia-pacific-12874198A/playlist.sxml)

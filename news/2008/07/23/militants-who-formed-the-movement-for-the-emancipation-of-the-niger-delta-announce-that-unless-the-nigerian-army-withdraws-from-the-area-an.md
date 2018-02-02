@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/23/militants-who-formed-the-movement-for-the-emancipation-of-the-niger-delta-announce-that-unless-the-nigerian-army-withdraws-from-the-area-an.html)  [JSON](/news/2008/07/23/militants-who-formed-the-movement-for-the-emancipation-of-the-niger-delta-announce-that-unless-the-nigerian-army-withdraws-from-the-area-an.json)  [XML](/news/2008/07/23/militants-who-formed-the-movement-for-the-emancipation-of-the-niger-delta-announce-that-unless-the-nigerian-army-withdraws-from-the-area-an.xml)  
+
 ### [2008-07-23](/news/2008/07/23/index.md)
 
+##### Movement for the Emancipation of the Niger Delta
 #  Militants who formed the Movement for the Emancipation of the Niger Delta announce that unless the Nigerian Army withdraws from the area and their development demands are met, they will shut down oil and gas production from Bonny Island. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5gnNWecjUOlCOZLU4cpzuC7RHwt9wD923JQV80)
 

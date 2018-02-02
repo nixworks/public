@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/9/u-s-president-george-w-bush-calls-for-a-un-backed-action-over-kosovo-s-independence-despite-russian-and-serbian-opposition.html)  [JSON](/news/2007/06/9/u-s-president-george-w-bush-calls-for-a-un-backed-action-over-kosovo-s-independence-despite-russian-and-serbian-opposition.json)  [XML](/news/2007/06/9/u-s-president-george-w-bush-calls-for-a-un-backed-action-over-kosovo-s-independence-despite-russian-and-serbian-opposition.xml)  
+
 ### [2007-06-9](/news/2007/06/9/index.md)
 
+##### U.S. President
 #  U.S. President George W. Bush calls for a UN-backed action over Kosovo's independence despite Russian and Serbian opposition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6737367.stm)
 

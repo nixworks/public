@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/25/an-inquest-into-the-deaths-of-five-afghan-asylum-seekers-opens-in-australia.html)  [JSON](/news/2010/01/25/an-inquest-into-the-deaths-of-five-afghan-asylum-seekers-opens-in-australia.json)  [XML](/news/2010/01/25/an-inquest-into-the-deaths-of-five-afghan-asylum-seekers-opens-in-australia.xml)  
+
 ### [2010-01-25](/news/2010/01/25/index.md)
 
+##### Afghanistan
 # An inquest into the deaths of five Afghan asylum seekers opens in Australia. 
 
 Agitated asylum seekers saying &amp;#x201C;no Indonesia&amp;#x201D; and making cut-throat gestures had taken control of a boat from a Navy boarding party minutes before an explosion that killed five Afhganis, a coroner has heard.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.theage.com.au/national/navy-under-fire-over-deadly-asylum-boat-blast-20100125-mtsk.html)
 1. [Cover Image](http://www.theage.com.au/content/dam/images/m/t/v/s/image.related.articleLeadwide.620x349.mtsk.png/1264392515813.jpg)

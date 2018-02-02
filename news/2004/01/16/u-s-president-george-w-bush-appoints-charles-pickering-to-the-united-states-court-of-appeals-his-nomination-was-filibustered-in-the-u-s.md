@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/16/u-s-president-george-w-bush-appoints-charles-pickering-to-the-united-states-court-of-appeals-his-nomination-was-filibustered-in-the-u-s.html)  [JSON](/news/2004/01/16/u-s-president-george-w-bush-appoints-charles-pickering-to-the-united-states-court-of-appeals-his-nomination-was-filibustered-in-the-u-s.json)  [XML](/news/2004/01/16/u-s-president-george-w-bush-appoints-charles-pickering-to-the-united-states-court-of-appeals-his-nomination-was-filibustered-in-the-u-s.xml)  
+
 ### [2004-01-16](/news/2004/01/16/index.md)
 
+##### George W. Bush
 #  U.S. President George W. Bush appoints Charles Pickering to the United States Court of Appeals. His nomination was filibustered in the U.S. Senate, so President Bush made a recess appointment.
 
 

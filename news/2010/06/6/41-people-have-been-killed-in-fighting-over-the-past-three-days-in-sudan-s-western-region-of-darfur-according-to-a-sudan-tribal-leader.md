@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/6/41-people-have-been-killed-in-fighting-over-the-past-three-days-in-sudan-s-western-region-of-darfur-according-to-a-sudan-tribal-leader.html)  [JSON](/news/2010/06/6/41-people-have-been-killed-in-fighting-over-the-past-three-days-in-sudan-s-western-region-of-darfur-according-to-a-sudan-tribal-leader.json)  [XML](/news/2010/06/6/41-people-have-been-killed-in-fighting-over-the-past-three-days-in-sudan-s-western-region-of-darfur-according-to-a-sudan-tribal-leader.xml)  
+
 ### [2010-06-6](/news/2010/06/6/index.md)
 
+##### killed in fighting
 # 41 people have been killed in fighting over the past three days in Sudan's western region of Darfur according to a Sudan tribal leader. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h-9LJezV7rgUyFSQSz0BbXkefM3w)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/29/five-united-nations-peacekeepers-are-killed-in-
 
 ### [2016-05-29](/news/2016/05/29/index.md)
 
+##### Northern Mali conflict
 #  Five United Nations peacekeepers are killed in an attack in central Mali. 
 
 Five United Nations peacekeepers were killed and one other seriously injured in an ambush in central Mali on Sunday, the United Nations said.

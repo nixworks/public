@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/25/in-sri-lanka-investigators-that-investigate-alleged-misappropriation-of-funds-of-tsunami-relief-after-2004-indian-ocean-earthquake-state.html)  [JSON](/news/2005/07/25/in-sri-lanka-investigators-that-investigate-alleged-misappropriation-of-funds-of-tsunami-relief-after-2004-indian-ocean-earthquake-state.json)  [XML](/news/2005/07/25/in-sri-lanka-investigators-that-investigate-alleged-misappropriation-of-funds-of-tsunami-relief-after-2004-indian-ocean-earthquake-state.xml)  
+
 ### [2005-07-25](/news/2005/07/25/index.md)
 
+##### Sri Lanka
 #  In Sri Lanka, investigators that investigate alleged misappropriation of funds of tsunami relief after 2004 Indian Ocean earthquake, state that they have not found any evidence of wrongdoing. Opposition United National Party claims that prime minister Mahinda Rajapaksa had siphoned off 83 million rupees to his own constituency 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/COL239713.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/12/a-bomb-planted-inside-a-grocery-store-in-a-mainly-shi-ite-area-of-baghdad-kills-three-people-and-wounds-23.html)  [JSON](/news/2010/05/12/a-bomb-planted-inside-a-grocery-store-in-a-mainly-shi-ite-area-of-baghdad-kills-three-people-and-wounds-23.json)  [XML](/news/2010/05/12/a-bomb-planted-inside-a-grocery-store-in-a-mainly-shi-ite-area-of-baghdad-kills-three-people-and-wounds-23.xml)  
+
 ### [2010-05-12](/news/2010/05/12/index.md)
 
+##### Shi'ite
 # A bomb planted inside a grocery store in a mainly Shi'ite area of Baghdad kills three people and wounds 23. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TVNZ](http://tvnz.co.nz/world-news/bomb-kills-three-wounds-23-in-baghdad-3538804)
 

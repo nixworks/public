@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/14/president-chirac-inaugurates-the-world-s-highest-road-bridge-in-southern-france-the-millau-viaduct-over-the-river-tarn-is-higher-than-the.html)  [JSON](/news/2004/12/14/president-chirac-inaugurates-the-world-s-highest-road-bridge-in-southern-france-the-millau-viaduct-over-the-river-tarn-is-higher-than-the.json)  [XML](/news/2004/12/14/president-chirac-inaugurates-the-world-s-highest-road-bridge-in-southern-france-the-millau-viaduct-over-the-river-tarn-is-higher-than-the.xml)  
+
 ### [2004-12-14](/news/2004/12/14/index.md)
 
+##### Jacques Chirac
 #  President Chirac inaugurates the world's highest road bridge in southern France. The Millau Viaduct over the River Tarn is higher than the Eiffel Tower. It is expected to open to traffic on Thursday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4091813.stm)
 

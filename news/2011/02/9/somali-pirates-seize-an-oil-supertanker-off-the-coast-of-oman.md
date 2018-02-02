@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/9/somali-pirates-seize-an-oil-supertanker-off-the-coast-of-oman.html)  [JSON](/news/2011/02/9/somali-pirates-seize-an-oil-supertanker-off-the-coast-of-oman.json)  [XML](/news/2011/02/9/somali-pirates-seize-an-oil-supertanker-off-the-coast-of-oman.xml)  
+
 ### [2011-02-9](/news/2011/02/9/index.md)
 
+##### Somali pirates
 # Somali pirates seize an oil supertanker off the coast of Oman. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12403528)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/13/the-maldives-leaves-the-commonwealth-of-nations
 
 ### [2016-10-13](/news/2016/10/13/index.md)
 
+##### Maldives
 # The Maldives leaves the Commonwealth of Nations after 34 years, claiming that it has been "unfairly and unjustly" treated by the intergovernmental organization. 
 
 The Maldives has left the Commonwealth, claiming it was &quot;unfairly and unjustly&quot; treated by the global body that was due to consider sanctions - including suspension - against the nation after its &quot;lack of progress&quot; on a raft of democratic reforms.

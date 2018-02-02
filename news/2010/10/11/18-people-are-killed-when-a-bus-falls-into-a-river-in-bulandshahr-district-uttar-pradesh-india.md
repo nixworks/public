@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/11/18-people-are-killed-when-a-bus-falls-into-a-river-in-bulandshahr-district-uttar-pradesh-india.html)  [JSON](/news/2010/10/11/18-people-are-killed-when-a-bus-falls-into-a-river-in-bulandshahr-district-uttar-pradesh-india.json)  [XML](/news/2010/10/11/18-people-are-killed-when-a-bus-falls-into-a-river-in-bulandshahr-district-uttar-pradesh-india.xml)  
+
 ### [2010-10-11](/news/2010/10/11/index.md)
 
+##### Bulandshahr
 # 18 people are killed when a bus falls into a river in Bulandshahr district, Uttar Pradesh, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deccan Chronicle](http://www.deccanchronicle.com/national/14-die-bus-falls-river-uttar-pradesh-695)
 2. [Zeenews](http://www.zeenews.com/news660820.html)

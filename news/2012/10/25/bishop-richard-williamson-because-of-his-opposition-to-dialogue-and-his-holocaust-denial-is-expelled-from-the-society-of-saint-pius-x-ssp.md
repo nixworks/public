@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/25/bishop-richard-williamson-because-of-his-opposition-to-dialogue-and-his-holocaust-denial-is-expelled-from-the-society-of-saint-pius-x-ssp.html)  [JSON](/news/2012/10/25/bishop-richard-williamson-because-of-his-opposition-to-dialogue-and-his-holocaust-denial-is-expelled-from-the-society-of-saint-pius-x-ssp.json)  [XML](/news/2012/10/25/bishop-richard-williamson-because-of-his-opposition-to-dialogue-and-his-holocaust-denial-is-expelled-from-the-society-of-saint-pius-x-ssp.xml)  
+
 ### [2012-10-25](/news/2012/10/25/index.md)
 
+##### Bishop Richard Williamson
 # Bishop Richard Williamson, because of his opposition to dialogue and his Holocaust denial, is expelled from the Society of Saint Pius X (SSPX) by its superior, Bishop Bernard Fellay. The SSPX is a formerly breakaway ultra-conservative Roman Catholic society founded by the late Archbishop Marcel Lefebvre that is critical of many of the changes in the Church brought about by Vatican Council II. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Catholic News Service](http://www.catholicnews.com/data/stories/cns/1204487.htm)
 

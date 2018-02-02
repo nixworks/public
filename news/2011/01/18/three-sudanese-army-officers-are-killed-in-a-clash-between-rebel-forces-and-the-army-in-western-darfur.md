@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/01/18/three-sudanese-army-officers-are-killed-in-a-clash-between-rebel-forces-and-the-army-in-western-darfur.html)  [JSON](/news/2011/01/18/three-sudanese-army-officers-are-killed-in-a-clash-between-rebel-forces-and-the-army-in-western-darfur.json)  [XML](/news/2011/01/18/three-sudanese-army-officers-are-killed-in-a-clash-between-rebel-forces-and-the-army-in-western-darfur.xml)  
+
 ### [2011-01-18](/news/2011/01/18/index.md)
 
+##### Sudan People's Armed Forces
 # Three Sudanese army officers are killed in a clash between rebel forces and the army in western Darfur. 
 
+Shootings between an unidentified rebel group and government forces in Sudan’s western region of Darfur left three officers dead, the United Nations and African Union peacekeeping mission said.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-01-18/gunfire-kills-three-sudanese-officers-in-darfur-un-reports.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-01-18/gunfire-kills-three-sudanese-officers-in-darfur-un-reports.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

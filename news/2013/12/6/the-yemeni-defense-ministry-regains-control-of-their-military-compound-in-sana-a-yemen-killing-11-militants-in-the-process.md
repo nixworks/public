@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2013/12/6/the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants-in-the-process.html)  [JSON](/news/2013/12/6/the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants-in-the-process.json)  [XML](/news/2013/12/6/the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants-in-the-process.xml)  
+
 ### [2013-12-6](/news/2013/12/6/index.md)
 
+##### Sana'a
 # The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/12/06/us-yemen-explosion-idUSBRE9B406520131206)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131206&t=2&i=818031960&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9B50YNL00)
+1. [Reuters](https://www.reuters.com/article/2013/12/06/us-yemen-explosion-idUSBRE9B406520131206)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131206&t=2&i=818031960&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9B50YNL00)
+
+### Changes:
+
+1. [Al-Qaeda insurgency in Yemen:The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/al-qaeda-insurgency-in-yemen-pthe-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants.md) _2017-08-25 03:39:38 (First version)_
+2. [Al-Qaeda insurgency in Yemen:: The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/al-qaeda-insurgency-in-yemen-the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants.md) _2017-08-27 03:39:56 (Update)_
+2. [The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants-in-the-process.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [Saudi Arabian-led air raids on the Yemeni capital Sana'a resume after a truce ends. ](/news/2016/10/23/saudi-arabian-led-air-raids-on-the-yemeni-capital-sana-a-resume-after-a-truce-ends.md) _Context: Sana'a, Yemen_
 4. [At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. ](/news/2016/08/9/at-least-14-people-are-killed-after-saudi-led-coalition-airstrikes-hit-a-food-factory-in-yemen-s-capital-sana-a-the-airstrikes-come-just-da.md) _Context: Sana'a, Yemen_
 5. [At least 30 people are killed in an airstrike on a market near the Yemeni capital Sana'a. ](/news/2016/02/27/at-least-30-people-are-killed-in-an-airstrike-on-a-market-near-the-yemeni-capital-sana-a.md) _Context: Sana'a, Yemen_
-
-### Changes:
-
-1. [Al-Qaeda insurgency in Yemen:The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/al-qaeda-insurgency-in-yemen-pthe-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants.md) _2017-08-25 03:39:38 (First version)_
-2. [Al-Qaeda insurgency in Yemen:: The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/al-qaeda-insurgency-in-yemen-the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants.md) _2017-08-27 03:39:56 (Update)_
-2. [The Yemeni Defense Ministry regains control of their military compound in Sana'a, Yemen, killing 11 militants in the process. ](/news/2013/12/6/the-yemeni-defense-ministry-regains-control-of-their-military-compound-in-sana-a-yemen-killing-11-militants-in-the-process.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/12/security-is-increased-in-bangkok-thailand-ahead-of-anti-government-protesters-by-the-red-shirts-over-the-coming-days.html)  [JSON](/news/2010/03/12/security-is-increased-in-bangkok-thailand-ahead-of-anti-government-protesters-by-the-red-shirts-over-the-coming-days.json)  [XML](/news/2010/03/12/security-is-increased-in-bangkok-thailand-ahead-of-anti-government-protesters-by-the-red-shirts-over-the-coming-days.xml)  
+
 ### [2010-03-12](/news/2010/03/12/index.md)
 
+##### Bangkok
 # Security is increased in Bangkok, Thailand, ahead of anti-government protesters by the "red shirts" over the coming days. 
 
 Thai capital braces for violence as anti-government red shirts prepare for major rally.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/201031232531295301.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8563538.stm)

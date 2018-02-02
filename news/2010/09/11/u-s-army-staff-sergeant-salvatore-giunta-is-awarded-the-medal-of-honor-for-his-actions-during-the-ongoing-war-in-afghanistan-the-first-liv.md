@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/11/u-s-army-staff-sergeant-salvatore-giunta-is-awarded-the-medal-of-honor-for-his-actions-during-the-ongoing-war-in-afghanistan-the-first-liv.html)  [JSON](/news/2010/09/11/u-s-army-staff-sergeant-salvatore-giunta-is-awarded-the-medal-of-honor-for-his-actions-during-the-ongoing-war-in-afghanistan-the-first-liv.json)  [XML](/news/2010/09/11/u-s-army-staff-sergeant-salvatore-giunta-is-awarded-the-medal-of-honor-for-his-actions-during-the-ongoing-war-in-afghanistan-the-first-liv.xml)  
+
 ### [2010-09-11](/news/2010/09/11/index.md)
 
+##### U.S. Army
 # U.S. Army Staff Sergeant Salvatore Giunta is awarded the Medal of Honor for his actions during the ongoing War in Afghanistan, the first living recipient to be so honored since the Vietnam War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/jul/04/us-paratrooper-highest-military-honour)
 

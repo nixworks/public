@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/26/chandra-bahadur-dangi-is-verified-by-guinness-world-records-to-be-the-world-s-shortest-person-ever-beating-the-record-long-held-by-gul-moha.html)  [JSON](/news/2012/02/26/chandra-bahadur-dangi-is-verified-by-guinness-world-records-to-be-the-world-s-shortest-person-ever-beating-the-record-long-held-by-gul-moha.json)  [XML](/news/2012/02/26/chandra-bahadur-dangi-is-verified-by-guinness-world-records-to-be-the-world-s-shortest-person-ever-beating-the-record-long-held-by-gul-moha.xml)  
+
 ### [2012-02-26](/news/2012/02/26/index.md)
 
+##### Chandra Bahadur Dangi
 # Chandra Bahadur Dangi is verified by Guinness World Records to be the world's shortest person ever, beating the record long held by Gul Mohammed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/02/26/world/asia/nepal-shortest-man-ever/index.html?hpt=ias_t2)
 

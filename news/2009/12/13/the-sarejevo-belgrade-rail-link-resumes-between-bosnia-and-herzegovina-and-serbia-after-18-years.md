@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/13/the-sarejevo-belgrade-rail-link-resumes-between-bosnia-and-herzegovina-and-serbia-after-18-years.html)  [JSON](/news/2009/12/13/the-sarejevo-belgrade-rail-link-resumes-between-bosnia-and-herzegovina-and-serbia-after-18-years.json)  [XML](/news/2009/12/13/the-sarejevo-belgrade-rail-link-resumes-between-bosnia-and-herzegovina-and-serbia-after-18-years.xml)  
+
 ### [2009-12-13](/news/2009/12/13/index.md)
 
+##### Sarejevo
 #  The Sarejevo-Belgrade rail link resumes between Bosnia and Herzegovina and Serbia after 18 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iVYSBE6ATWPUVU0uMf_9hvygUcEAD9CICKE00)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8410465.stm)

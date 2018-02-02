@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/05/31/four-firemen-are-killed-and-five-others-injured-fighting-a-fire-in-houston-texas-u-s.html)  [JSON](/news/2013/05/31/four-firemen-are-killed-and-five-others-injured-fighting-a-fire-in-houston-texas-u-s.json)  [XML](/news/2013/05/31/four-firemen-are-killed-and-five-others-injured-fighting-a-fire-in-houston-texas-u-s.xml)  
+
 ### [2013-05-31](/news/2013/05/31/index.md)
 
+##### firemen
 # Four firemen are killed and five others injured fighting a fire in Houston, Texas, U.S. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2013/05/31/houston-fire-five-alarm-injured-firefighters-hotel/2377651/)
+1. [USA Today](https://www.usatoday.com/story/news/nation/2013/05/31/houston-fire-five-alarm-injured-firefighters-hotel/2377651/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

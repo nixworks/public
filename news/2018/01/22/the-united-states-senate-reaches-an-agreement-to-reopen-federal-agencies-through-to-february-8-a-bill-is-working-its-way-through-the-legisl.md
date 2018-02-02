@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/22/the-united-states-senate-reaches-an-agreement-t
 
 ### [2018-01-22](/news/2018/01/22/index.md)
 
+##### United States federal government shutdown of 2018
 # The United States Senate reaches an agreement to reopen federal agencies through to February 8. A bill is working its way through the legislative process. The first Senate vote was 81-18. 
 
  WASHINGTON (AP) — The Latest on the budget battle (all times local): 1:55 p.m. Sen. Susan Collins of Maine says Monday is &#34;a day to celebrate&#34; after ro

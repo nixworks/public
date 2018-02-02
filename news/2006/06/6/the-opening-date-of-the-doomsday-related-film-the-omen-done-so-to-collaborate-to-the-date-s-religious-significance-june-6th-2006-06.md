@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/06/6/the-opening-date-of-the-doomsday-related-film-the-omen-done-so-to-collaborate-to-the-date-s-religious-significance-june-6th-2006-06.html)  [JSON](/news/2006/06/6/the-opening-date-of-the-doomsday-related-film-the-omen-done-so-to-collaborate-to-the-date-s-religious-significance-june-6th-2006-06.json)  [XML](/news/2006/06/6/the-opening-date-of-the-doomsday-related-film-the-omen-done-so-to-collaborate-to-the-date-s-religious-significance-june-6th-2006-06.xml)  
+
 ### [2006-06-6](/news/2006/06/6/index.md)
 
+##### Doomsday
 #  The opening date of the Doomsday-related film, The Omen, done so to collaborate to the date's religious significance (June 6th, 2006 -- 06-06-06, or 666 which is known as the number of the beast in Christianity). It is a remake of another film by the same name from 1976.
 
 

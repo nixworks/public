@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/15/japan-expresses-remorse-for-its-actions-in-world-war-ii-on-the-anniversary-of-its-1945-defeat-but-former-prime-ministers-junichiro-koizumi.html)  [JSON](/news/2009/08/15/japan-expresses-remorse-for-its-actions-in-world-war-ii-on-the-anniversary-of-its-1945-defeat-but-former-prime-ministers-junichiro-koizumi.json)  [XML](/news/2009/08/15/japan-expresses-remorse-for-its-actions-in-world-war-ii-on-the-anniversary-of-its-1945-defeat-but-former-prime-ministers-junichiro-koizumi.xml)  
+
 ### [2009-08-15](/news/2009/08/15/index.md)
 
+##### Japan
 #  Japan expresses remorse for its actions in World War II on the anniversary of its 1945 defeat, but former Prime Ministers Junichiro Koizumi and Shinzo Abe visit the Yasukuni Shrine, a controversial war shrine seen as a symbol of its past militarism. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mainichi Daily News](http://mdn.mainichi.jp/mdnnews/news/20090815p2a00m0na019000c.html)
 2. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_417113.html)

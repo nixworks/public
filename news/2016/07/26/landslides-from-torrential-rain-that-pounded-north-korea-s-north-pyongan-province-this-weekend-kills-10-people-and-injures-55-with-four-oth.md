@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/26/landslides-from-torrential-rain-that-pounded-no
 
 ### [2016-07-26](/news/2016/07/26/index.md)
 
+##### North Korea
 #  Landslides from torrential rain that pounded North Korea's North Pyongan Province this weekend kills 10 people and injures 55 with four others missing. 
 
 Torrential rain in North Korea triggered landslides that left 10 dead, 55 injured, and four missing, the Korean Central News Agency said.
@@ -17,6 +18,6 @@ Torrential rain in North Korea triggered landslides that left 10 dead, 55 injure
 
 1. [New satellite imagery released by think tank 38 North indicates North Korea has resumed operations at its Yongbyon Nuclear Scientific Research Center in North Pyongan Province. ](/news/2017/01/27/new-satellite-imagery-released-by-think-tank-38-north-indicates-north-korea-has-resumed-operations-at-its-yongbyon-nuclear-scientific-resear.md) _Context: North Korea, North Pyongan Province_
 2. [The United States Defense Department reports its Strategic Command systems detected a failed North Korean ballistic missile launch near the city of Kusong in North Pyongan Province. ](/news/2016/10/15/the-united-states-defense-department-reports-its-strategic-command-systems-detected-a-failed-north-korean-ballistic-missile-launch-near-the.md) _Context: North Korea, North Pyongan Province_
-3. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: North Korea_
-4. [A North Korean defector claims children are being born with deformities near North Korea's nuclear testing site. ](/news/2017/11/7/a-north-korean-defector-claims-children-are-being-born-with-deformities-near-north-korea-s-nuclear-testing-site.md) _Context: North Korea_
-5. [North Korea fires another missile in a test, landing in the Sea of Japan. ](/news/2017/11/28/north-korea-fires-another-missile-in-a-test-landing-in-the-sea-of-japan.md) _Context: North Korea_
+3. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: North Korea_
+4. [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md) _Context: North Korea_
+5. [ U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than Kim's. ](/news/2018/01/2/u-s-president-donald-trump-responds-to-kim-jong-un-s-claim-of-having-north-korea-s-nuclear-missile-launch-button-on-his-desk-boasting-tha.md) _Context: North Korea_

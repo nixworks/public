@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/1/geoff-thorn-the-general-manager-of-parliamentary-service-in-the-parliament-of-new-zealand-submits-his-resignation-to-the-speaker-david-car.html)  [JSON](/news/2013/08/1/geoff-thorn-the-general-manager-of-parliamentary-service-in-the-parliament-of-new-zealand-submits-his-resignation-to-the-speaker-david-car.json)  [XML](/news/2013/08/1/geoff-thorn-the-general-manager-of-parliamentary-service-in-the-parliament-of-new-zealand-submits-his-resignation-to-the-speaker-david-car.xml)  
+
 ### [2013-08-1](/news/2013/08/1/index.md)
 
+##### Parliament of New Zealand
 # Geoff Thorn, the General Manager of Parliamentary Service in the Parliament of New Zealand, submits his resignation to the Speaker David Carter after phone and other data belonging to Fairfax New Zealand journalist Andrea Vance were released to an inquiry without her permission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TV New Zealand](http://tvnz.co.nz/politics-news/parliamentary-service-boss-quits-over-phone-records-scandal-5524147)
 

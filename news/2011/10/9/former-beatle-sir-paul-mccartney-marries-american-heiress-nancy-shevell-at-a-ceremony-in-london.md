@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/9/former-beatle-sir-paul-mccartney-marries-american-heiress-nancy-shevell-at-a-ceremony-in-london.html)  [JSON](/news/2011/10/9/former-beatle-sir-paul-mccartney-marries-american-heiress-nancy-shevell-at-a-ceremony-in-london.json)  [XML](/news/2011/10/9/former-beatle-sir-paul-mccartney-marries-american-heiress-nancy-shevell-at-a-ceremony-in-london.xml)  
+
 ### [2011-10-9](/news/2011/10/9/index.md)
 
+##### Paul McCartney
 # Former Beatle Sir Paul McCartney marries American heiress Nancy Shevell at a ceremony in London. 
 
 Sir Paul McCartney marries American heiress Nancy Shevell in London, at the same venue he married his first wife Linda.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-15230730)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55936000/jpg/_55936496_013122816-1.jpg)

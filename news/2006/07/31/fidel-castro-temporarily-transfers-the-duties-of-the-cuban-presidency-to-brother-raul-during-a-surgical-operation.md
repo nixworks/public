@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/31/fidel-castro-temporarily-transfers-the-duties-of-the-cuban-presidency-to-brother-raul-during-a-surgical-operation.html)  [JSON](/news/2006/07/31/fidel-castro-temporarily-transfers-the-duties-of-the-cuban-presidency-to-brother-raul-during-a-surgical-operation.json)  [XML](/news/2006/07/31/fidel-castro-temporarily-transfers-the-duties-of-the-cuban-presidency-to-brother-raul-during-a-surgical-operation.xml)  
+
 ### [2006-07-31](/news/2006/07/31/index.md)
 
+##### Fidel Castro
 #  Fidel Castro temporarily transfers the duties of the Cuban presidency to brother Ral during a surgical operation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NY Sun](http://www.nysun.com/article/36964)
 

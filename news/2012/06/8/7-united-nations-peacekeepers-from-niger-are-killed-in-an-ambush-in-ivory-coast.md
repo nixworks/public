@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/8/7-united-nations-peacekeepers-from-niger-are-killed-in-an-ambush-in-ivory-coast.html)  [JSON](/news/2012/06/8/7-united-nations-peacekeepers-from-niger-are-killed-in-an-ambush-in-ivory-coast.json)  [XML](/news/2012/06/8/7-united-nations-peacekeepers-from-niger-are-killed-in-an-ambush-in-ivory-coast.xml)  
+
 ### [2012-06-8](/news/2012/06/8/index.md)
 
+##### United Nations
 # 7 United Nations peacekeepers from Niger are killed in an ambush in Ivory Coast. 
 
 Seven peacekeepers from Niger killed while on patrol near the border with Liberia.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/06/201268201721292527.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/9/20126921822330734_20.jpg)

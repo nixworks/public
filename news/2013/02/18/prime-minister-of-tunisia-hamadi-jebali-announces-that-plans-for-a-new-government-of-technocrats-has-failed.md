@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/18/prime-minister-of-tunisia-hamadi-jebali-announces-that-plans-for-a-new-government-of-technocrats-has-failed.html)  [JSON](/news/2013/02/18/prime-minister-of-tunisia-hamadi-jebali-announces-that-plans-for-a-new-government-of-technocrats-has-failed.json)  [XML](/news/2013/02/18/prime-minister-of-tunisia-hamadi-jebali-announces-that-plans-for-a-new-government-of-technocrats-has-failed.xml)  
+
 ### [2013-02-18](/news/2013/02/18/index.md)
 
+##### Prime Minister of Tunisia
 # Prime Minister of Tunisia Hamadi Jebali announces that plans for a new government of technocrats has failed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS News](http://www.sbs.com.au/news/article/1738424/Tunisia-crisis-talks-fail-PM-leaves-door-open-for)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/27/leslie-buckley-a-close-associate-of-denis-o-brien-is-elected-chairman-of-independent-news-media.html)  [JSON](/news/2012/08/27/leslie-buckley-a-close-associate-of-denis-o-brien-is-elected-chairman-of-independent-news-media.json)  [XML](/news/2012/08/27/leslie-buckley-a-close-associate-of-denis-o-brien-is-elected-chairman-of-independent-news-media.xml)  
+
 ### [2012-08-27](/news/2012/08/27/index.md)
 
+##### Denis O'Brien
 # Leslie Buckley, a close associate of Denis O'Brien, is elected chairman of Independent News & Media. 
 
 The board of Independent News and Media has this evening elected Cork businessman Leslie Buckley as its new chairman.
 
 
-### Source:
+### Sources:
 
 1. [RTE](http://www.rte.ie/news/2012/0827/leslie-buckley-inm.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/finance/2012/0828/1224323095577.html)

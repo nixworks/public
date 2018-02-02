@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/1/over-311-people-are-killed-and-276-injured-in-a-fire-which-swept-a-market-in-asuncion-paraguay.html)  [JSON](/news/2004/08/1/over-311-people-are-killed-and-276-injured-in-a-fire-which-swept-a-market-in-asuncion-paraguay.json)  [XML](/news/2004/08/1/over-311-people-are-killed-and-276-injured-in-a-fire-which-swept-a-market-in-asuncion-paraguay.xml)  
+
 ### [2004-08-1](/news/2004/08/1/index.md)
 
+##### Asuncin
 #  Over 311 people are killed and 276 injured in a fire which swept a market in Asuncin, Paraguay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://story.news.yahoo.com/news?tmpl=story&e=3&u=/ap/20040802/ap_on_re_la_am_ca/paraguay_supermarket_fire)
 2. [CNN](http://edition.cnn.com/2004/WORLD/americas/08/01/supermarket.blast.int/)

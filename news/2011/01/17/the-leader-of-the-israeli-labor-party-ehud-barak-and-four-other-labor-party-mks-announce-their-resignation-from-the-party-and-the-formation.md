@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/17/the-leader-of-the-israeli-labor-party-ehud-barak-and-four-other-labor-party-mks-announce-their-resignation-from-the-party-and-the-formation.html)  [JSON](/news/2011/01/17/the-leader-of-the-israeli-labor-party-ehud-barak-and-four-other-labor-party-mks-announce-their-resignation-from-the-party-and-the-formation.json)  [XML](/news/2011/01/17/the-leader-of-the-israeli-labor-party-ehud-barak-and-four-other-labor-party-mks-announce-their-resignation-from-the-party-and-the-formation.xml)  
+
 ### [2011-01-17](/news/2011/01/17/index.md)
 
+##### Israeli Labor Party
 # The leader of the Israeli Labor Party Ehud Barak and four other Labor Party MKs announce their resignation from the party and the formation of a new "centrist Zionist and democratic" faction called "Independence". 
 
 Party leader, along with other ministers expected to form new party; House Committee scheduled to meet to vote on split; Eitan Cabel charges &quot;these MKs have decided to destroy party.&quot;
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=203937)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=155506)

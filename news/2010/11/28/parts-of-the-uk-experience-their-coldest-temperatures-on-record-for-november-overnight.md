@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/28/parts-of-the-uk-experience-their-coldest-temperatures-on-record-for-november-overnight.html)  [JSON](/news/2010/11/28/parts-of-the-uk-experience-their-coldest-temperatures-on-record-for-november-overnight.json)  [XML](/news/2010/11/28/parts-of-the-uk-experience-their-coldest-temperatures-on-record-for-november-overnight.xml)  
+
 ### [2010-11-28](/news/2010/11/28/index.md)
 
+##### 
 # Parts of the UK experience their coldest temperatures on record for November overnight. 
 
 Heavy snow is still falling across much of Scotland and north-east England, after many places experienced their coldest November night on record.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11855579)
 2. [Sky News](http://blogs.news.sky.com/theweathergirls/Post:05fb67d9-2421-4941-ad8f-a79e2e82561a)

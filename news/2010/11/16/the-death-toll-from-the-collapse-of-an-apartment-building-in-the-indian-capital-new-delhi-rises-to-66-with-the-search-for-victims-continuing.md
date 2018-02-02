@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/11/16/the-death-toll-from-the-collapse-of-an-apartment-building-in-the-indian-capital-new-delhi-rises-to-66-with-the-search-for-victims-continuing.html)  [JSON](/news/2010/11/16/the-death-toll-from-the-collapse-of-an-apartment-building-in-the-indian-capital-new-delhi-rises-to-66-with-the-search-for-victims-continuing.json)  [XML](/news/2010/11/16/the-death-toll-from-the-collapse-of-an-apartment-building-in-the-indian-capital-new-delhi-rises-to-66-with-the-search-for-victims-continuing.xml)  
+
 ### [2010-11-16](/news/2010/11/16/index.md)
 
+##### collapse of an apartment building
 # The death toll from the collapse of an apartment building in the Indian capital New Delhi rises to 66 with the search for victims continuing. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101116/wl_asia_afp/indiaaccidentbuilding)
+1. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20101116/wl_asia_afp/indiaaccidentbuilding)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/16/c_13608988.htm)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/17/a-fragment-of-pelvis-bone-unearthed-in-winchester-in-1999-may-belong-to-king-alfred-the-great-or-his-son-edward-the-elder.html)  [JSON](/news/2014/01/17/a-fragment-of-pelvis-bone-unearthed-in-winchester-in-1999-may-belong-to-king-alfred-the-great-or-his-son-edward-the-elder.json)  [XML](/news/2014/01/17/a-fragment-of-pelvis-bone-unearthed-in-winchester-in-1999-may-belong-to-king-alfred-the-great-or-his-son-edward-the-elder.xml)  
+
 ### [2014-01-17](/news/2014/01/17/index.md)
 
+##### pelvis
 # A fragment of pelvis bone unearthed in Winchester in 1999 may belong to King Alfred the Great or his son Edward the Elder. 
 
 A fragment of bone unearthed in 1999 could be the remains of King Alfred the Great or his son Edward the Elder, experts say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-hampshire-25760383)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/72355000/jpg/_72355746_alfredcomposite.jpg)

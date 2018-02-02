@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/06/11/two-thirds-of-the-iraqi-council-of-representatives-removes-speaker-of-the-council-of-representatives-mahmoud-al-mashhadani-due-to-repeated.html)  [JSON](/news/2007/06/11/two-thirds-of-the-iraqi-council-of-representatives-removes-speaker-of-the-council-of-representatives-mahmoud-al-mashhadani-due-to-repeated.json)  [XML](/news/2007/06/11/two-thirds-of-the-iraqi-council-of-representatives-removes-speaker-of-the-council-of-representatives-mahmoud-al-mashhadani-due-to-repeated.xml)  
+
 ### [2007-06-11](/news/2007/06/11/index.md)
 
+##### Iraqi Council of Representatives
 #  Two-thirds of the Iraqi Council of Representatives removes Speaker of the Council of Representatives Mahmoud al-Mashhadani due to repeated acts of violence to other members by him or his staff. 
 
 The vote today opened the way for the Sunni coalition that had installed him to choose a replacement.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/06/11/world/middleeast/11cnd-Iraq.html?ex=1339214400&en=df7a85e68a17d746&ei=5088&partner=rssnyt&emc=rss)
+1. [New York Times](https://www.nytimes.com/2007/06/11/world/middleeast/11cnd-Iraq.html?ex=1339214400&en=df7a85e68a17d746&ei=5088&partner=rssnyt&emc=rss)
 1. [Cover Image](https://static01.nyt.com/images/2007/06/11/world/11baghdad.75.jpg)
 
 ### Related:

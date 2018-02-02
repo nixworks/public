@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/04/26/sultan-salahuddin-abdul-aziz-shah-ibni-almarhum-sultan-hisamuddin-alam-shah-al-haj-sultan-of-selangor-becomes-the-eleventh-yang-di-pertuan.html)  [JSON](/news/1999/04/26/sultan-salahuddin-abdul-aziz-shah-ibni-almarhum-sultan-hisamuddin-alam-shah-al-haj-sultan-of-selangor-becomes-the-eleventh-yang-di-pertuan.json)  [XML](/news/1999/04/26/sultan-salahuddin-abdul-aziz-shah-ibni-almarhum-sultan-hisamuddin-alam-shah-al-haj-sultan-of-selangor-becomes-the-eleventh-yang-di-pertuan.xml)  
+
 ### [1999-04-26](/news/1999/04/26/index.md)
 
+##### Sultan Salahuddin Abdul Aziz Shah ibni Almarhum Sultan Hisamuddin Alam Shah Al-Haj
 #  Sultan Salahuddin Abdul Aziz Shah ibni Almarhum Sultan Hisamuddin Alam Shah Al-Haj, Sultan of Selangor becomes the eleventh Yang di-Pertuan Agong of Malaysia.
 
 

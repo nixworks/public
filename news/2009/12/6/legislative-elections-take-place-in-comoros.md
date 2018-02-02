@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/6/legislative-elections-take-place-in-comoros.html)  [JSON](/news/2009/12/6/legislative-elections-take-place-in-comoros.json)  [XML](/news/2009/12/6/legislative-elections-take-place-in-comoros.xml)  
+
 ### [2009-12-6](/news/2009/12/6/index.md)
 
+##### Legislative elections
 #  Legislative elections take place in Comoros. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j7Bixwq7UebAJJte_h6scj_Bvlyg)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE5B504P20091206)

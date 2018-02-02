@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/09/6/madeleine-l-engle-author-of-the-well-revered-book-a-wrinkle-in-time-dies-in-connecticut-at-age-88.html)  [JSON](/news/2007/09/6/madeleine-l-engle-author-of-the-well-revered-book-a-wrinkle-in-time-dies-in-connecticut-at-age-88.json)  [XML](/news/2007/09/6/madeleine-l-engle-author-of-the-well-revered-book-a-wrinkle-in-time-dies-in-connecticut-at-age-88.xml)  
+
 ### [2007-09-6](/news/2007/09/6/index.md)
 
+##### Madeleine L'Engle
 #  Madeleine L'Engle, author of the well-revered book A Wrinkle in Time, dies in Connecticut at age 88.
 
 

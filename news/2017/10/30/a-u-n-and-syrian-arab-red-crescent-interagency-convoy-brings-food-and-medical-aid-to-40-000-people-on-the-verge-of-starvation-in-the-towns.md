@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/30/a-u-n-and-syrian-arab-red-crescent-interagency-
 
 ### [2017-10-30](/news/2017/10/30/index.md)
 
+##### Syrian Civil War
 # A U.N. and Syrian Arab Red Crescent interagency convoy brings food and medical aid to 40,000 people on the verge of starvation in the towns of Kafr Batna and Saqba in the Eastern Ghouta suburb of Damascus for the first time since June 2016. 
 
 A convoy from the United Nations and Syrian Arab Red Crescent entered towns in the besieged Damascus suburb of eastern Ghouta on Monday, bringing aid to 40,000 people for the first time since June 2016, the United Nations said.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/24/the-government-of-colombia-and-farc-finalise-a-
 
 ### [2016-08-24](/news/2016/08/24/index.md)
 
+##### Colombian conflict
 # The government of Colombia and FARC finalise a peace deal ending 50 years of conflict. 
 
 

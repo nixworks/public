@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/01/10/the-tama-toshi-monorail-tama-center-station-opens-in-tokyo-japan-this-is-a-raised-station-with-two-tracks-and-two-opposed-side-platforms.html)  [JSON](/news/2000/01/10/the-tama-toshi-monorail-tama-center-station-opens-in-tokyo-japan-this-is-a-raised-station-with-two-tracks-and-two-opposed-side-platforms.json)  [XML](/news/2000/01/10/the-tama-toshi-monorail-tama-center-station-opens-in-tokyo-japan-this-is-a-raised-station-with-two-tracks-and-two-opposed-side-platforms.xml)  
+
 ### [2000-01-10](/news/2000/01/10/index.md)
 
+##### Tama Toshi Monorail (Tama-Center Station)
 # The Tama Toshi Monorail (Tama-Center Station) opens in Tokyo, Japan. This is a raised station with two tracks and two opposed side platforms, with the station building located underneath. It is a standardized station building for this monorail line.
 
 

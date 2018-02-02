@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/20/2011-horn-of-africa-famine-the-united-nations-declares-a-famine-in-southern-somalia.html)  [JSON](/news/2011/07/20/2011-horn-of-africa-famine-the-united-nations-declares-a-famine-in-southern-somalia.json)  [XML](/news/2011/07/20/2011-horn-of-africa-famine-the-united-nations-declares-a-famine-in-southern-somalia.xml)  
+
 ### [2011-07-20](/news/2011/07/20/index.md)
 
+##### famine
 # 2011 Horn of Africa famine: The United Nations declares a famine in southern Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/07/2011720756724143.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/20/2011720223614866734_20.jpg)

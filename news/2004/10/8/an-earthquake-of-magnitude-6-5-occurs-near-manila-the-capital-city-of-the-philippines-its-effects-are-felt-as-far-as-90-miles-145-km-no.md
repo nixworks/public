@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/10/8/an-earthquake-of-magnitude-6-5-occurs-near-manila-the-capital-city-of-the-philippines-its-effects-are-felt-as-far-as-90-miles-145-km-no.html)  [JSON](/news/2004/10/8/an-earthquake-of-magnitude-6-5-occurs-near-manila-the-capital-city-of-the-philippines-its-effects-are-felt-as-far-as-90-miles-145-km-no.json)  [XML](/news/2004/10/8/an-earthquake-of-magnitude-6-5-occurs-near-manila-the-capital-city-of-the-philippines-its-effects-are-felt-as-far-as-90-miles-145-km-no.xml)  
+
 ### [2004-10-8](/news/2004/10/8/index.md)
 
+##### earthquake
 #  An earthquake of magnitude 6.5 occurs near Manila, the capital city of the Philippines. Its effects are felt as far as 90 miles (145 km) north of the city. The quake causes buildings to sway and knocks out power in some areas, but no serious damage or injuries are reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/WORLD/asiapcf/10/08/philippines.quake.ap/index.html)
-2. [USGS](http://earthquake.usgs.gov/recenteqsww/Quakes/uspibl.htm)
+2. [USGS](https://earthquake.usgs.gov/recenteqsww/Quakes/uspibl.htm)
 
 ### Related:
 

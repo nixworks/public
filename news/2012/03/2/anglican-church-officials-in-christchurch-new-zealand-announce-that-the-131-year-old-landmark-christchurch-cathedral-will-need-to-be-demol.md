@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/2/anglican-church-officials-in-christchurch-new-zealand-announce-that-the-131-year-old-landmark-christchurch-cathedral-will-need-to-be-demol.html)  [JSON](/news/2012/03/2/anglican-church-officials-in-christchurch-new-zealand-announce-that-the-131-year-old-landmark-christchurch-cathedral-will-need-to-be-demol.json)  [XML](/news/2012/03/2/anglican-church-officials-in-christchurch-new-zealand-announce-that-the-131-year-old-landmark-christchurch-cathedral-will-need-to-be-demol.xml)  
+
 ### [2012-03-2](/news/2012/03/2/index.md)
 
+##### Anglican Church
 # Anglican Church officials in Christchurch, New Zealand, announce that the 131-year-old landmark ChristChurch Cathedral will need to be demolished, having suffered severe damage from the 2011 Christchurch earthquake and its aftershocks. 
 
 A city councillor will chain himself to Christ Church Cathedral to prevent its demise. + CBD reopening delayed
 
 
-### Source:
+### Sources:
 
 1. [The Press Christchurch](http://www.stuff.co.nz/the-press/news/christchurch-earthquake-2011/6509696/Christ-Church-Cathedral-to-be-demolished)
 1. [Cover Image](https://static2.stuff.co.nz/1330626875/783/6510783.jpg)

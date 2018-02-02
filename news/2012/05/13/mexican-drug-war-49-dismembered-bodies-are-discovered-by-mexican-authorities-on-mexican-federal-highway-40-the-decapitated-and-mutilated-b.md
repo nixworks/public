@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/13/mexican-drug-war-49-dismembered-bodies-are-discovered-by-mexican-authorities-on-mexican-federal-highway-40-the-decapitated-and-mutilated-b.html)  [JSON](/news/2012/05/13/mexican-drug-war-49-dismembered-bodies-are-discovered-by-mexican-authorities-on-mexican-federal-highway-40-the-decapitated-and-mutilated-b.json)  [XML](/news/2012/05/13/mexican-drug-war-49-dismembered-bodies-are-discovered-by-mexican-authorities-on-mexican-federal-highway-40-the-decapitated-and-mutilated-b.xml)  
+
 ### [2012-05-13](/news/2012/05/13/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: 49 dismembered bodies are discovered by Mexican authorities on Mexican Federal Highway 40. The decapitated and mutilated bodies were dumped on a roadside near the northern city of Monterrey, presumably by members of the powerful Los Zetas drug cartel. 
 
 Mexican authorities find 49 mutilated bodies dumped on a roadside near Monterrey - the latest massacre blamed on a feud between drugs gangs.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18052540)
 2. [CNN](http://www.cnn.com/2012/05/13/world/americas/mexico-remains/index.html)

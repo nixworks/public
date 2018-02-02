@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/30/former-united-states-deputy-secretary-of-state-richard-armitage-originally-revealed-the-identity-of-valerie-plame-to-columnist-robert-novak.html)  [JSON](/news/2006/08/30/former-united-states-deputy-secretary-of-state-richard-armitage-originally-revealed-the-identity-of-valerie-plame-to-columnist-robert-novak.json)  [XML](/news/2006/08/30/former-united-states-deputy-secretary-of-state-richard-armitage-originally-revealed-the-identity-of-valerie-plame-to-columnist-robert-novak.xml)  
+
 ### [2006-08-30](/news/2006/08/30/index.md)
 
+##### US Deputy Secretary of State
 #  Former United States Deputy Secretary of State Richard Armitage originally revealed the identity of Valerie Plame to columnist Robert Novak in 2003. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/POLITICS/08/30/leak.armitage/index.html?section=cnn_allpolitics)
 

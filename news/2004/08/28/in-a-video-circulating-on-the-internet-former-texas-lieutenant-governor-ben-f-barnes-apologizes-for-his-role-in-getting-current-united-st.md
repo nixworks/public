@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/28/in-a-video-circulating-on-the-internet-former-texas-lieutenant-governor-ben-f-barnes-apologizes-for-his-role-in-getting-current-united-st.html)  [JSON](/news/2004/08/28/in-a-video-circulating-on-the-internet-former-texas-lieutenant-governor-ben-f-barnes-apologizes-for-his-role-in-getting-current-united-st.json)  [XML](/news/2004/08/28/in-a-video-circulating-on-the-internet-former-texas-lieutenant-governor-ben-f-barnes-apologizes-for-his-role-in-getting-current-united-st.xml)  
+
 ### [2004-08-28](/news/2004/08/28/index.md)
 
+##### Texas
 #  In a video circulating on the Internet, former Texas lieutenant governor Ben F. Barnes apologizes for his role in getting current United States President George W. Bush into the Texas Air National Guard in 1968. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chicago Sun-Times](http://www.suntimes.com/output/elect/cst-nws-bside29.html)
 

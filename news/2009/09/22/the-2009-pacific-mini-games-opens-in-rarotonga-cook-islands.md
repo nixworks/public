@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/22/the-2009-pacific-mini-games-opens-in-rarotonga-cook-islands.html)  [JSON](/news/2009/09/22/the-2009-pacific-mini-games-opens-in-rarotonga-cook-islands.json)  [XML](/news/2009/09/22/the-2009-pacific-mini-games-opens-in-rarotonga-cook-islands.xml)  
+
 ### [2009-09-22](/news/2009/09/22/index.md)
 
+##### 2009 Pacific Mini Games
 #  The 2009 Pacific Mini Games opens in Rarotonga, Cook Islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=49246)
 2. [Scoop.co.nz](http://pacific.scoop.co.nz/2009/09/pacific-mini-games-ready-to-blast-off/)

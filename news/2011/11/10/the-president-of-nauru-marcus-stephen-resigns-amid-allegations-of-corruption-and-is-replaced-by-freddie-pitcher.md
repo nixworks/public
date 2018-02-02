@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/10/the-president-of-nauru-marcus-stephen-resigns-amid-allegations-of-corruption-and-is-replaced-by-freddie-pitcher.html)  [JSON](/news/2011/11/10/the-president-of-nauru-marcus-stephen-resigns-amid-allegations-of-corruption-and-is-replaced-by-freddie-pitcher.json)  [XML](/news/2011/11/10/the-president-of-nauru-marcus-stephen-resigns-amid-allegations-of-corruption-and-is-replaced-by-freddie-pitcher.xml)  
+
 ### [2011-11-10](/news/2011/11/10/index.md)
 
+##### President of Nauru
 # The President of Nauru, Marcus Stephen, resigns amid allegations of corruption, and is replaced by Freddie Pitcher. 
 
 The Opposition says a change of leadership in Nauru will not impact its policy of sending asylum seekers there.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/2011-11-10/nauru-president-resigns/3658114/?site=sydney)
 1. [Cover Image](http://www.abc.net.au/news/image/911230-1x1-700x700.jpg)

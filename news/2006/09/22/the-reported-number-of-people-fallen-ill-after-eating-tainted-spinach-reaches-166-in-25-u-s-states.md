@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/09/22/the-reported-number-of-people-fallen-ill-after-eating-tainted-spinach-reaches-166-in-25-u-s-states.html)  [JSON](/news/2006/09/22/the-reported-number-of-people-fallen-ill-after-eating-tainted-spinach-reaches-166-in-25-u-s-states.json)  [XML](/news/2006/09/22/the-reported-number-of-people-fallen-ill-after-eating-tainted-spinach-reaches-166-in-25-u-s-states.xml)  
+
 ### [2006-09-22](/news/2006/09/22/index.md)
 
+##### tainted spinach
 #  The reported number of people fallen ill after eating tainted spinach reaches 166 in 25 U.S. states. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [CDC](http://www.cdc.gov/foodborne/ecolispinach/current.htm)
+1. [CDC](https://www.cdc.gov/foodborne/ecolispinach/current.htm)
 
 ### Related:
 

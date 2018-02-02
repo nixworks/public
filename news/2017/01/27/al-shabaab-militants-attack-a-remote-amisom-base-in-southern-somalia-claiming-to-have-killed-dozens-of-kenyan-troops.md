@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/27/al-shabaab-militants-attack-a-remote-amisom-bas
 
 ### [2017-01-27](/news/2017/01/27/index.md)
 
+##### War in Somalia (2009-present)
 # Al-Shabaab militants attack a remote AMISOM base in southern Somalia, claiming to have killed dozens of Kenyan troops. 
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-
 
 ### [2018-01-20](/news/2018/01/20/index.md)
 
+##### Chinese
 # China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. 
 
 China has accused the United States of sending a warship without permission into what it said was its territorial waters in the disputed South China Sea, a

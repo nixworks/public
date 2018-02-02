@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/30/the-financial-industry-regulatory-authority-ann
 
 ### [2016-11-30](/news/2016/11/30/index.md)
 
+##### Financial Industry Regulatory Authority
 # The Financial Industry Regulatory Authority announces it has fined Bank of America Merrill Lynch $7 million for failure to supervise the use of leverage in its brokerage accounts, especially in connection with Puerto Rico municipal bonds. 
 
 The Financial Industry Regulatory Authority said on Wednesday it fined Bank of America (BAC.N) Merrill Lynch $7 million for inadequate supervision of client brokerage accounts that used leverage to buy Puerto Rican municipal bonds and other securities.

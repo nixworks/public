@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2010/12/27/the-commission-overseeing-the-independence-referendum-in-southern-sudan-rejects-a-lawsuit-to-halt-the-referendum-on-the-basis-that-the-commi.html)  [JSON](/news/2010/12/27/the-commission-overseeing-the-independence-referendum-in-southern-sudan-rejects-a-lawsuit-to-halt-the-referendum-on-the-basis-that-the-commi.json)  [XML](/news/2010/12/27/the-commission-overseeing-the-independence-referendum-in-southern-sudan-rejects-a-lawsuit-to-halt-the-referendum-on-the-basis-that-the-commi.xml)  
+
 ### [2010-12-27](/news/2010/12/27/index.md)
 
+##### Southern Sudanese Independence Referendum
 # The commission overseeing the independence referendum in Southern Sudan rejects a lawsuit to halt the referendum on the basis that the commission violated the law. 
 
+The commission organizing Southern Sudan’s Jan. 9 independence referendum rejected a lawsuit seeking to halt the vote on the grounds that the committee violated the law, a spokesman said.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2010-12-27/sudan-referendum-commission-rejects-lawsuit-over-delays-in-registration.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2010-12-27/sudan-referendum-commission-rejects-lawsuit-over-delays-in-registration.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

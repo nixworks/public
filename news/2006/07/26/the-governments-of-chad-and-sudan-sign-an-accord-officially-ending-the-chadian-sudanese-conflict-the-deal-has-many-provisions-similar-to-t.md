@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/26/the-governments-of-chad-and-sudan-sign-an-accord-officially-ending-the-chadian-sudanese-conflict-the-deal-has-many-provisions-similar-to-t.html)  [JSON](/news/2006/07/26/the-governments-of-chad-and-sudan-sign-an-accord-officially-ending-the-chadian-sudanese-conflict-the-deal-has-many-provisions-similar-to-t.json)  [XML](/news/2006/07/26/the-governments-of-chad-and-sudan-sign-an-accord-officially-ending-the-chadian-sudanese-conflict-the-deal-has-many-provisions-similar-to-t.xml)  
+
 ### [2006-07-26](/news/2006/07/26/index.md)
 
+##### second Dby administration
 #  The governments of Chad and Sudan sign an accord officially ending the Chadian-Sudanese conflict. The deal has many provisions similar to that of the Tripoli Accord, which Sudan has violated four times by aiding Janjaweed, UFDC, and anti-Boziz rebels and genocidaires. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Syracuse.com](http://www.syracuse.com/newsflash/international/index.ssf?/base/international-4/1153932865118550.xml&storylist=international)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/23/authorities-arrest-at-least-eight-people-in-con
 
 ### [2017-03-23](/news/2017/03/23/index.md)
 
+##### last month's Westminster attack
 # Authorities arrest at least eight people in connection with yesterday's attack. 
 
 The Islamic State has claimed responsibility of the terror attack that left four people dead, including the attack and a police officer, outside of London’s Parliament building on Wednesday, according to AMAQ media agency.

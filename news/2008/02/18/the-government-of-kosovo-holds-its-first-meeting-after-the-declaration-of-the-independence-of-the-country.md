@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/18/the-government-of-kosovo-holds-its-first-meeting-after-the-declaration-of-the-independence-of-the-country.html)  [JSON](/news/2008/02/18/the-government-of-kosovo-holds-its-first-meeting-after-the-declaration-of-the-independence-of-the-country.json)  [XML](/news/2008/02/18/the-government-of-kosovo-holds-its-first-meeting-after-the-declaration-of-the-independence-of-the-country.xml)  
+
 ### [2008-02-18](/news/2008/02/18/index.md)
 
+##### Kosovo
 #  The Government of Kosovo holds its first meeting after the declaration of the independence of the country.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Office of the Prime Minister of Kosovo](http://www.ks-gov.net/pm/Fillimi/tabid/36/EntryID/216/Default.aspx)
 

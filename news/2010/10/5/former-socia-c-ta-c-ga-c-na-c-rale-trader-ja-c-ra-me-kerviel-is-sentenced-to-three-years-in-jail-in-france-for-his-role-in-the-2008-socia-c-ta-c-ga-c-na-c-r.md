@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/5/former-socia-c-ta-c-ga-c-na-c-rale-trader-ja-c-ra-me-kerviel-is-sentenced-to-three-years-in-jail-in-france-for-his-role-in-the-2008-socia-c-ta-c-ga-c-na-c-r.html)  [JSON](/news/2010/10/5/former-socia-c-ta-c-ga-c-na-c-rale-trader-ja-c-ra-me-kerviel-is-sentenced-to-three-years-in-jail-in-france-for-his-role-in-the-2008-socia-c-ta-c-ga-c-na-c-r.json)  [XML](/news/2010/10/5/former-socia-c-ta-c-ga-c-na-c-rale-trader-ja-c-ra-me-kerviel-is-sentenced-to-three-years-in-jail-in-france-for-his-role-in-the-2008-socia-c-ta-c-ga-c-na-c-r.xml)  
+
 ### [2010-10-5](/news/2010/10/5/index.md)
 
+##### Societe Generale
 # Former Societe Generale trader Jerome Kerviel is sentenced to three years in jail in France for his role in the 2008 Societe Generale trading loss. 
 
 Former Societe Generale trader Jerome Kerviel sentenced to three years in jail and ordered to repay 4.9 billion euros.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/business/2010/10/201010553034989873.html)
 2. [BBC](http://www.bbc.co.uk/news/business-11474077)
@@ -13,8 +17,8 @@ Former Societe Generale trader Jerome Kerviel sentenced to three years in jail a
 
 ### Related:
 
-1. [ Jerome Kerviel is blamed for worsening the January 2008 stock market downturn by allegedly losing EUR4.9 billion ($7 billion) for French bank Societe Generale. ](/news/2008/01/24/ja-c-ra-me-kerviel-is-blamed-for-worsening-the-january-2008-stock-market-downturn-by-allegedly-losing-a-4-9-billion-7-billion-for-french.md) _Context: France, Jerome Kerviel, Societe Generale_
-2. [Credit rating agency Moody's downgrades the ratings of France's three biggest banks, Credit Agricole, BNP Paribas and Societe Generale. ](/news/2011/12/9/credit-rating-agency-moody-s-downgrades-the-ratings-of-france-s-three-biggest-banks-cra-c-dit-agricole-bnp-paribas-and-socia-c-ta-c-ga-c-na-c-rale.md) _Context: France, Societe Generale_
-3. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: France_
-4. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _Context: France_
-5. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: France_
+1. [Credit rating agency Moody's downgrades the ratings of France's three biggest banks, Credit Agricole, BNP Paribas and Societe Generale. ](/news/2011/12/9/credit-rating-agency-moody-s-downgrades-the-ratings-of-france-s-three-biggest-banks-cra-c-dit-agricole-bnp-paribas-and-socia-c-ta-c-ga-c-na-c-rale.md) _Context: France, Societe Generale_
+2. [ Jerome Kerviel is blamed for worsening the January 2008 stock market downturn by allegedly losing EUR4.9 billion ($7 billion) for French bank Societe Generale. ](/news/2008/01/24/ja-c-ra-me-kerviel-is-blamed-for-worsening-the-january-2008-stock-market-downturn-by-allegedly-losing-a-4-9-billion-7-billion-for-french.md) _Context: Jerome Kerviel, Societe Generale_
+3. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: France_
+4. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: France_
+5. [Paris Zoological Park, France, is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/paris-zoological-park-france-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md) _Context: France_

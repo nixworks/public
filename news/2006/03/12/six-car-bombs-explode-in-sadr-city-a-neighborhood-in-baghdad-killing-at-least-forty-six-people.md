@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/12/six-car-bombs-explode-in-sadr-city-a-neighborhood-in-baghdad-killing-at-least-forty-six-people.html)  [JSON](/news/2006/03/12/six-car-bombs-explode-in-sadr-city-a-neighborhood-in-baghdad-killing-at-least-forty-six-people.json)  [XML](/news/2006/03/12/six-car-bombs-explode-in-sadr-city-a-neighborhood-in-baghdad-killing-at-least-forty-six-people.xml)  
+
 ### [2006-03-12](/news/2006/03/12/index.md)
 
+##### Sadr City
 #  Six car bombs explode in Sadr City, a neighborhood in Baghdad, killing at least forty-six people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/meast/03/12/iraq.main/index.html)
 

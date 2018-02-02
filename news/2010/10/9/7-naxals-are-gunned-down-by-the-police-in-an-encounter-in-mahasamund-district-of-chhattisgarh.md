@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/9/7-naxals-are-gunned-down-by-the-police-in-an-encounter-in-mahasamund-district-of-chhattisgarh.html)  [JSON](/news/2010/10/9/7-naxals-are-gunned-down-by-the-police-in-an-encounter-in-mahasamund-district-of-chhattisgarh.json)  [XML](/news/2010/10/9/7-naxals-are-gunned-down-by-the-police-in-an-encounter-in-mahasamund-district-of-chhattisgarh.xml)  
+
 ### [2010-10-9](/news/2010/10/9/index.md)
 
+##### naxal
 # 7 naxals are gunned down by the police in an encounter in Mahasamund district of Chhattisgarh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deccan Chronicle](http://www.deccanchronicle.com/national/7-naxals-killed-chhattisgarh-108)
 

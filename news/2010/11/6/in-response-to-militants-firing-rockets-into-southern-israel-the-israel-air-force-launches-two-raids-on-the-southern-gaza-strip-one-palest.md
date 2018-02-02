@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/6/in-response-to-militants-firing-rockets-into-southern-israel-the-israel-air-force-launches-two-raids-on-the-southern-gaza-strip-one-palest.html)  [JSON](/news/2010/11/6/in-response-to-militants-firing-rockets-into-southern-israel-the-israel-air-force-launches-two-raids-on-the-southern-gaza-strip-one-palest.json)  [XML](/news/2010/11/6/in-response-to-militants-firing-rockets-into-southern-israel-the-israel-air-force-launches-two-raids-on-the-southern-gaza-strip-one-palest.xml)  
+
 ### [2010-11-6](/news/2010/11/6/index.md)
 
+##### Palestinian rocket attacks on Israel
 # In response to militants firing rockets into southern Israel, the Israel Air Force launches two raids on the southern Gaza Strip; one Palestinian is wounded. 
 
 Relative calm in south disturbed as Palestinian terrorists launch rocket from north Gaza
 
 
-### Source:
+### Sources:
 
 1. [France24](http://www.france24.com/en/20101106-palestinian-hurt-israeli-gaza-raids-after-rocket-strike)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3980351,00.html)

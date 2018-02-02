@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/1/a-four-day-state-of-emergency-is-declared-in-mongolia-after-violent-protests-following-the-legislative-elections.html)  [JSON](/news/2008/07/1/a-four-day-state-of-emergency-is-declared-in-mongolia-after-violent-protests-following-the-legislative-elections.json)  [XML](/news/2008/07/1/a-four-day-state-of-emergency-is-declared-in-mongolia-after-violent-protests-following-the-legislative-elections.xml)  
+
 ### [2008-07-1](/news/2008/07/1/index.md)
 
+##### Mongolia
 #  A four-day state of emergency is declared in Mongolia after violent protests following the legislative elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7483286.stm)
 

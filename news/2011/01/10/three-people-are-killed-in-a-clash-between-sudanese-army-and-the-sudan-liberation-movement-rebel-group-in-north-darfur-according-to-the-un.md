@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/01/10/three-people-are-killed-in-a-clash-between-sudanese-army-and-the-sudan-liberation-movement-rebel-group-in-north-darfur-according-to-the-un.html)  [JSON](/news/2011/01/10/three-people-are-killed-in-a-clash-between-sudanese-army-and-the-sudan-liberation-movement-rebel-group-in-north-darfur-according-to-the-un.json)  [XML](/news/2011/01/10/three-people-are-killed-in-a-clash-between-sudanese-army-and-the-sudan-liberation-movement-rebel-group-in-north-darfur-according-to-the-un.xml)  
+
 ### [2011-01-10](/news/2011/01/10/index.md)
 
+##### Sudanese government troops
 # Three people are killed in a clash between Sudanese army and the Sudan Liberation Movement rebel group, in north Darfur, according to the United Nations-led peacekeeping mission. 
 
+Three people were killed in an exchange of fire in Sudan’s western region of Darfur between the government and a rebel group, the United Nations-led peacekeeping mission said.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-01-10/firefight-in-sudan-s-darfur-kills-three-people-un-reports.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-01-10/firefight-in-sudan-s-darfur-kills-three-people-un-reports.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

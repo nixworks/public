@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/22/the-u-s-house-committee-on-foreign-affairs-unan
 
 ### [2016-04-22](/news/2016/04/22/index.md)
 
+##### Taiwan-United States relations
 # The U.S. House Committee on Foreign Affairs unanimously passes a resolution reaffirming the Taiwan Relations Act and the Six Assurances. 
 
 The US House of Representatives’ Foreign Affairs Committee on Wednesday unanimously passed a resolution reaffirming the Taiwan Relations Act (TRA) and the “six assurances” as the “cornerstone of US-Taiwan relations.”

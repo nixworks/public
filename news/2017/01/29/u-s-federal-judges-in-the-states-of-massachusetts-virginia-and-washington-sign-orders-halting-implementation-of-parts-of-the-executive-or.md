@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/29/u-s-federal-judges-in-the-states-of-massachuset
 
 ### [2017-01-29](/news/2017/01/29/index.md)
 
+##### Executive Order 13769
 # U.S. federal judges in the states of Massachusetts, Virginia, and Washington sign orders halting implementation of parts of the executive order. 
 
 Federal judges in three states have followed one in New York in barring authorities from deporting travellers affected by US President Donald Trump&#039;s executive order imposing restrictions on immigration from seven Muslim-majority nations.

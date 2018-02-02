@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/13/city-officials-in-orlando-florida-continue-to-i
 
 ### [2016-06-13](/news/2016/06/13/index.md)
 
+##### 2016 Orlando mass shooting
 # City officials in Orlando, Florida, continue to identify the bodies of the victims in yesterday's attack. So far, 33 of the reported 49 victims have been identified and their families notified. 
 
 During this difficult time, we offer heartfelt condolences to the families of the 49 victims who lost their lives during the Pulse tragedy. To the families and friends of the victims, your city is wit

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2004/11/22/a-gulfstream-ii-airplane-heading-to-pick-up-former-united-states-president-george-h-w-bush-crashes-before-landing-killing-all-three-peopl.html)  [JSON](/news/2004/11/22/a-gulfstream-ii-airplane-heading-to-pick-up-former-united-states-president-george-h-w-bush-crashes-before-landing-killing-all-three-peopl.json)  [XML](/news/2004/11/22/a-gulfstream-ii-airplane-heading-to-pick-up-former-united-states-president-george-h-w-bush-crashes-before-landing-killing-all-three-peopl.xml)  
+
 ### [2004-11-22](/news/2004/11/22/index.md)
 
+##### Gulfstream II
 #  A Gulfstream II airplane heading to pick up former United States President George H.W. Bush crashes before landing, killing all three people on board, in Houston, Texas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/US/11/22/texas.crash/index.html)
 
 ### Related:
 
-1. [ Former U.S. President George H. W. Bush is hospitalized in intensive care at Houston Methodist Hospital for treatment of pneumonia. His wife, Barbara is also hospitalized. ](/news/2017/01/18/former-u-s-president-george-h-w-bush-is-hospitalized-in-intensive-care-at-houston-methodist-hospital-for-treatment-of-pneumonia-his-wif.md) _Context: George H. W. Bush, U.S. President_
-2. [U.S. news magazine "Time" selects U.S. President Barack Obama as its 2012 Person of the Year, following on from his 2008 award, and those of his predecessors George W. Bush in 2000 and 2004, Bill Clinton in 1992 and 1998, George H. W. Bush in 1990, Ronald Reagan in 1980 and 1983, Jimmy Carter in 1976, Richard Nixon in 1971 and 1972 and Lyndon B. Johnson in 1964 and 1967. ](/news/2012/12/19/u-s-news-magazine-time-selects-u-s-president-barack-obama-as-its-2012-person-of-the-year-following-on-from-his-2008-award-and-those-of.md) _Context: George H. W. Bush, U.S. President_
-3. [George H. W. Bush is admitted in stable condition to The Methodist Hospital of the Texas Medical Center in Houston, Texas. The 88-year-old served as the 41st President of the United States from 1989 till 1993 and was hospitalized due to a severe cough and bronchitis but is expected to be discharged within 72 hours. ](/news/2012/11/29/george-h-w-bush-is-admitted-in-stable-condition-to-the-methodist-hospital-of-the-texas-medical-center-in-houston-texas-the-88-year-old-s.md) _Context: George H. W. Bush, U.S. President_
-4. [ Former US Presidents George H. W. Bush and Bill Clinton toured parts of Thailand that were ravaged by the Asian Tsunami. ""'[Newslink missing]""' ](/news/2005/02/19/former-us-presidents-george-h-w-bush-and-bill-clinton-toured-parts-of-thailand-that-were-ravaged-by-the-asian-tsunami-newslink-missi.md) _Context: George H. W. Bush, U.S. President_
-5. [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md) _Context: U.S. President_
+1. [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md) _Context: U.S. President_
+2. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _Context: U.S. President_
+3. [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md) _Context: U.S. President_
+4. [Andrew McCabe resigns as Deputy Director of the Federal Bureau of Investigation amid a dispute with President Donald Trump. ](/news/2018/01/29/andrew-mccabe-resigns-as-deputy-director-of-the-federal-bureau-of-investigation-amid-a-dispute-with-president-donald-trump.md) _Context: U.S. President_
+5. [U.S. President Donald Trump names former NASA astronaut James F. Reilly as leader of the U.S. Geological Survey. ](/news/2018/01/26/u-s-president-donald-trump-names-former-nasa-astronaut-james-f-reilly-as-leader-of-the-u-s-geological-survey.md) _Context: U.S. President_

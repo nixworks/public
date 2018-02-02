@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/31/the-verdict-in-the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-scheduled-for-today-is-postponed-until-augus.html)  [JSON](/news/2009/07/31/the-verdict-in-the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-scheduled-for-today-is-postponed-until-augus.json)  [XML](/news/2009/07/31/the-verdict-in-the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-scheduled-for-today-is-postponed-until-augus.xml)  
+
 ### [2009-07-31](/news/2009/07/31/index.md)
 
+##### National League for Democracy
 #  The verdict in the trial of National League for Democracy General Secretary Aung San Suu Kyi, scheduled for today, is postponed until August 11. 
 
 Myanmar opposition leader to know fate on August 11 as court defers ruling.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/07/200973195348304767.html)
 2. [Bangkok Post](http://www.bangkokpost.com/news/world/150706/burma-court-delays-suu-kyi-verdict)

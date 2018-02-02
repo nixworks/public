@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/1/delays-in-releasing-the-official-results-of-parliamentary-and-presidential-elections-in-zimbabwe-are-met-with-widespread-speculation-and-co.html)  [JSON](/news/2008/04/1/delays-in-releasing-the-official-results-of-parliamentary-and-presidential-elections-in-zimbabwe-are-met-with-widespread-speculation-and-co.json)  [XML](/news/2008/04/1/delays-in-releasing-the-official-results-of-parliamentary-and-presidential-elections-in-zimbabwe-are-met-with-widespread-speculation-and-co.xml)  
+
 ### [2008-04-1](/news/2008/04/1/index.md)
 
+##### parliamentary
 #  Delays in releasing the official results of parliamentary and presidential elections in Zimbabwe are met with widespread speculation and concerns over possible vote rigging. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7321756.stm)
 2. [CNN](http://edition.cnn.com/2008/WORLD/africa/04/01/zimbabwe.election/)

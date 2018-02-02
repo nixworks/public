@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/18/president-of-turkmenistan-turkmenbashi-saparmurat-niyazov-schedules-a-second-eye-operation-in-germany-in-january-amid-rumors-that-his-hea.html)  [JSON](/news/2006/11/18/president-of-turkmenistan-turkmenbashi-saparmurat-niyazov-schedules-a-second-eye-operation-in-germany-in-january-amid-rumors-that-his-hea.json)  [XML](/news/2006/11/18/president-of-turkmenistan-turkmenbashi-saparmurat-niyazov-schedules-a-second-eye-operation-in-germany-in-january-amid-rumors-that-his-hea.xml)  
+
 ### [2006-11-18](/news/2006/11/18/index.md)
 
+##### president
 #  President of Turkmenistan "Turkmenbashi" Saparmurat Niyazov schedules a second eye operation in Germany in January amid rumors that his health is poor. President Niyazov cannot be operated on in Turkmenistan because earlier this year he signed a decree that closed all hospitals outside of Ashgabat and replaced most healthcare staff with soldiers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFE/RL](http://www.rferl.org/featuresarticle/2006/11/01CC447B-965A-43E1-AF94-59AE2C63A94B.html)
 2. [World Medical Association](http://www.wma.net/e/humanrights/pdf/turkmenistan_closure_hospitals.pdf)

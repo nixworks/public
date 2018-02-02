@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/24/news-corporation-lobbyist-fred-michel-tells-the-leveson-inquiry-there-was-nothing-inappropriate-in-his-relationship-with-adam-smith-a-speci.html)  [JSON](/news/2012/05/24/news-corporation-lobbyist-fred-michel-tells-the-leveson-inquiry-there-was-nothing-inappropriate-in-his-relationship-with-adam-smith-a-speci.json)  [XML](/news/2012/05/24/news-corporation-lobbyist-fred-michel-tells-the-leveson-inquiry-there-was-nothing-inappropriate-in-his-relationship-with-adam-smith-a-speci.xml)  
+
 ### [2012-05-24](/news/2012/05/24/index.md)
 
+##### News Corporation
 # News Corporation lobbyist Fred Michel tells the Leveson Inquiry there was nothing inappropriate in his relationship with Adam Smith, a special adviser to UK Secretary of State for Culture, Media and Sport Jeremy Hunt. Smith later tells the hearing Hunt sent a memorandum to Prime Minister David Cameron in which he said he was in favour of News Corp's bid to take control of BSkyB before he was given a key role in the process. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18187228)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60476000/jpg/_60476349_014813453-1.jpg)

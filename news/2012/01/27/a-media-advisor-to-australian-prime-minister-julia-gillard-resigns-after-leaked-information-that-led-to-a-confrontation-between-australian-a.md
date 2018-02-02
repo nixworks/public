@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/27/a-media-advisor-to-australian-prime-minister-julia-gillard-resigns-after-leaked-information-that-led-to-a-confrontation-between-australian-a.html)  [JSON](/news/2012/01/27/a-media-advisor-to-australian-prime-minister-julia-gillard-resigns-after-leaked-information-that-led-to-a-confrontation-between-australian-a.json)  [XML](/news/2012/01/27/a-media-advisor-to-australian-prime-minister-julia-gillard-resigns-after-leaked-information-that-led-to-a-confrontation-between-australian-a.xml)  
+
 ### [2012-01-27](/news/2012/01/27/index.md)
 
+##### Australia
 # A media advisor to Australian Prime Minister Julia Gillard resigns after leaked information that led to a confrontation between Australian Aborigines and Gillard yesterday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052970204661604577185920068223502.html)
 

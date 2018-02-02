@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/03/19/robert-cooper-special-adviser-to-baroness-catherine-ashton-high-representative-of-the-european-union-for-political-foreign-affairs-and-se.html)  [JSON](/news/2011/03/19/robert-cooper-special-adviser-to-baroness-catherine-ashton-high-representative-of-the-european-union-for-political-foreign-affairs-and-se.json)  [XML](/news/2011/03/19/robert-cooper-special-adviser-to-baroness-catherine-ashton-high-representative-of-the-european-union-for-political-foreign-affairs-and-se.xml)  
+
 ### [2011-03-19](/news/2011/03/19/index.md)
 
+##### Robert Cooper
 # Robert Cooper, special adviser to Baroness Catherine Ashton (High Representative of the European Union for political, foreign affairs and security), meets with Bahraini Interior Minister Lt. Gen. Sheikh Rashid bin Abdulla Al Khalifa [http:--www.saudinewstoday.com-article-53138__Bahrain%27s+Interior+Minister+Meets+EU+Official (Saudi News Today)] to discuss the security situation of the Country and measures taken towards resolution under the light of the recent protests.
 
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/03/6/bolivian-president-carlos-mesa-announces-his-resignation-effective-monday.html)  [JSON](/news/2005/03/6/bolivian-president-carlos-mesa-announces-his-resignation-effective-monday.json)  [XML](/news/2005/03/6/bolivian-president-carlos-mesa-announces-his-resignation-effective-monday.xml)  
+
 ### [2005-03-6](/news/2005/03/6/index.md)
 
+##### Bolivia
 #  Bolivian President Carlos Mesa announces his resignation, effective Monday. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7819860)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7819860)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

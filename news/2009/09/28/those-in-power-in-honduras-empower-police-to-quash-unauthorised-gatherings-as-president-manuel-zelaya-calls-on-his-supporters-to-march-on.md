@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/28/those-in-power-in-honduras-empower-police-to-quash-unauthorised-gatherings-as-president-manuel-zelaya-calls-on-his-supporters-to-march-on.html)  [JSON](/news/2009/09/28/those-in-power-in-honduras-empower-police-to-quash-unauthorised-gatherings-as-president-manuel-zelaya-calls-on-his-supporters-to-march-on.json)  [XML](/news/2009/09/28/those-in-power-in-honduras-empower-police-to-quash-unauthorised-gatherings-as-president-manuel-zelaya-calls-on-his-supporters-to-march-on.xml)  
+
 ### [2009-09-28](/news/2009/09/28/index.md)
 
+##### Honduras
 #  Those in power in Honduras empower police to quash "unauthorised" gatherings as President Manuel Zelaya calls on his supporters to march on the three-month anniversary of his fall, saying it will be "the final offensive". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2009/sep/28/honduras-suspends-civil-liberties-zelaya)
 

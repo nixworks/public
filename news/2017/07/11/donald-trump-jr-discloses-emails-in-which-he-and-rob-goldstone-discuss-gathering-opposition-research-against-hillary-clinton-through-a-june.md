@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/11/donald-trump-jr-discloses-emails-in-which-he-an
 
 ### [2017-07-11](/news/2017/07/11/index.md)
 
+##### Links between Trump associates and Russian officials
 # Donald Trump Jr. discloses emails in which he and Rob Goldstone discuss gathering opposition research against Hillary Clinton through a June 2016 meeting with Russian lawyer Natalia Veselnitskaya. 
 
 President’s son forced to release email chain that reveals he welcomed what he was told was Russian government effort to damage Clinton’s campaign

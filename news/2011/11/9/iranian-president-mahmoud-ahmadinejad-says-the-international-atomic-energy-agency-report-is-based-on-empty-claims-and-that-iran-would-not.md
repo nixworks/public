@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2011/11/9/iranian-president-mahmoud-ahmadinejad-says-the-international-atomic-energy-agency-report-is-based-on-empty-claims-and-that-iran-would-not.html)  [JSON](/news/2011/11/9/iranian-president-mahmoud-ahmadinejad-says-the-international-atomic-energy-agency-report-is-based-on-empty-claims-and-that-iran-would-not.json)  [XML](/news/2011/11/9/iranian-president-mahmoud-ahmadinejad-says-the-international-atomic-energy-agency-report-is-based-on-empty-claims-and-that-iran-would-not.xml)  
+
 ### [2011-11-9](/news/2011/11/9/index.md)
 
+##### President
 # Iranian President Mahmoud Ahmadinejad says the International Atomic Energy Agency report is based on "empty claims" and that Iran would not budge from its nuclear program despite allegations it may be trying to develop nuclear weapons; European countries and the US say they will consider fresh sanctions against Iran. 
 
 President Mahmoud Ahmadinejad says Iran &quot;will not budge&quot; from its nuclear programme, despite a new UN report suggesting it may have a military aim.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-15652783)
-2. [Bloomberg](http://www.bloomberg.com/news/2011-11-09/u-s-europe-press-iran-sanctions-after-un-shows-atom-bomb-work.html)
+2. [Bloomberg](https://www.bloomberg.com/news/2011-11-09/u-s-europe-press-iran-sanctions-after-un-shows-atom-bomb-work.html)
 3. [Reuters Africa](http://af.reuters.com/article/energyOilNews/idAFN1E7A71OB20111109?sp=true)
-4. [The New York Times](http://www.nytimes.com/2011/11/10/world/europe/russia-dismisses-calls-for-new-un-sanctions-on-iran.html?ref=internationalatomicenergyagency)
+4. [The New York Times](https://www.nytimes.com/2011/11/10/world/europe/russia-dismisses-calls-for-new-un-sanctions-on-iran.html?ref=internationalatomicenergyagency)
 4. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/56599000/jpg/_56599879_56599878.jpg)
 
 ### Related:

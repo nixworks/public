@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/14/helios-airways-flight-522-en-route-from-larnaca-cyprus-via-athens-greece-to-prague-czech-republic-crashes-near-athens-with-at-least-121.html)  [JSON](/news/2005/08/14/helios-airways-flight-522-en-route-from-larnaca-cyprus-via-athens-greece-to-prague-czech-republic-crashes-near-athens-with-at-least-121.json)  [XML](/news/2005/08/14/helios-airways-flight-522-en-route-from-larnaca-cyprus-via-athens-greece-to-prague-czech-republic-crashes-near-athens-with-at-least-121.xml)  
+
 ### [2005-08-14](/news/2005/08/14/index.md)
 
+##### Helios Airways
 #  Helios Airways Flight 522 en route from Larnaca, Cyprus via Athens, Greece to Prague, Czech Republic crashes near Athens, with at least 121 onboard. Observations from Greek fighter aircraft indicate a decompression problem. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4150312.stm)
 

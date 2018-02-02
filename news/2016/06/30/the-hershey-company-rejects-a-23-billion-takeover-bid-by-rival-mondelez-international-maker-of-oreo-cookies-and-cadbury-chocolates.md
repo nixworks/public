@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/30/the-hershey-company-rejects-a-23-billion-takeov
 
 ### [2016-06-30](/news/2016/06/30/index.md)
 
+##### The Hershey Company
 # The Hershey Company rejects a $23 billion takeover bid by rival Mondelez International, maker of Oreo cookies and Cadbury chocolates. 
 
 

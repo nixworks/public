@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2015/12/10/the-vatican-releases-a-10-000-word-document-that-among-other-things-says-jews-don-t-need-to-be-converted-to-find-salvation-and-that-catho.html)  [JSON](/news/2015/12/10/the-vatican-releases-a-10-000-word-document-that-among-other-things-says-jews-don-t-need-to-be-converted-to-find-salvation-and-that-catho.json)  [XML](/news/2015/12/10/the-vatican-releases-a-10-000-word-document-that-among-other-things-says-jews-don-t-need-to-be-converted-to-find-salvation-and-that-catho.xml)  
+
 ### [2015-12-10](/news/2015/12/10/index.md)
 
+##### Holy See
 # The Vatican releases a 10,000-word document that, among other things, says Jews don't need to be converted to find salvation, and that Catholics should work with Jews to fight antisemitism. 
 
 Catholics should not try to convert Jews and should work with them to fight anti-Semitism, the Vatican said on Thursday in a major document drawing the Church further away from the strained relations of the past.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/10/459223058/catholics-should-not-try-to-convert-jews-vatican-commission-says)
-2. [Reuters](http://www.reuters.com/article/us-pope-jews-idUSKBN0TT1BK20151210#bdz0KPLr1Y8xfUAR.97)
+2. [Reuters](https://www.reuters.com/article/us-pope-jews-idUSKBN0TT1BK20151210#bdz0KPLr1Y8xfUAR.97)
 3. [Vatican-full text](http://www.news.va/en/news/vatican-issues-new-document-on-christian-jewish-di)
-3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151210&t=2&i=1101322545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB90MF)
+3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20151210&t=2&i=1101322545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBB90MF)
 
 ### Related:
 

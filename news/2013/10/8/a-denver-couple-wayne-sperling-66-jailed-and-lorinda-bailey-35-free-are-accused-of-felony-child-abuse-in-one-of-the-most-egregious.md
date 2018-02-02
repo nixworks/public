@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/8/a-denver-couple-wayne-sperling-66-jailed-and-lorinda-bailey-35-free-are-accused-of-felony-child-abuse-in-one-of-the-most-egregious.html)  [JSON](/news/2013/10/8/a-denver-couple-wayne-sperling-66-jailed-and-lorinda-bailey-35-free-are-accused-of-felony-child-abuse-in-one-of-the-most-egregious.json)  [XML](/news/2013/10/8/a-denver-couple-wayne-sperling-66-jailed-and-lorinda-bailey-35-free-are-accused-of-felony-child-abuse-in-one-of-the-most-egregious.xml)  
+
 ### [2013-10-8](/news/2013/10/8/index.md)
 
+##### Denver
 # A Denver couple, Wayne Sperling, 66, (jailed) and Lorinda Bailey, 35, (free) are accused of felony child abuse in one of the most egregious cases of suspected abuse in state history. Four boys, ages 2 to 6, were living in a house filled with cat feces and urine, with flies everywhere. They were nonverbal, malnourished, filthy, and uneducated, communicating to caseworkers and police in grunts. The couple were accused of misdemeanor abuse of 3 other children in 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://news.msn.com/crime-justice/malnourished-boys-rescued-from-filthy-denver-home)
 

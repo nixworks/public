@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/23/amnesty-international-reports-at-least-200-civilians-have-been-killed-in-russian-air-strikes-in-syria-indicating-serious-failures-by-russi.html)  [JSON](/news/2015/12/23/amnesty-international-reports-at-least-200-civilians-have-been-killed-in-russian-air-strikes-in-syria-indicating-serious-failures-by-russi.json)  [XML](/news/2015/12/23/amnesty-international-reports-at-least-200-civilians-have-been-killed-in-russian-air-strikes-in-syria-indicating-serious-failures-by-russi.xml)  
+
 ### [2015-12-23](/news/2015/12/23/index.md)
 
+##### Syrian Civil War
 # Amnesty International reports at least 200 civilians have been killed in Russian air strikes in Syria, indicating "serious failures by Russia to respect international humanitarian law". Moscow denies causing civilian deaths. 
 
 Amnesty International says at least 200 civilians died in the first two months of Russian air strikes in Syria and war crimes may have been committed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-35162523)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/FDDE/production/_87309946_87309943.jpg)

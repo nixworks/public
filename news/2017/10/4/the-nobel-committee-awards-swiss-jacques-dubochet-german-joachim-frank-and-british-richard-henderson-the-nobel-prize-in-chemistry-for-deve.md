@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/4/the-nobel-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-for-deve.html)  [JSON](/news/2017/10/4/the-nobel-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-for-deve.json)  [XML](/news/2017/10/4/the-nobel-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-for-deve.xml)  
+
 ### [2017-10-4](/news/2017/10/4/index.md)
 
+##### Nobel Prize in Chemistry
 # The Nobel Committee awards Swiss Jacques Dubochet, German Joachim Frank, and British Richard Henderson the Nobel Prize in Chemistry for developing cryo-electron microscopy for the high-resolution structural determination of biomolecules in a solution. 
 
 This year’s prize has been awarded for developing cryo-electron microscopy for the high resolution structure determination of biomolecules in solution – join us live for all the news and reaction

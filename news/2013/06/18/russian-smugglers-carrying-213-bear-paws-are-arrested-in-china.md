@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/18/russian-smugglers-carrying-213-bear-paws-are-arrested-in-china.html)  [JSON](/news/2013/06/18/russian-smugglers-carrying-213-bear-paws-are-arrested-in-china.json)  [XML](/news/2013/06/18/russian-smugglers-carrying-213-bear-paws-are-arrested-in-china.xml)  
+
 ### [2013-06-18](/news/2013/06/18/index.md)
 
+##### bear
 # Russian smugglers carrying 213 bear paws are arrested in China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Global Times](http://www.globaltimes.cn/content/789518.shtml)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/11/19/in-a-speech-to-u-s-troops-in-south-korea-president-george-w-bush-rejects-calls-for-a-timetable-for-withdrawing-u-s-forces-from-iraq.html)  [JSON](/news/2005/11/19/in-a-speech-to-u-s-troops-in-south-korea-president-george-w-bush-rejects-calls-for-a-timetable-for-withdrawing-u-s-forces-from-iraq.json)  [XML](/news/2005/11/19/in-a-speech-to-u-s-troops-in-south-korea-president-george-w-bush-rejects-calls-for-a-timetable-for-withdrawing-u-s-forces-from-iraq.xml)  
+
 ### [2005-11-19](/news/2005/11/19/index.md)
 
+##### United States Forces Korea
 #  In a speech to U.S. troops in South Korea, President George W. Bush rejects calls for a timetable for withdrawing U.S. forces from Iraq.
 
 

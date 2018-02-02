@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/15/former-american-football-player-aaron-hernandez-is-convicted-of-murder-in-the-first-degree-in-the-town-of-fall-river-massachusetts-hernand.html)  [JSON](/news/2015/04/15/former-american-football-player-aaron-hernandez-is-convicted-of-murder-in-the-first-degree-in-the-town-of-fall-river-massachusetts-hernand.json)  [XML](/news/2015/04/15/former-american-football-player-aaron-hernandez-is-convicted-of-murder-in-the-first-degree-in-the-town-of-fall-river-massachusetts-hernand.xml)  
+
 ### [2015-04-15](/news/2015/04/15/index.md)
 
+##### American football
 # Former American football player Aaron Hernandez is convicted of murder in the first degree in the town of Fall River, Massachusetts. Hernandez shot a former friend Odin Lloyd in 2013. He was automatically sentenced to life in prison without parole. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/04/15/us/aaron-hernandez-verdict/)
 

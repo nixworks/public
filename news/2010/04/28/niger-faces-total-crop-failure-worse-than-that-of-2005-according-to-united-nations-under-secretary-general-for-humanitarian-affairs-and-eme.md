@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/28/niger-faces-total-crop-failure-worse-than-that-of-2005-according-to-united-nations-under-secretary-general-for-humanitarian-affairs-and-eme.html)  [JSON](/news/2010/04/28/niger-faces-total-crop-failure-worse-than-that-of-2005-according-to-united-nations-under-secretary-general-for-humanitarian-affairs-and-eme.json)  [XML](/news/2010/04/28/niger-faces-total-crop-failure-worse-than-that-of-2005-according-to-united-nations-under-secretary-general-for-humanitarian-affairs-and-eme.xml)  
+
 ### [2010-04-28](/news/2010/04/28/index.md)
 
+##### Niger
 # Niger faces total crop failure worse than that of 2005, according to United Nations Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator John Holmes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8648215.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKLDE63Q28M._CH_.2420)

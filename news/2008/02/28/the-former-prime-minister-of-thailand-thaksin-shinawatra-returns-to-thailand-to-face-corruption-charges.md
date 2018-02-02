@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/28/the-former-prime-minister-of-thailand-thaksin-shinawatra-returns-to-thailand-to-face-corruption-charges.html)  [JSON](/news/2008/02/28/the-former-prime-minister-of-thailand-thaksin-shinawatra-returns-to-thailand-to-face-corruption-charges.json)  [XML](/news/2008/02/28/the-former-prime-minister-of-thailand-thaksin-shinawatra-returns-to-thailand-to-face-corruption-charges.xml)  
+
 ### [2008-02-28](/news/2008/02/28/index.md)
 
+##### Prime Minister
 #  The former Prime Minister of Thailand Thaksin Shinawatra returns to Thailand to face corruption charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7267613.stm)
 

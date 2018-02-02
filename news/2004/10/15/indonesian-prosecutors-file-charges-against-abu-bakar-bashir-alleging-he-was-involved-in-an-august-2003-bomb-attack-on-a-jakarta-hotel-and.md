@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/15/indonesian-prosecutors-file-charges-against-abu-bakar-bashir-alleging-he-was-involved-in-an-august-2003-bomb-attack-on-a-jakarta-hotel-and.html)  [JSON](/news/2004/10/15/indonesian-prosecutors-file-charges-against-abu-bakar-bashir-alleging-he-was-involved-in-an-august-2003-bomb-attack-on-a-jakarta-hotel-and.json)  [XML](/news/2004/10/15/indonesian-prosecutors-file-charges-against-abu-bakar-bashir-alleging-he-was-involved-in-an-august-2003-bomb-attack-on-a-jakarta-hotel-and.xml)  
+
 ### [2004-10-15](/news/2004/10/15/index.md)
 
+##### Abu Bakar Bashir
 #  Indonesian prosecutors file charges against Abu Bakar Bashir, alleging he was involved in an August 2003 bomb attack on a Jakarta hotel and accusing him for the first time of involvement in the 2002 Bali terrorist bombing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200410/s1221348.htm)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3745664.stm)

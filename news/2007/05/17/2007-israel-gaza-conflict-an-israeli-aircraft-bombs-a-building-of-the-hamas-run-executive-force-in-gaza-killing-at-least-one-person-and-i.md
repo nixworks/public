@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/17/2007-israel-gaza-conflict-an-israeli-aircraft-bombs-a-building-of-the-hamas-run-executive-force-in-gaza-killing-at-least-one-person-and-i.html)  [JSON](/news/2007/05/17/2007-israel-gaza-conflict-an-israeli-aircraft-bombs-a-building-of-the-hamas-run-executive-force-in-gaza-killing-at-least-one-person-and-i.json)  [XML](/news/2007/05/17/2007-israel-gaza-conflict-an-israeli-aircraft-bombs-a-building-of-the-hamas-run-executive-force-in-gaza-killing-at-least-one-person-and-i.xml)  
+
 ### [2007-05-17](/news/2007/05/17/index.md)
 
+##### 2007 Israel-Gaza conflict
 #  2007 Israel-Gaza conflict: An Israeli aircraft bombs a building of the Hamas-run Executive Force in Gaza, killing at least one person and injuring about 45 others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6664917.stm)
 

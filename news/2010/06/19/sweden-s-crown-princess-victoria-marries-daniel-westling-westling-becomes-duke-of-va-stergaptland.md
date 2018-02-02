@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/19/sweden-s-crown-princess-victoria-marries-daniel-westling-westling-becomes-duke-of-va-stergaptland.html)  [JSON](/news/2010/06/19/sweden-s-crown-princess-victoria-marries-daniel-westling-westling-becomes-duke-of-va-stergaptland.json)  [XML](/news/2010/06/19/sweden-s-crown-princess-victoria-marries-daniel-westling-westling-becomes-duke-of-va-stergaptland.xml)  
+
 ### [2010-06-19](/news/2010/06/19/index.md)
 
+##### Crown Princess Victoria
 # Sweden's Crown Princess Victoria marries Daniel Westling; Westling becomes Duke of Vastergotland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BusinessWeek](http://www.businessweek.com/news/2010-06-19/sweden-s-princess-victoria-marries-daniel-westling-update1-.html)
 

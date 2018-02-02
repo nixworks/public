@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/06/28/after-numerous-attempts-to-revive-the-film-franchise-over-the-past-nineteen-years-superman-is-the-central-character-in-a-new-film-from-dir.html)  [JSON](/news/2006/06/28/after-numerous-attempts-to-revive-the-film-franchise-over-the-past-nineteen-years-superman-is-the-central-character-in-a-new-film-from-dir.json)  [XML](/news/2006/06/28/after-numerous-attempts-to-revive-the-film-franchise-over-the-past-nineteen-years-superman-is-the-central-character-in-a-new-film-from-dir.xml)  
+
 ### [2006-06-28](/news/2006/06/28/index.md)
 
+##### Superman
 #  After numerous attempts to revive the film franchise over the past nineteen years, Superman is the central character in a new film from director Bryan Singer entitled "Superman Returns".
 
 

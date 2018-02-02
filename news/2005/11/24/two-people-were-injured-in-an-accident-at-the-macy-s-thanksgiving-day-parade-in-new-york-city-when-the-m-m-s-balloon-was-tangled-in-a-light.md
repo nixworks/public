@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2005/11/24/two-people-were-injured-in-an-accident-at-the-macy-s-thanksgiving-day-parade-in-new-york-city-when-the-m-m-s-balloon-was-tangled-in-a-light.html)  [JSON](/news/2005/11/24/two-people-were-injured-in-an-accident-at-the-macy-s-thanksgiving-day-parade-in-new-york-city-when-the-m-m-s-balloon-was-tangled-in-a-light.json)  [XML](/news/2005/11/24/two-people-were-injured-in-an-accident-at-the-macy-s-thanksgiving-day-parade-in-new-york-city-when-the-m-m-s-balloon-was-tangled-in-a-light.xml)  
+
 ### [2005-11-24](/news/2005/11/24/index.md)
 
-#  Two people were injured in an accident at the Macy's Thanksgiving Day Parade in New York City when the M&M's balloon was tangled in a light pole and fell near Times Square. [http:--news.yahoo.com-s-ap-20051124-ap_on_re_us-thanksgiving_parade_16 (AP via Yahoo! News)] (Link dead as of 00:46, 15 January 2007 (UTC))
+##### Macy's Thanksgiving Day Parade
+#  Two people were injured in an accident at the Macy's Thanksgiving Day Parade in New York City when the M&M's balloon was tangled in a light pole and fell near Times Square. [https:--news.yahoo.com-s-ap-20051124-ap_on_re_us-thanksgiving_parade_16 (AP via Yahoo! News)] (Link dead as of 00:46, 15 January 2007 (UTC))
 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/1/a-border-clash-between-armenia-and-azerbaijan-occurs-leaving-several-soldiers-dead-and-both-sides-blaming-the-other-for-the-violence.html)  [JSON](/news/2010/09/1/a-border-clash-between-armenia-and-azerbaijan-occurs-leaving-several-soldiers-dead-and-both-sides-blaming-the-other-for-the-violence.json)  [XML](/news/2010/09/1/a-border-clash-between-armenia-and-azerbaijan-occurs-leaving-several-soldiers-dead-and-both-sides-blaming-the-other-for-the-violence.xml)  
+
 ### [2010-09-1](/news/2010/09/1/index.md)
 
+##### Armenia
 # A border clash between Armenia and Azerbaijan occurs, leaving several soldiers dead and both sides blaming the other for the violence. 
 
 Clashes between the forces of Azerbaijan and Armenian-backed Nagorno-Karabakh leave several soldiers dead.
 
 
-### Source:
+### Sources:
 
 1. [Aysor](http://www.aysor.am/en/news/2010/09/01/pn-comment/)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11150688)

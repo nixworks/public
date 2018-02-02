@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/28/the-yugoslav-war-crimes-tribunal-acquits-radovan-karada3-4ia-of-one-of-two-genocide-counts.html)  [JSON](/news/2012/06/28/the-yugoslav-war-crimes-tribunal-acquits-radovan-karada3-4ia-of-one-of-two-genocide-counts.json)  [XML](/news/2012/06/28/the-yugoslav-war-crimes-tribunal-acquits-radovan-karada3-4ia-of-one-of-two-genocide-counts.xml)  
+
 ### [2012-06-28](/news/2012/06/28/index.md)
 
+##### Radovan Karadzic
 # The Yugoslav war crimes tribunal acquits Radovan Karadzic of one of two genocide counts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/06/2012628112219716354.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/5/29/2011529184813112734_20.jpg)

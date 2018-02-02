@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/06/16/a-5-8-magnitude-earthquake-in-southwestern-mexico-causes-power-outages-in-mexico-city.html)  [JSON](/news/2013/06/16/a-5-8-magnitude-earthquake-in-southwestern-mexico-causes-power-outages-in-mexico-city.json)  [XML](/news/2013/06/16/a-5-8-magnitude-earthquake-in-southwestern-mexico-causes-power-outages-in-mexico-city.xml)  
+
 ### [2013-06-16](/news/2013/06/16/index.md)
 
+##### Mexico
 # A 5.8-magnitude earthquake in southwestern Mexico causes power outages in Mexico City. 
 
 Power outages hit the Mexican capital of Mexico City on Sunday after an earthquake struck the center of the country, and officials said there was no other damage reported.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2013/06/16/world/americas/mexico-earthquake/index.html)
-2. [Reuters](http://www.reuters.com/article/2013/06/16/us-mexico-quake-idUSBRE95F02720130616)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130616&t=2&i=741725687&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95F0HEA00)
+2. [Reuters](https://www.reuters.com/article/2013/06/16/us-mexico-quake-idUSBRE95F02720130616)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130616&t=2&i=741725687&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95F0HEA00)
 
 ### Related:
 

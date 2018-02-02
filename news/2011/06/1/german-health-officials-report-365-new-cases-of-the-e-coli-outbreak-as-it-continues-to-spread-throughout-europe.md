@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/1/german-health-officials-report-365-new-cases-of-the-e-coli-outbreak-as-it-continues-to-spread-throughout-europe.html)  [JSON](/news/2011/06/1/german-health-officials-report-365-new-cases-of-the-e-coli-outbreak-as-it-continues-to-spread-throughout-europe.json)  [XML](/news/2011/06/1/german-health-officials-report-365-new-cases-of-the-e-coli-outbreak-as-it-continues-to-spread-throughout-europe.xml)  
+
 ### [2011-06-1](/news/2011/06/1/index.md)
 
+##### German
 # German health officials report 365 new cases of the E. coli outbreak as it continues to spread throughout Europe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/German-Health-Officials-Say-There-Are-365-New-Cases-Of-The-Killer-Cucumber-Ecoli-Outbreak/Article/201106116003464?lpos=World_News_First_Home_Article_Teaser_Region_0&lid=ARTICLE_16003464_German_Health_Officials_Say_There_Are_365_New_Cases_Of_The_Killer_Cucumber_E.coli_Outbreak)
 

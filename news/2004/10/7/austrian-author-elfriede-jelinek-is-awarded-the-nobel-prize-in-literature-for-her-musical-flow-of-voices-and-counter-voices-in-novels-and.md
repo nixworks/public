@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/7/austrian-author-elfriede-jelinek-is-awarded-the-nobel-prize-in-literature-for-her-musical-flow-of-voices-and-counter-voices-in-novels-and.html)  [JSON](/news/2004/10/7/austrian-author-elfriede-jelinek-is-awarded-the-nobel-prize-in-literature-for-her-musical-flow-of-voices-and-counter-voices-in-novels-and.json)  [XML](/news/2004/10/7/austrian-author-elfriede-jelinek-is-awarded-the-nobel-prize-in-literature-for-her-musical-flow-of-voices-and-counter-voices-in-novels-and.xml)  
+
 ### [2004-10-7](/news/2004/10/7/index.md)
 
+##### Elfriede Jelinek
 #  Austrian author Elfriede Jelinek is awarded the Nobel Prize in Literature for "her musical flow of voices and counter-voices in novels and plays that with extraordinary linguistic zeal reveal the absurdity of society's clichs and their subjugating power". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/wire/Entertainment/ap20041007_1066.html)
 2. [Nobel Prize](http://nobelprize.org/literature/laureates/2004/)

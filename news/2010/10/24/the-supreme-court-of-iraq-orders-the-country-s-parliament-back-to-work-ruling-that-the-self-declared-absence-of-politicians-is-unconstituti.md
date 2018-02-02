@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/24/the-supreme-court-of-iraq-orders-the-country-s-parliament-back-to-work-ruling-that-the-self-declared-absence-of-politicians-is-unconstituti.html)  [JSON](/news/2010/10/24/the-supreme-court-of-iraq-orders-the-country-s-parliament-back-to-work-ruling-that-the-self-declared-absence-of-politicians-is-unconstituti.json)  [XML](/news/2010/10/24/the-supreme-court-of-iraq-orders-the-country-s-parliament-back-to-work-ruling-that-the-self-declared-absence-of-politicians-is-unconstituti.xml)  
+
 ### [2010-10-24](/news/2010/10/24/index.md)
 
+##### Supreme Court of Iraq
 # The Supreme Court of Iraq orders the country's parliament back to work, ruling that the self-declared absence of politicians is unconstitutional. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11615047)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/24/c_13572957.htm)

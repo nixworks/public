@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/14/shots-are-fired-in-the-compound-of-the-president-of-burkina-faso-blaise-compaora-c.html)  [JSON](/news/2011/04/14/shots-are-fired-in-the-compound-of-the-president-of-burkina-faso-blaise-compaora-c.json)  [XML](/news/2011/04/14/shots-are-fired-in-the-compound-of-the-president-of-burkina-faso-blaise-compaora-c.xml)  
+
 ### [2011-04-14](/news/2011/04/14/index.md)
 
+##### President
 # Shots are fired in the compound of the President of Burkina Faso Blaise Compaore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France24](http://www.france24.com/en/20110415-shots-fired-inside-burkina-faso-presidential-compound)
 

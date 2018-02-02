@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/2/iraqi-authorities-distribute-a-most-wanted-fugitives-list-containing-saddam-hussein-s-wife-and-daughter-and-with-izzat-ibrahim-al-duri-at-t.html)  [JSON](/news/2006/07/2/iraqi-authorities-distribute-a-most-wanted-fugitives-list-containing-saddam-hussein-s-wife-and-daughter-and-with-izzat-ibrahim-al-duri-at-t.json)  [XML](/news/2006/07/2/iraqi-authorities-distribute-a-most-wanted-fugitives-list-containing-saddam-hussein-s-wife-and-daughter-and-with-izzat-ibrahim-al-duri-at-t.xml)  
+
 ### [2006-07-2](/news/2006/07/2/index.md)
 
+##### Iraq
 #  Iraqi authorities distribute a most wanted fugitives list containing Saddam Hussein's wife and daughter and with Izzat Ibrahim al-Duri at the top of the list. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/meast/07/02/iraq.main/index.html)
 

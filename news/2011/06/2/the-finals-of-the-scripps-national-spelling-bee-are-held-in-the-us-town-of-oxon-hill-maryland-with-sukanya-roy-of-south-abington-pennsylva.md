@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/2/the-finals-of-the-scripps-national-spelling-bee-are-held-in-the-us-town-of-oxon-hill-maryland-with-sukanya-roy-of-south-abington-pennsylva.html)  [JSON](/news/2011/06/2/the-finals-of-the-scripps-national-spelling-bee-are-held-in-the-us-town-of-oxon-hill-maryland-with-sukanya-roy-of-south-abington-pennsylva.json)  [XML](/news/2011/06/2/the-finals-of-the-scripps-national-spelling-bee-are-held-in-the-us-town-of-oxon-hill-maryland-with-sukanya-roy-of-south-abington-pennsylva.xml)  
+
 ### [2011-06-2](/news/2011/06/2/index.md)
 
+##### Scripps National Spelling Bee
 # The finals of the Scripps National Spelling Bee are held in the US town of Oxon Hill, Maryland with Sukanya Roy of South Abington, Pennsylvania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''San Jose Mercury News](http://www.mercurynews.com/news/ci_18189289)
 2. [NPR](http://www.npr.org/blogs/monkeysee/2011/06/02/136888659/the-unstoppable-rightness-of-bee-ing-its-spellings-biggest-night-of-the-year)
@@ -17,4 +21,4 @@
 2. [A student, whose disappearance with a gun caused the precautionary closing of Washington College in Maryland (U.S.) this week, is found dead in Pennsylvania of a self-inflicted gunshot wound. The campus will reopen after Thanksgiving. ](/news/2015/11/21/a-student-whose-disappearance-with-a-gun-caused-the-precautionary-closing-of-washington-college-in-maryland-u-s-this-week-is-found-dead.md) _Context: Maryland, Pennsylvania_
 3. [A military JLENS blimp from the United States Army broke loose from its moorings at the Aberdeen Proving Ground in Maryland, and drifted over 16,000 ft above Pennsylvania. F-16 Fighter jets were scrambled to track the blimp that has since deflated, causing widespread power outages from a long cable it dragged along the ground. ](/news/2015/10/28/a-military-jlens-blimp-from-the-united-states-army-broke-loose-from-its-moorings-at-the-aberdeen-proving-ground-in-maryland-and-drifted-ove.md) _Context: Maryland, Pennsylvania_
 4. [The National Weather Service issues flash flooding warnings for the states of New York, New Jersey, Pennsylvania, Connecticut, Maryland and Virginia. ](/news/2011/09/8/the-national-weather-service-issues-flash-flooding-warnings-for-the-states-of-new-york-new-jersey-pennsylvania-connecticut-maryland-and.md) _Context: Maryland, Pennsylvania_
-5. [California, Maine, Maryland and Minnesota sue the Trump administraion over the termination of DACA. ](/news/2017/09/11/california-maine-maryland-and-minnesota-sue-the-trump-administraion-over-the-termination-of-daca.md) _Context: Maryland_
+5. [The gunman who fatally shot four people at a car wash in the Melcroft suburb of Saltlick Township in Pennsylvania the previous day dies at a hospital from a self-inflicted gunshot wound. ](/news/2018/01/29/the-gunman-who-fatally-shot-four-people-at-a-car-wash-in-the-melcroft-suburb-of-saltlick-township-in-pennsylvania-the-previous-day-dies-at-a.md) _Context: Pennsylvania_

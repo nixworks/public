@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/10/dulmatin-the-alleged-mastermind-of-the-2002-bali-bombings-is-confirmed-dead-in-a-police-raid-in-pamulang-jakarta-by-indonesian-president.html)  [JSON](/news/2010/03/10/dulmatin-the-alleged-mastermind-of-the-2002-bali-bombings-is-confirmed-dead-in-a-police-raid-in-pamulang-jakarta-by-indonesian-president.json)  [XML](/news/2010/03/10/dulmatin-the-alleged-mastermind-of-the-2002-bali-bombings-is-confirmed-dead-in-a-police-raid-in-pamulang-jakarta-by-indonesian-president.xml)  
+
 ### [2010-03-10](/news/2010/03/10/index.md)
 
+##### Dulmatin
 # Dulmatin, the alleged mastermind of the 2002 Bali bombings, is confirmed dead in a police raid in Pamulang, Jakarta, by Indonesian President Susilo Bambang Yudhoyono during a state visit in Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ANTARA News](http://www.antara.co.id/en/news/1268206095/president-announces-top-terrorists-death-at-luncheon-in-alia)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8559054.stm)

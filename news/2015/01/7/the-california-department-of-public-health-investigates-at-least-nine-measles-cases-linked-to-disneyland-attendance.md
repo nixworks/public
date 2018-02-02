@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/7/the-california-department-of-public-health-investigates-at-least-nine-measles-cases-linked-to-disneyland-attendance.html)  [JSON](/news/2015/01/7/the-california-department-of-public-health-investigates-at-least-nine-measles-cases-linked-to-disneyland-attendance.json)  [XML](/news/2015/01/7/the-california-department-of-public-health-investigates-at-least-nine-measles-cases-linked-to-disneyland-attendance.xml)  
+
 ### [2015-01-7](/news/2015/01/7/index.md)
 
+##### California
 # The California Department of Public Health investigates at least nine measles cases linked to Disneyland attendance. 
 
 The California Department of Public Health is investigating nine measles cases tied to Disneyland or Disney California Adventure Park, officials said Wednesday.
 
 
-### Source:
+### Sources:
 
 1. [The LA Times](http://www.latimes.com/local/lanow/la-me-ln-measles-cases-tied-to-disneyland-california-adventure-20150107-story.html)
 1. [Cover Image](http://www.trbimg.com/img-54add0a5/turbine/la-me-ln-measles-cases-tied-to-disneyland-california-adventure-20150107)
@@ -13,7 +17,7 @@ The California Department of Public Health is investigating nine measles cases t
 ### Related:
 
 1. [The measles outbreak at Disneyland (Anaheim), which originated on December 28, 2014 (patient zero being an unvaccinated California woman who apparently transmitted the virus through airports and the theme park), but was unreported until January 7, spreads from California to six other states, including Nebraska, and Mexico. It now involves at least eighty-five cases. ](/news/2015/01/24/the-measles-outbreak-at-disneyland-anaheim-which-originated-on-december-28-2014-patient-zero-being-an-unvaccinated-california-woman-who.md) _Context: California, Disneyland, measles_
-2. [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md) _Context: California_
-3. [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md) _Context: California_
-4. [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz; his widow was evacuated Monday. "Peanuts" featured the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-his-widow-was-evac.md) _Context: California_
-5. [ California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. ](/news/2017/09/27/california-moves-its-2020-presidential-primary-to-march-3-making-it-fifth-in-the-nominating-process-after-iowa-new-hampshire-nevada-and.md) _Context: California_
+2. [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md) _Context: California_
+3. [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope for federal aid for the project. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-for-federal-aid-for-the-project.md) _Context: California_
+4. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: California_
+5. [California becomes the latest and most-populated state to legalize the recreational use of cannabis. ](/news/2018/01/1/california-becomes-the-latest-and-most-populated-state-to-legalize-the-recreational-use-of-cannabis.md) _Context: California_

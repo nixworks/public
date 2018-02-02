@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/13/after-her-siumut-party-wins-the-parliamentary-election-aleqa-hammond-is-set-to-become-first-female-prime-minister-of-greenland.html)  [JSON](/news/2013/03/13/after-her-siumut-party-wins-the-parliamentary-election-aleqa-hammond-is-set-to-become-first-female-prime-minister-of-greenland.json)  [XML](/news/2013/03/13/after-her-siumut-party-wins-the-parliamentary-election-aleqa-hammond-is-set-to-become-first-female-prime-minister-of-greenland.xml)  
+
 ### [2013-03-13](/news/2013/03/13/index.md)
 
+##### Siumut
 # After her Siumut party wins the parliamentary election, Aleqa Hammond is set to become first female Prime Minister of Greenland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''The Australian](http://www.theaustralian.com.au/news/breaking-news/greenland-to-get-first-woman-pm/story-fn3dxix6-1226596814879)
 2. [AP via CBC](http://www.cbc.ca/news/canada/north/story/2013/03/13/north-greenland-election-results.html)

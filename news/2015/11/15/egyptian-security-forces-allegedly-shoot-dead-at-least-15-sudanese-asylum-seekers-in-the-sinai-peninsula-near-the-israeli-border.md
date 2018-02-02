@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/15/egyptian-security-forces-allegedly-shoot-dead-at-least-15-sudanese-asylum-seekers-in-the-sinai-peninsula-near-the-israeli-border.html)  [JSON](/news/2015/11/15/egyptian-security-forces-allegedly-shoot-dead-at-least-15-sudanese-asylum-seekers-in-the-sinai-peninsula-near-the-israeli-border.json)  [XML](/news/2015/11/15/egyptian-security-forces-allegedly-shoot-dead-at-least-15-sudanese-asylum-seekers-in-the-sinai-peninsula-near-the-israeli-border.xml)  
+
 ### [2015-11-15](/news/2015/11/15/index.md)
 
+##### Egyptian
 # Egyptian security forces allegedly shoot dead at least 15 Sudanese asylum seekers in the Sinai Peninsula near the Israeli border. 
 
 Fifteen refugees killed in Sinai as they reportedly attempt to enter Israel to seek asylum.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/11/sudanese-refugees-shot-dead-egypt-israel-border-151115141929932.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/11/15/7233e9e286644820a502c823786b2824_18.jpg)

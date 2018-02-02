@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/9/a-train-carrying-liquid-fuel-crashes-and-bursts-into-flames-in-northern-burma-killing-at-least-25-people-and-injuring-up-to-62-others.html)  [JSON](/news/2012/11/9/a-train-carrying-liquid-fuel-crashes-and-bursts-into-flames-in-northern-burma-killing-at-least-25-people-and-injuring-up-to-62-others.json)  [XML](/news/2012/11/9/a-train-carrying-liquid-fuel-crashes-and-bursts-into-flames-in-northern-burma-killing-at-least-25-people-and-injuring-up-to-62-others.xml)  
+
 ### [2012-11-9](/news/2012/11/9/index.md)
 
+##### crashes and bursts into flames
 # A train carrying liquid fuel crashes and bursts into flames in northern Burma, killing at least 25 people and injuring up to 62 others. 
 
 At least 25 people are killed and dozens injured in northern Burma when a train carrying petrol derails and bursts into flames.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20272264)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/64042000/jpg/_64042884_64042883.jpg)

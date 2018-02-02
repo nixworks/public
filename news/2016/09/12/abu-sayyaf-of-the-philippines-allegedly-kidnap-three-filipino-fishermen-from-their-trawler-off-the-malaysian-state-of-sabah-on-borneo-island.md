@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/12/abu-sayyaf-of-the-philippines-allegedly-kidnap-
 
 ### [2016-09-12](/news/2016/09/12/index.md)
 
+##### Moro conflict
 # Abu Sayyaf of the Philippines allegedly kidnap three Filipino fishermen from their trawler off the Malaysian state of Sabah on Borneo island. 
 
 Authorities identify the three fishermen as Flipino Bajaus, who are believed to be among a crew of 11 on the boat.

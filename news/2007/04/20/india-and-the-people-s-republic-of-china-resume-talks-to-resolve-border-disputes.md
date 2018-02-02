@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/20/india-and-the-people-s-republic-of-china-resume-talks-to-resolve-border-disputes.html)  [JSON](/news/2007/04/20/india-and-the-people-s-republic-of-china-resume-talks-to-resolve-border-disputes.json)  [XML](/news/2007/04/20/india-and-the-people-s-republic-of-china-resume-talks-to-resolve-border-disputes.xml)  
+
 ### [2007-04-20](/news/2007/04/20/index.md)
 
+##### India
 #  India and the People's Republic of China resume talks to resolve border disputes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Australian](http://www.theaustralian.news.com.au/story/0,20867,21595127-1702,00.html)
 2. [NDTV](http://www.ndtv.com/convergence/ndtv/story.aspx?id=NEWEN20070009374)

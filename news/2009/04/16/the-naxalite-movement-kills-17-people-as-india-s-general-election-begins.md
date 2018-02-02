@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/16/the-naxalite-movement-kills-17-people-as-india-s-general-election-begins.html)  [JSON](/news/2009/04/16/the-naxalite-movement-kills-17-people-as-india-s-general-election-begins.json)  [XML](/news/2009/04/16/the-naxalite-movement-kills-17-people-as-india-s-general-election-begins.xml)  
+
 ### [2009-04-16](/news/2009/04/16/index.md)
 
+##### Naxalite
 #  The Naxalite movement kills 17 people as India's general election begins. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times Online](http://www.timesonline.co.uk/tol/news/world/asia/article6105367.ece)
 

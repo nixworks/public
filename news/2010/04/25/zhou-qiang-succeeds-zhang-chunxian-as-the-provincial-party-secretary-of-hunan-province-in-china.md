@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/25/zhou-qiang-succeeds-zhang-chunxian-as-the-provincial-party-secretary-of-hunan-province-in-china.html)  [JSON](/news/2010/04/25/zhou-qiang-succeeds-zhang-chunxian-as-the-provincial-party-secretary-of-hunan-province-in-china.json)  [XML](/news/2010/04/25/zhou-qiang-succeeds-zhang-chunxian-as-the-provincial-party-secretary-of-hunan-province-in-china.xml)  
+
 ### [2010-04-25](/news/2010/04/25/index.md)
 
+##### Zhou Qiang
 # Zhou Qiang succeeds Zhang Chunxian as the provincial party secretary of Hunan Province in China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2010-04/26/content_9772343.htm)
 

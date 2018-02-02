@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/19/evo-morales-becomes-the-latest-leftist-to-win-the-presidency-of-a-south-american-nation-after-he-claimed-victory-in-the-bolivian-presidenti.html)  [JSON](/news/2005/12/19/evo-morales-becomes-the-latest-leftist-to-win-the-presidency-of-a-south-american-nation-after-he-claimed-victory-in-the-bolivian-presidenti.json)  [XML](/news/2005/12/19/evo-morales-becomes-the-latest-leftist-to-win-the-presidency-of-a-south-american-nation-after-he-claimed-victory-in-the-bolivian-presidenti.xml)  
+
 ### [2005-12-19](/news/2005/12/19/index.md)
 
+##### Evo Morales
 #  Evo Morales becomes the latest Leftist to win the Presidency of a South American nation after he claimed victory in the Bolivian Presidential Election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4539454.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/4/at-least-110-people-have-died-of-starvation-in-t
 
 ### [2017-03-4](/news/2017/03/4/index.md)
 
+##### drought
 # At least 110 people have died of starvation in the drought-hit region of Bay, Somalia, in the past 48 hours, according to Prime Minister Hassan Ali Khayre. This comes as the United Nations and various non-governmental organizations are warning of potential famine in the country. 
 
 More than 100 people have starved to death in a single region of Somalia within 48 hours due to a severe drought, the country’s prime minister has said. In the first drought-related death toll announced since Somalia&#039;s government declared a national disaster on Tuesday, Hassan Khaire told the nation’s drought committee 110 people had died from hunger in two days in the southwestern Bay region alone.

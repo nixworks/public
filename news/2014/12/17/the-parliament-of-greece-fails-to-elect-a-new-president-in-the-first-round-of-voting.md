@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/17/the-parliament-of-greece-fails-to-elect-a-new-president-in-the-first-round-of-voting.html)  [JSON](/news/2014/12/17/the-parliament-of-greece-fails-to-elect-a-new-president-in-the-first-round-of-voting.json)  [XML](/news/2014/12/17/the-parliament-of-greece-fails-to-elect-a-new-president-in-the-first-round-of-voting.xml)  
+
 ### [2014-12-17](/news/2014/12/17/index.md)
 
+##### Hellenic Parliament
 # The Parliament of Greece fails to elect a new president in the first round of voting. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory/greek-lawmakers-vote-crucial-presidency-ballot-27655961)
 

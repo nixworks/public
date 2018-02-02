@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-a-precaution-after-a-terrorist-attack-in-the-city-is-prevented-the-us-embassy-also-closes.html)  [JSON](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-a-precaution-after-a-terrorist-attack-in-the-city-is-prevented-the-us-embassy-also-closes.json)  [XML](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-a-precaution-after-a-terrorist-attack-in-the-city-is-prevented-the-us-embassy-also-closes.xml)  
+
 ### [2007-10-29](/news/2007/10/29/index.md)
 
+##### UK
 #  The UK embassy in Baku, Azerbaijan, is closed as a precaution after a terrorist attack in the city is prevented. The US embassy also closes its doors after the Azerbaijan Government reports of the thwarting of a "large-scale, horrifying terror attack." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://ap.google.com/article/ALeqM5h6SxmyrpF4pmbMBK3dBfr68_Z51wD8SJ43781)
 2. [Sky](http://news.sky.com/skynews/article/0,,70131-1290644,00.html)
+
+### Changes:
+
+1. [ The UK embassy in Baku, Azerbaijan, is closed as a precaution after a terrorist attack in the city is prevented. The US embassy also closes its doors after the Azerbaijan Government reports of the thwarting of a "large-scale, horrifying terror attack." ](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-a-precaution-after-a-terrorist-attack-in-the-city-is-prevented-the-us-embassy-also-close.md) _2017-08-25 03:21:17 (First version)_
+1. [ The UK embassy in Baku, Azerbaijan, is closed as a precaution after a terrorist attack in the city is prevented. The US embassy also closes its doors after the Azerbaijan Government reports of the thwarting of a "large-scale, horrifying terror attack." ](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-a-precaution-after-a-terrorist-attack-in-the-city-is-prevented-the-us-embassy-also-closes.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Several political parties in Azerbaijan release a statement criticising the ruling of Baku Yasamal Court against 15 Shia Muslims, arrested in February while practising their religion in Baku. ](/news/2010/08/14/several-political-parties-in-azerbaijan-release-a-statement-criticising-the-ruling-of-baku-yasamal-court-against-15-shia-muslims-arrested-i.md) _Context: Azerbaijan, Baku_
 4. [ An explosive device goes off under a train travelling from Tyumen, Russia, to Baku in Azerbaijan, in the northern Caucasus republic of Dagestan. ](/news/2009/11/30/an-explosive-device-goes-off-under-a-train-travelling-from-tyumen-russia-to-baku-in-azerbaijan-in-the-northern-caucasus-republic-of-dage.md) _Context: Azerbaijan, Baku_
 5. [ Twelve people are killed at the State Oil Academy in Baku, Azerbaijan. ](/news/2009/04/30/twelve-people-are-killed-at-the-state-oil-academy-in-baku-azerbaijan.md) _Context: Azerbaijan, Baku_
-
-### Changes:
-
-1. [ The UK embassy in Baku, Azerbaijan, is closed as a precaution after a terrorist attack in the city is prevented. The US embassy also closes its doors after the Azerbaijan Government reports of the thwarting of a "large-scale, horrifying terror attack." ](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-a-precaution-after-a-terrorist-attack-in-the-city-is-prevented-the-us-embassy-also-close.md) _2017-08-25 03:21:17 (First version)_
-1. [ The UK embassy in Baku, Azerbaijan, is closed as a precaution after a terrorist attack in the city is prevented. The US embassy also closes its doors after the Azerbaijan Government reports of the thwarting of a "large-scale, horrifying terror attack." ](/news/2007/10/29/the-uk-embassy-in-baku-azerbaijan-is-closed-as-a-precaution-after-a-terrorist-attack-in-the-city-is-prevented-the-us-embassy-also-closes.md) _(Current version)_

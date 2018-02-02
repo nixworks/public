@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/30/1-person-is-killed-and-at-least-40-others-are-injured-due-to-an-explosion-and-a-fire-in-maracay-aragua.html)  [JSON](/news/2011/01/30/1-person-is-killed-and-at-least-40-others-are-injured-due-to-an-explosion-and-a-fire-in-maracay-aragua.json)  [XML](/news/2011/01/30/1-person-is-killed-and-at-least-40-others-are-injured-due-to-an-explosion-and-a-fire-in-maracay-aragua.xml)  
+
 ### [2011-01-30](/news/2011/01/30/index.md)
 
+##### Maracay
 # 1 person is killed and at least 40 others are injured due to an explosion and a fire in Maracay, Aragua. 
 
 A series of explosions at an arms depot in Venezuela leaves one person dead and forces thousands of people to flee their homes.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/jan/30/venezuelan-military-depot-blast-kills-one)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-12318307)

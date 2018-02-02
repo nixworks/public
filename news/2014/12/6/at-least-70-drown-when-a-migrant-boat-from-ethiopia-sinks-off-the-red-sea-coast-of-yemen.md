@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/6/at-least-70-drown-when-a-migrant-boat-from-ethiopia-sinks-off-the-red-sea-coast-of-yemen.html)  [JSON](/news/2014/12/6/at-least-70-drown-when-a-migrant-boat-from-ethiopia-sinks-off-the-red-sea-coast-of-yemen.json)  [XML](/news/2014/12/6/at-least-70-drown-when-a-migrant-boat-from-ethiopia-sinks-off-the-red-sea-coast-of-yemen.xml)  
+
 ### [2014-12-6](/news/2014/12/6/index.md)
 
+##### Ethiopia
 # At least 70 drown when a migrant boat from Ethiopia sinks off the Red Sea coast of Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-30371917)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79571000/jpg/_79571422_76604087.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/20/stephen-harper-is-elected-as-leader-of-the-conservative-party-of-canada-winning-56-of-the-possible-points-on-the-first-ballot.html)  [JSON](/news/2004/03/20/stephen-harper-is-elected-as-leader-of-the-conservative-party-of-canada-winning-56-of-the-possible-points-on-the-first-ballot.json)  [XML](/news/2004/03/20/stephen-harper-is-elected-as-leader-of-the-conservative-party-of-canada-winning-56-of-the-possible-points-on-the-first-ballot.xml)  
+
 ### [2004-03-20](/news/2004/03/20/index.md)
 
+##### Stephen Harper
 #  Stephen Harper is elected as leader of the Conservative Party of Canada, winning 56% of the possible points on the first ballot. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/stories/2004/03/20/canada/conservatives_040320)
 2. [Global TV](http://www.canada.com/national/features/conservativeconvention2004/index.html)

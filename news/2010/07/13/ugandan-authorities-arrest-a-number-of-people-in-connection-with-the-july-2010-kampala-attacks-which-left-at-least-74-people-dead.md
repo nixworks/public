@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/13/ugandan-authorities-arrest-a-number-of-people-in-connection-with-the-july-2010-kampala-attacks-which-left-at-least-74-people-dead.html)  [JSON](/news/2010/07/13/ugandan-authorities-arrest-a-number-of-people-in-connection-with-the-july-2010-kampala-attacks-which-left-at-least-74-people-dead.json)  [XML](/news/2010/07/13/ugandan-authorities-arrest-a-number-of-people-in-connection-with-the-july-2010-kampala-attacks-which-left-at-least-74-people-dead.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### Uganda
 # Ugandan authorities arrest a number of people in connection with the July 2010 Kampala attacks which left at least 74 people dead. 
 
 Unexploded bomb belt found by police investigating twin attacks claimed by al-Shabab.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/201071362446995742.html)
 1. [Cover Image](http://www.aljazeera.com)

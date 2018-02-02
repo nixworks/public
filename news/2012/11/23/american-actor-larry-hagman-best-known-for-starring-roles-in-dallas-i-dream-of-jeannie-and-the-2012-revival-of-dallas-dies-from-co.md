@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2012/11/23/american-actor-larry-hagman-best-known-for-starring-roles-in-dallas-i-dream-of-jeannie-and-the-2012-revival-of-dallas-dies-from-co.html)  [JSON](/news/2012/11/23/american-actor-larry-hagman-best-known-for-starring-roles-in-dallas-i-dream-of-jeannie-and-the-2012-revival-of-dallas-dies-from-co.json)  [XML](/news/2012/11/23/american-actor-larry-hagman-best-known-for-starring-roles-in-dallas-i-dream-of-jeannie-and-the-2012-revival-of-dallas-dies-from-co.xml)  
+
 ### [2012-11-23](/news/2012/11/23/index.md)
 
+##### Larry Hagman
 # American actor Larry Hagman, best known for starring roles in "Dallas", "I Dream of Jeannie", and the 2012 revival of "Dallas", dies from complications of throat cancer in Dallas. 
 
 Larry Hagman, who played evil oil baron J.R. Ewing, died in a Dallas hospital with costars Linda Gray and Patrick Duffy at his side
 
 
-### Source:
+### Sources:
 
 1. [The Wrap](http://www.thewrap.com/tv/article/larry-hagman-dallas-and-i-dream-jeannie-star-dead-81-66321)
 1. [Cover Image](http://www.thewrap.com/wp-content/uploads/2016/07/news-placeholder-1.jpg)
+
+### Changes:
+
+1. [American actor Larry Hagman, best known for starring roles in ''Dallas'', ''I Dream of Jeannie'', and the 2012 revival of ''Dallas'', dies from complications of throat cancer in Dallas. ](/news/2012/11/23/american-actor-larry-hagman-best-known-for-starring-roles-in-dallas-i-dream-of-jeannie-and-the-2012-revival-of-dallas-dies-f.md) _2017-08-25 03:36:52 (First version)_
+1. [American actor Larry Hagman, best known for starring roles in "Dallas", "I Dream of Jeannie", and the 2012 revival of "Dallas", dies from complications of throat cancer in Dallas. ](/news/2012/11/23/american-actor-larry-hagman-best-known-for-starring-roles-in-dallas-i-dream-of-jeannie-and-the-2012-revival-of-dallas-dies-from-co.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Larry Hagman, who played evil oil baron J.R. Ewing, died in a Dallas hospital wi
 3. [Following the death of Alton Sterling and Philando Castile and the shooting of white police officers in Dallas, Texas, The Bahamas issues a rare travel warning for its citizens traveling to the United States. ](/news/2016/07/9/following-the-death-of-alton-sterling-and-philando-castile-and-the-shooting-of-white-police-officers-in-dallas-texas-the-bahamas-issues-a.md) _Context: Dallas_
 4. [Eleven police officers are shot, with five dying of gunshot wounds in Dallas, Texas during a protest against two black men killed within a day of each other. Police kill the shooter with a bomb delivered on a bomb defusing robot. ](/news/2016/07/7/eleven-police-officers-are-shot-with-five-dying-of-gunshot-wounds-in-dallas-texas-during-a-protest-against-two-black-men-killed-within-a-d.md) _Context: Dallas_
 5. [Bryce Dejean-Jones, a National Basketball Association player with the New Orleans Pelicans, is shot dead in Dallas, Texas, after breaking down an apartment bedroom door. ](/news/2016/05/28/bryce-dejean-jones-a-national-basketball-association-player-with-the-new-orleans-pelicans-is-shot-dead-in-dallas-texas-after-breaking-do.md) _Context: Dallas_
-
-### Changes:
-
-1. [American actor Larry Hagman, best known for starring roles in ''Dallas'', ''I Dream of Jeannie'', and the 2012 revival of ''Dallas'', dies from complications of throat cancer in Dallas. ](/news/2012/11/23/american-actor-larry-hagman-best-known-for-starring-roles-in-dallas-i-dream-of-jeannie-and-the-2012-revival-of-dallas-dies-f.md) _2017-08-25 03:36:52 (First version)_
-1. [American actor Larry Hagman, best known for starring roles in "Dallas", "I Dream of Jeannie", and the 2012 revival of "Dallas", dies from complications of throat cancer in Dallas. ](/news/2012/11/23/american-actor-larry-hagman-best-known-for-starring-roles-in-dallas-i-dream-of-jeannie-and-the-2012-revival-of-dallas-dies-from-co.md) _(Current version)_

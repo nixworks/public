@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2003/07/14/the-united-states-office-of-federal-housing-enterprise-oversight-announces-an-investigation-into-the-accounting-of-america-s-two-largest-mo.html)  [JSON](/news/2003/07/14/the-united-states-office-of-federal-housing-enterprise-oversight-announces-an-investigation-into-the-accounting-of-america-s-two-largest-mo.json)  [XML](/news/2003/07/14/the-united-states-office-of-federal-housing-enterprise-oversight-announces-an-investigation-into-the-accounting-of-america-s-two-largest-mo.xml)  
+
 ### [2003-07-14](/news/2003/07/14/index.md)
 
+##### Office of Federal Housing Enterprise Oversight
 #  The United States Office of Federal Housing Enterprise Oversight announces an investigation into the accounting of America's two largest mortgage firms Freddie Mac and Fannie Mae 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/3066573.stm)
 

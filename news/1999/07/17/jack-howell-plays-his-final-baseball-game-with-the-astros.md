@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/07/17/jack-howell-plays-his-final-baseball-game-with-the-astros.html)  [JSON](/news/1999/07/17/jack-howell-plays-his-final-baseball-game-with-the-astros.json)  [XML](/news/1999/07/17/jack-howell-plays-his-final-baseball-game-with-the-astros.xml)  
+
 ### [1999-07-17](/news/1999/07/17/index.md)
 
+##### Jack Howell
 #  Jack Howell plays his final baseball game, with the Astros.
 
 

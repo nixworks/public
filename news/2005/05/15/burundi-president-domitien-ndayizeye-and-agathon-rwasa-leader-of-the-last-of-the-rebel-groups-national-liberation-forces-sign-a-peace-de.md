@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/15/burundi-president-domitien-ndayizeye-and-agathon-rwasa-leader-of-the-last-of-the-rebel-groups-national-liberation-forces-sign-a-peace-de.html)  [JSON](/news/2005/05/15/burundi-president-domitien-ndayizeye-and-agathon-rwasa-leader-of-the-last-of-the-rebel-groups-national-liberation-forces-sign-a-peace-de.json)  [XML](/news/2005/05/15/burundi-president-domitien-ndayizeye-and-agathon-rwasa-leader-of-the-last-of-the-rebel-groups-national-liberation-forces-sign-a-peace-de.xml)  
+
 ### [2005-05-15](/news/2005/05/15/index.md)
 
+##### Burundi
 #  Burundi president Domitien Ndayizeye and Agathon Rwasa, leader of the last of the rebel groups, National Liberation Forces, sign a peace deal in a meeting in Dar es Salaam, Tanzania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4550361.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=qw1116219421958B216)

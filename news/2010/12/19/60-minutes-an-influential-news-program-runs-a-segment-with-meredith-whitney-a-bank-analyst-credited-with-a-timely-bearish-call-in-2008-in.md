@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/12/19/60-minutes-an-influential-news-program-runs-a-segment-with-meredith-whitney-a-bank-analyst-credited-with-a-timely-bearish-call-in-2008-in.html)  [JSON](/news/2010/12/19/60-minutes-an-influential-news-program-runs-a-segment-with-meredith-whitney-a-bank-analyst-credited-with-a-timely-bearish-call-in-2008-in.json)  [XML](/news/2010/12/19/60-minutes-an-influential-news-program-runs-a-segment-with-meredith-whitney-a-bank-analyst-credited-with-a-timely-bearish-call-in-2008-in.xml)  
+
 ### [2010-12-19](/news/2010/12/19/index.md)
 
+##### 60 Minutes
 # 60 Minutes, an influential news program, runs a segment with Meredith Whitney a bank analyst credited with a timely bearish call in 2008, in which she predicts hundreds of millions of dollars worth of defaults by U.S. municipalities. 
 
 In an interview broadcast on &ldquo;60 Minutes&rdquo; Sunday night, Whitney, who runs the Meredith Whitney Advisory Group, argued that the $3 trillion municipal bond market faces the immediate threat of hundreds of billions of dollars in defaults. That notion has put the investment community on the defensive Monday, as bankers and analysts scramble to reassure investors and clients that the market isn&rsquo;t about to fall to pieces. 
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/id/40755309/)
+1. [CNBC](https://www.cnbc.com/id/40755309/)
 
 ### Related:
 

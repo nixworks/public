@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/21/iraqi-forces-complete-the-takeover-of-kirkuk-go
 
 ### [2017-10-21](/news/2017/10/21/index.md)
 
+##### 2017 Iraqi-Kurdish conflict
 # Iraqi forces complete the takeover of Kirkuk Governorate, which is outside the autonomous zone accorded by the Constitution of Iraq. Grand Ayatollah Ali al-Sistani calls for the state to protect Kurds in northern Iraq. 
 
 Iraqi forces on Friday took control of the last district in the oil-rich province of Kirkuk still in the hands of Kurdish Peshmerga fighters following a three-hour battle, security sources said.

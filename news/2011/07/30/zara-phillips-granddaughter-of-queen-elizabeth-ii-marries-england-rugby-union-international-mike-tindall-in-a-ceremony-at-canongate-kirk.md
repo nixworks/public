@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/30/zara-phillips-granddaughter-of-queen-elizabeth-ii-marries-england-rugby-union-international-mike-tindall-in-a-ceremony-at-canongate-kirk.html)  [JSON](/news/2011/07/30/zara-phillips-granddaughter-of-queen-elizabeth-ii-marries-england-rugby-union-international-mike-tindall-in-a-ceremony-at-canongate-kirk.json)  [XML](/news/2011/07/30/zara-phillips-granddaughter-of-queen-elizabeth-ii-marries-england-rugby-union-international-mike-tindall-in-a-ceremony-at-canongate-kirk.xml)  
+
 ### [2011-07-30](/news/2011/07/30/index.md)
 
+##### Zara Phillips
 # Zara Phillips, granddaughter of Queen Elizabeth II, marries England rugby union international Mike Tindall in a ceremony at Canongate Kirk, Edinburgh, Scotland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-14344093)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54355000/jpg/_54355310_kiss.jpg)

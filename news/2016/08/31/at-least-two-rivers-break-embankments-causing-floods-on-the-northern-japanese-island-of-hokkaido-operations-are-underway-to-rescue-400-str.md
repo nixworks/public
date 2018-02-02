@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/31/at-least-two-rivers-break-embankments-causing-f
 
 ### [2016-08-31](/news/2016/08/31/index.md)
 
+##### Typhoon Lionrock
 # At least two rivers break embankments, causing floods on the northern Japanese island of Hokkaido. Operations are underway to rescue 400 stranded people. On Honshu Island, at least 11 people, including nine elderly from a nursing home, have died. 
 
 

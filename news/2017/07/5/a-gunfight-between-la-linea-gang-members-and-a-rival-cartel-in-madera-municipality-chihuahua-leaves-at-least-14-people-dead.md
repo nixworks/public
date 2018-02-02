@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/5/a-gunfight-between-la-linea-gang-members-and-a-r
 
 ### [2017-07-5](/news/2017/07/5/index.md)
 
+##### Mexican Drug War
 # A gunfight between La Lnea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. 
 
 The shootout in Chihuahua comes amid rising violence nationwide.

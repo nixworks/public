@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/6/the-chinese-state-run-global-times-newspaper-dismisses-international-criticism-over-the-arrest-of-artist-ai-weiwei.html)  [JSON](/news/2011/04/6/the-chinese-state-run-global-times-newspaper-dismisses-international-criticism-over-the-arrest-of-artist-ai-weiwei.json)  [XML](/news/2011/04/6/the-chinese-state-run-global-times-newspaper-dismisses-international-criticism-over-the-arrest-of-artist-ai-weiwei.xml)  
+
 ### [2011-04-6](/news/2011/04/6/index.md)
 
+##### China
 # The Chinese state-run "Global Times" newspaper dismisses international criticism over the arrest of artist Ai Weiwei. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2011/3/14/China-dismisses-int-concerns-over-missing-artist,e099a864-c033-47bb-827b-1310837ce310.html)
 2. [Global Times](http://en.huanqiu.com/opinion/editorial/2011-04/641187.html)

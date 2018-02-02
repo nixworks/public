@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/11/26/the-murphy-report-commissioned-by-the-irish-government-finds-that-the-roman-catholic-archdiocese-of-dublin-covered-up-widespread-sexual-a.html)  [JSON](/news/2009/11/26/the-murphy-report-commissioned-by-the-irish-government-finds-that-the-roman-catholic-archdiocese-of-dublin-covered-up-widespread-sexual-a.json)  [XML](/news/2009/11/26/the-murphy-report-commissioned-by-the-irish-government-finds-that-the-roman-catholic-archdiocese-of-dublin-covered-up-widespread-sexual-a.xml)  
+
 ### [2009-11-26](/news/2009/11/26/index.md)
 
+##### Murphy Report
 #  The Murphy Report, commissioned by the Irish government, finds that the Roman Catholic Archdiocese of Dublin covered up widespread sexual abuse of children by priests until the mid 1990s. 
 
 The Commission of Investigation into Dublin&rsquo;s Catholic Archdiocese has concluded that there is &ldquo;no doubt&rdquo; that clerical child&hellip;
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8381119.stm)
 2. [Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1126/breaking73.htm)
-3. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5AP2IG20091126)
+3. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE5AP2IG20091126)
 3. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
 ### Related:

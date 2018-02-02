@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/10/yearlong-talks-on-the-future-of-kosovo-end-in-stalemate-between-the-serbian-government-and-the-ethnic-albanian-leaders-of-the-province.html)  [JSON](/news/2007/03/10/yearlong-talks-on-the-future-of-kosovo-end-in-stalemate-between-the-serbian-government-and-the-ethnic-albanian-leaders-of-the-province.json)  [XML](/news/2007/03/10/yearlong-talks-on-the-future-of-kosovo-end-in-stalemate-between-the-serbian-government-and-the-ethnic-albanian-leaders-of-the-province.xml)  
+
 ### [2007-03-10](/news/2007/03/10/index.md)
 
+##### Kosovo
 #  Yearlong talks on the future of Kosovo end in stalemate between the Serbian Government and the ethnic Albanian leaders of the province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/europe/03/10/kosovo.talks.ap/index.html?eref=rss_world)
 

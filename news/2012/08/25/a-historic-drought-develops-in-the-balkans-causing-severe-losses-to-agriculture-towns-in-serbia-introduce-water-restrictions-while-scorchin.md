@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/25/a-historic-drought-develops-in-the-balkans-causing-severe-losses-to-agriculture-towns-in-serbia-introduce-water-restrictions-while-scorchin.html)  [JSON](/news/2012/08/25/a-historic-drought-develops-in-the-balkans-causing-severe-losses-to-agriculture-towns-in-serbia-introduce-water-restrictions-while-scorchin.json)  [XML](/news/2012/08/25/a-historic-drought-develops-in-the-balkans-causing-severe-losses-to-agriculture-towns-in-serbia-introduce-water-restrictions-while-scorchin.xml)  
+
 ### [2012-08-25](/news/2012/08/25/index.md)
 
+##### drought
 # A historic drought develops in the Balkans causing severe losses to agriculture. Towns in Serbia introduce water restrictions while scorching temperatures fuel hundreds of fires. Russia stations a second fire fighting aircraft to help in Nis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via FOCUS](http://www.focus-fen.net/index.php?id=n285801)
 2. [RIA Novosti](http://en.rian.ru/Environment/20120825/175425886.html)

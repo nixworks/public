@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/6/xanana-gusmao-resigns-as-the-prime-minister-of-east-timor-ahead-of-an-expected-government-restructure-next-week.html)  [JSON](/news/2015/02/6/xanana-gusmao-resigns-as-the-prime-minister-of-east-timor-ahead-of-an-expected-government-restructure-next-week.json)  [XML](/news/2015/02/6/xanana-gusmao-resigns-as-the-prime-minister-of-east-timor-ahead-of-an-expected-government-restructure-next-week.xml)  
+
 ### [2015-02-6](/news/2015/02/6/index.md)
 
+##### Xanana Gusmo
 # Xanana Gusmo resigns as the Prime Minister of East Timor ahead of an expected government restructure next week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/d708cb71fdad47b8aef1a2afc80d8a30/east-timor-prime-minister-xanana-gusmao-submits-resignation)
 

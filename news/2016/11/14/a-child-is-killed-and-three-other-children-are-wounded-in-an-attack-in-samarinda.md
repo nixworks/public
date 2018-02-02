@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/14/a-child-is-killed-and-three-other-children-are-
 
 ### [2016-11-14](/news/2016/11/14/index.md)
 
+##### Terrorism in Indonesia
 # A child is killed and three other children are wounded in an attack in Samarinda. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

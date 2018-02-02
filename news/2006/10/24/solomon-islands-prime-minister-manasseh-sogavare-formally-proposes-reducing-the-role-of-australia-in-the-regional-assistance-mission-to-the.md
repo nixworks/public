@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/24/solomon-islands-prime-minister-manasseh-sogavare-formally-proposes-reducing-the-role-of-australia-in-the-regional-assistance-mission-to-the.html)  [JSON](/news/2006/10/24/solomon-islands-prime-minister-manasseh-sogavare-formally-proposes-reducing-the-role-of-australia-in-the-regional-assistance-mission-to-the.json)  [XML](/news/2006/10/24/solomon-islands-prime-minister-manasseh-sogavare-formally-proposes-reducing-the-role-of-australia-in-the-regional-assistance-mission-to-the.xml)  
+
 ### [2006-10-24](/news/2006/10/24/index.md)
 
+##### Solomon Islands Prime Minister
 #  Solomon Islands Prime Minister Manasseh Sogavare formally proposes reducing the role of Australia in the Regional Assistance Mission to the Solomon Islands (RAMSI) in his country at a Pacific leaders forum in Fiji. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200610/s1772451.htm)
 

@@ -1,11 +1,7 @@
+
+Formats: [HTML](2003/04/17/index.html)  [JSON](2003/04/17/index.json)  [XML](2003/04/17/index.xml)  
+
 ## [2003-04-17](/news/2003/04/17/index.md)
 
-### [ Australian Prime Minister John Howard announces that Australian forces in Operation Falconer will completely pull out by June. The Bechtel Corporation is awarded a $680 million contract for the rebuilding of parts of Iraq's electricity system, water supplies and other key infrastructures. Barzan Ibrahim al-Tikriti, top advisor and half-brother of Saddam Hussein is captured by U.S. forces (the second of Hussein's half brothers captured this week). Save the Children announces that U.S. forces continue to prevent their airplane from landing in Arbil, Iraq to deliver medical supplies and emergency feeding kits. U.S. officials contend that the area is not yet safe, while the United Nations has already declared Arbil a "safe and secure" area. Martin Sullivan and Gary Vikan, of the U.S. Presidential Advisory Committee on Cultural Property, announced their resignations in protest of the US failure to prevent looting of the Iraqi National Museum.](/news/2003/04/17/australian-prime-minister-john-howard-announces-that-australian-forces-in-operation-falconer-will-completely-pull-out-by-june-the-bechtel.md)
-_Context: 2003 invasion of Iraq, Arbil, Barzan Ibrahim al-Tikriti, Bechtel Corporation, Gary Vikan, Iraq, Iraqi National Museum, John Howard, Martin Sullivan, Operation Falconer, Presidential Advisory Committee on Cultural Property, Saddam Hussein, Save the Children, United Nations, airplane_
-
-### [ Sir John Stevens releases the Stevens Report, which states that the police and other security services in Northern Ireland colluded in the murders of many innocent people, including Pat Finucane and Francisco Notarantonio, in the 1970s and 1980s.](/news/2003/04/17/sir-john-stevens-releases-the-stevens-report-which-states-that-the-police-and-other-security-services-in-northern-ireland-colluded-in-the.md)
-_Context: Francisco Notarantonio, John Stevens, Northern Ireland, Pat Finucane, RUC, Stevens Report_
-
-### [ Michael Jordan retired from professional basketball while playing for the Washington Wizards.](/news/2003/04/17/michael-jordan-retired-from-professional-basketball-while-playing-for-the-washington-wizards.md)
 ## [Previous Day...](/news/2003/04/16/index.md)
 

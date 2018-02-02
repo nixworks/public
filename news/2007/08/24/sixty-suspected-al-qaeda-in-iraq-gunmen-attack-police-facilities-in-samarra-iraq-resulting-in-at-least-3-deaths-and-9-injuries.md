@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/24/sixty-suspected-al-qaeda-in-iraq-gunmen-attack-police-facilities-in-samarra-iraq-resulting-in-at-least-3-deaths-and-9-injuries.html)  [JSON](/news/2007/08/24/sixty-suspected-al-qaeda-in-iraq-gunmen-attack-police-facilities-in-samarra-iraq-resulting-in-at-least-3-deaths-and-9-injuries.json)  [XML](/news/2007/08/24/sixty-suspected-al-qaeda-in-iraq-gunmen-attack-police-facilities-in-samarra-iraq-resulting-in-at-least-3-deaths-and-9-injuries.xml)  
+
 ### [2007-08-24](/news/2007/08/24/index.md)
 
+##### Al Qaeda in Iraq
 #  Sixty suspected Al Qaeda in Iraq gunmen attack police facilities in Samarra, Iraq, resulting in at least 3 deaths and 9 injuries. 
 
 Sixty suspected Al Qaeda in Iraq gunmen attacked a police station in Samarra on Friday, killing three people and injuring nine others, officials said.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,294389,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

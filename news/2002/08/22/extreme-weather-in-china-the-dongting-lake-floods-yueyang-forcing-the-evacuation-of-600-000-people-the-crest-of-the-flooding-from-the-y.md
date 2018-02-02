@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/22/extreme-weather-in-china-the-dongting-lake-floods-yueyang-forcing-the-evacuation-of-600-000-people-the-crest-of-the-flooding-from-the-y.html)  [JSON](/news/2002/08/22/extreme-weather-in-china-the-dongting-lake-floods-yueyang-forcing-the-evacuation-of-600-000-people-the-crest-of-the-flooding-from-the-y.json)  [XML](/news/2002/08/22/extreme-weather-in-china-the-dongting-lake-floods-yueyang-forcing-the-evacuation-of-600-000-people-the-crest-of-the-flooding-from-the-y.xml)  
+
 ### [2002-08-22](/news/2002/08/22/index.md)
 
+##### Extreme weather
 #  Extreme weather: In China, the Dongting Lake floods Yueyang, forcing the evacuation of 600,000 people; the crest of the flooding from the Yangtze River is expected Sunday. Floods and landslides have killed nearly 1000 people in China, 200 in the Hunan province. There have been 376 deaths in India, 494 in Nepal, and 158 deaths in Bangladesh this monsoon season.
 
 

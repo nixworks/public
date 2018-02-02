@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/10/2/american-female-television-station-oxygen-gives-the-go-ahead-to-a-new-reality-show-set-to-star-american-celebrity-and-heiress-paris-hilton.html)  [JSON](/news/2010/10/2/american-female-television-station-oxygen-gives-the-go-ahead-to-a-new-reality-show-set-to-star-american-celebrity-and-heiress-paris-hilton.json)  [XML](/news/2010/10/2/american-female-television-station-oxygen-gives-the-go-ahead-to-a-new-reality-show-set-to-star-american-celebrity-and-heiress-paris-hilton.xml)  
+
 ### [2010-10-2](/news/2010/10/2/index.md)
 
+##### Oxygen
 # American female television station Oxygen gives the go-ahead to a new reality show set to star American celebrity and heiress Paris Hilton; the show is to follow Hilton in the course of her daily life. 
 
 Paris Hilton is headed back to television -- this time in what is billed as a behind the scenes look at the life and friends of the jet-setting socialite and model.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6905L920101001)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20101001&t=2&i=216394409&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-01T220125Z_01_BTRE6901P6J00_RTROPTP_0_PEOPLE-PARISHILTON)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6905L920101001)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20101001&t=2&i=216394409&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-01T220125Z_01_BTRE6901P6J00_RTROPTP_0_PEOPLE-PARISHILTON)
 
 ### Related:
 

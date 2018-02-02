@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/17/the-boston-celtics-defeat-the-los-angeles-lakers-to-win-the-2008-nba-finals.html)  [JSON](/news/2008/06/17/the-boston-celtics-defeat-the-los-angeles-lakers-to-win-the-2008-nba-finals.json)  [XML](/news/2008/06/17/the-boston-celtics-defeat-the-los-angeles-lakers-to-win-the-2008-nba-finals.xml)  
+
 ### [2008-06-17](/news/2008/06/17/index.md)
 
+##### Boston Celtics
 #  The Boston Celtics defeat the Los Angeles Lakers to win the 2008 NBA Finals. 
 
 The Boston Celtics have beaten the LA Lakers 131-92 in game six of the NBA finals to wrap up their first championship for 22 years.
 
 
-### Source:
+### Sources:
 
 1. [NZ Stuff](http://www.stuff.co.nz/stuff/4588535a12155.html)
 

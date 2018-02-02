@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/02/6/the-supreme-court-of-canada-strikes-down-a-ban-on-assisted-suicide-meaning-doctors-can-now-assist-mentally-competent-patients-with-severe-an.html)  [JSON](/news/2015/02/6/the-supreme-court-of-canada-strikes-down-a-ban-on-assisted-suicide-meaning-doctors-can-now-assist-mentally-competent-patients-with-severe-an.json)  [XML](/news/2015/02/6/the-supreme-court-of-canada-strikes-down-a-ban-on-assisted-suicide-meaning-doctors-can-now-assist-mentally-competent-patients-with-severe-an.xml)  
+
 ### [2015-02-6](/news/2015/02/6/index.md)
 
+##### Supreme Court of Canada
 # The Supreme Court of Canada strikes down a ban on assisted suicide meaning doctors can now assist mentally competent patients with severe and incurable conditions to die. 
 
 Canada’s Supreme Court has struck down the country’s 1993 ban on assisted suicide, meaning doctors there can now help mentally competent patients with severe and incurable medical conditions to die. The ruling puts Canada among the few Western countries to permit the practice.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/americas/canada-strikes-down-ban-on-assisted-suicide-10029689.html)
+1. [The Independent](https://www.independent.co.uk/news/world/americas/canada-strikes-down-ban-on-assisted-suicide-10029689.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/02/06/17/canada-assisted-dying-ap.jpg)
 
 ### Related:

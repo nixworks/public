@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/10/russia-s-air-force-chief-col-gen-alexander-zelin-accuses-nato-fighters-of-launching-air-attacks-during-escort-of-russian-bombers.html)  [JSON](/news/2008/05/10/russia-s-air-force-chief-col-gen-alexander-zelin-accuses-nato-fighters-of-launching-air-attacks-during-escort-of-russian-bombers.json)  [XML](/news/2008/05/10/russia-s-air-force-chief-col-gen-alexander-zelin-accuses-nato-fighters-of-launching-air-attacks-during-escort-of-russian-bombers.xml)  
+
 ### [2008-05-10](/news/2008/05/10/index.md)
 
+##### Russia
 #  Russia's air force chief Col.-Gen. Alexander Zelin accuses NATO fighters of launching "air attacks" during escort of Russian bombers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN.com](http://www.cnn.com/2008/WORLD/europe/05/10/russia.nato.ap/index.html)
 

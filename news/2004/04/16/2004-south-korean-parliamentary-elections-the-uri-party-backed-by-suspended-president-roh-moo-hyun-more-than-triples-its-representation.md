@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/04/16/2004-south-korean-parliamentary-elections-the-uri-party-backed-by-suspended-president-roh-moo-hyun-more-than-triples-its-representation.html)  [JSON](/news/2004/04/16/2004-south-korean-parliamentary-elections-the-uri-party-backed-by-suspended-president-roh-moo-hyun-more-than-triples-its-representation.json)  [XML](/news/2004/04/16/2004-south-korean-parliamentary-elections-the-uri-party-backed-by-suspended-president-roh-moo-hyun-more-than-triples-its-representation.xml)  
+
 ### [2004-04-16](/news/2004/04/16/index.md)
 
+##### 2004 South Korean parliamentary elections
 #  2004 South Korean parliamentary elections: The Uri Party, backed by suspended President Roh Moo-hyun, more than triples its representation, winning 152 of 299 seats.
 
 

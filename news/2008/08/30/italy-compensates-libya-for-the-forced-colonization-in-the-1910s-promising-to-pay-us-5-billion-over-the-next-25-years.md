@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/08/30/italy-compensates-libya-for-the-forced-colonization-in-the-1910s-promising-to-pay-us-5-billion-over-the-next-25-years.html)  [JSON](/news/2008/08/30/italy-compensates-libya-for-the-forced-colonization-in-the-1910s-promising-to-pay-us-5-billion-over-the-next-25-years.json)  [XML](/news/2008/08/30/italy-compensates-libya-for-the-forced-colonization-in-the-1910s-promising-to-pay-us-5-billion-over-the-next-25-years.xml)  
+
 ### [2008-08-30](/news/2008/08/30/index.md)
 
+##### Italy
 #  Italy compensates Libya for the forced colonization in the 1910s, promising to pay US$5 billion over the next 25 years. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=aYV2zCLVwobI&refer=africa)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601116&sid=aYV2zCLVwobI&refer=africa)
 
 ### Related:
 

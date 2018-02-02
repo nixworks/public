@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/22/in-london-a-uniformed-soldier-is-murdered-in-the-street-two-men-carrying-knives-and-a-meat-cleaver-are-subsequently-shot-and-apprehended-b.html)  [JSON](/news/2013/05/22/in-london-a-uniformed-soldier-is-murdered-in-the-street-two-men-carrying-knives-and-a-meat-cleaver-are-subsequently-shot-and-apprehended-b.json)  [XML](/news/2013/05/22/in-london-a-uniformed-soldier-is-murdered-in-the-street-two-men-carrying-knives-and-a-meat-cleaver-are-subsequently-shot-and-apprehended-b.xml)  
+
 ### [2013-05-22](/news/2013/05/22/index.md)
 
+##### 2013 Woolwich attack
 # In London, a uniformed soldier is murdered in the street. Two men carrying knives and a meat cleaver are subsequently shot and apprehended by police. The UK government is treating it as a terrorist incident. 
 
 A man is killed in a machete attack and two suspects shot and wounded by police in London, with footage emerging of a man with bloodied hands shouting political statements near the scene.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-22630303)
 2. [Metro](http://metro.co.uk/2013/05/22/police-respond-to-serious-incident-in-woolwich-3804903/)

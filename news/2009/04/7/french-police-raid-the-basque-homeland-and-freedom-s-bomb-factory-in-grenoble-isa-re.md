@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/7/french-police-raid-the-basque-homeland-and-freedom-s-bomb-factory-in-grenoble-isa-re.html)  [JSON](/news/2009/04/7/french-police-raid-the-basque-homeland-and-freedom-s-bomb-factory-in-grenoble-isa-re.json)  [XML](/news/2009/04/7/french-police-raid-the-basque-homeland-and-freedom-s-bomb-factory-in-grenoble-isa-re.xml)  
+
 ### [2009-04-7](/news/2009/04/7/index.md)
 
+##### France
 #  French police raid the Basque Homeland and Freedom's "bomb factory" in Grenoble, Isere. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/7985581.stm)
 

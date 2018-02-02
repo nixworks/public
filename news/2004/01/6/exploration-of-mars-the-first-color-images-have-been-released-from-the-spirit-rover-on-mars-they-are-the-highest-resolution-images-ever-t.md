@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/6/exploration-of-mars-the-first-color-images-have-been-released-from-the-spirit-rover-on-mars-they-are-the-highest-resolution-images-ever-t.html)  [JSON](/news/2004/01/6/exploration-of-mars-the-first-color-images-have-been-released-from-the-spirit-rover-on-mars-they-are-the-highest-resolution-images-ever-t.json)  [XML](/news/2004/01/6/exploration-of-mars-the-first-color-images-have-been-released-from-the-spirit-rover-on-mars-they-are-the-highest-resolution-images-ever-t.xml)  
+
 ### [2004-01-6](/news/2004/01/6/index.md)
 
+##### route
 #  Exploration of Mars: The first color images have been released from the Spirit rover on Mars. They are the highest resolution images ever taken on the surface of another planet. It has also been announced by NASA that they plan to name the rover's landing site on Mars "Columbia Memorial Station" in honor of the crew of STS-107.
 
 

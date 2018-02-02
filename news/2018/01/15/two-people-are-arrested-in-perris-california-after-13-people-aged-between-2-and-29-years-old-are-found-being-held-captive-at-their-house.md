@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/15/two-people-are-arrested-in-perris-california-af
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
+##### Perris, California
 # Two people are arrested in Perris, California, after 13 people aged between 2 and 29 years old are found being held captive at their house, including some "shackled to their beds with chains and padlocks". They are all believed to be siblings. 
 
 Two parents are arrested after police find in their house 13 people who were allegedly held captive.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/19/former-us-president-jimmy-carter-is-on-hand-to-christen-the-uss-jimmy-carter-the-last-of-the-seawolf-class-submarines-ordered-during-the-c.html)  [JSON](/news/2005/02/19/former-us-president-jimmy-carter-is-on-hand-to-christen-the-uss-jimmy-carter-the-last-of-the-seawolf-class-submarines-ordered-during-the-c.json)  [XML](/news/2005/02/19/former-us-president-jimmy-carter-is-on-hand-to-christen-the-uss-jimmy-carter-the-last-of-the-seawolf-class-submarines-ordered-during-the-c.xml)  
+
 ### [2005-02-19](/news/2005/02/19/index.md)
 
+##### Jimmy Carter
 #  Former US President Jimmy Carter is on hand to christen the USS Jimmy Carter, the last of the Seawolf class submarines ordered during the Cold War. The submarine cost 3.2 billion USD. It has a 100-foot (30.5 m) extension for special operations and can reportedly tap undersea cables. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo!](http://story.news.yahoo.com/news?tmpl=story&cid=514&e=5&u=/ap/20050219/ap_on_re_us/uss_jimmy_carter)
 

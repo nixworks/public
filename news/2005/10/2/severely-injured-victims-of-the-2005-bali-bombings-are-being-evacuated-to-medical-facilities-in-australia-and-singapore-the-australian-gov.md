@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/2/severely-injured-victims-of-the-2005-bali-bombings-are-being-evacuated-to-medical-facilities-in-australia-and-singapore-the-australian-gov.html)  [JSON](/news/2005/10/2/severely-injured-victims-of-the-2005-bali-bombings-are-being-evacuated-to-medical-facilities-in-australia-and-singapore-the-australian-gov.json)  [XML](/news/2005/10/2/severely-injured-victims-of-the-2005-bali-bombings-are-being-evacuated-to-medical-facilities-in-australia-and-singapore-the-australian-gov.xml)  
+
 ### [2005-10-2](/news/2005/10/2/index.md)
 
+##### Bali bombings
 #  Severely injured victims of the 2005 Bali bombings are being evacuated to medical facilities in Australia and Singapore. The Australian Government has made moves to assist Indonesia in its response, dispatching Australian Federal Police officers and forensic experts to assist in investigations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200510/s1472723.htm)
 

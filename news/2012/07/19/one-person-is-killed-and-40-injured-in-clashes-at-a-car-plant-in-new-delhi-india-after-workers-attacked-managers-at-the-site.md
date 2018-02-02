@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/19/one-person-is-killed-and-40-injured-in-clashes-at-a-car-plant-in-new-delhi-india-after-workers-attacked-managers-at-the-site.html)  [JSON](/news/2012/07/19/one-person-is-killed-and-40-injured-in-clashes-at-a-car-plant-in-new-delhi-india-after-workers-attacked-managers-at-the-site.json)  [XML](/news/2012/07/19/one-person-is-killed-and-40-injured-in-clashes-at-a-car-plant-in-new-delhi-india-after-workers-attacked-managers-at-the-site.xml)  
+
 ### [2012-07-19](/news/2012/07/19/index.md)
 
+##### New Delhi
 # One person is killed and 40 injured in clashes at a car plant in New Delhi, India, after workers attacked managers at the site. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/303258/one-killed-40-injured-in-clashes-at-indian-car-plant)
 

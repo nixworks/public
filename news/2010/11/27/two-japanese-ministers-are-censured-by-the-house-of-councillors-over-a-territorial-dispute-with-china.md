@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/27/two-japanese-ministers-are-censured-by-the-house-of-councillors-over-a-territorial-dispute-with-china.html)  [JSON](/news/2010/11/27/two-japanese-ministers-are-censured-by-the-house-of-councillors-over-a-territorial-dispute-with-china.json)  [XML](/news/2010/11/27/two-japanese-ministers-are-censured-by-the-house-of-councillors-over-a-territorial-dispute-with-china.xml)  
+
 ### [2010-11-27](/news/2010/11/27/index.md)
 
+##### Japan
 # Two Japanese ministers are censured by the House of Councillors over a territorial dispute with China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_607946.html)
 

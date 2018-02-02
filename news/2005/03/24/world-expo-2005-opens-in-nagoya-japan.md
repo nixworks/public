@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/24/world-expo-2005-opens-in-nagoya-japan.html)  [JSON](/news/2005/03/24/world-expo-2005-opens-in-nagoya-japan.json)  [XML](/news/2005/03/24/world-expo-2005-opens-in-nagoya-japan.xml)  
+
 ### [2005-03-24](/news/2005/03/24/index.md)
 
+##### World Expo 2005
 #  World Expo 2005 opens in Nagoya, Japan. 
 
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
 
 
-### Source:
+### Sources:
 
 1. [Asahi Shinbun](http://www.asahi.com/english/Herald-asahi/TKY200503240131.html)
 2. [Expo 2005](http://www.expo2005.or.jp/)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/15/10-iraqis-are-reported-killed-and-16-injured-in-the-city-of-mosul-marines-insist-they-were-fired-at-survivors-say-demonstrators-only-thre.html)  [JSON](/news/2003/04/15/10-iraqis-are-reported-killed-and-16-injured-in-the-city-of-mosul-marines-insist-they-were-fired-at-survivors-say-demonstrators-only-thre.json)  [XML](/news/2003/04/15/10-iraqis-are-reported-killed-and-16-injured-in-the-city-of-mosul-marines-insist-they-were-fired-at-survivors-say-demonstrators-only-thre.xml)  
+
 ### [2003-04-15](/news/2003/04/15/index.md)
 
+##### Mosul
 #  10 Iraqis are reported killed and 16 injured in the city of Mosul. Marines insist they were fired at, survivors say demonstrators only threw stones.
 
 

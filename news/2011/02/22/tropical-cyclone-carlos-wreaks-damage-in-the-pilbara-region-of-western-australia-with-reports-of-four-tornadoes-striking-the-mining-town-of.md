@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/22/tropical-cyclone-carlos-wreaks-damage-in-the-pilbara-region-of-western-australia-with-reports-of-four-tornadoes-striking-the-mining-town-of.html)  [JSON](/news/2011/02/22/tropical-cyclone-carlos-wreaks-damage-in-the-pilbara-region-of-western-australia-with-reports-of-four-tornadoes-striking-the-mining-town-of.json)  [XML](/news/2011/02/22/tropical-cyclone-carlos-wreaks-damage-in-the-pilbara-region-of-western-australia-with-reports-of-four-tornadoes-striking-the-mining-town-of.xml)  
+
 ### [2011-02-22](/news/2011/02/22/index.md)
 
+##### Tropical Cyclone Carlos
 # Tropical Cyclone Carlos wreaks damage in the Pilbara region of Western Australia, with reports of four tornadoes striking the mining town of Karratha. 
 
 The worst of tropical cyclone Carlos has passed Karratha yesterday afternoon, as the downgraded category-one system heads southwest towards Exmouth and Onslow.
 
 
-### Source:
+### Sources:
 
 1. [WAToday](http://www.watoday.com.au/environment/weather/minitornado-lashes-karratha-as-cyclone-carlos-menaces-wa-20110220-1b0qg.html)
 1. [Cover Image](http://www.watoday.com.au/content/dam/images/1/b/3/w/x/image.related.articleLeadwide.620x349.1b0qg.png/1298414838653.jpg)

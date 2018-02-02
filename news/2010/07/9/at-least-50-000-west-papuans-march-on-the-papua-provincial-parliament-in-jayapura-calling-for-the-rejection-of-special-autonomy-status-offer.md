@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/9/at-least-50-000-west-papuans-march-on-the-papua-provincial-parliament-in-jayapura-calling-for-the-rejection-of-special-autonomy-status-offer.html)  [JSON](/news/2010/07/9/at-least-50-000-west-papuans-march-on-the-papua-provincial-parliament-in-jayapura-calling-for-the-rejection-of-special-autonomy-status-offer.json)  [XML](/news/2010/07/9/at-least-50-000-west-papuans-march-on-the-papua-provincial-parliament-in-jayapura-calling-for-the-rejection-of-special-autonomy-status-offer.xml)  
+
 ### [2010-07-9](/news/2010/07/9/index.md)
 
+##### Papua
 # At least 50,000 West Papuans march on the Papua provincial parliament in Jayapura calling for the rejection of special autonomy status offered by Indonesia in favor of independence; 20,000 camp outside the parliament overnight. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Globe](http://www.thejakartaglobe.com/home/thousands-rally-for-independence-referendum-in-indonesias-papua/384834)
 2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=54620)

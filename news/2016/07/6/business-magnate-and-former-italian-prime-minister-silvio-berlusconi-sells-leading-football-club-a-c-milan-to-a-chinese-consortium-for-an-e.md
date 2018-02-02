@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/6/business-magnate-and-former-italian-prime-minist
 
 ### [2016-07-6](/news/2016/07/6/index.md)
 
+##### Silvio Berlusconi
 # Business magnate and former Italian prime minister Silvio Berlusconi sells leading football club A.C. Milan to a Chinese consortium for an eventual EUR400 million. 
 
 

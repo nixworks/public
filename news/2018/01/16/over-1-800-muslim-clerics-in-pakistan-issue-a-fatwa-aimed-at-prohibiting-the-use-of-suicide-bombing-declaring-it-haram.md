@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/16/over-1-800-muslim-clerics-in-pakistan-issue-a-f
 
 ### [2018-01-16](/news/2018/01/16/index.md)
 
+##### Terrorism in Pakistan
 # Over 1,800 muslim clerics in Pakistan issue a fatwa aimed at prohibiting the use of suicide bombing, declaring it haram. 
 
 Hundreds of Muslim clergymen in Pakistan have issued a joint religious directive that forbids Muslims from carrying out suicide bombing attacks.

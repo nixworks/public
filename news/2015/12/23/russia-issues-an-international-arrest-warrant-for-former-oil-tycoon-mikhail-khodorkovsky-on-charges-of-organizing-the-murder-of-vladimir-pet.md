@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/12/23/russia-issues-an-international-arrest-warrant-for-former-oil-tycoon-mikhail-khodorkovsky-on-charges-of-organizing-the-murder-of-vladimir-pet.html)  [JSON](/news/2015/12/23/russia-issues-an-international-arrest-warrant-for-former-oil-tycoon-mikhail-khodorkovsky-on-charges-of-organizing-the-murder-of-vladimir-pet.json)  [XML](/news/2015/12/23/russia-issues-an-international-arrest-warrant-for-former-oil-tycoon-mikhail-khodorkovsky-on-charges-of-organizing-the-murder-of-vladimir-pet.xml)  
+
 ### [2015-12-23](/news/2015/12/23/index.md)
 
+##### Russia
 # Russia issues an international arrest warrant for former oil tycoon Mikhail Khodorkovsky on charges of organizing the murder of Vladimir Petukhov, mayor of Nefteyugansk in 1998. 
 
 Former oil tycoon says order to have him arrested in absentia over alleged murders shows that Russian authorities have ‘gone mad’
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2015/dec/23/russia-issues-international-arrest-warrant-for-putin-critic-khodorkovsky)
+1. [The Guardian](https://www.theguardian.com/world/2015/dec/23/russia-issues-international-arrest-warrant-for-putin-critic-khodorkovsky)
 1. [Cover Image](https://i.guim.co.uk/img/media/3b845ba98ee0ff11ff47d38c20496c1d300d0b50/0_28_3669_2197/master/3669.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=19d146663c3bd15e4f3110d58eca1111)
 
 ### Related:

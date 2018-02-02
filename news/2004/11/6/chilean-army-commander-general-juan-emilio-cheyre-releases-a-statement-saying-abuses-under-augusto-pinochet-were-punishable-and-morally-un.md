@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/6/chilean-army-commander-general-juan-emilio-cheyre-releases-a-statement-saying-abuses-under-augusto-pinochet-were-punishable-and-morally-un.html)  [JSON](/news/2004/11/6/chilean-army-commander-general-juan-emilio-cheyre-releases-a-statement-saying-abuses-under-augusto-pinochet-were-punishable-and-morally-un.json)  [XML](/news/2004/11/6/chilean-army-commander-general-juan-emilio-cheyre-releases-a-statement-saying-abuses-under-augusto-pinochet-were-punishable-and-morally-un.xml)  
+
 ### [2004-11-6](/news/2004/11/6/index.md)
 
+##### Chile
 #  Chilean army commander General Juan Emilio Cheyre releases a statement saying abuses under Augusto Pinochet were "punishable and morally unacceptable acts of the past", reversing its previous stance that they were excesses carried out by individual officers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/3987341.stm)
 

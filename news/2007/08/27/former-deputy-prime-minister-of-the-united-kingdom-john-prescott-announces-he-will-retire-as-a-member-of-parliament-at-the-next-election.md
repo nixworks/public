@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/27/former-deputy-prime-minister-of-the-united-kingdom-john-prescott-announces-he-will-retire-as-a-member-of-parliament-at-the-next-election.html)  [JSON](/news/2007/08/27/former-deputy-prime-minister-of-the-united-kingdom-john-prescott-announces-he-will-retire-as-a-member-of-parliament-at-the-next-election.json)  [XML](/news/2007/08/27/former-deputy-prime-minister-of-the-united-kingdom-john-prescott-announces-he-will-retire-as-a-member-of-parliament-at-the-next-election.xml)  
+
 ### [2007-08-27](/news/2007/08/27/index.md)
 
+##### Deputy Prime Minister
 #  Former Deputy Prime Minister of the United Kingdom John Prescott announces he will retire as a Member of Parliament at the next election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/6965184.stm)
 

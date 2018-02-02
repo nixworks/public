@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/12/the-world-trade-organization-overturns-australia-s-ban-on-importing-new-zealand-apples-which-had-been-in-place-since-1919.html)  [JSON](/news/2010/04/12/the-world-trade-organization-overturns-australia-s-ban-on-importing-new-zealand-apples-which-had-been-in-place-since-1919.json)  [XML](/news/2010/04/12/the-world-trade-organization-overturns-australia-s-ban-on-importing-new-zealand-apples-which-had-been-in-place-since-1919.xml)  
+
 ### [2010-04-12](/news/2010/04/12/index.md)
 
+##### World Trade Organization
 # The World Trade Organization overturns Australia's ban on importing New Zealand apples, which had been in place since 1919. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Age](http://news.theage.com.au/breaking-news-world/wto-overturns-aussie-ban-on-nz-apples-20100412-s45u.html)
 1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)

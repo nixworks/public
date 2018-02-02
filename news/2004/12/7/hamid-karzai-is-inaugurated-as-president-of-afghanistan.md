@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/7/hamid-karzai-is-inaugurated-as-president-of-afghanistan.html)  [JSON](/news/2004/12/7/hamid-karzai-is-inaugurated-as-president-of-afghanistan.json)  [XML](/news/2004/12/7/hamid-karzai-is-inaugurated-as-president-of-afghanistan.xml)  
+
 ### [2004-12-7](/news/2004/12/7/index.md)
 
+##### Hamid Karzai
 #  Hamid Karzai is inaugurated as President of Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4074175.stm)
 2. [CNN](http://www.cnn.com/2004/WORLD/asiapcf/12/07/afghanistan.inauguration/index.html)

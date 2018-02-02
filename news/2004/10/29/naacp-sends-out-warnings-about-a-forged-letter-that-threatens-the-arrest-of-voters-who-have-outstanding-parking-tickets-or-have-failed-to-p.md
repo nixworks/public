@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/29/naacp-sends-out-warnings-about-a-forged-letter-that-threatens-the-arrest-of-voters-who-have-outstanding-parking-tickets-or-have-failed-to-p.html)  [JSON](/news/2004/10/29/naacp-sends-out-warnings-about-a-forged-letter-that-threatens-the-arrest-of-voters-who-have-outstanding-parking-tickets-or-have-failed-to-p.json)  [XML](/news/2004/10/29/naacp-sends-out-warnings-about-a-forged-letter-that-threatens-the-arrest-of-voters-who-have-outstanding-parking-tickets-or-have-failed-to-p.xml)  
+
 ### [2004-10-29](/news/2004/10/29/index.md)
 
+##### NAACP
 #  NAACP sends out warnings about a forged letter that threatens the arrest of voters who have outstanding parking tickets or have failed to pay child support. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The State](http://www.thestate.com/mld/thestate/news/breaking_news/10050609.htm)
 

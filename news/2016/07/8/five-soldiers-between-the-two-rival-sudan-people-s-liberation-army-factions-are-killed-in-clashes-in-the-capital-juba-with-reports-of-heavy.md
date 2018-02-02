@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/8/five-soldiers-between-the-two-rival-sudan-people
 
 ### [2016-07-8](/news/2016/07/8/index.md)
 
+##### South Sudanese Civil War
 # Five soldiers between the two rival Sudan People's Liberation Army factions are killed in clashes in the capital Juba, with reports of heavy gunfire continuing, despite President Salva Kiir Mayardit and rebel leader Riek Machar having reached a peace deal back in April. 
 
 

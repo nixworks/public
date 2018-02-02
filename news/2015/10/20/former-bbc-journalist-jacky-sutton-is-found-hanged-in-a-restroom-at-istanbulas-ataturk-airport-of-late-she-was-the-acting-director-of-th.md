@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2015/10/20/former-bbc-journalist-jacky-sutton-is-found-hanged-in-a-restroom-at-istanbulas-ataturk-airport-of-late-she-was-the-acting-director-of-th.html)  [JSON](/news/2015/10/20/former-bbc-journalist-jacky-sutton-is-found-hanged-in-a-restroom-at-istanbulas-ataturk-airport-of-late-she-was-the-acting-director-of-th.json)  [XML](/news/2015/10/20/former-bbc-journalist-jacky-sutton-is-found-hanged-in-a-restroom-at-istanbulas-ataturk-airport-of-late-she-was-the-acting-director-of-th.xml)  
+
 ### [2015-10-20](/news/2015/10/20/index.md)
 
+##### BBC
 # Former BBC journalist Jacky Sutton is found hanged in a restroom at Istanbul's Ataturk Airport. Of late, she was the acting director of the Institute for War and Peace Reporting. 
 
 Briton Jacky Sutton, the acting Iraq director for the Institute of War and Peace reporting, is found dead at an Istanbul airport.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-34567210)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/B445/production/_86194164_86194163.jpg)
-
-### Related:
-
-1. [The BBC plans to launch a service in Korean. ](/news/2017/09/25/the-bbc-plans-to-launch-a-service-in-korean.md) _Context: BBC_
-2. [The 450 km-long Turkish March for Justice concludes in Istanbul at a mass rally attended by hundreds of thousands of people. ](/news/2017/07/9/the-450-km-long-turkish-march-for-justice-concludes-in-istanbul-at-a-mass-rally-attended-by-hundreds-of-thousands-of-people.md) _Context: Istanbul_
-3. [Jodie Whittaker has been announced to be replacing Peter Capaldi as the thirteenth incarnation of The Doctor, becoming the first woman to take the lead role of the BBC's long-running science fiction television series, "Doctor Who". ](/news/2017/07/16/jodie-whittaker-has-been-announced-to-be-replacing-peter-capaldi-as-the-thirteenth-incarnation-of-the-doctor-becoming-the-first-woman-to-ta.md) _Context: BBC_
-4. [Saeed Karimian, the founder and director of GEM TV, a Persian language network based in Dubai, is shot dead in Istanbul, Turkey, along with his Kuwaiti business partner. Karimian had previously been tried in absentia by a Tehran court and sentenced to six years in prison for spreading propaganda against Iran. ](/news/2017/04/30/saeed-karimian-the-founder-and-director-of-gem-tv-a-persian-language-network-based-in-dubai-is-shot-dead-in-istanbul-turkey-along-with.md) _Context: Istanbul_
-5. [A helicopter crashes in Istanbul's Buyukcekmece district, killing at least seven people. ](/news/2017/03/10/a-helicopter-crashes-in-istanbul-s-ba1-4ya1-4kassekmece-district-killing-at-least-seven-people.md) _Context: Istanbul_
 
 ### Changes:
 
 1. [Former BBC journalist Jacky Sutton is found hanged in a restroom at Istanbul-s Ataturk Airport. Of late, she was the acting director of the Institute for War and Peace Reporting. ](/news/2015/10/20/former-bbc-journalist-jacky-sutton-is-found-hanged-in-a-restroom-at-istanbul-s-ataturk-airport-of-late-she-was-the-acting-director-of-th.md) _2017-08-27 03:43:26 (First version)_
 1. [Former BBC journalist Jacky Sutton is found hanged in a restroom at Istanbul's Ataturk Airport. Of late, she was the acting director of the Institute for War and Peace Reporting. ](/news/2015/10/20/former-bbc-journalist-jacky-sutton-is-found-hanged-in-a-restroom-at-istanbulas-ataturk-airport-of-late-she-was-the-acting-director-of-th.md) _(Current version)_
+
+### Related:
+
+1. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: BBC_
+2. [The BBC reports that former Prime Minister of the United Kingdom David Cameron is to head a GBP750 million ($1 billion) U.K. private fund to improve air, road and railway links between China and its trading partners. ](/news/2017/12/16/the-bbc-reports-that-former-prime-minister-of-the-united-kingdom-david-cameron-is-to-head-a-agbp750-million-1-billion-u-k-private-fund-t.md) _Context: BBC_
+3. [Turkey's state news agency announces that prosecutors in Istanbul have requested life sentences against six people, including journalist brothers Ahmet and Mehmet Altan and chronicler Nazli Ilicak. One of the accusations is reportedly "having committed a crime in the name of a terror organization without being a member of it." ](/news/2017/12/11/turkey-s-state-news-agency-announces-that-prosecutors-in-istanbul-have-requested-life-sentences-against-six-people-including-journalist-bro.md) _Context: Istanbul_
+4. [The BBC reveals that a secret deal in mid-October allowed hundreds of ISIL fighters and their families, including some of their "most notorious members", escape from Raqqa in a convoy that was between 6 to 7 km long. The United States government confirms that the deal with ISIL was made and that the evacuations took place. The possibility of a deal was previously reported as early as October 14. ](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-in-mid-october-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notori.md) _Context: BBC_
+5. [The BBC plans to launch a service in Korean. ](/news/2017/09/25/the-bbc-plans-to-launch-a-service-in-korean.md) _Context: BBC_

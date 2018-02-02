@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/16/israel-formally-hands-jericho-to-palestinian-authority-control-which-is-likely-to-strengthen-mahmoud-abbas-the-pa-will-resume-security-co.html)  [JSON](/news/2005/03/16/israel-formally-hands-jericho-to-palestinian-authority-control-which-is-likely-to-strengthen-mahmoud-abbas-the-pa-will-resume-security-co.json)  [XML](/news/2005/03/16/israel-formally-hands-jericho-to-palestinian-authority-control-which-is-likely-to-strengthen-mahmoud-abbas-the-pa-will-resume-security-co.xml)  
+
 ### [2005-03-16](/news/2005/03/16/index.md)
 
+##### Israel
 #  Israel formally hands Jericho to Palestinian Authority control, which is likely to strengthen Mahmoud Abbas. The PA will resume security control over the city and will have to make sure that wanted militants will remain in check. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4353109.stm)
 2. [Yahoo!](http://story.news.yahoo.com/news?tmpl=story&u=/nm/mideast_dc)

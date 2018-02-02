@@ -1,11 +1,9 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/8/american-actor-leonardo-dicaprio-and-mexican-president-enrique-pea-a-nieto-meet-to-discuss-the-protection-of-the-vaquita-porpoise.html)  [JSON](/news/2017/06/8/american-actor-leonardo-dicaprio-and-mexican-president-enrique-pea-a-nieto-meet-to-discuss-the-protection-of-the-vaquita-porpoise.json)  [XML](/news/2017/06/8/american-actor-leonardo-dicaprio-and-mexican-president-enrique-pea-a-nieto-meet-to-discuss-the-protection-of-the-vaquita-porpoise.xml)  
 
-* [HTML](/news/2017/06/8/american-actor-leonardo-dicaprio-and-mexican-president-enrique-pea-a-nieto-meet-to-discuss-the-protection-of-the-vaquita-porpoise.html)
-* [JSON](/news/2017/06/8/american-actor-leonardo-dicaprio-and-mexican-president-enrique-pea-a-nieto-meet-to-discuss-the-protection-of-the-vaquita-porpoise.json)
-* [XML](/news/2017/06/8/american-actor-leonardo-dicaprio-and-mexican-president-enrique-pea-a-nieto-meet-to-discuss-the-protection-of-the-vaquita-porpoise.xml)
 ### [2017-06-8](/news/2017/06/8/index.md)
 
+##### IUCN Red List
 # American actor Leonardo DiCaprio and Mexican president Enrique Pena Nieto meet to discuss the protection of the Vaquita porpoise. 
 
 But it&#039;s going to take a lot more than star power to save the Mexican vaquita from the corruption and organized crime that threatens the endangered cetacean.

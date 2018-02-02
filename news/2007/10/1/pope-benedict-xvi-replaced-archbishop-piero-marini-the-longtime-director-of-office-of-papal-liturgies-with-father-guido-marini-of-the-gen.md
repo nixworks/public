@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/1/pope-benedict-xvi-replaced-archbishop-piero-marini-the-longtime-director-of-office-of-papal-liturgies-with-father-guido-marini-of-the-gen.html)  [JSON](/news/2007/10/1/pope-benedict-xvi-replaced-archbishop-piero-marini-the-longtime-director-of-office-of-papal-liturgies-with-father-guido-marini-of-the-gen.json)  [XML](/news/2007/10/1/pope-benedict-xvi-replaced-archbishop-piero-marini-the-longtime-director-of-office-of-papal-liturgies-with-father-guido-marini-of-the-gen.xml)  
+
 ### [2007-10-1](/news/2007/10/1/index.md)
 
+##### Benedict XVI
 #  Pope Benedict XVI replaced Archbishop Piero Marini, the longtime director of office of papal liturgies, with Father Guido Marini of the Genoa archdiocese. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Novus Motus Liturgicus](http://thenewliturgicalmovement.blogspot.com/2007/10/catholic-world-news-chief-vatican.html)
 

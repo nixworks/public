@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/13/eric-laroche-the-united-nations-humanitarian-co-ordinator-for-somalia-raises-concerns-about-recent-killings-of-eminent-somali-journalists.html)  [JSON](/news/2007/08/13/eric-laroche-the-united-nations-humanitarian-co-ordinator-for-somalia-raises-concerns-about-recent-killings-of-eminent-somali-journalists.json)  [XML](/news/2007/08/13/eric-laroche-the-united-nations-humanitarian-co-ordinator-for-somalia-raises-concerns-about-recent-killings-of-eminent-somali-journalists.xml)  
+
 ### [2007-08-13](/news/2007/08/13/index.md)
 
+##### United Nations
 #  Eric Laroche, the United Nations Humanitarian Co-ordinator for Somalia raises concerns about recent killings of eminent Somali journalists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6943619.stm)
 

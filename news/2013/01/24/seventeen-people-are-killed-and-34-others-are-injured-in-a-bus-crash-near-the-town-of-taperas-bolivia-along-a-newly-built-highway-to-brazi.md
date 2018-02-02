@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/01/24/seventeen-people-are-killed-and-34-others-are-injured-in-a-bus-crash-near-the-town-of-taperas-bolivia-along-a-newly-built-highway-to-brazi.html)  [JSON](/news/2013/01/24/seventeen-people-are-killed-and-34-others-are-injured-in-a-bus-crash-near-the-town-of-taperas-bolivia-along-a-newly-built-highway-to-brazi.json)  [XML](/news/2013/01/24/seventeen-people-are-killed-and-34-others-are-injured-in-a-bus-crash-near-the-town-of-taperas-bolivia-along-a-newly-built-highway-to-brazi.xml)  
+
 ### [2013-01-24](/news/2013/01/24/index.md)
 
+##### Bolivia
 # Seventeen people are killed and 34 others are injured in a bus crash near the town of Taperas, Bolivia, along a newly built highway to Brazil. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/new-crash-raises-three-day-death-toll-to-56-for-bolivias-perilous-bus-routes/2013/01/24/d01f8d8a-6653-11e2-889b-f23c246aa446_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/new-crash-raises-three-day-death-toll-to-56-for-bolivias-perilous-bus-routes/2013/01/24/d01f8d8a-6653-11e2-889b-f23c246aa446_story.html)
 2. [EFE via ''La Prensa](http://www.laprensasa.com/309_america-in-english/1902998_17-dead-after-2-buses-collide-in-bolivia.html)
 
 ### Related:

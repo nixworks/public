@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-o
 
 ### [2017-12-25](/news/2017/12/25/index.md)
 
+##### War in Afghanistan (2001-present)
 # A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIL is responsible for the attack. 
 
 

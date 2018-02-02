@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/22/with-results-of-the-federal-election-in-australia-indicating-a-hung-parliament-prime-minister-julia-gillard-holds-initial-talks-with-indepe.html)  [JSON](/news/2010/08/22/with-results-of-the-federal-election-in-australia-indicating-a-hung-parliament-prime-minister-julia-gillard-holds-initial-talks-with-indepe.json)  [XML](/news/2010/08/22/with-results-of-the-federal-election-in-australia-indicating-a-hung-parliament-prime-minister-julia-gillard-holds-initial-talks-with-indepe.xml)  
+
 ### [2010-08-22](/news/2010/08/22/index.md)
 
+##### recent election
 # With results of the federal election in Australia indicating a hung parliament, Prime Minister Julia Gillard holds initial talks with independent candidates in an attempt to form a government. 
 
 Australian Prime Minister Julia Gillard contacts independent candidates as she begins trying to form a government after an inconclusive vote.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/20108228112312201.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11050525)

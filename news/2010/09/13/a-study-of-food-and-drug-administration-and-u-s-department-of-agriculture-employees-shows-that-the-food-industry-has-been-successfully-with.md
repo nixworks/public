@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/09/13/a-study-of-food-and-drug-administration-and-u-s-department-of-agriculture-employees-shows-that-the-food-industry-has-been-successfully-with.html)  [JSON](/news/2010/09/13/a-study-of-food-and-drug-administration-and-u-s-department-of-agriculture-employees-shows-that-the-food-industry-has-been-successfully-with.json)  [XML](/news/2010/09/13/a-study-of-food-and-drug-administration-and-u-s-department-of-agriculture-employees-shows-that-the-food-industry-has-been-successfully-with.xml)  
+
 ### [2010-09-13](/news/2010/09/13/index.md)
 
+##### Food and Drug Administration
 # A study of Food and Drug Administration and U.S. Department of Agriculture employees shows that the food industry has been successfully withholding information from inspectors and pressuring the government agencies to withdraw or alter policies which promote food safety. 
 
 The food industry is jeopardizing U.S. public health by withholding information from food safety investigators or pressuring regulators to withdraw or alter policy designed to protect consumers, said a survey of government scientists and inspectors.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE68C39320100913)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100913&t=2&i=203258548&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-13T212624Z_01_BTRE68C193X00_RTROPTP_0_US-FOOD-SAFETY-STUDY)
+1. [Reuters](https://www.reuters.com/article/idUSTRE68C39320100913)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20100913&t=2&i=203258548&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-09-13T212624Z_01_BTRE68C193X00_RTROPTP_0_US-FOOD-SAFETY-STUDY)
 
 ### Related:
 

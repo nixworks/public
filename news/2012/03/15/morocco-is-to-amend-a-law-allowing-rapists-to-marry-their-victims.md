@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2012/03/15/morocco-is-to-amend-a-law-allowing-rapists-to-marry-their-victims.html)  [JSON](/news/2012/03/15/morocco-is-to-amend-a-law-allowing-rapists-to-marry-their-victims.json)  [XML](/news/2012/03/15/morocco-is-to-amend-a-law-allowing-rapists-to-marry-their-victims.xml)  
+
 ### [2012-03-15](/news/2012/03/15/index.md)
 
+##### Morocco
 # Morocco is to amend a law allowing rapists to marry their victims. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/commoditiesNews/idAFL5E8EF7LU20120315)
 
 ### Related:
 
-1. [Approximately fifty migrants are feared drowned off the coast of Morocco. Three men were rescued near Alboran Island near the coast of Spain. ](/news/2017/07/4/approximately-fifty-migrants-are-feared-drowned-off-the-coast-of-morocco-three-men-were-rescued-near-alboran-island-near-the-coast-of-spain.md) _Context: Morocco_
-2. [The oldest fossil records of "Homo sapiens" are discovered in Jebel Irhoud, Morocco, dated at between 300,000 and 350,000 years old. The earliest "Homo sapiens" fossils had been dated as 200,000 years old. ](/news/2017/06/7/the-oldest-fossil-records-of-homo-sapiens-are-discovered-in-jebel-irhoud-morocco-dated-at-between-300-000-and-350-000-years-old-the-ear.md) _Context: Morocco_
-3. [President of the Philippines Rodrigo Duterte tells soldiers fighting in Mindanao, where he proclaimed martial law earlier this week, that he will accept responsibility for abuses they commit, and jokes that "[i]f you had raped three, I will admit it, that's on me." ](/news/2017/05/27/president-of-the-philippines-rodrigo-duterte-tells-soldiers-fighting-in-mindanao-where-he-proclaimed-martial-law-earlier-this-week-that-he.md) _Context: rape_
-4. [The Extraordinary African Chambers tribunal in Dakar, Senegal, upholds its conviction of former Chadian president Hissene Habre for crimes against humanity, but acquits him of rape. ](/news/2017/04/27/the-extraordinary-african-chambers-tribunal-in-dakar-senegal-upholds-its-conviction-of-former-chadian-president-hissa-ne-habra-c-for-crimes.md) _Context: rape_
-5. [The Moroccan Assembly of Representatives votes 208 to 91 in favor of approving of a coalition cabinet led by Saadeddine Othmani. ](/news/2017/04/26/the-moroccan-assembly-of-representatives-votes-208-to-91-in-favor-of-approving-of-a-coalition-cabinet-led-by-saadeddine-othmani.md) _Context: Morocco_
+1. [It is revealed that Ecuador granted citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/it-is-revealed-that-ecuador-granted-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-emba.md) _Context: rape_
+2. [Thousands of Moroccans protest working conditions in Morocco's coal pits. ](/news/2017/12/26/thousands-of-moroccans-protest-working-conditions-in-morocco-s-coal-pits.md) _Context: Morocco_
+3. [At least 15 people are killed in a human stampede over food in the village of Sidi Boualem, Morocco. ](/news/2017/11/19/at-least-15-people-are-killed-in-a-human-stampede-over-food-in-the-village-of-sidi-boualem-morocco.md) _Context: Morocco_
+4. [Approximately fifty migrants are feared drowned off the coast of Morocco. Three men were rescued near Alboran Island near the coast of Spain. ](/news/2017/07/4/approximately-fifty-migrants-are-feared-drowned-off-the-coast-of-morocco-three-men-were-rescued-near-alboran-island-near-the-coast-of-spain.md) _Context: Morocco_
+5. [The oldest fossil records of "Homo sapiens" are discovered in Jebel Irhoud, Morocco, dated at between 300,000 and 350,000 years old. The earliest "Homo sapiens" fossils had been dated as 200,000 years old. ](/news/2017/06/7/the-oldest-fossil-records-of-homo-sapiens-are-discovered-in-jebel-irhoud-morocco-dated-at-between-300-000-and-350-000-years-old-the-ear.md) _Context: Morocco_

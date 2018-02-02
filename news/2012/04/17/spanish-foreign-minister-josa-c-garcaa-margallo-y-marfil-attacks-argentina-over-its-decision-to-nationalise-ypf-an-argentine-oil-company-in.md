@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/17/spanish-foreign-minister-josa-c-garcaa-margallo-y-marfil-attacks-argentina-over-its-decision-to-nationalise-ypf-an-argentine-oil-company-in.html)  [JSON](/news/2012/04/17/spanish-foreign-minister-josa-c-garcaa-margallo-y-marfil-attacks-argentina-over-its-decision-to-nationalise-ypf-an-argentine-oil-company-in.json)  [XML](/news/2012/04/17/spanish-foreign-minister-josa-c-garcaa-margallo-y-marfil-attacks-argentina-over-its-decision-to-nationalise-ypf-an-argentine-oil-company-in.xml)  
+
 ### [2012-04-17](/news/2012/04/17/index.md)
 
+##### Jose Garcia-Margallo y Marfil
 # Spanish foreign minister Jose Garcia-Margallo y Marfil attacks Argentina over its decision to nationalise YPF, an Argentine oil company in which Spanish company Repsol has a majority shareholding, a decision reported to be popular in Argentina. 
 
 Spain says Argentina has shot itself in the foot with its decision to nationalise the Spanish majority stake in the YPF oil company.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17739204)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59695000/jpg/_59695146_014529439-1.jpg)

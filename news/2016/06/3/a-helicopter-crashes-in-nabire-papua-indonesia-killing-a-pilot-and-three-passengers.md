@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/3/a-helicopter-crashes-in-nabire-papua-indonesia-k
 
 ### [2016-06-3](/news/2016/06/3/index.md)
 
+##### Nabire
 # A helicopter crashes in Nabire, Papua, Indonesia, killing a pilot and three passengers. 
 
 

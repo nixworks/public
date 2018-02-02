@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/05/4/airline-partners-australia-ltd-nearly-issues-a-bid-for-qantas-airways-until-its-investors-rejected-it.html)  [JSON](/news/2007/05/4/airline-partners-australia-ltd-nearly-issues-a-bid-for-qantas-airways-until-its-investors-rejected-it.json)  [XML](/news/2007/05/4/airline-partners-australia-ltd-nearly-issues-a-bid-for-qantas-airways-until-its-investors-rejected-it.xml)  
+
 ### [2007-05-4](/news/2007/05/4/index.md)
 
+##### Airline Partners Australia Ltd.
 #  Airline Partners Australia Ltd. nearly issues a bid for Qantas Airways until its investors rejected it. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg.com: Asia](http://www.bloomberg.com/apps/news?pid=20601080&sid=a1hhGErp2T4k&refer=asia)
+1. [Bloomberg.com: Asia](https://www.bloomberg.com/apps/news?pid=20601080&sid=a1hhGErp2T4k&refer=asia)
 2. [CNN](http://edition.cnn.com/2007/BUSINESS/05/04/qantas.bid.reut/)
 3. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?type=fundsFundsNews&storyID=2007-05-04T131518Z_01_SYD228221_RTRIDST_0_QANTAS-BID-UPDATE-4-REPEAT.XML)
 4. [Sydney Morning Herald](http://www.smh.com.au/news/business/fasten-seatbelts-as-qantas-fingerpointing-begins/2007/05/04/1177788400238.html)

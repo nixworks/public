@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/yoweri-museveni-is-sworn-in-for-a-fourth-term-as-president-of-uganda-amid-protests.html)  [JSON](/news/2011/05/12/yoweri-museveni-is-sworn-in-for-a-fourth-term-as-president-of-uganda-amid-protests.json)  [XML](/news/2011/05/12/yoweri-museveni-is-sworn-in-for-a-fourth-term-as-president-of-uganda-amid-protests.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### Yoweri Museveni
 # Yoweri Museveni is sworn in for a fourth term as President of Uganda, amid protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/may/12/uganda-museveni-police-teargas)
 

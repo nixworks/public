@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/3/australia-s-civil-aviation-safety-authority-launches-an-investigation-into-safety-at-qantas-after-three-emergencies-in-two-weeks-beginning.html)  [JSON](/news/2008/08/3/australia-s-civil-aviation-safety-authority-launches-an-investigation-into-safety-at-qantas-after-three-emergencies-in-two-weeks-beginning.json)  [XML](/news/2008/08/3/australia-s-civil-aviation-safety-authority-launches-an-investigation-into-safety-at-qantas-after-three-emergencies-in-two-weeks-beginning.xml)  
+
 ### [2008-08-3](/news/2008/08/3/index.md)
 
+##### Civil Aviation Safety Authority
 #  Australia's Civil Aviation Safety Authority launches an investigation into safety at Qantas after three emergencies in two weeks, beginning with the explosion aboard Qantas Flight 30. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.news.com.au/heraldsun/story/0,21985,24121813-662,00.html)
 

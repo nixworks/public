@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/01/22/the-government-of-eritrea-says-the-capital-asmara-is-calm-a-day-after-dissident-soldiers-seized-the-information-ministry-and-state-media.html)  [JSON](/news/2013/01/22/the-government-of-eritrea-says-the-capital-asmara-is-calm-a-day-after-dissident-soldiers-seized-the-information-ministry-and-state-media.json)  [XML](/news/2013/01/22/the-government-of-eritrea-says-the-capital-asmara-is-calm-a-day-after-dissident-soldiers-seized-the-information-ministry-and-state-media.xml)  
+
 ### [2013-01-22](/news/2013/01/22/index.md)
 
+##### government
 # The government of Eritrea says the capital Asmara is "calm" a day after dissident soldiers seized the information ministry and state media. 
 
 Government says that all is calm in capital Asmara a day after dissident soldiers reportedly seize information ministry.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/01/20131229324580346.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-21144594)
-3. [Reuters](http://www.reuters.com/article/2013/01/22/eritrea-siege-idUKL6N0AR5HW20130122)
+3. [Reuters](https://www.reuters.com/article/2013/01/22/eritrea-siege-idUKL6N0AR5HW20130122)
 3. [Cover Image](http://www.aljazeera.com/mritems/images/2013/1/22//20131229439116580_20.jpg)
 
 ### Related:

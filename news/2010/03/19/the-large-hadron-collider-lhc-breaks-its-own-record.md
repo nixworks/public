@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/19/the-large-hadron-collider-lhc-breaks-its-own-record.html)  [JSON](/news/2010/03/19/the-large-hadron-collider-lhc-breaks-its-own-record.json)  [XML](/news/2010/03/19/the-large-hadron-collider-lhc-breaks-its-own-record.xml)  
+
 ### [2010-03-19](/news/2010/03/19/index.md)
 
+##### Large Hadron Collider
 # The Large Hadron Collider (LHC) breaks its own record. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/8576545.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/science/large-hadron-collider/7480815/Large-Hadron-Collider-breaks-energy-record.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/14/libya-s-national-transitional-council-criticizes-niger-s-offer-of-asylum-to-ousted-libyan-dictator-muammar-gaddafi-s-son-saadi-gaddafi-for.html)  [JSON](/news/2011/11/14/libya-s-national-transitional-council-criticizes-niger-s-offer-of-asylum-to-ousted-libyan-dictator-muammar-gaddafi-s-son-saadi-gaddafi-for.json)  [XML](/news/2011/11/14/libya-s-national-transitional-council-criticizes-niger-s-offer-of-asylum-to-ousted-libyan-dictator-muammar-gaddafi-s-son-saadi-gaddafi-for.xml)  
+
 ### [2011-11-14](/news/2011/11/14/index.md)
 
+##### Libya
 # Libya's National Transitional Council criticizes Niger's offer of asylum to ousted Libyan dictator Muammar Gaddafi's son, Saadi Gaddafi, for whom Interpol has issued an arrest warrant, saying Niger's position is "hostile" and a "challenge" to Libya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/11/14/world/meast/libya-niger-gadhafi-son/index.html?hpt=iaf_c2)
 

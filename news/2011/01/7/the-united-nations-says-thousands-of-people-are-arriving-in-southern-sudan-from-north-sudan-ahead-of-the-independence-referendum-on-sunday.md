@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/7/the-united-nations-says-thousands-of-people-are-arriving-in-southern-sudan-from-north-sudan-ahead-of-the-independence-referendum-on-sunday.html)  [JSON](/news/2011/01/7/the-united-nations-says-thousands-of-people-are-arriving-in-southern-sudan-from-north-sudan-ahead-of-the-independence-referendum-on-sunday.json)  [XML](/news/2011/01/7/the-united-nations-says-thousands-of-people-are-arriving-in-southern-sudan-from-north-sudan-ahead-of-the-independence-referendum-on-sunday.xml)  
+
 ### [2011-01-7](/news/2011/01/7/index.md)
 
+##### United Nations
 # The United Nations says thousands of people are arriving in Southern Sudan from north Sudan ahead of the independence referendum on Sunday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/20111744437687148.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/7/2011174553770580_20.jpg)

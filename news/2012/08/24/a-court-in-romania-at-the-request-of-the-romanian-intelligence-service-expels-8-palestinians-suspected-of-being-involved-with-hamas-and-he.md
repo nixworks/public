@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/24/a-court-in-romania-at-the-request-of-the-romanian-intelligence-service-expels-8-palestinians-suspected-of-being-involved-with-hamas-and-he.html)  [JSON](/news/2012/08/24/a-court-in-romania-at-the-request-of-the-romanian-intelligence-service-expels-8-palestinians-suspected-of-being-involved-with-hamas-and-he.json)  [XML](/news/2012/08/24/a-court-in-romania-at-the-request-of-the-romanian-intelligence-service-expels-8-palestinians-suspected-of-being-involved-with-hamas-and-he.xml)  
+
 ### [2012-08-24](/news/2012/08/24/index.md)
 
+##### Romania
 # A court in Romania, at the request of the Romanian Intelligence Service, expels 8 Palestinians suspected of being involved with Hamas and Hezbollah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Antena 3](http://www.antena3.ro/romania/opt-persoane-acuzate-de-terorism-prinse-in-romania-sri-cere-declararea-lor-ca-indezirabile-181362.html)
 1. [Cover Image](https://www.antena3.ro/thumbs/big3/2012/08/24/opt-persoane-acuzate-de-terorism-prinse-in-romania-sri-cere-declararea-lor-ca-indezirabile-164558.jpg)

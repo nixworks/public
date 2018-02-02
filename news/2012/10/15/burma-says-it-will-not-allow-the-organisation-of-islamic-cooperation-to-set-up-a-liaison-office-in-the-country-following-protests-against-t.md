@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/15/burma-says-it-will-not-allow-the-organisation-of-islamic-cooperation-to-set-up-a-liaison-office-in-the-country-following-protests-against-t.html)  [JSON](/news/2012/10/15/burma-says-it-will-not-allow-the-organisation-of-islamic-cooperation-to-set-up-a-liaison-office-in-the-country-following-protests-against-t.json)  [XML](/news/2012/10/15/burma-says-it-will-not-allow-the-organisation-of-islamic-cooperation-to-set-up-a-liaison-office-in-the-country-following-protests-against-t.xml)  
+
 ### [2012-10-15](/news/2012/10/15/index.md)
 
+##### Burma
 # Burma says it will not allow the Organisation of Islamic Cooperation to set up a liaison office in the country, following protests against the plan. 
 
 OIC refused permission to set up liaison office to aid displaced Rohingya Muslims after protests by Buddhist monks.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/10/2012101514841813605.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/10/15//2012101514724687734_20.jpg)

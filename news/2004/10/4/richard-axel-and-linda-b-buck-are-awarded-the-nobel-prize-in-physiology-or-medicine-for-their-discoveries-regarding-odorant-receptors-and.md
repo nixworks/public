@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/4/richard-axel-and-linda-b-buck-are-awarded-the-nobel-prize-in-physiology-or-medicine-for-their-discoveries-regarding-odorant-receptors-and.html)  [JSON](/news/2004/10/4/richard-axel-and-linda-b-buck-are-awarded-the-nobel-prize-in-physiology-or-medicine-for-their-discoveries-regarding-odorant-receptors-and.json)  [XML](/news/2004/10/4/richard-axel-and-linda-b-buck-are-awarded-the-nobel-prize-in-physiology-or-medicine-for-their-discoveries-regarding-odorant-receptors-and.xml)  
+
 ### [2004-10-4](/news/2004/10/4/index.md)
 
+##### Richard Axel
 #  Richard Axel and Linda B. Buck are awarded the Nobel Prize in Physiology or Medicine for their discoveries regarding odorant receptors and the organization of the olfactory system. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nobel Prize](http://nobelprize.org/medicine/laureates/2004/)
 

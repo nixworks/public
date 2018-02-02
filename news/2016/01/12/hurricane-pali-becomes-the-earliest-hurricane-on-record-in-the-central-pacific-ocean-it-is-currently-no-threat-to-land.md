@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/12/hurricane-pali-becomes-the-earliest-hurricane-o
 
 ### [2016-01-12](/news/2016/01/12/index.md)
 
+##### 2016 Pacific hurricane season
 # Hurricane Pali becomes the earliest hurricane on record in the central Pacific Ocean. It is currently no threat to land. 
 
 Still months away from the official start of the 2016 hurricane season, a hurricane formed in the central Pacific.

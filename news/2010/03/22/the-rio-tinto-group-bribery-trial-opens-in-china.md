@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/22/the-rio-tinto-group-bribery-trial-opens-in-china.html)  [JSON](/news/2010/03/22/the-rio-tinto-group-bribery-trial-opens-in-china.json)  [XML](/news/2010/03/22/the-rio-tinto-group-bribery-trial-opens-in-china.xml)  
+
 ### [2010-03-22](/news/2010/03/22/index.md)
 
+##### Rio Tinto
 # The Rio Tinto Group bribery trial opens in China. 
 
 Australia says trial on charges of bribery and theft of secrets will be closely watched.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/business/2010/03/2010322325645832.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8579276.stm)

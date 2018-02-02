@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/24/the-roman-catholic-church-in-cuba-announces-that-the-government-will-release-two-more-political-prisoners-to-exile-in-spain.html)  [JSON](/news/2010/12/24/the-roman-catholic-church-in-cuba-announces-that-the-government-will-release-two-more-political-prisoners-to-exile-in-spain.json)  [XML](/news/2010/12/24/the-roman-catholic-church-in-cuba-announces-that-the-government-will-release-two-more-political-prisoners-to-exile-in-spain.xml)  
+
 ### [2010-12-24](/news/2010/12/24/index.md)
 
+##### Roman Catholic Church
 # The Roman Catholic Church in Cuba announces that the government will release two more political prisoners to exile in Spain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/americas/12/24/cuba.dissidents/)
 2. [Taiwan News](http://www.taiwannews.com.tw/etn/news_content.php?id=1468972&lang=eng_news&cate_img=1037.jpg&cate_rss=General)

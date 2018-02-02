@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/4/at-least-four-people-are-killed-and-14-injured-in-a-suicide-bombing-at-a-naval-college-in-the-pakistani-city-of-lahore.html)  [JSON](/news/2008/03/4/at-least-four-people-are-killed-and-14-injured-in-a-suicide-bombing-at-a-naval-college-in-the-pakistani-city-of-lahore.json)  [XML](/news/2008/03/4/at-least-four-people-are-killed-and-14-injured-in-a-suicide-bombing-at-a-naval-college-in-the-pakistani-city-of-lahore.xml)  
+
 ### [2008-03-4](/news/2008/03/4/index.md)
 
+##### Pakistan
 #  At least four people are killed and 14 injured in a suicide bombing at a naval college in the Pakistani city of Lahore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/south_asia/7276518.stm)
 

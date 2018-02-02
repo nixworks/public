@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/04/15/hamas-finds-the-dead-body-of-kidnapped-italian-activist-vittorio-arrigoni-in-gaza-city.html)  [JSON](/news/2011/04/15/hamas-finds-the-dead-body-of-kidnapped-italian-activist-vittorio-arrigoni-in-gaza-city.json)  [XML](/news/2011/04/15/hamas-finds-the-dead-body-of-kidnapped-italian-activist-vittorio-arrigoni-in-gaza-city.xml)  
+
 ### [2011-04-15](/news/2011/04/15/index.md)
 
+##### Hamas
 # Hamas finds the dead body of kidnapped Italian activist Vittorio Arrigoni in Gaza City. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20110415/ap_on_re_mi_ea/ml_palestinians_kidnap)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20110415/ap_on_re_mi_ea/ml_palestinians_kidnap)
 
 ### Related:
 

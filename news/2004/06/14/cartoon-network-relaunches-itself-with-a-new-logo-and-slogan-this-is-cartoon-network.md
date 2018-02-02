@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/06/14/cartoon-network-relaunches-itself-with-a-new-logo-and-slogan-this-is-cartoon-network.html)  [JSON](/news/2004/06/14/cartoon-network-relaunches-itself-with-a-new-logo-and-slogan-this-is-cartoon-network.json)  [XML](/news/2004/06/14/cartoon-network-relaunches-itself-with-a-new-logo-and-slogan-this-is-cartoon-network.xml)  
+
 ### [2004-06-14](/news/2004/06/14/index.md)
 
+##### Cartoon Network
 #  Cartoon Network relaunches itself with a new logo and slogan "This is Cartoon Network."
 
 

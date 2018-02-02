@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/10/a-hundred-people-are-injured-as-the-kalka-mail-is-derailed-near-the-town-of-fathepur-malwa-in-the-indian-state-of-uttar-pradesh.html)  [JSON](/news/2011/07/10/a-hundred-people-are-injured-as-the-kalka-mail-is-derailed-near-the-town-of-fathepur-malwa-in-the-indian-state-of-uttar-pradesh.json)  [XML](/news/2011/07/10/a-hundred-people-are-injured-as-the-kalka-mail-is-derailed-near-the-town-of-fathepur-malwa-in-the-indian-state-of-uttar-pradesh.xml)  
+
 ### [2011-07-10](/news/2011/07/10/index.md)
 
+##### Kalka Mail
 # A hundred people are injured as the Kalka Mail is derailed near the town of Fathepur Malwa in the Indian state of Uttar Pradesh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IBN Live](http://ibnlive.in.com/news/kalka-express-derails-in-up-25-injured/166410-3.html)
 

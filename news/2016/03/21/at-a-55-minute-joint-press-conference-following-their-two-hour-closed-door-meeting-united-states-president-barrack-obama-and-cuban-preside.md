@@ -3,15 +3,17 @@ Formats: [HTML](/news/2016/03/21/at-a-55-minute-joint-press-conference-following
 
 ### [2016-03-21](/news/2016/03/21/index.md)
 
+##### United States-Cuban Thaw
 # At a 55-minute joint press conference, following their two-hour closed door meeting, United States President Barrack Obama and Cuban President Raul Castro agreed this "new day" of openness between the two countries benefits the entire hemisphere as well. Each acknowledged more needs to be done. Obama said he spoke frankly about human rights, free expression, and democracy; Castro said the U.S. needs to remove the military base at Guantanamo Bay, and completely end the U.S. embargo. Obama's experience gave him an advantage when journalists delved into sensitive areas. 
 
-The Cuban leader, after a meeting with the U.S. president, called for an end to the U.S. embargo.
+During an extraordinary news conference, the leaders’ exchanges underscored how far the two nations have to travel to fully restore relations.
 
 
 ### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2016/03/22/world/americas/obama-and-raul-castro-to-meet-in-pivotal-moment-for-us-cuba-thaw.html?em_pos=large&emc=edit_nn_20160322&nl=morning-briefing&nlid=11553763&_r=0)
+1. [The New York Times](https://www.nytimes.com/2016/03/22/world/americas/obama-and-raul-castro-to-meet-in-pivotal-moment-for-us-cuba-thaw.html?em_pos=large&emc=edit_nn_20160322&nl=morning-briefing&nlid=11553763&_r=0)
 2. [The Washington Post](https://www.washingtonpost.com/politics/on-first-full-day-in-cuba-obama-to-meet-with-castro-and-address-the-public/2016/03/20/931e4ff6-eef5-11e5-89c3-a647fcce95e0_story.html?wpmm=1&wpisrc=nl_headlines)
+2. [Cover Image](https://static01.nyt.com/images/2016/03/21/world/21PREXYvideo-hp/21PREXYvideo-hp-facebookJumbo-v5.jpg)
 
 ### Changes:
 
@@ -21,8 +23,8 @@ The Cuban leader, after a meeting with the U.S. president, called for an end to 
 
 ### Related:
 
-1. [U.S. President Barack Obama and the First Family begin their three-day visit to Havana, Cuba, to mark the end of 54 years of tensions in Cuba-United States relations. Obama is the first sitting U.S. president to visit the country since Calvin Coolidge in 1928. ](/news/2016/03/20/u-s-president-barack-obama-and-the-first-family-begin-their-three-day-visit-to-havana-cuba-to-mark-the-end-of-54-years-of-tensions-in-cub.md) _Context: U.S. President, United States-Cuban Thaw_
-2. [The President of the United States Barack Obama and the President of Cuba Raul Castro meet at the sidelines of the Summit of the Americas in Panama. This marks the first meeting of the leaders of the two countries since the Cuban Revolution. ](/news/2015/04/11/the-president-of-the-united-states-barack-obama-and-the-president-of-cuba-raul-castro-meet-at-the-sidelines-of-the-summit-of-the-americas-in.md) _Context: President, U.S. President_
-3. [Raul Castro is elected by the National Assembly of People's Power to a second term as the President of Cuba with Miguel Diaz-Canel announced as the First Vice-President of the Council of State. ](/news/2013/02/24/raaol-castro-is-elected-by-the-national-assembly-of-people-s-power-to-a-second-term-as-the-president-of-cuba-with-miguel-daaz-canel-announc.md) _Context: President, Raul Castro_
-4. [Cuban President Raul Castro proposes term limits for public office. ](/news/2011/04/16/cuban-president-raaol-castro-proposes-term-limits-for-public-office.md) _Context: President, Raul Castro_
-5. [ Former President of Cuba Fidel Castro praises current President of the United States Barack Obama for his speech before the United Nations General Assembly for admitting it had been slow to act on climate change but urges that the American capitalist system is incompatible with a clean planet. ](/news/2009/09/23/former-president-of-cuba-fidel-castro-praises-current-president-of-the-united-states-barack-obama-for-his-speech-before-the-united-nations.md) _Context: President, U.S. President_
+1. [The Cuban Parliament approves moving the country's municipal elections to March, and the presidential election to April, when President Raul Castro is expected to step down. ](/news/2017/12/21/the-cuban-parliament-approves-moving-the-country-s-municipal-elections-to-march-and-the-presidential-election-to-april-when-president-raao.md) _Context: President, Raul Castro_
+2. [U.S. President Barack Obama and the First Family begin their three-day visit to Havana, Cuba, to mark the end of 54 years of tensions in Cuba-United States relations. Obama is the first sitting U.S. president to visit the country since Calvin Coolidge in 1928. ](/news/2016/03/20/u-s-president-barack-obama-and-the-first-family-begin-their-three-day-visit-to-havana-cuba-to-mark-the-end-of-54-years-of-tensions-in-cub.md) _Context: U.S. President, United States-Cuban Thaw_
+3. [The President of the United States Barack Obama and the President of Cuba Raul Castro meet at the sidelines of the Summit of the Americas in Panama. This marks the first meeting of the leaders of the two countries since the Cuban Revolution. ](/news/2015/04/11/the-president-of-the-united-states-barack-obama-and-the-president-of-cuba-raul-castro-meet-at-the-sidelines-of-the-summit-of-the-americas-in.md) _Context: President, U.S. President_
+4. [Raul Castro is elected by the National Assembly of People's Power to a second term as the President of Cuba with Miguel Diaz-Canel announced as the First Vice-President of the Council of State. ](/news/2013/02/24/raaol-castro-is-elected-by-the-national-assembly-of-people-s-power-to-a-second-term-as-the-president-of-cuba-with-miguel-daaz-canel-announc.md) _Context: President, Raul Castro_
+5. [Cuban President Raul Castro proposes term limits for public office. ](/news/2011/04/16/cuban-president-raaol-castro-proposes-term-limits-for-public-office.md) _Context: President, Raul Castro_

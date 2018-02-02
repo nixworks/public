@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/23/brazilian-actor-tiago-klimeck-dies-at-the-age-of-27-after-accidentally-hanging-himself-while-playing-judas-in-an-easter-passion-play-perform.html)  [JSON](/news/2012/04/23/brazilian-actor-tiago-klimeck-dies-at-the-age-of-27-after-accidentally-hanging-himself-while-playing-judas-in-an-easter-passion-play-perform.json)  [XML](/news/2012/04/23/brazilian-actor-tiago-klimeck-dies-at-the-age-of-27-after-accidentally-hanging-himself-while-playing-judas-in-an-easter-passion-play-perform.xml)  
+
 ### [2012-04-23](/news/2012/04/23/index.md)
 
+##### Tiago Klimeck
 # Brazilian actor Tiago Klimeck dies at the age of 27 after accidentally hanging himself while playing Judas in an Easter Passion play performed in Itarare, SGBPo Paulo. 
 
 Brazilian actor Tiago Klimeck dies after accidentally hanging himself while playing Judas in an Easter Passion play.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17817352)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

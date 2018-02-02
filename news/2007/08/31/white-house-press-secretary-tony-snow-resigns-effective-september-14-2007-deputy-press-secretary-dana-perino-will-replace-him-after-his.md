@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/31/white-house-press-secretary-tony-snow-resigns-effective-september-14-2007-deputy-press-secretary-dana-perino-will-replace-him-after-his.html)  [JSON](/news/2007/08/31/white-house-press-secretary-tony-snow-resigns-effective-september-14-2007-deputy-press-secretary-dana-perino-will-replace-him-after-his.json)  [XML](/news/2007/08/31/white-house-press-secretary-tony-snow-resigns-effective-september-14-2007-deputy-press-secretary-dana-perino-will-replace-him-after-his.xml)  
+
 ### [2007-08-31](/news/2007/08/31/index.md)
 
+##### White House Press Secretary
 #  White House Press Secretary Tony Snow resigns, effective September 14, 2007. Deputy Press Secretary Dana Perino will replace him after his resignation is effective. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.breitbart.com/article.php?id=D8RC41RG0&show_article=1)
 

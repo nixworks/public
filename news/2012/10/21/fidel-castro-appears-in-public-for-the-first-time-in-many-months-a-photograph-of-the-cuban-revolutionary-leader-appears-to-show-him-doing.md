@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/21/fidel-castro-appears-in-public-for-the-first-time-in-many-months-a-photograph-of-the-cuban-revolutionary-leader-appears-to-show-him-doing.html)  [JSON](/news/2012/10/21/fidel-castro-appears-in-public-for-the-first-time-in-many-months-a-photograph-of-the-cuban-revolutionary-leader-appears-to-show-him-doing.json)  [XML](/news/2012/10/21/fidel-castro-appears-in-public-for-the-first-time-in-many-months-a-photograph-of-the-cuban-revolutionary-leader-appears-to-show-him-doing.xml)  
+
 ### [2012-10-21](/news/2012/10/21/index.md)
 
+##### Fidel Castro
 # Fidel Castro appears in public for the first time in many months. A photograph of the Cuban revolutionary leader appears to show him "doing very well." 
 
 A Venezuelan politician confirms reports by Cuban hotel staff that Fidel Castro made a public appearance there, amid rumours about his health.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-20024018)
 2. [CNN](http://us.cnn.com/2012/10/21/world/americas/cuba-castro/index.html?hpt=hp_t2)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/04/17/protests-continue-in-skopje-republic-of-macedonia-against-president-gjorge-ivanov-s-decision-to-suspend-an-investigation-into-the-alleged.html)  [JSON](/news/2016/04/17/protests-continue-in-skopje-republic-of-macedonia-against-president-gjorge-ivanov-s-decision-to-suspend-an-investigation-into-the-alleged.json)  [XML](/news/2016/04/17/protests-continue-in-skopje-republic-of-macedonia-against-president-gjorge-ivanov-s-decision-to-suspend-an-investigation-into-the-alleged.xml)  
+
 ### [2016-04-17](/news/2016/04/17/index.md)
 
+##### Skopje
 # Protests continue in Skopje, Republic of Macedonia, against President Gjorge Ivanov's decision to suspend an investigation into the alleged corruption of a number of politicians. 
 
 Protesters in Skopje pelted the Macedonian capital&#8217;s triumphal arch with stones and eggs on the fifth night of protests demanding the resignation of president Gjorge Ivanov and calling for th…
 
 
-### Source:
+### Sources:
 
 1. [The Sofia Globe](http://sofiaglobe.com/2016/04/17/protests-in-macedonia-against-ivanov-continue/)
 1. [Cover Image](http://sofiaglobe.com/wp-content/uploads/2016/04/skopje-protest.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/2/the-saudi-owned-news-channel-al-arabiya-shuts-it
 
 ### [2016-04-2](/news/2016/04/2/index.md)
 
+##### Saudi Arabia
 # The Saudi-owned news channel Al Arabiya shuts its offices in Beirut, Lebanon and dismisses 27 employees in a sudden move reflecting tensions between Saudi Arabia and Lebanon-based Hezbollah, which is backed by Iran. Saudi Arabia interpreted Lebanon's lack of public solidarity as a sign that it had become beholden to Hezbollah. 
 
 

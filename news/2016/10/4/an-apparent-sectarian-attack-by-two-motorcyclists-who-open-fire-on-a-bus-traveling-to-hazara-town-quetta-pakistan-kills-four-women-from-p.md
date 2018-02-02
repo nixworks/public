@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/4/an-apparent-sectarian-attack-by-two-motorcyclist
 
 ### [2016-10-4](/news/2016/10/4/index.md)
 
+##### Sectarianism in Pakistan
 # An apparent sectarian attack by two motorcyclists who open fire on a bus traveling to Hazara Town, Quetta, Pakistan, kills four women from Pakistan's Shia Hazara and injures two other people. 
 
 Bus carrying women of ethnic Hazara Shia community was travelling to Hazara Town when it was attacked by assailants.

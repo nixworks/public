@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/07/27/barry-bonds-hits-career-home-run-number-754.html)  [JSON](/news/2007/07/27/barry-bonds-hits-career-home-run-number-754.json)  [XML](/news/2007/07/27/barry-bonds-hits-career-home-run-number-754.xml)  
+
 ### [2007-07-27](/news/2007/07/27/index.md)
 
+##### Barry Bonds
 #  Barry Bonds hits career home run number 754. 
 
 Barry Bonds hit a solo shot in the first inning against the Florida Marlins to bring him within one home run of tying Hank Aaron’s all-time record. 
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/07/28/sports/baseball/28bonds.html?_r=1&ref=baseball&oref=slogin)
+1. [New York Times](https://www.nytimes.com/2007/07/28/sports/baseball/28bonds.html?_r=1&ref=baseball&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/2007/07/28/sports/28bonds.75.1.jpg)
 
 ### Related:

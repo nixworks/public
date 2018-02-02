@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/27/catholic-figurehead-sea-n-brady-s-intervention-in-ireland-s-abortion-debate-draws-harsh-criticism-from-legislators-and-more-calls-for-the-ch.html)  [JSON](/news/2012/12/27/catholic-figurehead-sea-n-brady-s-intervention-in-ireland-s-abortion-debate-draws-harsh-criticism-from-legislators-and-more-calls-for-the-ch.json)  [XML](/news/2012/12/27/catholic-figurehead-sea-n-brady-s-intervention-in-ireland-s-abortion-debate-draws-harsh-criticism-from-legislators-and-more-calls-for-the-ch.xml)  
+
 ### [2012-12-27](/news/2012/12/27/index.md)
 
+##### Catholic
 # Catholic figurehead Sean Brady's intervention in Ireland's abortion debate draws harsh criticism from legislators and more calls for the Church to transfer the rest of the compensation it promised for those abused by priests, but has not yet paid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Irish Independent](http://www.independent.ie/national-news/tds-hit-out-at-cardinals-call-for-abortion-protests-3337267.html)
 

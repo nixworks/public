@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/05/26/charter-communications-announces-plans-to-merge-with-time-warner-cable-in-a-55-1-billion-deal.html)  [JSON](/news/2015/05/26/charter-communications-announces-plans-to-merge-with-time-warner-cable-in-a-55-1-billion-deal.json)  [XML](/news/2015/05/26/charter-communications-announces-plans-to-merge-with-time-warner-cable-in-a-55-1-billion-deal.xml)  
+
 ### [2015-05-26](/news/2015/05/26/index.md)
 
+##### Charter Communications
 # Charter Communications announces plans to merge with Time Warner Cable in a $55.1 billion deal. 
 
 Charter Communications Inc. is near an agreement to buy Time Warner Cable Inc. for about $55.1 billion in cash and stock, after French billionaire Patrick Drahi expressed interest in the assets, according to people familiar with the matter.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-05-25/charter-said-to-near-deal-for-time-warner-cable-at-195-a-share)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2015-05-25/charter-said-to-near-deal-for-time-warner-cable-at-195-a-share)
 2. [Market Watch](http://www.marketwatch.com/story/charter-communications-to-merge-with-time-warner-cable-and-acquire-bright-house-networks-2015-05-26?reflink=MW_news_stmp)
 2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 

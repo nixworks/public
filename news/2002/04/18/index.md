@@ -1,7 +1,7 @@
-## [2002-04-18](/news/2002/04/18/index.md)
 
-### [ A small aircraft crashes on the Pirelli building in Milan, Italy, killing two women.](/news/2002/04/18/a-small-aircraft-crashes-on-the-pirelli-building-in-milan-italy-killing-two-women.md)
-_Context: Milan, crashes_
+Formats: [HTML](2002/04/18/index.html)  [JSON](2002/04/18/index.json)  [XML](2002/04/18/index.xml)  
+
+## [2002-04-18](/news/2002/04/18/index.md)
 
 ## [Previous Day...](/news/2002/04/17/index.md)
 

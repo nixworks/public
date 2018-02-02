@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/16/the-government-of-northern-ireland-announces-an-inquiry-into-child-abuse-inside-institutions.html)  [JSON](/news/2010/12/16/the-government-of-northern-ireland-announces-an-inquiry-into-child-abuse-inside-institutions.json)  [XML](/news/2010/12/16/the-government-of-northern-ireland-announces-an-inquiry-into-child-abuse-inside-institutions.xml)  
+
 ### [2010-12-16](/news/2010/12/16/index.md)
 
+##### Government of Northern Ireland
 # The Government of Northern Ireland announces an inquiry into child abuse inside institutions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2010/dec/16/inquiry-child-abuse-northern-ireland)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/14/a-foiled-stabbing-attack-resulted-in-israeli-so
 
 ### [2016-01-14](/news/2016/01/14/index.md)
 
+##### Israeli-Palestinian conflict (2015-present)
 # A foiled stabbing attack resulted in Israeli soldiers shooting and killing a Palestinian at Beit Einun. 
 
 No Israelis were injured in the event.

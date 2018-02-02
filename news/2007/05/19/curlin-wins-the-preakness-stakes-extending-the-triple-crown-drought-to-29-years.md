@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/19/curlin-wins-the-preakness-stakes-extending-the-triple-crown-drought-to-29-years.html)  [JSON](/news/2007/05/19/curlin-wins-the-preakness-stakes-extending-the-triple-crown-drought-to-29-years.json)  [XML](/news/2007/05/19/curlin-wins-the-preakness-stakes-extending-the-triple-crown-drought-to-29-years.xml)  
+
 ### [2007-05-19](/news/2007/05/19/index.md)
 
+##### Curlin
 #  Curlin wins the Preakness Stakes, extending the Triple Crown drought to 29 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/18758950/)
 

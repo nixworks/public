@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/14/two-british-army-soldiers-are-killed-and-two-ot
 
 ### [2017-06-14](/news/2017/06/14/index.md)
 
+##### British Army
 # Two British Army soldiers are killed and two others are injured in an incident involving a tank at Castlemartin Training Area in Pembrokeshire, Wales. 
 
 A second soldier has died following an incident at a military firing range in Pembrokeshire. Defence Minister Tobias Ellwood said both victims were from the Royal Tank Regiment. Two people are still being treated for their injuries.

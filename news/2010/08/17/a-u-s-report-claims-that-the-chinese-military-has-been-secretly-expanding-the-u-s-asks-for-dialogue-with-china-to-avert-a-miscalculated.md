@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/17/a-u-s-report-claims-that-the-chinese-military-has-been-secretly-expanding-the-u-s-asks-for-dialogue-with-china-to-avert-a-miscalculated.html)  [JSON](/news/2010/08/17/a-u-s-report-claims-that-the-chinese-military-has-been-secretly-expanding-the-u-s-asks-for-dialogue-with-china-to-avert-a-miscalculated.json)  [XML](/news/2010/08/17/a-u-s-report-claims-that-the-chinese-military-has-been-secretly-expanding-the-u-s-asks-for-dialogue-with-china-to-avert-a-miscalculated.xml)  
+
 ### [2010-08-17](/news/2010/08/17/index.md)
 
+##### China
 # A U.S. report claims that the Chinese military has been secretly expanding; the U.S. asks for dialogue with China to avert a "miscalculated" response. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/201081733121585238.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10995111)

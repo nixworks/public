@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/6/aaron-swartz-is-arrested-by-mit-police-on-state-breaking-and-entering-charges-after-systematically-downloading-academic-journal-articles-fr.html)  [JSON](/news/2011/01/6/aaron-swartz-is-arrested-by-mit-police-on-state-breaking-and-entering-charges-after-systematically-downloading-academic-journal-articles-fr.json)  [XML](/news/2011/01/6/aaron-swartz-is-arrested-by-mit-police-on-state-breaking-and-entering-charges-after-systematically-downloading-academic-journal-articles-fr.xml)  
+
 ### [2011-01-6](/news/2011/01/6/index.md)
 
+##### Aaron Swartz
 # Aaron Swartz is arrested by MIT police on state breaking-and-entering charges, after systematically downloading academic journal articles from JSTOR. 
 
 Arrest report filed by Cambridge Police Dept, Cambridge, Mass. on January 13, 2011 regarding JSTOR-MIT hacker Aaron Swartz.
 
 
-### Source:
+### Sources:
 
 1. [Archive.org](https://archive.org/details/CambridgePoliceDeptArrestReportReAaronSwartz)
 

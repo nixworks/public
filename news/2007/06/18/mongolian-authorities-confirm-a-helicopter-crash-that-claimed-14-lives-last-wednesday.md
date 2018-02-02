@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/18/mongolian-authorities-confirm-a-helicopter-crash-that-claimed-14-lives-last-wednesday.html)  [JSON](/news/2007/06/18/mongolian-authorities-confirm-a-helicopter-crash-that-claimed-14-lives-last-wednesday.json)  [XML](/news/2007/06/18/mongolian-authorities-confirm-a-helicopter-crash-that-claimed-14-lives-last-wednesday.xml)  
+
 ### [2007-06-18](/news/2007/06/18/index.md)
 
+##### Mongolia
 #  Mongolian authorities confirm a helicopter crash that claimed 14 lives last Wednesday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6762575.stm)
 

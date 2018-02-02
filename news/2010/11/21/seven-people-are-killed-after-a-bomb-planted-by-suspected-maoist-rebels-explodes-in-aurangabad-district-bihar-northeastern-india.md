@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/21/seven-people-are-killed-after-a-bomb-planted-by-suspected-maoist-rebels-explodes-in-aurangabad-district-bihar-northeastern-india.html)  [JSON](/news/2010/11/21/seven-people-are-killed-after-a-bomb-planted-by-suspected-maoist-rebels-explodes-in-aurangabad-district-bihar-northeastern-india.json)  [XML](/news/2010/11/21/seven-people-are-killed-after-a-bomb-planted-by-suspected-maoist-rebels-explodes-in-aurangabad-district-bihar-northeastern-india.xml)  
+
 ### [2010-11-21](/news/2010/11/21/index.md)
 
+##### Maoist
 # Seven people are killed after a bomb planted by suspected Maoist rebels explodes in Aurangabad district, Bihar, northeastern India. 
 
 The bomb, which was found by the security personnel on Saturday during the final phase of Bihar polls, suddenly exploded today killing eight persons on the spot.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11805286)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/5-children-among-8-killed-in-Bihar-blast-Nitish-orders-probe-/articleshow/6963255.cms)

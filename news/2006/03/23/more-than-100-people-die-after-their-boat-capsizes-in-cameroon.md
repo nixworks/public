@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/23/more-than-100-people-die-after-their-boat-capsizes-in-cameroon.html)  [JSON](/news/2006/03/23/more-than-100-people-die-after-their-boat-capsizes-in-cameroon.json)  [XML](/news/2006/03/23/more-than-100-people-die-after-their-boat-capsizes-in-cameroon.xml)  
+
 ### [2006-03-23](/news/2006/03/23/index.md)
 
+##### Cameroon
 #  More than 100 people die after their boat capsizes in Cameroon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4838326.stm)
 

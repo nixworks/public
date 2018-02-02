@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/11/at-least-15-people-are-dead-and-20-others-injured-after-a-bus-falls-into-a-gorge-in-the-udhampur-district-in-india-s-jammu-and-kashmir-state.html)  [JSON](/news/2015/05/11/at-least-15-people-are-dead-and-20-others-injured-after-a-bus-falls-into-a-gorge-in-the-udhampur-district-in-india-s-jammu-and-kashmir-state.json)  [XML](/news/2015/05/11/at-least-15-people-are-dead-and-20-others-injured-after-a-bus-falls-into-a-gorge-in-the-udhampur-district-in-india-s-jammu-and-kashmir-state.xml)  
+
 ### [2015-05-11](/news/2015/05/11/index.md)
 
+##### Udhampur district
 # At least 15 people are dead and 20 others injured after a bus falls into a gorge in the Udhampur district in India's Jammu and Kashmir state. 
 
 Fifteen people died and 20 others were injured, six of them critically, when a bus they were travelling in rolled down into a deep gorge in Udhampur district.
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/At-least-15-dead-20-injured-as-bus-falls-into-gorge-in-JKs-Udhampur-district/articleshow/47231591.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/47231702.cms)

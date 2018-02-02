@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/cisco-systems-the-provider-of-computer-networking-products-and-services-headquartered-in-san-jose-california-announced-that-it-will-break.html)  [JSON](/news/2010/09/14/cisco-systems-the-provider-of-computer-networking-products-and-services-headquartered-in-san-jose-california-announced-that-it-will-break.json)  [XML](/news/2010/09/14/cisco-systems-the-provider-of-computer-networking-products-and-services-headquartered-in-san-jose-california-announced-that-it-will-break.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Cisco
 # Cisco Systems, the provider of computer networking products and services headquartered in San Jose, California, announced that it will break with a long-standing policy and issue a stock dividend during the current fiscal year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Cisco Blogs](http://blogs.cisco.com/news/comments/cisco_intends_to_issue_dividend_in_fiscal_year_11)
 1. [Cover Image](https://blogs.cisco.com/wp-content/themes/cisco_brand/images/Cisco_Logo_RGB-2color_92x52.gif)

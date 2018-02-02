@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/1/pierre-nkurunziza-the-incumbent-president-of-burundi-and-sole-candidate-in-the-presidential-election-is-re-elected-with-more-than-91-of-t.html)  [JSON](/news/2010/07/1/pierre-nkurunziza-the-incumbent-president-of-burundi-and-sole-candidate-in-the-presidential-election-is-re-elected-with-more-than-91-of-t.json)  [XML](/news/2010/07/1/pierre-nkurunziza-the-incumbent-president-of-burundi-and-sole-candidate-in-the-presidential-election-is-re-elected-with-more-than-91-of-t.xml)  
+
 ### [2010-07-1](/news/2010/07/1/index.md)
 
+##### Pierre Nkurunziza
 # Pierre Nkurunziza, the incumbent President of Burundi and sole candidate in the presidential election, is re-elected with more than 91% of the votes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hHl55epxpc6OXNZIfZR2cUw95iLw)
 2. [AfricaNews](http://www.africanews.com/site/Burundi_EU_concern_about_president_reelection/list_messages/33137)

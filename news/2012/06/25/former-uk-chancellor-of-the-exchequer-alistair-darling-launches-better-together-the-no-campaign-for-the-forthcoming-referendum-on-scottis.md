@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/25/former-uk-chancellor-of-the-exchequer-alistair-darling-launches-better-together-the-no-campaign-for-the-forthcoming-referendum-on-scottis.html)  [JSON](/news/2012/06/25/former-uk-chancellor-of-the-exchequer-alistair-darling-launches-better-together-the-no-campaign-for-the-forthcoming-referendum-on-scottis.json)  [XML](/news/2012/06/25/former-uk-chancellor-of-the-exchequer-alistair-darling-launches-better-together-the-no-campaign-for-the-forthcoming-referendum-on-scottis.xml)  
+
 ### [2012-06-25](/news/2012/06/25/index.md)
 
+##### Chancellor of the Exchequer
 # Former UK Chancellor of the Exchequer Alistair Darling launches Better Together, the "no" campaign for the forthcoming referendum on Scottish independence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-18581670)
 1. [Cover Image](http://news.bbcimg.co.uk/media/images/73618000/jpg/_73618476_ukok_getty.jpg)

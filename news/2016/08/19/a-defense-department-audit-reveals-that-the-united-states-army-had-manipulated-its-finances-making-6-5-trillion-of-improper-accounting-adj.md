@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/19/a-defense-department-audit-reveals-that-the-uni
 
 ### [2016-08-19](/news/2016/08/19/index.md)
 
+##### U.S. military
 # A Defense Department audit reveals that the United States Army had manipulated its finances, making $6.5 trillion of improper accounting adjustments in order to balance the books in 2015. 
 
 The United States Army’s finances are so jumbled it had to make trillions of dollars of improper accounting adjustments to create an illusion that its books are balanced.

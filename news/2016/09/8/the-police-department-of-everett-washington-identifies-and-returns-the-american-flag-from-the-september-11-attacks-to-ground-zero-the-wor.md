@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/8/the-police-department-of-everett-washington-iden
 
 ### [2016-09-8](/news/2016/09/8/index.md)
 
+##### Everett, Washington
 # The Police Department of Everett, Washington, identifies and returns the American flag from the September 11 attacks to Ground Zero, the World Trade Center site in New York City. 
 
 An American flag that turned up in Washington state two years ago is believed to be the flag that was raised by firefighters above the site of the 9/11 attacks on the World Trade Center in New York.

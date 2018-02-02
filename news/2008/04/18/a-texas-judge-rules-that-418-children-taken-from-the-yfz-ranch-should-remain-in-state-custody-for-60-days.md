@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/18/a-texas-judge-rules-that-418-children-taken-from-the-yfz-ranch-should-remain-in-state-custody-for-60-days.html)  [JSON](/news/2008/04/18/a-texas-judge-rules-that-418-children-taken-from-the-yfz-ranch-should-remain-in-state-custody-for-60-days.json)  [XML](/news/2008/04/18/a-texas-judge-rules-that-418-children-taken-from-the-yfz-ranch-should-remain-in-state-custody-for-60-days.xml)  
+
 ### [2008-04-18](/news/2008/04/18/index.md)
 
+##### Texas
 #  A Texas judge rules that 418 children taken from the YFZ Ranch should remain in state custody for 60 days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ft. Worth Star-Telegram](http://www.star-telegram.com/state_news/story/591655.html)
 

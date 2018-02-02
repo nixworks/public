@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/19/the-14th-dalai-lama-s-submitted-resignation-as-head-of-state-of-the-central-tibetan-administration-is-denied-by-the-tibetan-parliament-in-ex.html)  [JSON](/news/2011/03/19/the-14th-dalai-lama-s-submitted-resignation-as-head-of-state-of-the-central-tibetan-administration-is-denied-by-the-tibetan-parliament-in-ex.json)  [XML](/news/2011/03/19/the-14th-dalai-lama-s-submitted-resignation-as-head-of-state-of-the-central-tibetan-administration-is-denied-by-the-tibetan-parliament-in-ex.xml)  
+
 ### [2011-03-19](/news/2011/03/19/index.md)
 
+##### 14th Dalai Lama
 # The 14th Dalai Lama's submitted resignation as Head of State of the Central Tibetan Administration is denied by the Tibetan Parliament-in-exile. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/Dalai-Lama-resignation-rejected/Article1-675039.aspx)
 

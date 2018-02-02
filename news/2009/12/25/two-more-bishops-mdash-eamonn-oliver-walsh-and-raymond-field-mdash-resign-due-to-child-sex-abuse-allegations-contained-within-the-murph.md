@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/25/two-more-bishops-mdash-eamonn-oliver-walsh-and-raymond-field-mdash-resign-due-to-child-sex-abuse-allegations-contained-within-the-murph.html)  [JSON](/news/2009/12/25/two-more-bishops-mdash-eamonn-oliver-walsh-and-raymond-field-mdash-resign-due-to-child-sex-abuse-allegations-contained-within-the-murph.json)  [XML](/news/2009/12/25/two-more-bishops-mdash-eamonn-oliver-walsh-and-raymond-field-mdash-resign-due-to-child-sex-abuse-allegations-contained-within-the-murph.xml)  
+
 ### [2009-12-25](/news/2009/12/25/index.md)
 
+##### Eamonn Oliver Walsh
 #  Two more bishops &mdash; Eamonn Oliver Walsh and Raymond Field &mdash; resign due to child sex abuse allegations contained within the Murphy Report. They were Dublin's only remaining two serving auxiliary bishops. 
 
 The Archbishop of Dublin has said he respects the decisions by Bishops Eamonn Walsh and Raymond Field to offer to resign.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8430466.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/1225/abuse.html)

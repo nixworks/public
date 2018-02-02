@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/29/maatia-toafa-is-elected-prime-minister-of-tuvalu-following-the-2010-general-election-he-succeeds-former-prime-minister-apisai-ielemia.html)  [JSON](/news/2010/09/29/maatia-toafa-is-elected-prime-minister-of-tuvalu-following-the-2010-general-election-he-succeeds-former-prime-minister-apisai-ielemia.json)  [XML](/news/2010/09/29/maatia-toafa-is-elected-prime-minister-of-tuvalu-following-the-2010-general-election-he-succeeds-former-prime-minister-apisai-ielemia.xml)  
+
 ### [2010-09-29](/news/2010/09/29/index.md)
 
+##### Maatia Toafa
 # Maatia Toafa is elected Prime Minister of Tuvalu following the 2010 general election. He succeeds former Prime Minister Apisai Ielemia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Australia Network](http://australianetworknews.com/stories/201009/3024797.htm?desktop)
 

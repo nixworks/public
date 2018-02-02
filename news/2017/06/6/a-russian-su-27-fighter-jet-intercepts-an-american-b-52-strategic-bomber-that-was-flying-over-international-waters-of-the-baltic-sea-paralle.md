@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/6/a-russian-su-27-fighter-jet-intercepts-an-americ
 
 ### [2017-06-6](/news/2017/06/6/index.md)
 
+##### Russia-United States relations
 # A Russian SU-27 fighter jet intercepts an American B-52 strategic bomber that was flying over international waters of the Baltic Sea parallel to the Russian border, and escorts the B-52 until it flew away from the border area. The United States military confirmed that the US Air Force B-52 was operating in international airspace, but had no further comment about the incident. 
 
 Russia scrambled a fighter jet on Tuesday to intercept a nuclear-capable U.S. B-52 strategic bomber it said was flying over the Baltic Sea near its border, in an incident that had echoes of the Cold War.

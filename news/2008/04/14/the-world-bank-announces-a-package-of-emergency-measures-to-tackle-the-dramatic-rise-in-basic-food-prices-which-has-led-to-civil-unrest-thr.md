@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/14/the-world-bank-announces-a-package-of-emergency-measures-to-tackle-the-dramatic-rise-in-basic-food-prices-which-has-led-to-civil-unrest-thr.html)  [JSON](/news/2008/04/14/the-world-bank-announces-a-package-of-emergency-measures-to-tackle-the-dramatic-rise-in-basic-food-prices-which-has-led-to-civil-unrest-thr.json)  [XML](/news/2008/04/14/the-world-bank-announces-a-package-of-emergency-measures-to-tackle-the-dramatic-rise-in-basic-food-prices-which-has-led-to-civil-unrest-thr.xml)  
+
 ### [2008-04-14](/news/2008/04/14/index.md)
 
+##### World Bank
 #  The World Bank announces a package of emergency measures to tackle the dramatic rise in basic food prices which has led to civil unrest throughout much of the developing world. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/business/7344892.stm)
 

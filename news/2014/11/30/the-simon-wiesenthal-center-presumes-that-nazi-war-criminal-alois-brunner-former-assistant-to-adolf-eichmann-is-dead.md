@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/30/the-simon-wiesenthal-center-presumes-that-nazi-war-criminal-alois-brunner-former-assistant-to-adolf-eichmann-is-dead.html)  [JSON](/news/2014/11/30/the-simon-wiesenthal-center-presumes-that-nazi-war-criminal-alois-brunner-former-assistant-to-adolf-eichmann-is-dead.json)  [XML](/news/2014/11/30/the-simon-wiesenthal-center-presumes-that-nazi-war-criminal-alois-brunner-former-assistant-to-adolf-eichmann-is-dead.xml)  
+
 ### [2014-11-30](/news/2014/11/30/index.md)
 
+##### Simon Wiesenthal Center
 # The Simon Wiesenthal Center presumes that Nazi war criminal Alois Brunner, former assistant to Adolf Eichmann, is dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Express](http://www.express.co.uk/news/world/541687/Nazi-who-worked-in-concentration-camps-found-new-job-as-torturer-for-Syria-s-regime)
 1. [Cover Image](http://cdn.images.express.co.uk/img/dynamic/78/590x/brunner-541687.jpg)

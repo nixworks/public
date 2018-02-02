@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/9/re-examination-of-old-images-taken-by-the-mars-global-surveyor-several-years-ago-may-have-led-to-the-identification-of-the-crash-site-of-th.html)  [JSON](/news/2005/05/9/re-examination-of-old-images-taken-by-the-mars-global-surveyor-several-years-ago-may-have-led-to-the-identification-of-the-crash-site-of-th.json)  [XML](/news/2005/05/9/re-examination-of-old-images-taken-by-the-mars-global-surveyor-several-years-ago-may-have-led-to-the-identification-of-the-crash-site-of-th.xml)  
+
 ### [2005-05-9](/news/2005/05/9/index.md)
 
+##### Mars Global Surveyor
 #  Re-examination of old images taken by the Mars Global Surveyor several years ago may have led to the identification of the crash site of the Mars Polar Lander, which failed in December 1999. Using insights and techniques developed for analyzing images of the Mars Exploration Rovers, Malin Space Science Systems may have spotted the rocket blast zone, Mars Polar Lander and the parachute. 
 
 The search is back on for a spacecraft that disappeared during a landing attempt nearly six years ago. And there are hints that the probe might have been found.
 
 
-### Source:
+### Sources:
 
 1. [Space.com](http://www.space.com/missionlaunches/050502_mpl_search.html)
 2. [Spaceflight Now](http://www.spaceflightnow.com/news/n0505/05mpl/)

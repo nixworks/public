@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/6/american-news-satire-program-the-daily-show-airs-its-last-broadcast-with-comedian-jon-stewart-as-host.html)  [JSON](/news/2015/08/6/american-news-satire-program-the-daily-show-airs-its-last-broadcast-with-comedian-jon-stewart-as-host.json)  [XML](/news/2015/08/6/american-news-satire-program-the-daily-show-airs-its-last-broadcast-with-comedian-jon-stewart-as-host.xml)  
+
 ### [2015-08-6](/news/2015/08/6/index.md)
 
+##### The Daily Show
 # American news satire program "The Daily Show" airs its last broadcast with comedian Jon Stewart as host. 
 
 He has been heroic, persistent, and twice as illuminating as the purportedly real news that fuelled “The Daily Show.”
 
 
-### Source:
+### Sources:
 
 1. [The New Yorker](http://www.newyorker.com/magazine/2015/08/10/exit-stage-left)
 1. [Cover Image](http://www.newyorker.com/wp-content/uploads/2015/07/FB-Remnick-Comment.jpg)

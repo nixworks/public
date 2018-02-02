@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/18/at-least-33-people-die-as-a-result-of-a-suicide-bomb-attack-in-kohat-in-the-north-west-frontier-province-of-pakistan.html)  [JSON](/news/2009/09/18/at-least-33-people-die-as-a-result-of-a-suicide-bomb-attack-in-kohat-in-the-north-west-frontier-province-of-pakistan.json)  [XML](/news/2009/09/18/at-least-33-people-die-as-a-result-of-a-suicide-bomb-attack-in-kohat-in-the-north-west-frontier-province-of-pakistan.xml)  
+
 ### [2009-09-18](/news/2009/09/18/index.md)
 
+##### suicide bomb
 #  At least 33 people die as a result of a suicide bomb attack in Kohat in the North West Frontier Province of Pakistan. 
 
 At least 33 people have been killed in a suspected suicide bomb attack in northwest Pakistan.
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hkiMxbHNH0BqgpWA2ZG6VD6wVTmAD9APJ60G2)
 2. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8262199.stm)

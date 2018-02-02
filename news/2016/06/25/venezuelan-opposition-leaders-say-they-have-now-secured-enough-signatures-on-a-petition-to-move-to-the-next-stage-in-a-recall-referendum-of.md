@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/25/venezuelan-opposition-leaders-say-they-have-now
 
 ### [2016-06-25](/news/2016/06/25/index.md)
 
+##### 2014-16 Venezuelan protests
 # Venezuelan opposition leaders say they have now secured enough signatures on a petition to move to the next stage in a recall referendum of President Nicolas Maduro. The process must now be validated by electoral officials. 
 
 Venezuelan opposition leaders say they have validated enough signatures on a petition to move to the next stage in a process to remove President Maduro.

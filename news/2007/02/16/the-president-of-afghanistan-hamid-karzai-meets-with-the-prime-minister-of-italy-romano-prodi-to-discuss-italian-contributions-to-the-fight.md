@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/16/the-president-of-afghanistan-hamid-karzai-meets-with-the-prime-minister-of-italy-romano-prodi-to-discuss-italian-contributions-to-the-fight.html)  [JSON](/news/2007/02/16/the-president-of-afghanistan-hamid-karzai-meets-with-the-prime-minister-of-italy-romano-prodi-to-discuss-italian-contributions-to-the-fight.json)  [XML](/news/2007/02/16/the-president-of-afghanistan-hamid-karzai-meets-with-the-prime-minister-of-italy-romano-prodi-to-discuss-italian-contributions-to-the-fight.xml)  
+
 ### [2007-02-16](/news/2007/02/16/index.md)
 
+##### Afghanistan President
 #  The President of Afghanistan Hamid Karzai meets with the Prime Minister of Italy Romano Prodi to discuss Italian contributions to the fight against the Taliban and drug traffickers in Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6367319.stm)
 

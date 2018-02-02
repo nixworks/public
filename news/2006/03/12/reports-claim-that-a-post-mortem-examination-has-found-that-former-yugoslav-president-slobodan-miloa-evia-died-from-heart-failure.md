@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/12/reports-claim-that-a-post-mortem-examination-has-found-that-former-yugoslav-president-slobodan-miloa-evia-died-from-heart-failure.html)  [JSON](/news/2006/03/12/reports-claim-that-a-post-mortem-examination-has-found-that-former-yugoslav-president-slobodan-miloa-evia-died-from-heart-failure.json)  [XML](/news/2006/03/12/reports-claim-that-a-post-mortem-examination-has-found-that-former-yugoslav-president-slobodan-miloa-evia-died-from-heart-failure.xml)  
+
 ### [2006-03-12](/news/2006/03/12/index.md)
 
+##### Slobodan Milosevic
 #  Reports claim that a post-mortem examination has found that former Yugoslav President Slobodan Milosevic died from heart failure. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel 4 News](http://www.channel4.com/news/content/news-storypage.jsp?id=1682977)
 

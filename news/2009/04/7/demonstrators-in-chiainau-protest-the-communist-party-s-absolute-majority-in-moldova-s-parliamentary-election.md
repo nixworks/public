@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/7/demonstrators-in-chiainau-protest-the-communist-party-s-absolute-majority-in-moldova-s-parliamentary-election.html)  [JSON](/news/2009/04/7/demonstrators-in-chiainau-protest-the-communist-party-s-absolute-majority-in-moldova-s-parliamentary-election.json)  [XML](/news/2009/04/7/demonstrators-in-chiainau-protest-the-communist-party-s-absolute-majority-in-moldova-s-parliamentary-election.xml)  
+
 ### [2009-04-7](/news/2009/04/7/index.md)
 
+##### demonstration
 #  Demonstrators in Chisinau protest the Communist Party's absolute majority in Moldova's parliamentary election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7987608.stm)
 

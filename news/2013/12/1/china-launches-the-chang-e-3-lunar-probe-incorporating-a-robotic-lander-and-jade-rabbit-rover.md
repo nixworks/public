@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/1/china-launches-the-chang-e-3-lunar-probe-incorporating-a-robotic-lander-and-jade-rabbit-rover.html)  [JSON](/news/2013/12/1/china-launches-the-chang-e-3-lunar-probe-incorporating-a-robotic-lander-and-jade-rabbit-rover.json)  [XML](/news/2013/12/1/china-launches-the-chang-e-3-lunar-probe-incorporating-a-robotic-lander-and-jade-rabbit-rover.xml)  
+
 ### [2013-12-1](/news/2013/12/1/index.md)
 
+##### China
 # China launches the Chang'e 3 lunar probe incorporating a robotic lander and Jade Rabbit rover. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''India Today](http://indiatoday.intoday.in/story/china-moon-mission-change-3-lunar-probe-jade-rabbit-buggy-long-march-3b-rocket/1/327363.html)
 1. [Cover Image](http://media2.intoday.in/indiatoday/images/stories/long-march-3b-rocket-660_120213011221.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/22/the-birthplace-of-late-president-hugo-cha-vez-i
 
 ### [2017-05-22](/news/2017/05/22/index.md)
 
+##### ongoing protests
 # The birthplace of late President Hugo Chavez is burned by protesters as violence and looting spreads through Barinas, Venezuela following the death of a protester. 
 
 Protesters set fire to late President Hugo Chavez&apos;s childhood home in western Venezuela on Monday, an opposition lawmaker said.

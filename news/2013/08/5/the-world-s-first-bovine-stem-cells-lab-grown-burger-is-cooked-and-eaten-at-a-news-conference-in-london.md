@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/5/the-world-s-first-bovine-stem-cells-lab-grown-burger-is-cooked-and-eaten-at-a-news-conference-in-london.html)  [JSON](/news/2013/08/5/the-world-s-first-bovine-stem-cells-lab-grown-burger-is-cooked-and-eaten-at-a-news-conference-in-london.json)  [XML](/news/2013/08/5/the-world-s-first-bovine-stem-cells-lab-grown-burger-is-cooked-and-eaten-at-a-news-conference-in-london.xml)  
+
 ### [2013-08-5](/news/2013/08/5/index.md)
 
+##### stem cells
 # The world's first bovine stem cells lab-grown burger is cooked and eaten at a news conference in London. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-23576143)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69122000/jpg/_69122013_69122012.jpg)

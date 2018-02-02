@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/03/11/in-the-uk-the-controversial-prevention-of-terrorism-act-2005-was-finally-given-royal-assent-after-one-of-the-longest-ever-sittings-by-the.html)  [JSON](/news/2005/03/11/in-the-uk-the-controversial-prevention-of-terrorism-act-2005-was-finally-given-royal-assent-after-one-of-the-longest-ever-sittings-by-the.json)  [XML](/news/2005/03/11/in-the-uk-the-controversial-prevention-of-terrorism-act-2005-was-finally-given-royal-assent-after-one-of-the-longest-ever-sittings-by-the.xml)  
+
 ### [2005-03-11](/news/2005/03/11/index.md)
 
+##### Prevention of Terrorism Act 2005
 #  In the UK, the controversial Prevention of Terrorism Act 2005 was finally given Royal Assent after one of the longest ever sittings by the House of Lords.
 
 

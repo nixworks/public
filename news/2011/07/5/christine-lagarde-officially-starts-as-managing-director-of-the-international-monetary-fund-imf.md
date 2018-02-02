@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/5/christine-lagarde-officially-starts-as-managing-director-of-the-international-monetary-fund-imf.html)  [JSON](/news/2011/07/5/christine-lagarde-officially-starts-as-managing-director-of-the-international-monetary-fund-imf.json)  [XML](/news/2011/07/5/christine-lagarde-officially-starts-as-managing-director-of-the-international-monetary-fund-imf.xml)  
+
 ### [2011-07-5](/news/2011/07/5/index.md)
 
+##### Christine Lagarde
 # Christine Lagarde officially starts as managing director of the International Monetary Fund (IMF). 
 
 Former French finance minister Christine Lagarde is beginning her official duties as the managing director of the IMF.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-14024735)
 2. [RTÉ](http://www.rte.ie/news/2011/0705/imf.html)

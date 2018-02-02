@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/1/president-bush-safely-lands-in-an-s-3b-viking-jet-on-the-deck-of-the-uss-abraham-lincoln-returning-from-operations-in-iraq-while-100-mile.html)  [JSON](/news/2003/05/1/president-bush-safely-lands-in-an-s-3b-viking-jet-on-the-deck-of-the-uss-abraham-lincoln-returning-from-operations-in-iraq-while-100-mile.json)  [XML](/news/2003/05/1/president-bush-safely-lands-in-an-s-3b-viking-jet-on-the-deck-of-the-uss-abraham-lincoln-returning-from-operations-in-iraq-while-100-mile.xml)  
+
 ### [2003-05-1](/news/2003/05/1/index.md)
 
+##### U.S. President
 #  President Bush safely lands in an S-3B Viking jet on the deck of the USS "Abraham Lincoln" returning from operations in Iraq while 100 miles off the coast of San Diego, California. It is the first time a sitting president has arrived on the deck of an aircraft carrier by plane. Bush makes a primetime address, surrounded by hundreds of sailors, in which he declares major combat operations in Iraq over while standing in front of a banner reading "Mission Accomplished".
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/13/belden-namah-the-deputy-prime-minister-of-papua-new-guinea-and-allan-marat-the-attorney-general-agree-to-hand-themselves-into-police-fol.html)  [JSON](/news/2011/11/13/belden-namah-the-deputy-prime-minister-of-papua-new-guinea-and-allan-marat-the-attorney-general-agree-to-hand-themselves-into-police-fol.json)  [XML](/news/2011/11/13/belden-namah-the-deputy-prime-minister-of-papua-new-guinea-and-allan-marat-the-attorney-general-agree-to-hand-themselves-into-police-fol.xml)  
+
 ### [2011-11-13](/news/2011/11/13/index.md)
 
+##### Belden Namah
 # Belden Namah, the Deputy Prime Minister of Papua New Guinea, and Allan Marat, the Attorney General, agree to hand themselves into Police following a ruling by the Supreme Court. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/breaking-news/png-deputy-pm-agrees-to-turn-himself-in/story-e6frfku0-1226193802122)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

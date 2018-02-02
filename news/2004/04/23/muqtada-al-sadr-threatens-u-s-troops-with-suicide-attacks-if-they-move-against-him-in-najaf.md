@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/23/muqtada-al-sadr-threatens-u-s-troops-with-suicide-attacks-if-they-move-against-him-in-najaf.html)  [JSON](/news/2004/04/23/muqtada-al-sadr-threatens-u-s-troops-with-suicide-attacks-if-they-move-against-him-in-najaf.json)  [XML](/news/2004/04/23/muqtada-al-sadr-threatens-u-s-troops-with-suicide-attacks-if-they-move-against-him-in-najaf.xml)  
+
 ### [2004-04-23](/news/2004/04/23/index.md)
 
+##### Muqtada al-Sadr
 #  Muqtada al-Sadr threatens U.S. troops with suicide attacks if they move against him in Najaf. 
 
 Get the latest breaking news and headlines from the largest Arab News website. Get world news, sport news, business news, entertainment, lifestyle, video and photos.
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://www.arabnews.com/?page=4&section=0&article=43728&d=24&m=4&y=2004)
 2. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=498628&section=news)

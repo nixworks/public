@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/4/clashes-continue-in-debre-berhan-while-government-forces-succeed-in-pacifying-bahir-dar-and-awasa-the-ethiopian-capital-addis-ababa-remai.html)  [JSON](/news/2005/11/4/clashes-continue-in-debre-berhan-while-government-forces-succeed-in-pacifying-bahir-dar-and-awasa-the-ethiopian-capital-addis-ababa-remai.json)  [XML](/news/2005/11/4/clashes-continue-in-debre-berhan-while-government-forces-succeed-in-pacifying-bahir-dar-and-awasa-the-ethiopian-capital-addis-ababa-remai.xml)  
+
 ### [2005-11-4](/news/2005/11/4/index.md)
 
+##### Debre Berhan
 #  Clashes continue in Debre Berhan, while government forces succeed in pacifying Bahir Dar and Awasa. The Ethiopian capital Addis Ababa remained calm, with few shops open and no taxis operating. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4410216.stm)
 

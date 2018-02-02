@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/navi-pillay-states-that-kyrgyzstan-is-detaining-hundreds-of-people-and-using-torture-on-some-of-them-during-the-ongoing-crisis.html)  [JSON](/news/2010/07/20/navi-pillay-states-that-kyrgyzstan-is-detaining-hundreds-of-people-and-using-torture-on-some-of-them-during-the-ongoing-crisis.json)  [XML](/news/2010/07/20/navi-pillay-states-that-kyrgyzstan-is-detaining-hundreds-of-people-and-using-torture-on-some-of-them-during-the-ongoing-crisis.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Navi Pillay
 # Navi Pillay states that Kyrgyzstan is detaining hundreds of people and using torture on some of them during the ongoing crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/world/article87463.ece)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10699893)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/23/former-irish-green-party-leader-trevor-sargent-resigns-as-minister-of-state-for-food-and-horticulture-after-admitting-an-error-of-judgment.html)  [JSON](/news/2010/02/23/former-irish-green-party-leader-trevor-sargent-resigns-as-minister-of-state-for-food-and-horticulture-after-admitting-an-error-of-judgment.json)  [XML](/news/2010/02/23/former-irish-green-party-leader-trevor-sargent-resigns-as-minister-of-state-for-food-and-horticulture-after-admitting-an-error-of-judgment.xml)  
+
 ### [2010-02-23](/news/2010/02/23/index.md)
 
+##### Green Party
 # Former Irish Green Party leader Trevor Sargent resigns as Minister of State for Food and Horticulture after admitting "an error of judgment" involving his contacts with the Garda Siochana. 
 
 Former Green Party leader Trevor Sargent has resigned as Minister of State after accepting that he made &#39;an error of judgement&#39; in contacting gardaí about a case involving a constituent.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0223/sargentt.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/0223/breaking39.html)

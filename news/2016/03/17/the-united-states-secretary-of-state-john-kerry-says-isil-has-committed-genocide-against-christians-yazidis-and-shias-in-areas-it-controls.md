@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/17/the-united-states-secretary-of-state-john-kerry
 
 ### [2016-03-17](/news/2016/03/17/index.md)
 
+##### Iraqi Civil War
 # The United States Secretary of State John Kerry says ISIL has committed genocide against Christians, Yazidis and Shias in areas it controls in Syria and Iraq. 
 
 US Secretary of State John Kerry says the Islamic State group has committed genocide against Yazidis, Christians and Shia Muslims.

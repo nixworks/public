@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/30/sahaj-international-opens-in-kochi-in-the-south
 
 ### [2016-12-30](/news/2016/12/30/index.md)
 
+##### Kochi
 # Sahaj International opens in Kochi in the South Indian state of Kerala. The country's first school for transgender pupils, it caters for adults who left school early. 
 
 A school for transgender people opens in Kochi, to help school dropouts finish their education.

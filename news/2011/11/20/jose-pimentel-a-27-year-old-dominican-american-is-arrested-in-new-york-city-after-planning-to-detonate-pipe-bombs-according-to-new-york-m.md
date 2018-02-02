@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/20/jose-pimentel-a-27-year-old-dominican-american-is-arrested-in-new-york-city-after-planning-to-detonate-pipe-bombs-according-to-new-york-m.html)  [JSON](/news/2011/11/20/jose-pimentel-a-27-year-old-dominican-american-is-arrested-in-new-york-city-after-planning-to-detonate-pipe-bombs-according-to-new-york-m.json)  [XML](/news/2011/11/20/jose-pimentel-a-27-year-old-dominican-american-is-arrested-in-new-york-city-after-planning-to-detonate-pipe-bombs-according-to-new-york-m.xml)  
+
 ### [2011-11-20](/news/2011/11/20/index.md)
 
+##### Jose Pimentel
 # Jose Pimentel, a 27-year-old Dominican-American, is arrested in New York City after planning to detonate pipe bombs, according to New York mayor Michael Bloomberg. The suspect is believed to have Al-Qaeda sympathies, although no wider conspiracy is suspected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/11/20/us/new-york-bloomberg-announcement/index.html?hpt=hp_t1)
 

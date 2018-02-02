@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/9/in-mexico-the-partial-recount-of-votes-in-the-disputed-2006-presidential-election-held-on-july-2-begins-amid-escalating-protests-against-a.html)  [JSON](/news/2006/08/9/in-mexico-the-partial-recount-of-votes-in-the-disputed-2006-presidential-election-held-on-july-2-begins-amid-escalating-protests-against-a.json)  [XML](/news/2006/08/9/in-mexico-the-partial-recount-of-votes-in-the-disputed-2006-presidential-election-held-on-july-2-begins-amid-escalating-protests-against-a.xml)  
+
 ### [2006-08-9](/news/2006/08/9/index.md)
 
+##### Mexico
 #  In Mexico, the partial recount of votes in the disputed 2006 presidential election held on July 2 begins amid escalating protests against alleged electoral irregularities in the close election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/08/09/mexico-recount.html)
 2. [VOA](http://www.voanews.com/english/2006-08-09-voa20.cfm)

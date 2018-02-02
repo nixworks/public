@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/2/riot-police-clash-with-protesters-commemorating-the-ungdomshuset-in-the-na-rrebro-district-of-copenhagen-with-26-people-injured.html)  [JSON](/news/2007/09/2/riot-police-clash-with-protesters-commemorating-the-ungdomshuset-in-the-na-rrebro-district-of-copenhagen-with-26-people-injured.json)  [XML](/news/2007/09/2/riot-police-clash-with-protesters-commemorating-the-ungdomshuset-in-the-na-rrebro-district-of-copenhagen-with-26-people-injured.xml)  
+
 ### [2007-09-2](/news/2007/09/2/index.md)
 
+##### Riot police
 #  Riot police clash with protesters commemorating the Ungdomshuset in the Norrebro district of Copenhagen with 26 people injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google](http://ap.google.com/article/ALeqM5inFZ17SHnUYXGdKqZoDHaXuN6pNw)
 

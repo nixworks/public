@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/16/pittsburgh-police-arrest-ryan-williams-for-the-october-18-2014-mckeesport-pennsylvania-arson-attack-and-charge-him-with-arson-burglary-a.html)  [JSON](/news/2015/01/16/pittsburgh-police-arrest-ryan-williams-for-the-october-18-2014-mckeesport-pennsylvania-arson-attack-and-charge-him-with-arson-burglary-a.json)  [XML](/news/2015/01/16/pittsburgh-police-arrest-ryan-williams-for-the-october-18-2014-mckeesport-pennsylvania-arson-attack-and-charge-him-with-arson-burglary-a.xml)  
+
 ### [2015-01-16](/news/2015/01/16/index.md)
 
+##### Pittsburgh
 # Pittsburgh police arrest Ryan Williams for the October 18, 2014 McKeesport, Pennsylvania arson attack and charge him with arson, burglary, and six counts of criminal homicide. The victims include four children ages 2 through 7. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/96575a4990334b1e898e37d6b0949e80/police-revenge-prompted-man-set-fire-killed-6)
 2. [WTAE](http://www.wtae.com/news/6-people-die-in-mckeesport-house-fire/29211286?)

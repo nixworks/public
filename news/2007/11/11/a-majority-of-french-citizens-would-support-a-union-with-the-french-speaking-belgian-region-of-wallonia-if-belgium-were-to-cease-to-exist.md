@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/11/a-majority-of-french-citizens-would-support-a-union-with-the-french-speaking-belgian-region-of-wallonia-if-belgium-were-to-cease-to-exist.html)  [JSON](/news/2007/11/11/a-majority-of-french-citizens-would-support-a-union-with-the-french-speaking-belgian-region-of-wallonia-if-belgium-were-to-cease-to-exist.json)  [XML](/news/2007/11/11/a-majority-of-french-citizens-would-support-a-union-with-the-french-speaking-belgian-region-of-wallonia-if-belgium-were-to-cease-to-exist.xml)  
+
 ### [2007-11-11](/news/2007/11/11/index.md)
 
+##### France
 #  A majority of French citizens would support a union with the French-speaking Belgian region of Wallonia if Belgium were to cease to exist, according to a survey. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Journal du Dimanche](http://www.lejdd.fr/sondages/70.html)
 

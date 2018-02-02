@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/02/9/the-grand-national-assembly-of-turkey-votes-to-change-the-constitution-of-turkey-removing-a-ban-on-wearing-religious-head-cover-in-turkish.html)  [JSON](/news/2008/02/9/the-grand-national-assembly-of-turkey-votes-to-change-the-constitution-of-turkey-removing-a-ban-on-wearing-religious-head-cover-in-turkish.json)  [XML](/news/2008/02/9/the-grand-national-assembly-of-turkey-votes-to-change-the-constitution-of-turkey-removing-a-ban-on-wearing-religious-head-cover-in-turkish.xml)  
+
 ### [2008-02-9](/news/2008/02/9/index.md)
 
+##### Turkish Parliament
 #  The Grand National Assembly of Turkey votes to change the Constitution of Turkey removing a ban on wearing religious head cover in Turkish universities. 
 
 The vote sets the stage for a showdown with the country’s secular elite over Islam’s place in Turkish society.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/02/09/world/europe/09cnd-turkey.html)
+1. [The New York Times](https://www.nytimes.com/2008/02/09/world/europe/09cnd-turkey.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/02/09/world/09turkey.1-75.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/15/admiral-kim-sung-chan-the-head-of-the-republic-of-korea-navy-vows-a-stronger-response-to-aggression-from-north-korea.html)  [JSON](/news/2011/06/15/admiral-kim-sung-chan-the-head-of-the-republic-of-korea-navy-vows-a-stronger-response-to-aggression-from-north-korea.json)  [XML](/news/2011/06/15/admiral-kim-sung-chan-the-head-of-the-republic-of-korea-navy-vows-a-stronger-response-to-aggression-from-north-korea.xml)  
+
 ### [2011-06-15](/news/2011/06/15/index.md)
 
+##### Kim Sung-chan
 # Admiral Kim Sung-chan, the head of the Republic of Korea Navy, vows a stronger response to aggression from North Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap News](http://english.yonhapnews.co.kr/news/2011/06/15/72/0200000000AEN20110615004400315F.HTML)
 
@@ -15,4 +19,4 @@
 2. [Hillary Clinton, the United States Secretary of State, announces that the United States will impose further sanctions against North Korea as a result of the sinking of the South Korean warship ROKS "Cheonan". ](/news/2010/07/21/hillary-clinton-the-united-states-secretary-of-state-announces-that-the-united-states-will-impose-further-sanctions-against-north-korea-as.md) _Context: North Korea, South Korean Navy_
 3. [The Republic of Korea Navy fires shots at a patrol boat from North Korea during a skirmish. ](/news/2010/05/16/the-republic-of-korea-navy-fires-shots-at-a-patrol-boat-from-north-korea-during-a-skirmish.md) _Context: North Korea, South Korean Navy_
 4. [ A South Korean Navy destroyer rescues a North Korean cargo ship from Somali pirates. ](/news/2009/05/4/a-south-korean-navy-destroyer-rescues-a-north-korean-cargo-ship-from-somali-pirates.md) _Context: North Korea, South Korean Navy_
-5. [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. Kim Jong-nam was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-kim-j.md) _Context: North Korea_
+5. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: North Korea_

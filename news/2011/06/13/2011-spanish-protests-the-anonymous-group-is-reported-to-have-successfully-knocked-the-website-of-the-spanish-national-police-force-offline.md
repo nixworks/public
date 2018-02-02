@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/13/2011-spanish-protests-the-anonymous-group-is-reported-to-have-successfully-knocked-the-website-of-the-spanish-national-police-force-offline.html)  [JSON](/news/2011/06/13/2011-spanish-protests-the-anonymous-group-is-reported-to-have-successfully-knocked-the-website-of-the-spanish-national-police-force-offline.json)  [XML](/news/2011/06/13/2011-spanish-protests-the-anonymous-group-is-reported-to-have-successfully-knocked-the-website-of-the-spanish-national-police-force-offline.xml)  
+
 ### [2011-06-13](/news/2011/06/13/index.md)
 
+##### 2011 Spanish protests
 # 2011 Spanish protests: The Anonymous group is reported to have successfully knocked the website of the Spanish national police force offline. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-13749181)
 2. [The Guardian](http://www.guardian.co.uk/technology/2011/jun/13/turkish-arrests-global-war-hackers-police)

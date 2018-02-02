@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/15/belgian-prime-minister-yves-leterme-resigns-after-less-than-four-months-in-office-king-albert-ii-does-not-accept-his-resignation.html)  [JSON](/news/2008/07/15/belgian-prime-minister-yves-leterme-resigns-after-less-than-four-months-in-office-king-albert-ii-does-not-accept-his-resignation.json)  [XML](/news/2008/07/15/belgian-prime-minister-yves-leterme-resigns-after-less-than-four-months-in-office-king-albert-ii-does-not-accept-his-resignation.xml)  
+
 ### [2008-07-15](/news/2008/07/15/index.md)
 
+##### Belgium
 #  Belgian prime minister Yves Leterme resigns after less than four months in office. King Albert II does not accept his resignation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5gSTqLhIlrxjixuQ_IYddi_rQzBuQ)
 

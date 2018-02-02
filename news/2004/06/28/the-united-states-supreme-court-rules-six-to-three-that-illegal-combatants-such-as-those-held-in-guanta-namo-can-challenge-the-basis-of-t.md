@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/06/28/the-united-states-supreme-court-rules-six-to-three-that-illegal-combatants-such-as-those-held-in-guanta-namo-can-challenge-the-basis-of-t.html)  [JSON](/news/2004/06/28/the-united-states-supreme-court-rules-six-to-three-that-illegal-combatants-such-as-those-held-in-guanta-namo-can-challenge-the-basis-of-t.json)  [XML](/news/2004/06/28/the-united-states-supreme-court-rules-six-to-three-that-illegal-combatants-such-as-those-held-in-guanta-namo-can-challenge-the-basis-of-t.xml)  
+
 ### [2004-06-28](/news/2004/06/28/index.md)
 
+##### United States Supreme Court
 #  The United States Supreme Court rules six-to-three that "illegal combatants" such as those held in Guantanamo can challenge the basis of their detentions, yet can also be held without charges or trial. 
 
-Three rulings today amounted to the court&#39;s most important statement in decades on the balance between personal liberties and national security.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3847539.stm)
-2. [NYT](http://www.nytimes.com/2004/06/28/politics/28CND-SCOT.html)
-2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+2. [NYT](https://www.nytimes.com/2004/06/28/politics/28CND-SCOT.html)
 
 ### Related:
 

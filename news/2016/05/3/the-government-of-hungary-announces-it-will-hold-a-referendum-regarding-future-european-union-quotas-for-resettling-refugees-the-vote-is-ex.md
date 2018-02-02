@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/3/the-government-of-hungary-announces-it-will-hold
 
 ### [2016-05-3](/news/2016/05/3/index.md)
 
+##### European migrant crisis
 # The government of Hungary announces it will hold a referendum regarding future European Union quotas for resettling refugees. The vote is expected to be held either in September or October of this year where a turnout of over 50 percent will render it to be valid. 
 
 Prime minister&#39;s office says referendum will be held later this year on quotas for resettlement of refugees.

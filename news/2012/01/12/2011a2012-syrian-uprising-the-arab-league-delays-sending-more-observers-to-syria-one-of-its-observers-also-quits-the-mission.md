@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2012/01/12/2011a2012-syrian-uprising-the-arab-league-delays-sending-more-observers-to-syria-one-of-its-observers-also-quits-the-mission.html)  [JSON](/news/2012/01/12/2011a2012-syrian-uprising-the-arab-league-delays-sending-more-observers-to-syria-one-of-its-observers-also-quits-the-mission.json)  [XML](/news/2012/01/12/2011a2012-syrian-uprising-the-arab-league-delays-sending-more-observers-to-syria-one-of-its-observers-also-quits-the-mission.xml)  
+
 ### [2012-01-12](/news/2012/01/12/index.md)
 
+##### 2011-2012 Syrian uprising
 # 2011-2012 Syrian uprising: The Arab League delays sending more observers to Syria; one of its observers also quits the mission. 
 
 The Arab League is delaying sending more monitors to Syria, as its mission runs into further difficulties in the country gripped by unrest.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16522961)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57837000/jpg/_57837612_013681546-1.jpg)
+
+### Changes:
+
+1. [2011-2012 Syrian uprising: The Arab League delays sending more observers to Syria; one of its observers also quits the mission. ](/news/2012/01/12/2011-2012-syrian-uprising-the-arab-league-delays-sending-more-observers-to-syria-one-of-its-observers-also-quits-the-mission.md) _2017-08-27 03:34:59 (First version)_
+1. [2011-2012 Syrian uprising: The Arab League delays sending more observers to Syria; one of its observers also quits the mission. ](/news/2012/01/12/2011a2012-syrian-uprising-the-arab-league-delays-sending-more-observers-to-syria-one-of-its-observers-also-quits-the-mission.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ The Arab League is delaying sending more monitors to Syria, as its mission runs 
 3. [2011-2012 Syrian uprising: The Arab League calls on the United Nations Security Council to back its plan to end the violence in Syria. ](/news/2012/01/26/2011a2012-syrian-uprising-the-arab-league-calls-on-the-united-nations-security-council-to-back-its-plan-to-end-the-violence-in-syria.md) _Context: 2011-2012 Syrian uprising, Arab League, Syria_
 4. [2011-2012 Syrian uprising: Arab League ministers meet in Cairo, Egypt, to discuss the extension of its monitoring mission in Syria. ](/news/2012/01/22/2011a2012-syrian-uprising-arab-league-ministers-meet-in-cairo-egypt-to-discuss-the-extension-of-its-monitoring-mission-in-syria.md) _Context: 2011-2012 Syrian uprising, Arab League, Syria_
 5. [2011-2012 Syrian uprising: The Arab League calls for a ceasefire in Syria, saying that tanks and heavy weaponry have been withdrawn from Syrian cities, but warning that snipers remain a threat. ](/news/2012/01/2/2011a2012-syrian-uprising-the-arab-league-calls-for-a-ceasefire-in-syria-saying-that-tanks-and-heavy-weaponry-have-been-withdrawn-from-s.md) _Context: 2011-2012 Syrian uprising, Arab League, Syria_
-
-### Changes:
-
-1. [2011-2012 Syrian uprising: The Arab League delays sending more observers to Syria; one of its observers also quits the mission. ](/news/2012/01/12/2011-2012-syrian-uprising-the-arab-league-delays-sending-more-observers-to-syria-one-of-its-observers-also-quits-the-mission.md) _2017-08-27 03:34:59 (First version)_
-1. [2011-2012 Syrian uprising: The Arab League delays sending more observers to Syria; one of its observers also quits the mission. ](/news/2012/01/12/2011a2012-syrian-uprising-the-arab-league-delays-sending-more-observers-to-syria-one-of-its-observers-also-quits-the-mission.md) _(Current version)_

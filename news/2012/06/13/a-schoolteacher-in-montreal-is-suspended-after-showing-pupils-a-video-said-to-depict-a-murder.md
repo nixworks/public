@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/13/a-schoolteacher-in-montreal-is-suspended-after-showing-pupils-a-video-said-to-depict-a-murder.html)  [JSON](/news/2012/06/13/a-schoolteacher-in-montreal-is-suspended-after-showing-pupils-a-video-said-to-depict-a-murder.json)  [XML](/news/2012/06/13/a-schoolteacher-in-montreal-is-suspended-after-showing-pupils-a-video-said-to-depict-a-murder.xml)  
+
 ### [2012-06-13](/news/2012/06/13/index.md)
 
+##### Montreal
 # A schoolteacher in Montreal is suspended after showing pupils a video said to depict a murder. 
 
 A Montreal teacher is suspended after showing his students a video believed to show the murder of Jun Lin.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-18435143)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60888000/jpg/_60888230_015019575-1.jpg)

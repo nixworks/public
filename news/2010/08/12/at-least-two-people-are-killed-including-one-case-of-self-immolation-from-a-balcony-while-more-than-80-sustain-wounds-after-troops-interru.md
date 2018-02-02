@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/at-least-two-people-are-killed-including-one-case-of-self-immolation-from-a-balcony-while-more-than-80-sustain-wounds-after-troops-interru.html)  [JSON](/news/2010/08/12/at-least-two-people-are-killed-including-one-case-of-self-immolation-from-a-balcony-while-more-than-80-sustain-wounds-after-troops-interru.json)  [XML](/news/2010/08/12/at-least-two-people-are-killed-including-one-case-of-self-immolation-from-a-balcony-while-more-than-80-sustain-wounds-after-troops-interru.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### self-immolation
 # At least two people are killed, including one case of self-immolation from a balcony, while more than 80 sustain wounds after troops interrupt a protest against poor conditions with batons and flashbangs at a prison in Astana, Kazakhstan. 
 
 At least two inmates are killed and more than 80 injured during a prison riot in Kazakhstan, in an apparent protest over poor conditions.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10951308)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

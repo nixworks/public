@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/9/three-relatives-of-iraqi-prime-minister-iyad-allawi-have-been-kidnapped-the-kidnappers-have-demanded-that-the-siege-on-fallujah-be-lifted.html)  [JSON](/news/2004/11/9/three-relatives-of-iraqi-prime-minister-iyad-allawi-have-been-kidnapped-the-kidnappers-have-demanded-that-the-siege-on-fallujah-be-lifted.json)  [XML](/news/2004/11/9/three-relatives-of-iraqi-prime-minister-iyad-allawi-have-been-kidnapped-the-kidnappers-have-demanded-that-the-siege-on-fallujah-be-lifted.xml)  
+
 ### [2004-11-9](/news/2004/11/9/index.md)
 
+##### Iraq
 #  Three relatives of Iraqi Prime Minister Iyad Allawi have been kidnapped. The kidnappers have demanded that the siege on Fallujah be lifted, or the hostages will be killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3998681.stm)
 2. [Fox](http://www.kasa.com/Global/story.asp?S=2546517)

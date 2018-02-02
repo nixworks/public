@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/18/the-convention-on-biological-diversity-cbd-a-major-united-nations-gathering-meets-in-japan-to-work-out-why-governments-have-failed-to-st.html)  [JSON](/news/2010/10/18/the-convention-on-biological-diversity-cbd-a-major-united-nations-gathering-meets-in-japan-to-work-out-why-governments-have-failed-to-st.json)  [XML](/news/2010/10/18/the-convention-on-biological-diversity-cbd-a-major-united-nations-gathering-meets-in-japan-to-work-out-why-governments-have-failed-to-st.xml)  
+
 ### [2010-10-18](/news/2010/10/18/index.md)
 
+##### Convention on Biological Diversity
 # The Convention on Biological Diversity (CBD), a major United Nations gathering, meets in Japan to work out why governments have failed to stop the rapid rate of extinction and loss of habitats by 2010, as they vowed 8 years ago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-11561451)
 2. [The Guardian](http://www.guardian.co.uk/environment/2010/oct/18/china-wildlife-conservation-un-talks)

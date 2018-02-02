@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/16/senior-red-shirt-leader-arisman-pongruangrong-climbs-down-a-rope-to-escape-an-arrest-attempt-by-thai-security-forces-laying-siege-to-thaksin.html)  [JSON](/news/2010/04/16/senior-red-shirt-leader-arisman-pongruangrong-climbs-down-a-rope-to-escape-an-arrest-attempt-by-thai-security-forces-laying-siege-to-thaksin.json)  [XML](/news/2010/04/16/senior-red-shirt-leader-arisman-pongruangrong-climbs-down-a-rope-to-escape-an-arrest-attempt-by-thai-security-forces-laying-siege-to-thaksin.xml)  
+
 ### [2010-04-16](/news/2010/04/16/index.md)
 
+##### Arisman Pongruangrong
 # Senior red-shirt leader Arisman Pongruangrong climbs down a rope to escape an arrest attempt by Thai security forces laying siege to Thaksin Shinawatra's SC Park Hotel in Bangkok. He urges protesters to leave Ratchaprasong "to avoid being used as human shields". 
 
 An anti-government protest leader has evaded arrest in Thailand by scaling down a hotel fa&ccedil;ade with a rope and escaping in a getaway car while &#034;Red Shirt&#034; supporters took two police officers hostage.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/04/201041642159766.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8624218.stm)

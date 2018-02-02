@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/29/ca-te-d-ivoire-president-laurent-gbagbo-refuses-to-step-down-after-a-meeting-with-other-african-leaders.html)  [JSON](/news/2010/12/29/ca-te-d-ivoire-president-laurent-gbagbo-refuses-to-step-down-after-a-meeting-with-other-african-leaders.json)  [XML](/news/2010/12/29/ca-te-d-ivoire-president-laurent-gbagbo-refuses-to-step-down-after-a-meeting-with-other-african-leaders.xml)  
+
 ### [2010-12-29](/news/2010/12/29/index.md)
 
+##### Cote d'Ivoire
 # Cote d'Ivoire President Laurent Gbagbo refuses to step down after a meeting with other African leaders. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iN8Lg5vKTF4-K5Ge_RIFhLuY7LPA?docId=df4251c7720e4387baa612e153545b67)
 2. [IOL](http://www.iol.co.za/news/africa/gbagbo-remains-defiant-1.1005940?showComments=true)

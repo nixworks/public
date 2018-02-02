@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/06/6/reuters-reports-that-an-egyptian-court-has-overturned-a-ruling-that-hamas-is-a-terrorist-organisation.html)  [JSON](/news/2015/06/6/reuters-reports-that-an-egyptian-court-has-overturned-a-ruling-that-hamas-is-a-terrorist-organisation.json)  [XML](/news/2015/06/6/reuters-reports-that-an-egyptian-court-has-overturned-a-ruling-that-hamas-is-a-terrorist-organisation.xml)  
+
 ### [2015-06-6](/news/2015/06/6/index.md)
 
+##### Reuters
 # Reuters reports that an Egyptian court has overturned a ruling that Hamas is a terrorist organisation. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/06/06/us-egypt-hamas-idUSKBN0OM0BZ20150606)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/06/06/us-egypt-hamas-idUSKBN0OM0BZ20150606)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

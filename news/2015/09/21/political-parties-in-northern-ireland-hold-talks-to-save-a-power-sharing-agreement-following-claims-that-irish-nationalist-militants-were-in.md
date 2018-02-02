@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/09/21/political-parties-in-northern-ireland-hold-talks-to-save-a-power-sharing-agreement-following-claims-that-irish-nationalist-militants-were-in.html)  [JSON](/news/2015/09/21/political-parties-in-northern-ireland-hold-talks-to-save-a-power-sharing-agreement-following-claims-that-irish-nationalist-militants-were-in.json)  [XML](/news/2015/09/21/political-parties-in-northern-ireland-hold-talks-to-save-a-power-sharing-agreement-following-claims-that-irish-nationalist-militants-were-in.xml)  
+
 ### [2015-09-21](/news/2015/09/21/index.md)
 
+##### Northern Ireland
 # Political parties in Northern Ireland hold talks to save a power-sharing agreement following claims that Irish nationalist militants were involved in the murder of a former operative. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/09/21/us-britain-nireland-idUSKCN0RL11X20150921?feedType=RSS&feedName=worldNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/09/21/us-britain-nireland-idUSKCN0RL11X20150921?feedType=RSS&feedName=worldNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

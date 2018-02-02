@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/1/in-abuja-two-car-bombs-explode-during-nigeria-s-50th-anniversary-celebrations-of-its-independence-from-the-british-empire-killing-12-and-i.html)  [JSON](/news/2010/10/1/in-abuja-two-car-bombs-explode-during-nigeria-s-50th-anniversary-celebrations-of-its-independence-from-the-british-empire-killing-12-and-i.json)  [XML](/news/2010/10/1/in-abuja-two-car-bombs-explode-during-nigeria-s-50th-anniversary-celebrations-of-its-independence-from-the-british-empire-killing-12-and-i.xml)  
+
 ### [2010-10-1](/news/2010/10/1/index.md)
 
+##### Abuja
 # In Abuja, two car bombs explode during Nigeria's 50th anniversary celebrations of its Independence from the British Empire, killing 12 and injuring 17. Militant rebel group MEND claims responsibility. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11458674)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/30/six-people-die-in-a-fire-in-a-bakery-in-the-ind
 
 ### [2016-12-30](/news/2016/12/30/index.md)
 
+##### India
 # Six people die in a fire in a bakery in the Indian city of Pune. 
 
 Six migrant workers died of suffocation in a fire that broke out in a Pune bakery early morning on Friday, reports said.

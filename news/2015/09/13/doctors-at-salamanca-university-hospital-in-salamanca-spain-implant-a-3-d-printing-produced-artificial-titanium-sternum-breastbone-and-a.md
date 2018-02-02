@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/13/doctors-at-salamanca-university-hospital-in-salamanca-spain-implant-a-3-d-printing-produced-artificial-titanium-sternum-breastbone-and-a.html)  [JSON](/news/2015/09/13/doctors-at-salamanca-university-hospital-in-salamanca-spain-implant-a-3-d-printing-produced-artificial-titanium-sternum-breastbone-and-a.json)  [XML](/news/2015/09/13/doctors-at-salamanca-university-hospital-in-salamanca-spain-implant-a-3-d-printing-produced-artificial-titanium-sternum-breastbone-and-a.xml)  
+
 ### [2015-09-13](/news/2015/09/13/index.md)
 
+##### Salamanca, Spain
 # Doctors at Salamanca University Hospital in Salamanca, Spain implant a 3-D printing-produced artificial titanium sternum (breastbone), and a portion of the ribs (as opposed to the current standard, a non-customized, flat piece of titanium, which can loosen over time) in a patient who had numerous cancerous tumors in that area, the first use of 3D printing technology to take the place of these specific body parts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Quartz, via MSN](http://www.msn.com/en-us/news/technology/doctors-have-implanted-a-3d-printed-ribcage-in-an-actual-human-being/ar-AAebQoe?ocid=ansmsnnews11)
 

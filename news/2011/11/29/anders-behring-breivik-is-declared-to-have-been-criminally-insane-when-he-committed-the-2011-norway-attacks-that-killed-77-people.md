@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/29/anders-behring-breivik-is-declared-to-have-been-criminally-insane-when-he-committed-the-2011-norway-attacks-that-killed-77-people.html)  [JSON](/news/2011/11/29/anders-behring-breivik-is-declared-to-have-been-criminally-insane-when-he-committed-the-2011-norway-attacks-that-killed-77-people.json)  [XML](/news/2011/11/29/anders-behring-breivik-is-declared-to-have-been-criminally-insane-when-he-committed-the-2011-norway-attacks-that-killed-77-people.xml)  
+
 ### [2011-11-29](/news/2011/11/29/index.md)
 
+##### Anders Behring Breivik
 # Anders Behring Breivik is declared to have been criminally insane when he committed the 2011 Norway attacks that killed 77 people. 
 
 Anders Behring Breivik, who killed 77 people in a bomb blast and gun rampage in Norway, is likely to escape jail after a psychiatric evaluation concluded he had been &#034;psychotic&#034; at the time of the attacks.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/norway/8924092/Norway-killer-Anders-Behring-Breivik-to-escape-jail-after-declared-insane.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02026/brei_2026010a.jpg)

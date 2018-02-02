@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/7/in-a-491-page-ruling-a-court-indicts-former-pres
 
 ### [2017-12-7](/news/2017/12/7/index.md)
 
+##### AMIA bombing
 # In a 491-page ruling, a court indicts former President of Argentina Cristina Fernandez for treason and orders for her arrest for "trying to cover up Iran's possible role in the 1994 bombing of a Jewish community center that killed 85 people". Former foreign affairs minister Hector Timerman is also concerned. Both have previously denied wrongdoing. 
 
 

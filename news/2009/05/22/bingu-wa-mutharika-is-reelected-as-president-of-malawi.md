@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/22/bingu-wa-mutharika-is-reelected-as-president-of-malawi.html)  [JSON](/news/2009/05/22/bingu-wa-mutharika-is-reelected-as-president-of-malawi.json)  [XML](/news/2009/05/22/bingu-wa-mutharika-is-reelected-as-president-of-malawi.xml)  
+
 ### [2009-05-22](/news/2009/05/22/index.md)
 
+##### Bingu wa Mutharika
 #  Bingu wa Mutharika is reelected as President of Malawi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jPw2TNoYbBUg8ocqRVXPk-MOnhrgD98B19UG0)
 

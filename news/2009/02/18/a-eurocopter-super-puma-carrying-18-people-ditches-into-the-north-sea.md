@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/18/a-eurocopter-super-puma-carrying-18-people-ditches-into-the-north-sea.html)  [JSON](/news/2009/02/18/a-eurocopter-super-puma-carrying-18-people-ditches-into-the-north-sea.json)  [XML](/news/2009/02/18/a-eurocopter-super-puma-carrying-18-people-ditches-into-the-north-sea.xml)  
+
 ### [2009-02-18](/news/2009/02/18/index.md)
 
+##### Eurocopter Super Puma
 #  A Eurocopter Super Puma carrying 18 people ditches into the North Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/scotland/north_east/7898093.stm)
 

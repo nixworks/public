@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/28/the-shiveluch-volcano-on-russia-s-kamchatka-peninsula-erupts-causing-a-large-earthquake-and-producing-a-6500-ft-plume-of-hot-ash.html)  [JSON](/news/2004/12/28/the-shiveluch-volcano-on-russia-s-kamchatka-peninsula-erupts-causing-a-large-earthquake-and-producing-a-6500-ft-plume-of-hot-ash.json)  [XML](/news/2004/12/28/the-shiveluch-volcano-on-russia-s-kamchatka-peninsula-erupts-causing-a-large-earthquake-and-producing-a-6500-ft-plume-of-hot-ash.xml)  
+
 ### [2004-12-28](/news/2004/12/28/index.md)
 
+##### Shiveluch
 #  The Shiveluch volcano on Russia's Kamchatka Peninsula erupts, causing a large earthquake and producing a 6500 ft plume of hot ash. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [webcam](http://data.emsd.iks.ru/videosvl/videosvl.htm)
 

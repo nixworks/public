@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/21/the-death-toll-from-floods-in-china-the-worst-in-a-decade-rises-to-700.html)  [JSON](/news/2010/07/21/the-death-toll-from-floods-in-china-the-worst-in-a-decade-rises-to-700.json)  [XML](/news/2010/07/21/the-death-toll-from-floods-in-china-the-worst-in-a-decade-rises-to-700.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### floods in China
 # The death toll from floods in China, the worst in a decade, rises to 700. 
 
 Floods triggered by torrential rains have claimed the lives of 701 people and left 347 missing in China, the government said Wednesday. About 18 million...
 
 
-### Source:
+### Sources:
 
 1. [Sify](http://sify.com/news/700-die-as-china-reels-under-worst-floods-in-decade-news-international-khvskefccae.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-07/21/c_13407808.htm)

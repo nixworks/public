@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/30/an-explosion-rocks-taliban-birthplace-kandahar-in-southern-afghanistan-on-thursday-wounding-eight-people.html)  [JSON](/news/2010/09/30/an-explosion-rocks-taliban-birthplace-kandahar-in-southern-afghanistan-on-thursday-wounding-eight-people.json)  [XML](/news/2010/09/30/an-explosion-rocks-taliban-birthplace-kandahar-in-southern-afghanistan-on-thursday-wounding-eight-people.xml)  
+
 ### [2010-09-30](/news/2010/09/30/index.md)
 
+##### Kandahar
 # An explosion rocks Taliban birthplace Kandahar in southern Afghanistan on Thursday, wounding eight people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/30/c_13537365.htm)
 

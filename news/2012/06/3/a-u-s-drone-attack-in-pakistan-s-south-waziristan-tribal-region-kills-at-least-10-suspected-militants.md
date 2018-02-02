@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/3/a-u-s-drone-attack-in-pakistan-s-south-waziristan-tribal-region-kills-at-least-10-suspected-militants.html)  [JSON](/news/2012/06/3/a-u-s-drone-attack-in-pakistan-s-south-waziristan-tribal-region-kills-at-least-10-suspected-militants.json)  [XML](/news/2012/06/3/a-u-s-drone-attack-in-pakistan-s-south-waziristan-tribal-region-kills-at-least-10-suspected-militants.xml)  
+
 ### [2012-06-3](/news/2012/06/3/index.md)
 
+##### drones launch
 # A U.S. drone attack in Pakistan's South Waziristan tribal region kills at least 10 suspected militants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Boston Herald](http://www.bostonherald.com/news/international/asia_pacific/view/20120603us_drone_in_pakistan_kills_10_suspected_militants/srvc=home&position=recent)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/12/1/u-s-president-barack-obama-announces-that-he-will-send-30-000-extra-american-troops-to-afghanistan-within-the-next-six-months-and-start-wi.html)  [JSON](/news/2009/12/1/u-s-president-barack-obama-announces-that-he-will-send-30-000-extra-american-troops-to-afghanistan-within-the-next-six-months-and-start-wi.json)  [XML](/news/2009/12/1/u-s-president-barack-obama-announces-that-he-will-send-30-000-extra-american-troops-to-afghanistan-within-the-next-six-months-and-start-wi.xml)  
+
 ### [2009-12-1](/news/2009/12/1/index.md)
 
+##### U.S. President
 #  U.S. President Barack Obama announces that he will send 30,000 extra American troops to Afghanistan within the next six months and start withdrawal in 19 months. 
 
 President Obama plans to announce Tuesday that he will begin to move U.S. forces out of Afghanistan in July 2011, an administration official said.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2009/12/02/world/asia/02policy.html)
+1. [The New York Times](https://www.nytimes.com/2009/12/02/world/asia/02policy.html)
 1. [Cover Image](https://static01.nyt.com/images/2009/12/01/world/02policy_337-395/thumbStandard.jpg)
 
 ### Related:

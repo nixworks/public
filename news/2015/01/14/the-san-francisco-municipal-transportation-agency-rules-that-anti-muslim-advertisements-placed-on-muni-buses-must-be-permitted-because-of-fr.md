@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/14/the-san-francisco-municipal-transportation-agency-rules-that-anti-muslim-advertisements-placed-on-muni-buses-must-be-permitted-because-of-fr.html)  [JSON](/news/2015/01/14/the-san-francisco-municipal-transportation-agency-rules-that-anti-muslim-advertisements-placed-on-muni-buses-must-be-permitted-because-of-fr.json)  [XML](/news/2015/01/14/the-san-francisco-municipal-transportation-agency-rules-that-anti-muslim-advertisements-placed-on-muni-buses-must-be-permitted-because-of-fr.xml)  
+
 ### [2015-01-14](/news/2015/01/14/index.md)
 
+##### San Francisco Municipal Transportation Agency
 # The San Francisco Municipal Transportation Agency rules that anti-Muslim advertisements placed on Muni buses must be permitted because of freedom of speech. 
 
 Get the latest news video clips from NBC Bay Area. Check out breaking video news and clips, including the most popular sports, entertainment, and weather videos. 
 
 
-### Source:
+### Sources:
 
 1. [KNTV](http://www.nbcbayarea.com/video/?_osource=SocialFlowTwt_BAYBrand#!/on-air/as-seen-on/Anti-Muslim-Ads-on-Muni-Buses-Stun-Riders/288486491)
 1. [Cover Image](http://media.nbcbayarea.com/designimages/nbcbay_station_logo.jpg?ak=bc)

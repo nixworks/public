@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/14/michael-dourson-university-of-cincinnati-colleg
 
 ### [2017-12-14](/news/2017/12/14/index.md)
 
+##### Donald Trump's political appointments
 # Michael Dourson, University of Cincinnati College of Medicine professor, withdraws his nomination for an assistant administrator position with the Environmental Protection Agency. 
 
 Michael Dourson, Trump&#x27;s pick to lead the federal toxic chemicals office, has withdrawn his nomination after a backlash over his close ties to industry.

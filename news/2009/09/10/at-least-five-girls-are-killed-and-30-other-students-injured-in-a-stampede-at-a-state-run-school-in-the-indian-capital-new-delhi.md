@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/10/at-least-five-girls-are-killed-and-30-other-students-injured-in-a-stampede-at-a-state-run-school-in-the-indian-capital-new-delhi.html)  [JSON](/news/2009/09/10/at-least-five-girls-are-killed-and-30-other-students-injured-in-a-stampede-at-a-state-run-school-in-the-indian-capital-new-delhi.json)  [XML](/news/2009/09/10/at-least-five-girls-are-killed-and-30-other-students-injured-in-a-stampede-at-a-state-run-school-in-the-indian-capital-new-delhi.xml)  
+
 ### [2009-09-10](/news/2009/09/10/index.md)
 
+##### India
 #  At least five girls are killed and 30 other students injured in a stampede at a state-run school in the Indian capital, New Delhi. 
 
 Five girls have been killed in a stampede at a school in the Indian capital, New Delhi.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/stories/2009/09/10/2682571.htm?section=justin)
 2. [RTÉ](http://www.rte.ie/news/2009/0910/india.html)

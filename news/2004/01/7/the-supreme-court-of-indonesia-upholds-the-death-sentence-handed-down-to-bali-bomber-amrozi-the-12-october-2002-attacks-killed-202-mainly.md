@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/01/7/the-supreme-court-of-indonesia-upholds-the-death-sentence-handed-down-to-bali-bomber-amrozi-the-12-october-2002-attacks-killed-202-mainly.html)  [JSON](/news/2004/01/7/the-supreme-court-of-indonesia-upholds-the-death-sentence-handed-down-to-bali-bomber-amrozi-the-12-october-2002-attacks-killed-202-mainly.json)  [XML](/news/2004/01/7/the-supreme-court-of-indonesia-upholds-the-death-sentence-handed-down-to-bali-bomber-amrozi-the-12-october-2002-attacks-killed-202-mainly.xml)  
+
 ### [2004-01-7](/news/2004/01/7/index.md)
 
+##### Indonesia
 #  The Supreme Court of Indonesia upholds the death sentence handed down to Bali bomber Amrozi. The 12 October 2002 attacks killed 202 mainly holiday makers on the resort island of Bali. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [July 1073437329581.html](http://www.smh.com.au/articles/2004/01)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/29/voters-in-slovakia-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-with-former-businessman-andrej-kiska-elected.html)  [JSON](/news/2014/03/29/voters-in-slovakia-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-with-former-businessman-andrej-kiska-elected.json)  [XML](/news/2014/03/29/voters-in-slovakia-go-to-the-polls-for-the-second-round-of-voting-in-the-presidential-election-with-former-businessman-andrej-kiska-elected.xml)  
+
 ### [2014-03-29](/news/2014/03/29/index.md)
 
+##### Slovakia
 # Voters in Slovakia go to the polls for the second round of voting in the presidential election with former businessman Andrej Kiska elected in a landslide. 
 
 Andrej Kisha, a philanthropist who became rich from his consumer-credit business, vows to &#039;re-establish trust&#039; to the office of president he was emphatically voted in to
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.de/polls-close-in-slovakia-runoff-election/a-17529802)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/slovakia/10732435/Millionaire-Andrej-Kiska-elected-first-Slovak-president-with-no-communist-past.html)

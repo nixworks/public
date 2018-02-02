@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/25/a-fire-at-the-monte-carlo-resort-and-casino-in-las-vegas-nevada-causes-the-entire-building-to-be-evacuated.html)  [JSON](/news/2008/01/25/a-fire-at-the-monte-carlo-resort-and-casino-in-las-vegas-nevada-causes-the-entire-building-to-be-evacuated.json)  [XML](/news/2008/01/25/a-fire-at-the-monte-carlo-resort-and-casino-in-las-vegas-nevada-causes-the-entire-building-to-be-evacuated.xml)  
+
 ### [2008-01-25](/news/2008/01/25/index.md)
 
+##### Monte Carlo Resort and Casino
 #  A fire at the Monte Carlo Resort and Casino in Las Vegas, Nevada causes the entire building to be evacuated. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/US/01/25/vegas.fire/index.html)
 

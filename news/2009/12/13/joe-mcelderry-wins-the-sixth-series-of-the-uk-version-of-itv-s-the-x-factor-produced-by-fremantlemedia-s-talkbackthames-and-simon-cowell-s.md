@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/13/joe-mcelderry-wins-the-sixth-series-of-the-uk-version-of-itv-s-the-x-factor-produced-by-fremantlemedia-s-talkbackthames-and-simon-cowell-s.html)  [JSON](/news/2009/12/13/joe-mcelderry-wins-the-sixth-series-of-the-uk-version-of-itv-s-the-x-factor-produced-by-fremantlemedia-s-talkbackthames-and-simon-cowell-s.json)  [XML](/news/2009/12/13/joe-mcelderry-wins-the-sixth-series-of-the-uk-version-of-itv-s-the-x-factor-produced-by-fremantlemedia-s-talkbackthames-and-simon-cowell-s.xml)  
+
 ### [2009-12-13](/news/2009/12/13/index.md)
 
+##### Joe McElderry
 #  Joe McElderry wins the sixth series of the UK version of ITV's The X Factor produced by FremantleMedia's talkbackTHAMES and Simon Cowell's Syco TV. This meant that Cheryl Cole was the first mentor to win two consecutive series. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5ixeFBxfLzaSjs8Mb8cuFmtPOT6-wD9CIH3T00)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/20091213131421866166.html)

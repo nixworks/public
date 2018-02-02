@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philip
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
+##### Mount Mayon's
 # The Mayon volcano begins to erupt in the Philippines. 
 
 

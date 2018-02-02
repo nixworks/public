@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/24/israeli-palestinian-conflict-the-body-of-the-hamas-militant-killed-in-the-attack-on-an-israeli-military-camp-that-killed-three-israeli-so.html)  [JSON](/news/2003/10/24/israeli-palestinian-conflict-the-body-of-the-hamas-militant-killed-in-the-attack-on-an-israeli-military-camp-that-killed-three-israeli-so.json)  [XML](/news/2003/10/24/israeli-palestinian-conflict-the-body-of-the-hamas-militant-killed-in-the-attack-on-an-israeli-military-camp-that-killed-three-israeli-so.xml)  
+
 ### [2003-10-24](/news/2003/10/24/index.md)
 
+##### Israeli-Palestinian conflict
 #  Israeli-Palestinian conflict: The body of the Hamas militant killed in the attack on an Israeli military camp (that killed three Israeli soldiers) is returned to his family in their refugee camp.
 
 

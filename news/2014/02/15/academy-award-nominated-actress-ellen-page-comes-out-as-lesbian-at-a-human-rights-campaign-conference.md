@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/15/academy-award-nominated-actress-ellen-page-comes-out-as-lesbian-at-a-human-rights-campaign-conference.html)  [JSON](/news/2014/02/15/academy-award-nominated-actress-ellen-page-comes-out-as-lesbian-at-a-human-rights-campaign-conference.json)  [XML](/news/2014/02/15/academy-award-nominated-actress-ellen-page-comes-out-as-lesbian-at-a-human-rights-campaign-conference.xml)  
+
 ### [2014-02-15](/news/2014/02/15/index.md)
 
+##### Academy Award
 # Academy Award-nominated actress Ellen Page comes out as lesbian at a Human Rights Campaign conference. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/02/15/showbiz/page-comes-out/)
 

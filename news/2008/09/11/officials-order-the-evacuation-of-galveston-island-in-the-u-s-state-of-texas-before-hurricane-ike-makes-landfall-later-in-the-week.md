@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/11/officials-order-the-evacuation-of-galveston-island-in-the-u-s-state-of-texas-before-hurricane-ike-makes-landfall-later-in-the-week.html)  [JSON](/news/2008/09/11/officials-order-the-evacuation-of-galveston-island-in-the-u-s-state-of-texas-before-hurricane-ike-makes-landfall-later-in-the-week.json)  [XML](/news/2008/09/11/officials-order-the-evacuation-of-galveston-island-in-the-u-s-state-of-texas-before-hurricane-ike-makes-landfall-later-in-the-week.xml)  
+
 ### [2008-09-11](/news/2008/09/11/index.md)
 
+##### evacuation
 #  Officials order the evacuation of Galveston Island in the U.S. state of Texas before Hurricane Ike makes landfall later in the week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [USA Today](http://blogs.usatoday.com/ondeadline/2008/09/galveston-order.html?csp=34)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/2/voters-in-hungary-go-to-the-polls-for-a-referend
 
 ### [2016-10-2](/news/2016/10/2/index.md)
 
+##### Hungarian migrant quota referendum, 2016
 # Voters in Hungary go to the polls for a referendum on whether to accept mandatory European Union quotas on relocating migrants. While an overwhelming majority of voters reject the EU's migrant quotas, turnout was too low to make the poll valid. 
 
 

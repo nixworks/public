@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/17/the-bayeux-tapestry-which-depicts-the-norman-co
 
 ### [2018-01-17](/news/2018/01/17/index.md)
 
+##### France-United Kingdom relations
 # The Bayeux Tapestry, which depicts the Norman conquest of England, is to be displayed in the United Kingdom for the first time after French President Emmanuel Macron agreed to loan it out for the first time in 950 years. Subject to the outcome of tests, the loan is expected to happen somewhere after 2020. 
 
 President Macron is understood to have agreed to let it leave France for the first time in 950 years.

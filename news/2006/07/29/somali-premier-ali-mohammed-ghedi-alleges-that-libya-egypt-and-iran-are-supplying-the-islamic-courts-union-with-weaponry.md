@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/07/29/somali-premier-ali-mohammed-ghedi-alleges-that-libya-egypt-and-iran-are-supplying-the-islamic-courts-union-with-weaponry.html)  [JSON](/news/2006/07/29/somali-premier-ali-mohammed-ghedi-alleges-that-libya-egypt-and-iran-are-supplying-the-islamic-courts-union-with-weaponry.json)  [XML](/news/2006/07/29/somali-premier-ali-mohammed-ghedi-alleges-that-libya-egypt-and-iran-are-supplying-the-islamic-courts-union-with-weaponry.xml)  
+
 ### [2006-07-29](/news/2006/07/29/index.md)
 
+##### Ali Mohammed Ghedi
 #  Somali Premier Ali Mohammed Ghedi alleges that Libya, Egypt, and Iran are supplying the Islamic Courts Union with weaponry. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP v. Yahoo](http://news.yahoo.com/s/ap/20060730/ap_on_re_af/somalia;_ylt=AhQ096vbjsBsxkjRw6.b4KS96Q8F;_ylu=X3oDMTBjMHVqMTQ4BHNlYwN5bnN1YmNhdA--Somalia)
+1. [AP v. Yahoo](https://news.yahoo.com/s/ap/20060730/ap_on_re_af/somalia;_ylt=AhQ096vbjsBsxkjRw6.b4KS96Q8F;_ylu=X3oDMTBjMHVqMTQ4BHNlYwN5bnN1YmNhdA--Somalia)
 
 ### Related:
 

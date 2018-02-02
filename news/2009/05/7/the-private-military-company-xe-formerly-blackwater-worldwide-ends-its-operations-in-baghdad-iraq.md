@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/7/the-private-military-company-xe-formerly-blackwater-worldwide-ends-its-operations-in-baghdad-iraq.html)  [JSON](/news/2009/05/7/the-private-military-company-xe-formerly-blackwater-worldwide-ends-its-operations-in-baghdad-iraq.json)  [XML](/news/2009/05/7/the-private-military-company-xe-formerly-blackwater-worldwide-ends-its-operations-in-baghdad-iraq.xml)  
+
 ### [2009-05-7](/news/2009/05/7/index.md)
 
+##### private military company
 #  The private military company Xe (formerly Blackwater Worldwide) ends its operations in Baghdad, Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hwK_CSpBxsNuVUEaDuOwmSSCiqGwD981IKV00)
 

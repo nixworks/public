@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/6/crystal-cortes-of-dallas-texas-is-charged-with-capital-murder-of-dentist-kendra-hatcher-on-september-2-her-borrowed-jeep-cherokee-was-seen.html)  [JSON](/news/2015/09/6/crystal-cortes-of-dallas-texas-is-charged-with-capital-murder-of-dentist-kendra-hatcher-on-september-2-her-borrowed-jeep-cherokee-was-seen.json)  [XML](/news/2015/09/6/crystal-cortes-of-dallas-texas-is-charged-with-capital-murder-of-dentist-kendra-hatcher-on-september-2-her-borrowed-jeep-cherokee-was-seen.xml)  
+
 ### [2015-09-6](/news/2015/09/6/index.md)
 
+##### Dallas
 # Crystal Cortes of Dallas, Texas is charged with capital murder of dentist Kendra Hatcher on September 2. Her borrowed Jeep Cherokee was seen entering a parking garage on video. She told police she conspired with an unidentified man who paid her to drive him to the garage with the intention of robbery. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WFAA](http://www.wfaa.com/story/news/local/dallas-county/2015/09/05/woman-arrested-dallas-dentist-murder-case/71764896/)
 1. [Cover Image](http://content.wfaa.com/photo/2015/11/01/635768938232582664-jeepcherokke1_1519298_ver1.0.jpg)

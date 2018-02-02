@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/5/2005-kashmir-earthquake-pakistan-renews-sos-children-s-villages-role-as-custodian-of-all-orphans-and-unaccompanied-children-following-the.html)  [JSON](/news/2005/12/5/2005-kashmir-earthquake-pakistan-renews-sos-children-s-villages-role-as-custodian-of-all-orphans-and-unaccompanied-children-following-the.json)  [XML](/news/2005/12/5/2005-kashmir-earthquake-pakistan-renews-sos-children-s-villages-role-as-custodian-of-all-orphans-and-unaccompanied-children-following-the.xml)  
+
 ### [2005-12-5](/news/2005/12/5/index.md)
 
+##### 2005 Kashmir earthquake
 #  2005 Kashmir earthquake: Pakistan renews SOS Children's Villages role as custodian of all orphans and unaccompanied children following the earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SOS](http://www.sos-childrensvillages.org/news-and-media/news/pages/south-asia-earthquake-children-urgently-need-aid-and-rehabilitation.aspx)
 

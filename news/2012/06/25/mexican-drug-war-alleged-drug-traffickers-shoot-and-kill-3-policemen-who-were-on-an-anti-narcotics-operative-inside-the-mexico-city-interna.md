@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/06/25/mexican-drug-war-alleged-drug-traffickers-shoot-and-kill-3-policemen-who-were-on-an-anti-narcotics-operative-inside-the-mexico-city-interna.html)  [JSON](/news/2012/06/25/mexican-drug-war-alleged-drug-traffickers-shoot-and-kill-3-policemen-who-were-on-an-anti-narcotics-operative-inside-the-mexico-city-interna.json)  [XML](/news/2012/06/25/mexican-drug-war-alleged-drug-traffickers-shoot-and-kill-3-policemen-who-were-on-an-anti-narcotics-operative-inside-the-mexico-city-interna.xml)  
+
 ### [2012-06-25](/news/2012/06/25/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: Alleged drug traffickers shoot and kill 3 policemen who were on an anti-narcotics operative inside the Mexico City International Airport. The assassins were wearing law enforcement uniforms, although the Mexican authorities said that the cartel members sometimes wear false uniforms. No suspects have been arrested. 
 
 Two federal police officers suspected of working for drug traffickers opened fire on fellow officers in a crowded food court at Mexico City&#x27;s international airport on Monday, killing three policemen as panicked witnesses dove for cover.
 
 
-### Source:
+### Sources:
 
-1. [Yahoo! News](http://news.yahoo.com/3-policemen-shot-death-mexico-city-airport-171218486.html)
+1. [Yahoo! News](https://news.yahoo.com/3-policemen-shot-death-mexico-city-airport-171218486.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

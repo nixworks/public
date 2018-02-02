@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/17/three-sexual-assault-cases-are-lodged-against-the-roman-catholic-archdiocese-of-miami.html)  [JSON](/news/2011/08/17/three-sexual-assault-cases-are-lodged-against-the-roman-catholic-archdiocese-of-miami.json)  [XML](/news/2011/08/17/three-sexual-assault-cases-are-lodged-against-the-roman-catholic-archdiocese-of-miami.xml)  
+
 ### [2011-08-17](/news/2011/08/17/index.md)
 
+##### sexual assault
 # Three sexual assault cases are lodged against the Roman Catholic Archdiocese of Miami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Miami Herald](http://www.miamiherald.com/2011/08/17/2363727/three-sexual-assault-cases-filed.html#storylink=twt)
 

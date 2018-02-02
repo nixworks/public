@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/26/hashim-thaassi-is-elected-the-president-of-koso
 
 ### [2016-02-26](/news/2016/02/26/index.md)
 
+##### Hashim Thaci
 # Hashim Thaci is elected the President of Kosovo by the Parliament amid violent protests. 
 
 

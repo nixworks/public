@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/30/iris-mittenaere-winner-of-miss-france-2016-is-c
 
 ### [2017-01-30](/news/2017/01/30/index.md)
 
+##### Miss Universe 2016
 # Iris Mittenaere, winner of Miss France 2016, is crowned as the winner of Miss Universe 2016 at a ceremony in the Philippines. 
 
 
@@ -20,7 +21,7 @@ Formats: [HTML](/news/2017/01/30/iris-mittenaere-winner-of-miss-france-2016-is-c
 ### Related:
 
 1. [The Islamic State of Iraq and the Levant threatens to attack the Miss Universe 2016 pageant if it were to be held in the Philippines. ](/news/2016/08/9/the-islamic-state-of-iraq-and-the-levant-threatens-to-attack-the-miss-universe-2016-pageant-if-it-were-to-be-held-in-the-philippines.md) _Context: Miss Universe 2016, Philippines_
-2. [Human rights activists and opponents of Philippines president Rodrigo Duterte stage protests led by the Philippine Catholic Church against the ongoing drug crackdown that has killed thousands of people. ](/news/2017/11/5/human-rights-activists-and-opponents-of-philippines-president-rodrigo-duterte-stage-protests-led-by-the-philippine-catholic-church-against-t.md) _Context: Philippines_
-3. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: Philippines_
-4. [Flights are cancelled and evacuations are ordered for over 100,000 people in the North Central Coast of Vietnam, in preparation for Typhoon Doksuri. The system has already claimed four lives passing over the Philippines. ](/news/2017/09/14/flights-are-cancelled-and-evacuations-are-ordered-for-over-100-000-people-in-the-north-central-coast-of-vietnam-in-preparation-for-typhoon.md) _Context: Philippines_
-5. [In an unconfirmed video, the Islamic State of Iraq and the Levant instructs its followers to go and fight in the Philippines instead of the Middle East. ](/news/2017/09/12/in-an-unconfirmed-video-the-islamic-state-of-iraq-and-the-levant-instructs-its-followers-to-go-and-fight-in-the-philippines-instead-of-the.md) _Context: Philippines_
+2. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Philippines_
+3. [Journalists in the Philippines protest the government's decision to cancel the license of Rappler. ](/news/2018/01/19/journalists-in-the-philippines-protest-the-government-s-decision-to-cancel-the-license-of-rappler.md) _Context: Philippines_
+4. [The Mayon volcano begins to erupt in the Philippines. ](/news/2018/01/15/the-mayon-volcano-begins-to-erupt-in-the-philippines.md) _Context: Philippines_
+5. [Thirty-seven people, mostly call centre workers, are missing and presumed dead in a fire in the Davao City Mall in the Philippines. ](/news/2017/12/23/thirty-seven-people-mostly-call-centre-workers-are-missing-and-presumed-dead-in-a-fire-in-the-davao-city-mall-in-the-philippines.md) _Context: Philippines_

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/02/9/mountaineers-claim-to-have-found-in-the-andes-the-wreckage-of-lan-chile-flight-210-that-disappeared-in-august-1961-killing-24-people-on-boar.html)  [JSON](/news/2015/02/9/mountaineers-claim-to-have-found-in-the-andes-the-wreckage-of-lan-chile-flight-210-that-disappeared-in-august-1961-killing-24-people-on-boar.json)  [XML](/news/2015/02/9/mountaineers-claim-to-have-found-in-the-andes-the-wreckage-of-lan-chile-flight-210-that-disappeared-in-august-1961-killing-24-people-on-boar.xml)  
+
 ### [2015-02-9](/news/2015/02/9/index.md)
 
+##### Mountaineer
 # Mountaineers claim to have found in the Andes the wreckage of LAN Chile Flight 210 that disappeared in August 1961 killing 24 people on board including eight members and two coaches of the Club de Deportes Green Cross football team. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/americas/wreckage-of-chilean-plane-that-crashed-in-the-andes-54-years-ago-killing-24-people-found-by-mountaineers-10032951.html)
+1. [The Independent](https://www.independent.co.uk/news/world/americas/wreckage-of-chilean-plane-that-crashed-in-the-andes-54-years-ago-killing-24-people-found-by-mountaineers-10032951.html)
 
 ### Related:
 

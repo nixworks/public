@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/2/the-intergovernmental-panel-on-climate-change-publishes-its-fourth-assessment-report-concluding-that-global-climate-change-is-very-likely.html)  [JSON](/news/2007/02/2/the-intergovernmental-panel-on-climate-change-publishes-its-fourth-assessment-report-concluding-that-global-climate-change-is-very-likely.json)  [XML](/news/2007/02/2/the-intergovernmental-panel-on-climate-change-publishes-its-fourth-assessment-report-concluding-that-global-climate-change-is-very-likely.xml)  
+
 ### [2007-02-2](/news/2007/02/2/index.md)
 
+##### Intergovernmental Panel on Climate Change
 #  The Intergovernmental Panel on Climate Change publishes its fourth assessment report, concluding that global climate change is "very likely" to have a predominantly human cause. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/6321351.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/7/israel-evicts-jewish-settlers-from-hebron-a-dozen-religious-members-of-the-israeli-army-refuse-to-participate-and-are-sentenced-for-up-to.html)  [JSON](/news/2007/08/7/israel-evicts-jewish-settlers-from-hebron-a-dozen-religious-members-of-the-israeli-army-refuse-to-participate-and-are-sentenced-for-up-to.json)  [XML](/news/2007/08/7/israel-evicts-jewish-settlers-from-hebron-a-dozen-religious-members-of-the-israeli-army-refuse-to-participate-and-are-sentenced-for-up-to.xml)  
+
 ### [2007-08-7](/news/2007/08/7/index.md)
 
+##### Israel
 #  Israel evicts Jewish settlers from Hebron. A dozen religious members of the Israeli Army refuse to participate and are sentenced for up to a month in a military jail. 
 
 Israel has plunged into a bitter debate over the source of authority for many of its soldiers after a group of troops refused orders to evacuate hardline Jewish settlers in the occupied West Bank.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/08/08/1999203.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/2524712-1x1-700x700.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/31/michel-aoun-is-elected-president-of-lebanon-fol
 
 ### [2016-10-31](/news/2016/10/31/index.md)
 
+##### Lebanese presidential election, 2014-2016
 # Michel Aoun is elected President of Lebanon following 29 months of parliamentary deadlock to fill the position. 
 
 Former army chief Michel Aoun voted in as president, ending more than two years of deadlock surrounding the vacancy.

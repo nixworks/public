@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/4/two-trains-collide-near-us-highway-30-near-the-us-city-of-portland-oregon-causing-a-fire-and-necessitating-the-evacuation-of-nearby-reside.html)  [JSON](/news/2011/05/4/two-trains-collide-near-us-highway-30-near-the-us-city-of-portland-oregon-causing-a-fire-and-necessitating-the-evacuation-of-nearby-reside.json)  [XML](/news/2011/05/4/two-trains-collide-near-us-highway-30-near-the-us-city-of-portland-oregon-causing-a-fire-and-necessitating-the-evacuation-of-nearby-reside.xml)  
+
 ### [2011-05-4](/news/2011/05/4/index.md)
 
+##### US Highway 30
 # Two trains collide near US Highway 30 near the US city of Portland, Oregon, causing a fire and necessitating the evacuation of nearby residents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KGW](http://www.kgw.com/news/Derailment-on-US-30-creates-major-fire-121274234.html)
 

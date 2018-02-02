@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/16/the-sopranos-wins-the-primetime-emmy-award-for-outstanding-drama-series-in-the-primetime-emmy-awards.html)  [JSON](/news/2007/09/16/the-sopranos-wins-the-primetime-emmy-award-for-outstanding-drama-series-in-the-primetime-emmy-awards.json)  [XML](/news/2007/09/16/the-sopranos-wins-the-primetime-emmy-award-for-outstanding-drama-series-in-the-primetime-emmy-awards.xml)  
+
 ### [2007-09-16](/news/2007/09/16/index.md)
 
+##### The Sopranos
 #  "The Sopranos" wins the Primetime Emmy Award for Outstanding Drama Series in the Primetime Emmy Awards. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/news/tv--radio/emmy-awards-results/2007/09/17/1189881389554.html)
 

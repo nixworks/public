@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/10/colombian-president-juan-manuel-santos-receives
 
 ### [2016-12-10](/news/2016/12/10/index.md)
 
+##### 2016 Nobel Peace Prize
 # Colombian president Juan Manuel Santos receives his award in Oslo, Norway. 
 
 President to be awarded the prize for his efforts to bring the country’s more than 50-year-long civil war to an end.

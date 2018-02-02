@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/04/1/the-parliament-of-moldova-announces-that-the-country-will-hold-a-presidential-election-on-october-30-a-court-in-early-march-ruled-in-favor.html)  [JSON](/news/2016/04/1/the-parliament-of-moldova-announces-that-the-country-will-hold-a-presidential-election-on-october-30-a-court-in-early-march-ruled-in-favor.json)  [XML](/news/2016/04/1/the-parliament-of-moldova-announces-that-the-country-will-hold-a-presidential-election-on-october-30-a-court-in-early-march-ruled-in-favor.xml)  
+
 ### [2016-04-1](/news/2016/04/1/index.md)
 
+##### Moldovan presidential election
 # The Parliament of Moldova announces that the country will hold a Presidential election on October 30. A court in early March ruled in favor of having a direct national election to choose a president rather than a vote in parliament, a concession to protesters who have been demonstrating for months against the political elite. This will be the first time since 2001 that the public will choose their country's president directly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/moldova-presidential-election-october/27648588.html)
 

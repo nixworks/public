@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/09/4/german-authorities-arrest-three-people-for-planning-attacks-on-frankfurt-and-a-united-states-military-base-in-ramstein.html)  [JSON](/news/2007/09/4/german-authorities-arrest-three-people-for-planning-attacks-on-frankfurt-and-a-united-states-military-base-in-ramstein.json)  [XML](/news/2007/09/4/german-authorities-arrest-three-people-for-planning-attacks-on-frankfurt-and-a-united-states-military-base-in-ramstein.xml)  
+
 ### [2007-09-4](/news/2007/09/4/index.md)
 
+##### Frankfurt
 #  German authorities arrest three people for planning attacks on Frankfurt and a United States military base in Ramstein. 
 
 German security services foiled a plan by Islamist militants to carry out &quot;massive bomb attacks&quot; against U.S. installations in Germany and arrested three suspects, officials said on Wednesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSL0546383320070905)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070905&t=2&i=1657549&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-05T160419Z_01_L05463833_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSL0546383320070905)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070905&t=2&i=1657549&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-05T160419Z_01_L05463833_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

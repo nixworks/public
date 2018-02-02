@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/6/bernard-kouchner-the-french-minister-of-foreign-affairs-and-the-vatican-offer-to-assist-sakineh-mohammadi-ashtiani-sentenced-to-death-by-s.html)  [JSON](/news/2010/09/6/bernard-kouchner-the-french-minister-of-foreign-affairs-and-the-vatican-offer-to-assist-sakineh-mohammadi-ashtiani-sentenced-to-death-by-s.json)  [XML](/news/2010/09/6/bernard-kouchner-the-french-minister-of-foreign-affairs-and-the-vatican-offer-to-assist-sakineh-mohammadi-ashtiani-sentenced-to-death-by-s.xml)  
+
 ### [2010-09-6](/news/2010/09/6/index.md)
 
+##### Bernard Kouchner
 # Bernard Kouchner, the French Minister of Foreign Affairs, and the Vatican offer to assist Sakineh Mohammadi Ashtiani sentenced to death by stoning for adultery in Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-11203939)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

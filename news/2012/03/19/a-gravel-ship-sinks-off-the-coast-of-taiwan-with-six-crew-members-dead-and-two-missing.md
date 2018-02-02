@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/19/a-gravel-ship-sinks-off-the-coast-of-taiwan-with-six-crew-members-dead-and-two-missing.html)  [JSON](/news/2012/03/19/a-gravel-ship-sinks-off-the-coast-of-taiwan-with-six-crew-members-dead-and-two-missing.json)  [XML](/news/2012/03/19/a-gravel-ship-sinks-off-the-coast-of-taiwan-with-six-crew-members-dead-and-two-missing.xml)  
+
 ### [2012-03-19](/news/2012/03/19/index.md)
 
+##### Taiwan
 # A gravel ship sinks off the coast of Taiwan with six crew members dead and two missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Greenfields Reporter](http://www.greenfieldreporter.com/view/story/577195ae108d4d31b20d0ea32e95244e/AS--Taiwan-Sinking-Ship/)
 

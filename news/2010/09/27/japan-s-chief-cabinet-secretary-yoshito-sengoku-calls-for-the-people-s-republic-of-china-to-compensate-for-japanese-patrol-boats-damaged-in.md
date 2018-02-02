@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/27/japan-s-chief-cabinet-secretary-yoshito-sengoku-calls-for-the-people-s-republic-of-china-to-compensate-for-japanese-patrol-boats-damaged-in.html)  [JSON](/news/2010/09/27/japan-s-chief-cabinet-secretary-yoshito-sengoku-calls-for-the-people-s-republic-of-china-to-compensate-for-japanese-patrol-boats-damaged-in.json)  [XML](/news/2010/09/27/japan-s-chief-cabinet-secretary-yoshito-sengoku-calls-for-the-people-s-republic-of-china-to-compensate-for-japanese-patrol-boats-damaged-in.xml)  
+
 ### [2010-09-27](/news/2010/09/27/index.md)
 
+##### Japan
 # Japan's Chief Cabinet Secretary Yoshito Sengoku calls for the People's Republic of China to compensate for Japanese patrol boats damaged in a confrontation with a Chinese fishing boat in the East China Sea. 
 
 Tokyo tells Beijing to compensate it for patrol boats allegedly damaged in a collision off disputed islands.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7219372.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/09/20109276145288381.html)

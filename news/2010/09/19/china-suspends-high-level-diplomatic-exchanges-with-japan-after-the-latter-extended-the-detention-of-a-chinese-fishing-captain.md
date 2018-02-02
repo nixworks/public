@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/19/china-suspends-high-level-diplomatic-exchanges-with-japan-after-the-latter-extended-the-detention-of-a-chinese-fishing-captain.html)  [JSON](/news/2010/09/19/china-suspends-high-level-diplomatic-exchanges-with-japan-after-the-latter-extended-the-detention-of-a-chinese-fishing-captain.json)  [XML](/news/2010/09/19/china-suspends-high-level-diplomatic-exchanges-with-japan-after-the-latter-extended-the-detention-of-a-chinese-fishing-captain.xml)  
+
 ### [2010-09-19](/news/2010/09/19/index.md)
 
+##### China
 # China suspends high level diplomatic exchanges with Japan after the latter extended the detention of a Chinese fishing captain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11363024)
 2. [Nikkei](http://e.nikkei.com/e/fr/tnks/Nni20100919D19JFF06.htm)

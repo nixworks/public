@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/3/united-states-speaker-of-the-house-of-representatives-nancy-pelosi-travels-to-syria-for-talks-with-president-bashar-al-assad-as-she-continu.html)  [JSON](/news/2007/04/3/united-states-speaker-of-the-house-of-representatives-nancy-pelosi-travels-to-syria-for-talks-with-president-bashar-al-assad-as-she-continu.json)  [XML](/news/2007/04/3/united-states-speaker-of-the-house-of-representatives-nancy-pelosi-travels-to-syria-for-talks-with-president-bashar-al-assad-as-she-continu.xml)  
+
 ### [2007-04-3](/news/2007/04/3/index.md)
 
+##### United States Speaker of the House of Representatives
 #  United States Speaker of the House of Representatives Nancy Pelosi travels to Syria for talks with President Bashar al-Assad as she continues a visit to the Middle East disregarding the objections of the Bush administration. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6522743.stm)
 

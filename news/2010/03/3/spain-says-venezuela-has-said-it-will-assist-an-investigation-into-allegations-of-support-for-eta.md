@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/3/spain-says-venezuela-has-said-it-will-assist-an-investigation-into-allegations-of-support-for-eta.html)  [JSON](/news/2010/03/3/spain-says-venezuela-has-said-it-will-assist-an-investigation-into-allegations-of-support-for-eta.json)  [XML](/news/2010/03/3/spain-says-venezuela-has-said-it-will-assist-an-investigation-into-allegations-of-support-for-eta.xml)  
+
 ### [2010-03-3](/news/2010/03/3/index.md)
 
+##### Spain
 # Spain says Venezuela has said it will assist an investigation into allegations of support for ETA. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8547626.stm)
 

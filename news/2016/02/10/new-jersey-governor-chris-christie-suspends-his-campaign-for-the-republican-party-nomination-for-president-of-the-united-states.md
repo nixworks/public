@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/10/new-jersey-governor-chris-christie-suspends-his
 
 ### [2016-02-10](/news/2016/02/10/index.md)
 
+##### 2016 U.S. presidential election
 # New Jersey Governor Chris Christie suspends his campaign for the Republican Party nomination for President of the United States. 
 
 Republican Chris Christie drops out of the US presidential race after a disappointing finish in New Hampshire.

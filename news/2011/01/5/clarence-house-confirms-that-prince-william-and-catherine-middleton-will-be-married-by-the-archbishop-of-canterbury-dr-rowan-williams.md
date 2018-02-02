@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/5/clarence-house-confirms-that-prince-william-and-catherine-middleton-will-be-married-by-the-archbishop-of-canterbury-dr-rowan-williams.html)  [JSON](/news/2011/01/5/clarence-house-confirms-that-prince-william-and-catherine-middleton-will-be-married-by-the-archbishop-of-canterbury-dr-rowan-williams.json)  [XML](/news/2011/01/5/clarence-house-confirms-that-prince-william-and-catherine-middleton-will-be-married-by-the-archbishop-of-canterbury-dr-rowan-williams.xml)  
+
 ### [2011-01-5](/news/2011/01/5/index.md)
 
+##### Clarence House
 # Clarence House confirms that Prince William and Catherine Middleton will be married by the Archbishop of Canterbury, Dr Rowan Williams. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/UK-News/Royal-Wedding-Prince-William-And-Kate-Middleton-Reveal-Further-Details-Of-Their-Marriage-Ceremony/Article/201101115880470?lpos=UK_News_First_UK_News_Article_Teaser_Region_0&lid=ARTICLE_15880470_Royal_Wedding%3A_Prince_William_And_Kate_Middleton_Reveal_Further_Details_Of_Their_Marriage_Ceremony)
 

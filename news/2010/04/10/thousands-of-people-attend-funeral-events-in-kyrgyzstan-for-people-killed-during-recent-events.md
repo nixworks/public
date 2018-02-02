@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/10/thousands-of-people-attend-funeral-events-in-kyrgyzstan-for-people-killed-during-recent-events.html)  [JSON](/news/2010/04/10/thousands-of-people-attend-funeral-events-in-kyrgyzstan-for-people-killed-during-recent-events.json)  [XML](/news/2010/04/10/thousands-of-people-attend-funeral-events-in-kyrgyzstan-for-people-killed-during-recent-events.xml)  
+
 ### [2010-04-10](/news/2010/04/10/index.md)
 
+##### Kyrgyzstan
 # Thousands of people attend funeral events in Kyrgyzstan for people killed during recent events. 
 
 Thousands of mourners turned out Saturday for funerals for 15 of the people killed during the violent uprising in Kyrgyzstan.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8612812.stm)
 2. [CNEWS](http://cnews.canoe.ca/CNEWS/World/2010/04/10/13536021-reuters.html)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/16/the-opposition-cambodian-national-rescue-party-
 
 ### [2017-11-16](/news/2017/11/16/index.md)
 
+##### Politics of Cambodia
 # The opposition Cambodian National Rescue Party is dissolved by the Cambodian Supreme Court. 
 
 PM Hun Sen, who has ruled for decades, now faces no serious challenge ahead of elections next year.

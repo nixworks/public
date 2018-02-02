@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/23/daimlerchrysler-announces-it-will-no-longer-financially-support-mitsubishi-motors-and-will-try-to-sell-its-current-stake.html)  [JSON](/news/2004/04/23/daimlerchrysler-announces-it-will-no-longer-financially-support-mitsubishi-motors-and-will-try-to-sell-its-current-stake.json)  [XML](/news/2004/04/23/daimlerchrysler-announces-it-will-no-longer-financially-support-mitsubishi-motors-and-will-try-to-sell-its-current-stake.xml)  
+
 ### [2004-04-23](/news/2004/04/23/index.md)
 
+##### DaimlerChrysler
 #  DaimlerChrysler announces it will no longer financially support Mitsubishi Motors and will try to sell its current stake. 
 
 Mitsubishi group companies vowed yesterday to stick by struggling Mitsubishi Motors after Daimler-Chrysler said it had given up on the auto maker and would try to sell its 37 percent stake.
 
 
-### Source:
+### Sources:
 
 1. [Taipei Times](http://www.taipeitimes.com/News/worldbiz/archives/2004/04/24/2003137940)
 1. [Cover Image](http://www.taipeitimes.com/images/2004/04/24/thumbs/20040423180259.jpeg)

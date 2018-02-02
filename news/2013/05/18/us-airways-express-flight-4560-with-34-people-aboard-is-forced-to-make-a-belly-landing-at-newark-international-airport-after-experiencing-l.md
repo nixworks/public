@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/18/us-airways-express-flight-4560-with-34-people-aboard-is-forced-to-make-a-belly-landing-at-newark-international-airport-after-experiencing-l.html)  [JSON](/news/2013/05/18/us-airways-express-flight-4560-with-34-people-aboard-is-forced-to-make-a-belly-landing-at-newark-international-airport-after-experiencing-l.json)  [XML](/news/2013/05/18/us-airways-express-flight-4560-with-34-people-aboard-is-forced-to-make-a-belly-landing-at-newark-international-airport-after-experiencing-l.xml)  
+
 ### [2013-05-18](/news/2013/05/18/index.md)
 
+##### US Airways
 # US Airways Express Flight 4560, with 34 people aboard is forced to make a belly landing at Newark International Airport after experiencing landing gear trouble. No injuries are reported 
 
 A landing gear problem has forced a plane to make a belly landing at Newark International Airport.
 
 
-### Source:
+### Sources:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/Plane-belly-lands-in-NY-20130518)
 2. [CNN](http://edition.cnn.com/2013/05/18/us/new-jersey-us-airways-landing/index.html?hpt=hp_t3)

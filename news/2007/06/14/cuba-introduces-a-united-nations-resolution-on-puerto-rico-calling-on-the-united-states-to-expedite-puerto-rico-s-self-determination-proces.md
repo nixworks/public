@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/14/cuba-introduces-a-united-nations-resolution-on-puerto-rico-calling-on-the-united-states-to-expedite-puerto-rico-s-self-determination-proces.html)  [JSON](/news/2007/06/14/cuba-introduces-a-united-nations-resolution-on-puerto-rico-calling-on-the-united-states-to-expedite-puerto-rico-s-self-determination-proces.json)  [XML](/news/2007/06/14/cuba-introduces-a-united-nations-resolution-on-puerto-rico-calling-on-the-united-states-to-expedite-puerto-rico-s-self-determination-proces.xml)  
+
 ### [2007-06-14](/news/2007/06/14/index.md)
 
+##### Cuba
 #  Cuba introduces a United Nations resolution on Puerto Rico calling on the United States to expedite Puerto Rico's self-determination process; the text also requests the General Assembly to consider the question and urges cleanup of Vieques island and release of Puerto Rican political prisoners. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UN](http://www.un.org/News/Press/docs//2007/gacol3160.doc.htm)
 

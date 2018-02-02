@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/11/two-16-year-old-palestinians-are-shot-and-kille
 
 ### [2018-01-11](/news/2018/01/11/index.md)
 
+##### Israeli-Palestinian conflict
 # Two 16-year-old Palestinians are shot and killed in separate clashes with the Israeli army. 
 
 Two Palestinian teens were killed in clashes with the Israeli military on Thursday, Palestinian health officials said, in a wave of violence sparked last month when President Donald Trump recognized Jerusalem as Israel&rsquo;s capital.

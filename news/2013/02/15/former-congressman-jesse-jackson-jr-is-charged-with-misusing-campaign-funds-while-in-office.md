@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/02/15/former-congressman-jesse-jackson-jr-is-charged-with-misusing-campaign-funds-while-in-office.html)  [JSON](/news/2013/02/15/former-congressman-jesse-jackson-jr-is-charged-with-misusing-campaign-funds-while-in-office.json)  [XML](/news/2013/02/15/former-congressman-jesse-jackson-jr-is-charged-with-misusing-campaign-funds-while-in-office.xml)  
+
 ### [2013-02-15](/news/2013/02/15/index.md)
 
+##### Congressman
 # Former Congressman Jesse Jackson Jr. is charged with misusing campaign funds while in office. 
 
-Former congressman Jesse Jackson Jr. was charged Friday with misusing $750,000 in campaign funds.
+Jesse Jackson Jr. and his wife Sandi intend to plead guilty to federal charges alleging the former congressman misused $750,000 in campaign funds while she understated their income on&nbsp; tax...
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-jackson-charges-20130215,0,319725.story)
-2. [USA Today](http://www.usatoday.com/story/news/nation/2013/02/15/jesse-jackson-jr-guilty-investigation/1909149/)
-2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+2. [USA Today](https://www.usatoday.com/story/news/nation/2013/02/15/jesse-jackson-jr-guilty-investigation/1909149/)
+2. [Cover Image](http://www.trbimg.com/img-511e4a19/turbine/chi-jesse-jackson-jr-interview-20130215/600/600x447)
 
 ### Related:
 

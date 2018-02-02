@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/27/former-moldovan-prime-minister-vlad-filat-is-se
 
 ### [2016-06-27](/news/2016/06/27/index.md)
 
+##### Moldovan Prime Minister
 # Former Moldovan Prime Minister Vlad Filat is sentenced to prison for nine years after being found guilty of corruption and abuse of power. 
 
 

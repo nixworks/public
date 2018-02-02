@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/06/14/asafa-powell-breaks-the-world-record-in-the-100-meters-328-feet-1-inch-tuesday-with-a-9-77-clocking-at-the-athens-greece-olympic-stadiu.html)  [JSON](/news/2005/06/14/asafa-powell-breaks-the-world-record-in-the-100-meters-328-feet-1-inch-tuesday-with-a-9-77-clocking-at-the-athens-greece-olympic-stadiu.json)  [XML](/news/2005/06/14/asafa-powell-breaks-the-world-record-in-the-100-meters-328-feet-1-inch-tuesday-with-a-9-77-clocking-at-the-athens-greece-olympic-stadiu.xml)  
+
 ### [2005-06-14](/news/2005/06/14/index.md)
 
+##### Asafa Powell
 #  Asafa Powell breaks the world record in the 100 meters (328 feet, 1 inch) Tuesday with a 9.77 clocking at the Athens, Greece Olympic Stadium, making him the world's fastest human at 36.85 km-h (22.9 mi-h). 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://www.usatoday.com/sports/olympics/summer/track/2005-06-14-world-record-100_x.htm)
+1. [AP](https://www.usatoday.com/sports/olympics/summer/track/2005-06-14-world-record-100_x.htm)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/18/30-000-ivory-coast-residents-seriously-affected-by-the-dumping-of-toxic-waste-by-trafigura-which-according-to-the-united-nations-has-kil.html)  [JSON](/news/2009/09/18/30-000-ivory-coast-residents-seriously-affected-by-the-dumping-of-toxic-waste-by-trafigura-which-according-to-the-united-nations-has-kil.json)  [XML](/news/2009/09/18/30-000-ivory-coast-residents-seriously-affected-by-the-dumping-of-toxic-waste-by-trafigura-which-according-to-the-united-nations-has-kil.xml)  
+
 ### [2009-09-18](/news/2009/09/18/index.md)
 
+##### Ivory Coast
 #  30,000 Ivory Coast residents seriously affected by the dumping of toxic waste by Trafigura, which, according to the United Nations, has killed at least 15 people, say an undisclosed compensation deal offered by a London-based oil firm is not enough. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8261668.stm)
 

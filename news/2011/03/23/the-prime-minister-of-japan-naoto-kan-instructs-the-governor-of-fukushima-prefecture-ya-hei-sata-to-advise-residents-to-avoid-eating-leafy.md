@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/23/the-prime-minister-of-japan-naoto-kan-instructs-the-governor-of-fukushima-prefecture-ya-hei-sata-to-advise-residents-to-avoid-eating-leafy.html)  [JSON](/news/2011/03/23/the-prime-minister-of-japan-naoto-kan-instructs-the-governor-of-fukushima-prefecture-ya-hei-sata-to-advise-residents-to-avoid-eating-leafy.json)  [XML](/news/2011/03/23/the-prime-minister-of-japan-naoto-kan-instructs-the-governor-of-fukushima-prefecture-ya-hei-sata-to-advise-residents-to-avoid-eating-leafy.xml)  
+
 ### [2011-03-23](/news/2011/03/23/index.md)
 
+##### Prime Minister of Japan
 # The Prime Minister of Japan Naoto Kan instructs the Governor of Fukushima Prefecture Yuhei Sato to advise residents to avoid eating leafy vegetables, due to the Fukushima I nuclear accidents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyodo News](http://english.kyodonews.jp/news/2011/03/80354.html)
 

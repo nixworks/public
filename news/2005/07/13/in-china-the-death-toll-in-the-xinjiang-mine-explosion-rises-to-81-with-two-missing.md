@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/13/in-china-the-death-toll-in-the-xinjiang-mine-explosion-rises-to-81-with-two-missing.html)  [JSON](/news/2005/07/13/in-china-the-death-toll-in-the-xinjiang-mine-explosion-rises-to-81-with-two-missing.json)  [XML](/news/2005/07/13/in-china-the-death-toll-in-the-xinjiang-mine-explosion-rises-to-81-with-two-missing.xml)  
+
 ### [2005-07-13](/news/2005/07/13/index.md)
 
+##### China
 #  In China, the death toll in the Xinjiang mine explosion rises to 81, with two missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2005-07/13/content_3213794.htm)
 

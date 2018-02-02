@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/25/renault-driver-fernando-alonso-becomes-the-youngest-ever-formula-one-champion-when-finishing-3rd-behind-mclaren-rivals-juan-pablo-montoya-a.html)  [JSON](/news/2005/09/25/renault-driver-fernando-alonso-becomes-the-youngest-ever-formula-one-champion-when-finishing-3rd-behind-mclaren-rivals-juan-pablo-montoya-a.json)  [XML](/news/2005/09/25/renault-driver-fernando-alonso-becomes-the-youngest-ever-formula-one-champion-when-finishing-3rd-behind-mclaren-rivals-juan-pablo-montoya-a.xml)  
+
 ### [2005-09-25](/news/2005/09/25/index.md)
 
+##### Renault
 #  Renault driver Fernando Alonso becomes the youngest ever Formula One champion when finishing 3rd behind McLaren rivals Juan Pablo Montoya and Kimi Raikkonen in the 2005 Brazilian Grand Prix 
 
 
 
 
-### Source:
+### Sources:
 
 1. [F1Racing.net](http://www.f1racing.net/en/news.php?newsID=99343)
 

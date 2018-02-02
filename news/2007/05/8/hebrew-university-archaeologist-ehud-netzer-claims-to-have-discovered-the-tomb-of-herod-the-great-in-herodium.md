@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/8/hebrew-university-archaeologist-ehud-netzer-claims-to-have-discovered-the-tomb-of-herod-the-great-in-herodium.html)  [JSON](/news/2007/05/8/hebrew-university-archaeologist-ehud-netzer-claims-to-have-discovered-the-tomb-of-herod-the-great-in-herodium.json)  [XML](/news/2007/05/8/hebrew-university-archaeologist-ehud-netzer-claims-to-have-discovered-the-tomb-of-herod-the-great-in-herodium.xml)  
+
 ### [2007-05-8](/news/2007/05/8/index.md)
 
+##### Hebrew University of Jerusalem
 #  Hebrew University archaeologist Ehud Netzer claims to have discovered the tomb of Herod the Great in Herodium. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/WORLD/meast/05/07/israel.herodtomb.ap/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/22/india-s-most-advanced-insat-4a-telecommunication-satellite-is-successfully-launched-by-the-eads-space-transportation-generic-rocket-ariane.html)  [JSON](/news/2005/12/22/india-s-most-advanced-insat-4a-telecommunication-satellite-is-successfully-launched-by-the-eads-space-transportation-generic-rocket-ariane.json)  [XML](/news/2005/12/22/india-s-most-advanced-insat-4a-telecommunication-satellite-is-successfully-launched-by-the-eads-space-transportation-generic-rocket-ariane.xml)  
+
 ### [2005-12-22](/news/2005/12/22/index.md)
 
+##### India
 #  India's most advanced INSAT-4A telecommunication satellite is successfully launched by the EADS SPACE Transportation generic rocket, Ariane 5, from the spaceport of Kourou in French Guiana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4551638.stm)
 

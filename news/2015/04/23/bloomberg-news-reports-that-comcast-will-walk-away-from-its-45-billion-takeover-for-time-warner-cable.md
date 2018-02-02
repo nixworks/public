@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/04/23/bloomberg-news-reports-that-comcast-will-walk-away-from-its-45-billion-takeover-for-time-warner-cable.html)  [JSON](/news/2015/04/23/bloomberg-news-reports-that-comcast-will-walk-away-from-its-45-billion-takeover-for-time-warner-cable.json)  [XML](/news/2015/04/23/bloomberg-news-reports-that-comcast-will-walk-away-from-its-45-billion-takeover-for-time-warner-cable.xml)  
+
 ### [2015-04-23](/news/2015/04/23/index.md)
 
+##### Bloomberg News
 # Bloomberg News reports that Comcast will walk away from its $45 billion takeover for Time Warner Cable. 
 
 Fourteen months after unveiling a $45.2 billion merger that would create a new Internet and cable giant, Comcast Corp. is planning to walk away from its proposed takeover of Time Warner Cable Inc., people with knowledge of the matter said.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-04-23/comcast-said-planning-to-withdraw-offer-for-time-warner-cable)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2015-04-23/comcast-said-planning-to-withdraw-offer-for-time-warner-cable)
 1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-tech-7d25a852b6.jpg)
 
 ### Related:

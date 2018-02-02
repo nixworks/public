@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/1/a-gunman-opens-fire-in-paradise-nevada-at-the-ma
 
 ### [2017-10-1](/news/2017/10/1/index.md)
 
+##### 2017 Las Vegas shooting
 # A gunman opens fire in Paradise, Nevada, at the Mandalay Bay Resort and Casino from the upper floors down upon a Jason Aldean outdoor concert, with at least 59 people dead and 527 others injured. Authorities believe the lone gunman is dead. 
 
 In addition to the two fatalities, hospital officials said at least 24 people had been wounded after a gunman opened fire at a country music concert.
@@ -23,7 +24,7 @@ In addition to the two fatalities, hospital officials said at least 24 people ha
 
 ### Related:
 
-1. [ Gunman Lucas Stone held a hostage as he opened fire from a the eighth floor of a luxury high-rise Montage condominium onto the streets of Reno. Stone was killed in an officer-involved shooting after a SWAT team entered his barricaded condo. [http:--www.latimes.com-nation-nationnow-la-na-reno-shooting-20171128-story.html ("LA Times")] Investigators suggest the attack was not planned and as he did not hit or appear to be aiming at anyone on the street, the gunman may have been hallucinating. [http:--www.foxnews.com-us-2017-11-30-police-identify-reno-high-rise-gunman-killed-by-swat-team.html ("Fox News")][http:--www.mercurynews.com-2017-11-30-police-identify-reno-high-rise-gunman-killed-by-swat-team- ("Mercury News")] No terrorist or other motive was established in the incident which raised fears of another massacre like the 2017 Las Vegas shooting two months previous.](/news/2017/11/28/gunman-lucas-stone-held-a-hostage-as-he-opened-fire-from-a-the-eighth-floor-of-a-luxury-high-rise-montage-condominium-onto-the-streets-of-r.md) _Context: 2017 Las Vegas shooting_
+1. [Police in Reno, Nevada, kill a man after he held a hostage and opened fire from the eighth floor of a luxury high-rise condominium, in a scenario similar to the 2017 Las Vegas shooting two months earlier. No one was injured. ](/news/2017/11/28/police-in-reno-nevada-kill-a-man-after-he-held-a-hostage-and-opened-fire-from-the-eighth-floor-of-a-luxury-high-rise-condominium-in-a-sce.md) _Context: 2017 Las Vegas shooting_
 2. [The Luxor Hotel is placed on lockdown due to a bomb threat. ](/news/2017/10/2/the-luxor-hotel-is-placed-on-lockdown-due-to-a-bomb-threat.md) _Context: 2017 Las Vegas shooting_
 3. [The Latin Academy of Recording Arts and Sciences members present the Latin Grammy Awards at the MGM Grand Garden Arena in Paradise, Nevada. ](/news/2015/11/19/the-latin-academy-of-recording-arts-and-sciences-members-present-the-latin-grammy-awards-at-the-mgm-grand-garden-arena-in-paradise-nevada.md) _Context: Paradise, Nevada_
 4. [A car crash and shooting occurs at the Las Vegas Strip in Paradise, Nevada, United States. Three people are dead, and six others are wounded. ](/news/2013/02/21/a-car-crash-and-shooting-occurs-at-the-las-vegas-strip-in-paradise-nevada-united-states-three-people-are-dead-and-six-others-are-wounded.md) _Context: Paradise, Nevada_

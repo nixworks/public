@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/3/a-paramount-airlines-helicopter-crashes-in-sierra-leone-killing-22-people-with-reports-of-at-least-one-survivor.html)  [JSON](/news/2007/06/3/a-paramount-airlines-helicopter-crashes-in-sierra-leone-killing-22-people-with-reports-of-at-least-one-survivor.json)  [XML](/news/2007/06/3/a-paramount-airlines-helicopter-crashes-in-sierra-leone-killing-22-people-with-reports-of-at-least-one-survivor.xml)  
+
 ### [2007-06-3](/news/2007/06/3/index.md)
 
+##### Paramount Airlines
 #  A Paramount Airlines helicopter crashes in Sierra Leone, killing 22 people, with reports of at least one survivor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6715937.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L03681640.htm)

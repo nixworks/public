@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/23/pop-star-justin-bieber-is-arrested-for-drunken-driving-and-resisting-arrest.html)  [JSON](/news/2014/01/23/pop-star-justin-bieber-is-arrested-for-drunken-driving-and-resisting-arrest.json)  [XML](/news/2014/01/23/pop-star-justin-bieber-is-arrested-for-drunken-driving-and-resisting-arrest.xml)  
+
 ### [2014-01-23](/news/2014/01/23/index.md)
 
+##### Justin Bieber
 # Pop star Justin Bieber is arrested for drunken driving and resisting arrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/01/23/showbiz/justin-bieber-arrest/)
 

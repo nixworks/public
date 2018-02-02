@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/16/documents-released-to-the-american-civil-liberties-union-state-khalid-sheik-mohammed-testified-that-he-made-up-information-after-allegedly.html)  [JSON](/news/2009/06/16/documents-released-to-the-american-civil-liberties-union-state-khalid-sheik-mohammed-testified-that-he-made-up-information-after-allegedly.json)  [XML](/news/2009/06/16/documents-released-to-the-american-civil-liberties-union-state-khalid-sheik-mohammed-testified-that-he-made-up-information-after-allegedly.xml)  
+
 ### [2009-06-16](/news/2009/06/16/index.md)
 
+##### American Civil Liberties Union
 #  Documents released to the American Civil Liberties Union state Khalid Sheik Mohammed testified that he made up information after allegedly tortured by the CIA. 
 
 Khalid Sheik Mohammed said during a hearing at Guantanamo, Cuba, that he lied to the CIA while being questioned under torture, documents indicate.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/2009/06/16/Khalid-Mohammed-said-he-lied-to-CIA/UPI-43571245125851/)
 

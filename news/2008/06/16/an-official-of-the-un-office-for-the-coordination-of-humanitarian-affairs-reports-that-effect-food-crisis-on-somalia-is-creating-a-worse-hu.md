@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/16/an-official-of-the-un-office-for-the-coordination-of-humanitarian-affairs-reports-that-effect-food-crisis-on-somalia-is-creating-a-worse-hu.html)  [JSON](/news/2008/06/16/an-official-of-the-un-office-for-the-coordination-of-humanitarian-affairs-reports-that-effect-food-crisis-on-somalia-is-creating-a-worse-hu.json)  [XML](/news/2008/06/16/an-official-of-the-un-office-for-the-coordination-of-humanitarian-affairs-reports-that-effect-food-crisis-on-somalia-is-creating-a-worse-hu.xml)  
+
 ### [2008-06-16](/news/2008/06/16/index.md)
 
+##### Office for the Coordination of Humanitarian Affairs
 #  An official of the UN Office for the Coordination of Humanitarian Affairs reports that effect food crisis on Somalia is creating a worse humanitarian situation than the War in Darfur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7457974.stm)
 

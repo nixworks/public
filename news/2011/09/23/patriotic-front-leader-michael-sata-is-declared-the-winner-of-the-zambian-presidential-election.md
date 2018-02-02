@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/23/patriotic-front-leader-michael-sata-is-declared-the-winner-of-the-zambian-presidential-election.html)  [JSON](/news/2011/09/23/patriotic-front-leader-michael-sata-is-declared-the-winner-of-the-zambian-presidential-election.json)  [XML](/news/2011/09/23/patriotic-front-leader-michael-sata-is-declared-the-winner-of-the-zambian-presidential-election.xml)  
+
 ### [2011-09-23](/news/2011/09/23/index.md)
 
+##### Patriotic Front
 # Patriotic Front leader Michael Sata is declared the winner of the Zambian presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-15029463)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55537000/jpg/_55537534_012930783-1.jpg)

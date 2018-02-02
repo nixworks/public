@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/13/los-angeles-police-in-the-united-states-review-a-recording-of-actor-and-director-mel-gibson-allegedly-verbally-abusing-his-ex-girlfriend-ok.html)  [JSON](/news/2010/07/13/los-angeles-police-in-the-united-states-review-a-recording-of-actor-and-director-mel-gibson-allegedly-verbally-abusing-his-ex-girlfriend-ok.json)  [XML](/news/2010/07/13/los-angeles-police-in-the-united-states-review-a-recording-of-actor-and-director-mel-gibson-allegedly-verbally-abusing-his-ex-girlfriend-ok.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### Los Angeles Police Department
 # Los Angeles police in the United States review a recording of actor and director Mel Gibson allegedly verbally abusing his ex-girlfriend, Oksana Grigorieva. 
 
 US police say they are evaluating claims that Hollywood star Mel Gibson allegedly hit ex-girlfriend Oksana Grigorieva.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10610537.stm)
 2. [News24.com](http://www.news24.com/Entertainment/CelebNews/Mel-Gibson-rants-posted-online-20100713)

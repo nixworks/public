@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/20/moldova-s-parliament-approves-a-new-government-
 
 ### [2016-01-20](/news/2016/01/20/index.md)
 
+##### Moldova
 # Moldova's parliament approves a new government despite ongoing protests calling for snap elections. 
 
 

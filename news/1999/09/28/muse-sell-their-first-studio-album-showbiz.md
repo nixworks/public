@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/09/28/muse-sell-their-first-studio-album-showbiz.html)  [JSON](/news/1999/09/28/muse-sell-their-first-studio-album-showbiz.json)  [XML](/news/1999/09/28/muse-sell-their-first-studio-album-showbiz.xml)  
+
 ### [1999-09-28](/news/1999/09/28/index.md)
 
+##### Muse
 #  Muse sell their first studio album Showbiz.
 
 

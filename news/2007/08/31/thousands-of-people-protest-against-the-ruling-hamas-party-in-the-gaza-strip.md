@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/31/thousands-of-people-protest-against-the-ruling-hamas-party-in-the-gaza-strip.html)  [JSON](/news/2007/08/31/thousands-of-people-protest-against-the-ruling-hamas-party-in-the-gaza-strip.json)  [XML](/news/2007/08/31/thousands-of-people-protest-against-the-ruling-hamas-party-in-the-gaza-strip.xml)  
+
 ### [2007-08-31](/news/2007/08/31/index.md)
 
+##### Hamas
 #  Thousands of people protest against the ruling Hamas party in the Gaza Strip. 
 
 Thousands of people in Gaza have protested against the ruling Hamas movement during Friday prayers.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/01/2021272.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

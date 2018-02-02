@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/07/23/hijack-of-ana-flight-61-in-tokyo.html)  [JSON](/news/1999/07/23/hijack-of-ana-flight-61-in-tokyo.json)  [XML](/news/1999/07/23/hijack-of-ana-flight-61-in-tokyo.xml)  
+
 ### [1999-07-23](/news/1999/07/23/index.md)
 
+##### ANA Flight 61
 #  Hijack of ANA Flight 61 in Tokyo.
 
 

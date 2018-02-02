@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/6/lindsay-roy-of-the-scottish-labour-party-wins-the-glenrothes-by-election-despite-concerns-that-his-party-may-lose-the-seat-to-the-scottish.html)  [JSON](/news/2008/11/6/lindsay-roy-of-the-scottish-labour-party-wins-the-glenrothes-by-election-despite-concerns-that-his-party-may-lose-the-seat-to-the-scottish.json)  [XML](/news/2008/11/6/lindsay-roy-of-the-scottish-labour-party-wins-the-glenrothes-by-election-despite-concerns-that-his-party-may-lose-the-seat-to-the-scottish.xml)  
+
 ### [2008-11-6](/news/2008/11/6/index.md)
 
+##### Lindsay Roy
 #  Lindsay Roy of the Scottish Labour Party wins the Glenrothes by-election despite concerns that his party may lose the seat to the Scottish National Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/scotland/edinburgh_and_east/7710999.stm)
 

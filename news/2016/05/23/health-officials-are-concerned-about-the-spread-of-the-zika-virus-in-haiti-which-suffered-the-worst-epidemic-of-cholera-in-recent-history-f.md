@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/23/health-officials-are-concerned-about-the-spread
 
 ### [2016-05-23](/news/2016/05/23/index.md)
 
+##### 2015-16 Zika virus epidemic
 # Health officials are concerned about the spread of the Zika virus in Haiti, which suffered the worst epidemic of cholera in recent history following the deadly 2010 Haiti earthquake. The U.S. Centers for Disease Control and Prevention reports there are 2,214 suspected cases as of April 23. But new research indicates the virus has been present since 2014. The actual infection rate remains unknown since the poor, densely populated nation lacks routine data systems that can track and document disease outbreaks. 
 
 MIREBALAIS, Haiti (AP) — Berny Saint-Sauveur was moaning and incoherent when his family carried him into a hospital in central Haiti. He was unable to move, he later found out, because of an unusual paralysis syndrome…

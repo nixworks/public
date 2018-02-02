@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/31/foreign-journalists-based-in-china-and-taiwan-say-their-yahoo-email-accounts-have-been-hacked.html)  [JSON](/news/2010/03/31/foreign-journalists-based-in-china-and-taiwan-say-their-yahoo-email-accounts-have-been-hacked.json)  [XML](/news/2010/03/31/foreign-journalists-based-in-china-and-taiwan-say-their-yahoo-email-accounts-have-been-hacked.xml)  
+
 ### [2010-03-31](/news/2010/03/31/index.md)
 
+##### China
 # Foreign journalists based in China and Taiwan say their Yahoo email accounts have been hacked. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/technology/8596410.stm)
 2. [Radio Taiwan International](http://english.rti.org.tw/Content/GetSingleNews.aspx?ContentID=98944)

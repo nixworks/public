@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/20/an-official-of-murray-energy-corp-the-operators-of-the-crandall-canyon-mine-in-utah-say-that-six-trapped-miners-may-never-be-found-wi.html)  [JSON](/news/2007/08/20/an-official-of-murray-energy-corp-the-operators-of-the-crandall-canyon-mine-in-utah-say-that-six-trapped-miners-may-never-be-found-wi.json)  [XML](/news/2007/08/20/an-official-of-murray-energy-corp-the-operators-of-the-crandall-canyon-mine-in-utah-say-that-six-trapped-miners-may-never-be-found-wi.xml)  
+
 ### [2007-08-20](/news/2007/08/20/index.md)
 
+##### Murray Energy Corp
 #  An official of Murray Energy Corp, the operators of the Crandall Canyon mine in Utah, say that six trapped miners "may never be found". (Wikinews)
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/2/the-daily-telegraph-in-the-united-kingdom-claims-attempts-by-the-british-ministry-of-defence-mod-to-destroy-allegedly-important-documen.html)  [JSON](/news/2003/08/2/the-daily-telegraph-in-the-united-kingdom-claims-attempts-by-the-british-ministry-of-defence-mod-to-destroy-allegedly-important-documen.json)  [XML](/news/2003/08/2/the-daily-telegraph-in-the-united-kingdom-claims-attempts-by-the-british-ministry-of-defence-mod-to-destroy-allegedly-important-documen.xml)  
+
 ### [2003-08-2](/news/2003/08/2/index.md)
 
+##### Daily Telegraph
 #  The "Daily Telegraph" in the United Kingdom claims attempts by the British Ministry of Defence (MoD) to destroy allegedly important documents about its treatment of BBC source Dr. David Kelly in the weeks before his suicide were foiled by a security guard, who found the documents scheduled for destruction and called the police. The MoD insists the documents were not that important but will now be preserved and supplied to the Hutton Inquiry into the Kelly case.
 
 

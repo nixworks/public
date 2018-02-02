@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/06/15/at-least-23-people-are-killed-and-more-than-100-injured-in-suicide-attacks-on-police-headquarters-and-training-centers-by-suspected-boko-har.html)  [JSON](/news/2015/06/15/at-least-23-people-are-killed-and-more-than-100-injured-in-suicide-attacks-on-police-headquarters-and-training-centers-by-suspected-boko-har.json)  [XML](/news/2015/06/15/at-least-23-people-are-killed-and-more-than-100-injured-in-suicide-attacks-on-police-headquarters-and-training-centers-by-suspected-boko-har.xml)  
+
 ### [2015-06-15](/news/2015/06/15/index.md)
 
+##### Boko Haram
 # At least 23 people are killed and more than 100 injured in suicide attacks on police headquarters and training centers by suspected Boko Haram members in N'Djamena, Chad. 
 
+At least 23 people were killed in the bombings in Ndjamena, and the president’s office said the Nigerian terrorist group Boko Haram was to blame.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/06/16/world/africa/suicide-bombers-strike-chads-capital.html?_r=0)
+1. [New York Times](https://www.nytimes.com/2015/06/16/world/africa/suicide-bombers-strike-chads-capital.html?_r=0)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

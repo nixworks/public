@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/10/april-casburn-a-senior-detective-with-the-metropolitan-police-is-found-guilty-of-trying-to-sell-information-on-the-investigation-into-phone.html)  [JSON](/news/2013/01/10/april-casburn-a-senior-detective-with-the-metropolitan-police-is-found-guilty-of-trying-to-sell-information-on-the-investigation-into-phone.json)  [XML](/news/2013/01/10/april-casburn-a-senior-detective-with-the-metropolitan-police-is-found-guilty-of-trying-to-sell-information-on-the-investigation-into-phone.xml)  
+
 ### [2013-01-10](/news/2013/01/10/index.md)
 
+##### April Casburn
 # April Casburn, a senior detective with the Metropolitan Police is found guilty of trying to sell information on the investigation into phone hacking to the "News of the World", the newspaper at the centre of the scandal. 
 
 A senior Metropolitan Police detective is found guilty of trying to sell information on the phone-hacking probe to the tabloid at the centre of the scandal.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20976214)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65164000/jpg/_65164233_ggi747b8.jpg)

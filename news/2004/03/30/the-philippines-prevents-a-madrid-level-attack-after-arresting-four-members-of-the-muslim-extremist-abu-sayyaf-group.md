@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/30/the-philippines-prevents-a-madrid-level-attack-after-arresting-four-members-of-the-muslim-extremist-abu-sayyaf-group.html)  [JSON](/news/2004/03/30/the-philippines-prevents-a-madrid-level-attack-after-arresting-four-members-of-the-muslim-extremist-abu-sayyaf-group.json)  [XML](/news/2004/03/30/the-philippines-prevents-a-madrid-level-attack-after-arresting-four-members-of-the-muslim-extremist-abu-sayyaf-group.xml)  
+
 ### [2004-03-30](/news/2004/03/30/index.md)
 
+##### Philippines
 #  The Philippines prevents a "Madrid-level attack" after arresting four members of the Muslim extremist Abu Sayyaf group. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SFGate](http://sfgate.com/cgi-bin/article.cgi?f=/news/a/2004/03/30/international1147EST0595.DTL)
 

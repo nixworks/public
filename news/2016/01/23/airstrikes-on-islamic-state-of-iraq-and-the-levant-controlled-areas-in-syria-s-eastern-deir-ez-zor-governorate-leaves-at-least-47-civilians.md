@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/23/airstrikes-on-islamic-state-of-iraq-and-the-lev
 
 ### [2016-01-23](/news/2016/01/23/index.md)
 
+##### Syrian Civil War
 # Airstrikes on Islamic State of Iraq and the Levant-controlled areas in Syria's eastern Deir ez-Zor Governorate, leaves at least 47 civilians dead, according to the Syrian Observatory for Human Rights. 
 
 

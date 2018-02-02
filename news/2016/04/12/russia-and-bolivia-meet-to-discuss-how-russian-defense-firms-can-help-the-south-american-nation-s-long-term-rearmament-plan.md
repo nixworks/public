@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/12/russia-and-bolivia-meet-to-discuss-how-russian-
 
 ### [2016-04-12](/news/2016/04/12/index.md)
 
+##### Bolivia - Russia relations
 #  Russia and Bolivia meet to discuss how Russian defense firms can help the South American nation's long-term rearmament plan. 
 
 Bolivia is looking to Russian defense firms to revamp its aging military arsenal over the next decade.

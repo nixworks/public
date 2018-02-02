@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/23/macedonian-state-television-reports-that-14-migrants-died-after-being-hit-by-a-train-near-the-city-of-veles-while-travelling-through-the-bal.html)  [JSON](/news/2015/04/23/macedonian-state-television-reports-that-14-migrants-died-after-being-hit-by-a-train-near-the-city-of-veles-while-travelling-through-the-bal.json)  [XML](/news/2015/04/23/macedonian-state-television-reports-that-14-migrants-died-after-being-hit-by-a-train-near-the-city-of-veles-while-travelling-through-the-bal.xml)  
+
 ### [2015-04-23](/news/2015/04/23/index.md)
 
+##### Macedonian
 # Macedonian state television reports that 14 migrants died after being hit by a train near the city of Veles while travelling through the Balkans towards Western Europe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3053562/Migrants-hit-train-Macedonia-state-TV-says-14-dead.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490)
 

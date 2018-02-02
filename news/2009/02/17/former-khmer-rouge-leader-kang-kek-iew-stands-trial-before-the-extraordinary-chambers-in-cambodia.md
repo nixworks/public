@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/17/former-khmer-rouge-leader-kang-kek-iew-stands-trial-before-the-extraordinary-chambers-in-cambodia.html)  [JSON](/news/2009/02/17/former-khmer-rouge-leader-kang-kek-iew-stands-trial-before-the-extraordinary-chambers-in-cambodia.json)  [XML](/news/2009/02/17/former-khmer-rouge-leader-kang-kek-iew-stands-trial-before-the-extraordinary-chambers-in-cambodia.xml)  
+
 ### [2009-02-17](/news/2009/02/17/index.md)
 
+##### Khmer Rouge
 #  Former Khmer Rouge leader Kang Kek Iew stands trial before the Extraordinary Chambers in Cambodia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/02/16/cambodia.genocide/index.html)
 

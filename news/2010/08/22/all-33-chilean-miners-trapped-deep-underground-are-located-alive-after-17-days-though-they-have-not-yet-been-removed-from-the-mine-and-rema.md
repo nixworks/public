@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/22/all-33-chilean-miners-trapped-deep-underground-are-located-alive-after-17-days-though-they-have-not-yet-been-removed-from-the-mine-and-rema.html)  [JSON](/news/2010/08/22/all-33-chilean-miners-trapped-deep-underground-are-located-alive-after-17-days-though-they-have-not-yet-been-removed-from-the-mine-and-rema.json)  [XML](/news/2010/08/22/all-33-chilean-miners-trapped-deep-underground-are-located-alive-after-17-days-though-they-have-not-yet-been-removed-from-the-mine-and-rema.xml)  
+
 ### [2010-08-22](/news/2010/08/22/index.md)
 
+##### Chile
 # All 33 Chilean miners trapped deep underground are located alive after 17 days, though they have not yet been removed from the mine and remain trapped. 
 
 Thirty-three&#x20;Chilean&#x20;miners&#x20;trapped&#x20;more&#x20;than&#x20;two&#x20;weeks&#x20;underground&#x20;sent&#x20;up&#x20;a&#x20;message&#x20;tied&#x20;to&#x20;a&#x20;drill&#x20;that&#x20;said&#x20;they&#x20;were&#x20;all&#x20;alive.&#x20;President&#x20;Pinera&#x20;said&#x20;he&#x20;was&#x20;hopeful&#x20;of&#x20;a&#x20;&quot;happy&#x20;ending&quot;,&#x20;even&#x20;though&#x20;it&#x20;would&#x20;take&#x20;months&#x20;to&#x20;get&#x20;them&#x20;out.
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5i075ahoJZZkuwcSyRJcUkUDZKuFQD9HOOM6G0)
 2. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010822202238700399.html)

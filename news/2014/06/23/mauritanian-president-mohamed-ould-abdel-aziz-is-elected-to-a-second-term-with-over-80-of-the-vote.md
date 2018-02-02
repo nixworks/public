@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/23/mauritanian-president-mohamed-ould-abdel-aziz-is-elected-to-a-second-term-with-over-80-of-the-vote.html)  [JSON](/news/2014/06/23/mauritanian-president-mohamed-ould-abdel-aziz-is-elected-to-a-second-term-with-over-80-of-the-vote.json)  [XML](/news/2014/06/23/mauritanian-president-mohamed-ould-abdel-aziz-is-elected-to-a-second-term-with-over-80-of-the-vote.xml)  
+
 ### [2014-06-23](/news/2014/06/23/index.md)
 
+##### Mauritanian
 # Mauritanian President Mohamed Ould Abdel Aziz is elected to a second term with over 80% of the vote. 
 
 Mauritanian President Mohamed Ould Abdel Aziz has won another five-year term with 82 percent of the vote, officials said on Sunday, after an election boycotted by most of the opposition.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2014/06/22/uk-mauritania-election-idUKKBN0EX14F20140622)
 1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140622&t=2&i=910628925&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5L0JU)

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2015/04/9/the-regional-branch-of-the-communist-party-of-china-in-tibet-demands-that-buddhist-monasteries-display-the-chinese-flag-in-an-effort-to-shor.html)  [JSON](/news/2015/04/9/the-regional-branch-of-the-communist-party-of-china-in-tibet-demands-that-buddhist-monasteries-display-the-chinese-flag-in-an-effort-to-shor.json)  [XML](/news/2015/04/9/the-regional-branch-of-the-communist-party-of-china-in-tibet-demands-that-buddhist-monasteries-display-the-chinese-flag-in-an-effort-to-shor.xml)  
+
 ### [2015-04-9](/news/2015/04/9/index.md)
 
+##### Communist Party of China
 # The regional branch of the Communist Party of China in Tibet demands that Buddhist monasteries display the Chinese flag in an effort to shore up Chinese rule. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/1f00e5f201e64280b0d05117502af153/tibet-chief-demands-monasteries-display-chinese-flags)
 
 ### Related:
 
-1. [Sun Zhengcai is expelled from the Communist Party of China after the results into the internal disciplinary investigation are announced by the Central Commission for Discipline Inspection. ](/news/2017/09/29/sun-zhengcai-is-expelled-from-the-communist-party-of-china-after-the-results-into-the-internal-disciplinary-investigation-are-announced-by-t.md) _Context: Communist Party of China_
-2. [The 19th National Congress of the Communist Party of China is expected to start on October 18, 2017. ](/news/2017/08/31/the-19th-national-congress-of-the-communist-party-of-china-is-expected-to-start-on-october-18-2017.md) _Context: Communist Party of China_
-3. [A mob of at least a hundred Rakhine Buddhists in Sittwe, Rakhine State, Myanmar, attack seven Rohingya men from Dapaing Camp for internally displaced persons, killing one and severely injuring another. The Rohingya men were being escorted by police to Sittwe's docks to purchase boats, but were attacked despite armed guards being present. ](/news/2017/07/4/a-mob-of-at-least-a-hundred-rakhine-buddhists-in-sittwe-rakhine-state-myanmar-attack-seven-rohingya-men-from-dapaing-camp-for-internally.md) _Context: Buddhists_
-4. [Scientists at the Chinese Academy of Sciences successfully teleport a photon from a ground station in Tibet to a satellite orbiting Earth at distance of 500km away. It is the first time an object has been teleported from the planet into space. ](/news/2017/07/11/scientists-at-the-chinese-academy-of-sciences-successfully-teleport-a-photon-from-a-ground-station-in-tibet-to-a-satellite-orbiting-earth-at.md) _Context: Tibet_
-5. [Reports emerge of the Australian Security Intelligence Organisation's discovery of classified Australian documents, related to Chinese intelligence activity abroad, in the Canberra home of a woman allegedly acting on behalf of the Communist Party of China. ](/news/2017/06/5/reports-emerge-of-the-australian-security-intelligence-organisation-s-discovery-of-classified-australian-documents-related-to-chinese-intel.md) _Context: Communist Party of China_
+1. [Citing a national "fervor", the Communist Party of China proposes writing the Xi Jinping Thought into the state constitution, after it was already added to the party constitution. ](/news/2018/01/19/citing-a-national-fervor-the-communist-party-of-china-proposes-writing-the-xi-jinping-thought-into-the-state-constitution-after-it-was-a.md) _Context: Communist Party of China_
+2. [General Secretary of the Communist Party of China Xi Jinping concludes a two-day "high-level dialogue" with party leaders from 120 countries. The program he announces includes the full funding by the Communist Party of China of 15,000 visits from foreign party leaders over the next five years "to deepen exchanges". ](/news/2017/12/3/general-secretary-of-the-communist-party-of-china-xi-jinping-concludes-a-two-day-high-level-dialogue-with-party-leaders-from-120-countries.md) _Context: Communist Party of China_
+3. [At the National Congress of the Communist Party of China, Xi Jinping assumes his second term as General Secretary (China's paramount leader), and the political theory Xi Jinping Thought is written into the party's constitution. ](/news/2017/10/25/at-the-national-congress-of-the-communist-party-of-china-xi-jinping-assumes-his-second-term-as-general-secretary-china-s-paramount-leader.md) _Context: Communist Party of China_
+4. [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md) _Context: Communist Party of China_
+5. [ China's leader and Party General Secretary Xi Jinping addresses more than 2,000 delegates in Beijing. The congress is expected to finish next week. ](/news/2017/10/18/china-s-leader-and-party-general-secretary-xi-jinping-addresses-more-than-2-000-delegates-in-beijing-the-congress-is-expected-to-finish-ne.md) _Context: Communist Party of China_

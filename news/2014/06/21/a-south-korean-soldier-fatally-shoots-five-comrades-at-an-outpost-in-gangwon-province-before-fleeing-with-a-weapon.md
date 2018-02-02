@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/21/a-south-korean-soldier-fatally-shoots-five-comrades-at-an-outpost-in-gangwon-province-before-fleeing-with-a-weapon.html)  [JSON](/news/2014/06/21/a-south-korean-soldier-fatally-shoots-five-comrades-at-an-outpost-in-gangwon-province-before-fleeing-with-a-weapon.json)  [XML](/news/2014/06/21/a-south-korean-soldier-fatally-shoots-five-comrades-at-an-outpost-in-gangwon-province-before-fleeing-with-a-weapon.xml)  
+
 ### [2014-06-21](/news/2014/06/21/index.md)
 
+##### South Korean army
 # A South Korean soldier fatally shoots five comrades at an outpost in Gangwon Province before fleeing with a weapon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-27957588)
 1. [Cover Image](http://news.bbcimg.co.uk/media/images/75714000/jpg/_75714452_75714341.jpg)

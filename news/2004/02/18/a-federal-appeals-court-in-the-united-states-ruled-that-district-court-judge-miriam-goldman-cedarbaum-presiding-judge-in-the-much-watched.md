@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/18/a-federal-appeals-court-in-the-united-states-ruled-that-district-court-judge-miriam-goldman-cedarbaum-presiding-judge-in-the-much-watched.html)  [JSON](/news/2004/02/18/a-federal-appeals-court-in-the-united-states-ruled-that-district-court-judge-miriam-goldman-cedarbaum-presiding-judge-in-the-much-watched.json)  [XML](/news/2004/02/18/a-federal-appeals-court-in-the-united-states-ruled-that-district-court-judge-miriam-goldman-cedarbaum-presiding-judge-in-the-much-watched.xml)  
+
 ### [2004-02-18](/news/2004/02/18/index.md)
 
+##### Miriam Goldman Cedarbaum
 #  A federal appeals court in the United States ruled that district court judge Miriam Goldman Cedarbaum, presiding judge in the much-watched Martha Stewart trial, was in the wrong in barring the media from the voir dire process at the beginning of that trial. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.mediainfo.com/eandp/news/article_display.jsp?vnu_content_id=2093737)
 1. [Cover Image](http://www.geneza.com/sites/geneza.com/files/logo-opengraph.png)

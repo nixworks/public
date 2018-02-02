@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2010/05/16/airspace-in-ireland-is-closed-down-again-due-to-the-icelandic-volcanic-eruptions.html)  [JSON](/news/2010/05/16/airspace-in-ireland-is-closed-down-again-due-to-the-icelandic-volcanic-eruptions.json)  [XML](/news/2010/05/16/airspace-in-ireland-is-closed-down-again-due-to-the-icelandic-volcanic-eruptions.xml)  
+
 ### [2010-05-16](/news/2010/05/16/index.md)
 
+##### Ireland
 # Airspace in Ireland is closed down again due to the Icelandic volcanic eruptions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8684540.stm)
 
 ### Related:
 
-1. [Iceland will vote for a new Althingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-ala3-4ingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md) _Context: Iceland_
-2. [The woman whose remains were found scattered along the Military Road in Wicklow, Ireland was named locally today as Patricia O'Connor, a 61 year old from Rathfarnham. A man was arrested in connection with this on Tuesday. ](/news/2017/06/14/the-woman-whose-remains-were-found-scattered-along-the-military-road-in-wicklow-ireland-was-named-locally-today-as-patricia-o-connor-a-61.md) _Context: Ireland_
-3. [The World Meteorological Organization (WMO) confirms a 19-meter wave (62.4 feet) recorded on 4 February 2013 in the Atlantic Ocean between Iceland and the United Kingdom is the largest ever on record. ](/news/2016/12/13/the-world-meteorological-organization-wmo-confirms-a-19-meter-wave-62-4-feet-recorded-on-4-february-2013-in-the-atlantic-ocean-between-i.md) _Context: Iceland_
-4. [Avian flu virus H5N8 outbreaks are reported in birds in India, Germany, Finland, Ireland, the Netherlands, and several other European nations. The World Health Organization advised on 17 November that human infection is possible, but unlikely, based on information available. ](/news/2016/11/26/avian-flu-virus-h5n8-outbreaks-are-reported-in-birds-in-india-germany-finland-ireland-the-netherlands-and-several-other-european-nation.md) _Context: Ireland_
-5. [Iceland's incumbent, centre-right Independence Party surprised pollsters by winning 29 percent of the vote (21 seats), thereby putting leader Bjarni Benediktsson in position to organize another coalition government. The Progressive Party, the current ruling partner, garnered 11.5% and eight positions, a loss of 11 seats. The new Pirate Party didn't perform as predicted with 14.5% of the ballots, though it did get 10 seats, an increase of seven more positions in the 63-seat parliament (Althing). ](/news/2016/10/30/icelandas-incumbent-centre-right-independence-party-surprised-pollsters-by-winning-29-percent-of-the-vote-21-seats-thereby-putting-lea.md) _Context: Iceland_
+1. [A new Icelandic law goes into effect which requires government agencies and companies with more than 24 full-time employees to prove they are paying men and women equally, as required by existing legislation. ](/news/2018/01/3/a-new-icelandic-law-goes-into-effect-which-requires-government-agencies-and-companies-with-more-than-24-full-time-employees-to-prove-they-ar.md) _Context: Iceland_
+2. [Twenty-three European Union countries sign a defence integration pact known as the Permanent Structured Cooperation. NATO members Denmark, Portugal and the United Kingdom (withdrawal from EU underway), and non-NATO members Malta and Ireland, opt out. ](/news/2017/11/13/twenty-three-european-union-countries-sign-a-defence-integration-pact-known-as-the-permanent-structured-cooperation-nato-members-denmark-p.md) _Context: Ireland_
+3. [Voters in Iceland go to the polls to elect 63 members of the Althing. ](/news/2017/10/28/voters-in-iceland-go-to-the-polls-to-elect-63-members-of-the-althing.md) _Context: Iceland_
+4. [Storm Brian, the third windstorm of the season, causes severe flash flooding in Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.md) _Context: Ireland_
+5. [Iceland will vote for a new Althingi (parliament) on November 4 after the collapse of the previous government. ](/news/2017/09/16/iceland-will-vote-for-a-new-ala3-4ingi-parliament-on-november-4-after-the-collapse-of-the-previous-government.md) _Context: Iceland_

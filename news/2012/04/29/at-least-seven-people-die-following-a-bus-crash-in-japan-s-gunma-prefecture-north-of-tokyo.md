@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/29/at-least-seven-people-die-following-a-bus-crash-in-japan-s-gunma-prefecture-north-of-tokyo.html)  [JSON](/news/2012/04/29/at-least-seven-people-die-following-a-bus-crash-in-japan-s-gunma-prefecture-north-of-tokyo.json)  [XML](/news/2012/04/29/at-least-seven-people-die-following-a-bus-crash-in-japan-s-gunma-prefecture-north-of-tokyo.xml)  
+
 ### [2012-04-29](/news/2012/04/29/index.md)
 
+##### Japan
 # At least seven people die following a bus crash in Japan's Gunma Prefecture north of Tokyo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NHK World](http://www3.nhk.or.jp/daily/english/20120429_07.html)
 

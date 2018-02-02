@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/1/a-ship-carrying-100-tons-of-hydrochloric-acid-sinks-in-a-section-of-the-yangtze-river-in-china-s-central-hubei-province-after-colliding-wit.html)  [JSON](/news/2009/11/1/a-ship-carrying-100-tons-of-hydrochloric-acid-sinks-in-a-section-of-the-yangtze-river-in-china-s-central-hubei-province-after-colliding-wit.json)  [XML](/news/2009/11/1/a-ship-carrying-100-tons-of-hydrochloric-acid-sinks-in-a-section-of-the-yangtze-river-in-china-s-central-hubei-province-after-colliding-wit.xml)  
+
 ### [2009-11-1](/news/2009/11/1/index.md)
 
+##### hydrochloric acid
 #  A ship carrying 100 tons of hydrochloric acid sinks in a section of the Yangtze River in China's central Hubei province after colliding with another vessel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i3LmRCjNw0s5eH5tjlKRrbbq0dNw)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-11/01/content_12369480.htm)

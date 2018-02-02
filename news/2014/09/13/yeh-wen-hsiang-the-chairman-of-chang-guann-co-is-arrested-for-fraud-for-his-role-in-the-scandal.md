@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/13/yeh-wen-hsiang-the-chairman-of-chang-guann-co-is-arrested-for-fraud-for-his-role-in-the-scandal.html)  [JSON](/news/2014/09/13/yeh-wen-hsiang-the-chairman-of-chang-guann-co-is-arrested-for-fraud-for-his-role-in-the-scandal.json)  [XML](/news/2014/09/13/yeh-wen-hsiang-the-chairman-of-chang-guann-co-is-arrested-for-fraud-for-his-role-in-the-scandal.xml)  
+
 ### [2014-09-13](/news/2014/09/13/index.md)
 
+##### 
 # Yeh Wen-hsiang, the chairman of Chang Guann Co, is arrested for fraud for his role in the scandal. 
 
 The head of a Taiwanese company at the centre of a widening food safety scandal has been detained for selling hundreds of tonnes of &quot;gutter oil&quot; that caused mass product recalls, authorities said Saturday.
 
 
-### Source:
+### Sources:
 
 1. [AFP via SBA](http://www.sbs.com.au/news/article/2014/09/13/taiwan-executive-detained-gutter-oil-food-safety-scandal-deepens)
 1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/20140909001027573233-original.jpg)

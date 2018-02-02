@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/12/13/leaders-of-north-and-south-sudan-reach-a-deal-on-a-referendum-for-the-south-s-independence-in-2011.html)  [JSON](/news/2009/12/13/leaders-of-north-and-south-sudan-reach-a-deal-on-a-referendum-for-the-south-s-independence-in-2011.json)  [XML](/news/2009/12/13/leaders-of-north-and-south-sudan-reach-a-deal-on-a-referendum-for-the-south-s-independence-in-2011.xml)  
+
 ### [2009-12-13](/news/2009/12/13/index.md)
 
+##### Sudan
 #  Leaders of north and south Sudan reach a deal on a referendum for the south's independence in 2011. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i9vZt7lSvJwUrvvYi6or41MWQMTw)
-2. [Reuters](http://www.reuters.com/article/idUSTRE5BC0I920091213)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/idUSTRE5BC0I920091213)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/12/17/spanish-energy-company-repsol-acquires-canadian-energy-producer-talisman-energy-for-13-billion-including-debt.html)  [JSON](/news/2014/12/17/spanish-energy-company-repsol-acquires-canadian-energy-producer-talisman-energy-for-13-billion-including-debt.json)  [XML](/news/2014/12/17/spanish-energy-company-repsol-acquires-canadian-energy-producer-talisman-energy-for-13-billion-including-debt.xml)  
+
 ### [2014-12-17](/news/2014/12/17/index.md)
 
+##### Repsol
 # Spanish energy company Repsol acquires Canadian energy producer Talisman Energy for $13 billion including debt. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/12/16/talisman-ma-repsol-idUSL6N0TZ2QF20141216)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/12/16/talisman-ma-repsol-idUSL6N0TZ2QF20141216)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

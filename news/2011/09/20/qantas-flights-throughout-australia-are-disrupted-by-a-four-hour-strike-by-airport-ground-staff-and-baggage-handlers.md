@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/20/qantas-flights-throughout-australia-are-disrupted-by-a-four-hour-strike-by-airport-ground-staff-and-baggage-handlers.html)  [JSON](/news/2011/09/20/qantas-flights-throughout-australia-are-disrupted-by-a-four-hour-strike-by-airport-ground-staff-and-baggage-handlers.json)  [XML](/news/2011/09/20/qantas-flights-throughout-australia-are-disrupted-by-a-four-hour-strike-by-airport-ground-staff-and-baggage-handlers.xml)  
+
 ### [2011-09-20](/news/2011/09/20/index.md)
 
+##### Qantas
 # Qantas flights throughout Australia are disrupted by a four-hour strike by airport ground staff and baggage handlers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/travel/travel-news/live-blog-qantas-strike-grounds-delays-flights-across-the-country-20110920-1kieo.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/18/mexico-s-national-human-rights-commission-says-
 
 ### [2016-08-18](/news/2016/08/18/index.md)
 
+##### National Human Rights Commission
 # Mexico's National Human Rights Commission says 22 people were executed by federal police during the 2015 Ecuandureo shootout in the western state of Michoacan last year. 
 
 

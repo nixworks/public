@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/5/president-of-the-united-states-barack-obama-announces-plans-via-secretary-of-energy-steven-chu-that-additional-solar-panels-will-be-installe.html)  [JSON](/news/2010/10/5/president-of-the-united-states-barack-obama-announces-plans-via-secretary-of-energy-steven-chu-that-additional-solar-panels-will-be-installe.json)  [XML](/news/2010/10/5/president-of-the-united-states-barack-obama-announces-plans-via-secretary-of-energy-steven-chu-that-additional-solar-panels-will-be-installe.xml)  
+
 ### [2010-10-5](/news/2010/10/5/index.md)
 
+##### U.S. President
 # President of the United States Barack Obama announces plans via Secretary of Energy Steven Chu that additional solar panels will be installed at the White House, while the founder of Sungevity plans to install solar panels at the private official residence of President of the Maldives Mohamed Nasheed for the "Global Work Party" event planned by 350. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Asian Tribune](http://www.asiantribune.com/news/2010/09/29/climate-conscious-maldives-prez-adopt-solar-energy)
 2. [The Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iMUnrmqM-z3tMC3a3JZRFIqrJKHQD9ILKU4O0)

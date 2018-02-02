@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/3/a-roadside-bomb-strikes-a-civilian-car-in-paktika-province-in-eastern-afghanistan-leaving-seven-civilians-dead.html)  [JSON](/news/2010/10/3/a-roadside-bomb-strikes-a-civilian-car-in-paktika-province-in-eastern-afghanistan-leaving-seven-civilians-dead.json)  [XML](/news/2010/10/3/a-roadside-bomb-strikes-a-civilian-car-in-paktika-province-in-eastern-afghanistan-leaving-seven-civilians-dead.xml)  
+
 ### [2010-10-3](/news/2010/10/3/index.md)
 
+##### Paktika Province
 # A roadside bomb strikes a civilian car in Paktika Province, in eastern Afghanistan, leaving seven civilians dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/03/c_13540993.htm)
 

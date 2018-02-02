@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.html)  [JSON](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.json)  [XML](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.xml)  
+
 ### [2017-09-29](/news/2017/09/29/index.md)
 
+##### Iraqi Kurdistan independence referendum, 2017
 # Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban "illegal". 
 
 The decision comes as pressure mounts after a decisive “Yes” vote in an independence referendum.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-41440747)
 1. [Cover Image](https://ichef.bbci.co.uk/images/ic/1024x576/p05hkxyf.jpg)

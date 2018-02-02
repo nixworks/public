@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/23/the-dominican-republic-officially-registers-its-first-cholera-death-since-the-launch-of-the-2010-haiti-cholera-outbreak.html)  [JSON](/news/2011/01/23/the-dominican-republic-officially-registers-its-first-cholera-death-since-the-launch-of-the-2010-haiti-cholera-outbreak.json)  [XML](/news/2011/01/23/the-dominican-republic-officially-registers-its-first-cholera-death-since-the-launch-of-the-2010-haiti-cholera-outbreak.xml)  
+
 ### [2011-01-23](/news/2011/01/23/index.md)
 
+##### Dominican Republic
 # The Dominican Republic officially registers its first cholera death since the launch of the 2010 Haiti cholera outbreak. 
 
 The Dominican Republic confirms a Haitian man is the first to die of cholera in the country since an epidemic broke out in neighbouring Haiti.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-12263115)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

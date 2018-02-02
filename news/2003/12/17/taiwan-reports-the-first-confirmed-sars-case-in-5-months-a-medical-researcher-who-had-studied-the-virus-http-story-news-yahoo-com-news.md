@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/17/taiwan-reports-the-first-confirmed-sars-case-in-5-months-a-medical-researcher-who-had-studied-the-virus-http-story-news-yahoo-com-news.html)  [JSON](/news/2003/12/17/taiwan-reports-the-first-confirmed-sars-case-in-5-months-a-medical-researcher-who-had-studied-the-virus-http-story-news-yahoo-com-news.json)  [XML](/news/2003/12/17/taiwan-reports-the-first-confirmed-sars-case-in-5-months-a-medical-researcher-who-had-studied-the-virus-http-story-news-yahoo-com-news.xml)  
+
 ### [2003-12-17](/news/2003/12/17/index.md)
 
+##### Taiwan
 #  Taiwan reports the first confirmed SARS case in 5 months, a medical researcher who had studied the virus. [http:--story.news.yahoo.com-news?tmpl=story&cid=624&ncid=753&e=10&u=-ap-20031217-ap_on_sc-taiwan_sars]
 
 

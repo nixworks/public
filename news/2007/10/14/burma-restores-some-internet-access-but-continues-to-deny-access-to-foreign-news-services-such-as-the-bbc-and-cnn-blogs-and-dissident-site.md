@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/14/burma-restores-some-internet-access-but-continues-to-deny-access-to-foreign-news-services-such-as-the-bbc-and-cnn-blogs-and-dissident-site.html)  [JSON](/news/2007/10/14/burma-restores-some-internet-access-but-continues-to-deny-access-to-foreign-news-services-such-as-the-bbc-and-cnn-blogs-and-dissident-site.json)  [XML](/news/2007/10/14/burma-restores-some-internet-access-but-continues-to-deny-access-to-foreign-news-services-such-as-the-bbc-and-cnn-blogs-and-dissident-site.xml)  
+
 ### [2007-10-14](/news/2007/10/14/index.md)
 
+##### Burma
 #  Burma restores some Internet access but continues to deny access to foreign news services such as the BBC and CNN, blogs and dissident sites. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5iy-MfhLN9Q7MwtQ1VlrvexLjr2dAD8S95SQG0)
 
@@ -15,4 +19,4 @@
 2. [The pro-Israel non-governmental organization HonestReporting brings attention to footage captured by the BBC and transmitted by CNN that shows a Palestinian man being carried away from a bomb blast only to reappear moments later uninjured. CNN's Anderson Cooper who was reporting on the original story issued a retraction during his television show. ](/news/2012/11/20/the-pro-israel-non-governmental-organization-honestreporting-brings-attention-to-footage-captured-by-the-bbc-and-transmitted-by-cnn-that-sho.md) _Context: BBC, CNN_
 3. [ An Internet blog belonging to a group calling itself "al-Qaeda Organisation Indonesia" claims responsibility for the July 17 Jakarta hotel bombings. ](/news/2009/07/29/an-internet-blog-belonging-to-a-group-calling-itself-al-qaeda-organisation-indonesia-claims-responsibility-for-the-july-17-jakarta-hotel.md) _Context: Internet, blog_
 4. [ Seven Palestinians are killed by Israeli Air Force missile attacks on the Gaza Strip and West Bank, including at least four Hamas militants. Five other Palestinian civilian bystanders are injured in the attacks. According to CNN all the 7 were militants, whereas the BBC says four were. The attack was carried out amid a barrage of Qassam rockets. ](/news/2005/07/15/seven-palestinians-are-killed-by-israeli-air-force-missile-attacks-on-the-gaza-strip-and-west-bank-including-at-least-four-hamas-militants.md) _Context: BBC, CNN_
-5. [The BBC plans to launch a service in Korean. ](/news/2017/09/25/the-bbc-plans-to-launch-a-service-in-korean.md) _Context: BBC_
+5. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: BBC_

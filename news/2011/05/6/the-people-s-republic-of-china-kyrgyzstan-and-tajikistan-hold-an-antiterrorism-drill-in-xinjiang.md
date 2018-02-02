@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/6/the-people-s-republic-of-china-kyrgyzstan-and-tajikistan-hold-an-antiterrorism-drill-in-xinjiang.html)  [JSON](/news/2011/05/6/the-people-s-republic-of-china-kyrgyzstan-and-tajikistan-hold-an-antiterrorism-drill-in-xinjiang.json)  [XML](/news/2011/05/6/the-people-s-republic-of-china-kyrgyzstan-and-tajikistan-hold-an-antiterrorism-drill-in-xinjiang.xml)  
+
 ### [2011-05-6](/news/2011/05/6/index.md)
 
+##### China
 # The People's Republic of China, Kyrgyzstan and Tajikistan hold an antiterrorism drill in Xinjiang. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People's Daily](http://english.people.com.cn/90001/90783/7372608.html)
 

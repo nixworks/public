@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/7/italy-prepares-a-funeral-for-the-agent-nicola-calipari-who-died-in-iraq-protecting-released-hostage-giuliana-sgrena-sgrena-disputes-us-arm.html)  [JSON](/news/2005/03/7/italy-prepares-a-funeral-for-the-agent-nicola-calipari-who-died-in-iraq-protecting-released-hostage-giuliana-sgrena-sgrena-disputes-us-arm.json)  [XML](/news/2005/03/7/italy-prepares-a-funeral-for-the-agent-nicola-calipari-who-died-in-iraq-protecting-released-hostage-giuliana-sgrena-sgrena-disputes-us-arm.xml)  
+
 ### [2005-03-7](/news/2005/03/7/index.md)
 
+##### Nicola Calipari
 #  Italy prepares a funeral for the agent Nicola Calipari who died in Iraq protecting released hostage Giuliana Sgrena. Sgrena disputes US Army account of the shooting 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Sgrena interview](http://news.bbc.co.uk/2/hi/europe/4324251.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/4324445.stm)

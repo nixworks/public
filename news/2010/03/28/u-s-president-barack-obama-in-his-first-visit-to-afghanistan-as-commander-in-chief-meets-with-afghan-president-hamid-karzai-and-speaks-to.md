@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/03/28/u-s-president-barack-obama-in-his-first-visit-to-afghanistan-as-commander-in-chief-meets-with-afghan-president-hamid-karzai-and-speaks-to.html)  [JSON](/news/2010/03/28/u-s-president-barack-obama-in-his-first-visit-to-afghanistan-as-commander-in-chief-meets-with-afghan-president-hamid-karzai-and-speaks-to.json)  [XML](/news/2010/03/28/u-s-president-barack-obama-in-his-first-visit-to-afghanistan-as-commander-in-chief-meets-with-afghan-president-hamid-karzai-and-speaks-to.xml)  
+
 ### [2010-03-28](/news/2010/03/28/index.md)
 
+##### U.S. President
 # U.S. President Barack Obama, in his first visit to Afghanistan as commander in chief, meets with Afghan President Hamid Karzai and speaks to American troops deployed there. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/03/28/AR2010032800828.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/03/28/AR2010032800828.html)
 1. [Cover Image](http://www.washingtonpost.com/wp-dyn/content/photo/2010/03/28/PH2010032801432.jpg)
 
 ### Related:

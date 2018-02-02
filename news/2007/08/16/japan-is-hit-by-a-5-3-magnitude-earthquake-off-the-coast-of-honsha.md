@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/16/japan-is-hit-by-a-5-3-magnitude-earthquake-off-the-coast-of-honsha.html)  [JSON](/news/2007/08/16/japan-is-hit-by-a-5-3-magnitude-earthquake-off-the-coast-of-honsha.json)  [XML](/news/2007/08/16/japan-is-hit-by-a-5-3-magnitude-earthquake-off-the-coast-of-honsha.xml)  
+
 ### [2007-08-16](/news/2007/08/16/index.md)
 
+##### Japan
 #  Japan is hit by a 5.3 magnitude earthquake off the coast of Honshu. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601101&sid=axbmSw38zVe0&refer=japan)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601101&sid=axbmSw38zVe0&refer=japan)
 
 ### Related:
 

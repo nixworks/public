@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/4/authorities-find-at-least-28-migrants-dead-off-t
 
 ### [2016-10-4](/news/2016/10/4/index.md)
 
+##### European migrant crisis
 # Authorities find at least 28 migrants dead off the coast of Libya in a day of frantic rescues. 
 
 

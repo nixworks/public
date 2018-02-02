@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/20/senator-ted-cruz-the-runner-up-in-the-race-for-
 
 ### [2016-07-20](/news/2016/07/20/index.md)
 
+##### 2016 Republican National Convention
 # Senator Ted Cruz, the runner-up in the race for the Republican Party nomination, is booed off stage after giving a speech and refusing to endorse Donald Trump. 
 
 He was then booed off the stage.

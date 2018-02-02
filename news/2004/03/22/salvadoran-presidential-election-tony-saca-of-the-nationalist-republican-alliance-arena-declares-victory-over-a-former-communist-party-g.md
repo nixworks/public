@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/22/salvadoran-presidential-election-tony-saca-of-the-nationalist-republican-alliance-arena-declares-victory-over-a-former-communist-party-g.html)  [JSON](/news/2004/03/22/salvadoran-presidential-election-tony-saca-of-the-nationalist-republican-alliance-arena-declares-victory-over-a-former-communist-party-g.json)  [XML](/news/2004/03/22/salvadoran-presidential-election-tony-saca-of-the-nationalist-republican-alliance-arena-declares-victory-over-a-former-communist-party-g.xml)  
+
 ### [2004-03-22](/news/2004/03/22/index.md)
 
+##### Salvadoran presidential election
 #  Salvadoran presidential election: Tony Saca of the Nationalist Republican Alliance (ARENA) declares victory over a former Communist Party guerrilla leader, with 60% of the votes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CoLatino](http://www.diariocolatino.com/elecciones/detalles.asp?NewsID=48)
 2. [Democracy Now!](http://www.democracynow.org/article.pl?sid=04/03/22/1536226)

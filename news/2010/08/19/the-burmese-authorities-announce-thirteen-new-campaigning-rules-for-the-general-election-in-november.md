@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/19/the-burmese-authorities-announce-thirteen-new-campaigning-rules-for-the-general-election-in-november.html)  [JSON](/news/2010/08/19/the-burmese-authorities-announce-thirteen-new-campaigning-rules-for-the-general-election-in-november.json)  [XML](/news/2010/08/19/the-burmese-authorities-announce-thirteen-new-campaigning-rules-for-the-general-election-in-november.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### Burma
 # The Burmese authorities announce thirteen new campaigning rules for the general election in November. 
 
 Military-ruled Myanmar Thursday announced restrictions on campaigning for Novembers general election that it said were to assure the polls are free and...
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/2010819145827219488.html)
 2. [Sify](http://sify.com/news/myanmar-announces-restrictions-on-election-campaigning-news-international-kitlEecgejc.html)

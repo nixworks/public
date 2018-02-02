@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/29/the-lethal-lujo-virus-is-identified-in-africa.html)  [JSON](/news/2009/05/29/the-lethal-lujo-virus-is-identified-in-africa.json)  [XML](/news/2009/05/29/the-lethal-lujo-virus-is-identified-in-africa.xml)  
+
 ### [2009-05-29](/news/2009/05/29/index.md)
 
+##### Lujo
 #  The lethal Lujo virus is identified in Africa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hgoKoYkhM_6vHIDJeIgs0PeXNifwD98FIBM80)
 

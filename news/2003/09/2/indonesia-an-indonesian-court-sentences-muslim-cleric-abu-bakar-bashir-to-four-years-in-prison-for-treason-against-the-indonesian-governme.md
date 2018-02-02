@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/2/indonesia-an-indonesian-court-sentences-muslim-cleric-abu-bakar-bashir-to-four-years-in-prison-for-treason-against-the-indonesian-governme.html)  [JSON](/news/2003/09/2/indonesia-an-indonesian-court-sentences-muslim-cleric-abu-bakar-bashir-to-four-years-in-prison-for-treason-against-the-indonesian-governme.json)  [XML](/news/2003/09/2/indonesia-an-indonesian-court-sentences-muslim-cleric-abu-bakar-bashir-to-four-years-in-prison-for-treason-against-the-indonesian-governme.xml)  
+
 ### [2003-09-2](/news/2003/09/2/index.md)
 
+##### Indonesia
 #  Indonesia: An Indonesian court sentences Muslim cleric Abu Bakar Bashir to four years in prison for treason against the Indonesian government. However, the court found insufficient proof that Bashir was the leader of the militant Islamic organization Jemaah Islamiyah.
 
 

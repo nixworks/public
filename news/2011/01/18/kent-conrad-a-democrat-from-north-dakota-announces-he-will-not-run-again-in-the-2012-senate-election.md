@@ -1,26 +1,30 @@
+
+Formats: [HTML](/news/2011/01/18/kent-conrad-a-democrat-from-north-dakota-announces-he-will-not-run-again-in-the-2012-senate-election.html)  [JSON](/news/2011/01/18/kent-conrad-a-democrat-from-north-dakota-announces-he-will-not-run-again-in-the-2012-senate-election.json)  [XML](/news/2011/01/18/kent-conrad-a-democrat-from-north-dakota-announces-he-will-not-run-again-in-the-2012-senate-election.xml)  
+
 ### [2011-01-18](/news/2011/01/18/index.md)
 
+##### Kent Conrad
 # Kent Conrad, a Democrat from North Dakota, announces he will not run again in the 2012 Senate election. 
 
 Sen. Kent Conrad said Tuesday he wants to concentrate on the problems facing America, not his re-election, so he will retire from his seat at the end of his term in 2012, opening up a spot prime for a Republican takeover.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/politics/2011/01/18/sen-kent-conrad-announce-retirement-tuesday/)
 2. [The New York Times](http://cityroom.blogs.nytimes.com/2011/01/18/lieberman-will-not-run-for-re-election/?hp)
 2. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2011/01/18/sen-kent-conrad-announce-retirement-tuesday/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1447049808344.jpg?ve=1)
-
-### Related:
-
-1. [American film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by a report in "The New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic recipients of Weinstein's political donations give the funds to women's charities. ](/news/2017/10/6/american-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-alle.md) _Context: Democratic_
-2. [President Donald Trump, siding with Democrats, reaches a deal with congressional leaders of both parties to extend the U.S. debt limit and fund the federal government until Dec. 15, as well as provide Harvey disaster relief. ](/news/2017/09/6/president-donald-trump-siding-with-democrats-reaches-a-deal-with-congressional-leaders-of-both-parties-to-extend-the-u-s-debt-limit-and-f.md) _Context: Democratic_
-3. [In an official dinner hosted by the United States President, Donald Trump and leaders of the Democratic party Chuck Schumer and Nancy Pelosi agree to fix DACA but disagree with the details, with Trump denying on Twitter the following day that a deal had been made which excluded funding for his proposed wall on the Mexico-United States border. ](/news/2017/09/13/in-an-official-dinner-hosted-by-the-united-states-president-donald-trump-and-leaders-of-the-democratic-party-chuck-schumer-and-nancy-pelosi.md) _Context: Democratic_
-4. [West Virginia Governor Jim Justice announces, during U.S. President Donald Trump's rally in Huntington, he is changing his party affiliation from Democratic to Republican. ](/news/2017/08/3/west-virginia-governor-jim-justice-announces-during-u-s-president-donald-trump-s-rally-in-huntington-he-is-changing-his-party-affiliation.md) _Context: Democratic_
-5. [Negotiators from the Democratic and Republican parties agree on new sanctions against Russia, Iran, and North Korea. Both chambers of the United States Congress are scheduled to vote on passage on Tuesday. ](/news/2017/07/22/negotiators-from-the-democratic-and-republican-parties-agree-on-new-sanctions-against-russia-iran-and-north-korea-both-chambers-of-the-un.md) _Context: Democratic_
 
 ### Changes:
 
 1. [United States Senate:Kent Conrad, a Democrat from North Dakota, announces he will not run again in the 2012 Senate election. ](/news/2011/01/18/united-states-senate-pkent-conrad-a-democrat-from-north-dakota-announces-he-will-not-run-again-in-the-2012-senate-election.md) _2017-08-25 03:31:50 (First version)_
 2. [United States Senate:: Kent Conrad, a Democrat from North Dakota, announces he will not run again in the 2012 Senate election. ](/news/2011/01/18/united-states-senate-kent-conrad-a-democrat-from-north-dakota-announces-he-will-not-run-again-in-the-2012-senate-election.md) _2017-08-27 03:31:58 (Update)_
 2. [Kent Conrad, a Democrat from North Dakota, announces he will not run again in the 2012 Senate election. ](/news/2011/01/18/kent-conrad-a-democrat-from-north-dakota-announces-he-will-not-run-again-in-the-2012-senate-election.md) _(Current version)_
+
+### Related:
+
+1. [A drawing is held to resolve a tied election between Democrat Shelly Simonds and Republican David Yancey, with Yancey being randomly chosen as the winner. ](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-between-democrat-shelly-simonds-and-republican-david-yancey-with-yancey-being-randomly-chosen.md) _Context: Democrat_
+2. [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md) _Context: Democrat_
+3. [U.S. Representative John Conyers (D-Mich.) steps down amid allegations of sexual harassment. ](/news/2017/12/5/u-s-representative-john-conyers-d-mich-steps-down-amid-allegations-of-sexual-harassment.md) _Context: Democrat_
+4. [Voters in Alabama go to the polls to fill the United States Senate seat vacated by current United States Attorney General Jeff Sessions. The race is between Roy Moore (R) and Doug Jones (D). ](/news/2017/12/12/voters-in-alabama-go-to-the-polls-to-fill-the-united-states-senate-seat-vacated-by-current-united-states-attorney-general-jeff-sessions-the.md) _Context: Democrat_
+5. [John Conyers stands down as the ranking Democrat on the United States House Committee on the Judiciary following a series of sexual harassment allegations. ](/news/2017/11/26/john-conyers-stands-down-as-the-ranking-democrat-on-the-united-states-house-committee-on-the-judiciary-following-a-series-of-sexual-harassme.md) _Context: Democrat_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/7/hamas-executes-three-men-of-whom-one-was-convicted-of-collaborating-with-israel-in-the-gaza-strip.html)  [JSON](/news/2012/04/7/hamas-executes-three-men-of-whom-one-was-convicted-of-collaborating-with-israel-in-the-gaza-strip.json)  [XML](/news/2012/04/7/hamas-executes-three-men-of-whom-one-was-convicted-of-collaborating-with-israel-in-the-gaza-strip.xml)  
+
 ### [2012-04-7](/news/2012/04/7/index.md)
 
+##### Hamas
 # Hamas executes three men (of whom one was convicted of collaborating with Israel) in the Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Al-Arabiya](http://english.alarabiya.net/articles/2012/04/07/205965.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/29/the-justice-and-equality-movement-jem-and-the-sudan-liberation-army-sla-claim-to-have-captured-a-sudanese-army-base-in-the-kordofan-pro.html)  [JSON](/news/2007/08/29/the-justice-and-equality-movement-jem-and-the-sudan-liberation-army-sla-claim-to-have-captured-a-sudanese-army-base-in-the-kordofan-pro.json)  [XML](/news/2007/08/29/the-justice-and-equality-movement-jem-and-the-sudan-liberation-army-sla-claim-to-have-captured-a-sudanese-army-base-in-the-kordofan-pro.xml)  
+
 ### [2007-08-29](/news/2007/08/29/index.md)
 
+##### Justice and Equality Movement
 #  The Justice and Equality Movement (JEM) and the Sudan Liberation Army (SLA) claim to have captured a Sudanese army base in the Kordofan province of Sudan. 
 
 A Darfur rebel group says it has seized control of a Sudanese army base in Kordofan province.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC](http://www.abc.net.au/news/stories/2007/08/30/2019280.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

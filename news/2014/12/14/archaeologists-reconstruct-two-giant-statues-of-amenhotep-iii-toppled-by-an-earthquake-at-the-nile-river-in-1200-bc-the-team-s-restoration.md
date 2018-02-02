@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/14/archaeologists-reconstruct-two-giant-statues-of-amenhotep-iii-toppled-by-an-earthquake-at-the-nile-river-in-1200-bc-the-team-s-restoration.html)  [JSON](/news/2014/12/14/archaeologists-reconstruct-two-giant-statues-of-amenhotep-iii-toppled-by-an-earthquake-at-the-nile-river-in-1200-bc-the-team-s-restoration.json)  [XML](/news/2014/12/14/archaeologists-reconstruct-two-giant-statues-of-amenhotep-iii-toppled-by-an-earthquake-at-the-nile-river-in-1200-bc-the-team-s-restoration.xml)  
+
 ### [2014-12-14](/news/2014/12/14/index.md)
 
+##### Amenhotep III
 # Archaeologists reconstruct two giant statues of Amenhotep III, toppled by an earthquake at the Nile River in 1200 BC. The team's restoration project re-erected surviving fragments at the northern gate of the king's funerary temple. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Daily Mail](http://www.dailymail.co.uk/wires/afp/article-2873578/Colossal-statue-Amenhotep-III-unveiled-Egypt.html)
 

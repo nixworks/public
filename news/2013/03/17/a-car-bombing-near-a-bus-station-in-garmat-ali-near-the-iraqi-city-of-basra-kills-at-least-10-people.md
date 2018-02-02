@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2013/03/17/a-car-bombing-near-a-bus-station-in-garmat-ali-near-the-iraqi-city-of-basra-kills-at-least-10-people.html)  [JSON](/news/2013/03/17/a-car-bombing-near-a-bus-station-in-garmat-ali-near-the-iraqi-city-of-basra-kills-at-least-10-people.json)  [XML](/news/2013/03/17/a-car-bombing-near-a-bus-station-in-garmat-ali-near-the-iraqi-city-of-basra-kills-at-least-10-people.xml)  
+
 ### [2013-03-17](/news/2013/03/17/index.md)
 
+##### car bombing
 # A car bombing near a bus station in Garmat Ali near the Iraqi city of Basra kills at least 10 people. 
 
 Ten people are killed as a car bomb explodes at a bus station near Basra in southern Iraq, days before the 10th anniversary of the US-led invasion.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-21821159)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66441000/jpg/_66441677_66441676.jpg)
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal):A car bombing near a bus station in Garmat Ali near the Iraqi city of Basra kills at least 10 people. ](/news/2013/03/17/iraqi-insurgency-post-u-s-withdrawal-pa-car-bombing-near-a-bus-station-in-garmat-ali-near-the-iraqi-city-of-basra-kills-at-least-10-peopl.md) _2017-08-25 03:37:53 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A car bombing near a bus station in Garmat Ali near the Iraqi city of Basra kills at least 10 people. ](/news/2013/03/17/iraqi-insurgency-post-u-s-withdrawal-a-car-bombing-near-a-bus-station-in-garmat-ali-near-the-iraqi-city-of-basra-kills-at-least-10-peop.md) _2017-08-27 03:38:03 (Update)_
+2. [A car bombing near a bus station in Garmat Ali near the Iraqi city of Basra kills at least 10 people. ](/news/2013/03/17/a-car-bombing-near-a-bus-station-in-garmat-ali-near-the-iraqi-city-of-basra-kills-at-least-10-people.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ Ten people are killed as a car bomb explodes at a bus station near Basra in sout
 3. [A suicide bomber kills at least 53 people and injures more than 130 in the Iraqi city of Basra. ](/news/2012/01/14/a-suicide-bomber-kills-at-least-53-people-and-injures-more-than-130-in-the-iraqi-city-of-basra.md) _Context: Basra, Iraq_
 4. [Three roadside bombs detonate in the Iraqi city of Basra, killing at least 19 people and injuring 67. ](/news/2011/11/24/three-roadside-bombs-detonate-in-the-iraqi-city-of-basra-killing-at-least-19-people-and-injuring-67.md) _Context: Basra, Iraq_
 5. [More than twenty people are killed and scores injured in attacks in Iraq, including 16 people killed in a car bombing in Babil Province. ](/news/2011/09/14/more-than-twenty-people-are-killed-and-scores-injured-in-attacks-in-iraq-including-16-people-killed-in-a-car-bombing-in-babil-province.md) _Context: Iraq, car bombing_
-
-### Changes:
-
-1. [Iraqi insurgency (post-U.S. withdrawal):A car bombing near a bus station in Garmat Ali near the Iraqi city of Basra kills at least 10 people. ](/news/2013/03/17/iraqi-insurgency-post-u-s-withdrawal-pa-car-bombing-near-a-bus-station-in-garmat-ali-near-the-iraqi-city-of-basra-kills-at-least-10-peopl.md) _2017-08-25 03:37:53 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A car bombing near a bus station in Garmat Ali near the Iraqi city of Basra kills at least 10 people. ](/news/2013/03/17/iraqi-insurgency-post-u-s-withdrawal-a-car-bombing-near-a-bus-station-in-garmat-ali-near-the-iraqi-city-of-basra-kills-at-least-10-peop.md) _2017-08-27 03:38:03 (Update)_
-2. [A car bombing near a bus station in Garmat Ali near the Iraqi city of Basra kills at least 10 people. ](/news/2013/03/17/a-car-bombing-near-a-bus-station-in-garmat-ali-near-the-iraqi-city-of-basra-kills-at-least-10-people.md) _(Current version)_

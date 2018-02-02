@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/25/china-s-shenzhou-10-spacecraft-returns-to-earth-after-its-crew-complete-a-15-day-mission.html)  [JSON](/news/2013/06/25/china-s-shenzhou-10-spacecraft-returns-to-earth-after-its-crew-complete-a-15-day-mission.json)  [XML](/news/2013/06/25/china-s-shenzhou-10-spacecraft-returns-to-earth-after-its-crew-complete-a-15-day-mission.xml)  
+
 ### [2013-06-25](/news/2013/06/25/index.md)
 
+##### Shenzhou 10
 # China's Shenzhou 10 spacecraft returns to Earth after its crew complete a 15-day mission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-205_162-57591038/chinese-astronauts-complete-space-mission-return-to-earth/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/06/25/e39e400b-1c50-11e3-9918-005056850598/china-landing-2.jpg)

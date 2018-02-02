@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/27/voters-in-south-carolina-go-to-the-polls-for-th
 
 ### [2016-02-27](/news/2016/02/27/index.md)
 
+##### 2016 U.S. presidential election
 # Voters in South Carolina go to the polls for the Democratic Party primary. Hillary Clinton won. 
 
 Overwhelming support and record turnout among black voters and her best showing to date among whites gave Hillary Clinton a powerful victory in Saturday&rsquo;s Democratic presidential primary in South Carolina. Blacks accounted for 61 percent of South Carolina Democratic primary voters in ABC News exit...

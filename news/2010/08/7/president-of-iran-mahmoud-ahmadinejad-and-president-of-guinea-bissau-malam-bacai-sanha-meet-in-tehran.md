@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/7/president-of-iran-mahmoud-ahmadinejad-and-president-of-guinea-bissau-malam-bacai-sanha-meet-in-tehran.html)  [JSON](/news/2010/08/7/president-of-iran-mahmoud-ahmadinejad-and-president-of-guinea-bissau-malam-bacai-sanha-meet-in-tehran.json)  [XML](/news/2010/08/7/president-of-iran-mahmoud-ahmadinejad-and-president-of-guinea-bissau-malam-bacai-sanha-meet-in-tehran.xml)  
+
 ### [2010-08-7](/news/2010/08/7/index.md)
 
+##### President
 # President of Iran Mahmoud Ahmadinejad and President of Guinea-Bissau Malam Bacai Sanh meet in Tehran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=137834&sectionid=351020101)
 

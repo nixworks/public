@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/08/29/malaysian-airlines-announces-plans-to-lay-off-6000-staff-as-a-result-of-a-restructuring-following-the-loss-of-two-aircraft-in-disasters-this.html)  [JSON](/news/2014/08/29/malaysian-airlines-announces-plans-to-lay-off-6000-staff-as-a-result-of-a-restructuring-following-the-loss-of-two-aircraft-in-disasters-this.json)  [XML](/news/2014/08/29/malaysian-airlines-announces-plans-to-lay-off-6000-staff-as-a-result-of-a-restructuring-following-the-loss-of-two-aircraft-in-disasters-this.xml)  
+
 ### [2014-08-29](/news/2014/08/29/index.md)
 
+##### Malaysian Airlines
 # Malaysian Airlines announces plans to lay off 6000 staff as a result of a restructuring following the loss of two aircraft in disasters this year. 
 
+Malaysian Airline System Bhd., which lost two jetliners in air disasters this year, will eliminate 6,000 jobs as the national carrier restructures.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2014-08-28/malaysia-airlines-reports-sixth-quarterly-loss-before-delisting.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2014-08-28/malaysia-airlines-reports-sixth-quarterly-loss-before-delisting.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

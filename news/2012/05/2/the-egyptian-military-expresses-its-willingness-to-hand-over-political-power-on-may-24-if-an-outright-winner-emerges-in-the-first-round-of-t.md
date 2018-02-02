@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/2/the-egyptian-military-expresses-its-willingness-to-hand-over-political-power-on-may-24-if-an-outright-winner-emerges-in-the-first-round-of-t.html)  [JSON](/news/2012/05/2/the-egyptian-military-expresses-its-willingness-to-hand-over-political-power-on-may-24-if-an-outright-winner-emerges-in-the-first-round-of-t.json)  [XML](/news/2012/05/2/the-egyptian-military-expresses-its-willingness-to-hand-over-political-power-on-may-24-if-an-outright-winner-emerges-in-the-first-round-of-t.xml)  
+
 ### [2012-05-2](/news/2012/05/2/index.md)
 
+##### Egypt
 # The Egyptian military expresses its willingness to hand over political power on May 24 if an outright winner emerges in the first round of the presidential elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.ria.ru/world/20120502/173177130.html)
 

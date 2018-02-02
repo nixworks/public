@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/04/7/a-6-5-magnitude-earthquake-strikes-in-the-mexican-state-of-veracruz.html)  [JSON](/news/2011/04/7/a-6-5-magnitude-earthquake-strikes-in-the-mexican-state-of-veracruz.json)  [XML](/news/2011/04/7/a-6-5-magnitude-earthquake-strikes-in-the-mexican-state-of-veracruz.xml)  
+
 ### [2011-04-7](/news/2011/04/7/index.md)
 
+##### Mexico
 # A 6.5 magnitude earthquake strikes in the Mexican state of Veracruz. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0002kru.php)
+1. [USGS](https://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0002kru.php)
 
 ### Related:
 

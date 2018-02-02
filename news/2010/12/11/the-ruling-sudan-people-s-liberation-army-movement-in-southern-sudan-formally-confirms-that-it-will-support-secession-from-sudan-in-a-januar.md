@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/11/the-ruling-sudan-people-s-liberation-army-movement-in-southern-sudan-formally-confirms-that-it-will-support-secession-from-sudan-in-a-januar.html)  [JSON](/news/2010/12/11/the-ruling-sudan-people-s-liberation-army-movement-in-southern-sudan-formally-confirms-that-it-will-support-secession-from-sudan-in-a-januar.json)  [XML](/news/2010/12/11/the-ruling-sudan-people-s-liberation-army-movement-in-southern-sudan-formally-confirms-that-it-will-support-secession-from-sudan-in-a-januar.xml)  
+
 ### [2010-12-11](/news/2010/12/11/index.md)
 
+##### Sudan People's Liberation Army/Movement
 # The ruling Sudan People's Liberation Army-Movement in Southern Sudan formally confirms that it will support secession from Sudan in a January 2011 independence referendum. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g4Ea_tj8HfKhVr5f4UEr8bfoafjw?docId=CNG.079b1b56853f883a607a8f382e61450a.981)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE6BA04E20101211)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/12/a-new-study-suggests-that-altitude-plays-a-role-in-language-evolution-explaining-why-ejective-sounds-are-more-popular-in-languages-of-high.html)  [JSON](/news/2013/06/12/a-new-study-suggests-that-altitude-plays-a-role-in-language-evolution-explaining-why-ejective-sounds-are-more-popular-in-languages-of-high.json)  [XML](/news/2013/06/12/a-new-study-suggests-that-altitude-plays-a-role-in-language-evolution-explaining-why-ejective-sounds-are-more-popular-in-languages-of-high.xml)  
+
 ### [2013-06-12](/news/2013/06/12/index.md)
 
+##### altitude
 # A new study suggests that altitude plays a role in language evolution, explaining why ejective sounds are more popular in languages of high-altitude regions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Scientific American](http://www.scientificamerican.com/podcast/episode.cfm?id=altitude-may-influence-language-sou-13-06-12)
 

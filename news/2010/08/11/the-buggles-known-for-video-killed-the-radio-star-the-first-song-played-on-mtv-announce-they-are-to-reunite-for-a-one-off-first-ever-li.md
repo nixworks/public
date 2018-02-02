@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/11/the-buggles-known-for-video-killed-the-radio-star-the-first-song-played-on-mtv-announce-they-are-to-reunite-for-a-one-off-first-ever-li.html)  [JSON](/news/2010/08/11/the-buggles-known-for-video-killed-the-radio-star-the-first-song-played-on-mtv-announce-they-are-to-reunite-for-a-one-off-first-ever-li.json)  [XML](/news/2010/08/11/the-buggles-known-for-video-killed-the-radio-star-the-first-song-played-on-mtv-announce-they-are-to-reunite-for-a-one-off-first-ever-li.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### The Buggles
 # The Buggles, known for "Video Killed the Radio Star", the first song played on MTV, announce they are to reunite for a one-off first ever live performance. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10939434)
 2. [NME](http://www.nme.com/news/various-artists/52441)

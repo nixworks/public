@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/27/michaelle-jean-is-sworn-in-as-the-27th-governor-general-of-canada-replacing-adrienne-clarkson.html)  [JSON](/news/2005/09/27/michaelle-jean-is-sworn-in-as-the-27th-governor-general-of-canada-replacing-adrienne-clarkson.json)  [XML](/news/2005/09/27/michaelle-jean-is-sworn-in-as-the-27th-governor-general-of-canada-replacing-adrienne-clarkson.xml)  
+
 ### [2005-09-27](/news/2005/09/27/index.md)
 
+##### Michalle Jean
 #  Michalle Jean is sworn in as the 27th Governor General of Canada, replacing Adrienne Clarkson. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBCUnlocked](http://www.cbcunlocked.com/artman/publish/article_472.shtml)
 

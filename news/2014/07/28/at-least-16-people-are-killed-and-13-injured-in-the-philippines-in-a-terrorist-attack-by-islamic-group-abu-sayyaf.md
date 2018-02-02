@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/28/at-least-16-people-are-killed-and-13-injured-in-the-philippines-in-a-terrorist-attack-by-islamic-group-abu-sayyaf.html)  [JSON](/news/2014/07/28/at-least-16-people-are-killed-and-13-injured-in-the-philippines-in-a-terrorist-attack-by-islamic-group-abu-sayyaf.json)  [XML](/news/2014/07/28/at-least-16-people-are-killed-and-13-injured-in-the-philippines-in-a-terrorist-attack-by-islamic-group-abu-sayyaf.xml)  
+
 ### [2014-07-28](/news/2014/07/28/index.md)
 
+##### Philippines
 # At least 16 people are killed and 13 injured in the Philippines in a terrorist attack by Islamic group Abu Sayyaf. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IANS via Biharprabha](http://news.biharprabha.com/2014/07/16-killed-in-philippines-in-attack-by-islamist-group-abu-sayyaf/)
 

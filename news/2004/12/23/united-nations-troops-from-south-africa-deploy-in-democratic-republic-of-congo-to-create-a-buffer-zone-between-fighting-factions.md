@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/12/23/united-nations-troops-from-south-africa-deploy-in-democratic-republic-of-congo-to-create-a-buffer-zone-between-fighting-factions.html)  [JSON](/news/2004/12/23/united-nations-troops-from-south-africa-deploy-in-democratic-republic-of-congo-to-create-a-buffer-zone-between-fighting-factions.json)  [XML](/news/2004/12/23/united-nations-troops-from-south-africa-deploy-in-democratic-republic-of-congo-to-create-a-buffer-zone-between-fighting-factions.xml)  
+
 ### [2004-12-23](/news/2004/12/23/index.md)
 
+##### United Nations
 #  United Nations troops from South Africa deploy in Democratic Republic of Congo to create a buffer zone between fighting factions. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7166213)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7166213)
 
 ### Related:
 

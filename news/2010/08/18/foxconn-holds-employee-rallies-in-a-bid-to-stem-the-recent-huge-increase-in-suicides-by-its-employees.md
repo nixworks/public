@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/18/foxconn-holds-employee-rallies-in-a-bid-to-stem-the-recent-huge-increase-in-suicides-by-its-employees.html)  [JSON](/news/2010/08/18/foxconn-holds-employee-rallies-in-a-bid-to-stem-the-recent-huge-increase-in-suicides-by-its-employees.json)  [XML](/news/2010/08/18/foxconn-holds-employee-rallies-in-a-bid-to-stem-the-recent-huge-increase-in-suicides-by-its-employees.xml)  
+
 ### [2010-08-18](/news/2010/08/18/index.md)
 
+##### Foxconn
 # Foxconn holds employee rallies in a bid to stem the recent huge increase in suicides by its employees. 
 
 Taiwanese technology giant Foxconn plans to hold a morale-boosting employee rally after a string of suicides at its Chinese factories turned a spotlight on working conditions. ? Ten tech
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-technology/foxconn-holds-moraleboosting-exercise-in-china-20100819-12fda.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11017179)

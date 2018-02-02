@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/12/vermont-senator-bernie-sanders-endorses-democra
 
 ### [2016-07-12](/news/2016/07/12/index.md)
 
+##### 2016 U.S. presidential election
 # Vermont Senator Bernie Sanders endorses Democratic Party rival Hillary Clinton for president at a rally in New Hampshire, effectively suspending his presidential campaign. 
 
 Bernie Sanders will appear with Hillary Clinton at an event in Portsmouth, New Hampshire — a city and state he won by wide margins.

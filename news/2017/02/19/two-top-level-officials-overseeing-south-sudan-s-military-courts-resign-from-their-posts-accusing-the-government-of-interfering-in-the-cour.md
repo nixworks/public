@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/19/two-top-level-officials-overseeing-south-sudan-
 
 ### [2017-02-19](/news/2017/02/19/index.md)
 
+##### South Sudanese Civil War
 # Two top level officials overseeing South Sudan's military courts resign from their posts, accusing the government of interfering in the court's moves to discipline soldiers accused of rape and murder. The resignations come less than a week after a military general and the Minister of Labour resigned in protest of President Salva Kiir Mayardit's alleged approval of atrocities against civilians not belonging to the Dinka group. 
 
 A brigadier general and colonel detail atrocities in damning resignation letters addressed to president.

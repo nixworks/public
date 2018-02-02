@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/30/in-a-major-provincial-leadership-reshuffle-in-the-people-s-republic-of-china-lu-zhangong-was-appointed-secretary-of-the-henan-cpc-provinci.html)  [JSON](/news/2009/11/30/in-a-major-provincial-leadership-reshuffle-in-the-people-s-republic-of-china-lu-zhangong-was-appointed-secretary-of-the-henan-cpc-provinci.json)  [XML](/news/2009/11/30/in-a-major-provincial-leadership-reshuffle-in-the-people-s-republic-of-china-lu-zhangong-was-appointed-secretary-of-the-henan-cpc-provinci.xml)  
+
 ### [2009-11-30](/news/2009/11/30/index.md)
 
+##### China
 #  In a major provincial leadership reshuffle in the People's Republic of China, Lu Zhangong was appointed secretary of the Henan CPC Provincial Committee, replacing Xu Guangchun. Sun Chunlan was appointed secretary of the Fujian CPC Committee. Former Jilin Party chief Wang Min was appointed secretary of the Liaoning CPC Committee, replacing Zhang Wenyue. Former Minister of Agriculture Sun Zhengcai took over as Party chief of Jilin Province. And former governor of Hebei Hu Chunhua was appointed Party chief of Inner Mongolia Autonomous Region, replacing Chu Bo, who retired.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-11/30/content_12565908.htm)
 

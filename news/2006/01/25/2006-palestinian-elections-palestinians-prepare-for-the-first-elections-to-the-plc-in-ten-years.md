@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/25/2006-palestinian-elections-palestinians-prepare-for-the-first-elections-to-the-plc-in-ten-years.html)  [JSON](/news/2006/01/25/2006-palestinian-elections-palestinians-prepare-for-the-first-elections-to-the-plc-in-ten-years.json)  [XML](/news/2006/01/25/2006-palestinian-elections-palestinians-prepare-for-the-first-elections-to-the-plc-in-ten-years.xml)  
+
 ### [2006-01-25](/news/2006/01/25/index.md)
 
+##### January 2006 legislative elections
 #  2006 Palestinian elections: Palestinians prepare for the first elections to the PLC in ten years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4645560.stm)
 

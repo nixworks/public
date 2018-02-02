@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/25/at-least-187-people-are-killed-in-avalanches-in-northeastern-afghanistan.html)  [JSON](/news/2015/02/25/at-least-187-people-are-killed-in-avalanches-in-northeastern-afghanistan.json)  [XML](/news/2015/02/25/at-least-187-people-are-killed-in-avalanches-in-northeastern-afghanistan.xml)  
+
 ### [2015-02-25](/news/2015/02/25/index.md)
 
+##### 187 people are killed
 # At least 187 people are killed in avalanches in northeastern Afghanistan 
 
 Afghan rescuers are searching for dozens of people believed to be trapped under snow after a series of avalanches that killed at least 187 people.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.com/news/world-asia-31636599)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/81251000/jpg/_81251635_81251634.jpg)
@@ -14,6 +18,6 @@ Afghan rescuers are searching for dozens of people believed to be trapped under 
 
 1. [Over 45 people are trapped by avalanches in the remote Afghan villages of Poshan and Ghadoor in Nuristan province. ](/news/2012/03/12/over-45-people-are-trapped-by-avalanches-in-the-remote-afghan-villages-of-poshan-and-ghadoor-in-nuristan-province.md) _Context: Afghanistan, avalanche_
 2. [ A series of avalanches occurs near Kabul, Afghanistan, killing at least ten people and injuring eleven others. ](/news/2009/01/18/a-series-of-avalanches-occurs-near-kabul-afghanistan-killing-at-least-ten-people-and-injuring-eleven-others.md) _Context: Afghanistan, avalanche_
-3. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Afghanistan_
-4. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: Afghanistan_
-5. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _Context: Afghanistan_
+3. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Afghanistan_
+4. [Researchers note that in November 2017, Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally revealed the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/researchers-note-that-in-november-2017-strava-which-processes-data-from-apps-and-internet-of-things-devices-such-as-fitbit-accidentally-r.md) _Context: Afghanistan_
+5. [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _Context: Afghanistan_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/5/belgium-and-the-netherlands-by-swapping-48-acres
 
 ### [2018-01-5](/news/2018/01/5/index.md)
 
+##### Belgium-Netherlands relations
 # Belgium and the Netherlands, by swapping 48 acres of land, agree that one section of their border is now the center of the Meuse River. This is expected to fix a police jurisdiction problem. 
 
 Belgium and the Netherlands peacefully altered their national borders by swapping 48 acres of land along a river dividing the two countries.

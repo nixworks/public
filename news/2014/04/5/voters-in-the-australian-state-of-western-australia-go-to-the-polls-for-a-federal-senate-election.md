@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/5/voters-in-the-australian-state-of-western-australia-go-to-the-polls-for-a-federal-senate-election.html)  [JSON](/news/2014/04/5/voters-in-the-australian-state-of-western-australia-go-to-the-polls-for-a-federal-senate-election.json)  [XML](/news/2014/04/5/voters-in-the-australian-state-of-western-australia-go-to-the-polls-for-a-federal-senate-election.xml)  
+
 ### [2014-04-5](/news/2014/04/5/index.md)
 
+##### Australia
 # Voters in the Australian state of Western Australia go to the polls for a Federal Senate election. 
 
 PRIME Minister Tony Abbott has made a last-ditch plea to West Australian voters as they head to the polls for a Senate election re-run.
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/national/breaking-news/abbotts-plea-to-wa-voters/story-e6frfku9-1226875372351?from=public_rss)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

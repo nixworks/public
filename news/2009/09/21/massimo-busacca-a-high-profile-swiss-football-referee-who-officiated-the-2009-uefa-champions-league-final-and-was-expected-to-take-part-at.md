@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/21/massimo-busacca-a-high-profile-swiss-football-referee-who-officiated-the-2009-uefa-champions-league-final-and-was-expected-to-take-part-at.html)  [JSON](/news/2009/09/21/massimo-busacca-a-high-profile-swiss-football-referee-who-officiated-the-2009-uefa-champions-league-final-and-was-expected-to-take-part-at.json)  [XML](/news/2009/09/21/massimo-busacca-a-high-profile-swiss-football-referee-who-officiated-the-2009-uefa-champions-league-final-and-was-expected-to-take-part-at.xml)  
+
 ### [2009-09-21](/news/2009/09/21/index.md)
 
+##### Massimo Busacca
 #  Massimo Busacca, a high-profile Swiss football referee who officiated the 2009 UEFA Champions League Final and was expected to take part at the 2010 FIFA World Cup in South Africa, is suspended "immediately" for waving his middle finger at fans during a match. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8268036.stm)
 

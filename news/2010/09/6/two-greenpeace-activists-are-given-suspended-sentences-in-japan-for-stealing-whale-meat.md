@@ -1,21 +1,25 @@
+
+Formats: [HTML](/news/2010/09/6/two-greenpeace-activists-are-given-suspended-sentences-in-japan-for-stealing-whale-meat.html)  [JSON](/news/2010/09/6/two-greenpeace-activists-are-given-suspended-sentences-in-japan-for-stealing-whale-meat.json)  [XML](/news/2010/09/6/two-greenpeace-activists-are-given-suspended-sentences-in-japan-for-stealing-whale-meat.xml)  
+
 ### [2010-09-6](/news/2010/09/6/index.md)
 
+##### Greenpeace India's
 # Two Greenpeace activists are given suspended sentences in Japan for stealing whale meat. 
 
 Two Greenpeace activists were given suspended jail sentences in Japan Monday for stealing whale meat they said was going to be consumed illegally.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jMSHVlx1X9yF0eKxbBz_2omUdx4wD9I2AHSO0)
-2. [Reuters](http://www.reuters.com/article/idUSTRE68512920100906)
+2. [Reuters](https://www.reuters.com/article/idUSTRE68512920100906)
 3. [The Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20100906x2.html)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
 1. [ Japan resumes whaling of humpbacks for the first time in 40 years. Greenpeace and other environmentalist groups condemn the decision. ](/news/2007/11/18/japan-resumes-whaling-of-humpbacks-for-the-first-time-in-40-years-greenpeace-and-other-environmentalist-groups-condemn-the-decision.md) _Context: Greenpeace India's, Japan_
-2. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Japan_
-3. [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md) _Context: Japan_
-4. [Aquatic species from Japan hitched a ride on debris from the 2011 Tohoku earthquake and tsunami and were able to reach the West Coast of the United States alive. ](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.md) _Context: Japan_
-5. [Japanese Prime Minister Shinzo Abe is expected to dissolve the House of Representatives on September 28, 2017 to make way for fresh elections. ](/news/2017/09/17/japanese-prime-minister-shinza-abe-is-expected-to-dissolve-the-house-of-representatives-on-september-28-2017-to-make-way-for-fresh-electio.md) _Context: Japan_
+2. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_
+3. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: Japan_
+4. [A 17-pound (8 kg) CH-53E transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-ch-53e-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week.md) _Context: Japan_
+5. [Former millionaire Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. ](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.md) _Context: Japan_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/29/ferenc-ma-dl-the-president-of-hungary-2000-2005-dies-in-budapest.html)  [JSON](/news/2011/05/29/ferenc-ma-dl-the-president-of-hungary-2000-2005-dies-in-budapest.json)  [XML](/news/2011/05/29/ferenc-ma-dl-the-president-of-hungary-2000-2005-dies-in-budapest.xml)  
+
 ### [2011-05-29](/news/2011/05/29/index.md)
 
+##### Ferenc Madl
 # Ferenc Madl, the President of Hungary (2000-2005), dies in Budapest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Index.hu](http://index.hu/belfold/2011/05/29/elhunyt_madl_ferenc/)
 1. [Cover Image](http://kep.cdn.index.hu/1/0/214/2144/21443/2144306_a0254faaa2095be395f77bfe6b6a34d7_wm.jpg)

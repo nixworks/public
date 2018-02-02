@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/12/28/the-croatian-presidential-election-goes-to-a-run-off-between-incumbent-ivo-josipovia-and-challenger-kolinda-grabar-kitarovia.html)  [JSON](/news/2014/12/28/the-croatian-presidential-election-goes-to-a-run-off-between-incumbent-ivo-josipovia-and-challenger-kolinda-grabar-kitarovia.json)  [XML](/news/2014/12/28/the-croatian-presidential-election-goes-to-a-run-off-between-incumbent-ivo-josipovia-and-challenger-kolinda-grabar-kitarovia.xml)  
+
 ### [2014-12-28](/news/2014/12/28/index.md)
 
+##### Croatian presidential election
 # The Croatian presidential election goes to a run-off between incumbent Ivo Josipovic and challenger Kolinda Grabar-Kitarovic. 
 
+Croatian President Ivo Josipovic failed to win re-election in the first round as NATO official Kolinda Grabar Kitarovic forced a Jan. 11 run-off on a campaign to help the Balkan country emerge from six years of recession.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2014-12-27/croats-head-to-polls-as-president-vies-for-re-election.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2014-12-27/croats-head-to-polls-as-president-vies-for-re-election.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

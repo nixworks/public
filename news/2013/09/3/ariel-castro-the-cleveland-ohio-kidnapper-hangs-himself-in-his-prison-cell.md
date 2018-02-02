@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/3/ariel-castro-the-cleveland-ohio-kidnapper-hangs-himself-in-his-prison-cell.html)  [JSON](/news/2013/09/3/ariel-castro-the-cleveland-ohio-kidnapper-hangs-himself-in-his-prison-cell.json)  [XML](/news/2013/09/3/ariel-castro-the-cleveland-ohio-kidnapper-hangs-himself-in-his-prison-cell.xml)  
+
 ### [2013-09-3](/news/2013/09/3/index.md)
 
+##### Cleveland, Ohio kidnapper
 # Ariel Castro, the Cleveland, Ohio kidnapper, hangs himself in his prison cell. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/09/04/justice/ariel-castro-cleveland-kidnapper-death/index.html?hpt=hp_t1)
 

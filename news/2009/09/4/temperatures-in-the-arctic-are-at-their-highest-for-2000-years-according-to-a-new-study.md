@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/4/temperatures-in-the-arctic-are-at-their-highest-for-2000-years-according-to-a-new-study.html)  [JSON](/news/2009/09/4/temperatures-in-the-arctic-are-at-their-highest-for-2000-years-according-to-a-new-study.json)  [XML](/news/2009/09/4/temperatures-in-the-arctic-are-at-their-highest-for-2000-years-according-to-a-new-study.xml)  
+
 ### [2009-09-4](/news/2009/09/4/index.md)
 
+##### Arctic
 #  Temperatures in the Arctic are at their highest for 2000 years, according to a new study. 
 
 Latest environmental news, features and updates. Pictures, video and more. 
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/earth/earthnews/6131513/Global-warming-has-reversed-2000-years-of-cooling-in-the-Arctic.html)
 

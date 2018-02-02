@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/19/professor-stephen-hawking-unveils-the-corpus-clock-a-terrifying-new-way-to-read-the-time-at-corpus-christi-college-cambridge-england.html)  [JSON](/news/2008/09/19/professor-stephen-hawking-unveils-the-corpus-clock-a-terrifying-new-way-to-read-the-time-at-corpus-christi-college-cambridge-england.json)  [XML](/news/2008/09/19/professor-stephen-hawking-unveils-the-corpus-clock-a-terrifying-new-way-to-read-the-time-at-corpus-christi-college-cambridge-england.xml)  
+
 ### [2008-09-19](/news/2008/09/19/index.md)
 
+##### Stephen Hawking
 #  Professor Stephen Hawking unveils the Corpus Clock, a 'terrifying' new way to read the time, at Corpus Christi College, Cambridge, England. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/technology/7625815.stm)
 

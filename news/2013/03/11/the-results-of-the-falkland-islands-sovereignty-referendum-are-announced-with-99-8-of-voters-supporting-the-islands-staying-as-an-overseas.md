@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/11/the-results-of-the-falkland-islands-sovereignty-referendum-are-announced-with-99-8-of-voters-supporting-the-islands-staying-as-an-overseas.html)  [JSON](/news/2013/03/11/the-results-of-the-falkland-islands-sovereignty-referendum-are-announced-with-99-8-of-voters-supporting-the-islands-staying-as-an-overseas.json)  [XML](/news/2013/03/11/the-results-of-the-falkland-islands-sovereignty-referendum-are-announced-with-99-8-of-voters-supporting-the-islands-staying-as-an-overseas.xml)  
+
 ### [2013-03-11](/news/2013/03/11/index.md)
 
+##### Falkland Islands
 # The results of the Falkland Islands sovereignty referendum are announced with 99.8% of voters supporting the Islands staying as an Overseas Territory of the United Kingdom. 
 
 The people of the Falkland Islands overwhelmingly vote to remain a British territory and the UK government urges &quot;all countries&quot; to respect their wishes.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gskPFBaksQ3LylugZlW5sljU0OIQ)
 2. [BBC](http://www.bbc.co.uk/news/uk-21750909)

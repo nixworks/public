@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/9/iranian-government-approved-a-bill-to-switch-cou
 
 ### [2016-12-9](/news/2016/12/9/index.md)
 
+##### Iranian government
 # Iranian government approved a bill to switch country's currency from rial to the more commonly used toman. The bill must be approved by the parliament. 
 
 Iran is preparing to switch its national currency from the rial to the toman - a move that could boost the value of the country’s national currency against the US dollar. 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/14/the-papal-ban-on-discussion-of-the-ordination-of-women-priests-is-challenged-by-willie-walsh-bishop-of-killaloe-during-his-address-to-the.html)  [JSON](/news/2009/11/14/the-papal-ban-on-discussion-of-the-ordination-of-women-priests-is-challenged-by-willie-walsh-bishop-of-killaloe-during-his-address-to-the.json)  [XML](/news/2009/11/14/the-papal-ban-on-discussion-of-the-ordination-of-women-priests-is-challenged-by-willie-walsh-bishop-of-killaloe-during-his-address-to-the.xml)  
+
 ### [2009-11-14](/news/2009/11/14/index.md)
 
+##### Pope
 #  The Papal ban on discussion of the ordination of women priests is challenged by Willie Walsh, Bishop of Killaloe, during his address to the Association of European Journalists in Dublin. 
 
 The Papal ban on discussing the ordination of women has been challenged by Bishop Willie Walsh of Killaloe.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8360523.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/1114/religion.html)

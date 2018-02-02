@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/5/pakistan-reinstates-supreme-court-judges-ousted-by-former-president-pervez-musharraf.html)  [JSON](/news/2008/09/5/pakistan-reinstates-supreme-court-judges-ousted-by-former-president-pervez-musharraf.json)  [XML](/news/2008/09/5/pakistan-reinstates-supreme-court-judges-ousted-by-former-president-pervez-musharraf.xml)  
+
 ### [2008-09-5](/news/2008/09/5/index.md)
 
+##### Pakistan
 #  Pakistan reinstates Supreme Court judges ousted by former President Pervez Musharraf. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/09/05/pakistan.judges/index.html)
 

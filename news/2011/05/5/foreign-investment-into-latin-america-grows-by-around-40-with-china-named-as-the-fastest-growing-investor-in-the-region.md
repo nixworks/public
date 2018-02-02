@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/5/foreign-investment-into-latin-america-grows-by-around-40-with-china-named-as-the-fastest-growing-investor-in-the-region.html)  [JSON](/news/2011/05/5/foreign-investment-into-latin-america-grows-by-around-40-with-china-named-as-the-fastest-growing-investor-in-the-region.json)  [XML](/news/2011/05/5/foreign-investment-into-latin-america-grows-by-around-40-with-china-named-as-the-fastest-growing-investor-in-the-region.xml)  
+
 ### [2011-05-5](/news/2011/05/5/index.md)
 
+##### Foreign investment
 # Foreign investment into Latin America grows by around 40%, with China named as the fastest growing investor in the region. 
 
 Foreign investment in Latin America grew by about 40% in 2010, with China the fastest growing investor, a UN study says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13294360)
 2. [People's Daily](http://english.peopledaily.com.cn/90001/90776/90883/7370858.html)

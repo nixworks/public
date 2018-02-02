@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/4/thousands-of-demonstrators-rally-in-banda-aceh-the-capital-of-indonesia-s-aceh-province-in-support-of-local-leaders-bid-to-adopt-a-separa.html)  [JSON](/news/2013/04/4/thousands-of-demonstrators-rally-in-banda-aceh-the-capital-of-indonesia-s-aceh-province-in-support-of-local-leaders-bid-to-adopt-a-separa.json)  [XML](/news/2013/04/4/thousands-of-demonstrators-rally-in-banda-aceh-the-capital-of-indonesia-s-aceh-province-in-support-of-local-leaders-bid-to-adopt-a-separa.xml)  
+
 ### [2013-04-4](/news/2013/04/4/index.md)
 
+##### Banda Aceh
 # Thousands of demonstrators rally in Banda Aceh, the capital of Indonesia's Aceh province, in support of local leaders' bid to adopt a separatist flag as the staunchly Islamic province's official emblem. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel NewsAsia](http://www.channelnewsasia.com/news/asiapacific/afp_asiapacific/thousands-rally-in-indonesia-s-aceh-for-/627186.html)
 

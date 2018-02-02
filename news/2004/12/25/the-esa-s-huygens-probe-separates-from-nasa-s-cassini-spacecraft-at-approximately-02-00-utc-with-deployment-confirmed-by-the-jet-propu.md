@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/25/the-esa-s-huygens-probe-separates-from-nasa-s-cassini-spacecraft-at-approximately-02-00-utc-with-deployment-confirmed-by-the-jet-propu.html)  [JSON](/news/2004/12/25/the-esa-s-huygens-probe-separates-from-nasa-s-cassini-spacecraft-at-approximately-02-00-utc-with-deployment-confirmed-by-the-jet-propu.json)  [XML](/news/2004/12/25/the-esa-s-huygens-probe-separates-from-nasa-s-cassini-spacecraft-at-approximately-02-00-utc-with-deployment-confirmed-by-the-jet-propu.xml)  
+
 ### [2004-12-25](/news/2004/12/25/index.md)
 
+##### ESA
 #  The ESA's "Huygens" probe separates from NASA's "Cassini" spacecraft at approximately 02:00 UTC, with deployment confirmed by the Jet Propulsion Laboratory. The probe will reach Saturn's moon Titan in 22 days, where it will make an atmospheric descent to the surface and relay scientific information. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Spaceflightnow](http://spaceflightnow.com/cassini/041224huygens.html)
 

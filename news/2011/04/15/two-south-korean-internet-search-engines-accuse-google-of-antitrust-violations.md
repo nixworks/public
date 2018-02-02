@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/15/two-south-korean-internet-search-engines-accuse-google-of-antitrust-violations.html)  [JSON](/news/2011/04/15/two-south-korean-internet-search-engines-accuse-google-of-antitrust-violations.json)  [XML](/news/2011/04/15/two-south-korean-internet-search-engines-accuse-google-of-antitrust-violations.xml)  
+
 ### [2011-04-15](/news/2011/04/15/index.md)
 
+##### South Korea
 # Two South Korean internet search engines accuse Google of antitrust violations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bernama](http://www.bernama.com.my/bernama/v5/newsindex.php?id=579288)
 

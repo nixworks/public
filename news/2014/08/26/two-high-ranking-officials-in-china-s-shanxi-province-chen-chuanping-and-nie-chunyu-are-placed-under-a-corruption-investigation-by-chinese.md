@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2014/08/26/two-high-ranking-officials-in-china-s-shanxi-province-chen-chuanping-and-nie-chunyu-are-placed-under-a-corruption-investigation-by-chinese.html)  [JSON](/news/2014/08/26/two-high-ranking-officials-in-china-s-shanxi-province-chen-chuanping-and-nie-chunyu-are-placed-under-a-corruption-investigation-by-chinese.json)  [XML](/news/2014/08/26/two-high-ranking-officials-in-china-s-shanxi-province-chen-chuanping-and-nie-chunyu-are-placed-under-a-corruption-investigation-by-chinese.xml)  
+
 ### [2014-08-26](/news/2014/08/26/index.md)
 
+##### Shanxi province
 # Two high-ranking officials in China's Shanxi province, Chen Chuanping and Nie Chunyu, are placed under a corruption investigation by Chinese Communist Party authorities. Chen Chuanping was the CPC party chief of Taiyuan, the provincial capital. The president of China Resources Power, Wang Yujun, is also detained. 
 
+China’s anti-graft watchdog said it’s investigating two top officials in the northern province of Shanxi, broadening a campaign in the coal-rich region that’s snared the brother of an aide to former President Hu Jintao.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2014-08-23/china-probes-two-top-officials-in-shanxi-amid-anti-graft-drive.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2014-08-23/china-probes-two-top-officials-in-shanxi-amid-anti-graft-drive.html)
 2. [SCMP](http://www.scmp.com/news/china/article/1581011/china-resources-power-president-and-shanxi-tycoon-detained-authorities)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

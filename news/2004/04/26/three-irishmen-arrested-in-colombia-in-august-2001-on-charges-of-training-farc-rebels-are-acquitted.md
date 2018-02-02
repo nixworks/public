@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/26/three-irishmen-arrested-in-colombia-in-august-2001-on-charges-of-training-farc-rebels-are-acquitted.html)  [JSON](/news/2004/04/26/three-irishmen-arrested-in-colombia-in-august-2001-on-charges-of-training-farc-rebels-are-acquitted.json)  [XML](/news/2004/04/26/three-irishmen-arrested-in-colombia-in-august-2001-on-charges-of-training-farc-rebels-are-acquitted.xml)  
+
 ### [2004-04-26](/news/2004/04/26/index.md)
 
+##### Ireland
 #  Three Irishmen arrested in Colombia in August 2001 on charges of training FARC rebels are acquitted. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/3660557.stm)
 

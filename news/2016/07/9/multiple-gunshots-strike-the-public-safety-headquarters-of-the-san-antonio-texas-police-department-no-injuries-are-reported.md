@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/9/multiple-gunshots-strike-the-public-safety-headq
 
 ### [2016-07-9](/news/2016/07/9/index.md)
 
+##### the shooting of Dallas police officers
 # Multiple gunshots strike the public safety headquarters of the San Antonio, Texas, Police Department. No injuries are reported. 
 
 

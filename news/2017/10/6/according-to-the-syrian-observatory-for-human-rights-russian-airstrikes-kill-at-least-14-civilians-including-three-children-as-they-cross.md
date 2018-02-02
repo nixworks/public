@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/6/according-to-the-syrian-observatory-for-human-ri
 
 ### [2017-10-6](/news/2017/10/6/index.md)
 
+##### Syrian Civil War
 # According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. 
 
 Syrian Observatory for Human Rights say civilians, including three children, were fleeing the village of Mahkan, south of Al Mayadeen city.

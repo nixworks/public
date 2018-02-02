@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/26/the-u-k-chancellor-of-the-exchequer-asks-the-bank-of-england-whether-it-needs-more-power-the-central-bank-s-financial-policy-committee-wil.html)  [JSON](/news/2013/11/26/the-u-k-chancellor-of-the-exchequer-asks-the-bank-of-england-whether-it-needs-more-power-the-central-bank-s-financial-policy-committee-wil.json)  [XML](/news/2013/11/26/the-u-k-chancellor-of-the-exchequer-asks-the-bank-of-england-whether-it-needs-more-power-the-central-bank-s-financial-policy-committee-wil.xml)  
+
 ### [2013-11-26](/news/2013/11/26/index.md)
 
+##### Chancellor of the Exchequer
 # The U.K. Chancellor of the Exchequer asks the Bank of England whether it needs more power. The central bank's Financial Policy Committee will study the question. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-25103344)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71348000/jpg/_71348111_if020r8q.jpg)

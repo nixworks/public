@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/27/the-top-united-nations-official-in-haiti-raises-concerns-about-a-sharp-increase-in-lynchings-and-other-forms-of-mob-violence.html)  [JSON](/news/2007/07/27/the-top-united-nations-official-in-haiti-raises-concerns-about-a-sharp-increase-in-lynchings-and-other-forms-of-mob-violence.json)  [XML](/news/2007/07/27/the-top-united-nations-official-in-haiti-raises-concerns-about-a-sharp-increase-in-lynchings-and-other-forms-of-mob-violence.xml)  
+
 ### [2007-07-27](/news/2007/07/27/index.md)
 
+##### United Nations
 #  The top United Nations official in Haiti raises concerns about a sharp increase in lynchings and other forms of mob violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (AP via IHT](http://www.iht.com/articles/ap/2007/07/28/news/CB-GEN-Haiti-UN-Lynchings.php)
 

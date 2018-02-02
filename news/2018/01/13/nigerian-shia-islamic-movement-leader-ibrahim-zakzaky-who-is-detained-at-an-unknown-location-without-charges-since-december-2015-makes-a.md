@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/13/nigerian-shia-islamic-movement-leader-ibrahim-z
 
 ### [2018-01-13](/news/2018/01/13/index.md)
 
+##### Nigeria
 # Nigerian Shia Islamic Movement leader, Ibrahim Zakzaky, who is detained at an unknown location without charges since December 2015, makes a short public appearance, his first in two years, being allowed to see his doctor. 
 
 

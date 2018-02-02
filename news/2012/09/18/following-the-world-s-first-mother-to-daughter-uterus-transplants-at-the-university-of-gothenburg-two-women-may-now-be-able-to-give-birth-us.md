@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/18/following-the-world-s-first-mother-to-daughter-uterus-transplants-at-the-university-of-gothenburg-two-women-may-now-be-able-to-give-birth-us.html)  [JSON](/news/2012/09/18/following-the-world-s-first-mother-to-daughter-uterus-transplants-at-the-university-of-gothenburg-two-women-may-now-be-able-to-give-birth-us.json)  [XML](/news/2012/09/18/following-the-world-s-first-mother-to-daughter-uterus-transplants-at-the-university-of-gothenburg-two-women-may-now-be-able-to-give-birth-us.xml)  
+
 ### [2012-09-18](/news/2012/09/18/index.md)
 
+##### uterus
 # Following the world's first mother-to-daughter uterus transplants at the University of Gothenburg two women may now be able to give birth using the wombs in which they were carried. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19637156)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62964000/jpg/_62964096_62964095.jpg)

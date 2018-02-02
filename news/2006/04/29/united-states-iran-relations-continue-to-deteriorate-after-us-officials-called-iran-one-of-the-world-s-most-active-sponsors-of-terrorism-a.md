@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/29/united-states-iran-relations-continue-to-deteriorate-after-us-officials-called-iran-one-of-the-world-s-most-active-sponsors-of-terrorism-a.html)  [JSON](/news/2006/04/29/united-states-iran-relations-continue-to-deteriorate-after-us-officials-called-iran-one-of-the-world-s-most-active-sponsors-of-terrorism-a.json)  [XML](/news/2006/04/29/united-states-iran-relations-continue-to-deteriorate-after-us-officials-called-iran-one-of-the-world-s-most-active-sponsors-of-terrorism-a.xml)  
+
 ### [2006-04-29](/news/2006/04/29/index.md)
 
+##### administration's policy
 #  United States-Iran relations continue to deteriorate after US officials called Iran one of the world's most active sponsors of terrorism, as IAEA reveals that Tehran has successfully enriched uranium and is racing ahead with its nuclear programme. Iran says it does not "give a damn" about the verdict from the IAEA director Mohamed ElBaradei and what it might lead to. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP/ABC News](http://abcnews.go.com/International/wireStory?id=1902729)
 2. [The Guardian](http://www.guardian.co.uk/iran/story/0,,1764159,00.html)

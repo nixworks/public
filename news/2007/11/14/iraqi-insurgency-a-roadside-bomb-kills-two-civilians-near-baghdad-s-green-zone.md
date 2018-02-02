@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/14/iraqi-insurgency-a-roadside-bomb-kills-two-civilians-near-baghdad-s-green-zone.html)  [JSON](/news/2007/11/14/iraqi-insurgency-a-roadside-bomb-kills-two-civilians-near-baghdad-s-green-zone.json)  [XML](/news/2007/11/14/iraqi-insurgency-a-roadside-bomb-kills-two-civilians-near-baghdad-s-green-zone.xml)  
+
 ### [2007-11-14](/news/2007/11/14/index.md)
 
+##### Iraqi insurgency
 #  Iraqi insurgency: A roadside bomb kills two civilians near Baghdad's Green Zone. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7094369.stm)
 

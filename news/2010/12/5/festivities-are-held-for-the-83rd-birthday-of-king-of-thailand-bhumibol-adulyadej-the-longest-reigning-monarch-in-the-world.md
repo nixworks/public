@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/5/festivities-are-held-for-the-83rd-birthday-of-king-of-thailand-bhumibol-adulyadej-the-longest-reigning-monarch-in-the-world.html)  [JSON](/news/2010/12/5/festivities-are-held-for-the-83rd-birthday-of-king-of-thailand-bhumibol-adulyadej-the-longest-reigning-monarch-in-the-world.json)  [XML](/news/2010/12/5/festivities-are-held-for-the-83rd-birthday-of-king-of-thailand-bhumibol-adulyadej-the-longest-reigning-monarch-in-the-world.xml)  
+
 ### [2010-12-5](/news/2010/12/5/index.md)
 
+##### King
 # Festivities are held for the 83rd birthday of King of Thailand Bhumibol Adulyadej, the longest reigning monarch in the world. 
 
 Festivities mark 83rd birthday of Bhumibol Adulyadej amid concerns for his health.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/asia-pacific/2010/12/20101257551957151.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/5/201012574827591112_20.jpg)

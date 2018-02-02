@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/16/ruth-padel-becomes-the-university-of-oxford-s-first-female-professor-of-poetry.html)  [JSON](/news/2009/05/16/ruth-padel-becomes-the-university-of-oxford-s-first-female-professor-of-poetry.json)  [XML](/news/2009/05/16/ruth-padel-becomes-the-university-of-oxford-s-first-female-professor-of-poetry.xml)  
+
 ### [2009-05-16](/news/2009/05/16/index.md)
 
+##### Ruth Padel
 #  Ruth Padel becomes the University of Oxford's first female Professor of Poetry. 
 
 Ruth Padel has become the new Oxford Professor of Poetry today, following a contest tinged with controversy.
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0516/breaking39.htm)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

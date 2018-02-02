@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/31/moody-s-investor-services-announces-that-japan-s-local-and-foreign-currency-bond-ratings-under-review-because-of-the-impact-of-the-2011-tah.html)  [JSON](/news/2011/05/31/moody-s-investor-services-announces-that-japan-s-local-and-foreign-currency-bond-ratings-under-review-because-of-the-impact-of-the-2011-tah.json)  [XML](/news/2011/05/31/moody-s-investor-services-announces-that-japan-s-local-and-foreign-currency-bond-ratings-under-review-because-of-the-impact-of-the-2011-tah.xml)  
+
 ### [2011-05-31](/news/2011/05/31/index.md)
 
+##### Moody's Investor Services
 # Moody's Investor Services announces that Japan's local and foreign currency bond ratings under review because of the impact of the 2011 Tohoku earthquake and tsunami. 
 
 Ratings agency places Japanese bond ratings on review due to long-term fiscal concerns.
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://www.marketwatch.com/story/moodys-puts-japan-on-review-for-downgrade-2011-05-30)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)

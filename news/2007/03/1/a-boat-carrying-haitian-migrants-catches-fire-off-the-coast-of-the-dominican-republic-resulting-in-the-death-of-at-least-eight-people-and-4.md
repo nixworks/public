@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/1/a-boat-carrying-haitian-migrants-catches-fire-off-the-coast-of-the-dominican-republic-resulting-in-the-death-of-at-least-eight-people-and-4.html)  [JSON](/news/2007/03/1/a-boat-carrying-haitian-migrants-catches-fire-off-the-coast-of-the-dominican-republic-resulting-in-the-death-of-at-least-eight-people-and-4.json)  [XML](/news/2007/03/1/a-boat-carrying-haitian-migrants-catches-fire-off-the-coast-of-the-dominican-republic-resulting-in-the-death-of-at-least-eight-people-and-4.xml)  
+
 ### [2007-03-1](/news/2007/03/1/index.md)
 
+##### Haiti
 #  A boat carrying Haitian migrants catches fire off the coast of the Dominican Republic resulting in the death of at least eight people and 44 people missing. 
 
 U.S. Coast Guard searches for 44 missing people from a vessel, which caught fire while traveling between Haiti and Turks and Caicos.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,255938,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

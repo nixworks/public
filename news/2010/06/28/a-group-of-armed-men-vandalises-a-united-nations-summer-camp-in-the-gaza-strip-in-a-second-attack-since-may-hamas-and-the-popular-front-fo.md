@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/28/a-group-of-armed-men-vandalises-a-united-nations-summer-camp-in-the-gaza-strip-in-a-second-attack-since-may-hamas-and-the-popular-front-fo.html)  [JSON](/news/2010/06/28/a-group-of-armed-men-vandalises-a-united-nations-summer-camp-in-the-gaza-strip-in-a-second-attack-since-may-hamas-and-the-popular-front-fo.json)  [XML](/news/2010/06/28/a-group-of-armed-men-vandalises-a-united-nations-summer-camp-in-the-gaza-strip-in-a-second-attack-since-may-hamas-and-the-popular-front-fo.xml)  
+
 ### [2010-06-28](/news/2010/06/28/index.md)
 
+##### United Nations
 # A group of armed men vandalises a United Nations summer camp in the Gaza Strip, in a second attack since May. Hamas and the Popular Front for the Liberation of Palestine condemn the attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/201062819215601151.html)
 1. [Cover Image](http://www.aljazeera.com)

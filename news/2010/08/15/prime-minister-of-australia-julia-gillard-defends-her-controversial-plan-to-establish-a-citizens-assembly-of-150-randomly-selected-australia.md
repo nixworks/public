@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/15/prime-minister-of-australia-julia-gillard-defends-her-controversial-plan-to-establish-a-citizens-assembly-of-150-randomly-selected-australia.html)  [JSON](/news/2010/08/15/prime-minister-of-australia-julia-gillard-defends-her-controversial-plan-to-establish-a-citizens-assembly-of-150-randomly-selected-australia.json)  [XML](/news/2010/08/15/prime-minister-of-australia-julia-gillard-defends-her-controversial-plan-to-establish-a-citizens-assembly-of-150-randomly-selected-australia.xml)  
+
 ### [2010-08-15](/news/2010/08/15/index.md)
 
+##### Australian Prime Minister
 # Prime Minister of Australia Julia Gillard defends her controversial plan to establish a citizens assembly of 150 randomly-selected Australians who would consider climate change. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/gillard-defends-citizens-assembly-20100815-124td.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

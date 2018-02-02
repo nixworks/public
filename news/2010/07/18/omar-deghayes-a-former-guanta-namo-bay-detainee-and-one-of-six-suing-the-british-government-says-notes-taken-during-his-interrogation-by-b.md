@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/18/omar-deghayes-a-former-guanta-namo-bay-detainee-and-one-of-six-suing-the-british-government-says-notes-taken-during-his-interrogation-by-b.html)  [JSON](/news/2010/07/18/omar-deghayes-a-former-guanta-namo-bay-detainee-and-one-of-six-suing-the-british-government-says-notes-taken-during-his-interrogation-by-b.json)  [XML](/news/2010/07/18/omar-deghayes-a-former-guanta-namo-bay-detainee-and-one-of-six-suing-the-british-government-says-notes-taken-during-his-interrogation-by-b.xml)  
+
 ### [2010-07-18](/news/2010/07/18/index.md)
 
+##### Omar Deghayes
 # Omar Deghayes, a former Guantanamo Bay detainee and one of six suing the British government, says notes taken during his interrogation by British security service officers have been censored to hide the fact that he was tortured by agents and to avoid potentially embarrassing questions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/jul/18/guantanamo-bay-interrogation-detainee)
 

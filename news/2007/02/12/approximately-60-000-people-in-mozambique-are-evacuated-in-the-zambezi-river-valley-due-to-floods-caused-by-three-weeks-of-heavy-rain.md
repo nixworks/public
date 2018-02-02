@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/12/approximately-60-000-people-in-mozambique-are-evacuated-in-the-zambezi-river-valley-due-to-floods-caused-by-three-weeks-of-heavy-rain.html)  [JSON](/news/2007/02/12/approximately-60-000-people-in-mozambique-are-evacuated-in-the-zambezi-river-valley-due-to-floods-caused-by-three-weeks-of-heavy-rain.json)  [XML](/news/2007/02/12/approximately-60-000-people-in-mozambique-are-evacuated-in-the-zambezi-river-valley-due-to-floods-caused-by-three-weeks-of-heavy-rain.xml)  
+
 ### [2007-02-12](/news/2007/02/12/index.md)
 
+##### Mozambique
 #  Approximately 60,000 people in Mozambique are evacuated in the Zambezi River valley due to floods caused by three weeks of heavy rain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6355759.stm)
 

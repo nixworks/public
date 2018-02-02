@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/16/sixty-five-thousand-people-in-the-indian-state-of-assam-are-affected-by-floods-and-heavy-rainfall.html)  [JSON](/news/2015/07/16/sixty-five-thousand-people-in-the-indian-state-of-assam-are-affected-by-floods-and-heavy-rainfall.json)  [XML](/news/2015/07/16/sixty-five-thousand-people-in-the-indian-state-of-assam-are-affected-by-floods-and-heavy-rainfall.xml)  
+
 ### [2015-07-16](/news/2015/07/16/index.md)
 
+##### India
 # Sixty-five thousand people in the Indian state of Assam are affected by floods and heavy rainfall. 
 
 65,000 people in over 155 villages have been affected due to the incessant rains and floods in the state.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/india-news/65-000-people-affected-due-to-floods-in-assam-781909)
 1. [Cover Image](http://i.ndtvimg.com/i/2015-07/assam-floods_650x400_81436990946.jpg)

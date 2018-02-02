@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/26/researchers-at-the-united-states-department-of-
 
 ### [2016-05-26](/news/2016/05/26/index.md)
 
+##### U.S. military
 # Researchers at the United States Department of Defense report, in the journal "Antimicrobial Agents and Chemotherapy", the discovery in the United States of a strain of "E. coli" that includes the new gene MCR-1, which is resistant to colistin, a last-resort antibiotic. 
 
 For the first time, researchers have found a person in the United States carrying bacteria resistant to antibiotics of last resort. CDC chief says this could mean &quot;the end of the road&quot; for antibiotics.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/18/42-people-die-following-a-stampede-in-the-indian-city-of-chennai.html)  [JSON](/news/2005/12/18/42-people-die-following-a-stampede-in-the-indian-city-of-chennai.json)  [XML](/news/2005/12/18/42-people-die-following-a-stampede-in-the-indian-city-of-chennai.xml)  
+
 ### [2005-12-18](/news/2005/12/18/index.md)
 
+##### India
 #  42 people die following a stampede in the Indian city of Chennai. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4539192.stm)
 

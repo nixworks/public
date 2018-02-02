@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/1/zanzibar-s-ruling-chama-cha-mapinduzi-party-and-president-amani-abeid-karume-are-declared-re-elected-in-a-disputed-election-police-clashed.html)  [JSON](/news/2005/11/1/zanzibar-s-ruling-chama-cha-mapinduzi-party-and-president-amani-abeid-karume-are-declared-re-elected-in-a-disputed-election-police-clashed.json)  [XML](/news/2005/11/1/zanzibar-s-ruling-chama-cha-mapinduzi-party-and-president-amani-abeid-karume-are-declared-re-elected-in-a-disputed-election-police-clashed.xml)  
+
 ### [2005-11-1](/news/2005/11/1/index.md)
 
+##### Zanzibar
 #  Zanzibar's ruling Chama Cha Mapinduzi party and President Amani Abeid Karume are declared re-elected in a disputed election. Police clashed with opposition supporters, leaving 9 dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-5384636,00.html)
 2. [Reuters](http://today.reuters.co.uk/news/NewsArticle.aspx?type=worldNews&storyID=2005-11-01T125539Z_01_YUE146410_RTRUKOT_0_TEXT0.xml&related=true)

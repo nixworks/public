@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/5/sky-news-admits-illegally-hacking-emails-belonging-to-members-of-the-public-on-two-separate-occasions.html)  [JSON](/news/2012/04/5/sky-news-admits-illegally-hacking-emails-belonging-to-members-of-the-public-on-two-separate-occasions.json)  [XML](/news/2012/04/5/sky-news-admits-illegally-hacking-emails-belonging-to-members-of-the-public-on-two-separate-occasions.xml)  
+
 ### [2012-04-5](/news/2012/04/5/index.md)
 
+##### Sky News
 # Sky News admits illegally hacking emails belonging to members of the public on two separate occasions. 
 
 Sky News has said it illegally hacked emails on two occasions, including those belonging to John Darwin, who faked his own death in a canoe.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17628600)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52380000/jpg/_52380260_005909277-1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/4/more-evacuations-take-place-in-queensland-australia-as-flood-waters-continued-to-rise-and-the-australian-prime-minister-says-damages-could.html)  [JSON](/news/2011/01/4/more-evacuations-take-place-in-queensland-australia-as-flood-waters-continued-to-rise-and-the-australian-prime-minister-says-damages-could.json)  [XML](/news/2011/01/4/more-evacuations-take-place-in-queensland-australia-as-flood-waters-continued-to-rise-and-the-australian-prime-minister-says-damages-could.xml)  
+
 ### [2011-01-4](/news/2011/01/4/index.md)
 
+##### Queensland
 # More evacuations take place in Queensland, Australia, as flood waters continued to rise and the Australian prime minister says damages could amount to hundreds of millions of dollars. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/01/04/australia.floods/index.html?hpt=T2)
 

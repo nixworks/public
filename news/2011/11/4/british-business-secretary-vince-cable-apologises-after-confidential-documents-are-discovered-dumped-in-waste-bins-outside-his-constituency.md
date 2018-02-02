@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/4/british-business-secretary-vince-cable-apologises-after-confidential-documents-are-discovered-dumped-in-waste-bins-outside-his-constituency.html)  [JSON](/news/2011/11/4/british-business-secretary-vince-cable-apologises-after-confidential-documents-are-discovered-dumped-in-waste-bins-outside-his-constituency.json)  [XML](/news/2011/11/4/british-business-secretary-vince-cable-apologises-after-confidential-documents-are-discovered-dumped-in-waste-bins-outside-his-constituency.xml)  
+
 ### [2011-11-4](/news/2011/11/4/index.md)
 
+##### Secretary of State for Business
 # British Business Secretary Vince Cable apologises after confidential documents are discovered dumped in waste bins outside his constituency office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-15588726)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56285000/jpg/_56285848_013226521-1.jpg)

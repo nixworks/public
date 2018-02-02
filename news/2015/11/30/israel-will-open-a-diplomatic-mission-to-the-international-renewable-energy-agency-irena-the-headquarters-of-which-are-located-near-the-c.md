@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/11/30/israel-will-open-a-diplomatic-mission-to-the-international-renewable-energy-agency-irena-the-headquarters-of-which-are-located-near-the-c.html)  [JSON](/news/2015/11/30/israel-will-open-a-diplomatic-mission-to-the-international-renewable-energy-agency-irena-the-headquarters-of-which-are-located-near-the-c.json)  [XML](/news/2015/11/30/israel-will-open-a-diplomatic-mission-to-the-international-renewable-energy-agency-irena-the-headquarters-of-which-are-located-near-the-c.xml)  
+
 ### [2015-11-30](/news/2015/11/30/index.md)
 
+##### Israel
 # Israel will open a diplomatic mission to the International Renewable Energy Agency (Irena), the headquarters of which are located near the capital of the United Arab Emirates, Abu Dhabi. Israel will be the first Irena member to open such a mission; other member nations work Irena relations from their missions to the UAE, which Israel does not have. 
 
+The mission at the International Renewable Energy Agency will be the first time in more than a decade that there will be an official Israeli presence in the Persian Gulf.
 
 
+### Sources:
 
-### Source:
-
-1. [The New York Times](http://www.nytimes.com/2015/11/28/world/middleeast/israel-to-open-diplomatic-office-in-united-arab-emirates.html?ribbon-ad-idx=3&rref=world/middleeast&module=Ribbon&version=context&region=Header&action=click&contentCollection=Middle%20East&pgtype=article)
+1. [The New York Times](https://www.nytimes.com/2015/11/28/world/middleeast/israel-to-open-diplomatic-office-in-united-arab-emirates.html?ribbon-ad-idx=3&rref=world/middleeast&module=Ribbon&version=context&region=Header&action=click&contentCollection=Middle%20East&pgtype=article)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

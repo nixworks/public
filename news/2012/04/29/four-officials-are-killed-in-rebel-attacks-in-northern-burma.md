@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/29/four-officials-are-killed-in-rebel-attacks-in-northern-burma.html)  [JSON](/news/2012/04/29/four-officials-are-killed-in-rebel-attacks-in-northern-burma.json)  [XML](/news/2012/04/29/four-officials-are-killed-in-rebel-attacks-in-northern-burma.xml)  
+
 ### [2012-04-29](/news/2012/04/29/index.md)
 
+##### Burma
 # Four officials are killed in rebel attacks in northern Burma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/breaking-news-old/four-dead-in-burma-rebel-attacks/story-fn3dxity-1226342063127)
 

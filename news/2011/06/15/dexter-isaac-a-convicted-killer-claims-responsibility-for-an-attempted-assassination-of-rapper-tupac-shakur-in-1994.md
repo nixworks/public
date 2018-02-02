@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/15/dexter-isaac-a-convicted-killer-claims-responsibility-for-an-attempted-assassination-of-rapper-tupac-shakur-in-1994.html)  [JSON](/news/2011/06/15/dexter-isaac-a-convicted-killer-claims-responsibility-for-an-attempted-assassination-of-rapper-tupac-shakur-in-1994.json)  [XML](/news/2011/06/15/dexter-isaac-a-convicted-killer-claims-responsibility-for-an-attempted-assassination-of-rapper-tupac-shakur-in-1994.xml)  
+
 ### [2011-06-15](/news/2011/06/15/index.md)
 
+##### rapper
 # Dexter Isaac, a convicted killer, claims responsibility for an attempted assassination of rapper Tupac Shakur in 1994. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Post](http://www.nypost.com/p/news/local/convict_claims_he_shot_tupac_shakur_AKgKX4lHvLJVNiVV8MWaKN)
 

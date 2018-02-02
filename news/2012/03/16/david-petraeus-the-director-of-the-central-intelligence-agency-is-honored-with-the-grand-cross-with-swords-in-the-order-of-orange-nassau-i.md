@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/16/david-petraeus-the-director-of-the-central-intelligence-agency-is-honored-with-the-grand-cross-with-swords-in-the-order-of-orange-nassau-i.html)  [JSON](/news/2012/03/16/david-petraeus-the-director-of-the-central-intelligence-agency-is-honored-with-the-grand-cross-with-swords-in-the-order-of-orange-nassau-i.json)  [XML](/news/2012/03/16/david-petraeus-the-director-of-the-central-intelligence-agency-is-honored-with-the-grand-cross-with-swords-in-the-order-of-orange-nassau-i.xml)  
+
 ### [2012-03-16](/news/2012/03/16/index.md)
 
+##### David Petraeus
 # David Petraeus, the Director of the Central Intelligence Agency, is honored with the Grand Cross with swords in the Order of Orange-Nassau in The Hague for his service as a four-star general in Iraq and Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NOS](http://nos.nl/artikel/352354-nederlandse-eer-voor-ciachef.html)
 1. [Cover Image](http://nos.nl/bundles/nossite/img/placeholders/no_image.png?170322)

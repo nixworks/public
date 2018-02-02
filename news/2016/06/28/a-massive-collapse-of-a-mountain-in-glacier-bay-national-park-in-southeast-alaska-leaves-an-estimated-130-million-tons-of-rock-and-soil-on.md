@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/28/a-massive-collapse-of-a-mountain-in-glacier-bay
 
 ### [2016-06-28](/news/2016/06/28/index.md)
 
+##### Glacier Bay National Park
 #  A massive collapse of a mountain in Glacier Bay National Park in Southeast Alaska leaves an estimated 130 million tons of rock and soil on top of Lamplugh Glacier. The collapse was the largest seen in many years. 
 
 The slide in Glacier Bay National Park was the equivalent of about 60 million medium-size SUVs falling down a mountain, a scientist says.

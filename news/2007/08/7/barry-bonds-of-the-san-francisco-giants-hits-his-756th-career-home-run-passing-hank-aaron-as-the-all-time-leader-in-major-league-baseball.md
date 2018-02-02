@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/7/barry-bonds-of-the-san-francisco-giants-hits-his-756th-career-home-run-passing-hank-aaron-as-the-all-time-leader-in-major-league-baseball.html)  [JSON](/news/2007/08/7/barry-bonds-of-the-san-francisco-giants-hits-his-756th-career-home-run-passing-hank-aaron-as-the-all-time-leader-in-major-league-baseball.json)  [XML](/news/2007/08/7/barry-bonds-of-the-san-francisco-giants-hits-his-756th-career-home-run-passing-hank-aaron-as-the-all-time-leader-in-major-league-baseball.xml)  
+
 ### [2007-08-7](/news/2007/08/7/index.md)
 
+##### Barry Bonds
 #  Barry Bonds of the San Francisco Giants hits his 756th career home run, passing Hank Aaron as the all-time leader in Major League Baseball. Bonds hits the shot against Washington Nationals pitcher Mike Bacsik in the fifth inning of their game at AT&T Park in San Francisco, California. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/other_sports/baseball/6936213.stm)
 2. [MLB.com](http://mlb.mlb.com/news/article.jsp?ymd=20070806&content_id=2133618&vkey=news_mlb&fext=.jsp&c_id=mlb)

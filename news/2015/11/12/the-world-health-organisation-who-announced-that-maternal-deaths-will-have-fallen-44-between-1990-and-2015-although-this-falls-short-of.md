@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/12/the-world-health-organisation-who-announced-that-maternal-deaths-will-have-fallen-44-between-1990-and-2015-although-this-falls-short-of.html)  [JSON](/news/2015/11/12/the-world-health-organisation-who-announced-that-maternal-deaths-will-have-fallen-44-between-1990-and-2015-although-this-falls-short-of.json)  [XML](/news/2015/11/12/the-world-health-organisation-who-announced-that-maternal-deaths-will-have-fallen-44-between-1990-and-2015-although-this-falls-short-of.xml)  
+
 ### [2015-11-12](/news/2015/11/12/index.md)
 
+##### World Health Organisation
 # The World Health Organisation (WHO) announced that maternal deaths will have fallen 44% between 1990 and 2015; although, this falls short of the United Nation's Millennium Development Goal of 75% reduction. 
 
 A United Nations report says pregnancy-related deaths have fallen by almost 50% since 1990, but only nine countries hit UN targets.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-34796833)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/BA12/production/_86643674_029696709-1.jpg)

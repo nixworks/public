@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/25/recently-re-elected-venezuelan-president-hugo-cha-vez-starts-walking-and-exercising-again-following-a-recent-cancer-operation.html)  [JSON](/news/2012/12/25/recently-re-elected-venezuelan-president-hugo-cha-vez-starts-walking-and-exercising-again-following-a-recent-cancer-operation.json)  [XML](/news/2012/12/25/recently-re-elected-venezuelan-president-hugo-cha-vez-starts-walking-and-exercising-again-following-a-recent-cancer-operation.xml)  
+
 ### [2012-12-25](/news/2012/12/25/index.md)
 
+##### Venezuela
 # Recently re-elected Venezuelan president Hugo Chavez starts walking and exercising again following a recent cancer operation. 
 
 Venezuelan President Hugo Chavez has improved after a cancer operation and has started walking and exercising, his deputy says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-20840451)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64936000/jpg/_64936604_jywlx896.jpg)

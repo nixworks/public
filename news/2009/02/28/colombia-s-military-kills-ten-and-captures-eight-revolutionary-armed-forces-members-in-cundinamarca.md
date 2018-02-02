@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/28/colombia-s-military-kills-ten-and-captures-eight-revolutionary-armed-forces-members-in-cundinamarca.html)  [JSON](/news/2009/02/28/colombia-s-military-kills-ten-and-captures-eight-revolutionary-armed-forces-members-in-cundinamarca.json)  [XML](/news/2009/02/28/colombia-s-military-kills-ten-and-captures-eight-revolutionary-armed-forces-members-in-cundinamarca.xml)  
+
 ### [2009-02-28](/news/2009/02/28/index.md)
 
+##### Colombia
 #  Colombia's military kills ten and captures eight Revolutionary Armed Forces members in Cundinamarca. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7916228.stm)
 

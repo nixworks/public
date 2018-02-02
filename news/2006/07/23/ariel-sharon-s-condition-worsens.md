@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/23/ariel-sharon-s-condition-worsens.html)  [JSON](/news/2006/07/23/ariel-sharon-s-condition-worsens.json)  [XML](/news/2006/07/23/ariel-sharon-s-condition-worsens.xml)  
+
 ### [2006-07-23](/news/2006/07/23/index.md)
 
+##### Ariel Sharon
 #  Ariel Sharon's condition worsens. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5208430.stm)
 

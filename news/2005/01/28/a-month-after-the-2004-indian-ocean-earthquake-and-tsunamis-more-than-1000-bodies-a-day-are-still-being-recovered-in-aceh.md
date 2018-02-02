@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/28/a-month-after-the-2004-indian-ocean-earthquake-and-tsunamis-more-than-1000-bodies-a-day-are-still-being-recovered-in-aceh.html)  [JSON](/news/2005/01/28/a-month-after-the-2004-indian-ocean-earthquake-and-tsunamis-more-than-1000-bodies-a-day-are-still-being-recovered-in-aceh.json)  [XML](/news/2005/01/28/a-month-after-the-2004-indian-ocean-earthquake-and-tsunamis-more-than-1000-bodies-a-day-are-still-being-recovered-in-aceh.xml)  
+
 ### [2005-01-28](/news/2005/01/28/index.md)
 
+##### 2004 Indian Ocean earthquake
 #  A month after the 2004 Indian Ocean earthquake and tsunamis, more than 1000 bodies a day are still being recovered in Aceh. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Melbourne Herald Sun](http://www.heraldsun.news.com.au/common/story_page/0,5478,12048399%255E1702,00.html)
 

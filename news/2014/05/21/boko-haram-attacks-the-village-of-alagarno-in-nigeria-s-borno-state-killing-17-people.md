@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/21/boko-haram-attacks-the-village-of-alagarno-in-nigeria-s-borno-state-killing-17-people.html)  [JSON](/news/2014/05/21/boko-haram-attacks-the-village-of-alagarno-in-nigeria-s-borno-state-killing-17-people.json)  [XML](/news/2014/05/21/boko-haram-attacks-the-village-of-alagarno-in-nigeria-s-borno-state-killing-17-people.xml)  
+
 ### [2014-05-21](/news/2014/05/21/index.md)
 
+##### Boko Haram
 # Boko Haram attacks the village of Alagarno, in Nigeria's Borno State, killing 17 people. 
 
 Suspected Boko Haram fighters are accused of killing at least 27 people in two northern Nigeria villages, a day after deadly bombings in the city of Jos.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27498598)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/74999000/jpg/_74999814_74999813.jpg)

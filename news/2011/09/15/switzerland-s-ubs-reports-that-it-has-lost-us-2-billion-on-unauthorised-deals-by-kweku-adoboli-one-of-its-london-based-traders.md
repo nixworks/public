@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/09/15/switzerland-s-ubs-reports-that-it-has-lost-us-2-billion-on-unauthorised-deals-by-kweku-adoboli-one-of-its-london-based-traders.html)  [JSON](/news/2011/09/15/switzerland-s-ubs-reports-that-it-has-lost-us-2-billion-on-unauthorised-deals-by-kweku-adoboli-one-of-its-london-based-traders.json)  [XML](/news/2011/09/15/switzerland-s-ubs-reports-that-it-has-lost-us-2-billion-on-unauthorised-deals-by-kweku-adoboli-one-of-its-london-based-traders.xml)  
+
 ### [2011-09-15](/news/2011/09/15/index.md)
 
+##### Switzerland
 # Switzerland's UBS reports that it has lost US$2 billion on unauthorised deals by Kweku Adoboli, one of its London-based traders. 
 
 Swiss bank UBS said it had lost around $2 billion due to rogue dealing by a London-based trader at the Swiss bank and
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/09/15/us-ubs-idUSTRE78E15I20110915)
+1. [Reuters](https://www.reuters.com/article/2011/09/15/us-ubs-idUSTRE78E15I20110915)
 2. [The Guardian](http://www.guardian.co.uk/business/2011/sep/15/ubs-rogue-trader-man-arrested)
-2. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110915&t=2&i=501854925&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-09-15T203746Z_01_BTRE78E1LB100_RTROPTP_0_UBS)
+2. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110915&t=2&i=501854925&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-09-15T203746Z_01_BTRE78E1LB100_RTROPTP_0_UBS)
 
 ### Related:
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/03/2/a-dust-storm-hits-christchurch-new-zealand-hampering-the-recovery-efforts-from-the-2011-canterbury-earthquake.html)  [JSON](/news/2011/03/2/a-dust-storm-hits-christchurch-new-zealand-hampering-the-recovery-efforts-from-the-2011-canterbury-earthquake.json)  [XML](/news/2011/03/2/a-dust-storm-hits-christchurch-new-zealand-hampering-the-recovery-efforts-from-the-2011-canterbury-earthquake.xml)  
+
 ### [2011-03-2](/news/2011/03/2/index.md)
 
+##### dust storm
 # A dust storm hits Christchurch, New Zealand, hampering the recovery efforts from the 2011 Canterbury earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20110302/ts_afp/nzealandquake)
+1. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20110302/ts_afp/nzealandquake)
 
 ### Related:
 

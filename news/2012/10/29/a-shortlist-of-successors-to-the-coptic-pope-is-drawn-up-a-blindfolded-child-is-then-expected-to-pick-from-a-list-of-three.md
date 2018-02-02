@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/29/a-shortlist-of-successors-to-the-coptic-pope-is-drawn-up-a-blindfolded-child-is-then-expected-to-pick-from-a-list-of-three.html)  [JSON](/news/2012/10/29/a-shortlist-of-successors-to-the-coptic-pope-is-drawn-up-a-blindfolded-child-is-then-expected-to-pick-from-a-list-of-three.json)  [XML](/news/2012/10/29/a-shortlist-of-successors-to-the-coptic-pope-is-drawn-up-a-blindfolded-child-is-then-expected-to-pick-from-a-list-of-three.xml)  
+
 ### [2012-10-29](/news/2012/10/29/index.md)
 
+##### Coptic Christian pope
 # A shortlist of successors to the Coptic Pope is drawn up; a blindfolded child is then expected to pick from a list of three. 
 
 A council of Coptic Christians in Egypt chooses three candidates to succeeed Pope Shenouda III, before the new Pope is picked by a blindfolded child.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20119626)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63768000/jpg/_63768971_63768970.jpg)

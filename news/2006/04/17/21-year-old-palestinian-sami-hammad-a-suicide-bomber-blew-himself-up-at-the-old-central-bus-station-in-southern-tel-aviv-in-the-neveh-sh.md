@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/17/21-year-old-palestinian-sami-hammad-a-suicide-bomber-blew-himself-up-at-the-old-central-bus-station-in-southern-tel-aviv-in-the-neveh-sh.html)  [JSON](/news/2006/04/17/21-year-old-palestinian-sami-hammad-a-suicide-bomber-blew-himself-up-at-the-old-central-bus-station-in-southern-tel-aviv-in-the-neveh-sh.json)  [XML](/news/2006/04/17/21-year-old-palestinian-sami-hammad-a-suicide-bomber-blew-himself-up-at-the-old-central-bus-station-in-southern-tel-aviv-in-the-neveh-sh.xml)  
+
 ### [2006-04-17](/news/2006/04/17/index.md)
 
+##### Palestinian
 #  21-year-old Palestinian Sami Hammad, a suicide bomber, blew himself up at the old central bus station in southern Tel Aviv, in the Neveh Sha'anan neighborhood. Eleven people were killed and 70 more were wounded in the blast. The Palestinian Islamic Jihad has taken responsibility for the bombing. A Hamas spokesman calls the attack an "act of self-defense." 
 
 Passover terror attack: Huge explosion rattles shawarma stand at old central bus station area in southern Tel Aviv; scores wounded. Suicide bomber identified as Sami Salim Khamad, an Islamic Jihad member
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4915868.stm)
 2. [CNN](http://www.cnn.com/2006/WORLD/meast/04/17/telaviv.blast/index.html)

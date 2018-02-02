@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/06/21/moody-s-downgrades-the-credit-rating-of-15-major-world-banks-uk-the-royal-bank-of-scotland-barclays-and-hsbc-us-bank-of-america-citig.html)  [JSON](/news/2012/06/21/moody-s-downgrades-the-credit-rating-of-15-major-world-banks-uk-the-royal-bank-of-scotland-barclays-and-hsbc-us-bank-of-america-citig.json)  [XML](/news/2012/06/21/moody-s-downgrades-the-credit-rating-of-15-major-world-banks-uk-the-royal-bank-of-scotland-barclays-and-hsbc-us-bank-of-america-citig.xml)  
+
 ### [2012-06-21](/news/2012/06/21/index.md)
 
+##### Moody's
 # Moody's downgrades the credit rating of 15 major world banks: UK (The Royal Bank of Scotland, Barclays and HSBC), US (Bank of America, Citigroup, Goldman Sachs and JPMorgan), Rest of world (Credit Suisse, UBS, BNP Paribas, Credit Agricole, Societe Generale, Deutsche Bank, Royal Bank of Canada and Morgan Stanley). 
 
 Moody&rsquo;s Investors Service downgraded the debt ratings of 15 major international banks and securities firms on Thursday, a move that could cost the banks billions of dollars in extra collateral. 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-18542691)
-2. [CNBC](http://www.cnbc.com/id/47908669)
+2. [CNBC](https://www.cnbc.com/id/47908669)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61067000/jpg/_61067076_citi1.jpg)
 
 ### Related:

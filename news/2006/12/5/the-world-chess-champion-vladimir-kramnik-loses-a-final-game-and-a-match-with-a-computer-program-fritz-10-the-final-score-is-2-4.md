@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/5/the-world-chess-champion-vladimir-kramnik-loses-a-final-game-and-a-match-with-a-computer-program-fritz-10-the-final-score-is-2-4.html)  [JSON](/news/2006/12/5/the-world-chess-champion-vladimir-kramnik-loses-a-final-game-and-a-match-with-a-computer-program-fritz-10-the-final-score-is-2-4.json)  [XML](/news/2006/12/5/the-world-chess-champion-vladimir-kramnik-loses-a-final-game-and-a-match-with-a-computer-program-fritz-10-the-final-score-is-2-4.xml)  
+
 ### [2006-12-5](/news/2006/12/5/index.md)
 
+##### World Chess Championship
 #  The World Chess Champion Vladimir Kramnik loses a final game and a match with a computer program, Fritz-10. The final score is 2-4. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Seattle Post](http://seattlepi.com/business/1700AP_Germany_Chess.html)
 

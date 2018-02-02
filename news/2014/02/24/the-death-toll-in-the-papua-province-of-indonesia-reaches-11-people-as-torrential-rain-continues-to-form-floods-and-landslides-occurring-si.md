@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/24/the-death-toll-in-the-papua-province-of-indonesia-reaches-11-people-as-torrential-rain-continues-to-form-floods-and-landslides-occurring-si.html)  [JSON](/news/2014/02/24/the-death-toll-in-the-papua-province-of-indonesia-reaches-11-people-as-torrential-rain-continues-to-form-floods-and-landslides-occurring-si.json)  [XML](/news/2014/02/24/the-death-toll-in-the-papua-province-of-indonesia-reaches-11-people-as-torrential-rain-continues-to-form-floods-and-landslides-occurring-si.xml)  
+
 ### [2014-02-24](/news/2014/02/24/index.md)
 
+##### Papua
 # The death toll in the Papua province of Indonesia reaches 11 people as torrential rain continues to form floods and landslides, occurring since Saturday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Corp Australia](http://www.news.com.au/world/breaking-news/landslides-kill-11-in-indon-papua-province/story-e6frfkui-1226836239336)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

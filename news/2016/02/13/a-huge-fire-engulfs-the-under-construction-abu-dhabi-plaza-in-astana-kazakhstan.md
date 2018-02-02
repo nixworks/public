@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/13/a-huge-fire-engulfs-the-under-construction-abu-
 
 ### [2016-02-13](/news/2016/02/13/index.md)
 
+##### Abu Dhabi Plaza
 # A huge fire engulfs the under-construction Abu Dhabi Plaza in Astana, Kazakhstan. 
 
 An 88-story tower still under construction in Kazakhstan’s capital, Astana, was engulfed in a massive blaze early on Saturday. Amateur footage showed the high-rise, dubbed Abu Dhabi Plaza, lit up like an enormous torch.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/8/king-harald-v-of-norway-successfully-undergoes-a-51-2-hour-cancer-operation-in-which-his-bladder-is-removed-and-a-new-one-constructed-at-riks.html)  [JSON](/news/2003/12/8/king-harald-v-of-norway-successfully-undergoes-a-51-2-hour-cancer-operation-in-which-his-bladder-is-removed-and-a-new-one-constructed-at-riks.json)  [XML](/news/2003/12/8/king-harald-v-of-norway-successfully-undergoes-a-51-2-hour-cancer-operation-in-which-his-bladder-is-removed-and-a-new-one-constructed-at-riks.xml)  
+
 ### [2003-12-8](/news/2003/12/8/index.md)
 
+##### King
 # King Harald V of Norway successfully undergoes a 5-hour cancer operation in which his bladder is removed and a new one constructed, at Rikshospitalet University Hospital in Oslo. [http:--www.aftenposten.no-english-local-article.jhtml?articleID=686979]
 
 

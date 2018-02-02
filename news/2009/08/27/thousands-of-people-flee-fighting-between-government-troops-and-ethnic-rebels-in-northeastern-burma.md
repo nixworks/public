@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/27/thousands-of-people-flee-fighting-between-government-troops-and-ethnic-rebels-in-northeastern-burma.html)  [JSON](/news/2009/08/27/thousands-of-people-flee-fighting-between-government-troops-and-ethnic-rebels-in-northeastern-burma.json)  [XML](/news/2009/08/27/thousands-of-people-flee-fighting-between-government-troops-and-ethnic-rebels-in-northeastern-burma.xml)  
+
 ### [2009-08-27](/news/2009/08/27/index.md)
 
+##### Myanmar Armed Forces
 #  Thousands of people flee fighting between government troops and ethnic rebels in northeastern Burma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5imvwVVfP4W77LNGI1NfuFvOUvAuQ)
 2. [Australia Network News](http://australianetworknews.com/stories/200908/2669022.htm?desktop)

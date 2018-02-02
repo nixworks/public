@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/16/counting-continues-in-the-first-round-of-the-egyptian-constitutional-referendum-with-unofficial-results-indicating-majority-support-so-far.html)  [JSON](/news/2012/12/16/counting-continues-in-the-first-round-of-the-egyptian-constitutional-referendum-with-unofficial-results-indicating-majority-support-so-far.json)  [XML](/news/2012/12/16/counting-continues-in-the-first-round-of-the-egyptian-constitutional-referendum-with-unofficial-results-indicating-majority-support-so-far.xml)  
+
 ### [2012-12-16](/news/2012/12/16/index.md)
 
+##### constitutional referendum
 # Counting continues in the first round of the Egyptian constitutional referendum with unofficial results indicating majority support so far. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ahram Online](http://english.ahram.org.eg/NewsContent/1/64/60576/Egypt/Politics-/Egypt-constitution-referendum-unofficial-results--.aspx)
 

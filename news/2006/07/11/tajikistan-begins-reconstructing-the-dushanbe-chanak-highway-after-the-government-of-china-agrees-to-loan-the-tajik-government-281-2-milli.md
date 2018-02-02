@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/11/tajikistan-begins-reconstructing-the-dushanbe-chanak-highway-after-the-government-of-china-agrees-to-loan-the-tajik-government-281-2-milli.html)  [JSON](/news/2006/07/11/tajikistan-begins-reconstructing-the-dushanbe-chanak-highway-after-the-government-of-china-agrees-to-loan-the-tajik-government-281-2-milli.json)  [XML](/news/2006/07/11/tajikistan-begins-reconstructing-the-dushanbe-chanak-highway-after-the-government-of-china-agrees-to-loan-the-tajik-government-281-2-milli.xml)  
+
 ### [2006-07-11](/news/2006/07/11/index.md)
 
+##### Tajikistan
 #  Tajikistan begins reconstructing the Dushanbe-Chanak highway after the Government of China agrees to loan the Tajik Government $281.2 million of the $296 million reconstruction costs. Tajik President Emomali Rahmonov said, "the Great Silk Route will return to live." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Interfax](http://www.interfax.com/3/173751/news.aspx)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/18/tens-of-thousands-of-workers-participate-in-anti-austerity-protests-in-greece.html)  [JSON](/news/2012/10/18/tens-of-thousands-of-workers-participate-in-anti-austerity-protests-in-greece.json)  [XML](/news/2012/10/18/tens-of-thousands-of-workers-participate-in-anti-austerity-protests-in-greece.xml)  
+
 ### [2012-10-18](/news/2012/10/18/index.md)
 
+##### anti-austerity protests in Greece
 # Tens of thousands of workers participate in anti-austerity protests in Greece. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/content/greek-anti-austerity-protests-turn-violent/1528850.html)
 

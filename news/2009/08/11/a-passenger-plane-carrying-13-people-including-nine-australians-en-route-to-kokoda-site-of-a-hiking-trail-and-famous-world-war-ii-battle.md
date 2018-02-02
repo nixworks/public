@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/11/a-passenger-plane-carrying-13-people-including-nine-australians-en-route-to-kokoda-site-of-a-hiking-trail-and-famous-world-war-ii-battle.html)  [JSON](/news/2009/08/11/a-passenger-plane-carrying-13-people-including-nine-australians-en-route-to-kokoda-site-of-a-hiking-trail-and-famous-world-war-ii-battle.json)  [XML](/news/2009/08/11/a-passenger-plane-carrying-13-people-including-nine-australians-en-route-to-kokoda-site-of-a-hiking-trail-and-famous-world-war-ii-battle.xml)  
+
 ### [2009-08-11](/news/2009/08/11/index.md)
 
+##### Australia
 #  A passenger plane carrying 13 people, including nine Australians, en route to Kokoda, site of a hiking trail and famous World War II battle, is reported missing over Papua New Guinea. 
 
 A passenger plane carrying 13 people, including nine Australians, is missing feared crashed over Papua New Guinea.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8195167.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0811/png.html)

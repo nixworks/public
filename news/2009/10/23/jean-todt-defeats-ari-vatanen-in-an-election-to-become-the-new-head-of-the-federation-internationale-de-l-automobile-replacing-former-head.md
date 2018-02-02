@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/23/jean-todt-defeats-ari-vatanen-in-an-election-to-become-the-new-head-of-the-federation-internationale-de-l-automobile-replacing-former-head.html)  [JSON](/news/2009/10/23/jean-todt-defeats-ari-vatanen-in-an-election-to-become-the-new-head-of-the-federation-internationale-de-l-automobile-replacing-former-head.json)  [XML](/news/2009/10/23/jean-todt-defeats-ari-vatanen-in-an-election-to-become-the-new-head-of-the-federation-internationale-de-l-automobile-replacing-former-head.xml)  
+
 ### [2009-10-23](/news/2009/10/23/index.md)
 
+##### Jean Todt
 #  Jean Todt defeats Ari Vatanen in an election to become the new head of the Fdration Internationale de l'Automobile, replacing former head Max Mosley, who held the position for 16 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/8322393.stm)
 

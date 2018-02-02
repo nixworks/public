@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/2/the-philippines-warns-citizens-about-typhoon-bopha-expected-to-make-landfall-on-tuesday-december-4.html)  [JSON](/news/2012/12/2/the-philippines-warns-citizens-about-typhoon-bopha-expected-to-make-landfall-on-tuesday-december-4.json)  [XML](/news/2012/12/2/the-philippines-warns-citizens-about-typhoon-bopha-expected-to-make-landfall-on-tuesday-december-4.xml)  
+
 ### [2012-12-2](/news/2012/12/2/index.md)
 
+##### Philippines
 # The Philippines warns citizens about Typhoon Bopha expected to make landfall on Tuesday, December 4. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Mercury News](http://www.mercurynews.com/breaking-news/ci_22110476/philippines-braces-powerful-typhoon)
 

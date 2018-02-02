@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/12/a-man-under-investigation-for-the-sexual-abuse-of-children-at-an-orphanage-in-sofia-bulgaria-opens-fire-on-teenage-witnesses-killing-one.html)  [JSON](/news/2008/03/12/a-man-under-investigation-for-the-sexual-abuse-of-children-at-an-orphanage-in-sofia-bulgaria-opens-fire-on-teenage-witnesses-killing-one.json)  [XML](/news/2008/03/12/a-man-under-investigation-for-the-sexual-abuse-of-children-at-an-orphanage-in-sofia-bulgaria-opens-fire-on-teenage-witnesses-killing-one.xml)  
+
 ### [2008-03-12](/news/2008/03/12/index.md)
 
+##### orphanage
 #  A man under investigation for the sexual abuse of children at an orphanage in Sofia, Bulgaria, opens fire on teenage witnesses, killing one and wounding two others before committing suicide. 
 
 A gunman shot dead a 15-year-old girl and wounded two other children at a Bulgarian orphanage on Wednesday before killing himself, police said.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/23589577/)
 1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)

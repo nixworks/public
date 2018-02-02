@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/12/the-opposition-democratic-party-of-japan-wins-the-most-seats-in-the-tokyo-prefectural-election.html)  [JSON](/news/2009/07/12/the-opposition-democratic-party-of-japan-wins-the-most-seats-in-the-tokyo-prefectural-election.json)  [XML](/news/2009/07/12/the-opposition-democratic-party-of-japan-wins-the-most-seats-in-the-tokyo-prefectural-election.xml)  
+
 ### [2009-07-12](/news/2009/07/12/index.md)
 
+##### Democratic Party
 #  The opposition Democratic Party of Japan wins the most seats in the Tokyo prefectural election. 
 
 Japan&#039;s main opposition party won the most seats in the Tokyo metropolitan election on Sunday, increasing pressure on Taro Aso, the prime minister, before a general election which must happen within three months.
 
 
-### Source:
+### Sources:
 
 1. [Kyodo](http://home.kyodo.co.jp/modules/fstStory/index.php?storyid=449122)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/japan/5811423/Japans-opposition-party-wins-crucial-election.html)

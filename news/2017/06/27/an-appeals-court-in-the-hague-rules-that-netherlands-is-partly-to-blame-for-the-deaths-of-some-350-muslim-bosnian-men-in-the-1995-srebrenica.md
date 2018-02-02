@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/27/an-appeals-court-in-the-hague-rules-that-nether
 
 ### [2017-06-27](/news/2017/06/27/index.md)
 
+##### Bosnian genocide
 # An appeals court in The Hague rules that Netherlands is partly to blame for the deaths of some 350 Muslim Bosnian men in the 1995 Srebrenica genocide and, in a move considered landmark, orders it to pay limited damages. 
 
 A Dutch appeals court ruled on Tuesday the state was partly to blame for the deaths of some 350 Muslim men in the 1995 Srebrenica genocide, and in a landmark move ordered it to pay limited damages.

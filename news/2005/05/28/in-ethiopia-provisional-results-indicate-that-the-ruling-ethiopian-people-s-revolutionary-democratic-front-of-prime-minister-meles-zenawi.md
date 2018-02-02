@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/05/28/in-ethiopia-provisional-results-indicate-that-the-ruling-ethiopian-people-s-revolutionary-democratic-front-of-prime-minister-meles-zenawi.html)  [JSON](/news/2005/05/28/in-ethiopia-provisional-results-indicate-that-the-ruling-ethiopian-people-s-revolutionary-democratic-front-of-prime-minister-meles-zenawi.json)  [XML](/news/2005/05/28/in-ethiopia-provisional-results-indicate-that-the-ruling-ethiopian-people-s-revolutionary-democratic-front-of-prime-minister-meles-zenawi.xml)  
+
 ### [2005-05-28](/news/2005/05/28/index.md)
 
+##### Ethiopia
 #  In Ethiopia, provisional results indicate that the ruling Ethiopian People's Revolutionary Democratic Front of prime minister Meles Zenawi has won parliamentary majority. Opposition claims vote rigging. Final results are due June 8 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4590307.stm)
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1712766,00.html)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8633480)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8633480)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/30/official-records-on-the-2002-gujarat-violence-which-killed-more-than-1-000-people-are-reported-to-have-been-destroyed-in-line-with-regulat.html)  [JSON](/news/2011/06/30/official-records-on-the-2002-gujarat-violence-which-killed-more-than-1-000-people-are-reported-to-have-been-destroyed-in-line-with-regulat.json)  [XML](/news/2011/06/30/official-records-on-the-2002-gujarat-violence-which-killed-more-than-1-000-people-are-reported-to-have-been-destroyed-in-line-with-regulat.xml)  
+
 ### [2011-06-30](/news/2011/06/30/index.md)
 
+##### riots
 # Official records on the 2002 Gujarat violence, which killed more than 1,000 people, are reported to have been destroyed in line with regulations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13970748)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

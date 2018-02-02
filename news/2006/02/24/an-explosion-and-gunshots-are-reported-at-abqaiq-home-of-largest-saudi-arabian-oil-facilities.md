@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/24/an-explosion-and-gunshots-are-reported-at-abqaiq-home-of-largest-saudi-arabian-oil-facilities.html)  [JSON](/news/2006/02/24/an-explosion-and-gunshots-are-reported-at-abqaiq-home-of-largest-saudi-arabian-oil-facilities.json)  [XML](/news/2006/02/24/an-explosion-and-gunshots-are-reported-at-abqaiq-home-of-largest-saudi-arabian-oil-facilities.xml)  
+
 ### [2006-02-24](/news/2006/02/24/index.md)
 
+##### Abqaiq
 #  An explosion and gunshots are reported at Abqaiq, home of largest Saudi Arabian oil facilities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4747488.stm)
 2. [CNN](http://www.cnn.com/2006/WORLD/meast/02/24/saudi.refinery.ap/index.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/16/indian-police-arrest-a-man-connected-to-the-attack-on-social-worker-shakuntala-verma-in-uttar-pradesh.html)  [JSON](/news/2005/05/16/indian-police-arrest-a-man-connected-to-the-attack-on-social-worker-shakuntala-verma-in-uttar-pradesh.json)  [XML](/news/2005/05/16/indian-police-arrest-a-man-connected-to-the-attack-on-social-worker-shakuntala-verma-in-uttar-pradesh.xml)  
+
 ### [2005-05-16](/news/2005/05/16/index.md)
 
+##### India
 #  Indian police arrest a man connected to the attack on social worker Shakuntala Verma in Uttar Pradesh. 
 
 BHOPAL: Suresh Kaluram Kalai alias Chota Gudda was on Monday sent to police custody till Thursday in connection with the attack on Shakuntala Verma, supervisor of the Madhya Pradesh women and child welfare department.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=Shakuntala+Verma+attack+accused+arrested&id=73080)
 2. [Times of India](http://timesofindia.indiatimes.com/articleshow/1112284.cms)

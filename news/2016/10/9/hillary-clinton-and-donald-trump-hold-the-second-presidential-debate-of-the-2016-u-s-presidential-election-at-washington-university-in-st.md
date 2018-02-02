@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/9/hillary-clinton-and-donald-trump-hold-the-second
 
 ### [2016-10-9](/news/2016/10/9/index.md)
 
+##### United States presidential election debates, 2016
 # Hillary Clinton and Donald Trump hold the second presidential debate of the 2016 U.S. presidential election at Washington University in St. Louis, Missouri, in a "town meeting" format. 
 
 

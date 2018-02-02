@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/15/nineteen-people-are-killed-in-sri-lanka-as-a-result-of-a-roadside-bomb-and-fighting-between-the-sri-lankan-army-and-the-tamil-tigers.html)  [JSON](/news/2007/09/15/nineteen-people-are-killed-in-sri-lanka-as-a-result-of-a-roadside-bomb-and-fighting-between-the-sri-lankan-army-and-the-tamil-tigers.json)  [XML](/news/2007/09/15/nineteen-people-are-killed-in-sri-lanka-as-a-result-of-a-roadside-bomb-and-fighting-between-the-sri-lankan-army-and-the-tamil-tigers.xml)  
+
 ### [2007-09-15](/news/2007/09/15/index.md)
 
+##### Sri Lanka
 #  Nineteen people are killed in Sri Lanka as a result of a roadside bomb and fighting between the Sri Lankan Army and the Tamil Tigers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/09/15/asia/AS-GEN-Sri-Lanka-Civil-War.php)
 

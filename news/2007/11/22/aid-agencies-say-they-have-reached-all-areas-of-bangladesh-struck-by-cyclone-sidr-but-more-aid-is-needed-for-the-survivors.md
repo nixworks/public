@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/11/22/aid-agencies-say-they-have-reached-all-areas-of-bangladesh-struck-by-cyclone-sidr-but-more-aid-is-needed-for-the-survivors.html)  [JSON](/news/2007/11/22/aid-agencies-say-they-have-reached-all-areas-of-bangladesh-struck-by-cyclone-sidr-but-more-aid-is-needed-for-the-survivors.json)  [XML](/news/2007/11/22/aid-agencies-say-they-have-reached-all-areas-of-bangladesh-struck-by-cyclone-sidr-but-more-aid-is-needed-for-the-survivors.xml)  
+
 ### [2007-11-22](/news/2007/11/22/index.md)
 
+##### Aid agencies
 #  Aid agencies say they have reached all areas of Bangladesh struck by cyclone Sidr, but more aid is needed for the survivors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7107031.stm)
 
 ### Related:
 
 1. [ Bangladesh calls for more international aid for the survivors of cyclone Sidr. ](/news/2007/11/20/bangladesh-calls-for-more-international-aid-for-the-survivors-of-cyclone-sidr.md) _Context: Bangladesh, cyclone Sidr_
-2. [ Cyclone Sidr: Rescue efforts reach the most remote areas of Bangladesh, as the death toll rises to 2,400 people. ](/news/2007/11/18/cyclone-sidr-rescue-efforts-reach-the-most-remote-areas-of-bangladesh-as-the-death-toll-rises-to-2-400-people.md) _Context: Bangladesh, cyclone Sidr_
-3. [ Cyclone Sidr: Rescue efforts in Bangladesh continue, with helicopters and ships being used to reach isolated areas. ](/news/2007/11/18/cyclone-sidr-rescue-efforts-in-bangladesh-continue-with-helicopters-and-ships-being-used-to-reach-isolated-areas.md) _Context: Bangladesh, cyclone Sidr_
-4. [ Cyclone Sidr: The death toll from the cyclone rises to 2,000 after it hits central and southern Bangladesh. ](/news/2007/11/17/cyclone-sidr-the-death-toll-from-the-cyclone-rises-to-2-000-after-it-hits-central-and-southern-bangladesh.md) _Context: Bangladesh, cyclone Sidr_
-5. [ The death toll from Cyclone Sidr increases to 242 as the storm weakens and passes through the Bangladeshi capital Dhaka. ](/news/2007/11/16/the-death-toll-from-cyclone-sidr-increases-to-242-as-the-storm-weakens-and-passes-through-the-bangladeshi-capital-dhaka.md) _Context: Bangladesh, cyclone Sidr_
+2. [Win Myat Aye, Myanmar's minister of social welfare, relief and resettlement, announced that his country would begin repatriating Rohingya refugees in Bangladesh beginning on January 23, 2018. Burmese officials also promised that a newly built camp for repatriated refugees would also be finished by that date. ](/news/2018/01/15/win-myat-aye-myanmar-s-minister-of-social-welfare-relief-and-resettlement-announced-that-his-country-would-begin-repatriating-rohingya-re.md) _Context: Bangladesh_
+3. [Pope Francis ends his six-day trip to Myanmar and Bangladesh by visiting the Rohingya refugees in Dhaka. ](/news/2017/12/2/pope-francis-ends-his-six-day-trip-to-myanmar-and-bangladesh-by-visiting-the-rohingya-refugees-in-dhaka.md) _Context: Bangladesh_
+4. [Pope Francis arrives in Yangon to begin a six-day trip to Myanmar and Bangladesh, where he is expected to meet with the Rohingya people. ](/news/2017/11/27/pope-francis-arrives-in-yangon-to-begin-a-six-day-trip-to-myanmar-and-bangladesh-where-he-is-expected-to-meet-with-the-rohingya-people.md) _Context: Bangladesh_
+5. [Bangladesh's Foreign Minister A. H. Mahmood Ali and Myanmar's State Counsellor Aung San Suu Kyi agree to return Rohingya refugees from Bangladesh to Myanmar in a two-month period. ](/news/2017/11/23/bangladesh-s-foreign-minister-a-h-mahmood-ali-and-myanmar-s-state-counsellor-aung-san-suu-kyi-agree-to-return-rohingya-refugees-from-bangl.md) _Context: Bangladesh_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/6/three-people-are-killed-in-a-shooting-including-
 
 ### [2017-06-6](/news/2017/06/6/index.md)
 
+##### Sandy, Utah attack
 # Three people are killed in a shooting, including the perpetrator, and two are injured in an apparent domestic dispute in Sandy, Utah. 
 
 Boy who died went to elementary school blocks from where violence unfolded, police say

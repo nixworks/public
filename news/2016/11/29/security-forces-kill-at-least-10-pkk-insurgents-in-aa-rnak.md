@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/29/security-forces-kill-at-least-10-pkk-insurgents
 
 ### [2016-11-29](/news/2016/11/29/index.md)
 
+##### Kurdish-Turkish conflict (2015-present)
 # Security forces kill at least 10 PKK insurgents in Sirnak. 
 
 Six others also remanded on charges of aiding terrorist group PKK - Anadolu Agency

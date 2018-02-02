@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/19/typhoon-ma-on-the-second-typhoon-of-the-2011-pacific-typhoon-season-approaches-the-main-japanese-island-of-honshu-leading-to-cancellation.html)  [JSON](/news/2011/07/19/typhoon-ma-on-the-second-typhoon-of-the-2011-pacific-typhoon-season-approaches-the-main-japanese-island-of-honshu-leading-to-cancellation.json)  [XML](/news/2011/07/19/typhoon-ma-on-the-second-typhoon-of-the-2011-pacific-typhoon-season-approaches-the-main-japanese-island-of-honshu-leading-to-cancellation.xml)  
+
 ### [2011-07-19](/news/2011/07/19/index.md)
 
+##### Typhoon Ma-on
 # Typhoon Ma-on, the second typhoon of the 2011 Pacific typhoon season, approaches the main Japanese island of Honshu leading to cancellation of air services. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [APA](http://en.apa.az/news.php?id=151778)
 2. [Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20110719a3.html)

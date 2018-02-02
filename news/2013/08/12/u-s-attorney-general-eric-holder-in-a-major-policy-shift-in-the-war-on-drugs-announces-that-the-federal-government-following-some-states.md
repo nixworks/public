@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/12/u-s-attorney-general-eric-holder-in-a-major-policy-shift-in-the-war-on-drugs-announces-that-the-federal-government-following-some-states.html)  [JSON](/news/2013/08/12/u-s-attorney-general-eric-holder-in-a-major-policy-shift-in-the-war-on-drugs-announces-that-the-federal-government-following-some-states.json)  [XML](/news/2013/08/12/u-s-attorney-general-eric-holder-in-a-major-policy-shift-in-the-war-on-drugs-announces-that-the-federal-government-following-some-states.xml)  
+
 ### [2013-08-12](/news/2013/08/12/index.md)
 
+##### Eric Holder
 # U.S. Attorney General Eric Holder, in a major policy shift in the War on Drugs, announces that the federal government, following some states' stances, will direct its prosecutors to no longer insist on automatic mandatory minimum prison sentences for non-violent, low-level, non-repeat offender drug offenses where the defendant is not involved with gangs and-or cartels. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://news.msn.com/us/us-wants-major-changes-to-criminal-justice-system)
 

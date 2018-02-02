@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/29/following-a-militant-attack-at-srinagar-s-city-centre-at-lal-chowk-more-than-10-people-have-been-left-injured.html)  [JSON](/news/2005/07/29/following-a-militant-attack-at-srinagar-s-city-centre-at-lal-chowk-more-than-10-people-have-been-left-injured.json)  [XML](/news/2005/07/29/following-a-militant-attack-at-srinagar-s-city-centre-at-lal-chowk-more-than-10-people-have-been-left-injured.xml)  
+
 ### [2005-07-29](/news/2005/07/29/index.md)
 
+##### militant
 #  Following a militant attack at Srinagar's city centre at Lal Chowk more than 10 people have been left injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Rediff](http://in.rediff.com/news/2005/jul/29srinagar.htm)
 1. [Cover Image](//imworld.rediff.com/worldrediff/pix/r-shareicon.png)

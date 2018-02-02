@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2015/10/15/five-individuals-a-four-men-and-a-teenage-boy-a-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.html)  [JSON](/news/2015/10/15/five-individuals-a-four-men-and-a-teenage-boy-a-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.json)  [XML](/news/2015/10/15/five-individuals-a-four-men-and-a-teenage-boy-a-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.xml)  
+
 ### [2015-10-15](/news/2015/10/15/index.md)
 
+##### Sydney
 #  Five individuals - four men and a teenage boy - are arrested in connection with the gang-rape of a 16-year-old girl at a Sydney, Australia, house party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/10/15/asia/sydney-gang-rape-camera)
+
+### Changes:
+
+1. [ Five individuals - four men and a teenage boy - are arrested in connection with the gang-rape of a 16-year-old girl at a Sydney, Australia, house party. ](/news/2015/10/15/five-individuals-four-men-and-a-teenage-boy-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.md) _2017-08-27 03:43:21 (First version)_
+1. [ Five individuals - four men and a teenage boy - are arrested in connection with the gang-rape of a 16-year-old girl at a Sydney, Australia, house party. ](/news/2015/10/15/five-individuals-a-four-men-and-a-teenage-boy-a-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [The storm in Australia's New South Wales is declared a "catastrophe" with four deaths, heavy flooding and disruption of transport to the state's largest cities Sydney and Newcastle. ](/news/2015/04/22/the-storm-in-australia-s-new-south-wales-is-declared-a-catastrophe-with-four-deaths-heavy-flooding-and-disruption-of-transport-to-the-sta.md) _Context: Australia, Sydney_
 4. [At least 18 are held hostage in a chocolate shop in Sydney, Australia. Police stormed the cafe the following day.](/news/2014/12/14/at-least-18-are-held-hostage-in-a-chocolate-shop-in-sydney-australia-police-stormed-the-cafa-c-the-following-day.md) _Context: Australia, Sydney_
 5. [Prince Harry arrives in Sydney, Australia, to celebrate 100 years of the Royal Australian Navy. ](/news/2013/10/5/prince-harry-arrives-in-sydney-australia-to-celebrate-100-years-of-the-royal-australian-navy.md) _Context: Australia, Sydney_
-
-### Changes:
-
-1. [ Five individuals - four men and a teenage boy - are arrested in connection with the gang-rape of a 16-year-old girl at a Sydney, Australia, house party. ](/news/2015/10/15/five-individuals-four-men-and-a-teenage-boy-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.md) _2017-08-27 03:43:21 (First version)_
-1. [ Five individuals - four men and a teenage boy - are arrested in connection with the gang-rape of a 16-year-old girl at a Sydney, Australia, house party. ](/news/2015/10/15/five-individuals-a-four-men-and-a-teenage-boy-a-are-arrested-in-connection-with-the-gang-rape-of-a-16-year-old-girl-at-a-sydney-austra.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/21/burma-s-supreme-court-agrees-to-review-the-extension-of-the-house-arrest-on-national-league-for-democracy-leader-aung-san-suu-kyi.html)  [JSON](/news/2009/12/21/burma-s-supreme-court-agrees-to-review-the-extension-of-the-house-arrest-on-national-league-for-democracy-leader-aung-san-suu-kyi.json)  [XML](/news/2009/12/21/burma-s-supreme-court-agrees-to-review-the-extension-of-the-house-arrest-on-national-league-for-democracy-leader-aung-san-suu-kyi.xml)  
+
 ### [2009-12-21](/news/2009/12/21/index.md)
 
+##### Burma
 #  Burma's Supreme Court agrees to review the extension of the house arrest on National League for Democracy leader Aung San Suu Kyi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gs16E0Y8T8w9Edy1yiDa2nXqxwkwD9CNKJPO0)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20091221115146813C436763)

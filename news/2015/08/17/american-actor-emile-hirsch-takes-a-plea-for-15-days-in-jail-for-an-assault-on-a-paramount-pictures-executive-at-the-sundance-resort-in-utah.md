@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/17/american-actor-emile-hirsch-takes-a-plea-for-15-days-in-jail-for-an-assault-on-a-paramount-pictures-executive-at-the-sundance-resort-in-utah.html)  [JSON](/news/2015/08/17/american-actor-emile-hirsch-takes-a-plea-for-15-days-in-jail-for-an-assault-on-a-paramount-pictures-executive-at-the-sundance-resort-in-utah.json)  [XML](/news/2015/08/17/american-actor-emile-hirsch-takes-a-plea-for-15-days-in-jail-for-an-assault-on-a-paramount-pictures-executive-at-the-sundance-resort-in-utah.xml)  
+
 ### [2015-08-17](/news/2015/08/17/index.md)
 
+##### Emile Hirsch
 # American actor Emile Hirsch takes a plea for 15 days in jail for an assault on a Paramount Pictures executive at the Sundance Resort in Utah. 
 
 UPDATED with more from the hearing: Facing five years behind bars for felony and misdemeanor charges resulting from his violent and drunken January 25 nightclub attack on Paramount Digital VP Danie…
 
 
-### Source:
+### Sources:
 
 1. [Deadline](http://deadline.com/2015/08/Emile-hirsch-plea-deal-paramount-executive-assault-daniele-bernfeld-sundance-film-festival-1201500332/)
 1. [Cover Image](https://pmcdeadline2.files.wordpress.com/2015/08/emile-hirsch-march-16-park-city-hearing.jpg?w=605)

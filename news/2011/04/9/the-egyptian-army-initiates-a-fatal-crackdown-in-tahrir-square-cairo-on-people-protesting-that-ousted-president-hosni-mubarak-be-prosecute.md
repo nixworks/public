@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/9/the-egyptian-army-initiates-a-fatal-crackdown-in-tahrir-square-cairo-on-people-protesting-that-ousted-president-hosni-mubarak-be-prosecute.html)  [JSON](/news/2011/04/9/the-egyptian-army-initiates-a-fatal-crackdown-in-tahrir-square-cairo-on-people-protesting-that-ousted-president-hosni-mubarak-be-prosecute.json)  [XML](/news/2011/04/9/the-egyptian-army-initiates-a-fatal-crackdown-in-tahrir-square-cairo-on-people-protesting-that-ousted-president-hosni-mubarak-be-prosecute.xml)  
+
 ### [2011-04-9](/news/2011/04/9/index.md)
 
+##### Tahrir Square
 # The Egyptian Army initiates a fatal crackdown in Tahrir Square, Cairo, on people protesting that ousted president Hosni Mubarak be prosecuted for corruption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13023948)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

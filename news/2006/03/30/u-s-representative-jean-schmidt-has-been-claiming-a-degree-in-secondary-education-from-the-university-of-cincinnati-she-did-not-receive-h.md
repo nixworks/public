@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/03/30/u-s-representative-jean-schmidt-has-been-claiming-a-degree-in-secondary-education-from-the-university-of-cincinnati-she-did-not-receive-h.html)  [JSON](/news/2006/03/30/u-s-representative-jean-schmidt-has-been-claiming-a-degree-in-secondary-education-from-the-university-of-cincinnati-she-did-not-receive-h.json)  [XML](/news/2006/03/30/u-s-representative-jean-schmidt-has-been-claiming-a-degree-in-secondary-education-from-the-university-of-cincinnati-she-did-not-receive-h.xml)  
+
 ### [2006-03-30](/news/2006/03/30/index.md)
 
+##### Jean Schmidt
 #  U.S. Representative Jean Schmidt has been claiming a degree in secondary education from the University of Cincinnati she did not receive. Her spokesman said Schmidt earned the degree but did not complete the paperwork to be awarded it. ([http:--www.cleveland.com-weblogs-openers-index.ssf?-mtlogs-cleve_openers-archives-2006_03.html#125630 The Plain Dealer])
 
 

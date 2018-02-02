@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/6/gabon-announces-that-the-presidential-elections-are-to-be-held-on-27-november-with-security-forces-voting-two-days-earlier-but-opposition.html)  [JSON](/news/2005/10/6/gabon-announces-that-the-presidential-elections-are-to-be-held-on-27-november-with-security-forces-voting-two-days-earlier-but-opposition.json)  [XML](/news/2005/10/6/gabon-announces-that-the-presidential-elections-are-to-be-held-on-27-november-with-security-forces-voting-two-days-earlier-but-opposition.xml)  
+
 ### [2005-10-6](/news/2005/10/6/index.md)
 
+##### Gabon
 #  Gabon announces that the presidential elections are to be held on 27 November with security forces voting two days earlier, but opposition denounces the move as a ruse for ballot rigging. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [allAfrica](http://allafrica.com/stories/200510060596.html)
 

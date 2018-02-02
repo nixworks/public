@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/07/2/a-philippine-air-force-gaf-nomad-experiences-possible-engine-trouble-after-takeoff-from-cagayancillo-airport-on-cagayancillo-off-palawan-in.html)  [JSON](/news/2000/07/2/a-philippine-air-force-gaf-nomad-experiences-possible-engine-trouble-after-takeoff-from-cagayancillo-airport-on-cagayancillo-off-palawan-in.json)  [XML](/news/2000/07/2/a-philippine-air-force-gaf-nomad-experiences-possible-engine-trouble-after-takeoff-from-cagayancillo-airport-on-cagayancillo-off-palawan-in.xml)  
+
 ### [2000-07-2](/news/2000/07/2/index.md)
 
+##### GAF Nomad
 # A Philippine Air Force GAF Nomad experiences possible engine trouble after takeoff from Cagayancillo Airport on Cagayancillo off Palawan in the Philippines. Its pilot attempts to return to the airport, but the plane overshoots the runway and crashes into the Sulu Sea, killing 11 of the 12 people on board. Philippine governor Salvatore Socrates and Philippine Air Force Major General Santiago Madrid are among the dead.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/30/thirteen-refugees-drown-off-the-italian-coast-swimming-to-shore-from-their-leaky-vessel.html)  [JSON](/news/2013/09/30/thirteen-refugees-drown-off-the-italian-coast-swimming-to-shore-from-their-leaky-vessel.json)  [XML](/news/2013/09/30/thirteen-refugees-drown-off-the-italian-coast-swimming-to-shore-from-their-leaky-vessel.xml)  
+
 ### [2013-09-30](/news/2013/09/30/index.md)
 
+##### refugee
 # Thirteen refugees drown off the Italian coast swimming to shore from their leaky vessel. 
 
 UNHCR chief shocked at the news of a boat tragedy off the Italian island of Lampedusa, which is reported to have claimed at least 82 lives. 
 
 
-### Source:
+### Sources:
 
 1. [U.N. High Commission for Refugees](http://www.unhcr.org/524d4ab36.html)
 1. [Cover Image](http://www.unhcr.org/thumb1/524d5da56.jpg)
@@ -13,7 +17,7 @@ UNHCR chief shocked at the news of a boat tragedy off the Italian island of Lamp
 ### Related:
 
 1. [Italian refugee documentary "Fire at Sea", directed by Gianfranco Rosi, wins the 66th Berlin International Film Festival's Golden Bear award for best film. ](/news/2016/02/20/italian-refugee-documentary-fire-at-sea-directed-by-gianfranco-rosi-wins-the-66th-berlin-international-film-festival-s-golden-bear-award.md) _Context: Italy, refugee_
-2. [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md) _Context: refugee_
-3. [Italian fugitive and 'Ndrangheta member Rocco Morabito is arrested in Montevideo, Uruguay, after 23 years on the run. He is now expected to be extradited to Italy in the coming months. ](/news/2017/09/4/italian-fugitive-and-ndrangheta-member-rocco-morabito-is-arrested-in-montevideo-uruguay-after-23-years-on-the-run-he-is-now-expected-to.md) _Context: Italy_
-4. [The U.S. Supreme Court rules that the Trump administration can block international refugees from entering the United States. ](/news/2017/09/12/the-u-s-supreme-court-rules-that-the-trump-administration-can-block-international-refugees-from-entering-the-united-states.md) _Context: refugee_
-5. [A magnitude 4.0 earthquake strikes the Italian island of Ischia, leaving one person dead and 25 others injured. Italian media report 10 others are unaccounted for after several buildings collapsed in Casamicciola Terme. ](/news/2017/08/21/a-magnitude-4-0-earthquake-strikes-the-italian-island-of-ischia-leaving-one-person-dead-and-25-others-injured-italian-media-report-10-othe.md) _Context: Italy_
+2. [At least three people are killed and over 100 injured in a train derailment near Milan, Italy. ](/news/2018/01/25/at-least-three-people-are-killed-and-over-100-injured-in-a-train-derailment-near-milan-italy.md) _Context: Italy_
+3. [An explosion and fire at the Gas Connect Austria pipeline hub in Baumgarten an der March kills one person and injures 21. Service to Hungary, Slovenia, Croatia and Italy is suspended. Italy declares a state of emergency. ](/news/2017/12/12/an-explosion-and-fire-at-the-gas-connect-austria-pipeline-hub-in-baumgarten-an-der-march-kills-one-person-and-injures-21-service-to-hungary.md) _Context: Italy_
+4. [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md) _Context: refugee_
+5. [Italian fugitive and 'Ndrangheta member Rocco Morabito is arrested in Montevideo, Uruguay, after 23 years on the run. He is now expected to be extradited to Italy in the coming months. ](/news/2017/09/4/italian-fugitive-and-ndrangheta-member-rocco-morabito-is-arrested-in-montevideo-uruguay-after-23-years-on-the-run-he-is-now-expected-to.md) _Context: Italy_

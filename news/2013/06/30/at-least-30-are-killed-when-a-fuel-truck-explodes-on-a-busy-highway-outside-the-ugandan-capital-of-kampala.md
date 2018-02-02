@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/06/30/at-least-30-are-killed-when-a-fuel-truck-explodes-on-a-busy-highway-outside-the-ugandan-capital-of-kampala.html)  [JSON](/news/2013/06/30/at-least-30-are-killed-when-a-fuel-truck-explodes-on-a-busy-highway-outside-the-ugandan-capital-of-kampala.json)  [XML](/news/2013/06/30/at-least-30-are-killed-when-a-fuel-truck-explodes-on-a-busy-highway-outside-the-ugandan-capital-of-kampala.xml)  
+
 ### [2013-06-30](/news/2013/06/30/index.md)
 
+##### Uganda
 # At least 30 are killed when a fuel truck explodes on a busy highway outside the Ugandan capital of Kampala. 
 
 At least 30 people were killed and scores more injured when a fuel tanker exploded on a highway in Uganda, a major transit route for fuel heading from Kenya to land-locked east African states, a police spokesman said on Sunday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/06/30/us-uganda-tanker-explosion-idUSBRE95T09320130630)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130630&t=2&i=746231295&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95T14G700)
+1. [Reuters](https://www.reuters.com/article/2013/06/30/us-uganda-tanker-explosion-idUSBRE95T09320130630)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130630&t=2&i=746231295&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE95T14G700)
 
 ### Related:
 

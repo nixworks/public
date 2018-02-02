@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/10/3/vince-russo-and-ed-ferrara-head-writers-in-the-wwf-during-its-most-successful-time-in-history-sign-with-rival-company-wcw.html)  [JSON](/news/1999/10/3/vince-russo-and-ed-ferrara-head-writers-in-the-wwf-during-its-most-successful-time-in-history-sign-with-rival-company-wcw.json)  [XML](/news/1999/10/3/vince-russo-and-ed-ferrara-head-writers-in-the-wwf-during-its-most-successful-time-in-history-sign-with-rival-company-wcw.xml)  
+
 ### [1999-10-3](/news/1999/10/3/index.md)
 
+##### Vince Russo
 #  Vince Russo and Ed Ferrara, head writers in the WWF during its most successful time in history, sign with rival company WCW. 
 
 

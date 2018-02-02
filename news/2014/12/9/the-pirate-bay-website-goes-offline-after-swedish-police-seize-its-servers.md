@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/9/the-pirate-bay-website-goes-offline-after-swedish-police-seize-its-servers.html)  [JSON](/news/2014/12/9/the-pirate-bay-website-goes-offline-after-swedish-police-seize-its-servers.json)  [XML](/news/2014/12/9/the-pirate-bay-website-goes-offline-after-swedish-police-seize-its-servers.xml)  
+
 ### [2014-12-9](/news/2014/12/9/index.md)
 
+##### Pirate Bay
 # The Pirate Bay website goes offline after Swedish police seize its servers. 
 
 You might have noticed that The Pirate Bay is offline today; the site has disappeared after Swedish Police reportedly raided premises in Stockholm containing the service’s servers. According to Torrentfreak, Swedish authorities confirmed that local police completed a raid in Stockholm this morning. Paul Pintér, police national coordinator for IP enforcement said “There has been &hellip;
 
 
-### Source:
+### Sources:
 
 1. [The Next Web](http://thenextweb.com/apps/2014/12/09/pirate-bay-offline-swedish-police-raid/)
 1. [Cover Image](https://cdn3.tnwcdn.com/wp-content/blogs.dir/1/files/2012/10/The-Pirate-Bay-logo.png)

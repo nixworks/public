@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/2/thai-army-lieutenant-general-manus-kongpan-is-suspended-after-police-order-his-arrest-on-involvement-in-people-trafficking.html)  [JSON](/news/2015/06/2/thai-army-lieutenant-general-manus-kongpan-is-suspended-after-police-order-his-arrest-on-involvement-in-people-trafficking.json)  [XML](/news/2015/06/2/thai-army-lieutenant-general-manus-kongpan-is-suspended-after-police-order-his-arrest-on-involvement-in-people-trafficking.xml)  
+
 ### [2015-06-2](/news/2015/06/2/index.md)
 
+##### Thai Army
 # Thai Army Lieutenant General Manus Kongpan is suspended after police order his arrest on involvement in people trafficking. 
 
 A Thai military general is suspended after police ordered his arrest on suspicion of human trafficking.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC Online](http://www.abc.net.au/news/2015-06-02/thai-general-suspended-on-suspicion-of-human-trafficking/6515666)
 1. [Cover Image](http://www.abc.net.au/news/image/6439324-1x1-700x700.jpg)

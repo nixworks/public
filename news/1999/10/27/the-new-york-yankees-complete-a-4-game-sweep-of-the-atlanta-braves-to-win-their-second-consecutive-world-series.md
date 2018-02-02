@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/10/27/the-new-york-yankees-complete-a-4-game-sweep-of-the-atlanta-braves-to-win-their-second-consecutive-world-series.html)  [JSON](/news/1999/10/27/the-new-york-yankees-complete-a-4-game-sweep-of-the-atlanta-braves-to-win-their-second-consecutive-world-series.json)  [XML](/news/1999/10/27/the-new-york-yankees-complete-a-4-game-sweep-of-the-atlanta-braves-to-win-their-second-consecutive-world-series.xml)  
+
 ### [1999-10-27](/news/1999/10/27/index.md)
 
+##### New York Yankees
 #  The New York Yankees complete a 4 game sweep of the Atlanta Braves to win their second consecutive World Series.
 
 

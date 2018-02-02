@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/05/24/saudi-arabian-oil-minister-ali-naimi-declares-that-usd-30a34-per-barrel-is-a-fair-and-reasonable-price-denies-any-differences-within.html)  [JSON](/news/2004/05/24/saudi-arabian-oil-minister-ali-naimi-declares-that-usd-30a34-per-barrel-is-a-fair-and-reasonable-price-denies-any-differences-within.json)  [XML](/news/2004/05/24/saudi-arabian-oil-minister-ali-naimi-declares-that-usd-30a34-per-barrel-is-a-fair-and-reasonable-price-denies-any-differences-within.xml)  
+
 ### [2004-05-24](/news/2004/05/24/index.md)
 
+##### Saudi Arabian
 #  Saudi Arabian Oil Minister Ali Naimi declares that USD $30-34 per barrel is a 'fair and reasonable price', denies any differences within the Organization of Petroleum Exporting Countries (OPEC), and vouchsafes to increase crude oil supply by 2 million barrels per day (4 m 3 -s) if the market demands it. Previous reports of a deal between U.S. President George W. Bush and Saudi Arabia are not discussed. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/aponline/business/AP-OPEC-Oil.html)
+1. [NYT](https://www.nytimes.com/aponline/business/AP-OPEC-Oil.html)
 2. [Syd. Herald](http://www.smh.com.au/articles/2004/04/27/1082831569615.html?from=storyrhs)
 
 ### Related:

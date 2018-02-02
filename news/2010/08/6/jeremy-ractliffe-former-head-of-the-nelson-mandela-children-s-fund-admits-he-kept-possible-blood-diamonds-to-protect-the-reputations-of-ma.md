@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/jeremy-ractliffe-former-head-of-the-nelson-mandela-children-s-fund-admits-he-kept-possible-blood-diamonds-to-protect-the-reputations-of-ma.html)  [JSON](/news/2010/08/6/jeremy-ractliffe-former-head-of-the-nelson-mandela-children-s-fund-admits-he-kept-possible-blood-diamonds-to-protect-the-reputations-of-ma.json)  [XML](/news/2010/08/6/jeremy-ractliffe-former-head-of-the-nelson-mandela-children-s-fund-admits-he-kept-possible-blood-diamonds-to-protect-the-reputations-of-ma.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Nelson Mandela
 # Jeremy Ractliffe, former head of the Nelson Mandela Children's Fund, admits he kept possible blood diamonds to protect the reputations of Mandela, Naomi Campbell and the fund but that he gave them to South African police and is willing to testify at Charles Taylor's trial. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/aug/06/naomi-campbell-diamonds-charity-chief)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/21/jimmy-carter-former-us-president-and-2002-nobel-peace-prize-winner-vehemently-condemns-george-w-bush-and-tony-blair-for-waging-an-unnece.html)  [JSON](/news/2004/03/21/jimmy-carter-former-us-president-and-2002-nobel-peace-prize-winner-vehemently-condemns-george-w-bush-and-tony-blair-for-waging-an-unnece.json)  [XML](/news/2004/03/21/jimmy-carter-former-us-president-and-2002-nobel-peace-prize-winner-vehemently-condemns-george-w-bush-and-tony-blair-for-waging-an-unnece.xml)  
+
 ### [2004-03-21](/news/2004/03/21/index.md)
 
+##### Jimmy Carter
 #  Jimmy Carter, former US president and 2002 Nobel Peace Prize winner, vehemently condemns George W. Bush and Tony Blair for waging an unnecessary war "based upon lies and misinterpretations" in order to oust Saddam Hussein. He claims that Blair had allowed his better judgment to be swayed by Bush's desire to finish a war that his father had started. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Independent](http://news.independent.co.uk/world/politics/story.jsp?story=503722)
 

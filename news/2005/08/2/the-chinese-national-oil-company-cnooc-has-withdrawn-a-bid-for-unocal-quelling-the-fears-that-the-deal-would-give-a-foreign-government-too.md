@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/08/2/the-chinese-national-oil-company-cnooc-has-withdrawn-a-bid-for-unocal-quelling-the-fears-that-the-deal-would-give-a-foreign-government-too.html)  [JSON](/news/2005/08/2/the-chinese-national-oil-company-cnooc-has-withdrawn-a-bid-for-unocal-quelling-the-fears-that-the-deal-would-give-a-foreign-government-too.json)  [XML](/news/2005/08/2/the-chinese-national-oil-company-cnooc-has-withdrawn-a-bid-for-unocal-quelling-the-fears-that-the-deal-would-give-a-foreign-government-too.xml)  
+
 ### [2005-08-2](/news/2005/08/2/index.md)
 
+##### CNOOC
 #  The Chinese national oil company CNOOC has withdrawn a bid for Unocal quelling the fears that the deal would give a foreign government too much control over American oil reserves. Chevron is now expected to acquire Unocal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NY Times](http://www.nytimes.com/2005/08/02/business/worldbusiness/02cnd-china.html?hp&ex=1123041600&en=089db758ab494e9b&ei=5094&partner=homepage)
+1. [NY Times](https://www.nytimes.com/2005/08/02/business/worldbusiness/02cnd-china.html?hp&ex=1123041600&en=089db758ab494e9b&ei=5094&partner=homepage)
 
 ### Related:
 

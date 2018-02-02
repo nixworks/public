@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/11/father-emil-kapaun-is-awarded-a-medal-of-honor-posthumously-by-u-s-president-barack-obama.html)  [JSON](/news/2013/04/11/father-emil-kapaun-is-awarded-a-medal-of-honor-posthumously-by-u-s-president-barack-obama.json)  [XML](/news/2013/04/11/father-emil-kapaun-is-awarded-a-medal-of-honor-posthumously-by-u-s-president-barack-obama.xml)  
+
 ### [2013-04-11](/news/2013/04/11/index.md)
 
+##### Roman Catholic priest
 # Father Emil Kapaun is awarded a Medal of Honor posthumously by U.S. President Barack Obama. 
 
 Father Emil Kapaun performed battlefield miracles, saving lives and souls of fellow Korean War POWs
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-18563_162-57579227/medal-of-honor-recipient-gave-pows-desire-to-live/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2013/04/11/20d16cda-a738-11e2-a3f0-029118418759/priest.jpg)

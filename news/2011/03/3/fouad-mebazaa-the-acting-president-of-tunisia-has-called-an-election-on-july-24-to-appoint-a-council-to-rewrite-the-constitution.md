@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/03/3/fouad-mebazaa-the-acting-president-of-tunisia-has-called-an-election-on-july-24-to-appoint-a-council-to-rewrite-the-constitution.html)  [JSON](/news/2011/03/3/fouad-mebazaa-the-acting-president-of-tunisia-has-called-an-election-on-july-24-to-appoint-a-council-to-rewrite-the-constitution.json)  [XML](/news/2011/03/3/fouad-mebazaa-the-acting-president-of-tunisia-has-called-an-election-on-july-24-to-appoint-a-council-to-rewrite-the-constitution.xml)  
+
 ### [2011-03-3](/news/2011/03/3/index.md)
 
+##### Fouad Mebazaa
 # Fouad Mebazaa, the acting President of Tunisia, has called an election on July 24 to appoint a council to rewrite the constitution. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via ''Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/03/03/AR2011030305422.html)
+1. [Reuters via ''Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2011/03/03/AR2011030305422.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

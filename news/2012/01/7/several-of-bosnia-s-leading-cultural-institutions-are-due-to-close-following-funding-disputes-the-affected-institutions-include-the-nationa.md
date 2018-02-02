@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/7/several-of-bosnia-s-leading-cultural-institutions-are-due-to-close-following-funding-disputes-the-affected-institutions-include-the-nationa.html)  [JSON](/news/2012/01/7/several-of-bosnia-s-leading-cultural-institutions-are-due-to-close-following-funding-disputes-the-affected-institutions-include-the-nationa.json)  [XML](/news/2012/01/7/several-of-bosnia-s-leading-cultural-institutions-are-due-to-close-following-funding-disputes-the-affected-institutions-include-the-nationa.xml)  
+
 ### [2012-01-7](/news/2012/01/7/index.md)
 
+##### Bosnian
 # Several of Bosnia's leading cultural institutions are due to close following funding disputes. The affected institutions include the National Library, the National Museum, the Historical Museum and the National Gallery. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/templates/story/story.php?storyId=144755322)
 

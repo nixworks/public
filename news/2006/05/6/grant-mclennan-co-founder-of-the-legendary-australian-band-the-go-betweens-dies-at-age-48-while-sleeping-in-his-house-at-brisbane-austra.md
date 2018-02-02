@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/05/6/grant-mclennan-co-founder-of-the-legendary-australian-band-the-go-betweens-dies-at-age-48-while-sleeping-in-his-house-at-brisbane-austra.html)  [JSON](/news/2006/05/6/grant-mclennan-co-founder-of-the-legendary-australian-band-the-go-betweens-dies-at-age-48-while-sleeping-in-his-house-at-brisbane-austra.json)  [XML](/news/2006/05/6/grant-mclennan-co-founder-of-the-legendary-australian-band-the-go-betweens-dies-at-age-48-while-sleeping-in-his-house-at-brisbane-austra.xml)  
+
 ### [2006-05-6](/news/2006/05/6/index.md)
 
+##### Grant McLennan
 #  Grant McLennan, co-founder of the legendary Australian band The Go-Betweens dies at age 48, while sleeping in his house at Brisbane, Australia, from a reported heart attack.
 
 

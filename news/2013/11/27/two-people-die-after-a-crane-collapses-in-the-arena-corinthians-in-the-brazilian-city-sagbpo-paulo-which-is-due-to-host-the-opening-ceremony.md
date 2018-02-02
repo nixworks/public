@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sagbpo-paulo-which-is-due-to-host-the-opening-ceremony.html)  [JSON](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sagbpo-paulo-which-is-due-to-host-the-opening-ceremony.json)  [XML](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sagbpo-paulo-which-is-due-to-host-the-opening-ceremony.xml)  
+
 ### [2013-11-27](/news/2013/11/27/index.md)
 
+##### Arena Corinthians
 # Two people die after a crane collapses in the Arena Corinthians in the Brazilian city SGBPo Paulo which is due to host the opening ceremony of the 2014 World Cup. Parts of the grandstands also collapse. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-25127897)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71386000/jpg/_71386253_452261875.jpg)
+
+### Changes:
+
+1. [Two people die after a crane collapses in the Arena Corinthians in the Brazilian city Sao Paulo which is due to host the opening ceremony of the 2014 World Cup. Parts of the grandstands also collapse. ](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sapso-paulo-which-is-due-to-host-the-opening-ceremony-o.md) _2017-08-25 03:39:35 (First version)_
+1. [Two people die after a crane collapses in the Arena Corinthians in the Brazilian city SGBPo Paulo which is due to host the opening ceremony of the 2014 World Cup. Parts of the grandstands also collapse. ](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sagbpo-paulo-which-is-due-to-host-the-opening-ceremony.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Fernando Haddad is elected mayor of SGBPo Paulo, giving the governing Workers' Party control of Brazil's financial capital and biggest city. ](/news/2012/10/29/fernando-haddad-is-elected-mayor-of-sagbpo-paulo-giving-the-governing-workers-party-control-of-brazil-s-financial-capital-and-biggest-city.md) _Context: Brazil, SGBPo Paulo_
 4. [A fire at the Butantan Institute in SGBPo Paulo, Brazil, destroys its entire collection of preserved snakes--the world's largest--and nearly half a million arachnid specimens, including many novel and yet-unclassified species. ](/news/2010/05/15/a-fire-at-the-butantan-institute-in-sagbpo-paulo-brazil-destroys-its-entire-collection-of-preserved-snakesathe-world-s-largestaand-nea.md) _Context: Brazil, SGBPo Paulo_
 5. [ Jenson Button wins the 2009 Formula One World Championship in Interlagos, SGBPo Paulo, Brazil, by finishing fifth in the 2009 Brazilian Grand Prix.](/news/2009/10/18/jenson-button-wins-the-2009-formula-one-world-championship-in-interlagos-sagbpo-paulo-brazil-by-finishing-fifth-in-the-2009-brazilian-gr.md) _Context: Brazil, SGBPo Paulo_
-
-### Changes:
-
-1. [Two people die after a crane collapses in the Arena Corinthians in the Brazilian city Sao Paulo which is due to host the opening ceremony of the 2014 World Cup. Parts of the grandstands also collapse. ](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sapso-paulo-which-is-due-to-host-the-opening-ceremony-o.md) _2017-08-25 03:39:35 (First version)_
-1. [Two people die after a crane collapses in the Arena Corinthians in the Brazilian city SGBPo Paulo which is due to host the opening ceremony of the 2014 World Cup. Parts of the grandstands also collapse. ](/news/2013/11/27/two-people-die-after-a-crane-collapses-in-the-arena-corinthians-in-the-brazilian-city-sagbpo-paulo-which-is-due-to-host-the-opening-ceremony.md) _(Current version)_

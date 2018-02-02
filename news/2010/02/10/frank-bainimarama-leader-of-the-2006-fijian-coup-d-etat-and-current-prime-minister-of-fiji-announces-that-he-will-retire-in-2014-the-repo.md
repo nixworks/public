@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/10/frank-bainimarama-leader-of-the-2006-fijian-coup-d-etat-and-current-prime-minister-of-fiji-announces-that-he-will-retire-in-2014-the-repo.html)  [JSON](/news/2010/02/10/frank-bainimarama-leader-of-the-2006-fijian-coup-d-etat-and-current-prime-minister-of-fiji-announces-that-he-will-retire-in-2014-the-repo.json)  [XML](/news/2010/02/10/frank-bainimarama-leader-of-the-2006-fijian-coup-d-etat-and-current-prime-minister-of-fiji-announces-that-he-will-retire-in-2014-the-repo.xml)  
+
 ### [2010-02-10](/news/2010/02/10/index.md)
 
+##### Voreqe Bainimarama
 # Frank Bainimarama, leader of the 2006 Fijian coup d'tat and current Prime Minister of Fiji, announces that he will retire in 2014. The report is denied by Fiji's Permanent Secretary for Information. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=51851)
 

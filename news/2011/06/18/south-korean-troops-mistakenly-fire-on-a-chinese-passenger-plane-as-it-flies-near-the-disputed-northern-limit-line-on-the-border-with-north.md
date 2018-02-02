@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/18/south-korean-troops-mistakenly-fire-on-a-chinese-passenger-plane-as-it-flies-near-the-disputed-northern-limit-line-on-the-border-with-north.html)  [JSON](/news/2011/06/18/south-korean-troops-mistakenly-fire-on-a-chinese-passenger-plane-as-it-flies-near-the-disputed-northern-limit-line-on-the-border-with-north.json)  [XML](/news/2011/06/18/south-korean-troops-mistakenly-fire-on-a-chinese-passenger-plane-as-it-flies-near-the-disputed-northern-limit-line-on-the-border-with-north.xml)  
+
 ### [2011-06-18](/news/2011/06/18/index.md)
 
+##### South Korea
 # South Korean troops mistakenly fire on a Chinese passenger plane as it flies near the disputed Northern Limit Line on the border with North Korea; there are no casualties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/energyOilNews/idAFL3E7HI01M20110618?sp=true)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2011/06/18/69/0301000000AEN20110618001300315F.HTML)

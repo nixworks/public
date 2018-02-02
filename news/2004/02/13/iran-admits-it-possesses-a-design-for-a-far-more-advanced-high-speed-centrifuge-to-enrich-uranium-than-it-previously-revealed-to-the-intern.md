@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/13/iran-admits-it-possesses-a-design-for-a-far-more-advanced-high-speed-centrifuge-to-enrich-uranium-than-it-previously-revealed-to-the-intern.html)  [JSON](/news/2004/02/13/iran-admits-it-possesses-a-design-for-a-far-more-advanced-high-speed-centrifuge-to-enrich-uranium-than-it-previously-revealed-to-the-intern.json)  [XML](/news/2004/02/13/iran-admits-it-possesses-a-design-for-a-far-more-advanced-high-speed-centrifuge-to-enrich-uranium-than-it-previously-revealed-to-the-intern.xml)  
+
 ### [2004-02-13](/news/2004/02/13/index.md)
 
+##### Iran
 #  Iran admits it possesses a design for a far more advanced high-speed centrifuge to enrich uranium than it previously revealed to the International Atomic Energy Agency after being confronted with evidence obtained from the secret network of nuclear suppliers surrounding Pakistani scientist Abdul Qadeer Khan.
 
 

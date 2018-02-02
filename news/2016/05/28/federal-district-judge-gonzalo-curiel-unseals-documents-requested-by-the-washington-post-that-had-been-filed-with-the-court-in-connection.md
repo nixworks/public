@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/28/federal-district-judge-gonzalo-curiel-unseals-d
 
 ### [2016-05-28](/news/2016/05/28/index.md)
 
+##### 2016 U.S. presidential election
 # Federal District Judge Gonzalo Curiel unseals documents requested by "The Washington Post" that had been filed with the court in connection with pending civil cases against Trump University, a former business of the Republican Party's presumptive presidential nominee Donald Trump. The judge noted that Trump's candidacy has increased interest in these cases, and that Trump's comments "... (have) placed the integrity of these court proceedings at issue." 
 
 It&#39;s unclear whether he knew of Trump&#39;s latest attacks when issuing the order Friday afternoon.

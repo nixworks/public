@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/27/the-australian-government-proposes-a-new-flood-tax-to-raise-funds-for-reconstruction-work-following-severe-flooding-in-the-east-of-the-cou.html)  [JSON](/news/2011/01/27/the-australian-government-proposes-a-new-flood-tax-to-raise-funds-for-reconstruction-work-following-severe-flooding-in-the-east-of-the-cou.json)  [XML](/news/2011/01/27/the-australian-government-proposes-a-new-flood-tax-to-raise-funds-for-reconstruction-work-following-severe-flooding-in-the-east-of-the-cou.xml)  
+
 ### [2011-01-27](/news/2011/01/27/index.md)
 
+##### Australia
 # The Australian government proposes a new "flood tax" to raise funds for reconstruction work following severe flooding in the east of the country. 
 
 Tax expected to raise $1.8bn of the estimated $5bn needed for repairs following havoc caused by widespread flooding.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/01/20111277522459971.html)
 2. [The Australian](http://www.theaustralian.com.au/in-depth/queensland-floods/flood-victims-and-low-paid-to-be-exempt-from-flood-levy/story-fn7iwx3v-1225995437524)

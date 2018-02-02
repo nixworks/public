@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/08/12/a-south-korean-man-is-seriously-injured-after-self-immolation-during-a-protest-against-japan-s-use-of-south-korean-women-as-sex-slaves-durin.html)  [JSON](/news/2015/08/12/a-south-korean-man-is-seriously-injured-after-self-immolation-during-a-protest-against-japan-s-use-of-south-korean-women-as-sex-slaves-durin.json)  [XML](/news/2015/08/12/a-south-korean-man-is-seriously-injured-after-self-immolation-during-a-protest-against-japan-s-use-of-south-korean-women-as-sex-slaves-durin.xml)  
+
 ### [2015-08-12](/news/2015/08/12/index.md)
 
+##### South Korea
 # A South Korean man is seriously injured after self-immolation during a protest against Japan's use of South Korean women as sex slaves during World War II. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/aponline/2015/08/12/world/asia/ap-as-skorea-anti-japan-rally-.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/aponline/2015/08/12/world/asia/ap-as-skorea-anti-japan-rally-.html?_r=0)
 
 ### Related:
 

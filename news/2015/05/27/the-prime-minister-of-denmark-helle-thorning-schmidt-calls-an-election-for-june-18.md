@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/27/the-prime-minister-of-denmark-helle-thorning-schmidt-calls-an-election-for-june-18.html)  [JSON](/news/2015/05/27/the-prime-minister-of-denmark-helle-thorning-schmidt-calls-an-election-for-june-18.json)  [XML](/news/2015/05/27/the-prime-minister-of-denmark-helle-thorning-schmidt-calls-an-election-for-june-18.xml)  
+
 ### [2015-05-27](/news/2015/05/27/index.md)
 
+##### Prime Minister of Denmark
 # The Prime Minister of Denmark Helle Thorning-Schmidt calls an election for June 18. 
 
 COPENHAGEN (REUTERS) - Danish Prime Minister Helle Thorning-Schmidt on Wednesday called an election for June 18 in which her centre-left Social Democrats will face stiff competition from the centre-right Liberals who want more curbs on immigration and limits on state spending.. Read more at straitstimes.com.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Straits Times](http://www.straitstimes.com/news/world/europe/story/danish-pm-calls-general-election-june-18-20150527)
 1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/05/27/jdpmden27e_2x.jpg?itok=8u8tjKG5)

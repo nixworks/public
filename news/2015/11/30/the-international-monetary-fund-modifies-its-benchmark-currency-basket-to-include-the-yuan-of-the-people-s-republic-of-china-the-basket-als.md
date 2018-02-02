@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/11/30/the-international-monetary-fund-modifies-its-benchmark-currency-basket-to-include-the-yuan-of-the-people-s-republic-of-china-the-basket-als.html)  [JSON](/news/2015/11/30/the-international-monetary-fund-modifies-its-benchmark-currency-basket-to-include-the-yuan-of-the-people-s-republic-of-china-the-basket-als.json)  [XML](/news/2015/11/30/the-international-monetary-fund-modifies-its-benchmark-currency-basket-to-include-the-yuan-of-the-people-s-republic-of-china-the-basket-als.xml)  
+
 ### [2015-11-30](/news/2015/11/30/index.md)
 
+##### International Monetary Fund
 # The International Monetary Fund modifies its benchmark currency basket to include the yuan of the People's Republic of China. The basket also includes the U.S. dollar, the euro, the pound sterling, and the Japanese yen. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/30/us-imf-china-idUSKBN0TJ24Q20151130#Vkb5zzkpWoUSa3sG.97)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20151130&t=2&i=1098779352&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAT13X)
+1. [Reuters](https://www.reuters.com/article/2015/11/30/us-imf-china-idUSKBN0TJ24Q20151130#Vkb5zzkpWoUSa3sG.97)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20151130&t=2&i=1098779352&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBAT13X)
 
 ### Related:
 

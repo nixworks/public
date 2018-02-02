@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/15/former-economy-minister-alexey-ulyukaev-is-foun
 
 ### [2017-12-15](/news/2017/12/15/index.md)
 
+##### Corruption in Russia
 # Former economy minister Alexey Ulyukaev is found guilty of soliciting a $2 million bribe from Rosneft's Igor Sechin. He is sentenced to 8 years in prison. Ulyukayev is the most senior serving official to be arrested in decades. He previously denied the charges, saying he'd been "set up". 
 
 Former Russian economy minister Alexei Ulyukayev was found guilty of soliciting a $2 million bribe and sentenced to eight years in jail on Friday, in a case that has shone a rare light on infighting among the elite ahead of a presidential election.

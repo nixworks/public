@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/07/30/voters-in-the-republic-of-the-congo-return-to-the-polls-for-the-second-round-of-an-election-for-139-national-assembly-members-after-the-gov.html)  [JSON](/news/2017/07/30/voters-in-the-republic-of-the-congo-return-to-the-polls-for-the-second-round-of-an-election-for-139-national-assembly-members-after-the-gov.json)  [XML](/news/2017/07/30/voters-in-the-republic-of-the-congo-return-to-the-polls-for-the-second-round-of-an-election-for-139-national-assembly-members-after-the-gov.xml)  
+
 ### [2017-07-30](/news/2017/07/30/index.md)
 
+##### Republic of the Congo parliamentary election, 2017
 # Voters in the Republic of the Congo return to the polls for the second round of an election for 139 National Assembly members, after the governing Congolese Party of Labour won 70 seats in the first round two weeks earlier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFI](http://www.rfi.fr/afrique/20170722-congo-brazzaville-resultats-legislatives-pct-sassou-nguesso)
 1. [Cover Image](http://scd.rfi.fr/sites/filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aef_image/000_Par7231415_0.jpg)

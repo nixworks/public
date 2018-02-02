@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/07/6/in-chile-court-strips-augusto-pinochet-of-presidential-immunity-from-prosecution-in-the-investigation-of-disappearance-of-political-oppone.html)  [JSON](/news/2005/07/6/in-chile-court-strips-augusto-pinochet-of-presidential-immunity-from-prosecution-in-the-investigation-of-disappearance-of-political-oppone.json)  [XML](/news/2005/07/6/in-chile-court-strips-augusto-pinochet-of-presidential-immunity-from-prosecution-in-the-investigation-of-disappearance-of-political-oppone.xml)  
+
 ### [2005-07-6](/news/2005/07/6/index.md)
 
+##### Chile
 #  In Chile, court strips Augusto Pinochet of presidential immunity from prosecution in the investigation of disappearance of political opponents in so-called Operation Colombo 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4657509.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aSeZom43_464&refer=latin_america)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000086&sid=aSeZom43_464&refer=latin_america)
 3. [IHT](http://iht.com/articles/2005/07/06/news/notes.php)
 
 ### Related:

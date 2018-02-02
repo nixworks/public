@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/3/at-least-three-persons-suspected-in-involvement-in-the-march-11-2004-madrid-bombings-blow-themselves-up-in-an-apartment-building-in-the-ma.html)  [JSON](/news/2004/04/3/at-least-three-persons-suspected-in-involvement-in-the-march-11-2004-madrid-bombings-blow-themselves-up-in-an-apartment-building-in-the-ma.json)  [XML](/news/2004/04/3/at-least-three-persons-suspected-in-involvement-in-the-march-11-2004-madrid-bombings-blow-themselves-up-in-an-apartment-building-in-the-ma.xml)  
+
 ### [2004-04-3](/news/2004/04/3/index.md)
 
+##### March 11, 2004 Madrid bombings
 #  At least three persons suspected in involvement in the March 11, 2004 Madrid bombings blow themselves up in an apartment building in the Madrid suburb Legans as police officers try to arrest them. Besides the suspects, one police officer is killed and 11 injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/stories/2004/04/03/world/spain_blast040403)
 

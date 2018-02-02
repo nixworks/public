@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/14/the-u-s-secret-service-removes-four-of-its-highest-ranking-leaders-while-a-fifth-one-retires-the-continuing-restructuring-and-fallout-stem.html)  [JSON](/news/2015/01/14/the-u-s-secret-service-removes-four-of-its-highest-ranking-leaders-while-a-fifth-one-retires-the-continuing-restructuring-and-fallout-stem.json)  [XML](/news/2015/01/14/the-u-s-secret-service-removes-four-of-its-highest-ranking-leaders-while-a-fifth-one-retires-the-continuing-restructuring-and-fallout-stem.xml)  
+
 ### [2015-01-14](/news/2015/01/14/index.md)
 
+##### U.S. Secret Service
 # The U.S. Secret Service removes four of its highest-ranking leaders while a fifth one retires. The continuing restructuring and fallout stem from a string of public security lapses beginning with the misconduct at the 6th Summit of the Americas. The most recent stage of the restructuring began in October 2014 with the resignation of then-Director Julia Pierson. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post'' via MSN](http://www.msn.com/en-us/news/politics/4-top-secret-service-executives-told-to-leave-their-posts-in-agency-shake-up/ar-AA8aX9y)
 

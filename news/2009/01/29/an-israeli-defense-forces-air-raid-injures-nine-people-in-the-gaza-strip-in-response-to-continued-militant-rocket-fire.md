@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/29/an-israeli-defense-forces-air-raid-injures-nine-people-in-the-gaza-strip-in-response-to-continued-militant-rocket-fire.html)  [JSON](/news/2009/01/29/an-israeli-defense-forces-air-raid-injures-nine-people-in-the-gaza-strip-in-response-to-continued-militant-rocket-fire.json)  [XML](/news/2009/01/29/an-israeli-defense-forces-air-raid-injures-nine-people-in-the-gaza-strip-in-response-to-continued-militant-rocket-fire.xml)  
+
 ### [2009-01-29](/news/2009/01/29/index.md)
 
+##### Israel
 #  An Israeli Defense Forces air raid injures nine people in the Gaza Strip in response to continued militant rocket fire. 
 
 At least nine Palestinians wounded in attack as Olmert considers expanded military action.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/01/200912910254803610.html)
 1. [Cover Image](http://www.aljazeera.com)

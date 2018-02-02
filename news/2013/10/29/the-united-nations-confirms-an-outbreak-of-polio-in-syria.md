@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/29/the-united-nations-confirms-an-outbreak-of-polio-in-syria.html)  [JSON](/news/2013/10/29/the-united-nations-confirms-an-outbreak-of-polio-in-syria.json)  [XML](/news/2013/10/29/the-united-nations-confirms-an-outbreak-of-polio-in-syria.xml)  
+
 ### [2013-10-29](/news/2013/10/29/index.md)
 
+##### United Nations
 # The United Nations confirms an outbreak of polio in Syria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/world/syria-hit-by-polio-outbreak-un-confirms-1.2286496)
 1. [Cover Image](https://i.cbc.ca/1.2286506.1383043428!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_1180/turkey-syria.jpg)

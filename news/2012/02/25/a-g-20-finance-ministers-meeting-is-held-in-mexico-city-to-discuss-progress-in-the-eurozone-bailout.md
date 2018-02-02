@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/02/25/a-g-20-finance-ministers-meeting-is-held-in-mexico-city-to-discuss-progress-in-the-eurozone-bailout.html)  [JSON](/news/2012/02/25/a-g-20-finance-ministers-meeting-is-held-in-mexico-city-to-discuss-progress-in-the-eurozone-bailout.json)  [XML](/news/2012/02/25/a-g-20-finance-ministers-meeting-is-held-in-mexico-city-to-discuss-progress-in-the-eurozone-bailout.xml)  
+
 ### [2012-02-25](/news/2012/02/25/index.md)
 
+##### G-20
 # A G-20 finance ministers meeting is held in Mexico City to discuss progress in the Eurozone bailout. 
 
 * Germany eases opposition to bigger EU bailoutfund-officials* EU agreement in March would clear way for April IMF deal* Puts G20 on
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/26/g-idUSL2E8DP4QR20120226)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/02/26/g-idUSL2E8DP4QR20120226)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

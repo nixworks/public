@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/31/australian-airline-qantas-resumes-flights-after-a-ruling-by-fair-work-australia.html)  [JSON](/news/2011/10/31/australian-airline-qantas-resumes-flights-after-a-ruling-by-fair-work-australia.json)  [XML](/news/2011/10/31/australian-airline-qantas-resumes-flights-after-a-ruling-by-fair-work-australia.xml)  
+
 ### [2011-10-31](/news/2011/10/31/index.md)
 
+##### Australia
 # Australian airline Qantas resumes flights after a ruling by Fair Work Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/business/aviation/qantas-forced-to-end-worker-lockout/story-e6frg95x-1226181072536)
 

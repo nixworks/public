@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/22/pope-benedict-xvi-announces-that-a-consistory-will-be-held-next-month-to-create-15-new-cardinals-the-first-of-his-papacy.html)  [JSON](/news/2006/02/22/pope-benedict-xvi-announces-that-a-consistory-will-be-held-next-month-to-create-15-new-cardinals-the-first-of-his-papacy.json)  [XML](/news/2006/02/22/pope-benedict-xvi-announces-that-a-consistory-will-be-held-next-month-to-create-15-new-cardinals-the-first-of-his-papacy.xml)  
+
 ### [2006-02-22](/news/2006/02/22/index.md)
 
+##### Pope Benedict XVI
 #  Pope Benedict XVI announces that a consistory will be held next month to create 15 new cardinals, the first of his Papacy. 
 
 Pope Benedict XVI has announced that he will hold a consistory next month to create 15 new cardinals.
 
 
-### Source:
+### Sources:
 
 1. [RTE](http://www.rte.ie/news/2006/0222/vatican.html)
 1. [Cover Image](https://img.rasset.ie/0000496e-1600.jpg)

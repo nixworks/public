@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/1/at-least-18-farc-rebels-are-killed-while-celebrating-the-new-year-in-an-air-raid-by-the-colombian-air-force-in-the-south-of-the-country.html)  [JSON](/news/2010/01/1/at-least-18-farc-rebels-are-killed-while-celebrating-the-new-year-in-an-air-raid-by-the-colombian-air-force-in-the-south-of-the-country.json)  [XML](/news/2010/01/1/at-least-18-farc-rebels-are-killed-while-celebrating-the-new-year-in-an-air-raid-by-the-colombian-air-force-in-the-south-of-the-country.xml)  
+
 ### [2010-01-1](/news/2010/01/1/index.md)
 
+##### Revolutionary Armed Forces of Colombia
 #  At least 18 FARC rebels are killed while celebrating the New Year in an air raid by the Colombian Air Force in the south of the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/01/201011235131565705.html)
 2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=349672&CategoryId=12393)

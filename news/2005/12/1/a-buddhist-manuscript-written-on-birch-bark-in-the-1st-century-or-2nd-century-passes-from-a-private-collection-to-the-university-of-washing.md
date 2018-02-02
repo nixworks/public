@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/1/a-buddhist-manuscript-written-on-birch-bark-in-the-1st-century-or-2nd-century-passes-from-a-private-collection-to-the-university-of-washing.html)  [JSON](/news/2005/12/1/a-buddhist-manuscript-written-on-birch-bark-in-the-1st-century-or-2nd-century-passes-from-a-private-collection-to-the-university-of-washing.json)  [XML](/news/2005/12/1/a-buddhist-manuscript-written-on-birch-bark-in-the-1st-century-or-2nd-century-passes-from-a-private-collection-to-the-university-of-washing.xml)  
+
 ### [2005-12-1](/news/2005/12/1/index.md)
 
+##### Buddhist
 #  A Buddhist manuscript written on birch bark in the 1st century or 2nd century passes from a private collection to the University of Washington library, becoming part of the Early Buddhist Manuscripts Project. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [uwnews.org](http://www.uwnews.org/article.asp?articleID=3487)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/19/the-met-office-issues-warnings-for-parts-of-sou
 
 ### [2016-11-19](/news/2016/11/19/index.md)
 
+##### 2016-17 UK and Ireland windstorm season
 # The Met Office issues warnings for parts of South East England as Storm Angus prepares to make landfall. 
 
 Crew members are rescued from a ship in the English Channel, as Storm Angus hits southern England.

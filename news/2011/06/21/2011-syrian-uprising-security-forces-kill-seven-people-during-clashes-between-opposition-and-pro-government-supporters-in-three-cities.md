@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/21/2011-syrian-uprising-security-forces-kill-seven-people-during-clashes-between-opposition-and-pro-government-supporters-in-three-cities.html)  [JSON](/news/2011/06/21/2011-syrian-uprising-security-forces-kill-seven-people-during-clashes-between-opposition-and-pro-government-supporters-in-three-cities.json)  [XML](/news/2011/06/21/2011-syrian-uprising-security-forces-kill-seven-people-during-clashes-between-opposition-and-pro-government-supporters-in-three-cities.xml)  
+
 ### [2011-06-21](/news/2011/06/21/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Security forces kill seven people during clashes between opposition and pro-government supporters in three cities. 
 
 Activists say seven people killed as government supporters and opponents clash in three cities.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/201162115512111728.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/21/2011621163544884734_20.jpg)

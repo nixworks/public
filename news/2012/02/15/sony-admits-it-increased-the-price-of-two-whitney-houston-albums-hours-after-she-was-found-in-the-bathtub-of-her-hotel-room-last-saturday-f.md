@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/15/sony-admits-it-increased-the-price-of-two-whitney-houston-albums-hours-after-she-was-found-in-the-bathtub-of-her-hotel-room-last-saturday-f.html)  [JSON](/news/2012/02/15/sony-admits-it-increased-the-price-of-two-whitney-houston-albums-hours-after-she-was-found-in-the-bathtub-of-her-hotel-room-last-saturday-f.json)  [XML](/news/2012/02/15/sony-admits-it-increased-the-price-of-two-whitney-houston-albums-hours-after-she-was-found-in-the-bathtub-of-her-hotel-room-last-saturday-f.xml)  
+
 ### [2012-02-15](/news/2012/02/15/index.md)
 
+##### Sony
 # Sony admits it increased the price of two Whitney Houston albums hours after she was found in the bathtub of her hotel room last Saturday. Fans react with outrage. 
 
 Record label Sony apologises for increasing the price of two Whitney Houston albums, hours after her death on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17039076)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58511000/jpg/_58511842_58511841.jpg)

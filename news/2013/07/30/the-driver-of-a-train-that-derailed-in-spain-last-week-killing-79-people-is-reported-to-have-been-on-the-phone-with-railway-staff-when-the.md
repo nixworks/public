@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/30/the-driver-of-a-train-that-derailed-in-spain-last-week-killing-79-people-is-reported-to-have-been-on-the-phone-with-railway-staff-when-the.html)  [JSON](/news/2013/07/30/the-driver-of-a-train-that-derailed-in-spain-last-week-killing-79-people-is-reported-to-have-been-on-the-phone-with-railway-staff-when-the.json)  [XML](/news/2013/07/30/the-driver-of-a-train-that-derailed-in-spain-last-week-killing-79-people-is-reported-to-have-been-on-the-phone-with-railway-staff-when-the.xml)  
+
 ### [2013-07-30](/news/2013/07/30/index.md)
 
+##### train that derailed
 # The driver of a train that derailed in Spain last week, killing 79 people, is reported to have been on the phone with railway staff when the train crashed, possibly distracting him shortly before the crash, expert say. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/07/30/world/europe/spain-train-crash/index.html?hpt=wo_c2)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/9/dallas-braden-of-the-oakland-athletics-throws-the-19th-perfect-game-in-major-league-baseball-history-in-a-4-0-win-over-the-tampa-bay-rays.html)  [JSON](/news/2010/05/9/dallas-braden-of-the-oakland-athletics-throws-the-19th-perfect-game-in-major-league-baseball-history-in-a-4-0-win-over-the-tampa-bay-rays.json)  [XML](/news/2010/05/9/dallas-braden-of-the-oakland-athletics-throws-the-19th-perfect-game-in-major-league-baseball-history-in-a-4-0-win-over-the-tampa-bay-rays.xml)  
+
 ### [2010-05-9](/news/2010/05/9/index.md)
 
+##### Dallas Braden
 # Dallas Braden of the Oakland Athletics throws the 19th perfect game in Major League Baseball history in a 4-0 win over the Tampa Bay Rays. 
 
 Dallas Braden threw the 19th perfect game in major league history, leading the Oakland Athletics past the Tampa Bay Rays, 4-0.
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/mlb/recap?gameId=300509111)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)

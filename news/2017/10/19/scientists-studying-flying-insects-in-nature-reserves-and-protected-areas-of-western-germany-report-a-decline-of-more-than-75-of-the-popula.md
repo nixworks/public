@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/19/scientists-studying-flying-insects-in-nature-reserves-and-protected-areas-of-western-germany-report-a-decline-of-more-than-75-of-the-popula.html)  [JSON](/news/2017/10/19/scientists-studying-flying-insects-in-nature-reserves-and-protected-areas-of-western-germany-report-a-decline-of-more-than-75-of-the-popula.json)  [XML](/news/2017/10/19/scientists-studying-flying-insects-in-nature-reserves-and-protected-areas-of-western-germany-report-a-decline-of-more-than-75-of-the-popula.xml)  
+
 ### [2017-10-19](/news/2017/10/19/index.md)
 
+##### nature reserves
 # Scientists studying flying insects in nature reserves and protected areas of western Germany report a decline of more than 75% of the population in about three decades. 
 
 In western Germany, populations of flying insects have fallen by around 80 percent in the last three decades.

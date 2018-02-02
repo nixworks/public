@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/30/mexico-s-electoral-tribunal-unanimously-rejects-a-challenge-to-the-2012-presidential-election-victory-won-by-enrique-pea-a-nieto.html)  [JSON](/news/2012/08/30/mexico-s-electoral-tribunal-unanimously-rejects-a-challenge-to-the-2012-presidential-election-victory-won-by-enrique-pea-a-nieto.json)  [XML](/news/2012/08/30/mexico-s-electoral-tribunal-unanimously-rejects-a-challenge-to-the-2012-presidential-election-victory-won-by-enrique-pea-a-nieto.xml)  
+
 ### [2012-08-30](/news/2012/08/30/index.md)
 
+##### Mexico
 # Mexico's electoral tribunal unanimously rejects a challenge to the 2012 presidential election victory won by Enrique Pena Nieto. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2012/08/31/uk-mexico-election-tribunal-idUKBRE87U02P20120831)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120831&t=2&i=647861447&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE87U045200)

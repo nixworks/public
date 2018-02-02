@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/07/29/university-of-cincinnati-police-officer-ray-tensing-is-charged-with-murder-for-the-july-19-2015-shooting-death-of-samuel-dubose.html)  [JSON](/news/2015/07/29/university-of-cincinnati-police-officer-ray-tensing-is-charged-with-murder-for-the-july-19-2015-shooting-death-of-samuel-dubose.json)  [XML](/news/2015/07/29/university-of-cincinnati-police-officer-ray-tensing-is-charged-with-murder-for-the-july-19-2015-shooting-death-of-samuel-dubose.xml)  
+
 ### [2015-07-29](/news/2015/07/29/index.md)
 
+##### University of Cincinnati
 # University of Cincinnati Police officer Ray Tensing is charged with murder for the July 19, 2015 shooting death of Samuel DuBose. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo News](http://news.yahoo.com/news-conference-scheduled-over-fatal-traffic-stop-shooting-145927142.html)
+1. [Yahoo News](https://news.yahoo.com/news-conference-scheduled-over-fatal-traffic-stop-shooting-145927142.html)
 
 ### Related:
 

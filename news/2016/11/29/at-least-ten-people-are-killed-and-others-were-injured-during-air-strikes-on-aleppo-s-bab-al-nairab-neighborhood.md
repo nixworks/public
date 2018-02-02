@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/29/at-least-ten-people-are-killed-and-others-were-
 
 ### [2016-11-29](/news/2016/11/29/index.md)
 
+##### Syrian Civil War
 # At least ten people are killed and others were injured during air strikes on Aleppo's Bab al-Nairab neighborhood. 
 
 Syria and its allies aim to drive rebels from Aleppo before Donald Trump takes office as U.S. President, a senior official in the pro-Damascus military alliance said, as pro-government forces surged to their biggest victories in the city for years.

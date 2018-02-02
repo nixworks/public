@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/7/blackouts-hit-most-venezuelan-states-including-the-capital-caracas.html)  [JSON](/news/2011/04/7/blackouts-hit-most-venezuelan-states-including-the-capital-caracas.json)  [XML](/news/2011/04/7/blackouts-hit-most-venezuelan-states-including-the-capital-caracas.xml)  
+
 ### [2011-04-7](/news/2011/04/7/index.md)
 
+##### power outage
 # Blackouts hit most Venezuelan states including the capital Caracas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via MSNBC](http://www.msnbc.msn.com/id/42481500/ns/world_news-americas/)
 

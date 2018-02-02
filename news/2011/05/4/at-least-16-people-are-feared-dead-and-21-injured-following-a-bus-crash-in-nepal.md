@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/05/4/at-least-16-people-are-feared-dead-and-21-injured-following-a-bus-crash-in-nepal.html)  [JSON](/news/2011/05/4/at-least-16-people-are-feared-dead-and-21-injured-following-a-bus-crash-in-nepal.json)  [XML](/news/2011/05/4/at-least-16-people-are-feared-dead-and-21-injured-following-a-bus-crash-in-nepal.xml)  
+
 ### [2011-05-4](/news/2011/05/4/index.md)
 
+##### Nepal
 # At least 16 people are feared dead and 21 injured following a bus crash in Nepal. 
 
 At least 16 persons were killed and 21 injured after a passenger bus (NA 4 Kha 4018) en route to Safebagar, Achham from Attariya, Kailali met with an accident at Nelgaira, Kadamandu VDC of Doti on Wednesday at around 3 a.m in the morning. Three of the persons who died in the accident have bee
 
 
-### Source:
+### Sources:
 
 1. [Nepal Mountain News](http://www.nepalmountainnews.com/cms/?p=25913)
 
 ### Related:
 
-1. [At least 14 people are killed in the Indian city of Mumbai as nearly a month's average rainfall fell yesterday during the worst monsoon in years. More than 1,200 people have been killed across India, Nepal and Bangladesh. ](/news/2017/08/30/at-least-14-people-are-killed-in-the-indian-city-of-mumbai-as-nearly-a-month-s-average-rainfall-fell-yesterday-during-the-worst-monsoon-in-y.md) _Context: Nepal_
-2. [Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths-across-india-bangladesh-and-nepal.md) _Context: Nepal_
-3. [Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _Context: Nepal_
-4. [In a move likely to cause concern in India, China and Nepal commenced last Sunday the first ever combined military exercises, focusing on counter-terror operations. ](/news/2017/04/17/in-a-move-likely-to-cause-concern-in-india-china-and-nepal-commenced-last-sunday-the-first-ever-combined-military-exercises-focusing-on-co.md) _Context: Nepal_
-5. [The government of Nepal proposes to amend the constitution to make it more inclusive. ](/news/2016/11/30/the-government-of-nepal-proposes-to-amend-the-constitution-to-make-it-more-inclusive.md) _Context: Nepal_
+1. [Voters in Nepal go to the polls for the second round of a historic legislative election. The turnout is 67%, up from 65% in the first round. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-historic-legislative-election-the-turnout-is-67-up-from-65-in-the-first-round.md) _Context: Nepal_
+2. [Nepal bans solo climbers, double amputees and blind climbers from scaling its mountains, including Mount Everest, in a bid to reduce accidents. This has been criticized by successful double-amputee Everest climbers. ](/news/2017/12/30/nepal-bans-solo-climbers-double-amputees-and-blind-climbers-from-scaling-its-mountains-including-mount-everest-in-a-bid-to-reduce-acciden.md) _Context: Nepal_
+3. [Voters in Nepal go to the polls for the first phase of an election to choose members for the House of Representatives and Parliament. ](/news/2017/11/26/voters-in-nepal-go-to-the-polls-for-the-first-phase-of-an-election-to-choose-members-for-the-house-of-representatives-and-parliament.md) _Context: Nepal_
+4. [At least 19 people are killed and 16 others are injured when a bus skids off the road in the Dhading District and falls into the Trishuli River in central Nepal. ](/news/2017/10/28/at-least-19-people-are-killed-and-16-others-are-injured-when-a-bus-skids-off-the-road-in-the-dhading-district-and-falls-into-the-trishuli-ri.md) _Context: Nepal_
+5. [At least 14 people are killed in the Indian city of Mumbai as nearly a month's average rainfall fell yesterday during the worst monsoon in years. More than 1,200 people have been killed across India, Nepal and Bangladesh. ](/news/2017/08/30/at-least-14-people-are-killed-in-the-indian-city-of-mumbai-as-nearly-a-month-s-average-rainfall-fell-yesterday-during-the-worst-monsoon-in-y.md) _Context: Nepal_

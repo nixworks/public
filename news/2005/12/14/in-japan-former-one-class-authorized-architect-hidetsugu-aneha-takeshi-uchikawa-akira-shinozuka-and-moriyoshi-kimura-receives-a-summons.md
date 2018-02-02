@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/12/14/in-japan-former-one-class-authorized-architect-hidetsugu-aneha-takeshi-uchikawa-akira-shinozuka-and-moriyoshi-kimura-receives-a-summons.html)  [JSON](/news/2005/12/14/in-japan-former-one-class-authorized-architect-hidetsugu-aneha-takeshi-uchikawa-akira-shinozuka-and-moriyoshi-kimura-receives-a-summons.json)  [XML](/news/2005/12/14/in-japan-former-one-class-authorized-architect-hidetsugu-aneha-takeshi-uchikawa-akira-shinozuka-and-moriyoshi-kimura-receives-a-summons.xml)  
+
 ### [2005-12-14](/news/2005/12/14/index.md)
 
+##### Japan
 #  In Japan, former one-class authorized architect Hidetsugu Aneha, Takeshi Uchikawa, Akira Shinozuka and Moriyoshi Kimura receives a summons of witnesses by the Diet because of concerning falsification of earth-quake resistant structural data about condominiums and hotels. [http:--www.japantimes.co.jp-cgi-bin-getarticle.pl5?nn20051215a1.htm (The Japan Times Online)] Subtitled "Tuba Adventure"
 
 

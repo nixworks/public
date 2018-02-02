@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/3/after-days-of-heavy-rain-a-fifty-year-old-building-collapses-in-the-indian-city-of-thane-killing-at-least-twelve-people-with-many-more-fear.html)  [JSON](/news/2015/08/3/after-days-of-heavy-rain-a-fifty-year-old-building-collapses-in-the-indian-city-of-thane-killing-at-least-twelve-people-with-many-more-fear.json)  [XML](/news/2015/08/3/after-days-of-heavy-rain-a-fifty-year-old-building-collapses-in-the-indian-city-of-thane-killing-at-least-twelve-people-with-many-more-fear.xml)  
+
 ### [2015-08-3](/news/2015/08/3/index.md)
 
+##### India
 # After days of heavy rain, a fifty-year-old building collapses in the Indian city of Thane killing at least twelve people with many more feared trapped in the rubble. 
 
 Eleven people died after a 50-year-old building collapsed in Thane late on Monday night. Many others are feared trapped under the debris.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/8bec2e141343456dbb24a883c075849a/building-collapses-near-mumbai-after-heavy-rain-killing-12)
 2. [NDTV](http://www.ndtv.com/cities/6-dead-after-50-year-old-building-collapses-in-thane-1203594)

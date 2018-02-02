@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/11/15/china-and-the-united-nations-the-president-of-the-republic-of-china-chen-shui-bian-declares-he-will-push-to-get-the-roc-included-in-the-un.html)  [JSON](/news/2004/11/15/china-and-the-united-nations-the-president-of-the-republic-of-china-chen-shui-bian-declares-he-will-push-to-get-the-roc-included-in-the-un.json)  [XML](/news/2004/11/15/china-and-the-united-nations-the-president-of-the-republic-of-china-chen-shui-bian-declares-he-will-push-to-get-the-roc-included-in-the-un.xml)  
+
 ### [2004-11-15](/news/2004/11/15/index.md)
 
+##### China and the United Nations
 #  China and the United Nations: The President of the Republic of China Chen Shui-bian declares he will push to get the ROC included in the United Nations under the name "Taiwan". The People's Republic of China condemns the move as a political trick to create an independent Taiwan. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
+Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC US](http://abcnews.go.com/International/wireStory?id=252792)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6811416)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6811416)
 3. [Yahoo](http://asia.news.yahoo.com/041115/afp/041115070644asiapacificnews.html)
-3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

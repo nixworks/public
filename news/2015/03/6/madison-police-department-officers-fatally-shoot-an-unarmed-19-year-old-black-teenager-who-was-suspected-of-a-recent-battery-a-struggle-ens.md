@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/6/madison-police-department-officers-fatally-shoot-an-unarmed-19-year-old-black-teenager-who-was-suspected-of-a-recent-battery-a-struggle-ens.html)  [JSON](/news/2015/03/6/madison-police-department-officers-fatally-shoot-an-unarmed-19-year-old-black-teenager-who-was-suspected-of-a-recent-battery-a-struggle-ens.json)  [XML](/news/2015/03/6/madison-police-department-officers-fatally-shoot-an-unarmed-19-year-old-black-teenager-who-was-suspected-of-a-recent-battery-a-struggle-ens.xml)  
+
 ### [2015-03-6](/news/2015/03/6/index.md)
 
+##### Madison Police Department
 # Madison Police Department officers fatally shoot an unarmed 19-year-old black teenager who was suspected of a recent battery. A struggle ensued between the suspect and an officer, and the teen was fatally shot. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via MSN](http://www.msn.com/en-us/news/us/wisconsin-police-fatally-shoot-black-teen-prompting-protest/ar-AA9u6Z3)
 

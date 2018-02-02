@@ -1,17 +1,28 @@
+
+Formats: [HTML](/news/2011/02/14/anti-regime-protests-occur-in-bahrain.html)  [JSON](/news/2011/02/14/anti-regime-protests-occur-in-bahrain.json)  [XML](/news/2011/02/14/anti-regime-protests-occur-in-bahrain.xml)  
+
 ### [2011-02-14](/news/2011/02/14/index.md)
 
+##### Bahrain
 # Anti-regime protests occur in Bahrain. 
 
 Opposition groups call for protests on Monday as riot police clash with youths in Shia village in the west.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011213185556388117.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011214925802473.html)
 3. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011215194859291708.html)
 4. [Gulf News](http://gulfnews.com/news/gulf/bahrain/al-wefaq-bloc-pulls-out-of-bahrain-s-parliament-1.763950)
 4. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/14/20112142565510734_20.jpg)
+
+### Changes:
+
+1. [2011 Bahraini protests:Anti-regime protests occur in Bahrain. ](/news/2011/02/14/2011-bahraini-protests-panti-regime-protests-occur-in-bahrain.md) _2017-08-25 03:32:10 (First version)_
+2. [2011 Bahraini protests:: Anti-regime protests occur in Bahrain. ](/news/2011/02/14/2011-bahraini-protests-anti-regime-protests-occur-in-bahrain.md) _2017-08-27 03:32:19 (Update)_
+3. [Anti-regime protests are due to occur in Iran. ](/news/2011/02/14/anti-regime-protests-are-due-to-occur-in-iran.md) _2017-10-17 03:37:22 (Update)_
+3. [Anti-regime protests occur in Bahrain. ](/news/2011/02/14/anti-regime-protests-occur-in-bahrain.md) _(Current version)_
 
 ### Related:
 
@@ -20,10 +31,3 @@ Opposition groups call for protests on Monday as riot police clash with youths i
 3. [Bahrain bans the independent "Al-Wasat" newspaper on grounds that it "sows division" in the Shia-majority kingdom. ](/news/2017/06/4/bahrain-bans-the-independent-al-wasat-newspaper-on-grounds-that-it-sows-division-in-the-shia-majority-kingdom.md) _Context: Bahrain_
 4. [The Bahrain News Agency publishes an official list of the demands from Saudi Arabia, Bahrain, the United Arab Emirates and Egypt towards Qatar. Turkey says the demands on Qatar are unlawful. ](/news/2017/06/25/the-bahrain-news-agency-publishes-an-official-list-of-the-demands-from-saudi-arabia-bahrain-the-united-arab-emirates-and-egypt-towards-qat.md) _Context: Bahrain_
 5. [Five people are killed in a raid on a house of a Shia cleric in Bahrain. ](/news/2017/05/24/five-people-are-killed-in-a-raid-on-a-house-of-a-shia-cleric-in-bahrain.md) _Context: Bahrain_
-
-### Changes:
-
-1. [2011 Bahraini protests:Anti-regime protests occur in Bahrain. ](/news/2011/02/14/2011-bahraini-protests-panti-regime-protests-occur-in-bahrain.md) _2017-08-25 03:32:10 (First version)_
-2. [2011 Bahraini protests:: Anti-regime protests occur in Bahrain. ](/news/2011/02/14/2011-bahraini-protests-anti-regime-protests-occur-in-bahrain.md) _2017-08-27 03:32:19 (Update)_
-3. [Anti-regime protests are due to occur in Iran. ](/news/2011/02/14/anti-regime-protests-are-due-to-occur-in-iran.md) _2017-10-16 03:37:35 (Update)_
-3. [Anti-regime protests occur in Bahrain. ](/news/2011/02/14/anti-regime-protests-occur-in-bahrain.md) _(Current version)_

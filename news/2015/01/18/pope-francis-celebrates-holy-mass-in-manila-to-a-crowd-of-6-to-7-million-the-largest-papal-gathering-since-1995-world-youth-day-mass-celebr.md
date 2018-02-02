@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2015/01/18/pope-francis-celebrates-holy-mass-in-manila-to-a-crowd-of-6-to-7-million-the-largest-papal-gathering-since-1995-world-youth-day-mass-celebr.html)  [JSON](/news/2015/01/18/pope-francis-celebrates-holy-mass-in-manila-to-a-crowd-of-6-to-7-million-the-largest-papal-gathering-since-1995-world-youth-day-mass-celebr.json)  [XML](/news/2015/01/18/pope-francis-celebrates-holy-mass-in-manila-to-a-crowd-of-6-to-7-million-the-largest-papal-gathering-since-1995-world-youth-day-mass-celebr.xml)  
+
 ### [2015-01-18](/news/2015/01/18/index.md)
 
+##### 2015 Papal visit to Sri Lanka and the Philippines
 # Pope Francis celebrates Holy Mass in Manila to a crowd of 6 to 7 million, the largest papal gathering since 1995 World Youth Day mass celebrated by late Pope John Paul II in the same place, despite pouring rain. 
 
 Pope Francis concluded his trip to Asia on Sunday with an open-air Mass for a rain-drenched crowd in Manila that the Vatican and the government said drew up to seven million people, the largest ever for a papal event.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/01/18/millions-flock-to-pope-francis-final-mass-in-philippines/)
 2. [BBC](http://m.bbc.com/news/world-asia-30869019)
 3. [CNN](http://edition.cnn.com/2015/01/18/world/philippines-pope-visit/)
 4. [Rappler](http://www.rappler.com/specials/pope-francis-ph/81229-pope-francis-mass-luneta-rizal-park)
-5. [Reuters](http://www.reuters.com/article/2015/01/18/us-pope-philippines-idUSKBN0KQ0TX20150118)
-5. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150118&t=2&i=1017179849&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0G0CN)
+5. [Reuters](https://www.reuters.com/article/2015/01/18/us-pope-philippines-idUSKBN0KQ0TX20150118)
+5. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150118&t=2&i=1017179849&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0G0CN)
 
 ### Related:
 

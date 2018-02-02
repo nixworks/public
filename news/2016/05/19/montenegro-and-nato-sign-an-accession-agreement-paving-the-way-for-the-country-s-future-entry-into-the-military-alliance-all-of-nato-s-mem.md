@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/19/montenegro-and-nato-sign-an-accession-agreement
 
 ### [2016-05-19](/news/2016/05/19/index.md)
 
+##### Accession of Montenegro to NATO
 # Montenegro and NATO sign an accession agreement, paving the way for the country's future entry into the military alliance. All of NATO's members must now ratify the agreement, with Prime Minister Milo Dukanovic expecting Montenegro to join by mid 2017. 
 
 

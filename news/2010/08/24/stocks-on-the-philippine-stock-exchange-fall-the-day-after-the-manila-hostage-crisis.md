@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/24/stocks-on-the-philippine-stock-exchange-fall-the-day-after-the-manila-hostage-crisis.html)  [JSON](/news/2010/08/24/stocks-on-the-philippine-stock-exchange-fall-the-day-after-the-manila-hostage-crisis.json)  [XML](/news/2010/08/24/stocks-on-the-philippine-stock-exchange-fall-the-day-after-the-manila-hostage-crisis.xml)  
+
 ### [2010-08-24](/news/2010/08/24/index.md)
 
+##### Philippine Stock Exchange
 # Stocks on the Philippine Stock Exchange fall the day after the Manila hostage crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Businessweek](http://www.businessweek.com/news/2010-08-23/philippine-stocks-fall-most-in-two-weeks-after-tourists-killed.html)
 

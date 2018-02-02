@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/02/14/in-brazil-president-luiz-inacio-lula-da-silva-meets-venezuelan-president-hugo-chavez-in-caracas-they-start-talks-about-an-alliance-joint.html)  [JSON](/news/2005/02/14/in-brazil-president-luiz-inacio-lula-da-silva-meets-venezuelan-president-hugo-chavez-in-caracas-they-start-talks-about-an-alliance-joint.json)  [XML](/news/2005/02/14/in-brazil-president-luiz-inacio-lula-da-silva-meets-venezuelan-president-hugo-chavez-in-caracas-they-start-talks-about-an-alliance-joint.xml)  
+
 ### [2005-02-14](/news/2005/02/14/index.md)
 
+##### president
 #  In Brazil, President Luiz Incio Lula da Silva meets Venezuelan president Hugo Chvez in Caracas. They start talks about an alliance, joint energy projects and the sale of Brazilian fighter aircraft. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4263025.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=ayY8nfaP2L0U&refer=latin_america)
-3. [Forbes](http://www.forbes.com/technology/ebusiness/feeds/ap/2005/02/11/ap1822476.html)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000086&sid=ayY8nfaP2L0U&refer=latin_america)
+3. [Forbes](https://www.forbes.com/technology/ebusiness/feeds/ap/2005/02/11/ap1822476.html)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/11/the-127-people-who-were-massacred-in-the-srebre
 
 ### [2016-07-11](/news/2016/07/11/index.md)
 
+##### Srebrenica massacre
 # The 127 people who were massacred in the Srebrenica massacre in 1995 and were subsequently discovered in mass graves are buried at the Srebrenica Genocide Memorial following a funeral. For the first time, Bosnian Serbs were not welcome to attend the ceremony. 
 
 Thousands of Muslim Bosniaks paid respect to 127 victims of the 1995 Srebrenica massacre buried in individual graves on Monday in a ceremony avoided by Serbs after survivors said they were not welcome because they denied genocide had occurred.

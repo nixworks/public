@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/27/the-cassini-huygens-space-probe-makes-its-first-close-flyby-of-titan-resulting-in-images-up-to-100-times-better-than-anything-seen-before.html)  [JSON](/news/2004/10/27/the-cassini-huygens-space-probe-makes-its-first-close-flyby-of-titan-resulting-in-images-up-to-100-times-better-than-anything-seen-before.json)  [XML](/news/2004/10/27/the-cassini-huygens-space-probe-makes-its-first-close-flyby-of-titan-resulting-in-images-up-to-100-times-better-than-anything-seen-before.xml)  
+
 ### [2004-10-27](/news/2004/10/27/index.md)
 
+##### Cassini
 #  The Cassini-Huygens space probe makes its first close flyby of Titan, resulting in images up to 100 times better than anything seen before. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Astrobio](http://www.astrobio.net/news/modules.php?op=modload&name=News&file=article&sid=1266&mode=thread&order=0&thold=0)
 

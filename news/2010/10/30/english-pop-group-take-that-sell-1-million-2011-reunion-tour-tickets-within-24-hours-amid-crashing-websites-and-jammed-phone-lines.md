@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/30/english-pop-group-take-that-sell-1-million-2011-reunion-tour-tickets-within-24-hours-amid-crashing-websites-and-jammed-phone-lines.html)  [JSON](/news/2010/10/30/english-pop-group-take-that-sell-1-million-2011-reunion-tour-tickets-within-24-hours-amid-crashing-websites-and-jammed-phone-lines.json)  [XML](/news/2010/10/30/english-pop-group-take-that-sell-1-million-2011-reunion-tour-tickets-within-24-hours-amid-crashing-websites-and-jammed-phone-lines.xml)  
+
 ### [2010-10-30](/news/2010/10/30/index.md)
 
+##### Take That
 # English pop group Take That sell 1 million 2011 reunion tour tickets within 24 hours amid crashing websites and jammed phone lines. 
 
 Take That have sold one million tickets for their latest tour in less than 24 hours. Tickets agencies struggled to cope with fans reporting websites crashing and phone lines being constantly engaged under the weight of the massive demand. New dates were also added to the tour which will be the...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-11651964)
 2. [Reuters](http://in.reuters.com/article/idINIndia-52556220101029)

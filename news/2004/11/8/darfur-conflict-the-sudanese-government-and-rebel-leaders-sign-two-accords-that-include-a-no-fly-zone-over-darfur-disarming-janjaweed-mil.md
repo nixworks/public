@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/8/darfur-conflict-the-sudanese-government-and-rebel-leaders-sign-two-accords-that-include-a-no-fly-zone-over-darfur-disarming-janjaweed-mil.html)  [JSON](/news/2004/11/8/darfur-conflict-the-sudanese-government-and-rebel-leaders-sign-two-accords-that-include-a-no-fly-zone-over-darfur-disarming-janjaweed-mil.json)  [XML](/news/2004/11/8/darfur-conflict-the-sudanese-government-and-rebel-leaders-sign-two-accords-that-include-a-no-fly-zone-over-darfur-disarming-janjaweed-mil.xml)  
+
 ### [2004-11-8](/news/2004/11/8/index.md)
 
+##### Darfur conflict
 #  Darfur conflict: The Sudanese government and rebel leaders sign two accords that include a no-fly zone over Darfur, disarming Janjaweed militia and informing the location of forces to cease-fire monitors. United Nations officials arrive to investigate claims of genocide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/3996859.stm)
 2. [Reuters](http://reuters.com/newsArticle.jhtml?type=worldNews&storyID=6761796)

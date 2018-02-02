@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/15/ibrahim-gambari-the-united-nations-special-envoy-to-myanmar-warns-the-burmese-government-to-stop-arresting-dissidents.html)  [JSON](/news/2007/10/15/ibrahim-gambari-the-united-nations-special-envoy-to-myanmar-warns-the-burmese-government-to-stop-arresting-dissidents.json)  [XML](/news/2007/10/15/ibrahim-gambari-the-united-nations-special-envoy-to-myanmar-warns-the-burmese-government-to-stop-arresting-dissidents.xml)  
+
 ### [2007-10-15](/news/2007/10/15/index.md)
 
+##### Ibrahim Gambari
 #  Ibrahim Gambari, the United Nations special envoy to Myanmar, warns the Burmese government to stop arresting dissidents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Canada](http://ca.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2007-10-15T082807Z_01_BKK229851_RTRIDST_0_NEWS-MYANMAR-COL.XML)
 

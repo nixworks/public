@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/16/nine-civilians-are-killed-in-baghlan-afghanistan-on-their-way-to-a-wedding-when-they-were-blown-up-6-civilians-are-killed-and-3-civilians.html)  [JSON](/news/2011/01/16/nine-civilians-are-killed-in-baghlan-afghanistan-on-their-way-to-a-wedding-when-they-were-blown-up-6-civilians-are-killed-and-3-civilians.json)  [XML](/news/2011/01/16/nine-civilians-are-killed-in-baghlan-afghanistan-on-their-way-to-a-wedding-when-they-were-blown-up-6-civilians-are-killed-and-3-civilians.xml)  
+
 ### [2011-01-16](/news/2011/01/16/index.md)
 
+##### Baghlan
 # Nine civilians are killed in Baghlan, Afghanistan on their way to a wedding when they were blown up: 6 civilians are killed and 3 civilians are injured in Helmand after a minibus and a bomb collide. 
 
 At least nine Afghans on their way to a wedding in the north are killed by a roadside bomb which destroyed their car, officials say.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2011/01/201111611526976374.html)
 2. [BBC](http://www.bbc.co.uk/news/world-south-asia-12201970)

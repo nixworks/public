@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/9/voters-in-nauru-go-to-the-polls-for-an-election-
 
 ### [2016-07-9](/news/2016/07/9/index.md)
 
+##### Nauruan parliamentary election, 2016
 # Voters in Nauru go to the polls for an election. The President of Nauru Baron Waqa is reelected in his constituency. 
 
 Polling stations are now open in Nauru for the 2016 general election.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/23/marriott-international-and-starwood-hotels-and-
 
 ### [2016-09-23](/news/2016/09/23/index.md)
 
+##### Marriott International
 # Marriott International and Starwood Hotels and Resorts merge into one company with Marriott International purchasing Starwood for $13 billion and making Marriott the largest hotel company in the world. 
 
 Marriott and Starwood officially merged into one company this morning.

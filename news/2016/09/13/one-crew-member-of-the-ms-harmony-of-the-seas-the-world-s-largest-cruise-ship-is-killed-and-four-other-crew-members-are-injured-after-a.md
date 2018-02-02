@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/13/one-crew-member-of-the-ms-harmony-of-the-seas-t
 
 ### [2016-09-13](/news/2016/09/13/index.md)
 
+##### MS ''Harmony of the Seas''
 # One crew member of the MS "Harmony of the Seas", the world's largest cruise ship, is killed and four other crew members are injured after a lifeboat fell on them during a training exercise on the ship that was docked in Marseille, France. 
 
 A Harmony of the Seas crew member has died and four others have been injured after a lifeboat fell off the world’s biggest cruise ship. The record-breaking ship, which is operated by Royal Caribbean, is docked in the French port of Marseille.

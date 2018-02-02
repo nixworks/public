@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/13/david-kelly-the-grand-old-man-of-irish-acting-dies-in-dublin.html)  [JSON](/news/2012/02/13/david-kelly-the-grand-old-man-of-irish-acting-dies-in-dublin.json)  [XML](/news/2012/02/13/david-kelly-the-grand-old-man-of-irish-acting-dies-in-dublin.xml)  
+
 ### [2012-02-13](/news/2012/02/13/index.md)
 
+##### David Kelly
 # David Kelly, the "grand old man of Irish acting", dies in Dublin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-17020494)
 2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/actor-david-kelly-dies-aged-82-539609.html)

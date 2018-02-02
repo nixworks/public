@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/12/wells-fargo-decides-to-pay-a-175-million-settlement-in-a-subprime-mortgage-compensation-case.html)  [JSON](/news/2012/07/12/wells-fargo-decides-to-pay-a-175-million-settlement-in-a-subprime-mortgage-compensation-case.json)  [XML](/news/2012/07/12/wells-fargo-decides-to-pay-a-175-million-settlement-in-a-subprime-mortgage-compensation-case.xml)  
+
 ### [2012-07-12](/news/2012/07/12/index.md)
 
+##### Wells Fargo
 # Wells Fargo decides to pay a $175 million settlement in a subprime mortgage compensation case. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/business/breaking/chi-wells-fargo-to-pay-175m-in-subprime-mortgage-settlement-20120712,0,964689.story)
 

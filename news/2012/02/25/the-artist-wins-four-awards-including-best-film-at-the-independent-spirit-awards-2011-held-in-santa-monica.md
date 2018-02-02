@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/25/the-artist-wins-four-awards-including-best-film-at-the-independent-spirit-awards-2011-held-in-santa-monica.html)  [JSON](/news/2012/02/25/the-artist-wins-four-awards-including-best-film-at-the-independent-spirit-awards-2011-held-in-santa-monica.json)  [XML](/news/2012/02/25/the-artist-wins-four-awards-including-best-film-at-the-independent-spirit-awards-2011-held-in-santa-monica.xml)  
+
 ### [2012-02-25](/news/2012/02/25/index.md)
 
+##### The Artist
 # "The Artist" wins four awards including best film at the Independent Spirit Awards 2011 held in Santa Monica. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5h4O8v0drs9B6_hhj4z1t3BBMZD8g?docId=746095a105284832b2dcf98e70d18248)
 

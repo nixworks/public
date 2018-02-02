@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/19/president-hu-jintao-of-china-is-welcomed-at-an-official-ceremony-at-the-white-house-by-u-s-president-barack-obama.html)  [JSON](/news/2011/01/19/president-hu-jintao-of-china-is-welcomed-at-an-official-ceremony-at-the-white-house-by-u-s-president-barack-obama.json)  [XML](/news/2011/01/19/president-hu-jintao-of-china-is-welcomed-at-an-official-ceremony-at-the-white-house-by-u-s-president-barack-obama.xml)  
+
 ### [2011-01-19](/news/2011/01/19/index.md)
 
+##### Hu Jintao
 # President Hu Jintao of China is welcomed at an official ceremony at the White House by U.S. President Barack Obama. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/POLITICS/01/19/china.us.visit/index.html?hpt=T2)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/6/police-in-oak-creek-wisconsin-investigate-a-shooting-incident-at-a-sikh-temple-which-left-seven-people-dead-including-the-gunman.html)  [JSON](/news/2012/08/6/police-in-oak-creek-wisconsin-investigate-a-shooting-incident-at-a-sikh-temple-which-left-seven-people-dead-including-the-gunman.json)  [XML](/news/2012/08/6/police-in-oak-creek-wisconsin-investigate-a-shooting-incident-at-a-sikh-temple-which-left-seven-people-dead-including-the-gunman.xml)  
+
 ### [2012-08-6](/news/2012/08/6/index.md)
 
+##### Oak Creek
 # Police in Oak Creek, Wisconsin investigate a shooting incident at a Sikh temple which left seven people dead, including the gunman. 
 
 Members of the US Sikh community express their shock after six worshippers are shot dead at a temple in Wisconsin.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-19143281)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62061000/jpg/_62061862_62060304.jpg)

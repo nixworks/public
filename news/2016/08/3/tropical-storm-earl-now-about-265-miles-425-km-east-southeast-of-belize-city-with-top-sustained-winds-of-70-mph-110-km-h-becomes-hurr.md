@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/3/tropical-storm-earl-now-about-265-miles-425-km-e
 
 ### [2016-08-3](/news/2016/08/3/index.md)
 
+##### 2016 Atlantic hurricane season
 #  Tropical Storm Earl, now about 265 miles (425 km) east-southeast of Belize City with top sustained winds of 70 mph (110 KM-H), becomes Hurricane Earl that could produce up to 16 inches of rain by the time it hits Belize. On Sunday, then a tropical wave, Earl was responsible for nine deaths, with four people still missing, in the Dominican Republic. 
 
 The storm has already been blamed for deaths in the Dominican Republic.

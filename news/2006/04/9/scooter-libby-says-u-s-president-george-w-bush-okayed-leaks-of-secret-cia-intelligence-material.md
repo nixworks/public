@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/9/scooter-libby-says-u-s-president-george-w-bush-okayed-leaks-of-secret-cia-intelligence-material.html)  [JSON](/news/2006/04/9/scooter-libby-says-u-s-president-george-w-bush-okayed-leaks-of-secret-cia-intelligence-material.json)  [XML](/news/2006/04/9/scooter-libby-says-u-s-president-george-w-bush-okayed-leaks-of-secret-cia-intelligence-material.xml)  
+
 ### [2006-04-9](/news/2006/04/9/index.md)
 
+##### Scooter Libby
 #  Scooter Libby says U.S. President George W. Bush okayed leaks of secret CIA intelligence material. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Buffalo News](http://www.buffalonews.com/editorial/20060407/1053134.asp)
 

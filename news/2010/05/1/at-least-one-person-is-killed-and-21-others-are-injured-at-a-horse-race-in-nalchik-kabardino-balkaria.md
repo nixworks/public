@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/1/at-least-one-person-is-killed-and-21-others-are-injured-at-a-horse-race-in-nalchik-kabardino-balkaria.html)  [JSON](/news/2010/05/1/at-least-one-person-is-killed-and-21-others-are-injured-at-a-horse-race-in-nalchik-kabardino-balkaria.json)  [XML](/news/2010/05/1/at-least-one-person-is-killed-and-21-others-are-injured-at-a-horse-race-in-nalchik-kabardino-balkaria.xml)  
+
 ### [2010-05-1](/news/2010/05/1/index.md)
 
+##### Nalchik
 # At least one person is killed and 21 others are injured at a horse race in Nalchik, Kabardino-Balkaria. 
 
 At least one person killed and 21 others injured at horse race in Kabardino-Balkaria.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/20105111349544713.html)
 1. [Cover Image](http://www.aljazeera.com)

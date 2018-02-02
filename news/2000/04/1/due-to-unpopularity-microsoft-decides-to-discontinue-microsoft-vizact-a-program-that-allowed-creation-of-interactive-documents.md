@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/04/1/due-to-unpopularity-microsoft-decides-to-discontinue-microsoft-vizact-a-program-that-allowed-creation-of-interactive-documents.html)  [JSON](/news/2000/04/1/due-to-unpopularity-microsoft-decides-to-discontinue-microsoft-vizact-a-program-that-allowed-creation-of-interactive-documents.json)  [XML](/news/2000/04/1/due-to-unpopularity-microsoft-decides-to-discontinue-microsoft-vizact-a-program-that-allowed-creation-of-interactive-documents.xml)  
+
 ### [2000-04-1](/news/2000/04/1/index.md)
 
+##### Microsoft
 # Due to unpopularity, Microsoft decides to discontinue Microsoft Vizact, a program that allowed creation of interactive documents.
 
 

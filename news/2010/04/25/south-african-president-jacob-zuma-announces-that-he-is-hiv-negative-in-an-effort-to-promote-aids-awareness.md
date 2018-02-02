@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/25/south-african-president-jacob-zuma-announces-that-he-is-hiv-negative-in-an-effort-to-promote-aids-awareness.html)  [JSON](/news/2010/04/25/south-african-president-jacob-zuma-announces-that-he-is-hiv-negative-in-an-effort-to-promote-aids-awareness.json)  [XML](/news/2010/04/25/south-african-president-jacob-zuma-announces-that-he-is-hiv-negative-in-an-effort-to-promote-aids-awareness.xml)  
+
 ### [2010-04-25](/news/2010/04/25/index.md)
 
+##### Jacob Zuma
 # South African President Jacob Zuma announces that he is HIV-negative in an effort to promote AIDS awareness. 
 
 President Jacob Zuma has revealed his HIV status as he launched a scaled-up counselling and testing campaign.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8642864.stm)
 2. [China Post](http://www.chinapost.com.tw/international/africa/2010/04/26/253932/Zuma-announces.htm)

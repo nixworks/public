@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/11/cyclone-phailin-india-s-odisha-and-andhra-pradesh-prepare-for-storm.html)  [JSON](/news/2013/10/11/cyclone-phailin-india-s-odisha-and-andhra-pradesh-prepare-for-storm.json)  [XML](/news/2013/10/11/cyclone-phailin-india-s-odisha-and-andhra-pradesh-prepare-for-storm.xml)  
+
 ### [2013-10-11](/news/2013/10/11/index.md)
 
+##### Cyclone Phailin
 # Cyclone Phailin: India's Odisha and Andhra Pradesh prepare for storm. 
 
 As many as 500,000 people in India have been evacuated as a massive cyclone sweeps through the Bay of Bengal towards the east coast.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-24487130)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/70443000/jpg/_70443822_70443821.jpg)

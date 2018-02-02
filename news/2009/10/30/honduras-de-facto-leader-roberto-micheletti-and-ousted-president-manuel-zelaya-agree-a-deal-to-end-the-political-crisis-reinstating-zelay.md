@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/30/honduras-de-facto-leader-roberto-micheletti-and-ousted-president-manuel-zelaya-agree-a-deal-to-end-the-political-crisis-reinstating-zelay.html)  [JSON](/news/2009/10/30/honduras-de-facto-leader-roberto-micheletti-and-ousted-president-manuel-zelaya-agree-a-deal-to-end-the-political-crisis-reinstating-zelay.json)  [XML](/news/2009/10/30/honduras-de-facto-leader-roberto-micheletti-and-ousted-president-manuel-zelaya-agree-a-deal-to-end-the-political-crisis-reinstating-zelay.xml)  
+
 ### [2009-10-30](/news/2009/10/30/index.md)
 
+##### Honduras
 #  Honduras' de facto leader Roberto Micheletti and ousted President Manuel Zelaya agree a deal to end the political crisis, reinstating Zelaya as President. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Honduras This Week](http://www.hondurasthisweek.com/national)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/oct/30/honduras-zelaya-deal-coup)

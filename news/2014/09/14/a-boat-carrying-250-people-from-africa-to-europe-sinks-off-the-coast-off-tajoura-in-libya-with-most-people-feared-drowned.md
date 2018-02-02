@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/09/14/a-boat-carrying-250-people-from-africa-to-europe-sinks-off-the-coast-off-tajoura-in-libya-with-most-people-feared-drowned.html)  [JSON](/news/2014/09/14/a-boat-carrying-250-people-from-africa-to-europe-sinks-off-the-coast-off-tajoura-in-libya-with-most-people-feared-drowned.json)  [XML](/news/2014/09/14/a-boat-carrying-250-people-from-africa-to-europe-sinks-off-the-coast-off-tajoura-in-libya-with-most-people-feared-drowned.xml)  
+
 ### [2014-09-14](/news/2014/09/14/index.md)
 
+##### Africa
 # A boat carrying 250 people from Africa to Europe sinks off the coast off Tajoura in Libya with most people feared drowned. 
 
+The boat, packed with up to 250 African migrants trying to reach Europe, sank east of Tripoli, and only 26 people have been rescued so far, the Libyan Navy said.
 
 
+### Sources:
 
-### Source:
-
-1. [Reuters via ''New York Times](http://www.nytimes.com/2014/09/15/world/africa/scores-feared-dead-as-migrants-boat-sinks-off-libyas-coast.html)
+1. [Reuters via ''New York Times](https://www.nytimes.com/2014/09/15/world/africa/scores-feared-dead-as-migrants-boat-sinks-off-libyas-coast.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

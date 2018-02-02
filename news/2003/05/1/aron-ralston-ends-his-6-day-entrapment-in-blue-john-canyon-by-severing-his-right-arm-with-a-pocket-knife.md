@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/1/aron-ralston-ends-his-6-day-entrapment-in-blue-john-canyon-by-severing-his-right-arm-with-a-pocket-knife.html)  [JSON](/news/2003/05/1/aron-ralston-ends-his-6-day-entrapment-in-blue-john-canyon-by-severing-his-right-arm-with-a-pocket-knife.json)  [XML](/news/2003/05/1/aron-ralston-ends-his-6-day-entrapment-in-blue-john-canyon-by-severing-his-right-arm-with-a-pocket-knife.xml)  
+
 ### [2003-05-1](/news/2003/05/1/index.md)
 
+##### Aron Ralston
 #  Aron Ralston ends his 6-day entrapment in Blue John Canyon by severing his right arm with a pocket-knife.
 
 

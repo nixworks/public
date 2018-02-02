@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/7/dennis-marx-of-the-sovereign-citizen-movement-opened-fire-with-an-assault-rifle-outside-a-georgia-courthouse-friday-in-an-attempt-to-take-ho.html)  [JSON](/news/2014/06/7/dennis-marx-of-the-sovereign-citizen-movement-opened-fire-with-an-assault-rifle-outside-a-georgia-courthouse-friday-in-an-attempt-to-take-ho.json)  [XML](/news/2014/06/7/dennis-marx-of-the-sovereign-citizen-movement-opened-fire-with-an-assault-rifle-outside-a-georgia-courthouse-friday-in-an-attempt-to-take-ho.xml)  
+
 ### [2014-06-7](/news/2014/06/7/index.md)
 
+##### sovereign citizen movement
 # Dennis Marx of the sovereign citizen movement opened fire with an assault rifle outside a Georgia courthouse Friday in an attempt to take hostages, wounded a deputy before he was killed in a shootout with officers.
 
 A man wielding an assault rifle, explosives and supplies to take hostages opened fire outside a Georgia courthouse Friday, wounding a deputy before he was killed in a shootout with officers, authorities said.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/us/2014/06/07/suspect-fatally-shot-in-attack-on-georgia-courthouse-attack/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2014/06/07/suspect-fatally-shot-in-attack-on-georgia-courthouse-attack/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1422716483167.jpg?ve=1)

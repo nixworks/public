@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/21/sudan-puts-a-married-ethiopian-woman-to-trial-after-being-gang-raped-because-she-waited-before-she-reported-it-she-faces-the-death-penalty.html)  [JSON](/news/2014/02/21/sudan-puts-a-married-ethiopian-woman-to-trial-after-being-gang-raped-because-she-waited-before-she-reported-it-she-faces-the-death-penalty.json)  [XML](/news/2014/02/21/sudan-puts-a-married-ethiopian-woman-to-trial-after-being-gang-raped-because-she-waited-before-she-reported-it-she-faces-the-death-penalty.xml)  
+
 ### [2014-02-21](/news/2014/02/21/index.md)
 
+##### Sudan
 # Sudan puts a married Ethiopian woman to trial after being gang-raped because she waited before she reported it. She faces the death penalty for adultery. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Daily Mail](http://www.dailymail.co.uk/news/article-2562818/Pregnant-woman-says-gang-raped-Sudan-faces-death-penalty-accused-adultery-waited-report-crime.html)
 

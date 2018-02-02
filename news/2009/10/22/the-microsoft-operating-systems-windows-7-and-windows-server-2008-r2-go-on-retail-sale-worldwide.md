@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/22/the-microsoft-operating-systems-windows-7-and-windows-server-2008-r2-go-on-retail-sale-worldwide.html)  [JSON](/news/2009/10/22/the-microsoft-operating-systems-windows-7-and-windows-server-2008-r2-go-on-retail-sale-worldwide.json)  [XML](/news/2009/10/22/the-microsoft-operating-systems-windows-7-and-windows-server-2008-r2-go-on-retail-sale-worldwide.xml)  
+
 ### [2009-10-22](/news/2009/10/22/index.md)
 
+##### Microsoft
 #  The Microsoft operating systems Windows 7 and Windows Server 2008 R2 go on retail sale worldwide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNET News](http://news.cnet.com/8301-13860_3-10380918-56.html?tag=newsEditorsPicksArea.0)
 

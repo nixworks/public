@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/12/8/the-united-nations-seeks-16-4-billion-to-fund-humanitarian-assistance-programs-in-2015-with-syria-iraq-sudan-and-south-sudan-the-areas-of.html)  [JSON](/news/2014/12/8/the-united-nations-seeks-16-4-billion-to-fund-humanitarian-assistance-programs-in-2015-with-syria-iraq-sudan-and-south-sudan-the-areas-of.json)  [XML](/news/2014/12/8/the-united-nations-seeks-16-4-billion-to-fund-humanitarian-assistance-programs-in-2015-with-syria-iraq-sudan-and-south-sudan-the-areas-of.xml)  
+
 ### [2014-12-8](/news/2014/12/8/index.md)
 
+##### United Nations
 # The United Nations seeks $16.4 billion to fund humanitarian assistance programs in 2015 with Syria, Iraq, Sudan and South Sudan the areas of greatest need. 
 
+The size of the appeal, 27 percent more than the amount sought in 2014, is aimed at helping more than 57 million people in 22 countries.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2014/12/09/world/middleeast/un-seeks-164-billion-to-address-crises-in-2015.html)
+1. [New York Times](https://www.nytimes.com/2014/12/09/world/middleeast/un-seeks-164-billion-to-address-crises-in-2015.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

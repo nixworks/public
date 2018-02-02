@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/21/thousands-of-people-protest-in-buenos-aires-the-capital-of-argentina-after-a-left-wing-activist-is-killed-in-a-dispute-between-two-labor-u.html)  [JSON](/news/2010/10/21/thousands-of-people-protest-in-buenos-aires-the-capital-of-argentina-after-a-left-wing-activist-is-killed-in-a-dispute-between-two-labor-u.json)  [XML](/news/2010/10/21/thousands-of-people-protest-in-buenos-aires-the-capital-of-argentina-after-a-left-wing-activist-is-killed-in-a-dispute-between-two-labor-u.xml)  
+
 ### [2010-10-21](/news/2010/10/21/index.md)
 
+##### Buenos Aires
 # Thousands of people protest in Buenos Aires, the capital of Argentina, after a left-wing activist is killed in a dispute between two labor unions. 
 
 Thousands of people demonstrated in the Argentine capital Buenos Aires in protest at the murder of a left-wing activist during a labour dispute.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11603292)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

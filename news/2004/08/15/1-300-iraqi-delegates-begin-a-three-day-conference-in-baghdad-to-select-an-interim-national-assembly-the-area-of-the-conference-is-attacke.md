@@ -1,19 +1,22 @@
+
+Formats: [HTML](/news/2004/08/15/1-300-iraqi-delegates-begin-a-three-day-conference-in-baghdad-to-select-an-interim-national-assembly-the-area-of-the-conference-is-attacke.html)  [JSON](/news/2004/08/15/1-300-iraqi-delegates-begin-a-three-day-conference-in-baghdad-to-select-an-interim-national-assembly-the-area-of-the-conference-is-attacke.json)  [XML](/news/2004/08/15/1-300-iraqi-delegates-begin-a-three-day-conference-in-baghdad-to-select-an-interim-national-assembly-the-area-of-the-conference-is-attacke.xml)  
+
 ### [2004-08-15](/news/2004/08/15/index.md)
 
+##### Iraq
 #  1,300 Iraqi delegates begin a three-day conference in Baghdad to select an interim National Assembly. The area of the conference is attacked by mortars, which kill one person and wound 17. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5977984)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5977984)
 
 ### Related:
 
-1. [ A car bomb explodes outside a Shi'a mosque in a Baghdad Sunni district, killing 14 worshippers and wounding 19. Mortars land on a police station in Baghdad, followed by an assault which kills 12 people and results in the freeing of 50 prisoners. A website allegedly tied to Abu Musab al-Zarqawi, claims responsibility for the police station attack. [http:--news.bbc.co.uk-2-hi-middle_east-4064609.stm (BBC)] [http:--www.reuters.com-newsArticle.jhtml?type=worldNews&storyID=6992586&section=news (Reuters)] (Link dead as of 04:01, 15 January 2007 (UTC)) The United States Agency for International Development states they aim to boost the availability of electricity throughout Iraq to 18 hours a day by the end of next year from 11 to 15 hours now, estimably higher than before the 2003 U.S. invasion. [http:--www.reuters.com-newsArticle.jhtml?type=worldNews&storyID=6992294 (Reuters)] (Link dead as of 04:01, 15 January 2007 (UTC)) The Ukrainian parliament, embroiled in the presidential election controversy, votes to ask outgoing president Leonid Kuchma to withdraw Ukraine's 1,600 troops in Iraq. [http:--www.reuters.com-newsArticle.jhtml?type=topNews&storyID=6987012 (Reuters)] (Link dead as of 04:01, 15 January 2007 (UTC)) German security forces arrest three alleged members of Ansar al-Islam who are suspected of planning the assassination of Iraqi Prime Minister Iyad Allawi while he was on a state visit to Germany. [http:--www.cnn.com-2004-WORLD-europe-12-03-german.arrests-index.html (CNN)][http:--www.spiegel.de-politik-deutschland-0,1518,330808,00.html ("Der Spiegel"] {{de icon}}](/news/2004/12/3/a-car-bomb-explodes-outside-a-shi-a-mosque-in-a-baghdad-sunni-district-killing-14-worshippers-and-wounding-19-mortars-land-on-a-police-st.md) _Context: Baghdad, Iraq, Mortar_
-2. [ Conflict in Iraq: A roadside bomb kills a U.S. soldier and wounds five others in western Baghdad. Hospital officials say five civilians are killed from U.S. snipers in the western city of Ramadi. In Kirkuk, a roadside bomb kills an Iraqi civilian. An Estonian soldier is killed and five wounded in a bomb blast in Baghdad. A mortar lands on an Iraqi National Guard checkpoint north of Baghdad, killing an Iraqi civilian. In Mosul, a car bomb kills a tribal leader and two civilians. ](/news/2004/10/25/conflict-in-iraq-a-roadside-bomb-kills-a-u-s-soldier-and-wounds-five-others-in-western-baghdad-hospital-officials-say-five-civilians-are.md) _Context: Baghdad, Iraq, Mortar_
-3. [Violence erupts at a protest rally in Baghdad, Iraq, killing at least four protesters and one police officer. Thousands of supporters of Shia cleric Muqtada al-Sadr gathered in the capital to demand an overhaul of the country's electoral system. ](/news/2017/02/11/violence-erupts-at-a-protest-rally-in-baghdad-iraq-killing-at-least-four-protesters-and-one-police-officer-thousands-of-supporters-of-shi.md) _Context: Baghdad, Iraq_
-4. [A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of-baghdad-iraq.md) _Context: Baghdad, Iraq_
-5. [ Iraqi security forces fire tear gas and water cannon on protesters attempting to storm the Green Zone in Baghdad, injuring at least 33. ](/news/2016/05/20/iraqi-security-forces-fire-tear-gas-and-water-cannon-on-protesters-attempting-to-storm-the-green-zone-in-baghdad-injuring-at-least-33.md) _Context: Baghdad, Iraq_
+1. [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md) _Context: Baghdad, Iraq_
+2. [Violence erupts at a protest rally in Baghdad, Iraq, killing at least four protesters and one police officer. Thousands of supporters of Shia cleric Muqtada al-Sadr gathered in the capital to demand an overhaul of the country's electoral system. ](/news/2017/02/11/violence-erupts-at-a-protest-rally-in-baghdad-iraq-killing-at-least-four-protesters-and-one-police-officer-thousands-of-supporters-of-shi.md) _Context: Baghdad, Iraq_
+3. [A series of attacks kill at least 70 people and injure more than 100 others in mostly Shiite neighborhoods of Baghdad, Iraq. ](/news/2017/01/2/a-series-of-attacks-kill-at-least-70-people-and-injure-more-than-100-others-in-mostly-shiite-neighborhoods-of-baghdad-iraq.md) _Context: Baghdad, Iraq_
+4. [ Iraqi security forces fire tear gas and water cannon on protesters attempting to storm the Green Zone in Baghdad, injuring at least 33. ](/news/2016/05/20/iraqi-security-forces-fire-tear-gas-and-water-cannon-on-protesters-attempting-to-storm-the-green-zone-in-baghdad-injuring-at-least-33.md) _Context: Baghdad, Iraq_
+5. [ At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md) _Context: Baghdad, Iraq_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/2/ivory-coasts-election-commission-in-cote-d-ivoire-declares-alassane-ouattara-the-winner-of-the-ivorian-presidential-election-but-the-consti.html)  [JSON](/news/2010/12/2/ivory-coasts-election-commission-in-cote-d-ivoire-declares-alassane-ouattara-the-winner-of-the-ivorian-presidential-election-but-the-consti.json)  [XML](/news/2010/12/2/ivory-coasts-election-commission-in-cote-d-ivoire-declares-alassane-ouattara-the-winner-of-the-ivorian-presidential-election-but-the-consti.xml)  
+
 ### [2010-12-2](/news/2010/12/2/index.md)
 
+##### Ivory Coast
 # Ivory Coasts' election commission in Cte d'Ivoire declares Alassane Ouattara the winner of the Ivorian presidential election but the Constitutional Council declares the announcement invalid as it missed the deadline to announce the results. 
 
 Election commission calls for patience as announcement of contested election result passes midnight cut-off point.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/201012201816213764.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/12/02/ivory.coast.election/index.html?hpt=T2)

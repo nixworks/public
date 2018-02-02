@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/8/tens-of-thousands-of-people-demonstrate-in-mexico-city-over-alleged-vote-buying-in-the-country-s-presidential-election-which-saw-enrique-pe.html)  [JSON](/news/2012/07/8/tens-of-thousands-of-people-demonstrate-in-mexico-city-over-alleged-vote-buying-in-the-country-s-presidential-election-which-saw-enrique-pe.json)  [XML](/news/2012/07/8/tens-of-thousands-of-people-demonstrate-in-mexico-city-over-alleged-vote-buying-in-the-country-s-presidential-election-which-saw-enrique-pe.xml)  
+
 ### [2012-07-8](/news/2012/07/8/index.md)
 
+##### Mexico City
 # Tens of thousands of people demonstrate in Mexico City over alleged vote buying in the country's presidential election, which saw Enrique Pena Nieto elected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/jul/08/mexicans-protest-pena-nieto-election?newsfeed=true)
 

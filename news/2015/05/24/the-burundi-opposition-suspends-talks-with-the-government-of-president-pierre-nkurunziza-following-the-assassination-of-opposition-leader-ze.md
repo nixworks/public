@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2015/05/24/the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination-of-opposition-leader-ze.html)  [JSON](/news/2015/05/24/the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination-of-opposition-leader-ze.json)  [XML](/news/2015/05/24/the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination-of-opposition-leader-ze.xml)  
+
 ### [2015-05-24](/news/2015/05/24/index.md)
 
+##### 2015 Burundian unrest
 # The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/05/24/africa/burundi-talks-suspended/index.html)
+
+### Changes:
+
+1. [2015 Burundian unrest: The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/2015-burundian-unrest-the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination.md) _2017-08-27 03:42:22 (First version)_
+1. [The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination-of-opposition-leader-ze.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Voters in Burundi go to the polls for a presidential election amidst gunfire and violence with President Pierre Nkurunziza seeking a third term and opposition parties boycotting the election. At least two people have been killed in election violence. ](/news/2015/07/21/voters-in-burundi-go-to-the-polls-for-a-presidential-election-amidst-gunfire-and-violence-with-president-pierre-nkurunziza-seeking-a-third-t.md) _Context: Burundi, Pierre Nkurunziza, Presidents_
 4. [The President of Burundi Pierre Nkurunziza says that the government will proceed with a presidential election despite protests and a recent failed coup. ](/news/2015/05/19/the-president-of-burundi-pierre-nkurunziza-says-that-the-government-will-proceed-with-a-presidential-election-despite-protests-and-a-recent.md) _Context: 2015 Burundian unrest, Pierre Nkurunziza, Presidents_
 5. [Thirteen soldiers in Burundi have been arrested for allegedly plotting a coup to overthrow President Pierre Nkurunziza. ](/news/2010/01/31/thirteen-soldiers-in-burundi-have-been-arrested-for-allegedly-plotting-a-coup-to-overthrow-president-pierre-nkurunziza.md) _Context: Burundi, Pierre Nkurunziza, Presidents_
-
-### Changes:
-
-1. [2015 Burundian unrest: The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/2015-burundian-unrest-the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination.md) _2017-08-27 03:42:22 (First version)_
-1. [The Burundi opposition suspends talks with the Government of President Pierre Nkurunziza following the assassination of opposition leader Zedi Feruzi of the Union for Peace and Development party yesterday. ](/news/2015/05/24/the-burundi-opposition-suspends-talks-with-the-government-of-president-pierre-nkurunziza-following-the-assassination-of-opposition-leader-ze.md) _(Current version)_

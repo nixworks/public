@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/18/heavy-rain-of-more-than-1-ft-causes-major-flood
 
 ### [2016-04-18](/news/2016/04/18/index.md)
 
+##### major flooding
 # Heavy rain of more than 1 ft causes major flooding in Houston, Texas, affecting 1,000 homes, causing five deaths and causing power outages for over 100,000 residents. 
 
 

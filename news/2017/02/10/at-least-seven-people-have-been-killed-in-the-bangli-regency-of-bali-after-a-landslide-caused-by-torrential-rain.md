@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/10/at-least-seven-people-have-been-killed-in-the-b
 
 ### [2017-02-10](/news/2017/02/10/index.md)
 
+##### Bangli Regency
 # At least seven people have been killed in the Bangli Regency of Bali after a landslide caused by torrential rain. 
 
 At least 12 people are dead after a landslide in Bali overnight that wiped out several homes.

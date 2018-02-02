@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/3/mittal-steel-completes-the-first-part-of-its-takeover-of-arcelor-with-arcelormittal-being-listed-on-european-stock-exchanges-with-the-combi.html)  [JSON](/news/2007/09/3/mittal-steel-completes-the-first-part-of-its-takeover-of-arcelor-with-arcelormittal-being-listed-on-european-stock-exchanges-with-the-combi.json)  [XML](/news/2007/09/3/mittal-steel-completes-the-first-part-of-its-takeover-of-arcelor-with-arcelormittal-being-listed-on-european-stock-exchanges-with-the-combi.xml)  
+
 ### [2007-09-3](/news/2007/09/3/index.md)
 
+##### Mittal Steel
 #  Mittal Steel completes the first part of its takeover of Arcelor with ArcelorMittal being listed on European stock exchanges with the combined company becoming the world's largest steel producer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/BUSINESS/09/03/arcelor.mittal.ap/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/8/governor-of-texas-rick-perry-the-longest-serving-governor-in-his-home-state-announces-he-will-not-seek-a-fourth-term.html)  [JSON](/news/2013/07/8/governor-of-texas-rick-perry-the-longest-serving-governor-in-his-home-state-announces-he-will-not-seek-a-fourth-term.json)  [XML](/news/2013/07/8/governor-of-texas-rick-perry-the-longest-serving-governor-in-his-home-state-announces-he-will-not-seek-a-fourth-term.xml)  
+
 ### [2013-07-8](/news/2013/07/8/index.md)
 
+##### Governor of Texas
 # Governor of Texas Rick Perry, the longest serving governor in his home state, announces he will not seek a fourth term. 
 
 Texas Governor Rick Perry announces he will retire instead of seeking a fourth term in office next year.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-23235693)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/68618000/jpg/_68618969_68618968.jpg)

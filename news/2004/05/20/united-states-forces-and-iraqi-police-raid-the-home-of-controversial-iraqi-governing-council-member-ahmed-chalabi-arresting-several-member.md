@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/20/united-states-forces-and-iraqi-police-raid-the-home-of-controversial-iraqi-governing-council-member-ahmed-chalabi-arresting-several-member.html)  [JSON](/news/2004/05/20/united-states-forces-and-iraqi-police-raid-the-home-of-controversial-iraqi-governing-council-member-ahmed-chalabi-arresting-several-member.json)  [XML](/news/2004/05/20/united-states-forces-and-iraqi-police-raid-the-home-of-controversial-iraqi-governing-council-member-ahmed-chalabi-arresting-several-member.xml)  
+
 ### [2004-05-20](/news/2004/05/20/index.md)
 
+##### Iraq
 #  United States forces and Iraqi police raid the home of controversial Iraqi Governing Council member Ahmed Chalabi, arresting several members of the Iraqi National Congress and seizing documents. The US severs its financial ties with the group, and accuses it of currency exchange racketeering, theft, and obstructing the Oil for food investigation. 
 
 The Kurdish security chief for embattled Iraqi politician Ahmad Chalabi is being sought by authorities for alleged links to Iran&#8217;s intelligence service, a top Iraqi official said on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/5019721/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/040520/040520_iraq_chalabi_bcol8a.standard.jpg)

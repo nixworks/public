@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/15/2007-south-asian-floods-a-landslide-hits-the-dharla-village-in-the-indian-state-of-himachal-pradesh-killing-at-least-five-people-another.html)  [JSON](/news/2007/08/15/2007-south-asian-floods-a-landslide-hits-the-dharla-village-in-the-indian-state-of-himachal-pradesh-killing-at-least-five-people-another.json)  [XML](/news/2007/08/15/2007-south-asian-floods-a-landslide-hits-the-dharla-village-in-the-indian-state-of-himachal-pradesh-killing-at-least-five-people-another.xml)  
+
 ### [2007-08-15](/news/2007/08/15/index.md)
 
+##### 2007 South Asian floods
 #  2007 South Asian floods: A landslide hits the Dharla village in the Indian state of Himachal Pradesh, killing at least five people. Another 55 are missing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6947810.stm)
 

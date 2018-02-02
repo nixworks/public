@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/08/18/rescuers-say-that-a-fourth-hole-in-the-crandall-canyon-mine-near-huntington-utah-shows-no-sign-of-six-trapped-miners.html)  [JSON](/news/2007/08/18/rescuers-say-that-a-fourth-hole-in-the-crandall-canyon-mine-near-huntington-utah-shows-no-sign-of-six-trapped-miners.json)  [XML](/news/2007/08/18/rescuers-say-that-a-fourth-hole-in-the-crandall-canyon-mine-near-huntington-utah-shows-no-sign-of-six-trapped-miners.xml)  
+
 ### [2007-08-18](/news/2007/08/18/index.md)
 
+##### Crandall Canyon mine
 #  Rescuers say that a fourth hole in the Crandall Canyon mine near Huntington, Utah shows no sign of six trapped miners. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/nation/5066067.html)
 
 ### Related:
 
-1. [ Three people are killed and another six injured as a seismic jolt disrupts an attempted mine rescue effort at the Crandall Canyon Mine near Huntington, Utah, United States. ](/news/2007/08/16/three-people-are-killed-and-another-six-injured-as-a-seismic-jolt-disrupts-an-attempted-mine-rescue-effort-at-the-crandall-canyon-mine-near.md) _Context: Crandall Canyon mine, Huntington, Utah_
-2. [ A drill reaches a pocket where six miners have been trapped for four days in the Crandall Canyon mine near Huntington, Utah. ](/news/2007/08/10/a-drill-reaches-a-pocket-where-six-miners-have-been-trapped-for-four-days-in-the-crandall-canyon-mine-near-huntington-utah.md) _Context: Crandall Canyon mine, Huntington, Utah_
-3. [An explosion at a coal mine near Azadshahr, Iran, kills at least 35 miners and traps 39 others, according to state media. ](/news/2017/05/3/an-explosion-at-a-coal-mine-near-azadshahr-iran-kills-at-least-35-miners-and-traps-39-others-according-to-state-media.md) _Context: mine_
-4. [Miners in the Philippines criticize the government after a crackdown on mining closed more nickel and copper mines. ](/news/2016/08/25/miners-in-the-philippines-criticize-the-government-after-a-crackdown-on-mining-closed-more-nickel-and-copper-mines.md) _Context: mine_
-5. [The price of nickel swings wildly after Philippines environment secretary Gina Lopez announces plans to close existing mines in the country. ](/news/2016/07/6/the-price-of-nickel-swings-wildly-after-philippines-environment-secretary-gina-lopez-announces-plans-to-close-existing-mines-in-the-country.md) _Context: mine_
+1. [ A drill reaches a pocket where six miners have been trapped for four days in the Crandall Canyon mine near Huntington, Utah. ](/news/2007/08/10/a-drill-reaches-a-pocket-where-six-miners-have-been-trapped-for-four-days-in-the-crandall-canyon-mine-near-huntington-utah.md) _Context: Crandall Canyon mine, Huntington, Utah_
+2. [ Seismic activity frustrates rescue efforts for six coal miners trapped underground near Huntington, Utah. ](/news/2007/08/7/seismic-activity-frustrates-rescue-efforts-for-six-coal-miners-trapped-underground-near-huntington-utah.md) _Context: Huntington, Utah_
+3. [ Six miners are trapped in a coal mine 15 miles west of Huntington, Utah. A 3.9 to 4.5 ](/news/2007/08/6/six-miners-are-trapped-in-a-coal-mine-15-miles-west-of-huntington-utah-a-3-9-to-4-5.md) _Context: Huntington, Utah_
+4. [ The Mine Safety and Health Administration indefinitely suspends the search for six missing coal miners trapped in the Crandall Canyon mine in the U.S. state of Utah. ](/news/2007/08/31/the-mine-safety-and-health-administration-indefinitely-suspends-the-search-for-six-missing-coal-miners-trapped-in-the-crandall-canyon-mine.md) _Context: Crandall Canyon mine_
+5. [ A lawyer for missing coal miners in the Crandall Canyon mine in Utah says that a sixth probe has not found enough space for the men to survive. ](/news/2007/08/25/a-lawyer-for-missing-coal-miners-in-the-crandall-canyon-mine-in-utah-says-that-a-sixth-probe-has-not-found-enough-space-for-the-men-to-surv.md) _Context: Crandall Canyon mine_

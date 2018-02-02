@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/11/in-talks-held-regarding-the-course-of-the-syrian-civil-war-russia-and-saudi-arabia-fail-to-reach-agreement-over-cooperation-in-the-fight-ag.html)  [JSON](/news/2015/08/11/in-talks-held-regarding-the-course-of-the-syrian-civil-war-russia-and-saudi-arabia-fail-to-reach-agreement-over-cooperation-in-the-fight-ag.json)  [XML](/news/2015/08/11/in-talks-held-regarding-the-course-of-the-syrian-civil-war-russia-and-saudi-arabia-fail-to-reach-agreement-over-cooperation-in-the-fight-ag.xml)  
+
 ### [2015-08-11](/news/2015/08/11/index.md)
 
+##### Syrian Civil War
 # In talks held regarding the course of the Syrian Civil War, Russia and Saudi Arabia fail to reach agreement over cooperation in the fight against ISIL, with the Saudi representative refusing any common struggle with Assad's regime. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The News Hub](https://www.the-newshub.com/international/the-fate-of-assad)
 

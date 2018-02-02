@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/23/brazilian-health-officials-announce-2-400-babies-up-from-147-in-2014-have-been-born-this-year-with-microcephaly-a-neurological-disorder-t.html)  [JSON](/news/2015/12/23/brazilian-health-officials-announce-2-400-babies-up-from-147-in-2014-have-been-born-this-year-with-microcephaly-a-neurological-disorder-t.json)  [XML](/news/2015/12/23/brazilian-health-officials-announce-2-400-babies-up-from-147-in-2014-have-been-born-this-year-with-microcephaly-a-neurological-disorder-t.xml)  
+
 ### [2015-12-23](/news/2015/12/23/index.md)
 
+##### Brazilian health officials
 # Brazilian health officials announce 2,400 babies (up from 147 in 2014) have been born this year with microcephaly, a neurological disorder that can result in incomplete brain development which can be caused by the mosquito-borne Zika virus, and advise would-be parents, especially in the country's northeast where most of the cases occurred, to avoid pregnancy. 
 
 An unprecedented surge in babies born with microcephaly has driven Brazilian officials to warn couples against getting pregnant until more is known about the situation.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/12/23/health/brazil-zika-pregnancy-warning/)
 2. [Medical Daily](http://www.medicaldaily.com/brazilian-couples-urged-hold-pregnancies-due-microcephaly-surge-suspected-zika-virus-366718)

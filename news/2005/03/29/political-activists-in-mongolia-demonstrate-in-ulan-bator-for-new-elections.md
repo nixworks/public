@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/29/political-activists-in-mongolia-demonstrate-in-ulan-bator-for-new-elections.html)  [JSON](/news/2005/03/29/political-activists-in-mongolia-demonstrate-in-ulan-bator-for-new-elections.json)  [XML](/news/2005/03/29/political-activists-in-mongolia-demonstrate-in-ulan-bator-for-new-elections.xml)  
+
 ### [2005-03-29](/news/2005/03/29/index.md)
 
+##### Mongolia
 #  Political activists in Mongolia demonstrate in Ulan Bator for new elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4389623.stm)
 2. [Taipei Times](http://www.taipeitimes.com/News/world/archives/2005/03/30/2003248361)

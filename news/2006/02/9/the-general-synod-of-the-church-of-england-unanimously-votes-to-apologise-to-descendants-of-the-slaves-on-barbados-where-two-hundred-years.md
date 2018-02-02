@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/9/the-general-synod-of-the-church-of-england-unanimously-votes-to-apologise-to-descendants-of-the-slaves-on-barbados-where-two-hundred-years.html)  [JSON](/news/2006/02/9/the-general-synod-of-the-church-of-england-unanimously-votes-to-apologise-to-descendants-of-the-slaves-on-barbados-where-two-hundred-years.json)  [XML](/news/2006/02/9/the-general-synod-of-the-church-of-england-unanimously-votes-to-apologise-to-descendants-of-the-slaves-on-barbados-where-two-hundred-years.xml)  
+
 ### [2006-02-9](/news/2006/02/9/index.md)
 
+##### General Synod
 #  The General Synod of the Church of England unanimously votes to apologise to descendants of the slaves on Barbados where, two hundred years ago, the church's Society for the Propagation of the Gospel in Foreign Parts that owned the Codrington Estates, used slaves for labour. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/4694896.stm)
 2. [The Times](http://www.timesonline.co.uk/article/0,,2-2031966,00.html)

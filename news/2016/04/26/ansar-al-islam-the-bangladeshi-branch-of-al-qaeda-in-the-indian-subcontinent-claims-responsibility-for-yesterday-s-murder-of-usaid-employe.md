@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/26/ansar-al-islam-the-bangladeshi-branch-of-al-qae
 
 ### [2016-04-26](/news/2016/04/26/index.md)
 
+##### Attacks on secularists in Bangladesh
 # Ansar-al Islam, the Bangladeshi branch of al-Qaeda in the Indian Subcontinent, claims responsibility for yesterday's murder of USAID employee and LGBT activist Xulhaz Mannan and his friend, actor Tanay Majumder. 
 
 

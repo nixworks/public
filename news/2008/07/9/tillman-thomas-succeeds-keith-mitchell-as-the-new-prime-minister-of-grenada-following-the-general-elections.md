@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/9/tillman-thomas-succeeds-keith-mitchell-as-the-new-prime-minister-of-grenada-following-the-general-elections.html)  [JSON](/news/2008/07/9/tillman-thomas-succeeds-keith-mitchell-as-the-new-prime-minister-of-grenada-following-the-general-elections.json)  [XML](/news/2008/07/9/tillman-thomas-succeeds-keith-mitchell-as-the-new-prime-minister-of-grenada-following-the-general-elections.xml)  
+
 ### [2008-07-9](/news/2008/07/9/index.md)
 
+##### Tillman Thomas
 #  Tillman Thomas succeeds Keith Mitchell as the new Prime Minister of Grenada following the general elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Nation](http://www.nationnews.com/story/117373983578346.php)
 

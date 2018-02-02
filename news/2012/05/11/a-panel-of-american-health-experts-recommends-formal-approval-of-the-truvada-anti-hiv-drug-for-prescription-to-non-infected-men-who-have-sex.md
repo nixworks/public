@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/11/a-panel-of-american-health-experts-recommends-formal-approval-of-the-truvada-anti-hiv-drug-for-prescription-to-non-infected-men-who-have-sex.html)  [JSON](/news/2012/05/11/a-panel-of-american-health-experts-recommends-formal-approval-of-the-truvada-anti-hiv-drug-for-prescription-to-non-infected-men-who-have-sex.json)  [XML](/news/2012/05/11/a-panel-of-american-health-experts-recommends-formal-approval-of-the-truvada-anti-hiv-drug-for-prescription-to-non-infected-men-who-have-sex.xml)  
+
 ### [2012-05-11](/news/2012/05/11/index.md)
 
+##### Truvada
 # A panel of American health experts recommends formal approval of the Truvada anti-HIV drug for prescription to non-infected men who have sex with multiple male partners, a decision opposed by some health workers and groups active among those with HIV. 
 
 A panel of US health experts recommends formal approval of Truvada, a drug to prevent HIV infection in healthy people.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/health-18030057)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60161000/jpg/_60161749_107091581.jpg)

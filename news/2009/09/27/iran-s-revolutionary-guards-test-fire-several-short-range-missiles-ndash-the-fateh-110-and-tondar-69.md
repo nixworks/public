@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/09/27/iran-s-revolutionary-guards-test-fire-several-short-range-missiles-ndash-the-fateh-110-and-tondar-69.html)  [JSON](/news/2009/09/27/iran-s-revolutionary-guards-test-fire-several-short-range-missiles-ndash-the-fateh-110-and-tondar-69.json)  [XML](/news/2009/09/27/iran-s-revolutionary-guards-test-fire-several-short-range-missiles-ndash-the-fateh-110-and-tondar-69.xml)  
+
 ### [2009-09-27](/news/2009/09/27/index.md)
 
+##### Iran
 #  Iran's Revolutionary Guards test fire several short-range missiles &ndash; the Fateh-110 and Tondar-69. 
 
 Iranian media say the Islamic Republic has tested short-range missiles and plans..
 
 
-### Source:
+### Sources:
 
 1. [Chosun Ilbo](http://english.chosun.com/site/data/html_dir/2009/09/27/2009092700639.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=107220&sectionid=351020101)
-3. [The Independent](http://www.independent.co.uk/news/world/middle-east/iranian-military-stages-missile-exercises-1794069.html)
+3. [The Independent](https://www.independent.co.uk/news/world/middle-east/iranian-military-stages-missile-exercises-1794069.html)
 4. [Xinhua](http://news.xinhuanet.com/english/2009-09/27/content_12117776.htm)
 4. [Cover Image](http://image.chosun.com/facebook/newson.gif)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/02/28/the-cannes-film-festival-board-of-directors-announce-that-steven-spielberg-will-head-the-2013-cannes-film-festival-jury.html)  [JSON](/news/2013/02/28/the-cannes-film-festival-board-of-directors-announce-that-steven-spielberg-will-head-the-2013-cannes-film-festival-jury.json)  [XML](/news/2013/02/28/the-cannes-film-festival-board-of-directors-announce-that-steven-spielberg-will-head-the-2013-cannes-film-festival-jury.xml)  
+
 ### [2013-02-28](/news/2013/02/28/index.md)
 
+##### Cannes Film Festival
 # The Cannes Film Festival board of directors announce that Steven Spielberg will head the 2013 Cannes Film Festival jury. 
 
-With the &#39;Lincoln&#39; director in charge, the film festival will likely get an American tweak.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/life/movies/2013/02/28/steven-spielberg-cannes-film-festival/1953267/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/life/movies/2013/02/28/steven-spielberg-cannes-film-festival/1953267/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

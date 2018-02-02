@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/09/7/serena-williams-defeats-jelena-jankovia-to-win-the-u-s-open-for-the-third-time-regaining-the-world-number-1-ranking-for-the-first-time-i.html)  [JSON](/news/2008/09/7/serena-williams-defeats-jelena-jankovia-to-win-the-u-s-open-for-the-third-time-regaining-the-world-number-1-ranking-for-the-first-time-i.json)  [XML](/news/2008/09/7/serena-williams-defeats-jelena-jankovia-to-win-the-u-s-open-for-the-third-time-regaining-the-world-number-1-ranking-for-the-first-time-i.xml)  
+
 ### [2008-09-7](/news/2008/09/7/index.md)
 
+##### Serena Williams
 #  Serena Williams defeats Jelena Jankovic to win the U.S. Open for the third time, regaining the World Number 1 ranking for the first time in five years. 
 
 Serena Williams completed her climb back to No. 1 with a 6-4, 7-5 victory against Jelena Jankovic.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/09/08/sports/tennis/08women.html)
+1. [The New York Times](https://www.nytimes.com/2008/09/08/sports/tennis/08women.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/09/08/sports/08open.757.jpg)
 
 ### Related:

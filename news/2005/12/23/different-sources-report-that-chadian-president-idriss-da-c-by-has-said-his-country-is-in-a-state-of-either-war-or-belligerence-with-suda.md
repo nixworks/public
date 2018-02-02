@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/23/different-sources-report-that-chadian-president-idriss-da-c-by-has-said-his-country-is-in-a-state-of-either-war-or-belligerence-with-suda.html)  [JSON](/news/2005/12/23/different-sources-report-that-chadian-president-idriss-da-c-by-has-said-his-country-is-in-a-state-of-either-war-or-belligerence-with-suda.json)  [XML](/news/2005/12/23/different-sources-report-that-chadian-president-idriss-da-c-by-has-said-his-country-is-in-a-state-of-either-war-or-belligerence-with-suda.xml)  
+
 ### [2005-12-23](/news/2005/12/23/index.md)
 
+##### Chad
 #  Different sources report that Chadian president Idriss Deby has said his country is in a state of either "war" or "belligerence" with Sudan following a recent rebel attack in which around 100 people were killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4556576.stm)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L23377768.htm)

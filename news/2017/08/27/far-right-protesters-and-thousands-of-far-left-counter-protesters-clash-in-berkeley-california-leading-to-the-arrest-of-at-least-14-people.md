@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/27/far-right-protesters-and-thousands-of-far-left-
 
 ### [2017-08-27](/news/2017/08/27/index.md)
 
+##### 2017 Berkeley protests
 # Far-right protesters and thousands of far-left counter-protesters clash in Berkeley, California, leading to the arrest of at least 14 people. 
 
 All eyes turned to Berkeley after a day of large-scale protests, and relative peace, in San Francisco

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/8/the-nobel-prize-in-chemistry-is-awarded-jointly-to-peter-agre-and-roderick-mackinnon-for-discoveries-concerning-aquaporins-and-ion-channels.html)  [JSON](/news/2003/10/8/the-nobel-prize-in-chemistry-is-awarded-jointly-to-peter-agre-and-roderick-mackinnon-for-discoveries-concerning-aquaporins-and-ion-channels.json)  [XML](/news/2003/10/8/the-nobel-prize-in-chemistry-is-awarded-jointly-to-peter-agre-and-roderick-mackinnon-for-discoveries-concerning-aquaporins-and-ion-channels.xml)  
+
 ### [2003-10-8](/news/2003/10/8/index.md)
 
+##### Nobel Prize in Chemistry
 #  The Nobel Prize in Chemistry is awarded jointly to Peter Agre and Roderick MacKinnon for discoveries concerning aquaporins and ion channels in cell membranes.
 
 

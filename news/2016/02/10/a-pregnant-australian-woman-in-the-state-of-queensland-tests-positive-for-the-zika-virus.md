@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/10/a-pregnant-australian-woman-in-the-state-of-que
 
 ### [2016-02-10](/news/2016/02/10/index.md)
 
+##### Zika virus outbreak (2015-present)
 # A pregnant Australian woman in the state of Queensland tests positive for the Zika virus. 
 
 The Zika virus has been associated with a birth defect called microcephaly.

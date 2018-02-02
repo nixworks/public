@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/6/properties-in-manchester-england-are-searched-by-the-assets-recovery-agency-during-on-going-investigations-into-the-business-activities-of.html)  [JSON](/news/2005/10/6/properties-in-manchester-england-are-searched-by-the-assets-recovery-agency-during-on-going-investigations-into-the-business-activities-of.json)  [XML](/news/2005/10/6/properties-in-manchester-england-are-searched-by-the-assets-recovery-agency-during-on-going-investigations-into-the-business-activities-of.xml)  
+
 ### [2005-10-6](/news/2005/10/6/index.md)
 
+##### Manchester
 #  Properties in Manchester, England are searched by the Assets Recovery Agency during on-going investigations into the business activities of men alleged to have links with the Irish Republican Army. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/manchester/4314802.stm)
 

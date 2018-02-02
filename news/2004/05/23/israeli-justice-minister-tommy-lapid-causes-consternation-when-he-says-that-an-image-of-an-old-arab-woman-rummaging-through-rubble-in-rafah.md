@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/23/israeli-justice-minister-tommy-lapid-causes-consternation-when-he-says-that-an-image-of-an-old-arab-woman-rummaging-through-rubble-in-rafah.html)  [JSON](/news/2004/05/23/israeli-justice-minister-tommy-lapid-causes-consternation-when-he-says-that-an-image-of-an-old-arab-woman-rummaging-through-rubble-in-rafah.json)  [XML](/news/2004/05/23/israeli-justice-minister-tommy-lapid-causes-consternation-when-he-says-that-an-image-of-an-old-arab-woman-rummaging-through-rubble-in-rafah.xml)  
+
 ### [2004-05-23](/news/2004/05/23/index.md)
 
+##### Israel
 #  Israeli Justice Minister Tommy Lapid causes consternation when he says that an image of an old Arab woman rummaging through rubble in Rafah reminded him of his grandmother, a Holocaust victim. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3742365.stm)
 

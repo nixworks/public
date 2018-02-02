@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/30/in-sudan-the-government-and-the-rebel-group-spla-have-agreed-to-sign-a-ceasefire-in-naiwasha-on-the-road-to-a-peace-deal-the-treaty-would.html)  [JSON](/news/2004/12/30/in-sudan-the-government-and-the-rebel-group-spla-have-agreed-to-sign-a-ceasefire-in-naiwasha-on-the-road-to-a-peace-deal-the-treaty-would.json)  [XML](/news/2004/12/30/in-sudan-the-government-and-the-rebel-group-spla-have-agreed-to-sign-a-ceasefire-in-naiwasha-on-the-road-to-a-peace-deal-the-treaty-would.xml)  
+
 ### [2004-12-30](/news/2004/12/30/index.md)
 
+##### Sudan
 #  In Sudan, the government and the rebel group SPLA have agreed to sign a ceasefire in Naiwasha on the road to a peace deal. The treaty would end the civil war that began in 1983. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4134843.stm)
 2. [IAfrica](http://iafrica.com/news/worldnews/401287.htm)

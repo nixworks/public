@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/15/death-toll-rises-to-180-near-osh-jalalabad-city-and-the-suzak-region.html)  [JSON](/news/2010/06/15/death-toll-rises-to-180-near-osh-jalalabad-city-and-the-suzak-region.json)  [XML](/news/2010/06/15/death-toll-rises-to-180-near-osh-jalalabad-city-and-the-suzak-region.xml)  
+
 ### [2010-06-15](/news/2010/06/15/index.md)
 
+##### Suzak
 # Death toll rises to 180 near Osh, Jalalabad city and the Suzak region. 
 
 Ethnic Uzbeks say the military has killed civilians in southern Kyrgyzstan.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/2010614193945983540.html)
 2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/06/2010614212422465654.html)

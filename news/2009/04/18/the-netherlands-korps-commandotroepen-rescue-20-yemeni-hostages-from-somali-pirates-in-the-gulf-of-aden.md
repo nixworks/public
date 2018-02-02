@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/18/the-netherlands-korps-commandotroepen-rescue-20-yemeni-hostages-from-somali-pirates-in-the-gulf-of-aden.html)  [JSON](/news/2009/04/18/the-netherlands-korps-commandotroepen-rescue-20-yemeni-hostages-from-somali-pirates-in-the-gulf-of-aden.json)  [XML](/news/2009/04/18/the-netherlands-korps-commandotroepen-rescue-20-yemeni-hostages-from-somali-pirates-in-the-gulf-of-aden.xml)  
+
 ### [2009-04-18](/news/2009/04/18/index.md)
 
+##### Netherlands
 #  The Netherlands' "Korps Commandotroepen" rescue 20 Yemeni hostages from Somali pirates in the Gulf of Aden. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8005730.stm)
 

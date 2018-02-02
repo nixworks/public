@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/10/22/google-says-that-its-street-view-cars-collected-more-information-than-it-previously-admitted-including-e-mails-passwords-and-urls-and-that.html)  [JSON](/news/2010/10/22/google-says-that-its-street-view-cars-collected-more-information-than-it-previously-admitted-including-e-mails-passwords-and-urls-and-that.json)  [XML](/news/2010/10/22/google-says-that-its-street-view-cars-collected-more-information-than-it-previously-admitted-including-e-mails-passwords-and-urls-and-that.xml)  
+
 ### [2010-10-22](/news/2010/10/22/index.md)
 
+##### Google
 # Google says that its Street View cars collected more information than it previously admitted including e-mails, passwords and URLs and that it would change its privacy practices. 
 
 Google Inc admitted for the first time its &quot;Street View&quot; cars around the world accidentally collected more personal data than previously disclosed -- including complete emails and passwords -- potentially breathing new life into probes in various countries.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE69L4KW20101022)
+1. [Reuters](https://www.reuters.com/article/idUSTRE69L4KW20101022)
 1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20101022&t=2&i=231873627&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-10-22T233841Z_01_BTRE69L1GWV00_RTROPTP_0_CEBIT)
 
 ### Related:

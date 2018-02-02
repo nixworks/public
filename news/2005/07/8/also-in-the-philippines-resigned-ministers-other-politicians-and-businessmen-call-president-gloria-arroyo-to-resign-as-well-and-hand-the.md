@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/8/also-in-the-philippines-resigned-ministers-other-politicians-and-businessmen-call-president-gloria-arroyo-to-resign-as-well-and-hand-the.html)  [JSON](/news/2005/07/8/also-in-the-philippines-resigned-ministers-other-politicians-and-businessmen-call-president-gloria-arroyo-to-resign-as-well-and-hand-the.json)  [XML](/news/2005/07/8/also-in-the-philippines-resigned-ministers-other-politicians-and-businessmen-call-president-gloria-arroyo-to-resign-as-well-and-hand-the.xml)  
+
 ### [2005-07-8](/news/2005/07/8/index.md)
 
+##### Philippines
 #  Also in the Philippines, resigned ministers, other politicians and businessmen call president Gloria Arroyo to resign as well and hand the reins of the country over to vice president Noli de Castro. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [ABS-CBN](http://www.abs-cbnnews.com/storypage.aspx?StoryId=9900)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/156880/1/.html)

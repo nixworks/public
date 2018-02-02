@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/1/four-alleged-extremists-planning-terror-attacks-
 
 ### [2017-02-1](/news/2017/02/1/index.md)
 
+##### Azerbaijan
 # Four alleged extremists planning terror attacks in Azerbaijan are killed in a shootout with the country's security forces; one suspect is arrested. The State Security Service says the group was connected to an unspecified religious extremist group abroad. 
 
 

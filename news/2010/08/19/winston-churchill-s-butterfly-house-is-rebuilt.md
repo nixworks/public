@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/08/19/winston-churchill-s-butterfly-house-is-rebuilt.html)  [JSON](/news/2010/08/19/winston-churchill-s-butterfly-house-is-rebuilt.json)  [XML](/news/2010/08/19/winston-churchill-s-butterfly-house-is-rebuilt.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### Winston Churchill
 # Winston Churchill's butterfly house is rebuilt. 
 
 It was 1939 and the Nazi menace threatened Europe. But while Britain clamoured for the leadership of Winston Churchill, the thoughts of the great warrior himself were focused on an altogether more pacific subject: butterflies.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/environment/nature/churchills-final-mission-is-completed-2056311.html)
+1. [The Independent](https://www.independent.co.uk/environment/nature/churchills-final-mission-is-completed-2056311.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/08/18/22/435106.bin)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/31/the-cleveland-indians-baseball-team-beats-the-new-york-yankees-22a0-the-yankees-worst-loss-in-their-101-year-history.html)  [JSON](/news/2004/08/31/the-cleveland-indians-baseball-team-beats-the-new-york-yankees-22a0-the-yankees-worst-loss-in-their-101-year-history.json)  [XML](/news/2004/08/31/the-cleveland-indians-baseball-team-beats-the-new-york-yankees-22a0-the-yankees-worst-loss-in-their-101-year-history.xml)  
+
 ### [2004-08-31](/news/2004/08/31/index.md)
 
+##### Cleveland Indians
 #  The Cleveland Indians baseball team beats the New York Yankees 22-0, the Yankees' worst loss in their 101-year history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN box score](http://espn.go.com/mlb/recap?gameId=240831110)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)

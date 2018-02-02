@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/24/iraq-war-at-least-39-people-are-killed-and-61-injured-as-a-car-bomb-explodes-at-a-mosque-in-habbaniya.html)  [JSON](/news/2007/02/24/iraq-war-at-least-39-people-are-killed-and-61-injured-as-a-car-bomb-explodes-at-a-mosque-in-habbaniya.json)  [XML](/news/2007/02/24/iraq-war-at-least-39-people-are-killed-and-61-injured-as-a-car-bomb-explodes-at-a-mosque-in-habbaniya.xml)  
+
 ### [2007-02-24](/news/2007/02/24/index.md)
 
+##### Iraq War
 #  Iraq War: At least 39 people are killed and 61 injured as a car bomb explodes at a mosque in Habbaniya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/meast/02/24/iraq.main/index.html?eref=rss_world)
 

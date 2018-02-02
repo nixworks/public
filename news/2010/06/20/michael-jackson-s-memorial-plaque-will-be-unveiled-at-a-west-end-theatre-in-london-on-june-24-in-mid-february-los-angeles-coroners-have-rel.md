@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/20/michael-jackson-s-memorial-plaque-will-be-unveiled-at-a-west-end-theatre-in-london-on-june-24-in-mid-february-los-angeles-coroners-have-rel.html)  [JSON](/news/2010/06/20/michael-jackson-s-memorial-plaque-will-be-unveiled-at-a-west-end-theatre-in-london-on-june-24-in-mid-february-los-angeles-coroners-have-rel.json)  [XML](/news/2010/06/20/michael-jackson-s-memorial-plaque-will-be-unveiled-at-a-west-end-theatre-in-london-on-june-24-in-mid-february-los-angeles-coroners-have-rel.xml)  
+
 ### [2010-06-20](/news/2010/06/20/index.md)
 
+##### Michael Jackson
 # Michael Jackson's memorial plaque will be unveiled at a West End theatre in London on June 24. In mid-February Los Angeles coroners have released a report of his autopsy, which said his death was a homicide. 
 
 A memorial is to be unveiled at a West End theatre in London on the first anniversary of the death of Michael Jackson.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment_and_arts/10360590.stm)
 2. [SKY](http://news.sky.com/skynews/Home/Showbiz-News/Michael-Jackson-Memorial-At-Lyric-Theatre-London---Home-Of-The-Thriller-Live-Show---To-Be-Unveiled/Article/201006315652283?f=rss)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/26/vietnamese-protesters-march-in-the-capital-hanoi-for-the-fourth-successive-week-calling-on-the-people-s-republic-of-china-to-stop-entering-v.html)  [JSON](/news/2011/06/26/vietnamese-protesters-march-in-the-capital-hanoi-for-the-fourth-successive-week-calling-on-the-people-s-republic-of-china-to-stop-entering-v.json)  [XML](/news/2011/06/26/vietnamese-protesters-march-in-the-capital-hanoi-for-the-fourth-successive-week-calling-on-the-people-s-republic-of-china-to-stop-entering-v.xml)  
+
 ### [2011-06-26](/news/2011/06/26/index.md)
 
+##### Vietnamese
 # Vietnamese protesters march in the capital Hanoi for the fourth successive week calling on the People's Republic of China to stop entering Vietnamese territorial waters on the South China Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/43538759)
 

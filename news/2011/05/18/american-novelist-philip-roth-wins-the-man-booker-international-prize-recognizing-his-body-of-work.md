@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/18/american-novelist-philip-roth-wins-the-man-booker-international-prize-recognizing-his-body-of-work.html)  [JSON](/news/2011/05/18/american-novelist-philip-roth-wins-the-man-booker-international-prize-recognizing-his-body-of-work.json)  [XML](/news/2011/05/18/american-novelist-philip-roth-wins-the-man-booker-international-prize-recognizing-his-body-of-work.xml)  
+
 ### [2011-05-18](/news/2011/05/18/index.md)
 
+##### Philip Roth
 # American novelist Philip Roth wins the Man Booker International Prize, recognizing his body of work. 
 
 Get up to the minute &nbsp;entertainment news,&nbsp;celebrity&nbsp;interviews, celeb videos, photos, movies, TV, music news and pop culture on&nbsp;ABCNews.com.
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/Entertainment/wireStory?id=13627057)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/28/iran-opens-a-naval-base-in-the-town-of-jask-just-outside-the-strait-of-hormuz-entrance-to-the-persian-gulf.html)  [JSON](/news/2008/10/28/iran-opens-a-naval-base-in-the-town-of-jask-just-outside-the-strait-of-hormuz-entrance-to-the-persian-gulf.json)  [XML](/news/2008/10/28/iran-opens-a-naval-base-in-the-town-of-jask-just-outside-the-strait-of-hormuz-entrance-to-the-persian-gulf.xml)  
+
 ### [2008-10-28](/news/2008/10/28/index.md)
 
+##### Iran
 #  Iran opens a naval base in the town of Jask, just outside the Strait of Hormuz entrance to the Persian Gulf. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/middle_east/7694947.stm)
 

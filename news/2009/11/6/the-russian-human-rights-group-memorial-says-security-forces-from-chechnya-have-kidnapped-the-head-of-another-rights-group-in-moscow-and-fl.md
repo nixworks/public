@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/6/the-russian-human-rights-group-memorial-says-security-forces-from-chechnya-have-kidnapped-the-head-of-another-rights-group-in-moscow-and-fl.html)  [JSON](/news/2009/11/6/the-russian-human-rights-group-memorial-says-security-forces-from-chechnya-have-kidnapped-the-head-of-another-rights-group-in-moscow-and-fl.json)  [XML](/news/2009/11/6/the-russian-human-rights-group-memorial-says-security-forces-from-chechnya-have-kidnapped-the-head-of-another-rights-group-in-moscow-and-fl.xml)  
+
 ### [2009-11-6](/news/2009/11/6/index.md)
 
+##### Russia
 #  The Russian human rights group Memorial says security forces from Chechnya have kidnapped the head of another rights group in Moscow and flown him to Grozny. 
 
 Rights group says head of another rights group in Moscow kidnapped and taken to Chechnya.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i_V4S4eQUEftxv0rEiI__cx8-XJQD9BPJNM00)
 2. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/11/2009116111843738748.html)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/15/egyptian-protesters-throw-tomatoes-and-shoes-at-us-secretary-of-state-hillary-clinton-s-motorcade-during-her-first-visit-to-the-country-sinc.html)  [JSON](/news/2012/07/15/egyptian-protesters-throw-tomatoes-and-shoes-at-us-secretary-of-state-hillary-clinton-s-motorcade-during-her-first-visit-to-the-country-sinc.json)  [XML](/news/2012/07/15/egyptian-protesters-throw-tomatoes-and-shoes-at-us-secretary-of-state-hillary-clinton-s-motorcade-during-her-first-visit-to-the-country-sinc.xml)  
+
 ### [2012-07-15](/news/2012/07/15/index.md)
 
+##### US Secretary of State
 # Egyptian protesters throw tomatoes and shoes at US Secretary of State Hillary Clinton's motorcade during her first visit to the country since the election of President Mohamed Morsi. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/15/us-egypt-usa-clinton-idUSBRE86D07520120715)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120715&t=2&i=630415825&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86E0PGI00)
+1. [Reuters](https://www.reuters.com/article/2012/07/15/us-egypt-usa-clinton-idUSBRE86D07520120715)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120715&t=2&i=630415825&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86E0PGI00)
 
 ### Related:
 

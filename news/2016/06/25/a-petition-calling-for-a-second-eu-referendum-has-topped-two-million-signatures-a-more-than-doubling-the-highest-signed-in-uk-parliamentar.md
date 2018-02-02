@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/25/a-petition-calling-for-a-second-eu-referendum-h
 
 ### [2016-06-25](/news/2016/06/25/index.md)
 
+##### European Union membership referendum
 # A petition calling for a second EU referendum has topped two million signatures - more than doubling the highest signed in UK parliamentary history. 
 
 Shadow foreign secretary Hilary Benn is sacked from the shadow cabinet amid claims he was encouraging Labour ministers to resign if Jeremy Corbyn ignored a no confidence vote outcome.

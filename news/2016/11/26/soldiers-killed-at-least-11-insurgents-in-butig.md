@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/26/soldiers-killed-at-least-11-insurgents-in-butig
 
 ### [2016-11-26](/news/2016/11/26/index.md)
 
+##### Moro conflict
 # Soldiers killed at least 11 insurgents in Butig. 
 
 Government troops have killed at least 11 members of a rebel group in the southern Philippines that has pledged allegiance to Islamic State, the military said, sending local communities fleeing as a battle raged on Sunday.

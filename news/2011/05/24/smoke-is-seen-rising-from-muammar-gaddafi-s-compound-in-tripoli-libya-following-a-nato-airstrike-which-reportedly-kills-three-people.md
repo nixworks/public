@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/24/smoke-is-seen-rising-from-muammar-gaddafi-s-compound-in-tripoli-libya-following-a-nato-airstrike-which-reportedly-kills-three-people.html)  [JSON](/news/2011/05/24/smoke-is-seen-rising-from-muammar-gaddafi-s-compound-in-tripoli-libya-following-a-nato-airstrike-which-reportedly-kills-three-people.json)  [XML](/news/2011/05/24/smoke-is-seen-rising-from-muammar-gaddafi-s-compound-in-tripoli-libya-following-a-nato-airstrike-which-reportedly-kills-three-people.xml)  
+
 ### [2011-05-24](/news/2011/05/24/index.md)
 
+##### Muammar Gaddafi
 # Smoke is seen rising from Muammar Gaddafi's compound in Tripoli, Libya, following a NATO airstrike which reportedly kills three people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/world/three-dead-as-nato-planes-hit-tripoli/story-e6frfkyi-1226061800965)
 2. [CNN](http://news.blogs.cnn.com/2011/05/23/smoke-seen-rising-from-gadhafi-compound-after-airstrikes/)

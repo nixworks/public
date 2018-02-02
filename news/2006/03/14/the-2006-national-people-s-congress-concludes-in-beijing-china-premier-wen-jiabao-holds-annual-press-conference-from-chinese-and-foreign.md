@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/14/the-2006-national-people-s-congress-concludes-in-beijing-china-premier-wen-jiabao-holds-annual-press-conference-from-chinese-and-foreign.html)  [JSON](/news/2006/03/14/the-2006-national-people-s-congress-concludes-in-beijing-china-premier-wen-jiabao-holds-annual-press-conference-from-chinese-and-foreign.json)  [XML](/news/2006/03/14/the-2006-national-people-s-congress-concludes-in-beijing-china-premier-wen-jiabao-holds-annual-press-conference-from-chinese-and-foreign.xml)  
+
 ### [2006-03-14](/news/2006/03/14/index.md)
 
+##### 2006 National People's Congress
 #  The 2006 National People's Congress concludes in Beijing, China. Premier Wen Jiabao holds annual press conference from Chinese and foreign reporters. Wen reiterates Taiwan issue in serious tone. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People's Daily](http://english.people.com.cn/200603/15/eng20060315_250736.html)
 

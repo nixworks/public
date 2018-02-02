@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/12/united-nations-investigators-criticise-sudan-for-gross-human-rights-violations-in-darfur-including-murder-mass-rape-and-kidnapping.html)  [JSON](/news/2007/03/12/united-nations-investigators-criticise-sudan-for-gross-human-rights-violations-in-darfur-including-murder-mass-rape-and-kidnapping.json)  [XML](/news/2007/03/12/united-nations-investigators-criticise-sudan-for-gross-human-rights-violations-in-darfur-including-murder-mass-rape-and-kidnapping.xml)  
+
 ### [2007-03-12](/news/2007/03/12/index.md)
 
+##### United Nations
 #  United Nations investigators criticise Sudan for gross human rights violations in Darfur, including murder, mass rape and kidnapping. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6440719.stm)
 

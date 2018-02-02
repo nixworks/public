@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/19/barack-obama-becomes-the-first-sitting-us-president-to-visit-burma-meeting-both-burmese-president-thein-sein-and-national-league-for-democr.html)  [JSON](/news/2012/11/19/barack-obama-becomes-the-first-sitting-us-president-to-visit-burma-meeting-both-burmese-president-thein-sein-and-national-league-for-democr.json)  [XML](/news/2012/11/19/barack-obama-becomes-the-first-sitting-us-president-to-visit-burma-meeting-both-burmese-president-thein-sein-and-national-league-for-democr.xml)  
+
 ### [2012-11-19](/news/2012/11/19/index.md)
 
+##### Barack Obama
 # Barack Obama becomes the first sitting US President to visit Burma, meeting both Burmese President Thein Sein and National League for Democracy leader Aung San Suu Kyi. 
 
 Burma is on a &quot;remarkable journey&quot; of reform that has further to go, Barack Obama says as he makes the first visit by a serving US president.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20386066)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64224000/jpg/_64224141_016544686-1.jpg)

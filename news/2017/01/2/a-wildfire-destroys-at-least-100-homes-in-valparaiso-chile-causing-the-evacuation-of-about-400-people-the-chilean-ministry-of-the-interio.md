@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/2/a-wildfire-destroys-at-least-100-homes-in-valpar
 
 ### [2017-01-2](/news/2017/01/2/index.md)
 
+##### Valparaso
 # A wildfire destroys at least 100 homes in Valparaso, Chile, causing the evacuation of about 400 people. The Chilean Ministry of the Interior and Public Security reports that at least 19 people suffered from minor injuries. 
 
  A large fire broke out in the coastal Chilean city of Valparaiso on Monday evening, burning at least 100 homes, prompting the evacuation of about 400 people an
@@ -16,8 +17,8 @@ Formats: [HTML](/news/2017/01/2/a-wildfire-destroys-at-least-100-homes-in-valpar
 
 ### Related:
 
-1. [Chile declares a state of emergency and preliminary evacuation of 16,000 as a forest fire threatens the city of Valparaiso. ](/news/2015/03/13/chile-declares-a-state-of-emergency-and-preliminary-evacuation-of-16-000-as-a-forest-fire-threatens-the-city-of-valparaiso.md) _Context: Chile, Valparaso_
-2. [A massive forest fire in Valparaso, Chile destroys thousands of homes and leaves 11 people dead. ](/news/2014/04/13/a-massive-forest-fire-in-valparaiso-chile-destroys-thousands-of-homes-and-leaves-11-people-dead.md) _Context: Chile, Valparaso_
-3. [Voters in Chile head to the polls to elect a president, as well as positions in the Senate, the Chamber of Deputies, as well as regional boards. ](/news/2017/11/19/voters-in-chile-head-to-the-polls-to-elect-a-president-as-well-as-positions-in-the-senate-the-chamber-of-deputies-as-well-as-regional-boa.md) _Context: Chile_
-4. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: Chile_
-5. [Four people are killed as intense rains and snowstorms hit central and southern Chile. About 3,000 people are homeless, and hundreds of thousands have lost power. ](/news/2017/06/17/four-people-are-killed-as-intense-rains-and-snowstorms-hit-central-and-southern-chile-about-3-000-people-are-homeless-and-hundreds-of-thou.md) _Context: Chile_
+1. [A massive forest fire in Valparaso, Chile destroys thousands of homes and leaves 11 people dead. ](/news/2014/04/13/a-massive-forest-fire-in-valparaiso-chile-destroys-thousands-of-homes-and-leaves-11-people-dead.md) _Context: Chile, Valparaso_
+2. [The 11 remaining countries aiming to create the Trans-Pacific Partnership after the Unites States' withdrawal announce that they will sign an agreement in Chile this March. ](/news/2018/01/23/the-11-remaining-countries-aiming-to-create-the-trans-pacific-partnership-after-the-unites-states-withdrawal-announce-that-they-will-sign-a.md) _Context: Chile_
+3. [Five people are killed and at least 15 missing in a mudslide in Villa Santa Lucia, a remote village in southern Chile, after more than 4.5 inches (11.4 cm) of rain the previous 24 hours. President Michelle Bachelet declares a state of emergency. Sunday is the run-off election for Chile's next president. ](/news/2017/12/16/five-people-are-killed-and-at-least-15-missing-in-a-mudslide-in-villa-santa-lucaa-a-remote-village-in-southern-chile-after-more-than-4-5.md) _Context: Chile_
+4. [Voters in Chile head to the polls to elect a president, as well as positions in the Senate, the Chamber of Deputies, as well as regional boards. ](/news/2017/11/19/voters-in-chile-head-to-the-polls-to-elect-a-president-as-well-as-positions-in-the-senate-the-chamber-of-deputies-as-well-as-regional-boa.md) _Context: Chile_
+5. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: Chile_

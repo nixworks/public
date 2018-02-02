@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/5/a-bombing-in-the-pakistani-province-of-peshawar-kills-17-people.html)  [JSON](/news/2008/12/5/a-bombing-in-the-pakistani-province-of-peshawar-kills-17-people.json)  [XML](/news/2008/12/5/a-bombing-in-the-pakistani-province-of-peshawar-kills-17-people.xml)  
+
 ### [2008-12-5](/news/2008/12/5/index.md)
 
+##### bombing
 #  A bombing in the Pakistani province of Peshawar kills 17 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5iY68JOyNIHbng1p0gU3svyBH9g3gD94SKM8G0)
 

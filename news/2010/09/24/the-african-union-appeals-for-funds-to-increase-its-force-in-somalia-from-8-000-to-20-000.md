@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/24/the-african-union-appeals-for-funds-to-increase-its-force-in-somalia-from-8-000-to-20-000.html)  [JSON](/news/2010/09/24/the-african-union-appeals-for-funds-to-increase-its-force-in-somalia-from-8-000-to-20-000.json)  [XML](/news/2010/09/24/the-african-union-appeals-for-funds-to-increase-its-force-in-somalia-from-8-000-to-20-000.xml)  
+
 ### [2010-09-24](/news/2010/09/24/index.md)
 
+##### African Union
 # The African Union appeals for funds to increase its force in Somalia from 8,000 to 20,000. 
 
 The African Union appeals for funds to increase its force in Somalia amid a crisis summit in New York.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hOH40GuM9OKaPB-vL42ifoGySgjgD9IE3EJO0)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11403025)

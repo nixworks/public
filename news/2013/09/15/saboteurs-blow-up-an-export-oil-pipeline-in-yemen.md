@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2013/09/15/saboteurs-blow-up-an-export-oil-pipeline-in-yemen.html)  [JSON](/news/2013/09/15/saboteurs-blow-up-an-export-oil-pipeline-in-yemen.json)  [XML](/news/2013/09/15/saboteurs-blow-up-an-export-oil-pipeline-in-yemen.xml)  
+
 ### [2013-09-15](/news/2013/09/15/index.md)
 
+##### Saboteurs
 # Saboteurs blow up an export oil pipeline in Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of Russia](http://voiceofrussia.com/news/2013_09_15/Yemen-Saboteurs-blow-up-export-oil-pipeline-5560/)
 
 ### Related:
 
 1. [Six AQAP militants and two Yemeni soldiers are killed after clashes near a damaged oil pipeline in Ma'rib Governorate. Separately, gunmen target military officials and the home of the transport minister in the capital Sana'a, killing a brigadier general and injuring four others. ](/news/2012/12/25/six-aqap-militants-and-two-yemeni-soldiers-are-killed-after-clashes-near-a-damaged-oil-pipeline-in-ma-rib-governorate-separately-gunmen-ta.md) _Context: Yemen, oil pipeline_
-2. [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md) _Context: Yemen_
-3. [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md) _Context: sabotage_
-4. [An American UH-60 Black Hawk helicopter on a training mission crashes off the coast of Yemen with six aboard, five of whom have been rescued. The search continues for the other U.S. service member. ](/news/2017/08/25/an-american-uh-60-black-hawk-helicopter-on-a-training-mission-crashes-off-the-coast-of-yemen-with-six-aboard-five-of-whom-have-been-rescued.md) _Context: Yemen_
-5. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Yemen_
+2. [The Southern Transitional Council (STC) takes control of the Yemeni port city of Aden following two days of fierce fighting in the city which has left dozens dead. Yemeni Prime Minister Ahmed Obeid bin Daghr, and members of the President Abdrabbuh Mansur Hadi-led government are confined to the presidential palace which has been surrounded. ](/news/2018/01/30/the-southern-transitional-council-stc-takes-control-of-the-yemeni-port-city-of-aden-following-two-days-of-fierce-fighting-in-the-city-whic.md) _Context: Yemen_
+3. [United Arab Emirates-backed Southern Transitional Council (STC) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-stc-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md) _Context: Yemen_
+4. [After 1,000 days of civil war in Yemen, eight million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-eight-million-people-are-at-risk-of-starvation.md) _Context: Yemen_
+5. [Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran refutes the claim as based on "fabricated" evidence. ](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-nations-accuses-iran-of-violating-the-2015-nuclear-deal-by-allegedly-supplying-the-missile-f.md) _Context: Yemen_

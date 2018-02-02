@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/5/republican-party-candidates-for-the-nomination-in-the-2012-united-states-presidential-election-hold-their-first-debate-in-greenville-south.html)  [JSON](/news/2011/05/5/republican-party-candidates-for-the-nomination-in-the-2012-united-states-presidential-election-hold-their-first-debate-in-greenville-south.json)  [XML](/news/2011/05/5/republican-party-candidates-for-the-nomination-in-the-2012-united-states-presidential-election-hold-their-first-debate-in-greenville-south.xml)  
+
 ### [2011-05-5](/news/2011/05/5/index.md)
 
+##### Republican
 # Republican Party candidates for the nomination in the 2012 United States presidential election hold their first debate in Greenville, South Carolina. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/politics/2011/05/05/gop-contenders-look-seize-moment-presidential-debate/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/slideshow/2011/05/05/gop-presidential-candidates-debate-in-south-carolina/_jcr_content/slideshow-par/slide_image/image.img.jpg/0/0/1421925427631.jpg?ve=1)

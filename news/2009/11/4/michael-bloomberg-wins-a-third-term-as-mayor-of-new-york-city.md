@@ -1,17 +1,26 @@
+
+Formats: [HTML](/news/2009/11/4/michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.html)  [JSON](/news/2009/11/4/michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.json)  [XML](/news/2009/11/4/michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.xml)  
+
 ### [2009-11-4](/news/2009/11/4/index.md)
 
+##### United States elections, 2009
 #  Michael Bloomberg wins a third term as Mayor of New York City. 
 
 NYC&#39;s narrow reelection&nbsp;makes Dems skeptical.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2009/POLITICS/11/03/2009.elections/index.html)
 2. [CQ Politics](http://www.cqpolitics.com/wmspage.cfm?docID=news-000003238975)
-3. [New York Times](http://www.nytimes.com/2009/11/05/us/politics/05maine.html)
+3. [New York Times](https://www.nytimes.com/2009/11/05/us/politics/05maine.html)
 4. [Politico](http://www.politico.com/news/stories/1109/29113.html)
 4. [Cover Image](http://s3-origin-images.politico.com/news/091103_bloomberg1_ap_297.jpg)
+
+### Changes:
+
+1. [ United States elections, 2009: Michael Bloomberg wins a third term as Mayor of New York City. ](/news/2009/11/4/united-states-elections-2009-michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.md) _2017-08-27 03:26:06 (First version)_
+1. [ Michael Bloomberg wins a third term as Mayor of New York City. ](/news/2009/11/4/michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.md) _(Current version)_
 
 ### Related:
 
@@ -20,8 +29,3 @@ NYC&#39;s narrow reelection&nbsp;makes Dems skeptical.
 3. [ The New York City Council votes 29-22 in favor of extending the term limit on the office of the Mayor to three consecutive four-year terms from two consecutive four-year terms. This allows current Mayor Michael Bloomberg to run for office again in the next mayoral election in November 2009. ](/news/2008/10/23/the-new-york-city-council-votes-29a22-in-favor-of-extending-the-term-limit-on-the-office-of-the-mayor-to-three-consecutive-four-year-term.md) _Context: Mayor, Michael Bloomberg, New York City_
 4. [New York City Mayor Bill de Blasio announces that he is developing a plan to close the Rikers Island prison within 10 years. ](/news/2017/03/31/new-york-city-mayor-bill-de-blasio-announces-that-he-is-developing-a-plan-to-close-the-rikers-island-prison-within-10-years.md) _Context: Mayor, New York City_
 5. [Former New York City mayor Michael Bloomberg announces he will not run for president in 2016 because of the impact his candidacy might have on the outcome in November. ](/news/2016/03/7/former-new-york-city-mayor-michael-bloomberg-announces-he-will-not-run-for-president-in-2016-because-of-the-impact-his-candidacy-might-have.md) _Context: Mayor, Michael Bloomberg_
-
-### Changes:
-
-1. [ United States elections, 2009: Michael Bloomberg wins a third term as Mayor of New York City. ](/news/2009/11/4/united-states-elections-2009-michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.md) _2017-08-27 03:26:06 (First version)_
-1. [ Michael Bloomberg wins a third term as Mayor of New York City. ](/news/2009/11/4/michael-bloomberg-wins-a-third-term-as-mayor-of-new-york-city.md) _(Current version)_

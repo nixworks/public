@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/12/jioji-konrote-is-elected-president-of-fiji-by-the-country-s-parliament-konrote-fiji-s-minister-for-employment-productivity-and-industrial.html)  [JSON](/news/2015/10/12/jioji-konrote-is-elected-president-of-fiji-by-the-country-s-parliament-konrote-fiji-s-minister-for-employment-productivity-and-industrial.json)  [XML](/news/2015/10/12/jioji-konrote-is-elected-president-of-fiji-by-the-country-s-parliament-konrote-fiji-s-minister-for-employment-productivity-and-industrial.xml)  
+
 ### [2015-10-12](/news/2015/10/12/index.md)
 
+##### Jioji Konrote
 # Jioji Konrote is elected President of Fiji by the country's Parliament. Konrote, Fiji's Minister for Employment, Productivity and Industrial Relations, received 31 votes, defeating Epeli Ganilau, who garnered 14 votes. 
 
 Fiji&#39;s Minister for Employment, Productivity and Industrial Relations, Jioji Konrote, has been elected by Parliament as Fiji&#39;s next President.
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand International](http://www.radionz.co.nz/international/pacific-news/286749/fiji-parliament-elects-new-president)
 1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)

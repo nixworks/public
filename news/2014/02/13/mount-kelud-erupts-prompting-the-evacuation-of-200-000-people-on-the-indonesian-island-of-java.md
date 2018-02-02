@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/13/mount-kelud-erupts-prompting-the-evacuation-of-200-000-people-on-the-indonesian-island-of-java.html)  [JSON](/news/2014/02/13/mount-kelud-erupts-prompting-the-evacuation-of-200-000-people-on-the-indonesian-island-of-java.json)  [XML](/news/2014/02/13/mount-kelud-erupts-prompting-the-evacuation-of-200-000-people-on-the-indonesian-island-of-java.xml)  
+
 ### [2014-02-13](/news/2014/02/13/index.md)
 
+##### Mount Kelud
 # Mount Kelud erupts prompting the evacuation of 200,000 people on the Indonesian island of Java. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS](http://www.sbs.com.au/news/article/2014/02/14/javas-mount-kelud-erupts)
 

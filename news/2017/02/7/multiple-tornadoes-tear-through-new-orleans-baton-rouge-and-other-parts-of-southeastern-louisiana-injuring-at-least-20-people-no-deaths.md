@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/7/multiple-tornadoes-tear-through-new-orleans-bato
 
 ### [2017-02-7](/news/2017/02/7/index.md)
 
+##### New Orleans
 # Multiple tornadoes tear through New Orleans, Baton Rouge, and other parts of southeastern Louisiana, injuring at least 20 people; no deaths have been reported. The severe weather also delivers heavy rain and hail in Mississippi and Alabama. 
 
 NEW ORLEANS (AP) — The tornadoes that struck southeastern Louisiana on Tuesday injured about 20 people, destroyed homes and businesses, flipped cars and trucks, and left about 10,000 customers without power, but no deaths…

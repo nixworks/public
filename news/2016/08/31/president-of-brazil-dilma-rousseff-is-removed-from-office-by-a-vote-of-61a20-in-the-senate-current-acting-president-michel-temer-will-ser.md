@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/31/president-of-brazil-dilma-rousseff-is-removed-f
 
 ### [2016-08-31](/news/2016/08/31/index.md)
 
+##### impeached
 # President of Brazil Dilma Rousseff is removed from office by a vote of 61-20 in the Senate. Current Acting President Michel Temer will serve out the remainder of her term, which ends January 1, 2019. 
 
 

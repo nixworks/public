@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/4/dozens-of-people-are-injured-when-panic-breaks-out-at-the-remembrance-of-the-dead-in-amsterdam-the-netherlands.html)  [JSON](/news/2010/05/4/dozens-of-people-are-injured-when-panic-breaks-out-at-the-remembrance-of-the-dead-in-amsterdam-the-netherlands.json)  [XML](/news/2010/05/4/dozens-of-people-are-injured-when-panic-breaks-out-at-the-remembrance-of-the-dead-in-amsterdam-the-netherlands.xml)  
+
 ### [2010-05-4](/news/2010/05/4/index.md)
 
+##### Remembrance of the Dead
 # Dozens of people are injured when panic breaks out at the Remembrance of the Dead in Amsterdam, the Netherlands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NOS](http://nos.nl/artikel/155117-man-verstoort-nationale-herdenking-op-dam.html)
 1. [Cover Image](http://nos.nl/bundles/nossite/img/placeholders/no_image.png?170322)

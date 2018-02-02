@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/04/4/armenia-will-recognize-the-independence-of-the-breakaway-nagorno-karabakh-republic-from-azerbaijan-if-military-actions-there-continue-accor.html)  [JSON](/news/2016/04/4/armenia-will-recognize-the-independence-of-the-breakaway-nagorno-karabakh-republic-from-azerbaijan-if-military-actions-there-continue-accor.json)  [XML](/news/2016/04/4/armenia-will-recognize-the-independence-of-the-breakaway-nagorno-karabakh-republic-from-azerbaijan-if-military-actions-there-continue-accor.xml)  
+
 ### [2016-04-4](/news/2016/04/4/index.md)
 
+##### Nagorno-Karabakh conflict
 # Armenia will recognize the independence of the breakaway Nagorno-Karabakh Republic from Azerbaijan if military actions there continue, according to Armenian President Serzh Sargsyan. Azerbaijan has resorted to an "unprecedented provocation along the entire perimeter of the contact line" with Nagorno-Karabakh, Sargsyan told a meeting with ambassadors from member states of the Organization for Security and Co-operation in Europe, referring to the latest flare-up of the conflict. 
 
 Armenia will recognise the breakaway Nagorno-Karabakh region as independent from Azerbaijan if military actions there continue and take on large scale, Armenian President Serzh Sargsyan said on Monday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/uk-nagorno-karabakh-fighting-independenc-idUKKCN0X118S)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

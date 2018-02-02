@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/04/30/protesters-in-thailand-storm-a-hospital-amid-rising-tension-between-pro-and-anti-government-factions.html)  [JSON](/news/2010/04/30/protesters-in-thailand-storm-a-hospital-amid-rising-tension-between-pro-and-anti-government-factions.json)  [XML](/news/2010/04/30/protesters-in-thailand-storm-a-hospital-amid-rising-tension-between-pro-and-anti-government-factions.xml)  
+
 ### [2010-04-30](/news/2010/04/30/index.md)
 
+##### Thailand
 # Protesters in Thailand storm a hospital amid rising tension between pro- and anti-government factions. 
 
 The hospital evacuated hundreds of its patients and shut down all but emergency services after protesters stormed the hospital searching for soldiers. 
 
 
-### Source:
+### Sources:
 
-1. [NY Times](http://www.nytimes.com/2010/05/01/world/asia/01thai.html)
+1. [NY Times](https://www.nytimes.com/2010/05/01/world/asia/01thai.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

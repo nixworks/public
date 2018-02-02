@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/8/the-reserve-bank-of-australia-raises-interest-rates-to-6-5-the-highest-level-in-australia-since-1996.html)  [JSON](/news/2007/08/8/the-reserve-bank-of-australia-raises-interest-rates-to-6-5-the-highest-level-in-australia-since-1996.json)  [XML](/news/2007/08/8/the-reserve-bank-of-australia-raises-interest-rates-to-6-5-the-highest-level-in-australia-since-1996.xml)  
+
 ### [2007-08-8](/news/2007/08/8/index.md)
 
+##### Reserve Bank of Australia
 #  The Reserve Bank of Australia raises interest rates to 6.5%, the highest level in Australia since 1996. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited and AAP](http://www.news.com.au/business/story/0,23636,22209628-462,00.html)
 
@@ -14,5 +18,5 @@
 1. [Stock markets in Asia and Australia continue to rebound after the United States Federal Reserve promises to keep interest rates near zero for two years. ](/news/2011/08/10/stock-markets-in-asia-and-australia-continue-to-rebound-after-the-united-states-federal-reserve-promises-to-keep-interest-rates-near-zero-fo.md) _Context: Australia, interest rates_
 2. [Law enforcement agencies in Victoria, Australia, the United Kingdom and Spain conduct raids in relation to allegedly corrupt behaviour by the currency subsidiary of the Reserve Bank of Australia. ](/news/2010/10/6/law-enforcement-agencies-in-victoria-australia-the-united-kingdom-and-spain-conduct-raids-in-relation-to-allegedly-corrupt-behaviour-by-th.md) _Context: Australia, Reserve Bank of Australia_
 3. [ The Reserve Bank of Australia cuts interest rates by 100 basis points to 4.25%. ](/news/2008/12/2/the-reserve-bank-of-australia-cuts-interest-rates-by-100-basis-points-to-4-25.md) _Context: Reserve Bank of Australia, interest rates_
-4. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
-5. [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md) _Context: Australia_
+4. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_
+5. [In a world's first, a drone rescues two swimmers off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-swimmers-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-t.md) _Context: Australia_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/11/fidel-castro-agrees-with-former-u-s-intelligence-agents-who-say-israel-is-planning-for-a-sudden-attack-on-iran-but-states-that-israel-won.html)  [JSON](/news/2010/08/11/fidel-castro-agrees-with-former-u-s-intelligence-agents-who-say-israel-is-planning-for-a-sudden-attack-on-iran-but-states-that-israel-won.json)  [XML](/news/2010/08/11/fidel-castro-agrees-with-former-u-s-intelligence-agents-who-say-israel-is-planning-for-a-sudden-attack-on-iran-but-states-that-israel-won.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### Fidel Castro
 # Fidel Castro agrees with former U.S. intelligence agents who say Israel is planning for a sudden attack on Iran, but states that Israel won't start the war as it would be outnumbered. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/12/c_13441469.htm)
 

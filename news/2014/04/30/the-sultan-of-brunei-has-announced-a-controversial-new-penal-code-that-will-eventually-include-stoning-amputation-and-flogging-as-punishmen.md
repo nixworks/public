@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/30/the-sultan-of-brunei-has-announced-a-controversial-new-penal-code-that-will-eventually-include-stoning-amputation-and-flogging-as-punishmen.html)  [JSON](/news/2014/04/30/the-sultan-of-brunei-has-announced-a-controversial-new-penal-code-that-will-eventually-include-stoning-amputation-and-flogging-as-punishmen.json)  [XML](/news/2014/04/30/the-sultan-of-brunei-has-announced-a-controversial-new-penal-code-that-will-eventually-include-stoning-amputation-and-flogging-as-punishmen.xml)  
+
 ### [2014-04-30](/news/2014/04/30/index.md)
 
+##### Sultan of Brunei
 # The Sultan of Brunei has announced a controversial new penal code that will eventually include stoning, amputation and flogging as punishments, as 'Phase one' of Islamic law. 
 
 Sultan launches new penal code that will eventually include stoning, amputation and flogging as punishments.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2014/04/brunei-adopts-phase-one-islamic-law-201443051454609650.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2014/4/30/201443052456523734_20.jpg)

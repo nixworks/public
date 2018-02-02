@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/15/a-home-made-bomb-explodes-near-the-headquarters-of-the-federal-district-police-in-mexico-city-one-person-is-killed-and-two-injured.html)  [JSON](/news/2008/02/15/a-home-made-bomb-explodes-near-the-headquarters-of-the-federal-district-police-in-mexico-city-one-person-is-killed-and-two-injured.json)  [XML](/news/2008/02/15/a-home-made-bomb-explodes-near-the-headquarters-of-the-federal-district-police-in-mexico-city-one-person-is-killed-and-two-injured.xml)  
+
 ### [2008-02-15](/news/2008/02/15/index.md)
 
+##### Mexico City
 #  A home-made bomb explodes near the headquarters of the Federal District Police in Mexico City. One person is killed and two injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The International Herald Tribune](http://www.iht.com/articles/ap/2008/02/15/news/Mexico-Explosion.php)
 

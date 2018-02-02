@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/6/in-continuing-legal-action-against-exxon-over-the-exxon-valdez-oil-spill-in-1989-punitive-damages-against-the-company-have-been-reduced-fro.html)  [JSON](/news/2002/12/6/in-continuing-legal-action-against-exxon-over-the-exxon-valdez-oil-spill-in-1989-punitive-damages-against-the-company-have-been-reduced-fro.json)  [XML](/news/2002/12/6/in-continuing-legal-action-against-exxon-over-the-exxon-valdez-oil-spill-in-1989-punitive-damages-against-the-company-have-been-reduced-fro.xml)  
+
 ### [2002-12-6](/news/2002/12/6/index.md)
 
+##### Exxon
 # In continuing legal action against Exxon over the Exxon Valdez oil spill in 1989, punitive damages against the company have been reduced from USD$5 billion to $4 billion. The company is expected to appeal.
 
 

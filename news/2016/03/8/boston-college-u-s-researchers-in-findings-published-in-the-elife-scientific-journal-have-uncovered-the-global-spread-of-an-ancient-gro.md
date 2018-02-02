@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/8/boston-college-u-s-researchers-in-findings-publi
 
 ### [2016-03-8](/news/2016/03/8/index.md)
 
+##### eLife scientific journal
 # Boston College (U.S.) researchers, in findings published in the eLife scientific journal, have uncovered the global spread of an ancient group of retroviruses that affected about 28 of 50 modern mammals' ancestors back as far as 30 million years ago. 
 
 Scientists have learned a bit more about the history of ancient viruses that existed 30 million years ago.

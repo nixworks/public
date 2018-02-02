@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/6/great-britain-s-young-people-are-for-the-first-time-spending-more-time-looking-at-internet-sites-than-watching-tv-a-new-survey-has-reveale.html)  [JSON](/news/2006/07/6/great-britain-s-young-people-are-for-the-first-time-spending-more-time-looking-at-internet-sites-than-watching-tv-a-new-survey-has-reveale.json)  [XML](/news/2006/07/6/great-britain-s-young-people-are-for-the-first-time-spending-more-time-looking-at-internet-sites-than-watching-tv-a-new-survey-has-reveale.xml)  
+
 ### [2006-07-6](/news/2006/07/6/index.md)
 
+##### Great Britain
 #  Great Britain's young people are for the first time spending more time looking at Internet sites than watching TV, a new survey has revealed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/pages/live/articles/news/news.html?in_article_id=394363&in_page_id=1770)
 

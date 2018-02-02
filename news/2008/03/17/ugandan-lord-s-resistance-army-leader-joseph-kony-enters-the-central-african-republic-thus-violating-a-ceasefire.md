@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/17/ugandan-lord-s-resistance-army-leader-joseph-kony-enters-the-central-african-republic-thus-violating-a-ceasefire.html)  [JSON](/news/2008/03/17/ugandan-lord-s-resistance-army-leader-joseph-kony-enters-the-central-african-republic-thus-violating-a-ceasefire.json)  [XML](/news/2008/03/17/ugandan-lord-s-resistance-army-leader-joseph-kony-enters-the-central-african-republic-thus-violating-a-ceasefire.xml)  
+
 ### [2008-03-17](/news/2008/03/17/index.md)
 
+##### Uganda
 #  Ugandan Lord's Resistance Army leader Joseph Kony enters the Central African Republic, thus violating a ceasefire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7301399.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/24/seven-members-of-bolivia-s-mennonite-christian-community-are-detained-over-the-alleged-rape-of-60-women-or-girls-from-their-own-community.html)  [JSON](/news/2009/06/24/seven-members-of-bolivia-s-mennonite-christian-community-are-detained-over-the-alleged-rape-of-60-women-or-girls-from-their-own-community.json)  [XML](/news/2009/06/24/seven-members-of-bolivia-s-mennonite-christian-community-are-detained-over-the-alleged-rape-of-60-women-or-girls-from-their-own-community.xml)  
+
 ### [2009-06-24](/news/2009/06/24/index.md)
 
+##### Bolivia
 #  Seven members of Bolivia's Mennonite Christian community are detained over the alleged rape of 60 women or girls from their own community. 
 
 Eight men from a Mennonite community in Bolivia have been arrested and accused of raping at least 60 women from their farming settlement in the eastern Santa Cruz region, a prosecutor said on Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8117905.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE55M6VH20090623?feedType=RSS&feedName=worldNews)

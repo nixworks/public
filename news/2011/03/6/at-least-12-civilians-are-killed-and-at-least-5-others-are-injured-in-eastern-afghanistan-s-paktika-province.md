@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/6/at-least-12-civilians-are-killed-and-at-least-5-others-are-injured-in-eastern-afghanistan-s-paktika-province.html)  [JSON](/news/2011/03/6/at-least-12-civilians-are-killed-and-at-least-5-others-are-injured-in-eastern-afghanistan-s-paktika-province.json)  [XML](/news/2011/03/6/at-least-12-civilians-are-killed-and-at-least-5-others-are-injured-in-eastern-afghanistan-s-paktika-province.xml)  
+
 ### [2011-03-6](/news/2011/03/6/index.md)
 
+##### Paktika Province
 # At least 12 civilians are killed and at least 5 others are injured in eastern Afghanistan's Paktika Province. 
 
 At least 12 civilians, including five children, have been killed by a roadside bomb in eastern Afghanistan.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-12659300)
 2. [RIA Novosti](http://en.rian.ru/world/20110306/162888570.html)

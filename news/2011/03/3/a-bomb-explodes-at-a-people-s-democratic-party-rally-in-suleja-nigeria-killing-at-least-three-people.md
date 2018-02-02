@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/3/a-bomb-explodes-at-a-people-s-democratic-party-rally-in-suleja-nigeria-killing-at-least-three-people.html)  [JSON](/news/2011/03/3/a-bomb-explodes-at-a-people-s-democratic-party-rally-in-suleja-nigeria-killing-at-least-three-people.json)  [XML](/news/2011/03/3/a-bomb-explodes-at-a-people-s-democratic-party-rally-in-suleja-nigeria-killing-at-least-three-people.xml)  
+
 ### [2011-03-3](/news/2011/03/3/index.md)
 
+##### People's Democratic Party
 # A bomb explodes at a People's Democratic Party rally in Suleja Nigeria killing at least three people. 
 
 A bomb explodes during a political meeting near the Nigerian capital, Abuja, leaving at least three people dead, police say.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/2011331611343895.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12639290)

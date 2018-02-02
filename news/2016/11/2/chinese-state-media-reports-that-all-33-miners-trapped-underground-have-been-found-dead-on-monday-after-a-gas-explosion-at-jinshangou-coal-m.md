@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/11/2/chinese-state-media-reports-that-all-33-miners-trapped-underground-have-been-found-dead-on-monday-after-a-gas-explosion-at-jinshangou-coal-m.html)  [JSON](/news/2016/11/2/chinese-state-media-reports-that-all-33-miners-trapped-underground-have-been-found-dead-on-monday-after-a-gas-explosion-at-jinshangou-coal-m.json)  [XML](/news/2016/11/2/chinese-state-media-reports-that-all-33-miners-trapped-underground-have-been-found-dead-on-monday-after-a-gas-explosion-at-jinshangou-coal-m.xml)  
+
 ### [2016-11-2](/news/2016/11/2/index.md)
 
+##### Chinese state media
 # Chinese state media reports that all 33 miners trapped underground have been found dead on Monday after a gas explosion at Jinshangou Coal Mine in Laisu Town of Yongchuan District in Chongqing, and preliminary investigations have been started. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_CHINA_MINE_EXPLOSION_THE_LATEST_ASOL-?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [Xinhua](http://news.xinhuanet.com/english/2016-11/02/c_135800829.htm)

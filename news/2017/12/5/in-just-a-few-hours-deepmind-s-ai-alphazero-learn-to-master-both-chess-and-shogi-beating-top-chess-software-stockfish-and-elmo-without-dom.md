@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/5/in-just-a-few-hours-deepmind-s-ai-alphazero-lear
 
 ### [2017-12-5](/news/2017/12/5/index.md)
 
+##### Reinforcement learning
 # In just a few hours, DeepMind's AI AlphaZero learn to master both chess and shogi, beating top chess software Stockfish and Elmo without domain knowledge. 
 
 While Artificial Intelligence is fascinating, incredible and all sorts of other shiny superlatives, it is also terrifying. If you’ll recall, Google’s DeepMind created an AI that bested the world’s best Go players. It’s an incredibly complex Chinese board game that takes years to master. The AI learned how to play it in just 8 hours. Now, a descendent of that AI, called AlphaZero - has beaten the world’s top chess program, Stockfish.

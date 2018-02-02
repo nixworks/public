@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/02/6/a-three-storey-factory-collapses-in-the-pakistani-city-of-lahore-after-a-gas-explosion-resulting-in-at-least-three-deaths-with-dozens-of-wor.html)  [JSON](/news/2012/02/6/a-three-storey-factory-collapses-in-the-pakistani-city-of-lahore-after-a-gas-explosion-resulting-in-at-least-three-deaths-with-dozens-of-wor.json)  [XML](/news/2012/02/6/a-three-storey-factory-collapses-in-the-pakistani-city-of-lahore-after-a-gas-explosion-resulting-in-at-least-three-deaths-with-dozens-of-wor.xml)  
+
 ### [2012-02-6](/news/2012/02/6/index.md)
 
+##### Pakistan
 # A three-storey factory collapses in the Pakistani city of Lahore after a gas explosion resulting in at least three deaths with dozens of workers trapped. 
 
 A three-storey factory collapsed on Monday in the Pakistani city of Lahore after a gas explosion, killing at least five people and trapping dozens, emergency officials said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/06/us-pakistan-factory-collapse-idUSTRE8150A820120206)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/02/06/us-pakistan-factory-collapse-idUSTRE8150A820120206)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

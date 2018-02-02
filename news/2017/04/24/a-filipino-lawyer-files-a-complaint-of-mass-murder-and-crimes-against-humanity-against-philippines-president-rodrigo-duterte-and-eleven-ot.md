@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/24/a-filipino-lawyer-files-a-complaint-of-mass-mur
 
 ### [2017-04-24](/news/2017/04/24/index.md)
 
+##### drug crackdown
 # A Filipino lawyer files a complaint of "mass murder and crimes against humanity" against Philippines president Rodrigo Duterte and eleven other officials at the International Criminal Court in The Hague, Netherlands. 
 
 

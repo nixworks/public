@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/14/the-israeli-knesset-passes-the-bishara-bill-a-law-allowing-the-house-committee-to-cut-off-the-pensions-of-knesset-members-evading-investi.html)  [JSON](/news/2011/02/14/the-israeli-knesset-passes-the-bishara-bill-a-law-allowing-the-house-committee-to-cut-off-the-pensions-of-knesset-members-evading-investi.json)  [XML](/news/2011/02/14/the-israeli-knesset-passes-the-bishara-bill-a-law-allowing-the-house-committee-to-cut-off-the-pensions-of-knesset-members-evading-investi.xml)  
+
 ### [2011-02-14](/news/2011/02/14/index.md)
 
+##### Israel
 # The Israeli Knesset passes the "Bishara Bill", a law allowing the House Committee to cut off the pensions of Knesset members evading investigation or trial, by a vote of 36 to 11. 
 
 Bill meant to deny pension payments from MK who fled Israel after being suspected of aiding Hezbollah passes final readings by 36-11 vote. MK Barakeh: Legislation fueled by &#39;dark urges of lowly politicians&#39;
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4028624,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

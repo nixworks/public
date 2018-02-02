@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/19/in-the-largest-ever-settlement-with-the-u-s-government-banking-giant-jpmorgan-chase-agrees-to-pay-13-billion-and-admits-to-making-serious.html)  [JSON](/news/2013/11/19/in-the-largest-ever-settlement-with-the-u-s-government-banking-giant-jpmorgan-chase-agrees-to-pay-13-billion-and-admits-to-making-serious.json)  [XML](/news/2013/11/19/in-the-largest-ever-settlement-with-the-u-s-government-banking-giant-jpmorgan-chase-agrees-to-pay-13-billion-and-admits-to-making-serious.xml)  
+
 ### [2013-11-19](/news/2013/11/19/index.md)
 
+##### JPMorgan Chase
 # In the largest-ever settlement with the U.S. government, banking giant JPMorgan Chase agrees to pay $13 billion and admits to making serious misrepresentations over mortgage-backed securities. 
 
 JPMorgan Tuesday reached a record $13 billion settlement with the U.S. government related to misconduct in the mortgage market before the 2008 financial crisis. 
 
 
-### Source:
+### Sources:
 
 1. [FOX Business](http://www.foxbusiness.com/industries/2013/11/19/jpm-settlement/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-business/features/2013/11/19/jpm-settlement/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1453791106806.jpg?ve=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/5/president-of-senegal-abdoulaye-wade-dismisses-his-energy-minister-samuel-sarr-following-a-week-of-protests-over-frequent-power-cuts-and-re.html)  [JSON](/news/2010/10/5/president-of-senegal-abdoulaye-wade-dismisses-his-energy-minister-samuel-sarr-following-a-week-of-protests-over-frequent-power-cuts-and-re.json)  [XML](/news/2010/10/5/president-of-senegal-abdoulaye-wade-dismisses-his-energy-minister-samuel-sarr-following-a-week-of-protests-over-frequent-power-cuts-and-re.xml)  
+
 ### [2010-10-5](/news/2010/10/5/index.md)
 
+##### President
 # President of Senegal Abdoulaye Wade dismisses his energy minister Samuel Sarr, following a week of protests over frequent power cuts, and replaces him with Wade's own son. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11475481)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

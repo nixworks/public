@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/23/tens-of-thousands-of-ulster-bank-customers-continue-to-struggle-to-access-their-cash-after-days-of-problems.html)  [JSON](/news/2012/06/23/tens-of-thousands-of-ulster-bank-customers-continue-to-struggle-to-access-their-cash-after-days-of-problems.json)  [XML](/news/2012/06/23/tens-of-thousands-of-ulster-bank-customers-continue-to-struggle-to-access-their-cash-after-days-of-problems.xml)  
+
 ### [2012-06-23](/news/2012/06/23/index.md)
 
+##### Ulster Bank
 # Tens of thousands of Ulster Bank customers continue to struggle to access their cash after days of problems. 
 
 THE Central Bank may next week decide to launch a full-scale probe into the IT meltdown that has affected more than 100,000 Ulster bank customers, the Herald has learned.
 
 
-### Source:
+### Sources:
 
 1. [Evening Herald](http://www.herald.ie/news/ulster-bank-faces-probe-as-100000-are-left-without-cash-3147299.html)
 2. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/central-bank-closely-monitoring-ulster-payments-situation-556320.html)

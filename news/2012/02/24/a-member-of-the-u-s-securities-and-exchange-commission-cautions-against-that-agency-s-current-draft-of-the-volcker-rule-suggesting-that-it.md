@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/02/24/a-member-of-the-u-s-securities-and-exchange-commission-cautions-against-that-agency-s-current-draft-of-the-volcker-rule-suggesting-that-it.html)  [JSON](/news/2012/02/24/a-member-of-the-u-s-securities-and-exchange-commission-cautions-against-that-agency-s-current-draft-of-the-volcker-rule-suggesting-that-it.json)  [XML](/news/2012/02/24/a-member-of-the-u-s-securities-and-exchange-commission-cautions-against-that-agency-s-current-draft-of-the-volcker-rule-suggesting-that-it.xml)  
+
 ### [2012-02-24](/news/2012/02/24/index.md)
 
+##### Securities and Exchange Commission
 # A member of the U.S. Securities and Exchange Commission cautions against that agency's current draft of the Volcker rule, suggesting that it will have to scrap the rule as it stands and start over. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/24/us-sec-volcker-idUSTRE81N1LA20120224)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/02/24/us-sec-volcker-idUSTRE81N1LA20120224)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

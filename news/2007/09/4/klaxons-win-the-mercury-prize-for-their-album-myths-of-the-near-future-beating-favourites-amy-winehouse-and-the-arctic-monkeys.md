@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/4/klaxons-win-the-mercury-prize-for-their-album-myths-of-the-near-future-beating-favourites-amy-winehouse-and-the-arctic-monkeys.html)  [JSON](/news/2007/09/4/klaxons-win-the-mercury-prize-for-their-album-myths-of-the-near-future-beating-favourites-amy-winehouse-and-the-arctic-monkeys.json)  [XML](/news/2007/09/4/klaxons-win-the-mercury-prize-for-their-album-myths-of-the-near-future-beating-favourites-amy-winehouse-and-the-arctic-monkeys.xml)  
+
 ### [2007-09-4](/news/2007/09/4/index.md)
 
+##### Klaxons
 #  Klaxons win the Mercury Prize for their album "Myths of the Near Future" beating favourites Amy Winehouse and the Arctic Monkeys. 
 
 London band The Klaxons were the surprise winners of this year&#039;s Mercury Prize.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/05/2024440.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/661066-1x1-700x700.jpg)

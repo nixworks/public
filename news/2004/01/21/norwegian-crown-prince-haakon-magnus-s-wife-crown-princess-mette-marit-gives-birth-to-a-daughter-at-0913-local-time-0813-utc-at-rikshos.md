@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/21/norwegian-crown-prince-haakon-magnus-s-wife-crown-princess-mette-marit-gives-birth-to-a-daughter-at-0913-local-time-0813-utc-at-rikshos.html)  [JSON](/news/2004/01/21/norwegian-crown-prince-haakon-magnus-s-wife-crown-princess-mette-marit-gives-birth-to-a-daughter-at-0913-local-time-0813-utc-at-rikshos.json)  [XML](/news/2004/01/21/norwegian-crown-prince-haakon-magnus-s-wife-crown-princess-mette-marit-gives-birth-to-a-daughter-at-0913-local-time-0813-utc-at-rikshos.xml)  
+
 ### [2004-01-21](/news/2004/01/21/index.md)
 
+##### Crown Prince Haakon Magnus
 #  Norwegian Crown Prince Haakon Magnus's wife Crown Princess Mette-Marit gives birth to a daughter, at 0913 local time (0813 UTC), at Rikshospitalet University Hospital in Oslo. The newborn princess, named Ingrid Alexandra, weighs in at 3,686 grams and is 51&nbsp;cm tall. She is second in succession to the Norwegian throne.
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/02/2/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-wins-the-maine-republican-caucus.html)  [JSON](/news/2008/02/2/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-wins-the-maine-republican-caucus.json)  [XML](/news/2008/02/2/united-states-presidential-election-2008-former-governor-of-massachusetts-mitt-romney-wins-the-maine-republican-caucus.xml)  
+
 ### [2008-02-2](/news/2008/02/2/index.md)
 
+##### 2008
 #  United States presidential election, 2008: Former Governor of Massachusetts Mitt Romney wins the Maine Republican caucus. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg News](http://www.bloomberg.com/apps/news?pid=20601087&sid=aoNTi98Ar0TM&refer=home)
+1. [Bloomberg News](https://www.bloomberg.com/apps/news?pid=20601087&sid=aoNTi98Ar0TM&refer=home)
 
 ### Related:
 

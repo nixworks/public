@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/2/in-zimbabwe-opposition-leader-morgan-tsvangirai-is-first-arrested-then-released-this-coincides-with-the-start-of-a-week-of-protests-agai.html)  [JSON](/news/2003/06/2/in-zimbabwe-opposition-leader-morgan-tsvangirai-is-first-arrested-then-released-this-coincides-with-the-start-of-a-week-of-protests-agai.json)  [XML](/news/2003/06/2/in-zimbabwe-opposition-leader-morgan-tsvangirai-is-first-arrested-then-released-this-coincides-with-the-start-of-a-week-of-protests-agai.xml)  
+
 ### [2003-06-2](/news/2003/06/2/index.md)
 
+##### Zimbabwe
 #  In Zimbabwe, opposition leader Morgan Tsvangirai is first arrested, then released. This coincides with the start of a week of protests against the government, who have put Tsvangirai on trial for treason. He is due to appear in court later today.
 
 

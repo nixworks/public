@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/30/former-agricultural-bank-of-china-chief-executi
 
 ### [2016-10-30](/news/2016/10/30/index.md)
 
+##### Agricultural Bank of China
 # Former Agricultural Bank of China chief executive Jiang Chaoliang is appointed Communist Party Secretary of Hubei province, filling the vacancy left by Li Hongzhong. 
 
 

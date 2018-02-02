@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/23/2010-strikes-in-france-french-unions-challenge-a-back-to-work-order-in-court-one-day-after-the-senate-voted-in-favour-of-increasing-their.html)  [JSON](/news/2010/10/23/2010-strikes-in-france-french-unions-challenge-a-back-to-work-order-in-court-one-day-after-the-senate-voted-in-favour-of-increasing-their.json)  [XML](/news/2010/10/23/2010-strikes-in-france-french-unions-challenge-a-back-to-work-order-in-court-one-day-after-the-senate-voted-in-favour-of-increasing-their.xml)  
+
 ### [2010-10-23](/news/2010/10/23/index.md)
 
+##### recent strikes and demonstrations
 # 2010 strikes in France: French unions challenge a back-to-work order in court, one day after the senate voted in favour of increasing their retirement age. 
 
 Strikers contest a government back-to-work order in court, a day after senate passes controversial pension reforms.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/10/2010102314153220733.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/23/2010102314575783112_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/6/eight-people-are-killed-and-10-wounded-in-kano-in-the-latest-in-a-series-of-attacks-on-church-in-northern-nigeria.html)  [JSON](/news/2012/01/6/eight-people-are-killed-and-10-wounded-in-kano-in-the-latest-in-a-series-of-attacks-on-church-in-northern-nigeria.json)  [XML](/news/2012/01/6/eight-people-are-killed-and-10-wounded-in-kano-in-the-latest-in-a-series-of-attacks-on-church-in-northern-nigeria.xml)  
+
 ### [2012-01-6](/news/2012/01/6/index.md)
 
+##### Kano
 # Eight people are killed and 10 wounded in Kano, in the latest in a series of attacks on church in northern Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/01/06/world/africa/nigeria-violence/?hpt=hp_t2)
 2. [VOA](http://www.voanews.com/english/news/Gunmen-Kill-6-in-Nigerian-Church-Attack-136799493.html)

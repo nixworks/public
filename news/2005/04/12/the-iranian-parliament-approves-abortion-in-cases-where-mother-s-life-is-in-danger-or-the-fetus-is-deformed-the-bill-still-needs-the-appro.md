@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/12/the-iranian-parliament-approves-abortion-in-cases-where-mother-s-life-is-in-danger-or-the-fetus-is-deformed-the-bill-still-needs-the-appro.html)  [JSON](/news/2005/04/12/the-iranian-parliament-approves-abortion-in-cases-where-mother-s-life-is-in-danger-or-the-fetus-is-deformed-the-bill-still-needs-the-appro.json)  [XML](/news/2005/04/12/the-iranian-parliament-approves-abortion-in-cases-where-mother-s-life-is-in-danger-or-the-fetus-is-deformed-the-bill-still-needs-the-appro.xml)  
+
 ### [2005-04-12](/news/2005/04/12/index.md)
 
+##### Iran
 #  The Iranian parliament approves abortion in cases where mother's life is in danger or the fetus is deformed. The bill still needs the approval of the Guardian Council. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Middle East Online](http://www.middle-east-online.com/english/?id=13201)
 2. [Persian Journal](http://www.iranian.ws/iran_news/publish/article_6334.shtml)

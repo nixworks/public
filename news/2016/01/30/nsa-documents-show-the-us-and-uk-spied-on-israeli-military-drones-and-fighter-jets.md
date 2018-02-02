@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/30/nsa-documents-show-the-us-and-uk-spied-on-israe
 
 ### [2016-01-30](/news/2016/01/30/index.md)
 
+##### Global surveillance disclosures (2013-present)
 # NSA documents show the US and UK spied on Israeli military drones and fighter jets. 
 
 Newly released documents from Edward Snowden show that the NSA and GCHQ coordinated to hack into, decrypt, and track live video feeds of Israeli drones and fighter jets. The documents, published by...

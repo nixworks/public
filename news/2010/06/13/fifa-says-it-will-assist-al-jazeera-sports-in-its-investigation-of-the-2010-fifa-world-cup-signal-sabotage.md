@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/13/fifa-says-it-will-assist-al-jazeera-sports-in-its-investigation-of-the-2010-fifa-world-cup-signal-sabotage.html)  [JSON](/news/2010/06/13/fifa-says-it-will-assist-al-jazeera-sports-in-its-investigation-of-the-2010-fifa-world-cup-signal-sabotage.json)  [XML](/news/2010/06/13/fifa-says-it-will-assist-al-jazeera-sports-in-its-investigation-of-the-2010-fifa-world-cup-signal-sabotage.xml)  
+
 ### [2010-06-13](/news/2010/06/13/index.md)
 
+##### FIFA
 # FIFA says it will assist Al Jazeera Sports in its investigation of the 2010 FIFA World Cup signal sabotage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business Week](http://www.businessweek.com/news/2010-06-13/fifa-to-help-al-jazeera-probe-world-cup-sabotage-update1-.html)
 2. [Hindustan Times](http://www.hindustantimes.com/FIFA-vows-to-help-al-Jazeera-stop-WC-black-outs/Article1-557137.aspx)

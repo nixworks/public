@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/10/the-european-broadcasting-union-announces-that-australia-will-participate-in-the-eurovision-song-contest-for-the-first-time-in-vienna-2015.html)  [JSON](/news/2015/02/10/the-european-broadcasting-union-announces-that-australia-will-participate-in-the-eurovision-song-contest-for-the-first-time-in-vienna-2015.json)  [XML](/news/2015/02/10/the-european-broadcasting-union-announces-that-australia-will-participate-in-the-eurovision-song-contest-for-the-first-time-in-vienna-2015.xml)  
+
 ### [2015-02-10](/news/2015/02/10/index.md)
 
+##### European Broadcasting Union
 # The European Broadcasting Union announces that Australia will participate in the Eurovision Song Contest for the first time in Vienna 2015; it will be the first country ever outside of the European Broadcasting Area, as well as the first associated member of the EBU, to participate 
 
 Australia will participate in Eurovision 2015! Read all the latest news about Eurovision only at ESCToday.com!
 
 
-### Source:
+### Sources:
 
 1. [ESC Today](http://esctoday.com/95485/eurovision-2015-australia-joins-eurovision-vienna/)
 2. [Eurovision.tv](http://www.eurovision.tv/page/news?id=australia_to_participate_in_the_2015_eurovision_song_contest)

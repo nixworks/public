@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/16/houthi-shelling-kills-seven-in-saudi-arabia-nin
 
 ### [2016-08-16](/news/2016/08/16/index.md)
 
+##### Houthi
 # Houthi shelling kills seven in Saudi Arabia; nine Yemenis from one family die from an airstrike by the Saudi-led alliance. 
 
 

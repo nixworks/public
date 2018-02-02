@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/25/the-prime-minister-of-jamaica-bruce-golding-announces-plans-to-step-down-as-soon-as-the-jamaica-labour-party-announces-its-new-leader-in-dec.html)  [JSON](/news/2011/09/25/the-prime-minister-of-jamaica-bruce-golding-announces-plans-to-step-down-as-soon-as-the-jamaica-labour-party-announces-its-new-leader-in-dec.json)  [XML](/news/2011/09/25/the-prime-minister-of-jamaica-bruce-golding-announces-plans-to-step-down-as-soon-as-the-jamaica-labour-party-announces-its-new-leader-in-dec.xml)  
+
 ### [2011-09-25](/news/2011/09/25/index.md)
 
+##### Prime Minister of Jamaica
 # The Prime Minister of Jamaica Bruce Golding announces plans to step down as soon as the Jamaica Labour Party announces its new leader in December. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Go Jamaica](http://go-jamaica.com/news/read_article.php?id=32148)
 

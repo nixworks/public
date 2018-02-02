@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/24/2006-dahab-bombings-witnesses-reporting-hearing-three-explosions-in-the-egyptian-sinai-resort-town-of-dahab-at-about-1715-utc-dr-said-es.html)  [JSON](/news/2006/04/24/2006-dahab-bombings-witnesses-reporting-hearing-three-explosions-in-the-egyptian-sinai-resort-town-of-dahab-at-about-1715-utc-dr-said-es.json)  [XML](/news/2006/04/24/2006-dahab-bombings-witnesses-reporting-hearing-three-explosions-in-the-egyptian-sinai-resort-town-of-dahab-at-about-1715-utc-dr-said-es.xml)  
+
 ### [2006-04-24](/news/2006/04/24/index.md)
 
+##### 2006 Dahab bombings
 #  2006 Dahab bombings: Witnesses reporting hearing three explosions in the Egyptian Sinai resort town of Dahab at about 1715 UTC. Dr. Said Essa, who runs the Sinai Peninsula rescue squad, estimates there were at least 100 dead or wounded. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060424/egypt_blasts_060424/20060424?hub=TopStories)
 

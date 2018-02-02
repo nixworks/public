@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/5/president-elect-donald-trump-nominates-ben-carso
 
 ### [2016-12-5](/news/2016/12/5/index.md)
 
+##### Presidential transition of Donald Trump
 # President-elect Donald Trump nominates Ben Carson for United States Secretary of Housing and Urban Development. 
 
 President-elect’s former rival for Republican presidential nomination says he can help in ‘making our inner cities great for everyone’

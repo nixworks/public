@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/28/christine-lagarde-france-s-finance-minister-since-2007-is-named-the-new-head-the-international-monetary-fund-imf-following-the-resignati.html)  [JSON](/news/2011/06/28/christine-lagarde-france-s-finance-minister-since-2007-is-named-the-new-head-the-international-monetary-fund-imf-following-the-resignati.json)  [XML](/news/2011/06/28/christine-lagarde-france-s-finance-minister-since-2007-is-named-the-new-head-the-international-monetary-fund-imf-following-the-resignati.xml)  
+
 ### [2011-06-28](/news/2011/06/28/index.md)
 
+##### Christine Lagarde
 # Christine Lagarde, France's finance minister since 2007, is named the new head the International Monetary Fund (IMF) following the resignation of Dominique Strauss-Kahn. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/06/2011628134821354329.html)
 2. [BBC](http://www.bbc.co.uk/news/business-13951950)

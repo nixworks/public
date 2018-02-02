@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/09/23/global-stock-markets-fall-for-a-second-day-amid-fears-of-a-deepening-economic-crisis.html)  [JSON](/news/2011/09/23/global-stock-markets-fall-for-a-second-day-amid-fears-of-a-deepening-economic-crisis.json)  [XML](/news/2011/09/23/global-stock-markets-fall-for-a-second-day-amid-fears-of-a-deepening-economic-crisis.xml)  
+
 ### [2011-09-23](/news/2011/09/23/index.md)
 
+##### stock market
 # Global stock markets fall for a second day amid fears of a deepening economic crisis. 
 
 The sharemarket took investors on another roller-coaster ride today, but in the end stocks closed 1.5 per cent lower, falling to a fresh 26-month low and wiping another $18 billion off the market&#039;s value. Here&#039;s how the day played out in Australia.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/2011-09-23/asian-stocks-drop-as-global-equities-enter-bear-market-euro-oil-rebound.html)
-2. [CNBC](http://www.cnbc.com/id/44632796)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-09-23/asian-stocks-drop-as-global-equities-enter-bear-market-euro-oil-rebound.html)
+2. [CNBC](https://www.cnbc.com/id/44632796)
 3. [Sky News](http://news.sky.com/home/business/article/16075478)
 4. [Sydney Morning Herald](http://www.smh.com.au/business/markets/live-blog-asx-braces-as-world-markets-slump-20110923-1knx4.html)
 4. [Cover Image](http://www.smh.com.au/content/dam/images/1/k/n/y/c/image.related.thumbnail.320x214.1knx4.png/1329051000963.jpg)

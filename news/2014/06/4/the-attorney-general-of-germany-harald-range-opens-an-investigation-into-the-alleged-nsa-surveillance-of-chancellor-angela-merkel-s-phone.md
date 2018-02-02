@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/4/the-attorney-general-of-germany-harald-range-opens-an-investigation-into-the-alleged-nsa-surveillance-of-chancellor-angela-merkel-s-phone.html)  [JSON](/news/2014/06/4/the-attorney-general-of-germany-harald-range-opens-an-investigation-into-the-alleged-nsa-surveillance-of-chancellor-angela-merkel-s-phone.json)  [XML](/news/2014/06/4/the-attorney-general-of-germany-harald-range-opens-an-investigation-into-the-alleged-nsa-surveillance-of-chancellor-angela-merkel-s-phone.xml)  
+
 ### [2014-06-4](/news/2014/06/4/index.md)
 
+##### Attorney General of Germany
 # The Attorney General of Germany, Harald Range, opens an investigation into the alleged NSA surveillance of Chancellor Angela Merkel's phone. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27695634)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/75299000/jpg/_75299610_75299609.jpg)

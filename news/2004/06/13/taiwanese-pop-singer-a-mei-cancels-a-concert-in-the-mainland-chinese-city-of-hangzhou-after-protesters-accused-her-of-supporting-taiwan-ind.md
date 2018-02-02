@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/13/taiwanese-pop-singer-a-mei-cancels-a-concert-in-the-mainland-chinese-city-of-hangzhou-after-protesters-accused-her-of-supporting-taiwan-ind.html)  [JSON](/news/2004/06/13/taiwanese-pop-singer-a-mei-cancels-a-concert-in-the-mainland-chinese-city-of-hangzhou-after-protesters-accused-her-of-supporting-taiwan-ind.json)  [XML](/news/2004/06/13/taiwanese-pop-singer-a-mei-cancels-a-concert-in-the-mainland-chinese-city-of-hangzhou-after-protesters-accused-her-of-supporting-taiwan-ind.xml)  
+
 ### [2004-06-13](/news/2004/06/13/index.md)
 
+##### Taiwan
 #  Taiwanese pop singer A-Mei cancels a concert in the mainland Chinese city of Hangzhou after protesters accused her of supporting Taiwan independence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3802859.stm)
 

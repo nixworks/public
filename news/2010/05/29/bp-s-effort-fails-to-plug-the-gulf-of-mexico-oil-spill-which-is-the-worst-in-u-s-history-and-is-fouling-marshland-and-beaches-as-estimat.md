@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/05/29/bp-s-effort-fails-to-plug-the-gulf-of-mexico-oil-spill-which-is-the-worst-in-u-s-history-and-is-fouling-marshland-and-beaches-as-estimat.html)  [JSON](/news/2010/05/29/bp-s-effort-fails-to-plug-the-gulf-of-mexico-oil-spill-which-is-the-worst-in-u-s-history-and-is-fouling-marshland-and-beaches-as-estimat.json)  [XML](/news/2010/05/29/bp-s-effort-fails-to-plug-the-gulf-of-mexico-oil-spill-which-is-the-worst-in-u-s-history-and-is-fouling-marshland-and-beaches-as-estimat.xml)  
+
 ### [2010-05-29](/news/2010/05/29/index.md)
 
+##### BP
 # BP's effort fails to plug the Gulf of Mexico oil spill, which is the worst in U.S. history, and is fouling marshland and beaches, as estimates of how much oil is leaking grow more dire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gIXWYBTpLtSayJtg41LKXpxSxVPAD9G0SRFO0)
-2. [USA Today](http://www.usatoday.com/news/nation/2010-05-29-gulf-oil-spill_N.htm?csp=34news)
+2. [USA Today](https://www.usatoday.com/news/nation/2010-05-29-gulf-oil-spill_N.htm?csp=34news)
 
 ### Related:
 

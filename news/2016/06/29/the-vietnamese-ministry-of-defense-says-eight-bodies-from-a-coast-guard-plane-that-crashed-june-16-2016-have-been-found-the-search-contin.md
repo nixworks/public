@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/29/the-vietnamese-ministry-of-defense-says-eight-b
 
 ### [2016-06-29](/news/2016/06/29/index.md)
 
+##### Vietnamese Ministry of Defense
 # The Vietnamese Ministry of Defense says eight bodies from a Coast Guard plane that crashed June 16, 2016, have been found. The search continues for the ninth crew member. The CASA C-212 Aviocar was on a search and rescue mission for the then-missing pilot of a crashed Su30-MK2 fighter jet; the pilot's body was found on the 17th. 
 
 

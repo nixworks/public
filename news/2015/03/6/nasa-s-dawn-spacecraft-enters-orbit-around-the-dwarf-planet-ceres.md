@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/6/nasa-s-dawn-spacecraft-enters-orbit-around-the-dwarf-planet-ceres.html)  [JSON](/news/2015/03/6/nasa-s-dawn-spacecraft-enters-orbit-around-the-dwarf-planet-ceres.json)  [XML](/news/2015/03/6/nasa-s-dawn-spacecraft-enters-orbit-around-the-dwarf-planet-ceres.xml)  
+
 ### [2015-03-6](/news/2015/03/6/index.md)
 
+##### NASA
 # NASA's "Dawn" spacecraft enters orbit around the dwarf planet Ceres. 
 
 NASA&#039;s Dawn spacecraft has become the first mission to achieve orbit around a dwarf planet.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/34b5bf4679324ea39140b686f272503b/nasas-dawn-spacecraft-moves-dwarf-planet-ceres)
 2. [AP](http://bigstory.ap.org/article/f406818ffc2344cbab2db0b2c83cc2a6/nasas-dawn-spacecraft-moves-dwarf-planet-ceres)
@@ -18,4 +22,4 @@ NASA&#039;s Dawn spacecraft has become the first mission to achieve orbit around
 2. [ The spacecraft "Dawn" is launched by NASA on a mission to explore mainbelt asteroids Vesta and Ceres. ](/news/2007/09/27/the-spacecraft-dawn-is-launched-by-nasa-on-a-mission-to-explore-mainbelt-asteroids-vesta-and-ceres.md) _Context: ''Dawn'' spacecraft, Ceres, NASA_
 3. [NASA's "New Horizons" spacecraft completes a historic flyby of the dwarf planet Pluto and its five moons. Measurements, along with many high-quality photos and reams of data, were taken, including conclusive information regarding the diameter of Pluto and its moons.](/news/2015/07/14/nasa-s-new-horizons-spacecraft-completes-a-historic-flyby-of-the-dwarf-planet-pluto-and-its-five-moons-measurements-along-with-many-high.md) _Context: NASA, dwarf planet_
 4. [NASA's New Horizons spacecraft reawakens at 20:00&nbsp;UTC in preparation for observing the dwarf planet Pluto and its satellites. New Horizons, launched on January 19, 2006, will begin distant observations on January 15, 2015, culminating with its July 14, 2015 closest approach flyby. ](/news/2014/12/6/nasa-s-new-horizons-spacecraft-reawakens-at-20-00-nbsp-utc-in-preparation-for-observing-the-dwarf-planet-pluto-and-its-satellites-new-horiz.md) _Context: NASA, dwarf planet_
-5. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: NASA_
+5. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: NASA_

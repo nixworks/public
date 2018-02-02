@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/9/pakistan-s-two-main-coalition-leaders-asif-ali-zardari-and-nawaz-sharif-meet-in-london-to-discuss-the-removal-of-judges-by-musharraf.html)  [JSON](/news/2008/05/9/pakistan-s-two-main-coalition-leaders-asif-ali-zardari-and-nawaz-sharif-meet-in-london-to-discuss-the-removal-of-judges-by-musharraf.json)  [XML](/news/2008/05/9/pakistan-s-two-main-coalition-leaders-asif-ali-zardari-and-nawaz-sharif-meet-in-london-to-discuss-the-removal-of-judges-by-musharraf.xml)  
+
 ### [2008-05-9](/news/2008/05/9/index.md)
 
+##### Pakistan
 #  Pakistan's two main coalition leaders, Asif Ali Zardari and Nawaz Sharif meet in London to discuss the removal of judges by Musharraf 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://www.cnn.com/2008/WORLD/asiapcf/05/11/pakistan.judges.ap/index.html)
 

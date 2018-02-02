@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/24/israeli-prime-minister-benjamin-netanyahu-decides-to-make-legal-under-israeli-law-three-settlement-outposts-in-the-occupied-west-bank-to-f.html)  [JSON](/news/2012/04/24/israeli-prime-minister-benjamin-netanyahu-decides-to-make-legal-under-israeli-law-three-settlement-outposts-in-the-occupied-west-bank-to-f.json)  [XML](/news/2012/04/24/israeli-prime-minister-benjamin-netanyahu-decides-to-make-legal-under-israeli-law-three-settlement-outposts-in-the-occupied-west-bank-to-f.xml)  
+
 ### [2012-04-24](/news/2012/04/24/index.md)
 
+##### Israel
 # Israeli prime minister Benjamin Netanyahu decides to make legal under Israeli law three settlement outposts in the occupied West Bank, to "formalise the status" of Bruchin and Rechelim, in the north, and Sansana, near Hebron in the south. The Palestinian Authority criticises the decision. 
 
 Israel decides to make legal under Israeli law three settlement outposts in the occupied West Bank, drawing Palestinian condemnation.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201242484751503415.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-17824007)

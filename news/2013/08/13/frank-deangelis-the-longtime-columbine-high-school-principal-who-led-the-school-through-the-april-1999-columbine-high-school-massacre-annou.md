@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/13/frank-deangelis-the-longtime-columbine-high-school-principal-who-led-the-school-through-the-april-1999-columbine-high-school-massacre-annou.html)  [JSON](/news/2013/08/13/frank-deangelis-the-longtime-columbine-high-school-principal-who-led-the-school-through-the-april-1999-columbine-high-school-massacre-annou.json)  [XML](/news/2013/08/13/frank-deangelis-the-longtime-columbine-high-school-principal-who-led-the-school-through-the-april-1999-columbine-high-school-massacre-annou.xml)  
+
 ### [2013-08-13](/news/2013/08/13/index.md)
 
+##### Frank DeAngelis
 # Frank DeAngelis, the longtime Columbine High School principal who led the school through the April 1999 Columbine High School massacre announces he will retire at the end of the 2013-14 school year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://news.msn.com/us/columbine-high-school-principal-retiring)
 

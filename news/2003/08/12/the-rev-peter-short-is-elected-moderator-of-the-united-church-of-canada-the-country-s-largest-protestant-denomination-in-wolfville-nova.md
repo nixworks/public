@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/12/the-rev-peter-short-is-elected-moderator-of-the-united-church-of-canada-the-country-s-largest-protestant-denomination-in-wolfville-nova.html)  [JSON](/news/2003/08/12/the-rev-peter-short-is-elected-moderator-of-the-united-church-of-canada-the-country-s-largest-protestant-denomination-in-wolfville-nova.json)  [XML](/news/2003/08/12/the-rev-peter-short-is-elected-moderator-of-the-united-church-of-canada-the-country-s-largest-protestant-denomination-in-wolfville-nova.xml)  
+
 ### [2003-08-12](/news/2003/08/12/index.md)
 
+##### Peter Short
 #  The Rev. Peter Short is elected Moderator of the United Church of Canada, the country's largest Protestant denomination, in Wolfville, Nova Scotia.
 
 

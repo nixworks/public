@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/5/a-bus-in-ivory-coast-plunges-into-the-capital-abidjan-s-lagoon-killing-12-people.html)  [JSON](/news/2011/08/5/a-bus-in-ivory-coast-plunges-into-the-capital-abidjan-s-lagoon-killing-12-people.json)  [XML](/news/2011/08/5/a-bus-in-ivory-coast-plunges-into-the-capital-abidjan-s-lagoon-killing-12-people.xml)  
+
 ### [2011-08-5](/news/2011/08/5/index.md)
 
+##### Ivory Coast
 # A bus in Ivory Coast plunges into the capital Abidjan's lagoon, killing 12 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE77409520110805)
 

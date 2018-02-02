@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2012/05/28/the-father-of-a-victim-of-the-1989-tiananmen-square-protests-commits-suicide-in-beijing-after-failing-attempts-for-government-redress.html)  [JSON](/news/2012/05/28/the-father-of-a-victim-of-the-1989-tiananmen-square-protests-commits-suicide-in-beijing-after-failing-attempts-for-government-redress.json)  [XML](/news/2012/05/28/the-father-of-a-victim-of-the-1989-tiananmen-square-protests-commits-suicide-in-beijing-after-failing-attempts-for-government-redress.xml)  
+
 ### [2012-05-28](/news/2012/05/28/index.md)
 
+##### 1989 Tiananmen Square protests
 # The father of a victim of the 1989 Tiananmen Square protests commits suicide in Beijing after failing attempts for government redress. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/asia_pacific/chinese-father-of-tiananmen-crackdown-victim-kills-self-after-2-decades-of-seeking-redress/2012/05/27/gJQAxAfXvU_story.html)
+1. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/chinese-father-of-tiananmen-crackdown-victim-kills-self-after-2-decades-of-seeking-redress/2012/05/27/gJQAxAfXvU_story.html)
 
 ### Related:
 
 1. [Chen Xitong former mayor of Beijing apologises for deaths during the 1989 Tiananmen Square protests, adding that they could have been avoided, in a book released in Hong Kong this week. ](/news/2012/05/29/chen-xitong-former-mayor-of-beijing-apologises-for-deaths-during-the-1989-tiananmen-square-protests-adding-that-they-could-have-been-avoide.md) _Context: 1989 Tiananmen Square protests, Beijing_
-2. [A stalemate between China and India leads to fears that the ongoing stand-off over Doklam in the Himalayas, disputed by Bhutan, may continue into the winter. It comes after rumors that Indian National Security Adviser Ajit Doval may travel to Beijing later this month. "[http:--economictimes.indiatimes.com-news-defence-beijing-wont-have-formal-talks-with-india-stand-off-may-continue-till-winter-chinese-expert-articleshow-59615025.cms (Economic Times)]"](/news/2017/07/16/a-stalemate-between-china-and-india-leads-to-fears-that-the-ongoing-stand-off-over-doklam-in-the-himalayas-disputed-by-bhutan-may-continue.md) _Context: Beijing_
-3. [Following the death of 22-year-old U.S. student Otto Warmbier, touring firm Young Pioneer Tours, who arranged Otto's visit to North Korea, say they will no longer be taking U.S. citizens to North Korea as the "risk is too high". Beijing-based Koryo Tours say they are reviewing their positions on taking U.S. citizens to the country. ](/news/2017/06/20/following-the-death-of-22-year-old-u-s-student-otto-warmbier-touring-firm-young-pioneer-tours-who-arranged-otto-s-visit-to-north-korea-s.md) _Context: Beijing_
-4. [The Government of China begins a two-day summit in Beijing, in an attempt to raise international support for its Belt and Road Initiative. ](/news/2017/05/14/the-government-of-china-begins-a-two-day-summit-in-beijing-in-an-attempt-to-raise-international-support-for-its-belt-and-road-initiative.md) _Context: Beijing_
-5. [Prime Minister of Norway Erna Solberg meets with Premier of the People's Republic of China Li Keqiang in Beijing to announce the end of a diplomatic freeze between the countries and the resumption of free trade negotiations between China and Norway. ](/news/2017/04/7/prime-minister-of-norway-erna-solberg-meets-with-premier-of-the-people-s-republic-of-china-li-keqiang-in-beijing-to-announce-the-end-of-a-di.md) _Context: Beijing_
+2. [The Russian Ministry of Defense says that Russia and China concluded a five-day computer-generated air defense drill in Beijing. ](/news/2017/12/17/the-russian-ministry-of-defense-says-that-russia-and-china-concluded-a-five-day-computer-generated-air-defense-drill-in-beijing.md) _Context: Beijing_
+3. [Authorities in Beijing evict thousands of its migrant population in wake of a fire that left 19 people dead earlier this month, leaving many homeless in sub-zero temperatures. ](/news/2017/11/27/authorities-in-beijing-evict-thousands-of-its-migrant-population-in-wake-of-a-fire-that-left-19-people-dead-earlier-this-month-leaving-many.md) _Context: Beijing_
+4. [A fire in a low-rent apartment in a suburb of Beijing kills 19 people and injures 8. ](/news/2017/11/18/a-fire-in-a-low-rent-apartment-in-a-suburb-of-beijing-kills-19-people-and-injures-8.md) _Context: Beijing_
+5. [The week-long Communist Party congress in Beijing draws to an end, with General Secretary Xi Jinping set to become its most influential leader since Party Chairman Mao Zedong. ](/news/2017/10/24/the-week-long-communist-party-congress-in-beijing-draws-to-an-end-with-general-secretary-xi-jinping-set-to-become-its-most-influential-lead.md) _Context: Beijing_

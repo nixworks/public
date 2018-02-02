@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/27/the-people-s-council-of-turkmenistan-implementing-changes-approved-in-the-constitution-passes-a-vote-to-abolish-itself-and-allow-oppositi.html)  [JSON](/news/2008/09/27/the-people-s-council-of-turkmenistan-implementing-changes-approved-in-the-constitution-passes-a-vote-to-abolish-itself-and-allow-oppositi.json)  [XML](/news/2008/09/27/the-people-s-council-of-turkmenistan-implementing-changes-approved-in-the-constitution-passes-a-vote-to-abolish-itself-and-allow-oppositi.xml)  
+
 ### [2008-09-27](/news/2008/09/27/index.md)
 
+##### People's Council
 #  The People's Council of Turkmenistan, implementing changes approved in the Constitution, passes a vote to abolish itself and allow opposition parties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7638102.stm)
 

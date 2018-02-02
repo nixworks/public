@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/15/2011-yemeni-protests-at-least-nine-people-are-killed-and-dozens-injured-in-the-yemeni-capital-sana-a-after-security-forces-use-tear-gas-and.html)  [JSON](/news/2011/10/15/2011-yemeni-protests-at-least-nine-people-are-killed-and-dozens-injured-in-the-yemeni-capital-sana-a-after-security-forces-use-tear-gas-and.json)  [XML](/news/2011/10/15/2011-yemeni-protests-at-least-nine-people-are-killed-and-dozens-injured-in-the-yemeni-capital-sana-a-after-security-forces-use-tear-gas-and.xml)  
+
 ### [2011-10-15](/news/2011/10/15/index.md)
 
+##### 2011 Yemeni protests
 # 2011 Yemeni protests: At least nine people are killed and dozens injured in the Yemeni capital Sana'a after security forces use tear gas and live ammunition to disperse anti-government protesters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-15319980)
 2. [VoA](http://www.voanews.com/english/news/middle-east/7-Protesters-Killed-in-Yemen-Capital-131912228.html)

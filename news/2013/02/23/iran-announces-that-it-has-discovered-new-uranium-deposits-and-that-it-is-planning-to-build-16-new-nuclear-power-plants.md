@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/23/iran-announces-that-it-has-discovered-new-uranium-deposits-and-that-it-is-planning-to-build-16-new-nuclear-power-plants.html)  [JSON](/news/2013/02/23/iran-announces-that-it-has-discovered-new-uranium-deposits-and-that-it-is-planning-to-build-16-new-nuclear-power-plants.json)  [XML](/news/2013/02/23/iran-announces-that-it-has-discovered-new-uranium-deposits-and-that-it-is-planning-to-build-16-new-nuclear-power-plants.xml)  
+
 ### [2013-02-23](/news/2013/02/23/index.md)
 
+##### Iran
 # Iran announces that it has discovered new uranium deposits and that it is planning to build 16 new nuclear power plants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/middle-east/iran-announces-uranium-discovery-plans-to-build-16-new-nuclear-power-plants-1.505268)
 1. [Cover Image](http://www.haaretz.com/polopoly_fs/1.503543.1365583641!/image/560202210.jpg_gen/derivatives/headline_1200x630/560202210.jpg)

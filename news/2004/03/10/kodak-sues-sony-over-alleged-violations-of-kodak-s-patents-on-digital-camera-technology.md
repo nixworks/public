@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/03/10/kodak-sues-sony-over-alleged-violations-of-kodak-s-patents-on-digital-camera-technology.html)  [JSON](/news/2004/03/10/kodak-sues-sony-over-alleged-violations-of-kodak-s-patents-on-digital-camera-technology.json)  [XML](/news/2004/03/10/kodak-sues-sony-over-alleged-violations-of-kodak-s-patents-on-digital-camera-technology.xml)  
+
 ### [2004-03-10](/news/2004/03/10/index.md)
 
+##### Kodak
 #  Kodak sues Sony over alleged violations of Kodak's patents on digital camera technology. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/tech/techinvestor/techcorporatenews/2004-03-09-kodak-sony_x.htm)
+1. [USA Today](https://www.usatoday.com/tech/techinvestor/techcorporatenews/2004-03-09-kodak-sony_x.htm)
 
 ### Related:
 

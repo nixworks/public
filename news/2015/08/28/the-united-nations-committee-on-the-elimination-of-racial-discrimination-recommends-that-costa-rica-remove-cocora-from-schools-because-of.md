@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2015/08/28/the-united-nations-committee-on-the-elimination-of-racial-discrimination-recommends-that-costa-rica-remove-cocora-from-schools-because-of.html)  [JSON](/news/2015/08/28/the-united-nations-committee-on-the-elimination-of-racial-discrimination-recommends-that-costa-rica-remove-cocora-from-schools-because-of.json)  [XML](/news/2015/08/28/the-united-nations-committee-on-the-elimination-of-racial-discrimination-recommends-that-costa-rica-remove-cocora-from-schools-because-of.xml)  
+
 ### [2015-08-28](/news/2015/08/28/index.md)
 
+##### United Nations
 # The United Nations Committee on the Elimination of Racial Discrimination recommends that Costa Rica remove "Cocori" from schools because of its perceived racial connotation. 
 
 The U.N. Committee on the Elimination of Racial Discrimination said its members worried about the use of school texts that can “be interpreted as having a stereotypical vision of minorities, especially of indigenous or Afro-Caribbean populations.&quot;
 
 
-### Source:
+### Sources:
 
 1. [The Tico Times](http://www.ticotimes.net/2015/08/28/un-committee-asks-costa-rica-to-remove-cocori-from-grade-school-classrooms-citing-the-books-racist-connotations)
 1. [Cover Image](http://www.ticotimes.net/wp-content/uploads/2015/05/40-1774_cocor.jpg)
-
-### Related:
-
-1. [Secretary-General Ban Ki-moon appoints Christiana Figueres of Costa Rica to lead United Nations efforts to combat climate change and global warming. ](/news/2010/05/18/secretary-general-ban-ki-moon-appoints-christiana-figueres-of-costa-rica-to-lead-united-nations-efforts-to-combat-climate-change-and-global.md) _Context: Costa Rica, United Nations_
-2. [In Nicaragua, flooding from Tropical Storm Nate, kills at least fifteen people. In Costa Rica, the storm kills at least seven people with fifteen missing. ](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-fifteen-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-fi.md) _Context: Costa Rica_
-3. [Two North Korean shipments to a Syrian government agency of its chemical weapons program were intercepted in the past 6 months, according to a confidential United Nations report on violations of North Korea's sactions. ](/news/2017/08/21/two-north-korean-shipments-to-a-syrian-government-agency-of-its-chemical-weapons-program-were-intercepted-in-the-past-6-months-according-to.md) _Context: United Nations_
-4. [According to the United Nations, the Philippines has the largest increase in HIV-AIDS in the Asia Pacific region with about a 140% increase in cases from 2010 until 2016 possibly causing a 'national emergency.' ](/news/2017/08/1/according-to-the-united-nations-the-philippines-has-the-largest-increase-in-hiv-aids-in-the-asia-pacific-region-with-about-a-140-increase.md) _Context: United Nations_
-5. [The United Nations votes in favour of the Treaty on the Prohibition of Nuclear Weapons with 122 in favour, 1 abstention, and 1 against. The treaty conference and negotiations had been boycotted by the nuclear weapon states and by the members of NATO. ](/news/2017/07/7/the-united-nations-votes-in-favour-of-the-treaty-on-the-prohibition-of-nuclear-weapons-with-122-in-favour-1-abstention-and-1-against-the.md) _Context: United Nations_
 
 ### Changes:
 
 1. [The United Nations Committee on the Elimination of Racial Discrimination recommends that Costa Rica remove ''Cocori'' from schools because of its perceived racial connotation. ](/news/2015/08/28/the-united-nations-committee-on-the-elimination-of-racial-discrimination-recommends-that-costa-rica-remove-cocora-from-schools-because.md) _2017-08-25 03:42:38 (First version)_
 1. [The United Nations Committee on the Elimination of Racial Discrimination recommends that Costa Rica remove "Cocori" from schools because of its perceived racial connotation. ](/news/2015/08/28/the-united-nations-committee-on-the-elimination-of-racial-discrimination-recommends-that-costa-rica-remove-cocora-from-schools-because-of.md) _(Current version)_
+
+### Related:
+
+1. [Secretary-General Ban Ki-moon appoints Christiana Figueres of Costa Rica to lead United Nations efforts to combat climate change and global warming. ](/news/2010/05/18/secretary-general-ban-ki-moon-appoints-christiana-figueres-of-costa-rica-to-lead-united-nations-efforts-to-combat-climate-change-and-global.md) _Context: Costa Rica, United Nations_
+2. [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md) _Context: United Nations_
+3. [Twelve people, including all 10 American passengers, are killed when their single-propeller plane crashes in a mountainous area near Punta Islita, in Guanacaste Province, Costa Rica. The pilot was former President Laura Chinchilla's cousin. ](/news/2017/12/31/twelve-people-including-all-10-american-passengers-are-killed-when-their-single-propeller-plane-crashes-in-a-mountainous-area-near-punta-i.md) _Context: Costa Rica_
+4. [President Trump suggests that the United States could withhold foreign aid for countries that vote in favor of a United Nations resolution calling on the U.S. to withdraw its recognition of Jerusalem as Israel's capital. ](/news/2017/12/20/president-trump-suggests-that-the-united-states-could-withhold-foreign-aid-for-countries-that-vote-in-favor-of-a-united-nations-resolution-c.md) _Context: United Nations_
+5. [The Trump administrations withdraws the United States from the Global Compact on Migration of the United Nations. ](/news/2017/12/2/the-trump-administrations-withdraws-the-united-states-from-the-global-compact-on-migration-of-the-united-nations.md) _Context: United Nations_

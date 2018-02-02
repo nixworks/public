@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/2/former-iranian-president-mohammad-khatami-member-of-the-moderate-wing-of-the-regime-describes-the-holocaust-as-a-historical-reality-co.html)  [JSON](/news/2006/03/2/former-iranian-president-mohammad-khatami-member-of-the-moderate-wing-of-the-regime-describes-the-holocaust-as-a-historical-reality-co.json)  [XML](/news/2006/03/2/former-iranian-president-mohammad-khatami-member-of-the-moderate-wing-of-the-regime-describes-the-holocaust-as-a-historical-reality-co.xml)  
+
 ### [2006-03-2](/news/2006/03/2/index.md)
 
+##### President
 #  Former Iranian President Mohammad Khatami, member of the moderate wing of the regime, describes the Holocaust as a "historical reality," contradicting the current leader Mahmoud Ahmadinejad, an extremist who has described it as a "myth" the previous year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4763494.stm)
 

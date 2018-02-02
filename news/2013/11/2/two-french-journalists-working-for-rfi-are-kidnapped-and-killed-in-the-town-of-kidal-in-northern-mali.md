@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/2/two-french-journalists-working-for-rfi-are-kidnapped-and-killed-in-the-town-of-kidal-in-northern-mali.html)  [JSON](/news/2013/11/2/two-french-journalists-working-for-rfi-are-kidnapped-and-killed-in-the-town-of-kidal-in-northern-mali.json)  [XML](/news/2013/11/2/two-french-journalists-working-for-rfi-are-kidnapped-and-killed-in-the-town-of-kidal-in-northern-mali.xml)  
+
 ### [2013-11-2](/news/2013/11/2/index.md)
 
+##### French-born
 # Two French journalists working for RFI are kidnapped and killed in the town of Kidal in northern Mali. 
 
 Two journalists for French radio station RFI have been killed after being kidnapped by gunmen in the northern Mali town of Kidal.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24787682)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/70872000/jpg/_70872128_rfijournos_composite.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/19/clashes-between-the-mexican-police-and-members-
 
 ### [2016-06-19](/news/2016/06/19/index.md)
 
+##### Mexican police
 # Clashes between the Mexican police and members of the radical Mexican teachers union National Coordinator of Education Workers in Oaxaca leaves at least six people dead. 
 
 

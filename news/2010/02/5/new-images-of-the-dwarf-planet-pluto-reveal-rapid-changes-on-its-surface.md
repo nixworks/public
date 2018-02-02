@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/5/new-images-of-the-dwarf-planet-pluto-reveal-rapid-changes-on-its-surface.html)  [JSON](/news/2010/02/5/new-images-of-the-dwarf-planet-pluto-reveal-rapid-changes-on-its-surface.json)  [XML](/news/2010/02/5/new-images-of-the-dwarf-planet-pluto-reveal-rapid-changes-on-its-surface.xml)  
+
 ### [2010-02-5](/news/2010/02/5/index.md)
 
+##### dwarf planet
 # New images of the dwarf planet Pluto reveal rapid changes on its surface. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8499660.stm)
 2. [National Geographic](http://news.nationalgeographic.com/news/2010/02/100204-pluto-hubble-best-pictures/)

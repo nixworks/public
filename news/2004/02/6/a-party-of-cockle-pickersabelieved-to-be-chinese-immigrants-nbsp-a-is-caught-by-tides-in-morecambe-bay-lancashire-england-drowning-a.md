@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/6/a-party-of-cockle-pickersabelieved-to-be-chinese-immigrants-nbsp-a-is-caught-by-tides-in-morecambe-bay-lancashire-england-drowning-a.html)  [JSON](/news/2004/02/6/a-party-of-cockle-pickersabelieved-to-be-chinese-immigrants-nbsp-a-is-caught-by-tides-in-morecambe-bay-lancashire-england-drowning-a.json)  [XML](/news/2004/02/6/a-party-of-cockle-pickersabelieved-to-be-chinese-immigrants-nbsp-a-is-caught-by-tides-in-morecambe-bay-lancashire-england-drowning-a.xml)  
+
 ### [2004-02-6](/news/2004/02/6/index.md)
 
+##### cockle
 #  A party of cockle pickers--believed to be Chinese immigrants&nbsp;- is caught by tides in Morecambe Bay, Lancashire, England, drowning at least 19 people.
 
 

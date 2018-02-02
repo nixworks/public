@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/18/the-european-commission-s-headquarters-in-brussels-belgium-is-evacuated-because-of-a-fire.html)  [JSON](/news/2009/05/18/the-european-commission-s-headquarters-in-brussels-belgium-is-evacuated-because-of-a-fire.json)  [XML](/news/2009/05/18/the-european-commission-s-headquarters-in-brussels-belgium-is-evacuated-because-of-a-fire.xml)  
+
 ### [2009-05-18](/news/2009/05/18/index.md)
 
+##### European Commission
 #  The European Commission's headquarters in Brussels, Belgium, is evacuated because of a fire. 
 
 The headquarters of the EU Commission in Brussels was evacuated today because of a fire.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0518/eufire.html)
 1. [Cover Image](https://img.rasset.ie/00024c20-1600.jpg)

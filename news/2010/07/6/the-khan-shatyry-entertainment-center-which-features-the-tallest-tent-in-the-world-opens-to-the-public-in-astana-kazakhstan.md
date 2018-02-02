@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/6/the-khan-shatyry-entertainment-center-which-features-the-tallest-tent-in-the-world-opens-to-the-public-in-astana-kazakhstan.html)  [JSON](/news/2010/07/6/the-khan-shatyry-entertainment-center-which-features-the-tallest-tent-in-the-world-opens-to-the-public-in-astana-kazakhstan.json)  [XML](/news/2010/07/6/the-khan-shatyry-entertainment-center-which-features-the-tallest-tent-in-the-world-opens-to-the-public-in-astana-kazakhstan.xml)  
+
 ### [2010-07-6](/news/2010/07/6/index.md)
 
+##### Khan Shatyry Entertainment Center
 # The Khan Shatyry Entertainment Center, which features the tallest tent in the world, opens to the public in Astana, Kazakhstan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/asia_pacific/10516973.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/17/elcomsoft-is-found-not-guilty-on-four-counts-of-dmca-violations-in-the-first-important-test-case-involving-the-controversial-law.html)  [JSON](/news/2002/12/17/elcomsoft-is-found-not-guilty-on-four-counts-of-dmca-violations-in-the-first-important-test-case-involving-the-controversial-law.json)  [XML](/news/2002/12/17/elcomsoft-is-found-not-guilty-on-four-counts-of-dmca-violations-in-the-first-important-test-case-involving-the-controversial-law.xml)  
+
 ### [2002-12-17](/news/2002/12/17/index.md)
 
+##### ElcomSoft
 # ElcomSoft is found not guilty on four counts of DMCA violations, in the first important test case involving the controversial law.
 
 

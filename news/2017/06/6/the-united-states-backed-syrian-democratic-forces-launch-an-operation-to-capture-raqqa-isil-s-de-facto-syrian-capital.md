@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/6/the-united-states-backed-syrian-democratic-force
 
 ### [2017-06-6](/news/2017/06/6/index.md)
 
+##### American-led intervention in Syria
 # The United States-backed Syrian Democratic Forces launch an operation to capture Raqqa, ISIL's "de facto" Syrian capital. 
 
 

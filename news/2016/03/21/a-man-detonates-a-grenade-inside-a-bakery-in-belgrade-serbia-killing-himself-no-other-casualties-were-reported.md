@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/21/a-man-detonates-a-grenade-inside-a-bakery-in-be
 
 ### [2016-03-21](/news/2016/03/21/index.md)
 
+##### Belgrade
 # A man detonates a grenade inside a bakery in Belgrade, Serbia, killing himself. No other casualties were reported. 
 
 

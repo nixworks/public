@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/8/an-ecowas-regional-court-in-west-africa-orders-authorities-in-niger-to-release-deposed-president-mamadou-tandja-who-was-detained-in-a-coup-i.html)  [JSON](/news/2010/11/8/an-ecowas-regional-court-in-west-africa-orders-authorities-in-niger-to-release-deposed-president-mamadou-tandja-who-was-detained-in-a-coup-i.json)  [XML](/news/2010/11/8/an-ecowas-regional-court-in-west-africa-orders-authorities-in-niger-to-release-deposed-president-mamadou-tandja-who-was-detained-in-a-coup-i.xml)  
+
 ### [2010-11-8](/news/2010/11/8/index.md)
 
+##### ECOWAS
 # An ECOWAS regional court in West Africa orders authorities in Niger to release deposed President Mamadou Tandja who was detained in a coup in February. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11711218)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

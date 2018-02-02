@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/6/plans-to-liquidate-ibrc-formerly-anglo-and-regarded-as-the-world-s-worst-bank-are-abruptly-announced-and-get-underway-in-dramatic-circum.html)  [JSON](/news/2013/02/6/plans-to-liquidate-ibrc-formerly-anglo-and-regarded-as-the-world-s-worst-bank-are-abruptly-announced-and-get-underway-in-dramatic-circum.json)  [XML](/news/2013/02/6/plans-to-liquidate-ibrc-formerly-anglo-and-regarded-as-the-world-s-worst-bank-are-abruptly-announced-and-get-underway-in-dramatic-circum.xml)  
+
 ### [2013-02-6](/news/2013/02/6/index.md)
 
+##### Irish Bank Resolution Corporation
 # Plans to liquidate IBRC, formerly Anglo and regarded as "the world's worst bank", are abruptly announced and get underway in dramatic circumstances. 
 
 The Dáil is debating emergency legislation to wind up the Irish Bank Resolution Corporation from midnight.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-21361339)
 2. [Examiner](http://www.irishexaminer.com/breakingnews/ireland/dail-prepares-to-vote-on-ibrc-liquidation-583883.html)

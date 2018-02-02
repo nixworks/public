@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/9/the-new-zealand-department-of-building-and-housing-issues-a-report-saying-that-the-ctv-building-that-collapsed-during-the-2011-christchurch.html)  [JSON](/news/2012/02/9/the-new-zealand-department-of-building-and-housing-issues-a-report-saying-that-the-ctv-building-that-collapsed-during-the-2011-christchurch.json)  [XML](/news/2012/02/9/the-new-zealand-department-of-building-and-housing-issues-a-report-saying-that-the-ctv-building-that-collapsed-during-the-2011-christchurch.xml)  
+
 ### [2012-02-9](/news/2012/02/9/index.md)
 
+##### New Zealand
 # The New Zealand Department of Building and Housing issues a report saying that the CTV Building that collapsed during the 2011 Christchurch earthquake killing 115 people did not meet relevant building standards when it was built in 1986. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fairfax New Zealand via New Zealand Stuff](http://www.stuff.co.nz/national/6386946/CTV-building-did-not-meet-standards-report)
 1. [Cover Image](https://static2.stuff.co.nz/1328768503/742/6393742.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/14/2008-cambodian-thai-stand-off-thailand-states-that-it-is-prepared-to-respond-militarily-if-attacked-by-cambodia-after-cambodia-issues-an-u.html)  [JSON](/news/2008/10/14/2008-cambodian-thai-stand-off-thailand-states-that-it-is-prepared-to-respond-militarily-if-attacked-by-cambodia-after-cambodia-issues-an-u.json)  [XML](/news/2008/10/14/2008-cambodian-thai-stand-off-thailand-states-that-it-is-prepared-to-respond-militarily-if-attacked-by-cambodia-after-cambodia-issues-an-u.xml)  
+
 ### [2008-10-14](/news/2008/10/14/index.md)
 
+##### exchange gunfire
 #  2008 Cambodian-Thai stand-off: Thailand states that it is prepared to respond militarily if attacked by Cambodia after Cambodia issues an ultimatum to withdraw from disputed border areas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5jhyr2pl9sCLBgkK42CXKfFwCOPSQD93QCB181)
 

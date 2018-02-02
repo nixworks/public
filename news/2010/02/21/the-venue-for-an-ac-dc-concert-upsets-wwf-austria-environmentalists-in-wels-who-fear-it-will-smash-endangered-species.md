@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/21/the-venue-for-an-ac-dc-concert-upsets-wwf-austria-environmentalists-in-wels-who-fear-it-will-smash-endangered-species.html)  [JSON](/news/2010/02/21/the-venue-for-an-ac-dc-concert-upsets-wwf-austria-environmentalists-in-wels-who-fear-it-will-smash-endangered-species.json)  [XML](/news/2010/02/21/the-venue-for-an-ac-dc-concert-upsets-wwf-austria-environmentalists-in-wels-who-fear-it-will-smash-endangered-species.xml)  
+
 ### [2010-02-21](/news/2010/02/21/index.md)
 
+##### AC/DC
 # The venue for an AC-DC concert upsets WWF Austria environmentalists in Wels who fear it will "smash" endangered species. 
 
 AUSTRIAN environmentalists are trying to stop an AC/DC concert from going ahead in the city of Wels as they say it will put rare birds and plants at risk.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/environment/conservation/rare-birds-at-risk-in-acdc-lark-20100220-omqb.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/o/l/b/g/image.related.thumbnail.320x214.omqb.png/1266681601000.jpg)

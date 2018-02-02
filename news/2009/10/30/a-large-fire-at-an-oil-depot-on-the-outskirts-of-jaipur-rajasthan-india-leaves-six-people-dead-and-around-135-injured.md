@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/30/a-large-fire-at-an-oil-depot-on-the-outskirts-of-jaipur-rajasthan-india-leaves-six-people-dead-and-around-135-injured.html)  [JSON](/news/2009/10/30/a-large-fire-at-an-oil-depot-on-the-outskirts-of-jaipur-rajasthan-india-leaves-six-people-dead-and-around-135-injured.json)  [XML](/news/2009/10/30/a-large-fire-at-an-oil-depot-on-the-outskirts-of-jaipur-rajasthan-india-leaves-six-people-dead-and-around-135-injured.xml)  
+
 ### [2009-10-30](/news/2009/10/30/index.md)
 
+##### large fire
 #  A large fire at an oil depot on the outskirts of Jaipur, Rajasthan, India, leaves six people dead and around 135 injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gwLvd_gUEGs2ga_LP0Rs2S5CjxYwD9BLEQM80)
 2. [Press Trust of India](http://www.ptinews.com/news/355623_Fire-at-oil-depot-rages-on--to-be-allowed-to-burn-out)

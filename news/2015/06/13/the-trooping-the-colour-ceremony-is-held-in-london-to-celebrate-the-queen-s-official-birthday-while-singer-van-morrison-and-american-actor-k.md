@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/13/the-trooping-the-colour-ceremony-is-held-in-london-to-celebrate-the-queen-s-official-birthday-while-singer-van-morrison-and-american-actor-k.html)  [JSON](/news/2015/06/13/the-trooping-the-colour-ceremony-is-held-in-london-to-celebrate-the-queen-s-official-birthday-while-singer-van-morrison-and-american-actor-k.json)  [XML](/news/2015/06/13/the-trooping-the-colour-ceremony-is-held-in-london-to-celebrate-the-queen-s-official-birthday-while-singer-van-morrison-and-american-actor-k.xml)  
+
 ### [2015-06-13](/news/2015/06/13/index.md)
 
+##### trooping the colour
 # The trooping the colour ceremony is held in London to celebrate the Queen's Official Birthday while singer Van Morrison and American actor Kevin Spacey are given knighthoods at the Birthday Honours. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-33109755)
 2. [CNN](http://edition.cnn.com/2015/06/13/europe/uk-royal-queen-birthday/index.html?eref=edition)
@@ -14,7 +18,7 @@
 ### Related:
 
 1. [The United Kingdom celebrates the Queen's Official Birthday with the Trooping of the Colour and the Birthday Honours. ](/news/2014/06/14/the-united-kingdom-celebrates-the-queen-s-official-birthday-with-the-trooping-of-the-colour-and-the-birthday-honours.md) _Context: Birthday Honours, Queen's Official Birthday_
-2. [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver but later released him. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md) _Context: London_
-3. [The New York Police Department and London's Metropolitan Police Service open investigations into alleged sexual assault allegations against the American film producer Harvey Weinstein. ](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.md) _Context: London_
-4. [Kulsoom Nawaz Sharif, wife of ousted former Prime Minister Nawaz Sharif, defeats the opposition party's Yasmin Rashid in the by-election for Nawaz Sharif's National Assembly seat. Kulsoom, represented by her daughter and proxy Maryam, is being treated in London for cancer. ](/news/2017/09/17/kulsoom-nawaz-sharif-wife-of-ousted-former-prime-minister-nawaz-sharif-defeats-the-opposition-party-s-yasmin-rashid-in-the-by-election-for.md) _Context: London_
-5. [A fire at the 79-story Dubai Torch Tower in the United Arab Emirates, which forced nighttime evacuations, was under control in a few hours with no serious injuries immediately reported. The building's exterior was still being renovated from a fire in February, 2015, which investigators had blamed, at least in part, to flammable siding, echoing the findings of this past June's Grenfell Tower fire in London. ](/news/2017/08/4/a-fire-at-the-79-story-dubai-torch-tower-in-the-united-arab-emirates-which-forced-nighttime-evacuations-was-under-control-in-a-few-hours-w.md) _Context: London_
+2. [Senior politicians express outrage after an investigative report by the "Financial Times" on groping practices at a Dorchester hotel charity gala held by the London-based Presidents Club old boy network. Boris Johnson and Mark Carney both deny knowing that their lunch or tea time was sold as lots in the club's charitable auction. ](/news/2018/01/24/senior-politicians-express-outrage-after-an-investigative-report-by-the-financial-times-on-groping-practices-at-a-dorchester-hotel-charity.md) _Context: London_
+3. [It is revealed that Ecuador granted citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/it-is-revealed-that-ecuador-granted-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-emba.md) _Context: London_
+4. [Former U.S. TV news anchor Heather Unruh accuses actor Kevin Spacey of sexually assaulting her son in Nantucket, Massachusetts, in 2016, when her son was 18 years old. ](/news/2017/11/8/former-u-s-tv-news-anchor-heather-unruh-accuses-actor-kevin-spacey-of-sexually-assaulting-her-son-in-nantucket-massachusetts-in-2016-whe.md) _Context: Kevin Spacey_
+5. [Netflix announces that it will no longer be working with American actor Kevin Spacey who plays Frank Underwood on the U.S. version of "House of Cards". ](/news/2017/11/3/netflix-announces-that-it-will-no-longer-be-working-with-american-actor-kevin-spacey-who-plays-frank-underwood-on-the-u-s-version-of-house.md) _Context: Kevin Spacey_

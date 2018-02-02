@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/06/26/unidentified-men-with-bush-knives-attack-the-papua-new-guinea-university-of-technology-in-the-city-of-lae-killing-one-student-and-set-fire.html)  [JSON](/news/2016/06/26/unidentified-men-with-bush-knives-attack-the-papua-new-guinea-university-of-technology-in-the-city-of-lae-killing-one-student-and-set-fire.json)  [XML](/news/2016/06/26/unidentified-men-with-bush-knives-attack-the-papua-new-guinea-university-of-technology-in-the-city-of-lae-killing-one-student-and-set-fire.xml)  
+
 ### [2016-06-26](/news/2016/06/26/index.md)
 
+##### Papua New Guinea University of Technology
 # Unidentified men with bush knives attack the Papua New Guinea University of Technology in the city of Lae, killing one student, and set fire to various buildings on the campus. 
 
 One person has died after violent clashes at a university campus in the northern Papua New Guinea city of Lae on Saturday night.
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/pacific-news/307312/one-killed,-buildings-torched,-in-png-university-clashes)
 1. [Cover Image](http://www.radionz.co.nz/x/rnz-general-sq-f875850613bd05904fb91ba6d0a13eca970fe203a2008e6de44c4a6b0bdbd86a.jpg)

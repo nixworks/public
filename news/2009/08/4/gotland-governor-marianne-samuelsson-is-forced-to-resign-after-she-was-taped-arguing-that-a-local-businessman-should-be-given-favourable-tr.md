@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/4/gotland-governor-marianne-samuelsson-is-forced-to-resign-after-she-was-taped-arguing-that-a-local-businessman-should-be-given-favourable-tr.html)  [JSON](/news/2009/08/4/gotland-governor-marianne-samuelsson-is-forced-to-resign-after-she-was-taped-arguing-that-a-local-businessman-should-be-given-favourable-tr.json)  [XML](/news/2009/08/4/gotland-governor-marianne-samuelsson-is-forced-to-resign-after-she-was-taped-arguing-that-a-local-businessman-should-be-given-favourable-tr.xml)  
+
 ### [2009-08-4](/news/2009/08/4/index.md)
 
+##### Gotland
 #  Gotland governor Marianne Samuelsson is forced to resign after she was taped arguing that a local businessman should be given favourable treatment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Local](http://www.thelocal.se/21102/20090804/)
 

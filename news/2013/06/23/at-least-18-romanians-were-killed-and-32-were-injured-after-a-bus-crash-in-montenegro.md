@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/23/at-least-18-romanians-were-killed-and-32-were-injured-after-a-bus-crash-in-montenegro.html)  [JSON](/news/2013/06/23/at-least-18-romanians-were-killed-and-32-were-injured-after-a-bus-crash-in-montenegro.json)  [XML](/news/2013/06/23/at-least-18-romanians-were-killed-and-32-were-injured-after-a-bus-crash-in-montenegro.xml)  
+
 ### [2013-06-23](/news/2013/06/23/index.md)
 
+##### Romanians
 # At least 18 Romanians were killed and 32 were injured after a bus crash, in Montenegro. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/2013/06/23/montenegro-bus-crash_n_3487228.html)
 

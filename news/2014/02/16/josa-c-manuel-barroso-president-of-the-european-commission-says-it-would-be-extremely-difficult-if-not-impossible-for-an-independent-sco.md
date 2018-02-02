@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2014/02/16/josa-c-manuel-barroso-president-of-the-european-commission-says-it-would-be-extremely-difficult-if-not-impossible-for-an-independent-sco.html)  [JSON](/news/2014/02/16/josa-c-manuel-barroso-president-of-the-european-commission-says-it-would-be-extremely-difficult-if-not-impossible-for-an-independent-sco.json)  [XML](/news/2014/02/16/josa-c-manuel-barroso-president-of-the-european-commission-says-it-would-be-extremely-difficult-if-not-impossible-for-an-independent-sco.xml)  
+
 ### [2014-02-16](/news/2014/02/16/index.md)
 
+##### Jose Manuel Barroso
 # Jose Manuel Barroso, President of the European Commission, says it would be "extremely difficult, if not impossible" for an independent Scotland to join the European Union as it would need the approval of all member states. 
 
 European Commission President Jose Manuel Barroso says it would be &quot;extremely difficult&quot; for an independent Scotland to join the EU.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-26215963)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73018000/jpg/_73018662_barroso.jpg)
 
 ### Related:
 
-1. [ European Union leaders formally nominate Portuguese Prime Minister Jose Manuel Barroso to the post of European Commission president. ](/news/2004/06/29/european-union-leaders-formally-nominate-portuguese-prime-minister-josa-c-manuel-barroso-to-the-post-of-european-commission-president.md) _Context: EU, European Commission, Jose Manuel Barroso_
-2. [Scotland's First Minister Nicola Sturgeon announces she will seek a second referendum on Scottish independence from the United Kingdom. ](/news/2017/03/13/scotland-s-first-minister-nicola-sturgeon-announces-she-will-seek-a-second-referendum-on-scottish-independence-from-the-united-kingdom.md) _Context: Scotland, Scottish independence_
-3. [The European Union's 28 member states formally accept Bosnia and Herzegovina's membership application. The European Commission (EC) will now determine whether Bosnia meets the criteria to join the union, a process that is expected to take a year. ](/news/2016/09/20/the-european-union-s-28-member-states-formally-accept-bosnia-and-herzegovina-s-membership-application-the-european-commission-ec-will-now.md) _Context: EU, European Commission_
-4. [The French government calls on former European Commission chief Jose Manuel Barroso not to take a job with investment bank Goldman Sachs, after some EU politicians demanded Barroso be sanctioned for accepting the new position that raises questions about the EU's conflict of interest rules. ](/news/2016/07/14/the-french-government-calls-on-former-european-commission-chief-josa-c-manuel-barroso-not-to-take-a-job-with-investment-bank-goldman-sachs-a.md) _Context: European Commission, Jose Manuel Barroso_
-5. [Launch of "The National", the first Scottish daily newspaper to support Scottish independence. ](/news/2014/11/24/launch-of-the-national-the-first-scottish-daily-newspaper-to-support-scottish-independence.md) _Context: Scotland, Scottish independence_
+1. [ European Union leaders formally nominate Portuguese Prime Minister Jose Manuel Barroso to the post of European Commission president. ](/news/2004/06/29/european-union-leaders-formally-nominate-portuguese-prime-minister-josa-c-manuel-barroso-to-the-post-of-european-commission-president.md) _Context: European Commission, European Union, Jose Manuel Barroso_
+2. [The European Commission invokes Article 7 of the European Treaty against E.U. member Poland, denouncing recent judiciary reforms putting it under the political control of the ruling majority and citing "serious risk to the independence of the judiciary and the separation of powers". ](/news/2017/12/20/the-european-commission-invokes-article-7-of-the-european-treaty-against-e-u-member-poland-denouncing-recent-judiciary-reforms-putting-it.md) _Context: European Commission, European Union_
+3. [The European Commission scraps the draft legislation that would have permitted the EBA regulator to order "too big to fail" banks to split off their trading activities, citing "no foreseeable agreement" in sight on criteria. The draft was supposed to be the EU's answer to the United States' Volcker Rule. ](/news/2017/10/24/the-european-commission-scraps-the-draft-legislation-that-would-have-permitted-the-eba-regulator-to-order-too-big-to-fail-banks-to-split-o.md) _Context: European Commission, European Union_
+4. [Scotland's First Minister Nicola Sturgeon announces she will seek a second referendum on Scottish independence from the United Kingdom. ](/news/2017/03/13/scotland-s-first-minister-nicola-sturgeon-announces-she-will-seek-a-second-referendum-on-scottish-independence-from-the-united-kingdom.md) _Context: Scotland, Scottish independence_
+5. [The European Union's 28 member states formally accept Bosnia and Herzegovina's membership application. The European Commission (EC) will now determine whether Bosnia meets the criteria to join the union, a process that is expected to take a year. ](/news/2016/09/20/the-european-union-s-28-member-states-formally-accept-bosnia-and-herzegovina-s-membership-application-the-european-commission-ec-will-now.md) _Context: European Commission, European Union_

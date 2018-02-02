@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/31/the-united-kingdom-posthumously-pardons-around-
 
 ### [2017-01-31](/news/2017/01/31/index.md)
 
+##### Alan Turing law
 # The United Kingdom posthumously pardons around 49,000 gay and bisexual men found guilty of decades-old sodomy laws in England and Wales. Those still living can apply for a statutory pardon. 
 
 Posthumous pardons are granted for offences that are no longer a crime on a &quot;momentous day&quot;.

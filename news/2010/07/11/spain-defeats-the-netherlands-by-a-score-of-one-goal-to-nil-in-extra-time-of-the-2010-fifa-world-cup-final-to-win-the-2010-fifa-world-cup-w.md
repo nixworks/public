@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/07/11/spain-defeats-the-netherlands-by-a-score-of-one-goal-to-nil-in-extra-time-of-the-2010-fifa-world-cup-final-to-win-the-2010-fifa-world-cup-w.html)  [JSON](/news/2010/07/11/spain-defeats-the-netherlands-by-a-score-of-one-goal-to-nil-in-extra-time-of-the-2010-fifa-world-cup-final-to-win-the-2010-fifa-world-cup-w.json)  [XML](/news/2010/07/11/spain-defeats-the-netherlands-by-a-score-of-one-goal-to-nil-in-extra-time-of-the-2010-fifa-world-cup-final-to-win-the-2010-fifa-world-cup-w.xml)  
+
 ### [2010-07-11](/news/2010/07/11/index.md)
 
+##### Spain
 # Spain defeats the Netherlands by a score of one goal to nil in extra time of the 2010 FIFA World Cup Final to win the 2010 FIFA World Cup, with Andrs Iniesta scoring the winning goal. 
 
 Spain has ended its long wait for a maiden World Cup title, defeating the Netherlands 1-0 at Soccer City in Johannesburg.
 
 
-### Source:
+### Sources:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/07/12/2950575.htm)
-2. [FIFA](http://www.fifa.com/worldcup/matches/round=249721/match=300061509/index.html)
+2. [FIFA](https://www.fifa.com/worldcup/matches/round=249721/match=300061509/index.html)
 2. [Cover Image](http://www.abc.net.au/news/image/900608-1x1-700x700.jpg)
 
 ### Related:

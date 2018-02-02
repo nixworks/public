@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/10/30/saddam-hussein-s-chief-lawyer-khalil-al-duleimi-walks-out-of-court-after-12-of-his-requests-were-rejected-but-the-chief-judge-immediatel.html)  [JSON](/news/2006/10/30/saddam-hussein-s-chief-lawyer-khalil-al-duleimi-walks-out-of-court-after-12-of-his-requests-were-rejected-but-the-chief-judge-immediatel.json)  [XML](/news/2006/10/30/saddam-hussein-s-chief-lawyer-khalil-al-duleimi-walks-out-of-court-after-12-of-his-requests-were-rejected-but-the-chief-judge-immediatel.xml)  
+
 ### [2006-10-30](/news/2006/10/30/index.md)
 
+##### Saddam Hussein
 #  Saddam Hussein's chief lawyer, Khalil al-Duleimi, walks out of court after 12 of his requests were rejected, but the chief judge immediately appoints other attorneys to defend the deposed President of Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/world/iraq/2006-10-30-saddam-trial_x.htm?csp=34)
+1. [USA Today](https://www.usatoday.com/news/world/iraq/2006-10-30-saddam-trial_x.htm?csp=34)
 
 ### Related:
 

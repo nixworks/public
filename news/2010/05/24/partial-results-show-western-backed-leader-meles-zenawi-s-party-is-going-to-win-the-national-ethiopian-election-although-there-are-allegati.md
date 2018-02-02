@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/24/partial-results-show-western-backed-leader-meles-zenawi-s-party-is-going-to-win-the-national-ethiopian-election-although-there-are-allegati.html)  [JSON](/news/2010/05/24/partial-results-show-western-backed-leader-meles-zenawi-s-party-is-going-to-win-the-national-ethiopian-election-although-there-are-allegati.json)  [XML](/news/2010/05/24/partial-results-show-western-backed-leader-meles-zenawi-s-party-is-going-to-win-the-national-ethiopian-election-although-there-are-allegati.xml)  
+
 ### [2010-05-24](/news/2010/05/24/index.md)
 
+##### Meles Zenawi
 # Partial results show Western-backed leader Meles Zenawi's party is going to win the national Ethiopian election, although there are allegations it was rigged. 
 
 Provisional results showed Ethiopia&#039;s ruling party has won national elections, according to officials, amid claims the vote was marred by irregularities.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10150894.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/ethiopia/7761507/Ethiopias-ruling-party-on-course-for-election-win.html)

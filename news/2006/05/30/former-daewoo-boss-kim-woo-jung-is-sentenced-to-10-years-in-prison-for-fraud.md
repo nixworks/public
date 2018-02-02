@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/30/former-daewoo-boss-kim-woo-jung-is-sentenced-to-10-years-in-prison-for-fraud.html)  [JSON](/news/2006/05/30/former-daewoo-boss-kim-woo-jung-is-sentenced-to-10-years-in-prison-for-fraud.json)  [XML](/news/2006/05/30/former-daewoo-boss-kim-woo-jung-is-sentenced-to-10-years-in-prison-for-fraud.xml)  
+
 ### [2006-05-30](/news/2006/05/30/index.md)
 
+##### Daewoo
 #  Former Daewoo boss Kim Woo-jung is sentenced to 10 years in prison for fraud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/5028708.stm)
 

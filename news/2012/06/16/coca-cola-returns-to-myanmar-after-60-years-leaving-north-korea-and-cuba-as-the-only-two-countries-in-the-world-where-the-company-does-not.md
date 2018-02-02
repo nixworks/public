@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/16/coca-cola-returns-to-myanmar-after-60-years-leaving-north-korea-and-cuba-as-the-only-two-countries-in-the-world-where-the-company-does-not.html)  [JSON](/news/2012/06/16/coca-cola-returns-to-myanmar-after-60-years-leaving-north-korea-and-cuba-as-the-only-two-countries-in-the-world-where-the-company-does-not.json)  [XML](/news/2012/06/16/coca-cola-returns-to-myanmar-after-60-years-leaving-north-korea-and-cuba-as-the-only-two-countries-in-the-world-where-the-company-does-not.xml)  
+
 ### [2012-06-16](/news/2012/06/16/index.md)
 
+##### Coca-Cola
 # Coca-Cola returns to Myanmar after 60 years, leaving North Korea and Cuba as the only two countries in the world where the company does not do business. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://blogs.voanews.com/breaking-news/2012/06/14/coca-cola-returning-to-burma-after-60-years/)
 

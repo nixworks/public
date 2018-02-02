@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/21/in-the-cote-d-ivoire-units-of-the-french-foreign-legion-based-at-the-city-of-duekoue-on-sassandra-river-have-come-into-contact-with-rebels.html)  [JSON](/news/2002/12/21/in-the-cote-d-ivoire-units-of-the-french-foreign-legion-based-at-the-city-of-duekoue-on-sassandra-river-have-come-into-contact-with-rebels.json)  [XML](/news/2002/12/21/in-the-cote-d-ivoire-units-of-the-french-foreign-legion-based-at-the-city-of-duekoue-on-sassandra-river-have-come-into-contact-with-rebels.xml)  
+
 ### [2002-12-21](/news/2002/12/21/index.md)
 
+##### Cte d'Ivoire
 # In the Cte d'Ivoire, units of the French Foreign Legion, based at the city of Duekoue on Sassandra River have come into contact with rebels advancing southward from the city of Man. Colonel Emmanuel Maurin, commander of the French force, states "Between what we have here and the river, they shall not pass."
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/3/the-parliament-of-new-zealand-voted-68-52-to-pass-the-smokefree-environments-amendment-bill-introducing-a-progressive-ban-on-smoking-in-al.html)  [JSON](/news/2003/12/3/the-parliament-of-new-zealand-voted-68-52-to-pass-the-smokefree-environments-amendment-bill-introducing-a-progressive-ban-on-smoking-in-al.json)  [XML](/news/2003/12/3/the-parliament-of-new-zealand-voted-68-52-to-pass-the-smokefree-environments-amendment-bill-introducing-a-progressive-ban-on-smoking-in-al.xml)  
+
 ### [2003-12-3](/news/2003/12/3/index.md)
 
+##### Parliament of New Zealand
 #  The Parliament of New Zealand voted 68-52 to pass the Smokefree Environments Amendment Bill, introducing a progressive ban on smoking in all workplaces including offices, clubs, pubs, restaurants, airports, schools etc.
 
 

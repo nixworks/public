@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/4/a-drawing-is-held-to-resolve-a-tied-election-bet
 
 ### [2018-01-4](/news/2018/01/4/index.md)
 
+##### Virginia House of Delegates election, 2017
 # A drawing is held to resolve a tied election between Democrat Shelly Simonds and Republican David Yancey, with Yancey being randomly chosen as the winner. 
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/5/a-passenger-train-runs-into-the-rear-of-a-freigh
 
 ### [2017-12-5](/news/2017/12/5/index.md)
 
+##### Meerbusch train crash
 # A passenger train runs into the rear of a freight train at Meerbusch, Germany. Forty-seven people are injured, three seriously.
 
 A passenger train crashed into a goods train near the city of Düsseldorf, emergency services say.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/20/the-construction-of-the-three-gorges-dam-wall-the-largest-dam-in-the-world-is-completed-in-the-people-s-republic-of-china.html)  [JSON](/news/2006/05/20/the-construction-of-the-three-gorges-dam-wall-the-largest-dam-in-the-world-is-completed-in-the-people-s-republic-of-china.json)  [XML](/news/2006/05/20/the-construction-of-the-three-gorges-dam-wall-the-largest-dam-in-the-world-is-completed-in-the-people-s-republic-of-china.xml)  
+
 ### [2006-05-20](/news/2006/05/20/index.md)
 
+##### Three Gorges Dam
 #  The construction of the Three Gorges Dam wall, the largest dam in the world, is completed in the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2006-05-20T170350Z_01_NOOTR_RTRJONC_0_India-250213-1.xml)
 

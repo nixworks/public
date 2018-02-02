@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/04/3/israeli-prime-minister-benjamin-netanyahu-disagrees-with-the-iranian-nuclear-program-agreement-that-the-p5-1-nations-offered-to-iran-saying.html)  [JSON](/news/2015/04/3/israeli-prime-minister-benjamin-netanyahu-disagrees-with-the-iranian-nuclear-program-agreement-that-the-p5-1-nations-offered-to-iran-saying.json)  [XML](/news/2015/04/3/israeli-prime-minister-benjamin-netanyahu-disagrees-with-the-iranian-nuclear-program-agreement-that-the-p5-1-nations-offered-to-iran-saying.xml)  
+
 ### [2015-04-3](/news/2015/04/3/index.md)
 
+##### Israel
 # Israeli Prime Minister Benjamin Netanyahu disagrees with the Iranian nuclear program agreement that the P5+1 Nations offered to Iran, saying it threatens Israel. 
 
 Security cabinet united in opposition to Iran deal as Netanyahu tells Obama nuclear deal &#39;would threaten survival of Israel, bolster Iran&#39;s nuclear program and pave way path to bomb.&#39;
 
 
-### Source:
+### Sources:
 
 1. [Fox](http://www.foxnews.com/politics/2015/04/03/netanyahu-on-collision-course-with-allies-in-wake-iran-deal-framework/)
-2. [Reuters](http://www.reuters.com/article/2015/04/03/us-israel-iran-framework-idUSKBN0MU0BR20150403)
+2. [Reuters](https://www.reuters.com/article/2015/04/03/us-israel-iran-framework-idUSKBN0MU0BR20150403)
 3. [YNet news](http://www.ynetnews.com/articles/0,7340,L-4644036,00.html)
 3. [Cover Image](http://www.ynetnews.com/PicServer4/2015/04/01/5969802/59698010991499640360no.jpg)
 

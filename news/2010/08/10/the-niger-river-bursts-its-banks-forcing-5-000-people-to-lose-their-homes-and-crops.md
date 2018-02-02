@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/10/the-niger-river-bursts-its-banks-forcing-5-000-people-to-lose-their-homes-and-crops.html)  [JSON](/news/2010/08/10/the-niger-river-bursts-its-banks-forcing-5-000-people-to-lose-their-homes-and-crops.json)  [XML](/news/2010/08/10/the-niger-river-bursts-its-banks-forcing-5-000-people-to-lose-their-homes-and-crops.xml)  
+
 ### [2010-08-10](/news/2010/08/10/index.md)
 
+##### Niger River
 # The Niger River bursts its banks forcing 5,000 people to lose their homes and crops. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10929144)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

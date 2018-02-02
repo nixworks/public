@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/30/voters-in-kyrgyzstan-go-to-the-polls-for-a-presidential-election-with-almazbek-atambayev-winning-in-a-landslide.html)  [JSON](/news/2011/10/30/voters-in-kyrgyzstan-go-to-the-polls-for-a-presidential-election-with-almazbek-atambayev-winning-in-a-landslide.json)  [XML](/news/2011/10/30/voters-in-kyrgyzstan-go-to-the-polls-for-a-presidential-election-with-almazbek-atambayev-winning-in-a-landslide.xml)  
+
 ### [2011-10-30](/news/2011/10/30/index.md)
 
+##### Kyrgyzstan
 # Voters in Kyrgyzstan go to the polls for a Presidential election with Almazbek Atambayev winning in a landslide. 
 
 Kyrgyzstan is electing its President on Sunday in a hotly-contested race that could either propel the impoverished republic towards becoming the first Western-type democracy in ex-Soviet Central Asia
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/news/international/article2580287.ece)
 1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)

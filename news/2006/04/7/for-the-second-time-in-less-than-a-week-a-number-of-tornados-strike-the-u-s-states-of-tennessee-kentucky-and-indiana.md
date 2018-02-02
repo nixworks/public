@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/7/for-the-second-time-in-less-than-a-week-a-number-of-tornados-strike-the-u-s-states-of-tennessee-kentucky-and-indiana.html)  [JSON](/news/2006/04/7/for-the-second-time-in-less-than-a-week-a-number-of-tornados-strike-the-u-s-states-of-tennessee-kentucky-and-indiana.json)  [XML](/news/2006/04/7/for-the-second-time-in-less-than-a-week-a-number-of-tornados-strike-the-u-s-states-of-tennessee-kentucky-and-indiana.xml)  
+
 ### [2006-04-7](/news/2006/04/7/index.md)
 
+##### second time
 #  For the second time in less than a week, a number of tornados strike the U.S. states of Tennessee, Kentucky, and Indiana. 
 
 Residents labored Saturday to begin rebuilding a day after tornadoes killed 12 people in Tennessee, the second wave of violent weather to hit the state in less than a week.
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/story/0,2933,191016,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

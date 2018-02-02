@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/28/thai-prime-minister-abhisit-vejjajiva-meets-with-leaders-of-the-national-united-front-of-democracy-against-dictatorship-on-live-television-t.html)  [JSON](/news/2010/03/28/thai-prime-minister-abhisit-vejjajiva-meets-with-leaders-of-the-national-united-front-of-democracy-against-dictatorship-on-live-television-t.json)  [XML](/news/2010/03/28/thai-prime-minister-abhisit-vejjajiva-meets-with-leaders-of-the-national-united-front-of-democracy-against-dictatorship-on-live-television-t.xml)  
+
 ### [2010-03-28](/news/2010/03/28/index.md)
 
+##### Thailand
 # Thai Prime Minister Abhisit Vejjajiva meets with leaders of the National United Front of Democracy Against Dictatorship on live television to help bring about an end to the political crisis in the country. 
 
 Abhisit Vejjajiva, the Thai prime minister met his political opponents on live television in an attempt to defuse a crisis that has seen thousands demonstrate against him demanding he quit.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/03/28/thailand.protests/?hpt=T1)
 2. [Thai News Agency](http://www.mcot.net/content/38173)

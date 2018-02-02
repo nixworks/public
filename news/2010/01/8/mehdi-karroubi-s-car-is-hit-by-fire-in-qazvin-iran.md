@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/01/8/mehdi-karroubi-s-car-is-hit-by-fire-in-qazvin-iran.html)  [JSON](/news/2010/01/8/mehdi-karroubi-s-car-is-hit-by-fire-in-qazvin-iran.json)  [XML](/news/2010/01/8/mehdi-karroubi-s-car-is-hit-by-fire-in-qazvin-iran.xml)  
+
 ### [2010-01-8](/news/2010/01/8/index.md)
 
+##### Mehdi Karroubi
 # Mehdi Karroubi's car is hit by fire in Qazvin, Iran. 
 
 Iran opposition leader Mehdi Karroubi&#039;s car has been fired on in the country&#039;s northern city of Qazvin.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/01/09/2788675.htm?section=world)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/20101810243719733.html)
 3. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8448070.stm)
-4. [The New York Times](http://www.nytimes.com/aponline/2010/01/08/world/AP-ML-Iran.html)
+4. [The New York Times](https://www.nytimes.com/aponline/2010/01/08/world/AP-ML-Iran.html)
 4. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)
 
 ### Related:

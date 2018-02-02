@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/18/a-fault-discovered-in-idaho-could-produce-an-earthquake-of-7-5-magnitude.html)  [JSON](/news/2010/11/18/a-fault-discovered-in-idaho-could-produce-an-earthquake-of-7-5-magnitude.json)  [XML](/news/2010/11/18/a-fault-discovered-in-idaho-could-produce-an-earthquake-of-7-5-magnitude.xml)  
+
 ### [2010-11-18](/news/2010/11/18/index.md)
 
+##### Idaho
 # A fault discovered in Idaho could produce an earthquake of 7.5 magnitude. 
 
 Scientists at Idaho State University map out a new, active seismic fault in the US Rocky Mountains capable of unleashing a 7.5 magnitude earthquake.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11790298)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

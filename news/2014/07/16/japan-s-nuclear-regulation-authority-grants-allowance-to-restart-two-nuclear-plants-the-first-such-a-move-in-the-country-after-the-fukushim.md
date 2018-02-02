@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/16/japan-s-nuclear-regulation-authority-grants-allowance-to-restart-two-nuclear-plants-the-first-such-a-move-in-the-country-after-the-fukushim.html)  [JSON](/news/2014/07/16/japan-s-nuclear-regulation-authority-grants-allowance-to-restart-two-nuclear-plants-the-first-such-a-move-in-the-country-after-the-fukushim.json)  [XML](/news/2014/07/16/japan-s-nuclear-regulation-authority-grants-allowance-to-restart-two-nuclear-plants-the-first-such-a-move-in-the-country-after-the-fukushim.xml)  
+
 ### [2014-07-16](/news/2014/07/16/index.md)
 
+##### Nuclear Regulation Authority
 # Japan's Nuclear Regulation Authority grants allowance to restart two nuclear plants, the first such a move in the country after the Fukushima disaster. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-28322558)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76289000/jpg/_76289981_sendaiap.jpg)

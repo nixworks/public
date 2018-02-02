@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/07/27/milt-stegall-breaks-the-all-time-cfl-touchdown-record-with-his-139th-touchdown.html)  [JSON](/news/2007/07/27/milt-stegall-breaks-the-all-time-cfl-touchdown-record-with-his-139th-touchdown.json)  [XML](/news/2007/07/27/milt-stegall-breaks-the-all-time-cfl-touchdown-record-with-his-139th-touchdown.xml)  
+
 ### [2007-07-27](/news/2007/07/27/index.md)
 
+##### Milt Stegall
 #  Milt Stegall breaks the all time CFL touchdown record, with his 139th touchdown.
 
 

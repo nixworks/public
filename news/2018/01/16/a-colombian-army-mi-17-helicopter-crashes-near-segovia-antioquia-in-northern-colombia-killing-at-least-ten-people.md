@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/16/a-colombian-army-mi-17-helicopter-crashes-near-
 
 ### [2018-01-16](/news/2018/01/16/index.md)
 
+##### Colombian Army
 # A Colombian Army Mi-17 helicopter crashes near Segovia, Antioquia, in northern Colombia, killing at least ten people. 
 
 Ten people were killed when a Colombian army helicopter crashed near the town of Segovia, in northern Antioquia province, on Tuesday, the army said.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/20/the-international-committee-of-the-red-cross-cl
 
 ### [2016-12-20](/news/2016/12/20/index.md)
 
+##### Aleppo offensive (November-December 2016)
 # The International Committee of the Red Cross claims that 25,000 residents of the rebel-held territories have been evacuated from Aleppo as Hezbollah warns remaining residents in the former rebel enclave to leave "as quickly as possible". 
 
 
@@ -21,6 +22,6 @@ Formats: [HTML](/news/2016/12/20/the-international-committee-of-the-red-cross-cl
 
 1. [ Syrian rebels withdraw from the old city of Aleppo. ](/news/2016/12/7/syrian-rebels-withdraw-from-the-old-city-of-aleppo.md) _Context: Aleppo, Aleppo offensive (November-December 2016)_
 2. [Shelling breaks the ceasefire in Aleppo causing disruption to the evacuation of rebels and civilians. ](/news/2016/12/14/shelling-breaks-the-ceasefire-in-aleppo-causing-disruption-to-the-evacuation-of-rebels-and-civilians.md) _Context: Aleppo, Aleppo offensive (November-December 2016)_
-3. [The International Committee of the Red Cross is buying 750,000 liters of diesel fuel to help provide clean water for a million people living in Yemen. ](/news/2017/11/30/the-international-committee-of-the-red-cross-is-buying-750-000-liters-of-diesel-fuel-to-help-provide-clean-water-for-a-million-people-living.md) _Context: International Committee of the Red Cross_
-4. [Syrian Republican Guard major general Issam Zahreddine, known for leading battles against the rebels in Homs and Aleppo, is killed by a landmine in Deir ez-Zor, according to Syrian media. ](/news/2017/10/18/syrian-republican-guard-major-general-issam-zahreddine-known-for-leading-battles-against-the-rebels-in-homs-and-aleppo-is-killed-by-a-land.md) _Context: Aleppo_
-5. [CJTF-OIR jets destroy a section of road, blocking the path of a convoy carrying ISIL evacuees from the Lebanon-Syria border en route to Abu Kamal in the Deir ez-Zor Governorate. The convoy, carrying 308 militants and 331 civilians according to Hezbollah, is now effectively stranded in Syrian government-controlled territory. ](/news/2017/08/30/cjtfaoir-jets-destroy-a-section-of-road-blocking-the-path-of-a-convoy-carrying-isil-evacuees-from-the-lebanonasyria-border-en-route-to.md) _Context: Hezbollah_
+3. [The Trump administration through the U.S. Justice Department establishes the Hezbollah Financing and Narcoterrorism Team to assist with the DEA's Project Cassandra investigation into groups supporting Hezbollah. ](/news/2018/01/11/the-trump-administration-through-the-u-s-justice-department-establishes-the-hezbollah-financing-and-narcoterrorism-team-to-assist-with-the.md) _Context: Hezbollah_
+4. [The International Committee of the Red Cross is buying 750,000 liters of diesel fuel to help provide clean water for a million people living in Yemen. ](/news/2017/11/30/the-international-committee-of-the-red-cross-is-buying-750-000-liters-of-diesel-fuel-to-help-provide-clean-water-for-a-million-people-living.md) _Context: International Committee of the Red Cross_
+5. [Syrian Republican Guard major general Issam Zahreddine, known for leading battles against the rebels in Homs and Aleppo, is killed by a landmine in Deir ez-Zor, according to Syrian media. ](/news/2017/10/18/syrian-republican-guard-major-general-issam-zahreddine-known-for-leading-battles-against-the-rebels-in-homs-and-aleppo-is-killed-by-a-land.md) _Context: Aleppo_

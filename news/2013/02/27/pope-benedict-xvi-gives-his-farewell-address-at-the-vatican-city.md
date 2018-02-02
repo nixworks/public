@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/27/pope-benedict-xvi-gives-his-farewell-address-at-the-vatican-city.html)  [JSON](/news/2013/02/27/pope-benedict-xvi-gives-his-farewell-address-at-the-vatican-city.json)  [XML](/news/2013/02/27/pope-benedict-xvi-gives-his-farewell-address-at-the-vatican-city.xml)  
+
 ### [2013-02-27](/news/2013/02/27/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI gives his farewell address at the Vatican City. 
 
 On his final full day as the leader of the Roman Catholic Church, Pope Benedict XVI thanked a huge crowd for respecting his historic decision to step down and told them that God will continue to guide the church.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/pope-benedict-xvi-delivers-farewell-address/story?id=18604583)
 1. [Cover Image](http://a.abcnews.com/images/International/ap_Pope2_ac_130227_wmain.jpg)

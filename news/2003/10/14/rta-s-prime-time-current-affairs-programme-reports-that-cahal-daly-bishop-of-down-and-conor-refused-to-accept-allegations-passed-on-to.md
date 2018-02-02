@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/14/rta-s-prime-time-current-affairs-programme-reports-that-cahal-daly-bishop-of-down-and-conor-refused-to-accept-allegations-passed-on-to.html)  [JSON](/news/2003/10/14/rta-s-prime-time-current-affairs-programme-reports-that-cahal-daly-bishop-of-down-and-conor-refused-to-accept-allegations-passed-on-to.json)  [XML](/news/2003/10/14/rta-s-prime-time-current-affairs-programme-reports-that-cahal-daly-bishop-of-down-and-conor-refused-to-accept-allegations-passed-on-to.xml)  
+
 ### [2003-10-14](/news/2003/10/14/index.md)
 
+##### RTE
 #  RTE's "Prime Time" current affairs programme reports that Cahal Daly, Bishop of Down and Conor, refused to accept allegations passed on to him by students of improper sexual conduct by Monsignor Micheal Ledwith, then head of St Patrick's College, Maynooth, Ireland's major seminary. According to the programme Daly became aggressive, telling students "go back and say your prayers". The TV programme confirms that Daly, and his predecessor, Cardinal Tomas O Fiaich, were centrally involved in efforts to silence critics of Ledwith, including forcing the resignation of one dean of students who informed them of allegations that Ledwith was making sexual advances against student priests. Ledwith subsequently left the college after paying damages to an under-age teenager to whom he allegedly made sexual advances. Ledwith, once an internationally famous Roman Catholic theologian tipped to become Catholic Archbishop of Dublin, is now associated with an American New Age organization. Having been tracked down by the programme, Ledwith refuses to comment 'for legal reasons'.
 
 

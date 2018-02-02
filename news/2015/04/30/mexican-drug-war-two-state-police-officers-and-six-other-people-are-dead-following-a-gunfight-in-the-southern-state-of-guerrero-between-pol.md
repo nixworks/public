@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/30/mexican-drug-war-two-state-police-officers-and-six-other-people-are-dead-following-a-gunfight-in-the-southern-state-of-guerrero-between-pol.html)  [JSON](/news/2015/04/30/mexican-drug-war-two-state-police-officers-and-six-other-people-are-dead-following-a-gunfight-in-the-southern-state-of-guerrero-between-pol.json)  [XML](/news/2015/04/30/mexican-drug-war-two-state-police-officers-and-six-other-people-are-dead-following-a-gunfight-in-the-southern-state-of-guerrero-between-pol.xml)  
+
 ### [2015-04-30](/news/2015/04/30/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: Two state police officers and six other people are dead following a gunfight in the southern state of Guerrero between police and suspected kidnappers. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/reported-killed-southern-mexico-gunbattle-30719070)
 

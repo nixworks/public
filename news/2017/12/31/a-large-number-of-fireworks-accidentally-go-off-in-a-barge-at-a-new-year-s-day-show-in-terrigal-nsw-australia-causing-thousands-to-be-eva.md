@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off
 
 ### [2017-12-31](/news/2017/12/31/index.md)
 
+##### fireworks
 # A large number of fireworks accidentally go off in a barge at a New Year's Day show in Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. 
 
 Two people are hurt and thousands evacuated as fireworks on a barge ignited at random.

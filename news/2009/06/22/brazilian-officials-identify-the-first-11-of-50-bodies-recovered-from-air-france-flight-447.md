@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/22/brazilian-officials-identify-the-first-11-of-50-bodies-recovered-from-air-france-flight-447.html)  [JSON](/news/2009/06/22/brazilian-officials-identify-the-first-11-of-50-bodies-recovered-from-air-france-flight-447.json)  [XML](/news/2009/06/22/brazilian-officials-identify-the-first-11-of-50-bodies-recovered-from-air-france-flight-447.xml)  
+
 ### [2009-06-22](/news/2009/06/22/index.md)
 
+##### Brazil
 #  Brazilian officials identify the first 11 of 50 bodies recovered from Air France Flight 447. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5hHIzqWYdQNyTz2MwjnwqiFhFIWFA)
 

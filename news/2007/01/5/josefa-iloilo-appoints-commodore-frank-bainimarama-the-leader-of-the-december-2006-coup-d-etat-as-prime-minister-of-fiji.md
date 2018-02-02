@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/5/josefa-iloilo-appoints-commodore-frank-bainimarama-the-leader-of-the-december-2006-coup-d-etat-as-prime-minister-of-fiji.html)  [JSON](/news/2007/01/5/josefa-iloilo-appoints-commodore-frank-bainimarama-the-leader-of-the-december-2006-coup-d-etat-as-prime-minister-of-fiji.json)  [XML](/news/2007/01/5/josefa-iloilo-appoints-commodore-frank-bainimarama-the-leader-of-the-december-2006-coup-d-etat-as-prime-minister-of-fiji.xml)  
+
 ### [2007-01-5](/news/2007/01/5/index.md)
 
+##### Josefa Iloilo
 #  Josefa Iloilo appoints Commodore Frank Bainimarama, the leader of the December 2006 coup d'tat, as Prime Minister of Fiji. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6232939.stm)
 

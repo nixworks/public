@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/27/president-of-colombia-juan-manuel-santos-describes-the-killing-of-mono-jojoy-as-the-beginning-of-the-end-for-the-farc-organization.html)  [JSON](/news/2010/09/27/president-of-colombia-juan-manuel-santos-describes-the-killing-of-mono-jojoy-as-the-beginning-of-the-end-for-the-farc-organization.json)  [XML](/news/2010/09/27/president-of-colombia-juan-manuel-santos-describes-the-killing-of-mono-jojoy-as-the-beginning-of-the-end-for-the-farc-organization.xml)  
+
 ### [2010-09-27](/news/2010/09/27/index.md)
 
+##### Colombian President
 # President of Colombia Juan Manuel Santos describes the killing of Mono Jojoy as the "beginning of the end" for the Farc organization. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/beginning-of-end-for-colombian-rebels-20100927-15suc.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11415821)

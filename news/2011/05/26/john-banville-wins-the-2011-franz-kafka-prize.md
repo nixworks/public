@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/26/john-banville-wins-the-2011-franz-kafka-prize.html)  [JSON](/news/2011/05/26/john-banville-wins-the-2011-franz-kafka-prize.json)  [XML](/news/2011/05/26/john-banville-wins-the-2011-franz-kafka-prize.xml)  
+
 ### [2011-05-26](/news/2011/05/26/index.md)
 
+##### John Banville
 # John Banville wins the 2011 Franz Kafka Prize. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-31749_162-20066485-10391698.html)
 2. [Irish Independent](http://www.independent.ie/entertainment/books/banville-gets-top-book-award-2658467.html)

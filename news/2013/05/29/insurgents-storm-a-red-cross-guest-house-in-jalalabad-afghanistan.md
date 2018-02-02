@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/29/insurgents-storm-a-red-cross-guest-house-in-jalalabad-afghanistan.html)  [JSON](/news/2013/05/29/insurgents-storm-a-red-cross-guest-house-in-jalalabad-afghanistan.json)  [XML](/news/2013/05/29/insurgents-storm-a-red-cross-guest-house-in-jalalabad-afghanistan.xml)  
+
 ### [2013-05-29](/news/2013/05/29/index.md)
 
+##### International Federation of Red Cross and Red Crescent Societies
 # Insurgents storm a Red Cross guest house in Jalalabad, Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Miami Herald](http://www.miamiherald.com/2013/05/29/3422108/attack-kills-1-policeman-in-eastern.html)
 

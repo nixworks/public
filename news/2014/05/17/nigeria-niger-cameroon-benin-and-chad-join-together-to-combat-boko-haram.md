@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/05/17/nigeria-niger-cameroon-benin-and-chad-join-together-to-combat-boko-haram.html)  [JSON](/news/2014/05/17/nigeria-niger-cameroon-benin-and-chad-join-together-to-combat-boko-haram.json)  [XML](/news/2014/05/17/nigeria-niger-cameroon-benin-and-chad-join-together-to-combat-boko-haram.xml)  
+
 ### [2014-05-17](/news/2014/05/17/index.md)
 
+##### Nigeria
 # Nigeria, Niger, Cameroon, Benin, and Chad join together to combat Boko Haram. 
 
 Nigeria, Cameroon, Niger, Chad and Benin pledge to cooperate against militant group that has kidnapped 200 schoolgirls
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2014/may/17/boko-haram-african-action-nigeria-schoolgirls)
-2. [The New York Times](http://www.nytimes.com/2014/05/18/world/africa/west-african-nations-set-aside-their-old-suspicions-to-combat-boko-haram.html)
+1. [The Guardian](https://www.theguardian.com/world/2014/may/17/boko-haram-african-action-nigeria-schoolgirls)
+2. [The New York Times](https://www.nytimes.com/2014/05/18/world/africa/west-african-nations-set-aside-their-old-suspicions-to-combat-boko-haram.html)
 2. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/5/17/1400345156447/French-president-Francois-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=55eacabe0e5244698dba55adc9970857)
 
 ### Related:

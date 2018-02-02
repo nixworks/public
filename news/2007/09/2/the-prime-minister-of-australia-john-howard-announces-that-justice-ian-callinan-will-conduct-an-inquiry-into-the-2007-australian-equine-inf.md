@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/2/the-prime-minister-of-australia-john-howard-announces-that-justice-ian-callinan-will-conduct-an-inquiry-into-the-2007-australian-equine-inf.html)  [JSON](/news/2007/09/2/the-prime-minister-of-australia-john-howard-announces-that-justice-ian-callinan-will-conduct-an-inquiry-into-the-2007-australian-equine-inf.json)  [XML](/news/2007/09/2/the-prime-minister-of-australia-john-howard-announces-that-justice-ian-callinan-will-conduct-an-inquiry-into-the-2007-australian-equine-inf.xml)  
+
 ### [2007-09-2](/news/2007/09/2/index.md)
 
+##### Australian Prime Minister
 #  The Prime Minister of Australia John Howard announces that Justice Ian Callinan will conduct an inquiry into the 2007 Australian equine influenza outbreak. 
 
 Prime Minister John Howard has announced an independent inquiry into the spread of equine influenza to horses in Australia.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/02/2021720.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/652270-1x1-700x700.jpg)

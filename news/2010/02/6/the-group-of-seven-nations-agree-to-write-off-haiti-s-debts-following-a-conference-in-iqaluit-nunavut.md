@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2010/02/6/the-group-of-seven-nations-agree-to-write-off-haiti-s-debts-following-a-conference-in-iqaluit-nunavut.html)  [JSON](/news/2010/02/6/the-group-of-seven-nations-agree-to-write-off-haiti-s-debts-following-a-conference-in-iqaluit-nunavut.json)  [XML](/news/2010/02/6/the-group-of-seven-nations-agree-to-write-off-haiti-s-debts-following-a-conference-in-iqaluit-nunavut.xml)  
+
 ### [2010-02-6](/news/2010/02/6/index.md)
 
+##### G7
 # The Group of Seven nations agree to write off Haiti's debts following a conference in Iqaluit, Nunavut. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8502567.stm)
 
 ### Related:
 
-1. [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md) _Context: Haiti_
-2. [A bus driver in the Haitian city of Gonaives ploughs into crowds of people celebrating Rara while speeding away from an earlier accident which left one person dead, killing at least 38 people, including a group of street musicians, and injures 17 others. ](/news/2017/03/12/a-bus-driver-in-the-haitian-city-of-gonaa-ves-ploughs-into-crowds-of-people-celebrating-rara-while-speeding-away-from-an-earlier-accident-wh.md) _Context: Haiti_
-3. [Jovenel Moise provisionally wins the Haitian election. With Moise earning over 50% of the vote, a runoff election will not be required unless the losing candidates contest the result. ](/news/2016/11/29/jovenel-moa-se-provisionally-wins-the-haitian-election-with-moa-se-earning-over-50-of-the-vote-a-runoff-election-will-not-be-required-unl.md) _Context: Haiti_
-4. [The Haitian national electoral commission promises to release results of the highly contested elections between the candidates Jovenel Moise of the Haitian Tet Kale Party, Maryse Narcisse of the Fanmi Lavalas and Jude Celestin of the Alternative League for Haitian Progress and Emancipation. ](/news/2016/11/28/the-haitian-national-electoral-commission-promises-to-release-results-of-the-highly-contested-elections-between-the-candidates-jovenel-moise.md) _Context: Haiti_
-5. [Tensions spread in Haiti after both Maryse Narcisse of the Fanmi Lavalas party and Jovenel Moise of the Haitian Tet Kale Party declare themselves winners. ](/news/2016/11/24/tensions-spread-in-haiti-after-both-maryse-narcisse-of-the-fanmi-lavalas-party-and-jovenel-moise-of-the-haitian-ta-t-kale-party-declare-them.md) _Context: Haiti_
+1. [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md) _Context: Haiti_
+2. [The U.S. Department of Homeland Security discontinues the eligibility of citizens of Belize, Haiti, and Samoa to obtain H-2A and H-2B visas for temporary work. ](/news/2018/01/17/the-u-s-department-of-homeland-security-discontinues-the-eligibility-of-citizens-of-belize-haiti-and-samoa-to-obtain-h-2a-and-h-2b-visas.md) _Context: Haiti_
+3. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: Haiti_
+4. [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md) _Context: Haiti_
+5. [A bus driver in the Haitian city of Gonaives ploughs into crowds of people celebrating Rara while speeding away from an earlier accident which left one person dead, killing at least 38 people, including a group of street musicians, and injures 17 others. ](/news/2017/03/12/a-bus-driver-in-the-haitian-city-of-gonaa-ves-ploughs-into-crowds-of-people-celebrating-rara-while-speeding-away-from-an-earlier-accident-wh.md) _Context: Haiti_

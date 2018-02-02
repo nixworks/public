@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/12/militants-in-northwestern-pakistan-kill-nine-male-family-members-of-a-slain-leader-of-a-pro-government-militia-in-an-attack-on-the-family-s.html)  [JSON](/news/2014/02/12/militants-in-northwestern-pakistan-kill-nine-male-family-members-of-a-slain-leader-of-a-pro-government-militia-in-an-attack-on-the-family-s.json)  [XML](/news/2014/02/12/militants-in-northwestern-pakistan-kill-nine-male-family-members-of-a-slain-leader-of-a-pro-government-militia-in-an-attack-on-the-family-s.xml)  
+
 ### [2014-02-12](/news/2014/02/12/index.md)
 
+##### War in North-West Pakistan
 # Militants in northwestern Pakistan kill nine male family members of a slain leader of a pro-government militia in an attack on the family's house outside the city of Peshawar. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC](http://abcnews.go.com/International/wireStory/militants-kill-anti-taliban-militia-pakistan-22473810)
 2. [CNN](http://www.cnn.com/2014/02/12/world/asia/pakistan-violence/index.html?hpt=wo_c2)

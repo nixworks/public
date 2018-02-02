@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/10/while-retired-south-african-archbishop-desmond-tutu-and-his-successor-archbishop-njongonkulu-winston-ndungane-fail-to-see-what-all-the-f.html)  [JSON](/news/2003/08/10/while-retired-south-african-archbishop-desmond-tutu-and-his-successor-archbishop-njongonkulu-winston-ndungane-fail-to-see-what-all-the-f.json)  [XML](/news/2003/08/10/while-retired-south-african-archbishop-desmond-tutu-and-his-successor-archbishop-njongonkulu-winston-ndungane-fail-to-see-what-all-the-f.xml)  
+
 ### [2003-08-10](/news/2003/08/10/index.md)
 
+##### Desmond Tutu
 #  While retired South African Archbishop Desmond Tutu and his successor, Archbishop Njongonkulu Winston Ndungane, fail to see what "all the fuss" is over the ordination of a gay bishop, other African Anglicans suggest that their churches may sever relations with the American dioceses that supported the election of a gay priest as bishop if what they called the "path of deviation" is not changed.
 
 

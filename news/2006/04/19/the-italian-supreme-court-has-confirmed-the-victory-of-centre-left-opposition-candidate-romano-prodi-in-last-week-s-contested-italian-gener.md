@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/19/the-italian-supreme-court-has-confirmed-the-victory-of-centre-left-opposition-candidate-romano-prodi-in-last-week-s-contested-italian-gener.html)  [JSON](/news/2006/04/19/the-italian-supreme-court-has-confirmed-the-victory-of-centre-left-opposition-candidate-romano-prodi-in-last-week-s-contested-italian-gener.json)  [XML](/news/2006/04/19/the-italian-supreme-court-has-confirmed-the-victory-of-centre-left-opposition-candidate-romano-prodi-in-last-week-s-contested-italian-gener.xml)  
+
 ### [2006-04-19](/news/2006/04/19/index.md)
 
+##### Italian Supreme Court
 #  The Italian Supreme Court has confirmed the victory of centre-left opposition candidate Romano Prodi in last week's contested Italian general election, 2006, dismissing complaints by Prime Minister Silvio Berlusconi that the vote was marred by irregularities. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4922092.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyid=2006-04-19T163218Z_01_L19724709_RTRUKOC_0_US-ITALY.xml)

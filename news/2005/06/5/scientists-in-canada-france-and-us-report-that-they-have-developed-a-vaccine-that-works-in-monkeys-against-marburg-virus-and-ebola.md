@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/5/scientists-in-canada-france-and-us-report-that-they-have-developed-a-vaccine-that-works-in-monkeys-against-marburg-virus-and-ebola.html)  [JSON](/news/2005/06/5/scientists-in-canada-france-and-us-report-that-they-have-developed-a-vaccine-that-works-in-monkeys-against-marburg-virus-and-ebola.json)  [XML](/news/2005/06/5/scientists-in-canada-france-and-us-report-that-they-have-developed-a-vaccine-that-works-in-monkeys-against-marburg-virus-and-ebola.xml)  
+
 ### [2005-06-5](/news/2005/06/5/index.md)
 
+##### vaccine
 #  Scientists in Canada, France and US report that they have developed a vaccine that works in monkeys against Marburg virus and Ebola 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4612339.stm)
 2. [Medical News Today](http://www.medicalnewstoday.com/medicalnews.php?newsid=25668)

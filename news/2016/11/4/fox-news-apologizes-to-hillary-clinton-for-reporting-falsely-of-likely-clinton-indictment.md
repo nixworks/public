@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/11/4/fox-news-apologizes-to-hillary-clinton-for-reporting-falsely-of-likely-clinton-indictment.html)  [JSON](/news/2016/11/4/fox-news-apologizes-to-hillary-clinton-for-reporting-falsely-of-likely-clinton-indictment.json)  [XML](/news/2016/11/4/fox-news-apologizes-to-hillary-clinton-for-reporting-falsely-of-likely-clinton-indictment.xml)  
+
 ### [2016-11-4](/news/2016/11/4/index.md)
 
+##### Fox News
 #  Fox News apologizes to Hillary Clinton for reporting falsely of 'likely' Clinton indictment. 
 
 Bret Baier also retracted his report that Clinton&#39;s email server had been hacked by foreign agents.
 
 
-### Source:
+### Sources:
 
-1. [USA Today ](http://www.usatoday.com/story/news/politics/onpolitics/2016/11/04/fox-news-apologizes-clinton-report/93300254/)
+1. [USA Today ](https://www.usatoday.com/story/news/politics/onpolitics/2016/11/04/fox-news-apologizes-clinton-report/93300254/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

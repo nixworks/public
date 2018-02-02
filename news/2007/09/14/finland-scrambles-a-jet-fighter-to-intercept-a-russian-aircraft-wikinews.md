@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/09/14/finland-scrambles-a-jet-fighter-to-intercept-a-russian-aircraft-wikinews.html)  [JSON](/news/2007/09/14/finland-scrambles-a-jet-fighter-to-intercept-a-russian-aircraft-wikinews.json)  [XML](/news/2007/09/14/finland-scrambles-a-jet-fighter-to-intercept-a-russian-aircraft-wikinews.xml)  
+
 ### [2007-09-14](/news/2007/09/14/index.md)
 
+##### Finland
 #  Finland scrambles a jet fighter to intercept a Russian aircraft. (Wikinews)
 
 

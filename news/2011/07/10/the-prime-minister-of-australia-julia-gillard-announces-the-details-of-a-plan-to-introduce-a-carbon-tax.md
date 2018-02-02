@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/10/the-prime-minister-of-australia-julia-gillard-announces-the-details-of-a-plan-to-introduce-a-carbon-tax.html)  [JSON](/news/2011/07/10/the-prime-minister-of-australia-julia-gillard-announces-the-details-of-a-plan-to-introduce-a-carbon-tax.json)  [XML](/news/2011/07/10/the-prime-minister-of-australia-julia-gillard-announces-the-details-of-a-plan-to-introduce-a-carbon-tax.xml)  
+
 ### [2011-07-10](/news/2011/07/10/index.md)
 
+##### Australian Prime Minister
 # The Prime Minister of Australia Julia Gillard announces the details of a plan to introduce a carbon tax. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/carbon-tax-to-be-in-parliament-in-august-20110710-1h8go.html)
 

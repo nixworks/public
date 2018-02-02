@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/07/4/at-least-2-people-are-killed-and-4-others-are-declared-missing-after-a-landslide-in-a-village-in-western-nepal.html)  [JSON](/news/2011/07/4/at-least-2-people-are-killed-and-4-others-are-declared-missing-after-a-landslide-in-a-village-in-western-nepal.json)  [XML](/news/2011/07/4/at-least-2-people-are-killed-and-4-others-are-declared-missing-after-a-landslide-in-a-village-in-western-nepal.xml)  
+
 ### [2011-07-4](/news/2011/07/4/index.md)
 
+##### landslide
 # At least 2 people are killed and 4 others are declared missing after a landslide in a village in western Nepal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia-pacific/landslide-hits-village-in-nepals-western-mountains-killing-2-people-4-missing/2011/07/04/AGr0hFxH_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia-pacific/landslide-hits-village-in-nepals-western-mountains-killing-2-people-4-missing/2011/07/04/AGr0hFxH_story.html)
 
 ### Related:
 
 1. [At least 41 people have been killed, 8 injured, and scores are missing in landslides in Nepal's Taplejung District caused by heavy rain. ](/news/2015/06/11/at-least-41-people-have-been-killed-8-injured-and-scores-are-missing-in-landslides-in-nepal-s-taplejung-district-caused-by-heavy-rain.md) _Context: Nepal, landslide_
-2. [Landslides in two remote Nepalese villages kill six people and injure another ten. ](/news/2011/07/15/landslides-in-two-remote-nepalese-villages-kill-six-people-and-injure-another-ten.md) _Context: Nepal, landslide_
-3. [At least 14 people are killed in the Indian city of Mumbai as nearly a month's average rainfall fell yesterday during the worst monsoon in years. More than 1,200 people have been killed across India, Nepal and Bangladesh. ](/news/2017/08/30/at-least-14-people-are-killed-in-the-indian-city-of-mumbai-as-nearly-a-month-s-average-rainfall-fell-yesterday-during-the-worst-monsoon-in-y.md) _Context: Nepal_
-4. [Flooding in South Asia has displaced tens of thousands of people and resulted in an estimated 500 deaths across India, Bangladesh, and Nepal. ](/news/2017/08/18/flooding-in-south-asia-has-displaced-tens-of-thousands-of-people-and-resulted-in-an-estimated-500-deaths-across-india-bangladesh-and-nepal.md) _Context: Nepal_
-5. [Flooding in Nepal leaves at least 36 dead and dozens more missing. ](/news/2017/08/12/flooding-in-nepal-leaves-at-least-36-dead-and-dozens-more-missing.md) _Context: Nepal_
+2. [A landslide pushes a bus into a ravine in Colombia, killing 13 people. ](/news/2018/01/22/a-landslide-pushes-a-bus-into-a-ravine-in-colombia-killing-13-people.md) _Context: landslide_
+3. [Voters in Nepal go to the polls for the second round of a historic legislative election. The turnout is 67%, up from 65% in the first round. ](/news/2017/12/7/voters-in-nepal-go-to-the-polls-for-the-second-round-of-a-historic-legislative-election-the-turnout-is-67-up-from-65-in-the-first-round.md) _Context: Nepal_
+4. [Nepal bans solo climbers, double amputees and blind climbers from scaling its mountains, including Mount Everest, in a bid to reduce accidents. This has been criticized by successful double-amputee Everest climbers. ](/news/2017/12/30/nepal-bans-solo-climbers-double-amputees-and-blind-climbers-from-scaling-its-mountains-including-mount-everest-in-a-bid-to-reduce-acciden.md) _Context: Nepal_
+5. [Voters in Nepal go to the polls for the first phase of an election to choose members for the House of Representatives and Parliament. ](/news/2017/11/26/voters-in-nepal-go-to-the-polls-for-the-first-phase-of-an-election-to-choose-members-for-the-house-of-representatives-and-parliament.md) _Context: Nepal_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/5/the-islamist-terrorist-group-boko-haram-claims-responsibility-for-a-series-of-bomb-and-gun-attacks-in-the-north-eastern-nigerian-town-of-dam.html)  [JSON](/news/2011/11/5/the-islamist-terrorist-group-boko-haram-claims-responsibility-for-a-series-of-bomb-and-gun-attacks-in-the-north-eastern-nigerian-town-of-dam.json)  [XML](/news/2011/11/5/the-islamist-terrorist-group-boko-haram-claims-responsibility-for-a-series-of-bomb-and-gun-attacks-in-the-north-eastern-nigerian-town-of-dam.xml)  
+
 ### [2011-11-5](/news/2011/11/5/index.md)
 
+##### Islamist
 # The Islamist terrorist group Boko Haram claims responsibility for a series of bomb and gun attacks in the north-eastern Nigerian town of Damaturu that have killed at least 63 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-15605041)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52908000/jpg/_52908535_bn-448x252.jpg)

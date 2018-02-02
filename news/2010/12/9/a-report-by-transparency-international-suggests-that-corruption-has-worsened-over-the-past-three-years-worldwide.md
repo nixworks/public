@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/9/a-report-by-transparency-international-suggests-that-corruption-has-worsened-over-the-past-three-years-worldwide.html)  [JSON](/news/2010/12/9/a-report-by-transparency-international-suggests-that-corruption-has-worsened-over-the-past-three-years-worldwide.json)  [XML](/news/2010/12/9/a-report-by-transparency-international-suggests-that-corruption-has-worsened-over-the-past-three-years-worldwide.xml)  
+
 ### [2010-12-9](/news/2010/12/9/index.md)
 
+##### Transparency International
 # A report by Transparency International suggests that corruption has worsened over the past three years worldwide. 
 
 One person in four worldwide paid a bribe during the past year, according to study by Transparency International.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/20101297627332580.html)
 2. [BBC](http://www.bbc.co.uk/news/world-11954667)

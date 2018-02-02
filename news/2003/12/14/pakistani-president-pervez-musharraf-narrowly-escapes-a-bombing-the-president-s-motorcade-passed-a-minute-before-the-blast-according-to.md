@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2003/12/14/pakistani-president-pervez-musharraf-narrowly-escapes-a-bombing-the-president-s-motorcade-passed-a-minute-before-the-blast-according-to.html)  [JSON](/news/2003/12/14/pakistani-president-pervez-musharraf-narrowly-escapes-a-bombing-the-president-s-motorcade-passed-a-minute-before-the-blast-according-to.json)  [XML](/news/2003/12/14/pakistani-president-pervez-musharraf-narrowly-escapes-a-bombing-the-president-s-motorcade-passed-a-minute-before-the-blast-according-to.xml)  
+
 ### [2003-12-14](/news/2003/12/14/index.md)
 
-#  Pakistani President Pervez Musharraf narrowly escapes a bombing. "The president's motorcade passed a minute before the blast", according to officials. [http:--www.washingtonpost.com-wp-dyn-articles-A64187-2003Dec14.html]
+##### Pakistan
+#  Pakistani President Pervez Musharraf narrowly escapes a bombing. "The president's motorcade passed a minute before the blast", according to officials. [https:--www.washingtonpost.com-wp-dyn-articles-A64187-2003Dec14.html]
 
 
 

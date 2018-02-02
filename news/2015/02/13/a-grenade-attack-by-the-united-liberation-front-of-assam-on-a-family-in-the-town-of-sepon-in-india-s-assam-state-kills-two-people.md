@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/02/13/a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-people.html)  [JSON](/news/2015/02/13/a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-people.json)  [XML](/news/2015/02/13/a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-people.xml)  
+
 ### [2015-02-13](/news/2015/02/13/index.md)
 
+##### Assam conflict
 # A grenade attack by the United Liberation Front of Assam on a family in the town of Sepon in India's Assam state kills two people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/india-news/two-persons-killed-in-assam-grenade-blast-739243)
 1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
+
+### Changes:
+
+1. [Assam conflict: A grenade attack by the United Liberation Front of Assam on a family in the town of Sepon in India's Assam state kills two people. ](/news/2015/02/13/assam-conflict-a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-p.md) _2017-08-27 03:41:56 (First version)_
+1. [A grenade attack by the United Liberation Front of Assam on a family in the town of Sepon in India's Assam state kills two people. ](/news/2015/02/13/a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-people.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Attacks on villages in the Indian state of Assam kill dozens of people. Suspicion falls on the insurgents of the National Democratic Front of Bodoland. ](/news/2014/12/23/attacks-on-villages-in-the-indian-state-of-assam-kill-dozens-of-people-suspicion-falls-on-the-insurgents-of-the-national-democratic-front-o.md) _Context: Assam, India_
 4. [At least one person is killed and another four injured in renewed fighting in the Indian city of Kokrajhar in the state of Assam. ](/news/2012/08/28/at-least-one-person-is-killed-and-another-four-injured-in-renewed-fighting-in-the-indian-city-of-kokrajhar-in-the-state-of-assam.md) _Context: Assam, India_
 5. [Nine people are killed overnight in ethnic clashes in the Indian state of Assam with the total death toll since last Friday being 35. ](/news/2012/07/25/nine-people-are-killed-overnight-in-ethnic-clashes-in-the-indian-state-of-assam-with-the-total-death-toll-since-last-friday-being-35.md) _Context: Assam, India_
-
-### Changes:
-
-1. [Assam conflict: A grenade attack by the United Liberation Front of Assam on a family in the town of Sepon in India's Assam state kills two people. ](/news/2015/02/13/assam-conflict-a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-p.md) _2017-08-27 03:41:56 (First version)_
-1. [A grenade attack by the United Liberation Front of Assam on a family in the town of Sepon in India's Assam state kills two people. ](/news/2015/02/13/a-grenade-attack-by-the-united-liberation-front-of-assam-on-a-family-in-the-town-of-sepon-in-india-s-assam-state-kills-two-people.md) _(Current version)_

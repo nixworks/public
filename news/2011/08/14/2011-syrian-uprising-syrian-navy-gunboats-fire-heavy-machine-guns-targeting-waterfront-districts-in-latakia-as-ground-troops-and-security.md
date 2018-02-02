@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/14/2011-syrian-uprising-syrian-navy-gunboats-fire-heavy-machine-guns-targeting-waterfront-districts-in-latakia-as-ground-troops-and-security.html)  [JSON](/news/2011/08/14/2011-syrian-uprising-syrian-navy-gunboats-fire-heavy-machine-guns-targeting-waterfront-districts-in-latakia-as-ground-troops-and-security.json)  [XML](/news/2011/08/14/2011-syrian-uprising-syrian-navy-gunboats-fire-heavy-machine-guns-targeting-waterfront-districts-in-latakia-as-ground-troops-and-security.xml)  
+
 ### [2011-08-14](/news/2011/08/14/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Syrian Navy gunboats fire heavy machine guns targeting waterfront districts in Latakia, as ground troops and security agents backed by armor storm several neighborhoods. Up to 26 people are killed. 
 
 (Video) Battleships pound mostly Sunni areas of Latakia after thousands call for Assad&#39;s ouster
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/middle-east/syria-shells-port-city-of-latakia-at-least-26-dead-1.378593)
 2. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4108606,00.html)

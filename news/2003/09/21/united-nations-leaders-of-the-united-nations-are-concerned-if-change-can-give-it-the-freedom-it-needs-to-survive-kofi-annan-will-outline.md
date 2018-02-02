@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/21/united-nations-leaders-of-the-united-nations-are-concerned-if-change-can-give-it-the-freedom-it-needs-to-survive-kofi-annan-will-outline.html)  [JSON](/news/2003/09/21/united-nations-leaders-of-the-united-nations-are-concerned-if-change-can-give-it-the-freedom-it-needs-to-survive-kofi-annan-will-outline.json)  [XML](/news/2003/09/21/united-nations-leaders-of-the-united-nations-are-concerned-if-change-can-give-it-the-freedom-it-needs-to-survive-kofi-annan-will-outline.xml)  
+
 ### [2003-09-21](/news/2003/09/21/index.md)
 
+##### United Nations
 #  United Nations: Leaders of the United Nations are concerned if change can give it the freedom it needs to survive. Kofi Annan will outline plans for reform at the United Nations General Assembly next week. Annan states that only "radical" revisions will likely preserve it.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/28/voting-begins-on-a-new-serbian-constitution-that-would-make-kosovo-officially-a-part-of-serbia-voter-turnout-on-day-one-was-low.html)  [JSON](/news/2006/10/28/voting-begins-on-a-new-serbian-constitution-that-would-make-kosovo-officially-a-part-of-serbia-voter-turnout-on-day-one-was-low.json)  [XML](/news/2006/10/28/voting-begins-on-a-new-serbian-constitution-that-would-make-kosovo-officially-a-part-of-serbia-voter-turnout-on-day-one-was-low.xml)  
+
 ### [2006-10-28](/news/2006/10/28/index.md)
 
+##### Serbian constitutional referendum, 2006
 #  Voting begins on a new Serbian constitution that would make Kosovo officially a part of Serbia; voter turnout on day one was low. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/6090392.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/17/malaysia-seizes-suspected-nuclear-parts-in-a-chinese-ship-bound-for-iran.html)  [JSON](/news/2011/03/17/malaysia-seizes-suspected-nuclear-parts-in-a-chinese-ship-bound-for-iran.json)  [XML](/news/2011/03/17/malaysia-seizes-suspected-nuclear-parts-in-a-chinese-ship-bound-for-iran.xml)  
+
 ### [2011-03-17](/news/2011/03/17/index.md)
 
+##### Malaysia
 # Malaysia seizes "suspected nuclear parts" in a Chinese ship bound for Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyodo](http://english.kyodonews.jp/news/2011/03/78989.html)
 

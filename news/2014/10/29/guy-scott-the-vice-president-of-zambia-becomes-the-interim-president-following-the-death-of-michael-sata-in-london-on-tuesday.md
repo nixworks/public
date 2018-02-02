@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/29/guy-scott-the-vice-president-of-zambia-becomes-the-interim-president-following-the-death-of-michael-sata-in-london-on-tuesday.html)  [JSON](/news/2014/10/29/guy-scott-the-vice-president-of-zambia-becomes-the-interim-president-following-the-death-of-michael-sata-in-london-on-tuesday.json)  [XML](/news/2014/10/29/guy-scott-the-vice-president-of-zambia-becomes-the-interim-president-following-the-death-of-michael-sata-in-london-on-tuesday.xml)  
+
 ### [2014-10-29](/news/2014/10/29/index.md)
 
+##### Guy Scott
 # Guy Scott, the Vice-President of Zambia, becomes the interim President following the death of Michael Sata in London on Tuesday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/content/zambian-president-michael-sata-dies/2500221.html)
 

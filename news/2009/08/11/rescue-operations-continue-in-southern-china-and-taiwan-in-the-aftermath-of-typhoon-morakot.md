@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/11/rescue-operations-continue-in-southern-china-and-taiwan-in-the-aftermath-of-typhoon-morakot.html)  [JSON](/news/2009/08/11/rescue-operations-continue-in-southern-china-and-taiwan-in-the-aftermath-of-typhoon-morakot.json)  [XML](/news/2009/08/11/rescue-operations-continue-in-southern-china-and-taiwan-in-the-aftermath-of-typhoon-morakot.xml)  
+
 ### [2009-08-11](/news/2009/08/11/index.md)
 
+##### China
 #  Rescue operations continue in southern China and Taiwan in the aftermath of Typhoon Morakot. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1027888&lang=eng_news)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6790982.ece)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/10/29/the-prime-minister-of-israel-ehud-olmert-announces-that-he-has-been-diagnosed-with-early-stage-prostate-cancer.html)  [JSON](/news/2007/10/29/the-prime-minister-of-israel-ehud-olmert-announces-that-he-has-been-diagnosed-with-early-stage-prostate-cancer.json)  [XML](/news/2007/10/29/the-prime-minister-of-israel-ehud-olmert-announces-that-he-has-been-diagnosed-with-early-stage-prostate-cancer.xml)  
+
 ### [2007-10-29](/news/2007/10/29/index.md)
 
+##### Israeli Prime Minister
 #  The Prime Minister of Israel Ehud Olmert announces that he has been diagnosed with early-stage prostate cancer. 
 
 Prime Minister Ehud Olmert said that the early stage cancer was not life-threatening and would not distract from his work.
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2007/10/30/world/middleeast/30mideast.html?_r=1&hp&oref=slogin)
+1. [NYT](https://www.nytimes.com/2007/10/30/world/middleeast/30mideast.html?_r=1&hp&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/2007/10/30/world/30mideast.75.jpg)
 
 ### Related:

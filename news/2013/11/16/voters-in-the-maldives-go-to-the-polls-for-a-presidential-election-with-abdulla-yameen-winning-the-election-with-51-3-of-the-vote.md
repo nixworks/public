@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/16/voters-in-the-maldives-go-to-the-polls-for-a-presidential-election-with-abdulla-yameen-winning-the-election-with-51-3-of-the-vote.html)  [JSON](/news/2013/11/16/voters-in-the-maldives-go-to-the-polls-for-a-presidential-election-with-abdulla-yameen-winning-the-election-with-51-3-of-the-vote.json)  [XML](/news/2013/11/16/voters-in-the-maldives-go-to-the-polls-for-a-presidential-election-with-abdulla-yameen-winning-the-election-with-51-3-of-the-vote.xml)  
+
 ### [2013-11-16](/news/2013/11/16/index.md)
 
+##### Maldives
 # Voters in the Maldives go to the polls for a presidential election with Abdulla Yameen winning the election with 51.3% of the vote. 
 
 Abdulla Yameen is to be sworn in as president of the Maldives after a surprise win in the election run-off.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-11-17/an-yameen-defeats-former-president-nasheed-in-maldives-run-off-/5097280)
 1. [Cover Image](http://www.abc.net.au/news/image/5097530-1x1-700x700.jpg)

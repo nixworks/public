@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/6/an-earthquake-measuring-6-9-on-the-richter-scale-occurs-in-the-papua-province-of-indonesia-and-kills-at-least-23-people.html)  [JSON](/news/2004/02/6/an-earthquake-measuring-6-9-on-the-richter-scale-occurs-in-the-papua-province-of-indonesia-and-kills-at-least-23-people.json)  [XML](/news/2004/02/6/an-earthquake-measuring-6-9-on-the-richter-scale-occurs-in-the-papua-province-of-indonesia-and-kills-at-least-23-people.xml)  
+
 ### [2004-02-6](/news/2004/02/6/index.md)
 
+##### earthquake
 #  An earthquake, measuring 6.9 on the Richter scale, occurs in the Papua province of Indonesia and kills at least 23 people.
 
 

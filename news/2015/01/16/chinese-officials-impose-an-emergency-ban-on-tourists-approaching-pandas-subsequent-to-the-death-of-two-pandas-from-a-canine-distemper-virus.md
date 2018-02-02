@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/01/16/chinese-officials-impose-an-emergency-ban-on-tourists-approaching-pandas-subsequent-to-the-death-of-two-pandas-from-a-canine-distemper-virus.html)  [JSON](/news/2015/01/16/chinese-officials-impose-an-emergency-ban-on-tourists-approaching-pandas-subsequent-to-the-death-of-two-pandas-from-a-canine-distemper-virus.json)  [XML](/news/2015/01/16/chinese-officials-impose-an-emergency-ban-on-tourists-approaching-pandas-subsequent-to-the-death-of-two-pandas-from-a-canine-distemper-virus.xml)  
+
 ### [2015-01-16](/news/2015/01/16/index.md)
 
+##### panda
 # Chinese officials impose an emergency ban on tourists approaching pandas subsequent to the death of two pandas from a canine distemper virus. 
 
-Chinese authorities are imposing an emergency ban on tourists approaching pandas after two died recently from a measles-like virus.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2015/01/16/china-pandas-deadly-virus/21863317/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/world/2015/01/16/china-pandas-deadly-virus/21863317/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

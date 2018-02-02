@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/7/australian-mining-and-materials-company-arrium-g
 
 ### [2016-04-7](/news/2016/04/7/index.md)
 
+##### Australia
 # Australian mining and materials company Arrium goes into voluntary administration with 7,000 jobs under threat in Australia, including 1,000 at the Whyalla Steelworks in South Australia. 
 
 More than 1,000 jobs could be axed at Whyalla but more than 6,700 nationwide are under a cloud as Arrium goes into voluntary administration.

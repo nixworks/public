@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/10/at-least-27-people-are-killed-and-dozens-are-wounded-in-conflicts-between-inmates-and-guards-at-welikada-prison-in-colombo-the-capital-city.html)  [JSON](/news/2012/11/10/at-least-27-people-are-killed-and-dozens-are-wounded-in-conflicts-between-inmates-and-guards-at-welikada-prison-in-colombo-the-capital-city.json)  [XML](/news/2012/11/10/at-least-27-people-are-killed-and-dozens-are-wounded-in-conflicts-between-inmates-and-guards-at-welikada-prison-in-colombo-the-capital-city.xml)  
+
 ### [2012-11-10](/news/2012/11/10/index.md)
 
+##### conflicts
 # At least 27 people are killed and dozens are wounded in conflicts between inmates and guards at Welikada prison in Colombo, the capital city of Sri Lanka. 
 
 At least 27 people are killed as clashes erupt between inmates and guards at a prison in the Sri Lankan capital, Colombo, authorities say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20267735)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64050000/jpg/_64050184_64050183.jpg)

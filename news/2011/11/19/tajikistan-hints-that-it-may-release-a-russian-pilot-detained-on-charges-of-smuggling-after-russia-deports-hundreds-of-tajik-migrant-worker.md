@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/11/19/tajikistan-hints-that-it-may-release-a-russian-pilot-detained-on-charges-of-smuggling-after-russia-deports-hundreds-of-tajik-migrant-worker.html)  [JSON](/news/2011/11/19/tajikistan-hints-that-it-may-release-a-russian-pilot-detained-on-charges-of-smuggling-after-russia-deports-hundreds-of-tajik-migrant-worker.json)  [XML](/news/2011/11/19/tajikistan-hints-that-it-may-release-a-russian-pilot-detained-on-charges-of-smuggling-after-russia-deports-hundreds-of-tajik-migrant-worker.xml)  
+
 ### [2011-11-19](/news/2011/11/19/index.md)
 
+##### Tajikistan
 # Tajikistan hints that it may release a Russian pilot detained on charges of smuggling, after Russia deports hundreds of Tajik migrant workers. 
 
 Tajikistan has suggested it could free a Russian pilot sentenced to eight and a half years in jail after an extraordinary backlash from Moscow threatened to ruin the Central Asian country&#039;s entire economy.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/tajikistan-says-it-may-release-russian-pilot-6264624.html)
+1. [The Independent](https://www.independent.co.uk/news/world/europe/tajikistan-says-it-may-release-russian-pilot-6264624.html)
 
 ### Related:
 
@@ -15,4 +19,4 @@ Tajikistan has suggested it could free a Russian pilot sentenced to eight and a 
 2. [ Russia, Belarus, Armenia, Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan agree to form a rapid reaction force based in the Federation. ](/news/2009/02/5/russia-belarus-armenia-kazakhstan-kyrgyzstan-tajikistan-and-uzbekistan-agree-to-form-a-rapid-reaction-force-based-in-the-federation.md) _Context: Russia, Tajikistan_
 3. [ The Shanghai Cooperation Organisation of Central Asian countries comprising the People's Republic of China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan meets in the Kyrgyz capital of Bishkek to discuss security issues. ](/news/2007/08/14/the-shanghai-cooperation-organisation-of-central-asian-countries-comprising-the-people-s-republic-of-china-russia-kazakhstan-kyrgyzstan.md) _Context: Russia, Tajikistan_
 4. [ A Russian far right group calling itself "National Socialism-White Power" publishes a video on the Internet showing the execution of two men, one from Tajikistan and the other one from Dagestan. Russian authorities investigate the video. ](/news/2007/08/14/a-russian-far-right-group-calling-itself-national-socialism-white-power-publishes-a-video-on-the-internet-showing-the-execution-of-two-me.md) _Context: Russia, Tajikistan_
-5. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Russia_
+5. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_

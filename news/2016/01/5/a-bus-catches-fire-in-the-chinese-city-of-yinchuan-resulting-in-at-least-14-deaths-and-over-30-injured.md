@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/5/a-bus-catches-fire-in-the-chinese-city-of-yinchu
 
 ### [2016-01-5](/news/2016/01/5/index.md)
 
+##### Yinchuan
 # A bus catches fire in the Chinese city of Yinchuan resulting in at least 14 deaths and over 30 injured. 
 
 A Chinese man upset over a financial dispute set fire to a moving bus and fled as the flames trapped people inside, killing 17 of them and injuring 32, authorities and state media said.

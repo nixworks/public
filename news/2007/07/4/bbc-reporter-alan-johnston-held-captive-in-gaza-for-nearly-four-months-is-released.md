@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/4/bbc-reporter-alan-johnston-held-captive-in-gaza-for-nearly-four-months-is-released.html)  [JSON](/news/2007/07/4/bbc-reporter-alan-johnston-held-captive-in-gaza-for-nearly-four-months-is-released.json)  [XML](/news/2007/07/4/bbc-reporter-alan-johnston-held-captive-in-gaza-for-nearly-four-months-is-released.xml)  
+
 ### [2007-07-4](/news/2007/07/4/index.md)
 
+##### BBC
 #  BBC reporter Alan Johnston, held captive in Gaza for nearly four months, is released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6267928.stm)
 2. [Reuters](http://today.reuters.co.uk/news/articlenews.aspx?type=topNews&storyid=2007-07-04T005448Z_01_MAC374393_RTRUKOC_0_UK-PALESTINIANS-JOURNALIST-FREED.xml)

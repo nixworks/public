@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/10/a-driver-intentionally-drives-into-a-group-of-s
 
 ### [2017-11-10](/news/2017/11/10/index.md)
 
+##### Toulouse
 # A driver intentionally drives into a group of students near Toulouse, France. Three injured people are taken to hospital. A suspect has been arrested. Police are not treating this incident as connected to terrorism. 
 
 The driver of the car was arrested after the apparently deliberate attack outside a college.

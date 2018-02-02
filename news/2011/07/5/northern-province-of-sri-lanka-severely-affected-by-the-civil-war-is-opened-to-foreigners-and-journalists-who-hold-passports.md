@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/5/northern-province-of-sri-lanka-severely-affected-by-the-civil-war-is-opened-to-foreigners-and-journalists-who-hold-passports.html)  [JSON](/news/2011/07/5/northern-province-of-sri-lanka-severely-affected-by-the-civil-war-is-opened-to-foreigners-and-journalists-who-hold-passports.json)  [XML](/news/2011/07/5/northern-province-of-sri-lanka-severely-affected-by-the-civil-war-is-opened-to-foreigners-and-journalists-who-hold-passports.xml)  
+
 ### [2011-07-5](/news/2011/07/5/index.md)
 
+##### Northern Province
 # Northern Province of Sri Lanka, severely affected by the civil war, is opened to foreigners and journalists who hold passports. 
 
 Officials say foreign passport holders will now be allowed to freely visit northern Sri Lanka, much of which was severely affected by the 26-year civil war.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-14022616)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53858000/jpg/_53858421_dance_afp.jpg)

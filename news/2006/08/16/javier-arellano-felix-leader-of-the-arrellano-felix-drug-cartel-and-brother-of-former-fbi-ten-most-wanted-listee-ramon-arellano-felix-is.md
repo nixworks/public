@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/16/javier-arellano-felix-leader-of-the-arrellano-felix-drug-cartel-and-brother-of-former-fbi-ten-most-wanted-listee-ramon-arellano-felix-is.html)  [JSON](/news/2006/08/16/javier-arellano-felix-leader-of-the-arrellano-felix-drug-cartel-and-brother-of-former-fbi-ten-most-wanted-listee-ramon-arellano-felix-is.json)  [XML](/news/2006/08/16/javier-arellano-felix-leader-of-the-arrellano-felix-drug-cartel-and-brother-of-former-fbi-ten-most-wanted-listee-ramon-arellano-felix-is.xml)  
+
 ### [2006-08-16](/news/2006/08/16/index.md)
 
+##### Javier Arellano Flix
 #  Javier Arellano Flix, leader of the Arrellano Flix drug cartel and brother of former FBI Ten Most Wanted listee Ramn Arellano Flix, is arrested by the United States Coast Guard in a boat in the Gulf of California off La Paz, Baja California Sur, Mexico. 
 
 Authorities apprehend Mexican drug kingpin Javier Arellano-Felix, leader of a violent gang responsible for digging drug-smuggling tunnels under the U.S. border.
 
 
-### Source:
+### Sources:
 
 1. [FoxNews.com](http://www.foxnews.com/story/0,2933,208700,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

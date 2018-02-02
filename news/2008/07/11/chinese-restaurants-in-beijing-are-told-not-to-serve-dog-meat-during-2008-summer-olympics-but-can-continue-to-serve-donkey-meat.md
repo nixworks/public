@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/11/chinese-restaurants-in-beijing-are-told-not-to-serve-dog-meat-during-2008-summer-olympics-but-can-continue-to-serve-donkey-meat.html)  [JSON](/news/2008/07/11/chinese-restaurants-in-beijing-are-told-not-to-serve-dog-meat-during-2008-summer-olympics-but-can-continue-to-serve-donkey-meat.json)  [XML](/news/2008/07/11/chinese-restaurants-in-beijing-are-told-not-to-serve-dog-meat-during-2008-summer-olympics-but-can-continue-to-serve-donkey-meat.xml)  
+
 ### [2008-07-11](/news/2008/07/11/index.md)
 
+##### Chinese
 #  Chinese restaurants in Beijing are told not to serve dog meat during 2008 Summer Olympics, but can continue to serve Donkey meat 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/World/Its_a_Mad_Mad_World/Bejing_restaurants_to_take_dog_meat_off_menu_for_Olympics/articleshow/3221399.cms)
 

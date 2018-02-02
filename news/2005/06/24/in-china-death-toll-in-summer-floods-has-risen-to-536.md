@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/24/in-china-death-toll-in-summer-floods-has-risen-to-536.html)  [JSON](/news/2005/06/24/in-china-death-toll-in-summer-floods-has-risen-to-536.json)  [XML](/news/2005/06/24/in-china-death-toll-in-summer-floods-has-risen-to-536.xml)  
+
 ### [2005-06-24](/news/2005/06/24/index.md)
 
+##### China
 #  In China, death toll in summer floods has risen to 536 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/PEK256165.htm)
 2. [Xinhua](http://news.xinhuanet.com/english/2005-06/24/content_3127981.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/29/mexican-drug-war-the-mexican-los-zetas-drug-cartel-threatens-to-launch-a-war-in-northern-guatemala-where-the-government-declared-a-state-o.html)  [JSON](/news/2010/12/29/mexican-drug-war-the-mexican-los-zetas-drug-cartel-threatens-to-launch-a-war-in-northern-guatemala-where-the-government-declared-a-state-o.json)  [XML](/news/2010/12/29/mexican-drug-war-the-mexican-los-zetas-drug-cartel-threatens-to-launch-a-war-in-northern-guatemala-where-the-government-declared-a-state-o.xml)  
+
 ### [2010-12-29](/news/2010/12/29/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: The Mexican Los Zetas drug cartel threatens to launch a war in northern Guatemala where the government declared a "state of siege". 
 
 Group claiming to belong to Zetas cartel issues warning on radio broadcasts after Guatemalan forces launch crackdown.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/12/2010122941020654735.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/29/2010122942929409580_20.jpg)

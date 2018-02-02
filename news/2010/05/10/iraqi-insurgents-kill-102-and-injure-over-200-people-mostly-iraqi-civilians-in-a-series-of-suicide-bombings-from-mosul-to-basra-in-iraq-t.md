@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/10/iraqi-insurgents-kill-102-and-injure-over-200-people-mostly-iraqi-civilians-in-a-series-of-suicide-bombings-from-mosul-to-basra-in-iraq-t.html)  [JSON](/news/2010/05/10/iraqi-insurgents-kill-102-and-injure-over-200-people-mostly-iraqi-civilians-in-a-series-of-suicide-bombings-from-mosul-to-basra-in-iraq-t.json)  [XML](/news/2010/05/10/iraqi-insurgents-kill-102-and-injure-over-200-people-mostly-iraqi-civilians-in-a-series-of-suicide-bombings-from-mosul-to-basra-in-iraq-t.xml)  
+
 ### [2010-05-10](/news/2010/05/10/index.md)
 
+##### Iraqi insurgency
 # Iraqi insurgents kill 102 and injure over 200 people, mostly Iraqi civilians, in a series of suicide bombings from Mosul to Basra in Iraq, the highest number in one day this year, and jeopardizing a planned US withdrawal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/iraq/article7122359.ece)
 

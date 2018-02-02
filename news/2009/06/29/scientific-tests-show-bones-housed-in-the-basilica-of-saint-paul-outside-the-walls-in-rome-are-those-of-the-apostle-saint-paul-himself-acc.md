@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/29/scientific-tests-show-bones-housed-in-the-basilica-of-saint-paul-outside-the-walls-in-rome-are-those-of-the-apostle-saint-paul-himself-acc.html)  [JSON](/news/2009/06/29/scientific-tests-show-bones-housed-in-the-basilica-of-saint-paul-outside-the-walls-in-rome-are-those-of-the-apostle-saint-paul-himself-acc.json)  [XML](/news/2009/06/29/scientific-tests-show-bones-housed-in-the-basilica-of-saint-paul-outside-the-walls-in-rome-are-those-of-the-apostle-saint-paul-himself-acc.xml)  
+
 ### [2009-06-29](/news/2009/06/29/index.md)
 
+##### bone
 #  Scientific tests show bones housed in the Basilica of Saint Paul Outside the Walls in Rome are those of the apostle Saint Paul himself, according to Pope Benedict XVI. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/europe/06/29/vatican.st.paul.bones/index.html?iref=mpstoryview)
 

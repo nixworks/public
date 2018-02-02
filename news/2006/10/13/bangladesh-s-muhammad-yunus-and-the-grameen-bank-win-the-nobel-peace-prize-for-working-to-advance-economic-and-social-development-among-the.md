@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/13/bangladesh-s-muhammad-yunus-and-the-grameen-bank-win-the-nobel-peace-prize-for-working-to-advance-economic-and-social-development-among-the.html)  [JSON](/news/2006/10/13/bangladesh-s-muhammad-yunus-and-the-grameen-bank-win-the-nobel-peace-prize-for-working-to-advance-economic-and-social-development-among-the.json)  [XML](/news/2006/10/13/bangladesh-s-muhammad-yunus-and-the-grameen-bank-win-the-nobel-peace-prize-for-working-to-advance-economic-and-social-development-among-the.xml)  
+
 ### [2006-10-13](/news/2006/10/13/index.md)
 
+##### Bangladesh
 #  Bangladesh's Muhammad Yunus and the Grameen Bank win the Nobel Peace Prize for working to advance economic and social development among the poor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=20601087&sid=a85ws9TxWiUA)
 2. [Nobel Foundation](http://nobelprize.org/nobel_prizes/peace/laureates/2006/index.html)

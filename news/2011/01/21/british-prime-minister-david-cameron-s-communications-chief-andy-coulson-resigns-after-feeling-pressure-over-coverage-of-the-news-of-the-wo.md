@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2011/01/21/british-prime-minister-david-cameron-s-communications-chief-andy-coulson-resigns-after-feeling-pressure-over-coverage-of-the-news-of-the-wo.html)  [JSON](/news/2011/01/21/british-prime-minister-david-cameron-s-communications-chief-andy-coulson-resigns-after-feeling-pressure-over-coverage-of-the-news-of-the-wo.json)  [XML](/news/2011/01/21/british-prime-minister-david-cameron-s-communications-chief-andy-coulson-resigns-after-feeling-pressure-over-coverage-of-the-news-of-the-wo.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### David Cameron
 # British prime minister David Cameron's communications chief Andy Coulson resigns after feeling pressure over coverage of the "News of the World" phone hacking scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-12251456)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/50903000/jpg/_50903858_coulson304in_afp.jpg)
+
+### Changes:
+
+1. [British prime minister David Cameron's communications chief Andy Coulson resigns after feeling pressure over coverage of the ''News of the World'' phone hacking scandal. ](/news/2011/01/21/british-prime-minister-david-cameron-s-communications-chief-andy-coulson-resigns-after-feeling-pressure-over-coverage-of-the-news-of-the-w.md) _2017-08-25 03:31:52 (First version)_
+1. [British prime minister David Cameron's communications chief Andy Coulson resigns after feeling pressure over coverage of the "News of the World" phone hacking scandal. ](/news/2011/01/21/british-prime-minister-david-cameron-s-communications-chief-andy-coulson-resigns-after-feeling-pressure-over-coverage-of-the-news-of-the-wo.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [British Prime Minister David Cameron appears before the Leveson Inquiry. The hearing is told of his relationship with former News International Chief Executive Rebekah Brooks, while he says his decision to appoint Andy Coulson as his Director of Communications will haunt him. ](/news/2012/06/14/british-prime-minister-david-cameron-appears-before-the-leveson-inquiry-the-hearing-is-told-of-his-relationship-with-former-news-internatio.md) _Context: Andy Coulson, David Cameron_
 4. [Andy Coulson, former director of communications for British Prime Minister David Cameron, is detained for questioning by police investigating claims of perjury. ](/news/2012/05/30/andy-coulson-former-director-of-communications-for-british-prime-minister-david-cameron-is-detained-for-questioning-by-police-investigatin.md) _Context: Andy Coulson, David Cameron_
 5. [The BBC reports that former "News of the World" editor Andy Coulson continued to receive a severance pay package from News International while working as Director of Communications for the Conservative Party. ](/news/2011/08/23/the-bbc-reports-that-former-news-of-the-world-editor-andy-coulson-continued-to-receive-a-severance-pay-package-from-news-international-whi.md) _Context: Andy Coulson, News of the World_
-
-### Changes:
-
-1. [British prime minister David Cameron's communications chief Andy Coulson resigns after feeling pressure over coverage of the ''News of the World'' phone hacking scandal. ](/news/2011/01/21/british-prime-minister-david-cameron-s-communications-chief-andy-coulson-resigns-after-feeling-pressure-over-coverage-of-the-news-of-the-w.md) _2017-08-25 03:31:52 (First version)_
-1. [British prime minister David Cameron's communications chief Andy Coulson resigns after feeling pressure over coverage of the "News of the World" phone hacking scandal. ](/news/2011/01/21/british-prime-minister-david-cameron-s-communications-chief-andy-coulson-resigns-after-feeling-pressure-over-coverage-of-the-news-of-the-wo.md) _(Current version)_

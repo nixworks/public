@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2013/01/18/an-unknown-assailant-throws-acid-in-the-face-of-sergei-filin-who-is-the-artistic-director-of-the-bolshoi-theatre-leaving-him-partially-bli.html)  [JSON](/news/2013/01/18/an-unknown-assailant-throws-acid-in-the-face-of-sergei-filin-who-is-the-artistic-director-of-the-bolshoi-theatre-leaving-him-partially-bli.json)  [XML](/news/2013/01/18/an-unknown-assailant-throws-acid-in-the-face-of-sergei-filin-who-is-the-artistic-director-of-the-bolshoi-theatre-leaving-him-partially-bli.xml)  
+
 ### [2013-01-18](/news/2013/01/18/index.md)
 
+##### Sergei Filin
 # An unknown assailant throws acid in the face of Sergei Filin, who is the artistic director of the Bolshoi Theatre, leaving him partially blind. The attack is attributed to the current power struggle for the famed Russian opera house. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/E/EU_RUSSIA_BOLSHOI)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21076192)
-3. [Reuters](http://www.reuters.com/article/2013/01/18/russia-bolshoi-attack-idUSL6N0AN1DZ20130118)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/2013/01/18/russia-bolshoi-attack-idUSL6N0AN1DZ20130118)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

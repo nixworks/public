@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/14/microsoft-encarta-launches-a-nupedia-like-version-of-its-encyclopedia-where-anonymous-users-can-submit-their-new-or-edited-entries-to-be-ap.html)  [JSON](/news/2005/04/14/microsoft-encarta-launches-a-nupedia-like-version-of-its-encyclopedia-where-anonymous-users-can-submit-their-new-or-edited-entries-to-be-ap.json)  [XML](/news/2005/04/14/microsoft-encarta-launches-a-nupedia-like-version-of-its-encyclopedia-where-anonymous-users-can-submit-their-new-or-edited-entries-to-be-ap.xml)  
+
 ### [2005-04-14](/news/2005/04/14/index.md)
 
+##### Microsoft Encarta
 #  Microsoft Encarta launches a Nupedia-like version of its encyclopedia where anonymous users can submit their new or edited entries to be approved by a paid staff of editors. Server problems delayed the launch. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business Week](http://www.businessweek.com/ap/financialnews/D89ESGN01.htm?campaign_id=apn_tech_down)
 2. [Encarta Blog](http://spaces.msn.com/members/Encarta/Blog/cns!1pKov6pW19gvfZD4bZjOEp7A!143.entry)

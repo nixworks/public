@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/18/a-week-of-heavy-rains-and-flooding-in-south-chi
 
 ### [2016-06-18](/news/2016/06/18/index.md)
 
+##### South China
 # A week of heavy rains and flooding in south China results in at least 25 deaths, six people missing and 33,000 people displaced. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

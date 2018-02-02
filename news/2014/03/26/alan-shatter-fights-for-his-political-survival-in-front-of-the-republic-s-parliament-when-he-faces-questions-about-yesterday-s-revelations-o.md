@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2014/03/26/alan-shatter-fights-for-his-political-survival-in-front-of-the-republic-s-parliament-when-he-faces-questions-about-yesterday-s-revelations-o.html)  [JSON](/news/2014/03/26/alan-shatter-fights-for-his-political-survival-in-front-of-the-republic-s-parliament-when-he-faces-questions-about-yesterday-s-revelations-o.json)  [XML](/news/2014/03/26/alan-shatter-fights-for-his-political-survival-in-front-of-the-republic-s-parliament-when-he-faces-questions-about-yesterday-s-revelations-o.xml)  
+
 ### [2014-03-26](/news/2014/03/26/index.md)
 
+##### Alan Shatter
 # Alan Shatter fights for his political survival in front of the Republic's parliament when he faces questions about yesterday's revelations of decades-long nationwide bugging. 
 
 Alan Shatter to be questioned in parliament over claims of bugging in police stations after top police officer steps down
 
 
-### Source:
+### Sources:
 
 1. [Irish Independent](http://www.independent.ie/irish-news/courts/request-for-garda-phone-tapes-adjourns-ira-trial-30127742.html)
 2. [RTÉ News](http://www.rte.ie/news/2014/0326/604591-widespread-recording-of-calls-in-garda-stations/)
-3. [The Guardian](http://www.theguardian.com/world/2014/mar/26/ireland-justice-minister-alan-shatter-garda-bugging-scandal)
+3. [The Guardian](https://www.theguardian.com/world/2014/mar/26/ireland-justice-minister-alan-shatter-garda-bugging-scandal)
 4. [The Journal](http://www.thejournal.ie/gardagate-liveblog-1381710-Mar2014/)
 5. [The Journal](http://www.thejournal.ie/leo-varadkar-gardagate-1382532-Mar2014/)
 5. [Cover Image](https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/3/26/1395826328954/Alan-Shatter-011.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=507cdcdc7b029f551118f0acecb71310)

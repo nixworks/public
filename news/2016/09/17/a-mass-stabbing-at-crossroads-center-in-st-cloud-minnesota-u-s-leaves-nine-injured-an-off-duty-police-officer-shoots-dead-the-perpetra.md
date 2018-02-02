@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/17/a-mass-stabbing-at-crossroads-center-in-st-clou
 
 ### [2016-09-17](/news/2016/09/17/index.md)
 
+##### St. Cloud, Minnesota mall stabbing
 # A mass stabbing at Crossroads Center in St. Cloud, Minnesota, U.S., leaves nine injured. An off-duty police officer shoots dead the perpetrator, Dahir Adan. 
 
 

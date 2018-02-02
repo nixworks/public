@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/3/avatar-becomes-the-highest-grossing-film-in-the-u-s-and-canada-while-surpassing-the-2-billion-dollars-mark-in-worldwide-sales.html)  [JSON](/news/2010/02/3/avatar-becomes-the-highest-grossing-film-in-the-u-s-and-canada-while-surpassing-the-2-billion-dollars-mark-in-worldwide-sales.json)  [XML](/news/2010/02/3/avatar-becomes-the-highest-grossing-film-in-the-u-s-and-canada-while-surpassing-the-2-billion-dollars-mark-in-worldwide-sales.xml)  
+
 ### [2010-02-3](/news/2010/02/3/index.md)
 
+##### Avatar
 # "Avatar" becomes the highest grossing film in the U.S. and Canada while surpassing the 2 billion dollars mark in worldwide sales. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BoxOfficeMojo](http://boxofficemojo.com/alltime/domestic.htm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE6124O320100203)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/16/nunavut-general-election-2004-premier-paul-okalik-of-nunavut-canada-requests-a-dissolution-of-the-territory-s-legislature-and-an-electi.html)  [JSON](/news/2004/01/16/nunavut-general-election-2004-premier-paul-okalik-of-nunavut-canada-requests-a-dissolution-of-the-territory-s-legislature-and-an-electi.json)  [XML](/news/2004/01/16/nunavut-general-election-2004-premier-paul-okalik-of-nunavut-canada-requests-a-dissolution-of-the-territory-s-legislature-and-an-electi.xml)  
+
 ### [2004-01-16](/news/2004/01/16/index.md)
 
+##### Nunavut general election, 2004
 #  Nunavut general election, 2004: Premier Paul Okalik of Nunavut, Canada, requests a dissolution of the territory's legislature and an election call for February 16.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/29/tens-of-thousands-of-portuguese-rally-in-central-lisbon-against-the-government-s-austerity-measures-in-one-of-the-biggest-protests-in-recent.html)  [JSON](/news/2010/05/29/tens-of-thousands-of-portuguese-rally-in-central-lisbon-against-the-government-s-austerity-measures-in-one-of-the-biggest-protests-in-recent.json)  [XML](/news/2010/05/29/tens-of-thousands-of-portuguese-rally-in-central-lisbon-against-the-government-s-austerity-measures-in-one-of-the-biggest-protests-in-recent.xml)  
+
 ### [2010-05-29](/news/2010/05/29/index.md)
 
+##### Portugal
 # Tens of thousands of Portuguese rally in central Lisbon against the government's austerity measures in one of the biggest protests in recent years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/201052918121836562.html)
 1. [Cover Image](http://www.aljazeera.com)

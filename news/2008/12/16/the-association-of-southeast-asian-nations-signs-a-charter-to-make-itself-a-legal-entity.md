@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/16/the-association-of-southeast-asian-nations-signs-a-charter-to-make-itself-a-legal-entity.html)  [JSON](/news/2008/12/16/the-association-of-southeast-asian-nations-signs-a-charter-to-make-itself-a-legal-entity.json)  [XML](/news/2008/12/16/the-association-of-southeast-asian-nations-signs-a-charter-to-make-itself-a-legal-entity.xml)  
+
 ### [2008-12-16](/news/2008/12/16/index.md)
 
+##### ASEAN
 #  The Association of Southeast Asian Nations signs a charter to make itself a legal entity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/7783073.stm)
 

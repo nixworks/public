@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/10/somali-pirates-hijack-a-liberian-ship-80-nautical-miles-east-of-the-border-between-tanzania-and-mozambique-in-their-most-southerly-attack-y.html)  [JSON](/news/2010/12/10/somali-pirates-hijack-a-liberian-ship-80-nautical-miles-east-of-the-border-between-tanzania-and-mozambique-in-their-most-southerly-attack-y.json)  [XML](/news/2010/12/10/somali-pirates-hijack-a-liberian-ship-80-nautical-miles-east-of-the-border-between-tanzania-and-mozambique-in-their-most-southerly-attack-y.xml)  
+
 ### [2010-12-10](/news/2010/12/10/index.md)
 
+##### Somali pirates
 # Somali pirates hijack a Liberian ship 80 nautical miles east of the border between Tanzania and Mozambique, in their most southerly attack yet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/africa/12/10/somalia.pirates.hijacking/)
 

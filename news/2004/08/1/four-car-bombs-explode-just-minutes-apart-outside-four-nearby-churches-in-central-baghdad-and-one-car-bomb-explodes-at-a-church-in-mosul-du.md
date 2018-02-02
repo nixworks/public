@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/1/four-car-bombs-explode-just-minutes-apart-outside-four-nearby-churches-in-central-baghdad-and-one-car-bomb-explodes-at-a-church-in-mosul-du.html)  [JSON](/news/2004/08/1/four-car-bombs-explode-just-minutes-apart-outside-four-nearby-churches-in-central-baghdad-and-one-car-bomb-explodes-at-a-church-in-mosul-du.json)  [XML](/news/2004/08/1/four-car-bombs-explode-just-minutes-apart-outside-four-nearby-churches-in-central-baghdad-and-one-car-bomb-explodes-at-a-church-in-mosul-du.xml)  
+
 ### [2004-08-1](/news/2004/08/1/index.md)
 
+##### car bomb
 #  Four car bombs explode just minutes apart outside four nearby churches in central Baghdad and one car bomb explodes at a church in Mosul during Sunday evening services, killing 5 and injuring at least 46 people, witnesses say. The attacks appeared to be the first targeting churches during the 15-months of violent insurgency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/I/IRAQ_BAGHDAD_BLAST?SITE=PAYOK&SECTION=HOME)
 2. [CNN](http://www.cnn.com/2004/WORLD/meast/08/02/iraq.main/index.html)

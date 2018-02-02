@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/4/riots-break-out-in-harare-the-capital-of-zimbabw
 
 ### [2016-07-4](/news/2016/07/4/index.md)
 
+##### Harare
 # Riots break out in Harare, the capital of Zimbabwe, after police attempt to disperse a protest by the city's taxi drivers. 
 
 A protest by Zimbabwean taxi drivers against a police crackdown turned violent on Monday when residents joined in and hurled rocks at police, who fired teargas to disperse the rioters.

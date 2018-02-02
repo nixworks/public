@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/1/avraham-hirschson-resigns-as-the-finance-minister-of-israel-as-an-investigation-into-alleged-fraud-and-embezzlement-continues.html)  [JSON](/news/2007/07/1/avraham-hirschson-resigns-as-the-finance-minister-of-israel-as-an-investigation-into-alleged-fraud-and-embezzlement-continues.json)  [XML](/news/2007/07/1/avraham-hirschson-resigns-as-the-finance-minister-of-israel-as-an-investigation-into-alleged-fraud-and-embezzlement-continues.xml)  
+
 ### [2007-07-1](/news/2007/07/1/index.md)
 
+##### Avraham Hirschson
 #  Avraham Hirschson resigns as the Finance Minister of Israel as an investigation into alleged fraud and embezzlement continues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [JTA](http://www.jta.org/cgi-bin/iowa/breaking/102780.html)
 

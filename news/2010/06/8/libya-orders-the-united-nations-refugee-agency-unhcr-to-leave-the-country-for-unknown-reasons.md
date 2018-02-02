@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/8/libya-orders-the-united-nations-refugee-agency-unhcr-to-leave-the-country-for-unknown-reasons.html)  [JSON](/news/2010/06/8/libya-orders-the-united-nations-refugee-agency-unhcr-to-leave-the-country-for-unknown-reasons.json)  [XML](/news/2010/06/8/libya-orders-the-united-nations-refugee-agency-unhcr-to-leave-the-country-for-unknown-reasons.xml)  
+
 ### [2010-06-8](/news/2010/06/8/index.md)
 
+##### Libya
 # Libya orders the United Nations refugee agency, UNHCR, to leave the country for unknown reasons. 
 
 UNHCR says it was told to cease operations without explanation.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/06/201068125618708673.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10264625.stm)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/08/4/ukrainian-government-forces-recapture-control-of-yasynuvata-from-pro-russian-insurgents-government-troops-have-now-all-but-encircled-the-re.html)  [JSON](/news/2014/08/4/ukrainian-government-forces-recapture-control-of-yasynuvata-from-pro-russian-insurgents-government-troops-have-now-all-but-encircled-the-re.json)  [XML](/news/2014/08/4/ukrainian-government-forces-recapture-control-of-yasynuvata-from-pro-russian-insurgents-government-troops-have-now-all-but-encircled-the-re.xml)  
+
 ### [2014-08-4](/news/2014/08/4/index.md)
 
+##### Yasynuvata
 # Ukrainian government forces recapture control of Yasynuvata from pro-Russian insurgents; government troops have now all but encircled the rebels' second-largest stronghold of Luhansk, and rebels declared a "state of siege" in Donetsk. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/topNews/idCAKBN0G40YI20140804)
-2. [Washington Post](http://www.washingtonpost.com/world/europe/ukrainian-military-urges-donetsk-residents-to-evacuate-clearing-way-for-advance/2014/08/04/4d060f6c-1bcb-11e4-82f9-2cd6fa8da5c4_story.html)
+2. [Washington Post](https://www.washingtonpost.com/world/europe/ukrainian-military-urges-donetsk-residents-to-evacuate-clearing-way-for-advance/2014/08/04/4d060f6c-1bcb-11e4-82f9-2cd6fa8da5c4_story.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/29/a-judge-orders-the-arrest-of-toma-s-yarrington-a-former-governor-of-the-mexican-state-of-tamaulipas-for-allegedly-fomenting-drug-trafficki.html)  [JSON](/news/2012/08/29/a-judge-orders-the-arrest-of-toma-s-yarrington-a-former-governor-of-the-mexican-state-of-tamaulipas-for-allegedly-fomenting-drug-trafficki.json)  [XML](/news/2012/08/29/a-judge-orders-the-arrest-of-toma-s-yarrington-a-former-governor-of-the-mexican-state-of-tamaulipas-for-allegedly-fomenting-drug-trafficki.xml)  
+
 ### [2012-08-29](/news/2012/08/29/index.md)
 
+##### Tomas Yarrington
 # A judge orders the arrest of Tomas Yarrington, a former governor of the Mexican state of Tamaulipas, for allegedly fomenting drug trafficking. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Monitor](http://www.themonitor.com/articles/mexico-63405-orders-arrest.html)
 

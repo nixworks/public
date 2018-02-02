@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/7/nasa-delays-the-launch-of-the-space-shuttle-discovery-on-sts-116-until-saturday.html)  [JSON](/news/2006/12/7/nasa-delays-the-launch-of-the-space-shuttle-discovery-on-sts-116-until-saturday.json)  [XML](/news/2006/12/7/nasa-delays-the-launch-of-the-space-shuttle-discovery-on-sts-116-until-saturday.xml)  
+
 ### [2006-12-7](/news/2006/12/7/index.md)
 
+##### NASA
 #  NASA delays the launch of the Space Shuttle "Discovery" on STS-116 until Saturday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/TECH/space/12/07/space.shuttle.ap/index.html?section=cnn_latest)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/13/jon-mcgregor-wins-the-2012-international-impac-dublin-literary-award-the-world-s-richest-literary-prize.html)  [JSON](/news/2012/06/13/jon-mcgregor-wins-the-2012-international-impac-dublin-literary-award-the-world-s-richest-literary-prize.json)  [XML](/news/2012/06/13/jon-mcgregor-wins-the-2012-international-impac-dublin-literary-award-the-world-s-richest-literary-prize.xml)  
+
 ### [2012-06-13](/news/2012/06/13/index.md)
 
+##### Jon McGregor
 # Jon McGregor wins the 2012 International IMPAC Dublin Literary Award, the world's richest literary prize. 
 
 British writer Jon McGregor has won the &euro;100,000 ($131,000 Cdn) 2012 International Impac Dublin Literary Award for his novel Even the Dogs. 
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/news/arts/story/2012/06/13/impac-dublin-award.html)
 2. [The Guardian](http://www.guardian.co.uk/books/2012/jun/13/jon-mcgregor-wins-impac-literary-award)

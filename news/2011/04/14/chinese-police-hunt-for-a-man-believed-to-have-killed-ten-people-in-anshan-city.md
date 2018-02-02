@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/14/chinese-police-hunt-for-a-man-believed-to-have-killed-ten-people-in-anshan-city.html)  [JSON](/news/2011/04/14/chinese-police-hunt-for-a-man-believed-to-have-killed-ten-people-in-anshan-city.json)  [XML](/news/2011/04/14/chinese-police-hunt-for-a-man-believed-to-have-killed-ten-people-in-anshan-city.xml)  
+
 ### [2011-04-14](/news/2011/04/14/index.md)
 
+##### Chinese police
 # Chinese police hunt for a man believed to have killed ten people in Anshan City. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua via CRI](http://english.cri.cn/6909/2011/04/15/2724s632126.htm)
 

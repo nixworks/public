@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/11/3/the-united-states-border-patrol-finds-a-sophisticated-tunnel-between-tijuana-in-mexico-and-otay-mesa-california-used-by-drug-smugglers.html)  [JSON](/news/2010/11/3/the-united-states-border-patrol-finds-a-sophisticated-tunnel-between-tijuana-in-mexico-and-otay-mesa-california-used-by-drug-smugglers.json)  [XML](/news/2010/11/3/the-united-states-border-patrol-finds-a-sophisticated-tunnel-between-tijuana-in-mexico-and-otay-mesa-california-used-by-drug-smugglers.xml)  
+
 ### [2010-11-3](/news/2010/11/3/index.md)
 
+##### U.S. Border Patrol
 # The United States Border Patrol finds a sophisticated tunnel between Tijuana in Mexico and Otay Mesa, California, used by drug smugglers. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6A27B120101104)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6A27B120101104)
 1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20101104&t=2&i=241426994&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-04T131044Z_01_BTRE6A310LY00_RTROPTP_0_USA-SECURITY-BORDER)
 
 ### Related:

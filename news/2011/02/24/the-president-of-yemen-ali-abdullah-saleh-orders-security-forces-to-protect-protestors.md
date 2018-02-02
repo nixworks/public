@@ -1,26 +1,30 @@
+
+Formats: [HTML](/news/2011/02/24/the-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.html)  [JSON](/news/2011/02/24/the-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.json)  [XML](/news/2011/02/24/the-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.xml)  
+
 ### [2011-02-24](/news/2011/02/24/index.md)
 
+##### President
 # The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Observer Today](http://www.observertoday.com/page/content.detail/id/131015/Yemen-president-says-he-wants-protesters-protected-.html?isap=1&nav=5022)
 2. [Al Arabiya](http://www.alarabiya.net/articles/2011/02/24/139031.html)
 2. [Cover Image](http://d14e0irai0gcaa.cloudfront.net/www.observertoday.com/images/2017/01/31094407/fb.jpg)
-
-### Related:
-
-1. [Yemeni President Ali Abdullah Saleh announces plans to move towards a parliamentary democracy, following weeks of demonstrations. ](/news/2011/03/10/yemeni-president-ali-abdullah-saleh-announces-plans-to-move-towards-a-parliamentary-democracy-following-weeks-of-demonstrations.md) _Context: 2011 Yemeni protests, President, Saleh_
-2. [Yemeni uprising:A truce between the Yemeni government of President Ali Abdullah Saleh and opposing tribal groups breaks down increasing the chance of a civil war. ](/news/2011/05/31/yemeni-uprising-a-truce-between-the-yemeni-government-of-president-ali-abdullah-saleh-and-opposing-tribal-groups-breaks-down-increasing-the.md) _Context: President, Saleh_
-3. [Government planes bomb tribesmen opposed to President Ali Abdullah Saleh. ](/news/2011/05/27/government-planes-bomb-tribesmen-opposed-to-president-ali-abdullah-saleh.md) _Context: President, Saleh_
-4. [Large explosions are reported in the Yemeni capital of Sana'a in the midst of ongoing protests against President Ali Abdullah Saleh; opposition forces claim that the violence threatens to escalate into a civil war. ](/news/2011/05/26/large-explosions-are-reported-in-the-yemeni-capital-of-sana-a-in-the-midst-of-ongoing-protests-against-president-ali-abdullah-saleh-opposit.md) _Context: President, Saleh_
-5. [2011 Yemeni uprising:The Gulf Cooperation Council suspends mediation efforts in Yemen after President Ali Abdullah Saleh refuses to sign a transition agreement for the third time. ](/news/2011/05/23/2011-yemeni-uprising-the-gulf-cooperation-council-suspends-mediation-efforts-in-yemen-after-president-ali-abdullah-saleh-refuses-to-sign-a-t.md) _Context: President, Saleh_
 
 ### Changes:
 
 1. [2011 Yemeni protests:The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/2011-yemeni-protests-pthe-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md) _2017-08-25 03:32:19 (First version)_
 2. [2011 Yemeni protests:: The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/2011-yemeni-protests-the-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md) _2017-08-27 03:32:28 (Update)_
 2. [The President of Yemen Ali Abdullah Saleh orders security forces to protect protestors. ](/news/2011/02/24/the-president-of-yemen-ali-abdullah-saleh-orders-security-forces-to-protect-protestors.md) _(Current version)_
+
+### Related:
+
+1. [The President of Yemen Ali Abdullah Saleh offers to stand down by the end of the year and warns of a "civil war" as 2011 Yemeni protests continue. ](/news/2011/03/23/the-president-of-yemen-ali-abdullah-saleh-offers-to-stand-down-by-the-end-of-the-year-and-warns-of-a-civil-war-as-2011-yemeni-protests-con.md) _Context: 2011 Yemeni protests, Ali Abdullah Saleh, President_
+2. [2011 Yemeni protests: President of Yemen Ali Abdullah Saleh backtracks on his plan to rule Yemen for life and to then allow his son to inherit his rule during an emergency session of parliament ahead of tomorrow's "day of rage" against his three-decade rule. ](/news/2011/02/2/2011-yemeni-protests-president-of-yemen-ali-abdullah-saleh-backtracks-on-his-plan-to-rule-yemen-for-life-and-to-then-allow-his-son-to-inher.md) _Context: 2011 Yemeni protests, Ali Abdullah Saleh, President_
+3. [Tens of thousands of people protest in the Yemeni capital Sana'a calling for an end to the government of President Ali Abdullah Saleh. ](/news/2011/01/27/tens-of-thousands-of-people-protest-in-the-yemeni-capital-sana-a-calling-for-an-end-to-the-government-of-president-ali-abdullah-saleh.md) _Context: 2011 Yemeni protests, Ali Abdullah Saleh, President_
+4. [Yemeni President Abd Rabbuh Mansur Hadi sacks Prime Minister and Vice President of Yemen Khaled Mahfoudh Bahah. Hadi named top general Ali Mohsen al-Ahmar as his new Vice President and appointed Ahmed Obeid bin Daghr, a former official in Saleh's General People's Congress as the new Prime Minister. ](/news/2016/04/3/yemeni-president-abd-rabbuh-mansur-hadi-sacks-prime-minister-and-vice-president-of-yemen-khaled-mahfoudh-bahah-hadi-named-top-general-ali-m.md) _Context: Ali Abdullah Saleh, President_
+5. [Saudi-led airstrikes target the Sana'a home of former President of Yemen Ali Abdullah Saleh. ](/news/2015/05/10/saudi-led-airstrikes-target-the-sana-a-home-of-former-president-of-yemen-ali-abdullah-saleh.md) _Context: Ali Abdullah Saleh, President_

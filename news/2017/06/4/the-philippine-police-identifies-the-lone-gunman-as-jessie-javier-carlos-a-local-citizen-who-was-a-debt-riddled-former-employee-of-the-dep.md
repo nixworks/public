@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/4/the-philippine-police-identifies-the-lone-gunman
 
 ### [2017-06-4](/news/2017/06/4/index.md)
 
+##### 2017 Resorts World Manila attack
 # The Philippine police identifies the lone gunman as Jessie Javier Carlos, a local citizen, who was a debt-riddled former employee of the Department of Finance. 
 
 

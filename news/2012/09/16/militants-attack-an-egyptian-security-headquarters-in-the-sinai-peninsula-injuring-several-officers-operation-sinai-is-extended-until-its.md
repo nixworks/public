@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/16/militants-attack-an-egyptian-security-headquarters-in-the-sinai-peninsula-injuring-several-officers-operation-sinai-is-extended-until-its.html)  [JSON](/news/2012/09/16/militants-attack-an-egyptian-security-headquarters-in-the-sinai-peninsula-injuring-several-officers-operation-sinai-is-extended-until-its.json)  [XML](/news/2012/09/16/militants-attack-an-egyptian-security-headquarters-in-the-sinai-peninsula-injuring-several-officers-operation-sinai-is-extended-until-its.xml)  
+
 ### [2012-09-16](/news/2012/09/16/index.md)
 
+##### Egypt
 # Militants attack an Egyptian security headquarters in the Sinai Peninsula, injuring several officers. Operation Sinai is extended "until its goals are achieved". 
 
 Anti-state fighters attack security headquarters in el-Arish with rocket-propelled grenades and machineguns.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/09/201291682915656385.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/9/16/2012916173351246734_20.jpg)

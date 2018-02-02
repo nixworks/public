@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/20/the-chinese-navy-issues-warnings-eight-times-as-a-united-states-navy-surveillance-plane-flies-over-manmade-islands-in-the-south-china-sea.html)  [JSON](/news/2015/05/20/the-chinese-navy-issues-warnings-eight-times-as-a-united-states-navy-surveillance-plane-flies-over-manmade-islands-in-the-south-china-sea.json)  [XML](/news/2015/05/20/the-chinese-navy-issues-warnings-eight-times-as-a-united-states-navy-surveillance-plane-flies-over-manmade-islands-in-the-south-china-sea.xml)  
+
 ### [2015-05-20](/news/2015/05/20/index.md)
 
+##### People's Liberation Army Navy
 # The Chinese navy issues warnings eight times as a United States Navy surveillance plane flies over manmade islands in the South China Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/05/20/politics/south-china-sea-navy-flight/)
 

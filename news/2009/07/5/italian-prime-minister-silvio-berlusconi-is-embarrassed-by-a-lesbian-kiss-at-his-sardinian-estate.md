@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/5/italian-prime-minister-silvio-berlusconi-is-embarrassed-by-a-lesbian-kiss-at-his-sardinian-estate.html)  [JSON](/news/2009/07/5/italian-prime-minister-silvio-berlusconi-is-embarrassed-by-a-lesbian-kiss-at-his-sardinian-estate.json)  [XML](/news/2009/07/5/italian-prime-minister-silvio-berlusconi-is-embarrassed-by-a-lesbian-kiss-at-his-sardinian-estate.xml)  
+
 ### [2009-07-5](/news/2009/07/5/index.md)
 
+##### Italy
 #  Italian Prime Minister Silvio Berlusconi is embarrassed by a lesbian kiss at his Sardinian estate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6638172.ece)
 

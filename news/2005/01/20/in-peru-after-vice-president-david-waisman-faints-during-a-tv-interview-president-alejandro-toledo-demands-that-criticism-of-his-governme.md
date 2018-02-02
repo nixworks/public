@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/20/in-peru-after-vice-president-david-waisman-faints-during-a-tv-interview-president-alejandro-toledo-demands-that-criticism-of-his-governme.html)  [JSON](/news/2005/01/20/in-peru-after-vice-president-david-waisman-faints-during-a-tv-interview-president-alejandro-toledo-demands-that-criticism-of-his-governme.json)  [XML](/news/2005/01/20/in-peru-after-vice-president-david-waisman-faints-during-a-tv-interview-president-alejandro-toledo-demands-that-criticism-of-his-governme.xml)  
+
 ### [2005-01-20](/news/2005/01/20/index.md)
 
+##### Peru
 #  In Peru, after vice president David Waisman faints during a TV interview, President Alejandro Toledo demands that criticism of his government be toned down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4190099.stm)
 

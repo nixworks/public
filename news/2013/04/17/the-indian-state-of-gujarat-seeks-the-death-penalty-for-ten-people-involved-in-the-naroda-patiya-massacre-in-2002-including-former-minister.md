@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/17/the-indian-state-of-gujarat-seeks-the-death-penalty-for-ten-people-involved-in-the-naroda-patiya-massacre-in-2002-including-former-minister.html)  [JSON](/news/2013/04/17/the-indian-state-of-gujarat-seeks-the-death-penalty-for-ten-people-involved-in-the-naroda-patiya-massacre-in-2002-including-former-minister.json)  [XML](/news/2013/04/17/the-indian-state-of-gujarat-seeks-the-death-penalty-for-ten-people-involved-in-the-naroda-patiya-massacre-in-2002-including-former-minister.xml)  
+
 ### [2013-04-17](/news/2013/04/17/index.md)
 
+##### India
 # The Indian state of Gujarat seeks the death penalty for ten people involved in the Naroda Patiya massacre in 2002 including former minister Maya Kodnani who had been earlier sentenced to prison sentences. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Zee News](http://zeenews.india.com/news/nation/naroda-patiya-case-guj-govt-to-seek-death-for-may_842716.html)
 

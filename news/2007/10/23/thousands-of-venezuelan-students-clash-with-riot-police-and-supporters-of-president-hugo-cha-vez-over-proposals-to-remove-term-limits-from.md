@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/23/thousands-of-venezuelan-students-clash-with-riot-police-and-supporters-of-president-hugo-cha-vez-over-proposals-to-remove-term-limits-from.html)  [JSON](/news/2007/10/23/thousands-of-venezuelan-students-clash-with-riot-police-and-supporters-of-president-hugo-cha-vez-over-proposals-to-remove-term-limits-from.json)  [XML](/news/2007/10/23/thousands-of-venezuelan-students-clash-with-riot-police-and-supporters-of-president-hugo-cha-vez-over-proposals-to-remove-term-limits-from.xml)  
+
 ### [2007-10-23](/news/2007/10/23/index.md)
 
+##### Venezuela
 #  Thousands of Venezuelan students clash with riot police and supporters of President Hugo Chavez over proposals to remove term limits from the presidency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7059309.stm)
 

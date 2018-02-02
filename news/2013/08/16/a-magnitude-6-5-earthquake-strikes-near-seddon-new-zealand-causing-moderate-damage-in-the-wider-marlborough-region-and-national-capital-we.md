@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/16/a-magnitude-6-5-earthquake-strikes-near-seddon-new-zealand-causing-moderate-damage-in-the-wider-marlborough-region-and-national-capital-we.html)  [JSON](/news/2013/08/16/a-magnitude-6-5-earthquake-strikes-near-seddon-new-zealand-causing-moderate-damage-in-the-wider-marlborough-region-and-national-capital-we.json)  [XML](/news/2013/08/16/a-magnitude-6-5-earthquake-strikes-near-seddon-new-zealand-causing-moderate-damage-in-the-wider-marlborough-region-and-national-capital-we.xml)  
+
 ### [2013-08-16](/news/2013/08/16/index.md)
 
+##### magnitude 6.5 earthquake
 # A magnitude 6.5 earthquake strikes near Seddon, New Zealand, causing moderate damage in the wider Marlborough region and national capital Wellington. 
 
 Marlborough bore the brunt of a rattling 6.6 quake, and a series of continuing aftershocks, that also sent people fleeing Wellington and caused havoc on roads.
 
 
-### Source:
+### Sources:
 
 1. [Fairfax NZ](http://www.stuff.co.nz/national/9051982/Earthquakes-rock-central-New-Zealand)
 1. [Cover Image](https://static2.stuff.co.nz/1376644168/487/9053487.jpg)

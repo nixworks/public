@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/21/arms-trader-jacques-monsieur-is-to-defend-himse
 
 ### [2017-04-21](/news/2017/04/21/index.md)
 
+##### Arms trader
 # Arms trader Jacques Monsieur is to defend himself again at a Brussels court against accusations of arms trafficking to Libya, Chad, Guinea-Bissau, Pakistan and Iran between 2006 and 2009. 
 
 

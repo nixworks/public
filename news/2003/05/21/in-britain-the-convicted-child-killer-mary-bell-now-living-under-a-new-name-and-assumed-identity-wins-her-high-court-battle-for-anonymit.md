@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/21/in-britain-the-convicted-child-killer-mary-bell-now-living-under-a-new-name-and-assumed-identity-wins-her-high-court-battle-for-anonymit.html)  [JSON](/news/2003/05/21/in-britain-the-convicted-child-killer-mary-bell-now-living-under-a-new-name-and-assumed-identity-wins-her-high-court-battle-for-anonymit.json)  [XML](/news/2003/05/21/in-britain-the-convicted-child-killer-mary-bell-now-living-under-a-new-name-and-assumed-identity-wins-her-high-court-battle-for-anonymit.xml)  
+
 ### [2003-05-21](/news/2003/05/21/index.md)
 
+##### Mary Bell
 #  In Britain, the convicted child-killer Mary Bell, now living under a new name and assumed identity, wins her High Court battle for anonymity.
 
 

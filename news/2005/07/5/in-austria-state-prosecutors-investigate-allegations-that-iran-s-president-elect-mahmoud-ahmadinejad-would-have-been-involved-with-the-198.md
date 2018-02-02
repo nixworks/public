@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/5/in-austria-state-prosecutors-investigate-allegations-that-iran-s-president-elect-mahmoud-ahmadinejad-would-have-been-involved-with-the-198.html)  [JSON](/news/2005/07/5/in-austria-state-prosecutors-investigate-allegations-that-iran-s-president-elect-mahmoud-ahmadinejad-would-have-been-involved-with-the-198.json)  [XML](/news/2005/07/5/in-austria-state-prosecutors-investigate-allegations-that-iran-s-president-elect-mahmoud-ahmadinejad-would-have-been-involved-with-the-198.xml)  
+
 ### [2005-07-5](/news/2005/07/5/index.md)
 
+##### Austria
 #  In Austria, state prosecutors investigate allegations that Iran's president-elect Mahmoud Ahmadinejad would have been involved with the 1989 assassination of Kurdish leader Abdul Rahman Ghassemlou in Vienna. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4653513.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L05705088.htm)

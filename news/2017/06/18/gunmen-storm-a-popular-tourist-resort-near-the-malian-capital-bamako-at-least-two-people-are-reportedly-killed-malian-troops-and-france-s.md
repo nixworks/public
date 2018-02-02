@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/18/gunmen-storm-a-popular-tourist-resort-near-the-
 
 ### [2017-06-18](/news/2017/06/18/index.md)
 
+##### June 2017 Bamako attack
 # Gunmen storm a popular tourist resort near the Malian capital, Bamako. At least two people are reportedly killed. Malian troops and France's Operation Barkhane counter-terrorist force are at the site. 
 
 Troops free 20 hostages, the government says, as the resort is attacked by suspected jihadists.

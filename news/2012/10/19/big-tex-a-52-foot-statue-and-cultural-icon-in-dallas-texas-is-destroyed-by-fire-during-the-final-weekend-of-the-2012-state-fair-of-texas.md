@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/19/big-tex-a-52-foot-statue-and-cultural-icon-in-dallas-texas-is-destroyed-by-fire-during-the-final-weekend-of-the-2012-state-fair-of-texas.html)  [JSON](/news/2012/10/19/big-tex-a-52-foot-statue-and-cultural-icon-in-dallas-texas-is-destroyed-by-fire-during-the-final-weekend-of-the-2012-state-fair-of-texas.json)  [XML](/news/2012/10/19/big-tex-a-52-foot-statue-and-cultural-icon-in-dallas-texas-is-destroyed-by-fire-during-the-final-weekend-of-the-2012-state-fair-of-texas.xml)  
+
 ### [2012-10-19](/news/2012/10/19/index.md)
 
+##### Big Tex
 # Big Tex, a 52-foot statue and cultural icon in Dallas, Texas, is destroyed by fire during the final weekend of the 2012 State Fair of Texas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57536300/iconic-statue-big-tex-goes-up-in-flames/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/05/6732c520-3370-400f-900a-273f656490d4/whats-in-the-news-coverart-1400x1400.jpg)

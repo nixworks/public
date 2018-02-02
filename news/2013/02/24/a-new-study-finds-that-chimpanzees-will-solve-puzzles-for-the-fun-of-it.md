@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/24/a-new-study-finds-that-chimpanzees-will-solve-puzzles-for-the-fun-of-it.html)  [JSON](/news/2013/02/24/a-new-study-finds-that-chimpanzees-will-solve-puzzles-for-the-fun-of-it.json)  [XML](/news/2013/02/24/a-new-study-finds-that-chimpanzees-will-solve-puzzles-for-the-fun-of-it.xml)  
+
 ### [2013-02-24](/news/2013/02/24/index.md)
 
+##### chimpanzee
 # A new study finds that chimpanzees will solve puzzles for the fun of it. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/science/science-news/9889999/Chimps-solve-puzzles-for-the-thrill-of-it-researchers-find.html)
 

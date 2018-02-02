@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/7/as-part-of-a-plea-bargain-alleged-mafia-boss-vincent-chin-gigante-admits-in-court-that-he-has-been-feigning-insanity-for-more-than-30-ye.html)  [JSON](/news/2003/04/7/as-part-of-a-plea-bargain-alleged-mafia-boss-vincent-chin-gigante-admits-in-court-that-he-has-been-feigning-insanity-for-more-than-30-ye.json)  [XML](/news/2003/04/7/as-part-of-a-plea-bargain-alleged-mafia-boss-vincent-chin-gigante-admits-in-court-that-he-has-been-feigning-insanity-for-more-than-30-ye.xml)  
+
 ### [2003-04-7](/news/2003/04/7/index.md)
 
+##### Mafia
 #  As part of a plea bargain, alleged Mafia boss Vincent "Chin" Gigante admits in court that he has been feigning insanity for more than 30 years.
 
 
@@ -8,7 +12,7 @@
 ### Related:
 
 1. [Acting on requests from neighboring Italy, Swiss authorities arrest 15 people sought as suspected members of the 'Ndrangheta organized crime syndicate, a Mafia-type organization centered in Calabria, Italy. ](/news/2016/03/8/acting-on-requests-from-neighboring-italy-swiss-authorities-arrest-15-people-sought-as-suspected-members-of-the-ndrangheta-organized-crime.md) _Context: Mafia_
-2. [Italy says that it will use the Italian Army against the mafia who are accused of dumping toxic waste in Naples. ](/news/2014/01/15/italy-says-that-it-will-use-the-italian-army-against-the-mafia-who-are-accused-of-dumping-toxic-waste-in-naples.md) _Context: Mafia_
-3. [In Italy, Laura Boldrini, member of the left-wing party Left Ecology Freedom, is elected President of the Chamber of Deputies. Pietro Grasso, a former anti-mafia magistrate and member of the centre-left Democratic Party, is elected President of the Senate. ([http:--www.repubblica.it-politica-2013-03-16-news-liveblogging_camera_senato_ii_giorno-54645681- "La Repubblica"])](/news/2013/03/16/in-italy-laura-boldrini-member-of-the-left-wing-party-left-ecology-freedom-is-elected-president-of-the-chamber-of-deputies-pietro-grasso.md) _Context: Mafia_
-4. [Italian police arrest the Mafia boss of Corleone in Sicily. ](/news/2011/07/1/italian-police-arrest-the-mafia-boss-of-corleone-in-sicily.md) _Context: Mafia_
-5. [Head of Naples police intervention brigade Vittorio Pisani is investigated in Italy after coming under suspicion of leaking information to the mafia. ](/news/2011/06/30/head-of-naples-police-intervention-brigade-vittorio-pisani-is-investigated-in-italy-after-coming-under-suspicion-of-leaking-information-to-t.md) _Context: Mafia_
+2. [Italian police arrest the Mafia boss of Corleone in Sicily. ](/news/2011/07/1/italian-police-arrest-the-mafia-boss-of-corleone-in-sicily.md) _Context: Mafia_
+3. [Hundreds of Italians commemorate anti-Mafia judge Paolo Borsellino in Palermo, 18 years after he was killed by a car bomb. ](/news/2010/07/19/hundreds-of-italians-commemorate-anti-mafia-judge-paolo-borsellino-in-palermo-18-years-after-he-was-killed-by-a-car-bomb.md) _Context: Mafia_
+4. [ Salvatore Miceli, an Italian Mafia fugitive on the run since 2001 and listed as one of the country's 30 most dangerous men, is arrested in Venezuela. ](/news/2009/06/21/salvatore-miceli-an-italian-mafia-fugitive-on-the-run-since-2001-and-listed-as-one-of-the-country-s-30-most-dangerous-men-is-arrested-in.md) _Context: Mafia_
+5. [ One hundred thousand people protest against the Sicilian Mafia and Camorra in Naples, Italy. ](/news/2009/03/21/one-hundred-thousand-people-protest-against-the-sicilian-mafia-and-camorra-in-naples-italy.md) _Context: Mafia_

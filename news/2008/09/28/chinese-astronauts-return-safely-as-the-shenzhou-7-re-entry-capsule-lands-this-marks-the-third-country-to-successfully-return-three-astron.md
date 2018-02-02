@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/28/chinese-astronauts-return-safely-as-the-shenzhou-7-re-entry-capsule-lands-this-marks-the-third-country-to-successfully-return-three-astron.html)  [JSON](/news/2008/09/28/chinese-astronauts-return-safely-as-the-shenzhou-7-re-entry-capsule-lands-this-marks-the-third-country-to-successfully-return-three-astron.json)  [XML](/news/2008/09/28/chinese-astronauts-return-safely-as-the-shenzhou-7-re-entry-capsule-lands-this-marks-the-third-country-to-successfully-return-three-astron.xml)  
+
 ### [2008-09-28](/news/2008/09/28/index.md)
 
+##### China
 #  Chinese astronauts return safely as the Shenzhou 7 re-entry capsule lands. This marks the third country to successfully return three astronauts from space, and the third country to successfully return a spacewalker from space. And the mission marks the third country to successfully develop and deploy a spacesuit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://xinhua.cn)
 

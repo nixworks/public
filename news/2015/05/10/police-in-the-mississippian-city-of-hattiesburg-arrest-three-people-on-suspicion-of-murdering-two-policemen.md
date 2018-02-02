@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/10/police-in-the-mississippian-city-of-hattiesburg-arrest-three-people-on-suspicion-of-murdering-two-policemen.html)  [JSON](/news/2015/05/10/police-in-the-mississippian-city-of-hattiesburg-arrest-three-people-on-suspicion-of-murdering-two-policemen.json)  [XML](/news/2015/05/10/police-in-the-mississippian-city-of-hattiesburg-arrest-three-people-on-suspicion-of-murdering-two-policemen.xml)  
+
 ### [2015-05-10](/news/2015/05/10/index.md)
 
+##### Mississippi
 # Police in the Mississippian city of Hattiesburg arrest three people on suspicion of murdering two policemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-05-10-US--Mississippi-Officers%20Killed/id-6bb21cbe68754652935dce26cc935089)
 

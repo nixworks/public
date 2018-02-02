@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/16/sun-microsystems-announces-the-acquisition-of-mysql-ab-a-leading-open-source-relational-database-management-system-vendor-for-us-1-billio.html)  [JSON](/news/2008/01/16/sun-microsystems-announces-the-acquisition-of-mysql-ab-a-leading-open-source-relational-database-management-system-vendor-for-us-1-billio.json)  [XML](/news/2008/01/16/sun-microsystems-announces-the-acquisition-of-mysql-ab-a-leading-open-source-relational-database-management-system-vendor-for-us-1-billio.xml)  
+
 ### [2008-01-16](/news/2008/01/16/index.md)
 
+##### Sun Microsystems
 #  Sun Microsystems announces the acquisition of MySQL AB, a leading open source relational database management system vendor, for US$1 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5gBphtwc5ZhkRHmUBQAj_6yJmvLpAD8U722UO0)
 

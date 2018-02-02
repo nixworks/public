@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/24/russian-opposition-leader-garry-kasparov-is-arrested-during-a-the-other-russia-rally-in-moscow.html)  [JSON](/news/2007/11/24/russian-opposition-leader-garry-kasparov-is-arrested-during-a-the-other-russia-rally-in-moscow.json)  [XML](/news/2007/11/24/russian-opposition-leader-garry-kasparov-is-arrested-during-a-the-other-russia-rally-in-moscow.xml)  
+
 ### [2007-11-24](/news/2007/11/24/index.md)
 
+##### opposition leader
 #  Russian opposition leader Garry Kasparov is arrested during a The Other Russia rally in Moscow. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7110910.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/18/police-in-serbia-arrest-three-australians-one-o
 
 ### [2018-01-18](/news/2018/01/18/index.md)
 
+##### Crime in Serbia
 # Police in Serbia arrest three Australians, one of them Rohan Arnold, a known businessman, for allegedly smuggling 1,280 kg of cocaine into Sydney in 2016. 
 
 Three men linked to the ACT arrested in Serbia suspected of ties to an international drug ring. 

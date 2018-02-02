@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/9/venezuela-announces-that-it-will-reopen-its-embassy-in-colombia-and-welcome-back-colombian-diplomats-expelled-during-the-regional-diplomati.html)  [JSON](/news/2008/03/9/venezuela-announces-that-it-will-reopen-its-embassy-in-colombia-and-welcome-back-colombian-diplomats-expelled-during-the-regional-diplomati.json)  [XML](/news/2008/03/9/venezuela-announces-that-it-will-reopen-its-embassy-in-colombia-and-welcome-back-colombian-diplomats-expelled-during-the-regional-diplomati.xml)  
+
 ### [2008-03-9](/news/2008/03/9/index.md)
 
+##### Venezuela
 #  Venezuela announces that it will reopen its embassy in Colombia and welcome back Colombian diplomats expelled during the regional diplomatic crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5i3-gy-m2ViT4af14BjcC-rOHaWrgD8VA5HE83)
 

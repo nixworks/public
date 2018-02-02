@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/12/the-bbc-s-correspondent-in-the-gaza-strip-alan-johnston-who-is-the-only-gaza-based-foreign-reporter-from-a-major-media-organisation-is-k.html)  [JSON](/news/2007/03/12/the-bbc-s-correspondent-in-the-gaza-strip-alan-johnston-who-is-the-only-gaza-based-foreign-reporter-from-a-major-media-organisation-is-k.json)  [XML](/news/2007/03/12/the-bbc-s-correspondent-in-the-gaza-strip-alan-johnston-who-is-the-only-gaza-based-foreign-reporter-from-a-major-media-organisation-is-k.xml)  
+
 ### [2007-03-12](/news/2007/03/12/index.md)
 
+##### BBC
 #  The BBC's correspondent in the Gaza Strip, Alan Johnston, who is the only Gaza-based foreign reporter from a major media organisation, is kidnapped. All the main Palestinian militant groups have called for his release. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6442663.stm)
 

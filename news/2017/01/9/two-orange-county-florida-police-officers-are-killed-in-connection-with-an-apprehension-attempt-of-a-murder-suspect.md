@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/9/two-orange-county-florida-police-officers-are-ki
 
 ### [2017-01-9](/news/2017/01/9/index.md)
 
+##### Orange County, Florida
 # Two Orange County, Florida police officers are killed in connection with an apprehension attempt of a murder suspect. 
 
  A man wanted for killing his former girlfriend fatally shot an Orlando, Florida, police officer on Monday, authorities said, prompting a manhunt and a reward o

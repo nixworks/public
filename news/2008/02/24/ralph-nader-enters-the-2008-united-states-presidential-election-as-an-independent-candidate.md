@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/24/ralph-nader-enters-the-2008-united-states-presidential-election-as-an-independent-candidate.html)  [JSON](/news/2008/02/24/ralph-nader-enters-the-2008-united-states-presidential-election-as-an-independent-candidate.json)  [XML](/news/2008/02/24/ralph-nader-enters-the-2008-united-states-presidential-election-as-an-independent-candidate.xml)  
+
 ### [2008-02-24](/news/2008/02/24/index.md)
 
+##### Ralph Nader
 #  Ralph Nader enters the 2008 United States presidential election as an independent candidate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/POLITICS/02/24/nader.politics/)
 

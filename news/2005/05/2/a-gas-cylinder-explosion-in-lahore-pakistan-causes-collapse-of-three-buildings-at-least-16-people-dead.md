@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/05/2/a-gas-cylinder-explosion-in-lahore-pakistan-causes-collapse-of-three-buildings-at-least-16-people-dead.html)  [JSON](/news/2005/05/2/a-gas-cylinder-explosion-in-lahore-pakistan-causes-collapse-of-three-buildings-at-least-16-people-dead.json)  [XML](/news/2005/05/2/a-gas-cylinder-explosion-in-lahore-pakistan-causes-collapse-of-three-buildings-at-least-16-people-dead.xml)  
+
 ### [2005-05-2](/news/2005/05/2/index.md)
 
+##### Lahore
 #  A gas cylinder explosion in Lahore, Pakistan causes collapse of three buildings - at least 16 people dead. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4507749.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8367749)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8367749)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/28/canadian-federal-election-2004-results-give-the-liberal-party-a-minority-government-in-a-likely-alliance-with-the-ndp-they-will-togethe.html)  [JSON](/news/2004/06/28/canadian-federal-election-2004-results-give-the-liberal-party-a-minority-government-in-a-likely-alliance-with-the-ndp-they-will-togethe.json)  [XML](/news/2004/06/28/canadian-federal-election-2004-results-give-the-liberal-party-a-minority-government-in-a-likely-alliance-with-the-ndp-they-will-togethe.xml)  
+
 ### [2004-06-28](/news/2004/06/28/index.md)
 
+##### 2004 federal election
 #  Canadian federal election, 2004: Results give the Liberal Party a minority government; in a likely alliance with the NDP, they will together hold exactly half the Commons seats. Despite the heated nature of the campaign, turnout was the lowest in recent memory. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/stories/2004/06/29/canada/elxn_wrap040629)
 

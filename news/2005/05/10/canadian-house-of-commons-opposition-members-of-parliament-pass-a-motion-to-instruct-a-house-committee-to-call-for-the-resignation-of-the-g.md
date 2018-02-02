@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/10/canadian-house-of-commons-opposition-members-of-parliament-pass-a-motion-to-instruct-a-house-committee-to-call-for-the-resignation-of-the-g.html)  [JSON](/news/2005/05/10/canadian-house-of-commons-opposition-members-of-parliament-pass-a-motion-to-instruct-a-house-committee-to-call-for-the-resignation-of-the-g.json)  [XML](/news/2005/05/10/canadian-house-of-commons-opposition-members-of-parliament-pass-a-motion-to-instruct-a-house-committee-to-call-for-the-resignation-of-the-g.xml)  
+
 ### [2005-05-10](/news/2005/05/10/index.md)
 
+##### Canadian House of Commons
 #  Canadian House of Commons opposition members of parliament pass a motion to instruct a house committee to call for the resignation of the government. The 153 votes of the Conservatives and Bloc Qubcois defeat the 150 votes of the Liberals and NDP due to three absences. Although the motion is classified as a procedural instruction to a committee and not a no confidence motion, the Tories and BQ call on the government to resign. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2005/05/10/confidence-vote050510.html)
 

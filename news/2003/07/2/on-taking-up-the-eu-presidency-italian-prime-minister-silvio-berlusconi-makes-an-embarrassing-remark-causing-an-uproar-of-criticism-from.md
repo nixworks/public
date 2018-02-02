@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/2/on-taking-up-the-eu-presidency-italian-prime-minister-silvio-berlusconi-makes-an-embarrassing-remark-causing-an-uproar-of-criticism-from.html)  [JSON](/news/2003/07/2/on-taking-up-the-eu-presidency-italian-prime-minister-silvio-berlusconi-makes-an-embarrassing-remark-causing-an-uproar-of-criticism-from.json)  [XML](/news/2003/07/2/on-taking-up-the-eu-presidency-italian-prime-minister-silvio-berlusconi-makes-an-embarrassing-remark-causing-an-uproar-of-criticism-from.xml)  
+
 ### [2003-07-2](/news/2003/07/2/index.md)
 
+##### EU presidency
 #  On taking up the EU presidency, Italian Prime Minister Silvio Berlusconi makes an embarrassing remark, causing an uproar of criticism from the 626-seat European Parliament and the European media, by insulting the German MEP Martin Schulz (SPD) with the words "Mr. Schulz, I know there is a producer in Italy who is making a film on the Nazi concentration camps. I will suggest you for the role of kapo. You'd be perfect."
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/14/a-judicial-inquiry-is-ordered-into-a-stampede-during-navrati-festivities-near-a-temple-in-india-s-madhya-pradesh-state-that-resulted-in-109.html)  [JSON](/news/2013/10/14/a-judicial-inquiry-is-ordered-into-a-stampede-during-navrati-festivities-near-a-temple-in-india-s-madhya-pradesh-state-that-resulted-in-109.json)  [XML](/news/2013/10/14/a-judicial-inquiry-is-ordered-into-a-stampede-during-navrati-festivities-near-a-temple-in-india-s-madhya-pradesh-state-that-resulted-in-109.xml)  
+
 ### [2013-10-14](/news/2013/10/14/index.md)
 
+##### Navrati
 # A judicial inquiry is ordered into a stampede during Navrati festivities near a temple in India's Madhya Pradesh state that resulted in 109 deaths and 120 people being injured. 
 
 Tragedy struck Dussehra festivities in Madhya Pradesh&#039;s Datia district, nearly 400 km from Bhopal, with at least 111 people killed and over 80 injured in a stampede near a temple yesterday morning.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/article/india/109-killed-over-100-injured-after-rumour-sparks-stampede-at-madhya-pradesh-temple-judicial-inquiry-o-431875?curl=1381716805)
 1. [Cover Image](http://i.ndtvimg.com/mt/2013-10/datia_stampede630_d2.jpg)

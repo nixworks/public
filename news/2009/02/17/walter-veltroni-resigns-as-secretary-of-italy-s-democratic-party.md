@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/17/walter-veltroni-resigns-as-secretary-of-italy-s-democratic-party.html)  [JSON](/news/2009/02/17/walter-veltroni-resigns-as-secretary-of-italy-s-democratic-party.json)  [XML](/news/2009/02/17/walter-veltroni-resigns-as-secretary-of-italy-s-democratic-party.xml)  
+
 ### [2009-02-17](/news/2009/02/17/index.md)
 
+##### Walter Veltroni
 #  Walter Veltroni resigns as Secretary of Italy's Democratic Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7895525.stm)
 

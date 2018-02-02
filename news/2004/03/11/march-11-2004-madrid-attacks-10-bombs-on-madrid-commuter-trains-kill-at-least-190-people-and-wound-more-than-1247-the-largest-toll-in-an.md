@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/11/march-11-2004-madrid-attacks-10-bombs-on-madrid-commuter-trains-kill-at-least-190-people-and-wound-more-than-1247-the-largest-toll-in-an.html)  [JSON](/news/2004/03/11/march-11-2004-madrid-attacks-10-bombs-on-madrid-commuter-trains-kill-at-least-190-people-and-wound-more-than-1247-the-largest-toll-in-an.json)  [XML](/news/2004/03/11/march-11-2004-madrid-attacks-10-bombs-on-madrid-commuter-trains-kill-at-least-190-people-and-wound-more-than-1247-the-largest-toll-in-an.xml)  
+
 ### [2004-03-11](/news/2004/03/11/index.md)
 
+##### March 11, 2004 Madrid attacks
 #  March 11, 2004 Madrid attacks: 10 bombs on Madrid commuter trains kill at least 190 people and wound more than 1247, the largest toll in any bombing in Europe (the 1988 Lockerbie bombing killed more but wounded fewer). 
 
-Business news & Financial news from Reuters.com.
 
 
-### Source:
+
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/2CDD53D6-7AF7-40C7-AF88-32A16072F81B.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/3500452.stm)
@@ -16,9 +20,8 @@ Business news & Financial news from Reuters.com.
 7. [La Vanguardia](http://www.lavanguardia.es/web/20040311/51152856332.html)
 8. [Le Monde](http://www.lemonde.fr/web/article/0,1-0@2-3214,36-356247,0.html)
 9. [Renfe](http://comunicacion.renfe.es/renfe/front/jsp/index.jsp?idsite=9837933386810)
-10. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=businessNews&storyID=4546463&section=news)
-11. [Washington Post](http://www.washingtonpost.com/wp-dyn/articles/A48577-2004Mar11.html)
-11. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+10. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=businessNews&storyID=4546463&section=news)
+11. [Washington Post](https://www.washingtonpost.com/wp-dyn/articles/A48577-2004Mar11.html)
 
 ### Related:
 

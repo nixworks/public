@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/26/the-chief-executive-of-royal-dutch-shell-ben-va
 
 ### [2016-11-26](/news/2016/11/26/index.md)
 
+##### Royal Dutch Shell
 # The chief executive of Royal Dutch Shell, Ben van Beurden, denies the claim that his company's balance sheet contains any assets that will be "stranded," that is that will have to be written off, due to the Paris Climate Accord. 
 
 

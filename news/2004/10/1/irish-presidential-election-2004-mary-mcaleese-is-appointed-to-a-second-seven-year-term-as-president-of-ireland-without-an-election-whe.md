@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/1/irish-presidential-election-2004-mary-mcaleese-is-appointed-to-a-second-seven-year-term-as-president-of-ireland-without-an-election-whe.html)  [JSON](/news/2004/10/1/irish-presidential-election-2004-mary-mcaleese-is-appointed-to-a-second-seven-year-term-as-president-of-ireland-without-an-election-whe.json)  [XML](/news/2004/10/1/irish-presidential-election-2004-mary-mcaleese-is-appointed-to-a-second-seven-year-term-as-president-of-ireland-without-an-election-whe.xml)  
+
 ### [2004-10-1](/news/2004/10/1/index.md)
 
+##### Irish presidential election, 2004
 #  Irish presidential election, 2004: Mary McAleese is appointed to a second seven-year term as President of Ireland, without an election, when no other candidate secures the necessary nominations. This is the third time a sitting president has been reappointed unopposed, following President Sen T. O'Kelly in 1952 and President Patrick Hillery in 1983. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Irish Examiner](http://www.irishexaminer.com/breaking/2004/10/01/story169064.html)
 2. [RTÉ](http://www.rte.ie/news/2004/1001/president.html)

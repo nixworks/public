@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/4/australian-foreign-minister-julie-bishop-says-au
 
 ### [2017-02-4](/news/2017/02/4/index.md)
 
+##### Australia-United States relations
 # Australian Foreign Minister Julie Bishop says Australia will honor the agreement to accept refugees from Central America even though the U.S. has postponed interviews with asylum seekers in a camp at the Pacific island of Nauru. 
 
  Australian Foreign Minister Julie Bishop said on Saturday that a controversial refugee resettlement deal with the United States would go ahead, despite U.S. im

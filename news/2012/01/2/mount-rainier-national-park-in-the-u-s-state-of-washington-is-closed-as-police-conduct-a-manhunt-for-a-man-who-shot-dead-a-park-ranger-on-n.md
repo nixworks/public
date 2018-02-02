@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/01/2/mount-rainier-national-park-in-the-u-s-state-of-washington-is-closed-as-police-conduct-a-manhunt-for-a-man-who-shot-dead-a-park-ranger-on-n.html)  [JSON](/news/2012/01/2/mount-rainier-national-park-in-the-u-s-state-of-washington-is-closed-as-police-conduct-a-manhunt-for-a-man-who-shot-dead-a-park-ranger-on-n.json)  [XML](/news/2012/01/2/mount-rainier-national-park-in-the-u-s-state-of-washington-is-closed-as-police-conduct-a-manhunt-for-a-man-who-shot-dead-a-park-ranger-on-n.xml)  
+
 ### [2012-01-2](/news/2012/01/2/index.md)
 
+##### Mount Rainier National Park
 # Mount Rainier National Park in the U.S. state of Washington is closed as police conduct a manhunt for a man who shot dead a park ranger on New Year's Day; the gunman, Benjamin Barnes, is eventually found dead. 
 
 Authorities close down Mount Rainier National Park to search for suspect believed to be in woods with weapons
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16387103)
-2. [CBS News Video](http://www.youtube.com/watch?v=p2SV_Hwpu-w)
+2. [CBS News Video](https://www.youtube.com/watch?v=p2SV_Hwpu-w)
 3. [CBS News](http://www.cbsnews.com/8301-201_162-57350762/park-ranger-killed-by-gunman-in-national-park/)
 3. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2012/01/01/f716201d-a643-11e2-a3f0-029118418759/benjamin_colton_barnes_AP120101050702_fullwidth.jpg)
 

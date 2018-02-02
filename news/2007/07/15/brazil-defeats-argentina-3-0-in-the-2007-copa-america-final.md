@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/15/brazil-defeats-argentina-3-0-in-the-2007-copa-america-final.html)  [JSON](/news/2007/07/15/brazil-defeats-argentina-3-0-in-the-2007-copa-america-final.json)  [XML](/news/2007/07/15/brazil-defeats-argentina-3-0-in-the-2007-copa-america-final.xml)  
+
 ### [2007-07-15](/news/2007/07/15/index.md)
 
+##### Brazil national football team
 #  Brazil defeats Argentina 3-0 in the 2007 Copa Amrica final. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Brisbane Times](http://news.brisbanetimes.com.au/brazil-demolish-argentina-to-win-eighth-copa-america/20070916-nxz.html)
 

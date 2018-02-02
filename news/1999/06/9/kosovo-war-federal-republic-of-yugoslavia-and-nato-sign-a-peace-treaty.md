@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/06/9/kosovo-war-federal-republic-of-yugoslavia-and-nato-sign-a-peace-treaty.html)  [JSON](/news/1999/06/9/kosovo-war-federal-republic-of-yugoslavia-and-nato-sign-a-peace-treaty.json)  [XML](/news/1999/06/9/kosovo-war-federal-republic-of-yugoslavia-and-nato-sign-a-peace-treaty.xml)  
+
 ### [1999-06-9](/news/1999/06/9/index.md)
 
+##### Kosovo War
 #  Kosovo War: Federal Republic of Yugoslavia and NATO sign a peace treaty.
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/25/floodings-in-burgas-province-bulgaria-claim-3-victims.html)  [JSON](/news/2017/10/25/floodings-in-burgas-province-bulgaria-claim-3-victims.json)  [XML](/news/2017/10/25/floodings-in-burgas-province-bulgaria-claim-3-victims.xml)  
+
 ### [2017-10-25](/news/2017/10/25/index.md)
 
+##### Burgas Province
 # Floodings in Burgas Province, Bulgaria, claim 3 victims. 
 
 Three people have died after torrential rains on 24th of October triggered floodings in the South-East Bulgarian district of Burgas. An elderly person from the village of Polski izvor has drowned.

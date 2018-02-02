@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/25/a-senior-burundian-army-general-athanase-kararu
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
+##### Burundian unrest (2015-present)
 # A senior Burundian Army general, Athanase Kararuza, an ethnic Tutsi and security advisor to Burundi Vice-President Gaston Sindimwo, is shot dead by heavily armed men in the capital Bujumbura. 
 
 A prosecutor said that she had seen reports of killings, disappearances, imprisonment, torture and rape.

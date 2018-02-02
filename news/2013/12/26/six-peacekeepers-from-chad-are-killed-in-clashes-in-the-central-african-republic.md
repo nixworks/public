@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/26/six-peacekeepers-from-chad-are-killed-in-clashes-in-the-central-african-republic.html)  [JSON](/news/2013/12/26/six-peacekeepers-from-chad-are-killed-in-clashes-in-the-central-african-republic.json)  [XML](/news/2013/12/26/six-peacekeepers-from-chad-are-killed-in-clashes-in-the-central-african-republic.xml)  
+
 ### [2013-12-26](/news/2013/12/26/index.md)
 
+##### Chad
 # Six peacekeepers from Chad are killed in clashes in the Central African Republic. 
 
 Dozens of people are killed, including six peacekeepers from Chad, in the latest violence in the Central African Republic, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-25520701)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/71960000/jpg/_71960050_y8lhg07q.jpg)

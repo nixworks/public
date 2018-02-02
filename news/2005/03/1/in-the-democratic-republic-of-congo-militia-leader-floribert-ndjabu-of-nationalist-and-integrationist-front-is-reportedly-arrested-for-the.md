@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/1/in-the-democratic-republic-of-congo-militia-leader-floribert-ndjabu-of-nationalist-and-integrationist-front-is-reportedly-arrested-for-the.html)  [JSON](/news/2005/03/1/in-the-democratic-republic-of-congo-militia-leader-floribert-ndjabu-of-nationalist-and-integrationist-front-is-reportedly-arrested-for-the.json)  [XML](/news/2005/03/1/in-the-democratic-republic-of-congo-militia-leader-floribert-ndjabu-of-nationalist-and-integrationist-front-is-reportedly-arrested-for-the.xml)  
+
 ### [2005-03-1](/news/2005/03/1/index.md)
 
+##### Democratic Republic of Congo
 #  In the Democratic Republic of Congo, militia leader Floribert Ndjabu of Nationalist and Integrationist Front is reportedly arrested for the killing of nine Bangladeshi UN peacekeepers last week 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4308583.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L01909.htm)

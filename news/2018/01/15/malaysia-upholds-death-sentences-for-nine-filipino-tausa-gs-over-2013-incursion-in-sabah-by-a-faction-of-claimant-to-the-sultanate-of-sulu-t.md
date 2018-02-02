@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/15/malaysia-upholds-death-sentences-for-nine-filip
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
+##### 2013 Lahad Datu standoff
 # Malaysia upholds death sentences for nine Filipino Tausugs over 2013 incursion in Sabah by a faction of claimant to the Sultanate of Sulu throne. 
 
 A Malaysian court on Monday upheld death sentences handed down to nine men from the Philippines in connection with an 2013 incursion into the Malaysian part of Borneo island by Philippine fighters seeking to stake an ancient claim.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/18/prosecutors-in-california-charge-singer-michael-jackson-with-seven-counts-of-child-molestation-and-schedule-hearings-for-january-16-2004.html)  [JSON](/news/2003/12/18/prosecutors-in-california-charge-singer-michael-jackson-with-seven-counts-of-child-molestation-and-schedule-hearings-for-january-16-2004.json)  [XML](/news/2003/12/18/prosecutors-in-california-charge-singer-michael-jackson-with-seven-counts-of-child-molestation-and-schedule-hearings-for-january-16-2004.xml)  
+
 ### [2003-12-18](/news/2003/12/18/index.md)
 
+##### California
 #  Prosecutors in California charge singer Michael Jackson with seven counts of child molestation and schedule hearings for January 16, 2004. [http:--news.bbc.co.uk-1-hi-entertainment-showbiz-3323237.stm]
 
 

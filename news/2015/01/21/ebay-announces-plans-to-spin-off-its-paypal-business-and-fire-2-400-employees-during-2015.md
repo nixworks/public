@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/01/21/ebay-announces-plans-to-spin-off-its-paypal-business-and-fire-2-400-employees-during-2015.html)  [JSON](/news/2015/01/21/ebay-announces-plans-to-spin-off-its-paypal-business-and-fire-2-400-employees-during-2015.json)  [XML](/news/2015/01/21/ebay-announces-plans-to-spin-off-its-paypal-business-and-fire-2-400-employees-during-2015.xml)  
+
 ### [2015-01-21](/news/2015/01/21/index.md)
 
+##### eBay
 # eBay announces plans to spin off its PayPal business and fire 2,400 employees during 2015. 
 
 EBay reported mixed quarterly earnings and revenue on Wednesday and announced plans to cut some 2,400 positions, or about 7 percent of its workforce.
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/id/102351093#.)
+1. [CNBC](https://www.cnbc.com/id/102351093#.)
 
 ### Related:
 

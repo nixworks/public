@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/23/a-former-ukrainian-soldier-assassinates-former-
 
 ### [2017-03-23](/news/2017/03/23/index.md)
 
+##### Russian Duma
 # A former Ukrainian soldier assassinates former Russian Duma deputy Denis Voronenkov in the Ukrainian capital Kiev. In December 2016, he received Ukrainian citizenship. Ilya Ponomarev says Voronenkov was heading to a meeting with him. 
 
 Denis Voronenkov, a former Russian parliamentarian who fled to Ukraine and harshly criticized the Russian authorities, has been shot dead in Kiev.

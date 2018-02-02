@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/15/the-vatican-denies-claims-that-pope-francis-failed-to-speak-out-against-human-rights-abuses-during-military-dictatorship-in-argentina.html)  [JSON](/news/2013/03/15/the-vatican-denies-claims-that-pope-francis-failed-to-speak-out-against-human-rights-abuses-during-military-dictatorship-in-argentina.json)  [XML](/news/2013/03/15/the-vatican-denies-claims-that-pope-francis-failed-to-speak-out-against-human-rights-abuses-during-military-dictatorship-in-argentina.xml)  
+
 ### [2013-03-15](/news/2013/03/15/index.md)
 
+##### Holy See
 # The Vatican denies claims that Pope Francis failed to speak out against human rights abuses during military dictatorship in Argentina. 
 
 The Vatican has denied that Pope Francis failed to speak out against human rights abuses during military rule in his native Argentina.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21802684)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66415000/jpg/_66415411_flag_getty.jpg)

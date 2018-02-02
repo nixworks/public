@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/10/the-new-york-police-department-increases-security-in-manhattan-and-in-bridges-and-tunnels-as-a-result-of-an-unverified-radiological-threat.html)  [JSON](/news/2007/08/10/the-new-york-police-department-increases-security-in-manhattan-and-in-bridges-and-tunnels-as-a-result-of-an-unverified-radiological-threat.json)  [XML](/news/2007/08/10/the-new-york-police-department-increases-security-in-manhattan-and-in-bridges-and-tunnels-as-a-result-of-an-unverified-radiological-threat.xml)  
+
 ### [2007-08-10](/news/2007/08/10/index.md)
 
+##### New York Police Department
 #  The New York Police Department increases security in Manhattan and in bridges and tunnels as a result of an "unverified radiological threat". 
 
 The New York Police Department was reducing its extra security procedures Saturday, a day after an unsubstantiated radiological threat against the nation&#8217;s largest city.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via MSNBC](http://www.msnbc.msn.com/id/20221065/)
 1. [Cover Image](http://media4.s-nbcnews.com/j/msnbc/Components/Video/070811/n_morales_nycthreat_070811.standard.jpg)

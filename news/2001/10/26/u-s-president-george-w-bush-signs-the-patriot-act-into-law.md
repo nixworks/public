@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/10/26/u-s-president-george-w-bush-signs-the-patriot-act-into-law.html)  [JSON](/news/2001/10/26/u-s-president-george-w-bush-signs-the-patriot-act-into-law.json)  [XML](/news/2001/10/26/u-s-president-george-w-bush-signs-the-patriot-act-into-law.xml)  
+
 ### [2001-10-26](/news/2001/10/26/index.md)
 
+##### George W. Bush
 #  U.S. President George W. Bush signs the Patriot Act into law.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/4/james-tran-of-sacramento-county-is-arrested-on-suspicion-of-attempted-homicide-in-the-october-8-stabbing-of-airman-spencer-stone-near-a-bar.html)  [JSON](/news/2015/11/4/james-tran-of-sacramento-county-is-arrested-on-suspicion-of-attempted-homicide-in-the-october-8-stabbing-of-airman-spencer-stone-near-a-bar.json)  [XML](/news/2015/11/4/james-tran-of-sacramento-county-is-arrested-on-suspicion-of-attempted-homicide-in-the-october-8-stabbing-of-airman-spencer-stone-near-a-bar.xml)  
+
 ### [2015-11-4](/news/2015/11/4/index.md)
 
+##### 2015 Thalys train attack
 #  James Tran of Sacramento County is arrested on suspicion of attempted homicide in the October 8 stabbing of Airman Spencer Stone near a bar in Sacramento California. Stone had helped foil the 2015 Thalys train attack but officials believe it was just a drunken bar fight. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://www.msn.com/en-us/news/us/man-arrested-in-california-stabbing-of-french-train-hero/ar-BBmQclf)
 

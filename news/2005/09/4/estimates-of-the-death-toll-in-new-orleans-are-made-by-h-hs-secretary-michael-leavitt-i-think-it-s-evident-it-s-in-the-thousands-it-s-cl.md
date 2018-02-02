@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/4/estimates-of-the-death-toll-in-new-orleans-are-made-by-h-hs-secretary-michael-leavitt-i-think-it-s-evident-it-s-in-the-thousands-it-s-cl.html)  [JSON](/news/2005/09/4/estimates-of-the-death-toll-in-new-orleans-are-made-by-h-hs-secretary-michael-leavitt-i-think-it-s-evident-it-s-in-the-thousands-it-s-cl.json)  [XML](/news/2005/09/4/estimates-of-the-death-toll-in-new-orleans-are-made-by-h-hs-secretary-michael-leavitt-i-think-it-s-evident-it-s-in-the-thousands-it-s-cl.xml)  
+
 ### [2005-09-4](/news/2005/09/4/index.md)
 
+##### New Orleans
 #  Estimates of the death toll in New Orleans are made by H&HS Secretary Michael Leavitt: "I think it's evident it's in the thousands. It's clear to me that this has been sickeningly difficult and profoundly tragic circumstance" 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/US/09/04/katrina.world.aid/index.html)
 2. [Denton Record Chronicle](http://www.dentonrc.com/sharedcontent/APStories/stories/D8CDK8R85.html)
@@ -16,6 +20,12 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 7. [The Times-Picayune](http://www.nola.com/newslogs/breakingtp/index.ssf?/mtlogs/nola_Times-Picayune/archives/2005_09.html#076849)
 7. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
+### Changes:
+
+1. [ Hurricane Katrina: Estimates of the death toll in New Orleans are made by H&HS Secretary Michael Leavitt: "I think it's evident it's in the thousands. It's clear to me that this has been sickeningly difficult and profoundly tragic circumstance" ](/news/2005/09/4/hurricane-katrina-p-estimates-of-the-death-toll-in-new-orleans-are-made-by-h-hs-secretary-michael-leavitt-i-think-it-s-evident-it-s-in-th.md) _2017-08-25 03:16:45 (First version)_
+2. [ Hurricane Katrina:: Estimates of the death toll in New Orleans are made by H&HS Secretary Michael Leavitt: "I think it's evident it's in the thousands. It's clear to me that this has been sickeningly difficult and profoundly tragic circumstance" ](/news/2005/09/4/hurricane-katrina-estimates-of-the-death-toll-in-new-orleans-are-made-by-h-hs-secretary-michael-leavitt-i-think-it-s-evident-it-s-in-th.md) _2017-08-27 03:16:46 (Update)_
+2. [ Estimates of the death toll in New Orleans are made by H&HS Secretary Michael Leavitt: "I think it's evident it's in the thousands. It's clear to me that this has been sickeningly difficult and profoundly tragic circumstance" ](/news/2005/09/4/estimates-of-the-death-toll-in-new-orleans-are-made-by-h-hs-secretary-michael-leavitt-i-think-it-s-evident-it-s-in-the-thousands-it-s-cl.md) _(Current version)_
+
 ### Related:
 
 1. [The New Orleans City Council removes the statue of Confederate President Jefferson Davis in New Orleans. This action is the second of four planned removals of Confederate monuments in the city. ](/news/2017/05/11/the-new-orleans-city-council-removes-the-statue-of-confederate-president-jefferson-davis-in-new-orleans-this-action-is-the-second-of-four-p.md) _Context: New Orleans_
@@ -23,9 +33,3 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 3. [ A man is killed and two wounded in a triple shooting in Algiers neighborhood of New Orleans ](/news/2016/12/11/a-man-is-killed-and-two-wounded-in-a-triple-shooting-in-algiers-neighborhood-of-new-orleans.md) _Context: New Orleans_
 4. [One person is killed, and nine others wounded in a mass shooting in the French Quarter section of New Orleans, following the Bayou Classic football game. Police arrest two men, one of whom was injured during the shooting. ](/news/2016/11/27/one-person-is-killed-and-nine-others-wounded-in-a-mass-shooting-in-the-french-quarter-section-of-new-orleans-following-the-bayou-classic-f.md) _Context: New Orleans_
 5. [A bus carrying volunteers crashes into emergency vehicles responding to an earlier accident near New Orleans killing two, including the St. John the Baptist Fire District Chief, and injuring 43 more. ](/news/2016/08/28/a-bus-carrying-volunteers-crashes-into-emergency-vehicles-responding-to-an-earlier-accident-near-new-orleans-killing-two-including-the-st.md) _Context: New Orleans_
-
-### Changes:
-
-1. [ Hurricane Katrina: Estimates of the death toll in New Orleans are made by H&HS Secretary Michael Leavitt: "I think it's evident it's in the thousands. It's clear to me that this has been sickeningly difficult and profoundly tragic circumstance" ](/news/2005/09/4/hurricane-katrina-p-estimates-of-the-death-toll-in-new-orleans-are-made-by-h-hs-secretary-michael-leavitt-i-think-it-s-evident-it-s-in-th.md) _2017-08-25 03:16:45 (First version)_
-2. [ Hurricane Katrina:: Estimates of the death toll in New Orleans are made by H&HS Secretary Michael Leavitt: "I think it's evident it's in the thousands. It's clear to me that this has been sickeningly difficult and profoundly tragic circumstance" ](/news/2005/09/4/hurricane-katrina-estimates-of-the-death-toll-in-new-orleans-are-made-by-h-hs-secretary-michael-leavitt-i-think-it-s-evident-it-s-in-th.md) _2017-08-27 03:16:46 (Update)_
-2. [ Estimates of the death toll in New Orleans are made by H&HS Secretary Michael Leavitt: "I think it's evident it's in the thousands. It's clear to me that this has been sickeningly difficult and profoundly tragic circumstance" ](/news/2005/09/4/estimates-of-the-death-toll-in-new-orleans-are-made-by-h-hs-secretary-michael-leavitt-i-think-it-s-evident-it-s-in-the-thousands-it-s-cl.md) _(Current version)_

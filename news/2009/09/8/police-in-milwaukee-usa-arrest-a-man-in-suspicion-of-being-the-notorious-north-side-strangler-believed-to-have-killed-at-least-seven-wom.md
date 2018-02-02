@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/8/police-in-milwaukee-usa-arrest-a-man-in-suspicion-of-being-the-notorious-north-side-strangler-believed-to-have-killed-at-least-seven-wom.html)  [JSON](/news/2009/09/8/police-in-milwaukee-usa-arrest-a-man-in-suspicion-of-being-the-notorious-north-side-strangler-believed-to-have-killed-at-least-seven-wom.json)  [XML](/news/2009/09/8/police-in-milwaukee-usa-arrest-a-man-in-suspicion-of-being-the-notorious-north-side-strangler-believed-to-have-killed-at-least-seven-wom.xml)  
+
 ### [2009-09-8](/news/2009/09/8/index.md)
 
+##### Milwaukee
 #  Police in Milwaukee, USA, arrest a man in suspicion of being the notorious North Side Strangler, believed to have killed at least seven women between 1986 and 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/32721705/ns/local_news-milwaukee_wi/)
 

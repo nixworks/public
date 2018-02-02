@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/2/europe-launches-its-first-voyage-to-another-planet-mars-the-european-space-agency-s-mars-express-probe-launches-from-the-baikonur-space-c.html)  [JSON](/news/2003/06/2/europe-launches-its-first-voyage-to-another-planet-mars-the-european-space-agency-s-mars-express-probe-launches-from-the-baikonur-space-c.json)  [XML](/news/2003/06/2/europe-launches-its-first-voyage-to-another-planet-mars-the-european-space-agency-s-mars-express-probe-launches-from-the-baikonur-space-c.xml)  
+
 ### [2003-06-2](/news/2003/06/2/index.md)
 
+##### Mars
 #  Europe launches its first voyage to another planet, Mars. The European Space Agency's Mars Express probe launches from the Baikonur space centre in Kazakhstan.
 
 

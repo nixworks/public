@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/08/21/18-schoolgirls-from-pembroke-hill-school-and-driver-injured-in-bus-crash-near-bonner-springs-missouri.html)  [JSON](/news/2013/08/21/18-schoolgirls-from-pembroke-hill-school-and-driver-injured-in-bus-crash-near-bonner-springs-missouri.json)  [XML](/news/2013/08/21/18-schoolgirls-from-pembroke-hill-school-and-driver-injured-in-bus-crash-near-bonner-springs-missouri.xml)  
+
 ### [2013-08-21](/news/2013/08/21/index.md)
 
+##### Pembroke Hill School
 # 18 schoolgirls from Pembroke Hill School, and driver injured in bus crash near Bonner Springs, Missouri. 
 
-Nearly 20 Kansas sixth-grade girls were injured Wednesday afternoon when their school bus took a highway ramp too fast and overturned, authorities said.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2013/08/21/kansas-bus-crash-bonner-springs/2681647/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/nation/2013/08/21/kansas-bus-crash-bonner-springs/2681647/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/16/amisom-soldiers-kill-four-somali-civilians-in-t
 
 ### [2016-04-16](/news/2016/04/16/index.md)
 
+##### War in Somalia (2009-present)
 # AMISOM soldiers kill four Somali civilians in the town of Bulla Marer, southwest of Mogadishu. The AU Mission said scared soldiers opened fire when the car the civilians were driving failed to stop at a roadblock. 
 
 African Union (AU) kill four civilians travelling in a car in southern Somalia, sparking protests.

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/11/28/u-k-prime-minister-david-cameron-despite-deep-uncertainty-over-how-many-labour-mps-will-back-him-is-planning-to-stage-a-parliamentary-vot.html)  [JSON](/news/2015/11/28/u-k-prime-minister-david-cameron-despite-deep-uncertainty-over-how-many-labour-mps-will-back-him-is-planning-to-stage-a-parliamentary-vot.json)  [XML](/news/2015/11/28/u-k-prime-minister-david-cameron-despite-deep-uncertainty-over-how-many-labour-mps-will-back-him-is-planning-to-stage-a-parliamentary-vot.xml)  
+
 ### [2015-11-28](/news/2015/11/28/index.md)
 
+##### Syrian Civil War
 # U.K. Prime Minister David Cameron, despite deep uncertainty over how many Labour MPs will back him, is planning to stage a parliamentary vote on British military action against ISIL in Syria this week. 
 
 Prime minister gambles on opposition support as Labour split deepens and Jeremy Corbyn comes under pressure to lift party whip
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/politics/2015/nov/29/cameron-to-risk-commons-vote-on-syria)
+1. [The Guardian](https://www.theguardian.com/politics/2015/nov/29/cameron-to-risk-commons-vote-on-syria)
 1. [Cover Image](https://i.guim.co.uk/img/media/338cdfe2acf30354f44d087de20a3289f329b1b1/0_242_6016_3608/master/6016.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=0cdbdd3564a74a2ad4735f3892512e4c)
 
 ### Related:

@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2006/01/31/iran-reacts-with-anger-to-its-referral-to-the-u-n-security-council-saying-diplomatic-avenues-have-been-closed.html)  [JSON](/news/2006/01/31/iran-reacts-with-anger-to-its-referral-to-the-u-n-security-council-saying-diplomatic-avenues-have-been-closed.json)  [XML](/news/2006/01/31/iran-reacts-with-anger-to-its-referral-to-the-u-n-security-council-saying-diplomatic-avenues-have-been-closed.xml)  
+
 ### [2006-01-31](/news/2006/01/31/index.md)
 
+##### Iran's nuclear program
 #  Iran reacts with anger to its referral to the U.N. Security Council, saying diplomatic avenues have been closed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/meast/01/31/iran.nuclear/index.html)
-2. [Reuters](http://news.yahoo.com/s/ap/20060131/ap_on_re_mi_ea/nuclear_agency_iran_6;_ylt=Ag8leiMaX9DEKhViJa.Jx.lSw60A;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
+2. [Reuters](https://news.yahoo.com/s/ap/20060131/ap_on_re_mi_ea/nuclear_agency_iran_6;_ylt=Ag8leiMaX9DEKhViJa.Jx.lSw60A;_ylu=X3oDMTBiMW04NW9mBHNlYwMlJVRPUCUl)
+
+### Changes:
+
+1. [ Iran's nuclear program: Iran reacts with anger to its referral to the U.N. Security Council, saying diplomatic avenues have been closed. ](/news/2006/01/31/iran-s-nuclear-program-iran-reacts-with-anger-to-its-referral-to-the-u-n-security-council-saying-diplomatic-avenues-have-been-closed.md) _2017-08-27 03:17:24 (First version)_
+1. [ Iran reacts with anger to its referral to the U.N. Security Council, saying diplomatic avenues have been closed. ](/news/2006/01/31/iran-reacts-with-anger-to-its-referral-to-the-u-n-security-council-saying-diplomatic-avenues-have-been-closed.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [ Iranian President Mahmoud Ahmadinejad threatens to pull Iran out of the Nuclear Nonproliferation Treaty if the United States and the EU 3 do not accept Iran's nuclear program. ](/news/2006/05/7/iranian-president-mahmoud-ahmadinejad-threatens-to-pull-iran-out-of-the-nuclear-nonproliferation-treaty-if-the-united-states-and-the-eu-3-d.md) _Context: Iran, Iran's nuclear program_
 4. [ China and Russia agree to refer Iran to the United Nations Security Council for its nuclear program in March 2006. ](/news/2006/01/30/china-and-russia-agree-to-refer-iran-to-the-united-nations-security-council-for-its-nuclear-program-in-march-2006.md) _Context: Iran, Iran's nuclear program_
 5. [ The foreign ministers of Britain, France, and Germany declare that negotiations with Iran over its nuclear program have reached a "dead end." They recommend that Iran be referred to the United Nations Security Council, where the nation may face sanctions. ](/news/2006/01/12/the-foreign-ministers-of-britain-france-and-germany-declare-that-negotiations-with-iran-over-its-nuclear-program-have-reached-a-dead-end.md) _Context: Iran, Iran's nuclear program_
-
-### Changes:
-
-1. [ Iran's nuclear program: Iran reacts with anger to its referral to the U.N. Security Council, saying diplomatic avenues have been closed. ](/news/2006/01/31/iran-s-nuclear-program-iran-reacts-with-anger-to-its-referral-to-the-u-n-security-council-saying-diplomatic-avenues-have-been-closed.md) _2017-08-27 03:17:24 (First version)_
-1. [ Iran reacts with anger to its referral to the U.N. Security Council, saying diplomatic avenues have been closed. ](/news/2006/01/31/iran-reacts-with-anger-to-its-referral-to-the-u-n-security-council-saying-diplomatic-avenues-have-been-closed.md) _(Current version)_

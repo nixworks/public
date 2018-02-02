@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/21/in-a-close-vote-ruben-studdard-beat-out-clay-aiken-to-become-the-next-american-idol.html)  [JSON](/news/2003/05/21/in-a-close-vote-ruben-studdard-beat-out-clay-aiken-to-become-the-next-american-idol.json)  [XML](/news/2003/05/21/in-a-close-vote-ruben-studdard-beat-out-clay-aiken-to-become-the-next-american-idol.xml)  
+
 ### [2003-05-21](/news/2003/05/21/index.md)
 
+##### Ruben Studdard
 #  In a close vote, Ruben Studdard beat out Clay Aiken to become the next American Idol.
 
 

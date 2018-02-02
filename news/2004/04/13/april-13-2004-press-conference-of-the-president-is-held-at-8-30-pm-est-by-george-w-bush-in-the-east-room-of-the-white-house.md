@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/04/13/april-13-2004-press-conference-of-the-president-is-held-at-8-30-pm-est-by-george-w-bush-in-the-east-room-of-the-white-house.html)  [JSON](/news/2004/04/13/april-13-2004-press-conference-of-the-president-is-held-at-8-30-pm-est-by-george-w-bush-in-the-east-room-of-the-white-house.json)  [XML](/news/2004/04/13/april-13-2004-press-conference-of-the-president-is-held-at-8-30-pm-est-by-george-w-bush-in-the-east-room-of-the-white-house.xml)  
+
 ### [2004-04-13](/news/2004/04/13/index.md)
 
+##### April 13, 2004 Press Conference of the President
 #  April 13, 2004 Press Conference of the President is held at 8:30 pm EST by George W. Bush in The East Room of the White House.
 
 

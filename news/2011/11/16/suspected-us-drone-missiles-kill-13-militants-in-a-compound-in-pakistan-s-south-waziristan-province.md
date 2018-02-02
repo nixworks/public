@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/16/suspected-us-drone-missiles-kill-13-militants-in-a-compound-in-pakistan-s-south-waziristan-province.html)  [JSON](/news/2011/11/16/suspected-us-drone-missiles-kill-13-militants-in-a-compound-in-pakistan-s-south-waziristan-province.json)  [XML](/news/2011/11/16/suspected-us-drone-missiles-kill-13-militants-in-a-compound-in-pakistan-s-south-waziristan-province.xml)  
+
 ### [2011-11-16](/news/2011/11/16/index.md)
 
+##### drones launch
 # Suspected US drone missiles kill 13 militants in a compound in Pakistan's South Waziristan province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5ju25piAvxMKsymleYtrx9pP4XuaA?docId=0d28f0ab6f474537b8a5cdffffd7f380)
 

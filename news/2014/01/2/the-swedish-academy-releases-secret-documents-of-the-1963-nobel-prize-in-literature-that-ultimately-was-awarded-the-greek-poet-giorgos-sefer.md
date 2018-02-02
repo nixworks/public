@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/2/the-swedish-academy-releases-secret-documents-of-the-1963-nobel-prize-in-literature-that-ultimately-was-awarded-the-greek-poet-giorgos-sefer.html)  [JSON](/news/2014/01/2/the-swedish-academy-releases-secret-documents-of-the-1963-nobel-prize-in-literature-that-ultimately-was-awarded-the-greek-poet-giorgos-sefer.json)  [XML](/news/2014/01/2/the-swedish-academy-releases-secret-documents-of-the-1963-nobel-prize-in-literature-that-ultimately-was-awarded-the-greek-poet-giorgos-sefer.xml)  
+
 ### [2014-01-2](/news/2014/01/2/index.md)
 
+##### Swedish Academy
 # The Swedish Academy releases secret documents of the 1963 Nobel Prize in Literature that ultimately was awarded the Greek poet Giorgos Seferis, revealing that writers such as Samuel Beckett and Vladimir Nabokov were dismissed early in the selection process.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Svenska Dagbladet](http://www.svd.se/kultur/svenska-akademien-ratade-immoralisk-succeroman_8864390.svd)
 

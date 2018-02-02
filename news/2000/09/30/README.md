@@ -1,7 +1,7 @@
-## [2000-09-30](/news/2000/09/30/index.md)
 
-### [ HM Prison Maze in Northern Ireland is closed.](/news/2000/09/30/hm-prison-maze-in-northern-ireland-is-closed.md)
-_Context: Maze, Northern Ireland, prisons_
+Formats: [HTML](2000/09/30/index.html)  [JSON](2000/09/30/index.json)  [XML](2000/09/30/index.xml)  
+
+## [2000-09-30](/news/2000/09/30/index.md)
 
 ## [Previous Day...](/news/2000/09/29/index.md)
 

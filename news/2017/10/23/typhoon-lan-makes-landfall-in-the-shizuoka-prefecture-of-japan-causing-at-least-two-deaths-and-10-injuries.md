@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/23/typhoon-lan-makes-landfall-in-the-shizuoka-prefecture-of-japan-causing-at-least-two-deaths-and-10-injuries.html)  [JSON](/news/2017/10/23/typhoon-lan-makes-landfall-in-the-shizuoka-prefecture-of-japan-causing-at-least-two-deaths-and-10-injuries.json)  [XML](/news/2017/10/23/typhoon-lan-makes-landfall-in-the-shizuoka-prefecture-of-japan-causing-at-least-two-deaths-and-10-injuries.xml)  
+
 ### [2017-10-23](/news/2017/10/23/index.md)
 
+##### 2017 Pacific typhoon season
 # Typhoon Lan makes landfall in the Shizuoka Prefecture of Japan, causing at least two deaths and 10 injuries. 
 
 A powerful typhoon ripped into central Japan early Monday, leaving 2 dead and more than 10 injured, hours after millions struggled to the polls for a national election.&nbsp; 
@@ -14,6 +18,6 @@ A powerful typhoon ripped into central Japan early Monday, leaving 2 dead and mo
 
 1. [Severe flooding on the Japanese island of Kyushu has caused seven deaths with twenty people unaccounted for. ](/news/2017/07/7/severe-flooding-on-the-japanese-island-of-kyushu-has-caused-seven-deaths-with-twenty-people-unaccounted-for.md) _Context: 2017 Pacific typhoon season, Japan_
 2. [Radioactive cesium above Japanese legal limits is found in tea from the Shizuoka Prefecture, located 300 kilometres from the earthquake-damaged Fukushima Daiichi Nuclear Power Plant. ](/news/2011/06/10/radioactive-cesium-above-japanese-legal-limits-is-found-in-tea-from-the-shizuoka-prefecture-located-300-kilometres-from-the-earthquake-dama.md) _Context: Japan, Shizuoka Prefecture_
-3. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Japan_
-4. [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md) _Context: Japan_
-5. [Aquatic species from Japan hitched a ride on debris from the 2011 Tohoku earthquake and tsunami and were able to reach the West Coast of the United States alive. ](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.md) _Context: Japan_
+3. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_
+4. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: Japan_
+5. [A 17-pound (8 kg) CH-53E transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-ch-53e-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week.md) _Context: Japan_

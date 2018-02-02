@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/27/the-australian-dollar-reaches-new-29-year-highs-against-the-us-dollar-due-to-higher-than-expected-inflation-figures-sparking-predictions-of.html)  [JSON](/news/2011/04/27/the-australian-dollar-reaches-new-29-year-highs-against-the-us-dollar-due-to-higher-than-expected-inflation-figures-sparking-predictions-of.json)  [XML](/news/2011/04/27/the-australian-dollar-reaches-new-29-year-highs-against-the-us-dollar-due-to-higher-than-expected-inflation-figures-sparking-predictions-of.xml)  
+
 ### [2011-04-27](/news/2011/04/27/index.md)
 
+##### A$
 # The Australian dollar reaches new 29-year highs against the US dollar due to higher than expected inflation figures sparking predictions of higher interest rates. 
 
 Official inflation numbers show the Queensland floods and unrest in the Middle East have pushed consumer prices higher than expected.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2011/04/27/3201320.htm?section=business)
 1. [Cover Image](http://www.abc.net.au/news/image/282142-1x1-700x700.jpg)

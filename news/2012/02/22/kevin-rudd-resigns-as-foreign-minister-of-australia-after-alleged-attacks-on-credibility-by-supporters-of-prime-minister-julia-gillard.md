@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/22/kevin-rudd-resigns-as-foreign-minister-of-australia-after-alleged-attacks-on-credibility-by-supporters-of-prime-minister-julia-gillard.html)  [JSON](/news/2012/02/22/kevin-rudd-resigns-as-foreign-minister-of-australia-after-alleged-attacks-on-credibility-by-supporters-of-prime-minister-julia-gillard.json)  [XML](/news/2012/02/22/kevin-rudd-resigns-as-foreign-minister-of-australia-after-alleged-attacks-on-credibility-by-supporters-of-prime-minister-julia-gillard.xml)  
+
 ### [2012-02-22](/news/2012/02/22/index.md)
 
+##### Kevin Rudd
 # Kevin Rudd resigns as Foreign Minister of Australia after alleged "attacks on credibility" by supporters of Prime Minister Julia Gillard. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/former-prime-minister-kevin-rudd-resigns-as-foreign-minister/story-e6frf7jx-1226278542431)
 

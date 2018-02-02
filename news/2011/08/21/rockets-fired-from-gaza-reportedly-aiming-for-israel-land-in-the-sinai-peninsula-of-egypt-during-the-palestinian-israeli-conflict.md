@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/21/rockets-fired-from-gaza-reportedly-aiming-for-israel-land-in-the-sinai-peninsula-of-egypt-during-the-palestinian-israeli-conflict.html)  [JSON](/news/2011/08/21/rockets-fired-from-gaza-reportedly-aiming-for-israel-land-in-the-sinai-peninsula-of-egypt-during-the-palestinian-israeli-conflict.json)  [XML](/news/2011/08/21/rockets-fired-from-gaza-reportedly-aiming-for-israel-land-in-the-sinai-peninsula-of-egypt-during-the-palestinian-israeli-conflict.xml)  
+
 ### [2011-08-21](/news/2011/08/21/index.md)
 
+##### Gaza Strip
 # Rockets fired from Gaza, reportedly aiming for Israel, land in the Sinai Peninsula of Egypt during the Palestinian-Israeli conflict. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gLrIXS7ihug2kbQlhiP6Aa38dEkw)
 

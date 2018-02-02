@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/27/the-moderate-islamist-renaissance-party-nahda-officially-wins-the-tunisian-constituent-assembly-election-gaining-more-than-41-of-the-vot.html)  [JSON](/news/2011/10/27/the-moderate-islamist-renaissance-party-nahda-officially-wins-the-tunisian-constituent-assembly-election-gaining-more-than-41-of-the-vot.json)  [XML](/news/2011/10/27/the-moderate-islamist-renaissance-party-nahda-officially-wins-the-tunisian-constituent-assembly-election-gaining-more-than-41-of-the-vot.xml)  
+
 ### [2011-10-27](/news/2011/10/27/index.md)
 
+##### Islamist
 # The moderate Islamist Renaissance Party (Nahda) officially wins the Tunisian Constituent Assembly election, gaining more than 41% of the vote and securing 90 of the 217 parliamentary seats being contested. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-15487647)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56304000/jpg/_56304042_013228883-1.jpg)

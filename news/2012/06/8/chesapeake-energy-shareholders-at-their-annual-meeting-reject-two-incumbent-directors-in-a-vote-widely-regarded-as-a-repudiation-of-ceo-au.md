@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/8/chesapeake-energy-shareholders-at-their-annual-meeting-reject-two-incumbent-directors-in-a-vote-widely-regarded-as-a-repudiation-of-ceo-au.html)  [JSON](/news/2012/06/8/chesapeake-energy-shareholders-at-their-annual-meeting-reject-two-incumbent-directors-in-a-vote-widely-regarded-as-a-repudiation-of-ceo-au.json)  [XML](/news/2012/06/8/chesapeake-energy-shareholders-at-their-annual-meeting-reject-two-incumbent-directors-in-a-vote-widely-regarded-as-a-repudiation-of-ceo-au.xml)  
+
 ### [2012-06-8](/news/2012/06/8/index.md)
 
+##### Chesapeake Energy
 # Chesapeake Energy shareholders, at their annual meeting, reject two incumbent directors in a vote widely regarded as a repudiation of CEO Aubrey McClendon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BusinessWeek](http://www.businessweek.com/news/2012-06-09/chesapeake-investors-punish-board)
 

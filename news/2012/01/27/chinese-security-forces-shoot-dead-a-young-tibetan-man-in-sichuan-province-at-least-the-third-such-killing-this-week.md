@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/27/chinese-security-forces-shoot-dead-a-young-tibetan-man-in-sichuan-province-at-least-the-third-such-killing-this-week.html)  [JSON](/news/2012/01/27/chinese-security-forces-shoot-dead-a-young-tibetan-man-in-sichuan-province-at-least-the-third-such-killing-this-week.json)  [XML](/news/2012/01/27/chinese-security-forces-shoot-dead-a-young-tibetan-man-in-sichuan-province-at-least-the-third-such-killing-this-week.xml)  
+
 ### [2012-01-27](/news/2012/01/27/index.md)
 
+##### China
 # Chinese security forces shoot dead a young Tibetan man in Sichuan province, at least the third such killing this week. 
 
 Chinese security forces have shot dead a young Tibetan in Sichuan province, campaign groups say, in what would be the third such killing this week.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-16764849)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58142000/jpg/_58142719_013832022-1.jpg)

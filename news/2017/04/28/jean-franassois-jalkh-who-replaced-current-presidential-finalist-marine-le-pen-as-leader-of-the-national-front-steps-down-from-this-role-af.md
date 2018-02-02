@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/28/jean-franassois-jalkh-who-replaced-current-pres
 
 ### [2017-04-28](/news/2017/04/28/index.md)
 
+##### last month's presidential election
 # Jean-Francois Jalkh, who replaced current presidential finalist Marine Le Pen as leader of the National Front, steps down from this role after three days following the reemergence of his comments questioning the logistics of Holocaust extermination camps, and is replaced by Steeve Briois. 
 
 Her party’s top official was forced to step aside after he was cited questioning the Holocaust.

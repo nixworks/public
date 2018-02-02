@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/4/scientists-report-the-finding-of-a-2-8-million-year-old-jawbone-the-ledi-jaw-forming-a-potential-link-between-the-3-2-million-year-old-h.html)  [JSON](/news/2015/03/4/scientists-report-the-finding-of-a-2-8-million-year-old-jawbone-the-ledi-jaw-forming-a-potential-link-between-the-3-2-million-year-old-h.json)  [XML](/news/2015/03/4/scientists-report-the-finding-of-a-2-8-million-year-old-jawbone-the-ledi-jaw-forming-a-potential-link-between-the-3-2-million-year-old-h.xml)  
+
 ### [2015-03-4](/news/2015/03/4/index.md)
 
+##### hominin
 # Scientists report the finding of a 2.8-million-year-old jawbone (the "Ledi jaw") forming a potential link between the 3.2-million-year-old hominin (human-like primate) Lucy (Australopithecus) found in the same area, and the 2.35-million-year-old remains of "Homo habilis" found at nearby Hadar. If assigned to the genus "Homo", the new remains represent the oldest known human, some 400,000 years older than previously found. 
 
 Scientists working in Ethiopia have uncovered a jawbone fossil which may push the origin of humans back 400,000 years.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-31718336)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/81374000/jpg/_81374677_jawbone2.jpg)

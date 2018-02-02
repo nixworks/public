@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/5/the-cambodian-government-closes-an-investigation-into-the-shooting-of-anti-logging-activist-chhut-vuthy-and-a-military-policeman-after-the-a.html)  [JSON](/news/2012/05/5/the-cambodian-government-closes-an-investigation-into-the-shooting-of-anti-logging-activist-chhut-vuthy-and-a-military-policeman-after-the-a.json)  [XML](/news/2012/05/5/the-cambodian-government-closes-an-investigation-into-the-shooting-of-anti-logging-activist-chhut-vuthy-and-a-military-policeman-after-the-a.xml)  
+
 ### [2012-05-5](/news/2012/05/5/index.md)
 
+##### Cambodia
 # The Cambodian government closes an investigation into the shooting of anti-logging activist Chhut Vuthy and a military policeman after the arrest of a security guard. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_795663.html)
 

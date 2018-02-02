@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/5/2011-national-people-s-congress-chinese-premier-wen-jiabao-delivers-the-annual-government-work-report-to-the-national-people-s-congress-in.html)  [JSON](/news/2011/03/5/2011-national-people-s-congress-chinese-premier-wen-jiabao-delivers-the-annual-government-work-report-to-the-national-people-s-congress-in.json)  [XML](/news/2011/03/5/2011-national-people-s-congress-chinese-premier-wen-jiabao-delivers-the-annual-government-work-report-to-the-national-people-s-congress-in.xml)  
+
 ### [2011-03-5](/news/2011/03/5/index.md)
 
+##### 2011 National People's Congress
 # 2011 National People's Congress: Chinese Premier Wen Jiabao delivers the annual Government Work Report to the National People's Congress in the Great Hall of the People in Beijing, outlining the priorities for the Chinese government in the next five years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12654931)
 2. [China Daily](http://europe.chinadaily.com.cn/china/2011-03/05/content_12121132.htm)

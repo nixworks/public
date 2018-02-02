@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/2/king-juan-carlos-i-of-spain-announces-that-he-is-to-abdicate-with-felipe-prince-of-asturias-to-succeed-him.html)  [JSON](/news/2014/06/2/king-juan-carlos-i-of-spain-announces-that-he-is-to-abdicate-with-felipe-prince-of-asturias-to-succeed-him.json)  [XML](/news/2014/06/2/king-juan-carlos-i-of-spain-announces-that-he-is-to-abdicate-with-felipe-prince-of-asturias-to-succeed-him.xml)  
+
 ### [2014-06-2](/news/2014/06/2/index.md)
 
+##### Juan Carlos I
 # King Juan Carlos I of Spain announces that he is to abdicate with Felipe, Prince of Asturias, to succeed him. 
 
 Spanish Prime Minister Mariano Rahoy has said 76-year-old King Juan Carlos is to abdicate and his son Crown Prince Felipe will take over the throne.
 
 
-### Source:
+### Sources:
 
 1. [RTE](http://www.rte.ie/news/2014/0602/621067-spains-king/)
 1. [Cover Image](https://img.rasset.ie/000904b4-1600.jpg)

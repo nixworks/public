@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/3/at-least-11-people-are-killed-in-a-fire-at-a-filling-station-in-the-ghanaian-capital-accra.html)  [JSON](/news/2015/06/3/at-least-11-people-are-killed-in-a-fire-at-a-filling-station-in-the-ghanaian-capital-accra.json)  [XML](/news/2015/06/3/at-least-11-people-are-killed-in-a-fire-at-a-filling-station-in-the-ghanaian-capital-accra.xml)  
+
 ### [2015-06-3](/news/2015/06/3/index.md)
 
+##### filling station
 # At least 11 people are killed in a fire at a filling station in the Ghanaian capital Accra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kasapa](http://www.kasapafmonline.com/update-11-dead-in-goil-filling-station-fire-number-could-go-up/)
 1. [Cover Image](http://kasapafmonline.com/wp-content/uploads/2015/06/20150603_225940.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/29/at-least-15-people-are-killed-in-a-rooftop-rest
 
 ### [2017-12-29](/news/2017/12/29/index.md)
 
+##### Kamala Mills fire
 # At least 15 people are killed in a rooftop restaurant fire in Mumbai, India. 
 
  NEW DELHI (AP) — Flames shot into the nighttime sky early Friday as a fire engulfed an upscale rooftop restaurant in the Indian city of Mumbai, killing 15 people and sending other

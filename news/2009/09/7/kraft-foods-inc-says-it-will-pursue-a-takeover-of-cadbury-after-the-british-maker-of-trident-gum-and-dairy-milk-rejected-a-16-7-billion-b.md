@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/09/7/kraft-foods-inc-says-it-will-pursue-a-takeover-of-cadbury-after-the-british-maker-of-trident-gum-and-dairy-milk-rejected-a-16-7-billion-b.html)  [JSON](/news/2009/09/7/kraft-foods-inc-says-it-will-pursue-a-takeover-of-cadbury-after-the-british-maker-of-trident-gum-and-dairy-milk-rejected-a-16-7-billion-b.json)  [XML](/news/2009/09/7/kraft-foods-inc-says-it-will-pursue-a-takeover-of-cadbury-after-the-british-maker-of-trident-gum-and-dairy-milk-rejected-a-16-7-billion-b.xml)  
+
 ### [2009-09-7](/news/2009/09/7/index.md)
 
+##### Kraft Foods Inc.
 #  Kraft Foods Inc. says it will pursue a takeover of Cadbury after the British maker of Trident gum and Dairy Milk rejected a $16.7 billion bid. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=atVk42eW3GqY)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=atVk42eW3GqY)
 
 ### Related:
 

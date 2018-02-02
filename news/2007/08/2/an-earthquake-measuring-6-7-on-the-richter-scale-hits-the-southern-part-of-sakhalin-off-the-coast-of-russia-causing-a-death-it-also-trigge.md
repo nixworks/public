@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/2/an-earthquake-measuring-6-7-on-the-richter-scale-hits-the-southern-part-of-sakhalin-off-the-coast-of-russia-causing-a-death-it-also-trigge.html)  [JSON](/news/2007/08/2/an-earthquake-measuring-6-7-on-the-richter-scale-hits-the-southern-part-of-sakhalin-off-the-coast-of-russia-causing-a-death-it-also-trigge.json)  [XML](/news/2007/08/2/an-earthquake-measuring-6-7-on-the-richter-scale-hits-the-southern-part-of-sakhalin-off-the-coast-of-russia-causing-a-death-it-also-trigge.xml)  
+
 ### [2007-08-2](/news/2007/08/2/index.md)
 
+##### earthquake
 #  An earthquake measuring 6.7 on the Richter Scale hits the southern part of Sakhalin off the coast of Russia causing a death. It also triggered a small tsunami that struck the coast of Hokkaido in Japan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Russian News and Information Agency](http://en.rian.ru/russia/20070802/70149036.html)
 

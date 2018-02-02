@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/10/the-court-of-appeal-of-england-and-wales-rules-that-open-air-funeral-pyres-can-be-accommodated-under-the-1902-cremation-act-as-amended.html)  [JSON](/news/2010/02/10/the-court-of-appeal-of-england-and-wales-rules-that-open-air-funeral-pyres-can-be-accommodated-under-the-1902-cremation-act-as-amended.json)  [XML](/news/2010/02/10/the-court-of-appeal-of-england-and-wales-rules-that-open-air-funeral-pyres-can-be-accommodated-under-the-1902-cremation-act-as-amended.xml)  
+
 ### [2010-02-10](/news/2010/02/10/index.md)
 
+##### Britain's Court of Appeal
 # The Court of Appeal of England and Wales rules that open air funeral pyres can be accommodated under the 1902 Cremation Act as amended. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/tyne/8507811.stm)
 

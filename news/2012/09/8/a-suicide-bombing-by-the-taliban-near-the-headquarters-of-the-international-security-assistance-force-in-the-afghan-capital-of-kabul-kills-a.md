@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/8/a-suicide-bombing-by-the-taliban-near-the-headquarters-of-the-international-security-assistance-force-in-the-afghan-capital-of-kabul-kills-a.html)  [JSON](/news/2012/09/8/a-suicide-bombing-by-the-taliban-near-the-headquarters-of-the-international-security-assistance-force-in-the-afghan-capital-of-kabul-kills-a.json)  [XML](/news/2012/09/8/a-suicide-bombing-by-the-taliban-near-the-headquarters-of-the-international-security-assistance-force-in-the-afghan-capital-of-kabul-kills-a.xml)  
+
 ### [2012-09-8](/news/2012/09/8/index.md)
 
+##### suicide bombing
 # A suicide bombing by the Taliban near the headquarters of the International Security Assistance Force in the Afghan capital of Kabul kills at least six people. 
 
 A teenage suicide bomber kills at least six people including a number of children near the headquarters of the Nato-led coalition in the Afghan capital Kabul.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19528417)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62766000/jpg/_62766060_watch_afp.jpg)

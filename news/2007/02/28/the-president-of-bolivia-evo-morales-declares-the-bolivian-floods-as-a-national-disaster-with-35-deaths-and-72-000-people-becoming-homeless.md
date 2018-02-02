@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/28/the-president-of-bolivia-evo-morales-declares-the-bolivian-floods-as-a-national-disaster-with-35-deaths-and-72-000-people-becoming-homeless.html)  [JSON](/news/2007/02/28/the-president-of-bolivia-evo-morales-declares-the-bolivian-floods-as-a-national-disaster-with-35-deaths-and-72-000-people-becoming-homeless.json)  [XML](/news/2007/02/28/the-president-of-bolivia-evo-morales-declares-the-bolivian-floods-as-a-national-disaster-with-35-deaths-and-72-000-people-becoming-homeless.xml)  
+
 ### [2007-02-28](/news/2007/02/28/index.md)
 
+##### President of Bolivia
 #  The President of Bolivia Evo Morales declares the Bolivian floods as a national disaster with 35 deaths and 72,000 people becoming homeless. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/americas/02/28/bolivia.floods.ap/index.html?eref=rss_world)
 

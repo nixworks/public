@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/22/after-months-of-delays-american-company-spacex-successfully-launches-its-unmanned-dragon-spacecraft-aboard-a-falcon-9-rocket-beginning-a-t.html)  [JSON](/news/2012/05/22/after-months-of-delays-american-company-spacex-successfully-launches-its-unmanned-dragon-spacecraft-aboard-a-falcon-9-rocket-beginning-a-t.json)  [XML](/news/2012/05/22/after-months-of-delays-american-company-spacex-successfully-launches-its-unmanned-dragon-spacecraft-aboard-a-falcon-9-rocket-beginning-a-t.xml)  
+
 ### [2012-05-22](/news/2012/05/22/index.md)
 
+##### SpaceX
 # After months of delays, American company SpaceX successfully launches its unmanned Dragon spacecraft aboard a Falcon 9 rocket, beginning a test mission to the International Space Station (ISS). 
 
 The head of Nasa has hailed a &quot;new era&quot; in exploration after the launch of the first cargo delivery to the space station by a private company.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-18154937)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60396000/jpg/_60396604_60396603.jpg)

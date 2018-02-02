@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/27/a-bomb-goes-off-in-a-supermarket-in-the-russian
 
 ### [2017-12-27](/news/2017/12/27/index.md)
 
+##### Perekrestok supermarket bombing
 # A bomb goes off in a supermarket in the Russian city of Saint Petersburg, injuring at least 10 people. Police say they are treating the blast as an attempted terror attack. Social media accounts linked to ISIL have claimed responsibility. 
 
 A blast ripped through a supermarket in the Russian city of St Petersburg on Wednesday evening, injuring several shoppers, Russian news agencies reported.

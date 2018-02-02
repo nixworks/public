@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/17/people-s-alliance-for-democracy-leader-sondhi-limthongkul-is-injured-in-an-apparent-assassination-attempt-in-bangkok-thailand.html)  [JSON](/news/2009/04/17/people-s-alliance-for-democracy-leader-sondhi-limthongkul-is-injured-in-an-apparent-assassination-attempt-in-bangkok-thailand.json)  [XML](/news/2009/04/17/people-s-alliance-for-democracy-leader-sondhi-limthongkul-is-injured-in-an-apparent-assassination-attempt-in-bangkok-thailand.xml)  
+
 ### [2009-04-17](/news/2009/04/17/index.md)
 
+##### yellow shirt
 #  People's Alliance for Democracy leader Sondhi Limthongkul is injured in an apparent assassination attempt in Bangkok, Thailand. 
 
 The prime minister of Thailand extended a state of emergency Friday and pledged to launch an investigation into the assassination attempt on a prominent protest leader that occurred here earlier in...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-thailand18-2009apr18,0,1959338.story)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

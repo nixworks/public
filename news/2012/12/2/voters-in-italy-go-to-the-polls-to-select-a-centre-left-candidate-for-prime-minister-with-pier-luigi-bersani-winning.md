@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/12/2/voters-in-italy-go-to-the-polls-to-select-a-centre-left-candidate-for-prime-minister-with-pier-luigi-bersani-winning.html)  [JSON](/news/2012/12/2/voters-in-italy-go-to-the-polls-to-select-a-centre-left-candidate-for-prime-minister-with-pier-luigi-bersani-winning.json)  [XML](/news/2012/12/2/voters-in-italy-go-to-the-polls-to-select-a-centre-left-candidate-for-prime-minister-with-pier-luigi-bersani-winning.xml)  
+
 ### [2012-12-2](/news/2012/12/2/index.md)
 
+##### Italy
 # Voters in Italy go to the polls to select a centre-left candidate for Prime Minister with Pier Luigi Bersani winning. 
 
 Pier Luigi Bersani won a run-off primary election by a huge margin on Sunday to become the Italian center-left candidate for prime minister in national elections early next year.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-20574581)
-2. [Reuters](http://www.reuters.com/article/2012/12/02/us-italy-left-exitpoll-idUSBRE8B10D920121202)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121202&t=2&i=680432584&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B11I0U00)
+2. [Reuters](https://www.reuters.com/article/2012/12/02/us-italy-left-exitpoll-idUSBRE8B10D920121202)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121202&t=2&i=680432584&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B11I0U00)
 
 ### Related:
 

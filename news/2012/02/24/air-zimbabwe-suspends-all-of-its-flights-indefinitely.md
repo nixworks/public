@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/24/air-zimbabwe-suspends-all-of-its-flights-indefinitely.html)  [JSON](/news/2012/02/24/air-zimbabwe-suspends-all-of-its-flights-indefinitely.json)  [XML](/news/2012/02/24/air-zimbabwe-suspends-all-of-its-flights-indefinitely.xml)  
+
 ### [2012-02-24](/news/2012/02/24/index.md)
 
+##### Air Zimbabwe
 # Air Zimbabwe suspends all of its flights indefinitely. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/air-zimbabwe-suspends-all-flights-1.1242268)
 

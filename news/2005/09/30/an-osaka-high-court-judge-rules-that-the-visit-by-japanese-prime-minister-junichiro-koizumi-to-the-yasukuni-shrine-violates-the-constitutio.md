@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/30/an-osaka-high-court-judge-rules-that-the-visit-by-japanese-prime-minister-junichiro-koizumi-to-the-yasukuni-shrine-violates-the-constitutio.html)  [JSON](/news/2005/09/30/an-osaka-high-court-judge-rules-that-the-visit-by-japanese-prime-minister-junichiro-koizumi-to-the-yasukuni-shrine-violates-the-constitutio.json)  [XML](/news/2005/09/30/an-osaka-high-court-judge-rules-that-the-visit-by-japanese-prime-minister-junichiro-koizumi-to-the-yasukuni-shrine-violates-the-constitutio.xml)  
+
 ### [2005-09-30](/news/2005/09/30/index.md)
 
+##### Osaka
 #  An Osaka High Court judge rules that the visit by Japanese Prime Minister Junichiro Koizumi to the Yasukuni Shrine violates the constitution's separation of church and state. The visit by a Japanese head of government to the war shrine is a sensitive issue with China and South Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://go.reuters.com/newsArticle.jhtml?type=worldNews&storyID=9797022&src=rss/worldNews)
 

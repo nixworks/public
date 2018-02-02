@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/10/russian-billionaire-businessman-alisher-usmanov-who-bought-the-1962-nobel-gold-medal-of-scientist-james-watson-says-that-he-is-donating-it-b.html)  [JSON](/news/2014/12/10/russian-billionaire-businessman-alisher-usmanov-who-bought-the-1962-nobel-gold-medal-of-scientist-james-watson-says-that-he-is-donating-it-b.json)  [XML](/news/2014/12/10/russian-billionaire-businessman-alisher-usmanov-who-bought-the-1962-nobel-gold-medal-of-scientist-james-watson-says-that-he-is-donating-it-b.xml)  
+
 ### [2014-12-10](/news/2014/12/10/index.md)
 
+##### Alisher Usmanov
 # Russian billionaire businessman Alisher Usmanov who bought the 1962 Nobel gold medal of scientist James Watson says that he is donating it back to Watson as a gift because the "discovery of DNA structure must belong to him". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-30406322)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/79635000/jpg/_79635335_hi024874144.jpg)

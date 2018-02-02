@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/18/a-roadside-bomb-hits-a-military-convoy-killing-
 
 ### [2016-02-18](/news/2016/02/18/index.md)
 
+##### Kurdish-Turkish conflict
 # A roadside bomb hits a military convoy, killing six Turkish Army soldiers in the southeast Diyarbakir Province. 
 
 The Turkish Prime Minister blames Kurdish militants for a deadly car bombing in Ankara that killed 28 people.

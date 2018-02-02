@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/10/18/authorities-closed-one-of-two-highway-tunnels-carrying-traffic-under-baltimore-maryland-s-harbor-following-a-threat-to-detonate-explosive.html)  [JSON](/news/2005/10/18/authorities-closed-one-of-two-highway-tunnels-carrying-traffic-under-baltimore-maryland-s-harbor-following-a-threat-to-detonate-explosive.json)  [XML](/news/2005/10/18/authorities-closed-one-of-two-highway-tunnels-carrying-traffic-under-baltimore-maryland-s-harbor-following-a-threat-to-detonate-explosive.xml)  
+
 ### [2005-10-18](/news/2005/10/18/index.md)
 
+##### Baltimore
 #  Authorities closed one of two highway tunnels carrying traffic under Baltimore, Maryland's harbor following a threat to detonate explosive filled vehicles.
 
 

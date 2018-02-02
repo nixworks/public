@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/2/a-french-appeals-court-upholds-a-2009-conviction-of-the-church-of-scientology-on-fraud-charges.html)  [JSON](/news/2012/02/2/a-french-appeals-court-upholds-a-2009-conviction-of-the-church-of-scientology-on-fraud-charges.json)  [XML](/news/2012/02/2/a-french-appeals-court-upholds-a-2009-conviction-of-the-church-of-scientology-on-fraud-charges.xml)  
+
 ### [2012-02-2](/news/2012/02/2/index.md)
 
+##### French-born
 # A French appeals court upholds a 2009 conviction of the Church of Scientology on fraud charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iGJeXWr0b3grZWf7pubFZIk9B8_Q?docId=b52a4ca13a0c4ae482b5893ba63a2a36)
 

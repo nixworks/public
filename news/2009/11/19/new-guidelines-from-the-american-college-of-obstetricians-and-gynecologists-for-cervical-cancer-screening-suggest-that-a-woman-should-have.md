@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/11/19/new-guidelines-from-the-american-college-of-obstetricians-and-gynecologists-for-cervical-cancer-screening-suggest-that-a-woman-should-have.html)  [JSON](/news/2009/11/19/new-guidelines-from-the-american-college-of-obstetricians-and-gynecologists-for-cervical-cancer-screening-suggest-that-a-woman-should-have.json)  [XML](/news/2009/11/19/new-guidelines-from-the-american-college-of-obstetricians-and-gynecologists-for-cervical-cancer-screening-suggest-that-a-woman-should-have.xml)  
+
 ### [2009-11-19](/news/2009/11/19/index.md)
 
+##### American College of Obstetricians and Gynecologists
 #  New guidelines from the American College of Obstetricians and Gynecologists for cervical cancer screening suggest that a woman should have her first pap smear at age 21. 
 
 New guidelines for cervical cancer screening say women should delay their first Pap test until age 21, and go for screening less often than had been previously recommended.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2009/11/20/health/20pap.html?emc=na)
+1. [New York Times](https://www.nytimes.com/2009/11/20/health/20pap.html?emc=na)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/14/a-tropical-storm-warning-is-issued-for-parts-of-texas-and-mexico-following-the-formation-of-a-tropical-depression-in-the-gulf-of-mexico.html)  [JSON](/news/2007/08/14/a-tropical-storm-warning-is-issued-for-parts-of-texas-and-mexico-following-the-formation-of-a-tropical-depression-in-the-gulf-of-mexico.json)  [XML](/news/2007/08/14/a-tropical-storm-warning-is-issued-for-parts-of-texas-and-mexico-following-the-formation-of-a-tropical-depression-in-the-gulf-of-mexico.xml)  
+
 ### [2007-08-14](/news/2007/08/14/index.md)
 
+##### tropical storm
 #  A tropical storm warning is issued for parts of Texas and Mexico following the formation of a tropical depression in the Gulf of Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6850738,00.html)
 

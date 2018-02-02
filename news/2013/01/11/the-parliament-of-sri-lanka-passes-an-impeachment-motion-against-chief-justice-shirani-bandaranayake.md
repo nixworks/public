@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/11/the-parliament-of-sri-lanka-passes-an-impeachment-motion-against-chief-justice-shirani-bandaranayake.html)  [JSON](/news/2013/01/11/the-parliament-of-sri-lanka-passes-an-impeachment-motion-against-chief-justice-shirani-bandaranayake.json)  [XML](/news/2013/01/11/the-parliament-of-sri-lanka-passes-an-impeachment-motion-against-chief-justice-shirani-bandaranayake.xml)  
+
 ### [2013-01-11](/news/2013/01/11/index.md)
 
+##### Parliament
 # The Parliament of Sri Lanka passes an impeachment motion against Chief Justice Shirani Bandaranayake. 
 
 The Sri Lankan parliament votes to remove Chief Justice Shirani Bandaranayake in a move analysts say could trigger a constitutional crisis.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20982990)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65232000/jpg/_65232940_65232939.jpg)

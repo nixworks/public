@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/5/the-22nd-sea-games-open-in-ho-chi-minh-city-vietnam-this-is-the-first-time-vietnam-has-hosted-the-regional-athletic-event-and-the-first-ti.html)  [JSON](/news/2003/12/5/the-22nd-sea-games-open-in-ho-chi-minh-city-vietnam-this-is-the-first-time-vietnam-has-hosted-the-regional-athletic-event-and-the-first-ti.json)  [XML](/news/2003/12/5/the-22nd-sea-games-open-in-ho-chi-minh-city-vietnam-this-is-the-first-time-vietnam-has-hosted-the-regional-athletic-event-and-the-first-ti.xml)  
+
 ### [2003-12-5](/news/2003/12/5/index.md)
 
+##### 22nd SEA Games
 # The 22nd SEA Games open in Ho Chi Minh City, Vietnam. This is the first time Vietnam has hosted the regional athletic event and the first time East Timor has sent a delegation. Indonesia and Vietnam are expected to top the medal tallies. 
 
 

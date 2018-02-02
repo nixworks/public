@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/28/shane-filan-marries-gillian-walsh-in-ballintubber-abbey-ireland.html)  [JSON](/news/2003/12/28/shane-filan-marries-gillian-walsh-in-ballintubber-abbey-ireland.json)  [XML](/news/2003/12/28/shane-filan-marries-gillian-walsh-in-ballintubber-abbey-ireland.xml)  
+
 ### [2003-12-28](/news/2003/12/28/index.md)
 
+##### Shane Filan
 # Shane Filan marries Gillian Walsh in Ballintubber Abbey, Ireland.
 
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/12/17/the-united-states-declares-hizbullah-s-al-manar-tv-channel-to-be-a-terrorist-organization.html)  [JSON](/news/2004/12/17/the-united-states-declares-hizbullah-s-al-manar-tv-channel-to-be-a-terrorist-organization.json)  [XML](/news/2004/12/17/the-united-states-declares-hizbullah-s-al-manar-tv-channel-to-be-a-terrorist-organization.xml)  
+
 ### [2004-12-17](/news/2004/12/17/index.md)
 
+##### Hizbullah
 #  The United States declares Hizbullah's "al-Manar" TV channel to be a terrorist organization. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/A2751281-EEC6-4B8E-B36A-D9996FCA6B7D.htm)
-2. [White House Official Statement](http://georgewbush-whitehouse.archives.gov/news/releases/2004/12/20041217-3.html)
+2. [White House Official Statement](https://georgewbush-whitehouse.archives.gov/news/releases/2004/12/20041217-3.html)
 
 ### Related:
 

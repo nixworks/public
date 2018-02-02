@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/15/a-us-85-million-test-of-the-u-s-national-missile-defense-system-by-the-missile-defense-agency-is-aborted-when-an-unknown-anomaly-is-detect.html)  [JSON](/news/2004/12/15/a-us-85-million-test-of-the-u-s-national-missile-defense-system-by-the-missile-defense-agency-is-aborted-when-an-unknown-anomaly-is-detect.json)  [XML](/news/2004/12/15/a-us-85-million-test-of-the-u-s-national-missile-defense-system-by-the-missile-defense-agency-is-aborted-when-an-unknown-anomaly-is-detect.xml)  
+
 ### [2004-12-15](/news/2004/12/15/index.md)
 
+##### $
 #  A US$85 million test of the U.S. National Missile Defense system by the Missile Defense Agency is aborted when an unknown anomaly is detected before the launch of an interceptor missile in the Marshall Islands, 16 minutes after the launch of the target from Kodiak Island, Alaska. It is the first test since a previous failed test in 2002. As in 2002, the Bush administration abandons plans to activate the system by the end of the year, and projects its activation in early 2005. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1103330273726_9/?hub=World)
 2. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=638827)

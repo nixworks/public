@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/29/more-than-220-people-are-rescued-from-two-ice-floes-that-broke-off-of-latvia-and-were-blown-into-the-gulf-of-riga.html)  [JSON](/news/2013/03/29/more-than-220-people-are-rescued-from-two-ice-floes-that-broke-off-of-latvia-and-were-blown-into-the-gulf-of-riga.json)  [XML](/news/2013/03/29/more-than-220-people-are-rescued-from-two-ice-floes-that-broke-off-of-latvia-and-were-blown-into-the-gulf-of-riga.xml)  
+
 ### [2013-03-29](/news/2013/03/29/index.md)
 
+##### ice floes
 # More than 220 people are rescued from two ice floes that broke off of Latvia and were blown into the Gulf of Riga. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/03/29/world/europe/latvia-ice-stranded/)
 

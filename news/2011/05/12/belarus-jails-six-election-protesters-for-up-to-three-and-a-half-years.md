@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/belarus-jails-six-election-protesters-for-up-to-three-and-a-half-years.html)  [JSON](/news/2011/05/12/belarus-jails-six-election-protesters-for-up-to-three-and-a-half-years.json)  [XML](/news/2011/05/12/belarus-jails-six-election-protesters-for-up-to-three-and-a-half-years.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### Belarus
 # Belarus jails six election protesters for up to three and a half years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iHmk6w3pM9vXoYAyYk8iA5DxVfug?docId=CNG.1e5b01d7a0facaec3f2717d2dd941611.6d1)
 

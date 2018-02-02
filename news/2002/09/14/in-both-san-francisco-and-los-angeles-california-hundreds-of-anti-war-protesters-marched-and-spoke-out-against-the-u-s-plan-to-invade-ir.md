@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/14/in-both-san-francisco-and-los-angeles-california-hundreds-of-anti-war-protesters-marched-and-spoke-out-against-the-u-s-plan-to-invade-ir.html)  [JSON](/news/2002/09/14/in-both-san-francisco-and-los-angeles-california-hundreds-of-anti-war-protesters-marched-and-spoke-out-against-the-u-s-plan-to-invade-ir.json)  [XML](/news/2002/09/14/in-both-san-francisco-and-los-angeles-california-hundreds-of-anti-war-protesters-marched-and-spoke-out-against-the-u-s-plan-to-invade-ir.xml)  
+
 ### [2002-09-14](/news/2002/09/14/index.md)
 
+##### San Francisco, California
 #  In both San Francisco and Los Angeles, California, hundreds of anti-war protesters marched and spoke out against the U.S. plan to invade Iraq.
 
 

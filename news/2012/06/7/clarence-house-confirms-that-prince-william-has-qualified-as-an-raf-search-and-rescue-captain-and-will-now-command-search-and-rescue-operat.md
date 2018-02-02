@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/7/clarence-house-confirms-that-prince-william-has-qualified-as-an-raf-search-and-rescue-captain-and-will-now-command-search-and-rescue-operat.html)  [JSON](/news/2012/06/7/clarence-house-confirms-that-prince-william-has-qualified-as-an-raf-search-and-rescue-captain-and-will-now-command-search-and-rescue-operat.json)  [XML](/news/2012/06/7/clarence-house-confirms-that-prince-william-has-qualified-as-an-raf-search-and-rescue-captain-and-will-now-command-search-and-rescue-operat.xml)  
+
 ### [2012-06-7](/news/2012/06/7/index.md)
 
+##### Clarence House
 # Clarence House confirms that Prince William has qualified as an RAF search and rescue captain, and will now command search and rescue operations in Sea King helicopters. 
 
 Prince William qualified as an RAF search and rescue captain just a few days before the Diamond Jubilee celebrations, Clarence House reveals.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18354699)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60754000/jpg/_60754790_william_mod.jpg)

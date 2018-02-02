@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/28/at-least-152-coal-miners-are-trapped-after-a-pit-floods-in-shanxi-while-109-others-escape.html)  [JSON](/news/2010/03/28/at-least-152-coal-miners-are-trapped-after-a-pit-floods-in-shanxi-while-109-others-escape.json)  [XML](/news/2010/03/28/at-least-152-coal-miners-are-trapped-after-a-pit-floods-in-shanxi-while-109-others-escape.xml)  
+
 ### [2010-03-28](/news/2010/03/28/index.md)
 
+##### Shanxi province
 # At least 152 coal miners are trapped after a pit floods in Shanxi, while 109 others escape. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8591547.stm)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-03/28/content_9653097.htm)

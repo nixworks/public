@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/17/japan-says-china-has-shipped-drilling-equipment-to-a-disputed-gas-field-amid-a-diplomatic-row-over-the-seizure-of-a-chinese-fishing-boat-cap.html)  [JSON](/news/2010/09/17/japan-says-china-has-shipped-drilling-equipment-to-a-disputed-gas-field-amid-a-diplomatic-row-over-the-seizure-of-a-chinese-fishing-boat-cap.json)  [XML](/news/2010/09/17/japan-says-china-has-shipped-drilling-equipment-to-a-disputed-gas-field-amid-a-diplomatic-row-over-the-seizure-of-a-chinese-fishing-boat-cap.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### Japan
 # Japan says China has shipped drilling equipment to a disputed gas field amid a diplomatic row over the seizure of a Chinese fishing boat captain near the disputed Senkaku Islands. 
 
 Japan says China has shipped drilling equipment to a disputed gas field in the East China Sea, fuelling diplomatic tensions between the Asian giants.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h2UZ4xkSN1JFrpaMos6g25i93j8Q)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11340220)

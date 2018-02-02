@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/02/26/general-motors-reports-a-us-9-6-billion-loss-due-to-the-current-automotive-industry-crisis.html)  [JSON](/news/2009/02/26/general-motors-reports-a-us-9-6-billion-loss-due-to-the-current-automotive-industry-crisis.json)  [XML](/news/2009/02/26/general-motors-reports-a-us-9-6-billion-loss-due-to-the-current-automotive-industry-crisis.xml)  
+
 ### [2009-02-26](/news/2009/02/26/index.md)
 
+##### General Motors
 #  General Motors reports a US$9.6 billion loss, due to the current automotive industry crisis. 
 
 Rick Wagoner, the chief executive of General Motors, met with government officials to discuss the carmaker’s finances after the company reported a $9.6 billion loss for the quarter.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2009/02/27/business/27auto.html?_r=1&partner=rss&emc=rss)
+1. [New York Times](https://www.nytimes.com/2009/02/27/business/27auto.html?_r=1&partner=rss&emc=rss)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

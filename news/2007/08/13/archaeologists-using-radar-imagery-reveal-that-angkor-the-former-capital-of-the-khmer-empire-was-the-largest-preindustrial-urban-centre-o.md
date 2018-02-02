@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/13/archaeologists-using-radar-imagery-reveal-that-angkor-the-former-capital-of-the-khmer-empire-was-the-largest-preindustrial-urban-centre-o.html)  [JSON](/news/2007/08/13/archaeologists-using-radar-imagery-reveal-that-angkor-the-former-capital-of-the-khmer-empire-was-the-largest-preindustrial-urban-centre-o.json)  [XML](/news/2007/08/13/archaeologists-using-radar-imagery-reveal-that-angkor-the-former-capital-of-the-khmer-empire-was-the-largest-preindustrial-urban-centre-o.xml)  
+
 ### [2007-08-13](/news/2007/08/13/index.md)
 
+##### Archaeologist
 #  Archaeologists using radar imagery reveal that Angkor, the former capital of the Khmer Empire, was the largest preindustrial urban centre of its time covering a 3,000 square kilometre area and with a population of up to half a million. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Independent Online South Africa](http://www.int.iol.co.za/index.php?set_id=1&click_id=588&art_id=nw20070813230535704C860779)
 

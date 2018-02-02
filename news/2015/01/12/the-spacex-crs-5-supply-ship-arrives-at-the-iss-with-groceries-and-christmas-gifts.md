@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/12/the-spacex-crs-5-supply-ship-arrives-at-the-iss-with-groceries-and-christmas-gifts.html)  [JSON](/news/2015/01/12/the-spacex-crs-5-supply-ship-arrives-at-the-iss-with-groceries-and-christmas-gifts.json)  [XML](/news/2015/01/12/the-spacex-crs-5-supply-ship-arrives-at-the-iss-with-groceries-and-christmas-gifts.xml)  
+
 ### [2015-01-12](/news/2015/01/12/index.md)
 
+##### SpaceX CRS-5
 # The SpaceX CRS-5 supply ship arrives at the ISS with groceries and Christmas gifts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/73eb980762df4e25a16f3b284bf4e994/spacex-supply-ship-arrives-space-station-groceries)
 

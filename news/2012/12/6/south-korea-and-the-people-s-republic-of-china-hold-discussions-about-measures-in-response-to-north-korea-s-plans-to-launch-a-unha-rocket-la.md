@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/6/south-korea-and-the-people-s-republic-of-china-hold-discussions-about-measures-in-response-to-north-korea-s-plans-to-launch-a-unha-rocket-la.html)  [JSON](/news/2012/12/6/south-korea-and-the-people-s-republic-of-china-hold-discussions-about-measures-in-response-to-north-korea-s-plans-to-launch-a-unha-rocket-la.json)  [XML](/news/2012/12/6/south-korea-and-the-people-s-republic-of-china-hold-discussions-about-measures-in-response-to-north-korea-s-plans-to-launch-a-unha-rocket-la.xml)  
+
 ### [2012-12-6](/news/2012/12/6/index.md)
 
+##### South Korea
 # South Korea and the People's Republic of China hold discussions about measures in response to North Korea's plans to launch a Unha rocket later this month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2012/12/06/0200000000AEN20121206006500315.HTML)
 

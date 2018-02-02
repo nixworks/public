@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/14/tens-of-thousands-of-people-protest-in-tirana-against-last-years-election-demanding-a-recount.html)  [JSON](/news/2010/05/14/tens-of-thousands-of-people-protest-in-tirana-against-last-years-election-demanding-a-recount.json)  [XML](/news/2010/05/14/tens-of-thousands-of-people-protest-in-tirana-against-last-years-election-demanding-a-recount.xml)  
+
 ### [2010-05-14](/news/2010/05/14/index.md)
 
+##### Tirana
 # Tens of thousands of people protest in Tirana against last years election, demanding a recount. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8684096.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/26/former-prime-minister-of-pakistan-nawaz-sharif-announces-he-will-file-nomination-papers-in-the-pakistani-general-election-2008-however-h.html)  [JSON](/news/2007/11/26/former-prime-minister-of-pakistan-nawaz-sharif-announces-he-will-file-nomination-papers-in-the-pakistani-general-election-2008-however-h.json)  [XML](/news/2007/11/26/former-prime-minister-of-pakistan-nawaz-sharif-announces-he-will-file-nomination-papers-in-the-pakistani-general-election-2008-however-h.xml)  
+
 ### [2007-11-26](/news/2007/11/26/index.md)
 
+##### Prime Minister
 #  Former Prime Minister of Pakistan Nawaz Sharif announces he will file nomination papers in the Pakistani general election, 2008. However, he will not serve as Prime Minister under the current President of Pakistan Pervez Musharraf. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7112550.stm)
 2. [Canadian Press via Google News](http://canadianpress.google.com/article/ALeqM5hM5-mPiQRPbl5UtaZsykYVwHeCJA)

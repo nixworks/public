@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/10/mexico-city-closes-freshwater-supplies-to-5-000-000-people-for-36-hours-to-combat-shortages.html)  [JSON](/news/2009/04/10/mexico-city-closes-freshwater-supplies-to-5-000-000-people-for-36-hours-to-combat-shortages.json)  [XML](/news/2009/04/10/mexico-city-closes-freshwater-supplies-to-5-000-000-people-for-36-hours-to-combat-shortages.xml)  
+
 ### [2009-04-10](/news/2009/04/10/index.md)
 
+##### Mexico City
 #  Mexico City closes freshwater supplies to 5,000,000 people for 36 hours to combat shortages. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/country_profiles/7993279.stm)
 

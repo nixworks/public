@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/11/a-black-hawk-helicopter-has-reportedly-crashed-near-amberley-air-force-base-mount-walker-australia-with-at-least-five-seriously-injured.html)  [JSON](/news/2004/02/11/a-black-hawk-helicopter-has-reportedly-crashed-near-amberley-air-force-base-mount-walker-australia-with-at-least-five-seriously-injured.json)  [XML](/news/2004/02/11/a-black-hawk-helicopter-has-reportedly-crashed-near-amberley-air-force-base-mount-walker-australia-with-at-least-five-seriously-injured.xml)  
+
 ### [2004-02-11](/news/2004/02/11/index.md)
 
+##### UH-60 Black Hawk
 #  A Black Hawk helicopter has reportedly crashed near Amberley air force base, Mount Walker, Australia, with at least five seriously injured.
 
 

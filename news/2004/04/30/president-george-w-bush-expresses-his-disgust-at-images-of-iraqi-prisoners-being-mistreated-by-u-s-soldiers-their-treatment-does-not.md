@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/04/30/president-george-w-bush-expresses-his-disgust-at-images-of-iraqi-prisoners-being-mistreated-by-u-s-soldiers-their-treatment-does-not.html)  [JSON](/news/2004/04/30/president-george-w-bush-expresses-his-disgust-at-images-of-iraqi-prisoners-being-mistreated-by-u-s-soldiers-their-treatment-does-not.json)  [XML](/news/2004/04/30/president-george-w-bush-expresses-his-disgust-at-images-of-iraqi-prisoners-being-mistreated-by-u-s-soldiers-their-treatment-does-not.xml)  
+
 ### [2004-04-30](/news/2004/04/30/index.md)
 
+##### George W. Bush
 #  President George W. Bush expresses his "disgust" at images of Iraqi prisoners being mistreated by U.S. soldiers: "Their treatment does not reflect the nature of the American people."
 
 

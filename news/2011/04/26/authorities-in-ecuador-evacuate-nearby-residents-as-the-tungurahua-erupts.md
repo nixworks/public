@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/26/authorities-in-ecuador-evacuate-nearby-residents-as-the-tungurahua-erupts.html)  [JSON](/news/2011/04/26/authorities-in-ecuador-evacuate-nearby-residents-as-the-tungurahua-erupts.json)  [XML](/news/2011/04/26/authorities-in-ecuador-evacuate-nearby-residents-as-the-tungurahua-erupts.xml)  
+
 ### [2011-04-26](/news/2011/04/26/index.md)
 
+##### Ecuador
 # Authorities in Ecuador evacuate nearby residents as the Tungurahua erupts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/americas/04/26/ecuador.volcano/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/thousands-of-mourners-gather-in-zahedan-for-a-mass-funeral-for-those-killed-in-recent-bombings-iranian-officials-indicate-that-they-believe.html)  [JSON](/news/2010/07/17/thousands-of-mourners-gather-in-zahedan-for-a-mass-funeral-for-those-killed-in-recent-bombings-iranian-officials-indicate-that-they-believe.json)  [XML](/news/2010/07/17/thousands-of-mourners-gather-in-zahedan-for-a-mass-funeral-for-those-killed-in-recent-bombings-iranian-officials-indicate-that-they-believe.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### Zahedan
 # Thousands of mourners gather in Zahedan for a mass funeral for those killed in recent bombings; Iranian officials indicate that they believe the West carried out the atrocities. 
 
 Iran blamed the West and Israel on Saturday for twin suicide bombings which killed at least 27 people, despite condemnation of the attack by the European Union, United Nations and United States.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10672780)
 2. [The Age](http://news.theage.com.au/breaking-news-world/iran-blames-west-israel-for-bombings-20100717-10ffh.html)
@@ -17,4 +21,4 @@ Iran blamed the West and Israel on Saturday for twin suicide bombings which kill
 2. [More than 20 people are killed and 100 injured in a suicide attack at a mosque in southeastern Iran. ](/news/2010/07/15/more-than-20-people-are-killed-and-100-injured-in-a-suicide-attack-at-a-mosque-in-southeastern-iran.md) _Context: Iran, recent bombings_
 3. [ Three Jundallah members who bombed a mosque in Zahedan, Iran, on May 28 are hanged. ](/news/2009/05/30/three-jundallah-members-who-bombed-a-mosque-in-zahedan-iran-on-may-28-are-hanged.md) _Context: Iran, Zahedan_
 4. [ A bus belonging to Iran's Islamic Revolutionary Guards Corps has been hit by a car bomb in Zahedan killing 18 people. ](/news/2007/02/14/a-bus-belonging-to-iran-s-islamic-revolutionary-guards-corps-has-been-hit-by-a-car-bomb-in-zahedan-killing-18-people.md) _Context: Iran, Zahedan_
-5. [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md) _Context: Iran_
+5. [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md) _Context: Iran_

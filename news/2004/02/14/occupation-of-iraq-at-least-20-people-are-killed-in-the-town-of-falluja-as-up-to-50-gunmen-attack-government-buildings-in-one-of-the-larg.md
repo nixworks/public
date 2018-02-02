@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/14/occupation-of-iraq-at-least-20-people-are-killed-in-the-town-of-falluja-as-up-to-50-gunmen-attack-government-buildings-in-one-of-the-larg.html)  [JSON](/news/2004/02/14/occupation-of-iraq-at-least-20-people-are-killed-in-the-town-of-falluja-as-up-to-50-gunmen-attack-government-buildings-in-one-of-the-larg.json)  [XML](/news/2004/02/14/occupation-of-iraq-at-least-20-people-are-killed-in-the-town-of-falluja-as-up-to-50-gunmen-attack-government-buildings-in-one-of-the-larg.xml)  
+
 ### [2004-02-14](/news/2004/02/14/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: At least 20 people are killed in the town of Falluja as up to 50 gunmen attack government buildings, in one of the largest guerrilla attacks so far seen in Iraq.
 
 

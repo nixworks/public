@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/06/8/floods-in-the-people-s-republic-of-china-kill-52-people-with-32-people-missing-with-more-heavy-rain-expected.html)  [JSON](/news/2011/06/8/floods-in-the-people-s-republic-of-china-kill-52-people-with-32-people-missing-with-more-heavy-rain-expected.json)  [XML](/news/2011/06/8/floods-in-the-people-s-republic-of-china-kill-52-people-with-32-people-missing-with-more-heavy-rain-expected.xml)  
+
 ### [2011-06-8](/news/2011/06/8/index.md)
 
+##### Floods
 # Floods in the People's Republic of China kill 52 people with 32 people missing with more heavy rain expected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-06/08/c_13917926.htm)
 
 ### Related:
 
-1. [7 people are killed during heavy floods in Sichuan Province in the People's Republic of China. ](/news/2011/07/6/7-people-are-killed-during-heavy-floods-in-sichuan-province-in-the-people-s-republic-of-china.md) _Context: China, heavy flood_
-2. [Officials from the People's Republic of China warn that the 2011 China floods will have a negative impact on food prices. ](/news/2011/06/22/officials-from-the-people-s-republic-of-china-warn-that-the-2011-china-floods-will-have-a-negative-impact-on-food-prices.md) _Context: China, heavy flood_
-3. [More than two million people are reported to have been displaced or otherwise affected by flooding in the Chinese province of Zhejiang. ](/news/2011/06/19/more-than-two-million-people-are-reported-to-have-been-displaced-or-otherwise-affected-by-flooding-in-the-chinese-province-of-zhejiang.md) _Context: China, heavy flood_
-4. [At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoyang.md) _Context: China_
-5. [An early morning fire in the Chinese city of Changshu in Jiangsu province kills 22 people and injures three. ](/news/2017/07/16/an-early-morning-fire-in-the-chinese-city-of-changshu-in-jiangsu-province-kills-22-people-and-injures-three.md) _Context: China_
+1. [At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoyang.md) _Context: China_
+2. [An early morning fire in the Chinese city of Changshu in Jiangsu province kills 22 people and injures three. ](/news/2017/07/16/an-early-morning-fire-in-the-chinese-city-of-changshu-in-jiangsu-province-kills-22-people-and-injures-three.md) _Context: China_
+3. [A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed the Beijing view that both sides belong to a single China under the One-China policy; the spokesman further said that the health of people in Taiwan is not being put at risk by Taiwan's inability to attend. ](/news/2017/05/10/a-spokesman-for-the-taiwan-affairs-office-of-people-s-republic-of-china-says-taiwan-is-barred-from-observing-this-yearas-world-health-asse.md) _Context: China_
+4. [Ten people have died, five are injured and four missing after a bus plunges into a river in China's Guizhou province. ](/news/2017/04/17/ten-people-have-died-five-are-injured-and-four-missing-after-a-bus-plunges-into-a-river-in-china-s-guizhou-province.md) _Context: China_
+5. [People's Republic of China detains Taiwanese political activist Lee Ming-che on suspicion of endangering national security and revokes his wife's travel permit. ](/news/2017/04/10/people-s-republic-of-china-detains-taiwanese-political-activist-lee-ming-che-on-suspicion-of-endangering-national-security-and-revokes-his-w.md) _Context: China_

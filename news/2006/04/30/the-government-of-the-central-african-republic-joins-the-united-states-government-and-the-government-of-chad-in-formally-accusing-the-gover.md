@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/04/30/the-government-of-the-central-african-republic-joins-the-united-states-government-and-the-government-of-chad-in-formally-accusing-the-gover.html)  [JSON](/news/2006/04/30/the-government-of-the-central-african-republic-joins-the-united-states-government-and-the-government-of-chad-in-formally-accusing-the-gover.json)  [XML](/news/2006/04/30/the-government-of-the-central-african-republic-joins-the-united-states-government-and-the-government-of-chad-in-formally-accusing-the-gover.xml)  
+
 ### [2006-04-30](/news/2006/04/30/index.md)
 
+##### Central African Republic
 #  The Government of the Central African Republic joins the United States Government and the Government of Chad in formally accusing the Government of Sudan of supporting the United Front for Democratic Change rebels and further alleges that UFDC rebels are entering southern Chad through the CAR-Chad-Sudan border area. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo!](http://news.yahoo.com/s/afp/20060430/wl_afp/centrafricasudanunrest_060430131822)
+1. [AFP via Yahoo!](https://news.yahoo.com/s/afp/20060430/wl_afp/centrafricasudanunrest_060430131822)
 
 ### Related:
 

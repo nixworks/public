@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/21/pope-benedict-xvi-names-seven-new-saints-including-kateri-tekakwitha-marianne-cope-pedro-calungsod-and-anna-schaffer.html)  [JSON](/news/2012/10/21/pope-benedict-xvi-names-seven-new-saints-including-kateri-tekakwitha-marianne-cope-pedro-calungsod-and-anna-schaffer.json)  [XML](/news/2012/10/21/pope-benedict-xvi-names-seven-new-saints-including-kateri-tekakwitha-marianne-cope-pedro-calungsod-and-anna-schaffer.xml)  
+
 ### [2012-10-21](/news/2012/10/21/index.md)
 
+##### Benedict XVI
 # Pope Benedict XVI names seven new saints, including Kateri Tekakwitha, Marianne Cope, Pedro Calungsod, and Anna Schffer. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://apnews.myway.com/article/20121021/DA21TB6O1.html)
 

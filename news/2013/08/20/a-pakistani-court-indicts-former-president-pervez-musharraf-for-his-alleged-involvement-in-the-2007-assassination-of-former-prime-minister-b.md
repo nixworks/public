@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/08/20/a-pakistani-court-indicts-former-president-pervez-musharraf-for-his-alleged-involvement-in-the-2007-assassination-of-former-prime-minister-b.html)  [JSON](/news/2013/08/20/a-pakistani-court-indicts-former-president-pervez-musharraf-for-his-alleged-involvement-in-the-2007-assassination-of-former-prime-minister-b.json)  [XML](/news/2013/08/20/a-pakistani-court-indicts-former-president-pervez-musharraf-for-his-alleged-involvement-in-the-2007-assassination-of-former-prime-minister-b.xml)  
+
 ### [2013-08-20](/news/2013/08/20/index.md)
 
+##### Pakistan
 # A Pakistani court indicts former President Pervez Musharraf for his alleged involvement in the 2007 assassination of former Prime Minister Benazir Bhutto. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/asia_pacific/fromer-pakistani-army-chief-musharraf-charged-in-2007-bhutto-assassination/2013/08/20/1ee21296-094f-11e3-89fe-abb4a5067014_story.html?wpisrc=al_national)
+1. [Washington Post](https://www.washingtonpost.com/world/asia_pacific/fromer-pakistani-army-chief-musharraf-charged-in-2007-bhutto-assassination/2013/08/20/1ee21296-094f-11e3-89fe-abb4a5067014_story.html?wpisrc=al_national)
 
 ### Related:
 

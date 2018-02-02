@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/19/a-bomb-explodes-near-bilbao-in-the-basque-region-of-spain-killing-one-policeman.html)  [JSON](/news/2009/06/19/a-bomb-explodes-near-bilbao-in-the-basque-region-of-spain-killing-one-policeman.json)  [XML](/news/2009/06/19/a-bomb-explodes-near-bilbao-in-the-basque-region-of-spain-killing-one-policeman.xml)  
+
 ### [2009-06-19](/news/2009/06/19/index.md)
 
+##### Bilbao
 #  A bomb explodes near Bilbao in the Basque region of Spain, killing one policeman. 
 
 A police officer has been killed in a car bomb blast near Bilbao, in Spain&#39;s northern Basque region.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jTg6ukozl01MP0Ts792vFSF1sc3gD98TNRUG0)
 2. [RTÉ](http://www.rte.ie/news/2009/0619/spain.html)

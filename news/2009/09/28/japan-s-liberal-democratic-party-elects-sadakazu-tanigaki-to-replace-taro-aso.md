@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/28/japan-s-liberal-democratic-party-elects-sadakazu-tanigaki-to-replace-taro-aso.html)  [JSON](/news/2009/09/28/japan-s-liberal-democratic-party-elects-sadakazu-tanigaki-to-replace-taro-aso.json)  [XML](/news/2009/09/28/japan-s-liberal-democratic-party-elects-sadakazu-tanigaki-to-replace-taro-aso.xml)  
+
 ### [2009-09-28](/news/2009/09/28/index.md)
 
+##### Japan
 #  Japan's Liberal Democratic Party elects Sadakazu Tanigaki to replace Taro Aso. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8278567.stm)
 2. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1068372&lang=eng_news)

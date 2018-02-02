@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/31/buddhist-monks-return-to-the-streets-of-burma-for-the-first-time-since-a-crackdown-on-protests-last-month.html)  [JSON](/news/2007/10/31/buddhist-monks-return-to-the-streets-of-burma-for-the-first-time-since-a-crackdown-on-protests-last-month.json)  [XML](/news/2007/10/31/buddhist-monks-return-to-the-streets-of-burma-for-the-first-time-since-a-crackdown-on-protests-last-month.xml)  
+
 ### [2007-10-31](/news/2007/10/31/index.md)
 
+##### Buddhist monk
 #  Buddhist monks return to the streets of Burma for the first time since a crackdown on protests last month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7070551.stm)
 

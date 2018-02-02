@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/8/delta-air-lines-ground-their-operations-after-a-
 
 ### [2016-08-8](/news/2016/08/8/index.md)
 
+##### Delta Air Lines
 # Delta Air Lines ground their operations after a malfunction in their system headquarters. 
 
 Delta Airlines has grounded flights scheduled to leave Monday after experiencing unspecified systems issues.

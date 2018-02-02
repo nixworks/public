@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/10/18/french-strikes-intensify-ahead-of-wednesday-s-senate-vote-on-pension-reform-with-a-thousand-petrol-stations-running-out-of-fuel-rail-strik.html)  [JSON](/news/2010/10/18/french-strikes-intensify-ahead-of-wednesday-s-senate-vote-on-pension-reform-with-a-thousand-petrol-stations-running-out-of-fuel-rail-strik.json)  [XML](/news/2010/10/18/french-strikes-intensify-ahead-of-wednesday-s-senate-vote-on-pension-reform-with-a-thousand-petrol-stations-running-out-of-fuel-rail-strik.xml)  
+
 ### [2010-10-18](/news/2010/10/18/index.md)
 
+##### France
 # French strikes intensify ahead of Wednesday's Senate vote on pension reform, with a thousand petrol stations running out of fuel, rail strikes intensifying and truck drivers performing go-slows on highways. 
 
 * Refinery workers stay on strike, truckers slow roads * Government says will not permit industry blockades * Petrol pumps run dry, police
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/18/france.strikes.shortage/index.html?eref=edition)
-2. [Reuters](http://www.reuters.com/article/idUSLDE69H0OC20101018)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/idUSLDE69H0OC20101018)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

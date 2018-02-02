@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/16/the-maltese-blogger-and-journalist-daphne-carua
 
 ### [2017-10-16](/news/2017/10/16/index.md)
 
+##### Maltese general election, 2017
 # The Maltese blogger and journalist Daphne Caruana Galizia, whose corruption allegations against prime minister Joseph Muscat led him to call early elections, is killed by a car bomb near her home. 
 
 Updated 6.40pm Journalist Daphne Caruana Galizia was killed this afternoon in a car blast that left her vehicle in several pieces in Bidnija. The powerful explosion on Triq il-Bidnija was reported to police shortly after 3pm. It is not yet clear what caused the explosion, which sources said was...

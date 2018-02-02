@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/1/10-people-are-swept-away-in-an-avalanche-in-the-southwestern-swiss-alps-with-three-reported-deaths.html)  [JSON](/news/2011/04/1/10-people-are-swept-away-in-an-avalanche-in-the-southwestern-swiss-alps-with-three-reported-deaths.json)  [XML](/news/2011/04/1/10-people-are-swept-away-in-an-avalanche-in-the-southwestern-swiss-alps-with-three-reported-deaths.xml)  
+
 ### [2011-04-1](/news/2011/04/1/index.md)
 
+##### avalanche
 # 10 people are swept away in an avalanche in the southwestern Swiss Alps; with three reported deaths. 
 
 Valais cantonal police say three German ski tourers have been killed by an avalanche on Friday in the mountains near Ayer. The avalanche swept ...
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/world/10-swept-away-by-avalanche-1.1050813)
 2. [Swissinfo](http://www.swissinfo.ch/eng/swiss_news/Three_Germans_killed_in_avalanche.html?cid=29903248)

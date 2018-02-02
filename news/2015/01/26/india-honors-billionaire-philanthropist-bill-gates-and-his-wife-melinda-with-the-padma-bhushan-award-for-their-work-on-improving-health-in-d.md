@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2015/01/26/india-honors-billionaire-philanthropist-bill-gates-and-his-wife-melinda-with-the-padma-bhushan-award-for-their-work-on-improving-health-in-d.html)  [JSON](/news/2015/01/26/india-honors-billionaire-philanthropist-bill-gates-and-his-wife-melinda-with-the-padma-bhushan-award-for-their-work-on-improving-health-in-d.json)  [XML](/news/2015/01/26/india-honors-billionaire-philanthropist-bill-gates-and-his-wife-melinda-with-the-padma-bhushan-award-for-their-work-on-improving-health-in-d.xml)  
+
 ### [2015-01-26](/news/2015/01/26/index.md)
 
+##### India
 # India honors billionaire philanthropist Bill Gates and his wife Melinda with the Padma Bhushan award for their work on improving health in developing countries. 
 
 India conferred one of its highest civilian awards on billionaire philanthropist and Microsoft co-founder Bill Gates and his wife Melinda for their work to improve health in developing countries.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/01/26/us-india-billgates-idUSKBN0KZ16G20150126)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150126&t=2&i=1019974490&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0P0HC)
+1. [Reuters](https://www.reuters.com/article/2015/01/26/us-india-billgates-idUSKBN0KZ16G20150126)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20150126&t=2&i=1019974490&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB0P0HC)
 
 ### Related:
 
 1. [Aung San Suu Kyi and Thein Sein are ranked first on Foreign Policy's 2012 Top 100 Global Thinkers list ahead of Moncef Marzouki, Bill Clinton and Hillary Clinton. Also, Malala Yousafzai is ranked sixth behind Bill Gates and Melinda Gates, but ahead of Barack Obama. ](/news/2012/11/27/aung-san-suu-kyi-and-thein-sein-are-ranked-first-on-foreign-policyas-2012-top-100-global-thinkers-list-ahead-of-moncef-marzouki-bill-clin.md) _Context: Bill Gates, Melinda_
 2. [ Bono, Melinda Gates and Bill Gates are named "Time"'s Persons of the Year. ](/news/2005/12/18/bono-melinda-gates-and-bill-gates-are-named-time-s-persons-of-the-year.md) _Context: Bill Gates, Melinda_
-3. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
-4. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
-5. [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Elphinstone Road railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-elphinstone-ro.md) _Context: India_
+3. [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md) _Context: India_
+4. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: India_
+5. [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md) _Context: India_

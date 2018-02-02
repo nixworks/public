@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/06/18/luxembourg-s-chamber-of-deputies-votes-to-equalize-same-sex-marriage-and-adoption-rights-from-1-january-2015.html)  [JSON](/news/2014/06/18/luxembourg-s-chamber-of-deputies-votes-to-equalize-same-sex-marriage-and-adoption-rights-from-1-january-2015.json)  [XML](/news/2014/06/18/luxembourg-s-chamber-of-deputies-votes-to-equalize-same-sex-marriage-and-adoption-rights-from-1-january-2015.xml)  
+
 ### [2014-06-18](/news/2014/06/18/index.md)
 
+##### Luxembourg
 # Luxembourg's Chamber of Deputies votes to equalize same-sex marriage and adoption rights from 1 January, 2015. 
 
 Luxembourg has become the latest country to vote in favour of equalising same-sex marriage and adoption rights, in a landslide poll of its MPs on Wednesday.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/world/europe/luxembourg-passes-samesex-marriage-and-adoption-bill-in-landslide-vote-9547282.html)
+1. [The Independent](https://www.independent.co.uk/news/world/europe/luxembourg-passes-samesex-marriage-and-adoption-bill-in-landslide-vote-9547282.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/06/18/20/gay-marriage.jpg)
 
 ### Related:

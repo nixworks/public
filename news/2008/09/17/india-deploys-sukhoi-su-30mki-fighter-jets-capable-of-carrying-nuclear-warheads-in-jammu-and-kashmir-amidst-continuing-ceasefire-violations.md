@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/17/india-deploys-sukhoi-su-30mki-fighter-jets-capable-of-carrying-nuclear-warheads-in-jammu-and-kashmir-amidst-continuing-ceasefire-violations.html)  [JSON](/news/2008/09/17/india-deploys-sukhoi-su-30mki-fighter-jets-capable-of-carrying-nuclear-warheads-in-jammu-and-kashmir-amidst-continuing-ceasefire-violations.json)  [XML](/news/2008/09/17/india-deploys-sukhoi-su-30mki-fighter-jets-capable-of-carrying-nuclear-warheads-in-jammu-and-kashmir-amidst-continuing-ceasefire-violations.xml)  
+
 ### [2008-09-17](/news/2008/09/17/index.md)
 
+##### India
 #  India deploys Sukhoi Su-30MKI fighter jets capable of carrying nuclear warheads in Jammu and Kashmir amidst continuing ceasefire violations with Pakistan along the Line of Control. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/Fighter_jets_deployed_in_JK_amid_Indo-Pak_tension/articleshow/3493057.cms)
 

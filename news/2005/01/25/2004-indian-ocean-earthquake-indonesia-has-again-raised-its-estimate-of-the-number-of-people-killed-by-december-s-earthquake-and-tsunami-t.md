@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/25/2004-indian-ocean-earthquake-indonesia-has-again-raised-its-estimate-of-the-number-of-people-killed-by-december-s-earthquake-and-tsunami-t.html)  [JSON](/news/2005/01/25/2004-indian-ocean-earthquake-indonesia-has-again-raised-its-estimate-of-the-number-of-people-killed-by-december-s-earthquake-and-tsunami-t.json)  [XML](/news/2005/01/25/2004-indian-ocean-earthquake-indonesia-has-again-raised-its-estimate-of-the-number-of-people-killed-by-december-s-earthquake-and-tsunami-t.xml)  
+
 ### [2005-01-25](/news/2005/01/25/index.md)
 
+##### 2004 Indian Ocean earthquake
 #  2004 Indian Ocean earthquake: Indonesia has again raised its estimate of the number of people killed by December's earthquake and tsunami to 220,000; the total known to have been killed in the region is now 280,000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4204385.stm)
 

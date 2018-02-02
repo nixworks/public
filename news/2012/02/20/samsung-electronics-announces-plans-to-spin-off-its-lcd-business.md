@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/02/20/samsung-electronics-announces-plans-to-spin-off-its-lcd-business.html)  [JSON](/news/2012/02/20/samsung-electronics-announces-plans-to-spin-off-its-lcd-business.json)  [XML](/news/2012/02/20/samsung-electronics-announces-plans-to-spin-off-its-lcd-business.xml)  
+
 ### [2012-02-20](/news/2012/02/20/index.md)
 
+##### Samsung
 # Samsung Electronics announces plans to spin off its LCD business. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/20/us-samsung-idUSTRE81J05L20120220)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120220&t=2&i=572870018&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81J08Y500)
+1. [Reuters](https://www.reuters.com/article/2012/02/20/us-samsung-idUSTRE81J05L20120220)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120220&t=2&i=572870018&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81J08Y500)
 
 ### Related:
 

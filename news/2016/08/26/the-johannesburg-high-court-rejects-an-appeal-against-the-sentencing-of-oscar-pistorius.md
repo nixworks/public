@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/26/the-johannesburg-high-court-rejects-an-appeal-a
 
 ### [2016-08-26](/news/2016/08/26/index.md)
 
+##### Trial of Oscar Pistorius
 # The Johannesburg High Court rejects an appeal against the sentencing of Oscar Pistorius. 
 
 

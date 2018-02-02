@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/3/the-sudanese-president-omar-al-bashir-pardons-a-teacher-at-unity-high-school-for-her-alleged-insult-in-the-naming-of-her-class-s-teddy-bear.html)  [JSON](/news/2007/12/3/the-sudanese-president-omar-al-bashir-pardons-a-teacher-at-unity-high-school-for-her-alleged-insult-in-the-naming-of-her-class-s-teddy-bear.json)  [XML](/news/2007/12/3/the-sudanese-president-omar-al-bashir-pardons-a-teacher-at-unity-high-school-for-her-alleged-insult-in-the-naming-of-her-class-s-teddy-bear.xml)  
+
 ### [2007-12-3](/news/2007/12/3/index.md)
 
+##### Sudan
 #  The Sudanese President Omar al-Bashir pardons a teacher at Unity High School for her alleged insult in the naming of her class's teddy bear "Muhammad". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/WORLD/africa/12/03/sudan.teacher/index.html)
 

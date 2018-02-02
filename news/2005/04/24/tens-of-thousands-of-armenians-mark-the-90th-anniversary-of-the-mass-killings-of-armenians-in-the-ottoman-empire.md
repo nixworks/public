@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/24/tens-of-thousands-of-armenians-mark-the-90th-anniversary-of-the-mass-killings-of-armenians-in-the-ottoman-empire.html)  [JSON](/news/2005/04/24/tens-of-thousands-of-armenians-mark-the-90th-anniversary-of-the-mass-killings-of-armenians-in-the-ottoman-empire.json)  [XML](/news/2005/04/24/tens-of-thousands-of-armenians-mark-the-90th-anniversary-of-the-mass-killings-of-armenians-in-the-ottoman-empire.xml)  
+
 ### [2005-04-24](/news/2005/04/24/index.md)
 
+##### Armenians
 #  Tens of thousands of Armenians mark the 90th anniversary of the mass killings of Armenians in the Ottoman Empire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/cp/world/050424/w042406.html)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/L24647754.htm)

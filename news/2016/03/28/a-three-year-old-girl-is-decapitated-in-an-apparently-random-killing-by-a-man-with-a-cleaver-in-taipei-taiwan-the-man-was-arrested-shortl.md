@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2016/03/28/a-three-year-old-girl-is-decapitated-in-an-apparently-random-killing-by-a-man-with-a-cleaver-in-taipei-taiwan-the-man-was-arrested-shortl.html)  [JSON](/news/2016/03/28/a-three-year-old-girl-is-decapitated-in-an-apparently-random-killing-by-a-man-with-a-cleaver-in-taipei-taiwan-the-man-was-arrested-shortl.json)  [XML](/news/2016/03/28/a-three-year-old-girl-is-decapitated-in-an-apparently-random-killing-by-a-man-with-a-cleaver-in-taipei-taiwan-the-man-was-arrested-shortl.xml)  
+
 ### [2016-03-28](/news/2016/03/28/index.md)
 
+##### cleaver
 #  A three-year-old girl is decapitated in an apparently random killing by a man with a cleaver in Taipei, Taiwan. The man was arrested shortly afterwards. 
 
 Police arrest man following Monday’s apparently random attack outside subway station in Taipei, according to local media
@@ -7,7 +11,7 @@ Police arrest man following Monday’s apparently random attack outside subway s
 
 ### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/mar/28/three-year-old-girl-decapitated-by-man-with-cleaver-taipei-taiwan)
+1. [The Guardian](https://www.theguardian.com/world/2016/mar/28/three-year-old-girl-decapitated-by-man-with-cleaver-taipei-taiwan)
 1. [Cover Image](https://i.guim.co.uk/img/media/f0d2522eaca747b76423e15c1bdd89d9d56675db/150_0_2323_1393/master/2323.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=966bec0a14de6c5cec85bd3114dcabc2)
 
 ### Changes:

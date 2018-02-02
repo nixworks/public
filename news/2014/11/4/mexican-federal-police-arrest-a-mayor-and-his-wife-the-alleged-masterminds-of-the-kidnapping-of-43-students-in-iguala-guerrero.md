@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/4/mexican-federal-police-arrest-a-mayor-and-his-wife-the-alleged-masterminds-of-the-kidnapping-of-43-students-in-iguala-guerrero.html)  [JSON](/news/2014/11/4/mexican-federal-police-arrest-a-mayor-and-his-wife-the-alleged-masterminds-of-the-kidnapping-of-43-students-in-iguala-guerrero.json)  [XML](/news/2014/11/4/mexican-federal-police-arrest-a-mayor-and-his-wife-the-alleged-masterminds-of-the-kidnapping-of-43-students-in-iguala-guerrero.xml)  
+
 ### [2014-11-4](/news/2014/11/4/index.md)
 
+##### 2014 Iguala mass kidnapping
 # Mexican Federal Police arrest a mayor and his wife, the alleged masterminds of the kidnapping of 43 students in Iguala, Guerrero. 
 
 The capture Tuesday of a fugitive Mexican mayor suspected of ordering the disappearance of 43 college students raises expectations of progress in the unsuccessful five-week-long search for the missing men.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/world/mexico-americas/la-fg-mayor-iguala-arrested-20141104-story.html)
 1. [Cover Image](http://www.trbimg.com/img-5458c4e6/turbine/la-fg-mayor-iguala-arrested-20141104)

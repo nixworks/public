@@ -1,23 +1,27 @@
+
+Formats: [HTML](/news/2008/01/2/islamic-insurgency-in-algeria-2002apresent-a-suicide-attack-kills-at-least-three-people-in-naciria-east-of-algiers.html)  [JSON](/news/2008/01/2/islamic-insurgency-in-algeria-2002apresent-a-suicide-attack-kills-at-least-three-people-in-naciria-east-of-algiers.json)  [XML](/news/2008/01/2/islamic-insurgency-in-algeria-2002apresent-a-suicide-attack-kills-at-least-three-people-in-naciria-east-of-algiers.xml)  
+
 ### [2008-01-2](/news/2008/01/2/index.md)
 
+##### Islamic insurgency in Algeria (2002-present)
 #  Islamic insurgency in Algeria (2002-present): A suicide attack kills at least three people in Naciria, east of Algiers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7167655.stm)
-
-### Related:
-
-1. [Three police officers are killed in a suicide bombing at a bus station in Jatinegara, Jakarta. ](/news/2017/05/24/three-police-officers-are-killed-in-a-suicide-bombing-at-a-bus-station-in-jatinegara-jakarta.md) _Context: suicide bombing_
-2. [Jordan declares its borders with Syria and Iraq are to be closed military zones following yesterday's suicide bomb attack in Rukban, Mafraq Governorate, that killed six soldiers. ](/news/2016/06/22/jordan-declares-its-borders-with-syria-and-iraq-are-to-be-closed-military-zones-following-yesterday-s-suicide-bomb-attack-in-rukban-mafraq.md) _Context: suicide bombing_
-3. [Shahbaz Taseer, the son of Pakistani Punjab governor Salmaan Taseer who was murdered in 2011 for criticizing the country's blasphemy laws, is reunited with his family four-and-a-half years after his kidnapping. Tuesday, Shahbaz was rescued by Pakistani secret service and counter-terrorism operatives in Kuchlak, Balochistan Province. He had been abducted in Lahore in August 2011, seven months after his father's murder by bodyguard Mumtaz Qadri. Qadri was executed on February 29, 2016. His death was claimed as the reason for the deadly Taliban suicide bombing in Shabqadar two days ago. ](/news/2016/03/9/shahbaz-taseer-the-son-of-pakistani-punjab-governor-salmaan-taseer-who-was-murdered-in-2011-for-criticizing-the-country-s-blasphemy-laws-i.md) _Context: suicide bombing_
-4. [A suicide bomber kills at least 60 people and wounds 70 others after ramming his explosives-laden truck into a security checkpoint at one of the entrances to the Iraqi city of Hillah, south of Baghdad. The Islamic State of Iraq and the Levant claims responsibility for the attack. ](/news/2016/03/6/a-suicide-bomber-kills-at-least-60-people-and-wounds-70-others-after-ramming-his-explosives-laden-truck-into-a-security-checkpoint-at-one-of.md) _Context: suicide bombing_
-5. [Several Sangin security force members are killed by Taliban suicide attacks, using captured military Humvee vehicles, in the southern Afghan province of Helmand. ](/news/2016/02/13/several-sangin-security-force-members-are-killed-by-taliban-suicide-attacks-using-captured-military-humvee-vehicles-in-the-southern-afghan.md) _Context: suicide bombing_
 
 ### Changes:
 
 1. [ Islamic insurgency in Algeria (2002-present): A suicide attack kills at least three people in Naciria, east of Algiers. ](/news/2008/01/2/islamic-insurgency-in-algeria-2002-present-a-suicide-attack-kills-at-least-three-people-in-naciria-east-of-algiers.md) _2017-08-27 03:21:32 (First version)_
 1. [ Islamic insurgency in Algeria (2002-present): A suicide attack kills at least three people in Naciria, east of Algiers. ](/news/2008/01/2/islamic-insurgency-in-algeria-2002apresent-a-suicide-attack-kills-at-least-three-people-in-naciria-east-of-algiers.md) _(Current version)_
+
+### Related:
+
+1. [Several Sangin security force members are killed by Taliban suicide attacks, using captured military Humvee vehicles, in the southern Afghan province of Helmand. ](/news/2016/02/13/several-sangin-security-force-members-are-killed-by-taliban-suicide-attacks-using-captured-military-humvee-vehicles-in-the-southern-afghan.md) _Context: suicide attack_
+2. [A day of mourning is held in Lebanon following two suicide attacks in the capital Beirut which killed at least 43 people. ](/news/2015/11/13/a-day-of-mourning-is-held-in-lebanon-following-two-suicide-attacks-in-the-capital-beirut-which-killed-at-least-43-people.md) _Context: suicide attack_
+3. [A huge explosion in the mostly Kurdish border town of Suruc, Turkey, targeting The Socialist Youth Associations Federation, kills at least 31 people and injures over 100. Preliminary evidence suggests an ISIS suicide attack. ](/news/2015/07/20/a-huge-explosion-in-the-mostly-kurdish-border-town-of-suruass-turkey-targeting-the-socialist-youth-associations-federation-kills-at-least.md) _Context: suicide attack_
+4. [Air Algerie Flight 5017 loses contact with air traffic controllers 50 minutes after takeoff. It was travelling between Ouagadougou, Burkina Faso and Algiers with 116 people on board. The wreckage is later found in Mali. ](/news/2014/07/24/air-alga-c-rie-flight-5017-loses-contact-with-air-traffic-controllers-50-minutes-after-takeoff-it-was-travelling-between-ouagadougou-burkina.md) _Context: Algiers_
+5. [AQIM militants kill eleven soldiers in Tizi Ouzou region of Algeria east of capital Algiers in one the deadliest attacks on the Algerian military in several years. [http:--www.baiatdecartier.ro (BDC)]date=April 2014](/news/2014/04/20/aqim-militants-kill-eleven-soldiers-in-tizi-ouzou-region-of-algeria-east-of-capital-algiers-in-one-the-deadliest-attacks-on-the-algerian-mil.md) _Context: Algiers_

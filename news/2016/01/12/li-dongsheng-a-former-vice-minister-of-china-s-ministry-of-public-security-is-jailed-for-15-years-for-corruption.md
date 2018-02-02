@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/12/li-dongsheng-a-former-vice-minister-of-china-s-
 
 ### [2016-01-12](/news/2016/01/12/index.md)
 
+##### Anti-corruption campaign in China
 # Li Dongsheng, a former Vice Minister of China's Ministry of Public Security, is jailed for 15 years for corruption. 
 
 China has jailed former vice public security minister Li Dongsheng for 15 years, state media reported on Tuesday, the latest official tied to ousted security tsar Zhou Yongkang to be sentenced for corruption offences.

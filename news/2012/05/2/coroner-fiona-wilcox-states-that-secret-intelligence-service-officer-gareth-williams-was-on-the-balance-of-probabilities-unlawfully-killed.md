@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/2/coroner-fiona-wilcox-states-that-secret-intelligence-service-officer-gareth-williams-was-on-the-balance-of-probabilities-unlawfully-killed.html)  [JSON](/news/2012/05/2/coroner-fiona-wilcox-states-that-secret-intelligence-service-officer-gareth-williams-was-on-the-balance-of-probabilities-unlawfully-killed.json)  [XML](/news/2012/05/2/coroner-fiona-wilcox-states-that-secret-intelligence-service-officer-gareth-williams-was-on-the-balance-of-probabilities-unlawfully-killed.xml)  
+
 ### [2012-05-2](/news/2012/05/2/index.md)
 
+##### Secret Intelligence Service
 # Coroner Fiona Wilcox states that Secret Intelligence Service officer Gareth Williams was "on the balance of probabilities" unlawfully killed and that it is unlikely he found his way all by himself into the padlocked red sports bag in which his body was found in the bath at his home. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17922388)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59984000/jpg/_59984139_014645736-1.jpg)

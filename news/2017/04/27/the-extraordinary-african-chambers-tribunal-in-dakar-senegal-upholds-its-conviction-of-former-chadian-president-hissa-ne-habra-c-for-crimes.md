@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/27/the-extraordinary-african-chambers-tribunal-in-
 
 ### [2017-04-27](/news/2017/04/27/index.md)
 
+##### Extraordinary African Chambers
 # The Extraordinary African Chambers tribunal in Dakar, Senegal, upholds its conviction of former Chadian president Hissene Habre for crimes against humanity, but acquits him of rape. 
 
 Judge in Senegal acquits Hissène Habré of a rape charge but upholds other charges including torture and murder

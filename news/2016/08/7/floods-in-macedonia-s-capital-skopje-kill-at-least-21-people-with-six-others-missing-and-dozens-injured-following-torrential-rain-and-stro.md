@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/7/floods-in-macedonia-s-capital-skopje-kill-at-lea
 
 ### [2016-08-7](/news/2016/08/7/index.md)
 
+##### 2016 Macedonian floods
 # Floods in Macedonia's capital, Skopje, kill at least 21 people with six others missing and dozens injured following torrential rain and strong winds late Saturday. 
 
 At least 21 people are killed as freak winds and flooding hit Skopje, the capital of Macedonia, with many victims drowned in their cars.

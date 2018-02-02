@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/24/the-turkish-government-dismisses-2-756-public-s
 
 ### [2017-12-24](/news/2017/12/24/index.md)
 
+##### 2016-17 purges in Turkey
 # The Turkish government dismisses 2,756 public servants for alleged links to organizations involved in the July 2016 Turkish "coup d'etat" attempt. 
 
 Turkey&#x20;on&#x20;Sunday&#x20;ordered&#x20;the&#x20;dismissal&#x20;of&#x20;over&#x20;2,700&#x20;people&#x20;working&#x20;in&#x20;public&#x20;institutions&#x20;over&#x20;alleged&#x20;links&#x20;to&#x20;&quot;terror&quot;&#x20;in&#x20;the&#x20;latest&#x20;round&#x20;of&#x20;purges&#x20;since&#x20;last&#x20;year&#x27;s&#x20;failed&#x20;coup.

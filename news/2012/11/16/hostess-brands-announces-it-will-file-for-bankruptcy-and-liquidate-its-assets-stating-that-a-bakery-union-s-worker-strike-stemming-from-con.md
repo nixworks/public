@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2012/11/16/hostess-brands-announces-it-will-file-for-bankruptcy-and-liquidate-its-assets-stating-that-a-bakery-union-s-worker-strike-stemming-from-con.html)  [JSON](/news/2012/11/16/hostess-brands-announces-it-will-file-for-bankruptcy-and-liquidate-its-assets-stating-that-a-bakery-union-s-worker-strike-stemming-from-con.json)  [XML](/news/2012/11/16/hostess-brands-announces-it-will-file-for-bankruptcy-and-liquidate-its-assets-stating-that-a-bakery-union-s-worker-strike-stemming-from-con.xml)  
+
 ### [2012-11-16](/news/2012/11/16/index.md)
 
+##### Hostess Brands
 # Hostess Brands announces it will file for bankruptcy and liquidate its assets, stating that a bakery union's worker strike stemming from contract disputes "crippled" its operations. 18,500 workers are expected to be laid off. 
 
+Hostess Brands Inc., the bankrupt maker of Wonder bread and Twinkies, said it will fire more than 18,000 workers and liquidate after a nationwide strike by bakery workers crippled operations.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2012-11-16/twinkie-maker-hostess-to-shut-down-after-strike.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2012-11-16/twinkie-maker-hostess-to-shut-down-after-strike.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

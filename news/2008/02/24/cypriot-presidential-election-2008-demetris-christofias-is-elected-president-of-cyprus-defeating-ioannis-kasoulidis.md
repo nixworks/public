@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/24/cypriot-presidential-election-2008-demetris-christofias-is-elected-president-of-cyprus-defeating-ioannis-kasoulidis.html)  [JSON](/news/2008/02/24/cypriot-presidential-election-2008-demetris-christofias-is-elected-president-of-cyprus-defeating-ioannis-kasoulidis.json)  [XML](/news/2008/02/24/cypriot-presidential-election-2008-demetris-christofias-is-elected-president-of-cyprus-defeating-ioannis-kasoulidis.xml)  
+
 ### [2008-02-24](/news/2008/02/24/index.md)
 
+##### Cypriot presidential election, 2008
 #  Cypriot presidential election, 2008: Demetris Christofias is elected President of Cyprus, defeating Ioannis Kasoulidis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.afp.com/english/news/stories/newsmlmmd.802ad3259e40516b3199a90e3dd87229.141.html)
 

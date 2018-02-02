@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/17/australian-artist-nigel-milsom-wins-the-2015-archibald-prize-for-a-portrait-of-barrister-charles-waterstreet-who-represented-milsom-when-he.html)  [JSON](/news/2015/07/17/australian-artist-nigel-milsom-wins-the-2015-archibald-prize-for-a-portrait-of-barrister-charles-waterstreet-who-represented-milsom-when-he.json)  [XML](/news/2015/07/17/australian-artist-nigel-milsom-wins-the-2015-archibald-prize-for-a-portrait-of-barrister-charles-waterstreet-who-represented-milsom-when-he.xml)  
+
 ### [2015-07-17](/news/2015/07/17/index.md)
 
+##### Australian
 # Australian artist Nigel Milsom wins the 2015 Archibald Prize for a portrait of barrister Charles Waterstreet who represented Milsom when he was sentenced for armed robbery. 
 
 A former armed robber&#039;s portrait of the barrister who inspired the ABC TV smash hit Rake wins this year&#039;s Archibald Prize.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-07-17/archibald-winner/6627264)
 1. [Cover Image](http://www.abc.net.au/news/image/6627784-1x1-700x700.jpg)

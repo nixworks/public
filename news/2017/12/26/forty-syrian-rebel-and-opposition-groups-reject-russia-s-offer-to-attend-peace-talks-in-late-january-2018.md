@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/26/forty-syrian-rebel-and-opposition-groups-reject
 
 ### [2017-12-26](/news/2017/12/26/index.md)
 
+##### Russia-Syria relations
 # Forty Syrian rebel and opposition groups reject Russia's offer to attend peace talks in late January 2018. 
 
 

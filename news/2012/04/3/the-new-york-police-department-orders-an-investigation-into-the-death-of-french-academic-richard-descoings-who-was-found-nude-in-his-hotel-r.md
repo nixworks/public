@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/3/the-new-york-police-department-orders-an-investigation-into-the-death-of-french-academic-richard-descoings-who-was-found-nude-in-his-hotel-r.html)  [JSON](/news/2012/04/3/the-new-york-police-department-orders-an-investigation-into-the-death-of-french-academic-richard-descoings-who-was-found-nude-in-his-hotel-r.json)  [XML](/news/2012/04/3/the-new-york-police-department-orders-an-investigation-into-the-death-of-french-academic-richard-descoings-who-was-found-nude-in-his-hotel-r.xml)  
+
 ### [2012-04-3](/news/2012/04/3/index.md)
 
+##### New York Police Department
 # The New York Police Department orders an investigation into the death of French academic Richard Descoings who was found nude in his hotel room. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/dead-french-academic-richard-descoings-new-york-hotel-room-in-disarray/story-e6frg6so-1226318434512)
 

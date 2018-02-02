@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/10/31/a-united-states-district-court-blocks-new-patent-rules-relating-to-continuation-practice-at-the-uspto-originally-scheduled-to-take-effect.html)  [JSON](/news/2007/10/31/a-united-states-district-court-blocks-new-patent-rules-relating-to-continuation-practice-at-the-uspto-originally-scheduled-to-take-effect.json)  [XML](/news/2007/10/31/a-united-states-district-court-blocks-new-patent-rules-relating-to-continuation-practice-at-the-uspto-originally-scheduled-to-take-effect.xml)  
+
 ### [2007-10-31](/news/2007/10/31/index.md)
 
+##### US Eastern District Court of Virginia
 #  A United States district court blocks new patent rules relating to continuation practice at the USPTO, originally scheduled to take effect on November 1, 2007. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Forbes](http://www.forbes.com/feeds/ap/2007/10/31/ap4285576.html)
+1. [Forbes](https://www.forbes.com/feeds/ap/2007/10/31/ap4285576.html)
 2. [InformationWeek](http://www.informationweek.com/news/showArticle.jhtml?articleID=202800798)
 
 ### Related:

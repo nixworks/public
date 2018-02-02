@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/18/pakistani-president-pervez-musharraf-says-he-will-contend-in-the-upcoming-presidential-election-because-the-country-needs-him.html)  [JSON](/news/2007/08/18/pakistani-president-pervez-musharraf-says-he-will-contend-in-the-upcoming-presidential-election-because-the-country-needs-him.json)  [XML](/news/2007/08/18/pakistani-president-pervez-musharraf-says-he-will-contend-in-the-upcoming-presidential-election-because-the-country-needs-him.xml)  
+
 ### [2007-08-18](/news/2007/08/18/index.md)
 
+##### Pakistan
 #  Pakistani President Pervez Musharraf says he will contend in the upcoming presidential election "because the country needs him." 
 
 

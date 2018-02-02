@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/9/an-ansar-al-sharia-suicide-bomb-attack-kills-seven-soldiers-at-an-army-base-in-southern-yemen.html)  [JSON](/news/2014/12/9/an-ansar-al-sharia-suicide-bomb-attack-kills-seven-soldiers-at-an-army-base-in-southern-yemen.json)  [XML](/news/2014/12/9/an-ansar-al-sharia-suicide-bomb-attack-kills-seven-soldiers-at-an-army-base-in-southern-yemen.xml)  
+
 ### [2014-12-9](/news/2014/12/9/index.md)
 
+##### Ansar al-Sharia
 # An Ansar al-Sharia suicide bomb attack kills seven soldiers at an army base in southern Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/12/09/world/meast/yemen-violence/)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/5/the-international-court-of-justice-orders-the-united-states-to-take-all-measures-necessary-to-prevent-the-execution-of-three-mexican-nati.html)  [JSON](/news/2003/02/5/the-international-court-of-justice-orders-the-united-states-to-take-all-measures-necessary-to-prevent-the-execution-of-three-mexican-nati.json)  [XML](/news/2003/02/5/the-international-court-of-justice-orders-the-united-states-to-take-all-measures-necessary-to-prevent-the-execution-of-three-mexican-nati.xml)  
+
 ### [2003-02-5](/news/2003/02/5/index.md)
 
+##### International Court of Justice
 #  The International Court of Justice orders the United States to take "all measures necessary" to prevent the execution of three Mexican nationals, pending its final judgment
 
 

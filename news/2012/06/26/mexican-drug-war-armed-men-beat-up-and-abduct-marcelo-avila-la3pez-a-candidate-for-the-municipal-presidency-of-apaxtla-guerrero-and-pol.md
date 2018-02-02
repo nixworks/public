@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/26/mexican-drug-war-armed-men-beat-up-and-abduct-marcelo-avila-la3pez-a-candidate-for-the-municipal-presidency-of-apaxtla-guerrero-and-pol.html)  [JSON](/news/2012/06/26/mexican-drug-war-armed-men-beat-up-and-abduct-marcelo-avila-la3pez-a-candidate-for-the-municipal-presidency-of-apaxtla-guerrero-and-pol.json)  [XML](/news/2012/06/26/mexican-drug-war-armed-men-beat-up-and-abduct-marcelo-avila-la3pez-a-candidate-for-the-municipal-presidency-of-apaxtla-guerrero-and-pol.xml)  
+
 ### [2012-06-26](/news/2012/06/26/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: Armed men beat up and abduct Marcelo Avila Lopez, a candidate for the municipal presidency of Apaxtla, Guerrero, and politician of the Institutional Revolutionary Party (PRI). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNNMéxico](http://mexico.cnn.com/nacional/2012/06/26/el-candidato-del-pri-al-municipio-de-apaxtla-guerrero-fue-secuestrado)
 1. [Cover Image](http://cdn.expansion.mx/media/2012/06/24/accidente-de-simpatizantes-de-izquierda-en-guerrero.jpg)

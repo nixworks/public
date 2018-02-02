@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2005/04/8/a-suicide-bomber-kills-two-foreign-tourists-in-a-cairo-market-and-injures-a-further-score-of-bystanders-a-group-called-islamic-pride-brig.html)  [JSON](/news/2005/04/8/a-suicide-bomber-kills-two-foreign-tourists-in-a-cairo-market-and-injures-a-further-score-of-bystanders-a-group-called-islamic-pride-brig.json)  [XML](/news/2005/04/8/a-suicide-bomber-kills-two-foreign-tourists-in-a-cairo-market-and-injures-a-further-score-of-bystanders-a-group-called-islamic-pride-brig.xml)  
+
 ### [2005-04-8](/news/2005/04/8/index.md)
 
+##### suicide bomber
 #  A suicide bomber kills two foreign tourists in a Cairo market and injures a further score of bystanders. A group called "Islamic Pride Brigades" claims responsibility. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4423423.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/562463.html)
 
 ### Related:
 
-1. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Cairo_
-2. [ A suicide bomber attacks a convoy in Afghanistan's Kabul province, killing a Georgian soldier and three civilians and wounding 13 others, including six Resolute Support personnel. ](/news/2017/08/3/a-suicide-bomber-attacks-a-convoy-in-afghanistan-s-kabul-province-killing-a-georgian-soldier-and-three-civilians-and-wounding-13-others-i.md) _Context: suicide bomber_
-3. [A suicide bomber kills at least six people and wounds 18 near a Pakistan Army vehicle taking part in the census in the city of Lahore. ](/news/2017/04/5/a-suicide-bomber-kills-at-least-six-people-and-wounds-18-near-a-pakistan-army-vehicle-taking-part-in-the-census-in-the-city-of-lahore.md) _Context: suicide bomber_
-4. [An Egyptian excavation team discovers the remains of a pyramid dating back 3,700 years to the thirteenth Dynasty of Egypt at the Dahshur necropolis 40km south of Cairo. ](/news/2017/04/3/an-egyptian-excavation-team-discovers-the-remains-of-a-pyramid-dating-back-3-700-years-to-the-thirteenth-dynasty-of-egypt-at-the-dahshur-nec.md) _Context: Cairo_
-5. [German and Egyptian archaeologists uncover a humanoid statue with an approximate height of eight metres, believed to be of Ramesses II, at the former site of Heliopolis in northeast Cairo. ](/news/2017/03/9/german-and-egyptian-archaeologists-uncover-a-humanoid-statue-with-an-approximate-height-of-eight-metres-believed-to-be-of-ramesses-ii-at-t.md) _Context: Cairo_
+1. [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _Context: suicide bomber_
+2. [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md) _Context: Cairo_
+3. [Nine people are killed in two coordinated attacks targeting Coptic Christians in Egypt. Two of the victims are killed by a gunman in a Coptic-owned appliance store in the Helwan area of Cairo. The gunman then moves to a church where he kills a further six civilians and a policeman before being arrested. ](/news/2017/12/29/nine-people-are-killed-in-two-coordinated-attacks-targeting-coptic-christians-in-egypt-two-of-the-victims-are-killed-by-a-gunman-in-a-copti.md) _Context: Cairo_
+4. [Rival factions within the ruling Sudan People's Liberation Movement sign the "Declaration of Unification" in Cairo, Egypt. ](/news/2017/11/16/rival-factions-within-the-ruling-sudan-people-s-liberation-movement-sign-the-declaration-of-unification-in-cairo-egypt.md) _Context: Cairo_
+5. [A suicide bomber kills at least 15 people in Kabul. ](/news/2017/10/21/a-suicide-bomber-kills-at-least-15-people-in-kabul.md) _Context: suicide bomber_

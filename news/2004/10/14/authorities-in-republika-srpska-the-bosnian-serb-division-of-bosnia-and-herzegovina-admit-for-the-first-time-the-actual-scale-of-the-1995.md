@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/14/authorities-in-republika-srpska-the-bosnian-serb-division-of-bosnia-and-herzegovina-admit-for-the-first-time-the-actual-scale-of-the-1995.html)  [JSON](/news/2004/10/14/authorities-in-republika-srpska-the-bosnian-serb-division-of-bosnia-and-herzegovina-admit-for-the-first-time-the-actual-scale-of-the-1995.json)  [XML](/news/2004/10/14/authorities-in-republika-srpska-the-bosnian-serb-division-of-bosnia-and-herzegovina-admit-for-the-first-time-the-actual-scale-of-the-1995.xml)  
+
 ### [2004-10-14](/news/2004/10/14/index.md)
 
+##### Republika Srpska
 #  Authorities in Republika Srpska, the Bosnian Serb division of Bosnia and Herzegovina, admit for the first time the actual scale of the 1995 Srebrenica massacre, providing a list of over 7,000 Muslim victims. The Bosnian Serb president admitted in June that Serb forces had committed the massacre, but did not give a specific number of victims. 
 
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3743176.stm)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_world/view/111745/1/.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/1/ali-ben-bongo-pierre-mamboundou-and-andre-mba-obame-each-declare-victory-in-the-gabonese-presidential-election.html)  [JSON](/news/2009/09/1/ali-ben-bongo-pierre-mamboundou-and-andre-mba-obame-each-declare-victory-in-the-gabonese-presidential-election.json)  [XML](/news/2009/09/1/ali-ben-bongo-pierre-mamboundou-and-andre-mba-obame-each-declare-victory-in-the-gabonese-presidential-election.xml)  
+
 ### [2009-09-1](/news/2009/09/1/index.md)
 
+##### Ali Ben Bongo
 #  Ali Ben Bongo, Pierre Mamboundou and Andre Mba Obame each declare victory in the Gabonese presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/english/2009-09-01-voa18.cfm)
 

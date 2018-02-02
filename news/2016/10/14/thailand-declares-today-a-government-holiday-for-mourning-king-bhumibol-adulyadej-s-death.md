@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/14/thailand-declares-today-a-government-holiday-fo
 
 ### [2016-10-14](/news/2016/10/14/index.md)
 
+##### Death and funeral of Bhumibol Adulyadej
 # Thailand declares today a government holiday for mourning King Bhumibol Adulyadej's death. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/11/sri-lankan-civil-war-a-bus-carrying-soldiers-from-trincomalee-hits-a-claymore-mine-killing-10-navy-sailors-their-driver-and-leaving-anot.html)  [JSON](/news/2006/04/11/sri-lankan-civil-war-a-bus-carrying-soldiers-from-trincomalee-hits-a-claymore-mine-killing-10-navy-sailors-their-driver-and-leaving-anot.json)  [XML](/news/2006/04/11/sri-lankan-civil-war-a-bus-carrying-soldiers-from-trincomalee-hits-a-claymore-mine-killing-10-navy-sailors-their-driver-and-leaving-anot.xml)  
+
 ### [2006-04-11](/news/2006/04/11/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: a bus carrying soldiers from Trincomalee hits a claymore mine, killing 10 navy sailors, their driver and leaving another eight wounded. A pair of British tourists are also injured in the blast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4898466.stm)
 

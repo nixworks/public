@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/6/celebrations-in-ghana-mark-the-fiftieth-anniversary-of-its-independence.html)  [JSON](/news/2007/03/6/celebrations-in-ghana-mark-the-fiftieth-anniversary-of-its-independence.json)  [XML](/news/2007/03/6/celebrations-in-ghana-mark-the-fiftieth-anniversary-of-its-independence.xml)  
+
 ### [2007-03-6](/news/2007/03/6/index.md)
 
+##### Ghana
 #  Celebrations in Ghana mark the fiftieth anniversary of its independence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6421819.stm)
 

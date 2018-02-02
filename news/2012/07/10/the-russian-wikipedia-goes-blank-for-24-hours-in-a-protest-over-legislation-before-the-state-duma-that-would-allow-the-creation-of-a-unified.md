@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2012/07/10/the-russian-wikipedia-goes-blank-for-24-hours-in-a-protest-over-legislation-before-the-state-duma-that-would-allow-the-creation-of-a-unified.html)  [JSON](/news/2012/07/10/the-russian-wikipedia-goes-blank-for-24-hours-in-a-protest-over-legislation-before-the-state-duma-that-would-allow-the-creation-of-a-unified.json)  [XML](/news/2012/07/10/the-russian-wikipedia-goes-blank-for-24-hours-in-a-protest-over-legislation-before-the-state-duma-that-would-allow-the-creation-of-a-unified.xml)  
+
 ### [2012-07-10](/news/2012/07/10/index.md)
 
+##### Wikipedia
 # The Russian Wikipedia goes blank for 24 hours in a protest over legislation before the State Duma that would allow the creation of a unified digital blacklist of all websites containing banned content. [http:--en.rian.ru-society-20120710-174509543.html (RIA Novosti)] (Russian Wikipedia)
 
 

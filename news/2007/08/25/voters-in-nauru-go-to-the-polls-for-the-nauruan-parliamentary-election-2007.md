@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/25/voters-in-nauru-go-to-the-polls-for-the-nauruan-parliamentary-election-2007.html)  [JSON](/news/2007/08/25/voters-in-nauru-go-to-the-polls-for-the-nauruan-parliamentary-election-2007.json)  [XML](/news/2007/08/25/voters-in-nauru-go-to-the-polls-for-the-nauruan-parliamentary-election-2007.xml)  
+
 ### [2007-08-25](/news/2007/08/25/index.md)
 
+##### Nauru
 #  Voters in Nauru go to the polls for the Nauruan parliamentary election, 2007. 
 
 The Pacific island nation of Nauru goes to the polls today.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/08/25/2015057.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

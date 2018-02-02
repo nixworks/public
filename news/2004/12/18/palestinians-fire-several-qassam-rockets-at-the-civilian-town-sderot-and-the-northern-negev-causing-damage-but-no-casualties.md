@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/18/palestinians-fire-several-qassam-rockets-at-the-civilian-town-sderot-and-the-northern-negev-causing-damage-but-no-casualties.html)  [JSON](/news/2004/12/18/palestinians-fire-several-qassam-rockets-at-the-civilian-town-sderot-and-the-northern-negev-causing-damage-but-no-casualties.json)  [XML](/news/2004/12/18/palestinians-fire-several-qassam-rockets-at-the-civilian-town-sderot-and-the-northern-negev-causing-damage-but-no-casualties.xml)  
+
 ### [2004-12-18](/news/2004/12/18/index.md)
 
+##### Israeli-Palestinian Conflict
 #  Palestinians fire several Qassam rockets at the civilian town Sderot and the northern Negev, causing damage but no casualties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4107391.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/515606.html)

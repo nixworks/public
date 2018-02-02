@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/11/16/exxonmobil-says-a-raid-by-movement-for-the-emancipation-of-the-niger-delta-a-militant-nigerian-group-has-eliminated-45-000-barrels-a-day-o.html)  [JSON](/news/2010/11/16/exxonmobil-says-a-raid-by-movement-for-the-emancipation-of-the-niger-delta-a-militant-nigerian-group-has-eliminated-45-000-barrels-a-day-o.json)  [XML](/news/2010/11/16/exxonmobil-says-a-raid-by-movement-for-the-emancipation-of-the-niger-delta-a-militant-nigerian-group-has-eliminated-45-000-barrels-a-day-o.xml)  
+
 ### [2010-11-16](/news/2010/11/16/index.md)
 
+##### ExxonMobil Corporation
 # ExxonMobil says a raid by Movement for the Emancipation of the Niger Delta, a militant Nigerian group, has eliminated 45,000 barrels a day of production of natural gas liquids and condensates. 
 
 * Attack shuts in 45,000 bpd condensate, NGL output * Exxon says 8 people missing after platform raid * MEND claims responsibility, threat
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSLDE6AF1RT20101116)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSLDE6AF1RT20101116)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

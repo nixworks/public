@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/2/the-community-of-the-people-wins-greenland-s-parliamentary-election.html)  [JSON](/news/2009/06/2/the-community-of-the-people-wins-greenland-s-parliamentary-election.json)  [XML](/news/2009/06/2/the-community-of-the-people-wins-greenland-s-parliamentary-election.xml)  
+
 ### [2009-06-2](/news/2009/06/2/index.md)
 
+##### Inuit Ataqatigiit
 #  The Community of the People wins Greenland's parliamentary election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8080434.stm)
 

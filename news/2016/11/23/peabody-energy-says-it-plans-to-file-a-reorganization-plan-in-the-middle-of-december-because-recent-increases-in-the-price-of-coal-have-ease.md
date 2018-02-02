@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/23/peabody-energy-says-it-plans-to-file-a-reorgani
 
 ### [2016-11-23](/news/2016/11/23/index.md)
 
+##### Peabody Energy
 # Peabody Energy says it plans to file a reorganization plan in the middle of December because recent increases in the price of coal have eased conflicts among its creditors. 
 
 U.S. coal producer Peabody Energy Corp BTUUQ.PK said on Wednesday it is closer to exiting bankruptcy, with a debt dispute between creditors fizzling as a recent increase in coal prices boosts their chances for recovery.

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/9/in-the-united-states-support-for-george-w-bush-decreases-as-casualties-mount-in-iraq.html)  [JSON](/news/2003/11/9/in-the-united-states-support-for-george-w-bush-decreases-as-casualties-mount-in-iraq.json)  [XML](/news/2003/11/9/in-the-united-states-support-for-george-w-bush-decreases-as-casualties-mount-in-iraq.xml)  
+
 ### [2003-11-9](/news/2003/11/9/index.md)
 
+##### George W. Bush
 #  In the United States, support for George W. Bush decreases as casualties mount in Iraq.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/6/u-s-senate-committee-on-the-judiciary-hearings-begin-regarding-the-nsa-warrantless-surveillance-program-with-testimony-from-attorney-gene.html)  [JSON](/news/2006/02/6/u-s-senate-committee-on-the-judiciary-hearings-begin-regarding-the-nsa-warrantless-surveillance-program-with-testimony-from-attorney-gene.json)  [XML](/news/2006/02/6/u-s-senate-committee-on-the-judiciary-hearings-begin-regarding-the-nsa-warrantless-surveillance-program-with-testimony-from-attorney-gene.xml)  
+
 ### [2006-02-6](/news/2006/02/6/index.md)
 
+##### U.S. Senate Committee on the Judiciary
 #  U.S. Senate Committee on the Judiciary hearings begin regarding the NSA warrantless surveillance program, with testimony from Attorney General Alberto Gonzales. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/templates/story/story.php?storyId=5191188)
 1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)

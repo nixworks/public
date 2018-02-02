@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/30/at-least-24-people-are-killed-in-a-series-of-at
 
 ### [2016-05-30](/news/2016/05/30/index.md)
 
+##### Iraqi civil war (2014-present)
 #  At least 24 people are killed in a series of attacks in and around Baghdad. ISIL has claimed responsibility. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
@@ -23,8 +24,8 @@ Your trusted source for breaking news, analysis, exclusive interviews, headlines
 
 ### Related:
 
-1. [At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/at-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of-baghdad-islamic-state-in-iraq-an.md) _Context: Baghdad, Iraqi Civil War (2014-present), Islamic State in Iraq and the Levant_
-2. [A car bombing in southeastern Baghdad kills at least 19 and injures nearly 50 Shi'ite pilgrims. ISIL has claimed responsibility. ](/news/2016/04/30/a-car-bombing-in-southeastern-baghdad-kills-at-least-19-and-injures-nearly-50-shi-ite-pilgrims-isil-has-claimed-responsibility.md) _Context: Baghdad, Iraqi Civil War (2014-present), Islamic State in Iraq and the Levant_
-3. [The Iraqi Army captures the town of Rawa from the Islamic State in Iraq and the Levant (ISIL). It was the last town held by ISIL in Iraq. ](/news/2017/11/17/the-iraqi-army-captures-the-town-of-rawa-from-the-islamic-state-in-iraq-and-the-levant-isil-it-was-the-last-town-held-by-isil-in-iraq.md) _Context: Iraqi Civil War (2014-present), Islamic State in Iraq and the Levant_
-4. [A car bomb attack on a police checkpoint in Baghdad kills at least 15 people and injures 40 others. ](/news/2017/03/29/a-car-bomb-attack-on-a-police-checkpoint-in-baghdad-kills-at-least-15-people-and-injures-40-others.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
-5. [A car bomb in Baghdad's southwestern Hayy Al-A'amel neighborhood kills at least 23 people, and wounds 45 others. ](/news/2017/03/20/a-car-bomb-in-baghdad-s-southwestern-hayy-al-a-amel-neighborhood-kills-at-least-23-people-and-wounds-45-others.md) _Context: Baghdad, Iraqi Civil War (2014-present)_
+1. [Two suicide bombings, one using a car bomb and another with an explosive belt, take place in vegetable markets in eastern Baghdad, killing at least 20 people and injuring more than 50. The Islamic State in Iraq and the Levant claims responsibility. ](/news/2017/01/8/two-suicide-bombings-one-using-a-car-bomb-and-another-with-an-explosive-belt-take-place-in-vegetable-markets-in-eastern-baghdad-killing-a.md) _Context: Baghdad, Islamic State in Iraq and the Levant_
+2. [At least 35 people are killed and 60 others injured in an attack on a Shiite mausoleum located in north of Baghdad. Islamic State in Iraq and the Levant have claimed responsibility. ](/news/2016/07/7/at-least-35-people-are-killed-and-60-others-injured-in-an-attack-on-a-shiite-mausoleum-located-in-north-of-baghdad-islamic-state-in-iraq-an.md) _Context: Baghdad, Islamic State in Iraq and the Levant_
+3. [Iraqi Army forces helped by U.S. airstrikes recapture the southwestern city of Ar-Rutbah from the Islamic State of Iraq and the Levant group. The victory will allow for the re-opening of the Baghdad-Amman highway. ](/news/2016/05/20/iraqi-army-forces-helped-by-u-s-airstrikes-recapture-the-southwestern-city-of-ar-rutbah-from-the-islamic-state-of-iraq-and-the-levant-group.md) _Context: Baghdad, Iraqi civil war (2014-present)_
+4. [ At least three civilians are killed and 10 others wounded in a bomb attack in Baghdad, Iraq. ](/news/2016/05/19/at-least-three-civilians-are-killed-and-10-others-wounded-in-a-bomb-attack-in-baghdad-iraq.md) _Context: Baghdad, Iraqi civil war (2014-present)_
+5. [ At least 69 people are killed and 230 injured in a series of bomb attacks targeting Shiite neighborhoods in Baghdad, Iraq. Islamic State of Iraq and Syria claims responsibility for some of the attacks. ](/news/2016/05/17/at-least-69-people-are-killed-and-230-injured-in-a-series-of-bomb-attacks-targeting-shiite-neighborhoods-in-baghdad-iraq-islamic-state-of.md) _Context: Baghdad, Iraqi civil war (2014-present)_

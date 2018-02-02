@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/9/the-indian-government-bans-export-of-pulses-due-to-domestic-shortages-this-has-led-to-price-hikes-for-pulses-in-bangladesh-and-other-count.html)  [JSON](/news/2006/07/9/the-indian-government-bans-export-of-pulses-due-to-domestic-shortages-this-has-led-to-price-hikes-for-pulses-in-bangladesh-and-other-count.json)  [XML](/news/2006/07/9/the-indian-government-bans-export-of-pulses-due-to-domestic-shortages-this-has-led-to-price-hikes-for-pulses-in-bangladesh-and-other-count.xml)  
+
 ### [2006-07-9](/news/2006/07/9/index.md)
 
+##### India
 #  The Indian government bans export of pulses due to domestic shortages. This has led to price hikes for pulses in Bangladesh and other countries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Kerala](http://www.newkerala.com/news3.php?action=fullnews&id=15597)
 

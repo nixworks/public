@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/3/haiti-s-chamber-of-deputies-appoints-laurent-lamothe-as-the-new-prime-minister-ending-a-two-month-standoff-with-president-michel-martelly.html)  [JSON](/news/2012/05/3/haiti-s-chamber-of-deputies-appoints-laurent-lamothe-as-the-new-prime-minister-ending-a-two-month-standoff-with-president-michel-martelly.json)  [XML](/news/2012/05/3/haiti-s-chamber-of-deputies-appoints-laurent-lamothe-as-the-new-prime-minister-ending-a-two-month-standoff-with-president-michel-martelly.xml)  
+
 ### [2012-05-3](/news/2012/05/3/index.md)
 
+##### Haiti
 # Haiti's Chamber of Deputies appoints Laurent Lamothe as the new Prime Minister ending a two month standoff with President Michel Martelly. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/haitian-lawmakers-approve-prime-minister-16275559#.T6NpvOu85o8)
 

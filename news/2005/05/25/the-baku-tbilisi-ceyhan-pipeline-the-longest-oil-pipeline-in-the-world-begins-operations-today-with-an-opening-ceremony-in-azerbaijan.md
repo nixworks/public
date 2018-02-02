@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/25/the-baku-tbilisi-ceyhan-pipeline-the-longest-oil-pipeline-in-the-world-begins-operations-today-with-an-opening-ceremony-in-azerbaijan.html)  [JSON](/news/2005/05/25/the-baku-tbilisi-ceyhan-pipeline-the-longest-oil-pipeline-in-the-world-begins-operations-today-with-an-opening-ceremony-in-azerbaijan.json)  [XML](/news/2005/05/25/the-baku-tbilisi-ceyhan-pipeline-the-longest-oil-pipeline-in-the-world-begins-operations-today-with-an-opening-ceremony-in-azerbaijan.xml)  
+
 ### [2005-05-25](/news/2005/05/25/index.md)
 
+##### Baku-Tbilisi-Ceyhan pipeline
 #  The Baku-Tbilisi-Ceyhan pipeline, the longest oil pipeline in the world, begins operations today, with an opening ceremony in Azerbaijan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/4577497.stm)
 

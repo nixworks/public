@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/24/libya-celebrates-its-independence-for-the-first-time-in-42-years-independence-celebrations-were-banned-under-the-regime-of-former-dictator.html)  [JSON](/news/2011/12/24/libya-celebrates-its-independence-for-the-first-time-in-42-years-independence-celebrations-were-banned-under-the-regime-of-former-dictator.json)  [XML](/news/2011/12/24/libya-celebrates-its-independence-for-the-first-time-in-42-years-independence-celebrations-were-banned-under-the-regime-of-former-dictator.xml)  
+
 ### [2011-12-24](/news/2011/12/24/index.md)
 
+##### Libya
 # Libya celebrates its independence for the first time in 42 years; independence celebrations were banned under the regime of former dictator Muammar Gaddafi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Tripoli Post](http://tripolipost.com/articledetail.asp?c=1&i=7555)
 

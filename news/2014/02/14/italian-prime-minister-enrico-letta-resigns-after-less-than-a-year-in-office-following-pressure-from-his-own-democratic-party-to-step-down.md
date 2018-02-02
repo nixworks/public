@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/14/italian-prime-minister-enrico-letta-resigns-after-less-than-a-year-in-office-following-pressure-from-his-own-democratic-party-to-step-down.html)  [JSON](/news/2014/02/14/italian-prime-minister-enrico-letta-resigns-after-less-than-a-year-in-office-following-pressure-from-his-own-democratic-party-to-step-down.json)  [XML](/news/2014/02/14/italian-prime-minister-enrico-letta-resigns-after-less-than-a-year-in-office-following-pressure-from-his-own-democratic-party-to-step-down.xml)  
+
 ### [2014-02-14](/news/2014/02/14/index.md)
 
+##### Italian Prime Minister
 # Italian Prime Minister Enrico Letta resigns after less than a year in office, following pressure from his own Democratic Party to step down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/02/14/world/europe/italy-prime-minister-resignation/)
 

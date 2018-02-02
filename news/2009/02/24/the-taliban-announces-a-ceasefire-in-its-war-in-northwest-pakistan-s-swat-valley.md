@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/02/24/the-taliban-announces-a-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.html)  [JSON](/news/2009/02/24/the-taliban-announces-a-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.json)  [XML](/news/2009/02/24/the-taliban-announces-a-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.xml)  
+
 ### [2009-02-24](/news/2009/02/24/index.md)
 
+##### Taliban
 #  The Taliban announces a ceasefire in its war in northwest Pakistan's Swat Valley. 
 
 Pakistani Taliban militants announced on Tuesday an indefinite ceasefire in the Swat valley in the northwest of the country, a day after the army said it was ceasing operations in the region.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE51M42O20090224)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090224&t=2&i=8392066&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-24T213110Z_01_BTRE51M1P5I00_RTROPTP_0_PAKISTAN-SWAT)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE51M42O20090224)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20090224&t=2&i=8392066&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-24T213110Z_01_BTRE51M1P5I00_RTROPTP_0_PAKISTAN-SWAT)
 
 ### Related:
 

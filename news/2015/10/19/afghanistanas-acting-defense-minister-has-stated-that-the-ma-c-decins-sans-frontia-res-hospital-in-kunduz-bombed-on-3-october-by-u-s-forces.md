@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2015/10/19/afghanistanas-acting-defense-minister-has-stated-that-the-ma-c-decins-sans-frontia-res-hospital-in-kunduz-bombed-on-3-october-by-u-s-forces.html)  [JSON](/news/2015/10/19/afghanistanas-acting-defense-minister-has-stated-that-the-ma-c-decins-sans-frontia-res-hospital-in-kunduz-bombed-on-3-october-by-u-s-forces.json)  [XML](/news/2015/10/19/afghanistanas-acting-defense-minister-has-stated-that-the-ma-c-decins-sans-frontia-res-hospital-in-kunduz-bombed-on-3-october-by-u-s-forces.xml)  
+
 ### [2015-10-19](/news/2015/10/19/index.md)
 
+##### Kunduz hospital airstrike
 # Afghanistan's acting defense minister has stated that the Medecins Sans Frontieres hospital in Kunduz bombed on 3 October by U.S. forces was being used as a safe haven by insurgents. MSF has repeatedly denied the allegation, stating "Every staff member in Kunduz working for MSF has repeatedly reported to us that there were no armed people in the hospital at the time of the bombing". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_AFGHANISTAN?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2015-10-19-10-18-20)
+
+### Changes:
+
+1. [War in Afghanistan (2015-present): Afghanistan's acting defense minister has stated that the Medecins Sans Frontieres hospital in Kunduz bombed on 3 October by U.S. forces was being used as a safe haven by insurgents. MSF has repeatedly denied the allegation, stating "Every staff member in Kunduz working for MSF has repeatedly reported to us that there were no armed people in the hospital at the time of the bombing". ](/news/2015/10/19/war-in-afghanistan-2015apresent-afghanistanas-acting-defense-minister-has-stated-that-the-ma-c-decins-sans-frontia-res-hospital-in-kund.md) _2017-08-25 03:43:06 (First version)_
+1. [Afghanistan's acting defense minister has stated that the Medecins Sans Frontieres hospital in Kunduz bombed on 3 October by U.S. forces was being used as a safe haven by insurgents. MSF has repeatedly denied the allegation, stating "Every staff member in Kunduz working for MSF has repeatedly reported to us that there were no armed people in the hospital at the time of the bombing". ](/news/2015/10/19/afghanistanas-acting-defense-minister-has-stated-that-the-ma-c-decins-sans-frontia-res-hospital-in-kunduz-bombed-on-3-october-by-u-s-forces.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [The United States says that last month's airstrikes in Kunduz hit three locations, mistakenly including the Medecins Sans Frontieres (Doctors Without Borders) (MSF) hospital where at least 30 were killed. Afghan commanders, whose forces were actively engaged with the Taliban, requested the attacks. "The Washington Post" reports a warehouse and a mansion in two densely populated residential areas were "pulverized" without loss of civilian lives. According to residents, earlier their neighborhoods had been conflict zones, but no militants were there the time of the attacks. "Together, the three attacks raise questions about the quality and reliability of the intelligence that Afghan security forces are providing to their American partners, as well as U.S. decisions to act on that intelligence," writes the Post. ](/news/2015/11/4/the-united-states-says-that-last-month-s-airstrikes-in-kunduz-hit-three-locations-mistakenly-including-the-ma-c-decins-sans-frontia-res-doct.md) _Context: Kunduz, Kunduz hospital airstrike, Medecins Sans Frontieres_
 4. [Several American personnel are suspended after an official report finds that human error was to blame for an airstrike on a Doctors without Borders hospital in the Afghan city of Kunduz in October that killed 30 people. No criminal charges were filed. ](/news/2015/11/25/several-american-personnel-are-suspended-after-an-official-report-finds-that-human-error-was-to-blame-for-an-airstrike-on-a-doctors-without.md) _Context: Afghanistan, Kunduz, Kunduz hospital airstrike_
 5. [Medecins Sans Frontieres (Doctors without Borders) calls for activating the International Humanitarian Fact-Finding Commission - for the first time since its 1991 creation under the Geneva Conventions - to investigate the deadly U.S. bombing of MSF's hospital in Kunduz, Afghanistan. MSF says it does not trust internal military inquiries into the bombing that killed at least 22 people, which it considers a war crime. ](/news/2015/10/7/ma-c-decins-sans-frontia-res-doctors-without-borders-calls-for-activating-the-international-humanitarian-fact-finding-commission-a-for-the.md) _Context: Afghanistan, Kunduz, Medecins Sans Frontieres_
-
-### Changes:
-
-1. [War in Afghanistan (2015-present): Afghanistan's acting defense minister has stated that the Medecins Sans Frontieres hospital in Kunduz bombed on 3 October by U.S. forces was being used as a safe haven by insurgents. MSF has repeatedly denied the allegation, stating "Every staff member in Kunduz working for MSF has repeatedly reported to us that there were no armed people in the hospital at the time of the bombing". ](/news/2015/10/19/war-in-afghanistan-2015apresent-afghanistanas-acting-defense-minister-has-stated-that-the-ma-c-decins-sans-frontia-res-hospital-in-kund.md) _2017-08-25 03:43:06 (First version)_
-1. [Afghanistan's acting defense minister has stated that the Medecins Sans Frontieres hospital in Kunduz bombed on 3 October by U.S. forces was being used as a safe haven by insurgents. MSF has repeatedly denied the allegation, stating "Every staff member in Kunduz working for MSF has repeatedly reported to us that there were no armed people in the hospital at the time of the bombing". ](/news/2015/10/19/afghanistanas-acting-defense-minister-has-stated-that-the-ma-c-decins-sans-frontia-res-hospital-in-kunduz-bombed-on-3-october-by-u-s-forces.md) _(Current version)_

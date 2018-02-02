@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/09/9/five-thousand-algerians-protest-in-algiers-after-two-recent-suicide-bomb-attacks.html)  [JSON](/news/2007/09/9/five-thousand-algerians-protest-in-algiers-after-two-recent-suicide-bomb-attacks.json)  [XML](/news/2007/09/9/five-thousand-algerians-protest-in-algiers-after-two-recent-suicide-bomb-attacks.xml)  
+
 ### [2007-09-9](/news/2007/09/9/index.md)
 
+##### Algeria
 #  Five thousand Algerians protest in Algiers after two recent suicide bomb attacks. 
 
 Around 5,000 Algerians gathered in central Algiers on Sunday to protest against violence after two suicide attacks killed at least 57 people in the North African country.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSL0928612620070909?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070909&t=2&i=1681077&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-09T190545Z_01_L09286126_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSL0928612620070909?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070909&t=2&i=1681077&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-09-09T190545Z_01_L09286126_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

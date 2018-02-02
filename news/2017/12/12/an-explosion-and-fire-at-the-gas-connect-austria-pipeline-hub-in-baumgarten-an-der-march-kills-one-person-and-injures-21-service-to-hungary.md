@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/12/an-explosion-and-fire-at-the-gas-connect-austri
 
 ### [2017-12-12](/news/2017/12/12/index.md)
 
+##### Baumgarten an der March
 # An explosion and fire at the Gas Connect Austria pipeline hub in Baumgarten an der March kills one person and injures 21. Service to Hungary, Slovenia, Croatia and Italy is suspended. Italy declares a state of emergency. 
 
 Gas has resumed flowing through an Austrian gas hub after an earlier explosion cut off supplies to several European countries. Italy has declared a state of emergency.

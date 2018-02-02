@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/27/the-syrian-army-clashes-with-insurgents-in-the-
 
 ### [2016-09-27](/news/2016/09/27/index.md)
 
+##### Aleppo Offensive
 # The Syrian Army clashes with insurgents in the 1070 Apartments district of Aleppo. 
 
 The Syrian army and its allies fought intense clashes with insurgents in the opposition-held 1070 Apartments district of southwestern Aleppo on Tuesday, senior combatant sources on both sides said.

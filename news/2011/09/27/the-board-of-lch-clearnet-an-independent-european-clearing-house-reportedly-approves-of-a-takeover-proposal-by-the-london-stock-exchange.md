@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/09/27/the-board-of-lch-clearnet-an-independent-european-clearing-house-reportedly-approves-of-a-takeover-proposal-by-the-london-stock-exchange.html)  [JSON](/news/2011/09/27/the-board-of-lch-clearnet-an-independent-european-clearing-house-reportedly-approves-of-a-takeover-proposal-by-the-london-stock-exchange.json)  [XML](/news/2011/09/27/the-board-of-lch-clearnet-an-independent-european-clearing-house-reportedly-approves-of-a-takeover-proposal-by-the-london-stock-exchange.xml)  
+
 ### [2011-09-27](/news/2011/09/27/index.md)
 
+##### LCH.Clearnet
 # The board of LCH.Clearnet, an independent European clearing house, reportedly approves of a takeover proposal by the London Stock Exchange. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/09/27/us-lse-lch-idUSTRE78Q1GP20110927)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/09/27/us-lse-lch-idUSTRE78Q1GP20110927)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

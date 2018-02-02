@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/8/organization-of-african-unity-disbanded-african-union-created.html)  [JSON](/news/2002/07/8/organization-of-african-unity-disbanded-african-union-created.json)  [XML](/news/2002/07/8/organization-of-african-unity-disbanded-african-union-created.xml)  
+
 ### [2002-07-8](/news/2002/07/8/index.md)
 
+##### Organization of African Unity
 #  Organization of African Unity disbanded, African Union created.
 
 

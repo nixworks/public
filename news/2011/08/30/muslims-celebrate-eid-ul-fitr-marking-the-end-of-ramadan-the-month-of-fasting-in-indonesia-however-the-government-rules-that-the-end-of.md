@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/30/muslims-celebrate-eid-ul-fitr-marking-the-end-of-ramadan-the-month-of-fasting-in-indonesia-however-the-government-rules-that-the-end-of.html)  [JSON](/news/2011/08/30/muslims-celebrate-eid-ul-fitr-marking-the-end-of-ramadan-the-month-of-fasting-in-indonesia-however-the-government-rules-that-the-end-of.json)  [XML](/news/2011/08/30/muslims-celebrate-eid-ul-fitr-marking-the-end-of-ramadan-the-month-of-fasting-in-indonesia-however-the-government-rules-that-the-end-of.xml)  
+
 ### [2011-08-30](/news/2011/08/30/index.md)
 
+##### Muslim
 # Muslims celebrate Eid ul-Fitr marking the end of Ramadan, the month of fasting. In Indonesia, however, the government rules that the end of Ramadan should be delayed one day. 
 
 Saudi Arabia announced Eid-ul-Fitr falls today, while most of Pakistan and India will wait until tomorrow. 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/Indonesia-s-Eid-confusion-To-fast-or-not-to-fast/Article1-739804.aspx)
 2. [Wall Street Journal](http://blogs.wsj.com/indiarealtime/2011/08/30/world-again-split-on-two-%E2%80%98eids%E2%80%99/)

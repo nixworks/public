@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/28/war-in-somalia-ethiopian-troops-have-withdrawn-from-a-key-town-in-central-somalia-islamist-insurgents-say-they-now-control-guriel.html)  [JSON](/news/2007/12/28/war-in-somalia-ethiopian-troops-have-withdrawn-from-a-key-town-in-central-somalia-islamist-insurgents-say-they-now-control-guriel.json)  [XML](/news/2007/12/28/war-in-somalia-ethiopian-troops-have-withdrawn-from-a-key-town-in-central-somalia-islamist-insurgents-say-they-now-control-guriel.xml)  
+
 ### [2007-12-28](/news/2007/12/28/index.md)
 
+##### two years of helping
 #  War in Somalia: Ethiopian troops have withdrawn from a key town in central Somalia. Islamist insurgents say they now control Guriel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7162957.stm)
 

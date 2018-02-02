@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/21/senegal-bans-demonstrations-in-the-capital-dakar-ahead-of-planned-opposition-protests-against-the-regime-of-president-abdoulaye-wade.html)  [JSON](/news/2011/07/21/senegal-bans-demonstrations-in-the-capital-dakar-ahead-of-planned-opposition-protests-against-the-regime-of-president-abdoulaye-wade.json)  [XML](/news/2011/07/21/senegal-bans-demonstrations-in-the-capital-dakar-ahead-of-planned-opposition-protests-against-the-regime-of-president-abdoulaye-wade.xml)  
+
 ### [2011-07-21](/news/2011/07/21/index.md)
 
+##### Senegal
 # Senegal bans demonstrations in the capital Dakar ahead of planned opposition protests against the regime of President Abdoulaye Wade. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-14239692)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54203000/jpg/_54203443_012285403-1.jpg)

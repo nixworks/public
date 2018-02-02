@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/9/british-singer-susan-boyle-reveals-she-has-asperger-syndrome.html)  [JSON](/news/2013/12/9/british-singer-susan-boyle-reveals-she-has-asperger-syndrome.json)  [XML](/news/2013/12/9/british-singer-susan-boyle-reveals-she-has-asperger-syndrome.xml)  
+
 ### [2013-12-9](/news/2013/12/9/index.md)
 
+##### British
 # British singer Susan Boyle reveals she has Asperger syndrome. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-25290617)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/66143000/jpg/_66143055_boyle2.jpg)

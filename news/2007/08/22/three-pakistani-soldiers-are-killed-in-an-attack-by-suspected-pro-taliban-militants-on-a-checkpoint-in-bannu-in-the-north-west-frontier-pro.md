@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/22/three-pakistani-soldiers-are-killed-in-an-attack-by-suspected-pro-taliban-militants-on-a-checkpoint-in-bannu-in-the-north-west-frontier-pro.html)  [JSON](/news/2007/08/22/three-pakistani-soldiers-are-killed-in-an-attack-by-suspected-pro-taliban-militants-on-a-checkpoint-in-bannu-in-the-north-west-frontier-pro.json)  [XML](/news/2007/08/22/three-pakistani-soldiers-are-killed-in-an-attack-by-suspected-pro-taliban-militants-on-a-checkpoint-in-bannu-in-the-north-west-frontier-pro.xml)  
+
 ### [2007-08-22](/news/2007/08/22/index.md)
 
+##### Pakistan
 #  Three Pakistani soldiers are killed in an attack by suspected pro-Taliban militants on a checkpoint in Bannu in the North-West Frontier Province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6957997.stm)
 

@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2007/08/12/denmark-sends-a-scientific-team-to-the-arctic-to-try-to-establish-that-the-lomonosov-ridge-is-an-extension-of-greenland-so-it-can-claim-sov.html)  [JSON](/news/2007/08/12/denmark-sends-a-scientific-team-to-the-arctic-to-try-to-establish-that-the-lomonosov-ridge-is-an-extension-of-greenland-so-it-can-claim-sov.json)  [XML](/news/2007/08/12/denmark-sends-a-scientific-team-to-the-arctic-to-try-to-establish-that-the-lomonosov-ridge-is-an-extension-of-greenland-so-it-can-claim-sov.xml)  
+
 ### [2007-08-12](/news/2007/08/12/index.md)
 
+##### Denmark
 #  Denmark sends a scientific team to the Arctic to try to establish that the Lomonosov Ridge is an extension of Greenland so it can claim sovereignty over oil reserves. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via New Hope Courier](http://www.onelocalnews.com/newhopecourier/stories/index.php?action=fullnews&id=145617)
+
+### Changes:
+
+1. [ Denmark sends a scientific team to the Arctic to try to establish that the Lomonosov Ridge is an extension of Greenland so it can claim sovereignty over oil reserves. ](/news/2007/08/12/denmark-sends-a-scientific-team-to-the-arctic-to-try-to-establish-that-the-lomonosov-ridge-is-an-extension-of-greenland-so-it-can-claim-so.md) _2017-08-25 03:20:31 (First version)_
+1. [ Denmark sends a scientific team to the Arctic to try to establish that the Lomonosov Ridge is an extension of Greenland so it can claim sovereignty over oil reserves. ](/news/2007/08/12/denmark-sends-a-scientific-team-to-the-arctic-to-try-to-establish-that-the-lomonosov-ridge-is-an-extension-of-greenland-so-it-can-claim-sov.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [An emerging outbreak of avian cholera kills thousands of eider ducks in Arctic regions of Canada. Scientists are studying the outbreak and its potential to spread to Greenland. ](/news/2011/01/24/an-emerging-outbreak-of-avian-cholera-kills-thousands-of-eider-ducks-in-arctic-regions-of-canada-scientists-are-studying-the-outbreak-and-i.md) _Context: Arctic, Greenland_
 4. [ Canada has sent 2 "Kingston"-class warships to the north Arctic port of Churchill, Manitoba following a territorial dispute with Denmark regarding Hans Island. ](/news/2005/08/23/canada-has-sent-2-kingston-class-warships-to-the-north-arctic-port-of-churchill-manitoba-following-a-territorial-dispute-with-denmark-re.md) _Context: Arctic, Denmark_
 5. [ The government of Denmark is investigating whether it can claim ownership of the North Pole, by studying how far the underwater portion of Greenland, a Danish territory, extends. Canada and Russia are already undertaking similar investigations regarding their own claims. ](/news/2004/10/1/the-government-of-denmark-is-investigating-whether-it-can-claim-ownership-of-the-north-pole-by-studying-how-far-the-underwater-portion-of.md) _Context: Denmark, Greenland_
-
-### Changes:
-
-1. [ Denmark sends a scientific team to the Arctic to try to establish that the Lomonosov Ridge is an extension of Greenland so it can claim sovereignty over oil reserves. ](/news/2007/08/12/denmark-sends-a-scientific-team-to-the-arctic-to-try-to-establish-that-the-lomonosov-ridge-is-an-extension-of-greenland-so-it-can-claim-so.md) _2017-08-25 03:20:31 (First version)_
-1. [ Denmark sends a scientific team to the Arctic to try to establish that the Lomonosov Ridge is an extension of Greenland so it can claim sovereignty over oil reserves. ](/news/2007/08/12/denmark-sends-a-scientific-team-to-the-arctic-to-try-to-establish-that-the-lomonosov-ridge-is-an-extension-of-greenland-so-it-can-claim-sov.md) _(Current version)_

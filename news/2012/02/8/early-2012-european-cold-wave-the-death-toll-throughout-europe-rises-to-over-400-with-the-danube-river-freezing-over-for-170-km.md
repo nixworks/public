@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/8/early-2012-european-cold-wave-the-death-toll-throughout-europe-rises-to-over-400-with-the-danube-river-freezing-over-for-170-km.html)  [JSON](/news/2012/02/8/early-2012-european-cold-wave-the-death-toll-throughout-europe-rises-to-over-400-with-the-danube-river-freezing-over-for-170-km.json)  [XML](/news/2012/02/8/early-2012-european-cold-wave-the-death-toll-throughout-europe-rises-to-over-400-with-the-danube-river-freezing-over-for-170-km.xml)  
+
 ### [2012-02-8](/news/2012/02/8/index.md)
 
+##### Early 2012 European cold wave
 # Early 2012 European cold wave: The death toll throughout Europe rises to over 400 with the Danube River freezing over for 170 km. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/europe-death-toll-now-400-from-icy-weather-20120208-1r7zl.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

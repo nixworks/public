@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/12/a-missile-strike-on-a-suspected-militant-training-camp-in-south-waziristan-in-pakistan-kills-at-least-nine-people.html)  [JSON](/news/2008/08/12/a-missile-strike-on-a-suspected-militant-training-camp-in-south-waziristan-in-pakistan-kills-at-least-nine-people.json)  [XML](/news/2008/08/12/a-missile-strike-on-a-suspected-militant-training-camp-in-south-waziristan-in-pakistan-kills-at-least-nine-people.xml)  
+
 ### [2008-08-12](/news/2008/08/12/index.md)
 
+##### South Waziristan
 #  A missile strike on a suspected militant training camp in South Waziristan in Pakistan kills at least nine people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1218446188607&pagename=JPost%2FJPArticle%2FShowFull)
 

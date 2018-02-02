@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/28/five-people-are-arrested-in-france-and-romania-as-a-result-of-an-investigation-into-the-killing-of-brahim-deby-a-son-of-the-president-of-c.html)  [JSON](/news/2008/11/28/five-people-are-arrested-in-france-and-romania-as-a-result-of-an-investigation-into-the-killing-of-brahim-deby-a-son-of-the-president-of-c.json)  [XML](/news/2008/11/28/five-people-are-arrested-in-france-and-romania-as-a-result-of-an-investigation-into-the-killing-of-brahim-deby-a-son-of-the-president-of-c.xml)  
+
 ### [2008-11-28](/news/2008/11/28/index.md)
 
+##### France
 #  Five people are arrested in France and Romania as a result of an investigation into the killing of Brahim Deby, a son of the President of Chad Idriss Deby. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5ghZUL4z4RcOItZQe1WH_hDRfdDmgD94OCA5O0)
 
@@ -15,4 +19,4 @@
 2. [Forest fires in Catalonia, Spain kill four people, with fires also in France, Portugal and Romania. ](/news/2012/07/23/forest-fires-in-catalonia-spain-kill-four-people-with-fires-also-in-france-portugal-and-romania.md) _Context: France, Romania_
 3. [France's government begins to deport thousands of Romani people, who are mainly from Romania and Bulgaria; Romania fears this will lead to xenophobic tensions. ](/news/2010/08/19/france-s-government-begins-to-deport-thousands-of-romani-people-who-are-mainly-from-romania-and-bulgaria-romania-fears-this-will-lead-to-x.md) _Context: France, Romania_
 4. [ In Chad, opposition parties boycott the 2006 presidential election and voter turnout is "extremely low". Results are not due for another 10 days, but President Idriss Deby is expected to win. ](/news/2006/05/3/in-chad-opposition-parties-boycott-the-2006-presidential-election-and-voter-turnout-is-extremely-low-results-are-not-due-for-another-10.md) _Context: Idriss Deby, President of Chad_
-5. [ Ahmat Mahamat Bachir, the president of the Chadian Independent National Election Commission, announces that incumbent President of Chad Idriss Dby won the 2006 Chadian presidential election held on May 3 with 77.5% of the vote. The official turnout was 61%, though international observers estimated turnout at 4&ndash;10%. ](/news/2006/05/14/ahmat-mahamat-bachir-the-president-of-the-chadian-independent-national-election-commission-announces-that-incumbent-president-of-chad-idr.md) _Context: Idriss Deby, President of Chad_
+5. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: France_

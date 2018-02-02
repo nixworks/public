@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/05/30/seton-hall-university-is-shut-down-due-to-a-bomb-threat-that-turns-out-to-be-a-hoax.html)  [JSON](/news/2013/05/30/seton-hall-university-is-shut-down-due-to-a-bomb-threat-that-turns-out-to-be-a-hoax.json)  [XML](/news/2013/05/30/seton-hall-university-is-shut-down-due-to-a-bomb-threat-that-turns-out-to-be-a-hoax.xml)  
+
 ### [2013-05-30](/news/2013/05/30/index.md)
 
+##### Seton Hall University
 # Seton Hall University is shut down due to a bomb threat that turns out to be a hoax. 
 
-Seton Hall University was evacuated Thursday afternoon after police received an anonymous tip that bombs had been placed in several campus buildings.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2013/05/30/seton-hall-evacuated-bomb-threat/2373921/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/nation/2013/05/30/seton-hall-evacuated-bomb-threat/2373921/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

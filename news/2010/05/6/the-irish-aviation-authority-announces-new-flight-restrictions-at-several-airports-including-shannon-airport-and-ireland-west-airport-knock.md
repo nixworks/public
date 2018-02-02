@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/6/the-irish-aviation-authority-announces-new-flight-restrictions-at-several-airports-including-shannon-airport-and-ireland-west-airport-knock.html)  [JSON](/news/2010/05/6/the-irish-aviation-authority-announces-new-flight-restrictions-at-several-airports-including-shannon-airport-and-ireland-west-airport-knock.json)  [XML](/news/2010/05/6/the-irish-aviation-authority-announces-new-flight-restrictions-at-several-airports-including-shannon-airport-and-ireland-west-airport-knock.xml)  
+
 ### [2010-05-6](/news/2010/05/6/index.md)
 
+##### Irish Aviation Authority
 # The Irish Aviation Authority announces new flight restrictions at several airports, including Shannon Airport and Ireland West Airport Knock, from midnight because of the (Iceland) volcano. 
 
 The Irish Aviation Authority has said that Irish airports will operate as normal until at least 1pm tomorrow.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0506/travel.html)
 1. [Cover Image](https://img.rasset.ie/000341ee-1600.jpg)

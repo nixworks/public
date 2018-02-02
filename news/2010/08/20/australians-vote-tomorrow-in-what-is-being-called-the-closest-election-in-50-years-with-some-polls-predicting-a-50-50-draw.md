@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/20/australians-vote-tomorrow-in-what-is-being-called-the-closest-election-in-50-years-with-some-polls-predicting-a-50-50-draw.html)  [JSON](/news/2010/08/20/australians-vote-tomorrow-in-what-is-being-called-the-closest-election-in-50-years-with-some-polls-predicting-a-50-50-draw.json)  [XML](/news/2010/08/20/australians-vote-tomorrow-in-what-is-being-called-the-closest-election-in-50-years-with-some-polls-predicting-a-50-50-draw.xml)  
+
 ### [2010-08-20](/news/2010/08/20/index.md)
 
+##### recent election
 # Australians vote tomorrow in what is being called the closest election in 50 years, with some polls predicting a 50-50 draw. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/aug/20/australia-election)
 

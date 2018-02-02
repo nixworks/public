@@ -1,17 +1,22 @@
+
+Formats: [HTML](/news/2013/05/21/the-united-states-senate-committee-on-the-judiciary-approves-immigration-reform-legislation-that-would-give-citizenship-to-millions-living-i.html)  [JSON](/news/2013/05/21/the-united-states-senate-committee-on-the-judiciary-approves-immigration-reform-legislation-that-would-give-citizenship-to-millions-living-i.json)  [XML](/news/2013/05/21/the-united-states-senate-committee-on-the-judiciary-approves-immigration-reform-legislation-that-would-give-citizenship-to-millions-living-i.xml)  
+
 ### [2013-05-21](/news/2013/05/21/index.md)
 
+##### United States Senate Committee on the Judiciary
 # The United States Senate Committee on the Judiciary approves immigration reform legislation that would give citizenship to millions living in the country illegally. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/politics/congress/senate-judiciary-committee-nearing-final-big-decisions-in-shaping-immigration-bill/2013/05/21/39168d20-c1e4-11e2-9aa6-fc21ae807a8a_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/politics/congress/senate-judiciary-committee-nearing-final-big-decisions-in-shaping-immigration-bill/2013/05/21/39168d20-c1e4-11e2-9aa6-fc21ae807a8a_story.html)
 
 ### Related:
 
-1. [The Senate Judiciary Committee begins hearings on the nomination of Judge Neil M. Gorsuch to the Supreme Court of the United States. ](/news/2017/03/20/the-senate-judiciary-committee-begins-hearings-on-the-nomination-of-judge-neil-m-gorsuch-to-the-supreme-court-of-the-united-states.md) _Context: Senate Judiciary Committee_
-2. [The United States Department of State issues a travel warning to United States citizens for the country of Algeria in response to the In Amenas hostage crisis. ](/news/2013/01/20/the-united-states-department-of-state-issues-a-travel-warning-to-united-states-citizens-for-the-country-of-algeria-in-response-to-the-in-ama.md) _Context: citizenship_
-3. [ The Bush administration admits that it may be missing e-mails related to the dismissal of eight United States Attorneys as the Senate Judiciary Committee authorises chairman Patrick Leahy to subpoena documents related to the issue. ](/news/2007/04/12/the-bush-administration-admits-that-it-may-be-missing-e-mails-related-to-the-dismissal-of-eight-united-states-attorneys-as-the-senate-judic.md) _Context: Senate Judiciary Committee_
-4. [ As the United States remembers the deadliest terrorist attack ever on its shores, the United States Department of State warns it is seeing "increasing indications that al-Qaeda is preparing to strike United States interests abroad" and urges citizens overseas to take special caution on the second anniversary of the September 11 attacks amid growing indications that al-Qaeda is planning bigger attacks, "possibly involving unconventional weapons such as chemical or biological agents."](/news/2003/09/11/as-the-united-states-remembers-the-deadliest-terrorist-attack-ever-on-its-shores-the-united-states-department-of-state-warns-it-is-seeing.md) _Context: citizenship_
+1. [Senators Chuck Grassley and Lindsey Graham of the United States Senate Committee on the Judiciary refer the British spy Christopher Steele to the U.S. Department of Justice for a potential criminal investigation. ](/news/2018/01/5/senators-chuck-grassley-and-lindsey-graham-of-the-united-states-senate-committee-on-the-judiciary-refer-the-british-spy-christopher-steele-t.md) _Context: United States Senate Committee on the Judiciary_
+2. [The Senate Judiciary Committee begins hearings on the nomination of Judge Neil M. Gorsuch to the Supreme Court of the United States. ](/news/2017/03/20/the-senate-judiciary-committee-begins-hearings-on-the-nomination-of-judge-neil-m-gorsuch-to-the-supreme-court-of-the-united-states.md) _Context: United States Senate Committee on the Judiciary_
+3. [The United States Department of State issues a travel warning to United States citizens for the country of Algeria in response to the In Amenas hostage crisis. ](/news/2013/01/20/the-united-states-department-of-state-issues-a-travel-warning-to-united-states-citizens-for-the-country-of-algeria-in-response-to-the-in-ama.md) _Context: citizenship_
+4. [ The Bush administration admits that it may be missing e-mails related to the dismissal of eight United States Attorneys as the Senate Judiciary Committee authorises chairman Patrick Leahy to subpoena documents related to the issue. ](/news/2007/04/12/the-bush-administration-admits-that-it-may-be-missing-e-mails-related-to-the-dismissal-of-eight-united-states-attorneys-as-the-senate-judic.md) _Context: United States Senate Committee on the Judiciary_
+5. [ As the United States remembers the deadliest terrorist attack ever on its shores, the United States Department of State warns it is seeing "increasing indications that al-Qaeda is preparing to strike United States interests abroad" and urges citizens overseas to take special caution on the second anniversary of the September 11 attacks amid growing indications that al-Qaeda is planning bigger attacks, "possibly involving unconventional weapons such as chemical or biological agents."](/news/2003/09/11/as-the-united-states-remembers-the-deadliest-terrorist-attack-ever-on-its-shores-the-united-states-department-of-state-warns-it-is-seeing.md) _Context: citizenship_

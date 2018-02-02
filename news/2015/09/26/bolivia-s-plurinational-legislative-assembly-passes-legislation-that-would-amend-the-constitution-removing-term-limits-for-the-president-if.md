@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/26/bolivia-s-plurinational-legislative-assembly-passes-legislation-that-would-amend-the-constitution-removing-term-limits-for-the-president-if.html)  [JSON](/news/2015/09/26/bolivia-s-plurinational-legislative-assembly-passes-legislation-that-would-amend-the-constitution-removing-term-limits-for-the-president-if.json)  [XML](/news/2015/09/26/bolivia-s-plurinational-legislative-assembly-passes-legislation-that-would-amend-the-constitution-removing-term-limits-for-the-president-if.xml)  
+
 ### [2015-09-26](/news/2015/09/26/index.md)
 
+##### Bolivia
 # Bolivia's Plurinational Legislative Assembly passes legislation that would amend the constitution removing term limits for the President if passed in a referendum next year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3250464/Bolivia-passes-law-allow-Morales-run-fourth-term.html#ixzz3mt7ZgBHr)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/3/record-producer-phil-spector-was-arrested-in-relation-to-an-investigation-into-the-fatal-shooting-of-a-40-year-old-woman-in-los-angeles-pr.html)  [JSON](/news/2003/02/3/record-producer-phil-spector-was-arrested-in-relation-to-an-investigation-into-the-fatal-shooting-of-a-40-year-old-woman-in-los-angeles-pr.json)  [XML](/news/2003/02/3/record-producer-phil-spector-was-arrested-in-relation-to-an-investigation-into-the-fatal-shooting-of-a-40-year-old-woman-in-los-angeles-pr.xml)  
+
 ### [2003-02-3](/news/2003/02/3/index.md)
 
+##### Phil Spector
 #  Record producer Phil Spector was arrested in relation to an investigation into the fatal shooting of a 40-year-old woman in Los Angeles. Press reports identify the woman as the actress Lana Clarkson.
 
 

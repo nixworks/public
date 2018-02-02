@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/11/karen-drambjan-a-left-wing-estonian-lawyer-storms-the-defense-ministry-in-tallinn-and-takes-two-hostages-but-is-killed-when-special-polic.html)  [JSON](/news/2011/08/11/karen-drambjan-a-left-wing-estonian-lawyer-storms-the-defense-ministry-in-tallinn-and-takes-two-hostages-but-is-killed-when-special-polic.json)  [XML](/news/2011/08/11/karen-drambjan-a-left-wing-estonian-lawyer-storms-the-defense-ministry-in-tallinn-and-takes-two-hostages-but-is-killed-when-special-polic.xml)  
+
 ### [2011-08-11](/news/2011/08/11/index.md)
 
+##### Karen Drambjan
 # Karen Drambjan, a left-wing Estonian lawyer, storms the Defense Ministry in Tallinn and takes two hostages, but is killed when special police forces storm the building. 
 
 A man armed with guns, grenades and even a small bomb occupied the Estonian Defense Ministry in Tallinn on Thursday and was killed by police during the siege operation. There were no other casualties.
 
 
-### Source:
+### Sources:
 
 1. [RT](http://rt.com/news/estonia-defense-ministry-shooting/)
 1. [Cover Image](https://img.rt.com/files/oldfiles/news/estonia-defense-ministry-shooting/defense-shooting-hit-ministry-266.si.jpg)

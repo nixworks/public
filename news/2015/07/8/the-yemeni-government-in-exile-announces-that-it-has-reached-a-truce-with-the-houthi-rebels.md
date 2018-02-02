@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2015/07/8/the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.html)  [JSON](/news/2015/07/8/the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.json)  [XML](/news/2015/07/8/the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.xml)  
+
 ### [2015-07-8](/news/2015/07/8/index.md)
 
+##### Yemeni Crisis (2011-present)
 # The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Arabiya](http://english.alarabiya.net/en/News/middle-east/2015/07/08/Yemen-tells-U-N-it-agrees-to-conditional-truce.html)
+
+### Changes:
+
+1. [Yemeni Crisis (2011-present): The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/yemeni-crisis-2011-present-the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md) _2017-08-27 03:42:40 (First version)_
+1. [The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [The United States Navy's USS "Mason" is fired on for the third time in a week from territory controlled by Houthi forces in Yemen, while in international waters of the Red Sea. The ship deployed countermeasures and was not struck, according to U.S. officials. ](/news/2016/10/15/the-united-states-navy-s-uss-mason-is-fired-on-for-the-third-time-in-a-week-from-territory-controlled-by-houthi-forces-in-yemen-while-in.md) _Context: Houthi, Yemen, Yemeni Crisis (2011-present)_
 4. [The U.S. military launches Tomahawk cruise missiles from the USS "Nitze" against Houthi-controlled radar sites in Yemen following two incidents in which, according to U.S. military, missiles were fired on United States Navy vessels in the Red Sea. ](/news/2016/10/13/the-u-s-military-launches-tomahawk-cruise-missiles-from-the-uss-nitze-against-houthi-controlled-radar-sites-in-yemen-following-two-incide.md) _Context: Houthi, Yemen, Yemeni Crisis (2011-present)_
 5. [The Houthis come to a preliminary agreement to form a new government in Yemen. ](/news/2015/02/20/the-houthis-come-to-a-preliminary-agreement-to-form-a-new-government-in-yemen.md) _Context: Houthi, Yemen, Yemeni Crisis (2011-present)_
-
-### Changes:
-
-1. [Yemeni Crisis (2011-present): The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/yemeni-crisis-2011-present-the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md) _2017-08-27 03:42:40 (First version)_
-1. [The Yemeni government in exile announces that it has reached a truce with the Houthi rebels. ](/news/2015/07/8/the-yemeni-government-in-exile-announces-that-it-has-reached-a-truce-with-the-houthi-rebels.md) _(Current version)_

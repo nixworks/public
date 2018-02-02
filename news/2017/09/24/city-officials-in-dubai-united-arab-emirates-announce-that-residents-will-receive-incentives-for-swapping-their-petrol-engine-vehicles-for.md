@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/24/city-officials-in-dubai-united-arab-emirates-an
 
 ### [2017-09-24](/news/2017/09/24/index.md)
 
+##### Transportation in Dubai
 # City officials in Dubai, United Arab Emirates, announce that residents will receive incentives for swapping their petrol engine vehicles for electric ones, including a free Salik tag, and an exemption from RTA registration and renewal vehicle fees. 
 
 E-car users will also be exempted from RTA registration and renewal vehicle fees, and will get free Salik tag upon registration.

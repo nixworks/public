@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/30/the-coat-of-arms-of-nepal-is-changed-as-a-gesture-of-reconciliation-after-the-nepalese-civil-war.html)  [JSON](/news/2006/12/30/the-coat-of-arms-of-nepal-is-changed-as-a-gesture-of-reconciliation-after-the-nepalese-civil-war.json)  [XML](/news/2006/12/30/the-coat-of-arms-of-nepal-is-changed-as-a-gesture-of-reconciliation-after-the-nepalese-civil-war.xml)  
+
 ### [2006-12-30](/news/2006/12/30/index.md)
 
+##### coat of arms of Nepal
 #  The coat of arms of Nepal is changed as a gesture of reconciliation after the Nepalese Civil War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People's Daily](http://english.people.com.cn/200612/18/eng20061218_333600.html)
 

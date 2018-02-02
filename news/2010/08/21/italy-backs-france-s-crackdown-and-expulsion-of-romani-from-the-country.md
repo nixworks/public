@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/21/italy-backs-france-s-crackdown-and-expulsion-of-romani-from-the-country.html)  [JSON](/news/2010/08/21/italy-backs-france-s-crackdown-and-expulsion-of-romani-from-the-country.json)  [XML](/news/2010/08/21/italy-backs-france-s-crackdown-and-expulsion-of-romani-from-the-country.xml)  
+
 ### [2010-08-21](/news/2010/08/21/index.md)
 
+##### Italy
 # Italy backs France's crackdown and expulsion of Romani from the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.winnipegfreepress.com/world/breakingnews/italys-interior-minister-praises-frances-controversial-gypsy-crackdown-101218844.html)
 2. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/201082115913698771.html)

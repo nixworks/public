@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/04/2/lewis-hamilton-of-vodafone-mclaren-mercedes-is-disqualified-from-the-2009-australian-grand-prix-for-deliberately-misleading-the-internati.html)  [JSON](/news/2009/04/2/lewis-hamilton-of-vodafone-mclaren-mercedes-is-disqualified-from-the-2009-australian-grand-prix-for-deliberately-misleading-the-internati.json)  [XML](/news/2009/04/2/lewis-hamilton-of-vodafone-mclaren-mercedes-is-disqualified-from-the-2009-australian-grand-prix-for-deliberately-misleading-the-internati.xml)  
+
 ### [2009-04-2](/news/2009/04/2/index.md)
 
+##### Lewis Hamilton
 #  Lewis Hamilton of Vodafone McLaren Mercedes is disqualified from the 2009 Australian Grand Prix for 'deliberately misleading' the International Automobile Federation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/7978186.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=aWycR4x8cbys&refer=europe)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601085&sid=aWycR4x8cbys&refer=europe)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/15/the-number-of-deaths-resulting-from-the-mers-outbreak-in-south-korea-rises-to-sixteen-with-the-number-of-total-cases-rising-to-150.html)  [JSON](/news/2015/06/15/the-number-of-deaths-resulting-from-the-mers-outbreak-in-south-korea-rises-to-sixteen-with-the-number-of-total-cases-rising-to-150.json)  [XML](/news/2015/06/15/the-number-of-deaths-resulting-from-the-mers-outbreak-in-south-korea-rises-to-sixteen-with-the-number-of-total-cases-rising-to-150.xml)  
+
 ### [2015-06-15](/news/2015/06/15/index.md)
 
+##### recent MERS outbreak
 # The number of deaths resulting from the MERS outbreak in South Korea rises to sixteen with the number of total cases rising to 150. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/06/14/asia/south-korea-mers-outbreak/index.html?sr=twcnnbrk061415southkoreamersoutbreak832pStoryGalPhoto)
 

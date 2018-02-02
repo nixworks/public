@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/8/the-eiffel-tower-is-closed-due-to-snow.html)  [JSON](/news/2010/12/8/the-eiffel-tower-is-closed-due-to-snow.json)  [XML](/news/2010/12/8/the-eiffel-tower-is-closed-due-to-snow.xml)  
+
 ### [2010-12-8](/news/2010/12/8/index.md)
 
+##### Eiffel Tower
 # The Eiffel Tower is closed due to snow. 
 
 Heavy snow hits Paris, briefly closing Charles de Gaulle airport and bringing buses to a halt.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11951703)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

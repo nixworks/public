@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/30/thailand-urges-cambodia-to-release-seven-of-its-citizens-ndash-including-an-mp-ndash-arrested-after-crossing-their-mutual-border.html)  [JSON](/news/2010/12/30/thailand-urges-cambodia-to-release-seven-of-its-citizens-ndash-including-an-mp-ndash-arrested-after-crossing-their-mutual-border.json)  [XML](/news/2010/12/30/thailand-urges-cambodia-to-release-seven-of-its-citizens-ndash-including-an-mp-ndash-arrested-after-crossing-their-mutual-border.xml)  
+
 ### [2010-12-30](/news/2010/12/30/index.md)
 
+##### Thailand
 # Thailand urges Cambodia to release seven of its citizens&ndash;including an MP&ndash;arrested after crossing their mutual border. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_619006.html)
 

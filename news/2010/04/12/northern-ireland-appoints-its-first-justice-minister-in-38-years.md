@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/12/northern-ireland-appoints-its-first-justice-minister-in-38-years.html)  [JSON](/news/2010/04/12/northern-ireland-appoints-its-first-justice-minister-in-38-years.json)  [XML](/news/2010/04/12/northern-ireland-appoints-its-first-justice-minister-in-38-years.xml)  
+
 ### [2010-04-12](/news/2010/04/12/index.md)
 
+##### Northern Ireland
 # Northern Ireland appoints its first justice minister in 38 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8614351.stm)
 

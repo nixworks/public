@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/24/snooker-s-first-television-superstar-and-two-times-world-champion-alex-higgins-dies-at-the-age-of-61.html)  [JSON](/news/2010/07/24/snooker-s-first-television-superstar-and-two-times-world-champion-alex-higgins-dies-at-the-age-of-61.json)  [XML](/news/2010/07/24/snooker-s-first-television-superstar-and-two-times-world-champion-alex-higgins-dies-at-the-age-of-61.xml)  
+
 ### [2010-07-24](/news/2010/07/24/index.md)
 
+##### Snooker
 # Snooker's "first television superstar" and two-times world champion Alex Higgins dies at the age of 61. 
 
 Alex Higgins&rsquo; contribution to snooker can be measured in many ways &ndash; but without him it is certainly possible that his two heirs as &lsquo;People&rsquo;s Champions&rsquo; &ndash; Jimmy White, and more recently Ronnie O&rsquo;Sullivan &ndash; would never have picked up a cue.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/other_sports/snooker/8852042.stm)
 2. [Hindustan Times](http://www.hindustantimes.com/Former-snooker-world-champion-Alex-Higgins-dies/Article1-577308.aspx)

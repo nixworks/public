@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/7/china-closes-tibet-to-foreign-tourists-ahead-of-the-third-anniversary-since-unrest-there-in-2008.html)  [JSON](/news/2011/03/7/china-closes-tibet-to-foreign-tourists-ahead-of-the-third-anniversary-since-unrest-there-in-2008.json)  [XML](/news/2011/03/7/china-closes-tibet-to-foreign-tourists-ahead-of-the-third-anniversary-since-unrest-there-in-2008.xml)  
+
 ### [2011-03-7](/news/2011/03/7/index.md)
 
+##### Tibet
 # China closes Tibet to foreign tourists, ahead of the third anniversary since unrest there in 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jj8wCSjUdwTXCxR94Wfc1xDWkRAg?docId=CNG.49104d077a72cbffeafe9d3689e92793.f51)
 2. [MSN Malaysia](http://news.malaysia.msn.com/regional/article.aspx?cp-documentid=4695288)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/27/texas-senator-ted-cruz-names-former-republican-
 
 ### [2016-04-27](/news/2016/04/27/index.md)
 
+##### 2016 U.S. presidential election
 # Texas Senator Ted Cruz names former Republican presidential candidate Carly Fiorina as his vice-presidential running mate. 
 
 

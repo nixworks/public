@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/6/mexican-president-felipe-caldera3n-signs-a-law-making-mexico-only-the-second-country-in-the-world-to-introduce-binding-targets-on-climate-ch.html)  [JSON](/news/2012/06/6/mexican-president-felipe-caldera3n-signs-a-law-making-mexico-only-the-second-country-in-the-world-to-introduce-binding-targets-on-climate-ch.json)  [XML](/news/2012/06/6/mexican-president-felipe-caldera3n-signs-a-law-making-mexico-only-the-second-country-in-the-world-to-introduce-binding-targets-on-climate-ch.xml)  
+
 ### [2012-06-6](/news/2012/06/6/index.md)
 
+##### Felipe Calderon
 # Mexican president Felipe Calderon signs a law making Mexico only the second country in the world to introduce binding targets on climate change. 
 
 President Felipe Calderon signs a law making Mexico only the second country in the world to introduce binding targets on climate change.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18345079)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60731000/jpg/_60731300_014746746-1.jpg)

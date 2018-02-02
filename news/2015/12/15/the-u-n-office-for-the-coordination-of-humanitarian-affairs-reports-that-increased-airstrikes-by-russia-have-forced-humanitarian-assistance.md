@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/15/the-u-n-office-for-the-coordination-of-humanitarian-affairs-reports-that-increased-airstrikes-by-russia-have-forced-humanitarian-assistance.html)  [JSON](/news/2015/12/15/the-u-n-office-for-the-coordination-of-humanitarian-affairs-reports-that-increased-airstrikes-by-russia-have-forced-humanitarian-assistance.json)  [XML](/news/2015/12/15/the-u-n-office-for-the-coordination-of-humanitarian-affairs-reports-that-increased-airstrikes-by-russia-have-forced-humanitarian-assistance.xml)  
+
 ### [2015-12-15](/news/2015/12/15/index.md)
 
+##### Syrian Civil War
 # The U.N. Office for the Coordination of Humanitarian Affairs reports that increased airstrikes by Russia have forced humanitarian assistance organizations to curtail their relief efforts, exacerbating the humanitarian crisis in northern Syria. 
 
 Aid agencies warn of dire humanitarian conditions as bombings knock out civilian infrastructure
 
 
-### Source:
+### Sources:
 
 1. [The Washington Post](https://www.washingtonpost.com/world/middle_east/russian-airstrikes-force-a-halt-to-aid-in-syria-triggering-a-new-crisis/2015/12/14/cebc4b66-9f87-11e5-9ad2-568d814bbf3b_story.html)
 

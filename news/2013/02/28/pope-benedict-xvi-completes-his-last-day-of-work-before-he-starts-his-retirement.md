@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/28/pope-benedict-xvi-completes-his-last-day-of-work-before-he-starts-his-retirement.html)  [JSON](/news/2013/02/28/pope-benedict-xvi-completes-his-last-day-of-work-before-he-starts-his-retirement.json)  [XML](/news/2013/02/28/pope-benedict-xvi-completes-his-last-day-of-work-before-he-starts-his-retirement.xml)  
+
 ### [2013-02-28](/news/2013/02/28/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI completes his last day of work before he starts his retirement. 
 
 Benedict XVI vows &quot;unconditional obedience and reverence&quot; to his eventual successor as pope on his final day in office at the Vatican.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21612229)
 2. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/vaticancityandholysee/9897769/The-world-bids-farewell-to-Pope-Benedict-XVI.html)

@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2010/10/9/erwin-arnada-the-former-editor-of-playboy-indonesia-is-arrested-on-bali-he-had-been-on-the-run-since-being-sentenced-to-two-years-in-pr.html)  [JSON](/news/2010/10/9/erwin-arnada-the-former-editor-of-playboy-indonesia-is-arrested-on-bali-he-had-been-on-the-run-since-being-sentenced-to-two-years-in-pr.json)  [XML](/news/2010/10/9/erwin-arnada-the-former-editor-of-playboy-indonesia-is-arrested-on-bali-he-had-been-on-the-run-since-being-sentenced-to-two-years-in-pr.xml)  
+
 ### [2010-10-9](/news/2010/10/9/index.md)
 
+##### Erwin Arnada
 # Erwin Arnada, the former editor of "Playboy Indonesia", is arrested on Bali. He had been on the run since being sentenced to two years in prison in August after an earlier trial in 2007. 
 
 Police have arrested the former editor of Indonesian Playboy, Erwin Arnada, to force him to serve a two-year jail sentence.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Philippine Daily Inquirer](http://showbizandstyle.inquirer.net/breakingnews/breakingnews/view/20101009-296840/Indonesia-picks-up-Playboy-editor-to-face-sentence)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11507376)
 2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
+
+### Changes:
+
+1. [Erwin Arnada, the former editor of ''Playboy Indonesia'', is arrested on Bali. He had been on the run since being sentenced to two years in prison in August after an earlier trial in 2007. ](/news/2010/10/9/erwin-arnada-the-former-editor-of-playboy-indonesia-is-arrested-on-bali-he-had-been-on-the-run-since-being-sentenced-to-two-years-in.md) _2017-08-25 03:30:26 (First version)_
+1. [Erwin Arnada, the former editor of "Playboy Indonesia", is arrested on Bali. He had been on the run since being sentenced to two years in prison in August after an earlier trial in 2007. ](/news/2010/10/9/erwin-arnada-the-former-editor-of-playboy-indonesia-is-arrested-on-bali-he-had-been-on-the-run-since-being-sentenced-to-two-years-in-pr.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Police have arrested the former editor of Indonesian Playboy, Erwin Arnada, to f
 3. [At least seven people have been killed in the Bangli Regency of Bali after a landslide caused by torrential rain. ](/news/2017/02/10/at-least-seven-people-have-been-killed-in-the-bangli-regency-of-bali-after-a-landslide-caused-by-torrential-rain.md) _Context: Bali_
 4. [An explosion on a tourist speed boat kills two people and injures 20 others shortly after departing from the Indonesian port of Padangbai in Karangasem, Bali. ](/news/2016/09/15/an-explosion-on-a-tourist-speed-boat-kills-two-people-and-injures-20-others-shortly-after-departing-from-the-indonesian-port-of-padangbai-in.md) _Context: Bali_
 5. [Five people, including an 18-month-old baby, are missing from an Indonesian ferryboat traveling from Bali to East Java that sank in the Bali Strait; 76 people have been rescued. ](/news/2016/03/4/five-people-including-an-18-month-old-baby-are-missing-from-an-indonesian-ferryboat-traveling-from-bali-to-east-java-that-sank-in-the-bali.md) _Context: Bali_
-
-### Changes:
-
-1. [Erwin Arnada, the former editor of ''Playboy Indonesia'', is arrested on Bali. He had been on the run since being sentenced to two years in prison in August after an earlier trial in 2007. ](/news/2010/10/9/erwin-arnada-the-former-editor-of-playboy-indonesia-is-arrested-on-bali-he-had-been-on-the-run-since-being-sentenced-to-two-years-in.md) _2017-08-25 03:30:26 (First version)_
-1. [Erwin Arnada, the former editor of "Playboy Indonesia", is arrested on Bali. He had been on the run since being sentenced to two years in prison in August after an earlier trial in 2007. ](/news/2010/10/9/erwin-arnada-the-former-editor-of-playboy-indonesia-is-arrested-on-bali-he-had-been-on-the-run-since-being-sentenced-to-two-years-in-pr.md) _(Current version)_

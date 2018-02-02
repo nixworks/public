@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/4/large-parts-of-northern-china-and-south-korea-are-affected-by-the-heaviest-snowfall-in-60-years-causing-widespread-disruption.html)  [JSON](/news/2010/01/4/large-parts-of-northern-china-and-south-korea-are-affected-by-the-heaviest-snowfall-in-60-years-causing-widespread-disruption.json)  [XML](/news/2010/01/4/large-parts-of-northern-china-and-south-korea-are-affected-by-the-heaviest-snowfall-in-60-years-causing-widespread-disruption.xml)  
+
 ### [2010-01-4](/news/2010/01/4/index.md)
 
+##### China
 # Large parts of northern China and South Korea are affected by the heaviest snowfall in 60 years, causing widespread disruption. 
 
 Record high snowfall blanketed the central part of the Korean peninsula on the first working day of 2010, Monday, causing massive flight cancellations and seriously snarled road traffic.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8438871.stm)
 2. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/01/117_58405.html)

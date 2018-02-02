@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/15/a-man-who-plunged-to-his-death-from-a-seventh-floor-balcony-in-brisbane-australia-was-participating-in-the-internet-craze-of-planking-au.html)  [JSON](/news/2011/05/15/a-man-who-plunged-to-his-death-from-a-seventh-floor-balcony-in-brisbane-australia-was-participating-in-the-internet-craze-of-planking-au.json)  [XML](/news/2011/05/15/a-man-who-plunged-to-his-death-from-a-seventh-floor-balcony-in-brisbane-australia-was-participating-in-the-internet-craze-of-planking-au.xml)  
+
 ### [2011-05-15](/news/2011/05/15/index.md)
 
+##### Brisbane
 # A man who plunged to his death from a seventh-floor balcony in Brisbane, Australia was participating in the internet craze of "planking", Australian police have said. 
 
 Australian police say a man who plunged seven floors to his death from an apartment balcony was participating in the internet craze of &quot;planking&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13389207)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52736000/jpg/_52736840_group-plank.jpg)

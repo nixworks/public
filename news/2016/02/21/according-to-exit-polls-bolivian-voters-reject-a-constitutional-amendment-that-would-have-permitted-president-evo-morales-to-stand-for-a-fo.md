@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/21/according-to-exit-polls-bolivian-voters-reject-
 
 ### [2016-02-21](/news/2016/02/21/index.md)
 
+##### Bolivian constitutional referendum, 2016
 # According to exit polls, Bolivian voters reject a constitutional amendment that would have permitted President Evo Morales to stand for a fourth term in office. His current term expires in 2020. 
 
 With more than 80% of votes counted, President Evo Morales of Bolivia is losing a referendum that would allow him to seek a fourth consecutive term.

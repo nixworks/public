@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/30/the-united-states-federal-reserve-raises-the-federal-funds-interest-rate-for-the-first-time-in-four-years-by-a-quarter-point.html)  [JSON](/news/2004/06/30/the-united-states-federal-reserve-raises-the-federal-funds-interest-rate-for-the-first-time-in-four-years-by-a-quarter-point.json)  [XML](/news/2004/06/30/the-united-states-federal-reserve-raises-the-federal-funds-interest-rate-for-the-first-time-in-four-years-by-a-quarter-point.xml)  
+
 ### [2004-06-30](/news/2004/06/30/index.md)
 
+##### Federal Reserve
 #  The United States Federal Reserve raises the federal funds interest rate for the first time in four years, by a quarter point. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/wire/Business/ap20040630_1755.html)
 

@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/04/15/u-s-and-german-researchers-report-the-sunset-could-recalibrate-the-internal-compasses-of-migrating-songbirds.html)  [JSON](/news/2004/04/15/u-s-and-german-researchers-report-the-sunset-could-recalibrate-the-internal-compasses-of-migrating-songbirds.json)  [XML](/news/2004/04/15/u-s-and-german-researchers-report-the-sunset-could-recalibrate-the-internal-compasses-of-migrating-songbirds.xml)  
+
 ### [2004-04-15](/news/2004/04/15/index.md)
 
+##### researcher
 #  U.S. and German researchers report the sunset could recalibrate the internal compasses of migrating songbirds. 
 
-From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.
 
 
-### Source:
+
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2004/04/15/tech/main612112.shtml)
 2. [National Geographic](http://news.nationalgeographic.com/news/2004/04/0415_040415_songbirdmigration.html)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=4842420&section=news)
-3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=4842420&section=news)
 
 ### Related:
 

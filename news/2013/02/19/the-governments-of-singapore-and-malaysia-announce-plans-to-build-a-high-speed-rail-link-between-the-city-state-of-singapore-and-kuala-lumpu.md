@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/19/the-governments-of-singapore-and-malaysia-announce-plans-to-build-a-high-speed-rail-link-between-the-city-state-of-singapore-and-kuala-lumpu.html)  [JSON](/news/2013/02/19/the-governments-of-singapore-and-malaysia-announce-plans-to-build-a-high-speed-rail-link-between-the-city-state-of-singapore-and-kuala-lumpu.json)  [XML](/news/2013/02/19/the-governments-of-singapore-and-malaysia-announce-plans-to-build-a-high-speed-rail-link-between-the-city-state-of-singapore-and-kuala-lumpu.xml)  
+
 ### [2013-02-19](/news/2013/02/19/index.md)
 
+##### Malaysia
 # The governments of Singapore and Malaysia announce plans to build a high-speed rail link between the city-state of Singapore and Kuala Lumpur by 2020. 
 
 SINGAPORE and Malaysia announced that they will build a high-speed rail link between the city-state and Kuala Lumpur with a target to complete it around 2020.
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/business/breaking-news/singapore-malaysia-to-build-rail-link/story-e6frfkur-1226581279200)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

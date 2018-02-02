@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/3/the-syrian-observatory-for-human-rights-reports-russia-conducted-multiple-airstrikes-on-isis-held-palmyra.html)  [JSON](/news/2015/11/3/the-syrian-observatory-for-human-rights-reports-russia-conducted-multiple-airstrikes-on-isis-held-palmyra.json)  [XML](/news/2015/11/3/the-syrian-observatory-for-human-rights-reports-russia-conducted-multiple-airstrikes-on-isis-held-palmyra.xml)  
+
 ### [2015-11-3](/news/2015/11/3/index.md)
 
+##### Russian military intervention in the Syrian Civil War
 # The Syrian Observatory for Human Rights reports Russia conducted multiple airstrikes on ISIS-held Palmyra. 
 
 Suspected Russian warplanes bombed the outskirts of Islamic State-held Palmyra on Monday, sending smoke rising out of an area that includes a historic castle overlooking the Syrian city&#039;s Roman ruins, activists said.
 
 
-### Source:
+### Sources:
 
 1. [Air Force Times](http://www.airforcetimes.com/story/military/2015/11/02/activists-suspected-russian-jets-hit-syrias-palmyra/75056436/)
 2. [The Daily Star](https://www.dailystar.com.lb/News/Middle-East/2015/Nov-03/321458-russia-says-has-hit-2084-militant-targets-so-far-in-syria-agencies.ashx)

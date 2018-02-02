@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/1/america-s-obama-administration-warns-that-bp-s-oil-spill-in-the-gulf-of-mexico-could-continue-until-august.html)  [JSON](/news/2010/06/1/america-s-obama-administration-warns-that-bp-s-oil-spill-in-the-gulf-of-mexico-could-continue-until-august.json)  [XML](/news/2010/06/1/america-s-obama-administration-warns-that-bp-s-oil-spill-in-the-gulf-of-mexico-could-continue-until-august.xml)  
+
 ### [2010-06-1](/news/2010/06/1/index.md)
 
+##### Obama administration
 # America's Obama administration warns that BP's oil spill in the Gulf of Mexico could continue until August. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/world/oil-likely-to-keep-spilling-until-august-says-white-house/story-e6frg6so-1225873753073)
 

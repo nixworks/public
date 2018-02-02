@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/04/1/japanese-prime-minister-obuchi-keizo-suffers-a-stroke-and-falls-into-a-coma.html)  [JSON](/news/2000/04/1/japanese-prime-minister-obuchi-keizo-suffers-a-stroke-and-falls-into-a-coma.json)  [XML](/news/2000/04/1/japanese-prime-minister-obuchi-keizo-suffers-a-stroke-and-falls-into-a-coma.xml)  
+
 ### [2000-04-1](/news/2000/04/1/index.md)
 
+##### Obuchi Keizo
 # Japanese prime minister Obuchi Keizo suffers a stroke and falls into a coma.
 
 

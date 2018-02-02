@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/4/china-plans-to-increase-its-military-budget-by-14-9-in-2009.html)  [JSON](/news/2009/03/4/china-plans-to-increase-its-military-budget-by-14-9-in-2009.json)  [XML](/news/2009/03/4/china-plans-to-increase-its-military-budget-by-14-9-in-2009.xml)  
+
 ### [2009-03-4](/news/2009/03/4/index.md)
 
+##### China
 #  China plans to increase its military budget by 14.9% in 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua News](http://news.xinhuanet.com/english/2009-03/04/content_10940787.htm)
 

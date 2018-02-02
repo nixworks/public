@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/30/a-salvador-dala-drawing-lifted-last-week-from-a-new-york-gallery-is-returned-by-post.html)  [JSON](/news/2012/06/30/a-salvador-dala-drawing-lifted-last-week-from-a-new-york-gallery-is-returned-by-post.json)  [XML](/news/2012/06/30/a-salvador-dala-drawing-lifted-last-week-from-a-new-york-gallery-is-returned-by-post.xml)  
+
 ### [2012-06-30](/news/2012/06/30/index.md)
 
+##### Salvador Dali
 # A Salvador Dali drawing lifted last week from a New York gallery is returned by post. 
 
 A Salvador Dali drawing that was stolen last week from a New York gallery is returned in pristine condition - from Europe, by express mail.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-18656350)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61073000/jpg/_61073359_untitled-1.jpg)

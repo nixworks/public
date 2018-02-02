@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/23/350-australian-troops-begin-their-journey-towards-iraq-joining-the-us-and-uk-troops-already-assembled-there-prime-minister-john-howard-sa.html)  [JSON](/news/2003/01/23/350-australian-troops-begin-their-journey-towards-iraq-joining-the-us-and-uk-troops-already-assembled-there-prime-minister-john-howard-sa.json)  [XML](/news/2003/01/23/350-australian-troops-begin-their-journey-towards-iraq-joining-the-us-and-uk-troops-already-assembled-there-prime-minister-john-howard-sa.xml)  
+
 ### [2003-01-23](/news/2003/01/23/index.md)
 
+##### John Howard
 #  350 Australian troops begin their journey towards Iraq, joining the US and UK troops already assembled there. Prime Minister John Howard said that "pre-positioning troops increased the likelihood of (the crisis) being resolved peacefully". Around 150 people protested as the troop ship left Sydney, some shouting "Go yourself!" to Mr. Howard.
 
 

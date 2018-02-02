@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/09/19/the-u-s-securities-and-exchange-commission-files-a-lawsuit-alleging-that-unnamed-persons-engaged-in-illegal-insider-trading-in-the-two-days.html)  [JSON](/news/2011/09/19/the-u-s-securities-and-exchange-commission-files-a-lawsuit-alleging-that-unnamed-persons-engaged-in-illegal-insider-trading-in-the-two-days.json)  [XML](/news/2011/09/19/the-u-s-securities-and-exchange-commission-files-a-lawsuit-alleging-that-unnamed-persons-engaged-in-illegal-insider-trading-in-the-two-days.xml)  
+
 ### [2011-09-19](/news/2011/09/19/index.md)
 
+##### Securities and Exchange Commission
 # The U.S. Securities and Exchange Commission files a lawsuit alleging that unnamed persons engaged in illegal insider trading in the two days before French company Technip announced its plan to buy U.S. company Global Industries. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/09/19/us-sec-insidertrading-globalindustries-idUSTRE78I2TR20110919)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/09/19/us-sec-insidertrading-globalindustries-idUSTRE78I2TR20110919)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

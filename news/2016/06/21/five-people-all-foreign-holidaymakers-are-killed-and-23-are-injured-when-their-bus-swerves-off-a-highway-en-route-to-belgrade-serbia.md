@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/21/five-people-all-foreign-holidaymakers-are-kille
 
 ### [2016-06-21](/news/2016/06/21/index.md)
 
+##### Belgrade
 # Five people, all foreign holidaymakers, are killed and 23 are injured when their bus swerves off a highway en route to Belgrade, Serbia. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/14/michael-somare-steps-down-as-prime-minister-of-papua-new-guinea-for-an-upcoming-leadership-tribunal-deputy-prime-minister-sam-abal-becomes.html)  [JSON](/news/2010/12/14/michael-somare-steps-down-as-prime-minister-of-papua-new-guinea-for-an-upcoming-leadership-tribunal-deputy-prime-minister-sam-abal-becomes.json)  [XML](/news/2010/12/14/michael-somare-steps-down-as-prime-minister-of-papua-new-guinea-for-an-upcoming-leadership-tribunal-deputy-prime-minister-sam-abal-becomes.xml)  
+
 ### [2010-12-14](/news/2010/12/14/index.md)
 
+##### Michael Somare
 # Michael Somare steps down as Prime Minister of Papua New Guinea for an upcoming leadership tribunal. Deputy Prime Minister Sam Abal becomes Prime Minister during the trial. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/png-pm-steps-aside-amid-political-turmoil-20101213-18uuc.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

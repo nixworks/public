@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/3/colorado-state-university-experts-forecast-a-very-active-2007-atlantic-hurricane-season-with-17-named-storms-9-hurricanes-and-5-intense-hu.html)  [JSON](/news/2007/04/3/colorado-state-university-experts-forecast-a-very-active-2007-atlantic-hurricane-season-with-17-named-storms-9-hurricanes-and-5-intense-hu.json)  [XML](/news/2007/04/3/colorado-state-university-experts-forecast-a-very-active-2007-atlantic-hurricane-season-with-17-named-storms-9-hurricanes-and-5-intense-hu.xml)  
+
 ### [2007-04-3](/news/2007/04/3/index.md)
 
+##### Colorado State University
 #  Colorado State University experts forecast a very active 2007 Atlantic hurricane season with 17 named storms, 9 hurricanes and 5 intense hurricanes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CSU](http://newsinfo.colostate.edu/index.asp?url=news_item_display&news_item_id=718105263)
 

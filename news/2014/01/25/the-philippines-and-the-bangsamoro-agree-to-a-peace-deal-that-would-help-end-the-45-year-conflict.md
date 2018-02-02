@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/01/25/the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.html)  [JSON](/news/2014/01/25/the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.json)  [XML](/news/2014/01/25/the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.xml)  
+
 ### [2014-01-25](/news/2014/01/25/index.md)
 
+##### Civil conflict in the Philippines
 # The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2014/01/25/philippines-muslim-rebels-complete-peace-deal-to-end-decades-long-rebellion/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
+
+### Changes:
+
+1. [Civil conflict in the Philippines: The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/civil-conflict-in-the-philippines-the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md) _2017-08-27 03:40:15 (First version)_
+1. [The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +25,4 @@
 2. [Philippines President Benigno Aquino III distances himself from a botched raid against a terrorist, Zulkifli Abdhir, that killed around 50 people, including police officers and Abdhir, while pledging support for a peace process with the Moro people. Supreme Court Chief Justice Maria Lourdes Sereno urges the public to continue to support the peace treaty. ](/news/2015/01/29/philippines-president-benigno-aquino-iii-distances-himself-from-a-botched-raid-against-a-terrorist-zulkifli-abdhir-that-killed-around-50-p.md) _Context: Filipino Muslims, Philippines_
 3. [Philippines President Benigno Aquino III submits a bill to the Congress of the Philippines that will give autonomy to Filipino Muslims in Bangsamoro and bring peace to Mindanao.](/news/2014/09/10/philippines-president-benigno-aquino-iii-submits-a-bill-to-the-congress-of-the-philippines-that-will-give-autonomy-to-filipino-muslims-in-ba.md) _Context: Filipino Muslims, Philippines_
 4. [More than 40 people are killed on Mindanao between the Philippine government and armed groups opposed to the peace deal between the Philippines and the Moro Islamic Liberation Front. ](/news/2014/01/29/more-than-40-people-are-killed-on-mindanao-between-the-philippine-government-and-armed-groups-opposed-to-the-peace-deal-between-the-philippi.md) _Context: Civil conflict in the Philippines, Philippines_
-5. [The Philippines suspends trade relations with North Korea to comply with a recent United Nations Security Council resolution over its repeated missile tests. ](/news/2017/09/8/the-philippines-suspends-trade-relations-with-north-korea-to-comply-with-a-recent-united-nations-security-council-resolution-over-its-repeat.md) _Context: Philippines_
-
-### Changes:
-
-1. [Civil conflict in the Philippines: The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/civil-conflict-in-the-philippines-the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md) _2017-08-27 03:40:15 (First version)_
-1. [The Philippines and the Bangsamoro agree to a peace deal that would help end the 45-year conflict. ](/news/2014/01/25/the-philippines-and-the-bangsamoro-agree-to-a-peace-deal-that-would-help-end-the-45-year-conflict.md) _(Current version)_
+5. [China claims its sovereignty was violated when a United States Navy ship sailed close to the Scarborough Shoal near the Philippines. ](/news/2018/01/20/china-claims-its-sovereignty-was-violated-when-a-united-states-navy-ship-sailed-close-to-the-scarborough-shoal-near-the-philippines.md) _Context: Philippines_

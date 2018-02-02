@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/14/apple-inc-releases-its-latest-smartphone-model-the-iphone-4s.html)  [JSON](/news/2011/10/14/apple-inc-releases-its-latest-smartphone-model-the-iphone-4s.json)  [XML](/news/2011/10/14/apple-inc-releases-its-latest-smartphone-model-the-iphone-4s.xml)  
+
 ### [2011-10-14](/news/2011/10/14/index.md)
 
+##### Apple Inc.
 # Apple Inc. releases its latest smartphone model, the iPhone 4S. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/44906131/ns/business-motley_fool/)
 
@@ -15,4 +19,4 @@
 2. [Apple Inc. and Samsung Electronics both agree to settlement talks over pending smartphone related patent litigation. These talks have come about at the urging of U.S. District Court Judge Lucy Koh. ](/news/2012/04/17/apple-inc-and-samsung-electronics-both-agree-to-settlement-talks-over-pending-smartphone-related-patent-litigation-these-talks-have-come-a.md) _Context: Apple Inc., smartphone_
 3. [Technology company Apple Inc. announces its much-anticipated iPhone 4S at Apple's Cupertino campus. ](/news/2011/10/4/technology-company-apple-inc-announces-its-much-anticipated-iphone-4s-at-apple-s-cupertino-campus.md) _Context: Apple Inc., iPhone 4S_
 4. [Taiwanese smartphone manufacturer HTC loses a patent infringement case in the United States, with the United States International Trade Commission ruling that Apple Inc.'s iPhone technology does not violate HTC's patents. ](/news/2011/10/18/taiwanese-smartphone-manufacturer-htc-loses-a-patent-infringement-case-in-the-united-states-with-the-united-states-international-trade-comm.md) _Context: Apple Inc., smartphone_
-5. [A group of civil society organizations, "among them groups working on human rights, youth and drug policy reform," have demanded that Apple Inc. remove from its App Store games it said violated the tech firm's guidelines and promoted violence and killings commonplace in the Philippine Drug War. ](/news/2017/10/13/a-group-of-civil-society-organizations-among-them-groups-working-on-human-rights-youth-and-drug-policy-reform-have-demanded-that-apple.md) _Context: Apple Inc._
+5. [Apple Inc. removes the Telegram messaging service from its iOS App Store. Telegram CEO Pavel Durov says Apple claims "inappropriate content" is available on the service. Many members of extremist groups used the program's security encryption features to avoid law enforcement. ](/news/2018/02/1/apple-inc-removes-the-telegram-messaging-service-from-its-ios-app-store-telegram-ceo-pavel-durov-says-apple-claims-inappropriate-content.md) _Context: Apple Inc._

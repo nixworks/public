@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/20/at-least-one-police-officer-is-killed-and-five-other-people-are-injured-in-a-battle-with-a-dissident-army-unit-in-antananarivo.html)  [JSON](/news/2010/05/20/at-least-one-police-officer-is-killed-and-five-other-people-are-injured-in-a-battle-with-a-dissident-army-unit-in-antananarivo.json)  [XML](/news/2010/05/20/at-least-one-police-officer-is-killed-and-five-other-people-are-injured-in-a-battle-with-a-dissident-army-unit-in-antananarivo.xml)  
+
 ### [2010-05-20](/news/2010/05/20/index.md)
 
+##### Antananarivo
 # At least one police officer is killed and five other people are injured in a battle with a dissident army unit in Antananarivo. 
 
 At least one police officer killed in battle with dissident army unit in capital.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/05/2010520131218435486.html)
 1. [Cover Image](http://www.aljazeera.com)

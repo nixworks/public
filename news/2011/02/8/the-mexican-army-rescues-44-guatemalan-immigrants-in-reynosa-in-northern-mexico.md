@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/8/the-mexican-army-rescues-44-guatemalan-immigrants-in-reynosa-in-northern-mexico.html)  [JSON](/news/2011/02/8/the-mexican-army-rescues-44-guatemalan-immigrants-in-reynosa-in-northern-mexico.json)  [XML](/news/2011/02/8/the-mexican-army-rescues-44-guatemalan-immigrants-in-reynosa-in-northern-mexico.xml)  
+
 ### [2011-02-8](/news/2011/02/8/index.md)
 
+##### Mexican Army
 # The Mexican Army rescues 44 Guatemalan immigrants in Reynosa in northern Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/latinamerica/7419064.html)
 

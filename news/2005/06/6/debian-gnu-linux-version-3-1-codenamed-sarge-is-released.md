@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/6/debian-gnu-linux-version-3-1-codenamed-sarge-is-released.html)  [JSON](/news/2005/06/6/debian-gnu-linux-version-3-1-codenamed-sarge-is-released.json)  [XML](/news/2005/06/6/debian-gnu-linux-version-3-1-codenamed-sarge-is-released.xml)  
+
 ### [2005-06-6](/news/2005/06/6/index.md)
 
+##### Debian GNU/Linux
 #  Debian GNU-Linux: Version 3.1, codenamed "sarge", is released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press release](http://www.debian.org/News/2005/20050606)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/12/the-first-panels-of-the-ghent-altarpiece-the-lamb-of-god-are-secretly-moved-from-saint-bavo-cathedral-to-the-ghent-museum-of-fine-arts-f.html)  [JSON](/news/2012/09/12/the-first-panels-of-the-ghent-altarpiece-the-lamb-of-god-are-secretly-moved-from-saint-bavo-cathedral-to-the-ghent-museum-of-fine-arts-f.json)  [XML](/news/2012/09/12/the-first-panels-of-the-ghent-altarpiece-the-lamb-of-god-are-secretly-moved-from-saint-bavo-cathedral-to-the-ghent-museum-of-fine-arts-f.xml)  
+
 ### [2012-09-12](/news/2012/09/12/index.md)
 
+##### Ghent Altarpiece
 # The first panels of the Ghent Altarpiece, the "Lamb of God", are secretly moved from Saint Bavo Cathedral to the Ghent Museum of Fine Arts for a five-year restoration. It is probably the most frequently stolen artwork in history. One panel has been missing since 1934. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Het Nieuwsblad](http://translate.google.com/translate?sl=nl&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&layout=2&eotf=1&u=http%3A%2F%2Fwww.nieuwsblad.be%2Farticle%2Fdetail.aspx%3Farticleid%3DDMF20120912_125)
 

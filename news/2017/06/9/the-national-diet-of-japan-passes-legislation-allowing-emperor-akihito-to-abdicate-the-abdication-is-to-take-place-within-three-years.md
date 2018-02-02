@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/9/the-national-diet-of-japan-passes-legislation-al
 
 ### [2017-06-9](/news/2017/06/9/index.md)
 
+##### Politics of Japan
 # The National Diet of Japan passes legislation allowing Emperor Akihito to abdicate. The abdication is to take place within three years. 
 
 Japan&#039;s parliament has passed a law allowing Emperor Akihito to become the first monarch to abdicate in 200 years.

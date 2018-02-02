@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/22/the-permanent-court-of-arbitration-in-the-hague-issues-a-decision-on-the-borders-of-abyei-a-region-subject-to-violent-contention-in-sudan.html)  [JSON](/news/2009/07/22/the-permanent-court-of-arbitration-in-the-hague-issues-a-decision-on-the-borders-of-abyei-a-region-subject-to-violent-contention-in-sudan.json)  [XML](/news/2009/07/22/the-permanent-court-of-arbitration-in-the-hague-issues-a-decision-on-the-borders-of-abyei-a-region-subject-to-violent-contention-in-sudan.xml)  
+
 ### [2009-07-22](/news/2009/07/22/index.md)
 
+##### Permanent Court of Arbitration's
 #  The Permanent Court of Arbitration in The Hague issues a decision on the borders of Abyei, a region subject to violent contention in Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8162690.stm)
 

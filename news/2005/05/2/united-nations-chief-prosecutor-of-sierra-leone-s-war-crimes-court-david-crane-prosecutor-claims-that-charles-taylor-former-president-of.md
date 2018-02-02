@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/2/united-nations-chief-prosecutor-of-sierra-leone-s-war-crimes-court-david-crane-prosecutor-claims-that-charles-taylor-former-president-of.html)  [JSON](/news/2005/05/2/united-nations-chief-prosecutor-of-sierra-leone-s-war-crimes-court-david-crane-prosecutor-claims-that-charles-taylor-former-president-of.json)  [XML](/news/2005/05/2/united-nations-chief-prosecutor-of-sierra-leone-s-war-crimes-court-david-crane-prosecutor-claims-that-charles-taylor-former-president-of.xml)  
+
 ### [2005-05-2](/news/2005/05/2/index.md)
 
+##### United Nations
 #  United Nations chief prosecutor of Sierra Leone's war crimes court David Crane (prosecutor) claims that Charles Taylor, former president of Liberia, is still plotting to kill Guinean leader Lansana Cont. Cont has been in a hospital since he survived an assassination attempt in January. 
 
 Widespread flooding ca
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4508249.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L03611366.htm)

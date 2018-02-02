@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/13/2003-occupation-of-iraq-three-more-us-soldiers-have-been-killed-in-separate-incidents.html)  [JSON](/news/2003/10/13/2003-occupation-of-iraq-three-more-us-soldiers-have-been-killed-in-separate-incidents.json)  [XML](/news/2003/10/13/2003-occupation-of-iraq-three-more-us-soldiers-have-been-killed-in-separate-incidents.xml)  
+
 ### [2003-10-13](/news/2003/10/13/index.md)
 
+##### U.S. presence in Iraq
 #  2003 occupation of Iraq: Three more US soldiers have been killed in separate incidents.
 
 

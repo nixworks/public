@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/12/the-pro-kremlin-united-russia-party-wins-around-80-of-regional-and-local-seats-in-elections-held-in-76-regions-in-russia-opposition-alleg.html)  [JSON](/news/2009/10/12/the-pro-kremlin-united-russia-party-wins-around-80-of-regional-and-local-seats-in-elections-held-in-76-regions-in-russia-opposition-alleg.json)  [XML](/news/2009/10/12/the-pro-kremlin-united-russia-party-wins-around-80-of-regional-and-local-seats-in-elections-held-in-76-regions-in-russia-opposition-alleg.xml)  
+
 ### [2009-10-12](/news/2009/10/12/index.md)
 
+##### Kremlin
 #  The pro-Kremlin United Russia party wins around 80% of regional and local seats in elections held in 76 regions in Russia. Opposition alleges vote rigging 
 
 Vladimir Putin&#39;s United Russia party has won nearly 80% of the seats in local and regional elections held yesterday.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/1012/russia.html)
 2. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1079513&lang=eng_news)

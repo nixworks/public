@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/27/alassane-ouattara-the-internationally-recognised-winner-of-the-presidential-election-in-cote-d-ivoire-calls-for-a-general-strike-to-force.html)  [JSON](/news/2010/12/27/alassane-ouattara-the-internationally-recognised-winner-of-the-presidential-election-in-cote-d-ivoire-calls-for-a-general-strike-to-force.json)  [XML](/news/2010/12/27/alassane-ouattara-the-internationally-recognised-winner-of-the-presidential-election-in-cote-d-ivoire-calls-for-a-general-strike-to-force.xml)  
+
 ### [2010-12-27](/news/2010/12/27/index.md)
 
+##### Alassane Ouattara
 # Alassane Ouattara, the internationally-recognised winner of the presidential election in Cte d'Ivoire, calls for a general strike to force Laurent Gbagbo, who is refusing to cede power, to step down. 
 
 Political parties loyal to Ivory Coast presidential claimant Alassane Ouattara call a general strike to force incumbent Laurent Gbagbo to cede power.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12081492)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

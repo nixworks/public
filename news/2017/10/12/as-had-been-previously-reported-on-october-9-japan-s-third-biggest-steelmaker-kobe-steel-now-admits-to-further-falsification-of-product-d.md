@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/12/as-had-been-previously-reported-on-october-9-ja
 
 ### [2017-10-12](/news/2017/10/12/index.md)
 
+##### 2017 Kobe Steel falsification of data scandal
 # As had been previously reported on October 9, Japan's third-biggest steelmaker, Kobe Steel, now admits to further falsification of product data. Steel wire products did not meet the specifications requested by customers. The scandal now affects about 500 customer companies. 
 
 (This October 13 story was refiled to clarify attribution in paragraph 23.)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/29/british-tax-payer-funding-to-support-prince-charles-rose-by-11-during-the-past-financial-year-it-is-disclosed.html)  [JSON](/news/2012/06/29/british-tax-payer-funding-to-support-prince-charles-rose-by-11-during-the-past-financial-year-it-is-disclosed.json)  [XML](/news/2012/06/29/british-tax-payer-funding-to-support-prince-charles-rose-by-11-during-the-past-financial-year-it-is-disclosed.xml)  
+
 ### [2012-06-29](/news/2012/06/29/index.md)
 
+##### Prince Charles
 # British tax payer funding to support Prince Charles rose by 11% during the past financial year, it is disclosed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2012/jun/29/prince-charles-public-funding)
 

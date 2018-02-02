@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/11/yulia-tymoshenko-the-former-prime-minister-of-ukraine-is-jailed-for-seven-years-for-exceeding-her-powers-by-entering-a-gas-deal-with-russi.html)  [JSON](/news/2011/10/11/yulia-tymoshenko-the-former-prime-minister-of-ukraine-is-jailed-for-seven-years-for-exceeding-her-powers-by-entering-a-gas-deal-with-russi.json)  [XML](/news/2011/10/11/yulia-tymoshenko-the-former-prime-minister-of-ukraine-is-jailed-for-seven-years-for-exceeding-her-powers-by-entering-a-gas-deal-with-russi.xml)  
+
 ### [2011-10-11](/news/2011/10/11/index.md)
 
+##### Yulia Tymoshenko
 # Yulia Tymoshenko, the former Prime Minister of Ukraine, is jailed for seven years for exceeding her powers by entering a gas deal with Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15250742)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/55972000/jpg/_55972109_013130944-1.jpg)

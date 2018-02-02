@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/23/india-s-main-opposition-bjp-party-condemns-a-leaked-liberhan-commission-report-that-implicated-opposition-figures-in-the-destruction-of-the.html)  [JSON](/news/2009/11/23/india-s-main-opposition-bjp-party-condemns-a-leaked-liberhan-commission-report-that-implicated-opposition-figures-in-the-destruction-of-the.json)  [XML](/news/2009/11/23/india-s-main-opposition-bjp-party-condemns-a-leaked-liberhan-commission-report-that-implicated-opposition-figures-in-the-destruction-of-the.xml)  
+
 ### [2009-11-23](/news/2009/11/23/index.md)
 
+##### India
 #  India's main opposition BJP party condemns a leaked Liberhan Commission report that implicated opposition figures in the destruction of the Babri Mosque in 1992 by Hindu nationalists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8373586.stm)
 2. [IBN](http://ibnlive.in.com/news/bjp-furious-cong-mum-on-liberhan-report/105764-37.html?from=tn)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/20/2013-atlantic-hurricane-season-tropical-storm-barry-is-due-to-make-landfall-in-the-mexican-state-of-veracruz-bringing-heavy-rain-and-the-ri.html)  [JSON](/news/2013/06/20/2013-atlantic-hurricane-season-tropical-storm-barry-is-due-to-make-landfall-in-the-mexican-state-of-veracruz-bringing-heavy-rain-and-the-ri.json)  [XML](/news/2013/06/20/2013-atlantic-hurricane-season-tropical-storm-barry-is-due-to-make-landfall-in-the-mexican-state-of-veracruz-bringing-heavy-rain-and-the-ri.xml)  
+
 ### [2013-06-20](/news/2013/06/20/index.md)
 
+##### Hurricane Ingrid
 # 2013 Atlantic hurricane season: Tropical Storm Barry is due to make landfall in the Mexican state of Veracruz bringing heavy rain and the risk of flooding. 
 
 As Barry drifts inland and weakens, torrential rain and the risk of flooding and mudslides will continue in part of southern Mexico.
 
 
-### Source:
+### Sources:
 
 1. [AccuWeather](http://www.accuweather.com/en/weather-news/tropical-depression-flooding-r/14412296)
 1. [Cover Image](https://accuweather.brightspotcdn.com/60/60d112c7be101ddc19f986c6fa6bedb1/avn-animated.gif)

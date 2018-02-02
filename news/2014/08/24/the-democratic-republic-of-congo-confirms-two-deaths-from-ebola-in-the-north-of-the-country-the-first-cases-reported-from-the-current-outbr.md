@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/24/the-democratic-republic-of-congo-confirms-two-deaths-from-ebola-in-the-north-of-the-country-the-first-cases-reported-from-the-current-outbr.html)  [JSON](/news/2014/08/24/the-democratic-republic-of-congo-confirms-two-deaths-from-ebola-in-the-north-of-the-country-the-first-cases-reported-from-the-current-outbr.json)  [XML](/news/2014/08/24/the-democratic-republic-of-congo-confirms-two-deaths-from-ebola-in-the-north-of-the-country-the-first-cases-reported-from-the-current-outbr.xml)  
+
 ### [2014-08-24](/news/2014/08/24/index.md)
 
+##### Democratic Republic of Congo
 # The Democratic Republic of Congo confirms two deaths from Ebola in the north of the country, the first cases reported from the current outbreak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/africa/2014-08/25/c_126910949.htm)
 

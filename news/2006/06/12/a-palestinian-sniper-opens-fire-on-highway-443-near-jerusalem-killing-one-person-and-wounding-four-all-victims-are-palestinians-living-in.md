@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/12/a-palestinian-sniper-opens-fire-on-highway-443-near-jerusalem-killing-one-person-and-wounding-four-all-victims-are-palestinians-living-in.html)  [JSON](/news/2006/06/12/a-palestinian-sniper-opens-fire-on-highway-443-near-jerusalem-killing-one-person-and-wounding-four-all-victims-are-palestinians-living-in.json)  [XML](/news/2006/06/12/a-palestinian-sniper-opens-fire-on-highway-443-near-jerusalem-killing-one-person-and-wounding-four-all-victims-are-palestinians-living-in.xml)  
+
 ### [2006-06-12](/news/2006/06/12/index.md)
 
+##### Palestinian
 #  A Palestinian sniper opens fire on highway 443 near Jerusalem, killing one person and wounding four. All victims are Palestinians living in Jerusalem. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/725817.html)
 

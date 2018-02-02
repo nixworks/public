@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/15/emma-morano-the-last-person-living-who-was-born
 
 ### [2017-04-15](/news/2017/04/15/index.md)
 
+##### Emma Morano
 # Emma Morano, the last person living who was born before 1900, dies at the age of 117. 
 
 

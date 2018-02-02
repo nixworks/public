@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/16/an-indonesian-court-delivers-a-guilty-verdict-in-the-terrorism-trial-of-radical-muslim-cleric-abu-bakar-bashir-in-the-si-uth-jakarta-distric.html)  [JSON](/news/2011/06/16/an-indonesian-court-delivers-a-guilty-verdict-in-the-terrorism-trial-of-radical-muslim-cleric-abu-bakar-bashir-in-the-si-uth-jakarta-distric.json)  [XML](/news/2011/06/16/an-indonesian-court-delivers-a-guilty-verdict-in-the-terrorism-trial-of-radical-muslim-cleric-abu-bakar-bashir-in-the-si-uth-jakarta-distric.xml)  
+
 ### [2011-06-16](/news/2011/06/16/index.md)
 
+##### Indonesia
 # An Indonesian court delivers a guilty verdict in the terrorism trial of radical Muslim cleric Abu Bakar Bashir in the South Jakarta District Court and sentenced to 15 years in prison. 
 
 Indonesian cleric Abu Bakar Bashir has been found guilty of inciting and organising the financing of terrorism ending a decade long effort by authorities to put the firebrand militant who endorsed the Bali bombings behind bars.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Online](http://www.abc.net.au/news/stories/2011/06/16/3245363.htm?section=justin)
 2. [Jakarta Post](http://www.thejakartapost.com/news/2011/06/16/baasyir-supporters-stream-flock-court-hear-verdict.html)

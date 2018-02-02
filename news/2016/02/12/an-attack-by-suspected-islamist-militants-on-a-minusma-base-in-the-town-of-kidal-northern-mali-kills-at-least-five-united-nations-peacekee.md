@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/12/an-attack-by-suspected-islamist-militants-on-a-
 
 ### [2016-02-12](/news/2016/02/12/index.md)
 
+##### Northern Mali conflict
 # An attack by suspected Islamist militants on a MINUSMA base in the town of Kidal, northern Mali, kills at least five United Nations peacekeepers and injures 30 others. 
 
 Five U.N. peacekeepers were killed when their base in northern Mali was hit by mortars, gunfire and a truck bomb on Friday, an attack that a local separatist group blamed on Islamist militants.

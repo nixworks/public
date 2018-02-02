@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/20/australian-rugby-star-karmichael-hunt-is-arrested-on-charges-of-supplying-cocaine-following-a-queensland-crime-and-corruption-commission-ope.html)  [JSON](/news/2015/02/20/australian-rugby-star-karmichael-hunt-is-arrested-on-charges-of-supplying-cocaine-following-a-queensland-crime-and-corruption-commission-ope.json)  [XML](/news/2015/02/20/australian-rugby-star-karmichael-hunt-is-arrested-on-charges-of-supplying-cocaine-following-a-queensland-crime-and-corruption-commission-ope.xml)  
+
 ### [2015-02-20](/news/2015/02/20/index.md)
 
+##### Australia
 # Australian rugby star Karmichael Hunt is arrested on charges of supplying cocaine following a Queensland Crime and Corruption Commission operation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NZ Newswire via Yahoo! 7](https://au.sports.yahoo.com/news/article/-/26362160/karmichael-hunt-on-cocaine-charges/)
 

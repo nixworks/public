@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/15/india-s-independence-day-celebrations-are-marred-by-a-bomb-blast-that-kills-some-18-people-at-a-parade-in-dhemaji-assam-immediate-suspici.html)  [JSON](/news/2004/08/15/india-s-independence-day-celebrations-are-marred-by-a-bomb-blast-that-kills-some-18-people-at-a-parade-in-dhemaji-assam-immediate-suspici.json)  [XML](/news/2004/08/15/india-s-independence-day-celebrations-are-marred-by-a-bomb-blast-that-kills-some-18-people-at-a-parade-in-dhemaji-assam-immediate-suspici.xml)  
+
 ### [2004-08-15](/news/2004/08/15/index.md)
 
+##### Dhemaji
 #  India's Independence Day celebrations are marred by a bomb blast that kills some 18 people at a parade in Dhemaji, Assam. Immediate suspicion falls on ULFA separatists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/3566460.stm)
 

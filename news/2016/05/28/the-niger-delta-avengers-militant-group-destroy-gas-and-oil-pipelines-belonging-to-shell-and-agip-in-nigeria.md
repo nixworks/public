@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy
 
 ### [2016-05-28](/news/2016/05/28/index.md)
 
+##### Conflict in the Niger Delta
 # The Niger Delta Avengers militant group destroy gas and oil pipelines belonging to Shell and Agip in Nigeria. 
 
 
@@ -23,4 +24,4 @@ Formats: [HTML](/news/2016/05/28/the-niger-delta-avengers-militant-group-destroy
 2. [The Niger Delta Avengers blow up an oil pipeline operated by Italy's Eni in the Niger Delta. ](/news/2016/06/10/the-niger-delta-avengers-blow-up-an-oil-pipeline-operated-by-italy-s-eni-in-the-niger-delta.md) _Context: Conflict in the Niger Delta, Niger Delta Avengers_
 3. [A Dutch court rules that Royal Dutch Shell can be held partially responsible for pollution in the Niger Delta in southern Nigeria. ](/news/2013/01/30/a-dutch-court-rules-that-royal-dutch-shell-can-be-held-partially-responsible-for-pollution-in-the-niger-delta-in-southern-nigeria.md) _Context: Nigeria, Royal Dutch Shell_
 4. [Officials from multinational corporations Royal Dutch Shell and Halliburton are to be questioned in Nigeria in relation to bribery scandals and corruption. ](/news/2010/11/30/officials-from-multinational-corporations-royal-dutch-shell-and-halliburton-are-to-be-questioned-in-nigeria-in-relation-to-bribery-scandals.md) _Context: Nigeria, Royal Dutch Shell_
-5. [To persuade its volatile - and poor -- Niger Delta's oil region to reduce the conflict in the Niger Delta, Nigeria proposes handing over 10% stakes in its biggest energy industry to "host communities". ](/news/2010/02/19/to-persuade-its-volatile-a-and-poor-niger-delta-s-oil-region-to-reduce-the-conflict-in-the-niger-delta-nigeria-proposes-handing-over-1.md) _Context: Conflict in the Niger Delta, Nigeria_
+5. [ Nigerian farmers sue Shell at a court in The Hague over claims that the oil firm polluted their land in the Niger Delta region. ](/news/2009/12/3/nigerian-farmers-sue-shell-at-a-court-in-the-hague-over-claims-that-the-oil-firm-polluted-their-land-in-the-niger-delta-region.md) _Context: Nigeria, Royal Dutch Shell_

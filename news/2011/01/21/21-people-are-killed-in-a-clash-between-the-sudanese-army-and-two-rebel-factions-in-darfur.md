@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/01/21/21-people-are-killed-in-a-clash-between-the-sudanese-army-and-two-rebel-factions-in-darfur.html)  [JSON](/news/2011/01/21/21-people-are-killed-in-a-clash-between-the-sudanese-army-and-two-rebel-factions-in-darfur.json)  [XML](/news/2011/01/21/21-people-are-killed-in-a-clash-between-the-sudanese-army-and-two-rebel-factions-in-darfur.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### Sudan
 # 21 people are killed in a clash between the Sudanese army and two rebel factions in Darfur. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE70K5IZ20110121)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSTRE70K5IZ20110121)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

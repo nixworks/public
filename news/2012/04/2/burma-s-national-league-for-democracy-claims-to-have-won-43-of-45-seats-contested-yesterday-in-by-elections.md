@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/2/burma-s-national-league-for-democracy-claims-to-have-won-43-of-45-seats-contested-yesterday-in-by-elections.html)  [JSON](/news/2012/04/2/burma-s-national-league-for-democracy-claims-to-have-won-43-of-45-seats-contested-yesterday-in-by-elections.json)  [XML](/news/2012/04/2/burma-s-national-league-for-democracy-claims-to-have-won-43-of-45-seats-contested-yesterday-in-by-elections.xml)  
+
 ### [2012-04-2](/news/2012/04/2/index.md)
 
+##### Burma
 # Burma's National League for Democracy claims to have won 43 of 45 seats contested yesterday in by-elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/04/02/world/asia/myanmar-elections/index.html?eref=edition)
 

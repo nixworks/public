@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/03/1/in-uruguay-dr-tabare-vazquez-the-first-leftist-president-in-the-country-s-180-year-history-takes-office-announces-his-cabinet-and-rest.html)  [JSON](/news/2005/03/1/in-uruguay-dr-tabare-vazquez-the-first-leftist-president-in-the-country-s-180-year-history-takes-office-announces-his-cabinet-and-rest.json)  [XML](/news/2005/03/1/in-uruguay-dr-tabare-vazquez-the-first-leftist-president-in-the-country-s-180-year-history-takes-office-announces-his-cabinet-and-rest.xml)  
+
 ### [2005-03-1](/news/2005/03/1/index.md)
 
+##### Uruguay
 #  In Uruguay, Dr. Tabar Vzquez, the first leftist president in the country's 180-year history, takes office, announces his cabinet and restores diplomatic relations with Cuba. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4309253.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=a8Rwnp6gaEjA&refer=latin_america)
-3. [Globe&Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20050301.wurug0301/BNStory/International/)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000086&sid=a8Rwnp6gaEjA&refer=latin_america)
+3. [Globe&Mail](https://www.theglobeandmail.com/servlet/story/RTGAM.20050301.wurug0301/BNStory/International/)
 4. [Prensa Latina](http://www.plenglish.com/article.asp?ID=%7B8723925A-8808-4156-B2D7-E4FDE0227E3C%7D&language=EN)
 5. [XinHua](http://news.xinhuanet.com/english/2005-03/02/content_2637515.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/3/nicola-s-maduro-acting-president-of-venezuela-officially-begins-his-campaign-to-succeed-hugo-cha-vez-in-the-late-leader-s-hometown-ahead-o.html)  [JSON](/news/2013/04/3/nicola-s-maduro-acting-president-of-venezuela-officially-begins-his-campaign-to-succeed-hugo-cha-vez-in-the-late-leader-s-hometown-ahead-o.json)  [XML](/news/2013/04/3/nicola-s-maduro-acting-president-of-venezuela-officially-begins-his-campaign-to-succeed-hugo-cha-vez-in-the-late-leader-s-hometown-ahead-o.xml)  
+
 ### [2013-04-3](/news/2013/04/3/index.md)
 
+##### Nicolas Maduro
 # Nicolas Maduro, acting President of Venezuela, officially begins his campaign to succeed Hugo Chavez in the late leader's hometown ahead of the April 14 election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2013/04/201342163138278747.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/4/3/2013431117965734_20.jpg)

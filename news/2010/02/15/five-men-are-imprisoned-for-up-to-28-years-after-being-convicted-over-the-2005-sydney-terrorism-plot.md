@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/15/five-men-are-imprisoned-for-up-to-28-years-after-being-convicted-over-the-2005-sydney-terrorism-plot.html)  [JSON](/news/2010/02/15/five-men-are-imprisoned-for-up-to-28-years-after-being-convicted-over-the-2005-sydney-terrorism-plot.json)  [XML](/news/2010/02/15/five-men-are-imprisoned-for-up-to-28-years-after-being-convicted-over-the-2005-sydney-terrorism-plot.xml)  
+
 ### [2010-02-15](/news/2010/02/15/index.md)
 
+##### 2005 Sydney terrorism plot
 # Five men are imprisoned for up to 28 years, after being convicted over the 2005 Sydney terrorism plot. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8515632.stm)
 2. [ninemsn](http://news.ninemsn.com.au/article.aspx?id=1012537)

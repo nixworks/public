@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/23/the-russian-designer-of-the-ak-47-assault-rifle-mikhail-kalashnikov-dies-at-the-age-of-94.html)  [JSON](/news/2013/12/23/the-russian-designer-of-the-ak-47-assault-rifle-mikhail-kalashnikov-dies-at-the-age-of-94.json)  [XML](/news/2013/12/23/the-russian-designer-of-the-ak-47-assault-rifle-mikhail-kalashnikov-dies-at-the-age-of-94.xml)  
+
 ### [2013-12-23](/news/2013/12/23/index.md)
 
+##### Russian
 # The Russian designer of the AK-47 assault rifle, Mikhail Kalashnikov, dies at the age of 94. 
 
 His AK-47 assault rifle has killed more people than any other firearm in the world 
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/news/world/europe/gun-designer-kalashnikov-dies-aged-94-1.1636704)
 1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1636703&origw=960)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/29/strikes-continue-in-the-university-of-puerto-ri
 
 ### [2017-04-29](/news/2017/04/29/index.md)
 
+##### University of Puerto Rico strikes, 2017
 # Strikes continue in the University of Puerto Rico because of university budget cuts from the Puerto Rico Oversight Board (PROMESA). 
 
 

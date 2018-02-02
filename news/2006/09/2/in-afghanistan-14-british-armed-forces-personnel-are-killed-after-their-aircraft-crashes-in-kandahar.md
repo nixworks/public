@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/2/in-afghanistan-14-british-armed-forces-personnel-are-killed-after-their-aircraft-crashes-in-kandahar.html)  [JSON](/news/2006/09/2/in-afghanistan-14-british-armed-forces-personnel-are-killed-after-their-aircraft-crashes-in-kandahar.json)  [XML](/news/2006/09/2/in-afghanistan-14-british-armed-forces-personnel-are-killed-after-their-aircraft-crashes-in-kandahar.xml)  
+
 ### [2006-09-2](/news/2006/09/2/index.md)
 
+##### Afghanistan
 #  In Afghanistan, 14 British armed forces personnel are killed after their aircraft crashes in Kandahar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/5308622.stm)
 

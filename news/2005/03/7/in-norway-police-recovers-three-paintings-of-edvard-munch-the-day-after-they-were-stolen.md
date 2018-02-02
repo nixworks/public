@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/7/in-norway-police-recovers-three-paintings-of-edvard-munch-the-day-after-they-were-stolen.html)  [JSON](/news/2005/03/7/in-norway-police-recovers-three-paintings-of-edvard-munch-the-day-after-they-were-stolen.json)  [XML](/news/2005/03/7/in-norway-police-recovers-three-paintings-of-edvard-munch-the-day-after-they-were-stolen.xml)  
+
 ### [2005-03-7](/news/2005/03/7/index.md)
 
+##### Edvard Munch
 #  In Norway, police recovers three paintings of Edvard Munch the day after they were stolen 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/4324775.stm)
 2. [CNN](http://edition.cnn.com/2005/WORLD/europe/03/07/norway.scream.ap/)

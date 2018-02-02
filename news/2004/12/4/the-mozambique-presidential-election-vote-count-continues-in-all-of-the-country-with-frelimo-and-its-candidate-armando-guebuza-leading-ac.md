@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/12/4/the-mozambique-presidential-election-vote-count-continues-in-all-of-the-country-with-frelimo-and-its-candidate-armando-guebuza-leading-ac.html)  [JSON](/news/2004/12/4/the-mozambique-presidential-election-vote-count-continues-in-all-of-the-country-with-frelimo-and-its-candidate-armando-guebuza-leading-ac.json)  [XML](/news/2004/12/4/the-mozambique-presidential-election-vote-count-continues-in-all-of-the-country-with-frelimo-and-its-candidate-armando-guebuza-leading-ac.xml)  
+
 ### [2004-12-4](/news/2004/12/4/index.md)
 
+##### Mozambique
 #  The Mozambique presidential election vote count continues in all of the country, with Frelimo and its candidate Armando Guebuza leading, according to the preliminary results already known, and especially in Maputo, Gaza and Inhambane, traditional regions of influence for the party in power. (Wikinews)
 
 

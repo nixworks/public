@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/08/9/president-boni-yayi-of-benin-dismisses-his-entire-cabinet.html)  [JSON](/news/2013/08/9/president-boni-yayi-of-benin-dismisses-his-entire-cabinet.json)  [XML](/news/2013/08/9/president-boni-yayi-of-benin-dismisses-his-entire-cabinet.xml)  
+
 ### [2013-08-9](/news/2013/08/9/index.md)
 
+##### President
 # President Boni Yayi of Benin dismisses his entire Cabinet. 
 
 Benin President Boni Yayi sacked his entire government on Friday &quot;to breathe a new dynamic&quot; into the 26-member cabinet, a statement from his office said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/08/09/us-benin-government-idUSBRE9780HR20130809)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130809&t=2&i=758584945&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9780XC600)
+1. [Reuters](https://www.reuters.com/article/2013/08/09/us-benin-government-idUSBRE9780HR20130809)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130809&t=2&i=758584945&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9780XC600)
 
 ### Related:
 

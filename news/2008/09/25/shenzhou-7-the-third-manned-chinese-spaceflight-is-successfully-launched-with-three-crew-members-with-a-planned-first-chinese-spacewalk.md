@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/09/25/shenzhou-7-the-third-manned-chinese-spaceflight-is-successfully-launched-with-three-crew-members-with-a-planned-first-chinese-spacewalk.html)  [JSON](/news/2008/09/25/shenzhou-7-the-third-manned-chinese-spaceflight-is-successfully-launched-with-three-crew-members-with-a-planned-first-chinese-spacewalk.json)  [XML](/news/2008/09/25/shenzhou-7-the-third-manned-chinese-spaceflight-is-successfully-launched-with-three-crew-members-with-a-planned-first-chinese-spacewalk.xml)  
+
 ### [2008-09-25](/news/2008/09/25/index.md)
 
+##### Shenzhou 7
 #  Shenzhou 7, the third manned Chinese spaceflight, is successfully launched with three crew members, with a planned first Chinese spacewalk. 
 
 The three-day mission by the Shenzhou VII spacecraft is expected to include the country’s first attempt at a spacewalk.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/09/26/world/asia/26space.html)
+1. [The New York Times](https://www.nytimes.com/2008/09/26/world/asia/26space.html)
 2. [Xinhua](http://xinhua.cn)
 2. [Cover Image](https://static01.nyt.com/images/2008/09/26/world/26space_75.jpg)
 

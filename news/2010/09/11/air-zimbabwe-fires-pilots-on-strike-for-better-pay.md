@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/11/air-zimbabwe-fires-pilots-on-strike-for-better-pay.html)  [JSON](/news/2010/09/11/air-zimbabwe-fires-pilots-on-strike-for-better-pay.json)  [XML](/news/2010/09/11/air-zimbabwe-fires-pilots-on-strike-for-better-pay.xml)  
+
 ### [2010-09-11](/news/2010/09/11/index.md)
 
+##### Air Zimbabwe
 # Air Zimbabwe fires pilots on strike for better pay. 
 
 Air Zimbabwe says pilots who defied a 24-hour deadline to abandon a strike and return to work should consider themselves fired.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-11273905)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

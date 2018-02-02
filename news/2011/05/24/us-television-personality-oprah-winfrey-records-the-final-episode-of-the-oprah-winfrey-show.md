@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/24/us-television-personality-oprah-winfrey-records-the-final-episode-of-the-oprah-winfrey-show.html)  [JSON](/news/2011/05/24/us-television-personality-oprah-winfrey-records-the-final-episode-of-the-oprah-winfrey-show.json)  [XML](/news/2011/05/24/us-television-personality-oprah-winfrey-records-the-final-episode-of-the-oprah-winfrey-show.xml)  
+
 ### [2011-05-24](/news/2011/05/24/index.md)
 
+##### Oprah Winfrey
 # US television personality Oprah Winfrey records the final episode of "The Oprah Winfrey Show". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/oprah-winfrey-goes-solo-to-tape-her-final-talk-show/story-e6frf7jx-1226062475307)
 

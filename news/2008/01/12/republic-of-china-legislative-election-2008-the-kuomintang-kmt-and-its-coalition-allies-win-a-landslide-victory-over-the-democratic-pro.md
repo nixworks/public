@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/12/republic-of-china-legislative-election-2008-the-kuomintang-kmt-and-its-coalition-allies-win-a-landslide-victory-over-the-democratic-pro.html)  [JSON](/news/2008/01/12/republic-of-china-legislative-election-2008-the-kuomintang-kmt-and-its-coalition-allies-win-a-landslide-victory-over-the-democratic-pro.json)  [XML](/news/2008/01/12/republic-of-china-legislative-election-2008-the-kuomintang-kmt-and-its-coalition-allies-win-a-landslide-victory-over-the-democratic-pro.xml)  
+
 ### [2008-01-12](/news/2008/01/12/index.md)
 
+##### Republic of China legislative election, 2008
 #  Republic of China legislative election, 2008: The Kuomintang (KMT) and its coalition allies win a landslide victory over the Democratic Progressive Party, garnering 86 of 113 seats in the Legislative Yuan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7184448.stm)
 2. [ChinaPost](http://www.chinapost.com.tw/news/2008/01/12/138798/KMT%2Dwins.htm)

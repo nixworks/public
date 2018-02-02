@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/20/egypt-uncovers-an-alleged-israeli-spy-ring-charging-one-egyptian-business-man-and-two-israelis-with-attempting-to-recruit-agents-to-spy-for.html)  [JSON](/news/2010/12/20/egypt-uncovers-an-alleged-israeli-spy-ring-charging-one-egyptian-business-man-and-two-israelis-with-attempting-to-recruit-agents-to-spy-for.json)  [XML](/news/2010/12/20/egypt-uncovers-an-alleged-israeli-spy-ring-charging-one-egyptian-business-man-and-two-israelis-with-attempting-to-recruit-agents-to-spy-for.xml)  
+
 ### [2010-12-20](/news/2010/12/20/index.md)
 
+##### Egypt
 # Egypt uncovers an alleged Israeli spy-ring, charging one Egyptian business man and two Israelis with attempting to recruit agents to spy for Israel. 
 
 Egypt charges a businessman and two Israelis with recruiting spies for Israel, a day after they revealed an alleged cell that plotted to kidnap tourists.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-12043290)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

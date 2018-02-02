@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/12/an-international-treaty-the-2003-protocol-on-explosive-remnants-of-war-comes-into-force-aiming-to-limit-the-impact-of-cluster-bombs-and-o.html)  [JSON](/news/2006/11/12/an-international-treaty-the-2003-protocol-on-explosive-remnants-of-war-comes-into-force-aiming-to-limit-the-impact-of-cluster-bombs-and-o.json)  [XML](/news/2006/11/12/an-international-treaty-the-2003-protocol-on-explosive-remnants-of-war-comes-into-force-aiming-to-limit-the-impact-of-cluster-bombs-and-o.xml)  
+
 ### [2006-11-12](/news/2006/11/12/index.md)
 
+##### 2003 Protocol on Explosive Remnants of War
 #  An international treaty, the 2003 Protocol on Explosive Remnants of War, comes into force aiming to limit the impact of cluster bombs and other unexploded devices on civilian populations after a conflict ends. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC via ABC News Australia](http://www.abc.net.au/news/newsitems/200611/s1786678.htm)
 

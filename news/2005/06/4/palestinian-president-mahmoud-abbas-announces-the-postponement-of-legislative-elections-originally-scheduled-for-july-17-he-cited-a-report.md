@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/06/4/palestinian-president-mahmoud-abbas-announces-the-postponement-of-legislative-elections-originally-scheduled-for-july-17-he-cited-a-report.html)  [JSON](/news/2005/06/4/palestinian-president-mahmoud-abbas-announces-the-postponement-of-legislative-elections-originally-scheduled-for-july-17-he-cited-a-report.json)  [XML](/news/2005/06/4/palestinian-president-mahmoud-abbas-announces-the-postponement-of-legislative-elections-originally-scheduled-for-july-17-he-cited-a-report.xml)  
+
 ### [2005-06-4](/news/2005/06/4/index.md)
 
+##### President of the Palestinian Authority
 #  Palestinian President Mahmoud Abbas announces the postponement of legislative elections originally scheduled for July 17. He cited a report from the Palestinian election authority that it needs more time to implement changes in laws concerning seating of legislators. Hamas leaders object to the postponement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/584259.html)
-2. [New York Times](http://www.nytimes.com/2005/06/05/international/middleeast/05mideast.html)
+2. [New York Times](https://www.nytimes.com/2005/06/05/international/middleeast/05mideast.html)
 
 ### Related:
 

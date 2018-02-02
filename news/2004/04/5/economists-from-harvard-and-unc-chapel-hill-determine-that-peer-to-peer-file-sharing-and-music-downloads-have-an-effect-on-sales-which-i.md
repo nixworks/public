@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/04/5/economists-from-harvard-and-unc-chapel-hill-determine-that-peer-to-peer-file-sharing-and-music-downloads-have-an-effect-on-sales-which-i.html)  [JSON](/news/2004/04/5/economists-from-harvard-and-unc-chapel-hill-determine-that-peer-to-peer-file-sharing-and-music-downloads-have-an-effect-on-sales-which-i.json)  [XML](/news/2004/04/5/economists-from-harvard-and-unc-chapel-hill-determine-that-peer-to-peer-file-sharing-and-music-downloads-have-an-effect-on-sales-which-i.xml)  
+
 ### [2004-04-5](/news/2004/04/5/index.md)
 
+##### Economist
 #  Economists from Harvard and UNC - Chapel Hill determine that peer-to-peer file sharing and music downloads "have an effect on sales which is statistically indistinguishable from zero, despite rather precise estimates." 
 
-Music industry, which leads drive against Internet file sharing of copyrighted work on premise that downloading hurts sales, reacts with flustered consternation to study by economists Felix Oberholzer-Gee and Koleman S Strumpf that found downloading has no impact on CD sales; study compared direct data of music downloaders with music purchases during same period; found spikes in downloading had almost no discernible effect on sales; Oberholzer-Gee says previous research wrongly assumed that every download could be thought of as lost sale, while most downloaders would not have paid for music, interview; graphs of recording releases, sales and downloading (M)
 
 
-### Source:
 
-1. [NYT](http://www.nytimes.com/2004/04/05/technology/05music.html?hp)
-1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+### Sources:
+
+1. [NYT](https://www.nytimes.com/2004/04/05/technology/05music.html?hp)
 
 ### Related:
 

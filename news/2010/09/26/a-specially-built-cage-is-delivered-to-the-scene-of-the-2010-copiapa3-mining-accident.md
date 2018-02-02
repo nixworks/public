@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/26/a-specially-built-cage-is-delivered-to-the-scene-of-the-2010-copiapa3-mining-accident.html)  [JSON](/news/2010/09/26/a-specially-built-cage-is-delivered-to-the-scene-of-the-2010-copiapa3-mining-accident.json)  [XML](/news/2010/09/26/a-specially-built-cage-is-delivered-to-the-scene-of-the-2010-copiapa3-mining-accident.xml)  
+
 ### [2010-09-26](/news/2010/09/26/index.md)
 
+##### rescue 33 miners trapped
 # A specially built cage is delivered to the scene of the 2010 Copiapo mining accident. 
 
 Families of 33 trapped miners get a glimpse of the rescue capsule meant to bring the miners to the surface.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2010/sep/26/rescue-capsule-chilean-miners-delivered)
 2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/09/20109264164052454.html)

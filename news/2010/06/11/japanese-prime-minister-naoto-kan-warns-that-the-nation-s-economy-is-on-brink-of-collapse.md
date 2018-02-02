@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2010/06/11/japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.html)  [JSON](/news/2010/06/11/japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.json)  [XML](/news/2010/06/11/japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.xml)  
+
 ### [2010-06-11](/news/2010/06/11/index.md)
 
+##### Japan
 # Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/go/rss/-/1/hi/business/10290933.stm)
 2. [The Australian](http://www.theaustralian.com.au/news/world/japan-minister-quits-in-protest-after-three-days/story-e6frg6so-1225878620992)
 3. [The Guardian](http://www.guardian.co.uk/business/2010/jun/11/japan-naoto-kan-debt-warning)
+
+### Changes:
+
+1. [Politics of Japan:Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/politics-of-japan-pjapanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md) _2017-08-25 03:28:13 (First version)_
+2. [Politics of Japan:: Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/politics-of-japan-japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md) _2017-08-27 03:28:13 (Update)_
+2. [Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@
 3. [The approval rating of Japanese Prime Minister Naoto Kan improves to 34% following a cabinet reshuffle. ](/news/2011/01/16/the-approval-rating-of-japanese-prime-minister-naoto-kan-improves-to-34-following-a-cabinet-reshuffle.md) _Context: Japan, Naoto Kan, Prime Minister of Japan_
 4. [The Prime Minister of Japan Naoto Kan voices concerns about rowdy anti-Japanese protests in China, sparked by a recent territorial dispute. ](/news/2010/10/18/the-prime-minister-of-japan-naoto-kan-voices-concerns-about-rowdy-anti-japanese-protests-in-china-sparked-by-a-recent-territorial-dispute.md) _Context: Japan, Naoto Kan, Prime Minister of Japan_
 5. [China rules out a meeting with Japanese Prime Minister Naoto Kan at the United Nations to resolve an ongoing diplomatic row, saying the timing is "not proper". ](/news/2010/09/21/china-rules-out-a-meeting-with-japanese-prime-minister-naoto-kan-at-the-united-nations-to-resolve-an-ongoing-diplomatic-row-saying-the-timi.md) _Context: Japan, Naoto Kan, Prime Minister of Japan_
-
-### Changes:
-
-1. [Politics of Japan:Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/politics-of-japan-pjapanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md) _2017-08-25 03:28:13 (First version)_
-2. [Politics of Japan:: Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/politics-of-japan-japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md) _2017-08-27 03:28:13 (Update)_
-2. [Japanese Prime Minister Naoto Kan warns that the nation's economy is on "brink of collapse". ](/news/2010/06/11/japanese-prime-minister-naoto-kan-warns-that-the-nation-s-economy-is-on-brink-of-collapse.md) _(Current version)_

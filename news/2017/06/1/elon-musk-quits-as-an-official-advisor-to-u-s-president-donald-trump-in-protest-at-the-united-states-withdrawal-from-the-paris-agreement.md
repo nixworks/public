@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/1/elon-musk-quits-as-an-official-advisor-to-u-s-pr
 
 ### [2017-06-1](/news/2017/06/1/index.md)
 
+##### Elon Musk
 # Elon Musk quits as an official advisor to U.S. President Donald Trump in protest at the United States withdrawal from the Paris Agreement. 
 
 According to Musk’s own tweets, he had lobbied Trump for months for the U.S. to not drop out of the agreement.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/24/american-express-is-ordered-to-pay-us-75-7-million-in-restitution-and-fines-to-customers-and-federal-regulators-over-billing-people-for-serv.html)  [JSON](/news/2013/12/24/american-express-is-ordered-to-pay-us-75-7-million-in-restitution-and-fines-to-customers-and-federal-regulators-over-billing-people-for-serv.json)  [XML](/news/2013/12/24/american-express-is-ordered-to-pay-us-75-7-million-in-restitution-and-fines-to-customers-and-federal-regulators-over-billing-people-for-serv.xml)  
+
 ### [2013-12-24](/news/2013/12/24/index.md)
 
+##### American Express
 # American Express is ordered to pay US$75.7 million in restitution and fines to customers and federal regulators over billing people for services they never received. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](http://www.businessweek.com/news/2013-12-24/amex-settles-with-u-dot-s-dot-regulators-over-marketing-of-card-add-ons)
 

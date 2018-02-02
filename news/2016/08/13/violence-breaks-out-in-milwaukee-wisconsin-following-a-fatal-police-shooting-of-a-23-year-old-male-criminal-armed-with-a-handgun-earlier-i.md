@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/13/violence-breaks-out-in-milwaukee-wisconsin-foll
 
 ### [2016-08-13](/news/2016/08/13/index.md)
 
+##### 2016 Milwaukee riots
 # Violence breaks out in Milwaukee, Wisconsin, following a fatal police shooting of a 23-year-old male criminal armed with a handgun earlier in the day. The Milwaukee Police Department says an officer was injured after being struck in the head by a brick, while a police car and gas station were set on fire. 
 
 A police officer was injured by a thrown brick and a gas station was set on fire hours after an officer fatally shot a man police said was armed.

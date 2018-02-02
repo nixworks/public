@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/26/the-tibet-military-command-of-the-chinese-people-s-liberation-army-pla-holds-the-first-air-ground-live-ammunition-drill-in-tibet.html)  [JSON](/news/2010/10/26/the-tibet-military-command-of-the-chinese-people-s-liberation-army-pla-holds-the-first-air-ground-live-ammunition-drill-in-tibet.json)  [XML](/news/2010/10/26/the-tibet-military-command-of-the-chinese-people-s-liberation-army-pla-holds-the-first-air-ground-live-ammunition-drill-in-tibet.xml)  
+
 ### [2010-10-26](/news/2010/10/26/index.md)
 
+##### Tibet Military Command
 # The Tibet Military Command of the Chinese People's Liberation Army (PLA) holds the first air-ground live ammunition drill in Tibet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People's Daily](http://english.people.com.cn/90001/90783/91300/7177799.html)
 

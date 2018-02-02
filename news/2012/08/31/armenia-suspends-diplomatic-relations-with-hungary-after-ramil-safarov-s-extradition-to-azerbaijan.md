@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/31/armenia-suspends-diplomatic-relations-with-hungary-after-ramil-safarov-s-extradition-to-azerbaijan.html)  [JSON](/news/2012/08/31/armenia-suspends-diplomatic-relations-with-hungary-after-ramil-safarov-s-extradition-to-azerbaijan.json)  [XML](/news/2012/08/31/armenia-suspends-diplomatic-relations-with-hungary-after-ramil-safarov-s-extradition-to-azerbaijan.xml)  
+
 ### [2012-08-31](/news/2012/08/31/index.md)
 
+##### Armenia
 # Armenia suspends diplomatic relations with Hungary after Ramil Safarov's extradition to Azerbaijan. 
 
 Armenia is severing diplomatic ties with Hungary after the release of an Azeri army officer convicted of murdering an Armenian soldier to Baku.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-19440661)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62612000/jpg/_62612835_62612834.jpg)

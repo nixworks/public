@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/20/stanislaw-ryniak-88-the-first-person-imprisoned-at-the-nazi-death-camp-of-auschwitz-is-buried-in-wroclaw-poland.html)  [JSON](/news/2004/02/20/stanislaw-ryniak-88-the-first-person-imprisoned-at-the-nazi-death-camp-of-auschwitz-is-buried-in-wroclaw-poland.json)  [XML](/news/2004/02/20/stanislaw-ryniak-88-the-first-person-imprisoned-at-the-nazi-death-camp-of-auschwitz-is-buried-in-wroclaw-poland.xml)  
+
 ### [2004-02-20](/news/2004/02/20/index.md)
 
+##### Stanislaw Ryniak
 #  Stanislaw Ryniak (88), the first person imprisoned at the Nazi death camp of Auschwitz, is buried in Wroclaw, Poland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.chron.com/cs/CDA/ssistory.mpl/world/2420786)
 

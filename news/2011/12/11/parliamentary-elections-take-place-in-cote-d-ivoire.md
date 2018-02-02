@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/11/parliamentary-elections-take-place-in-cote-d-ivoire.html)  [JSON](/news/2011/12/11/parliamentary-elections-take-place-in-cote-d-ivoire.json)  [XML](/news/2011/12/11/parliamentary-elections-take-place-in-cote-d-ivoire.xml)  
+
 ### [2011-12-11](/news/2011/12/11/index.md)
 
+##### Parliamentary elections
 # Parliamentary elections take place in Cte d'Ivoire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16128831)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57259000/jpg/_57259854_013507123-1.jpg)

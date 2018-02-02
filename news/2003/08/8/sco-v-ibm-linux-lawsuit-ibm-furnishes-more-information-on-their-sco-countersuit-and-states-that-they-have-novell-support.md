@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/8/sco-v-ibm-linux-lawsuit-ibm-furnishes-more-information-on-their-sco-countersuit-and-states-that-they-have-novell-support.html)  [JSON](/news/2003/08/8/sco-v-ibm-linux-lawsuit-ibm-furnishes-more-information-on-their-sco-countersuit-and-states-that-they-have-novell-support.json)  [XML](/news/2003/08/8/sco-v-ibm-linux-lawsuit-ibm-furnishes-more-information-on-their-sco-countersuit-and-states-that-they-have-novell-support.xml)  
+
 ### [2003-08-8](/news/2003/08/8/index.md)
 
+##### SCO v. IBM
 #  SCO v. IBM Linux lawsuit: IBM furnishes more information on their SCO countersuit and states that they have Novell support.
 
 

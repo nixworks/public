@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/23/norman-mineta-announces-his-resignation-as-united-states-secretary-of-transportation-effective-from-july-7-2006.html)  [JSON](/news/2006/06/23/norman-mineta-announces-his-resignation-as-united-states-secretary-of-transportation-effective-from-july-7-2006.json)  [XML](/news/2006/06/23/norman-mineta-announces-his-resignation-as-united-states-secretary-of-transportation-effective-from-july-7-2006.xml)  
+
 ### [2006-06-23](/news/2006/06/23/index.md)
 
+##### Norman Mineta
 #  Norman Mineta announces his resignation as United States Secretary of Transportation effective from July 7, 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.mercurynews.com/mld/mercurynews/news/politics/14886872.htm)
 

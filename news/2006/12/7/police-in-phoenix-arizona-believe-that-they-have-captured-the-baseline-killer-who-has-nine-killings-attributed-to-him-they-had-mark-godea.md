@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/7/police-in-phoenix-arizona-believe-that-they-have-captured-the-baseline-killer-who-has-nine-killings-attributed-to-him-they-had-mark-godea.html)  [JSON](/news/2006/12/7/police-in-phoenix-arizona-believe-that-they-have-captured-the-baseline-killer-who-has-nine-killings-attributed-to-him-they-had-mark-godea.json)  [XML](/news/2006/12/7/police-in-phoenix-arizona-believe-that-they-have-captured-the-baseline-killer-who-has-nine-killings-attributed-to-him-they-had-mark-godea.xml)  
+
 ### [2006-12-7](/news/2006/12/7/index.md)
 
+##### Phoenix, Arizona
 #  Police in Phoenix, Arizona believe that they have captured the Baseline Killer who has nine killings attributed to him. They had Mark Godeau in custody since September in relation to two alleged sexual assaults in 2005. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/LAW/12/07/baseline.killings.ap/index.html?section=cnn_latest)
 

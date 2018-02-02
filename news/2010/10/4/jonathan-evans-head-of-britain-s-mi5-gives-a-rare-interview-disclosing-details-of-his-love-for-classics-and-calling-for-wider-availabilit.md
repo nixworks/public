@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/4/jonathan-evans-head-of-britain-s-mi5-gives-a-rare-interview-disclosing-details-of-his-love-for-classics-and-calling-for-wider-availabilit.html)  [JSON](/news/2010/10/4/jonathan-evans-head-of-britain-s-mi5-gives-a-rare-interview-disclosing-details-of-his-love-for-classics-and-calling-for-wider-availabilit.json)  [XML](/news/2010/10/4/jonathan-evans-head-of-britain-s-mi5-gives-a-rare-interview-disclosing-details-of-his-love-for-classics-and-calling-for-wider-availabilit.xml)  
+
 ### [2010-10-4](/news/2010/10/4/index.md)
 
+##### Jonathan Evans
 # Jonathan Evans, head of Britain's MI5, gives a rare interview, disclosing details of his love for classics and calling for wider availability of Latin and Greek in schools as, he claims, they are useful for spies. 
 
 The head of MI5 had admitted he was attracted by &#034;the intrigue&#034; of I, Claudius as a boy as he disclosed the details of his classical education background.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/culturenews/8039653/MI5-boss-attracted-by-intrigue-of-I-Claudius.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01717/JonathanEvans_1717977a.jpg)

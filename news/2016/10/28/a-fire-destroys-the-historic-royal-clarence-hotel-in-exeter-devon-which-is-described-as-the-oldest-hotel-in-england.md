@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/28/a-fire-destroys-the-historic-royal-clarence-hot
 
 ### [2016-10-28](/news/2016/10/28/index.md)
 
+##### Royal Clarence Hotel
 # A fire destroys the historic Royal Clarence Hotel in Exeter, Devon, which is described as the oldest hotel in England. 
 
 A massive fire in Exeter destroys historic buildings including what is described as the oldest hotel in England.
@@ -18,5 +19,5 @@ A massive fire in Exeter destroys historic buildings including what is described
 1. [The Duke of Edinburgh, on a trip to Exeter, Devon with Elizabeth II of the United Kingdom, asks a female sea cadet if she works at a strip club before concluding that it is "probably too cold for that anyway". ](/news/2010/03/11/the-duke-of-edinburgh-on-a-trip-to-exeter-devon-with-elizabeth-ii-of-the-united-kingdom-asks-a-female-sea-cadet-if-she-works-at-a-strip-c.md) _Context: Devon, Exeter_
 2. [ Teeth and bones from a range of animals, including hyenas, deer and rhinos, are discovered by archaeologists inside a cave in Devon, England. ](/news/2009/09/13/teeth-and-bones-from-a-range-of-animals-including-hyenas-deer-and-rhinos-are-discovered-by-archaeologists-inside-a-cave-in-devon-englan.md) _Context: Devon, England_
 3. [ Claire Miles from Exeter in Devon gives birth by Caesarean section to two babies, one in each of her two half sized wombs. ](/news/2005/06/8/claire-miles-from-exeter-in-devon-gives-birth-by-caesarean-section-to-two-babies-one-in-each-of-her-two-half-sized-wombs.md) _Context: Devon, Exeter_
-4. [Storm Brian, the third windstorm of the season, causes severe flash flooding in Ireland and coastal flooding in parts of England and Wales, although disruption is not as severe as initially expected. ](/news/2017/10/21/storm-brian-the-third-windstorm-of-the-season-causes-severe-flash-flooding-in-ireland-and-coastal-flooding-in-parts-of-england-and-wales.md) _Context: England_
-5. [The charity concert organized by Ariana Grande in the wake of the 2017 Manchester Arena bombing is held in Manchester, England. ](/news/2017/06/4/the-charity-concert-organized-by-ariana-grande-in-the-wake-of-the-2017-manchester-arena-bombing-is-held-in-manchester-england.md) _Context: England_
+4. [A fire consumes a multi-story parking garage in Liverpool, England, destroying about 1,400 cars parked there, most for an international horse show in the adjacent Liverpool Echo Arena. No injuries are reported, and all horses and pet dogs were moved to safety. ](/news/2017/12/31/a-fire-consumes-a-multi-story-parking-garage-in-liverpool-england-destroying-about-1-400-cars-parked-there-most-for-an-international-hors.md) _Context: England_
+5. [Six people are killed in a multiple-vehicle collision in Birmingham, England. ](/news/2017/12/17/six-people-are-killed-in-a-multiple-vehicle-collision-in-birmingham-england.md) _Context: England_

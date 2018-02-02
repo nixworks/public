@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/12/a-blackout-hits-auckland-new-zealand-lasting-for-several-hours-after-a-severe-storm-lashed-the-country-many-media-outlets-compared-it-to.html)  [JSON](/news/2006/06/12/a-blackout-hits-auckland-new-zealand-lasting-for-several-hours-after-a-severe-storm-lashed-the-country-many-media-outlets-compared-it-to.json)  [XML](/news/2006/06/12/a-blackout-hits-auckland-new-zealand-lasting-for-several-hours-after-a-severe-storm-lashed-the-country-many-media-outlets-compared-it-to.xml)  
+
 ### [2006-06-12](/news/2006/06/12/index.md)
 
+##### power outage
 #  A blackout hits Auckland, New Zealand, lasting for several hours after a severe storm lashed the country. Many media outlets compared it to the 1998 Auckland power crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=1&ObjectID=10386171)
 

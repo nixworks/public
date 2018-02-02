@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/30/a-special-verification-panel-recommends-throwin
 
 ### [2016-05-30](/news/2016/05/30/index.md)
 
+##### Haitian presidential election, 2015-16
 # A special verification panel recommends throwing out the results of the Haiti presidential election on October 25, 2015, because it appeared to be tainted by significant voter fraud. 
 
 
@@ -20,7 +21,7 @@ Formats: [HTML](/news/2016/05/30/a-special-verification-panel-recommends-throwin
 ### Related:
 
 1. [Haiti will redo its presidential election after findings of widespread voter fraud in last years voting. Additional measures will be put in place for the first round in October this year. ](/news/2016/06/6/haiti-will-redo-its-presidential-election-after-findings-of-widespread-voter-fraud-in-last-years-voting-additional-measures-will-be-put-in.md) _Context: Haiti, Haitian presidential election, 2015-16_
-2. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: Haiti_
-3. [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md) _Context: Haiti_
-4. [A bus driver in the Haitian city of Gonaives ploughs into crowds of people celebrating Rara while speeding away from an earlier accident which left one person dead, killing at least 38 people, including a group of street musicians, and injures 17 others. ](/news/2017/03/12/a-bus-driver-in-the-haitian-city-of-gonaa-ves-ploughs-into-crowds-of-people-celebrating-rara-while-speeding-away-from-an-earlier-accident-wh.md) _Context: Haiti_
-5. [Jovenel Moise provisionally wins the Haitian election. With Moise earning over 50% of the vote, a runoff election will not be required unless the losing candidates contest the result. ](/news/2016/11/29/jovenel-moa-se-provisionally-wins-the-haitian-election-with-moa-se-earning-over-50-of-the-vote-a-runoff-election-will-not-be-required-unl.md) _Context: Haiti_
+2. [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md) _Context: Haiti_
+3. [The U.S. Department of Homeland Security discontinues the eligibility of citizens of Belize, Haiti, and Samoa to obtain H-2A and H-2B visas for temporary work. ](/news/2018/01/17/the-u-s-department-of-homeland-security-discontinues-the-eligibility-of-citizens-of-belize-haiti-and-samoa-to-obtain-h-2a-and-h-2b-visas.md) _Context: Haiti_
+4. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: Haiti_
+5. [Haiti will reinstate its armed forces after 20 years of having none. ](/news/2017/07/11/haiti-will-reinstate-its-armed-forces-after-20-years-of-having-none.md) _Context: Haiti_

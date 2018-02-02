@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/20/a-united-states-secret-service-officer-shoots-a
 
 ### [2016-05-20](/news/2016/05/20/index.md)
 
+##### United States Secret Service
 # A United States Secret Service officer shoots an armed man on a street near the White House after the man allegedly approached the officer and refused to drop his weapon. The White House is locked down. 
 
 

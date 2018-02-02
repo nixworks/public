@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/8/a-filipino-lawmaker-proposes-a-bill-banning-repu
 
 ### [2016-08-8](/news/2016/08/8/index.md)
 
+##### 2016 U.S. presidential election
 # A Filipino lawmaker proposes a bill banning Republican U.S. presidential candidate Donald Trump from entering the Philippines after Trump compared Filipino legal immigrants to terrorists. 
 
 

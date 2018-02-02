@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2006/06/19/the-carolina-hurricanes-win-ice-hockey-s-stanley-cup-in-game-seven-of-a-best-of-seven-series-for-the-first-time-defeating-the-edmonton-oile.html)  [JSON](/news/2006/06/19/the-carolina-hurricanes-win-ice-hockey-s-stanley-cup-in-game-seven-of-a-best-of-seven-series-for-the-first-time-defeating-the-edmonton-oile.json)  [XML](/news/2006/06/19/the-carolina-hurricanes-win-ice-hockey-s-stanley-cup-in-game-seven-of-a-best-of-seven-series-for-the-first-time-defeating-the-edmonton-oile.xml)  
+
 ### [2006-06-19](/news/2006/06/19/index.md)
 
+##### Carolina Hurricanes
 #  The Carolina Hurricanes win ice hockey's Stanley Cup in game seven of a best of seven series for the first time defeating the Edmonton Oilers 3-1. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/sports/hockey/stanleycup2006/storyview.html?/story/stanleycup2006/national/2006/06/19/oilers-hurricanes-nhl-final-seven.html)
-2. [USA Today](http://www.usatoday.com/sports/hockey/cup/2006-06-19-edmonton-carolina-game-7_x.htm?csp=34)
+2. [USA Today](https://www.usatoday.com/sports/hockey/cup/2006-06-19-edmonton-carolina-game-7_x.htm?csp=34)
 
 ### Related:
 

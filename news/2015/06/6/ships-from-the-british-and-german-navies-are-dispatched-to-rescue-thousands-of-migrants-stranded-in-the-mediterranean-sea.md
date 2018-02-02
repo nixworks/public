@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/6/ships-from-the-british-and-german-navies-are-dispatched-to-rescue-thousands-of-migrants-stranded-in-the-mediterranean-sea.html)  [JSON](/news/2015/06/6/ships-from-the-british-and-german-navies-are-dispatched-to-rescue-thousands-of-migrants-stranded-in-the-mediterranean-sea.json)  [XML](/news/2015/06/6/ships-from-the-british-and-german-navies-are-dispatched-to-rescue-thousands-of-migrants-stranded-in-the-mediterranean-sea.xml)  
+
 ### [2015-06-6](/news/2015/06/6/index.md)
 
+##### Royal Navy
 # Ships from the British and German navies are dispatched to rescue thousands of migrants stranded in the Mediterranean Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/06/06/europe/mediterranean-migrants-rescue/index.html)
 

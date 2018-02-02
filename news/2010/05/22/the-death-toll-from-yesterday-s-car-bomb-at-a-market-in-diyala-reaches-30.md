@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/22/the-death-toll-from-yesterday-s-car-bomb-at-a-market-in-diyala-reaches-30.html)  [JSON](/news/2010/05/22/the-death-toll-from-yesterday-s-car-bomb-at-a-market-in-diyala-reaches-30.json)  [XML](/news/2010/05/22/the-death-toll-from-yesterday-s-car-bomb-at-a-market-in-diyala-reaches-30.xml)  
+
 ### [2010-05-22](/news/2010/05/22/index.md)
 
+##### Diyala Governorate
 # The death toll from yesterday's car bomb at a market in Diyala reaches 30. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10141868.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

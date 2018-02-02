@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/11/anti-monarchy-protesters-and-riot-police-clash-in-montreal-quebec-during-a-tour-by-prince-charles.html)  [JSON](/news/2009/11/11/anti-monarchy-protesters-and-riot-police-clash-in-montreal-quebec-during-a-tour-by-prince-charles.json)  [XML](/news/2009/11/11/anti-monarchy-protesters-and-riot-police-clash-in-montreal-quebec-during-a-tour-by-prince-charles.xml)  
+
 ### [2009-11-11](/news/2009/11/11/index.md)
 
+##### Anti-monarchy protesters
 #  Anti-monarchy protesters and riot police clash in Montreal, Quebec, during a tour by Prince Charles. 
 
 The Prince of Wales&#039; tour of Canada has been marred by an anti-monarchy protest, with Quebec separatists clashing with riot police during a demonstration in Montreal.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/montreal/story/2009/11/10/quebec-royal-visit.html)
 2. [Metro](http://www.metro.co.uk/news/article.html?Prince_Charles_Canada_tour_marred_by_anti-monarchy_protests&in_article_id=767268&in_page_id=34)

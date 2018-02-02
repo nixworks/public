@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/12/al-qaida-claims-responsibility-for-the-bombings-in-algiers-algeria.html)  [JSON](/news/2007/04/12/al-qaida-claims-responsibility-for-the-bombings-in-algiers-algeria.json)  [XML](/news/2007/04/12/al-qaida-claims-responsibility-for-the-bombings-in-algiers-algeria.xml)  
+
 ### [2007-04-12](/news/2007/04/12/index.md)
 
+##### Al Qaida's
 #  Al Qaida claims responsibility for the bombings in Algiers, Algeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel 4](http://www.channel4.com/news/articles/world/al+qaida+claims+algeria+blasts/420862)
 

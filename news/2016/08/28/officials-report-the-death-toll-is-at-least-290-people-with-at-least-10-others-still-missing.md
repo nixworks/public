@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/28/officials-report-the-death-toll-is-at-least-290
 
 ### [2016-08-28](/news/2016/08/28/index.md)
 
+##### 2016 Central Italy earthquake
 # Officials report the death toll is at least 290 people with at least 10 others still missing. 
 
 Rescuers believe they have found more bodies buried deep in the rubble of the ruined town of Amatrice, five days after a devastating earthquake struck central Italy, killing at least 290 people.

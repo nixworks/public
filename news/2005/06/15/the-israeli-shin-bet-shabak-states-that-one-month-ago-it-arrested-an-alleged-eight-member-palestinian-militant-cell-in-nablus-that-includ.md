@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/15/the-israeli-shin-bet-shabak-states-that-one-month-ago-it-arrested-an-alleged-eight-member-palestinian-militant-cell-in-nablus-that-includ.html)  [JSON](/news/2005/06/15/the-israeli-shin-bet-shabak-states-that-one-month-ago-it-arrested-an-alleged-eight-member-palestinian-militant-cell-in-nablus-that-includ.json)  [XML](/news/2005/06/15/the-israeli-shin-bet-shabak-states-that-one-month-ago-it-arrested-an-alleged-eight-member-palestinian-militant-cell-in-nablus-that-includ.xml)  
+
 ### [2005-06-15](/news/2005/06/15/index.md)
 
+##### Israel
 #  The Israeli Shin Bet (SHABAK) states that one month ago it arrested an alleged eight-member Palestinian militant cell in Nablus that included four teenage would-be suicide bombers. It claimed that the cell was part of Fatah (the ruling party of the Palestinian Authority), and that the Lebanese group Hezbollah was behind it. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/588229.html)
 

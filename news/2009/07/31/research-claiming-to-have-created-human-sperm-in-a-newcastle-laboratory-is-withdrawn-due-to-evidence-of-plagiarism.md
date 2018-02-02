@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/31/research-claiming-to-have-created-human-sperm-in-a-newcastle-laboratory-is-withdrawn-due-to-evidence-of-plagiarism.html)  [JSON](/news/2009/07/31/research-claiming-to-have-created-human-sperm-in-a-newcastle-laboratory-is-withdrawn-due-to-evidence-of-plagiarism.json)  [XML](/news/2009/07/31/research-claiming-to-have-created-human-sperm-in-a-newcastle-laboratory-is-withdrawn-due-to-evidence-of-plagiarism.xml)  
+
 ### [2009-07-31](/news/2009/07/31/index.md)
 
+##### sperm
 #  Research claiming to have created human sperm in a Newcastle laboratory is withdrawn due to evidence of plagiarism. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/science/science-news/5949676/Artificial-sperm-research-included-plagiarised-paragraphs.html)
 

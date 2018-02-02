@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/18/scientists-at-nasa-and-the-esa-witness-a-supermassive-black-hole-in-galaxy-rxj1242-11-graze-partially-consume-and-tear-apart-a-star-this.html)  [JSON](/news/2004/02/18/scientists-at-nasa-and-the-esa-witness-a-supermassive-black-hole-in-galaxy-rxj1242-11-graze-partially-consume-and-tear-apart-a-star-this.json)  [XML](/news/2004/02/18/scientists-at-nasa-and-the-esa-witness-a-supermassive-black-hole-in-galaxy-rxj1242-11-graze-partially-consume-and-tear-apart-a-star-this.xml)  
+
 ### [2004-02-18](/news/2004/02/18/index.md)
 
+##### NASA
 #  Scientists at NASA and the ESA witness a supermassive black hole in galaxy RXJ1242-11 graze, partially consume, and tear apart a star. This is the first time such a phenomenon has been observed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://www.nasa.gov/home/hqnews/2004/feb/HQ_04061_black_hole.html)
 

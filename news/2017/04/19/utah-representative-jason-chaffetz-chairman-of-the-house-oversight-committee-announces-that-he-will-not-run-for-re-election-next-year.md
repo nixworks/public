@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/19/utah-representative-jason-chaffetz-chairman-of-
 
 ### [2017-04-19](/news/2017/04/19/index.md)
 
+##### United States House of Representatives elections, 2018
 # Utah representative Jason Chaffetz, chairman of the House Oversight Committee, announces that he will not run for re-election next year. 
 
 

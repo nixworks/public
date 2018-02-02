@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/18/conflict-in-iraq-two-u-s-marines-and-around-four-iraqi-insurgents-are-killed-in-western-iraq.html)  [JSON](/news/2005/10/18/conflict-in-iraq-two-u-s-marines-and-around-four-iraqi-insurgents-are-killed-in-western-iraq.json)  [XML](/news/2005/10/18/conflict-in-iraq-two-u-s-marines-and-around-four-iraqi-insurgents-are-killed-in-western-iraq.xml)  
+
 ### [2005-10-18](/news/2005/10/18/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Two U.S. Marines and around four Iraqi insurgents are killed in Western Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://www.kvoa.com/Global/story.asp?S=3992198&nav=HMO6)
 

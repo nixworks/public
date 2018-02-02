@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/4/latvia-s-minister-of-agriculture-resigns-in-the-wake-of-growing-protests-by-farmers.html)  [JSON](/news/2009/02/4/latvia-s-minister-of-agriculture-resigns-in-the-wake-of-growing-protests-by-farmers.json)  [XML](/news/2009/02/4/latvia-s-minister-of-agriculture-resigns-in-the-wake-of-growing-protests-by-farmers.xml)  
+
 ### [2009-02-4](/news/2009/02/4/index.md)
 
+##### Latvia
 #  Latvia's Minister of Agriculture resigns in the wake of growing protests by farmers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7869670.stm)
 

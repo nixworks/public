@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2013/03/16/voters-in-zimbabwe-go-to-the-polls-to-vote-on-a-new-constitution-with-both-major-parties-zanu-pf-and-movement-for-democratic-change-nbsp-a.html)  [JSON](/news/2013/03/16/voters-in-zimbabwe-go-to-the-polls-to-vote-on-a-new-constitution-with-both-major-parties-zanu-pf-and-movement-for-democratic-change-nbsp-a.json)  [XML](/news/2013/03/16/voters-in-zimbabwe-go-to-the-polls-to-vote-on-a-new-constitution-with-both-major-parties-zanu-pf-and-movement-for-democratic-change-nbsp-a.xml)  
+
 ### [2013-03-16](/news/2013/03/16/index.md)
 
+##### Zimbabwe
 # Voters in Zimbabwe go to the polls to vote on a new constitution with both major parties Zanu-PF and Movement for Democratic Change&nbsp;- Tsvangirai supporting the new constitution. 
 
 Zimbabweans have been voting in a key referendum on a new constitution that would limit future presidents to two terms in office.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21810448)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66428000/jpg/_66428611_66428610.jpg)
-
-### Related:
-
-1. [The Zimbabwe Electoral Commission says that Robert Mugabe's ZANU-PF party has won 142 seats of 210 seats in the general election. ](/news/2013/08/2/the-zimbabwe-electoral-commission-says-that-robert-mugabe-s-zanu-pf-party-has-won-142-seats-of-210-seats-in-the-general-election.md) _Context: Zimbabwe, ruling party_
-2. [Supporters of Zimbabwean President Robert Mugabe stone delegates meeting in the capital Harare to create a new constitution, injuring five people. ](/news/2010/09/19/supporters-of-zimbabwean-president-robert-mugabe-stone-delegates-meeting-in-the-capital-harare-to-create-a-new-constitution-injuring-five-p.md) _Context: Zimbabwe, new constitution_
-3. [ The MDC partially pulls out of the unity government with Zanu PF in Zimbabwe after one of their members, Roy Bennett is detained on terrorism charges. ](/news/2009/10/16/the-mdc-partially-pulls-out-of-the-unity-government-with-zanu-pf-in-zimbabwe-after-one-of-their-members-roy-bennett-is-detained-on-terrori.md) _Context: Zimbabwe, ruling party_
-4. [ ZANU-PF party members walk out of a meeting of Zimbabwe cabinet members to review the work of a unity government it has formed with its opponents, over charges of electoral fraud. ](/news/2009/08/23/zanu-pf-party-members-walk-out-of-a-meeting-of-zimbabwe-cabinet-members-to-review-the-work-of-a-unity-government-it-has-formed-with-its-opp.md) _Context: Zimbabwe, ruling party_
-5. [ The ZANU-PF political party in Zimbabwe declares its support for making President Robert Mugabe, head of state since 1979, president-for-life. ](/news/2007/07/31/the-zanu-pf-political-party-in-zimbabwe-declares-its-support-for-making-president-robert-mugabe-head-of-state-since-1979-president-for-li.md) _Context: Zimbabwe, ruling party_
 
 ### Changes:
 
 1. [Voters in Zimbabwe go to the polls to vote on a new constitution with both major parties Zanu-PF and Movement for Democratic Change&nbsp;- Tsvangirai supporting the new constitution. ](/news/2013/03/16/voters-in-zimbabwe-go-to-the-polls-to-vote-on-a-new-constitution-with-both-major-parties-zanu-pf-and-movement-for-democratic-change-nbsp.md) _2017-08-27 03:38:02 (First version)_
 1. [Voters in Zimbabwe go to the polls to vote on a new constitution with both major parties Zanu-PF and Movement for Democratic Change&nbsp;- Tsvangirai supporting the new constitution. ](/news/2013/03/16/voters-in-zimbabwe-go-to-the-polls-to-vote-on-a-new-constitution-with-both-major-parties-zanu-pf-and-movement-for-democratic-change-nbsp-a.md) _(Current version)_
+
+### Related:
+
+1. [ Zimbabwe parliamentary elections, 2005: In Zimbabwe, the ruling Zanu-PF gains a two-thirds majority over opposition party Movement for Democratic Change amidst claims of dis-enfranchisement and fraud. ](/news/2005/04/1/zimbabwe-parliamentary-elections-2005-in-zimbabwe-the-ruling-zanu-pf-gains-a-two-thirds-majority-over-opposition-party-movement-for-demo.md) _Context: Zanu-PF, Zimbabwe_
+2. [Emmerson Mnangagwa is fired as Vice President by Zimbabwe President Robert Mugabe. The public and the media widely perceives Mugabe's wife Grace as his likely successor after his death with Mnangagwa having been seen as her rival. ](/news/2017/11/6/emmerson-mnangagwa-is-fired-as-vice-president-by-zimbabwe-president-robert-mugabe-the-public-and-the-media-widely-perceives-mugabe-s-wife-g.md) _Context: Zimbabwe_
+3. [Zimbabwe accuses American citizen Martha O'Donovan of trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.md) _Context: Zimbabwe_
+4. [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md) _Context: Zimbabwe_
+5. [Since December, flooding in Zimbabwe has killed 246 people and nearly 2,000 more have been left homeless, according to officials. ](/news/2017/03/3/since-december-flooding-in-zimbabwe-has-killed-246-people-and-nearly-2-000-more-have-been-left-homeless-according-to-officials.md) _Context: Zimbabwe_

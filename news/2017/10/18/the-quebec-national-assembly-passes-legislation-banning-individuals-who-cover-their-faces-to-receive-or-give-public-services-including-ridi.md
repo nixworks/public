@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/18/the-quebec-national-assembly-passes-legislation-banning-individuals-who-cover-their-faces-to-receive-or-give-public-services-including-ridi.html)  [JSON](/news/2017/10/18/the-quebec-national-assembly-passes-legislation-banning-individuals-who-cover-their-faces-to-receive-or-give-public-services-including-ridi.json)  [XML](/news/2017/10/18/the-quebec-national-assembly-passes-legislation-banning-individuals-who-cover-their-faces-to-receive-or-give-public-services-including-ridi.xml)  
+
 ### [2017-10-18](/news/2017/10/18/index.md)
 
+##### Law in Quebec
 # The Quebec National Assembly passes legislation banning individuals who cover their faces to receive or give public services, including riding public buses. 
 
 Law requires individuals to uncover their faces when receiving public services, including riding public buses. 

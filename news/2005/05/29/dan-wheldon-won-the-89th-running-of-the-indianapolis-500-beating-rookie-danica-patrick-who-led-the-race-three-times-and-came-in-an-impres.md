@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/29/dan-wheldon-won-the-89th-running-of-the-indianapolis-500-beating-rookie-danica-patrick-who-led-the-race-three-times-and-came-in-an-impres.html)  [JSON](/news/2005/05/29/dan-wheldon-won-the-89th-running-of-the-indianapolis-500-beating-rookie-danica-patrick-who-led-the-race-three-times-and-came-in-an-impres.json)  [XML](/news/2005/05/29/dan-wheldon-won-the-89th-running-of-the-indianapolis-500-beating-rookie-danica-patrick-who-led-the-race-three-times-and-came-in-an-impres.xml)  
+
 ### [2005-05-29](/news/2005/05/29/index.md)
 
+##### Dan Wheldon
 #  Dan Wheldon won the 89th running of the Indianapolis 500, beating rookie Danica Patrick, who led the race three times and came in an impressive fourth place 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN/SI](http://sportsillustrated.cnn.com/2005/racing/more/05/29/indy.500.ap/index.html?cnn=yes)
 

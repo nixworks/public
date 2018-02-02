@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/28/bbc-reporter-urunboy-usmonov-imprisoned-in-a-tajikistan-jail-in-dushanbe-is-reported-to-be-frail.html)  [JSON](/news/2011/06/28/bbc-reporter-urunboy-usmonov-imprisoned-in-a-tajikistan-jail-in-dushanbe-is-reported-to-be-frail.json)  [XML](/news/2011/06/28/bbc-reporter-urunboy-usmonov-imprisoned-in-a-tajikistan-jail-in-dushanbe-is-reported-to-be-frail.xml)  
+
 ### [2011-06-28](/news/2011/06/28/index.md)
 
+##### BBC
 # BBC reporter Urunboy Usmonov, imprisoned in a Tajikistan jail in Dushanbe, is reported to be "frail". 
 
 Detained BBC reporter Urunboy Usmonov is both physically and psychologically frail, according to a colleague who visited him in jail in the Tajik capital.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13953216)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53448000/jpg/_53448240_dsc_0160.jpg)

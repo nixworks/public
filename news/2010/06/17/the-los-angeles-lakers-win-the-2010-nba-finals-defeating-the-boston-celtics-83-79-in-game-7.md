@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/17/the-los-angeles-lakers-win-the-2010-nba-finals-defeating-the-boston-celtics-83-79-in-game-7.html)  [JSON](/news/2010/06/17/the-los-angeles-lakers-win-the-2010-nba-finals-defeating-the-boston-celtics-83-79-in-game-7.json)  [XML](/news/2010/06/17/the-los-angeles-lakers-win-the-2010-nba-finals-defeating-the-boston-celtics-83-79-in-game-7.xml)  
+
 ### [2010-06-17](/news/2010/06/17/index.md)
 
+##### Los Angeles Lakers
 # The Los Angeles Lakers win the 2010 NBA Finals defeating the Boston Celtics 83-79 in Game 7. 
 
 First Game 7 of Finals in Five Years Ends with Los Angeles Win
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2010/06/17/sportsline/main6593576.shtml)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2010/06/18/77d1b857-a642-11e2-a3f0-029118418759/image6593554x.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/2/the-u-s-military-identifies-ahmed-qusai-al-taai-an-iraqi-american-translator-as-the-u-s-soldier-kidnapped-at-gunpoint-in-iraq-on-octobe.html)  [JSON](/news/2006/11/2/the-u-s-military-identifies-ahmed-qusai-al-taai-an-iraqi-american-translator-as-the-u-s-soldier-kidnapped-at-gunpoint-in-iraq-on-octobe.json)  [XML](/news/2006/11/2/the-u-s-military-identifies-ahmed-qusai-al-taai-an-iraqi-american-translator-as-the-u-s-soldier-kidnapped-at-gunpoint-in-iraq-on-octobe.xml)  
+
 ### [2006-11-2](/news/2006/11/2/index.md)
 
+##### Military of the United States
 #  The U.S. military identifies Ahmed Qusai al-Taai, an Iraqi-American translator, as the U.S. soldier kidnapped at gunpoint in Iraq on October 23, 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/meast/11/02/iraq.main/index.html)
 

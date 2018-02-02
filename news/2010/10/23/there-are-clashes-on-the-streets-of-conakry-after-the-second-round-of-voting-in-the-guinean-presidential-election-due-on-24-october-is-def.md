@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/23/there-are-clashes-on-the-streets-of-conakry-after-the-second-round-of-voting-in-the-guinean-presidential-election-due-on-24-october-is-def.html)  [JSON](/news/2010/10/23/there-are-clashes-on-the-streets-of-conakry-after-the-second-round-of-voting-in-the-guinean-presidential-election-due-on-24-october-is-def.json)  [XML](/news/2010/10/23/there-are-clashes-on-the-streets-of-conakry-after-the-second-round-of-voting-in-the-guinean-presidential-election-due-on-24-october-is-def.xml)  
+
 ### [2010-10-23](/news/2010/10/23/index.md)
 
+##### Conakry
 # There are clashes on the streets of Conakry after the second round of voting in the Guinean presidential election, due on 24 October, is deferred for the third time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11605121)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

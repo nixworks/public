@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/3/north-korea-asks-for-food-aid-from-the-united-nations-after-last-month-s-floods.html)  [JSON](/news/2012/08/3/north-korea-asks-for-food-aid-from-the-united-nations-after-last-month-s-floods.json)  [XML](/news/2012/08/3/north-korea-asks-for-food-aid-from-the-united-nations-after-last-month-s-floods.xml)  
+
 ### [2012-08-3](/news/2012/08/3/index.md)
 
+##### North Korea
 # North Korea asks for food aid from the United Nations after last month's floods. 
 
 The United Nations says North Korea has requested immediate food aid after floods last month that killed more than 100 people.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19107049)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61918000/jpg/_61918979_015474895-1.jpg)

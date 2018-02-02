@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/19/u-s-military-officials-report-that-102-soldiers-85-of-which-are-serving-in-iraq-kuwait-and-afghanistan-have-contracted-a-rather-rare-b.html)  [JSON](/news/2004/11/19/u-s-military-officials-report-that-102-soldiers-85-of-which-are-serving-in-iraq-kuwait-and-afghanistan-have-contracted-a-rather-rare-b.json)  [XML](/news/2004/11/19/u-s-military-officials-report-that-102-soldiers-85-of-which-are-serving-in-iraq-kuwait-and-afghanistan-have-contracted-a-rather-rare-b.xml)  
+
 ### [2004-11-19](/news/2004/11/19/index.md)
 
+##### U.S. Military
 #  U.S. Military officials report that 102 soldiers, 85% of which are serving in Iraq, Kuwait and Afghanistan, have contracted a rather rare blood infection by Acinetobacter baumannii. Military investigators say there is no evidence of biochemical agents in the infection which surfaces occasionally in unsanitary hospitals, but that some soldiers were arriving with infections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4025171.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4026505.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/18/prime-minister-laisenia-qarase-of-fiji-swears-in-for-a-second-term-after-winning-the-2006-general-election.html)  [JSON](/news/2006/05/18/prime-minister-laisenia-qarase-of-fiji-swears-in-for-a-second-term-after-winning-the-2006-general-election.json)  [XML](/news/2006/05/18/prime-minister-laisenia-qarase-of-fiji-swears-in-for-a-second-term-after-winning-the-2006-general-election.xml)  
+
 ### [2006-05-18](/news/2006/05/18/index.md)
 
+##### Prime Minister
 #  Prime Minister Laisenia Qarase of Fiji swears in for a second term after winning the 2006 general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4988644.stm)
 

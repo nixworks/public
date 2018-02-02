@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/26/spain-s-king-felipe-vi-announces-an-unprecedent
 
 ### [2016-04-26](/news/2016/04/26/index.md)
 
+##### Spanish general election, 2016
 # Spain's King Felipe VI announces an unprecedented, repeat parliamentary election for June 26, 2016, since none of the country's political parties has been able to form a government. The prior election, which was held on December 20, 2015, resulted in a hung parliament. Previously, Spain had been ruled via a two-party system. 
 
 MADRID (AP) — Spain&#039;s King Felipe VI decided Tuesday that none of the country&#039;s political parties has enough support to form a government, setting the stage for an unprecedented repeat election in June, six months after…

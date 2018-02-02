@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/08/6/in-derry-northern-ireland-police-are-attacked-by-people-carrying-petrol-bombs.html)  [JSON](/news/2004/08/6/in-derry-northern-ireland-police-are-attacked-by-people-carrying-petrol-bombs.json)  [XML](/news/2004/08/6/in-derry-northern-ireland-police-are-attacked-by-people-carrying-petrol-bombs.xml)  
+
 ### [2004-08-6](/news/2004/08/6/index.md)
 
+##### Derry
 #  In Derry, Northern Ireland, police are attacked by people carrying petrol bombs. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5893783)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=5893783)
 
 ### Related:
 

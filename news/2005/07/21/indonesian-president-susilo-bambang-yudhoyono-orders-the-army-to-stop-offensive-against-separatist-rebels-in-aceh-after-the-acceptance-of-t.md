@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/07/21/indonesian-president-susilo-bambang-yudhoyono-orders-the-army-to-stop-offensive-against-separatist-rebels-in-aceh-after-the-acceptance-of-t.html)  [JSON](/news/2005/07/21/indonesian-president-susilo-bambang-yudhoyono-orders-the-army-to-stop-offensive-against-separatist-rebels-in-aceh-after-the-acceptance-of-t.json)  [XML](/news/2005/07/21/indonesian-president-susilo-bambang-yudhoyono-orders-the-army-to-stop-offensive-against-separatist-rebels-in-aceh-after-the-acceptance-of-t.xml)  
+
 ### [2005-07-21](/news/2005/07/21/index.md)
 
+##### Susilo Bambang Yudhoyono
 #  Indonesian president Susilo Bambang Yudhoyono orders the army to stop offensive against separatist rebels in Aceh after the acceptance of the new peace deal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=aekidn6UnVX0&refer=top_world_news)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=aekidn6UnVX0&refer=top_world_news)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/158997/1/.html)
 
 ### Related:

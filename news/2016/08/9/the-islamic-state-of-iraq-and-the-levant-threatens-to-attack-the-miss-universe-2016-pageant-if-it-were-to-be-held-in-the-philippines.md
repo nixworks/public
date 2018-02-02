@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/9/the-islamic-state-of-iraq-and-the-levant-threate
 
 ### [2016-08-9](/news/2016/08/9/index.md)
 
+##### ISIL
 # The Islamic State of Iraq and the Levant threatens to attack the Miss Universe 2016 pageant if it were to be held in the Philippines. 
 
 Islamic State jihadis in the Philippines are plotting to attack the Miss Universe contest that will be held in their country in 2017, according to a secret jihadi social media channel accessed by The Foreign Desk.

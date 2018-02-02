@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/13/at-least-40-people-are-injured-on-sagar-island-in-the-ganges-delta-in-clashes-between-supporters-of-the-hindu-nationalist-rashtriya-swayams.html)  [JSON](/news/2008/06/13/at-least-40-people-are-injured-on-sagar-island-in-the-ganges-delta-in-clashes-between-supporters-of-the-hindu-nationalist-rashtriya-swayams.json)  [XML](/news/2008/06/13/at-least-40-people-are-injured-on-sagar-island-in-the-ganges-delta-in-clashes-between-supporters-of-the-hindu-nationalist-rashtriya-swayams.xml)  
+
 ### [2008-06-13](/news/2008/06/13/index.md)
 
+##### Sagar Island
 #  At least 40 people are injured on Sagar Island in the Ganges delta in clashes between supporters of the Hindu nationalist Rashtriya Swayamsevak Sangh and local Muslim villagers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7452132.stm)
 

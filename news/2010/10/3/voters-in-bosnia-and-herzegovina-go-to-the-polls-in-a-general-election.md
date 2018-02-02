@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/3/voters-in-bosnia-and-herzegovina-go-to-the-polls-in-a-general-election.html)  [JSON](/news/2010/10/3/voters-in-bosnia-and-herzegovina-go-to-the-polls-in-a-general-election.json)  [XML](/news/2010/10/3/voters-in-bosnia-and-herzegovina-go-to-the-polls-in-a-general-election.xml)  
+
 ### [2010-10-3](/news/2010/10/3/index.md)
 
+##### Bosnia and Herzegovina
 # Voters in Bosnia and Herzegovina go to the polls in a general election. 
 
 Political stalemate likely to continue as voters are expected to cast their ballots largely along ethnic lines.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/europe/2010/10/201010314621960702.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/3/201010321433280734_20.jpg)

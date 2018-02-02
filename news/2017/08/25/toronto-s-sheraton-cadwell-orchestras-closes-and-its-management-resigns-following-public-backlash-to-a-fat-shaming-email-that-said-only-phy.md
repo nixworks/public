@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/25/toronto-s-sheraton-cadwell-orchestras-closes-an
 
 ### [2017-08-25](/news/2017/08/25/index.md)
 
+##### Culture in Toronto
 # Toronto's Sheraton Cadwell Orchestras closes and its management resigns following public backlash to a fat-shaming email that said only "physically fit and slim" singers would be featured in shows. 
 
 It was over before the ladies who weren’t “physically fit” could sing

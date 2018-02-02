@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/06/27/in-the-philippines-president-gloria-arroyo-apologizes-and-admits-that-she-took-a-phonecall-to-an-election-official-during-the-presidential.html)  [JSON](/news/2005/06/27/in-the-philippines-president-gloria-arroyo-apologizes-and-admits-that-she-took-a-phonecall-to-an-election-official-during-the-presidential.json)  [XML](/news/2005/06/27/in-the-philippines-president-gloria-arroyo-apologizes-and-admits-that-she-took-a-phonecall-to-an-election-official-during-the-presidential.xml)  
+
 ### [2005-06-27](/news/2005/06/27/index.md)
 
+##### Philippines
 #  In the Philippines, president Gloria Arroyo apologizes and admits that she took a phonecall to an election official during the presidential elections last. She denies any vote fixing and refuses to resign. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8909718)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8909718)
 2. [Sun Star](http://www.mb.com.ph/MAIN2005062838072.html)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

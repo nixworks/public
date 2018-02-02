@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/18/the-h5n1-strain-of-avian-influenza-is-reported-in-sudan-following-reports-in-neighbouring-egypt.html)  [JSON](/news/2006/04/18/the-h5n1-strain-of-avian-influenza-is-reported-in-sudan-following-reports-in-neighbouring-egypt.json)  [XML](/news/2006/04/18/the-h5n1-strain-of-avian-influenza-is-reported-in-sudan-following-reports-in-neighbouring-egypt.xml)  
+
 ### [2006-04-18](/news/2006/04/18/index.md)
 
+##### bird flu
 #  The H5N1 strain of avian influenza is reported in Sudan following reports in neighbouring Egypt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4919852.stm)
 

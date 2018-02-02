@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/12/21/a-bomb-explodes-near-a-nightclub-in-spain-but-no-one-is-hurt-the-basque-separatist-movement-eta-claims-responsibility.html)  [JSON](/news/2005/12/21/a-bomb-explodes-near-a-nightclub-in-spain-but-no-one-is-hurt-the-basque-separatist-movement-eta-claims-responsibility.json)  [XML](/news/2005/12/21/a-bomb-explodes-near-a-nightclub-in-spain-but-no-one-is-hurt-the-basque-separatist-movement-eta-claims-responsibility.xml)  
+
 ### [2005-12-21](/news/2005/12/21/index.md)
 
+##### Spain
 #  A bomb explodes near a nightclub in Spain, but no one is hurt. The Basque separatist movement ETA claims responsibility. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://news.yahoo.com/s/ap/20051222/ap_on_re_eu/spain_nightclub_bomb;_ylt=AkgoVRodugPTGbBInj4fxu5n.3QA;_ylu=X3oDMTA3b3JuZGZhBHNlYwM3MjE-)
+1. [Reuters](https://news.yahoo.com/s/ap/20051222/ap_on_re_eu/spain_nightclub_bomb;_ylt=AkgoVRodugPTGbBInj4fxu5n.3QA;_ylu=X3oDMTA3b3JuZGZhBHNlYwM3MjE-)
 
 ### Related:
 

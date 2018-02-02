@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/14/the-royal-malaysian-police-obtain-a-remand-order-to-hold-nathaniel-tan-for-four-days-in-connection-to-an-investigation-of-a-violation-of-se.html)  [JSON](/news/2007/07/14/the-royal-malaysian-police-obtain-a-remand-order-to-hold-nathaniel-tan-for-four-days-in-connection-to-an-investigation-of-a-violation-of-se.json)  [XML](/news/2007/07/14/the-royal-malaysian-police-obtain-a-remand-order-to-hold-nathaniel-tan-for-four-days-in-connection-to-an-investigation-of-a-violation-of-se.xml)  
+
 ### [2007-07-14](/news/2007/07/14/index.md)
 
+##### Royal Police
 #  The Royal Malaysian Police obtain a remand order to hold Nathaniel Tan for four days in connection to an investigation of a violation of section 8 of the Official Secrets Act, which pertains to "wrongful communication" of an official secret. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Star, Malaysia](http://thestar.com.my/news/story.asp?file=/2007/7/14/nation/20070714182404&sec=nation)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/31/serbia-withdraws-arrest-warrant-of-mirjana-markovia-wife-of-slobodan-miloa-evia.html)  [JSON](/news/2005/05/31/serbia-withdraws-arrest-warrant-of-mirjana-markovia-wife-of-slobodan-miloa-evia.json)  [XML](/news/2005/05/31/serbia-withdraws-arrest-warrant-of-mirjana-markovia-wife-of-slobodan-miloa-evia.xml)  
+
 ### [2005-05-31](/news/2005/05/31/index.md)
 
+##### Serbia
 #  Serbia withdraws arrest warrant of Mirjana Markovic, wife of Slobodan Milosevic 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4598007.stm)
 2. [Kosovareport](http://kosovareport.blogspot.com/2005/05/serbia-withdraws-international-arrest.html)

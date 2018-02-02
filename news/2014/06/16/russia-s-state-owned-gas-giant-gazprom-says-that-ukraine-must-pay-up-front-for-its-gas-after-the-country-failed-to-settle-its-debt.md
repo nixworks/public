@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/16/russia-s-state-owned-gas-giant-gazprom-says-that-ukraine-must-pay-up-front-for-its-gas-after-the-country-failed-to-settle-its-debt.html)  [JSON](/news/2014/06/16/russia-s-state-owned-gas-giant-gazprom-says-that-ukraine-must-pay-up-front-for-its-gas-after-the-country-failed-to-settle-its-debt.json)  [XML](/news/2014/06/16/russia-s-state-owned-gas-giant-gazprom-says-that-ukraine-must-pay-up-front-for-its-gas-after-the-country-failed-to-settle-its-debt.xml)  
+
 ### [2014-06-16](/news/2014/06/16/index.md)
 
+##### Russia
 # Russia's state-owned gas giant Gazprom says that Ukraine must pay up front for its gas after the country failed to settle its debt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27862849#)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75568000/jpg/_75568033_022719205.jpg)

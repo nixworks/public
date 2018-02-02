@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2012/09/5/a-7-6-magnitude-earthquake-87-miles-west-of-the-costa-rican-capital-of-san-jose-triggers-a-tsunami-alert-for-the-coastlines-of-costa-rica-p.html)  [JSON](/news/2012/09/5/a-7-6-magnitude-earthquake-87-miles-west-of-the-costa-rican-capital-of-san-jose-triggers-a-tsunami-alert-for-the-coastlines-of-costa-rica-p.json)  [XML](/news/2012/09/5/a-7-6-magnitude-earthquake-87-miles-west-of-the-costa-rican-capital-of-san-jose-triggers-a-tsunami-alert-for-the-coastlines-of-costa-rica-p.xml)  
+
 ### [2012-09-5](/news/2012/09/5/index.md)
 
+##### 7.6-magnitude earthquake
 # A 7.6-magnitude earthquake 87 miles west of the Costa Rican capital of San Jos triggers a tsunami alert for the coastlines of Costa Rica, Panama and Nicaragua. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/09/05/world/americas/costa-rica-earthquake/index.html?hpt=hp_t1)
-2. [USGS](http://earthquake.usgs.gov/earthquakes/eventpage/usc000cfsd#summary)
+2. [USGS](https://earthquake.usgs.gov/earthquakes/eventpage/usc000cfsd#summary)
+2. [Cover Image](https://earthquake.usgs.gov/earthquakes/eventpage/images/logos/usgs-logo-facebook.jpg)
 
 ### Related:
 

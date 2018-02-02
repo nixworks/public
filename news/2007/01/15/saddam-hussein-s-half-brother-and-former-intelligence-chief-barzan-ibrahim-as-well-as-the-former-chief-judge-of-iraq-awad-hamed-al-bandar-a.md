@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/15/saddam-hussein-s-half-brother-and-former-intelligence-chief-barzan-ibrahim-as-well-as-the-former-chief-judge-of-iraq-awad-hamed-al-bandar-a.html)  [JSON](/news/2007/01/15/saddam-hussein-s-half-brother-and-former-intelligence-chief-barzan-ibrahim-as-well-as-the-former-chief-judge-of-iraq-awad-hamed-al-bandar-a.json)  [XML](/news/2007/01/15/saddam-hussein-s-half-brother-and-former-intelligence-chief-barzan-ibrahim-as-well-as-the-former-chief-judge-of-iraq-awad-hamed-al-bandar-a.xml)  
+
 ### [2007-01-15](/news/2007/01/15/index.md)
 
+##### Saddam Hussein
 #  Saddam Hussein's half-brother and former intelligence chief Barzan Ibrahim as well as the former chief judge of Iraq Awad Hamed al-Bandar are hanged before dawn. According to the video released by the Iraqi government, the head of Barzan Ibrahim was separated from the rest of his body. Although government officials call the beheading an accident, many Iraqi Sunnis still express umbrage toward the decapitation, accusing the Iraqi government of mutilating the body. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6263787.stm)
 2. [CNN](http://www.cnn.com/2007/WORLD/meast/01/15/iraq.executions/index.html)

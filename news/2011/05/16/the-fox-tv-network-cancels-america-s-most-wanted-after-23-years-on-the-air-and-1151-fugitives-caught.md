@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/16/the-fox-tv-network-cancels-america-s-most-wanted-after-23-years-on-the-air-and-1151-fugitives-caught.html)  [JSON](/news/2011/05/16/the-fox-tv-network-cancels-america-s-most-wanted-after-23-years-on-the-air-and-1151-fugitives-caught.json)  [XML](/news/2011/05/16/the-fox-tv-network-cancels-america-s-most-wanted-after-23-years-on-the-air-and-1151-fugitives-caught.xml)  
+
 ### [2011-05-16](/news/2011/05/16/index.md)
 
+##### Fox Broadcasting Company
 # The Fox TV network cancels "America's Most Wanted" after 23 years on the air and 1151 fugitives caught. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox40](http://www.fox40.com/ktxl-fox-cancels-americas-most-wanted-show-helped-solve-some-local-cases-20110516,0,2985215.story)
 

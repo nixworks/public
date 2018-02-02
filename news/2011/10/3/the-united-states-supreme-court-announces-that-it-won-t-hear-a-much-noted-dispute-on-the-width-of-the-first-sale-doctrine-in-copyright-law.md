@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/10/3/the-united-states-supreme-court-announces-that-it-won-t-hear-a-much-noted-dispute-on-the-width-of-the-first-sale-doctrine-in-copyright-law.html)  [JSON](/news/2011/10/3/the-united-states-supreme-court-announces-that-it-won-t-hear-a-much-noted-dispute-on-the-width-of-the-first-sale-doctrine-in-copyright-law.json)  [XML](/news/2011/10/3/the-united-states-supreme-court-announces-that-it-won-t-hear-a-much-noted-dispute-on-the-width-of-the-first-sale-doctrine-in-copyright-law.xml)  
+
 ### [2011-10-3](/news/2011/10/3/index.md)
 
+##### United States Supreme Court
 # The United States Supreme Court announces that it won't hear a much-noted dispute on the width of the "first sale" doctrine in copyright law. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/business/technology/supreme-court-wont-hear-appeal-from-man-who-wants-to-resell-used-software/2011/10/03/gIQAF16xHL_story.html)
+1. [Washington Post](https://www.washingtonpost.com/business/technology/supreme-court-wont-hear-appeal-from-man-who-wants-to-resell-used-software/2011/10/03/gIQAF16xHL_story.html)
 
 ### Related:
 

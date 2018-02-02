@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/30/the-supreme-council-of-kyrgyzstan-votes-50-to-1-in-favor-of-amendments-to-the-constitution-giving-greater-power-to-the-executive-branch-aft.html)  [JSON](/news/2006/12/30/the-supreme-council-of-kyrgyzstan-votes-50-to-1-in-favor-of-amendments-to-the-constitution-giving-greater-power-to-the-executive-branch-aft.json)  [XML](/news/2006/12/30/the-supreme-council-of-kyrgyzstan-votes-50-to-1-in-favor-of-amendments-to-the-constitution-giving-greater-power-to-the-executive-branch-aft.xml)  
+
 ### [2006-12-30](/news/2006/12/30/index.md)
 
+##### Supreme Council
 #  The Supreme Council of Kyrgyzstan votes 50 to 1 in favor of amendments to the Constitution giving greater power to the executive branch after President Kurmanbek Bakiyev accuses Parliamentarians of "sabotaging" the political process. The President will now have the power to appoint and dismiss the Prime Minister and his cabinet and regional governors. The SNB, the domestic intelligence organization, will report to the President, not the legislature. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/8401D117-144C-418C-A516-40D93496E7F9.htm)
 

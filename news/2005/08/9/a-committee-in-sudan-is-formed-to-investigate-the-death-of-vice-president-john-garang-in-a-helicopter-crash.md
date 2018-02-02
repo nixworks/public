@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/9/a-committee-in-sudan-is-formed-to-investigate-the-death-of-vice-president-john-garang-in-a-helicopter-crash.html)  [JSON](/news/2005/08/9/a-committee-in-sudan-is-formed-to-investigate-the-death-of-vice-president-john-garang-in-a-helicopter-crash.json)  [XML](/news/2005/08/9/a-committee-in-sudan-is-formed-to-investigate-the-death-of-vice-president-john-garang-in-a-helicopter-crash.xml)  
+
 ### [2005-08-9](/news/2005/08/9/index.md)
 
+##### Sudan
 #  A committee in Sudan is formed to investigate the death of vice-president John Garang in a helicopter crash. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4134160.stm)
 

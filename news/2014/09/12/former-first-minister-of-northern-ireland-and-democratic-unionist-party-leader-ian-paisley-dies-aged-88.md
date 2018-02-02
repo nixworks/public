@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/12/former-first-minister-of-northern-ireland-and-democratic-unionist-party-leader-ian-paisley-dies-aged-88.html)  [JSON](/news/2014/09/12/former-first-minister-of-northern-ireland-and-democratic-unionist-party-leader-ian-paisley-dies-aged-88.json)  [XML](/news/2014/09/12/former-first-minister-of-northern-ireland-and-democratic-unionist-party-leader-ian-paisley-dies-aged-88.xml)  
+
 ### [2014-09-12](/news/2014/09/12/index.md)
 
+##### First Minister of Northern Ireland
 # Former First Minister of Northern Ireland and Democratic Unionist Party leader Ian Paisley dies, aged 88. 
 
 Former first minister and Democratic Unionist Party leader Ian Paisley has died and his wife, Eileen, says the family is heartbroken.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-29177705)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/77550000/jpg/_77550808_1991revianpaisley4.jpg)

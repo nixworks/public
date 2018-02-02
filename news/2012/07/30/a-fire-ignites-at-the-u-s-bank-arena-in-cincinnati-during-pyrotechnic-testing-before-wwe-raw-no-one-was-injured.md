@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/30/a-fire-ignites-at-the-u-s-bank-arena-in-cincinnati-during-pyrotechnic-testing-before-wwe-raw-no-one-was-injured.html)  [JSON](/news/2012/07/30/a-fire-ignites-at-the-u-s-bank-arena-in-cincinnati-during-pyrotechnic-testing-before-wwe-raw-no-one-was-injured.json)  [XML](/news/2012/07/30/a-fire-ignites-at-the-u-s-bank-arena-in-cincinnati-during-pyrotechnic-testing-before-wwe-raw-no-one-was-injured.xml)  
+
 ### [2012-07-30](/news/2012/07/30/index.md)
 
+##### U.S. Bank Arena
 # A fire ignites at the U.S. Bank Arena in Cincinnati during pyrotechnic testing before "WWE Raw". No one was injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WWE](http://www.wwe.com/shows/raw/2012-07-30/cincinnati-fire-delays-raw-start-time-26041408)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/irish-senator-ned-o-sullivan-admits-making-around-a-dozen-of-the-thousands-of-phone-calls-originating-from-da-il-aireann-to-help-td-micha.html)  [JSON](/news/2011/06/29/irish-senator-ned-o-sullivan-admits-making-around-a-dozen-of-the-thousands-of-phone-calls-originating-from-da-il-aireann-to-help-td-micha.json)  [XML](/news/2011/06/29/irish-senator-ned-o-sullivan-admits-making-around-a-dozen-of-the-thousands-of-phone-calls-originating-from-da-il-aireann-to-help-td-micha.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### Ned O'Sullivan
 # Irish senator Ned O'Sullivan admits making "around a dozen" of the thousands of phone calls originating from Dail Eireann to help TD Michael Healy-Rae win a charity reality TV show four years ago. Taxpayers then picked up the bill. 
 
 Fianna Fáil Senator Ned O&#39;Sullivan has said he made &#39;around a dozen&#39; calls and texts in support of Michael Healy-Rae in &#39;Celebrities Go Wild&#39; in 2007.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13954807)
 2. [RTÉ](http://www.rte.ie/news/2011/0629/healyraem.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/24/morrissey-ex-frontman-of-the-smiths-is-hospitalized-after-collapsing-on-stage-while-performing-this-charming-man-during-his-world-tour.html)  [JSON](/news/2009/10/24/morrissey-ex-frontman-of-the-smiths-is-hospitalized-after-collapsing-on-stage-while-performing-this-charming-man-during-his-world-tour.json)  [XML](/news/2009/10/24/morrissey-ex-frontman-of-the-smiths-is-hospitalized-after-collapsing-on-stage-while-performing-this-charming-man-during-his-world-tour.xml)  
+
 ### [2009-10-24](/news/2009/10/24/index.md)
 
+##### Morrissey
 #  Morrissey, ex-frontman of The Smiths, is hospitalized after collapsing on stage while performing "This Charming Man" during his world tour. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/8324492.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/Showbiz-News/Singer-Morrissey-Admitted-To-Hospital-In-Swindon---Condition-Stable/Article/200910415416146?lpos=Showbiz_News_Top_Stories_Header_0&lid=ARTICLE_15416146_Singer_Morrissey_Admitted_To_Hospital_In_Swindon_-_Condition_Stable)

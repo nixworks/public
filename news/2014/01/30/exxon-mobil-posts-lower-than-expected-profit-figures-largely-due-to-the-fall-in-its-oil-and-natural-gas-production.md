@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/01/30/exxon-mobil-posts-lower-than-expected-profit-figures-largely-due-to-the-fall-in-its-oil-and-natural-gas-production.html)  [JSON](/news/2014/01/30/exxon-mobil-posts-lower-than-expected-profit-figures-largely-due-to-the-fall-in-its-oil-and-natural-gas-production.json)  [XML](/news/2014/01/30/exxon-mobil-posts-lower-than-expected-profit-figures-largely-due-to-the-fall-in-its-oil-and-natural-gas-production.xml)  
+
 ### [2014-01-30](/news/2014/01/30/index.md)
 
+##### Exxon Mobil
 # Exxon Mobil posts lower than expected profit figures largely due to the fall in its oil and natural gas production. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/01/30/us-exxonmobil-results-idUSBREA0T0YE20140130)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140130&t=2&i=833964687&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0T10LY00)
+1. [Reuters](https://www.reuters.com/article/2014/01/30/us-exxonmobil-results-idUSBREA0T0YE20140130)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140130&t=2&i=833964687&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA0T10LY00)
 
 ### Related:
 

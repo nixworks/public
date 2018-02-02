@@ -1,26 +1,30 @@
+
+Formats: [HTML](/news/2011/04/20/protests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.html)  [JSON](/news/2011/04/20/protests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.json)  [XML](/news/2011/04/20/protests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.xml)  
+
 ### [2011-04-20](/news/2011/04/20/index.md)
 
+##### Syria
 # Protests continue in Syria despite the lifting of the state of emergency law. 
 
 Anti-government activists to continue rallies and strikes despite cabinet approval for bill to scrap emergency laws.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011420152422234120.html)
 2. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/Syria-arrests-opponent-after-TV-interview-Activist/articleshow/8036592.cms)
 2. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/20/2011420194843960150_20.jpg)
-
-### Related:
-
-1. [ In Syria, the ruling Baath party votes to end the state of emergency that has lasted for 40 years. ](/news/2005/06/9/in-syria-the-ruling-baath-party-votes-to-end-the-state-of-emergency-that-has-lasted-for-40-years.md) _Context: Syria, states of emergency_
-2. [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md) _Context: Syria_
-3. [A Russian Air Force Sukhoi Su-24 crashes at the Khmeimim air base in Latakia province in northwestern Syria, killing the two crewmen. ](/news/2017/10/10/a-russian-air-force-sukhoi-su-24-crashes-at-the-khmeimim-air-base-in-latakia-province-in-northwestern-syria-killing-the-two-crewmen.md) _Context: Syria_
-4. [Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 km-h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency. ](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-km-h-hurricane-warnings-are-issued-for-the-leewa.md) _Context: states of emergency_
-5. [The La Tuna Fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md) _Context: states of emergency_
 
 ### Changes:
 
 1. [2011 Syrian protests:Protests continue in Syria despite the lifting of the state of emergency law. ](/news/2011/04/20/2011-syrian-protests-pprotests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.md) _2017-08-25 03:32:51 (First version)_
 2. [2011 Syrian protests:: Protests continue in Syria despite the lifting of the state of emergency law. ](/news/2011/04/20/2011-syrian-protests-protests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.md) _2017-08-27 03:33:00 (Update)_
 2. [Protests continue in Syria despite the lifting of the state of emergency law. ](/news/2011/04/20/protests-continue-in-syria-despite-the-lifting-of-the-state-of-emergency-law.md) _(Current version)_
+
+### Related:
+
+1. [ In Syria, the ruling Baath party votes to end the state of emergency that has lasted for 40 years. ](/news/2005/06/9/in-syria-the-ruling-baath-party-votes-to-end-the-state-of-emergency-that-has-lasted-for-40-years.md) _Context: Syria, state of emergency_
+2. [The Parliament of Egypt approves, with a two-thirds majority in favour, extending the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-extending-the-nationwide-state-of-emergency-for-a-further-three-mont.md) _Context: state of emergency_
+3. [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md) _Context: Syria_
+4. [Turkish airstrikes and shelling heavily damage the ancient Syro-Hittite Ain Dara temple in Syria's Afrin District. The Directorate-General of Antiquities and Museums calls on the international community to pressure Turkey "to prevent the targeting of archaeological and cultural sites". ](/news/2018/01/28/turkish-airstrikes-and-shelling-heavily-damage-the-ancient-syro-hittite-ain-dara-temple-in-syria-s-afrin-district-the-directorate-general-o.md) _Context: Syria_
+5. [Researchers note that in November 2017, Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally revealed the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/researchers-note-that-in-november-2017-strava-which-processes-data-from-apps-and-internet-of-things-devices-such-as-fitbit-accidentally-r.md) _Context: Syria_

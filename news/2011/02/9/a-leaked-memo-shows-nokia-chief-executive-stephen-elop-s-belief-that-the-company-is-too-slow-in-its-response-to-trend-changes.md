@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/9/a-leaked-memo-shows-nokia-chief-executive-stephen-elop-s-belief-that-the-company-is-too-slow-in-its-response-to-trend-changes.html)  [JSON](/news/2011/02/9/a-leaked-memo-shows-nokia-chief-executive-stephen-elop-s-belief-that-the-company-is-too-slow-in-its-response-to-trend-changes.json)  [XML](/news/2011/02/9/a-leaked-memo-shows-nokia-chief-executive-stephen-elop-s-belief-that-the-company-is-too-slow-in-its-response-to-trend-changes.xml)  
+
 ### [2011-02-9](/news/2011/02/9/index.md)
 
+##### Nokia
 # A leaked memo shows Nokia chief executive Stephen Elop's belief that the company is too slow in its response to trend changes. 
 
 Chief executive said the mobile phone company has been too slow to respond to changes in trends in a leaked memo.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/business/2011/02/201129144053920207.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/2/9/201129153135111140_20.jpg)

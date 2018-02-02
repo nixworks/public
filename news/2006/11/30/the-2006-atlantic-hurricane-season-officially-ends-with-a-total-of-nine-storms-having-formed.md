@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/30/the-2006-atlantic-hurricane-season-officially-ends-with-a-total-of-nine-storms-having-formed.html)  [JSON](/news/2006/11/30/the-2006-atlantic-hurricane-season-officially-ends-with-a-total-of-nine-storms-having-formed.json)  [XML](/news/2006/11/30/the-2006-atlantic-hurricane-season-officially-ends-with-a-total-of-nine-storms-having-formed.xml)  
+
 ### [2006-11-30](/news/2006/11/30/index.md)
 
+##### 2006 Atlantic hurricane season
 #  The 2006 Atlantic hurricane season officially ends with a total of nine storms having formed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2006/11/30/storm/main2218385.shtml)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2006/09/01/d5429f14-a642-11e2-a3f0-029118418759/image1959545x.jpg)

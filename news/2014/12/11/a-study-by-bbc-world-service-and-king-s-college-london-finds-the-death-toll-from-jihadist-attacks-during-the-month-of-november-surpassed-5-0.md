@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/11/a-study-by-bbc-world-service-and-king-s-college-london-finds-the-death-toll-from-jihadist-attacks-during-the-month-of-november-surpassed-5-0.html)  [JSON](/news/2014/12/11/a-study-by-bbc-world-service-and-king-s-college-london-finds-the-death-toll-from-jihadist-attacks-during-the-month-of-november-surpassed-5-0.json)  [XML](/news/2014/12/11/a-study-by-bbc-world-service-and-king-s-college-london-finds-the-death-toll-from-jihadist-attacks-during-the-month-of-november-surpassed-5-0.xml)  
+
 ### [2014-12-11](/news/2014/12/11/index.md)
 
+##### BBC World Service
 # A study by BBC World Service and King's College London finds the death toll from jihadist attacks during the month of November surpassed 5,000. 
 
 The BBC tracked fatal jihadist attacks around the globe for the month of November.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-30080914)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79686000/jpg/_79686908_promo_464.jpg)

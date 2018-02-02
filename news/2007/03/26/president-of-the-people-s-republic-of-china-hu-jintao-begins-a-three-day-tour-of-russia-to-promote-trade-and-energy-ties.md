@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/26/president-of-the-people-s-republic-of-china-hu-jintao-begins-a-three-day-tour-of-russia-to-promote-trade-and-energy-ties.html)  [JSON](/news/2007/03/26/president-of-the-people-s-republic-of-china-hu-jintao-begins-a-three-day-tour-of-russia-to-promote-trade-and-energy-ties.json)  [XML](/news/2007/03/26/president-of-the-people-s-republic-of-china-hu-jintao-begins-a-three-day-tour-of-russia-to-promote-trade-and-energy-ties.xml)  
+
 ### [2007-03-26](/news/2007/03/26/index.md)
 
+##### Chinese President
 #  President of the People's Republic of China Hu Jintao begins a three-day tour of Russia to promote trade and energy ties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6494327.stm)
 

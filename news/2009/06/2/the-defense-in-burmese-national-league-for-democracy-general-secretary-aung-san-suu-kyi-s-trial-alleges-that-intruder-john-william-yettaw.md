@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/2/the-defense-in-burmese-national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-trial-alleges-that-intruder-john-william-yettaw.html)  [JSON](/news/2009/06/2/the-defense-in-burmese-national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-trial-alleges-that-intruder-john-william-yettaw.json)  [XML](/news/2009/06/2/the-defense-in-burmese-national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-trial-alleges-that-intruder-john-william-yettaw.xml)  
+
 ### [2009-06-2](/news/2009/06/2/index.md)
 
+##### defense
 #  The defense in Burmese National League for Democracy General Secretary Aung San Suu Kyi's trial alleges that intruder John William Yettaw "acted alone". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/world/144903/us-intruder-to-suu-kyi-home-acted-alone-lawyer)
 

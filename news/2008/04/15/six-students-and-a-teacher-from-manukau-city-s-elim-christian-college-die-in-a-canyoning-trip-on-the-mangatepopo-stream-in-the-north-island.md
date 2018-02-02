@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/15/six-students-and-a-teacher-from-manukau-city-s-elim-christian-college-die-in-a-canyoning-trip-on-the-mangatepopo-stream-in-the-north-island.html)  [JSON](/news/2008/04/15/six-students-and-a-teacher-from-manukau-city-s-elim-christian-college-die-in-a-canyoning-trip-on-the-mangatepopo-stream-in-the-north-island.json)  [XML](/news/2008/04/15/six-students-and-a-teacher-from-manukau-city-s-elim-christian-college-die-in-a-canyoning-trip-on-the-mangatepopo-stream-in-the-north-island.xml)  
+
 ### [2008-04-15](/news/2008/04/15/index.md)
 
+##### Manukau City
 #  Six students and a teacher from Manukau City's Elim Christian College die in a canyoning trip on the Mangatepopo Stream in the North Island's Tongariro National Park in New Zealand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/story/0,23599,23545793-2,00.html)
 

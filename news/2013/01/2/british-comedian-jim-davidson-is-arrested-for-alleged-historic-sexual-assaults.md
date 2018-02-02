@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/2/british-comedian-jim-davidson-is-arrested-for-alleged-historic-sexual-assaults.html)  [JSON](/news/2013/01/2/british-comedian-jim-davidson-is-arrested-for-alleged-historic-sexual-assaults.json)  [XML](/news/2013/01/2/british-comedian-jim-davidson-is-arrested-for-alleged-historic-sexual-assaults.xml)  
+
 ### [2013-01-2](/news/2013/01/2/index.md)
 
+##### British
 # British comedian Jim Davidson is arrested for alleged historic sexual assaults. 
 
 Comedian Jim Davidson, who was arrested by detectives investigating the Jimmy Savile sex abuse scandal, &#034;vigorously denies&#034; the allegations against him, his solicitor said.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/crime/jimmy-savile/9776812/Jim-Davidson-vigorously-denies-allegations-after-arrest-by-Jimmy-Savile-police.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01986/jim-davidson_620_1986636a.jpg)

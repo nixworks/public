@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/1/in-a-major-policy-speech-south-african-president-jacob-zuma-announces-the-country-will-treat-all-hiv-positive-babies-and-expand-testing.html)  [JSON](/news/2009/12/1/in-a-major-policy-speech-south-african-president-jacob-zuma-announces-the-country-will-treat-all-hiv-positive-babies-and-expand-testing.json)  [XML](/news/2009/12/1/in-a-major-policy-speech-south-african-president-jacob-zuma-announces-the-country-will-treat-all-hiv-positive-babies-and-expand-testing.xml)  
+
 ### [2009-12-1](/news/2009/12/1/index.md)
 
+##### South Africa
 #  In a major policy speech, South African President Jacob Zuma announces the country will treat all HIV positive babies and expand testing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5j9xIuPPc3LovwGSJhMI6M5WdM1QwD9CAHMRG3)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/12/2009121115918772701.html)

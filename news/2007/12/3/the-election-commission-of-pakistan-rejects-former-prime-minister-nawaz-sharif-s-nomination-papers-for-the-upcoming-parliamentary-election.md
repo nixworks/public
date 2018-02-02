@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/12/3/the-election-commission-of-pakistan-rejects-former-prime-minister-nawaz-sharif-s-nomination-papers-for-the-upcoming-parliamentary-election.html)  [JSON](/news/2007/12/3/the-election-commission-of-pakistan-rejects-former-prime-minister-nawaz-sharif-s-nomination-papers-for-the-upcoming-parliamentary-election.json)  [XML](/news/2007/12/3/the-election-commission-of-pakistan-rejects-former-prime-minister-nawaz-sharif-s-nomination-papers-for-the-upcoming-parliamentary-election.xml)  
+
 ### [2007-12-3](/news/2007/12/3/index.md)
 
+##### Pakistan
 #  The Election Commission of Pakistan rejects former Prime Minister Nawaz Sharif's nomination papers for the upcoming parliamentary election. ([http:--www.dailytimes.com.pk-default.asp?page=2007%5C12%5C04%5Cstory_4-12-2007_pg1_5 "Daily Times"])
 
 

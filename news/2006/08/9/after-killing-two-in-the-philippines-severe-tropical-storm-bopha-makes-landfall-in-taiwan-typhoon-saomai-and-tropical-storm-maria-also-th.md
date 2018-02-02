@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/9/after-killing-two-in-the-philippines-severe-tropical-storm-bopha-makes-landfall-in-taiwan-typhoon-saomai-and-tropical-storm-maria-also-th.html)  [JSON](/news/2006/08/9/after-killing-two-in-the-philippines-severe-tropical-storm-bopha-makes-landfall-in-taiwan-typhoon-saomai-and-tropical-storm-maria-also-th.json)  [XML](/news/2006/08/9/after-killing-two-in-the-philippines-severe-tropical-storm-bopha-makes-landfall-in-taiwan-typhoon-saomai-and-tropical-storm-maria-also-th.xml)  
+
 ### [2006-08-9](/news/2006/08/9/index.md)
 
+##### Philippines
 #  After killing two in the Philippines, Severe Tropical Storm Bopha makes landfall in Taiwan. Typhoon Saomai and Tropical Storm Maria also threaten to make landfall, on the Chinese mainland and Japan respectively. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Malaysia Star](http://thestar.com.my/news/story.asp?file=/2006/8/9/apworld/20060809104436&sec=apworld)
 2. [The China Post](http://www.chinapost.com.tw/asiapacific/detail.asp?ID=87496&GRP=C)

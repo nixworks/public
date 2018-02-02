@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2011/11/12/two-massive-explosions-occur-at-a-revolutionary-guard-ammunition-depot-western-of-the-iranian-capital-tehran-at-least-17-people-including.html)  [JSON](/news/2011/11/12/two-massive-explosions-occur-at-a-revolutionary-guard-ammunition-depot-western-of-the-iranian-capital-tehran-at-least-17-people-including.json)  [XML](/news/2011/11/12/two-massive-explosions-occur-at-a-revolutionary-guard-ammunition-depot-western-of-the-iranian-capital-tehran-at-least-17-people-including.xml)  
+
 ### [2011-11-12](/news/2011/11/12/index.md)
 
+##### Two massive explosions
 # Two massive explosions occur at a Revolutionary Guard ammunition depot western of the Iranian capital, Tehran; at least 17 people, including a senior commander, are killed according to Iranian state media. Mossad assumed responsible. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/11/12/world/meast/iran-blast/)
 2. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/western-official-israel-is-behind-recent-iran-explosion-1.395512)
 3. [PressTV](http://www.presstv.ir/detail/209665.html)
-4. [The Washington Post](http://www.washingtonpost.com/politics/courts-law/iran-exile-group-claims-blast-near-tehran-hit-closely-guarded-missile-base/2011/11/12/gIQArKv4FN_story.html)
+4. [The Washington Post](https://www.washingtonpost.com/politics/courts-law/iran-exile-group-claims-blast-near-tehran-hit-closely-guarded-missile-base/2011/11/12/gIQArKv4FN_story.html)
 4. [Cover Image](http://www.haaretz.com/polopoly_fs/1.395513.1321263501!/image/3449793502.jpg_gen/derivatives/headline_1200x630/3449793502.jpg)
 
 ### Related:

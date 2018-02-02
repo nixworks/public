@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/16/the-national-prosecuting-authority-of-south-africa-intends-to-charge-64-men-including-the-61-men-released-from-zimbabwe-under-its-anti-me.html)  [JSON](/news/2005/05/16/the-national-prosecuting-authority-of-south-africa-intends-to-charge-64-men-including-the-61-men-released-from-zimbabwe-under-its-anti-me.json)  [XML](/news/2005/05/16/the-national-prosecuting-authority-of-south-africa-intends-to-charge-64-men-including-the-61-men-released-from-zimbabwe-under-its-anti-me.xml)  
+
 ### [2005-05-16](/news/2005/05/16/index.md)
 
+##### National Prosecuting Authority
 #  The National Prosecuting Authority of South Africa intends to charge 64 men, including the 61 men released from Zimbabwe, under its anti-mercenary laws. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=15&art_id=qw111624984044B216)
 2. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:4288d9fc:cbb1342f62addb86?type=topNews&localeKey=en_ZA&storyID=8504926)

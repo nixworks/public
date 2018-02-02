@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/23/moscow-theatre-siege-second-chechen-war-suspected-chechen-guerrillas-took-hundreds-hostage-in-a-theater-in-moscow-threatening-to-blow-up.html)  [JSON](/news/2002/10/23/moscow-theatre-siege-second-chechen-war-suspected-chechen-guerrillas-took-hundreds-hostage-in-a-theater-in-moscow-threatening-to-blow-up.json)  [XML](/news/2002/10/23/moscow-theatre-siege-second-chechen-war-suspected-chechen-guerrillas-took-hundreds-hostage-in-a-theater-in-moscow-threatening-to-blow-up.xml)  
+
 ### [2002-10-23](/news/2002/10/23/index.md)
 
+##### Moscow theatre siege
 #  Moscow theatre siege, Second Chechen War: Suspected Chechen guerrillas took hundreds hostage in a theater in Moscow, threatening to blow up the building and demanding withdrawal of Russian troops from Chechnya.
 
 

@@ -1,25 +1,29 @@
+
+Formats: [HTML](/news/2010/01/3/several-british-muslim-writers-speak-out-about-prime-suspect-writer-lynda-la-plante-s-complaint-against-the-bbc-regarding-how-much-more-di.html)  [JSON](/news/2010/01/3/several-british-muslim-writers-speak-out-about-prime-suspect-writer-lynda-la-plante-s-complaint-against-the-bbc-regarding-how-much-more-di.json)  [XML](/news/2010/01/3/several-british-muslim-writers-speak-out-about-prime-suspect-writer-lynda-la-plante-s-complaint-against-the-bbc-regarding-how-much-more-di.xml)  
+
 ### [2010-01-3](/news/2010/01/3/index.md)
 
+##### British
 # Several British Muslim writers speak out about "Prime Suspect" writer Lynda La Plante's complaint against the BBC regarding how much more difficult it is to have her scripts commissioned than it would be for a "little Muslim boy". 
 
 Muslim writers have hit back at the crime doyenne Lynda La Plante after she claimed they found it easier to get scripts commissioned by the BBC than she does.
 
 
-### Source:
+### Sources:
 
 1. [Scotland on Sunday](http://scotlandonsunday.scotsman.com/uk/La-Plante-says-BBC-favours.5952013.jp)
-2. [The Independent](http://www.independent.co.uk/news/media/tv-radio/muslim-writers-say-la-plante-attack-on-bbc-is-insulting-1856179.html)
+2. [The Independent](https://www.independent.co.uk/news/media/tv-radio/muslim-writers-say-la-plante-attack-on-bbc-is-insulting-1856179.html)
 2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/01/02/23/287394.bin)
-
-### Related:
-
-1. [The Nobel Committee awards Swiss Jacques Dubochet, German Joachim Frank, and British Richard Henderson the Nobel Prize in Chemistry for developing cryo-electron microscopy for the high-resolution structural determination of biomolecules in a solution. ](/news/2017/10/4/the-nobel-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-for-deve.md) _Context: British_
-2. [The BBC plans to launch a service in Korean. ](/news/2017/09/25/the-bbc-plans-to-launch-a-service-in-korean.md) _Context: BBC_
-3. [Several thousand Palestinians protest Israel's installation of metal detectors and a ban on Muslim men under the age of 50 in response to the killing of two Israeli policemen last Friday at a contested Jerusalem holy place, known to Muslims as the Noble Sanctuary and to Jews as the Temple Mount.Protest marches are also held in Indonesia, Jordan, Lebanon, Malaysia, and TurkeyThree Palestinians are killed, 390 people injured with dozens hospitalized in clashes in Jerusalem and the West Bank, according to the Red Crescent. Israeli police report five officers are wounded.2017 Halamish stabbing attack: Three Israelis are stabbed to death by a Palestinian in their home while eating dinner, according to Israeli officials.United Nations deputy spokesman Farhan Haq calls for a de-escalation of violence and tensions at this site.Egypt calls for an immediate halt to the violence underway around this site, urging Israel to show respect for Muslim sacred sites while accusing it of fomenting these tensions.Turkish Prime Minister Binali Yildirim says his country is in dialogue with Israel to end the crisis.Palestinian President Mahmoud Abbas says the Palestinian leadership will "freeze contacts" with Israel "on all levels."](/news/2017/07/21/several-thousand-palestinians-protest-israel-s-installation-of-metal-detectors-and-a-ban-on-muslim-men-under-the-age-of-50-in-response-to-th.md) _Context: Muslim_
-4. [Jodie Whittaker has been announced to be replacing Peter Capaldi as the thirteenth incarnation of The Doctor, becoming the first woman to take the lead role of the BBC's long-running science fiction television series, "Doctor Who". ](/news/2017/07/16/jodie-whittaker-has-been-announced-to-be-replacing-peter-capaldi-as-the-thirteenth-incarnation-of-the-doctor-becoming-the-first-woman-to-ta.md) _Context: BBC_
-5. [CNN denies authenticity of footage documenting its employees manufacturing a protest using unrepresentative Muslim actors. [http:--www.washingtontimes.com-news-2017-jun-5-brian-stelter-cnn-deny-network-staged-london-anti-- (Washington Times) ]](/news/2017/06/3/cnn-denies-authenticity-of-footage-documenting-its-employees-manufacturing-a-protest-using-unrepresentative-muslim-actors-http-www-washi.md) _Context: Muslim_
 
 ### Changes:
 
 1. [Several British Muslim writers speak out about ''Prime Suspect'' writer Lynda La Plante's complaint against the BBC regarding how much more difficult it is to have her scripts commissioned than it would be for a "little Muslim boy". ](/news/2010/01/3/several-british-muslim-writers-speak-out-about-prime-suspect-writer-lynda-la-plante-s-complaint-against-the-bbc-regarding-how-much-more.md) _2017-08-25 03:26:46 (First version)_
 1. [Several British Muslim writers speak out about "Prime Suspect" writer Lynda La Plante's complaint against the BBC regarding how much more difficult it is to have her scripts commissioned than it would be for a "little Muslim boy". ](/news/2010/01/3/several-british-muslim-writers-speak-out-about-prime-suspect-writer-lynda-la-plante-s-complaint-against-the-bbc-regarding-how-much-more-di.md) _(Current version)_
+
+### Related:
+
+1. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: BBC_
+2. [For the first time, Saudi Arabia allows women to spectate at football matches, part of an easing of strict rules on gender separation by the ultra-conservative Muslim country. ](/news/2018/01/12/for-the-first-time-saudi-arabia-allows-women-to-spectate-at-football-matches-part-of-an-easing-of-strict-rules-on-gender-separation-by-the.md) _Context: Muslim_
+3. [The BBC reports that former Prime Minister of the United Kingdom David Cameron is to head a GBP750 million ($1 billion) U.K. private fund to improve air, road and railway links between China and its trading partners. ](/news/2017/12/16/the-bbc-reports-that-former-prime-minister-of-the-united-kingdom-david-cameron-is-to-head-a-agbp750-million-1-billion-u-k-private-fund-t.md) _Context: BBC_
+4. [The BBC reveals that a secret deal in mid-October allowed hundreds of ISIL fighters and their families, including some of their "most notorious members", escape from Raqqa in a convoy that was between 6 to 7 km long. The United States government confirms that the deal with ISIL was made and that the evacuations took place. The possibility of a deal was previously reported as early as October 14. ](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-in-mid-october-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notori.md) _Context: BBC_
+5. [The Nobel Committee awards Swiss Jacques Dubochet, German Joachim Frank, and British Richard Henderson the Nobel Prize in Chemistry for developing cryo-electron microscopy for the high-resolution structural determination of biomolecules in a solution. ](/news/2017/10/4/the-nobel-committee-awards-swiss-jacques-dubochet-german-joachim-frank-and-british-richard-henderson-the-nobel-prize-in-chemistry-for-deve.md) _Context: British_

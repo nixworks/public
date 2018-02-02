@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/17/2008-fa-cup-final-portsmouth-defeats-cardiff-by-a-scoreline-of-1-0-to-lift-the-trophy-for-the-second-time-in-their-history.html)  [JSON](/news/2008/05/17/2008-fa-cup-final-portsmouth-defeats-cardiff-by-a-scoreline-of-1-0-to-lift-the-trophy-for-the-second-time-in-their-history.json)  [XML](/news/2008/05/17/2008-fa-cup-final-portsmouth-defeats-cardiff-by-a-scoreline-of-1-0-to-lift-the-trophy-for-the-second-time-in-their-history.xml)  
+
 ### [2008-05-17](/news/2008/05/17/index.md)
 
+##### 2008 FA Cup Final
 #  2008 FA Cup Final: Portsmouth defeats Cardiff by a scoreline of 1-0 to lift the trophy for the second time in their history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Football Association](http://www.thefa.com/TheFACup/TheFACup/NewsAndFeatures/Postings/FACFinal2008_report.htm)
 

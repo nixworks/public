@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/1/senegalese-election-officials-confirm-that-abdoulaye-wade-has-been-re-elected-as-the-president-of-senegal.html)  [JSON](/news/2007/03/1/senegalese-election-officials-confirm-that-abdoulaye-wade-has-been-re-elected-as-the-president-of-senegal.json)  [XML](/news/2007/03/1/senegalese-election-officials-confirm-that-abdoulaye-wade-has-been-re-elected-as-the-president-of-senegal.xml)  
+
 ### [2007-03-1](/news/2007/03/1/index.md)
 
+##### Senegal
 #  Senegalese election officials confirm that Abdoulaye Wade has been re-elected as the President of Senegal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/english/2007-03-01-voa50.cfm)
 

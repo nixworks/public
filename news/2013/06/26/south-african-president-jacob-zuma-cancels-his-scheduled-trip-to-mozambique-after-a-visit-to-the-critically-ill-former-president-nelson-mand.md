@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/26/south-african-president-jacob-zuma-cancels-his-scheduled-trip-to-mozambique-after-a-visit-to-the-critically-ill-former-president-nelson-mand.html)  [JSON](/news/2013/06/26/south-african-president-jacob-zuma-cancels-his-scheduled-trip-to-mozambique-after-a-visit-to-the-critically-ill-former-president-nelson-mand.json)  [XML](/news/2013/06/26/south-african-president-jacob-zuma-cancels-his-scheduled-trip-to-mozambique-after-a-visit-to-the-critically-ill-former-president-nelson-mand.xml)  
+
 ### [2013-06-26](/news/2013/06/26/index.md)
 
+##### South African President
 # South African President Jacob Zuma cancels his scheduled trip to Mozambique after a visit to the critically ill former president Nelson Mandela in a Pretoria hospital. 
 
 President Jacob Zuma has cancelled a scheduled trip to Mozambique after visiting the critically ill former president Nelson Mandela in hospital.
 
 
-### Source:
+### Sources:
 
 1. [News24](http://www.news24.com/news24/SouthAfrica/News/Zuma-vists-Mandela-cancels-Mozambique-trip-20130626)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2430/c4769dfbb4c6427eb6de832712abc13c.jpg)

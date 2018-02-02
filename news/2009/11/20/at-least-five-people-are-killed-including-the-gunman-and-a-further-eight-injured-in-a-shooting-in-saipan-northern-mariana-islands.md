@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/20/at-least-five-people-are-killed-including-the-gunman-and-a-further-eight-injured-in-a-shooting-in-saipan-northern-mariana-islands.html)  [JSON](/news/2009/11/20/at-least-five-people-are-killed-including-the-gunman-and-a-further-eight-injured-in-a-shooting-in-saipan-northern-mariana-islands.json)  [XML](/news/2009/11/20/at-least-five-people-are-killed-including-the-gunman-and-a-further-eight-injured-in-a-shooting-in-saipan-northern-mariana-islands.xml)  
+
 ### [2009-11-20](/news/2009/11/20/index.md)
 
+##### shooting
 #  At least five people are killed, including the gunman, and a further eight injured in a shooting in Saipan, Northern Mariana Islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5g4ij6BilxyqyjLpHTsmbgnYcKJDAD9C37OV80)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8369779.stm)

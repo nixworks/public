@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/29/at-the-new-york-presbyterian-weill-cornell-medical-center-neil-young-has-successful-surgery-for-a-brain-aneurysm-using-a-minimally-invasiv.html)  [JSON](/news/2005/03/29/at-the-new-york-presbyterian-weill-cornell-medical-center-neil-young-has-successful-surgery-for-a-brain-aneurysm-using-a-minimally-invasiv.json)  [XML](/news/2005/03/29/at-the-new-york-presbyterian-weill-cornell-medical-center-neil-young-has-successful-surgery-for-a-brain-aneurysm-using-a-minimally-invasiv.xml)  
+
 ### [2005-03-29](/news/2005/03/29/index.md)
 
+##### Neil Young
 #  At the New York-Presbyterian-Weill Cornell Medical Center, Neil Young has successful surgery for a brain aneurysm using a minimally invasive neuroradiological procedure. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Neil (CNN](http://www.cnn.com/2005/SHOWBIZ/Music/04/01/neil.young/)
 

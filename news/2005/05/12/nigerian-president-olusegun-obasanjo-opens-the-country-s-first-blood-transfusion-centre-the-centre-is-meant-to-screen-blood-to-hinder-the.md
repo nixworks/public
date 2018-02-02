@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/12/nigerian-president-olusegun-obasanjo-opens-the-country-s-first-blood-transfusion-centre-the-centre-is-meant-to-screen-blood-to-hinder-the.html)  [JSON](/news/2005/05/12/nigerian-president-olusegun-obasanjo-opens-the-country-s-first-blood-transfusion-centre-the-centre-is-meant-to-screen-blood-to-hinder-the.json)  [XML](/news/2005/05/12/nigerian-president-olusegun-obasanjo-opens-the-country-s-first-blood-transfusion-centre-the-centre-is-meant-to-screen-blood-to-hinder-the.xml)  
+
 ### [2005-05-12](/news/2005/05/12/index.md)
 
+##### Nigeria
 #  Nigerian president Olusegun Obasanjo opens the country's first blood transfusion centre. The centre is meant to screen blood to hinder the spread of the AIDS. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L1219712.htm)
 

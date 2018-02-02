@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/3/four-officers-of-the-royal-canadian-mounted-police-are-shot-dead-while-investigating-a-man-suspected-of-stealing-a-pickup-truck-west-of-ed.html)  [JSON](/news/2005/03/3/four-officers-of-the-royal-canadian-mounted-police-are-shot-dead-while-investigating-a-man-suspected-of-stealing-a-pickup-truck-west-of-ed.json)  [XML](/news/2005/03/3/four-officers-of-the-royal-canadian-mounted-police-are-shot-dead-while-investigating-a-man-suspected-of-stealing-a-pickup-truck-west-of-ed.xml)  
+
 ### [2005-03-3](/news/2005/03/3/index.md)
 
+##### Royal Canadian Mounted Police
 #  Four officers of the Royal Canadian Mounted Police are shot dead while investigating a man suspected of stealing a pickup truck, west of Edmonton, Alberta. This is the largest single death toll for RCMP officers since the Northwest Rebellion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2005/03/03/alberta-shooting050303.html)
 

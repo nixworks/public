@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/18/thousands-of-people-celebrate-the-expected-down
 
 ### [2017-11-18](/news/2017/11/18/index.md)
 
+##### 2017 Zimbabwean coup d'etat
 # Thousands of people celebrate the expected downfall of Robert Mugabe in the streets of Harare. 
 
 Pressure grows on the president to stand aside as thousands march to welcome the army takeover.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/26/the-preliminary-results-of-the-referendum-on-an-independence-for-southern-sudan-will-be-announced-in-the-next-few-days-with-final-results-a.html)  [JSON](/news/2011/01/26/the-preliminary-results-of-the-referendum-on-an-independence-for-southern-sudan-will-be-announced-in-the-next-few-days-with-final-results-a.json)  [XML](/news/2011/01/26/the-preliminary-results-of-the-referendum-on-an-independence-for-southern-sudan-will-be-announced-in-the-next-few-days-with-final-results-a.xml)  
+
 ### [2011-01-26](/news/2011/01/26/index.md)
 
+##### Southern Sudanese Independence Referendum
 # The preliminary results of the referendum on an independence for Southern Sudan will be announced in the next few days, with final results as early as February 7; most of the count in the south already completed shows 99% voted for independence.
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/26/sudan.referendum/)
 

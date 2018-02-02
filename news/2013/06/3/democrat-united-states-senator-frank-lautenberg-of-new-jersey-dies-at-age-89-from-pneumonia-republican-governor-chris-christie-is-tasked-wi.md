@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2013/06/3/democrat-united-states-senator-frank-lautenberg-of-new-jersey-dies-at-age-89-from-pneumonia-republican-governor-chris-christie-is-tasked-wi.html)  [JSON](/news/2013/06/3/democrat-united-states-senator-frank-lautenberg-of-new-jersey-dies-at-age-89-from-pneumonia-republican-governor-chris-christie-is-tasked-wi.json)  [XML](/news/2013/06/3/democrat-united-states-senator-frank-lautenberg-of-new-jersey-dies-at-age-89-from-pneumonia-republican-governor-chris-christie-is-tasked-wi.xml)  
+
 ### [2013-06-3](/news/2013/06/3/index.md)
 
+##### Democrat
 # Democrat United States Senator Frank Lautenberg of New Jersey dies at age 89 from pneumonia. Republican governor Chris Christie is tasked with choosing a replacement Senator. [http:--www.washingtontimes.com-news-2013-jun-3-sen-frank-lautenberg-dies-89-new-jersey-democrat-w- "(Washington Post)"]
 
 

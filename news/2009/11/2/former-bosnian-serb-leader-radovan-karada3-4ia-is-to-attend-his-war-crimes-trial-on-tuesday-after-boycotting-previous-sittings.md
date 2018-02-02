@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/2/former-bosnian-serb-leader-radovan-karada3-4ia-is-to-attend-his-war-crimes-trial-on-tuesday-after-boycotting-previous-sittings.html)  [JSON](/news/2009/11/2/former-bosnian-serb-leader-radovan-karada3-4ia-is-to-attend-his-war-crimes-trial-on-tuesday-after-boycotting-previous-sittings.json)  [XML](/news/2009/11/2/former-bosnian-serb-leader-radovan-karada3-4ia-is-to-attend-his-war-crimes-trial-on-tuesday-after-boycotting-previous-sittings.xml)  
+
 ### [2009-11-2](/news/2009/11/2/index.md)
 
+##### Bosnian Serb
 #  Former Bosnian Serb leader Radovan Karadzic is to attend his war crimes trial on Tuesday, after boycotting previous sittings. 
 
 Radovan Karadzic will on Tuesday appear before a United Nations war crimes tribunal in a special hearing that will attempt to end the former Bosnian Serb leader&#039;s boycott of his trial for genocide.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/bosnia/6485467/Radovan-Karadzic-will-appear-in-court-on-Tuesday.html)
 2. [euronews](http://www.euronews.net/2009/11/02/karadzic-to-attend-war-crimes-trial-on-tuesday/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/29/sixteen-shiite-militiamen-are-killed-in-airstrikes-supporting-iraqi-government-forces-during-the-battle-of-basra-2008.html)  [JSON](/news/2008/03/29/sixteen-shiite-militiamen-are-killed-in-airstrikes-supporting-iraqi-government-forces-during-the-battle-of-basra-2008.json)  [XML](/news/2008/03/29/sixteen-shiite-militiamen-are-killed-in-airstrikes-supporting-iraqi-government-forces-during-the-battle-of-basra-2008.xml)  
+
 ### [2008-03-29](/news/2008/03/29/index.md)
 
+##### Shiite
 #  Sixteen Shiite militiamen are killed in airstrikes supporting Iraqi government forces during the Battle of Basra (2008). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5g8-DEMtAE9q4i4ySQ0eV_qZefmRQD8VNEK280)
 

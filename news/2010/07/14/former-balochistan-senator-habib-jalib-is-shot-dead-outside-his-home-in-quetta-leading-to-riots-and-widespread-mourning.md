@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/14/former-balochistan-senator-habib-jalib-is-shot-dead-outside-his-home-in-quetta-leading-to-riots-and-widespread-mourning.html)  [JSON](/news/2010/07/14/former-balochistan-senator-habib-jalib-is-shot-dead-outside-his-home-in-quetta-leading-to-riots-and-widespread-mourning.json)  [XML](/news/2010/07/14/former-balochistan-senator-habib-jalib-is-shot-dead-outside-his-home-in-quetta-leading-to-riots-and-widespread-mourning.xml)  
+
 ### [2010-07-14](/news/2010/07/14/index.md)
 
+##### Balochistan
 # Former Balochistan senator Habib Jalib is shot dead outside his home in Quetta, leading to riots and widespread mourning. 
 
 A former senator from the Pakistani province of Balochistan is shot dead in the provincial capital, Quetta.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/10630993)
 2. [The News International](http://thenews.jang.com.pk/top_story_detail.asp?Id=30050)

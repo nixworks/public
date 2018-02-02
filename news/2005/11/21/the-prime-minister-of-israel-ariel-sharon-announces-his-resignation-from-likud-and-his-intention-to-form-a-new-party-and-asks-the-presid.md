@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/21/the-prime-minister-of-israel-ariel-sharon-announces-his-resignation-from-likud-and-his-intention-to-form-a-new-party-and-asks-the-presid.html)  [JSON](/news/2005/11/21/the-prime-minister-of-israel-ariel-sharon-announces-his-resignation-from-likud-and-his-intention-to-form-a-new-party-and-asks-the-presid.json)  [XML](/news/2005/11/21/the-prime-minister-of-israel-ariel-sharon-announces-his-resignation-from-likud-and-his-intention-to-form-a-new-party-and-asks-the-presid.xml)  
+
 ### [2005-11-21](/news/2005/11/21/index.md)
 
+##### Israeli Prime Minister
 #  The Prime Minister of Israel, Ariel Sharon, announces his resignation from Likud and his intention to form a new party, and asks the President of Israel to call a general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4456242.stm)
 

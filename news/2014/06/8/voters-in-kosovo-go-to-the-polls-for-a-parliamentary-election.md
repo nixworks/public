@@ -1,13 +1,24 @@
+
+Formats: [HTML](/news/2014/06/8/voters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.html)  [JSON](/news/2014/06/8/voters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.json)  [XML](/news/2014/06/8/voters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.xml)  
+
 ### [2014-06-8](/news/2014/06/8/index.md)
 
+##### Kosovo
 # Voters in Kosovo go to the polls for a parliamentary election. 
 
+Kosovar Prime Minister Hashim Thaci’s political party won the second parliamentary elections since independence from Serbia with a promise to improve living standards in one of Europe’s poorest states.
 
 
+### Sources:
 
-### Source:
+1. [Bloomberg](https://www.bloomberg.com/news/2014-06-08/kosovo-votes-as-country-seeks-jobs-and-better-serb-ties.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
-1. [Bloomberg](http://www.bloomberg.com/news/2014-06-08/kosovo-votes-as-country-seeks-jobs-and-better-serb-ties.html)
+### Changes:
+
+1. [Kosovan parliamentary election, 2014:Voters in Kosovo go to the polls for a parliamentary election. ](/news/2014/06/8/kosovan-parliamentary-election-2014-pvoters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.md) _2017-08-25 03:40:31 (First version)_
+2. [Kosovan parliamentary election, 2014:: Voters in Kosovo go to the polls for a parliamentary election. ](/news/2014/06/8/kosovan-parliamentary-election-2014-voters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.md) _2017-08-27 03:40:48 (Update)_
+2. [Voters in Kosovo go to the polls for a parliamentary election. ](/news/2014/06/8/voters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +27,3 @@
 3. [Hashim Thaci is sworn in as the new President of Kosovo. ](/news/2016/04/7/hashim-thaassi-is-sworn-in-as-the-new-president-of-kosovo.md) _Context: Kosovo_
 4. [An attacker throws a grenade and fires shots outside a sports hall in the small town of Zubin Potok in northern Kosovo, just hours before Serbian Prime Minister Aleksandar Vucic was due to hold an election rally there. "A hand grenade exploded outside the sports hall but there are no injuries," Besim Hoti, a Kosovo police commander in the area, told Reuters. ](/news/2016/04/3/an-attacker-throws-a-grenade-and-fires-shots-outside-a-sports-hall-in-the-small-town-of-zubin-potok-in-northern-kosovo-just-hours-before-se.md) _Context: Kosovo_
 5. [Kosovo opposition lawmakers twice disrupt today's session of parliament by tossing tear gas into the chamber to protest recent changes giving the country's Serb minority greater powers, and demanding the government's resignation and snap elections. ](/news/2016/02/19/kosovo-opposition-lawmakers-twice-disrupt-today-s-session-of-parliament-by-tossing-tear-gas-into-the-chamber-to-protest-recent-changes-givin.md) _Context: Kosovo_
-
-### Changes:
-
-1. [Kosovan parliamentary election, 2014:Voters in Kosovo go to the polls for a parliamentary election. ](/news/2014/06/8/kosovan-parliamentary-election-2014-pvoters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.md) _2017-08-25 03:40:31 (First version)_
-2. [Kosovan parliamentary election, 2014:: Voters in Kosovo go to the polls for a parliamentary election. ](/news/2014/06/8/kosovan-parliamentary-election-2014-voters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.md) _2017-08-27 03:40:48 (Update)_
-2. [Voters in Kosovo go to the polls for a parliamentary election. ](/news/2014/06/8/voters-in-kosovo-go-to-the-polls-for-a-parliamentary-election.md) _(Current version)_

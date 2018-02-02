@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/31/barclays-plc-says-that-it-is-the-subject-of-two-new-regulatory-probes-after-a-series-of-scandals-the-bank-also-announces-it-made-a-loss-in.html)  [JSON](/news/2012/10/31/barclays-plc-says-that-it-is-the-subject-of-two-new-regulatory-probes-after-a-series-of-scandals-the-bank-also-announces-it-made-a-loss-in.json)  [XML](/news/2012/10/31/barclays-plc-says-that-it-is-the-subject-of-two-new-regulatory-probes-after-a-series-of-scandals-the-bank-also-announces-it-made-a-loss-in.xml)  
+
 ### [2012-10-31](/news/2012/10/31/index.md)
 
+##### Barclays plc
 # Barclays plc says that it is the subject of two new regulatory probes after a series of scandals. The bank also announces it made a loss in the third quarter of 2012. 
 
 Barclays says that it is the subject of two new regulatory probes after a series of scandals and announces it made a loss in the third quarter.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-20150754)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62568000/jpg/_62568071_015728225-1.jpg)

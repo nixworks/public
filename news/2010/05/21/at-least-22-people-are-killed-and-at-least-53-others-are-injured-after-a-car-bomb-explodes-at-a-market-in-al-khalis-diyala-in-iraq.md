@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/21/at-least-22-people-are-killed-and-at-least-53-others-are-injured-after-a-car-bomb-explodes-at-a-market-in-al-khalis-diyala-in-iraq.html)  [JSON](/news/2010/05/21/at-least-22-people-are-killed-and-at-least-53-others-are-injured-after-a-car-bomb-explodes-at-a-market-in-al-khalis-diyala-in-iraq.json)  [XML](/news/2010/05/21/at-least-22-people-are-killed-and-at-least-53-others-are-injured-after-a-car-bomb-explodes-at-a-market-in-al-khalis-diyala-in-iraq.xml)  
+
 ### [2010-05-21](/news/2010/05/21/index.md)
 
+##### Al Khalis
 # At least 22 people are killed and at least 53 others are injured after a car bomb explodes at a market in Al Khalis, Diyala in Iraq. 
 
 At least 30 people killed and 80 wounded in car bomb at market in Diyala province.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/05/2010521181110799207.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10140321.stm)

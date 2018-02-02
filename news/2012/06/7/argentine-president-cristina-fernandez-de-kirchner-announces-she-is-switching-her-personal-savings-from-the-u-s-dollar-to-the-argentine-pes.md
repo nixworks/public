@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/7/argentine-president-cristina-fernandez-de-kirchner-announces-she-is-switching-her-personal-savings-from-the-u-s-dollar-to-the-argentine-pes.html)  [JSON](/news/2012/06/7/argentine-president-cristina-fernandez-de-kirchner-announces-she-is-switching-her-personal-savings-from-the-u-s-dollar-to-the-argentine-pes.json)  [XML](/news/2012/06/7/argentine-president-cristina-fernandez-de-kirchner-announces-she-is-switching-her-personal-savings-from-the-u-s-dollar-to-the-argentine-pes.xml)  
+
 ### [2012-06-7](/news/2012/06/7/index.md)
 
+##### Cristina Kirchner
 # Argentine president Cristina Fernndez de Kirchner announces she is switching her personal savings from the U.S. dollar to the Argentine peso. 
 
 Argentine President Cristina Fernandez, battling capital flight and high inflation, urges officials to follow her and switch saving in dollars to pesos.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18350878)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60750000/jpg/_60750449_60750448.jpg)

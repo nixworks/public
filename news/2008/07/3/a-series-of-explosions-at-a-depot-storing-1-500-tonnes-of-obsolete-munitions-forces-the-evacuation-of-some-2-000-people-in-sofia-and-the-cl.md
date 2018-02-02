@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/3/a-series-of-explosions-at-a-depot-storing-1-500-tonnes-of-obsolete-munitions-forces-the-evacuation-of-some-2-000-people-in-sofia-and-the-cl.html)  [JSON](/news/2008/07/3/a-series-of-explosions-at-a-depot-storing-1-500-tonnes-of-obsolete-munitions-forces-the-evacuation-of-some-2-000-people-in-sofia-and-the-cl.json)  [XML](/news/2008/07/3/a-series-of-explosions-at-a-depot-storing-1-500-tonnes-of-obsolete-munitions-forces-the-evacuation-of-some-2-000-people-in-sofia-and-the-cl.xml)  
+
 ### [2008-07-3](/news/2008/07/3/index.md)
 
+##### series of explosions
 #  A series of explosions at a depot storing 1,500 tonnes of obsolete munitions forces the evacuation of some 2,000 people in Sofia and the closure of the Bulgarian capital's main airport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7487592.stm)
 

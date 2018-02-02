@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/13/the-chamber-of-deputies-of-haiti-rejects-robert-manuel-who-was-the-second-nominee-for-the-post-of-prime-minister-after-jacques-adouard-al.html)  [JSON](/news/2008/06/13/the-chamber-of-deputies-of-haiti-rejects-robert-manuel-who-was-the-second-nominee-for-the-post-of-prime-minister-after-jacques-adouard-al.json)  [XML](/news/2008/06/13/the-chamber-of-deputies-of-haiti-rejects-robert-manuel-who-was-the-second-nominee-for-the-post-of-prime-minister-after-jacques-adouard-al.xml)  
+
 ### [2008-06-13](/news/2008/06/13/index.md)
 
+##### Chamber of Deputies
 #  The Chamber of Deputies of Haiti rejects Robert Manuel, who was the second nominee for the post of prime minister after Jacques-Edouard Alexis resigned in April 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5grULsXQJWoWboAIQfzc3juYgfiKQD918S3D01)
 

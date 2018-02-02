@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/02/19/authorities-in-the-people-s-republic-of-china-crack-down-on-political-activists-as-calls-spread-online-for-a-jasmine-revolution-on-sunday.html)  [JSON](/news/2011/02/19/authorities-in-the-people-s-republic-of-china-crack-down-on-political-activists-as-calls-spread-online-for-a-jasmine-revolution-on-sunday.json)  [XML](/news/2011/02/19/authorities-in-the-people-s-republic-of-china-crack-down-on-political-activists-as-calls-spread-online-for-a-jasmine-revolution-on-sunday.xml)  
+
 ### [2011-02-19](/news/2011/02/19/index.md)
 
+##### China
 # Authorities in the People's Republic of China crack down on political activists as calls spread online for a "Jasmine Revolution" on Sunday. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/19/AR2011021901021.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2011/02/19/AR2011021901021.html)
 
 ### Related:
 

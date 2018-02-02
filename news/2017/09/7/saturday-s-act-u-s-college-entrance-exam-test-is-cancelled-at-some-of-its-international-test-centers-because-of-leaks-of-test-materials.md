@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/7/saturday-s-act-u-s-college-entrance-exam-test-is
 
 ### [2017-09-7](/news/2017/09/7/index.md)
 
+##### Education in the United States
 # Saturday's ACT U.S. college entrance exam test is cancelled at some of its international test centers because of leaks of test materials. 
 
 

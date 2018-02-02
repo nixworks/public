@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/17/the-world-bank-releases-its-worldwide-governance-indicators-providing-information-on-corruption-rule-of-law-and-other-indicators-of-stab.html)  [JSON](/news/2007/07/17/the-world-bank-releases-its-worldwide-governance-indicators-providing-information-on-corruption-rule-of-law-and-other-indicators-of-stab.json)  [XML](/news/2007/07/17/the-world-bank-releases-its-worldwide-governance-indicators-providing-information-on-corruption-rule-of-law-and-other-indicators-of-stab.xml)  
+
 ### [2007-07-17](/news/2007/07/17/index.md)
 
+##### World Bank
 #  The World Bank releases its Worldwide Governance Indicators, providing information on corruption, rule of law, and other indicators of stability on countries around the world. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WGI page](http://web.worldbank.org/WBSITE/EXTERNAL/WBI/EXTWBIGOVANTCOR/0,,contentMDK:20771165~menuPK:1866365~pagePK:64168445~piPK:64168309~theSitePK:1740530,00.html)
 

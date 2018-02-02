@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/17/the-pan-malaysian-islamic-party-defeats-barisan-nasional-in-malaysia-s-kuala-terengganu-by-election.html)  [JSON](/news/2009/01/17/the-pan-malaysian-islamic-party-defeats-barisan-nasional-in-malaysia-s-kuala-terengganu-by-election.json)  [XML](/news/2009/01/17/the-pan-malaysian-islamic-party-defeats-barisan-nasional-in-malaysia-s-kuala-terengganu-by-election.xml)  
+
 ### [2009-01-17](/news/2009/01/17/index.md)
 
+##### PAS
 #  The Pan-Malaysian Islamic Party defeats Barisan Nasional in Malaysia's Kuala Terengganu by-election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKTRE50G1OO20090117)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

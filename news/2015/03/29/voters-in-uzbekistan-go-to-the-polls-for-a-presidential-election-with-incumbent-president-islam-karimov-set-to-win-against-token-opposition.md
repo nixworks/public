@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/03/29/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-islam-karimov-set-to-win-against-token-opposition.html)  [JSON](/news/2015/03/29/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-islam-karimov-set-to-win-against-token-opposition.json)  [XML](/news/2015/03/29/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-islam-karimov-set-to-win-against-token-opposition.xml)  
+
 ### [2015-03-29](/news/2015/03/29/index.md)
 
+##### Uzbekistani presidential election, 2015
 # Voters in Uzbekistan go to the polls for a presidential election with incumbent President Islam Karimov set to win against token opposition. 
 
 More than 90 percent turnout reported in vote in which 26-year ruler Islam Karimov&#39;s victory is a foregone conclusion.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/03/uzbeks-polls-expected-extend-26-year-rule-150329054543751.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/3/29/cb001b62876a46869ef5215d9733c32d_18.jpg)
+
+### Changes:
+
+1. [Uzbekistani presidential election, 2015: Voters in Uzbekistan go to the polls for a presidential election with incumbent President Islam Karimov set to win against token opposition. ](/news/2015/03/29/uzbekistani-presidential-election-2015-voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-islam-kar.md) _2017-08-27 03:42:08 (First version)_
+1. [Voters in Uzbekistan go to the polls for a presidential election with incumbent President Islam Karimov set to win against token opposition. ](/news/2015/03/29/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-islam-karimov-set-to-win-against-token-opposition.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ More than 90 percent turnout reported in vote in which 26-year ruler Islam Karim
 3. [Uzbekistan Deputy Prime Minister Rustam Azimov is dismissed by President Shavkat Mirziyoyev, who had earlier criticized Azimov for failing to control financiers' activities. He is replaced by former Deputy Finance Minister Jamshed Kuchkarev. ](/news/2017/06/6/uzbekistan-deputy-prime-minister-rustam-azimov-is-dismissed-by-president-shavkat-mirziyoyev-who-had-earlier-criticized-azimov-for-failing-t.md) _Context: President, Uzbekistan_
 4. [Voters in Uzbekistan go to the polls for a presidential election, the first since the death of Islam Karimov who governed the country for 25 years. ](/news/2016/12/4/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-the-first-since-the-death-of-islam-karimov-who-governed-the-country-for-25.md) _Context: Islam Karimov, Uzbekistan_
 5. [Uzbekistan's parliament appoints Shavkat Mirziyoyev as interim president after the death of President Islam Karimov. ](/news/2016/09/8/uzbekistanas-parliament-appoints-shavkat-mirziyoyev-as-interim-president-after-the-death-of-president-islam-karimov.md) _Context: Islam Karimov, Uzbekistan_
-
-### Changes:
-
-1. [Uzbekistani presidential election, 2015: Voters in Uzbekistan go to the polls for a presidential election with incumbent President Islam Karimov set to win against token opposition. ](/news/2015/03/29/uzbekistani-presidential-election-2015-voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-islam-kar.md) _2017-08-27 03:42:08 (First version)_
-1. [Voters in Uzbekistan go to the polls for a presidential election with incumbent President Islam Karimov set to win against token opposition. ](/news/2015/03/29/voters-in-uzbekistan-go-to-the-polls-for-a-presidential-election-with-incumbent-president-islam-karimov-set-to-win-against-token-opposition.md) _(Current version)_

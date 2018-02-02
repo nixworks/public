@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/28/the-president-of-sudan-omar-hassan-al-bashir-arrives-in-beijing-for-talks-with-hu-jintao-the-president-of-the-people-s-republic-of-china-to.html)  [JSON](/news/2011/06/28/the-president-of-sudan-omar-hassan-al-bashir-arrives-in-beijing-for-talks-with-hu-jintao-the-president-of-the-people-s-republic-of-china-to.json)  [XML](/news/2011/06/28/the-president-of-sudan-omar-hassan-al-bashir-arrives-in-beijing-for-talks-with-hu-jintao-the-president-of-the-people-s-republic-of-china-to.xml)  
+
 ### [2011-06-28](/news/2011/06/28/index.md)
 
+##### President of Sudan
 # The President of Sudan Omar Hassan al-Bashir arrives in Beijing for talks with Hu Jintao, the President of the People's Republic of China to discuss the recent partition with Southern Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/06/20116282424163162.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/28/201162822540236734_20.jpg)

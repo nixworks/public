@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/8/north-korea-and-south-korea-agree-to-hold-summit-in-pyongyang-from-august-28-through-the-30th.html)  [JSON](/news/2007/08/8/north-korea-and-south-korea-agree-to-hold-summit-in-pyongyang-from-august-28-through-the-30th.json)  [XML](/news/2007/08/8/north-korea-and-south-korea-agree-to-hold-summit-in-pyongyang-from-august-28-through-the-30th.xml)  
+
 ### [2007-08-8](/news/2007/08/8/index.md)
 
+##### North Korea
 #  North Korea and South Korea agree to hold summit in Pyongyang from August 28 through the 30th. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap News](http://english.yonhapnews.co.kr/national/2007/08/08/34/0301000000AEN20070808001800315F.HTML)
 

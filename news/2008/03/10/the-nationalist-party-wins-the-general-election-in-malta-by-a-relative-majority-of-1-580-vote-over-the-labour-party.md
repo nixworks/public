@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/10/the-nationalist-party-wins-the-general-election-in-malta-by-a-relative-majority-of-1-580-vote-over-the-labour-party.html)  [JSON](/news/2008/03/10/the-nationalist-party-wins-the-general-election-in-malta-by-a-relative-majority-of-1-580-vote-over-the-labour-party.json)  [XML](/news/2008/03/10/the-nationalist-party-wins-the-general-election-in-malta-by-a-relative-majority-of-1-580-vote-over-the-labour-party.xml)  
+
 ### [2008-03-10](/news/2008/03/10/index.md)
 
+##### Partit Nazzjonalista
 #  The Nationalist Party wins the general election in Malta, by a relative majority of 1,580 vote over the Labour Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Department of Information, Malta](http://www.doi.gov.mt/EN/press_releases/2008/03/pr0453.asp)
 

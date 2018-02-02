@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/8/two-car-bombs-blow-up-in-mosul-the-second-of-them-killing-at-least-nine-people.html)  [JSON](/news/2009/07/8/two-car-bombs-blow-up-in-mosul-the-second-of-them-killing-at-least-nine-people.json)  [XML](/news/2009/07/8/two-car-bombs-blow-up-in-mosul-the-second-of-them-killing-at-least-nine-people.xml)  
+
 ### [2009-07-8](/news/2009/07/8/index.md)
 
+##### Mosul
 #  Two car bombs blow up in Mosul, the second of them killing at least nine people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8141433.stm)
 

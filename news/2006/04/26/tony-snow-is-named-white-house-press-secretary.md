@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/26/tony-snow-is-named-white-house-press-secretary.html)  [JSON](/news/2006/04/26/tony-snow-is-named-white-house-press-secretary.json)  [XML](/news/2006/04/26/tony-snow-is-named-white-house-press-secretary.xml)  
+
 ### [2006-04-26](/news/2006/04/26/index.md)
 
+##### Tony Snow
 #  Tony Snow is named White House Press Secretary.
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-5782313,00.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/4945156.stm)

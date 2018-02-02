@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/7/north-korea-temporarily-bans-all-malaysian-natio
 
 ### [2017-03-7](/news/2017/03/7/index.md)
 
+##### Malaysia-North Korea relations
 # North Korea temporarily bans all Malaysian nationals (estimated to be at least 11 people including embassy employees) from leaving the country amid a growing dispute between the two countries over the death of Kim Jong-nam, the half-brother of Kim Jong-un. Malaysian official Khairy Jamaluddin calls the move "tantamount to taking hostages". 
 
 North Korea is banning Malaysians from leaving the country.

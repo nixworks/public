@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/2/mandawuy-yunupingu-frontman-of-the-aboriginal-band-yothu-yindi-dies-at-56.html)  [JSON](/news/2013/06/2/mandawuy-yunupingu-frontman-of-the-aboriginal-band-yothu-yindi-dies-at-56.json)  [XML](/news/2013/06/2/mandawuy-yunupingu-frontman-of-the-aboriginal-band-yothu-yindi-dies-at-56.xml)  
+
 ### [2013-06-2](/news/2013/06/2/index.md)
 
+##### Mandawuy Yunupingu
 # Mandawuy Yunupingu, frontman of the Aboriginal band Yothu Yindi dies at 56. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2013/jun/03/yothu-yindis-music-singer-alive)
 

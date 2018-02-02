@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/16/iraq-war-u-s-soldiers-find-the-common-access-card-id-cards-of-two-captured-u-s-soldiers-iraqi-insurgents-had-previously-released-a-vide.html)  [JSON](/news/2007/06/16/iraq-war-u-s-soldiers-find-the-common-access-card-id-cards-of-two-captured-u-s-soldiers-iraqi-insurgents-had-previously-released-a-vide.json)  [XML](/news/2007/06/16/iraq-war-u-s-soldiers-find-the-common-access-card-id-cards-of-two-captured-u-s-soldiers-iraqi-insurgents-had-previously-released-a-vide.xml)  
+
 ### [2007-06-16](/news/2007/06/16/index.md)
 
+##### Iraq War
 #  Iraq War: U.S. soldiers find the Common Access Card ID cards of two captured U.S. soldiers; Iraqi insurgents had previously released a video containing images of the IDs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/WORLD/meast/06/16/iraq.main/index.html)
 

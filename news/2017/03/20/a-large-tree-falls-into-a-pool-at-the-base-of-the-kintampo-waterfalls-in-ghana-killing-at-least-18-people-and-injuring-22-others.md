@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/03/20/a-large-tree-falls-into-a-pool-at-the-base-of-the-kintampo-waterfalls-in-ghana-killing-at-least-18-people-and-injuring-22-others.html)  [JSON](/news/2017/03/20/a-large-tree-falls-into-a-pool-at-the-base-of-the-kintampo-waterfalls-in-ghana-killing-at-least-18-people-and-injuring-22-others.json)  [XML](/news/2017/03/20/a-large-tree-falls-into-a-pool-at-the-base-of-the-kintampo-waterfalls-in-ghana-killing-at-least-18-people-and-injuring-22-others.xml)  
+
 ### [2017-03-20](/news/2017/03/20/index.md)
 
+##### Kintampo waterfalls
 # A large tree falls into a pool at the base of the Kintampo waterfalls in Ghana, killing at least 18 people and injuring 22 others. 
 
 At least 20 more people also injured in the incident near Kintampo town, according to police.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2017/03/ghana-tree-fall-kills-18-waterfall-pool-170320133121169.html)
 

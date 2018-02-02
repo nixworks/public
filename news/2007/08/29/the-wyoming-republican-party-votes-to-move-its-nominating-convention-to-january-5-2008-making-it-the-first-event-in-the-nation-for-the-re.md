@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/29/the-wyoming-republican-party-votes-to-move-its-nominating-convention-to-january-5-2008-making-it-the-first-event-in-the-nation-for-the-re.html)  [JSON](/news/2007/08/29/the-wyoming-republican-party-votes-to-move-its-nominating-convention-to-january-5-2008-making-it-the-first-event-in-the-nation-for-the-re.json)  [XML](/news/2007/08/29/the-wyoming-republican-party-votes-to-move-its-nominating-convention-to-january-5-2008-making-it-the-first-event-in-the-nation-for-the-re.xml)  
+
 ### [2007-08-29](/news/2007/08/29/index.md)
 
+##### Wyoming
 #  The Wyoming Republican Party votes to move its nominating convention to January 5, 2008, making it the first event in the nation for the Republicans in the United States presidential election, 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://firstread.msnbc.msn.com/archive/2007/08/29/338149.aspx)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/11/520-men-and-boys-killed-in-the-srebrenica-massacre-in-1995-are-buried-in-potoaari-bosnia-and-herzegovina.html)  [JSON](/news/2012/07/11/520-men-and-boys-killed-in-the-srebrenica-massacre-in-1995-are-buried-in-potoaari-bosnia-and-herzegovina.json)  [XML](/news/2012/07/11/520-men-and-boys-killed-in-the-srebrenica-massacre-in-1995-are-buried-in-potoaari-bosnia-and-herzegovina.xml)  
+
 ### [2012-07-11](/news/2012/07/11/index.md)
 
+##### Srebrenica massacre
 # 520 men and boys killed in the Srebrenica massacre in 1995 are buried in Potocari, Bosnia and Herzegovina. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/world/bosnia-buries-srebrenica-victims-1.1339400#.T_2wDfW8j_k)
 

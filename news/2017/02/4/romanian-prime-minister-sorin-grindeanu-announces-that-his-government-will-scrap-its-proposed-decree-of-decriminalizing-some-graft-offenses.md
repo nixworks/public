@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/4/romanian-prime-minister-sorin-grindeanu-announce
 
 ### [2017-02-4](/news/2017/02/4/index.md)
 
+##### 2017 Romanian protests
 # Romanian Prime Minister Sorin Grindeanu announces that his government will scrap its proposed decree of decriminalizing some graft offenses on Sunday. 
 
 

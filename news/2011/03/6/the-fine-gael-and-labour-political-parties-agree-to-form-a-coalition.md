@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/6/the-fine-gael-and-labour-political-parties-agree-to-form-a-coalition.html)  [JSON](/news/2011/03/6/the-fine-gael-and-labour-political-parties-agree-to-form-a-coalition.json)  [XML](/news/2011/03/6/the-fine-gael-and-labour-political-parties-agree-to-form-a-coalition.xml)  
+
 ### [2011-03-6](/news/2011/03/6/index.md)
 
+##### Fine Gael
 # The Fine Gael and Labour political parties agree to form a coalition. 
 
 Fine Gael and Labour are set to form a government for national recovery under the terms of a programme being submitted to a special&hellip;
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12658141)
 2. [RTÉ](http://www.rte.ie/news/2011/0306/politics.html)

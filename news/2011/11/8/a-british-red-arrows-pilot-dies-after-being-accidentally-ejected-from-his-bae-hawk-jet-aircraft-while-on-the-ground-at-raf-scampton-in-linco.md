@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/8/a-british-red-arrows-pilot-dies-after-being-accidentally-ejected-from-his-bae-hawk-jet-aircraft-while-on-the-ground-at-raf-scampton-in-linco.html)  [JSON](/news/2011/11/8/a-british-red-arrows-pilot-dies-after-being-accidentally-ejected-from-his-bae-hawk-jet-aircraft-while-on-the-ground-at-raf-scampton-in-linco.json)  [XML](/news/2011/11/8/a-british-red-arrows-pilot-dies-after-being-accidentally-ejected-from-his-bae-hawk-jet-aircraft-while-on-the-ground-at-raf-scampton-in-linco.xml)  
+
 ### [2011-11-8](/news/2011/11/8/index.md)
 
+##### Red Arrows
 # A British Red Arrows pilot dies after being accidentally ejected from his BAE Hawk jet aircraft while on the ground at RAF Scampton in Lincolnshire. 
 
 A Red Arrows pilot has died after being accidentally ejected from his plane while it was still on the tarmac during a training session at RAF Scampton, Lincolnshire.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/uknews/defence/8877315/Red-Arrows-pilot-dies-after-ejector-seat-accident.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01988/air-display_1988262a.jpg)

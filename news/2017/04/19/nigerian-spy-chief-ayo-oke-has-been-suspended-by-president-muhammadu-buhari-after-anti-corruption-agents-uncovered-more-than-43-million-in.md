@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/19/nigerian-spy-chief-ayo-oke-has-been-suspended-b
 
 ### [2017-04-19](/news/2017/04/19/index.md)
 
+##### Nigeria
 # Nigerian spy chief Ayo Oke has been suspended by President Muhammadu Buhari after anti-corruption agents uncovered more than $43 million in cash at his flat in Lagos. 
 
 The cash was kept in a Lagos flat for covert operations, intelligence officials told local media.

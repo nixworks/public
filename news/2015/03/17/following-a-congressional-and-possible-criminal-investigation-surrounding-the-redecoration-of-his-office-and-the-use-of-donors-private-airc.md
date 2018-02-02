@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/17/following-a-congressional-and-possible-criminal-investigation-surrounding-the-redecoration-of-his-office-and-the-use-of-donors-private-airc.html)  [JSON](/news/2015/03/17/following-a-congressional-and-possible-criminal-investigation-surrounding-the-redecoration-of-his-office-and-the-use-of-donors-private-airc.json)  [XML](/news/2015/03/17/following-a-congressional-and-possible-criminal-investigation-surrounding-the-redecoration-of-his-office-and-the-use-of-donors-private-airc.xml)  
+
 ### [2015-03-17](/news/2015/03/17/index.md)
 
+##### Aaron Schock
 # Following a congressional and possible criminal investigation surrounding the redecoration of his office and the use of donors' private aircraft at taxpayers' expense, U.S. Representative Aaron Schock (R-IL) resigns effective March 31, 2015. 
 
 WASHINGTON, D.C. &mdash; Aaron Schock&rsquo;s six years and one month in Congress were cut short Tuesday, six weeks and one day after scandal first
 
 
-### Source:
+### Sources:
 
 1. [Peoria Journal Star](http://www.pjstar.com/article/20150317/NEWS/150319221)
 1. [Cover Image](http://www.pjstar.com/storyimage/IP/20150317/NEWS/150319221/AR/0/AR-150319221.jpg)

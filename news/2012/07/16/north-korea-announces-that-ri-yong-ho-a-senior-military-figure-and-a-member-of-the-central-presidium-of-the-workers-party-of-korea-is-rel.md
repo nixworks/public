@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/07/16/north-korea-announces-that-ri-yong-ho-a-senior-military-figure-and-a-member-of-the-central-presidium-of-the-workers-party-of-korea-is-rel.html)  [JSON](/news/2012/07/16/north-korea-announces-that-ri-yong-ho-a-senior-military-figure-and-a-member-of-the-central-presidium-of-the-workers-party-of-korea-is-rel.json)  [XML](/news/2012/07/16/north-korea-announces-that-ri-yong-ho-a-senior-military-figure-and-a-member-of-the-central-presidium-of-the-workers-party-of-korea-is-rel.xml)  
+
 ### [2012-07-16](/news/2012/07/16/index.md)
 
+##### North Korea
 # North Korea announces that Ri Yong-ho, a senior military figure and a member of the central presidium of the Workers' Party of Korea, is relieved of all duties due to illness. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/nkorea-says-powerful-army-chief-relieved-posts-002706165.html)
+1. [AP via Yahoo! News](https://news.yahoo.com/nkorea-says-powerful-army-chief-relieved-posts-002706165.html)
 1. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:

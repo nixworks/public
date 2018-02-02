@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/20/ken-livingstone-the-mayor-of-london-accuses-home-secretary-jack-straw-of-participating-in-demonization-of-muslims-only-comparable-to-the.html)  [JSON](/news/2006/11/20/ken-livingstone-the-mayor-of-london-accuses-home-secretary-jack-straw-of-participating-in-demonization-of-muslims-only-comparable-to-the.json)  [XML](/news/2006/11/20/ken-livingstone-the-mayor-of-london-accuses-home-secretary-jack-straw-of-participating-in-demonization-of-muslims-only-comparable-to-the.xml)  
+
 ### [2006-11-20](/news/2006/11/20/index.md)
 
+##### Ken Livingstone
 #  Ken Livingstone, the Mayor of London, accuses Home Secretary Jack Straw of participating in "demonization of Muslims only comparable to the demonization of Jews from the end of the 19th century" for his comments regarding veils. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [JTA](http://www.jta.org/page_view_breaking_story.asp?intid=5670&ref=daily_briefing)
 

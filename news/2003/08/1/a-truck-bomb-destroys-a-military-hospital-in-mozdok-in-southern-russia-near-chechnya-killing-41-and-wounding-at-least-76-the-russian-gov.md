@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/1/a-truck-bomb-destroys-a-military-hospital-in-mozdok-in-southern-russia-near-chechnya-killing-41-and-wounding-at-least-76-the-russian-gov.html)  [JSON](/news/2003/08/1/a-truck-bomb-destroys-a-military-hospital-in-mozdok-in-southern-russia-near-chechnya-killing-41-and-wounding-at-least-76-the-russian-gov.json)  [XML](/news/2003/08/1/a-truck-bomb-destroys-a-military-hospital-in-mozdok-in-southern-russia-near-chechnya-killing-41-and-wounding-at-least-76-the-russian-gov.xml)  
+
 ### [2003-08-1](/news/2003/08/1/index.md)
 
+##### truck bomb
 #  A truck bomb destroys a military hospital in Mozdok in Southern Russia, near Chechnya, killing 41 and wounding at least 76. The Russian government blames the attack on Chechen separatists. A media spokesman for rebel political leader, Aslan Maskhadov, denied any connection with the incident.
 
 

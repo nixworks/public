@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/16/after-an-outbreak-of-the-mosquito-borne-west-nile-virus-kills-at-least-17-people-the-mayor-of-dallas-mike-rawlings-declares-a-state-of-emer.html)  [JSON](/news/2012/08/16/after-an-outbreak-of-the-mosquito-borne-west-nile-virus-kills-at-least-17-people-the-mayor-of-dallas-mike-rawlings-declares-a-state-of-emer.json)  [XML](/news/2012/08/16/after-an-outbreak-of-the-mosquito-borne-west-nile-virus-kills-at-least-17-people-the-mayor-of-dallas-mike-rawlings-declares-a-state-of-emer.xml)  
+
 ### [2012-08-16](/news/2012/08/16/index.md)
 
+##### West Nile virus
 # After an outbreak of the mosquito-borne West Nile virus kills at least 17 people, the mayor of Dallas Mike Rawlings declares a state of emergency in the city. This paves the way for aerial spraying of synthetic pyrethroid insecticides from tonight on. Many residents express their concerns over safety and effectiveness; they suggest other preventive methods of mosquito control. Officials said the measures could cost as much as $1.2 million. 
 
 Mayor of Dallas city announces emergency after mosquito-borne West Nile virus claims 17 lives.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/08/2012815224318379485.html)
 2. [Dallas News](http://www.dallasnews.com/news/community-news/dallas/headlines/20120815-aerial-spraying-for-west-nile-to-start-at-10-tonight-in-dallas-park-cities.ece)

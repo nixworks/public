@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/29/a-suicide-bomber-wearing-an-explosives-belt-kills-at-least-21-people-mostly-shiites-in-balad-ruz-the-town-north-of-baghdad.html)  [JSON](/news/2010/10/29/a-suicide-bomber-wearing-an-explosives-belt-kills-at-least-21-people-mostly-shiites-in-balad-ruz-the-town-north-of-baghdad.json)  [XML](/news/2010/10/29/a-suicide-bomber-wearing-an-explosives-belt-kills-at-least-21-people-mostly-shiites-in-balad-ruz-the-town-north-of-baghdad.xml)  
+
 ### [2010-10-29](/news/2010/10/29/index.md)
 
+##### Shiite
 # A suicide bomber wearing an explosives belt kills at least 21 people, mostly Shiites, in Balad Ruz, the town north of Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/M/ML_IRAQ?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2010-10-29-15-55-48)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/30/c_13582533.htm)

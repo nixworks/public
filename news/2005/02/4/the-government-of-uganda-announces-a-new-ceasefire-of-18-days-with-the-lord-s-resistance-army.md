@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/4/the-government-of-uganda-announces-a-new-ceasefire-of-18-days-with-the-lord-s-resistance-army.html)  [JSON](/news/2005/02/4/the-government-of-uganda-announces-a-new-ceasefire-of-18-days-with-the-lord-s-resistance-army.json)  [XML](/news/2005/02/4/the-government-of-uganda-announces-a-new-ceasefire-of-18-days-with-the-lord-s-resistance-army.xml)  
+
 ### [2005-02-4](/news/2005/02/4/index.md)
 
+##### Uganda
 #  The government of Uganda announces a new ceasefire of 18 days with the Lord's Resistance Army. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4234087.stm)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/IRIN/14cef59bbf62ce081ced71f9b327e214.htm)

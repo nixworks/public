@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/26/because-of-the-risk-of-zika-virus-infection-the
 
 ### [2016-02-26](/news/2016/02/26/index.md)
 
+##### Zika virus
 #  Because of the risk of Zika virus infection, the U.S. Centers for Disease Control and Prevention (CDC) recommends pregnant women consider not traveling to Brazil for the 2016 Summer Olympics in August, and-or for the 2016 Summer Paralympics the following month. 
 
 Pregnant women should consider not traveling to the 2016 Olympic Games in Brazil due to the risk of Zika virus infection, the U.S. Centers for Disease Control and Prevention said on Friday.

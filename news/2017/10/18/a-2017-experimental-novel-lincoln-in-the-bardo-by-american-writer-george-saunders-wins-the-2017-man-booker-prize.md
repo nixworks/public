@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/18/a-2017-experimental-novel-lincoln-in-the-bardo-by-american-writer-george-saunders-wins-the-2017-man-booker-prize.html)  [JSON](/news/2017/10/18/a-2017-experimental-novel-lincoln-in-the-bardo-by-american-writer-george-saunders-wins-the-2017-man-booker-prize.json)  [XML](/news/2017/10/18/a-2017-experimental-novel-lincoln-in-the-bardo-by-american-writer-george-saunders-wins-the-2017-man-booker-prize.xml)  
+
 ### [2017-10-18](/news/2017/10/18/index.md)
 
+##### Lincoln in the Bardo
 # A 2017 experimental novel, "Lincoln in the Bardo" by American writer George Saunders, wins the 2017 Man Booker Prize. 
 
 The US author is awarded the £50,000 prize for his first full-length novel, Lincoln in the Bardo.

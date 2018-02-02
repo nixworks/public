@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/18/a-suicide-car-bomber-attacks-a-police-van-in-the-north-western-pakistani-town-of-dera-ismail-khan-killing-12-people.html)  [JSON](/news/2010/05/18/a-suicide-car-bomber-attacks-a-police-van-in-the-north-western-pakistani-town-of-dera-ismail-khan-killing-12-people.json)  [XML](/news/2010/05/18/a-suicide-car-bomber-attacks-a-police-van-in-the-north-western-pakistani-town-of-dera-ismail-khan-killing-12-people.xml)  
+
 ### [2010-05-18](/news/2010/05/18/index.md)
 
+##### Pakistan
 # A suicide car-bomber attacks a police van in the north western Pakistani town of Dera Ismail Khan, killing 12 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TVNZ](http://tvnz.co.nz/world-news/bomber-kills-12-in-pakistan-3556986)
 

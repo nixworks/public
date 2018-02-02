@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/10/4/the-prime-minister-of-canada-stephen-harper-chooses-mark-carney-to-succeed-david-dodge-as-governor-of-the-bank-of-canada.html)  [JSON](/news/2007/10/4/the-prime-minister-of-canada-stephen-harper-chooses-mark-carney-to-succeed-david-dodge-as-governor-of-the-bank-of-canada.json)  [XML](/news/2007/10/4/the-prime-minister-of-canada-stephen-harper-chooses-mark-carney-to-succeed-david-dodge-as-governor-of-the-bank-of-canada.xml)  
+
 ### [2007-10-4](/news/2007/10/4/index.md)
 
+##### Prime Minister of Canada
 #  The Prime Minister of Canada Stephen Harper chooses Mark Carney to succeed David Dodge as governor of the Bank of Canada. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601082&sid=aKQGX7kvyDZo&refer=canada)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601082&sid=aKQGX7kvyDZo&refer=canada)
 
 ### Related:
 

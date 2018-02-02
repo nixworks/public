@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/6/an-arizona-air-national-guard-f-16-crashes-near-
 
 ### [2017-09-6](/news/2017/09/6/index.md)
 
+##### 2017 disasters in the United States
 # An Arizona Air National Guard F-16 crashes near Safford, Arizona, killing the pilot. 
 
 

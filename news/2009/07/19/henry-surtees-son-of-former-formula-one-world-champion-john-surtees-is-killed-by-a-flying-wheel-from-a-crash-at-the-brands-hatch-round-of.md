@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/07/19/henry-surtees-son-of-former-formula-one-world-champion-john-surtees-is-killed-by-a-flying-wheel-from-a-crash-at-the-brands-hatch-round-of.html)  [JSON](/news/2009/07/19/henry-surtees-son-of-former-formula-one-world-champion-john-surtees-is-killed-by-a-flying-wheel-from-a-crash-at-the-brands-hatch-round-of.json)  [XML](/news/2009/07/19/henry-surtees-son-of-former-formula-one-world-champion-john-surtees-is-killed-by-a-flying-wheel-from-a-crash-at-the-brands-hatch-round-of.xml)  
+
 ### [2009-07-19](/news/2009/07/19/index.md)
 
+##### Henry Surtees
 #  Henry Surtees, son of former Formula One world champion John Surtees, is killed by a flying wheel from a crash at the Brands Hatch round of the FIA Formula Two Championship supporting the WTCC.
 
 

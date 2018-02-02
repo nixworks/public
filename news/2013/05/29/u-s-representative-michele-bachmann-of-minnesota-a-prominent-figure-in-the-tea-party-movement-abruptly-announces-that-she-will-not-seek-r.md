@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2013/05/29/u-s-representative-michele-bachmann-of-minnesota-a-prominent-figure-in-the-tea-party-movement-abruptly-announces-that-she-will-not-seek-r.html)  [JSON](/news/2013/05/29/u-s-representative-michele-bachmann-of-minnesota-a-prominent-figure-in-the-tea-party-movement-abruptly-announces-that-she-will-not-seek-r.json)  [XML](/news/2013/05/29/u-s-representative-michele-bachmann-of-minnesota-a-prominent-figure-in-the-tea-party-movement-abruptly-announces-that-she-will-not-seek-r.xml)  
+
 ### [2013-05-29](/news/2013/05/29/index.md)
 
+##### House of Representatives
 # U.S. Representative Michele Bachmann of Minnesota, a prominent figure in the Tea Party movement, abruptly announces that she will not seek reelection to a fifth term in November 2014. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://blogs.marketwatch.com/election/2013/05/29/watch-michele-bachmann-explain-her-plans-not-to-run-again-for-congress/)
 
 ### Related:
 
-1. [Rep Michele Bachmann announces mid-debate that she will seek the Republican Party nomination for President of the United States. ](/news/2011/06/13/rep-michele-bachmann-announces-mid-debate-that-she-will-seek-the-republican-party-nomination-for-president-of-the-united-states.md) _Context: Michele Bachmann, United States House of Representatives_
-2. [ Keith Ellison, the first Muslim member of the United States Congress and the first African American elected to the House from Minnesota is sworn in using Thomas Jefferson's Qur'an. ](/news/2007/01/4/keith-ellison-the-first-muslim-member-of-the-united-states-congress-and-the-first-african-american-elected-to-the-house-from-minnesota-is.md) _Context: Minnesota, United States House of Representatives_
-3. [California, Maine, Maryland and Minnesota sue the Trump administraion over the termination of DACA. ](/news/2017/09/11/california-maine-maryland-and-minnesota-sue-the-trump-administraion-over-the-termination-of-daca.md) _Context: Minnesota_
-4. [A natural gas explosion at college prep school Minnehaha Academy in Minneapolis, Minnesota, kills two staff members. Another nine people were injured, seven of whom are hospitalized, three in critical and four in serious condition. ](/news/2017/08/2/a-natural-gas-explosion-at-college-prep-school-minnehaha-academy-in-minneapolis-minnesota-kills-two-staff-members-another-nine-people-wer.md) _Context: Minnesota_
-5. [Australian Prime Minister Malcolm Turnbull expresses shock and demands answers after an Australian woman, who called 9-1-1 for help because of a suspected assault near her home, was shot and killed on Saturday by a U.S. police officer who had responded in Minneapolis, Minnesota. ](/news/2017/07/19/australian-prime-minister-malcolm-turnbull-expresses-shock-and-demands-answers-after-an-australian-woman-who-called-9-1-1-for-help-because.md) _Context: Minnesota_
+1. [Rep Michele Bachmann announces mid-debate that she will seek the Republican Party nomination for President of the United States. ](/news/2011/06/13/rep-michele-bachmann-announces-mid-debate-that-she-will-seek-the-republican-party-nomination-for-president-of-the-united-states.md) _Context: House of Representatives, Michele Bachmann_
+2. [ Keith Ellison, the first Muslim member of the United States Congress and the first African American elected to the House from Minnesota is sworn in using Thomas Jefferson's Qur'an. ](/news/2007/01/4/keith-ellison-the-first-muslim-member-of-the-united-states-congress-and-the-first-african-american-elected-to-the-house-from-minnesota-is.md) _Context: House of Representatives, Minnesota_
+3. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _Context: House of Representatives_
+4. [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md) _Context: Minnesota_
+5. [The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program, permitted by Section 702. Changes to the program will require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. ](/news/2018/01/11/the-united-states-house-of-representatives-passes-a-bill-to-reauthorize-for-a-period-of-six-years-a-key-foreign-intelligence-collection-pr.md) _Context: House of Representatives_

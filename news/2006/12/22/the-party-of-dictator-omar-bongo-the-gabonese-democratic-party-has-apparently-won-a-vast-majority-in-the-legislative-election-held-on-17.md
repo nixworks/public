@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/22/the-party-of-dictator-omar-bongo-the-gabonese-democratic-party-has-apparently-won-a-vast-majority-in-the-legislative-election-held-on-17.html)  [JSON](/news/2006/12/22/the-party-of-dictator-omar-bongo-the-gabonese-democratic-party-has-apparently-won-a-vast-majority-in-the-legislative-election-held-on-17.json)  [XML](/news/2006/12/22/the-party-of-dictator-omar-bongo-the-gabonese-democratic-party-has-apparently-won-a-vast-majority-in-the-legislative-election-held-on-17.xml)  
+
 ### [2006-12-22](/news/2006/12/22/index.md)
 
+##### Omar Bongo
 #  The party of dictator Omar Bongo, the Gabonese Democratic Party, has apparently won a vast majority in the legislative election held on 17 December 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6202995.stm)
 

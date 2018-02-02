@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/9/a-road-crash-near-potosi-in-southern-bolivia-leaves-at-least-47-dead-it-is-unclear-if-the-vehicle-was-a-bus-or-a-truck.html)  [JSON](/news/2008/07/9/a-road-crash-near-potosi-in-southern-bolivia-leaves-at-least-47-dead-it-is-unclear-if-the-vehicle-was-a-bus-or-a-truck.json)  [XML](/news/2008/07/9/a-road-crash-near-potosi-in-southern-bolivia-leaves-at-least-47-dead-it-is-unclear-if-the-vehicle-was-a-bus-or-a-truck.xml)  
+
 ### [2008-07-9](/news/2008/07/9/index.md)
 
+##### Potos
 #  A road crash near Potos in southern Bolivia leaves at least 47 dead. It is unclear if the vehicle was a bus or a truck. 
 
 At least 47 people, including 12 children, have been killed in Bolivia after a bus plunged down a cliff near the southern city of Potosi, according to media reports.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2008/07/09/2298988.htm?section=justin)
 2. [BBC News](http://news.bbc.co.uk/1/hi/world/americas/7496809.stm)

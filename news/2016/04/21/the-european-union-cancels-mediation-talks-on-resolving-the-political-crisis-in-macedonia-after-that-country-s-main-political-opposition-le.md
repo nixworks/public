@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/21/the-european-union-cancels-mediation-talks-on-r
 
 ### [2016-04-21](/news/2016/04/21/index.md)
 
+##### 2016 Macedonian protests
 # The European Union cancels mediation talks on resolving the political crisis in Macedonia after that country's main political opposition, led by Zoran Zaev, declined to take part. 
 
 

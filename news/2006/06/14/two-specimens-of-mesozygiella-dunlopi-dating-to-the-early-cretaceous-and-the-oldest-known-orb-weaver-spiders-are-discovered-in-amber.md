@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/14/two-specimens-of-mesozygiella-dunlopi-dating-to-the-early-cretaceous-and-the-oldest-known-orb-weaver-spiders-are-discovered-in-amber.html)  [JSON](/news/2006/06/14/two-specimens-of-mesozygiella-dunlopi-dating-to-the-early-cretaceous-and-the-oldest-known-orb-weaver-spiders-are-discovered-in-amber.json)  [XML](/news/2006/06/14/two-specimens-of-mesozygiella-dunlopi-dating-to-the-early-cretaceous-and-the-oldest-known-orb-weaver-spiders-are-discovered-in-amber.xml)  
+
 ### [2006-06-14](/news/2006/06/14/index.md)
 
+##### Mesozygiella dunlopi
 #  Two specimens of "Mesozygiella dunlopi", dating to the Early Cretaceous and the oldest known orb-weaver spiders, are discovered in amber. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/science/nature/5075860.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/20/celia-becomes-the-first-hurricane-of-the-2010-pacific-hurricane-season.html)  [JSON](/news/2010/06/20/celia-becomes-the-first-hurricane-of-the-2010-pacific-hurricane-season.json)  [XML](/news/2010/06/20/celia-becomes-the-first-hurricane-of-the-2010-pacific-hurricane-season.xml)  
+
 ### [2010-06-20](/news/2010/06/20/index.md)
 
+##### hurricane
 # Celia becomes the first hurricane of the 2010 Pacific hurricane season. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Breitbart](http://www.breitbart.com/article.php?id=D9GF7QQG2&show_article=1)
 

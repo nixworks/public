@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/8/33-people-are-killed-in-the-northern-indian-state-of-himachal-pradesh-when-an-overloaded-bus-falls-into-a-fast-flowing-river.html)  [JSON](/news/2013/05/8/33-people-are-killed-in-the-northern-indian-state-of-himachal-pradesh-when-an-overloaded-bus-falls-into-a-fast-flowing-river.json)  [XML](/news/2013/05/8/33-people-are-killed-in-the-northern-indian-state-of-himachal-pradesh-when-an-overloaded-bus-falls-into-a-fast-flowing-river.xml)  
+
 ### [2013-05-8](/news/2013/05/8/index.md)
 
+##### India
 # 33 people are killed in the northern Indian state of Himachal Pradesh when an overloaded bus falls into a fast-flowing river. 
 
 The death toll in a bus crash in the northern Indian state of Himachal Pradesh rises to 39, police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-22457396)
 2. [Xinhua](http://news.xinhuanet.com/english/world/2013-05/09/c_124683485.htm)

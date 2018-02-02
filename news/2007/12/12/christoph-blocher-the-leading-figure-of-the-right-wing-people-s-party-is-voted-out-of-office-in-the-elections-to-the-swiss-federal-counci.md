@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/12/christoph-blocher-the-leading-figure-of-the-right-wing-people-s-party-is-voted-out-of-office-in-the-elections-to-the-swiss-federal-counci.html)  [JSON](/news/2007/12/12/christoph-blocher-the-leading-figure-of-the-right-wing-people-s-party-is-voted-out-of-office-in-the-elections-to-the-swiss-federal-counci.json)  [XML](/news/2007/12/12/christoph-blocher-the-leading-figure-of-the-right-wing-people-s-party-is-voted-out-of-office-in-the-elections-to-the-swiss-federal-counci.xml)  
+
 ### [2007-12-12](/news/2007/12/12/index.md)
 
+##### Christoph Blocher
 #  Christoph Blocher, the leading figure of the right-wing People's Party, is voted out of office in the elections to the Swiss Federal Council. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Swissinfo.org](http://www.swissinfo.org/eng/front/Suspense_builds_over_cabinet_elections.html?siteSect=105&sid=8523720)
 

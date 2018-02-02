@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/04/16/general-motors-runs-a-2011-chevrolet-cruze-into-a-pole-at-12-mph-as-part-of-a-development-crash-test-on-fmvss-214-standards.html)  [JSON](/news/2010/04/16/general-motors-runs-a-2011-chevrolet-cruze-into-a-pole-at-12-mph-as-part-of-a-development-crash-test-on-fmvss-214-standards.json)  [XML](/news/2010/04/16/general-motors-runs-a-2011-chevrolet-cruze-into-a-pole-at-12-mph-as-part-of-a-development-crash-test-on-fmvss-214-standards.xml)  
+
 ### [2010-04-16](/news/2010/04/16/index.md)
 
+##### General Motors
 # General Motors runs a 2011 Chevrolet Cruze into a pole at 12 MPH as part of a development crash test on FMVSS 214 standards.
 
 

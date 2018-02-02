@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/18/in-angola-the-marburg-virus-has-claimed-311-lives.html)  [JSON](/news/2005/05/18/in-angola-the-marburg-virus-has-claimed-311-lives.json)  [XML](/news/2005/05/18/in-angola-the-marburg-virus-has-claimed-311-lives.xml)  
+
 ### [2005-05-18](/news/2005/05/18/index.md)
 
+##### Angola
 #  In Angola, the Marburg virus has claimed 311 lives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1707219,00.html)
 2. [ReliefWeb](http://www.reliefweb.int/rw/RWB.NSF/db900SID/HMYT-6CHNEC?OpenDocument)

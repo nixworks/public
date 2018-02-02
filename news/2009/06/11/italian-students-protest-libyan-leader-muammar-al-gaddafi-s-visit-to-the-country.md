@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/11/italian-students-protest-libyan-leader-muammar-al-gaddafi-s-visit-to-the-country.html)  [JSON](/news/2009/06/11/italian-students-protest-libyan-leader-muammar-al-gaddafi-s-visit-to-the-country.json)  [XML](/news/2009/06/11/italian-students-protest-libyan-leader-muammar-al-gaddafi-s-visit-to-the-country.xml)  
+
 ### [2009-06-11](/news/2009/06/11/index.md)
 
+##### Italy
 #  Italian students protest Libyan leader Muammar al-Gaddafi's visit to the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8095982.stm)
 

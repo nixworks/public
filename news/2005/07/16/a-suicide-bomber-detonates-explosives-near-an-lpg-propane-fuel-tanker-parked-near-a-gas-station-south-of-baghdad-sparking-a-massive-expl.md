@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/16/a-suicide-bomber-detonates-explosives-near-an-lpg-propane-fuel-tanker-parked-near-a-gas-station-south-of-baghdad-sparking-a-massive-expl.html)  [JSON](/news/2005/07/16/a-suicide-bomber-detonates-explosives-near-an-lpg-propane-fuel-tanker-parked-near-a-gas-station-south-of-baghdad-sparking-a-massive-expl.json)  [XML](/news/2005/07/16/a-suicide-bomber-detonates-explosives-near-an-lpg-propane-fuel-tanker-parked-near-a-gas-station-south-of-baghdad-sparking-a-massive-expl.xml)  
+
 ### [2005-07-16](/news/2005/07/16/index.md)
 
+##### suicide bomber
 #  A suicide bomber detonates explosives near an LPG (propane) fuel tanker parked near a gas station south of Baghdad, sparking a massive explosion that kills more than 60 people and wounds as many as 100 in one of the worst insurgent attacks to hit the area since the US occupation of Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WORLD/meast/07/16/iraq.main/index.html)
 

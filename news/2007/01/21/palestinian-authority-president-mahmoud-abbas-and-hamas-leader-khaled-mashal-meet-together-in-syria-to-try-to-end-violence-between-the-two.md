@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/21/palestinian-authority-president-mahmoud-abbas-and-hamas-leader-khaled-mashal-meet-together-in-syria-to-try-to-end-violence-between-the-two.html)  [JSON](/news/2007/01/21/palestinian-authority-president-mahmoud-abbas-and-hamas-leader-khaled-mashal-meet-together-in-syria-to-try-to-end-violence-between-the-two.json)  [XML](/news/2007/01/21/palestinian-authority-president-mahmoud-abbas-and-hamas-leader-khaled-mashal-meet-together-in-syria-to-try-to-end-violence-between-the-two.xml)  
+
 ### [2007-01-21](/news/2007/01/21/index.md)
 
+##### Palestinian Authority
 #  Palestinian Authority President Mahmoud Abbas and Hamas leader Khaled Mashal meet together in Syria to try to end violence between the two factions. However, differences remain and talks will resume possibly next week. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=2811528)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6283769.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/23/chinese-authorities-investigate-four-japanese-employees-of-fujita-corp-suspected-of-entering-a-military-zone-and-illegally-videotaping-mil.html)  [JSON](/news/2010/09/23/chinese-authorities-investigate-four-japanese-employees-of-fujita-corp-suspected-of-entering-a-military-zone-and-illegally-videotaping-mil.json)  [XML](/news/2010/09/23/chinese-authorities-investigate-four-japanese-employees-of-fujita-corp-suspected-of-entering-a-military-zone-and-illegally-videotaping-mil.xml)  
+
 ### [2010-09-23](/news/2010/09/23/index.md)
 
+##### China
 # Chinese authorities investigate four Japanese employees of Fujita Corp., suspected of entering a military zone and illegally videotaping military targets in northern Hebei Province. 
 
 China is investigating four Japanese who allegedly entered and filmed a Chinese military area, Chinese state media report.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jSWUFCkbjDIM0ni_MEC_zYz9l17gD9IDVV4O0)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11398933)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/22/a-man-in-philadelphia-firebombs-a-man-s-car-ref
 
 ### [2016-09-22](/news/2016/09/22/index.md)
 
+##### Philadelphia
 # A man in Philadelphia firebombs a man's car, referring to the injured burned man as being Muslim. 
 
 A nearby witness claims the suspect shouted the comment to the driver before throwing the explosive burning his face, legs, arms and hands

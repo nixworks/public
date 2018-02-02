@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/18/seven-people-are-killed-and-twenty-others-are-injured-in-a-suicide-car-bomb-attack-on-a-police-station-in-kohat-one-day-after-twin-bomb-att.html)  [JSON](/news/2010/04/18/seven-people-are-killed-and-twenty-others-are-injured-in-a-suicide-car-bomb-attack-on-a-police-station-in-kohat-one-day-after-twin-bomb-att.json)  [XML](/news/2010/04/18/seven-people-are-killed-and-twenty-others-are-injured-in-a-suicide-car-bomb-attack-on-a-police-station-in-kohat-one-day-after-twin-bomb-att.xml)  
+
 ### [2010-04-18](/news/2010/04/18/index.md)
 
+##### Kohat
 # Seven people are killed and twenty others are injured in a suicide car bomb attack on a police station in Kohat, one day after twin bomb attacks kill more than 40 people and wound at least 60 others at a camp for the displaced in the city. All the dead are civilians. 
 
 At least seven killed and 21 wounded in Kohat a day after twin blasts left 41 dead.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/201041844327780903.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8627880.stm)

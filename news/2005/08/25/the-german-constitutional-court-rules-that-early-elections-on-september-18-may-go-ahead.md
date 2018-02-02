@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/25/the-german-constitutional-court-rules-that-early-elections-on-september-18-may-go-ahead.html)  [JSON](/news/2005/08/25/the-german-constitutional-court-rules-that-early-elections-on-september-18-may-go-ahead.json)  [XML](/news/2005/08/25/the-german-constitutional-court-rules-that-early-elections-on-september-18-may-go-ahead.xml)  
+
 ### [2005-08-25](/news/2005/08/25/index.md)
 
+##### Federal Constitutional Court of Germany
 #  The German Constitutional Court rules that early elections on September 18 may go ahead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4181468.stm)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/12/26/japanese-prime-minister-shinzo-abe-visits-the-yasukuni-shrine-the-location-is-controversial-because-it-enshrines-many-war-criminals-from-wo.html)  [JSON](/news/2013/12/26/japanese-prime-minister-shinzo-abe-visits-the-yasukuni-shrine-the-location-is-controversial-because-it-enshrines-many-war-criminals-from-wo.json)  [XML](/news/2013/12/26/japanese-prime-minister-shinzo-abe-visits-the-yasukuni-shrine-the-location-is-controversial-because-it-enshrines-many-war-criminals-from-wo.xml)  
+
 ### [2013-12-26](/news/2013/12/26/index.md)
 
+##### Japan
 # Japanese Prime Minister Shinzo Abe visits the Yasukuni Shrine. The location is controversial because it enshrines many war criminals from World War II. The visit provokes condemnation from China and South Korea and criticism from the United States. 
 
 A visit to the Yasukuni Shrine highlighted Prime Minister Shinzo Abe&#8217;s willingness to take on big political risks as he tries to build a more powerful Japan.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2013/12/27/world/asia/japanese-premier-visits-contentious-war-shrine.html?hp)
+1. [The New York Times](https://www.nytimes.com/2013/12/27/world/asia/japanese-premier-visits-contentious-war-shrine.html?hp)
 1. [Cover Image](https://static01.nyt.com/images/2013/12/27/world/japan/japan-videoSixteenByNine1050-v2.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/30/sudanese-officials-claim-that-the-army-has-freed-14-of-29-chinese-workers-held-by-rebels-in-the-south-kordofan-region-since-last-saturday.html)  [JSON](/news/2012/01/30/sudanese-officials-claim-that-the-army-has-freed-14-of-29-chinese-workers-held-by-rebels-in-the-south-kordofan-region-since-last-saturday.json)  [XML](/news/2012/01/30/sudanese-officials-claim-that-the-army-has-freed-14-of-29-chinese-workers-held-by-rebels-in-the-south-kordofan-region-since-last-saturday.xml)  
+
 ### [2012-01-30](/news/2012/01/30/index.md)
 
+##### Sudan
 # Sudanese officials claim that the army has freed 14 of 29 Chinese workers held by rebels in the South Kordofan region since last Saturday. 
 
 The fate of 29 Chinese workers kidnapped in Sudan is unclear after Chinese officials are quoted casting doubts on reports that some have been freed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16784009)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58168000/jpg/_58168970_jcpgekfg.jpg)

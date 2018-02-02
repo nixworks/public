@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/04/12/macy-s-loses-a-bid-to-stop-jc-penney-from-selling-unbranded-housewares-designed-by-martha-stewart.html)  [JSON](/news/2013/04/12/macy-s-loses-a-bid-to-stop-jc-penney-from-selling-unbranded-housewares-designed-by-martha-stewart.json)  [XML](/news/2013/04/12/macy-s-loses-a-bid-to-stop-jc-penney-from-selling-unbranded-housewares-designed-by-martha-stewart.xml)  
+
 ### [2013-04-12](/news/2013/04/12/index.md)
 
+##### Macy's
 # Macy's loses a bid to stop JC Penney from selling unbranded housewares designed by Martha Stewart. 
 
 A judge says the retailer can at least temporarily sell housewares designed by Martha Stewart under the JCP Everyday label.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2013/04/13/business/interim-martha-stewart-ruling-favors-jc-penney.html)
+1. [The New York Times](https://www.nytimes.com/2013/04/13/business/interim-martha-stewart-ruling-favors-jc-penney.html)
 1. [Cover Image](https://static01.nyt.com/images/2013/04/13/business/13martha-pic2/13martha-pic2-videoLarge-v2.jpg)
 
 ### Related:

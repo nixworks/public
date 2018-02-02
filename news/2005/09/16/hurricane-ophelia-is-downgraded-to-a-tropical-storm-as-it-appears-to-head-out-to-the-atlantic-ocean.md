@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/16/hurricane-ophelia-is-downgraded-to-a-tropical-storm-as-it-appears-to-head-out-to-the-atlantic-ocean.html)  [JSON](/news/2005/09/16/hurricane-ophelia-is-downgraded-to-a-tropical-storm-as-it-appears-to-head-out-to-the-atlantic-ocean.json)  [XML](/news/2005/09/16/hurricane-ophelia-is-downgraded-to-a-tropical-storm-as-it-appears-to-head-out-to-the-atlantic-ocean.xml)  
+
 ### [2005-09-16](/news/2005/09/16/index.md)
 
+##### Hurricane Ophelia
 #  Hurricane Ophelia is downgraded to a tropical storm as it appears to head out to the Atlantic Ocean. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Science Daily](http://www.sciencedaily.com/upi/?feed=TopNews&article=UPI-1-20050916-07143300-bc-us-ophelia.xml)
 

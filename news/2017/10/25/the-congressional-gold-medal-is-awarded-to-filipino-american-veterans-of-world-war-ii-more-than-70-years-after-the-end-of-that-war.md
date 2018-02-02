@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.html)  [JSON](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.json)  [XML](/news/2017/10/25/the-congressional-gold-medal-is-awarded-to-filipino-american-veterans-of-world-war-ii-more-than-70-years-after-the-end-of-that-war.xml)  
+
 ### [2017-10-25](/news/2017/10/25/index.md)
 
+##### Congressional Gold Medal
 # The Congressional Gold Medal is awarded to Filipino American veterans of World War II more than 70 years after the end of that war. 
 
 After more than 70 years, Filipino veterans who fought side by side with the Americans in World War II finally got yesterday their long-overdue recognition – a Congressional Gold Medal (CGM) award from the United States Congress.

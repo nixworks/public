@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/7/irish-singer-bono-of-rock-band-u2-is-nominated-for-world-bank-presidency.html)  [JSON](/news/2005/03/7/irish-singer-bono-of-rock-band-u2-is-nominated-for-world-bank-presidency.json)  [XML](/news/2005/03/7/irish-singer-bono-of-rock-band-u2-is-nominated-for-world-bank-presidency.xml)  
+
 ### [2005-03-7](/news/2005/03/7/index.md)
 
+##### Bono
 #  Irish singer Bono, of rock band U2, is nominated for World Bank presidency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business World](http://www.businessworld.ie/livenews.htm?a=1123496;s=rollingnews.htm)
 2. [Guardian](http://www.guardian.co.uk/arts/news/story/0,11711,1431946,00.html)

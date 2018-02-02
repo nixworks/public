@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/3/roc-local-elections-2005-republic-of-china-taiwan-opposition-party-kuomintang-chinese-nationalist-party-makes-major-gains-in-municipa.html)  [JSON](/news/2005/12/3/roc-local-elections-2005-republic-of-china-taiwan-opposition-party-kuomintang-chinese-nationalist-party-makes-major-gains-in-municipa.json)  [XML](/news/2005/12/3/roc-local-elections-2005-republic-of-china-taiwan-opposition-party-kuomintang-chinese-nationalist-party-makes-major-gains-in-municipa.xml)  
+
 ### [2005-12-3](/news/2005/12/3/index.md)
 
+##### recent elections
 #  ROC local elections, 2005: Republic of China (Taiwan) opposition party Kuomintang (Chinese Nationalist Party) makes major gains in municipal elections, taking 14 of 23 mayor or county magistrate seats. Ruling Democratic Progressive Party takes six seats. People First Party and New Party each takes one seat, and an independent wins one seat. DPP chairman Su Tseng-chang resigns to take responsibility for his party's defeat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2005/12/03/international/i043105S58.DTL)
 

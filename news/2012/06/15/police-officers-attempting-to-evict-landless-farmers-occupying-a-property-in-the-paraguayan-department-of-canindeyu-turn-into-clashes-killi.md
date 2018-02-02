@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/15/police-officers-attempting-to-evict-landless-farmers-occupying-a-property-in-the-paraguayan-department-of-canindeyu-turn-into-clashes-killi.html)  [JSON](/news/2012/06/15/police-officers-attempting-to-evict-landless-farmers-occupying-a-property-in-the-paraguayan-department-of-canindeyu-turn-into-clashes-killi.json)  [XML](/news/2012/06/15/police-officers-attempting-to-evict-landless-farmers-occupying-a-property-in-the-paraguayan-department-of-canindeyu-turn-into-clashes-killi.xml)  
+
 ### [2012-06-15](/news/2012/06/15/index.md)
 
+##### Paraguay
 # Police officers attempting to evict landless farmers occupying a property in the Paraguayan department of Canindey turn into clashes, killing 16 officers and farmers. 
 
 At least 16 people die in eastern Paraguay as evictions of landless farmers turn violent, triggering senior resignations.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18466238)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/60946000/gif/_60946104_paraguay_canindeyu_0612.gif)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/25/a-u-s-judge-sentences-ahmed-ghailani-the-first-guantanamo-detainee-to-have-a-civilian-trial-in-america-to-life-imprisonment-for-conspirac.html)  [JSON](/news/2011/01/25/a-u-s-judge-sentences-ahmed-ghailani-the-first-guantanamo-detainee-to-have-a-civilian-trial-in-america-to-life-imprisonment-for-conspirac.json)  [XML](/news/2011/01/25/a-u-s-judge-sentences-ahmed-ghailani-the-first-guantanamo-detainee-to-have-a-civilian-trial-in-america-to-life-imprisonment-for-conspirac.xml)  
+
 ### [2011-01-25](/news/2011/01/25/index.md)
 
+##### Ahmed Ghailani
 # A U.S. judge sentences Ahmed Ghailani, the first Guantanamo detainee to have a civilian trial in America, to life imprisonment for conspiracy to destroy government buildings. He was found "not guilty" of 285 other charges filed against him, including 200 counts of murder and dozens of other charges. 
 
 The only Guantanamo detainee tried in a US civilian court is given a life sentence for his part in US embassy bombings.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/201112519256810938.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-12279533)

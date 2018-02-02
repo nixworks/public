@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/07/3/japan-s-minister-for-defense-fumio-kyuma-resigns-over-comments-he-made-about-the-atomic-bombings-of-hiroshima-and-nagasaki-on-the-weekend.html)  [JSON](/news/2007/07/3/japan-s-minister-for-defense-fumio-kyuma-resigns-over-comments-he-made-about-the-atomic-bombings-of-hiroshima-and-nagasaki-on-the-weekend.json)  [XML](/news/2007/07/3/japan-s-minister-for-defense-fumio-kyuma-resigns-over-comments-he-made-about-the-atomic-bombings-of-hiroshima-and-nagasaki-on-the-weekend.xml)  
+
 ### [2007-07-3](/news/2007/07/3/index.md)
 
+##### Japan
 #  Japan's Minister for Defense Fumio Kyuma resigns over comments he made about the atomic bombings of Hiroshima and Nagasaki on the weekend. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6263812.stm)
 
 ### Related:
 
-1. [Japan commemorates the 70th anniversary of the atomic bomb dropped over the Japanese city of Nagasaki during World War II. ](/news/2015/08/9/japan-commemorates-the-70th-anniversary-of-the-atomic-bomb-dropped-over-the-japanese-city-of-nagasaki-during-world-war-ii.md) _Context: Japan, dropped_
-2. [A South Korean court rules that South Korea is not obliged to pay compensation to its nationals who were victims of the Atomic bombings of Hiroshima and Nagasaki who have not been compensated by Japan. ](/news/2015/06/26/a-south-korean-court-rules-that-south-korea-is-not-obliged-to-pay-compensation-to-its-nationals-who-were-victims-of-the-atomic-bombings-of-h.md) _Context: Japan, dropped_
-3. [Japan marks the 65th anniversary of the 1945 atomic bombing of Nagasaki. The United States, which perpetrated the attack, upsets survivors by not sending an ambassador due to "scheduling reasons" this time, though France and the UK send representatives for the first time. ](/news/2010/08/9/japan-marks-the-65th-anniversary-of-the-1945-atomic-bombing-of-nagasaki-the-united-states-which-perpetrated-the-attack-upsets-survivors-b.md) _Context: Japan, dropped_
-4. [ Japan marks the 62nd anniversary of the atomic bombing of Hiroshima. ](/news/2007/08/6/japan-marks-the-62nd-anniversary-of-the-atomic-bombing-of-hiroshima.md) _Context: Japan, dropped_
-5. [ Japan's first female Minister of Defense, Yuriko Koike, is sworn in a day after the resignation of her predecessor, Fumio Kyuma. ](/news/2007/07/4/japan-s-first-female-minister-of-defense-yuriko-koike-is-sworn-in-a-day-after-the-resignation-of-her-predecessor-fumio-kyuma.md) _Context: Fumio Kyuma, Japan_
+1. [ Japan's first female Minister of Defense, Yuriko Koike, is sworn in a day after the resignation of her predecessor, Fumio Kyuma. ](/news/2007/07/4/japan-s-first-female-minister-of-defense-yuriko-koike-is-sworn-in-a-day-after-the-resignation-of-her-predecessor-fumio-kyuma.md) _Context: Fumio Kyuma, Japan_
+2. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_
+3. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: Japan_
+4. [A 17-pound (8 kg) CH-53E transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-ch-53e-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week.md) _Context: Japan_
+5. [Former millionaire Chisako Kakehi (also known as Japan's "Black Widow") is sentenced to death for the murder of 3 men which included a husband. ](/news/2017/11/7/former-millionaire-chisako-kakehi-also-known-as-japan-s-black-widow-is-sentenced-to-death-for-the-murder-of-3-men-which-included-a-husba.md) _Context: Japan_

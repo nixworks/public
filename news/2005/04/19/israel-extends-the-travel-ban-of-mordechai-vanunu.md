@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/19/israel-extends-the-travel-ban-of-mordechai-vanunu.html)  [JSON](/news/2005/04/19/israel-extends-the-travel-ban-of-mordechai-vanunu.json)  [XML](/news/2005/04/19/israel-extends-the-travel-ban-of-mordechai-vanunu.xml)  
+
 ### [2005-04-19](/news/2005/04/19/index.md)
 
+##### Israel
 #  Israel extends the travel ban of Mordechai Vanunu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4459371.stm)
 2. [Ha'arets](http://www.haaretz.com/hasen/spages/567068.html)

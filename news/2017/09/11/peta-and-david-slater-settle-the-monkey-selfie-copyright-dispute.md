@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/11/peta-and-david-slater-settle-the-monkey-selfie-
 
 ### [2017-09-11](/news/2017/09/11/index.md)
 
+##### Monkey selfie copyright dispute
 # PETA and David Slater settle the monkey selfie copyright dispute. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/27/former-saenuri-party-member-of-the-south-korean-national-assembly-cho-hyun-ryong-is-jailed-for-five-years-for-accepting-bribes.html)  [JSON](/news/2015/11/27/former-saenuri-party-member-of-the-south-korean-national-assembly-cho-hyun-ryong-is-jailed-for-five-years-for-accepting-bribes.json)  [XML](/news/2015/11/27/former-saenuri-party-member-of-the-south-korean-national-assembly-cho-hyun-ryong-is-jailed-for-five-years-for-accepting-bribes.xml)  
+
 ### [2015-11-27](/news/2015/11/27/index.md)
 
+##### Saenuri Party
 # Former Saenuri Party member of the South Korean National Assembly Cho Hyun-ryong is jailed for five years for accepting bribes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2015/11/27/0200000000AEN20151127003600315.html?input=www.tweeter.com)
 

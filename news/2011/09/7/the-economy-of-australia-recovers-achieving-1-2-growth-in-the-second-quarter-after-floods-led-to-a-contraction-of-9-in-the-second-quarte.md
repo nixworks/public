@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/7/the-economy-of-australia-recovers-achieving-1-2-growth-in-the-second-quarter-after-floods-led-to-a-contraction-of-9-in-the-second-quarte.html)  [JSON](/news/2011/09/7/the-economy-of-australia-recovers-achieving-1-2-growth-in-the-second-quarter-after-floods-led-to-a-contraction-of-9-in-the-second-quarte.json)  [XML](/news/2011/09/7/the-economy-of-australia-recovers-achieving-1-2-growth-in-the-second-quarter-after-floods-led-to-a-contraction-of-9-in-the-second-quarte.xml)  
+
 ### [2011-09-7](/news/2011/09/7/index.md)
 
+##### economy of Australia
 # The economy of Australia recovers, achieving 1.2% growth in the second quarter after floods led to a contraction of .9% in the second quarter. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dow Jones via ''The Australian](http://www.theaustralian.com.au/business/economics/australian-economy-grew-faster-than-expected-in-the-june-quarter/story-e6frg926-1226131278220)
 

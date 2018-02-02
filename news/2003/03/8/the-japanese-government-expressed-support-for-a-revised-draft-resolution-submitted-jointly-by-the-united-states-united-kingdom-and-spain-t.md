@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/8/the-japanese-government-expressed-support-for-a-revised-draft-resolution-submitted-jointly-by-the-united-states-united-kingdom-and-spain-t.html)  [JSON](/news/2003/03/8/the-japanese-government-expressed-support-for-a-revised-draft-resolution-submitted-jointly-by-the-united-states-united-kingdom-and-spain-t.json)  [XML](/news/2003/03/8/the-japanese-government-expressed-support-for-a-revised-draft-resolution-submitted-jointly-by-the-united-states-united-kingdom-and-spain-t.xml)  
+
 ### [2003-03-8](/news/2003/03/8/index.md)
 
+##### Politics of Japan
 #  The Japanese government expressed support for a revised draft resolution submitted jointly by the United States, United Kingdom and Spain to the United Nations Security Council that sets March 17 as the deadline for Iraq. Japanese media opinion polls taken last week indicate that 84% of Japanese people oppose an Iraq war.
 
 

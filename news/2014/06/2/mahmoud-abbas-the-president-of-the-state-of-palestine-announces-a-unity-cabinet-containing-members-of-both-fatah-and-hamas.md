@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/2/mahmoud-abbas-the-president-of-the-state-of-palestine-announces-a-unity-cabinet-containing-members-of-both-fatah-and-hamas.html)  [JSON](/news/2014/06/2/mahmoud-abbas-the-president-of-the-state-of-palestine-announces-a-unity-cabinet-containing-members-of-both-fatah-and-hamas.json)  [XML](/news/2014/06/2/mahmoud-abbas-the-president-of-the-state-of-palestine-announces-a-unity-cabinet-containing-members-of-both-fatah-and-hamas.xml)  
+
 ### [2014-06-2](/news/2014/06/2/index.md)
 
+##### Mahmoud Abbas
 # Mahmoud Abbas, the President of the State of Palestine, announces a unity cabinet containing members of both Fatah and Hamas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Newsits](http://www.newsits.com/news/world/netanyahu-urges-world-not-to-recognise-palestinian-unity-government-reuters/)
 

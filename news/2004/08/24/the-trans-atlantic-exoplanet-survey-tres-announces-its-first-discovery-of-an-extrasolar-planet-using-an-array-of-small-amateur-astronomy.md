@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/08/24/the-trans-atlantic-exoplanet-survey-tres-announces-its-first-discovery-of-an-extrasolar-planet-using-an-array-of-small-amateur-astronomy.html)  [JSON](/news/2004/08/24/the-trans-atlantic-exoplanet-survey-tres-announces-its-first-discovery-of-an-extrasolar-planet-using-an-array-of-small-amateur-astronomy.json)  [XML](/news/2004/08/24/the-trans-atlantic-exoplanet-survey-tres-announces-its-first-discovery-of-an-extrasolar-planet-using-an-array-of-small-amateur-astronomy.xml)  
+
 ### [2004-08-24](/news/2004/08/24/index.md)
 
+##### Trans-Atlantic Exoplanet Survey
 #  The Trans-Atlantic Exoplanet Survey (TrES) announces its first discovery of an extrasolar planet using an array of small amateur-astronomy-sized telescopes. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [ArXiv paper](http://arxiv.org/abs/astro-ph/0408421)
+1. [ArXiv paper](https://arxiv.org/abs/astro-ph/0408421)
 2. [Press release](http://www.cfa.harvard.edu/press/pr0427.html)
 
 ### Related:

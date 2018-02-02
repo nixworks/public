@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/26/archaeologists-announce-the-discovery-of-a-2-40
 
 ### [2016-05-26](/news/2016/05/26/index.md)
 
+##### Archaeologists
 # Archaeologists announce the discovery of a 2,400-year-old tomb which they believe to be that of Aristotle based on its grandiosity, and its location atop a hill in Stagira, the city of his birth. 
 
 At a conference for the 2,400th anniversary of Aristotle’s birth, the archaeologist said he had “no proof but strong indications, as certain as one can be.”

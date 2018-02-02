@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/09/16/ukrainian-journalist-georgiy-gongadze-is-last-seen-alive-this-day-is-taken-as-the-commemoration-date-of-his-death.html)  [JSON](/news/2000/09/16/ukrainian-journalist-georgiy-gongadze-is-last-seen-alive-this-day-is-taken-as-the-commemoration-date-of-his-death.json)  [XML](/news/2000/09/16/ukrainian-journalist-georgiy-gongadze-is-last-seen-alive-this-day-is-taken-as-the-commemoration-date-of-his-death.xml)  
+
 ### [2000-09-16](/news/2000/09/16/index.md)
 
+##### Ukraine
 #  Ukrainian journalist Georgiy Gongadze is last seen alive; this day is taken as the commemoration date of his death.
 
 

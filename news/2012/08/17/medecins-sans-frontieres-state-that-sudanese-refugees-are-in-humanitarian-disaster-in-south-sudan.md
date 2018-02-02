@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/17/medecins-sans-frontieres-state-that-sudanese-refugees-are-in-humanitarian-disaster-in-south-sudan.html)  [JSON](/news/2012/08/17/medecins-sans-frontieres-state-that-sudanese-refugees-are-in-humanitarian-disaster-in-south-sudan.json)  [XML](/news/2012/08/17/medecins-sans-frontieres-state-that-sudanese-refugees-are-in-humanitarian-disaster-in-south-sudan.xml)  
+
 ### [2012-08-17](/news/2012/08/17/index.md)
 
+##### Mdecins Sans Frontires
 # Mdecins Sans Frontires state that Sudanese refugees are in 'humanitarian disaster' in South Sudan. 
 
 People are dying in large numbers in a refugee camp in South Sudan, a medical charity says, describing the situation as a humanitarian disaster.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19292250)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62332000/jpg/_62332407_62332406.jpg)

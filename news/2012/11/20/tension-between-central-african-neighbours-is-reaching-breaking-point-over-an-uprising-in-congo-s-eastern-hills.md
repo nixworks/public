@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/20/tension-between-central-african-neighbours-is-reaching-breaking-point-over-an-uprising-in-congo-s-eastern-hills.html)  [JSON](/news/2012/11/20/tension-between-central-african-neighbours-is-reaching-breaking-point-over-an-uprising-in-congo-s-eastern-hills.json)  [XML](/news/2012/11/20/tension-between-central-african-neighbours-is-reaching-breaking-point-over-an-uprising-in-congo-s-eastern-hills.xml)  
+
 ### [2012-11-20](/news/2012/11/20/index.md)
 
+##### Congo
 # Tension between central African neighbours is reaching breaking point over an uprising in Congo's eastern hills. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/11/20121120102140544513.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/11/2012112031546782209.html)

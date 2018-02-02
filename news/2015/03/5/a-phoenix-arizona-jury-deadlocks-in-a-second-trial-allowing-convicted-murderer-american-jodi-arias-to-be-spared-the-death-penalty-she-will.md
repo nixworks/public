@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/5/a-phoenix-arizona-jury-deadlocks-in-a-second-trial-allowing-convicted-murderer-american-jodi-arias-to-be-spared-the-death-penalty-she-will.html)  [JSON](/news/2015/03/5/a-phoenix-arizona-jury-deadlocks-in-a-second-trial-allowing-convicted-murderer-american-jodi-arias-to-be-spared-the-death-penalty-she-will.json)  [XML](/news/2015/03/5/a-phoenix-arizona-jury-deadlocks-in-a-second-trial-allowing-convicted-murderer-american-jodi-arias-to-be-spared-the-death-penalty-she-will.xml)  
+
 ### [2015-03-5](/news/2015/03/5/index.md)
 
+##### Phoenix, Arizona
 # A Phoenix, Arizona jury deadlocks in a second trial allowing convicted murderer American Jodi Arias to be spared the death penalty. She will be sent to prison for life for killing her lover in 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/ae327446e1d94010b4ab095a74296a77/court-jodi-arias-jurors-reach-verdict-sentencing-retrial)
 

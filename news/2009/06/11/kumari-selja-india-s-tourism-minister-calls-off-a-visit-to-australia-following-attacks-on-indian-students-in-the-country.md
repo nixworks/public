@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/11/kumari-selja-india-s-tourism-minister-calls-off-a-visit-to-australia-following-attacks-on-indian-students-in-the-country.html)  [JSON](/news/2009/06/11/kumari-selja-india-s-tourism-minister-calls-off-a-visit-to-australia-following-attacks-on-indian-students-in-the-country.json)  [XML](/news/2009/06/11/kumari-selja-india-s-tourism-minister-calls-off-a-visit-to-australia-following-attacks-on-indian-students-in-the-country.xml)  
+
 ### [2009-06-11](/news/2009/06/11/index.md)
 
+##### Kumari Selja
 #  Kumari Selja, India's tourism minister, calls off a visit to Australia following attacks on Indian students in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8094682.stm)
 

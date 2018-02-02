@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/20/the-insecticide-regent-fipronil-from-basf-is-banned-in-france-for-its-implication-in-pollinator-decline-the-firm-itself-will-be-sued.html)  [JSON](/news/2004/02/20/the-insecticide-regent-fipronil-from-basf-is-banned-in-france-for-its-implication-in-pollinator-decline-the-firm-itself-will-be-sued.json)  [XML](/news/2004/02/20/the-insecticide-regent-fipronil-from-basf-is-banned-in-france-for-its-implication-in-pollinator-decline-the-firm-itself-will-be-sued.xml)  
+
 ### [2004-02-20](/news/2004/02/20/index.md)
 
+##### Regent
 #  The insecticide Regent (fipronil), from BASF, is banned in France for its implication in Pollinator decline, The firm itself will be sued. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Le Monde](http://www.lemonde.fr/web/recherche_articleweb/1,13-0,36-353552,0.html?query=regent&query2=&booleen=et&num_page=1&auteur=&dans=dansarticle&periode=30&ordre=pertinence&G_NBARCHIVES=810101&nbpages=1&artparpage=10&nb_art=5)
 

@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2008/04/3/jules-verne-the-first-european-automated-transfer-vehicle-successfully-performs-a-fully-automated-docking-with-the-international-space.html)  [JSON](/news/2008/04/3/jules-verne-the-first-european-automated-transfer-vehicle-successfully-performs-a-fully-automated-docking-with-the-international-space.json)  [XML](/news/2008/04/3/jules-verne-the-first-european-automated-transfer-vehicle-successfully-performs-a-fully-automated-docking-with-the-international-space.xml)  
+
 ### [2008-04-3](/news/2008/04/3/index.md)
 
+##### Jules Verne
 #  "Jules Verne", the first European Automated Transfer Vehicle, successfully performs a fully automated docking with the International Space Station. 
 
  ESA PR 20-2008. ATV Jules Verne, the European Space Agency’s first resupply and reboost vehicle, has successfully performed a fully automated docking with the International Space Station (ISS). 
 
 
-### Source:
+### Sources:
 
 1. [ESA](http://www.esa.int/esaCP/SEMORO5QGEF_index_0.html)
 1. [Cover Image](http://www.esa.int/var/esa/storage/images/esa_multimedia/images/2008/04/jules_verne_atv_docking/9782988-4-eng-GB/Jules_Verne_ATV_docking_large.jpg)
+
+### Changes:
+
+1. [ ''Jules Verne'', the first European Automated Transfer Vehicle, successfully performs a fully automated docking with the International Space Station. ](/news/2008/04/3/jules-verne-the-first-european-automated-transfer-vehicle-successfully-performs-a-fully-automated-docking-with-the-international-spac.md) _2017-08-25 03:22:01 (First version)_
+1. [ "Jules Verne", the first European Automated Transfer Vehicle, successfully performs a fully automated docking with the International Space Station. ](/news/2008/04/3/jules-verne-the-first-european-automated-transfer-vehicle-successfully-performs-a-fully-automated-docking-with-the-international-space.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Rocket Lab launches its 3D-printed Electron rocket on a test flight from Mahia Peninsula in New Zealand. This is the first launch from New Zealand and the first from a private facility. Electron is 17 meters high, is intended for frequent launches of small payloads, and costs $5 million per liftoff. SpaceX's Falcon 9 stands at 70 meters, carries up to 22,800 kilograms to the ISS, and costs $62 million per launch. ](/news/2017/05/25/rocket-lab-launches-its-3d-printed-electron-rocket-on-a-test-flight-from-mahia-peninsula-in-new-zealand-this-is-the-first-launch-from-new.md) _Context: International Space Station_
 4. [Peggy Whitson, commander of the International Space Station (ISS), breaks the record for most total days spent in space by any NASA astronaut, at more than 534 days. ](/news/2017/04/24/peggy-whitson-commander-of-the-international-space-station-iss-breaks-the-record-for-most-total-days-spent-in-space-by-any-nasa-astronau.md) _Context: International Space Station_
 5. [SpaceX successfully places the SES-10 telecommunications satellite on a geostationary transfer orbit. The event is notable because of the implied economic cost savings of reusing, for the first time, a used Falcon 9 first stage which had previously been recovered. That first stage had previously launched a Dragon spacecraft to the International Space Station and landed on an autonomous drone ship during the CRS-8 mission. ](/news/2017/03/30/spacex-successfully-places-the-ses-10-telecommunications-satellite-on-a-geostationary-transfer-orbit-the-event-is-notable-because-of-the-im.md) _Context: International Space Station_
-
-### Changes:
-
-1. [ ''Jules Verne'', the first European Automated Transfer Vehicle, successfully performs a fully automated docking with the International Space Station. ](/news/2008/04/3/jules-verne-the-first-european-automated-transfer-vehicle-successfully-performs-a-fully-automated-docking-with-the-international-spac.md) _2017-08-25 03:22:01 (First version)_
-1. [ "Jules Verne", the first European Automated Transfer Vehicle, successfully performs a fully automated docking with the International Space Station. ](/news/2008/04/3/jules-verne-the-first-european-automated-transfer-vehicle-successfully-performs-a-fully-automated-docking-with-the-international-space.md) _(Current version)_

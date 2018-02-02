@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/17/a-wildfire-erupts-near-yosemite-national-park-growing-to-25-square-miles-65-square-kilometers-overnight.html)  [JSON](/news/2013/08/17/a-wildfire-erupts-near-yosemite-national-park-growing-to-25-square-miles-65-square-kilometers-overnight.json)  [XML](/news/2013/08/17/a-wildfire-erupts-near-yosemite-national-park-growing-to-25-square-miles-65-square-kilometers-overnight.xml)  
+
 ### [2013-08-17](/news/2013/08/17/index.md)
 
+##### Yosemite National Park
 # A wildfire erupts near Yosemite National Park, growing to 25 square miles (~65 square kilometers) overnight.
 
 
 
 
-### Source:
+### Sources:
 
 1. [KTVU](http://www.ktvu.com/news/news/local/yosemite-fire-rages-grows-more-25-square-miles/nZYHz/)
 

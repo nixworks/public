@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/15/war-in-iraq-a-raid-by-the-united-states-military-kills-eleven-iraqis-mostly-civilians.html)  [JSON](/news/2006/03/15/war-in-iraq-a-raid-by-the-united-states-military-kills-eleven-iraqis-mostly-civilians.json)  [XML](/news/2006/03/15/war-in-iraq-a-raid-by-the-united-states-military-kills-eleven-iraqis-mostly-civilians.xml)  
+
 ### [2006-03-15](/news/2006/03/15/index.md)
 
+##### War in Iraq
 #  War in Iraq: A raid by the United States military kills eleven Iraqis, mostly civilians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel 4 News](http://www.channel4.com/news/content/news-storypage.jsp?id=1993664)
 

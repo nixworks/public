@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/7/a-suicide-bombing-at-the-supreme-court-of-afghan
 
 ### [2017-02-7](/news/2017/02/7/index.md)
 
+##### War in Afghanistan (2015-present)
 # A suicide bombing at the Supreme Court of Afghanistan in Kabul kills at least 20 people and injures 41 others, 10 of whom are in critical condition. 
 
 At least 41 other were wounded in the Kabul explosion, including 10 of them in critical condition.

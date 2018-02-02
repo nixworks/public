@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/2/two-months-after-his-resignation-pope-emeritus-benedict-xvi-returns-to-live-in-vatican-city-at-the-mater-ecclesiae.html)  [JSON](/news/2013/05/2/two-months-after-his-resignation-pope-emeritus-benedict-xvi-returns-to-live-in-vatican-city-at-the-mater-ecclesiae.json)  [XML](/news/2013/05/2/two-months-after-his-resignation-pope-emeritus-benedict-xvi-returns-to-live-in-vatican-city-at-the-mater-ecclesiae.xml)  
+
 ### [2013-05-2](/news/2013/05/2/index.md)
 
+##### resignation
 # Two months after his resignation, Pope Emeritus Benedict XVI returns to live in Vatican City at the Mater Ecclesiae. 
 
 Former Pope Benedict returns to a new home in the Vatican, two months after becoming the first pontiff to resign in 600 years.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22385252)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/67385000/jpg/_67385706_67385705.jpg)

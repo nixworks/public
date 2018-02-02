@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/31/nine-people-are-killed-after-a-train-crashes-into-a-minibus-in-hanoi-vietnam.html)  [JSON](/news/2011/03/31/nine-people-are-killed-after-a-train-crashes-into-a-minibus-in-hanoi-vietnam.json)  [XML](/news/2011/03/31/nine-people-are-killed-after-a-train-crashes-into-a-minibus-in-hanoi-vietnam.xml)  
+
 ### [2011-03-31](/news/2011/03/31/index.md)
 
+##### Hanoi
 # Nine people are killed after a train crashes into a minibus in Hanoi, Vietnam. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_651403.html)
 2. [Vietnam Net](http://english.vietnamnet.vn/en/society/6586/nine-die-in-car-train-crash.html)

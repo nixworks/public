@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/15/jamal-benomar-resigns-as-the-united-nations-peace-envoy-to-yemen-after-losing-support-from-the-gulf-nations.html)  [JSON](/news/2015/04/15/jamal-benomar-resigns-as-the-united-nations-peace-envoy-to-yemen-after-losing-support-from-the-gulf-nations.json)  [XML](/news/2015/04/15/jamal-benomar-resigns-as-the-united-nations-peace-envoy-to-yemen-after-losing-support-from-the-gulf-nations.xml)  
+
 ### [2015-04-15](/news/2015/04/15/index.md)
 
+##### Jamal Benomar
 # Jamal Benomar resigns as the United Nations peace envoy to Yemen after losing support from the Gulf nations. 
 
 UNITED NATIONS, United States (AFP) - The UN peace envoy to Yemen, Jamal Benomar, has resigned, a UN official said Wednesday, after losing support from Gulf countries for his mission in the conflict-riven nation.. Read more at straitstimes.com.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/news/world/middle-east/story/un-peace-envoy-yemen-resigns-after-losing-support-gulf-countries-201504)
 1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/04/16/SECURITY160415e_2x.jpg?itok=kY52aheS)

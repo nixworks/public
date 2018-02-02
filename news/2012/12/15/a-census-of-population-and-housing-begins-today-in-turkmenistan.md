@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/15/a-census-of-population-and-housing-begins-today-in-turkmenistan.html)  [JSON](/news/2012/12/15/a-census-of-population-and-housing-begins-today-in-turkmenistan.json)  [XML](/news/2012/12/15/a-census-of-population-and-housing-begins-today-in-turkmenistan.xml)  
+
 ### [2012-12-15](/news/2012/12/15/index.md)
 
+##### Turkmenistan
 # A census of population and housing begins today in Turkmenistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Trend](http://en.trend.az/regions/casia/turkmenistan/2090202.html)
 

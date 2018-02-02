@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/17/two-americans-and-two-canadians-are-abducted-by
 
 ### [2018-01-17](/news/2018/01/17/index.md)
 
+##### Americans
 # Two Americans and two Canadians are abducted by unknown gunmen in Kaduna State, Nigeria. Two police officers are killed after engaging in a firefight with the abductors. 
 
 Kidnappers have abducted two Americans and two Canadians in the northern Nigerian state of Kaduna, killing two police officers, a police spokesman said on Wednesday.

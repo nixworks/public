@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/8/an-investigation-by-the-associated-press-and-german-media-uncovers-a-secret-prison-suspected-of-having-been-operated-by-the-central-intellig.html)  [JSON](/news/2011/12/8/an-investigation-by-the-associated-press-and-german-media-uncovers-a-secret-prison-suspected-of-having-been-operated-by-the-central-intellig.json)  [XML](/news/2011/12/8/an-investigation-by-the-associated-press-and-german-media-uncovers-a-secret-prison-suspected-of-having-been-operated-by-the-central-intellig.xml)  
+
 ### [2011-12-8](/news/2011/12/8/index.md)
 
+##### Associated Press
 # An investigation by the Associated Press and German media uncovers a secret prison suspected of having been operated by the Central Intelligence Agency in Bucharest, Romania. 
 
 The CIA operated a secret prison in the Romanian capital Bucharest where terrorism suspects were interrogated, a German media investigation claims.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.expatica.com/de/news/local_news/romania-hosted-secret-cia-detention-centre-reports_194167.html)
 2. [AP](http://worldnews.msnbc.msn.com/_news/2011/12/08/9293815-hidden-in-plain-sight-inside-a-secret-cia-prison)

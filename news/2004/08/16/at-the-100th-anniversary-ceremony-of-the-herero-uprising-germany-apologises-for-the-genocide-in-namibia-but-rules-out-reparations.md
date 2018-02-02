@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/16/at-the-100th-anniversary-ceremony-of-the-herero-uprising-germany-apologises-for-the-genocide-in-namibia-but-rules-out-reparations.html)  [JSON](/news/2004/08/16/at-the-100th-anniversary-ceremony-of-the-herero-uprising-germany-apologises-for-the-genocide-in-namibia-but-rules-out-reparations.json)  [XML](/news/2004/08/16/at-the-100th-anniversary-ceremony-of-the-herero-uprising-germany-apologises-for-the-genocide-in-namibia-but-rules-out-reparations.xml)  
+
 ### [2004-08-16](/news/2004/08/16/index.md)
 
+##### Herero
 #  At the 100th anniversary ceremony of the Herero uprising, Germany apologises for the genocide in Namibia, but rules out reparations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/germany/article/0,2763,1283864,00.html)
 

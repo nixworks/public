@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/18/a-gunman-shoot-dead-a-policemen-in-cairo.html) 
 
 ### [2016-10-18](/news/2016/10/18/index.md)
 
+##### 
 # A gunman shoot dead a policemen in Cairo. 
 
 

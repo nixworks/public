@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/11/arjan-erkel-aid-worker-for-medecins-sans-frontieres-is-free-after-being-held-hostage-in-dagestan-since-august-12-2002.html)  [JSON](/news/2004/04/11/arjan-erkel-aid-worker-for-medecins-sans-frontieres-is-free-after-being-held-hostage-in-dagestan-since-august-12-2002.json)  [XML](/news/2004/04/11/arjan-erkel-aid-worker-for-medecins-sans-frontieres-is-free-after-being-held-hostage-in-dagestan-since-august-12-2002.xml)  
+
 ### [2004-04-11](/news/2004/04/11/index.md)
 
+##### Arjan Erkel
 #  Arjan Erkel, aid worker for Mdecins Sans Frontires, is free after being held hostage in Dagestan since August 12, 2002. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/cp/world/040411/w041126.html)
 

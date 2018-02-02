@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/16/uruguay-becomes-the-first-country-to-provide-a-laptop-for-every-child-attending-state-primary-school.html)  [JSON](/news/2009/10/16/uruguay-becomes-the-first-country-to-provide-a-laptop-for-every-child-attending-state-primary-school.json)  [XML](/news/2009/10/16/uruguay-becomes-the-first-country-to-provide-a-laptop-for-every-child-attending-state-primary-school.xml)  
+
 ### [2009-10-16](/news/2009/10/16/index.md)
 
+##### Uruguay
 #  Uruguay becomes the first country to provide a laptop for every child attending state primary school. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/8309583.stm)
 

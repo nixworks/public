@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/31/indian-film-superstar-rajinikanth-who-has-a-hug
 
 ### [2017-12-31](/news/2017/12/31/index.md)
 
+##### Politics of India
 # Indian film superstar Rajinikanth, who has a huge following in the country and is one of Asia's highest paid actors, has announced he is entering politics. 
 
 The film superstar says he will form a party to &quot;change the political system&quot; in Tamil Nadu state.

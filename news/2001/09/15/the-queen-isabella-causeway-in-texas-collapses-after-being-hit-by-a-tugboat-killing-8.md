@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/09/15/the-queen-isabella-causeway-in-texas-collapses-after-being-hit-by-a-tugboat-killing-8.html)  [JSON](/news/2001/09/15/the-queen-isabella-causeway-in-texas-collapses-after-being-hit-by-a-tugboat-killing-8.json)  [XML](/news/2001/09/15/the-queen-isabella-causeway-in-texas-collapses-after-being-hit-by-a-tugboat-killing-8.xml)  
+
 ### [2001-09-15](/news/2001/09/15/index.md)
 
+##### Queen Isabella Causeway
 #  The Queen Isabella Causeway in Texas collapses after being hit by a tugboat, killing 8.
 
 

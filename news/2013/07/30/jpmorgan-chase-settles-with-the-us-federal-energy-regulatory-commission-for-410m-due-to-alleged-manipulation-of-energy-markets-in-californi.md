@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2013/07/30/jpmorgan-chase-settles-with-the-us-federal-energy-regulatory-commission-for-410m-due-to-alleged-manipulation-of-energy-markets-in-californi.html)  [JSON](/news/2013/07/30/jpmorgan-chase-settles-with-the-us-federal-energy-regulatory-commission-for-410m-due-to-alleged-manipulation-of-energy-markets-in-californi.json)  [XML](/news/2013/07/30/jpmorgan-chase-settles-with-the-us-federal-energy-regulatory-commission-for-410m-due-to-alleged-manipulation-of-energy-markets-in-californi.xml)  
+
 ### [2013-07-30](/news/2013/07/30/index.md)
 
+##### JPMorgan Chase
 # JPMorgan Chase settles with the US Federal Energy Regulatory Commission for $410M due to alleged manipulation of energy markets in California and the Midwest. 
 
+JPMorgan Chase &amp; Co. will pay $410 million to settle U.S. Federal Energy Regulatory Commission allegations that the bank manipulated power markets, enriching itself at the expense of consumers in California and the Midwest from 2010 to 2012.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2013-07-30/jpmorgan-to-pay-410-million-in-u-s-ferc-settlement.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2013-07-30/jpmorgan-to-pay-410-million-in-u-s-ferc-settlement.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

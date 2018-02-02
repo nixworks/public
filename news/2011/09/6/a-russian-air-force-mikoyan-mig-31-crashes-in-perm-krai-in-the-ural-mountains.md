@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/6/a-russian-air-force-mikoyan-mig-31-crashes-in-perm-krai-in-the-ural-mountains.html)  [JSON](/news/2011/09/6/a-russian-air-force-mikoyan-mig-31-crashes-in-perm-krai-in-the-ural-mountains.json)  [XML](/news/2011/09/6/a-russian-air-force-mikoyan-mig-31-crashes-in-perm-krai-in-the-ural-mountains.xml)  
+
 ### [2011-09-6](/news/2011/09/6/index.md)
 
+##### Russian Air Force
 # A Russian Air Force Mikoyan MiG-31 crashes in Perm Krai in the Ural Mountains. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/russia/20110906/166463510.html)
 

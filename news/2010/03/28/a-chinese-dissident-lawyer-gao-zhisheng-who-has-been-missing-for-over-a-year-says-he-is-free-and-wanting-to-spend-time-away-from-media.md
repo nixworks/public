@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/28/a-chinese-dissident-lawyer-gao-zhisheng-who-has-been-missing-for-over-a-year-says-he-is-free-and-wanting-to-spend-time-away-from-media.html)  [JSON](/news/2010/03/28/a-chinese-dissident-lawyer-gao-zhisheng-who-has-been-missing-for-over-a-year-says-he-is-free-and-wanting-to-spend-time-away-from-media.json)  [XML](/news/2010/03/28/a-chinese-dissident-lawyer-gao-zhisheng-who-has-been-missing-for-over-a-year-says-he-is-free-and-wanting-to-spend-time-away-from-media.xml)  
+
 ### [2010-03-28](/news/2010/03/28/index.md)
 
+##### China
 # A Chinese dissident lawyer, Gao Zhisheng, who has been missing for over a year, says he is "free" and wanting to spend time away from media attention. 
 
 Dissident feared dead or held in secret by security forces says he is with family.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iMThf6N_SL9oW2ediYR0DN57J0XgD9ENLPHG0)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/2010328181848451664.html)

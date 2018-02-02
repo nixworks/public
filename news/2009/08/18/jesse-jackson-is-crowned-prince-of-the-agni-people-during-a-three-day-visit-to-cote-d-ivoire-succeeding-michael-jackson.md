@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/18/jesse-jackson-is-crowned-prince-of-the-agni-people-during-a-three-day-visit-to-cote-d-ivoire-succeeding-michael-jackson.html)  [JSON](/news/2009/08/18/jesse-jackson-is-crowned-prince-of-the-agni-people-during-a-three-day-visit-to-cote-d-ivoire-succeeding-michael-jackson.json)  [XML](/news/2009/08/18/jesse-jackson-is-crowned-prince-of-the-agni-people-during-a-three-day-visit-to-cote-d-ivoire-succeeding-michael-jackson.xml)  
+
 ### [2009-08-18](/news/2009/08/18/index.md)
 
+##### Jesse Jackson
 #  Jesse Jackson is crowned prince of the Agni people during a three-day visit to Cte d'Ivoire, succeeding Michael Jackson. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=86&art_id=iol1250602975983P652)
 

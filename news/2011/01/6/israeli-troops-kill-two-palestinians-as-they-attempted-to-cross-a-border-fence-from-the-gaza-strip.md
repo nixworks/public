@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/01/6/israeli-troops-kill-two-palestinians-as-they-attempted-to-cross-a-border-fence-from-the-gaza-strip.html)  [JSON](/news/2011/01/6/israeli-troops-kill-two-palestinians-as-they-attempted-to-cross-a-border-fence-from-the-gaza-strip.json)  [XML](/news/2011/01/6/israeli-troops-kill-two-palestinians-as-they-attempted-to-cross-a-border-fence-from-the-gaza-strip.xml)  
+
 ### [2011-01-6](/news/2011/01/6/index.md)
 
+##### Israel
 # Israeli troops kill two Palestinians as they attempted to cross a border fence from the Gaza Strip. 
 
 Israeli troops killed two Palestinians near the Gaza Strip border, Palestinian medics said on Thursday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE7051IV20110106)
+1. [Reuters](https://www.reuters.com/article/idUSTRE7051IV20110106)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4009853,00.html)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

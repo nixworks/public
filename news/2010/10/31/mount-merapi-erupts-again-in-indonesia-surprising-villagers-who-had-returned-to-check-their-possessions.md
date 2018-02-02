@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/31/mount-merapi-erupts-again-in-indonesia-surprising-villagers-who-had-returned-to-check-their-possessions.html)  [JSON](/news/2010/10/31/mount-merapi-erupts-again-in-indonesia-surprising-villagers-who-had-returned-to-check-their-possessions.json)  [XML](/news/2010/10/31/mount-merapi-erupts-again-in-indonesia-surprising-villagers-who-had-returned-to-check-their-possessions.xml)  
+
 ### [2010-10-31](/news/2010/10/31/index.md)
 
+##### Mounts Merapi
 # Mount Merapi erupts again in Indonesia, surprising villagers who had returned to check their possessions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_DISASTERS?SITE=WVEC&SECTION=HOME&TEMPLATE=DEFAULT)
 

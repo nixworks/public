@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/9/a-transit-of-mercury-occurs-visible-from-africa-
 
 ### [2016-05-9](/news/2016/05/9/index.md)
 
+##### transit of Mercury
 #  A transit of Mercury occurs, visible from Africa, the Americas, Europe and most of Asia. 
 
 Monday: An unusual event in our sky, the return of the Jersey tomato, and other goings-on in the galaxy.

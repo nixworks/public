@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/2/heavy-rainfall-causes-flooding-in-southern-alban
 
 ### [2017-12-2](/news/2017/12/2/index.md)
 
+##### Albania
 # Heavy rainfall causes flooding in southern Albania. At least one person has died and 3,000 houses have been flooded. 
 
 Authorities in Albania say that non-stop rain has caused riverbanks to burst in the south of the country, flooding many areas and prompting the evacuation of residents.

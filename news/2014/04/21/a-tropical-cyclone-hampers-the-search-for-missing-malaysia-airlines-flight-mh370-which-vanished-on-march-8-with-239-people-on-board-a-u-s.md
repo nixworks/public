@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/04/21/a-tropical-cyclone-hampers-the-search-for-missing-malaysia-airlines-flight-mh370-which-vanished-on-march-8-with-239-people-on-board-a-u-s.html)  [JSON](/news/2014/04/21/a-tropical-cyclone-hampers-the-search-for-missing-malaysia-airlines-flight-mh370-which-vanished-on-march-8-with-239-people-on-board-a-u-s.json)  [XML](/news/2014/04/21/a-tropical-cyclone-hampers-the-search-for-missing-malaysia-airlines-flight-mh370-which-vanished-on-march-8-with-239-people-on-board-a-u-s.xml)  
+
 ### [2014-04-21](/news/2014/04/21/index.md)
 
+##### Malaysia Airlines Flight 370
 # A Tropical Cyclone hampers the search for missing Malaysia Airlines Flight MH370 which vanished on March 8 with 239 people on board. A U.S. Navy submarine Bluefin-21 is on mission to find the wreckage. 
 
 A tropical cyclone was threatening to hamper the search for a missing Malaysian jetliner in a remote stretch of the Indian Ocean on Monday, as a submarine drone neared the end of its mission scouring the sea bed with still no sign of wreckage.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/04/21/us-malaysia-airlines-idUSBREA3J01G20140421)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140420&t=2&i=890375320&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3J06U400)
+1. [Reuters](https://www.reuters.com/article/2014/04/21/us-malaysia-airlines-idUSBREA3J01G20140421)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140420&t=2&i=890375320&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA3J06U400)
+
+### Changes:
+
+1. [Malaysia Airlines Flight 370: A Tropical Cyclone hampers the search for missing Malaysia Airlines Flight MH370 which vanished on March 8 with 239 people on board. A U.S. Navy submarine Bluefin-21 is on mission to find the wreckage. ](/news/2014/04/21/malaysia-airlines-flight-370-a-tropical-cyclone-hampers-the-search-for-missing-malaysia-airlines-flight-mh370-which-vanished-on-march-8-wit.md) _2017-08-27 03:40:37 (First version)_
+1. [A Tropical Cyclone hampers the search for missing Malaysia Airlines Flight MH370 which vanished on March 8 with 239 people on board. A U.S. Navy submarine Bluefin-21 is on mission to find the wreckage. ](/news/2014/04/21/a-tropical-cyclone-hampers-the-search-for-missing-malaysia-airlines-flight-mh370-which-vanished-on-march-8-with-239-people-on-board-a-u-s.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ A tropical cyclone was threatening to hamper the search for a missing Malaysian 
 3. [Malaysia Airlines loses contact with a Boeing 777-200ER passenger plane carrying 239 people from Kuala Lumpur to Beijing, China. ](/news/2014/03/8/malaysia-airlines-loses-contact-with-a-boeing-777-200er-passenger-plane-carrying-239-people-from-kuala-lumpur-to-beijing-china.md) _Context: Malaysia Airlines, Malaysia Airlines Flight 370_
 4. [The underwater search for missing Malaysia Airlines Flight 370 has been suspended. ](/news/2017/01/17/the-underwater-search-for-missing-malaysia-airlines-flight-370-has-been-suspended.md) _Context: Malaysia Airlines Flight 370_
 5. [New analysis by the Australian Transport Safety Bureau suggests that no-one was controlling Malaysia Airlines Flight 370 as it plunged into the southern Indian Ocean in 2014. ](/news/2016/11/2/new-analysis-by-the-australian-transport-safety-bureau-suggests-that-no-one-was-controlling-malaysia-airlines-flight-370-as-it-plunged-into.md) _Context: Malaysia Airlines Flight 370_
-
-### Changes:
-
-1. [Malaysia Airlines Flight 370: A Tropical Cyclone hampers the search for missing Malaysia Airlines Flight MH370 which vanished on March 8 with 239 people on board. A U.S. Navy submarine Bluefin-21 is on mission to find the wreckage. ](/news/2014/04/21/malaysia-airlines-flight-370-a-tropical-cyclone-hampers-the-search-for-missing-malaysia-airlines-flight-mh370-which-vanished-on-march-8-wit.md) _2017-08-27 03:40:37 (First version)_
-1. [A Tropical Cyclone hampers the search for missing Malaysia Airlines Flight MH370 which vanished on March 8 with 239 people on board. A U.S. Navy submarine Bluefin-21 is on mission to find the wreckage. ](/news/2014/04/21/a-tropical-cyclone-hampers-the-search-for-missing-malaysia-airlines-flight-mh370-which-vanished-on-march-8-with-239-people-on-board-a-u-s.md) _(Current version)_

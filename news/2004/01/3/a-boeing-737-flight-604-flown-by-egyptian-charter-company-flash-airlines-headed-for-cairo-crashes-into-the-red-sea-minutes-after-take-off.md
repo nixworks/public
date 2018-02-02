@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/3/a-boeing-737-flight-604-flown-by-egyptian-charter-company-flash-airlines-headed-for-cairo-crashes-into-the-red-sea-minutes-after-take-off.html)  [JSON](/news/2004/01/3/a-boeing-737-flight-604-flown-by-egyptian-charter-company-flash-airlines-headed-for-cairo-crashes-into-the-red-sea-minutes-after-take-off.json)  [XML](/news/2004/01/3/a-boeing-737-flight-604-flown-by-egyptian-charter-company-flash-airlines-headed-for-cairo-crashes-into-the-red-sea-minutes-after-take-off.xml)  
+
 ### [2004-01-3](/news/2004/01/3/index.md)
 
+##### Boeing 737
 #  A Boeing 737, Flight 604, flown by Egyptian charter company Flash Airlines headed for Cairo crashes into the Red Sea minutes after take-off from the holiday resort of Sharm el-Sheikh in Egypt. All 148 people on board are killed, of whom more than 120 were French tourists. Though both United Kingdom Prime Minister Tony Blair and Egyptian President Hosni Mubarak were in the area, neither were involved in the incident, contrary to initial reports.
 
 

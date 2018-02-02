@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/3/adobe-reveals-that-2-9-million-customers-data-was-stolen-in-a-security-breach-which-included-credit-card-information.html)  [JSON](/news/2013/10/3/adobe-reveals-that-2-9-million-customers-data-was-stolen-in-a-security-breach-which-included-credit-card-information.json)  [XML](/news/2013/10/3/adobe-reveals-that-2-9-million-customers-data-was-stolen-in-a-security-breach-which-included-credit-card-information.xml)  
+
 ### [2013-10-3](/news/2013/10/3/index.md)
 
+##### Adobe Systems
 # Adobe reveals that 2.9 million customers' data was stolen in a security breach which included credit card information. 
 
 As Adobe confirms hackers have accessed personal data belonging to 2.9 million customers, experts say the theft of source code could be far more serious.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-24392819)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70273000/jpg/_70273797_95799630.jpg)

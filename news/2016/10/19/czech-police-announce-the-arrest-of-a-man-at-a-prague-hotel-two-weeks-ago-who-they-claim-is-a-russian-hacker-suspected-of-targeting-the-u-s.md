@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/19/czech-police-announce-the-arrest-of-a-man-at-a-
 
 ### [2016-10-19](/news/2016/10/19/index.md)
 
+##### Czech Republic
 # Czech police announce the arrest of a man at a Prague hotel two weeks ago who they claim is a Russian hacker suspected of targeting the U.S. 
 
 A Russian hacker suspected of targeting the U.S. is being held in Czech Republic. Czech police took the man into custody two weeks ago, but only announced the arrest Wednesday. He was reportedly surprised when he was detained at a Prague hotel. Jeff Pegues reports on what the arrest could mean for U.S.-Russian relations.

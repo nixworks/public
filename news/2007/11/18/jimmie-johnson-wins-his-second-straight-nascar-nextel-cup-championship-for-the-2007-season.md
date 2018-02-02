@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2007/11/18/jimmie-johnson-wins-his-second-straight-nascar-nextel-cup-championship-for-the-2007-season.html)  [JSON](/news/2007/11/18/jimmie-johnson-wins-his-second-straight-nascar-nextel-cup-championship-for-the-2007-season.json)  [XML](/news/2007/11/18/jimmie-johnson-wins-his-second-straight-nascar-nextel-cup-championship-for-the-2007-season.xml)  
+
 ### [2007-11-18](/news/2007/11/18/index.md)
 
+##### Jimmie Johnson
 #  Jimmie Johnson wins his second straight NASCAR Nextel Cup championship for the 2007 season. 
 
 Jimmie Johnson finished seventh in Sunday’s Ford 400 as he easily held off his friend and Hendrick Motorsports teammate Jeff Gordon for the title.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601079&sid=aODUDUS6zy4c&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601079&sid=aODUDUS6zy4c&refer=home)
 2. [LA Times](http://www.latimes.com/sports/printedition/la-sp-nascar19nov19,1,7642781.story?coll=la-headlines-pe-sports)
-3. [NYT](http://www.nytimes.com/2007/11/19/sports/othersports/19nascar.html?ref=othersports)
+3. [NYT](https://www.nytimes.com/2007/11/19/sports/othersports/19nascar.html?ref=othersports)
 3. [Cover Image](https://static01.nyt.com/images/2007/11/19/sports/19nascar.751.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/13/guinea-s-junta-chief-moussa-dadis-camara-arrives-in-burkina-faso-after-being-hospitalised-in-morocco.html)  [JSON](/news/2010/01/13/guinea-s-junta-chief-moussa-dadis-camara-arrives-in-burkina-faso-after-being-hospitalised-in-morocco.json)  [XML](/news/2010/01/13/guinea-s-junta-chief-moussa-dadis-camara-arrives-in-burkina-faso-after-being-hospitalised-in-morocco.xml)  
+
 ### [2010-01-13](/news/2010/01/13/index.md)
 
+##### Guinea
 # Guinea's junta chief Moussa Dadis Camara arrives in Burkina Faso after being hospitalised in Morocco. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8455682.stm)
 2. [Times LIVE](http://www.timeslive.co.za/news/africa/article258808.ece)

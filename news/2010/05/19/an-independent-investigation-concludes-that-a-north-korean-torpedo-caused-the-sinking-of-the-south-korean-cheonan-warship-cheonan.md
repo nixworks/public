@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/19/an-independent-investigation-concludes-that-a-north-korean-torpedo-caused-the-sinking-of-the-south-korean-cheonan-warship-cheonan.html)  [JSON](/news/2010/05/19/an-independent-investigation-concludes-that-a-north-korean-torpedo-caused-the-sinking-of-the-south-korean-cheonan-warship-cheonan.json)  [XML](/news/2010/05/19/an-independent-investigation-concludes-that-a-north-korean-torpedo-caused-the-sinking-of-the-south-korean-cheonan-warship-cheonan.xml)  
+
 ### [2010-05-19](/news/2010/05/19/index.md)
 
+##### North Korea
 # An independent investigation concludes that a North Korean torpedo caused the sinking of the South Korean Cheonan warship Cheonan. 
 
 The independent investigation into the sinking of the Cheonan has concluded that the vessel was sunk by an underwater explosion caused by a North Korean mid-sized torpedo containing 250 kg of high explosives. Yoon Deok Yong, the chief of the joint civilian-military joint investigation team reported the results this morning in a long-awaited Ministry of National Defense press conference, confirming, “Our investigation has arrived at the conclusion that the Cheonan was sunk by an underwater explosion caused by a North Korean torpedo.” Yoon concluded, “There is no other conclusion but to
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10124939.stm)
 2. [China Daily](http://www.chinadaily.com.cn/world/2010-05/19/content_9868705.htm)

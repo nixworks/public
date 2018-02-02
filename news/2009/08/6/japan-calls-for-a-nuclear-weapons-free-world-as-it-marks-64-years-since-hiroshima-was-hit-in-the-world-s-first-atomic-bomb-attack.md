@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/6/japan-calls-for-a-nuclear-weapons-free-world-as-it-marks-64-years-since-hiroshima-was-hit-in-the-world-s-first-atomic-bomb-attack.html)  [JSON](/news/2009/08/6/japan-calls-for-a-nuclear-weapons-free-world-as-it-marks-64-years-since-hiroshima-was-hit-in-the-world-s-first-atomic-bomb-attack.json)  [XML](/news/2009/08/6/japan-calls-for-a-nuclear-weapons-free-world-as-it-marks-64-years-since-hiroshima-was-hit-in-the-world-s-first-atomic-bomb-attack.xml)  
+
 ### [2009-08-6](/news/2009/08/6/index.md)
 
+##### 64th anniversary of Hiroshima and Nagasaki atomic bombings
 #  Japan calls for a nuclear-weapons-free world as it marks 64 years since Hiroshima was hit in the world's first atomic bomb attack. 
 
 Japan has marked 64 years since Hiroshima was hit in the world&#39;s first atomic bomb attack with a call for a nuclear-weapons-free world.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/stories/2009/08/06/2648277.htm?section=justin)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/2009865311526368.html)
@@ -24,4 +28,4 @@ Japan has marked 64 years since Hiroshima was hit in the world&#39;s first atomi
 2. [Many people throughout the world commemorate the 70th anniversary of the dropping of an atomic bomb on the Japanese city of Hiroshima. ](/news/2015/08/6/many-people-throughout-the-world-commemorate-the-70th-anniversary-of-the-dropping-of-an-atomic-bomb-on-the-japanese-city-of-hiroshima.md) _Context: Hiroshima, Japan_
 3. [36 people are killed by landslides in Hiroshima, Japan, after a night of heavy rain. ](/news/2014/08/21/36-people-are-killed-by-landslides-in-hiroshima-japan-after-a-night-of-heavy-rain.md) _Context: Hiroshima, Japan_
 4. [The BBC apologises after offending the sensibilities of Japanese viewers by broadcasting jokes targeting Tsutomu Yamaguchi, who survived both atomic bomb attacks carried out by the United States on Hiroshima and Nagasaki in 1945. ](/news/2011/01/23/the-bbc-apologises-after-offending-the-sensibilities-of-japanese-viewers-by-broadcasting-jokes-targeting-tsutomu-yamaguchi-who-survived-bot.md) _Context: Hiroshima, Japan_
-5. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Japan_
+5. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_

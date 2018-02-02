@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/3/honduran-indigenous-environmental-activist-berta
 
 ### [2016-03-3](/news/2016/03/3/index.md)
 
+##### Honduran
 # Honduran indigenous environmental activist Berta Caceres is assassinated in her home in La Esperanza in Intibuca Department. 
 
 

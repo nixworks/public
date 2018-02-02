@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/28/an-unmanned-antares-rocket-carrying-nasa-s-cygnus-crs-orb-3-resupply-mission-to-the-international-space-station-explodes-seconds-after-takin.html)  [JSON](/news/2014/10/28/an-unmanned-antares-rocket-carrying-nasa-s-cygnus-crs-orb-3-resupply-mission-to-the-international-space-station-explodes-seconds-after-takin.json)  [XML](/news/2014/10/28/an-unmanned-antares-rocket-carrying-nasa-s-cygnus-crs-orb-3-resupply-mission-to-the-international-space-station-explodes-seconds-after-takin.xml)  
+
 ### [2014-10-28](/news/2014/10/28/index.md)
 
+##### Antares rocket
 # An unmanned Antares rocket carrying NASA's Cygnus CRS Orb-3 resupply mission to the International Space Station explodes seconds after taking off from the Mid-Atlantic Regional Spaceport in the U.S. state of Virginia. The loss includes five thousand pounds of cargo. 
 
 A private, unmanned rocket exploded seconds after launching from NASA&apos;s Wallops Flight Facility in Virginia Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [The Baltimore Sun](http://www.baltimoresun.com/health/maryland-health/bs-md-nasa-antares-explosion-20141028-story.html)
 1. [Cover Image](http://www.trbimg.com/img-54502330/turbine/bs-md-nasa-antares-explosion-20141028)

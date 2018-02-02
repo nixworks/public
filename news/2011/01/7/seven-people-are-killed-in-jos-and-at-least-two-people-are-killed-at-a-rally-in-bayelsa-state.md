@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/7/seven-people-are-killed-in-jos-and-at-least-two-people-are-killed-at-a-rally-in-bayelsa-state.html)  [JSON](/news/2011/01/7/seven-people-are-killed-in-jos-and-at-least-two-people-are-killed-at-a-rally-in-bayelsa-state.json)  [XML](/news/2011/01/7/seven-people-are-killed-in-jos-and-at-least-two-people-are-killed-at-a-rally-in-bayelsa-state.xml)  
+
 ### [2011-01-7](/news/2011/01/7/index.md)
 
+##### Jos
 # Seven people are killed in Jos and at least two people are killed at a rally in Bayelsa State. 
 
 At least 20 killed in violence that erupts after news spreads of Muslims killed by Christian youths in city of Jos.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/2011182307155898.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/9/20111982934389112_20.jpg)

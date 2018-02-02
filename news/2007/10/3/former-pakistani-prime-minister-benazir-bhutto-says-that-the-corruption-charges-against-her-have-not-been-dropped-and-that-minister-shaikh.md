@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/10/3/former-pakistani-prime-minister-benazir-bhutto-says-that-the-corruption-charges-against-her-have-not-been-dropped-and-that-minister-shaikh.html)  [JSON](/news/2007/10/3/former-pakistani-prime-minister-benazir-bhutto-says-that-the-corruption-charges-against-her-have-not-been-dropped-and-that-minister-shaikh.json)  [XML](/news/2007/10/3/former-pakistani-prime-minister-benazir-bhutto-says-that-the-corruption-charges-against-her-have-not-been-dropped-and-that-minister-shaikh.xml)  
+
 ### [2007-10-3](/news/2007/10/3/index.md)
 
+##### Pakistan
 #  Former Pakistani Prime Minister Benazir Bhutto says that the corruption charges against her have not been dropped, and that Minister Shaikh Rasheed Ahmad's announcement is part of a disinformation campaign. 
 
 Benazir Bhutto left open the possibility that her party would resign from Parliament before presidential elections on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/WORLD/asiapcf/10/03/pakistan.bhutto/)
-2. [NYT](http://www.nytimes.com/2007/10/04/world/asia/04pakistan.html?ex=1349150400&en=c2749f3530aa9261&ei=5088&partner=rssnyt&emc=rss)
+2. [NYT](https://www.nytimes.com/2007/10/04/world/asia/04pakistan.html?ex=1349150400&en=c2749f3530aa9261&ei=5088&partner=rssnyt&emc=rss)
 2. [Cover Image](https://static01.nyt.com/images/2007/10/04/world/04pakistan.75.jpg)
 
 ### Related:

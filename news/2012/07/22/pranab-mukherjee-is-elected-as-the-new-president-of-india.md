@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/22/pranab-mukherjee-is-elected-as-the-new-president-of-india.html)  [JSON](/news/2012/07/22/pranab-mukherjee-is-elected-as-the-new-president-of-india.json)  [XML](/news/2012/07/22/pranab-mukherjee-is-elected-as-the-new-president-of-india.xml)  
+
 ### [2012-07-22](/news/2012/07/22/index.md)
 
+##### Pranab Mukherjee
 # Pranab Mukherjee is elected as the new President of India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/IndiaSectionPage/Chunk-HT-UI-Presidentialpolljuly2012-TopStories/President-election-Victorious-Pranab-says-thanks-to-be-sworn-in-on-July-25/Article1-893526.aspx)
 

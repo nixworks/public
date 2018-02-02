@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/21/a-runoff-presidential-election-between-former-v
 
 ### [2017-02-21](/news/2017/02/21/index.md)
 
+##### Ecuadorian general election, 2017
 # A runoff presidential election, between former vice-president Lenin Moreno and former bank president Guillermo Lasso, is scheduled for Sunday, April 2 since no candidate gained at least 40 percent of the vote in Sunday's poll. With 95.3 percent of votes counted, Moreno received 39.21 percent of valid votes and Lasso had 28.34 percent. 
 
 

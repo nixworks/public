@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/25/a-philippine-civil-defence-official-estimates-that-approximately-10-000-people-in-the-southern-philippines-have-fled-their-homes-due-to-figh.html)  [JSON](/news/2011/10/25/a-philippine-civil-defence-official-estimates-that-approximately-10-000-people-in-the-southern-philippines-have-fled-their-homes-due-to-figh.json)  [XML](/news/2011/10/25/a-philippine-civil-defence-official-estimates-that-approximately-10-000-people-in-the-southern-philippines-have-fled-their-homes-due-to-figh.xml)  
+
 ### [2011-10-25](/news/2011/10/25/index.md)
 
+##### Philippines
 # A Philippine civil defence official estimates that approximately 10,000 people in the southern Philippines have fled their homes due to fighting between Abu Sayyaf rebels and government forces. 
 
 ABOUT 10,000 people have fled their homes amid fighting between Muslim rebels and government forces in the southern Philippines, a civil defence official says.
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/breaking-news/flee-fighting-in-philippines/story-e6frfku0-1226176354762)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

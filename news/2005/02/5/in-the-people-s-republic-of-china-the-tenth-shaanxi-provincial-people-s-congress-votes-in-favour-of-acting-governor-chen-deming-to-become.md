@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/5/in-the-people-s-republic-of-china-the-tenth-shaanxi-provincial-people-s-congress-votes-in-favour-of-acting-governor-chen-deming-to-become.html)  [JSON](/news/2005/02/5/in-the-people-s-republic-of-china-the-tenth-shaanxi-provincial-people-s-congress-votes-in-favour-of-acting-governor-chen-deming-to-become.json)  [XML](/news/2005/02/5/in-the-people-s-republic-of-china-the-tenth-shaanxi-provincial-people-s-congress-votes-in-favour-of-acting-governor-chen-deming-to-become.xml)  
+
 ### [2005-02-5](/news/2005/02/5/index.md)
 
+##### China
 #  In the People's Republic of China, The Tenth Shaanxi Provincial People's Congress votes in favour of Acting Governor Chen Deming to become the next Governor of Shaanxi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ChinaBroadcast](http://gb.chinabroadcast.cn/3821/2005/02/06/301@445416.htm)
 2. [People's Daily](http://www.people.com.cn/GB/paper464/14043/1252809.html)

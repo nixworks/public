@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/8/pope-francis-visits-the-tiny-italian-island-of-lampedusa-holds-a-mass-to-pay-tribute-to-the-many-immigrants-who-have-drowned-trying-to-reac.html)  [JSON](/news/2013/07/8/pope-francis-visits-the-tiny-italian-island-of-lampedusa-holds-a-mass-to-pay-tribute-to-the-many-immigrants-who-have-drowned-trying-to-reac.json)  [XML](/news/2013/07/8/pope-francis-visits-the-tiny-italian-island-of-lampedusa-holds-a-mass-to-pay-tribute-to-the-many-immigrants-who-have-drowned-trying-to-reac.xml)  
+
 ### [2013-07-8](/news/2013/07/8/index.md)
 
+##### Pope Francis
 # Pope Francis visits the tiny Italian island of Lampedusa, holds a mass to pay tribute to the many immigrants who have drowned trying to reach Europe and condemns the "global indifference" to their plight. 
 
 Pope Francis visits the tiny Italian island of Lampedusa and urges help for desperate migrants who risk their lives getting there.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-23224010)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/jul/08/pope-globalisation-of-indifference-lampedusa)

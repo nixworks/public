@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/7/a-motion-brought-by-the-conservative-government-to-reopen-debate-on-same-sex-marriage-in-canada-is-defeated-by-the-canadian-house-of-common.html)  [JSON](/news/2006/12/7/a-motion-brought-by-the-conservative-government-to-reopen-debate-on-same-sex-marriage-in-canada-is-defeated-by-the-canadian-house-of-common.json)  [XML](/news/2006/12/7/a-motion-brought-by-the-conservative-government-to-reopen-debate-on-same-sex-marriage-in-canada-is-defeated-by-the-canadian-house-of-common.xml)  
+
 ### [2006-12-7](/news/2006/12/7/index.md)
 
+##### Conservative Party's
 #  A motion brought by the Conservative government to reopen debate on same-sex marriage in Canada is defeated by the Canadian House of Commons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2006/12/07/vote-samesex.html)
 

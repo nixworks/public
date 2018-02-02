@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/10/five-russian-lawmakers-have-asked-the-prosecutor-general-of-russia-yury-chaika-to-investigate-whether-former-soviet-leader-mikhail-gorbach.html)  [JSON](/news/2014/04/10/five-russian-lawmakers-have-asked-the-prosecutor-general-of-russia-yury-chaika-to-investigate-whether-former-soviet-leader-mikhail-gorbach.json)  [XML](/news/2014/04/10/five-russian-lawmakers-have-asked-the-prosecutor-general-of-russia-yury-chaika-to-investigate-whether-former-soviet-leader-mikhail-gorbach.xml)  
+
 ### [2014-04-10](/news/2014/04/10/index.md)
 
+##### Russia
 # Five Russian lawmakers have asked the Prosecutor General of Russia, Yury Chaika, to investigate whether former Soviet leader Mikhail Gorbachev should face charges for his role in the breakup of the Soviet Union. 
 
 Five Russian MPs call for former President Mikhail Gorbachev to be prosecuted over the collapse of the Soviet Union.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-26975865)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/74159000/jpg/_74159786_74159785.jpg)

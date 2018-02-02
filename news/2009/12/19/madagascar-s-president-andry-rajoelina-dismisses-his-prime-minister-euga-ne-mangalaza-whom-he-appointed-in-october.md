@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/19/madagascar-s-president-andry-rajoelina-dismisses-his-prime-minister-euga-ne-mangalaza-whom-he-appointed-in-october.html)  [JSON](/news/2009/12/19/madagascar-s-president-andry-rajoelina-dismisses-his-prime-minister-euga-ne-mangalaza-whom-he-appointed-in-october.json)  [XML](/news/2009/12/19/madagascar-s-president-andry-rajoelina-dismisses-his-prime-minister-euga-ne-mangalaza-whom-he-appointed-in-october.xml)  
+
 ### [2009-12-19](/news/2009/12/19/index.md)
 
+##### Madagascar
 #  Madagascar's President Andry Rajoelina dismisses his Prime Minister, Eugene Mangalaza, whom he appointed in October. 
 
 Country falls into political turmoil as opposition attempts to set up unity government.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/12/20091218185450320576.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/25/the-sindh-province-of-pakistan-passes-a-law-aga
 
 ### [2016-11-25](/news/2016/11/25/index.md)
 
+##### Sindh
 # The Sindh province of Pakistan passes a law against forced religious conversions, carrying a minimum five-year sentence and a maximum sentence of life imprisonment, following criticism over protection of minorities in the country. 
 
 Sindh becomes first province to pass law in response to criticism over protection of country&#39;s religious minorities.

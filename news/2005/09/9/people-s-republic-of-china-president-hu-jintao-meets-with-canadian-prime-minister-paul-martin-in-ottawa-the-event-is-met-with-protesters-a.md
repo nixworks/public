@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/9/people-s-republic-of-china-president-hu-jintao-meets-with-canadian-prime-minister-paul-martin-in-ottawa-the-event-is-met-with-protesters-a.html)  [JSON](/news/2005/09/9/people-s-republic-of-china-president-hu-jintao-meets-with-canadian-prime-minister-paul-martin-in-ottawa-the-event-is-met-with-protesters-a.json)  [XML](/news/2005/09/9/people-s-republic-of-china-president-hu-jintao-meets-with-canadian-prime-minister-paul-martin-in-ottawa-the-event-is-met-with-protesters-a.xml)  
+
 ### [2005-09-9](/news/2005/09/9/index.md)
 
+##### China
 #  People's Republic of China President Hu Jintao meets with Canadian Prime Minister Paul Martin in Ottawa. The event is met with protesters and supporters of the Chinese government. Martin and Hu agree on a new "Strategic Partnership", and sign a series of agreements on transportation, food inspection, and scientific research. Hu also meets with Governor General Adrienne Clarkson. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://sympatico.msn.cbc.ca/story/canada/national/2005/09/09/China_Canada20050909.html)
 2. [CTV.ca](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/1126274787031_63/?hub=CTVNewsAt11)

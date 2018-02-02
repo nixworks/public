@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/26/the-special-investigation-division-of-taiwan-initiates-a-review-stemming-from-allegations-that-president-ma-ying-jeou-has-received-illegal-p.html)  [JSON](/news/2014/12/26/the-special-investigation-division-of-taiwan-initiates-a-review-stemming-from-allegations-that-president-ma-ying-jeou-has-received-illegal-p.json)  [XML](/news/2014/12/26/the-special-investigation-division-of-taiwan-initiates-a-review-stemming-from-allegations-that-president-ma-ying-jeou-has-received-illegal-p.xml)  
+
 ### [2014-12-26](/news/2014/12/26/index.md)
 
+##### Taiwan
 # The Special Investigation Division of Taiwan initiates a review stemming from allegations that President Ma Ying-jeou has received illegal political donations from Ting Hsin International Group, a disgraced conglomerate at the center of the recent food scandal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Central News Agency](http://focustaiwan.cna.com.tw/news/aipl/201412250028.aspx)
 1. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20141225/201412250028t0001.jpg)

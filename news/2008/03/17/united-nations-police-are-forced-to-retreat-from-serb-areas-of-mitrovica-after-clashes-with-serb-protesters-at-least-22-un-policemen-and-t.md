@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/17/united-nations-police-are-forced-to-retreat-from-serb-areas-of-mitrovica-after-clashes-with-serb-protesters-at-least-22-un-policemen-and-t.html)  [JSON](/news/2008/03/17/united-nations-police-are-forced-to-retreat-from-serb-areas-of-mitrovica-after-clashes-with-serb-protesters-at-least-22-un-policemen-and-t.json)  [XML](/news/2008/03/17/united-nations-police-are-forced-to-retreat-from-serb-areas-of-mitrovica-after-clashes-with-serb-protesters-at-least-22-un-policemen-and-t.xml)  
+
 ### [2008-03-17](/news/2008/03/17/index.md)
 
+##### United Nations
 #  United Nations police are forced to retreat from Serb areas of Mitrovica after clashes with Serb protesters. At least 22 UN policemen and two Kosovo Force soldiers are injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7300015.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/22/the-israeli-air-force-resumes-bombing-against-s
 
 ### [2017-03-22](/news/2017/03/22/index.md)
 
+##### March 2017 Israel-Syria incident
 # The Israeli Air Force resumes bombing against suspected Hezbollah-related targets in Syria, with a fourth round of bombings occurring near military sites near Damascus. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/22/israel-prepares-to-defend-itself-against-accusations-of-war-crimes-in-its-conflict-with-hamas.html)  [JSON](/news/2009/01/22/israel-prepares-to-defend-itself-against-accusations-of-war-crimes-in-its-conflict-with-hamas.json)  [XML](/news/2009/01/22/israel-prepares-to-defend-itself-against-accusations-of-war-crimes-in-its-conflict-with-hamas.xml)  
+
 ### [2009-01-22](/news/2009/01/22/index.md)
 
+##### Israel
 #  Israel prepares to defend itself against accusations of war crimes in its conflict with Hamas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1232643727091&pagename=JPost%2FJPArticle%2FShowFull)
 

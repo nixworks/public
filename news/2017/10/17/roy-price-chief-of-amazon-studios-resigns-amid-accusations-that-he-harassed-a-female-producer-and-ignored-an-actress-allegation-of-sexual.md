@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/17/roy-price-chief-of-amazon-studios-resigns-amid-
 
 ### [2017-10-17](/news/2017/10/17/index.md)
 
+##### Roy Price
 # Roy Price, chief of Amazon Studios, resigns amid accusations that he harassed a female producer and ignored an actress' allegation of sexual assault by producer Harvey Weinstein. 
 
 Amazon Studios chief Roy Price has resigned, a company spokeswoman said on Tuesday, following allegations that he harassed a producer and took no action when an actress told him she was sexually assaulted by producer Harvey Weinstein.

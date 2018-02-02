@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/23/u-s-presidential-candidate-senator-barack-obama-picks-senator-joe-biden-as-his-vice-presidential-running-mate.html)  [JSON](/news/2008/08/23/u-s-presidential-candidate-senator-barack-obama-picks-senator-joe-biden-as-his-vice-presidential-running-mate.json)  [XML](/news/2008/08/23/u-s-presidential-candidate-senator-barack-obama-picks-senator-joe-biden-as-his-vice-presidential-running-mate.xml)  
+
 ### [2008-08-23](/news/2008/08/23/index.md)
 
+##### 2008
 #  U.S. presidential candidate Senator Barack Obama picks Senator Joe Biden as his vice-presidential running mate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/POLITICS/08/23/biden.democrat.vp.candidate/index.html)
 

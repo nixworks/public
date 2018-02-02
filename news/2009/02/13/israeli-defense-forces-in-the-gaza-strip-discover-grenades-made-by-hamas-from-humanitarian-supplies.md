@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/13/israeli-defense-forces-in-the-gaza-strip-discover-grenades-made-by-hamas-from-humanitarian-supplies.html)  [JSON](/news/2009/02/13/israeli-defense-forces-in-the-gaza-strip-discover-grenades-made-by-hamas-from-humanitarian-supplies.json)  [XML](/news/2009/02/13/israeli-defense-forces-in-the-gaza-strip-discover-grenades-made-by-hamas-from-humanitarian-supplies.xml)  
+
 ### [2009-02-13](/news/2009/02/13/index.md)
 
+##### Israel
 #  Israeli Defense Forces in the Gaza Strip discover grenades made by Hamas from humanitarian supplies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1233304770155&pagename=JPost%2FJPArticle%2FShowFull)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/13/demonstrators-in-mexico-city-clash-with-police-as-u-s-president-george-w-bush-meets-with-mexican-president-felipe-caldera3n-in-ma-c-rida-y.html)  [JSON](/news/2007/03/13/demonstrators-in-mexico-city-clash-with-police-as-u-s-president-george-w-bush-meets-with-mexican-president-felipe-caldera3n-in-ma-c-rida-y.json)  [XML](/news/2007/03/13/demonstrators-in-mexico-city-clash-with-police-as-u-s-president-george-w-bush-meets-with-mexican-president-felipe-caldera3n-in-ma-c-rida-y.xml)  
+
 ### [2007-03-13](/news/2007/03/13/index.md)
 
+##### George W. Bush
 #  Demonstrators in Mexico City clash with police as U.S. President George W. Bush meets with Mexican President Felipe Calderon in Merida, Yucatan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1173823732485&pagename=JPost%2FJPArticle%2FShowFull)
 

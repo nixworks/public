@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/a-22-year-old-chinese-woman-falls-from-a-building-becoming-the-thirteenth-foxconn-employee-to-die-in-a-spate-of-deaths-at-the-company.html)  [JSON](/news/2010/08/6/a-22-year-old-chinese-woman-falls-from-a-building-becoming-the-thirteenth-foxconn-employee-to-die-in-a-spate-of-deaths-at-the-company.json)  [XML](/news/2010/08/6/a-22-year-old-chinese-woman-falls-from-a-building-becoming-the-thirteenth-foxconn-employee-to-die-in-a-spate-of-deaths-at-the-company.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Foxconn
 # A 22-year-old Chinese woman falls from a building, becoming the thirteenth Foxconn employee to die in a spate of deaths at the company. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10889347)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

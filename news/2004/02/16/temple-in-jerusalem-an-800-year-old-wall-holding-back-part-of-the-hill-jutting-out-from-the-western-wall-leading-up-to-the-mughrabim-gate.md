@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/16/temple-in-jerusalem-an-800-year-old-wall-holding-back-part-of-the-hill-jutting-out-from-the-western-wall-leading-up-to-the-mughrabim-gate.html)  [JSON](/news/2004/02/16/temple-in-jerusalem-an-800-year-old-wall-holding-back-part-of-the-hill-jutting-out-from-the-western-wall-leading-up-to-the-mughrabim-gate.json)  [XML](/news/2004/02/16/temple-in-jerusalem-an-800-year-old-wall-holding-back-part-of-the-hill-jutting-out-from-the-western-wall-leading-up-to-the-mughrabim-gate.xml)  
+
 ### [2004-02-16](/news/2004/02/16/index.md)
 
+##### temple
 #  Temple in Jerusalem: An 800-year-old wall holding back part of the hill jutting out from the Western Wall leading up to the Mughrabim Gate partially collapses. Authorities believe a recent earthquake may be responsible. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3494035.stm)
 2. [Sydney Morning Herald](http://www.smh.com.au/articles/2004/02/16/1076779901850.html)

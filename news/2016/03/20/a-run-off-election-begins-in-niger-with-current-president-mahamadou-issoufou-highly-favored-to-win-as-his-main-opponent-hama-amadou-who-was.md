@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/20/a-run-off-election-begins-in-niger-with-current
 
 ### [2016-03-20](/news/2016/03/20/index.md)
 
+##### Nigerien general election, 2016
 # A run-off election begins in Niger with current President Mahamadou Issoufou highly favored to win as his main opponent Hama Amadou, who was earlier jailed, was flown out of the country for medical reasons. 
 
 Voting ended in Niger on Sunday in a presidential run-off which President Mahamadou Issoufou looks more than likely to win after the opposition called a boycott and its jailed leader was flown out of the country for medical reasons last week.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/17/after-alpha-conda-c-was-declared-the-first-democratically-elected-president-of-guinea-at-least-nine-people-have-been-killed-during-riots-in.html)  [JSON](/news/2010/11/17/after-alpha-conda-c-was-declared-the-first-democratically-elected-president-of-guinea-at-least-nine-people-have-been-killed-during-riots-in.json)  [XML](/news/2010/11/17/after-alpha-conda-c-was-declared-the-first-democratically-elected-president-of-guinea-at-least-nine-people-have-been-killed-during-riots-in.xml)  
+
 ### [2010-11-17](/news/2010/11/17/index.md)
 
+##### Alpha Conde's
 # After Alpha Conde was declared the first democratically elected president of Guinea, at least nine people have been killed during riots in Guinea's capital, Conakry. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/17/guinea.emergency/index.html?hpt=T2)
 2. [Ottawa Citizen](http://www.ottawacitizen.com/news/Guinea+declares+state+emergency+death+toll+rises/3842829/story.html)

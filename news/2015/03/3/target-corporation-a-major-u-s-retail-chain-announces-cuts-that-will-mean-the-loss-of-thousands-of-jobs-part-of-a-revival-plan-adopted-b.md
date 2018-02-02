@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/3/target-corporation-a-major-u-s-retail-chain-announces-cuts-that-will-mean-the-loss-of-thousands-of-jobs-part-of-a-revival-plan-adopted-b.html)  [JSON](/news/2015/03/3/target-corporation-a-major-u-s-retail-chain-announces-cuts-that-will-mean-the-loss-of-thousands-of-jobs-part-of-a-revival-plan-adopted-b.json)  [XML](/news/2015/03/3/target-corporation-a-major-u-s-retail-chain-announces-cuts-that-will-mean-the-loss-of-thousands-of-jobs-part-of-a-revival-plan-adopted-b.xml)  
+
 ### [2015-03-3](/news/2015/03/3/index.md)
 
+##### Target Corporation
 # Target Corporation, a major U.S. retail chain, announces cuts that will mean the loss of thousands of jobs, part of a revival plan adopted by CEO Brian Cornell. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [press release](http://pressroom.target.com/news/target-shares-roadmap-to-transform-business)
 

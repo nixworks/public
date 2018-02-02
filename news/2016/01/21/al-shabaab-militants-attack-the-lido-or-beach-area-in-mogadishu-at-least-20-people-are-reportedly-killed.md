@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/21/al-shabaab-militants-attack-the-lido-or-beach-a
 
 ### [2016-01-21](/news/2016/01/21/index.md)
 
+##### War in Somalia (2009-present)
 # Al-Shabaab militants attack the Lido or beach area in Mogadishu. At least 20 people are reportedly killed. 
 
 Somali security forces retake control of a popular beachside restaurant in the capital, Mogadishu, after an attack by Islamist militants that left 20 killed.

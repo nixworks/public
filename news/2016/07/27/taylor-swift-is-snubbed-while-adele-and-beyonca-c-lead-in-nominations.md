@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/27/taylor-swift-is-snubbed-while-adele-and-beyonca
 
 ### [2016-07-27](/news/2016/07/27/index.md)
 
+##### 2016 MTV Video Music Awards
 # Taylor Swift is snubbed while Adele and Beyonce lead in nominations. 
 
 If winning an MTV Video Music Award was a squad goal for Taylor Swift this year, it ain&#8217;t gonna happen.

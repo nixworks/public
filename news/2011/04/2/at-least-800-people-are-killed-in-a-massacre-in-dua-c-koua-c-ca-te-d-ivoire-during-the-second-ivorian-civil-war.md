@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/2/at-least-800-people-are-killed-in-a-massacre-in-dua-c-koua-c-ca-te-d-ivoire-during-the-second-ivorian-civil-war.html)  [JSON](/news/2011/04/2/at-least-800-people-are-killed-in-a-massacre-in-dua-c-koua-c-ca-te-d-ivoire-during-the-second-ivorian-civil-war.json)  [XML](/news/2011/04/2/at-least-800-people-are-killed-in-a-massacre-in-dua-c-koua-c-ca-te-d-ivoire-during-the-second-ivorian-civil-war.xml)  
+
 ### [2011-04-2](/news/2011/04/2/index.md)
 
+##### Duekoue
 # At least 800 people are killed in a massacre in Duekoue, Cote d'Ivoire, during the Second Ivorian Civil War. 
 
 Aid agencies are reporting mass killings in the western Ivory Coast city of Duekoue, captured by fighters supporting UN-recognized president Alassane Ouattara this week. 
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/news/world/story/2011/04/02/ivory-coast.html)
 1. [Cover Image](https://i.cbc.ca/1.1960681.1381464057!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-ivory-coast-852-rtr2kppg.jpg)

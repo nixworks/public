@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/15/a-suicide-attack-kills-three-people-in-grozny-chechnya-russia.html)  [JSON](/news/2009/05/15/a-suicide-attack-kills-three-people-in-grozny-chechnya-russia.json)  [XML](/news/2009/05/15/a-suicide-attack-kills-three-people-in-grozny-chechnya-russia.xml)  
+
 ### [2009-05-15](/news/2009/05/15/index.md)
 
+##### suicide attack
 #  A suicide attack kills three people in Grozny, Chechnya, Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8051690.stm)
 

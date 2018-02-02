@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/13/president-elect-donald-trump-formally-announces
 
 ### [2016-12-13](/news/2016/12/13/index.md)
 
+##### Presidential transition of Donald Trump
 # President-elect Donald Trump formally announces ExxonMobil CEO Rex Tillerson as his choice for United States Secretary of State. 
 
 A top energy executive with strong ties to Russia is lined up as US secretary of state.

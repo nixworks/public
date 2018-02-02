@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/7/a-monitoring-panel-states-to-the-united-nations-security-council-tells-of-violations-of-the-arms-embargo-against-somalia-have-taken-place-o.html)  [JSON](/news/2003/11/7/a-monitoring-panel-states-to-the-united-nations-security-council-tells-of-violations-of-the-arms-embargo-against-somalia-have-taken-place-o.json)  [XML](/news/2003/11/7/a-monitoring-panel-states-to-the-united-nations-security-council-tells-of-violations-of-the-arms-embargo-against-somalia-have-taken-place-o.xml)  
+
 ### [2003-11-7](/news/2003/11/7/index.md)
 
+##### United Nations Security Council
 #  A monitoring panel states to the United Nations Security Council tells of violations of the arms embargo against Somalia have taken place over a six-month period and the weapons are arriving now continuously in many small quantities (while large quantities arrive less often).
 
 
@@ -11,4 +15,4 @@
 2. [The African Union calls on the United Nations Security Council to impose an air and naval blockade of Somalia to counter an Islamist Al-Shabaab militant insurgency and piracy. ](/news/2010/10/21/the-african-union-calls-on-the-united-nations-security-council-to-impose-an-air-and-naval-blockade-of-somalia-to-counter-an-islamist-al-shab.md) _Context: Somalia, United Nations Security Council_
 3. [ The United Nations Security Council unanimously passes a declaration allowing foreign naval vessels to enter Somali territorial waters to deal with pirates. ](/news/2008/06/2/the-united-nations-security-council-unanimously-passes-a-declaration-allowing-foreign-naval-vessels-to-enter-somali-territorial-waters-to-d.md) _Context: Somalia, United Nations Security Council_
 4. [ The United Nations Security Council unanimously approves an African Union force to help stabilise Somalia. ](/news/2007/02/20/the-united-nations-security-council-unanimously-approves-an-african-union-force-to-help-stabilise-somalia.md) _Context: Somalia, United Nations Security Council_
-5. [At least 276 people are killed when a truck filled with explosives detonates outside a hotel in the capital Mogadishu, becoming the worst terrorist attack in Somalia's history. ](/news/2017/10/14/at-least-276-people-are-killed-when-a-truck-filled-with-explosives-detonates-outside-a-hotel-in-the-capital-mogadishu-becoming-the-worst-te.md) _Context: Somalia_
+5. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: United Nations Security Council_

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/14/tim-montgomery-of-the-united-states-broke-the-world-record-in-the-100-meter-dash-at-the-iaaf-grand-prix-final-running-9-78-seconds-to-beat.html)  [JSON](/news/2002/09/14/tim-montgomery-of-the-united-states-broke-the-world-record-in-the-100-meter-dash-at-the-iaaf-grand-prix-final-running-9-78-seconds-to-beat.json)  [XML](/news/2002/09/14/tim-montgomery-of-the-united-states-broke-the-world-record-in-the-100-meter-dash-at-the-iaaf-grand-prix-final-running-9-78-seconds-to-beat.xml)  
+
 ### [2002-09-14](/news/2002/09/14/index.md)
 
+##### Tim Montgomery
 # Tim Montgomery of the United States broke the world record in the 100 meter dash at the IAAF Grand Prix Final, running 9.78 seconds to beat the former record of 9.79 set by Maurice Greene of the United States in 1999.
 
 

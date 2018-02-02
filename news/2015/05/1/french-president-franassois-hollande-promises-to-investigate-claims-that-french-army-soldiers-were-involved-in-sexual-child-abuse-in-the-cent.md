@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/1/french-president-franassois-hollande-promises-to-investigate-claims-that-french-army-soldiers-were-involved-in-sexual-child-abuse-in-the-cent.html)  [JSON](/news/2015/05/1/french-president-franassois-hollande-promises-to-investigate-claims-that-french-army-soldiers-were-involved-in-sexual-child-abuse-in-the-cent.json)  [XML](/news/2015/05/1/french-president-franassois-hollande-promises-to-investigate-claims-that-french-army-soldiers-were-involved-in-sexual-child-abuse-in-the-cent.xml)  
+
 ### [2015-05-1](/news/2015/05/1/index.md)
 
+##### France
 # French President Francois Hollande promises to investigate claims that French Army soldiers were involved in sexual child abuse in the Central African Republic. 
 
 President Francois Hollande warns of consequences if the allegations about abuse in the Central African Republic are true. The U.N. worker who publicly revealed the abuse has been suspended.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/blogs/thetwo-way/2015/04/30/403285926/france-investigates-claims-its-soldiers-abused-children-in-africa)
 1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)

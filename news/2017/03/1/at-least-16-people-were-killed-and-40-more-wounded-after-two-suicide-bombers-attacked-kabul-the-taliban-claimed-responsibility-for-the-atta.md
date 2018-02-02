@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/1/at-least-16-people-were-killed-and-40-more-wound
 
 ### [2017-03-1](/news/2017/03/1/index.md)
 
+##### War in Afghanistan (2015-present)
 # At least 16 people were killed and 40 more wounded after two suicide bombers attacked Kabul. The Taliban claimed responsibility for the attacks. 
 
 

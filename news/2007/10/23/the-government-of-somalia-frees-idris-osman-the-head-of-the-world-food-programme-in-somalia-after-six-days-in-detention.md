@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/23/the-government-of-somalia-frees-idris-osman-the-head-of-the-world-food-programme-in-somalia-after-six-days-in-detention.html)  [JSON](/news/2007/10/23/the-government-of-somalia-frees-idris-osman-the-head-of-the-world-food-programme-in-somalia-after-six-days-in-detention.json)  [XML](/news/2007/10/23/the-government-of-somalia-frees-idris-osman-the-head-of-the-world-food-programme-in-somalia-after-six-days-in-detention.xml)  
+
 ### [2007-10-23](/news/2007/10/23/index.md)
 
+##### Somalia
 #  The government of Somalia frees Idris Osman, the head of the World Food Programme in Somalia, after six days in detention. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7057736.stm)
 

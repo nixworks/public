@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/6/danish-police-arrest-more-than-400-people-in-protests-in-copenhagen-over-the-closure-of-the-ungdomshuset-youth-centre-earlier-in-the-year.html)  [JSON](/news/2007/10/6/danish-police-arrest-more-than-400-people-in-protests-in-copenhagen-over-the-closure-of-the-ungdomshuset-youth-centre-earlier-in-the-year.json)  [XML](/news/2007/10/6/danish-police-arrest-more-than-400-people-in-protests-in-copenhagen-over-the-closure-of-the-ungdomshuset-youth-centre-earlier-in-the-year.xml)  
+
 ### [2007-10-6](/news/2007/10/6/index.md)
 
+##### Denmark
 #  Danish police arrest more than 400 people in protests in Copenhagen over the closure of the Ungdomshuset youth centre earlier in the year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7032163.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/19/the-first-case-of-the-zika-virus-has-been-diagn
 
 ### [2016-02-19](/news/2016/02/19/index.md)
 
+##### Zika virus outbreak
 # The first case of the Zika virus has been diagnosed in South Africa. 
 
 A Columbian businessman, who is visiting South Africa, has been diagnosed with the Zika virus, Health Minister Aaron Motsoaledi said on Friday. 

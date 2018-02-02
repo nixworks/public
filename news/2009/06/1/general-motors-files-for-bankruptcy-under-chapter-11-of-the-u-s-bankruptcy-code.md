@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/1/general-motors-files-for-bankruptcy-under-chapter-11-of-the-u-s-bankruptcy-code.html)  [JSON](/news/2009/06/1/general-motors-files-for-bankruptcy-under-chapter-11-of-the-u-s-bankruptcy-code.json)  [XML](/news/2009/06/1/general-motors-files-for-bankruptcy-under-chapter-11-of-the-u-s-bankruptcy-code.xml)  
+
 ### [2009-06-1](/news/2009/06/1/index.md)
 
+##### General Motors
 #  General Motors files for bankruptcy under Chapter 11 of the U.S. Bankruptcy Code. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Detroit Free Press](http://www.freep.com/article/20090601/BUSINESS01/90601021/GM+files+for+bankruptcy+protection)
 

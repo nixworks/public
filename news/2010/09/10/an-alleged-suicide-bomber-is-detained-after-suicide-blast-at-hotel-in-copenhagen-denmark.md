@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/10/an-alleged-suicide-bomber-is-detained-after-suicide-blast-at-hotel-in-copenhagen-denmark.html)  [JSON](/news/2010/09/10/an-alleged-suicide-bomber-is-detained-after-suicide-blast-at-hotel-in-copenhagen-denmark.json)  [XML](/news/2010/09/10/an-alleged-suicide-bomber-is-detained-after-suicide-blast-at-hotel-in-copenhagen-denmark.xml)  
+
 ### [2010-09-10](/news/2010/09/10/index.md)
 
+##### Copenhagen
 # An alleged suicide bomber is detained after "suicide" blast at hotel in Copenhagen, Denmark. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11265576)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

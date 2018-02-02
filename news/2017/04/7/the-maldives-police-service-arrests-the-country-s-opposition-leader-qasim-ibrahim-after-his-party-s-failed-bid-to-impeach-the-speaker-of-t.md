@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/7/the-maldives-police-service-arrests-the-country-
 
 ### [2017-04-7](/news/2017/04/7/index.md)
 
+##### Maldives Police Service
 # The Maldives Police Service arrests the country's opposition leader, Qasim Ibrahim, after his party's failed bid to impeach the Speaker of the People's Majlis. 
 
  Maldives police arrested an opposition leader on accusations of plotting to overthrow the government, they said on Friday, days after the opposition failed in 

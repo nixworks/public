@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/27/almost-45-people-are-injured-in-clashes-between-stone-throwing-protesters-and-indian-security-forces-in-india-s-kashmir-valley.html)  [JSON](/news/2010/08/27/almost-45-people-are-injured-in-clashes-between-stone-throwing-protesters-and-indian-security-forces-in-india-s-kashmir-valley.json)  [XML](/news/2010/08/27/almost-45-people-are-injured-in-clashes-between-stone-throwing-protesters-and-indian-security-forces-in-india-s-kashmir-valley.xml)  
+
 ### [2010-08-27](/news/2010/08/27/index.md)
 
+##### Indian security forces
 # Almost 45 people are injured in clashes between stone-throwing protesters and Indian security forces in India's Kashmir Valley. 
 
 Almost 45 people were injured when new clashes broke out between stone-throwing protesters and security forces in the Kashmir Valley, observers say.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/International/2010/08/27/New-clashes-in-Kashmir-leave-45-hurt/UPI-64521282947924/)
 
@@ -13,6 +17,6 @@ Almost 45 people were injured when new clashes broke out between stone-throwing 
 
 1. [Indian opposition Bharatiya Janata Party seeks the President's intervention on being denied entry into Kashmir Valley for the flag hoisting programme in Srinagar on Republic Day (India). ](/news/2011/01/24/indian-opposition-bharatiya-janata-party-seeks-the-president-s-intervention-on-being-denied-entry-into-kashmir-valley-for-the-flag-hoisting.md) _Context: India, Kashmir Valley_
 2. [Four militants, including two from Lashkar-e-Toiba (LET), are killed in separate gun battles with security forces in Kupwara and Kulgam districts of Kashmir Valley, India. ](/news/2010/11/1/four-militants-including-two-from-lashkar-e-toiba-let-are-killed-in-separate-gun-battles-with-security-forces-in-kupwara-and-kulgam-dist.md) _Context: India, Kashmir Valley_
-3. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
-4. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
-5. [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Elphinstone Road railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-elphinstone-ro.md) _Context: India_
+3. [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md) _Context: India_
+4. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: India_
+5. [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md) _Context: India_

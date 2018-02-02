@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/12/11/doctors-in-austria-confirm-that-ukrainian-presidential-candidate-viktor-yushchenko-s-illness-was-caused-by-dioxin-poisoning-it-is-alleged.html)  [JSON](/news/2004/12/11/doctors-in-austria-confirm-that-ukrainian-presidential-candidate-viktor-yushchenko-s-illness-was-caused-by-dioxin-poisoning-it-is-alleged.json)  [XML](/news/2004/12/11/doctors-in-austria-confirm-that-ukrainian-presidential-candidate-viktor-yushchenko-s-illness-was-caused-by-dioxin-poisoning-it-is-alleged.xml)  
+
 ### [2004-12-11](/news/2004/12/11/index.md)
 
+##### Ukraine
 #  Doctors in Austria confirm that Ukrainian presidential candidate Viktor Yushchenko's illness was caused by dioxin poisoning. It is alleged that he first became ill after dining with the chairman of the Ukrainian Security Service in early September 2004. (Link dead as of 21:43, 14 January 2007 (UTC))
 
 

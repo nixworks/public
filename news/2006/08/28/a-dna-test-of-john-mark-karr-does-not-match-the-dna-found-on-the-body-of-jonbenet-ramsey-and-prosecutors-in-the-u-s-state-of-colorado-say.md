@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/28/a-dna-test-of-john-mark-karr-does-not-match-the-dna-found-on-the-body-of-jonbenet-ramsey-and-prosecutors-in-the-u-s-state-of-colorado-say.html)  [JSON](/news/2006/08/28/a-dna-test-of-john-mark-karr-does-not-match-the-dna-found-on-the-body-of-jonbenet-ramsey-and-prosecutors-in-the-u-s-state-of-colorado-say.json)  [XML](/news/2006/08/28/a-dna-test-of-john-mark-karr-does-not-match-the-dna-found-on-the-body-of-jonbenet-ramsey-and-prosecutors-in-the-u-s-state-of-colorado-say.xml)  
+
 ### [2006-08-28](/news/2006/08/28/index.md)
 
+##### DNA test
 #  A DNA test of John Mark Karr does not match the DNA found on the body of JonBent Ramsey, and prosecutors in the U.S. state of Colorado say they will not charge Karr with murder. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/LAW/08/28/ramsey.arrest/index.html)
 

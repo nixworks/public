@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/26/the-governor-of-puerto-rico-anibal-acevedo-vila-signs-an-executive-order-in-which-the-government-s-budget-will-be-exclusively-used-for-he.html)  [JSON](/news/2006/04/26/the-governor-of-puerto-rico-anibal-acevedo-vila-signs-an-executive-order-in-which-the-government-s-budget-will-be-exclusively-used-for-he.json)  [XML](/news/2006/04/26/the-governor-of-puerto-rico-anibal-acevedo-vila-signs-an-executive-order-in-which-the-government-s-budget-will-be-exclusively-used-for-he.xml)  
+
 ### [2006-04-26](/news/2006/04/26/index.md)
 
+##### Puerto Rico Governor
 #  The Governor of Puerto Rico, Anbal Acevedo Vil, signs an executive order in which the government's budget will be exclusively used for health and security services. 43 agencies of the government will be shut down, while 15 will provide services partially. Another 60 will continue operating normally. The order is a result of the budget running dry before the end of the fiscal year. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=1894226&CMP=OTC-RSSFeeds0312)
 

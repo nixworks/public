@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/25/libyan-rebels-arrest-omar-ahmed-sodani-the-man-believed-responsible-for-the-murder-of-wpc-yvonne-fletcher-outside-the-libyan-embassy-in-lon.html)  [JSON](/news/2011/03/25/libyan-rebels-arrest-omar-ahmed-sodani-the-man-believed-responsible-for-the-murder-of-wpc-yvonne-fletcher-outside-the-libyan-embassy-in-lon.json)  [XML](/news/2011/03/25/libyan-rebels-arrest-omar-ahmed-sodani-the-man-believed-responsible-for-the-murder-of-wpc-yvonne-fletcher-outside-the-libyan-embassy-in-lon.xml)  
+
 ### [2011-03-25](/news/2011/03/25/index.md)
 
+##### Arab Spring
 # Libyan rebels arrest Omar Ahmed Sodani, the man believed responsible for the murder of WPC Yvonne Fletcher outside the Libyan embassy in London in 1984. 
 
 Heavy gunfire reported in the southern Syrian city of Daraa as anti-government protesters defy a week-long crackdown.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hh8V8FxqXOfgJlTK72FmQH7jS19Q?docId=CNG.bd4326a710cbe97b7421d5ca4ebf2793.211)
 2. [Al Jazeera](http://blogs.aljazeera.net/live/middle-east/syria-live-blog-march-25)
@@ -19,6 +23,11 @@ Heavy gunfire reported in the southern Syrian city of Daraa as anti-government p
 10. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703696704576222613775328014.html?mod=googlenews_wsj)
 10. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/25/201132555636755621_20.jpg)
 
+### Changes:
+
+1. [Arab Spring: Libyan rebels arrest Omar Ahmed Sodani, the man believed responsible for the murder of WPC Yvonne Fletcher outside the Libyan embassy in London in 1984. ](/news/2011/03/25/arab-spring-libyan-rebels-arrest-omar-ahmed-sodani-the-man-believed-responsible-for-the-murder-of-wpc-yvonne-fletcher-outside-the-libyan-e.md) _2017-08-27 03:32:47 (First version)_
+1. [Libyan rebels arrest Omar Ahmed Sodani, the man believed responsible for the murder of WPC Yvonne Fletcher outside the Libyan embassy in London in 1984. ](/news/2011/03/25/libyan-rebels-arrest-omar-ahmed-sodani-the-man-believed-responsible-for-the-murder-of-wpc-yvonne-fletcher-outside-the-libyan-embassy-in-lon.md) _(Current version)_
+
 ### Related:
 
 1. [The Government of the United Kingdom pledges to raise the issue of the murder of WPC Yvonne Fletcher, allegedly by a Libyan official outside the embassy in London in 1984, with the new government in Tripoli. ](/news/2011/08/28/the-government-of-the-united-kingdom-pledges-to-raise-the-issue-of-the-murder-of-wpc-yvonne-fletcher-allegedly-by-a-libyan-official-outside.md) _Context: Libya, London, WPC_
@@ -26,8 +35,3 @@ Heavy gunfire reported in the southern Syrian city of Daraa as anti-government p
 3. [Libyan Civil War:The International Committee of the Red Cross withdraws from the rebel held city of Benghazi, Libya, fearing an attack from forces loyal to Muammar Gaddafi. ](/news/2011/03/17/libyan-civil-war-the-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing-an-attack-from.md) _Context: Arab Spring, Libya_
 4. [Rebels in Libya say they have recaptured the town of Brega from government forces. ](/news/2011/03/14/rebels-in-libya-say-they-have-recaptured-the-town-of-brega-from-government-forces.md) _Context: Arab Spring, Libya_
 5. [Fourteen people are hurt in clashes between Libyan protestors and security forces in Benghazi as protests spread. ](/news/2011/02/16/fourteen-people-are-hurt-in-clashes-between-libyan-protestors-and-security-forces-in-benghazi-as-protests-spread.md) _Context: Arab Spring, Libya_
-
-### Changes:
-
-1. [Arab Spring: Libyan rebels arrest Omar Ahmed Sodani, the man believed responsible for the murder of WPC Yvonne Fletcher outside the Libyan embassy in London in 1984. ](/news/2011/03/25/arab-spring-libyan-rebels-arrest-omar-ahmed-sodani-the-man-believed-responsible-for-the-murder-of-wpc-yvonne-fletcher-outside-the-libyan-e.md) _2017-08-27 03:32:47 (First version)_
-1. [Libyan rebels arrest Omar Ahmed Sodani, the man believed responsible for the murder of WPC Yvonne Fletcher outside the Libyan embassy in London in 1984. ](/news/2011/03/25/libyan-rebels-arrest-omar-ahmed-sodani-the-man-believed-responsible-for-the-murder-of-wpc-yvonne-fletcher-outside-the-libyan-embassy-in-lon.md) _(Current version)_

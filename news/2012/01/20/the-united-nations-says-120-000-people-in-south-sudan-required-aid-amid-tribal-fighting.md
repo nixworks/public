@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/20/the-united-nations-says-120-000-people-in-south-sudan-required-aid-amid-tribal-fighting.html)  [JSON](/news/2012/01/20/the-united-nations-says-120-000-people-in-south-sudan-required-aid-amid-tribal-fighting.json)  [XML](/news/2012/01/20/the-united-nations-says-120-000-people-in-south-sudan-required-aid-amid-tribal-fighting.xml)  
+
 ### [2012-01-20](/news/2012/01/20/index.md)
 
+##### United Nations
 # The United Nations says 120,000 people in South Sudan required aid amid tribal fighting. 
 
 Tribal fighting in South Sudan has left 120,000 people in need of emergency food aid, twice the previous estimate, the United Nations said on Friday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2012/01/20/uk-sudan-south-tribal-idUKTRE80J0YK20120120)
 1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20120120&t=2&i=560829789&w=&fh=545px&fw=&ll=&pl=&sq=&r=2012-01-20T211209Z_1_BTRE80J1MWC00_RTROPTP_0_SUDAN-SOUTH-TRIBAL)

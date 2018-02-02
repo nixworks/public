@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/28/prime-minister-of-india-manmohan-singh-makes-the-first-official-visit-to-myanmar-by-an-indian-pm-since-1987.html)  [JSON](/news/2012/05/28/prime-minister-of-india-manmohan-singh-makes-the-first-official-visit-to-myanmar-by-an-indian-pm-since-1987.json)  [XML](/news/2012/05/28/prime-minister-of-india-manmohan-singh-makes-the-first-official-visit-to-myanmar-by-an-indian-pm-since-1987.xml)  
+
 ### [2012-05-28](/news/2012/05/28/index.md)
 
+##### Prime Minister
 # Prime Minister of India Manmohan Singh makes the first official visit to Myanmar by an Indian PM since 1987. 
 
 Manmohan Singh is meeting President Thein Sein as he makes the first official visit to Burma by an Indian prime minister since 1987.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-18225010)
 2. [The Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Manmohan-arrives-in-Myanmar-First-Indian-PM-to-visit-in-25-years/articleshow/13571678.cms)

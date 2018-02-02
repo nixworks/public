@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/31/norwegian-police-announce-they-have-recovered-the-edvard-munch-paintings-the-scream-and-madonna-stolen-in-2004.html)  [JSON](/news/2006/08/31/norwegian-police-announce-they-have-recovered-the-edvard-munch-paintings-the-scream-and-madonna-stolen-in-2004.json)  [XML](/news/2006/08/31/norwegian-police-announce-they-have-recovered-the-edvard-munch-paintings-the-scream-and-madonna-stolen-in-2004.xml)  
+
 ### [2006-08-31](/news/2006/08/31/index.md)
 
+##### Norway
 #  Norwegian police announce they have recovered the Edvard Munch paintings "The Scream" and "Madonna", stolen in 2004. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/entertainment/5303200.stm)
 

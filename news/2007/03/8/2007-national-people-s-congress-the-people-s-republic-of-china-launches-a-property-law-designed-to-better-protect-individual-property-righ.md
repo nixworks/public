@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/8/2007-national-people-s-congress-the-people-s-republic-of-china-launches-a-property-law-designed-to-better-protect-individual-property-righ.html)  [JSON](/news/2007/03/8/2007-national-people-s-congress-the-people-s-republic-of-china-launches-a-property-law-designed-to-better-protect-individual-property-righ.json)  [XML](/news/2007/03/8/2007-national-people-s-congress-the-people-s-republic-of-china-launches-a-property-law-designed-to-better-protect-individual-property-righ.xml)  
+
 ### [2007-03-8](/news/2007/03/8/index.md)
 
+##### 2007 National People's Congress
 #  2007 National People's Congress: The People's Republic of China launches a property law designed to better protect individual property rights. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6429317.stm)
 

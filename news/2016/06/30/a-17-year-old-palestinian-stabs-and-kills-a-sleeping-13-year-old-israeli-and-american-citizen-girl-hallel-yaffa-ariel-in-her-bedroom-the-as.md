@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/30/a-17-year-old-palestinian-stabs-and-kills-a-sle
 
 ### [2016-06-30](/news/2016/06/30/index.md)
 
+##### Israeli-Palestinian conflict
 # A 17-year-old Palestinian stabs and kills a sleeping 13-year-old Israeli and American citizen girl Hallel Yaffa Ariel in her bedroom. The assailant is fatally shot by security guards. Israeli Prime Minister Benjamin Netanyahu blamed "incitement-driven terrorists" while the U.S. State Department condemned the "outrageous terrorist attack." 
 
 A Palestinian fatally stabbed a 13-year-old Israeli girl in her bedroom in a settlement in the occupied West Bank on Thursday, the military said, as international sponsors of frozen peace talks prepared to issue a report on the impasse.

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/07/22/elliot-handler-who-cofounded-mattel-with-his-wife-dies-at-age-95.html)  [JSON](/news/2011/07/22/elliot-handler-who-cofounded-mattel-with-his-wife-dies-at-age-95.json)  [XML](/news/2011/07/22/elliot-handler-who-cofounded-mattel-with-his-wife-dies-at-age-95.xml)  
+
 ### [2011-07-22](/news/2011/07/22/index.md)
 
+##### Elliot Handler
 # Elliot Handler who cofounded Mattel with his wife dies at age 95. 
 
 Mr. Handler helped introduce Barbie, helped design the talking doll Chatty Cathy and popularized Hot Wheels toy cars.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2011/07/23/business/elliot-handler-co-founder-of-mattel-toys-dies-at-95.html)
+1. [The New York Times](https://www.nytimes.com/2011/07/23/business/elliot-handler-co-founder-of-mattel-toys-dies-at-95.html)
 1. [Cover Image](https://static01.nyt.com/images/2011/07/23/business/HANDLER-obit/HANDLER-obit-thumbStandard.jpg)
 
 ### Related:

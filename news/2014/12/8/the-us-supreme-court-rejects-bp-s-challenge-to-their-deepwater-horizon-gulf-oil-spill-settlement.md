@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/8/the-us-supreme-court-rejects-bp-s-challenge-to-their-deepwater-horizon-gulf-oil-spill-settlement.html)  [JSON](/news/2014/12/8/the-us-supreme-court-rejects-bp-s-challenge-to-their-deepwater-horizon-gulf-oil-spill-settlement.json)  [XML](/news/2014/12/8/the-us-supreme-court-rejects-bp-s-challenge-to-their-deepwater-horizon-gulf-oil-spill-settlement.xml)  
+
 ### [2014-12-8](/news/2014/12/8/index.md)
 
+##### Supreme Court of the United States
 # The US Supreme Court rejects BP's challenge to their "Deepwater Horizon" gulf oil spill settlement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via FOX Business](http://www.foxbusiness.com/industries/2014/12/08/scotus-rejects-bp-challenge-to-gulf-spill-settlement/)
 1. [Cover Image](http://global.fncstatic.com/static/cq/fb/img/all/og-fox-business.png)

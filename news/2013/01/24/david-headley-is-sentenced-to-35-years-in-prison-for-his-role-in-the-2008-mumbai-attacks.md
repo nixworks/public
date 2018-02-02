@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/24/david-headley-is-sentenced-to-35-years-in-prison-for-his-role-in-the-2008-mumbai-attacks.html)  [JSON](/news/2013/01/24/david-headley-is-sentenced-to-35-years-in-prison-for-his-role-in-the-2008-mumbai-attacks.json)  [XML](/news/2013/01/24/david-headley-is-sentenced-to-35-years-in-prison-for-his-role-in-the-2008-mumbai-attacks.xml)  
+
 ### [2013-01-24](/news/2013/01/24/index.md)
 
+##### David Headley
 # David Headley is sentenced to 35 years in prison for his role in the 2008 Mumbai attacks. 
 
 A US man, David Coleman Headley, is sentenced to 35 years in prison for his key role in plotting the deadly Mumbai attacks in 2008.
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/US/wireStory/american-mumbai-plotter-sentenced-chicago-18299695)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-21189374)

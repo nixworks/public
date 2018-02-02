@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/07/14/a-powerful-solar-flare-later-named-the-bastille-day-event-causes-a-geomagnetic-storm-on-earth.html)  [JSON](/news/2000/07/14/a-powerful-solar-flare-later-named-the-bastille-day-event-causes-a-geomagnetic-storm-on-earth.json)  [XML](/news/2000/07/14/a-powerful-solar-flare-later-named-the-bastille-day-event-causes-a-geomagnetic-storm-on-earth.xml)  
+
 ### [2000-07-14](/news/2000/07/14/index.md)
 
+##### solar flare
 #  A powerful solar flare, later named the Bastille Day event, causes a geomagnetic storm on Earth.
 
 

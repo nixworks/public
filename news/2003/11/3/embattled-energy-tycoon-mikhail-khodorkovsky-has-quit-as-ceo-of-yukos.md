@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/3/embattled-energy-tycoon-mikhail-khodorkovsky-has-quit-as-ceo-of-yukos.html)  [JSON](/news/2003/11/3/embattled-energy-tycoon-mikhail-khodorkovsky-has-quit-as-ceo-of-yukos.json)  [XML](/news/2003/11/3/embattled-energy-tycoon-mikhail-khodorkovsky-has-quit-as-ceo-of-yukos.xml)  
+
 ### [2003-11-3](/news/2003/11/3/index.md)
 
+##### Mikhail Khodorkovsky
 #  Embattled energy tycoon Mikhail Khodorkovsky has quit as CEO of Yukos.
 
 
@@ -11,4 +15,4 @@
 2. [ Former Yukos businessman Mikhail Khodorkovsky again stands trial for alleged financial crimes. ](/news/2009/03/3/former-yukos-businessman-mikhail-khodorkovsky-again-stands-trial-for-alleged-financial-crimes.md) _Context: Mikhail Khodorkovsky, Yukos_
 3. [ Former Yukos chief Mikhail Khodorkovsky applies for parole in a bid to challenge Russian President Dmitry Medvedev to follow through on promises to build an independent judiciary, his lawyers said. ](/news/2008/07/16/former-yukos-chief-mikhail-khodorkovsky-applies-for-parole-in-a-bid-to-challenge-russian-president-dmitry-medvedev-to-follow-through-on-pro.md) _Context: Mikhail Khodorkovsky, Yukos_
 4. [ Russian state prosecutors begin sentencing of former Yukos tycoon Mikhail Khodorkovsky and Yukos shareholder Platon Lebedev for tax evasion and fraud. ](/news/2005/03/28/russian-state-prosecutors-begin-sentencing-of-former-yukos-tycoon-mikhail-khodorkovsky-and-yukos-shareholder-platon-lebedev-for-tax-evasion.md) _Context: Mikhail Khodorkovsky, Yukos_
-5. [ Russia auctions off the main production unit of oil giant YUKOS to the small Baikalfinansgroup for 260.75bn rubles (US$9.37bn). Before the sale, YUKOS was said to owe US$27bn in unpaid taxes, specifically an average of 90% of its revenue. Former CEO jailed Mikhail Khodorkovsky and other YUKOS officials maintain it is politically motivated. ](/news/2004/12/19/russia-auctions-off-the-main-production-unit-of-oil-giant-yukos-to-the-small-baikalfinansgroup-for-260-75bn-rubles-us-9-37bn-before-the.md) _Context: Mikhail Khodorkovsky, Yukos_
+5. [Russia issues an international arrest warrant for former oil tycoon Mikhail Khodorkovsky on charges of organizing the murder of Vladimir Petukhov, mayor of Nefteyugansk in 1998. ](/news/2015/12/23/russia-issues-an-international-arrest-warrant-for-former-oil-tycoon-mikhail-khodorkovsky-on-charges-of-organizing-the-murder-of-vladimir-pet.md) _Context: Mikhail Khodorkovsky_

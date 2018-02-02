@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/5/israel-s-army-says-it-is-investigating-a-video-which-appears-to-show-a-soldier-dancing-around-a-bound-and-blindfolded-palestinian-woman.html)  [JSON](/news/2010/10/5/israel-s-army-says-it-is-investigating-a-video-which-appears-to-show-a-soldier-dancing-around-a-bound-and-blindfolded-palestinian-woman.json)  [XML](/news/2010/10/5/israel-s-army-says-it-is-investigating-a-video-which-appears-to-show-a-soldier-dancing-around-a-bound-and-blindfolded-palestinian-woman.xml)  
+
 ### [2010-10-5](/news/2010/10/5/index.md)
 
+##### Israel Defense Forces
 # Israel's army says it is investigating a video which appears to show a soldier dancing around a bound and blindfolded Palestinian woman. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/201010514447409589.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11476077)

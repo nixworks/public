@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/3/former-prime-minister-of-portugal-pedro-passos-c
 
 ### [2017-10-3](/news/2017/10/3/index.md)
 
+##### Politics of Portugal
 # Former Prime Minister of Portugal Pedro Passos Coelho steps down as the leader of the opposition Social Democratic Party in local elections. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/6/vlad-filat-the-prime-minister-of-moldova-concedes-defeat-on-a-referendum-proposal-for-direct-election-of-the-president-of-moldova.html)  [JSON](/news/2010/09/6/vlad-filat-the-prime-minister-of-moldova-concedes-defeat-on-a-referendum-proposal-for-direct-election-of-the-president-of-moldova.json)  [XML](/news/2010/09/6/vlad-filat-the-prime-minister-of-moldova-concedes-defeat-on-a-referendum-proposal-for-direct-election-of-the-president-of-moldova.xml)  
+
 ### [2010-09-6](/news/2010/09/6/index.md)
 
+##### Vlad Filat
 # Vlad Filat, the Prime Minister of Moldova, concedes defeat on a referendum proposal for direct election of the President of Moldova. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11195922)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

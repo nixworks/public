@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/26/an-outbreak-of-legionellosis-legionnaires-disease-in-quebec-city-canada-kills-8-people-and-infects-104.html)  [JSON](/news/2012/08/26/an-outbreak-of-legionellosis-legionnaires-disease-in-quebec-city-canada-kills-8-people-and-infects-104.json)  [XML](/news/2012/08/26/an-outbreak-of-legionellosis-legionnaires-disease-in-quebec-city-canada-kills-8-people-and-infects-104.xml)  
+
 ### [2012-08-26](/news/2012/08/26/index.md)
 
+##### Legionellosis
 # An outbreak of Legionellosis ("Legionnaires' disease") in Quebec City, Canada, kills 8 people and infects 104. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/story/2012/08/26/legionnaires-disease-kills-more.html?cmp=rss)
 1. [Cover Image](https://i.cbc.ca/1.1481922.1381028891!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-legionella-legionnaires.jpg)

@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2015/01/10/a-suicide-attack-by-al-nusra-front-al-qaeda-s-official-affiliate-in-syria-at-a-cafa-c-in-tripoli-lebanon-kills-at-least-seven-people.html)  [JSON](/news/2015/01/10/a-suicide-attack-by-al-nusra-front-al-qaeda-s-official-affiliate-in-syria-at-a-cafa-c-in-tripoli-lebanon-kills-at-least-seven-people.json)  [XML](/news/2015/01/10/a-suicide-attack-by-al-nusra-front-al-qaeda-s-official-affiliate-in-syria-at-a-cafa-c-in-tripoli-lebanon-kills-at-least-seven-people.xml)  
+
 ### [2015-01-10](/news/2015/01/10/index.md)
 
+##### Syrian Civil War spillover in Lebanon
 # A suicide attack by al-Nusra Front (al-Qaeda's official affiliate in Syria) at a cafe in Tripoli, Lebanon, kills at least seven people.
 
 A suicide bomb attack on a cafe in the Lebanese city of Tripoli killed at least seven people on Saturday, the latest violence to hit a region repeatedly buffeted by violence linked to the civil war in neighboring Syria.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/01/10/us-lebanon-attack-idUSKBN0KJ0ML20150110)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20150110&t=2&i=1015280057&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB090AW)
-
-### Related:
-
-1. [The al-Nusra Front, an al-Qaeda affiliate, assaults the Free Syrian Army's 13th Division in Maarrat al-Nu'man, killing seven FSA fighters with 40 captured. The Syrian Observatory for Human Rights says Nusra seized anti-tank missiles, armored vehicles, a tank, and other arms from the U.S.-backed division. ](/news/2016/03/13/the-al-nusra-front-an-al-qaeda-affiliate-assaults-the-free-syrian-army-s-13th-division-in-maarrat-al-nu-man-killing-seven-fsa-fighters-wi.md) _Context: al-Nusra, al-Qaeda_
-2. [Russian airstrikes on a Al-Nusra Front (Al-Qaeda's branch in Syria)-run prison complex in the northern town of Maarrat al-Nu'man, Idlib, leaves nearly 60 people dead. Most of those killed were rebels imprisoned by Al-Nusra, according to the Syrian Observatory for Human Rights. ](/news/2016/01/9/russian-airstrikes-on-a-al-nusra-front-al-qaeda-s-branch-in-syria-run-prison-complex-in-the-northern-town-of-maarrat-al-nu-man-idlib-lea.md) _Context: al-Nusra, al-Qaeda_
-3. [The Lebanese Army and the al-Nusra Front conduct a prisoner exchange with Saja Dulaimi, former wife of Abu Bakr al-Baghdadi, leader of the Islamic State of Iraq and the Levant, being one of the prisoners released. The exchange was brokered by Qatar. ](/news/2015/12/1/the-lebanese-army-and-the-al-nusra-front-conduct-a-prisoner-exchange-with-saja-dulaimi-former-wife-of-abu-bakr-al-baghdadi-leader-of-the-i.md) _Context: Syrian Civil War spillover in Lebanon, al-Nusra_
-4. [The Syrian Observatory for Human Rights reports Russian airstrikes kill at least 18 civilians and wound dozens more in the town of Ariha in Syria's northwestern Idlib province. Idlib is controlled by the Army of Conquest, a rebel alliance of mainly Islamist groups, including al-Qaeda affiliate al-Nusra Front. ](/news/2015/11/29/the-syrian-observatory-for-human-rights-reports-russian-airstrikes-kill-at-least-18-civilians-and-wound-dozens-more-in-the-town-of-ariha-in.md) _Context: al-Nusra, al-Qaeda_
-5. [Al-Nusra Front's (Al-Qaeda's branch in Syria) leader Abu Suleiman al-Masri is reportedly killed in the Aleppo province during clashes with the Syrian Army. ](/news/2015/10/24/al-nusra-front-s-al-qaeda-s-branch-in-syria-leader-abu-suleiman-al-masri-is-reportedly-killed-in-the-aleppo-province-during-clashes-with-t.md) _Context: al-Nusra, al-Qaeda_
+1. [Reuters](https://www.reuters.com/article/2015/01/10/us-lebanon-attack-idUSKBN0KJ0ML20150110)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20150110&t=2&i=1015280057&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB090AW)
 
 ### Changes:
 
 1. [Syrian Civil War spillover in Lebanon: A suicide attack by al-Nusra Front (al-Qaeda's official affiliate in Syria) at a cafe in Tripoli, Lebanon, kills at least seven people.](/news/2015/01/10/syrian-civil-war-spillover-in-lebanon-a-suicide-attack-by-al-nusra-front-al-qaeda-s-official-affiliate-in-syria-at-a-cafa-c-in-tripoli-le.md) _2017-08-27 03:41:46 (First version)_
 1. [A suicide attack by al-Nusra Front (al-Qaeda's official affiliate in Syria) at a cafe in Tripoli, Lebanon, kills at least seven people.](/news/2015/01/10/a-suicide-attack-by-al-nusra-front-al-qaeda-s-official-affiliate-in-syria-at-a-cafa-c-in-tripoli-lebanon-kills-at-least-seven-people.md) _(Current version)_
+
+### Related:
+
+1. [The Russian Government says Russian jets bombed Syria for the third consecutive day, hitting 12 Islamic State of Iraq and the Levant (ISIL) targets. The UK-based Syrian Observatory for Human Rights reports that ISIL has no presence in the western and northern areas struck though Al-Qaeda's Syrian affiliate al-Nusra Front does. Russian planes also bombed Raqqah, the unofficial capital of ISIL. ](/news/2015/10/2/the-russian-government-says-russian-jets-bombed-syria-for-the-third-consecutive-day-hitting-12-islamic-state-of-iraq-and-the-levant-isil.md) _Context: al-Nusra Front, al-Qaeda_
+2. [ISIL militants and their families, estimated to be around 600 people, begin to leave their strongholds on the Lebanon-Syria border and Qalamun Mountains for the Deir ez-Zor Governorate under Syrian military escort. A ceasefire was reached between warring parties yesterday. ](/news/2017/08/28/isil-militants-and-their-families-estimated-to-be-around-600-people-begin-to-leave-their-strongholds-on-the-lebanonasyria-border-and-qal.md) _Context: Syrian Civil War spillover in Lebanon_
+3. [The Lebanese Armed Forces launches operation "Fajr al-Joroud", and on the first day recaptures 30 km of territory near the Lebanon-Syria border formerly occupied by ISIS militants. Twenty ISIS militants were killed and 10 Lebanese soldiers were wounded. ](/news/2017/08/19/the-lebanese-armed-forces-launches-operation-fajr-al-joroud-and-on-the-first-day-recaptures-30-km-of-territory-near-the-lebanonasyria-b.md) _Context: Syrian Civil War spillover in Lebanon_
+4. [ Lebanese Armed Forces are attacked by five suicide bombers and other militants during a raid of two Syrian refugee camps in Arsal near the Syrian border. The army reports a girl was killed in one of the suicide attacks, seven soldiers were also wounded, and 350 people, including several ISIL officials, were detained during the sweep. ](/news/2017/06/30/lebanese-armed-forces-are-attacked-by-five-suicide-bombers-and-other-militants-during-a-raid-of-two-syrian-refugee-camps-in-arsal-near-the.md) _Context: Syrian Civil War spillover in Lebanon_
+5. [Tahrir al-Sham, al-Qaeda's branch in Syria, claims responsibility for yesterday's twin bomb attacks in Damascus which left dozens dead. ](/news/2017/03/12/tahrir-al-sham-al-qaeda-s-branch-in-syria-claims-responsibility-for-yesterday-s-twin-bomb-attacks-in-damascus-which-left-dozens-dead.md) _Context: al-Qaeda_

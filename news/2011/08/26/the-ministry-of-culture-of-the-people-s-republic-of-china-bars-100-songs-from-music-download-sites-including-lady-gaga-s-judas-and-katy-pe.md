@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/26/the-ministry-of-culture-of-the-people-s-republic-of-china-bars-100-songs-from-music-download-sites-including-lady-gaga-s-judas-and-katy-pe.html)  [JSON](/news/2011/08/26/the-ministry-of-culture-of-the-people-s-republic-of-china-bars-100-songs-from-music-download-sites-including-lady-gaga-s-judas-and-katy-pe.json)  [XML](/news/2011/08/26/the-ministry-of-culture-of-the-people-s-republic-of-china-bars-100-songs-from-music-download-sites-including-lady-gaga-s-judas-and-katy-pe.xml)  
+
 ### [2011-08-26](/news/2011/08/26/index.md)
 
+##### Ministry of Culture of the People's Republic of China
 # The Ministry of Culture of the People's Republic of China bars 100 songs from music download sites including Lady Gaga's "Judas" and Katy Perry's "Last Friday Night (T.G.I.F.)". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gA81Ku3jipEffwsPe2eO9ZrJg3OA?docId=348a28dfd806445ea67929eedc8fcbcd)
 

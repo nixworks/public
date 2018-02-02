@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/15/sudan-and-a-breakaway-faction-of-the-justice-and-equality-movement-of-darfur-sign-a-peace-treaty.html)  [JSON](/news/2007/07/15/sudan-and-a-breakaway-faction-of-the-justice-and-equality-movement-of-darfur-sign-a-peace-treaty.json)  [XML](/news/2007/07/15/sudan-and-a-breakaway-faction-of-the-justice-and-equality-movement-of-darfur-sign-a-peace-treaty.xml)  
+
 ### [2007-07-15](/news/2007/07/15/index.md)
 
+##### Sudan
 #  Sudan and a breakaway faction of the Justice and Equality Movement of Darfur sign a peace treaty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sudan Tribune](http://www.sudantribune.com/spip.php?article22873)
 

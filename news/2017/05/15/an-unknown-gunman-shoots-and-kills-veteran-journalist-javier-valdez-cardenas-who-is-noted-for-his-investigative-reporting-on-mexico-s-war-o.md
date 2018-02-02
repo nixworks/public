@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/15/an-unknown-gunman-shoots-and-kills-veteran-jour
 
 ### [2017-05-15](/news/2017/05/15/index.md)
 
+##### Mexican Drug War
 # An unknown gunman shoots and kills veteran journalist Javier Valdez Crdenas, who is noted for his investigative reporting on Mexico's war on drugs, in Culiacn, Sinaloa. 
 
 

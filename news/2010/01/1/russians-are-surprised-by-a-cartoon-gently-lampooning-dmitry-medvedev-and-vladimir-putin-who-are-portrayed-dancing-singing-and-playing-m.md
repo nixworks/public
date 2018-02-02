@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/1/russians-are-surprised-by-a-cartoon-gently-lampooning-dmitry-medvedev-and-vladimir-putin-who-are-portrayed-dancing-singing-and-playing-m.html)  [JSON](/news/2010/01/1/russians-are-surprised-by-a-cartoon-gently-lampooning-dmitry-medvedev-and-vladimir-putin-who-are-portrayed-dancing-singing-and-playing-m.json)  [XML](/news/2010/01/1/russians-are-surprised-by-a-cartoon-gently-lampooning-dmitry-medvedev-and-vladimir-putin-who-are-portrayed-dancing-singing-and-playing-m.xml)  
+
 ### [2010-01-1](/news/2010/01/1/index.md)
 
+##### Russia
 #  Russians are surprised by a cartoon "gently lampooning" Dmitry Medvedev and Vladimir Putin who are portrayed dancing, singing and playing musical instruments. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8436959.stm)
 2. [France 24](http://www.france24.com/en/node/4960262)

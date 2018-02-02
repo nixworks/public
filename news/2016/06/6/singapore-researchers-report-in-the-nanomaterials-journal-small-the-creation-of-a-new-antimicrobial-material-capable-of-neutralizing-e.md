@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/6/singapore-researchers-report-in-the-nanomaterial
 
 ### [2016-06-6](/news/2016/06/6/index.md)
 
+##### Singapore
 # Singapore researchers report, in the nanomaterials journal "Small", the creation of a new antimicrobial material capable of neutralizing "E. coli" bacteria, including antibiotic-resistant bacteria such as "Staphylococcus aureus" and "Pseudomonas aeruginosa". 
 
 Researchers in Singapore have created a new antimicrobial material capable of neutralizing E. coli bacteria in 30 seconds.

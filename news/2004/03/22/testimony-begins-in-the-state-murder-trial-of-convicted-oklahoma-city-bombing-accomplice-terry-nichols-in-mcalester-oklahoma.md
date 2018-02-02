@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/03/22/testimony-begins-in-the-state-murder-trial-of-convicted-oklahoma-city-bombing-accomplice-terry-nichols-in-mcalester-oklahoma.html)  [JSON](/news/2004/03/22/testimony-begins-in-the-state-murder-trial-of-convicted-oklahoma-city-bombing-accomplice-terry-nichols-in-mcalester-oklahoma.json)  [XML](/news/2004/03/22/testimony-begins-in-the-state-murder-trial-of-convicted-oklahoma-city-bombing-accomplice-terry-nichols-in-mcalester-oklahoma.xml)  
+
 ### [2004-03-22](/news/2004/03/22/index.md)
 
+##### Testimony
 #  Testimony begins in the state murder trial of convicted Oklahoma City bombing accomplice, Terry Nichols, in McAlester, Oklahoma. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/news?tmpl=story&u=/ap/20040323/ap_on_re_us/nichols_trial_19)
+1. [AP](https://news.yahoo.com/news?tmpl=story&u=/ap/20040323/ap_on_re_us/nichols_trial_19)
 
 ### Related:
 

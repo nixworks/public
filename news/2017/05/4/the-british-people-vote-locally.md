@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/05/4/the-british-people-vote-locally.html)  [JSON](/news/2017/05/4/the-british-people-vote-locally.json)  [XML](/news/2017/05/4/the-british-people-vote-locally.xml)  
+
 ### [2017-05-4](/news/2017/05/4/index.md)
 
+##### United Kingdom local elections, 2017
 # The British people vote locally. 
 
 Thousands of voters across England, Scotland and Wales are going to the polls today to decide the fate of almost 5,000 council seats and to elect powerful new metro mayors.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/2017/05/04/local-elections-2017-results-analysis/)
 1. [Cover Image](http://www.telegraph.co.uk/content/dam/news/2017/05/04/TELEMMGLPICT000127733725_1-xlarge_trans_NvBQzQNjv4Bq8JWdQZ1J_PyHeSO_SJ-VAoyYNSukMALmIzuk96PqrxU.jpeg)

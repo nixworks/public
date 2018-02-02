@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/29/turkish-president-abdullah-ga1-4l-states-that-he-will-not-run-for-a-second-term-in-the-upcoming-presidential-elections-in-august-paving-the-w.html)  [JSON](/news/2014/06/29/turkish-president-abdullah-ga1-4l-states-that-he-will-not-run-for-a-second-term-in-the-upcoming-presidential-elections-in-august-paving-the-w.json)  [XML](/news/2014/06/29/turkish-president-abdullah-ga1-4l-states-that-he-will-not-run-for-a-second-term-in-the-upcoming-presidential-elections-in-august-paving-the-w.xml)  
+
 ### [2014-06-29](/news/2014/06/29/index.md)
 
+##### Abdullah Gul
 # Turkish president Abdullah Gul states that he will not run for a second term in the upcoming presidential elections in August, paving the way for prime minister Recep Tayyip Erdogan to run as AKP's candidate instead. 
 
  I will not present my candidacy. I already told this to Mr. [Prime Minister Recep Tayyip] Erdoğan before the March 30 [local elections], Gül told reporters on June 29
 
 
-### Source:
+### Sources:
 
 1. [Hürriyet](http://www.hurriyetdailynews.com/president-gul-announces-he-will-not-run-for-second-term-in-august-elections.aspx?pageID=238&nID=68443&NewsCatID=338)
 1. [Cover Image](http://www.hurriyetdailynews.com/images/news/201406/n_68443_1.jpg)

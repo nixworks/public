@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/16/nasa-s-mars-reconnaissance-orbiter-finds-the-beagle-2-spacecraft-that-disappeared-in-2003-intact-on-the-surface-of-mars-an-error-had-stoppe.html)  [JSON](/news/2015/01/16/nasa-s-mars-reconnaissance-orbiter-finds-the-beagle-2-spacecraft-that-disappeared-in-2003-intact-on-the-surface-of-mars-an-error-had-stoppe.json)  [XML](/news/2015/01/16/nasa-s-mars-reconnaissance-orbiter-finds-the-beagle-2-spacecraft-that-disappeared-in-2003-intact-on-the-surface-of-mars-an-error-had-stoppe.xml)  
+
 ### [2015-01-16](/news/2015/01/16/index.md)
 
+##### Mars Reconnaissance Orbiter
 # NASA's Mars Reconnaissance Orbiter finds the Beagle 2 spacecraft that disappeared in 2003 intact on the surface of Mars. An error had stopped the spacecraft's solar panels from working and communicating back to Earth. 
 
 In the most amazing twist, one of the pioneering robots that went into space almost a decade ago to land on Mars but disappeared has been found on the surface of the Red Planet, almost intact.
 
 
-### Source:
+### Sources:
 
 1. [TNN via ''Times of India](http://timesofindia.indiatimes.com/home/science/Robot-found-on-Mars-after-decade-lost-in-space/articleshow/45918102.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/45918124.cms)

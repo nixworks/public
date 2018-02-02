@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/31/turkish-protestors-are-removed-from-gezi-park-in-taksim-square-istanbul-in-a-violent-crackdown-by-police-after-days-of-anti-government-unr.html)  [JSON](/news/2013/05/31/turkish-protestors-are-removed-from-gezi-park-in-taksim-square-istanbul-in-a-violent-crackdown-by-police-after-days-of-anti-government-unr.json)  [XML](/news/2013/05/31/turkish-protestors-are-removed-from-gezi-park-in-taksim-square-istanbul-in-a-violent-crackdown-by-police-after-days-of-anti-government-unr.xml)  
+
 ### [2013-05-31](/news/2013/05/31/index.md)
 
+##### protestors
 # Turkish protestors are removed from Gezi Park in Taksim Square, Istanbul, in a violent crackdown by police after days of anti-government unrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2013/05/31/uk-turkey-protests-idUKBRE94U0JA20130531/)
 

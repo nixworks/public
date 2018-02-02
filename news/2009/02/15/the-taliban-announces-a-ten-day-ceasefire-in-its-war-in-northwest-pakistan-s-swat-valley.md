@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/15/the-taliban-announces-a-ten-day-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.html)  [JSON](/news/2009/02/15/the-taliban-announces-a-ten-day-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.json)  [XML](/news/2009/02/15/the-taliban-announces-a-ten-day-ceasefire-in-its-war-in-northwest-pakistan-s-swat-valley.xml)  
+
 ### [2009-02-15](/news/2009/02/15/index.md)
 
+##### Taliban
 #  The Taliban announces a ten-day ceasefire in its war in northwest Pakistan's Swat Valley. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7891410.stm)
 

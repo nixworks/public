@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2012/12/6/the-death-toll-from-typhoon-bopha-rises-to-at-least-418-with-383-still-missing-in-southern-philippines-at-least-179-000-others-have-been-l.html)  [JSON](/news/2012/12/6/the-death-toll-from-typhoon-bopha-rises-to-at-least-418-with-383-still-missing-in-southern-philippines-at-least-179-000-others-have-been-l.json)  [XML](/news/2012/12/6/the-death-toll-from-typhoon-bopha-rises-to-at-least-418-with-383-still-missing-in-southern-philippines-at-least-179-000-others-have-been-l.xml)  
+
 ### [2012-12-6](/news/2012/12/6/index.md)
 
+##### Typhoon Bopha
 # The death toll from Typhoon Bopha rises to at least 418, with 383 still missing in southern Philippines. At least 179,000 others have been left homeless after the passage of the storm. 
 
 Rescue workers searched on Thursday through thick mud, broken homes and fallen trees for survivors, two days after a typhoon swept the southern Philippines killing nearly 400 people and leaving at least as many missing.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/12/20121263317775941.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-20622343)
 3. [NDRRMC](http://www.ndrrmc.gov.ph/attachments/article/835/NDRRMC%20UPDATE%20-%20Sitrep%20NO.%2015%20re%20Effects%20of%20TY%20PABLO.pdf)
-4. [Reuters](http://www.reuters.com/article/2012/12/06/us-philippines-typhoon-idUSBRE8B306420121206)
-4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121206&t=2&i=681811076&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B50Z6Z00)
+4. [Reuters](https://www.reuters.com/article/2012/12/06/us-philippines-typhoon-idUSBRE8B306420121206)
+4. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121206&t=2&i=681811076&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8B50Z6Z00)
 
 ### Related:
 

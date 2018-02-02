@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/12/thousands-of-fatah-supporters-gather-in-gaza-to-mark-the-third-anniversary-of-yasser-arafat-s-death-hamas-security-forces-kill-seven-peopl.html)  [JSON](/news/2007/11/12/thousands-of-fatah-supporters-gather-in-gaza-to-mark-the-third-anniversary-of-yasser-arafat-s-death-hamas-security-forces-kill-seven-peopl.json)  [XML](/news/2007/11/12/thousands-of-fatah-supporters-gather-in-gaza-to-mark-the-third-anniversary-of-yasser-arafat-s-death-hamas-security-forces-kill-seven-peopl.xml)  
+
 ### [2007-11-12](/news/2007/11/12/index.md)
 
+##### Fatah
 #  Thousands of Fatah supporters gather in Gaza to mark the third anniversary of Yasser Arafat's death. Hamas security forces kill seven people and wound several. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7090572.stm)
 

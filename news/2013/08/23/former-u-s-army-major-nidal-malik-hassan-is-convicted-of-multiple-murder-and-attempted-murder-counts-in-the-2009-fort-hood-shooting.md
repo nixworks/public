@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/23/former-u-s-army-major-nidal-malik-hassan-is-convicted-of-multiple-murder-and-attempted-murder-counts-in-the-2009-fort-hood-shooting.html)  [JSON](/news/2013/08/23/former-u-s-army-major-nidal-malik-hassan-is-convicted-of-multiple-murder-and-attempted-murder-counts-in-the-2009-fort-hood-shooting.json)  [XML](/news/2013/08/23/former-u-s-army-major-nidal-malik-hassan-is-convicted-of-multiple-murder-and-attempted-murder-counts-in-the-2009-fort-hood-shooting.xml)  
+
 ### [2013-08-23](/news/2013/08/23/index.md)
 
+##### Nidal Malik Hassan
 # Former U.S. Army Major Nidal Malik Hassan is convicted of multiple murder and attempted murder counts in the 2009 Fort Hood shooting. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/08/23/justice/nidal-hasan-court-martial-friday/index.html)
 

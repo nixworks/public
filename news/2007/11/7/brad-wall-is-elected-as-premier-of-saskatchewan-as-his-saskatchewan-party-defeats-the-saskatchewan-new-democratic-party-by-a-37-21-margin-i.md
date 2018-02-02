@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/7/brad-wall-is-elected-as-premier-of-saskatchewan-as-his-saskatchewan-party-defeats-the-saskatchewan-new-democratic-party-by-a-37-21-margin-i.html)  [JSON](/news/2007/11/7/brad-wall-is-elected-as-premier-of-saskatchewan-as-his-saskatchewan-party-defeats-the-saskatchewan-new-democratic-party-by-a-37-21-margin-i.json)  [XML](/news/2007/11/7/brad-wall-is-elected-as-premier-of-saskatchewan-as-his-saskatchewan-party-defeats-the-saskatchewan-new-democratic-party-by-a-37-21-margin-i.xml)  
+
 ### [2007-11-7](/news/2007/11/7/index.md)
 
+##### Brad Wall
 #  Brad Wall is elected as Premier of Saskatchewan as his Saskatchewan Party defeats the Saskatchewan New Democratic Party by a 37-21 margin in the 26th Saskatchewan general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/saskvotes2007/story/2007/11/07/sask-main-election.html)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/04/11/former-u-s-senator-and-prospective-presidential-candidate-fred-thompson-announces-he-has-lymphoma.html)  [JSON](/news/2007/04/11/former-u-s-senator-and-prospective-presidential-candidate-fred-thompson-announces-he-has-lymphoma.json)  [XML](/news/2007/04/11/former-u-s-senator-and-prospective-presidential-candidate-fred-thompson-announces-he-has-lymphoma.xml)  
+
 ### [2007-04-11](/news/2007/04/11/index.md)
 
+##### United States Senate
 #  Former U.S. Senator and prospective presidential candidate Fred Thompson announces he has lymphoma. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=as3BnxT7VRrc&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=as3BnxT7VRrc&refer=home)
 
 ### Related:
 

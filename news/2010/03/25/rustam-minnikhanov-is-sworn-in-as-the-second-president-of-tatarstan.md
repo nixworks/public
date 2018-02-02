@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/25/rustam-minnikhanov-is-sworn-in-as-the-second-president-of-tatarstan.html)  [JSON](/news/2010/03/25/rustam-minnikhanov-is-sworn-in-as-the-second-president-of-tatarstan.json)  [XML](/news/2010/03/25/rustam-minnikhanov-is-sworn-in-as-the-second-president-of-tatarstan.xml)  
+
 ### [2010-03-25](/news/2010/03/25/index.md)
 
+##### Rustam Minnikhanov
 # Rustam Minnikhanov is sworn in as the second president of Tatarstan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe](http://www.rferl.org/content/Tatarstans_New_President_Sworn_In/1993656.html)
 

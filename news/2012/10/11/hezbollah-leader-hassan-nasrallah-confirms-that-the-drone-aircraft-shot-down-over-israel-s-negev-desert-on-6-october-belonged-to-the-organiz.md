@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/11/hezbollah-leader-hassan-nasrallah-confirms-that-the-drone-aircraft-shot-down-over-israel-s-negev-desert-on-6-october-belonged-to-the-organiz.html)  [JSON](/news/2012/10/11/hezbollah-leader-hassan-nasrallah-confirms-that-the-drone-aircraft-shot-down-over-israel-s-negev-desert-on-6-october-belonged-to-the-organiz.json)  [XML](/news/2012/10/11/hezbollah-leader-hassan-nasrallah-confirms-that-the-drone-aircraft-shot-down-over-israel-s-negev-desert-on-6-october-belonged-to-the-organiz.xml)  
+
 ### [2012-10-11](/news/2012/10/11/index.md)
 
+##### Hezbollah
 # Hezbollah leader Hassan Nasrallah confirms that the drone aircraft shot down over Israel's Negev Desert on 6 October belonged to the organization and was supplied by Iran. 
 
 Hezbollah leader Hassan Nasrallah says unmanned reconnaissance aircraft was designed in Iran and assembled in Lebanon.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/10/2012101118514612756.html)
 2. [Reuters](http://www.trust.org/alertnet/news/hezbollah-confirms-it-sent-drone-downed-over-israel/)

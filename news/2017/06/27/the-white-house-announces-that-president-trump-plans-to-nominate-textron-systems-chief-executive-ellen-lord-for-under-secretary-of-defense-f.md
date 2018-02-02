@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/27/the-white-house-announces-that-president-trump-
 
 ### [2017-06-27](/news/2017/06/27/index.md)
 
+##### Political appointments of Donald Trump
 # The White House announces that President Trump plans to nominate Textron Systems Chief Executive Ellen Lord for Under Secretary of Defense for Acquisition, Technology and Logistics. Textron Systems is a defense contractor. 
 
 

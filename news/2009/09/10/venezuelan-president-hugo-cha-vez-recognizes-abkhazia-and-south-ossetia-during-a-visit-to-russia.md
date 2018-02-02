@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/10/venezuelan-president-hugo-cha-vez-recognizes-abkhazia-and-south-ossetia-during-a-visit-to-russia.html)  [JSON](/news/2009/09/10/venezuelan-president-hugo-cha-vez-recognizes-abkhazia-and-south-ossetia-during-a-visit-to-russia.json)  [XML](/news/2009/09/10/venezuelan-president-hugo-cha-vez-recognizes-abkhazia-and-south-ossetia-during-a-visit-to-russia.xml)  
+
 ### [2009-09-10](/news/2009/09/10/index.md)
 
+##### Venezuela
 #  Venezuelan President Hugo Chavez recognizes Abkhazia and South Ossetia during a visit to Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [El Universal](http://english.eluniversal.com/2009/09/10/en_pol_esp_venezuela-recognizes_10A2723489.shtml)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE58924U20090910)

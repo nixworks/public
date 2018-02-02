@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/07/29/google-claims-that-its-chinese-internet-search-and-mobile-search-is-blocked.html)  [JSON](/news/2010/07/29/google-claims-that-its-chinese-internet-search-and-mobile-search-is-blocked.json)  [XML](/news/2010/07/29/google-claims-that-its-chinese-internet-search-and-mobile-search-is-blocked.xml)  
+
 ### [2010-07-29](/news/2010/07/29/index.md)
 
+##### Google
 # Google claims that its Chinese Internet search and mobile search is blocked. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSN298963020100729)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSN298963020100729)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

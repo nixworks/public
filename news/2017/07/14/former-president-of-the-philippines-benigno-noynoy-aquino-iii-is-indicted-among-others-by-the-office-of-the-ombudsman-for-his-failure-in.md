@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/14/former-president-of-the-philippines-benigno-noy
 
 ### [2017-07-14](/news/2017/07/14/index.md)
 
+##### President
 # Former President of the Philippines Benigno "Noynoy" Aquino III is indicted (among others) by the Office of the Ombudsman for his failure in handling the 2015 Mamasapano clash, which resulted in the deaths of 44 members of the Special Action Forces of the Philippine National Police. Aquino's legal team has vowed to appeal for a motion for reconsideration; as well as the group Volunteers Against Crime and Corruption (representing the victims' families), against what they call a "weak case" (citing Aquino's charges of "graft" & "usurpation of authority", instead of "reckless imprudence resulting in multiple homicide") 
 
 (UPDATED) Ombudsman Conchita Carpio Morales also orders usurpation of authority charges against the former chief executive, but dismisses charges of reckless imprudence resulting in multiple homicide

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/4/the-statue-of-liberty-opens-for-the-first-time-since-hurricane-sandy-caused-extensive-damage-to-liberty-island-in-new-york-harbor-in-late-oc.html)  [JSON](/news/2013/07/4/the-statue-of-liberty-opens-for-the-first-time-since-hurricane-sandy-caused-extensive-damage-to-liberty-island-in-new-york-harbor-in-late-oc.json)  [XML](/news/2013/07/4/the-statue-of-liberty-opens-for-the-first-time-since-hurricane-sandy-caused-extensive-damage-to-liberty-island-in-new-york-harbor-in-late-oc.xml)  
+
 ### [2013-07-4](/news/2013/07/4/index.md)
 
+##### Statue of Liberty
 # The Statue of Liberty opens for the first time since Hurricane Sandy caused extensive damage to Liberty Island in New York harbor in late October 2012. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Atlantic Wire](http://www.theatlanticwire.com/national/2013/07/statue-of-liberty-reopens/66828/)
 

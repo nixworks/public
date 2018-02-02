@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/10/5-palestinians-are-wounded-during-4-separate-israeli-air-raids-in-the-gaza-strip-in-response-to-the-fourth-rocket-attack-on-southern-israel.html)  [JSON](/news/2010/09/10/5-palestinians-are-wounded-during-4-separate-israeli-air-raids-in-the-gaza-strip-in-response-to-the-fourth-rocket-attack-on-southern-israel.json)  [XML](/news/2010/09/10/5-palestinians-are-wounded-during-4-separate-israeli-air-raids-in-the-gaza-strip-in-response-to-the-fourth-rocket-attack-on-southern-israel.xml)  
+
 ### [2010-09-10](/news/2010/09/10/index.md)
 
+##### Palestinians
 # 5 Palestinians are wounded during 4 separate Israeli air raids in the Gaza Strip in response to the fourth rocket attack on southern Israel from Gaza in the last two days. 
 
 No injuries reported in attack on western Negev; latest rocket follows IAF strike on terror-related targets in Gaza in response to previous attacks.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11264320)
 2. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=187670)

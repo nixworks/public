@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/28/a-blast-in-meena-bazar-peshawar-pakistan-kills-at-least-95-people-while-110-are-injured.html)  [JSON](/news/2009/10/28/a-blast-in-meena-bazar-peshawar-pakistan-kills-at-least-95-people-while-110-are-injured.json)  [XML](/news/2009/10/28/a-blast-in-meena-bazar-peshawar-pakistan-kills-at-least-95-people-while-110-are-injured.xml)  
+
 ### [2009-10-28](/news/2009/10/28/index.md)
 
+##### blast
 #  A blast in Meena Bazar, Peshawar, Pakistan, kills at least 95 people while 110 are injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Geo TV](http://www.geo.tv/10-28-2009/51907.htm)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6893479.ece)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/28/a-group-of-german-lawyers-files-a-criminal-comp
 
 ### [2016-11-28](/news/2016/11/28/index.md)
 
+##### Berlin
 #  A group of German lawyers files a criminal complaint in Berlin against Syrian President Bashar al-Assad for alleged war crimes committed by his forces and foreign allies during the Syrian Civil War. 
 
 Group of German lawyers seek criminal prosecution of Syrian regime head for war crimes during military offensive in Aleppo - Anadolu Agency

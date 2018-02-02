@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/5/two-candidates-from-rigoberta-menchao-s-encuentro-por-guatemala-party-are-shot-dead-as-part-of-a-wave-of-campaign-related-violence-that-has.html)  [JSON](/news/2007/09/5/two-candidates-from-rigoberta-menchao-s-encuentro-por-guatemala-party-are-shot-dead-as-part-of-a-wave-of-campaign-related-violence-that-has.json)  [XML](/news/2007/09/5/two-candidates-from-rigoberta-menchao-s-encuentro-por-guatemala-party-are-shot-dead-as-part-of-a-wave-of-campaign-related-violence-that-has.xml)  
+
 ### [2007-09-5](/news/2007/09/5/index.md)
 
+##### Rigoberta Menchu
 #  Two candidates from Rigoberta Menchu's Encuentro por Guatemala Party are shot dead as part of a wave of campaign-related violence that has claimed 50 lives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6899940,00.html)
 

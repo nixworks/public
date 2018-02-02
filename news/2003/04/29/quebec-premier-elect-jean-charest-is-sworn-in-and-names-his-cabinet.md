@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/29/quebec-premier-elect-jean-charest-is-sworn-in-and-names-his-cabinet.html)  [JSON](/news/2003/04/29/quebec-premier-elect-jean-charest-is-sworn-in-and-names-his-cabinet.json)  [XML](/news/2003/04/29/quebec-premier-elect-jean-charest-is-sworn-in-and-names-his-cabinet.xml)  
+
 ### [2003-04-29](/news/2003/04/29/index.md)
 
+##### Quebec
 #  Quebec premier-elect Jean Charest is sworn in and names his cabinet.
 
 

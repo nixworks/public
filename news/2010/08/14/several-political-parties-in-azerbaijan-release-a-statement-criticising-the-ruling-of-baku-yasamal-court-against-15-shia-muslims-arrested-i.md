@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/several-political-parties-in-azerbaijan-release-a-statement-criticising-the-ruling-of-baku-yasamal-court-against-15-shia-muslims-arrested-i.html)  [JSON](/news/2010/08/14/several-political-parties-in-azerbaijan-release-a-statement-criticising-the-ruling-of-baku-yasamal-court-against-15-shia-muslims-arrested-i.json)  [XML](/news/2010/08/14/several-political-parties-in-azerbaijan-release-a-statement-criticising-the-ruling-of-baku-yasamal-court-against-15-shia-muslims-arrested-i.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### Azerbaijan
 # Several political parties in Azerbaijan release a statement criticising the ruling of Baku Yasamal Court against 15 Shia Muslims, arrested in February while practising their religion in Baku. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=138711&sectionid=351020406)
 

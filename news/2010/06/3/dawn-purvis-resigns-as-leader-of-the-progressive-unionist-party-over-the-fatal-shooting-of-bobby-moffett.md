@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/3/dawn-purvis-resigns-as-leader-of-the-progressive-unionist-party-over-the-fatal-shooting-of-bobby-moffett.html)  [JSON](/news/2010/06/3/dawn-purvis-resigns-as-leader-of-the-progressive-unionist-party-over-the-fatal-shooting-of-bobby-moffett.json)  [XML](/news/2010/06/3/dawn-purvis-resigns-as-leader-of-the-progressive-unionist-party-over-the-fatal-shooting-of-bobby-moffett.xml)  
+
 ### [2010-06-3](/news/2010/06/3/index.md)
 
+##### Dawn Purvis
 # Dawn Purvis resigns as leader of the Progressive Unionist Party over the fatal shooting of Bobby Moffett. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/northern_ireland/10222663.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

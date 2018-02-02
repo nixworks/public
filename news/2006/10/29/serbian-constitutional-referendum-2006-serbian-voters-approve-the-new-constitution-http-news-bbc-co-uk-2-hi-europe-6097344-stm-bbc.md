@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/10/29/serbian-constitutional-referendum-2006-serbian-voters-approve-the-new-constitution-http-news-bbc-co-uk-2-hi-europe-6097344-stm-bbc.html)  [JSON](/news/2006/10/29/serbian-constitutional-referendum-2006-serbian-voters-approve-the-new-constitution-http-news-bbc-co-uk-2-hi-europe-6097344-stm-bbc.json)  [XML](/news/2006/10/29/serbian-constitutional-referendum-2006-serbian-voters-approve-the-new-constitution-http-news-bbc-co-uk-2-hi-europe-6097344-stm-bbc.xml)  
+
 ### [2006-10-29](/news/2006/10/29/index.md)
 
+##### Serbian constitutional referendum, 2006
 #  Serbian constitutional referendum, 2006: Serbian voters approve the new constitution. ([http:--news.bbc.co.uk-2-hi-europe-6097344.stm BBC])
 
 

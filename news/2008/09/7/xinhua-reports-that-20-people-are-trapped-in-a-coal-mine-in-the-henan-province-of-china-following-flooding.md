@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/7/xinhua-reports-that-20-people-are-trapped-in-a-coal-mine-in-the-henan-province-of-china-following-flooding.html)  [JSON](/news/2008/09/7/xinhua-reports-that-20-people-are-trapped-in-a-coal-mine-in-the-henan-province-of-china-following-flooding.json)  [XML](/news/2008/09/7/xinhua-reports-that-20-people-are-trapped-in-a-coal-mine-in-the-henan-province-of-china-following-flooding.xml)  
+
 ### [2008-09-7](/news/2008/09/7/index.md)
 
+##### Xinhua
 #  Xinhua reports that 20 people are trapped in a coal mine in the Henan province of China following flooding. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Charlotte Observer](http://www.charlotteobserver.com/world/story/177892.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/11/voters-in-turkmenistan-vote-in-their-first-presidential-election-to-select-a-successor-to-former-president-of-turkmenistan-saparmurat-niyaz.html)  [JSON](/news/2007/02/11/voters-in-turkmenistan-vote-in-their-first-presidential-election-to-select-a-successor-to-former-president-of-turkmenistan-saparmurat-niyaz.json)  [XML](/news/2007/02/11/voters-in-turkmenistan-vote-in-their-first-presidential-election-to-select-a-successor-to-former-president-of-turkmenistan-saparmurat-niyaz.xml)  
+
 ### [2007-02-11](/news/2007/02/11/index.md)
 
+##### Turkmenistan
 #  Voters in Turkmenistan vote in their first presidential election to select a successor to former President of Turkmenistan Saparmurat Niyazov. Interim leader Gurbanguly Berdimuhamedow is widely expected to win the election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6350929.stm)
 

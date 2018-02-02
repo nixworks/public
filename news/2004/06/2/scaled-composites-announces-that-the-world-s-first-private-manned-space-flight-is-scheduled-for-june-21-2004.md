@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/2/scaled-composites-announces-that-the-world-s-first-private-manned-space-flight-is-scheduled-for-june-21-2004.html)  [JSON](/news/2004/06/2/scaled-composites-announces-that-the-world-s-first-private-manned-space-flight-is-scheduled-for-june-21-2004.json)  [XML](/news/2004/06/2/scaled-composites-announces-that-the-world-s-first-private-manned-space-flight-is-scheduled-for-june-21-2004.xml)  
+
 ### [2004-06-2](/news/2004/06/2/index.md)
 
+##### Scaled Composites
 #  Scaled Composites announces that the world's first private manned space flight is scheduled for June 21, 2004. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/3770919.stm)
 

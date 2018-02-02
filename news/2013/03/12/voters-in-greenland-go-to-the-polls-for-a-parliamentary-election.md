@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/12/voters-in-greenland-go-to-the-polls-for-a-parliamentary-election.html)  [JSON](/news/2013/03/12/voters-in-greenland-go-to-the-polls-for-a-parliamentary-election.json)  [XML](/news/2013/03/12/voters-in-greenland-go-to-the-polls-for-a-parliamentary-election.xml)  
+
 ### [2013-03-12](/news/2013/03/12/index.md)
 
+##### Greenland
 # Voters in Greenland go to the polls for a parliamentary election. 
 
 Voters go to the polls in Greenland on Tuesday, in an election dominated by the question of how the territory should exploit its mineral riches.
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/minerals-dominate-greenland-election/story-e6frfkui-1226595542111)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-21750668)

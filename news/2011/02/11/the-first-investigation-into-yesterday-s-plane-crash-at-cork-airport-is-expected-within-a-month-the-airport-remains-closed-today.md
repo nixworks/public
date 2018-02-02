@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/11/the-first-investigation-into-yesterday-s-plane-crash-at-cork-airport-is-expected-within-a-month-the-airport-remains-closed-today.html)  [JSON](/news/2011/02/11/the-first-investigation-into-yesterday-s-plane-crash-at-cork-airport-is-expected-within-a-month-the-airport-remains-closed-today.json)  [XML](/news/2011/02/11/the-first-investigation-into-yesterday-s-plane-crash-at-cork-airport-is-expected-within-a-month-the-airport-remains-closed-today.xml)  
+
 ### [2011-02-11](/news/2011/02/11/index.md)
 
+##### yesterday's plane crash
 # The first investigation into yesterday's plane crash at Cork Airport is expected within a month; the airport remains closed today. 
 
 Cork Airport is expected to resume full service tomorrow, following the clearance of the wreckage of the plane which crashed yesterday morning, killing six people.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2011/0211/cork.html)
 1. [Cover Image](https://img.rasset.ie/00043709-1600.jpg)

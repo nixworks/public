@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/12/the-natural-development-and-reform-commission-an-economic-planning-agency-of-the-people-s-republic-of-china-announces-an-increase-in-the-p.html)  [JSON](/news/2014/08/12/the-natural-development-and-reform-commission-an-economic-planning-agency-of-the-people-s-republic-of-china-announces-an-increase-in-the-p.json)  [XML](/news/2014/08/12/the-natural-development-and-reform-commission-an-economic-planning-agency-of-the-people-s-republic-of-china-announces-an-increase-in-the-p.xml)  
+
 ### [2014-08-12](/news/2014/08/12/index.md)
 
+##### China
 # The Natural Development and Reform Commission, an economic planning agency of the People's Republic of China, announces an increase in the price of natural gas sold to non-residential buyers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dow Jones](http://www.nasdaq.com/article/china-to-raise-nonresidential-naturalgas-prices-20140812-00626)
 1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)

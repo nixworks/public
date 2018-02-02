@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/25/in-his-speech-to-the-united-nations-general-assembly-iranian-president-mahmoud-ahmadinejad-reiterates-his-assertion-that-his-county-s-nucl.html)  [JSON](/news/2007/09/25/in-his-speech-to-the-united-nations-general-assembly-iranian-president-mahmoud-ahmadinejad-reiterates-his-assertion-that-his-county-s-nucl.json)  [XML](/news/2007/09/25/in-his-speech-to-the-united-nations-general-assembly-iranian-president-mahmoud-ahmadinejad-reiterates-his-assertion-that-his-county-s-nucl.xml)  
+
 ### [2007-09-25](/news/2007/09/25/index.md)
 
+##### United Nations General Assembly
 #  In his speech to the United Nations General Assembly, Iranian President Mahmoud Ahmadinejad reiterates his assertion that his county's nuclear program has been "peaceful and transparent" and criticizes the "illegal" UN sanctions imposed by "arrogant" members of the Security Council. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7011938.stm)
 2. [CNN](http://www.cnn.com/2007/US/09/25/un.iran/index.html)

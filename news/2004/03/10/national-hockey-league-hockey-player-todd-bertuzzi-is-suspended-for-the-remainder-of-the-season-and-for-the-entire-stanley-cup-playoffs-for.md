@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/03/10/national-hockey-league-hockey-player-todd-bertuzzi-is-suspended-for-the-remainder-of-the-season-and-for-the-entire-stanley-cup-playoffs-for.html)  [JSON](/news/2004/03/10/national-hockey-league-hockey-player-todd-bertuzzi-is-suspended-for-the-remainder-of-the-season-and-for-the-entire-stanley-cup-playoffs-for.json)  [XML](/news/2004/03/10/national-hockey-league-hockey-player-todd-bertuzzi-is-suspended-for-the-remainder-of-the-season-and-for-the-entire-stanley-cup-playoffs-for.xml)  
+
 ### [2004-03-10](/news/2004/03/10/index.md)
 
+##### National Hockey League
 #  National Hockey League hockey player Todd Bertuzzi is suspended for the remainder of the season and for the entire Stanley Cup playoffs for his hit on Steve Moore, which left him with two broken vertebrae in his neck. The Vancouver police department is also looking into the incident. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [TSN](http://www.tsn.ca/nhl/news_story.asp?id=75890)
-1. [Cover Image](http://www.tsn.ca/img/tsn/logos/tsn-logo.png)
+1. [TSN](https://www.tsn.ca/nhl/news_story.asp?id=75890)
 
 ### Related:
 
@@ -16,4 +19,4 @@
 2. [ The Carolina Hurricanes win ice hockey's Stanley Cup in game seven of a best of seven series for the first time defeating the Edmonton Oilers 3-1. ](/news/2006/06/19/the-carolina-hurricanes-win-ice-hockey-s-stanley-cup-in-game-seven-of-a-best-of-seven-series-for-the-first-time-defeating-the-edmonton-oile.md) _Context: Stanley Cup, ice hockey_
 3. [ The 2003 Heritage Classic is played in Edmonton, Alberta, Canada, the first outdoor ice hockey games in the history of the National Hockey League. Over 50,000 spectators watch the two games.](/news/2003/11/22/the-2003-heritage-classic-is-played-in-edmonton-alberta-canada-the-first-outdoor-ice-hockey-games-in-the-history-of-the-national-hockey.md) _Context: National Hockey League, ice hockey_
 4. [ North American ice hockey: The New Jersey Devils win the Stanley Cup, beating the Mighty Ducks of Anaheim, 3-0, in Game Seven of their championship series.](/news/2003/06/9/north-american-ice-hockey-the-new-jersey-devils-win-the-stanley-cup-beating-the-mighty-ducks-of-anaheim-3-0-in-game-seven-of-their-cham.md) _Context: Stanley Cup, ice hockey_
-5. [American stuntwoman Joi 'SJ' Harris is killed in a motorcycle crash in Vancouver, British Columbia, Canada, while filming for "Deadpool 2". ](/news/2017/08/14/american-stuntwoman-joi-sj-harris-is-killed-in-a-motorcycle-crash-in-vancouver-british-columbia-canada-while-filming-for-deadpool-2.md) _Context: Vancouver_
+5. [Canadian Foreign Minister Chrystia Freeland and United States Secretary of State Rex Tillerson announce the formation of an international group that seeks to increase pressure on North Korea regarding their nuclear program. The group, comprised of 18 countries, will meet for the first time on January 16, 2018 in Vancouver. ](/news/2017/12/19/canadian-foreign-minister-chrystia-freeland-and-united-states-secretary-of-state-rex-tillerson-announce-the-formation-of-an-international-gr.md) _Context: Vancouver_

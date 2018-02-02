@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/25/voters-in-senegal-go-to-the-polls-for-a-runoff-in-the-presidential-election-with-reports-indicating-that-challenger-macky-sall-has-defeated.html)  [JSON](/news/2012/03/25/voters-in-senegal-go-to-the-polls-for-a-runoff-in-the-presidential-election-with-reports-indicating-that-challenger-macky-sall-has-defeated.json)  [XML](/news/2012/03/25/voters-in-senegal-go-to-the-polls-for-a-runoff-in-the-presidential-election-with-reports-indicating-that-challenger-macky-sall-has-defeated.xml)  
+
 ### [2012-03-25](/news/2012/03/25/index.md)
 
+##### Senegal
 # Voters in Senegal go to the polls for a runoff in the presidential election with reports indicating that challenger Macky Sall has defeated incumbent Abdoulaye Wade. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/03/25/world/africa/senegal-elections/)
 2. [Voice of America](http://www.voanews.com/english/news/Vote-Counting-Underway-in-Senegal-Presidential-Runoff-Election-144159515.html)

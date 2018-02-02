@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/13/a-bomb-in-a-baghdad-sunni-mosque-kills-at-least-30-people.html)  [JSON](/news/2013/09/13/a-bomb-in-a-baghdad-sunni-mosque-kills-at-least-30-people.json)  [XML](/news/2013/09/13/a-bomb-in-a-baghdad-sunni-mosque-kills-at-least-30-people.xml)  
+
 ### [2013-09-13](/news/2013/09/13/index.md)
 
+##### Baghdad
 # A bomb in a Baghdad Sunni mosque kills at least 30 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via NZ Stuff](http://www.stuff.co.nz/world/middle-east/9165807/Bomb-at-mosque-kills-at-least-30-people)
 1. [Cover Image](https://static2.stuff.co.nz/1379103543/808/9165808.jpg)

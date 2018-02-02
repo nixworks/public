@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/17/representatives-of-the-european-parliament-and-
 
 ### [2017-05-17](/news/2017/05/17/index.md)
 
+##### Ukraine-European Union relations
 # Representatives of the European Parliament and European Council sign a document formally granting Ukrainians visa-free travel to the European Union. The visa-free regime is due to enter into force on June 11. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/12/at-least-19-people-die-in-a-bus-crash-on-the-indonesian-island-of-java.html)  [JSON](/news/2011/09/12/at-least-19-people-die-in-a-bus-crash-on-the-indonesian-island-of-java.json)  [XML](/news/2011/09/12/at-least-19-people-die-in-a-bus-crash-on-the-indonesian-island-of-java.xml)  
+
 ### [2011-09-12](/news/2011/09/12/index.md)
 
+##### Indonesia
 # At least 19 people die in a bus crash on the Indonesian island of Java. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2011/09/12/19-dead-mojokerto-bus-collision.html)
 

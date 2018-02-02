@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/20/another-plume-threatens-to-cause-further-disruptions.html)  [JSON](/news/2010/04/20/another-plume-threatens-to-cause-further-disruptions.json)  [XML](/news/2010/04/20/another-plume-threatens-to-cause-further-disruptions.xml)  
+
 ### [2010-04-20](/news/2010/04/20/index.md)
 
+##### 
 # Another plume threatens to cause further disruptions. 
 
 More planes began taking off from airports across Europe on Tuesday after days of enforced idleness, but a new cloud of volcanic ash moving toward the continent has thrown into doubt any resumption...
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/GMA/Eco/iceland-volcano-ash-airports-open-flights-eruption-clouds/story?id=10421864)
 2. [BBC](http://news.bbc.co.uk/1/hi/uk/8633597.stm)

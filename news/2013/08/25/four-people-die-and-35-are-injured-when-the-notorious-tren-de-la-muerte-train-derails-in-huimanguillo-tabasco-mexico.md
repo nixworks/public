@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/25/four-people-die-and-35-are-injured-when-the-notorious-tren-de-la-muerte-train-derails-in-huimanguillo-tabasco-mexico.html)  [JSON](/news/2013/08/25/four-people-die-and-35-are-injured-when-the-notorious-tren-de-la-muerte-train-derails-in-huimanguillo-tabasco-mexico.json)  [XML](/news/2013/08/25/four-people-die-and-35-are-injured-when-the-notorious-tren-de-la-muerte-train-derails-in-huimanguillo-tabasco-mexico.xml)  
+
 ### [2013-08-25](/news/2013/08/25/index.md)
 
+##### ''tren de la muerte''
 # Four people die and 35 are injured when the notorious "tren de la muerte" train derails in Huimanguillo, Tabasco, Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [El Universal](http://www.eluniversal.com.mx/estados/2013/tabaco-bestia-tabasco-945085.html)
 2. [Russia Today](http://rt.com/news/mexico-train-migrants-derail-970)

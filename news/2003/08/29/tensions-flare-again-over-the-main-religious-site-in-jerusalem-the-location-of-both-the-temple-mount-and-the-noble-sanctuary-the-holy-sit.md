@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/29/tensions-flare-again-over-the-main-religious-site-in-jerusalem-the-location-of-both-the-temple-mount-and-the-noble-sanctuary-the-holy-sit.html)  [JSON](/news/2003/08/29/tensions-flare-again-over-the-main-religious-site-in-jerusalem-the-location-of-both-the-temple-mount-and-the-noble-sanctuary-the-holy-sit.json)  [XML](/news/2003/08/29/tensions-flare-again-over-the-main-religious-site-in-jerusalem-the-location-of-both-the-temple-mount-and-the-noble-sanctuary-the-holy-sit.xml)  
+
 ### [2003-08-29](/news/2003/08/29/index.md)
 
+##### Jerusalem
 #  Tensions flare again over the main religious site in Jerusalem, the location of both the Temple Mount and the Noble Sanctuary. The holy site had been closed to non-Muslims since September 2000. Israeli officials say they are maintaining calm over a site sacred to three religions. But Muslim authorities say the Israeli government is risking a backlash here and throughout the Muslim world.
 
 

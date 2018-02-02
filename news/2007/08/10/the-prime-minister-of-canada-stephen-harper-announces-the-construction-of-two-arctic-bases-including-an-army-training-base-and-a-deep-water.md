@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/10/the-prime-minister-of-canada-stephen-harper-announces-the-construction-of-two-arctic-bases-including-an-army-training-base-and-a-deep-water.html)  [JSON](/news/2007/08/10/the-prime-minister-of-canada-stephen-harper-announces-the-construction-of-two-arctic-bases-including-an-army-training-base-and-a-deep-water.json)  [XML](/news/2007/08/10/the-prime-minister-of-canada-stephen-harper-announces-the-construction-of-two-arctic-bases-including-an-army-training-base-and-a-deep-water.xml)  
+
 ### [2007-08-10](/news/2007/08/10/index.md)
 
+##### Prime Minister of Canada
 #  The Prime Minister of Canada Stephen Harper announces the construction of two Arctic bases including an army training base and a deep water port in response to recent Russian claims to the area. 
 
 Canadian Prime Minister Stephen Harper has announced the construction of two military facilities in the Arctic in a move to assert his country&#039;s sovereignty over the contested region.
 
 
-### Source:
+### Sources:
 
 1. [BBC via the ABC](http://www.abc.net.au/news/stories/2007/08/11/2002493.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

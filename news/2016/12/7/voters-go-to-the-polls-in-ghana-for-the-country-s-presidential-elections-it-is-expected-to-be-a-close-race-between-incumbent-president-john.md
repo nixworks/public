@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/7/voters-go-to-the-polls-in-ghana-for-the-country-
 
 ### [2016-12-7](/news/2016/12/7/index.md)
 
+##### Ghanaian general election, 2016
 # Voters go to the polls in Ghana for the country's presidential elections. It is expected to be a close race between incumbent president John Dramani Mahama of the ruling National Democratic Congress party and his rival Nana Akufo-Addo and his New Patriotic Party. 
 
 The race is tight with President John Mahama and his rival Nana Akufo Addo running neck and neck in opinion polls.

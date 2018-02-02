@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/19/prime-minister-of-tunisia-hamadi-jebali-resigns-after-failing-to-reach-an-agreement-on-forming-a-new-technocratic-government.html)  [JSON](/news/2013/02/19/prime-minister-of-tunisia-hamadi-jebali-resigns-after-failing-to-reach-an-agreement-on-forming-a-new-technocratic-government.json)  [XML](/news/2013/02/19/prime-minister-of-tunisia-hamadi-jebali-resigns-after-failing-to-reach-an-agreement-on-forming-a-new-technocratic-government.xml)  
+
 ### [2013-02-19](/news/2013/02/19/index.md)
 
+##### Prime Minister of Tunisia
 # Prime Minister of Tunisia Hamadi Jebali resigns after failing to reach an agreement on forming a new technocratic government. 
 
 Tunisian Prime Minister Hamadi Jebali resigns after failing to form a new government following a political assassination.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21508498)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/65969000/jpg/_65969624_017274624.jpg)

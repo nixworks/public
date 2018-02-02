@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/1/at-least-47-people-are-killed-and-more-than-90-wounded-in-two-separate-bomb-blasts-in-pakistan-one-in-a-shiite-suburb-of-quetta-and-the-oth.html)  [JSON](/news/2013/07/1/at-least-47-people-are-killed-and-more-than-90-wounded-in-two-separate-bomb-blasts-in-pakistan-one-in-a-shiite-suburb-of-quetta-and-the-oth.json)  [XML](/news/2013/07/1/at-least-47-people-are-killed-and-more-than-90-wounded-in-two-separate-bomb-blasts-in-pakistan-one-in-a-shiite-suburb-of-quetta-and-the-oth.xml)  
+
 ### [2013-07-1](/news/2013/07/1/index.md)
 
+##### Pakistan
 # At least 47 people are killed and more than 90 wounded in two separate bomb blasts in Pakistan, one in a Shiite suburb of Quetta and the other in an attack on a paramilitary convoy in the northwest of the country; a Sunni extremist group reportedly claims responsibility. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/07/01/world/asia/pakistan-violence/index.html?hpt=wo_c2)
 

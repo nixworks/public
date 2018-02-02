@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/15/two-police-officers-and-several-gunmen-are-kill
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
+##### Caracas helicopter incident
 # Two police officers and several gunmen are killed near Caracas in an operation to capture Oscar Perez, the rogue pilot responsible for the Caracas helicopter incident on June 27, 2017, according to the Venezuelan government. Five people have also been arrested. 
 
 The ex-policeman is accused of leading an armed rebellion involving a helicopter and grenades.

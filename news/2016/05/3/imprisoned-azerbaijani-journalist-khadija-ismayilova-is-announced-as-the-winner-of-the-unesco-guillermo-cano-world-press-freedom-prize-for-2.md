@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/3/imprisoned-azerbaijani-journalist-khadija-ismayi
 
 ### [2016-05-3](/news/2016/05/3/index.md)
 
+##### Azerbaijan
 # Imprisoned Azerbaijani journalist Khadija Ismayilova is announced as the winner of the UNESCO-Guillermo Cano World Press Freedom Prize for 2016 for "her outstanding contribution to press freedom in difficult circumstances." 
 
 

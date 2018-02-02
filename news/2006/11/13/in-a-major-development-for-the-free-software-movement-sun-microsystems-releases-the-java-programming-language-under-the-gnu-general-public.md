@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/13/in-a-major-development-for-the-free-software-movement-sun-microsystems-releases-the-java-programming-language-under-the-gnu-general-public.html)  [JSON](/news/2006/11/13/in-a-major-development-for-the-free-software-movement-sun-microsystems-releases-the-java-programming-language-under-the-gnu-general-public.json)  [XML](/news/2006/11/13/in-a-major-development-for-the-free-software-movement-sun-microsystems-releases-the-java-programming-language-under-the-gnu-general-public.xml)  
+
 ### [2006-11-13](/news/2006/11/13/index.md)
 
+##### Free Software
 #  In a major development for the Free Software movement, Sun Microsystems releases the Java programming language under the GNU General Public Licence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/technology/6144748.stm)
 2. [ZDNET](http://blogs.zdnet.com/BTL/index.php?p=3937)

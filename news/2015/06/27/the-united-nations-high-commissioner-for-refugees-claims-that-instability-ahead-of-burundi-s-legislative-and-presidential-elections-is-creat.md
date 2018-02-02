@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/27/the-united-nations-high-commissioner-for-refugees-claims-that-instability-ahead-of-burundi-s-legislative-and-presidential-elections-is-creat.html)  [JSON](/news/2015/06/27/the-united-nations-high-commissioner-for-refugees-claims-that-instability-ahead-of-burundi-s-legislative-and-presidential-elections-is-creat.json)  [XML](/news/2015/06/27/the-united-nations-high-commissioner-for-refugees-claims-that-instability-ahead-of-burundi-s-legislative-and-presidential-elections-is-creat.xml)  
+
 ### [2015-06-27](/news/2015/06/27/index.md)
 
+##### United Nations High Commissioner for Refugees
 # The United Nations High Commissioner for Refugees claims that instability ahead of Burundi's Legislative and presidential elections is creating a refugee crisis. 
 
 Political strife in Burundi forces hundreds to flee daily to neighbouring nations days ahead of polls.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://www.aljazeera.com/news/2015/06/unhcr-burundi-crisis-propels-refugee-exodus-150626180155576.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/6/26/fb0a6ff0b27342649f4e9fc06d1adb40_18.jpg)

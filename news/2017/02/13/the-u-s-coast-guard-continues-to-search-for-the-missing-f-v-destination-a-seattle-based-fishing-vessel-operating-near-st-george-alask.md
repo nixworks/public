@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/13/the-u-s-coast-guard-continues-to-search-for-the
 
 ### [2017-02-13](/news/2017/02/13/index.md)
 
+##### United States Coast Guard
 #  The U.S. Coast Guard continues to search for the missing "F-V Destination", a Seattle-based fishing vessel operating near St. George, Alaska, with a six-member crew. The Coast Guard has discovered a debris field, but no sign of the crew. 
 
 A team of U.S. Coast Guard crews and volunteers are looking for a missing fishing vessel that sent a locator signal out Saturday morning.

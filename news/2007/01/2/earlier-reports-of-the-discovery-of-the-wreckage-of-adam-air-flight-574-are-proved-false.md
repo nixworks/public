@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/2/earlier-reports-of-the-discovery-of-the-wreckage-of-adam-air-flight-574-are-proved-false.html)  [JSON](/news/2007/01/2/earlier-reports-of-the-discovery-of-the-wreckage-of-adam-air-flight-574-are-proved-false.json)  [XML](/news/2007/01/2/earlier-reports-of-the-discovery-of-the-wreckage-of-adam-air-flight-574-are-proved-false.xml)  
+
 ### [2007-01-2](/news/2007/01/2/index.md)
 
+##### Adam Air
 #  Earlier reports of the discovery of the wreckage of Adam Air Flight 574 are proved false. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [CNA](http://www.channelnewsasia.com/stories/afp_asiapacific/view/250293/1/.html)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2007-01-02T215051Z_01_JAK149439_RTRUKOC_0_US-INDONESIA-PLANE.xml&WTmodLoc=Home-C2-TopNews-newsOne-10)

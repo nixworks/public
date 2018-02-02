@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/2/the-president-of-zambia-levy-mwanawasa-is-flown-to-paris-for-treatment-after-suffering-a-stroke-at-the-african-union-summit-in-sharm-el-she.html)  [JSON](/news/2008/07/2/the-president-of-zambia-levy-mwanawasa-is-flown-to-paris-for-treatment-after-suffering-a-stroke-at-the-african-union-summit-in-sharm-el-she.json)  [XML](/news/2008/07/2/the-president-of-zambia-levy-mwanawasa-is-flown-to-paris-for-treatment-after-suffering-a-stroke-at-the-african-union-summit-in-sharm-el-she.xml)  
+
 ### [2008-07-2](/news/2008/07/2/index.md)
 
+##### President
 #  The President of Zambia Levy Mwanawasa is flown to Paris for treatment after suffering a stroke at the African Union summit in Sharm el-Sheikh, Egypt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7484888.stm)
 

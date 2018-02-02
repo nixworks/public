@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/3/mount-soputan-a-volcano-in-indonesia-s-north-sulawesi-province-erupts.html)  [JSON](/news/2011/07/3/mount-soputan-a-volcano-in-indonesia-s-north-sulawesi-province-erupts.json)  [XML](/news/2011/07/3/mount-soputan-a-volcano-in-indonesia-s-north-sulawesi-province-erupts.xml)  
+
 ### [2011-07-3](/news/2011/07/3/index.md)
 
+##### Mount Soputan
 # Mount Soputan, a volcano in Indonesia's North Sulawesi province, erupts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20110703-indonesian-volcano-erupts)
 

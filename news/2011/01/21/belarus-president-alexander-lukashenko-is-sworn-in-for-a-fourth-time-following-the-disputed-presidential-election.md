@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/21/belarus-president-alexander-lukashenko-is-sworn-in-for-a-fourth-time-following-the-disputed-presidential-election.html)  [JSON](/news/2011/01/21/belarus-president-alexander-lukashenko-is-sworn-in-for-a-fourth-time-following-the-disputed-presidential-election.json)  [XML](/news/2011/01/21/belarus-president-alexander-lukashenko-is-sworn-in-for-a-fourth-time-following-the-disputed-presidential-election.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### Belarus
 # Belarus president Alexander Lukashenko is sworn in for a fourth time following the disputed presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/world/20110121/162238593.html)
 2. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE70K3LX20110121?sp=true)

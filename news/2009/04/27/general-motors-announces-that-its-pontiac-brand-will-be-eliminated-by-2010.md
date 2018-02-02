@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/27/general-motors-announces-that-its-pontiac-brand-will-be-eliminated-by-2010.html)  [JSON](/news/2009/04/27/general-motors-announces-that-its-pontiac-brand-will-be-eliminated-by-2010.json)  [XML](/news/2009/04/27/general-motors-announces-that-its-pontiac-brand-will-be-eliminated-by-2010.xml)  
+
 ### [2009-04-27](/news/2009/04/27/index.md)
 
+##### General Motors
 #  General Motors announces that its Pontiac brand will be eliminated by 2010. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jRROQxrU3YC0QnDQpk9h_BC6pZ5wD97QPBP81)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/6/in-rabat-morocco-some-30-000-protesters-march-to-call-for-release-of-prisoners-of-war-held-by-polisario-in-algeria.html)  [JSON](/news/2005/03/6/in-rabat-morocco-some-30-000-protesters-march-to-call-for-release-of-prisoners-of-war-held-by-polisario-in-algeria.json)  [XML](/news/2005/03/6/in-rabat-morocco-some-30-000-protesters-march-to-call-for-release-of-prisoners-of-war-held-by-polisario-in-algeria.xml)  
+
 ### [2005-03-6](/news/2005/03/6/index.md)
 
+##### Rabat
 #  In Rabat, Morocco, some 30.000 protesters march to call for release of prisoners of war held by Polisario in Algeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Morocco Times](http://www.moroccotimes.com/paper/article.asp?idr=2&id=4499)
 2. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:422bf4b8:3a732d409d842f4?type=topNews&localeKey=en_ZA&storyID=7821197)

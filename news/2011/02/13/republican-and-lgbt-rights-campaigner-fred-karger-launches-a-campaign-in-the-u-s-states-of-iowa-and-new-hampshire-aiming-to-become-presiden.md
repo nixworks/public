@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/13/republican-and-lgbt-rights-campaigner-fred-karger-launches-a-campaign-in-the-u-s-states-of-iowa-and-new-hampshire-aiming-to-become-presiden.html)  [JSON](/news/2011/02/13/republican-and-lgbt-rights-campaigner-fred-karger-launches-a-campaign-in-the-u-s-states-of-iowa-and-new-hampshire-aiming-to-become-presiden.json)  [XML](/news/2011/02/13/republican-and-lgbt-rights-campaigner-fred-karger-launches-a-campaign-in-the-u-s-states-of-iowa-and-new-hampshire-aiming-to-become-presiden.xml)  
+
 ### [2011-02-13](/news/2011/02/13/index.md)
 
+##### Republican
 # Republican and LGBT rights campaigner Fred Karger launches a campaign in the U.S. states of Iowa and New Hampshire aiming to become President of the United States. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Observer](http://www.guardian.co.uk/world/2011/feb/13/republicans-gay-rights-presidential-race)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/28/the-leaders-of-benin-cape-verde-and-sierra-leone-arrive-in-ca-te-d-ivoire-to-urge-laurent-gbagbo-to-resign-as-president.html)  [JSON](/news/2010/12/28/the-leaders-of-benin-cape-verde-and-sierra-leone-arrive-in-ca-te-d-ivoire-to-urge-laurent-gbagbo-to-resign-as-president.json)  [XML](/news/2010/12/28/the-leaders-of-benin-cape-verde-and-sierra-leone-arrive-in-ca-te-d-ivoire-to-urge-laurent-gbagbo-to-resign-as-president.xml)  
+
 ### [2010-12-28](/news/2010/12/28/index.md)
 
+##### Beninese
 # The leaders of Benin, Cape Verde and Sierra Leone arrive in Cote d'Ivoire to urge Laurent Gbagbo to resign as President. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/africa/12/28/ivory.coast.conflict/)
 2. [euronews](http://www.euronews.net/2010/12/28/african-leaders-plead-with-gbagbo-to-quit/)

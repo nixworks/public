@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/12/nine-palestinians-have-been-killed-during-an-israeli-raid-in-the-gaza-strip-reports-say.html)  [JSON](/news/2006/10/12/nine-palestinians-have-been-killed-during-an-israeli-raid-in-the-gaza-strip-reports-say.json)  [XML](/news/2006/10/12/nine-palestinians-have-been-killed-during-an-israeli-raid-in-the-gaza-strip-reports-say.xml)  
+
 ### [2006-10-12](/news/2006/10/12/index.md)
 
+##### Palestinians
 #  Nine Palestinians have been killed during an Israeli raid in the Gaza Strip, reports say. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6043042.stm)
 

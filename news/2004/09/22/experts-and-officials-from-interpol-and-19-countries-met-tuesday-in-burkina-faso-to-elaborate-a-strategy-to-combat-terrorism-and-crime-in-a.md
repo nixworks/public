@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/22/experts-and-officials-from-interpol-and-19-countries-met-tuesday-in-burkina-faso-to-elaborate-a-strategy-to-combat-terrorism-and-crime-in-a.html)  [JSON](/news/2004/09/22/experts-and-officials-from-interpol-and-19-countries-met-tuesday-in-burkina-faso-to-elaborate-a-strategy-to-combat-terrorism-and-crime-in-a.json)  [XML](/news/2004/09/22/experts-and-officials-from-interpol-and-19-countries-met-tuesday-in-burkina-faso-to-elaborate-a-strategy-to-combat-terrorism-and-crime-in-a.xml)  
+
 ### [2004-09-22](/news/2004/09/22/index.md)
 
+##### Interpol
 #  Experts and officials from Interpol and 19 countries met Tuesday in Burkina Faso to elaborate a strategy to combat terrorism and crime in Africa. Countries participating included France, the United States, Britain, Morocco, Algeria, Egypt, Turkey, Senegal, Burkina Faso, Chad, Sudan, Cte d'Ivoire, Lesotho, Zimbabwe, Cambodia, Benin, Burundi, Togo and Mauritania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Independent Online](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=qw1095848462393B236)
 

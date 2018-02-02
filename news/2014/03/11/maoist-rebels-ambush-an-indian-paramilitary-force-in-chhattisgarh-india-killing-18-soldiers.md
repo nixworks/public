@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/11/maoist-rebels-ambush-an-indian-paramilitary-force-in-chhattisgarh-india-killing-18-soldiers.html)  [JSON](/news/2014/03/11/maoist-rebels-ambush-an-indian-paramilitary-force-in-chhattisgarh-india-killing-18-soldiers.json)  [XML](/news/2014/03/11/maoist-rebels-ambush-an-indian-paramilitary-force-in-chhattisgarh-india-killing-18-soldiers.xml)  
+
 ### [2014-03-11](/news/2014/03/11/index.md)
 
+##### Maoist
 # Maoist rebels ambush an Indian paramilitary force in Chhattisgarh, India, killing 18 soldiers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''TIME](http://time.com/19572/police-rebels-kill-18-soldiers-in-central-india/)
 

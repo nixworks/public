@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/13/president-of-pakistan-asif-ali-zardari-officially-cancels-independence-day-as-a-direct-consequence-of-the-ongoing-floods-that-have-devastate.html)  [JSON](/news/2010/08/13/president-of-pakistan-asif-ali-zardari-officially-cancels-independence-day-as-a-direct-consequence-of-the-ongoing-floods-that-have-devastate.json)  [XML](/news/2010/08/13/president-of-pakistan-asif-ali-zardari-officially-cancels-independence-day-as-a-direct-consequence-of-the-ongoing-floods-that-have-devastate.xml)  
+
 ### [2010-08-13](/news/2010/08/13/index.md)
 
+##### president
 # President of Pakistan Asif Ali Zardari officially cancels Independence Day as a direct consequence of the ongoing floods that have devastated the country. 
 
 President cancels independence day festivities as country braces for more floods.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/2010813183228537830.html)
 2. [Associated Press of Pakistan](http://www.app.com.pk/en_/index.php?option=com_content&task=view&id=113058&Itemid=1)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/10/31/a-second-round-of-storms-and-strong-winds-moves-east-across-texas-in-the-american-southwest-with-three-radar-confirmed-tornadoes-damaging-h.html)  [JSON](/news/2015/10/31/a-second-round-of-storms-and-strong-winds-moves-east-across-texas-in-the-american-southwest-with-three-radar-confirmed-tornadoes-damaging-h.json)  [XML](/news/2015/10/31/a-second-round-of-storms-and-strong-winds-moves-east-across-texas-in-the-american-southwest-with-three-radar-confirmed-tornadoes-damaging-h.xml)  
+
 ### [2015-10-31](/news/2015/10/31/index.md)
 
+##### Texas
 # A second round of storms and strong winds moves east across Texas in the American Southwest, with three radar-confirmed tornadoes damaging homes and causing injuries in the Houston area that got up to eight inches of rain since Friday night. Six people have been killed. 
 
-Flash flood advisories remain in place until Sunday
 
 
-### Source:
+
+### Sources:
 
 1. [AP update](http://bigstory.ap.org/article/84324a168fb348abb4a3d2699fe66878/search-2-missing-central-texas-floods-continue)
-2. [AP via USA Today](http://www.usatoday.com/story/news/nation/2015/10/31/storms-possible-tornadoes-lash-texas/74937852/)
+2. [AP via USA Today](https://www.usatoday.com/story/news/nation/2015/10/31/storms-possible-tornadoes-lash-texas/74937852/)
 2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

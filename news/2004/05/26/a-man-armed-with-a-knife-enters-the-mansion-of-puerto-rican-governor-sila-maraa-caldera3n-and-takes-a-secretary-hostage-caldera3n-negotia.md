@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/26/a-man-armed-with-a-knife-enters-the-mansion-of-puerto-rican-governor-sila-maraa-caldera3n-and-takes-a-secretary-hostage-caldera3n-negotia.html)  [JSON](/news/2004/05/26/a-man-armed-with-a-knife-enters-the-mansion-of-puerto-rican-governor-sila-maraa-caldera3n-and-takes-a-secretary-hostage-caldera3n-negotia.json)  [XML](/news/2004/05/26/a-man-armed-with-a-knife-enters-the-mansion-of-puerto-rican-governor-sila-maraa-caldera3n-and-takes-a-secretary-hostage-caldera3n-negotia.xml)  
+
 ### [2004-05-26](/news/2004/05/26/index.md)
 
+##### Puerto Rico
 #  A man armed with a knife enters the mansion of Puerto Rican governor Sila Maria Calderon and takes a secretary hostage. Calderon negotiates with him for the hostage's release, and he is arrested soon after. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/WORLD/americas/05/27/puertorico.hostage.ap/index.html)
 

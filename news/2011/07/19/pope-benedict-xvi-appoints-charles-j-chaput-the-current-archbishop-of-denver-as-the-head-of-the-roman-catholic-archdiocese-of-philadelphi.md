@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/19/pope-benedict-xvi-appoints-charles-j-chaput-the-current-archbishop-of-denver-as-the-head-of-the-roman-catholic-archdiocese-of-philadelphi.html)  [JSON](/news/2011/07/19/pope-benedict-xvi-appoints-charles-j-chaput-the-current-archbishop-of-denver-as-the-head-of-the-roman-catholic-archdiocese-of-philadelphi.json)  [XML](/news/2011/07/19/pope-benedict-xvi-appoints-charles-j-chaput-the-current-archbishop-of-denver-as-the-head-of-the-roman-catholic-archdiocese-of-philadelphi.xml)  
+
 ### [2011-07-19](/news/2011/07/19/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI appoints Charles J. Chaput, the current Archbishop of Denver, as the head of the Roman Catholic Archdiocese of Philadelphia replacing Cardinal Justin Rigali. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iNDlC92H3OcwC4-atWGvzJhCWwvQ?docId=c35fcf46bd4b4aedb334e182d992bd21)
 

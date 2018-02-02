@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/16/the-g8-countries-plus-brazil-china-india-mexico-and-south-africa-approve-the-washington-declaration-proposing-a-global-carbon-emiss.html)  [JSON](/news/2007/02/16/the-g8-countries-plus-brazil-china-india-mexico-and-south-africa-approve-the-washington-declaration-proposing-a-global-carbon-emiss.json)  [XML](/news/2007/02/16/the-g8-countries-plus-brazil-china-india-mexico-and-south-africa-approve-the-washington-declaration-proposing-a-global-carbon-emiss.xml)  
+
 ### [2007-02-16](/news/2007/02/16/index.md)
 
+##### Brazil
 #  The G8 countries, plus Brazil, China, India, Mexico and South Africa, approve the 'Washington Declaration,' proposing a global Carbon emissions trading system to replace the Kyoto Protocol by 2009. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/6364663.stm)
 

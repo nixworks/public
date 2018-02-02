@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/28/three-new-species-of-animals-are-discovered-a-leaf-tailed-gecko-a-golden-coloured-skink-and-a-boulder-dwelling-frog-in-the-cape-york-pen.html)  [JSON](/news/2013/10/28/three-new-species-of-animals-are-discovered-a-leaf-tailed-gecko-a-golden-coloured-skink-and-a-boulder-dwelling-frog-in-the-cape-york-pen.json)  [XML](/news/2013/10/28/three-new-species-of-animals-are-discovered-a-leaf-tailed-gecko-a-golden-coloured-skink-and-a-boulder-dwelling-frog-in-the-cape-york-pen.xml)  
+
 ### [2013-10-28](/news/2013/10/28/index.md)
 
+##### gecko
 # Three new species of animals are discovered (a leaf-tailed gecko, a golden-coloured skink, and a boulder-dwelling frog) in the Cape York Peninsula of the Australian state of Queensland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [news.com.au](http://www.news.com.au/technology/science/new-creatures-found-in-cape-yorks-lost-world/story-fnjwkt0b-1226748419115)
 1. [Cover Image](http://api.news.com.au/content/1.0/newscomau/images/1226748415339?format=jpg)

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/11/17/a-prominent-human-rights-campaigner-for-the-western-sahara-region-aminatou-haidar-who-is-on-hunger-strike-at-an-airport-in-the-canary-isl.html)  [JSON](/news/2009/11/17/a-prominent-human-rights-campaigner-for-the-western-sahara-region-aminatou-haidar-who-is-on-hunger-strike-at-an-airport-in-the-canary-isl.json)  [XML](/news/2009/11/17/a-prominent-human-rights-campaigner-for-the-western-sahara-region-aminatou-haidar-who-is-on-hunger-strike-at-an-airport-in-the-canary-isl.xml)  
+
 ### [2009-11-17](/news/2009/11/17/index.md)
 
+##### human rights
 #  A prominent human rights campaigner for the Western Sahara region, Aminatou Haidar, who is on hunger strike at an airport in the Canary Islands, is to appear in a Spanish court on charges of public disorder. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jJhAPeuTsvyDZm6zdYMf85x6oLiw)
-2. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLG495932)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/latestCrisis/idUSLG495932)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/03/24/several-governments-in-the-asia-pacific-region-including-australia-hong-kong-and-singapore-ban-the-import-of-food-from-areas-near-the-fukus.html)  [JSON](/news/2011/03/24/several-governments-in-the-asia-pacific-region-including-australia-hong-kong-and-singapore-ban-the-import-of-food-from-areas-near-the-fukus.json)  [XML](/news/2011/03/24/several-governments-in-the-asia-pacific-region-including-australia-hong-kong-and-singapore-ban-the-import-of-food-from-areas-near-the-fukus.xml)  
+
 ### [2011-03-24](/news/2011/03/24/index.md)
 
+##### Pacific
 # Several governments in the Asia-Pacific region including Australia, Hong Kong and Singapore ban the import of food from areas near the Fukushima I Nuclear Power Plant following the recent incidents. 
 
 Singapore reports finding low levels of radioactivity in vegetables from Japan as more countries ban food imports.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1118568/1/.html)
 2. [BBC](http://www.bbc.co.uk/news/business-12834153)
 3. [Kyodo](http://english.kyodonews.jp/news/2011/03/80666.html)
 4. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-japan-quake-20110324,0,2277742.story)
-5. [NY Times](http://www.nytimes.com/2011/03/25/world/asia/25japan.html?_r=1&hp)
-6. [Yahoo News](http://news.yahoo.com/s/ap/20110324/ap_on_re_as/as_japan_earthquake_toll)
+5. [NY Times](https://www.nytimes.com/2011/03/25/world/asia/25japan.html?_r=1&hp)
+6. [Yahoo News](https://news.yahoo.com/s/ap/20110324/ap_on_re_as/as_japan_earthquake_toll)
 6. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:

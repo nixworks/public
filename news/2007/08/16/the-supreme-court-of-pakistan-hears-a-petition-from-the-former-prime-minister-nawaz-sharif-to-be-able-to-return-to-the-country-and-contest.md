@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/16/the-supreme-court-of-pakistan-hears-a-petition-from-the-former-prime-minister-nawaz-sharif-to-be-able-to-return-to-the-country-and-contest.html)  [JSON](/news/2007/08/16/the-supreme-court-of-pakistan-hears-a-petition-from-the-former-prime-minister-nawaz-sharif-to-be-able-to-return-to-the-country-and-contest.json)  [XML](/news/2007/08/16/the-supreme-court-of-pakistan-hears-a-petition-from-the-former-prime-minister-nawaz-sharif-to-be-able-to-return-to-the-country-and-contest.xml)  
+
 ### [2007-08-16](/news/2007/08/16/index.md)
 
+##### Supreme Court
 #  The Supreme Court of Pakistan hears a petition from the former Prime Minister Nawaz Sharif to be able to return to the country and contest elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6948967.stm)
 

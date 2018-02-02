@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/10/the-prime-minister-of-madagascar-albert-camille-vital-resigns-together-with-his-government-as-a-part-of-a-peace-process-proposed-by-the-sout.html)  [JSON](/news/2011/03/10/the-prime-minister-of-madagascar-albert-camille-vital-resigns-together-with-his-government-as-a-part-of-a-peace-process-proposed-by-the-sout.json)  [XML](/news/2011/03/10/the-prime-minister-of-madagascar-albert-camille-vital-resigns-together-with-his-government-as-a-part-of-a-peace-process-proposed-by-the-sout.xml)  
+
 ### [2011-03-10](/news/2011/03/10/index.md)
 
+##### Prime Minister of Madagascar
 # The Prime Minister of Madagascar Albert Camille Vital resigns together with his Government as a part of a peace process proposed by the Southern African Development Community to end a two year political crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7290EP20110310)
 

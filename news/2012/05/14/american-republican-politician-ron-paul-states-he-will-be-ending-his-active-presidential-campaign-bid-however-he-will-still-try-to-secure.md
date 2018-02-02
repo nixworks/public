@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/14/american-republican-politician-ron-paul-states-he-will-be-ending-his-active-presidential-campaign-bid-however-he-will-still-try-to-secure.html)  [JSON](/news/2012/05/14/american-republican-politician-ron-paul-states-he-will-be-ending-his-active-presidential-campaign-bid-however-he-will-still-try-to-secure.json)  [XML](/news/2012/05/14/american-republican-politician-ron-paul-states-he-will-be-ending-his-active-presidential-campaign-bid-however-he-will-still-try-to-secure.xml)  
+
 ### [2012-05-14](/news/2012/05/14/index.md)
 
+##### Republican
 # American Republican politician Ron Paul states he will be ending his active presidential campaign bid. However, he will still try to secure delegates before the Republican National Convention in August. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://politicalticker.blogs.cnn.com/2012/05/14/breaking-ron-paul-to-end-active-campaigning/?hpt=hp_t2)
 

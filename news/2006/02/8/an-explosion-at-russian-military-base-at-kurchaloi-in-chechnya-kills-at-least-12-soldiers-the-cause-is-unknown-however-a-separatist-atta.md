@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/8/an-explosion-at-russian-military-base-at-kurchaloi-in-chechnya-kills-at-least-12-soldiers-the-cause-is-unknown-however-a-separatist-atta.html)  [JSON](/news/2006/02/8/an-explosion-at-russian-military-base-at-kurchaloi-in-chechnya-kills-at-least-12-soldiers-the-cause-is-unknown-however-a-separatist-atta.json)  [XML](/news/2006/02/8/an-explosion-at-russian-military-base-at-kurchaloi-in-chechnya-kills-at-least-12-soldiers-the-cause-is-unknown-however-a-separatist-atta.xml)  
+
 ### [2006-02-8](/news/2006/02/8/index.md)
 
+##### Kurchaloi
 #  An explosion at Russian military base at Kurchaloi in Chechnya kills at least 12 soldiers. The cause is unknown; however, a separatist attack has been officially ruled out. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/37F32D8F-5EB3-4EA4-B7D8-C40D35454D6A.htm)
 2. [Mail and Guardian](http://www.mg.co.za/articlePage.aspx?articleid=263655&area=/breaking_news/breaking_news__international_news/)

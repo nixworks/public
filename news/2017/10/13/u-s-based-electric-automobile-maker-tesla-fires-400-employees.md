@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/13/u-s-based-electric-automobile-maker-tesla-fires
 
 ### [2017-10-13](/news/2017/10/13/index.md)
 
+##### Economy of the United States
 # U.S.-based electric automobile maker Tesla fires 400 employees. 
 
 Luxury electric vehicle maker Tesla Inc (TSLA.O) fired about 400 employees this week, including associates, team leaders and supervisors, a former employee told Reuters on Friday.

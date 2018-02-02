@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/18/a-fire-in-the-former-deutsche-bank-building-near-new-york-s-ground-zero-kills-two-firefighters.html)  [JSON](/news/2007/08/18/a-fire-in-the-former-deutsche-bank-building-near-new-york-s-ground-zero-kills-two-firefighters.json)  [XML](/news/2007/08/18/a-fire-in-the-former-deutsche-bank-building-near-new-york-s-ground-zero-kills-two-firefighters.xml)  
+
 ### [2007-08-18](/news/2007/08/18/index.md)
 
+##### Deutsche Bank Building
 #  A fire in the former Deutsche Bank Building near New York's Ground Zero kills two firefighters. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20070819/ap_on_re_us/deutsche_bank_fire;_ylt=AmZ4CrjjqESPebpB_CdMflSs0NUE)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20070819/ap_on_re_us/deutsche_bank_fire;_ylt=AmZ4CrjjqESPebpB_CdMflSs0NUE)
 
 ### Related:
 

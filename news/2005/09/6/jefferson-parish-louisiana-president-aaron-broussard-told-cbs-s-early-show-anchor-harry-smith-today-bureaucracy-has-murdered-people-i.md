@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2005/09/6/jefferson-parish-louisiana-president-aaron-broussard-told-cbs-s-early-show-anchor-harry-smith-today-bureaucracy-has-murdered-people-i.html)  [JSON](/news/2005/09/6/jefferson-parish-louisiana-president-aaron-broussard-told-cbs-s-early-show-anchor-harry-smith-today-bureaucracy-has-murdered-people-i.json)  [XML](/news/2005/09/6/jefferson-parish-louisiana-president-aaron-broussard-told-cbs-s-early-show-anchor-harry-smith-today-bureaucracy-has-murdered-people-i.xml)  
+
 ### [2005-09-6](/news/2005/09/6/index.md)
 
+##### Jefferson Parish
 #  Jefferson Parish, Louisiana President Aaron Broussard told CBS's " Early Show" anchor Harry Smith today: "Bureaucracy has murdered people in the Greater New Orleans area and bureaucracy needs to stand trial in Congress today. Take whatever idiot they have at the top and give me a better idiot." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/9A8844CD-9E3F-461E-9751-C8485E06FD43.htm)
 2. [EditorAndPublisher.com](http://www.editorandpublisher.com/eandp/news/article_display.jsp?vnu_content_id=1001054719)
 3. [News Busters](http://newsbusters.org/comment/reply/978)
+
+### Changes:
+
+1. [ Hurricane Katrina: Jefferson Parish, Louisiana President Aaron Broussard told CBS's '' Early Show'' anchor Harry Smith today: "Bureaucracy has murdered people in the Greater New Orleans area and bureaucracy needs to stand trial in Congress today. Take whatever idiot they have at the top and give me a better idiot." ](/news/2005/09/6/hurricane-katrina-p-jefferson-parish-louisiana-president-aaron-broussard-told-cbs-s-early-show-anchor-harry-smith-today-bureaucrac.md) _2017-08-25 03:16:46 (First version)_
+2. [ Hurricane Katrina:: Jefferson Parish, Louisiana President Aaron Broussard told CBS's " Early Show" anchor Harry Smith today: "Bureaucracy has murdered people in the Greater New Orleans area and bureaucracy needs to stand trial in Congress today. Take whatever idiot they have at the top and give me a better idiot." ](/news/2005/09/6/hurricane-katrina-jefferson-parish-louisiana-president-aaron-broussard-told-cbs-s-early-show-anchor-harry-smith-today-bureaucracy-h.md) _2017-08-27 03:16:47 (Update)_
+2. [ Jefferson Parish, Louisiana President Aaron Broussard told CBS's " Early Show" anchor Harry Smith today: "Bureaucracy has murdered people in the Greater New Orleans area and bureaucracy needs to stand trial in Congress today. Take whatever idiot they have at the top and give me a better idiot." ](/news/2005/09/6/jefferson-parish-louisiana-president-aaron-broussard-told-cbs-s-early-show-anchor-harry-smith-today-bureaucracy-has-murdered-people-i.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@
 3. [American pipeline operator Williams Partners has agreed to sell an olefins plant in Louisiana to Canadian chemical company Nova Chemicals for $2.1 billion. ](/news/2017/04/17/american-pipeline-operator-williams-partners-has-agreed-to-sell-an-olefins-plant-in-louisiana-to-canadian-chemical-company-nova-chemicals-fo.md) _Context: Louisiana_
 4. [Multiple tornadoes tear through New Orleans, Baton Rouge, and other parts of southeastern Louisiana, injuring at least 20 people; no deaths have been reported. The severe weather also delivers heavy rain and hail in Mississippi and Alabama. ](/news/2017/02/7/multiple-tornadoes-tear-through-new-orleans-baton-rouge-and-other-parts-of-southeastern-louisiana-injuring-at-least-20-people-no-deaths.md) _Context: Louisiana_
 5. [Severe storms, from the weather system that hit Southern California Friday, reach southwest Texas injuring several people and damaging at least 100 homes with one confirmed tornado in San Antonio. Heavy rains continue today with flash floods likely as the storm moves to eastern Texas and southern Louisiana. ](/news/2017/02/20/severe-storms-from-the-weather-system-that-hit-southern-california-friday-reach-southwest-texas-injuring-several-people-and-damaging-at-le.md) _Context: Louisiana_
-
-### Changes:
-
-1. [ Hurricane Katrina: Jefferson Parish, Louisiana President Aaron Broussard told CBS's '' Early Show'' anchor Harry Smith today: "Bureaucracy has murdered people in the Greater New Orleans area and bureaucracy needs to stand trial in Congress today. Take whatever idiot they have at the top and give me a better idiot." ](/news/2005/09/6/hurricane-katrina-p-jefferson-parish-louisiana-president-aaron-broussard-told-cbs-s-early-show-anchor-harry-smith-today-bureaucrac.md) _2017-08-25 03:16:46 (First version)_
-2. [ Hurricane Katrina:: Jefferson Parish, Louisiana President Aaron Broussard told CBS's " Early Show" anchor Harry Smith today: "Bureaucracy has murdered people in the Greater New Orleans area and bureaucracy needs to stand trial in Congress today. Take whatever idiot they have at the top and give me a better idiot." ](/news/2005/09/6/hurricane-katrina-jefferson-parish-louisiana-president-aaron-broussard-told-cbs-s-early-show-anchor-harry-smith-today-bureaucracy-h.md) _2017-08-27 03:16:47 (Update)_
-2. [ Jefferson Parish, Louisiana President Aaron Broussard told CBS's " Early Show" anchor Harry Smith today: "Bureaucracy has murdered people in the Greater New Orleans area and bureaucracy needs to stand trial in Congress today. Take whatever idiot they have at the top and give me a better idiot." ](/news/2005/09/6/jefferson-parish-louisiana-president-aaron-broussard-told-cbs-s-early-show-anchor-harry-smith-today-bureaucracy-has-murdered-people-i.md) _(Current version)_

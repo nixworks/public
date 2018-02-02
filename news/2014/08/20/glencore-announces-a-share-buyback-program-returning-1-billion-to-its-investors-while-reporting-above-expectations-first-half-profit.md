@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/08/20/glencore-announces-a-share-buyback-program-returning-1-billion-to-its-investors-while-reporting-above-expectations-first-half-profit.html)  [JSON](/news/2014/08/20/glencore-announces-a-share-buyback-program-returning-1-billion-to-its-investors-while-reporting-above-expectations-first-half-profit.json)  [XML](/news/2014/08/20/glencore-announces-a-share-buyback-program-returning-1-billion-to-its-investors-while-reporting-above-expectations-first-half-profit.xml)  
+
 ### [2014-08-20](/news/2014/08/20/index.md)
 
+##### Glencore
 # Glencore announces a share buyback program returning $1 billion to its investors, while reporting above-expectations first-half profit. 
 
 Commodities group Glencore (GLEN.L) became the first of the large miners to honor promises to return cash to shareholders, announcing a share buyback program of up to $1 billion as it reported forecast-beating first-half profit.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/08/20/us-glencore-results-idUSKBN0GK0GC20140820)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140820&t=2&i=965512789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7J06W)
+1. [Reuters](https://www.reuters.com/article/2014/08/20/us-glencore-results-idUSKBN0GK0GC20140820)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20140820&t=2&i=965512789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7J06W)
 
 ### Related:
 

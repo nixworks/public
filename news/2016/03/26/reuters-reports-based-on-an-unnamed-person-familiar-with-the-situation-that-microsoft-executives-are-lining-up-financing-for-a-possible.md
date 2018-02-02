@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2016/03/26/reuters-reports-based-on-an-unnamed-person-familiar-with-the-situation-that-microsoft-executives-are-lining-up-financing-for-a-possible.html)  [JSON](/news/2016/03/26/reuters-reports-based-on-an-unnamed-person-familiar-with-the-situation-that-microsoft-executives-are-lining-up-financing-for-a-possible.json)  [XML](/news/2016/03/26/reuters-reports-based-on-an-unnamed-person-familiar-with-the-situation-that-microsoft-executives-are-lining-up-financing-for-a-possible.xml)  
+
 ### [2016-03-26](/news/2016/03/26/index.md)
 
+##### Reuters
 # Reuters reports, based on an unnamed "person familiar with the situation," that Microsoft executives are lining up financing for a possible acquisition of troubled dotcom pioneer Yahoo. 
 
-Microsoft Corp (MSFT.O) executives are in early talks with potential Yahoo Inc (YHOO.O) investors about contributing to financing to buy the troubled Internet company, a person familiar with the situation said.
+Microsoft Corp (MSFT.O) executives are in early talks with potential Yahoo Inc YHOO.O investors about contributing to financing to buy the troubled Internet company, a person familiar with the situation said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-microsoft-yahoo-idUSKCN0WS067)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20160326&t=2&i=1127892521&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2P04V)
+1. [Reuters](https://www.reuters.com/article/us-microsoft-yahoo-idUSKCN0WS067)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20160326&t=2&i=1127892521&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2P04V)
 
 ### Related:
 
-1. [Bloomberg News reports Verizon Communications plans a bid for Yahoo Inc.'s Web business, including Yahoo Japan Corp., next week. Google, Time Inc., and private equity funds Bain and TPG are considering bidding for Yahoo's core business. AT&T Inc., Comcast, and Microsoft Corp. reportedly aren't interested. ](/news/2016/04/7/bloomberg-news-reports-verizon-communications-plans-a-bid-for-yahoo-inc-as-web-business-including-yahoo-japan-corp-next-week-google-t.md) _Context: Microsoft, Yahoo!_
-2. [The U.S. Justice Department and the Director of National Intelligence reach a preliminary joint agreement, likely resolving a lawsuit with the major American Internet provider companies (Google, Yahoo, Facebook, Microsoft, and LinkedIn), about the information the companies can release to customers regarding requests by the intelligence agencies for information. ](/news/2014/01/27/the-u-s-justice-department-and-the-director-of-national-intelligence-reach-a-preliminary-joint-agreement-likely-resolving-a-lawsuit-with-t.md) _Context: Microsoft, Yahoo!_
-3. [The Guardian obtains a copy of a document from April that reveals that the NSA is mining data using PRISM, spying on the e-mails and web activities of American citizens through direct access to Google, Apple, Microsoft, Facebook, YouTube, Skype, Yahoo, Paltalk and AOL. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/the-guardian-obtains-a-copy-of-a-document-from-april-that-reveals-that-the-nsa-is-mining-data-using-prism-spying-on-the-e-mails-and-web-act.md) _Context: Microsoft, Yahoo!_
-4. [ Microsoft withdraws its bid for Yahoo! after the two companies fail to reach agreement on a price. ](/news/2008/05/3/microsoft-withdraws-its-bid-for-yahoo-after-the-two-companies-fail-to-reach-agreement-on-a-price.md) _Context: Microsoft, Yahoo!_
-5. [AOL Time Warner announces that they have been issued a patent for instant messaging. AOL says that they have no plans to enforce the patent, but it could cause problems for the purveyors of other instant messaging systems, in particular Microsoft and Yahoo!.](/news/2002/12/19/aol-time-warner-announces-that-they-have-been-issued-a-patent-for-instant-messaging-aol-says-that-they-have-no-plans-to-enforce-the-patent.md) _Context: Microsoft, Yahoo!_
+1. [The U.S. Justice Department and the Director of National Intelligence reach a preliminary joint agreement, likely resolving a lawsuit with the major American Internet provider companies (Google, Yahoo, Facebook, Microsoft, and LinkedIn), about the information the companies can release to customers regarding requests by the intelligence agencies for information. ](/news/2014/01/27/the-u-s-justice-department-and-the-director-of-national-intelligence-reach-a-preliminary-joint-agreement-likely-resolving-a-lawsuit-with-t.md) _Context: Microsoft, Yahoo_
+2. [The Guardian obtains a copy of a document from April that reveals that the NSA is mining data using PRISM, spying on the e-mails and web activities of American citizens through direct access to Google, Apple, Microsoft, Facebook, YouTube, Skype, Yahoo, Paltalk and AOL. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/the-guardian-obtains-a-copy-of-a-document-from-april-that-reveals-that-the-nsa-is-mining-data-using-prism-spying-on-the-e-mails-and-web-act.md) _Context: Microsoft, Yahoo_
+3. [Senior General Min Aung Hlaing posts on Facebook that Myanmar Army troops and Rakhine State villagers killed 10 Rohingya Muslims whose bodies were found in a mass grave in Inn Din village. This is the first time Myanmar's military has officially acknowledged extrajudicial actions against the Rohingya. Fortify Rights chief executive officer Matthew Smith says the two Reuters journalists who have been jailed since December 12, 2017, were investigating the same mass grave referenced by Min Aung Hlaing. ](/news/2018/01/10/senior-general-min-aung-hlaing-posts-on-facebook-that-myanmar-army-troops-and-rakhine-state-villagers-killed-10-rohingya-muslims-whose-bodie.md) _Context: Reuters_
+4. [Two Reuters journalists are arrested in Myanmar for trying to illegally obtain official documents. The were reporting about the Rohingya Muslim community in Rakhine State. ](/news/2017/12/13/two-reuters-journalists-are-arrested-in-myanmar-for-trying-to-illegally-obtain-official-documents-the-were-reporting-about-the-rohingya-mus.md) _Context: Reuters_
+5. [Business leaders from various U.S. companies, including Facebook, Marriott International, JPMorgan Chase, and Microsoft, lobby to members of Congress to work on a permanent solution for DREAMers to stay legally in the country, many of whom are their employees. ](/news/2017/09/6/business-leaders-from-various-u-s-companies-including-facebook-marriott-international-jpmorgan-chase-and-microsoft-lobby-to-members-of.md) _Context: Microsoft_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/13/at-least-three-people-have-been-killed-in-bomb-blasts-that-hit-two-buses-in-the-village-of-bikfaya-near-beirut-lebanon.html)  [JSON](/news/2007/02/13/at-least-three-people-have-been-killed-in-bomb-blasts-that-hit-two-buses-in-the-village-of-bikfaya-near-beirut-lebanon.json)  [XML](/news/2007/02/13/at-least-three-people-have-been-killed-in-bomb-blasts-that-hit-two-buses-in-the-village-of-bikfaya-near-beirut-lebanon.xml)  
+
 ### [2007-02-13](/news/2007/02/13/index.md)
 
+##### Bikfaya
 #  At least three people have been killed in bomb blasts that hit two buses in the village of Bikfaya near Beirut, Lebanon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6356271.stm)
 2. [ITV](http://www.itv.com/news/world_580119705b95aaa8ab19a6e75740e653.html)

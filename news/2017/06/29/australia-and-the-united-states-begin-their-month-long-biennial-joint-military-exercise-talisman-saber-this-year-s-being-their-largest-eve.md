@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/29/australia-and-the-united-states-begin-their-mon
 
 ### [2017-06-29](/news/2017/06/29/index.md)
 
+##### Australia-United States relations
 # Australia and the United States begin their month-long biennial joint military exercise, Talisman Saber, this year's being their largest ever, involving 33,000 U.S. and Australian troops on board amphibious assault ships. 
 
 Australia and the United States began their biggest ever joint military exercises on Thursday, a show of force, largely at sea, aimed at sending a message both to allies and potential foes, including China.

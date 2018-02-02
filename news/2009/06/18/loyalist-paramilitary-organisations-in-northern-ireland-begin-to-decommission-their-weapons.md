@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/18/loyalist-paramilitary-organisations-in-northern-ireland-begin-to-decommission-their-weapons.html)  [JSON](/news/2009/06/18/loyalist-paramilitary-organisations-in-northern-ireland-begin-to-decommission-their-weapons.json)  [XML](/news/2009/06/18/loyalist-paramilitary-organisations-in-northern-ireland-begin-to-decommission-their-weapons.xml)  
+
 ### [2009-06-18](/news/2009/06/18/index.md)
 
+##### Ulster loyalism
 #  Loyalist paramilitary organisations in Northern Ireland begin to decommission their weapons. 
 
 The Taoiseach has welcomed reports that loyalist paramilitary organisations have begun to decommission their weapons.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8106907.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0618/decommission.html)

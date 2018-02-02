@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/21/milo-aukanovia-resigns-as-prime-minister-of-montenegro.html)  [JSON](/news/2010/12/21/milo-aukanovia-resigns-as-prime-minister-of-montenegro.json)  [XML](/news/2010/12/21/milo-aukanovia-resigns-as-prime-minister-of-montenegro.xml)  
+
 ### [2010-12-21](/news/2010/12/21/index.md)
 
+##### Milo Dukanovic
 # Milo Dukanovic resigns as Prime Minister of Montenegro. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC.com](http://www.bbc.co.uk/news/world-europe-12051667)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

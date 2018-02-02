@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/31/the-names-of-123-victims-of-the-tornado-that-hit-the-us-city-of-joplin-missouri-are-released.html)  [JSON](/news/2011/05/31/the-names-of-123-victims-of-the-tornado-that-hit-the-us-city-of-joplin-missouri-are-released.json)  [XML](/news/2011/05/31/the-names-of-123-victims-of-the-tornado-that-hit-the-us-city-of-joplin-missouri-are-released.xml)  
+
 ### [2011-05-31](/news/2011/05/31/index.md)
 
+##### 2011 Joplin tornado
 # The names of 123 victims of the tornado that hit the US city of Joplin, Missouri are released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KCTV](http://www.kctv5.com/news/28084885/detail.html)
 

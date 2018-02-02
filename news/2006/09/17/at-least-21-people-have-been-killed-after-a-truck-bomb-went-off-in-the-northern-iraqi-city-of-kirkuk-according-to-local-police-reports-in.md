@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/17/at-least-21-people-have-been-killed-after-a-truck-bomb-went-off-in-the-northern-iraqi-city-of-kirkuk-according-to-local-police-reports-in.html)  [JSON](/news/2006/09/17/at-least-21-people-have-been-killed-after-a-truck-bomb-went-off-in-the-northern-iraqi-city-of-kirkuk-according-to-local-police-reports-in.json)  [XML](/news/2006/09/17/at-least-21-people-have-been-killed-after-a-truck-bomb-went-off-in-the-northern-iraqi-city-of-kirkuk-according-to-local-police-reports-in.xml)  
+
 ### [2006-09-17](/news/2006/09/17/index.md)
 
+##### Iraq
 #  At least 21 people have been killed after a truck bomb went off in the northern Iraqi city of Kirkuk, according to local police. Reports indicate that the bomb exploded near the offices of the Patriotic Union of Kurdistan of Jalal Talabani, the President of Iraq. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory?id=1339148)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/5353394.stm)

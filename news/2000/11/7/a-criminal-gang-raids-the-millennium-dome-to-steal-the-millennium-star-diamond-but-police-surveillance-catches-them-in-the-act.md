@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/11/7/a-criminal-gang-raids-the-millennium-dome-to-steal-the-millennium-star-diamond-but-police-surveillance-catches-them-in-the-act.html)  [JSON](/news/2000/11/7/a-criminal-gang-raids-the-millennium-dome-to-steal-the-millennium-star-diamond-but-police-surveillance-catches-them-in-the-act.json)  [XML](/news/2000/11/7/a-criminal-gang-raids-the-millennium-dome-to-steal-the-millennium-star-diamond-but-police-surveillance-catches-them-in-the-act.xml)  
+
 ### [2000-11-7](/news/2000/11/7/index.md)
 
+##### Millennium Dome
 # A criminal gang raids the Millennium Dome to steal The Millennium Star diamond but police surveillance catches them in the act.
 
 

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2006/12/24/united-nations-secretary-general-kofi-annan-warns-of-troubling-developments-in-burundi-that-could-lead-to-violence.html)  [JSON](/news/2006/12/24/united-nations-secretary-general-kofi-annan-warns-of-troubling-developments-in-burundi-that-could-lead-to-violence.json)  [XML](/news/2006/12/24/united-nations-secretary-general-kofi-annan-warns-of-troubling-developments-in-burundi-that-could-lead-to-violence.xml)  
+
 ### [2006-12-24](/news/2006/12/24/index.md)
 
+##### United Nations Secretary General
 #  United Nations Secretary General Kofi Annan warns of "troubling developments" in Burundi that could lead to violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [allAfrica](http://allafrica.com/stories/200612230003.html)
 
 ### Related:
 
-1. [ U.N. Secretary-General Kofi Annan appoints former Mozambican President Joaquim Chissano as the new United Nations-envoy to negotiations between the Government of Uganda and the Lord's Resistance Army, a rebel paramilitary group. ](/news/2006/12/5/u-n-secretary-general-kofi-annan-appoints-former-mozambican-president-joaquim-chissano-as-the-new-united-nations-envoy-to-negotiations-bet.md) _Context: Kofi Annan, United Nations Secretary-General_
-2. [ United Nations Secretary-General Kofi Annan strongly criticizes the United States, in particular the Bush administration, claiming it has strayed from multilateralism and human rights, in his final speech. ](/news/2006/12/11/united-nations-secretary-general-kofi-annan-strongly-criticizes-the-united-states-in-particular-the-bush-administration-claiming-it-has-s.md) _Context: Kofi Annan, United Nations Secretary-General_
-3. [ Somali Civil War: UN Secretary-General Kofi Annan warns Somalia's neighbours to stay out, as UN experts paint an alarming picture of foreign and extremist intervention in a nation on the brink of all-out war that could engulf the Horn of Africa. ](/news/2006/11/19/somali-civil-war-un-secretary-general-kofi-annan-warns-somalia-s-neighbours-to-stay-out-as-un-experts-paint-an-alarming-picture-of-foreig.md) _Context: Kofi Annan, United Nations Secretary-General_
-4. [ South Korean Ban Ki-moon is nominated to succeed Kofi Annan as the United Nations Secretary-General in an affirmation vote by the Security Council. A confirmation vote by the General Assembly is expected within the next fortnight. ](/news/2006/10/9/south-korean-ban-ki-moon-is-nominated-to-succeed-kofi-annan-as-the-united-nations-secretary-general-in-an-affirmation-vote-by-the-security.md) _Context: Kofi Annan, United Nations Secretary-General_
-5. [ United Nations Secretary-General Kofi Annan condemns movement by Eritrea of 1,500 troops and 14 tanks into the UNMEE-monitored Temporary Security Zone with Ethiopia as a "major breach" of the ceasefire agreement that ended the Eritrean-Ethiopian War. ](/news/2006/10/16/united-nations-secretary-general-kofi-annan-condemns-movement-by-eritrea-of-1-500-troops-and-14-tanks-into-the-unmee-monitored-temporary-se.md) _Context: Kofi Annan, United Nations Secretary-General_
+1. [ United Nations Secretary General Kofi Annan dismisses senior official Joseph Stephanides for oil for food scandal ](/news/2005/06/2/united-nations-secretary-general-kofi-annan-dismisses-senior-official-joseph-stephanides-for-oil-for-food-scandal.md) _Context: Kofi Annan, United Nations Secretary General_
+2. [ United Nations Secretary General Kofi Annan announces a report that states that the AIDS epidemic is accelerating despite the major efforts to stop it. ](/news/2005/06/2/united-nations-secretary-general-kofi-annan-announces-a-report-that-states-that-the-aids-epidemic-is-accelerating-despite-the-major-efforts.md) _Context: Kofi Annan, United Nations Secretary General_
+3. [ The summit of the African Union begins in Nigeria, with 25 African heads of state and United Nations Secretary General Kofi Annan in attendance. ](/news/2005/01/31/the-summit-of-the-african-union-begins-in-nigeria-with-25-african-heads-of-state-and-united-nations-secretary-general-kofi-annan-in-attend.md) _Context: Kofi Annan, United Nations Secretary General_
+4. [ 70 Nobel Prize laureates have released a statement that supports United Nations Secretary General Kofi Annan in the face of US Republican calls for him to resign ](/news/2005/01/28/70-nobel-prize-laureates-have-released-a-statement-that-supports-united-nations-secretary-general-kofi-annan-in-the-face-of-us-republican-c.md) _Context: Kofi Annan, United Nations Secretary General_
+5. [ Greek and Turkish Cypriot leaders accept United Nations Secretary General Kofi Annan's plan for ending the partition of the island of Cyprus. The two sides will work under a tight timetable to agree by March 22 on reunification language that can be put to simultaneous islandwide referendums on April 21. Unless reunification is achieved, only the Greek Cypriot government will be entitled to enter the European Union on May 1.](/news/2004/02/13/greek-and-turkish-cypriot-leaders-accept-united-nations-secretary-general-kofi-annan-s-plan-for-ending-the-partition-of-the-island-of-cypru.md) _Context: Kofi Annan, United Nations Secretary General_

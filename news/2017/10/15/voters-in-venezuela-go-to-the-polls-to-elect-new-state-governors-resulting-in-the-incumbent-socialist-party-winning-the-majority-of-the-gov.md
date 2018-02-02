@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/15/voters-in-venezuela-go-to-the-polls-to-elect-ne
 
 ### [2017-10-15](/news/2017/10/15/index.md)
 
+##### Venezuelan regional elections, 2017
 # Voters in Venezuela go to the polls to elect new state governors, resulting in the incumbent socialist party winning the majority of the governorships, a result disputed by the opposition. 
 
 

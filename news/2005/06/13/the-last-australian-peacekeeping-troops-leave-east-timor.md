@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/13/the-last-australian-peacekeeping-troops-leave-east-timor.html)  [JSON](/news/2005/06/13/the-last-australian-peacekeeping-troops-leave-east-timor.json)  [XML](/news/2005/06/13/the-last-australian-peacekeeping-troops-leave-east-timor.xml)  
+
 ### [2005-06-13](/news/2005/06/13/index.md)
 
+##### Australia
 #  The last Australian peacekeeping troops leave East Timor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200506/s1390873.htm)
 2. [Reuters](http://www.alertnet.org/thenews/newsdesk/SYD210975.htm)

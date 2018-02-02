@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/23/the-venerable-rev-father-stanley-rother-a-pries
 
 ### [2017-09-23](/news/2017/09/23/index.md)
 
+##### Venerable
 # The Venerable Rev. Father Stanley Rother, a priest of the Roman Catholic Archdiocese of Oklahoma City (born in Okarche, Oklahoma), is beatified at the Cox Convention Center in Oklahoma City by Cardinal Angelo Amato, head of the sainthood Congregation in the Roman Curia and Pope Francis's delegate. Rother, who became a missionary, was assassinated in July 1981 in the poor rural village of Santiago Atitlan, Guatemala, and is the first Catholic martyr born a citizen of the United States. 
 
 The Latest on a beatification mass starts for 1st US martyr (all times local):

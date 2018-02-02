@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/21/pakistan-president-pervez-musharraf-says-u-s-deputy-secretary-of-state-richard-armitage-threatened-to-bomb-his-country-back-to-the-stone.html)  [JSON](/news/2006/09/21/pakistan-president-pervez-musharraf-says-u-s-deputy-secretary-of-state-richard-armitage-threatened-to-bomb-his-country-back-to-the-stone.json)  [XML](/news/2006/09/21/pakistan-president-pervez-musharraf-says-u-s-deputy-secretary-of-state-richard-armitage-threatened-to-bomb-his-country-back-to-the-stone.xml)  
+
 ### [2006-09-21](/news/2006/09/21/index.md)
 
+##### Pervez Musharraf
 #  Pakistan President Pervez Musharraf says U.S. Deputy Secretary of State Richard Armitage threatened to bomb his country "back to the Stone Age" after the 2001 September 11 attacks if he did not help the U.S.-led War on Terror. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV NEWS](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060921/Pakistan_Musharraf_060921/20060921?hub=TopStories)
 

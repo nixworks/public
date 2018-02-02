@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/14/mass-protests-in-south-korea-regarding-japan-s-claim-over-dokdo-crowds-in-seoul-burned-flags-in-front-of-the-japanese-embassy-while-the-s.html)  [JSON](/news/2008/07/14/mass-protests-in-south-korea-regarding-japan-s-claim-over-dokdo-crowds-in-seoul-burned-flags-in-front-of-the-japanese-embassy-while-the-s.json)  [XML](/news/2008/07/14/mass-protests-in-south-korea-regarding-japan-s-claim-over-dokdo-crowds-in-seoul-burned-flags-in-front-of-the-japanese-embassy-while-the-s.xml)  
+
 ### [2008-07-14](/news/2008/07/14/index.md)
 
+##### Liancourt Rocks
 #  Mass protests in South Korea regarding Japan's claim over Dokdo. Crowds in Seoul burned flags in front of the Japanese embassy, while the South Korean envoy in Tokyo left Japan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chosun](http://english.chosun.com/w21data/html/news/200807/200807160018.html)
 2. [Hani](http://english.hani.co.kr/arti/english_edition/e_international/298843.html)

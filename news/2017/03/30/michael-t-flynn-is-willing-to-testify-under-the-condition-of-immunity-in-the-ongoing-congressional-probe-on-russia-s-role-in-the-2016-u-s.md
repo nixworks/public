@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/30/michael-t-flynn-is-willing-to-testify-under-the
 
 ### [2017-03-30](/news/2017/03/30/index.md)
 
+##### Russian interference in the 2016 United States elections
 # Michael T. Flynn is willing to testify under the condition of immunity in the ongoing congressional probe on Russia's role in the 2016 U.S. presidential election. 
 
 The Kremlin paid an army of more than 1,000 people to create fake anti-Hillary Clinton news stories targeting key swing states, the leading Democrat on the committee looking into alleged Russian interference in the US election has said.

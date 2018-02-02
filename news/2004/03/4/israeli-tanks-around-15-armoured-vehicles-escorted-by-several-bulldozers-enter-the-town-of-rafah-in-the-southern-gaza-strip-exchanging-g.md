@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/4/israeli-tanks-around-15-armoured-vehicles-escorted-by-several-bulldozers-enter-the-town-of-rafah-in-the-southern-gaza-strip-exchanging-g.html)  [JSON](/news/2004/03/4/israeli-tanks-around-15-armoured-vehicles-escorted-by-several-bulldozers-enter-the-town-of-rafah-in-the-southern-gaza-strip-exchanging-g.json)  [XML](/news/2004/03/4/israeli-tanks-around-15-armoured-vehicles-escorted-by-several-bulldozers-enter-the-town-of-rafah-in-the-southern-gaza-strip-exchanging-g.xml)  
+
 ### [2004-03-4](/news/2004/03/4/index.md)
 
+##### Israel
 #  Israeli tanks (around 15 armoured vehicles escorted by several bulldozers) enter the town of Rafah in the southern Gaza Strip, exchanging gunfire with resistance and later demolishing a four-storey building, claiming "anti-terrorist operations". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,8867267%255E1702,00.html)
 

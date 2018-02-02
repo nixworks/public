@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/3/conservative-politician-theresa-may-accuses-euro
 
 ### [2017-05-3](/news/2017/05/3/index.md)
 
+##### last general election
 # Conservative politician Theresa May accuses European Union officials of trying to influence the upcoming elections. 
 
 Theresa May has put the growing feud between Downing Street and European leaders at the heart of the general election by accusing &amp;#8220;Brussels bureaucrats&amp;#8221; of trying to interfere in the campaign.

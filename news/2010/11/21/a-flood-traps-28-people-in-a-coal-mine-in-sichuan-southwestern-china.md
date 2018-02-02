@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/21/a-flood-traps-28-people-in-a-coal-mine-in-sichuan-southwestern-china.html)  [JSON](/news/2010/11/21/a-flood-traps-28-people-in-a-coal-mine-in-sichuan-southwestern-china.json)  [XML](/news/2010/11/21/a-flood-traps-28-people-in-a-coal-mine-in-sichuan-southwestern-china.xml)  
+
 ### [2010-11-21](/news/2010/11/21/index.md)
 
+##### Sichuan
 # A flood traps 28 people in a coal mine in Sichuan, southwestern China. 
 
 Rescue operations are taking place in south-west China to try to reach 28 miners trapped by a flood at a coal pit.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11805400)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-11/21/content_11583798.htm)

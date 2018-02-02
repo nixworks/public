@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/09/18/russia-wins-the-fed-cup-title-for-second-straight-year-beating-france-3-2-in-the-final.html)  [JSON](/news/2005/09/18/russia-wins-the-fed-cup-title-for-second-straight-year-beating-france-3-2-in-the-final.json)  [XML](/news/2005/09/18/russia-wins-the-fed-cup-title-for-second-straight-year-beating-france-3-2-in-the-final.xml)  
+
 ### [2005-09-18](/news/2005/09/18/index.md)
 
+##### Russia
 #  Russia wins the Fed Cup title for second straight year, beating France 3:2 in the final. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo! Sport News](http://sports.yahoo.com/ten/news;_ylt=Ai9LwC.R6hQ_rwII0rek0m44v7YF?slug=ap-fedcupfinal&prov=ap&type=lgns)
+1. [Yahoo! Sport News](https://sports.yahoo.com/ten/news;_ylt=Ai9LwC.R6hQ_rwII0rek0m44v7YF?slug=ap-fedcupfinal&prov=ap&type=lgns)
 
 ### Related:
 

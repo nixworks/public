@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/14/iraq-war-three-sunni-mosques-near-baghdad-are-burned-in-apparent-retaliation-for-the-latest-al-askari-mosque-bombing.html)  [JSON](/news/2007/06/14/iraq-war-three-sunni-mosques-near-baghdad-are-burned-in-apparent-retaliation-for-the-latest-al-askari-mosque-bombing.json)  [XML](/news/2007/06/14/iraq-war-three-sunni-mosques-near-baghdad-are-burned-in-apparent-retaliation-for-the-latest-al-askari-mosque-bombing.xml)  
+
 ### [2007-06-14](/news/2007/06/14/index.md)
 
+##### Iraq War
 #  Iraq War: Three Sunni mosques near Baghdad are burned in apparent retaliation for the latest Al-Askari Mosque bombing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/newsitems/200706/s1951558.htm)
 

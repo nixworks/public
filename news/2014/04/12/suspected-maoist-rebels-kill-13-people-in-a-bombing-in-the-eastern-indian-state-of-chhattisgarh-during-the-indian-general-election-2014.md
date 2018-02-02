@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/04/12/suspected-maoist-rebels-kill-13-people-in-a-bombing-in-the-eastern-indian-state-of-chhattisgarh-during-the-indian-general-election-2014.html)  [JSON](/news/2014/04/12/suspected-maoist-rebels-kill-13-people-in-a-bombing-in-the-eastern-indian-state-of-chhattisgarh-during-the-indian-general-election-2014.json)  [XML](/news/2014/04/12/suspected-maoist-rebels-kill-13-people-in-a-bombing-in-the-eastern-indian-state-of-chhattisgarh-during-the-indian-general-election-2014.xml)  
+
 ### [2014-04-12](/news/2014/04/12/index.md)
 
+##### Chhattisgarh
 # Suspected Maoist rebels kill 13 people in a bombing in the eastern Indian state of Chhattisgarh, during the Indian general election, 2014. 
 
 Suspected Maoist rebels set off two bombs in the eastern Indian state of Chhattisgarh on Saturday, killing 13 people, most of them paramilitary soldiers and officials charged with holding elections in the region.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/04/12/us-india-election-blasts-idUSBREA3B06A20140412)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/04/12/us-india-election-blasts-idUSBREA3B06A20140412)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

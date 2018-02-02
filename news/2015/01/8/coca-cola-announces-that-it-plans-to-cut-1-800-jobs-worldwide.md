@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/01/8/coca-cola-announces-that-it-plans-to-cut-1-800-jobs-worldwide.html)  [JSON](/news/2015/01/8/coca-cola-announces-that-it-plans-to-cut-1-800-jobs-worldwide.json)  [XML](/news/2015/01/8/coca-cola-announces-that-it-plans-to-cut-1-800-jobs-worldwide.xml)  
+
 ### [2015-01-8](/news/2015/01/8/index.md)
 
+##### Coca-Cola
 # Coca-Cola announces that it plans to cut 1,800 jobs worldwide. 
 
 Coca-Cola says the cuts will help &quot;streamline and simplify our structure.&quot; 
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/id/102321464)
+1. [CNBC](https://www.cnbc.com/id/102321464)
 
 ### Related:
 

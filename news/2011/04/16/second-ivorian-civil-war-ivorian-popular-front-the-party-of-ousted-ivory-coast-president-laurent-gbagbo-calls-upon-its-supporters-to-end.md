@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/16/second-ivorian-civil-war-ivorian-popular-front-the-party-of-ousted-ivory-coast-president-laurent-gbagbo-calls-upon-its-supporters-to-end.html)  [JSON](/news/2011/04/16/second-ivorian-civil-war-ivorian-popular-front-the-party-of-ousted-ivory-coast-president-laurent-gbagbo-calls-upon-its-supporters-to-end.json)  [XML](/news/2011/04/16/second-ivorian-civil-war-ivorian-popular-front-the-party-of-ousted-ivory-coast-president-laurent-gbagbo-calls-upon-its-supporters-to-end.xml)  
+
 ### [2011-04-16](/news/2011/04/16/index.md)
 
+##### Second Ivorian Civil War
 # Second Ivorian Civil War: Ivorian Popular Front, the party of ousted Ivory Coast President Laurent Gbagbo, calls upon its supporters to end the unrest in the country after his arrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jaXbDuFRWjufERMkAekbXiLGfs8w?docId=CNG.d28e977733e212d40d816e1892692c61.5d1)
 

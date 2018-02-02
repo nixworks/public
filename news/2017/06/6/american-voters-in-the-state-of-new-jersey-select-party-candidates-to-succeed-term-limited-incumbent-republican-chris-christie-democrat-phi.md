@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/6/american-voters-in-the-state-of-new-jersey-selec
 
 ### [2017-06-6](/news/2017/06/6/index.md)
 
+##### New Jersey
 # American voters in the state of New Jersey select party candidates to succeed term-limited incumbent Republican Chris Christie. Democrat Phil Murphy and Republican Kim Guadagno win nominations their parties' nominations. 
 
 TRENTON, N.J. (AP) — Voters on Tuesday chose a wealthy former Goldman Sachs executive and Republican Gov. Chris Christie&#039;s top deputy to run to replace the unpopular governor. Democrat Phil Murphy and Republican Lt. Gov. Kim Guadagno won in the first statewide primary election since President Donald Trump took office. They will face off Nov. 7 in one of only two governor&#039;s races this year, along with Virginia, with Democrats hopeful their promised anti-Trump agenda and voter registration advantage will propel them to victory and jump-start a 2018 congressional comeback.

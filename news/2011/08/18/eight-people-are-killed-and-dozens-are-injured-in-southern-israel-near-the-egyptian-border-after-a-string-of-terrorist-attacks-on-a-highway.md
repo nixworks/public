@@ -1,17 +1,27 @@
+
+Formats: [HTML](/news/2011/08/18/eight-people-are-killed-and-dozens-are-injured-in-southern-israel-near-the-egyptian-border-after-a-string-of-terrorist-attacks-on-a-highway.html)  [JSON](/news/2011/08/18/eight-people-are-killed-and-dozens-are-injured-in-southern-israel-near-the-egyptian-border-after-a-string-of-terrorist-attacks-on-a-highway.json)  [XML](/news/2011/08/18/eight-people-are-killed-and-dozens-are-injured-in-southern-israel-near-the-egyptian-border-after-a-string-of-terrorist-attacks-on-a-highway.xml)  
+
 ### [2011-08-18](/news/2011/08/18/index.md)
 
+##### Eight people are killed
 # Eight people are killed and dozens are injured in southern Israel near the Egyptian border, after a string of terrorist attacks on a highway targeting two civilian buses and cars as well a military bus responding to the attacks. 
 
 Four terror attacks near Eilat claim seven lives, leave 31 injured as passenger bus, military patrol and private car targeted; IDF kills seven terrorists. Security forces declare high alert in southern sector
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/six-dead-as-israel-hits-southern-gaza-20110819-1j0m3.html)
-2. [New York Times](http://www.nytimes.com/2011/08/19/world/middleeast/19israel.html?emc=na)
+2. [New York Times](https://www.nytimes.com/2011/08/19/world/middleeast/19israel.html?emc=na)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/aug/18/israel-air-strikes-gaza-eilat-attacks)
 4. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4110634,00.html)
 4. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)
+
+### Changes:
+
+1. [Southern Israel attacksEight people are killed and dozens are injured in southern Israel near the Egyptian border, after a string of terrorist attacks on a highway targeting two civilian buses and cars as well a military bus responding to the attacks. ](/news/2011/08/18/southern-israel-attackspeight-people-are-killed-and-dozens-are-injured-in-southern-israel-near-the-egyptian-border-after-a-string-of-terror.md) _2017-08-25 03:34:01 (First version)_
+2. [Southern Israel attacks: Eight people are killed and dozens are injured in southern Israel near the Egyptian border, after a string of terrorist attacks on a highway targeting two civilian buses and cars as well a military bus responding to the attacks. ](/news/2011/08/18/southern-israel-attacks-eight-people-are-killed-and-dozens-are-injured-in-southern-israel-near-the-egyptian-border-after-a-string-of-terro.md) _2017-08-27 03:34:09 (Update)_
+2. [Eight people are killed and dozens are injured in southern Israel near the Egyptian border, after a string of terrorist attacks on a highway targeting two civilian buses and cars as well a military bus responding to the attacks. ](/news/2011/08/18/eight-people-are-killed-and-dozens-are-injured-in-southern-israel-near-the-egyptian-border-after-a-string-of-terrorist-attacks-on-a-highway.md) _(Current version)_
 
 ### Related:
 
@@ -20,9 +30,3 @@ Four terror attacks near Eilat claim seven lives, leave 31 injured as passenger 
 3. [U.S. president-elect Donald Trump calls President Abdel Fattah el-Sisi of Egypt, who then agrees to postpone a United Nations resolution regarding Israel. ](/news/2016/12/22/u-s-president-elect-donald-trump-calls-president-abdel-fattah-el-sisi-of-egypt-who-then-agrees-to-postpone-a-united-nations-resolution-reg.md) _Context: Egypt, Israel_
 4. [Four Egyptian security personnel are killed and another four are injured by a roadside bomb near the border town Rafah in the Sinai Peninsula. Islamist militants are suspected to have remotely detonated the device as an armored vehicle drove by the town's center, near the border with the Gaza Strip and Israel, security sources told Ahram Online. ](/news/2015/12/8/four-egyptian-security-personnel-are-killed-and-another-four-are-injured-by-a-roadside-bomb-near-the-border-town-rafah-in-the-sinai-peninsul.md) _Context: Egypt, Israel_
 5. [A massive sandstorm hits Lebanon and Syria as well as Jordan, Israel and Egypt. The Lebanese Health Ministry said the storm caused the deaths of two women, and sent hundreds to hospitals with breathing difficulties. Particularly hard hit were the 1.1 million Syrian refugees in Lebanon, many in flimsy tents in informal campsites. ](/news/2015/09/8/a-massive-sandstorm-hits-lebanon-and-syria-as-well-as-jordan-israel-and-egypt-the-lebanese-health-ministry-said-the-storm-caused-the-death.md) _Context: Egypt, Israel_
-
-### Changes:
-
-1. [Southern Israel attacksEight people are killed and dozens are injured in southern Israel near the Egyptian border, after a string of terrorist attacks on a highway targeting two civilian buses and cars as well a military bus responding to the attacks. ](/news/2011/08/18/southern-israel-attackspeight-people-are-killed-and-dozens-are-injured-in-southern-israel-near-the-egyptian-border-after-a-string-of-terror.md) _2017-08-25 03:34:01 (First version)_
-2. [Southern Israel attacks: Eight people are killed and dozens are injured in southern Israel near the Egyptian border, after a string of terrorist attacks on a highway targeting two civilian buses and cars as well a military bus responding to the attacks. ](/news/2011/08/18/southern-israel-attacks-eight-people-are-killed-and-dozens-are-injured-in-southern-israel-near-the-egyptian-border-after-a-string-of-terro.md) _2017-08-27 03:34:09 (Update)_
-2. [Eight people are killed and dozens are injured in southern Israel near the Egyptian border, after a string of terrorist attacks on a highway targeting two civilian buses and cars as well a military bus responding to the attacks. ](/news/2011/08/18/eight-people-are-killed-and-dozens-are-injured-in-southern-israel-near-the-egyptian-border-after-a-string-of-terrorist-attacks-on-a-highway.md) _(Current version)_

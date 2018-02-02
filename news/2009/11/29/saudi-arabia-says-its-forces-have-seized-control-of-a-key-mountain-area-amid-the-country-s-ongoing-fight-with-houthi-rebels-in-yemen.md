@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/29/saudi-arabia-says-its-forces-have-seized-control-of-a-key-mountain-area-amid-the-country-s-ongoing-fight-with-houthi-rebels-in-yemen.html)  [JSON](/news/2009/11/29/saudi-arabia-says-its-forces-have-seized-control-of-a-key-mountain-area-amid-the-country-s-ongoing-fight-with-houthi-rebels-in-yemen.json)  [XML](/news/2009/11/29/saudi-arabia-says-its-forces-have-seized-control-of-a-key-mountain-area-amid-the-country-s-ongoing-fight-with-houthi-rebels-in-yemen.xml)  
+
 ### [2009-11-29](/news/2009/11/29/index.md)
 
+##### Saudi Arabia
 #  Saudi Arabia says its forces have seized control of a key mountain area amid the country's ongoing fight with Houthi rebels in Yemen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/11/2009112981548306368.html)
 1. [Cover Image](http://www.aljazeera.com)

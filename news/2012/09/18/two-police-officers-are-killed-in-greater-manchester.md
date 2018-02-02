@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/18/two-police-officers-are-killed-in-greater-manchester.html)  [JSON](/news/2012/09/18/two-police-officers-are-killed-in-greater-manchester.json)  [XML](/news/2012/09/18/two-police-officers-are-killed-in-greater-manchester.xml)  
+
 ### [2012-09-18](/news/2012/09/18/index.md)
 
+##### Greater Manchester
 # Two police officers are killed in Greater Manchester. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2012/sep/18/woman-police-officer-killed-manchester?newsfeed=true)
 

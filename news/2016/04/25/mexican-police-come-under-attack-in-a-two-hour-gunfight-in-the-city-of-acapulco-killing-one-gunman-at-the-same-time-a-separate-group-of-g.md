@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/25/mexican-police-come-under-attack-in-a-two-hour-
 
 ### [2016-04-25](/news/2016/04/25/index.md)
 
+##### Mexican Drug War
 # Mexican police come under attack in a two-hour gunfight in the city of Acapulco, killing one gunman. At the same time, a separate group of gunmen attacked a federal police base in the city. 
 
 Police officers come under attack in a two-hour gunfight in the Mexican city of Acapulco.
@@ -23,5 +24,5 @@ Police officers come under attack in a two-hour gunfight in the Mexican city of 
 1. [At least 42 members of the Jalisco New Generation Cartel and two Federal Police officers are killed in a shootout in the state of Michoacn. The death toll is preliminary and is expected to rise. ](/news/2015/05/22/at-least-42-members-of-the-jalisco-new-generation-cartel-and-two-federal-police-officers-are-killed-in-a-shootout-in-the-state-of-michoacan.md) _Context: Mexican Drug War, Mexican Police_
 2. [Mexican Drug War: The Mexican Federal Police arrested one of the three ringleaders responsible for the deadly shootout last month in the Mexico City International Airport's busy food court. An anonymous tip-off led police to his whereabouts. ](/news/2012/07/16/mexican-drug-war-the-mexican-federal-police-arrested-one-of-the-three-ringleaders-responsible-for-the-deadly-shootout-last-month-in-the-mex.md) _Context: Mexican Drug War, Mexican Police_
 3. [Mexico's federal police capture a man who was allegedly the top hitman for the Knights Templar drug cartel. ](/news/2011/07/13/mexico-s-federal-police-capture-a-man-who-was-allegedly-the-top-hitman-for-the-knights-templar-drug-cartel.md) _Context: Mexican Drug War, Mexican Police_
-4. [A prison riot between rival gangs in Acapulco, Mexico, leaves at least 28 inmates dead. ](/news/2017/07/6/a-prison-riot-between-rival-gangs-in-acapulco-mexico-leaves-at-least-28-inmates-dead.md) _Context: Acapulco_
-5. [A gunfight between La Lnea gang members and a rival cartel in Madera Municipality, Chihuahua, leaves at least 14 people dead. ](/news/2017/07/5/a-gunfight-between-la-linea-gang-members-and-a-rival-cartel-in-madera-municipality-chihuahua-leaves-at-least-14-people-dead.md) _Context: Mexican Drug War_
+4. [Eleven people are killed in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the southern state of Guerrero. ](/news/2018/01/7/eleven-people-are-killed-in-la-concepcia3n-mexico-near-the-pacific-coast-resort-of-acapulco-following-violent-clashes-involving-gunmen-a.md) _Context: Acapulco_
+5. [Ten people are killed and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-are-killed-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md) _Context: Acapulco_

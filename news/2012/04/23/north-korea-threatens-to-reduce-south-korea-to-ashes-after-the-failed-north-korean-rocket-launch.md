@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2012/04/23/north-korea-threatens-to-reduce-south-korea-to-ashes-after-the-failed-north-korean-rocket-launch.html)  [JSON](/news/2012/04/23/north-korea-threatens-to-reduce-south-korea-to-ashes-after-the-failed-north-korean-rocket-launch.json)  [XML](/news/2012/04/23/north-korea-threatens-to-reduce-south-korea-to-ashes-after-the-failed-north-korean-rocket-launch.xml)  
+
 ### [2012-04-23](/news/2012/04/23/index.md)
 
+##### North Korea
 # North Korea threatens to reduce South Korea to "ashes" after the failed North Korean rocket launch. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/news/world/article/1166217--north-korea-threatens-to-reduce-south-korea-s-leadership-to-ashes)
+1. [Toronto Star](https://www.thestar.com/news/world/article/1166217--north-korea-threatens-to-reduce-south-korea-s-leadership-to-ashes)
 
 ### Related:
 
 1. [South Korean warships search the Yellow Sea for rocket debris from the failed North Korean Kwangmyongsong-3 launch yesterday. ](/news/2012/04/14/south-korean-warships-search-the-yellow-sea-for-rocket-debris-from-the-failed-north-korean-kwangmyangsang-3-launch-yesterday.md) _Context: North Korea, South Korea, failed North Korean rocket launch_
-2. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: North Korea, South Korea_
-3. [North Korea test fires several missiles, believed to be anti-ship weapons. The test comes immediately after South Korea suspends further deployment of the THAAD anti-missile system. ](/news/2017/06/8/north-korea-test-fires-several-missiles-believed-to-be-anti-ship-weapons-the-test-comes-immediately-after-south-korea-suspends-further-dep.md) _Context: North Korea, South Korea_
-4. [A North Korean soldier defects to South Korea after swimming across the Han River, the second North Korean defection in a week. ](/news/2017/06/18/a-north-korean-soldier-defects-to-south-korea-after-swimming-across-the-han-river-the-second-north-korean-defection-in-a-week.md) _Context: North Korea, South Korea_
-5. [A North Korean soldier crosses the Korean Demilitarized Zone (DMZ) and defects to South Korea, the first since September 2016. ](/news/2017/06/13/a-north-korean-soldier-crosses-the-korean-demilitarized-zone-dmz-and-defects-to-south-korea-the-first-since-september-2016.md) _Context: North Korea, South Korea_
+2. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: North Korea, South Korea_
+3. [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md) _Context: North Korea, South Korea_
+4. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: North Korea, South Korea_
+5. [A Korean People's Army soldier defects to South Korea via the Korean Demilitarized Zone (DMZ). He was shot and injured by fellow North Korean soldiers as he crossed to the South Korean side at Panmunjom, and has been taken to hospital. ](/news/2017/11/13/a-korean-people-s-army-soldier-defects-to-south-korea-via-the-korean-demilitarized-zone-dmz-he-was-shot-and-injured-by-fellow-north-korea.md) _Context: North Korea, South Korea_

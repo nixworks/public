@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/05/20/munster-win-their-first-heineken-european-cup-defeating-biarritz-olympique-in-the-final-by-23-points-to-19-team-captain-anthony-foley-lif.html)  [JSON](/news/2006/05/20/munster-win-their-first-heineken-european-cup-defeating-biarritz-olympique-in-the-final-by-23-points-to-19-team-captain-anthony-foley-lif.json)  [XML](/news/2006/05/20/munster-win-their-first-heineken-european-cup-defeating-biarritz-olympique-in-the-final-by-23-points-to-19-team-captain-anthony-foley-lif.xml)  
+
 ### [2006-05-20](/news/2006/05/20/index.md)
 
+##### Munster Rugby
 #  Munster win their first Heineken European Cup, defeating Biarritz Olympique in the final by 23 points to 19. Team captain Anthony Foley lifts the cup for the first time for the Irish province.
 
 

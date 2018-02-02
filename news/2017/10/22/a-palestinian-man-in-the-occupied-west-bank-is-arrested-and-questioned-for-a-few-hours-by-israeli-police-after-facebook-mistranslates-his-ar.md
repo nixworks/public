@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-
 
 ### [2017-10-22](/news/2017/10/22/index.md)
 
+##### Israeli-Palestinian conflict
 # A Palestinian man in the occupied West Bank is arrested and questioned for a few hours by Israeli police after Facebook mistranslates his Arabic-language message saying "good morning" into Hebrew for "attack them". 
 
 The builder&#039;s morning took a turn for the worse after his Arabic post was wrongly translated to &quot;attack them&quot; in Hebrew.

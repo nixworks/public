@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/17/pope-benedict-xvi-slips-in-the-bath-in-his-mountain-chalet-and-is-treated-for-a-fractured-wrist-in-aosta-italy.html)  [JSON](/news/2009/07/17/pope-benedict-xvi-slips-in-the-bath-in-his-mountain-chalet-and-is-treated-for-a-fractured-wrist-in-aosta-italy.json)  [XML](/news/2009/07/17/pope-benedict-xvi-slips-in-the-bath-in-his-mountain-chalet-and-is-treated-for-a-fractured-wrist-in-aosta-italy.xml)  
+
 ### [2009-07-17](/news/2009/07/17/index.md)
 
+##### Pope
 #  Pope Benedict XVI slips in the bath in his mountain chalet and is treated for a fractured wrist in Aosta, Italy. 
 
 Pope Benedict slipped in the bath today and broke his wrist but aides said there was no cause for concern about the 82-year-old&hellip;
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8155372.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0717/pope.html)

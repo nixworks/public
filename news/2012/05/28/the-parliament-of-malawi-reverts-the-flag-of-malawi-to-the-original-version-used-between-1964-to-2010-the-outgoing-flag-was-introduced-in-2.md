@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/28/the-parliament-of-malawi-reverts-the-flag-of-malawi-to-the-original-version-used-between-1964-to-2010-the-outgoing-flag-was-introduced-in-2.html)  [JSON](/news/2012/05/28/the-parliament-of-malawi-reverts-the-flag-of-malawi-to-the-original-version-used-between-1964-to-2010-the-outgoing-flag-was-introduced-in-2.json)  [XML](/news/2012/05/28/the-parliament-of-malawi-reverts-the-flag-of-malawi-to-the-original-version-used-between-1964-to-2010-the-outgoing-flag-was-introduced-in-2.xml)  
+
 ### [2012-05-28](/news/2012/05/28/index.md)
 
+##### Malawi
 # The Parliament of Malawi reverts the Flag of Malawi to the original version used between 1964 to 2010. The outgoing flag was introduced in 2010 by the late President Bingu wa Mutharika. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nyasa Times](http://www.nyasatimes.com/malawi/2012/05/28/malawi-parliament-approves-to-revert-to-original-flag/)
 2. [The Nation](http://www.mwnation.com/index.php?option=com_content&view=article&id=5941:flag-change-was-an-insult-mps&catid=34:national-news&Itemid=204)

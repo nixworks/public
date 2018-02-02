@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/29/thousands-of-anti-nuclear-protesters-form-a-human-chain-around-the-japanese-parliament-in-tokyo.html)  [JSON](/news/2012/07/29/thousands-of-anti-nuclear-protesters-form-a-human-chain-around-the-japanese-parliament-in-tokyo.json)  [XML](/news/2012/07/29/thousands-of-anti-nuclear-protesters-form-a-human-chain-around-the-japanese-parliament-in-tokyo.xml)  
+
 ### [2012-07-29](/news/2012/07/29/index.md)
 
+##### Japan
 # Thousands of anti-nuclear protesters form a human chain around the Japanese parliament in Tokyo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Television Hong Kong](http://rthk.hk/rthk/news/englishnews/20120730/news_20120730_56_858654.htm)
 

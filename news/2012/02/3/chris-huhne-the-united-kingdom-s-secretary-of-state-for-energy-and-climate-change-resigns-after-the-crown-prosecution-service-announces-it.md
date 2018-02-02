@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/3/chris-huhne-the-united-kingdom-s-secretary-of-state-for-energy-and-climate-change-resigns-after-the-crown-prosecution-service-announces-it.html)  [JSON](/news/2012/02/3/chris-huhne-the-united-kingdom-s-secretary-of-state-for-energy-and-climate-change-resigns-after-the-crown-prosecution-service-announces-it.json)  [XML](/news/2012/02/3/chris-huhne-the-united-kingdom-s-secretary-of-state-for-energy-and-climate-change-resigns-after-the-crown-prosecution-service-announces-it.xml)  
+
 ### [2012-02-3](/news/2012/02/3/index.md)
 
+##### Chris Huhne
 # Chris Huhne, the United Kingdom's Secretary of State for Energy and Climate Change, resigns after the Crown Prosecution Service announces it will bring charges against him and his wife over claims she accepted penalty points on her driving licence for speeding on his behalf. 
 
 Chris Huhne vows to clear his name as he resigns as energy secretary to fight a charge of perverting the course of justice relating to a 2003 speeding case.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-16866127)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58291000/jpg/_58291893_013900799-1.jpg)

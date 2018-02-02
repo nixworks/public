@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/07/30/new-york-mets-trade-left-handed-pitching-prospect-scott-kazmir-to-the-tampa-bay-devil-rays-for-victor-zambrano-and-bartolome-fortunato.html)  [JSON](/news/2004/07/30/new-york-mets-trade-left-handed-pitching-prospect-scott-kazmir-to-the-tampa-bay-devil-rays-for-victor-zambrano-and-bartolome-fortunato.json)  [XML](/news/2004/07/30/new-york-mets-trade-left-handed-pitching-prospect-scott-kazmir-to-the-tampa-bay-devil-rays-for-victor-zambrano-and-bartolome-fortunato.xml)  
+
 ### [2004-07-30](/news/2004/07/30/index.md)
 
+##### New York Mets
 #  New York Mets trade left-handed pitching prospect Scott Kazmir to the Tampa Bay Devil Rays for Victor Zambrano and Bartolome Fortunato
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/5/an-israeli-air-force-f-16-crashes-while-attempti
 
 ### [2016-10-5](/news/2016/10/5/index.md)
 
+##### Israeli Air Force
 # An Israeli Air Force F-16 crashes while attempting to land at Ramon Airbase in southern Israel, killing the pilot. A navigator who was also in the aircraft successfully ejects and escapes the incident unharmed. 
 
 

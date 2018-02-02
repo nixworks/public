@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/2/police-are-investigating-the-new-year-s-day-murder-of-bryan-harvey-who-with-his-wife-and-two-young-daughters-were-found-dead-with-their-th.html)  [JSON](/news/2006/01/2/police-are-investigating-the-new-year-s-day-murder-of-bryan-harvey-who-with-his-wife-and-two-young-daughters-were-found-dead-with-their-th.json)  [XML](/news/2006/01/2/police-are-investigating-the-new-year-s-day-murder-of-bryan-harvey-who-with-his-wife-and-two-young-daughters-were-found-dead-with-their-th.xml)  
+
 ### [2006-01-2](/news/2006/01/2/index.md)
 
+##### Bryan Harvey
 #  Police are investigating the New Year's Day murder of Bryan Harvey, who with his wife and two young daughters were found dead with their throats slashed in the basement of their South Side Richmond, Virginia, home, which was then set afire. Harvey was former singer and guitarist of 1980s band House of Freaks and his wife was the half-sister of Steven Culp, who played Rex Van De Kamp on "Desperate Housewives". The fire was discovered by Johnny Hott, HOF bandmate and drummer for the band Cracker 
 
 Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/US/wireStory?id=1466025)
 2. [Billboard](http://www.billboard.com/articles/news/60215/guitarist-family-murdered-on-new-years-day)

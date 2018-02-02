@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/19/the-denver-post-has-uncovered-pentagon-documents-that-show-more-than-twice-as-many-allegations-of-detainee-abuse-75-are-being-investiga.html)  [JSON](/news/2004/05/19/the-denver-post-has-uncovered-pentagon-documents-that-show-more-than-twice-as-many-allegations-of-detainee-abuse-75-are-being-investiga.json)  [XML](/news/2004/05/19/the-denver-post-has-uncovered-pentagon-documents-that-show-more-than-twice-as-many-allegations-of-detainee-abuse-75-are-being-investiga.xml)  
+
 ### [2004-05-19](/news/2004/05/19/index.md)
 
+##### The Denver Post
 #  "The Denver Post" has uncovered Pentagon documents that show more than twice as many allegations of detainee abuse (75) are being investigated by the military than previously known. Twenty-seven of the abuse cases involve deaths; at least eight are believed to be homicides. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/LAW/05/19/court.martial.sivits/index.html)
 2. [CNN](http://www.cnn.com/2004/WORLD/meast/05/19/iraq.abuse.uk/index.html)

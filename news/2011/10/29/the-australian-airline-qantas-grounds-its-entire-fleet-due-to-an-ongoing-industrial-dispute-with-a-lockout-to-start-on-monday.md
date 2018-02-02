@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/29/the-australian-airline-qantas-grounds-its-entire-fleet-due-to-an-ongoing-industrial-dispute-with-a-lockout-to-start-on-monday.html)  [JSON](/news/2011/10/29/the-australian-airline-qantas-grounds-its-entire-fleet-due-to-an-ongoing-industrial-dispute-with-a-lockout-to-start-on-monday.json)  [XML](/news/2011/10/29/the-australian-airline-qantas-grounds-its-entire-fleet-due-to-an-ongoing-industrial-dispute-with-a-lockout-to-start-on-monday.xml)  
+
 ### [2011-10-29](/news/2011/10/29/index.md)
 
+##### Australia
 # The Australian airline Qantas grounds its entire fleet due to an ongoing industrial dispute with a lockout to start on Monday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''West Australian](http://au.news.yahoo.com/thewest/a/-/world/11053283/qantas-grounds-entire-fleet-in-unbelievable-step/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/16/the-iraqi-parliamentary-bloc-controlled-by-militia-leader-moqtada-al-sadr-announces-that-it-will-abandon-the-party-led-by-prime-minister-no.html)  [JSON](/news/2007/09/16/the-iraqi-parliamentary-bloc-controlled-by-militia-leader-moqtada-al-sadr-announces-that-it-will-abandon-the-party-led-by-prime-minister-no.json)  [XML](/news/2007/09/16/the-iraqi-parliamentary-bloc-controlled-by-militia-leader-moqtada-al-sadr-announces-that-it-will-abandon-the-party-led-by-prime-minister-no.xml)  
+
 ### [2007-09-16](/news/2007/09/16/index.md)
 
+##### Iraq
 #  The Iraqi parliamentary bloc controlled by militia leader Moqtada al-Sadr announces that it will abandon the party led by Prime Minister Nouri al-Maliki. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [LA Times](http://www.latimes.com/news/nationworld/la-na-sadr16sep16,0,3536783.story?coll=la-home-center)
 

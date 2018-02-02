@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/300-jem-rebels-and-86-sudanese-army-soldiers-are-killed-in-darfur.html)  [JSON](/news/2010/07/17/300-jem-rebels-and-86-sudanese-army-soldiers-are-killed-in-darfur.json)  [XML](/news/2010/07/17/300-jem-rebels-and-86-sudanese-army-soldiers-are-killed-in-darfur.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### Justice and Equality Movement
 # 300 JEM rebels and 86 Sudanese Army soldiers are killed in Darfur. 
 
 Sudan rebel group denies reports in state media of nearly 400 killed in troubled region.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/07/2010717104036168749.html)
 1. [Cover Image](http://www.aljazeera.com)

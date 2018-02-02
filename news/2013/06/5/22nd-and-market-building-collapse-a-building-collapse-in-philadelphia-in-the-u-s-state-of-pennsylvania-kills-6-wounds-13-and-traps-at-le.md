@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/5/22nd-and-market-building-collapse-a-building-collapse-in-philadelphia-in-the-u-s-state-of-pennsylvania-kills-6-wounds-13-and-traps-at-le.html)  [JSON](/news/2013/06/5/22nd-and-market-building-collapse-a-building-collapse-in-philadelphia-in-the-u-s-state-of-pennsylvania-kills-6-wounds-13-and-traps-at-le.json)  [XML](/news/2013/06/5/22nd-and-market-building-collapse-a-building-collapse-in-philadelphia-in-the-u-s-state-of-pennsylvania-kills-6-wounds-13-and-traps-at-le.xml)  
+
 ### [2013-06-5](/news/2013/06/5/index.md)
 
+##### 22nd and Market building collapse
 # 22nd and Market building collapse. A building collapse in Philadelphia in the U.S. state of Pennsylvania kills 6, wounds 13, and traps at least 10. 
 
 Two people were believed killed and 13 others were pulled from the rubble of a downtown buil
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/06/05/us/pennsylvania-philadelphia-building-collapse/index.html?hpt=hp_t2)
 2. [Jacksonville.com](http://jacksonville.com/news/national/2013-06-05/story/2-likely-dead-13-rescued-philly-building-collapse)

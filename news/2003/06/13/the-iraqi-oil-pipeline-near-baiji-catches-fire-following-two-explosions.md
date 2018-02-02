@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/13/the-iraqi-oil-pipeline-near-baiji-catches-fire-following-two-explosions.html)  [JSON](/news/2003/06/13/the-iraqi-oil-pipeline-near-baiji-catches-fire-following-two-explosions.json)  [XML](/news/2003/06/13/the-iraqi-oil-pipeline-near-baiji-catches-fire-following-two-explosions.xml)  
+
 ### [2003-06-13](/news/2003/06/13/index.md)
 
+##### Iraq
 #  The Iraqi oil pipeline near Baiji catches fire, following two explosions
 
 

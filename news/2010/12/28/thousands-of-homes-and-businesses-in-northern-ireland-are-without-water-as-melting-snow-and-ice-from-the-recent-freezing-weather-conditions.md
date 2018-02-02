@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/28/thousands-of-homes-and-businesses-in-northern-ireland-are-without-water-as-melting-snow-and-ice-from-the-recent-freezing-weather-conditions.html)  [JSON](/news/2010/12/28/thousands-of-homes-and-businesses-in-northern-ireland-are-without-water-as-melting-snow-and-ice-from-the-recent-freezing-weather-conditions.json)  [XML](/news/2010/12/28/thousands-of-homes-and-businesses-in-northern-ireland-are-without-water-as-melting-snow-and-ice-from-the-recent-freezing-weather-conditions.xml)  
+
 ### [2010-12-28](/news/2010/12/28/index.md)
 
+##### Northern Ireland
 # Thousands of homes and businesses in Northern Ireland are without water as melting snow and ice from the recent freezing weather conditions reveals burst pipes. Northern Ireland Water says it is alternating supplies from reservoirs in order to help alleviate the crisis in which some have been without supplies since before Christmas. 
 
 Thousands of homes and businesses in Northern Ireland are still without water as leaks caused by the thaw put pressure on the system.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-12082535)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2005/05/16/ethiopian-prime-minister-meles-zenawi-bans-demonstrations-in-the-capital-addis-ababa-for-one-month-after-sunday-s-parliamentary-elections.html)  [JSON](/news/2005/05/16/ethiopian-prime-minister-meles-zenawi-bans-demonstrations-in-the-capital-addis-ababa-for-one-month-after-sunday-s-parliamentary-elections.json)  [XML](/news/2005/05/16/ethiopian-prime-minister-meles-zenawi-bans-demonstrations-in-the-capital-addis-ababa-for-one-month-after-sunday-s-parliamentary-elections.xml)  
+
 ### [2005-05-16](/news/2005/05/16/index.md)
 
-#  Ethiopian prime minister Meles Zenawi bans demonstrations in the capital Addis Ababa for one month after Sunday's parliamentary elections. Opposition parties, especially Coalition for Unity and Democracy accuse government of electoral fraud and harassment of their election observers. No results have been published yet. [http:--www.news24.com-News24-Africa-News-0,,2-11-1447_1705441,00.html (News24)] [http:--news.bbc.co.uk-2-hi-africa-4549589.stm (BBC)] [http:--www.forbes.com-home-feeds-afx-2005-05-15-afx2028176.html (Forbes)] (Wikinews)
+##### Ethiopia
+#  Ethiopian prime minister Meles Zenawi bans demonstrations in the capital Addis Ababa for one month after Sunday's parliamentary elections. Opposition parties, especially Coalition for Unity and Democracy accuse government of electoral fraud and harassment of their election observers. No results have been published yet. [http:--www.news24.com-News24-Africa-News-0,,2-11-1447_1705441,00.html (News24)] [http:--news.bbc.co.uk-2-hi-africa-4549589.stm (BBC)] [https:--www.forbes.com-home-feeds-afx-2005-05-15-afx2028176.html (Forbes)] (Wikinews)
 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/1/a-new-york-judge-rules-that-nafissatou-diallo-s-civil-lawsuit-alleging-sexual-assault-by-dominique-strauss-kahn-can-proceed-to-trial.html)  [JSON](/news/2012/05/1/a-new-york-judge-rules-that-nafissatou-diallo-s-civil-lawsuit-alleging-sexual-assault-by-dominique-strauss-kahn-can-proceed-to-trial.json)  [XML](/news/2012/05/1/a-new-york-judge-rules-that-nafissatou-diallo-s-civil-lawsuit-alleging-sexual-assault-by-dominique-strauss-kahn-can-proceed-to-trial.xml)  
+
 ### [2012-05-1](/news/2012/05/1/index.md)
 
+##### Nafissatou Diallo
 # A New York judge rules that Nafissatou Diallo's civil lawsuit alleging sexual assault by Dominique Strauss-Kahn can proceed to trial. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17911888)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59971000/jpg/_59971266_59971265.jpg)

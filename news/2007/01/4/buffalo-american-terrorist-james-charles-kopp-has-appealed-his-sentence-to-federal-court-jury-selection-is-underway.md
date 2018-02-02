@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/4/buffalo-american-terrorist-james-charles-kopp-has-appealed-his-sentence-to-federal-court-jury-selection-is-underway.html)  [JSON](/news/2007/01/4/buffalo-american-terrorist-james-charles-kopp-has-appealed-his-sentence-to-federal-court-jury-selection-is-underway.json)  [XML](/news/2007/01/4/buffalo-american-terrorist-james-charles-kopp-has-appealed-his-sentence-to-federal-court-jury-selection-is-underway.xml)  
+
 ### [2007-01-4](/news/2007/01/4/index.md)
 
+##### Buffalo
 #  Buffalo American terrorist James Charles Kopp has appealed his sentence to federal court. Jury selection is underway. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WKBW](http://www.wkbw.com/Story.aspx?preview=&type=ln&NStoryID=17280)
 

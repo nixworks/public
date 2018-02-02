@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/10/israel-has-criticised-russia-s-decision-to-invite-hamas-leaders-to-moscow-for-talks-following-the-militant-group-s-victory-in-palestinian.html)  [JSON](/news/2006/02/10/israel-has-criticised-russia-s-decision-to-invite-hamas-leaders-to-moscow-for-talks-following-the-militant-group-s-victory-in-palestinian.json)  [XML](/news/2006/02/10/israel-has-criticised-russia-s-decision-to-invite-hamas-leaders-to-moscow-for-talks-following-the-militant-group-s-victory-in-palestinian.xml)  
+
 ### [2006-02-10](/news/2006/02/10/index.md)
 
+##### Israel
 #  Israel has criticised Russia's decision to invite Hamas leaders to Moscow for talks, following the militant group's victory in Palestinian elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4701312.stm)
 

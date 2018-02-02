@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/22/the-united-states-senate-passes-legislation-to-allow-president-barack-obama-to-fast-track-trade-negotiations-with-other-countries.html)  [JSON](/news/2015/05/22/the-united-states-senate-passes-legislation-to-allow-president-barack-obama-to-fast-track-trade-negotiations-with-other-countries.json)  [XML](/news/2015/05/22/the-united-states-senate-passes-legislation-to-allow-president-barack-obama-to-fast-track-trade-negotiations-with-other-countries.xml)  
+
 ### [2015-05-22](/news/2015/05/22/index.md)
 
+##### United States Senate
 # The United States Senate passes legislation to allow President Barack Obama to fast track trade negotiations with other countries. 
 
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/Politics/wireStory/senate-approves-obamas-hard-fought-trade-negotiating-bill-31247978)
 

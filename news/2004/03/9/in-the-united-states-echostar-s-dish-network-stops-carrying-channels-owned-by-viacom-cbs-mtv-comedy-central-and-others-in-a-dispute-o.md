@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2004/03/9/in-the-united-states-echostar-s-dish-network-stops-carrying-channels-owned-by-viacom-cbs-mtv-comedy-central-and-others-in-a-dispute-o.html)  [JSON](/news/2004/03/9/in-the-united-states-echostar-s-dish-network-stops-carrying-channels-owned-by-viacom-cbs-mtv-comedy-central-and-others-in-a-dispute-o.json)  [XML](/news/2004/03/9/in-the-united-states-echostar-s-dish-network-stops-carrying-channels-owned-by-viacom-cbs-mtv-comedy-central-and-others-in-a-dispute-o.xml)  
+
 ### [2004-03-9](/news/2004/03/9/index.md)
 
+##### EchoStar
 #  In the United States, EchoStar's Dish Network stops carrying channels owned by Viacom (CBS, MTV, Comedy Central, and others) in a dispute over the pricing of those channels. Both companies have used text crawls and other information to influence viewers to call the opposing company to negotiate price. 
 
-Negotiations over a new contract between the EchoStar and Viacom have failed to produce a new agreement, and early today EchoStar stopped broadcasting Viacom-owned CBS television stations.
 
 
-### Source:
+
+### Sources:
 
 1. [Dow Jones](http://www.smartmoney.com/bn/ON/index.cfm?story=ON-20040309-000863-1425)
 2. [Financial Times](http://news.ft.com/servlet/ContentServer?pagename=FT.com/StoryFT/FullStory&c=StoryFT&cid=1078381640063)
 3. [Motley Fool](http://www.fool.com/News/Take/2004/take040309.htm)
-4. [NYT](http://www.nytimes.com/2004/03/09/business/media/09CND-DISH.html)
-5. [Reuters](http://www.reuters.com/financeNewsArticle.jhtml?type=businessNews&storyID=4530636)
-5. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+4. [NYT](https://www.nytimes.com/2004/03/09/business/media/09CND-DISH.html)
+5. [Reuters](https://www.reuters.com/financeNewsArticle.jhtml?type=businessNews&storyID=4530636)
+5. [Cover Image](http://s.wsj.net/public/resources/MWimages/MW-EG169_articl_NS_20160223171404.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/13/india-plans-to-withdraw-10-000-troops-from-jammu-and-kashmir-this-year-and-renew-peace-talks.html)  [JSON](/news/2011/02/13/india-plans-to-withdraw-10-000-troops-from-jammu-and-kashmir-this-year-and-renew-peace-talks.json)  [XML](/news/2011/02/13/india-plans-to-withdraw-10-000-troops-from-jammu-and-kashmir-this-year-and-renew-peace-talks.xml)  
+
 ### [2011-02-13](/news/2011/02/13/index.md)
 
+##### India
 # India plans to withdraw 10,000 troops from Jammu and Kashmir this year and renew peace talks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gUAbZFQ4fYWCx6DaPgunYO2Wo3ng?docId=CNG.8c103da1ea380e74948a1d04a4c553e8.861)
 2. [Hindustan Times](http://www.hindustantimes.com/Centre-may-bring-back-at-least-10-000-troops-from-J-K/Article1-661766.aspx)

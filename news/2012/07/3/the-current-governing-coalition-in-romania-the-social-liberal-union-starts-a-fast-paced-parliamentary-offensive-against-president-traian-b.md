@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/3/the-current-governing-coalition-in-romania-the-social-liberal-union-starts-a-fast-paced-parliamentary-offensive-against-president-traian-b.html)  [JSON](/news/2012/07/3/the-current-governing-coalition-in-romania-the-social-liberal-union-starts-a-fast-paced-parliamentary-offensive-against-president-traian-b.json)  [XML](/news/2012/07/3/the-current-governing-coalition-in-romania-the-social-liberal-union-starts-a-fast-paced-parliamentary-offensive-against-president-traian-b.xml)  
+
 ### [2012-07-3](/news/2012/07/3/index.md)
 
+##### Social Liberal Union
 # The current governing coalition in Romania, the Social Liberal Union, starts a fast-paced parliamentary offensive against President Traian Basescu by dismissing the leaders of both chambers of Parliament. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/06/19/us-romania-politics-idUSBRE85I0JE20120619)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/06/19/us-romania-politics-idUSBRE85I0JE20120619)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

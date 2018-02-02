@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/02/7/huang-yizhong-is-jailed-for-13-years-in-jiangmen-guangdong-for-copying-and-spreading-pornographic-material-through-his-website.html)  [JSON](/news/2010/02/7/huang-yizhong-is-jailed-for-13-years-in-jiangmen-guangdong-for-copying-and-spreading-pornographic-material-through-his-website.json)  [XML](/news/2010/02/7/huang-yizhong-is-jailed-for-13-years-in-jiangmen-guangdong-for-copying-and-spreading-pornographic-material-through-his-website.xml)  
+
 ### [2010-02-7](/news/2010/02/7/index.md)
 
+##### Huang Yizhong
 # Huang Yizhong is jailed for 13 years in Jiangmen, Guangdong, for copying and spreading pornographic material through his website. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/02/06/AR2010020603305.html)
+1. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/02/06/AR2010020603305.html)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/26/the-supreme-court-of-the-united-states-partiall
 
 ### [2017-06-26](/news/2017/06/26/index.md)
 
+##### Immigration policy of Donald Trump
 # The Supreme Court of the United States partially reinstates President Donald Trump's travel ban and invalidates certain injunctions that were put on the order by two federal appeals courts earlier. Final oral hearings concerning the legality of the Executive Order 13780 will be held in October 2017 at the Supreme Court. 
 
 The US Supreme Court partly implements the travel and refugee bans pending a full review in October.

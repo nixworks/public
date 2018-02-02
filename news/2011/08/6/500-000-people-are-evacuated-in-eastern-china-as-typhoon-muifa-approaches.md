@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/6/500-000-people-are-evacuated-in-eastern-china-as-typhoon-muifa-approaches.html)  [JSON](/news/2011/08/6/500-000-people-are-evacuated-in-eastern-china-as-typhoon-muifa-approaches.json)  [XML](/news/2011/08/6/500-000-people-are-evacuated-in-eastern-china-as-typhoon-muifa-approaches.xml)  
+
 ### [2011-08-6](/news/2011/08/6/index.md)
 
+##### China
 # 500,000 people are evacuated in eastern China as Typhoon Muifa approaches. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1145471/1/.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/20/the-entire-government-of-kyrgyzstan-resigns-as-president-kurmanbek-bakiyev-announces-a-new-reform-campaign.html)  [JSON](/news/2009/10/20/the-entire-government-of-kyrgyzstan-resigns-as-president-kurmanbek-bakiyev-announces-a-new-reform-campaign.json)  [XML](/news/2009/10/20/the-entire-government-of-kyrgyzstan-resigns-as-president-kurmanbek-bakiyev-announces-a-new-reform-campaign.xml)  
+
 ### [2009-10-20](/news/2009/10/20/index.md)
 
+##### Kyrgyzstan
 #  The entire government of Kyrgyzstan resigns as President Kurmanbek Bakiyev announces a new reform campaign. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g1qNZLJqeTARLRNmfkluUXqdh8Jw)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8316168.stm)

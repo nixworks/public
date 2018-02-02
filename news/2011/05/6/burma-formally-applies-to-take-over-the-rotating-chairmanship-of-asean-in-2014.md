@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/6/burma-formally-applies-to-take-over-the-rotating-chairmanship-of-asean-in-2014.html)  [JSON](/news/2011/05/6/burma-formally-applies-to-take-over-the-rotating-chairmanship-of-asean-in-2014.json)  [XML](/news/2011/05/6/burma-formally-applies-to-take-over-the-rotating-chairmanship-of-asean-in-2014.xml)  
+
 ### [2011-05-6](/news/2011/05/6/index.md)
 
+##### Burma
 # Burma formally applies to take over the rotating chairmanship of ASEAN in 2014. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/235674/asean-to-decide-on-burma-chairmanship)
 

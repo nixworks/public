@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/14/the-president-of-iran-mahmoud-ahmadinejad-says-he-expects-its-nuclear-enrichment-program-to-be-ready-by-february-2007.html)  [JSON](/news/2006/11/14/the-president-of-iran-mahmoud-ahmadinejad-says-he-expects-its-nuclear-enrichment-program-to-be-ready-by-february-2007.json)  [XML](/news/2006/11/14/the-president-of-iran-mahmoud-ahmadinejad-says-he-expects-its-nuclear-enrichment-program-to-be-ready-by-february-2007.xml)  
+
 ### [2006-11-14](/news/2006/11/14/index.md)
 
+##### President
 #  The President of Iran Mahmoud Ahmadinejad says he expects its nuclear enrichment program to be ready by February 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/meast/11/14/iran.nuclear/index.html)
 

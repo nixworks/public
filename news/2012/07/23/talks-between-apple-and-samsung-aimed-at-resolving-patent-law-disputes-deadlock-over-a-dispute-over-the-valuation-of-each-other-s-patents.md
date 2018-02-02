@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/23/talks-between-apple-and-samsung-aimed-at-resolving-patent-law-disputes-deadlock-over-a-dispute-over-the-valuation-of-each-other-s-patents.html)  [JSON](/news/2012/07/23/talks-between-apple-and-samsung-aimed-at-resolving-patent-law-disputes-deadlock-over-a-dispute-over-the-valuation-of-each-other-s-patents.json)  [XML](/news/2012/07/23/talks-between-apple-and-samsung-aimed-at-resolving-patent-law-disputes-deadlock-over-a-dispute-over-the-valuation-of-each-other-s-patents.xml)  
+
 ### [2012-07-23](/news/2012/07/23/index.md)
 
+##### Apple
 # Talks between Apple and Samsung aimed at resolving patent law disputes deadlock over a dispute over the valuation of each other's patents. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/24/us-apple-samsung-idUSBRE86M19220120724)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120724&t=2&i=633753658&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86M1L7K00)
+1. [Reuters](https://www.reuters.com/article/2012/07/24/us-apple-samsung-idUSBRE86M19220120724)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120724&t=2&i=633753658&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86M1L7K00)
 
 ### Related:
 

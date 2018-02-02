@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/01/24/mashhad-in-northeastern-iran-was-officially-named-the-capital-of-the-islamic-culture-in-2017-by-the-isesco.html)  [JSON](/news/2017/01/24/mashhad-in-northeastern-iran-was-officially-named-the-capital-of-the-islamic-culture-in-2017-by-the-isesco.json)  [XML](/news/2017/01/24/mashhad-in-northeastern-iran-was-officially-named-the-capital-of-the-islamic-culture-in-2017-by-the-isesco.xml)  
+
 ### [2017-01-24](/news/2017/01/24/index.md)
 
+##### Mashhad
 # Mashhad in northeastern Iran was officially named the capital of the Islamic culture in 2017 by the ISESCO. 
 
 TEHRAN (Tasnim) – The holy city of Mashhad in northeastern Iran was officially named the capital of the Islamic culture in 2017 for the Asia region by the Islamic Educational, Scientific and Cultural Organization (ISESCO).
 
 
-### Source:
+### Sources:
 
 1. [Tasnim](https://www.tasnimnews.com/en/news/2017/01/24/1306527/mashhad-officially-becomes-2017-capital-of-islamic-culture)
 1. [Cover Image](https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1395/11/05/139511051458384659789303.jpg)

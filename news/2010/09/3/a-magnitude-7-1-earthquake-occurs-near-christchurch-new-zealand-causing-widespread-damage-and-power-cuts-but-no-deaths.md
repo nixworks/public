@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/3/a-magnitude-7-1-earthquake-occurs-near-christchurch-new-zealand-causing-widespread-damage-and-power-cuts-but-no-deaths.html)  [JSON](/news/2010/09/3/a-magnitude-7-1-earthquake-occurs-near-christchurch-new-zealand-causing-widespread-damage-and-power-cuts-but-no-deaths.json)  [XML](/news/2010/09/3/a-magnitude-7-1-earthquake-occurs-near-christchurch-new-zealand-causing-widespread-damage-and-power-cuts-but-no-deaths.xml)  
+
 ### [2010-09-3](/news/2010/09/3/index.md)
 
+##### 2010 Canterbury earthquake
 # A magnitude 7.1 earthquake occurs near Christchurch, New Zealand, causing widespread damage and power cuts but no deaths. 
 
 Christchurch Mayor Bob Parker is thankful there has been no loss of life but there had been considerable damage across the city and outlying areas. - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [Herald Sun](http://www.heraldsun.com.au/news/world/strong-earthquake-leaves-nz-trembling/story-e6frf7lf-1225914069084)
 2. [The New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10671049)

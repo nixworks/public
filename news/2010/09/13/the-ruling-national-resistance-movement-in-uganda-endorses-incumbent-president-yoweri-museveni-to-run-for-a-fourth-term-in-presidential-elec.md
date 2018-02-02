@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/13/the-ruling-national-resistance-movement-in-uganda-endorses-incumbent-president-yoweri-museveni-to-run-for-a-fourth-term-in-presidential-elec.html)  [JSON](/news/2010/09/13/the-ruling-national-resistance-movement-in-uganda-endorses-incumbent-president-yoweri-museveni-to-run-for-a-fourth-term-in-presidential-elec.json)  [XML](/news/2010/09/13/the-ruling-national-resistance-movement-in-uganda-endorses-incumbent-president-yoweri-museveni-to-run-for-a-fourth-term-in-presidential-elec.xml)  
+
 ### [2010-09-13](/news/2010/09/13/index.md)
 
+##### National Resistance Movement
 # The ruling National Resistance Movement in Uganda endorses incumbent President Yoweri Museveni to run for a fourth term in presidential elections in early 2011. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jpGC7mUQDfvo8fTwd1HyqKNfYzTg)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/13/c_13491993.htm)

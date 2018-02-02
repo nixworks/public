@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/26/a-wisconsin-girl-becomes-the-first-person-to-survive-rabies-without-a-vaccination-after-an-experimental-treatment-using-an-induced-coma-an.html)  [JSON](/news/2004/11/26/a-wisconsin-girl-becomes-the-first-person-to-survive-rabies-without-a-vaccination-after-an-experimental-treatment-using-an-induced-coma-an.json)  [XML](/news/2004/11/26/a-wisconsin-girl-becomes-the-first-person-to-survive-rabies-without-a-vaccination-after-an-experimental-treatment-using-an-induced-coma-an.xml)  
+
 ### [2004-11-26](/news/2004/11/26/index.md)
 
+##### Wisconsin
 #  A Wisconsin girl becomes the first person to survive rabies without a vaccination, after an experimental treatment using an induced coma and a cocktail of anti-viral drugs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TheDenverChannel](http://www.thedenverchannel.com/health/3947049/detail.html)
 

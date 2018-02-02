@@ -1,25 +1,29 @@
+
+Formats: [HTML](/news/2007/09/5/the-military-times-reports-that-a-united-states-air-force-b-52-bomber-carried-six-nuclear-warheads-from-minot-air-force-base-north-dakot.html)  [JSON](/news/2007/09/5/the-military-times-reports-that-a-united-states-air-force-b-52-bomber-carried-six-nuclear-warheads-from-minot-air-force-base-north-dakot.json)  [XML](/news/2007/09/5/the-military-times-reports-that-a-united-states-air-force-b-52-bomber-carried-six-nuclear-warheads-from-minot-air-force-base-north-dakot.xml)  
+
 ### [2007-09-5](/news/2007/09/5/index.md)
 
+##### Military Times
 #  The "Military Times" reports that a United States Air Force B-52 bomber carried six nuclear warheads from Minot Air Force Base, North Dakota, to Barksdale Air Force Base, Louisiana, in violation of rules concerning the handling of nuclear weapons. In addition, the bombs were not reported as missing from the Minot weapons inventory. The squadron commander was relieved of his position, but Representative Ike Skelton says that his committee would investigate the incident. 
 
 A B-52 bomber was mistakenly armed with six nuclear warheads and flown for more than three hours across several states last week, prompting an Air Force investigation and the firing of one commander, Pentagon officials said Wednesday. 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/20427730/?GT1=10357)
 2. [New York Times](http://thelede.blogs.nytimes.com/2007/09/05/loose-nukes-warheads-in-the-sky/?hp)
 2. [Cover Image](http://media2.s-nbcnews.com/j/msnbc/Components/Video/070905/n_pwms_nukes_070905.standard.jpg)
 
-### Related:
-
-1. [ Four United States Air Force officers are relieved of command following an investigation of an incident where live nuclear warheads were carried on a B-52 bomber from Minot Air Force Base in North Dakota to Barksdale Air Force Base in Louisiana. ](/news/2007/10/19/four-united-states-air-force-officers-are-relieved-of-command-following-an-investigation-of-an-incident-where-live-nuclear-warheads-were-ca.md) _Context: Air Force, B-52_
-2. [United Launch Alliance says it was not given an opportunity to bid against rival SpaceX for the upcoming launch of the U.S. Air Force miniature X-37B space plane. The Air Force declined to comment. ](/news/2017/06/9/united-launch-alliance-says-it-was-not-given-an-opportunity-to-bid-against-rival-spacex-for-the-upcoming-launch-of-the-u-s-air-force-miniat.md) _Context: Air Force_
-3. [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.md) _Context: United States House of Representatives_
-4. [The United States Air Force's unmanned spacecraft X-37B successfully lands at Kennedy Space Center's Shuttle Landing Facility in Merritt Island, Florida, after spending a record-breaking 718 days in orbit. The landing was responsible for reports of sonic booms across central Florida. ](/news/2017/05/7/the-united-states-air-force-s-unmanned-spacecraft-x-37b-successfully-lands-at-kennedy-space-center-s-shuttle-landing-facility-in-merritt-isl.md) _Context: Air Force_
-5. [The Republican-controlled United States House of Representatives votes in favor of the repeal of the 2010 Patient Protection and Affordable Care Act and passage of the House's 2017 American Health Care Act, by a narrow, 217-213 vote. Twenty Republicans and all Democrats opposed the bill, which now heads to the United States Senate for its legislative action. ](/news/2017/05/4/the-republican-controlled-united-states-house-of-representatives-votes-in-favor-of-the-repeal-of-the-2010-patient-protection-and-affordable.md) _Context: United States House of Representatives_
-
 ### Changes:
 
 1. [ The ''Military Times'' reports that a United States Air Force B-52 bomber carried six nuclear warheads from Minot Air Force Base, North Dakota, to Barksdale Air Force Base, Louisiana, in violation of rules concerning the handling of nuclear weapons. In addition, the bombs were not reported as missing from the Minot weapons inventory. The squadron commander was relieved of his position, but Representative Ike Skelton says that his committee would investigate the incident. ](/news/2007/09/5/the-military-times-reports-that-a-united-states-air-force-b-52-bomber-carried-six-nuclear-warheads-from-minot-air-force-base-north-dak.md) _2017-08-25 03:20:51 (First version)_
 1. [ The "Military Times" reports that a United States Air Force B-52 bomber carried six nuclear warheads from Minot Air Force Base, North Dakota, to Barksdale Air Force Base, Louisiana, in violation of rules concerning the handling of nuclear weapons. In addition, the bombs were not reported as missing from the Minot weapons inventory. The squadron commander was relieved of his position, but Representative Ike Skelton says that his committee would investigate the incident. ](/news/2007/09/5/the-military-times-reports-that-a-united-states-air-force-b-52-bomber-carried-six-nuclear-warheads-from-minot-air-force-base-north-dakot.md) _(Current version)_
+
+### Related:
+
+1. [ Four United States Air Force officers are relieved of command following an investigation of an incident where live nuclear warheads were carried on a B-52 bomber from Minot Air Force Base in North Dakota to Barksdale Air Force Base in Louisiana. ](/news/2007/10/19/four-united-states-air-force-officers-are-relieved-of-command-following-an-investigation-of-an-incident-where-live-nuclear-warheads-were-ca.md) _Context: B-52, United States Air Force_
+2. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _Context: House of Representatives_
+3. [An Atlas V rocket successfully deployed the fourth SBIRS satellite for the United States Air Force. This launch completes the geosynchronous segment of SBIRS and provides a global missile detection system for the United States. ](/news/2018/01/19/an-atlas-v-rocket-successfully-deployed-the-fourth-sbirs-satellite-for-the-united-states-air-force-this-launch-completes-the-geosynchronous.md) _Context: United States Air Force_
+4. [The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program, permitted by Section 702. Changes to the program will require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. ](/news/2018/01/11/the-united-states-house-of-representatives-passes-a-bill-to-reauthorize-for-a-period-of-six-years-a-key-foreign-intelligence-collection-pr.md) _Context: House of Representatives_
+5. [Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations that he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. ](/news/2017/12/8/trent-franks-a-united-states-representative-for-arizona-s-8th-congressional-district-announces-his-immediate-resignation-following-allega.md) _Context: House of Representatives_

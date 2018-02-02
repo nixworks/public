@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/13/sri-lanka-convicts-ex-army-chief-sarath-fonseka-on-charges-of-engaging-in-politics-while-on-active-service.html)  [JSON](/news/2010/08/13/sri-lanka-convicts-ex-army-chief-sarath-fonseka-on-charges-of-engaging-in-politics-while-on-active-service.json)  [XML](/news/2010/08/13/sri-lanka-convicts-ex-army-chief-sarath-fonseka-on-charges-of-engaging-in-politics-while-on-active-service.xml)  
+
 ### [2010-08-13](/news/2010/08/13/index.md)
 
+##### Sri Lanka
 # Sri Lanka convicts ex-army chief Sarath Fonseka on charges of engaging in politics while on active service. 
 
 Military court finds Sarath Fonseka guilty of meddling in politics while in uniform.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g8xCD44vm9Zyk7ZH41sKJOPo0KLw)
 2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/201081395730973935.html)

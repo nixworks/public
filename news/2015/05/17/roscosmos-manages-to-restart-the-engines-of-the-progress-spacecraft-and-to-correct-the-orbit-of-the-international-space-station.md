@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/05/17/roscosmos-manages-to-restart-the-engines-of-the-progress-spacecraft-and-to-correct-the-orbit-of-the-international-space-station.html)  [JSON](/news/2015/05/17/roscosmos-manages-to-restart-the-engines-of-the-progress-spacecraft-and-to-correct-the-orbit-of-the-international-space-station.json)  [XML](/news/2015/05/17/roscosmos-manages-to-restart-the-engines-of-the-progress-spacecraft-and-to-correct-the-orbit-of-the-international-space-station.xml)  
+
 ### [2015-05-17](/news/2015/05/17/index.md)
 
+##### Russian
 # Roscosmos manages to restart the engines of the Progress spacecraft and to correct the orbit of the International Space Station. 
 
 Russia on Monday managed on a second attempt to restart the engines of a Progress spacecraft attached to the International Space Station (ISS) and shift the station&#x27;s orbit. The success of the manoeuvre is a much-needed scrap of good news for Russia&#x27;s beleaguered space programme after a spate
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/russia-successful-second-attempt-start-progress-spacecraft-013723064.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/yao37PaHQ_ZtthV5oY6vVQ--/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/2387fa7579bd3c32dffb31c780c32af7932c3664.jpg)
+1. [AFP via Yahoo! News](https://news.yahoo.com/russia-successful-second-attempt-start-progress-spacecraft-013723064.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/ww4OZK_Oe6yLTmKCoxTesA--~B/aD02ODE7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/2387fa7579bd3c32dffb31c780c32af7932c3664.jpg)
 
 ### Related:
 

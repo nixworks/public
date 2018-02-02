@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/11/a-french-journalist-is-killed-along-with-eight-others-by-a-mortar-in-the-syrian-city-of-homs.html)  [JSON](/news/2012/01/11/a-french-journalist-is-killed-along-with-eight-others-by-a-mortar-in-the-syrian-city-of-homs.json)  [XML](/news/2012/01/11/a-french-journalist-is-killed-along-with-eight-others-by-a-mortar-in-the-syrian-city-of-homs.xml)  
+
 ### [2012-01-11](/news/2012/01/11/index.md)
 
+##### France
 # A French journalist is killed, along with eight others, by a mortar in the Syrian city of Homs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/01/11/world/meast/syria-unrest/index.html?hpt=wo_c1)
 

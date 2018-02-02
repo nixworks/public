@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/29/the-taliban-release-twelve-south-korean-hostages-of-the-19-they-have-been-holding.html)  [JSON](/news/2007/08/29/the-taliban-release-twelve-south-korean-hostages-of-the-19-they-have-been-holding.json)  [XML](/news/2007/08/29/the-taliban-release-twelve-south-korean-hostages-of-the-19-they-have-been-holding.xml)  
+
 ### [2007-08-29](/news/2007/08/29/index.md)
 
+##### Taliban
 #  The Taliban release twelve South Korean hostages of the 19 they have been holding. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6968179.stm)
 
@@ -14,5 +18,5 @@
 1. [ 2007 South Korean hostage crisis in Afghanistan: The Taliban releases the remaining South Korean hostages. ](/news/2007/08/30/2007-south-korean-hostage-crisis-in-afghanistan-the-taliban-releases-the-remaining-south-korean-hostages.md) _Context: 2007 South Korean hostage crisis in Afghanistan, Taliban_
 2. [ South Korean hostage crisis: Officials in South Korea's Blue House claim that the Taliban has agreed to release 19 South Korean hostages. ](/news/2007/08/28/south-korean-hostage-crisis-officials-in-south-korea-s-blue-house-claim-that-the-taliban-has-agreed-to-release-19-south-korean-hostages.md) _Context: 2007 South Korean hostage crisis in Afghanistan, Taliban_
 3. [ The Taliban releases two of the 23 South Korean hostages kidnapped three weeks ago. ](/news/2007/08/13/the-taliban-releases-two-of-the-23-south-korean-hostages-kidnapped-three-weeks-ago.md) _Context: 2007 South Korean hostage crisis in Afghanistan, Taliban_
-4. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Taliban_
-5. [Pakistani troops rescue Joshua Boyle and Caitlan Coleman, who have been held captive since 2012, and their three children from the Taliban. ](/news/2017/10/11/pakistani-troops-rescue-joshua-boyle-and-caitlan-coleman-who-have-been-held-captive-since-2012-and-their-three-children-from-the-taliban.md) _Context: Taliban_
+4. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Taliban_
+5. [Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. ](/news/2018/01/21/six-insurgents-kill-at-least-18-people-including-4-afghans-and-14-foreigners-in-a-13-hour-gun-battle-the-afghan-interior-ministry-says-th.md) _Context: Taliban_

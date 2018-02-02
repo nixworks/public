@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/12/11/burundias-army-repels-attacks-on-military-barracks-in-the-capital-bujumbura-in-the-worst-violence-since-this-spring-s-unrest-that-develo.html)  [JSON](/news/2015/12/11/burundias-army-repels-attacks-on-military-barracks-in-the-capital-bujumbura-in-the-worst-violence-since-this-spring-s-unrest-that-develo.json)  [XML](/news/2015/12/11/burundias-army-repels-attacks-on-military-barracks-in-the-capital-bujumbura-in-the-worst-violence-since-this-spring-s-unrest-that-develo.xml)  
+
 ### [2015-12-11](/news/2015/12/11/index.md)
 
+##### 2015 Burundian unrest
 # Burundi's army repels attacks on military barracks in the capital, Bujumbura, in the worst violence since this spring's unrest that developed after President Pierre Nkurunziza decided to seek a third term in office. According to an army spokesman, at least 12 gunmen are killed and 20 captured. Reports that at least five soldiers have been killed are denied by the army, which says the soldiers were wounded. Two southern sites, a police station and an army camp, were also attacked, with no report on casualties. Kenya Airways and RwandAir cancels its flights to Bujumbura. 
 
 Burundi’s army said it repelled attacks on military barracks in the capital, Bujumbura, in the city’s worst violence since a failed coup in May.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://america.aljazeera.com/articles/2015/12/11/burundi-military-sites-attacked.html)
-2. [Bloomberg](http://www.bloomberg.com/news/articles/2015-12-11/burundi-capital-rocked-by-gunfire-amid-reports-dozens-killed)
+2. [Bloomberg](https://www.bloomberg.com/news/articles/2015-12-11/burundi-capital-rocked-by-gunfire-amid-reports-dozens-killed)
 2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
+
+### Changes:
+
+1. [2015 Burundian unrest: Burundi-s army repels attacks on military barracks in the capital, Bujumbura, in the worst violence since this spring's unrest that developed after President Pierre Nkurunziza decided to seek a third term in office. According to an army spokesman, at least 12 gunmen are killed and 20 captured. Reports that at least five soldiers have been killed are denied by the army, which says the soldiers were wounded. Two southern sites, a police station and an army camp, were also attacked, with no report on casualties. Kenya Airways and RwandAir cancels its flights to Bujumbura. ](/news/2015/12/11/2015-burundian-unrest-burundi-s-army-repels-attacks-on-military-barracks-in-the-capital-bujumbura-in-the-worst-violence-since-this-spri.md) _2017-08-27 03:44:19 (First version)_
+1. [Burundi's army repels attacks on military barracks in the capital, Bujumbura, in the worst violence since this spring's unrest that developed after President Pierre Nkurunziza decided to seek a third term in office. According to an army spokesman, at least 12 gunmen are killed and 20 captured. Reports that at least five soldiers have been killed are denied by the army, which says the soldiers were wounded. Two southern sites, a police station and an army camp, were also attacked, with no report on casualties. Kenya Airways and RwandAir cancels its flights to Bujumbura. ](/news/2015/12/11/burundias-army-repels-attacks-on-military-barracks-in-the-capital-bujumbura-in-the-worst-violence-since-this-spring-s-unrest-that-develo.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Burundi’s army said it repelled attacks on military barracks in the capital, B
 3. [Burundi's President, Pierre Nkurunziza, says Burundians will fight against any African Union peacekeepers sent into the country in response to the ongoing crisis, "everyone has to respect Burundian borders," Nkurunziza said. The African Union said this earlier this month it was ready to send 5,000 peacekeepers to protect civilians caught up in months of violence. ](/news/2015/12/30/burundi-s-president-pierre-nkurunziza-says-burundians-will-fight-against-any-african-union-peacekeepers-sent-into-the-country-in-response.md) _Context: 2015 Burundian unrest, Pierre Nkurunziza_
 4. [The U.S. State Department issues a travel advisory for Burundi and advises its citizens there to leave as soon as possible due to the increased violence in the capital Bujumbura where 87 people were killed this weekend. Families of U.S. government personnel and non-emergency personnel have been ordered to leave immediately. ](/news/2015/12/13/the-u-s-state-department-issues-a-travel-advisory-for-burundi-and-advises-its-citizens-there-to-leave-as-soon-as-possible-due-to-the-increa.md) _Context: 2015 Burundian unrest, Bujumbura_
 5. [Burundi's army chief General Prime Niyongabo survives an assassination attempt after armed men attacked his motorcade on a busy road in the capital, Bujumbura. Six people are killed in the attack. ](/news/2015/09/11/burundi-s-army-chief-general-prime-niyongabo-survives-an-assassination-attempt-after-armed-men-attacked-his-motorcade-on-a-busy-road-in-the.md) _Context: 2015 Burundian unrest, Bujumbura_
-
-### Changes:
-
-1. [2015 Burundian unrest: Burundi-s army repels attacks on military barracks in the capital, Bujumbura, in the worst violence since this spring's unrest that developed after President Pierre Nkurunziza decided to seek a third term in office. According to an army spokesman, at least 12 gunmen are killed and 20 captured. Reports that at least five soldiers have been killed are denied by the army, which says the soldiers were wounded. Two southern sites, a police station and an army camp, were also attacked, with no report on casualties. Kenya Airways and RwandAir cancels its flights to Bujumbura. ](/news/2015/12/11/2015-burundian-unrest-burundi-s-army-repels-attacks-on-military-barracks-in-the-capital-bujumbura-in-the-worst-violence-since-this-spri.md) _2017-08-27 03:44:19 (First version)_
-1. [Burundi's army repels attacks on military barracks in the capital, Bujumbura, in the worst violence since this spring's unrest that developed after President Pierre Nkurunziza decided to seek a third term in office. According to an army spokesman, at least 12 gunmen are killed and 20 captured. Reports that at least five soldiers have been killed are denied by the army, which says the soldiers were wounded. Two southern sites, a police station and an army camp, were also attacked, with no report on casualties. Kenya Airways and RwandAir cancels its flights to Bujumbura. ](/news/2015/12/11/burundias-army-repels-attacks-on-military-barracks-in-the-capital-bujumbura-in-the-worst-violence-since-this-spring-s-unrest-that-develo.md) _(Current version)_

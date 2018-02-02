@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/09/4/israeli-prime-minister-benjamin-netanyahu-is-to-approve-new-settlements-in-the-west-bank-before-a-building-freeze.html)  [JSON](/news/2009/09/4/israeli-prime-minister-benjamin-netanyahu-is-to-approve-new-settlements-in-the-west-bank-before-a-building-freeze.json)  [XML](/news/2009/09/4/israeli-prime-minister-benjamin-netanyahu-is-to-approve-new-settlements-in-the-west-bank-before-a-building-freeze.xml)  
+
 ### [2009-09-4](/news/2009/09/4/index.md)
 
+##### Israel
 #  Israeli Prime Minister Benjamin Netanyahu is to approve new settlements in the West Bank before a building freeze. 
 
 A plan to approve new West Bank construction before a building freeze drew protests from the White House.
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5ioi_0jtO9RjMwPNRoXNCndRPRq3gD9AGE0TO0)
 2. [Ha'aretz](http://www.haaretz.com/hasen/spages/1112443.html)
-3. [New York Times](http://www.nytimes.com/2009/09/05/world/middleeast/05mideast.html?hp)
+3. [New York Times](https://www.nytimes.com/2009/09/05/world/middleeast/05mideast.html?hp)
 3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

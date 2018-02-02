@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/20/a-u-s-soldier-who-urinated-on-the-corpse-of-a-dead-afghan-combatant-is-sentenced-to-30-days-in-jail-after-admitting-his-action-at-a-court-m.html)  [JSON](/news/2012/12/20/a-u-s-soldier-who-urinated-on-the-corpse-of-a-dead-afghan-combatant-is-sentenced-to-30-days-in-jail-after-admitting-his-action-at-a-court-m.json)  [XML](/news/2012/12/20/a-u-s-soldier-who-urinated-on-the-corpse-of-a-dead-afghan-combatant-is-sentenced-to-30-days-in-jail-after-admitting-his-action-at-a-court-m.xml)  
+
 ### [2012-12-20](/news/2012/12/20/index.md)
 
+##### U.S.
 # A U.S. soldier who urinated on the corpse of a dead Afghan combatant is sentenced to 30 days in jail after admitting his action at a court martial. Reports suggest he will not be sent to jail because of a plea deal reached with military prosecutors. 
 
 A US Marine is reduced in ranks and forfeits $500 pay after admitting urinating on the body of a dead Afghan combatant.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-20807182)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57838000/jpg/_57838740_reu_grab1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/7/the-colombian-air-force-launches-an-aerial-attack-killing-13-farc-rebels-including-two-rebel-leaders.html)  [JSON](/news/2010/07/7/the-colombian-air-force-launches-an-aerial-attack-killing-13-farc-rebels-including-two-rebel-leaders.json)  [XML](/news/2010/07/7/the-colombian-air-force-launches-an-aerial-attack-killing-13-farc-rebels-including-two-rebel-leaders.xml)  
+
 ### [2010-07-7](/news/2010/07/7/index.md)
 
+##### Colombian Air Force
 # The Colombian Air Force launches an aerial attack killing 13 FARC rebels, including two rebel leaders. 
 
 Thirteen Farc rebels are killed in northern Colombia, an operation President Uribe calls a &quot;message&quot; to the Farc leadership.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/world/latin_america/10534088.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

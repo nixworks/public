@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/3/south-korea-and-japan-temporarily-halt-some-military-cooperation-programs-in-a-long-running-dispute-over-control-of-the-liancourt-rocks-sou.html)  [JSON](/news/2012/09/3/south-korea-and-japan-temporarily-halt-some-military-cooperation-programs-in-a-long-running-dispute-over-control-of-the-liancourt-rocks-sou.json)  [XML](/news/2012/09/3/south-korea-and-japan-temporarily-halt-some-military-cooperation-programs-in-a-long-running-dispute-over-control-of-the-liancourt-rocks-sou.xml)  
+
 ### [2012-09-3](/news/2012/09/3/index.md)
 
+##### South Korea
 # South Korea and Japan temporarily halt some military cooperation programs in a long-running dispute over control of the Liancourt Rocks. South Korea's first fleet plans a "biannual" drill around the area from September 7 to 11. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNTV via Xinhua](http://news.xinhuanet.com/english/video/2012-09/03/c_131824000.htm)
 2. [The Mainichi](http://mainichi.jp/english/english/newsselect/news/20120903p2g00m0dm065000c.html)

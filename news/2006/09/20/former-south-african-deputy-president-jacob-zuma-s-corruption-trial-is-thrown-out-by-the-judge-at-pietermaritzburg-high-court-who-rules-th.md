@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/20/former-south-african-deputy-president-jacob-zuma-s-corruption-trial-is-thrown-out-by-the-judge-at-pietermaritzburg-high-court-who-rules-th.html)  [JSON](/news/2006/09/20/former-south-african-deputy-president-jacob-zuma-s-corruption-trial-is-thrown-out-by-the-judge-at-pietermaritzburg-high-court-who-rules-th.json)  [XML](/news/2006/09/20/former-south-african-deputy-president-jacob-zuma-s-corruption-trial-is-thrown-out-by-the-judge-at-pietermaritzburg-high-court-who-rules-th.xml)  
+
 ### [2006-09-20](/news/2006/09/20/index.md)
 
+##### South Africa
 #  Former South African Deputy President Jacob Zuma's corruption trial is thrown out by the judge at Pietermaritzburg High Court, who rules that the State's case goes "from one disaster to another" and failed to follow proper procedure. This is thought likely to improve Zuma's chances of succeeding President Thabo Mbeki, but prosecutors have said that they will refile charges later. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mail & Guardian Online](http://www.mg.co.za/articlepage.aspx?area=/zuma_report/zuma_news/&articleid=284577)
 

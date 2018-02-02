@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/10/china-reports-that-95-of-post-earthquake-reconstruction-is-complete-in-sichuan-three-years-after-a-deadly-earthquake-in-a-victory-for-t.html)  [JSON](/news/2011/05/10/china-reports-that-95-of-post-earthquake-reconstruction-is-complete-in-sichuan-three-years-after-a-deadly-earthquake-in-a-victory-for-t.json)  [XML](/news/2011/05/10/china-reports-that-95-of-post-earthquake-reconstruction-is-complete-in-sichuan-three-years-after-a-deadly-earthquake-in-a-victory-for-t.xml)  
+
 ### [2011-05-10](/news/2011/05/10/index.md)
 
+##### China
 # China reports that 95% of post-earthquake reconstruction is complete in Sichuan, three years after a deadly earthquake, in a "victory" for the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jbk8KqzaevC0dVbz6M1r7ousoHrw?docId=CNG.6ddcbc57a3d9d10ad0e2f7b757e9b37a.381)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20110510/news_20110510_56_754306.htm)

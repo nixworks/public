@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/30/two-hong-kong-youngspiration-party-legislative-
 
 ### [2016-11-30](/news/2016/11/30/index.md)
 
+##### Hong Kong Legislative Council oath-taking controversy
 # Two Hong Kong Youngspiration party Legislative Council election victors lose their appeal to take their seats in parliament by a High Court three-judge panel. Tomorrow, the High Court will hear the independence supporters' petition for a hearing by the Court of Final Appeal. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/7/in-tennis-ana-ivanovic-defeats-dinara-safina-to-win-the-french-open.html)  [JSON](/news/2008/06/7/in-tennis-ana-ivanovic-defeats-dinara-safina-to-win-the-french-open.json)  [XML](/news/2008/06/7/in-tennis-ana-ivanovic-defeats-dinara-safina-to-win-the-french-open.xml)  
+
 ### [2008-06-7](/news/2008/06/7/index.md)
 
+##### tennis
 #  In tennis, Ana Ivanovic defeats Dinara Safina to win the French Open. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports.espn.go.com/sports/tennis/news/story?id=3430725)
 1. [Cover Image](http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png)

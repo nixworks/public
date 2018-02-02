@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/12/the-chinese-foreign-ministry-warns-it-has-intelligence-indicating-east-turkestan-islamic-movement-terrorists-will-launch-an-attack-against.html)  [JSON](/news/2007/01/12/the-chinese-foreign-ministry-warns-it-has-intelligence-indicating-east-turkestan-islamic-movement-terrorists-will-launch-an-attack-against.json)  [XML](/news/2007/01/12/the-chinese-foreign-ministry-warns-it-has-intelligence-indicating-east-turkestan-islamic-movement-terrorists-will-launch-an-attack-against.xml)  
+
 ### [2007-01-12](/news/2007/01/12/index.md)
 
+##### Chinese Foreign Ministry spokesperson
 #  The Chinese Foreign Ministry warns it has intelligence indicating East Turkestan Islamic Movement terrorists will launch an attack against China from Kyrgyzstan. Security personnel along the border between the two countries is increased. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFE/RL](http://www.rferl.org/featuresarticle/2007/1/28BAA744-5A99-4808-9786-1B13057289FC.html)
 

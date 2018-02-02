@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/29/cuban-officials-are-investigating-who-is-responsible-for-altering-a-photograph-of-fidel-castro-on-the-front-page-of-the-official-government.html)  [JSON](/news/2003/12/29/cuban-officials-are-investigating-who-is-responsible-for-altering-a-photograph-of-fidel-castro-on-the-front-page-of-the-official-government.json)  [XML](/news/2003/12/29/cuban-officials-are-investigating-who-is-responsible-for-altering-a-photograph-of-fidel-castro-on-the-front-page-of-the-official-government.xml)  
+
 ### [2003-12-29](/news/2003/12/29/index.md)
 
+##### Cuba
 # Cuban officials are investigating who is responsible for altering a photograph of Fidel Castro on the front page of the official government newspaper, "Granma", to make him look like Adolf Hitler. [http:--www.guardian.co.uk-cuba-story-0,11983,1113857,00.html]
 
 

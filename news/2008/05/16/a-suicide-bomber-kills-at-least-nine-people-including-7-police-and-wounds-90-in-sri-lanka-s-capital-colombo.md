@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/16/a-suicide-bomber-kills-at-least-nine-people-including-7-police-and-wounds-90-in-sri-lanka-s-capital-colombo.html)  [JSON](/news/2008/05/16/a-suicide-bomber-kills-at-least-nine-people-including-7-police-and-wounds-90-in-sri-lanka-s-capital-colombo.json)  [XML](/news/2008/05/16/a-suicide-bomber-kills-at-least-nine-people-including-7-police-and-wounds-90-in-sri-lanka-s-capital-colombo.xml)  
+
 ### [2008-05-16](/news/2008/05/16/index.md)
 
+##### Sri Lanka
 #  A suicide bomber kills at least nine people, including 7 police, and wounds 90 in Sri Lanka's capital Colombo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7404147.stm)
 

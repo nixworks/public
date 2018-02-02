@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/12/a-helicopter-from-the-saudi-led-coalition-bombs
 
 ### [2017-02-12](/news/2017/02/12/index.md)
 
+##### Yemeni Civil War (2015-present)
 # A helicopter from the Saudi-led coalition bombs a vehicle outside Aden International Airport, wounding at least three Yemeni soldiers. 
 
  An Apache helicopter from a Saudi-led military coalition wounded three Yemeni soldiers when it fired a missile at a military vehicle outside Aden International

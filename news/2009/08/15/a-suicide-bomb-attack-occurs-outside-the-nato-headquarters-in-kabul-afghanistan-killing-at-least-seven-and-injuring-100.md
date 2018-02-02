@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/15/a-suicide-bomb-attack-occurs-outside-the-nato-headquarters-in-kabul-afghanistan-killing-at-least-seven-and-injuring-100.html)  [JSON](/news/2009/08/15/a-suicide-bomb-attack-occurs-outside-the-nato-headquarters-in-kabul-afghanistan-killing-at-least-seven-and-injuring-100.json)  [XML](/news/2009/08/15/a-suicide-bomb-attack-occurs-outside-the-nato-headquarters-in-kabul-afghanistan-killing-at-least-seven-and-injuring-100.xml)  
+
 ### [2009-08-15](/news/2009/08/15/index.md)
 
+##### suicide bomb
 #  A suicide bomb attack occurs outside the NATO headquarters in Kabul, Afghanistan, killing at least seven and injuring 100. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RTHK](http://www.rthk.org.hk/rthk/news/einternational/news.htm?einternational&20090815&56&604775)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article6797486.ece)

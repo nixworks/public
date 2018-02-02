@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/7/argentina-signs-an-energy-security-treaty-with-venezuela-in-buenos-aires.html)  [JSON](/news/2007/08/7/argentina-signs-an-energy-security-treaty-with-venezuela-in-buenos-aires.json)  [XML](/news/2007/08/7/argentina-signs-an-energy-security-treaty-with-venezuela-in-buenos-aires.xml)  
+
 ### [2007-08-7](/news/2007/08/7/index.md)
 
+##### Argentina
 #  Argentina signs an "energy security treaty" with Venezuela in Buenos Aires. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6936201.stm)
 

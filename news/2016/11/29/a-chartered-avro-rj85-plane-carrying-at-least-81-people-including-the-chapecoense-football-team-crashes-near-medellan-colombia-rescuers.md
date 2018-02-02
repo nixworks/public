@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/29/a-chartered-avro-rj85-plane-carrying-at-least-8
 
 ### [2016-11-29](/news/2016/11/29/index.md)
 
+##### LaMia Airlines Flight 2933
 # A chartered Avro RJ85 plane carrying at least 81 people, including the Chapecoense football team, crashes near Medellin, Colombia. Rescuers report at least six survivors have been found in the wreckage. The 2016 Copa Sudamericana Finals are suspended. 
 
 A plane carrying a Brazilian football team crashes in Colombia, killing 71 people on board.
@@ -27,4 +28,4 @@ A plane carrying a Brazilian football team crashes in Colombia, killing 71 peopl
 2. [The BBC reports that leaked audio recordings of air traffic tower tapes indicate that the LaMia Airlines flight was running out of fuel near the Colombian city of Medellin. ](/news/2016/11/30/the-bbc-reports-that-leaked-audio-recordings-of-air-traffic-tower-tapes-indicate-that-the-lamia-airlines-flight-was-running-out-of-fuel-near.md) _Context: Colombia, LaMia Airlines Flight 2933_
 3. [ At least five people are killed and 13 are missing after a landslide crushes homes in a poor area of the city of Medellin in Colombia. ](/news/2008/05/31/at-least-five-people-are-killed-and-13-are-missing-after-a-landslide-crushes-homes-in-a-poor-area-of-the-city-of-medellan-in-colombia.md) _Context: Colombia, Medellin_
 4. [ A U.S. Federal Air Marshal fatally shoots Rigoberto Alpizar on American Airlines Flight 924 in a jetway at Miami International Airport in Florida. Alpizar, a U.S. citizen who had disembarked from an American Airlines flight from Medellin, Colombia, claimed to have a bomb. No explosive was found. ](/news/2005/12/7/a-u-s-federal-air-marshal-fatally-shoots-rigoberto-alpizar-on-american-airlines-flight-924-in-a-jetway-at-miami-international-airport-in-f.md) _Context: Colombia, Medellin_
-5. [Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. ](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-visit-in-early-2016-francis-promised-he-would-visit-the-south-american-country-once-a-civi.md) _Context: Colombia_
+5. [ A roadside bomb hits a United Nations Interim Force in Lebanon patrol, killing six Spanish-speaking peacekeepers (three of whom were Colombian) and injuring two others. ](/news/2018/06/24/a-roadside-bomb-hits-a-united-nations-interim-force-in-lebanon-patrol-killing-six-spanish-speaking-peacekeepers-three-of-whom-were-colomb.md) _Context: Colombia_

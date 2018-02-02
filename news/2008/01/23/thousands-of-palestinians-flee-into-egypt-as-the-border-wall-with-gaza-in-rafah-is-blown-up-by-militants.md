@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/23/thousands-of-palestinians-flee-into-egypt-as-the-border-wall-with-gaza-in-rafah-is-blown-up-by-militants.html)  [JSON](/news/2008/01/23/thousands-of-palestinians-flee-into-egypt-as-the-border-wall-with-gaza-in-rafah-is-blown-up-by-militants.json)  [XML](/news/2008/01/23/thousands-of-palestinians-flee-into-egypt-as-the-border-wall-with-gaza-in-rafah-is-blown-up-by-militants.xml)  
+
 ### [2008-01-23](/news/2008/01/23/index.md)
 
+##### Palestinians
 #  Thousands of Palestinians flee into Egypt, as the border wall with Gaza in Rafah is blown up by militants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5jD4YSkDPlclqd9dHvg2f0Ij18zEgD8UBF6680)
 2. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7204029.stm)

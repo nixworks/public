@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/15/the-brazilian-chamber-of-deputies-passes-a-controversial-bill-regulating-the-allocation-of-royalties-derived-from-that-countrya-s-oil-explor.html)  [JSON](/news/2013/08/15/the-brazilian-chamber-of-deputies-passes-a-controversial-bill-regulating-the-allocation-of-royalties-derived-from-that-countrya-s-oil-explor.json)  [XML](/news/2013/08/15/the-brazilian-chamber-of-deputies-passes-a-controversial-bill-regulating-the-allocation-of-royalties-derived-from-that-countrya-s-oil-explor.xml)  
+
 ### [2013-08-15](/news/2013/08/15/index.md)
 
+##### Brazil's Chamber of Deputies
 # The Brazilian Chamber of Deputies passes a controversial bill regulating the allocation of royalties derived from that country's oil exploration, when 75% of the money will only go to education and the other 25% only for health. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-23707449)
 2. [R7](http://noticias.r7.com/brasil/aprovado-projeto-que-destina-75-dos-royalties-do-petroleo-para-educacao-e-25-para-saude-14082013)

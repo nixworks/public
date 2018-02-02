@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/5/mandala-airlines-flight-091-a-mandala-airlines-flight-crashes-into-a-residential-area-of-the-indonesian-city-of-medan-killing-at-least-10.html)  [JSON](/news/2005/09/5/mandala-airlines-flight-091-a-mandala-airlines-flight-crashes-into-a-residential-area-of-the-indonesian-city-of-medan-killing-at-least-10.json)  [XML](/news/2005/09/5/mandala-airlines-flight-091-a-mandala-airlines-flight-crashes-into-a-residential-area-of-the-indonesian-city-of-medan-killing-at-least-10.xml)  
+
 ### [2005-09-5](/news/2005/09/5/index.md)
 
+##### Mandala Airlines Flight 091
 #  Mandala Airlines Flight 091: A Mandala Airlines flight crashes into a residential area of the Indonesian city of Medan, killing at least 100 passengers. Among the dead are the governor and former governor of Sumatra Utara, Rizal Nurdin and Raja Inal Siregar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/09/05/indonesia.plane/)
 

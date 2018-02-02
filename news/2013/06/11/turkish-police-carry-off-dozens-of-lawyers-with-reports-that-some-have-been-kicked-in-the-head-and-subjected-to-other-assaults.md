@@ -1,18 +1,28 @@
+
+Formats: [HTML](/news/2013/06/11/turkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-other-assaults.html)  [JSON](/news/2013/06/11/turkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-other-assaults.json)  [XML](/news/2013/06/11/turkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-other-assaults.xml)  
+
 ### [2013-06-11](/news/2013/06/11/index.md)
 
+##### Turkish police
 # Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. 
 
 Turkish police have taken several dozen lawyers into custody for joining the ongoing protests. The arrests in Istanbul come as police launched a crackdown on protesters in the city’s Taksim Square.
 
 
-### Source:
+### Sources:
 
 1. [AP via CBC News](http://www.cbc.ca/news/world/story/2013/06/11/turkey-taskin-square-istanbul-protests.html)
 2. [CNN](http://www.cnn.com/2013/06/11/world/europe/turkey-protests/index.html?hpt=wo_c1)
 3. [RT](http://rt.com/news/turkish-police-lawyers-courthouse-534/)
-4. [Reuters](http://www.reuters.com/video/2013/06/09/clashes-go-into-the-night-in-turkey?videoId=243227199)
+4. [Reuters](https://www.reuters.com/video/2013/06/09/clashes-go-into-the-night-in-turkey?videoId=243227199)
 5. [The Guardian](http://www.guardian.co.uk/world/2013/jun/11/turkey-recep-tayyip-erdogan-must-compromise)
 5. [Cover Image](https://img.rt.com/files/news/1f/61/60/00/istanbul-13.si.jpg)
+
+### Changes:
+
+1. [2013 protests in Turkey:Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. ](/news/2013/06/11/2013-protests-in-turkey-pturkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-ot.md) _2017-08-25 03:38:49 (First version)_
+2. [2013 protests in Turkey:: Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. ](/news/2013/06/11/2013-protests-in-turkey-turkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-o.md) _2017-08-27 03:39:02 (Update)_
+2. [Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. ](/news/2013/06/11/turkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-other-assaults.md) _(Current version)_
 
 ### Related:
 
@@ -21,9 +31,3 @@ Turkish police have taken several dozen lawyers into custody for joining the ong
 3. [ A car bomb attack on a Turkish gendarmerie in the town of Hani kills at least two people and injures 50. ](/news/2016/04/12/a-car-bomb-attack-on-a-turkish-gendarmerie-in-the-town-of-hani-kills-at-least-two-people-and-injures-50.md) _Context: Turkish police_
 4. [Turkish police fire tear gas at protesters outside the Istanbul headquarters of the "Zaman" newspaper which has been taken over by the Turkish government. ](/news/2016/03/5/turkish-police-fire-tear-gas-at-protesters-outside-the-istanbul-headquarters-of-the-zaman-newspaper-which-has-been-taken-over-by-the-turki.md) _Context: Turkish police_
 5. [Two Turkish police officers are killed and at least 14 others including several civilians are injured by a car bomb attack on a police station in the town of Nusaybin, near the Syria-Turkey border. The Kurdistan Workers Party (PKK) are blamed for the attack. ](/news/2016/03/4/two-turkish-police-officers-are-killed-and-at-least-14-others-including-several-civilians-are-injured-by-a-car-bomb-attack-on-a-police-stati.md) _Context: Turkish police_
-
-### Changes:
-
-1. [2013 protests in Turkey:Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. ](/news/2013/06/11/2013-protests-in-turkey-pturkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-ot.md) _2017-08-25 03:38:49 (First version)_
-2. [2013 protests in Turkey:: Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. ](/news/2013/06/11/2013-protests-in-turkey-turkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-o.md) _2017-08-27 03:39:02 (Update)_
-2. [Turkish police carry off dozens of lawyers, with reports that some have been kicked in the head and subjected to other assaults. ](/news/2013/06/11/turkish-police-carry-off-dozens-of-lawyers-with-reports-that-some-have-been-kicked-in-the-head-and-subjected-to-other-assaults.md) _(Current version)_

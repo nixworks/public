@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/1/luxembourg-takes-over-the-presidency-of-the-council-of-the-european-union.html)  [JSON](/news/2005/01/1/luxembourg-takes-over-the-presidency-of-the-council-of-the-european-union.json)  [XML](/news/2005/01/1/luxembourg-takes-over-the-presidency-of-the-council-of-the-european-union.xml)  
+
 ### [2005-01-1](/news/2005/01/1/index.md)
 
+##### Luxembourg
 #  Luxembourg takes over the Presidency of the Council of the European Union 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://seattlepi.com/national/apeurope_story.asp?category=1103&slug=EU%20Presidency%20Tsunami)
 

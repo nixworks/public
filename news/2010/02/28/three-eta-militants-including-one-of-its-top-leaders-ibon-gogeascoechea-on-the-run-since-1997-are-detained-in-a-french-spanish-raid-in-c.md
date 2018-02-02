@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/28/three-eta-militants-including-one-of-its-top-leaders-ibon-gogeascoechea-on-the-run-since-1997-are-detained-in-a-french-spanish-raid-in-c.html)  [JSON](/news/2010/02/28/three-eta-militants-including-one-of-its-top-leaders-ibon-gogeascoechea-on-the-run-since-1997-are-detained-in-a-french-spanish-raid-in-c.json)  [XML](/news/2010/02/28/three-eta-militants-including-one-of-its-top-leaders-ibon-gogeascoechea-on-the-run-since-1997-are-detained-in-a-french-spanish-raid-in-c.xml)  
+
 ### [2010-02-28](/news/2010/02/28/index.md)
 
+##### ETA
 # Three ETA militants, including one of its top leaders, Ibon Gogeascoechea, on the run since 1997, are detained in a French-Spanish raid in Cahan, Orne. 
 
 Ibon Gogeascoechea, the leader of armed Basque separatists ETA, was caught on Sunday in northern France, the Spanish Interior Ministry said, in what was the latest blow to a group weakened by hundreds of arrests.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8541422.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/france/7336794/ETA-leader-Ibon-Gogeascoechea-arrested-in-northern-France.html)

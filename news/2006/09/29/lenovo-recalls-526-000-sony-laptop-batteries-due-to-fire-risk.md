@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/29/lenovo-recalls-526-000-sony-laptop-batteries-due-to-fire-risk.html)  [JSON](/news/2006/09/29/lenovo-recalls-526-000-sony-laptop-batteries-due-to-fire-risk.json)  [XML](/news/2006/09/29/lenovo-recalls-526-000-sony-laptop-batteries-due-to-fire-risk.xml)  
+
 ### [2006-09-29](/news/2006/09/29/index.md)
 
+##### Lenovo
 #  Lenovo recalls 526,000 Sony laptop batteries due to fire risk. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2006-09/29/content_5154338.htm)
 

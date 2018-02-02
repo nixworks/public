@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/19/the-likud-primary-elections-for-the-party-s-leadership-between-the-candidates-benjamin-netanyahu-silvan-shalom-yisrael-katz-and-moshe-fey.html)  [JSON](/news/2005/12/19/the-likud-primary-elections-for-the-party-s-leadership-between-the-candidates-benjamin-netanyahu-silvan-shalom-yisrael-katz-and-moshe-fey.json)  [XML](/news/2005/12/19/the-likud-primary-elections-for-the-party-s-leadership-between-the-candidates-benjamin-netanyahu-silvan-shalom-yisrael-katz-and-moshe-fey.xml)  
+
 ### [2005-12-19](/news/2005/12/19/index.md)
 
+##### Likud
 #  The Likud primary elections for the party's leadership between the candidates Benjamin Netanyahu, Silvan Shalom, Yisrael Katz and Moshe Feyglin opened at 10:00 a.m. 
 
 Likud leadership candidate Benjamin Netanyahu says he will cooperate with Foreign Minister Shalom to lead Likud to accomplishments; more than 128,000 voters will cast their ballots at 180 locations and choose between Netanyahu, Shalom, Katz or Feiglin
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3186636,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/14/the-spanish-socialist-workers-party-psoe-wins-the-spanish-legislative-elections-the-outgoing-government-s-support-for-the-us-led-invasi.html)  [JSON](/news/2004/03/14/the-spanish-socialist-workers-party-psoe-wins-the-spanish-legislative-elections-the-outgoing-government-s-support-for-the-us-led-invasi.json)  [XML](/news/2004/03/14/the-spanish-socialist-workers-party-psoe-wins-the-spanish-legislative-elections-the-outgoing-government-s-support-for-the-us-led-invasi.xml)  
+
 ### [2004-03-14](/news/2004/03/14/index.md)
 
+##### Socialist Workers' Party
 #  The Spanish Socialist Workers' Party (PSOE) wins the Spanish Legislative elections. The outgoing government's support for the US-led invasion of Iraq was cited as a major factor leading to the Socialists' 43% plurality. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3511280.stm)
 2. [CNN](http://www.cnn.com/2004/WORLD/europe/03/14/spain.blasts.election/index.html)

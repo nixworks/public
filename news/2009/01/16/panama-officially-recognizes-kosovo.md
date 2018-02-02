@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/16/panama-officially-recognizes-kosovo.html)  [JSON](/news/2009/01/16/panama-officially-recognizes-kosovo.json)  [XML](/news/2009/01/16/panama-officially-recognizes-kosovo.xml)  
+
 ### [2009-01-16](/news/2009/01/16/index.md)
 
+##### Panama
 #  Panama officially recognizes Kosovo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Balkan Insight](http://www.balkaninsight.com/en/main/news/16012/)
 2. [Panama Ministry For Foreign Affairs](http://www.miregob.info/noticia.asp?elemid=3739)

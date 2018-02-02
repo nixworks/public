@@ -1,18 +1,21 @@
+
+Formats: [HTML](/news/2004/10/1/u-s-and-iraqi-government-forces-attack-the-insurgent-held-city-of-samarra-in-northern-iraq-u-s-officials-say-over-100-militants-were-kil.html)  [JSON](/news/2004/10/1/u-s-and-iraqi-government-forces-attack-the-insurgent-held-city-of-samarra-in-northern-iraq-u-s-officials-say-over-100-militants-were-kil.json)  [XML](/news/2004/10/1/u-s-and-iraqi-government-forces-attack-the-insurgent-held-city-of-samarra-in-northern-iraq-u-s-officials-say-over-100-militants-were-kil.xml)  
+
 ### [2004-10-1](/news/2004/10/1/index.md)
 
+##### Samarra
 #  U.S. and Iraqi government forces attack the insurgent-held city of Samarra in northern Iraq. U.S. officials say over 100 militants were killed and 37 were captured, while local doctors say at least 80 people died, and 100 were wounded, including civilians. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3705890.stm)
 2. [Canada.com News](http://www.canada.com/news/world/story.html?id=2a60bd15-45c2-491e-b761-cdaf957acf6a)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6387832)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6387832)
 4. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,10941391%255E1702,00.html)
 5. [The Independent](http://news.independent.co.uk/world/middle_east/story.jsp?story=567693)
-5. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/16/the-beatles-release-their-back-catalogue-on-itunes.html)  [JSON](/news/2010/11/16/the-beatles-release-their-back-catalogue-on-itunes.json)  [XML](/news/2010/11/16/the-beatles-release-their-back-catalogue-on-itunes.xml)  
+
 ### [2010-11-16](/news/2010/11/16/index.md)
 
+##### The Beatles
 # The Beatles release their back catalogue on iTunes. 
 
 &#039;It has been a long and winding road to get here,&#039; says Steve Jobs
 
 
-### Source:
+### Sources:
 
 1. [NME](http://www.nme.com/news/the-beatles/53858)
 2. [The Guardian](http://www.guardian.co.uk/music/2010/nov/16/beatles-apple-itunes-emi)

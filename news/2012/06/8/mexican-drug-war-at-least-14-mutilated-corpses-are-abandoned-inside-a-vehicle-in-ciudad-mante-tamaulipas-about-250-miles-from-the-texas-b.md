@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/8/mexican-drug-war-at-least-14-mutilated-corpses-are-abandoned-inside-a-vehicle-in-ciudad-mante-tamaulipas-about-250-miles-from-the-texas-b.html)  [JSON](/news/2012/06/8/mexican-drug-war-at-least-14-mutilated-corpses-are-abandoned-inside-a-vehicle-in-ciudad-mante-tamaulipas-about-250-miles-from-the-texas-b.json)  [XML](/news/2012/06/8/mexican-drug-war-at-least-14-mutilated-corpses-are-abandoned-inside-a-vehicle-in-ciudad-mante-tamaulipas-about-250-miles-from-the-texas-b.xml)  
+
 ### [2012-06-8](/news/2012/06/8/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: At least 14 mutilated corpses are abandoned inside a vehicle in Ciudad Mante, Tamaulipas, about 250 miles from the Texas border. The bodies are accompanied by a banner taking credit for the killings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/world_now/2012/06/dismembered-bodies-of-14-dumped-in-northern-mexican-state.html)
 

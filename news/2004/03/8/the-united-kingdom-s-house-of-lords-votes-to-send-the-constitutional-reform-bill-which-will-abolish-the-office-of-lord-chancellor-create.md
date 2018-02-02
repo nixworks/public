@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/8/the-united-kingdom-s-house-of-lords-votes-to-send-the-constitutional-reform-bill-which-will-abolish-the-office-of-lord-chancellor-create.html)  [JSON](/news/2004/03/8/the-united-kingdom-s-house-of-lords-votes-to-send-the-constitutional-reform-bill-which-will-abolish-the-office-of-lord-chancellor-create.json)  [XML](/news/2004/03/8/the-united-kingdom-s-house-of-lords-votes-to-send-the-constitutional-reform-bill-which-will-abolish-the-office-of-lord-chancellor-create.xml)  
+
 ### [2004-03-8](/news/2004/03/8/index.md)
 
+##### House of Lords
 #  The United Kingdom's House of Lords votes to send the Constitutional Reform Bill, which will abolish the office of Lord Chancellor, create a new Supreme Court, and create a Judicial Appointments Commission, to a select committee for scrutiny, defeating the government. Government MPs claim this is a "wrecking" move, and threaten to use the Parliament Acts 1911 and 1949 to force the measure through. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/3545959.stm)
 

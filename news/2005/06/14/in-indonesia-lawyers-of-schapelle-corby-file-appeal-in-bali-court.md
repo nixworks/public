@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/06/14/in-indonesia-lawyers-of-schapelle-corby-file-appeal-in-bali-court.html)  [JSON](/news/2005/06/14/in-indonesia-lawyers-of-schapelle-corby-file-appeal-in-bali-court.json)  [XML](/news/2005/06/14/in-indonesia-lawyers-of-schapelle-corby-file-appeal-in-bali-court.xml)  
+
 ### [2005-06-14](/news/2005/06/14/index.md)
 
+##### Indonesia
 #  In Indonesia, lawyers of Schapelle Corby file appeal in Bali court 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [Australia](http://www.theaustralian.news.com.au/common/story_page/0,5744,15618241%255E2702,00.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8784870)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8784870)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

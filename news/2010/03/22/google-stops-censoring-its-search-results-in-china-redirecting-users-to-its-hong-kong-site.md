@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/22/google-stops-censoring-its-search-results-in-china-redirecting-users-to-its-hong-kong-site.html)  [JSON](/news/2010/03/22/google-stops-censoring-its-search-results-in-china-redirecting-users-to-its-hong-kong-site.json)  [XML](/news/2010/03/22/google-stops-censoring-its-search-results-in-china-redirecting-users-to-its-hong-kong-site.xml)  
+
 ### [2010-03-22](/news/2010/03/22/index.md)
 
+##### Google
 # Google stops censoring its search results in China, redirecting users to its Hong Kong site. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/8581393.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/news/world/172419/google-ends-censorship-of-chinese-search-engine)

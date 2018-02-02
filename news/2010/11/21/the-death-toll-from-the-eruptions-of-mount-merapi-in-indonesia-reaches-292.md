@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/21/the-death-toll-from-the-eruptions-of-mount-merapi-in-indonesia-reaches-292.html)  [JSON](/news/2010/11/21/the-death-toll-from-the-eruptions-of-mount-merapi-in-indonesia-reaches-292.json)  [XML](/news/2010/11/21/the-death-toll-from-the-eruptions-of-mount-merapi-in-indonesia-reaches-292.xml)  
+
 ### [2010-11-21](/news/2010/11/21/index.md)
 
+##### eruptions
 # The death toll from the eruptions of Mount Merapi in Indonesia reaches 292. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/21/indonesia.volcano/index.html?eref=edition)
 

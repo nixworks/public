@@ -1,16 +1,25 @@
+
+Formats: [HTML](/news/2011/02/24/the-death-toll-from-the-earthquake-reaches-98-with-police-fearing-for-another-226.html)  [JSON](/news/2011/02/24/the-death-toll-from-the-earthquake-reaches-98-with-police-fearing-for-another-226.json)  [XML](/news/2011/02/24/the-death-toll-from-the-earthquake-reaches-98-with-police-fearing-for-another-226.xml)  
+
 ### [2011-02-24](/news/2011/02/24/index.md)
 
+##### 2011 Canterbury earthquake
 # The death toll from the earthquake reaches 98 with police fearing for another 226. 
 
 The death toll from the Christchurch earthquake is now 98 with police holding grave concerns for a further 226 people.
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10708400)
 2. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10708428)
 3. [Sydney Morning Herald](http://www.smh.com.au/world/quake-death-toll-now-98-with-200-more-missing-pm-20110224-1b5uz.html)
 3. [Cover Image](http://www.smh.com.au/content/dam/images/1/b/6/l/p/image.related.articleLeadwide.620x349.1b5uz.png/1298528073013.jpg)
+
+### Changes:
+
+1. [2011 Canterbury earthquake: The death toll from the earthquake reaches 98 with police fearing for another 226. ](/news/2011/02/24/2011-canterbury-earthquake-the-death-toll-from-the-earthquake-reaches-98-with-police-fearing-for-another-226.md) _2017-08-27 03:32:27 (First version)_
+1. [The death toll from the earthquake reaches 98 with police fearing for another 226. ](/news/2011/02/24/the-death-toll-from-the-earthquake-reaches-98-with-police-fearing-for-another-226.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +28,3 @@ The death toll from the Christchurch earthquake is now 98 with police holding gr
 3. [A search of ChristChurch Cathedral, Christchurch has found no bodies from the 2011 Canterbury earthquake despite fears that there were 22 bodies buried there - the confirmed death toll is 165. ](/news/2011/03/5/a-search-of-christchurch-cathedral-christchurch-has-found-no-bodies-from-the-2011-canterbury-earthquake-despite-fears-that-there-were-22-bo.md) _Context: 2011 Canterbury earthquake_
 4. [New Zealand authorities state that they have given up finding survivors from the 2011 Canterbury earthquake with the final death toll expected to be approximately 240. ](/news/2011/03/3/new-zealand-authorities-state-that-they-have-given-up-finding-survivors-from-the-2011-canterbury-earthquake-with-the-final-death-toll-expect.md) _Context: 2011 Canterbury earthquake_
 5. [A dust storm hits Christchurch, New Zealand, hampering the recovery efforts from the 2011 Canterbury earthquake. ](/news/2011/03/2/a-dust-storm-hits-christchurch-new-zealand-hampering-the-recovery-efforts-from-the-2011-canterbury-earthquake.md) _Context: 2011 Canterbury earthquake_
-
-### Changes:
-
-1. [2011 Canterbury earthquake: The death toll from the earthquake reaches 98 with police fearing for another 226. ](/news/2011/02/24/2011-canterbury-earthquake-the-death-toll-from-the-earthquake-reaches-98-with-police-fearing-for-another-226.md) _2017-08-27 03:32:27 (First version)_
-1. [The death toll from the earthquake reaches 98 with police fearing for another 226. ](/news/2011/02/24/the-death-toll-from-the-earthquake-reaches-98-with-police-fearing-for-another-226.md) _(Current version)_

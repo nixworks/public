@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2014/05/12/egyptian-security-forces-arrested-an-alleged-member-of-the-free-syrian-army-in-giza-s-imbaba-they-also-seized-a-number-of-explosives-they-c.html)  [JSON](/news/2014/05/12/egyptian-security-forces-arrested-an-alleged-member-of-the-free-syrian-army-in-giza-s-imbaba-they-also-seized-a-number-of-explosives-they-c.json)  [XML](/news/2014/05/12/egyptian-security-forces-arrested-an-alleged-member-of-the-free-syrian-army-in-giza-s-imbaba-they-also-seized-a-number-of-explosives-they-c.xml)  
+
 ### [2014-05-12](/news/2014/05/12/index.md)
 
+##### Egypt
 # Egyptian security forces arrested an alleged member of the Free Syrian Army in Giza's Imbaba. They also seized a number of explosives they claimed would allegedly be used in terror attacks in the country before the upcoming presidential elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Ahram](http://english.ahram.org.eg/NewsContent/1/64/101055/Egypt/Politics-/Security-forces-arrest-alleged-member-of-Free-Syri.aspx)
+
+### Changes:
+
+1. [Post-coup unrest in Egypt:Egyptian security forces arrested an alleged member of the Free Syrian Army in Giza's Imbaba. They also seized a number of explosives they claimed would allegedly be used in terror attacks in the country before the upcoming presidential elections. ](/news/2014/05/12/post-coup-unrest-in-egypt-pegyptian-security-forces-arrested-an-alleged-member-of-the-free-syrian-army-in-giza-s-imbaba-they-also-seized-a.md) _2017-08-25 03:40:24 (First version)_
+2. [Post-coup unrest in Egypt:: Egyptian security forces arrested an alleged member of the Free Syrian Army in Giza's Imbaba. They also seized a number of explosives they claimed would allegedly be used in terror attacks in the country before the upcoming presidential elections. ](/news/2014/05/12/post-coup-unrest-in-egypt-egyptian-security-forces-arrested-an-alleged-member-of-the-free-syrian-army-in-giza-s-imbaba-they-also-seized-a.md) _2017-08-27 03:40:41 (Update)_
+2. [Egyptian security forces arrested an alleged member of the Free Syrian Army in Giza's Imbaba. They also seized a number of explosives they claimed would allegedly be used in terror attacks in the country before the upcoming presidential elections. ](/news/2014/05/12/egyptian-security-forces-arrested-an-alleged-member-of-the-free-syrian-army-in-giza-s-imbaba-they-also-seized-a-number-of-explosives-they-c.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [An Egyptian accident in which a bus falls off of a bridge and plunges into a canal near Giza city kills at least 35 people. ](/news/2015/03/21/an-egyptian-accident-in-which-a-bus-falls-off-of-a-bridge-and-plunges-into-a-canal-near-giza-city-kills-at-least-35-people.md) _Context: Egypt, Giza_
 4. [Voters in Egypt go to the polls in the first of a two day voting period with Field Marshal Abdel Fattah el-Sisi expected to be elected. ](/news/2014/05/26/voters-in-egypt-go-to-the-polls-in-the-first-of-a-two-day-voting-period-with-field-marshal-abdel-fattah-el-sisi-expected-to-be-elected.md) _Context: Egypt, Egyptian presidential election, 2014_
 5. [Egyptian Field Marshal Abdel Fattah el-Sisi resigns from his position as Minister of Defense and announces his bid for the upcoming presidential election. ](/news/2014/03/26/egyptian-field-marshal-abdel-fattah-el-sisi-resigns-from-his-position-as-minister-of-defense-and-announces-his-bid-for-the-upcoming-presiden.md) _Context: Egypt, Egyptian presidential election, 2014_
-
-### Changes:
-
-1. [Post-coup unrest in Egypt:Egyptian security forces arrested an alleged member of the Free Syrian Army in Giza's Imbaba. They also seized a number of explosives they claimed would allegedly be used in terror attacks in the country before the upcoming presidential elections. ](/news/2014/05/12/post-coup-unrest-in-egypt-pegyptian-security-forces-arrested-an-alleged-member-of-the-free-syrian-army-in-giza-s-imbaba-they-also-seized-a.md) _2017-08-25 03:40:24 (First version)_
-2. [Post-coup unrest in Egypt:: Egyptian security forces arrested an alleged member of the Free Syrian Army in Giza's Imbaba. They also seized a number of explosives they claimed would allegedly be used in terror attacks in the country before the upcoming presidential elections. ](/news/2014/05/12/post-coup-unrest-in-egypt-egyptian-security-forces-arrested-an-alleged-member-of-the-free-syrian-army-in-giza-s-imbaba-they-also-seized-a.md) _2017-08-27 03:40:41 (Update)_
-2. [Egyptian security forces arrested an alleged member of the Free Syrian Army in Giza's Imbaba. They also seized a number of explosives they claimed would allegedly be used in terror attacks in the country before the upcoming presidential elections. ](/news/2014/05/12/egyptian-security-forces-arrested-an-alleged-member-of-the-free-syrian-army-in-giza-s-imbaba-they-also-seized-a-number-of-explosives-they-c.md) _(Current version)_

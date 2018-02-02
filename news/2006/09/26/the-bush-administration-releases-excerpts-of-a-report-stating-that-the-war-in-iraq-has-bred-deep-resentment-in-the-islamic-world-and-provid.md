@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/26/the-bush-administration-releases-excerpts-of-a-report-stating-that-the-war-in-iraq-has-bred-deep-resentment-in-the-islamic-world-and-provid.html)  [JSON](/news/2006/09/26/the-bush-administration-releases-excerpts-of-a-report-stating-that-the-war-in-iraq-has-bred-deep-resentment-in-the-islamic-world-and-provid.json)  [XML](/news/2006/09/26/the-bush-administration-releases-excerpts-of-a-report-stating-that-the-war-in-iraq-has-bred-deep-resentment-in-the-islamic-world-and-provid.xml)  
+
 ### [2006-09-26](/news/2006/09/26/index.md)
 
+##### George W. Bush administration
 #  The Bush administration releases excerpts of a report stating that the War in Iraq has bred deep resentment in the Islamic world and provided Islamist militants with a "cause clbre" that allowed the global movement to cultivate supporters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/N26212169.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/5/the-prime-minister-of-fiji-laisenia-qarase-warns-that-fiji-faces-the-imminent-threat-of-a-coup-as-troops-reportedly-surround-his-complex-l.html)  [JSON](/news/2006/12/5/the-prime-minister-of-fiji-laisenia-qarase-warns-that-fiji-faces-the-imminent-threat-of-a-coup-as-troops-reportedly-surround-his-complex-l.json)  [XML](/news/2006/12/5/the-prime-minister-of-fiji-laisenia-qarase-warns-that-fiji-faces-the-imminent-threat-of-a-coup-as-troops-reportedly-surround-his-complex-l.xml)  
+
 ### [2006-12-5](/news/2006/12/5/index.md)
 
+##### Prime Minister
 #  The Prime Minister of Fiji Laisenia Qarase warns that Fiji faces the imminent threat of a coup as troops reportedly surround his complex. Later, Fiji's military commander Frank Bainimarama confirmed that the military was in control of the country while the Foreign Minister of Australia Alexander Downer warned that Fiji would face international sanctions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200612/s1804858.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6208526.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/4/julius-malema-formerly-of-the-african-national-congress-youth-league-loses-an-appeal-against-a-decision-by-south-africa-s-ruling-african-n.html)  [JSON](/news/2012/02/4/julius-malema-formerly-of-the-african-national-congress-youth-league-loses-an-appeal-against-a-decision-by-south-africa-s-ruling-african-n.json)  [XML](/news/2012/02/4/julius-malema-formerly-of-the-african-national-congress-youth-league-loses-an-appeal-against-a-decision-by-south-africa-s-ruling-african-n.xml)  
+
 ### [2012-02-4](/news/2012/02/4/index.md)
 
+##### Julius Malema
 # Julius Malema, formerly of the African National Congress Youth League, loses an appeal against a decision by South Africa's ruling African National Congress party to suspend him. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/special-features/ancyl-leaders-convictions-upheld-1.1227309)
 

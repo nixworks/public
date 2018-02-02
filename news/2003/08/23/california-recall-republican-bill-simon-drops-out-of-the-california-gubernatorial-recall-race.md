@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/23/california-recall-republican-bill-simon-drops-out-of-the-california-gubernatorial-recall-race.html)  [JSON](/news/2003/08/23/california-recall-republican-bill-simon-drops-out-of-the-california-gubernatorial-recall-race.json)  [XML](/news/2003/08/23/california-recall-republican-bill-simon-drops-out-of-the-california-gubernatorial-recall-race.xml)  
+
 ### [2003-08-23](/news/2003/08/23/index.md)
 
+##### 2003 California recall
 #  California recall: Republican Bill Simon drops out of the California gubernatorial recall race.
 
 

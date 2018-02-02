@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/08/18/mauritania-extradites-a-man-to-mali-convicted-for-kidnapping-three-spanish-aid-workers-believed-to-be-held-by-the-al-qaeda-organization-in-t.html)  [JSON](/news/2010/08/18/mauritania-extradites-a-man-to-mali-convicted-for-kidnapping-three-spanish-aid-workers-believed-to-be-held-by-the-al-qaeda-organization-in-t.json)  [XML](/news/2010/08/18/mauritania-extradites-a-man-to-mali-convicted-for-kidnapping-three-spanish-aid-workers-believed-to-be-held-by-the-al-qaeda-organization-in-t.xml)  
+
 ### [2010-08-18](/news/2010/08/18/index.md)
 
+##### Mauritanian
 # Mauritania extradites a man to Mali convicted for kidnapping three Spanish aid workers believed to be held by the Al-Qaeda Organization in the Islamic Maghreb. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE67H37X20100818)
+1. [Reuters](https://www.reuters.com/article/idUSTRE67H37X20100818)
 2. [Voice of America](http://www1.voanews.com/english/news/africa/-Mauritania-Extradites-Al-Qaida-Kidnapper-to-Mali-100984829.html)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

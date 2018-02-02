@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/13/education-in-greece-debate-over-the-private-universities-issue-and-george-papandreou-junior-s-suggestions-see-9-january-between-new-dem.html)  [JSON](/news/2004/01/13/education-in-greece-debate-over-the-private-universities-issue-and-george-papandreou-junior-s-suggestions-see-9-january-between-new-dem.json)  [XML](/news/2004/01/13/education-in-greece-debate-over-the-private-universities-issue-and-george-papandreou-junior-s-suggestions-see-9-january-between-new-dem.xml)  
+
 ### [2004-01-13](/news/2004/01/13/index.md)
 
+##### Education in Greece
 #  Education in Greece: Debate over the private universities issue and George Papandreou, junior's suggestions (see 9 January) between New Democracy and PASOK. (Greek)
 
 

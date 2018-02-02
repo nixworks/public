@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/16/the-u-s-securities-and-exchange-commission-charges-goldman-sachs-with-defrauding-investors.html)  [JSON](/news/2010/04/16/the-u-s-securities-and-exchange-commission-charges-goldman-sachs-with-defrauding-investors.json)  [XML](/news/2010/04/16/the-u-s-securities-and-exchange-commission-charges-goldman-sachs-with-defrauding-investors.xml)  
+
 ### [2010-04-16](/news/2010/04/16/index.md)
 
+##### Securities and Exchange Commission
 # The U.S. Securities and Exchange Commission charges Goldman Sachs with defrauding investors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052702303491304575187920845670844.html?mod=WSJEUROPE_hpp_LEFTTopStories)
 

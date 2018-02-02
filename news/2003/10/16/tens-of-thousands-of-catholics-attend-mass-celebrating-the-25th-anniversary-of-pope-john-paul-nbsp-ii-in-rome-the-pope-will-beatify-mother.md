@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/16/tens-of-thousands-of-catholics-attend-mass-celebrating-the-25th-anniversary-of-pope-john-paul-nbsp-ii-in-rome-the-pope-will-beatify-mother.html)  [JSON](/news/2003/10/16/tens-of-thousands-of-catholics-attend-mass-celebrating-the-25th-anniversary-of-pope-john-paul-nbsp-ii-in-rome-the-pope-will-beatify-mother.json)  [XML](/news/2003/10/16/tens-of-thousands-of-catholics-attend-mass-celebrating-the-25th-anniversary-of-pope-john-paul-nbsp-ii-in-rome-the-pope-will-beatify-mother.xml)  
+
 ### [2003-10-16](/news/2003/10/16/index.md)
 
+##### Mass
 #  Tens of thousands of Catholics attend Mass celebrating the 25th anniversary of Pope John Paul&nbsp;II in Rome. The Pope will beatify Mother Teresa on Sunday, October 19, and install 30 new Cardinals on Tuesday, October 21.
 
 

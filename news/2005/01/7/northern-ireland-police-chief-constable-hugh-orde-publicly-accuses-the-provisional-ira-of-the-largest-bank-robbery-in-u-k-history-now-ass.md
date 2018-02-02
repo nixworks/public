@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/7/northern-ireland-police-chief-constable-hugh-orde-publicly-accuses-the-provisional-ira-of-the-largest-bank-robbery-in-u-k-history-now-ass.html)  [JSON](/news/2005/01/7/northern-ireland-police-chief-constable-hugh-orde-publicly-accuses-the-provisional-ira-of-the-largest-bank-robbery-in-u-k-history-now-ass.json)  [XML](/news/2005/01/7/northern-ireland-police-chief-constable-hugh-orde-publicly-accuses-the-provisional-ira-of-the-largest-bank-robbery-in-u-k-history-now-ass.xml)  
+
 ### [2005-01-7](/news/2005/01/7/index.md)
 
+##### Northern Ireland
 #  Northern Ireland police Chief Constable Hugh Orde publicly accuses the Provisional IRA of the largest bank robbery in U.K. history, now assessed at GBP26.5 million. The money was taken from the Northern Bank in Belfast on December 20. 
 
 The Taoiseach has said the attribution of last month&#39;s robbery at the Northern Bank headquarters in Belfast to the IRA represents a serious setback for the political process in Northern Ireland.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/4154657.stm)
 2. [RTÉ](http://www.rte.ie/news/2005/0107/belfast.html)

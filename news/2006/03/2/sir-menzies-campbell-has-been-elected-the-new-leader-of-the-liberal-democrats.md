@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/2/sir-menzies-campbell-has-been-elected-the-new-leader-of-the-liberal-democrats.html)  [JSON](/news/2006/03/2/sir-menzies-campbell-has-been-elected-the-new-leader-of-the-liberal-democrats.json)  [XML](/news/2006/03/2/sir-menzies-campbell-has-been-elected-the-new-leader-of-the-liberal-democrats.xml)  
+
 ### [2006-03-2](/news/2006/03/2/index.md)
 
+##### Menzies Campbell
 #  Sir Menzies Campbell has been elected the new leader of the Liberal Democrats. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4763646.stm)
 

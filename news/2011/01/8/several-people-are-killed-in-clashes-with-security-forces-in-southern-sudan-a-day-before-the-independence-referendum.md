@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/8/several-people-are-killed-in-clashes-with-security-forces-in-southern-sudan-a-day-before-the-independence-referendum.html)  [JSON](/news/2011/01/8/several-people-are-killed-in-clashes-with-security-forces-in-southern-sudan-a-day-before-the-independence-referendum.json)  [XML](/news/2011/01/8/several-people-are-killed-in-clashes-with-security-forces-in-southern-sudan-a-day-before-the-independence-referendum.xml)  
+
 ### [2011-01-8](/news/2011/01/8/index.md)
 
+##### Southern Sudan
 # Several people are killed in clashes with security forces in Southern Sudan, a day before the independence referendum. 
 
 At least 7 people feared dead in unrest involving south Sudan security forces in the run-up to referendum on secession.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/20111813935854947.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/1/8/20111819737586472_20.jpg)

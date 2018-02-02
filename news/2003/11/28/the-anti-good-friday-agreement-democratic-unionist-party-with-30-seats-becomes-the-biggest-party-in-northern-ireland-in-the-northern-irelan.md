@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/28/the-anti-good-friday-agreement-democratic-unionist-party-with-30-seats-becomes-the-biggest-party-in-northern-ireland-in-the-northern-irelan.html)  [JSON](/news/2003/11/28/the-anti-good-friday-agreement-democratic-unionist-party-with-30-seats-becomes-the-biggest-party-in-northern-ireland-in-the-northern-irelan.json)  [XML](/news/2003/11/28/the-anti-good-friday-agreement-democratic-unionist-party-with-30-seats-becomes-the-biggest-party-in-northern-ireland-in-the-northern-irelan.xml)  
+
 ### [2003-11-28](/news/2003/11/28/index.md)
 
+##### Good Friday Agreement
 #  The anti-Good Friday Agreement Democratic Unionist Party with 30 seats becomes the biggest party in Northern Ireland in the Northern Ireland Assembly Election, 2003, replacing the Ulster Unionist Party (27 seats), while Sinn Fin at 24 seats replaces the SDLP (18 seats) as the major Irish nationalist party.
 
 

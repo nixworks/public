@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/4/a-libyan-spokesperson-says-two-italian-hostages-
 
 ### [2016-03-4](/news/2016/03/4/index.md)
 
+##### Libyan Civil War (2014-present)
 # A Libyan spokesperson says two Italian hostages are freed by local fighters from Islamic State custody in Sabratha, Libya. He also confirms that two other Italian hostages were recently killed during local forces clashes with IS militants. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com

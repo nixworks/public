@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/5/tony-blair-defends-the-war-in-iraq-stating-that-global-threat-we-face-in-britain-and-round-the-world-is-real-and-existential-and-it-is-th.html)  [JSON](/news/2004/03/5/tony-blair-defends-the-war-in-iraq-stating-that-global-threat-we-face-in-britain-and-round-the-world-is-real-and-existential-and-it-is-th.json)  [XML](/news/2004/03/5/tony-blair-defends-the-war-in-iraq-stating-that-global-threat-we-face-in-britain-and-round-the-world-is-real-and-existential-and-it-is-th.xml)  
+
 ### [2004-03-5](/news/2004/03/5/index.md)
 
+##### Tony Blair
 #  Tony Blair defends the war in Iraq, stating that "global threat we face in Britain and round the world is real and existential and it is the task of leadership to expose it and fight it, whatever the political cost." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/lateline/content/2004/s1060219.htm)
 2. [Scotsman](http://news.scotsman.com/latest.cfm?id=2612185)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/2/two-policemen-and-a-civilian-are-killed-and-three-others-injured-after-a-grenade-attack-in-burundi-s-capital-bujumbura-the-attack-takes-pla.html)  [JSON](/news/2015/05/2/two-policemen-and-a-civilian-are-killed-and-three-others-injured-after-a-grenade-attack-in-burundi-s-capital-bujumbura-the-attack-takes-pla.json)  [XML](/news/2015/05/2/two-policemen-and-a-civilian-are-killed-and-three-others-injured-after-a-grenade-attack-in-burundi-s-capital-bujumbura-the-attack-takes-pla.xml)  
+
 ### [2015-05-2](/news/2015/05/2/index.md)
 
+##### Burundi
 # Two policemen and a civilian are killed and three others injured after a grenade attack in Burundi's capital Bujumbura. The attack takes place a day after a similar incident injured three officers, and comes in the midst of intensifying protests against current president Pierre Nkurunziza. 
 
 Three people, including two policemen, killed and several people wounded in grenade attack in the capital Bujumbura.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/05/burundi-policemen-killed-grenade-attack-150502004341566.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/5/2/03486df250934c71b57dc3b15c2d9a72_18.jpg)

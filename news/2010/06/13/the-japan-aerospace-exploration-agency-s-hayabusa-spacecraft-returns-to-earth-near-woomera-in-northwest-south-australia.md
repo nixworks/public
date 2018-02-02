@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/13/the-japan-aerospace-exploration-agency-s-hayabusa-spacecraft-returns-to-earth-near-woomera-in-northwest-south-australia.html)  [JSON](/news/2010/06/13/the-japan-aerospace-exploration-agency-s-hayabusa-spacecraft-returns-to-earth-near-woomera-in-northwest-south-australia.json)  [XML](/news/2010/06/13/the-japan-aerospace-exploration-agency-s-hayabusa-spacecraft-returns-to-earth-near-woomera-in-northwest-south-australia.xml)  
+
 ### [2010-06-13](/news/2010/06/13/index.md)
 
+##### Japan Aerospace Exploration Agency
 # The Japan Aerospace Exploration Agency's Hayabusa spacecraft returns to earth near Woomera in northwest South Australia. 
 
 Japanese scientists are waiting to find out if a space capsule which crashed to Earth in outback South Australia last night contains dust from an ancient, distant asteroid.
 
 
-### Source:
+### Sources:
 
 1. [ABC Australia](http://www.abc.net.au/news/stories/2010/06/14/2926030.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/866142-1x1-700x700.jpg)

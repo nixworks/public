@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/15/lt-gen-douglas-lute-has-been-chosen-to-be-president-bush-s-war-czar-overseeing-the-wars-in-iraq-and-afghanistan.html)  [JSON](/news/2007/05/15/lt-gen-douglas-lute-has-been-chosen-to-be-president-bush-s-war-czar-overseeing-the-wars-in-iraq-and-afghanistan.json)  [XML](/news/2007/05/15/lt-gen-douglas-lute-has-been-chosen-to-be-president-bush-s-war-czar-overseeing-the-wars-in-iraq-and-afghanistan.xml)  
+
 ### [2007-05-15](/news/2007/05/15/index.md)
 
+##### Douglas Lute
 #  Lt. Gen. Douglas Lute has been chosen to be President Bush's "war czar," overseeing the wars in Iraq and Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/story?id=3176644&page=1)
 

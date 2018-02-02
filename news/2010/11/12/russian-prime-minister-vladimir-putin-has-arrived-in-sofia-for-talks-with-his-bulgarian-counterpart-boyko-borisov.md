@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/12/russian-prime-minister-vladimir-putin-has-arrived-in-sofia-for-talks-with-his-bulgarian-counterpart-boyko-borisov.html)  [JSON](/news/2010/11/12/russian-prime-minister-vladimir-putin-has-arrived-in-sofia-for-talks-with-his-bulgarian-counterpart-boyko-borisov.json)  [XML](/news/2010/11/12/russian-prime-minister-vladimir-putin-has-arrived-in-sofia-for-talks-with-his-bulgarian-counterpart-boyko-borisov.xml)  
+
 ### [2010-11-12](/news/2010/11/12/index.md)
 
+##### Russian Prime Minister
 # Russian Prime Minister Vladimir Putin has arrived in Sofia for talks with his Bulgarian counterpart Boyko Borisov. 
 
 The proposals for an intensification of cultural cooperation that the Russian delegation to Sofia advanced Saturday were met somewhat lukewarmly by the Bulgarian party. This appears from the official transcript of the meeting Saturday headed by Bulgarian and Russian PMs Boyko Borisov and Vladimir Putin. 
 
 
-### Source:
+### Sources:
 
 1. [ITAR](http://www.itar-tass.com/eng/level2.html?NewsID=15678142&PageNum=0)
 2. [Novinite](http://www.novinite.com/view_news.php?id=122147)

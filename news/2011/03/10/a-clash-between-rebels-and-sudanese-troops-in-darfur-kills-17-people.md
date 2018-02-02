@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/10/a-clash-between-rebels-and-sudanese-troops-in-darfur-kills-17-people.html)  [JSON](/news/2011/03/10/a-clash-between-rebels-and-sudanese-troops-in-darfur-kills-17-people.json)  [XML](/news/2011/03/10/a-clash-between-rebels-and-sudanese-troops-in-darfur-kills-17-people.xml)  
+
 ### [2011-03-10](/news/2011/03/10/index.md)
 
+##### Sudan
 # A clash between rebels and Sudanese troops in Darfur kills 17 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE72905P20110310)
 

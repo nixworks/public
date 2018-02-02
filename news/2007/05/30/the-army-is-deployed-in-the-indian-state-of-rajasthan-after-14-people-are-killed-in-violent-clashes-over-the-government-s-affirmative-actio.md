@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/30/the-army-is-deployed-in-the-indian-state-of-rajasthan-after-14-people-are-killed-in-violent-clashes-over-the-government-s-affirmative-actio.html)  [JSON](/news/2007/05/30/the-army-is-deployed-in-the-indian-state-of-rajasthan-after-14-people-are-killed-in-violent-clashes-over-the-government-s-affirmative-actio.json)  [XML](/news/2007/05/30/the-army-is-deployed-in-the-indian-state-of-rajasthan-after-14-people-are-killed-in-violent-clashes-over-the-government-s-affirmative-actio.xml)  
+
 ### [2007-05-30](/news/2007/05/30/index.md)
 
+##### India
 #  The army is deployed in the Indian state of Rajasthan after 14 people are killed in violent clashes over the government's affirmative action plans. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6703133.stm)
 

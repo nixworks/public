@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/02/11/the-national-court-of-spain-finds-five-out-of-six-algerian-men-guilty-of-membership-in-a-terrorist-organization-and-document-forgery-for-te.html)  [JSON](/news/2007/02/11/the-national-court-of-spain-finds-five-out-of-six-algerian-men-guilty-of-membership-in-a-terrorist-organization-and-document-forgery-for-te.json)  [XML](/news/2007/02/11/the-national-court-of-spain-finds-five-out-of-six-algerian-men-guilty-of-membership-in-a-terrorist-organization-and-document-forgery-for-te.xml)  
+
 ### [2007-02-11](/news/2007/02/11/index.md)
 
+##### National Court of Spain
 #  The National Court of Spain finds five out of six Algerian men guilty of membership in a terrorist organization and document forgery for terrorist purposes, sentencing each of them to 13 years imprisonment. All six were acquitted of conspiracy to carry out a terrorist attack
 
 

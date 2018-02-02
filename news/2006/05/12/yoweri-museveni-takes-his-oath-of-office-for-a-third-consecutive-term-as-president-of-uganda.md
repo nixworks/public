@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/05/12/yoweri-museveni-takes-his-oath-of-office-for-a-third-consecutive-term-as-president-of-uganda.html)  [JSON](/news/2006/05/12/yoweri-museveni-takes-his-oath-of-office-for-a-third-consecutive-term-as-president-of-uganda.json)  [XML](/news/2006/05/12/yoweri-museveni-takes-his-oath-of-office-for-a-third-consecutive-term-as-president-of-uganda.xml)  
+
 ### [2006-05-12](/news/2006/05/12/index.md)
 
+##### Yoweri Museveni
 #  Yoweri Museveni takes his oath of office for a third consecutive term as President of Uganda.
 
 

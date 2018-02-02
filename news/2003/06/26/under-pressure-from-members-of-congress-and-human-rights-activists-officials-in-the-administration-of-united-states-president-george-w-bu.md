@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/26/under-pressure-from-members-of-congress-and-human-rights-activists-officials-in-the-administration-of-united-states-president-george-w-bu.html)  [JSON](/news/2003/06/26/under-pressure-from-members-of-congress-and-human-rights-activists-officials-in-the-administration-of-united-states-president-george-w-bu.json)  [XML](/news/2003/06/26/under-pressure-from-members-of-congress-and-human-rights-activists-officials-in-the-administration-of-united-states-president-george-w-bu.xml)  
+
 ### [2003-06-26](/news/2003/06/26/index.md)
 
+##### George W. Bush
 #  Under pressure from members of Congress and human rights activists, officials in the administration of United States President George W. Bush publicly pledge for the first time that the United States will not torture terrorism suspects.
 
 

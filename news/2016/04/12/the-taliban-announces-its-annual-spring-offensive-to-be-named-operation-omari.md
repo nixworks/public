@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/12/the-taliban-announces-its-annual-spring-offensi
 
 ### [2016-04-12](/news/2016/04/12/index.md)
 
+##### War in Afghanistan (2015-present)
 #  The Taliban announces its annual spring offensive to be named "Operation Omari". 
 
 

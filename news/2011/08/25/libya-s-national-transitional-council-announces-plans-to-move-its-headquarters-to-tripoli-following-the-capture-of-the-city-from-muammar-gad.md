@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/25/libya-s-national-transitional-council-announces-plans-to-move-its-headquarters-to-tripoli-following-the-capture-of-the-city-from-muammar-gad.html)  [JSON](/news/2011/08/25/libya-s-national-transitional-council-announces-plans-to-move-its-headquarters-to-tripoli-following-the-capture-of-the-city-from-muammar-gad.json)  [XML](/news/2011/08/25/libya-s-national-transitional-council-announces-plans-to-move-its-headquarters-to-tripoli-following-the-capture-of-the-city-from-muammar-gad.xml)  
+
 ### [2011-08-25](/news/2011/08/25/index.md)
 
+##### Libya
 # Libya's National Transitional Council announces plans to move its headquarters to Tripoli following the capture of the city from Muammar Gaddafi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Australian](http://www.theaustralian.com.au/news/world/libya-rebels-move-base-to-capital-of-tripoli/story-e6frg6so-1226122609993)
 

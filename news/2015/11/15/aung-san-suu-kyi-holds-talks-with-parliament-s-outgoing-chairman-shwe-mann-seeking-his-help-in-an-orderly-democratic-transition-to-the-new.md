@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/11/15/aung-san-suu-kyi-holds-talks-with-parliament-s-outgoing-chairman-shwe-mann-seeking-his-help-in-an-orderly-democratic-transition-to-the-new.html)  [JSON](/news/2015/11/15/aung-san-suu-kyi-holds-talks-with-parliament-s-outgoing-chairman-shwe-mann-seeking-his-help-in-an-orderly-democratic-transition-to-the-new.json)  [XML](/news/2015/11/15/aung-san-suu-kyi-holds-talks-with-parliament-s-outgoing-chairman-shwe-mann-seeking-his-help-in-an-orderly-democratic-transition-to-the-new.xml)  
+
 ### [2015-11-15](/news/2015/11/15/index.md)
 
+##### Myanmar general election, 2015
 # Aung San Suu Kyi holds talks with parliament's outgoing chairman, Shwe Mann, seeking his help in an orderly democratic transition to the newly-elected National League for Democracy (NLD) government. Mann, who was ousted as head of the Union Solidarity and Development Party in August, lost his house seat in the November 8 vote. The current parliament will have at least one more session. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/15/us-myanmar-election-idUSKCN0T40BN20151115#p3QQxFZgSrptsjVQ.97)
+1. [Reuters](https://www.reuters.com/article/2015/11/15/us-myanmar-election-idUSKCN0T40BN20151115#p3QQxFZgSrptsjVQ.97)
 2. [UPI](http://www.upi.com/Top_News/World-News/2015/11/15/Myanmars-president-vows-smooth-transition-after-election-defeat/6711447641303/?spt=hs&or=tn_int)
 2. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/6711447641303/2015/1/43476be34eab0766e6009fa72913a68e/v1.5/Myanmars-president-vows-smooth-transition-after-election-defeat.jpg)
+
+### Changes:
+
+1. [Myanmar general election, 2015: Aung San Suu Kyi holds talks with parliament's outgoing chairman, Shwe Mann, seeking his help in an orderly democratic transition to the newly-elected National League for Democracy (NLD) government. Mann, who was ousted as head of the Union Solidarity and Development Party in August, lost his house seat in the November 8 vote. The current parliament will have at least one more session. ](/news/2015/11/15/myanmar-general-election-2015-aung-san-suu-kyi-holds-talks-with-parliament-s-outgoing-chairman-shwe-mann-seeking-his-help-in-an-orderly.md) _2017-08-27 03:43:51 (First version)_
+1. [Aung San Suu Kyi holds talks with parliament's outgoing chairman, Shwe Mann, seeking his help in an orderly democratic transition to the newly-elected National League for Democracy (NLD) government. Mann, who was ousted as head of the Union Solidarity and Development Party in August, lost his house seat in the November 8 vote. The current parliament will have at least one more session. ](/news/2015/11/15/aung-san-suu-kyi-holds-talks-with-parliament-s-outgoing-chairman-shwe-mann-seeking-his-help-in-an-orderly-democratic-transition-to-the-new.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@
 3. [With 45 percent of the Pyithu Hluttaw (House of Representatives) results announced from Sunday's election, Aung San Suu Kyi's National League for Democracy (NLD) moves closer to an absolute majority in the country's parliament, winning over 90 percent (135 of 149 seats) in the country's lower house. The NLD also has taken over 85 percent in the upper house and regional assemblies. The NLD needs to win more than two-thirds of seats that were contested in parliament to form Myanmar's first democratically elected government since the early 1960s. ](/news/2015/11/11/with-45-percent-of-the-pyithu-hluttaw-house-of-representatives-results-announced-from-sunday-s-election-aung-san-suu-kyi-s-national-leagu.md) _Context: Aung San Suu Kyi, Myanmar general election, 2015, National League for Democracy, parliament's_
 4. [Myanmar's democracy icon Aung San Suu Kyi discusses the smooth transfer of power to her National League for Democracy (NLD) party with President Thein Sein, their first public meeting since the November election. The new administration will be sworn in early next year. ](/news/2015/12/2/myanmar-s-democracy-icon-aung-san-suu-kyi-discusses-the-smooth-transfer-of-power-to-her-national-league-for-democracy-nld-party-with-presi.md) _Context: Aung San Suu Kyi, Myanmar general election, 2015, National League for Democracy_
 5. [Myanmar president Thein Sein says his government and the military, which gave up power only five years ago, will respect the results of Sunday's historic elections that are expected to be won by opposition leader Aung San Suu Kyi's NLD party. ](/news/2015/11/7/myanmar-president-thein-sein-says-his-government-and-the-military-which-gave-up-power-only-five-years-ago-will-respect-the-results-of-sund.md) _Context: Aung San Suu Kyi, Myanmar general election, 2015, National League for Democracy_
-
-### Changes:
-
-1. [Myanmar general election, 2015: Aung San Suu Kyi holds talks with parliament's outgoing chairman, Shwe Mann, seeking his help in an orderly democratic transition to the newly-elected National League for Democracy (NLD) government. Mann, who was ousted as head of the Union Solidarity and Development Party in August, lost his house seat in the November 8 vote. The current parliament will have at least one more session. ](/news/2015/11/15/myanmar-general-election-2015-aung-san-suu-kyi-holds-talks-with-parliament-s-outgoing-chairman-shwe-mann-seeking-his-help-in-an-orderly.md) _2017-08-27 03:43:51 (First version)_
-1. [Aung San Suu Kyi holds talks with parliament's outgoing chairman, Shwe Mann, seeking his help in an orderly democratic transition to the newly-elected National League for Democracy (NLD) government. Mann, who was ousted as head of the Union Solidarity and Development Party in August, lost his house seat in the November 8 vote. The current parliament will have at least one more session. ](/news/2015/11/15/aung-san-suu-kyi-holds-talks-with-parliament-s-outgoing-chairman-shwe-mann-seeking-his-help-in-an-orderly-democratic-transition-to-the-new.md) _(Current version)_

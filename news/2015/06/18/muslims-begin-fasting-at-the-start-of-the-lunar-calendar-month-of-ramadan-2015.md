@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2015/06/18/muslims-begin-fasting-at-the-start-of-the-lunar-calendar-month-of-ramadan-2015.html)  [JSON](/news/2015/06/18/muslims-begin-fasting-at-the-start-of-the-lunar-calendar-month-of-ramadan-2015.json)  [XML](/news/2015/06/18/muslims-begin-fasting-at-the-start-of-the-lunar-calendar-month-of-ramadan-2015.xml)  
+
 ### [2015-06-18](/news/2015/06/18/index.md)
 
+##### Ramadan
 # Muslims begin fasting at the start of the lunar calendar month of Ramadan, 2015. 
 
 

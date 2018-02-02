@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/27/colombian-farc-rebels-release-four-former-members-of-congress-held-hostage-since-2001-and-2002-in-a-deal-brokered-by-venezuelan-president.html)  [JSON](/news/2008/02/27/colombian-farc-rebels-release-four-former-members-of-congress-held-hostage-since-2001-and-2002-in-a-deal-brokered-by-venezuelan-president.json)  [XML](/news/2008/02/27/colombian-farc-rebels-release-four-former-members-of-congress-held-hostage-since-2001-and-2002-in-a-deal-brokered-by-venezuelan-president.xml)  
+
 ### [2008-02-27](/news/2008/02/27/index.md)
 
+##### Colombia
 #  Colombian FARC rebels release four former members of Congress, held hostage since 2001 and 2002, in a deal brokered by Venezuelan president Hugo Chavez. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7266837.stm)
 

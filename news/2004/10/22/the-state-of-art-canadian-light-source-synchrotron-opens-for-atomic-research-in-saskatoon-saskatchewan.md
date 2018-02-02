@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/22/the-state-of-art-canadian-light-source-synchrotron-opens-for-atomic-research-in-saskatoon-saskatchewan.html)  [JSON](/news/2004/10/22/the-state-of-art-canadian-light-source-synchrotron-opens-for-atomic-research-in-saskatoon-saskatchewan.json)  [XML](/news/2004/10/22/the-state-of-art-canadian-light-source-synchrotron-opens-for-atomic-research-in-saskatoon-saskatchewan.xml)  
+
 ### [2004-10-22](/news/2004/10/22/index.md)
 
+##### Canadian Light Source
 #  The state-of-art Canadian Light Source synchrotron opens for atomic research in Saskatoon, Saskatchewan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/health/story/2004/10/22/synchrotron_opens041022.html)
 

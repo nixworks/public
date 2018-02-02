@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/29/saboteurs-attack-an-oil-pipeline-in-nigeria-s-niger-delta-shutting-in-4-000-barrels-a-day-of-crude-oil-production.html)  [JSON](/news/2010/10/29/saboteurs-attack-an-oil-pipeline-in-nigeria-s-niger-delta-shutting-in-4-000-barrels-a-day-of-crude-oil-production.json)  [XML](/news/2010/10/29/saboteurs-attack-an-oil-pipeline-in-nigeria-s-niger-delta-shutting-in-4-000-barrels-a-day-of-crude-oil-production.xml)  
+
 ### [2010-10-29](/news/2010/10/29/index.md)
 
+##### Nigeria
 # Saboteurs attack an oil pipeline in Nigeria's Niger Delta, shutting in 4,000 barrels a day of crude oil production. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gxjtUXo9SrKm1SoGAND-mMpG8_Ng?docId=CNG.92249e7f0ab2aa13a3c714749a602fe8.6a1)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE69S05L20101029)

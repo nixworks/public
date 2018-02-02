@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/13/war-in-somalia-martial-law-is-declared-in-somalia.html)  [JSON](/news/2007/01/13/war-in-somalia-martial-law-is-declared-in-somalia.json)  [XML](/news/2007/01/13/war-in-somalia-martial-law-is-declared-in-somalia.xml)  
+
 ### [2007-01-13](/news/2007/01/13/index.md)
 
+##### two years of helping
 #  War in Somalia: Martial law is declared in Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6258415.stm)
 

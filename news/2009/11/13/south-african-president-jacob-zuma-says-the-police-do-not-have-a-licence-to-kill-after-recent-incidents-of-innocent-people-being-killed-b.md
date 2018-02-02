@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/13/south-african-president-jacob-zuma-says-the-police-do-not-have-a-licence-to-kill-after-recent-incidents-of-innocent-people-being-killed-b.html)  [JSON](/news/2009/11/13/south-african-president-jacob-zuma-says-the-police-do-not-have-a-licence-to-kill-after-recent-incidents-of-innocent-people-being-killed-b.json)  [XML](/news/2009/11/13/south-african-president-jacob-zuma-says-the-police-do-not-have-a-licence-to-kill-after-recent-incidents-of-innocent-people-being-killed-b.xml)  
+
 ### [2009-11-13](/news/2009/11/13/index.md)
 
+##### South Africa
 #  South African President Jacob Zuma says the police do not have a "licence to kill" after recent incidents of innocent people being killed by police. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8359516.stm)
 2. [Eyewitness News](http://www.eyewitnessnews.co.za/articleprog.aspx?id=26303)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/7/war-on-terrorism-us-military-commander-for-the-middle-east-reportedly-creates-a-covert-commando-force-named-task-force-121-to-hunt-sadda.html)  [JSON](/news/2003/11/7/war-on-terrorism-us-military-commander-for-the-middle-east-reportedly-creates-a-covert-commando-force-named-task-force-121-to-hunt-sadda.json)  [XML](/news/2003/11/7/war-on-terrorism-us-military-commander-for-the-middle-east-reportedly-creates-a-covert-commando-force-named-task-force-121-to-hunt-sadda.xml)  
+
 ### [2003-11-7](/news/2003/11/7/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: US military commander for the Middle East reportedly creates a covert commando force (named Task Force 121) to hunt Saddam Hussein and Osama bin Laden (and other key terrorists throughout the region). Military officers state a broader, regional mission is given to the force, which has become one of the Pentagon's most highly classified and closely watched operations. The Special Operations organization to act with greater speed on intelligence tips about ""high-value targets"" and not be contained within the borders where American conventional forces are operating in Iraq and Afghanistan. General John Abizaid, who commands all American forces in the strategic crescent from the Red Sea to the Indian Ocean, had previously decided to disband two Special Operations missions (Task Force 5 in Afghanistan and Task Force 20 in Iraq).
 
 

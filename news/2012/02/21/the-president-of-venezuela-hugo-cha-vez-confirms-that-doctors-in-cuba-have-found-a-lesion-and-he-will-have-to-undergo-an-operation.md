@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/21/the-president-of-venezuela-hugo-cha-vez-confirms-that-doctors-in-cuba-have-found-a-lesion-and-he-will-have-to-undergo-an-operation.html)  [JSON](/news/2012/02/21/the-president-of-venezuela-hugo-cha-vez-confirms-that-doctors-in-cuba-have-found-a-lesion-and-he-will-have-to-undergo-an-operation.json)  [XML](/news/2012/02/21/the-president-of-venezuela-hugo-cha-vez-confirms-that-doctors-in-cuba-have-found-a-lesion-and-he-will-have-to-undergo-an-operation.xml)  
+
 ### [2012-02-21](/news/2012/02/21/index.md)
 
+##### President
 # The President of Venezuela Hugo Chavez confirms that doctors in Cuba have found a lesion and he will have to undergo an operation. 
 
 Venezuelan President Hugo Chavez, who had cancer last year, says he will have to undergo another operation to remove a small lesion.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-17120914)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58641000/jpg/_58641248_014061212-1.jpg)

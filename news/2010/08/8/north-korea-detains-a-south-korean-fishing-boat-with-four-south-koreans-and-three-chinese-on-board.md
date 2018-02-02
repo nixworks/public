@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/8/north-korea-detains-a-south-korean-fishing-boat-with-four-south-koreans-and-three-chinese-on-board.html)  [JSON](/news/2010/08/8/north-korea-detains-a-south-korean-fishing-boat-with-four-south-koreans-and-three-chinese-on-board.json)  [XML](/news/2010/08/8/north-korea-detains-a-south-korean-fishing-boat-with-four-south-koreans-and-three-chinese-on-board.xml)  
+
 ### [2010-08-8](/news/2010/08/8/index.md)
 
+##### North Korea
 # North Korea detains a South Korean fishing boat with four South Koreans and three Chinese on board. 
 
 North Korea seizes ship carrying South Korean and Chinese fisherman in Sea of Japan.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/20108810578909563.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10907074)

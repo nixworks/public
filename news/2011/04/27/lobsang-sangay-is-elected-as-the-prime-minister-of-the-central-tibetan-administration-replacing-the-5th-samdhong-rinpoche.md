@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/27/lobsang-sangay-is-elected-as-the-prime-minister-of-the-central-tibetan-administration-replacing-the-5th-samdhong-rinpoche.html)  [JSON](/news/2011/04/27/lobsang-sangay-is-elected-as-the-prime-minister-of-the-central-tibetan-administration-replacing-the-5th-samdhong-rinpoche.json)  [XML](/news/2011/04/27/lobsang-sangay-is-elected-as-the-prime-minister-of-the-central-tibetan-administration-replacing-the-5th-samdhong-rinpoche.xml)  
+
 ### [2011-04-27](/news/2011/04/27/index.md)
 
+##### Lobsang Sangay
 # Lobsang Sangay is elected as the Prime Minister of the Central Tibetan Administration, replacing the 5th Samdhong Rinpoche. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDIA_DALAI_LAMA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

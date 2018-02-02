@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/11/nine-people-are-shot-dead-in-rio-de-janeiro-as-police-battle-drug-gangs-and-private-militias-for-control-of-the-favelas-or-shanty-towns.html)  [JSON](/news/2007/02/11/nine-people-are-shot-dead-in-rio-de-janeiro-as-police-battle-drug-gangs-and-private-militias-for-control-of-the-favelas-or-shanty-towns.json)  [XML](/news/2007/02/11/nine-people-are-shot-dead-in-rio-de-janeiro-as-police-battle-drug-gangs-and-private-militias-for-control-of-the-favelas-or-shanty-towns.xml)  
+
 ### [2007-02-11](/news/2007/02/11/index.md)
 
+##### Rio de Janeiro
 #  Nine people are shot dead in Rio de Janeiro as police battle drug gangs and private militias for control of the favelas or shanty towns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6352759.stm)
 

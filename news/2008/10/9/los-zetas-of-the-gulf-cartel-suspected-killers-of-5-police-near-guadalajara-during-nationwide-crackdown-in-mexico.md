@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/9/los-zetas-of-the-gulf-cartel-suspected-killers-of-5-police-near-guadalajara-during-nationwide-crackdown-in-mexico.html)  [JSON](/news/2008/10/9/los-zetas-of-the-gulf-cartel-suspected-killers-of-5-police-near-guadalajara-during-nationwide-crackdown-in-mexico.json)  [XML](/news/2008/10/9/los-zetas-of-the-gulf-cartel-suspected-killers-of-5-police-near-guadalajara-during-nationwide-crackdown-in-mexico.xml)  
+
 ### [2008-10-9](/news/2008/10/9/index.md)
 
+##### Los Zetas
 #  Los Zetas of the Gulf Cartel suspected killers of 5 police near Guadalajara during nationwide crackdown in Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo News](http://fe6.news.sp1.yahoo.com/s/ap/lt_mexico_violence;_ylt=ArN2xAcCZP6AXc8l.XvnafVsr7sF)
 

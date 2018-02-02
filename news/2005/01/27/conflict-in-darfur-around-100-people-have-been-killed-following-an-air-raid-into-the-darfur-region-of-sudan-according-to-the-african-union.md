@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/27/conflict-in-darfur-around-100-people-have-been-killed-following-an-air-raid-into-the-darfur-region-of-sudan-according-to-the-african-union.html)  [JSON](/news/2005/01/27/conflict-in-darfur-around-100-people-have-been-killed-following-an-air-raid-into-the-darfur-region-of-sudan-according-to-the-african-union.json)  [XML](/news/2005/01/27/conflict-in-darfur-around-100-people-have-been-killed-following-an-air-raid-into-the-darfur-region-of-sudan-according-to-the-african-union.xml)  
+
 ### [2005-01-27](/news/2005/01/27/index.md)
 
+##### killed in fighting
 #  Conflict in Darfur: Around 100 people have been killed following an Air Raid into the Darfur region of Sudan according to the African Union. Jean Baptiste Natama, the A.U's spokesperson has described it as a "major ceasefire violation". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4211595.stm)
 

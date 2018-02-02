@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/22/khilal-mamedov-a-prominent-azeri-human-rights-activist-and-journalist-is-arrested-on-suspicion-of-drug-possession-a-move-a-fellow-rights.html)  [JSON](/news/2012/06/22/khilal-mamedov-a-prominent-azeri-human-rights-activist-and-journalist-is-arrested-on-suspicion-of-drug-possession-a-move-a-fellow-rights.json)  [XML](/news/2012/06/22/khilal-mamedov-a-prominent-azeri-human-rights-activist-and-journalist-is-arrested-on-suspicion-of-drug-possession-a-move-a-fellow-rights.xml)  
+
 ### [2012-06-22](/news/2012/06/22/index.md)
 
+##### Azeri
 # Khilal Mamedov, a prominent Azeri human rights activist and journalist, is arrested on suspicion of drug possession, a move a fellow rights watchdog says is politically motivated. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/47923825#.T-TEMhwsW7l)
 

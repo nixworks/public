@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/19/the-british-house-of-commons-is-temporarily-suspended-after-a-purple-flour-bomb-thrown-by-a-fathers-4-justice-protester-hits-tony-blair-dur.html)  [JSON](/news/2004/05/19/the-british-house-of-commons-is-temporarily-suspended-after-a-purple-flour-bomb-thrown-by-a-fathers-4-justice-protester-hits-tony-blair-dur.json)  [XML](/news/2004/05/19/the-british-house-of-commons-is-temporarily-suspended-after-a-purple-flour-bomb-thrown-by-a-fathers-4-justice-protester-hits-tony-blair-dur.xml)  
+
 ### [2004-05-19](/news/2004/05/19/index.md)
 
+##### British House of Commons
 #  The British House of Commons is temporarily suspended after a purple flour bomb thrown by a Fathers 4 Justice protester hits Tony Blair during Prime Minister's Questions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/3728617.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/15/the-china-meteorological-administration-forecas
 
 ### [2016-09-15](/news/2016/09/15/index.md)
 
+##### 2016 Pacific typhoon season
 # The China Meteorological Administration forecasts that Typhoon Meranti will make landfall in south Fujian Province. 
 
 

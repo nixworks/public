@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/16/thailand-s-security-forces-kill-seven-alleged-drug-smugglers-from-myanmar-in-a-gunbattle.html)  [JSON](/news/2012/07/16/thailand-s-security-forces-kill-seven-alleged-drug-smugglers-from-myanmar-in-a-gunbattle.json)  [XML](/news/2012/07/16/thailand-s-security-forces-kill-seven-alleged-drug-smugglers-from-myanmar-in-a-gunbattle.xml)  
+
 ### [2012-07-16](/news/2012/07/16/index.md)
 
+##### Thailand
 # Thailand's security forces kill seven alleged drug smugglers from Myanmar in a gunbattle. 
 
 BANGKOK: Thai security forces killed seven suspected drug smugglers from Myanmar early Monday in a gunbattle that was Thailand’s deadliest drug-related incident in three years, police said. Myanmar, meanwhile, reported a major seizure of methamphetamine near its border with China. UN and US drug experts say Myanmar, especially Shan state in the country’s east, is a major producer of amphetamine-type stimulants. Thailand and China are large markets for the drug.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Arab News](http://www.arabnews.com/thai-authorities-kill-7-drug-suspects-near-border)
 1. [Cover Image](http://www.arabnews.com/sites/default/files/default_images/place-holder.jpg)

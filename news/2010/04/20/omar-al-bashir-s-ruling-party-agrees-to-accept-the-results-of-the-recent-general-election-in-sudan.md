@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/20/omar-al-bashir-s-ruling-party-agrees-to-accept-the-results-of-the-recent-general-election-in-sudan.html)  [JSON](/news/2010/04/20/omar-al-bashir-s-ruling-party-agrees-to-accept-the-results-of-the-recent-general-election-in-sudan.json)  [XML](/news/2010/04/20/omar-al-bashir-s-ruling-party-agrees-to-accept-the-results-of-the-recent-general-election-in-sudan.xml)  
+
 ### [2010-04-20](/news/2010/04/20/index.md)
 
+##### Omar al-Bashir
 # Omar al-Bashir's ruling party agrees to accept the results of the recent general election in Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/2010420163316810538.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/11/the-ulster-defence-association-announces-that-its-ulster-freedom-fighters-units-are-to-stand-down-from-midnight.html)  [JSON](/news/2007/11/11/the-ulster-defence-association-announces-that-its-ulster-freedom-fighters-units-are-to-stand-down-from-midnight.json)  [XML](/news/2007/11/11/the-ulster-defence-association-announces-that-its-ulster-freedom-fighters-units-are-to-stand-down-from-midnight.xml)  
+
 ### [2007-11-11](/news/2007/11/11/index.md)
 
+##### Ulster Defence Association
 #  The Ulster Defence Association announces that its Ulster Freedom Fighters' units are to stand down from midnight. 
 
 The UDA has announced that units of its military wing, the Ulster Freedom Fighters, are to be stood down at midnight.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2007/1111/uda.html)
 1. [Cover Image](https://img.rasset.ie/0000669e-1600.jpg)

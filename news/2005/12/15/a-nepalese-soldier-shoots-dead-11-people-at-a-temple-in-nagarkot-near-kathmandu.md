@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/15/a-nepalese-soldier-shoots-dead-11-people-at-a-temple-in-nagarkot-near-kathmandu.html)  [JSON](/news/2005/12/15/a-nepalese-soldier-shoots-dead-11-people-at-a-temple-in-nagarkot-near-kathmandu.json)  [XML](/news/2005/12/15/a-nepalese-soldier-shoots-dead-11-people-at-a-temple-in-nagarkot-near-kathmandu.xml)  
+
 ### [2005-12-15](/news/2005/12/15/index.md)
 
+##### Nepal
 #  A Nepalese soldier shoots dead 11 people at a temple in Nagarkot, near Kathmandu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4530456.stm)
 

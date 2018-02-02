@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/20/latvia-s-president-vaira-vike-freiberga-has-appointed-indulis-emsis-a-green-party-legislator-as-the-new-prime-minister-after-the-resigna.html)  [JSON](/news/2004/02/20/latvia-s-president-vaira-vike-freiberga-has-appointed-indulis-emsis-a-green-party-legislator-as-the-new-prime-minister-after-the-resigna.json)  [XML](/news/2004/02/20/latvia-s-president-vaira-vike-freiberga-has-appointed-indulis-emsis-a-green-party-legislator-as-the-new-prime-minister-after-the-resigna.xml)  
+
 ### [2004-02-20](/news/2004/02/20/index.md)
 
+##### Latvia
 #  Latvia's president Vaira Vike-Freiberga has appointed Indulis Emsis, a Green party legislator, as the new Prime Minister, after the resignation of Einars Repse's cabinet on 5 February. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BCC](http://news.bbc.co.uk/2/hi/europe/3507007.stm)
 2. [Greens-EFA](http://www.greens-efa.org/en/press/detail.php?id=1808&lg=en)

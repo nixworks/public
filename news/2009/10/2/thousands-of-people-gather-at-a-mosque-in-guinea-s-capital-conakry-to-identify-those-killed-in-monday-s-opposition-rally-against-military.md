@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/2/thousands-of-people-gather-at-a-mosque-in-guinea-s-capital-conakry-to-identify-those-killed-in-monday-s-opposition-rally-against-military.html)  [JSON](/news/2009/10/2/thousands-of-people-gather-at-a-mosque-in-guinea-s-capital-conakry-to-identify-those-killed-in-monday-s-opposition-rally-against-military.json)  [XML](/news/2009/10/2/thousands-of-people-gather-at-a-mosque-in-guinea-s-capital-conakry-to-identify-those-killed-in-monday-s-opposition-rally-against-military.xml)  
+
 ### [2009-10-2](/news/2009/10/2/index.md)
 
+##### mosque
 #  Thousands of people gather at a mosque in Guinea's capital, Conakry, to identify those killed in Monday's opposition rally against military rule. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8287430.stm)
 

@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2009/02/18/south-korea-says-north-korea-will-face-united-nations-sanctions-if-it-proceeds-with-a-threatening-long-range-missile-test.html)  [JSON](/news/2009/02/18/south-korea-says-north-korea-will-face-united-nations-sanctions-if-it-proceeds-with-a-threatening-long-range-missile-test.json)  [XML](/news/2009/02/18/south-korea-says-north-korea-will-face-united-nations-sanctions-if-it-proceeds-with-a-threatening-long-range-missile-test.xml)  
+
 ### [2009-02-18](/news/2009/02/18/index.md)
 
+##### South Korea
 #  South Korea says North Korea will face United Nations sanctions if it proceeds with a threatening long-range missile test. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE51H0H820090218)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20090218&t=2&i=8300610&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-18T014101Z_01_BTRE51H04OK00_RTROPTP_0_KOREA-NORTH-CLINTON)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE51H0H820090218)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20090218&t=2&i=8300610&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-02-18T014101Z_01_BTRE51H04OK00_RTROPTP_0_KOREA-NORTH-CLINTON)
 
 ### Related:
 
-1. [South Korea reports North Korea fired a Pukguksong-2 intermediate-range ballistic missile that flew 500 km before landing in the Sea of Japan. ](/news/2017/05/21/south-korea-reports-north-korea-fired-a-pukguksong-2-intermediate-range-ballistic-missile-that-flew-500-km-before-landing-in-the-sea-of-japa.md) _Context: North Korea, South Korea, intermediate-range ballistic missile_
-2. [South Korea reports that North Korea has tested two BM25 Musudan intermediate-range ballistic missiles. ](/news/2016/06/22/south-korea-reports-that-north-korea-has-tested-two-bm25-musudan-intermediate-range-ballistic-missiles.md) _Context: North Korea, South Korea, intermediate-range ballistic missile_
-3. [North Korea attempts again to launch a BM25 Musudan intermediate-range ballistic missile capable of striking South Korea or Japan but is unsuccessful. ](/news/2016/05/31/north-korea-attempts-again-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-capable-of-striking-south-korea-or-japan-but-is-uns.md) _Context: North Korea, South Korea, intermediate-range ballistic missile_
-4. [South Korea's Yonhap news agency reports that North Korea tried to launch a BM25 Musudan intermediate-range ballistic missile but was unsuccessful. ](/news/2016/04/15/south-korea-s-yonhap-news-agency-reports-that-north-korea-tried-to-launch-a-bm25-musudan-intermediate-range-ballistic-missile-but-was-unsucc.md) _Context: North Korea, South Korea, intermediate-range ballistic missile_
-5. [South Korea imposes direct sanctions against North Korea that blacklists dozens of Northern companies and people for the first time, and bans ships that have visited North Korean ports in the previous 180 days from its waters. ](/news/2016/03/8/south-korea-imposes-direct-sanctions-against-north-korea-that-blacklists-dozens-of-northern-companies-and-people-for-the-first-time-and-ban.md) _Context: North Korea, South Korea, sanctions_
+1. [North Korea threatens the "final destruction" of South Korea during a United Nations conference on disarmament. ](/news/2013/02/19/north-korea-threatens-the-final-destruction-of-south-korea-during-a-united-nations-conference-on-disarmament.md) _Context: North Korea, South Korea, United Nations_
+2. [North Korea threatens to take "strong physical countermeasures" if South Korea co-operates with new United Nations Security Council resolutions against it. ](/news/2013/01/25/north-korea-threatens-to-take-strong-physical-countermeasures-if-south-korea-co-operates-with-new-united-nations-security-council-resoluti.md) _Context: North Korea, South Korea, United Nations_
+3. [ North Korea launches its sixth ballistic missile despite the United Nations Security Council's possible international sanctions. ](/news/2009/05/30/north-korea-launches-its-sixth-ballistic-missile-despite-the-united-nations-security-council-s-possible-international-sanctions.md) _Context: North Korea, United Nations, sanctions_
+4. [ North Korea's and the United Nations' military commands meet in South Korea for the first time since 2002. ](/news/2009/03/2/north-korea-s-and-the-united-nations-military-commands-meet-in-south-korea-for-the-first-time-since-2002.md) _Context: North Korea, South Korea, United Nations_
+5. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: North Korea, South Korea_

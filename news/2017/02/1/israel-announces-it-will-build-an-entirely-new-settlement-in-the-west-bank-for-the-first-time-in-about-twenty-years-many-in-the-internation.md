@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/1/israel-announces-it-will-build-an-entirely-new-s
 
 ### [2017-02-1](/news/2017/02/1/index.md)
 
+##### Israel
 # Israel announces it will build an entirely new settlement in the West Bank for the first time in about twenty years. Many in the international community believe that such settlements are illegal but Israel disputes that. The settlement program is illegal under international law. 
 
 

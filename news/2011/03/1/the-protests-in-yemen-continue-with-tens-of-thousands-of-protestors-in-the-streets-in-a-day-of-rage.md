@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/1/the-protests-in-yemen-continue-with-tens-of-thousands-of-protestors-in-the-streets-in-a-day-of-rage.html)  [JSON](/news/2011/03/1/the-protests-in-yemen-continue-with-tens-of-thousands-of-protestors-in-the-streets-in-a-day-of-rage.json)  [XML](/news/2011/03/1/the-protests-in-yemen-continue-with-tens-of-thousands-of-protestors-in-the-streets-in-a-day-of-rage.xml)  
+
 ### [2011-03-1](/news/2011/03/1/index.md)
 
+##### 2011 Yemeni protests
 # The protests in Yemen continue with tens of thousands of protestors in the streets in a "Day of Rage". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABS CBN](http://www.abs-cbnnews.com/global-filipino/world/03/01/11/day-rage-shakes-yemen-saleh-sacks-governors)
 

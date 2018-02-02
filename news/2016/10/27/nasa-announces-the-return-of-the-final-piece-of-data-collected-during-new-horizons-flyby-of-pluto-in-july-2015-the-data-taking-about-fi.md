@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/27/nasa-announces-the-return-of-the-final-piece-of
 
 ### [2016-10-27](/news/2016/10/27/index.md)
 
+##### NASA
 # NASA announces the return of the final piece of data collected during "New Horizons"' flyby of Pluto in July 2015. The data, taking about five hours at light speed to travel across 5.5 billion kilometers (3.4 billion miles), arrived at the Johns Hopkins Applied Physics Laboratory on the morning of October 25. 
 
 

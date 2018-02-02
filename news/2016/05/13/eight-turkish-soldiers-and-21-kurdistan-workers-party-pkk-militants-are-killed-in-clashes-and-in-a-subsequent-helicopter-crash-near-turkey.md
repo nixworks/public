@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/13/eight-turkish-soldiers-and-21-kurdistan-workers
 
 ### [2016-05-13](/news/2016/05/13/index.md)
 
+##### Kurdish-Turkish conflict (2015-present)
 # Eight Turkish soldiers and 21 Kurdistan Workers Party (PKK) militants are killed in clashes and in a subsequent helicopter crash near Turkey's border with Iraq. 
 
 Eight Turkish soldiers and 22 Kurdish militants have been killed in clashes over the last two days, authorities said on Friday, as violence widened in the largely Kurdish southeast following two bombings.
@@ -22,8 +23,8 @@ Eight Turkish soldiers and 22 Kurdish militants have been killed in clashes over
 
 ### Related:
 
-1. [Turkish Armed Forces claims that it has killed three Kurdistan Workers' Party fighters in air strikes in southeastern Turkey near the borders with Iraq. ](/news/2016/09/1/turkish-armed-forces-claims-that-it-has-killed-three-kurdistan-workers-party-fighters-in-air-strikes-in-southeastern-turkey-near-the-border.md) _Context: Iraq, Kurdistan Workers' Party, Turkey_
-2. [Turkey bombs PKK sites in northern Iraq after a bombing yesterday in Hakkari Province that killed at least 16 soldiers. ](/news/2015/09/8/turkey-bombs-pkk-sites-in-northern-iraq-after-a-bombing-yesterday-in-hakkac-ri-province-that-killed-at-least-16-soldiers.md) _Context: Iraq, Kurdistan Workers' Party, Turkey_
-3. [At least 55 are killed when Turkish warplanes hit Kurdistan Workers Party (PKK) camps in northern Iraq, according to Turkey's security sources. ](/news/2015/09/19/at-least-55-are-killed-when-turkish-warplanes-hit-kurdistan-workers-party-pkk-camps-in-northern-iraq-according-to-turkey-s-security-sourc.md) _Context: Iraq, Kurdistan Workers' Party, Turkey_
-4. [Turkey has killed around 260 members of the Kurdistan Workers Party in recent bombing campaigns in Turkey and northern Iraq. Officially the operation was started to attack ISIL but over 90% of attacks were against the PKK. ](/news/2015/08/1/turkey-has-killed-around-260-members-of-the-kurdistan-workers-party-in-recent-bombing-campaigns-in-turkey-and-northern-iraq-officially-the.md) _Context: Iraq, Kurdistan Workers' Party, Turkey_
-5. [Turkish warplanes carry out strikes against PKK hideouts in northern Iraq. ](/news/2012/02/12/turkish-warplanes-carry-out-strikes-against-pkk-hideouts-in-northern-iraq.md) _Context: Iraq, Kurdistan Workers' Party, Turkey_
+1. [Turkey has killed around 260 members of the Kurdistan Workers Party in recent bombing campaigns in Turkey and northern Iraq. Officially the operation was started to attack ISIL but over 90% of attacks were against the PKK. ](/news/2015/08/1/turkey-has-killed-around-260-members-of-the-kurdistan-workers-party-in-recent-bombing-campaigns-in-turkey-and-northern-iraq-officially-the.md) _Context: Iraq, Kurdistan Workers Party, Turkish_
+2. [Turkey launches a military operation against Kurdish militants in northern Iraq, in response to attacks by the Kurdistan Workers Party that killed at least 24 Turkish soldiers in southeastern Turkey. ](/news/2011/10/19/turkey-launches-a-military-operation-against-kurdish-militants-in-northern-iraq-in-response-to-attacks-by-the-kurdistan-workers-party-that.md) _Context: Iraq, Kurdistan Workers Party, Turkish_
+3. [ The Kurdistan Workers Party claims responsibility for bombing an oil pipeline between Iraq and Turkey. ](/news/2008/11/22/the-kurdistan-workers-party-claims-responsibility-for-bombing-an-oil-pipeline-between-iraq-and-turkey.md) _Context: Iraq, Kurdistan Workers Party, Turkish_
+4. [ Turkey bombs Kurdistan Workers Party (PKK) positions in the north of Iraq, killing dozens of guerillas two days after the 2008 Istanbul bombings which Turkey believes the PKK is responsible for. ](/news/2008/07/29/turkey-bombs-kurdistan-workers-party-pkk-positions-in-the-north-of-iraq-killing-dozens-of-guerillas-two-days-after-the-2008-istanbul-bom.md) _Context: Iraq, Kurdistan Workers Party, Turkish_
+5. [ Turkish helicopters bomb several Kurdistan Workers Party positions in northern Iraq. ](/news/2007/11/13/turkish-helicopters-bomb-several-kurdistan-workers-party-positions-in-northern-iraq.md) _Context: Iraq, Kurdistan Workers Party, Turkish_

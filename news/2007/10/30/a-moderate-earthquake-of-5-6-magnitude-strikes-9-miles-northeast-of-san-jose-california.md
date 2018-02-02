@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/10/30/a-moderate-earthquake-of-5-6-magnitude-strikes-9-miles-northeast-of-san-jose-california.html)  [JSON](/news/2007/10/30/a-moderate-earthquake-of-5-6-magnitude-strikes-9-miles-northeast-of-san-jose-california.json)  [XML](/news/2007/10/30/a-moderate-earthquake-of-5-6-magnitude-strikes-9-miles-northeast-of-san-jose-california.xml)  
+
 ### [2007-10-30](/news/2007/10/30/index.md)
 
+##### earthquake
 #  A moderate earthquake of 5.6 magnitude strikes 9 miles northeast of San Jose, California. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSN3020977620071031?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20071031&t=2&i=2077081&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-10-31T045559Z_01_N30209776_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSN3020977620071031?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20071031&t=2&i=2077081&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-10-31T045559Z_01_N30209776_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

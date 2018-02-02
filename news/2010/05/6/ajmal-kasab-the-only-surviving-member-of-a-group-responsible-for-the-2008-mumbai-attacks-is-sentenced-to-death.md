@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/6/ajmal-kasab-the-only-surviving-member-of-a-group-responsible-for-the-2008-mumbai-attacks-is-sentenced-to-death.html)  [JSON](/news/2010/05/6/ajmal-kasab-the-only-surviving-member-of-a-group-responsible-for-the-2008-mumbai-attacks-is-sentenced-to-death.json)  [XML](/news/2010/05/6/ajmal-kasab-the-only-surviving-member-of-a-group-responsible-for-the-2008-mumbai-attacks-is-sentenced-to-death.xml)  
+
 ### [2010-05-6](/news/2010/05/6/index.md)
 
+##### Ajmal Kasab
 # Ajmal Kasab, the only surviving member of a group responsible for the 2008 Mumbai attacks, is sentenced to death. 
 
 Pak terrorist Ajmal Amir Kasab has been awarded the death sentence by special judge Tahaliyani. Kasab was in tears as the sentence was announced. The judge said there was no chance of Kasab reforming.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8664179.stm)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/Mumbai-attacks-Kasab-gets-the-death-penalty/articleshow/5897555.cms)

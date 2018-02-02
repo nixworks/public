@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/8/voters-in-the-u-s-city-of-memphis-tennessee-agree-to-hand-over-controls-of-memphis-city-schools-to-shelby-county.html)  [JSON](/news/2011/03/8/voters-in-the-u-s-city-of-memphis-tennessee-agree-to-hand-over-controls-of-memphis-city-schools-to-shelby-county.json)  [XML](/news/2011/03/8/voters-in-the-u-s-city-of-memphis-tennessee-agree-to-hand-over-controls-of-memphis-city-schools-to-shelby-county.xml)  
+
 ### [2011-03-8](/news/2011/03/8/index.md)
 
+##### Memphis, Tennessee
 # Voters in the U.S. city of Memphis, Tennessee, agree to hand over controls of Memphis City Schools to Shelby County. 
 
 No significant problems have been reported at the polls as Memphis residents vote to decide the fate of their city school system.&#xD;&#xA;
 
 
-### Source:
+### Sources:
 
 1. [WMC-TV](http://www.wmctv.com/Global/story.asp?S=14208408)
 1. [Cover Image](http://WMCTV.images.worldnow.com/images/14208408_BG1.jpg)

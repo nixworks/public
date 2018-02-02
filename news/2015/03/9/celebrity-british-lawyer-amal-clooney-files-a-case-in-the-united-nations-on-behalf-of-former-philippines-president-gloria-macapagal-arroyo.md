@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/9/celebrity-british-lawyer-amal-clooney-files-a-case-in-the-united-nations-on-behalf-of-former-philippines-president-gloria-macapagal-arroyo.html)  [JSON](/news/2015/03/9/celebrity-british-lawyer-amal-clooney-files-a-case-in-the-united-nations-on-behalf-of-former-philippines-president-gloria-macapagal-arroyo.json)  [XML](/news/2015/03/9/celebrity-british-lawyer-amal-clooney-files-a-case-in-the-united-nations-on-behalf-of-former-philippines-president-gloria-macapagal-arroyo.xml)  
+
 ### [2015-03-9](/news/2015/03/9/index.md)
 
+##### British
 # Celebrity British lawyer Amal Clooney files a case in the United Nations on behalf of former Philippines President Gloria Macapagal-Arroyo. 
 
 The lawyer wife of actor George Clooney has asked the United Nations Human Rights Committee (UNHRC) to call on the Philippine government to issue a public apology for violating the rights of former President Gloria Macapagal-Arroyo under the International Covenant on Civil and Political Rights (ICCPR). 
 
 
-### Source:
+### Sources:
 
 1. [Philippine Star](http://www.philstar.com/headlines/2015/03/09/1431539/clooneys-wife-wants-philippine-government-apologize-gma)
 1. [Cover Image](http://media.philstar.com/images/the-philippine-star/entertainment/20140711/amal-alamuddin-ap.jpg)

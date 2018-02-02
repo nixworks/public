@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/26/north-and-south-korea-resume-talks-on-allowing-families-divided-since-the-korean-war-to-begin-meeting-again-for-the-first-time-in-two-year.html)  [JSON](/news/2009/08/26/north-and-south-korea-resume-talks-on-allowing-families-divided-since-the-korean-war-to-begin-meeting-again-for-the-first-time-in-two-year.json)  [XML](/news/2009/08/26/north-and-south-korea-resume-talks-on-allowing-families-divided-since-the-korean-war-to-begin-meeting-again-for-the-first-time-in-two-year.xml)  
+
 ### [2009-08-26](/news/2009/08/26/index.md)
 
+##### North Korea
 #  North and South Korea resume talks on allowing families divided since the Korean War to begin meeting again, for the first time in two years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-08/26/content_11948191.htm)
 2. [Yonhap](http://english.yonhapnews.co.kr/northkorea/2009/08/25/0401000000AEN20090825009900315.HTML)

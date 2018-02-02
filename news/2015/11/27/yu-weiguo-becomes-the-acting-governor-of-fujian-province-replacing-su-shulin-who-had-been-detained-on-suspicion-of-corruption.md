@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/27/yu-weiguo-becomes-the-acting-governor-of-fujian-province-replacing-su-shulin-who-had-been-detained-on-suspicion-of-corruption.html)  [JSON](/news/2015/11/27/yu-weiguo-becomes-the-acting-governor-of-fujian-province-replacing-su-shulin-who-had-been-detained-on-suspicion-of-corruption.json)  [XML](/news/2015/11/27/yu-weiguo-becomes-the-acting-governor-of-fujian-province-replacing-su-shulin-who-had-been-detained-on-suspicion-of-corruption.xml)  
+
 ### [2015-11-27](/news/2015/11/27/index.md)
 
+##### Yu Weiguo
 # Yu Weiguo becomes the acting Governor of Fujian province, replacing Su Shulin, who had been detained on suspicion of corruption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SCMP](http://www.scmp.com/news/china/policies-politics/article/1884033/china-confirms-fujian-veteran-provinces-acting-governor)
 

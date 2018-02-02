@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/23/one-person-is-killed-and-several-injured-in-an-apparent-failed-coup-attempt-in-guinea-bissau-hours-after-the-controversial-results-of-the.html)  [JSON](/news/2008/11/23/one-person-is-killed-and-several-injured-in-an-apparent-failed-coup-attempt-in-guinea-bissau-hours-after-the-controversial-results-of-the.json)  [XML](/news/2008/11/23/one-person-is-killed-and-several-injured-in-an-apparent-failed-coup-attempt-in-guinea-bissau-hours-after-the-controversial-results-of-the.xml)  
+
 ### [2008-11-23](/news/2008/11/23/index.md)
 
+##### Guinea-Bissau
 #  One person is killed and several injured in an apparent failed coup attempt in Guinea-Bissau, hours after the controversial results of the parliamentary election were announced where the African Party for the Independence of Guinea and Cape Verde won 67 of 100 seats. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7744466.stm)
 

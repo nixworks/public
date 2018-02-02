@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/15/bosnia-and-herzegovina-formally-applies-to-join
 
 ### [2016-02-15](/news/2016/02/15/index.md)
 
+##### European Union candidacy
 # Bosnia and Herzegovina formally applies to join the European Union. 
 
 Bosnia-Herzegovina applies to join the EU - a milestone in its efforts to overcome political and ethnic tensions.

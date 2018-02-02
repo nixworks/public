@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/1/fijian-military-commander-frank-bainimarama-says-he-intends-to-begin-a-clean-up-campaign-of-government-now-that-his-deadline-has-passed.html)  [JSON](/news/2006/12/1/fijian-military-commander-frank-bainimarama-says-he-intends-to-begin-a-clean-up-campaign-of-government-now-that-his-deadline-has-passed.json)  [XML](/news/2006/12/1/fijian-military-commander-frank-bainimarama-says-he-intends-to-begin-a-clean-up-campaign-of-government-now-that-his-deadline-has-passed.xml)  
+
 ### [2006-12-1](/news/2006/12/1/index.md)
 
+##### Voreqe Bainimarama
 #  Fijian military commander Frank Bainimarama says he intends to begin a "clean up" campaign of Government now that his deadline has passed. Laisenia Qarase, the Prime Minister of Fiji, has advised that he has been given a new deadline of noon on Monday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/newsitems/200612/s1802222.htm)
 2. [NZ Herald](http://www.nzherald.co.nz/section/story.cfm?c_id=2&ObjectID=10413232)

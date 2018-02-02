@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/30/iran-and-egypt-describe-each-other-as-strategic-allies-at-the-16th-summit-of-the-non-aligned-movement-in-iran.html)  [JSON](/news/2012/08/30/iran-and-egypt-describe-each-other-as-strategic-allies-at-the-16th-summit-of-the-non-aligned-movement-in-iran.json)  [XML](/news/2012/08/30/iran-and-egypt-describe-each-other-as-strategic-allies-at-the-16th-summit-of-the-non-aligned-movement-in-iran.xml)  
+
 ### [2012-08-30](/news/2012/08/30/index.md)
 
+##### Iran
 # Iran and Egypt describe each other as "strategic allies" at the 16th Summit of the Non-Aligned Movement in Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PressTV](http://www.presstv.ir/detail/2012/08/30/259050/iran-egypt-call-each-other-key-allies/)
 

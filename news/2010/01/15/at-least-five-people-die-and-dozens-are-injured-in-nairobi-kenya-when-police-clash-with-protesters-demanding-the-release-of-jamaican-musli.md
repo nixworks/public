@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/15/at-least-five-people-die-and-dozens-are-injured-in-nairobi-kenya-when-police-clash-with-protesters-demanding-the-release-of-jamaican-musli.html)  [JSON](/news/2010/01/15/at-least-five-people-die-and-dozens-are-injured-in-nairobi-kenya-when-police-clash-with-protesters-demanding-the-release-of-jamaican-musli.json)  [XML](/news/2010/01/15/at-least-five-people-die-and-dozens-are-injured-in-nairobi-kenya-when-police-clash-with-protesters-demanding-the-release-of-jamaican-musli.xml)  
+
 ### [2010-01-15](/news/2010/01/15/index.md)
 
+##### Nairobi
 # At least five people die and dozens are injured in Nairobi, Kenya, when police clash with protesters demanding the release of Jamaican Muslim cleric Abdullah al-Faisal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/01/2010115164045465188.html)
 2. [Xinhua](http://news.xinhuanet.com/english/2010-01/16/content_12818314.htm)

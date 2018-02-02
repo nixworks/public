@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/09/19/the-deputy-commander-of-the-iranian-air-force-claims-that-iran-has-plans-to-retaliate-if-attacked-by-israel.html)  [JSON](/news/2007/09/19/the-deputy-commander-of-the-iranian-air-force-claims-that-iran-has-plans-to-retaliate-if-attacked-by-israel.json)  [XML](/news/2007/09/19/the-deputy-commander-of-the-iranian-air-force-claims-that-iran-has-plans-to-retaliate-if-attacked-by-israel.xml)  
+
 ### [2007-09-19](/news/2007/09/19/index.md)
 
+##### Iranian Air Force
 #  The Deputy Commander of the Iranian Air Force claims that Iran has plans to retaliate if attacked by Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/world/20070919/79708810.html)
 
 ### Related:
 
-1. [The first synchrotron in the Middle East, SESAME, opens in Jordan, marking a rare cooperation between Iran, Israel, Turkey, and the Palestinian Authority. ](/news/2017/05/16/the-first-synchrotron-in-the-middle-east-sesame-opens-in-jordan-marking-a-rare-cooperation-between-iran-israel-turkey-and-the-palestin.md) _Context: Iran, Israel_
-2. [An explosion occurs in Taksim Square in Istanbul, Turkey, kills five people, including two dual citizenship Israeli-Americans and one Iranian citizen, and injures several dozen others. ](/news/2016/03/19/an-explosion-occurs-in-taksim-square-in-istanbul-turkey-kills-five-people-including-two-dual-citizenship-israeli-americans-and-one-irania.md) _Context: Iran, Israel_
-3. [The Israeli government outlaws the northern branch of the Islamic Movement in Israel, declaring it "an illegal organization". The northern branch of the Islamic Movement is led by Raed Salah, who has been convicted in court of numerous activities, including funding Hamas, contacting an Iranian agent, assaulting a police officer, and leading a violent protest. ](/news/2015/11/17/the-israeli-government-outlaws-the-northern-branch-of-the-islamic-movement-in-israel-declaring-it-an-illegal-organization-the-northern-b.md) _Context: Iran, Israel_
-4. [Russian president Vladimir Putin lifts the ban on delivery of S-300 missile air defense systems to Iran in connection to the nuclear dialogue. Israel and the United States oppose the deal on the grounds that Iran is a state sponsor of terrorism. ](/news/2015/04/13/russian-president-vladimir-putin-lifts-the-ban-on-delivery-of-s-300-missile-air-defense-systems-to-iran-in-connection-to-the-nuclear-dialogu.md) _Context: Iran, Israel_
-5. [Israeli aircraft hit at least six targets near Damascus, targeting Iranian-made Fateh-110 missile shipments en route to Hezbollah. ](/news/2013/05/5/israeli-aircraft-hit-at-least-six-targets-near-damascus-targeting-iranian-made-fateh-110-missile-shipments-en-route-to-hezbollah.md) _Context: Iran, Israel_
+1. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: Israel_
+2. [U.S. President Donald Trump threatens to stop aid to Palestine if they do not agree to partake in peace talks with Israel. ](/news/2018/01/25/u-s-president-donald-trump-threatens-to-stop-aid-to-palestine-if-they-do-not-agree-to-partake-in-peace-talks-with-israel.md) _Context: Israel_
+3. [Abdullah II of Jordan tells U.S. Vice President Mike Pence the U.S. has to rebuild "trust and confidence" to achieve a two-state solution in Israel after the U.S. recognized Jerusalem as Israel's capital. ](/news/2018/01/21/abdullah-ii-of-jordan-tells-u-s-vice-president-mike-pence-the-u-s-has-to-rebuild-trust-and-confidence-to-achieve-a-two-state-solution-in.md) _Context: Israel_
+4. [President Donald Trump tweets that the U.S. may withhold future payments to the Palestinian authority, over 350 million dollars per year, because they are "no longer willing to talk peace" with Israel, and that Israel "would have had to pay more" in return for his recognition of Jerusalem as Israel's capital. ](/news/2018/01/2/president-donald-trump-tweets-that-the-u-s-may-withhold-future-payments-to-the-palestinian-authority-over-350-million-dollars-per-year-be.md) _Context: Israel_
+5. [Israel announces plans to deport African migrants residing in the country illegally. Migrants will be given 90 days to leave the country or face imprisonment. ](/news/2018/01/2/israel-announces-plans-to-deport-african-migrants-residing-in-the-country-illegally-migrants-will-be-given-90-days-to-leave-the-country-or.md) _Context: Israel_

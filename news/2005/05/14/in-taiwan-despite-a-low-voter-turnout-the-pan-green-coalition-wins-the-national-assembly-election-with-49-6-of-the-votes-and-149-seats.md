@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/05/14/in-taiwan-despite-a-low-voter-turnout-the-pan-green-coalition-wins-the-national-assembly-election-with-49-6-of-the-votes-and-149-seats.html)  [JSON](/news/2005/05/14/in-taiwan-despite-a-low-voter-turnout-the-pan-green-coalition-wins-the-national-assembly-election-with-49-6-of-the-votes-and-149-seats.json)  [XML](/news/2005/05/14/in-taiwan-despite-a-low-voter-turnout-the-pan-green-coalition-wins-the-national-assembly-election-with-49-6-of-the-votes-and-149-seats.xml)  
+
 ### [2005-05-14](/news/2005/05/14/index.md)
 
+##### Taiwan
 #  In Taiwan, despite a low voter turnout, the Pan-Green Coalition wins the National Assembly election, with 49.6 % of the votes and 149 seats out of the 300 in the National Assembly of the Republic of China. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/05/14/taiwan.vote.reut/)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8491776)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8491776)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

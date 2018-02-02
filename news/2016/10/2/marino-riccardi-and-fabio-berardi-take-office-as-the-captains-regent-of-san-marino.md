@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/2/marino-riccardi-and-fabio-berardi-take-office-as
 
 ### [2016-10-2](/news/2016/10/2/index.md)
 
+##### Marino Riccardi
 # Marino Riccardi and Fabio Berardi take office as the Captains Regent of San Marino. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/23/the-international-court-of-justice-awards-sovereignty-of-pedra-branca-to-singapore-ending-a-28-year-dispute-over-the-islet-between-singapo.html)  [JSON](/news/2008/05/23/the-international-court-of-justice-awards-sovereignty-of-pedra-branca-to-singapore-ending-a-28-year-dispute-over-the-islet-between-singapo.json)  [XML](/news/2008/05/23/the-international-court-of-justice-awards-sovereignty-of-pedra-branca-to-singapore-ending-a-28-year-dispute-over-the-islet-between-singapo.xml)  
+
 ### [2008-05-23](/news/2008/05/23/index.md)
 
+##### International Court of Justice
 #  The International Court of Justice awards sovereignty of Pedra Branca to Singapore, ending a 28-year dispute over the islet between Singapore and Malaysia. Malaysia was awarded sovereignty of an outcropping of Pedra Branca, Middle Rocks, while the sovereignty of South Ledge was left to be determined by the maritime boundary between the two nations, which is also a contentious point. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/stories/singaporelocalnews/view/349592/1/.html)
 

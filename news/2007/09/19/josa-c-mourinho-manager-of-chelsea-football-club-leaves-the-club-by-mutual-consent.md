@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/19/josa-c-mourinho-manager-of-chelsea-football-club-leaves-the-club-by-mutual-consent.html)  [JSON](/news/2007/09/19/josa-c-mourinho-manager-of-chelsea-football-club-leaves-the-club-by-mutual-consent.json)  [XML](/news/2007/09/19/josa-c-mourinho-manager-of-chelsea-football-club-leaves-the-club-by-mutual-consent.xml)  
+
 ### [2007-09-19](/news/2007/09/19/index.md)
 
+##### Jose Mourinho
 #  Jose Mourinho, manager of Chelsea Football Club, leaves the club by mutual consent. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/football/teams/c/chelsea/7003912.stm)
 

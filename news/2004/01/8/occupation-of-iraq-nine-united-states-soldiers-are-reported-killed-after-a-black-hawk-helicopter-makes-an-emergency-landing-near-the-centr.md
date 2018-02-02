@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/8/occupation-of-iraq-nine-united-states-soldiers-are-reported-killed-after-a-black-hawk-helicopter-makes-an-emergency-landing-near-the-centr.html)  [JSON](/news/2004/01/8/occupation-of-iraq-nine-united-states-soldiers-are-reported-killed-after-a-black-hawk-helicopter-makes-an-emergency-landing-near-the-centr.json)  [XML](/news/2004/01/8/occupation-of-iraq-nine-united-states-soldiers-are-reported-killed-after-a-black-hawk-helicopter-makes-an-emergency-landing-near-the-centr.xml)  
+
 ### [2004-01-8](/news/2004/01/8/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: Nine United States soldiers are reported killed after a Black Hawk helicopter makes an emergency landing near the central Iraqi town of Falluja.
 
 

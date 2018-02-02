@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/11/7/illness-of-yasser-arafat-officials-of-the-palestinian-authority-travel-to-france-to-see-yasser-arafat-suha-arafat-wife-of-yasser-arafat.html)  [JSON](/news/2004/11/7/illness-of-yasser-arafat-officials-of-the-palestinian-authority-travel-to-france-to-see-yasser-arafat-suha-arafat-wife-of-yasser-arafat.json)  [XML](/news/2004/11/7/illness-of-yasser-arafat-officials-of-the-palestinian-authority-travel-to-france-to-see-yasser-arafat-suha-arafat-wife-of-yasser-arafat.xml)  
+
 ### [2004-11-7](/news/2004/11/7/index.md)
 
+##### Illness of Yasser Arafat
 #  Illness of Yasser Arafat: Officials of the Palestinian Authority travel to France to see Yasser Arafat. Suha Arafat, wife of Yasser Arafat, says, "They are trying to bury Abu Ammar (Arafat) alive". Israeli security officials believe Arafat is brain-dead or comatose, and is on life support equipment and will be disconnected on Tuesday, the Muslim holiday of Lailat-ul-Qadr so that he will be declared dead on that day. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6744501&pageNumber=1)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6744501&pageNumber=1)
 
 ### Related:
 

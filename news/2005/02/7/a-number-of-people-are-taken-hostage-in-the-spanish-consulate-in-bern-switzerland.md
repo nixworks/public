@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/7/a-number-of-people-are-taken-hostage-in-the-spanish-consulate-in-bern-switzerland.html)  [JSON](/news/2005/02/7/a-number-of-people-are-taken-hostage-in-the-spanish-consulate-in-bern-switzerland.json)  [XML](/news/2005/02/7/a-number-of-people-are-taken-hostage-in-the-spanish-consulate-in-bern-switzerland.xml)  
+
 ### [2005-02-7](/news/2005/02/7/index.md)
 
+##### hostage
 #  A number of people are taken hostage in the Spanish consulate in Bern, Switzerland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4242491.stm)
 2. [SwissInfo](http://www.swissinfo.org/sen/swissinfo.html?siteSect=111&sid=5520655)

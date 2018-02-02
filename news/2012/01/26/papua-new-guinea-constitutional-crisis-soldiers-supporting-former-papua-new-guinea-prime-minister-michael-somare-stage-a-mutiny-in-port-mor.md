@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/26/papua-new-guinea-constitutional-crisis-soldiers-supporting-former-papua-new-guinea-prime-minister-michael-somare-stage-a-mutiny-in-port-mor.html)  [JSON](/news/2012/01/26/papua-new-guinea-constitutional-crisis-soldiers-supporting-former-papua-new-guinea-prime-minister-michael-somare-stage-a-mutiny-in-port-mor.json)  [XML](/news/2012/01/26/papua-new-guinea-constitutional-crisis-soldiers-supporting-former-papua-new-guinea-prime-minister-michael-somare-stage-a-mutiny-in-port-mor.xml)  
+
 ### [2012-01-26](/news/2012/01/26/index.md)
 
+##### Papua New Guinea constitutional crisis
 # Papua New Guinea constitutional crisis: Soldiers supporting former Papua New Guinea Prime Minister Michael Somare stage a mutiny in Port Moresby. PNG Brigadier General Francis Agwi is said to be under house arrest. 
 
 The retired colonel who claims to have seized control of PNG&#039;s military threatens to use necessary actions to resolve the country&#039;s political stand-off.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/2012-01-26/military-mutiny-underway-in-png/3794314)
 1. [Cover Image](http://www.abc.net.au/news/image/3794810-1x1-700x700.jpg)

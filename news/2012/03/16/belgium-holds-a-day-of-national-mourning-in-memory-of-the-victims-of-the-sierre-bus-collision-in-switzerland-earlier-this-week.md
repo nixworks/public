@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/16/belgium-holds-a-day-of-national-mourning-in-memory-of-the-victims-of-the-sierre-bus-collision-in-switzerland-earlier-this-week.html)  [JSON](/news/2012/03/16/belgium-holds-a-day-of-national-mourning-in-memory-of-the-victims-of-the-sierre-bus-collision-in-switzerland-earlier-this-week.json)  [XML](/news/2012/03/16/belgium-holds-a-day-of-national-mourning-in-memory-of-the-victims-of-the-sierre-bus-collision-in-switzerland-earlier-this-week.xml)  
+
 ### [2012-03-16](/news/2012/03/16/index.md)
 
+##### Belgium
 # Belgium holds a day of national mourning in memory of the victims of the Sierre bus collision in Switzerland earlier this week. 
 
 Belgium holds a day of mourning to remember the victims of the coach crash in a Swiss tunnel in which 22 schoolchildren and six adults died.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17391783)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59112000/jpg/_59112416_014274409-1.jpg)

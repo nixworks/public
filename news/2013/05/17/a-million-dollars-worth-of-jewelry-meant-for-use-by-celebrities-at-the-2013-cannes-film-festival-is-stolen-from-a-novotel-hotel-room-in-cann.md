@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/17/a-million-dollars-worth-of-jewelry-meant-for-use-by-celebrities-at-the-2013-cannes-film-festival-is-stolen-from-a-novotel-hotel-room-in-cann.html)  [JSON](/news/2013/05/17/a-million-dollars-worth-of-jewelry-meant-for-use-by-celebrities-at-the-2013-cannes-film-festival-is-stolen-from-a-novotel-hotel-room-in-cann.json)  [XML](/news/2013/05/17/a-million-dollars-worth-of-jewelry-meant-for-use-by-celebrities-at-the-2013-cannes-film-festival-is-stolen-from-a-novotel-hotel-room-in-cann.xml)  
+
 ### [2013-05-17](/news/2013/05/17/index.md)
 
+##### 2013 Cannes Film Festival
 # A million dollars worth of jewelry meant for use by celebrities at the 2013 Cannes Film Festival is stolen from a Novotel hotel room in Cannes. 
 
 More than $1m (£650,000) worth of jewels have been stolen from a hotel in the French town of Cannes, police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-22567649)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/67667000/jpg/_67667720_67667718.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/22/the-united-states-supreme-court-rules-that-health-maintenance-organizations-cannot-be-sued-in-state-courts-under-malpractice-laws.html)  [JSON](/news/2004/06/22/the-united-states-supreme-court-rules-that-health-maintenance-organizations-cannot-be-sued-in-state-courts-under-malpractice-laws.json)  [XML](/news/2004/06/22/the-united-states-supreme-court-rules-that-health-maintenance-organizations-cannot-be-sued-in-state-courts-under-malpractice-laws.xml)  
+
 ### [2004-06-22](/news/2004/06/22/index.md)
 
+##### United States Supreme Court
 #  The United States Supreme Court rules that Health Maintenance Organizations cannot be sued in state courts under malpractice laws. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Forbes](https://web.archive.org/web/20040624165848/http://www.forbes.com/healthcare/2004/06/22/cx_da_0622topnews.html)
 

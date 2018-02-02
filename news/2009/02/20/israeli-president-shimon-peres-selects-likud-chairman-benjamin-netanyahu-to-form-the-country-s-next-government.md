@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/20/israeli-president-shimon-peres-selects-likud-chairman-benjamin-netanyahu-to-form-the-country-s-next-government.html)  [JSON](/news/2009/02/20/israeli-president-shimon-peres-selects-likud-chairman-benjamin-netanyahu-to-form-the-country-s-next-government.json)  [XML](/news/2009/02/20/israeli-president-shimon-peres-selects-likud-chairman-benjamin-netanyahu-to-form-the-country-s-next-government.xml)  
+
 ### [2009-02-20](/news/2009/02/20/index.md)
 
+##### Israel
 #  Israeli President Shimon Peres selects Likud Chairman Benjamin Netanyahu to form the country's next government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3674906,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

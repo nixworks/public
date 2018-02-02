@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/5/an-appeals-court-in-norway-ruled-that-jon-johansen-the-teenager-who-developed-the-decss-software-that-allows-dvds-to-be-copied-will-have.html)  [JSON](/news/2003/03/5/an-appeals-court-in-norway-ruled-that-jon-johansen-the-teenager-who-developed-the-decss-software-that-allows-dvds-to-be-copied-will-have.json)  [XML](/news/2003/03/5/an-appeals-court-in-norway-ruled-that-jon-johansen-the-teenager-who-developed-the-decss-software-that-allows-dvds-to-be-copied-will-have.xml)  
+
 ### [2003-03-5](/news/2003/03/5/index.md)
 
+##### Jon Johansen
 #  An appeals court in Norway ruled that Jon Johansen, the teenager who developed the DeCSS software that allows DVDs to be copied, will have to be retried on charges that he violated copyright and anti-hacking laws.
 
 

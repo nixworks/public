@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/3/u-s-president-george-w-bush-meets-with-arab-leaders-and-says-that-their-summit-is-making-progress-on-the-us-backed-road-map-to-israeli.html)  [JSON](/news/2003/06/3/u-s-president-george-w-bush-meets-with-arab-leaders-and-says-that-their-summit-is-making-progress-on-the-us-backed-road-map-to-israeli.json)  [XML](/news/2003/06/3/u-s-president-george-w-bush-meets-with-arab-leaders-and-says-that-their-summit-is-making-progress-on-the-us-backed-road-map-to-israeli.xml)  
+
 ### [2003-06-3](/news/2003/06/3/index.md)
 
+##### U.S. President
 #  U.S. President George W. Bush meets with Arab leaders, and says that their summit is making progress on the US-backed "road-map" to Israeli-Palestinian peace. The Arab leaders announce their support for the "road map" and promise to work on cutting off funding to "terrorist groups".
 
 

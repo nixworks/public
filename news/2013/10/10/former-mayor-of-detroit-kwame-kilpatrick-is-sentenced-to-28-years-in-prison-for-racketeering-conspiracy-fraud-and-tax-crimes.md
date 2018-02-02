@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/10/former-mayor-of-detroit-kwame-kilpatrick-is-sentenced-to-28-years-in-prison-for-racketeering-conspiracy-fraud-and-tax-crimes.html)  [JSON](/news/2013/10/10/former-mayor-of-detroit-kwame-kilpatrick-is-sentenced-to-28-years-in-prison-for-racketeering-conspiracy-fraud-and-tax-crimes.json)  [XML](/news/2013/10/10/former-mayor-of-detroit-kwame-kilpatrick-is-sentenced-to-28-years-in-prison-for-racketeering-conspiracy-fraud-and-tax-crimes.xml)  
+
 ### [2013-10-10](/news/2013/10/10/index.md)
 
+##### Mayor of Detroit
 # Former Mayor of Detroit Kwame Kilpatrick is sentenced to 28 years in prison for racketeering, conspiracy, fraud, and tax crimes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://news.msn.com/crime-justice/ex-detroit-mayor-sentenced-to-28-years)
 

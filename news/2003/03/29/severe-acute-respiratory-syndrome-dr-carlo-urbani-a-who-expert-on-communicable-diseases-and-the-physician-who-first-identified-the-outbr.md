@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/29/severe-acute-respiratory-syndrome-dr-carlo-urbani-a-who-expert-on-communicable-diseases-and-the-physician-who-first-identified-the-outbr.html)  [JSON](/news/2003/03/29/severe-acute-respiratory-syndrome-dr-carlo-urbani-a-who-expert-on-communicable-diseases-and-the-physician-who-first-identified-the-outbr.json)  [XML](/news/2003/03/29/severe-acute-respiratory-syndrome-dr-carlo-urbani-a-who-expert-on-communicable-diseases-and-the-physician-who-first-identified-the-outbr.xml)  
+
 ### [2003-03-29](/news/2003/03/29/index.md)
 
+##### SARS
 #  Severe Acute Respiratory Syndrome: Dr. Carlo Urbani, a WHO expert on communicable diseases and the physician who first identified the outbreak, dies of the disease in Thailand. He had been infected in Vietnam.
 
 

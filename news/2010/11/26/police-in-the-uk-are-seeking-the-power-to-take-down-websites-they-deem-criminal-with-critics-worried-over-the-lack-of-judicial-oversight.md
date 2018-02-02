@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/26/police-in-the-uk-are-seeking-the-power-to-take-down-websites-they-deem-criminal-with-critics-worried-over-the-lack-of-judicial-oversight.html)  [JSON](/news/2010/11/26/police-in-the-uk-are-seeking-the-power-to-take-down-websites-they-deem-criminal-with-critics-worried-over-the-lack-of-judicial-oversight.json)  [XML](/news/2010/11/26/police-in-the-uk-are-seeking-the-power-to-take-down-websites-they-deem-criminal-with-critics-worried-over-the-lack-of-judicial-oversight.xml)  
+
 ### [2010-11-26](/news/2010/11/26/index.md)
 
+##### Police in the UK
 # Police in the UK are seeking the power to take down websites they deem "criminal", with critics worried over the lack of judicial oversight. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-11845961)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

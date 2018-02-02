@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/31/the-latino-victory-fund-withdraws-an-antiaed-gi
 
 ### [2017-10-31](/news/2017/10/31/index.md)
 
+##### Virginia
 # The Latino Victory Fund withdraws an anti-Ed Gillespie political advertisement because of scenes which loosely resemble a recent terror attack in New York City. The ad was originally meant to improve Ralph Northam's standing with minority voters. 
 
 Private polling showed the Democratic candidate with soft support among Latinos in Virginia.

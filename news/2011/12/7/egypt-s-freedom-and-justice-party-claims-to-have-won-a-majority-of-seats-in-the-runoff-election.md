@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/7/egypt-s-freedom-and-justice-party-claims-to-have-won-a-majority-of-seats-in-the-runoff-election.html)  [JSON](/news/2011/12/7/egypt-s-freedom-and-justice-party-claims-to-have-won-a-majority-of-seats-in-the-runoff-election.json)  [XML](/news/2011/12/7/egypt-s-freedom-and-justice-party-claims-to-have-won-a-majority-of-seats-in-the-runoff-election.xml)  
+
 ### [2011-12-7](/news/2011/12/7/index.md)
 
+##### Egypt
 # Egypt's Freedom and Justice Party claims to have won a majority of seats in the runoff election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ynet News](http://www.ynetnews.com/articles/0,7340,L-4158267,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

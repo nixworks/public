@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/18/clashes-between-the-sudan-people-s-liberation-army-movement-and-rebel-forces-led-by-george-athor-kill-70-people-in-south-sudan.html)  [JSON](/news/2011/03/18/clashes-between-the-sudan-people-s-liberation-army-movement-and-rebel-forces-led-by-george-athor-kill-70-people-in-south-sudan.json)  [XML](/news/2011/03/18/clashes-between-the-sudan-people-s-liberation-army-movement-and-rebel-forces-led-by-george-athor-kill-70-people-in-south-sudan.xml)  
+
 ### [2011-03-18](/news/2011/03/18/index.md)
 
+##### Sudan People's Liberation Army/Movement
 # Clashes between the Sudan People's Liberation Army-Movement and rebel forces led by George Athor kill 70 people in South Sudan. 
 
 Two days of fighting between the South Sudan army and rebels have killed about 70 people, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12791475)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

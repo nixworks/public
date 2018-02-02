@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/06/20/south-sudan-s-7ft-7in-basketball-legend-and-humanitarian-manute-bol-dies.html)  [JSON](/news/2010/06/20/south-sudan-s-7ft-7in-basketball-legend-and-humanitarian-manute-bol-dies.json)  [XML](/news/2010/06/20/south-sudan-s-7ft-7in-basketball-legend-and-humanitarian-manute-bol-dies.xml)  
+
 ### [2010-06-20](/news/2010/06/20/index.md)
 
+##### South Sudan
 # South Sudan's 7ft 7in basketball legend and humanitarian, Manute Bol, dies. 
 
 The 7ft 7in basketball legend from south Sudan, Manute Bol, dies at the age of 47.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10361522.stm)
-2. [The Independent](http://www.independent.co.uk/news/world/americas/sudan-mourns-gentle-giant-who-took-nba-by-storm-2006121.html)
-3. [The New York Times](http://www.nytimes.com/2010/06/20/sports/basketball/20bol.html?partner=rss&emc=rss)
-4. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/gallery/2010/06/19/GA2010061902220.html?hpid=moreheadlines)
+2. [The Independent](https://www.independent.co.uk/news/world/americas/sudan-mourns-gentle-giant-who-took-nba-by-storm-2006121.html)
+3. [The New York Times](https://www.nytimes.com/2010/06/20/sports/basketball/20bol.html?partner=rss&emc=rss)
+4. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/gallery/2010/06/19/GA2010061902220.html?hpid=moreheadlines)
 4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:

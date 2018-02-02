@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/22/the-pope-accepts-the-resignation-of-bishop-of-kildare-and-leighlin-james-moriarty.html)  [JSON](/news/2010/04/22/the-pope-accepts-the-resignation-of-bishop-of-kildare-and-leighlin-james-moriarty.json)  [XML](/news/2010/04/22/the-pope-accepts-the-resignation-of-bishop-of-kildare-and-leighlin-james-moriarty.xml)  
+
 ### [2010-04-22](/news/2010/04/22/index.md)
 
+##### Bishop of Kildare and Leighlin
 # The Pope accepts the resignation of Bishop of Kildare and Leighlin James Moriarty. 
 
 Pope Benedict XVI has accepted the resignation of the Bishop of Kildare and Leighlin Jim Moriarty.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/2010422103030232888.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8634624.stm)

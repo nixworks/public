@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/20/cabin-crew-at-british-airways-begin-a-three-day-strike.html)  [JSON](/news/2010/03/20/cabin-crew-at-british-airways-begin-a-three-day-strike.json)  [XML](/news/2010/03/20/cabin-crew-at-british-airways-begin-a-three-day-strike.xml)  
+
 ### [2010-03-20](/news/2010/03/20/index.md)
 
+##### British Airways
 # Cabin crew at British Airways begin a three-day strike. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/8577573.stm)
 2. [The Guardian](http://www.guardian.co.uk/business/2010/mar/20/ba-strike-british-airways-union-bullish)

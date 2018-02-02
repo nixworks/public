@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/05/27/the-oldham-riots-take-place-in-oldham-greater-manchester-after-a-string-of-events-create-tension-between-white-and-asian-communities.html)  [JSON](/news/2001/05/27/the-oldham-riots-take-place-in-oldham-greater-manchester-after-a-string-of-events-create-tension-between-white-and-asian-communities.json)  [XML](/news/2001/05/27/the-oldham-riots-take-place-in-oldham-greater-manchester-after-a-string-of-events-create-tension-between-white-and-asian-communities.xml)  
+
 ### [2001-05-27](/news/2001/05/27/index.md)
 
+##### Oldham
 #  The Oldham riots take place in Oldham, Greater Manchester, after a string of events create tension between White and Asian communities.
 
 

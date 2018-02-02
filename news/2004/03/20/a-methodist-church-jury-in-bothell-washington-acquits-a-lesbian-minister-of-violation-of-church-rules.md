@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/20/a-methodist-church-jury-in-bothell-washington-acquits-a-lesbian-minister-of-violation-of-church-rules.html)  [JSON](/news/2004/03/20/a-methodist-church-jury-in-bothell-washington-acquits-a-lesbian-minister-of-violation-of-church-rules.json)  [XML](/news/2004/03/20/a-methodist-church-jury-in-bothell-washington-acquits-a-lesbian-minister-of-violation-of-church-rules.xml)  
+
 ### [2004-03-20](/news/2004/03/20/index.md)
 
+##### Methodist
 #  A Methodist church jury in Bothell, Washington acquits a lesbian minister of violation of church rules. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://story.news.yahoo.com/news?tmpl=story&u=/ap/20040321/ap_on_re_us/gay_pastor&cid=519&ncid=716)
 

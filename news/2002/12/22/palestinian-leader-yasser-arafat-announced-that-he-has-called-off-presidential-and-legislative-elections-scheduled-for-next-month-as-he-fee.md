@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/22/palestinian-leader-yasser-arafat-announced-that-he-has-called-off-presidential-and-legislative-elections-scheduled-for-next-month-as-he-fee.html)  [JSON](/news/2002/12/22/palestinian-leader-yasser-arafat-announced-that-he-has-called-off-presidential-and-legislative-elections-scheduled-for-next-month-as-he-fee.json)  [XML](/news/2002/12/22/palestinian-leader-yasser-arafat-announced-that-he-has-called-off-presidential-and-legislative-elections-scheduled-for-next-month-as-he-fee.xml)  
+
 ### [2002-12-22](/news/2002/12/22/index.md)
 
+##### Palestinians
 # Palestinian leader Yasser Arafat announced that he has called off presidential and legislative elections scheduled for next month, as he feels that continued Israeli occupation of Palestinian territory will make a free election impossible.
 
 

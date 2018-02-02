@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/22/nobel-peace-laureates-desmond-tutu-and-shirin-ebadi-lead-hundreds-of-rights-groups-in-calling-on-senegal-to-try-exiled-chadian-dictator-hiss.html)  [JSON](/news/2010/07/22/nobel-peace-laureates-desmond-tutu-and-shirin-ebadi-lead-hundreds-of-rights-groups-in-calling-on-senegal-to-try-exiled-chadian-dictator-hiss.json)  [XML](/news/2010/07/22/nobel-peace-laureates-desmond-tutu-and-shirin-ebadi-lead-hundreds-of-rights-groups-in-calling-on-senegal-to-try-exiled-chadian-dictator-hiss.xml)  
+
 ### [2010-07-22](/news/2010/07/22/index.md)
 
+##### Desmond Tutu
 # Nobel Peace Laureates Desmond Tutu and Shirin Ebadi lead hundreds of rights groups in calling on Senegal to try exiled Chadian dictator Hissene Habre for mass murder and torture. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jyZUL_2b7-DvyQawp5hA9JmlNv-w)
 2. [Ekklesia](http://www.ekklesia.co.uk/node/12686)

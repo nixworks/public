@@ -1,17 +1,26 @@
+
+Formats: [HTML](/news/2008/05/14/the-united-nations-is-warning-that-another-cyclone-could-be-forming-near-myanmar-which-was-devastated-by-cyclone-nargis.html)  [JSON](/news/2008/05/14/the-united-nations-is-warning-that-another-cyclone-could-be-forming-near-myanmar-which-was-devastated-by-cyclone-nargis.json)  [XML](/news/2008/05/14/the-united-nations-is-warning-that-another-cyclone-could-be-forming-near-myanmar-which-was-devastated-by-cyclone-nargis.xml)  
+
 ### [2008-05-14](/news/2008/05/14/index.md)
 
+##### Cyclone Nargis
 #  The United Nations is warning that another cyclone could be forming near Myanmar which was devastated by Cyclone Nargis. 
 
 The death toll from the cyclone in Burma could wind up climbing to between 68,833 and 127,990, the Red Cross said Wednesday, as the United Nations warned that a second cyclone was forming in the region.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Times of South Africa](http://www.thetimes.co.za/News/Article.aspx?id=7662970)
 2. [AP via Fox News](http://www.foxnews.com/story/0,2933,355538,00.html)
-3. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080514/ap_on_re_as/myanmar_68;_ylt=AgUu3SW0m_JyE9mtBaV11gxn.3QA)
-4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSBKK93030)
+3. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20080514/ap_on_re_as/myanmar_68;_ylt=AgUu3SW0m_JyE9mtBaV11gxn.3QA)
+4. [Reuters](https://www.reuters.com/article/latestCrisis/idUSBKK93030)
 4. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
+
+### Changes:
+
+1. [ Cyclone Nargis: The United Nations is warning that another cyclone could be forming near Myanmar which was devastated by Cyclone Nargis. ](/news/2008/05/14/cyclone-nargis-the-united-nations-is-warning-that-another-cyclone-could-be-forming-near-myanmar-which-was-devastated-by-cyclone-nargis.md) _2017-08-27 03:22:05 (First version)_
+1. [ The United Nations is warning that another cyclone could be forming near Myanmar which was devastated by Cyclone Nargis. ](/news/2008/05/14/the-united-nations-is-warning-that-another-cyclone-could-be-forming-near-myanmar-which-was-devastated-by-cyclone-nargis.md) _(Current version)_
 
 ### Related:
 
@@ -20,8 +29,3 @@ The death toll from the cyclone in Burma could wind up climbing to between 68,83
 3. [A United Nations official accuses Myanmar of committing genocide against the Rohingya. ](/news/2016/11/24/a-united-nations-official-accuses-myanmar-of-committing-genocide-against-the-rohingya.md) _Context: Myanmar, United Nations_
 4. [The United Nations calls for action to end renewed hostilities between ethnic Buddhists and Muslim Rohingya in Myanmar's western Rakhine State that have killed dozens and displaced more than 22,500. ](/news/2012/10/28/the-united-nations-calls-for-action-to-end-renewed-hostilities-between-ethnic-buddhists-and-muslim-rohingya-in-myanmar-s-western-rakhine-sta.md) _Context: Myanmar, United Nations_
 5. [The United Nations Special Envoy to Myanmar, Tomas Quintana, arrives in the country on the first day of a five day visit to assess the progress on human rights. ](/news/2010/02/15/the-united-nations-special-envoy-to-myanmar-tomas-quintana-arrives-in-the-country-on-the-first-day-of-a-five-day-visit-to-assess-the-progr.md) _Context: Myanmar, United Nations_
-
-### Changes:
-
-1. [ Cyclone Nargis: The United Nations is warning that another cyclone could be forming near Myanmar which was devastated by Cyclone Nargis. ](/news/2008/05/14/cyclone-nargis-the-united-nations-is-warning-that-another-cyclone-could-be-forming-near-myanmar-which-was-devastated-by-cyclone-nargis.md) _2017-08-27 03:22:05 (First version)_
-1. [ The United Nations is warning that another cyclone could be forming near Myanmar which was devastated by Cyclone Nargis. ](/news/2008/05/14/the-united-nations-is-warning-that-another-cyclone-could-be-forming-near-myanmar-which-was-devastated-by-cyclone-nargis.md) _(Current version)_

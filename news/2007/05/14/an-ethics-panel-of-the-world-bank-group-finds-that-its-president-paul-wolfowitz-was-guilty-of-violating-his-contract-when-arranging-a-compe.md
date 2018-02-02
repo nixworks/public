@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/05/14/an-ethics-panel-of-the-world-bank-group-finds-that-its-president-paul-wolfowitz-was-guilty-of-violating-his-contract-when-arranging-a-compe.html)  [JSON](/news/2007/05/14/an-ethics-panel-of-the-world-bank-group-finds-that-its-president-paul-wolfowitz-was-guilty-of-violating-his-contract-when-arranging-a-compe.json)  [XML](/news/2007/05/14/an-ethics-panel-of-the-world-bank-group-finds-that-its-president-paul-wolfowitz-was-guilty-of-violating-his-contract-when-arranging-a-compe.xml)  
+
 ### [2007-05-14](/news/2007/05/14/index.md)
 
+##### World Bank Group
 #  An ethics panel of the World Bank Group finds that its President Paul Wolfowitz was guilty of violating his contract when arranging a compensation package for Shaha Ali Riza with whom he had a relationship. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aPvkE6r1tI60&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=aPvkE6r1tI60&refer=home)
 2. [CNN](http://www.cnn.com/2007/POLITICS/05/14/wolfowitz.world.bank.ap/index.html)
 
 ### Related:

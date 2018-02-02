@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/31/turkish-police-fire-tear-gas-at-hundreds-of-protestors-in-istanbul-and-ankara-as-protestors-mark-the-anniversary-of-the-start-of-the-ongoing.html)  [JSON](/news/2014/05/31/turkish-police-fire-tear-gas-at-hundreds-of-protestors-in-istanbul-and-ankara-as-protestors-mark-the-anniversary-of-the-start-of-the-ongoing.json)  [XML](/news/2014/05/31/turkish-police-fire-tear-gas-at-hundreds-of-protestors-in-istanbul-and-ankara-as-protestors-mark-the-anniversary-of-the-start-of-the-ongoing.xml)  
+
 ### [2014-05-31](/news/2014/05/31/index.md)
 
+##### Turkish police
 # Turkish police fire tear gas at hundreds of protestors in Istanbul and Ankara as protestors mark the anniversary of the start of the ongoing protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News Australia](http://www.skynews.com.au/news/top-stories/mideast/2014/06/01/police-fire-tear-gas-at-turkey-anniversary.html)
 

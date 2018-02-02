@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/21/a-trial-against-former-prime-minister-of-france-dominique-de-villepin-over-the-clearstream-affair-begins-in-paris.html)  [JSON](/news/2009/09/21/a-trial-against-former-prime-minister-of-france-dominique-de-villepin-over-the-clearstream-affair-begins-in-paris.json)  [XML](/news/2009/09/21/a-trial-against-former-prime-minister-of-france-dominique-de-villepin-over-the-clearstream-affair-begins-in-paris.xml)  
+
 ### [2009-09-21](/news/2009/09/21/index.md)
 
+##### Prime Minister
 #  A trial against former Prime Minister of France Dominique de Villepin, over the Clearstream affair, begins in Paris. 
 
 France&#39;s most politically charged trial in years is under way with former prime minister Dominique de Villepin accused of plotting to smear Nicolas Sarkozy before he became president.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8266001.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0921/devillepin.html)

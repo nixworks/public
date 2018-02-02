@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/29/vivendi-universal-the-world-s-biggest-music-group-has-signed-a-deal-to-make-its-music-catalogue-available-on-a-free-legal-downloads-servi.html)  [JSON](/news/2006/08/29/vivendi-universal-the-world-s-biggest-music-group-has-signed-a-deal-to-make-its-music-catalogue-available-on-a-free-legal-downloads-servi.json)  [XML](/news/2006/08/29/vivendi-universal-the-world-s-biggest-music-group-has-signed-a-deal-to-make-its-music-catalogue-available-on-a-free-legal-downloads-servi.xml)  
+
 ### [2006-08-29](/news/2006/08/29/index.md)
 
+##### Vivendi
 #  Vivendi Universal, the world's biggest music group, has signed a deal to make its music catalogue available on a free legal downloads service.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/5294842.stm?lsm)
 

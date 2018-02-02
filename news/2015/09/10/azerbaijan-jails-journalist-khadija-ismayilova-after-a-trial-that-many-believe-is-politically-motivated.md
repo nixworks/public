@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/10/azerbaijan-jails-journalist-khadija-ismayilova-after-a-trial-that-many-believe-is-politically-motivated.html)  [JSON](/news/2015/09/10/azerbaijan-jails-journalist-khadija-ismayilova-after-a-trial-that-many-believe-is-politically-motivated.json)  [XML](/news/2015/09/10/azerbaijan-jails-journalist-khadija-ismayilova-after-a-trial-that-many-believe-is-politically-motivated.xml)  
+
 ### [2015-09-10](/news/2015/09/10/index.md)
 
+##### Azerbaijan
 # Azerbaijan jails journalist Khadija Ismayilova after a trial that many believe is politically-motivated. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/azerbaijan-jails-prominent-anti-corruption-journalist-150901124439823.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2015/9/1/0850dddee5c64de2919920b0b14ee854_18.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/5/russian-businessman-victor-bout-is-sentenced-to-25-years-in-prison-for-smuggling-weapons-to-the-colombian-farc-guerilla-movement.html)  [JSON](/news/2012/04/5/russian-businessman-victor-bout-is-sentenced-to-25-years-in-prison-for-smuggling-weapons-to-the-colombian-farc-guerilla-movement.json)  [XML](/news/2012/04/5/russian-businessman-victor-bout-is-sentenced-to-25-years-in-prison-for-smuggling-weapons-to-the-colombian-farc-guerilla-movement.xml)  
+
 ### [2012-04-5](/news/2012/04/5/index.md)
 
+##### Russian
 # Russian businessman Victor Bout is sentenced to 25 years in prison for smuggling weapons to the Colombian FARC guerilla movement. 
 
 A US judge has sentenced Russian businessman Viktor Bout to 25 years behind bars - the mandatory minimum for such charges. His defense plans to appeal to the Supreme Court.
 
 
-### Source:
+### Sources:
 
 1. [RT](http://rt.com/news/viktor-bout-sentence-usa-301/)
 1. [Cover Image](https://img.rt.com/files/oldfiles/news/viktor-bout-sentence-usa-301/viktor-bout.si.jpg)

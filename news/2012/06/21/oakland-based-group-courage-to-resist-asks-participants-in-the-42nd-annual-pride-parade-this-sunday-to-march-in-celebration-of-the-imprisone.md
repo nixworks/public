@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/21/oakland-based-group-courage-to-resist-asks-participants-in-the-42nd-annual-pride-parade-this-sunday-to-march-in-celebration-of-the-imprisone.html)  [JSON](/news/2012/06/21/oakland-based-group-courage-to-resist-asks-participants-in-the-42nd-annual-pride-parade-this-sunday-to-march-in-celebration-of-the-imprisone.json)  [XML](/news/2012/06/21/oakland-based-group-courage-to-resist-asks-participants-in-the-42nd-annual-pride-parade-this-sunday-to-march-in-celebration-of-the-imprisone.xml)  
+
 ### [2012-06-21](/news/2012/06/21/index.md)
 
+##### Oakland
 # Oakland-based group Courage to Resist asks participants in the 42nd annual Pride parade this Sunday to march in celebration of the imprisoned U.S. serviceman Bradley Manning, imprisoned by the U.S. government for alleged leaking of classified information into the public domain. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [San Francisco Examiner](http://www.sfexaminer.com/local/2012/06/marchers-regard-wikileaks-suspect-bradley-manning-hero)
 

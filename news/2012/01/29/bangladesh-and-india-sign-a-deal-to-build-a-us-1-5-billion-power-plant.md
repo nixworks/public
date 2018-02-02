@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/29/bangladesh-and-india-sign-a-deal-to-build-a-us-1-5-billion-power-plant.html)  [JSON](/news/2012/01/29/bangladesh-and-india-sign-a-deal-to-build-a-us-1-5-billion-power-plant.json)  [XML](/news/2012/01/29/bangladesh-and-india-sign-a-deal-to-build-a-us-1-5-billion-power-plant.xml)  
+
 ### [2012-01-29](/news/2012/01/29/index.md)
 
+##### Bangladesh
 # Bangladesh and India sign a deal to build a US$1.5 billion power plant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-16781277)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/56429000/jpg/_56429822_56429821.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/16/sinai-insurgency-in-response-to-morsi-s-sentence-gunmen-fatally-shoot-three-egyptian-judges-in-the-sinai-peninsula.html)  [JSON](/news/2015/05/16/sinai-insurgency-in-response-to-morsi-s-sentence-gunmen-fatally-shoot-three-egyptian-judges-in-the-sinai-peninsula.json)  [XML](/news/2015/05/16/sinai-insurgency-in-response-to-morsi-s-sentence-gunmen-fatally-shoot-three-egyptian-judges-in-the-sinai-peninsula.xml)  
+
 ### [2015-05-16](/news/2015/05/16/index.md)
 
+##### Sinai insurgency
 # Sinai insurgency: In response to Morsi's sentence, gunmen fatally shoot three Egyptian judges in the Sinai Peninsula. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Al Arabiya News](http://english.alarabiya.net/en/News/2015/05/16/)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/16/the-town-of-wrightwood-california-is-evacuated-
 
 ### [2016-08-16](/news/2016/08/16/index.md)
 
+##### 2016 California wildfires
 # The town of Wrightwood, California, is evacuated due to threats from the Blue Cut Fire burning in the Cajon Pass. 
 
 Gov. Jerry Brown has declared a state of emergency in the fast-moving Blue Cut Fire that has exploded to 18,000 acres and forced more than 82,000 people out of their homes since it broke out Tuesday morning in the Cajon Pass, officials said. The fire was first reported at 2 acres about 10:55 a.m. near the 15 Freeway and grew to about 1,000 acres in about an hour, according to the incident information page on the fire.

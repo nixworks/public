@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/1/four-explosions-are-reported-in-bali-at-popular-tourist-areas-killing-at-least-36-and-injuring-103-people.html)  [JSON](/news/2005/10/1/four-explosions-are-reported-in-bali-at-popular-tourist-areas-killing-at-least-36-and-injuring-103-people.json)  [XML](/news/2005/10/1/four-explosions-are-reported-in-bali-at-popular-tourist-areas-killing-at-least-36-and-injuring-103-people.xml)  
+
 ### [2005-10-1](/news/2005/10/1/index.md)
 
+##### Bali bombings
 #  Four explosions are reported in Bali at popular tourist areas, killing at least 36 and injuring 103 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/4300274.stm)
 2. [CNN](http://www.cnn.com/2005/WORLD/asiapcf/10/01/bali.blasts.ap/index.html)

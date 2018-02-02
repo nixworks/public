@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/6/tomo-kria3-4nar-the-slovenian-diplomatic-envoy-and-human-rights-activist-to-sudan-is-formally-charged-with-espionage-and-illegally-entering.html)  [JSON](/news/2006/08/6/tomo-kria3-4nar-the-slovenian-diplomatic-envoy-and-human-rights-activist-to-sudan-is-formally-charged-with-espionage-and-illegally-entering.json)  [XML](/news/2006/08/6/tomo-kria3-4nar-the-slovenian-diplomatic-envoy-and-human-rights-activist-to-sudan-is-formally-charged-with-espionage-and-illegally-entering.xml)  
+
 ### [2006-08-6](/news/2006/08/6/index.md)
 
+##### Tomo Kriznar
 #  Tomo Kriznar, the Slovenian diplomatic envoy and human-rights activist to Sudan, is formally charged with espionage and illegally entering Darfur. Kriznar, who admits entering Darfur without the required visa, was arrested in July. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5243216.stm)
 

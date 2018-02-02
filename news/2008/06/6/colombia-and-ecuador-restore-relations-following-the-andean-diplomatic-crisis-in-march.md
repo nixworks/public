@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2008/06/6/colombia-and-ecuador-restore-relations-following-the-andean-diplomatic-crisis-in-march.html)  [JSON](/news/2008/06/6/colombia-and-ecuador-restore-relations-following-the-andean-diplomatic-crisis-in-march.json)  [XML](/news/2008/06/6/colombia-and-ecuador-restore-relations-following-the-andean-diplomatic-crisis-in-march.xml)  
+
 ### [2008-06-6](/news/2008/06/6/index.md)
 
+##### Colombia
 #  Colombia and Ecuador restore relations following the Andean diplomatic crisis in March. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/business/7441462.stm)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSN0628014920080606)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/worldNews/idUSN0628014920080606)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

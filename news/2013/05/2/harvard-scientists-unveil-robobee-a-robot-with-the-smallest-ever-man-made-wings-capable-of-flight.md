@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/2/harvard-scientists-unveil-robobee-a-robot-with-the-smallest-ever-man-made-wings-capable-of-flight.html)  [JSON](/news/2013/05/2/harvard-scientists-unveil-robobee-a-robot-with-the-smallest-ever-man-made-wings-capable-of-flight.json)  [XML](/news/2013/05/2/harvard-scientists-unveil-robobee-a-robot-with-the-smallest-ever-man-made-wings-capable-of-flight.xml)  
+
 ### [2013-05-2](/news/2013/05/2/index.md)
 
+##### Harvard University
 # Harvard scientists unveil RoboBee, a robot with the smallest ever man-made wings capable of flight. 
 
 Harvard scientists have introduced what may be the cutest flying robots ever: RoboBee, a bio-inspired insect-sized aircraft that pushes flight worthy craft into their smallest wings yet.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/science/sciencenow/la-sci-sn-flying-robot-robobee-smallest-ever-20130502,0,5469981.story)
 1. [Cover Image](http://www.trbimg.com/img-5183fccd/turbine/la-sci-sn-flying-robot-robobee-smallest-ever-20130502)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/8/the-united-states-department-of-justice-antitrus
 
 ### [2017-11-8](/news/2017/11/8/index.md)
 
+##### United States antitrust law
 # The United States Department of Justice antitrust chief has told AT&T that it must sell off either DirecTV or Turner Broadcasting System (the parent of CNN) in order to complete its acquisition of Time Warner. ([http:--money.cnn.com-2017-11-08-media-att-time-warner-index.html CNN])
 
 

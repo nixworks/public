@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/22/a-military-helicopter-crashes-in-hakkari-province-turkey-killing-three-soldiers-and-injuring-four-others.html)  [JSON](/news/2012/07/22/a-military-helicopter-crashes-in-hakkari-province-turkey-killing-three-soldiers-and-injuring-four-others.json)  [XML](/news/2012/07/22/a-military-helicopter-crashes-in-hakkari-province-turkey-killing-three-soldiers-and-injuring-four-others.xml)  
+
 ### [2012-07-22](/news/2012/07/22/index.md)
 
+##### Hakkari Province
 # A military helicopter crashes in Hakkari province, Turkey, killing three soldiers and injuring four others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Republic](http://www.therepublic.com/view/story/370e80ab6bc14c62892499b958fe1786/EU-Turkey-Helicopter-Crash)
 

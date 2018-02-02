@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/10/16/the-ceo-of-citigroup-vikram-pandit-announces-his-resignation-from-that-post-and-is-immediately-succeeded-by-michael-corbat.html)  [JSON](/news/2012/10/16/the-ceo-of-citigroup-vikram-pandit-announces-his-resignation-from-that-post-and-is-immediately-succeeded-by-michael-corbat.json)  [XML](/news/2012/10/16/the-ceo-of-citigroup-vikram-pandit-announces-his-resignation-from-that-post-and-is-immediately-succeeded-by-michael-corbat.xml)  
+
 ### [2012-10-16](/news/2012/10/16/index.md)
 
+##### CEO
 # The CEO of Citigroup, Vikram Pandit, announces his resignation from that post, and is immediately succeeded by Michael Corbat. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/10/16/us-citigroup-pandit-idUSBRE89F0O420121016)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121016&t=2&i=664149595&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE89F0Y3L00)
+1. [Reuters](https://www.reuters.com/article/2012/10/16/us-citigroup-pandit-idUSBRE89F0O420121016)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121016&t=2&i=664149595&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE89F0Y3L00)
 
 ### Related:
 

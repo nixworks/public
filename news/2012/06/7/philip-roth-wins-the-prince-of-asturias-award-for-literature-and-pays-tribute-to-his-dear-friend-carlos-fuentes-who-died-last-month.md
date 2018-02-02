@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/7/philip-roth-wins-the-prince-of-asturias-award-for-literature-and-pays-tribute-to-his-dear-friend-carlos-fuentes-who-died-last-month.html)  [JSON](/news/2012/06/7/philip-roth-wins-the-prince-of-asturias-award-for-literature-and-pays-tribute-to-his-dear-friend-carlos-fuentes-who-died-last-month.json)  [XML](/news/2012/06/7/philip-roth-wins-the-prince-of-asturias-award-for-literature-and-pays-tribute-to-his-dear-friend-carlos-fuentes-who-died-last-month.xml)  
+
 ### [2012-06-7](/news/2012/06/7/index.md)
 
+##### Philip Roth
 # Philip Roth wins the Prince of Asturias Award for Literature and pays tribute to his "dear friend" Carlos Fuentes who died last month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/books/2012/jun/07/philip-roth-asturias-carlos-fuentes)
 

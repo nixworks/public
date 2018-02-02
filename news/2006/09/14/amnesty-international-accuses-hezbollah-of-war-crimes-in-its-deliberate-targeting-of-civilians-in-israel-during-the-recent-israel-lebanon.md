@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/14/amnesty-international-accuses-hezbollah-of-war-crimes-in-its-deliberate-targeting-of-civilians-in-israel-during-the-recent-israel-lebanon.html)  [JSON](/news/2006/09/14/amnesty-international-accuses-hezbollah-of-war-crimes-in-its-deliberate-targeting-of-civilians-in-israel-during-the-recent-israel-lebanon.json)  [XML](/news/2006/09/14/amnesty-international-accuses-hezbollah-of-war-crimes-in-its-deliberate-targeting-of-civilians-in-israel-during-the-recent-israel-lebanon.xml)  
+
 ### [2006-09-14](/news/2006/09/14/index.md)
 
+##### Amnesty International
 #  Amnesty International accuses Hezbollah of war crimes, in its deliberate targeting of civilians in Israel during the recent Israel-Lebanon conflict. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Amnesty](http://web.amnesty.org/library/Index/ENGMDE020262006)
 

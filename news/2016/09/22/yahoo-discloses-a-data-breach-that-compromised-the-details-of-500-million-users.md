@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/22/yahoo-discloses-a-data-breach-that-compromised-
 
 ### [2016-09-22](/news/2016/09/22/index.md)
 
+##### 2014 Yahoo! data breach
 # Yahoo! discloses a data breach that compromised the details of 500 million users. 
 
 

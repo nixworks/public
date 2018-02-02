@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/9/at-least-nine-people-are-killed-as-a-roof-collapses-in-a-mosque-in-the-low-income-neighbourhood-of-daroghawala-in-the-pakistani-city-of-laho.html)  [JSON](/news/2014/09/9/at-least-nine-people-are-killed-as-a-roof-collapses-in-a-mosque-in-the-low-income-neighbourhood-of-daroghawala-in-the-pakistani-city-of-laho.json)  [XML](/news/2014/09/9/at-least-nine-people-are-killed-as-a-roof-collapses-in-a-mosque-in-the-low-income-neighbourhood-of-daroghawala-in-the-pakistani-city-of-laho.xml)  
+
 ### [2014-09-9](/news/2014/09/9/index.md)
 
+##### Pakistan
 # At least nine people are killed as a roof collapses in a mosque in the low income neighbourhood of Daroghawala in the Pakistani city of Lahore. 
 
 At least 10 people have been killed after a mosque collapsed in the Pakistani city of Lahore.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2014-09-10/mosque-collapse-in-pakistani-city-of-lahore/5732160)
 1. [Cover Image](http://www.abc.net.au/news/image/5732234-1x1-700x700.jpg)

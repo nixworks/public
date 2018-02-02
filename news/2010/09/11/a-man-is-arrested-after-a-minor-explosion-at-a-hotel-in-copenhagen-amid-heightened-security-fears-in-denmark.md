@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/11/a-man-is-arrested-after-a-minor-explosion-at-a-hotel-in-copenhagen-amid-heightened-security-fears-in-denmark.html)  [JSON](/news/2010/09/11/a-man-is-arrested-after-a-minor-explosion-at-a-hotel-in-copenhagen-amid-heightened-security-fears-in-denmark.json)  [XML](/news/2010/09/11/a-man-is-arrested-after-a-minor-explosion-at-a-hotel-in-copenhagen-amid-heightened-security-fears-in-denmark.xml)  
+
 ### [2010-09-11](/news/2010/09/11/index.md)
 
+##### Copenhagen
 # A man is arrested after a minor explosion at a hotel in Copenhagen, amid heightened security fears in Denmark. 
 
 Denmark raised its terror attack preparedness on Saturday, the ninth anniversary of the September 11 attacks on the United States, after a man set off a small explosion in a Copenhagen hotel on Friday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11273771)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5996435,00.html?maca=en-topstories-83-rdf)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/04/5/two-italian-priests-and-a-canadian-nun-have-been-kidnapped-by-gunmen-in-cameroon.html)  [JSON](/news/2014/04/5/two-italian-priests-and-a-canadian-nun-have-been-kidnapped-by-gunmen-in-cameroon.json)  [XML](/news/2014/04/5/two-italian-priests-and-a-canadian-nun-have-been-kidnapped-by-gunmen-in-cameroon.xml)  
+
 ### [2014-04-5](/news/2014/04/5/index.md)
 
+##### Italian
 # Two Italian priests and a Canadian nun have been kidnapped by gunmen in Cameroon. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/two-italian-priests-kidnapped-cameroon-071103124.html)
+1. [AFP via Yahoo! News](https://news.yahoo.com/two-italian-priests-kidnapped-cameroon-071103124.html)
 
 ### Related:
 

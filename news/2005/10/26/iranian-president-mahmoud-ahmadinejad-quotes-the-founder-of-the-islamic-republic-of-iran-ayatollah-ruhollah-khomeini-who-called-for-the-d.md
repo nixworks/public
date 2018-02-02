@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/10/26/iranian-president-mahmoud-ahmadinejad-quotes-the-founder-of-the-islamic-republic-of-iran-ayatollah-ruhollah-khomeini-who-called-for-the-d.html)  [JSON](/news/2005/10/26/iranian-president-mahmoud-ahmadinejad-quotes-the-founder-of-the-islamic-republic-of-iran-ayatollah-ruhollah-khomeini-who-called-for-the-d.json)  [XML](/news/2005/10/26/iranian-president-mahmoud-ahmadinejad-quotes-the-founder-of-the-islamic-republic-of-iran-ayatollah-ruhollah-khomeini-who-called-for-the-d.xml)  
+
 ### [2005-10-26](/news/2005/10/26/index.md)
 
+##### Iran
 #  Iranian President Mahmoud Ahmadinejad quotes the founder of the Islamic Republic of Iran, Ayatollah Ruhollah Khomeini, who called for the destruction of Israel, calling it a "disgraceful blot" that should be "wiped off the map". Ahmadinejad made the reference to 3,000 students during a speech at the "World without Zionism" conference. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP](http://abcnews.go.com/International/wireStory?id=1251789)
-2. [Reuters](http://news.yahoo.com/s/ap/20051026/ap_on_re_mi_ea/iran_israel)
+2. [Reuters](https://news.yahoo.com/s/ap/20051026/ap_on_re_mi_ea/iran_israel)
 
 ### Related:
 

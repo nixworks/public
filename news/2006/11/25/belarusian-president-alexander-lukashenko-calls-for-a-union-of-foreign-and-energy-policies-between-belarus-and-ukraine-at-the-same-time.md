@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/25/belarusian-president-alexander-lukashenko-calls-for-a-union-of-foreign-and-energy-policies-between-belarus-and-ukraine-at-the-same-time.html)  [JSON](/news/2006/11/25/belarusian-president-alexander-lukashenko-calls-for-a-union-of-foreign-and-energy-policies-between-belarus-and-ukraine-at-the-same-time.json)  [XML](/news/2006/11/25/belarusian-president-alexander-lukashenko-calls-for-a-union-of-foreign-and-energy-policies-between-belarus-and-ukraine-at-the-same-time.xml)  
+
 ### [2006-11-25](/news/2006/11/25/index.md)
 
+##### Belarusian President
 #  Belarusian President Alexander Lukashenko calls for a "union" of foreign and energy policies between Belarus and Ukraine. At the same time, he says his government falsified the results of the last presidential election by reducing the size of his own majority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RadioFreeEurope/RadioLiberty](http://www.rferl.org/featuresarticle/2006/11/b95b3bfa-932e-4317-8c22-99589908ea27.html)
 

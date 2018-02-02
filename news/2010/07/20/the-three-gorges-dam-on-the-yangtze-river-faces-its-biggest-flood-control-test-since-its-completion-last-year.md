@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/the-three-gorges-dam-on-the-yangtze-river-faces-its-biggest-flood-control-test-since-its-completion-last-year.html)  [JSON](/news/2010/07/20/the-three-gorges-dam-on-the-yangtze-river-faces-its-biggest-flood-control-test-since-its-completion-last-year.json)  [XML](/news/2010/07/20/the-three-gorges-dam-on-the-yangtze-river-faces-its-biggest-flood-control-test-since-its-completion-last-year.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Three Gorges Dam
 # The Three Gorges Dam on the Yangtze River faces its biggest flood control test since its completion last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10695272)
 2. [Business Week](http://www.businessweek.com/news/2010-07-20/three-gorges-says-yangtze-river-flow-surpasses-1998.html)

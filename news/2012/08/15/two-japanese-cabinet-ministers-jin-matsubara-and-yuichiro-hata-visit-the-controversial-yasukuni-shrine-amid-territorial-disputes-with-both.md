@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/15/two-japanese-cabinet-ministers-jin-matsubara-and-yuichiro-hata-visit-the-controversial-yasukuni-shrine-amid-territorial-disputes-with-both.html)  [JSON](/news/2012/08/15/two-japanese-cabinet-ministers-jin-matsubara-and-yuichiro-hata-visit-the-controversial-yasukuni-shrine-amid-territorial-disputes-with-both.json)  [XML](/news/2012/08/15/two-japanese-cabinet-ministers-jin-matsubara-and-yuichiro-hata-visit-the-controversial-yasukuni-shrine-amid-territorial-disputes-with-both.xml)  
+
 ### [2012-08-15](/news/2012/08/15/index.md)
 
+##### Japanese
 # Two Japanese cabinet ministers, Jin Matsubara and Yuichiro Hata, visit the controversial Yasukuni Shrine amid territorial disputes with both the People's Republic of China and South Korea. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/japanese-cabinet-minister-visits-yasukuni-shrine-232845417.html?_esi=1)
+1. [AFP via Yahoo! News](https://news.yahoo.com/japanese-cabinet-minister-visits-yasukuni-shrine-232845417.html?_esi=1)
 
 ### Related:
 

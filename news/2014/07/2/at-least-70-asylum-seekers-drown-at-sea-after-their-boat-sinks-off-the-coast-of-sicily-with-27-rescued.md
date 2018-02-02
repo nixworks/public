@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/2/at-least-70-asylum-seekers-drown-at-sea-after-their-boat-sinks-off-the-coast-of-sicily-with-27-rescued.html)  [JSON](/news/2014/07/2/at-least-70-asylum-seekers-drown-at-sea-after-their-boat-sinks-off-the-coast-of-sicily-with-27-rescued.json)  [XML](/news/2014/07/2/at-least-70-asylum-seekers-drown-at-sea-after-their-boat-sinks-off-the-coast-of-sicily-with-27-rescued.xml)  
+
 ### [2014-07-2](/news/2014/07/2/index.md)
 
+##### Sicily
 # At least 70 asylum seekers drown at sea after their boat sinks off the coast of Sicily with 27 rescued. 
 
 Some 70 people are lost at sea after their boat capsized off Sicily, survivors say, in the latest disaster to hit migrants crossing to Italy.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-28131675)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/75996000/jpg/_75996063_022971285-1.jpg)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/05/25/former-enron-executives-kenneth-lay-and-jeffrey-skilling-are-found-criminally-guilty-for-their-role-in-the-demise-of-the-now-defunct-energy.html)  [JSON](/news/2006/05/25/former-enron-executives-kenneth-lay-and-jeffrey-skilling-are-found-criminally-guilty-for-their-role-in-the-demise-of-the-now-defunct-energy.json)  [XML](/news/2006/05/25/former-enron-executives-kenneth-lay-and-jeffrey-skilling-are-found-criminally-guilty-for-their-role-in-the-demise-of-the-now-defunct-energy.xml)  
+
 ### [2006-05-25](/news/2006/05/25/index.md)
 
+##### Enron
 #  Former Enron executives Kenneth Lay and Jeffrey Skilling are found criminally guilty for their role in the demise of the now-defunct energy-trading firm. 
 
 Kenneth L. Lay and Jeffrey K. Skilling were found guilty of fraud and conspiracy today. Sentencing is set for the week of Sept. 11.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2006/05/25/business/25cnd-enron.html)
+1. [The New York Times](https://www.nytimes.com/2006/05/25/business/25cnd-enron.html)
 1. [Cover Image](https://static01.nyt.com/images/2006/05/25/business/25enron75.jpg)
 
 ### Related:

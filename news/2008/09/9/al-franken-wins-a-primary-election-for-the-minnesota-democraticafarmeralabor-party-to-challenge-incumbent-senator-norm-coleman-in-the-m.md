@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minnesota-democraticafarmeralabor-party-to-challenge-incumbent-senator-norm-coleman-in-the-m.html)  [JSON](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minnesota-democraticafarmeralabor-party-to-challenge-incumbent-senator-norm-coleman-in-the-m.json)  [XML](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minnesota-democraticafarmeralabor-party-to-challenge-incumbent-senator-norm-coleman-in-the-m.xml)  
+
 ### [2008-09-9](/news/2008/09/9/index.md)
 
+##### Al Franken
 #  Al Franken wins a primary election for the Minnesota Democratic-Farmer-Labor Party to challenge incumbent Senator Norm Coleman in the Minnesota Senate election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5hvonEK0aSFP9aZpT3p6uUTlUQ_GwD933IPH81)
+
+### Changes:
+
+1. [ Al Franken wins a primary election for the Minnesota Democratic-Farmer-Labor Party to challenge incumbent Senator Norm Coleman in the Minnesota Senate election. ](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minnesota-democratic-farmer-labor-party-to-challenge-incumbent-senator-norm-coleman-in-the-m.md) _2017-08-27 03:22:43 (First version)_
+1. [ Al Franken wins a primary election for the Minnesota Democratic-Farmer-Labor Party to challenge incumbent Senator Norm Coleman in the Minnesota Senate election. ](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minnesota-democraticafarmeralabor-party-to-challenge-incumbent-senator-norm-coleman-in-the-m.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [ Al Franken is sworn in as a U.S. Senator, the 60th caucusing with the Democratic Party which is a filibuster-proof majority. ](/news/2009/07/7/al-franken-is-sworn-in-as-a-u-s-senator-the-60th-caucusing-with-the-democratic-party-which-is-a-filibuster-proof-majority.md) _Context: Al Franken, U.S. Senator_
 4. [ The Minnesota Supreme Court orders that Al Franken be certified winner of the state's Senate election. ](/news/2009/06/30/the-minnesota-supreme-court-orders-that-al-franken-be-certified-winner-of-the-state-s-senate-election.md) _Context: Al Franken, U.S. Senator_
 5. [ Illinois Senator Barack Obama wins the District of Columbia, Maryland and Virginia Democratic primaries. Obama now leads Sen. Hillary Clinton in the delegate count for the first time since early in the campaign. ](/news/2008/02/12/illinois-senator-barack-obama-wins-the-district-of-columbia-maryland-and-virginia-democratic-primaries-obama-now-leads-sen-hillary-clint.md) _Context: Senator, primary election_
-
-### Changes:
-
-1. [ Al Franken wins a primary election for the Minnesota Democratic-Farmer-Labor Party to challenge incumbent Senator Norm Coleman in the Minnesota Senate election. ](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minnesota-democratic-farmer-labor-party-to-challenge-incumbent-senator-norm-coleman-in-the-m.md) _2017-08-27 03:22:43 (First version)_
-1. [ Al Franken wins a primary election for the Minnesota Democratic-Farmer-Labor Party to challenge incumbent Senator Norm Coleman in the Minnesota Senate election. ](/news/2008/09/9/al-franken-wins-a-primary-election-for-the-minnesota-democraticafarmeralabor-party-to-challenge-incumbent-senator-norm-coleman-in-the-m.md) _(Current version)_

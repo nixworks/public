@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/1/toyota-president-akio-toyoda-apologies-to-his-chinese-customers-in-earth-s-largest-auto-mart.html)  [JSON](/news/2010/03/1/toyota-president-akio-toyoda-apologies-to-his-chinese-customers-in-earth-s-largest-auto-mart.json)  [XML](/news/2010/03/1/toyota-president-akio-toyoda-apologies-to-his-chinese-customers-in-earth-s-largest-auto-mart.xml)  
+
 ### [2010-03-1](/news/2010/03/1/index.md)
 
+##### Toyota
 # Toyota president Akio Toyoda apologies to his Chinese customers in Earth's largest auto mart. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8543135.stm)
 2. [Financial Times](http://www.ft.com/cms/s/0/f87d00a4-253e-11df-a189-00144feab49a.html)

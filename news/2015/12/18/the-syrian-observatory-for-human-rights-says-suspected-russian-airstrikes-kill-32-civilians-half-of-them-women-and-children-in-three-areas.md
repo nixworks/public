@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/12/18/the-syrian-observatory-for-human-rights-says-suspected-russian-airstrikes-kill-32-civilians-half-of-them-women-and-children-in-three-areas.html)  [JSON](/news/2015/12/18/the-syrian-observatory-for-human-rights-says-suspected-russian-airstrikes-kill-32-civilians-half-of-them-women-and-children-in-three-areas.json)  [XML](/news/2015/12/18/the-syrian-observatory-for-human-rights-says-suspected-russian-airstrikes-kill-32-civilians-half-of-them-women-and-children-in-three-areas.xml)  
+
 ### [2015-12-18](/news/2015/12/18/index.md)
 
+##### Syrian Civil War
 # The Syrian Observatory for Human Rights says suspected Russian airstrikes kill 32 civilians, half of them women and children, in three areas in northern Syria. No suspected militants were killed in the attacks. 
 
 London-based monitoring group says 1,900 killed, including 635 civilians, by Russian strikes since September
 
 
-### Source:
+### Sources:
 
 1. [ (Sky News](http://news.sky.com/story/1608377/russian-airstrikes-kill-32-syrian-civilians)
 2. [The Times of Israel](http://www.timesofisrael.com/suspected-russia-raids-kill-32-civilians-in-north-syria/)
 2. [Cover Image](http://cdn.timesofisrael.com/uploads/2015/10/Mideast-Syria_Horo-1.jpg)
+
+### Changes:
+
+1. [Syrian Civil War: The Syrian Observatory for Human Rights says suspected Russian airstrikes kill 32 civilians, half of them women and children, in three areas in northern Syria. No suspected militants were killed in the attacks. ](/news/2015/12/18/syrian-civil-war-the-syrian-observatory-for-human-rights-says-suspected-russian-airstrikes-kill-32-civilians-half-of-them-women-and-childr.md) _2017-08-27 03:44:25 (First version)_
+1. [The Syrian Observatory for Human Rights says suspected Russian airstrikes kill 32 civilians, half of them women and children, in three areas in northern Syria. No suspected militants were killed in the attacks. ](/news/2015/12/18/the-syrian-observatory-for-human-rights-says-suspected-russian-airstrikes-kill-32-civilians-half-of-them-women-and-children-in-three-areas.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ London-based monitoring group says 1,900 killed, including 635 civilians, by Rus
 3. [A Syrian Arab Air Force or Russian airstrike reportedly kills a dozen people at a market selling diesel fuel in the rebel-held Idlib Governorate. The Syrian Observatory for Human Rights says the death toll is likely to rise. ](/news/2016/03/7/a-syrian-arab-air-force-or-russian-airstrike-reportedly-kills-a-dozen-people-at-a-market-selling-diesel-fuel-in-the-rebel-held-idlib-governo.md) _Context: Russia, Syrian Civil War, Syrian Observatory for Human Rights, airstrike_
 4. [Russian airstrikes on a Al-Nusra Front (Al-Qaeda's branch in Syria)-run prison complex in the northern town of Maarrat al-Nu'man, Idlib, leaves nearly 60 people dead. Most of those killed were rebels imprisoned by Al-Nusra, according to the Syrian Observatory for Human Rights. ](/news/2016/01/9/russian-airstrikes-on-a-al-nusra-front-al-qaeda-s-branch-in-syria-run-prison-complex-in-the-northern-town-of-maarrat-al-nu-man-idlib-lea.md) _Context: Russia, Syria, Syrian Civil War, Syrian Observatory for Human Rights_
 5. [Syrian rebels fire volleys of mortar shells into Damascus, killing three people and wounding at least 30. Government forces respond with airstrikes into rebel-controlled Douma, just northeast of the capital, and surface-to-surface missiles into Eastern Ghouta and Saqba, that kill at least 35 people and injure many more, according to the Syrian Observatory for Human Rights. ](/news/2015/12/13/syrian-rebels-fire-volleys-of-mortar-shells-into-damascus-killing-three-people-and-wounding-at-least-30-government-forces-respond-with-air.md) _Context: Syria, Syrian Civil War, Syrian Observatory for Human Rights, airstrike_
-
-### Changes:
-
-1. [Syrian Civil War: The Syrian Observatory for Human Rights says suspected Russian airstrikes kill 32 civilians, half of them women and children, in three areas in northern Syria. No suspected militants were killed in the attacks. ](/news/2015/12/18/syrian-civil-war-the-syrian-observatory-for-human-rights-says-suspected-russian-airstrikes-kill-32-civilians-half-of-them-women-and-childr.md) _2017-08-27 03:44:25 (First version)_
-1. [The Syrian Observatory for Human Rights says suspected Russian airstrikes kill 32 civilians, half of them women and children, in three areas in northern Syria. No suspected militants were killed in the attacks. ](/news/2015/12/18/the-syrian-observatory-for-human-rights-says-suspected-russian-airstrikes-kill-32-civilians-half-of-them-women-and-children-in-three-areas.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/5/for-over-50-days-the-libyan-city-of-misrata-has-been-shelled-by-artillery-tanks-and-snipers-and-for-over-20-days-has-had-its-water-inten.html)  [JSON](/news/2011/04/5/for-over-50-days-the-libyan-city-of-misrata-has-been-shelled-by-artillery-tanks-and-snipers-and-for-over-20-days-has-had-its-water-inten.json)  [XML](/news/2011/04/5/for-over-50-days-the-libyan-city-of-misrata-has-been-shelled-by-artillery-tanks-and-snipers-and-for-over-20-days-has-had-its-water-inten.xml)  
+
 ### [2011-04-5](/news/2011/04/5/index.md)
 
+##### Misrata
 # For over 50 days, the Libyan city of Misrata has been shelled by artillery, tanks, and snipers, and for over 20 days has had its water intentionally shut off by Muammar Gaddafi's forces. As supplies run short, hundreds of thousands are at risk of death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.net/2011/04/05/misrata-no-food-no-water-just-snipers/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/18/the-united-states-federal-reserve-announces-that-it-will-continue-its-stimulus-program-due-to-concerns-about-weakening-growth.html)  [JSON](/news/2013/09/18/the-united-states-federal-reserve-announces-that-it-will-continue-its-stimulus-program-due-to-concerns-about-weakening-growth.json)  [XML](/news/2013/09/18/the-united-states-federal-reserve-announces-that-it-will-continue-its-stimulus-program-due-to-concerns-about-weakening-growth.xml)  
+
 ### [2013-09-18](/news/2013/09/18/index.md)
 
+##### United States Federal Reserve
 # The United States Federal Reserve announces that it will continue its stimulus program due to concerns about weakening growth. 
 
 The Federal Reserve has left its $US85 billion ($91 billion) a month stimulus program in place, against broad expectations that it would reduce it as the economy grows.
 
 
-### Source:
+### Sources:
 
 1. [The Age](http://www.theage.com.au/business/markets/us-federal-reserve-holds-off-on-tapering-20130919-2u087.html)
 1. [Cover Image](http://www.theage.com.au/content/dam/images/2/u/0/8/9/image.related.articleLeadwide.620x349.2u087.png/1379539733287.jpg)

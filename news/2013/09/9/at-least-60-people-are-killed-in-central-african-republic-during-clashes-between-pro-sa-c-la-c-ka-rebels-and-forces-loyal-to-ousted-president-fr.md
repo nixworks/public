@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/9/at-least-60-people-are-killed-in-central-african-republic-during-clashes-between-pro-sa-c-la-c-ka-rebels-and-forces-loyal-to-ousted-president-fr.html)  [JSON](/news/2013/09/9/at-least-60-people-are-killed-in-central-african-republic-during-clashes-between-pro-sa-c-la-c-ka-rebels-and-forces-loyal-to-ousted-president-fr.json)  [XML](/news/2013/09/9/at-least-60-people-are-killed-in-central-african-republic-during-clashes-between-pro-sa-c-la-c-ka-rebels-and-forces-loyal-to-ousted-president-fr.xml)  
+
 ### [2013-09-9](/news/2013/09/9/index.md)
 
+##### Central African Republic
 # At least 60 people are killed in Central African Republic during clashes between pro-Seleka rebels and forces loyal to ousted President Francois Bozize. 
 
 At least 60 people have been killed in the Central African Republic in fighting between former rebels and forces loyal to the president they ousted in March, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-24021425)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/69733000/jpg/_69733869_69733868.jpg)

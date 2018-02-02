@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/31/matthew-nagle-a-25-year-old-paralysed-man-has-become-the-first-person-known-to-have-benefited-from-a-microchip-implanted-into-his-brain-w.html)  [JSON](/news/2005/03/31/matthew-nagle-a-25-year-old-paralysed-man-has-become-the-first-person-known-to-have-benefited-from-a-microchip-implanted-into-his-brain-w.json)  [XML](/news/2005/03/31/matthew-nagle-a-25-year-old-paralysed-man-has-become-the-first-person-known-to-have-benefited-from-a-microchip-implanted-into-his-brain-w.xml)  
+
 ### [2005-03-31](/news/2005/03/31/index.md)
 
+##### Matthew Nagle
 #  Matthew Nagle, a 25-year-old paralysed man, has become the first person known to have benefited from a microchip implanted into his brain which can "read" thoughts. He can think his TV on and off, change channels and alter the volume thanks to the technology and software linked to devices in his home.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/health/4396387.stm)
 

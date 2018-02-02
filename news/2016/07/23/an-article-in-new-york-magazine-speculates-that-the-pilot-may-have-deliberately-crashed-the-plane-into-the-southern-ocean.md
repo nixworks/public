@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/23/an-article-in-new-york-magazine-speculates-that
 
 ### [2016-07-23](/news/2016/07/23/index.md)
 
+##### Malaysia Airlines Flight 370
 # An article in "New York" magazine speculates that the pilot may have deliberately crashed the plane into the Southern Ocean. 
 
 

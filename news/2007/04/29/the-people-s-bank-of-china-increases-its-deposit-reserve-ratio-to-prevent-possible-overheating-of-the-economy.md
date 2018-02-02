@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/29/the-people-s-bank-of-china-increases-its-deposit-reserve-ratio-to-prevent-possible-overheating-of-the-economy.html)  [JSON](/news/2007/04/29/the-people-s-bank-of-china-increases-its-deposit-reserve-ratio-to-prevent-possible-overheating-of-the-economy.json)  [XML](/news/2007/04/29/the-people-s-bank-of-china-increases-its-deposit-reserve-ratio-to-prevent-possible-overheating-of-the-economy.xml)  
+
 ### [2007-04-29](/news/2007/04/29/index.md)
 
+##### People's Bank of China
 #  The People's Bank of China increases its deposit reserve ratio to prevent possible overheating of the economy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2007-04/29/content_6045241.htm)
 

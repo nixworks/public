@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/19/nasa-s-spirit-rover-arrives-at-its-initial-destination-a-rock-named-adirondack-and-prepares-for-analysis.html)  [JSON](/news/2004/01/19/nasa-s-spirit-rover-arrives-at-its-initial-destination-a-rock-named-adirondack-and-prepares-for-analysis.json)  [XML](/news/2004/01/19/nasa-s-spirit-rover-arrives-at-its-initial-destination-a-rock-named-adirondack-and-prepares-for-analysis.xml)  
+
 ### [2004-01-19](/news/2004/01/19/index.md)
 
+##### NASA
 #  NASA's Spirit rover arrives at its initial destination, a rock named ""Adirondack"", and prepares for analysis.
 
 

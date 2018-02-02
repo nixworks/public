@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/27/abu-azzam-claimed-by-the-us-to-be-an-aide-to-abu-musab-al-zarqawi-was-shot-dead-by-us-soldiers.html)  [JSON](/news/2005/09/27/abu-azzam-claimed-by-the-us-to-be-an-aide-to-abu-musab-al-zarqawi-was-shot-dead-by-us-soldiers.json)  [XML](/news/2005/09/27/abu-azzam-claimed-by-the-us-to-be-an-aide-to-abu-musab-al-zarqawi-was-shot-dead-by-us-soldiers.xml)  
+
 ### [2005-09-27](/news/2005/09/27/index.md)
 
+##### Abu Azzam
 #  Abu Azzam, claimed by the US to be an aide to Abu Musab al-Zarqawi, was shot dead by US soldiers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4285394.stm)
 

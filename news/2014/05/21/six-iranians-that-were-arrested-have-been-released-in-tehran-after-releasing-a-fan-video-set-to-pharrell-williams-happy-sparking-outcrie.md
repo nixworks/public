@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/21/six-iranians-that-were-arrested-have-been-released-in-tehran-after-releasing-a-fan-video-set-to-pharrell-williams-happy-sparking-outcrie.html)  [JSON](/news/2014/05/21/six-iranians-that-were-arrested-have-been-released-in-tehran-after-releasing-a-fan-video-set-to-pharrell-williams-happy-sparking-outcrie.json)  [XML](/news/2014/05/21/six-iranians-that-were-arrested-have-been-released-in-tehran-after-releasing-a-fan-video-set-to-pharrell-williams-happy-sparking-outcrie.xml)  
+
 ### [2014-05-21](/news/2014/05/21/index.md)
 
+##### Tehran
 # Six Iranians that were arrested have been released in Tehran after releasing a fan video set to Pharrell Williams' "Happy", sparking outcries over the internet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/05/21/world/meast/iran-happy-video-arrests/index.html?hpt=wo_c2)
 

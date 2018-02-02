@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/29/2007-united-states-air-force-nuclear-weapons-incident.html)  [JSON](/news/2007/08/29/2007-united-states-air-force-nuclear-weapons-incident.json)  [XML](/news/2007/08/29/2007-united-states-air-force-nuclear-weapons-incident.xml)  
+
 ### [2007-08-29](/news/2007/08/29/index.md)
 
+##### 2007 United States Air Force nuclear weapons incident
 #  2007 United States Air Force nuclear weapons incident
 
 

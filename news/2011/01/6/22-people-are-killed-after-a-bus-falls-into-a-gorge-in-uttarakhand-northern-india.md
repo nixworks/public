@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/6/22-people-are-killed-after-a-bus-falls-into-a-gorge-in-uttarakhand-northern-india.html)  [JSON](/news/2011/01/6/22-people-are-killed-after-a-bus-falls-into-a-gorge-in-uttarakhand-northern-india.json)  [XML](/news/2011/01/6/22-people-are-killed-after-a-bus-falls-into-a-gorge-in-uttarakhand-northern-india.xml)  
+
 ### [2011-01-6](/news/2011/01/6/index.md)
 
+##### Uttarakhand
 # 22 people are killed after a bus falls into a gorge in Uttarakhand, northern India. 
 
 Dehra Dun: 22 killed as bus falls into gorge
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/article/cities/dehra-dun-22-killed-as-bus-falls-into-gorge-77364?pfrom=home-Cities)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_621181.html)

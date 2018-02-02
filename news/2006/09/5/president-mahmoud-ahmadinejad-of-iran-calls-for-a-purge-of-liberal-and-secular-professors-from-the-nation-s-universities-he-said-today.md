@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/5/president-mahmoud-ahmadinejad-of-iran-calls-for-a-purge-of-liberal-and-secular-professors-from-the-nation-s-universities-he-said-today.html)  [JSON](/news/2006/09/5/president-mahmoud-ahmadinejad-of-iran-calls-for-a-purge-of-liberal-and-secular-professors-from-the-nation-s-universities-he-said-today.json)  [XML](/news/2006/09/5/president-mahmoud-ahmadinejad-of-iran-calls-for-a-purge-of-liberal-and-secular-professors-from-the-nation-s-universities-he-said-today.xml)  
+
 ### [2006-09-5](/news/2006/09/5/index.md)
 
+##### Mahmoud Ahmadinejad
 #  President Mahmoud Ahmadinejad of Iran calls for a purge of liberal and secular professors from the nation's universities. He said: "Today, students should shout at the president and ask why liberal and secular university lecturers are present in the universities." 
 
 Iranian &#160;President Mahmoud Ahmadinejad called Tuesday for a purge of liberal and secular teachers from the country&#39;s universities, the official Islamic Republic News Agency reported.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/14676069/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/060905/060905_iran_vmed_3a.standard.jpg)

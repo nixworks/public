@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/2/donald-e-powell-former-chief-executive-of-the-first-national-bank-of-amarillo-texas-and-current-federal-deposit-insurance-corporation-ch.html)  [JSON](/news/2005/11/2/donald-e-powell-former-chief-executive-of-the-first-national-bank-of-amarillo-texas-and-current-federal-deposit-insurance-corporation-ch.json)  [XML](/news/2005/11/2/donald-e-powell-former-chief-executive-of-the-first-national-bank-of-amarillo-texas-and-current-federal-deposit-insurance-corporation-ch.xml)  
+
 ### [2005-11-2](/news/2005/11/2/index.md)
 
+##### Donald E. Powell
 #  Donald E. Powell, former chief executive of the First National Bank of Amarillo, Texas and current Federal Deposit Insurance Corporation chairman is named to coordinate rebuilding of the Gulf Coast by President George W. Bush. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Washington Times](http://washingtontimes.com/national/20051101-115633-5569r.htm)
 2. [White House](http://www.whitehouse.gov/news/releases/2005/11/20051101-6.html)

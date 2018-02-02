@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/13/iraq-war-jeremy-paxman-faces-being-punished-by-the-bbc-after-being-judged-to-have-violated-the-corporation-s-strict-impartiality-rules-by-w.html)  [JSON](/news/2011/02/13/iraq-war-jeremy-paxman-faces-being-punished-by-the-bbc-after-being-judged-to-have-violated-the-corporation-s-strict-impartiality-rules-by-w.json)  [XML](/news/2011/02/13/iraq-war-jeremy-paxman-faces-being-punished-by-the-bbc-after-being-judged-to-have-violated-the-corporation-s-strict-impartiality-rules-by-w.xml)  
+
 ### [2011-02-13](/news/2011/02/13/index.md)
 
+##### Iraq War
 # Iraq War: Jeremy Paxman faces being punished by the BBC after being judged to have violated the corporation's strict impartiality rules by writing an article for "The Guardian" in which he stated that Tony Blair's "lies" had led Britain to war with Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/news/article-1356590/Jeremy-Paxman-warned-BBC-impartiality-Iraq-war-article-Blairs-lies.html?ito=feeds-newsxml)
 

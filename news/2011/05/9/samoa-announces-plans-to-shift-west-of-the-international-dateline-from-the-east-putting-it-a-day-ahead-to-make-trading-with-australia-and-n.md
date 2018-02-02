@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/9/samoa-announces-plans-to-shift-west-of-the-international-dateline-from-the-east-putting-it-a-day-ahead-to-make-trading-with-australia-and-n.html)  [JSON](/news/2011/05/9/samoa-announces-plans-to-shift-west-of-the-international-dateline-from-the-east-putting-it-a-day-ahead-to-make-trading-with-australia-and-n.json)  [XML](/news/2011/05/9/samoa-announces-plans-to-shift-west-of-the-international-dateline-from-the-east-putting-it-a-day-ahead-to-make-trading-with-australia-and-n.xml)  
+
 ### [2011-05-9](/news/2011/05/9/index.md)
 
+##### Samoa
 # Samoa announces plans to shift west of the international dateline from the east, putting it a day ahead to make trading with Australia and New Zealand easier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/42952302)
 

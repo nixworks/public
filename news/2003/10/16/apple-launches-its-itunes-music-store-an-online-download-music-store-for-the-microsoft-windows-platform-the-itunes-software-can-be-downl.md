@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2003/10/16/apple-launches-its-itunes-music-store-an-online-download-music-store-for-the-microsoft-windows-platform-the-itunes-software-can-be-downl.html)  [JSON](/news/2003/10/16/apple-launches-its-itunes-music-store-an-online-download-music-store-for-the-microsoft-windows-platform-the-itunes-software-can-be-downl.json)  [XML](/news/2003/10/16/apple-launches-its-itunes-music-store-an-online-download-music-store-for-the-microsoft-windows-platform-the-itunes-software-can-be-downl.xml)  
+
 ### [2003-10-16](/news/2003/10/16/index.md)
 
-#  Apple launches its iTunes Music Store, an online download music store, for the Microsoft Windows platform. The iTunes software can be downloaded from [http:--www.apple.com- apple.com] for free.
+##### Apple Computer
+#  Apple launches its iTunes Music Store, an online download music store, for the Microsoft Windows platform. The iTunes software can be downloaded from [https:--www.apple.com- apple.com] for free.
 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/24/china-s-ministry-of-the-environment-and-water-resources-will-send-inspection-teams-to-chinese-regional-cities-to-inspect-air-quality-followi.html)  [JSON](/news/2013/10/24/china-s-ministry-of-the-environment-and-water-resources-will-send-inspection-teams-to-chinese-regional-cities-to-inspect-air-quality-followi.json)  [XML](/news/2013/10/24/china-s-ministry-of-the-environment-and-water-resources-will-send-inspection-teams-to-chinese-regional-cities-to-inspect-air-quality-followi.xml)  
+
 ### [2013-10-24](/news/2013/10/24/index.md)
 
+##### China
 # China's Ministry of the Environment and Water Resources will send inspection teams to Chinese regional cities to inspect air quality following the 2013 Harbin smog incident. 
 
 CHINA-POLLUTION/:China to send air pollution inspection teams to provinces
 
 
-### Source:
+### Sources:
 
 1. [Reuters Trust](http://www.trust.org/item/20131024035605-nev3z)
 1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/eefc368b-a85d-4cdd-a11a-e23f9a25429d/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)

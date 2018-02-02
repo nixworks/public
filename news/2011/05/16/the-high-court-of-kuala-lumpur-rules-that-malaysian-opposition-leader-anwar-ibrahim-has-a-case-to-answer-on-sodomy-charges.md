@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/16/the-high-court-of-kuala-lumpur-rules-that-malaysian-opposition-leader-anwar-ibrahim-has-a-case-to-answer-on-sodomy-charges.html)  [JSON](/news/2011/05/16/the-high-court-of-kuala-lumpur-rules-that-malaysian-opposition-leader-anwar-ibrahim-has-a-case-to-answer-on-sodomy-charges.json)  [XML](/news/2011/05/16/the-high-court-of-kuala-lumpur-rules-that-malaysian-opposition-leader-anwar-ibrahim-has-a-case-to-answer-on-sodomy-charges.xml)  
+
 ### [2011-05-16](/news/2011/05/16/index.md)
 
+##### High Court
 # The High Court of Kuala Lumpur rules that Malaysian Opposition Leader Anwar Ibrahim has a case to answer on sodomy charges. 
 
 A court in Malaysia rules there is enough credible evidence against opposition leader Anwar Ibrahim for his trial on a sodomy charge to proceed.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13408052)
 2. [Malaysiakini](http://www.malaysiakini.com/news/164214)

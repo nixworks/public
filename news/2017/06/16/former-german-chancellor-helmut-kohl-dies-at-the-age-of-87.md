@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/16/former-german-chancellor-helmut-kohl-dies-at-th
 
 ### [2017-06-16](/news/2017/06/16/index.md)
 
+##### Politics of Germany
 # Former German Chancellor Helmut Kohl dies at the age of 87. 
 
 

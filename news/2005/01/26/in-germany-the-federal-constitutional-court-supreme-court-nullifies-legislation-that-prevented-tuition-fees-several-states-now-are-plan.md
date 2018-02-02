@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/01/26/in-germany-the-federal-constitutional-court-supreme-court-nullifies-legislation-that-prevented-tuition-fees-several-states-now-are-plan.html)  [JSON](/news/2005/01/26/in-germany-the-federal-constitutional-court-supreme-court-nullifies-legislation-that-prevented-tuition-fees-several-states-now-are-plan.json)  [XML](/news/2005/01/26/in-germany-the-federal-constitutional-court-supreme-court-nullifies-legislation-that-prevented-tuition-fees-several-states-now-are-plan.xml)  
+
 ### [2005-01-26](/news/2005/01/26/index.md)
 
+##### Federal Constitutional Court of Germany
 #  In Germany, the Federal Constitutional Court (supreme court) nullifies legislation that prevented tuition fees. Several states now are planning to introduce such fees. [http:--www.studis-online.de-StudInfo-Gebuehren-tuition_fees.php]
 
 

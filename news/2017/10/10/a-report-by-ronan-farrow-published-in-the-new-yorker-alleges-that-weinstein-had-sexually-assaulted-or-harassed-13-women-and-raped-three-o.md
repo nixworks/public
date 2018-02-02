@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/10/a-report-by-ronan-farrow-published-in-the-new-yorker-alleges-that-weinstein-had-sexually-assaulted-or-harassed-13-women-and-raped-three-o.html)  [JSON](/news/2017/10/10/a-report-by-ronan-farrow-published-in-the-new-yorker-alleges-that-weinstein-had-sexually-assaulted-or-harassed-13-women-and-raped-three-o.json)  [XML](/news/2017/10/10/a-report-by-ronan-farrow-published-in-the-new-yorker-alleges-that-weinstein-had-sexually-assaulted-or-harassed-13-women-and-raped-three-o.xml)  
+
 ### [2017-10-10](/news/2017/10/10/index.md)
 
+##### allegation
 # A report by Ronan Farrow published in "The New Yorker" alleges that Weinstein had sexually assaulted or harassed 13 women, and raped three of them. 
 
 &quot;They thought remaining silent could jeopardize the next woman,&quot; Farrow said.
@@ -16,7 +20,7 @@
 ### Related:
 
 1. [American film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by a report in "The New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic recipients of Weinstein's political donations give the funds to women's charities. ](/news/2017/10/6/american-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-alle.md) _Context: allegation_
-2. [The chief of Amazon Studios, Roy Price, resigns amid reports that he harassed a producer and ignored an allegation by an actress of sexual assault by producer Harvey Weinstein. ](/news/2017/10/17/the-chief-of-amazon-studios-roy-price-resigns-amid-reports-that-he-harassed-a-producer-and-ignored-an-allegation-by-an-actress-of-sexual-a.md) _Context: allegation_
+2. [Roy Price, chief of Amazon Studios, resigns amid accusations that he harassed a female producer and ignored an actress' allegation of sexual assault by producer Harvey Weinstein. ](/news/2017/10/17/roy-price-chief-of-amazon-studios-resigns-amid-accusations-that-he-harassed-a-female-producer-and-ignored-an-actress-allegation-of-sexual.md) _Context: allegation_
 3. [The Board of Directors of the Academy of Motion Picture Arts and Sciences decides to strip Harvey Weinstein of membership following several allegations of predatory sexual behavior. ](/news/2017/10/14/the-board-of-directors-of-the-academy-of-motion-picture-arts-and-sciences-decides-to-strip-harvey-weinstein-of-membership-following-several.md) _Context: allegation_
 4. [The New York Police Department and London's Metropolitan Police Service open investigations into alleged sexual assault allegations against the American film producer Harvey Weinstein. ](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.md) _Context: allegation_
 5. [ Investigative reporter Seymour Hersh writes in "The New Yorker" ](/news/2005/01/17/investigative-reporter-seymour-hersh-writes-in-the-new-yorker.md) _Context: The New Yorker_

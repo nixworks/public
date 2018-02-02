@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/2/calm-returns-to-falluja-as-the-desecrated-remains-of-four-us-civilians-are-handed-over-to-occupation-authorities-townspeople-state-they-we.html)  [JSON](/news/2004/04/2/calm-returns-to-falluja-as-the-desecrated-remains-of-four-us-civilians-are-handed-over-to-occupation-authorities-townspeople-state-they-we.json)  [XML](/news/2004/04/2/calm-returns-to-falluja-as-the-desecrated-remains-of-four-us-civilians-are-handed-over-to-occupation-authorities-townspeople-state-they-we.xml)  
+
 ### [2004-04-2](/news/2004/04/2/index.md)
 
+##### Falluja
 #  Calm returns to Falluja as the desecrated remains of four US civilians are handed over to occupation authorities; townspeople state they were torn between pride in the attack and shame over the mutilations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [International Herald Tribune](http://www.iht.com/articles/513123.html)
 

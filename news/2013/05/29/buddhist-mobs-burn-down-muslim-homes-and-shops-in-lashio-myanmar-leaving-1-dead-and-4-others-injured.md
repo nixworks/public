@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/05/29/buddhist-mobs-burn-down-muslim-homes-and-shops-in-lashio-myanmar-leaving-1-dead-and-4-others-injured.html)  [JSON](/news/2013/05/29/buddhist-mobs-burn-down-muslim-homes-and-shops-in-lashio-myanmar-leaving-1-dead-and-4-others-injured.json)  [XML](/news/2013/05/29/buddhist-mobs-burn-down-muslim-homes-and-shops-in-lashio-myanmar-leaving-1-dead-and-4-others-injured.xml)  
+
 ### [2013-05-29](/news/2013/05/29/index.md)
 
+##### Buddhist
 # Buddhist mobs burn down Muslim homes and shops in Lashio, Myanmar leaving 1 dead and 4 others injured. 
 
 Security forces struggled to control Buddhist mobs who burned Muslim homes on Wednesday for a second day in the northern Myanmar city of Lashio in a dangerous widening of ultra-nationalist Buddhist violence.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/05/29/us-myanmar-violence-idUSBRE94S0JD20130529)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130529&t=2&i=736348623&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94S0XDD00)
+1. [Reuters](https://www.reuters.com/article/2013/05/29/us-myanmar-violence-idUSBRE94S0JD20130529)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130529&t=2&i=736348623&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE94S0XDD00)
 
 ### Related:
 

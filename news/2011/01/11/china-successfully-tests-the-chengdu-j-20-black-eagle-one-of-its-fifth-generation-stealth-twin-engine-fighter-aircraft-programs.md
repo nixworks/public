@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/11/china-successfully-tests-the-chengdu-j-20-black-eagle-one-of-its-fifth-generation-stealth-twin-engine-fighter-aircraft-programs.html)  [JSON](/news/2011/01/11/china-successfully-tests-the-chengdu-j-20-black-eagle-one-of-its-fifth-generation-stealth-twin-engine-fighter-aircraft-programs.json)  [XML](/news/2011/01/11/china-successfully-tests-the-chengdu-j-20-black-eagle-one-of-its-fifth-generation-stealth-twin-engine-fighter-aircraft-programs.xml)  
+
 ### [2011-01-11](/news/2011/01/11/index.md)
 
+##### China
 # China successfully tests the Chengdu J-20 Black Eagle, one of its fifth generation stealth, twin-engine fighter aircraft programs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/breaking-news/china-tests-new-stealth-fighter/story-e6frfku0-1225985996797?from=public_rss)
 2. [Shanghai Daily](http://www.shanghaidaily.com/sp/article/2011/201101/20110111/article_461248.htm)

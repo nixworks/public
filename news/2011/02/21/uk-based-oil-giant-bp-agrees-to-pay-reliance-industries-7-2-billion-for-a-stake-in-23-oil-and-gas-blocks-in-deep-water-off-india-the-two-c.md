@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/02/21/uk-based-oil-giant-bp-agrees-to-pay-reliance-industries-7-2-billion-for-a-stake-in-23-oil-and-gas-blocks-in-deep-water-off-india-the-two-c.html)  [JSON](/news/2011/02/21/uk-based-oil-giant-bp-agrees-to-pay-reliance-industries-7-2-billion-for-a-stake-in-23-oil-and-gas-blocks-in-deep-water-off-india-the-two-c.json)  [XML](/news/2011/02/21/uk-based-oil-giant-bp-agrees-to-pay-reliance-industries-7-2-billion-for-a-stake-in-23-oil-and-gas-blocks-in-deep-water-off-india-the-two-c.xml)  
+
 ### [2011-02-21](/news/2011/02/21/index.md)
 
+##### BP
 # UK based oil giant BP agrees to pay Reliance Industries $7.2 billion for a stake in 23 oil and gas blocks in deep water off India. The two companies will also enter into a joint venture for marketing and sourcing natural gas. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/02/21/us-bp-reliance-idUSTRE71K1U520110221)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20110221&t=2&i=343185502&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-21T180442Z_01_BTRE71K1E7X00_RTROPTP_0_BP-RELIANCE)
+1. [Reuters](https://www.reuters.com/article/2011/02/21/us-bp-reliance-idUSTRE71K1U520110221)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20110221&t=2&i=343185502&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-21T180442Z_01_BTRE71K1E7X00_RTROPTP_0_BP-RELIANCE)
 
 ### Related:
 

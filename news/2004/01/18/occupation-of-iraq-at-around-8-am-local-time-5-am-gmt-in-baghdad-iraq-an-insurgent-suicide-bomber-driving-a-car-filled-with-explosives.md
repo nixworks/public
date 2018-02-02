@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/18/occupation-of-iraq-at-around-8-am-local-time-5-am-gmt-in-baghdad-iraq-an-insurgent-suicide-bomber-driving-a-car-filled-with-explosives.html)  [JSON](/news/2004/01/18/occupation-of-iraq-at-around-8-am-local-time-5-am-gmt-in-baghdad-iraq-an-insurgent-suicide-bomber-driving-a-car-filled-with-explosives.json)  [XML](/news/2004/01/18/occupation-of-iraq-at-around-8-am-local-time-5-am-gmt-in-baghdad-iraq-an-insurgent-suicide-bomber-driving-a-car-filled-with-explosives.xml)  
+
 ### [2004-01-18](/news/2004/01/18/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: At around 8 am local time (5 am GMT) in Baghdad, Iraq, an insurgent suicide bomber driving a car filled with explosives blew himself up while attempting to enter "Assassin's Gate." Early reports said that about 18 people, including 16 Iraqi civilians and two United States Department of Defense workers were killed, while another 56 Iraqi civilians were wounded.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/25/the-people-s-republic-of-china-s-people-s-liberation-army-navy-s-first-aircraft-carrier-the-liaoning-commences-service.html)  [JSON](/news/2012/09/25/the-people-s-republic-of-china-s-people-s-liberation-army-navy-s-first-aircraft-carrier-the-liaoning-commences-service.json)  [XML](/news/2012/09/25/the-people-s-republic-of-china-s-people-s-liberation-army-navy-s-first-aircraft-carrier-the-liaoning-commences-service.xml)  
+
 ### [2012-09-25](/news/2012/09/25/index.md)
 
+##### China
 # The People's Republic of China's People's Liberation Army Navy's first aircraft carrier, the "Liaoning", commences service. 
 
 China says its first aircraft carrier - a refurbished Soviet ship - has entered into service, expanding its ability to defend its sovereignty.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-19710040#)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63090000/jpg/_63090876_016073982-1.jpg)

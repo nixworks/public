@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/7/the-southern-branch-of-sudan-s-ruling-national-congress-party-announces-its-split-from-the-northern-party-ahead-of-south-sudan-s-independenc.html)  [JSON](/news/2011/07/7/the-southern-branch-of-sudan-s-ruling-national-congress-party-announces-its-split-from-the-northern-party-ahead-of-south-sudan-s-independenc.json)  [XML](/news/2011/07/7/the-southern-branch-of-sudan-s-ruling-national-congress-party-announces-its-split-from-the-northern-party-ahead-of-south-sudan-s-independenc.xml)  
+
 ### [2011-07-7](/news/2011/07/7/index.md)
 
+##### National Congress Party
 # The southern branch of Sudan's ruling National Congress Party announces its split from the northern party ahead of South Sudan's independence 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/indepth/spotlight/southernsudanindependence/2011/07/2011771214156975.html)
 

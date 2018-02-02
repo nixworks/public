@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/25/voters-in-australia-s-northern-territory-elect-the-country-liberal-party.html)  [JSON](/news/2012/08/25/voters-in-australia-s-northern-territory-elect-the-country-liberal-party.json)  [XML](/news/2012/08/25/voters-in-australia-s-northern-territory-elect-the-country-liberal-party.xml)  
+
 ### [2012-08-25](/news/2012/08/25/index.md)
 
+##### Australia
 # Voters in Australia's Northern Territory elect the Country Liberal Party. 
 
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://www.skynews.com.au/topstories/article.aspx?id=787795)
 1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)

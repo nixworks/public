@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/23/some-15-000-buddhist-monks-and-laymen-march-through-the-streets-of-rangoon-in-the-sixth-day-of-escalating-peaceful-protests-against-the-bur.html)  [JSON](/news/2007/09/23/some-15-000-buddhist-monks-and-laymen-march-through-the-streets-of-rangoon-in-the-sixth-day-of-escalating-peaceful-protests-against-the-bur.json)  [XML](/news/2007/09/23/some-15-000-buddhist-monks-and-laymen-march-through-the-streets-of-rangoon-in-the-sixth-day-of-escalating-peaceful-protests-against-the-bur.xml)  
+
 ### [2007-09-23](/news/2007/09/23/index.md)
 
+##### Rangoon
 #  Some 15,000 Buddhist monks and laymen march through the streets of Rangoon in the sixth day of escalating peaceful protests against the Burmese military regime. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/topstories/topstories.php?id=121953)
 

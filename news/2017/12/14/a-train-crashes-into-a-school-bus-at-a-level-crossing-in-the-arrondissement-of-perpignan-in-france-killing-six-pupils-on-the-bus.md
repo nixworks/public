@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/14/a-train-crashes-into-a-school-bus-at-a-level-cr
 
 ### [2017-12-14](/news/2017/12/14/index.md)
 
+##### Perpignan crash
 # A train crashes into a school bus at a level crossing in the Arrondissement of Perpignan in France, killing six pupils on the bus. 
 
 A train and a school bus collide in southern France, leaving at least four children dead, officials say.

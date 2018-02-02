@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/16/the-afghan-parliament-for-a-second-time-rejects-most-of-president-hamid-karzai-s-cabinet-nominees.html)  [JSON](/news/2010/01/16/the-afghan-parliament-for-a-second-time-rejects-most-of-president-hamid-karzai-s-cabinet-nominees.json)  [XML](/news/2010/01/16/the-afghan-parliament-for-a-second-time-rejects-most-of-president-hamid-karzai-s-cabinet-nominees.xml)  
+
 ### [2010-01-16](/news/2010/01/16/index.md)
 
+##### Afghanistan
 # The Afghan parliament for a second time rejects most of President Hamid Karzai's cabinet nominees. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/01/16/afghanistan.karzai.cabinet/)
 2. [The Hindu](http://beta.thehindu.com/news/international/article81197.ece)

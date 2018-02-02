@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/1/lieutenant-general-david-hurley-of-the-australian-army-is-announced-as-the-successor-to-air-chief-marshal-angus-houston-as-the-chief-of-the.html)  [JSON](/news/2011/06/1/lieutenant-general-david-hurley-of-the-australian-army-is-announced-as-the-successor-to-air-chief-marshal-angus-houston-as-the-chief-of-the.json)  [XML](/news/2011/06/1/lieutenant-general-david-hurley-of-the-australian-army-is-announced-as-the-successor-to-air-chief-marshal-angus-houston-as-the-chief-of-the.xml)  
+
 ### [2011-06-1](/news/2011/06/1/index.md)
 
+##### Lieutenant General
 # Lieutenant General David Hurley of the Australian Army is announced as the successor to Air Chief Marshal Angus Houston as the Chief of the Australian Defence Force. 
 
 Prime Minister Julia Gillard has unveiled a complete reshuffle at the top of the Australian Defence Force.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/06/01/3232564.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/2740510-1x1-700x700.jpg)

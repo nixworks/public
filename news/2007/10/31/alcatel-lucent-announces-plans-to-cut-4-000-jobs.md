@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/31/alcatel-lucent-announces-plans-to-cut-4-000-jobs.html)  [JSON](/news/2007/10/31/alcatel-lucent-announces-plans-to-cut-4-000-jobs.json)  [XML](/news/2007/10/31/alcatel-lucent-announces-plans-to-cut-4-000-jobs.xml)  
+
 ### [2007-10-31](/news/2007/10/31/index.md)
 
+##### Alcatel-Lucent
 #  Alcatel-Lucent announces plans to cut 4,000 jobs. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?type=marketsNews&storyID=2007-10-31T091040Z_01_L31120431_RTRIDST_0_ALCATEL-EARNINGS-UPDATE-2.XML)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

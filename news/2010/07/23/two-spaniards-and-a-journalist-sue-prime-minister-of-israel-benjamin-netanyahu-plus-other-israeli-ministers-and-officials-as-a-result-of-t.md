@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/23/two-spaniards-and-a-journalist-sue-prime-minister-of-israel-benjamin-netanyahu-plus-other-israeli-ministers-and-officials-as-a-result-of-t.html)  [JSON](/news/2010/07/23/two-spaniards-and-a-journalist-sue-prime-minister-of-israel-benjamin-netanyahu-plus-other-israeli-ministers-and-officials-as-a-result-of-t.json)  [XML](/news/2010/07/23/two-spaniards-and-a-journalist-sue-prime-minister-of-israel-benjamin-netanyahu-plus-other-israeli-ministers-and-officials-as-a-result-of-t.xml)  
+
 ### [2010-07-23](/news/2010/07/23/index.md)
 
+##### Spain
 # Two Spaniards and a journalist sue Prime Minister of Israel Benjamin Netanyahu, plus other Israeli ministers and officials, as a result of the Gaza flotilla raid. 
 
 Three Spaniards arrested by Israel during a raid on a Gaza-bound aid flotilla are filing a court case against the Israeli prime minister.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-10741416)
 2. [IOL](http://www.iol.co.za/index.php?from=rss_Middle%20East&set_id=1&click_id=123&art_id=nw20100723130656370C971609)

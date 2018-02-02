@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/25/more-than-100-people-are-poisoned-by-lead-from-a-battery-plant-built-in-a-residential-area-in-zhejiang-china.html)  [JSON](/news/2011/03/25/more-than-100-people-are-poisoned-by-lead-from-a-battery-plant-built-in-a-residential-area-in-zhejiang-china.json)  [XML](/news/2011/03/25/more-than-100-people-are-poisoned-by-lead-from-a-battery-plant-built-in-a-residential-area-in-zhejiang-china.xml)  
+
 ### [2011-03-25](/news/2011/03/25/index.md)
 
+##### lead
 # More than 100 people are poisoned by lead from a battery plant built in a residential area in Zhejiang, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gl9qUU4tJlzTOAUEetnyCSusrU5w?docId=3cc06e73a8154d5da3f341472189adfc)
 2. [People's Daily](http://english.peopledaily.com.cn/90001/90776/90882/7331653.html)

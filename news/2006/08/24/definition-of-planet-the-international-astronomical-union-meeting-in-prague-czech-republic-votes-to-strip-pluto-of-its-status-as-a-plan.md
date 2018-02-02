@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/24/definition-of-planet-the-international-astronomical-union-meeting-in-prague-czech-republic-votes-to-strip-pluto-of-its-status-as-a-plan.html)  [JSON](/news/2006/08/24/definition-of-planet-the-international-astronomical-union-meeting-in-prague-czech-republic-votes-to-strip-pluto-of-its-status-as-a-plan.json)  [XML](/news/2006/08/24/definition-of-planet-the-international-astronomical-union-meeting-in-prague-czech-republic-votes-to-strip-pluto-of-its-status-as-a-plan.xml)  
+
 ### [2006-08-24](/news/2006/08/24/index.md)
 
+##### Definition of planet
 #  Definition of planet: The International Astronomical Union, meeting in Prague, Czech Republic, votes to strip Pluto of its status as a planet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/5282440.stm)
 

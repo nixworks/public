@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/20/at-least-26-people-are-killed-and-several-others-are-injured-when-a-bus-carrying-tourists-from-thailand-overturns-in-malaysia.html)  [JSON](/news/2010/12/20/at-least-26-people-are-killed-and-several-others-are-injured-when-a-bus-carrying-tourists-from-thailand-overturns-in-malaysia.json)  [XML](/news/2010/12/20/at-least-26-people-are-killed-and-several-others-are-injured-when-a-bus-carrying-tourists-from-thailand-overturns-in-malaysia.xml)  
+
 ### [2010-12-20](/news/2010/12/20/index.md)
 
+##### Thailand
 # At least 26 people are killed and several others are injured when a bus carrying tourists from Thailand overturns in Malaysia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bernama](http://www.bernama.com.my/bernama/v5/newsindex.php?id=551427)
 2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/145415.html)

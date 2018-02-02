@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/2/heavy-snow-across-england-closes-london-city-airport-and-one-runway-of-heathrow-airport-and-shuts-down-all-public-transport-in-london.html)  [JSON](/news/2009/02/2/heavy-snow-across-england-closes-london-city-airport-and-one-runway-of-heathrow-airport-and-shuts-down-all-public-transport-in-london.json)  [XML](/news/2009/02/2/heavy-snow-across-england-closes-london-city-airport-and-one-runway-of-heathrow-airport-and-shuts-down-all-public-transport-in-london.xml)  
+
 ### [2009-02-2](/news/2009/02/2/index.md)
 
+##### Heavy snow
 #  Heavy snow across England closes London City Airport and one runway of Heathrow Airport and shuts down all public transport in London. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/7864349.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/2/the-trial-of-malaysian-opposition-leader-anwar-ibrahim-on-sodomy-charges-is-deferred-until-august-9.html)  [JSON](/news/2010/08/2/the-trial-of-malaysian-opposition-leader-anwar-ibrahim-on-sodomy-charges-is-deferred-until-august-9.json)  [XML](/news/2010/08/2/the-trial-of-malaysian-opposition-leader-anwar-ibrahim-on-sodomy-charges-is-deferred-until-august-9.xml)  
+
 ### [2010-08-2](/news/2010/08/2/index.md)
 
+##### trial
 # The trial of Malaysian opposition leader Anwar Ibrahim on sodomy charges is deferred until August 9. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/08/02/malaysia.sodomy.trial/)
 

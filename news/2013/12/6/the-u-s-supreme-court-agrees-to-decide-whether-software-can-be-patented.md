@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/6/the-u-s-supreme-court-agrees-to-decide-whether-software-can-be-patented.html)  [JSON](/news/2013/12/6/the-u-s-supreme-court-agrees-to-decide-whether-software-can-be-patented.json)  [XML](/news/2013/12/6/the-u-s-supreme-court-agrees-to-decide-whether-software-can-be-patented.xml)  
+
 ### [2013-12-6](/news/2013/12/6/index.md)
 
+##### U.S. Supreme Court
 # The U.S. Supreme Court agrees to decide whether software can be patented. 
 
 WASHINGTON (Reuters) - The Supreme Court agreed on Friday to rule on the divisive issue of what kinds of software are eligible for patent protection in a case being closely watched by the...
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''The Chicago Tribune](http://www.chicagotribune.com/business/sns-rt-us-usa-court-software-20131206,0,6455987.story)
 1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)

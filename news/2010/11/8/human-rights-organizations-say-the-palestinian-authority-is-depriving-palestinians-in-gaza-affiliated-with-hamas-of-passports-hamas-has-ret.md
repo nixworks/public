@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/8/human-rights-organizations-say-the-palestinian-authority-is-depriving-palestinians-in-gaza-affiliated-with-hamas-of-passports-hamas-has-ret.html)  [JSON](/news/2010/11/8/human-rights-organizations-say-the-palestinian-authority-is-depriving-palestinians-in-gaza-affiliated-with-hamas-of-passports-hamas-has-ret.json)  [XML](/news/2010/11/8/human-rights-organizations-say-the-palestinian-authority-is-depriving-palestinians-in-gaza-affiliated-with-hamas-of-passports-hamas-has-ret.xml)  
+
 ### [2010-11-8](/news/2010/11/8/index.md)
 
+##### Palestinian Authority
 # Human rights organizations say the Palestinian Authority is depriving Palestinians in Gaza affiliated with Hamas of passports; Hamas has retaliated by depriving Gazans belonging to Fatah of their passports. 
 
 Human rights organizations say the PA is punishing Gaza Palestinians affiliated with Hamas by depriving them of travel documents.
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=194405)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=152690)

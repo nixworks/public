@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/25/sicilians-react-with-outrage-to-an-advert-for-a-clothing-shop-in-palermo-featuring-adolf-hitler-dressed-in-pink-and-a-heart-instead-of-a-swa.html)  [JSON](/news/2010/05/25/sicilians-react-with-outrage-to-an-advert-for-a-clothing-shop-in-palermo-featuring-adolf-hitler-dressed-in-pink-and-a-heart-instead-of-a-swa.json)  [XML](/news/2010/05/25/sicilians-react-with-outrage-to-an-advert-for-a-clothing-shop-in-palermo-featuring-adolf-hitler-dressed-in-pink-and-a-heart-instead-of-a-swa.xml)  
+
 ### [2010-05-25](/news/2010/05/25/index.md)
 
+##### Sicily
 # Sicilians react with outrage to an advert for a clothing shop in Palermo featuring Adolf Hitler dressed in pink and a heart instead of a swastika. 
 
 A clothing advert showing Adolf Hitler dressed in pink causes outrage in Sicily.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10159789.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/10/4/protesters-storm-the-headquarters-of-the-libyan-general-national-congress-in-the-capital-tripoli-angry-at-prime-minister-mustafa-abushagur-s.html)  [JSON](/news/2012/10/4/protesters-storm-the-headquarters-of-the-libyan-general-national-congress-in-the-capital-tripoli-angry-at-prime-minister-mustafa-abushagur-s.json)  [XML](/news/2012/10/4/protesters-storm-the-headquarters-of-the-libyan-general-national-congress-in-the-capital-tripoli-angry-at-prime-minister-mustafa-abushagur-s.xml)  
+
 ### [2012-10-4](/news/2012/10/4/index.md)
 
+##### Libyan Parliament
 # Protesters storm the headquarters of the Libyan General National Congress in the capital Tripoli angry at Prime Minister Mustafa Abushagur's proposed cabinet line-up, saying it is not fully representative of the country. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/10/04/us-libya-government-idUSBRE8930RG20121004)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121004&t=2&i=659913042&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE89318NX00)
+1. [Reuters](https://www.reuters.com/article/2012/10/04/us-libya-government-idUSBRE8930RG20121004)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121004&t=2&i=659913042&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE89318NX00)
 
 ### Related:
 

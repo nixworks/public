@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2010/03/13/new-zealander-peter-bethune-a-member-of-the-sea-shepherd-conservation-society-who-captained-the-ady-gil-when-it-crashed-with-the-mv-shon.html)  [JSON](/news/2010/03/13/new-zealander-peter-bethune-a-member-of-the-sea-shepherd-conservation-society-who-captained-the-ady-gil-when-it-crashed-with-the-mv-shon.json)  [XML](/news/2010/03/13/new-zealander-peter-bethune-a-member-of-the-sea-shepherd-conservation-society-who-captained-the-ady-gil-when-it-crashed-with-the-mv-shon.xml)  
+
 ### [2010-03-13](/news/2010/03/13/index.md)
 
+##### New Zealand
 # New Zealander Peter Bethune, a member of the Sea Shepherd Conservation Society who captained the "Ady Gil" when it crashed with the MV "Shonan Maru 2" and sank, encounters coastguards, police and protesters as he arrives on the Japanese mainland. 
 
 A leading member of the conservation group Sea Shepherd, who was detained aboard a whaling vessel for nearly a month, was met by a crowd of police, coastguards and protesters as he arrived on the Japanese mainland.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/environment/whale-watch/tokyos-angry-reception-for-antiwhaling-activist-20100312-q46s.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/q/4/f/v/image.related.articleLeadwide.620x349.q46s.png/1268409601000.jpg)
+
+### Changes:
+
+1. [New Zealander Peter Bethune, a member of the Sea Shepherd Conservation Society who captained the ''Ady Gil'' when it crashed with the MV ''Shonan Maru 2'' and sank, encounters coastguards, police and protesters as he arrives on the Japanese mainland. ](/news/2010/03/13/new-zealander-peter-bethune-a-member-of-the-sea-shepherd-conservation-society-who-captained-the-ady-gil-when-it-crashed-with-the-mv-s.md) _2017-08-25 03:27:22 (First version)_
+1. [New Zealander Peter Bethune, a member of the Sea Shepherd Conservation Society who captained the "Ady Gil" when it crashed with the MV "Shonan Maru 2" and sank, encounters coastguards, police and protesters as he arrives on the Japanese mainland. ](/news/2010/03/13/new-zealander-peter-bethune-a-member-of-the-sea-shepherd-conservation-society-who-captained-the-ady-gil-when-it-crashed-with-the-mv-shon.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ A leading member of the conservation group Sea Shepherd, who was detained aboard
 3. [The United States Congress negotiates a deal to fast track the Trans-Pacific Partnership between the US and Australia, Brunei, Canada, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam. ](/news/2015/04/16/the-united-states-congress-negotiates-a-deal-to-fast-track-the-trans-pacific-partnership-between-the-us-and-australia-brunei-canada-chile.md) _Context: Japan, New Zealand_
 4. [The governments of the United States, Australia, New Zealand and the Netherlands protest the start of Japan's whaling season off the coast of Antarctica. ](/news/2011/12/14/the-governments-of-the-united-states-australia-new-zealand-and-the-netherlands-protest-the-start-of-japan-s-whaling-season-off-the-coast-o.md) _Context: Japan, New Zealand_
 5. [Earthquakes hit off the coasts of Vancouver Island, Cuba, Japan, and New Zealand's north island. ](/news/2011/09/15/earthquakes-hit-off-the-coasts-of-vancouver-island-cuba-japan-and-new-zealand-s-north-island.md) _Context: Japan, New Zealand_
-
-### Changes:
-
-1. [New Zealander Peter Bethune, a member of the Sea Shepherd Conservation Society who captained the ''Ady Gil'' when it crashed with the MV ''Shonan Maru 2'' and sank, encounters coastguards, police and protesters as he arrives on the Japanese mainland. ](/news/2010/03/13/new-zealander-peter-bethune-a-member-of-the-sea-shepherd-conservation-society-who-captained-the-ady-gil-when-it-crashed-with-the-mv-s.md) _2017-08-25 03:27:22 (First version)_
-1. [New Zealander Peter Bethune, a member of the Sea Shepherd Conservation Society who captained the "Ady Gil" when it crashed with the MV "Shonan Maru 2" and sank, encounters coastguards, police and protesters as he arrives on the Japanese mainland. ](/news/2010/03/13/new-zealander-peter-bethune-a-member-of-the-sea-shepherd-conservation-society-who-captained-the-ady-gil-when-it-crashed-with-the-mv-shon.md) _(Current version)_

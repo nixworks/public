@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/31/wildfires-burn-across-quebec-sending-smoke-as-far-away-as-ottawa-and-cape-cod.html)  [JSON](/news/2010/05/31/wildfires-burn-across-quebec-sending-smoke-as-far-away-as-ottawa-and-cape-cod.json)  [XML](/news/2010/05/31/wildfires-burn-across-quebec-sending-smoke-as-far-away-as-ottawa-and-cape-cod.xml)  
+
 ### [2010-05-31](/news/2010/05/31/index.md)
 
+##### Wildfires
 # Wildfires burn across Quebec, sending smoke as far away as Ottawa and Cape Cod. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Boston Herald](http://bostonherald.com/news/regional/view/20100531smoke_hanging_on_cape_and_region_a_canadian_import/srvc=home&position=6)
 2. [CBC News](http://www.cbc.ca/canada/montreal/story/2010/05/31/quebec-forest-fires.html)

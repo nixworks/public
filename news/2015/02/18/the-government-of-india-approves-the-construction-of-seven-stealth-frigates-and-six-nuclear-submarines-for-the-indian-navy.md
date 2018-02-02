@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/18/the-government-of-india-approves-the-construction-of-seven-stealth-frigates-and-six-nuclear-submarines-for-the-indian-navy.html)  [JSON](/news/2015/02/18/the-government-of-india-approves-the-construction-of-seven-stealth-frigates-and-six-nuclear-submarines-for-the-indian-navy.json)  [XML](/news/2015/02/18/the-government-of-india-approves-the-construction-of-seven-stealth-frigates-and-six-nuclear-submarines-for-the-indian-navy.xml)  
+
 ### [2015-02-18](/news/2015/02/18/index.md)
 
+##### Government of India
 # The Government of India approves the construction of seven stealth frigates and six nuclear submarines for the Indian Navy. 
 
 The Modi government has cleared the indigenous construction of seven stealth frigates and six nuclear-powered attack submarines, which together will cost well upwards of Rs 1 lakh crore.
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Govt-approves-construction-of-7-stealth-frigates-6-nuclear-powered-submarines/articleshow/46281364.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/46281384.cms)

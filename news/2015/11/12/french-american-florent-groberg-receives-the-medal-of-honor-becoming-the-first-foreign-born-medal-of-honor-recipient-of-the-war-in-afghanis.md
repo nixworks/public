@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/12/french-american-florent-groberg-receives-the-medal-of-honor-becoming-the-first-foreign-born-medal-of-honor-recipient-of-the-war-in-afghanis.html)  [JSON](/news/2015/11/12/french-american-florent-groberg-receives-the-medal-of-honor-becoming-the-first-foreign-born-medal-of-honor-recipient-of-the-war-in-afghanis.json)  [XML](/news/2015/11/12/french-american-florent-groberg-receives-the-medal-of-honor-becoming-the-first-foreign-born-medal-of-honor-recipient-of-the-war-in-afghanis.xml)  
+
 ### [2015-11-12](/news/2015/11/12/index.md)
 
+##### Florent Groberg
 # French-American Florent Groberg receives the Medal of Honor, becoming the first foreign-born Medal of Honor recipient of the War in Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/11/12/politics/florent-groberg-medal-of-honor/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/16/five-people-are-found-dead-after-a-business-dispute-in-phoenix-arizona.html)  [JSON](/news/2015/04/16/five-people-are-found-dead-after-a-business-dispute-in-phoenix-arizona.json)  [XML](/news/2015/04/16/five-people-are-found-dead-after-a-business-dispute-in-phoenix-arizona.xml)  
+
 ### [2015-04-16](/news/2015/04/16/index.md)
 
+##### Phoenix, Arizona
 # Five people are found dead after a business dispute in Phoenix, Arizona. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2015-04-17-US--Bodies%20in%20Home/id-02b199670e6141bcb5a8cebfd81270ca)
 

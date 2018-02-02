@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/15/zimbabwean-opposition-leader-morgan-tsvangirai-is-acquitted-of-treason-charges.html)  [JSON](/news/2004/10/15/zimbabwean-opposition-leader-morgan-tsvangirai-is-acquitted-of-treason-charges.json)  [XML](/news/2004/10/15/zimbabwean-opposition-leader-morgan-tsvangirai-is-acquitted-of-treason-charges.xml)  
+
 ### [2004-10-15](/news/2004/10/15/index.md)
 
+##### Zimbabwe
 #  Zimbabwean opposition leader Morgan Tsvangirai is acquitted of treason charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/3744004.stm)
 

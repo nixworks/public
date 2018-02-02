@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2012/02/7/greek-government-debt-crisis-discussions-among-the-three-parties-within-the-ruling-coalition-in-greece-are-postponed-at-least-in-part-beca.html)  [JSON](/news/2012/02/7/greek-government-debt-crisis-discussions-among-the-three-parties-within-the-ruling-coalition-in-greece-are-postponed-at-least-in-part-beca.json)  [XML](/news/2012/02/7/greek-government-debt-crisis-discussions-among-the-three-parties-within-the-ruling-coalition-in-greece-are-postponed-at-least-in-part-beca.xml)  
+
 ### [2012-02-7](/news/2012/02/7/index.md)
 
+##### Greek government debt crisis
 # Greek government debt crisis: discussions among the three parties within the ruling coalition in Greece are postponed, at least in part because the paperwork wasn't ready. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/08/us-greece-idUSTRE8120HI20120208?feedType=RSS&feedName=topNews&rpc=71&google_editors_picks=true)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120208&t=2&i=568245468&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8171B2E00)
+1. [Reuters](https://www.reuters.com/article/2012/02/08/us-greece-idUSTRE8120HI20120208?feedType=RSS&feedName=topNews&rpc=71&google_editors_picks=true)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120208&t=2&i=568245468&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE8171B2E00)
 
 ### Related:
 
-1. [Greece demands an explanation from the International Monetary Fund (IMF) after an apparent leaked transcript suggested the IMF may threaten to pull out of the country's bailout as a tactic to force European lenders to offer more debt relief. Whistleblowing site WikiLeaks published what it said was the transcript of a March 19 conference call of three senior IMF officials discussing tactics to apply pressure on Greece, Germany and the EU to reach a deal in April. ](/news/2016/04/2/greece-demands-an-explanation-from-the-international-monetary-fund-imf-after-an-apparent-leaked-transcript-suggested-the-imf-may-threaten.md) _Context: Greek, Greek government-debt crisis_
-2. [A new study shows Greece's six-year austerity program is even affecting prostitution. Gregory Laxos, a sociology professor at the Panteion University in Athens, told the "Times of London" the going rate for sex with a prostitute was 50 euros ($53) when the economic crisis began. Now, it's fallen to as low as two euros ($2.12) for a 30-minute session, or to a cheese pie, a sandwich because they are hungry. ](/news/2015/11/27/a-new-study-shows-greece-s-six-year-austerity-program-is-even-affecting-prostitution-gregory-laxos-a-sociology-professor-at-the-panteion-u.md) _Context: Greek, Greek government-debt crisis_
-3. [The Bundestag votes to approve a third bailout for Greece. ](/news/2015/08/19/the-bundestag-votes-to-approve-a-third-bailout-for-greece.md) _Context: Greek, Greek government-debt crisis_
-4. [Greece becomes the first advanced economy to miss a payment to the International Monetary Fund in the 71-year history of the IMF, unwinding decades of precedent and affecting consequences for the fund's future rescues. ](/news/2015/07/1/greece-becomes-the-first-advanced-economy-to-miss-a-payment-to-the-international-monetary-fund-in-the-71-year-history-of-the-imf-unwinding.md) _Context: Greek, Greek government-debt crisis_
-5. [The Greek bailout program by the European Union ends today with Greece failing to make a payment to the International Monetary Fund. ](/news/2015/06/30/the-greek-bailout-program-by-the-european-union-ends-today-with-greece-failing-to-make-a-payment-to-the-international-monetary-fund.md) _Context: Greek, Greek government-debt crisis_
+1. [Lucas Papademos is appointed interim prime minister of Greece's new unity government, and pledges to implement a European bailout package to help resolve the Greek government debt crisis. ](/news/2011/11/10/lucas-papademos-is-appointed-interim-prime-minister-of-greece-s-new-unity-government-and-pledges-to-implement-a-european-bailout-package-to.md) _Context: Greece, Greek government debt crisis_
+2. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" - allegedly bound for Libya, loaded with 410 tonnes of explosives - in Heraklion, Greece. 102 safety deficiencies are found, and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-a-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explos.md) _Context: Greece_
+3. [The President of Turkey embarks on a two-day state visit of Greece. Recep Tayyip Erdogan's demarche is a first in 65 years. ](/news/2017/12/7/the-president-of-turkey-embarks-on-a-two-day-state-visit-of-greece-recep-tayyip-erdoaan-s-da-c-marche-is-a-first-in-65-years.md) _Context: Greece_
+4. [Flash floods on the outskirts of the Greek capital Athens kill at least 16 people and injure dozens more after a severe thunderstorm. ](/news/2017/11/15/flash-floods-on-the-outskirts-of-the-greek-capital-athens-kill-at-least-16-people-and-injure-dozens-more-after-a-severe-thunderstorm.md) _Context: Greece_
+5. [Aftershocks cause panic in the Greek island of Kos after a deadly earthquake that injured hundreds. ](/news/2017/07/22/aftershocks-cause-panic-in-the-greek-island-of-kos-after-a-deadly-earthquake-that-injured-hundreds.md) _Context: Greece_

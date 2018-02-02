@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/26/campbell-newman-is-sworn-in-as-the-new-premier-of-the-australian-state-of-queensland-following-a-landslide-victory-in-saturday-s-election.html)  [JSON](/news/2012/03/26/campbell-newman-is-sworn-in-as-the-new-premier-of-the-australian-state-of-queensland-following-a-landslide-victory-in-saturday-s-election.json)  [XML](/news/2012/03/26/campbell-newman-is-sworn-in-as-the-new-premier-of-the-australian-state-of-queensland-following-a-landslide-victory-in-saturday-s-election.xml)  
+
 ### [2012-03-26](/news/2012/03/26/index.md)
 
+##### Campbell Newman
 # Campbell Newman is sworn in as the new Premier of the Australian state of Queensland following a landslide victory in Saturday's election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Courier-Mail](http://www.couriermail.com.au/news/queensland/campbell-newman-sworn-in-as-premier-of-queensland/story-fnbt5t29-1226310325039)
 

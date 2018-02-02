@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/31/u-s-and-egypt-fear-an-islamist-takeover-of-the-gaza-strip-as-a-result-of-a-possible-israeli-pullout-they-debate-the-role-of-arafat-as-pr.html)  [JSON](/news/2004/05/31/u-s-and-egypt-fear-an-islamist-takeover-of-the-gaza-strip-as-a-result-of-a-possible-israeli-pullout-they-debate-the-role-of-arafat-as-pr.json)  [XML](/news/2004/05/31/u-s-and-egypt-fear-an-islamist-takeover-of-the-gaza-strip-as-a-result-of-a-possible-israeli-pullout-they-debate-the-role-of-arafat-as-pr.xml)  
+
 ### [2004-05-31](/news/2004/05/31/index.md)
 
+##### Egypt
 #  U.S. and Egypt fear an Islamist takeover of the Gaza Strip as a result of a possible Israeli pullout. They debate the role of Arafat, as Prime Minister Sharon confronts his own cabinet's opposition led by Netanyahu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [HaAretz](http://www.haaretz.com/hasen/spages/433376.html)
 

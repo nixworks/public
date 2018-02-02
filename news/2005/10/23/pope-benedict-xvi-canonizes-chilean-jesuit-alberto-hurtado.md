@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/10/23/pope-benedict-xvi-canonizes-chilean-jesuit-alberto-hurtado.html)  [JSON](/news/2005/10/23/pope-benedict-xvi-canonizes-chilean-jesuit-alberto-hurtado.json)  [XML](/news/2005/10/23/pope-benedict-xvi-canonizes-chilean-jesuit-alberto-hurtado.xml)  
+
 ### [2005-10-23](/news/2005/10/23/index.md)
 
+##### Benedict XVI
 #  Pope Benedict XVI canonizes Chilean Jesuit Alberto Hurtado.
 
 

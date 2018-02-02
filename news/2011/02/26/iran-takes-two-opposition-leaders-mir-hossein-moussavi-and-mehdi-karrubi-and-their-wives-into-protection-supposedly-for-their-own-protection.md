@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/02/26/iran-takes-two-opposition-leaders-mir-hossein-moussavi-and-mehdi-karrubi-and-their-wives-into-protection-supposedly-for-their-own-protection.html)  [JSON](/news/2011/02/26/iran-takes-two-opposition-leaders-mir-hossein-moussavi-and-mehdi-karrubi-and-their-wives-into-protection-supposedly-for-their-own-protection.json)  [XML](/news/2011/02/26/iran-takes-two-opposition-leaders-mir-hossein-moussavi-and-mehdi-karrubi-and-their-wives-into-protection-supposedly-for-their-own-protection.xml)  
+
 ### [2011-02-26](/news/2011/02/26/index.md)
 
+##### Iran
 # Iran takes two opposition leaders Mir Hossein Moussavi and Mehdi Karrubi and their wives into protection supposedly for their own protection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/02/26/iran.opposition/index.html)
 
 ### Related:
 
 1. [ International Atomic Energy Agency: Iranian officials give signals that they do not intend to comply with a resolution passed by the United Nations's nuclear watchdog giving Tehran until the end of next month to come clean on its atomic programme. Parliamentary speaker Mehdi Karrubi, a close ally of President Mohammad Khatami, said the IAEA resolution was "political" and that "the Iranian people will not accept giving in to the logic of force."](/news/2003/09/18/international-atomic-energy-agency-iranian-officials-give-signals-that-they-do-not-intend-to-comply-with-a-resolution-passed-by-the-united.md) _Context: Iran, Mehdi Karrubi_
-2. [U.S. District Court for the District of Columbia Judge Ellen S. Huvelle awards Amir Mirza Hekmati, a U.S. Marine who was imprisoned in Iran as a falsely accused CIA spy, a default judgment of $63 million for his ordeal. ](/news/2017/10/3/u-s-district-court-for-the-district-of-columbia-judge-ellen-s-huvelle-awards-amir-mirza-hekmati-a-u-s-marine-who-was-imprisoned-in-iran.md) _Context: Iran_
-3. [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md) _Context: Iran_
-4. [Iranian forces launch a military exercise near the border of Iraqi Kurdistan, hours before a Kurdish vote on independence from Iraq. Turkey is also conducting a military exercise in the region. ](/news/2017/09/24/iranian-forces-launch-a-military-exercise-near-the-border-of-iraqi-kurdistan-hours-before-a-kurdish-vote-on-independence-from-iraq-turkey.md) _Context: Iran_
-5. [Iran successfully tests the Khorramshahr missile. ](/news/2017/09/23/iran-successfully-tests-the-khorramshahr-missile.md) _Context: Iran_
+2. [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md) _Context: Iran_
+3. [The U.S. Treasury sanctions five Iranian entities associated with Iran's ballistic missile program. ](/news/2018/01/4/the-u-s-treasury-sanctions-five-iranian-entities-associated-with-iran-s-ballistic-missile-program.md) _Context: Iran_
+4. [U.S. President Donald Trump says he is extending sanctions relief for Iran one last time so Europe and the U.S. can fix the nuclear deal's "terrible flaws". ](/news/2018/01/13/u-s-president-donald-trump-says-he-is-extending-sanctions-relief-for-iran-one-last-time-so-europe-and-the-u-s-can-fix-the-nuclear-deal-s.md) _Context: Iran_
+5. [Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. ](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as-the-largest-anti-government-protests-since-2009-continue.md) _Context: Iran_

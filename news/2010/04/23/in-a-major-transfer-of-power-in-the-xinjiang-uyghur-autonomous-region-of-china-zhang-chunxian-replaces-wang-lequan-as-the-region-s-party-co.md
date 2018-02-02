@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/23/in-a-major-transfer-of-power-in-the-xinjiang-uyghur-autonomous-region-of-china-zhang-chunxian-replaces-wang-lequan-as-the-region-s-party-co.html)  [JSON](/news/2010/04/23/in-a-major-transfer-of-power-in-the-xinjiang-uyghur-autonomous-region-of-china-zhang-chunxian-replaces-wang-lequan-as-the-region-s-party-co.json)  [XML](/news/2010/04/23/in-a-major-transfer-of-power-in-the-xinjiang-uyghur-autonomous-region-of-china-zhang-chunxian-replaces-wang-lequan-as-the-region-s-party-co.xml)  
+
 ### [2010-04-23](/news/2010/04/23/index.md)
 
+##### Xinjiang Uyghur Autonomous Region
 # In a major transfer of power in the Xinjiang Uyghur Autonomous Region of China, Zhang Chunxian replaces Wang Lequan as the region's Party Committee Secretary; Wang has served in the post since 1994. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gSjMTGA_93sjHUt2y3ACaI8ak7vQD9F9EH1O0)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/24/c_13265439.htm)

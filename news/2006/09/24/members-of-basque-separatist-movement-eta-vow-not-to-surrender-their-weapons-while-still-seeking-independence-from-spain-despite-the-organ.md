@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/24/members-of-basque-separatist-movement-eta-vow-not-to-surrender-their-weapons-while-still-seeking-independence-from-spain-despite-the-organ.html)  [JSON](/news/2006/09/24/members-of-basque-separatist-movement-eta-vow-not-to-surrender-their-weapons-while-still-seeking-independence-from-spain-despite-the-organ.json)  [XML](/news/2006/09/24/members-of-basque-separatist-movement-eta-vow-not-to-surrender-their-weapons-while-still-seeking-independence-from-spain-despite-the-organ.xml)  
+
 ### [2006-09-24](/news/2006/09/24/index.md)
 
+##### Basque
 #  Members of Basque separatist movement ETA vow not to surrender their weapons while still seeking independence from Spain, despite the organisation having called a ceasefire six months ago. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/5375834.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2006-09-24T141359Z_01_L24825456_RTRUKOC_0_US-SPAIN-BASQUE.xml&archived=False)

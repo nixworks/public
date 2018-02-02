@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/27/police-issued-a-warning-and-evacuation-orders-a
 
 ### [2017-08-27](/news/2017/08/27/index.md)
 
+##### Eastbourne
 # Police issued a warning and evacuation orders after a unknown chemical "haze" leaves over 200 people on Britain's south coast, between the towns of Eastbourne and Birling Gap, suffering irritation to their eyes and throats. 
 
 More than 100 people are treated in hospital after a suspected chemical leak along the Sussex coast.

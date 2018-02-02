@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/28/san-jose-california-mayor-ron-gonzales-suffers-a-mild-stroke-while-giving-the-state-of-the-city-address-the-mayor-is-expected-to-make-a.html)  [JSON](/news/2004/01/28/san-jose-california-mayor-ron-gonzales-suffers-a-mild-stroke-while-giving-the-state-of-the-city-address-the-mayor-is-expected-to-make-a.json)  [XML](/news/2004/01/28/san-jose-california-mayor-ron-gonzales-suffers-a-mild-stroke-while-giving-the-state-of-the-city-address-the-mayor-is-expected-to-make-a.xml)  
+
 ### [2004-01-28](/news/2004/01/28/index.md)
 
+##### San Jose, California
 #  San Jose, California, mayor Ron Gonzales suffers a mild stroke while giving the State of the City address. The mayor is expected to make a full recovery.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/15/government-documents-reveal-then-prime-minister-of-the-united-kingdom-margaret-thatcher-was-told-a-senior-merseyside-police-officer-blamed.html)  [JSON](/news/2012/03/15/government-documents-reveal-then-prime-minister-of-the-united-kingdom-margaret-thatcher-was-told-a-senior-merseyside-police-officer-blamed.json)  [XML](/news/2012/03/15/government-documents-reveal-then-prime-minister-of-the-united-kingdom-margaret-thatcher-was-told-a-senior-merseyside-police-officer-blamed.xml)  
+
 ### [2012-03-15](/news/2012/03/15/index.md)
 
+##### Prime Minister
 # Government documents reveal then-Prime Minister of the United Kingdom Margaret Thatcher was told a senior Merseyside police officer blamed "drunken Liverpool fans" for causing the Hillsborough disaster. Police have since been found to blame. 
 
 Former PM Margaret Thatcher was told a senior Merseyside police officer blamed &quot;drunken Liverpool fans&quot; for causing the Hillsborough disaster, confidential government documents reveal.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17382896)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59090000/jpg/_59090648_005431466-2.jpg)

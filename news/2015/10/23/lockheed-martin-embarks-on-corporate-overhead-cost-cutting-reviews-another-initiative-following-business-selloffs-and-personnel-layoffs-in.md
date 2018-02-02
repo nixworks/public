@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/23/lockheed-martin-embarks-on-corporate-overhead-cost-cutting-reviews-another-initiative-following-business-selloffs-and-personnel-layoffs-in.html)  [JSON](/news/2015/10/23/lockheed-martin-embarks-on-corporate-overhead-cost-cutting-reviews-another-initiative-following-business-selloffs-and-personnel-layoffs-in.json)  [XML](/news/2015/10/23/lockheed-martin-embarks-on-corporate-overhead-cost-cutting-reviews-another-initiative-following-business-selloffs-and-personnel-layoffs-in.xml)  
+
 ### [2015-10-23](/news/2015/10/23/index.md)
 
+##### Lockheed
 # Lockheed Martin embarks on corporate overhead cost cutting reviews, another initiative following business selloffs and personnel layoffs. In the face of U.S. budget constraints, Lockheed's actions are in step with those of other major U.S. defense contractors. 
 
 In recent times, defense contractors are resorting to reducing headcount to cut overhead costs owing to the weak defense budget environment in the U.S.
 
 
-### Source:
+### Sources:
 
 1. [Zacks](http://www.zacks.com/stock/news/194641/lockheed-martin-to-cut-overhead-costs-amid-tepid-budget)
 1. [Cover Image](https://staticx-tuner.zacks.com/images/articles/main/bigstock-stock-numbers.jpg)

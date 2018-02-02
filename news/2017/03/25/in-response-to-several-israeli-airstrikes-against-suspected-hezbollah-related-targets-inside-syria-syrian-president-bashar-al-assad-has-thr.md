@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/25/in-response-to-several-israeli-airstrikes-again
 
 ### [2017-03-25](/news/2017/03/25/index.md)
 
+##### March 2017 Israel-Syria incident
 # In response to several Israeli airstrikes against suspected Hezbollah-related targets inside Syria, Syrian president Bashar al-Assad has threatened wider war with the State of Israel, stating its intention to fire Scud missiles, and specifically target the Israeli city of Haifa. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to "annihilate" Syrian air defense systems. 
 
 

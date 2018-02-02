@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/15/oskar-grapning-known-as-the-auschwitz-book-keeper-is-sentenced-to-four-years-imprisonment-for-being-an-accessory-to-the-murder-of-300-00.html)  [JSON](/news/2015/07/15/oskar-grapning-known-as-the-auschwitz-book-keeper-is-sentenced-to-four-years-imprisonment-for-being-an-accessory-to-the-murder-of-300-00.json)  [XML](/news/2015/07/15/oskar-grapning-known-as-the-auschwitz-book-keeper-is-sentenced-to-four-years-imprisonment-for-being-an-accessory-to-the-murder-of-300-00.xml)  
+
 ### [2015-07-15](/news/2015/07/15/index.md)
 
+##### Oskar Groning
 # Oskar Groning, known as the "Auschwitz book-keeper", is sentenced to four years imprisonment for being an accessory to the murder of 300,000 Jews. 
 
 A German court convicts a 94-year-old former guard at the Nazi death camp at Auschwitz of being an accessory to the murder of at least 300,000 Jews.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-33533264)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/E946/production/_84281795_84281790.jpg)

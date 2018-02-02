@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/22/six-people-die-and-20-are-injured-in-two-bomb-blasts-in-the-pakistani-city-of-lahore.html)  [JSON](/news/2005/09/22/six-people-die-and-20-are-injured-in-two-bomb-blasts-in-the-pakistani-city-of-lahore.json)  [XML](/news/2005/09/22/six-people-die-and-20-are-injured-in-two-bomb-blasts-in-the-pakistani-city-of-lahore.xml)  
+
 ### [2005-09-22](/news/2005/09/22/index.md)
 
+##### Pakistan
 #  Six people die and 20 are injured in two bomb blasts in the Pakistani city of Lahore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4270530.stm)
 

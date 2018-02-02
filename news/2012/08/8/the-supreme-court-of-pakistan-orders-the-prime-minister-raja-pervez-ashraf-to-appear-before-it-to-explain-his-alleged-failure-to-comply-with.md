@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/08/8/the-supreme-court-of-pakistan-orders-the-prime-minister-raja-pervez-ashraf-to-appear-before-it-to-explain-his-alleged-failure-to-comply-with.html)  [JSON](/news/2012/08/8/the-supreme-court-of-pakistan-orders-the-prime-minister-raja-pervez-ashraf-to-appear-before-it-to-explain-his-alleged-failure-to-comply-with.json)  [XML](/news/2012/08/8/the-supreme-court-of-pakistan-orders-the-prime-minister-raja-pervez-ashraf-to-appear-before-it-to-explain-his-alleged-failure-to-comply-with.xml)  
+
 ### [2012-08-8](/news/2012/08/8/index.md)
 
+##### Supreme Court
 # The Supreme Court of Pakistan orders the Prime Minister Raja Pervez Ashraf to appear before it to explain his alleged failure to comply with orders reopening corruption charges against President Asif Ali Zardari. 
 
 Pakistan Prime Minister Raja Pervez Ashraf was ordered on Wednesday to appear before the Supreme Court this month over his failure to comply with orders to reopen corruption cases against President Asif Ali Zardari.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/08/08/us-pakistan-politics-court-idUSBRE87706D20120808)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120808&t=2&i=639859397&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8770FKF00)
+1. [Reuters](https://www.reuters.com/article/2012/08/08/us-pakistan-politics-court-idUSBRE87706D20120808)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120808&t=2&i=639859397&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8770FKF00)
 
 ### Related:
 

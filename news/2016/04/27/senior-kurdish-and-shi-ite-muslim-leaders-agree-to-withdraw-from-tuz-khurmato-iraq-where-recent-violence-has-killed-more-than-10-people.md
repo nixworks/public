@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree
 
 ### [2016-04-27](/news/2016/04/27/index.md)
 
+##### Iraqi Civil War
 # Senior Kurdish and Shi'ite Muslim leaders agree to withdraw from Tuz Khurmato, Iraq, where recent violence has killed more than 10 people. 
 
 
@@ -20,7 +21,7 @@ Formats: [HTML](/news/2016/04/27/senior-kurdish-and-shi-ite-muslim-leaders-agree
 
 ### Related:
 
-1. [Two suicide bombers attack a Shi'ite mosque in Kirkuk, killing at least 5 people and injuring more than 20. ](/news/2017/11/5/two-suicide-bombers-attack-a-shi-ite-mosque-in-kirkuk-killing-at-least-5-people-and-injuring-more-than-20.md) _Context: Iraqi Civil War, Shi'ite_
+1. [Two suicide bombers attack a Shi'ite mosque in Kirkuk, killing at least 5 people and injuring more than 20. ](/news/2017/11/5/two-suicide-bombers-attack-a-shi-ite-mosque-in-kirkuk-killing-at-least-5-people-and-injuring-more-than-20.md) _Context: Iraqi Civil War, Shia_
 2. [Iraqi forces advance into Kurdish-held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. ](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territory-around-the-city-of-kirkuk-clashes-have-been-reported-in-the-surrounding-cities.md) _Context: Iraq, Kurdish_
 3. [Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban "illegal". ](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.md) _Context: Iraq, Kurdish_
 4. [Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. ](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for-a-referendum-on-independence-from-iraq.md) _Context: Iraq, Kurdish_

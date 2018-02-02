@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/09/4/u-s-military-academy-officials-confirm-that-during-west-point-s-annual-pillow-fight-on-august-20-2015-some-cadets-swung-pillowcases-packe.html)  [JSON](/news/2015/09/4/u-s-military-academy-officials-confirm-that-during-west-point-s-annual-pillow-fight-on-august-20-2015-some-cadets-swung-pillowcases-packe.json)  [XML](/news/2015/09/4/u-s-military-academy-officials-confirm-that-during-west-point-s-annual-pillow-fight-on-august-20-2015-some-cadets-swung-pillowcases-packe.xml)  
+
 ### [2015-09-4](/news/2015/09/4/index.md)
 
+##### West Point
 # U.S. Military Academy officials confirm that during West Point's annual pillow fight on August 20, 2015, some cadets swung pillowcases packed with hard objects leaving 30 cadets injured, including 24 with concussions. 
 
+A ritual to let freshmen blow off steam left 30 cadets injured, including 24 with concussions and one with a broken leg.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/09/05/us/at-west-point-annual-pillow-fight-becomes-weaponized.html)
+1. [New York Times](https://www.nytimes.com/2015/09/05/us/at-west-point-annual-pillow-fight-becomes-weaponized.html)
+1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

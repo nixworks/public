@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/13/three-thai-soldiers-are-killed-by-a-land-mine-near-the-border-with-cambodia.html)  [JSON](/news/2011/12/13/three-thai-soldiers-are-killed-by-a-land-mine-near-the-border-with-cambodia.json)  [XML](/news/2011/12/13/three-thai-soldiers-are-killed-by-a-land-mine-near-the-border-with-cambodia.xml)  
+
 ### [2011-12-13](/news/2011/12/13/index.md)
 
+##### Thailand
 # Three Thai soldiers are killed by a land mine near the border with Cambodia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2011/12/13/Land-mine-kills-three-Thai-soldiers/UPI-22891323795296/)
 

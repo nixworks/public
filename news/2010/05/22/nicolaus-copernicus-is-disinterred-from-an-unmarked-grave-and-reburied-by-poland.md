@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/22/nicolaus-copernicus-is-disinterred-from-an-unmarked-grave-and-reburied-by-poland.html)  [JSON](/news/2010/05/22/nicolaus-copernicus-is-disinterred-from-an-unmarked-grave-and-reburied-by-poland.json)  [XML](/news/2010/05/22/nicolaus-copernicus-is-disinterred-from-an-unmarked-grave-and-reburied-by-poland.xml)  
+
 ### [2010-05-22](/news/2010/05/22/index.md)
 
+##### Nicolaus Copernicus
 # Nicolaus Copernicus is disinterred from an unmarked grave and reburied by Poland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jct0iiOImcZfdU4t59BC07IVRwfQD9FS5R7O0)
 2. [The Voice of Russia](http://english.ruvr.ru/2010/05/22/8300067.html)

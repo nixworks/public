@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/30/former-khmer-rouge-member-kang-kek-iew-s-trial-begins-in-cambodia.html)  [JSON](/news/2009/03/30/former-khmer-rouge-member-kang-kek-iew-s-trial-begins-in-cambodia.json)  [XML](/news/2009/03/30/former-khmer-rouge-member-kang-kek-iew-s-trial-begins-in-cambodia.xml)  
+
 ### [2009-03-30](/news/2009/03/30/index.md)
 
+##### Khmer Rouge
 #  Former Khmer Rouge member Kang Kek Iew's trial begins in Cambodia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times Online](http://www.timesonline.co.uk/tol/news/world/asia/article6000494.ece)
 

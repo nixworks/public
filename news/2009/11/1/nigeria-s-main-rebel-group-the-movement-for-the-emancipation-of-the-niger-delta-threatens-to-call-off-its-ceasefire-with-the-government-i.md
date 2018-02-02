@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/1/nigeria-s-main-rebel-group-the-movement-for-the-emancipation-of-the-niger-delta-threatens-to-call-off-its-ceasefire-with-the-government-i.html)  [JSON](/news/2009/11/1/nigeria-s-main-rebel-group-the-movement-for-the-emancipation-of-the-niger-delta-threatens-to-call-off-its-ceasefire-with-the-government-i.json)  [XML](/news/2009/11/1/nigeria-s-main-rebel-group-the-movement-for-the-emancipation-of-the-niger-delta-threatens-to-call-off-its-ceasefire-with-the-government-i.xml)  
+
 ### [2009-11-1](/news/2009/11/1/index.md)
 
+##### Nigeria
 #  Nigeria's main rebel group, the Movement for the Emancipation of the Niger Delta, threatens to call off its ceasefire with the government if foreign oil companies do not leave their land. 
 
 Armed group Mend says Niger Delta could be on the brink of renewed violence.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/11/200911195852610722.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/15/italian-ambassador-francesco-trupiano-apologizes-to-libya-on-behalf-of-italian-minister-of-constitutional-reform-roberto-calderoli-who-sug.html)  [JSON](/news/2006/02/15/italian-ambassador-francesco-trupiano-apologizes-to-libya-on-behalf-of-italian-minister-of-constitutional-reform-roberto-calderoli-who-sug.json)  [XML](/news/2006/02/15/italian-ambassador-francesco-trupiano-apologizes-to-libya-on-behalf-of-italian-minister-of-constitutional-reform-roberto-calderoli-who-sug.xml)  
+
 ### [2006-02-15](/news/2006/02/15/index.md)
 
+##### Francesco Trupiano
 #  Italian ambassador Francesco Trupiano apologizes to Libya on behalf of Italian minister of Constitutional Reform Roberto Calderoli, who suggested Italy use "force against Muslims." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Angola Press](http://www.angolapress-angop.ao/noticia-e.asp?ID=416999)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/14/british-prime-minister-david-cameron-appears-before-the-leveson-inquiry-the-hearing-is-told-of-his-relationship-with-former-news-internatio.html)  [JSON](/news/2012/06/14/british-prime-minister-david-cameron-appears-before-the-leveson-inquiry-the-hearing-is-told-of-his-relationship-with-former-news-internatio.json)  [XML](/news/2012/06/14/british-prime-minister-david-cameron-appears-before-the-leveson-inquiry-the-hearing-is-told-of-his-relationship-with-former-news-internatio.xml)  
+
 ### [2012-06-14](/news/2012/06/14/index.md)
 
+##### Prime Minister
 # British Prime Minister David Cameron appears before the Leveson Inquiry. The hearing is told of his relationship with former News International Chief Executive Rebekah Brooks, while he says his decision to appoint Andy Coulson as his Director of Communications will haunt him. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18437287)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60894000/jpg/_60894584_015042328-1.jpg)

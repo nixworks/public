@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/2/dublin-s-main-thoroughfare-o-connell-street-is-shut-following-an-explosion-from-a-gas-leak.html)  [JSON](/news/2010/12/2/dublin-s-main-thoroughfare-o-connell-street-is-shut-following-an-explosion-from-a-gas-leak.json)  [XML](/news/2010/12/2/dublin-s-main-thoroughfare-o-connell-street-is-shut-following-an-explosion-from-a-gas-leak.xml)  
+
 ### [2010-12-2](/news/2010/12/2/index.md)
 
+##### Dublin
 # Dublin's main thoroughfare O'Connell Street is shut following an explosion from a gas leak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2010/1202/breaking26.html)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

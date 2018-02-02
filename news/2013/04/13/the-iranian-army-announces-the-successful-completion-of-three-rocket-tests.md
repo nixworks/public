@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/13/the-iranian-army-announces-the-successful-completion-of-three-rocket-tests.html)  [JSON](/news/2013/04/13/the-iranian-army-announces-the-successful-completion-of-three-rocket-tests.json)  [XML](/news/2013/04/13/the-iranian-army-announces-the-successful-completion-of-three-rocket-tests.xml)  
+
 ### [2013-04-13](/news/2013/04/13/index.md)
 
+##### Iranian Army
 # The Iranian Army announces the successful completion of three rocket tests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/Iranian-Threat/News/Iranian-media-Successful-testing-of-3-new-missiles-309687)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=208185)

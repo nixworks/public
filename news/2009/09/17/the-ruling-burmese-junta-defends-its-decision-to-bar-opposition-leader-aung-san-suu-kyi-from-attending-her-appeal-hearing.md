@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/17/the-ruling-burmese-junta-defends-its-decision-to-bar-opposition-leader-aung-san-suu-kyi-from-attending-her-appeal-hearing.html)  [JSON](/news/2009/09/17/the-ruling-burmese-junta-defends-its-decision-to-bar-opposition-leader-aung-san-suu-kyi-from-attending-her-appeal-hearing.json)  [XML](/news/2009/09/17/the-ruling-burmese-junta-defends-its-decision-to-bar-opposition-leader-aung-san-suu-kyi-from-attending-her-appeal-hearing.xml)  
+
 ### [2009-09-17](/news/2009/09/17/index.md)
 
+##### State Peace and Development Council
 #  The ruling Burmese junta defends its decision to bar opposition leader Aung San Suu Kyi from attending her appeal hearing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Gulf News](http://www.gulfnews.com/world/Myanmar/10349727.html)
 2. [Philippine Star](http://www.philstar.com/Article.aspx?articleId=506072&publicationSubCategoryId=200)

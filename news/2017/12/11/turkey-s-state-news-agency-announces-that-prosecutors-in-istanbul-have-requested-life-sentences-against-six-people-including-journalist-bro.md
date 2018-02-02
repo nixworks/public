@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/11/turkey-s-state-news-agency-announces-that-prose
 
 ### [2017-12-11](/news/2017/12/11/index.md)
 
+##### following purges in Turkey
 # Turkey's state news agency announces that prosecutors in Istanbul have requested life sentences against six people, including journalist brothers Ahmet and Mehmet Altan and chronicler Nazli Ilicak. One of the accusations is reportedly "having committed a crime in the name of a terror organization without being a member of it." 
 
 Six suspects charged with attempting to overthrow constitutional order, government, and parliament

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/02/24/the-international-atomic-energy-agency-reports-that-iran-is-expanding-its-nuclear-activities.html)  [JSON](/news/2012/02/24/the-international-atomic-energy-agency-reports-that-iran-is-expanding-its-nuclear-activities.json)  [XML](/news/2012/02/24/the-international-atomic-energy-agency-reports-that-iran-is-expanding-its-nuclear-activities.xml)  
+
 ### [2012-02-24](/news/2012/02/24/index.md)
 
+##### IAEA
 # The International Atomic Energy Agency reports that Iran is expanding its nuclear activities. 
 
 A report indicated Iran had begun producing fuel inside a new facility near the holy city of Qum, but also showed the country is having trouble deploying next-generation equipment.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2012/02/25/world/middleeast/atomic-agency-says-iran-is-making-fuel-at-protected-site.html)
+1. [New York Times](https://www.nytimes.com/2012/02/25/world/middleeast/atomic-agency-says-iran-is-making-fuel-at-protected-site.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/23/guinea-and-djibouti-pledge-to-contribute-troops-towards-the-african-union-mission-supporting-the-transitional-federal-government-in-somalia.html)  [JSON](/news/2010/07/23/guinea-and-djibouti-pledge-to-contribute-troops-towards-the-african-union-mission-supporting-the-transitional-federal-government-in-somalia.json)  [XML](/news/2010/07/23/guinea-and-djibouti-pledge-to-contribute-troops-towards-the-african-union-mission-supporting-the-transitional-federal-government-in-somalia.xml)  
+
 ### [2010-07-23](/news/2010/07/23/index.md)
 
+##### Guinea
 # Guinea and Djibouti pledge to contribute troops towards the African Union Mission supporting the Transitional Federal Government in Somalia. 
 
 Guinea and Djibouti pledge troops to peacekeeping force, despite al-Shabab threats.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gTz-wx7K176PNQZ5svb9PRWaz7sQD9H4PJP82)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/07/2010723133917713629.html)

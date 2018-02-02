@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/09/16/the-ministry-of-public-security-of-the-people-s-republic-of-china-arrests-more-than-2-000-people-in-a-crackdown-on-gang-related-crime.html)  [JSON](/news/2011/09/16/the-ministry-of-public-security-of-the-people-s-republic-of-china-arrests-more-than-2-000-people-in-a-crackdown-on-gang-related-crime.json)  [XML](/news/2011/09/16/the-ministry-of-public-security-of-the-people-s-republic-of-china-arrests-more-than-2-000-people-in-a-crackdown-on-gang-related-crime.xml)  
+
 ### [2011-09-16](/news/2011/09/16/index.md)
 
+##### Ministry of Public Security of the People's Republic of China
 # The Ministry of Public Security of the People's Republic of China arrests more than 2,000 people in a crackdown on gang-related crime. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia-pacific/china-arrests-more-than-2000-in-sweeping-crackdown-on-gang-related-crime/2011/09/15/gIQAx6Z7VK_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia-pacific/china-arrests-more-than-2000-in-sweeping-crackdown-on-gang-related-crime/2011/09/15/gIQAx6Z7VK_story.html)
 
 ### Related:
 

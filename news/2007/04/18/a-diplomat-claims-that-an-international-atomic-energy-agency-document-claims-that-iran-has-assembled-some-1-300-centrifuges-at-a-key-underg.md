@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/18/a-diplomat-claims-that-an-international-atomic-energy-agency-document-claims-that-iran-has-assembled-some-1-300-centrifuges-at-a-key-underg.html)  [JSON](/news/2007/04/18/a-diplomat-claims-that-an-international-atomic-energy-agency-document-claims-that-iran-has-assembled-some-1-300-centrifuges-at-a-key-underg.json)  [XML](/news/2007/04/18/a-diplomat-claims-that-an-international-atomic-energy-agency-document-claims-that-iran-has-assembled-some-1-300-centrifuges-at-a-key-underg.xml)  
+
 ### [2007-04-18](/news/2007/04/18/index.md)
 
+##### diplomat
 #  A diplomat claims that an International Atomic Energy Agency document claims that Iran has assembled some 1,300 centrifuges at a key underground nuclear plant in Natanz and has started to feed them with the uranium gas necessary for enriching uranium. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/newsitems/200704/s1900923.htm)
 

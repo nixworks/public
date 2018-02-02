@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/21/ansar-dine-an-islamic-extremist-group-claims-re
 
 ### [2016-04-21](/news/2016/04/21/index.md)
 
+##### Northern Mali conflict
 # Ansar Dine, an Islamic extremist group claims responsibility for kidnapping three International Committee of the Red Cross staffers this weekend in Abeibara in northeastern Mali. 
 
 BAMAKO, Mali (AP) — An Islamic extremist group connected to al-Qaida&#039;s North Africa branch has claimed responsibility for kidnapping three International Committee of the Red Cross staffers, said a Tuareg separatist who…

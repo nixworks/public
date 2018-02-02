@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2007/08/9/the-president-of-pakistan-general-pervez-musharraf-pulls-out-of-a-meeting-with-the-president-of-afghanistan-hamid-karzai-and-tribal-leaders.html)  [JSON](/news/2007/08/9/the-president-of-pakistan-general-pervez-musharraf-pulls-out-of-a-meeting-with-the-president-of-afghanistan-hamid-karzai-and-tribal-leaders.json)  [XML](/news/2007/08/9/the-president-of-pakistan-general-pervez-musharraf-pulls-out-of-a-meeting-with-the-president-of-afghanistan-hamid-karzai-and-tribal-leaders.xml)  
+
 ### [2007-08-9](/news/2007/08/9/index.md)
 
+##### president
 #  The President of Pakistan General Pervez Musharraf pulls out of a meeting with the President of Afghanistan Hamid Karzai and tribal leaders in Kabul over fighting the Taliban. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6938033.stm)
 2. [CNN](http://edition.cnn.com/2007/WORLD/asiapcf/08/08/musharraf.karzai/index.html?eref=rss_topstories)
-3. [Reuters via Yahoo! News](http://news.yahoo.com/s/nm/20070809/ts_nm/pakistan_emergency_dc;_ylt=AjKZtdO95dhGZMSoOXPCIxKs0NUE)
+3. [Reuters via Yahoo! News](https://news.yahoo.com/s/nm/20070809/ts_nm/pakistan_emergency_dc;_ylt=AjKZtdO95dhGZMSoOXPCIxKs0NUE)
 
 ### Related:
 

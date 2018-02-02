@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/03/11/a-day-of-mourning-is-held-in-spain-to-mark-the-first-anniversary-of-the-11-march-2004-madrid-attacks-at-noon-king-juan-carlos-i-and-queen.html)  [JSON](/news/2005/03/11/a-day-of-mourning-is-held-in-spain-to-mark-the-first-anniversary-of-the-11-march-2004-madrid-attacks-at-noon-king-juan-carlos-i-and-queen.json)  [XML](/news/2005/03/11/a-day-of-mourning-is-held-in-spain-to-mark-the-first-anniversary-of-the-11-march-2004-madrid-attacks-at-noon-king-juan-carlos-i-and-queen.xml)  
+
 ### [2005-03-11](/news/2005/03/11/index.md)
 
+##### mourning
 #  A day of mourning is held in Spain to mark the first anniversary of the 11 March 2004 Madrid attacks. At noon, King Juan Carlos I and Queen Sofa inaugurate the Forest of the Departed ("Bosque de los Ausentes"), a memorial park in Madrid where an olive or cypress tree has been planted for each victim of the tragedy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [4ni](http://www.4ni.co.uk/nationalnews.asp?id=38489)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/4338727.stm)
 3. [CNN](http://www.cnn.com/2005/WORLD/europe/03/10/madrid.blame.ap/)
-4. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1110495015601&call_pageid=970599119419)
+4. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1110495015601&call_pageid=970599119419)
 
 ### Related:
 

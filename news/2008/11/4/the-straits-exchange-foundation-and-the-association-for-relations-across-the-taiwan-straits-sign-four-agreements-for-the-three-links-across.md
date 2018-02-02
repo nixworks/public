@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/4/the-straits-exchange-foundation-and-the-association-for-relations-across-the-taiwan-straits-sign-four-agreements-for-the-three-links-across.html)  [JSON](/news/2008/11/4/the-straits-exchange-foundation-and-the-association-for-relations-across-the-taiwan-straits-sign-four-agreements-for-the-three-links-across.json)  [XML](/news/2008/11/4/the-straits-exchange-foundation-and-the-association-for-relations-across-the-taiwan-straits-sign-four-agreements-for-the-three-links-across.xml)  
+
 ### [2008-11-4](/news/2008/11/4/index.md)
 
+##### Straits Exchange Foundation
 #  The Straits Exchange Foundation and the Association for Relations Across the Taiwan Straits sign four agreements for the Three Links across the Taiwan Strait, a major step in normalizing Cross-Strait relations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/asiapcf/11/04/taiwan.china.ap/index.html)
 

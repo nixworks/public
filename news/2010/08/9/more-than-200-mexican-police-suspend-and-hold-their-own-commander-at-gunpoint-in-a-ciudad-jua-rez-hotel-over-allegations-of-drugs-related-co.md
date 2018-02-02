@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/9/more-than-200-mexican-police-suspend-and-hold-their-own-commander-at-gunpoint-in-a-ciudad-jua-rez-hotel-over-allegations-of-drugs-related-co.html)  [JSON](/news/2010/08/9/more-than-200-mexican-police-suspend-and-hold-their-own-commander-at-gunpoint-in-a-ciudad-jua-rez-hotel-over-allegations-of-drugs-related-co.json)  [XML](/news/2010/08/9/more-than-200-mexican-police-suspend-and-hold-their-own-commander-at-gunpoint-in-a-ciudad-jua-rez-hotel-over-allegations-of-drugs-related-co.xml)  
+
 ### [2010-08-9](/news/2010/08/9/index.md)
 
+##### Mexico
 # More than 200 Mexican police suspend and hold their own commander at gunpoint in a Ciudad Juarez hotel over allegations of drugs-related corruption. 
 
 More than 200 police officers in Ciudad Juarez in Mexico detain their commander, accusing him of corruption.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10910068)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/29/the-parliament-of-moldova-passes-a-no-confidence-vote-against-pro-eu-incumbent-prime-minister-valeriu-strelee-s-cabinet-amidst-growing-poli.html)  [JSON](/news/2015/10/29/the-parliament-of-moldova-passes-a-no-confidence-vote-against-pro-eu-incumbent-prime-minister-valeriu-strelee-s-cabinet-amidst-growing-poli.json)  [XML](/news/2015/10/29/the-parliament-of-moldova-passes-a-no-confidence-vote-against-pro-eu-incumbent-prime-minister-valeriu-strelee-s-cabinet-amidst-growing-poli.xml)  
+
 ### [2015-10-29](/news/2015/10/29/index.md)
 
+##### Parliament
 # The Parliament of Moldova passes a no-confidence vote against pro-EU incumbent prime-minister Valeriu Strelet's cabinet amidst growing political turmoil in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Seenews](https://wire.seenews.com/news/update-1-moldovas-pro-eu-coalition-govt-falls-in-no-confidence-vote-499443)
 

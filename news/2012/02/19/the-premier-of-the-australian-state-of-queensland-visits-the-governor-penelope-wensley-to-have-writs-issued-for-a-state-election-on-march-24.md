@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/19/the-premier-of-the-australian-state-of-queensland-visits-the-governor-penelope-wensley-to-have-writs-issued-for-a-state-election-on-march-24.html)  [JSON](/news/2012/02/19/the-premier-of-the-australian-state-of-queensland-visits-the-governor-penelope-wensley-to-have-writs-issued-for-a-state-election-on-march-24.json)  [XML](/news/2012/02/19/the-premier-of-the-australian-state-of-queensland-visits-the-governor-penelope-wensley-to-have-writs-issued-for-a-state-election-on-march-24.xml)  
+
 ### [2012-02-19](/news/2012/02/19/index.md)
 
+##### Premier
 # The Premier of the Australian state of Queensland visits the Governor Penelope Wensley to have writs issued for a state election on March 24. 
 
 Premier Anna Bligh has urged Queenslanders to hold their nerve and stick with Labor, firing the official election campaign starter gun as another poll showed challenger Campbell Newman’s message of change was strongly resonating.
 
 
-### Source:
+### Sources:
 
 1. [Brisbane Times](http://www.brisbanetimes.com.au/queensland/state-election-2012/bligh-to-call-queensland-state-election-20120219-1tgom.html)
 1. [Cover Image](http://www.brisbanetimes.com.au/content/dam/images/1/t/g/v/y/image.related.articleLeadwide.620x349.1tgom.png/1329630913557.jpg)

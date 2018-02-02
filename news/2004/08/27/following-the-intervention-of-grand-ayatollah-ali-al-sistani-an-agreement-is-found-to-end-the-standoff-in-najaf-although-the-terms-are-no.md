@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/08/27/following-the-intervention-of-grand-ayatollah-ali-al-sistani-an-agreement-is-found-to-end-the-standoff-in-najaf-although-the-terms-are-no.html)  [JSON](/news/2004/08/27/following-the-intervention-of-grand-ayatollah-ali-al-sistani-an-agreement-is-found-to-end-the-standoff-in-najaf-although-the-terms-are-no.json)  [XML](/news/2004/08/27/following-the-intervention-of-grand-ayatollah-ali-al-sistani-an-agreement-is-found-to-end-the-standoff-in-najaf-although-the-terms-are-no.xml)  
+
 ### [2004-08-27](/news/2004/08/27/index.md)
 
+##### Ayatollah
 #  Following the intervention of Grand Ayatollah Ali al-Sistani, an agreement is found to end the standoff in Najaf. Although the terms are not clear, the deal requires both the al-Sadr militia and U.S. troops to leave the city, to be replaced by the police interim government. Responsibility for the Imam Ali Mosque goes to Sistani. [http:--news.bbc.co.uk-1-hi-world-middle_east-3603730.stm (BBC)] This resolution occurs two days before the one-year anniversary of the assassination of Sayed Mohammed Baqir al-Hakim, a prominent Shi'ite cleric from Najaf.
 
 

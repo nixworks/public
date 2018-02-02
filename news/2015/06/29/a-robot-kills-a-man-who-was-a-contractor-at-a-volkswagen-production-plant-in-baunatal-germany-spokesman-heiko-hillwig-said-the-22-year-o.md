@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/29/a-robot-kills-a-man-who-was-a-contractor-at-a-volkswagen-production-plant-in-baunatal-germany-spokesman-heiko-hillwig-said-the-22-year-o.html)  [JSON](/news/2015/06/29/a-robot-kills-a-man-who-was-a-contractor-at-a-volkswagen-production-plant-in-baunatal-germany-spokesman-heiko-hillwig-said-the-22-year-o.json)  [XML](/news/2015/06/29/a-robot-kills-a-man-who-was-a-contractor-at-a-volkswagen-production-plant-in-baunatal-germany-spokesman-heiko-hillwig-said-the-22-year-o.xml)  
+
 ### [2015-06-29](/news/2015/06/29/index.md)
 
+##### Volkswagen
 # A robot kills a man, who was a contractor, at a Volkswagen production plant in Baunatal, Germany. Spokesman Heiko Hillwig said the 22-year-old victim was part of a team that was setting up the robot when it grabbed and crushed him against a metal plate. The death was preliminarily attributed to human error, rather than any issue with the robot itself; prosecutors are contemplating whether to charge anybody. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://www.msn.com/en-us/news/world/robot-kills-man-at-volkswagen-plant-in-germany/ar-AAcrq3c)
 

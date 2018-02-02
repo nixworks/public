@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/30/the-european-space-agency-s-rosetta-space-probe
 
 ### [2016-09-30](/news/2016/09/30/index.md)
 
+##### European Space Agency
 # The European Space Agency's "Rosetta" space probe ends its 12-year mission studying comet 67P-Churyumov-Gerasimenko in a "collision maneuver" into the comet's surface. 
 
 The Rosetta spacecraft has crashed into a comet, bringing to an end one of the most important space missions in recent history. Final preparations were made to send the craft into the comet that it has spent months circling, destroying the probe and ending operations on the £1bn mission.

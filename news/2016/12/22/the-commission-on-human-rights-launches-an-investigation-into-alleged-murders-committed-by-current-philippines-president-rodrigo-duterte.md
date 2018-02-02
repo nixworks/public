@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/22/the-commission-on-human-rights-launches-an-inve
 
 ### [2016-12-22](/news/2016/12/22/index.md)
 
+##### drug crackdown
 # The Commission on Human Rights launches an investigation into alleged murders committed by current Philippines president Rodrigo Duterte. 
 
 A Philippines human rights body will probe claims by President Duterte that he killed drug suspects.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/13/six-more-new-orleans-police-officers-are-charged-with-shooting-dead-two-civilians-injuries-caused-to-four-other-civilians-and-conspiracy.html)  [JSON](/news/2010/07/13/six-more-new-orleans-police-officers-are-charged-with-shooting-dead-two-civilians-injuries-caused-to-four-other-civilians-and-conspiracy.json)  [XML](/news/2010/07/13/six-more-new-orleans-police-officers-are-charged-with-shooting-dead-two-civilians-injuries-caused-to-four-other-civilians-and-conspiracy.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### New Orleans Police Department
 # Six more New Orleans police officers are charged with: shooting dead two civilians, injuries caused to four other civilians, and conspiracy to cover up the incidents on a bridge in the aftermath of the deadly Hurricane Katrina in 2005. 
 
 Six New Orleans police officers are charged in connection with an inquiry into the shooting of civilians after Hurricane Katrina.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/us_and_canada/10623960.stm)
 2. [CBC News](http://www.cbc.ca/world/story/2010/07/13/katrina-charges-shooting.html?ref=rss)

@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2013/03/26/thousands-of-people-sign-an-online-petition-requesting-the-daily-mail-to-sack-its-controversial-columnist-richard-littlejohn-after-the-pos.html)  [JSON](/news/2013/03/26/thousands-of-people-sign-an-online-petition-requesting-the-daily-mail-to-sack-its-controversial-columnist-richard-littlejohn-after-the-pos.json)  [XML](/news/2013/03/26/thousands-of-people-sign-an-online-petition-requesting-the-daily-mail-to-sack-its-controversial-columnist-richard-littlejohn-after-the-pos.xml)  
+
 ### [2013-03-26](/news/2013/03/26/index.md)
 
+##### Daily Mail
 # Thousands of people sign an online petition requesting the "Daily Mail" to sack its controversial columnist Richard Littlejohn after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. 
 
 An online petition calls for the sacking of Daily Mail columnist Richard Littlejohn following the death of a woman in Lancashire.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-manchester-21946728)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/66626000/jpg/_66626274_66626273.jpg)
+
+### Changes:
+
+1. [Thousands of people sign an online petition requesting the ''Daily Mail'' to sack its controversial columnist Richard Littlejohn after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/26/thousands-of-people-sign-an-online-petition-requesting-the-daily-mail-to-sack-its-controversial-columnist-richard-littlejohn-after-the-p.md) _2017-08-25 03:38:02 (First version)_
+1. [Thousands of people sign an online petition requesting the "Daily Mail" to sack its controversial columnist Richard Littlejohn after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/26/thousands-of-people-sign-an-online-petition-requesting-the-daily-mail-to-sack-its-controversial-columnist-richard-littlejohn-after-the-pos.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ An online petition calls for the sacking of Daily Mail columnist Richard Littlej
 3. [Lord Leveson announces the findings of the Leveson Inquiry into the British media. ](/news/2012/11/29/lord-leveson-announces-the-findings-of-the-leveson-inquiry-into-the-british-media.md) _Context: British media_
 4. [Channel 4 news anchor Jon Snow tells the Leveson Inquiry that Associated Newspapers, which publishes the "Daily Mail" and "Mail on Sunday", is worse than News International's titles, that it has a "pernicious" and sometimes "mendacious" agenda to undermine people in public life, and predicts that "very possibly they will go after me for saying so". ](/news/2012/06/25/channel-4-news-anchor-jon-snow-tells-the-leveson-inquiry-that-associated-newspapers-which-publishes-the-daily-mail-and-mail-on-sunday.md) _Context: Daily Mail_
 5. [After a five-day trial in the High Court, 27-year-old assistant tutor Luke Cooper, who is completing a PhD in international relations at the University of Sussex, is awarded GBP35,000 over a front page "Evening Standard" article and GBP25,000 over a follow-up piece in the "Daily Mail". These articles threatened his future academic prospects during the November 2010 march against government cuts. ](/news/2012/06/23/after-a-five-day-trial-in-the-high-court-27-year-old-assistant-tutor-luke-cooper-who-is-completing-a-phd-in-international-relations-at-the.md) _Context: Daily Mail_
-
-### Changes:
-
-1. [Thousands of people sign an online petition requesting the ''Daily Mail'' to sack its controversial columnist Richard Littlejohn after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/26/thousands-of-people-sign-an-online-petition-requesting-the-daily-mail-to-sack-its-controversial-columnist-richard-littlejohn-after-the-p.md) _2017-08-25 03:38:02 (First version)_
-1. [Thousands of people sign an online petition requesting the "Daily Mail" to sack its controversial columnist Richard Littlejohn after the possible hounding to death of a primary school teacher Lucy Meadows by the British media. ](/news/2013/03/26/thousands-of-people-sign-an-online-petition-requesting-the-daily-mail-to-sack-its-controversial-columnist-richard-littlejohn-after-the-pos.md) _(Current version)_

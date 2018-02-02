@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/25/following-a-similar-move-in-france-the-united-k
 
 ### [2017-07-25](/news/2017/07/25/index.md)
 
+##### Alternative fuel vehicles
 # Following a similar move in France, the United Kingdom is to ban the sale of petrol and diesel cars by 2040 in order to reduce air pollution. A new tax will also be levied on diesel car drivers in 2020. 
 
 The sale of petrol and diesel cars will end in 2040 - with a new tax on diesel drivers from 2020.

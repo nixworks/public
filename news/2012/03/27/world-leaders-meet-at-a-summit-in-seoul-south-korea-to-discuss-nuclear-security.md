@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/27/world-leaders-meet-at-a-summit-in-seoul-south-korea-to-discuss-nuclear-security.html)  [JSON](/news/2012/03/27/world-leaders-meet-at-a-summit-in-seoul-south-korea-to-discuss-nuclear-security.json)  [XML](/news/2012/03/27/world-leaders-meet-at-a-summit-in-seoul-south-korea-to-discuss-nuclear-security.xml)  
+
 ### [2012-03-27](/news/2012/03/27/index.md)
 
+##### Seoul
 # World leaders meet at a summit in Seoul, South Korea, to discuss nuclear security. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/worldNews/idAFBRE82P01020120327?sp=true)
 

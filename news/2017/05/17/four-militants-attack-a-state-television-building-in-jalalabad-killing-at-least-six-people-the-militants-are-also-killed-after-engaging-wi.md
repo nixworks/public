@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/17/four-militants-attack-a-state-television-buildi
 
 ### [2017-05-17](/news/2017/05/17/index.md)
 
+##### War in Afghanistan
 # Four militants attack a state television building in Jalalabad, killing at least six people. The militants are also killed after engaging with Afghan police. ISIL claimed responsibility for the attack. 
 
 At least six people and four IS gunmen die in a battle at the Afghan state TV building in Jalalabad.

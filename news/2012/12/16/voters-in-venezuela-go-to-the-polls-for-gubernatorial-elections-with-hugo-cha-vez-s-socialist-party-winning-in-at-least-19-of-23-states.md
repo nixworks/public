@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/16/voters-in-venezuela-go-to-the-polls-for-gubernatorial-elections-with-hugo-cha-vez-s-socialist-party-winning-in-at-least-19-of-23-states.html)  [JSON](/news/2012/12/16/voters-in-venezuela-go-to-the-polls-for-gubernatorial-elections-with-hugo-cha-vez-s-socialist-party-winning-in-at-least-19-of-23-states.json)  [XML](/news/2012/12/16/voters-in-venezuela-go-to-the-polls-for-gubernatorial-elections-with-hugo-cha-vez-s-socialist-party-winning-in-at-least-19-of-23-states.xml)  
+
 ### [2012-12-16](/news/2012/12/16/index.md)
 
+##### Venezuela
 # Voters in Venezuela go to the polls for gubernatorial elections with Hugo Chavez's Socialist Party winning in at least 19 of 23 states. 
 
 President Hugo Chavez&#039;s allies have won a sweeping victory in Venezuela&#039;s gubernatorial elections, capturing a large majority of states and showing that the socialist party still has huge sway despite the president being seriously ill with cancer.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/southamerica/venezuela/9749433/Venezuela-allies-of-Hugo-Chavez-sweep-to-victory-in-state-elections.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02362/chavez-victory_2362865k.jpg)

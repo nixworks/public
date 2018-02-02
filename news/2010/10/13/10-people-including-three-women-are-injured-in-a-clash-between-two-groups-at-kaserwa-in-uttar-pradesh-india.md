@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/13/10-people-including-three-women-are-injured-in-a-clash-between-two-groups-at-kaserwa-in-uttar-pradesh-india.html)  [JSON](/news/2010/10/13/10-people-including-three-women-are-injured-in-a-clash-between-two-groups-at-kaserwa-in-uttar-pradesh-india.json)  [XML](/news/2010/10/13/10-people-including-three-women-are-injured-in-a-clash-between-two-groups-at-kaserwa-in-uttar-pradesh-india.xml)  
+
 ### [2010-10-13](/news/2010/10/13/index.md)
 
+##### Kaserwa
 # 10 people, including three women, are injured in a clash between two groups at Kaserwa in Uttar Pradesh, India. 
 
 10 injured in poll-related clash in Uttar Pradesh - A verbal duel broke out yesterday when a youth tried to remove a banner of a gram pradhan candidate after the first phase of panchayat polls at Kaserwa village.
 
 
-### Source:
+### Sources:
 
 1. [DNA](http://www.dnaindia.com/india/report_10-injured-in-poll-related-clash-in-uttar-pradesh_1451896)
 1. [Cover Image](http://static.dnaindia.com/images/2015/dna-logo-shared.jpg?v=1212)

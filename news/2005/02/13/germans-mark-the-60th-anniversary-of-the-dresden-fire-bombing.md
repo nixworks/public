@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/13/germans-mark-the-60th-anniversary-of-the-dresden-fire-bombing.html)  [JSON](/news/2005/02/13/germans-mark-the-60th-anniversary-of-the-dresden-fire-bombing.json)  [XML](/news/2005/02/13/germans-mark-the-60th-anniversary-of-the-dresden-fire-bombing.xml)  
+
 ### [2005-02-13](/news/2005/02/13/index.md)
 
+##### German
 #  Germans mark the 60th anniversary of the Dresden fire bombing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP-Yahoo!](http://story.news.yahoo.com/news?tmpl=story&cid=1504&e=1&u=/afp/20050213/ts_afp/germanywwiihistory_050213115935)
 2. [CBC](http://www.cbc.ca/world/story/2005/02/13/dresden050213.html)
@@ -13,8 +17,8 @@
 
 ### Related:
 
-1. [ The Dresden Frauenkirche (Church of Our Lady), a Protestant Church in Dresden, Germany is re-consecrated. The church was destroyed during the bombing of Dresden in World War II. The remains of the church had been left untouched by the government of East Germany as an anti-war monument. Some 60,000 people celebrated the reopening. Both Queen Elizabeth II of the United Kingdom and German President Horst Khler said that the rebuilding was a 'symbol of reconciliation'. ](/news/2005/10/30/the-dresden-frauenkirche-church-of-our-lady-a-protestant-church-in-dresden-germany-is-re-consecrated-the-church-was-destroyed-during-t.md) _Context: Germany, bombing of Dresden in World War II_
-2. [The European X-ray free-electron laser is inaugurated in Hamburg, Germany. ](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.md) _Context: Germany_
-3. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md) _Context: Germany_
-4. [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md) _Context: Germany_
-5. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Germany_
+1. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: German_
+2. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: German_
+3. [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, killing four people. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-killing-four-people.md) _Context: German_
+4. [German nurse and convicted serial killer Niels Hogel is charged with 97 further counts of murder. ](/news/2018/01/22/german-nurse-and-convicted-serial-killer-niels-hapgel-is-charged-with-97-further-counts-of-murder.md) _Context: German_
+5. [Nine prisoners have escaped from a Berlin, Germany prison over the last five days, with two escaping today. ](/news/2018/01/2/nine-prisoners-have-escaped-from-a-berlin-germany-prison-over-the-last-five-days-with-two-escaping-today.md) _Context: German_

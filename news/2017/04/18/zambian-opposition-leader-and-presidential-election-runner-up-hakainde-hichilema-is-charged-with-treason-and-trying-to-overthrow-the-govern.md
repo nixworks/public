@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/18/zambian-opposition-leader-and-presidential-elec
 
 ### [2017-04-18](/news/2017/04/18/index.md)
 
+##### Zambia
 # Zambian opposition leader and presidential election runner-up Hakainde Hichilema is charged with treason and "trying to overthrow the government". 
 
 

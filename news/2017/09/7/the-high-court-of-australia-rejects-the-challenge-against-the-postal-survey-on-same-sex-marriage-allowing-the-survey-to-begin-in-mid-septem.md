@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/7/the-high-court-of-australia-rejects-the-challeng
 
 ### [2017-09-7](/news/2017/09/7/index.md)
 
+##### Australian Marriage Law Postal Survey
 # The High Court of Australia rejects the challenge against the postal survey on same-sex marriage, allowing the survey to begin in mid-September as planned. 
 
 The High Court has ruled in favour of the Turnbull government&#039;s same-sex marriage postal survey.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/6/iraq-war-two-suicide-bombers-in-a-crowd-of-muslim-pilgrims-in-al-hillah-kill-at-least-115-people-and-wound-150.html)  [JSON](/news/2007/03/6/iraq-war-two-suicide-bombers-in-a-crowd-of-muslim-pilgrims-in-al-hillah-kill-at-least-115-people-and-wound-150.json)  [XML](/news/2007/03/6/iraq-war-two-suicide-bombers-in-a-crowd-of-muslim-pilgrims-in-al-hillah-kill-at-least-115-people-and-wound-150.xml)  
+
 ### [2007-03-6](/news/2007/03/6/index.md)
 
+##### Iraq War
 #  Iraq War: Two suicide bombers in a crowd of Muslim pilgrims in Al Hillah kill at least 115 people and wound 150. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6423633.stm)
 

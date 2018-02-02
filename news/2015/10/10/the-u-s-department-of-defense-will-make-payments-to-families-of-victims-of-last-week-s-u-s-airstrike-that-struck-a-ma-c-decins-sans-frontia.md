@@ -1,16 +1,25 @@
+
+Formats: [HTML](/news/2015/10/10/the-u-s-department-of-defense-will-make-payments-to-families-of-victims-of-last-week-s-u-s-airstrike-that-struck-a-ma-c-decins-sans-frontia.html)  [JSON](/news/2015/10/10/the-u-s-department-of-defense-will-make-payments-to-families-of-victims-of-last-week-s-u-s-airstrike-that-struck-a-ma-c-decins-sans-frontia.json)  [XML](/news/2015/10/10/the-u-s-department-of-defense-will-make-payments-to-families-of-victims-of-last-week-s-u-s-airstrike-that-struck-a-ma-c-decins-sans-frontia.xml)  
+
 ### [2015-10-10](/news/2015/10/10/index.md)
 
+##### War in Afghanistan (2015-present)
 # The U.S. Department of Defense will make payments to families of victims of last week's U.S. airstrike that struck a Medecins Sans Frontieres (Doctors Without Borders) hospital in the Afghan city of Kunduz. At least 22 people were killed including 12 staff members and 10 patients, including three children. MSF says 33 people are still missing and presumed to have died in the fire. 
 
 The U.S. Department of Defense will seek to make &quot;condolence payments&quot; to families of victims of a U.S. air strike that mistakenly hit a Medecins Sans Frontieres hospital in Kunduz, Afghanistan, killing 22 people, the Pentagon said on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News](http://www.abc.net.au/news/2015-10-09/33-still-missing-after-kunduz-air-strike/6841734)
 2. [NBC News](http://www.nbcnews.com/news/military/defense-dept-make-payments-after-strike-doctors-without-borders-hospital-n442296)
-3. [Reuters](http://www.reuters.com/article/2015/10/10/us-afghanistan-attack-msf-payments-idUSKCN0S40Y720151010)
-3. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20151010&t=2&i=1086065618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB990FK)
+3. [Reuters](https://www.reuters.com/article/2015/10/10/us-afghanistan-attack-msf-payments-idUSKCN0S40Y720151010)
+3. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20151010&t=2&i=1086065618&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB990FK)
+
+### Changes:
+
+1. [War in Afghanistan (2015-present): The U.S. Department of Defense will make payments to families of victims of last week's U.S. airstrike that struck a Medecins Sans Frontieres (Doctors Without Borders) hospital in the Afghan city of Kunduz. At least 22 people were killed including 12 staff members and 10 patients, including three children. MSF says 33 people are still missing and presumed to have died in the fire. ](/news/2015/10/10/war-in-afghanistan-2015-present-the-u-s-department-of-defense-will-make-payments-to-families-of-victims-of-last-week-s-u-s-airstrike.md) _2017-08-27 03:43:17 (First version)_
+1. [The U.S. Department of Defense will make payments to families of victims of last week's U.S. airstrike that struck a Medecins Sans Frontieres (Doctors Without Borders) hospital in the Afghan city of Kunduz. At least 22 people were killed including 12 staff members and 10 patients, including three children. MSF says 33 people are still missing and presumed to have died in the fire. ](/news/2015/10/10/the-u-s-department-of-defense-will-make-payments-to-families-of-victims-of-last-week-s-u-s-airstrike-that-struck-a-ma-c-decins-sans-frontia.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +28,3 @@ The U.S. Department of Defense will seek to make &quot;condolence payments&quot;
 3. [Medecins Sans Frontieres (Doctors without Borders) calls for activating the International Humanitarian Fact-Finding Commission - for the first time since its 1991 creation under the Geneva Conventions - to investigate the deadly U.S. bombing of MSF's hospital in Kunduz, Afghanistan. MSF says it does not trust internal military inquiries into the bombing that killed at least 22 people, which it considers a war crime. ](/news/2015/10/7/ma-c-decins-sans-frontia-res-doctors-without-borders-calls-for-activating-the-international-humanitarian-fact-finding-commission-a-for-the.md) _Context: Kunduz, Medecins Sans Frontieres, War in Afghanistan (2015-present)_
 4. [The death toll from Saturday's airstrikes on the Doctors Without Borders' hospital in Kunduz, Afghanistan rises to at least 10 patients and 12 hospital staff in Doctors Without Borders, also known as Medecins Sans Frontieres (MSF). Doctors without Borders issues a statement expressing its "clear assumption that a war crime has been committed," and announces that all staff have left the hospital and the city. ](/news/2015/10/4/the-death-toll-from-saturday-s-airstrikes-on-the-doctors-without-borders-hospital-in-kunduz-afghanistan-rises-to-at-least-10-patients-and.md) _Context: Kunduz, Medecins Sans Frontieres, War in Afghanistan (2015-present)_
 5. [A prolonged series of American military airstrikes hit a Medecins Sans Frontieres (Doctors Without Borders) hospital in Kunduz, killing twelve staff members and at least seven patients, including three children, with 37 seriously injured and many more people still missing. ](/news/2015/10/3/a-prolonged-series-of-american-military-airstrikes-hit-a-ma-c-decins-sans-frontia-res-doctors-without-borders-hospital-in-kunduz-killing-tw.md) _Context: Kunduz, Medecins Sans Frontieres, War in Afghanistan (2015-present)_
-
-### Changes:
-
-1. [War in Afghanistan (2015-present): The U.S. Department of Defense will make payments to families of victims of last week's U.S. airstrike that struck a Medecins Sans Frontieres (Doctors Without Borders) hospital in the Afghan city of Kunduz. At least 22 people were killed including 12 staff members and 10 patients, including three children. MSF says 33 people are still missing and presumed to have died in the fire. ](/news/2015/10/10/war-in-afghanistan-2015-present-the-u-s-department-of-defense-will-make-payments-to-families-of-victims-of-last-week-s-u-s-airstrike.md) _2017-08-27 03:43:17 (First version)_
-1. [The U.S. Department of Defense will make payments to families of victims of last week's U.S. airstrike that struck a Medecins Sans Frontieres (Doctors Without Borders) hospital in the Afghan city of Kunduz. At least 22 people were killed including 12 staff members and 10 patients, including three children. MSF says 33 people are still missing and presumed to have died in the fire. ](/news/2015/10/10/the-u-s-department-of-defense-will-make-payments-to-families-of-victims-of-last-week-s-u-s-airstrike-that-struck-a-ma-c-decins-sans-frontia.md) _(Current version)_

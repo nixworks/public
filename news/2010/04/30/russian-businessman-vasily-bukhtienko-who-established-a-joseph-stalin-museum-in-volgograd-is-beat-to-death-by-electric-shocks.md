@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/30/russian-businessman-vasily-bukhtienko-who-established-a-joseph-stalin-museum-in-volgograd-is-beat-to-death-by-electric-shocks.html)  [JSON](/news/2010/04/30/russian-businessman-vasily-bukhtienko-who-established-a-joseph-stalin-museum-in-volgograd-is-beat-to-death-by-electric-shocks.json)  [XML](/news/2010/04/30/russian-businessman-vasily-bukhtienko-who-established-a-joseph-stalin-museum-in-volgograd-is-beat-to-death-by-electric-shocks.xml)  
+
 ### [2010-04-30](/news/2010/04/30/index.md)
 
+##### Russia
 # Russian businessman Vasily Bukhtienko, who established a Joseph Stalin museum in Volgograd, is beat to death by electric shocks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8655093.stm)
 

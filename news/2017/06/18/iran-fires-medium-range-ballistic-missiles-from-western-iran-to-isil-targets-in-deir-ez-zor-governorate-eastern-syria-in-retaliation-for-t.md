@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/18/iran-fires-medium-range-ballistic-missiles-from
 
 ### [2017-06-18](/news/2017/06/18/index.md)
 
+##### Syrian Civil War
 # Iran fires medium range ballistic missiles from western Iran to ISIL targets in Deir ez-Zor Governorate, eastern Syria, in retaliation for the June 7 Tehran attacks. 
 
 American forces have shot down a Syrian government fighter jet accused of attacking Kurdish-led troops, prompting a furious response from Damascus as tensions increase. US Central Command said the SU-22 dropped bombs near the Syrian Democratic Forces (SDF), who are being supported by the US-led coalition as they advance on the terrorist stronghold of Raqqa.

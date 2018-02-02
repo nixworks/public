@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/2/the-number-of-confirmed-deaths-in-the-ferry-collision-in-hong-kong-rises-to-38.html)  [JSON](/news/2012/10/2/the-number-of-confirmed-deaths-in-the-ferry-collision-in-hong-kong-rises-to-38.json)  [XML](/news/2012/10/2/the-number-of-confirmed-deaths-in-the-ferry-collision-in-hong-kong-rises-to-38.xml)  
+
 ### [2012-10-2](/news/2012/10/2/index.md)
 
+##### ferry collision
 # The number of confirmed deaths in the ferry collision in Hong Kong rises to 38. 
 
 Seven crew members are arrested on suspicion of endangering lives at sea after two boats collide in the waters off Hong Kong, leaving 38 people dead.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19797588)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63237000/jpg/_63237757_63237756.jpg)

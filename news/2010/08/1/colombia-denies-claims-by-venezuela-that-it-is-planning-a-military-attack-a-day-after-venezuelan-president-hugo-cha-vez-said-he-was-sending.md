@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/1/colombia-denies-claims-by-venezuela-that-it-is-planning-a-military-attack-a-day-after-venezuelan-president-hugo-cha-vez-said-he-was-sending.html)  [JSON](/news/2010/08/1/colombia-denies-claims-by-venezuela-that-it-is-planning-a-military-attack-a-day-after-venezuelan-president-hugo-cha-vez-said-he-was-sending.json)  [XML](/news/2010/08/1/colombia-denies-claims-by-venezuela-that-it-is-planning-a-military-attack-a-day-after-venezuelan-president-hugo-cha-vez-said-he-was-sending.xml)  
+
 ### [2010-08-1](/news/2010/08/1/index.md)
 
+##### Colombia
 # Colombia denies claims by Venezuela that it is planning a military attack, a day after Venezuelan president Hugo Chavez said he was sending troops to their mutual border. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/americas/08/01/venezuela.colombia.troops/#fbid=Dxrzb6Q-4_O)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/01/c_13424953.htm)

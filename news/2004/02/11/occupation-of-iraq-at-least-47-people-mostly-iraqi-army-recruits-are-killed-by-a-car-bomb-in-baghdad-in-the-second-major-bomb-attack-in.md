@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/11/occupation-of-iraq-at-least-47-people-mostly-iraqi-army-recruits-are-killed-by-a-car-bomb-in-baghdad-in-the-second-major-bomb-attack-in.html)  [JSON](/news/2004/02/11/occupation-of-iraq-at-least-47-people-mostly-iraqi-army-recruits-are-killed-by-a-car-bomb-in-baghdad-in-the-second-major-bomb-attack-in.json)  [XML](/news/2004/02/11/occupation-of-iraq-at-least-47-people-mostly-iraqi-army-recruits-are-killed-by-a-car-bomb-in-baghdad-in-the-second-major-bomb-attack-in.xml)  
+
 ### [2004-02-11](/news/2004/02/11/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: At least 47 people, mostly Iraqi army recruits, are killed by a car bomb in Baghdad in the second major bomb attack in two days.
 
 

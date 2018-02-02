@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/19/two-people-are-arrested-and-five-people-suffer-minor-injuries-at-the-university-of-florida-during-protests-of-richard-b-spencer-s-speech-at.html)  [JSON](/news/2017/10/19/two-people-are-arrested-and-five-people-suffer-minor-injuries-at-the-university-of-florida-during-protests-of-richard-b-spencer-s-speech-at.json)  [XML](/news/2017/10/19/two-people-are-arrested-and-five-people-suffer-minor-injuries-at-the-university-of-florida-during-protests-of-richard-b-spencer-s-speech-at.xml)  
+
 ### [2017-10-19](/news/2017/10/19/index.md)
 
+##### Crime in Florida
 # Two people are arrested and five people suffer minor injuries at the University of Florida during protests of Richard B. Spencer's speech at an event there. 
 
 The event comes after his planned Charlottesville rally led to violence.

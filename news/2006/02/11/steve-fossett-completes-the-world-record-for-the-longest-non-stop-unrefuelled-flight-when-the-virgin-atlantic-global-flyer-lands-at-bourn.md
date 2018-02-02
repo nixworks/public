@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/11/steve-fossett-completes-the-world-record-for-the-longest-non-stop-unrefuelled-flight-when-the-virgin-atlantic-global-flyer-lands-at-bourn.html)  [JSON](/news/2006/02/11/steve-fossett-completes-the-world-record-for-the-longest-non-stop-unrefuelled-flight-when-the-virgin-atlantic-global-flyer-lands-at-bourn.json)  [XML](/news/2006/02/11/steve-fossett-completes-the-world-record-for-the-longest-non-stop-unrefuelled-flight-when-the-virgin-atlantic-global-flyer-lands-at-bourn.xml)  
+
 ### [2006-02-11](/news/2006/02/11/index.md)
 
+##### Steve Fossett
 #  Steve Fossett completes the world record for the longest non-stop, unrefuelled, flight when the Virgin Atlantic Global Flyer lands at Bournemouth airport in southern England after a flight lasting 76 hours and 45 minutes which covered a distance of 26,389.3 miles (42,469.46&nbsp;km). The aircraft had to declare an emergency landing after suffering total electrical failure, and had only 200&nbsp;lb (90&nbsp;kg) of fuel remaining. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/4704762.stm)
 

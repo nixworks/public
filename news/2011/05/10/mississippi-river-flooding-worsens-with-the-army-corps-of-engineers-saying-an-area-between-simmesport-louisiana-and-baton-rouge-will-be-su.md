@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2011/05/10/mississippi-river-flooding-worsens-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-louisiana-and-baton-rouge-will-be-su.html)  [JSON](/news/2011/05/10/mississippi-river-flooding-worsens-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-louisiana-and-baton-rouge-will-be-su.json)  [XML](/news/2011/05/10/mississippi-river-flooding-worsens-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-louisiana-and-baton-rouge-will-be-su.xml)  
+
 ### [2011-05-10](/news/2011/05/10/index.md)
 
+##### Mississippi River
 # Mississippi River flooding worsens, with the Army Corps of Engineers saying an area between Simmesport, Louisiana and Baton Rouge will be submerged 20-30 feet, and 13% of US oil refinery output disrupted. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business Week](http://www.businessweek.com/news/2011-05-10/mississippi-flooding-threatens-crops-refineries-and-homes.html)
 2. [NASA Earth Observatory](http://earthobservatory.nasa.gov/IOTD/view.php?id=50549)
+
+### Changes:
+
+1. [2011 Mississippi River floods:Mississippi River flooding worsens, with the Army Corps of Engineers saying an area between Simmesport, Louisiana and Baton Rouge will be submerged 20-30 feet, and 13% of US oil refinery output disrupted. ](/news/2011/05/10/2011-mississippi-river-floods-pmississippi-river-flooding-worsens-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-louis.md) _2017-08-25 03:33:03 (First version)_
+2. [2011 Mississippi River floods:: Mississippi River flooding worsens, with the Army Corps of Engineers saying an area between Simmesport, Louisiana and Baton Rouge will be submerged 20-30 feet, and 13% of US oil refinery output disrupted. ](/news/2011/05/10/2011-mississippi-river-floods-mississippi-river-flooding-worsens-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-loui.md) _2017-08-27 03:33:13 (Update)_
+2. [Mississippi River flooding worsens, with the Army Corps of Engineers saying an area between Simmesport, Louisiana and Baton Rouge will be submerged 20-30 feet, and 13% of US oil refinery output disrupted. ](/news/2011/05/10/mississippi-river-flooding-worsens-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-louisiana-and-baton-rouge-will-be-su.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [The United States Army Corps of Engineers explodes a large part of a Mississippi River levee to protect the Illinois town of Cairo from floodwaters. ](/news/2011/05/2/the-united-states-army-corps-of-engineers-explodes-a-large-part-of-a-mississippi-river-levee-to-protect-the-illinois-town-of-cairo-from-floo.md) _Context: Mississippi River, United States Army Corps of Engineers_
 4. [The Morganza Spillway on the Mississippi River has been opened for the first time in 37 years, deliberately flooding 3,000 square miles of rural Louisiana to save most of Baton Rouge and New Orleans. ](/news/2011/05/15/the-morganza-spillway-on-the-mississippi-river-has-been-opened-for-the-first-time-in-37-years-deliberately-flooding-3-000-square-miles-of-r.md) _Context: Baton Rouge, Louisiana, Mississippi River_
 5. [The Morganza Spillway on the Mississippi River is opened for the second time in its history, deliberately flooding 3,000 sqmi of rural Louisiana and placing a nuclear power plant at risk to save most of Baton Rouge and New Orleans. ](/news/2011/05/14/the-morganza-spillway-on-the-mississippi-river-is-opened-for-the-second-time-in-its-history-deliberately-flooding-3-000-sqmi-of-rural-louis.md) _Context: Baton Rouge, Louisiana, Mississippi River_
-
-### Changes:
-
-1. [2011 Mississippi River floods:Mississippi River flooding worsens, with the Army Corps of Engineers saying an area between Simmesport, Louisiana and Baton Rouge will be submerged 20-30 feet, and 13% of US oil refinery output disrupted. ](/news/2011/05/10/2011-mississippi-river-floods-pmississippi-river-flooding-worsens-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-louis.md) _2017-08-25 03:33:03 (First version)_
-2. [2011 Mississippi River floods:: Mississippi River flooding worsens, with the Army Corps of Engineers saying an area between Simmesport, Louisiana and Baton Rouge will be submerged 20-30 feet, and 13% of US oil refinery output disrupted. ](/news/2011/05/10/2011-mississippi-river-floods-mississippi-river-flooding-worsens-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-loui.md) _2017-08-27 03:33:13 (Update)_
-2. [Mississippi River flooding worsens, with the Army Corps of Engineers saying an area between Simmesport, Louisiana and Baton Rouge will be submerged 20-30 feet, and 13% of US oil refinery output disrupted. ](/news/2011/05/10/mississippi-river-flooding-worsens-with-the-army-corps-of-engineers-saying-an-area-between-simmesport-louisiana-and-baton-rouge-will-be-su.md) _(Current version)_

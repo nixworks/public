@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/17/u-s-car-maker-general-motors-pays-900-million-fine-to-settle-a-criminal-lawsuit-over-problems-with-the-ignition-system-in-its-small-cars.html)  [JSON](/news/2015/09/17/u-s-car-maker-general-motors-pays-900-million-fine-to-settle-a-criminal-lawsuit-over-problems-with-the-ignition-system-in-its-small-cars.json)  [XML](/news/2015/09/17/u-s-car-maker-general-motors-pays-900-million-fine-to-settle-a-criminal-lawsuit-over-problems-with-the-ignition-system-in-its-small-cars.xml)  
+
 ### [2015-09-17](/news/2015/09/17/index.md)
 
+##### General Motors
 # U.S. car maker General Motors pays $900 million fine to settle a criminal lawsuit over problems with the ignition system in its small cars. 
 
 General Motors admitted it failed to disclose to the public a deadly problem with small-car ignition switches as part of a $900 million deal reached with federal authorities to avoid criminal charges, authorities announced Thursday.
 
 
-### Source:
+### Sources:
 
 1. [AP via Yahoo! Autos](https://www.yahoo.com/autos/general-motors-pays-900-million-to-settle-129283097657.html)
 1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/3oOnLT1yAWO1B.7.F83PQg--/aD0zMDM7dz01NDA7c209MTthcHBpZD15dGFjaHlvbg--/https://s.yimg.com/cd/resizer/2.0/FIT_TO_WIDTH-w540/9e7ff3721f9cad24beb680958302de8923b93e73.jpg)

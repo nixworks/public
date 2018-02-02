@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/17/abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-party-is-sentenced-to-death-for-war-crimes-in-the-bangladesh-liberation-war.html)  [JSON](/news/2013/09/17/abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-party-is-sentenced-to-death-for-war-crimes-in-the-bangladesh-liberation-war.json)  [XML](/news/2013/09/17/abdul-kader-mullah-a-leader-of-the-bangladesh-jamaat-e-islami-party-is-sentenced-to-death-for-war-crimes-in-the-bangladesh-liberation-war.xml)  
+
 ### [2013-09-17](/news/2013/09/17/index.md)
 
+##### Bangladesh Jamaat-e-Islami
 # Abdul Kader Mullah, a leader of the Bangladesh Jamaat-e-Islami party, is sentenced to death for war crimes in the Bangladesh Liberation War in 1971. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24108640)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69887000/jpg/_69887627_69887626.jpg)

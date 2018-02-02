@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/3/lawmakers-in-burma-elect-two-out-of-three-vice-presidents-one-of-whom-will-become-the-president.html)  [JSON](/news/2011/02/3/lawmakers-in-burma-elect-two-out-of-three-vice-presidents-one-of-whom-will-become-the-president.json)  [XML](/news/2011/02/3/lawmakers-in-burma-elect-two-out-of-three-vice-presidents-one-of-whom-will-become-the-president.xml)  
+
 ### [2011-02-3](/news/2011/02/3/index.md)
 
+##### Burma
 # Lawmakers in Burma elect two out of three Vice Presidents, one of whom will become the President. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12352764)
 2. [One India](http://news.oneindia.in/2011/02/03/juntaspm-chosen-myanmars-new-vicepresident-aid0126.html)

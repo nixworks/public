@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/7/voters-in-azerbaijan-go-to-the-polls-for-a-parliamentary-election-with-the-opposition-raising-concerns-over-candidates-being-prevented-from.html)  [JSON](/news/2010/11/7/voters-in-azerbaijan-go-to-the-polls-for-a-parliamentary-election-with-the-opposition-raising-concerns-over-candidates-being-prevented-from.json)  [XML](/news/2010/11/7/voters-in-azerbaijan-go-to-the-polls-for-a-parliamentary-election-with-the-opposition-raising-concerns-over-candidates-being-prevented-from.xml)  
+
 ### [2010-11-7](/news/2010/11/7/index.md)
 
+##### Azerbaijan
 # Voters in Azerbaijan go to the polls for a parliamentary election with the opposition raising concerns over candidates being prevented from registering. 
 
 Azerbaijan elects a new parliament, with the ruling party set to retain power easily and the opposition alleging foul play.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11705141)
 2. [Trend News Agency](http://en.trend.az/news/elections2010/1778347.html)

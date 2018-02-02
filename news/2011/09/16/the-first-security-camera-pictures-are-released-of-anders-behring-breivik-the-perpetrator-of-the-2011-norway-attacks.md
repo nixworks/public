@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/16/the-first-security-camera-pictures-are-released-of-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks.html)  [JSON](/news/2011/09/16/the-first-security-camera-pictures-are-released-of-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks.json)  [XML](/news/2011/09/16/the-first-security-camera-pictures-are-released-of-anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks.xml)  
+
 ### [2011-09-16](/news/2011/09/16/index.md)
 
+##### security camera
 # The first security camera pictures are released of Anders Behring Breivik, the perpetrator of the 2011 Norway attacks. 
 
 Security cameras captured images of the Norwegian far right extremist accused of killing 77 people minutes before he detonated a car bomb outside the prime minister&#39;s office two months ago, police said Thursday.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/44540320/ns/world_news-europe/#.TnK7cL-aOKw)
 1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110915-breivik-vmed-1p.standard.jpg)

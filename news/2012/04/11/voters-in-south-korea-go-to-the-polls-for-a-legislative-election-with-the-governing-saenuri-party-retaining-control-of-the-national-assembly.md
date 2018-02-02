@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/11/voters-in-south-korea-go-to-the-polls-for-a-legislative-election-with-the-governing-saenuri-party-retaining-control-of-the-national-assembly.html)  [JSON](/news/2012/04/11/voters-in-south-korea-go-to-the-polls-for-a-legislative-election-with-the-governing-saenuri-party-retaining-control-of-the-national-assembly.json)  [XML](/news/2012/04/11/voters-in-south-korea-go-to-the-polls-for-a-legislative-election-with-the-governing-saenuri-party-retaining-control-of-the-national-assembly.xml)  
+
 ### [2012-04-11](/news/2012/04/11/index.md)
 
+##### South Korea
 # Voters in South Korea go to the polls for a legislative election with the governing Saenuri Party retaining control of the National Assembly of South Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/04/10/world/asia/south-korea-politics/index.html)
 2. [Voice of America](http://www.voanews.com/english/news/asia/Governing-Party-Scores-Upset-Parliamentary-Election-Victory-147028985.html)

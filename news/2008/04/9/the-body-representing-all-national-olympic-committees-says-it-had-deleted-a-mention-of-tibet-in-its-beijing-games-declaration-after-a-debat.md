@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/9/the-body-representing-all-national-olympic-committees-says-it-had-deleted-a-mention-of-tibet-in-its-beijing-games-declaration-after-a-debat.html)  [JSON](/news/2008/04/9/the-body-representing-all-national-olympic-committees-says-it-had-deleted-a-mention-of-tibet-in-its-beijing-games-declaration-after-a-debat.json)  [XML](/news/2008/04/9/the-body-representing-all-national-olympic-committees-says-it-had-deleted-a-mention-of-tibet-in-its-beijing-games-declaration-after-a-debat.xml)  
+
 ### [2008-04-9](/news/2008/04/9/index.md)
 
+##### Tibet
 #  The body representing all National Olympic Committees says it had deleted a mention of Tibet in its Beijing Games declaration after a debate among its members. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The International Herald Tribune](http://www.iht.com/articles/ap/2008/04/09/sports/AS-SPT-OLY-ANOC-Tibet.php)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/31/43-afghan-migrants-on-their-way-to-australia-are-detained-by-indonesian-authorities.html)  [JSON](/news/2011/03/31/43-afghan-migrants-on-their-way-to-australia-are-detained-by-indonesian-authorities.json)  [XML](/news/2011/03/31/43-afghan-migrants-on-their-way-to-australia-are-detained-by-indonesian-authorities.xml)  
+
 ### [2011-03-31](/news/2011/03/31/index.md)
 
+##### Afghanistan
 # 43 Afghan migrants on their way to Australia are detained by Indonesian authorities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jUS_nr2PmVFd70pn_fsjWzKS7esw?docId=CNG.23a428af6162593a585797da96657677.1d1)
 

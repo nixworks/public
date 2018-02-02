@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/1/at-least-42-people-are-killed-and-at-least-175-are-injured-in-three-suicide-bomb-explosions-at-the-data-darbar-sufi-shrine-in-lahore.html)  [JSON](/news/2010/07/1/at-least-42-people-are-killed-and-at-least-175-are-injured-in-three-suicide-bomb-explosions-at-the-data-darbar-sufi-shrine-in-lahore.json)  [XML](/news/2010/07/1/at-least-42-people-are-killed-and-at-least-175-are-injured-in-three-suicide-bomb-explosions-at-the-data-darbar-sufi-shrine-in-lahore.xml)  
+
 ### [2010-07-1](/news/2010/07/1/index.md)
 
+##### yesterday's bombings of Data Darbar in Lahore
 # At least 42 people are killed and at least 175 are injured in three suicide bomb explosions at the Data Darbar Sufi shrine in Lahore. 
 
 At least 42 dead and 180 injured in pair of suicide attacks in Pakistani city.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107118495127825.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10483453.stm)

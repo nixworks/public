@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2013/02/17/voters-in-ecuador-go-to-the-polls-for-a-general-election-with-incumbent-president-rafael-correa-claiming-a-landslide-victory.html)  [JSON](/news/2013/02/17/voters-in-ecuador-go-to-the-polls-for-a-general-election-with-incumbent-president-rafael-correa-claiming-a-landslide-victory.json)  [XML](/news/2013/02/17/voters-in-ecuador-go-to-the-polls-for-a-general-election-with-incumbent-president-rafael-correa-claiming-a-landslide-victory.xml)  
+
 ### [2013-02-17](/news/2013/02/17/index.md)
 
+##### Ecuador
 # Voters in Ecuador go to the polls for a general election with incumbent President Rafael Correa claiming a landslide victory. 
 
 The vote showed the broad popularity of President Rafael Correa’s government’s social programs and support for the poor.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-21492470)
 2. [IOL News](http://www.iol.co.za/news/world/charismatic-correa-cruises-to-victory-1.1472581)
-3. [Reuters](http://www.reuters.com/article/2013/02/17/us-ecuador-election-idUSBRE91G01K20130217)
-4. [The New York Times](http://www.nytimes.com/2013/02/18/world/americas/rafael-correa-wins-re-election-in-ecuador.html)
+3. [Reuters](https://www.reuters.com/article/2013/02/17/us-ecuador-election-idUSBRE91G01K20130217)
+4. [The New York Times](https://www.nytimes.com/2013/02/18/world/americas/rafael-correa-wins-re-election-in-ecuador.html)
 4. [Cover Image](https://static01.nyt.com/images/2013/02/18/world/ECUADOR/ECUADOR-videoLarge.jpg)
 
 ### Related:

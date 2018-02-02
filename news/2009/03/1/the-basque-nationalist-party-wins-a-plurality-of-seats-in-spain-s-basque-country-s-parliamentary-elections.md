@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/1/the-basque-nationalist-party-wins-a-plurality-of-seats-in-spain-s-basque-country-s-parliamentary-elections.html)  [JSON](/news/2009/03/1/the-basque-nationalist-party-wins-a-plurality-of-seats-in-spain-s-basque-country-s-parliamentary-elections.json)  [XML](/news/2009/03/1/the-basque-nationalist-party-wins-a-plurality-of-seats-in-spain-s-basque-country-s-parliamentary-elections.xml)  
+
 ### [2009-03-1](/news/2009/03/1/index.md)
 
+##### Basque Nationalist Party
 #  The Basque Nationalist Party wins a plurality of seats in Spain's Basque Country's parliamentary elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/03/01/spain.basque.vote/)
 

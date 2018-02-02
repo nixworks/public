@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/18/iraqi-prime-minister-nouri-al-maliki-visits-iran-where-he-is-told-to-get-rid-of-america.html)  [JSON](/news/2010/10/18/iraqi-prime-minister-nouri-al-maliki-visits-iran-where-he-is-told-to-get-rid-of-america.json)  [XML](/news/2010/10/18/iraqi-prime-minister-nouri-al-maliki-visits-iran-where-he-is-told-to-get-rid-of-america.xml)  
+
 ### [2010-10-18](/news/2010/10/18/index.md)
 
+##### Iraq Prime Minister
 # Iraqi Prime Minister Nouri al-Maliki visits Iran, where he is told to "get rid of America". 
 
 Iran has demonstrated its hold over the future of Iraqi politics, telling Nouri al-Maliki, the prime minister, to &#034;get rid of America&#034; as he arrived to ask Tehran&#039;s blessing for a second term in office.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/WORLD/meast/10/18/iraq.maliki.iran.visit/)
 2. [Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/iraq/8071242/Iran-tells-Iraqi-prime-minister-get-rid-of-America.html)

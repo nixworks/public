@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/21/in-morocco-authorities-detain-five-supporters-of-western-saharan-independence-for-their-alleged-part-in-violent-demonstrations-last-may.html)  [JSON](/news/2005/07/21/in-morocco-authorities-detain-five-supporters-of-western-saharan-independence-for-their-alleged-part-in-violent-demonstrations-last-may.json)  [XML](/news/2005/07/21/in-morocco-authorities-detain-five-supporters-of-western-saharan-independence-for-their-alleged-part-in-violent-demonstrations-last-may.xml)  
+
 ### [2005-07-21](/news/2005/07/21/index.md)
 
+##### Morocco
 #  In Morocco, authorities detain five supporters of Western Saharan independence for their alleged part in violent demonstrations last May. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/639528D5-4964-4AE3-8504-CA53E861BCD8.htm)
 

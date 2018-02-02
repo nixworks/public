@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/26/in-egypt-referendum-favours-constitutional-changes-for-presidential-elections-with-83-in-favour.html)  [JSON](/news/2005/05/26/in-egypt-referendum-favours-constitutional-changes-for-presidential-elections-with-83-in-favour.json)  [XML](/news/2005/05/26/in-egypt-referendum-favours-constitutional-changes-for-presidential-elections-with-83-in-favour.xml)  
+
 ### [2005-05-26](/news/2005/05/26/index.md)
 
+##### Egypt
 #  In Egypt, referendum favours constitutional changes for presidential elections with 83% in favour 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://www.aljazeera.com/me.asp?service_ID=8600)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4583791.stm)
@@ -16,4 +20,4 @@
 2. [ In Bolivia, president Carlos Mesa calls for a referendum for regional autonomy on October 16 to quell the demonstrations against him. The elections for the constitutional assembly on the same day would reform the constitution in favor of the native majority ](/news/2005/06/3/in-bolivia-president-carlos-mesa-calls-for-a-referendum-for-regional-autonomy-on-october-16-to-quell-the-demonstrations-against-him-the-e.md) _Context: constitution, referendum_
 3. [ Elections in Egypt: Egyptians vote in a referendum on a constitutional amendment allowing multi-candidate presidential elections while opposition groups call for a boycott, saying that requirements for candidates are too hard and still favour the ruling National Democratic Party. ](/news/2005/05/25/elections-in-egypt-egyptians-vote-in-a-referendum-on-a-constitutional-amendment-allowing-multi-candidate-presidential-elections-while-oppo.md) _Context: Egypt, referendum_
 4. [ In Burundi, a referendum approves the new constitution, which is intended to end 12 years of civil war ](/news/2005/03/1/in-burundi-a-referendum-approves-the-new-constitution-which-is-intended-to-end-12-years-of-civil-war.md) _Context: constitution, referendum_
-5. [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md) _Context: Egypt_
+5. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Egypt_

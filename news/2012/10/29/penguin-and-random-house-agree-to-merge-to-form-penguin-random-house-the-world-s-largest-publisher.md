@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/29/penguin-and-random-house-agree-to-merge-to-form-penguin-random-house-the-world-s-largest-publisher.html)  [JSON](/news/2012/10/29/penguin-and-random-house-agree-to-merge-to-form-penguin-random-house-the-world-s-largest-publisher.json)  [XML](/news/2012/10/29/penguin-and-random-house-agree-to-merge-to-form-penguin-random-house-the-world-s-largest-publisher.xml)  
+
 ### [2012-10-29](/news/2012/10/29/index.md)
 
+##### Penguin
 # Penguin and Random House agree to merge to form Penguin Random House, the world's largest publisher. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-20126364)
 2. [The Guardian](http://www.guardian.co.uk/business/2012/oct/29/penguin-random-house-merger-bertelsmann?INTCMP=ILCNETTXT3487)

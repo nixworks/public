@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/3/the-people-s-republic-of-china-s-fifth-largest-brokerage-is-seized-by-china-securities-regulatory-commission-and-local-authorities-for-ill.html)  [JSON](/news/2004/01/3/the-people-s-republic-of-china-s-fifth-largest-brokerage-is-seized-by-china-securities-regulatory-commission-and-local-authorities-for-ill.json)  [XML](/news/2004/01/3/the-people-s-republic-of-china-s-fifth-largest-brokerage-is-seized-by-china-securities-regulatory-commission-and-local-authorities-for-ill.xml)  
+
 ### [2004-01-3](/news/2004/01/3/index.md)
 
+##### China's Securities Regulatory Commission
 #  The People's Republic of China's fifth-largest brokerage is seized by China Securities Regulatory Commission and local authorities for "illegal and irregular management operations and disorderly management." The unusual move to clamp down on China Southern Securities is a high-profile attempt to stem corruption.
 
 

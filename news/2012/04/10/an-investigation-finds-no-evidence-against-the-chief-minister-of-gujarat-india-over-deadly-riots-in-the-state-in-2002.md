@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/10/an-investigation-finds-no-evidence-against-the-chief-minister-of-gujarat-india-over-deadly-riots-in-the-state-in-2002.html)  [JSON](/news/2012/04/10/an-investigation-finds-no-evidence-against-the-chief-minister-of-gujarat-india-over-deadly-riots-in-the-state-in-2002.json)  [XML](/news/2012/04/10/an-investigation-finds-no-evidence-against-the-chief-minister-of-gujarat-india-over-deadly-riots-in-the-state-in-2002.xml)  
+
 ### [2012-04-10](/news/2012/04/10/index.md)
 
+##### Gujarat
 # An investigation finds no evidence against the chief minister of Gujarat, India over deadly riots in the state in 2002. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/288307/indian-probe-clears-gujurat-leader-over-2002-riots)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/5/paraguay-s-president-fernando-lugo-replaces-top-military-commanders-amid-rumours-of-a-coup-d-a-c-tat.html)  [JSON](/news/2009/11/5/paraguay-s-president-fernando-lugo-replaces-top-military-commanders-amid-rumours-of-a-coup-d-a-c-tat.json)  [XML](/news/2009/11/5/paraguay-s-president-fernando-lugo-replaces-top-military-commanders-amid-rumours-of-a-coup-d-a-c-tat.xml)  
+
 ### [2009-11-5](/news/2009/11/5/index.md)
 
+##### Paraguay
 #  Paraguay's President Fernando Lugo replaces top military commanders amid rumours of a coup d'etat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/americas/11/04/paraguay.president.fernando.lugo/)
 

@@ -1,19 +1,15 @@
+
+Formats: [HTML](2005/08/31/index.html)  [JSON](2005/08/31/index.json)  [XML](2005/08/31/index.xml)  
+
 ## [2005-08-31](/news/2005/08/31/index.md)
 
-### [ The Federal government declares a public health emergency for the Gulf Coast of the United States and launches one of the largest search and rescue missions in history. [http:--www.cbsnews.com-sections-i_video-main500251.shtml?channel=eveningnews&clip=-media-2005-08-30-video806624&sec=500371&vidId=500371&title=Evening$@$News$@$Online&hitboxMLC=evening_news_online (CBS Video)] [http:--apnews.myway.com-article-20050831-D8CAV2SO0.html (AP via MyWay (Link dead as of 20:53, 14 January 2007 (UTC)))] New Orleans mayor Ray Nagin states that "hundreds...most likely, thousands" may be dead in his city. The death toll in Biloxi stands at 110. [http:--apnews.myway.com-article-20050831-D8CAVI303.html (AP via MyWay (Link dead as of 20:53, 14 January 2007 (UTC)))] At least 25,000 evacuees, particularly those currently in shelters in Greater New Orleans including the Louisiana Superdome, will be moved to the Reliant Astrodome in Houston, Texas. [http:--news.yahoo.com-s-ap-20050831-ap_on_re_us-katrina_astrodome (Yahoo! News (Link dead as of 20:53, 14 January 2007 (UTC)))] The United States will release oil from its Strategic Petroleum Reserve to help refineries whose oil supplies have been badly hit by Hurricane Katrina. [http:--news.yahoo.com-news?tmpl=story&u=-afp-20050831-pl_afp-usweatheroil_050831130701 (Yahoo! News (Link dead as of 20:53, 14 January 2007 (UTC)))] Some refineries along the gulf coast are offline and so fuel production is likely to be limited nonetheless](/news/2005/08/31/the-federal-government-declares-a-public-health-emergency-for-the-gulf-coast-of-the-united-states-and-launches-one-of-the-largest-search-an.md)
-_Context: Biloxi, Mississippi, Greater New Orleans, Gulf Coast of the United States, Houston, Texas, Hurricane Katrina, Louisiana Superdome, New Orleans, Louisiana, Ray Nagin, Reliant Astrodome, Strategic Petroleum Reserve, Texas, United States_
-
-### [ Close to 1,200 people were crushed to death or died in a stampede on the Al-Aaimmah bridge over the river Tigris in Baghdad on Wednesday when thousands of Shia Muslims began marching to a shrine to the Imam Musa al-Kazim. The stampede appears to have been caused by rumours of a series of suicide attacks. Earlier seven people in attendance died when insurgents fired mortars into the crowd. [http:--english.aljazeera.net-NR-exeres-E2ED7EA5-15F6-4A89-A532-C927FD299679.htm (Al Jazeera)] [http:--news.bbc.co.uk-2-hi-middle_east-4199618.stm (BBC)] (Wikinews)](/news/2005/08/31/close-to-1-200-people-were-crushed-to-death-or-died-in-a-stampede-on-the-al-aaimmah-bridge-over-the-river-tigris-in-baghdad-on-wednesday-wh.md)
-_Context: (Wikinews), Al-Aaimmah bridge, Baghdad, Mortar, Musa al-Kazim, Shi'a, Tigris River, militant, shrine, suicide bombing_
-
+##### Israeli Arab
 ### [ The relatives of the four Israeli Arabs killed on a bus in Galilee have been denied the usual terrorism compensation payments because their killer was a Jew, and thus not an "enemy of Israel" as defined by Israeli law. ](/news/2005/08/31/the-relatives-of-the-four-israeli-arabs-killed-on-a-bus-in-galilee-have-been-denied-the-usual-terrorism-compensation-payments-because-their.md)
 _Context: Galilee, Israeli Arab, Jew_
 
+##### Palestinian Authority
 ### [ All Palestinian Authority assets held in the United States have been frozen. ](/news/2005/08/31/all-palestinian-authority-assets-held-in-the-united-states-have-been-frozen.md)
-_Context: Palestinian National Authority, United States, asset_
-
-### [ Philippine electoral crisis: A Philippine congressional committee has stopped all impeachment efforts against President Gloria Macapagal-Arroyo. [http:--www.usatoday.com-news-world-2005-08-31-philippines-arroyo_x.htm (USA Today)]date=April 2015](/news/2005/08/31/philippine-electoral-crisis-a-philippine-congressional-committee-has-stopped-all-impeachment-efforts-against-president-gloria-macapagal-ar.md)
-_Context: Gloria Macapagal Arroyo, Philippine electoral crisis, impeach_
+_Context: Palestinian Authority, asset, U.S._
 
 ## [Previous Day...](/news/2005/08/30/index.md)
 

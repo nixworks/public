@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/18/seven-people-are-killed-in-a-bombing-targeting-a-nato-convoy-in-kabul-days-before-the-presidential-elections-in-afghanistan.html)  [JSON](/news/2009/08/18/seven-people-are-killed-in-a-bombing-targeting-a-nato-convoy-in-kabul-days-before-the-presidential-elections-in-afghanistan.json)  [XML](/news/2009/08/18/seven-people-are-killed-in-a-bombing-targeting-a-nato-convoy-in-kabul-days-before-the-presidential-elections-in-afghanistan.xml)  
+
 ### [2009-08-18](/news/2009/08/18/index.md)
 
+##### bombing
 #  Seven people are killed in a bombing targeting a NATO convoy in Kabul, days before the presidential elections in Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8207301.stm)
 

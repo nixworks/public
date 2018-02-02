@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/7/subtropical-storm-gabrielle-forms-southeast-of-the-carolina-coast-in-the-atlantic-ocean.html)  [JSON](/news/2007/09/7/subtropical-storm-gabrielle-forms-southeast-of-the-carolina-coast-in-the-atlantic-ocean.json)  [XML](/news/2007/09/7/subtropical-storm-gabrielle-forms-southeast-of-the-carolina-coast-in-the-atlantic-ocean.xml)  
+
 ### [2007-09-7](/news/2007/09/7/index.md)
 
+##### Subtropical Storm Gabrielle
 #  Subtropical Storm Gabrielle forms southeast of the Carolina coast in the Atlantic Ocean. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NOAA](http://www.nhc.noaa.gov/text/refresh/MIATCPAT2+shtml/080243.shtml)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/16/suspected-islamist-militants-kill-90-people-in-a-nigerian-village-raid-near-the-border-with-cameroon.html)  [JSON](/news/2014/02/16/suspected-islamist-militants-kill-90-people-in-a-nigerian-village-raid-near-the-border-with-cameroon.json)  [XML](/news/2014/02/16/suspected-islamist-militants-kill-90-people-in-a-nigerian-village-raid-near-the-border-with-cameroon.xml)  
+
 ### [2014-02-16](/news/2014/02/16/index.md)
 
+##### Nigeria
 # Suspected Islamist militants kill 90 people in a Nigerian village raid near the border with Cameroon. 
 
 Suspected Islamistfighters killed at least 90 people in an attack on a village inremote northeast Nigeria on Sunday, witnesses said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2014/02/16/nigeria-violence-idUKL6N0LL0VU20140216)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

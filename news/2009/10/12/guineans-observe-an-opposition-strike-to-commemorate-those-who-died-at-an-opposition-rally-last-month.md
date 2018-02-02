@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/12/guineans-observe-an-opposition-strike-to-commemorate-those-who-died-at-an-opposition-rally-last-month.html)  [JSON](/news/2009/10/12/guineans-observe-an-opposition-strike-to-commemorate-those-who-died-at-an-opposition-rally-last-month.json)  [XML](/news/2009/10/12/guineans-observe-an-opposition-strike-to-commemorate-those-who-died-at-an-opposition-rally-last-month.xml)  
+
 ### [2009-10-12](/news/2009/10/12/index.md)
 
+##### Guinea
 #  Guineans observe an opposition strike to commemorate those who died at an opposition rally last month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/africa/2009/9/42/Guinea-strike-call-over-killings,6bfc85fe-0331-491b-a22d-69000ea667f8.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8300714.stm)

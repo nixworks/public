@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/6/cote-d-ivoire-prime-minister-charles-konan-banny-dissolves-his-cabinet-after-toxic-waste-was-dumped-in-the-city-of-abidjan-making-over-1-5.html)  [JSON](/news/2006/09/6/cote-d-ivoire-prime-minister-charles-konan-banny-dissolves-his-cabinet-after-toxic-waste-was-dumped-in-the-city-of-abidjan-making-over-1-5.json)  [XML](/news/2006/09/6/cote-d-ivoire-prime-minister-charles-konan-banny-dissolves-his-cabinet-after-toxic-waste-was-dumped-in-the-city-of-abidjan-making-over-1-5.xml)  
+
 ### [2006-09-6](/news/2006/09/6/index.md)
 
+##### Cte d'Ivoire
 #  Cte d'Ivoire Prime Minister Charles Konan Banny dissolves his Cabinet after toxic waste was dumped in the city of Abidjan, making over 1,500 people ill and killing three. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/5321272.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/24/the-deccan-chargers-defeat-the-royal-challengers-bangalore-to-win-the-indian-premier-league.html)  [JSON](/news/2009/05/24/the-deccan-chargers-defeat-the-royal-challengers-bangalore-to-win-the-indian-premier-league.json)  [XML](/news/2009/05/24/the-deccan-chargers-defeat-the-royal-challengers-bangalore-to-win-the-indian-premier-league.xml)  
+
 ### [2009-05-24](/news/2009/05/24/index.md)
 
+##### Deccan Chargers
 #  The Deccan Chargers defeat the Royal Challengers Bangalore to win the Indian Premier League. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.hindu.com/thehindu/holnus/000200905250105.htm)
 

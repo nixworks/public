@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/04/12/anheuser-busch-the-largest-u-s-beer-brewer-and-the-no-1-buyer-of-rice-in-the-united-states-said-it-would-not-purchase-rice-grown-in-miss.html)  [JSON](/news/2005/04/12/anheuser-busch-the-largest-u-s-beer-brewer-and-the-no-1-buyer-of-rice-in-the-united-states-said-it-would-not-purchase-rice-grown-in-miss.json)  [XML](/news/2005/04/12/anheuser-busch-the-largest-u-s-beer-brewer-and-the-no-1-buyer-of-rice-in-the-united-states-said-it-would-not-purchase-rice-grown-in-miss.xml)  
+
 ### [2005-04-12](/news/2005/04/12/index.md)
 
+##### Anheuser-Busch
 #  Anheuser-Busch, the largest U.S. beer brewer and the No. 1 buyer of rice in the United States said it would not purchase rice grown in Missouri if it were genetically modified. This decision was prompted by a Ventria Bioscience plan to grow 200 acres (800,000 m) of genetically engineered rice in Missouri. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/news?tmpl=story&u=/ap/20050412/ap_on_bi_ge/beer_genetic_crops_1)
+1. [AP](https://news.yahoo.com/news?tmpl=story&u=/ap/20050412/ap_on_bi_ge/beer_genetic_crops_1)
 
 ### Related:
 

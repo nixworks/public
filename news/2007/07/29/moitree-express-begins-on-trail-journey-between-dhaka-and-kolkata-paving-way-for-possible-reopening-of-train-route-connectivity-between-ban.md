@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/07/29/moitree-express-begins-on-trail-journey-between-dhaka-and-kolkata-paving-way-for-possible-reopening-of-train-route-connectivity-between-ban.html)  [JSON](/news/2007/07/29/moitree-express-begins-on-trail-journey-between-dhaka-and-kolkata-paving-way-for-possible-reopening-of-train-route-connectivity-between-ban.json)  [XML](/news/2007/07/29/moitree-express-begins-on-trail-journey-between-dhaka-and-kolkata-paving-way-for-possible-reopening-of-train-route-connectivity-between-ban.xml)  
+
 ### [2007-07-29](/news/2007/07/29/index.md)
 
+##### Dhaka
 #  Moitree Express begins on trail journey between Dhaka and Kolkata paving way for possible reopening of train route connectivity between Bangla Desh and India
 
 

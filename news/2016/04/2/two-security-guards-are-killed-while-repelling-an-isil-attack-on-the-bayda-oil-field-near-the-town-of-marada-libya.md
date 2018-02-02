@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/2/two-security-guards-are-killed-while-repelling-a
 
 ### [2016-04-2](/news/2016/04/2/index.md)
 
+##### Libyan Civil War (2014-present)
 # Two security guards are killed while repelling an ISIL attack on the Bayda oil field, near the town of Marada, Libya. 
 
 Two guards were killed in an attempted attack on an oil field in eastern Libya by suspected Islamic State militants on Saturday, a guards spokesman said.

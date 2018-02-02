@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/29/in-the-second-round-run-off-to-select-the-socia
 
 ### [2017-01-29](/news/2017/01/29/index.md)
 
+##### French Socialist Party presidential primary, 2017
 # In the second round run-off to select the Socialist Party's candidate in this year's spring presidential election, the leftist candidate, former Minister of National Education Benoit Hamon, topped former Prime Minister Manuel Valls, a centrist, with 58.65 percent of the vote. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

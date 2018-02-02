@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/27/prime-minister-of-india-manmohan-singh-arrives-in-saudi-arabia-on-the-first-pm-visit-there-since-indira-gandhi-s-in-1982.html)  [JSON](/news/2010/02/27/prime-minister-of-india-manmohan-singh-arrives-in-saudi-arabia-on-the-first-pm-visit-there-since-indira-gandhi-s-in-1982.json)  [XML](/news/2010/02/27/prime-minister-of-india-manmohan-singh-arrives-in-saudi-arabia-on-the-first-pm-visit-there-since-indira-gandhi-s-in-1982.xml)  
+
 ### [2010-02-27](/news/2010/02/27/index.md)
 
+##### Prime Minister
 # Prime Minister of India Manmohan Singh arrives in Saudi Arabia on the first PM visit there since Indira Gandhi's in 1982. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://beta.thehindu.com/news/international/article123588.ece?homepage=true)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/PMs-Saudi-visit-attempt-to-make-up-for-lost-time/articleshow/5625532.cms)

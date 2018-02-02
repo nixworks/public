@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/21/the-mesoamerican-long-count-calendar-reaches-the-date-13-0-0-0-0-associated-with-various-doomsday-myths.html)  [JSON](/news/2012/12/21/the-mesoamerican-long-count-calendar-reaches-the-date-13-0-0-0-0-associated-with-various-doomsday-myths.json)  [XML](/news/2012/12/21/the-mesoamerican-long-count-calendar-reaches-the-date-13-0-0-0-0-associated-with-various-doomsday-myths.xml)  
+
 ### [2012-12-21](/news/2012/12/21/index.md)
 
+##### Mesoamerican Long Count calendar
 # The Mesoamerican Long Count calendar reaches the date 13.0.0.0.0, associated with various doomsday myths. 
 
 People across the world prepare for what they believe will be a Mayan apocalypse, while others throw doomsday parties.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/12/2012122165411542664.html)
 2. [The Guardian](http://www.guardian.co.uk/science/2012/dec/21/end-world-live-blog)

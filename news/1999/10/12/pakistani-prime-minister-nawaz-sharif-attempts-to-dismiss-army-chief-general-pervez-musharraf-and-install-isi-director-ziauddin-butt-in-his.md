@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/10/12/pakistani-prime-minister-nawaz-sharif-attempts-to-dismiss-army-chief-general-pervez-musharraf-and-install-isi-director-ziauddin-butt-in-his.html)  [JSON](/news/1999/10/12/pakistani-prime-minister-nawaz-sharif-attempts-to-dismiss-army-chief-general-pervez-musharraf-and-install-isi-director-ziauddin-butt-in-his.json)  [XML](/news/1999/10/12/pakistani-prime-minister-nawaz-sharif-attempts-to-dismiss-army-chief-general-pervez-musharraf-and-install-isi-director-ziauddin-butt-in-his.xml)  
+
 ### [1999-10-12](/news/1999/10/12/index.md)
 
+##### Pakistan
 #  Pakistani Prime Minister Nawaz Sharif attempts to dismiss Army Chief General Pervez Musharraf and install ISI director Ziauddin Butt in his place. Senior Army generals refuse to accept the dismissal. Musharraf, who was out of the country, attempts to return in a commercial airliner. Sharif orders the Karachi airport to not allow the plane to land. The generals lead a coup, ousting Sharif's administration and taking over the airport. The plane lands with only a few minutes of fuel to spare, and Musharraf takes control of the government.
 
 

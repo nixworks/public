@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/4/the-nepalese-court-rejects-criminal-charles-sobhraj-s-appeal-against-his-life-sentence-his-lawyer-intends-to-appeal-to-the-united-nations.html)  [JSON](/news/2005/08/4/the-nepalese-court-rejects-criminal-charles-sobhraj-s-appeal-against-his-life-sentence-his-lawyer-intends-to-appeal-to-the-united-nations.json)  [XML](/news/2005/08/4/the-nepalese-court-rejects-criminal-charles-sobhraj-s-appeal-against-his-life-sentence-his-lawyer-intends-to-appeal-to-the-united-nations.xml)  
+
 ### [2005-08-4](/news/2005/08/4/index.md)
 
+##### Nepal
 #  The Nepalese court rejects criminal Charles Sobhraj's appeal against his life sentence. His lawyer intends to appeal to the United Nations Court of Human Rights 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4746585.stm)
 2. [HImalayan Times](http://www.thehimalayantimes.com/fullstory.asp?filename=6a6Sa8maxamal&folder=aHaoamW&Name=Home&dtSiteDate=20050805)
@@ -16,4 +20,4 @@
 2. [ 2008 unrest in Tibet: About 18 protesting Tibetan exiles scale the walls of the United Nations compound in Kathmandu, Nepal as Nepalese police arrest another 40 protestors. ](/news/2008/03/28/2008-unrest-in-tibet-about-18-protesting-tibetan-exiles-scale-the-walls-of-the-united-nations-compound-in-kathmandu-nepal-as-nepalese-pol.md) _Context: Nepal, United Nations_
 3. [ Nepalese police clash with Bhutanese asylum seekers at a United Nations resulting in one 16-year-old boy being killed and a dozen people being injured. ](/news/2007/05/27/nepalese-police-clash-with-bhutanese-asylum-seekers-at-a-united-nations-resulting-in-one-16-year-old-boy-being-killed-and-a-dozen-people-be.md) _Context: Nepal, United Nations_
 4. [ Four Nepalese United Nations workers and their driver are killed in a roadside bombing in Kandahar, Afghanistan. ](/news/2007/04/17/four-nepalese-united-nations-workers-and-their-driver-are-killed-in-a-roadside-bombing-in-kandahar-afghanistan.md) _Context: Nepal, United Nations_
-5. [At least 14 people are killed in the Indian city of Mumbai as nearly a month's average rainfall fell yesterday during the worst monsoon in years. More than 1,200 people have been killed across India, Nepal and Bangladesh. ](/news/2017/08/30/at-least-14-people-are-killed-in-the-indian-city-of-mumbai-as-nearly-a-month-s-average-rainfall-fell-yesterday-during-the-worst-monsoon-in-y.md) _Context: Nepal_
+5. [Suspected Allied Democratic Forces militants in North Kivu, DR Congo, kill at least 15 United Nations peacekeepers, mostly Tanzanian, and five Congolese soldiers, and wound 53 other people. An unknown number of the rebels are killed. Over 90 peacekeepers have been killed since the mission started in 1999. ](/news/2017/12/8/suspected-allied-democratic-forces-militants-in-north-kivu-dr-congo-kill-at-least-15-united-nations-peacekeepers-mostly-tanzanian-and-fi.md) _Context: United Nations_

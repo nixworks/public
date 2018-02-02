@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/26/severe-storms-in-the-us-city-of-atlanta-georgia-kill-at-least-three-people-and-leave-193-000-people-without-power.html)  [JSON](/news/2011/05/26/severe-storms-in-the-us-city-of-atlanta-georgia-kill-at-least-three-people-and-leave-193-000-people-without-power.json)  [XML](/news/2011/05/26/severe-storms-in-the-us-city-of-atlanta-georgia-kill-at-least-three-people-and-leave-193-000-people-without-power.xml)  
+
 ### [2011-05-26](/news/2011/05/26/index.md)
 
+##### Atlanta, Georgia
 # Severe storms in the US city of Atlanta, Georgia, kill at least three people and leave 193,000 people without power. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Atlanta Georgia-Constitution](http://www.ajc.com/news/metro-atlanta-weather-3-957576.html)
 

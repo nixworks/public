@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/13/the-thai-military-junta-announces-that-it-is-lifting-the-nationwide-curfew.html)  [JSON](/news/2014/06/13/the-thai-military-junta-announces-that-it-is-lifting-the-nationwide-curfew.json)  [XML](/news/2014/06/13/the-thai-military-junta-announces-that-it-is-lifting-the-nationwide-curfew.xml)  
+
 ### [2014-06-13](/news/2014/06/13/index.md)
 
+##### Thailand
 # The Thai military junta announces that it is lifting the nationwide curfew. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC](http://abcnews.go.com/International/wireStory/thai-junta-interim-government-september-24119589)
 

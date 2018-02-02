@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/26/michael-p-mccarthy-ex-boyfriend-of-bella-s-moth
 
 ### [2017-06-26](/news/2017/06/26/index.md)
 
+##### Bella Bond murder case
 # Michael P. McCarthy (ex-boyfriend of Bella's mother) is found guilty of second-degree murder in the killing of Bella Bond. 
 
 A Massachusetts man has been convicted of second-degree murder in the 2015 death of a 2-year-old girl who became known as Baby Doe after her remains washed up on the shores of a Boston Harbor island.

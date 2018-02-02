@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/29/british-conservative-party-leader-iain-duncan-smith-loses-a-vote-of-confidence-in-his-parliamentary-party-by-90-votes-to-75-and-in-accorda.html)  [JSON](/news/2003/10/29/british-conservative-party-leader-iain-duncan-smith-loses-a-vote-of-confidence-in-his-parliamentary-party-by-90-votes-to-75-and-in-accorda.json)  [XML](/news/2003/10/29/british-conservative-party-leader-iain-duncan-smith-loses-a-vote-of-confidence-in-his-parliamentary-party-by-90-votes-to-75-and-in-accorda.xml)  
+
 ### [2003-10-29](/news/2003/10/29/index.md)
 
+##### Conservative Party
 #  British Conservative Party leader Iain Duncan Smith loses a vote of confidence in his parliamentary party by 90 votes to 75 and, in accordance with party rules, resigns from the leadership. A new leadership election is called. Shadow Deputy Prime Minister David Davis, previously tipped as a future leader, surprises Westminster by announcing that he will not seek the leadership and endorses former Home Secretary Michael Howard, who is now seen as the frontrunner to assume the leadership. Other leading politicians endorse Howard, once famously described by a colleague as having "something of the night about him."
 
 

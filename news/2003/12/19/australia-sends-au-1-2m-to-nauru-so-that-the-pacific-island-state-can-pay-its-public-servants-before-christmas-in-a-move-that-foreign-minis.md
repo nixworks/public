@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/19/australia-sends-au-1-2m-to-nauru-so-that-the-pacific-island-state-can-pay-its-public-servants-before-christmas-in-a-move-that-foreign-minis.html)  [JSON](/news/2003/12/19/australia-sends-au-1-2m-to-nauru-so-that-the-pacific-island-state-can-pay-its-public-servants-before-christmas-in-a-move-that-foreign-minis.json)  [XML](/news/2003/12/19/australia-sends-au-1-2m-to-nauru-so-that-the-pacific-island-state-can-pay-its-public-servants-before-christmas-in-a-move-that-foreign-minis.xml)  
+
 ### [2003-12-19](/news/2003/12/19/index.md)
 
+##### Australia
 #  Australia sends AU$1.2m to Nauru so that the Pacific island-state can pay its public servants before Christmas in a move that Foreign Minister Alexander Downer says illustrates the need for long-term solutions to the island's deep-seated problems. [http:--www.theage.com.au-articles-2003-12-19-1071337160714.html]
 
 

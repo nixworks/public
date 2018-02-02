@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/25/sony-stops-selling-the-original-cassette-walkman.html)  [JSON](/news/2010/10/25/sony-stops-selling-the-original-cassette-walkman.json)  [XML](/news/2010/10/25/sony-stops-selling-the-original-cassette-walkman.xml)  
+
 ### [2010-10-25](/news/2010/10/25/index.md)
 
+##### Sony
 # Sony stops selling the original cassette Walkman. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Newcore via ''Herald Sun](http://www.heraldsun.com.au/ipad-application/sony-pulls-the-plug-on-its-original-walkman/story-fn6bn9st-1225943279807)
 

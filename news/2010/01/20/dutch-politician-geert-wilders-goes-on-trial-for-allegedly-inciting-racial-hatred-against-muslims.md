@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/20/dutch-politician-geert-wilders-goes-on-trial-for-allegedly-inciting-racial-hatred-against-muslims.html)  [JSON](/news/2010/01/20/dutch-politician-geert-wilders-goes-on-trial-for-allegedly-inciting-racial-hatred-against-muslims.json)  [XML](/news/2010/01/20/dutch-politician-geert-wilders-goes-on-trial-for-allegedly-inciting-racial-hatred-against-muslims.xml)  
+
 ### [2010-01-20](/news/2010/01/20/index.md)
 
+##### Netherlands
 # Dutch politician Geert Wilders goes on trial for allegedly inciting racial hatred against Muslims. 
 
 Geert Wilders&#8217; testimony will take so long to be heard at his trial for inciting hatred and discrimination, that he...
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/europe/01/20/netherlands.geert.wilders/)
 2. [Dutchnew.nl](http://www.dutchnews.nl/news/archives/2010/01/wilders_trial_for_inciting_hat.php)

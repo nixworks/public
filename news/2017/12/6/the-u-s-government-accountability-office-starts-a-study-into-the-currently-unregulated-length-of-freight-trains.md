@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/6/the-u-s-government-accountability-office-starts-
 
 ### [2017-12-6](/news/2017/12/6/index.md)
 
+##### Government Accountability Office
 # The U.S. Government Accountability Office starts a study into the (currently unregulated) length of freight trains. 
 
 The investigative arm of the U.S. Congress is launching a probe into the safety of increasingly long freight trains being operated by CSX Corp (CSX.O), Union Pacific Corp (UNP.N) and other major U.S. railroads to boost profitability, the U.S. Government Accountability Office (GAO) said.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/27/as-of-this-day-local-and-central-government-are
 
 ### [2016-05-27](/news/2016/05/27/index.md)
 
+##### European Union membership referendum
 # As of this day, local and central government are prohibited from making announcements in a way that could affect the outcome of the referendum. 
 
 Civil servants prohibited from making EU pronouncements or releasing information in four-week run-up to poll

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/7/north-korea-and-south-korea-agree-to-resume-talks-on-reopening-the-kaesong-industrial-zone.html)  [JSON](/news/2013/08/7/north-korea-and-south-korea-agree-to-resume-talks-on-reopening-the-kaesong-industrial-zone.json)  [XML](/news/2013/08/7/north-korea-and-south-korea-agree-to-resume-talks-on-reopening-the-kaesong-industrial-zone.xml)  
+
 ### [2013-08-7](/news/2013/08/7/index.md)
 
+##### North Korea
 # North Korea and South Korea agree to resume talks on reopening the Kaesong industrial zone. 
 
 North and South Korea agree to resume talks on reopening the joint Kaesong zone, days after Seoul demanded &quot;final talks&quot; on the matter.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23586026)
 2. [Sky News](http://news.sky.com/story/1125548/koreas-agree-to-talks-complex-may-re-open)

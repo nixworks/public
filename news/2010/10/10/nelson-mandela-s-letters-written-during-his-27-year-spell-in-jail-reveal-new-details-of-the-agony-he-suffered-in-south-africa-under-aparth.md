@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/10/nelson-mandela-s-letters-written-during-his-27-year-spell-in-jail-reveal-new-details-of-the-agony-he-suffered-in-south-africa-under-aparth.html)  [JSON](/news/2010/10/10/nelson-mandela-s-letters-written-during-his-27-year-spell-in-jail-reveal-new-details-of-the-agony-he-suffered-in-south-africa-under-aparth.json)  [XML](/news/2010/10/10/nelson-mandela-s-letters-written-during-his-27-year-spell-in-jail-reveal-new-details-of-the-agony-he-suffered-in-south-africa-under-aparth.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### Nelson Mandela
 # Nelson Mandela's letters, written during his 27-year spell in jail, reveal new details of the agony he suffered in South Africa under apartheid. 
 
 Correspondence from former South African president Nelson Mandela during his 27 years in jail reveal the agony of being separated from his family.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11509771)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

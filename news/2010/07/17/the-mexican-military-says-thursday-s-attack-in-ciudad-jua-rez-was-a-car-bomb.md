@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/17/the-mexican-military-says-thursday-s-attack-in-ciudad-jua-rez-was-a-car-bomb.html)  [JSON](/news/2010/07/17/the-mexican-military-says-thursday-s-attack-in-ciudad-jua-rez-was-a-car-bomb.json)  [XML](/news/2010/07/17/the-mexican-military-says-thursday-s-attack-in-ciudad-jua-rez-was-a-car-bomb.xml)  
+
 ### [2010-07-17](/news/2010/07/17/index.md)
 
+##### Mexico
 # The Mexican military says Thursday's attack in Ciudad Juarez was a car bomb. 
 
 Attack follows the arrest of Jesus Armando Acosta Guerrero, an alleged drug baron.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/07/2010716193230508554.html)
 1. [Cover Image](http://www.aljazeera.com)

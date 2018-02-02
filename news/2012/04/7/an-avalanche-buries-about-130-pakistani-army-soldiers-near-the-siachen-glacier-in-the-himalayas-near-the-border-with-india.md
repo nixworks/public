@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/7/an-avalanche-buries-about-130-pakistani-army-soldiers-near-the-siachen-glacier-in-the-himalayas-near-the-border-with-india.html)  [JSON](/news/2012/04/7/an-avalanche-buries-about-130-pakistani-army-soldiers-near-the-siachen-glacier-in-the-himalayas-near-the-border-with-india.json)  [XML](/news/2012/04/7/an-avalanche-buries-about-130-pakistani-army-soldiers-near-the-siachen-glacier-in-the-himalayas-near-the-border-with-india.xml)  
+
 ### [2012-04-7](/news/2012/04/7/index.md)
 
+##### avalanche
 # An avalanche buries about 130 Pakistani Army soldiers near the Siachen Glacier in the Himalayas near the border with India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://worldnews.msnbc.msn.com/_news/2012/04/07/11066086-avalanche-buries-130-pakistani-soldiers)
 

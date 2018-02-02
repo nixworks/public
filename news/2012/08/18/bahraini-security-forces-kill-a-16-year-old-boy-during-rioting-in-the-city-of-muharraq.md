@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/18/bahraini-security-forces-kill-a-16-year-old-boy-during-rioting-in-the-city-of-muharraq.html)  [JSON](/news/2012/08/18/bahraini-security-forces-kill-a-16-year-old-boy-during-rioting-in-the-city-of-muharraq.json)  [XML](/news/2012/08/18/bahraini-security-forces-kill-a-16-year-old-boy-during-rioting-in-the-city-of-muharraq.xml)  
+
 ### [2012-08-18](/news/2012/08/18/index.md)
 
+##### Bahrain
 # Bahraini security forces kill a 16-year-old boy during rioting in the city of Muharraq. 
 
 Police in the Gulf state of Bahrain claim self-defence after a youth of 16 is killed during a riot but the opposition say he was kicked on the ground.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19306558)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62360000/jpg/_62360102_police_reuters.jpg)

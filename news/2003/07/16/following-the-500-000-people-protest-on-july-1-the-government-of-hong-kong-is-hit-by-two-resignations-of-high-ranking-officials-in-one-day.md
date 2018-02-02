@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/16/following-the-500-000-people-protest-on-july-1-the-government-of-hong-kong-is-hit-by-two-resignations-of-high-ranking-officials-in-one-day.html)  [JSON](/news/2003/07/16/following-the-500-000-people-protest-on-july-1-the-government-of-hong-kong-is-hit-by-two-resignations-of-high-ranking-officials-in-one-day.json)  [XML](/news/2003/07/16/following-the-500-000-people-protest-on-july-1-the-government-of-hong-kong-is-hit-by-two-resignations-of-high-ranking-officials-in-one-day.xml)  
+
 ### [2003-07-16](/news/2003/07/16/index.md)
 
+##### Hong Kong
 #  Following the 500,000-people protest on July 1, the government of Hong Kong is hit by two resignations of high-ranking officials in one day. One is the Financial Secretary Antony Leung and the other is the Security Secretary Regina Ip, who was in charge of the controversial Article 23.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/16/at-least-ten-afghan-police-die-in-a-suicide-bombing-in-kunduz-in-northeastern-afghanistan.html)  [JSON](/news/2007/04/16/at-least-ten-afghan-police-die-in-a-suicide-bombing-in-kunduz-in-northeastern-afghanistan.json)  [XML](/news/2007/04/16/at-least-ten-afghan-police-die-in-a-suicide-bombing-in-kunduz-in-northeastern-afghanistan.xml)  
+
 ### [2007-04-16](/news/2007/04/16/index.md)
 
+##### Afghanistan
 #  At least ten Afghan police die in a suicide bombing in Kunduz in northeastern Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6558599.stm)
 

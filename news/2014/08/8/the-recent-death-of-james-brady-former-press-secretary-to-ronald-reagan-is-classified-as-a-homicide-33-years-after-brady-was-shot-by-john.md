@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/08/8/the-recent-death-of-james-brady-former-press-secretary-to-ronald-reagan-is-classified-as-a-homicide-33-years-after-brady-was-shot-by-john.html)  [JSON](/news/2014/08/8/the-recent-death-of-james-brady-former-press-secretary-to-ronald-reagan-is-classified-as-a-homicide-33-years-after-brady-was-shot-by-john.json)  [XML](/news/2014/08/8/the-recent-death-of-james-brady-former-press-secretary-to-ronald-reagan-is-classified-as-a-homicide-33-years-after-brady-was-shot-by-john.xml)  
+
 ### [2014-08-8](/news/2014/08/8/index.md)
 
+##### James Brady
 # The recent death of James Brady, former press secretary to Ronald Reagan, is classified as a homicide 33 years after Brady was shot by John W. Hinckley. 
 
 There was no immediate word on whether the shooter, John W. Hinckley, could face new criminal charges.
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/local/crime/james-bradys-death-ruled-homicide-by-dc-medical-examiner/2014/08/08/686de224-1f41-11e4-82f9-2cd6fa8da5c4_story.html?wpisrc=al_national)
+1. [Washington Post](https://www.washingtonpost.com/local/crime/james-bradys-death-ruled-homicide-by-dc-medical-examiner/2014/08/08/686de224-1f41-11e4-82f9-2cd6fa8da5c4_story.html?wpisrc=al_national)
 
 ### Related:
 

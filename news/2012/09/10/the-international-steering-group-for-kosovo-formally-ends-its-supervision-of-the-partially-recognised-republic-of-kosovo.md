@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/10/the-international-steering-group-for-kosovo-formally-ends-its-supervision-of-the-partially-recognised-republic-of-kosovo.html)  [JSON](/news/2012/09/10/the-international-steering-group-for-kosovo-formally-ends-its-supervision-of-the-partially-recognised-republic-of-kosovo.json)  [XML](/news/2012/09/10/the-international-steering-group-for-kosovo-formally-ends-its-supervision-of-the-partially-recognised-republic-of-kosovo.xml)  
+
 ### [2012-09-10](/news/2012/09/10/index.md)
 
+##### International Steering Group for Kosovo
 # The International Steering Group for Kosovo formally ends its supervision of the partially recognised Republic of Kosovo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.ria.ru/world/20120910/175884680.html)
 

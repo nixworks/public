@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/3/bishop-luigi-padovese-of-the-roman-catholic-apostolic-vicariate-of-anatolia-is-attacked-at-his-home-in-adegskenderun-hatay-province-and-dies.html)  [JSON](/news/2010/06/3/bishop-luigi-padovese-of-the-roman-catholic-apostolic-vicariate-of-anatolia-is-attacked-at-his-home-in-adegskenderun-hatay-province-and-dies.json)  [XML](/news/2010/06/3/bishop-luigi-padovese-of-the-roman-catholic-apostolic-vicariate-of-anatolia-is-attacked-at-his-home-in-adegskenderun-hatay-province-and-dies.xml)  
+
 ### [2010-06-3](/news/2010/06/3/index.md)
 
+##### Luigi Padovese
 # Bishop Luigi Padovese of the Roman Catholic Apostolic Vicariate of Anatolia is attacked at his home in Iskenderun, Hatay Province and dies later in hospital. Mr Padovese's driver is arrested. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/10228730.stm)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

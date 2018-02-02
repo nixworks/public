@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/12/11/an-iraqi-suicide-bomber-kills-48-people-and-wounds-almost-100-in-a-restaurant-north-of-kirkuk-celebrating-the-end-of-eid-al-adha.html)  [JSON](/news/2008/12/11/an-iraqi-suicide-bomber-kills-48-people-and-wounds-almost-100-in-a-restaurant-north-of-kirkuk-celebrating-the-end-of-eid-al-adha.json)  [XML](/news/2008/12/11/an-iraqi-suicide-bomber-kills-48-people-and-wounds-almost-100-in-a-restaurant-north-of-kirkuk-celebrating-the-end-of-eid-al-adha.xml)  
+
 ### [2008-12-11](/news/2008/12/11/index.md)
 
+##### Iraq
 #  An Iraqi suicide bomber kills 48 people and wounds almost 100 in a restaurant north of Kirkuk celebrating the end of Eid al-Adha. 
 
 The attack in northern Iraq during a meeting of local leaders was one of the worst in recent months.
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2008/12/12/world/middleeast/12iraq.html?ref=middleeast)
+1. [NYT](https://www.nytimes.com/2008/12/12/world/middleeast/12iraq.html?ref=middleeast)
 1. [Cover Image](https://static01.nyt.com/images/2008/12/12/world/middleeast/iraq75.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/20/marius-kloppers-announces-that-he-will-resign-as-the-ceo-of-the-world-s-largest-mining-company-bhp-billiton-in-may-to-be-replaced-by-andrew.html)  [JSON](/news/2013/02/20/marius-kloppers-announces-that-he-will-resign-as-the-ceo-of-the-world-s-largest-mining-company-bhp-billiton-in-may-to-be-replaced-by-andrew.json)  [XML](/news/2013/02/20/marius-kloppers-announces-that-he-will-resign-as-the-ceo-of-the-world-s-largest-mining-company-bhp-billiton-in-may-to-be-replaced-by-andrew.xml)  
+
 ### [2013-02-20](/news/2013/02/20/index.md)
 
+##### Marius Kloppers
 # Marius Kloppers announces that he will resign as the CEO of the world's largest mining company BHP Billiton in May to be replaced by Andrew MacKenzie. 
 
 The chief executive of BHP Billiton, Marius Kloppers, is set to retire and will be succeeded by Andrew Mackenzie, the mining firm’s base metals chief.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/business/bhp-boss-kloppers-resigns-20130220-2eq88.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/2/e/q/h/n/image.related.articleLeadwide.620x349.2eq88.png/1361320784317.jpg)

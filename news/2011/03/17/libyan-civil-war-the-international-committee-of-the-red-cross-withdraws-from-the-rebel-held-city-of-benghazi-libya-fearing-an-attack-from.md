@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/17/libyan-civil-war-the-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing-an-attack-from.html)  [JSON](/news/2011/03/17/libyan-civil-war-the-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing-an-attack-from.json)  [XML](/news/2011/03/17/libyan-civil-war-the-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing-an-attack-from.xml)  
+
 ### [2011-03-17](/news/2011/03/17/index.md)
 
+##### Arab Spring
 # Libyan Civil War:The International Committee of the Red Cross withdraws from the rebel held city of Benghazi, Libya, fearing an attack from forces loyal to Muammar Gaddafi. 
 
 The International Committee of the Red Cross pulls out of the Libyan rebel stronghold of Benghazi fearing an imminent attack.
 
 
-### Source:
+### Sources:
 
 1. [ABC Radio Australia](http://www.abc.net.au/worldtoday/content/2011/s3166624.htm)
 2. [Al Arabiya](http://www.alarabiya.net/articles/2011/03/17/141889.html)
@@ -21,16 +25,16 @@ The International Committee of the Red Cross pulls out of the Libyan rebel stron
 12. [UN Security Council resolutions 1970 & 1973](http://www.un.org/Docs/sc/unsc_resolutions11.htm)
 12. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)
 
-### Related:
-
-1. [A Libyan starts court proceedings against 41 people accused of helping Muammar Gaddafi to attempt to suppress the opposition in the Libyan Civil War. ](/news/2012/02/5/a-libyan-starts-court-proceedings-against-41-people-accused-of-helping-muammar-gaddafi-to-attempt-to-suppress-the-opposition-in-the-libyan-c.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
-2. [2011 Libyan civil war: ousted Libyan dictator Muammar Gaddafi's stronghold of Sirte is reportedly close to being conquered by the forces of the National Transitional Council, who have captured the city's airport, hospital, university and conference centre. ](/news/2011/10/9/2011-libyan-civil-war-ousted-libyan-dictator-muammar-gaddafi-s-stronghold-of-sirte-is-reportedly-close-to-being-conquered-by-the-forces-of.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
-3. [2011 Libyan civil war: forces loyal to deposed Libyan dictator Muammar Gaddafi launch a counter-attack against opposition fighters in the towns of Bani Walid and Sirte. ](/news/2011/09/17/2011-libyan-civil-war-forces-loyal-to-deposed-libyan-dictator-muammar-gaddafi-launch-a-counter-attack-against-opposition-fighters-in-the-to.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
-4. [2011 Libyan civil war: Libya's National Transitional Council extends the deadline for tribal leaders in Muammar Gaddafi's hometown of Sirte to surrender in order to avoid further fighting. ](/news/2011/09/1/2011-libyan-civil-war-libya-s-national-transitional-council-extends-the-deadline-for-tribal-leaders-in-muammar-gaddafias-hometown-of-sirt.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
-5. [Libyan leader Muammar Gaddafi gives a live address to the nation after rebels claim a number of victories in the 2011 Libyan civil war. ](/news/2011/08/15/libyan-leader-muammar-gaddafi-gives-a-live-address-to-the-nation-after-rebels-claim-a-number-of-victories-in-the-2011-libyan-civil-war.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
-
 ### Changes:
 
 1. [Libyan Civil War:The International Committee of the Red Cross withdraws from the rebel held city of Benghazi, Libya, fearing an attack from forces loyal to Muammar Gaddafi. ](/news/2011/03/17/libyan-civil-war-pthe-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing-an-attack-from.md) _2017-08-25 03:32:33 (First version)_
 2. [Arab Spring: Libyan Civil War:: The International Committee of the Red Cross withdraws from the rebel held city of Benghazi, Libya, fearing an attack from forces loyal to Muammar Gaddafi. ](/news/2011/03/17/arab-spring-libyan-civil-war-the-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing.md) _2017-08-27 03:32:41 (Update)_
 2. [Libyan Civil War:The International Committee of the Red Cross withdraws from the rebel held city of Benghazi, Libya, fearing an attack from forces loyal to Muammar Gaddafi. ](/news/2011/03/17/libyan-civil-war-the-international-committee-of-the-red-cross-withdraws-from-the-rebel-held-city-of-benghazi-libya-fearing-an-attack-from.md) _(Current version)_
+
+### Related:
+
+1. [A Libyan starts court proceedings against 41 people accused of helping Muammar Gaddafi to attempt to suppress the opposition in the Libyan Civil War. ](/news/2012/02/5/a-libyan-starts-court-proceedings-against-41-people-accused-of-helping-muammar-gaddafi-to-attempt-to-suppress-the-opposition-in-the-libyan-c.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
+2. [Muammar Gaddafi, the leader of Libya, says on state television that he is prepared to enter a ceasefire in the Libyan Civil War but it must apply to both sides. Muammar Gaddafi has made such claims before but each time he failed to uphold one. ](/news/2011/04/30/muammar-gaddafi-the-leader-of-libya-says-on-state-television-that-he-is-prepared-to-enter-a-ceasefire-in-the-libyan-civil-war-but-it-must.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
+3. [2011 Libyan Civil War:NATO jets fly over Tripoli on their mission to destroy Muammar Gaddafi's forces as loud explosions knock 3 television stations (Libyan Television, Jamahiriya TV and Shababiya) off-the-air. ](/news/2011/04/25/2011-libyan-civil-war-nato-jets-fly-over-tripoli-on-their-mission-to-destroy-muammar-gaddafi-s-forces-as-loud-explosions-knock-3-television.md) _Context: Arab Spring, Libyan Civil War, Muammar Gaddafi_
+4. [Libya:Al Jazeera reports that many African migrant workers in Libya have been victims of violence due to suspicions that they are mercenaries for Muammar Gaddafi's regime. ](/news/2011/02/28/libya-al-jazeera-reports-that-many-african-migrant-workers-in-libya-have-been-victims-of-violence-due-to-suspicions-that-they-are-mercenarie.md) _Context: Libya, Libyan Civil War, Muammar Gaddafi_
+5. [Fourteen people are hurt in clashes between Libyan protestors and security forces in Benghazi as protests spread. ](/news/2011/02/16/fourteen-people-are-hurt-in-clashes-between-libyan-protestors-and-security-forces-in-benghazi-as-protests-spread.md) _Context: Arab Spring, Benghazi, Libya_

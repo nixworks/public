@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/07/26/mohammad-dahlan-resigns-as-national-security-adviser-to-the-president-of-the-palestinian-authority-mahmoud-abbas-due-to-his-role-in-the-rec.html)  [JSON](/news/2007/07/26/mohammad-dahlan-resigns-as-national-security-adviser-to-the-president-of-the-palestinian-authority-mahmoud-abbas-due-to-his-role-in-the-rec.json)  [XML](/news/2007/07/26/mohammad-dahlan-resigns-as-national-security-adviser-to-the-president-of-the-palestinian-authority-mahmoud-abbas-due-to-his-role-in-the-rec.xml)  
+
 ### [2007-07-26](/news/2007/07/26/index.md)
 
+##### Mohammad Dahlan
 #  Mohammad Dahlan resigns as National Security Adviser to the President of the Palestinian Authority Mahmoud Abbas due to his role in the recent defeat of Fatah in the Gaza Strip. 
 
 Muhammad Dahlan resigned today from his post as national security adviser to Mahmoud Abbas.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/07/26/world/middleeast/26cnd-mideast.html?_r=1&hp&oref=slogin)
+1. [New York Times](https://www.nytimes.com/2007/07/26/world/middleeast/26cnd-mideast.html?_r=1&hp&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

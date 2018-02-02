@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/4/gunmen-kill-12-shiite-muslims-near-the-pakistani-city-of-quetta-in-an-apparent-sectarian-killing.html)  [JSON](/news/2011/10/4/gunmen-kill-12-shiite-muslims-near-the-pakistani-city-of-quetta-in-an-apparent-sectarian-killing.json)  [XML](/news/2011/10/4/gunmen-kill-12-shiite-muslims-near-the-pakistani-city-of-quetta-in-an-apparent-sectarian-killing.xml)  
+
 ### [2011-10-4](/news/2011/10/4/index.md)
 
+##### Shiite
 # Gunmen kill 12 Shiite Muslims near the Pakistani city of Quetta in an apparent sectarian killing. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/gunmen-kill-12-shiite-muslims-pakistan-14660732)
 

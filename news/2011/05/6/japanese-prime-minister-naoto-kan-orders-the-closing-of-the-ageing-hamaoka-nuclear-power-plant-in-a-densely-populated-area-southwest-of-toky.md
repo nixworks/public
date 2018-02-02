@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/6/japanese-prime-minister-naoto-kan-orders-the-closing-of-the-ageing-hamaoka-nuclear-power-plant-in-a-densely-populated-area-southwest-of-toky.html)  [JSON](/news/2011/05/6/japanese-prime-minister-naoto-kan-orders-the-closing-of-the-ageing-hamaoka-nuclear-power-plant-in-a-densely-populated-area-southwest-of-toky.json)  [XML](/news/2011/05/6/japanese-prime-minister-naoto-kan-orders-the-closing-of-the-ageing-hamaoka-nuclear-power-plant-in-a-densely-populated-area-southwest-of-toky.xml)  
+
 ### [2011-05-6](/news/2011/05/6/index.md)
 
+##### Japanese Prime Minister
 # Japanese Prime Minister Naoto Kan orders the closing of the ageing Hamaoka nuclear power plant in a densely populated area southwest of Tokyo because it is located close to a tectonic fault line. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/06/japan.nuclear/index.html)
 2. [The Australian](http://www.theaustralian.com.au/news/world/japan-pm-naoto-kan-orders-shutdown-of-nuclear-plant-near-faultline/story-e6frg6so-1226051468854)

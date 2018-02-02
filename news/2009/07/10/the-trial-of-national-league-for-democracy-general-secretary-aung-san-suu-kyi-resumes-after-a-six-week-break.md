@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/10/the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-resumes-after-a-six-week-break.html)  [JSON](/news/2009/07/10/the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-resumes-after-a-six-week-break.json)  [XML](/news/2009/07/10/the-trial-of-national-league-for-democracy-general-secretary-aung-san-suu-kyi-resumes-after-a-six-week-break.xml)  
+
 ### [2009-07-10](/news/2009/07/10/index.md)
 
+##### National League for Democracy
 #  The trial of National League for Democracy General Secretary Aung San Suu Kyi resumes after a six week break. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8143570.stm)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/jul/10/aung-san-suu-kyi-trial)

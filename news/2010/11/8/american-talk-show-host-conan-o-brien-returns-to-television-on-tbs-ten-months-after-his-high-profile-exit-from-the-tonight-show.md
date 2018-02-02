@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/8/american-talk-show-host-conan-o-brien-returns-to-television-on-tbs-ten-months-after-his-high-profile-exit-from-the-tonight-show.html)  [JSON](/news/2010/11/8/american-talk-show-host-conan-o-brien-returns-to-television-on-tbs-ten-months-after-his-high-profile-exit-from-the-tonight-show.json)  [XML](/news/2010/11/8/american-talk-show-host-conan-o-brien-returns-to-television-on-tbs-ten-months-after-his-high-profile-exit-from-the-tonight-show.xml)  
+
 ### [2010-11-8](/news/2010/11/8/index.md)
 
+##### Conan O'Brien
 # American talk show host Conan O'Brien returns to television on TBS ten months after his high-profile exit from "The Tonight Show". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/SHOWBIZ/TV/11/08/conan.debut/)
 

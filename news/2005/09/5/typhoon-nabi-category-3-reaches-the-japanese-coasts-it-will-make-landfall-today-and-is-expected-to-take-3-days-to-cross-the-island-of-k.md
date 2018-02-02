@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/5/typhoon-nabi-category-3-reaches-the-japanese-coasts-it-will-make-landfall-today-and-is-expected-to-take-3-days-to-cross-the-island-of-k.html)  [JSON](/news/2005/09/5/typhoon-nabi-category-3-reaches-the-japanese-coasts-it-will-make-landfall-today-and-is-expected-to-take-3-days-to-cross-the-island-of-k.json)  [XML](/news/2005/09/5/typhoon-nabi-category-3-reaches-the-japanese-coasts-it-will-make-landfall-today-and-is-expected-to-take-3-days-to-cross-the-island-of-k.xml)  
+
 ### [2005-09-5](/news/2005/09/5/index.md)
 
+##### Typhoon Nabi
 #  Typhoon Nabi (Category 3) reaches the Japanese coasts. It will make landfall today, and is expected to take 3 days to cross the island of Kyushu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-09-05T122230Z_01_ROB503780_RTRUKOC_0_UK-WEATHER-JAPAN-TYPHOON.xml)
 

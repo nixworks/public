@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2015/10/24/a-first-lieutenant-and-two-soldiers-have-been-killed-in-an-explosion-which-targeted-a-police-armored-vehicle-in-the-northern-sinai-city-of-a.html)  [JSON](/news/2015/10/24/a-first-lieutenant-and-two-soldiers-have-been-killed-in-an-explosion-which-targeted-a-police-armored-vehicle-in-the-northern-sinai-city-of-a.json)  [XML](/news/2015/10/24/a-first-lieutenant-and-two-soldiers-have-been-killed-in-an-explosion-which-targeted-a-police-armored-vehicle-in-the-northern-sinai-city-of-a.xml)  
+
 ### [2015-10-24](/news/2015/10/24/index.md)
 
+##### Sinai insurgency
 # A first lieutenant and two soldiers have been killed in an explosion which targeted a police armored vehicle in the northern Sinai city of Al-Arish. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Bangkok Post](http://www.bangkokpost.com/news/world/742044/islamist-candidate-in-egypt-elections-shot-dead-in-sinai)
-2. [NY Times](http://www.nytimes.com/aponline/2015/10/24/world/middleeast/ap-ml-egypt-explosion.html?_r=0)
-3. [Reuters](http://www.reuters.com/article/2015/10/24/us-egypt-election-militants-idUSKCN0SI0O520151024)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [NY Times](https://www.nytimes.com/aponline/2015/10/24/world/middleeast/ap-ml-egypt-explosion.html?_r=0)
+3. [Reuters](https://www.reuters.com/article/2015/10/24/us-egypt-election-militants-idUSKCN0SI0O520151024)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

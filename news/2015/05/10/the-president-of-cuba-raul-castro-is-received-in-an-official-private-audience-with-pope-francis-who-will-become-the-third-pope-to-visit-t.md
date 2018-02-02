@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/10/the-president-of-cuba-raul-castro-is-received-in-an-official-private-audience-with-pope-francis-who-will-become-the-third-pope-to-visit-t.html)  [JSON](/news/2015/05/10/the-president-of-cuba-raul-castro-is-received-in-an-official-private-audience-with-pope-francis-who-will-become-the-third-pope-to-visit-t.json)  [XML](/news/2015/05/10/the-president-of-cuba-raul-castro-is-received-in-an-official-private-audience-with-pope-francis-who-will-become-the-third-pope-to-visit-t.xml)  
+
 ### [2015-05-10](/news/2015/05/10/index.md)
 
+##### Raul Castro
 # The President of Cuba, Raul Castro, is received in an official private audience with Pope Francis, who will become the third Pope to visit the still officially Communist island before visiting the U.S. this October. Some restrictions on exercise of religion, and a few restrictions on other rights, have been lifted or relaxed, especially after Pope John Paul II's historic 1998 meeting with Fidel Castro, Pope Emeritus Benedict XVI's trip during his reign, and especially in 2014 and earlier this year, after Raul and Francis and U.S. President Barack Obama's diplomatic team dramatically improved U.S.-Cuba relations. President Castro went there to thank Francis, whom he publicly has stated his admiration for, for his efforts, and spoke of the possibility of converting and of officially restoring the Church. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Holy See Press Office](http://www.microsofttranslator.com/BV.aspx?ref=IE8Activity&a=http%3A%2F%2Fpress.vatican.va%2Fcontent%2Fsalastampa%2Fit%2Fbollettino%2Fpubblico%2F2015%2F05%2F10%2F0353%2F00780.html)
 

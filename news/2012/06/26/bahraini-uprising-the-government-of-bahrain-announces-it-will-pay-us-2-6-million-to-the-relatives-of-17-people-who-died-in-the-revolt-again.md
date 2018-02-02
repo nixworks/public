@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2012/06/26/bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-the-revolt-again.html)  [JSON](/news/2012/06/26/bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-the-revolt-again.json)  [XML](/news/2012/06/26/bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-the-revolt-again.xml)  
+
 ### [2012-06-26](/news/2012/06/26/index.md)
 
+##### Bahraini uprising (2011-present)
 # Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. 
 
 Bahrain will pay $2.6 million in restitution to 17 families over the deaths of 17 relatives last year during an uprising suppressed by the Gulf Arab state, a government statement said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/06/25/us-syria-crisis-idUSBRE85D0IS20120625?feedType=RSS&feedName=topNews)
-2. [Reuters](http://www.reuters.com/article/2012/06/26/us-bahrain-compensation-deaths-idUSBRE85P16820120626)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/06/25/us-syria-crisis-idUSBRE85D0IS20120625?feedType=RSS&feedName=topNews)
+2. [Reuters](https://www.reuters.com/article/2012/06/26/us-bahrain-compensation-deaths-idUSBRE85P16820120626)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Arab Spring:Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/arab-spring-pbahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-the.md) _2017-08-25 03:35:58 (First version)_
+2. [Arab Spring:: Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/arab-spring-bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-th.md) _2017-08-27 03:36:10 (Update)_
+2. [Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-the-revolt-again.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ Bahrain will pay $2.6 million in restitution to 17 families over the deaths of 1
 3. [A court in Bahrain upholds the sentences of Arab Spring opposition figures condemned for plotting to overthrow the Western-allied government. Eight of the twenty opponents are confirmed imprisoned for life. ](/news/2012/09/4/a-court-in-bahrain-upholds-the-sentences-of-arab-spring-opposition-figures-condemned-for-plotting-to-overthrow-the-western-allied-government.md) _Context: Bahrain, Bahraini uprising (2011-present)_
 4. [Bahrain's public prosecution charges seven police officers with torturing Shia medics to obtain confessions during the ongoing Bahraini uprising. ](/news/2012/09/18/bahrain-s-public-prosecution-charges-seven-police-officers-with-torturing-shia-medics-to-obtain-confessions-during-the-ongoing-bahraini-upri.md) _Context: Bahrain, Bahraini uprising (2011-present)_
 5. [Bahraini security forces kill a 16-year-old boy during rioting in the city of Muharraq. ](/news/2012/08/18/bahraini-security-forces-kill-a-16-year-old-boy-during-rioting-in-the-city-of-muharraq.md) _Context: Bahrain, Bahraini uprising (2011-present)_
-
-### Changes:
-
-1. [Arab Spring:Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/arab-spring-pbahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-the.md) _2017-08-25 03:35:58 (First version)_
-2. [Arab Spring:: Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/arab-spring-bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-th.md) _2017-08-27 03:36:10 (Update)_
-2. [Bahraini uprising: The government of Bahrain announces it will pay US$2.6 million to the relatives of 17 people who died in the revolt against the government. ](/news/2012/06/26/bahraini-uprising-the-government-of-bahrain-announces-it-will-pay-us-2-6-million-to-the-relatives-of-17-people-who-died-in-the-revolt-again.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/22/seven-us-marines-die-in-a-helicopter-crash-on-the-border-of-the-states-of-california-and-arizona.html)  [JSON](/news/2012/02/22/seven-us-marines-die-in-a-helicopter-crash-on-the-border-of-the-states-of-california-and-arizona.json)  [XML](/news/2012/02/22/seven-us-marines-die-in-a-helicopter-crash-on-the-border-of-the-states-of-california-and-arizona.xml)  
+
 ### [2012-02-22](/news/2012/02/22/index.md)
 
+##### Marine
 # Seven US Marines die in a helicopter crash on the border of the states of California and Arizona. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/02/23/us/arizona-marines-killed/index.html)
 

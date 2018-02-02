@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/01/20/a-solar-flare-solar-flare-hazards.html)  [JSON](/news/2005/01/20/a-solar-flare-solar-flare-hazards.json)  [XML](/news/2005/01/20/a-solar-flare-solar-flare-hazards.xml)  
+
 ### [2005-01-20](/news/2005/01/20/index.md)
 
+##### solar flare
 #  a solar flare Solar flare#Hazards
 
 

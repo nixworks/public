@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/5/four-are-injured-in-a-coach-crash-in-the-french-alps.html)  [JSON](/news/2007/01/5/four-are-injured-in-a-coach-crash-in-the-french-alps.json)  [XML](/news/2007/01/5/four-are-injured-in-a-coach-crash-in-the-french-alps.xml)  
+
 ### [2007-01-5](/news/2007/01/5/index.md)
 
+##### coach
 #  Four are injured in a coach crash in the French Alps. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/6233573.stm)
 

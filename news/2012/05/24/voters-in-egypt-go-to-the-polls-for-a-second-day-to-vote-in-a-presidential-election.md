@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/24/voters-in-egypt-go-to-the-polls-for-a-second-day-to-vote-in-a-presidential-election.html)  [JSON](/news/2012/05/24/voters-in-egypt-go-to-the-polls-for-a-second-day-to-vote-in-a-presidential-election.json)  [XML](/news/2012/05/24/voters-in-egypt-go-to-the-polls-for-a-second-day-to-vote-in-a-presidential-election.xml)  
+
 ### [2012-05-24](/news/2012/05/24/index.md)
 
+##### Egypt
 # Voters in Egypt go to the polls for a second day to vote in a presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18182991)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60461000/jpg/_60461584_014840399-1.jpg)

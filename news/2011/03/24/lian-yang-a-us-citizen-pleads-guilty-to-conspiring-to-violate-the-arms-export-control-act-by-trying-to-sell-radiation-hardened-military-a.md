@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/24/lian-yang-a-us-citizen-pleads-guilty-to-conspiring-to-violate-the-arms-export-control-act-by-trying-to-sell-radiation-hardened-military-a.html)  [JSON](/news/2011/03/24/lian-yang-a-us-citizen-pleads-guilty-to-conspiring-to-violate-the-arms-export-control-act-by-trying-to-sell-radiation-hardened-military-a.json)  [XML](/news/2011/03/24/lian-yang-a-us-citizen-pleads-guilty-to-conspiring-to-violate-the-arms-export-control-act-by-trying-to-sell-radiation-hardened-military-a.xml)  
+
 ### [2011-03-24](/news/2011/03/24/index.md)
 
+##### U.S. Arms Export Control Act
 # Lian Yang, a US citizen, pleads guilty to conspiring to violate the Arms Export Control Act by trying to sell radiation-hardened" military and aerospace technology to the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Seattle Times](http://seattletimes.nwsource.com/html/localnews/2014590785_yangplea26m.html)
 

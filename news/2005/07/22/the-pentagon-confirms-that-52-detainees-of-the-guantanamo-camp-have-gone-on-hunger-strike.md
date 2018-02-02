@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/07/22/the-pentagon-confirms-that-52-detainees-of-the-guantanamo-camp-have-gone-on-hunger-strike.html)  [JSON](/news/2005/07/22/the-pentagon-confirms-that-52-detainees-of-the-guantanamo-camp-have-gone-on-hunger-strike.json)  [XML](/news/2005/07/22/the-pentagon-confirms-that-52-detainees-of-the-guantanamo-camp-have-gone-on-hunger-strike.xml)  
+
 ### [2005-07-22](/news/2005/07/22/index.md)
 
+##### U.S. military
 #  The Pentagon confirms that 52 detainees of the Guantanamo camp have gone on hunger strike. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/1AFAF53F-2A54-43B5-A049-9B673AF6D241.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/americas/4704871.stm)
-3. [New York Times](http://www.nytimes.com/2005/07/22/politics/22gitmo.html)
+3. [New York Times](https://www.nytimes.com/2005/07/22/politics/22gitmo.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/5/the-japanese-media-reports-that-ryu-matsumoto-is-to-resign-as-minister-of-state-for-disaster-management-after-making-insensitive-remarks-whi.html)  [JSON](/news/2011/07/5/the-japanese-media-reports-that-ryu-matsumoto-is-to-resign-as-minister-of-state-for-disaster-management-after-making-insensitive-remarks-whi.json)  [XML](/news/2011/07/5/the-japanese-media-reports-that-ryu-matsumoto-is-to-resign-as-minister-of-state-for-disaster-management-after-making-insensitive-remarks-whi.xml)  
+
 ### [2011-07-5](/news/2011/07/5/index.md)
 
+##### Japan
 # The Japanese media reports that Ryu Matsumoto is to resign as Minister of State for Disaster Management after making insensitive remarks while touring areas hit by the 2011 Tohoku earthquake and tsunami. 
 
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/Business/wireStory?id=13996496)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2011/07/20117541342873973.html)

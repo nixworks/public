@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/5/thousands-of-supporters-of-the-opposition-social-democratic-union-of-macedonia-protest-against-the-government-in-skopje-and-demand-early-ele.html)  [JSON](/news/2010/12/5/thousands-of-supporters-of-the-opposition-social-democratic-union-of-macedonia-protest-against-the-government-in-skopje-and-demand-early-ele.json)  [XML](/news/2010/12/5/thousands-of-supporters-of-the-opposition-social-democratic-union-of-macedonia-protest-against-the-government-in-skopje-and-demand-early-ele.xml)  
+
 ### [2010-12-5](/news/2010/12/5/index.md)
 
+##### opposition
 # Thousands of supporters of the Opposition Social Democratic Union of Macedonia protest against the government in Skopje and demand early elections. 
 
 Thousands march against the conservative government, saying it has failed on the economy and obtaining EU accession.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net//news/europe/2010/12/2010125181234304207.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/5/2010125183039339790_20.jpg)

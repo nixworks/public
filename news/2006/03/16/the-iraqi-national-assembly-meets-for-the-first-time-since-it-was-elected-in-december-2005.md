@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/16/the-iraqi-national-assembly-meets-for-the-first-time-since-it-was-elected-in-december-2005.html)  [JSON](/news/2006/03/16/the-iraqi-national-assembly-meets-for-the-first-time-since-it-was-elected-in-december-2005.json)  [XML](/news/2006/03/16/the-iraqi-national-assembly-meets-for-the-first-time-since-it-was-elected-in-december-2005.xml)  
+
 ### [2006-03-16](/news/2006/03/16/index.md)
 
+##### Iraqi National Assembly
 #  The Iraqi National Assembly meets for the first time since it was elected in December 2005. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2006-03-16T091021Z_01_L16569830_RTRUKOT_0_TEXT0.xml&related=true)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/17/donald-trump-tweets-a-link-to-the-republican-na
 
 ### [2018-01-17](/news/2018/01/17/index.md)
 
+##### covering
 # Donald Trump tweets a link to the Republican National Committee's "Fake News Awards", won by ten stories and tweets that he considers misreported. The link also honors ten ways the President "has been getting results" thus far. 
 
 The president highlighted negative coverage he said showed bias.
@@ -24,6 +25,6 @@ The president highlighted negative coverage he said showed bias.
 
 1. [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md) _Context: Donald Trump_
 2. [Twitter, in response to criticism over its handling of U.S. President Donald Trump's account, says it will not block world leaders or remove their controversial tweets. ](/news/2018/01/5/twitter-in-response-to-criticism-over-its-handling-of-u-s-president-donald-trump-s-account-says-it-will-not-block-world-leaders-or-remove.md) _Context: Donald Trump_
-3. [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md) _Context: Donald Trump_
-4. [The United States closes its embassy in Port-au-Prince, Haiti, due to large-scale protests against the policy of U.S. President Donald Trump. ](/news/2018/01/23/the-united-states-closes-its-embassy-in-port-au-prince-haiti-due-to-large-scale-protests-against-the-policy-of-u-s-president-donald-trump.md) _Context: Donald Trump_
-5. [U.S. President Donald Trump says on Twitter that if the shutdown stalemate continues, Republicans should consider the "nuclear option" parliamentary procedure in the Senate. Majority leader Mitch McConnell is opposed to taking this step, a spokesperson said. ](/news/2018/01/21/u-s-president-donald-trump-says-on-twitter-that-if-the-shutdown-stalemate-continues-republicans-should-consider-the-nuclear-option-parli.md) _Context: Donald Trump_
+3. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _Context: Donald Trump_
+4. [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md) _Context: Donald Trump_
+5. [Andrew McCabe resigns as Deputy Director of the Federal Bureau of Investigation amid a dispute with President Donald Trump. ](/news/2018/01/29/andrew-mccabe-resigns-as-deputy-director-of-the-federal-bureau-of-investigation-amid-a-dispute-with-president-donald-trump.md) _Context: Donald Trump_

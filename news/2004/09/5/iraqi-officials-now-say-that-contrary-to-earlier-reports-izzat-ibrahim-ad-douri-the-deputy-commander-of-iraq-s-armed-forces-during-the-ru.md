@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/09/5/iraqi-officials-now-say-that-contrary-to-earlier-reports-izzat-ibrahim-ad-douri-the-deputy-commander-of-iraq-s-armed-forces-during-the-ru.html)  [JSON](/news/2004/09/5/iraqi-officials-now-say-that-contrary-to-earlier-reports-izzat-ibrahim-ad-douri-the-deputy-commander-of-iraq-s-armed-forces-during-the-ru.json)  [XML](/news/2004/09/5/iraqi-officials-now-say-that-contrary-to-earlier-reports-izzat-ibrahim-ad-douri-the-deputy-commander-of-iraq-s-armed-forces-during-the-ru.xml)  
+
 ### [2004-09-5](/news/2004/09/5/index.md)
 
+##### Izzat Ibrahim ad-Douri
 #  Iraqi officials now say that contrary to earlier reports, Izzat Ibrahim ad-Douri, the deputy commander of Iraq's armed forces during the rule of Saddam Hussein, has not been captured. Medical tests now show that the man who had been identified as Izzat Ibrahim is actually one of his relatives. Seventy of Izzat Ibrahim's supporters are now dead and 80 have been captured. Izzat Ibrahim ad-Douri is number six on the U.S.'s list of the 55 most wanted Iraqis. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/WORLD/meast/09/06/iraq.main/index.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6158502)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6158502)
 
 ### Related:
 

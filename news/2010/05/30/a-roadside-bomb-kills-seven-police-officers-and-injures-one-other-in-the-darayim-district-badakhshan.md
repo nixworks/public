@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/30/a-roadside-bomb-kills-seven-police-officers-and-injures-one-other-in-the-darayim-district-badakhshan.html)  [JSON](/news/2010/05/30/a-roadside-bomb-kills-seven-police-officers-and-injures-one-other-in-the-darayim-district-badakhshan.json)  [XML](/news/2010/05/30/a-roadside-bomb-kills-seven-police-officers-and-injures-one-other-in-the-darayim-district-badakhshan.xml)  
+
 ### [2010-05-30](/news/2010/05/30/index.md)
 
+##### Darayim District
 # A roadside bomb kills seven police officers and injures one other in the Darayim District, Badakhshan. 
 
 Seven deaths in Badakhshan reported as Nato commander accuses Iran of aiding Taliban.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/05/201053013556231701.html)
 1. [Cover Image](http://www.aljazeera.com)

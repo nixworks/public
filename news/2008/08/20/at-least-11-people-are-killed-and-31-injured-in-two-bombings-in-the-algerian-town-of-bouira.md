@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/20/at-least-11-people-are-killed-and-31-injured-in-two-bombings-in-the-algerian-town-of-bouira.html)  [JSON](/news/2008/08/20/at-least-11-people-are-killed-and-31-injured-in-two-bombings-in-the-algerian-town-of-bouira.json)  [XML](/news/2008/08/20/at-least-11-people-are-killed-and-31-injured-in-two-bombings-in-the-algerian-town-of-bouira.xml)  
+
 ### [2008-08-20](/news/2008/08/20/index.md)
 
+##### Algeria
 #  At least 11 people are killed and 31 injured in two bombings in the Algerian town of Bouira. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5jHfkhvV-ZbTYJt0Khm9mFZu3pKRw)
 

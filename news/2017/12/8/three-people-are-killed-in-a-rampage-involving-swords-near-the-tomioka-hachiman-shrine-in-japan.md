@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/8/three-people-are-killed-in-a-rampage-involving-s
 
 ### [2017-12-8](/news/2017/12/8/index.md)
 
+##### Crime in Japan
 # Three people are killed in a rampage involving swords near the Tomioka Hachiman Shrine in Japan. 
 
 A violent attack with Japanese swords and survival knives at Tokyo&#039;s famed Tomioka Hachimangu shrine has left three dead — including the chief priestess an

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/6/somali-pirates-will-release-the-mv-blue-star-and-her-crew-of-28-egyptians-upon-receiving-a-ransom.html)  [JSON](/news/2009/02/6/somali-pirates-will-release-the-mv-blue-star-and-her-crew-of-28-egyptians-upon-receiving-a-ransom.json)  [XML](/news/2009/02/6/somali-pirates-will-release-the-mv-blue-star-and-her-crew-of-28-egyptians-upon-receiving-a-ransom.xml)  
+
 ### [2009-02-6](/news/2009/02/6/index.md)
 
+##### Somalia
 #  Somali pirates will release the MV "Blue Star" and her crew of 28 Egyptians upon receiving a ransom. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/reuters/2009/02/06/africa/OUKWD-UK-SOMALIA-PIRATES-EGYPT.php)
 2. [Melbourne Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,25019882-5012751,00.html)

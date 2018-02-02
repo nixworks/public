@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/9/two-dead-bodies-have-been-found-in-yarloop-weste
 
 ### [2016-01-9](/news/2016/01/9/index.md)
 
+##### 2015-16 Australian bushfire season
 # Two dead bodies have been found in Yarloop, Western Australia, and residents of four towns urged to evacuate in under threat as the Waroona bushfire continues to burn out of control. 
 
 See how events unfolded as fires in Western Australia threatened townships on Saturday, and authorities made the tragic discovery of two bodies in Yarloop.

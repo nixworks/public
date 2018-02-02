@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/25/two-people-are-killed-and-more-than-a-dozen-injured-after-a-semitrailer-crashes-into-a-chicago-transit-authority-station-during-rush-hour.html)  [JSON](/news/2008/04/25/two-people-are-killed-and-more-than-a-dozen-injured-after-a-semitrailer-crashes-into-a-chicago-transit-authority-station-during-rush-hour.json)  [XML](/news/2008/04/25/two-people-are-killed-and-more-than-a-dozen-injured-after-a-semitrailer-crashes-into-a-chicago-transit-authority-station-during-rush-hour.xml)  
+
 ### [2008-04-25](/news/2008/04/25/index.md)
 
+##### semitrailer
 #  Two people are killed and more than a dozen injured after a semitrailer crashes into a Chicago Transit Authority station during rush hour. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''International Herald Tribune](http://www.iht.com/articles/ap/2008/04/25/america/NA-GEN-US-Truck-Crash.php)
 

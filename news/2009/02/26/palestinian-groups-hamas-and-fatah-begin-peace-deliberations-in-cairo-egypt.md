@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/02/26/palestinian-groups-hamas-and-fatah-begin-peace-deliberations-in-cairo-egypt.html)  [JSON](/news/2009/02/26/palestinian-groups-hamas-and-fatah-begin-peace-deliberations-in-cairo-egypt.json)  [XML](/news/2009/02/26/palestinian-groups-hamas-and-fatah-begin-peace-deliberations-in-cairo-egypt.xml)  
+
 ### [2009-02-26](/news/2009/02/26/index.md)
 
+##### Palestinian
 #  Palestinian groups Hamas and Fatah begin peace deliberations in Cairo, Egypt. 
 
 Leaders of the rival Palestinian groups Hamas and Fatah declared Thursday a “historic day” at the conclusion of a meeting aimed at healing a 20-month schism.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2009/02/27/world/middleeast/27mideast.html?partner=rss&emc=rss)
+1. [New York Times](https://www.nytimes.com/2009/02/27/world/middleeast/27mideast.html?partner=rss&emc=rss)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

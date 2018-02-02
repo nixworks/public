@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/18/israel-transfers-to-the-palestinian-authority-100-million-tax-revenues-withheld-since-the-hamas-won-the-election-last-year.html)  [JSON](/news/2007/01/18/israel-transfers-to-the-palestinian-authority-100-million-tax-revenues-withheld-since-the-hamas-won-the-election-last-year.json)  [XML](/news/2007/01/18/israel-transfers-to-the-palestinian-authority-100-million-tax-revenues-withheld-since-the-hamas-won-the-election-last-year.xml)  
+
 ### [2007-01-18](/news/2007/01/18/index.md)
 
+##### Israel
 #  Israel transfers to the Palestinian Authority $100 million tax revenues withheld since the Hamas won the election last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6276355.stm)
 

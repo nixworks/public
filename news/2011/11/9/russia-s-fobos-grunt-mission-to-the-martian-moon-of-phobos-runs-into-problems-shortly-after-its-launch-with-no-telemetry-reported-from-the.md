@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/9/russia-s-fobos-grunt-mission-to-the-martian-moon-of-phobos-runs-into-problems-shortly-after-its-launch-with-no-telemetry-reported-from-the.html)  [JSON](/news/2011/11/9/russia-s-fobos-grunt-mission-to-the-martian-moon-of-phobos-runs-into-problems-shortly-after-its-launch-with-no-telemetry-reported-from-the.json)  [XML](/news/2011/11/9/russia-s-fobos-grunt-mission-to-the-martian-moon-of-phobos-runs-into-problems-shortly-after-its-launch-with-no-telemetry-reported-from-the.xml)  
+
 ### [2011-11-9](/news/2011/11/9/index.md)
 
+##### Russia
 # Russia's Fobos-Grunt mission to the Martian moon of Phobos runs into problems shortly after its launch, with no telemetry reported from the spacecraft. 
 
 Russia&#39;s bid for its first interplanetary mission in 15 years went awry on Wednesday when an unmanned spacecraft failed to take the proper course toward Mars after its launch.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/45208128/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/111108-space-phobos2-830p.standard.jpg)
@@ -16,4 +20,4 @@ Russia&#39;s bid for its first interplanetary mission in 15 years went awry on W
 2. [The European Space Agency claims to have made contact with Russia's stranded Fobos-Grunt probe, two days after the closure of the spacecraft's window for launch to Mars. ](/news/2011/11/23/the-european-space-agency-claims-to-have-made-contact-with-russia-s-stranded-fobos-grunt-probe-two-days-after-the-closure-of-the-spacecraft.md) _Context: Fobos-Grunt, Mars, Russia_
 3. [ The United States and Russia sign a pact to use Russian technology on NASA missions to hunt for water on the moon and Mars. ](/news/2007/10/3/the-united-states-and-russia-sign-a-pact-to-use-russian-technology-on-nasa-missions-to-hunt-for-water-on-the-moon-and-mars.md) _Context: Mars, Russia_
 4. [ The blueprint for the Chinese space program, including the first Chinese-built astronomy satellite, a joint unmanned mission to Mars with Russia, and other extensive international cooperation, is released. ](/news/2007/03/12/the-blueprint-for-the-chinese-space-program-including-the-first-chinese-built-astronomy-satellite-a-joint-unmanned-mission-to-mars-with-r.md) _Context: Mars, Russia_
-5. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Russia_
+5. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_

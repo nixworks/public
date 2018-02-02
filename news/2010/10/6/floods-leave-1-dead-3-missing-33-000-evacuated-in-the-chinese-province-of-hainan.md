@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/6/floods-leave-1-dead-3-missing-33-000-evacuated-in-the-chinese-province-of-hainan.html)  [JSON](/news/2010/10/6/floods-leave-1-dead-3-missing-33-000-evacuated-in-the-chinese-province-of-hainan.json)  [XML](/news/2010/10/6/floods-leave-1-dead-3-missing-33-000-evacuated-in-the-chinese-province-of-hainan.xml)  
+
 ### [2010-10-6](/news/2010/10/6/index.md)
 
+##### China
 # Floods leave 1 dead, 3 missing, 33,000 evacuated in the Chinese province of Hainan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Dialy](http://www.chinadaily.com.cn/china/2010-10/07/content_11382116.htm)
 2. [Global Times](http://china.globaltimes.cn/society/2010-10/579542.html)

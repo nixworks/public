@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/12/mike-tyson-announces-he-will-retire-from-boxing-wikinews.html)  [JSON](/news/2005/06/12/mike-tyson-announces-he-will-retire-from-boxing-wikinews.json)  [XML](/news/2005/06/12/mike-tyson-announces-he-will-retire-from-boxing-wikinews.xml)  
+
 ### [2005-06-12](/news/2005/06/12/index.md)
 
+##### Mike Tyson
 #  Mike Tyson announces he will retire from boxing. Wikinews
 
 

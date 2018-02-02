@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/05/27/soyuz-tma-15-launches-from-the-baikonur-cosmodrome-in-kazakhstan.html)  [JSON](/news/2009/05/27/soyuz-tma-15-launches-from-the-baikonur-cosmodrome-in-kazakhstan.json)  [XML](/news/2009/05/27/soyuz-tma-15-launches-from-the-baikonur-cosmodrome-in-kazakhstan.xml)  
+
 ### [2009-05-27](/news/2009/05/27/index.md)
 
+##### Soyuz TMA-15
 #  Soyuz TMA-15 launches from the Baikonur Cosmodrome in Kazakhstan. 
 
 A Russian Soyuz spacecraft with three astronauts on board blasted off from Kazakhstan on Wednesday in a mission that will increase the International Space Station crew to six for the first time.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/scienceNews/idUSTRE54Q20Z20090527)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/scienceNews/idUSTRE54Q20Z20090527)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

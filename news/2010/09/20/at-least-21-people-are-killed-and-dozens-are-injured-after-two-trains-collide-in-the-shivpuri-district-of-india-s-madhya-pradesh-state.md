@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/09/20/at-least-21-people-are-killed-and-dozens-are-injured-after-two-trains-collide-in-the-shivpuri-district-of-india-s-madhya-pradesh-state.html)  [JSON](/news/2010/09/20/at-least-21-people-are-killed-and-dozens-are-injured-after-two-trains-collide-in-the-shivpuri-district-of-india-s-madhya-pradesh-state.json)  [XML](/news/2010/09/20/at-least-21-people-are-killed-and-dozens-are-injured-after-two-trains-collide-in-the-shivpuri-district-of-india-s-madhya-pradesh-state.xml)  
+
 ### [2010-09-20](/news/2010/09/20/index.md)
 
+##### train
 # At least 21 people are killed and dozens are injured after two trains collide in the Shivpuri district of India's Madhya Pradesh state. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100920/wl_asia_afp/indiatraincrash)
+1. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20100920/wl_asia_afp/indiatraincrash)
 2. [The Hindu](http://www.thehindu.com/news/states/other-states/article700390.ece)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-09/20/c_13521941.htm)
 

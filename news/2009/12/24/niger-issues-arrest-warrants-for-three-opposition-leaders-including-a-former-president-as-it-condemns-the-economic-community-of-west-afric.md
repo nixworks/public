@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/24/niger-issues-arrest-warrants-for-three-opposition-leaders-including-a-former-president-as-it-condemns-the-economic-community-of-west-afric.html)  [JSON](/news/2009/12/24/niger-issues-arrest-warrants-for-three-opposition-leaders-including-a-former-president-as-it-condemns-the-economic-community-of-west-afric.json)  [XML](/news/2009/12/24/niger-issues-arrest-warrants-for-three-opposition-leaders-including-a-former-president-as-it-condemns-the-economic-community-of-west-afric.xml)  
+
 ### [2009-12-24](/news/2009/12/24/index.md)
 
+##### Niger
 #  Niger issues arrest warrants for three opposition leaders including a former President, as it condemns the Economic Community of West African States' refusal to recognise the legitimacy of President Mamadou Tandja. 
 
 The United States has followed the Economic Community of West African States (Ecowas) in refusing to recognize the legtimacy of President Mamadou Tandja of Niger, who has extended his term of office for three years by unconstitutional means.
 
 
-### Source:
+### Sources:
 
 1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=114313)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8429739.stm)

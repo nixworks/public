@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/the-pacific-islands-forum-meets-in-vanuatu-and-discusses-the-situation-in-fiji.html)  [JSON](/news/2010/08/5/the-pacific-islands-forum-meets-in-vanuatu-and-discusses-the-situation-in-fiji.json)  [XML](/news/2010/08/5/the-pacific-islands-forum-meets-in-vanuatu-and-discusses-the-situation-in-fiji.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### Pacific Islands Forum
 # The Pacific Islands Forum meets in Vanuatu and discusses the situation in Fiji. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gTZfQbvX0xjvimNk6da6iatuIyoA)
 

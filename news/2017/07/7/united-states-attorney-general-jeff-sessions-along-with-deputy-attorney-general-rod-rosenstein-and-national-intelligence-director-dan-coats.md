@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/7/united-states-attorney-general-jeff-sessions-alo
 
 ### [2017-07-7](/news/2017/07/7/index.md)
 
+##### United States Attorney General
 # United States Attorney General Jeff Sessions, along with Deputy Attorney General Rod Rosenstein and National Intelligence Director Dan Coats visit the Guantanamo Bay Detention Camp. 
 
 
@@ -23,4 +24,4 @@ Formats: [HTML](/news/2017/07/7/united-states-attorney-general-jeff-sessions-alo
 2. [ Deputy Attorney General Rod Rosenstein appoints former FBI Director Robert Mueller as special counsel to oversee the FBI's investigation of Russia's efforts to influence the 2016 election. ](/news/2017/05/17/deputy-attorney-general-rod-rosenstein-appoints-former-fbi-director-robert-mueller-as-special-counsel-to-oversee-the-fbias-investigation.md) _Context: Deputy Attorney General, Rod Rosenstein_
 3. [United States Attorney General Jeff Sessions requests the resignations of 46 Barack Obama-era chief federal prosecutors, including United States Attorney for the Southern District of New York Preet Bharara, who was previously told to stay on by then President-elect Donald Trump in November. ](/news/2017/03/10/united-states-attorney-general-jeff-sessions-requests-the-resignations-of-46-barack-obama-era-chief-federal-prosecutors-including-united-st.md) _Context: Jeff Sessions, United States Attorney General_
 4. [The United States Senate, in a 52 to 47 vote, confirms the nomination of Jeff Sessions as United States Attorney General. ](/news/2017/02/8/the-united-states-senate-in-a-52-to-47-vote-confirms-the-nomination-of-jeff-sessions-as-united-states-attorney-general.md) _Context: Jeff Sessions, United States Attorney General_
-5. [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the visa program. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md) _Context: Jeff Sessions_
+5. [U.S. Attorney General Jeff Sessions rescinds three Obama-era memos that had adopted a policy of non-interference with states that have legalized recreational marijuana. ](/news/2018/01/4/u-s-attorney-general-jeff-sessions-rescinds-three-obama-era-memos-that-had-adopted-a-policy-of-non-interference-with-states-that-have-legal.md) _Context: Jeff Sessions_

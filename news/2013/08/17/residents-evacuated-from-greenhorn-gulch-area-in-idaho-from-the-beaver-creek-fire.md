@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/17/residents-evacuated-from-greenhorn-gulch-area-in-idaho-from-the-beaver-creek-fire.html)  [JSON](/news/2013/08/17/residents-evacuated-from-greenhorn-gulch-area-in-idaho-from-the-beaver-creek-fire.json)  [XML](/news/2013/08/17/residents-evacuated-from-greenhorn-gulch-area-in-idaho-from-the-beaver-creek-fire.xml)  
+
 ### [2013-08-17](/news/2013/08/17/index.md)
 
+##### Idaho
 # Residents evacuated from Greenhorn Gulch area in Idaho from the Beaver Creek fire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2013/08/17/us/idaho-fire/index.html?hpt=hp_t3)
 

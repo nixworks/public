@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/13/the-death-toll-from-contaminated-beer-in-the-mozambique-rises-to-at-least-72.html)  [JSON](/news/2015/01/13/the-death-toll-from-contaminated-beer-in-the-mozambique-rises-to-at-least-72.json)  [XML](/news/2015/01/13/the-death-toll-from-contaminated-beer-in-the-mozambique-rises-to-at-least-72.xml)  
+
 ### [2015-01-13](/news/2015/01/13/index.md)
 
+##### contaminated beer
 # The death toll from contaminated beer in the Mozambique rises to at least 72. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Business Week](http://www.businessweek.com/ap/2015-01-13/ap-top-international-news-at-4-30-a-dot-m-dot-est)
 

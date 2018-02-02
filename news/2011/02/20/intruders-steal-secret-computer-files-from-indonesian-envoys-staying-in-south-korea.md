@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/20/intruders-steal-secret-computer-files-from-indonesian-envoys-staying-in-south-korea.html)  [JSON](/news/2011/02/20/intruders-steal-secret-computer-files-from-indonesian-envoys-staying-in-south-korea.json)  [XML](/news/2011/02/20/intruders-steal-secret-computer-files-from-indonesian-envoys-staying-in-south-korea.xml)  
+
 ### [2011-02-20](/news/2011/02/20/index.md)
 
+##### Indonesia
 # Intruders steal secret computer files from Indonesian envoys staying in South Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2011/02/20/0200000000AEN20110220001700315.HTML)
 

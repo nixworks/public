@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2015/07/26/german-marketplace-organizer-deutsche-baprse-agrees-to-purchase-trading-platform-360t-for-a-725-million.html)  [JSON](/news/2015/07/26/german-marketplace-organizer-deutsche-baprse-agrees-to-purchase-trading-platform-360t-for-a-725-million.json)  [XML](/news/2015/07/26/german-marketplace-organizer-deutsche-baprse-agrees-to-purchase-trading-platform-360t-for-a-725-million.xml)  
+
 ### [2015-07-26](/news/2015/07/26/index.md)
 
+##### German
 # German marketplace organizer Deutsche Borse agrees to purchase trading platform 360T for EUR725 million. 
 
 Deutsche Börse said it is buying over-the-counter trading platform 360T for $796.4 million, in a move that strengthens the German exchange operator’s trading operations away from exchanges.
 
 
-### Source:
+### Sources:
 
-1. [Wall Street Journal](http://www.wsj.com/articles/deutsche-borse-to-buy-trading-platform-360t-for-796-4-million-1437904931)
+1. [Wall Street Journal](https://www.wsj.com/articles/deutsche-borse-to-buy-trading-platform-360t-for-796-4-million-1437904931)
 1. [Cover Image](https://si.wsj.net/public/resources/images/BN-JO170_boerse_TOP_20150726055012.jpg)
-
-### Related:
-
-1. [White House National Trade Council director Peter Navarro says Germany exploits other countries with a "grossly undervalued" euro. German Chancellor Angela Merkel rejects the allegation. ](/news/2017/01/31/white-house-national-trade-council-director-peter-navarro-says-germany-exploits-other-countries-with-a-grossly-undervalued-euro-german-ch.md) _Context: EUR, Germany_
-2. [In Germany, a Hamburg court fines Google EUR145,000 for violating privacy laws with its Street View service. ](/news/2013/04/22/in-germany-a-hamburg-court-fines-google-a-145-000-for-violating-privacy-laws-with-its-street-view-service.md) _Context: EUR, Germany_
-3. [Angela Merkel, Chancellor of Germany, reaffirms that country's support for the euro in a joint press conference with the Prime Minister of Italy, Silvio Berlusconi. ](/news/2011/01/12/angela-merkel-chancellor-of-germany-reaffirms-that-country-s-support-for-the-euro-in-a-joint-press-conference-with-the-prime-minister-of-i.md) _Context: EUR, Germany_
-4. [Germany offers compensation of EUR3,800 to each family of 91 of the 142 people it killed and 11 it injured in an air strike near Kunduz, an incident which provoked outrage and led to political and military resignations. The Bundeswehr does not admit guilt and families say they may sue. ](/news/2010/08/6/germany-offers-compensation-of-a-3-800-to-each-family-of-91-of-the-142-people-it-killed-and-11-it-injured-in-an-air-strike-near-kunduz-an.md) _Context: EUR, Germany_
-5. [ German Chancellor Angela Merkel announces a EUR50-billion economic stimulus package. ](/news/2009/01/13/german-chancellor-angela-merkel-announces-a-a-50-billion-economic-stimulus-package.md) _Context: EUR, Germany_
 
 ### Changes:
 
 1. [German marketplace organizer Deutsche Borse agrees to purchase trading platform 360T for -725 million. ](/news/2015/07/26/german-marketplace-organizer-deutsche-baprse-agrees-to-purchase-trading-platform-360t-for-725-million.md) _2017-08-27 03:42:45 (First version)_
 1. [German marketplace organizer Deutsche Borse agrees to purchase trading platform 360T for EUR725 million. ](/news/2015/07/26/german-marketplace-organizer-deutsche-baprse-agrees-to-purchase-trading-platform-360t-for-a-725-million.md) _(Current version)_
+
+### Related:
+
+1. [Germany offers compensation of EUR3,800 to each family of 91 of the 142 people it killed and 11 it injured in an air strike near Kunduz, an incident which provoked outrage and led to political and military resignations. The Bundeswehr does not admit guilt and families say they may sue. ](/news/2010/08/6/germany-offers-compensation-of-a-3-800-to-each-family-of-91-of-the-142-people-it-killed-and-11-it-injured-in-an-air-strike-near-kunduz-an.md) _Context: EUR, German_
+2. [ German Chancellor Angela Merkel announces a EUR50-billion economic stimulus package. ](/news/2009/01/13/german-chancellor-angela-merkel-announces-a-a-50-billion-economic-stimulus-package.md) _Context: EUR, German_
+3. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: German_
+4. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: German_
+5. [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, killing four people. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-killing-four-people.md) _Context: German_

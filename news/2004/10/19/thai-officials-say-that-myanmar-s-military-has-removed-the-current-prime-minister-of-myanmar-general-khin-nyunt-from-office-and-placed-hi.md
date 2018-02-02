@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/19/thai-officials-say-that-myanmar-s-military-has-removed-the-current-prime-minister-of-myanmar-general-khin-nyunt-from-office-and-placed-hi.html)  [JSON](/news/2004/10/19/thai-officials-say-that-myanmar-s-military-has-removed-the-current-prime-minister-of-myanmar-general-khin-nyunt-from-office-and-placed-hi.json)  [XML](/news/2004/10/19/thai-officials-say-that-myanmar-s-military-has-removed-the-current-prime-minister-of-myanmar-general-khin-nyunt-from-office-and-placed-hi.xml)  
+
 ### [2004-10-19](/news/2004/10/19/index.md)
 
+##### Thailand
 #  Thai officials say that Myanmar's military has removed the current prime minister of Myanmar, General Khin Nyunt, from office and placed him under house arrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3755052.stm)
 

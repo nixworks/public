@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2005/12/24/the-united-kingdom-began-commemorations-for-the-victims-of-the-2004-indian-ocean-tsunami-ahead-of-the-official-thai-commemorations-in-thail.html)  [JSON](/news/2005/12/24/the-united-kingdom-began-commemorations-for-the-victims-of-the-2004-indian-ocean-tsunami-ahead-of-the-official-thai-commemorations-in-thail.json)  [XML](/news/2005/12/24/the-united-kingdom-began-commemorations-for-the-victims-of-the-2004-indian-ocean-tsunami-ahead-of-the-official-thai-commemorations-in-thail.xml)  
+
 ### [2005-12-24](/news/2005/12/24/index.md)
 
+##### British
 #  The United Kingdom began commemorations for the victims of the 2004 Indian Ocean tsunami ahead of the official Thai commemorations in Thailand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4557376.stm)
 
 ### Related:
 
-1. [ In Thailand, police officer Somchai Visetsingha is sentenced to a life in prison for murder of two British backpackers in 2004. ](/news/2005/05/26/in-thailand-police-officer-somchai-visetsingha-is-sentenced-to-a-life-in-prison-for-murder-of-two-british-backpackers-in-2004.md) _Context: Thailand, United Kingdom_
-2. [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md) _Context: United Kingdom_
-3. [Thai Prime Minister Prayut Chan-o-cha meets with U.S. President Donald Trump in the Oval Office. Trump says he wants to lower the U.S. trade deficit with Thailand. ](/news/2017/10/2/thai-prime-minister-prayut-chan-o-cha-meets-with-u-s-president-donald-trump-in-the-oval-office-trump-says-he-wants-to-lower-the-u-s-trade.md) _Context: Thailand_
-4. [According to "The Guardian", the September disclosed hack attack at United Kingdom accounting firm Deloitte compromised a server with emails of some 350 clients, including U.S. government agencies and large corporations. Deloitte disputes the story, saying "very few" clients were affected. ](/news/2017/10/10/according-to-the-guardian-the-september-disclosed-hack-attack-at-united-kingdom-accounting-firm-deloitte-compromised-a-server-with-emails.md) _Context: United Kingdom_
-5. [The United Kingdom's Monarch Airlines goes into financial bankruptcy administration, suspending all flights, cancelling 300 thousand bookings, and leaving tens of thousands of passengers stranded. ](/news/2017/10/1/the-united-kingdom-s-monarch-airlines-goes-into-financial-bankruptcy-administration-suspending-all-flights-cancelling-300-thousand-booking.md) _Context: United Kingdom_
+1. [ In Thailand, police officer Somchai Visetsingha is sentenced to a life in prison for murder of two British backpackers in 2004. ](/news/2005/05/26/in-thailand-police-officer-somchai-visetsingha-is-sentenced-to-a-life-in-prison-for-murder-of-two-british-backpackers-in-2004.md) _Context: British, Thailand_
+2. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: British_
+3. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: British_
+4. [A motorcycle bomb kills at least three people and wounds 22 others at a market in Thailand's southern Yala Province. ](/news/2018/01/22/a-motorcycle-bomb-kills-at-least-three-people-and-wounds-22-others-at-a-market-in-thailand-s-southern-yala-province.md) _Context: Thailand_
+5. [The Bayeux Tapestry, which depicts the Norman conquest of England, is to be displayed in the United Kingdom for the first time after French President Emmanuel Macron agreed to loan it out for the first time in 950 years. Subject to the outcome of tests, the loan is expected to happen somewhere after 2020. ](/news/2018/01/17/the-bayeux-tapestry-which-depicts-the-norman-conquest-of-england-is-to-be-displayed-in-the-united-kingdom-for-the-first-time-after-french.md) _Context: British_

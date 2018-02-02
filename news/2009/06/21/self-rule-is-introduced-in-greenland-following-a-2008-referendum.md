@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/21/self-rule-is-introduced-in-greenland-following-a-2008-referendum.html)  [JSON](/news/2009/06/21/self-rule-is-introduced-in-greenland-following-a-2008-referendum.json)  [XML](/news/2009/06/21/self-rule-is-introduced-in-greenland-following-a-2008-referendum.xml)  
+
 ### [2009-06-21](/news/2009/06/21/index.md)
 
+##### Self-rule
 #  Self-rule is introduced in Greenland following a 2008 referendum. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8111292.stm)
 

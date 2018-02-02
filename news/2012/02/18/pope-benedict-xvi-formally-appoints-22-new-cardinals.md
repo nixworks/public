@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2012/02/18/pope-benedict-xvi-formally-appoints-22-new-cardinals.html)  [JSON](/news/2012/02/18/pope-benedict-xvi-formally-appoints-22-new-cardinals.json)  [XML](/news/2012/02/18/pope-benedict-xvi-formally-appoints-22-new-cardinals.xml)  
+
 ### [2012-02-18](/news/2012/02/18/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI formally appoints 22 new Cardinals. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/02/18/world/europe/vatican-new-cardinals/index.html?eref=edition)
+
+### Changes:
+
+1. [Roman Catholic Church:Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/roman-catholic-church-ppope-benedict-xvi-formally-appoints-22-new-cardinals.md) _2017-08-25 03:35:05 (First version)_
+2. [Roman Catholic Church:: Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/roman-catholic-church-pope-benedict-xvi-formally-appoints-22-new-cardinals.md) _2017-08-27 03:35:14 (Update)_
+2. [Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/pope-benedict-xvi-formally-appoints-22-new-cardinals.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [Roman Catholic Cardinals meet in Rome in a conclave to appoint a successor to Pope Benedict XVI. ](/news/2013/03/12/roman-catholic-cardinals-meet-in-rome-in-a-conclave-to-appoint-a-successor-to-pope-benedict-xvi.md) _Context: Cardinal, Pope Benedict XVI_
 4. [An internal plot among cardinals to kill Pope Benedict XVI is alleged in Italy. ](/news/2012/02/10/an-internal-plot-among-cardinals-to-kill-pope-benedict-xvi-is-alleged-in-italy.md) _Context: Cardinal, Pope Benedict XVI_
 5. [Pope Benedict XVI appoints Charles J. Chaput, the current Archbishop of Denver, as the head of the Roman Catholic Archdiocese of Philadelphia replacing Cardinal Justin Rigali. ](/news/2011/07/19/pope-benedict-xvi-appoints-charles-j-chaput-the-current-archbishop-of-denver-as-the-head-of-the-roman-catholic-archdiocese-of-philadelphi.md) _Context: Cardinal, Pope Benedict XVI_
-
-### Changes:
-
-1. [Roman Catholic Church:Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/roman-catholic-church-ppope-benedict-xvi-formally-appoints-22-new-cardinals.md) _2017-08-25 03:35:05 (First version)_
-2. [Roman Catholic Church:: Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/roman-catholic-church-pope-benedict-xvi-formally-appoints-22-new-cardinals.md) _2017-08-27 03:35:14 (Update)_
-2. [Pope Benedict XVI formally appoints 22 new Cardinals. ](/news/2012/02/18/pope-benedict-xvi-formally-appoints-22-new-cardinals.md) _(Current version)_

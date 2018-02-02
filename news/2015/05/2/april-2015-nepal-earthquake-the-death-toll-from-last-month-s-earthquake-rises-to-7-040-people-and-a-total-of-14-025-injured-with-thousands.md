@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/2/april-2015-nepal-earthquake-the-death-toll-from-last-month-s-earthquake-rises-to-7-040-people-and-a-total-of-14-025-injured-with-thousands.html)  [JSON](/news/2015/05/2/april-2015-nepal-earthquake-the-death-toll-from-last-month-s-earthquake-rises-to-7-040-people-and-a-total-of-14-025-injured-with-thousands.json)  [XML](/news/2015/05/2/april-2015-nepal-earthquake-the-death-toll-from-last-month-s-earthquake-rises-to-7-040-people-and-a-total-of-14-025-injured-with-thousands.xml)  
+
 ### [2015-05-2](/news/2015/05/2/index.md)
 
+##### suspicions
 # April 2015 Nepal earthquake: The death toll from last month's earthquake rises to 7,040 people and a total of 14,025 injured with thousands missing. Authorities in Nepal have given up hope of finding more survivors in the rubble. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-32561985)
 2. [CNN](http://edition.cnn.com/2015/05/02/asia/nepal-earthquake/index.html)

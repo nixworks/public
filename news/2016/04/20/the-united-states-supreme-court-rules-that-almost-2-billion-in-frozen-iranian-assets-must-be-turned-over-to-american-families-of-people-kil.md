@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/the-united-states-supreme-court-rules-that-almo
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### Supreme Court of the United States
 # The United States Supreme Court rules that almost $2 billion in frozen Iranian assets must be turned over to American families of people killed in attacks blamed on Iran, including the 1983 bombing of a U.S. Marine Corps barracks in Beirut, Lebanon. 
 
  The U.S. Supreme Court on Wednesday ruled that almost $2 billion in frozen Iranian assets must be turned over to American families of people killed in the 1983

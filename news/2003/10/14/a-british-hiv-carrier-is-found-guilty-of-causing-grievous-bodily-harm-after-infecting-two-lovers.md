@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/14/a-british-hiv-carrier-is-found-guilty-of-causing-grievous-bodily-harm-after-infecting-two-lovers.html)  [JSON](/news/2003/10/14/a-british-hiv-carrier-is-found-guilty-of-causing-grievous-bodily-harm-after-infecting-two-lovers.json)  [XML](/news/2003/10/14/a-british-hiv-carrier-is-found-guilty-of-causing-grievous-bodily-harm-after-infecting-two-lovers.xml)  
+
 ### [2003-10-14](/news/2003/10/14/index.md)
 
+##### HIV
 #  A British HIV carrier is found guilty of causing grievous bodily harm after infecting two lovers.
 
 

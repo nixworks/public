@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/6/at-least-five-people-are-reported-shot-at-a-workplace-apple-valley-farms-a-poultry-and-meat-processing-plant-with-about-50-employees-in-c.html)  [JSON](/news/2012/11/6/at-least-five-people-are-reported-shot-at-a-workplace-apple-valley-farms-a-poultry-and-meat-processing-plant-with-about-50-employees-in-c.json)  [XML](/news/2012/11/6/at-least-five-people-are-reported-shot-at-a-workplace-apple-valley-farms-a-poultry-and-meat-processing-plant-with-about-50-employees-in-c.xml)  
+
 ### [2012-11-6](/news/2012/11/6/index.md)
 
+##### Fresno, California
 # At least five people are reported shot at a workplace (Apple Valley Farms, a poultry and meat processing plant with about 50 employees) in central Fresno, California, according to the "Fresno Bee" newspaper. Initial reports have said that the gunman then shot himself nearby. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN](http://t.news.msn.com/us/deadly-shooting-reported-at-calif-business)
 

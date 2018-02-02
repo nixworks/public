@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/19/alpha-a-cern-experiment-has-observed-for-the-fi
 
 ### [2016-12-19](/news/2016/12/19/index.md)
 
+##### ALPHA
 # ALPHA, a CERN experiment, has observed for the first time the spectrum of antihydrogen. 
 
 

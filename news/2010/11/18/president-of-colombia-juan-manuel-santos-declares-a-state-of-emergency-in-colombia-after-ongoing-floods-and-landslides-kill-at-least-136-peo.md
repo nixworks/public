@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/18/president-of-colombia-juan-manuel-santos-declares-a-state-of-emergency-in-colombia-after-ongoing-floods-and-landslides-kill-at-least-136-peo.html)  [JSON](/news/2010/11/18/president-of-colombia-juan-manuel-santos-declares-a-state-of-emergency-in-colombia-after-ongoing-floods-and-landslides-kill-at-least-136-peo.json)  [XML](/news/2010/11/18/president-of-colombia-juan-manuel-santos-declares-a-state-of-emergency-in-colombia-after-ongoing-floods-and-landslides-kill-at-least-136-peo.xml)  
+
 ### [2010-11-18](/news/2010/11/18/index.md)
 
+##### Colombian President
 # President of Colombia Juan Manuel Santos declares a state of emergency in Colombia after ongoing floods and landslides kill at least 136 people and the flooding spreads to the capital, Bogot. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/americas/11/19/colombia.rain.calamity/)
 2. [Colombia Reports](http://colombiareports.com/colombia-news/news/12996-colombia-declares-state-of-public-calamity-over-rains.html)

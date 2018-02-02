@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/20/maoist-guerrillas-ambushed-a-police-van-in-jharkhand-a-state-in-eastern-india-killing-18-people-mostly-police-officers-at-least-20-polic.html)  [JSON](/news/2002/12/20/maoist-guerrillas-ambushed-a-police-van-in-jharkhand-a-state-in-eastern-india-killing-18-people-mostly-police-officers-at-least-20-polic.json)  [XML](/news/2002/12/20/maoist-guerrillas-ambushed-a-police-van-in-jharkhand-a-state-in-eastern-india-killing-18-people-mostly-police-officers-at-least-20-polic.xml)  
+
 ### [2002-12-20](/news/2002/12/20/index.md)
 
+##### Jharkhand
 # Maoist guerrillas ambushed a police van in Jharkhand, a state in eastern India, killing 18 people, mostly police officers. At least 20 policemen were wounded in the ambush and the gunbattle that followed.
 
 

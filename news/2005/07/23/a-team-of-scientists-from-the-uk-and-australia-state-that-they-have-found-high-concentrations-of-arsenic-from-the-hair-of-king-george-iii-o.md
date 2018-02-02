@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/23/a-team-of-scientists-from-the-uk-and-australia-state-that-they-have-found-high-concentrations-of-arsenic-from-the-hair-of-king-george-iii-o.html)  [JSON](/news/2005/07/23/a-team-of-scientists-from-the-uk-and-australia-state-that-they-have-found-high-concentrations-of-arsenic-from-the-hair-of-king-george-iii-o.json)  [XML](/news/2005/07/23/a-team-of-scientists-from-the-uk-and-australia-state-that-they-have-found-high-concentrations-of-arsenic-from-the-hair-of-king-george-iii-o.xml)  
+
 ### [2005-07-23](/news/2005/07/23/index.md)
 
+##### arsenic
 #  A team of scientists from the UK and Australia state that they have found high concentrations of arsenic from the hair of King George III of the United Kingdom. Medication containing arsenic could have caused him bouts of madness 
 
 According to a newly released study, high concentrations of arsenic have been found in a sample of King George III&#39;s hair, and this, say the authors, may have contributed to his unusually severe and prolonged bouts of madness.
 
 
-### Source:
+### Sources:
 
 1. [News-medical.net](http://www.news-medical.net/?id=11945)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=oddlyEnoughNews&storyID=2005-07-22T142632Z_01_L21710269_RTRIDST_0_ODD-BRITAIN-GEORGE-DC.XML)

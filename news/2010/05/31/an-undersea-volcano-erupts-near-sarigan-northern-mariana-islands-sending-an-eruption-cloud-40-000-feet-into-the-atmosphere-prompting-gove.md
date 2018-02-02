@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/31/an-undersea-volcano-erupts-near-sarigan-northern-mariana-islands-sending-an-eruption-cloud-40-000-feet-into-the-atmosphere-prompting-gove.html)  [JSON](/news/2010/05/31/an-undersea-volcano-erupts-near-sarigan-northern-mariana-islands-sending-an-eruption-cloud-40-000-feet-into-the-atmosphere-prompting-gove.json)  [XML](/news/2010/05/31/an-undersea-volcano-erupts-near-sarigan-northern-mariana-islands-sending-an-eruption-cloud-40-000-feet-into-the-atmosphere-prompting-gove.xml)  
+
 ### [2010-05-31](/news/2010/05/31/index.md)
 
+##### undersea volcano
 # An undersea volcano erupts near Sarigan, Northern Mariana Islands, sending an eruption cloud 40,000 feet into the atmosphere, prompting Governor Benigno Fitial to declare a state of emergency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?cat=1&newsID=100077)
 2. [The Wall Street Journal](http://online.wsj.com/article/SB10001424052748704366504575278212516510890.html)

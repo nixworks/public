@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/2/members-of-the-south-asian-association-for-regional-cooperation-meet-to-discuss-trade-terrorism-and-poverty-tensions-between-india-and-p.html)  [JSON](/news/2008/08/2/members-of-the-south-asian-association-for-regional-cooperation-meet-to-discuss-trade-terrorism-and-poverty-tensions-between-india-and-p.json)  [XML](/news/2008/08/2/members-of-the-south-asian-association-for-regional-cooperation-meet-to-discuss-trade-terrorism-and-poverty-tensions-between-india-and-p.xml)  
+
 ### [2008-08-2](/news/2008/08/2/index.md)
 
+##### South Asian Association for Regional Cooperation
 #  Members of the South Asian Association for Regional Cooperation meet to discuss trade, terrorism, and poverty. Tensions between India and Pakistan threaten to overshadow the eight-nation gathering. 
 
 The leaders of South Asia called for fighting terrorism together as a regional summit overshadowed by worsening ties between India and Pakistan, its biggest members, opened on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5idIwCbsAs8NWJoV2hFuJ0iMmpm0g)
 2. [Reuters](http://in.reuters.com/article/topNews/idINIndia-34792620080802)

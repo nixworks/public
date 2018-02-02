@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/01/7/ghana-says-a-threat-of-force-by-the-economic-community-of-west-african-states-to-remove-ivorian-president-laurent-gbagbo-would-not-bring-ab.html)  [JSON](/news/2011/01/7/ghana-says-a-threat-of-force-by-the-economic-community-of-west-african-states-to-remove-ivorian-president-laurent-gbagbo-would-not-bring-ab.json)  [XML](/news/2011/01/7/ghana-says-a-threat-of-force-by-the-economic-community-of-west-african-states-to-remove-ivorian-president-laurent-gbagbo-would-not-bring-ab.xml)  
+
 ### [2011-01-7](/news/2011/01/7/index.md)
 
+##### Ghana
 # Ghana says a threat of force by the Economic Community of West African States to remove Ivorian President Laurent Gbagbo would "not bring about peace" in the country. 
 
+A plan by West African leaders for a military intervention in Ivory Coast’s political conflict is not likely to bring peace to the country, said John Atta Mills, president of neighboring Ghana.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-01-07/ghana-s-mills-says-military-plan-may-not-bring-peace-in-ivory-coast-crisis.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-01-07/ghana-s-mills-says-military-plan-may-not-bring-peace-in-ivory-coast-crisis.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

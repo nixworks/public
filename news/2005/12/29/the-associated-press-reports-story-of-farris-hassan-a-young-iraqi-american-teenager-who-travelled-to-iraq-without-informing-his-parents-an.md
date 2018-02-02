@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/12/29/the-associated-press-reports-story-of-farris-hassan-a-young-iraqi-american-teenager-who-travelled-to-iraq-without-informing-his-parents-an.html)  [JSON](/news/2005/12/29/the-associated-press-reports-story-of-farris-hassan-a-young-iraqi-american-teenager-who-travelled-to-iraq-without-informing-his-parents-an.json)  [XML](/news/2005/12/29/the-associated-press-reports-story-of-farris-hassan-a-young-iraqi-american-teenager-who-travelled-to-iraq-without-informing-his-parents-an.xml)  
+
 ### [2005-12-29](/news/2005/12/29/index.md)
 
+##### Associated Press
 #  The Associated Press reports story of Farris Hassan, a young Iraqi-American teenager who travelled to Iraq without informing his parents and was picked up by the 101st Airborne.
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/s/ap/20051230/ap_on_re_mi_ea/journey_to_iraq)
+1. [AP](https://news.yahoo.com/s/ap/20051230/ap_on_re_mi_ea/journey_to_iraq)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/26/japan-s-new-prime-minister-shinza-abe-unveils-his-cabinet-line-up-as-he-begins-the-task-of-economic-revitalisation.html)  [JSON](/news/2012/12/26/japan-s-new-prime-minister-shinza-abe-unveils-his-cabinet-line-up-as-he-begins-the-task-of-economic-revitalisation.json)  [XML](/news/2012/12/26/japan-s-new-prime-minister-shinza-abe-unveils-his-cabinet-line-up-as-he-begins-the-task-of-economic-revitalisation.xml)  
+
 ### [2012-12-26](/news/2012/12/26/index.md)
 
+##### Japan
 # Japan's new Prime Minister Shinzo Abe unveils his cabinet line-up as he begins the task of economic revitalisation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDefault/*/Article_2012-12-26-Japan-Politics/id-625146b879094f4ca50e18df9b20fc84)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-20842840)

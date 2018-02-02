@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/24/the-congolese-army-launches-an-offensive-against-fdlr-rebels-in-south-kivu.html)  [JSON](/news/2015/02/24/the-congolese-army-launches-an-offensive-against-fdlr-rebels-in-south-kivu.json)  [XML](/news/2015/02/24/the-congolese-army-launches-an-offensive-against-fdlr-rebels-in-south-kivu.xml)  
+
 ### [2015-02-24](/news/2015/02/24/index.md)
 
+##### Congolese Army
 # The Congolese Army launches an offensive against FDLR rebels in South Kivu. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/congo-army-launch-offensive-rebels-south-kivu-29191544)
 

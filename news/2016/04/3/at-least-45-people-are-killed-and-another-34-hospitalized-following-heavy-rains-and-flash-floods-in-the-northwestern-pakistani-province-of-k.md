@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/3/at-least-45-people-are-killed-and-another-34-hos
 
 ### [2016-04-3](/news/2016/04/3/index.md)
 
+##### 2016 Khyber Pakhtunkhwa flood
 # At least 45 people are killed and another 34 hospitalized following heavy rains and flash floods in the northwestern Pakistani province of Khyber Pakhtunkhwa. 
 
 Several homes, standing crops and orchards also destroyed across the province.

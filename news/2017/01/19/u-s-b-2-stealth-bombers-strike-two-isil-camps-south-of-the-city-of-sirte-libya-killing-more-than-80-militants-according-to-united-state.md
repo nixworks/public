@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/19/u-s-b-2-stealth-bombers-strike-two-isil-camps-s
 
 ### [2017-01-19](/news/2017/01/19/index.md)
 
+##### Libyan Civil War (2014-present)
 # U.S. B-2 stealth bombers strike two ISIL camps, south of the city of Sirte, Libya, killing more than 80 militants, according to United States Secretary of Defense Ash Carter. 
 
 U.S. officials confirm that two Air Force stealth B-2 bombers struck two ISIS camps in Libya 28 miles south of Sirte on Wednesday night. One official called the airstrikes &quot;a huge success,&quot; with more than 80 ISIS fighters killed. The airstrikes targeted 80 to 100 ISIS fighters in multiple camps...

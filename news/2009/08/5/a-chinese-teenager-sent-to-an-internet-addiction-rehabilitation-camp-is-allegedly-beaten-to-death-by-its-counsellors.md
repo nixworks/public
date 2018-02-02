@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/5/a-chinese-teenager-sent-to-an-internet-addiction-rehabilitation-camp-is-allegedly-beaten-to-death-by-its-counsellors.html)  [JSON](/news/2009/08/5/a-chinese-teenager-sent-to-an-internet-addiction-rehabilitation-camp-is-allegedly-beaten-to-death-by-its-counsellors.json)  [XML](/news/2009/08/5/a-chinese-teenager-sent-to-an-internet-addiction-rehabilitation-camp-is-allegedly-beaten-to-death-by-its-counsellors.xml)  
+
 ### [2009-08-5](/news/2009/08/5/index.md)
 
+##### China
 #  A Chinese teenager sent to an internet addiction rehabilitation camp is allegedly beaten to death by its counsellors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/8185412.stm)
 2. [Global Times](http://china.globaltimes.cn/society/2009-08/453958.html)

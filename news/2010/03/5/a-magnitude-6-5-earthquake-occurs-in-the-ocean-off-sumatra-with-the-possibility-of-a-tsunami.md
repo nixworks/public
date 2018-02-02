@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/5/a-magnitude-6-5-earthquake-occurs-in-the-ocean-off-sumatra-with-the-possibility-of-a-tsunami.html)  [JSON](/news/2010/03/5/a-magnitude-6-5-earthquake-occurs-in-the-ocean-off-sumatra-with-the-possibility-of-a-tsunami.json)  [XML](/news/2010/03/5/a-magnitude-6-5-earthquake-occurs-in-the-ocean-off-sumatra-with-the-possibility-of-a-tsunami.xml)  
+
 ### [2010-03-5](/news/2010/03/5/index.md)
 
+##### Sumatra
 # A magnitude 6.5 earthquake occurs in the ocean off Sumatra with the possibility of a tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/03/05/indonesia.earthquake/index.html)
 

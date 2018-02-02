@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/11/jonathan-ben-artzi-nephew-of-benjamin-netanyahu-former-prime-minister-of-israel-is-court-martialed-for-refusing-to-serve-in-the-israeli.html)  [JSON](/news/2003/03/11/jonathan-ben-artzi-nephew-of-benjamin-netanyahu-former-prime-minister-of-israel-is-court-martialed-for-refusing-to-serve-in-the-israeli.json)  [XML](/news/2003/03/11/jonathan-ben-artzi-nephew-of-benjamin-netanyahu-former-prime-minister-of-israel-is-court-martialed-for-refusing-to-serve-in-the-israeli.xml)  
+
 ### [2003-03-11](/news/2003/03/11/index.md)
 
+##### Jonathan Ben-Artzi
 #  Jonathan Ben-Artzi, nephew of Benjamin Netanyahu (former prime minister of Israel), is court martialed for refusing to serve in the Israeli Defence Force on pacifist grounds.
 
 

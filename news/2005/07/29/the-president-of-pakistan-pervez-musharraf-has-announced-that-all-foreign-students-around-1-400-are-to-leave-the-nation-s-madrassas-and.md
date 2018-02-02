@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/29/the-president-of-pakistan-pervez-musharraf-has-announced-that-all-foreign-students-around-1-400-are-to-leave-the-nation-s-madrassas-and.html)  [JSON](/news/2005/07/29/the-president-of-pakistan-pervez-musharraf-has-announced-that-all-foreign-students-around-1-400-are-to-leave-the-nation-s-madrassas-and.json)  [XML](/news/2005/07/29/the-president-of-pakistan-pervez-musharraf-has-announced-that-all-foreign-students-around-1-400-are-to-leave-the-nation-s-madrassas-and.xml)  
+
 ### [2005-07-29](/news/2005/07/29/index.md)
 
+##### president
 #  The President of Pakistan, Pervez Musharraf, has announced that all foreign students (around 1,400) are to leave the nation's Madrassas and go home. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4728643.stm)
 

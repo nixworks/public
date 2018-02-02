@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/13/voters-elect-wang-rong-chairman-of-the-people-s-political-consultative-conference-of-guangdong-province-in-china-replacing-zhu-mingguo-wh.html)  [JSON](/news/2015/02/13/voters-elect-wang-rong-chairman-of-the-people-s-political-consultative-conference-of-guangdong-province-in-china-replacing-zhu-mingguo-wh.json)  [XML](/news/2015/02/13/voters-elect-wang-rong-chairman-of-the-people-s-political-consultative-conference-of-guangdong-province-in-china-replacing-zhu-mingguo-wh.xml)  
+
 ### [2015-02-13](/news/2015/02/13/index.md)
 
+##### Wang Rong
 # Voters elect Wang Rong Chairman of the People's Political Consultative Conference of Guangdong province, in China, replacing Zhu Mingguo, who was dismissed for corruption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SCMP](http://www.scmp.com/news/china/article/1709289/shenzhen-party-chief-wang-rong-tipped-become-guangdongs-cppcc-chairman)
 

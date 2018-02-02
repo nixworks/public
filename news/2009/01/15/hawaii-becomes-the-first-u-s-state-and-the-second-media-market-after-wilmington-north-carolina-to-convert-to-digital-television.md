@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/15/hawaii-becomes-the-first-u-s-state-and-the-second-media-market-after-wilmington-north-carolina-to-convert-to-digital-television.html)  [JSON](/news/2009/01/15/hawaii-becomes-the-first-u-s-state-and-the-second-media-market-after-wilmington-north-carolina-to-convert-to-digital-television.json)  [XML](/news/2009/01/15/hawaii-becomes-the-first-u-s-state-and-the-second-media-market-after-wilmington-north-carolina-to-convert-to-digital-television.xml)  
+
 ### [2009-01-15](/news/2009/01/15/index.md)
 
+##### Hawaii
 #  Hawaii becomes the first U.S. state and the second media market after Wilmington, North Carolina, to convert to digital television. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Honolulu Star Bulletin](http://www.starbulletin.com/business/20090114_Hawaii_makes_DTV_switch_tomorrow.html)
 

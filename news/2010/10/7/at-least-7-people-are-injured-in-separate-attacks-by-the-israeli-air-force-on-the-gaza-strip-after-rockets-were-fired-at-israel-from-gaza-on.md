@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/7/at-least-7-people-are-injured-in-separate-attacks-by-the-israeli-air-force-on-the-gaza-strip-after-rockets-were-fired-at-israel-from-gaza-on.html)  [JSON](/news/2010/10/7/at-least-7-people-are-injured-in-separate-attacks-by-the-israeli-air-force-on-the-gaza-strip-after-rockets-were-fired-at-israel-from-gaza-on.json)  [XML](/news/2010/10/7/at-least-7-people-are-injured-in-separate-attacks-by-the-israeli-air-force-on-the-gaza-strip-after-rockets-were-fired-at-israel-from-gaza-on.xml)  
+
 ### [2010-10-7](/news/2010/10/7/index.md)
 
+##### Israeli Air Force
 # At least 7 people are injured in separate attacks by the Israeli Air Force on the Gaza Strip after rockets were fired at Israel from Gaza on Wednesday. 
 
 Air Force targets vehicle in central Strip belonging to terrorist who was planning attack in Israeli territory
 
 
-### Source:
+### Sources:
 
 1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2010%5C10%5C08%5Cstory_8-10-2010_pg4_9)
 2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3966095,00.html)

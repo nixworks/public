@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/06/21/apple-computer-released-the-first-ibook.html)  [JSON](/news/1999/06/21/apple-computer-released-the-first-ibook.json)  [XML](/news/1999/06/21/apple-computer-released-the-first-ibook.xml)  
+
 ### [1999-06-21](/news/1999/06/21/index.md)
 
+##### Apple Computer
 #  Apple Computer released the first iBook
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/22/an-explosion-occurs-at-a-chemical-warehouse-in-china-s-shandong-province-with-nine-people-injured-according-to-chinese-media.html)  [JSON](/news/2015/08/22/an-explosion-occurs-at-a-chemical-warehouse-in-china-s-shandong-province-with-nine-people-injured-according-to-chinese-media.json)  [XML](/news/2015/08/22/an-explosion-occurs-at-a-chemical-warehouse-in-china-s-shandong-province-with-nine-people-injured-according-to-chinese-media.xml)  
+
 ### [2015-08-22](/news/2015/08/22/index.md)
 
+##### China
 # An explosion occurs at a chemical warehouse in China's Shandong province, with nine people injured according to Chinese media. 
 
 An explosion and fire has occurred at a chemical warehouse in Shandong province in eastern China, shattering windows in nearby houses and injuring at least nine people. The site which contains potentially dangerous chemicals is only one kilometer from a residential area.
 
 
-### Source:
+### Sources:
 
 1. [RT](http://www.rt.com/news/313116-china-chemical-plant-explosion/)
 1. [Cover Image](https://img.rt.com/files/2015.08/article/55d891e4c4618802428b45a8.jpg)

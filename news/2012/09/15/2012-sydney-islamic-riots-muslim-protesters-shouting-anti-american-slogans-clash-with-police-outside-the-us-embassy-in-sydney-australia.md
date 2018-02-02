@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/15/2012-sydney-islamic-riots-muslim-protesters-shouting-anti-american-slogans-clash-with-police-outside-the-us-embassy-in-sydney-australia.html)  [JSON](/news/2012/09/15/2012-sydney-islamic-riots-muslim-protesters-shouting-anti-american-slogans-clash-with-police-outside-the-us-embassy-in-sydney-australia.json)  [XML](/news/2012/09/15/2012-sydney-islamic-riots-muslim-protesters-shouting-anti-american-slogans-clash-with-police-outside-the-us-embassy-in-sydney-australia.xml)  
+
 ### [2012-09-15](/news/2012/09/15/index.md)
 
+##### 2012 Sydney Islamic riots
 # 2012 Sydney Islamic riots: Muslim protesters shouting anti-American slogans clash with police outside the US embassy in Sydney, Australia. 
 
 Angry&#x20;demonstrations&#x20;and&#x20;riots&#x20;over&#x20;an&#x20;anti-Islamic&#x20;film&#x20;escalated&#x20;across&#x20;the&#x20;Muslim&#x20;world&#x20;on&#x20;Friday&#x20;and&#x20;spilled&#x20;over&#x20;into&#x20;Saturday,&#x20;killing&#x20;several&#x20;people&#x20;and&#x20;reaching&#x20;as&#x20;far&#x20;as&#x20;Sydney&#x20;and&#x20;the&#x20;Maldives,&#x20;as&#x20;police&#x20;struggled&#x20;to&#x20;protect&#x20;US&#x20;embassies.
 
 
-### Source:
+### Sources:
 
 1. [AdelaideNow](http://www.adelaidenow.com.au/police-use-pepper-spray-on-anti-islamic-film-protesters-in-sydney-at-the-us-consulate/story-e6frea6u-1226474744811)
 2. [France 24](http://www.france24.com/en/20120915-deadly-anti-us-protests-spread-muslim-world-sydney-stevens-embassies-obama)

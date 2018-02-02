@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/17/belarus-executes-vladislav-kovalev-one-of-the-men-convicted-of-the-2011-minsk-metro-bombing.html)  [JSON](/news/2012/03/17/belarus-executes-vladislav-kovalev-one-of-the-men-convicted-of-the-2011-minsk-metro-bombing.json)  [XML](/news/2012/03/17/belarus-executes-vladislav-kovalev-one-of-the-men-convicted-of-the-2011-minsk-metro-bombing.xml)  
+
 ### [2012-03-17](/news/2012/03/17/index.md)
 
+##### Belarus
 # Belarus executes Vladislav Kovalev, one of the men convicted of the 2011 Minsk Metro bombing. 
 
 The two men convicted of the April 2011 Minsk subway bombing have been executed according to Belarusian state television. EU members had urged Belarus not to carry out the executions and have strongly condemned them.
 
 
-### Source:
+### Sources:
 
 1. [Russia Today](http://rt.com/news/minsk-subway-executed-blast-811/)
 1. [Cover Image](https://img.rt.com/files/oldfiles/news/minsk-subway-executed-blast-811/vladislav-kovalev.si.jpg)

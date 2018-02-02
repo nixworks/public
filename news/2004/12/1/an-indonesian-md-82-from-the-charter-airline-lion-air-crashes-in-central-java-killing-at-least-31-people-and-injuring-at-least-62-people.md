@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/12/1/an-indonesian-md-82-from-the-charter-airline-lion-air-crashes-in-central-java-killing-at-least-31-people-and-injuring-at-least-62-people.html)  [JSON](/news/2004/12/1/an-indonesian-md-82-from-the-charter-airline-lion-air-crashes-in-central-java-killing-at-least-31-people-and-injuring-at-least-62-people.json)  [XML](/news/2004/12/1/an-indonesian-md-82-from-the-charter-airline-lion-air-crashes-in-central-java-killing-at-least-31-people-and-injuring-at-least-62-people.xml)  
+
 ### [2004-12-1](/news/2004/12/1/index.md)
 
+##### Indonesia
 #  An Indonesian MD-82 from the charter airline Lion Air crashes in Central Java, killing at least 31 people and injuring at least 62 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2004/WORLD/asiapcf/11/30/indonesia.crash.ap/index.html)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml;jsessionid=T2CCB0AKQXPRWCRBAELCFFA?type=worldNews&storyID=6956244&section=news)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml;jsessionid=T2CCB0AKQXPRWCRBAELCFFA?type=worldNews&storyID=6956244&section=news)
 
 ### Related:
 

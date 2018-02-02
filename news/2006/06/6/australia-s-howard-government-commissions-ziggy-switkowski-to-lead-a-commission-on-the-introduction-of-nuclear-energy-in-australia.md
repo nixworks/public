@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/06/6/australia-s-howard-government-commissions-ziggy-switkowski-to-lead-a-commission-on-the-introduction-of-nuclear-energy-in-australia.html)  [JSON](/news/2006/06/6/australia-s-howard-government-commissions-ziggy-switkowski-to-lead-a-commission-on-the-introduction-of-nuclear-energy-in-australia.json)  [XML](/news/2006/06/6/australia-s-howard-government-commissions-ziggy-switkowski-to-lead-a-commission-on-the-introduction-of-nuclear-energy-in-australia.xml)  
+
 ### [2006-06-6](/news/2006/06/6/index.md)
 
+##### Australia
 #  Australia's Howard government commissions Ziggy Switkowski to lead a commission on the introduction of nuclear energy in Australia. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000081&sid=a8FWypVoSMzQ&refer=australia)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000081&sid=a8FWypVoSMzQ&refer=australia)
 
 ### Related:
 

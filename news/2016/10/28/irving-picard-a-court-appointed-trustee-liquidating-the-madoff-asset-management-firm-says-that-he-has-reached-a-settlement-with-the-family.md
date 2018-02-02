@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/28/irving-picard-a-court-appointed-trustee-liquida
 
 ### [2016-10-28](/news/2016/10/28/index.md)
 
+##### Bernard Madoff
 # Irving Picard, a court-appointed trustee liquidating the Madoff asset management firm, says that he has reached a settlement with the family of the late Stanley Chais, in connection with monies that had been funneled from California investors, through Chais, into Madoff's Ponzi scheme. 
 
 

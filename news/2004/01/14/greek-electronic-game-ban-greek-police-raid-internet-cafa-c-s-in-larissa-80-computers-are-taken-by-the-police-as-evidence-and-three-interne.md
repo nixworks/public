@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/14/greek-electronic-game-ban-greek-police-raid-internet-cafa-c-s-in-larissa-80-computers-are-taken-by-the-police-as-evidence-and-three-interne.html)  [JSON](/news/2004/01/14/greek-electronic-game-ban-greek-police-raid-internet-cafa-c-s-in-larissa-80-computers-are-taken-by-the-police-as-evidence-and-three-interne.json)  [XML](/news/2004/01/14/greek-electronic-game-ban-greek-police-raid-internet-cafa-c-s-in-larissa-80-computers-are-taken-by-the-police-as-evidence-and-three-interne.xml)  
+
 ### [2004-01-14](/news/2004/01/14/index.md)
 
+##### Greek electronic game ban
 #  Greek electronic game ban: Greek police raid Internet cafes in Larissa. 80 computers are taken by the police as evidence and three Internet cafe owners are arrested. (in Greek).
 
 

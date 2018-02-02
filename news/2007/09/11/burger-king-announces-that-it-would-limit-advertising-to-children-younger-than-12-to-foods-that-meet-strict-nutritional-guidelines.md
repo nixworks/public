@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/09/11/burger-king-announces-that-it-would-limit-advertising-to-children-younger-than-12-to-foods-that-meet-strict-nutritional-guidelines.html)  [JSON](/news/2007/09/11/burger-king-announces-that-it-would-limit-advertising-to-children-younger-than-12-to-foods-that-meet-strict-nutritional-guidelines.json)  [XML](/news/2007/09/11/burger-king-announces-that-it-would-limit-advertising-to-children-younger-than-12-to-foods-that-meet-strict-nutritional-guidelines.xml)  
+
 ### [2007-09-11](/news/2007/09/11/index.md)
 
+##### Burger King
 #  Burger King announces that it would limit advertising to children younger than 12 to foods that meet strict nutritional guidelines. 
 
 Fast-food chain Burger King Holdings Inc said on Tuesday that, beginning late next year, it will limit advertising aimed at children younger than 12 to food and drinks that meet strict nutritional guidelines.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSN1142981420070912?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSN1142981420070912?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/10/11/former-south-african-president-thabo-mbeki-will-mediate-between-the-movement-for-democratic-change-and-zimbabwean-president-robert-mugabe-s.html)  [JSON](/news/2008/10/11/former-south-african-president-thabo-mbeki-will-mediate-between-the-movement-for-democratic-change-and-zimbabwean-president-robert-mugabe-s.json)  [XML](/news/2008/10/11/former-south-african-president-thabo-mbeki-will-mediate-between-the-movement-for-democratic-change-and-zimbabwean-president-robert-mugabe-s.xml)  
+
 ### [2008-10-11](/news/2008/10/11/index.md)
 
+##### South Africa
 #  Former South African President Thabo Mbeki will mediate between the Movement for Democratic Change and Zimbabwean President Robert Mugabe's government after Mugabe takes control of ministries that command the military and the police, an action that allegedly violates the power-sharing agreement reached last month. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo News](http://news.yahoo.com/s/afp/20081011/wl_africa_afp/zimbabwepoliticssafricambeki;_ylt=Ai37LfO4CjtzSNFMujnhJAi96Q8F)
+1. [AFP via Yahoo News](https://news.yahoo.com/s/afp/20081011/wl_africa_afp/zimbabwepoliticssafricambeki;_ylt=Ai37LfO4CjtzSNFMujnhJAi96Q8F)
 
 ### Related:
 

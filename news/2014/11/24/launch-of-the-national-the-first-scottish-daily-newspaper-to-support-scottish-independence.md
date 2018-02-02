@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/24/launch-of-the-national-the-first-scottish-daily-newspaper-to-support-scottish-independence.html)  [JSON](/news/2014/11/24/launch-of-the-national-the-first-scottish-daily-newspaper-to-support-scottish-independence.json)  [XML](/news/2014/11/24/launch-of-the-national-the-first-scottish-daily-newspaper-to-support-scottish-independence.xml)  
+
 ### [2014-11-24](/news/2014/11/24/index.md)
 
+##### The National
 # Launch of "The National", the first Scottish daily newspaper to support Scottish independence. 
 
 A brand new daily paper claiming to “fly a vibrant flag for Scottish independence” has launched in Scotland. The National has been pioneered in the wake of September’s independence referendum which saw 45 percent vote in favor of separation.
 
 
-### Source:
+### Sources:
 
 1. [RT](http://rt.com/uk/208371-national-scottish-paper-launches/)
 1. [Cover Image](https://img.rt.com/files/news/32/df/30/00/8.si.jpg)

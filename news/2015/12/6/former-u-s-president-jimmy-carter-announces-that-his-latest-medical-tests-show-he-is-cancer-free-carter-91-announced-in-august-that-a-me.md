@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/6/former-u-s-president-jimmy-carter-announces-that-his-latest-medical-tests-show-he-is-cancer-free-carter-91-announced-in-august-that-a-me.html)  [JSON](/news/2015/12/6/former-u-s-president-jimmy-carter-announces-that-his-latest-medical-tests-show-he-is-cancer-free-carter-91-announced-in-august-that-a-me.json)  [XML](/news/2015/12/6/former-u-s-president-jimmy-carter-announces-that-his-latest-medical-tests-show-he-is-cancer-free-carter-91-announced-in-august-that-a-me.xml)  
+
 ### [2015-12-6](/news/2015/12/6/index.md)
 
+##### U.S.
 # Former U.S. President Jimmy Carter announces that his latest medical tests show he is cancer-free. Carter, 91, announced in August that a melanoma for which he had been treated had returned. 
 
 Former President Jimmy Carter said Sunday his cancer is gone. Carter said in a statement that his most recent MRI brain scan did not reveal any signs of the original cancer spots or any new ones and that he’ll continue his treatment.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/sections/thetwo-way/2015/12/06/458680791/former-president-jimmy-carter-says-he-is-cancer-free)
 2. [The Atlantic Journal-Constitution](http://www.ajc.com/news/news/carter-cancer-is-gone/npdFQ/)

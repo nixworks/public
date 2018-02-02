@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/17/occupation-of-iraq-a-fuel-tanker-explodes-in-downtown-baghdad-killing-10-and-wounding-15-initially-believed-to-be-caused-by-a-bomb-offi.html)  [JSON](/news/2003/12/17/occupation-of-iraq-a-fuel-tanker-explodes-in-downtown-baghdad-killing-10-and-wounding-15-initially-believed-to-be-caused-by-a-bomb-offi.json)  [XML](/news/2003/12/17/occupation-of-iraq-a-fuel-tanker-explodes-in-downtown-baghdad-killing-10-and-wounding-15-initially-believed-to-be-caused-by-a-bomb-offi.xml)  
+
 ### [2003-12-17](/news/2003/12/17/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: A fuel tanker explodes in downtown Baghdad, killing 10 and wounding 15. Initially believed to be caused by a bomb, officials later conclude that a traffic accident was responsible. [http:--news.bbc.co.uk-1-hi-world-middle_east-3326499.stm]
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/30/thousands-of-yazidi-are-believed-to-be-buried-i
 
 ### [2016-08-30](/news/2016/08/30/index.md)
 
+##### Sinjar massacre
 # Thousands of Yazidi are believed to be buried in 72 newly-discovered mass graves left by ISIL after the 2014 massacre. 
 
 

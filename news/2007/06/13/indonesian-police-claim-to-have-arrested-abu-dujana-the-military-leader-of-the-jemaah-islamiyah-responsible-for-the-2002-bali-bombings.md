@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/13/indonesian-police-claim-to-have-arrested-abu-dujana-the-military-leader-of-the-jemaah-islamiyah-responsible-for-the-2002-bali-bombings.html)  [JSON](/news/2007/06/13/indonesian-police-claim-to-have-arrested-abu-dujana-the-military-leader-of-the-jemaah-islamiyah-responsible-for-the-2002-bali-bombings.json)  [XML](/news/2007/06/13/indonesian-police-claim-to-have-arrested-abu-dujana-the-military-leader-of-the-jemaah-islamiyah-responsible-for-the-2002-bali-bombings.xml)  
+
 ### [2007-06-13](/news/2007/06/13/index.md)
 
+##### Indonesia
 #  Indonesian police claim to have arrested Abu Dujana, the military leader of the Jemaah Islamiyah responsible for the 2002 Bali bombings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6747253.stm)
 

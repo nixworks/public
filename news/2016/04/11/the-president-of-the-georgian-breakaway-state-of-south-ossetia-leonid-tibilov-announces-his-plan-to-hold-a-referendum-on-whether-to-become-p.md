@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/11/the-president-of-the-georgian-breakaway-state-o
 
 ### [2016-04-11](/news/2016/04/11/index.md)
 
+##### President
 # The President of the Georgian breakaway state of South Ossetia Leonid Tibilov announces his plan to hold a referendum on whether to become part of Russia or to keep its "de facto" independence before August of this year. This comes after South Ossetia signed various agreements further integrating the region with Russia. 
 
 Issues of changing a certain article of the South Ossetian constitution will be put to referendum, which will make it possible in the future to ask the Russian leadership to incorporate the republic

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/7/the-syrian-army-captures-at-least-23-villages-in
 
 ### [2017-03-7](/news/2017/03/7/index.md)
 
+##### Syrian Civil War
 # The Syrian Army captures at least 23 villages in North East Aleppo Governorate from ISIL in a matter of hours after an ISIL withdrawal caused by the SAA capturing Al-Khafsah. 
 
 BEIRUT, LEBANON (10:00 P.M.) – Following the capture of Al-Khafsah town earlier in the day, the Syrian Arab Army&#039;s (SAA) swept through a large ISIS enclave

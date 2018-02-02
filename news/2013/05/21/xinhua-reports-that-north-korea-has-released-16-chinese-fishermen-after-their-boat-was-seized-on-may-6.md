@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/21/xinhua-reports-that-north-korea-has-released-16-chinese-fishermen-after-their-boat-was-seized-on-may-6.html)  [JSON](/news/2013/05/21/xinhua-reports-that-north-korea-has-released-16-chinese-fishermen-after-their-boat-was-seized-on-may-6.json)  [XML](/news/2013/05/21/xinhua-reports-that-north-korea-has-released-16-chinese-fishermen-after-their-boat-was-seized-on-may-6.xml)  
+
 ### [2013-05-21](/news/2013/05/21/index.md)
 
+##### Xinhua
 # Xinhua reports that North Korea has released 16 Chinese fishermen after their boat was seized on May 6. 
 
 This after reports that armed assailants had taken the sailors hostage and demanded a ransom. -AFP
 
 
-### Source:
+### Sources:
 
 1. [AFP via Asia One](http://www.asiaone.com/News/AsiaOne%2BNews/Asia/Story/A1Story20130521-424212.html)
 1. [Cover Image](http://www.asiaone.com/A1MEDIA/news/05May13/20130521.114239_20130521-fishtn.jpg)
@@ -13,7 +17,7 @@ This after reports that armed assailants had taken the sailors hostage and deman
 ### Related:
 
 1. [The Xinhua news agency reports that 25 Chinese workers held captive in the Sinai region of Egypt have been released. ](/news/2012/02/1/the-xinhua-news-agency-reports-that-25-chinese-workers-held-captive-in-the-sinai-region-of-egypt-have-been-released.md) _Context: Chinese, Xinhua_
-2. [Two women charged with the assassination of Kim Jong-nam plead not guilty in a Malaysian court because they thought it was a TV prank. Kim Jong-nam was the eldest son of deceased North Korean leader Kim Jong-il and the half-brother of current North Korean leader Kim Jong-un. ](/news/2017/10/2/two-women-charged-with-the-assassination-of-kim-jong-nam-plead-not-guilty-in-a-malaysian-court-because-they-thought-it-was-a-tv-prank-kim-j.md) _Context: North Korea_
-3. [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md) _Context: North Korea_
-4. [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _Context: North Korea_
-5. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: North Korea_
+2. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: North Korea_
+3. [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md) _Context: North Korea_
+4. [ U.S. President Donald Trump responds to Kim Jong-un's claim of having North Korea's nuclear missile launch button on his desk, boasting that the size of the nuclear missile launch button on his own desk is larger and more powerful than Kim's. ](/news/2018/01/2/u-s-president-donald-trump-responds-to-kim-jong-un-s-claim-of-having-north-korea-s-nuclear-missile-launch-button-on-his-desk-boasting-tha.md) _Context: North Korea_
+5. [South Korean President Moon Jae-in, responding to North Korean leader Kim Jong-un's offer during his New Year's Day address, proposes a meeting to discuss the Winter Olympics and North Korea's nuclear program next Tuesday at the border city of Panmunjom. ](/news/2018/01/2/south-korean-president-moon-jae-in-responding-to-north-korean-leader-kim-jong-un-s-offer-during-his-new-yearas-day-address-proposes-a-me.md) _Context: North Korea_

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/12/the-deadline-for-sco-group-to-present-evidence-with-specificity-in-the-sco-v-ibm-lawsuit-expires.html)  [JSON](/news/2004/01/12/the-deadline-for-sco-group-to-present-evidence-with-specificity-in-the-sco-v-ibm-lawsuit-expires.json)  [XML](/news/2004/01/12/the-deadline-for-sco-group-to-present-evidence-with-specificity-in-the-sco-v-ibm-lawsuit-expires.xml)  
+
 ### [2004-01-12](/news/2004/01/12/index.md)
 
+##### SCO Group
 #  The deadline for SCO Group to present evidence "with specificity" in the "SCO v. IBM" lawsuit expires
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/31/the-u-s-fourth-circuit-court-of-appeals-rules-1
 
 ### [2016-05-31](/news/2016/05/31/index.md)
 
+##### Fourth Circuit Appeals Court
 #  The U.S. Fourth Circuit Court of Appeals rules (12-3) a warrant is not required for police to obtain a person's cellphone location data from wireless carriers. 
 
 

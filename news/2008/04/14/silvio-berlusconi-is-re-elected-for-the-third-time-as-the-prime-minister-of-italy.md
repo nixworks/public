@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/14/silvio-berlusconi-is-re-elected-for-the-third-time-as-the-prime-minister-of-italy.html)  [JSON](/news/2008/04/14/silvio-berlusconi-is-re-elected-for-the-third-time-as-the-prime-minister-of-italy.json)  [XML](/news/2008/04/14/silvio-berlusconi-is-re-elected-for-the-third-time-as-the-prime-minister-of-italy.xml)  
+
 ### [2008-04-14](/news/2008/04/14/index.md)
 
+##### Silvio Berlusconi
 #  Silvio Berlusconi is re-elected for the third time as the Prime Minister of Italy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The International Herald Tribune](http://www.iht.com/articles/2008/04/14/europe/italy.php)
 

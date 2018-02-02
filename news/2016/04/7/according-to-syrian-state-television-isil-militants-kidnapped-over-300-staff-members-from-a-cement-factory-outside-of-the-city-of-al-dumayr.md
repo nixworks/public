@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/7/according-to-syrian-state-television-isil-milita
 
 ### [2016-04-7](/news/2016/04/7/index.md)
 
+##### Syrian Civil War
 # According to Syrian state television, ISIL militants kidnapped over 300 staff members from a cement factory outside of the city of Al-Dumayr earlier this week and no contact with them has been made since. 
 
 Staff at cement plant near town of Dumayr abducted by ISIL fighters and moved to unknown location, reports say.

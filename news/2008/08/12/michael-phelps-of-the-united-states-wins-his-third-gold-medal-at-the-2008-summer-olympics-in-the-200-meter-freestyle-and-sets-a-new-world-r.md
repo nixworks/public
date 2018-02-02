@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/08/12/michael-phelps-of-the-united-states-wins-his-third-gold-medal-at-the-2008-summer-olympics-in-the-200-meter-freestyle-and-sets-a-new-world-r.html)  [JSON](/news/2008/08/12/michael-phelps-of-the-united-states-wins-his-third-gold-medal-at-the-2008-summer-olympics-in-the-200-meter-freestyle-and-sets-a-new-world-r.json)  [XML](/news/2008/08/12/michael-phelps-of-the-united-states-wins-his-third-gold-medal-at-the-2008-summer-olympics-in-the-200-meter-freestyle-and-sets-a-new-world-r.xml)  
+
 ### [2008-08-12](/news/2008/08/12/index.md)
 
+##### Michael Phelps
 #  Michael Phelps of the United States wins his third gold medal at the 2008 Summer Olympics in the 200-meter freestyle and sets a new world record and the 200-meter butterfly in qualifications. 
 
 In his drive for eight gold medals, Michael Phelps won the 200-meter freestyle, setting another world record.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/08/12/sports/olympics/12phelpsweb.html)
+1. [The New York Times](https://www.nytimes.com/2008/08/12/sports/olympics/12phelpsweb.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/08/11/sports/olympics/12phelps01_75.jpg)
 
 ### Related:

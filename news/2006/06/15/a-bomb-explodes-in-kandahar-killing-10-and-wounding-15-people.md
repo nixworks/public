@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/15/a-bomb-explodes-in-kandahar-killing-10-and-wounding-15-people.html)  [JSON](/news/2006/06/15/a-bomb-explodes-in-kandahar-killing-10-and-wounding-15-people.json)  [XML](/news/2006/06/15/a-bomb-explodes-in-kandahar-killing-10-and-wounding-15-people.xml)  
+
 ### [2006-06-15](/news/2006/06/15/index.md)
 
+##### Kandahar
 #  A bomb explodes in Kandahar killing 10 and wounding 15 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://cnews.canoe.ca/CNEWS/World/2006/06/15/1633053-ap.html)
 

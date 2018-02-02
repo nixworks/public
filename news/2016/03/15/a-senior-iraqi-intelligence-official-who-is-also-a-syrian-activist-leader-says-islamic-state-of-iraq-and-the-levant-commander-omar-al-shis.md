@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/15/a-senior-iraqi-intelligence-official-who-is-als
 
 ### [2016-03-15](/news/2016/03/15/index.md)
 
+##### American-led intervention in Syria
 # A senior Iraqi intelligence official, who is also a Syrian activist leader, says Islamic State of Iraq and the Levant commander Omar al-Shishani (Omar the Chechen, real name Tarkhan Tayumurazovich Batirashvili) died of wounds suffered in a March 4 U.S. airstrike near the Syrian town of Al-Shaddadah. The U.S. State Department offered up to $5 million for information on his whereabouts. Amaq news agency, which supports ISIL, says Shishani is neither dead nor hurt. 
 
 The militant, Omar al-Shishani, was the Islamic State’s minister of war, according to the Pentagon.

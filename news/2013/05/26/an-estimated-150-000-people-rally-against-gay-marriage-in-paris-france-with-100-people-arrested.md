@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/26/an-estimated-150-000-people-rally-against-gay-marriage-in-paris-france-with-100-people-arrested.html)  [JSON](/news/2013/05/26/an-estimated-150-000-people-rally-against-gay-marriage-in-paris-france-with-100-people-arrested.json)  [XML](/news/2013/05/26/an-estimated-150-000-people-rally-against-gay-marriage-in-paris-france-with-100-people-arrested.xml)  
+
 ### [2013-05-26](/news/2013/05/26/index.md)
 
+##### gay marriage
 # An estimated 150,000 people rally against gay marriage in Paris, France, with 100 people arrested. 
 
 Police are forced to use tear gas to subdue demonstrations on the streets of Paris against same-sex marriage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-22671572)
 2. [Sky News](http://news.sky.com/story/1095940/france-gay-marriage-law-violence-at-protest)

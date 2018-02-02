@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/1/according-to-the-secretary-general-of-nato-jens-
 
 ### [2016-06-1](/news/2016/06/1/index.md)
 
+##### Secretary General of NATO
 # According to the Secretary General of NATO Jens Stoltenberg, defense spending by European member states will grow for the first time in a decade. Stoltenberg went on to say that "we are faced with uncertainty. We are faced with more threats, more security challenges, than in a generation". 
 
 

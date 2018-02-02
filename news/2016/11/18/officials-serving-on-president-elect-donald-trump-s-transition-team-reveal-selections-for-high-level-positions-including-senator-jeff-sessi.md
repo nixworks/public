@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/18/officials-serving-on-president-elect-donald-tru
 
 ### [2016-11-18](/news/2016/11/18/index.md)
 
+##### Presidential transition of Donald Trump
 # Officials serving on President-elect Donald Trump's transition team reveal selections for high-level positions, including Senator Jeff Sessions for Attorney General, Mike Pompeo for Director of the CIA and Michael T. Flynn for National Security Advisor. 
 
 Sen. Jeff Sessions has been offered the post of attorney general, while Rep. Mike Pompeo and Michael Flynn have been offered the respective positions of CIA chief and national security adviser.

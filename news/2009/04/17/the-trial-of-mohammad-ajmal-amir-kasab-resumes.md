@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/17/the-trial-of-mohammad-ajmal-amir-kasab-resumes.html)  [JSON](/news/2009/04/17/the-trial-of-mohammad-ajmal-amir-kasab-resumes.json)  [XML](/news/2009/04/17/the-trial-of-mohammad-ajmal-amir-kasab-resumes.xml)  
+
 ### [2009-04-17](/news/2009/04/17/index.md)
 
+##### 2008 Mumbai attacks
 #  The trial of Mohammad Ajmal Amir Kasab resumes. 
 
 Pakistani national faces death sentence for alleged role in attack on Indian city.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/04/200941791540552370.html)
 1. [Cover Image](http://www.aljazeera.com)

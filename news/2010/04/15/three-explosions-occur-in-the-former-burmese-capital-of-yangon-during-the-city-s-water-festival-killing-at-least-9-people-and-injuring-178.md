@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/15/three-explosions-occur-in-the-former-burmese-capital-of-yangon-during-the-city-s-water-festival-killing-at-least-9-people-and-injuring-178.html)  [JSON](/news/2010/04/15/three-explosions-occur-in-the-former-burmese-capital-of-yangon-during-the-city-s-water-festival-killing-at-least-9-people-and-injuring-178.json)  [XML](/news/2010/04/15/three-explosions-occur-in-the-former-burmese-capital-of-yangon-during-the-city-s-water-festival-killing-at-least-9-people-and-injuring-178.xml)  
+
 ### [2010-04-15](/news/2010/04/15/index.md)
 
+##### Burma
 # Three explosions occur in the former Burmese capital of Yangon during the city's Water Festival, killing at least 9 people and injuring 178. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8622068.stm)
 2. [Radio Australia News](http://www.radioaustralianews.net.au/stories/201004/2874179.htm?desktop)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/12/29/eloy-inos-the-governor-of-the-northern-mariana-islands-since-2013-dies-in-office.html)  [JSON](/news/2015/12/29/eloy-inos-the-governor-of-the-northern-mariana-islands-since-2013-dies-in-office.json)  [XML](/news/2015/12/29/eloy-inos-the-governor-of-the-northern-mariana-islands-since-2013-dies-in-office.xml)  
+
 ### [2015-12-29](/news/2015/12/29/index.md)
 
+##### Eloy Inos
 # Eloy Inos, the Governor of the Northern Mariana Islands since 2013, dies in office. 
 
 Gov. Eloy S. Inos has passed away in the U.S. mainland, sources told Saipan Tribune this morning. Press secretary Ivan Blanco declined to comment when Saipan Tribune asked if the reports were true on Inos’ passing, but then stated that a Cabinet meeting is being set and a press conference is scheduled this afternoon. Facebook has been inundated with condolences and messages to the Inos family. Inos’ death comes nearly a year after he was inaugurated for his first term as governor alongside Lt. Gov. Ralph DLG Torres, who has been acting governor in his behalf since Inos has been hospitalized for a heart ailment in Seattle, WA. Inos took over from former governor Benigno R. Fitial, who resigned his term in February 2013 after being impeached by the House of Representatives on corruption charges.
 
 
-### Source:
+### Sources:
 
 1. [Marianas Variety](http://www.mvariety.com/cnmi/cnmi-news/local/82659-update-ralph-torres-victor-hocog-will-be-sworn-in-at-3-p-m-tuesday-at-the-multi-purpose-center)
 2. [Saipan Tribune](http://www.saipantribune.com/index.php/breaking-news-gov-eloy-inos-passes-away/)

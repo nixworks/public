@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/29/the-south-american-trade-bloc-mercosur-suspends-paraguay-s-membership-following-the-impeachment-of-fernando-lugo-but-will-not-impose-sanctio.html)  [JSON](/news/2012/06/29/the-south-american-trade-bloc-mercosur-suspends-paraguay-s-membership-following-the-impeachment-of-fernando-lugo-but-will-not-impose-sanctio.json)  [XML](/news/2012/06/29/the-south-american-trade-bloc-mercosur-suspends-paraguay-s-membership-following-the-impeachment-of-fernando-lugo-but-will-not-impose-sanctio.xml)  
+
 ### [2012-06-29](/news/2012/06/29/index.md)
 
+##### South America
 # The South American trade bloc Mercosur suspends Paraguay's membership following the impeachment of Fernando Lugo but will not impose sanctions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Business Week](http://www.businessweek.com/ap/2012-06-29/paraguay-will-not-face-mercosur-economic-sanctions)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/4/a-united-nations-bombardier-crj200-crashes-at-bombardier-crj200-in-kinshasa-in-the-democratic-republic-of-congo-killing-32-of-33-people-on-b.html)  [JSON](/news/2011/04/4/a-united-nations-bombardier-crj200-crashes-at-bombardier-crj200-in-kinshasa-in-the-democratic-republic-of-congo-killing-32-of-33-people-on-b.json)  [XML](/news/2011/04/4/a-united-nations-bombardier-crj200-crashes-at-bombardier-crj200-in-kinshasa-in-the-democratic-republic-of-congo-killing-32-of-33-people-on-b.xml)  
+
 ### [2011-04-4](/news/2011/04/4/index.md)
 
+##### United Nations
 # A United Nations Bombardier CRJ200 crashes at Bombardier CRJ200 in Kinshasa in the Democratic Republic of Congo killing 32 of 33 people on board. 
 
 A United Nations plane crashes on landing at Kinshasa airport in DR Congo killing 32 of 33 people on board, the UN says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12962210)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

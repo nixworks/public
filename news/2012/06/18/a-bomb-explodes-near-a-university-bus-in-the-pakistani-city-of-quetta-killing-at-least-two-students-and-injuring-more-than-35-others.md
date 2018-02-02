@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/18/a-bomb-explodes-near-a-university-bus-in-the-pakistani-city-of-quetta-killing-at-least-two-students-and-injuring-more-than-35-others.html)  [JSON](/news/2012/06/18/a-bomb-explodes-near-a-university-bus-in-the-pakistani-city-of-quetta-killing-at-least-two-students-and-injuring-more-than-35-others.json)  [XML](/news/2012/06/18/a-bomb-explodes-near-a-university-bus-in-the-pakistani-city-of-quetta-killing-at-least-two-students-and-injuring-more-than-35-others.xml)  
+
 ### [2012-06-18](/news/2012/06/18/index.md)
 
+##### Pakistan
 # A bomb explodes near a university bus in the Pakistani city of Quetta killing at least two students and injuring more than 35 others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Herald-Sun](http://www.heraldsun.com.au/news/breaking-news/pakistan-bomb-hits-university-bus-2-dead/story-e6frf7jx-1226398865579)
 

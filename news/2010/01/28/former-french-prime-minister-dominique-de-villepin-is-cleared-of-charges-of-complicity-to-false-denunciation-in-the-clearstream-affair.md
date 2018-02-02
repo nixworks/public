@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/28/former-french-prime-minister-dominique-de-villepin-is-cleared-of-charges-of-complicity-to-false-denunciation-in-the-clearstream-affair.html)  [JSON](/news/2010/01/28/former-french-prime-minister-dominique-de-villepin-is-cleared-of-charges-of-complicity-to-false-denunciation-in-the-clearstream-affair.json)  [XML](/news/2010/01/28/former-french-prime-minister-dominique-de-villepin-is-cleared-of-charges-of-complicity-to-false-denunciation-in-the-clearstream-affair.xml)  
+
 ### [2010-01-28](/news/2010/01/28/index.md)
 
+##### France
 # Former French Prime Minister Dominique de Villepin is cleared of charges of complicity to false denunciation in the "Clearstream" affair. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20100128-judge-gives-de-villepin-verdict-clearstream-trial?autoplay=)
 

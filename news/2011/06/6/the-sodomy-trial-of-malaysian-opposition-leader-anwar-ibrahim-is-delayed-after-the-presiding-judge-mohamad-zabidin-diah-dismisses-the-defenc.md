@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/6/the-sodomy-trial-of-malaysian-opposition-leader-anwar-ibrahim-is-delayed-after-the-presiding-judge-mohamad-zabidin-diah-dismisses-the-defenc.html)  [JSON](/news/2011/06/6/the-sodomy-trial-of-malaysian-opposition-leader-anwar-ibrahim-is-delayed-after-the-presiding-judge-mohamad-zabidin-diah-dismisses-the-defenc.json)  [XML](/news/2011/06/6/the-sodomy-trial-of-malaysian-opposition-leader-anwar-ibrahim-is-delayed-after-the-presiding-judge-mohamad-zabidin-diah-dismisses-the-defenc.xml)  
+
 ### [2011-06-6](/news/2011/06/6/index.md)
 
+##### Malaysia
 # The sodomy trial of Malaysian opposition leader Anwar Ibrahim is delayed after the presiding judge Mohamad Zabidin Diah dismisses the defence's efforts to have him replaced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/43290355)
 2. [Bernama](http://www.bernama.com/bernama/v5/newsindex.php?id=591842)

@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2015/10/21/israeli-prime-minister-benjamin-netanyahu-s-speech-yesterday-that-the-grand-mufti-of-jerusalem-persuaded-the-nazis-to-adopt-their-final-solu.html)  [JSON](/news/2015/10/21/israeli-prime-minister-benjamin-netanyahu-s-speech-yesterday-that-the-grand-mufti-of-jerusalem-persuaded-the-nazis-to-adopt-their-final-solu.json)  [XML](/news/2015/10/21/israeli-prime-minister-benjamin-netanyahu-s-speech-yesterday-that-the-grand-mufti-of-jerusalem-persuaded-the-nazis-to-adopt-their-final-solu.xml)  
+
 ### [2015-10-21](/news/2015/10/21/index.md)
 
+##### Israeli Prime Minister
 # Israeli Prime Minister Benjamin Netanyahu's speech yesterday that the Grand Mufti of Jerusalem persuaded the Nazis to adopt their Final Solution to exterminate 6 million Jews is reproached by Holocaust experts and survivors, historians, world leaders, etc. Palestine Liberation Organization's Saeb Erakat and Israel's Zionist Union party's Isaac Herzog both blasted Netanyahu's claim. German Chancellor Angela Merkel said, "All Germans know the history of the murderous race mania of the Nazis that led to ... the Holocaust." Mehnaz Afridi, a Manhattan College professor who promotes Muslim-Jewish dialogue said, "this ... really is a terrible statement to make at this time." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2015/10/21/middleeast/netanReactioyahu-hitler-grand-mufti-holocaust/)
-2. [Reuters](http://www.reuters.com/article/2015/10/21/israel-netanyahu-hitler-germany-idUSB4N11U01120151021)
+2. [Reuters](https://www.reuters.com/article/2015/10/21/israel-netanyahu-hitler-germany-idUSB4N11U01120151021)
 3. [Time](http://time.com/4080962/netanyahu-palestinians-holocaust/?xid=gonewsedit&google_editors_picks=true)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

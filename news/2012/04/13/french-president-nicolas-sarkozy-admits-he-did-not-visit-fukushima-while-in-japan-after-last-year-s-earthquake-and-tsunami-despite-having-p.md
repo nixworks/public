@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/13/french-president-nicolas-sarkozy-admits-he-did-not-visit-fukushima-while-in-japan-after-last-year-s-earthquake-and-tsunami-despite-having-p.html)  [JSON](/news/2012/04/13/french-president-nicolas-sarkozy-admits-he-did-not-visit-fukushima-while-in-japan-after-last-year-s-earthquake-and-tsunami-despite-having-p.json)  [XML](/news/2012/04/13/french-president-nicolas-sarkozy-admits-he-did-not-visit-fukushima-while-in-japan-after-last-year-s-earthquake-and-tsunami-despite-having-p.xml)  
+
 ### [2012-04-13](/news/2012/04/13/index.md)
 
+##### Nicolas Sarkozy
 # French President Nicolas Sarkozy admits he did not visit Fukushima while in Japan after last year's earthquake and tsunami, despite having previously said he had done so. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17700791)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59635000/jpg/_59635989_014495762-1.jpg)

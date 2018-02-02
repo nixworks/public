@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2017/03/16/an-eruption-at-mount-etna-on-the-italian-island-of-sicily-injures-at-least-ten-people-including-several-in-a-bbc-news-crew.html)  [JSON](/news/2017/03/16/an-eruption-at-mount-etna-on-the-italian-island-of-sicily-injures-at-least-ten-people-including-several-in-a-bbc-news-crew.json)  [XML](/news/2017/03/16/an-eruption-at-mount-etna-on-the-italian-island-of-sicily-injures-at-least-ten-people-including-several-in-a-bbc-news-crew.xml)  
+
 ### [2017-03-16](/news/2017/03/16/index.md)
 
+##### Mount Etna
 # An eruption at Mount Etna on the Italian island of Sicily injures at least ten people, including several in a BBC News crew. 
 
 At least 10 people have been injured after several tourists and a BBC crew were caught up in an eruption at Mount Etna, on the Italian island of Sicily. BBC science correspondent Rebecca Morelle tweeted to say the explosion was caused when lava flow mixed with steam.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-italy-etna-idUSKBN16N270)
-2. [The Independent](http://www.independent.co.uk/news/world/europe/mount-etna-eruption-injured-bbc-crew-tourists-explosion-sicily-a7633286.html)
+1. [Reuters](https://www.reuters.com/article/us-italy-etna-idUSKBN16N270)
+2. [The Independent](https://www.independent.co.uk/news/world/europe/mount-etna-eruption-injured-bbc-crew-tourists-explosion-sicily-a7633286.html)
 2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/03/16/14/mount-etna1.jpg)
 
 ### Related:

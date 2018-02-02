@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/05/7/alzheimer-s-drug-gammagard-fails-to-produce-results-in-a-large-scale-clinical-trial.html)  [JSON](/news/2013/05/7/alzheimer-s-drug-gammagard-fails-to-produce-results-in-a-large-scale-clinical-trial.json)  [XML](/news/2013/05/7/alzheimer-s-drug-gammagard-fails-to-produce-results-in-a-large-scale-clinical-trial.xml)  
+
 ### [2013-05-7](/news/2013/05/7/index.md)
 
+##### Alzheimer's
 # Alzheimer's drug Gammagard fails to produce results in a large-scale clinical trial. 
 
-Baxter International Inc. says that a blood product it was testing failed to slow mental decline or to preserve physical function in a major study of 390 patients.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2013/05/07/baxter-drug-alzheimers-study/2140925/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/nation/2013/05/07/baxter-drug-alzheimers-study/2140925/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

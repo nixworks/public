@@ -1,20 +1,25 @@
+
+Formats: [HTML](2004/09/8/index.html)  [JSON](2004/09/8/index.json)  [XML](2004/09/8/index.xml)  
+
 ## [2004-09-8](/news/2004/09/8/index.md)
 
+##### Russian President
 ### [ Conflict in Russia (Chechnya): Russian President Vladimir Putin's government offers 300 million rubles (USD 10 million) for information leading to the arrest of Chechen rebel leaders Shamil Basayev and Aslan Maskhadov. Maskhadov was the last democratically elected leader of Chechnya. ](/news/2004/09/8/conflict-in-russia-chechnya-russian-president-vladimir-putin-s-government-offers-300-million-rubles-usd-10-million-for-information-lea.md)
-_Context: $, Aslan Maskhadov, Chechnya, Russian President, Russian ruble, Shamil Basayev, Vladimir Putin, democratic progress_
+_Context: Chechnya, Russian President, $, Aslan Maskhadov, Vladimir Putin, Russian ruble, democratic, Shamil Basayev_
 
+##### U.N.
 ### [ U.N. officials say a ten-year-old Palestinian girl is in critical condition after being hit by "indiscriminate" gunfire from Israeli forces while sitting in school. Israel alleges that it exchanged fire with militants in the area but says it did not fire at buildings. ](/news/2004/09/8/u-n-officials-say-a-ten-year-old-palestinian-girl-is-in-critical-condition-after-being-hit-by-indiscriminate-gunfire-from-israeli-forces.md)
-_Context: Israel, Palestinian, U.N._
+_Context: Palestinian, U.N., Israel_
 
-### [ The National Board of the Log Cabin Republicans votes 22-2 against endorsing George W. Bush, citing his support for a constitutional amendment to define marriage in the U.S. The LCR is the largest group of gay men and lesbians in the Republican Party. This is the first time in the group's ten-year history that it has not endorsed the Republican candidate for president. [http:--www.msnbc.msn.com-id-5941189- (MSNBC)] US Democrats and Republicans wrangle over Vice President Dick Cheney's remarks about Democratic candidate John Kerry and terrorism. Cheney originally said, "It's absolutely essential that eight weeks from today, on Nov. 2, we make the right choice, because if we make the wrong choice then the danger is that we'll get hit again and we'll be hit in a way that will be devastating from the standpoint of the United States." The Kerry campaign interpreted this remark as a claim that, if John Kerry was elected, America would be hit by a devastating terrorist attack. The next day, Cheney told the "Cincinnati Enquirer," "I did not say if Kerry is elected, we will be hit by a terrorist attack." Democrats contend that Cheney's original statement reveals that Republicans "have consciously adopted a strategy of using Americans' justifiable fear of a future terrorist attack as a political tool." Democratic VP candidate John Edwards says that Cheney's remark shows that he and Bush "will do anything and say anything to save their jobs". [http:--news.bbc.co.uk-2-hi-americas-3636852.stm (BBC)] ([http:--www.misleader.org-daily_mislead-Read.asp?fn=df09102004.html The Daily Misleader]) CBS News announces the discovery of newly uncovered records of United States President George W. Bush's service in the Air National Guard. These documents are known as the "Killian memos". The Democratic campaign concludes (1) that the records show then Lieutenant Bush disobeyed orders, and (2) that the Bush campaign lied about having made all such records public. [http:--hosted.ap.org-dynamic-stories-B-BUSH_NATIONAL_GUARD?SITE=TNNAT&SECTION=HOME&TEMPLATE=DEFAULT (Nashville Tennessean-AP)] Within hours, several bloggers question the authenticity of the memos, which prove to be modern forgeries produced with Microsoft Word rather than historic documents made on a typewriter; nevertheless, the documents heightened awareness of facts related tangentially to the memo, including that President Bush avoided duty in Vietnam at a time in which avoidance of such service was both highly in demand and difficult to obtain.](/news/2004/09/8/the-national-board-of-the-log-cabin-republicans-votes-22a2-against-endorsing-george-w-bush-citing-his-support-for-a-constitutional-amen.md)
-_Context: Air National Guard, Democratic, Dick Cheney, George W. Bush, John Edwards, John Kerry, Killian memos, Log Cabin Republicans, Republican, U.S. President, U.S. Vice President, United States Constitution, constitutional amendment to ban, homosexuality, terrorism_
-
+##### Lincoln, Nebraska
 ### [ A federal judge in Lincoln, Nebraska, US, strikes down the Partial-Birth Abortion Ban Act, citing a lack of an exception to protect the health of the mother. This is the third time the controversial law has been declared unconstitutional by a federal judge within the last month. It is almost assured that the government will appeal the decision to the Supreme Court. ](/news/2004/09/8/a-federal-judge-in-lincoln-nebraska-us-strikes-down-the-partial-birth-abortion-ban-act-citing-a-lack-of-an-exception-to-protect-the-hea.md)
-_Context: Lincoln, Nebraska, Partial-Birth Abortion Ban Act, United States Supreme Court_
+_Context: United States Supreme Court, Partial-Birth Abortion Ban Act, Lincoln, Nebraska_
 
+##### kidnapping
 ### [ Italians outraged by the latest kidnapping in Iraq&mdash;of two Italian aid workers&mdash;gather to protest outside Prime Minister Silvio Berlusconi's offices in Rome. ](/news/2004/09/8/italians-outraged-by-the-latest-kidnapping-in-iraq-mdash-of-two-italian-aid-workers-mdash-gather-to-protest-outside-prime-minister-silvio-b.md)
-_Context: Iraq, Rome, Silvio Berlusconi, kidnapped, protest_
+_Context: Silvio Berlusconi, kidnapping, Rome, Italy, Iraq, protest_
 
+##### NASA
 ### [ The NASA unmanned spacecraft Genesis crash-lands as its parachute fails to open. The damage to the science instruments and collected samples on board is not yet known. ](/news/2004/09/8/the-nasa-unmanned-spacecraft-genesis-crash-lands-as-its-parachute-fails-to-open-the-damage-to-the-science-instruments-and-collected-sample.md)
 _Context: Genesis, NASA_
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/13/a-taliban-attack-on-a-prison-in-kandahar-afghanistan-allows-almost-all-of-the-1150-inmates-to-escape-including-390-taliban-inmates.html)  [JSON](/news/2008/06/13/a-taliban-attack-on-a-prison-in-kandahar-afghanistan-allows-almost-all-of-the-1150-inmates-to-escape-including-390-taliban-inmates.json)  [XML](/news/2008/06/13/a-taliban-attack-on-a-prison-in-kandahar-afghanistan-allows-almost-all-of-the-1150-inmates-to-escape-including-390-taliban-inmates.xml)  
+
 ### [2008-06-13](/news/2008/06/13/index.md)
 
+##### Taliban
 #  A Taliban attack on a prison in Kandahar, Afghanistan allows almost all of the 1150 inmates to escape, including 390 Taliban inmates. 
 
 Nearly all of anestimated 1,150 prisoners, including some 400 Taliban inmates,have fled a prison in Kandahar on Friday after Talibaninsurgents blew open the main gate, two officials said.
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5i8dGftYb0s4XWdUMRdIVs3vh1CKAD919SOOG0)
 2. [Reuters](http://in.reuters.com/article/domesticNews/idINL1336099020080613)

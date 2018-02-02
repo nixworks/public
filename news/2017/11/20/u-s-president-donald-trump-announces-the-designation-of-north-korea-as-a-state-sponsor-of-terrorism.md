@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/20/u-s-president-donald-trump-announces-the-design
 
 ### [2017-11-20](/news/2017/11/20/index.md)
 
+##### 2017 North Korea crisis
 # U.S. President Donald Trump announces the designation of North Korea as a state sponsor of terrorism. 
 
 North Korea had been removed from the list under the George W. Bush administration in an attempt to salvage negotiations for a nuclear deal.

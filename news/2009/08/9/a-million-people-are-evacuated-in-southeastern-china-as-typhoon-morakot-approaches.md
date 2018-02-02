@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/9/a-million-people-are-evacuated-in-southeastern-china-as-typhoon-morakot-approaches.html)  [JSON](/news/2009/08/9/a-million-people-are-evacuated-in-southeastern-china-as-typhoon-morakot-approaches.json)  [XML](/news/2009/08/9/a-million-people-are-evacuated-in-southeastern-china-as-typhoon-morakot-approaches.xml)  
+
 ### [2009-08-9](/news/2009/08/9/index.md)
 
+##### China
 #  A million people are evacuated in southeastern China as Typhoon Morakot approaches. 
 
 Almost a million people have been evacuated from southeastern China as authorities prepare for the arrival of Typhoon Morakot.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jFKvDArPWzZ5d5uaSisoexNPI_mQ)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/5998497/Million-flee-as-typhoon-approaches-China.html)

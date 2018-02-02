@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/31/president-donald-trump-has-nominated-judge-neil
 
 ### [2017-01-31](/news/2017/01/31/index.md)
 
+##### Supreme Court of the United States
 # President Donald Trump has nominated Judge Neil Gorsuch to fill the vacant seat on the Supreme Court of the United States. Neil Gorsuch is the youngest nominee to the court in 25 years. 
 
 

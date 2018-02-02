@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2012/03/8/spanx-inventor-sara-blakely-becomes-the-youngest-self-made-female-billionaire-on-forbes-list.html)  [JSON](/news/2012/03/8/spanx-inventor-sara-blakely-becomes-the-youngest-self-made-female-billionaire-on-forbes-list.json)  [XML](/news/2012/03/8/spanx-inventor-sara-blakely-becomes-the-youngest-self-made-female-billionaire-on-forbes-list.xml)  
+
 ### [2012-03-8](/news/2012/03/8/index.md)
 
+##### Spanx
 # Spanx inventor Sara Blakely becomes the youngest self-made female billionaire on "Forbes"' list. 
 
+She joins the billionaires’ club as the youngest self-made woman in the world, thanks to $5,000 and one great idea.
 
 
+### Sources:
 
-### Source:
-
-1. [Forbes](http://www.forbes.com/sites/clareoconnor/2012/03/07/undercover-billionaire-sara-blakely-joins-the-rich-list-thanks-to-spanx/)
+1. [Forbes](https://www.forbes.com/sites/clareoconnor/2012/03/07/undercover-billionaire-sara-blakely-joins-the-rich-list-thanks-to-spanx/)
+1. [Cover Image](https://thumbor.forbes.com/thumbor/600x315/smart/https%3A%2F%2Fblogs-images.forbes.com%2Fthumbnails%2Fblog_982%2Fpt_982_3449_o.jpg%3Ft%3D1365025859)
 
 ### Related:
 

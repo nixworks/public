@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/19/hugo-chavez-announces-his-plans-to-merge-the-parties-which-support-the-bolivarian-revolution-into-the-united-socialist-party-of-venezuela.html)  [JSON](/news/2006/12/19/hugo-chavez-announces-his-plans-to-merge-the-parties-which-support-the-bolivarian-revolution-into-the-united-socialist-party-of-venezuela.json)  [XML](/news/2006/12/19/hugo-chavez-announces-his-plans-to-merge-the-parties-which-support-the-bolivarian-revolution-into-the-united-socialist-party-of-venezuela.xml)  
+
 ### [2006-12-19](/news/2006/12/19/index.md)
 
+##### Hugo Chvez
 #  Hugo Chvez announces his plans to merge the parties which support the Bolivarian Revolution into the United Socialist Party of Venezuela. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6192105.stm)
 

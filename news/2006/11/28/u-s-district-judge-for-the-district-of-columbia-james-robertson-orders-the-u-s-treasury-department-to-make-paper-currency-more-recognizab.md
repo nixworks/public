@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2006/11/28/u-s-district-judge-for-the-district-of-columbia-james-robertson-orders-the-u-s-treasury-department-to-make-paper-currency-more-recognizab.html)  [JSON](/news/2006/11/28/u-s-district-judge-for-the-district-of-columbia-james-robertson-orders-the-u-s-treasury-department-to-make-paper-currency-more-recognizab.json)  [XML](/news/2006/11/28/u-s-district-judge-for-the-district-of-columbia-james-robertson-orders-the-u-s-treasury-department-to-make-paper-currency-more-recognizab.xml)  
+
 ### [2006-11-28](/news/2006/11/28/index.md)
 
+##### U.S. District Court for the District of Columbia
 #  U.S. District Judge for the District of Columbia James Robertson orders the U.S. Treasury Department to make paper currency more recognizable to blind people in "American Council for the Blind v. Secretary of the Treasury". 
 
 Judge rules that the Treasury Department has denied blind people reasonable access to paper money by keeping it the same size and texture.
 
 
-### Source:
+### Sources:
 
 1. [FOXNews.com](http://www.foxnews.com/story/0,2933,232503,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
+
+### Changes:
+
+1. [ U.S. District Judge for the District of Columbia James Robertson orders the U.S. Treasury Department to make paper currency more recognizable to blind people in ''American Council for the Blind v. Secretary of the Treasury''. ](/news/2006/11/28/u-s-district-judge-for-the-district-of-columbia-james-robertson-orders-the-u-s-treasury-department-to-make-paper-currency-more-recogniza.md) _2017-08-25 03:18:51 (First version)_
+1. [ U.S. District Judge for the District of Columbia James Robertson orders the U.S. Treasury Department to make paper currency more recognizable to blind people in "American Council for the Blind v. Secretary of the Treasury". ](/news/2006/11/28/u-s-district-judge-for-the-district-of-columbia-james-robertson-orders-the-u-s-treasury-department-to-make-paper-currency-more-recognizab.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Judge rules that the Treasury Department has denied blind people reasonable acce
 3. [John D. Bates, United States federal judge for the United States District Court for the District of Columbia, blocks a proposed merger by health insurance companies Aetna and Humana. ](/news/2017/01/23/john-d-bates-united-states-federal-judge-for-the-united-states-district-court-for-the-district-of-columbia-blocks-a-proposed-merger-by-he.md) _Context: U.S. District Court for the District of Columbia_
 4. [The District Court for the District of Columbia releases John Hinckley Jr, U.S. President Ronald Reagan's March 1981 would-be assassin, from a psychiatric hospital after 35 years. ](/news/2016/09/10/the-district-court-for-the-district-of-columbia-releases-john-hinckley-jr-u-s-president-ronald-reagan-s-march-1981-would-be-assassin-from.md) _Context: U.S. District Court for the District of Columbia_
 5. [U.S. District Judge Emmet Sullivan blocks the $6.3 billion merger of major office supply companies Staples and Office Depot, finding it would result in reduced competition and higher prices. The companies announce they are abandoning the deal. ](/news/2016/05/10/u-s-district-judge-emmet-sullivan-blocks-the-6-3-billion-merger-of-major-office-supply-companies-staples-and-office-depot-finding-it-woul.md) _Context: U.S. District Court for the District of Columbia_
-
-### Changes:
-
-1. [ U.S. District Judge for the District of Columbia James Robertson orders the U.S. Treasury Department to make paper currency more recognizable to blind people in ''American Council for the Blind v. Secretary of the Treasury''. ](/news/2006/11/28/u-s-district-judge-for-the-district-of-columbia-james-robertson-orders-the-u-s-treasury-department-to-make-paper-currency-more-recogniza.md) _2017-08-25 03:18:51 (First version)_
-1. [ U.S. District Judge for the District of Columbia James Robertson orders the U.S. Treasury Department to make paper currency more recognizable to blind people in "American Council for the Blind v. Secretary of the Treasury". ](/news/2006/11/28/u-s-district-judge-for-the-district-of-columbia-james-robertson-orders-the-u-s-treasury-department-to-make-paper-currency-more-recognizab.md) _(Current version)_

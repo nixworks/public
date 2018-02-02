@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/6/scores-of-students-are-injured-and-arrested-ahead-of-protests-in-venezuela-the-demonstrations-scheduled-for-wednesday-are-to-demand-a-de.html)  [JSON](/news/2007/11/6/scores-of-students-are-injured-and-arrested-ahead-of-protests-in-venezuela-the-demonstrations-scheduled-for-wednesday-are-to-demand-a-de.json)  [XML](/news/2007/11/6/scores-of-students-are-injured-and-arrested-ahead-of-protests-in-venezuela-the-demonstrations-scheduled-for-wednesday-are-to-demand-a-de.xml)  
+
 ### [2007-11-6](/news/2007/11/6/index.md)
 
+##### Venezuela
 #  Scores of students are injured and arrested ahead of protests in Venezuela. The demonstrations, scheduled for Wednesday, are to demand a delay to a referendum aimed at expanding the powers of Hugo Chavez. 
 
 More than 50 people were injured and 35 arrested as Venezuelan university students clashed with police two days before planned protests against President Hugo Chavez&#039;s constitutional reforms.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/11/06/2083539.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

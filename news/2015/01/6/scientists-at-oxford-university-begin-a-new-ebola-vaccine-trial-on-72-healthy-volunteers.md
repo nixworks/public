@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/6/scientists-at-oxford-university-begin-a-new-ebola-vaccine-trial-on-72-healthy-volunteers.html)  [JSON](/news/2015/01/6/scientists-at-oxford-university-begin-a-new-ebola-vaccine-trial-on-72-healthy-volunteers.json)  [XML](/news/2015/01/6/scientists-at-oxford-university-begin-a-new-ebola-vaccine-trial-on-72-healthy-volunteers.xml)  
+
 ### [2015-01-6](/news/2015/01/6/index.md)
 
+##### Oxford University
 # Scientists at Oxford University begin a new Ebola vaccine trial on 72 healthy volunteers. 
 
 Scientists at Oxford University have begun immunising healthy volunteers with a new Ebola vaccine
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/health-30696018)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/80084000/jpg/_80084853_c0217849-ebola_vaccine_trial-spl.jpg)

@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2013/08/17/clashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.html)  [JSON](/news/2013/08/17/clashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.json)  [XML](/news/2013/08/17/clashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.xml)  
+
 ### [2013-08-17](/news/2013/08/17/index.md)
 
+##### Nigeria
 # Clashes between Nigerian soldiers and Boko Haram Islamists kill 18 people in northeast Nigeria. 
 
 Clashes between soldiers and members of Islamist sect Boko Haram have killed 18 people in northeast Nigeria, a military source and officials said on Saturday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/08/17/us-nigeria-bokoharam-idUSBRE97G08A20130817)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/08/17/us-nigeria-bokoharam-idUSBRE97G08A20130817)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Nigerian Sharia conflict:Clashes between Nigerian soldiers and Boko Haram Islamists kill 18 people in northeast Nigeria. ](/news/2013/08/17/nigerian-sharia-conflict-pclashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.md) _2017-08-25 03:39:09 (First version)_
+2. [Nigerian Sharia conflict:: Clashes between Nigerian soldiers and Boko Haram Islamists kill 18 people in northeast Nigeria. ](/news/2013/08/17/nigerian-sharia-conflict-clashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.md) _2017-08-27 03:39:25 (Update)_
+2. [Clashes between Nigerian soldiers and Boko Haram Islamists kill 18 people in northeast Nigeria. ](/news/2013/08/17/clashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ Clashes between soldiers and members of Islamist sect Boko Haram have killed 18 
 3. [The Nigerian Army claims to have killed 300 militants in northeastern Nigeria. ](/news/2015/02/18/the-nigerian-army-claims-to-have-killed-300-militants-in-northeastern-nigeria.md) _Context: Boko Haram, Nigeria, Nigerian Army_
 4. [Five members of the Nigerian Islamist group Boko Haram and two Nigerian Army soldiers are killed in fighting in the city of Kano. ](/news/2013/11/9/five-members-of-the-nigerian-islamist-group-boko-haram-and-two-nigerian-army-soldiers-are-killed-in-fighting-in-the-city-of-kano.md) _Context: Boko Haram, Nigeria, Nigerian Army_
 5. [Two Boko Haram commanders Mohammad Bama and Abubakar Zakariya Yau are killed by the Nigerian army in a gun battle in the north-east Adamawa State. ](/news/2013/08/14/two-boko-haram-commanders-mohammad-bama-and-abubakar-zakariya-yau-are-killed-by-the-nigerian-army-in-a-gun-battle-in-the-north-east-adamawa.md) _Context: Boko Haram, Nigeria, Nigerian Army_
-
-### Changes:
-
-1. [Nigerian Sharia conflict:Clashes between Nigerian soldiers and Boko Haram Islamists kill 18 people in northeast Nigeria. ](/news/2013/08/17/nigerian-sharia-conflict-pclashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.md) _2017-08-25 03:39:09 (First version)_
-2. [Nigerian Sharia conflict:: Clashes between Nigerian soldiers and Boko Haram Islamists kill 18 people in northeast Nigeria. ](/news/2013/08/17/nigerian-sharia-conflict-clashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.md) _2017-08-27 03:39:25 (Update)_
-2. [Clashes between Nigerian soldiers and Boko Haram Islamists kill 18 people in northeast Nigeria. ](/news/2013/08/17/clashes-between-nigerian-soldiers-and-boko-haram-islamists-kill-18-people-in-northeast-nigeria.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/25/the-prime-minister-of-israel-ehud-olmert-strikes-a-deal-with-the-labor-party-to-avoid-dissolution-of-the-knesset-in-return-for-olmert-holdi.html)  [JSON](/news/2008/06/25/the-prime-minister-of-israel-ehud-olmert-strikes-a-deal-with-the-labor-party-to-avoid-dissolution-of-the-knesset-in-return-for-olmert-holdi.json)  [XML](/news/2008/06/25/the-prime-minister-of-israel-ehud-olmert-strikes-a-deal-with-the-labor-party-to-avoid-dissolution-of-the-knesset-in-return-for-olmert-holdi.xml)  
+
 ### [2008-06-25](/news/2008/06/25/index.md)
 
+##### Israeli Prime Minister
 #  The Prime Minister of Israel Ehud Olmert strikes a deal with the Labor Party to avoid dissolution of the Knesset in return for Olmert holding a leadership contest for the Kadima party by September. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7472636.stm)
 

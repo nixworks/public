@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/16/an-australian-research-team-led-by-graham-giles-of-the-cancer-council-publishes-a-medical-study-which-concludes-that-frequent-masturbation.html)  [JSON](/news/2003/07/16/an-australian-research-team-led-by-graham-giles-of-the-cancer-council-publishes-a-medical-study-which-concludes-that-frequent-masturbation.json)  [XML](/news/2003/07/16/an-australian-research-team-led-by-graham-giles-of-the-cancer-council-publishes-a-medical-study-which-concludes-that-frequent-masturbation.xml)  
+
 ### [2003-07-16](/news/2003/07/16/index.md)
 
+##### Graham Giles
 #  An Australian research team led by Graham Giles of The Cancer Council publishes a medical study which concludes that frequent masturbation by males may help prevent the development of prostate cancer.
 
 

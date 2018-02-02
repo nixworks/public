@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/23/fiji-expels-acting-new-zealand-high-commissioner-caroline-mcdonald-in-retaliation-new-zealand-declares-acting-fiji-high-commissioner-cama.html)  [JSON](/news/2008/12/23/fiji-expels-acting-new-zealand-high-commissioner-caroline-mcdonald-in-retaliation-new-zealand-declares-acting-fiji-high-commissioner-cama.json)  [XML](/news/2008/12/23/fiji-expels-acting-new-zealand-high-commissioner-caroline-mcdonald-in-retaliation-new-zealand-declares-acting-fiji-high-commissioner-cama.xml)  
+
 ### [2008-12-23](/news/2008/12/23/index.md)
 
+##### Fiji
 #  Fiji expels acting New Zealand High Commissioner Caroline McDonald. In retaliation, New Zealand declares acting Fiji High Commissioner Cama Tuiloma persona non grata. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10549572)
 1. [Cover Image](http://www.nzherald.co.nz/themes/1/img/social/nzhFBCover.png)

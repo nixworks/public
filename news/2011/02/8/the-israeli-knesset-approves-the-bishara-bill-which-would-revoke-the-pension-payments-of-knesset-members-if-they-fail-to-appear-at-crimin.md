@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/8/the-israeli-knesset-approves-the-bishara-bill-which-would-revoke-the-pension-payments-of-knesset-members-if-they-fail-to-appear-at-crimin.html)  [JSON](/news/2011/02/8/the-israeli-knesset-approves-the-bishara-bill-which-would-revoke-the-pension-payments-of-knesset-members-if-they-fail-to-appear-at-crimin.json)  [XML](/news/2011/02/8/the-israeli-knesset-approves-the-bishara-bill-which-would-revoke-the-pension-payments-of-knesset-members-if-they-fail-to-appear-at-crimin.xml)  
+
 ### [2011-02-8](/news/2011/02/8/index.md)
 
+##### Israel
 # The Israeli Knesset approves the "Bishara Bill", which would revoke the pension payments of Knesset members if they fail to appear at criminal proceedings held against them, or if convicted of severe felonies. 
 
 Eight MKs vote in favor of law revoking wages, pension of lawmakers who have failed to report to police or trial. Balad MK calls proposal &#39;political&#39;; Shas MK: Why should we apologize for denouncing traitors? In any Arab country he would be hung the very same day 
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4025621,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

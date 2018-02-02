@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/12/occupation-of-iraq-general-john-abizaid-commander-of-u-s-forces-in-the-middle-east-escapes-injury-when-his-convoy-is-attacked-in-falluj.html)  [JSON](/news/2004/02/12/occupation-of-iraq-general-john-abizaid-commander-of-u-s-forces-in-the-middle-east-escapes-injury-when-his-convoy-is-attacked-in-falluj.json)  [XML](/news/2004/02/12/occupation-of-iraq-general-john-abizaid-commander-of-u-s-forces-in-the-middle-east-escapes-injury-when-his-convoy-is-attacked-in-falluj.xml)  
+
 ### [2004-02-12](/news/2004/02/12/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: General John Abizaid, commander of U.S. forces in the Middle East, escapes injury when his convoy is attacked in Fallujah.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/23/2007-guinean-uprising-a-heavy-security-presence-is-reported-in-the-capital-conakry-and-other-towns-following-monday-s-clashes-in-which-m.html)  [JSON](/news/2007/01/23/2007-guinean-uprising-a-heavy-security-presence-is-reported-in-the-capital-conakry-and-other-towns-following-monday-s-clashes-in-which-m.json)  [XML](/news/2007/01/23/2007-guinean-uprising-a-heavy-security-presence-is-reported-in-the-capital-conakry-and-other-towns-following-monday-s-clashes-in-which-m.xml)  
+
 ### [2007-01-23](/news/2007/01/23/index.md)
 
+##### 2007 Guinean uprising
 #  2007 Guinean uprising: A heavy security presence is reported in the capital, Conakry, and other towns following Monday's clashes in which more than 30 people were killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6289957.stm)
 

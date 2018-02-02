@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/23/a-teenager-in-bahrain-dies-following-an-explosion-in-the-village-of-bani-jamra-east-of-the-capital-manama.html)  [JSON](/news/2013/10/23/a-teenager-in-bahrain-dies-following-an-explosion-in-the-village-of-bani-jamra-east-of-the-capital-manama.json)  [XML](/news/2013/10/23/a-teenager-in-bahrain-dies-following-an-explosion-in-the-village-of-bani-jamra-east-of-the-capital-manama.xml)  
+
 ### [2013-10-23](/news/2013/10/23/index.md)
 
+##### Bahrain
 # A teenager in Bahrain dies following an explosion in the village of Bani Jamra, east of the capital Manama. 
 
 A 17-year-old boy was killed while transporting a bomb that exploded in a predominantly Shia village in Bahrain, police allege.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-24636242)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/70651000/jpg/_70651796_70651793.jpg)

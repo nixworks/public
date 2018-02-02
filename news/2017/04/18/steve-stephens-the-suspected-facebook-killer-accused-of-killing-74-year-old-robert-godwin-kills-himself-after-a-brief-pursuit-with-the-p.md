@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/18/steve-stephens-the-suspected-facebook-killer-ac
 
 ### [2017-04-18](/news/2017/04/18/index.md)
 
+##### Shooting of Robert Godwin
 # Steve Stephens, the suspected "Facebook killer" accused of killing 74-year-old Robert Godwin, kills himself after a brief pursuit with the Pennsylvania State Police. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/28/a-sikh-man-is-given-a-life-sentence-in-vienna-austria-for-murdering-rama-nand-a-leader-of-the-dera-sach-khand-sect-in-2009-five-other-in.html)  [JSON](/news/2010/09/28/a-sikh-man-is-given-a-life-sentence-in-vienna-austria-for-murdering-rama-nand-a-leader-of-the-dera-sach-khand-sect-in-2009-five-other-in.json)  [XML](/news/2010/09/28/a-sikh-man-is-given-a-life-sentence-in-vienna-austria-for-murdering-rama-nand-a-leader-of-the-dera-sach-khand-sect-in-2009-five-other-in.xml)  
+
 ### [2010-09-28](/news/2010/09/28/index.md)
 
+##### Sikh
 # A Sikh man is given a life sentence in Vienna, Austria, for murdering Rama Nand, a leader of the Dera Sach Khand sect in 2009; five other Indian-born defendants are given sentences of various lengths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Sikh-gets-life-sentence-in-Vienna-temple-attack-trial-/articleshow/6640512.cms)
 

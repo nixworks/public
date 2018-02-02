@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/12/six-armed-somali-pirates-hijack-the-mv-miltzow-a-freighter-that-is-carrying-united-nations-food-aid-after-its-cargo-of-850-tonnes-of-food.html)  [JSON](/news/2005/10/12/six-armed-somali-pirates-hijack-the-mv-miltzow-a-freighter-that-is-carrying-united-nations-food-aid-after-its-cargo-of-850-tonnes-of-food.json)  [XML](/news/2005/10/12/six-armed-somali-pirates-hijack-the-mv-miltzow-a-freighter-that-is-carrying-united-nations-food-aid-after-its-cargo-of-850-tonnes-of-food.xml)  
+
 ### [2005-10-12](/news/2005/10/12/index.md)
 
+##### Somalia
 #  Six armed Somali pirates hijack the MV Miltzow, a freighter that is carrying United Nations food aid. After its cargo of 850 tonnes of food aid was offloaded in the port of Merka, the ship was forced to sail down the coast to Barawa before being released two days later. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L14511711.htm)
 

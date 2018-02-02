@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/09/13/google-sponsors-a-us-30-million-spaceflight-contest-to-land-a-robotic-lander-on-the-moon-and-beam-back-a-gigabyte-of-images-and-videos-to-e.html)  [JSON](/news/2007/09/13/google-sponsors-a-us-30-million-spaceflight-contest-to-land-a-robotic-lander-on-the-moon-and-beam-back-a-gigabyte-of-images-and-videos-to-e.json)  [XML](/news/2007/09/13/google-sponsors-a-us-30-million-spaceflight-contest-to-land-a-robotic-lander-on-the-moon-and-beam-back-a-gigabyte-of-images-and-videos-to-e.xml)  
+
 ### [2007-09-13](/news/2007/09/13/index.md)
 
+##### Google
 #  Google sponsors a US$30 million spaceflight contest to land a robotic lander on the moon and beam back a gigabyte of images and videos to earth. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Topix](http://www.topix.net/content/ap/2007/09/google-sponsors-30-million-moon-contest-2)
 
 ### Related:
 
-1. [As predicted by NASA, the Apollo-group-type asteroid 2012 TC4 (approximately 15 m in diameter) passes a distance of 0.0003352 AU mi from Earth, well within the Moon's orbit. ](/news/2017/10/12/as-predicted-by-nasa-the-apollo-group-type-asteroid-2012-tc4-approximately-15-m-in-diameter-passes-a-distance-of-0-0003352-au-mi-from-ear.md) _Context: Earth, Moon_
-2. [Scientists from UCLA conclude that study of the geology of the Earth and Moon indicate that both consist of a mixture of rocks from the original Earth and a hypothesized planetary-mass object called Theia after a collision. ](/news/2016/01/29/scientists-from-ucla-conclude-that-study-of-the-geology-of-the-earth-and-moon-indicate-that-both-consist-of-a-mixture-of-rocks-from-the-orig.md) _Context: Earth, Moon_
-3. [A newly observed near-Earth asteroid 2013 EC passes Earth within the orbit of the Moon. ](/news/2013/03/4/a-newly-observed-near-earth-asteroid-2013-ec-passes-earth-within-the-orbit-of-the-moon.md) _Context: Earth, Moon_
-4. [A supermoon is formed as the moon gets closest to the earth for the year. ](/news/2012/05/5/a-supermoon-is-formed-as-the-moon-gets-closest-to-the-earth-for-the-year.md) _Context: Earth, Moon_
-5. [Jupiter becomes the brightest object in the night sky after the Moon as it makes its closest approach to Earth since 1963. ](/news/2010/09/20/jupiter-becomes-the-brightest-object-in-the-night-sky-after-the-moon-as-it-makes-its-closest-approach-to-earth-since-1963.md) _Context: Earth, Moon_
+1. [A supermoon is formed as the moon gets closest to the earth for the year. ](/news/2012/05/5/a-supermoon-is-formed-as-the-moon-gets-closest-to-the-earth-for-the-year.md) _Context: earth, moon_
+2. [ Google reaches a deal with DoubleClick to buy the company for US$3.1 billion. ](/news/2007/04/13/google-reaches-a-deal-with-doubleclick-to-buy-the-company-for-us-3-1-billion.md) _Context: $, Google_
+3. [ Google doubles the storage space of its Gmail service to two gigabytes. ](/news/2005/04/1/google-doubles-the-storage-space-of-its-gmail-service-to-two-gigabytes.md) _Context: Google, gigabyte_
+4. [The organizers of the Google Lunar X Prize announce that the $20 million grand prize for a commercial lunar lander will expire on 31 March 2018 without a winner because none of its five finalist teams would be able to launch a mission before the deadline. ](/news/2018/01/23/the-organizers-of-the-google-lunar-x-prize-announce-that-the-20-million-grand-prize-for-a-commercial-lunar-lander-will-expire-on-31-march-2.md) _Context: Google_
+5. [Alphabet Inc. announces Executive Chairman Eric Schmidt, who has been chief executive of Google-Alphabet since 2001, will step down in January 2018. Schmidt will continue to serve on Alphabet's board of directors. ](/news/2017/12/21/alphabet-inc-announces-executive-chairman-eric-schmidt-who-has-been-chief-executive-of-google-alphabet-since-2001-will-step-down-in-janua.md) _Context: Google_

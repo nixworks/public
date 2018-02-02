@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/11/police-in-pakistan-register-a-criminal-case-with-former-president-pervez-musharraf-over-the-latter-s-decision-to-detain-judges-in-2007.html)  [JSON](/news/2009/08/11/police-in-pakistan-register-a-criminal-case-with-former-president-pervez-musharraf-over-the-latter-s-decision-to-detain-judges-in-2007.json)  [XML](/news/2009/08/11/police-in-pakistan-register-a-criminal-case-with-former-president-pervez-musharraf-over-the-latter-s-decision-to-detain-judges-in-2007.xml)  
+
 ### [2009-08-11](/news/2009/08/11/index.md)
 
+##### Pakistan
 #  Police in Pakistan register a criminal case with former President Pervez Musharraf over the latter's decision to detain judges in 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jAiZHLhGhRplMm9bCLkC6PeEmMXw)
 2. [Indian Express](http://www.indianexpress.com/news/Pak--s-B--day---gift---to-Musharraf---FIR-over-judges---detention/500770)

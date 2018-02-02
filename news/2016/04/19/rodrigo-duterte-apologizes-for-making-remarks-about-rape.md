@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/19/rodrigo-duterte-apologizes-for-making-remarks-a
 
 ### [2016-04-19](/news/2016/04/19/index.md)
 
+##### Philippine presidential election, 2016
 # Rodrigo Duterte apologizes for making remarks about rape. 
 
 

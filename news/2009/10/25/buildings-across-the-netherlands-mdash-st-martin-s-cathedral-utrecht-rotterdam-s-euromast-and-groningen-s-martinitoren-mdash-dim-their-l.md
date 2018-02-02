@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/25/buildings-across-the-netherlands-mdash-st-martin-s-cathedral-utrecht-rotterdam-s-euromast-and-groningen-s-martinitoren-mdash-dim-their-l.html)  [JSON](/news/2009/10/25/buildings-across-the-netherlands-mdash-st-martin-s-cathedral-utrecht-rotterdam-s-euromast-and-groningen-s-martinitoren-mdash-dim-their-l.json)  [XML](/news/2009/10/25/buildings-across-the-netherlands-mdash-st-martin-s-cathedral-utrecht-rotterdam-s-euromast-and-groningen-s-martinitoren-mdash-dim-their-l.xml)  
+
 ### [2009-10-25](/news/2009/10/25/index.md)
 
+##### Netherlands
 #  Buildings across the Netherlands&mdash;St. Martin's Cathedral, Utrecht, Rotterdam's Euromast and Groningen's Martinitoren&mdash;dim their lights as clocks go back in Europe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Netherlands Worldwide](http://www.rnw.nl/english/article/clocks-turned-back-europe)
 

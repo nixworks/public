@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/7/fighting-in-sudan-s-south-kordofan-state-between-northern-and-southern-allied-rebels-kills-six-people.html)  [JSON](/news/2011/06/7/fighting-in-sudan-s-south-kordofan-state-between-northern-and-southern-allied-rebels-kills-six-people.json)  [XML](/news/2011/06/7/fighting-in-sudan-s-south-kordofan-state-between-northern-and-southern-allied-rebels-kills-six-people.xml)  
+
 ### [2011-06-7](/news/2011/06/7/index.md)
 
+##### Sudan
 # Fighting in Sudan's South Kordofan state between northern and southern-allied rebels kills six people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7560FN20110607)
 

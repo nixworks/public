@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/9/pope-benedict-xvi-arrives-in-brazil-on-his-first-visit-to-latin-america-to-reaffirm-catholicism-in-the-region.html)  [JSON](/news/2007/05/9/pope-benedict-xvi-arrives-in-brazil-on-his-first-visit-to-latin-america-to-reaffirm-catholicism-in-the-region.json)  [XML](/news/2007/05/9/pope-benedict-xvi-arrives-in-brazil-on-his-first-visit-to-latin-america-to-reaffirm-catholicism-in-the-region.xml)  
+
 ### [2007-05-9](/news/2007/05/9/index.md)
 
+##### Pope Benedict XVI
 #  Pope Benedict XVI arrives in Brazil on his first visit to Latin America to reaffirm Catholicism in the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC News Australia](http://www.abc.net.au/news/newsitems/200705/s1918991.htm)
 

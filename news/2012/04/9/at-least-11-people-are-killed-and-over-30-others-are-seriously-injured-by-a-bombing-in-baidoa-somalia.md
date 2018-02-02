@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/9/at-least-11-people-are-killed-and-over-30-others-are-seriously-injured-by-a-bombing-in-baidoa-somalia.html)  [JSON](/news/2012/04/9/at-least-11-people-are-killed-and-over-30-others-are-seriously-injured-by-a-bombing-in-baidoa-somalia.json)  [XML](/news/2012/04/9/at-least-11-people-are-killed-and-over-30-others-are-seriously-injured-by-a-bombing-in-baidoa-somalia.xml)  
+
 ### [2012-04-9](/news/2012/04/9/index.md)
 
+##### Baidoa
 # At least 11 people are killed and over 30 others are seriously injured by a bombing in Baidoa, Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-17658522)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59565000/jpg/_59565827_014445608-1.jpg)

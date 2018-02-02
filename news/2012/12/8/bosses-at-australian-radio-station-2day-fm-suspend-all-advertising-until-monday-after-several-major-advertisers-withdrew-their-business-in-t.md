@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/8/bosses-at-australian-radio-station-2day-fm-suspend-all-advertising-until-monday-after-several-major-advertisers-withdrew-their-business-in-t.html)  [JSON](/news/2012/12/8/bosses-at-australian-radio-station-2day-fm-suspend-all-advertising-until-monday-after-several-major-advertisers-withdrew-their-business-in-t.json)  [XML](/news/2012/12/8/bosses-at-australian-radio-station-2day-fm-suspend-all-advertising-until-monday-after-several-major-advertisers-withdrew-their-business-in-t.xml)  
+
 ### [2012-12-8](/news/2012/12/8/index.md)
 
+##### Australia
 # Bosses at Australian radio station 2Day FM suspend all advertising until Monday after several major advertisers withdrew their business in the wake of the death of Jacintha Saldanha. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-20651246)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64647000/jpg/_64647733_t7h68a5x.jpg)
@@ -16,4 +20,4 @@
 2. [Detectives from Scotland Yard contact police in Australia over the apparent suicide of Jacintha Saldanha. ](/news/2012/12/9/detectives-from-scotland-yard-contact-police-in-australia-over-the-apparent-suicide-of-jacintha-saldanha.md) _Context: Australia, Jacintha Saldanha_
 3. [Jacintha Saldanha, a nurse at a London hospital, who took a hoax call from 2Day FM prankers about the Duchess of Cambridge, is found dead in a suspected suicide. ](/news/2012/12/7/jacintha-saldanha-a-nurse-at-a-london-hospital-who-took-a-hoax-call-from-2day-fm-prankers-about-the-duchess-of-cambridge-is-found-dead-in.md) _Context: 2Day FM, Jacintha Saldanha_
 4. [The two 2Day FM presenters who made a prank call to London's King Edward VII's Hospital give their first interviews to Australian television following the death of Jacintha Saldanha, the nurse who answered the call. ](/news/2012/12/10/the-two-2day-fm-presenters-who-made-a-prank-call-to-london-s-king-edward-vii-s-hospital-give-their-first-interviews-to-australian-television.md) _Context: 2Day FM, Jacintha Saldanha_
-5. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
+5. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/14/about-a-quarter-of-a-million-people-are-asked-to-leave-the-southern-japanese-island-of-kyushu-after-flooding-caused-by-days-of-heavy-rain-le.html)  [JSON](/news/2012/07/14/about-a-quarter-of-a-million-people-are-asked-to-leave-the-southern-japanese-island-of-kyushu-after-flooding-caused-by-days-of-heavy-rain-le.json)  [XML](/news/2012/07/14/about-a-quarter-of-a-million-people-are-asked-to-leave-the-southern-japanese-island-of-kyushu-after-flooding-caused-by-days-of-heavy-rain-le.xml)  
+
 ### [2012-07-14](/news/2012/07/14/index.md)
 
+##### Japan
 # About a quarter of a million people are asked to leave the southern Japanese island of Kyushu after flooding caused by days of heavy rain leaves 20 people dead. 
 
 Evacuation order issued for 240,000 people hit by heavy rains on main southern island of Kyushu.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/07/201271443655178159.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/7/14/201271444535319734_20.jpg)

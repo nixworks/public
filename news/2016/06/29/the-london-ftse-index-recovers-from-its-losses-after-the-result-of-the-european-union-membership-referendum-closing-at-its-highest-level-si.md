@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/29/the-london-ftse-index-recovers-from-its-losses-
 
 ### [2016-06-29](/news/2016/06/29/index.md)
 
+##### FTSE
 # The London FTSE index recovers from its losses after the result of the European Union membership referendum, closing at its highest level since April. 
 
 

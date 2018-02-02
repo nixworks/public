@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/8/government-taxes-and-duties-on-sugar-and-cooking-oil-in-algeria-are-lowered-in-response-to-three-days-of-unrest-over-increases-in-unemployme.html)  [JSON](/news/2011/01/8/government-taxes-and-duties-on-sugar-and-cooking-oil-in-algeria-are-lowered-in-response-to-three-days-of-unrest-over-increases-in-unemployme.json)  [XML](/news/2011/01/8/government-taxes-and-duties-on-sugar-and-cooking-oil-in-algeria-are-lowered-in-response-to-three-days-of-unrest-over-increases-in-unemployme.xml)  
+
 ### [2011-01-8](/news/2011/01/8/index.md)
 
+##### Algeria
 # Government taxes and duties on sugar and cooking oil in Algeria are lowered in response to three days of unrest over increases in unemployment and the cost of living. 
 
 In the wake of deadly protests, the government lowers duties on basic food supplies and cracks down on rioters.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/20111820132025240.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12142799)

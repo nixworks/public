@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/23/an-argentine-court-initiates-legal-proceedings-against-former-president-fernando-de-la-raoa-for-failing-to-prevent-the-deaths-of-five-prote.html)  [JSON](/news/2007/10/23/an-argentine-court-initiates-legal-proceedings-against-former-president-fernando-de-la-raoa-for-failing-to-prevent-the-deaths-of-five-prote.json)  [XML](/news/2007/10/23/an-argentine-court-initiates-legal-proceedings-against-former-president-fernando-de-la-raoa-for-failing-to-prevent-the-deaths-of-five-prote.xml)  
+
 ### [2007-10-23](/news/2007/10/23/index.md)
 
+##### Argentina
 #  An Argentine court initiates legal proceedings against former president Fernando de la Rua for failing to prevent the deaths of five protesters during the December 2001 riots at the peak of the 1999-2002 economic crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7059213.stm)
 

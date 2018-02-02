@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/28/the-anti-defamation-league-declares-that-the-pe
 
 ### [2016-09-28](/news/2016/09/28/index.md)
 
+##### Anti-Defamation League
 # The Anti-Defamation League declares that the "Pepe the Frog" meme is a hate symbol, particularly when used alongside other racially-charged symbolism. 
 
 

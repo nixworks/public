@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/1/indonesian-mount-sinabung-erupts-killing-14-people.html)  [JSON](/news/2014/02/1/indonesian-mount-sinabung-erupts-killing-14-people.json)  [XML](/news/2014/02/1/indonesian-mount-sinabung-erupts-killing-14-people.xml)  
+
 ### [2014-02-1](/news/2014/02/1/index.md)
 
+##### Indonesia
 # Indonesian Mount Sinabung erupts killing 14 people. 
 
 At least 14 people were killed, while three others were severelyinjured when Mount Sinabung in Karo regency, North Sumatra, spewed ash again on Saturday
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2014/02/01/14-presumed-dead-three-critically-injured-mt-sinabung-spews-ash.html)
 

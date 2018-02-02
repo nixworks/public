@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/5/typhoon-matsa-hits-taiwan.html)  [JSON](/news/2005/08/5/typhoon-matsa-hits-taiwan.json)  [XML](/news/2005/08/5/typhoon-matsa-hits-taiwan.xml)  
+
 ### [2005-08-5](/news/2005/08/5/index.md)
 
+##### Typhoon Matsa
 #  Typhoon Matsa hits Taiwan 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/161636/1/.html)
 

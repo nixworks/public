@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2008/05/13/the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.html)  [JSON](/news/2008/05/13/the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.json)  [XML](/news/2008/05/13/the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.xml)  
+
 ### [2008-05-13](/news/2008/05/13/index.md)
 
+##### State Peace and Development Council
 #  The State Peace and Development Council continues to block foreign aid workers from entering Burma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7397617.stm)
 2. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7398623.stm)
+
+### Changes:
+
+1. [ Cyclone Nargis: The State Peace and Development Council continues to block foreign aid workers from entering Burma. ](/news/2008/05/13/cyclone-nargis-p-the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.md) _2017-08-25 03:22:10 (First version)_
+2. [ Cyclone Nargis:: The State Peace and Development Council continues to block foreign aid workers from entering Burma. ](/news/2008/05/13/cyclone-nargis-the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.md) _2017-08-27 03:22:04 (Update)_
+2. [ The State Peace and Development Council continues to block foreign aid workers from entering Burma. ](/news/2008/05/13/the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [Burma is to swear in a new President within two days, marking a transfer from military to civilian government. ](/news/2011/03/29/burma-is-to-swear-in-a-new-president-within-two-days-marking-a-transfer-from-military-to-civilian-government.md) _Context: Burma, State Peace and Development Council_
 4. [Leaders of the Burmese junta, including Senior General Than Shwe, resign from their posts ahead of general elections in November. ](/news/2010/08/27/leaders-of-the-burmese-junta-including-senior-general-than-shwe-resign-from-their-posts-ahead-of-general-elections-in-november.md) _Context: Burma, State Peace and Development Council_
 5. [About 20 senior military leaders in Burma, including Prime Minister Thein Sein, retire from their posts in the State Peace and Development Council to participate in the general election later this year. ](/news/2010/04/27/about-20-senior-military-leaders-in-burma-including-prime-minister-thein-sein-retire-from-their-posts-in-the-state-peace-and-development-c.md) _Context: Burma, State Peace and Development Council_
-
-### Changes:
-
-1. [ Cyclone Nargis: The State Peace and Development Council continues to block foreign aid workers from entering Burma. ](/news/2008/05/13/cyclone-nargis-p-the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.md) _2017-08-25 03:22:10 (First version)_
-2. [ Cyclone Nargis:: The State Peace and Development Council continues to block foreign aid workers from entering Burma. ](/news/2008/05/13/cyclone-nargis-the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.md) _2017-08-27 03:22:04 (Update)_
-2. [ The State Peace and Development Council continues to block foreign aid workers from entering Burma. ](/news/2008/05/13/the-state-peace-and-development-council-continues-to-block-foreign-aid-workers-from-entering-burma.md) _(Current version)_

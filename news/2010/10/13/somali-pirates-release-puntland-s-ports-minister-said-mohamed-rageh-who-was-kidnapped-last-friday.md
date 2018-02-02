@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/13/somali-pirates-release-puntland-s-ports-minister-said-mohamed-rageh-who-was-kidnapped-last-friday.html)  [JSON](/news/2010/10/13/somali-pirates-release-puntland-s-ports-minister-said-mohamed-rageh-who-was-kidnapped-last-friday.json)  [XML](/news/2010/10/13/somali-pirates-release-puntland-s-ports-minister-said-mohamed-rageh-who-was-kidnapped-last-friday.xml)  
+
 ### [2010-10-13](/news/2010/10/13/index.md)
 
+##### Somali pirates
 # Somali pirates release Puntland's Ports Minister Said Mohamed Rageh who was kidnapped last Friday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11532786)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

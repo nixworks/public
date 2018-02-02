@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/06/11/eleven-chinese-road-construction-workers-and-an-afghan-guard-are-murdered-in-their-sleep-20-mi-south-of-the-afghan-city-of-kunduz-four-mor.html)  [JSON](/news/2004/06/11/eleven-chinese-road-construction-workers-and-an-afghan-guard-are-murdered-in-their-sleep-20-mi-south-of-the-afghan-city-of-kunduz-four-mor.json)  [XML](/news/2004/06/11/eleven-chinese-road-construction-workers-and-an-afghan-guard-are-murdered-in-their-sleep-20-mi-south-of-the-afghan-city-of-kunduz-four-mor.xml)  
+
 ### [2004-06-11](/news/2004/06/11/index.md)
 
+##### murder
 #  Eleven Chinese road construction workers and an Afghan guard are murdered in their sleep 20 mi south of the Afghan city of Kunduz. Four more Chinese are hospitalized for wounds suffered in the same attack. The dead are among more than 100 engineers and workers engaged on a World Bank project to build a road from Kabul to the Tajikistan border. Mullah Dadullah, one of the top Taliban commanders, recently issued orders to his fighters to strike at road builders. 
 
-Massacre of 11 Chinese road construction workers and Afghan guard as they slept in tents south of Kunduz is deadliest attack on foreigners since fall of Taliban; photo; map; more than 100 Chiense are with World Bank project to rebuild key road in Afghanistan (M)
 
 
-### Source:
 
-1. [NYT](http://www.nytimes.com/2004/06/11/international/asia/11afgh.html)
-1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+### Sources:
+
+1. [NYT](https://www.nytimes.com/2004/06/11/international/asia/11afgh.html)
 
 ### Related:
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/08/29/indonesian-detainees-riot-and-light-a-fire-at-the-northern-immigration-detention-centre-in-darwin-australia.html)  [JSON](/news/2010/08/29/indonesian-detainees-riot-and-light-a-fire-at-the-northern-immigration-detention-centre-in-darwin-australia.json)  [XML](/news/2010/08/29/indonesian-detainees-riot-and-light-a-fire-at-the-northern-immigration-detention-centre-in-darwin-australia.xml)  
+
 ### [2010-08-29](/news/2010/08/29/index.md)
 
+##### Indonesia
 # Indonesian detainees riot and light a fire at the Northern Immigration Detention Centre in Darwin, Australia. 
 
 The Immigration Department says Indonesian crewmen being held at the Darwin immigration detention centre sparked a protest this morning.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Online](http://www.abc.net.au/news/stories/2010/08/29/2996383.htm?section=justin)
-2. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100829/wl_asia_afp/australiaindonesiaimmigrationriot)
+2. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20100829/wl_asia_afp/australiaindonesiaimmigrationriot)
 2. [Cover Image](http://www.abc.net.au/news/image/961768-1x1-700x700.jpg)
 
 ### Related:

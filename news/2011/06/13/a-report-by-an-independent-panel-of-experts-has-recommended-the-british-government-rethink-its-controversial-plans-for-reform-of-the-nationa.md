@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/13/a-report-by-an-independent-panel-of-experts-has-recommended-the-british-government-rethink-its-controversial-plans-for-reform-of-the-nationa.html)  [JSON](/news/2011/06/13/a-report-by-an-independent-panel-of-experts-has-recommended-the-british-government-rethink-its-controversial-plans-for-reform-of-the-nationa.json)  [XML](/news/2011/06/13/a-report-by-an-independent-panel-of-experts-has-recommended-the-british-government-rethink-its-controversial-plans-for-reform-of-the-nationa.xml)  
+
 ### [2011-06-13](/news/2011/06/13/index.md)
 
+##### the coalition
 # A report by an independent panel of experts has recommended the British government rethink its controversial plans for reform of the National Health Service in England. 
 
 The NHS plans for England need a major re-write to ensure the best interests of patients are protected, an independent review says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/health-13751708)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53318000/jpg/_53318547_surgery.jpg)

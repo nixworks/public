@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/4/queen-elizabeth-ii-returns-to-buckingham-palace-after-spending-one-night-in-hospital.html)  [JSON](/news/2013/03/4/queen-elizabeth-ii-returns-to-buckingham-palace-after-spending-one-night-in-hospital.json)  [XML](/news/2013/03/4/queen-elizabeth-ii-returns-to-buckingham-palace-after-spending-one-night-in-hospital.xml)  
+
 ### [2013-03-4](/news/2013/03/4/index.md)
 
+##### Elizabeth II
 # Queen Elizabeth II returns to Buckingham Palace after spending one night in hospital. 
 
 The Queen returns to Buckingham Palace after being assessed in hospital for symptoms of gastroenteritis, but will not carry out any engagements this week.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21659635)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66192000/jpg/_66192368_queen_hosp_3.jpg)

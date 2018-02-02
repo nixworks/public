@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/15/italian-mp-romina-mura-complains-on-the-turkish-embassy-for-their-views-on-the-armenian-genocide.html)  [JSON](/news/2014/11/15/italian-mp-romina-mura-complains-on-the-turkish-embassy-for-their-views-on-the-armenian-genocide.json)  [XML](/news/2014/11/15/italian-mp-romina-mura-complains-on-the-turkish-embassy-for-their-views-on-the-armenian-genocide.xml)  
+
 ### [2014-11-15](/news/2014/11/15/index.md)
 
+##### genocide of Armenians
 # Italian MP, Romina Mura, complains on the Turkish embassy for their views on the Armenian Genocide. 
 
 Turkey has reached a point, that it now targets Pope Francis, who called it “the first genocide of the 20th century.”: Romina Mura 
 
 
-### Source:
+### Sources:
 
 1. [Armenpress](http://armenpress.am/eng/news/784125/italian-mp-complains-on-turkish-embassy’s-anti-armenian-activity.html)
 1. [Cover Image](https://armenpress.am/static/news/b/2014/11/784125.jpg)

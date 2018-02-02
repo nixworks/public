@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2015/02/14/premier-annastacia-palaszczuk-is-sworn-in-at-government-house-in-brisbane-after-officially-winning-minority-government-in-the-queensland-st.html)  [JSON](/news/2015/02/14/premier-annastacia-palaszczuk-is-sworn-in-at-government-house-in-brisbane-after-officially-winning-minority-government-in-the-queensland-st.json)  [XML](/news/2015/02/14/premier-annastacia-palaszczuk-is-sworn-in-at-government-house-in-brisbane-after-officially-winning-minority-government-in-the-queensland-st.xml)  
+
 ### [2015-02-14](/news/2015/02/14/index.md)
 
+##### Annastacia Palaszczuk
 #  Premier Annastacia Palaszczuk is sworn in at Government House in Brisbane after officially winning minority government in the Queensland state election, 2015.
 
 

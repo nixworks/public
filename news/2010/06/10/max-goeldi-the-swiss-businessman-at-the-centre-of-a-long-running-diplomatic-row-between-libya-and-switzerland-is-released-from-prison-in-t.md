@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/10/max-goeldi-the-swiss-businessman-at-the-centre-of-a-long-running-diplomatic-row-between-libya-and-switzerland-is-released-from-prison-in-t.html)  [JSON](/news/2010/06/10/max-goeldi-the-swiss-businessman-at-the-centre-of-a-long-running-diplomatic-row-between-libya-and-switzerland-is-released-from-prison-in-t.json)  [XML](/news/2010/06/10/max-goeldi-the-swiss-businessman-at-the-centre-of-a-long-running-diplomatic-row-between-libya-and-switzerland-is-released-from-prison-in-t.xml)  
+
 ### [2010-06-10](/news/2010/06/10/index.md)
 
+##### Max Goeldi
 # Max Goeldi, the Swiss businessman at the centre of a long-running diplomatic row between Libya and Switzerland, is released from prison in Tripoli. 
 
 Swiss businessman Max Goeldi, at the centre of a long-running row, is released from jail in Libya, his lawyer says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10290009.stm)
 2. [France24](http://www.france24.com/en/20100610-tripoli-libya-swiss-businessman-max-goeldi-released-libyan-prison)

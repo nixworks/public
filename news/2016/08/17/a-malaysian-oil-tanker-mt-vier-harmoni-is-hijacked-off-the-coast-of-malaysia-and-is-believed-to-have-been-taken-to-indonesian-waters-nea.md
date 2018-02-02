@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/17/a-malaysian-oil-tanker-mt-vier-harmoni-is-hijac
 
 ### [2016-08-17](/news/2016/08/17/index.md)
 
+##### Malaysia
 # A Malaysian oil tanker, MT "Vier Harmoni", is hijacked off the coast of Malaysia and is believed to have been taken to Indonesian waters near the island of Batam, according to the Malaysian Maritime Enforcement Agency. The identity of the hijackers is not yet known. 
 
 A Malaysian oil tanker that was believed to have been hijacked was actually commandeered by its own crew, officials say.

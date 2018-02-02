@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/30/african-union-leaders-agree-to-establish-a-hybrid-court-to-end-the-darfur-conflict-in-western-sudan.html)  [JSON](/news/2009/10/30/african-union-leaders-agree-to-establish-a-hybrid-court-to-end-the-darfur-conflict-in-western-sudan.json)  [XML](/news/2009/10/30/african-union-leaders-agree-to-establish-a-hybrid-court-to-end-the-darfur-conflict-in-western-sudan.xml)  
+
 ### [2009-10-30](/news/2009/10/30/index.md)
 
+##### African Union
 #  African Union leaders agree to establish a hybrid court to end the Darfur conflict in western Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8333531.stm)
 2. [Le Mali en ligne](http://www.afriquejet.com/news/africa-news/nigeria:-au-backs-%27hybrid-court%27-to-try-darfur-crimes-2009103037258.html)

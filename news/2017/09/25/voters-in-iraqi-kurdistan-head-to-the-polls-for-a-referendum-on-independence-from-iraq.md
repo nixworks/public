@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/25/voters-in-iraqi-kurdistan-head-to-the-polls-for
 
 ### [2017-09-25](/news/2017/09/25/index.md)
 
+##### Iraqi Kurdistan independence referendum, 2017
 # Voters in Iraqi Kurdistan head to the polls for a referendum on independence from Iraq. 
 
 The US and Britain are both opposed to the &quot;destabilising&quot; vote, arguing it distracts from the fight against Islamic State,

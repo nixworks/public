@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/22/cyclone-giri-which-rapidly-intensified-with-winds-of-144mph-makes-landfall-in-western-burma.html)  [JSON](/news/2010/10/22/cyclone-giri-which-rapidly-intensified-with-winds-of-144mph-makes-landfall-in-western-burma.json)  [XML](/news/2010/10/22/cyclone-giri-which-rapidly-intensified-with-winds-of-144mph-makes-landfall-in-western-burma.xml)  
+
 ### [2010-10-22](/news/2010/10/22/index.md)
 
+##### Cyclone Giri
 # Cyclone Giri, which rapidly intensified with winds of 144mph, makes landfall in western Burma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/10/22/myanmar.cyclone/)
 2. [The Irrawaddy](http://www.irrawaddy.org/highlight.php?art_id=19810&Submit=Submit)

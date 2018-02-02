@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/27/the-legislature-of-the-us-state-of-nebraska-votes-to-outlaw-the-death-penalty-overriding-a-veto-by-governor-pete-ricketts.html)  [JSON](/news/2015/05/27/the-legislature-of-the-us-state-of-nebraska-votes-to-outlaw-the-death-penalty-overriding-a-veto-by-governor-pete-ricketts.json)  [XML](/news/2015/05/27/the-legislature-of-the-us-state-of-nebraska-votes-to-outlaw-the-death-penalty-overriding-a-veto-by-governor-pete-ricketts.xml)  
+
 ### [2015-05-27](/news/2015/05/27/index.md)
 
+##### Legislature
 # The Legislature of the US state of Nebraska votes to outlaw the death penalty, overriding a veto by Governor Pete Ricketts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Lincoln Journal Star](http://journalstar.com/legislature/senators-vote-to-repeal-death-penalty/article_e2ee72ab-cfe2-548c-b0f7-8a3ccf3b05fa.html)
 1. [Cover Image](http://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/3/25/32503159-fcf3-54d7-a97c-0a34a3539900/55666482a02a8.image.jpg?resize=703%2C630)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/19/syrian-government-troops-and-allied-militia-ret
 
 ### [2017-11-19](/news/2017/11/19/index.md)
 
+##### Syrian Civil War
 # Syrian government troops and allied militia retake Abu Kamal, ISIL's last urban stronghold in Syria. 
 
 

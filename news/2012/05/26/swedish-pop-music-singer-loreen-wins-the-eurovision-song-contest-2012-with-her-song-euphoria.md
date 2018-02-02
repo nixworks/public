@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/26/swedish-pop-music-singer-loreen-wins-the-eurovision-song-contest-2012-with-her-song-euphoria.html)  [JSON](/news/2012/05/26/swedish-pop-music-singer-loreen-wins-the-eurovision-song-contest-2012-with-her-song-euphoria.json)  [XML](/news/2012/05/26/swedish-pop-music-singer-loreen-wins-the-eurovision-song-contest-2012-with-her-song-euphoria.xml)  
+
 ### [2012-05-26](/news/2012/05/26/index.md)
 
+##### Swede
 # Swedish pop music singer Loreen wins the Eurovision Song Contest 2012 with her song "Euphoria". 
 
 Sweden&#039;s Loreen wins Eurovision in Azerbaijan before a television audience of 100 million.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC Online](http://www.abc.net.au/news/2012-05-27/swedens-loreen-wins-eurovision/4035638/?site=newcastle)
 1. [Cover Image](http://www.abc.net.au/news/image/4035692-1x1-700x700.jpg)

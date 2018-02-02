@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/6/american-born-colleen-larose-who-calls-herself-jihad-jane-is-sentenced-to-10-years-in-prison-for-a-failed-al-qaeda-linked-plot-to-kill-swe.html)  [JSON](/news/2014/01/6/american-born-colleen-larose-who-calls-herself-jihad-jane-is-sentenced-to-10-years-in-prison-for-a-failed-al-qaeda-linked-plot-to-kill-swe.json)  [XML](/news/2014/01/6/american-born-colleen-larose-who-calls-herself-jihad-jane-is-sentenced-to-10-years-in-prison-for-a-failed-al-qaeda-linked-plot-to-kill-swe.xml)  
+
 ### [2014-01-6](/news/2014/01/6/index.md)
 
+##### Colleen LaRose
 # American-born Colleen LaRose, who calls herself Jihad Jane, is sentenced to 10 years in prison for a failed al Qaeda-linked plot to kill Swedish artist Lars Vilks who had depicted the head of the Muslim Prophet Mohammad on a dog. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-25630399)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/72112000/jpg/_72112416_72112415.jpg)

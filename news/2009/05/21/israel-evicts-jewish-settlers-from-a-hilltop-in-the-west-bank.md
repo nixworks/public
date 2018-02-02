@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/05/21/israel-evicts-jewish-settlers-from-a-hilltop-in-the-west-bank.html)  [JSON](/news/2009/05/21/israel-evicts-jewish-settlers-from-a-hilltop-in-the-west-bank.json)  [XML](/news/2009/05/21/israel-evicts-jewish-settlers-from-a-hilltop-in-the-west-bank.xml)  
+
 ### [2009-05-21](/news/2009/05/21/index.md)
 
+##### Israel
 #  Israel evicts Jewish settlers from a hilltop in the West Bank. 
 
 Israeli police evicted Jewish settlers from a West Bank hilltop on Thursday, a day after Prime Minister Benjamin Netanyahu returned from Washington, where he was urged to take just such action.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSLL8416120090521)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090521&t=2&i=10210909&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-21T183714Z_01_BTRE54K0WO800_RTROPTP_0_ISRAEL-PALESTINIANS-OUTPOST)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSLL8416120090521)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20090521&t=2&i=10210909&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-21T183714Z_01_BTRE54K0WO800_RTROPTP_0_ISRAEL-PALESTINIANS-OUTPOST)
 
 ### Related:
 

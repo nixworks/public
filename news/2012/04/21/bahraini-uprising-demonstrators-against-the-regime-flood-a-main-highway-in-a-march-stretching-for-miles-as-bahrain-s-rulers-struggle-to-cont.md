@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/21/bahraini-uprising-demonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers-struggle-to-cont.html)  [JSON](/news/2012/04/21/bahraini-uprising-demonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers-struggle-to-cont.json)  [XML](/news/2012/04/21/bahraini-uprising-demonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers-struggle-to-cont.xml)  
+
 ### [2012-04-21](/news/2012/04/21/index.md)
 
+##### 2011-2012 Bahraini uprising
 # Bahraini uprising:Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. 
 
 Anti-government protesters in Bahrain flooded a main highway in a march stretching for miles and security forces fired tear gas in breakaway clashes as the country&#039;s leaders struggle to contain opposition anger ahead of the Grand Prix.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/04/201242111629488195.html)
 2. [BBC](http://www.bbc.co.uk/news/world-17796833)
@@ -18,6 +22,12 @@ Anti-government protesters in Bahrain flooded a main highway in a march stretchi
 9. [The Irish Times](http://www.irishtimes.com/newspaper/weekend/2012/0421/1224315001314.html)
 9. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02199/bahrain_2199491a.jpg)
 
+### Changes:
+
+1. [Arab Spring:Bahraini uprising:Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/arab-spring-pbahraini-uprising-pdemonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers-st.md) _2017-08-25 03:35:32 (First version)_
+2. [Arab Spring:: Bahraini uprising:: Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/arab-spring-bahraini-uprising-demonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers.md) _2017-08-27 03:35:41 (Update)_
+2. [Bahraini uprising:Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/bahraini-uprising-demonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers-struggle-to-cont.md) _(Current version)_
+
 ### Related:
 
 1. [Bahraini uprising: After demanding the cancellation of the 2012 Bahrain Grand Prix, the end of the crackdown on dissent, and the release of her father, Abdulhadi al-Khawaja on hunger strike in prison for the past 76 days, Zainab al-Khawaja is arrested by regime forces. ](/news/2012/04/24/bahraini-uprising-after-demanding-the-cancellation-of-the-2012-bahrain-grand-prix-the-end-of-the-crackdown-on-dissent-and-the-release-of.md) _Context: 2011-2012 Bahraini uprising, 2012 Bahrain Grand Prix_
@@ -25,9 +35,3 @@ Anti-government protesters in Bahrain flooded a main highway in a march stretchi
 3. [2011-2012 Bahraini uprising: Police break up protests in the capital Manama. ](/news/2012/05/1/2011a2012-bahraini-uprising-police-break-up-protests-in-the-capital-manama.md) _Context: 2011-2012 Bahraini uprising_
 4. [2011-2012 Bahraini uprising: Fears are expressed for the life of Abdulhadi Khawaja, one of the several opposition leaders sentenced to life imprisonment. ](/news/2012/04/3/2011a2012-bahraini-uprising-fears-are-expressed-for-the-life-of-abdulhadi-khawaja-one-of-the-several-opposition-leaders-sentenced-to-lif.md) _Context: 2011-2012 Bahraini uprising_
 5. [2011-2012 Bahraini uprising: Mourners and police clash at the funeral of a protester who was killed last week. ](/news/2012/04/26/2011a2012-bahraini-uprising-mourners-and-police-clash-at-the-funeral-of-a-protester-who-was-killed-last-week.md) _Context: 2011-2012 Bahraini uprising_
-
-### Changes:
-
-1. [Arab Spring:Bahraini uprising:Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/arab-spring-pbahraini-uprising-pdemonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers-st.md) _2017-08-25 03:35:32 (First version)_
-2. [Arab Spring:: Bahraini uprising:: Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/arab-spring-bahraini-uprising-demonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers.md) _2017-08-27 03:35:41 (Update)_
-2. [Bahraini uprising:Demonstrators against the regime flood a main highway in a march stretching for miles as Bahrain's rulers struggle to contain opposition anger ahead of the Formula 1 Grand Prix. ](/news/2012/04/21/bahraini-uprising-demonstrators-against-the-regime-flood-a-main-highway-in-a-march-stretching-for-miles-as-bahrain-s-rulers-struggle-to-cont.md) _(Current version)_

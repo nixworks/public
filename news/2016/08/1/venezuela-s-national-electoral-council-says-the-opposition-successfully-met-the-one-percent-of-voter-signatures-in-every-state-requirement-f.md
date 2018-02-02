@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/1/venezuela-s-national-electoral-council-says-the-
 
 ### [2016-08-1](/news/2016/08/1/index.md)
 
+##### 2016 state of emergency in Venezuela
 # Venezuela's National Electoral Council says the opposition successfully met the one percent of voter signatures in every state requirement for a referendum to recall President Nicolas Maduro. Council head Tibisay Lucena did not name a date for the next phase of the referendum process: collect 20 percent of voters' signatures. 
 
 

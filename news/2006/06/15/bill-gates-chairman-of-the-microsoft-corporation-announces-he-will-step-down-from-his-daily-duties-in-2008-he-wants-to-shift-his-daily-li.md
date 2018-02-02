@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/15/bill-gates-chairman-of-the-microsoft-corporation-announces-he-will-step-down-from-his-daily-duties-in-2008-he-wants-to-shift-his-daily-li.html)  [JSON](/news/2006/06/15/bill-gates-chairman-of-the-microsoft-corporation-announces-he-will-step-down-from-his-daily-duties-in-2008-he-wants-to-shift-his-daily-li.json)  [XML](/news/2006/06/15/bill-gates-chairman-of-the-microsoft-corporation-announces-he-will-step-down-from-his-daily-duties-in-2008-he-wants-to-shift-his-daily-li.xml)  
+
 ### [2006-06-15](/news/2006/06/15/index.md)
 
+##### Bill Gates
 #  Bill Gates, Chairman of the Microsoft Corporation announces he will step down from his daily duties in 2008. He wants to shift his daily life to his charity, the Bill and Melinda Gates Foundation. His successors will be Microsoft Technical Officer Ray Ozzie (software architecturing) and Craig Mundie for researching and strategic affairs. 
 
 Microsoft Chairman and founder Bill Gates said Thursday he plans to step away from his daily role at the software giant over a two-year transition period to spend more time on his charitable enterprises. 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/13348456/)
 1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/060615/060615_gates_vmed_2p.standard.jpg)

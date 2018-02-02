@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/31/iran-s-foreign-ministry-criticises-state-media-for-branding-french-first-lady-carla-bruni-as-a-prostitute-over-her-support-for-sakineh-moh.html)  [JSON](/news/2010/08/31/iran-s-foreign-ministry-criticises-state-media-for-branding-french-first-lady-carla-bruni-as-a-prostitute-over-her-support-for-sakineh-moh.json)  [XML](/news/2010/08/31/iran-s-foreign-ministry-criticises-state-media-for-branding-french-first-lady-carla-bruni-as-a-prostitute-over-her-support-for-sakineh-moh.xml)  
+
 ### [2010-08-31](/news/2010/08/31/index.md)
 
+##### Iran
 # Iran's foreign ministry criticises state media for branding French first lady Carla Bruni as a "prostitute" over her support for Sakineh Mohammadi Ashtiani who faces death by stoning after being convicted of adultery. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.news.com.au/breaking-news/carla-bruni-prostitute-slur-slammed/story-e6frfku0-1225912517187)
 2. [AP](http://www.google.com/hostednews/ap/article/ALeqM5jGKdAlGxhi2IiOMIsA_QzFtphGdAD9HU0K0G0)

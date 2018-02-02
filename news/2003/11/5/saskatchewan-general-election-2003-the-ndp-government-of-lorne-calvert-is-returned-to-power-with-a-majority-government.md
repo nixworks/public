@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/5/saskatchewan-general-election-2003-the-ndp-government-of-lorne-calvert-is-returned-to-power-with-a-majority-government.html)  [JSON](/news/2003/11/5/saskatchewan-general-election-2003-the-ndp-government-of-lorne-calvert-is-returned-to-power-with-a-majority-government.json)  [XML](/news/2003/11/5/saskatchewan-general-election-2003-the-ndp-government-of-lorne-calvert-is-returned-to-power-with-a-majority-government.xml)  
+
 ### [2003-11-5](/news/2003/11/5/index.md)
 
+##### Saskatchewan general election, 2003
 #  Saskatchewan general election, 2003: The NDP government of Lorne Calvert is returned to power with a majority government.
 
 

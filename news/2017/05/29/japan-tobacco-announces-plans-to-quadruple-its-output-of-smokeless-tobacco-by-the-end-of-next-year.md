@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/29/japan-tobacco-announces-plans-to-quadruple-its-
 
 ### [2017-05-29](/news/2017/05/29/index.md)
 
+##### Japan Tobacco
 # Japan Tobacco announces plans to quadruple its output of smokeless tobacco by the end of next year. 
 
 Japan Tobacco Inc plans to spend $500 million to quadruple its smokeless tobacco production capacity by the end of 2018, as it races against bigger rival Philip Morris for a larger share of the Japanese vaping products market.

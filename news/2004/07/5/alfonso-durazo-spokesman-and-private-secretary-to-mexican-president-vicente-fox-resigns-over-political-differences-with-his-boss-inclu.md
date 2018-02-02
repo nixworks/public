@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/5/alfonso-durazo-spokesman-and-private-secretary-to-mexican-president-vicente-fox-resigns-over-political-differences-with-his-boss-inclu.html)  [JSON](/news/2004/07/5/alfonso-durazo-spokesman-and-private-secretary-to-mexican-president-vicente-fox-resigns-over-political-differences-with-his-boss-inclu.json)  [XML](/news/2004/07/5/alfonso-durazo-spokesman-and-private-secretary-to-mexican-president-vicente-fox-resigns-over-political-differences-with-his-boss-inclu.xml)  
+
 ### [2004-07-5](/news/2004/07/5/index.md)
 
+##### Alfonso Durazo
 #  Alfonso Durazo, spokesman and private secretary to Mexican President Vicente Fox, resigns over "political differences" with his boss, including the presidential ambitions of First Lady Marta Sahagn. The announcement came shortly after, but was not related to, a bad day for Fox's PAN party in state elections in its northern heartland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3868771.stm)
 2. [Reuters](http://story.news.yahoo.com/news?tmpl=story&cid=586&e=9&u=/nm/20040705/wl_nm/mexico_vote_dc)

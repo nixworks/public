@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/21/a-defendant-is-shot-to-death-by-a-u-s-marshal-at-a-u-s-federal-court-in-salt-lake-city-utah-after-attempting-to-attack-a-witness.html)  [JSON](/news/2014/04/21/a-defendant-is-shot-to-death-by-a-u-s-marshal-at-a-u-s-federal-court-in-salt-lake-city-utah-after-attempting-to-attack-a-witness.json)  [XML](/news/2014/04/21/a-defendant-is-shot-to-death-by-a-u-s-marshal-at-a-u-s-federal-court-in-salt-lake-city-utah-after-attempting-to-attack-a-witness.xml)  
+
 ### [2014-04-21](/news/2014/04/21/index.md)
 
+##### US Marshals
 # A defendant is shot to death by a U.S. marshal at a U.S. federal court in Salt Lake City, Utah after attempting to attack a witness. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''San Francisco Chronicle](http://www.sfgate.com/news/crime/article/Man-dies-after-being-shot-at-federal-courthouse-5418074.php)
 

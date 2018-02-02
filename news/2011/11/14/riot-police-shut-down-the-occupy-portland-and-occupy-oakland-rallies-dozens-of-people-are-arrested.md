@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/14/riot-police-shut-down-the-occupy-portland-and-occupy-oakland-rallies-dozens-of-people-are-arrested.html)  [JSON](/news/2011/11/14/riot-police-shut-down-the-occupy-portland-and-occupy-oakland-rallies-dozens-of-people-are-arrested.json)  [XML](/news/2011/11/14/riot-police-shut-down-the-occupy-portland-and-occupy-oakland-rallies-dozens-of-people-are-arrested.xml)  
+
 ### [2011-11-14](/news/2011/11/14/index.md)
 
+##### Occupy Portland
 # Riot police shut down the Occupy Portland and Occupy Oakland rallies. Dozens of people are arrested. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-15715256)
 2. [Los Angeles Times](http://latimesblogs.latimes.com/lanow/2011/11/32-arrested-at-occupy-oakland-camp.html)

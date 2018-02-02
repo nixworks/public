@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/05/30/miller-brewing-is-acquired-from-philip-morris-by-south-african-brewing-for-3-6-billion-in-stock.html)  [JSON](/news/2002/05/30/miller-brewing-is-acquired-from-philip-morris-by-south-african-brewing-for-3-6-billion-in-stock.json)  [XML](/news/2002/05/30/miller-brewing-is-acquired-from-philip-morris-by-south-african-brewing-for-3-6-billion-in-stock.xml)  
+
 ### [2002-05-30](/news/2002/05/30/index.md)
 
+##### Miller Brewing
 #  Miller Brewing is acquired from Philip Morris by South African Brewing for $3.6 billion in stock.
 
 

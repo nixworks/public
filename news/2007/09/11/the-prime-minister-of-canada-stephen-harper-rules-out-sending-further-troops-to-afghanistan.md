@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/11/the-prime-minister-of-canada-stephen-harper-rules-out-sending-further-troops-to-afghanistan.html)  [JSON](/news/2007/09/11/the-prime-minister-of-canada-stephen-harper-rules-out-sending-further-troops-to-afghanistan.json)  [XML](/news/2007/09/11/the-prime-minister-of-canada-stephen-harper-rules-out-sending-further-troops-to-afghanistan.xml)  
+
 ### [2007-09-11](/news/2007/09/11/index.md)
 
+##### Prime Minister of Canada
 #  The Prime Minister of Canada Stephen Harper rules out sending further troops to Afghanistan. 
 
 Canadian Prime Minister Stephen Harper says his country will not be sending extra troops to Afghanistan to serve alongside Australian soldiers.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/09/11/2029944.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/666594-1x1-700x700.jpg)

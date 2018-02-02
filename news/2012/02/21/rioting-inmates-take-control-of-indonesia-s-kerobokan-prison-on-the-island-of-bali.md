@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/21/rioting-inmates-take-control-of-indonesia-s-kerobokan-prison-on-the-island-of-bali.html)  [JSON](/news/2012/02/21/rioting-inmates-take-control-of-indonesia-s-kerobokan-prison-on-the-island-of-bali.json)  [XML](/news/2012/02/21/rioting-inmates-take-control-of-indonesia-s-kerobokan-prison-on-the-island-of-bali.xml)  
+
 ### [2012-02-21](/news/2012/02/21/index.md)
 
+##### Indonesia
 # Rioting inmates take control of Indonesia's Kerobokan Prison on the island of Bali. 
 
 Police have reclaimed control of Bali&#039;s infamous Kerobokan prison, which last night erupted in rioting as prisoners set fire to parts of the desperately overcrowded facility and hurled stones at staff.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/world/inmates-take-control-as-riot-erupts-at--balis-kerobokan-prison-20120222-1tmez.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/t/m/z/a/image.related.articleLeadwide.620x349.1tmez.png/1329952014233.jpg)

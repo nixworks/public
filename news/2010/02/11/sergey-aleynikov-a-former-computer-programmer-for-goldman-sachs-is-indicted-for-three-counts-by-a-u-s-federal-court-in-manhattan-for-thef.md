@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/11/sergey-aleynikov-a-former-computer-programmer-for-goldman-sachs-is-indicted-for-three-counts-by-a-u-s-federal-court-in-manhattan-for-thef.html)  [JSON](/news/2010/02/11/sergey-aleynikov-a-former-computer-programmer-for-goldman-sachs-is-indicted-for-three-counts-by-a-u-s-federal-court-in-manhattan-for-thef.json)  [XML](/news/2010/02/11/sergey-aleynikov-a-former-computer-programmer-for-goldman-sachs-is-indicted-for-three-counts-by-a-u-s-federal-court-in-manhattan-for-thef.xml)  
+
 ### [2010-02-11](/news/2010/02/11/index.md)
 
+##### Sergey Aleynikov
 # Sergey Aleynikov, a former computer programmer for Goldman Sachs, is indicted for three counts by a U.S. federal court in Manhattan for theft of trade secrets, transportation of stolen property in interstate and foreign commerce, and unauthorized computer access. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748703382904575059660427173510.html?mod=googlenews_wsj)
 

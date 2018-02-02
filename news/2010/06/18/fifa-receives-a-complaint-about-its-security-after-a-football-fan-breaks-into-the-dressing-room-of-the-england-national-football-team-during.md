@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/18/fifa-receives-a-complaint-about-its-security-after-a-football-fan-breaks-into-the-dressing-room-of-the-england-national-football-team-during.html)  [JSON](/news/2010/06/18/fifa-receives-a-complaint-about-its-security-after-a-football-fan-breaks-into-the-dressing-room-of-the-england-national-football-team-during.json)  [XML](/news/2010/06/18/fifa-receives-a-complaint-about-its-security-after-a-football-fan-breaks-into-the-dressing-room-of-the-england-national-football-team-during.xml)  
+
 ### [2010-06-18](/news/2010/06/18/index.md)
 
+##### FIFA
 # FIFA receives a complaint about its security after a football fan breaks into the dressing room of the England national football team during a 2010 FIFA World Cup game in which the team were booed in South Africa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/8749232.stm)
 

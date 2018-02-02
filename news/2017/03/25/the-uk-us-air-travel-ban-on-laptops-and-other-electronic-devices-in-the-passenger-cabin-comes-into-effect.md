@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/25/the-uk-us-air-travel-ban-on-laptops-and-other-e
 
 ### [2017-03-25](/news/2017/03/25/index.md)
 
+##### 
 # The UK-US air travel ban on laptops and other electronic devices in the passenger cabin comes into effect. 
 
 The US and UK bans affect direct flights from some Middle East airports.

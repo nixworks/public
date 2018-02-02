@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/26/zimbabwe-denies-reports-that-president-robert-mugabe-suffered-a-health-scare.html)  [JSON](/news/2009/08/26/zimbabwe-denies-reports-that-president-robert-mugabe-suffered-a-health-scare.json)  [XML](/news/2009/08/26/zimbabwe-denies-reports-that-president-robert-mugabe-suffered-a-health-scare.xml)  
+
 ### [2009-08-26](/news/2009/08/26/index.md)
 
+##### Zimbabwe
 #  Zimbabwe denies reports that President Robert Mugabe suffered a health scare. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Nation](http://www.nation.co.ke/News/africa/-/1066/645538/-/137iwe4z/-/)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/aug/26/robert-mugabe-reported-health-scare)

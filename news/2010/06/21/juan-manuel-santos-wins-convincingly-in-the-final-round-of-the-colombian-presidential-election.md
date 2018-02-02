@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/21/juan-manuel-santos-wins-convincingly-in-the-final-round-of-the-colombian-presidential-election.html)  [JSON](/news/2010/06/21/juan-manuel-santos-wins-convincingly-in-the-final-round-of-the-colombian-presidential-election.json)  [XML](/news/2010/06/21/juan-manuel-santos-wins-convincingly-in-the-final-round-of-the-colombian-presidential-election.xml)  
+
 ### [2010-06-21](/news/2010/06/21/index.md)
 
+##### Juan Manuel Santos
 # Juan Manuel Santos wins convincingly in the final round of the Colombian presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10362250.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

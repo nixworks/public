@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/6-eritrean-migrants-attempting-to-enter-israel-are-shot-dead-by-smugglers-and-egyptian-border-guards-while-several-others-are-injured.html)  [JSON](/news/2010/08/14/6-eritrean-migrants-attempting-to-enter-israel-are-shot-dead-by-smugglers-and-egyptian-border-guards-while-several-others-are-injured.json)  [XML](/news/2010/08/14/6-eritrean-migrants-attempting-to-enter-israel-are-shot-dead-by-smugglers-and-egyptian-border-guards-while-several-others-are-injured.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### Eritrea
 # 6 Eritrean migrants attempting to enter Israel are shot dead by smugglers and Egyptian border guards, while several others are injured. 
 
 Six migrants trying to enter Israel from Egypt are killed; four in a gunfight with people smugglers and two by Egyptian border guards.
 
 
-### Source:
+### Sources:
 
 1. [Al-Masry Al-Youm](http://www.almasryalyoum.com/en/news/africans-killed-sinai-gun-fight)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10975851)

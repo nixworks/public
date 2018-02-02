@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/12/an-attorney-convicted-of-leaking-evidence-given-by-u-s-baseball-player-barry-bonds-and-other-athletes-from-the-bay-area-laboratory-co-oper.html)  [JSON](/news/2007/07/12/an-attorney-convicted-of-leaking-evidence-given-by-u-s-baseball-player-barry-bonds-and-other-athletes-from-the-bay-area-laboratory-co-oper.json)  [XML](/news/2007/07/12/an-attorney-convicted-of-leaking-evidence-given-by-u-s-baseball-player-barry-bonds-and-other-athletes-from-the-bay-area-laboratory-co-oper.xml)  
+
 ### [2007-07-12](/news/2007/07/12/index.md)
 
+##### Barry Bonds
 #  An attorney convicted of leaking evidence given by U.S. baseball player Barry Bonds and other athletes from the Bay Area Laboratory Co-operative (BALCO) Inquiry is sentenced to two and a half years in prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''San Jose Mercury News](http://www.mercurynews.com/breakingnews/ci_6360156)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/6/lord-saville-is-asked-to-hold-back-until-after-the-uk-general-election-the-publication-of-the-bloody-sunday-1972-report-into-the-killing-o.html)  [JSON](/news/2010/04/6/lord-saville-is-asked-to-hold-back-until-after-the-uk-general-election-the-publication-of-the-bloody-sunday-1972-report-into-the-killing-o.json)  [XML](/news/2010/04/6/lord-saville-is-asked-to-hold-back-until-after-the-uk-general-election-the-publication-of-the-bloody-sunday-1972-report-into-the-killing-o.xml)  
+
 ### [2010-04-6](/news/2010/04/6/index.md)
 
+##### Lord Saville
 # Lord Saville is asked to hold back until after the UK general election the publication of the Bloody Sunday (1972) report into the killing of 14 unarmed civil rights protesters by British Army paratroopers in Bogside, Derry. 
 
 The Bloody Sunday report into the death of 14 people at the hands of the British Army will not be published until after the UK election.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/foyle_and_west/8606048.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0406/bloodysunday.html)

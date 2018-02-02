@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/19/ethologist-evolutionary-biologist-and-atheist-richard-dawkins-announces-his-support-for-british-education-secretary-michael-gove-s-plan-to.html)  [JSON](/news/2012/05/19/ethologist-evolutionary-biologist-and-atheist-richard-dawkins-announces-his-support-for-british-education-secretary-michael-gove-s-plan-to.json)  [XML](/news/2012/05/19/ethologist-evolutionary-biologist-and-atheist-richard-dawkins-announces-his-support-for-british-education-secretary-michael-gove-s-plan-to.xml)  
+
 ### [2012-05-19](/news/2012/05/19/index.md)
 
+##### Richard Dawkins
 # Ethologist, evolutionary biologist and atheist Richard Dawkins announces his support for British education secretary Michael Gove's plan to send free King James Bibles to every state school. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/science/2012/may/19/richard-dawkins-backs-free-bible)
 

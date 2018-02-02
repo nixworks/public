@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/24/two-new-justices-of-the-supreme-court-of-canada-are-named-by-justice-minister-irwin-cotler-louise-charron-and-rosalie-abella-they-will-un.html)  [JSON](/news/2004/08/24/two-new-justices-of-the-supreme-court-of-canada-are-named-by-justice-minister-irwin-cotler-louise-charron-and-rosalie-abella-they-will-un.json)  [XML](/news/2004/08/24/two-new-justices-of-the-supreme-court-of-canada-are-named-by-justice-minister-irwin-cotler-louise-charron-and-rosalie-abella-they-will-un.xml)  
+
 ### [2004-08-24](/news/2004/08/24/index.md)
 
+##### Supreme Court of Canada
 #  Two new justices of the Supreme Court of Canada are named by Justice Minister Irwin Cotler: Louise Charron and Rosalie Abella. They will undergo a new parliamentary screening process, though their appointment cannot be blocked. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2004/08/24/cotlersupreme040824.html)
 

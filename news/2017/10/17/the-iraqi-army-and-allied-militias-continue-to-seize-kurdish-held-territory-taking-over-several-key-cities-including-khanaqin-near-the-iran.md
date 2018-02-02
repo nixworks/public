@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/17/the-iraqi-army-and-allied-militias-continue-to-
 
 ### [2017-10-17](/news/2017/10/17/index.md)
 
+##### 2017 Iraqi-Kurdish conflict
 # The Iraqi Army and allied militias continue to seize Kurdish-held territory, taking over several key cities including Khanaqin near the Iranian border, Jalawla, Bashiqa, Sinjar and Rabia, as well as the Mosul Dam. 
 
 The military push is raising doubts about the future of Iraqi Kurdistan&rsquo;s leadership.

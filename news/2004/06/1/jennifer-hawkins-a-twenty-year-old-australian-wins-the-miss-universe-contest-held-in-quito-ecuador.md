@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/1/jennifer-hawkins-a-twenty-year-old-australian-wins-the-miss-universe-contest-held-in-quito-ecuador.html)  [JSON](/news/2004/06/1/jennifer-hawkins-a-twenty-year-old-australian-wins-the-miss-universe-contest-held-in-quito-ecuador.json)  [XML](/news/2004/06/1/jennifer-hawkins-a-twenty-year-old-australian-wins-the-miss-universe-contest-held-in-quito-ecuador.xml)  
+
 ### [2004-06-1](/news/2004/06/1/index.md)
 
+##### Jennifer Hawkins
 #  Jennifer Hawkins, a twenty-year-old Australian, wins the Miss Universe contest, held in Quito, Ecuador. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://story.news.yahoo.com/news?tmpl=story&cid=514&e=7&u=/ap/20040602/ap_on_en_ot/ecuador_miss_universe)
 

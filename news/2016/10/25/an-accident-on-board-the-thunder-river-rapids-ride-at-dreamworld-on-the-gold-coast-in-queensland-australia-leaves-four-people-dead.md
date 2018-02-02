@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/25/an-accident-on-board-the-thunder-river-rapids-r
 
 ### [2016-10-25](/news/2016/10/25/index.md)
 
+##### Thunder River Rapids Ride
 # An accident on board the Thunder River Rapids Ride at Dreamworld on the Gold Coast in Queensland, Australia, leaves four people dead. 
 
 POLICE have confirmed the devastating theme park accident that killed four people at Dreamworld on the Gold Coast was caught on CCTV, as investigations into the tragedy continue.

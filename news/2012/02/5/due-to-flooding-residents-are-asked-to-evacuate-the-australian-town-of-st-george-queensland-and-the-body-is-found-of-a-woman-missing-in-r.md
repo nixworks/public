@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/5/due-to-flooding-residents-are-asked-to-evacuate-the-australian-town-of-st-george-queensland-and-the-body-is-found-of-a-woman-missing-in-r.html)  [JSON](/news/2012/02/5/due-to-flooding-residents-are-asked-to-evacuate-the-australian-town-of-st-george-queensland-and-the-body-is-found-of-a-woman-missing-in-r.json)  [XML](/news/2012/02/5/due-to-flooding-residents-are-asked-to-evacuate-the-australian-town-of-st-george-queensland-and-the-body-is-found-of-a-woman-missing-in-r.xml)  
+
 ### [2012-02-5](/news/2012/02/5/index.md)
 
+##### Australia
 # Due to flooding, residents are asked to evacuate the Australian town of St George, Queensland, and the body is found of a woman missing in Roma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2012-02-05/residents-warned-to-leave-while-they-still-can/3812386)
 

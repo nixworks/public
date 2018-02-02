@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/4/twelve-defendants-involved-in-the-chinese-slave-scandal-are-charged-for-illegal-detention-and-murder.html)  [JSON](/news/2007/07/4/twelve-defendants-involved-in-the-chinese-slave-scandal-are-charged-for-illegal-detention-and-murder.json)  [XML](/news/2007/07/4/twelve-defendants-involved-in-the-chinese-slave-scandal-are-charged-for-illegal-detention-and-murder.xml)  
+
 ### [2007-07-4](/news/2007/07/4/index.md)
 
+##### Chinese slave scandal
 #  Twelve defendants involved in the Chinese slave scandal are charged for illegal detention and murder. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2007-07/04/content_6328928.htm)
 

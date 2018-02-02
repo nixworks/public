@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/3/since-december-flooding-in-zimbabwe-has-killed-2
 
 ### [2017-03-3](/news/2017/03/3/index.md)
 
+##### 2016-17 Zimbabwe floods
 # Since December, flooding in Zimbabwe has killed 246 people and nearly 2,000 more have been left homeless, according to officials. 
 
 Officials declare national disaster and appeal to international donors for $100m to help thousands affected by floods.

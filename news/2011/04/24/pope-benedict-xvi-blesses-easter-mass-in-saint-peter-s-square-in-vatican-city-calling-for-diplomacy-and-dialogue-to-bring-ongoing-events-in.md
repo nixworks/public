@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/24/pope-benedict-xvi-blesses-easter-mass-in-saint-peter-s-square-in-vatican-city-calling-for-diplomacy-and-dialogue-to-bring-ongoing-events-in.html)  [JSON](/news/2011/04/24/pope-benedict-xvi-blesses-easter-mass-in-saint-peter-s-square-in-vatican-city-calling-for-diplomacy-and-dialogue-to-bring-ongoing-events-in.json)  [XML](/news/2011/04/24/pope-benedict-xvi-blesses-easter-mass-in-saint-peter-s-square-in-vatican-city-calling-for-diplomacy-and-dialogue-to-bring-ongoing-events-in.xml)  
+
 ### [2011-04-24](/news/2011/04/24/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI blesses Easter Mass in Saint Peter's Square in Vatican City, calling for diplomacy and dialogue to bring ongoing events in Libya to a peaceful conclusion. 
 
 The Pope urges diplomacy and dialogue to bring an end to the conflict in Libya in his traditional Easter Sunday blessing.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-13181901)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/52325000/jpg/_52325010_011824470-1.jpg)

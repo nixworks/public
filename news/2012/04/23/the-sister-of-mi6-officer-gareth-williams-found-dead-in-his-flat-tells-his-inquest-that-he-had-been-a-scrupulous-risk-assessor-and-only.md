@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/23/the-sister-of-mi6-officer-gareth-williams-found-dead-in-his-flat-tells-his-inquest-that-he-had-been-a-scrupulous-risk-assessor-and-only.html)  [JSON](/news/2012/04/23/the-sister-of-mi6-officer-gareth-williams-found-dead-in-his-flat-tells-his-inquest-that-he-had-been-a-scrupulous-risk-assessor-and-only.json)  [XML](/news/2012/04/23/the-sister-of-mi6-officer-gareth-williams-found-dead-in-his-flat-tells-his-inquest-that-he-had-been-a-scrupulous-risk-assessor-and-only.xml)  
+
 ### [2012-04-23](/news/2012/04/23/index.md)
 
+##### Secret Intelligence Service
 # The sister of MI6 officer Gareth Williams, found dead in his flat, tells his inquest that he had been a "scrupulous risk-assessor" and only let "vetted" people into his home. 
 
 The sister of an MI6 officer - whose body was found in a padlocked bag - tells the inquest into his death her brother only allowed &quot;vetted&quot; people into his home.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-17812112)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/59388000/jpg/_59388680_59388679.jpg)

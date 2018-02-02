@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/7/the-supreme-court-of-pakistan-begins-hearing-a-case-against-the-national-reconciliation-ordinance-which-protected-president-asif-ali-zardar.html)  [JSON](/news/2009/12/7/the-supreme-court-of-pakistan-begins-hearing-a-case-against-the-national-reconciliation-ordinance-which-protected-president-asif-ali-zardar.json)  [XML](/news/2009/12/7/the-supreme-court-of-pakistan-begins-hearing-a-case-against-the-national-reconciliation-ordinance-which-protected-president-asif-ali-zardar.xml)  
+
 ### [2009-12-7](/news/2009/12/7/index.md)
 
+##### Supreme Court
 #  The Supreme Court of Pakistan begins hearing a case against the National Reconciliation Ordinance which protected President Asif Ali Zardari and other key political figures against graft charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hkiMxbHNH0BqgpWA2ZG6VD6wVTmAD9CEDND81)
 2. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/news/pakistan/07-supreme-court-begins-hearings-against-nro-ha-05)

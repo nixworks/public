@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/14/the-taliban-attacks-the-serena-hotel-in-kabul-resulting-in-the-deaths-of-at-least-six-people.html)  [JSON](/news/2008/01/14/the-taliban-attacks-the-serena-hotel-in-kabul-resulting-in-the-deaths-of-at-least-six-people.json)  [XML](/news/2008/01/14/the-taliban-attacks-the-serena-hotel-in-kabul-resulting-in-the-deaths-of-at-least-six-people.xml)  
+
 ### [2008-01-14](/news/2008/01/14/index.md)
 
+##### Taliban
 #  The Taliban attacks the Serena Hotel in Kabul, resulting in the deaths of at least six people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5i8dGftYb0s4XWdUMRdIVs3vh1CKAD8U5Q5H85)
 

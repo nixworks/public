@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/13/cuban-ex-president-fidel-castro-makes-his-first-televised-appearance-in-nearly-a-year-predicting-possible-nuclear-war-in-the-middle-east.html)  [JSON](/news/2010/07/13/cuban-ex-president-fidel-castro-makes-his-first-televised-appearance-in-nearly-a-year-predicting-possible-nuclear-war-in-the-middle-east.json)  [XML](/news/2010/07/13/cuban-ex-president-fidel-castro-makes-his-first-televised-appearance-in-nearly-a-year-predicting-possible-nuclear-war-in-the-middle-east.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### Cuba
 # Cuban ex-President Fidel Castro makes his first televised appearance in nearly a year, predicting possible nuclear war in the Middle East. 
 
 Cuban ex-President Fidel Castro makes a rare TV appearance in an interview focusing on foreign affairs.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10606890.stm)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jul/13/fidel-castro-on-cuban-tv-middle-east-iran-us)

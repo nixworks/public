@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/3/dr-julie-gerberding-a-director-of-the-u-s-centers-for-disease-control-states-her-concern-that-sars-threatens-to-become-a-global-pandemi.html)  [JSON](/news/2003/04/3/dr-julie-gerberding-a-director-of-the-u-s-centers-for-disease-control-states-her-concern-that-sars-threatens-to-become-a-global-pandemi.json)  [XML](/news/2003/04/3/dr-julie-gerberding-a-director-of-the-u-s-centers-for-disease-control-states-her-concern-that-sars-threatens-to-become-a-global-pandemi.xml)  
+
 ### [2003-04-3](/news/2003/04/3/index.md)
 
+##### Julie Gerberding
 #  Dr. Julie Gerberding, a director of the U.S. Centers for Disease Control, states her concern that SARS threatens to become a global pandemic.
 
 

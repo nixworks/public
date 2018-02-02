@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/prime-minister-of-russia-vladimir-putin-announces-the-country-is-to-invest-800-million-into-a-new-spaceport-near-uglegorsk-in-the-far-east.html)  [JSON](/news/2010/07/20/prime-minister-of-russia-vladimir-putin-announces-the-country-is-to-invest-800-million-into-a-new-spaceport-near-uglegorsk-in-the-far-east.json)  [XML](/news/2010/07/20/prime-minister-of-russia-vladimir-putin-announces-the-country-is-to-invest-800-million-into-a-new-spaceport-near-uglegorsk-in-the-far-east.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Prime Minister of Russia
 # Prime Minister of Russia Vladimir Putin announces the country is to invest $800 million into a new spaceport near Uglegorsk in the Far East. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-10698433)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

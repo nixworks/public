@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/4/a-referendum-on-whether-to-extend-mamadou-tandja-s-presidency-for-a-third-term-is-held-in-niger.html)  [JSON](/news/2009/08/4/a-referendum-on-whether-to-extend-mamadou-tandja-s-presidency-for-a-third-term-is-held-in-niger.json)  [XML](/news/2009/08/4/a-referendum-on-whether-to-extend-mamadou-tandja-s-presidency-for-a-third-term-is-held-in-niger.xml)  
+
 ### [2009-08-4](/news/2009/08/4/index.md)
 
+##### referendum
 #  A referendum on whether to extend Mamadou Tandja's presidency for a third term is held in Niger. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gfBjHuAa_NR3HvvxchsIjMoFlhpAD99RV0B82)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8182826.stm)

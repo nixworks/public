@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/14/violent-riots-in-conakry-guinea-continue.html)  [JSON](/news/2006/06/14/violent-riots-in-conakry-guinea-continue.json)  [XML](/news/2006/06/14/violent-riots-in-conakry-guinea-continue.xml)  
+
 ### [2006-06-14](/news/2006/06/14/index.md)
 
+##### Conakry
 #  Violent riots in Conakry, Guinea continue. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/africa/06/13/guinea.protests.ap/index.html?section=cnn_latest)
 

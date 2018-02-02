@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/2/a-drunk-man-on-a-tractor-kills-11-people-and-injures-many-others-in-a-rampage-in-northern-china.html)  [JSON](/news/2010/08/2/a-drunk-man-on-a-tractor-kills-11-people-and-injures-many-others-in-a-rampage-in-northern-china.json)  [XML](/news/2010/08/2/a-drunk-man-on-a-tractor-kills-11-people-and-injures-many-others-in-a-rampage-in-northern-china.xml)  
+
 ### [2010-08-2](/news/2010/08/2/index.md)
 
+##### China
 # A drunk man on a tractor kills 11 people and injures many others in a rampage in northern China. 
 
 A drunken man driving a tractor has killed 11 and injured many more in a rampage through a northern province of China.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10837287)
 2. [Reuters Africa](http://af.reuters.com/article/energyOilNews/idAFTOE67107I20100802)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/5/israeli-prime-minister-ariel-sharon-dissolves-the-knesset-and-calls-for-elections-early-the-next-year.html)  [JSON](/news/2002/11/5/israeli-prime-minister-ariel-sharon-dissolves-the-knesset-and-calls-for-elections-early-the-next-year.json)  [XML](/news/2002/11/5/israeli-prime-minister-ariel-sharon-dissolves-the-knesset-and-calls-for-elections-early-the-next-year.xml)  
+
 ### [2002-11-5](/news/2002/11/5/index.md)
 
+##### Israeli Prime Minister
 #  Israeli Prime Minister Ariel Sharon dissolves the Knesset and calls for elections early the next year.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/6/saudi-king-abdullah-appoints-prince-sultan-bin-salman-al-saud-as-deputy-defense-minister.html)  [JSON](/news/2013/08/6/saudi-king-abdullah-appoints-prince-sultan-bin-salman-al-saud-as-deputy-defense-minister.json)  [XML](/news/2013/08/6/saudi-king-abdullah-appoints-prince-sultan-bin-salman-al-saud-as-deputy-defense-minister.xml)  
+
 ### [2013-08-6](/news/2013/08/6/index.md)
 
+##### Saudi Arabia
 # Saudi king Abdullah appoints Prince Sultan bin Salman Al Saud as deputy Defense Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/Breaking-News/Son-of-Saudi-crown-prince-named-deputy-defence-minister-322287)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)

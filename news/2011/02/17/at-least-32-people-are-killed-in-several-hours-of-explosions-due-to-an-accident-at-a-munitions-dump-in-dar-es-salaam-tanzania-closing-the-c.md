@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/17/at-least-32-people-are-killed-in-several-hours-of-explosions-due-to-an-accident-at-a-munitions-dump-in-dar-es-salaam-tanzania-closing-the-c.html)  [JSON](/news/2011/02/17/at-least-32-people-are-killed-in-several-hours-of-explosions-due-to-an-accident-at-a-munitions-dump-in-dar-es-salaam-tanzania-closing-the-c.json)  [XML](/news/2011/02/17/at-least-32-people-are-killed-in-several-hours-of-explosions-due-to-an-accident-at-a-munitions-dump-in-dar-es-salaam-tanzania-closing-the-c.xml)  
+
 ### [2011-02-17](/news/2011/02/17/index.md)
 
+##### Dar es Salaam
 # At least 32 people are killed in several hours of explosions due to an accident at a munitions dump in Dar es Salaam, Tanzania closing the city's airport, destroying homes, a school and sending debris flying across the city as thousands of people seek shelter in a stadium. The death toll is expected to rise. 
 
 A series of blasts at a military ammunition depot kills at least 20 people in Tanzanian capital Dar es Salaam.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/02/201121785211944812.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12490089)

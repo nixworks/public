@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/23/an-18-year-old-palestinian-hassan-zaanin-is-shot-dead-in-beit-hanoun-in-the-gaza-strip-when-he-and-his-family-attempt-to-stop-palestinian.html)  [JSON](/news/2004/07/23/an-18-year-old-palestinian-hassan-zaanin-is-shot-dead-in-beit-hanoun-in-the-gaza-strip-when-he-and-his-family-attempt-to-stop-palestinian.json)  [XML](/news/2004/07/23/an-18-year-old-palestinian-hassan-zaanin-is-shot-dead-in-beit-hanoun-in-the-gaza-strip-when-he-and-his-family-attempt-to-stop-palestinian.xml)  
+
 ### [2004-07-23](/news/2004/07/23/index.md)
 
+##### Palestinian
 #  An 18-year-old Palestinian, Hassan Zaanin, is shot dead in Beit Hanoun in the Gaza Strip when he and his family attempt to stop Palestinian gunmen from planting an anti-tank explosive outside their house. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3920181.stm)
 2. [Haaretz](http://www.haaretzdaily.com/hasen/spages/455715.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/14/death-toll-rises-to-at-least-8-and-up-to-121-injured-as-anti-government-protests-escalate-in-thailand-during-a-day-of-violence-sparked-by-ye.html)  [JSON](/news/2010/05/14/death-toll-rises-to-at-least-8-and-up-to-121-injured-as-anti-government-protests-escalate-in-thailand-during-a-day-of-violence-sparked-by-ye.json)  [XML](/news/2010/05/14/death-toll-rises-to-at-least-8-and-up-to-121-injured-as-anti-government-protests-escalate-in-thailand-during-a-day-of-violence-sparked-by-ye.xml)  
+
 ### [2010-05-14](/news/2010/05/14/index.md)
 
+##### Thailand
 # Death toll rises to at least 8 and up to 121 injured as anti-government protests escalate in Thailand during a day of violence sparked by yesterday's shooting of a key figure, Khattiya Sawasdipol, of the Red Shirt protesters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/tol/news/world/asia/article7126802.ece)
 2. [WCNC](http://hosted.ap.org/dynamic/stories/A/AS_THAILAND_POLITICS?SITE=WCNC&SECTION=HOME&TEMPLATE=DEFAULT)

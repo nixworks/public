@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/25/at-least-eight-people-have-died-and-thousands-been-left-homeless-in-the-philippines-after-two-fires-struck-manila-on-christmas-day-a-fire-h.html)  [JSON](/news/2012/12/25/at-least-eight-people-have-died-and-thousands-been-left-homeless-in-the-philippines-after-two-fires-struck-manila-on-christmas-day-a-fire-h.json)  [XML](/news/2012/12/25/at-least-eight-people-have-died-and-thousands-been-left-homeless-in-the-philippines-after-two-fires-struck-manila-on-christmas-day-a-fire-h.xml)  
+
 ### [2012-12-25](/news/2012/12/25/index.md)
 
+##### Philippines
 # At least eight people have died and thousands been left homeless in the Philippines after two fires struck Manila on Christmas Day. A fire has sparked violent clashes between residents and firefighters. 
 
 Thousands of people are left homeless after the fires ripped through a slum and apartment blocks in the capital city.
 
 
-### Source:
+### Sources:
 
 1. [AFP/Reuters via ABC Australia](http://www.abc.net.au/news/2012-12-25/an-seven-dead-in-manila-fires/4443466)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-20841396)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/13/two-shells-hit-the-russian-embassy-in-syria-s-capital-damascus-as-hundreds-of-pro-government-supporters-rallied-outside-in-support-of-russi.html)  [JSON](/news/2015/10/13/two-shells-hit-the-russian-embassy-in-syria-s-capital-damascus-as-hundreds-of-pro-government-supporters-rallied-outside-in-support-of-russi.json)  [XML](/news/2015/10/13/two-shells-hit-the-russian-embassy-in-syria-s-capital-damascus-as-hundreds-of-pro-government-supporters-rallied-outside-in-support-of-russi.xml)  
+
 ### [2015-10-13](/news/2015/10/13/index.md)
 
+##### Syrian Civil War
 # Two shells hit the Russian embassy in Syria's capital Damascus, as hundreds of pro-government supporters rallied outside in support of Russian airstrikes. Russian Foreign Minister Sergey Lavrov described the shelling as "a terrorist act." 
 
 Two shells have struck the Russian embassy compound in the Syrian capital Damascus as pro-government supporters rallied outside, reports say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-34515498)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/4285/production/_86092071_029589094.jpg)

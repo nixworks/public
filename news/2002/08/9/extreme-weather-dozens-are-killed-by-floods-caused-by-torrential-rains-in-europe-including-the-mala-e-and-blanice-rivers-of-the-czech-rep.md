@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/9/extreme-weather-dozens-are-killed-by-floods-caused-by-torrential-rains-in-europe-including-the-mala-e-and-blanice-rivers-of-the-czech-rep.html)  [JSON](/news/2002/08/9/extreme-weather-dozens-are-killed-by-floods-caused-by-torrential-rains-in-europe-including-the-mala-e-and-blanice-rivers-of-the-czech-rep.json)  [XML](/news/2002/08/9/extreme-weather-dozens-are-killed-by-floods-caused-by-torrential-rains-in-europe-including-the-mala-e-and-blanice-rivers-of-the-czech-rep.xml)  
+
 ### [2002-08-9](/news/2002/08/9/index.md)
 
+##### Extreme weather
 #  Extreme weather: Dozens are killed by floods caused by torrential rains in Europe, including the Malse and Blanice rivers of the Czech Republic, the Black Sea resort village of Shirokaya Balka near Novorossiisk in Russia, and Romania. The downpours have also caused extensive damage in Austria, Bulgaria, Croatia, Italy, and Spain.
 
 

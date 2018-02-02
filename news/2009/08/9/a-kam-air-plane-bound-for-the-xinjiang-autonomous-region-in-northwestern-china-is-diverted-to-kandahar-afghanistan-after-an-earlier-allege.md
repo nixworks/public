@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/9/a-kam-air-plane-bound-for-the-xinjiang-autonomous-region-in-northwestern-china-is-diverted-to-kandahar-afghanistan-after-an-earlier-allege.html)  [JSON](/news/2009/08/9/a-kam-air-plane-bound-for-the-xinjiang-autonomous-region-in-northwestern-china-is-diverted-to-kandahar-afghanistan-after-an-earlier-allege.json)  [XML](/news/2009/08/9/a-kam-air-plane-bound-for-the-xinjiang-autonomous-region-in-northwestern-china-is-diverted-to-kandahar-afghanistan-after-an-earlier-allege.xml)  
+
 ### [2009-08-9](/news/2009/08/9/index.md)
 
+##### Kam Air
 #  A Kam Air plane bound for the Xinjiang Autonomous Region in northwestern China is diverted to Kandahar, Afghanistan after an earlier alleged bomb threat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gnBqczgQmXYgnfwSmC-LoCOMpfCgD99VHP680)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8192448.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/25/the-tokelauan-self-determination-referendum-fails-by-16-votes.html)  [JSON](/news/2007/10/25/the-tokelauan-self-determination-referendum-fails-by-16-votes.json)  [XML](/news/2007/10/25/the-tokelauan-self-determination-referendum-fails-by-16-votes.xml)  
+
 ### [2007-10-25](/news/2007/10/25/index.md)
 
+##### Tokelauan self-determination referendum
 #  The Tokelauan self-determination referendum fails by 16 votes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/section/2/story.cfm?c_id=2&objectid=10472094)
 

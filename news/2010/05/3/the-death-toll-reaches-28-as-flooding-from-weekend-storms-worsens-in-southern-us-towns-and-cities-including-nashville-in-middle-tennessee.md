@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/05/3/the-death-toll-reaches-28-as-flooding-from-weekend-storms-worsens-in-southern-us-towns-and-cities-including-nashville-in-middle-tennessee.html)  [JSON](/news/2010/05/3/the-death-toll-reaches-28-as-flooding-from-weekend-storms-worsens-in-southern-us-towns-and-cities-including-nashville-in-middle-tennessee.json)  [XML](/news/2010/05/3/the-death-toll-reaches-28-as-flooding-from-weekend-storms-worsens-in-southern-us-towns-and-cities-including-nashville-in-middle-tennessee.xml)  
+
 ### [2010-05-3](/news/2010/05/3/index.md)
 
+##### Nashville, Tennessee
 # The death toll reaches 28 as flooding from weekend storms worsens in southern US towns and cities, including Nashville in Middle Tennessee, and parts of Kentucky, Alabama and Mississippi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/US/weather/05/03/tennessee.flooding.deaths/index.html?hpt=T2)
-2. [USA Today](http://www.usatoday.com/weather/floods/2010-05-03-south-storms_N.htm)
+2. [USA Today](https://www.usatoday.com/weather/floods/2010-05-03-south-storms_N.htm)
 
 ### Related:
 

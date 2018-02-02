@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/21/saparmurat-niyazov-the-president-for-life-of-turkmenistan-dies-at-the-age-of-66.html)  [JSON](/news/2006/12/21/saparmurat-niyazov-the-president-for-life-of-turkmenistan-dies-at-the-age-of-66.json)  [XML](/news/2006/12/21/saparmurat-niyazov-the-president-for-life-of-turkmenistan-dies-at-the-age-of-66.xml)  
+
 ### [2006-12-21](/news/2006/12/21/index.md)
 
+##### Saparmurat Niyazov
 #  Saparmurat Niyazov, the President-for-life of Turkmenistan, dies at the age of 66. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/6198983.stm)
 2. [Pravda](http://english.pravda.ru/news/world/22-12-2006/86062-Turkmenistan-0)

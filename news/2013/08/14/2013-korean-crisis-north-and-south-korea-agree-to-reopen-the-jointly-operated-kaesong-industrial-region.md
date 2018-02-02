@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/08/14/2013-korean-crisis-north-and-south-korea-agree-to-reopen-the-jointly-operated-kaesong-industrial-region.html)  [JSON](/news/2013/08/14/2013-korean-crisis-north-and-south-korea-agree-to-reopen-the-jointly-operated-kaesong-industrial-region.json)  [XML](/news/2013/08/14/2013-korean-crisis-north-and-south-korea-agree-to-reopen-the-jointly-operated-kaesong-industrial-region.xml)  
+
 ### [2013-08-14](/news/2013/08/14/index.md)
 
+##### 2013 Korean crisis
 # 2013 Korean crisis: North and South Korea agree to reopen the jointly-operated Kaesong Industrial Region. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/08/14/us-korea-north-idUSBRE97D0I520130814)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130814&t=2&i=763563486&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE97D0UZZ00)
+1. [Reuters](https://www.reuters.com/article/2013/08/14/us-korea-north-idUSBRE97D0I520130814)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130814&t=2&i=763563486&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE97D0UZZ00)
 
 ### Related:
 

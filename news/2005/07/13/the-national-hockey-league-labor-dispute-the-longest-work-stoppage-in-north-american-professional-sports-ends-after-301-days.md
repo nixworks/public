@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/13/the-national-hockey-league-labor-dispute-the-longest-work-stoppage-in-north-american-professional-sports-ends-after-301-days.html)  [JSON](/news/2005/07/13/the-national-hockey-league-labor-dispute-the-longest-work-stoppage-in-north-american-professional-sports-ends-after-301-days.json)  [XML](/news/2005/07/13/the-national-hockey-league-labor-dispute-the-longest-work-stoppage-in-north-american-professional-sports-ends-after-301-days.xml)  
+
 ### [2005-07-13](/news/2005/07/13/index.md)
 
+##### National Hockey League labor dispute
 #  The National Hockey League labor dispute, the longest work stoppage in North American professional sports, ends after 301 days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/sports/story/2005/07/13/nhl050713.html)
 1. [Cover Image](https://i.cbc.ca/1.470240.1460485348!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-sports.jpg)

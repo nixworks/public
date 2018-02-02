@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/10/finance-chiefs-of-the-g8-countries-meet-this-weekend-in-moscow-with-energy-security-at-the-top-of-their-agenda.html)  [JSON](/news/2006/02/10/finance-chiefs-of-the-g8-countries-meet-this-weekend-in-moscow-with-energy-security-at-the-top-of-their-agenda.json)  [XML](/news/2006/02/10/finance-chiefs-of-the-g8-countries-meet-this-weekend-in-moscow-with-energy-security-at-the-top-of-their-agenda.xml)  
+
 ### [2006-02-10](/news/2006/02/10/index.md)
 
+##### G8 group of nations
 #  Finance chiefs of the G8 countries meet this weekend in Moscow with energy security at the top of their agenda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/4701012.stm)
 

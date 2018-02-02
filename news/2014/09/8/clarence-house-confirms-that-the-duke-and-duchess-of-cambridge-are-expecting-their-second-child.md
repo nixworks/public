@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/8/clarence-house-confirms-that-the-duke-and-duchess-of-cambridge-are-expecting-their-second-child.html)  [JSON](/news/2014/09/8/clarence-house-confirms-that-the-duke-and-duchess-of-cambridge-are-expecting-their-second-child.json)  [XML](/news/2014/09/8/clarence-house-confirms-that-the-duke-and-duchess-of-cambridge-are-expecting-their-second-child.xml)  
+
 ### [2014-09-8](/news/2014/09/8/index.md)
 
+##### Clarence House
 # Clarence House confirms that the Duke and Duchess of Cambridge are expecting their second child. 
 
 The Duchess of Cambridge is pregnant with her second child, Kensington Palace announces.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-29108010)
 2. [Wales Online](http://www.walesonline.co.uk/news/wales-news/kate-middleton-pregnant-duchess-cambridge-7734954)

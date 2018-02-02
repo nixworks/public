@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/3/nigerian-police-in-abuja-ban-all-protests-planned-in-support-of-the-276-girls-kidnapped-from-northern-nigeria-by-boko-haram.html)  [JSON](/news/2014/06/3/nigerian-police-in-abuja-ban-all-protests-planned-in-support-of-the-276-girls-kidnapped-from-northern-nigeria-by-boko-haram.json)  [XML](/news/2014/06/3/nigerian-police-in-abuja-ban-all-protests-planned-in-support-of-the-276-girls-kidnapped-from-northern-nigeria-by-boko-haram.xml)  
+
 ### [2014-06-3](/news/2014/06/3/index.md)
 
+##### Police
 # Nigerian police in Abuja ban all protests planned in support of the 276 girls kidnapped from northern Nigeria by Boko Haram. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/06/02/world/africa/nigeria-protests-ban/index.html?hpt=wo_c2)
 

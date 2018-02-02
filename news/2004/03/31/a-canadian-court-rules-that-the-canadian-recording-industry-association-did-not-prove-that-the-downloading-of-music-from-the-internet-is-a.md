@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/03/31/a-canadian-court-rules-that-the-canadian-recording-industry-association-did-not-prove-that-the-downloading-of-music-from-the-internet-is-a.html)  [JSON](/news/2004/03/31/a-canadian-court-rules-that-the-canadian-recording-industry-association-did-not-prove-that-the-downloading-of-music-from-the-internet-is-a.json)  [XML](/news/2004/03/31/a-canadian-court-rules-that-the-canadian-recording-industry-association-did-not-prove-that-the-downloading-of-music-from-the-internet-is-a.xml)  
+
 ### [2004-03-31](/news/2004/03/31/index.md)
 
+##### Canadian Recording Industry Association
 #  A Canadian court rules that the Canadian Recording Industry Association did not prove that the downloading of music from the Internet is a copyright violation. The ruling is in line with a decision from the Copyright Board of Canada that downloading music is legal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bell Globemedia](http://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20040401/MUSIC0111/TPNational/Canada)
-2. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1080732966812&call_pageid=968332188492&col=968793972154)
+1. [Bell Globemedia](https://www.theglobeandmail.com/servlet/ArticleNews/TPStory/LAC/20040401/MUSIC0111/TPNational/Canada)
+2. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1080732966812&call_pageid=968332188492&col=968793972154)
 
 ### Related:
 

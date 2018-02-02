@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/20/the-supreme-court-of-canada-strikes-down-anti-prostitution-laws-in-the-country.html)  [JSON](/news/2013/12/20/the-supreme-court-of-canada-strikes-down-anti-prostitution-laws-in-the-country.json)  [XML](/news/2013/12/20/the-supreme-court-of-canada-strikes-down-anti-prostitution-laws-in-the-country.xml)  
+
 ### [2013-12-20](/news/2013/12/20/index.md)
 
+##### Supreme Court of Canada
 # The Supreme Court of Canada strikes down anti-prostitution laws in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CP24](http://www.cp24.com/news/supreme-court-strikes-down-canada-s-anti-prostitution-laws-1.1601791)
 1. [Cover Image](https://www.cp24.com/polopoly_fs/1.1602206.1387556001!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)

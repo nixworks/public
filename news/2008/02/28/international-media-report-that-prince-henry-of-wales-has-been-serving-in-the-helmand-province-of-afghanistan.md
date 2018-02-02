@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/28/international-media-report-that-prince-henry-of-wales-has-been-serving-in-the-helmand-province-of-afghanistan.html)  [JSON](/news/2008/02/28/international-media-report-that-prince-henry-of-wales-has-been-serving-in-the-helmand-province-of-afghanistan.json)  [XML](/news/2008/02/28/international-media-report-that-prince-henry-of-wales-has-been-serving-in-the-helmand-province-of-afghanistan.xml)  
+
 ### [2008-02-28](/news/2008/02/28/index.md)
 
+##### Prince Henry of Wales
 #  International media report that Prince Henry of Wales has been serving in the Helmand province of Afghanistan. 
 
 Prince Harry has been secretly serving in Afghanistan with British troops since December, the UK Ministry of Defence (MoD) said overnight.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2008/02/29/2175852.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/1057718-1x1-700x700.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/19/australian-prime-minister-malcolm-turnbull-expr
 
 ### [2017-07-19](/news/2017/07/19/index.md)
 
+##### Shooting of Justine Damond
 # Australian Prime Minister Malcolm Turnbull expresses shock and demands answers after an Australian woman, who called 9-1-1 for help because of a suspected assault near her home, was shot and killed on Saturday by a U.S. police officer who had responded in Minneapolis, Minnesota. 
 
 Malcolm Turnbull condemns the police shooting of unarmed Australian Justine Damond in a Minneapolis alleyway as a shocking killing, adding the Government is demanding answers on behalf of her family.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/8/the-government-of-bulgaria-orders-a-halt-to-construction-work-on-the-gazprom-led-south-stream-pipeline-project-planned-to-bypass-ukraine-as.html)  [JSON](/news/2014/06/8/the-government-of-bulgaria-orders-a-halt-to-construction-work-on-the-gazprom-led-south-stream-pipeline-project-planned-to-bypass-ukraine-as.json)  [XML](/news/2014/06/8/the-government-of-bulgaria-orders-a-halt-to-construction-work-on-the-gazprom-led-south-stream-pipeline-project-planned-to-bypass-ukraine-as.xml)  
+
 ### [2014-06-8](/news/2014/06/8/index.md)
 
+##### Bulgaria
 # The Government of Bulgaria orders a halt to construction work on the Gazprom-led South Stream pipeline project planned to bypass Ukraine as a transit country into Europe. 
 
 Bulgaria has stopped all activities linked to the building of the South Stream gas pipeline project pending full compliance of the project with European Union law, Plamen Oresharski, occupant of th…
 
 
-### Source:
+### Sources:
 
 1. [Sofia Globe](http://sofiaglobe.com/2014/06/08/bulgaria-halts-south-stream-pending-consultations-with-eu/)
 1. [Cover Image](http://sofiaglobe.com/wp-content/uploads/2014/04/South-Stream-official-welding-Bulgaria.jpg)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/06/10/voters-in-france-go-to-the-polls-for-the-first-round-of-parliamentary-elections-with-the-socialist-party-doing-well.html)  [JSON](/news/2012/06/10/voters-in-france-go-to-the-polls-for-the-first-round-of-parliamentary-elections-with-the-socialist-party-doing-well.json)  [XML](/news/2012/06/10/voters-in-france-go-to-the-polls-for-the-first-round-of-parliamentary-elections-with-the-socialist-party-doing-well.xml)  
+
 ### [2012-06-10](/news/2012/06/10/index.md)
 
+##### legislative election
 # Voters in France go to the polls for the first round of parliamentary elections with the Socialist Party doing well. 
 
 French President Francois Hollande is on track to win a solid parliamentary majority after a first-round election that leaves him strengthened heading into a flurry of talks with euro zone leaders that could make or break the currency union.
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5jahYJCu9K9wC7rypTY7K1yoeSCRw?docId=8848b79d8a7744b185defd76ed05983a)
-2. [Reuters](http://www.reuters.com/article/2012/06/10/us-france-election-idUSBRE8550D620120610?feedType=RSS&feedName=topNews)
+2. [Reuters](https://www.reuters.com/article/2012/06/10/us-france-election-idUSBRE8550D620120610?feedType=RSS&feedName=topNews)
 2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120610&t=2&i=617193926&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8590VFH00)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/6/an-improvised-device-explodes-outside-of-the-colorado-springs-chapter-of-the-naacp-with-no-injuries.html)  [JSON](/news/2015/01/6/an-improvised-device-explodes-outside-of-the-colorado-springs-chapter-of-the-naacp-with-no-injuries.json)  [XML](/news/2015/01/6/an-improvised-device-explodes-outside-of-the-colorado-springs-chapter-of-the-naacp-with-no-injuries.xml)  
+
 ### [2015-01-6](/news/2015/01/6/index.md)
 
+##### Colorado Springs, Colorado
 # An improvised device explodes outside of the Colorado Springs chapter of the NAACP with no injuries. 
 
 Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/wireStory/explosion-rocks-colorado-barber-shop-injuries-reported-28035741)
 

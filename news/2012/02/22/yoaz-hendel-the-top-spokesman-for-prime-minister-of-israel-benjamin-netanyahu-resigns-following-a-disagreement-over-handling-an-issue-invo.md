@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/02/22/yoaz-hendel-the-top-spokesman-for-prime-minister-of-israel-benjamin-netanyahu-resigns-following-a-disagreement-over-handling-an-issue-invo.html)  [JSON](/news/2012/02/22/yoaz-hendel-the-top-spokesman-for-prime-minister-of-israel-benjamin-netanyahu-resigns-following-a-disagreement-over-handling-an-issue-invo.json)  [XML](/news/2012/02/22/yoaz-hendel-the-top-spokesman-for-prime-minister-of-israel-benjamin-netanyahu-resigns-following-a-disagreement-over-handling-an-issue-invo.xml)  
+
 ### [2012-02-22](/news/2012/02/22/index.md)
 
+##### Yoaz Hendel
 # Yoaz Hendel, the top spokesman for Prime Minister of Israel Benjamin Netanyahu, resigns following a disagreement over handling an issue involving another aide. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/middle-east/report-top-aide-to-israeli-prime-minister-resigns-in-new-turmoil-to-hit-netanyahus-office/2012/02/22/gIQAz4RVSR_story.html?wprss=rss_linkset)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/middle-east/report-top-aide-to-israeli-prime-minister-resigns-in-new-turmoil-to-hit-netanyahus-office/2012/02/22/gIQAz4RVSR_story.html?wprss=rss_linkset)
 
 ### Related:
 

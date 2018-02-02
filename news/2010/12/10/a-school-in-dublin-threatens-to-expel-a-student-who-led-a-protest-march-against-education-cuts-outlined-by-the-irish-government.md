@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/10/a-school-in-dublin-threatens-to-expel-a-student-who-led-a-protest-march-against-education-cuts-outlined-by-the-irish-government.html)  [JSON](/news/2010/12/10/a-school-in-dublin-threatens-to-expel-a-student-who-led-a-protest-march-against-education-cuts-outlined-by-the-irish-government.json)  [XML](/news/2010/12/10/a-school-in-dublin-threatens-to-expel-a-student-who-led-a-protest-march-against-education-cuts-outlined-by-the-irish-government.xml)  
+
 ### [2010-12-10](/news/2010/12/10/index.md)
 
+##### Dublin
 # A school in Dublin threatens to expel a student who led a protest march against education cuts outlined by the Irish government. 
 
 A Leaving Cert student who organised a protest march against budget cuts in education is facing expulsion from his Dublin school.
 
 
-### Source:
+### Sources:
 
 1. [Evening Herald](http://www.herald.ie/national-news/city-news/school-threatens-to-boot-out-pupil-who-led-protest-march-against-cutbacks-in-education-2456100.html)
 1. [Cover Image](http://www.herald.ie/editorial/facebook_share_logos/herald.png)

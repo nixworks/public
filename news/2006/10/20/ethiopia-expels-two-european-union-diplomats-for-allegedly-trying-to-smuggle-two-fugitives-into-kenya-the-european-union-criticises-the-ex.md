@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/20/ethiopia-expels-two-european-union-diplomats-for-allegedly-trying-to-smuggle-two-fugitives-into-kenya-the-european-union-criticises-the-ex.html)  [JSON](/news/2006/10/20/ethiopia-expels-two-european-union-diplomats-for-allegedly-trying-to-smuggle-two-fugitives-into-kenya-the-european-union-criticises-the-ex.json)  [XML](/news/2006/10/20/ethiopia-expels-two-european-union-diplomats-for-allegedly-trying-to-smuggle-two-fugitives-into-kenya-the-european-union-criticises-the-ex.xml)  
+
 ### [2006-10-20](/news/2006/10/20/index.md)
 
+##### Ethiopia
 #  Ethiopia expels two European Union diplomats for allegedly trying to smuggle two fugitives into Kenya. The European Union criticises the expulsions as "totally unacceptable." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6068854.stm)
 

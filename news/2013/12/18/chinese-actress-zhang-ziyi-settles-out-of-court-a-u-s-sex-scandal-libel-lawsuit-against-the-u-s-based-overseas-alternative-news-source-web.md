@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/18/chinese-actress-zhang-ziyi-settles-out-of-court-a-u-s-sex-scandal-libel-lawsuit-against-the-u-s-based-overseas-alternative-news-source-web.html)  [JSON](/news/2013/12/18/chinese-actress-zhang-ziyi-settles-out-of-court-a-u-s-sex-scandal-libel-lawsuit-against-the-u-s-based-overseas-alternative-news-source-web.json)  [XML](/news/2013/12/18/chinese-actress-zhang-ziyi-settles-out-of-court-a-u-s-sex-scandal-libel-lawsuit-against-the-u-s-based-overseas-alternative-news-source-web.xml)  
+
 ### [2013-12-18](/news/2013/12/18/index.md)
 
+##### Chinese
 # Chinese actress Zhang Ziyi settles out of court a U.S. sex scandal libel lawsuit against the U.S.-based overseas alternative news source website Boxun. 
 
 Chinese film star Zhang Ziyi wins damages from a US-based website that published false reports she was paid to have sex with top Chinese officials.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-25426869)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/71823000/jpg/_71823265_020103354.jpg)

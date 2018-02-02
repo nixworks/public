@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/17/two-people-sue-the-metropolitan-police-in-london-which-detained-them-after-the-may-day-riots-in-2001.html)  [JSON](/news/2005/01/17/two-people-sue-the-metropolitan-police-in-london-which-detained-them-after-the-may-day-riots-in-2001.json)  [XML](/news/2005/01/17/two-people-sue-the-metropolitan-police-in-london-which-detained-them-after-the-may-day-riots-in-2001.xml)  
+
 ### [2005-01-17](/news/2005/01/17/index.md)
 
+##### Metropolitan Police
 #  Two people sue the Metropolitan Police in London, which detained them after the May Day riots in 2001. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/4179977.stm)
 2. [Guardian](http://www.guardian.co.uk/uk_news/story/0,3604,1391969,00.html)

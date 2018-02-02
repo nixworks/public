@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/30/a-military-operation-in-north-sinai-governorate
 
 ### [2016-10-30](/news/2016/10/30/index.md)
 
+##### Sinai insurgency
 # A military operation in North Sinai Governorate left 4 soldiers and 6 insurgents dead. 
 
 

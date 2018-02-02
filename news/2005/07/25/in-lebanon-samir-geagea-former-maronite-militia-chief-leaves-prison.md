@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/25/in-lebanon-samir-geagea-former-maronite-militia-chief-leaves-prison.html)  [JSON](/news/2005/07/25/in-lebanon-samir-geagea-former-maronite-militia-chief-leaves-prison.json)  [XML](/news/2005/07/25/in-lebanon-samir-geagea-former-maronite-militia-chief-leaves-prison.xml)  
+
 ### [2005-07-25](/news/2005/07/25/index.md)
 
+##### Lebanon
 #  In Lebanon, Samir Geagea, former Maronite militia chief, leaves prison 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/77EA736C-F5A6-4F74-BB90-CA618D419C12.htm)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-26T055734Z_01_N2681128_RTRIDST_0_INTERNATIONAL-LEBANON-WARLORD-DC.XML)
@@ -13,8 +17,8 @@ Reuters.com brings you the latest news from around the world, covering breaking 
 
 ### Related:
 
-1. [ Lebanese Christian militia leader, Samir Geagea, has been released from prison after 11 years. ](/news/2005/07/26/lebanese-christian-militia-leader-samir-geagea-has-been-released-from-prison-after-11-years.md) _Context: Lebanese, Samir Geagea_
-2. [ In Lebanon, the Parliament grants amnesty to the imprisoned Lebanese Forces leader Samir Geagea. Geagea was arrested since 1994. ](/news/2005/07/18/in-lebanon-the-parliament-grants-amnesty-to-the-imprisoned-lebanese-forces-leader-samir-geagea-geagea-was-arrested-since-1994.md) _Context: Lebanese, Samir Geagea_
-3. [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md) _Context: Lebanese_
-4. [Renewed clashes between Islamist extremists and the Fatah-supported Joint Palestinian Security Force at the Ain al-Hilweh Palestinian refugees camp, near Sidon, Lebanon, wound three more Palestinians. ](/news/2017/08/22/renewed-clashes-between-islamist-extremists-and-the-fatah-supported-joint-palestinian-security-force-at-the-ain-al-hilweh-palestinian-refuge.md) _Context: Lebanese_
-5. [A ceasefire brings calm after heavy fighting between Fatah and extremists that left two people dead at the Palestinian refugees camp of Ain al-Hilweh, Lebanon. ](/news/2017/08/21/a-ceasefire-brings-calm-after-heavy-fighting-between-fatah-and-extremists-that-left-two-people-dead-at-the-palestinian-refugees-camp-of-ain.md) _Context: Lebanese_
+1. [ Lebanese Christian militia leader, Samir Geagea, has been released from prison after 11 years. ](/news/2005/07/26/lebanese-christian-militia-leader-samir-geagea-has-been-released-from-prison-after-11-years.md) _Context: Lebanon, Samir Geagea_
+2. [ In Lebanon, the Parliament grants amnesty to the imprisoned Lebanese Forces leader Samir Geagea. Geagea was arrested since 1994. ](/news/2005/07/18/in-lebanon-the-parliament-grants-amnesty-to-the-imprisoned-lebanese-forces-leader-samir-geagea-geagea-was-arrested-since-1994.md) _Context: Lebanon, Samir Geagea_
+3. [Saudi Arabia says Lebanon has declared war against it through acts of aggression. ](/news/2017/11/6/saudi-arabia-says-lebanon-has-declared-war-against-it-through-acts-of-aggression.md) _Context: Lebanon_
+4. [Lebanese Prime Minister Saad al-Hariri resigns, citing assassination threats. ](/news/2017/11/4/lebanese-prime-minister-saad-al-hariri-resigns-citing-assassination-threats.md) _Context: Lebanon_
+5. [Saudi Arabia, and subsequently the United Arab Emirates and Kuwait, urge all citizens currently in Lebanon to leave the country immediately. Recently, Saudi Arabia declared that a missile attack on its airport from Yemen was "an act of war" by Lebanon. ](/news/2017/11/10/saudi-arabia-and-subsequently-the-united-arab-emirates-and-kuwait-urge-all-citizens-currently-in-lebanon-to-leave-the-country-immediately.md) _Context: Lebanon_

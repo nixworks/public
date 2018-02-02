@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/18/according-to-aids-study-of-united-nations-council-of-foreign-relations-most-of-the-hiv-strains-in-asia-originate-from-myanmar-burma-stu.html)  [JSON](/news/2005/07/18/according-to-aids-study-of-united-nations-council-of-foreign-relations-most-of-the-hiv-strains-in-asia-originate-from-myanmar-burma-stu.json)  [XML](/news/2005/07/18/according-to-aids-study-of-united-nations-council-of-foreign-relations-most-of-the-hiv-strains-in-asia-originate-from-myanmar-burma-stu.xml)  
+
 ### [2005-07-18](/news/2005/07/18/index.md)
 
+##### AIDS
 #  According to AIDS study of United Nations Council of Foreign Relations, most of the HIV strains in Asia originate from Myanmar (Burma). Study used genetic fingerprinting to find spread of the virus strains 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-19T004118Z_01_N18295303_RTRIDST_0_INTERNATIONAL-AIDS-ASIA-DC.XML)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/04/17/members-of-opec-meet-in-doha-qatar-amid-uncertainty-in-the-markets-and-the-outcome-of-the-meeting-since-2014-the-price-of-oil-has-droppe.html)  [JSON](/news/2016/04/17/members-of-opec-meet-in-doha-qatar-amid-uncertainty-in-the-markets-and-the-outcome-of-the-meeting-since-2014-the-price-of-oil-has-droppe.json)  [XML](/news/2016/04/17/members-of-opec-meet-in-doha-qatar-amid-uncertainty-in-the-markets-and-the-outcome-of-the-meeting-since-2014-the-price-of-oil-has-droppe.xml)  
+
 ### [2016-04-17](/news/2016/04/17/index.md)
 
+##### OPEC
 # Members of OPEC meet in Doha, Qatar, amid uncertainty in the markets and the outcome of the meeting. Since 2014, the price of oil has dropped dramatically. Analysts hope that an agreement to freeze output will reassure global energy markets that the recent recovery in prices is sustainable. 
 
 To what extent are oil producers prepared to sacrifice national interests for a return to market stability?
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/04/uncertainty-grips-markets-opec-meeting-160416093429469.html)
 

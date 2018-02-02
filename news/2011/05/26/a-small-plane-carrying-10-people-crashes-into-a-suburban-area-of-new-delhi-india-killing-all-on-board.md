@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/26/a-small-plane-carrying-10-people-crashes-into-a-suburban-area-of-new-delhi-india-killing-all-on-board.html)  [JSON](/news/2011/05/26/a-small-plane-carrying-10-people-crashes-into-a-suburban-area-of-new-delhi-india-killing-all-on-board.json)  [XML](/news/2011/05/26/a-small-plane-carrying-10-people-crashes-into-a-suburban-area-of-new-delhi-india-killing-all-on-board.xml)  
+
 ### [2011-05-26](/news/2011/05/26/index.md)
 
+##### New Delhi
 # A small plane carrying 10 people crashes into a suburban area of New Delhi, India, killing all on board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-05/26/c_13893982.htm)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/08/6/five-members-of-the-iraqiya-coalition-led-by-former-prime-minister-of-iraq-ayad-allawi-suspend-their-participation-in-the-current-cabinet-l.html)  [JSON](/news/2007/08/6/five-members-of-the-iraqiya-coalition-led-by-former-prime-minister-of-iraq-ayad-allawi-suspend-their-participation-in-the-current-cabinet-l.json)  [XML](/news/2007/08/6/five-members-of-the-iraqiya-coalition-led-by-former-prime-minister-of-iraq-ayad-allawi-suspend-their-participation-in-the-current-cabinet-l.xml)  
+
 ### [2007-08-6](/news/2007/08/6/index.md)
 
+##### Iraqiya
 #  Five members of the Iraqiya coalition led by former Prime Minister of Iraq Ayad Allawi suspend their participation in the current Cabinet led by Nouri al-Maliki. 
 
 The move struck yet another blow to Prime Minister Nuri Kamal al-Maliki’s faltering efforts to present his religious Shiite-led coalition as a “national unity” government.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6934031.stm)
-2. [New York Times](http://www.nytimes.com/2007/08/07/world/middleeast/07iraq.html?ex=1344139200&en=86a447ff33580026&ei=5088&partner=rssnyt&emc=rss)
+2. [New York Times](https://www.nytimes.com/2007/08/07/world/middleeast/07iraq.html?ex=1344139200&en=86a447ff33580026&ei=5088&partner=rssnyt&emc=rss)
 2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

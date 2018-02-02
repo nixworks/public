@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/10/19/scientists-at-duke-university-have-created-a-device-out-of-metamaterials-that-makes-objects-harder-to-detect-at-microwave-frequencies.html)  [JSON](/news/2006/10/19/scientists-at-duke-university-have-created-a-device-out-of-metamaterials-that-makes-objects-harder-to-detect-at-microwave-frequencies.json)  [XML](/news/2006/10/19/scientists-at-duke-university-have-created-a-device-out-of-metamaterials-that-makes-objects-harder-to-detect-at-microwave-frequencies.xml)  
+
 ### [2006-10-19](/news/2006/10/19/index.md)
 
+##### Duke University
 #  Scientists at Duke University have created a device out of metamaterials that makes objects harder to detect at microwave frequencies. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [LiveScience](http://news.yahoo.com/s/space/20061019/sc_space/scientistscreatecloakofpartialinvisibility)
+1. [LiveScience](https://news.yahoo.com/s/space/20061019/sc_space/scientistscreatecloakofpartialinvisibility)
 
 ### Related:
 

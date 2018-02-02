@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/18/an-inquest-finds-that-prominent-sky-news-journalist-james-forlong-who-had-resigned-from-the-station-when-it-was-revealed-that-he-had-faked.html)  [JSON](/news/2003/11/18/an-inquest-finds-that-prominent-sky-news-journalist-james-forlong-who-had-resigned-from-the-station-when-it-was-revealed-that-he-had-faked.json)  [XML](/news/2003/11/18/an-inquest-finds-that-prominent-sky-news-journalist-james-forlong-who-had-resigned-from-the-station-when-it-was-revealed-that-he-had-faked.xml)  
+
 ### [2003-11-18](/news/2003/11/18/index.md)
 
+##### Sky News
 #  An inquest finds that prominent Sky News journalist James Forlong, who had resigned from the station when it was revealed that he had faked footage during the Iraq War, committed suicide by hanging himself.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/12/the-nominees-for-the-71st-golden-globe-awards-are-announced.html)  [JSON](/news/2013/12/12/the-nominees-for-the-71st-golden-globe-awards-are-announced.json)  [XML](/news/2013/12/12/the-nominees-for-the-71st-golden-globe-awards-are-announced.xml)  
+
 ### [2013-12-12](/news/2013/12/12/index.md)
 
+##### 71st Golden Globe Awards
 # The nominees for the 71st Golden Globe Awards are announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/templates/story/story.php?storyId=250345261)
 

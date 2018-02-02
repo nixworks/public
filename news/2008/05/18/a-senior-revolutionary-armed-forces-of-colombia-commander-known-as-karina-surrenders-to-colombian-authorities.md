@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/18/a-senior-revolutionary-armed-forces-of-colombia-commander-known-as-karina-surrenders-to-colombian-authorities.html)  [JSON](/news/2008/05/18/a-senior-revolutionary-armed-forces-of-colombia-commander-known-as-karina-surrenders-to-colombian-authorities.json)  [XML](/news/2008/05/18/a-senior-revolutionary-armed-forces-of-colombia-commander-known-as-karina-surrenders-to-colombian-authorities.xml)  
+
 ### [2008-05-18](/news/2008/05/18/index.md)
 
+##### Revolutionary Armed Forces of Colombia
 #  A senior Revolutionary Armed Forces of Colombia commander known as "Karina" surrenders to Colombian authorities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/americas/05/18/colombia.farc/)
 

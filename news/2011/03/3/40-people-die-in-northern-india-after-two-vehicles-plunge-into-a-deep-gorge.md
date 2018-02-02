@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/3/40-people-die-in-northern-india-after-two-vehicles-plunge-into-a-deep-gorge.html)  [JSON](/news/2011/03/3/40-people-die-in-northern-india-after-two-vehicles-plunge-into-a-deep-gorge.json)  [XML](/news/2011/03/3/40-people-die-in-northern-india-after-two-vehicles-plunge-into-a-deep-gorge.xml)  
+
 ### [2011-03-3](/news/2011/03/3/index.md)
 
+##### gorge
 # 40 people die in northern India after two vehicles plunge into a deep gorge. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Breitbart](http://www.breitbart.com/article.php?id=D9LNIQUG1&show_article=1)
 2. [Rediff](http://www.rediff.com/news/report/dead-as-truck-falls-into-gorge-in-himachal/20110303.htm)

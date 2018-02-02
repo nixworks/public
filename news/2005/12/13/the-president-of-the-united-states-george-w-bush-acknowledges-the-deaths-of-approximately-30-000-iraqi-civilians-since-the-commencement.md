@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/13/the-president-of-the-united-states-george-w-bush-acknowledges-the-deaths-of-approximately-30-000-iraqi-civilians-since-the-commencement.html)  [JSON](/news/2005/12/13/the-president-of-the-united-states-george-w-bush-acknowledges-the-deaths-of-approximately-30-000-iraqi-civilians-since-the-commencement.json)  [XML](/news/2005/12/13/the-president-of-the-united-states-george-w-bush-acknowledges-the-deaths-of-approximately-30-000-iraqi-civilians-since-the-commencement.xml)  
+
 ### [2005-12-13](/news/2005/12/13/index.md)
 
+##### U.S. President
 #  The President of the United States, George W. Bush, acknowledges the deaths of approximately 30,000 Iraqi civilians since the commencement of the Iraq War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,17562309%5E31477,00.html)
 

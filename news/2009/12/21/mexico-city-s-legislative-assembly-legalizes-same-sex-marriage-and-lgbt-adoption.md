@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/21/mexico-city-s-legislative-assembly-legalizes-same-sex-marriage-and-lgbt-adoption.html)  [JSON](/news/2009/12/21/mexico-city-s-legislative-assembly-legalizes-same-sex-marriage-and-lgbt-adoption.json)  [XML](/news/2009/12/21/mexico-city-s-legislative-assembly-legalizes-same-sex-marriage-and-lgbt-adoption.xml)  
+
 ### [2009-12-21](/news/2009/12/21/index.md)
 
+##### Mexico City
 #  Mexico City's Legislative Assembly legalizes same-sex marriage and LGBT adoption. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8425269.stm)
 2. [Guardian](http://www.guardian.co.uk/world/2009/dec/22/mexico-city-legalises-samesex-marriage)

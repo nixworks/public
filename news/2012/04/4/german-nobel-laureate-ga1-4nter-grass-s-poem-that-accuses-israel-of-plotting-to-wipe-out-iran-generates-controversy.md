@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/4/german-nobel-laureate-ga1-4nter-grass-s-poem-that-accuses-israel-of-plotting-to-wipe-out-iran-generates-controversy.html)  [JSON](/news/2012/04/4/german-nobel-laureate-ga1-4nter-grass-s-poem-that-accuses-israel-of-plotting-to-wipe-out-iran-generates-controversy.json)  [XML](/news/2012/04/4/german-nobel-laureate-ga1-4nter-grass-s-poem-that-accuses-israel-of-plotting-to-wipe-out-iran-generates-controversy.xml)  
+
 ### [2012-04-4](/news/2012/04/4/index.md)
 
+##### German
 # German Nobel laureate Gunter Grass's poem, that accuses Israel of plotting to "wipe out" Iran, generates controversy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5gMlVY2OQxp-ESLm0CKYOCvNbdjfg?docId=CNG.a6164a792a6ceaa28c4f10c558ab597d.881)
 

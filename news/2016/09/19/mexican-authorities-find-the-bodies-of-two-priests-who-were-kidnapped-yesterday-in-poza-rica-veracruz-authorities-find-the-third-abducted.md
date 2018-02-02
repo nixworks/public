@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/19/mexican-authorities-find-the-bodies-of-two-prie
 
 ### [2016-09-19](/news/2016/09/19/index.md)
 
+##### Mexico
 # Mexican authorities find the bodies of two priests who were kidnapped yesterday in Poza Rica, Veracruz. Authorities find the third abducted person, the driver, alive. 
 
 

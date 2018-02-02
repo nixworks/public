@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/23/madagascar-s-political-parties-agree-to-establish-a-provisional-government-and-a-truth-reconciliation-commission.html)  [JSON](/news/2009/05/23/madagascar-s-political-parties-agree-to-establish-a-provisional-government-and-a-truth-reconciliation-commission.json)  [XML](/news/2009/05/23/madagascar-s-political-parties-agree-to-establish-a-provisional-government-and-a-truth-reconciliation-commission.xml)  
+
 ### [2009-05-23](/news/2009/05/23/index.md)
 
+##### Madagascar
 #  Madagascar's political parties agree to establish a provisional government and a truth-reconciliation commission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8064800.stm)
 

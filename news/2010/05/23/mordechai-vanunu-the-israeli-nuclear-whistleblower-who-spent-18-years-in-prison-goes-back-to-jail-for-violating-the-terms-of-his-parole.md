@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/23/mordechai-vanunu-the-israeli-nuclear-whistleblower-who-spent-18-years-in-prison-goes-back-to-jail-for-violating-the-terms-of-his-parole.html)  [JSON](/news/2010/05/23/mordechai-vanunu-the-israeli-nuclear-whistleblower-who-spent-18-years-in-prison-goes-back-to-jail-for-violating-the-terms-of-his-parole.json)  [XML](/news/2010/05/23/mordechai-vanunu-the-israeli-nuclear-whistleblower-who-spent-18-years-in-prison-goes-back-to-jail-for-violating-the-terms-of-his-parole.xml)  
+
 ### [2010-05-23](/news/2010/05/23/index.md)
 
+##### Mordechai Vanunu
 # Mordechai Vanunu, the Israeli nuclear whistleblower who spent 18 years in prison, goes back to jail for violating the terms of his parole. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hoEb6ipwnbIUrk3cWmZYTPbeSSvwD9FSEGE80)
 2. [CNN](http://edition.cnn.com/2010/WORLD/meast/05/23/israel.vanunu.jailed/)

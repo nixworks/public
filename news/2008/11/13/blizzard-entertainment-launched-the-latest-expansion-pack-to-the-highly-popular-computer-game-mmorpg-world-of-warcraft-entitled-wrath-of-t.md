@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/11/13/blizzard-entertainment-launched-the-latest-expansion-pack-to-the-highly-popular-computer-game-mmorpg-world-of-warcraft-entitled-wrath-of-t.html)  [JSON](/news/2008/11/13/blizzard-entertainment-launched-the-latest-expansion-pack-to-the-highly-popular-computer-game-mmorpg-world-of-warcraft-entitled-wrath-of-t.json)  [XML](/news/2008/11/13/blizzard-entertainment-launched-the-latest-expansion-pack-to-the-highly-popular-computer-game-mmorpg-world-of-warcraft-entitled-wrath-of-t.xml)  
+
 ### [2008-11-13](/news/2008/11/13/index.md)
 
+##### Blizzard Entertainment
 #  Blizzard Entertainment launched the latest expansion pack to the highly popular computer game MMORPG World of Warcraft, entitled Wrath of the Lich King.
 
 

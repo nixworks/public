@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/19/fort-de-france-mayor-serge-letchimy-cancels-martinique-s-carnival-due-to-ongoing-general-strikes.html)  [JSON](/news/2009/02/19/fort-de-france-mayor-serge-letchimy-cancels-martinique-s-carnival-due-to-ongoing-general-strikes.json)  [XML](/news/2009/02/19/fort-de-france-mayor-serge-letchimy-cancels-martinique-s-carnival-due-to-ongoing-general-strikes.xml)  
+
 ### [2009-02-19](/news/2009/02/19/index.md)
 
+##### Fort-de-France
 #  Fort-de-France Mayor Serge Letchimy cancels Martinique's carnival, due to ongoing general strikes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/29303058/)
 

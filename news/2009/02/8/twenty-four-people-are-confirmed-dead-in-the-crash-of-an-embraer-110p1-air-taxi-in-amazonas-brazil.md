@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/8/twenty-four-people-are-confirmed-dead-in-the-crash-of-an-embraer-110p1-air-taxi-in-amazonas-brazil.html)  [JSON](/news/2009/02/8/twenty-four-people-are-confirmed-dead-in-the-crash-of-an-embraer-110p1-air-taxi-in-amazonas-brazil.json)  [XML](/news/2009/02/8/twenty-four-people-are-confirmed-dead-in-the-crash-of-an-embraer-110p1-air-taxi-in-amazonas-brazil.xml)  
+
 ### [2009-02-8](/news/2009/02/8/index.md)
 
+##### crash
 #  Twenty-four people are confirmed dead in the crash of an Embraer 110P1 air taxi in Amazonas, Brazil. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/136346/amazon-plane-crash-kills-24)
 

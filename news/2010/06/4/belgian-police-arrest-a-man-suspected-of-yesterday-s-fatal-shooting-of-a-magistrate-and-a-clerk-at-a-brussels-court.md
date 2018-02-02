@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/4/belgian-police-arrest-a-man-suspected-of-yesterday-s-fatal-shooting-of-a-magistrate-and-a-clerk-at-a-brussels-court.html)  [JSON](/news/2010/06/4/belgian-police-arrest-a-man-suspected-of-yesterday-s-fatal-shooting-of-a-magistrate-and-a-clerk-at-a-brussels-court.json)  [XML](/news/2010/06/4/belgian-police-arrest-a-man-suspected-of-yesterday-s-fatal-shooting-of-a-magistrate-and-a-clerk-at-a-brussels-court.xml)  
+
 ### [2010-06-4](/news/2010/06/4/index.md)
 
+##### Belgium
 # Belgian police arrest a man suspected of yesterday's fatal shooting of a magistrate and a clerk at a Brussels court. 
 
 Police in Belgium arrest a man suspected of shooting dead a magistrate and a clerk at a Brussels court.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/06/201064123259217580.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10237234.stm)

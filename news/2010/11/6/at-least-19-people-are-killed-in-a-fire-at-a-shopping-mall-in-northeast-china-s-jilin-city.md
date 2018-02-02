@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/6/at-least-19-people-are-killed-in-a-fire-at-a-shopping-mall-in-northeast-china-s-jilin-city.html)  [JSON](/news/2010/11/6/at-least-19-people-are-killed-in-a-fire-at-a-shopping-mall-in-northeast-china-s-jilin-city.json)  [XML](/news/2010/11/6/at-least-19-people-are-killed-in-a-fire-at-a-shopping-mall-in-northeast-china-s-jilin-city.xml)  
+
 ### [2010-11-6](/news/2010/11/6/index.md)
 
+##### China
 # At least 19 people are killed in a fire at a shopping mall in northeast China's Jilin City. 
 
 A fire in a shopping centre in northern China kills at least 19 people and leaves 27 more injured, state media reports.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11703837)
 2. [Times of India](http://timesofindia.indiatimes.com/world/china/19-dead-in-China-mall-fire/articleshow/6878358.cms)

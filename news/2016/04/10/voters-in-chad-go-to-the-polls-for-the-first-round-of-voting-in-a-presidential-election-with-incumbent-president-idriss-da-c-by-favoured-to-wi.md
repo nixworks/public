@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/10/voters-in-chad-go-to-the-polls-for-the-first-ro
 
 ### [2016-04-10](/news/2016/04/10/index.md)
 
+##### Chadian presidential election, 2016
 # Voters in Chad go to the polls for the first round of voting in a presidential election with incumbent President Idriss Deby favoured to win a fifth term. 
 
 

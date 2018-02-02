@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/28/colombia-makes-a-formal-diplomatic-protest-to-venezuela-over-the-latter-s-alleged-violation-of-colombian-airspace-by-a-military-helicopter.html)  [JSON](/news/2010/01/28/colombia-makes-a-formal-diplomatic-protest-to-venezuela-over-the-latter-s-alleged-violation-of-colombian-airspace-by-a-military-helicopter.json)  [XML](/news/2010/01/28/colombia-makes-a-formal-diplomatic-protest-to-venezuela-over-the-latter-s-alleged-violation-of-colombian-airspace-by-a-military-helicopter.xml)  
+
 ### [2010-01-28](/news/2010/01/28/index.md)
 
+##### Colombia
 # Colombia makes a formal diplomatic protest to Venezuela over the latter's alleged violation of Colombian airspace by a military helicopter. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8484848.stm)
 2. [Colombia Reports](http://colombiareports.com/colombia-news/news/7889-colombia-rejects-alleged-venezuelan-violation-of-airspace.html)

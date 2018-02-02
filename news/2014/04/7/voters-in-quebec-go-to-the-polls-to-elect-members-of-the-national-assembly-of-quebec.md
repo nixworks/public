@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2014/04/7/voters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.html)  [JSON](/news/2014/04/7/voters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.json)  [XML](/news/2014/04/7/voters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.xml)  
+
 ### [2014-04-7](/news/2014/04/7/index.md)
 
+##### Quebec
 # Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. 
 
 Quebecers head to the polls tomorrow morning, meaning this is the final day for candidates to convince voters that they are the right leaders for the job, and why their opponents are the wrong choice. 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/montreal/quebec-votes-2014/quebec-election-2014-campaign-in-home-stretch-1.2600078)
 1. [Cover Image](https://i.cbc.ca/1.2600087.1396818571!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/leaders-final-day.jpg)
+
+### Changes:
+
+1. [Quebec general election, 2014:Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. ](/news/2014/04/7/quebec-general-election-2014-pvoters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.md) _2017-08-25 03:40:15 (First version)_
+2. [Quebec general election, 2014:: Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. ](/news/2014/04/7/quebec-general-election-2014-voters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.md) _2017-08-27 03:40:33 (Update)_
+2. [Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. ](/news/2014/04/7/voters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ Quebecers head to the polls tomorrow morning, meaning this is the final day for 
 3. [Seven people die in a plane crash on the Magdalen Islands in the Canadian province of Quebec. Former minister Jean Lapierre was one of the people on board the plane. ](/news/2016/03/29/seven-people-die-in-a-plane-crash-on-the-magdalen-islands-in-the-canadian-province-of-quebec-former-minister-jean-lapierre-was-one-of-the-p.md) _Context: Quebec_
 4. [Quebec-based Valeant Pharmaceuticals International cut all ties with Philidor Rx Services. This comes in the wake of recent revelations that Valeant was looking to acquire Philidor, a relationship that raised questions from various quarters. Valeant is the subject of U.S. federal investigations. ](/news/2015/10/30/quebec-based-valeant-pharmaceuticals-international-cut-all-ties-with-philidor-rx-services-this-comes-in-the-wake-of-recent-revelations-that.md) _Context: Quebec_
 5. [A sightseeing seaplane crashes on Quebec's North Shore killing all six people aboard. ](/news/2015/08/24/a-sightseeing-seaplane-crashes-on-quebec-s-north-shore-killing-all-six-people-aboard.md) _Context: Quebec_
-
-### Changes:
-
-1. [Quebec general election, 2014:Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. ](/news/2014/04/7/quebec-general-election-2014-pvoters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.md) _2017-08-25 03:40:15 (First version)_
-2. [Quebec general election, 2014:: Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. ](/news/2014/04/7/quebec-general-election-2014-voters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.md) _2017-08-27 03:40:33 (Update)_
-2. [Voters in Quebec go to the polls to elect members of the National Assembly of Quebec. ](/news/2014/04/7/voters-in-quebec-go-to-the-polls-to-elect-members-of-the-national-assembly-of-quebec.md) _(Current version)_

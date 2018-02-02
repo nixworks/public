@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/21/expedition-34-flight-engineers-tom-marshburn-roman-romanenko-and-chris-hadfield-dock-their-soyuz-tma-07m-spacecraft-to-the-international-sp.html)  [JSON](/news/2012/12/21/expedition-34-flight-engineers-tom-marshburn-roman-romanenko-and-chris-hadfield-dock-their-soyuz-tma-07m-spacecraft-to-the-international-sp.json)  [XML](/news/2012/12/21/expedition-34-flight-engineers-tom-marshburn-roman-romanenko-and-chris-hadfield-dock-their-soyuz-tma-07m-spacecraft-to-the-international-sp.xml)  
+
 ### [2012-12-21](/news/2012/12/21/index.md)
 
+##### Expedition 34
 # Expedition 34 Flight Engineers Tom Marshburn, Roman Romanenko and Chris Hadfield dock their Soyuz TMA-07M spacecraft to the International Space Station's Rassvet module. 
 
 Three new Expedition 34 crew members were welcomed aboard the station after the hatches between the vehicles were opened at 11:37 a.m. EST Friday.
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://www.nasa.gov/mission_pages/station/expeditions/expedition34/e34_launch.html)
 1. [Cover Image](http://www.nasa.gov/sites/default/files/images/716057main_34welcome_226.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/29/the-minimum-wage-in-the-chinese-capital-beijing-is-raised-by-20-for-the-second-time-in-six-months-amid-rising-food-costs.html)  [JSON](/news/2010/12/29/the-minimum-wage-in-the-chinese-capital-beijing-is-raised-by-20-for-the-second-time-in-six-months-amid-rising-food-costs.json)  [XML](/news/2010/12/29/the-minimum-wage-in-the-chinese-capital-beijing-is-raised-by-20-for-the-second-time-in-six-months-amid-rising-food-costs.xml)  
+
 ### [2010-12-29](/news/2010/12/29/index.md)
 
+##### minimum wage
 # The minimum wage in the Chinese capital Beijing is raised by 20% for the second time in six months, amid rising food costs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hCXILdGtHlqtyOZx6lwxEDpOWOKA?docId=CNG.ea638b1a0a24b53c0f92f7048d96ae35.2a1)
 

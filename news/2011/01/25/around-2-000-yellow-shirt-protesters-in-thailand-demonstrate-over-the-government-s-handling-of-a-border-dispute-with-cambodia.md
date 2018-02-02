@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/25/around-2-000-yellow-shirt-protesters-in-thailand-demonstrate-over-the-government-s-handling-of-a-border-dispute-with-cambodia.html)  [JSON](/news/2011/01/25/around-2-000-yellow-shirt-protesters-in-thailand-demonstrate-over-the-government-s-handling-of-a-border-dispute-with-cambodia.json)  [XML](/news/2011/01/25/around-2-000-yellow-shirt-protesters-in-thailand-demonstrate-over-the-government-s-handling-of-a-border-dispute-with-cambodia.xml)  
+
 ### [2011-01-25](/news/2011/01/25/index.md)
 
+##### yellow shirt
 # Around 2,000 "yellow shirt" protesters in Thailand demonstrate over the government's handling of a border dispute with Cambodia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12279280)
 2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/160586.html)

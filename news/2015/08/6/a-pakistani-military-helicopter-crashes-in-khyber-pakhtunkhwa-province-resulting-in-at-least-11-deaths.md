@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/6/a-pakistani-military-helicopter-crashes-in-khyber-pakhtunkhwa-province-resulting-in-at-least-11-deaths.html)  [JSON](/news/2015/08/6/a-pakistani-military-helicopter-crashes-in-khyber-pakhtunkhwa-province-resulting-in-at-least-11-deaths.json)  [XML](/news/2015/08/6/a-pakistani-military-helicopter-crashes-in-khyber-pakhtunkhwa-province-resulting-in-at-least-11-deaths.xml)  
+
 ### [2015-08-6](/news/2015/08/6/index.md)
 
+##### Pakistan
 # A Pakistani military helicopter crashes in Khyber Pakhtunkhwa province resulting in at least 11 deaths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/24536aff2ded4912b9f3636658aba78a/pakistan-army-helicopter-crashes-northwest-8-killed)
 

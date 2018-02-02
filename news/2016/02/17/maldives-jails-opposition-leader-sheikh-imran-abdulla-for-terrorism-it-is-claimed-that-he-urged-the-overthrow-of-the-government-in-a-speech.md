@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/17/maldives-jails-opposition-leader-sheikh-imran-a
 
 ### [2016-02-17](/news/2016/02/17/index.md)
 
+##### Maldives
 # Maldives jails opposition leader Sheikh Imran Abdulla for terrorism. It is claimed that he urged the overthrow of the government in a speech. 
 
 A Maldives opposition leader, Sheikh Imran Abdulla, is convicted of terrorism over a speech criticising the jailing of former president Mohamed Nasheed.

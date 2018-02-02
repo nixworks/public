@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/23/gaston-flosse-is-elected-president-of-french-polynesia-after-a-deal-with-oscar-temaru.html)  [JSON](/news/2008/02/23/gaston-flosse-is-elected-president-of-french-polynesia-after-a-deal-with-oscar-temaru.json)  [XML](/news/2008/02/23/gaston-flosse-is-elected-president-of-french-polynesia-after-a-deal-with-oscar-temaru.xml)  
+
 ### [2008-02-23](/news/2008/02/23/index.md)
 
+##### Gaston Flosse
 #  Gaston Flosse is elected President of French Polynesia after a deal with Oscar Temaru. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Pacific Magazine](http://www.pacificmagazine.net/news/2008/02/27/flosse-temaru-merge-into-single-caucus)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/29/the-death-toll-from-hurricane-harvey-reaches-30
 
 ### [2017-08-29](/news/2017/08/29/index.md)
 
+##### Hurricane Harvey
 # The death toll from Hurricane Harvey reaches 30 as Sylvester Turner, the mayor of Houston, Texas, introduces a curfew to deter looters. 
 
 Rivers were still rising and rescue work continued in southeast Texas, where officials warned that for many people, conditions will not improve soon.

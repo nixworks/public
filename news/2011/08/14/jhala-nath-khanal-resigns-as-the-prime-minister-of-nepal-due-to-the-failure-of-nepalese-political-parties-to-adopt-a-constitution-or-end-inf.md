@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/14/jhala-nath-khanal-resigns-as-the-prime-minister-of-nepal-due-to-the-failure-of-nepalese-political-parties-to-adopt-a-constitution-or-end-inf.html)  [JSON](/news/2011/08/14/jhala-nath-khanal-resigns-as-the-prime-minister-of-nepal-due-to-the-failure-of-nepalese-political-parties-to-adopt-a-constitution-or-end-inf.json)  [XML](/news/2011/08/14/jhala-nath-khanal-resigns-as-the-prime-minister-of-nepal-due-to-the-failure-of-nepalese-political-parties-to-adopt-a-constitution-or-end-inf.xml)  
+
 ### [2011-08-14](/news/2011/08/14/index.md)
 
+##### Jhala Nath Khanal
 # Jhala Nath Khanal resigns as the Prime Minister of Nepal due to the failure of Nepalese political parties to adopt a constitution or end infighting. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/top/all/7697661.html)
 

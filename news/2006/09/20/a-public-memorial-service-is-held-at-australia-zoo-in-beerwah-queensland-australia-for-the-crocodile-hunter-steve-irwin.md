@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/20/a-public-memorial-service-is-held-at-australia-zoo-in-beerwah-queensland-australia-for-the-crocodile-hunter-steve-irwin.html)  [JSON](/news/2006/09/20/a-public-memorial-service-is-held-at-australia-zoo-in-beerwah-queensland-australia-for-the-crocodile-hunter-steve-irwin.json)  [XML](/news/2006/09/20/a-public-memorial-service-is-held-at-australia-zoo-in-beerwah-queensland-australia-for-the-crocodile-hunter-steve-irwin.xml)  
+
 ### [2006-09-20](/news/2006/09/20/index.md)
 
+##### funeral
 #  A public memorial service is held at Australia Zoo in Beerwah, Queensland, Australia, for "The Crocodile Hunter" Steve Irwin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Australia](http://www.abc.net.au/news/newsitems/200609/s1745095.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/19/russia-announces-it-will-sell-off-the-main-production-unit-of-yukos-the-energy-company-seized-last-year-for-supposedly-failing-to-pay-taxe.html)  [JSON](/news/2004/11/19/russia-announces-it-will-sell-off-the-main-production-unit-of-yukos-the-energy-company-seized-last-year-for-supposedly-failing-to-pay-taxe.json)  [XML](/news/2004/11/19/russia-announces-it-will-sell-off-the-main-production-unit-of-yukos-the-energy-company-seized-last-year-for-supposedly-failing-to-pay-taxe.xml)  
+
 ### [2004-11-19](/news/2004/11/19/index.md)
 
+##### Yukos
 #  Russia announces it will sell off the main production unit of Yukos, the energy company seized last year for supposedly failing to pay taxes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/4024607.stm)
 

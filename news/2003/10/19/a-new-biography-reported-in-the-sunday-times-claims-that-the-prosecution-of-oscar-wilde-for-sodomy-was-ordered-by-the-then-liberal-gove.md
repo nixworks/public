@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/19/a-new-biography-reported-in-the-sunday-times-claims-that-the-prosecution-of-oscar-wilde-for-sodomy-was-ordered-by-the-then-liberal-gove.html)  [JSON](/news/2003/10/19/a-new-biography-reported-in-the-sunday-times-claims-that-the-prosecution-of-oscar-wilde-for-sodomy-was-ordered-by-the-then-liberal-gove.json)  [XML](/news/2003/10/19/a-new-biography-reported-in-the-sunday-times-claims-that-the-prosecution-of-oscar-wilde-for-sodomy-was-ordered-by-the-then-liberal-gove.xml)  
+
 ### [2003-10-19](/news/2003/10/19/index.md)
 
+##### The Sunday Times (UK)
 #  A new biography, reported in "The Sunday Times", claims that the prosecution of Oscar Wilde for sodomy was ordered by the then Liberal government, in a deal with the Marquess of Queensberry, the father of Lord Alfred Douglas, to prevent his exposure of a homosexual relationship between another of his sons, Viscount Drumlanrig, and British Prime Minister Lord Rosebery. According to reports, future prime minister H. H. Asquith played a key role in negotiating the deal, which led to the imprisonment of the Irish writer.date=February 2010
 
 

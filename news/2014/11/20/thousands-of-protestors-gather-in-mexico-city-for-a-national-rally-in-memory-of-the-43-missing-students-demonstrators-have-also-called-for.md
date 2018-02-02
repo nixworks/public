@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/20/thousands-of-protestors-gather-in-mexico-city-for-a-national-rally-in-memory-of-the-43-missing-students-demonstrators-have-also-called-for.html)  [JSON](/news/2014/11/20/thousands-of-protestors-gather-in-mexico-city-for-a-national-rally-in-memory-of-the-43-missing-students-demonstrators-have-also-called-for.json)  [XML](/news/2014/11/20/thousands-of-protestors-gather-in-mexico-city-for-a-national-rally-in-memory-of-the-43-missing-students-demonstrators-have-also-called-for.xml)  
+
 ### [2014-11-20](/news/2014/11/20/index.md)
 
+##### Mexico City
 # Thousands of protestors gather in Mexico City for a national rally in memory of the 43 missing students. Demonstrators have also called for a nationwide strike. 
 
 Relatives of 43 missing Mexican students, who the authorities say were murdered by a drugs gang, lead mass protests in the capital city.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.com/news/world-latin-america-30127458)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/79167000/jpg/_79167798_79167796.jpg)

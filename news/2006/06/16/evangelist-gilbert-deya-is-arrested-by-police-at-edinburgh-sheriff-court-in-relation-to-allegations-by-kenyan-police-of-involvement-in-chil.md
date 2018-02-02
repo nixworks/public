@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/16/evangelist-gilbert-deya-is-arrested-by-police-at-edinburgh-sheriff-court-in-relation-to-allegations-by-kenyan-police-of-involvement-in-chil.html)  [JSON](/news/2006/06/16/evangelist-gilbert-deya-is-arrested-by-police-at-edinburgh-sheriff-court-in-relation-to-allegations-by-kenyan-police-of-involvement-in-chil.json)  [XML](/news/2006/06/16/evangelist-gilbert-deya-is-arrested-by-police-at-edinburgh-sheriff-court-in-relation-to-allegations-by-kenyan-police-of-involvement-in-chil.xml)  
+
 ### [2006-06-16](/news/2006/06/16/index.md)
 
+##### Gilbert Deya
 #  Evangelist Gilbert Deya is arrested by police at Edinburgh Sheriff Court in relation to allegations by Kenyan police of involvement in child trafficking. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/5083534.stm)
 

@@ -1,7 +1,7 @@
-## [2000-06-21](/news/2000/06/21/index.md)
 
-### [ Section 28, a law preventing the promotion of homosexuality is repealed by the Scottish Parliament.](/news/2000/06/21/section-28-a-law-preventing-the-promotion-of-homosexuality-is-repealed-by-the-scottish-parliament.md)
-_Context: Scottish Parliament, Section 28, homosexuality_
+Formats: [HTML](2000/06/21/index.html)  [JSON](2000/06/21/index.json)  [XML](2000/06/21/index.xml)  
+
+## [2000-06-21](/news/2000/06/21/index.md)
 
 ## [Previous Day...](/news/2000/06/20/index.md)
 

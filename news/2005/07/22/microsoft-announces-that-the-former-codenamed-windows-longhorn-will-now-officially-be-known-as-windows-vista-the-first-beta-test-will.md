@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/07/22/microsoft-announces-that-the-former-codenamed-windows-longhorn-will-now-officially-be-known-as-windows-vista-the-first-beta-test-will.html)  [JSON](/news/2005/07/22/microsoft-announces-that-the-former-codenamed-windows-longhorn-will-now-officially-be-known-as-windows-vista-the-first-beta-test-will.json)  [XML](/news/2005/07/22/microsoft-announces-that-the-former-codenamed-windows-longhorn-will-now-officially-be-known-as-windows-vista-the-first-beta-test-will.xml)  
+
 ### [2005-07-22](/news/2005/07/22/index.md)
 
+##### Microsoft
 #  Microsoft announces that the former codenamed "Windows Longhorn" will now officially be known as "Windows Vista". The first beta test will be launched on August 3.
 
 

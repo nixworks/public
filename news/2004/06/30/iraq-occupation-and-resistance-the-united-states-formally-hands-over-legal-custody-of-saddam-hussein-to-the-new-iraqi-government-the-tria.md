@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/30/iraq-occupation-and-resistance-the-united-states-formally-hands-over-legal-custody-of-saddam-hussein-to-the-new-iraqi-government-the-tria.html)  [JSON](/news/2004/06/30/iraq-occupation-and-resistance-the-united-states-formally-hands-over-legal-custody-of-saddam-hussein-to-the-new-iraqi-government-the-tria.json)  [XML](/news/2004/06/30/iraq-occupation-and-resistance-the-united-states-formally-hands-over-legal-custody-of-saddam-hussein-to-the-new-iraqi-government-the-tria.xml)  
+
 ### [2004-06-30](/news/2004/06/30/index.md)
 
+##### Occupation of Iraq
 #  Iraq Occupation and resistance: The United States formally hands over legal custody of Saddam Hussein to the new Iraqi government. The trial of Saddam Hussein is expected to take place in January. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3852185.stm)
 

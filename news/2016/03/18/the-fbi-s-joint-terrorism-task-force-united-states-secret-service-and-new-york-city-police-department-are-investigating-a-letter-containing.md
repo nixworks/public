@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/18/the-fbi-s-joint-terrorism-task-force-united-sta
 
 ### [2016-03-18](/news/2016/03/18/index.md)
 
+##### Donald Trump presidential campaign
 # The FBI's Joint Terrorism Task Force, United States Secret Service and New York City Police Department are investigating a letter containing a suspicious white powder and a threatening note which was sent to the home of Eric Trump, son of Donald Trump, in New York City. The handwritten note within the letter said: "If your father does not drop out of the race, the next envelope won't be a fake." It was signed "X". 
 
 

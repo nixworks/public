@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/4/the-united-states-army-corps-of-engineers-denies
 
 ### [2016-12-4](/news/2016/12/4/index.md)
 
+##### Dakota Access Pipeline protests
 # The United States Army Corps of Engineers denies a permit for Energy Transfer Partners planned Dakota Access Pipeline running through North Dakota and will begin exploring alternative routes for the pipeline following weeks of protests. 
 
 A Native American leader asked thousands of protesters to return home after the federal government ruled against a controversial pipeline, despite the prospect of President-elect Donald Trump reversing the decision after he takes office.

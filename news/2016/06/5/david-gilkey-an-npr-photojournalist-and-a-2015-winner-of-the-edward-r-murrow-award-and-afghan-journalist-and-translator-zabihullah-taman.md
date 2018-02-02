@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/5/david-gilkey-an-npr-photojournalist-and-a-2015-w
 
 ### [2016-06-5](/news/2016/06/5/index.md)
 
+##### War in Afghanistan
 #  David Gilkey, an NPR photojournalist and a 2015 winner of the Edward R. Murrow Award, and Afghan journalist and translator Zabihullah Tamanna are killed when the Afghan army unit they were accompanying comes under fire near Marjah in Helmand Province. 
 
 WASHINGTON (AP) — David Gilkey, a veteran news photographer and video editor for National Public Radio, and an Afghan translator, Zabihullah Tamanna, were killed while on assignment in southern Afghanistan on Sunday, a…
@@ -25,5 +26,5 @@ WASHINGTON (AP) — David Gilkey, a veteran news photographer and video editor f
 1. [A car bomb in Helmand Province kills up to 13 people, including Afghan Army soldiers and civilians, and wounds 18 others, according to government spokesman Omar Zwak. ](/news/2017/08/27/a-car-bomb-in-helmand-province-kills-up-to-13-people-including-afghan-army-soldiers-and-civilians-and-wounds-18-others-according-to-gover.md) _Context: Helmand Province, War in Afghanistan_
 2. [A car bomb outside a New Kabul Bank branch in Lashkargah, Helmand Province, kills at least 20 people. The Taliban claims responsibility. ](/news/2017/06/22/a-car-bomb-outside-a-new-kabul-bank-branch-in-lashkargah-helmand-province-kills-at-least-20-people-the-taliban-claims-responsibility.md) _Context: Helmand Province, War in Afghanistan_
 3. [Taliban insurgents attack an Afghan military base in Mazar-e-Sharif, Balkh Province, killing more than 140 soldiers. It is said to be the deadliest attack of its kind ](/news/2017/04/21/taliban-insurgents-attack-an-afghan-military-base-in-mazar-e-sharif-balkh-province-killing-more-than-140-soldiers-it-is-said-to-be-the-de.md) _Context: Afghan National Army, War in Afghanistan_
-4. [United States soldier Bowe Bergdahl is convicted of desertion and dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.md) _Context: War in Afghanistan_
-5. [Two fuel tankers are bombed in the Afghan town of Charikar, killing at least 15 people and injuring at least 27. ](/news/2017/11/1/two-fuel-tankers-are-bombed-in-the-afghan-town-of-charikar-killing-at-least-15-people-and-injuring-at-least-27.md) _Context: War in Afghanistan_
+4. [The United States Central Command launches an investigation into a video posted on YouTube which appears to show a U.S. service member firing on civilians inside a truck on a road in Afghanistan. The montage video, titled "Happy Few Ordnance Symphony", has since been removed. ](/news/2018/01/10/the-united-states-central-command-launches-an-investigation-into-a-video-posted-on-youtube-which-appears-to-show-a-u-s-service-member-firin.md) _Context: War in Afghanistan_
+5. [United States soldier Bowe Bergdahl is convicted of desertion and dishonorably discharged, but is not imprisoned. ](/news/2017/11/3/united-states-soldier-bowe-bergdahl-is-convicted-of-desertion-and-dishonorably-discharged-but-is-not-imprisoned.md) _Context: War in Afghanistan_

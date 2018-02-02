@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/the-international-organization-for-migration-iom-expresses-concern-about-thousands-of-chadian-people-mainly-women-children-and-the-elder.html)  [JSON](/news/2011/06/29/the-international-organization-for-migration-iom-expresses-concern-about-thousands-of-chadian-people-mainly-women-children-and-the-elder.json)  [XML](/news/2011/06/29/the-international-organization-for-migration-iom-expresses-concern-about-thousands-of-chadian-people-mainly-women-children-and-the-elder.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### International Organization for Migration
 # The International Organization for Migration (IOM) expresses concern about thousands of Chadian people, mainly women, children and the elderly, stranded on dangerous territory on the border between Chad and Libya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-13966076)
 2. [IOM](http://www.iom.int/jahia/Jahia/media/press-briefing-notes/pbnAF/cache/offonce?entryId=29821)

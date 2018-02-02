@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/1/the-international-monetary-fund-says-the-global-economy-is-recovering-faster-than-expected-raising-its-forecast-for-global-growth-to-3-1.html)  [JSON](/news/2009/10/1/the-international-monetary-fund-says-the-global-economy-is-recovering-faster-than-expected-raising-its-forecast-for-global-growth-to-3-1.json)  [XML](/news/2009/10/1/the-international-monetary-fund-says-the-global-economy-is-recovering-faster-than-expected-raising-its-forecast-for-global-growth-to-3-1.xml)  
+
 ### [2009-10-1](/news/2009/10/1/index.md)
 
+##### International Monetary Fund
 #  The International Monetary Fund says the global economy is "recovering faster than expected", raising its forecast for global growth to 3.1% for 2010, up from 2.5%. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IMF Survey online](http://www.imf.org/external/pubs/ft/survey/so/2009/RES100109A.htm)
 

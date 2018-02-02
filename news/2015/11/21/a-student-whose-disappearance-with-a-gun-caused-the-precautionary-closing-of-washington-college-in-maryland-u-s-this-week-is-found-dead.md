@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/21/a-student-whose-disappearance-with-a-gun-caused-the-precautionary-closing-of-washington-college-in-maryland-u-s-this-week-is-found-dead.html)  [JSON](/news/2015/11/21/a-student-whose-disappearance-with-a-gun-caused-the-precautionary-closing-of-washington-college-in-maryland-u-s-this-week-is-found-dead.json)  [XML](/news/2015/11/21/a-student-whose-disappearance-with-a-gun-caused-the-precautionary-closing-of-washington-college-in-maryland-u-s-this-week-is-found-dead.xml)  
+
 ### [2015-11-21](/news/2015/11/21/index.md)
 
+##### Washington College
 # A student, whose disappearance with a gun caused the precautionary closing of Washington College in Maryland (U.S.) this week, is found dead in Pennsylvania of a self-inflicted gunshot wound. The campus will reopen after Thanksgiving. 
 
 Please stay tuned to washcoll.edu/updates for information as it becomes available.
 
 
-### Source:
+### Sources:
 
 1. [Washington College](http://www.washcoll.edu/live/news/8305-campus-closed-due-to-threat)
 2. [Washington Post](https://www.washingtonpost.com/local/public-safety/missing-washington-college-student-found-dead-in-pennsylvania/2015/11/21/d486fab8-90ab-11e5-acff-673ae92ddd2b_story.html)

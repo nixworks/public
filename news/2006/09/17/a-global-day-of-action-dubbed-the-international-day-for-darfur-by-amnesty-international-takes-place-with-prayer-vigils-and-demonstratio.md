@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/17/a-global-day-of-action-dubbed-the-international-day-for-darfur-by-amnesty-international-takes-place-with-prayer-vigils-and-demonstratio.html)  [JSON](/news/2006/09/17/a-global-day-of-action-dubbed-the-international-day-for-darfur-by-amnesty-international-takes-place-with-prayer-vigils-and-demonstratio.json)  [XML](/news/2006/09/17/a-global-day-of-action-dubbed-the-international-day-for-darfur-by-amnesty-international-takes-place-with-prayer-vigils-and-demonstratio.xml)  
+
 ### [2006-09-17](/news/2006/09/17/index.md)
 
+##### Darfur
 #  A global day of action, dubbed the 'International Day for Darfur' by Amnesty International, takes place with prayer vigils and demonstrations in 30 of the world's cities to highlight the plight of refugees and victims of genocide in the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/5353332.stm)
 

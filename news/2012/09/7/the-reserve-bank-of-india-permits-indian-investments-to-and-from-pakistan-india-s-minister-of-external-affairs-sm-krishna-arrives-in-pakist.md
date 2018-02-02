@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/7/the-reserve-bank-of-india-permits-indian-investments-to-and-from-pakistan-india-s-minister-of-external-affairs-sm-krishna-arrives-in-pakist.html)  [JSON](/news/2012/09/7/the-reserve-bank-of-india-permits-indian-investments-to-and-from-pakistan-india-s-minister-of-external-affairs-sm-krishna-arrives-in-pakist.json)  [XML](/news/2012/09/7/the-reserve-bank-of-india-permits-indian-investments-to-and-from-pakistan-india-s-minister-of-external-affairs-sm-krishna-arrives-in-pakist.xml)  
+
 ### [2012-09-7](/news/2012/09/7/index.md)
 
+##### Reserve Bank of India
 # The Reserve Bank of India permits Indian investments to and from Pakistan. India's minister of external affairs SM Krishna arrives in Pakistan for a meeting on Saturday in Islamabad with his Pakistani counterpart Hina Rabbani Khar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deccan Times](http://www.deccanchronicle.com/node/155374)
 2. [Hindustan Times](http://www.hindustantimes.com/India-news/NewDelhi/RBI-permits-Indians-to-invest-in-Pak/Article1-926243.aspx)

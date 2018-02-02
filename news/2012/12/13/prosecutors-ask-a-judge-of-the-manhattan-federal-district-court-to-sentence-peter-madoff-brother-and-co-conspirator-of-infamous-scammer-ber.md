@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/12/13/prosecutors-ask-a-judge-of-the-manhattan-federal-district-court-to-sentence-peter-madoff-brother-and-co-conspirator-of-infamous-scammer-ber.html)  [JSON](/news/2012/12/13/prosecutors-ask-a-judge-of-the-manhattan-federal-district-court-to-sentence-peter-madoff-brother-and-co-conspirator-of-infamous-scammer-ber.json)  [XML](/news/2012/12/13/prosecutors-ask-a-judge-of-the-manhattan-federal-district-court-to-sentence-peter-madoff-brother-and-co-conspirator-of-infamous-scammer-ber.xml)  
+
 ### [2012-12-13](/news/2012/12/13/index.md)
 
+##### chief federal prosecutors
 # Prosecutors ask a judge of the Manhattan federal district court to sentence Peter Madoff, brother and co-conspirator of infamous scammer Bernard Madoff, to a sentence of ten years. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/12/14/us-madoff-sentence-idUSBRE8BD02H20121214)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20121214&t=2&i=684447621&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8BD04LJ00)
+1. [Reuters](https://www.reuters.com/article/2012/12/14/us-madoff-sentence-idUSBRE8BD02H20121214)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20121214&t=2&i=684447621&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8BD04LJ00)
 
 ### Related:
 

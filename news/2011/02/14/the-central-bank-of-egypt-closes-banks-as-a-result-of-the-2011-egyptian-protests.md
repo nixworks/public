@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/14/the-central-bank-of-egypt-closes-banks-as-a-result-of-the-2011-egyptian-protests.html)  [JSON](/news/2011/02/14/the-central-bank-of-egypt-closes-banks-as-a-result-of-the-2011-egyptian-protests.json)  [XML](/news/2011/02/14/the-central-bank-of-egypt-closes-banks-as-a-result-of-the-2011-egyptian-protests.xml)  
+
 ### [2011-02-14](/news/2011/02/14/index.md)
 
+##### Central Bank of Egypt
 # The Central Bank of Egypt closes banks as a result of the 2011 Egyptian protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://blogs.voanews.com/breaking-news/2011/02/13/egypts-banks-to-close-as-labor-unrest-spreads/)
 

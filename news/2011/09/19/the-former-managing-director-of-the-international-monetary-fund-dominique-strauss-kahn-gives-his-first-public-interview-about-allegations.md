@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/19/the-former-managing-director-of-the-international-monetary-fund-dominique-strauss-kahn-gives-his-first-public-interview-about-allegations.html)  [JSON](/news/2011/09/19/the-former-managing-director-of-the-international-monetary-fund-dominique-strauss-kahn-gives-his-first-public-interview-about-allegations.json)  [XML](/news/2011/09/19/the-former-managing-director-of-the-international-monetary-fund-dominique-strauss-kahn-gives-his-first-public-interview-about-allegations.xml)  
+
 ### [2011-09-19](/news/2011/09/19/index.md)
 
+##### International Monetary Fund
 # The former Managing Director of the International Monetary Fund, Dominique Strauss-Kahn, gives his first public interview about allegations of sexual assault made against him in May 2011, to French TV channel TF1. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/europe/09/18/france.strauss.kahn.interview/index.html?hpt=wo_c2)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/09/18/france.strauss.kahn.interview/tzvids.dsk.car.gi.jpg)

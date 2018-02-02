@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/3/archaeologists-digging-at-a-site-on-the-egypt-gaza-border-unearth-parts-of-a-possible-hidden-city-which-they-believe-is-more-than-2-000-year.html)  [JSON](/news/2010/10/3/archaeologists-digging-at-a-site-on-the-egypt-gaza-border-unearth-parts-of-a-possible-hidden-city-which-they-believe-is-more-than-2-000-year.json)  [XML](/news/2010/10/3/archaeologists-digging-at-a-site-on-the-egypt-gaza-border-unearth-parts-of-a-possible-hidden-city-which-they-believe-is-more-than-2-000-year.xml)  
+
 ### [2010-10-3](/news/2010/10/3/index.md)
 
+##### Egypt
 # Archaeologists digging at a site on the Egypt-Gaza border unearth parts of a possible hidden city which they believe is more than 2,000 years old. They encounter difficulties while excavating due to the blockade of Gaza. 
 
 Archaeologists find 2,000-year-old tunnels near Egypt border, close to smuggling tunnels.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/middleeast/2010/10/20101039027262314.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/3/20101039659837734_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/22/according-to-exit-polls-nicolas-sarkozy-and-sa-c-gola-ne-royal-will-meet-in-the-second-round-of-the-french-presidential-election-on-may-6-f.html)  [JSON](/news/2007/04/22/according-to-exit-polls-nicolas-sarkozy-and-sa-c-gola-ne-royal-will-meet-in-the-second-round-of-the-french-presidential-election-on-may-6-f.json)  [XML](/news/2007/04/22/according-to-exit-polls-nicolas-sarkozy-and-sa-c-gola-ne-royal-will-meet-in-the-second-round-of-the-french-presidential-election-on-may-6-f.xml)  
+
 ### [2007-04-22](/news/2007/04/22/index.md)
 
+##### Nicolas Sarkozy
 #  According to exit polls, Nicolas Sarkozy and Segolene Royal will meet in the second round of the French presidential election on May 6. Francois Bayrou and Jean-Marie Le Pen are believed to have received the third and fourth most votes respectively. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6582007.stm)
 

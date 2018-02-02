@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/22/voters-in-the-us-state-of-louisiana-go-to-the-polls-for-a-gubernatorial-election-with-incumbent-governor-bobby-jindal-expected-to-be-elected.html)  [JSON](/news/2011/10/22/voters-in-the-us-state-of-louisiana-go-to-the-polls-for-a-gubernatorial-election-with-incumbent-governor-bobby-jindal-expected-to-be-elected.json)  [XML](/news/2011/10/22/voters-in-the-us-state-of-louisiana-go-to-the-polls-for-a-gubernatorial-election-with-incumbent-governor-bobby-jindal-expected-to-be-elected.xml)  
+
 ### [2011-10-22](/news/2011/10/22/index.md)
 
+##### Louisiana
 # Voters in the US state of Louisiana go to the polls for a gubernatorial election with incumbent Governor Bobby Jindal expected to be elected in the first round. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/politics/2011/10/22/louisiana-gov-bobby-jindal-expected-to-coast-to-re-election/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

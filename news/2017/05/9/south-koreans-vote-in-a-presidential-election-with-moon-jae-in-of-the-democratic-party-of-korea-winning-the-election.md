@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/9/south-koreans-vote-in-a-presidential-election-wi
 
 ### [2017-05-9](/news/2017/05/9/index.md)
 
+##### South Korean presidential election, 2017
 # South Koreans vote in a presidential election, with Moon Jae-in of the Democratic Party of Korea winning the election. 
 
 
@@ -26,5 +27,5 @@ Formats: [HTML](/news/2017/05/9/south-koreans-vote-in-a-presidential-election-wi
 1. [South Korean President Moon Jae-in and U.S. President Donald Trump agree to revise the South Korea Ballistic Missile Range Guidelines which caps South Korea's missile development. ](/news/2017/09/1/south-korean-president-moon-jae-in-and-u-s-president-donald-trump-agree-to-revise-the-south-korea-ballistic-missile-range-guidelines-which.md) _Context: Moon Jae-in, South Korea_
 2. [United Nations secretary-general Ban Ki-moon and liberal candidate Moon Jae-in plan to contest the position vacated by Park Geun-hye. ](/news/2016/12/22/united-nations-secretary-general-ban-ki-moon-and-liberal-candidate-moon-jae-in-plan-to-contest-the-position-vacated-by-park-geun-hye.md) _Context: Moon Jae-in, South Korean presidential election, 2017_
 3. [Voters in South Korea go to the polls with exit polls showing a very close race expected between Park Geun-hye of the conservative Saenuri Party and Moon Jae-in of the left-of-centre Democratic United Party. ](/news/2012/12/19/voters-in-south-korea-go-to-the-polls-with-exit-polls-showing-a-very-close-race-expected-between-park-geun-hye-of-the-conservative-saenuri-p.md) _Context: Moon Jae-in, South Korea_
-4. [South Korea and the United States launch their largest-ever annual joint aerial drill. ](/news/2017/12/4/south-korea-and-the-united-states-launch-their-largest-ever-annual-joint-aerial-drill.md) _Context: South Korea_
-5. [A 10-tonne fishing boat collides with a 336-tonne fuel tanker near Yeongheung Island, South Korea, killing 13 of the 22 people on board the fishing boat. Two people remain missing. ](/news/2017/12/3/a-10-tonne-fishing-boat-collides-with-a-336-tonne-fuel-tanker-near-yeongheung-island-south-korea-killing-13-of-the-22-people-on-board-the.md) _Context: South Korea_
+4. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: South Korea_
+5. [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md) _Context: South Korea_

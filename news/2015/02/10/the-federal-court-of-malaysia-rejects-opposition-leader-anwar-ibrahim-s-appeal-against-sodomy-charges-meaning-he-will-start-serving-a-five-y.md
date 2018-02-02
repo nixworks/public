@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/02/10/the-federal-court-of-malaysia-rejects-opposition-leader-anwar-ibrahim-s-appeal-against-sodomy-charges-meaning-he-will-start-serving-a-five-y.html)  [JSON](/news/2015/02/10/the-federal-court-of-malaysia-rejects-opposition-leader-anwar-ibrahim-s-appeal-against-sodomy-charges-meaning-he-will-start-serving-a-five-y.json)  [XML](/news/2015/02/10/the-federal-court-of-malaysia-rejects-opposition-leader-anwar-ibrahim-s-appeal-against-sodomy-charges-meaning-he-will-start-serving-a-five-y.xml)  
+
 ### [2015-02-10](/news/2015/02/10/index.md)
 
+##### Federal Court of Malaysia
 # The Federal Court of Malaysia rejects opposition leader Anwar Ibrahim's appeal against sodomy charges meaning he will start serving a five-year sentence. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/02/10/us-malaysia-anwar-idUSKBN0LD2F520150210)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20150210&t=2&i=1023799936&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB19044)
+1. [Reuters](https://www.reuters.com/article/2015/02/10/us-malaysia-anwar-idUSKBN0LD2F520150210)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20150210&t=2&i=1023799936&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB19044)
 
 ### Related:
 

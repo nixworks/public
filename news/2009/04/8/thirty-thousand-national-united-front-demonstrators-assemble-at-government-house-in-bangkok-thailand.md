@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/8/thirty-thousand-national-united-front-demonstrators-assemble-at-government-house-in-bangkok-thailand.html)  [JSON](/news/2009/04/8/thirty-thousand-national-united-front-demonstrators-assemble-at-government-house-in-bangkok-thailand.json)  [XML](/news/2009/04/8/thirty-thousand-national-united-front-demonstrators-assemble-at-government-house-in-bangkok-thailand.xml)  
+
 ### [2009-04-8](/news/2009/04/8/index.md)
 
+##### red shirt
 #  Thirty thousand National United Front demonstrators assemble at Government House in Bangkok, Thailand. 
 
 Thai Prime Minister Abhisit Vejjajiva insisted on Wednesday that an Asian summit, postponed once already, would go ahead in Thailand this week despite a mass rally in Bangkok by demonstrators intent on toppling him.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUKBKK47086420090408)
 1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090408&t=2&i=9630644&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-04-08T163343Z_01_BTRE5371A0B00_RTROPTP_0_THAILAND-POLITICS)

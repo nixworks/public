@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/02/21/police-in-zimbabwe-ban-rallies-in-parts-of-harare-that-are-seen-as-strongholds-of-the-opposition-party-movement-for-democratic-change.html)  [JSON](/news/2007/02/21/police-in-zimbabwe-ban-rallies-in-parts-of-harare-that-are-seen-as-strongholds-of-the-opposition-party-movement-for-democratic-change.json)  [XML](/news/2007/02/21/police-in-zimbabwe-ban-rallies-in-parts-of-harare-that-are-seen-as-strongholds-of-the-opposition-party-movement-for-democratic-change.xml)  
+
 ### [2007-02-21](/news/2007/02/21/index.md)
 
+##### Zimbabwe
 #  Police in Zimbabwe ban rallies in parts of Harare that are seen as strongholds of the opposition party Movement for Democratic Change. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/02/21/AR2007022100988.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/02/21/AR2007022100988.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

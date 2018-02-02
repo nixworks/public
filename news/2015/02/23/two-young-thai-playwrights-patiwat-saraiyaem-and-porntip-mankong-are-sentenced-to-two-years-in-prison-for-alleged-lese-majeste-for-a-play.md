@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/23/two-young-thai-playwrights-patiwat-saraiyaem-and-porntip-mankong-are-sentenced-to-two-years-in-prison-for-alleged-lese-majeste-for-a-play.html)  [JSON](/news/2015/02/23/two-young-thai-playwrights-patiwat-saraiyaem-and-porntip-mankong-are-sentenced-to-two-years-in-prison-for-alleged-lese-majeste-for-a-play.json)  [XML](/news/2015/02/23/two-young-thai-playwrights-patiwat-saraiyaem-and-porntip-mankong-are-sentenced-to-two-years-in-prison-for-alleged-lese-majeste-for-a-play.xml)  
+
 ### [2015-02-23](/news/2015/02/23/index.md)
 
+##### Thai Society
 # Two young Thai playwrights, Patiwat Saraiyaem and Porntip Mankong, are sentenced to two years in prison for alleged lese majeste for a play set in a fictional kingdom. 
 
 Two young Thais accused of defaming the monarchy in a university play were jailed for two and a half years on Monday, as the ruling junta intensifies a crackdown under a controversial lese majeste law.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](https://uk.news.yahoo.com/two-thais-await-sentence-insulting-royals-play-213145030.html)
 1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/crKdSAqNCUYjkGy7F3EidA--/aD01MzQ7dz03Njg7c209MTthcHBpZD15dGFjaHlvbg--/http://media.zenfs.com/en_GB/News/AFP/4048d8d4a31272d7aeec2f918386c1f251e61f16.jpg)

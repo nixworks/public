@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/11/the-world-health-organization-announces-that-203-people-have-died-in-angola-from-the-marburg-virus.html)  [JSON](/news/2005/04/11/the-world-health-organization-announces-that-203-people-have-died-in-angola-from-the-marburg-virus.json)  [XML](/news/2005/04/11/the-world-health-organization-announces-that-203-people-have-died-in-angola-from-the-marburg-virus.xml)  
+
 ### [2005-04-11](/news/2005/04/11/index.md)
 
+##### World Health Organization
 #  The World Health Organization announces that 203 people have died in Angola from the Marburg virus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News.com.au](http://www.news.com.au/story/0,10117,12829873-23109,00.html)
 

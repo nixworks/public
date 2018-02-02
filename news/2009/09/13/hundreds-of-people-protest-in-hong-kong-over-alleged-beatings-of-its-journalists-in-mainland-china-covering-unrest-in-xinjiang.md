@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/13/hundreds-of-people-protest-in-hong-kong-over-alleged-beatings-of-its-journalists-in-mainland-china-covering-unrest-in-xinjiang.html)  [JSON](/news/2009/09/13/hundreds-of-people-protest-in-hong-kong-over-alleged-beatings-of-its-journalists-in-mainland-china-covering-unrest-in-xinjiang.json)  [XML](/news/2009/09/13/hundreds-of-people-protest-in-hong-kong-over-alleged-beatings-of-its-journalists-in-mainland-china-covering-unrest-in-xinjiang.xml)  
+
 ### [2009-09-13](/news/2009/09/13/index.md)
 
+##### Hong Kong
 #  Hundreds of people protest in Hong Kong over alleged beatings of its journalists in mainland China covering unrest in Xinjiang. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8253036.stm)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/news.htm?englishnews&20090913&56&611853)

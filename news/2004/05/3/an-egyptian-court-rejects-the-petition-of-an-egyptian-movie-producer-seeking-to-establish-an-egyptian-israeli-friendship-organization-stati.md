@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/3/an-egyptian-court-rejects-the-petition-of-an-egyptian-movie-producer-seeking-to-establish-an-egyptian-israeli-friendship-organization-stati.html)  [JSON](/news/2004/05/3/an-egyptian-court-rejects-the-petition-of-an-egyptian-movie-producer-seeking-to-establish-an-egyptian-israeli-friendship-organization-stati.json)  [XML](/news/2004/05/3/an-egyptian-court-rejects-the-petition-of-an-egyptian-movie-producer-seeking-to-establish-an-egyptian-israeli-friendship-organization-stati.xml)  
+
 ### [2004-05-3](/news/2004/05/3/index.md)
 
+##### Egypt
 #  An Egyptian court rejects the petition of an Egyptian movie producer seeking to establish an Egyptian-Israeli friendship organization stating: "Egyptian society does not need a friendship association with Israel. The Egyptian public and Arabs do not need such false friendships, as demonstrated by the attacks on the Palestinian people." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [HaAretz](http://www.haaretzdaily.com/hasen/spages/423598.html)
 2. [INN](http://www.israelnn.com/news.php3?id=61801)

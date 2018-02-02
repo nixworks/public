@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/2/bahrainis-go-to-the-polls-today-in-the-second-round-of-voting-in-the-kingdom-s-parliamentary-elections.html)  [JSON](/news/2006/12/2/bahrainis-go-to-the-polls-today-in-the-second-round-of-voting-in-the-kingdom-s-parliamentary-elections.json)  [XML](/news/2006/12/2/bahrainis-go-to-the-polls-today-in-the-second-round-of-voting-in-the-kingdom-s-parliamentary-elections.xml)  
+
 ### [2006-12-2](/news/2006/12/2/index.md)
 
+##### Bahrain
 #  Bahrainis go to the polls today in the second round of voting in the Kingdom's parliamentary elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/6201110.stm)
 

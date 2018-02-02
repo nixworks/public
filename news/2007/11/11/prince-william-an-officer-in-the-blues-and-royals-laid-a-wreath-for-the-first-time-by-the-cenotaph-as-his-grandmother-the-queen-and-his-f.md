@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/11/prince-william-an-officer-in-the-blues-and-royals-laid-a-wreath-for-the-first-time-by-the-cenotaph-as-his-grandmother-the-queen-and-his-f.html)  [JSON](/news/2007/11/11/prince-william-an-officer-in-the-blues-and-royals-laid-a-wreath-for-the-first-time-by-the-cenotaph-as-his-grandmother-the-queen-and-his-f.json)  [XML](/news/2007/11/11/prince-william-an-officer-in-the-blues-and-royals-laid-a-wreath-for-the-first-time-by-the-cenotaph-as-his-grandmother-the-queen-and-his-f.xml)  
+
 ### [2007-11-11](/news/2007/11/11/index.md)
 
+##### Duke of Cambridge
 #  Prince William, an officer in the Blues and Royals, laid a wreath for the first time by the Cenotaph as his grandmother The Queen and his father The Prince of Wales, looked on. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://ukpress.google.com/article/ALeqM5gg-DqpmTDbijZzRCqEaH-XourVrQ)
 

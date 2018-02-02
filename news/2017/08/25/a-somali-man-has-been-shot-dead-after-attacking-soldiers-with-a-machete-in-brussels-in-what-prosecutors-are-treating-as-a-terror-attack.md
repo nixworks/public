@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/25/a-somali-man-has-been-shot-dead-after-attacking
 
 ### [2017-08-25](/news/2017/08/25/index.md)
 
+##### August 2017 Brussels attack
 # A Somali man has been shot dead after attacking soldiers with a machete in Brussels, in what prosecutors are treating as a terror attack. 
 
 A Somali man is shot dead after injuring a soldier with a machete in the centre of Brussels.

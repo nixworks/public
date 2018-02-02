@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/7/iranian-opposition-leaders-call-for-the-release-of-people-who-demonstrated-in-the-aftermath-of-the-disputed-presidential-election.html)  [JSON](/news/2009/07/7/iranian-opposition-leaders-call-for-the-release-of-people-who-demonstrated-in-the-aftermath-of-the-disputed-presidential-election.json)  [XML](/news/2009/07/7/iranian-opposition-leaders-call-for-the-release-of-people-who-demonstrated-in-the-aftermath-of-the-disputed-presidential-election.xml)  
+
 ### [2009-07-7](/news/2009/07/7/index.md)
 
+##### Iran
 #  Iranian opposition leaders call for the release of people who demonstrated in the aftermath of the disputed presidential election. 
 
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment
 
 
-### Source:
+### Sources:
 
 1. [New Straits Times](http://www.nst.com.my/Current_News/NST/AfpNews/090707140332.59cv64g5.txt/afp)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/4/chinese-official-beijing-daily-describes-dissident-chen-guangcheng-as-a-tool-and-a-pawn-of-american-politicians.html)  [JSON](/news/2012/05/4/chinese-official-beijing-daily-describes-dissident-chen-guangcheng-as-a-tool-and-a-pawn-of-american-politicians.json)  [XML](/news/2012/05/4/chinese-official-beijing-daily-describes-dissident-chen-guangcheng-as-a-tool-and-a-pawn-of-american-politicians.xml)  
+
 ### [2012-05-4](/news/2012/05/4/index.md)
 
+##### China
 # Chinese official "Beijing Daily" describes dissident Chen Guangcheng as a "tool and a pawn of American politicians". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via MSNBC](http://www.msnbc.msn.com/id/47289362)
 

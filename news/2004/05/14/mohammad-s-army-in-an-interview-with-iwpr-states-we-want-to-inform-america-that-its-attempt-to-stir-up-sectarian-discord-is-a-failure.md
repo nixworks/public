@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/14/mohammad-s-army-in-an-interview-with-iwpr-states-we-want-to-inform-america-that-its-attempt-to-stir-up-sectarian-discord-is-a-failure.html)  [JSON](/news/2004/05/14/mohammad-s-army-in-an-interview-with-iwpr-states-we-want-to-inform-america-that-its-attempt-to-stir-up-sectarian-discord-is-a-failure.json)  [XML](/news/2004/05/14/mohammad-s-army-in-an-interview-with-iwpr-states-we-want-to-inform-america-that-its-attempt-to-stir-up-sectarian-discord-is-a-failure.xml)  
+
 ### [2004-05-14](/news/2004/05/14/index.md)
 
+##### Mohammad's Army
 #  Mohammad's Army, in an interview with IWPR, states "We want to inform America that its attempt to stir up sectarian discord is a failure." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IWPR](http://www.iwpr.net/index.pl?archive/irq/irq_63_1_eng.txt)
 

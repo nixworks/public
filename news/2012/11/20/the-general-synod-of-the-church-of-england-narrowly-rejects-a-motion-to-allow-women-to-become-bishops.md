@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/20/the-general-synod-of-the-church-of-england-narrowly-rejects-a-motion-to-allow-women-to-become-bishops.html)  [JSON](/news/2012/11/20/the-general-synod-of-the-church-of-england-narrowly-rejects-a-motion-to-allow-women-to-become-bishops.json)  [XML](/news/2012/11/20/the-general-synod-of-the-church-of-england-narrowly-rejects-a-motion-to-allow-women-to-become-bishops.xml)  
+
 ### [2012-11-20](/news/2012/11/20/index.md)
 
+##### General Synod of the Church of England
 # The General Synod of the Church of England narrowly rejects a motion to allow women to become bishops. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/nov/20/women-bishops-church-england-vote-live)
 

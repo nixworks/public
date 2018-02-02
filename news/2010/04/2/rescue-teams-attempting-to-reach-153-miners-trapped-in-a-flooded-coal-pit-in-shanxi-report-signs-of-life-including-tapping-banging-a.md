@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/2/rescue-teams-attempting-to-reach-153-miners-trapped-in-a-flooded-coal-pit-in-shanxi-report-signs-of-life-including-tapping-banging-a.html)  [JSON](/news/2010/04/2/rescue-teams-attempting-to-reach-153-miners-trapped-in-a-flooded-coal-pit-in-shanxi-report-signs-of-life-including-tapping-banging-a.json)  [XML](/news/2010/04/2/rescue-teams-attempting-to-reach-153-miners-trapped-in-a-flooded-coal-pit-in-shanxi-report-signs-of-life-including-tapping-banging-a.xml)  
+
 ### [2010-04-2](/news/2010/04/2/index.md)
 
+##### Shanxi province
 # Rescue teams attempting to reach 153 miners trapped in a flooded coal pit in Shanxi report "signs of life", including "tapping", "banging" and "shouts", as relatives allege an official cover-up of the incident. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8600561.stm)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/apr/02/tapping-heard-china-mine-flooded)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/12/iran-says-two-foreigners-arrested-for-interviewing-the-son-of-sakineh-mohammadi-ashtiani-had-connections-to-anti-revolutionary-groups-abro.html)  [JSON](/news/2010/10/12/iran-says-two-foreigners-arrested-for-interviewing-the-son-of-sakineh-mohammadi-ashtiani-had-connections-to-anti-revolutionary-groups-abro.json)  [XML](/news/2010/10/12/iran-says-two-foreigners-arrested-for-interviewing-the-son-of-sakineh-mohammadi-ashtiani-had-connections-to-anti-revolutionary-groups-abro.xml)  
+
 ### [2010-10-12](/news/2010/10/12/index.md)
 
+##### Iran
 # Iran says two foreigners arrested for interviewing the son of Sakineh Mohammadi Ashtiani had connections to "anti-revolutionary" groups abroad. 
 
 Two foreigners who interviewed the son of a woman prisoner at the centre of a international row were arrested by Iran because the pair had links with &quot;anti-revolutionary&quot; networks abroad, a Foreign Ministry spokesman said on Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g_HK_y_PKeqVYy5UkIQXMCg-6C5A?docId=CNG.3af003c84a71aeca2db44ba857bb01cc.7f1)
 2. [Press TV](http://www.presstv.ir/detail/146356.html)

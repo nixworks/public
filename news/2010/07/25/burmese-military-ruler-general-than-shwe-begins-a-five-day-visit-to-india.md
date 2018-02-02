@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/25/burmese-military-ruler-general-than-shwe-begins-a-five-day-visit-to-india.html)  [JSON](/news/2010/07/25/burmese-military-ruler-general-than-shwe-begins-a-five-day-visit-to-india.json)  [XML](/news/2010/07/25/burmese-military-ruler-general-than-shwe-begins-a-five-day-visit-to-india.xml)  
+
 ### [2010-07-25](/news/2010/07/25/index.md)
 
+##### Burma
 # Burmese military ruler General Than Shwe begins a five-day visit to India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10742638)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/Myanmar-military-chief-Than-Shwe-on-goodwill-visit-to-India-/articleshow/6213507.cms)

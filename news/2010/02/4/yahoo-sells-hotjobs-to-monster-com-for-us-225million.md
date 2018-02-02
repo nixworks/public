@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/4/yahoo-sells-hotjobs-to-monster-com-for-us-225million.html)  [JSON](/news/2010/02/4/yahoo-sells-hotjobs-to-monster-com-for-us-225million.json)  [XML](/news/2010/02/4/yahoo-sells-hotjobs-to-monster-com-for-us-225million.xml)  
+
 ### [2010-02-4](/news/2010/02/4/index.md)
 
+##### Yahoo!
 # Yahoo! sells HotJobs to Monster.com for US$225million. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PA](http://www.google.com/hostednews/ukpress/article/ALeqM5ihjWvvqVGH7Xkr6xPsIfD4A3NDBA)
 

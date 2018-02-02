@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/27/trading-on-the-australian-stock-exchange-is-suspended-for-four-hours-due-to-a-technical-fault.html)  [JSON](/news/2011/10/27/trading-on-the-australian-stock-exchange-is-suspended-for-four-hours-due-to-a-technical-fault.json)  [XML](/news/2011/10/27/trading-on-the-australian-stock-exchange-is-suspended-for-four-hours-due-to-a-technical-fault.xml)  
+
 ### [2011-10-27](/news/2011/10/27/index.md)
 
+##### Australian Stock Exchange
 # Trading on the Australian Stock Exchange is suspended for four hours due to a technical fault. 
 
 ALL trading on the Australian stock exchange has been halted indefinitely.
 
 
-### Source:
+### Sources:
 
 1. [Herald-Sun](http://www.heraldsun.com.au/business/asx-halts-trade-on-technical-problems/story-fn7j19iv-1226178115823)
 2. [News Limited](http://www.news.com.au/business/markets/asx-trading-suspended-indefinitely/story-e6frfm30-1226178084572)

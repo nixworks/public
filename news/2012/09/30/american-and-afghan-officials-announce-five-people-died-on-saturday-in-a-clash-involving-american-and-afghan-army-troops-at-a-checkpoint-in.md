@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/09/30/american-and-afghan-officials-announce-five-people-died-on-saturday-in-a-clash-involving-american-and-afghan-army-troops-at-a-checkpoint-in.html)  [JSON](/news/2012/09/30/american-and-afghan-officials-announce-five-people-died-on-saturday-in-a-clash-involving-american-and-afghan-army-troops-at-a-checkpoint-in.json)  [XML](/news/2012/09/30/american-and-afghan-officials-announce-five-people-died-on-saturday-in-a-clash-involving-american-and-afghan-army-troops-at-a-checkpoint-in.xml)  
+
 ### [2012-09-30](/news/2012/09/30/index.md)
 
+##### United States military personnel
 # American and Afghan officials announce five people died on Saturday in a clash involving American and Afghan army troops at a checkpoint in Maidan Wardak Province, Afghanistan. The circumstances are unclear. 
 
 Two Americans and three Afghans died just days after Pentagon officials confirmed that joint operations between American and Afghan forces were returning to normal.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2012/10/01/world/asia/suspected-insider-attack-in-afghanistan.html?_r=0)
+1. [New York Times](https://www.nytimes.com/2012/10/01/world/asia/suspected-insider-attack-in-afghanistan.html?_r=0)
 1. [Cover Image](https://static01.nyt.com/images/2012/10/01/world/01afghan-map/01afghan-map-superJumbo.jpg)
 
 ### Related:

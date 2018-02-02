@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/5/the-swedish-and-finnish-authorities-give-a-permit-to-build-the-controversial-nord-stream-gas-pipeline-in-their-exclusive-economic-zones.html)  [JSON](/news/2009/11/5/the-swedish-and-finnish-authorities-give-a-permit-to-build-the-controversial-nord-stream-gas-pipeline-in-their-exclusive-economic-zones.json)  [XML](/news/2009/11/5/the-swedish-and-finnish-authorities-give-a-permit-to-build-the-controversial-nord-stream-gas-pipeline-in-their-exclusive-economic-zones.xml)  
+
 ### [2009-11-5](/news/2009/11/5/index.md)
 
+##### Nord Stream
 #  The Swedish and Finnish authorities give a permit to build the controversial Nord Stream gas pipeline in their exclusive economic zones. 
 
 * Sweden, Finland govts approve pipelines in their waters * Finnish environmental decision due by year-end * Russia PM Putin thanks Finlan
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/idUKL532415220091105)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

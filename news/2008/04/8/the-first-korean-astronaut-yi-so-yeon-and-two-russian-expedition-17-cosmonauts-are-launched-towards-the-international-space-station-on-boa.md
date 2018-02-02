@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/8/the-first-korean-astronaut-yi-so-yeon-and-two-russian-expedition-17-cosmonauts-are-launched-towards-the-international-space-station-on-boa.html)  [JSON](/news/2008/04/8/the-first-korean-astronaut-yi-so-yeon-and-two-russian-expedition-17-cosmonauts-are-launched-towards-the-international-space-station-on-boa.json)  [XML](/news/2008/04/8/the-first-korean-astronaut-yi-so-yeon-and-two-russian-expedition-17-cosmonauts-are-launched-towards-the-international-space-station-on-boa.xml)  
+
 ### [2008-04-8](/news/2008/04/8/index.md)
 
+##### Yi So-yeon
 #  The first Korean astronaut, Yi So-yeon and two Russian Expedition 17 cosmonauts are launched towards the International Space Station on board Soyuz TMA-12. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [spaceflightnow.com ](http://www.spaceflightnow.com)
 

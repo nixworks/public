@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/15/the-president-of-libya-s-olympic-committee-ahmed-nabil-al-taher-al-alam-is-abducted-in-tripoli.html)  [JSON](/news/2012/07/15/the-president-of-libya-s-olympic-committee-ahmed-nabil-al-taher-al-alam-is-abducted-in-tripoli.json)  [XML](/news/2012/07/15/the-president-of-libya-s-olympic-committee-ahmed-nabil-al-taher-al-alam-is-abducted-in-tripoli.xml)  
+
 ### [2012-07-15](/news/2012/07/15/index.md)
 
+##### Libya
 # The President of Libya's Olympic committee, Ahmed Nabil al Taher al Alam, is abducted in Tripoli. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-18852287)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61587000/jpg/_61587359_libyasecurity.jpg)

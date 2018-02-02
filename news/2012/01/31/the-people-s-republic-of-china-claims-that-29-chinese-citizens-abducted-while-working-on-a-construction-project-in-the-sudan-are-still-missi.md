@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/31/the-people-s-republic-of-china-claims-that-29-chinese-citizens-abducted-while-working-on-a-construction-project-in-the-sudan-are-still-missi.html)  [JSON](/news/2012/01/31/the-people-s-republic-of-china-claims-that-29-chinese-citizens-abducted-while-working-on-a-construction-project-in-the-sudan-are-still-missi.json)  [XML](/news/2012/01/31/the-people-s-republic-of-china-claims-that-29-chinese-citizens-abducted-while-working-on-a-construction-project-in-the-sudan-are-still-missi.xml)  
+
 ### [2012-01-31](/news/2012/01/31/index.md)
 
+##### China
 # The People's Republic of China claims that 29 Chinese citizens abducted while working on a construction project in the Sudan are still missing. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/china-29-abducted-sudan-held-15476505)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/14/prime-minister-nouri-al-maliki-withdraws-both-his-candidacy-and-his-complaint-against-president-fuad-masum-for-allegedly-violating-the-iraqi.html)  [JSON](/news/2014/08/14/prime-minister-nouri-al-maliki-withdraws-both-his-candidacy-and-his-complaint-against-president-fuad-masum-for-allegedly-violating-the-iraqi.json)  [XML](/news/2014/08/14/prime-minister-nouri-al-maliki-withdraws-both-his-candidacy-and-his-complaint-against-president-fuad-masum-for-allegedly-violating-the-iraqi.xml)  
+
 ### [2014-08-14](/news/2014/08/14/index.md)
 
+##### Iraq Prime Minister
 # Prime Minister Nouri al-Maliki withdraws both his candidacy and his complaint against President Fuad Masum for allegedly violating the Iraqi constitution. 
 
 Iraqi Prime Minister Nouri Maliki resigns to end a political crisis in Baghdad, in a move that is welcomed by the US and UN.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2014/08/14/iraq-al-maliki-to-back-new-prime-minister-officials-say/)
 2. [BBC](http://www.bbc.com/news/world-middle-east-28798033)

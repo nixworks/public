@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/24/mir-hossein-mousavi-leader-of-the-iranian-opposition-and-former-prime-minister-returns-home-from-a-hospital-after-a-heart-attack.html)  [JSON](/news/2012/08/24/mir-hossein-mousavi-leader-of-the-iranian-opposition-and-former-prime-minister-returns-home-from-a-hospital-after-a-heart-attack.json)  [XML](/news/2012/08/24/mir-hossein-mousavi-leader-of-the-iranian-opposition-and-former-prime-minister-returns-home-from-a-hospital-after-a-heart-attack.xml)  
+
 ### [2012-08-24](/news/2012/08/24/index.md)
 
+##### Mir-Hossein Mousavi
 # Mir-Hossein Mousavi, leader of the Iranian opposition and former Prime Minister, returns home from a hospital after a heart attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [یر-حسین-موسوی-مساعد-است (Tabnak](http://www.tabnak.ir/fa/news/267311/حال-�)
 

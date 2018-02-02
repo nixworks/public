@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/21/authorities-say-the-death-toll-is-now-31-and-th
 
 ### [2016-12-21](/news/2016/12/21/index.md)
 
+##### 2016 San Pablito Market fireworks explosion
 # Authorities say the death toll is now 31, and that 47 of the 60 people injured remain hospitalized. 
 
 The death toll in a series of explosions at a fireworks market outside Mexico City has risen to 31, an official said Wednesday.

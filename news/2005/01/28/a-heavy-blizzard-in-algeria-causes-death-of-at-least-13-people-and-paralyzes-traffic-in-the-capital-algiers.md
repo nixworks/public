@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/01/28/a-heavy-blizzard-in-algeria-causes-death-of-at-least-13-people-and-paralyzes-traffic-in-the-capital-algiers.html)  [JSON](/news/2005/01/28/a-heavy-blizzard-in-algeria-causes-death-of-at-least-13-people-and-paralyzes-traffic-in-the-capital-algiers.json)  [XML](/news/2005/01/28/a-heavy-blizzard-in-algeria-causes-death-of-at-least-13-people-and-paralyzes-traffic-in-the-capital-algiers.xml)  
+
 ### [2005-01-28](/news/2005/01/28/index.md)
 
+##### blizzard
 #  A heavy blizzard in Algeria causes death of at least 13 people and paralyzes traffic in the capital Algiers 
 
 From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science and the latest discoveries like Reuters.com.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4213129.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=7452818)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=scienceNews&storyID=7452818)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/11/25/156-people-are-detained-in-egypt-following-clashes-between-police-and-copts-after-authorities-blocked-construction-of-a-church.html)  [JSON](/news/2010/11/25/156-people-are-detained-in-egypt-following-clashes-between-police-and-copts-after-authorities-blocked-construction-of-a-church.json)  [XML](/news/2010/11/25/156-people-are-detained-in-egypt-following-clashes-between-police-and-copts-after-authorities-blocked-construction-of-a-church.xml)  
+
 ### [2010-11-25](/news/2010/11/25/index.md)
 
+##### Egypt
 # 156 people are detained in Egypt following clashes between police and Copts after authorities blocked construction of a church. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6AO2AY20101125)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20101125&t=2&i=257441311&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-25T151908Z_01_BTRE6AO16JY00_RTROPTP_0_EGYPT-CHRISTIANS)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6AO2AY20101125)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20101125&t=2&i=257441311&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-25T151908Z_01_BTRE6AO16JY00_RTROPTP_0_EGYPT-CHRISTIANS)
 
 ### Related:
 

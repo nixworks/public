@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/4/the-strike-by-rail-maritime-and-transport-union-employees-on-the-london-underground-continued-but-the-strike-was-called-off-later-in-the-da.html)  [JSON](/news/2007/09/4/the-strike-by-rail-maritime-and-transport-union-employees-on-the-london-underground-continued-but-the-strike-was-called-off-later-in-the-da.json)  [XML](/news/2007/09/4/the-strike-by-rail-maritime-and-transport-union-employees-on-the-london-underground-continued-but-the-strike-was-called-off-later-in-the-da.xml)  
+
 ### [2007-09-4](/news/2007/09/4/index.md)
 
+##### Rail Maritime and Transport Union
 #  The strike by Rail Maritime and Transport Union employees on the London Underground continued but the strike was called off later in the day after lengthy talks with Transport for London. 
 
 London commuters are in for more chaos and disruption as unions set to embark upon a second day of strikes on the capital&#039;s underground system.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/04/2023982.htm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/09/05/ntube105.xml)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/29/floods-in-paraguay-force-the-evacuation-of-200-000-people.html)  [JSON](/news/2014/06/29/floods-in-paraguay-force-the-evacuation-of-200-000-people.json)  [XML](/news/2014/06/29/floods-in-paraguay-force-the-evacuation-of-200-000-people.xml)  
+
 ### [2014-06-29](/news/2014/06/29/index.md)
 
+##### Paraguay
 # Floods in Paraguay force the evacuation of 200,000 people. 
 
 Floods caused by torrential rains have forced the evacuation of 200,00 people in Paraguay.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/28077210)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75916000/jpg/_75916580_75916578.jpg)

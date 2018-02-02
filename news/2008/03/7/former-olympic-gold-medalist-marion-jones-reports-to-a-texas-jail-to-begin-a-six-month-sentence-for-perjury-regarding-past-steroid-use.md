@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/7/former-olympic-gold-medalist-marion-jones-reports-to-a-texas-jail-to-begin-a-six-month-sentence-for-perjury-regarding-past-steroid-use.html)  [JSON](/news/2008/03/7/former-olympic-gold-medalist-marion-jones-reports-to-a-texas-jail-to-begin-a-six-month-sentence-for-perjury-regarding-past-steroid-use.json)  [XML](/news/2008/03/7/former-olympic-gold-medalist-marion-jones-reports-to-a-texas-jail-to-begin-a-six-month-sentence-for-perjury-regarding-past-steroid-use.xml)  
+
 ### [2008-03-7](/news/2008/03/7/index.md)
 
+##### Olympic Games
 #  Former Olympic gold medalist Marion Jones reports to a Texas jail to begin a six-month sentence for perjury regarding past steroid use. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7284664.stm)
 

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/01/31/us-entertainer-michael-jackson-pleads-his-innocence-before-his-trial-for-alleged-child-molestation-begins-in-santa-maria-california.html)  [JSON](/news/2005/01/31/us-entertainer-michael-jackson-pleads-his-innocence-before-his-trial-for-alleged-child-molestation-begins-in-santa-maria-california.json)  [XML](/news/2005/01/31/us-entertainer-michael-jackson-pleads-his-innocence-before-his-trial-for-alleged-child-molestation-begins-in-santa-maria-california.xml)  
+
 ### [2005-01-31](/news/2005/01/31/index.md)
 
+##### Michael Jackson
 #  US entertainer Michael Jackson pleads his innocence before his trial for alleged child molestation begins in Santa Maria, California. 
 
 Michael Jackson spoke out Sunday against leaks in his child-molestation case, reiterating his innocence and calling the material recently revealed from grand jury transcripts &quot;disgusting and...
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/LAW/01/30/jackson.trial/)
 2. [LA Times](http://www.latimes.com/news/local/la-me-statement31jan31,0,8135.story?coll=la-home-headlines)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=peopleNews&storyID=7476417)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=peopleNews&storyID=7476417)
 3. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)
 
 ### Related:

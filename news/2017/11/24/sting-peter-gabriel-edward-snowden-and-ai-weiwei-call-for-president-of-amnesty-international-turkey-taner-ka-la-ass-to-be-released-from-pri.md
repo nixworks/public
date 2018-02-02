@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/24/sting-peter-gabriel-edward-snowden-and-ai-weiwe
 
 ### [2017-11-24](/news/2017/11/24/index.md)
 
+##### Sting
 # Sting, Peter Gabriel, Edward Snowden and Ai Weiwei call for president of Amnesty International Turkey Taner Kilic to be released from prison. 
 
 Amnesty says musicians Sting and Peter Gabriel and whistle-blower Edward Snowden signed open letter making the call.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/police-fire-tear-gas-at-anti-government-protesters-in-gabon-two-days-after-opposition-leader-andra-c-mba-obame-declares-himself-president.html)  [JSON](/news/2011/01/28/police-fire-tear-gas-at-anti-government-protesters-in-gabon-two-days-after-opposition-leader-andra-c-mba-obame-declares-himself-president.json)  [XML](/news/2011/01/28/police-fire-tear-gas-at-anti-government-protesters-in-gabon-two-days-after-opposition-leader-andra-c-mba-obame-declares-himself-president.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### tear gas
 # Police fire tear gas at anti-government protesters in Gabon two days after opposition leader Andre Mba Obame declares himself president. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE70R01I20110128?sp=true)
 

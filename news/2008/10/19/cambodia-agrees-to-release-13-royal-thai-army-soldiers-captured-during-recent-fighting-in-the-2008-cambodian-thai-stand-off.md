@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/19/cambodia-agrees-to-release-13-royal-thai-army-soldiers-captured-during-recent-fighting-in-the-2008-cambodian-thai-stand-off.html)  [JSON](/news/2008/10/19/cambodia-agrees-to-release-13-royal-thai-army-soldiers-captured-during-recent-fighting-in-the-2008-cambodian-thai-stand-off.json)  [XML](/news/2008/10/19/cambodia-agrees-to-release-13-royal-thai-army-soldiers-captured-during-recent-fighting-in-the-2008-cambodian-thai-stand-off.xml)  
+
 ### [2008-10-19](/news/2008/10/19/index.md)
 
+##### Cambodia
 #  Cambodia agrees to release 13 Royal Thai Army soldiers captured during recent fighting in the 2008 Cambodian-Thai stand-off. 
 
 Cambodian military commanders have reportedly agreed to release 13 Thai troops captured during fighting near the Preah Vihear temple site.
 
 
-### Source:
+### Sources:
 
 1. [Radio Australia](http://www.radioaustralia.net.au/news/stories/200810/s2395131.htm?tab=asia)
 

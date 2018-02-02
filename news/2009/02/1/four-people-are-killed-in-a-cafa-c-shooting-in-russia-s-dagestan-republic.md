@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/1/four-people-are-killed-in-a-cafa-c-shooting-in-russia-s-dagestan-republic.html)  [JSON](/news/2009/02/1/four-people-are-killed-in-a-cafa-c-shooting-in-russia-s-dagestan-republic.json)  [XML](/news/2009/02/1/four-people-are-killed-in-a-cafa-c-shooting-in-russia-s-dagestan-republic.xml)  
+
 ### [2009-02-1](/news/2009/02/1/index.md)
 
+##### cafe
 #  Four people are killed in a cafe shooting in Russia's Dagestan Republic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via IHT](http://www.iht.com/articles/reuters/2009/02/01/europe/OUKWD-UK-RUSSIA-DAGESTAN-SHOOTING.php)
 

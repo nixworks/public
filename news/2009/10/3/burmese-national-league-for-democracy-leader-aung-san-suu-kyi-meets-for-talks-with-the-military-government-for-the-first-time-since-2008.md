@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/3/burmese-national-league-for-democracy-leader-aung-san-suu-kyi-meets-for-talks-with-the-military-government-for-the-first-time-since-2008.html)  [JSON](/news/2009/10/3/burmese-national-league-for-democracy-leader-aung-san-suu-kyi-meets-for-talks-with-the-military-government-for-the-first-time-since-2008.json)  [XML](/news/2009/10/3/burmese-national-league-for-democracy-leader-aung-san-suu-kyi-meets-for-talks-with-the-military-government-for-the-first-time-since-2008.xml)  
+
 ### [2009-10-3](/news/2009/10/3/index.md)
 
+##### Burma
 #  Burmese National League for Democracy leader Aung San Suu Kyi meets for talks with the military government for the first time since 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8288379.stm)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/155977/aung-san-suu-kyi-meets-burma-junta-minister)

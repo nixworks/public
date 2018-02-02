@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2007/10/6/war-in-afghanistan-a-suicide-bomb-attack-on-a-united-states-convoy-in-kabul-kills-a-u-s-soldier-and-five-civilians.html)  [JSON](/news/2007/10/6/war-in-afghanistan-a-suicide-bomb-attack-on-a-united-states-convoy-in-kabul-kills-a-u-s-soldier-and-five-civilians.json)  [XML](/news/2007/10/6/war-in-afghanistan-a-suicide-bomb-attack-on-a-united-states-convoy-in-kabul-kills-a-u-s-soldier-and-five-civilians.xml)  
+
 ### [2007-10-6](/news/2007/10/6/index.md)
 
+##### War in Afghanistan (2001-present)
 #  War in Afghanistan: A suicide bomb attack on a United States convoy in Kabul kills a U.S. soldier and five civilians. 
 
 A Taliban suicide car bomb killed five Afghan civilians and a U.S. soldier in Kabul on Saturday, the third such attack in the capital in eight days in a Taliban offensive launched during the Muslim holy month of Ramadan.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7031232.stm)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSISL18819320071006?feedType=RSS&feedName=topNews)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20071006&t=2&i=1893530&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-10-06T144432Z_01_ISL188193_RTRUKOP_0_PICTURE0)
+2. [Reuters](https://www.reuters.com/article/topNews/idUSISL18819320071006?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20071006&t=2&i=1893530&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-10-06T144432Z_01_ISL188193_RTRUKOP_0_PICTURE0)
 
 ### Related:
 
-1. [ A suicide attack kills two Afghans and one United States Army soldier and wounds 30 other people in Kabul, Afghanistan. ](/news/2009/01/17/a-suicide-attack-kills-two-afghans-and-one-united-states-army-soldier-and-wounds-30-other-people-in-kabul-afghanistan.md) _Context: Kabul, U.S. soldiers, United States, War in Afghanistan (2001-present)_
-2. [At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-in.md) _Context: Kabul, War in Afghanistan (2001-present)_
-3. [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. The Taliban claims their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-the-taliban-cl.md) _Context: Kabul, War in Afghanistan (2001-present)_
-4. [The United States Army's elite Delta Force captures their first suspected ISIL operative during a raid in northern Iraq. The detainee is being interrogated by the U.S. and is expected to be turned over to Iraqi officials in the coming days. ](/news/2016/03/1/the-united-states-army-s-elite-delta-force-captures-their-first-suspected-isil-operative-during-a-raid-in-northern-iraq-the-detainee-is-bei.md) _Context: U.S. soldiers, United States_
-5. [A Taliban suicide bomb attack outside a police office in central Kabul kills at least 9 people. ](/news/2016/02/1/a-taliban-suicide-bomb-attack-outside-a-police-office-in-central-kabul-kills-at-least-9-people.md) _Context: Kabul, suicide bomb_
+1. [ A suicide attack kills two Afghans and one United States Army soldier and wounds 30 other people in Kabul, Afghanistan. ](/news/2009/01/17/a-suicide-attack-kills-two-afghans-and-one-united-states-army-soldier-and-wounds-30-other-people-in-kabul-afghanistan.md) _Context: Kabul, U.S., United States soldier, War in Afghanistan (2001-present)_
+2. [A suicide bombing at a Shi'ite cultural center and news agency in Kabul, Afghanistan, kills 41 people and injures 84 others. ISIL-affiliated Amaq News Agency says this group is responsible. ](/news/2017/12/28/a-suicide-bombing-at-a-shiaite-cultural-center-and-news-agency-in-kabul-afghanistan-kills-41-people-and-injures-84-others-isil-affiliat.md) _Context: Kabul, War in Afghanistan (2001-present)_
+3. [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIL is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-amaq-news-agency-claims-isil-is-responsible-for-th.md) _Context: Kabul, War in Afghanistan (2001-present)_
+4. [A suicide bombing in Afghanistan's capital Kabul kills at least 8 civilians and leaves numerous wounded. The Islamic State claims responsibility. ](/news/2017/10/31/a-suicide-bombing-in-afghanistan-s-capital-kabul-kills-at-least-8-civilians-and-leaves-numerous-wounded-the-islamic-state-claims-responsibi.md) _Context: Kabul, War in Afghanistan (2001-present)_
+5. [Two suicide bomber attacks, one on a Shia mosque in Kabul and one on a Sunni mosque in Ghor Province, kill approximately 60 people. Approximately 180 people have been killed in bombing attacks this week. ](/news/2017/10/20/two-suicide-bomber-attacks-one-on-a-shia-mosque-in-kabul-and-one-on-a-sunni-mosque-in-ghor-province-kill-approximately-60-people-approxim.md) _Context: Kabul, War in Afghanistan (2001-present)_

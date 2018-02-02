@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/23/united-nations-world-heads-of-state-and-government-convene-at-united-nations-headquarters-in-new-york-city-for-the-start-of-the-annual-gen.html)  [JSON](/news/2003/09/23/united-nations-world-heads-of-state-and-government-convene-at-united-nations-headquarters-in-new-york-city-for-the-start-of-the-annual-gen.json)  [XML](/news/2003/09/23/united-nations-world-heads-of-state-and-government-convene-at-united-nations-headquarters-in-new-york-city-for-the-start-of-the-annual-gen.xml)  
+
 ### [2003-09-23](/news/2003/09/23/index.md)
 
+##### United Nations
 #  United Nations: World heads of state and government convene at United Nations Headquarters in New York City for the start of the annual General Assembly high-level summit. President of the United States George W. Bush urges the international community to help Iraq rebuild itself into a democracy with the "great power to inspire the Middle East." President Bush states a transformed Middle East would also benefit the entire world "by undermining the ideologies that export violence to other lands." President Bush also calls on the Security Council to adopt new anti-proliferation resolution "calling on all members of the UN to criminalize the proliferation of weapons of mass destruction", enacting strict export controls, and securing all sensitive material.
 
 

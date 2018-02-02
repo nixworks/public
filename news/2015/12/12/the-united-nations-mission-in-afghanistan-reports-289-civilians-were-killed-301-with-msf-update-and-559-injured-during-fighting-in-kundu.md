@@ -1,17 +1,27 @@
+
+Formats: [HTML](/news/2015/12/12/the-united-nations-mission-in-afghanistan-reports-289-civilians-were-killed-301-with-msf-update-and-559-injured-during-fighting-in-kundu.html)  [JSON](/news/2015/12/12/the-united-nations-mission-in-afghanistan-reports-289-civilians-were-killed-301-with-msf-update-and-559-injured-during-fighting-in-kundu.json)  [XML](/news/2015/12/12/the-united-nations-mission-in-afghanistan-reports-289-civilians-were-killed-301-with-msf-update-and-559-injured-during-fighting-in-kundu.xml)  
+
 ### [2015-12-12](/news/2015/12/12/index.md)
 
+##### War in Afghanistan (2015-present)
 # The United Nations mission in Afghanistan reports 289 civilians were killed ("301 with MSF update") and 559 injured during fighting in Kunduz between Taliban militants and Afghan National Security Forces in September and October. The U.N. says these numbers include casualties from the friendly-fire attack on the Doctors Without Borders hospital and noted the totals were likely to rise as more information becomes available. 
 
 At least 848 Afghan civilians were killed or wounded following a Taliban attack on the northern city of Kunduz in September, according to a U.N. report that detailed the grim conditions endured by residents during two weeks of fighting.
 
 
-### Source:
+### Sources:
 
 1. [Daily Mail](http://www.dailymail.co.uk/wires/afp/article-3357169/MSF-says-death-toll-rises-42-Afghan-hospital-strike.html)
 2. [Radio Free Europe](http://www.rferl.org/content/afghanistan-un-report-kunduz-violence/27422671.html)
-3. [Reuters](http://www.reuters.com/article/us-afghanistan-fighting-report-idUSKBN0TV07720151212#2QL88hCCMPdAPCwZ.97)
-4. [The Guardian](http://www.theguardian.com/world/2015/dec/12/msf-afghanistan-hospital-airstrike-death-toll-42)
-4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20151212&t=2&i=1101848461&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBB052)
+3. [Reuters](https://www.reuters.com/article/us-afghanistan-fighting-report-idUSKBN0TV07720151212#2QL88hCCMPdAPCwZ.97)
+4. [The Guardian](https://www.theguardian.com/world/2015/dec/12/msf-afghanistan-hospital-airstrike-death-toll-42)
+4. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20151212&t=2&i=1101848461&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBB052)
+
+### Changes:
+
+1. [War in Afghanistan (2015-present) The United Nations mission in Afghanistan reports 289 civilians were killed (''301 with MSF update'') and 559 injured during fighting in Kunduz between Taliban militants and Afghan National Security Forces in September and October. The U.N. says these numbers include casualties from the friendly-fire attack on the Doctors Without Borders hospital and noted the totals were likely to rise as more information becomes available. ](/news/2015/12/12/war-in-afghanistan-2015apresent-pthe-united-nations-mission-in-afghanistan-reports-289-civilians-were-killed-301-with-msf-update.md) _2017-05-25 03:46:10 (First version)_
+2. [The United Nations mission in Afghanistan reports 289 civilians were killed (''301 with MSF update'') and 559 injured during fighting in Kunduz between Taliban militants and Afghan National Security Forces in September and October. The U.N. says these numbers include casualties from the friendly-fire attack on the Doctors Without Borders hospital and noted the totals were likely to rise as more information becomes available. ](/news/2015/12/12/the-united-nations-mission-in-afghanistan-reports-289-civilians-were-killed-301-with-msf-update-and-559-injured-during-fighting-in.md) _2017-08-25 03:43:59 (Update)_
+2. [The United Nations mission in Afghanistan reports 289 civilians were killed ("301 with MSF update") and 559 injured during fighting in Kunduz between Taliban militants and Afghan National Security Forces in September and October. The U.N. says these numbers include casualties from the friendly-fire attack on the Doctors Without Borders hospital and noted the totals were likely to rise as more information becomes available. ](/news/2015/12/12/the-united-nations-mission-in-afghanistan-reports-289-civilians-were-killed-301-with-msf-update-and-559-injured-during-fighting-in-kundu.md) _(Current version)_
 
 ### Related:
 
@@ -20,9 +30,3 @@ At least 848 Afghan civilians were killed or wounded following a Taliban attack 
 3. [ Suspect Taliban militants kill nine and kidnap 170 in an attack on three passenger buses in Kunduz, Afghanistan. ](/news/2016/05/31/suspect-taliban-militants-kill-nine-and-kidnap-170-in-an-attack-on-three-passenger-buses-in-kunduz-afghanistan.md) _Context: Afghanistan, Kunduz, Taliban, War in Afghanistan (2015-present)_
 4. [Heavy fighting continues in the north of Afghanistan as Taliban fighters intensify their attacks in several districts around Kunduz in their bid to retake the city. According to a police chief, militants overnight attacked several police checkpoints in the southwest outskirts of the city while government forces repelled a major attack to the east of Kunduz. ](/news/2016/04/17/heavy-fighting-continues-in-the-north-of-afghanistan-as-taliban-fighters-intensify-their-attacks-in-several-districts-around-kunduz-in-their.md) _Context: Afghanistan, Kunduz, Taliban, War in Afghanistan (2015-present)_
 5. [According to a police chief, at least 40 Taliban fighters are killed after launching an offensive against Afghan security forces to seize the strategic northern city of Kunduz while four security force personnel are also killed. ](/news/2016/04/16/according-to-a-police-chief-at-least-40-taliban-fighters-are-killed-after-launching-an-offensive-against-afghan-security-forces-to-seize-th.md) _Context: Afghanistan, Kunduz, Taliban, War in Afghanistan (2015-present)_
-
-### Changes:
-
-1. [War in Afghanistan (2015-present) The United Nations mission in Afghanistan reports 289 civilians were killed (''301 with MSF update'') and 559 injured during fighting in Kunduz between Taliban militants and Afghan National Security Forces in September and October. The U.N. says these numbers include casualties from the friendly-fire attack on the Doctors Without Borders hospital and noted the totals were likely to rise as more information becomes available. ](/news/2015/12/12/war-in-afghanistan-2015apresent-pthe-united-nations-mission-in-afghanistan-reports-289-civilians-were-killed-301-with-msf-update.md) _2017-05-25 03:46:10 (First version)_
-2. [The United Nations mission in Afghanistan reports 289 civilians were killed (''301 with MSF update'') and 559 injured during fighting in Kunduz between Taliban militants and Afghan National Security Forces in September and October. The U.N. says these numbers include casualties from the friendly-fire attack on the Doctors Without Borders hospital and noted the totals were likely to rise as more information becomes available. ](/news/2015/12/12/the-united-nations-mission-in-afghanistan-reports-289-civilians-were-killed-301-with-msf-update-and-559-injured-during-fighting-in.md) _2017-08-25 03:43:59 (Update)_
-2. [The United Nations mission in Afghanistan reports 289 civilians were killed ("301 with MSF update") and 559 injured during fighting in Kunduz between Taliban militants and Afghan National Security Forces in September and October. The U.N. says these numbers include casualties from the friendly-fire attack on the Doctors Without Borders hospital and noted the totals were likely to rise as more information becomes available. ](/news/2015/12/12/the-united-nations-mission-in-afghanistan-reports-289-civilians-were-killed-301-with-msf-update-and-559-injured-during-fighting-in-kundu.md) _(Current version)_

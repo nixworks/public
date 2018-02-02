@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/10/iran-s-supreme-leader-ayatollah-ali-khamenei-states-that-the-country-would-pursue-its-right-to-develop-nuclear-technology-and-will-not-susp.html)  [JSON](/news/2006/10/10/iran-s-supreme-leader-ayatollah-ali-khamenei-states-that-the-country-would-pursue-its-right-to-develop-nuclear-technology-and-will-not-susp.json)  [XML](/news/2006/10/10/iran-s-supreme-leader-ayatollah-ali-khamenei-states-that-the-country-would-pursue-its-right-to-develop-nuclear-technology-and-will-not-susp.xml)  
+
 ### [2006-10-10](/news/2006/10/10/index.md)
 
+##### Iran
 #  Iran's Supreme Leader Ayatollah Ali Khamenei states that the country would pursue its right to develop nuclear technology and will not suspend uranium enrichment as the West demands, declaring: "Our policy is clear, progress with clear logic and insisting on the nation's right without any retreat." 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=topNews&storyid=2006-10-10T184956Z_01_L10351518_RTRUKOC_0_US-NUCLEAR-IRAN-LEADER.xml)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

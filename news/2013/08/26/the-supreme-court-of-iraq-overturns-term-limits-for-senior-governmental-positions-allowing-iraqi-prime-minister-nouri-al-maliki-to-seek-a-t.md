@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/26/the-supreme-court-of-iraq-overturns-term-limits-for-senior-governmental-positions-allowing-iraqi-prime-minister-nouri-al-maliki-to-seek-a-t.html)  [JSON](/news/2013/08/26/the-supreme-court-of-iraq-overturns-term-limits-for-senior-governmental-positions-allowing-iraqi-prime-minister-nouri-al-maliki-to-seek-a-t.json)  [XML](/news/2013/08/26/the-supreme-court-of-iraq-overturns-term-limits-for-senior-governmental-positions-allowing-iraqi-prime-minister-nouri-al-maliki-to-seek-a-t.xml)  
+
 ### [2013-08-26](/news/2013/08/26/index.md)
 
+##### Supreme Court of Iraq
 # The Supreme Court of Iraq overturns term limits for senior governmental positions, allowing Iraqi Prime Minister Nouri al-Maliki to seek a third term in 2014.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Middle East Online](http://www.middle-east-online.com/english/?id=60909)
 

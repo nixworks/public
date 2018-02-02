@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/10/7/pope-benedict-xvi-names-john-of-avila-and-hildegard-of-bingen-the-34th-and-35th-doctors-of-the-catholic-church.html)  [JSON](/news/2012/10/7/pope-benedict-xvi-names-john-of-avila-and-hildegard-of-bingen-the-34th-and-35th-doctors-of-the-catholic-church.json)  [XML](/news/2012/10/7/pope-benedict-xvi-names-john-of-avila-and-hildegard-of-bingen-the-34th-and-35th-doctors-of-the-catholic-church.xml)  
+
 ### [2012-10-7](/news/2012/10/7/index.md)
 
+##### Pope
 # Pope Benedict XVI names John of Avila and Hildegard of Bingen the 34th and 35th doctors of the Catholic church. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/national/on-faith/pope-names-2-church-doctors-preacher-st-john-of-avila-and-mystic-st-hildegard-of-bingen/2012/10/07/b42217b2-106b-11e2-9a39-1f5a7f6fe945_story.html)
+1. [Washington Post](https://www.washingtonpost.com/national/on-faith/pope-names-2-church-doctors-preacher-st-john-of-avila-and-mystic-st-hildegard-of-bingen/2012/10/07/b42217b2-106b-11e2-9a39-1f5a7f6fe945_story.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/4/a-fire-at-a-warehouse-in-huwei-yunlin-county-taiwan-destroys-between-400-and-500-historic-puppets.html)  [JSON](/news/2009/11/4/a-fire-at-a-warehouse-in-huwei-yunlin-county-taiwan-destroys-between-400-and-500-historic-puppets.json)  [XML](/news/2009/11/4/a-fire-at-a-warehouse-in-huwei-yunlin-county-taiwan-destroys-between-400-and-500-historic-puppets.xml)  
+
 ### [2009-11-4](/news/2009/11/4/index.md)
 
+##### Huwei
 #  A fire at a warehouse in Huwei Yunlin County, Taiwan, destroys between 400 and 500 historic puppets. 
 
 TAIPEI (Reuters Life!) - A region of Taiwan that prides itself on puppetry, an art that originated centuries ago in China, lost 400 to 500 of its best pi
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8342886.stm)
 2. [Reuters India](http://in.reuters.com/article/entertainmentNews/idINIndia-43665120091104)

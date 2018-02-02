@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/19/the-maltese-navy-and-italian-coast-guard-are-mounting-a-rescue-operation-for-a-boat-that-capsized-between-libya-and-italy-with-up-to-700-peo.html)  [JSON](/news/2015/04/19/the-maltese-navy-and-italian-coast-guard-are-mounting-a-rescue-operation-for-a-boat-that-capsized-between-libya-and-italy-with-up-to-700-peo.json)  [XML](/news/2015/04/19/the-maltese-navy-and-italian-coast-guard-are-mounting-a-rescue-operation-for-a-boat-that-capsized-between-libya-and-italy-with-up-to-700-peo.xml)  
+
 ### [2015-04-19](/news/2015/04/19/index.md)
 
+##### Maltese Navy
 # The Maltese Navy and Italian Coast Guard are mounting a rescue operation for a boat that capsized between Libya and Italy with up to 700 people aboard. 
 
 Boat with up to 700 migrants on board capsizes, only 28 survivors reported&nbsp;&nbsp;&bull;&nbsp;24 corpses to be brought to Malta&nbsp;&nbsp;&bull;&nbsp;&nbsp;EU foreign ministers to convene to discuss Mediterranean migration issue tomorrow&nbsp;&nbsp;&bull; Maltese, Italian, Greek PMs urge EU to take action&nbsp;&nbsp;&bull; EC President says EU has a &amp;#39;moral obligation to act&amp;#39;.&nbsp;
 
 
-### Source:
+### Sources:
 
 1. [Malta Today](http://www.maltatoday.com.mt/news/national/51977/boat_with_an_estimated_650_migrants_on_board_capsizes#.VTNvXiGeDRZ)
 1. [Cover Image](http://content.maltatoday.com.mt/ui_frontend/thumbnail/684/400/8099_6.png)

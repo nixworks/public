@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/23/iraqi-insurgency-at-least-eight-people-are-killed-in-car-bombings-and-mortar-attacks-across-various-districts-in-baghdad-iraq.html)  [JSON](/news/2012/10/23/iraqi-insurgency-at-least-eight-people-are-killed-in-car-bombings-and-mortar-attacks-across-various-districts-in-baghdad-iraq.json)  [XML](/news/2012/10/23/iraqi-insurgency-at-least-eight-people-are-killed-in-car-bombings-and-mortar-attacks-across-various-districts-in-baghdad-iraq.xml)  
+
 ### [2012-10-23](/news/2012/10/23/index.md)
 
+##### eight car bombings
 # Iraqi insurgency: At least eight people are killed in car bombings and mortar attacks across various districts in Baghdad, Iraq. 
 
 At least nine people have been killed in car bomb and mortar attacks in predominantly Shia districts of the Iraqi capital, Baghdad, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20039632)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/63659000/jpg/_63659503_63659502.jpg)

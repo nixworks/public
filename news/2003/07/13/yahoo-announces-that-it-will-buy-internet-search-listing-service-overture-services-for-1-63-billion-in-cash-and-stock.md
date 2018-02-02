@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/13/yahoo-announces-that-it-will-buy-internet-search-listing-service-overture-services-for-1-63-billion-in-cash-and-stock.html)  [JSON](/news/2003/07/13/yahoo-announces-that-it-will-buy-internet-search-listing-service-overture-services-for-1-63-billion-in-cash-and-stock.json)  [XML](/news/2003/07/13/yahoo-announces-that-it-will-buy-internet-search-listing-service-overture-services-for-1-63-billion-in-cash-and-stock.xml)  
+
 ### [2003-07-13](/news/2003/07/13/index.md)
 
+##### Yahoo!
 #  Yahoo! announces that it will buy Internet search listing service Overture Services for $1.63 billion in cash and stock.
 
 

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/09/23/abba-genesis-kiss-ll-cool-j-red-hot-chili-peppers-and-the-stooges-are-amongst-several-acts-nominated-for-the-rock-and-roll-hall-of-fame.html)  [JSON](/news/2009/09/23/abba-genesis-kiss-ll-cool-j-red-hot-chili-peppers-and-the-stooges-are-amongst-several-acts-nominated-for-the-rock-and-roll-hall-of-fame.json)  [XML](/news/2009/09/23/abba-genesis-kiss-ll-cool-j-red-hot-chili-peppers-and-the-stooges-are-amongst-several-acts-nominated-for-the-rock-and-roll-hall-of-fame.xml)  
+
 ### [2009-09-23](/news/2009/09/23/index.md)
 
+##### ABBA
 #  ABBA, Genesis, Kiss, LL Cool J, Red Hot Chili Peppers and The Stooges are amongst several acts nominated for the Rock and Roll Hall of Fame. 
 
 To mark Canada’s 150th birthday, CBC has launched a national storytelling project called What’s Your Story. We want to help you share personal stories about what defines Canada for you
 
 
-### Source:
+### Sources:
 
 1. [Billboard](http://www.billboard.com/news/kiss-genesis-chili-peppers-among-nominees-1004014961.story)
 2. [CBC](http://www.cbc.ca/arts/music/story/2009/09/23/rock-hall-fame-nominees.html?ref=rss)
-3. [Rolling Stone](http://www.rollingstone.com/rockdaily/index.php/2009/09/23/red-hot-chili-peppers-ll-cool-j-kiss-lead-2010-rock-and-roll-hall-of-fame-nominees/)
+3. [Rolling Stone](https://www.rollingstone.com/rockdaily/index.php/2009/09/23/red-hot-chili-peppers-ll-cool-j-kiss-lead-2010-rock-and-roll-hall-of-fame-nominees/)
 3. [Cover Image](https://i.cbc.ca/1.4005137.1488395527!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/what-s-your-story-collage.jpg)
 
 ### Related:

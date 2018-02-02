@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/06/29/operation-summer-rains.html)  [JSON](/news/2006/06/29/operation-summer-rains.json)  [XML](/news/2006/06/29/operation-summer-rains.xml)  
+
 ### [2006-06-29](/news/2006/06/29/index.md)
 
+##### Operation Summer Rains
 #  Operation Summer Rains:
 
 

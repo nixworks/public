@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/23/thousands-of-people-gather-in-canberra-australia-to-protest-the-introduction-of-a-carbon-tax-prime-minister-julia-gillard-met-the-australi.html)  [JSON](/news/2011/03/23/thousands-of-people-gather-in-canberra-australia-to-protest-the-introduction-of-a-carbon-tax-prime-minister-julia-gillard-met-the-australi.json)  [XML](/news/2011/03/23/thousands-of-people-gather-in-canberra-australia-to-protest-the-introduction-of-a-carbon-tax-prime-minister-julia-gillard-met-the-australi.xml)  
+
 ### [2011-03-23](/news/2011/03/23/index.md)
 
+##### Canberra
 # Thousands of people gather in Canberra, Australia to protest the introduction of a carbon tax, Prime Minister Julia Gillard met the Australian Youth Climate Coalition which is pushing for a price on emissions, while climate change mitigation activists including the Australian Council of Trade Unions delivered a petition to Minister for Climate Change and Energy Efficiency Greg Combet signed by about 10,000 "working Australians" urging the government to take action. 
 
 Canberra has found itself at the centre of clashing rallies by climate action campaigners and anti-carbon tax protesters.
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Adelaide Now](http://www.adelaidenow.com.au/news/breaking-news/anti-carbon-tax-rally-told-prime-minister-julia-gillard-like-pinocchio/story-e6frea73-1226026686775)
 2. [Daily Telegraph](http://www.dailytelegraph.com.au/news/more-than-3000-rally-against-carbon-tax-outside-parliament-house/story-e6freuy9-1226026717154)

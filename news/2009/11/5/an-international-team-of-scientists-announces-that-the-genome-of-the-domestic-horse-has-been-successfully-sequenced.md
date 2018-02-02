@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/5/an-international-team-of-scientists-announces-that-the-genome-of-the-domestic-horse-has-been-successfully-sequenced.html)  [JSON](/news/2009/11/5/an-international-team-of-scientists-announces-that-the-genome-of-the-domestic-horse-has-been-successfully-sequenced.json)  [XML](/news/2009/11/5/an-international-team-of-scientists-announces-that-the-genome-of-the-domestic-horse-has-been-successfully-sequenced.xml)  
+
 ### [2009-11-5](/news/2009/11/5/index.md)
 
+##### scientists
 #  An international team of scientists announces that the genome of the domestic horse has been successfully sequenced. 
 
 An old grey mare named Twilight has provided an international team of researchers with the entire genetic code of a domestic horse.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8345578.stm)
 2. [CBC](http://www.cbc.ca/technology/story/2009/11/05/tech-biology-horse-genome.html)

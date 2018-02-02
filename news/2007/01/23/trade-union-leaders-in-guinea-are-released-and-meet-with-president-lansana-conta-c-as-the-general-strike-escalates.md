@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/23/trade-union-leaders-in-guinea-are-released-and-meet-with-president-lansana-conta-c-as-the-general-strike-escalates.html)  [JSON](/news/2007/01/23/trade-union-leaders-in-guinea-are-released-and-meet-with-president-lansana-conta-c-as-the-general-strike-escalates.json)  [XML](/news/2007/01/23/trade-union-leaders-in-guinea-are-released-and-meet-with-president-lansana-conta-c-as-the-general-strike-escalates.xml)  
+
 ### [2007-01-23](/news/2007/01/23/index.md)
 
+##### Guinea
 #  Trade union leaders in Guinea are released and meet with President Lansana Conte as the general strike escalates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6289957.stm)
 

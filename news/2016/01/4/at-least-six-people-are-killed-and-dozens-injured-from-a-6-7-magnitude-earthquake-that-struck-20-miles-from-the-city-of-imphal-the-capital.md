@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/4/at-least-six-people-are-killed-and-dozens-injure
 
 ### [2016-01-4](/news/2016/01/4/index.md)
 
+##### 2016 Northeast India earthquake
 # At least six people are killed and dozens injured from a 6.7 magnitude earthquake that struck 20 miles from the city of Imphal, the capital of the Indian state of Manipur, near the border with Myanmar. 
 
 One person was reported dead and a dozen more people were injured after the quake 20 miles west-northwest of Imphal, India.

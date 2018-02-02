@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/26/thousands-of-iranians-in-paris-ask-the-un-to-tighten-its-sanctions-on-iran.html)  [JSON](/news/2010/06/26/thousands-of-iranians-in-paris-ask-the-un-to-tighten-its-sanctions-on-iran.json)  [XML](/news/2010/06/26/thousands-of-iranians-in-paris-ask-the-un-to-tighten-its-sanctions-on-iran.xml)  
+
 ### [2010-06-26](/news/2010/06/26/index.md)
 
+##### Iran
 # Thousands of Iranians in Paris ask the UN to tighten its sanctions on Iran. 
 
 Thousands of Iranian exiles rally in France, demand tougher sanctions against Tehran
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.net/2010/06/26/anti-iranian-regime-rally-draws-thousands-to-paris/)
 2. [YnetNews](http://www.ynetnews.com/articles/0,7340,L-3910975,00.html)

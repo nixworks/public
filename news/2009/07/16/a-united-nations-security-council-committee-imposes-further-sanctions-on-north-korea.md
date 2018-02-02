@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/16/a-united-nations-security-council-committee-imposes-further-sanctions-on-north-korea.html)  [JSON](/news/2009/07/16/a-united-nations-security-council-committee-imposes-further-sanctions-on-north-korea.json)  [XML](/news/2009/07/16/a-united-nations-security-council-committee-imposes-further-sanctions-on-north-korea.xml)  
+
 ### [2009-07-16](/news/2009/07/16/index.md)
 
+##### United Nations
 #  A United Nations Security Council committee imposes further sanctions on North Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8154691.stm)
 2. [Japan Today](http://www.japantoday.com/category/world/view/un-panel-issues-sanctions-on-5-n-koreans-5-entities)

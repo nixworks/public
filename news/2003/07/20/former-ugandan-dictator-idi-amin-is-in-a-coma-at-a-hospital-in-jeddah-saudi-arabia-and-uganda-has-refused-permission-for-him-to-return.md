@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/20/former-ugandan-dictator-idi-amin-is-in-a-coma-at-a-hospital-in-jeddah-saudi-arabia-and-uganda-has-refused-permission-for-him-to-return.html)  [JSON](/news/2003/07/20/former-ugandan-dictator-idi-amin-is-in-a-coma-at-a-hospital-in-jeddah-saudi-arabia-and-uganda-has-refused-permission-for-him-to-return.json)  [XML](/news/2003/07/20/former-ugandan-dictator-idi-amin-is-in-a-coma-at-a-hospital-in-jeddah-saudi-arabia-and-uganda-has-refused-permission-for-him-to-return.xml)  
+
 ### [2003-07-20](/news/2003/07/20/index.md)
 
+##### Uganda
 #  Former Ugandan dictator Idi Amin is in a coma at a hospital in Jeddah, Saudi Arabia, and Uganda has refused permission for him to return.
 
 

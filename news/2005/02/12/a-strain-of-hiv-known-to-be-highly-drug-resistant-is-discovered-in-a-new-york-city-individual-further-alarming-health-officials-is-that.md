@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/12/a-strain-of-hiv-known-to-be-highly-drug-resistant-is-discovered-in-a-new-york-city-individual-further-alarming-health-officials-is-that.html)  [JSON](/news/2005/02/12/a-strain-of-hiv-known-to-be-highly-drug-resistant-is-discovered-in-a-new-york-city-individual-further-alarming-health-officials-is-that.json)  [XML](/news/2005/02/12/a-strain-of-hiv-known-to-be-highly-drug-resistant-is-discovered-in-a-new-york-city-individual-further-alarming-health-officials-is-that.xml)  
+
 ### [2005-02-12](/news/2005/02/12/index.md)
 
+##### strain
 #  A strain of HIV, known to be highly drug-resistant, is discovered in a New York City individual. Further alarming health officials is that the onset of AIDS began within a few months of his diagnosis, a process which ordinarily takes over ten years. The patient is known to have frequently taken methamphetamine, a mutagen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/HEALTH/conditions/02/11/drug.resistant.aids/)
 

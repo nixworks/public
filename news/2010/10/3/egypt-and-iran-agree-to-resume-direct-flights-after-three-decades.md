@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/3/egypt-and-iran-agree-to-resume-direct-flights-after-three-decades.html)  [JSON](/news/2010/10/3/egypt-and-iran-agree-to-resume-direct-flights-after-three-decades.json)  [XML](/news/2010/10/3/egypt-and-iran-agree-to-resume-direct-flights-after-three-decades.xml)  
+
 ### [2010-10-3](/news/2010/10/3/index.md)
 
+##### Egypt
 # Egypt and Iran agree to resume direct flights after three decades. 
 
 Two countries agree to restart direct flights, halted for 30 years, in what could signal a thaw in broader relations.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/10/2010103135232682310.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/10/3/201010314187231140_20.jpg)

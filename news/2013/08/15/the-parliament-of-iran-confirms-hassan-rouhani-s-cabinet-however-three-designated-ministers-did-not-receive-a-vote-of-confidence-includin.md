@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/08/15/the-parliament-of-iran-confirms-hassan-rouhani-s-cabinet-however-three-designated-ministers-did-not-receive-a-vote-of-confidence-includin.html)  [JSON](/news/2013/08/15/the-parliament-of-iran-confirms-hassan-rouhani-s-cabinet-however-three-designated-ministers-did-not-receive-a-vote-of-confidence-includin.json)  [XML](/news/2013/08/15/the-parliament-of-iran-confirms-hassan-rouhani-s-cabinet-however-three-designated-ministers-did-not-receive-a-vote-of-confidence-includin.xml)  
+
 ### [2013-08-15](/news/2013/08/15/index.md)
 
+##### MPs
 # The Parliament of Iran confirms Hassan Rouhani's cabinet. However, three designated ministers did not receive a vote of confidence, including Mohammad-Ali Najafi who was the Minister of Education-nominate. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/08/15/us-iran-rouhani-cabinet-idUSBRE97E0ZG20130815)
-2. [Yahoo! News](http://news.yahoo.com/rouhani-defends-cabinet-choices-iran-parliament-debate-145719296.html)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130815&t=2&i=764620166&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE97E1HID00)
+1. [Reuters](https://www.reuters.com/article/2013/08/15/us-iran-rouhani-cabinet-idUSBRE97E0ZG20130815)
+2. [Yahoo! News](https://news.yahoo.com/rouhani-defends-cabinet-choices-iran-parliament-debate-145719296.html)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130815&t=2&i=764620166&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE97E1HID00)
 
 ### Related:
 

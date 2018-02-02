@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/22/voters-in-fakaofo-go-to-the-polls-for-the-tokelauan-self-determination-referendum.html)  [JSON](/news/2007/10/22/voters-in-fakaofo-go-to-the-polls-for-the-tokelauan-self-determination-referendum.json)  [XML](/news/2007/10/22/voters-in-fakaofo-go-to-the-polls-for-the-tokelauan-self-determination-referendum.xml)  
+
 ### [2007-10-22](/news/2007/10/22/index.md)
 
+##### Fakaofo
 #  Voters in Fakaofo go to the polls for the Tokelauan self-determination referendum. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Herald Sun](http://www.news.com.au/heraldsun/story/0,21985,22624249-5012752,00.html)
 

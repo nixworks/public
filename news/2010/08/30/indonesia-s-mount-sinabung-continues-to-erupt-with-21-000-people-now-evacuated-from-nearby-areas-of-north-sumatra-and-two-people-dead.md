@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/30/indonesia-s-mount-sinabung-continues-to-erupt-with-21-000-people-now-evacuated-from-nearby-areas-of-north-sumatra-and-two-people-dead.html)  [JSON](/news/2010/08/30/indonesia-s-mount-sinabung-continues-to-erupt-with-21-000-people-now-evacuated-from-nearby-areas-of-north-sumatra-and-two-people-dead.json)  [XML](/news/2010/08/30/indonesia-s-mount-sinabung-continues-to-erupt-with-21-000-people-now-evacuated-from-nearby-areas-of-north-sumatra-and-two-people-dead.xml)  
+
 ### [2010-08-30](/news/2010/08/30/index.md)
 
+##### Indonesia
 # Indonesia's Mount Sinabung continues to erupt with 21,000 people now evacuated from nearby areas of north Sumatra and two people dead. 
 
 An Indonesian volcano dormant for four centuries erupted for the second straight day Monday, shooting clouds of hot ash more than a mile into the air and forcing 30,000 people to flee.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/scitech/2010/08/30/indonesian-volcano-erupts-spewing-hot-ash/)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/08/30/indonesia.volcano.toll/#fbid=YIYm6U-LlVS&wom=false)

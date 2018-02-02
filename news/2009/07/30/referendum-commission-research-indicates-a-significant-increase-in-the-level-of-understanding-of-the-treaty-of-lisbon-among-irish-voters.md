@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/30/referendum-commission-research-indicates-a-significant-increase-in-the-level-of-understanding-of-the-treaty-of-lisbon-among-irish-voters.html)  [JSON](/news/2009/07/30/referendum-commission-research-indicates-a-significant-increase-in-the-level-of-understanding-of-the-treaty-of-lisbon-among-irish-voters.json)  [XML](/news/2009/07/30/referendum-commission-research-indicates-a-significant-increase-in-the-level-of-understanding-of-the-treaty-of-lisbon-among-irish-voters.xml)  
+
 ### [2009-07-30](/news/2009/07/30/index.md)
 
+##### Referendum Commission
 #  Referendum Commission research indicates a significant increase in the level of understanding of the Treaty of Lisbon among Irish voters. 
 
 Research indicates that there has been a substantial increase in the level of understanding of the Lisbon Treaty among Irish voters.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0730/eulisbon.html)
 1. [Cover Image](https://img.rasset.ie/000253a0-1600.jpg)

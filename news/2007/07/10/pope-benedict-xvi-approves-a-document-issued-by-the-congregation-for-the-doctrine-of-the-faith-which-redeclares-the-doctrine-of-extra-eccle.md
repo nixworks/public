@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/07/10/pope-benedict-xvi-approves-a-document-issued-by-the-congregation-for-the-doctrine-of-the-faith-which-redeclares-the-doctrine-of-extra-eccle.html)  [JSON](/news/2007/07/10/pope-benedict-xvi-approves-a-document-issued-by-the-congregation-for-the-doctrine-of-the-faith-which-redeclares-the-doctrine-of-extra-eccle.json)  [XML](/news/2007/07/10/pope-benedict-xvi-approves-a-document-issued-by-the-congregation-for-the-doctrine-of-the-faith-which-redeclares-the-doctrine-of-extra-eccle.xml)  
+
 ### [2007-07-10](/news/2007/07/10/index.md)
 
+##### Pope Benedict XVI
 #  Pope Benedict XVI approves a document issued by the Congregation for the Doctrine of the Faith which redeclares the doctrine of Extra Ecclesiam nulla salus, that only the Roman Catholic Church is the true Christian church, and no other Christian denomination has the "means of salvation." 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20070710/ap_on_re_eu/pope_other_christians)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20070710/ap_on_re_eu/pope_other_christians)
 
 ### Related:
 

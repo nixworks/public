@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/30/at-least-229-people-die-in-a-cholera-outbreak-in-sierra-leone-the-worst-outbreak-in-the-country-for-15-years.html)  [JSON](/news/2012/08/30/at-least-229-people-die-in-a-cholera-outbreak-in-sierra-leone-the-worst-outbreak-in-the-country-for-15-years.json)  [XML](/news/2012/08/30/at-least-229-people-die-in-a-cholera-outbreak-in-sierra-leone-the-worst-outbreak-in-the-country-for-15-years.xml)  
+
 ### [2012-08-30](/news/2012/08/30/index.md)
 
+##### cholera
 # At least 229 people die in a cholera outbreak in Sierra Leone, the worst outbreak in the country for 15 years. 
 
 Gripped by its worst cholera outbreak in nearly 15 years, which has already left 229 dead, Sierra Leone is likely to see cases triple in the next month as the rainy season hits its peak, estimates show.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/africaandindianocean/sierraleone/9507802/Sierra-Leone-battles-worst-cholera-outbreak-in-15-years.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02323/sierra-leone-chole_2323558k.jpg)

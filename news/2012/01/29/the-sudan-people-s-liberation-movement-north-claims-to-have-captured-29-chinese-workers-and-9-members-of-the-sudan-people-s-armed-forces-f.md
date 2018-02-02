@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/29/the-sudan-people-s-liberation-movement-north-claims-to-have-captured-29-chinese-workers-and-9-members-of-the-sudan-people-s-armed-forces-f.html)  [JSON](/news/2012/01/29/the-sudan-people-s-liberation-movement-north-claims-to-have-captured-29-chinese-workers-and-9-members-of-the-sudan-people-s-armed-forces-f.json)  [XML](/news/2012/01/29/the-sudan-people-s-liberation-movement-north-claims-to-have-captured-29-chinese-workers-and-9-members-of-the-sudan-people-s-armed-forces-f.xml)  
+
 ### [2012-01-29](/news/2012/01/29/index.md)
 
+##### Sudan People's Liberation Movement - North
 # The Sudan People's Liberation Movement - North claims to have captured 29 Chinese workers and 9 members of the Sudan People's Armed Forces following a clash with government forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i40o4tl943D3xEr5goHkBfJA77Ug?docId=CNG.44fa3f729b8ab99aa301920b33059327.51)
 

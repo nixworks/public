@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/5/malaysia-s-ruling-coalition-barisan-nasional-retains-a-majority-of-parliamentary-seats-in-the-general-election.html)  [JSON](/news/2013/05/5/malaysia-s-ruling-coalition-barisan-nasional-retains-a-majority-of-parliamentary-seats-in-the-general-election.json)  [XML](/news/2013/05/5/malaysia-s-ruling-coalition-barisan-nasional-retains-a-majority-of-parliamentary-seats-in-the-general-election.xml)  
+
 ### [2013-05-5](/news/2013/05/5/index.md)
 
+##### Malaysia
 # Malaysia's ruling coalition Barisan Nasional retains a majority of parliamentary seats in the general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FT](http://www.ft.com/cms/s/0/d618b5d8-b5ac-11e2-a51b-00144feabdc0.html)
 

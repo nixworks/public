@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/11/2/the-indonesian-state-of-riau-extends-its-haze-emergency-by-another-month-while-four-airports-in-sumatra-and-kalimantan-remain-shut.html)  [JSON](/news/2015/11/2/the-indonesian-state-of-riau-extends-its-haze-emergency-by-another-month-while-four-airports-in-sumatra-and-kalimantan-remain-shut.json)  [XML](/news/2015/11/2/the-indonesian-state-of-riau-extends-its-haze-emergency-by-another-month-while-four-airports-in-sumatra-and-kalimantan-remain-shut.xml)  
+
 ### [2015-11-2](/news/2015/11/2/index.md)
 
+##### recent incident of hazes in 2015
 # The Indonesian state of Riau extends its haze emergency by another month while four airports in Sumatra and Kalimantan remain shut. 
 
 JAKARTA • The authorities in Riau, the Indonesian province that is second-closest to Singapore, have extended its haze emergency status by another month even as four airports in Sumatra and Kalimantan stayed shut over the weekend.. Read more at straitstimes.com.
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/asia/se-asia/riau-extends-haze-emergency-by-a-month)
 1. [Cover Image](http://www.straitstimes.com/sites/default/files/styles/x_large/public/articles/2015/11/02/778.jpg?itok=khofPgQp)
+
+### Changes:
+
+1. [2015 Southeast Asian haze: The Indonesian state of Riau extends its haze emergency by another month while four airports in Sumatra and Kalimantan remain shut. ](/news/2015/11/2/2015-southeast-asian-haze-the-indonesian-state-of-riau-extends-its-haze-emergency-by-another-month-while-four-airports-in-sumatra-and-kalim.md) _2017-08-27 03:43:39 (First version)_
+1. [The Indonesian state of Riau extends its haze emergency by another month while four airports in Sumatra and Kalimantan remain shut. ](/news/2015/11/2/the-indonesian-state-of-riau-extends-its-haze-emergency-by-another-month-while-four-airports-in-sumatra-and-kalimantan-remain-shut.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ JAKARTA • The authorities in Riau, the Indonesian province that is second-clos
 3. [Indonesia's Mount Sinabung erupts, killing at least six people in Sumatra. ](/news/2016/05/22/indonesia-s-mount-sinabung-erupts-killing-at-least-six-people-in-sumatra.md) _Context: Indonesia, Sumatra_
 4. [The Meteorological, Climatological and Geophysical Agency of Indonesia (BMKG) and the Australian Bureau of Meteorology (BOM) issue tsunami warnings, after an undersea 7.9 magnitude earthquake strikes southwest of Sumatra, in the Indian Ocean. ](/news/2016/03/2/the-meteorological-climatological-and-geophysical-agency-of-indonesia-bmkg-and-the-australian-bureau-of-meteorology-bom-issue-tsunami-w.md) _Context: Indonesia, Sumatra_
 5. [Scientists report fires raging in Indonesia have hit Borneo's orangutans particularly hard. Borneo is home to about 30 percent of the world's wild orangutans, an endangered species. Smoke has already displaced many orangutans and caused health problems related to smoke inhalation, according to the Borneo Orangutan Survival Foundation (BOSF). ](/news/2015/11/3/scientists-report-fires-raging-in-indonesia-have-hit-borneo-s-orangutans-particularly-hard-borneo-is-home-to-about-30-percent-of-the-world.md) _Context: Indonesia, recent incident of hazes in 2015_
-
-### Changes:
-
-1. [2015 Southeast Asian haze: The Indonesian state of Riau extends its haze emergency by another month while four airports in Sumatra and Kalimantan remain shut. ](/news/2015/11/2/2015-southeast-asian-haze-the-indonesian-state-of-riau-extends-its-haze-emergency-by-another-month-while-four-airports-in-sumatra-and-kalim.md) _2017-08-27 03:43:39 (First version)_
-1. [The Indonesian state of Riau extends its haze emergency by another month while four airports in Sumatra and Kalimantan remain shut. ](/news/2015/11/2/the-indonesian-state-of-riau-extends-its-haze-emergency-by-another-month-while-four-airports-in-sumatra-and-kalimantan-remain-shut.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/30/the-united-states-supreme-court-halts-an-execution-in-mississippi-pending-its-decision-as-to-whether-lethal-injections-are-a-form-of-cruel.html)  [JSON](/news/2007/10/30/the-united-states-supreme-court-halts-an-execution-in-mississippi-pending-its-decision-as-to-whether-lethal-injections-are-a-form-of-cruel.json)  [XML](/news/2007/10/30/the-united-states-supreme-court-halts-an-execution-in-mississippi-pending-its-decision-as-to-whether-lethal-injections-are-a-form-of-cruel.xml)  
+
 ### [2007-10-30](/news/2007/10/30/index.md)
 
+##### United States Supreme Court
 #  The United States Supreme Court halts an execution in Mississippi pending its decision as to whether lethal injections are a form of cruel and unusual punishment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5gNMfTAgo2wISWbI5r2g7fwS2wR4QD8SJRAFG0)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/13/at-least-10-children-are-killed-and-28-injured-
 
 ### [2016-08-13](/news/2016/08/13/index.md)
 
+##### Yemeni Civil War (2015-present)
 # At least 10 children are killed and 28 injured in an air attack on a school in northern Yemen. The Houthi group claims that the Saudi Arabia led coalition is responsible. 
 
 A spokesperson for MSF says their staff in northern Yemen received the bodies of at least 10 dead children after Saudi-led coalition warplanes bombed a school.

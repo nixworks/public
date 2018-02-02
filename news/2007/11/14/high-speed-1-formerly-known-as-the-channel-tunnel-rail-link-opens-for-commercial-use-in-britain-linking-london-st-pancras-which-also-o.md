@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/14/high-speed-1-formerly-known-as-the-channel-tunnel-rail-link-opens-for-commercial-use-in-britain-linking-london-st-pancras-which-also-o.html)  [JSON](/news/2007/11/14/high-speed-1-formerly-known-as-the-channel-tunnel-rail-link-opens-for-commercial-use-in-britain-linking-london-st-pancras-which-also-o.json)  [XML](/news/2007/11/14/high-speed-1-formerly-known-as-the-channel-tunnel-rail-link-opens-for-commercial-use-in-britain-linking-london-st-pancras-which-also-o.xml)  
+
 ### [2007-11-14](/news/2007/11/14/index.md)
 
+##### High Speed 1
 #  High Speed 1 (formerly known as the Channel Tunnel Rail Link) opens for commercial use in Britain, linking London St. Pancras, which also opened for commercial use, to the Channel Tunnel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/london/7093761.stm)
 

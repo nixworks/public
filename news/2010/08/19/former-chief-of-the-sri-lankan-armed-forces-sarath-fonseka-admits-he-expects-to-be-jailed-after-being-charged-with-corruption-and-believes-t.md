@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/19/former-chief-of-the-sri-lankan-armed-forces-sarath-fonseka-admits-he-expects-to-be-jailed-after-being-charged-with-corruption-and-believes-t.html)  [JSON](/news/2010/08/19/former-chief-of-the-sri-lankan-armed-forces-sarath-fonseka-admits-he-expects-to-be-jailed-after-being-charged-with-corruption-and-believes-t.json)  [XML](/news/2010/08/19/former-chief-of-the-sri-lankan-armed-forces-sarath-fonseka-admits-he-expects-to-be-jailed-after-being-charged-with-corruption-and-believes-t.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### Sri Lanka
 # Former chief of the Sri Lankan armed forces Sarath Fonseka admits he expects to be jailed after being charged with corruption and believes the verdict has been decided in advance; Fonseka has been elected to the Sri Lankan parliament since the charges were pressed. 
 
 Former Sri Lankan armed forces chief Sarath Fonseka says he expects a jail sentence from a military court trying him on charges of corruption.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11033368)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

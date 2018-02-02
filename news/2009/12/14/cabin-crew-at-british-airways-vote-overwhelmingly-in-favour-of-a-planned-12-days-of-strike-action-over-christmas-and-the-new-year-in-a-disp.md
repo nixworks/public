@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/14/cabin-crew-at-british-airways-vote-overwhelmingly-in-favour-of-a-planned-12-days-of-strike-action-over-christmas-and-the-new-year-in-a-disp.html)  [JSON](/news/2009/12/14/cabin-crew-at-british-airways-vote-overwhelmingly-in-favour-of-a-planned-12-days-of-strike-action-over-christmas-and-the-new-year-in-a-disp.json)  [XML](/news/2009/12/14/cabin-crew-at-british-airways-vote-overwhelmingly-in-favour-of-a-planned-12-days-of-strike-action-over-christmas-and-the-new-year-in-a-disp.xml)  
+
 ### [2009-12-14](/news/2009/12/14/index.md)
 
+##### Cabin crew
 #  Cabin crew at British Airways vote overwhelmingly in favour of a planned 12 days of strike action over Christmas and the New Year in a dispute over job cuts and changes to staff contracts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/8411214.stm)
 

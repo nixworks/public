@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/13/the-death-toll-in-north-carolina-rises-to-22-as
 
 ### [2016-10-13](/news/2016/10/13/index.md)
 
+##### Hurricane Matthew
 # The death toll in North Carolina rises to 22 as flood waters continue to rise. Governor Pat McCrory says places that had a foot of water in the morning, were under 12 feet of water. 
 
 

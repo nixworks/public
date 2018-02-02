@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/4/colombian-government-and-farc-representatives-me
 
 ### [2016-10-4](/news/2016/10/4/index.md)
 
+##### Referendum
 # Colombian government and FARC representatives meet in Havana, and President Juan Manuel Santos will meet with presidential predecessors Alvaro Uribe, the accord opposition leader, and Andres Pastrana Arango, to continue negotiations to end the 52-year war that has killed around a quarter of a million people. 
 
 Juan Manuel Santos will meet presidential predecessors to discuss peace with the Revolutionary Armed Forces of Colombia. The ceasefire has been extended after a peace deal was rejected Sunday by 50.2 percent of voters.

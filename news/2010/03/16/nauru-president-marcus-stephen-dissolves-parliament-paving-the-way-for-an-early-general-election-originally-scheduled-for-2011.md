@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/16/nauru-president-marcus-stephen-dissolves-parliament-paving-the-way-for-an-early-general-election-originally-scheduled-for-2011.html)  [JSON](/news/2010/03/16/nauru-president-marcus-stephen-dissolves-parliament-paving-the-way-for-an-early-general-election-originally-scheduled-for-2011.json)  [XML](/news/2010/03/16/nauru-president-marcus-stephen-dissolves-parliament-paving-the-way-for-an-early-general-election-originally-scheduled-for-2011.xml)  
+
 ### [2010-03-16](/news/2010/03/16/index.md)
 
+##### Nauru
 # Nauru President Marcus Stephen dissolves Parliament, paving the way for an early general election, originally scheduled for 2011. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand International](http://www.rnzi.com/pages/news.php?op=read&id=52503)
 

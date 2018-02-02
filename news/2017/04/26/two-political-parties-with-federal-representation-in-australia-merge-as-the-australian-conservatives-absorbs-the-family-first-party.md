@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/26/two-political-parties-with-federal-representati
 
 ### [2017-04-26](/news/2017/04/26/index.md)
 
+##### Senator
 # Two political parties with federal representation in Australia merge as the Australian Conservatives absorbs the Family First Party. 
 
 TONY Abbott has weighed in on Cory Bernardi’s recent expansion of his fledgling political party, after it merged with Family First.

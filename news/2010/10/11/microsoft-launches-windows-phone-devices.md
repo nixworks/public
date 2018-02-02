@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/11/microsoft-launches-windows-phone-devices.html)  [JSON](/news/2010/10/11/microsoft-launches-windows-phone-devices.json)  [XML](/news/2010/10/11/microsoft-launches-windows-phone-devices.xml)  
+
 ### [2010-10-11](/news/2010/10/11/index.md)
 
+##### Microsoft
 # Microsoft launches Windows Phone devices. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [C-Net](http://news.cnet.com/8301-1035_3-20019220-94.html)
 

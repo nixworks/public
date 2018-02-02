@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/19/the-opening-of-the-afghan-parliament-is-delayed-by-a-month-amid-allegations-of-fraud-in-the-parliamentary-election.html)  [JSON](/news/2011/01/19/the-opening-of-the-afghan-parliament-is-delayed-by-a-month-amid-allegations-of-fraud-in-the-parliamentary-election.json)  [XML](/news/2011/01/19/the-opening-of-the-afghan-parliament-is-delayed-by-a-month-amid-allegations-of-fraud-in-the-parliamentary-election.xml)  
+
 ### [2011-01-19](/news/2011/01/19/index.md)
 
+##### Afghan parliament
 # The opening of the Afghan parliament is delayed by a month amid allegations of fraud in the parliamentary election. 
 
 The inauguration of Afghanistan&#039;s new parliament has been delayed by a month amid allegations of fraud by losing candidates.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC Online](http://www.abc.net.au/news/stories/2011/01/20/3116932.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

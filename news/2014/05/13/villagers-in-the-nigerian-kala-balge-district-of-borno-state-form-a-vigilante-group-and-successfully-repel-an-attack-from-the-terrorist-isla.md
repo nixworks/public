@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/13/villagers-in-the-nigerian-kala-balge-district-of-borno-state-form-a-vigilante-group-and-successfully-repel-an-attack-from-the-terrorist-isla.html)  [JSON](/news/2014/05/13/villagers-in-the-nigerian-kala-balge-district-of-borno-state-form-a-vigilante-group-and-successfully-repel-an-attack-from-the-terrorist-isla.json)  [XML](/news/2014/05/13/villagers-in-the-nigerian-kala-balge-district-of-borno-state-form-a-vigilante-group-and-successfully-repel-an-attack-from-the-terrorist-isla.xml)  
+
 ### [2014-05-13](/news/2014/05/13/index.md)
 
+##### Nigeria
 # Villagers in the Nigerian Kala-Balge district of Borno State form a vigilante group and successfully repel an attack from the terrorist Islamist group Boko Haram, seizing three cars and a military vehicle and killing around 200 of the militants. 
 
 Villagers in northern Nigeria say they have repelled an attack by suspected militants amid reports of unrest amongst disgruntled soldiers in Maiduguri.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-27412057)
 2. [CNN](http://edition.cnn.com/2014/05/15/world/africa/nigeria-girls-abducted/)

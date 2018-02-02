@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/10/2/war-in-afghanistan-a-suicide-bomber-blows-himself-up-near-a-bus-carrying-policemen-killing-at-least-11-in-kabul.html)  [JSON](/news/2007/10/2/war-in-afghanistan-a-suicide-bomber-blows-himself-up-near-a-bus-carrying-policemen-killing-at-least-11-in-kabul.json)  [XML](/news/2007/10/2/war-in-afghanistan-a-suicide-bomber-blows-himself-up-near-a-bus-carrying-policemen-killing-at-least-11-in-kabul.xml)  
+
 ### [2007-10-2](/news/2007/10/2/index.md)
 
+##### War in Afghanistan (2001-present)
 #  War in Afghanistan: A suicide bomber blows himself up near a bus carrying policemen killing at least 11 in Kabul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7023271.stm)
 
 ### Related:
 
-1. [At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-in.md) _Context: Kabul, War in Afghanistan (2001-present)_
-2. [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. The Taliban claims their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-the-taliban-cl.md) _Context: Kabul, War in Afghanistan (2001-present)_
-3. [Four members of the Afghan National Security Forces are killed and 11 people are injured during a suicide bomber attack near the Afghan defense ministry headquarters in Kabul. ](/news/2016/11/16/four-members-of-the-afghan-national-security-forces-are-killed-and-11-people-are-injured-during-a-suicide-bomber-attack-near-the-afghan-defe.md) _Context: Kabul, suicide bomber_
-4. [A suicide bomber targets a foreign forces convoy in the Joy Shir area of Kabul. Taliban insurgents claim responsibility. A statement from Afghanistan's Interior Ministry reported at least three civilians were wounded. There are no report of casualties among the foreign forces. ](/news/2015/10/11/a-suicide-bomber-targets-a-foreign-forces-convoy-in-the-joy-shir-area-of-kabul-taliban-insurgents-claim-responsibility-a-statement-from-af.md) _Context: Kabul, suicide bomber_
-5. [An Afghan suicide bomber attacks a NATO convoy in Kabul killing at least twelve people and injuring 66 others. ](/news/2015/08/22/an-afghan-suicide-bomber-attacks-a-nato-convoy-in-kabul-killing-at-least-twelve-people-and-injuring-66-others.md) _Context: Kabul, suicide bomber_
+1. [Two suicide bomber attacks, one on a Shia mosque in Kabul and one on a Sunni mosque in Ghor Province, kill approximately 60 people. Approximately 180 people have been killed in bombing attacks this week. ](/news/2017/10/20/two-suicide-bomber-attacks-one-on-a-shia-mosque-in-kabul-and-one-on-a-sunni-mosque-in-ghor-province-kill-approximately-60-people-approxim.md) _Context: Kabul, War in Afghanistan (2001-present), suicide bomber_
+2. [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _Context: Kabul, suicide bomber_
+3. [A suicide bombing at a Shi'ite cultural center and news agency in Kabul, Afghanistan, kills 41 people and injures 84 others. ISIL-affiliated Amaq News Agency says this group is responsible. ](/news/2017/12/28/a-suicide-bombing-at-a-shiaite-cultural-center-and-news-agency-in-kabul-afghanistan-kills-41-people-and-injures-84-others-isil-affiliat.md) _Context: Kabul, War in Afghanistan (2001-present)_
+4. [A suicide blast near the National Directorate of Security headquarters in Kabul kills 10. Amaq News Agency claims ISIL is responsible for the attack. ](/news/2017/12/25/a-suicide-blast-near-the-national-directorate-of-security-headquarters-in-kabul-kills-10-amaq-news-agency-claims-isil-is-responsible-for-th.md) _Context: Kabul, War in Afghanistan (2001-present)_
+5. [A suicide bombing in Afghanistan's capital Kabul kills at least 8 civilians and leaves numerous wounded. The Islamic State claims responsibility. ](/news/2017/10/31/a-suicide-bombing-in-afghanistan-s-capital-kabul-kills-at-least-8-civilians-and-leaves-numerous-wounded-the-islamic-state-claims-responsibi.md) _Context: Kabul, War in Afghanistan (2001-present)_

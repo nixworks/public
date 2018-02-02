@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/09/26/porsche-announces-oliver-blume-to-become-the-next-ceo-soon.html)  [JSON](/news/2015/09/26/porsche-announces-oliver-blume-to-become-the-next-ceo-soon.json)  [XML](/news/2015/09/26/porsche-announces-oliver-blume-to-become-the-next-ceo-soon.xml)  
+
 ### [2015-09-26](/news/2015/09/26/index.md)
 
+##### Volkswagen emissions violations
 # Porsche announces Oliver Blume to become the next CEO soon. 
 
 Porsche’s production chief Oliver Blume is set to succeed Matthias Mueller as the new head of the Volkswagen AG unit that makes the 911 sports car, according to a person familiar with the matter.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-09-26/volkswagen-unit-porsche-said-to-name-oliver-blume-as-new-chief)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2015-09-26/volkswagen-unit-porsche-said-to-name-oliver-blume-as-new-chief)
 1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
+
+### Changes:
+
+1. [Volkswagen emissions violations: Porsche announces Oliver Blume to become the next CEO soon. ](/news/2015/09/26/volkswagen-emissions-violations-porsche-announces-oliver-blume-to-become-the-next-ceo-soon.md) _2017-08-27 03:43:09 (First version)_
+1. [Porsche announces Oliver Blume to become the next CEO soon. ](/news/2015/09/26/porsche-announces-oliver-blume-to-become-the-next-ceo-soon.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Porsche’s production chief Oliver Blume is set to succeed Matthias Mueller as 
 3. [Martin Winterkorn resigns as the CEO of Volkswagen as a result of an emissions cheating scandal. ](/news/2015/09/23/martin-winterkorn-resigns-as-the-ceo-of-volkswagen-as-a-result-of-an-emissions-cheating-scandal.md) _Context: Volkswagen emissions violations_
 4. [Volkswagen says that 11 million vehicles could have suspect emission control software and it has set aside 6.5 billion euros ($7.2 billion US dollars) for possible fines, repairs, and litigation. ](/news/2015/09/22/volkswagen-says-that-11-million-vehicles-could-have-suspect-emission-control-software-and-it-has-set-aside-6-5-billion-euros-7-2-billion-u.md) _Context: Volkswagen emissions violations_
 5. [Volkswagen halts sales of its 4-cylinder diesel vehicles in the United States following a U.S. Environmental Protection Agency citation that their cars violated U.S. emissions standards. ](/news/2015/09/20/volkswagen-halts-sales-of-its-4-cylinder-diesel-vehicles-in-the-united-states-following-a-u-s-environmental-protection-agency-citation-that.md) _Context: Volkswagen emissions violations_
-
-### Changes:
-
-1. [Volkswagen emissions violations: Porsche announces Oliver Blume to become the next CEO soon. ](/news/2015/09/26/volkswagen-emissions-violations-porsche-announces-oliver-blume-to-become-the-next-ceo-soon.md) _2017-08-27 03:43:09 (First version)_
-1. [Porsche announces Oliver Blume to become the next CEO soon. ](/news/2015/09/26/porsche-announces-oliver-blume-to-become-the-next-ceo-soon.md) _(Current version)_

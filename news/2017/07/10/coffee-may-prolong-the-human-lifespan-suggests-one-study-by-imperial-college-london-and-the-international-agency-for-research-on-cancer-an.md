@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/10/coffee-may-prolong-the-human-lifespan-suggests-
 
 ### [2017-07-10](/news/2017/07/10/index.md)
 
+##### Health effects of coffee
 # Coffee may prolong the human lifespan, suggests one study by Imperial College London and the International Agency for Research on Cancer, and another by the Keck School of Medicine of USC. 
 
 

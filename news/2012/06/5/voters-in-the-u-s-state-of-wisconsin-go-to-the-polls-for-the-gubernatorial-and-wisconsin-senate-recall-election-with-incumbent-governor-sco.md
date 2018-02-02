@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/5/voters-in-the-u-s-state-of-wisconsin-go-to-the-polls-for-the-gubernatorial-and-wisconsin-senate-recall-election-with-incumbent-governor-sco.html)  [JSON](/news/2012/06/5/voters-in-the-u-s-state-of-wisconsin-go-to-the-polls-for-the-gubernatorial-and-wisconsin-senate-recall-election-with-incumbent-governor-sco.json)  [XML](/news/2012/06/5/voters-in-the-u-s-state-of-wisconsin-go-to-the-polls-for-the-gubernatorial-and-wisconsin-senate-recall-election-with-incumbent-governor-sco.xml)  
+
 ### [2012-06-5](/news/2012/06/5/index.md)
 
+##### Wisconsin
 # Voters in the U.S. state of Wisconsin go to the polls for the gubernatorial and Wisconsin Senate recall election with incumbent governor Scott Walker retaining his office, and the Democrats control of the state Senate. 
 
 RACINE &mdash; In a crucial election that swings control of the state Senate to the Democrats, Racine County appeared to have ousted current state Sen. Van Wanggaard Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gfznn-et4_9kLIqa1wT07vn4cQGQ?docId=bf43d4fe9a094302871c3d69ea55bafc)
 2. [CBS News](http://www.cbsnews.com/8301-503544_162-57447954-503544/wisconsin-recall-walker-opens-slight-lead-as-votes-are-counted/)

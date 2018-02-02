@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/01/8/michael-jordan-s-wife-files-for-divorce.html)  [JSON](/news/2002/01/8/michael-jordan-s-wife-files-for-divorce.json)  [XML](/news/2002/01/8/michael-jordan-s-wife-files-for-divorce.xml)  
+
 ### [2002-01-8](/news/2002/01/8/index.md)
 
+##### Michael Jordan
 # Michael Jordan's wife files for divorce.
 
 

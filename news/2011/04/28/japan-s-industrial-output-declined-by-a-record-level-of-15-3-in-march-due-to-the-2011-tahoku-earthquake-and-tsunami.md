@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/28/japan-s-industrial-output-declined-by-a-record-level-of-15-3-in-march-due-to-the-2011-tahoku-earthquake-and-tsunami.html)  [JSON](/news/2011/04/28/japan-s-industrial-output-declined-by-a-record-level-of-15-3-in-march-due-to-the-2011-tahoku-earthquake-and-tsunami.json)  [XML](/news/2011/04/28/japan-s-industrial-output-declined-by-a-record-level-of-15-3-in-march-due-to-the-2011-tahoku-earthquake-and-tsunami.xml)  
+
 ### [2011-04-28](/news/2011/04/28/index.md)
 
+##### Japan
 # Japan's industrial output declined by a record level of 15.3% in March due to the 2011 Tohoku earthquake and tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/13218449)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/52376000/jpg/_52376514_011788307-1.jpg)

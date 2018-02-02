@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/31/an-electrical-fire-at-a-saudi-wedding-kills-25-people-in-a-courtyard-of-a-home-in-the-village-of-al-badr-in-the-abqaiq-region.html)  [JSON](/news/2012/10/31/an-electrical-fire-at-a-saudi-wedding-kills-25-people-in-a-courtyard-of-a-home-in-the-village-of-al-badr-in-the-abqaiq-region.json)  [XML](/news/2012/10/31/an-electrical-fire-at-a-saudi-wedding-kills-25-people-in-a-courtyard-of-a-home-in-the-village-of-al-badr-in-the-abqaiq-region.xml)  
+
 ### [2012-10-31](/news/2012/10/31/index.md)
 
+##### Al Badr
 # An electrical fire at a Saudi wedding kills 25 people in a courtyard of a home in the village of Al Badr in the Abqaiq region. 
 
 Twenty-five people have been killed by an electrical fire at a wedding in the Abqaiq region of eastern Saudi Arabia, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20150915)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/63823000/jpg/_63823044_63823043.jpg)

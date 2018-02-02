@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/10/the-scottish-government-announces-that-it-plans-to-hold-the-referendum-on-scottish-independence-in-the-autumn-of-2014-but-secretary-of-stat.html)  [JSON](/news/2012/01/10/the-scottish-government-announces-that-it-plans-to-hold-the-referendum-on-scottish-independence-in-the-autumn-of-2014-but-secretary-of-stat.json)  [XML](/news/2012/01/10/the-scottish-government-announces-that-it-plans-to-hold-the-referendum-on-scottish-independence-in-the-autumn-of-2014-but-secretary-of-stat.xml)  
+
 ### [2012-01-10](/news/2012/01/10/index.md)
 
+##### Scottish Government
 # The Scottish Government announces that it plans to hold the referendum on Scottish independence in the autumn of 2014, but Secretary of State for Scotland Michael Moore tells the House of Commons that the power to hold a referendum is "reserved" to Westminster. 
 
 The Scottish government plans to hold an independence referendum in the autumn of 2014, First Minister Alex Salmond says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-16478121)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57810000/jpg/_57810049_013573285-1.jpg)

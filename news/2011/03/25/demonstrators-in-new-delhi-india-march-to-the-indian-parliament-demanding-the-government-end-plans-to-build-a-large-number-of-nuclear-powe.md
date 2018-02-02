@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/25/demonstrators-in-new-delhi-india-march-to-the-indian-parliament-demanding-the-government-end-plans-to-build-a-large-number-of-nuclear-powe.html)  [JSON](/news/2011/03/25/demonstrators-in-new-delhi-india-march-to-the-indian-parliament-demanding-the-government-end-plans-to-build-a-large-number-of-nuclear-powe.json)  [XML](/news/2011/03/25/demonstrators-in-new-delhi-india-march-to-the-indian-parliament-demanding-the-government-end-plans-to-build-a-large-number-of-nuclear-powe.xml)  
+
 ### [2011-03-25](/news/2011/03/25/index.md)
 
+##### New Delhi
 # Demonstrators in New Delhi, India, march to the Indian Parliament demanding the government end plans to build a large number of nuclear power plants. 
 
 New Delhi, March 25 (IANS) Members from over a dozen civil society groups across the country will march to parliament Friday protesting nuclearisation of...
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5iAeKMm1arQ8H4Z9tBJftubCrmXRA?docId=6359332)
 2. [Sify India](http://www.sify.com/finance/civil-groups-to-march-to-protest-nuclearisation-of-india-news-default-ldzl4ghjhbi.html)

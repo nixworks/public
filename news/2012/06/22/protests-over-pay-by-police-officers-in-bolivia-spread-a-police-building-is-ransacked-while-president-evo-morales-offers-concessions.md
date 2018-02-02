@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/22/protests-over-pay-by-police-officers-in-bolivia-spread-a-police-building-is-ransacked-while-president-evo-morales-offers-concessions.html)  [JSON](/news/2012/06/22/protests-over-pay-by-police-officers-in-bolivia-spread-a-police-building-is-ransacked-while-president-evo-morales-offers-concessions.json)  [XML](/news/2012/06/22/protests-over-pay-by-police-officers-in-bolivia-spread-a-police-building-is-ransacked-while-president-evo-morales-offers-concessions.xml)  
+
 ### [2012-06-22](/news/2012/06/22/index.md)
 
+##### Bolivia
 # Protests over pay by police officers in Bolivia spread; a police building is ransacked while president Evo Morales offers concessions. 
 
 Protests by Bolivian police demanding a pay rise turn violent, forcing President Evo Morales to abandon the Rio summit to deal with the crisis.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18560344)
 2. [France 24](http://www.france24.com/en/20120623-looting-breaks-out-bolivian-police-strike)

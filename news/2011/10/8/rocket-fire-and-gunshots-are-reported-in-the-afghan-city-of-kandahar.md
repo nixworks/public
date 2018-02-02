@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/8/rocket-fire-and-gunshots-are-reported-in-the-afghan-city-of-kandahar.html)  [JSON](/news/2011/10/8/rocket-fire-and-gunshots-are-reported-in-the-afghan-city-of-kandahar.json)  [XML](/news/2011/10/8/rocket-fire-and-gunshots-are-reported-in-the-afghan-city-of-kandahar.xml)  
+
 ### [2011-10-8](/news/2011/10/8/index.md)
 
+##### Afghanistan
 # Rocket fire and gunshots are reported in the Afghan city of Kandahar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-10/09/c_131179980.htm)
 

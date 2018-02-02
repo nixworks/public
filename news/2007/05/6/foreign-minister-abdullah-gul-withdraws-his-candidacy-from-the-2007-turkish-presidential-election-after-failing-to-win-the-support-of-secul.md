@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/05/6/foreign-minister-abdullah-gul-withdraws-his-candidacy-from-the-2007-turkish-presidential-election-after-failing-to-win-the-support-of-secul.html)  [JSON](/news/2007/05/6/foreign-minister-abdullah-gul-withdraws-his-candidacy-from-the-2007-turkish-presidential-election-after-failing-to-win-the-support-of-secul.json)  [XML](/news/2007/05/6/foreign-minister-abdullah-gul-withdraws-his-candidacy-from-the-2007-turkish-presidential-election-after-failing-to-win-the-support-of-secul.xml)  
+
 ### [2007-05-6](/news/2007/05/6/index.md)
 
+##### Foreign Minister
 #  Foreign Minister Abdullah Gl withdraws his candidacy from the 2007 Turkish presidential election after failing to win the support of secular lawmakers. 
 
 Abdullah Gul withdrew his candidacy for Turkey’s presidency today, ending a political struggle.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/05/06/world/europe/07turkeycnd.html?ex=1336104000&en=113e9a76d0529217&ei=5088&partner=rssnyt&emc=rss)
+1. [New York Times](https://www.nytimes.com/2007/05/06/world/europe/07turkeycnd.html?ex=1336104000&en=113e9a76d0529217&ei=5088&partner=rssnyt&emc=rss)
 1. [Cover Image](https://static01.nyt.com/images/2007/05/06/world/06cnd-turk_37.jpg)
 
 ### Related:

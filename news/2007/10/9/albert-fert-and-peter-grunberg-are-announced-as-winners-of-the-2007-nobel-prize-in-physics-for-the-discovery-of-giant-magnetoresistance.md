@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/10/9/albert-fert-and-peter-grunberg-are-announced-as-winners-of-the-2007-nobel-prize-in-physics-for-the-discovery-of-giant-magnetoresistance.html)  [JSON](/news/2007/10/9/albert-fert-and-peter-grunberg-are-announced-as-winners-of-the-2007-nobel-prize-in-physics-for-the-discovery-of-giant-magnetoresistance.json)  [XML](/news/2007/10/9/albert-fert-and-peter-grunberg-are-announced-as-winners-of-the-2007-nobel-prize-in-physics-for-the-discovery-of-giant-magnetoresistance.xml)  
+
 ### [2007-10-9](/news/2007/10/9/index.md)
 
+##### Albert Fert
 #  Albert Fert and Peter Grnberg are announced as winners of the 2007 Nobel Prize in Physics for the discovery of giant magnetoresistance. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nobelprize.org](http://nobelprize.org/nobel_prizes/physics/laureates/2007/)
-2. [USA Today](http://www.usatoday.com/tech/science/2007-10-09-nobel-physics_N.htm)
+2. [USA Today](https://www.usatoday.com/tech/science/2007-10-09-nobel-physics_N.htm)
 2. [Cover Image](http://www.nobelprize.org/nobel_prizes/physics/laureates/2007/grunberg_postcard.jpg)
 
 ### Related:

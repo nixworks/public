@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/06/2/general-motors-sells-its-hummer-brand-to-the-sichuan-tengzhong-heavy-industrial-machinery-company.html)  [JSON](/news/2009/06/2/general-motors-sells-its-hummer-brand-to-the-sichuan-tengzhong-heavy-industrial-machinery-company.json)  [XML](/news/2009/06/2/general-motors-sells-its-hummer-brand-to-the-sichuan-tengzhong-heavy-industrial-machinery-company.xml)  
+
 ### [2009-06-2](/news/2009/06/2/index.md)
 
+##### General Motors
 #  General Motors sells its Hummer brand to the Sichuan Tengzhong Heavy Industrial Machinery Company. 
 
 A machinery company with ambitions to become a carmaker is the buyer, at an undisclosed price.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2009/06/03/business/03auto.html?_r=1&hp)
+1. [New York Times](https://www.nytimes.com/2009/06/03/business/03auto.html?_r=1&hp)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

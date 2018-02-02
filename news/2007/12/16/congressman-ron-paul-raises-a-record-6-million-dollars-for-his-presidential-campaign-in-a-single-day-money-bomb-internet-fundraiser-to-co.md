@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/16/congressman-ron-paul-raises-a-record-6-million-dollars-for-his-presidential-campaign-in-a-single-day-money-bomb-internet-fundraiser-to-co.html)  [JSON](/news/2007/12/16/congressman-ron-paul-raises-a-record-6-million-dollars-for-his-presidential-campaign-in-a-single-day-money-bomb-internet-fundraiser-to-co.json)  [XML](/news/2007/12/16/congressman-ron-paul-raises-a-record-6-million-dollars-for-his-presidential-campaign-in-a-single-day-money-bomb-internet-fundraiser-to-co.xml)  
+
 ### [2007-12-16](/news/2007/12/16/index.md)
 
+##### Ron Paul
 #  Congressman Ron Paul raises a record 6 million dollars for his presidential campaign in a single day "Money Bomb" internet fundraiser to commemorate the anniversary of the Boston Tea Party. This event is widely credited as being the first modern day Tea Party, thus creating the Tea Party movement.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Politico](http://www.politico.com/news/stories/1207/7421.html)
 1. [Cover Image](http://s3-origin-images.politico.com/071209-paulites.jpg)

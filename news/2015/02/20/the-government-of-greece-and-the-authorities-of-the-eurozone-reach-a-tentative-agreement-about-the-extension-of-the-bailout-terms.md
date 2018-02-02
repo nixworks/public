@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/20/the-government-of-greece-and-the-authorities-of-the-eurozone-reach-a-tentative-agreement-about-the-extension-of-the-bailout-terms.html)  [JSON](/news/2015/02/20/the-government-of-greece-and-the-authorities-of-the-eurozone-reach-a-tentative-agreement-about-the-extension-of-the-bailout-terms.json)  [XML](/news/2015/02/20/the-government-of-greece-and-the-authorities-of-the-eurozone-reach-a-tentative-agreement-about-the-extension-of-the-bailout-terms.xml)  
+
 ### [2015-02-20](/news/2015/02/20/index.md)
 
+##### government of Greece
 # The government of Greece and the authorities of the Eurozone reach a tentative agreement about the extension of the bailout terms. 
 
 Euro zone finance ministers agreed in principle on Friday to extend Greece&#x27;s financial rescue by four months, averting a potential cash crunch in March that could have forced the country out of the currency area. The deal, to be ratified once Greece&#x27;s creditors are satisfied with a list of reforms
 
 
-### Source:
+### Sources:
 
 1. [Yahoo Finance](http://finance.yahoo.com/news/greece-hopes-solution-still-opposed-063925218.html;_ylt=AwrBJR7r0OdUxkAAV77QtDMD)
 

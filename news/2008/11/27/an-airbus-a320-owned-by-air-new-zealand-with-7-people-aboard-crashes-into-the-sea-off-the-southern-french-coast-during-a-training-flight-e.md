@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/27/an-airbus-a320-owned-by-air-new-zealand-with-7-people-aboard-crashes-into-the-sea-off-the-southern-french-coast-during-a-training-flight-e.html)  [JSON](/news/2008/11/27/an-airbus-a320-owned-by-air-new-zealand-with-7-people-aboard-crashes-into-the-sea-off-the-southern-french-coast-during-a-training-flight-e.json)  [XML](/news/2008/11/27/an-airbus-a320-owned-by-air-new-zealand-with-7-people-aboard-crashes-into-the-sea-off-the-southern-french-coast-during-a-training-flight-e.xml)  
+
 ### [2008-11-27](/news/2008/11/27/index.md)
 
+##### Airbus A320
 #  An Airbus A320 owned by Air New Zealand with 7 people aboard crashes into the sea off the southern French coast during a training flight, exactly 29 years to the day (NZDT) after Air New Zealand Flight 901 crashed in Antarctica. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/WORLD/europe/11/27/airbus.france.crash/index.html)
 

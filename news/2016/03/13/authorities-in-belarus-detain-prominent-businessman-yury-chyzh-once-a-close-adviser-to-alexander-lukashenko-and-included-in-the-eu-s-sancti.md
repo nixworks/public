@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/13/authorities-in-belarus-detain-prominent-busines
 
 ### [2016-03-13](/news/2016/03/13/index.md)
 
+##### Authorities
 # Authorities in Belarus detain prominent businessman Yury Chyzh, once a close adviser to Alexander Lukashenko and included in the EU's sanctions list, on suspicion of large-scale tax evasion. 
 
 

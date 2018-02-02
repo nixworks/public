@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/16/kevin-rudd-the-prime-minister-of-australia-apologises-to-the-forgotten-australians-raised-in-orphanages-and-foster-homes-during-the-twe.html)  [JSON](/news/2009/11/16/kevin-rudd-the-prime-minister-of-australia-apologises-to-the-forgotten-australians-raised-in-orphanages-and-foster-homes-during-the-twe.json)  [XML](/news/2009/11/16/kevin-rudd-the-prime-minister-of-australia-apologises-to-the-forgotten-australians-raised-in-orphanages-and-foster-homes-during-the-twe.xml)  
+
 ### [2009-11-16](/news/2009/11/16/index.md)
 
+##### Kevin Rudd
 #  Kevin Rudd, the Prime Minister of Australia, apologises to the "forgotten Australians" raised in orphanages and foster homes during the twentieth century. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/politics/rudd-apology-to-former-children-in-care/story-e6frgczf-1225798009998)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/06/6/the-house-of-jason-grimsley-was-searched-as-part-of-the-ongoing-balco-steroids-probe-grimsley-a-relief-pitcher-for-the-arizona-diamondba.html)  [JSON](/news/2006/06/6/the-house-of-jason-grimsley-was-searched-as-part-of-the-ongoing-balco-steroids-probe-grimsley-a-relief-pitcher-for-the-arizona-diamondba.json)  [XML](/news/2006/06/6/the-house-of-jason-grimsley-was-searched-as-part-of-the-ongoing-balco-steroids-probe-grimsley-a-relief-pitcher-for-the-arizona-diamondba.xml)  
+
 ### [2006-06-6](/news/2006/06/6/index.md)
 
+##### Jason Grimsley
 #  The house of Jason Grimsley, was searched as part of the ongoing BALCO steroids probe. Grimsley, a relief pitcher for the Arizona Diamondbacks, asked for and received an unconditional release from the team the next day. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/sports/baseball/nl/diamondbacks/2006-06-07-grimsley-released_x.htm)
+1. [USA Today](https://www.usatoday.com/sports/baseball/nl/diamondbacks/2006-06-07-grimsley-released_x.htm)
 
 ### Related:
 

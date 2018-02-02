@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/10/19/the-parent-of-american-airlines-amr-reports-a-larger-third-quarter-loss-than-expected-due-to-the-cost-of-aviation-fuel-and-the-volatility.html)  [JSON](/news/2011/10/19/the-parent-of-american-airlines-amr-reports-a-larger-third-quarter-loss-than-expected-due-to-the-cost-of-aviation-fuel-and-the-volatility.json)  [XML](/news/2011/10/19/the-parent-of-american-airlines-amr-reports-a-larger-third-quarter-loss-than-expected-due-to-the-cost-of-aviation-fuel-and-the-volatility.xml)  
+
 ### [2011-10-19](/news/2011/10/19/index.md)
 
+##### American Airlines
 # The parent of American Airlines, AMR, reports a larger third-quarter loss than expected, due to the cost of aviation fuel and the volatility of foreign exchange. 
 
 American Airlines, struggling to regain financial footing relative to stronger rivals, made little progress toward assuaging investor concerns when it reported a wider-than-expected quarterly loss on Wednesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/10/19/us-amr-idUSTRE79I38K20111019)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111019&t=2&i=519135355&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79I106T00)
+1. [Reuters](https://www.reuters.com/article/2011/10/19/us-amr-idUSTRE79I38K20111019)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111019&t=2&i=519135355&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE79I106T00)
 
 ### Related:
 

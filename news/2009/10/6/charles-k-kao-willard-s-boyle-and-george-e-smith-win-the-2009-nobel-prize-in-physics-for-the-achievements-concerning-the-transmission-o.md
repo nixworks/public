@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/6/charles-k-kao-willard-s-boyle-and-george-e-smith-win-the-2009-nobel-prize-in-physics-for-the-achievements-concerning-the-transmission-o.html)  [JSON](/news/2009/10/6/charles-k-kao-willard-s-boyle-and-george-e-smith-win-the-2009-nobel-prize-in-physics-for-the-achievements-concerning-the-transmission-o.json)  [XML](/news/2009/10/6/charles-k-kao-willard-s-boyle-and-george-e-smith-win-the-2009-nobel-prize-in-physics-for-the-achievements-concerning-the-transmission-o.xml)  
+
 ### [2009-10-6](/news/2009/10/6/index.md)
 
+##### Charles K. Kao
 #  Charles K. Kao, Willard S. Boyle and George E. Smith win the 2009 Nobel Prize in Physics for the achievements concerning the transmission of light in fibers for optical communication and for the invention of an imaging semiconductor circuit - the CCD sensor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/science/2009/oct/06/nobel-prize-physics-2009)
 

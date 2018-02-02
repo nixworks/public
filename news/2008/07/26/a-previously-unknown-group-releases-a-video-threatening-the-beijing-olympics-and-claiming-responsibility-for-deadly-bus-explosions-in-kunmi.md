@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/26/a-previously-unknown-group-releases-a-video-threatening-the-beijing-olympics-and-claiming-responsibility-for-deadly-bus-explosions-in-kunmi.html)  [JSON](/news/2008/07/26/a-previously-unknown-group-releases-a-video-threatening-the-beijing-olympics-and-claiming-responsibility-for-deadly-bus-explosions-in-kunmi.json)  [XML](/news/2008/07/26/a-previously-unknown-group-releases-a-video-threatening-the-beijing-olympics-and-claiming-responsibility-for-deadly-bus-explosions-in-kunmi.xml)  
+
 ### [2008-07-26](/news/2008/07/26/index.md)
 
+##### 2008 Summer Olympics
 #  A previously unknown group releases a video threatening the Beijing Olympics and claiming responsibility for deadly bus explosions in Kunming. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7526643.stm)
 

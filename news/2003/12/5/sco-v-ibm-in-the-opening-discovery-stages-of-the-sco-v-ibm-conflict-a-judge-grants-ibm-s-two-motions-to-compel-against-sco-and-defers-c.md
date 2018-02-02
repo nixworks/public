@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/5/sco-v-ibm-in-the-opening-discovery-stages-of-the-sco-v-ibm-conflict-a-judge-grants-ibm-s-two-motions-to-compel-against-sco-and-defers-c.html)  [JSON](/news/2003/12/5/sco-v-ibm-in-the-opening-discovery-stages-of-the-sco-v-ibm-conflict-a-judge-grants-ibm-s-two-motions-to-compel-against-sco-and-defers-c.json)  [XML](/news/2003/12/5/sco-v-ibm-in-the-opening-discovery-stages-of-the-sco-v-ibm-conflict-a-judge-grants-ibm-s-two-motions-to-compel-against-sco-and-defers-c.xml)  
+
 ### [2003-12-5](/news/2003/12/5/index.md)
 
+##### SCO v. IBM
 # SCO v. IBM: in the opening discovery stages of the SCO v. IBM conflict, a judge grants IBM's two motions to compel against SCO, and defers consideration of SCO's motions until later.
 
 

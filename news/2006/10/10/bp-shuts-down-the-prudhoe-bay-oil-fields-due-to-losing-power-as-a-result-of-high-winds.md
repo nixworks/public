@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/10/bp-shuts-down-the-prudhoe-bay-oil-fields-due-to-losing-power-as-a-result-of-high-winds.html)  [JSON](/news/2006/10/10/bp-shuts-down-the-prudhoe-bay-oil-fields-due-to-losing-power-as-a-result-of-high-winds.json)  [XML](/news/2006/10/10/bp-shuts-down-the-prudhoe-bay-oil-fields-due-to-losing-power-as-a-result-of-high-winds.xml)  
+
 ### [2006-10-10](/news/2006/10/10/index.md)
 
+##### BP
 #  BP shuts down the Prudhoe Bay oil fields due to losing power as a result of high winds. 
 
 Find the latest business news on Wall Street, jobs and the economy, the housing market, personal finance and money investments and much more on ABC News
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/Business/wireStory?id=2549851&CMP=OTC-RSSFeeds0312)
 

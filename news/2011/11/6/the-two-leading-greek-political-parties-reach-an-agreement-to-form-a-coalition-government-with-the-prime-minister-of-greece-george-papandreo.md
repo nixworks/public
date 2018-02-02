@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/11/6/the-two-leading-greek-political-parties-reach-an-agreement-to-form-a-coalition-government-with-the-prime-minister-of-greece-george-papandreo.html)  [JSON](/news/2011/11/6/the-two-leading-greek-political-parties-reach-an-agreement-to-form-a-coalition-government-with-the-prime-minister-of-greece-george-papandreo.json)  [XML](/news/2011/11/6/the-two-leading-greek-political-parties-reach-an-agreement-to-form-a-coalition-government-with-the-prime-minister-of-greece-george-papandreo.xml)  
+
 ### [2011-11-6](/news/2011/11/6/index.md)
 
+##### Greek
 # The two leading Greek political parties reach an agreement to form a coalition government with the Prime Minister of Greece George Papandreou to resign once the new government is formed. 
 
 The deal gives Europe a steadier partner as it works to avert a larger financial crisis on the continent.
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/europe/greece-reaches-agreement-on-unity-government-papandreou-will-resign/2011/11/06/gIQAaNQ6sM_story.html)
+1. [Washington Post](https://www.washingtonpost.com/world/europe/greece-reaches-agreement-on-unity-government-papandreou-will-resign/2011/11/06/gIQAaNQ6sM_story.html)
 
 ### Related:
 

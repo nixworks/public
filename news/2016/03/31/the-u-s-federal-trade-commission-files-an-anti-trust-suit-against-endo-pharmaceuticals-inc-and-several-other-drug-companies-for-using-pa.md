@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/03/31/the-u-s-federal-trade-commission-files-an-anti-trust-suit-against-endo-pharmaceuticals-inc-and-several-other-drug-companies-for-using-pa.html)  [JSON](/news/2016/03/31/the-u-s-federal-trade-commission-files-an-anti-trust-suit-against-endo-pharmaceuticals-inc-and-several-other-drug-companies-for-using-pa.json)  [XML](/news/2016/03/31/the-u-s-federal-trade-commission-files-an-anti-trust-suit-against-endo-pharmaceuticals-inc-and-several-other-drug-companies-for-using-pa.xml)  
+
 ### [2016-03-31](/news/2016/03/31/index.md)
 
+##### U.S. Federal Trade Commission
 # The U.S. Federal Trade Commission files an anti-trust suit against Endo Pharmaceuticals, Inc., and several other drug companies for using pay-for-delay settlements to block consumers' access to lower-cost generic versions of pain medications, Opana ER and Lidoderm. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [StreetInsider.com](http://www.streetinsider.com/Corporate+News/FTC+Suit+Alleges+Endo+%28ENDP%29+Entered+into+Pay-for-Delay+Patent+Settlements+with+Impax+%28IPXL%29+and+Watson+to+Delay+Generic+Versions+of+Branded+Drugs+Opana+ER+and+Lidoderm/11462674.html)
 

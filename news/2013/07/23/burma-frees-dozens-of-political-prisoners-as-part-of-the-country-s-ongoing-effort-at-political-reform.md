@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/23/burma-frees-dozens-of-political-prisoners-as-part-of-the-country-s-ongoing-effort-at-political-reform.html)  [JSON](/news/2013/07/23/burma-frees-dozens-of-political-prisoners-as-part-of-the-country-s-ongoing-effort-at-political-reform.json)  [XML](/news/2013/07/23/burma-frees-dozens-of-political-prisoners-as-part-of-the-country-s-ongoing-effort-at-political-reform.xml)  
+
 ### [2013-07-23](/news/2013/07/23/index.md)
 
+##### Burma
 # Burma frees dozens of political prisoners as part of the country's ongoing effort at political reform. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw.de/myanmar-pardons-dozens-of-political-prisoners/a-16968466)
 

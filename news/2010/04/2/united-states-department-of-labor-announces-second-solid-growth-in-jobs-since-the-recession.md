@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/2/united-states-department-of-labor-announces-second-solid-growth-in-jobs-since-the-recession.html)  [JSON](/news/2010/04/2/united-states-department-of-labor-announces-second-solid-growth-in-jobs-since-the-recession.json)  [XML](/news/2010/04/2/united-states-department-of-labor-announces-second-solid-growth-in-jobs-since-the-recession.xml)  
+
 ### [2010-04-2](/news/2010/04/2/index.md)
 
+##### United States Department of Labor
 # United States Department of Labor announces second solid growth in jobs since the recession. 
 
 Like a breath of spring air hinting at better days ahead, a government report Friday showed the U.S. economy added 162,000 jobs in March, the most in three years. Though encouraging, the boost...
 
 
-### Source:
+### Sources:
 
 1. [Business Week](http://www.businessweek.com/news/2010-04-02/obama-says-u-s-is-beginning-to-turn-the-corner-produce-jobs.html)
 2. [Los Angeles Times](http://www.latimes.com/business/la-fi-jobs3-2010apr03,0,6318850.story)

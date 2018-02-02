@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/4/former-prime-minister-of-australia-malcolm-fraser-calls-for-a-worldwide-ban-on-capital-punishment.html)  [JSON](/news/2005/12/4/former-prime-minister-of-australia-malcolm-fraser-calls-for-a-worldwide-ban-on-capital-punishment.json)  [XML](/news/2005/12/4/former-prime-minister-of-australia-malcolm-fraser-calls-for-a-worldwide-ban-on-capital-punishment.xml)  
+
 ### [2005-12-4](/news/2005/12/4/index.md)
 
+##### Australian Prime Minister
 #  Former Prime Minister of Australia Malcolm Fraser calls for a worldwide ban on capital punishment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,17460986%5E2702,00.html)
 

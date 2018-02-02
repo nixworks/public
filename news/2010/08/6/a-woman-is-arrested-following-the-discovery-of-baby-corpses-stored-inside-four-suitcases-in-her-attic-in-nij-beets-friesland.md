@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/a-woman-is-arrested-following-the-discovery-of-baby-corpses-stored-inside-four-suitcases-in-her-attic-in-nij-beets-friesland.html)  [JSON](/news/2010/08/6/a-woman-is-arrested-following-the-discovery-of-baby-corpses-stored-inside-four-suitcases-in-her-attic-in-nij-beets-friesland.json)  [XML](/news/2010/08/6/a-woman-is-arrested-following-the-discovery-of-baby-corpses-stored-inside-four-suitcases-in-her-attic-in-nij-beets-friesland.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### Nij Beets
 # A woman is arrested following the discovery of baby corpses stored inside four suitcases in her attic in Nij Beets, Friesland. 
 
 A woman has been arrested in Friesland after the remains of babies were found hidden in four suitcases in the attic of her home, police say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10897191)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE6753LN20100806)

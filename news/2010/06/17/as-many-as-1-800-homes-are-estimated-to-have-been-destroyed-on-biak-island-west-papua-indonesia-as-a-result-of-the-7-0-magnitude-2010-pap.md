@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/17/as-many-as-1-800-homes-are-estimated-to-have-been-destroyed-on-biak-island-west-papua-indonesia-as-a-result-of-the-7-0-magnitude-2010-pap.html)  [JSON](/news/2010/06/17/as-many-as-1-800-homes-are-estimated-to-have-been-destroyed-on-biak-island-west-papua-indonesia-as-a-result-of-the-7-0-magnitude-2010-pap.json)  [XML](/news/2010/06/17/as-many-as-1-800-homes-are-estimated-to-have-been-destroyed-on-biak-island-west-papua-indonesia-as-a-result-of-the-7-0-magnitude-2010-pap.xml)  
+
 ### [2010-06-17](/news/2010/06/17/index.md)
 
+##### Biak Island
 # As many as 1,800 homes are estimated to have been destroyed on Biak Island, West Papua, Indonesia, as a result of the 7.0 magnitude 2010 Papua earthquake. 
 
 Seven churches, a power station and an elementary school are also razed. The region is very poor with limited communications. The exact number of victims is still unknown.
 
 
-### Source:
+### Sources:
 
 1. [AsiaNews.it](http://www.asianews.it/news-en/Nine-villages-and-almost-2,000-houses-destroyed-in-Papua-quake-18700.html)
 2. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=54222)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/21/nepal-s-lawmakers-fail-to-elect-a-new-prime-minister-as-no-candidate-manages-to-secure-the-required-number-of-votes.html)  [JSON](/news/2010/07/21/nepal-s-lawmakers-fail-to-elect-a-new-prime-minister-as-no-candidate-manages-to-secure-the-required-number-of-votes.json)  [XML](/news/2010/07/21/nepal-s-lawmakers-fail-to-elect-a-new-prime-minister-as-no-candidate-manages-to-secure-the-required-number-of-votes.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### Nepal
 # Nepal's lawmakers fail to elect a new Prime Minister as no candidate manages to secure the required number of votes . 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Samaylive](http://english.samaylive.com/world/676469333.html)
 

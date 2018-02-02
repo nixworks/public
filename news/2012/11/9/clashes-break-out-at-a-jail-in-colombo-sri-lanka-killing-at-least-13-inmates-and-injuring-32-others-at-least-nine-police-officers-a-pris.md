@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/9/clashes-break-out-at-a-jail-in-colombo-sri-lanka-killing-at-least-13-inmates-and-injuring-32-others-at-least-nine-police-officers-a-pris.html)  [JSON](/news/2012/11/9/clashes-break-out-at-a-jail-in-colombo-sri-lanka-killing-at-least-13-inmates-and-injuring-32-others-at-least-nine-police-officers-a-pris.json)  [XML](/news/2012/11/9/clashes-break-out-at-a-jail-in-colombo-sri-lanka-killing-at-least-13-inmates-and-injuring-32-others-at-least-nine-police-officers-a-pris.xml)  
+
 ### [2012-11-9](/news/2012/11/9/index.md)
 
+##### Colombo
 # Clashes break out at a jail in Colombo, Sri Lanka, killing at least 13 inmates and injuring 32 others. At least nine police officers, a prison guard and a bystander were also injured during the disturbances. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hx4FQmFbgLB4ill-bJXGE1seGYEQ?docId=22e627a0a0b74099a4e838e6f1624275)
 2. [Al Jazeera](http://www.aljazeera.com/news/asia/2012/11/201211916446576678.html)

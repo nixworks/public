@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/8/the-japan-aerospace-exploration-agency-says-its-probe-akatsuki-has-failed-to-enter-the-orbit-around-venus.html)  [JSON](/news/2010/12/8/the-japan-aerospace-exploration-agency-says-its-probe-akatsuki-has-failed-to-enter-the-orbit-around-venus.json)  [XML](/news/2010/12/8/the-japan-aerospace-exploration-agency-says-its-probe-akatsuki-has-failed-to-enter-the-orbit-around-venus.xml)  
+
 ### [2010-12-8](/news/2010/12/8/index.md)
 
+##### Japan Aerospace Exploration Agency
 # The Japan Aerospace Exploration Agency says its probe "Akatsuki" has failed to enter the orbit around Venus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11945244)
 2. [Japan Today](http://www.japantoday.com/category/technology/view/jaxa-yet-to-confirm-space-probe-akatsuki-has-entered-venus-orbit)

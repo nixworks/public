@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/06/5/israeli-forces-fire-on-pro-palestinian-protesters-attempting-to-breach-the-syrian-israeli-border-in-the-golan-heights-on-naksa-day-marking.html)  [JSON](/news/2011/06/5/israeli-forces-fire-on-pro-palestinian-protesters-attempting-to-breach-the-syrian-israeli-border-in-the-golan-heights-on-naksa-day-marking.json)  [XML](/news/2011/06/5/israeli-forces-fire-on-pro-palestinian-protesters-attempting-to-breach-the-syrian-israeli-border-in-the-golan-heights-on-naksa-day-marking.xml)  
+
 ### [2011-06-5](/news/2011/06/5/index.md)
 
+##### Israel Defense Forces
 # Israeli forces fire on pro-Palestinian protesters attempting to breach the Syrian-Israeli border in the Golan Heights on Naksa Day, marking the anniversary of the 1967 Six Day War; Syrian sources claim that close to 20 people are killed and over 325 injured, while Israeli officials confirm at least 12 injures. 
 
 Israel was accused of shooting dead as many as 20 protesters on Sunday after Palestinian refugees and their Syrian sympathisers massed in the occupied Golan Heights.
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2011/06/05/general-ml-israel-palestinians_8500914.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2011/06/05/general-ml-israel-palestinians_8500914.html)
 2. [Al-Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/20116591150521659.html)
 3. [The Jerusalem Post](http://www.jpost.com/Defense/Article.aspx?id=223669)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/8558216/20-dead-as-Israeli-troops-fire-on-Golan-Heights-protesters.html)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/11/two-trains-collide-in-andermatt-railway-station
 
 ### [2017-09-11](/news/2017/09/11/index.md)
 
+##### Rail accidents in 2017
 # Two trains collide in Andermatt railway station in the Canton of Uri, Switzerland, injuring around 30 people. 
 
 Two trains collided on Monday in a station in central Switzerland, Swiss police said, injuring around 30 people.
@@ -20,8 +21,8 @@ Two trains collided on Monday in a station in central Switzerland, Swiss police 
 
 ### Related:
 
-1. [Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military truck in Raseborg, Finland. ](/news/2017/10/26/four-people-three-military-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-wi.md) _Context: Rail accidents in 2017_
-2. [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md) _Context: Switzerland_
-3. [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md) _Context: Switzerland_
-4. [A small Swiss-owned plane crashes in the Portuguese village of Tires, west of Lisbon, killing at least five people. ](/news/2017/04/17/a-small-swiss-owned-plane-crashes-in-the-portuguese-village-of-tires-west-of-lisbon-killing-at-least-five-people.md) _Context: Switzerland_
-5. [Voters in Switzerland approve a referendum that makes it easier for third-generation immigrants to become citizens. ](/news/2017/02/12/voters-in-switzerland-approve-a-referendum-that-makes-it-easier-for-third-generation-immigrants-to-become-citizens.md) _Context: Switzerland_
+1. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: Switzerland_
+2. [Various billionaires, world leaders, and investors gather in Davos, Switzerland to discuss economic issues. ](/news/2018/01/23/various-billionaires-world-leaders-and-investors-gather-in-davos-switzerland-to-discuss-economic-issues.md) _Context: Switzerland_
+3. [Four people (three military conscripts and a train passenger) are killed and four conscripts are injured after a passenger train collides with an off-road military truck in Raseborg, Finland. ](/news/2017/10/26/four-people-three-military-conscripts-and-a-train-passenger-are-killed-and-four-conscripts-are-injured-after-a-passenger-train-collides-wi.md) _Context: Rail accidents in 2017_
+4. [At least five people are injured, two seriously, after a man attacks people with a chainsaw in Schaffhausen, Switzerland. A manhunt is underway for the suspect.](/news/2017/07/24/at-least-five-people-are-injured-two-seriously-after-a-man-attacks-people-with-a-chainsaw-in-schaffhausen-switzerland-a-manhunt-is-under.md) _Context: Switzerland_
+5. [Swiss voters approve a referendum to phase out nuclear power in Switzerland and increase renewable energy. ](/news/2017/05/21/swiss-voters-approve-a-referendum-to-phase-out-nuclear-power-in-switzerland-and-increase-renewable-energy.md) _Context: Switzerland_

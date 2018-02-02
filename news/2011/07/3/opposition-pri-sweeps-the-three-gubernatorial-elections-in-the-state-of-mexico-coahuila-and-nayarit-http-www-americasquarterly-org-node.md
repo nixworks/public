@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/07/3/opposition-pri-sweeps-the-three-gubernatorial-elections-in-the-state-of-mexico-coahuila-and-nayarit-http-www-americasquarterly-org-node.html)  [JSON](/news/2011/07/3/opposition-pri-sweeps-the-three-gubernatorial-elections-in-the-state-of-mexico-coahuila-and-nayarit-http-www-americasquarterly-org-node.json)  [XML](/news/2011/07/3/opposition-pri-sweeps-the-three-gubernatorial-elections-in-the-state-of-mexico-coahuila-and-nayarit-http-www-americasquarterly-org-node.xml)  
+
 ### [2011-07-3](/news/2011/07/3/index.md)
 
+##### Institutional Revolutionary Party
 # Opposition PRI sweeps the three gubernatorial elections in the State of Mexico, Coahuila and Nayarit. [http:--www.americasquarterly.org-node-2633 (Americas Quarterly)]Eruviel Avila Villegas of the PRI is elected Governor of the State of Mexico, defeating Alejandro Encinas of the PRD by 40 points. [http:--www.americasquarterly.org-node-2633 (Americas Quarterly)]Ruben Moreira Valdez of the PRI is elected Governor of Coahuila.Roberto Sandoval Castaneda of the PRI is elected Governor of Nayarit.
 
 

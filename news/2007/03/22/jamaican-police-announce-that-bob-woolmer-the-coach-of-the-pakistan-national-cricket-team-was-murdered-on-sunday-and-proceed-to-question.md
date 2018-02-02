@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/03/22/jamaican-police-announce-that-bob-woolmer-the-coach-of-the-pakistan-national-cricket-team-was-murdered-on-sunday-and-proceed-to-question.html)  [JSON](/news/2007/03/22/jamaican-police-announce-that-bob-woolmer-the-coach-of-the-pakistan-national-cricket-team-was-murdered-on-sunday-and-proceed-to-question.json)  [XML](/news/2007/03/22/jamaican-police-announce-that-bob-woolmer-the-coach-of-the-pakistan-national-cricket-team-was-murdered-on-sunday-and-proceed-to-question.xml)  
+
 ### [2007-03-22](/news/2007/03/22/index.md)
 
+##### Jamaica Constabulary Force
 #  Jamaican Police announce that Bob Woolmer, the coach of the Pakistan national cricket team, was murdered on Sunday, and proceed to question all members of the team. [http:--www.thisislondon.co.uk-news-article-23389746-details-Cricket%20coach%20Bob%20Woolmer%20WAS%20murdered-article.do (This is London)], [http:--www.iol.co.za-index.php?set_id=6&click_id=17&art_id=nw20070322222429587C709168 (IOL (S. Africa))]
 
 

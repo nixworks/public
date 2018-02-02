@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/24/tijuana-cartel-leader-luis-fernando-sa-nchez-arellano-is-arrested-by-the-mexican-army-in-tijuana-baja-california.html)  [JSON](/news/2014/06/24/tijuana-cartel-leader-luis-fernando-sa-nchez-arellano-is-arrested-by-the-mexican-army-in-tijuana-baja-california.json)  [XML](/news/2014/06/24/tijuana-cartel-leader-luis-fernando-sa-nchez-arellano-is-arrested-by-the-mexican-army-in-tijuana-baja-california.xml)  
+
 ### [2014-06-24](/news/2014/06/24/index.md)
 
+##### Tijuana Cartel
 # Tijuana Cartel leader Luis Fernando Sanchez Arellano is arrested by the Mexican Army in Tijuana, Baja California. 
 
 Fernando &quot;El Ingeniero&quot; Sanchez Arellano was arrested Monday afternoon by the Mexican Army, according to reports. 
 
 
-### Source:
+### Sources:
 
 1. [KPBS](http://www.kpbs.org/news/2014/jun/24/arellano-felix-cartel-leader-captured-tijuana/)
 1. [Cover Image](https://kpbs.media.clients.ellingtoncms.com/img/news/tease/2014/06/24/475-seekinginfo-dea_copy_tx700_t700.jpg)

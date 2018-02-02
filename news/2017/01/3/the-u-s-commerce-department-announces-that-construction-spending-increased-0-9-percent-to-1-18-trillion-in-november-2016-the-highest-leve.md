@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/3/the-u-s-commerce-department-announces-that-const
 
 ### [2017-01-3](/news/2017/01/3/index.md)
 
+##### U.S. Commerce Department
 # The U.S. Commerce Department announces that construction spending increased 0.9 percent to $1.18 trillion in November 2016, the highest level since April 2006. 
 
 The Commerce Department said that construction spending increased 0.9 percent to $1.18 trillion, the highest level since April 2006.

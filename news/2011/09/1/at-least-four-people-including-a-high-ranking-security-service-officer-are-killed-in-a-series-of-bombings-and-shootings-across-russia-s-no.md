@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/1/at-least-four-people-including-a-high-ranking-security-service-officer-are-killed-in-a-series-of-bombings-and-shootings-across-russia-s-no.html)  [JSON](/news/2011/09/1/at-least-four-people-including-a-high-ranking-security-service-officer-are-killed-in-a-series-of-bombings-and-shootings-across-russia-s-no.json)  [XML](/news/2011/09/1/at-least-four-people-including-a-high-ranking-security-service-officer-are-killed-in-a-series-of-bombings-and-shootings-across-russia-s-no.xml)  
+
 ### [2011-09-1](/news/2011/09/1/index.md)
 
+##### Russia
 # At least four people, including a high-ranking security service officer, are killed in a series of bombings and shootings across Russia's North Caucasus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://blogs.voanews.com/breaking-news/2011/09/01/four-killed-in-russias-north-caucasus/)
 

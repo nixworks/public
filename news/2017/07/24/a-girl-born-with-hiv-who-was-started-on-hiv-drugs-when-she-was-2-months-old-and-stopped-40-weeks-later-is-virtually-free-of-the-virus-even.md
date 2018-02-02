@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/24/a-girl-born-with-hiv-who-was-started-on-hiv-dru
 
 ### [2017-07-24](/news/2017/07/24/index.md)
 
+##### Epidemiology of HIV/AIDS
 # A girl born with HIV, who was started on HIV drugs when she was 2 months old and stopped 40 weeks later, is virtually-free of the virus even after no further treatment. 
 
 The case provides more evidence that early treatment can occasionally bring about a long remission, raising hopes of cure

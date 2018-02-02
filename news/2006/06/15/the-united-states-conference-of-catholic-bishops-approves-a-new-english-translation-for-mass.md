@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/15/the-united-states-conference-of-catholic-bishops-approves-a-new-english-translation-for-mass.html)  [JSON](/news/2006/06/15/the-united-states-conference-of-catholic-bishops-approves-a-new-english-translation-for-mass.json)  [XML](/news/2006/06/15/the-united-states-conference-of-catholic-bishops-approves-a-new-english-translation-for-mass.xml)  
+
 ### [2006-06-15](/news/2006/06/15/index.md)
 
+##### United States Conference of Catholic Bishops
 #  The United States Conference of Catholic Bishops approves a new English translation for mass. 
 
 Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.
 
 
-### Source:
+### Sources:
 
 1. [Minneapolis-St. Paul Star Tribune](http://www.startribune.com/484/story/496143.html)
 1. [Cover Image](http://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1490813369)

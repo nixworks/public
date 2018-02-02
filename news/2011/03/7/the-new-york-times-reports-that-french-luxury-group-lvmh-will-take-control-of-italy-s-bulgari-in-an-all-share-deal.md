@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/7/the-new-york-times-reports-that-french-luxury-group-lvmh-will-take-control-of-italy-s-bulgari-in-an-all-share-deal.html)  [JSON](/news/2011/03/7/the-new-york-times-reports-that-french-luxury-group-lvmh-will-take-control-of-italy-s-bulgari-in-an-all-share-deal.json)  [XML](/news/2011/03/7/the-new-york-times-reports-that-french-luxury-group-lvmh-will-take-control-of-italy-s-bulgari-in-an-all-share-deal.xml)  
+
 ### [2011-03-7](/news/2011/03/7/index.md)
 
+##### New York Times
 # The "New York Times" reports that French luxury group LVMH will take control of Italy's Bulgari in an all-share deal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times](http://dealbook.nytimes.com/2011/03/06/lvmh-to-take-control-of-italys-bulgari/?smid=tw-nytimes&seid=auto)
 

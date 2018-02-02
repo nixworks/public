@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/14/belgian-police-find-the-body-of-a-woman-at-the-home-of-gunman-nordine-amrani-responsible-for-the-2011-liege-attack.html)  [JSON](/news/2011/12/14/belgian-police-find-the-body-of-a-woman-at-the-home-of-gunman-nordine-amrani-responsible-for-the-2011-liege-attack.json)  [XML](/news/2011/12/14/belgian-police-find-the-body-of-a-woman-at-the-home-of-gunman-nordine-amrani-responsible-for-the-2011-liege-attack.xml)  
+
 ### [2011-12-14](/news/2011/12/14/index.md)
 
+##### Police
 # Belgian police find the body of a woman at the home of gunman Nordine Amrani responsible for the 2011 Lige attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Global Post](http://www.globalpost.com/dispatch/news/regions/europe/benelux/111213/belgium-attack-police-find-body-liege-gunman)
 

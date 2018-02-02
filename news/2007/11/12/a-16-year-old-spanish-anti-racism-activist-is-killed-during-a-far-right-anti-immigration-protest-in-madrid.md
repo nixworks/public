@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/12/a-16-year-old-spanish-anti-racism-activist-is-killed-during-a-far-right-anti-immigration-protest-in-madrid.html)  [JSON](/news/2007/11/12/a-16-year-old-spanish-anti-racism-activist-is-killed-during-a-far-right-anti-immigration-protest-in-madrid.json)  [XML](/news/2007/11/12/a-16-year-old-spanish-anti-racism-activist-is-killed-during-a-far-right-anti-immigration-protest-in-madrid.xml)  
+
 ### [2007-11-12](/news/2007/11/12/index.md)
 
+##### anti-racism
 #  A 16-year-old Spanish anti-racism activist is killed during a far-right anti-immigration protest in Madrid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7090656.stm)
 

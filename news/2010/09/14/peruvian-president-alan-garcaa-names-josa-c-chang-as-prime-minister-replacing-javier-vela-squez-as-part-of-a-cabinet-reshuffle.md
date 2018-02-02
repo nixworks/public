@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/peruvian-president-alan-garcaa-names-josa-c-chang-as-prime-minister-replacing-javier-vela-squez-as-part-of-a-cabinet-reshuffle.html)  [JSON](/news/2010/09/14/peruvian-president-alan-garcaa-names-josa-c-chang-as-prime-minister-replacing-javier-vela-squez-as-part-of-a-cabinet-reshuffle.json)  [XML](/news/2010/09/14/peruvian-president-alan-garcaa-names-josa-c-chang-as-prime-minister-replacing-javier-vela-squez-as-part-of-a-cabinet-reshuffle.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Peru
 # Peruvian President Alan Garcia names Jose Chang as Prime Minister, replacing Javier Velasquez as part of a cabinet reshuffle. 
 
 Peruvian President Alan Garcia names Jose Chang as his new prime minister as part of a cabinet reshuffle.
 
 
-### Source:
+### Sources:
 
 1. [Andina](http://www.andina.com.pe/Ingles/Noticia.aspx?id=3t49M4gYKp0=)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11306477)

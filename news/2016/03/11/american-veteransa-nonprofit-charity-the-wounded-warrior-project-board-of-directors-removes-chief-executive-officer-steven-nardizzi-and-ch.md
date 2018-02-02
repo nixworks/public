@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/11/american-veteransa-nonprofit-charity-the-wounde
 
 ### [2016-03-11](/news/2016/03/11/index.md)
 
+##### Wounded Warrior Project
 # American veterans' nonprofit charity The Wounded Warrior Project board of directors removes chief executive officer Steven Nardizzi and chief operation officer Al Giordano after an independent investigation confirms earlier news reports about lavish spending on employee perks, high overhead, and other perceived malfeasance. 
 
 The chief executive, Steven Nardizzi, and chief operating officer, Al Giordano, faced accusations of lavish spending and financial irregularities.

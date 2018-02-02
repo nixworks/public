@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/9/mahmoud-badr-the-founder-of-the-tamarod-grassroots-movement-that-helped-spark-the-july-2013-egyptian-protests-reportedly-survives-an-assas.html)  [JSON](/news/2013/09/9/mahmoud-badr-the-founder-of-the-tamarod-grassroots-movement-that-helped-spark-the-july-2013-egyptian-protests-reportedly-survives-an-assas.json)  [XML](/news/2013/09/9/mahmoud-badr-the-founder-of-the-tamarod-grassroots-movement-that-helped-spark-the-july-2013-egyptian-protests-reportedly-survives-an-assas.xml)  
+
 ### [2013-09-9](/news/2013/09/9/index.md)
 
+##### Mahmoud Badr
 # Mahmoud Badr, the founder of the Tamarod grassroots movement that helped spark the July 2013 Egyptian protests, reportedly survives an assassination attempt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Arabiya](http://english.alarabiya.net/en/News/middle-east/2013/09/10/Egypt-s-Tamarod-founder-survives-assassination-attempt.html)
 

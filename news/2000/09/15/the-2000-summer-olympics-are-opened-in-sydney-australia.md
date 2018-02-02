@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/09/15/the-2000-summer-olympics-are-opened-in-sydney-australia.html)  [JSON](/news/2000/09/15/the-2000-summer-olympics-are-opened-in-sydney-australia.json)  [XML](/news/2000/09/15/the-2000-summer-olympics-are-opened-in-sydney-australia.xml)  
+
 ### [2000-09-15](/news/2000/09/15/index.md)
 
+##### 2000 Olympics
 #  The 2000 Summer Olympics are opened in Sydney, Australia.
 
 

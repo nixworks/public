@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/4/a-man-from-bamboroo-queensland-becomes-the-first-casualty-of-severe-tropical-cyclone-yasi-in-australia.html)  [JSON](/news/2011/02/4/a-man-from-bamboroo-queensland-becomes-the-first-casualty-of-severe-tropical-cyclone-yasi-in-australia.json)  [XML](/news/2011/02/4/a-man-from-bamboroo-queensland-becomes-the-first-casualty-of-severe-tropical-cyclone-yasi-in-australia.xml)  
+
 ### [2011-02-4](/news/2011/02/4/index.md)
 
+##### Queensland
 # A man from Bamboroo, Queensland becomes the first casualty of Severe Tropical Cyclone Yasi in Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Brisbane Times](http://news.brisbanetimes.com.au/breaking-news-national/man-suffocates-in-wake-of-cyclone-yasi-20110204-1afxd.html)
 

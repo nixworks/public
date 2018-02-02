@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/13/iraq-war-iraqi-president-jalal-talabani-tells-british-television-that-iraqi-troops-could-replace-uk-forces-by-the-close-of-2006.html)  [JSON](/news/2005/11/13/iraq-war-iraqi-president-jalal-talabani-tells-british-television-that-iraqi-troops-could-replace-uk-forces-by-the-close-of-2006.json)  [XML](/news/2005/11/13/iraq-war-iraqi-president-jalal-talabani-tells-british-television-that-iraqi-troops-could-replace-uk-forces-by-the-close-of-2006.xml)  
+
 ### [2005-11-13](/news/2005/11/13/index.md)
 
+##### Iraq War
 #  Iraq War: Iraqi president Jalal Talabani tells British television that Iraqi troops could replace UK forces by the close of 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/4432480.stm)
 

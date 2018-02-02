@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/10/a-medium-sized-earthquake-registering-4-9-shook-central-chile-rattling-buildings-but-there-were-no-immediate-reports-of-injuries-or-dam.html)  [JSON](/news/2006/02/10/a-medium-sized-earthquake-registering-4-9-shook-central-chile-rattling-buildings-but-there-were-no-immediate-reports-of-injuries-or-dam.json)  [XML](/news/2006/02/10/a-medium-sized-earthquake-registering-4-9-shook-central-chile-rattling-buildings-but-there-were-no-immediate-reports-of-injuries-or-dam.xml)  
+
 ### [2006-02-10](/news/2006/02/10/index.md)
 
+##### earthquake
 #  A medium-sized earthquake, registering 4.9, shook central Chile, rattling buildings, but there were no immediate reports of injuries or damages. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/International/wireStory?id=1603903)
 

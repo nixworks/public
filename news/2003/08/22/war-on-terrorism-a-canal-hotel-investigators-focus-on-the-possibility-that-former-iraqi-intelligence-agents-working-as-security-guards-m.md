@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/22/war-on-terrorism-a-canal-hotel-investigators-focus-on-the-possibility-that-former-iraqi-intelligence-agents-working-as-security-guards-m.html)  [JSON](/news/2003/08/22/war-on-terrorism-a-canal-hotel-investigators-focus-on-the-possibility-that-former-iraqi-intelligence-agents-working-as-security-guards-m.json)  [XML](/news/2003/08/22/war-on-terrorism-a-canal-hotel-investigators-focus-on-the-possibility-that-former-iraqi-intelligence-agents-working-as-security-guards-m.xml)  
+
 ### [2003-08-22](/news/2003/08/22/index.md)
 
+##### War on Terrorism
 #  War on Terrorism - Canal Hotel: Investigators focus on the possibility that former Iraqi intelligence agents working as security guards may have assisted the attack.
 
 

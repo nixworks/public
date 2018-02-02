@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/23/the-investment-bank-morgan-stanley-agrees-to-an-out-of-court-settlement-with-italian-dairy-group-parmalat-the-new-management-of-the-reorga.html)  [JSON](/news/2005/06/23/the-investment-bank-morgan-stanley-agrees-to-an-out-of-court-settlement-with-italian-dairy-group-parmalat-the-new-management-of-the-reorga.json)  [XML](/news/2005/06/23/the-investment-bank-morgan-stanley-agrees-to-an-out-of-court-settlement-with-italian-dairy-group-parmalat-the-new-management-of-the-reorga.xml)  
+
 ### [2005-06-23](/news/2005/06/23/index.md)
 
+##### Morgan Stanley
 #  The investment bank Morgan Stanley agrees to an out-of-court settlement with Italian dairy group Parmalat. The new management of the reorganized Italian company sued Morgan Stanley for work it did that may have assisted the old management in looting the company. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/4125548.stm)
 

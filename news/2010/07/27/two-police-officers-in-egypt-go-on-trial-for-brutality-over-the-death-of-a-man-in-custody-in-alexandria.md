@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/27/two-police-officers-in-egypt-go-on-trial-for-brutality-over-the-death-of-a-man-in-custody-in-alexandria.html)  [JSON](/news/2010/07/27/two-police-officers-in-egypt-go-on-trial-for-brutality-over-the-death-of-a-man-in-custody-in-alexandria.json)  [XML](/news/2010/07/27/two-police-officers-in-egypt-go-on-trial-for-brutality-over-the-death-of-a-man-in-custody-in-alexandria.xml)  
+
 ### [2010-07-27](/news/2010/07/27/index.md)
 
+##### Egypt
 # Two police officers in Egypt go on trial for brutality over the death of a man in custody in Alexandria. 
 
 Two officers in court accused of beating a young man who later died in custody.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/20107274029894514.html)
 2. [Reuters Africa](http://af.reuters.com/article/egyptNews/idAFLDE66P08120100727?pageNumber=2&virtualBrandChannel=0)

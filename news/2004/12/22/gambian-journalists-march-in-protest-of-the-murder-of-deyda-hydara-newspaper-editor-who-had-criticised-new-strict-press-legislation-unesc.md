@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/22/gambian-journalists-march-in-protest-of-the-murder-of-deyda-hydara-newspaper-editor-who-had-criticised-new-strict-press-legislation-unesc.html)  [JSON](/news/2004/12/22/gambian-journalists-march-in-protest-of-the-murder-of-deyda-hydara-newspaper-editor-who-had-criticised-new-strict-press-legislation-unesc.json)  [XML](/news/2004/12/22/gambian-journalists-march-in-protest-of-the-murder-of-deyda-hydara-newspaper-editor-who-had-criticised-new-strict-press-legislation-unesc.xml)  
+
 ### [2004-12-22](/news/2004/12/22/index.md)
 
+##### Gambia
 #  Gambian journalists march in protest of the murder of Deyda Hydara, newspaper editor who had criticised new strict press legislation. UNESCO also condemns the killing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4117189.stm)
 2. [UNESCO portal](http://portal.unesco.org/ci/en/ev.php-URL_ID=17780&URL_DO=DO_TOPIC&URL_SECTION=201.html)

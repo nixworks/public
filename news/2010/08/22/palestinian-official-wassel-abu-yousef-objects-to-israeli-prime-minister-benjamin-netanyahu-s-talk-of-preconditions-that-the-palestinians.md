@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/22/palestinian-official-wassel-abu-yousef-objects-to-israeli-prime-minister-benjamin-netanyahu-s-talk-of-preconditions-that-the-palestinians.html)  [JSON](/news/2010/08/22/palestinian-official-wassel-abu-yousef-objects-to-israeli-prime-minister-benjamin-netanyahu-s-talk-of-preconditions-that-the-palestinians.json)  [XML](/news/2010/08/22/palestinian-official-wassel-abu-yousef-objects-to-israeli-prime-minister-benjamin-netanyahu-s-talk-of-preconditions-that-the-palestinians.xml)  
+
 ### [2010-08-22](/news/2010/08/22/index.md)
 
+##### Wassel Abu Yousef
 # Palestinian official Wassel Abu Yousef objects to Israeli Prime Minister Benjamin Netanyahu's talk of "preconditions" that the Palestinians should recognize Israel as the state of Jews and says such comments are a threat to direct talks next month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/23/c_13456756.htm)
 

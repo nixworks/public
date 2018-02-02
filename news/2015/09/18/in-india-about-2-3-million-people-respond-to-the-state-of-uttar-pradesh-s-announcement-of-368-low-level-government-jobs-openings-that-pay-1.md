@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/18/in-india-about-2-3-million-people-respond-to-the-state-of-uttar-pradesh-s-announcement-of-368-low-level-government-jobs-openings-that-pay-1.html)  [JSON](/news/2015/09/18/in-india-about-2-3-million-people-respond-to-the-state-of-uttar-pradesh-s-announcement-of-368-low-level-government-jobs-openings-that-pay-1.json)  [XML](/news/2015/09/18/in-india-about-2-3-million-people-respond-to-the-state-of-uttar-pradesh-s-announcement-of-368-low-level-government-jobs-openings-that-pay-1.xml)  
+
 ### [2015-09-18](/news/2015/09/18/index.md)
 
+##### India
 # In India, about 2.3 million people respond to the state of Uttar Pradesh's announcement of 368 low-level government jobs openings that pay 16,000 rupees ($240) a month. At least 255 of the applicants had a doctorate and over 200,000 had master's degrees. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDIA_JOB_CRUSH?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

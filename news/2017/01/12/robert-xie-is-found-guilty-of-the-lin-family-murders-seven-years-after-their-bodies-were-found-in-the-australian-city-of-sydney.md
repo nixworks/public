@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/01/12/robert-xie-is-found-guilty-of-the-lin-family-murders-seven-years-after-their-bodies-were-found-in-the-australian-city-of-sydney.html)  [JSON](/news/2017/01/12/robert-xie-is-found-guilty-of-the-lin-family-murders-seven-years-after-their-bodies-were-found-in-the-australian-city-of-sydney.json)  [XML](/news/2017/01/12/robert-xie-is-found-guilty-of-the-lin-family-murders-seven-years-after-their-bodies-were-found-in-the-australian-city-of-sydney.xml)  
+
 ### [2017-01-12](/news/2017/01/12/index.md)
 
+##### Lin family murders
 # Robert Xie is found guilty of the Lin family murders seven years after their bodies were found in the Australian city of Sydney. 
 
 The jury deliberating on the fate of accused murderer Robert Xie is having trouble reaching a unanimous verdict, a Sydney court has heard.
 
 
-### Source:
+### Sources:
 
 1. [9 News](http://www.9news.com.au/national/2017/01/12/13/56/xie-jury-struggle-with-verdict)
 1. [Cover Image](http://prod.static9.net.au/_/media/2017/01/12/14/27/xie.ashx)

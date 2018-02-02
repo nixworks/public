@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/17/snowfall-in-central-tokyo-matches-a-record-set-in-april-1967.html)  [JSON](/news/2010/04/17/snowfall-in-central-tokyo-matches-a-record-set-in-april-1967.json)  [XML](/news/2010/04/17/snowfall-in-central-tokyo-matches-a-record-set-in-april-1967.xml)  
+
 ### [2010-04-17](/news/2010/04/17/index.md)
 
+##### Tokyo
 # Snowfall in central Tokyo matches a record set in April 1967. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN Malaysia](http://news.malaysia.msn.com/regional/article.aspx?cp-documentid=4034377)
 2. [The Japan Times](http://search.japantimes.co.jp/cgi-bin/nn20100418a3.html)

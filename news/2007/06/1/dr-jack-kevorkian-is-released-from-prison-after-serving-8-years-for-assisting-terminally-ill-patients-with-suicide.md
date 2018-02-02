@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/06/1/dr-jack-kevorkian-is-released-from-prison-after-serving-8-years-for-assisting-terminally-ill-patients-with-suicide.html)  [JSON](/news/2007/06/1/dr-jack-kevorkian-is-released-from-prison-after-serving-8-years-for-assisting-terminally-ill-patients-with-suicide.json)  [XML](/news/2007/06/1/dr-jack-kevorkian-is-released-from-prison-after-serving-8-years-for-assisting-terminally-ill-patients-with-suicide.xml)  
+
 ### [2007-06-1](/news/2007/06/1/index.md)
 
+##### doctors
 #  Dr. Jack Kevorkian is released from prison after serving 8 years for assisting terminally ill patients with suicide. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/06/01/AR2007060100179_pf.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/06/01/AR2007060100179_pf.html)
 
 ### Related:
 

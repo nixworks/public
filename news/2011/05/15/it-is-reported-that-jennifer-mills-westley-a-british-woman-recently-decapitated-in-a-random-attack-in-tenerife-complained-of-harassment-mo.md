@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/15/it-is-reported-that-jennifer-mills-westley-a-british-woman-recently-decapitated-in-a-random-attack-in-tenerife-complained-of-harassment-mo.html)  [JSON](/news/2011/05/15/it-is-reported-that-jennifer-mills-westley-a-british-woman-recently-decapitated-in-a-random-attack-in-tenerife-complained-of-harassment-mo.json)  [XML](/news/2011/05/15/it-is-reported-that-jennifer-mills-westley-a-british-woman-recently-decapitated-in-a-random-attack-in-tenerife-complained-of-harassment-mo.xml)  
+
 ### [2011-05-15](/news/2011/05/15/index.md)
 
+##### British
 # It is reported that Jennifer Mills-Westley, a British woman recently decapitated in a random attack in Tenerife, complained of harassment moments before being attacked in a supermarket. 
 
 The Bulgarian man accused of stabbing and beheading a UK woman in a shop on the Spanish island of Tenerife is detained in prison by a judge.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13403303)
 2. [CNN](http://www.cnn.com/2011/WORLD/europe/05/15/spain.supermarket.beheading/index.html)

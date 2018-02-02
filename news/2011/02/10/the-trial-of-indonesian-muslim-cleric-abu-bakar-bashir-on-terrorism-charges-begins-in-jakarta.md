@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/10/the-trial-of-indonesian-muslim-cleric-abu-bakar-bashir-on-terrorism-charges-begins-in-jakarta.html)  [JSON](/news/2011/02/10/the-trial-of-indonesian-muslim-cleric-abu-bakar-bashir-on-terrorism-charges-begins-in-jakarta.json)  [XML](/news/2011/02/10/the-trial-of-indonesian-muslim-cleric-abu-bakar-bashir-on-terrorism-charges-begins-in-jakarta.xml)  
+
 ### [2011-02-10](/news/2011/02/10/index.md)
 
+##### Indonesia
 # The trial of Indonesian Muslim cleric Abu Bakar Bashir on terrorism charges begins in Jakarta. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''The Age](http://news.theage.com.au/breaking-news-world/bashir-terror-trial-begins-in-jakarta-20110210-1anur.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12406081)

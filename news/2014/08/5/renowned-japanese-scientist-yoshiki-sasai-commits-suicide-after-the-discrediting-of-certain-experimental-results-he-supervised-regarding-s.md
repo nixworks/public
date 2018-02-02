@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/08/5/renowned-japanese-scientist-yoshiki-sasai-commits-suicide-after-the-discrediting-of-certain-experimental-results-he-supervised-regarding-s.html)  [JSON](/news/2014/08/5/renowned-japanese-scientist-yoshiki-sasai-commits-suicide-after-the-discrediting-of-certain-experimental-results-he-supervised-regarding-s.json)  [XML](/news/2014/08/5/renowned-japanese-scientist-yoshiki-sasai-commits-suicide-after-the-discrediting-of-certain-experimental-results-he-supervised-regarding-s.xml)  
+
 ### [2014-08-5](/news/2014/08/5/index.md)
 
+##### Yoshiki Sasai
 # Renowned Japanese scientist Yoshiki Sasai commits suicide, after the discrediting of certain experimental results he supervised, regarding stem cells. 
 
 A Japanese researcher at the centreof discredited research initially hailed as a potentialbreakthrough for stem-cell treatment killed himself after monthsof stress and exhaustion, officials said on Tuesday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/08/05/japan-scientist-idUSL4N0QB3CV20140805)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/08/05/japan-scientist-idUSL4N0QB3CV20140805)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

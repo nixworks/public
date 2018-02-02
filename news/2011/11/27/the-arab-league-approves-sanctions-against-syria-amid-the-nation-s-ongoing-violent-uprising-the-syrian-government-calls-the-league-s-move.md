@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/27/the-arab-league-approves-sanctions-against-syria-amid-the-nation-s-ongoing-violent-uprising-the-syrian-government-calls-the-league-s-move.html)  [JSON](/news/2011/11/27/the-arab-league-approves-sanctions-against-syria-amid-the-nation-s-ongoing-violent-uprising-the-syrian-government-calls-the-league-s-move.json)  [XML](/news/2011/11/27/the-arab-league-approves-sanctions-against-syria-amid-the-nation-s-ongoing-violent-uprising-the-syrian-government-calls-the-league-s-move.xml)  
+
 ### [2011-11-27](/news/2011/11/27/index.md)
 
+##### Arab League
 # The Arab League approves sanctions against Syria amid the nation's ongoing violent uprising. The Syrian government calls the League's move "an unprecedented measure". 
 
 Syria, already facing a growing military insurgency, was left isolated after its Arab neighbours voted for an unprecedented package of sanctions.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/8919029/Syria-isolated-after-unprecedented-Arab-League-sanctions.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02067/EGYPT-SYRIA-ARAB_2067783a.jpg)

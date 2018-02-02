@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/04/10/peruvians-vote-in-presidential-elections-with-the-most-likely-result-a-runoff-between-ollanta-humala-and-either-pedro-pablo-kuczynski-or-kei.html)  [JSON](/news/2011/04/10/peruvians-vote-in-presidential-elections-with-the-most-likely-result-a-runoff-between-ollanta-humala-and-either-pedro-pablo-kuczynski-or-kei.json)  [XML](/news/2011/04/10/peruvians-vote-in-presidential-elections-with-the-most-likely-result-a-runoff-between-ollanta-humala-and-either-pedro-pablo-kuczynski-or-kei.xml)  
+
 ### [2011-04-10](/news/2011/04/10/index.md)
 
+##### Peru
 # Peruvians vote in presidential elections with the most likely result a runoff between Ollanta Humala and either Pedro Pablo Kuczynski or Keiko Fujimori. 
 
 Ollanta Humala, a nationalist critical of the expanding influence of foreign companies in Peru, appears to be in the lead, with a June runoff seeming likely.
 
 
-### Source:
+### Sources:
 
 1. [AP via Newsday](http://www.newsday.com/business/unofficial-results-humala-vs-fujimori-in-runoff-1.2810974)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-13027410)
-3. [New York Times](http://www.nytimes.com/2011/04/11/world/americas/11peru.html?_r=1)
+3. [New York Times](https://www.nytimes.com/2011/04/11/world/americas/11peru.html?_r=1)
 3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

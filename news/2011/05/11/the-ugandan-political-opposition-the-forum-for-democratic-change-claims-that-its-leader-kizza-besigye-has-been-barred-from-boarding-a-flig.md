@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/11/the-ugandan-political-opposition-the-forum-for-democratic-change-claims-that-its-leader-kizza-besigye-has-been-barred-from-boarding-a-flig.html)  [JSON](/news/2011/05/11/the-ugandan-political-opposition-the-forum-for-democratic-change-claims-that-its-leader-kizza-besigye-has-been-barred-from-boarding-a-flig.json)  [XML](/news/2011/05/11/the-ugandan-political-opposition-the-forum-for-democratic-change-claims-that-its-leader-kizza-besigye-has-been-barred-from-boarding-a-flig.xml)  
+
 ### [2011-05-11](/news/2011/05/11/index.md)
 
+##### Uganda
 # The Ugandan political opposition, the Forum for Democratic Change, claims that its leader Kizza Besigye has been barred from boarding a flight to Kampala from the Kenyan capital Nairobi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Alertnet](http://www.trust.org/alertnet/news/uganda-opposition-leader-barred-from-flight)
 

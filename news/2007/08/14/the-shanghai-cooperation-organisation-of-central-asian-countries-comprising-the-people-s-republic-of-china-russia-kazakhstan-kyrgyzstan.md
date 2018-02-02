@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/14/the-shanghai-cooperation-organisation-of-central-asian-countries-comprising-the-people-s-republic-of-china-russia-kazakhstan-kyrgyzstan.html)  [JSON](/news/2007/08/14/the-shanghai-cooperation-organisation-of-central-asian-countries-comprising-the-people-s-republic-of-china-russia-kazakhstan-kyrgyzstan.json)  [XML](/news/2007/08/14/the-shanghai-cooperation-organisation-of-central-asian-countries-comprising-the-people-s-republic-of-china-russia-kazakhstan-kyrgyzstan.xml)  
+
 ### [2007-08-14](/news/2007/08/14/index.md)
 
+##### Shanghai Cooperation Organisation
 #  The Shanghai Cooperation Organisation of Central Asian countries comprising the People's Republic of China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan meets in the Kyrgyz capital of Bishkek to discuss security issues. 
 
 Chinese President Hu Jintao goes to Central Asia on Tuesday for a summit and war games officially focused on fighting terrorism, but which Beijing hopes will also boost its presence in an energy-rich region.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/worldNews/idINIndia-28967620070814)
 1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070814&t=2&i=1292522&w=&fh=545px&fw=&ll=&pl=&sq=&r=img-2007-08-14T080510Z_01_NOOTR_RTRMDNC_0_India-289676-1)

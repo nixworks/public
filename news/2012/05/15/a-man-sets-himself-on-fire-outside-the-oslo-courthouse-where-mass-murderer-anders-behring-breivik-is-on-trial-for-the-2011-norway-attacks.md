@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/15/a-man-sets-himself-on-fire-outside-the-oslo-courthouse-where-mass-murderer-anders-behring-breivik-is-on-trial-for-the-2011-norway-attacks.html)  [JSON](/news/2012/05/15/a-man-sets-himself-on-fire-outside-the-oslo-courthouse-where-mass-murderer-anders-behring-breivik-is-on-trial-for-the-2011-norway-attacks.json)  [XML](/news/2012/05/15/a-man-sets-himself-on-fire-outside-the-oslo-courthouse-where-mass-murderer-anders-behring-breivik-is-on-trial-for-the-2011-norway-attacks.xml)  
+
 ### [2012-05-15](/news/2012/05/15/index.md)
 
+##### sets herself alight
 # A man sets himself on fire outside the Oslo courthouse where mass murderer Anders Behring Breivik is on trial for the 2011 Norway attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/may/15/anders-breivik-trial-man-fire)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/17/seven-chinese-fisherman-kidnapped-off-cameroon-s-disputed-bakassi-peninsula-are-released.html)  [JSON](/news/2010/03/17/seven-chinese-fisherman-kidnapped-off-cameroon-s-disputed-bakassi-peninsula-are-released.json)  [XML](/news/2010/03/17/seven-chinese-fisherman-kidnapped-off-cameroon-s-disputed-bakassi-peninsula-are-released.xml)  
+
 ### [2010-03-17](/news/2010/03/17/index.md)
 
+##### China
 # Seven Chinese fisherman kidnapped off Cameroon's disputed Bakassi peninsula are released. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8573690.stm)
 2. [CCTV](http://english.cctv.com/program/chinatoday/20100318/101080.shtml)

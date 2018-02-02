@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/28/300-homes-are-buried-by-a-landslide-in-santa-maraa-tlahuitoltepec-in-the-southern-mexican-state-of-oaxaca-which-is-feared-to-have-killed-hu.html)  [JSON](/news/2010/09/28/300-homes-are-buried-by-a-landslide-in-santa-maraa-tlahuitoltepec-in-the-southern-mexican-state-of-oaxaca-which-is-feared-to-have-killed-hu.json)  [XML](/news/2010/09/28/300-homes-are-buried-by-a-landslide-in-santa-maraa-tlahuitoltepec-in-the-southern-mexican-state-of-oaxaca-which-is-feared-to-have-killed-hu.xml)  
+
 ### [2010-09-28](/news/2010/09/28/index.md)
 
+##### 2010 Oaxaca landslide
 # 300 homes are buried by a landslide in Santa Maria Tlahuitoltepec in the southern Mexican state of Oaxaca which is feared to have killed hundreds while they slept. The landslide was caused by Tropical Storm Matthew. 
 
 A landslide triggered by heavy rain hits a town in southern Mexico, engulfing a number of houses, officials say.
 
 
-### Source:
+### Sources:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/09/29/3024472.htm)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-11429439)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/28/the-hutton-inquiry-report-is-released-stating-the-suicide-of-iraqi-weapons-expert-david-kelly-did-not-involve-dishonourable-conduct-on-t.html)  [JSON](/news/2004/01/28/the-hutton-inquiry-report-is-released-stating-the-suicide-of-iraqi-weapons-expert-david-kelly-did-not-involve-dishonourable-conduct-on-t.json)  [XML](/news/2004/01/28/the-hutton-inquiry-report-is-released-stating-the-suicide-of-iraqi-weapons-expert-david-kelly-did-not-involve-dishonourable-conduct-on-t.xml)  
+
 ### [2004-01-28](/news/2004/01/28/index.md)
 
+##### Hutton Inquiry
 #  The Hutton Inquiry report is released, stating the suicide of Iraqi weapons expert David Kelly did not involve "dishonourable conduct" on the part of the United Kingdom's government and exonerates Prime Minister Tony Blair of any wrongdoing in Kelly's death. The BBC receives harsh criticism for the allegations within Andrew Gilligan's report on weapons of mass destruction and the BBC's subsequent backing of the report. Gavyn Davies takes full responsibility for any wrongdoing and resigns as the Chairman of the Board of Governors of the BBC.
 
 

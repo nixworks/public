@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/20/an-election-is-held-in-laos-with-voter-turnout-
 
 ### [2016-03-20](/news/2016/03/20/index.md)
 
+##### Laotian parliamentary election, 2016
 # An election is held in Laos, with voter turnout expected to be low. The only legal party in Laos is the Lao People's Revolutionary Party. 
 
 

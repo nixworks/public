@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/03/31/a-37-year-old-virginia-state-police-trooper-taking-part-in-a-police-training-mission-is-killed-by-a-gunman-inside-the-greyhound-bus-station.html)  [JSON](/news/2016/03/31/a-37-year-old-virginia-state-police-trooper-taking-part-in-a-police-training-mission-is-killed-by-a-gunman-inside-the-greyhound-bus-station.json)  [XML](/news/2016/03/31/a-37-year-old-virginia-state-police-trooper-taking-part-in-a-police-training-mission-is-killed-by-a-gunman-inside-the-greyhound-bus-station.xml)  
+
 ### [2016-03-31](/news/2016/03/31/index.md)
 
+##### Virginia State Police trooper
 # A 37-year-old Virginia State Police trooper taking part in a police training mission is killed by a gunman inside the Greyhound bus station in Richmond, Virginia. Two officers standing nearby return fire and fatally strike the suspect. Two civilian women are injured. 
 
 A Virginia State trooper who was shot when a suspect opened fire at a Greyhound bus station in Richmond Thursday afternoon has died, according to Virginia State Police.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/trooper-severely-injured-gunman-dead-shooting-greyhound-station-richmond-virginia-n548686)
 2. [WTVR](http://wtvr.com/2016/03/31/active-shooter-reported-at-richmond-greyhound-bus-station/)

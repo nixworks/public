@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/31/floodwaters-continue-to-wreak-havoc-in-pakistan-affecting-areas-near-larkana.html)  [JSON](/news/2010/08/31/floodwaters-continue-to-wreak-havoc-in-pakistan-affecting-areas-near-larkana.json)  [XML](/news/2010/08/31/floodwaters-continue-to-wreak-havoc-in-pakistan-affecting-areas-near-larkana.xml)  
+
 ### [2010-08-31](/news/2010/08/31/index.md)
 
+##### devastating floods
 # Floodwaters continue to wreak havoc in Pakistan, affecting areas near Larkana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [DAWN](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/06-town-near-larkana-under-water-thatta-out-of-danger-180-rs-03)
 

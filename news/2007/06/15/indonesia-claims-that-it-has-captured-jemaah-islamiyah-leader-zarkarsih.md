@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/15/indonesia-claims-that-it-has-captured-jemaah-islamiyah-leader-zarkarsih.html)  [JSON](/news/2007/06/15/indonesia-claims-that-it-has-captured-jemaah-islamiyah-leader-zarkarsih.json)  [XML](/news/2007/06/15/indonesia-claims-that-it-has-captured-jemaah-islamiyah-leader-zarkarsih.xml)  
+
 ### [2007-06-15](/news/2007/06/15/index.md)
 
+##### Indonesia
 #  Indonesia claims that it has captured Jemaah Islamiyah leader Zarkarsih. 
 
 Indonesia has captured the head of Southeast Asian militant group Jemaah Islamiyah, the chief of the country&#8217;s anti-terrorist unit said Friday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via MSNBC](http://www.msnbc.msn.com/id/19240235/)
 1. [Cover Image](http://media3.s-nbcnews.com/j/msnbc/Components/Photos/070615/070615_zarkasih_vsmall_245a.standard.jpg)

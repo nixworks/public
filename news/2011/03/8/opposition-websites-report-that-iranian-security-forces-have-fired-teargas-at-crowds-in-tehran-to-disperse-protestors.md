@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/03/8/opposition-websites-report-that-iranian-security-forces-have-fired-teargas-at-crowds-in-tehran-to-disperse-protestors.html)  [JSON](/news/2011/03/8/opposition-websites-report-that-iranian-security-forces-have-fired-teargas-at-crowds-in-tehran-to-disperse-protestors.json)  [XML](/news/2011/03/8/opposition-websites-report-that-iranian-security-forces-have-fired-teargas-at-crowds-in-tehran-to-disperse-protestors.xml)  
+
 ### [2011-03-8](/news/2011/03/8/index.md)
 
+##### Iranian police
 # Opposition websites report that Iranian security forces have fired teargas at crowds in Tehran to disperse protestors. 
 
 Iranian security forces fired teargas to disperse anti-government protesters in Tehran on Tuesday, the opposition website Kaleme reported.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/08/us-iran-opposition-teargas-idUSTRE7274RB20110308?WT.tsrc=Social%20Media&WT.z_smid=twtr-reuters_%20com&WT.z_smid_dest=Twitter)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/03/08/us-iran-opposition-teargas-idUSTRE7274RB20110308?WT.tsrc=Social%20Media&WT.z_smid=twtr-reuters_%20com&WT.z_smid_dest=Twitter)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

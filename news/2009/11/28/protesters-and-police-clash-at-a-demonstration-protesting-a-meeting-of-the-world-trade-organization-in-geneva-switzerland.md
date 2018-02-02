@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/28/protesters-and-police-clash-at-a-demonstration-protesting-a-meeting-of-the-world-trade-organization-in-geneva-switzerland.html)  [JSON](/news/2009/11/28/protesters-and-police-clash-at-a-demonstration-protesting-a-meeting-of-the-world-trade-organization-in-geneva-switzerland.json)  [XML](/news/2009/11/28/protesters-and-police-clash-at-a-demonstration-protesting-a-meeting-of-the-world-trade-organization-in-geneva-switzerland.xml)  
+
 ### [2009-11-28](/news/2009/11/28/index.md)
 
+##### World Trade Organization
 #  Protesters and police clash at a demonstration protesting a meeting of the World Trade Organization in Geneva, Switzerland. 
 
 Demonstrators have smashed shop windows and set fire to cars in central Geneva during a protest against the World Trade Organisation (WTO). ...
 
 
-### Source:
+### Sources:
 
 1. [Swissinfo](http://www.swissinfo.ch/eng/swiss_news/WTO_protests_in_Geneva_turn_violent.html?siteSect=204&sid=11551601&ty=nd)
 2. [Wall Street Journal](http://online.wsj.com/article/SB125942469414268001.html?mod=WSJ_hpp_sections_world)

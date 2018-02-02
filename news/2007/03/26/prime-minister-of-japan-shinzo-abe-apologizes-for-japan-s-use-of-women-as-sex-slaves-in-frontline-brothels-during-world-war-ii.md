@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/26/prime-minister-of-japan-shinzo-abe-apologizes-for-japan-s-use-of-women-as-sex-slaves-in-frontline-brothels-during-world-war-ii.html)  [JSON](/news/2007/03/26/prime-minister-of-japan-shinzo-abe-apologizes-for-japan-s-use-of-women-as-sex-slaves-in-frontline-brothels-during-world-war-ii.json)  [XML](/news/2007/03/26/prime-minister-of-japan-shinzo-abe-apologizes-for-japan-s-use-of-women-as-sex-slaves-in-frontline-brothels-during-world-war-ii.xml)  
+
 ### [2007-03-26](/news/2007/03/26/index.md)
 
+##### Prime Minister of Japan
 #  Prime Minister of Japan Shinzo Abe apologizes for Japan's use of women as sex slaves in frontline brothels during World War II. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Daily Comet](http://www.dailycomet.com/apps/pbcs.dll/article?AID=/20070326/API/703261477)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/9/james-m-buchanan-who-won-the-nobel-memorial-prize-in-economic-sciences-in-1986-for-his-role-in-developing-public-choice-theory-dies-aged.html)  [JSON](/news/2013/01/9/james-m-buchanan-who-won-the-nobel-memorial-prize-in-economic-sciences-in-1986-for-his-role-in-developing-public-choice-theory-dies-aged.json)  [XML](/news/2013/01/9/james-m-buchanan-who-won-the-nobel-memorial-prize-in-economic-sciences-in-1986-for-his-role-in-developing-public-choice-theory-dies-aged.xml)  
+
 ### [2013-01-9](/news/2013/01/9/index.md)
 
+##### James M. Buchanan
 # James M. Buchanan, who won the Nobel Memorial Prize in Economic Sciences in 1986 for his role in developing public choice theory, dies aged 93 in the American town of Blacksburg, Virginia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.theaustralian.com.au/news/breaking-news/nobel-prize-economist-buchanan-dies/story-fn3dxix6-1226550866839)
 

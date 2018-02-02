@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/13/north-korea-confirms-that-it-has-shredded-the-60-year-old-korean-armistice-agreement-that-ended-the-korean-war-and-warns-that-the-next-step.html)  [JSON](/news/2013/03/13/north-korea-confirms-that-it-has-shredded-the-60-year-old-korean-armistice-agreement-that-ended-the-korean-war-and-warns-that-the-next-step.json)  [XML](/news/2013/03/13/north-korea-confirms-that-it-has-shredded-the-60-year-old-korean-armistice-agreement-that-ended-the-korean-war-and-warns-that-the-next-step.xml)  
+
 ### [2013-03-13](/news/2013/03/13/index.md)
 
+##### North Korea
 # North Korea confirms that it has shredded the 60-year-old Korean Armistice Agreement that ended the Korean War, and warns that the next step will be an act of "merciless" military retaliation. 
 
 North Korea has confirmed that it had shredded the 60-year-old armistice ending the Korean War, and warned that the next step was an act of &quot;merciless&quot; military retaliation against its enemies.
 
 
-### Source:
+### Sources:
 
 1. [AFP via News24](http://www.news24.com/news24/World/News/North-Korea-confirms-end-of-war-armistice-20130313)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2026/f5de3add5f6245efa38af775cad48141.jpg)

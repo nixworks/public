@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/09/7/rent-closed-on-broadway-leaving-it-the-7th-longest-running-broadway-show-with-its-12-year-run-which-began-in-1996.html)  [JSON](/news/2008/09/7/rent-closed-on-broadway-leaving-it-the-7th-longest-running-broadway-show-with-its-12-year-run-which-began-in-1996.json)  [XML](/news/2008/09/7/rent-closed-on-broadway-leaving-it-the-7th-longest-running-broadway-show-with-its-12-year-run-which-began-in-1996.xml)  
+
 ### [2008-09-7](/news/2008/09/7/index.md)
 
+##### RENT
 #  RENT closed on Broadway, leaving it the 7th longest running Broadway show, with its 12-year run, which began in 1996.
 
 

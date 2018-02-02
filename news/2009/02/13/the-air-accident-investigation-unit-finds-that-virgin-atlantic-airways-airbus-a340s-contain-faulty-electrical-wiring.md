@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/13/the-air-accident-investigation-unit-finds-that-virgin-atlantic-airways-airbus-a340s-contain-faulty-electrical-wiring.html)  [JSON](/news/2009/02/13/the-air-accident-investigation-unit-finds-that-virgin-atlantic-airways-airbus-a340s-contain-faulty-electrical-wiring.json)  [XML](/news/2009/02/13/the-air-accident-investigation-unit-finds-that-virgin-atlantic-airways-airbus-a340s-contain-faulty-electrical-wiring.xml)  
+
 ### [2009-02-13](/news/2009/02/13/index.md)
 
+##### Air Accident Investigation Unit
 #  The Air Accident Investigation Unit finds that Virgin Atlantic Airways' Airbus A340s contain faulty electrical wiring. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAIU](http://www.aaiu.ie/upload/general/11300-0.pdf)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/3/egyptian-troops-close-the-last-breach-in-egypt-s-border-with-the-gaza-strip.html)  [JSON](/news/2008/02/3/egyptian-troops-close-the-last-breach-in-egypt-s-border-with-the-gaza-strip.json)  [XML](/news/2008/02/3/egyptian-troops-close-the-last-breach-in-egypt-s-border-with-the-gaza-strip.xml)  
+
 ### [2008-02-3](/news/2008/02/3/index.md)
 
+##### Egypt
 #  Egyptian troops close the last breach in Egypt's border with the Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1201867283500&pagename=JPost%2FJPArticle%2FShowFull)
 

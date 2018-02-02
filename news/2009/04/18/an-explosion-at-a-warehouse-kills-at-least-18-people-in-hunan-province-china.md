@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/18/an-explosion-at-a-warehouse-kills-at-least-18-people-in-hunan-province-china.html)  [JSON](/news/2009/04/18/an-explosion-at-a-warehouse-kills-at-least-18-people-in-hunan-province-china.json)  [XML](/news/2009/04/18/an-explosion-at-a-warehouse-kills-at-least-18-people-in-hunan-province-china.xml)  
+
 ### [2009-04-18](/news/2009/04/18/index.md)
 
+##### explosion
 #  An explosion at a warehouse kills at least 18 people in Hunan Province, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8005523.stm)
 

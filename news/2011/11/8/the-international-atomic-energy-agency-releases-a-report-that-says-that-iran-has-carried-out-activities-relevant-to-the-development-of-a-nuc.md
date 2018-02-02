@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/11/8/the-international-atomic-energy-agency-releases-a-report-that-says-that-iran-has-carried-out-activities-relevant-to-the-development-of-a-nuc.html)  [JSON](/news/2011/11/8/the-international-atomic-energy-agency-releases-a-report-that-says-that-iran-has-carried-out-activities-relevant-to-the-development-of-a-nuc.json)  [XML](/news/2011/11/8/the-international-atomic-energy-agency-releases-a-report-that-says-that-iran-has-carried-out-activities-relevant-to-the-development-of-a-nuc.xml)  
+
 ### [2011-11-8](/news/2011/11/8/index.md)
 
+##### IAEA
 # The International Atomic Energy Agency releases a report that says that Iran has carried out activities relevant to the development of a nuclear device, and that the project may still be under way. 
 
 International weapons inspectors say a trove of new evidence makes a “credible” case that Iran has been developing a nuclear weapon.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/11/08/world/meast/iran-nuclear/index.html?hpt=imi_c2)
-2. [The New York Times](http://www.nytimes.com/2011/11/09/world/un-details-case-that-iran-is-at-work-on-nuclear-device.html?_r=1&pagewanted=all)
+2. [The New York Times](https://www.nytimes.com/2011/11/09/world/un-details-case-that-iran-is-at-work-on-nuclear-device.html?_r=1&pagewanted=all)
 2. [Cover Image](https://static01.nyt.com/images/2011/11/09/world/NUCLEAR/NUCLEAR-thumbStandard-v2.jpg)
 
 ### Related:

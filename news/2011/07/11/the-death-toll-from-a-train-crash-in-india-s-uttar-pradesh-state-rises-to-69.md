@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/11/the-death-toll-from-a-train-crash-in-india-s-uttar-pradesh-state-rises-to-69.html)  [JSON](/news/2011/07/11/the-death-toll-from-a-train-crash-in-india-s-uttar-pradesh-state-rises-to-69.json)  [XML](/news/2011/07/11/the-death-toll-from-a-train-crash-in-india-s-uttar-pradesh-state-rises-to-69.xml)  
+
 ### [2011-07-11](/news/2011/07/11/index.md)
 
+##### India
 # The death toll from a train crash in India's Uttar Pradesh state rises to 69. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Economic Times](http://economictimes.indiatimes.com/news/politics/nation/toll-in-up-accident-69-23-yet-to-be-identified/articleshow/9187994.cms)
 

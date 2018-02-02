@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/11/corpses-of-more-than-50-people-are-unearthed-in-peruaac-lake-on-the-border-between-bosnia-and-herzegovina-and-serbia-by-investigators-looki.html)  [JSON](/news/2010/08/11/corpses-of-more-than-50-people-are-unearthed-in-peruaac-lake-on-the-border-between-bosnia-and-herzegovina-and-serbia-by-investigators-looki.json)  [XML](/news/2010/08/11/corpses-of-more-than-50-people-are-unearthed-in-peruaac-lake-on-the-border-between-bosnia-and-herzegovina-and-serbia-by-investigators-looki.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### Perucac lake
 # Corpses of more than 50 people are unearthed in Perucac lake on the border between Bosnia and Herzegovina and Serbia by investigators looking for people who were killed during the 1992-95 Bosnian War. 
 
 More than 50 bodies are found in a lake in Bosnia, as investigators hunt for victims of the 1992-95 war.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10937461)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/2/in-zimbabwe-state-prosecutors-dropped-treason-charges-against-opposition-leader-morgan-tsvangirai-mr-tsvangirai-leader-of-the-movement-f.html)  [JSON](/news/2005/08/2/in-zimbabwe-state-prosecutors-dropped-treason-charges-against-opposition-leader-morgan-tsvangirai-mr-tsvangirai-leader-of-the-movement-f.json)  [XML](/news/2005/08/2/in-zimbabwe-state-prosecutors-dropped-treason-charges-against-opposition-leader-morgan-tsvangirai-mr-tsvangirai-leader-of-the-movement-f.xml)  
+
 ### [2005-08-2](/news/2005/08/2/index.md)
 
+##### Zimbabwe
 #  In Zimbabwe, state prosecutors dropped treason charges against opposition leader Morgan Tsvangirai. Mr Tsvangirai, leader of the Movement for Democratic Change, was accused of organising mass protests in 2003 to overthrow Robert Mugabe's controversial regime. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://dsl.optusnet.com.au/news/story/abc/20050802/19/international/1428624.inp)
 

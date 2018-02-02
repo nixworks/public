@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/3/a-tibetan-parliament-in-exile-delegation-appeals-to-foreign-embassies-in-new-delhi-india-for-help-to-release-three-monks-from-the-kirti-mo.html)  [JSON](/news/2011/05/3/a-tibetan-parliament-in-exile-delegation-appeals-to-foreign-embassies-in-new-delhi-india-for-help-to-release-three-monks-from-the-kirti-mo.json)  [XML](/news/2011/05/3/a-tibetan-parliament-in-exile-delegation-appeals-to-foreign-embassies-in-new-delhi-india-for-help-to-release-three-monks-from-the-kirti-mo.xml)  
+
 ### [2011-05-3](/news/2011/05/3/index.md)
 
+##### exiled Tibetan parliament
 # A Tibetan parliament-in-exile delegation appeals to foreign embassies in New Delhi, India, for help to release three monks from the Kirti monastery in northeastern Tibet detained by Chinese authorities and to address additional human rights violations in Tibet by China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Tibet Post](http://www.thetibetpost.com/en/news/international/1655-tension-continues-in-tibets-ngaba-parliament-appeals-to-the-world-)
 

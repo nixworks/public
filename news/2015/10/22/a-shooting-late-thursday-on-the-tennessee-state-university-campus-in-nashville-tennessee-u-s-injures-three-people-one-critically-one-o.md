@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/22/a-shooting-late-thursday-on-the-tennessee-state-university-campus-in-nashville-tennessee-u-s-injures-three-people-one-critically-one-o.html)  [JSON](/news/2015/10/22/a-shooting-late-thursday-on-the-tennessee-state-university-campus-in-nashville-tennessee-u-s-injures-three-people-one-critically-one-o.json)  [XML](/news/2015/10/22/a-shooting-late-thursday-on-the-tennessee-state-university-campus-in-nashville-tennessee-u-s-injures-three-people-one-critically-one-o.xml)  
+
 ### [2015-10-22](/news/2015/10/22/index.md)
 
+##### Tennessee State University
 # A shooting late Thursday on the Tennessee State University campus in Nashville, Tennessee, U.S., injures three people, one critically. One of those wounded died later at a hospital. The victims were transported to Vanderbilt University Medical Center. 
 
 Three people were shot on the campus of Tennessee State University late Thursday, police said.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/three-people-shot-tennessee-state-university-campus-n449756)
 2. [New York Daily News](http://www.nydailynews.com/news/crime/3-shot-critically-injured-shooting-tsu-reports-article-1.2408209)

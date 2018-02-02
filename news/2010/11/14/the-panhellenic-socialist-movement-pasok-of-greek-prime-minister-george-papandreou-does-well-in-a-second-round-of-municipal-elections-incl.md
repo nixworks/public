@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/14/the-panhellenic-socialist-movement-pasok-of-greek-prime-minister-george-papandreou-does-well-in-a-second-round-of-municipal-elections-incl.html)  [JSON](/news/2010/11/14/the-panhellenic-socialist-movement-pasok-of-greek-prime-minister-george-papandreou-does-well-in-a-second-round-of-municipal-elections-incl.json)  [XML](/news/2010/11/14/the-panhellenic-socialist-movement-pasok-of-greek-prime-minister-george-papandreou-does-well-in-a-second-round-of-municipal-elections-incl.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### PASOK
 # The Panhellenic Socialist Movement (PASOK) of Greek Prime Minister George Papandreou does well in a second round of municipal elections including its candidates elected as mayors of Athens and Thessaloniki. 
 
 With 99.6 per cent of votes counted across the country, the ruling party won eight of 13 races for regional governor.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/2010111514145510301.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11754665)

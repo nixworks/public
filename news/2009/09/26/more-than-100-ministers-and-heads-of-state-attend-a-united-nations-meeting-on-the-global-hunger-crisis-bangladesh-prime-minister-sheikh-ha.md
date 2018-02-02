@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/26/more-than-100-ministers-and-heads-of-state-attend-a-united-nations-meeting-on-the-global-hunger-crisis-bangladesh-prime-minister-sheikh-ha.html)  [JSON](/news/2009/09/26/more-than-100-ministers-and-heads-of-state-attend-a-united-nations-meeting-on-the-global-hunger-crisis-bangladesh-prime-minister-sheikh-ha.json)  [XML](/news/2009/09/26/more-than-100-ministers-and-heads-of-state-attend-a-united-nations-meeting-on-the-global-hunger-crisis-bangladesh-prime-minister-sheikh-ha.xml)  
+
 ### [2009-09-26](/news/2009/09/26/index.md)
 
+##### United Nations
 #  More than 100 ministers and heads of state attend a United Nations meeting on the global hunger crisis. Bangladesh Prime Minister Sheikh Hasina tables a five-pronged set of recommendations to raise a hunger-free world. 
 
 The Minister of State with responsibility for Overseas Development has delivered the keynote address at a special meeting to tackle the world&#39;s hunger crisis.
 
 
-### Source:
+### Sources:
 
 1. [Bangldesh News](http://bdnews24.com/details.php?id=143572&cid=2)
 2. [RTÉ](http://www.rte.ie/news/2009/0927/powerp.html)

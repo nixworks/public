@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/17/floods-and-gale-force-winds-cause-widespread-disruption-and-damage-across-the-united-kingdom-county-of-cornwall.html)  [JSON](/news/2010/11/17/floods-and-gale-force-winds-cause-widespread-disruption-and-damage-across-the-united-kingdom-county-of-cornwall.json)  [XML](/news/2010/11/17/floods-and-gale-force-winds-cause-widespread-disruption-and-damage-across-the-united-kingdom-county-of-cornwall.xml)  
+
 ### [2010-11-17](/news/2010/11/17/index.md)
 
+##### Cornish
 # Floods and gale-force winds cause widespread disruption and damage across the United Kingdom county of Cornwall. 
 
 More than 100 homes are evacuated in Cornwall as heavy rain and gale-force winds cause widespread flooding and travel disruption.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-cornwall-11772262)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

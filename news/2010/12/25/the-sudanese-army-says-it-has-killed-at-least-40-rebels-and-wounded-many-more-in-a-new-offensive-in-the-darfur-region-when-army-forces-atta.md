@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/12/25/the-sudanese-army-says-it-has-killed-at-least-40-rebels-and-wounded-many-more-in-a-new-offensive-in-the-darfur-region-when-army-forces-atta.html)  [JSON](/news/2010/12/25/the-sudanese-army-says-it-has-killed-at-least-40-rebels-and-wounded-many-more-in-a-new-offensive-in-the-darfur-region-when-army-forces-atta.json)  [XML](/news/2010/12/25/the-sudanese-army-says-it-has-killed-at-least-40-rebels-and-wounded-many-more-in-a-new-offensive-in-the-darfur-region-when-army-forces-atta.xml)  
+
 ### [2010-12-25](/news/2010/12/25/index.md)
 
+##### Sudanese government troops
 # The Sudanese army says it has killed at least 40 rebels and wounded many more in a new offensive in the Darfur region, when army forces attacked joint positions of the Justice and Equality Movement and the Sudan Liberation Movement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gDFL9lIWr_D1RIphm7z5eps1ThYw?docId=CNG.81282d483c9208446f7bbcd961623561.2b1)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/12/25/AR2010122500216.html)
+2. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/12/25/AR2010122500216.html)
 
 ### Related:
 

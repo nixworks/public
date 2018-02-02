@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/25/police-in-the-venezuelan-capital-caracas-disperse-an-opposition-student-protest-over-the-closure-of-several-television-stations-meanwhile.html)  [JSON](/news/2010/01/25/police-in-the-venezuelan-capital-caracas-disperse-an-opposition-student-protest-over-the-closure-of-several-television-stations-meanwhile.json)  [XML](/news/2010/01/25/police-in-the-venezuelan-capital-caracas-disperse-an-opposition-student-protest-over-the-closure-of-several-television-stations-meanwhile.xml)  
+
 ### [2010-01-25](/news/2010/01/25/index.md)
 
+##### Venezuela
 # Police in the Venezuelan capital Caracas disperse an opposition student protest over the closure of several television stations. Meanwhile, Vice President Ramn Carrizales resigns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hLJXSS2bg90lNF6FXmzQcghAovog)
 2. [El Universal](http://english.eluniversal.com/2010/01/25/en_pol_esp_student-demonstratio_25A3337855.shtml)

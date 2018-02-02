@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/26/riots-in-china-s-xinjiang-region-kill-at-least-36-people.html)  [JSON](/news/2013/06/26/riots-in-china-s-xinjiang-region-kill-at-least-36-people.json)  [XML](/news/2013/06/26/riots-in-china-s-xinjiang-region-kill-at-least-36-people.xml)  
+
 ### [2013-06-26](/news/2013/06/26/index.md)
 
+##### China
 # Riots in China's Xinjiang region kill at least 36 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://worldnews.nbcnews.com/_news/2013/06/26/19149980-report-36-killed-after-knife-gang-attacks-china-police-station#comments)
 2. [The Australian](http://www.theaustralian.com.au/news/breaking-news/riots-in-chinas-xinjiang-region-kill-27/story-fn3dxix6-1226670276075)

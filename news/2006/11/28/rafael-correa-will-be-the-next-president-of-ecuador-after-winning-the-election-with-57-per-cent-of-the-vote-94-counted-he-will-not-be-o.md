@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/28/rafael-correa-will-be-the-next-president-of-ecuador-after-winning-the-election-with-57-per-cent-of-the-vote-94-counted-he-will-not-be-o.html)  [JSON](/news/2006/11/28/rafael-correa-will-be-the-next-president-of-ecuador-after-winning-the-election-with-57-per-cent-of-the-vote-94-counted-he-will-not-be-o.json)  [XML](/news/2006/11/28/rafael-correa-will-be-the-next-president-of-ecuador-after-winning-the-election-with-57-per-cent-of-the-vote-94-counted-he-will-not-be-o.xml)  
+
 ### [2006-11-28](/news/2006/11/28/index.md)
 
+##### Rafael Correa
 #  Rafael Correa will be the next President of Ecuador after winning the election with 57 per cent of the vote (94% counted). He will not be officially confirmed until all the votes are counted. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articleinvesting.aspx?type=bondsNews&storyID=2006-11-28T173714Z_01_N28247228_RTRIDST_0_ECUADOR-ELECTION-URGENT.XML)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

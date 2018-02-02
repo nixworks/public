@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/11/dangote-cement-opens-a-new-line-of-production-at-its-obajana-facility-in-the-kogi-state-making-the-plant-the-largest-in-sub-sahara-africa-a.html)  [JSON](/news/2012/06/11/dangote-cement-opens-a-new-line-of-production-at-its-obajana-facility-in-the-kogi-state-making-the-plant-the-largest-in-sub-sahara-africa-a.json)  [XML](/news/2012/06/11/dangote-cement-opens-a-new-line-of-production-at-its-obajana-facility-in-the-kogi-state-making-the-plant-the-largest-in-sub-sahara-africa-a.xml)  
+
 ### [2012-06-11](/news/2012/06/11/index.md)
 
+##### Dangote Cement
 # Dangote Cement opens a new line of production at its Obajana facility in the Kogi State, making the plant the largest in Sub-Sahara Africa and one of the largest in the world. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iK3n8p3sn-OGcBJN4HQ8jD13vKjg?docId=CNG.7096a2cebb03926e85988ad7c55982ce.4e1)
 

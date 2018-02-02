@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/2/sebastien-loeb-of-citroen-becomes-the-first-world-rally-championship-driver-to-become-world-champion-for-the-fifth-consecutive-time.html)  [JSON](/news/2008/11/2/sebastien-loeb-of-citroen-becomes-the-first-world-rally-championship-driver-to-become-world-champion-for-the-fifth-consecutive-time.json)  [XML](/news/2008/11/2/sebastien-loeb-of-citroen-becomes-the-first-world-rally-championship-driver-to-become-world-champion-for-the-fifth-consecutive-time.xml)  
+
 ### [2008-11-2](/news/2008/11/2/index.md)
 
+##### Sbastien Loeb
 #  Sbastien Loeb of Citron becomes the first World Rally Championship driver to become World Champion for the fifth consecutive time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/sport1/hi/motorsport/world_rally/7704694.stm)
 

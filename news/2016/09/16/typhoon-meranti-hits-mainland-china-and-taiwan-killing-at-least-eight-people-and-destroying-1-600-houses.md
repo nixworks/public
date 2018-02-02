@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/16/typhoon-meranti-hits-mainland-china-and-taiwan-
 
 ### [2016-09-16](/news/2016/09/16/index.md)
 
+##### 2016 Pacific typhoon season
 # Typhoon Meranti hits mainland China and Taiwan killing at least eight people and destroying 1,600 houses. 
 
 At least eight people have been reported dead after a powerful typhoon lashed parts of southeastern China and Taiwan.

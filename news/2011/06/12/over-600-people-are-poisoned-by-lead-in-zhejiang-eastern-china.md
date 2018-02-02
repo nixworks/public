@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/12/over-600-people-are-poisoned-by-lead-in-zhejiang-eastern-china.html)  [JSON](/news/2011/06/12/over-600-people-are-poisoned-by-lead-in-zhejiang-eastern-china.json)  [XML](/news/2011/06/12/over-600-people-are-poisoned-by-lead-in-zhejiang-eastern-china.xml)  
+
 ### [2011-06-12](/news/2011/06/12/index.md)
 
+##### lead contamination
 # Over 600 people are poisoned by lead in Zhejiang, eastern China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Indian Express](http://www.indianexpress.com/news/over-600-people-sickened-by-lead-poisoning-in-china/802564/)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-06/12/c_13925110.htm)

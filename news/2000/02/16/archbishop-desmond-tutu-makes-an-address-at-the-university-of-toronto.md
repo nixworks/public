@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2000/02/16/archbishop-desmond-tutu-makes-an-address-at-the-university-of-toronto.html)  [JSON](/news/2000/02/16/archbishop-desmond-tutu-makes-an-address-at-the-university-of-toronto.json)  [XML](/news/2000/02/16/archbishop-desmond-tutu-makes-an-address-at-the-university-of-toronto.xml)  
+
 ### [2000-02-16](/news/2000/02/16/index.md)
 
+##### Archbishop
 #  Archbishop Desmond Tutu makes an address at the University of Toronto. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [University of Toronto](http://www.trinity.utoronto.ca/Alumni/tutu.htm)
 

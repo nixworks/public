@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/9/an-egyptian-court-dissolves-the-freedom-and-justice-party-the-political-wing-of-the-muslim-brotherhood.html)  [JSON](/news/2014/08/9/an-egyptian-court-dissolves-the-freedom-and-justice-party-the-political-wing-of-the-muslim-brotherhood.json)  [XML](/news/2014/08/9/an-egyptian-court-dissolves-the-freedom-and-justice-party-the-political-wing-of-the-muslim-brotherhood.xml)  
+
 ### [2014-08-9](/news/2014/08/9/index.md)
 
+##### Egypt
 # An Egyptian court dissolves the Freedom and Justice Party, the political wing of the Muslim Brotherhood. 
 
 A court in Egypt dissolves the Freedom and Justice Party (FJP), the political wing of the banned Muslim Brotherhood.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-middle-east-28722935)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/76839000/jpg/_76839346_177456552.jpg)

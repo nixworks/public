@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/9/prime-minister-of-tunisia-ali-larayedh-steps-down-following-renewed-protests-paving-the-way-for-new-elections-in-accordance-with-an-agreem.html)  [JSON](/news/2014/01/9/prime-minister-of-tunisia-ali-larayedh-steps-down-following-renewed-protests-paving-the-way-for-new-elections-in-accordance-with-an-agreem.json)  [XML](/news/2014/01/9/prime-minister-of-tunisia-ali-larayedh-steps-down-following-renewed-protests-paving-the-way-for-new-elections-in-accordance-with-an-agreem.xml)  
+
 ### [2014-01-9](/news/2014/01/9/index.md)
 
+##### Prime Minister of Tunisia
 # Prime Minister of Tunisia Ali Larayedh steps down following renewed protests, paving the way for new elections, in accordance with an agreement between his Islamist Ennahda party, and secular opposition parties. 
 
 CAIRO -- Tunisia’s Islamist prime minister stepped down Thursday, upholding a pledge aimed at breaking a political stalemate and paving the way for new elections in the country where the Arab Spring began.
 
 
-### Source:
+### Sources:
 
 1. [The Los Angeles Times](http://www.latimes.com/world/worldnow/la-fg-wn-tunisian-government-steps-down-20140109,0,2884751.story#axzz2pwkzhjul)
 1. [Cover Image](http://www.trbimg.com/img-52cefe41/turbine/la-fg-wn-tunisian-government-steps-down-20140109)

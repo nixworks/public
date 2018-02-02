@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/4/south-african-athlete-oscar-pistorius-appears-in-court-charged-with-the-murder-of-his-girlfriend-reeva-steenkamp.html)  [JSON](/news/2013/06/4/south-african-athlete-oscar-pistorius-appears-in-court-charged-with-the-murder-of-his-girlfriend-reeva-steenkamp.json)  [XML](/news/2013/06/4/south-african-athlete-oscar-pistorius-appears-in-court-charged-with-the-murder-of-his-girlfriend-reeva-steenkamp.xml)  
+
 ### [2013-06-4](/news/2013/06/4/index.md)
 
+##### South Africa
 # South African athlete Oscar Pistorius appears in court charged with the murder of his girlfriend Reeva Steenkamp. 
 
 A South African magistrate has postponed the murder trial of Oscar Pistorius until 19 August after lawyers asked for time to prepare for the case.
 
 
-### Source:
+### Sources:
 
 1. [RTE](http://www.rte.ie/news/2013/0604/454386-oscar-pistorius-reeva-steenkamp/)
 1. [Cover Image](https://img.rasset.ie/0007716c-1600.jpg)

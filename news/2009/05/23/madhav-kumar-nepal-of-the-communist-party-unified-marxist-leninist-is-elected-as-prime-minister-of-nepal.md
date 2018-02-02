@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/23/madhav-kumar-nepal-of-the-communist-party-unified-marxist-leninist-is-elected-as-prime-minister-of-nepal.html)  [JSON](/news/2009/05/23/madhav-kumar-nepal-of-the-communist-party-unified-marxist-leninist-is-elected-as-prime-minister-of-nepal.json)  [XML](/news/2009/05/23/madhav-kumar-nepal-of-the-communist-party-unified-marxist-leninist-is-elected-as-prime-minister-of-nepal.xml)  
+
 ### [2009-05-23](/news/2009/05/23/index.md)
 
+##### Madhav Kumar Nepal
 #  Madhav Kumar Nepal of the Communist Party (Unified Marxist-Leninist) is elected as Prime Minister of Nepal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/05/23/nepal.prime.minister/index.html?eref=rss_world)
 

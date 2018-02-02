@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/3/microsoft-purchases-nokia-s-mobile-device-division-for-7-2-billion.html)  [JSON](/news/2013/09/3/microsoft-purchases-nokia-s-mobile-device-division-for-7-2-billion.json)  [XML](/news/2013/09/3/microsoft-purchases-nokia-s-mobile-device-division-for-7-2-billion.xml)  
+
 ### [2013-09-3](/news/2013/09/3/index.md)
 
+##### Microsoft
 # Microsoft purchases Nokia's mobile device division for $7.2 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MarketWatchPulse](http://www.foxbusiness.com/markets/2013/09/02/microsoft-to-buy-nokia-devices-business/)
 

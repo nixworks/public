@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/24/eight-egyptian-army-soldiers-are-killed-by-a-su
 
 ### [2016-11-24](/news/2016/11/24/index.md)
 
+##### Sinai insurgency
 # Eight Egyptian Army soldiers are killed by a suicide bomber at a checkpoint in northern Sinai. 
 
 

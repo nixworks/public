@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/26/bolivia-reclaims-two-oil-refineries-from-brazilian-state-owned-energy-company-petrobras.html)  [JSON](/news/2007/06/26/bolivia-reclaims-two-oil-refineries-from-brazilian-state-owned-energy-company-petrobras.json)  [XML](/news/2007/06/26/bolivia-reclaims-two-oil-refineries-from-brazilian-state-owned-energy-company-petrobras.xml)  
+
 ### [2007-06-26](/news/2007/06/26/index.md)
 
+##### Bolivia
 #  Bolivia reclaims two oil refineries from Brazilian state-owned energy company Petrobras. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6243802.stm)
 

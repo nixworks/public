@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/13/miami-police-shot-dead-in-an-exchange-of-fire-a-man-suspected-of-the-murder-of-one-police-officer-and-the-shooting-of-another-three-officer.html)  [JSON](/news/2007/09/13/miami-police-shot-dead-in-an-exchange-of-fire-a-man-suspected-of-the-murder-of-one-police-officer-and-the-shooting-of-another-three-officer.json)  [XML](/news/2007/09/13/miami-police-shot-dead-in-an-exchange-of-fire-a-man-suspected-of-the-murder-of-one-police-officer-and-the-shooting-of-another-three-officer.xml)  
+
 ### [2007-09-13](/news/2007/09/13/index.md)
 
+##### Miami
 #  Miami police shot dead in an exchange of fire a man suspected of the murder of one police officer and the shooting of another three officers hours earlier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/US/09/14/miami.shootings/index.html?eref=rss_us)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/22/a-chinese-court-finds-former-senior-politician-bo-xilai-guilty-of-bribery-embezzlement-and-abuse-of-power-and-sentences-him-to-life-impriso.html)  [JSON](/news/2013/09/22/a-chinese-court-finds-former-senior-politician-bo-xilai-guilty-of-bribery-embezzlement-and-abuse-of-power-and-sentences-him-to-life-impriso.json)  [XML](/news/2013/09/22/a-chinese-court-finds-former-senior-politician-bo-xilai-guilty-of-bribery-embezzlement-and-abuse-of-power-and-sentences-him-to-life-impriso.xml)  
+
 ### [2013-09-22](/news/2013/09/22/index.md)
 
+##### Chinese
 # A Chinese court finds former senior politician Bo Xilai guilty of bribery, embezzlement and abuse of power and sentences him to life imprisonment. 
 
 A Chinese court sentences disgraced former top politician Bo Xilai to life after finding him guilty of abuse of power, corruption and bribery.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-24170726)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70052000/jpg/_70052408_70052407.jpg)

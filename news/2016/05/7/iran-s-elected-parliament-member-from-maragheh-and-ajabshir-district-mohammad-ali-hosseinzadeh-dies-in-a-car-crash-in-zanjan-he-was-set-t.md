@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/05/7/iran-s-elected-parliament-member-from-maragheh-and-ajabshir-district-mohammad-ali-hosseinzadeh-dies-in-a-car-crash-in-zanjan-he-was-set-t.html)  [JSON](/news/2016/05/7/iran-s-elected-parliament-member-from-maragheh-and-ajabshir-district-mohammad-ali-hosseinzadeh-dies-in-a-car-crash-in-zanjan-he-was-set-t.json)  [XML](/news/2016/05/7/iran-s-elected-parliament-member-from-maragheh-and-ajabshir-district-mohammad-ali-hosseinzadeh-dies-in-a-car-crash-in-zanjan-he-was-set-t.xml)  
+
 ### [2016-05-7](/news/2016/05/7/index.md)
 
+##### Iranian legislative election, 2016
 # Iran's elected Parliament member from Maragheh and Ajabshir district, Mohammad-Ali Hosseinzadeh, dies in a car crash in Zanjan. He was set to take office on 28 May. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [yjc.ir](http://www.yjc.ir/fa/news/5596181/%D9%85%D8%B1%DA%AF-%D8%AF%D9%84%D8%AE%D8%B1%D8%A7%D8%B4-%D9%86%D9%85%D8%A7%DB%8C%D9%86%D8%AF%D9%87-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%85%D8%B1%D8%AF%D9%85-%D9%85%D8%B1%D8%A7%D8%BA%D9%87-%D8%B9%DA%A9%D8%B3)
 1. [Cover Image](http://www.yjc.ir/files/fa/news/1395/2/18/4487566_823.jpg)

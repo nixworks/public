@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/05/19/an-apartment-building-collapses-in-pyongyang-north-korea-with-casualties-estimated-to-be-in-the-hundreds.html)  [JSON](/news/2014/05/19/an-apartment-building-collapses-in-pyongyang-north-korea-with-casualties-estimated-to-be-in-the-hundreds.json)  [XML](/news/2014/05/19/an-apartment-building-collapses-in-pyongyang-north-korea-with-casualties-estimated-to-be-in-the-hundreds.xml)  
+
 ### [2014-05-19](/news/2014/05/19/index.md)
 
+##### Pyongyang
 # An apartment building collapses in Pyongyang, North Korea, with casualties estimated to be in the hundreds. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2014/05/18/world/asia/north-korea-building-collapse/index.html?sr=fb051814nkbuildingcollapse9astorylink)
-2. [The Guardian](http://www.theguardian.com/world/2014/may/18/north-korea--rare-apology-collapse-apartment-building)
+2. [The Guardian](https://www.theguardian.com/world/2014/may/18/north-korea--rare-apology-collapse-apartment-building)
 
 ### Related:
 

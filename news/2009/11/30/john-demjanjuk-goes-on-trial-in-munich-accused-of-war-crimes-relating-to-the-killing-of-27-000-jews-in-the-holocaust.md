@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/30/john-demjanjuk-goes-on-trial-in-munich-accused-of-war-crimes-relating-to-the-killing-of-27-000-jews-in-the-holocaust.html)  [JSON](/news/2009/11/30/john-demjanjuk-goes-on-trial-in-munich-accused-of-war-crimes-relating-to-the-killing-of-27-000-jews-in-the-holocaust.json)  [XML](/news/2009/11/30/john-demjanjuk-goes-on-trial-in-munich-accused-of-war-crimes-relating-to-the-killing-of-27-000-jews-in-the-holocaust.xml)  
+
 ### [2009-11-30](/news/2009/11/30/index.md)
 
+##### John Demjanjuk
 #  John Demjanjuk goes on trial in Munich accused of war crimes relating to the killing of 27,000 Jews in the Holocaust. 
 
 The trial of John Demjanjuk, an 89-year-old former guard at a Nazi camp, opened on Monday on charges of helping to force 27,900 Jews into gas chambers at Sobibor death camp in 1943.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8385577.stm)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,4942000,00.html)

@@ -1,17 +1,27 @@
+
+Formats: [HTML](/news/2010/08/22/around-150-000-people-flee-their-homes-in-sindh-as-the-devastating-floods-worsen-in-pakistan.html)  [JSON](/news/2010/08/22/around-150-000-people-flee-their-homes-in-sindh-as-the-devastating-floods-worsen-in-pakistan.json)  [XML](/news/2010/08/22/around-150-000-people-flee-their-homes-in-sindh-as-the-devastating-floods-worsen-in-pakistan.xml)  
+
 ### [2010-08-22](/news/2010/08/22/index.md)
 
+##### Sindh
 # Around 150,000 people flee their homes in Sindh as the devastating floods worsen in Pakistan. 
 
 About 150,000 people leave their homes in Sindh as flood defences are threatened.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/08/201082120534430637.html)
 2. [Aljazeera](http://english.aljazeera.net/news/asia/2010/08/2010822131352597130.html)
 3. [BBC](http://www.bbc.co.uk/news/world-south-asia-11051205)
-4. [The Independent on Sunday](http://www.independent.co.uk/news/world/asia/debts-pushing-pakistan-to-the-brink-of-ruin-2058858.html)
+4. [The Independent on Sunday](https://www.independent.co.uk/news/world/asia/debts-pushing-pakistan-to-the-brink-of-ruin-2058858.html)
 4. [Cover Image](http://www.aljazeera.com)
+
+### Changes:
+
+1. [2010 Pakistan floods:Around 150,000 people flee their homes in Sindh as the devastating floods worsen in Pakistan. ](/news/2010/08/22/2010-pakistan-floods-paround-150-000-people-flee-their-homes-in-sindh-as-the-devastating-floods-worsen-in-pakistan.md) _2017-08-25 03:29:38 (First version)_
+2. [2010 Pakistan floods:: Around 150,000 people flee their homes in Sindh as the devastating floods worsen in Pakistan. ](/news/2010/08/22/2010-pakistan-floods-around-150-000-people-flee-their-homes-in-sindh-as-the-devastating-floods-worsen-in-pakistan.md) _2017-08-27 03:29:42 (Update)_
+2. [Around 150,000 people flee their homes in Sindh as the devastating floods worsen in Pakistan. ](/news/2010/08/22/around-150-000-people-flee-their-homes-in-sindh-as-the-devastating-floods-worsen-in-pakistan.md) _(Current version)_
 
 ### Related:
 
@@ -20,9 +30,3 @@ About 150,000 people leave their homes in Sindh as flood defences are threatened
 3. [At least eleven people are killed in Pakistan in fighting between rival parties as voters go to the polls for local elections in Sindh province. ](/news/2015/10/31/at-least-eleven-people-are-killed-in-pakistan-in-fighting-between-rival-parties-as-voters-go-to-the-polls-for-local-elections-in-sindh-provi.md) _Context: Pakistan, Sindh_
 4. [58 people are killed in a bus crash in the Sukkur District in southern Pakistan's Sindh province. ](/news/2014/11/11/58-people-are-killed-in-a-bus-crash-in-the-sukkur-district-in-southern-pakistan-s-sindh-province.md) _Context: Pakistan, Sindh_
 5. [An exchange of gunfire on the border between the Pakistani states of Sindh and Balochistan kills at least nine people. ](/news/2014/02/9/an-exchange-of-gunfire-on-the-border-between-the-pakistani-states-of-sindh-and-balochistan-kills-at-least-nine-people.md) _Context: Pakistan, Sindh_
-
-### Changes:
-
-1. [2010 Pakistan floods:Around 150,000 people flee their homes in Sindh as the devastating floods worsen in Pakistan. ](/news/2010/08/22/2010-pakistan-floods-paround-150-000-people-flee-their-homes-in-sindh-as-the-devastating-floods-worsen-in-pakistan.md) _2017-08-25 03:29:38 (First version)_
-2. [2010 Pakistan floods:: Around 150,000 people flee their homes in Sindh as the devastating floods worsen in Pakistan. ](/news/2010/08/22/2010-pakistan-floods-around-150-000-people-flee-their-homes-in-sindh-as-the-devastating-floods-worsen-in-pakistan.md) _2017-08-27 03:29:42 (Update)_
-2. [Around 150,000 people flee their homes in Sindh as the devastating floods worsen in Pakistan. ](/news/2010/08/22/around-150-000-people-flee-their-homes-in-sindh-as-the-devastating-floods-worsen-in-pakistan.md) _(Current version)_

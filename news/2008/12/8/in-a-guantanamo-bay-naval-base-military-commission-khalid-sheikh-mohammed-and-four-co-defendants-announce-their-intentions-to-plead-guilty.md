@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/8/in-a-guantanamo-bay-naval-base-military-commission-khalid-sheikh-mohammed-and-four-co-defendants-announce-their-intentions-to-plead-guilty.html)  [JSON](/news/2008/12/8/in-a-guantanamo-bay-naval-base-military-commission-khalid-sheikh-mohammed-and-four-co-defendants-announce-their-intentions-to-plead-guilty.json)  [XML](/news/2008/12/8/in-a-guantanamo-bay-naval-base-military-commission-khalid-sheikh-mohammed-and-four-co-defendants-announce-their-intentions-to-plead-guilty.xml)  
+
 ### [2008-12-8](/news/2008/12/8/index.md)
 
+##### military base at Guantanamo Bay
 #  In a Guantanamo Bay Naval Base military commission, Khalid Sheikh Mohammed and four co-defendants announce their intentions to plead guilty to charges relating to the September 11, 2001, attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/7770856.stm)
 

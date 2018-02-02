@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/21/an-al-shabaab-suicide-car-bomb-kills-at-least-2
 
 ### [2016-08-21](/news/2016/08/21/index.md)
 
+##### War in Somalia (2009-present)
 # An al-Shabaab suicide car bomb kills at least 20 people in the town of Galkayo in Somalia's semi-autonomous Puntland region. 
 
 

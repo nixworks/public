@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/21/a-war-crimes-tribunal-trying-those-accused-of-crimes-during-the-1971-bangladesh-liberation-war-sentences-abul-kalam-azad-bachchu-razakar-t.html)  [JSON](/news/2013/01/21/a-war-crimes-tribunal-trying-those-accused-of-crimes-during-the-1971-bangladesh-liberation-war-sentences-abul-kalam-azad-bachchu-razakar-t.json)  [XML](/news/2013/01/21/a-war-crimes-tribunal-trying-those-accused-of-crimes-during-the-1971-bangladesh-liberation-war-sentences-abul-kalam-azad-bachchu-razakar-t.xml)  
+
 ### [2013-01-21](/news/2013/01/21/index.md)
 
+##### war crimes
 # A war crimes tribunal trying those accused of crimes during the 1971 Bangladesh Liberation War sentences Abul Kalam Azad (Bachchu Razakar) to death. 
 
 The war crimes tribunal trying those accused of committing atrocities during the Bangladesh liberation war in 1971 pronounced its first verdict on Monday, awarding death sentence to a former Jamaat-e-
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/news/international/death-sentence-in-bangladesh-war-atrocities-trial/article4328483.ece)
 1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)

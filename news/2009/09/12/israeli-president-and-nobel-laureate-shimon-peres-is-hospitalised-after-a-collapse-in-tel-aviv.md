@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2009/09/12/israeli-president-and-nobel-laureate-shimon-peres-is-hospitalised-after-a-collapse-in-tel-aviv.html)  [JSON](/news/2009/09/12/israeli-president-and-nobel-laureate-shimon-peres-is-hospitalised-after-a-collapse-in-tel-aviv.json)  [XML](/news/2009/09/12/israeli-president-and-nobel-laureate-shimon-peres-is-hospitalised-after-a-collapse-in-tel-aviv.xml)  
+
 ### [2009-09-12](/news/2009/09/12/index.md)
 
+##### Israel
 #  Israeli President and Nobel Laureate Shimon Peres is hospitalised after a collapse in Tel Aviv. 
 
 The Israeli president briefly fainted on stage while speaking at an event in Tel Aviv.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/09/2009912213131638763.html)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/1114124.html)
 3. [RTÉ](http://www.rte.ie/news/2009/0912/peress.html)
-4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSMAC273201)
-5. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/09/12/AR2009091202028.html)
+4. [Reuters](https://www.reuters.com/article/latestCrisis/idUSMAC273201)
+5. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2009/09/12/AR2009091202028.html)
 5. [Cover Image](http://www.aljazeera.com)
 
 ### Related:

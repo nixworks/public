@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/7/china-issues-new-regulations-requiring-the-managers-of-mines-to-accompany-workers-down-the-shafts.html)  [JSON](/news/2010/10/7/china-issues-new-regulations-requiring-the-managers-of-mines-to-accompany-workers-down-the-shafts.json)  [XML](/news/2010/10/7/china-issues-new-regulations-requiring-the-managers-of-mines-to-accompany-workers-down-the-shafts.xml)  
+
 ### [2010-10-7](/news/2010/10/7/index.md)
 
+##### China
 # China issues new regulations requiring the managers of mines to accompany workers down the shafts. 
 
 New regulations come into force in China that require managers of mines to accompany workers down the shafts, in an effort to improve safety.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11490728)
 2. [RTHK](http://www.rthk.org.hk/rthk/news/englishnews/20101007/news_20101007_56_703375.htm)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/11/9/taylor-swift-wins-entertainer-of-the-year-at-the-american-country-music-association-awards.html)  [JSON](/news/2011/11/9/taylor-swift-wins-entertainer-of-the-year-at-the-american-country-music-association-awards.json)  [XML](/news/2011/11/9/taylor-swift-wins-entertainer-of-the-year-at-the-american-country-music-association-awards.xml)  
+
 ### [2011-11-9](/news/2011/11/9/index.md)
 
+##### Taylor Swift
 # Taylor Swift wins Entertainer of the Year at the American Country Music Association Awards. 
 
 Taylor took entertainer of the year. Jason Aldean and The Band Perry won multiple trophies.
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/life/music/awards/story/2011-11-09/cma-awards-roundup/51146714/1)
+1. [USA Today](https://www.usatoday.com/life/music/awards/story/2011-11-09/cma-awards-roundup/51146714/1)
 1. [Cover Image](http://i.usatoday.net/life/_photos/2011/11/09/One-Swift-kick-to-end-the-CMA-Awards-show-KRITSHH-x.jpg)
 
 ### Related:

@@ -1,17 +1,20 @@
+
+Formats: [HTML](/news/2005/03/15/in-the-philippines-police-storm-the-camp-bagong-diwa-prison-26-die-during-the-fighting-three-of-them-abu-sayyaf-members-six-police-offi.html)  [JSON](/news/2005/03/15/in-the-philippines-police-storm-the-camp-bagong-diwa-prison-26-die-during-the-fighting-three-of-them-abu-sayyaf-members-six-police-offi.json)  [XML](/news/2005/03/15/in-the-philippines-police-storm-the-camp-bagong-diwa-prison-26-die-during-the-fighting-three-of-them-abu-sayyaf-members-six-police-offi.xml)  
+
 ### [2005-03-15](/news/2005/03/15/index.md)
 
+##### Philippines
 #  In the Philippines, police storm the Camp Bagong Diwa prison. 26 die during the fighting, three of them Abu Sayyaf members. Six police officers are wounded. 
 
-Get the latest breaking news and top news headlines at Reuters.com
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4349471.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=a0HrSL3NqNY0&refer=top_world_news)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7900407)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=a0HrSL3NqNY0&refer=top_world_news)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7900407)
 4. [Sun Star, Manila](http://www.sunstar.com.ph/static/net/2005/03/15/death.toll.in.taguig.jail.crisis.26.html)
-4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

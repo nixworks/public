@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2013/12/26/thousands-of-customers-are-still-without-power-across-michigan-vermont-maine-and-southern-ontario-after-a-winter-storm-earlier-this-week.html)  [JSON](/news/2013/12/26/thousands-of-customers-are-still-without-power-across-michigan-vermont-maine-and-southern-ontario-after-a-winter-storm-earlier-this-week.json)  [XML](/news/2013/12/26/thousands-of-customers-are-still-without-power-across-michigan-vermont-maine-and-southern-ontario-after-a-winter-storm-earlier-this-week.xml)  
+
 ### [2013-12-26](/news/2013/12/26/index.md)
 
+##### Mich.
 # Thousands of customers are still without power across Michigan, Vermont, Maine, and Southern Ontario after a winter storm earlier this week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/12/25/us/winter-weather/)
 
 ### Related:
 
-1. [California, Maine, Maryland and Minnesota sue the Trump administraion over the termination of DACA. ](/news/2017/09/11/california-maine-maryland-and-minnesota-sue-the-trump-administraion-over-the-termination-of-daca.md) _Context: Maine_
-2. [A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md) _Context: Michigan_
-3. [Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _Context: Vermont_
-4. [The search for the suspect in the killing of an elderly man in Cleveland, whose murder was posted to Facebook, expands beyond Ohio, with the FBI urging residents in Indiana, Michigan, New York, and Pennsylvania to be on alert for the suspect. ](/news/2017/04/17/the-search-for-the-suspect-in-the-killing-of-an-elderly-man-in-cleveland-whose-murder-was-posted-to-facebook-expands-beyond-ohio-with-the.md) _Context: Michigan_
-5. [Ford announces that it has cancelled plans to build a $1.6 billion plant in Mexico, long criticized by U.S. President-elect Donald Trump, and will invest $700 million in its Michigan plant in Flat Rock, potentially creating 700 new jobs from the investment and expansion of the plant. ](/news/2017/01/3/ford-announces-that-it-has-cancelled-plans-to-build-a-1-6-billion-plant-in-mexico-long-criticized-by-u-s-president-elect-donald-trump-an.md) _Context: Michigan_
+1. [A massive winter storm hits the East Coast of the United States with up to 18 inches of snow predicted to fall between The Carolinas and Maine. So far, three people have died in North Carolina and a person has died in Philadelphia, Pennsylvania. ](/news/2018/01/4/a-massive-winter-storm-hits-the-east-coast-of-the-united-states-with-up-to-18-inches-of-snow-predicted-to-fall-between-the-carolinas-and-mai.md) _Context: Maine_
+2. [U.S. Representative John Conyers (D-Mich.) steps down amid allegations of sexual harassment. ](/news/2017/12/5/u-s-representative-john-conyers-d-mich-steps-down-amid-allegations-of-sexual-harassment.md) _Context: Mich._
+3. [California, Maine, Maryland and Minnesota sue the Trump administraion over the termination of DACA. ](/news/2017/09/11/california-maine-maryland-and-minnesota-sue-the-trump-administraion-over-the-termination-of-daca.md) _Context: Maine_
+4. [A judge in Michigan halts the possible deportation of over 100 Chaldean Iraqi Christians. ](/news/2017/06/22/a-judge-in-michigan-halts-the-possible-deportation-of-over-100-chaldean-iraqi-christians.md) _Context: Mich._
+5. [Vermont governor Phil Scott vetoes a bill legalizing marijuana in the state. ](/news/2017/05/24/vermont-governor-phil-scott-vetoes-a-bill-legalizing-marijuana-in-the-state.md) _Context: Vermont_

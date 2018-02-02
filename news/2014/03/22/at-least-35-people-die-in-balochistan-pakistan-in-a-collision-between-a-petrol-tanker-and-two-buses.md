@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/22/at-least-35-people-die-in-balochistan-pakistan-in-a-collision-between-a-petrol-tanker-and-two-buses.html)  [JSON](/news/2014/03/22/at-least-35-people-die-in-balochistan-pakistan-in-a-collision-between-a-petrol-tanker-and-two-buses.json)  [XML](/news/2014/03/22/at-least-35-people-die-in-balochistan-pakistan-in-a-collision-between-a-petrol-tanker-and-two-buses.xml)  
+
 ### [2014-03-22](/news/2014/03/22/index.md)
 
+##### Balochistan
 # At least 35 people die in Balochistan, Pakistan, in a collision between a petrol tanker and two buses. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PTI via Business Standard](http://www.business-standard.com/article/pti-stories/35-killed-in-road-accident-in-southwest-pakistan-114032200158_1.html)
 1. [Cover Image](http://bsmedia.business-standard.com/include/_mod/site/html5/images/no-meta-preview.jpg)

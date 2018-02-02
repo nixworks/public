@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/22/mohammed-shahadeh-leader-of-the-al-aqsa-martyrs-brigades-terrorist-organization-in-the-gaza-strip-bureij-refugee-camp-is-shot-to-death-ou.html)  [JSON](/news/2006/10/22/mohammed-shahadeh-leader-of-the-al-aqsa-martyrs-brigades-terrorist-organization-in-the-gaza-strip-bureij-refugee-camp-is-shot-to-death-ou.json)  [XML](/news/2006/10/22/mohammed-shahadeh-leader-of-the-al-aqsa-martyrs-brigades-terrorist-organization-in-the-gaza-strip-bureij-refugee-camp-is-shot-to-death-ou.xml)  
+
 ### [2006-10-22](/news/2006/10/22/index.md)
 
+##### Mohammed Shahadeh
 #  Mohammed Shahadeh, leader of the al-Aqsa Martyrs Brigades terrorist organization in the Gaza Strip Bureij refugee camp, is shot to death outside his home. Fatah officials accuse members of Hamas of being behind the assassination. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/6074310.stm)
 

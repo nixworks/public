@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/26/hundreds-of-thousands-of-people-march-in-london-england-against-government-budget-cuts-with-the-protests-later-turning-violent.html)  [JSON](/news/2011/03/26/hundreds-of-thousands-of-people-march-in-london-england-against-government-budget-cuts-with-the-protests-later-turning-violent.json)  [XML](/news/2011/03/26/hundreds-of-thousands-of-people-march-in-london-england-against-government-budget-cuts-with-the-protests-later-turning-violent.xml)  
+
 ### [2011-03-26](/news/2011/03/26/index.md)
 
+##### London
 # Hundreds of thousands of people march in London, England against government budget cuts with the protests later turning violent. 
 
 Follow our rolling coverage of today&#039;s marches which saw an estimated 400,000 people take to London&#039;s streets, in the biggest public backlash against the Government&#039;s spending cuts since it came to power.
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/society/blog/2011/mar/26/march-for-the-alternative-live-blog-updates?CMP=twt_gu)
 2. [The Telegraph](http://www.telegraph.co.uk/news/politics/8407260/TUC-protest-march-live.html)

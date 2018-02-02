@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/16/prime-minister-recep-tayyip-erdoaan-flies-to-tehran-to-join-talks-also-attended-by-president-luiz-ina-cio-lula-da-silva-aimed-at-convincing.html)  [JSON](/news/2010/05/16/prime-minister-recep-tayyip-erdoaan-flies-to-tehran-to-join-talks-also-attended-by-president-luiz-ina-cio-lula-da-silva-aimed-at-convincing.json)  [XML](/news/2010/05/16/prime-minister-recep-tayyip-erdoaan-flies-to-tehran-to-join-talks-also-attended-by-president-luiz-ina-cio-lula-da-silva-aimed-at-convincing.xml)  
+
 ### [2010-05-16](/news/2010/05/16/index.md)
 
+##### Recep Tayyip Erdogan
 # Prime Minister Recep Tayyip Erdogan flies to Tehran to join talks also attended by President Luiz Inacio Lula da Silva aimed at convincing Iran of the advantages of sending its nuclear material abroad for processing to ease fears from the West that Iran wants to build a bomb. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8685846.stm)
 

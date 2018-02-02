@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/20/residents-of-galveston-island-texas-are-advised-that-they-can-return-home-next-wednesday-but-there-will-be-little-or-no-services-after-hur.html)  [JSON](/news/2008/09/20/residents-of-galveston-island-texas-are-advised-that-they-can-return-home-next-wednesday-but-there-will-be-little-or-no-services-after-hur.json)  [XML](/news/2008/09/20/residents-of-galveston-island-texas-are-advised-that-they-can-return-home-next-wednesday-but-there-will-be-little-or-no-services-after-hur.xml)  
+
 ### [2008-09-20](/news/2008/09/20/index.md)
 
+##### Galveston Island
 #  Residents of Galveston Island, Texas are advised that they can return home next Wednesday but there will be little or no services after Hurricane Ike destroyed much of the town. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2008/US/09/20/galveston.return/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/10/negotiators-from-pakistan-s-two-major-coalition-parties-meet-in-london-but-fail-to-reach-an-agreement.html)  [JSON](/news/2008/05/10/negotiators-from-pakistan-s-two-major-coalition-parties-meet-in-london-but-fail-to-reach-an-agreement.json)  [XML](/news/2008/05/10/negotiators-from-pakistan-s-two-major-coalition-parties-meet-in-london-but-fail-to-reach-an-agreement.xml)  
+
 ### [2008-05-10](/news/2008/05/10/index.md)
 
+##### Pakistan
 #  Negotiators from Pakistan's two major coalition parties meet in London, but fail to reach an agreement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://www.cnn.com/2008/WORLD/asiapcf/05/11/pakistan.judges.ap/index.html)
 

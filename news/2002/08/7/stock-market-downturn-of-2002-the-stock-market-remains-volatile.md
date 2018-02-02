@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/7/stock-market-downturn-of-2002-the-stock-market-remains-volatile.html)  [JSON](/news/2002/08/7/stock-market-downturn-of-2002-the-stock-market-remains-volatile.json)  [XML](/news/2002/08/7/stock-market-downturn-of-2002-the-stock-market-remains-volatile.xml)  
+
 ### [2002-08-7](/news/2002/08/7/index.md)
 
+##### Stock market downturn of 2002
 # Stock market downturn of 2002: The stock market remains volatile.
 
 

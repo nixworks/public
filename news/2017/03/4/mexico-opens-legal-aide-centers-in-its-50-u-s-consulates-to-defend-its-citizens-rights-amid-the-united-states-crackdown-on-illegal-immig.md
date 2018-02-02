@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/4/mexico-opens-legal-aide-centers-in-its-50-u-s-co
 
 ### [2017-03-4](/news/2017/03/4/index.md)
 
+##### Mexico-United States relations
 # Mexico opens legal aide centers in its 50 U.S. consulates to defend its citizens' rights amid the United States "crackdown" on illegal immigration. In a video, Foreign Minister Luis Videgaray Caso said Mexico supports following the law but notes that current circumstances highlight the need for immigration reform. 
 
 MIAMI — Not only is the Mexican government not building a wall; it’s spending $50 million to beef up its legal aid to migrants who fear deportation, a response to President Donald Trump’s crackdown on illegal immigration. All 50 Mexican consulates in the U.S. on launched legal assistance centers to form partnerships with nonprofit groups and tap lawyers to help those fearing Trump’s policies. The diplomatic effort comes as the two countries are in a rift over Trump’s plans for a border wall. While Trump says Mexico will pay for it one way or another, Mexico says it won’t. It was also unveiled less than two weeks after new guidelines came out aimed at aggressively detaining and deporting immigrants by increasing the number of federal agents and strengthening cooperation with local law

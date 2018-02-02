@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/19/former-enron-ceo-jeffrey-skilling-surrenders-to-the-fbi-in-houston-and-is-arraigned-on-charges-of-fraud-and-insider-trading-skilling-plead.html)  [JSON](/news/2004/02/19/former-enron-ceo-jeffrey-skilling-surrenders-to-the-fbi-in-houston-and-is-arraigned-on-charges-of-fraud-and-insider-trading-skilling-plead.json)  [XML](/news/2004/02/19/former-enron-ceo-jeffrey-skilling-surrenders-to-the-fbi-in-houston-and-is-arraigned-on-charges-of-fraud-and-insider-trading-skilling-plead.xml)  
+
 ### [2004-02-19](/news/2004/02/19/index.md)
 
+##### Enron
 #  Former Enron CEO Jeffrey Skilling surrenders to the FBI in Houston and is arraigned on charges of fraud and insider trading. Skilling pleads not guilty and the judge sets bail at $5 million and confiscates Skilling's passport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2004/02/19/news/companies/skilling/index.htm)
 

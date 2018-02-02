@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/01/4/air-canada-acquires-their-largest-rival-canadian-airlines.html)  [JSON](/news/2000/01/4/air-canada-acquires-their-largest-rival-canadian-airlines.json)  [XML](/news/2000/01/4/air-canada-acquires-their-largest-rival-canadian-airlines.xml)  
+
 ### [2000-01-4](/news/2000/01/4/index.md)
 
+##### Air Canada
 # Air Canada acquires their largest rival, Canadian Airlines.
 
 

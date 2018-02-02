@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/10/17/suspected-renamo-rebels-kill-7-mozambican-soldiers-in-an-ambush-near-gorongosa.html)  [JSON](/news/2013/10/17/suspected-renamo-rebels-kill-7-mozambican-soldiers-in-an-ambush-near-gorongosa.json)  [XML](/news/2013/10/17/suspected-renamo-rebels-kill-7-mozambican-soldiers-in-an-ambush-near-gorongosa.xml)  
+
 ### [2013-10-17](/news/2013/10/17/index.md)
 
+##### Renamo
 # Suspected Renamo rebels kill 7 Mozambican soldiers in an ambush near Gorongosa. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/10/17/us-mozambique-guerrillas-idUSBRE99G0UG20131017)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2013/10/17/us-mozambique-guerrillas-idUSBRE99G0UG20131017)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

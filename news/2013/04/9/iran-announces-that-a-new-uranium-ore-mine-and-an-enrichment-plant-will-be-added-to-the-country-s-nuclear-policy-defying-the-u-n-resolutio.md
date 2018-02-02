@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/9/iran-announces-that-a-new-uranium-ore-mine-and-an-enrichment-plant-will-be-added-to-the-country-s-nuclear-policy-defying-the-u-n-resolutio.html)  [JSON](/news/2013/04/9/iran-announces-that-a-new-uranium-ore-mine-and-an-enrichment-plant-will-be-added-to-the-country-s-nuclear-policy-defying-the-u-n-resolutio.json)  [XML](/news/2013/04/9/iran-announces-that-a-new-uranium-ore-mine-and-an-enrichment-plant-will-be-added-to-the-country-s-nuclear-policy-defying-the-u-n-resolutio.xml)  
+
 ### [2013-04-9](/news/2013/04/9/index.md)
 
+##### Iran
 # Iran announces that a new uranium ore mine and an enrichment plant will be added to the country's nuclear policy, defying the U.N. resolutions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/04/09/world/meast/iran-nuclear)
 

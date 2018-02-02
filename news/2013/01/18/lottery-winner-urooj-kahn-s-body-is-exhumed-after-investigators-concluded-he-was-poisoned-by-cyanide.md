@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/18/lottery-winner-urooj-kahn-s-body-is-exhumed-after-investigators-concluded-he-was-poisoned-by-cyanide.html)  [JSON](/news/2013/01/18/lottery-winner-urooj-kahn-s-body-is-exhumed-after-investigators-concluded-he-was-poisoned-by-cyanide.json)  [XML](/news/2013/01/18/lottery-winner-urooj-kahn-s-body-is-exhumed-after-investigators-concluded-he-was-poisoned-by-cyanide.xml)  
+
 ### [2013-01-18](/news/2013/01/18/index.md)
 
+##### cyanide
 # Lottery winner Urooj Kahn's body is exhumed after investigators concluded he was poisoned by cyanide. 
 
 Several helicopters hovered over Rosehill Cemetery on Chicago&apos;s North Side this morning as police prepared to exhume the body of Urooj Khan, a West Rogers Park man who died of cyanide poisoning last summer after winning a million-dollar lottery.
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/local/breaking/chi-cyanide-lottery-winner-poison-exhumation,0,2627635.story)
 1. [Cover Image](http://www.trbimg.com/img-50f99a1c/turbine/chi-cyanide-lottery-winner-poison-exhumation)

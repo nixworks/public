@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/2/the-first-49-of-a-promised-1-264-west-african-peacekeepers-arrive-at-abidjan-ivory-coast-to-help-supervise-the-cease-fire-between-the-gov.html)  [JSON](/news/2003/01/2/the-first-49-of-a-promised-1-264-west-african-peacekeepers-arrive-at-abidjan-ivory-coast-to-help-supervise-the-cease-fire-between-the-gov.json)  [XML](/news/2003/01/2/the-first-49-of-a-promised-1-264-west-african-peacekeepers-arrive-at-abidjan-ivory-coast-to-help-supervise-the-cease-fire-between-the-gov.xml)  
+
 ### [2003-01-2](/news/2003/01/2/index.md)
 
+##### Abidjan
 #  The first 49 of a promised 1,264 West African peacekeepers arrive at Abidjan, Ivory Coast, to help supervise the cease-fire between the government of President Laurent Gbagbo and the main rebel group, the Patriotic Movement of the Ivory Coast. Rebellion against the Gbagbo government began September 19, 2002. The Economic Community of West African States (ECOWAS) agreed to send peacekeepers on September 29. The EECOWAS peacekeepers will join 2,500 French forces. Rebel groups occupy the northern half of Ivory Coast.
 
 

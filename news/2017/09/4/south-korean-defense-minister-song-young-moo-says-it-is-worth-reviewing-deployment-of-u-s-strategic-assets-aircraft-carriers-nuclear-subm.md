@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/4/south-korean-defense-minister-song-young-moo-say
 
 ### [2017-09-4](/news/2017/09/4/index.md)
 
+##### 2017 North Korea crisis
 # South Korean Defense Minister Song Young-moo says it is worth reviewing deployment of U.S. strategic assets (aircraft carriers, nuclear submarines, and B-52 bombers) to South Korea more regularly. 
 
 President Trump and South Korean President Moon Jae-in have agreed to&nbsp;remove the limit on allowed payloads for South Korean missiles -- something Seoul had been pushing for.

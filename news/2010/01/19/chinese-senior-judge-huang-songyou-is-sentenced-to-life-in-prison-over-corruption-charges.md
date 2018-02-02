@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/19/chinese-senior-judge-huang-songyou-is-sentenced-to-life-in-prison-over-corruption-charges.html)  [JSON](/news/2010/01/19/chinese-senior-judge-huang-songyou-is-sentenced-to-life-in-prison-over-corruption-charges.json)  [XML](/news/2010/01/19/chinese-senior-judge-huang-songyou-is-sentenced-to-life-in-prison-over-corruption-charges.xml)  
+
 ### [2010-01-19](/news/2010/01/19/index.md)
 
+##### China
 # Chinese senior judge Huang Songyou is sentenced to life in prison over corruption charges. 
 
 Chinese court hands down life sentence to senior judge accused of taking bribes.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201011972937663444.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8467064.stm)

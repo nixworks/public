@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/26/a-saudi-woman-accused-of-attacking-and-torturing-her-indonesian-maid-last-month-in-a-case-that-strained-saudi-indonesia-relations-now-deni.html)  [JSON](/news/2010/12/26/a-saudi-woman-accused-of-attacking-and-torturing-her-indonesian-maid-last-month-in-a-case-that-strained-saudi-indonesia-relations-now-deni.json)  [XML](/news/2010/12/26/a-saudi-woman-accused-of-attacking-and-torturing-her-indonesian-maid-last-month-in-a-case-that-strained-saudi-indonesia-relations-now-deni.xml)  
+
 ### [2010-12-26](/news/2010/12/26/index.md)
 
+##### Saudi Arabia
 # A Saudi woman, accused of attacking and torturing her Indonesian maid last month in a case that strained Saudi-Indonesia relations, now denies the charges, claiming that the maid tortured herself because she was "not normal." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Asia One](http://news.asiaone.com/News/AsiaOne%2BNews/World/Story/A1Story20101226-254857.html)
 

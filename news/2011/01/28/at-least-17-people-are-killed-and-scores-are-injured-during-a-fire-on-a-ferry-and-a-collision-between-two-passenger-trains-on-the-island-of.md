@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/at-least-17-people-are-killed-and-scores-are-injured-during-a-fire-on-a-ferry-and-a-collision-between-two-passenger-trains-on-the-island-of.html)  [JSON](/news/2011/01/28/at-least-17-people-are-killed-and-scores-are-injured-during-a-fire-on-a-ferry-and-a-collision-between-two-passenger-trains-on-the-island-of.json)  [XML](/news/2011/01/28/at-least-17-people-are-killed-and-scores-are-injured-during-a-fire-on-a-ferry-and-a-collision-between-two-passenger-trains-on-the-island-of.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### Java
 # At least 17 people are killed and scores are injured during a fire on a ferry and a collision between two passenger trains on the island of Java in Indonesia. 
 
 A fire on a crowded Indonesian ferry and a collision between two passenger trains, leave at least 14 people dead and scores injured.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Asian Age](http://www.asianage.com/international/13-dead-after-indonesian-ferry-blaze-520)
 2. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/jan/28/indonesian-ferry-fire-java-island-sumatra)

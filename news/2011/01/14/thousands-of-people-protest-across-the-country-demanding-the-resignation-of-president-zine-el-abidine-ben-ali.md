@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/14/thousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-ali.html)  [JSON](/news/2011/01/14/thousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-ali.json)  [XML](/news/2011/01/14/thousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-ali.xml)  
+
 ### [2011-01-14](/news/2011/01/14/index.md)
 
+##### President
 # Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. 
 
 Thousands of demonstrators stage an unprecedented protest in the Tunisian capital, calling on President Zine al-Abidine Ben Ali to quit immediately.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://blogs.aljazeera.net/2011/01/14/tunisia-end-era)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/01/201111410345507518.html)
@@ -18,6 +22,13 @@ Thousands of demonstrators stage an unprecedented protest in the Tunisian capita
 9. [Voice of America](http://www.voanews.com/english/news/africa/Tunisian-President-Dismisses-Government-Amid-Protests-113607609.html)
 9. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
+### Changes:
+
+1. [2010-2011 Tunisian protests: Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010a2011-tunisian-protests-pthousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-al.md) _2017-05-25 03:33:03 (First version)_
+2. [2010-2011 Tunisian protests:Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010a2011-tunisian-protests-pthousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-ali.md) _2017-08-25 03:31:47 (Update)_
+3. [2010-2011 Tunisian protests:: Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010-2011-tunisian-protests-thousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-al.md) _2017-08-27 03:31:54 (Update)_
+3. [Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/thousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-ali.md) _(Current version)_
+
 ### Related:
 
 1. [Tunisia's Interior Minister Rafik Belhaj Kacem is sacked by President Zine El Abidine Ben Ali, who also orders the release of most people detained during recent unrest. ](/news/2011/01/12/tunisia-s-interior-minister-rafik-belhaj-kacem-is-sacked-by-president-zine-el-abidine-ben-ali-who-also-orders-the-release-of-most-people-de.md) _Context: President, Zine El Abidine Ben Ali_
@@ -25,10 +36,3 @@ Thousands of demonstrators stage an unprecedented protest in the Tunisian capita
 3. [2010 Tunisian protests: People ignore threats of "firm" punishment from Tunisian President Zine El Abidine Ben Ali and continue to protest over unemployment and poor living conditions. ](/news/2010/12/29/2010-tunisian-protests-people-ignore-threats-of-firm-punishment-from-tunisian-president-zine-el-abidine-ben-ali-and-continue-to-protest-o.md) _Context: President, Zine El Abidine Ben Ali_
 4. [2010 Tunisian protests: Protests in Tunisia over unemployment and poor living conditions are criticized by President Zine El Abidine Ben Ali during a national television broadcast; he warns of "firm" punishment. ](/news/2010/12/28/2010-tunisian-protests-protests-in-tunisia-over-unemployment-and-poor-living-conditions-are-criticized-by-president-zine-el-abidine-ben-ali.md) _Context: President, Zine El Abidine Ben Ali_
 5. [President of Tunisia Zine El Abidine Ben Ali reshuffles his government, making 11 ministerial changes including the appointment of new finance, defence, tourism and foreign affairs ministers, and sends his condolences to Haiti. ](/news/2010/01/15/president-of-tunisia-zine-el-abidine-ben-ali-reshuffles-his-government-making-11-ministerial-changes-including-the-appointment-of-new-finan.md) _Context: President, Zine El Abidine Ben Ali_
-
-### Changes:
-
-1. [2010-2011 Tunisian protests: Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010a2011-tunisian-protests-pthousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-al.md) _2017-05-25 03:33:03 (First version)_
-2. [2010-2011 Tunisian protests:Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010a2011-tunisian-protests-pthousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-ali.md) _2017-08-25 03:31:47 (Update)_
-3. [2010-2011 Tunisian protests:: Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/2010-2011-tunisian-protests-thousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-al.md) _2017-08-27 03:31:54 (Update)_
-3. [Thousands of people protest across the country demanding the resignation of President Zine El Abidine Ben Ali. ](/news/2011/01/14/thousands-of-people-protest-across-the-country-demanding-the-resignation-of-president-zine-el-abidine-ben-ali.md) _(Current version)_

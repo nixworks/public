@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/08/6/the-da-c-by-administration-of-chad-establishes-official-relations-with-the-people-s-republic-of-china-chad-had-recognized-the-republic-of-ch.html)  [JSON](/news/2006/08/6/the-da-c-by-administration-of-chad-establishes-official-relations-with-the-people-s-republic-of-china-chad-had-recognized-the-republic-of-ch.json)  [XML](/news/2006/08/6/the-da-c-by-administration-of-chad-establishes-official-relations-with-the-people-s-republic-of-china-chad-had-recognized-the-republic-of-ch.xml)  
+
 ### [2006-08-6](/news/2006/08/6/index.md)
 
+##### second Dby administration
 #  The Deby administration of Chad establishes official relations with the People's Republic of China. Chad had recognized the Republic of China (Taiwan) from 1997-2006. Chadian diplomats cited the prospects of greater financial investments and the PRC status in the United Nations Security Council as the principal factors motivating the diplomatic shift. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=aoRfM.l7U2u0)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601080&sid=aoRfM.l7U2u0)
 
 ### Related:
 

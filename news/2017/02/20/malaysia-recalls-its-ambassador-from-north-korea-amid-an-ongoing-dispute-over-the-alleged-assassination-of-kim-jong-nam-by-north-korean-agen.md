@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/20/malaysia-recalls-its-ambassador-from-north-kore
 
 ### [2017-02-20](/news/2017/02/20/index.md)
 
+##### Malaysia-North Korea relations
 # Malaysia recalls its ambassador from North Korea amid an ongoing dispute over the alleged assassination of Kim Jong-nam by North Korean agents in the country. 
 
 

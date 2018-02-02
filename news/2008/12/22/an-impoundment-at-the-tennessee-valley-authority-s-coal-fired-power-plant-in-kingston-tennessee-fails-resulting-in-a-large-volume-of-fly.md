@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/22/an-impoundment-at-the-tennessee-valley-authority-s-coal-fired-power-plant-in-kingston-tennessee-fails-resulting-in-a-large-volume-of-fly.html)  [JSON](/news/2008/12/22/an-impoundment-at-the-tennessee-valley-authority-s-coal-fired-power-plant-in-kingston-tennessee-fails-resulting-in-a-large-volume-of-fly.json)  [XML](/news/2008/12/22/an-impoundment-at-the-tennessee-valley-authority-s-coal-fired-power-plant-in-kingston-tennessee-fails-resulting-in-a-large-volume-of-fly.xml)  
+
 ### [2008-12-22](/news/2008/12/22/index.md)
 
+##### impoundment
 #  An impoundment at the Tennessee Valley Authority's coal-fired power plant in Kingston, Tennessee, fails, resulting in a large volume of fly ash slurry being spilled onto surrounding land and the adjacent Emory and Clinch Rivers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KnoxNews.com](http://www.knoxnews.com/news/2008/dec/23/tva-ash-pond-breach-resident-says-area-has-changed/)
 

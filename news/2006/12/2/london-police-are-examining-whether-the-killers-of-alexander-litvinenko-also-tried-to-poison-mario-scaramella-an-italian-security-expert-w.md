@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/2/london-police-are-examining-whether-the-killers-of-alexander-litvinenko-also-tried-to-poison-mario-scaramella-an-italian-security-expert-w.html)  [JSON](/news/2006/12/2/london-police-are-examining-whether-the-killers-of-alexander-litvinenko-also-tried-to-poison-mario-scaramella-an-italian-security-expert-w.json)  [XML](/news/2006/12/2/london-police-are-examining-whether-the-killers-of-alexander-litvinenko-also-tried-to-poison-mario-scaramella-an-italian-security-expert-w.xml)  
+
 ### [2006-12-2](/news/2006/12/2/index.md)
 
+##### London
 #  London police are examining whether the killers of Alexander Litvinenko also tried to poison Mario Scaramella, an Italian security expert who met the Russian exile on the day that he fell ill. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/article/0,,3-2482990,00.html#cid=OTC-RSS&attr=World)
 1. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)

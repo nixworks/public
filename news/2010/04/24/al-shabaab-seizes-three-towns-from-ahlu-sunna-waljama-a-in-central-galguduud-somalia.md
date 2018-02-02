@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/24/al-shabaab-seizes-three-towns-from-ahlu-sunna-waljama-a-in-central-galguduud-somalia.html)  [JSON](/news/2010/04/24/al-shabaab-seizes-three-towns-from-ahlu-sunna-waljama-a-in-central-galguduud-somalia.json)  [XML](/news/2010/04/24/al-shabaab-seizes-three-towns-from-ahlu-sunna-waljama-a-in-central-galguduud-somalia.xml)  
+
 ### [2010-04-24](/news/2010/04/24/index.md)
 
+##### Al-Shabab
 # al-Shabaab seizes three towns from Ahlu Sunna Waljama'a in central Galguduud, Somalia. 
 
 Al-Shabab forces pro-government group out of towns in central Galgudud region.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/201042452922967484.html)
 1. [Cover Image](http://www.aljazeera.com)

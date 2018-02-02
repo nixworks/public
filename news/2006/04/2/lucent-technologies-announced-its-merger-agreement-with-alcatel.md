@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/2/lucent-technologies-announced-its-merger-agreement-with-alcatel.html)  [JSON](/news/2006/04/2/lucent-technologies-announced-its-merger-agreement-with-alcatel.json)  [XML](/news/2006/04/2/lucent-technologies-announced-its-merger-agreement-with-alcatel.xml)  
+
 ### [2006-04-2](/news/2006/04/2/index.md)
 
+##### Lucent Technologies
 #  Lucent Technologies announced its merger agreement with Alcatel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/business/4870488.stm)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/01/27/european-leaders-remember-the-holocaust-with-the-61st-anniversary-of-the-liberation-of-the-auschwitz-death-camp.html)  [JSON](/news/2006/01/27/european-leaders-remember-the-holocaust-with-the-61st-anniversary-of-the-liberation-of-the-auschwitz-death-camp.json)  [XML](/news/2006/01/27/european-leaders-remember-the-holocaust-with-the-61st-anniversary-of-the-liberation-of-the-auschwitz-death-camp.xml)  
+
 ### [2006-01-27](/news/2006/01/27/index.md)
 
+##### Holocaust
 #  European leaders remember the Holocaust, with the 61st anniversary of the liberation of the Auschwitz death camp. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo!](http://news.yahoo.com/fc/World/Holocaust/)
+1. [Yahoo!](https://news.yahoo.com/fc/World/Holocaust/)
 
 ### Related:
 

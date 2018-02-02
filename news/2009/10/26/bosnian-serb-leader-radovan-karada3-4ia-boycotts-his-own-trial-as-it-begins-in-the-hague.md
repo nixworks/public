@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/26/bosnian-serb-leader-radovan-karada3-4ia-boycotts-his-own-trial-as-it-begins-in-the-hague.html)  [JSON](/news/2009/10/26/bosnian-serb-leader-radovan-karada3-4ia-boycotts-his-own-trial-as-it-begins-in-the-hague.json)  [XML](/news/2009/10/26/bosnian-serb-leader-radovan-karada3-4ia-boycotts-his-own-trial-as-it-begins-in-the-hague.xml)  
+
 ### [2009-10-26](/news/2009/10/26/index.md)
 
+##### Bosnian
 #  Bosnian Serb leader Radovan Karadzic boycotts his own trial as it begins in The Hague. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8325096.stm)
 2. [The Australian](http://www.theaustralian.news.com.au/story/0,25197,26263309-2703,00.html)

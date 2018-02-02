@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/07/6/the-ghana-national-football-team-are-to-receive-national-awards-after-their-success-at-the-2010-fifa-world-cup-while-former-un-secretary-ge.html)  [JSON](/news/2010/07/6/the-ghana-national-football-team-are-to-receive-national-awards-after-their-success-at-the-2010-fifa-world-cup-while-former-un-secretary-ge.json)  [XML](/news/2010/07/6/the-ghana-national-football-team-are-to-receive-national-awards-after-their-success-at-the-2010-fifa-world-cup-while-former-un-secretary-ge.xml)  
+
 ### [2010-07-6](/news/2010/07/6/index.md)
 
+##### Ghana national football team
 # The Ghana national football team are to receive national awards after their success at the 2010 FIFA World Cup, while former UN Secretary-General Kofi Annan writes of his heartbreak. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/index.php?from=rss_News&set_id=1&click_id=79&art_id=nw20100706204429791C637000)
-2. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/07/06/AR2010070603352.html)
+2. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/07/06/AR2010070603352.html)
 
 ### Related:
 

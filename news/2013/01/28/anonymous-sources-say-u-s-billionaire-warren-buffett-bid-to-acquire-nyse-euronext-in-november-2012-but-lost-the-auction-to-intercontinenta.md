@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/01/28/anonymous-sources-say-u-s-billionaire-warren-buffett-bid-to-acquire-nyse-euronext-in-november-2012-but-lost-the-auction-to-intercontinenta.html)  [JSON](/news/2013/01/28/anonymous-sources-say-u-s-billionaire-warren-buffett-bid-to-acquire-nyse-euronext-in-november-2012-but-lost-the-auction-to-intercontinenta.json)  [XML](/news/2013/01/28/anonymous-sources-say-u-s-billionaire-warren-buffett-bid-to-acquire-nyse-euronext-in-november-2012-but-lost-the-auction-to-intercontinenta.xml)  
+
 ### [2013-01-28](/news/2013/01/28/index.md)
 
+##### U.S.
 # Anonymous sources say U.S. billionaire Warren Buffett bid to acquire NYSE Euronext in November 2012, but lost the auction to IntercontinentalExchange. 
 
 Warren Buffett made a bid to acquire New York Stock Exchange operator NYSE Euronext NYX.N last November, but his offer was less than one already on the table from IntercontinentalExchange Inc (ICE.N), two people familiar with the matter said.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/01/28/us-berkshire-nyse-idUSBRE90R0QP20130128)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130128&t=2&i=698530696&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90R19DW00)
+1. [Reuters](https://www.reuters.com/article/2013/01/28/us-berkshire-nyse-idUSBRE90R0QP20130128)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130128&t=2&i=698530696&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE90R19DW00)
 
 ### Related:
 

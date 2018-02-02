@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/19/the-u-s-consumer-product-safety-commission-orde
 
 ### [2016-02-19](/news/2016/02/19/index.md)
 
+##### U.S. Consumer Product Safety Commission
 # The U.S. Consumer Product Safety Commission orders manufacturers of self-balancing scooters (hoverboards) to ensure their products meet safety standards or face recall, or seizure at ports. CPSC Chairman Elliot Kaye tells NBC News no hoverboard currently on the market meets these standards. 
 
 &quot;Consumers risk serious injury or death if their self-balancing scooters ignite and burn,&quot; the Consumer Product Safety Commission says.Never mind that

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/30/the-israeli-supreme-court-rules-that-reservists-may-not-refuse-to-serve-in-the-west-bank-or-gaza-because-of-their-objection-to-israeli-gover.html)  [JSON](/news/2002/12/30/the-israeli-supreme-court-rules-that-reservists-may-not-refuse-to-serve-in-the-west-bank-or-gaza-because-of-their-objection-to-israeli-gover.json)  [XML](/news/2002/12/30/the-israeli-supreme-court-rules-that-reservists-may-not-refuse-to-serve-in-the-west-bank-or-gaza-because-of-their-objection-to-israeli-gover.xml)  
+
 ### [2002-12-30](/news/2002/12/30/index.md)
 
+##### Israel
 # The Israeli Supreme Court rules that reservists may not refuse to serve in the West Bank or Gaza because of their objection to Israeli government policies. The Court ruled "the recognition of selective conscientious objection might loosen the links that hold us together as a people."
 
 

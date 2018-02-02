@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/10/blind-chinese-activist-chen-guangcheng-says-in-a-secretly-shot-video-that-he-is-still-under-house-arrest-after-being-released-from-prison.html)  [JSON](/news/2011/02/10/blind-chinese-activist-chen-guangcheng-says-in-a-secretly-shot-video-that-he-is-still-under-house-arrest-after-being-released-from-prison.json)  [XML](/news/2011/02/10/blind-chinese-activist-chen-guangcheng-says-in-a-secretly-shot-video-that-he-is-still-under-house-arrest-after-being-released-from-prison.xml)  
+
 ### [2011-02-10](/news/2011/02/10/index.md)
 
+##### China
 # Blind Chinese activist Chen Guangcheng says, in a secretly shot video, that he is still under house arrest after being released from prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gh_YBnc-TUxyrqZm5_xBJy-JjYhg?docId=CNG.458a0d151f257d778da027d14bf85c6b.c1)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12413660)

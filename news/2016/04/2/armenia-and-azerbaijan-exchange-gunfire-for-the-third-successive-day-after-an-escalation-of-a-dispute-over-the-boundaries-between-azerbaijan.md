@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/2/armenia-and-azerbaijan-exchange-gunfire-for-the-
 
 ### [2016-04-2](/news/2016/04/2/index.md)
 
+##### Armenian-Azerbaijani border conflict
 # Armenia and Azerbaijan exchange gunfire for the third successive day after an escalation of a dispute over the boundaries between Azerbaijan and the disputed Nagorno-Karabakh Republic. 
 
 Hostilities on the border of the disputed Nagorno-Karabakh region with Azerbaijan flared up overnight, with reports of gun and mortar fire, as well as casualties on both sides. Azeri and Armenian Defense Ministries accused each other of provoking the escalation.

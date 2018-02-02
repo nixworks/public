@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/2/conflict-in-iraq-at-least-15-people-have-died-following-a-series-of-insurgent-attacks-throughout-iraq.html)  [JSON](/news/2005/08/2/conflict-in-iraq-at-least-15-people-have-died-following-a-series-of-insurgent-attacks-throughout-iraq.json)  [XML](/news/2005/08/2/conflict-in-iraq-at-least-15-people-have-died-following-a-series-of-insurgent-attacks-throughout-iraq.xml)  
+
 ### [2005-08-2](/news/2005/08/2/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: At least 15 people have died following a series of insurgent attacks throughout Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4739063.stm)
 

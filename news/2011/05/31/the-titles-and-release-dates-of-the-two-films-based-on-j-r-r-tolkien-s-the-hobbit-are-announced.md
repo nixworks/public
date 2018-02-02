@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/31/the-titles-and-release-dates-of-the-two-films-based-on-j-r-r-tolkien-s-the-hobbit-are-announced.html)  [JSON](/news/2011/05/31/the-titles-and-release-dates-of-the-two-films-based-on-j-r-r-tolkien-s-the-hobbit-are-announced.json)  [XML](/news/2011/05/31/the-titles-and-release-dates-of-the-two-films-based-on-j-r-r-tolkien-s-the-hobbit-are-announced.xml)  
+
 ### [2011-05-31](/news/2011/05/31/index.md)
 
+##### J. R. R. Tolkien
 # The titles and release dates of the two films based on J. R. R. Tolkien's "The Hobbit" are announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13599286)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53074000/jpg/_53074553_martin.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/30/in-egypt-thousands-of-demonstrators-protest-against-the-fifth-term-of-president-hosni-mubarak-despite-of-the-ban-on-protests-there-are-co.html)  [JSON](/news/2005/03/30/in-egypt-thousands-of-demonstrators-protest-against-the-fifth-term-of-president-hosni-mubarak-despite-of-the-ban-on-protests-there-are-co.json)  [XML](/news/2005/03/30/in-egypt-thousands-of-demonstrators-protest-against-the-fifth-term-of-president-hosni-mubarak-despite-of-the-ban-on-protests-there-are-co.xml)  
+
 ### [2005-03-30](/news/2005/03/30/index.md)
 
+##### Egypt
 #  In Egypt, thousands of demonstrators protest against the fifth term of president Hosni Mubarak despite of the ban on protests. There are conflicting reports on the number of protesters police has detained 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/171BDC44-DC05-49A0-A166-4955206ECF2E.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4394915.stm)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal
 
 ### [2017-11-8](/news/2017/11/8/index.md)
 
+##### Syrian Civil War
 # The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. 
 
 The Syrian army, fighting alongside Lebanon&#39;s Hezbollah, has seized the last urban hub held by the &quot;Islamic State&quot; in Syria. With IS effectively wiped out, the war in Syria may enter a new phase.

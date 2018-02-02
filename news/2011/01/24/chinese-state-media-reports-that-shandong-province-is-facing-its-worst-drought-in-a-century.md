@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/24/chinese-state-media-reports-that-shandong-province-is-facing-its-worst-drought-in-a-century.html)  [JSON](/news/2011/01/24/chinese-state-media-reports-that-shandong-province-is-facing-its-worst-drought-in-a-century.json)  [XML](/news/2011/01/24/chinese-state-media-reports-that-shandong-province-is-facing-its-worst-drought-in-a-century.xml)  
+
 ### [2011-01-24](/news/2011/01/24/index.md)
 
+##### China
 # Chinese state media reports that Shandong province is facing its worst drought in a century. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/idINTOE70N0220110124)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

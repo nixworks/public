@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/28/vietnam-accuses-the-people-s-republic-of-china-of-violating-its-sovereignty-after-chinese-ships-damaged-a-petrovietnam-boat-in-the-dispute.html)  [JSON](/news/2011/05/28/vietnam-accuses-the-people-s-republic-of-china-of-violating-its-sovereignty-after-chinese-ships-damaged-a-petrovietnam-boat-in-the-dispute.json)  [XML](/news/2011/05/28/vietnam-accuses-the-people-s-republic-of-china-of-violating-its-sovereignty-after-chinese-ships-damaged-a-petrovietnam-boat-in-the-dispute.xml)  
+
 ### [2011-05-28](/news/2011/05/28/index.md)
 
+##### Vietnam
 # Vietnam accuses the People's Republic of China of "violating" its sovereignty after Chinese ships damaged a Petrovietnam boat in the disputed Spratly Islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1131749/1/.html)
 

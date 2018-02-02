@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/5/israel-releases-the-mv-mavi-marmara-the-aid-ship-which-it-impounded-after-killing-nine-activists-during-may-s-gaza-flotilla-raid.html)  [JSON](/news/2010/08/5/israel-releases-the-mv-mavi-marmara-the-aid-ship-which-it-impounded-after-killing-nine-activists-during-may-s-gaza-flotilla-raid.json)  [XML](/news/2010/08/5/israel-releases-the-mv-mavi-marmara-the-aid-ship-which-it-impounded-after-killing-nine-activists-during-may-s-gaza-flotilla-raid.xml)  
+
 ### [2010-08-5](/news/2010/08/5/index.md)
 
+##### Israel
 # Israel releases the MV "Mavi Marmara", the aid ship which it impounded after killing nine activists during May's Gaza flotilla raid. 
 
 Israel releases an impounded Turkish aid ship on which nine activists were killed as they tried to break the Gaza blockade two months ago.
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/middleeast/article96124.ece)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10883060)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/17/an-italian-court-sentences-former-prime-minister-giulio-andreotti-to-24-years-in-prison-for-complicity-in-the-1979-contract-killing-murder-o.html)  [JSON](/news/2002/11/17/an-italian-court-sentences-former-prime-minister-giulio-andreotti-to-24-years-in-prison-for-complicity-in-the-1979-contract-killing-murder-o.json)  [XML](/news/2002/11/17/an-italian-court-sentences-former-prime-minister-giulio-andreotti-to-24-years-in-prison-for-complicity-in-the-1979-contract-killing-murder-o.xml)  
+
 ### [2002-11-17](/news/2002/11/17/index.md)
 
+##### Italian Prime Minister
 # An Italian court sentences former Prime Minister Giulio Andreotti to 24 years in prison for complicity in the 1979 contract killing murder of journalist Mino Pecorelli.
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/09/16/the-election-commission-of-pakistan-amends-presidential-election-rules-1988-ahead-of-the-elections-so-that-article-63-of-the-constitution-n.html)  [JSON](/news/2007/09/16/the-election-commission-of-pakistan-amends-presidential-election-rules-1988-ahead-of-the-elections-so-that-article-63-of-the-constitution-n.json)  [XML](/news/2007/09/16/the-election-commission-of-pakistan-amends-presidential-election-rules-1988-ahead-of-the-elections-so-that-article-63-of-the-constitution-n.xml)  
+
 ### [2007-09-16](/news/2007/09/16/index.md)
 
+##### Election Commission
 #  The Election Commission of Pakistan amends Presidential Election Rules 1988 ahead of the elections so that Article 63 of the Constitution no longer applies to the President. 
 
 
@@ -7,8 +11,8 @@
 
 ### Related:
 
-1. [ In Chile, the Senate reforms the country's constitution, decreasing power of the military in the upper house and reducing the presidential term for four years. The previous constitution is from the era of Augusto Pinochet. ](/news/2005/07/13/in-chile-the-senate-reforms-the-country-s-constitution-decreasing-power-of-the-military-in-the-upper-house-and-reducing-the-presidential.md) _Context: President, constitution_
-2. [Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-registration-data-from-president-d.md) _Context: President_
-3. [President Recep Tayyip Erdogan proclaims Turkey's right to launch operations in Syria against "terrorist organizations." Prime Minister Ahmet Davutoglu tells reporters, "The only thing we expect from our U.S. ally is to support Turkey with no ifs or buts." ](/news/2016/02/20/president-recep-tayyip-erdoaan-proclaims-turkey-s-right-to-launch-operations-in-syria-against-aterrorist-organizations-a-prime-minister.md) _Context: President_
-4. [The Obama Administration through the United States State Department expresses deep frustration over the lack of democratic progress in Thailand after last year's military coup, saying a new constitution there won't pass the "smell test" unless civil society helps to draft it. ](/news/2015/11/19/the-obama-administration-through-the-united-states-state-department-expresses-deep-frustration-over-the-lack-of-democratic-progress-in-thail.md) _Context: constitution_
-5. [The president of Zimbabwe, Robert Mugabe, is awarded the Confucius Peace Prize, sometimes characterized as a Chinese alternative to the Nobel Peace Prize. ](/news/2015/10/23/the-president-of-zimbabwe-robert-mugabe-is-awarded-the-confucius-peace-prize-sometimes-characterized-as-a-chinese-alternative-to-the-nobe.md) _Context: President_
+1. [Numerous U.S. states, including California, Mississippi, Kentucky and New York, reject requests for voter registration data from President Donald Trump's voter fraud commission. ](/news/2017/07/1/numerous-u-s-states-including-california-mississippi-kentucky-and-new-york-reject-requests-for-voter-registration-data-from-president-d.md) _Context: President_
+2. [President Recep Tayyip Erdogan proclaims Turkey's right to launch operations in Syria against "terrorist organizations." Prime Minister Ahmet Davutoglu tells reporters, "The only thing we expect from our U.S. ally is to support Turkey with no ifs or buts." ](/news/2016/02/20/president-recep-tayyip-erdoaan-proclaims-turkey-s-right-to-launch-operations-in-syria-against-aterrorist-organizations-a-prime-minister.md) _Context: President_
+3. [U.S. Secretary of State John Kerry met today in Berlin with Israeli Prime Minister Benjamin Netanyahu regarding the recent spate of violence between Palestinians and Israelis. Kerry will meet on Saturday with Palestinian President Mahmoud Abbas and King Abdullah of Jordan in Amman. ](/news/2015/10/22/u-s-secretary-of-state-john-kerry-met-today-in-berlin-with-israeli-prime-minister-benjamin-netanyahu-regarding-the-recent-spate-of-violence.md) _Context: President_
+4. [Syrian uprising:The Syrian government says that the revolt against the regime of President Bashar al-Assad has ended, but it will still keep soldiers inside cities, "for security". ](/news/2012/03/30/syrian-uprising-the-syrian-government-says-that-the-revolt-against-the-regime-of-president-bashar-al-assad-has-ended-but-it-will-still-keep.md) _Context: President_
+5. [President Goodluck Jonathan of Nigeria wins the presidential election held on 16 April. ](/news/2011/04/20/president-goodluck-jonathan-of-nigeria-wins-the-presidential-election-held-on-16-april.md) _Context: President_

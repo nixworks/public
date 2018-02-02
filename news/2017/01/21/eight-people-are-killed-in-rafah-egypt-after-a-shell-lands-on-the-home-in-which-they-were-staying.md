@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/21/eight-people-are-killed-in-rafah-egypt-after-a-
 
 ### [2017-01-21](/news/2017/01/21/index.md)
 
+##### Rafah
 # Eight people are killed in Rafah, Egypt, after a shell lands on the home in which they were staying. 
 
  Eight people were killed on Saturday after a shell landed on a house in southern Rafah, in the north of Sinai, eye witnesses and medical sources said.

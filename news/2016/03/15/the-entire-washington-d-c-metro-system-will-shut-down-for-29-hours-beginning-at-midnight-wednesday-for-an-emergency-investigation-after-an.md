@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/15/the-entire-washington-d-c-metro-system-will-shu
 
 ### [2016-03-15](/news/2016/03/15/index.md)
 
+##### Metro system
 # The entire Washington D.C. Metro system will shut down for 29 hours beginning at midnight Wednesday for an emergency investigation after an electric cable caught fire on Monday. 
 
 Hundreds of thousands of commuters, visitors and residents of Washington, D.C., are searching for travel alternatives Wednesday after the entire D.C. Metrorail system was shutdown for an emergency safety...

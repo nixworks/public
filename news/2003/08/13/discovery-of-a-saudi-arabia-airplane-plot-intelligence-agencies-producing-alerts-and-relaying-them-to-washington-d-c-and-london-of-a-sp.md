@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/13/discovery-of-a-saudi-arabia-airplane-plot-intelligence-agencies-producing-alerts-and-relaying-them-to-washington-d-c-and-london-of-a-sp.html)  [JSON](/news/2003/08/13/discovery-of-a-saudi-arabia-airplane-plot-intelligence-agencies-producing-alerts-and-relaying-them-to-washington-d-c-and-london-of-a-sp.json)  [XML](/news/2003/08/13/discovery-of-a-saudi-arabia-airplane-plot-intelligence-agencies-producing-alerts-and-relaying-them-to-washington-d-c-and-london-of-a-sp.xml)  
+
 ### [2003-08-13](/news/2003/08/13/index.md)
 
+##### Saudi Arabia
 #  Discovery of a Saudi Arabia airplane plot. Intelligence agencies producing alerts and relaying them to Washington, D.C., and London of a specific threat to airlines flying around Riyadh international airport. The plan to shoot down a British Airways plane was discovered after a member of the plot drove his car through a checkpoint in Riyadh. In response to the threat BA cancels all flights to Saudi Arabia until further notice. The United States issues a travel alert for Saudi Arabia citing the threat of terrorism including potential attacks against civil aviation.
 
 

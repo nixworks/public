@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/4/danny-boyle-and-nicholas-serota-write-a-letter-criticising-the-decision-by-a-tower-hamlets-london-borough-council-to-sell-the-henry-moore-sc.html)  [JSON](/news/2012/11/4/danny-boyle-and-nicholas-serota-write-a-letter-criticising-the-decision-by-a-tower-hamlets-london-borough-council-to-sell-the-henry-moore-sc.json)  [XML](/news/2012/11/4/danny-boyle-and-nicholas-serota-write-a-letter-criticising-the-decision-by-a-tower-hamlets-london-borough-council-to-sell-the-henry-moore-sc.xml)  
+
 ### [2012-11-4](/news/2012/11/4/index.md)
 
+##### Danny Boyle
 # Danny Boyle and Nicholas Serota write a letter criticising the decision by a Tower Hamlets London Borough Council to sell the Henry Moore sculpture "Draped Seated Woman". Moore sold the sculpture at a fraction of its market value in the 1960s on the understanding that it would be displayed in a public space in a socially deprived area. 
 
 The Oscar-winning film-maker joins leading arts figures to write a letter protesting the sale of a Henry Moore sculpture by a London council.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-20197610)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63316000/jpg/_63316243_141293314.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/5/syrian-president-bashar-al-assad-has-said-his-country-can-play-a-major-role-in-international-efforts-to-end-the-civil-war-in-iraq.html)  [JSON](/news/2007/02/5/syrian-president-bashar-al-assad-has-said-his-country-can-play-a-major-role-in-international-efforts-to-end-the-civil-war-in-iraq.json)  [XML](/news/2007/02/5/syrian-president-bashar-al-assad-has-said-his-country-can-play-a-major-role-in-international-efforts-to-end-the-civil-war-in-iraq.xml)  
+
 ### [2007-02-5](/news/2007/02/5/index.md)
 
+##### Syria
 #  Syrian President Bashar al-Assad has said his country can play a major role in international efforts to end the Civil war in Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6332479.stm)
 

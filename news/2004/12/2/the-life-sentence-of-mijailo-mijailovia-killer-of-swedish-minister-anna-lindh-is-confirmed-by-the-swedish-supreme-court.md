@@ -1,16 +1,19 @@
+
+Formats: [HTML](/news/2004/12/2/the-life-sentence-of-mijailo-mijailovia-killer-of-swedish-minister-anna-lindh-is-confirmed-by-the-swedish-supreme-court.html)  [JSON](/news/2004/12/2/the-life-sentence-of-mijailo-mijailovia-killer-of-swedish-minister-anna-lindh-is-confirmed-by-the-swedish-supreme-court.json)  [XML](/news/2004/12/2/the-life-sentence-of-mijailo-mijailovia-killer-of-swedish-minister-anna-lindh-is-confirmed-by-the-swedish-supreme-court.xml)  
+
 ### [2004-12-2](/news/2004/12/2/index.md)
 
+##### Mijailo Mijailovic
 #  The life sentence of Mijailo Mijailovic, killer of Swedish minister Anna Lindh, is confirmed by the Swedish Supreme Court. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4060967.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aE5CanNpxpkE&refer=europe)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6974846)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000085&sid=aE5CanNpxpkE&refer=europe)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6974846)
 
 ### Related:
 

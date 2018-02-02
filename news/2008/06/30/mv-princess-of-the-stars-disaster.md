@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/06/30/mv-princess-of-the-stars-disaster.html)  [JSON](/news/2008/06/30/mv-princess-of-the-stars-disaster.json)  [XML](/news/2008/06/30/mv-princess-of-the-stars-disaster.xml)  
+
 ### [2008-06-30](/news/2008/06/30/index.md)
 
+##### MV ''Princess of the Stars
 #  MV "Princess of the Stars" disaster:
 
 

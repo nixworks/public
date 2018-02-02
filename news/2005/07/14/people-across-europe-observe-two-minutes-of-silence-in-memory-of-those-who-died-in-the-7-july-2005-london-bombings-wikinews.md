@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/07/14/people-across-europe-observe-two-minutes-of-silence-in-memory-of-those-who-died-in-the-7-july-2005-london-bombings-wikinews.html)  [JSON](/news/2005/07/14/people-across-europe-observe-two-minutes-of-silence-in-memory-of-those-who-died-in-the-7-july-2005-london-bombings-wikinews.json)  [XML](/news/2005/07/14/people-across-europe-observe-two-minutes-of-silence-in-memory-of-those-who-died-in-the-7-july-2005-london-bombings-wikinews.xml)  
+
 ### [2005-07-14](/news/2005/07/14/index.md)
 
+##### 7 July
 #  People across Europe observe two minutes of silence in memory of those who died in the 7 July 2005 London bombings. (Wikinews)
 
 

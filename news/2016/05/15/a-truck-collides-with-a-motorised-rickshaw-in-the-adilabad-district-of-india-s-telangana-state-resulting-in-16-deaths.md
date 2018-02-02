@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/05/15/a-truck-collides-with-a-motorised-rickshaw-in-the-adilabad-district-of-india-s-telangana-state-resulting-in-16-deaths.html)  [JSON](/news/2016/05/15/a-truck-collides-with-a-motorised-rickshaw-in-the-adilabad-district-of-india-s-telangana-state-resulting-in-16-deaths.json)  [XML](/news/2016/05/15/a-truck-collides-with-a-motorised-rickshaw-in-the-adilabad-district-of-india-s-telangana-state-resulting-in-16-deaths.xml)  
+
 ### [2016-05-15](/news/2016/05/15/index.md)
 
+##### rickshaw
 # A truck collides with a motorised rickshaw in the Adilabad district of India's Telangana state resulting in 16 deaths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia_pacific/truck-rickshaw-collision-in-southern-india-kills-16-people/2016/05/15/489288a2-1a5c-11e6-971a-dadf9ab18869_story.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/22/german-interior-minister-thomas-de-maizia-re-st
 
 ### [2016-02-22](/news/2016/02/22/index.md)
 
+##### European migrant crisis
 # German Interior Minister Thomas de Maiziere strongly criticizes Austria's decision to put a daily cap on the number of refugees the country can accept. Austria has set a limit of dealing with 80 asylum applications a day, while letting thousands of others transit to Germany. Maiziere said this sends "the wrong signal" and is "unacceptable". 
 
 Austria&#x27;s decision to only accept 80 asylum seekers a day while letting thousands of others transit through sends &quot;the wrong signal&quot; and is &quot;unacceptable&quot;, German Interior Minister Thomas de Maiziere said Sunday. Berlin fears many of these migrants are heading straight for Germany

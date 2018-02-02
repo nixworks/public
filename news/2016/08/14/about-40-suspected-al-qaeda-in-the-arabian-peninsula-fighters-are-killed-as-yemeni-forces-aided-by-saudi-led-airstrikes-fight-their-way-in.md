@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/14/about-40-suspected-al-qaeda-in-the-arabian-peni
 
 ### [2016-08-14](/news/2016/08/14/index.md)
 
+##### Yemeni Civil War
 # About 40 suspected Al-Qaeda in the Arabian Peninsula fighters are killed as Yemeni forces, aided by Saudi-led airstrikes, fight their way into Zinjibar and Ja'ar in eastern Yemen. 
 
 Yemeni army forces backed by Arab coalition aircraft killed about 40 suspected al Qaeda fighters on Sunday as they fought their way into two militant strongholds in eastern Yemen, a local official and residents said.

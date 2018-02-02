@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/11/general-motors-announces-that-it-will-be-closing-its-australian-holden-manufacturing-subsidiary-by-the-end-of-2017.html)  [JSON](/news/2013/12/11/general-motors-announces-that-it-will-be-closing-its-australian-holden-manufacturing-subsidiary-by-the-end-of-2017.json)  [XML](/news/2013/12/11/general-motors-announces-that-it-will-be-closing-its-australian-holden-manufacturing-subsidiary-by-the-end-of-2017.xml)  
+
 ### [2013-12-11](/news/2013/12/11/index.md)
 
+##### General Motors
 # General Motors announces that it will be closing its Australian Holden manufacturing subsidiary by the end of 2017. 
 
 THE Australian car industry is all but dead and South Australia is in shock following confirmation that Holden will cease production after more than 60 years.
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/finance/business/gm-to-name-mary-barra-ceo-as-holden-decision-nears/story-fnda1bsz-1226780247370)
 1. [Cover Image](http://api.news.com.au/content/1.0/newscomau/images/1226781004145?format=jpg)

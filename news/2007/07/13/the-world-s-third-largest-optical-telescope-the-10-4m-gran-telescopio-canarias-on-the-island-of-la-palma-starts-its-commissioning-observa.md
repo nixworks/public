@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/13/the-world-s-third-largest-optical-telescope-the-10-4m-gran-telescopio-canarias-on-the-island-of-la-palma-starts-its-commissioning-observa.html)  [JSON](/news/2007/07/13/the-world-s-third-largest-optical-telescope-the-10-4m-gran-telescopio-canarias-on-the-island-of-la-palma-starts-its-commissioning-observa.json)  [XML](/news/2007/07/13/the-world-s-third-largest-optical-telescope-the-10-4m-gran-telescopio-canarias-on-the-island-of-la-palma-starts-its-commissioning-observa.xml)  
+
 ### [2007-07-13](/news/2007/07/13/index.md)
 
+##### Gran Telescopio Canarias
 #  The world's third largest optical telescope, the 10.4m Gran Telescopio Canarias on the island of La Palma, starts its commissioning observations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/6897293.stm)
 2. [The Guardian](http://www.guardian.co.uk/space/article/0,,2125289,00.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/17/a-three-man-crew-lands-safely-after-four-months-in-the-international-space-station.html)  [JSON](/news/2012/09/17/a-three-man-crew-lands-safely-after-four-months-in-the-international-space-station.json)  [XML](/news/2012/09/17/a-three-man-crew-lands-safely-after-four-months-in-the-international-space-station.xml)  
+
 ### [2012-09-17](/news/2012/09/17/index.md)
 
+##### International Space Station
 # A three-man crew lands safely after four months in the International Space Station. 
 
 International three-man crew onboard a Russian-made Soyuz capsule has touched down successfully in the central Kazakhstan.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/science/2012/09/16/us-russian-trio-lands-in-kazakhstan-after-time-in-space-station/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/science/2012/09/16/us-russian-trio-lands-in-kazakhstan-after-time-in-space-station/_jcr_content/par/featured-media/media-1.img.jpg/0/0/1421987001590.jpg?ve=1)

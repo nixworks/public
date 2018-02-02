@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/8/russian-armed-forces-claim-that-chechen-separatist-leader-aslan-maskhadov-has-been-killed-in-a-special-forces-operation.html)  [JSON](/news/2005/03/8/russian-armed-forces-claim-that-chechen-separatist-leader-aslan-maskhadov-has-been-killed-in-a-special-forces-operation.json)  [XML](/news/2005/03/8/russian-armed-forces-claim-that-chechen-separatist-leader-aslan-maskhadov-has-been-killed-in-a-special-forces-operation.xml)  
+
 ### [2005-03-8](/news/2005/03/8/index.md)
 
+##### Russia
 #  Russian armed forces claim that Chechen separatist leader Aslan Maskhadov has been killed in a special forces operation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4849827,00.html)
 

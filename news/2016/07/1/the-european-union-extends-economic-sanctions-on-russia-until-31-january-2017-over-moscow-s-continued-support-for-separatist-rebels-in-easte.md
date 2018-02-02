@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/1/the-european-union-extends-economic-sanctions-on
 
 ### [2016-07-1](/news/2016/07/1/index.md)
 
+##### Russia-European Union relations
 # The European Union extends economic sanctions on Russia until 31 January 2017 over Moscow's continued support for separatist rebels in eastern Ukraine. 
 
 The European Union on Friday extended its economic sanctions on Russia until the end of January next year in a widely expected decision after EU leaders called for more progress in bringing peace to eastern Ukraine.

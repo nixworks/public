@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/16/an-explosion-of-the-hunga-tonga-submerged-volcano-in-the-south-pacific-ocean-near-nuku-alofa-tonga-disrupts-air-travel-and-creates-a-one.html)  [JSON](/news/2015/01/16/an-explosion-of-the-hunga-tonga-submerged-volcano-in-the-south-pacific-ocean-near-nuku-alofa-tonga-disrupts-air-travel-and-creates-a-one.json)  [XML](/news/2015/01/16/an-explosion-of-the-hunga-tonga-submerged-volcano-in-the-south-pacific-ocean-near-nuku-alofa-tonga-disrupts-air-travel-and-creates-a-one.xml)  
+
 ### [2015-01-16](/news/2015/01/16/index.md)
 
+##### Hunga Tonga
 # An explosion of the Hunga Tonga submerged volcano in the South Pacific Ocean, near Nuku'alofa, Tonga, disrupts air travel and creates a one-kilometer new island. 
 
 Check out this video of a volcanic eruption in Tonga that caused big travel problems.
 
 
-### Source:
+### Sources:
 
 1. [Discovery News](http://news.discovery.com/earth/weather-extreme-events/tongan-volcano-creates-new-island-150117.htm)
 2. [Radio Australia](http://www.radioaustralia.net.au/international/radio/program/pacific-beat/tongan-volcano-forms-new-island/1407213)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/08/27/nearly-1-000-detainees-at-the-abu-ghraib-prison-are-released-this-week-at-the-request-of-the-iraqi-government-the-largest-number-of-prison.html)  [JSON](/news/2005/08/27/nearly-1-000-detainees-at-the-abu-ghraib-prison-are-released-this-week-at-the-request-of-the-iraqi-government-the-largest-number-of-prison.json)  [XML](/news/2005/08/27/nearly-1-000-detainees-at-the-abu-ghraib-prison-are-released-this-week-at-the-request-of-the-iraqi-government-the-largest-number-of-prison.xml)  
+
 ### [2005-08-27](/news/2005/08/27/index.md)
 
+##### Abu Ghraib prison
 #  Nearly 1,000 detainees at the Abu Ghraib prison are released this week at the request of the Iraqi Government, the largest number of prisoners freed since the start of the war. 
 
 

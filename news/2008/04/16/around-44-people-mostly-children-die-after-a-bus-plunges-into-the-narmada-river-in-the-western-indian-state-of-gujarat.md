@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/16/around-44-people-mostly-children-die-after-a-bus-plunges-into-the-narmada-river-in-the-western-indian-state-of-gujarat.html)  [JSON](/news/2008/04/16/around-44-people-mostly-children-die-after-a-bus-plunges-into-the-narmada-river-in-the-western-indian-state-of-gujarat.json)  [XML](/news/2008/04/16/around-44-people-mostly-children-die-after-a-bus-plunges-into-the-narmada-river-in-the-western-indian-state-of-gujarat.xml)  
+
 ### [2008-04-16](/news/2008/04/16/index.md)
 
+##### Narmada River
 #  Around 44 people, mostly children, die after a bus plunges into the Narmada River in the western Indian state of Gujarat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7349795.stm)
 

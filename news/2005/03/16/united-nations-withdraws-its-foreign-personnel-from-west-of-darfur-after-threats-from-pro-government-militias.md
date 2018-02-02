@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/03/16/united-nations-withdraws-its-foreign-personnel-from-west-of-darfur-after-threats-from-pro-government-militias.html)  [JSON](/news/2005/03/16/united-nations-withdraws-its-foreign-personnel-from-west-of-darfur-after-threats-from-pro-government-militias.json)  [XML](/news/2005/03/16/united-nations-withdraws-its-foreign-personnel-from-west-of-darfur-after-threats-from-pro-government-militias.xml)  
+
 ### [2005-03-16](/news/2005/03/16/index.md)
 
+##### United Nations
 #  United Nations withdraws its foreign personnel from west of Darfur after threats from pro-government militias. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200503160826.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/4354933.stm)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7924401)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7924401)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

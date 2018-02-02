@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/12/2/prime-minister-of-somalia-abdi-farah-shirdon-is-voted-out-of-office-by-the-federal-parliament-of-somalia-from-a-vote-of-184-65.html)  [JSON](/news/2013/12/2/prime-minister-of-somalia-abdi-farah-shirdon-is-voted-out-of-office-by-the-federal-parliament-of-somalia-from-a-vote-of-184-65.json)  [XML](/news/2013/12/2/prime-minister-of-somalia-abdi-farah-shirdon-is-voted-out-of-office-by-the-federal-parliament-of-somalia-from-a-vote-of-184-65.xml)  
+
 ### [2013-12-2](/news/2013/12/2/index.md)
 
+##### Prime Minister of Somalia
 # Prime Minister of Somalia Abdi Farah Shirdon is voted out of office by the Federal Parliament of Somalia from a vote of 184-65. 
 
 A “constitutional dispute” between President Hassan Sheik Mohamud and Prime Minister Abdi Farah Shirdon resulted in a no-confidence vote.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2013/12/03/world/africa/somali-parliament-votes-to-remove-prime-minister.html?_r=0)
+1. [The New York Times](https://www.nytimes.com/2013/12/03/world/africa/somali-parliament-votes-to-remove-prime-minister.html?_r=0)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

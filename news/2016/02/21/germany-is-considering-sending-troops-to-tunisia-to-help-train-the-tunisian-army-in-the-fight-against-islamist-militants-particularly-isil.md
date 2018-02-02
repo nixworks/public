@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/21/germany-is-considering-sending-troops-to-tunisi
 
 ### [2016-02-21](/news/2016/02/21/index.md)
 
+##### Insurgency in the Maghreb (2002-present)
 # Germany is considering sending troops to Tunisia to help train the Tunisian Army in the fight against Islamist militants, particularly ISIL who control territory in neighboring Libya. 
 
 

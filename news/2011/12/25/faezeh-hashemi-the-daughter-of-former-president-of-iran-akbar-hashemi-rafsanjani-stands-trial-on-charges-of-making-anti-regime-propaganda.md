@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/25/faezeh-hashemi-the-daughter-of-former-president-of-iran-akbar-hashemi-rafsanjani-stands-trial-on-charges-of-making-anti-regime-propaganda.html)  [JSON](/news/2011/12/25/faezeh-hashemi-the-daughter-of-former-president-of-iran-akbar-hashemi-rafsanjani-stands-trial-on-charges-of-making-anti-regime-propaganda.json)  [XML](/news/2011/12/25/faezeh-hashemi-the-daughter-of-former-president-of-iran-akbar-hashemi-rafsanjani-stands-trial-on-charges-of-making-anti-regime-propaganda.xml)  
+
 ### [2011-12-25](/news/2011/12/25/index.md)
 
+##### Faezeh Hashemi
 # Faezeh Hashemi, the daughter of former President of Iran Akbar Hashemi Rafsanjani, stands trial on charges of making anti-regime propaganda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yahoo Maktoob](http://en-maktoob.news.yahoo.com/daughter-iran-ex-president-rafsanjani-trial-070924636.html)
 

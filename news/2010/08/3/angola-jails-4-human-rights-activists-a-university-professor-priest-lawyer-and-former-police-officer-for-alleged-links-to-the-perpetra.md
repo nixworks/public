@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/angola-jails-4-human-rights-activists-a-university-professor-priest-lawyer-and-former-police-officer-for-alleged-links-to-the-perpetra.html)  [JSON](/news/2010/08/3/angola-jails-4-human-rights-activists-a-university-professor-priest-lawyer-and-former-police-officer-for-alleged-links-to-the-perpetra.json)  [XML](/news/2010/08/3/angola-jails-4-human-rights-activists-a-university-professor-priest-lawyer-and-former-police-officer-for-alleged-links-to-the-perpetra.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Angola
 # Angola jails 4 human rights activists - a university professor, priest, lawyer and former police officer - for alleged links to the perpetrators of the Togo national football team attack; Amnesty International and other organisations describe it as a crackdown on criticism. 
 
 Angola sentences four human rights activists for reported links with a separatist group which carried out an attack on the Togolese football team in January.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/20108315102504923.html)
 2. [BBC News](http://www.bbc.co.uk/news/world-africa-10857125)

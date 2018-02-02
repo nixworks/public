@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/18/three-policemen-and-one-civilian-are-killed-in-
 
 ### [2016-07-18](/news/2016/07/18/index.md)
 
+##### policemen
 # Three policemen and one civilian are killed in Almaty, Kazakhstan, in an attack on a police station by a radical Islamist. One gunman is reportedly still at large. 
 
 At least five people were killed and nine injured in a suspected Islamist attack on a police station in Almaty, Kazakhstan’s largest city. President Nursultan Nazarbaev has announced that it was a terror act.
@@ -24,4 +25,4 @@ At least five people were killed and nine injured in a suspected Islamist attack
 2. [Around 1,000 people stage a rare public protest in the Kazakh city of Atyrau, rallying against the government's decision to sell land in auctions amid a heavy police presence, though they did not forcibly disperse the rally. ](/news/2016/04/24/around-1-000-people-stage-a-rare-public-protest-in-the-kazakh-city-of-atyrau-rallying-against-the-government-s-decision-to-sell-land-in-auc.md) _Context: Kazakhstan, policemen_
 3. [A Bombardier CRJ200 airliner operated by SCAT Air crashes near the Kazakh city of Almaty, killing all 15 passengers and 5 crew people on board. ](/news/2013/01/29/a-bombardier-crj200-airliner-operated-by-scat-air-crashes-near-the-kazakh-city-of-almaty-killing-all-15-passengers-and-5-crew-people-on-boa.md) _Context: Almaty, Kazakhstan_
 4. [The Syrian consulate in Almaty, Kazakhstan, is seriously damaged by a fire which its staff blame on an arson attack. ](/news/2012/07/17/the-syrian-consulate-in-almaty-kazakhstan-is-seriously-damaged-by-a-fire-which-its-staff-blame-on-an-arson-attack.md) _Context: Almaty, Kazakhstan_
-5. [France's nuclear safety institute (IRSN) picks up traces of ruthenium-106, suggesting a nuclear accident took place in either Russia or Kazakhstan, in late September and early October. ](/news/2017/11/10/france-s-nuclear-safety-institute-irsn-picks-up-traces-of-ruthenium-106-suggesting-a-nuclear-accident-took-place-in-either-russia-or-kaza.md) _Context: Kazakhstan_
+5. [A bus carrying Uzbek migrant workers catches fire in Kazakhstan's Aktobe Region, killing 52 people. Five people escape and are treated by rescue workers. ](/news/2018/01/18/a-bus-carrying-uzbek-migrant-workers-catches-fire-in-kazakhstan-s-aktobe-region-killing-52-people-five-people-escape-and-are-treated-by-re.md) _Context: Kazakhstan_

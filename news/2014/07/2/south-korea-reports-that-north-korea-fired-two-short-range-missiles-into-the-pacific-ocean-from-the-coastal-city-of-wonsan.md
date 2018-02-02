@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/2/south-korea-reports-that-north-korea-fired-two-short-range-missiles-into-the-pacific-ocean-from-the-coastal-city-of-wonsan.html)  [JSON](/news/2014/07/2/south-korea-reports-that-north-korea-fired-two-short-range-missiles-into-the-pacific-ocean-from-the-coastal-city-of-wonsan.json)  [XML](/news/2014/07/2/south-korea-reports-that-north-korea-fired-two-short-range-missiles-into-the-pacific-ocean-from-the-coastal-city-of-wonsan.xml)  
+
 ### [2014-07-2](/news/2014/07/2/index.md)
 
+##### Wonsan
 # South Korea reports that North Korea fired two short range missiles into the Pacific Ocean from the coastal city of Wonsan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_KOREAS_TENSIONS?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

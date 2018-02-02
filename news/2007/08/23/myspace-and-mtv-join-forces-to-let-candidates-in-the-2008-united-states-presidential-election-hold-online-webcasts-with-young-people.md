@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/23/myspace-and-mtv-join-forces-to-let-candidates-in-the-2008-united-states-presidential-election-hold-online-webcasts-with-young-people.html)  [JSON](/news/2007/08/23/myspace-and-mtv-join-forces-to-let-candidates-in-the-2008-united-states-presidential-election-hold-online-webcasts-with-young-people.json)  [XML](/news/2007/08/23/myspace-and-mtv-join-forces-to-let-candidates-in-the-2008-united-states-presidential-election-hold-online-webcasts-with-young-people.xml)  
+
 ### [2007-08-23](/news/2007/08/23/index.md)
 
+##### MySpace
 #  MySpace and MTV join forces to let candidates in the 2008 United States presidential election hold online webcasts with young people. 
 
 The Age 404 Page
 
 
-### Source:
+### Sources:
 
 1. [AFP via the Melbourne Age](http://www.theage.com.au/news/Technology/US-presidential-candidates-to-chat-with-youths-on-MySpaceMTV/2007/08/23/1187462430010.html)
 1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)

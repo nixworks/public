@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/17/four-employees-for-the-national-democratic-institute-a-u-s-think-tank-are-killed-when-their-convoy-is-ambushed-in-baghdad.html)  [JSON](/news/2007/01/17/four-employees-for-the-national-democratic-institute-a-u-s-think-tank-are-killed-when-their-convoy-is-ambushed-in-baghdad.json)  [XML](/news/2007/01/17/four-employees-for-the-national-democratic-institute-a-u-s-think-tank-are-killed-when-their-convoy-is-ambushed-in-baghdad.xml)  
+
 ### [2007-01-17](/news/2007/01/17/index.md)
 
+##### National Democratic Institute
 #  Four employees for the National Democratic Institute, a U.S. think tank, are killed when their convoy is ambushed in Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dow Jones Online](http://www.nasdaq.com/aspxcontent/NewsStory.aspx?cpath=20070117%5cACQDJON200701171500DOWJONESDJONLINE000893.htm&)
 1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)

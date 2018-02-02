@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/09/25/the-u-s-government-urges-a-judge-to-dismiss-a-lawsuit-which-challenges-an-american-targeted-killing-program-which-is-currently-hunting-an-a.html)  [JSON](/news/2010/09/25/the-u-s-government-urges-a-judge-to-dismiss-a-lawsuit-which-challenges-an-american-targeted-killing-program-which-is-currently-hunting-an-a.json)  [XML](/news/2010/09/25/the-u-s-government-urges-a-judge-to-dismiss-a-lawsuit-which-challenges-an-american-targeted-killing-program-which-is-currently-hunting-an-a.xml)  
+
 ### [2010-09-25](/news/2010/09/25/index.md)
 
+##### American targeted killing program
 # The U.S. government urges a judge to dismiss a lawsuit which challenges an American targeted killing program which is currently hunting an American citizen who has no charges brought against him. 
 
 The Obama administration on Saturday urged a federal judge to reject a challenge to a program that targets for killing U.S. citizens like Muslim cleric Anwar al-Awlaki who have joined militant groups and have been tied to terrorism plots.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE68O0EV20100925)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSTRE68O0EV20100925)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

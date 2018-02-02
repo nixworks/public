@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2005/04/22/medtronic-inc-paid-us-1-35-billion-to-settle-a-patent-lawsuit-and-also-to-acquire-disputed-spine-surgery-related-patents-from-gary-k-mi.html)  [JSON](/news/2005/04/22/medtronic-inc-paid-us-1-35-billion-to-settle-a-patent-lawsuit-and-also-to-acquire-disputed-spine-surgery-related-patents-from-gary-k-mi.json)  [XML](/news/2005/04/22/medtronic-inc-paid-us-1-35-billion-to-settle-a-patent-lawsuit-and-also-to-acquire-disputed-spine-surgery-related-patents-from-gary-k-mi.xml)  
+
 ### [2005-04-22](/news/2005/04/22/index.md)
 
-#  Medtronic, Inc. paid US$ 1.35 billion to settle a patent lawsuit and also to acquire disputed spine surgery-related patents from Gary K. Michelson. [http:--www.nytimes.com-2005-04-23-business-23medronic.html]
+##### Medtronic
+#  Medtronic, Inc. paid US$ 1.35 billion to settle a patent lawsuit and also to acquire disputed spine surgery-related patents from Gary K. Michelson. [https:--www.nytimes.com-2005-04-23-business-23medronic.html]
 
 
 
@@ -8,7 +12,7 @@
 ### Related:
 
 1. [Google agrees to pay $7 millions to settle a privacy lawsuit over the handling of wireless data. ](/news/2013/03/12/google-agrees-to-pay-7-millions-to-settle-a-privacy-lawsuit-over-the-handling-of-wireless-data.md) _Context: US$, lawsuit_
-2. [Spain plans to sue leading members of the Catalan Parliament over the proposed independence referendum in Catalonia. ](/news/2017/09/7/spain-plans-to-sue-leading-members-of-the-catalan-parliament-over-the-proposed-independence-referendum-in-catalonia.md) _Context: lawsuit_
-3. [Philippine Justice secretary Vitaliano Aguirre is caught allegedly conspiring a lawsuit against opposition Senator Risa Hontiveros. ](/news/2017/09/11/philippine-justice-secretary-vitaliano-aguirre-is-caught-allegedly-conspiring-a-lawsuit-against-opposition-senator-risa-hontiveros.md) _Context: lawsuit_
-4. [Raytheon wins the dismissal of a USD$1 billion whistleblower lawsuit accusing the defense contractor of over billing the U.S. government on a contract for satellite sensors, nearly 18 months after the United States Court of Appeals for the Ninth Circuit revived the case. ](/news/2017/08/3/raytheon-wins-the-dismissal-of-a-usd-1-billion-whistleblower-lawsuit-accusing-the-defense-contractor-of-over-billing-the-u-s-government-on.md) _Context: lawsuit_
-5. [Apple Inc. and Nokia agree to increase their partnership after settling a patent dispute. ](/news/2017/05/23/apple-inc-and-nokia-agree-to-increase-their-partnership-after-settling-a-patent-dispute.md) _Context: patent_
+2. [Munich Re reports that the insurance industry faces record claims of US$135 billion from natural catastrophes, such as the Mexico earthquakes, South Asian floods, California wildfires and Atlantic hurricanes in 2017. Overall economic losses from natural disasters are estimated at the second highest amount since 2011. ](/news/2018/01/4/munich-re-reports-that-the-insurance-industry-faces-record-claims-of-us-135-billion-from-natural-catastrophes-such-as-the-mexico-earthquake.md) _Context: US$_
+3. [The United States will pay Boeing nearly US$24 million to replace two of the five 27-year-old chiller units on Air Force One, customized to carry 70 cubic feet of refrigerated storage for about 3,000 meals. ](/news/2018/01/27/the-united-states-will-pay-boeing-nearly-us-24-million-to-replace-two-of-the-five-27-year-old-chiller-units-on-air-force-one-customized-to.md) _Context: US$_
+4. ["Salvator Mundi", a painting generally attributed to Leonardo da Vinci, is sold at auction Christie's in New York City for US$450.3 million; setting a new record for the sale of an original work of art. ](/news/2017/11/15/salvator-mundi-a-painting-generally-attributed-to-leonardo-da-vinci-is-sold-at-auction-christie-s-in-new-york-city-for-us-450-3-million.md) _Context: US$_
+5. [Boeing announces at the Dubai Airshow that the airline Emirates will purchase forty 787 Dreamliners with a list value of US$15 billion. ](/news/2017/11/12/boeing-announces-at-the-dubai-airshow-that-the-airline-emirates-will-purchase-forty-787-dreamliners-with-a-list-value-of-us-15-billion.md) _Context: US$_

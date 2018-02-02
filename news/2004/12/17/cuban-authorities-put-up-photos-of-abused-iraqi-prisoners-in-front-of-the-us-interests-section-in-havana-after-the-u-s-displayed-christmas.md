@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/17/cuban-authorities-put-up-photos-of-abused-iraqi-prisoners-in-front-of-the-us-interests-section-in-havana-after-the-u-s-displayed-christmas.html)  [JSON](/news/2004/12/17/cuban-authorities-put-up-photos-of-abused-iraqi-prisoners-in-front-of-the-us-interests-section-in-havana-after-the-u-s-displayed-christmas.json)  [XML](/news/2004/12/17/cuban-authorities-put-up-photos-of-abused-iraqi-prisoners-in-front-of-the-us-interests-section-in-havana-after-the-u-s-displayed-christmas.xml)  
+
 ### [2004-12-17](/news/2004/12/17/index.md)
 
+##### Cuba
 #  Cuban authorities put up photos of abused Iraqi prisoners in front of the US interests section in Havana after the U.S. displayed Christmas decorations in a protest against Cuba's human rights record. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4105673.stm)
 

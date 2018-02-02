@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/24/disgruntled-former-soldiers-and-government-troops-clash-in-east-timor-leading-to-at-least-two-deaths-in-dili-australians-evacuate-as-viol.html)  [JSON](/news/2006/05/24/disgruntled-former-soldiers-and-government-troops-clash-in-east-timor-leading-to-at-least-two-deaths-in-dili-australians-evacuate-as-viol.json)  [XML](/news/2006/05/24/disgruntled-former-soldiers-and-government-troops-clash-in-east-timor-leading-to-at-least-two-deaths-in-dili-australians-evacuate-as-viol.xml)  
+
 ### [2006-05-24](/news/2006/05/24/index.md)
 
+##### East Timorese army
 #  Disgruntled former soldiers and government troops clash in East Timor, leading to at least two deaths in Dili. Australians evacuate as violence escalates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/05/24/timor.tension.ap/)
 2. [CNN](http://edition.cnn.com/2006/WORLD/asiapcf/05/24/timor.tension/)

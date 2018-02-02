@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/25/maoists-set-off-a-landmine-on-a-bus-carrying-officials-near-dumka-jharkhand-india-killing-3-people-and-injuring-another-10.html)  [JSON](/news/2014/04/25/maoists-set-off-a-landmine-on-a-bus-carrying-officials-near-dumka-jharkhand-india-killing-3-people-and-injuring-another-10.json)  [XML](/news/2014/04/25/maoists-set-off-a-landmine-on-a-bus-carrying-officials-near-dumka-jharkhand-india-killing-3-people-and-injuring-another-10.xml)  
+
 ### [2014-04-25](/news/2014/04/25/index.md)
 
+##### Maoists
 # Maoists set off a landmine on a bus carrying officials near Dumka, Jharkhand, India, killing 3 people and injuring another 10. 
 
 Authorities in the Indian state of Jharkhand hunt those behind a Maoist rebel attack which killed three election officials and five policemen.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-27153670)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/74434000/jpg/_74434360_74434359.jpg)

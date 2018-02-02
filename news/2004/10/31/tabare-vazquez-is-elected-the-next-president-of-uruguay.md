@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/31/tabare-vazquez-is-elected-the-next-president-of-uruguay.html)  [JSON](/news/2004/10/31/tabare-vazquez-is-elected-the-next-president-of-uruguay.json)  [XML](/news/2004/10/31/tabare-vazquez-is-elected-the-next-president-of-uruguay.xml)  
+
 ### [2004-10-31](/news/2004/10/31/index.md)
 
+##### Tabar Vzquez
 #  Tabar Vzquez is elected the next president of Uruguay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters UK](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=worldNews&storyID=612902&section=news)
 

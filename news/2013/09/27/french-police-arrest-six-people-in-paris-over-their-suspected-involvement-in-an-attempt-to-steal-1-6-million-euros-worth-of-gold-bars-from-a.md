@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/09/27/french-police-arrest-six-people-in-paris-over-their-suspected-involvement-in-an-attempt-to-steal-1-6-million-euros-worth-of-gold-bars-from-a.html)  [JSON](/news/2013/09/27/french-police-arrest-six-people-in-paris-over-their-suspected-involvement-in-an-attempt-to-steal-1-6-million-euros-worth-of-gold-bars-from-a.json)  [XML](/news/2013/09/27/french-police-arrest-six-people-in-paris-over-their-suspected-involvement-in-an-attempt-to-steal-1-6-million-euros-worth-of-gold-bars-from-a.xml)  
+
 ### [2013-09-27](/news/2013/09/27/index.md)
 
+##### French police
 # French police arrest six people in Paris over their suspected involvement in an attempt to steal 1.6 million euros worth of gold bars from an Air France plane on September 19. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo! News](http://news.yahoo.com/france-arrest-six-over-gold-theft-air-france-085627303.html)
+1. [Yahoo! News](https://news.yahoo.com/france-arrest-six-over-gold-theft-air-france-085627303.html)
 
 ### Related:
 

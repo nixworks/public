@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/12/combat-between-the-government-and-the-islamic-courts-union-kills-at-least-123-people-in-mogadishu-somalia.html)  [JSON](/news/2009/05/12/combat-between-the-government-and-the-islamic-courts-union-kills-at-least-123-people-in-mogadishu-somalia.json)  [XML](/news/2009/05/12/combat-between-the-government-and-the-islamic-courts-union-kills-at-least-123-people-in-mogadishu-somalia.xml)  
+
 ### [2009-05-12](/news/2009/05/12/index.md)
 
+##### declares
 #  Combat between the government and the Islamic Courts Union kills at least 123 people in Mogadishu, Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8045491.stm)
 

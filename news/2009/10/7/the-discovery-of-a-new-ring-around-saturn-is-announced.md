@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/7/the-discovery-of-a-new-ring-around-saturn-is-announced.html)  [JSON](/news/2009/10/7/the-discovery-of-a-new-ring-around-saturn-is-announced.json)  [XML](/news/2009/10/7/the-discovery-of-a-new-ring-around-saturn-is-announced.xml)  
+
 ### [2009-10-7](/news/2009/10/7/index.md)
 
+##### new ring
 #  The discovery of a new ring around Saturn is announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8291905.stm)
 2. [NASA](http://www.nasa.gov/mission_pages/spitzer/news/spitzer-20091006.html)

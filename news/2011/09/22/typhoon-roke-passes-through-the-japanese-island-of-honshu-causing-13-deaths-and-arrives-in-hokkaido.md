@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/22/typhoon-roke-passes-through-the-japanese-island-of-honshu-causing-13-deaths-and-arrives-in-hokkaido.html)  [JSON](/news/2011/09/22/typhoon-roke-passes-through-the-japanese-island-of-honshu-causing-13-deaths-and-arrives-in-hokkaido.json)  [XML](/news/2011/09/22/typhoon-roke-passes-through-the-japanese-island-of-honshu-causing-13-deaths-and-arrives-in-hokkaido.xml)  
+
 ### [2011-09-22](/news/2011/09/22/index.md)
 
+##### Typhoon Roke
 # Typhoon Roke passes through the Japanese island of Honshu, causing 13 deaths, and arrives in Hokkaido. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/powerful-typhoon-headed-japan-disaster-zone-14569171)
 

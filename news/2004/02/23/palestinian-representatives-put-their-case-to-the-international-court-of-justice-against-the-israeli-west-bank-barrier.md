@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/23/palestinian-representatives-put-their-case-to-the-international-court-of-justice-against-the-israeli-west-bank-barrier.html)  [JSON](/news/2004/02/23/palestinian-representatives-put-their-case-to-the-international-court-of-justice-against-the-israeli-west-bank-barrier.json)  [XML](/news/2004/02/23/palestinian-representatives-put-their-case-to-the-international-court-of-justice-against-the-israeli-west-bank-barrier.xml)  
+
 ### [2004-02-23](/news/2004/02/23/index.md)
 
+##### Palestinian
 #  Palestinian representatives put their case to the International Court of Justice against the Israeli West Bank barrier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3512255.stm)
 

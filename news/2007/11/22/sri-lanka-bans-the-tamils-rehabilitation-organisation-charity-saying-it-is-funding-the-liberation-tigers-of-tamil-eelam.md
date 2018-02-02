@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/22/sri-lanka-bans-the-tamils-rehabilitation-organisation-charity-saying-it-is-funding-the-liberation-tigers-of-tamil-eelam.html)  [JSON](/news/2007/11/22/sri-lanka-bans-the-tamils-rehabilitation-organisation-charity-saying-it-is-funding-the-liberation-tigers-of-tamil-eelam.json)  [XML](/news/2007/11/22/sri-lanka-bans-the-tamils-rehabilitation-organisation-charity-saying-it-is-funding-the-liberation-tigers-of-tamil-eelam.xml)  
+
 ### [2007-11-22](/news/2007/11/22/index.md)
 
+##### Sri Lanka
 #  Sri Lanka bans the Tamils Rehabilitation Organisation charity, saying it "is funding the Liberation Tigers of Tamil Eelam". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7107846.stm)
 

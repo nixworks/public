@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/14/ugandan-president-yoweri-museveni-declares-a-week-long-truce-with-the-lord-s-resistance-army-starting-monday.html)  [JSON](/news/2004/11/14/ugandan-president-yoweri-museveni-declares-a-week-long-truce-with-the-lord-s-resistance-army-starting-monday.json)  [XML](/news/2004/11/14/ugandan-president-yoweri-museveni-declares-a-week-long-truce-with-the-lord-s-resistance-army-starting-monday.xml)  
+
 ### [2004-11-14](/news/2004/11/14/index.md)
 
+##### Uganda
 #  Ugandan President Yoweri Museveni declares a week-long truce with the Lord's Resistance Army starting Monday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4011669.stm)
 

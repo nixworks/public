@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/26/the-hong-kong-election-committee-meets-to-selec
 
 ### [2017-03-26](/news/2017/03/26/index.md)
 
+##### Hong Kong Chief Executive election, 2017
 # The Hong Kong Election Committee meets to select a new Chief Executive. Carrie Lam becomes the first female Chief Executive. 
 
 A committee will decide Hong Kong&rsquo;s new leader on Sunday in the first chief executive election since mass protests brought the city to a standstill in 2014.

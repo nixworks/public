@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/10/recent-violence-in-haiti-has-spread-as-anti-government-forces-take-control-of-eight-towns-in-western-haiti-46-people-are-dead-thus-far-go.html)  [JSON](/news/2004/02/10/recent-violence-in-haiti-has-spread-as-anti-government-forces-take-control-of-eight-towns-in-western-haiti-46-people-are-dead-thus-far-go.json)  [XML](/news/2004/02/10/recent-violence-in-haiti-has-spread-as-anti-government-forces-take-control-of-eight-towns-in-western-haiti-46-people-are-dead-thus-far-go.xml)  
+
 ### [2004-02-10](/news/2004/02/10/index.md)
 
+##### Haiti
 #  Recent violence in Haiti has spread as anti-government forces take control of eight towns in Western Haiti. 46 people are dead thus far. Government forces in Cap-Hatien (second largest city in Haiti) built flaming barricades to keep the rebel forces out of the city. The United Nations urges Haitians on both sides to stop the violence.
 
 

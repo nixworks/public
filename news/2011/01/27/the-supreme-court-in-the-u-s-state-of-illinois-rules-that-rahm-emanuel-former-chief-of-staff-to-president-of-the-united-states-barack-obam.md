@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/01/27/the-supreme-court-in-the-u-s-state-of-illinois-rules-that-rahm-emanuel-former-chief-of-staff-to-president-of-the-united-states-barack-obam.html)  [JSON](/news/2011/01/27/the-supreme-court-in-the-u-s-state-of-illinois-rules-that-rahm-emanuel-former-chief-of-staff-to-president-of-the-united-states-barack-obam.json)  [XML](/news/2011/01/27/the-supreme-court-in-the-u-s-state-of-illinois-rules-that-rahm-emanuel-former-chief-of-staff-to-president-of-the-united-states-barack-obam.xml)  
+
 ### [2011-01-27](/news/2011/01/27/index.md)
 
+##### Supreme Court
 # The Supreme Court in the U.S. state of Illinois rules that Rahm Emanuel, former Chief of Staff to President of the United States Barack Obama, is eligible to run for Mayor of Chicago. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2011/01/28/us/politics/28chicago.html?_r=1&hp)
+1. [The New York Times](https://www.nytimes.com/2011/01/28/us/politics/28chicago.html?_r=1&hp)
+1. [Cover Image](http://graphics8.nytimes.com/images/2011/01/28/us/28chicago3_337/28chicago3_337-thumbStandard.jpg)
 
 ### Related:
 

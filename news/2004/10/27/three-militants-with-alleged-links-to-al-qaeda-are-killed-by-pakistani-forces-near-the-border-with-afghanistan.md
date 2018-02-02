@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/10/27/three-militants-with-alleged-links-to-al-qaeda-are-killed-by-pakistani-forces-near-the-border-with-afghanistan.html)  [JSON](/news/2004/10/27/three-militants-with-alleged-links-to-al-qaeda-are-killed-by-pakistani-forces-near-the-border-with-afghanistan.json)  [XML](/news/2004/10/27/three-militants-with-alleged-links-to-al-qaeda-are-killed-by-pakistani-forces-near-the-border-with-afghanistan.xml)  
+
 ### [2004-10-27](/news/2004/10/27/index.md)
 
+##### militant
 #  Three militants with alleged links to al-Qaeda are killed by Pakistani forces near the border with Afghanistan. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6625878)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6625878)
 
 ### Related:
 

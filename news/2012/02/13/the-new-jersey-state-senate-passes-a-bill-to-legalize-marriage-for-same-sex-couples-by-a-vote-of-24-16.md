@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/13/the-new-jersey-state-senate-passes-a-bill-to-legalize-marriage-for-same-sex-couples-by-a-vote-of-24-16.html)  [JSON](/news/2012/02/13/the-new-jersey-state-senate-passes-a-bill-to-legalize-marriage-for-same-sex-couples-by-a-vote-of-24-16.json)  [XML](/news/2012/02/13/the-new-jersey-state-senate-passes-a-bill-to-legalize-marriage-for-same-sex-couples-by-a-vote-of-24-16.xml)  
+
 ### [2012-02-13](/news/2012/02/13/index.md)
 
+##### New Jersey
 # The New Jersey state Senate passes a bill to legalize marriage for same-sex couples by a vote of 24-16. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NJ Today](http://njtoday.net/2012/02/13/nj-senate-passes-marriage-equality-bill/#ixzz1mJoAsyq5)
 

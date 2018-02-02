@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/03/19/the-prime-minister-of-canada-stephen-harper-releases-a-budget-forecasting-a-surplus-of-c-3-3-billion-and-offers-tax-cuts-for-families-and.html)  [JSON](/news/2007/03/19/the-prime-minister-of-canada-stephen-harper-releases-a-budget-forecasting-a-surplus-of-c-3-3-billion-and-offers-tax-cuts-for-families-and.json)  [XML](/news/2007/03/19/the-prime-minister-of-canada-stephen-harper-releases-a-budget-forecasting-a-surplus-of-c-3-3-billion-and-offers-tax-cuts-for-families-and.xml)  
+
 ### [2007-03-19](/news/2007/03/19/index.md)
 
+##### Prime Minister of Canada
 #  The Prime Minister of Canada Stephen Harper releases a budget forecasting a surplus of C$3.3 billion, and offers tax cuts for families and seniors and increased spending in Ontario and Quebec with the possibility of an election later this year. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601082&sid=aUR0GDtrL720&refer=canada)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601082&sid=aUR0GDtrL720&refer=canada)
 
 ### Related:
 

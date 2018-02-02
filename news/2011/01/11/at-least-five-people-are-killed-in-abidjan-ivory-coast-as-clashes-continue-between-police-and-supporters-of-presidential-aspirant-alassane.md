@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/11/at-least-five-people-are-killed-in-abidjan-ivory-coast-as-clashes-continue-between-police-and-supporters-of-presidential-aspirant-alassane.html)  [JSON](/news/2011/01/11/at-least-five-people-are-killed-in-abidjan-ivory-coast-as-clashes-continue-between-police-and-supporters-of-presidential-aspirant-alassane.json)  [XML](/news/2011/01/11/at-least-five-people-are-killed-in-abidjan-ivory-coast-as-clashes-continue-between-police-and-supporters-of-presidential-aspirant-alassane.xml)  
+
 ### [2011-01-11](/news/2011/01/11/index.md)
 
+##### Abidjan
 # At least five people are killed in Abidjan, Ivory Coast, as clashes continue between police and supporters of presidential aspirant Alassane Ouattara. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/africa/01/11/ivory.coast.crisis/index.html?eref=edition)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/05/5/a-shipping-vessel-registered-in-taiwan-with-a-history-of-oil-spills-is-fined-cad-80-000-for-the-illegal-dumping-of-pollutants-in-canadian-w.html)  [JSON](/news/2011/05/5/a-shipping-vessel-registered-in-taiwan-with-a-history-of-oil-spills-is-fined-cad-80-000-for-the-illegal-dumping-of-pollutants-in-canadian-w.json)  [XML](/news/2011/05/5/a-shipping-vessel-registered-in-taiwan-with-a-history-of-oil-spills-is-fined-cad-80-000-for-the-illegal-dumping-of-pollutants-in-canadian-w.xml)  
+
 ### [2011-05-5](/news/2011/05/5/index.md)
 
+##### Taiwan
 # A shipping vessel registered in Taiwan with a history of oil spills is fined CAD $80,000 for the illegal dumping of pollutants in Canadian waters south of Newfoundland. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Toronto Star](http://www.thestar.com/news/canada/article/986146--taiwan-registered-vessel-fined-for-dumping-pollutants-off-coast-of-nfld)
+1. [The Toronto Star](https://www.thestar.com/news/canada/article/986146--taiwan-registered-vessel-fined-for-dumping-pollutants-off-coast-of-nfld)
 
 ### Related:
 

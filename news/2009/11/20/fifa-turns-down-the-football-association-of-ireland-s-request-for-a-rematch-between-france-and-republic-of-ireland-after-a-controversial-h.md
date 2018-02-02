@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/20/fifa-turns-down-the-football-association-of-ireland-s-request-for-a-rematch-between-france-and-republic-of-ireland-after-a-controversial-h.html)  [JSON](/news/2009/11/20/fifa-turns-down-the-football-association-of-ireland-s-request-for-a-rematch-between-france-and-republic-of-ireland-after-a-controversial-h.json)  [XML](/news/2009/11/20/fifa-turns-down-the-football-association-of-ireland-s-request-for-a-rematch-between-france-and-republic-of-ireland-after-a-controversial-h.xml)  
+
 ### [2009-11-20](/news/2009/11/20/index.md)
 
+##### FIFA
 #  FIFA turns down the Football Association of Ireland's request for a rematch between France and Republic of Ireland, after a controversial handball decided the 2010 FIFA World Cup qualification playoff between the two countries. 
 
 A replay of the controversial World Cup play-off match between France and the Republic of Ireland is out of the question, the French Football Federation insisted.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/SPORT/football/11/20/football.fifa.ireland.cowen/index.html)
 2. [RTÉ](http://www.rte.ie/news/2009/1120/ireland.html)

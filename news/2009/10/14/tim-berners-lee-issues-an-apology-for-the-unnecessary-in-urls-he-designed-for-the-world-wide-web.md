@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/14/tim-berners-lee-issues-an-apology-for-the-unnecessary-in-urls-he-designed-for-the-world-wide-web.html)  [JSON](/news/2009/10/14/tim-berners-lee-issues-an-apology-for-the-unnecessary-in-urls-he-designed-for-the-world-wide-web.json)  [XML](/news/2009/10/14/tim-berners-lee-issues-an-apology-for-the-unnecessary-in-urls-he-designed-for-the-world-wide-web.xml)  
+
 ### [2009-10-14](/news/2009/10/14/index.md)
 
+##### Sir Timothy John Berners-Lee
 #  Tim Berners-Lee issues an apology for the unnecessary "--" in URLs he designed for the World Wide Web. 
 
 Sir Tim Berners-Lee, the British scientist who created the World Wide Web, has admitted his decision to include two forward slashes in internet addresses was a mistake.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/8306631.stm)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/technology/news/6321463/Sir-Tim-Berners-Lee-admits-forward-slashes-on-World-Wide-Web-were-a-mistake.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/20/us-airways-struggling-to-avoid-a-second-bankruptcy-asks-pilots-to-accept-a-16-5-pay-cut.html)  [JSON](/news/2004/08/20/us-airways-struggling-to-avoid-a-second-bankruptcy-asks-pilots-to-accept-a-16-5-pay-cut.json)  [XML](/news/2004/08/20/us-airways-struggling-to-avoid-a-second-bankruptcy-asks-pilots-to-accept-a-16-5-pay-cut.xml)  
+
 ### [2004-08-20](/news/2004/08/20/index.md)
 
+##### US Airways
 #  US Airways, struggling to avoid a second bankruptcy, asks pilots to accept a 16.5% pay cut. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2004/08/20/news/fortune500/us_air.reut/index.htm)
 

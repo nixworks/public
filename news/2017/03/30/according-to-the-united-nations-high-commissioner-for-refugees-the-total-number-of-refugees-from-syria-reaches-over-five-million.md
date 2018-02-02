@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/30/according-to-the-united-nations-high-commission
 
 ### [2017-03-30](/news/2017/03/30/index.md)
 
+##### Syrian Civil War
 # According to the United Nations High Commissioner for Refugees, the total number of refugees from Syria reaches over five million. 
 
 
@@ -19,8 +20,8 @@ Formats: [HTML](/news/2017/03/30/according-to-the-united-nations-high-commission
 
 ### Related:
 
-1. [The United Nations High Commissioner for Refugees states that there are approximately 625,000 refugees from the Syrian civil war living in Lebanon. ](/news/2013/07/22/the-united-nations-high-commissioner-for-refugees-states-that-there-are-approximately-625-000-refugees-from-the-syrian-civil-war-living-in-l.md) _Context: Syrian Civil War, United Nations High Commissioner for Refugees_
-2. [Russian jets carry out airstrikes in a village in the northwestern Idlib Governorate, where a de-escalation zone exists, killing at least five civilians. ](/news/2017/12/8/russian-jets-carry-out-airstrikes-in-a-village-in-the-northwestern-idlib-governorate-where-a-de-escalation-zone-exists-killing-at-least-fi.md) _Context: Syrian Civil War_
-3. [The British government suspends payments to the so-called Free Syrian Police after a BBC Panorama investigation revealed that the cash has been diverted to the Salafist rebel groups of Nour al-Din al-Zenki and Jabhat al-Nusra, police officers being hand-picked by these groups, dead people appearing on the payroll and some police officers participating in summary executions. ](/news/2017/12/4/the-british-government-suspends-payments-to-the-so-called-free-syrian-police-after-a-bbc-panorama-investigation-revealed-that-the-cash-has-b.md) _Context: Syrian Civil War_
-4. [The Syrian opposition urges Russian president Vladimir Putin to put pressure on Syrian president Bashar al-Assad in order to "rescue" the Geneva peace talks and begin face-to-face bilateral talks. ](/news/2017/12/12/the-syrian-opposition-urges-russian-president-vladimir-putin-to-put-pressure-on-syrian-president-bashar-al-assad-in-order-to-rescue-the-ge.md) _Context: Syrian Civil War_
-5. [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: Syrian Civil War_
+1. [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md) _Context: Syrian Civil War_
+2. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Syrian Civil War_
+3. [The Syrian Army seizes control of the strategic Abu al-Duhur Military Airbase in Idlib Governorate. ](/news/2018/01/20/the-syrian-army-seizes-control-of-the-strategic-abu-al-duhur-military-airbase-in-idlib-governorate.md) _Context: Syrian Civil War_
+4. [Turkey threatens to "strangle" the United States-backed Syrian Border Security Force "before it's even born", while Syria vows to crush it and expel American military personnel from the country. Russia called the plans "a plot to dismember Syria". ](/news/2018/01/15/turkey-threatens-to-strangle-the-united-states-backed-syrian-border-security-force-before-it-s-even-born-while-syria-vows-to-crush-it-a.md) _Context: Syrian Civil War_
+5. [Russian jets carry out airstrikes in a village in the northwestern Idlib Governorate, where a de-escalation zone exists, killing at least five civilians. ](/news/2017/12/8/russian-jets-carry-out-airstrikes-in-a-village-in-the-northwestern-idlib-governorate-where-a-de-escalation-zone-exists-killing-at-least-fi.md) _Context: Syrian Civil War_

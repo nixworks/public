@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/20/grenada-switches-recognition-from-the-republic-of-china-taiwan-to-the-people-s-republic-of-china-following-a-million-dollar-aid-deal-from.html)  [JSON](/news/2005/01/20/grenada-switches-recognition-from-the-republic-of-china-taiwan-to-the-people-s-republic-of-china-following-a-million-dollar-aid-deal-from.json)  [XML](/news/2005/01/20/grenada-switches-recognition-from-the-republic-of-china-taiwan-to-the-people-s-republic-of-china-following-a-million-dollar-aid-deal-from.xml)  
+
 ### [2005-01-20](/news/2005/01/20/index.md)
 
+##### Grenada
 #  Grenada switches recognition from the Republic of China (Taiwan) to the People's Republic of China following a million dollar aid deal from the PRC. This brings the number of countries that officially recognize the ROC to 25. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4190295.stm)
 

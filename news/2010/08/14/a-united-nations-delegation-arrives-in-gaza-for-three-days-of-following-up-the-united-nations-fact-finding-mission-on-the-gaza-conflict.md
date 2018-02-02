@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/a-united-nations-delegation-arrives-in-gaza-for-three-days-of-following-up-the-united-nations-fact-finding-mission-on-the-gaza-conflict.html)  [JSON](/news/2010/08/14/a-united-nations-delegation-arrives-in-gaza-for-three-days-of-following-up-the-united-nations-fact-finding-mission-on-the-gaza-conflict.json)  [XML](/news/2010/08/14/a-united-nations-delegation-arrives-in-gaza-for-three-days-of-following-up-the-united-nations-fact-finding-mission-on-the-gaza-conflict.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### United Nations
 # A United Nations delegation arrives in Gaza for three days of following up the United Nations Fact Finding Mission on the Gaza Conflict. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hTTNeIFFBD_V7dKtvt9NZQkZnILg)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-08/15/c_13445353.htm)

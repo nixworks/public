@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/8/north-and-south-korea-are-to-hold-reunions-for-families-divided-by-the-korean-war-from-october-20-to-october-26.html)  [JSON](/news/2015/09/8/north-and-south-korea-are-to-hold-reunions-for-families-divided-by-the-korean-war-from-october-20-to-october-26.json)  [XML](/news/2015/09/8/north-and-south-korea-are-to-hold-reunions-for-families-divided-by-the-korean-war-from-october-20-to-october-26.xml)  
+
 ### [2015-09-8](/news/2015/09/8/index.md)
 
+##### North Korea
 # North and South Korea are to hold reunions for families divided by the Korean War from October 20 to October 26. 
 
 North and South Korea have agreed to hold Oct. 20-26 reunions of families separated by the Korean War in the early 1950s.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Washington Times](http://www.washingtontimes.com/news/2015/sep/7/north-korea-south-korea-hold-reunions-war-divided-/)
 1. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2015/09/07/Koreas.jpg)

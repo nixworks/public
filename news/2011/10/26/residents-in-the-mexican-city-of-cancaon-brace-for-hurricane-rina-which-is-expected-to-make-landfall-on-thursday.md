@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/26/residents-in-the-mexican-city-of-cancaon-brace-for-hurricane-rina-which-is-expected-to-make-landfall-on-thursday.html)  [JSON](/news/2011/10/26/residents-in-the-mexican-city-of-cancaon-brace-for-hurricane-rina-which-is-expected-to-make-landfall-on-thursday.json)  [XML](/news/2011/10/26/residents-in-the-mexican-city-of-cancaon-brace-for-hurricane-rina-which-is-expected-to-make-landfall-on-thursday.xml)  
+
 ### [2011-10-26](/news/2011/10/26/index.md)
 
+##### Mexico
 # Residents in the Mexican city of Cancun brace for Hurricane Rina, which is expected to make landfall on Thursday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/10/25/world/americas/tropical-weather/index.html?hpt=wo_c2)
 

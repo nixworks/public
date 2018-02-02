@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/22/radio-free-asia-reports-that-north-korea-s-national-defense-commission-held-an-emergency-meeting-presided-over-by-kim-jong-un-to-compromise.html)  [JSON](/news/2010/09/22/radio-free-asia-reports-that-north-korea-s-national-defense-commission-held-an-emergency-meeting-presided-over-by-kim-jong-un-to-compromise.json)  [XML](/news/2010/09/22/radio-free-asia-reports-that-north-korea-s-national-defense-commission-held-an-emergency-meeting-presided-over-by-kim-jong-un-to-compromise.xml)  
+
 ### [2010-09-22](/news/2010/09/22/index.md)
 
+##### Radio Free Asia
 # Radio Free Asia reports that North Korea's National Defense Commission held an emergency meeting presided over by Kim Jong-un to compromise the upcoming G20 summit in Seoul, South Korea. 
 
 North Korea reportedly held a meeting earlier this month aimed at hampering the upcoming Seoul G20 summit slated to be held in November. This is according to Radio Free Asia which cited a source that is currently in Pyeongyang to participate in the upcoming Workers ̔ Party Convention. The source said an emergency meeting led by North Korean heir apparent Kim Jong-un was held in early September where the communist state defined the G20 summit as a political scheme among world powers with the goal of further isolating the North from the international community. At the meeting the report said the North discussed ways to continue fueling a sense of insecurity in the region and promoting anti-G20 protests held by pro-North Korean groups. 
 
 
-### Source:
+### Sources:
 
 1. [Arirang News](http://www.arirang.co.kr/News/News_View.asp?nseq=107186&code=Ne2&category=2)
 2. [Korea Times](http://www.koreatimes.co.kr/www/news/nation/2010/09/113_73409.html)

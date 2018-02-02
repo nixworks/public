@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/08/3/british-bank-hsbc-agrees-to-sell-its-brazilian-banking-business-to-banco-bradesco-for-5-2-billion.html)  [JSON](/news/2015/08/3/british-bank-hsbc-agrees-to-sell-its-brazilian-banking-business-to-banco-bradesco-for-5-2-billion.json)  [XML](/news/2015/08/3/british-bank-hsbc-agrees-to-sell-its-brazilian-banking-business-to-banco-bradesco-for-5-2-billion.xml)  
+
 ### [2015-08-3](/news/2015/08/3/index.md)
 
+##### HSBC
 # British bank HSBC agrees to sell its Brazilian banking business to Banco Bradesco for $5.2 billion. 
 
 HSBC has agreed to sell its Brazilian business to local group Banco Bradesco, the British banking giant announced Monday alongside news of a fall in net profits. Profit after tax fell 3.8 percent to $4.36 billion ( 4.0 billion euros) in the second quarter compared with the same period last year, said
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo](http://news.yahoo.com/hsbc-profits-fall-3-8-second-quarter-043630779.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/afa03fRbY00047WUwZFG9w--/aD02ODM7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/d64ee24f13be635d1733bc1dac417ed62d9f457a.jpg)
+1. [AFP via Yahoo](https://news.yahoo.com/hsbc-profits-fall-3-8-second-quarter-043630779.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/bouSXF.XTKTAUWkbdWpt6w--~B/aD02ODM7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/d64ee24f13be635d1733bc1dac417ed62d9f457a.jpg)
 
 ### Related:
 

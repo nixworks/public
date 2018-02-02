@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/2/hundreds-of-firefighters-on-the-spanish-island-of-la-palma-in-the-canary-islands-are-continuing-to-battle-wildfires.html)  [JSON](/news/2009/08/2/hundreds-of-firefighters-on-the-spanish-island-of-la-palma-in-the-canary-islands-are-continuing-to-battle-wildfires.json)  [XML](/news/2009/08/2/hundreds-of-firefighters-on-the-spanish-island-of-la-palma-in-the-canary-islands-are-continuing-to-battle-wildfires.xml)  
+
 ### [2009-08-2](/news/2009/08/2/index.md)
 
+##### Spain
 #  Hundreds of firefighters on the Spanish island of La Palma in the Canary Islands are continuing to battle wildfires. 
 
 A wildfire is raging out of control on the Canary Island of La Palma a day after it forced 4,000 people to flee their homes and stranded dozens of tourists.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/spain/5960864/Thousands-evacuated-as-fire-engulfs-Canary-Island-of-La-Palma.html)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/europe/article6736631.ece)

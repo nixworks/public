@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/10/negotiators-gather-in-austria-for-informal-talks-aimed-at-unblocking-a-34-year-old-dispute-between-morocco-and-the-western-sahara-independe.html)  [JSON](/news/2009/08/10/negotiators-gather-in-austria-for-informal-talks-aimed-at-unblocking-a-34-year-old-dispute-between-morocco-and-the-western-sahara-independe.json)  [XML](/news/2009/08/10/negotiators-gather-in-austria-for-informal-talks-aimed-at-unblocking-a-34-year-old-dispute-between-morocco-and-the-western-sahara-independe.xml)  
+
 ### [2009-08-10](/news/2009/08/10/index.md)
 
+##### Austria
 #  Negotiators gather in Austria for informal talks aimed at unblocking a 34-year-old dispute between Morocco and the Western Sahara independence movement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=85&art_id=nw20090809225237842C885939)
 

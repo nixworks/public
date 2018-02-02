@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/9/ulster-unionist-party-leader-tom-elliott-accepts-an-invitation-to-meet-with-members-of-the-northern-ireland-gay-rights-association-in-a-grou.html)  [JSON](/news/2011/01/9/ulster-unionist-party-leader-tom-elliott-accepts-an-invitation-to-meet-with-members-of-the-northern-ireland-gay-rights-association-in-a-grou.json)  [XML](/news/2011/01/9/ulster-unionist-party-leader-tom-elliott-accepts-an-invitation-to-meet-with-members-of-the-northern-ireland-gay-rights-association-in-a-grou.xml)  
+
 ### [2011-01-9](/news/2011/01/9/index.md)
 
+##### Ulster Unionist Party
 # Ulster Unionist Party leader Tom Elliott accepts an invitation to meet with members of the Northern Ireland Gay Rights Association in a groundbreaking move. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Irish Independent](http://www.independent.ie/breaking-news/national-news/elliott-set-to-meet-gay-community-2489736.html)
 2. [The Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/local-national/northern-ireland/elliott-set-to-meet-gay-community-15049786.html)

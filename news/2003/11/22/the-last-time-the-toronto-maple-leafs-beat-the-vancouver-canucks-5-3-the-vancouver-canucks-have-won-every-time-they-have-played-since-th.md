@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/22/the-last-time-the-toronto-maple-leafs-beat-the-vancouver-canucks-5-3-the-vancouver-canucks-have-won-every-time-they-have-played-since-th.html)  [JSON](/news/2003/11/22/the-last-time-the-toronto-maple-leafs-beat-the-vancouver-canucks-5-3-the-vancouver-canucks-have-won-every-time-they-have-played-since-th.json)  [XML](/news/2003/11/22/the-last-time-the-toronto-maple-leafs-beat-the-vancouver-canucks-5-3-the-vancouver-canucks-have-won-every-time-they-have-played-since-th.xml)  
+
 ### [2003-11-22](/news/2003/11/22/index.md)
 
+##### Toronto Maple Leafs
 #  The last time the Toronto Maple Leafs beat the Vancouver Canucks (5-3). The Vancouver Canucks have won every time they have played since this date.
 
 

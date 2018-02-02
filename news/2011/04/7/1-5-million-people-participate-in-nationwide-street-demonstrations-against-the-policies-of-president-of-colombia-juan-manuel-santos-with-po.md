@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/7/1-5-million-people-participate-in-nationwide-street-demonstrations-against-the-policies-of-president-of-colombia-juan-manuel-santos-with-po.html)  [JSON](/news/2011/04/7/1-5-million-people-participate-in-nationwide-street-demonstrations-against-the-policies-of-president-of-colombia-juan-manuel-santos-with-po.json)  [XML](/news/2011/04/7/1-5-million-people-participate-in-nationwide-street-demonstrations-against-the-policies-of-president-of-colombia-juan-manuel-santos-with-po.xml)  
+
 ### [2011-04-7](/news/2011/04/7/index.md)
 
+##### Colombian President
 # 1.5 million people participate in nationwide street demonstrations against the policies of President of Colombia Juan Manuel Santos, with police using tear gas on protesters. 
 
 Hundreds of thousands of Colombians join street demonstrations against the policies of President Juan Manuel Santos.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13006084)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/7/alan-shatter-resigns-from-the-irish-government-after-scandals-over-him-came-out-in-february.html)  [JSON](/news/2014/05/7/alan-shatter-resigns-from-the-irish-government-after-scandals-over-him-came-out-in-february.json)  [XML](/news/2014/05/7/alan-shatter-resigns-from-the-irish-government-after-scandals-over-him-came-out-in-february.xml)  
+
 ### [2014-05-7](/news/2014/05/7/index.md)
 
+##### Alan Shatter
 # Alan Shatter resigns from the Irish government after scandals over him came out in February. 
 
 Alan Shatter&#39;s successor as Minister for Justice is expected to be announced tomorrow, after Taoiseach Enda Kenny announced Mr Shatter&#39;s resignation from Government today.
 
 
-### Source:
+### Sources:
 
 1. [RTE](http://www.rte.ie/news/2014/0507/615716-alan-shatter-mick-wallace/)
 1. [Cover Image](https://img.rasset.ie/0008ba8c-1600.jpg)

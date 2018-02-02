@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/05/25/scotty-mccreery-becomes-the-tenth-season-winner-of-american-idol.html)  [JSON](/news/2011/05/25/scotty-mccreery-becomes-the-tenth-season-winner-of-american-idol.json)  [XML](/news/2011/05/25/scotty-mccreery-becomes-the-tenth-season-winner-of-american-idol.xml)  
+
 ### [2011-05-25](/news/2011/05/25/index.md)
 
+##### Scotty McCreery
 # Scotty McCreery becomes the tenth season winner of "American Idol".
 
 

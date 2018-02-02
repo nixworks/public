@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/1/vietnam-claims-that-the-people-s-republic-of-china-has-assaulted-vietnamese-fishermen-in-disputed-waters-in-the-south-china-sea.html)  [JSON](/news/2012/03/1/vietnam-claims-that-the-people-s-republic-of-china-has-assaulted-vietnamese-fishermen-in-disputed-waters-in-the-south-china-sea.json)  [XML](/news/2012/03/1/vietnam-claims-that-the-people-s-republic-of-china-has-assaulted-vietnamese-fishermen-in-disputed-waters-in-the-south-china-sea.xml)  
+
 ### [2012-03-1](/news/2012/03/1/index.md)
 
+##### Vietnam
 # Vietnam claims that the People's Republic of China has assaulted Vietnamese fishermen in disputed waters in the South China Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CBS News](http://www.cbsnews.com/8301-501712_162-57388158/in-protest-vietnam-says-china-assaulted-fishermen/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/1/the-government-of-the-people-s-republic-of-china-issues-emergency-orders-to-stop-a-meningitis-outbreak-that-has-killed-16-people.html)  [JSON](/news/2005/02/1/the-government-of-the-people-s-republic-of-china-issues-emergency-orders-to-stop-a-meningitis-outbreak-that-has-killed-16-people.json)  [XML](/news/2005/02/1/the-government-of-the-people-s-republic-of-china-issues-emergency-orders-to-stop-a-meningitis-outbreak-that-has-killed-16-people.xml)  
+
 ### [2005-02-1](/news/2005/02/1/index.md)
 
+##### China
 #  The government of the People's Republic of China issues emergency orders to stop a meningitis outbreak that has killed 16 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4224917.stm)
 2. [ChinaDaily](http://www.chinadaily.com.cn/english/doc/2005-02/01/content_413871.htm)

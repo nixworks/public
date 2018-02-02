@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/6/an-attack-on-an-army-base-in-abidjan-ivory-coast-kills-six-people.html)  [JSON](/news/2012/08/6/an-attack-on-an-army-base-in-abidjan-ivory-coast-kills-six-people.json)  [XML](/news/2012/08/6/an-attack-on-an-army-base-in-abidjan-ivory-coast-kills-six-people.xml)  
+
 ### [2012-08-6](/news/2012/08/6/index.md)
 
+##### Abidjan
 # An attack on an army base in Abidjan, Ivory Coast, kills six people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20120806-attack-ivory-coast-army-base-kills-least-six)
 

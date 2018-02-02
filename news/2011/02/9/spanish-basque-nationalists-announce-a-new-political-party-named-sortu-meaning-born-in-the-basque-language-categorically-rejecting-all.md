@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/9/spanish-basque-nationalists-announce-a-new-political-party-named-sortu-meaning-born-in-the-basque-language-categorically-rejecting-all.html)  [JSON](/news/2011/02/9/spanish-basque-nationalists-announce-a-new-political-party-named-sortu-meaning-born-in-the-basque-language-categorically-rejecting-all.json)  [XML](/news/2011/02/9/spanish-basque-nationalists-announce-a-new-political-party-named-sortu-meaning-born-in-the-basque-language-categorically-rejecting-all.xml)  
+
 ### [2011-02-9](/news/2011/02/9/index.md)
 
+##### Basque nationalists
 # Spanish Basque nationalists announce a new political party named Sortu (meaning "born" in the Basque language), categorically rejecting all violence, including that of ETA. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Presse-Agentur](http://www.monstersandcritics.com/news/europe/news/article_1617787.php/New-Basque-separatist-party-unveils-its-name-Sortu)
 

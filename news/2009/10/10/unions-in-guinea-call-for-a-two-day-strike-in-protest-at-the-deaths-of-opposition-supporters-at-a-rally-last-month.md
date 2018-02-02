@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/10/10/unions-in-guinea-call-for-a-two-day-strike-in-protest-at-the-deaths-of-opposition-supporters-at-a-rally-last-month.html)  [JSON](/news/2009/10/10/unions-in-guinea-call-for-a-two-day-strike-in-protest-at-the-deaths-of-opposition-supporters-at-a-rally-last-month.json)  [XML](/news/2009/10/10/unions-in-guinea-call-for-a-two-day-strike-in-protest-at-the-deaths-of-opposition-supporters-at-a-rally-last-month.xml)  
+
 ### [2009-10-10](/news/2009/10/10/index.md)
 
+##### Guinea
 #  Unions in Guinea call for a two day strike in protest at the deaths of opposition supporters at a rally last month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8300714.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=aneK_hfM2aKs)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601116&sid=aneK_hfM2aKs)
 
 ### Related:
 

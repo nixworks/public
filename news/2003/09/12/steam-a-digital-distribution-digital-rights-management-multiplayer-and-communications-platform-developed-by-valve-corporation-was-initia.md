@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/12/steam-a-digital-distribution-digital-rights-management-multiplayer-and-communications-platform-developed-by-valve-corporation-was-initia.html)  [JSON](/news/2003/09/12/steam-a-digital-distribution-digital-rights-management-multiplayer-and-communications-platform-developed-by-valve-corporation-was-initia.json)  [XML](/news/2003/09/12/steam-a-digital-distribution-digital-rights-management-multiplayer-and-communications-platform-developed-by-valve-corporation-was-initia.xml)  
+
 ### [2003-09-12](/news/2003/09/12/index.md)
 
+##### Steam
 #  Steam, a digital distribution, digital rights management, multiplayer and communications platform developed by Valve Corporation was initially released
 
 

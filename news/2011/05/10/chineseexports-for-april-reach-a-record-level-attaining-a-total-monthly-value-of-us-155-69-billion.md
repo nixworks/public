@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/05/10/chineseexports-for-april-reach-a-record-level-attaining-a-total-monthly-value-of-us-155-69-billion.html)  [JSON](/news/2011/05/10/chineseexports-for-april-reach-a-record-level-attaining-a-total-monthly-value-of-us-155-69-billion.json)  [XML](/news/2011/05/10/chineseexports-for-april-reach-a-record-level-attaining-a-total-monthly-value-of-us-155-69-billion.xml)  
+
 ### [2011-05-10](/news/2011/05/10/index.md)
 
+##### China
 # Chineseexports for April reach a record level, attaining a total monthly value of US$155.69 billion. 
 
 Chinese factories appear to have passed on rising costs to buyers who are finding that they have few alternatives in other countries.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/05/10/business/global/10yuan.html?smid=tw-nytimes&seid=auto)
+1. [New York Times](https://www.nytimes.com/2011/05/10/business/global/10yuan.html?smid=tw-nytimes&seid=auto)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

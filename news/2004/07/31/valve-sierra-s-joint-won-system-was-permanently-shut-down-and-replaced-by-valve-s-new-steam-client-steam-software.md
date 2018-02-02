@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/07/31/valve-sierra-s-joint-won-system-was-permanently-shut-down-and-replaced-by-valve-s-new-steam-client-steam-software.html)  [JSON](/news/2004/07/31/valve-sierra-s-joint-won-system-was-permanently-shut-down-and-replaced-by-valve-s-new-steam-client-steam-software.json)  [XML](/news/2004/07/31/valve-sierra-s-joint-won-system-was-permanently-shut-down-and-replaced-by-valve-s-new-steam-client-steam-software.xml)  
+
 ### [2004-07-31](/news/2004/07/31/index.md)
 
+##### WON
 #  Valve & Sierra's joint WON system was permanently shut down, and replaced by VALVE's new Steam Client. Steam (software)
 
 

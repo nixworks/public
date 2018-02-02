@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/31/hurricane-katia-becomes-the-second-hurricane-of-the-2011-atlantic-hurricane-season.html)  [JSON](/news/2011/08/31/hurricane-katia-becomes-the-second-hurricane-of-the-2011-atlantic-hurricane-season.json)  [XML](/news/2011/08/31/hurricane-katia-becomes-the-second-hurricane-of-the-2011-atlantic-hurricane-season.xml)  
+
 ### [2011-08-31](/news/2011/08/31/index.md)
 
+##### Hurricane Katia
 # Hurricane Katia becomes the second hurricane of the 2011 Atlantic hurricane season. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Hurricane Center](http://www.nhc.noaa.gov/)
 

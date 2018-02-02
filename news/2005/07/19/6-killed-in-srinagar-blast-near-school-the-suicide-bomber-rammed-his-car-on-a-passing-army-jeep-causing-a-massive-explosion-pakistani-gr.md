@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/19/6-killed-in-srinagar-blast-near-school-the-suicide-bomber-rammed-his-car-on-a-passing-army-jeep-causing-a-massive-explosion-pakistani-gr.html)  [JSON](/news/2005/07/19/6-killed-in-srinagar-blast-near-school-the-suicide-bomber-rammed-his-car-on-a-passing-army-jeep-causing-a-massive-explosion-pakistani-gr.json)  [XML](/news/2005/07/19/6-killed-in-srinagar-blast-near-school-the-suicide-bomber-rammed-his-car-on-a-passing-army-jeep-causing-a-massive-explosion-pakistani-gr.xml)  
+
 ### [2005-07-19](/news/2005/07/19/index.md)
 
+##### Srinagar
 #  6 killed in Srinagar blast near school. The suicide bomber rammed his car on a passing army jeep, causing a massive explosion. Pakistani group Hizbul Mujahideen is suspected to be behind the attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Rediff](http://in.rediff.com/news/2005/jul/20sri.htm)
 1. [Cover Image](//imworld.rediff.com/worldrediff/pix/r-shareicon.png)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/06/23/oracle-corporation-buys-micros-systems-in-a-5-3-billion-deal.html)  [JSON](/news/2014/06/23/oracle-corporation-buys-micros-systems-in-a-5-3-billion-deal.json)  [XML](/news/2014/06/23/oracle-corporation-buys-micros-systems-in-a-5-3-billion-deal.xml)  
+
 ### [2014-06-23](/news/2014/06/23/index.md)
 
+##### Oracle Corporation
 # Oracle Corporation buys MICROS Systems in a $5.3 billion deal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/06/23/us-micros-syst-offer-idUSKBN0EY0AA20140623)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140623&t=2&i=910700677&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5M04Z)
+1. [Reuters](https://www.reuters.com/article/2014/06/23/us-micros-syst-offer-idUSKBN0EY0AA20140623)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20140623&t=2&i=910700677&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5M04Z)
 
 ### Related:
 

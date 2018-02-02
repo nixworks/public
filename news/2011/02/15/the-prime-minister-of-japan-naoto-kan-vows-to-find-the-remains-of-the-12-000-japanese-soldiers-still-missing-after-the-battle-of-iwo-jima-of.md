@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/02/15/the-prime-minister-of-japan-naoto-kan-vows-to-find-the-remains-of-the-12-000-japanese-soldiers-still-missing-after-the-battle-of-iwo-jima-of.html)  [JSON](/news/2011/02/15/the-prime-minister-of-japan-naoto-kan-vows-to-find-the-remains-of-the-12-000-japanese-soldiers-still-missing-after-the-battle-of-iwo-jima-of.json)  [XML](/news/2011/02/15/the-prime-minister-of-japan-naoto-kan-vows-to-find-the-remains-of-the-12-000-japanese-soldiers-still-missing-after-the-battle-of-iwo-jima-of.xml)  
+
 ### [2011-02-15](/news/2011/02/15/index.md)
 
+##### Prime Minister of Japan
 # The Prime Minister of Japan Naoto Kan vows to find the remains of the 12,000 Japanese soldiers still missing after the Battle of Iwo Jima of World War II. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2011/02/14/AR2011021406926.html)
+1. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2011/02/14/AR2011021406926.html)
 
 ### Related:
 

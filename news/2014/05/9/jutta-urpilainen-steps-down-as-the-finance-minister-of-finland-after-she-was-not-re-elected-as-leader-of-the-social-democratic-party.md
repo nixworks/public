@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/9/jutta-urpilainen-steps-down-as-the-finance-minister-of-finland-after-she-was-not-re-elected-as-leader-of-the-social-democratic-party.html)  [JSON](/news/2014/05/9/jutta-urpilainen-steps-down-as-the-finance-minister-of-finland-after-she-was-not-re-elected-as-leader-of-the-social-democratic-party.json)  [XML](/news/2014/05/9/jutta-urpilainen-steps-down-as-the-finance-minister-of-finland-after-she-was-not-re-elected-as-leader-of-the-social-democratic-party.xml)  
+
 ### [2014-05-9](/news/2014/05/9/index.md)
 
+##### Jutta Urpilainen
 # Jutta Urpilainen steps down as the Finance Minister of Finland after she was not re-elected as leader of the Social Democratic Party. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Miami Herald](http://www.miamiherald.com/2014/05/09/4107141/finnish-finance-minister-to-quit.html)
 

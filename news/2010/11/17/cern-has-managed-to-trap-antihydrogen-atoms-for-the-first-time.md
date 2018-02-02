@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/17/cern-has-managed-to-trap-antihydrogen-atoms-for-the-first-time.html)  [JSON](/news/2010/11/17/cern-has-managed-to-trap-antihydrogen-atoms-for-the-first-time.json)  [XML](/news/2010/11/17/cern-has-managed-to-trap-antihydrogen-atoms-for-the-first-time.xml)  
+
 ### [2010-11-17](/news/2010/11/17/index.md)
 
+##### CERN
 # CERN has managed to trap antihydrogen atoms for the first time. 
 
 The antimatter version of a hydrogen atom has been held in place for the first time, allowing the study of fundamental physics, scientists say.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/11/2010111842055191956.html)
 2. [BBC ](http://www.bbc.co.uk/news/science-environment-11773791)

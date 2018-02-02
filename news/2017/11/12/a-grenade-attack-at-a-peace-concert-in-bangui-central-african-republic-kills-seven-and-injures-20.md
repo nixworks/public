@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/12/a-grenade-attack-at-a-peace-concert-in-bangui-c
 
 ### [2017-11-12](/news/2017/11/12/index.md)
 
+##### 2017 in the Central African Republic
 # A grenade attack at a peace concert in Bangui, Central African Republic, kills seven and injures 20. 
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/11/9/connecticut-governor-jodi-rell-announces-that-she-will-not-seek-re-election-in-2010.html)  [JSON](/news/2009/11/9/connecticut-governor-jodi-rell-announces-that-she-will-not-seek-re-election-in-2010.json)  [XML](/news/2009/11/9/connecticut-governor-jodi-rell-announces-that-she-will-not-seek-re-election-in-2010.xml)  
+
 ### [2009-11-9](/news/2009/11/9/index.md)
 
+##### Connecticut
 #  Connecticut Governor Jodi Rell announces that she will not seek re-election in 2010. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/aponline/2009/11/09/us/AP-US-Connecticut-Governor.html?hp)
+1. [New York Times](https://www.nytimes.com/aponline/2009/11/09/us/AP-US-Connecticut-Governor.html?hp)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/30/concentrations-of-carbon-dioxide-co2-in-the-ear
 
 ### [2017-10-30](/news/2017/10/30/index.md)
 
+##### Carbon dioxide in Earth's atmosphere
 # Concentrations of carbon dioxide ({{CO2}}) in the Earth's atmosphere surged by a record amount in 2016, according to the World Meteorological Organization. 
 
 

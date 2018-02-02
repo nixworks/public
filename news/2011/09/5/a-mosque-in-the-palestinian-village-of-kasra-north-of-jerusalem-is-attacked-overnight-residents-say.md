@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/5/a-mosque-in-the-palestinian-village-of-kasra-north-of-jerusalem-is-attacked-overnight-residents-say.html)  [JSON](/news/2011/09/5/a-mosque-in-the-palestinian-village-of-kasra-north-of-jerusalem-is-attacked-overnight-residents-say.json)  [XML](/news/2011/09/5/a-mosque-in-the-palestinian-village-of-kasra-north-of-jerusalem-is-attacked-overnight-residents-say.xml)  
+
 ### [2011-09-5](/news/2011/09/5/index.md)
 
+##### mosque
 # A mosque in the Palestinian village of Kasra, north of Jerusalem, is attacked overnight, residents say. 
 
 Israeli police investigate a fire and graffiti attack on a mosque in the Palestinian village of Kasra, north of Jerusalem.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14786172)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/55159000/jpg/_55159936_012817662-1.jpg)

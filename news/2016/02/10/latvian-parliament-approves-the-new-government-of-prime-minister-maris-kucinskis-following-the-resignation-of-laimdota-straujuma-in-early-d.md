@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/10/latvian-parliament-approves-the-new-government-
 
 ### [2016-02-10](/news/2016/02/10/index.md)
 
+##### Maris Kucinskis
 #  Latvian parliament approves the new government of Prime Minister Maris Kucinskis following the resignation of Laimdota Straujuma in early December. 
 
 Latvian parliament formally approved the new government of Prime Minister Maris Kucinskis on Thursday, following the resignation of incumbent Laimdota Straujuma in early December.

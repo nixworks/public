@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/1/nine-people-are-killed-in-a-bus-rampage-in-tianjin-northern-china.html)  [JSON](/news/2010/02/1/nine-people-are-killed-in-a-bus-rampage-in-tianjin-northern-china.json)  [XML](/news/2010/02/1/nine-people-are-killed-in-a-bus-rampage-in-tianjin-northern-china.xml)  
+
 ### [2010-02-1](/news/2010/02/1/index.md)
 
+##### Tianjin
 # Nine people are killed in a bus rampage in Tianjin, northern China. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8491530.stm)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-02/01/content_9409257.htm)

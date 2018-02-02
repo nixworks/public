@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/5/a-u-s-district-court-judge-gives-the-go-ahead-to
 
 ### [2016-08-5](/news/2016/08/5/index.md)
 
+##### PricewaterhouseCoopers
 # A U.S. district court judge gives the go-ahead to a billion-dollar lawsuit against PricewaterhouseCoopers in connection with the losses at MF Global in October 2011. 
 
 

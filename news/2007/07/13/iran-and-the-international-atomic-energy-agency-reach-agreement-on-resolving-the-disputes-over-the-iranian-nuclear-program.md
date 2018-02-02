@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/07/13/iran-and-the-international-atomic-energy-agency-reach-agreement-on-resolving-the-disputes-over-the-iranian-nuclear-program.html)  [JSON](/news/2007/07/13/iran-and-the-international-atomic-energy-agency-reach-agreement-on-resolving-the-disputes-over-the-iranian-nuclear-program.json)  [XML](/news/2007/07/13/iran-and-the-international-atomic-energy-agency-reach-agreement-on-resolving-the-disputes-over-the-iranian-nuclear-program.xml)  
+
 ### [2007-07-13](/news/2007/07/13/index.md)
 
+##### Iran
 #  Iran and the International Atomic Energy Agency reach agreement on resolving the disputes over the Iranian nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSL1319819320070713?feedType=RSS)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20070713&t=2&i=1119503&w=&fh=545px&fw=&ll=&pl=&sq=&r=1119503)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSL1319819320070713?feedType=RSS)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20070713&t=2&i=1119503&w=&fh=545px&fw=&ll=&pl=&sq=&r=1119503)
 
 ### Related:
 

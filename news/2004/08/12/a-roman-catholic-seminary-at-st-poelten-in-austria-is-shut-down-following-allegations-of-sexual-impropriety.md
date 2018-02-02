@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/12/a-roman-catholic-seminary-at-st-poelten-in-austria-is-shut-down-following-allegations-of-sexual-impropriety.html)  [JSON](/news/2004/08/12/a-roman-catholic-seminary-at-st-poelten-in-austria-is-shut-down-following-allegations-of-sexual-impropriety.json)  [XML](/news/2004/08/12/a-roman-catholic-seminary-at-st-poelten-in-austria-is-shut-down-following-allegations-of-sexual-impropriety.xml)  
+
 ### [2004-08-12](/news/2004/08/12/index.md)
 
+##### Catholic faithful
 #  A Roman Catholic seminary at St Poelten in Austria is shut down following allegations of sexual impropriety. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3558796.stm)
 

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/07/15/seven-palestinians-are-killed-by-israeli-air-force-missile-attacks-on-the-gaza-strip-and-west-bank-including-at-least-four-hamas-militants.html)  [JSON](/news/2005/07/15/seven-palestinians-are-killed-by-israeli-air-force-missile-attacks-on-the-gaza-strip-and-west-bank-including-at-least-four-hamas-militants.json)  [XML](/news/2005/07/15/seven-palestinians-are-killed-by-israeli-air-force-missile-attacks-on-the-gaza-strip-and-west-bank-including-at-least-four-hamas-militants.xml)  
+
 ### [2005-07-15](/news/2005/07/15/index.md)
 
+##### Palestinians
 #  Seven Palestinians are killed by Israeli Air Force missile attacks on the Gaza Strip and West Bank, including at least four Hamas militants. Five other Palestinian civilian bystanders are injured in the attacks. According to CNN all the 7 were militants, whereas the BBC says four were. The attack was carried out amid a barrage of Qassam rockets. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4688185.stm)
 2. [CNN](http://www.cnn.com/2005/WORLD/meast/07/15/mideast/index.html)
-3. [Reuters](http://news.yahoo.com/s/nm/20050715/wl_nm/mideast_dc_43;_ylt=AvM0vQGzSDjzcEqfu5gM4tGaK8MA;_ylu=X3oDMTA5bGVna3NhBHNlYwNzc3JlbA--)
+3. [Reuters](https://news.yahoo.com/s/nm/20050715/wl_nm/mideast_dc_43;_ylt=AvM0vQGzSDjzcEqfu5gM4tGaK8MA;_ylu=X3oDMTA5bGVna3NhBHNlYwNzc3JlbA--)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/17/a-boat-carrying-380-asylum-seekers-en-route-from-indonesia-to-australia-sinks-off-the-coast-of-java-with-hundreds-of-people-missing.html)  [JSON](/news/2011/12/17/a-boat-carrying-380-asylum-seekers-en-route-from-indonesia-to-australia-sinks-off-the-coast-of-java-with-hundreds-of-people-missing.json)  [XML](/news/2011/12/17/a-boat-carrying-380-asylum-seekers-en-route-from-indonesia-to-australia-sinks-off-the-coast-of-java-with-hundreds-of-people-missing.xml)  
+
 ### [2011-12-17](/news/2011/12/17/index.md)
 
+##### asylum seeker
 # A boat carrying 380 asylum seekers en route from Indonesia to Australia sinks off the coast of Java with hundreds of people missing. 
 
 Bad weather is hampering efforts to rescue hundreds of asylum seekers after their boat sank en route to Australia off the coast of east Java.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC Australia](http://www.abc.net.au/news/2011-12-18/asylum-seeker-boat-sinks-off-java/3736828)
 1. [Cover Image](http://www.abc.net.au/news/image/3737366-1x1-700x700.jpg)

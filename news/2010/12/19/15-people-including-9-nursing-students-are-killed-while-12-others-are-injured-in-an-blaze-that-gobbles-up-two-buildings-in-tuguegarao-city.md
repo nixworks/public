@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/19/15-people-including-9-nursing-students-are-killed-while-12-others-are-injured-in-an-blaze-that-gobbles-up-two-buildings-in-tuguegarao-city.html)  [JSON](/news/2010/12/19/15-people-including-9-nursing-students-are-killed-while-12-others-are-injured-in-an-blaze-that-gobbles-up-two-buildings-in-tuguegarao-city.json)  [XML](/news/2010/12/19/15-people-including-9-nursing-students-are-killed-while-12-others-are-injured-in-an-blaze-that-gobbles-up-two-buildings-in-tuguegarao-city.xml)  
+
 ### [2010-12-19](/news/2010/12/19/index.md)
 
+##### Tuguegarao
 # 15 people, including 9 nursing students, are killed while 12 others are injured in an blaze that gobbles up two buildings in Tuguegarao City, Cagayan province in northern Philippines. 
 
 A fire at a budget hotel in the northern Philippines has killed 15 people and injured 12, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12030276)
 2. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/regions/view/20101219-309849/15-killed-in-Cagayan-hotel-fire)

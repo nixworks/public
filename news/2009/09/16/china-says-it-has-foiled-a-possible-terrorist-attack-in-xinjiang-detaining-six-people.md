@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/16/china-says-it-has-foiled-a-possible-terrorist-attack-in-xinjiang-detaining-six-people.html)  [JSON](/news/2009/09/16/china-says-it-has-foiled-a-possible-terrorist-attack-in-xinjiang-detaining-six-people.json)  [XML](/news/2009/09/16/china-says-it-has-foiled-a-possible-terrorist-attack-in-xinjiang-detaining-six-people.xml)  
+
 ### [2009-09-16](/news/2009/09/16/index.md)
 
+##### China
 #  China says it has foiled a possible terrorist attack in Xinjiang, detaining six people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/Breaking%2BNews/Asia/Story/STIStory_430651.html)
 2. [UPI](http://www.upi.com/Top_News/2009/09/16/China-arrests-Uighur-terrorists/UPI-64291253119127/)

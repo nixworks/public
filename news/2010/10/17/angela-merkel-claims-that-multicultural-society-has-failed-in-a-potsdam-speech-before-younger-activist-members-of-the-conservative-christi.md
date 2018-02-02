@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/17/angela-merkel-claims-that-multicultural-society-has-failed-in-a-potsdam-speech-before-younger-activist-members-of-the-conservative-christi.html)  [JSON](/news/2010/10/17/angela-merkel-claims-that-multicultural-society-has-failed-in-a-potsdam-speech-before-younger-activist-members-of-the-conservative-christi.json)  [XML](/news/2010/10/17/angela-merkel-claims-that-multicultural-society-has-failed-in-a-potsdam-speech-before-younger-activist-members-of-the-conservative-christi.xml)  
+
 ### [2010-10-17](/news/2010/10/17/index.md)
 
+##### Angela Merkel
 # Angela Merkel claims that multicultural society has "failed" in a Potsdam speech before younger activist members of the conservative Christian Democratic Union (CDU) party. 
 
 Attempts to build a multicultural society in Germany have &quot;utterly failed&quot;, Chancellor Angela Merkel says, calling on immigrants to learn German to integrate.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-11559451)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

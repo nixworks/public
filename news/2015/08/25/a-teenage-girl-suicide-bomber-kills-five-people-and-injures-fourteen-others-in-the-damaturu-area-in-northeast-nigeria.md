@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/08/25/a-teenage-girl-suicide-bomber-kills-five-people-and-injures-fourteen-others-in-the-damaturu-area-in-northeast-nigeria.html)  [JSON](/news/2015/08/25/a-teenage-girl-suicide-bomber-kills-five-people-and-injures-fourteen-others-in-the-damaturu-area-in-northeast-nigeria.json)  [XML](/news/2015/08/25/a-teenage-girl-suicide-bomber-kills-five-people-and-injures-fourteen-others-in-the-damaturu-area-in-northeast-nigeria.xml)  
+
 ### [2015-08-25](/news/2015/08/25/index.md)
 
+##### Boko Haram
 # A teenage girl suicide bomber kills five people and injures fourteen others in the Damaturu area in northeast Nigeria. 
 
 Police say a girl suicide bomber killing five people in an attack at the crowded entrance to a bus station in Damaturu in northeast Nigeria.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2015/08/25/police-girl-suicide-bomber-kills-5-injures-41-in-boko-haram-bus-station-attack/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
+
+### Changes:
+
+1. [Boko Haram: A teenage girl suicide bomber kills five people and injures fourteen others in the Damaturu area in northeast Nigeria. ](/news/2015/08/25/boko-haram-a-teenage-girl-suicide-bomber-kills-five-people-and-injures-fourteen-others-in-the-damaturu-area-in-northeast-nigeria.md) _2017-08-27 03:42:54 (First version)_
+1. [A teenage girl suicide bomber kills five people and injures fourteen others in the Damaturu area in northeast Nigeria. ](/news/2015/08/25/a-teenage-girl-suicide-bomber-kills-five-people-and-injures-fourteen-others-in-the-damaturu-area-in-northeast-nigeria.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Police say a girl suicide bomber killing five people in an attack at the crowded
 3. [More female suicide bombers, this time two, and again each believed to be around 10 years old, kill themselves and three others at a market in the northeastern city of Potiskum, Nigeria. ](/news/2015/01/11/more-female-suicide-bombers-this-time-two-and-again-each-believed-to-be-around-10-years-old-kill-themselves-and-three-others-at-a-market.md) _Context: Boko Haram, Nigeria, suicide bomber_
 4. [A female suicide bomber, believed to be aged around 10 years old, kills herself and 19 others, possibly against her will, at a market in the northeastern city of Maiduguri, Nigeria. ](/news/2015/01/10/a-female-suicide-bomber-believed-to-be-aged-around-10-years-old-kills-herself-and-19-others-possibly-against-her-will-at-a-market-in-the.md) _Context: Boko Haram, Nigeria, suicide bomber_
 5. [A suicide bomber detonates a tricycle taxi filled with explosives at an outdoor viewing venue for the 2014 FIFA World Cup in Damaturu, Nigeria, resulting in several deaths and 15 people critically injured. ](/news/2014/06/17/a-suicide-bomber-detonates-a-tricycle-taxi-filled-with-explosives-at-an-outdoor-viewing-venue-for-the-2014-fifa-world-cup-in-damaturu-niger.md) _Context: Damaturu, Nigeria, suicide bomber_
-
-### Changes:
-
-1. [Boko Haram: A teenage girl suicide bomber kills five people and injures fourteen others in the Damaturu area in northeast Nigeria. ](/news/2015/08/25/boko-haram-a-teenage-girl-suicide-bomber-kills-five-people-and-injures-fourteen-others-in-the-damaturu-area-in-northeast-nigeria.md) _2017-08-27 03:42:54 (First version)_
-1. [A teenage girl suicide bomber kills five people and injures fourteen others in the Damaturu area in northeast Nigeria. ](/news/2015/08/25/a-teenage-girl-suicide-bomber-kills-five-people-and-injures-fourteen-others-in-the-damaturu-area-in-northeast-nigeria.md) _(Current version)_

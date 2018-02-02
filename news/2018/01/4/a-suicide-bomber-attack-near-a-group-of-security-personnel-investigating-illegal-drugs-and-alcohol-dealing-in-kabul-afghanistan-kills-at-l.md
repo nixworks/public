@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/4/a-suicide-bomber-attack-near-a-group-of-security
 
 ### [2018-01-4](/news/2018/01/4/index.md)
 
+##### Afghanistan War
 # A suicide bomber attack near a group of security personnel investigating illegal drugs and alcohol dealing in Kabul, Afghanistan, kills at least 20, wounding another 27 policemen. The Islamic State claims responsibility for the attack. 
 
 The bomber attacked a market where shopkeepers were staging a protest against the police. At least 30 people were also wounded in the attack, officials said.

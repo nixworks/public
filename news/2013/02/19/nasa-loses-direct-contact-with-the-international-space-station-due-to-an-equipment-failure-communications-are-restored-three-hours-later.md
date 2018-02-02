@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/19/nasa-loses-direct-contact-with-the-international-space-station-due-to-an-equipment-failure-communications-are-restored-three-hours-later.html)  [JSON](/news/2013/02/19/nasa-loses-direct-contact-with-the-international-space-station-due-to-an-equipment-failure-communications-are-restored-three-hours-later.json)  [XML](/news/2013/02/19/nasa-loses-direct-contact-with-the-international-space-station-due-to-an-equipment-failure-communications-are-restored-three-hours-later.xml)  
+
 ### [2013-02-19](/news/2013/02/19/index.md)
 
+##### NASA
 # NASA loses direct contact with the International Space Station due to an equipment failure. Communications are restored three hours later. 
 
 The International Space Station lost contact with NASA&#039;s Mission Control center in Houston Tuesday (Feb. 19). Engineers are scrambling to restore contact while using a Russian link as a backup.
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://www.nasa.gov/mission_pages/station/expeditions/expedition34/e34_021913.html)
 2. [Space.com](http://www.space.com/19853-space-station-contact-lost-nasa.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/8/the-supreme-court-of-the-philippines-declares-the-responsible-parenthood-and-reproductive-health-act-of-2012-as-constitutional-but-strikes-d.html)  [JSON](/news/2014/04/8/the-supreme-court-of-the-philippines-declares-the-responsible-parenthood-and-reproductive-health-act-of-2012-as-constitutional-but-strikes-d.json)  [XML](/news/2014/04/8/the-supreme-court-of-the-philippines-declares-the-responsible-parenthood-and-reproductive-health-act-of-2012-as-constitutional-but-strikes-d.xml)  
+
 ### [2014-04-8](/news/2014/04/8/index.md)
 
+##### Supreme Court of the Philippines
 # The Supreme Court of the Philippines declares the Responsible Parenthood and Reproductive Health Act of 2012 as constitutional but strikes down certain provisions. 
 
 (8th UPDATE) The Court unanimously upholds substantial provisions of the law, but justices vote separately to strike down certain portions. Advocates are preparing for the next battle: ensuring the government funds and implements it.
 
 
-### Source:
+### Sources:
 
 1. [Rappler](http://www.rappler.com/nation/54946-supreme-court-rh-law-constitutional)
 1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/51534D05EAF0430BAED2C9518F1A663D/pro-anti-protesters-baguio-sc-carousel-07-20140408.jpg)

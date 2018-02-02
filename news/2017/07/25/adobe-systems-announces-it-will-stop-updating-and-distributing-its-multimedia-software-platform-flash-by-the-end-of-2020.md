@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/25/adobe-systems-announces-it-will-stop-updating-a
 
 ### [2017-07-25](/news/2017/07/25/index.md)
 
+##### Adobe Systems
 # Adobe Systems announces it will stop updating and distributing its multimedia software platform Flash by the end of 2020. 
 
 Adobe said it plans to stop updating and distributing its Flash Player by the end of 2020.

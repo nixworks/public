@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/11/13/doha-round-the-world-trade-organization-ends-a-four-day-ministerial-conference-in-doha-qatar.html)  [JSON](/news/2001/11/13/doha-round-the-world-trade-organization-ends-a-four-day-ministerial-conference-in-doha-qatar.json)  [XML](/news/2001/11/13/doha-round-the-world-trade-organization-ends-a-four-day-ministerial-conference-in-doha-qatar.xml)  
+
 ### [2001-11-13](/news/2001/11/13/index.md)
 
+##### Doha Round
 #  Doha Round: The World Trade Organization ends a four-day ministerial conference in Doha, Qatar.
 
 

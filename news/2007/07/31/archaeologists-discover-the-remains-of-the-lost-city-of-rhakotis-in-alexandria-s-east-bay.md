@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/31/archaeologists-discover-the-remains-of-the-lost-city-of-rhakotis-in-alexandria-s-east-bay.html)  [JSON](/news/2007/07/31/archaeologists-discover-the-remains-of-the-lost-city-of-rhakotis-in-alexandria-s-east-bay.json)  [XML](/news/2007/07/31/archaeologists-discover-the-remains-of-the-lost-city-of-rhakotis-in-alexandria-s-east-bay.xml)  
+
 ### [2007-07-31](/news/2007/07/31/index.md)
 
+##### Archaeologist
 #  Archaeologists discover the remains of the lost city of Rhakotis in Alexandria's East Bay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Geographic](http://news.nationalgeographic.com/news/2007/07/070731-alexandria-city.html)
 

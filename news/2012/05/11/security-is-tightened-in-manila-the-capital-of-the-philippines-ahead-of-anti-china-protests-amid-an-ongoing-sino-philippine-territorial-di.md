@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/05/11/security-is-tightened-in-manila-the-capital-of-the-philippines-ahead-of-anti-china-protests-amid-an-ongoing-sino-philippine-territorial-di.html)  [JSON](/news/2012/05/11/security-is-tightened-in-manila-the-capital-of-the-philippines-ahead-of-anti-china-protests-amid-an-ongoing-sino-philippine-territorial-di.json)  [XML](/news/2012/05/11/security-is-tightened-in-manila-the-capital-of-the-philippines-ahead-of-anti-china-protests-amid-an-ongoing-sino-philippine-territorial-di.xml)  
+
 ### [2012-05-11](/news/2012/05/11/index.md)
 
+##### Manila
 # Security is tightened in Manila, the capital of the Philippines, ahead of anti-China protests amid an ongoing Sino-Philippine territorial dispute in the South China Sea. 
 
 Security was tightened in the Philippines capital on Friday ahead of anti-Chinese protests over a territorial dispute in the South China Sea, with both Beijing and Taipei warning their citizens to be on guard for violence.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/05/11/us-philippines-china-idUSBRE84A05S20120511)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120511&t=2&i=605655509&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE84A0AAK00)
+1. [Reuters](https://www.reuters.com/article/2012/05/11/us-philippines-china-idUSBRE84A05S20120511)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120511&t=2&i=605655509&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE84A0AAK00)
 
 ### Related:
 

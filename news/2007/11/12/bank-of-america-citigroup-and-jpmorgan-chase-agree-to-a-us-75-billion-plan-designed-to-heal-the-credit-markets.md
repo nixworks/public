@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/12/bank-of-america-citigroup-and-jpmorgan-chase-agree-to-a-us-75-billion-plan-designed-to-heal-the-credit-markets.html)  [JSON](/news/2007/11/12/bank-of-america-citigroup-and-jpmorgan-chase-agree-to-a-us-75-billion-plan-designed-to-heal-the-credit-markets.json)  [XML](/news/2007/11/12/bank-of-america-citigroup-and-jpmorgan-chase-agree-to-a-us-75-billion-plan-designed-to-heal-the-credit-markets.xml)  
+
 ### [2007-11-12](/news/2007/11/12/index.md)
 
+##### Bank of America
 #  Bank of America, Citigroup and JPMorgan Chase agree to a US$75 billion plan designed to heal the credit markets. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/7090339.stm)
 

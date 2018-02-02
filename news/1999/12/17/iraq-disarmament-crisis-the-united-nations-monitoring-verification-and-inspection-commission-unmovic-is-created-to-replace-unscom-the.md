@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/12/17/iraq-disarmament-crisis-the-united-nations-monitoring-verification-and-inspection-commission-unmovic-is-created-to-replace-unscom-the.html)  [JSON](/news/1999/12/17/iraq-disarmament-crisis-the-united-nations-monitoring-verification-and-inspection-commission-unmovic-is-created-to-replace-unscom-the.json)  [XML](/news/1999/12/17/iraq-disarmament-crisis-the-united-nations-monitoring-verification-and-inspection-commission-unmovic-is-created-to-replace-unscom-the.xml)  
+
 ### [1999-12-17](/news/1999/12/17/index.md)
 
+##### Iraq disarmament crisis
 #  Iraq disarmament crisis: The United Nations Monitoring, Verification and Inspection Commission (Unmovic) is created to replace UNSCOM. The U.N. Security council once again orders Iraq to allow inspections teams immediate and unconditional access to any weapons sites and facilities. Iraq rejects the resolution.
 
 

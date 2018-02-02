@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/8/one-person-is-killed-and-several-are-injured-after-gunmen-open-fire-on-a-bus-carrying-the-togo-national-football-team-to-the-2010-africa-cup.html)  [JSON](/news/2010/01/8/one-person-is-killed-and-several-are-injured-after-gunmen-open-fire-on-a-bus-carrying-the-togo-national-football-team-to-the-2010-africa-cup.json)  [XML](/news/2010/01/8/one-person-is-killed-and-several-are-injured-after-gunmen-open-fire-on-a-bus-carrying-the-togo-national-football-team-to-the-2010-africa-cup.xml)  
+
 ### [2010-01-8](/news/2010/01/8/index.md)
 
+##### gunmen open fire on a bus
 # One person is killed and several are injured after gunmen open fire on a bus carrying the Togo national football team to the 2010 Africa Cup of Nations in Angola. 
 
 Togo threaten to withdraw from competition after a coach carrying the country&rsquo;s football team was attacked by gunmen.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8449319.stm)
 2. [ESPN](http://soccernet.espn.go.com/news/story?id=722453&sec=global&campaign=rss&source=soccernet&cc=5739)

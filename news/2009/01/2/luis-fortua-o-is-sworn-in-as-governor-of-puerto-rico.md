@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/2/luis-fortua-o-is-sworn-in-as-governor-of-puerto-rico.html)  [JSON](/news/2009/01/2/luis-fortua-o-is-sworn-in-as-governor-of-puerto-rico.json)  [XML](/news/2009/01/2/luis-fortua-o-is-sworn-in-as-governor-of-puerto-rico.xml)  
+
 ### [2009-01-2](/news/2009/01/2/index.md)
 
+##### Luis Fortuno
 #  Luis Fortuno is sworn in as Governor of Puerto Rico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iPhQXfYQ3XZ3rlkbaDOXFWWsLYtgD95F8KNG0)
 

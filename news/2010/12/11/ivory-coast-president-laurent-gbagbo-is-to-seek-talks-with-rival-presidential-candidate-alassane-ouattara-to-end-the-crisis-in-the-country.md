@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/11/ivory-coast-president-laurent-gbagbo-is-to-seek-talks-with-rival-presidential-candidate-alassane-ouattara-to-end-the-crisis-in-the-country.html)  [JSON](/news/2010/12/11/ivory-coast-president-laurent-gbagbo-is-to-seek-talks-with-rival-presidential-candidate-alassane-ouattara-to-end-the-crisis-in-the-country.json)  [XML](/news/2010/12/11/ivory-coast-president-laurent-gbagbo-is-to-seek-talks-with-rival-presidential-candidate-alassane-ouattara-to-end-the-crisis-in-the-country.xml)  
+
 ### [2010-12-11](/news/2010/12/11/index.md)
 
+##### Ivory Coast
 # Ivory Coast President Laurent Gbagbo is to seek talks with rival presidential candidate Alassane Ouattara to end the crisis in the country. The head of the Economic Community of West African States James Victor Gbeho rejects the idea of power-sharing talks. 
 
 President dismisses fears of civil war resumption following a poll he is widely thought to have lost to his rival.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/2010121135945557249.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/12/11/ivory.coast.ecowas/)

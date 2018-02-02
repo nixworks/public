@@ -1,14 +1,25 @@
+
+Formats: [HTML](/news/2008/08/15/michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-individual-medley-setting-a.html)  [JSON](/news/2008/08/15/michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-individual-medley-setting-a.json)  [XML](/news/2008/08/15/michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-individual-medley-setting-a.xml)  
+
 ### [2008-08-15](/news/2008/08/15/index.md)
 
+##### 2008 Summer Olympics
 #  Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [DPA via ''the Bangkok Post](http://www.bangkokpost.com/sportsplus/sportsplus.php?id=129641)
 2. [The Times](http://www.timesonline.co.uk/tol/sport/olympics/article4536961.ece)
+
+### Changes:
+
+1. [ 2008 Summer Olympics Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. ](/news/2008/08/15/2008-summer-olympics-p-michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-indi.md) _2017-05-25 03:23:17 (First version)_
+2. [ Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. ](/news/2008/08/15/michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-individual-medley-setting.md) _2017-08-25 03:22:42 (Update)_
+3. [ 2008 Summer Olympics: Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men-s 200 metres individual medley setting a new world record. ](/news/2008/08/15/2008-summer-olympics-michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-men-s-200-metres-indiv.md) _2017-08-27 03:22:36 (Update)_
+3. [ Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. ](/news/2008/08/15/michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-individual-medley-setting-a.md) _(Current version)_
 
 ### Related:
 
@@ -17,10 +28,3 @@
 3. [ American swimmer Michael Phelps breaks the record for most Olympic gold medals won by an individual athlete at the Beijing Olympics. ](/news/2008/08/13/american-swimmer-michael-phelps-breaks-the-record-for-most-olympic-gold-medals-won-by-an-individual-athlete-at-the-beijing-olympics.md) _Context: 2008 Summer Olympics, Michael Phelps_
 4. [ Michael Phelps of the United States wins his third gold medal at the 2008 Summer Olympics in the 200-meter freestyle and sets a new world record and the 200-meter butterfly in qualifications. ](/news/2008/08/12/michael-phelps-of-the-united-states-wins-his-third-gold-medal-at-the-2008-summer-olympics-in-the-200-meter-freestyle-and-sets-a-new-world-r.md) _Context: 2008 Summer Olympics, Michael Phelps_
 5. [Two helicopters collide in mid-air in a remote area of northwestern Argentina leaving at least ten dead. Among the dead are a group of French sports stars participating in a reality-television show called "Dropped": [http:--bigstory.ap.org-article-cecd6a53c4ad45a7bff911bf608ac3a5-2-helicopters-crash-northwest-argentina-10-dead (AP)], [http:--www.telegraph.co.uk-news-worldnews-southamerica-argentina-11460541-French-Olympians-filming-reality-TV-survival-show-killed-in-helicopter-crash-in-Argentina.html ("The Telegraph")], [http:--www.bbc.com-news-world-latin-america-31809231 (BBC)]Alexis Vastine - a 2008 Summer Olympics bronze medal boxer](/news/2015/03/9/two-helicopters-collide-in-mid-air-in-a-remote-area-of-northwestern-argentina-leaving-at-least-ten-dead-among-the-dead-are-a-group-of-frenc.md) _Context: 2008 Summer Olympics_
-
-### Changes:
-
-1. [ 2008 Summer Olympics Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. ](/news/2008/08/15/2008-summer-olympics-p-michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-indi.md) _2017-05-25 03:23:17 (First version)_
-2. [ Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. ](/news/2008/08/15/michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-individual-medley-setting.md) _2017-08-25 03:22:42 (Update)_
-3. [ 2008 Summer Olympics: Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men-s 200 metres individual medley setting a new world record. ](/news/2008/08/15/2008-summer-olympics-michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-men-s-200-metres-indiv.md) _2017-08-27 03:22:36 (Update)_
-3. [ Michael Phelps of the United States wins his sixth gold medal of the Beijing Olympics in the men's 200 metres individual medley setting a new world record. ](/news/2008/08/15/michael-phelps-of-the-united-states-wins-his-sixth-gold-medal-of-the-beijing-olympics-in-the-menas-200-metres-individual-medley-setting-a.md) _(Current version)_

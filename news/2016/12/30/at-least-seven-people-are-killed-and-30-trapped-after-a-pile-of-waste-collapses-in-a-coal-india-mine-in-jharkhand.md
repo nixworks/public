@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/30/at-least-seven-people-are-killed-and-30-trapped
 
 ### [2016-12-30](/news/2016/12/30/index.md)
 
+##### Coal India
 # At least seven people are killed and 30 trapped after a pile of waste collapses in a Coal India mine in Jharkhand. 
 
 

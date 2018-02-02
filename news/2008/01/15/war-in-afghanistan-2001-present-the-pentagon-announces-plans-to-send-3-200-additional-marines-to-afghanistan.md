@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/15/war-in-afghanistan-2001-present-the-pentagon-announces-plans-to-send-3-200-additional-marines-to-afghanistan.html)  [JSON](/news/2008/01/15/war-in-afghanistan-2001-present-the-pentagon-announces-plans-to-send-3-200-additional-marines-to-afghanistan.json)  [XML](/news/2008/01/15/war-in-afghanistan-2001-present-the-pentagon-announces-plans-to-send-3-200-additional-marines-to-afghanistan.xml)  
+
 ### [2008-01-15](/news/2008/01/15/index.md)
 
+##### War in Afghanistan
 #  War in Afghanistan (2001-present): The Pentagon announces plans to send 3,200 additional Marines to Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7189934.stm)
 

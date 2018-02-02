@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/3/at-least-18-people-are-injured-following-a-colli
 
 ### [2016-04-3](/news/2016/04/3/index.md)
 
+##### Plymouth railway station
 # At least 18 people are injured following a collision between two trains at Plymouth railway station in the city of Plymouth, Devon. The crash has caused significant disruption to rail services in South West England. 
 
 Eyewitness described hearing a &quot;huge bang&quot; and said passengers were thrown forward by the impact at Plymouth station.

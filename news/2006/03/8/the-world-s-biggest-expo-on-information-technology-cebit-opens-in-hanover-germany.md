@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/03/8/the-world-s-biggest-expo-on-information-technology-cebit-opens-in-hanover-germany.html)  [JSON](/news/2006/03/8/the-world-s-biggest-expo-on-information-technology-cebit-opens-in-hanover-germany.json)  [XML](/news/2006/03/8/the-world-s-biggest-expo-on-information-technology-cebit-opens-in-hanover-germany.xml)  
+
 ### [2006-03-8](/news/2006/03/8/index.md)
 
+##### Expo
 #  The world's biggest Expo on information technology, CeBIT, opens in Hanover, Germany. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [news.com](http://archive.is/20130121035411/http://news.com.com/2300-1041_3-6047571-1.html)
+1. [news.com](https://archive.is/20130121035411/http://news.com.com/2300-1041_3-6047571-1.html)
 
 ### Related:
 

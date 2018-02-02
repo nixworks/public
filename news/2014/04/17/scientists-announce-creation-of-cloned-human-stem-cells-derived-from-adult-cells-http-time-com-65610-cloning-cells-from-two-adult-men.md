@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2014/04/17/scientists-announce-creation-of-cloned-human-stem-cells-derived-from-adult-cells-http-time-com-65610-cloning-cells-from-two-adult-men.html)  [JSON](/news/2014/04/17/scientists-announce-creation-of-cloned-human-stem-cells-derived-from-adult-cells-http-time-com-65610-cloning-cells-from-two-adult-men.json)  [XML](/news/2014/04/17/scientists-announce-creation-of-cloned-human-stem-cells-derived-from-adult-cells-http-time-com-65610-cloning-cells-from-two-adult-men.xml)  
+
 ### [2014-04-17](/news/2014/04/17/index.md)
 
+##### cloned human
 # Scientists announce creation of cloned human stem cells derived from adult cells. ([http:--time.com-65610-cloning-cells-from-two-adult-men- "TIME"])
 
 

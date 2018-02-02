@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/5/a-united-nations-peacekeeper-dies-in-mbandaka-aquateur-democratic-republic-of-congo.html)  [JSON](/news/2010/04/5/a-united-nations-peacekeeper-dies-in-mbandaka-aquateur-democratic-republic-of-congo.json)  [XML](/news/2010/04/5/a-united-nations-peacekeeper-dies-in-mbandaka-aquateur-democratic-republic-of-congo.xml)  
+
 ### [2010-04-5](/news/2010/04/5/index.md)
 
+##### United Nations
 # A United Nations peacekeeper dies in Mbandaka, Equateur, Democratic Republic of Congo. 
 
 Deaths follow clashes between government troops and tribal fighters in Mbandaka.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/20104535123779436.html)
 1. [Cover Image](http://www.aljazeera.com)

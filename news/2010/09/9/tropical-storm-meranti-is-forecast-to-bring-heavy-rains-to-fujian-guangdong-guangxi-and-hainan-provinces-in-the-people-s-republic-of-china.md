@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/9/tropical-storm-meranti-is-forecast-to-bring-heavy-rains-to-fujian-guangdong-guangxi-and-hainan-provinces-in-the-people-s-republic-of-china.html)  [JSON](/news/2010/09/9/tropical-storm-meranti-is-forecast-to-bring-heavy-rains-to-fujian-guangdong-guangxi-and-hainan-provinces-in-the-people-s-republic-of-china.json)  [XML](/news/2010/09/9/tropical-storm-meranti-is-forecast-to-bring-heavy-rains-to-fujian-guangdong-guangxi-and-hainan-provinces-in-the-people-s-republic-of-china.xml)  
+
 ### [2010-09-9](/news/2010/09/9/index.md)
 
+##### Typhoon Chaba
 # Tropical Storm Meranti is forecast to bring heavy rains to Fujian, Guangdong, Guangxi and Hainan provinces in the People's Republic of China, as well as in Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-09/09/c_13486381.htm)
 

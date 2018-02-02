@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/10/united-states-diplomatic-cables-leak.html)  [JSON](/news/2010/12/10/united-states-diplomatic-cables-leak.json)  [XML](/news/2010/12/10/united-states-diplomatic-cables-leak.xml)  
+
 ### [2010-12-10](/news/2010/12/10/index.md)
 
+##### 250,000 documents
 # United States diplomatic cables leak: 
 
 The British government has trained a paramilitary force accused of hundreds of killings in Bangladesh, according to leaked U.S. embassy cables. 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Sydney Morning Herald](http://news.smh.com.au/breaking-news-technology/dutch-prosecutors-office-police-under-cyber-attack-20101211-18t4m.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/2010121061017861547.html)

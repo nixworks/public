@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/29/after-16-years-of-existence-the-u-s-national-football-league-announces-that-it-will-shut-down-its-european-operation-known-as-nfl-europ.html)  [JSON](/news/2007/06/29/after-16-years-of-existence-the-u-s-national-football-league-announces-that-it-will-shut-down-its-european-operation-known-as-nfl-europ.json)  [XML](/news/2007/06/29/after-16-years-of-existence-the-u-s-national-football-league-announces-that-it-will-shut-down-its-european-operation-known-as-nfl-europ.xml)  
+
 ### [2007-06-29](/news/2007/06/29/index.md)
 
+##### National Football League
 #  After 16 years of existence, the (U.S.) National Football League announces that it will shut down its European operation known as NFL Europa, with immediate effect. 
 
 NFL.com - The official source for NFL news, schedules, stats, scores and more.
 
 
-### Source:
+### Sources:
 
 1. [NFL.com](http://www.nfl.com/news/story/10240829)
 1. [Cover Image]( )

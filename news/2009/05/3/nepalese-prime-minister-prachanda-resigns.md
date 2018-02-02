@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/3/nepalese-prime-minister-prachanda-resigns.html)  [JSON](/news/2009/05/3/nepalese-prime-minister-prachanda-resigns.json)  [XML](/news/2009/05/3/nepalese-prime-minister-prachanda-resigns.xml)  
+
 ### [2009-05-3](/news/2009/05/3/index.md)
 
+##### Nepal
 #  Nepalese Prime Minister Prachanda resigns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/go/rss/-/2/hi/south_asia/8032389.stm)
 

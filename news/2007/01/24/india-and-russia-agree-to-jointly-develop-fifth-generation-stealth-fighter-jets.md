@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/24/india-and-russia-agree-to-jointly-develop-fifth-generation-stealth-fighter-jets.html)  [JSON](/news/2007/01/24/india-and-russia-agree-to-jointly-develop-fifth-generation-stealth-fighter-jets.json)  [XML](/news/2007/01/24/india-and-russia-agree-to-jointly-develop-fifth-generation-stealth-fighter-jets.xml)  
+
 ### [2007-01-24](/news/2007/01/24/index.md)
 
+##### India
 #  India and Russia agree to jointly develop fifth-generation stealth fighter jets. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ISRO](http://www.turkishweekly.net/news.php?id=42250)
 

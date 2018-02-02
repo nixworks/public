@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/26/a-light-plane-crashes-in-the-tokyo-residential-area-of-chafu-killing-three-people.html)  [JSON](/news/2015/07/26/a-light-plane-crashes-in-the-tokyo-residential-area-of-chafu-killing-three-people.json)  [XML](/news/2015/07/26/a-light-plane-crashes-in-the-tokyo-residential-area-of-chafu-killing-three-people.xml)  
+
 ### [2015-07-26](/news/2015/07/26/index.md)
 
+##### Tokyo
 # A light plane crashes in the Tokyo residential area of Chofu, killing three people. 
 
 A light plane crashes into a residential area in Tokyo, setting fire to several houses and reportedly killing three people.
 
 
-### Source:
+### Sources:
 
 1. [ABC Online](http://www.abc.net.au/news/2015-07-26/light-plane-crashes-into-tokyo-residential-area-sets-fire-houses/6648892)
 1. [Cover Image](http://www.abc.net.au/news/image/6648916-1x1-700x700.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/french-police-evacuate-the-eiffel-tower-and-the-surrounding-champ-de-mars-park-in-paris-following-a-bomb-threat.html)  [JSON](/news/2010/09/14/french-police-evacuate-the-eiffel-tower-and-the-surrounding-champ-de-mars-park-in-paris-following-a-bomb-threat.json)  [XML](/news/2010/09/14/french-police-evacuate-the-eiffel-tower-and-the-surrounding-champ-de-mars-park-in-paris-following-a-bomb-threat.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### French police
 # French police evacuate the Eiffel Tower and the surrounding Champ de Mars park in Paris following a bomb threat. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jKZdEMdf_OSG8c9P4kCGvjs-c72Q)
 

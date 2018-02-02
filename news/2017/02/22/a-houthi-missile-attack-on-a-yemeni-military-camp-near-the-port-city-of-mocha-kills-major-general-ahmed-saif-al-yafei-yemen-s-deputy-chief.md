@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/22/a-houthi-missile-attack-on-a-yemeni-military-ca
 
 ### [2017-02-22](/news/2017/02/22/index.md)
 
+##### Yemeni Civil War (2015-present)
 # A Houthi missile attack on a Yemeni military camp near the port city of Mocha kills Major General Ahmed Saif al-Yafei, Yemen's deputy chief of staff, and several others. 
 
 

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2012/07/6/associated-press-reports-that-yahoo-and-facebook-have-resolved-a-patent-dispute.html)  [JSON](/news/2012/07/6/associated-press-reports-that-yahoo-and-facebook-have-resolved-a-patent-dispute.json)  [XML](/news/2012/07/6/associated-press-reports-that-yahoo-and-facebook-have-resolved-a-patent-dispute.xml)  
+
 ### [2012-07-6](/news/2012/07/6/index.md)
 
+##### Associated Press
 # Associated Press reports that Yahoo! and Facebook have resolved a patent dispute. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Digital Times](http://news.brisbanetimes.com.au/breaking-news-technology/source-yahoo-facebook-have-settled-patent-fight-20120707-21na7.html)
 
 ### Related:
 
-1. [The U.S. Justice Department and the Director of National Intelligence reach a preliminary joint agreement, likely resolving a lawsuit with the major American Internet provider companies (Google, Yahoo, Facebook, Microsoft, and LinkedIn), about the information the companies can release to customers regarding requests by the intelligence agencies for information. ](/news/2014/01/27/the-u-s-justice-department-and-the-director-of-national-intelligence-reach-a-preliminary-joint-agreement-likely-resolving-a-lawsuit-with-t.md) _Context: Facebook, Yahoo!_
-2. [The Guardian obtains a copy of a document from April that reveals that the NSA is mining data using PRISM, spying on the e-mails and web activities of American citizens through direct access to Google, Apple, Microsoft, Facebook, YouTube, Skype, Yahoo, Paltalk and AOL. The Guardian's report does not state from whom they obtained the document. ](/news/2013/06/6/the-guardian-obtains-a-copy-of-a-document-from-april-that-reveals-that-the-nsa-is-mining-data-using-prism-spying-on-the-e-mails-and-web-act.md) _Context: Facebook, Yahoo!_
-3. [Internet portal company Yahoo warns social network company Facebook that it believes Facebook has infringed on several Yahoo patents, between 10 and 20. ](/news/2012/02/27/internet-portal-company-yahoo-warns-social-network-company-facebook-that-it-believes-facebook-has-infringed-on-several-yahoo-patents-betwee.md) _Context: Facebook, Yahoo!_
-4. [Paul Allen's company, Interval Licensing LLC, files a patent infringement lawsuit against Google, Apple Computer, AOL, eBay, Facebook, Netflix, Office Depot, OfficeMax, Staples Inc., Yahoo and YouTube. ](/news/2010/08/27/paul-allen-s-company-interval-licensing-llc-files-a-patent-infringement-lawsuit-against-google-apple-computer-aol-ebay-facebook-netfl.md) _Context: Facebook, Yahoo!_
-5. [Yahoo! reports that all three billion of its accounts were hacked in the August 2013 data theft. ](/news/2017/10/3/yahoo-reports-that-all-three-billion-of-its-accounts-were-hacked-in-the-august-2013-data-theft.md) _Context: Yahoo!_
+1. [Senior General Min Aung Hlaing posts on Facebook that Myanmar Army troops and Rakhine State villagers killed 10 Rohingya Muslims whose bodies were found in a mass grave in Inn Din village. This is the first time Myanmar's military has officially acknowledged extrajudicial actions against the Rohingya. Fortify Rights chief executive officer Matthew Smith says the two Reuters journalists who have been jailed since December 12, 2017, were investigating the same mass grave referenced by Min Aung Hlaing. ](/news/2018/01/10/senior-general-min-aung-hlaing-posts-on-facebook-that-myanmar-army-troops-and-rakhine-state-villagers-killed-10-rohingya-muslims-whose-bodie.md) _Context: Facebook_
+2. [U.S. senators question lawyers representing Facebook, Twitter and Google about Russian activity on their platforms during the 2016 United States presidential election. ](/news/2017/10/31/u-s-senators-question-lawyers-representing-facebook-twitter-and-google-about-russian-activity-on-their-platforms-during-the-2016-united-st.md) _Context: Facebook_
+3. [Yahoo! reports that all three billion of its accounts were hacked in the August 2013 data theft. ](/news/2017/10/3/yahoo-reports-that-all-three-billion-of-its-accounts-were-hacked-in-the-august-2013-data-theft.md) _Context: Yahoo!_
+4. [A Palestinian man in the occupied West Bank is arrested and questioned for a few hours by Israeli police after Facebook mistranslates his Arabic-language message saying "good morning" into Hebrew for "attack them". ](/news/2017/10/22/a-palestinian-man-in-the-occupied-west-bank-is-arrested-and-questioned-for-a-few-hours-by-israeli-police-after-facebook-mistranslates-his-ar.md) _Context: Facebook_
+5. [Facebook tells congressional investigators an operation, traced to a Russian company seeking to target voters, spent $100,000 on thousands of U.S. ads promoting divisive social and political messages during the 2016 U.S. election. ](/news/2017/09/6/facebook-tells-congressional-investigators-an-operation-traced-to-a-russian-company-seeking-to-target-voters-spent-100-000-on-thousands-o.md) _Context: Facebook_

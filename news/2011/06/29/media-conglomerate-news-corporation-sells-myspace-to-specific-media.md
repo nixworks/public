@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/media-conglomerate-news-corporation-sells-myspace-to-specific-media.html)  [JSON](/news/2011/06/29/media-conglomerate-news-corporation-sells-myspace-to-specific-media.json)  [XML](/news/2011/06/29/media-conglomerate-news-corporation-sells-myspace-to-specific-media.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### Media conglomerate
 # Media conglomerate News Corporation sells MySpace to Specific Media. 
 
 News Corporation sells its ailing social networking site MySpace for a fraction of the price it paid for the business six years ago.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-13969338)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

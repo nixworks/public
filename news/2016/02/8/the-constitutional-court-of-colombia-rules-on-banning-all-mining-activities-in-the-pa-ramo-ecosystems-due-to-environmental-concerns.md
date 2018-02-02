@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/8/the-constitutional-court-of-colombia-rules-on-ba
 
 ### [2016-02-8](/news/2016/02/8/index.md)
 
+##### Supreme Court
 # The Constitutional Court of Colombia rules on banning all mining activities in the Paramo ecosystems due to environmental concerns. 
 
 

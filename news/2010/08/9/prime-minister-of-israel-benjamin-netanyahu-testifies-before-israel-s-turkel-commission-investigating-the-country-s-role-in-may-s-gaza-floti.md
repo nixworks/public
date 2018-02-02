@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/9/prime-minister-of-israel-benjamin-netanyahu-testifies-before-israel-s-turkel-commission-investigating-the-country-s-role-in-may-s-gaza-floti.html)  [JSON](/news/2010/08/9/prime-minister-of-israel-benjamin-netanyahu-testifies-before-israel-s-turkel-commission-investigating-the-country-s-role-in-may-s-gaza-floti.json)  [XML](/news/2010/08/9/prime-minister-of-israel-benjamin-netanyahu-testifies-before-israel-s-turkel-commission-investigating-the-country-s-role-in-may-s-gaza-floti.xml)  
+
 ### [2010-08-9](/news/2010/08/9/index.md)
 
+##### Israeli Prime Minister
 # Prime Minister of Israel Benjamin Netanyahu testifies before Israel's Turkel Commission investigating the country's role in May's Gaza flotilla raid, chaired by Israeli judge Jacob Turkel. The testimony is scheduled to last five hours, with some of it closed to the media and public. 
 
 JERUSALEM: Israel&#039;s Prime Minister, Benjamin Netanyahu, is expected to assign blame for Israel&#039;s raid on a Gaza-bound aid flotilla on his outgoing military chief when the PM appears today before a judicial inquiry investigating the incident.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/08/20108971927270517.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-10910082)

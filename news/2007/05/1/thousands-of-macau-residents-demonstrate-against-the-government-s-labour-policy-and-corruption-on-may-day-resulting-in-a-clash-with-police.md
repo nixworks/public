@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/1/thousands-of-macau-residents-demonstrate-against-the-government-s-labour-policy-and-corruption-on-may-day-resulting-in-a-clash-with-police.html)  [JSON](/news/2007/05/1/thousands-of-macau-residents-demonstrate-against-the-government-s-labour-policy-and-corruption-on-may-day-resulting-in-a-clash-with-police.json)  [XML](/news/2007/05/1/thousands-of-macau-residents-demonstrate-against-the-government-s-labour-policy-and-corruption-on-may-day-resulting-in-a-clash-with-police.xml)  
+
 ### [2007-05-1](/news/2007/05/1/index.md)
 
+##### Macau
 #  Thousands of Macau residents demonstrate against the government's labour policy and corruption on May Day, resulting in a clash with police. One bystander was injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via International Herald Tribute](http://www.iht.com/articles/ap/2007/05/01/asia/AS-GEN-Macau-May-Day.php)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6611245.stm)

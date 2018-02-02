@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2016/04/4/mehbooba-mufti-leader-of-the-peoples-democratic-party-becomes-jammu-and-kashmir-s-first-female-chief-minister.html)  [JSON](/news/2016/04/4/mehbooba-mufti-leader-of-the-peoples-democratic-party-becomes-jammu-and-kashmir-s-first-female-chief-minister.json)  [XML](/news/2016/04/4/mehbooba-mufti-leader-of-the-peoples-democratic-party-becomes-jammu-and-kashmir-s-first-female-chief-minister.xml)  
+
 ### [2016-04-4](/news/2016/04/4/index.md)
 
+##### Mehbooba Mufti
 # Mehbooba Mufti, leader of the Peoples Democratic Party, becomes Jammu and Kashmir's first female Chief Minister. 
 
 Mehbooba Mufti of People’s Democractic party takes oath of office, ending stalemate over formation of new state government
 
 
-### Source:
+### Sources:
 
-1. [The Guardian](http://www.theguardian.com/world/2016/apr/04/kashmir-gets-its-first-female-chief-minister)
+1. [The Guardian](https://www.theguardian.com/world/2016/apr/04/kashmir-gets-its-first-female-chief-minister)
 1. [Cover Image](https://i.guim.co.uk/img/media/b42c97319e8dd7682d8952dfff8d4297481d0b3d/378_187_1675_1005/master/1675.jpg?w=1200&amp;h=630&amp;q=55&amp;auto=format&amp;usm=12&amp;fit=crop&amp;crop=faces%2Centropy&amp;bm=normal&amp;ba=bottom%2Cleft&amp;blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&amp;s=db1a9f6d3ceaf01fed90351ac2c6a849)
 
 ### Related:

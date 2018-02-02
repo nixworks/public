@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/06/9/three-men-are-arrested-two-protesters-are-kicked-and-pushed-downstairs-and-eggs-are-thrown-during-demonstrations-as-iran-s-foreign-minister.html)  [JSON](/news/2010/06/9/three-men-are-arrested-two-protesters-are-kicked-and-pushed-downstairs-and-eggs-are-thrown-during-demonstrations-as-iran-s-foreign-minister.json)  [XML](/news/2010/06/9/three-men-are-arrested-two-protesters-are-kicked-and-pushed-downstairs-and-eggs-are-thrown-during-demonstrations-as-iran-s-foreign-minister.xml)  
+
 ### [2010-06-9](/news/2010/06/9/index.md)
 
+##### Iran
 # Three men are arrested, two protesters are kicked and pushed downstairs and eggs are thrown during demonstrations as Iran's Foreign Minister Manouchehr Mottaki hides under an umbrella while leaving the Institute of International and European Affairs in Dublin. 
 
 Three men have been arrested following demonstrations as Iran&#39;s Foreign Minister left the Institute of International and European Affairs in Dublin.
 
 
-### Source:
+### Sources:
 
 1. [FCNN](http://www.fcnn.com/index.php?option=com_content&view=article&id=1588:hecklers-of-iran-foreign-minister-in-ireland-releasedvideo&catid=112:inside-iran&Itemid=592)
 2. [RTÉ](http://www.rte.ie/news/2010/0609/iran.html)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/06/09/AR2010060905176.html)
+3. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/06/09/AR2010060905176.html)
 3. [Cover Image](https://img.rasset.ie/00036193-1600.jpg)
 
 ### Related:

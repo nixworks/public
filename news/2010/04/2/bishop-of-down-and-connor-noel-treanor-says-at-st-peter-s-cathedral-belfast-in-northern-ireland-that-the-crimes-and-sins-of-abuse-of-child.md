@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/2/bishop-of-down-and-connor-noel-treanor-says-at-st-peter-s-cathedral-belfast-in-northern-ireland-that-the-crimes-and-sins-of-abuse-of-child.html)  [JSON](/news/2010/04/2/bishop-of-down-and-connor-noel-treanor-says-at-st-peter-s-cathedral-belfast-in-northern-ireland-that-the-crimes-and-sins-of-abuse-of-child.json)  [XML](/news/2010/04/2/bishop-of-down-and-connor-noel-treanor-says-at-st-peter-s-cathedral-belfast-in-northern-ireland-that-the-crimes-and-sins-of-abuse-of-child.xml)  
+
 ### [2010-04-2](/news/2010/04/2/index.md)
 
+##### Bishop of Down and Connor
 # Bishop of Down and Connor Noel Treanor says at St Peter's Cathedral, Belfast in Northern Ireland that the "crimes and sins of abuse of children and minors by clergy and religious" are "faith-shaking". 
 
 The Bishop of Down and Connor has described as &#39;faith-shaking&#39; the &#39;crimes and sins of abuse of minors by clergy and religious&#39;.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0402/abuse.html)
 2. [The Australian](http://www.theaustralian.com.au/news/world/christians-losing-faith-amid-abuse-scandal/story-e6frg6so-1225849033470)

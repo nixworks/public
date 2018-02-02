@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/24/the-president-of-indonesia-susilo-bambang-yudhoyono-is-declared-as-the-winner-of-the-indonesian-presidential-election.html)  [JSON](/news/2009/07/24/the-president-of-indonesia-susilo-bambang-yudhoyono-is-declared-as-the-winner-of-the-indonesian-presidential-election.json)  [XML](/news/2009/07/24/the-president-of-indonesia-susilo-bambang-yudhoyono-is-declared-as-the-winner-of-the-indonesian-presidential-election.xml)  
+
 ### [2009-07-24](/news/2009/07/24/index.md)
 
+##### President of Indonesia
 #  The President of Indonesia, Susilo Bambang Yudhoyono, is declared as the winner of the Indonesian presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gF4-e2dkH3lQqiqnRwq5jW4yZ7PAD99KJRM80)
 

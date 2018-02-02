@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/25/abu-musab-al-zarqawi-appears-unmasked-in-a-newly-released-video-taunting-the-crusade-by-the-american-led-coalition-and-iraqi-authorities.html)  [JSON](/news/2006/04/25/abu-musab-al-zarqawi-appears-unmasked-in-a-newly-released-video-taunting-the-crusade-by-the-american-led-coalition-and-iraqi-authorities.json)  [XML](/news/2006/04/25/abu-musab-al-zarqawi-appears-unmasked-in-a-newly-released-video-taunting-the-crusade-by-the-american-led-coalition-and-iraqi-authorities.xml)  
+
 ### [2006-04-25](/news/2006/04/25/index.md)
 
+##### Abu Musab al-Zarqawi
 #  Abu Musab al-Zarqawi appears unmasked in a newly released video taunting the "crusade" by the American-led coalition and Iraqi authorities. At one point, he addresses U.S. President George W. Bush. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4944250.stm)
 2. [CNN](http://www.cnn.com/2006/WORLD/meast/04/25/zarqawi/index.html)

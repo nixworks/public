@@ -1,15 +1,15 @@
+
+Formats: [HTML](/news/2014/05/1/the-first-ever-outbreak-of-chikungunya-in-the-caribbean-reaches-epidemic-levels.html)  [JSON](/news/2014/05/1/the-first-ever-outbreak-of-chikungunya-in-the-caribbean-reaches-epidemic-levels.json)  [XML](/news/2014/05/1/the-first-ever-outbreak-of-chikungunya-in-the-caribbean-reaches-epidemic-levels.xml)  
+
 ### [2014-05-1](/news/2014/05/1/index.md)
 
+##### outbreak
 # The first-ever outbreak of chikungunya in the Caribbean reaches epidemic levels. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jamaica Observer](http://www.jamaicaobserver.com/latestnews/Chikungunya-now-an-epidemic-in-the-Caribbean)
 1. [Cover Image](http://www.jamaicaobserver.com/assets/10637660/aedes_w400.jpg)
-
-### Related:
-
-1. [Sindh Government officials declare a health emergency in Malir, Karachi, as thousands of patients have been affected by the mysterious Chikungunya virus. The government states the "aedes aegypti" mosquito is responsible for spreading the Chikungunya virus in Pakistan's largest city. ](/news/2016/12/21/sindh-government-officials-declare-a-health-emergency-in-malir-karachi-as-thousands-of-patients-have-been-affected-by-the-mysterious-chiku.md) _Context: Chikungunya_

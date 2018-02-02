@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/14/a-peruvian-court-orders-the-arrest-of-two-chilean-military-officers-on-charges-of-spying-causing-a-diplomatic-row-between-the-two-countrie.html)  [JSON](/news/2009/11/14/a-peruvian-court-orders-the-arrest-of-two-chilean-military-officers-on-charges-of-spying-causing-a-diplomatic-row-between-the-two-countrie.json)  [XML](/news/2009/11/14/a-peruvian-court-orders-the-arrest-of-two-chilean-military-officers-on-charges-of-spying-causing-a-diplomatic-row-between-the-two-countrie.xml)  
+
 ### [2009-11-14](/news/2009/11/14/index.md)
 
+##### Peru
 #  A Peruvian court orders the arrest of two Chilean military officers on charges of spying, causing a diplomatic row between the two countries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hRnsI2a373Yifsp35oiDjX70ZV8w)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8360144.stm)

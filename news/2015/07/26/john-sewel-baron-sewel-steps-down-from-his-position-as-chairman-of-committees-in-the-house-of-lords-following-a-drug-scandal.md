@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/26/john-sewel-baron-sewel-steps-down-from-his-position-as-chairman-of-committees-in-the-house-of-lords-following-a-drug-scandal.html)  [JSON](/news/2015/07/26/john-sewel-baron-sewel-steps-down-from-his-position-as-chairman-of-committees-in-the-house-of-lords-following-a-drug-scandal.json)  [XML](/news/2015/07/26/john-sewel-baron-sewel-steps-down-from-his-position-as-chairman-of-committees-in-the-house-of-lords-following-a-drug-scandal.xml)  
+
 ### [2015-07-26](/news/2015/07/26/index.md)
 
+##### John Sewel, Baron Sewel
 # John Sewel, Baron Sewel steps down from his position as Chairman of Committees in the House of Lords following a drug scandal. 
 
 Lord Sewel is facing a police inquiry after quitting as House of Lords deputy speaker over a video allegedly showing him taking drugs with prostitutes.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-33667676)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/cpsprodpb/1F03/production/_84493970_84493969.jpg)

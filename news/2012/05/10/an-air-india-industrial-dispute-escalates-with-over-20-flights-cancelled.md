@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/10/an-air-india-industrial-dispute-escalates-with-over-20-flights-cancelled.html)  [JSON](/news/2012/05/10/an-air-india-industrial-dispute-escalates-with-over-20-flights-cancelled.json)  [XML](/news/2012/05/10/an-air-india-industrial-dispute-escalates-with-over-20-flights-cancelled.xml)  
+
 ### [2012-05-10](/news/2012/05/10/index.md)
 
+##### Air India
 # An Air India industrial dispute escalates, with over 20 flights cancelled. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IBN Live](http://ibnlive.in.com/news/air-indias-woes-escalate-over-20-flights-cancelled/256382-3.html)
 

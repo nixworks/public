@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/16/the-premier-of-western-australia-geoff-gallop-resigns-his-office-after-announcing-he-is-suffering-from-depression.html)  [JSON](/news/2006/01/16/the-premier-of-western-australia-geoff-gallop-resigns-his-office-after-announcing-he-is-suffering-from-depression.json)  [XML](/news/2006/01/16/the-premier-of-western-australia-geoff-gallop-resigns-his-office-after-announcing-he-is-suffering-from-depression.xml)  
+
 ### [2006-01-16](/news/2006/01/16/index.md)
 
+##### Premier
 #  The Premier of Western Australia, Geoff Gallop, resigns his office after announcing he is suffering from depression. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Australia](http://www.abc.net.au/news/newsitems/200601/s1548426.htm)
 

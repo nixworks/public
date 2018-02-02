@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/14/joseph-clancy-director-of-the-united-states-sec
 
 ### [2017-02-14](/news/2017/02/14/index.md)
 
+##### Joseph Clancy
 # Joseph Clancy, Director of the United States Secret Service, announces his retirement effective March 4. 
 
 

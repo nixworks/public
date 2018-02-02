@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/26/seven-israeli-chess-players-are-denied-travel-v
 
 ### [2017-12-26](/news/2017/12/26/index.md)
 
+##### Foreign relations of Saudi Arabia
 # Seven Israeli chess players are denied travel visas to the Rapid and Blitz Chess Championships in Saudi Arabia as the two countries have no diplomatic relations. Players from Qatar and Iran are given last-minute visas, while Ukrainian champion Anna Muzychuk refuses to participate because she does not want to wear an abaya. 
 
 Saudi Arabia denied visas to Israeli players, and a Ukrainian world champion is boycotting the event.

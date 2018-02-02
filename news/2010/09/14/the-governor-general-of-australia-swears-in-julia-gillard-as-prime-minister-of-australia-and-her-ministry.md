@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/the-governor-general-of-australia-swears-in-julia-gillard-as-prime-minister-of-australia-and-her-ministry.html)  [JSON](/news/2010/09/14/the-governor-general-of-australia-swears-in-julia-gillard-as-prime-minister-of-australia-and-her-ministry.json)  [XML](/news/2010/09/14/the-governor-general-of-australia-swears-in-julia-gillard-as-prime-minister-of-australia-and-her-ministry.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Governor-General of Australia
 # The Governor-General of Australia swears in Julia Gillard as Prime Minister of Australia and her Ministry. 
 
 Julia Gillard has been sworn in as Prime Minister at Government House in Canberra.
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Sydney Morning Herald](http://www.smh.com.au/national/gillard-sworn-in-as-prime-minister-20100914-15ae6.html?from=smh_sb)
 2. [ABC Online](http://www.abc.net.au/news/stories/2010/09/14/3011462.htm)

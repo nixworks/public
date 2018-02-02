@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/15/fiji-declares-lieutenant-colonel-ratu-tevita-uluilakeba-mara-a-fugitive-after-he-flees-the-country-with-the-help-of-the-royal-tongan-navy-h.html)  [JSON](/news/2011/05/15/fiji-declares-lieutenant-colonel-ratu-tevita-uluilakeba-mara-a-fugitive-after-he-flees-the-country-with-the-help-of-the-royal-tongan-navy-h.json)  [XML](/news/2011/05/15/fiji-declares-lieutenant-colonel-ratu-tevita-uluilakeba-mara-a-fugitive-after-he-flees-the-country-with-the-help-of-the-royal-tongan-navy-h.xml)  
+
 ### [2011-05-15](/news/2011/05/15/index.md)
 
+##### Fiji
 # Fiji declares Lieutenant Colonel Ratu Tevita Uluilakeba Mara a fugitive after he flees the country with the help of the Royal Tongan Navy. He had been charged a week earlier with mutiny and attempting to overthrow the Fijian government. 
 
 Former Royal Fiji Military Force (RFMF) chief of staff Lieutenant Colonel Ratu Tevita Uluilakeba Mara has been declared a fugitive under the Extradition Act by interim Fiji Prime Minister - New Zealand Herald
 
 
-### Source:
+### Sources:
 
 1. [The New Zealand Herald](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10725909)
 1. [Cover Image](http://media.nzherald.co.nz/webcontent/image/jpg/201121/SCCZEN_150511SPLfiji_1024x768.JPG)

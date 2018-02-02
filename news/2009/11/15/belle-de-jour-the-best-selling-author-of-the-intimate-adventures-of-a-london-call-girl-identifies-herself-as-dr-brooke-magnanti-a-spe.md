@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/15/belle-de-jour-the-best-selling-author-of-the-intimate-adventures-of-a-london-call-girl-identifies-herself-as-dr-brooke-magnanti-a-spe.html)  [JSON](/news/2009/11/15/belle-de-jour-the-best-selling-author-of-the-intimate-adventures-of-a-london-call-girl-identifies-herself-as-dr-brooke-magnanti-a-spe.json)  [XML](/news/2009/11/15/belle-de-jour-the-best-selling-author-of-the-intimate-adventures-of-a-london-call-girl-identifies-herself-as-dr-brooke-magnanti-a-spe.xml)  
+
 ### [2009-11-15](/news/2009/11/15/index.md)
 
+##### Belle de Jour
 #  Belle de Jour, the best-selling author of "The Intimate Adventures of a London Call Girl", identifies herself as Dr. Brooke Magnanti, a specialist in cancer epidemiology at the Bristol Initiative for Research of Child Health. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iS64CJablLpPI3ViJhylj-HeUBeAD9C04AKG1)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/8361557.stm)

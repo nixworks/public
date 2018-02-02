@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/1/four-coordinated-low-intensity-bombs-explode-in-the-indian-city-of-pune.html)  [JSON](/news/2012/08/1/four-coordinated-low-intensity-bombs-explode-in-the-indian-city-of-pune.json)  [XML](/news/2012/08/1/four-coordinated-low-intensity-bombs-explode-in-the-indian-city-of-pune.xml)  
+
 ### [2012-08-1](/news/2012/08/1/index.md)
 
+##### India
 # Four coordinated low intensity bombs explode in the Indian city of Pune. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN-IBN](http://ibnlive.in.com/news/three-minor-blasts-in-pune-one-injured/277267-3-237.html)
 2. [DNA India](http://www.dnaindia.com/india/commentary_live-5-blasts-in-pune-6th-bomb-diffused-ammonium-nitrate-9-volt-batteries-used_1722867)

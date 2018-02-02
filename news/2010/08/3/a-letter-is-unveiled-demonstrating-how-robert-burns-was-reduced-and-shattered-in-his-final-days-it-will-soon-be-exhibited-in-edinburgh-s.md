@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/a-letter-is-unveiled-demonstrating-how-robert-burns-was-reduced-and-shattered-in-his-final-days-it-will-soon-be-exhibited-in-edinburgh-s.html)  [JSON](/news/2010/08/3/a-letter-is-unveiled-demonstrating-how-robert-burns-was-reduced-and-shattered-in-his-final-days-it-will-soon-be-exhibited-in-edinburgh-s.json)  [XML](/news/2010/08/3/a-letter-is-unveiled-demonstrating-how-robert-burns-was-reduced-and-shattered-in-his-final-days-it-will-soon-be-exhibited-in-edinburgh-s.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Robert Burns
 # A letter is unveiled demonstrating how Robert Burns was "reduced and shattered" in his final days; it will soon be exhibited in Edinburgh, Scotland. 
 
 A letter which describes how Scottish poet Robert Burns was &quot;reduced and shattered&quot; in his final days is to be unveiled.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-10848775)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/1/bangladeshi-politician-salahuddin-quader-chowdhury-is-sentenced-to-death-for-war-crimes-including-murder-torture-and-genocide-for-his-atro.html)  [JSON](/news/2013/10/1/bangladeshi-politician-salahuddin-quader-chowdhury-is-sentenced-to-death-for-war-crimes-including-murder-torture-and-genocide-for-his-atro.json)  [XML](/news/2013/10/1/bangladeshi-politician-salahuddin-quader-chowdhury-is-sentenced-to-death-for-war-crimes-including-murder-torture-and-genocide-for-his-atro.xml)  
+
 ### [2013-10-1](/news/2013/10/1/index.md)
 
+##### Bangladesh
 # Bangladeshi politician Salahuddin Quader Chowdhury is sentenced to death for war crimes including murder, torture, and genocide for his atrocities in the Bangladesh Liberation War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24344868)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/70205000/jpg/_70205142_70205141.jpg)

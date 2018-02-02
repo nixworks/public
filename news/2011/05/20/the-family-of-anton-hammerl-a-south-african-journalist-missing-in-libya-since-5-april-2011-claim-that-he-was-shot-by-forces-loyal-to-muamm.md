@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2011/05/20/the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot-by-forces-loyal-to-muamm.html)  [JSON](/news/2011/05/20/the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot-by-forces-loyal-to-muamm.json)  [XML](/news/2011/05/20/the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot-by-forces-loyal-to-muamm.xml)  
+
 ### [2011-05-20](/news/2011/05/20/index.md)
 
+##### Anton Hammerl
 # The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://blogs.aljazeera.net/liveblog/libya)
 2. [IOL News](http://www.iol.co.za/news/africa/anton-hammerl-is-dead-family-1.1071364)
+
+### Changes:
+
+1. [2011 Libyan civil war:The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/2011-libyan-civil-war-pthe-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot-b.md) _2017-08-25 03:33:12 (First version)_
+2. [2011 Libyan civil war:: The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/2011-libyan-civil-war-the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot.md) _2017-08-27 03:33:21 (Update)_
+2. [The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot-by-forces-loyal-to-muamm.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [Men in technicals, pickup trucks with anti-aircraft guns, block off and surround the Libyan foreign ministry in the capital Tripoli demanding a ban on Gaddafi-era officials working in the government ](/news/2013/04/28/men-in-technicals-pickup-trucks-with-anti-aircraft-guns-block-off-and-surround-the-libyan-foreign-ministry-in-the-capital-tripoli-demandin.md) _Context: Libya, Muammar Gaddafi_
 4. [Over documents delivered to Saif al-Islam, detained son of slain leader Muammar Gaddafi, Libya arrests an Australian lawyer from the International Criminal Court (ICC) for trying "to deliver documents to the accused, documents that have nothing to do with his case and that represent a danger to the security of Libya". ](/news/2012/06/10/over-documents-delivered-to-saif-al-islam-detained-son-of-slain-leader-muammar-gaddafi-libya-arrests-an-australian-lawyer-from-the-interna.md) _Context: Libya, Muammar Gaddafi_
 5. [A Libyan starts court proceedings against 41 people accused of helping Muammar Gaddafi to attempt to suppress the opposition in the Libyan Civil War. ](/news/2012/02/5/a-libyan-starts-court-proceedings-against-41-people-accused-of-helping-muammar-gaddafi-to-attempt-to-suppress-the-opposition-in-the-libyan-c.md) _Context: Libya, Muammar Gaddafi_
-
-### Changes:
-
-1. [2011 Libyan civil war:The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/2011-libyan-civil-war-pthe-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot-b.md) _2017-08-25 03:33:12 (First version)_
-2. [2011 Libyan civil war:: The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/2011-libyan-civil-war-the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot.md) _2017-08-27 03:33:21 (Update)_
-2. [The family of Anton Hammerl, a South African journalist missing in Libya since 5 April 2011, claim that he was shot by forces loyal to Muammar Gaddafi. ](/news/2011/05/20/the-family-of-anton-hammerl-a-south-african-journalist-missing-in-libya-since-5-april-2011-claim-that-he-was-shot-by-forces-loyal-to-muamm.md) _(Current version)_

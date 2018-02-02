@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/1/queen-elizabeth-ii-appoints-former-prime-minister-of-australia-john-howard-and-british-painter-david-hockney-to-the-order-of-merit.html)  [JSON](/news/2012/01/1/queen-elizabeth-ii-appoints-former-prime-minister-of-australia-john-howard-and-british-painter-david-hockney-to-the-order-of-merit.json)  [XML](/news/2012/01/1/queen-elizabeth-ii-appoints-former-prime-minister-of-australia-john-howard-and-british-painter-david-hockney-to-the-order-of-merit.xml)  
+
 ### [2012-01-1](/news/2012/01/1/index.md)
 
+##### Elizabeth II
 # Queen Elizabeth II appoints former Prime Minister of Australia John Howard and British painter David Hockney to the Order of Merit. 
 
 The Queen has appointed former prime minister John Howard a member of the Order of Merit.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/john-howard-appointed-to-order-of-merit-20120101-1pgxl.html)
 1. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)

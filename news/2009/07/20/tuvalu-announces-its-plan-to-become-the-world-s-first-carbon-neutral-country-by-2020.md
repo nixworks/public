@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/20/tuvalu-announces-its-plan-to-become-the-world-s-first-carbon-neutral-country-by-2020.html)  [JSON](/news/2009/07/20/tuvalu-announces-its-plan-to-become-the-world-s-first-carbon-neutral-country-by-2020.json)  [XML](/news/2009/07/20/tuvalu-announces-its-plan-to-become-the-world-s-first-carbon-neutral-country-by-2020.xml)  
+
 ### [2009-07-20](/news/2009/07/20/index.md)
 
+##### Tuvalu
 #  Tuvalu announces its plan to become the world's first carbon neutral country by 2020. 
 
 The tiny South Pacific island nation of Tuvalu could become the first zero-carbon country after vowing to abandon fossil fuels and generate all of its energy from renewable sources by 2020.
 
 
-### Source:
+### Sources:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/tuvalu/5871093/Tuvalu-plots-worlds-first-zero-carbon-output-by-2020.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01446/TUVALU_1446551a.jpg)

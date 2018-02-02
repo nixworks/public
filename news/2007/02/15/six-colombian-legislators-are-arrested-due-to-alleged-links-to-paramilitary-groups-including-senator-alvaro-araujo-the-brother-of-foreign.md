@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/15/six-colombian-legislators-are-arrested-due-to-alleged-links-to-paramilitary-groups-including-senator-alvaro-araujo-the-brother-of-foreign.html)  [JSON](/news/2007/02/15/six-colombian-legislators-are-arrested-due-to-alleged-links-to-paramilitary-groups-including-senator-alvaro-araujo-the-brother-of-foreign.json)  [XML](/news/2007/02/15/six-colombian-legislators-are-arrested-due-to-alleged-links-to-paramilitary-groups-including-senator-alvaro-araujo-the-brother-of-foreign.xml)  
+
 ### [2007-02-15](/news/2007/02/15/index.md)
 
+##### Colombia
 #  Six Colombian legislators are arrested due to alleged links to paramilitary groups including Senator lvaro Arajo, the brother of Foreign Minister Mara Consuelo Arajo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6367441.stm)
 

@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2013/06/8/the-existence-of-boundless-informant-an-nsa-tool-used-by-the-u-s-government-to-watch-every-country-on-planet-earth-is-revealed.html)  [JSON](/news/2013/06/8/the-existence-of-boundless-informant-an-nsa-tool-used-by-the-u-s-government-to-watch-every-country-on-planet-earth-is-revealed.json)  [XML](/news/2013/06/8/the-existence-of-boundless-informant-an-nsa-tool-used-by-the-u-s-government-to-watch-every-country-on-planet-earth-is-revealed.xml)  
+
 ### [2013-06-8](/news/2013/06/8/index.md)
 
+##### Boundless Informant
 # The existence of Boundless Informant, an NSA tool used by the U.S. government to watch every country on planet Earth, is revealed. 
 
 Does the NSA have any secrets left? First there was PRISM—the network that&amp;#39;s collecting real-time data on American&amp;#39;s everywhere—and now The Guardian has turned up &quot;Boundless Informant&quot; which is indexing surveillance and espionage metadata from the ENTIRE WORLD.
 
 
-### Source:
+### Sources:
 
-1. [Gizmodo](http://gizmodo.com/meet-boundless-informant-the-nsa-tool-that-watches-the-512107983)
+1. [Gizmodo](https://gizmodo.com/meet-boundless-informant-the-nsa-tool-that-watches-the-512107983)
 2. [The Guardian](http://www.guardian.co.uk/world/2013/jun/07/google-facebook-prism-surveillance-program)
 3. [The Guardian](http://www.guardian.co.uk/world/2013/jun/08/nsa-boundless-informant-global-datamining#)
 4. [The Guardian](http://www.guardian.co.uk/world/2013/jun/08/nsa-surveillance-prism-obama-live#block-51b33af7e4b0cc6424372258)
-5. [The New York Times](http://www.nytimes.com/2013/06/08/technology/tech-companies-bristling-concede-to-government-surveillance-efforts.html?ref=global-home&_r=2&pagewanted=all&)
+5. [The New York Times](https://www.nytimes.com/2013/06/08/technology/tech-companies-bristling-concede-to-government-surveillance-efforts.html?ref=global-home&_r=2&pagewanted=all&)
 5. [Cover Image](https://i.kinja-img.com/gawker-media/image/upload/s--YDgQP5N6--/c_fill,fl_progressive,g_center,h_450,q_80,w_800/18q7ojwcl1iwbjpg.jpg)
 
 ### Related:

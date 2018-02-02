@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/25/a-gunman-killed-six-people-at-a-party-and-then-himself-in-the-capitol-hill-massacre-in-seattle.html)  [JSON](/news/2006/03/25/a-gunman-killed-six-people-at-a-party-and-then-himself-in-the-capitol-hill-massacre-in-seattle.json)  [XML](/news/2006/03/25/a-gunman-killed-six-people-at-a-party-and-then-himself-in-the-capitol-hill-massacre-in-seattle.xml)  
+
 ### [2006-03-25](/news/2006/03/25/index.md)
 
+##### Capitol Hill massacre
 #  A gunman killed six people at a party and then himself in the Capitol Hill massacre in Seattle. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Seattle Post-Intelligencer](http://www.seattlepi.com/local/264412_shoottimeline26ww.html)
 

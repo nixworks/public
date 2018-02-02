@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/25/union-officials-call-off-a-public-sector-strike-in-the-united-kingdom-scheduled-for-the-eve-of-the-2012-olympics.html)  [JSON](/news/2012/07/25/union-officials-call-off-a-public-sector-strike-in-the-united-kingdom-scheduled-for-the-eve-of-the-2012-olympics.json)  [XML](/news/2012/07/25/union-officials-call-off-a-public-sector-strike-in-the-united-kingdom-scheduled-for-the-eve-of-the-2012-olympics.xml)  
+
 ### [2012-07-25](/news/2012/07/25/index.md)
 
+##### 2012 Summer Olympics
 # Union officials call off a public sector strike in the United Kingdom scheduled for the eve of the 2012 Olympics. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-18982453)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61811000/jpg/_61811427_015392923-1.jpg)

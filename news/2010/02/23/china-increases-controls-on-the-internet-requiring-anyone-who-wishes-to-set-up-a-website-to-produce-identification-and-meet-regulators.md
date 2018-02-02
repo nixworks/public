@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/23/china-increases-controls-on-the-internet-requiring-anyone-who-wishes-to-set-up-a-website-to-produce-identification-and-meet-regulators.html)  [JSON](/news/2010/02/23/china-increases-controls-on-the-internet-requiring-anyone-who-wishes-to-set-up-a-website-to-produce-identification-and-meet-regulators.json)  [XML](/news/2010/02/23/china-increases-controls-on-the-internet-requiring-anyone-who-wishes-to-set-up-a-website-to-produce-identification-and-meet-regulators.xml)  
+
 ### [2010-02-23](/news/2010/02/23/index.md)
 
+##### China
 # China increases controls on the internet, requiring anyone who wishes to set up a website to produce identification and meet regulators. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8530378.stm)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-02/23/content_9490148.htm)

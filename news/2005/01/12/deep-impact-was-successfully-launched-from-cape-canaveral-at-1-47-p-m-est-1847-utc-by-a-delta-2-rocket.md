@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/12/deep-impact-was-successfully-launched-from-cape-canaveral-at-1-47-p-m-est-1847-utc-by-a-delta-2-rocket.html)  [JSON](/news/2005/01/12/deep-impact-was-successfully-launched-from-cape-canaveral-at-1-47-p-m-est-1847-utc-by-a-delta-2-rocket.json)  [XML](/news/2005/01/12/deep-impact-was-successfully-launched-from-cape-canaveral-at-1-47-p-m-est-1847-utc-by-a-delta-2-rocket.xml)  
+
 ### [2005-01-12](/news/2005/01/12/index.md)
 
+##### Deep Impact
 #  Deep Impact was successfully launched from Cape Canaveral at 1:47 p.m. EST (1847 UTC) by a Delta 2 rocket. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://www.nasa.gov/mission_pages/deepimpact/media/04-05.html)
 

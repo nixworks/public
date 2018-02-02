@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/8/italy-recalls-its-ambassador-to-egypt-for-consul
 
 ### [2016-04-8](/news/2016/04/8/index.md)
 
+##### Egypt-Italy relations
 # Italy recalls its ambassador to Egypt for consultations in protest over the lack of progress in a probe into the fate of murdered Cambridge University student Giulio Regeni. "We want only one thing, the truth about what happened to Giulio," Foreign Minister Paolo Gentiloni said on Friday. 
 
 Italy on Friday recalled its ambassador to Egypt for consultations in protest over the lack of progress in a probe into the fate of murdered Cambridge student Giulio Regeni. The move came after two days of talks between Egyptian and Italian investigators in Rome ended without a resolution of tensions

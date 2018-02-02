@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/20/the-u-s-department-of-justice-files-a-lawsuit-b
 
 ### [2017-11-20](/news/2017/11/20/index.md)
 
+##### Economy of the United States
 # The U.S. Department of Justice files a lawsuit blocking the potential merger of AT&T and Time Warner. 
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/27/afghan-deputy-defense-minister-general-abdul-rashid-dostum-created-an-office-for-the-north-zone-of-afghanistan-and-appointed-officials-to-i.html)  [JSON](/news/2003/03/27/afghan-deputy-defense-minister-general-abdul-rashid-dostum-created-an-office-for-the-north-zone-of-afghanistan-and-appointed-officials-to-i.json)  [XML](/news/2003/03/27/afghan-deputy-defense-minister-general-abdul-rashid-dostum-created-an-office-for-the-north-zone-of-afghanistan-and-appointed-officials-to-i.xml)  
+
 ### [2003-03-27](/news/2003/03/27/index.md)
 
+##### Afghanistan
 #  Afghan deputy defense minister general Abdul Rashid Dostum created an office for the North Zone of Afghanistan and appointed officials to it, defying interim president Hamid Karzai's orders that there be no zones in Afghanistan.
 
 

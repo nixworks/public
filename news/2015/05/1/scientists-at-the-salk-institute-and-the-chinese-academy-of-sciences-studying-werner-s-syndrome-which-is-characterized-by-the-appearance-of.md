@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/05/1/scientists-at-the-salk-institute-and-the-chinese-academy-of-sciences-studying-werner-s-syndrome-which-is-characterized-by-the-appearance-of.html)  [JSON](/news/2015/05/1/scientists-at-the-salk-institute-and-the-chinese-academy-of-sciences-studying-werner-s-syndrome-which-is-characterized-by-the-appearance-of.json)  [XML](/news/2015/05/1/scientists-at-the-salk-institute-and-the-chinese-academy-of-sciences-studying-werner-s-syndrome-which-is-characterized-by-the-appearance-of.xml)  
+
 ### [2015-05-1](/news/2015/05/1/index.md)
 
+##### Salk Institute
 # Scientists at the Salk Institute and the Chinese Academy of Sciences studying Werner's syndrome, which is characterized by the appearance of premature aging, report that aging causes an overall decline in the synthesis of proteins that are themselves involved in protein synthesis. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [BMC](http://www.ncbi.nlm.nih.gov/pubmed/25898983)
+1. [BMC](https://www.ncbi.nlm.nih.gov/pubmed/25898983)
 2. [Washington Post, via MSN](http://www.msn.com/en-us/news/technology/scientists-discover-an-important-new-driver-of-aging/ar-BBiZUKB)
 2. [Cover Image](http://www.ncbi.nlm.nih.gov/pmc/articles/instance/4417516/bin/12864_2015_1522_Fig5_HTML.gif)
 

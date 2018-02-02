@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/8/127-people-are-killed-and-2-000-missing-in-landslides-in-gansu-province-china-due-to-ongoing-flooding.html)  [JSON](/news/2010/08/8/127-people-are-killed-and-2-000-missing-in-landslides-in-gansu-province-china-due-to-ongoing-flooding.json)  [XML](/news/2010/08/8/127-people-are-killed-and-2-000-missing-in-landslides-in-gansu-province-china-due-to-ongoing-flooding.xml)  
+
 ### [2010-08-8](/news/2010/08/8/index.md)
 
+##### Gansu
 # 127 people are killed and 2,000 missing in landslides in Gansu Province, China, due to ongoing flooding. 
 
 At least 337 people are dead as rescuers search for up to 1148 others still missing.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/2010881446366388.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10905399)

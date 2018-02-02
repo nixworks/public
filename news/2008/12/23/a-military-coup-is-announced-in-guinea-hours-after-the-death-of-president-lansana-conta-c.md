@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/23/a-military-coup-is-announced-in-guinea-hours-after-the-death-of-president-lansana-conta-c.html)  [JSON](/news/2008/12/23/a-military-coup-is-announced-in-guinea-hours-after-the-death-of-president-lansana-conta-c.json)  [XML](/news/2008/12/23/a-military-coup-is-announced-in-guinea-hours-after-the-death-of-president-lansana-conta-c.xml)  
+
 ### [2008-12-23](/news/2008/12/23/index.md)
 
+##### military coup
 #  A military coup is announced in Guinea, hours after the death of President Lansana Conte. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7796902.stm)
 

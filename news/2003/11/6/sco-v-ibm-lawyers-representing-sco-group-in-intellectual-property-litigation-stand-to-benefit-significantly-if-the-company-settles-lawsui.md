@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/6/sco-v-ibm-lawyers-representing-sco-group-in-intellectual-property-litigation-stand-to-benefit-significantly-if-the-company-settles-lawsui.html)  [JSON](/news/2003/11/6/sco-v-ibm-lawyers-representing-sco-group-in-intellectual-property-litigation-stand-to-benefit-significantly-if-the-company-settles-lawsui.json)  [XML](/news/2003/11/6/sco-v-ibm-lawyers-representing-sco-group-in-intellectual-property-litigation-stand-to-benefit-significantly-if-the-company-settles-lawsui.xml)  
+
 ### [2003-11-6](/news/2003/11/6/index.md)
 
+##### SCO v. IBM
 #  SCO v. IBM: Lawyers representing SCO Group in intellectual property litigation stand to benefit significantly if the company settles lawsuits or is sold.
 
 

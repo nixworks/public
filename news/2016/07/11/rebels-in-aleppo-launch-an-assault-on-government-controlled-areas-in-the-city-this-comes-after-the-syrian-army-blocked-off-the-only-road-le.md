@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/11/rebels-in-aleppo-launch-an-assault-on-governmen
 
 ### [2016-07-11](/news/2016/07/11/index.md)
 
+##### Syrian Civil War
 # Rebels in Aleppo launch an assault on government-controlled areas in the city. This comes after the Syrian Army blocked off the only road leading into opposition-controlled areas. According to state media, at least eight people have been killed and dozens more are wounded. 
 
 Syrian rebel fighters launch an assault on government-held districts of Aleppo, after troops cut their only route into the divided northern city.

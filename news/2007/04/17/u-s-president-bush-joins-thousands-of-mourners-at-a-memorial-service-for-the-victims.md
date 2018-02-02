@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/17/u-s-president-bush-joins-thousands-of-mourners-at-a-memorial-service-for-the-victims.html)  [JSON](/news/2007/04/17/u-s-president-bush-joins-thousands-of-mourners-at-a-memorial-service-for-the-victims.json)  [XML](/news/2007/04/17/u-s-president-bush-joins-thousands-of-mourners-at-a-memorial-service-for-the-victims.xml)  
+
 ### [2007-04-17](/news/2007/04/17/index.md)
 
+##### U.S. President
 # U.S. President Bush joins thousands of mourners at a memorial service for the victims. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/newsitems/200704/s1899882.htm)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/07/31/filmmaker-benicio-del-toro-is-presented-with-the-international-toma-s-gutia-c-rrez-alea-prize-by-the-cuban-government-in-havana.html)  [JSON](/news/2009/07/31/filmmaker-benicio-del-toro-is-presented-with-the-international-toma-s-gutia-c-rrez-alea-prize-by-the-cuban-government-in-havana.json)  [XML](/news/2009/07/31/filmmaker-benicio-del-toro-is-presented-with-the-international-toma-s-gutia-c-rrez-alea-prize-by-the-cuban-government-in-havana.xml)  
+
 ### [2009-07-31](/news/2009/07/31/index.md)
 
+##### Benicio del Toro
 #  Filmmaker Benicio del Toro is presented with the International Tomas Gutierrez Alea Prize by the Cuban government in Havana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8177736.stm)
-2. [The New York Times](http://www.nytimes.com/reuters/2009/07/31/arts/entertainment-us-havana.html)
+2. [The New York Times](https://www.nytimes.com/reuters/2009/07/31/arts/entertainment-us-havana.html)
 
 ### Related:
 

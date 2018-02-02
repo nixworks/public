@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/25/tropical-storm-gustav-forms-in-the-atlantic-ocean-and-heads-for-the-dominican-republic-and-haiti.html)  [JSON](/news/2008/08/25/tropical-storm-gustav-forms-in-the-atlantic-ocean-and-heads-for-the-dominican-republic-and-haiti.json)  [XML](/news/2008/08/25/tropical-storm-gustav-forms-in-the-atlantic-ocean-and-heads-for-the-dominican-republic-and-haiti.xml)  
+
 ### [2008-08-25](/news/2008/08/25/index.md)
 
+##### Tropical Storm Gustav
 #  Tropical Storm Gustav forms in the Atlantic Ocean and heads for the Dominican Republic and Haiti. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Minneapolis-St Paul Tribune](http://www.startribune.com/nation/27348229.html)
 

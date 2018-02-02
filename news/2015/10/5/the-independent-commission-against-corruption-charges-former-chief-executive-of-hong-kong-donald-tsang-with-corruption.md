@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/5/the-independent-commission-against-corruption-charges-former-chief-executive-of-hong-kong-donald-tsang-with-corruption.html)  [JSON](/news/2015/10/5/the-independent-commission-against-corruption-charges-former-chief-executive-of-hong-kong-donald-tsang-with-corruption.json)  [XML](/news/2015/10/5/the-independent-commission-against-corruption-charges-former-chief-executive-of-hong-kong-donald-tsang-with-corruption.xml)  
+
 ### [2015-10-5](/news/2015/10/5/index.md)
 
+##### Independent Commission Against Corruption
 # The Independent Commission Against Corruption charges former Chief Executive of Hong Kong Donald Tsang with corruption. 
 
 Former Chief Executive Donald Tsang Yam-kuen has been formally charged by the Independent Commission Against Corruption (ICAC) with misconduct in public office. Reports said that Tsang appeared at the ICAC headquarters on Monday morning and was charged with two instances of misconduct in public office, due to failing to make a declaration of &hellip;
 
 
-### Source:
+### Sources:
 
 1. [ (''Hong Kong Free Press](https://www.hongkongfp.com/2015/10/05/breaking-donald-tsang-charged-with-misconduct-in-public-office-by-icac-reports/)
 1. [Cover Image](https://www.hongkongfp.com/wp-content/uploads/2015/10/850637572_58858_3685314350187810467.jpg)

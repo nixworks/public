@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suffered-after-the-use-of-a-severed-head-in-game-of-thrones-the-head-on-a-spike-is-said-to-re.html)  [JSON](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suffered-after-the-use-of-a-severed-head-in-game-of-thrones-the-head-on-a-spike-is-said-to-re.json)  [XML](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suffered-after-the-use-of-a-severed-head-in-game-of-thrones-the-head-on-a-spike-is-said-to-re.xml)  
+
 ### [2012-06-14](/news/2012/06/14/index.md)
 
+##### HBO
 # HBO issues a public apology for any offence suffered after the use of a severed head in "Game of Thrones"; the head on a spike is said to resemble that of former U.S. president George W. Bush. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/newsbeat/18441163)
+
+### Changes:
+
+1. [HBO issues a public apology for any offence suffered after the use of a severed head in ''Game of Thrones''; the head on a spike is said to resemble that of former U.S. president George W. Bush. ](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suffered-after-the-use-of-a-severed-head-in-game-of-thrones-the-head-on-a-spike-is-said-to.md) _2017-08-25 03:35:52 (First version)_
+1. [HBO issues a public apology for any offence suffered after the use of a severed head in "Game of Thrones"; the head on a spike is said to resemble that of former U.S. president George W. Bush. ](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suffered-after-the-use-of-a-severed-head-in-game-of-thrones-the-head-on-a-spike-is-said-to-re.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [The Los Angeles Police Department issues a warrant for the arrest of American Robert Durst regarding the murder of writer and confidant Susan Berman following the airing of a six-part documentary by HBO called "The Jinx". He is later taken into custody in the city of New Orleans. ](/news/2015/03/14/the-los-angeles-police-department-issues-a-warrant-for-the-arrest-of-american-robert-durst-regarding-the-murder-of-writer-and-confidant-susa.md) _Context: HBO_
 4. [A Gulfstream IV aircraft carrying former President George W. Bush from Philadelphia International Airport to Dallas Love Field is diverted safely to Louisville International Airport when the pilot smells smoke; Bush arrived safely in Dallas early Sunday. ](/news/2013/06/15/a-gulfstream-iv-aircraft-carrying-former-president-george-w-bush-from-philadelphia-international-airport-to-dallas-love-field-is-diverted-s.md) _Context: George W. Bush_
 5. [The George W. Bush Presidential Center in Dallas, Texas, is dedicated in the presence of President of the United States Barack Obama, former president George W. Bush and all living former presidents. The complex will be opened to the public on May 1. ](/news/2013/04/25/the-george-w-bush-presidential-center-in-dallas-texas-is-dedicated-in-the-presence-of-president-of-the-united-states-barack-obama-former.md) _Context: George W. Bush_
-
-### Changes:
-
-1. [HBO issues a public apology for any offence suffered after the use of a severed head in ''Game of Thrones''; the head on a spike is said to resemble that of former U.S. president George W. Bush. ](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suffered-after-the-use-of-a-severed-head-in-game-of-thrones-the-head-on-a-spike-is-said-to.md) _2017-08-25 03:35:52 (First version)_
-1. [HBO issues a public apology for any offence suffered after the use of a severed head in "Game of Thrones"; the head on a spike is said to resemble that of former U.S. president George W. Bush. ](/news/2012/06/14/hbo-issues-a-public-apology-for-any-offence-suffered-after-the-use-of-a-severed-head-in-game-of-thrones-the-head-on-a-spike-is-said-to-re.md) _(Current version)_

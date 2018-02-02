@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2007/08/23/japanese-political-activist-yoshihiro-tanjo-is-charged-with-intimidation-for-cutting-off-his-little-finger-and-sending-it-to-the-prime-mini.html)  [JSON](/news/2007/08/23/japanese-political-activist-yoshihiro-tanjo-is-charged-with-intimidation-for-cutting-off-his-little-finger-and-sending-it-to-the-prime-mini.json)  [XML](/news/2007/08/23/japanese-political-activist-yoshihiro-tanjo-is-charged-with-intimidation-for-cutting-off-his-little-finger-and-sending-it-to-the-prime-mini.xml)  
+
 ### [2007-08-23](/news/2007/08/23/index.md)
 
+##### Japan
 #  Japanese political activist Yoshihiro Tanjo is charged with intimidation for cutting off his little finger and sending it to the Prime Minister of Japan Shinzo Abe over Shinzo's refusal to visit the Yasukuni shrine to commemorate Japan's World War II dead. 
 
 Al Qaeda fighters kidnapped 15 Iraqi women and children after attacking two villages north of Baghdad on Thursday and killing a religious leader who had been trying to form an anti-al Qaeda tribal alliance, police said.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6959849.stm)
-2. [Reuters](http://www.reuters.com/article/topNews/idUSYAT71336220070823?feedType=RSS&feedName=topNews)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070823&t=2&i=1344223&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-23T170448Z_01_YAT713362_RTRUKOP_0_PICTURE0)
+2. [Reuters](https://www.reuters.com/article/topNews/idUSYAT71336220070823?feedType=RSS&feedName=topNews)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070823&t=2&i=1344223&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-23T170448Z_01_YAT713362_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

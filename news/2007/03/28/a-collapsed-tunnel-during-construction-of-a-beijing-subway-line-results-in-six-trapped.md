@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/28/a-collapsed-tunnel-during-construction-of-a-beijing-subway-line-results-in-six-trapped.html)  [JSON](/news/2007/03/28/a-collapsed-tunnel-during-construction-of-a-beijing-subway-line-results-in-six-trapped.json)  [XML](/news/2007/03/28/a-collapsed-tunnel-during-construction-of-a-beijing-subway-line-results-in-six-trapped.xml)  
+
 ### [2007-03-28](/news/2007/03/28/index.md)
 
+##### Beijing Subway
 #  A collapsed tunnel during construction of a Beijing Subway line results in six trapped. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200703/s1884651.htm)
 

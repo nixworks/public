@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/20/tibetan-exiles-vote-for-a-new-prime-minister.html)  [JSON](/news/2011/03/20/tibetan-exiles-vote-for-a-new-prime-minister.json)  [XML](/news/2011/03/20/tibetan-exiles-vote-for-a-new-prime-minister.xml)  
+
 ### [2011-03-20](/news/2011/03/20/index.md)
 
+##### Tibetan
 # Tibetan exiles vote for a new Prime Minister. 
 
 Dharamsala, March 20 (IANS) Even as Tibetan spiritual leader the Dalai Lama rejected appeals to reconsider his decision to hang his boots, voting to elect...
 
 
-### Source:
+### Sources:
 
 1. [Philippine Inquirer](http://newsinfo.inquirer.net/breakingnews/world/view/20110320-326603/Exiled-Tibetans-elect-new-leader)
 2. [Sify India](http://www.sify.com/news/polling-on-to-elect-new-tibetan-pm-news-national-lduo4egdjhf.html)

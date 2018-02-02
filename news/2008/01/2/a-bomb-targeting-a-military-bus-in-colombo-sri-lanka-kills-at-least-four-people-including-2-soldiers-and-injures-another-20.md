@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/2/a-bomb-targeting-a-military-bus-in-colombo-sri-lanka-kills-at-least-four-people-including-2-soldiers-and-injures-another-20.html)  [JSON](/news/2008/01/2/a-bomb-targeting-a-military-bus-in-colombo-sri-lanka-kills-at-least-four-people-including-2-soldiers-and-injures-another-20.json)  [XML](/news/2008/01/2/a-bomb-targeting-a-military-bus-in-colombo-sri-lanka-kills-at-least-four-people-including-2-soldiers-and-injures-another-20.xml)  
+
 ### [2008-01-2](/news/2008/01/2/index.md)
 
+##### bomb
 #  A bomb targeting a military bus in Colombo, Sri Lanka kills at least four people including 2 soldiers and injures another 20. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7167384.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/24/voters-in-glasgow-east-go-to-the-polls-for-the-glasgow-east-by-election-2008-with-the-scottish-national-party-snp-claiming-a-historic-vi.html)  [JSON](/news/2008/07/24/voters-in-glasgow-east-go-to-the-polls-for-the-glasgow-east-by-election-2008-with-the-scottish-national-party-snp-claiming-a-historic-vi.json)  [XML](/news/2008/07/24/voters-in-glasgow-east-go-to-the-polls-for-the-glasgow-east-by-election-2008-with-the-scottish-national-party-snp-claiming-a-historic-vi.xml)  
+
 ### [2008-07-24](/news/2008/07/24/index.md)
 
+##### Glasgow East
 #  Voters in Glasgow East go to the polls for the Glasgow East by-election, 2008 with the Scottish National Party (SNP) claiming a historic victory over the Scottish Labour Party candidate after a massive swing in favour of the SNP. 
 
 Labour is in danger of losing one of its safest seats in one of the biggest by-election shocks this morning.
 
 
-### Source:
+### Sources:
 
 1. [Press Association via Google News](http://ukpress.google.com/article/ALeqM5iXAaUblX8vtu9aeKkqvVErIPIW0w)
 2. [The Telegraph](http://www.telegraph.co.uk/news/newstopics/politics/scotland/2456823/Glasgow-East-by-election-Labour-demands-recount-as-SNP-claims-victory.html)

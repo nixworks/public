@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/1/6-sailors-taken-hostage-off-the-coast-of-cameroon-on-september-12-by-the-africa-marine-commando-are-released.html)  [JSON](/news/2010/10/1/6-sailors-taken-hostage-off-the-coast-of-cameroon-on-september-12-by-the-africa-marine-commando-are-released.json)  [XML](/news/2010/10/1/6-sailors-taken-hostage-off-the-coast-of-cameroon-on-september-12-by-the-africa-marine-commando-are-released.xml)  
+
 ### [2010-10-1](/news/2010/10/1/index.md)
 
+##### Cameroon
 # 6 sailors taken hostage off the coast of Cameroon on September 12 by the Africa Marine Commando are released. 
 
 Six sailors taken hostage by an armed gang off the coast of Cameroon have been freed, the government says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11449082)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/18/the-corpse-of-dr-david-kelly-is-discovered-it-appears-that-he-committed-suicide-kelly-was-a-british-government-advisor-involved-in-the.html)  [JSON](/news/2003/07/18/the-corpse-of-dr-david-kelly-is-discovered-it-appears-that-he-committed-suicide-kelly-was-a-british-government-advisor-involved-in-the.json)  [XML](/news/2003/07/18/the-corpse-of-dr-david-kelly-is-discovered-it-appears-that-he-committed-suicide-kelly-was-a-british-government-advisor-involved-in-the.xml)  
+
 ### [2003-07-18](/news/2003/07/18/index.md)
 
+##### bodies
 #  The corpse of Dr. David Kelly is discovered, it appears that he committed suicide. Kelly was a British government advisor involved in the "September Dossier" investigation relating to the 2003 war on Iraq. Former Labour Junior Minister Glenda Jackson calls for Prime Minister Blair's resignation and a Mail on Sunday reporter asks, "Do you have blood on your hands. Prime Minister?" Blair refuses to comment, as does Communications Director Campbell.
 
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/06/6/palm-inc-launches-its-new-palm-pre-smartphone.html)  [JSON](/news/2009/06/6/palm-inc-launches-its-new-palm-pre-smartphone.json)  [XML](/news/2009/06/6/palm-inc-launches-its-new-palm-pre-smartphone.xml)  
+
 ### [2009-06-6](/news/2009/06/6/index.md)
 
+##### Palm, Inc.
 #  Palm, Inc. launches its new Palm Pre smartphone. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/newsOne/idUSTRE5550Y120090606)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20090606&t=2&i=10407935&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-06T204900Z_01_BTRE55514L000_RTROPTP_0_PALM-PREREVIEWS)
+1. [Reuters](https://www.reuters.com/article/newsOne/idUSTRE5550Y120090606)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20090606&t=2&i=10407935&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-06-06T204900Z_01_BTRE55514L000_RTROPTP_0_PALM-PREREVIEWS)
 
 ### Related:
 

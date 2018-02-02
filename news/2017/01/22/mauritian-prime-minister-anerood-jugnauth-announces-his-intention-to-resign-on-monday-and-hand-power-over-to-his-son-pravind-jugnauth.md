@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/22/mauritian-prime-minister-anerood-jugnauth-annou
 
 ### [2017-01-22](/news/2017/01/22/index.md)
 
+##### Mauritian Prime Minister
 # Mauritian Prime Minister Anerood Jugnauth announces his intention to resign on Monday and hand power over to his son, Pravind Jugnauth. 
 
 

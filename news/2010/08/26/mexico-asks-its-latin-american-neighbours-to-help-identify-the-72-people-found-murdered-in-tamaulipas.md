@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/26/mexico-asks-its-latin-american-neighbours-to-help-identify-the-72-people-found-murdered-in-tamaulipas.html)  [JSON](/news/2010/08/26/mexico-asks-its-latin-american-neighbours-to-help-identify-the-72-people-found-murdered-in-tamaulipas.json)  [XML](/news/2010/08/26/mexico-asks-its-latin-american-neighbours-to-help-identify-the-72-people-found-murdered-in-tamaulipas.xml)  
+
 ### [2010-08-26](/news/2010/08/26/index.md)
 
+##### Mexico
 # Mexico asks its Latin American neighbours to help identify the 72 people found murdered in Tamaulipas. 
 
 Mexico sought help Thursday from Latin American nations to identify 72 presumed migrants murdered near the US border, after officials blamed the brutal Zetas drug gang for the massacre.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Age](http://news.theage.com.au/breaking-news-world/neighbors-help-mexico-identify-massacre-victims-20100827-13uf3.html)
 1. [Cover Image](http://images.theage.com.au/2011/08/09/2545564/facebook-thumb-theage.png)

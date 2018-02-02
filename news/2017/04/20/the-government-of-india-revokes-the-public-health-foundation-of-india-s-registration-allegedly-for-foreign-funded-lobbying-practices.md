@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/20/the-government-of-india-revokes-the-public-heal
 
 ### [2017-04-20](/news/2017/04/20/index.md)
 
+##### Government of India
 # The Government of India revokes the Public Health Foundation of India's registration, allegedly for foreign-funded lobbying practices. 
 
 The government has revoked the registration of Public Health Foundation of India (PHFI), an NGO funded by Bill &amp; Melinda Gates Foundation, under the Foreign Contributions (Regulation) Act over alleged misuse of foreign funds for anti-tobacco lobbying, in violation of FCRA norms.

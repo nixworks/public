@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/2/a-natural-gas-explosion-at-college-prep-school-m
 
 ### [2017-08-2](/news/2017/08/2/index.md)
 
+##### Minnehaha Academy gas explosion
 # A natural gas explosion at college prep school Minnehaha Academy in Minneapolis, Minnesota, kills two staff members. Another nine people were injured, seven of whom are hospitalized, three in critical and four in serious condition. 
 
  MINNEAPOLIS (AP) — One school staff member has been found dead and another is still missing following a natural gas explosion Wednesday at a private school in Minneapolis, authori

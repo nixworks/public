@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/4/more-than-150-scientists-urge-the-australian-government-to-slow-development-near-the-great-barrier-reef.html)  [JSON](/news/2013/06/4/more-than-150-scientists-urge-the-australian-government-to-slow-development-near-the-great-barrier-reef.json)  [XML](/news/2013/06/4/more-than-150-scientists-urge-the-australian-government-to-slow-development-near-the-great-barrier-reef.xml)  
+
 ### [2013-06-4](/news/2013/06/4/index.md)
 
+##### Great Barrier Reef
 # More than 150 scientists urge the Australian Government to slow development near the Great Barrier Reef. 
 
 More than 150 marine scientists call on federal and Qld governments to stop all construction outside major ports along the Great Barrier Reef.
 
 
-### Source:
+### Sources:
 
 1. [Australian Broadcasting Corporation](http://www.abc.net.au/news/2013-06-05/scientists-warn-of-port-construction-barrier-reef-threat/4734182?section=qld)
 1. [Cover Image](http://www.abc.net.au/news/image/918400-1x1-700x700.jpg)

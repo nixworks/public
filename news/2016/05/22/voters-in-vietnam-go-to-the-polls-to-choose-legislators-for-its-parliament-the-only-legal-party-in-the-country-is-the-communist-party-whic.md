@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/22/voters-in-vietnam-go-to-the-polls-to-choose-leg
 
 ### [2016-05-22](/news/2016/05/22/index.md)
 
+##### Vietnamese legislative election, 2016
 # Voters in Vietnam go to the polls to choose legislators for its Parliament. The only legal party in the country is the Communist Party, which has already chosen its members. 
 
 

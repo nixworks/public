@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/10/a-chinese-activist-zhao-lianhai-who-campaigned-for-victims-of-the-tainted-milk-scandal-in-2008-is-jailed-for-two-and-half-years-for-incitin.html)  [JSON](/news/2010/11/10/a-chinese-activist-zhao-lianhai-who-campaigned-for-victims-of-the-tainted-milk-scandal-in-2008-is-jailed-for-two-and-half-years-for-incitin.json)  [XML](/news/2010/11/10/a-chinese-activist-zhao-lianhai-who-campaigned-for-victims-of-the-tainted-milk-scandal-in-2008-is-jailed-for-two-and-half-years-for-incitin.xml)  
+
 ### [2010-11-10](/news/2010/11/10/index.md)
 
+##### China
 # A Chinese activist Zhao Lianhai who campaigned for victims of the tainted milk scandal in 2008 is jailed for two and half years for "inciting social disorder". 
 
 A Chinese man who campaigned for compensation for victims of a 2008 contaminated baby milk scandal is jailed for &quot;inciting disorder&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11724323)
 2. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE6A914Y20101110?sp=true)

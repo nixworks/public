@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/06/6/the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured-12-rebels-inclu.html)  [JSON](/news/2015/06/6/the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured-12-rebels-inclu.json)  [XML](/news/2015/06/6/the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured-12-rebels-inclu.xml)  
+
 ### [2015-06-6](/news/2015/06/6/index.md)
 
+##### War in Donbass
 # The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. 
 
 President Poroshenko says Ukrainian forces have restored control over Maryinka, near Donetsk in the east, after heavy fighting.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-33022807)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/83457000/jpg/_83457670_83457666.jpg)
+
+### Changes:
+
+1. [War in Donbass: The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/war-in-donbass-the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured.md) _2017-08-27 03:42:29 (First version)_
+1. [The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured-12-rebels-inclu.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ President Poroshenko says Ukrainian forces have restored control over Maryinka, 
 3. [Former Secretary General of NATO Anders Fogh Rasmussen is named an advisor for Ukrainian President Petro Poroshenko, a move described by a Russian deputy chairman of the Foreign Affairs Committee as a "hostile gesture". ](/news/2016/05/28/former-secretary-general-of-nato-anders-fogh-rasmussen-is-named-an-advisor-for-ukrainian-president-petro-poroshenko-a-move-described-by-a-r.md) _Context: Petro Poroshenko, Ukrainian President_
 4. [Ukrainian President Petro Poroshenko signs legislation banning all Russian films made after January 1, 2014. The legislation also bans movies produced by Russia after 1991 if they "glorify the work of government bodies" of Russia, citing such movies to be a threat to national security. ](/news/2016/04/21/ukrainian-president-petro-poroshenko-signs-legislation-banning-all-russian-films-made-after-january-1-2014-the-legislation-also-bans-movie.md) _Context: Petro Poroshenko, Ukrainian President_
 5. [Pro-Russian separatists launch an offensive to take Marinka, Ukraine, 5 kilometers from the separatist capital of Donetsk. At least 19 people have died in fighting. Ukrainian sources claimed at least 10 tanks took part in the battle. ](/news/2015/06/3/pro-russian-separatists-launch-an-offensive-to-take-marinka-ukraine-5-kilometers-from-the-separatist-capital-of-donetsk-at-least-19-peopl.md) _Context: Marinka, War in Donbass_
-
-### Changes:
-
-1. [War in Donbass: The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/war-in-donbass-the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured.md) _2017-08-27 03:42:29 (First version)_
-1. [The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured-12-rebels-inclu.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/31/south-ossetia-holds-its-parliamentary-election.html)  [JSON](/news/2009/05/31/south-ossetia-holds-its-parliamentary-election.json)  [XML](/news/2009/05/31/south-ossetia-holds-its-parliamentary-election.xml)  
+
 ### [2009-05-31](/news/2009/05/31/index.md)
 
+##### South Ossetia
 #  South Ossetia holds its parliamentary election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2009/05/20095316543146289.html)
 1. [Cover Image](http://www.aljazeera.com)

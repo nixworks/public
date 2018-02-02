@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/7/the-u-s-yosemite-national-park-expands-by-400-ac
 
 ### [2016-09-7](/news/2016/09/7/index.md)
 
+##### Yosemite National Park
 # The U.S. Yosemite National Park expands by 400 acres. 
 
 Yosemite National Park in California is to gain a 400-acre addition, its largest expansion in nearly 70 years.

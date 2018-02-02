@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/2/prime-minister-of-japan-naoto-kan-visits-the-areas-of-the-country-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.html)  [JSON](/news/2011/04/2/prime-minister-of-japan-naoto-kan-visits-the-areas-of-the-country-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.json)  [XML](/news/2011/04/2/prime-minister-of-japan-naoto-kan-visits-the-areas-of-the-country-worst-affected-by-the-2011-tahoku-earthquake-and-tsunami.xml)  
+
 ### [2011-04-2](/news/2011/04/2/index.md)
 
+##### Prime Minister of Japan
 # Prime Minister of Japan Naoto Kan visits the areas of the country worst affected by the 2011 Tohoku earthquake and tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via WAMC](http://www.publicbroadcasting.net/wamc/news.newsmain/article/0/0/1783659/World.News/Japan.PM.visit.tsunami-devastated.village..enters.nuke)
 

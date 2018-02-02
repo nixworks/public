@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/25/a-suspected-al-shabab-suicide-bomber-blows-open
 
 ### [2016-06-25](/news/2016/06/25/index.md)
 
+##### War in Somalia
 # A suspected Al-Shabab suicide bomber blows open the gate of Mogadishu's Nasa-Hablod hotel in Somalia, before militant fighters storm the building. Officials said at least 15 were killed, 25 injured, and an unknown number of guests were taken hostage. 
 
 Islamic extremist group al-Shabab on Saturday claimed responsibility for the latest in a series of hotel attacks in Mogadishu.

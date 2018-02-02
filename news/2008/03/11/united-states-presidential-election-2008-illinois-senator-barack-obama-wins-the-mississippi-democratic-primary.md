@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/03/11/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-mississippi-democratic-primary.html)  [JSON](/news/2008/03/11/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-mississippi-democratic-primary.json)  [XML](/news/2008/03/11/united-states-presidential-election-2008-illinois-senator-barack-obama-wins-the-mississippi-democratic-primary.xml)  
+
 ### [2008-03-11](/news/2008/03/11/index.md)
 
+##### 2008
 #  United States presidential election, 2008: Illinois Senator Barack Obama wins the Mississippi Democratic primary. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/03/11/us/politics/11cnd-campaign.html)
+1. [The New York Times](https://www.nytimes.com/2008/03/11/us/politics/11cnd-campaign.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/03/11/us/12obama03_75.jpg)
 
 ### Related:

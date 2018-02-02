@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/17/the-prime-minister-of-japan-naoto-kan-announces-a-ministerial-reshuffle-with-seiji-maehara-announced-as-the-new-minister-for-foreign-affairs.html)  [JSON](/news/2010/09/17/the-prime-minister-of-japan-naoto-kan-announces-a-ministerial-reshuffle-with-seiji-maehara-announced-as-the-new-minister-for-foreign-affairs.json)  [XML](/news/2010/09/17/the-prime-minister-of-japan-naoto-kan-announces-a-ministerial-reshuffle-with-seiji-maehara-announced-as-the-new-minister-for-foreign-affairs.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### Prime Minister of Japan
 # The Prime Minister of Japan Naoto Kan announces a Ministerial reshuffle with Seiji Maehara announced as the new Minister for Foreign Affairs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11339074)
 2. [Japan Today](http://www.japantoday.com/category/politics/view/dpj-to-ok-leadership-lineup-ahead-of-cabinet-reshuffle)

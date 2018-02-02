@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/4/sudan-and-bahrain-follow-saudi-arabia-s-lead-and
 
 ### [2016-01-4](/news/2016/01/4/index.md)
 
+##### Foreign relations of Iran
 # Sudan and Bahrain follow Saudi Arabia's lead and cut diplomatic relations with Iran, and the United Arab Emirates downgrades diplomatic ties. 
 
 Saudi Arabia widened its rift with Iran on Monday, saying it would end air traffic and trade links with the Islamic republic and demanding that Tehran must &quot;act like a normal country&quot; before it would restore severed diplomatic relations.

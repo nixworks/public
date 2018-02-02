@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/13/all-the-missing-42-people-have-been-found-following-the-collapse-of-a-russian-army-barracks-in-the-omsk-oblast-of-southwestern-siberia-with.html)  [JSON](/news/2015/07/13/all-the-missing-42-people-have-been-found-following-the-collapse-of-a-russian-army-barracks-in-the-omsk-oblast-of-southwestern-siberia-with.json)  [XML](/news/2015/07/13/all-the-missing-42-people-have-been-found-following-the-collapse-of-a-russian-army-barracks-in-the-omsk-oblast-of-southwestern-siberia-with.xml)  
+
 ### [2015-07-13](/news/2015/07/13/index.md)
 
+##### Russian Army
 # All the missing 42 people have been found following the collapse of a Russian Army barracks in the Omsk Oblast of southwestern Siberia with 23 deaths. 
 
 All servicemen have been removed from the debris
 
 
-### Source:
+### Sources:
 
 1. [TASS](http://tass.ru/en/russia/808057)
 1. [Cover Image](https://cdn2.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20150713/1099319.jpg)

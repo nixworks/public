@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/04/4/the-angolan-civil-war-ends-after-26-years-of-fighting-since-angolan-independence-in-1975.html)  [JSON](/news/2002/04/4/the-angolan-civil-war-ends-after-26-years-of-fighting-since-angolan-independence-in-1975.json)  [XML](/news/2002/04/4/the-angolan-civil-war-ends-after-26-years-of-fighting-since-angolan-independence-in-1975.xml)  
+
 ### [2002-04-4](/news/2002/04/4/index.md)
 
+##### Angolan Civil War
 #  The Angolan Civil War ends after 26 years of fighting since Angolan independence in 1975.
 
 

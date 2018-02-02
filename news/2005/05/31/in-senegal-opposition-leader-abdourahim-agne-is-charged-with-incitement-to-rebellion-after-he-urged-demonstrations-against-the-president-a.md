@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/31/in-senegal-opposition-leader-abdourahim-agne-is-charged-with-incitement-to-rebellion-after-he-urged-demonstrations-against-the-president-a.html)  [JSON](/news/2005/05/31/in-senegal-opposition-leader-abdourahim-agne-is-charged-with-incitement-to-rebellion-after-he-urged-demonstrations-against-the-president-a.json)  [XML](/news/2005/05/31/in-senegal-opposition-leader-abdourahim-agne-is-charged-with-incitement-to-rebellion-after-he-urged-demonstrations-against-the-president-a.xml)  
+
 ### [2005-05-31](/news/2005/05/31/index.md)
 
+##### Senegal
 #  In Senegal, opposition leader Abdourahim Agne is charged with incitement to rebellion after he urged demonstrations against the president Abdoulaye Wade. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4594043.stm)
 2. [Reuters SA](http://www.reuters.co.za/locales/c_newsArticle.jsp;:429c024d:5fc3714a1e39e383?type=topNews&localeKey=en_ZA&storyID=8647023)

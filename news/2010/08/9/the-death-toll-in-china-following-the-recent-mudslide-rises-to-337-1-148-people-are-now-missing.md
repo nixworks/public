@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/9/the-death-toll-in-china-following-the-recent-mudslide-rises-to-337-1-148-people-are-now-missing.html)  [JSON](/news/2010/08/9/the-death-toll-in-china-following-the-recent-mudslide-rises-to-337-1-148-people-are-now-missing.json)  [XML](/news/2010/08/9/the-death-toll-in-china-following-the-recent-mudslide-rises-to-337-1-148-people-are-now-missing.xml)  
+
 ### [2010-08-9](/news/2010/08/9/index.md)
 
+##### 2010 China floods
 # The death toll in China following the recent mudslide rises to 337. 1,148 people are now missing. 
 
 The death toll from landslides in north-west China rises to 337, with 1,148 people missing, state-run Xinhua news agency reports.
 
 
-### Source:
+### Sources:
 
 1. [AFP via France24](http://www.france24.com/en/20100809-landslides-death-toll-mounts-more-300-china-weather)
 2. [AP via ''The Times of India](http://timesofindia.indiatimes.com/world/china/Death-toll-in-China-landslide-rises-to-337/articleshow/6283217.cms)

@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/09/17/along-with-15-other-international-envoys-cuban-diplomat-jose-ramon-cabaa-as-rodriguez-presents-his-credentials-to-u-s-president-barack-oba.html)  [JSON](/news/2015/09/17/along-with-15-other-international-envoys-cuban-diplomat-jose-ramon-cabaa-as-rodriguez-presents-his-credentials-to-u-s-president-barack-oba.json)  [XML](/news/2015/09/17/along-with-15-other-international-envoys-cuban-diplomat-jose-ramon-cabaa-as-rodriguez-presents-his-credentials-to-u-s-president-barack-oba.xml)  
+
 ### [2015-09-17](/news/2015/09/17/index.md)
 
+##### Cuba-United States relations
 # Along with 15 other international envoys, Cuban diplomat Jose Ramon Cabanas Rodriguez presents his credentials to U.S. President Barack Obama, becoming the island's first ambassador to the United States since 1961. The Obama Administration has yet to name an ambassador to Cuba. 
 
 Diplomat Jose Ramon Cabañas Rodriguez handed President Barack Obama his credentials as Cuba’s ambassador to the United States at an official ceremony that took place on Thursday at the Oval Office. 
 
 
-### Source:
+### Sources:
 
-1. [AP via U.S. News & World Report](http://www.usnews.com/news/business/articles/2015/09/17/us-cuba-to-resume-mail-service-this-year-other-steps-near)
+1. [AP via U.S. News & World Report](https://www.usnews.com/news/business/articles/2015/09/17/us-cuba-to-resume-mail-service-this-year-other-steps-near)
 2. [Havana Times](http://www.havanatimes.org/?p=113974)
 2. [Cover Image](http://cdn.havanatimes.org/wp-content/uploads/2015/09/OBAMA-CON-CABAÑA.jpg)
+
+### Changes:
+
+1. [Cuba-United States relations: Along with 15 other international envoys, Cuban diplomat Jose Ramon Cabanas Rodriguez presents his credentials to U.S. President Barack Obama, becoming the island's first ambassador to the United States since 1961. The Obama Administration has yet to name an ambassador to Cuba. ](/news/2015/09/17/cuba-united-states-relations-along-with-15-other-international-envoys-cuban-diplomat-jose-ramon-cabaa-as-rodriguez-presents-his-credenti.md) _2017-08-27 03:43:04 (First version)_
+1. [Along with 15 other international envoys, Cuban diplomat Jose Ramon Cabanas Rodriguez presents his credentials to U.S. President Barack Obama, becoming the island's first ambassador to the United States since 1961. The Obama Administration has yet to name an ambassador to Cuba. ](/news/2015/09/17/along-with-15-other-international-envoys-cuban-diplomat-jose-ramon-cabaa-as-rodriguez-presents-his-credentials-to-u-s-president-barack-oba.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Diplomat Jose Ramon Cabañas Rodriguez handed President Barack Obama his credent
 3. [The President of the United States Barack Obama announces that he will visit Cuba next month becoming the first American president to visit Cuba since 1928. ](/news/2016/02/18/the-president-of-the-united-states-barack-obama-announces-that-he-will-visit-cuba-next-month-becoming-the-first-american-president-to-visit.md) _Context: Barack Obama, Cuba, Cuba-United States relations, U.S. President_
 4. [The President of the United States Barack Obama announces plans to close the Guantanamo Bay detention camp in Cuba. Obama made similar statements during his first presidential campaign in 2007 and had previously stated that the camp would be closed by 2010. ](/news/2016/02/23/the-president-of-the-united-states-barack-obama-announces-plans-to-close-the-guantanamo-bay-detention-camp-in-cuba-obama-made-similar-state.md) _Context: Barack Obama, Cuba, U.S. President_
 5. [President of the United States Barack Obama endorses a proposal to remove Cuba from a list of countries that sponsor terrorism. ](/news/2015/04/14/president-of-the-united-states-barack-obama-endorses-a-proposal-to-remove-cuba-from-a-list-of-countries-that-sponsor-terrorism.md) _Context: Barack Obama, Cuba, U.S. President_
-
-### Changes:
-
-1. [Cuba-United States relations: Along with 15 other international envoys, Cuban diplomat Jose Ramon Cabanas Rodriguez presents his credentials to U.S. President Barack Obama, becoming the island's first ambassador to the United States since 1961. The Obama Administration has yet to name an ambassador to Cuba. ](/news/2015/09/17/cuba-united-states-relations-along-with-15-other-international-envoys-cuban-diplomat-jose-ramon-cabaa-as-rodriguez-presents-his-credenti.md) _2017-08-27 03:43:04 (First version)_
-1. [Along with 15 other international envoys, Cuban diplomat Jose Ramon Cabanas Rodriguez presents his credentials to U.S. President Barack Obama, becoming the island's first ambassador to the United States since 1961. The Obama Administration has yet to name an ambassador to Cuba. ](/news/2015/09/17/along-with-15-other-international-envoys-cuban-diplomat-jose-ramon-cabaa-as-rodriguez-presents-his-credentials-to-u-s-president-barack-oba.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/22/serbia-extradites-suspected-war-criminal-goran-hada3-4ia-to-the-hague-to-face-trial.html)  [JSON](/news/2011/07/22/serbia-extradites-suspected-war-criminal-goran-hada3-4ia-to-the-hague-to-face-trial.json)  [XML](/news/2011/07/22/serbia-extradites-suspected-war-criminal-goran-hada3-4ia-to-the-hague-to-face-trial.xml)  
+
 ### [2011-07-22](/news/2011/07/22/index.md)
 
+##### Serbia
 # Serbia extradites suspected war criminal Goran Hadzic to The Hague to face trial. 
 
 War crimes suspect Goran Hadzic arrives in the Netherlands after being flown from Serbia to face the UN court at The Hague.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-14247558)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54215000/jpg/_54215165_012505153-1.jpg)

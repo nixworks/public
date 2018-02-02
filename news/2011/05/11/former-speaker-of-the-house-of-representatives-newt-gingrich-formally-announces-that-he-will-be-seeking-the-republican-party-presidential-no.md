@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/05/11/former-speaker-of-the-house-of-representatives-newt-gingrich-formally-announces-that-he-will-be-seeking-the-republican-party-presidential-no.html)  [JSON](/news/2011/05/11/former-speaker-of-the-house-of-representatives-newt-gingrich-formally-announces-that-he-will-be-seeking-the-republican-party-presidential-no.json)  [XML](/news/2011/05/11/former-speaker-of-the-house-of-representatives-newt-gingrich-formally-announces-that-he-will-be-seeking-the-republican-party-presidential-no.xml)  
+
 ### [2011-05-11](/news/2011/05/11/index.md)
 
+##### U.S. Speaker of the House of Representatives
 # Former Speaker of the House of Representatives Newt Gingrich formally announces that he will be seeking the Republican Party Presidential nomination. 
 
 &quot;I&#39;m Newt Gingrich, and I&#39;m announcing my candidacy for President of the United States because I believe we can return America to hope and opportunity, to fu...
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/POLITICS/05/11/gingrich/index.html?on.cnn=2)
-2. [Newt Gingrich Youtube Channel](http://www.youtube.com/watch?v=xRSz21Vedxc)
+2. [Newt Gingrich Youtube Channel](https://www.youtube.com/watch?v=xRSz21Vedxc)
 2. [Cover Image](https://i.ytimg.com/vi/xRSz21Vedxc/maxresdefault.jpg)
 
 ### Related:

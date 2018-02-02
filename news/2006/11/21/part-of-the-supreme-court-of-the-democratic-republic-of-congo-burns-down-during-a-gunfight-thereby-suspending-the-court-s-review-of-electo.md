@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/21/part-of-the-supreme-court-of-the-democratic-republic-of-congo-burns-down-during-a-gunfight-thereby-suspending-the-court-s-review-of-electo.html)  [JSON](/news/2006/11/21/part-of-the-supreme-court-of-the-democratic-republic-of-congo-burns-down-during-a-gunfight-thereby-suspending-the-court-s-review-of-electo.json)  [XML](/news/2006/11/21/part-of-the-supreme-court-of-the-democratic-republic-of-congo-burns-down-during-a-gunfight-thereby-suspending-the-court-s-review-of-electo.xml)  
+
 ### [2006-11-21](/news/2006/11/21/index.md)
 
+##### Supreme Court of the Democratic Republic of the Congo
 #  Part of the Supreme Court of the Democratic Republic of Congo burns down during a gunfight, thereby suspending the Court's review of electoral fraud and irregularities alleged to have taken place during the contested second round of the 2006 presidential election. 
 
 Some six million Ethio
 
 
-### Source:
+### Sources:
 
 1. [IRIN](http://www.irinnews.org/report.asp?ReportID=56456&SelectRegion=Great_Lakes&SelectCountry=DRC)
 

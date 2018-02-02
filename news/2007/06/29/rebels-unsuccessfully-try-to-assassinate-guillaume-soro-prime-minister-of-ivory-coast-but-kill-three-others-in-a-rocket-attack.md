@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/29/rebels-unsuccessfully-try-to-assassinate-guillaume-soro-prime-minister-of-ivory-coast-but-kill-three-others-in-a-rocket-attack.html)  [JSON](/news/2007/06/29/rebels-unsuccessfully-try-to-assassinate-guillaume-soro-prime-minister-of-ivory-coast-but-kill-three-others-in-a-rocket-attack.json)  [XML](/news/2007/06/29/rebels-unsuccessfully-try-to-assassinate-guillaume-soro-prime-minister-of-ivory-coast-but-kill-three-others-in-a-rocket-attack.xml)  
+
 ### [2007-06-29](/news/2007/06/29/index.md)
 
+##### Guillaume Soro
 #  Rebels unsuccessfully try to assassinate Guillaume Soro, Prime Minister of Ivory Coast, but kill three others in a rocket attack. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=20601087&sid=adXyfODbHApo)
 

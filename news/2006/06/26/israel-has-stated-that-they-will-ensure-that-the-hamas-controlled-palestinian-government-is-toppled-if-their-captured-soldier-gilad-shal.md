@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/26/israel-has-stated-that-they-will-ensure-that-the-hamas-controlled-palestinian-government-is-toppled-if-their-captured-soldier-gilad-shal.html)  [JSON](/news/2006/06/26/israel-has-stated-that-they-will-ensure-that-the-hamas-controlled-palestinian-government-is-toppled-if-their-captured-soldier-gilad-shal.json)  [XML](/news/2006/06/26/israel-has-stated-that-they-will-ensure-that-the-hamas-controlled-palestinian-government-is-toppled-if-their-captured-soldier-gilad-shal.xml)  
+
 ### [2006-06-26](/news/2006/06/26/index.md)
 
+##### Hamas
 #  Israel has stated that they will ensure that the Hamas-controlled Palestinian government is "toppled" if their captured soldier, Gilad Shalit, is killed. Three Palestinian groups claiming to hold Shalit refuse to provide information about his health via the Palestine Red Crescent, unless all jailed Palestinian women and teenagers are released from Israeli prisons. Three Qassam rockets are launched from the Gaza Strip against Israeli towns, one of them wounding 4 civilians in Sderot and causing a power outage throughout the city. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News America](http://abcnews.go.com/International/wireStory?id=2119339&CMP=OTC-RSSFeeds0312)
 2. [AFP/High Ranking Source](http://www.breitbart.com/news/2006/06/26/060626081817.kfhkbz2g.html)

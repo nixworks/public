@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/5/fighting-breaks-out-in-sudan-s-south-kordofan-region.html)  [JSON](/news/2011/06/5/fighting-breaks-out-in-sudan-s-south-kordofan-region.json)  [XML](/news/2011/06/5/fighting-breaks-out-in-sudan-s-south-kordofan-region.xml)  
+
 ### [2011-06-5](/news/2011/06/5/index.md)
 
+##### Sudan
 # Fighting breaks out in Sudan's South Kordofan region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hBqLYrqU06awbvxoXlQ_5g0Zv5vA?docId=CNG.bbaf1601ea15250b70584a4c3761a175.be1)
 2. [Reuters](http://af.reuters.com/article/topNews/idAFJOE75408M20110605?sp=true)

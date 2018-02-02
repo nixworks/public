@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/22/according-to-the-syrian-observatory-for-human-r
 
 ### [2016-06-22](/news/2016/06/22/index.md)
 
+##### Syrian Civil War
 # According to the Syrian Observatory for Human Rights, airstrikes on ISIL-held Al-Raqqah kill at least 18 civilians. The group was unable to determine who carried out the airstrikes. 
 
 At least 18 civilians have been killed in air strikes in the Syrian city of Raqqa, the headquarters of so-called Islamic State, activists say.

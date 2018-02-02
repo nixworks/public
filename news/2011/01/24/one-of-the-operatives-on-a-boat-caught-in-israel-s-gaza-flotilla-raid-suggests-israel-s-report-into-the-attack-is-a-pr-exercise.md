@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/24/one-of-the-operatives-on-a-boat-caught-in-israel-s-gaza-flotilla-raid-suggests-israel-s-report-into-the-attack-is-a-pr-exercise.html)  [JSON](/news/2011/01/24/one-of-the-operatives-on-a-boat-caught-in-israel-s-gaza-flotilla-raid-suggests-israel-s-report-into-the-attack-is-a-pr-exercise.json)  [XML](/news/2011/01/24/one-of-the-operatives-on-a-boat-caught-in-israel-s-gaza-flotilla-raid-suggests-israel-s-report-into-the-attack-is-a-pr-exercise.xml)  
+
 ### [2011-01-24](/news/2011/01/24/index.md)
 
+##### Israel
 # One of the operatives on a boat caught in Israel's Gaza flotilla raid suggests Israel's report into the attack is a "PR exercise". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Irish Examiner](http://www.irishexaminer.com/home/israeli-findings-on-gaza-flotilla-raid-a-pr-exercise-142987.html)
 

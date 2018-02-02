@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/12/21/the-leaders-of-the-three-main-uk-political-parties-agree-to-stage-the-country-s-first-ever-live-televised-election-debates-ahead-of-the-201.html)  [JSON](/news/2009/12/21/the-leaders-of-the-three-main-uk-political-parties-agree-to-stage-the-country-s-first-ever-live-televised-election-debates-ahead-of-the-201.json)  [XML](/news/2009/12/21/the-leaders-of-the-three-main-uk-political-parties-agree-to-stage-the-country-s-first-ever-live-televised-election-debates-ahead-of-the-201.xml)  
+
 ### [2009-12-21](/news/2009/12/21/index.md)
 
+##### leaders' debates
 #  The leaders of the three main UK political parties agree to stage the country's first ever live televised election debates ahead of the 2010 General Election.([http:--news.bbc.co.uk-1-hi-uk_politics-8425280.stm BBC]) ([http:--www.telegraph.co.uk-news-election-2010-6860124-Gordon-Brown-Cameron-debates.html Telegraph.co.uk])
 
 

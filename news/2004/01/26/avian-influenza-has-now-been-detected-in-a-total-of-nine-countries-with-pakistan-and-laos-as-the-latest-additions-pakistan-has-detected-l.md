@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/26/avian-influenza-has-now-been-detected-in-a-total-of-nine-countries-with-pakistan-and-laos-as-the-latest-additions-pakistan-has-detected-l.html)  [JSON](/news/2004/01/26/avian-influenza-has-now-been-detected-in-a-total-of-nine-countries-with-pakistan-and-laos-as-the-latest-additions-pakistan-has-detected-l.json)  [XML](/news/2004/01/26/avian-influenza-has-now-been-detected-in-a-total-of-nine-countries-with-pakistan-and-laos-as-the-latest-additions-pakistan-has-detected-l.xml)  
+
 ### [2004-01-26](/news/2004/01/26/index.md)
 
+##### Avian flu virus
 #  Avian influenza has now been detected in a total of nine countries, with Pakistan and Laos as the latest additions. Pakistan has detected less dangerous strains H7 and H9. A six-year-old Thai boy became the seventh victim in Asia, with another ten suspected cases in the country. Around 19 million chickens have been slaughtered as a result of fighting the spread of the flu. The World Health Organisation expresses concern about a serious human outbreak. (WHO)
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/17/cyclone-dineo-kills-seven-and-destroys-twenty-t
 
 ### [2017-02-17](/news/2017/02/17/index.md)
 
+##### Cyclone Dineo
 # Cyclone Dineo kills seven and destroys twenty-thousand homes in Mozambique. 
 
 About 130,000 people have been affected by the storm.

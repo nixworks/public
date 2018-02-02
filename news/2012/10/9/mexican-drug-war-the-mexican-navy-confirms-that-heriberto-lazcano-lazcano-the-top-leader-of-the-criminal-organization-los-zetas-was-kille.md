@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/10/9/mexican-drug-war-the-mexican-navy-confirms-that-heriberto-lazcano-lazcano-the-top-leader-of-the-criminal-organization-los-zetas-was-kille.html)  [JSON](/news/2012/10/9/mexican-drug-war-the-mexican-navy-confirms-that-heriberto-lazcano-lazcano-the-top-leader-of-the-criminal-organization-los-zetas-was-kille.json)  [XML](/news/2012/10/9/mexican-drug-war-the-mexican-navy-confirms-that-heriberto-lazcano-lazcano-the-top-leader-of-the-criminal-organization-los-zetas-was-kille.xml)  
+
 ### [2012-10-9](/news/2012/10/9/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: The Mexican Navy confirms that Heriberto Lazcano Lazcano, the top leader of the criminal organization Los Zetas, was killed in a shootout yesterday. The body is stolen by armed gunmen. 
 
 The death of Heriberto Lazcano, known as El Lazca and the main leader of the Zetas, was confirmed through fingerprint analysis, the navy said. But in an odd twist, the corpse was quickly stolen.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2012/10/10/world/americas/mexico-zetas.html?hp&_r=0)
+1. [New York Times](https://www.nytimes.com/2012/10/10/world/americas/mexico-zetas.html?hp&_r=0)
 1. [Cover Image](https://static01.nyt.com/images/2012/10/10/world/americas/10mexico/10mexico-superJumbo.jpg)
 
 ### Related:

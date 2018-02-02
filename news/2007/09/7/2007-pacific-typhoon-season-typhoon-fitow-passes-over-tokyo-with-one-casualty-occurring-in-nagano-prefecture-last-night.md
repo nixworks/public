@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/09/7/2007-pacific-typhoon-season-typhoon-fitow-passes-over-tokyo-with-one-casualty-occurring-in-nagano-prefecture-last-night.html)  [JSON](/news/2007/09/7/2007-pacific-typhoon-season-typhoon-fitow-passes-over-tokyo-with-one-casualty-occurring-in-nagano-prefecture-last-night.json)  [XML](/news/2007/09/7/2007-pacific-typhoon-season-typhoon-fitow-passes-over-tokyo-with-one-casualty-occurring-in-nagano-prefecture-last-night.xml)  
+
 ### [2007-09-7](/news/2007/09/7/index.md)
 
+##### 2007 Pacific typhoon season
 #  2007 Pacific typhoon season: Typhoon Fitow passes over Tokyo with one casualty occurring in Nagano Prefecture last night. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601101&sid=awd4tO9RXW1o&refer=japan)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601101&sid=awd4tO9RXW1o&refer=japan)
 
 ### Related:
 

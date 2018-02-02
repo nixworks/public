@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/6/2011-syrian-uprising-the-gulf-co-operation-council-urges-an-end-to-the-bloodshed-in-syria-and-calls-for-reforms.html)  [JSON](/news/2011/08/6/2011-syrian-uprising-the-gulf-co-operation-council-urges-an-end-to-the-bloodshed-in-syria-and-calls-for-reforms.json)  [XML](/news/2011/08/6/2011-syrian-uprising-the-gulf-co-operation-council-urges-an-end-to-the-bloodshed-in-syria-and-calls-for-reforms.xml)  
+
 ### [2011-08-6](/news/2011/08/6/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: The Gulf Co-operation Council urges an end to the "bloodshed" in Syria, and calls for reforms. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Arabiya](http://english.alarabiya.net/articles/2011/08/06/161072.html)
 

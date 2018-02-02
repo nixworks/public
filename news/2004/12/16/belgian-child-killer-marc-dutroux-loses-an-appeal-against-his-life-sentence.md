@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/16/belgian-child-killer-marc-dutroux-loses-an-appeal-against-his-life-sentence.html)  [JSON](/news/2004/12/16/belgian-child-killer-marc-dutroux-loses-an-appeal-against-his-life-sentence.json)  [XML](/news/2004/12/16/belgian-child-killer-marc-dutroux-loses-an-appeal-against-his-life-sentence.xml)  
+
 ### [2004-12-16](/news/2004/12/16/index.md)
 
+##### Marc Dutroux
 #  Belgian child killer Marc Dutroux loses an appeal against his life sentence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Expatica](http://www.expatica.com/source/site_article.asp?subchannel_id=48&story_id=15111&name=Dutroux+appeal+rejected)
 2. [News.Com](http://www.news.com.au/common/story_page/0,4057,11706213%255E1702,00.html)

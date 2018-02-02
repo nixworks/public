@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/1/a-may-day-protest-in-seattle-united-states-escalates-into-violence-causing-injuries-to-eight-police-officers-and-damage-to-storefront-pro.html)  [JSON](/news/2013/05/1/a-may-day-protest-in-seattle-united-states-escalates-into-violence-causing-injuries-to-eight-police-officers-and-damage-to-storefront-pro.json)  [XML](/news/2013/05/1/a-may-day-protest-in-seattle-united-states-escalates-into-violence-causing-injuries-to-eight-police-officers-and-damage-to-storefront-pro.xml)  
+
 ### [2013-05-1](/news/2013/05/1/index.md)
 
+##### International Workers' Day
 # A May Day protest in Seattle, United States, escalates into violence, causing injuries to eight police officers and damage to storefront property. 
 
 A May Day protest in Seattle turned violent Wednesday night and ended with 17 arrests, eight injured police officers and several damaged Capitol Hill storefronts. This after an earlier peaceful immigrant rights march and rally.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/05/01/us/seattle-may-day-protests/index.html?hpt=hp_t2)
 2. [Seattle Pi](http://www.sfgate.com/local/article/Seattle-May-Day-protest-turns-violent-17-arrested-4479922.php)

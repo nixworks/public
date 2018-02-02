@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/21/turkey-suspends-another-1-980-teachers-and-scho
 
 ### [2016-12-21](/news/2016/12/21/index.md)
 
+##### 2016 Turkish purges
 # Turkey suspends another 1,980 teachers and school employees for alleged connections to the coup attempt. 
 
 Turkey suspended nearly 2,000 teachers and school employees on Wednesday, an official from the Ministry of Education said, as part of the widening purge that has followed a failed coup in July.

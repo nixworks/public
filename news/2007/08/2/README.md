@@ -1,46 +1,55 @@
+
+Formats: [HTML](2007/08/2/index.html)  [JSON](2007/08/2/index.json)  [XML](2007/08/2/index.xml)  
+
 ## [2007-08-2](/news/2007/08/2/index.md)
 
+##### United Nations plenary session on climate change
 ### [ The first-ever United Nations plenary session on climate change is extended into a third day due to the large number of 'worried nations' wanting to describe their climate-related problems. ](/news/2007/08/2/the-first-ever-united-nations-plenary-session-on-climate-change-is-extended-into-a-third-day-due-to-the-large-number-of-worried-nations-w.md)
 Third World countries given one more day to address members of how global warming may affect them.
 
+##### Mary Peters
 ### [ Mary Peters, the United States Secretary of Transportation, orders an immediate inspection of all truss bridges in the United States following the collapse of the I-35W Mississippi River bridge in Minneapolis. ](/news/2007/08/2/mary-peters-the-united-states-secretary-of-transportation-orders-an-immediate-inspection-of-all-truss-bridges-in-the-united-states-follow.md)
-_Context: I-35W Mississippi River bridge, Mary Peters, Minneapolis, Secretary of Transportation, United States, truss bridge_
+_Context: Mary Peters, U.S., Secretary of Transportation, I-35W Mississippi River bridge, truss bridge, Minneapolis_
 
+##### Kafeel Ahmed
 ### [ Kafeel Ahmed, who was one of the instigators of the 2007 Glasgow International Airport attack, dies in the Glasgow Royal Infirmary of the injuries he sustained in the attack. ](/news/2007/08/2/kafeel-ahmed-who-was-one-of-the-instigators-of-the-2007-glasgow-international-airport-attack-dies-in-the-glasgow-royal-infirmary-of-the-i.md)
 _Context: 2007 attack, Glasgow Royal Infirmary, Kafeel Ahmed_
 
+##### U.S. Marine
 ### [ United States Marine Sergeant Lawrence Hutchins III is convicted of murder and related offences in relation to the killing of an Iraqi man. ](/news/2007/08/2/united-states-marine-sergeant-lawrence-hutchins-iii-is-convicted-of-murder-and-related-offences-in-relation-to-the-killing-of-an-iraqi-man.md)
-_Context: Iraq, Sergeant, U.S. Marine, murder_
+_Context: U.S. Marine, murder, Sergeant, Iraq_
 
+##### forming a government
 ### [ A Cabinet Minister and four junior ministers belonging to the Ceylon Workers Congress leave the Government of President of Sri Lanka Mahinda Rajapaksa due to "political differences". ](/news/2007/08/2/a-cabinet-minister-and-four-junior-ministers-belonging-to-the-ceylon-workers-congress-leave-the-government-of-president-of-sri-lanka-mahind.md)
-_Context: Ceylon Workers Congress, Mahinda Rajapaksa, President of Sri Lanka, forming a government_
+_Context: President of Sri Lanka, forming a government, Mahinda Rajapaksa, Ceylon Workers Congress_
 
+##### 5th Circuit Court of Appeals
 ### [ The United States Court of Appeals for the Fifth Circuit rules that three insurers are not responsible for flood damage in New Orleans resulting from Hurricane Katrina. ](/news/2007/08/2/the-united-states-court-of-appeals-for-the-fifth-circuit-rules-that-three-insurers-are-not-responsible-for-flood-damage-in-new-orleans-resu.md)
-_Context: 5th Circuit Court of Appeals, Hurricane Katrina, New Orleans, flood_
+_Context: flood, New Orleans, Hurricane Katrina, 5th Circuit Court of Appeals_
 
+##### DR Congo
 ### [ 100 people are killed in the Democratic Republic of the Congo when a train derails. Government officials attribute the accident to faulty brakes. ](/news/2007/08/2/100-people-are-killed-in-the-democratic-republic-of-the-congo-when-a-train-derails-government-officials-attribute-the-accident-to-faulty-b.md)
 About 100 people are dead after an overnight train accident in central Congo, government officials said Thursday. 
 
-### [ Two aides of al Qaeda and Taliban are arrested at different places in Pakistan. ](/news/2007/08/2/two-aides-of-al-qaeda-and-taliban-are-arrested-at-different-places-in-pakistan.md)
-_Context: Pakistan, Taliban, al-Qaeda_
-
+##### 2007 Russian North Pole expedition
 ### [ 2007 Russian North Pole expedition: Two Russian bathyscaphes, MIR submersibles have reached the seabed below the North Pole, at a depth of 4.2 km, for the first time ever. ](/news/2007/08/2/2007-russian-north-pole-expedition-two-russian-bathyscaphes-mir-submersibles-have-reached-the-seabed-below-the-north-pole-at-a-depth-of.md)
-_Context: 2007 Russian North Pole expedition, MIR submersibles, North Pole, Russia, bathyscaphe_
+_Context: bathyscaphe, North Pole, MIR submersibles, 2007 Russian North Pole expedition, Russia_
 
+##### earthquake
 ### [ An offshore earthquake occurs in the Pacific Ocean off the shore of Vanuatu measuring 7.2 on the Richter scale but no tsunami is triggered. ](/news/2007/08/2/an-offshore-earthquake-occurs-in-the-pacific-ocean-off-the-shore-of-vanuatu-measuring-7-2-on-the-richter-scale-but-no-tsunami-is-triggered.md)
-_Context: Pacific Ocean, Richter scale, Vanuatu, earthquake, tsunami_
+_Context: earthquake, South Pacific Ocean, tsunami, Richter scale, Vanuatu_
 
+##### South Korea
 ### [ South Korea suspends beef imports from the United States following the discovery of banned parts in a recent shipment. ](/news/2007/08/2/south-korea-suspends-beef-imports-from-the-united-states-following-the-discovery-of-banned-parts-in-a-recent-shipment.md)
-_Context: South Korea, United States, beef_
+_Context: U.S., South Korea, beef_
 
+##### Journalist
 ### [ Journalists in the Indian state of Manipur refuse to put out newspapers as a protest against threats from rebel groups. ](/news/2007/08/2/journalists-in-the-indian-state-of-manipur-refuse-to-put-out-newspapers-as-a-protest-against-threats-from-rebel-groups.md)
-_Context: India, Manipur, journalist, newspaper_
+_Context: newspaper, India, Manipur, Journalist_
 
+##### earthquake
 ### [ An earthquake measuring 6.7 on the Richter Scale hits the southern part of Sakhalin off the coast of Russia causing a death. It also triggered a small tsunami that struck the coast of Hokkaido in Japan. ](/news/2007/08/2/an-earthquake-measuring-6-7-on-the-richter-scale-hits-the-southern-part-of-sakhalin-off-the-coast-of-russia-causing-a-death-it-also-trigge.md)
-_Context: Hokkaido, Japan, Richter scale, Russia, Sakhalin, earthquake, tsunami_
-
-### [ The Dandy comic relaunched as "'Dandy Xtreme"'.](/news/2007/08/2/the-dandy-comic-relaunched-as-dandy-xtreme.md)
-_Context: The Dandy_
+_Context: Hokkaido, Sakhalin, tsunami, Russia, Japan, Richter Scale, earthquake_
 
 ## [Previous Day...](/news/2007/08/1/index.md)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/3/israel-frees-about-100-palestinian-prisoners-before-the-mideast-peace-summit-with-president-of-the-united-states-george-w-bush-in-a-sign-o.html)  [JSON](/news/2003/06/3/israel-frees-about-100-palestinian-prisoners-before-the-mideast-peace-summit-with-president-of-the-united-states-george-w-bush-in-a-sign-o.json)  [XML](/news/2003/06/3/israel-frees-about-100-palestinian-prisoners-before-the-mideast-peace-summit-with-president-of-the-united-states-george-w-bush-in-a-sign-o.xml)  
+
 ### [2003-06-3](/news/2003/06/3/index.md)
 
+##### Israel
 #  Israel frees about 100 Palestinian prisoners before the Mideast peace summit with President of the United States George W. Bush in a sign of goodwill.
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/10/25/american-international-group-ceo-robert-benmosche-has-cancer-the-company-said-and-he-is-receiving-aggressive-chemotherapy-but-his-progn.html)  [JSON](/news/2010/10/25/american-international-group-ceo-robert-benmosche-has-cancer-the-company-said-and-he-is-receiving-aggressive-chemotherapy-but-his-progn.json)  [XML](/news/2010/10/25/american-international-group-ceo-robert-benmosche-has-cancer-the-company-said-and-he-is-receiving-aggressive-chemotherapy-but-his-progn.xml)  
+
 ### [2010-10-25](/news/2010/10/25/index.md)
 
+##### AIG
 # American International Group CEO Robert Benmosche has cancer, the company said, and he is receiving "aggressive chemotherapy," but his prognosis is not clear. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [CNBC](http://www.cnbc.com/id/39837371)
+1. [CNBC](https://www.cnbc.com/id/39837371)
 
 ### Related:
 

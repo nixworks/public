@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/18/former-tijuana-cartel-leader-francisco-rafael-arellano-fa-c-lix-is-killed-in-los-cabos-baja-california-sur.html)  [JSON](/news/2013/10/18/former-tijuana-cartel-leader-francisco-rafael-arellano-fa-c-lix-is-killed-in-los-cabos-baja-california-sur.json)  [XML](/news/2013/10/18/former-tijuana-cartel-leader-francisco-rafael-arellano-fa-c-lix-is-killed-in-los-cabos-baja-california-sur.xml)  
+
 ### [2013-10-18](/news/2013/10/18/index.md)
 
+##### Tijuana Cartel
 # Former Tijuana Cartel leader Francisco Rafael Arellano Felix is killed in Los Cabos, Baja California Sur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Terra México](http://noticias.terra.com/crimenes/prensa-mexicana-informa-de-asesinato-del-capo-francisco-rafael-arellano-felix,64bcd172a8dc1410VgnCLD2000000dc6eb0aRCRD.html)
 

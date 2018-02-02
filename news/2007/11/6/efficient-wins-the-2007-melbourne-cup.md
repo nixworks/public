@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/6/efficient-wins-the-2007-melbourne-cup.html)  [JSON](/news/2007/11/6/efficient-wins-the-2007-melbourne-cup.json)  [XML](/news/2007/11/6/efficient-wins-the-2007-melbourne-cup.xml)  
+
 ### [2007-11-6](/news/2007/11/6/index.md)
 
+##### Efficient
 #  Efficient wins the 2007 Melbourne Cup. 
 
 Efficient took out the Melbourne Cup with a blinding finish at Flemington this afternoon.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/11/06/2083243.htm?WT.mc_id=newsmail)
 1. [Cover Image](http://www.abc.net.au/news/image/717654-1x1-700x700.jpg)

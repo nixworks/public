@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/former-slave-harriet-tubman-will-replace-andrew
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### Harriet Tubman
 # Former slave Harriet Tubman will replace Andrew Jackson on the front of the United States twenty-dollar bill while Alexander Hamilton keeps his place on the ten after the public consultation process. 
 
  Anti-slavery crusader Harriet Tubman will become the first African-American on the face of U.S. paper currency, and the first woman in more than a century, whe

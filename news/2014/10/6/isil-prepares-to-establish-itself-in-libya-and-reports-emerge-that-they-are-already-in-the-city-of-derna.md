@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/6/isil-prepares-to-establish-itself-in-libya-and-reports-emerge-that-they-are-already-in-the-city-of-derna.html)  [JSON](/news/2014/10/6/isil-prepares-to-establish-itself-in-libya-and-reports-emerge-that-they-are-already-in-the-city-of-derna.json)  [XML](/news/2014/10/6/isil-prepares-to-establish-itself-in-libya-and-reports-emerge-that-they-are-already-in-the-city-of-derna.xml)  
+
 ### [2014-10-6](/news/2014/10/6/index.md)
 
+##### ISIL
 # ISIL prepares to establish itself in Libya and reports emerge that they are already in the city of Derna. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Arabiya](http://english.alarabiya.net/en/News/2014/10/06/Video-Libya-s-Islamist-militants-parade-with-ISIS-flags.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/1/at-least-eight-people-are-killed-when-a-eurocopter-as332-ditches-into-the-north-sea.html)  [JSON](/news/2009/04/1/at-least-eight-people-are-killed-when-a-eurocopter-as332-ditches-into-the-north-sea.json)  [XML](/news/2009/04/1/at-least-eight-people-are-killed-when-a-eurocopter-as332-ditches-into-the-north-sea.xml)  
+
 ### [2009-04-1](/news/2009/04/1/index.md)
 
+##### Eurocopter AS332
 #  At least eight people are killed when a Eurocopter AS332 ditches into the North Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5hj8sIk2wBnv5uRFxLhfG6rbS_7dw)
 

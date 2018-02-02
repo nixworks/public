@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/15/a-gulfstream-iv-aircraft-carrying-former-president-george-w-bush-from-philadelphia-international-airport-to-dallas-love-field-is-diverted-s.html)  [JSON](/news/2013/06/15/a-gulfstream-iv-aircraft-carrying-former-president-george-w-bush-from-philadelphia-international-airport-to-dallas-love-field-is-diverted-s.json)  [XML](/news/2013/06/15/a-gulfstream-iv-aircraft-carrying-former-president-george-w-bush-from-philadelphia-international-airport-to-dallas-love-field-is-diverted-s.xml)  
+
 ### [2013-06-15](/news/2013/06/15/index.md)
 
+##### Gulfstream IV
 # A Gulfstream IV aircraft carrying former President George W. Bush from Philadelphia International Airport to Dallas Love Field is diverted safely to Louisville International Airport when the pilot smells smoke; Bush arrived safely in Dallas early Sunday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/06/16/us/bush-plane-diverted/index.html?hpt=hp_t2)
 

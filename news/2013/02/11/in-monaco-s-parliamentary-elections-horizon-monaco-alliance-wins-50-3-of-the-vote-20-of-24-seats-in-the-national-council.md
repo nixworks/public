@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/11/in-monaco-s-parliamentary-elections-horizon-monaco-alliance-wins-50-3-of-the-vote-20-of-24-seats-in-the-national-council.html)  [JSON](/news/2013/02/11/in-monaco-s-parliamentary-elections-horizon-monaco-alliance-wins-50-3-of-the-vote-20-of-24-seats-in-the-national-council.json)  [XML](/news/2013/02/11/in-monaco-s-parliamentary-elections-horizon-monaco-alliance-wins-50-3-of-the-vote-20-of-24-seats-in-the-national-council.xml)  
+
 ### [2013-02-11](/news/2013/02/11/index.md)
 
+##### Monaco
 # In Monaco's parliamentary elections, Horizon Monaco alliance wins 50.3% of the vote, 20 of 24 seats in the National Council. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Mairie de Monaco](http://www.monaco-mairie.mc/annonces/resultats-elections-nationales-2013-/le-scrutin-en-chiffres)
 

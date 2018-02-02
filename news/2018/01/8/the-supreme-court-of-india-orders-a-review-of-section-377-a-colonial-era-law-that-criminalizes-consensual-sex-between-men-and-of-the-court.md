@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/8/the-supreme-court-of-india-orders-a-review-of-se
 
 ### [2018-01-8](/news/2018/01/8/index.md)
 
+##### Law of India
 # The Supreme Court of India orders a review of Section 377, a colonial-era law that criminalizes consensual sex between men, and of the Court's December 2013 verdict that upheld the law. In August 2017, the Supreme Court ruled that all Indian citizens have a constitutional right to privacy, noting in the judgment that "sexual orientation is an essential attribute to privacy." 
 
 The court ordered a review of a colonial-era law reinstated in 2013 that criminalizes sex between men. Gay-rights advocates were elated but cautious.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/8/news-corporation-says-it-will-buy-ign-entertainment-for-650-million-ign-is-one-of-the-largest-multimedia-sites-on-the-internet-and-also-o.html)  [JSON](/news/2005/09/8/news-corporation-says-it-will-buy-ign-entertainment-for-650-million-ign-is-one-of-the-largest-multimedia-sites-on-the-internet-and-also-o.json)  [XML](/news/2005/09/8/news-corporation-says-it-will-buy-ign-entertainment-for-650-million-ign-is-one-of-the-largest-multimedia-sites-on-the-internet-and-also-o.xml)  
+
 ### [2005-09-8](/news/2005/09/8/index.md)
 
+##### News Corporation
 #  News Corporation says it will buy IGN Entertainment for $650 million. IGN is one of the largest multimedia sites on the Internet and also owns the GameSpy Network and 
 
 AskMen is the No. 1 site to help men improve their lives—from discovering new products & trends to getting advice on dating, fitness, grooming & more.
 
 
-### Source:
+### Sources:
 
 1. [AskMen.com](http://www.askmen.com)
 2. [BBC](http://news.bbc.co.uk/2/hi/business/4226170.stm)

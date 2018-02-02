@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/17/the-vatican-is-replacing-italian-archbishop-car
 
 ### [2016-03-17](/news/2016/03/17/index.md)
 
+##### Holy See
 # The Vatican is replacing Italian Archbishop Carlo Maria Vigano, the Apostolic Nuncio to the U.S., with French-born Archbishop Christophe Pierre, currently the Apostolic Nuncio to Mexico. Vigano, who is 75, the statutory retirement age, in 2015 arranged the unexpected meeting between Pope Francis and controversial Kentucky clerk Kim Davis, who refused to follow her state's law on same-sex marriage. 
 
 ROME (New York Daily News) -- The Vatican ambassador to the U.S. who arranged the 2015 meeting between Jorge Bergoglio, also known to Roman Catholics as Pope Francis, and controversial Kentucky clerk Kim Davis is set to be replaced, according to reports. Italian Archbishop Carlo Maria Viganò will be replaced by French-born Archbishop Christophe Pierre,&hellip;

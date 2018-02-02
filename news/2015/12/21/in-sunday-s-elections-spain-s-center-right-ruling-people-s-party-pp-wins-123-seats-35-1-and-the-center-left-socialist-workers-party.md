@@ -1,17 +1,26 @@
+
+Formats: [HTML](/news/2015/12/21/in-sunday-s-elections-spain-s-center-right-ruling-people-s-party-pp-wins-123-seats-35-1-and-the-center-left-socialist-workers-party.html)  [JSON](/news/2015/12/21/in-sunday-s-elections-spain-s-center-right-ruling-people-s-party-pp-wins-123-seats-35-1-and-the-center-left-socialist-workers-party.json)  [XML](/news/2015/12/21/in-sunday-s-elections-spain-s-center-right-ruling-people-s-party-pp-wins-123-seats-35-1-and-the-center-left-socialist-workers-party.xml)  
+
 ### [2015-12-21](/news/2015/12/21/index.md)
 
+##### election
 # In Sunday's elections, Spain's center-right ruling People's Party (PP) wins 123 seats (35.1%), and the center-left Socialist Workers' Party (PSOE) takes 90 (25.7%) of the 350 seats in parliament, thereby ending Spain's two-party system since neither major party won an absolute majority. Turnout was 73 percent. Spain's new political forces, Podemos and Ciudadanos (C's), get 69 and 40 seats, respectively. Smaller parties split the remaining 28 seats, 17 to Catalonia parties which favor secession. It appears that a coalition government will be necessary. PSOE has declined to join the PP, which actually doesn't want that either. King Felipe, who ascended the throne in June 2014, is constitutionally empowered to mediate. 
 
 Political fragmentation will lead to either a fragile government or an early return to the polls.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-27918094)
 2. [Fortune](http://fortune.com/2015/12/21/spain-election-results/)
 3. [International Business Times](http://www.ibtimes.com/spain-elections-2015-popular-party-wins-greatest-influence-national-government-poised-2233806)
 4. [Stratfor](https://www.stratfor.com/analysis/spains-elections-yield-unsettled-landscape#)
 4. [Cover Image](https://www.stratfor.com/sites/default/files/styles/stratfor_full/public/main/images/spainelex.jpg?itok=V_ln5BHU)
+
+### Changes:
+
+1. [Spanish general election, 2015: In Sunday's elections, Spain's center-right ruling People's Party (PP) wins 123 seats (35.1%), and the center-left Socialist Workers' Party (PSOE) takes 90 (25.7%) of the 350 seats in parliament, thereby ending Spain's two-party system since neither major party won an absolute majority. Turnout was 73 percent. Spain's new political forces, Podemos and Ciudadanos (C's), get 69 and 40 seats, respectively. Smaller parties split the remaining 28 seats, 17 to Catalonia parties which favor secession. It appears that a coalition government will be necessary. PSOE has declined to join the PP, which actually doesn't want that either. King Felipe, who ascended the throne in June 2014, is constitutionally empowered to mediate. ](/news/2015/12/21/spanish-general-election-2015-in-sunday-s-elections-spain-s-center-right-ruling-people-s-party-pp-wins-123-seats-35-1-and-the-cente.md) _2017-08-27 03:44:27 (First version)_
+1. [In Sunday's elections, Spain's center-right ruling People's Party (PP) wins 123 seats (35.1%), and the center-left Socialist Workers' Party (PSOE) takes 90 (25.7%) of the 350 seats in parliament, thereby ending Spain's two-party system since neither major party won an absolute majority. Turnout was 73 percent. Spain's new political forces, Podemos and Ciudadanos (C's), get 69 and 40 seats, respectively. Smaller parties split the remaining 28 seats, 17 to Catalonia parties which favor secession. It appears that a coalition government will be necessary. PSOE has declined to join the PP, which actually doesn't want that either. King Felipe, who ascended the throne in June 2014, is constitutionally empowered to mediate. ](/news/2015/12/21/in-sunday-s-elections-spain-s-center-right-ruling-people-s-party-pp-wins-123-seats-35-1-and-the-center-left-socialist-workers-party.md) _(Current version)_
 
 ### Related:
 
@@ -20,8 +29,3 @@ Political fragmentation will lead to either a fragile government or an early ret
 3. [Pedro Sanchez, leader of Spain's Spanish Socialist Workers' Party (PSOE) rejects a pact with the ruling People's Party (PP). "We say 'no' to Rajoy and his policies," Sanchez told a news conference after meeting with Spanish Prime Minister Mariano Rajoy. ](/news/2015/12/23/pedro-sa-nchez-leader-of-spain-s-spanish-socialist-workers-party-psoe-rejects-a-pact-with-the-ruling-people-s-party-pp-we-say-no-t.md) _Context: People's Party, Socialist Workers' Party, Spain, election_
 4. [Spain's King Felipe VI announces an unprecedented, repeat parliamentary election for June 26, 2016, since none of the country's political parties has been able to form a government. The prior election, which was held on December 20, 2015, resulted in a hung parliament. Previously, Spain had been ruled via a two-party system. ](/news/2016/04/26/spain-s-king-felipe-vi-announces-an-unprecedented-repeat-parliamentary-election-for-june-26-2016-since-none-of-the-country-s-political-pa.md) _Context: Felipe VI of Spain, Spain, election_
 5. [Spanish Prime Minister Mariano Rajoy is punched in the face by a teenager during a People's Party campaign event in the city of Pontevedra. ](/news/2015/12/16/spanish-prime-minister-mariano-rajoy-is-punched-in-the-face-by-a-teenager-during-a-people-s-party-campaign-event-in-the-city-of-pontevedra.md) _Context: People's Party, Spain, election_
-
-### Changes:
-
-1. [Spanish general election, 2015: In Sunday's elections, Spain's center-right ruling People's Party (PP) wins 123 seats (35.1%), and the center-left Socialist Workers' Party (PSOE) takes 90 (25.7%) of the 350 seats in parliament, thereby ending Spain's two-party system since neither major party won an absolute majority. Turnout was 73 percent. Spain's new political forces, Podemos and Ciudadanos (C's), get 69 and 40 seats, respectively. Smaller parties split the remaining 28 seats, 17 to Catalonia parties which favor secession. It appears that a coalition government will be necessary. PSOE has declined to join the PP, which actually doesn't want that either. King Felipe, who ascended the throne in June 2014, is constitutionally empowered to mediate. ](/news/2015/12/21/spanish-general-election-2015-in-sunday-s-elections-spain-s-center-right-ruling-people-s-party-pp-wins-123-seats-35-1-and-the-cente.md) _2017-08-27 03:44:27 (First version)_
-1. [In Sunday's elections, Spain's center-right ruling People's Party (PP) wins 123 seats (35.1%), and the center-left Socialist Workers' Party (PSOE) takes 90 (25.7%) of the 350 seats in parliament, thereby ending Spain's two-party system since neither major party won an absolute majority. Turnout was 73 percent. Spain's new political forces, Podemos and Ciudadanos (C's), get 69 and 40 seats, respectively. Smaller parties split the remaining 28 seats, 17 to Catalonia parties which favor secession. It appears that a coalition government will be necessary. PSOE has declined to join the PP, which actually doesn't want that either. King Felipe, who ascended the throne in June 2014, is constitutionally empowered to mediate. ](/news/2015/12/21/in-sunday-s-elections-spain-s-center-right-ruling-people-s-party-pp-wins-123-seats-35-1-and-the-center-left-socialist-workers-party.md) _(Current version)_

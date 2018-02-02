@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/18/the-tenth-national-congress-of-the-communist-party-of-vietnam-opens-in-hanoi-amid-the-pmu-18-corruption-scandal.html)  [JSON](/news/2006/04/18/the-tenth-national-congress-of-the-communist-party-of-vietnam-opens-in-hanoi-amid-the-pmu-18-corruption-scandal.json)  [XML](/news/2006/04/18/the-tenth-national-congress-of-the-communist-party-of-vietnam-opens-in-hanoi-amid-the-pmu-18-corruption-scandal.xml)  
+
 ### [2006-04-18](/news/2006/04/18/index.md)
 
+##### Tenth National Congress
 #  The Tenth National Congress of the Communist Party of Vietnam opens in Hanoi amid the PMU-18 corruption scandal. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4917466.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyid=2006-04-18T025808Z_01_HO810247_RTRUKOC_0_US-VIETNAM.xml)

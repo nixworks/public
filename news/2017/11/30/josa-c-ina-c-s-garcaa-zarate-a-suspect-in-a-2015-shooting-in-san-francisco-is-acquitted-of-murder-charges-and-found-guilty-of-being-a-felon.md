@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/30/josa-c-ina-c-s-garcaa-zarate-a-suspect-in-a-201
 
 ### [2017-11-30](/news/2017/11/30/index.md)
 
+##### Shooting of Kathryn Steinle
 # Jose Ines Garcia Zarate, a suspect in a 2015 shooting in San Francisco, is acquitted of murder charges and found guilty of being a felon in possession of a firearm. 
 
 Donald Trump seized on the case during the campaign as proof that the U.S. needs his proposed border wall.

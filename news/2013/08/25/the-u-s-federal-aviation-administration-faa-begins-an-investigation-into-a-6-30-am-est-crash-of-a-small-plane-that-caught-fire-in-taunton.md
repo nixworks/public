@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/25/the-u-s-federal-aviation-administration-faa-begins-an-investigation-into-a-6-30-am-est-crash-of-a-small-plane-that-caught-fire-in-taunton.html)  [JSON](/news/2013/08/25/the-u-s-federal-aviation-administration-faa-begins-an-investigation-into-a-6-30-am-est-crash-of-a-small-plane-that-caught-fire-in-taunton.json)  [XML](/news/2013/08/25/the-u-s-federal-aviation-administration-faa-begins-an-investigation-into-a-6-30-am-est-crash-of-a-small-plane-that-caught-fire-in-taunton.xml)  
+
 ### [2013-08-25](/news/2013/08/25/index.md)
 
+##### Federal Aviation Administration
 # The U.S. Federal Aviation Administration (FAA) begins an investigation into a 6:30 AM EST crash of a small plane that caught fire in Taunton, Massachusetts, that is believed to have killed two people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2013/08/25/20180693-reports-two-killed-in-taunton-mass-plane-crash?lite=)
 

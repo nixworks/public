@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/07/23/mohammed-vi-of-morocco-becomes-king.html)  [JSON](/news/1999/07/23/mohammed-vi-of-morocco-becomes-king.json)  [XML](/news/1999/07/23/mohammed-vi-of-morocco-becomes-king.xml)  
+
 ### [1999-07-23](/news/1999/07/23/index.md)
 
+##### King Mohammed VI of Morocco
 #  Mohammed VI of Morocco becomes king.
 
 

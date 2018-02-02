@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/22/the-chair-of-the-metropolitan-police-authority-s-civil-liberties-panel-describes-as-appalling-and-ghastly-a-kettling-video-and-encourage.html)  [JSON](/news/2010/12/22/the-chair-of-the-metropolitan-police-authority-s-civil-liberties-panel-describes-as-appalling-and-ghastly-a-kettling-video-and-encourage.json)  [XML](/news/2010/12/22/the-chair-of-the-metropolitan-police-authority-s-civil-liberties-panel-describes-as-appalling-and-ghastly-a-kettling-video-and-encourage.xml)  
+
 ### [2010-12-22](/news/2010/12/22/index.md)
 
+##### Metropolitan Police Authority
 # The chair of the Metropolitan Police Authority's civil liberties panel describes as "appalling" and "ghastly" a kettling video and encourages students subjected to this procedure to make official complaints against the British police. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2010/dec/22/kettling-video-appalling-police-watchdog)
 

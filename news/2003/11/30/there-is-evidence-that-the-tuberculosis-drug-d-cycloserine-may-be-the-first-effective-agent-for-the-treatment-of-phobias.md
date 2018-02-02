@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/30/there-is-evidence-that-the-tuberculosis-drug-d-cycloserine-may-be-the-first-effective-agent-for-the-treatment-of-phobias.html)  [JSON](/news/2003/11/30/there-is-evidence-that-the-tuberculosis-drug-d-cycloserine-may-be-the-first-effective-agent-for-the-treatment-of-phobias.json)  [XML](/news/2003/11/30/there-is-evidence-that-the-tuberculosis-drug-d-cycloserine-may-be-the-first-effective-agent-for-the-treatment-of-phobias.xml)  
+
 ### [2003-11-30](/news/2003/11/30/index.md)
 
+##### tuberculosis
 #  There is evidence that the tuberculosis drug D-cycloserine may be the first effective agent for the treatment of phobias.
 
 

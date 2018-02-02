@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/3/dutch-d66-party-chairman-boris-dittrich-resigns-because-the-dutch-government-voted-yes-to-dutch-participation-in-a-nato-led-isaf-operatio.html)  [JSON](/news/2006/02/3/dutch-d66-party-chairman-boris-dittrich-resigns-because-the-dutch-government-voted-yes-to-dutch-participation-in-a-nato-led-isaf-operatio.json)  [XML](/news/2006/02/3/dutch-d66-party-chairman-boris-dittrich-resigns-because-the-dutch-government-voted-yes-to-dutch-participation-in-a-nato-led-isaf-operatio.xml)  
+
 ### [2006-02-3](/news/2006/02/3/index.md)
 
+##### D66
 #  Dutch D66 party chairman Boris Dittrich resigns because the Dutch Government voted 'Yes' to Dutch participation in a NATO-led ISAF operation in Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Expatica](http://www.expatica.com/source/site_article.asp?subchannel_id=19&story_id=27352&name=D66+chief+Boris+Dittrich+set+to+quit+over+Afghan+vote)
 

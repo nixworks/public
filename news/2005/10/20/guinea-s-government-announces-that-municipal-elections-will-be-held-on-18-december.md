@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/20/guinea-s-government-announces-that-municipal-elections-will-be-held-on-18-december.html)  [JSON](/news/2005/10/20/guinea-s-government-announces-that-municipal-elections-will-be-held-on-18-december.json)  [XML](/news/2005/10/20/guinea-s-government-announces-that-municipal-elections-will-be-held-on-18-december.xml)  
+
 ### [2005-10-20](/news/2005/10/20/index.md)
 
+##### Guinea
 #  Guinea's government announces that municipal elections will be held on 18 December. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/IRIN/1b07f482511d575d70867ba637b2590a.htm)
 

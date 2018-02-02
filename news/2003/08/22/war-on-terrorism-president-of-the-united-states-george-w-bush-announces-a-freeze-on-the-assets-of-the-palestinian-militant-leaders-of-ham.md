@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/22/war-on-terrorism-president-of-the-united-states-george-w-bush-announces-a-freeze-on-the-assets-of-the-palestinian-militant-leaders-of-ham.html)  [JSON](/news/2003/08/22/war-on-terrorism-president-of-the-united-states-george-w-bush-announces-a-freeze-on-the-assets-of-the-palestinian-militant-leaders-of-ham.json)  [XML](/news/2003/08/22/war-on-terrorism-president-of-the-united-states-george-w-bush-announces-a-freeze-on-the-assets-of-the-palestinian-militant-leaders-of-ham.xml)  
+
 ### [2003-08-22](/news/2003/08/22/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: President of the United States George W. Bush announces a freeze on the assets of the Palestinian militant leaders of Hamas and organizations financially supporting the "terrorist organization". The action is taken because Hamas officially claims responsibility for the act of terror on August 19.
 
 

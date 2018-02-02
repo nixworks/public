@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/07/3/olympic-athletes-including-roger-federer-yao-ming-laure-manaudou-liu-xiang-and-yelena-isinbayeva-are-among-the-stars-of-the-internation.html)  [JSON](/news/2008/07/3/olympic-athletes-including-roger-federer-yao-ming-laure-manaudou-liu-xiang-and-yelena-isinbayeva-are-among-the-stars-of-the-internation.json)  [XML](/news/2008/07/3/olympic-athletes-including-roger-federer-yao-ming-laure-manaudou-liu-xiang-and-yelena-isinbayeva-are-among-the-stars-of-the-internation.xml)  
+
 ### [2008-07-3](/news/2008/07/3/index.md)
 
+##### Roger Federer
 #  Olympic athletes including Roger Federer, Yao Ming, Laure Manaudou, Liu Xiang, and Yelena Isinbayeva are among the stars of the International Olympic Committee (IOC)'s latest public service announcement entitled "Heroes".
 
 

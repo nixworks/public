@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/13/in-mexico-city-mexico-two-men-are-arrested-in-connection-with-the-may-9-murder-of-28-year-old-american-malcolm-shabazz-the-grandson-and-f.html)  [JSON](/news/2013/05/13/in-mexico-city-mexico-two-men-are-arrested-in-connection-with-the-may-9-murder-of-28-year-old-american-malcolm-shabazz-the-grandson-and-f.json)  [XML](/news/2013/05/13/in-mexico-city-mexico-two-men-are-arrested-in-connection-with-the-may-9-murder-of-28-year-old-american-malcolm-shabazz-the-grandson-and-f.xml)  
+
 ### [2013-05-13](/news/2013/05/13/index.md)
 
+##### Mexico City
 # In Mexico City, Mexico, two men are arrested in connection with the May 9 murder of 28-year-old American Malcolm Shabazz, the grandson and first male descendant of Malcolm X. 
 
 Two men have been arrested in connection with the murder of Malcolm Shabazz, the grandson of civil rights-era leader Malcolm X who died Thursday in Mexico City. The men, who work at a bar Shabazz visited, reportedly face charges of homicide and robbery.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/blogs/thetwo-way/2013/05/13/183643499/arrests-made-in-malcolm-shabazz-murder-investigation)
 1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)

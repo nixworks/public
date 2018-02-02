@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/2/roger-federer-becomes-the-atp-number-one-ranked-player.html)  [JSON](/news/2004/02/2/roger-federer-becomes-the-atp-number-one-ranked-player.json)  [XML](/news/2004/02/2/roger-federer-becomes-the-atp-number-one-ranked-player.xml)  
+
 ### [2004-02-2](/news/2004/02/2/index.md)
 
+##### Roger Federer
 #  Roger Federer becomes the ATP number-one ranked player.
 
 

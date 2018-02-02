@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/03/21/a-labour-strike-in-israel-led-by-union-histadrut-shuts-down-all-government-offices-and-transportation.html)  [JSON](/news/2007/03/21/a-labour-strike-in-israel-led-by-union-histadrut-shuts-down-all-government-offices-and-transportation.json)  [XML](/news/2007/03/21/a-labour-strike-in-israel-led-by-union-histadrut-shuts-down-all-government-offices-and-transportation.xml)  
+
 ### [2007-03-21](/news/2007/03/21/index.md)
 
+##### strike
 #  A labour strike in Israel led by union Histadrut shuts down all government offices and transportation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6473681.stm)
 
 ### Related:
 
-1. [Histadrut, Israel's trade union organisation, calls a nationwide strike with Ben Gurion Airport to be closed until midday. ](/news/2012/02/8/histadrut-israel-s-trade-union-organisation-calls-a-nationwide-strike-with-ben-gurion-airport-to-be-closed-until-midday.md) _Context: Histadrut, Israel, strike, unionize_
+1. [Histadrut, Israel's trade union organisation, calls a nationwide strike with Ben Gurion Airport to be closed until midday. ](/news/2012/02/8/histadrut-israel-s-trade-union-organisation-calls-a-nationwide-strike-with-ben-gurion-airport-to-be-closed-until-midday.md) _Context: Histadrut, Israel_
 2. [A Histadrut general strike in Israel continues for a third day with banks, ports and the Tel Aviv Stock Exchange closed. ](/news/2012/02/10/a-histadrut-general-strike-in-israel-continues-for-a-third-day-with-banks-ports-and-the-tel-aviv-stock-exchange-closed.md) _Context: Histadrut, Israel_
 3. [ The Indonesian Pilots Federation threatens to strike unless Marwoto Komar's conviction is overturned. ](/news/2009/05/2/the-indonesian-pilots-federation-threatens-to-strike-unless-marwoto-komar-s-conviction-is-overturned.md) _Context: strike, unionize_
-4. [ Peru's largest federation of mining unions commences strike action in order to pressure the Congress of Peru to pass legislation to improve labor benefits. ](/news/2008/06/30/peru-s-largest-federation-of-mining-unions-commences-strike-action-in-order-to-pressure-the-congress-of-peru-to-pass-legislation-to-improve.md) _Context: strike, unionize_
-5. [ Transport unions start talks with management and the government over pension reforms in the eighth consecutive day of strike. ](/news/2007/11/21/transport-unions-start-talks-with-management-and-the-government-over-pension-reforms-in-the-eighth-consecutive-day-of-strike.md) _Context: strike, unionize_
+4. [Supreme Leader Ali Khamenei says that Iran has extinguished the unrest and has foiled attempts to turn legitimate protests into an insurgency to overthrow the Islamic Republic. He went on to identify the United States, Britain, Israel, the People's Mujahedin of Iran and "a wealthy government" in the Persian Gulf among Iran's foreign enemies. ](/news/2018/01/9/supreme-leader-ali-khamenei-says-that-iran-has-extinguished-the-unrest-and-has-foiled-attempts-to-turn-legitimate-protests-into-an-insurgenc.md) _Context: Israel_
+5. [U.S. President Donald Trump threatens to stop aid to Palestine if they do not agree to partake in peace talks with Israel. ](/news/2018/01/25/u-s-president-donald-trump-threatens-to-stop-aid-to-palestine-if-they-do-not-agree-to-partake-in-peace-talks-with-israel.md) _Context: Israel_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/28/a-united-states-department-of-defense-report-finds-that-the-partial-remains-of-the-victims-of-the-september-11-attacks-ended-up-at-a-militar.html)  [JSON](/news/2012/02/28/a-united-states-department-of-defense-report-finds-that-the-partial-remains-of-the-victims-of-the-september-11-attacks-ended-up-at-a-militar.json)  [XML](/news/2012/02/28/a-united-states-department-of-defense-report-finds-that-the-partial-remains-of-the-victims-of-the-september-11-attacks-ended-up-at-a-militar.xml)  
+
 ### [2012-02-28](/news/2012/02/28/index.md)
 
+##### U.S. military
 # A United States Department of Defense report finds that the partial remains of the victims of the September 11 attacks ended up at a military landfill site. 
 
 A report by the Pentagon finds that partial remains of some 9/11 victims ended up in a military landfill site after being cremated at a US air base.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-17195894)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606885_331dc631-6340-4cda-ae6e-bda544b28681.jpg)

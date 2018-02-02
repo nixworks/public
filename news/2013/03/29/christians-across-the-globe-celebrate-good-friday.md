@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/29/christians-across-the-globe-celebrate-good-friday.html)  [JSON](/news/2013/03/29/christians-across-the-globe-celebrate-good-friday.json)  [XML](/news/2013/03/29/christians-across-the-globe-celebrate-good-friday.xml)  
+
 ### [2013-03-29](/news/2013/03/29/index.md)
 
+##### Christian
 # Christians across the globe celebrate Good Friday. 
 
 JERUSALEM — Hundreds of Christians streamed through the cobblestone alleyways of Jerusalem&#39;s Old City on Friday, hoisting wooden crosses and chanting prayers to mark the crucifixion of Jesus. Throngs of pilgrims walked a traditional Good Friday procession that retraces Jesus&#39; steps along the Via Dolorosa, Latin for the &quot;Way of Suffering.&quot; They followed his 14 stations, saying a prayer at each and ending at the ancient Holy Sepulcher church. Along the route, Franciscan friars in brown robes chanted prayers in Latin and explained the different stations to crowds through a megaphone. Leonard Mary, a priest from Irondale, Alabama, was dressed as Jesus wearing a crown of thorns. He was flanked by men posing as Roman soldiers and had fake blood dripping down his chest as he lugged a giant
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Toledo Blade](http://www.toledoblade.com/Religion/2013/03/29/Christians-mark-Jesus-crucifixion-on-Good-Friday.html)
 1. [Cover Image](/image/2013/03/29/Mideast-Israel-Palestinians-Good-Friday.JPG)

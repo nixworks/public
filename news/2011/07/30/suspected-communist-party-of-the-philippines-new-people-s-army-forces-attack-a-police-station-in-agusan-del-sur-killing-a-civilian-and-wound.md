@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/30/suspected-communist-party-of-the-philippines-new-people-s-army-forces-attack-a-police-station-in-agusan-del-sur-killing-a-civilian-and-wound.html)  [JSON](/news/2011/07/30/suspected-communist-party-of-the-philippines-new-people-s-army-forces-attack-a-police-station-in-agusan-del-sur-killing-a-civilian-and-wound.json)  [XML](/news/2011/07/30/suspected-communist-party-of-the-philippines-new-people-s-army-forces-attack-a-police-station-in-agusan-del-sur-killing-a-civilian-and-wound.xml)  
+
 ### [2011-07-30](/news/2011/07/30/index.md)
 
+##### Communist
 # Suspected Communist Party of the Philippines New People's Army forces attack a police station in Agusan del Sur killing a civilian and wounding two police officers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-07/30/c_131019428.htm)
 

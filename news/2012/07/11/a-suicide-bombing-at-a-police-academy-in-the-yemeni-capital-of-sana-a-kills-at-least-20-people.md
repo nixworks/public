@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/11/a-suicide-bombing-at-a-police-academy-in-the-yemeni-capital-of-sana-a-kills-at-least-20-people.html)  [JSON](/news/2012/07/11/a-suicide-bombing-at-a-police-academy-in-the-yemeni-capital-of-sana-a-kills-at-least-20-people.json)  [XML](/news/2012/07/11/a-suicide-bombing-at-a-police-academy-in-the-yemeni-capital-of-sana-a-kills-at-least-20-people.xml)  
+
 ### [2012-07-11](/news/2012/07/11/index.md)
 
+##### suicide bombing
 # A suicide bombing at a police academy in the Yemeni capital of Sana'a kills at least 20 people. 
 
 At least eight people have been killed in a suicide bomb attack at the police academy in the Yemeni capital Sanaa, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-18796212)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/61505000/jpg/_61505850_61505849.jpg)

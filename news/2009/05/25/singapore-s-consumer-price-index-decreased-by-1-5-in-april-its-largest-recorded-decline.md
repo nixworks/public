@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/05/25/singapore-s-consumer-price-index-decreased-by-1-5-in-april-its-largest-recorded-decline.html)  [JSON](/news/2009/05/25/singapore-s-consumer-price-index-decreased-by-1-5-in-april-its-largest-recorded-decline.json)  [XML](/news/2009/05/25/singapore-s-consumer-price-index-decreased-by-1-5-in-april-its-largest-recorded-decline.xml)  
+
 ### [2009-05-25](/news/2009/05/25/index.md)
 
+##### Singapore
 #  Singapore's consumer price index decreased by 1.5% in April, its largest recorded decline. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.forbes.com/feeds/afx/2009/05/25/afx6461368.html)
+1. [Reuters](https://www.forbes.com/feeds/afx/2009/05/25/afx6461368.html)
 
 ### Related:
 

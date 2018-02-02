@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.html)  [JSON](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.json)  [XML](/news/2009/11/7/saudi-forces-bomb-a-houthi-rebel-stronghold-in-northern-yemen-for-a-third-day.xml)  
+
 ### [2009-11-7](/news/2009/11/7/index.md)
 
+##### Saudi Arabia
 #  Saudi forces bomb a Houthi rebel stronghold in northern Yemen for a third day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hP17v5PW2ne3Mz8Qvptrz1yvWVsAD9BQU0CO0)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=110684&sectionid=351020206)

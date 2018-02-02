@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/4/in-nepal-pushpa-kamal-dahal-takes-the-oath-of-of
 
 ### [2016-08-4](/news/2016/08/4/index.md)
 
+##### Nepal
 # In Nepal, Pushpa Kamal Dahal takes the oath of office and secrecy as Prime Minister. 
 
 

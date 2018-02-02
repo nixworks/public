@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/04/2/an-outbreak-of-tornadoes-the-april-2-2006-tornado-outbreak-hits-northeastern-arkansas-the-missouri-bootheel-and-west-tennessee-killing.html)  [JSON](/news/2006/04/2/an-outbreak-of-tornadoes-the-april-2-2006-tornado-outbreak-hits-northeastern-arkansas-the-missouri-bootheel-and-west-tennessee-killing.json)  [XML](/news/2006/04/2/an-outbreak-of-tornadoes-the-april-2-2006-tornado-outbreak-hits-northeastern-arkansas-the-missouri-bootheel-and-west-tennessee-killing.xml)  
+
 ### [2006-04-2](/news/2006/04/2/index.md)
 
+##### April 2, 2006 Tornado Outbreak
 #  An outbreak of tornadoes, the April 2, 2006 Tornado Outbreak, hits northeastern Arkansas, the Missouri Bootheel, and West Tennessee killing 27.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/13/britain-s-parliamentary-commissioner-for-standards-launches-an-investigation-into-expenses-claimed-by-british-culture-secretary-maria-miller.html)  [JSON](/news/2012/12/13/britain-s-parliamentary-commissioner-for-standards-launches-an-investigation-into-expenses-claimed-by-british-culture-secretary-maria-miller.json)  [XML](/news/2012/12/13/britain-s-parliamentary-commissioner-for-standards-launches-an-investigation-into-expenses-claimed-by-british-culture-secretary-maria-miller.xml)  
+
 ### [2012-12-13](/news/2012/12/13/index.md)
 
+##### Parliamentary Commissioner for Standards
 # Britain's Parliamentary Commissioner for Standards launches an investigation into expenses claimed by British Culture Secretary Maria Miller. 
 
 David Cameron says Culture Secretary Maria Miller has &quot;excellent answers&quot; to questions about her expenses, as she faces a Parliamentary inquiry.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-20711702)
 2. [The Guardian](http://www.guardian.co.uk/politics/2012/dec/13/maria-miller-parliamentary-investigation-expenses)

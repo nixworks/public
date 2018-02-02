@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/19/venezuelan-security-forces-clash-with-oppositio
 
 ### [2017-04-19](/news/2017/04/19/index.md)
 
+##### 2014-17 Venezuelan protests
 # Venezuelan security forces clash with opposition demonstrators in the so-called "Mother of All Marches" against President Nicolas Maduro in Caracas. Two students and a National Guard sergeant are shot dead. 
 
  Two Venezuelan students and a National Guard sergeant died on Wednesday after being shot during protests against unpopular leftist President Nicolas Maduro, in

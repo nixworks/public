@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/22/hamid-baqai-the-chief-of-staff-of-the-iranian-president-is-banned-from-public-office-for-four-years-after-it-was-exposed-that-he-was-invo.html)  [JSON](/news/2011/05/22/hamid-baqai-the-chief-of-staff-of-the-iranian-president-is-banned-from-public-office-for-four-years-after-it-was-exposed-that-he-was-invo.json)  [XML](/news/2011/05/22/hamid-baqai-the-chief-of-staff-of-the-iranian-president-is-banned-from-public-office-for-four-years-after-it-was-exposed-that-he-was-invo.xml)  
+
 ### [2011-05-22](/news/2011/05/22/index.md)
 
+##### Hamid Baqai
 # Hamid Baqai, the Chief of Staff of the Iranian President, is banned from public office for four years, after it was exposed that he was involved in a multi-million dollar embezzlement during the construction of a building on Kish Island in 2010. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NCR](http://www.ncr-iran.org/en/news/iran-resistance/10614-multi-million-dollar-embezzlement-exposed-during-regime-infighting)
 

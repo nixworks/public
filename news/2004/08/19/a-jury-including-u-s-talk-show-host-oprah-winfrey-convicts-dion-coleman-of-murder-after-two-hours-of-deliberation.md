@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/19/a-jury-including-u-s-talk-show-host-oprah-winfrey-convicts-dion-coleman-of-murder-after-two-hours-of-deliberation.html)  [JSON](/news/2004/08/19/a-jury-including-u-s-talk-show-host-oprah-winfrey-convicts-dion-coleman-of-murder-after-two-hours-of-deliberation.json)  [XML](/news/2004/08/19/a-jury-including-u-s-talk-show-host-oprah-winfrey-convicts-dion-coleman-of-murder-after-two-hours-of-deliberation.xml)  
+
 ### [2004-08-19](/news/2004/08/19/index.md)
 
+##### jury
 #  A jury including U.S. talk show host Oprah Winfrey convicts Dion Coleman of murder after two hours of deliberation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://newsvote.bbc.co.uk/1/hi/entertainment/tv_and_radio/3578906.stm)
 

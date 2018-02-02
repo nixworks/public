@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/rick-gekoski-the-chairman-of-the-man-booker-international-prize-judging-panel-admits-they-were-animated-by-disagreement-over-the-controv.html)  [JSON](/news/2011/06/29/rick-gekoski-the-chairman-of-the-man-booker-international-prize-judging-panel-admits-they-were-animated-by-disagreement-over-the-controv.json)  [XML](/news/2011/06/29/rick-gekoski-the-chairman-of-the-man-booker-international-prize-judging-panel-admits-they-were-animated-by-disagreement-over-the-controv.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### Rick Gekoski
 # Rick Gekoski, the chairman of the Man Booker International Prize judging panel, admits they were "animated by disagreement" over the controversial decision to give the 2011 award to Philip Roth amid fears that it would offend women after one of the female judges resigned in disgust. 
 
 The Booker International Prize judging panel was &quot;animated by disagreement&quot; over the decision to recognise author Philip Roth, its chairman reveals.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13956612)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53752000/jpg/_53752180_roth1_464reuters.jpg)

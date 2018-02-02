@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/7/ecuador-rations-its-electricity-leading-to-some-blackouts-in-areas-including-the-capital-quito.html)  [JSON](/news/2009/11/7/ecuador-rations-its-electricity-leading-to-some-blackouts-in-areas-including-the-capital-quito.json)  [XML](/news/2009/11/7/ecuador-rations-its-electricity-leading-to-some-blackouts-in-areas-including-the-capital-quito.xml)  
+
 ### [2009-11-7](/news/2009/11/7/index.md)
 
+##### Ecuador
 #  Ecuador rations its electricity, leading to some blackouts in areas, including the capital Quito. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8347954.stm)
 

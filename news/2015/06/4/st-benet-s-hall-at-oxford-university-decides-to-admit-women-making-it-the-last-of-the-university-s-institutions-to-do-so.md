@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/4/st-benet-s-hall-at-oxford-university-decides-to-admit-women-making-it-the-last-of-the-university-s-institutions-to-do-so.html)  [JSON](/news/2015/06/4/st-benet-s-hall-at-oxford-university-decides-to-admit-women-making-it-the-last-of-the-university-s-institutions-to-do-so.json)  [XML](/news/2015/06/4/st-benet-s-hall-at-oxford-university-decides-to-admit-women-making-it-the-last-of-the-university-s-institutions-to-do-so.xml)  
+
 ### [2015-06-4](/news/2015/06/4/index.md)
 
+##### St Benet's Hall
 # St Benet's Hall at Oxford University decides to admit women, making it the last of the University's institutions to do so. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Trust](http://www.trust.org/item/20150604160530-fm2n9/)
 1. [Cover Image](http://d2sh4fq2xsdeg9.cloudfront.net/contentAsset/image/ab7c1b06-d8c0-4fd2-9eb2-1eb4ade5cacd/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100)

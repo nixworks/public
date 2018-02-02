@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/3/the-russian-supreme-court-overturns-a-lower-court-ruling-in-the-murder-of-journalist-anna-politkovskaya-ordering-several-probes-into-her-d.html)  [JSON](/news/2009/09/3/the-russian-supreme-court-overturns-a-lower-court-ruling-in-the-murder-of-journalist-anna-politkovskaya-ordering-several-probes-into-her-d.json)  [XML](/news/2009/09/3/the-russian-supreme-court-overturns-a-lower-court-ruling-in-the-murder-of-journalist-anna-politkovskaya-ordering-several-probes-into-her-d.xml)  
+
 ### [2009-09-3](/news/2009/09/3/index.md)
 
+##### Russia
 #  The Russian Supreme Court overturns a lower court ruling in the murder of journalist Anna Politkovskaya, ordering several probes into her death to be merged into one. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/europe/09/03/russia.journalist.probe/)
 2. [RIA Novosti](http://en.rian.ru/russia/20090903/156008948.html)

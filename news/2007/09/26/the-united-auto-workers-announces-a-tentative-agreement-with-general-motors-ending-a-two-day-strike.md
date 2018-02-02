@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/26/the-united-auto-workers-announces-a-tentative-agreement-with-general-motors-ending-a-two-day-strike.html)  [JSON](/news/2007/09/26/the-united-auto-workers-announces-a-tentative-agreement-with-general-motors-ending-a-two-day-strike.json)  [XML](/news/2007/09/26/the-united-auto-workers-announces-a-tentative-agreement-with-general-motors-ending-a-two-day-strike.xml)  
+
 ### [2007-09-26](/news/2007/09/26/index.md)
 
+##### United Auto Workers
 #  The United Auto Workers announces a tentative agreement with General Motors ending a two-day strike. 
 
 The United Auto Workers and General Motors Corp. said Wednesday they have reached a tentative contract agreement that ends a two-day nationwide strike immediately.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,298071,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

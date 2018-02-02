@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/22/jat-protesters-reach-an-agreement-with-the-indi
 
 ### [2016-02-22](/news/2016/02/22/index.md)
 
+##### Jat reservation agitation
 # Jat protesters reach an agreement with the Indian government on increased reservations similar to those authorized for economically disadvantaged lower castes. Authorities say at least 19 people have been killed in the three-day demonstrations. Protest leaders call for reopening blockaded roads in the northern state of Haryana. Water restrictions, implemented after protesters damaged the water station's New Dehli feed, remain in effect while engineers repair the equipment. 
 
 Haryana Jat protest: The agitating members of the Jat community have been demanding their inclusion in the OBC category and thereby reservation in government jobs

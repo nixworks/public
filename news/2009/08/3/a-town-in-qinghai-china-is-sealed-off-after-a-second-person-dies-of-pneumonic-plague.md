@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/3/a-town-in-qinghai-china-is-sealed-off-after-a-second-person-dies-of-pneumonic-plague.html)  [JSON](/news/2009/08/3/a-town-in-qinghai-china-is-sealed-off-after-a-second-person-dies-of-pneumonic-plague.json)  [XML](/news/2009/08/3/a-town-in-qinghai-china-is-sealed-off-after-a-second-person-dies-of-pneumonic-plague.xml)  
+
 ### [2009-08-3](/news/2009/08/3/index.md)
 
+##### Qinghai
 #  A town in Qinghai, China, is sealed off after a second person dies of pneumonic plague. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/2009837311848754.html)
 2. [The Times](http://www.timesonline.co.uk/tol/life_and_style/health/article6736993.ece)

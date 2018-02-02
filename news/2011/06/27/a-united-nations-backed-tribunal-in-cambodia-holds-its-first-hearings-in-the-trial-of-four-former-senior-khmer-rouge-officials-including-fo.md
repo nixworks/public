@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/27/a-united-nations-backed-tribunal-in-cambodia-holds-its-first-hearings-in-the-trial-of-four-former-senior-khmer-rouge-officials-including-fo.html)  [JSON](/news/2011/06/27/a-united-nations-backed-tribunal-in-cambodia-holds-its-first-hearings-in-the-trial-of-four-former-senior-khmer-rouge-officials-including-fo.json)  [XML](/news/2011/06/27/a-united-nations-backed-tribunal-in-cambodia-holds-its-first-hearings-in-the-trial-of-four-former-senior-khmer-rouge-officials-including-fo.xml)  
+
 ### [2011-06-27](/news/2011/06/27/index.md)
 
+##### United Nations
 # A United Nations-backed tribunal in Cambodia holds its first hearings in the trial of four former senior Khmer Rouge officials, including former head of state Khieu Samphan and Pol Pot's deputy Nuon Chea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20110627-khmer-rouge-genocide-trial-opens-cambodia-0#)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13922564)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/11/the-discovery-of-the-triassic-theropod-dinosaur-genus-tawa-is-announced.html)  [JSON](/news/2009/12/11/the-discovery-of-the-triassic-theropod-dinosaur-genus-tawa-is-announced.json)  [XML](/news/2009/12/11/the-discovery-of-the-triassic-theropod-dinosaur-genus-tawa-is-announced.xml)  
+
 ### [2009-12-11](/news/2009/12/11/index.md)
 
+##### Triassic
 #  The discovery of the Triassic theropod dinosaur genus "Tawa" is announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5hzCOuhG8aYUOBx-fQ1wqGfRCg0ZwD9CGLTO80)
 2. [Scientific American](http://www.scientificamerican.com/article.cfm?id=t-rex-relative-tawa)

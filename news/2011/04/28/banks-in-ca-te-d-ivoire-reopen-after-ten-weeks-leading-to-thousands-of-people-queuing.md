@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/28/banks-in-ca-te-d-ivoire-reopen-after-ten-weeks-leading-to-thousands-of-people-queuing.html)  [JSON](/news/2011/04/28/banks-in-ca-te-d-ivoire-reopen-after-ten-weeks-leading-to-thousands-of-people-queuing.json)  [XML](/news/2011/04/28/banks-in-ca-te-d-ivoire-reopen-after-ten-weeks-leading-to-thousands-of-people-queuing.xml)  
+
 ### [2011-04-28](/news/2011/04/28/index.md)
 
+##### Cote d'Ivoire
 # Banks in Cote d'Ivoire reopen after ten weeks, leading to thousands of people queuing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-13229502)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52393000/jpg/_52393023_011848268-1.jpg)

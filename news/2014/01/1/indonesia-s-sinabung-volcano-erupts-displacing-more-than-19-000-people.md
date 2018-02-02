@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/1/indonesia-s-sinabung-volcano-erupts-displacing-more-than-19-000-people.html)  [JSON](/news/2014/01/1/indonesia-s-sinabung-volcano-erupts-displacing-more-than-19-000-people.json)  [XML](/news/2014/01/1/indonesia-s-sinabung-volcano-erupts-displacing-more-than-19-000-people.xml)  
+
 ### [2014-01-1](/news/2014/01/1/index.md)
 
+##### Indonesia
 # Indonesia's Sinabung volcano erupts, displacing more than 19,000 people. 
 
 An erupting volcano displaces almost 20,000 people in Indonesia as it shoots lava into the air.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/2013-12-31/192c000-flee-erupting-volcano-in-indonesia/5180216)
 1. [Cover Image](http://www.abc.net.au/news/image/5180222-1x1-700x700.jpg)

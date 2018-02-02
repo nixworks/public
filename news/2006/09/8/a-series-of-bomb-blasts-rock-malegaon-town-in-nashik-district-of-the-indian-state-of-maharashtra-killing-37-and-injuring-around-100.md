@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/09/8/a-series-of-bomb-blasts-rock-malegaon-town-in-nashik-district-of-the-indian-state-of-maharashtra-killing-37-and-injuring-around-100.html)  [JSON](/news/2006/09/8/a-series-of-bomb-blasts-rock-malegaon-town-in-nashik-district-of-the-indian-state-of-maharashtra-killing-37-and-injuring-around-100.json)  [XML](/news/2006/09/8/a-series-of-bomb-blasts-rock-malegaon-town-in-nashik-district-of-the-indian-state-of-maharashtra-killing-37-and-injuring-around-100.xml)  
+
 ### [2006-09-8](/news/2006/09/8/index.md)
 
+##### bomb blasts
 #  A series of bomb blasts rock Malegaon town in Nashik district of the Indian state of Maharashtra, killing 37 and injuring around 100. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=adUpFuyzNhWg&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=adUpFuyzNhWg&refer=home)
 
 ### Related:
 

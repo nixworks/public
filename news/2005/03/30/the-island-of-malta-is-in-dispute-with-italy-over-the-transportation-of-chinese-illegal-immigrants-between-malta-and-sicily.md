@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/30/the-island-of-malta-is-in-dispute-with-italy-over-the-transportation-of-chinese-illegal-immigrants-between-malta-and-sicily.html)  [JSON](/news/2005/03/30/the-island-of-malta-is-in-dispute-with-italy-over-the-transportation-of-chinese-illegal-immigrants-between-malta-and-sicily.json)  [XML](/news/2005/03/30/the-island-of-malta-is-in-dispute-with-italy-over-the-transportation-of-chinese-illegal-immigrants-between-malta-and-sicily.xml)  
+
 ### [2005-03-30](/news/2005/03/30/index.md)
 
+##### Italy
 #  The island of Malta is in dispute with Italy over the transportation of Chinese illegal immigrants between Malta and Sicily. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [di-ve](http://www.di-ve.com/dive/portal/portal.jhtml?id=177882)
 

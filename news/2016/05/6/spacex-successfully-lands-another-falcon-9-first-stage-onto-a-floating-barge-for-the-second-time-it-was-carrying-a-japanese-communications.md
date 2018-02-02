@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/6/spacex-successfully-lands-another-falcon-9-first
 
 ### [2016-05-6](/news/2016/05/6/index.md)
 
+##### SpaceX
 # SpaceX successfully lands another Falcon 9 First stage onto a floating barge for the second time. It was carrying a Japanese communications satellite JCSAT-14, which was successfully put into geostationary orbit. 
 
 

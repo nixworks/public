@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/22/in-mozambique-the-national-election-commission-declares-armando-guebuza-presidential-candidate-of-ruling-party-frelimo-the-winner-of-the.html)  [JSON](/news/2004/12/22/in-mozambique-the-national-election-commission-declares-armando-guebuza-presidential-candidate-of-ruling-party-frelimo-the-winner-of-the.json)  [XML](/news/2004/12/22/in-mozambique-the-national-election-commission-declares-armando-guebuza-presidential-candidate-of-ruling-party-frelimo-the-winner-of-the.xml)  
+
 ### [2004-12-22](/news/2004/12/22/index.md)
 
+##### Mozambique
 #  In Mozambique, the national election commission declares Armando Guebuza, presidential candidate of ruling party Frelimo, the winner of the election. He received 64% of the vote despite alleged irregularities. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Afrol](http://www.afrol.com/articles/15086)
 2. [AllAfrica](http://allafrica.com/stories/200412210552.html)

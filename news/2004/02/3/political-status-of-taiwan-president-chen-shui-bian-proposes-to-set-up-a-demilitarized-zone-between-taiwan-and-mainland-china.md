@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/3/political-status-of-taiwan-president-chen-shui-bian-proposes-to-set-up-a-demilitarized-zone-between-taiwan-and-mainland-china.html)  [JSON](/news/2004/02/3/political-status-of-taiwan-president-chen-shui-bian-proposes-to-set-up-a-demilitarized-zone-between-taiwan-and-mainland-china.json)  [XML](/news/2004/02/3/political-status-of-taiwan-president-chen-shui-bian-proposes-to-set-up-a-demilitarized-zone-between-taiwan-and-mainland-china.xml)  
+
 ### [2004-02-3](/news/2004/02/3/index.md)
 
+##### relations
 #  Political status of Taiwan: President Chen Shui-bian proposes to set up a demilitarized zone between Taiwan and mainland China.
 
 

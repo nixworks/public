@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/22/indian-authorities-completely-seal-off-the-village-of-navapur-after-bird-flu-is-discovered-there.html)  [JSON](/news/2006/02/22/indian-authorities-completely-seal-off-the-village-of-navapur-after-bird-flu-is-discovered-there.json)  [XML](/news/2006/02/22/indian-authorities-completely-seal-off-the-village-of-navapur-after-bird-flu-is-discovered-there.xml)  
+
 ### [2006-02-22](/news/2006/02/22/index.md)
 
+##### Navapur
 #  Indian authorities completely seal off the village of Navapur after bird flu is discovered there. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4739800.stm)
 

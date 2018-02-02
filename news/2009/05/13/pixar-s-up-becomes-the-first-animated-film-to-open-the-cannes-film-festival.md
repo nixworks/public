@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/13/pixar-s-up-becomes-the-first-animated-film-to-open-the-cannes-film-festival.html)  [JSON](/news/2009/05/13/pixar-s-up-becomes-the-first-animated-film-to-open-the-cannes-film-festival.json)  [XML](/news/2009/05/13/pixar-s-up-becomes-the-first-animated-film-to-open-the-cannes-film-festival.xml)  
+
 ### [2009-05-13](/news/2009/05/13/index.md)
 
+##### Pixar
 #  Pixar's "Up" becomes the first animated film to open the Cannes Film Festival. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8047357.stm)
 

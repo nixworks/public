@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/16/josa-c-manuel-barroso-is-re-elected-as-president-of-the-european-commission-by-members-of-the-european-parliament.html)  [JSON](/news/2009/09/16/josa-c-manuel-barroso-is-re-elected-as-president-of-the-european-commission-by-members-of-the-european-parliament.json)  [XML](/news/2009/09/16/josa-c-manuel-barroso-is-re-elected-as-president-of-the-european-commission-by-members-of-the-european-parliament.xml)  
+
 ### [2009-09-16](/news/2009/09/16/index.md)
 
+##### Jose Manuel Barroso
 #  Jose Manuel Barroso is re-elected as President of the European Commission, by Members of the European Parliament. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2009/8/38/Euro-MPs-give-Barroso-new-mandate,59db8322-56da-4173-88ce-4107ef2c461b.html)
 2. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8258387.stm)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/5/islamic-state-militants-continue-to-besiege-the-
 
 ### [2016-01-5](/news/2016/01/5/index.md)
 
+##### Libyan Civil War (2014-present)
 # Islamic State militants continue to besiege the Libyan oil port of Sidra, attacking checkpoints on the road to the port, leaving seven guards dead. The National Oil Corporation (NOC) said an oil storage tank in the port was set on fire by a long-range rocket, and that the oil tank fire started just as firefighters were close to bringing under control another blaze at an oil tank that was hit during fighting in the nearby Ra's Lanuf Refinery on Monday. 
 
 Islamic State militants attacked checkpoints near the Libyan oil port of Es Sider for a second day on Tuesday and an oil storage tank in the port was set on fire by a long-range rocket, a spokesman for the security guards said.

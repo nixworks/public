@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/23/after-its-brakes-fail-a-train-crashes-near-bioae-a-village-nine-miles-northeast-of-podgorica-in-montenegro-killing-at-least-39-and-inju.html)  [JSON](/news/2006/01/23/after-its-brakes-fail-a-train-crashes-near-bioae-a-village-nine-miles-northeast-of-podgorica-in-montenegro-killing-at-least-39-and-inju.json)  [XML](/news/2006/01/23/after-its-brakes-fail-a-train-crashes-near-bioae-a-village-nine-miles-northeast-of-podgorica-in-montenegro-killing-at-least-39-and-inju.xml)  
+
 ### [2006-01-23](/news/2006/01/23/index.md)
 
+##### Bioce
 #  After its brakes fail, a train crashes near Bioce, a village nine miles northeast of Podgorica in Montenegro, killing at least 39 and injuring more than 130 people, in the country's worst train disaster. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/4641278.stm)
 

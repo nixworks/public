@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/6/british-forces-step-up-their-presence-in-the-southern-iraq-city-of-basra-according-to-embedded-journalists-the-citizens-of-basra-braved-g.html)  [JSON](/news/2003/04/6/british-forces-step-up-their-presence-in-the-southern-iraq-city-of-basra-according-to-embedded-journalists-the-citizens-of-basra-braved-g.json)  [XML](/news/2003/04/6/british-forces-step-up-their-presence-in-the-southern-iraq-city-of-basra-according-to-embedded-journalists-the-citizens-of-basra-braved-g.xml)  
+
 ### [2003-04-6](/news/2003/04/6/index.md)
 
+##### Iraq
 #  British forces step up their presence in the southern Iraq city of Basra. According to embedded journalists, the citizens of Basra braved gunfire to dance in the streets and cheer for the British troops. UPI's Chief International Correspondent Martin Walker claimed that he had witnessed at least one Basra citizen kiss a British tank.
 
 

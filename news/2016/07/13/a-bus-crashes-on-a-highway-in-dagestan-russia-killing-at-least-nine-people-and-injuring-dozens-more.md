@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/13/a-bus-crashes-on-a-highway-in-dagestan-russia-k
 
 ### [2016-07-13](/news/2016/07/13/index.md)
 
+##### Dagestan
 # A bus crashes on a highway in Dagestan, Russia, killing at least nine people and injuring dozens more. 
 
 

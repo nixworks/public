@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/24/the-tamil-tigers-launch-an-air-attack-on-the-sri-lankan-military-s-main-base-in-jaffna.html)  [JSON](/news/2007/04/24/the-tamil-tigers-launch-an-air-attack-on-the-sri-lankan-military-s-main-base-in-jaffna.json)  [XML](/news/2007/04/24/the-tamil-tigers-launch-an-air-attack-on-the-sri-lankan-military-s-main-base-in-jaffna.xml)  
+
 ### [2007-04-24](/news/2007/04/24/index.md)
 
+##### Tamil Tigers
 #  The Tamil Tigers launch an air attack on the Sri Lankan military's main base in Jaffna. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6586283.stm)
 

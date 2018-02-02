@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/25/polling-has-been-reportedly-brisk-in-today-s-bahraini-parliamentary-elections-the-first-results-are-expected-later-today.html)  [JSON](/news/2006/11/25/polling-has-been-reportedly-brisk-in-today-s-bahraini-parliamentary-elections-the-first-results-are-expected-later-today.json)  [XML](/news/2006/11/25/polling-has-been-reportedly-brisk-in-today-s-bahraini-parliamentary-elections-the-first-results-are-expected-later-today.xml)  
+
 ### [2006-11-25](/news/2006/11/25/index.md)
 
+##### Bahrain
 #  Polling has been reportedly brisk in today's Bahraini parliamentary elections. The first results are expected later today. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/meast/11/25/bahrain.elections.reut/index.html?section=cnn_latest)
 

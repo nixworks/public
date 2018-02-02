@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/12/in-canada-20-year-old-mohammad-hassan-chaudhary
 
 ### [2016-08-12](/news/2016/08/12/index.md)
 
+##### 
 #  In Canada, 20 year old Mohammad Hassan Chaudhary with mental health issues and no formal flight training issues stole a small Piper airplane. He crashed near a mall about halfway between his takeoff near Toronto and the capital in Ottawa. National security investigators ruled out terrorist or suicidal motives. 
 
 Global News has learned the RCMP is now leading the investigation into a stolen plane that mysteriously crashed in Peterborough, Ont. last week and multiple sources confirmed it was being treated as a potential &quot;national security issue.&quot;

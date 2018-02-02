@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/8/in-a-bbc-interview-dr-hans-blix-accuses-the-u-s-and-british-governments-of-dramatising-the-threat-of-weapons-of-mass-destruction-in-iraq.html)  [JSON](/news/2004/02/8/in-a-bbc-interview-dr-hans-blix-accuses-the-u-s-and-british-governments-of-dramatising-the-threat-of-weapons-of-mass-destruction-in-iraq.json)  [XML](/news/2004/02/8/in-a-bbc-interview-dr-hans-blix-accuses-the-u-s-and-british-governments-of-dramatising-the-threat-of-weapons-of-mass-destruction-in-iraq.xml)  
+
 ### [2004-02-8](/news/2004/02/8/index.md)
 
+##### BBC One
 #  In a BBC interview, Dr. Hans Blix accuses the U.S. and British governments of dramatising the threat of weapons of mass destruction in Iraq in order to strengthen the case for the 2003 invasion.
 
 

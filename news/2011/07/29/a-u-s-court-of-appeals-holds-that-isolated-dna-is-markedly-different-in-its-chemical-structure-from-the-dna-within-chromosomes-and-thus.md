@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/07/29/a-u-s-court-of-appeals-holds-that-isolated-dna-is-markedly-different-in-its-chemical-structure-from-the-dna-within-chromosomes-and-thus.html)  [JSON](/news/2011/07/29/a-u-s-court-of-appeals-holds-that-isolated-dna-is-markedly-different-in-its-chemical-structure-from-the-dna-within-chromosomes-and-thus.json)  [XML](/news/2011/07/29/a-u-s-court-of-appeals-holds-that-isolated-dna-is-markedly-different-in-its-chemical-structure-from-the-dna-within-chromosomes-and-thus.xml)  
+
 ### [2011-07-29](/news/2011/07/29/index.md)
 
+##### Court of Appeals
 # A U.S. Court of Appeals holds that isolated DNA is "markedly different" in its chemical structure from the DNA within chromosomes, and thus is not simply a product of nature but of human ingenuity. According, the court upholds two patents held by Myriad Genetics against challenge. 
 
 A federal appeals court ruled on Friday that genes can be patented, overturning a lower court decision that had shocked the biotechnology industry.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2011/07/30/business/gene-patent-in-cancer-test-upheld-by-appeals-panel.html)
+1. [New York Times](https://www.nytimes.com/2011/07/30/business/gene-patent-in-cancer-test-upheld-by-appeals-panel.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

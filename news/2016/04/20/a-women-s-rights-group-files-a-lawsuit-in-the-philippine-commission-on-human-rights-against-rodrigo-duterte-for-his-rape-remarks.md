@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/a-women-s-rights-group-files-a-lawsuit-in-the-p
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### Commission on Human Rights
 # A women's rights group files a lawsuit in the Philippine Commission on Human Rights against Rodrigo Duterte for his rape remarks. 
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/24/earth-is-hit-by-the-halloween-solar-storm-disrupting-some-satellite-communications-but-not-electric-power-transmission-grids-as-was-predic.html)  [JSON](/news/2003/10/24/earth-is-hit-by-the-halloween-solar-storm-disrupting-some-satellite-communications-but-not-electric-power-transmission-grids-as-was-predic.json)  [XML](/news/2003/10/24/earth-is-hit-by-the-halloween-solar-storm-disrupting-some-satellite-communications-but-not-electric-power-transmission-grids-as-was-predic.xml)  
+
 ### [2003-10-24](/news/2003/10/24/index.md)
 
+##### Halloween Solar Storm
 #  Earth is hit by the Halloween Solar Storm, disrupting some satellite communications but not electric power transmission grids as was predicted. Canada, the northern US northern Europe were treated to an exceptional display of aurora borealis.
 
 

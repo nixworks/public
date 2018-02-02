@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/4/lawyers-for-french-novelist-tristane-banon-say-that-she-will-file-a-criminal-complaint-accusing-former-international-monetary-fund-head-domi.html)  [JSON](/news/2011/07/4/lawyers-for-french-novelist-tristane-banon-say-that-she-will-file-a-criminal-complaint-accusing-former-international-monetary-fund-head-domi.json)  [XML](/news/2011/07/4/lawyers-for-french-novelist-tristane-banon-say-that-she-will-file-a-criminal-complaint-accusing-former-international-monetary-fund-head-domi.xml)  
+
 ### [2011-07-4](/news/2011/07/4/index.md)
 
+##### French-born
 # Lawyers for French novelist Tristane Banon say that she will file a criminal complaint accusing former International Monetary Fund head Dominique Strauss-Kahn of attempted rape. 
 
 Dominique Strauss-Kahn faced a new sexual assault investigation on Tuesday when a young French writer filed a complaint alleging that he tried to rape her during a 2002 book interview.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/43631294)
 1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Video/__NEW/tdy_rossen_dsk_110704.standard.jpg)

@@ -1,15 +1,20 @@
+
+Formats: [HTML](/news/2010/08/6/smoke-from-russian-wildfires-covers-famous-landmarks-and-delays-more-than-140-flights-at-moscow-airports-while-official-figures-indicate-tha.html)  [JSON](/news/2010/08/6/smoke-from-russian-wildfires-covers-famous-landmarks-and-delays-more-than-140-flights-at-moscow-airports-while-official-figures-indicate-tha.json)  [XML](/news/2010/08/6/smoke-from-russian-wildfires-covers-famous-landmarks-and-delays-more-than-140-flights-at-moscow-airports-while-official-figures-indicate-tha.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### the recent wildfires
 # Smoke from Russian wildfires covers famous landmarks and delays more than 140 flights at Moscow airports while official figures indicate that 14,340 people died in Moscow during July 2010; 4,824 more than the same month last year. 
 
+Acrid smoke from forest and peat-bog fires east of Moscow shrouded the city in smoke, causing flight delays and raising pollution to “very dangerous” levels.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2010-08-06/wildfire-smoke-in-moscow-delays-120-flights-as-russia-s-heartland-blazes.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2010-08-06/wildfire-smoke-in-moscow-delays-120-flights-as-russia-s-heartland-blazes.html)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Russias-Heatwave-Continues-With-Mortality-Rate-Rising-By-More-Than-A-Third-In-July/Article/201008115678202?f=rss)
 3. [The Guardian](http://www.guardian.co.uk/world/2010/aug/06/russia-fires-moscow)
+3. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/24/a-dead-body-is-found-in-the-area-of-the-sand-fi
 
 ### [2016-07-24](/news/2016/07/24/index.md)
 
+##### 2016 California wildfires
 # A dead body is found in the area of the Sand Fire near Santa Clarita that has doubled in size to more than 22,000 acres. Officials order mandatory evacuations for 1,500 homes in Little Tujunga, Sand, and Placerita canyons. The South Coast Air Quality Management District issues an alert for unhealthy air quality in affected areas. 
 
 The so-called Sand Fire north of Los Angeles was at 11,000 acres at noon Saturday and grew to 22,000 acres by Sunday morning.

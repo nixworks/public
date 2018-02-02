@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/12/at-least-52-people-including-women-and-children
 
 ### [2016-11-12](/news/2016/11/12/index.md)
 
+##### Sectarianism in Pakistan
 # At least 52 people, including women and children, have been killed and more than 100 injured by a bomb explosion in the crowded Shah Noorani Shrine in Hub town, Lasbela District, Balochistan, Pakistan. ISIL has claimed responsibility. 
 
 QUETTTA:&nbsp; At least 52 people died and more than 100 others were injured Saturday in a bomb blast at a remote Sufi shrine in Balochistan, officials said, with the Islamic State group (Daesh)...

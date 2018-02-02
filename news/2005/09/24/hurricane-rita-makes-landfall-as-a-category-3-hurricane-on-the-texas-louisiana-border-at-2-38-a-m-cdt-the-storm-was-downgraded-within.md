@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/09/24/hurricane-rita-makes-landfall-as-a-category-3-hurricane-on-the-texas-louisiana-border-at-2-38-a-m-cdt-the-storm-was-downgraded-within.html)  [JSON](/news/2005/09/24/hurricane-rita-makes-landfall-as-a-category-3-hurricane-on-the-texas-louisiana-border-at-2-38-a-m-cdt-the-storm-was-downgraded-within.json)  [XML](/news/2005/09/24/hurricane-rita-makes-landfall-as-a-category-3-hurricane-on-the-texas-louisiana-border-at-2-38-a-m-cdt-the-storm-was-downgraded-within.xml)  
+
 ### [2005-09-24](/news/2005/09/24/index.md)
 
+##### Rita
 #  Hurricane Rita makes landfall as a Category 3 hurricane on the Texas - Louisiana border at 2:38 a.m. CDT . The storm was downgraded within four hours to Category 2. As of 10 p.m. CDT (0300 UTC, September 25), the center of Tropical Depression Rita was located on land 40 miles (65 km) north of Shreveport, Louisiana. Rita was moving north at 10 mph (16 km-h) with maximum sustained winds of 35 mph (55 km-h) ([http:--www.cnn.com-2005-WEATHER-09-24-rita- CNN])
 
 

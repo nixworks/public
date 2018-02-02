@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/6/ted-koppel-will-anchor-his-last-broadcast-of-nightline-on-22-november-and-not-in-december-2005-as-had-been-previously-announced.html)  [JSON](/news/2005/10/6/ted-koppel-will-anchor-his-last-broadcast-of-nightline-on-22-november-and-not-in-december-2005-as-had-been-previously-announced.json)  [XML](/news/2005/10/6/ted-koppel-will-anchor-his-last-broadcast-of-nightline-on-22-november-and-not-in-december-2005-as-had-been-previously-announced.xml)  
+
 ### [2005-10-6](/news/2005/10/6/index.md)
 
+##### Ted Koppel
 #  Ted Koppel will anchor his last broadcast of "Nightline" on 22 November and not in December 2005 as had been previously announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://olympics.reuters.com/news/newsArticle.aspx?type=entertainmentNews&storyID=2005-10-07T011032Z_01_YUE704163_RTRUKOC_0_US-MEDIA-KOPPEL.xml)
 

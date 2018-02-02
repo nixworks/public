@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/paraguayan-footballer-salvador-cabaa-as-shot-by-a-gun-in-the-head-says-his-memories-are-vague.html)  [JSON](/news/2010/08/3/paraguayan-footballer-salvador-cabaa-as-shot-by-a-gun-in-the-head-says-his-memories-are-vague.json)  [XML](/news/2010/08/3/paraguayan-footballer-salvador-cabaa-as-shot-by-a-gun-in-the-head-says-his-memories-are-vague.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Paraguay
 # Paraguayan footballer Salvador Cabanas, shot by a gun in the head, says his memories are vague. 
 
 Paraguayan footballer Salvador Cabanas who survived a gunshot to the head tells investigators he remembers little of the shooting.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-latin-america-10848947)
 2. [Times LIVE](http://www.timeslive.co.za/sport/soccer/article583094.ece/Cabanas-has-almost-no-memory-of-being-shot)

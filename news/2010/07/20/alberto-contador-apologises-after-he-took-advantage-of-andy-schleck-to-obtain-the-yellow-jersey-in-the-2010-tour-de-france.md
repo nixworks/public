@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/alberto-contador-apologises-after-he-took-advantage-of-andy-schleck-to-obtain-the-yellow-jersey-in-the-2010-tour-de-france.html)  [JSON](/news/2010/07/20/alberto-contador-apologises-after-he-took-advantage-of-andy-schleck-to-obtain-the-yellow-jersey-in-the-2010-tour-de-france.json)  [XML](/news/2010/07/20/alberto-contador-apologises-after-he-took-advantage-of-andy-schleck-to-obtain-the-yellow-jersey-in-the-2010-tour-de-france.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Alberto Contador
 # Alberto Contador apologises after he took advantage of Andy Schleck to obtain the yellow jersey in the 2010 Tour de France. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/sport/2010/jul/20/tour-de-france-contador-schleck)
 

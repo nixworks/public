@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/6/gerhard-schrapder-announces-his-intention-to-resign-from-his-post-as-chairman-of-the-social-democratic-party-but-to-continue-as-chancellor.html)  [JSON](/news/2004/02/6/gerhard-schrapder-announces-his-intention-to-resign-from-his-post-as-chairman-of-the-social-democratic-party-but-to-continue-as-chancellor.json)  [XML](/news/2004/02/6/gerhard-schrapder-announces-his-intention-to-resign-from-his-post-as-chairman-of-the-social-democratic-party-but-to-continue-as-chancellor.xml)  
+
 ### [2004-02-6](/news/2004/02/6/index.md)
 
+##### Gerhard Schroder
 #  Gerhard Schroder announces his intention to resign from his post as chairman of the Social Democratic Party but to continue as Chancellor of Germany.
 
 

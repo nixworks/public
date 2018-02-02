@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/18/saddam-hussein-s-former-foreign-minister-tariq-aziz-and-other-senior-members-are-summoned-and-appear-in-an-iraqi-court-charged-with-squande.html)  [JSON](/news/2010/07/18/saddam-hussein-s-former-foreign-minister-tariq-aziz-and-other-senior-members-are-summoned-and-appear-in-an-iraqi-court-charged-with-squande.json)  [XML](/news/2010/07/18/saddam-hussein-s-former-foreign-minister-tariq-aziz-and-other-senior-members-are-summoned-and-appear-in-an-iraqi-court-charged-with-squande.xml)  
+
 ### [2010-07-18](/news/2010/07/18/index.md)
 
+##### Saddam Hussein
 # Saddam Hussein's former foreign minister Tariq Aziz and other senior members are summoned and appear in an Iraqi court charged with "squandering the public wealth". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/2010718194535925679.html)
 1. [Cover Image](http://www.aljazeera.com)

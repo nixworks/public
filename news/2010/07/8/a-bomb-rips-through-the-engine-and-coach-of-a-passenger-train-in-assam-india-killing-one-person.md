@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/8/a-bomb-rips-through-the-engine-and-coach-of-a-passenger-train-in-assam-india-killing-one-person.html)  [JSON](/news/2010/07/8/a-bomb-rips-through-the-engine-and-coach-of-a-passenger-train-in-assam-india-killing-one-person.json)  [XML](/news/2010/07/8/a-bomb-rips-through-the-engine-and-coach-of-a-passenger-train-in-assam-india-killing-one-person.xml)  
+
 ### [2010-07-8](/news/2010/07/8/index.md)
 
+##### Assam
 # A bomb rips through the engine and coach of a passenger train in Assam, India, killing one person. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/one-dead-in-indian-train-bomb-attack-20100708-101r6.html)
 2. [Times of India](http://timesofindia.indiatimes.com/india/Child-dead-13-hurt-in-as-militants-blast-track-in-Assam/articleshow/6141334.cms)

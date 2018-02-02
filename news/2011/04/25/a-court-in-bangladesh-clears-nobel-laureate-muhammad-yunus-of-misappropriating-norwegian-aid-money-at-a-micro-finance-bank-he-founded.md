@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/25/a-court-in-bangladesh-clears-nobel-laureate-muhammad-yunus-of-misappropriating-norwegian-aid-money-at-a-micro-finance-bank-he-founded.html)  [JSON](/news/2011/04/25/a-court-in-bangladesh-clears-nobel-laureate-muhammad-yunus-of-misappropriating-norwegian-aid-money-at-a-micro-finance-bank-he-founded.json)  [XML](/news/2011/04/25/a-court-in-bangladesh-clears-nobel-laureate-muhammad-yunus-of-misappropriating-norwegian-aid-money-at-a-micro-finance-bank-he-founded.xml)  
+
 ### [2011-04-25](/news/2011/04/25/index.md)
 
+##### Bangladesh
 # A court in Bangladesh clears Nobel laureate Muhammad Yunus of misappropriating Norwegian aid money at a micro-finance bank he founded. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/world/south-asia/Bangladesh-probe-clears-Yunus-of-misusing-aid/articleshow/8079059.cms)
 

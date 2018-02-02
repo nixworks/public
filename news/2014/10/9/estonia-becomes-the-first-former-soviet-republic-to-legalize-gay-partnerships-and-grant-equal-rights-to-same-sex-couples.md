@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/9/estonia-becomes-the-first-former-soviet-republic-to-legalize-gay-partnerships-and-grant-equal-rights-to-same-sex-couples.html)  [JSON](/news/2014/10/9/estonia-becomes-the-first-former-soviet-republic-to-legalize-gay-partnerships-and-grant-equal-rights-to-same-sex-couples.json)  [XML](/news/2014/10/9/estonia-becomes-the-first-former-soviet-republic-to-legalize-gay-partnerships-and-grant-equal-rights-to-same-sex-couples.xml)  
+
 ### [2014-10-9](/news/2014/10/9/index.md)
 
+##### Estonia
 # Estonia becomes the first former Soviet republic to legalize gay partnerships and grant equal rights to same-sex couples.
 
 Estonia on Thursday became the first former Soviet republic to grant equal rights to same-sex couples, amid a nasty atmosphere.
 
 
-### Source:
+### Sources:
 
 1. [EU Observer](http://euobserver.com/lgbti/125988)
 2. [Instinct Magazine](http://instinctmagazine.com/post/estonia-becomes-first-former-soviet-state-approve-same-sex-relationships)

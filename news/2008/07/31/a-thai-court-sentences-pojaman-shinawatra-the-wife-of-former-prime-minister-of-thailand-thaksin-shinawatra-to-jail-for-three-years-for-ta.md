@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/31/a-thai-court-sentences-pojaman-shinawatra-the-wife-of-former-prime-minister-of-thailand-thaksin-shinawatra-to-jail-for-three-years-for-ta.html)  [JSON](/news/2008/07/31/a-thai-court-sentences-pojaman-shinawatra-the-wife-of-former-prime-minister-of-thailand-thaksin-shinawatra-to-jail-for-three-years-for-ta.json)  [XML](/news/2008/07/31/a-thai-court-sentences-pojaman-shinawatra-the-wife-of-former-prime-minister-of-thailand-thaksin-shinawatra-to-jail-for-three-years-for-ta.xml)  
+
 ### [2008-07-31](/news/2008/07/31/index.md)
 
+##### Thailand
 #  A Thai court sentences Pojaman Shinawatra, the wife of former Prime Minister of Thailand Thaksin Shinawatra, to jail for three years for tax evasion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2008/WORLD/asiapcf/07/30/thaksin.wife.ap/index.html?eref=rss_world)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/6/the-workers-party-of-korea-the-ruling-party-of-n
 
 ### [2016-05-6](/news/2016/05/6/index.md)
 
+##### Workers' Party of Korea
 # The Workers' Party of Korea, the ruling party of North Korea, holds its first party congress in nearly 40 years. The meeting comes as the country is facing tougher sanctions for its recent missile launches. 
 
 North Korea holds its most important political event in decades, a rare party congress where Kim Jong-un will try to consolidate his control.

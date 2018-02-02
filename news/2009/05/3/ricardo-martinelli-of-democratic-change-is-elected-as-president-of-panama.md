@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/05/3/ricardo-martinelli-of-democratic-change-is-elected-as-president-of-panama.html)  [JSON](/news/2009/05/3/ricardo-martinelli-of-democratic-change-is-elected-as-president-of-panama.json)  [XML](/news/2009/05/3/ricardo-martinelli-of-democratic-change-is-elected-as-president-of-panama.xml)  
+
 ### [2009-05-3](/news/2009/05/3/index.md)
 
+##### Ricardo Martinelli
 #  Ricardo Martinelli of Democratic Change is elected as President of Panama. 
 
 A multimillionaire supermarket chain owner defeated a candidate of the governing center-left Revolutionary Democratic Party.
 
 
-### Source:
+### Sources:
 
-1. [Reuters via ''The New York Times](http://www.nytimes.com/2009/05/04/world/americas/04panama.html?_r=1&ref=world)
+1. [Reuters via ''The New York Times](https://www.nytimes.com/2009/05/04/world/americas/04panama.html?_r=1&ref=world)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

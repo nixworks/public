@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/14/jarosaaw-kaczyaski-is-sworn-in-as-the-new-prime-minister-of-poland-by-the-president-lech-kaczyaski-his-twin-brother.html)  [JSON](/news/2006/07/14/jarosaaw-kaczyaski-is-sworn-in-as-the-new-prime-minister-of-poland-by-the-president-lech-kaczyaski-his-twin-brother.json)  [XML](/news/2006/07/14/jarosaaw-kaczyaski-is-sworn-in-as-the-new-prime-minister-of-poland-by-the-president-lech-kaczyaski-his-twin-brother.xml)  
+
 ### [2006-07-14](/news/2006/07/14/index.md)
 
+##### Jaroslaw Kaczynski
 #  Jaroslaw Kaczynski is sworn-in as the new Prime Minister of Poland by the President, Lech Kaczynski, his twin brother.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/5179886.stm)
 

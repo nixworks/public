@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/19/china-s-ministry-of-health-reports-that-hiv-aids-was-the-country-s-leading-cause-of-death-from-infectious-disease-in-2008.html)  [JSON](/news/2009/02/19/china-s-ministry-of-health-reports-that-hiv-aids-was-the-country-s-leading-cause-of-death-from-infectious-disease-in-2008.json)  [XML](/news/2009/02/19/china-s-ministry-of-health-reports-that-hiv-aids-was-the-country-s-leading-cause-of-death-from-infectious-disease-in-2008.xml)  
+
 ### [2009-02-19](/news/2009/02/19/index.md)
 
+##### China
 #  China's Ministry of Health reports that HIV-AIDS was the country's leading cause of death from infectious disease in 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7896133.stm)
 

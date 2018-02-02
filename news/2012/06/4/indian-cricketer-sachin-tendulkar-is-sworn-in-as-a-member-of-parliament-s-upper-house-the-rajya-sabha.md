@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/4/indian-cricketer-sachin-tendulkar-is-sworn-in-as-a-member-of-parliament-s-upper-house-the-rajya-sabha.html)  [JSON](/news/2012/06/4/indian-cricketer-sachin-tendulkar-is-sworn-in-as-a-member-of-parliament-s-upper-house-the-rajya-sabha.json)  [XML](/news/2012/06/4/indian-cricketer-sachin-tendulkar-is-sworn-in-as-a-member-of-parliament-s-upper-house-the-rajya-sabha.xml)  
+
 ### [2012-06-4](/news/2012/06/4/index.md)
 
+##### Indians
 # Indian cricketer Sachin Tendulkar is sworn in as a member of Parliament's upper house the Rajya Sabha. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Australian](http://www.theaustralian.com.au/sport/cricket/cricketer-sachintendulkar-takes-seat-as-indian-mp/story-e6frg7rx-1226383462256)
 

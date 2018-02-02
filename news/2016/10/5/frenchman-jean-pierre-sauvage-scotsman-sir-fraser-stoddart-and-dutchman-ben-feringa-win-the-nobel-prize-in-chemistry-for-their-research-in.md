@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/5/frenchman-jean-pierre-sauvage-scotsman-sir-frase
 
 ### [2016-10-5](/news/2016/10/5/index.md)
 
+##### French-born
 # Frenchman Jean-Pierre Sauvage, Scotsman Sir Fraser Stoddart, and Dutchman Ben Feringa win the Nobel Prize in Chemistry for their research into nanotechnology. 
 
 

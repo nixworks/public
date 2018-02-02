@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/4/bolivian-gas-war-in-a-televised-speech-bolivian-president-carlos-mesa-announces-that-a-national-referendum-will-be-held-on-28-march-to-re.html)  [JSON](/news/2004/01/4/bolivian-gas-war-in-a-televised-speech-bolivian-president-carlos-mesa-announces-that-a-national-referendum-will-be-held-on-28-march-to-re.json)  [XML](/news/2004/01/4/bolivian-gas-war-in-a-televised-speech-bolivian-president-carlos-mesa-announces-that-a-national-referendum-will-be-held-on-28-march-to-re.xml)  
+
 ### [2004-01-4](/news/2004/01/4/index.md)
 
+##### Bolivian Gas War
 #  Bolivian Gas War: In a televised speech, Bolivian President Carlos Mesa announces that a national referendum will be held on 28 March to resolve the issue of how Bolivia's large natural gas reserves will be exploited.
 
 

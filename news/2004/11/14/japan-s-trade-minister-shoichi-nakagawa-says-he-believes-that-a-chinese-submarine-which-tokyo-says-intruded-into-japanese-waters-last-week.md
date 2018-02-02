@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/14/japan-s-trade-minister-shoichi-nakagawa-says-he-believes-that-a-chinese-submarine-which-tokyo-says-intruded-into-japanese-waters-last-week.html)  [JSON](/news/2004/11/14/japan-s-trade-minister-shoichi-nakagawa-says-he-believes-that-a-chinese-submarine-which-tokyo-says-intruded-into-japanese-waters-last-week.json)  [XML](/news/2004/11/14/japan-s-trade-minister-shoichi-nakagawa-says-he-believes-that-a-chinese-submarine-which-tokyo-says-intruded-into-japanese-waters-last-week.xml)  
+
 ### [2004-11-14](/news/2004/11/14/index.md)
 
+##### Shoichi Nakagawa
 #  Japan's trade minister Shoichi Nakagawa says he believes that a Chinese submarine, which Tokyo says intruded into Japanese waters last week, is linked to gas exploration by China in a remote island area claimed by both countries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/english/2004-11-14-voa11.cfm)
 

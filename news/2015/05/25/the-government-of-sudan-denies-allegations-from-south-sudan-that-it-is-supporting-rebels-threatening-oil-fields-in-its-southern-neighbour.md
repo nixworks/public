@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/25/the-government-of-sudan-denies-allegations-from-south-sudan-that-it-is-supporting-rebels-threatening-oil-fields-in-its-southern-neighbour.html)  [JSON](/news/2015/05/25/the-government-of-sudan-denies-allegations-from-south-sudan-that-it-is-supporting-rebels-threatening-oil-fields-in-its-southern-neighbour.json)  [XML](/news/2015/05/25/the-government-of-sudan-denies-allegations-from-south-sudan-that-it-is-supporting-rebels-threatening-oil-fields-in-its-southern-neighbour.xml)  
+
 ### [2015-05-25](/news/2015/05/25/index.md)
 
+##### Sudan
 # The government of Sudan denies allegations from South Sudan that it is supporting rebels threatening oil fields in its southern neighbour. 
 
 The Sudanese government has denied supporting rebels in South Sudan after it accused Khartoum of supplying arms to the insurgents threatening its oil fields.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Daily Star](http://www.dailystar.com.lb/News/World/2015/May-25/299228-sudanese-government-denies-supporting-rebels-in-south-sudan.ashx)
 1. [Cover Image](http://www.dailystar.com.lb//images/defaultimage.jpg)

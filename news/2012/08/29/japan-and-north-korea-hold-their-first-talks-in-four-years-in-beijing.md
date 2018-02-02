@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/29/japan-and-north-korea-hold-their-first-talks-in-four-years-in-beijing.html)  [JSON](/news/2012/08/29/japan-and-north-korea-hold-their-first-talks-in-four-years-in-beijing.json)  [XML](/news/2012/08/29/japan-and-north-korea-hold-their-first-talks-in-four-years-in-beijing.xml)  
+
 ### [2012-08-29](/news/2012/08/29/index.md)
 
+##### Japan
 # Japan and North Korea hold their first talks in four years in Beijing. 
 
 Government officials from Japan and North Korea meet in Beijing for their first direct talks in four years.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-19406812)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/62543000/jpg/_62543128_8t8wqbsm.jpg)

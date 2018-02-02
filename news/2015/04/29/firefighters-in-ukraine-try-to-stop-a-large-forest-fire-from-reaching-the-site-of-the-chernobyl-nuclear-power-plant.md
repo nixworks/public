@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/29/firefighters-in-ukraine-try-to-stop-a-large-forest-fire-from-reaching-the-site-of-the-chernobyl-nuclear-power-plant.html)  [JSON](/news/2015/04/29/firefighters-in-ukraine-try-to-stop-a-large-forest-fire-from-reaching-the-site-of-the-chernobyl-nuclear-power-plant.json)  [XML](/news/2015/04/29/firefighters-in-ukraine-try-to-stop-a-large-forest-fire-from-reaching-the-site-of-the-chernobyl-nuclear-power-plant.xml)  
+
 ### [2015-04-29](/news/2015/04/29/index.md)
 
+##### Chernobyl disaster
 # Firefighters in Ukraine try to stop a large forest fire from reaching the site of the Chernobyl nuclear power plant. 
 
 Emergency crews in Ukraine are trying to stop a massive forest fire from spreading towards the abandoned Chernobyl nuclear power plant. Prime
 
 
-### Source:
+### Sources:
 
 1. [Euronews](http://www.euronews.com/2015/04/29/ukraine-massive-forest-fire-threatens-abandoned-chernobyl-nuclear-plant/)
 1. [Cover Image](http://static.euronews.com/articles/305004/1000x563_305004.jpg)

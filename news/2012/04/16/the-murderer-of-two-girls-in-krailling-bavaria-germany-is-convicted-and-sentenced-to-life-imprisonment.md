@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2012/04/16/the-murderer-of-two-girls-in-krailling-bavaria-germany-is-convicted-and-sentenced-to-life-imprisonment.html)  [JSON](/news/2012/04/16/the-murderer-of-two-girls-in-krailling-bavaria-germany-is-convicted-and-sentenced-to-life-imprisonment.json)  [XML](/news/2012/04/16/the-murderer-of-two-girls-in-krailling-bavaria-germany-is-convicted-and-sentenced-to-life-imprisonment.xml)  
+
 ### [2012-04-16](/news/2012/04/16/index.md)
 
+##### two girls
 # The murderer of two girls in Krailling, Bavaria (Germany) is convicted and sentenced to life imprisonment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Süddeutsche Zeitung](http://www.sueddeutsche.de/muenchen/urteil-im-krailling-prozess-lebenslang-fuer-alle-1.1334216)
 1. [Cover Image](http://polpix.sueddeutsche.com/bild/1.1334221.1355366383/940x528/urteil-kraillingprozess.jpg)
 
 ### Related:
 
-1. [Two girls (11 and 8 years old) were brutally murdered in their home in Krailling, Bavaria (Germany). ](/news/2011/03/24/two-girls-11-and-8-years-old-were-brutally-murdered-in-their-home-in-krailling-bavaria-germany.md) _Context: Bavaria, Germany, Krailling, two girls_
-2. [Eighteen people are dead after a bus collides with a truck in the German state of Bavaria. ](/news/2017/07/3/eighteen-people-are-dead-after-a-bus-collides-with-a-truck-in-the-german-state-of-bavaria.md) _Context: Bavaria, Germany_
-3. [ A German train controller, who was operating the tracks where two trains collided on February 9 near the town of Bad Aibling, Bavaria, is arrested on possible manslaughter charges. Prosecutors say the controller had been playing a game on his mobile phone, which led to his making signalling errors. The crash resulted in 11 deaths and 85 injuries, 24 serious. ](/news/2016/04/12/a-german-train-controller-who-was-operating-the-tracks-where-two-trains-collided-on-february-9-near-the-town-of-bad-aibling-bavaria-is-a.md) _Context: Bavaria, Germany_
-4. [Two passenger trains collide in the German town of Bad Aibling in the state of Bavaria. At least ten people are dead, one person is missing and presumed dead, about 80 are wounded, and 17 are seriously or critically injured. The rescue is difficult - resembling a mountain-type rescue - because of a nearby river and a steep incline and a curve in the tracks; rescue helicopters had to be used. It is one of Bavaria's and Germany's deadliest-ever railroad accidents. Human error is being examined as a possibility. ](/news/2016/02/9/two-passenger-trains-collide-in-the-german-town-of-bad-aibling-in-the-state-of-bavaria-at-least-ten-people-are-dead-one-person-is-missing.md) _Context: Bavaria, Germany_
-5. [The bodies of eight babies are found wrapped in towels and inside plastic bags in an apartment in the town of Wallenfels in Germany's state of Bavaria. Authorities are looking for the apartment's most recent occupant, Andrea G, a 45-year-old woman. ](/news/2015/11/13/the-bodies-of-eight-babies-are-found-wrapped-in-towels-and-inside-plastic-bags-in-an-apartment-in-the-town-of-wallenfels-in-germany-s-state.md) _Context: Bavaria, Germany_
+1. [Two girls (11 and 8 years old) were brutally murdered in their home in Krailling, Bavaria (Germany). ](/news/2011/03/24/two-girls-11-and-8-years-old-were-brutally-murdered-in-their-home-in-krailling-bavaria-germany.md) _Context: Bavaria, German, Krailling, two girls_
+2. [Eighteen people are dead after a bus collides with a truck in the German state of Bavaria. ](/news/2017/07/3/eighteen-people-are-dead-after-a-bus-collides-with-a-truck-in-the-german-state-of-bavaria.md) _Context: Bavaria, German_
+3. [ A German train controller, who was operating the tracks where two trains collided on February 9 near the town of Bad Aibling, Bavaria, is arrested on possible manslaughter charges. Prosecutors say the controller had been playing a game on his mobile phone, which led to his making signalling errors. The crash resulted in 11 deaths and 85 injuries, 24 serious. ](/news/2016/04/12/a-german-train-controller-who-was-operating-the-tracks-where-two-trains-collided-on-february-9-near-the-town-of-bad-aibling-bavaria-is-a.md) _Context: Bavaria, German_
+4. [Two passenger trains collide in the German town of Bad Aibling in the state of Bavaria. At least ten people are dead, one person is missing and presumed dead, about 80 are wounded, and 17 are seriously or critically injured. The rescue is difficult - resembling a mountain-type rescue - because of a nearby river and a steep incline and a curve in the tracks; rescue helicopters had to be used. It is one of Bavaria's and Germany's deadliest-ever railroad accidents. Human error is being examined as a possibility. ](/news/2016/02/9/two-passenger-trains-collide-in-the-german-town-of-bad-aibling-in-the-state-of-bavaria-at-least-ten-people-are-dead-one-person-is-missing.md) _Context: Bavaria, German_
+5. [The bodies of eight babies are found wrapped in towels and inside plastic bags in an apartment in the town of Wallenfels in Germany's state of Bavaria. Authorities are looking for the apartment's most recent occupant, Andrea G, a 45-year-old woman. ](/news/2015/11/13/the-bodies-of-eight-babies-are-found-wrapped-in-towels-and-inside-plastic-bags-in-an-apartment-in-the-town-of-wallenfels-in-germany-s-state.md) _Context: Bavaria, German_

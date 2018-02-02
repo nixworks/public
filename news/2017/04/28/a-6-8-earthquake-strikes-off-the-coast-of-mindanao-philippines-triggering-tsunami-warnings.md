@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/28/a-6-8-earthquake-strikes-off-the-coast-of-minda
 
 ### [2017-04-28](/news/2017/04/28/index.md)
 
+##### earthquake
 # A 6.8 earthquake strikes off the coast of Mindanao, Philippines triggering tsunami warnings. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/6/armenia-and-azerbaijan-exchange-the-bodies-of-deceased-soldiers-and-a-civilian-under-the-auspices-of-the-international-committee-of-the-red.html)  [JSON](/news/2010/11/6/armenia-and-azerbaijan-exchange-the-bodies-of-deceased-soldiers-and-a-civilian-under-the-auspices-of-the-international-committee-of-the-red.json)  [XML](/news/2010/11/6/armenia-and-azerbaijan-exchange-the-bodies-of-deceased-soldiers-and-a-civilian-under-the-auspices-of-the-international-committee-of-the-red.xml)  
+
 ### [2010-11-6](/news/2010/11/6/index.md)
 
+##### Armenia
 # Armenia and Azerbaijan exchange the bodies of deceased soldiers and a civilian under the auspices of the International Committee of the Red Cross. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-11/07/c_13594469.htm)
 

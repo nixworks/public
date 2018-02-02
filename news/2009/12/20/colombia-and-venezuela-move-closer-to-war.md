@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/12/20/colombia-and-venezuela-move-closer-to-war.html)  [JSON](/news/2009/12/20/colombia-and-venezuela-move-closer-to-war.json)  [XML](/news/2009/12/20/colombia-and-venezuela-move-closer-to-war.xml)  
+
 ### [2009-12-20](/news/2009/12/20/index.md)
 
+##### Colombia
 #  Colombia and Venezuela move closer to war. 
 
 Colombia said it is preparing to defend against a possible foreign military attack amid growing tensions with neighboring Venezuela, while Venezuelan President Hugo Chavez said on Sunday Colombia would regret any actions that hurt his country.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE5BJ11Z20091220)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSTRE5BJ11Z20091220)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/5/opposition-parties-in-nigeria-raise-their-concerns-over-missing-president-umaru-yar-adua-who-has-been-at-a-hospital-in-saudi-arabia-for-si.html)  [JSON](/news/2010/01/5/opposition-parties-in-nigeria-raise-their-concerns-over-missing-president-umaru-yar-adua-who-has-been-at-a-hospital-in-saudi-arabia-for-si.json)  [XML](/news/2010/01/5/opposition-parties-in-nigeria-raise-their-concerns-over-missing-president-umaru-yar-adua-who-has-been-at-a-hospital-in-saudi-arabia-for-si.xml)  
+
 ### [2010-01-5](/news/2010/01/5/index.md)
 
+##### Nigeria
 # Opposition parties in Nigeria raise their concerns over "missing" President Umaru Yar'Adua who has been at a hospital in Saudi Arabia for six weeks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Afrique en ligne](http://www.afriquejet.com/news/africa-news/nigeria:-opposition-demands-evidence-of-yar%27adua%27s-improving-health-2010010541269.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8440860.stm)

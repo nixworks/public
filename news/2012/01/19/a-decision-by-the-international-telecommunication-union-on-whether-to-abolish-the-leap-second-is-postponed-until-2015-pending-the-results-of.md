@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/19/a-decision-by-the-international-telecommunication-union-on-whether-to-abolish-the-leap-second-is-postponed-until-2015-pending-the-results-of.html)  [JSON](/news/2012/01/19/a-decision-by-the-international-telecommunication-union-on-whether-to-abolish-the-leap-second-is-postponed-until-2015-pending-the-results-of.json)  [XML](/news/2012/01/19/a-decision-by-the-international-telecommunication-union-on-whether-to-abolish-the-leap-second-is-postponed-until-2015-pending-the-results-of.xml)  
+
 ### [2012-01-19](/news/2012/01/19/index.md)
 
+##### International Telecommunication Union
 # A decision by the International Telecommunication Union on whether to abolish the leap second is postponed until 2015 pending the results of further studies. 
 
 Fans of the leap second, you can breathe easy. Your favorite little tick of the clock is safe — for now.
 
 
-### Source:
+### Sources:
 
 1. [TIME](http://newsfeed.time.com/2012/01/19/its-official-the-leap-second-survives/)
 1. [Cover Image](https://timenewsfeed.files.wordpress.com/2012/01/second.jpg?w=600)

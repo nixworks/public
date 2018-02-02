@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/30/two-turkish-police-officers-are-killed-in-a-sus
 
 ### [2016-05-30](/news/2016/05/30/index.md)
 
+##### Kurdish-Turkish conflict (2015-present)
 #  Two Turkish police officers are killed in a suspected Kurdistan Workers' Party (PKK) bomb attack in the eastern province of Van. 
 
 Two police officers were killed on May 30 in an outlawed Kurdistan Workers’ Party (PKK) bomb attack in the İpekyolu district of the eastern province of Van

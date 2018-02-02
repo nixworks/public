@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2011/02/27/birminghamashuttlesworth-international-airport-in-the-us-city-of-birmingham-alabama-is-evacuated-following-the-discovery-of-a-suspicious.html)  [JSON](/news/2011/02/27/birminghamashuttlesworth-international-airport-in-the-us-city-of-birmingham-alabama-is-evacuated-following-the-discovery-of-a-suspicious.json)  [XML](/news/2011/02/27/birminghamashuttlesworth-international-airport-in-the-us-city-of-birmingham-alabama-is-evacuated-following-the-discovery-of-a-suspicious.xml)  
+
 ### [2011-02-27](/news/2011/02/27/index.md)
 
+##### Birmingham-Shuttlesworth International Airport
 # Birmingham-Shuttlesworth International Airport in the US city of Birmingham, Alabama is evacuated following the discovery of a suspicious package. 
 
 BIRMINGHAM,AL (WBRC) - The Birmingham - Shuttlesworth International Airport has been evacutated because of a suspicious package found late this afternoon
 
 
-### Source:
+### Sources:
 
 1. [Fox News Alabama](http://www.myfoxal.com/Global/story.asp?S=14151628)
+
+### Changes:
+
+1. [Birmingham-Shuttlesworth International Airport in the US city of Birmingham, Alabama is evacuated following the discovery of a suspicious package. ](/news/2011/02/27/birmingham-shuttlesworth-international-airport-in-the-us-city-of-birmingham-alabama-is-evacuated-following-the-discovery-of-a-suspicious-pa.md) _2017-08-16 03:32:49 (First version)_
+2. [Birmingham-Shuttlesworth International Airport in the US city of Birmingham, Alabama is evacuated following the discovery of a suspicious package. ](/news/2011/02/27/birmingham-shuttlesworth-international-airport-in-the-us-city-of-birmingham-alabama-is-evacuated-following-the-discovery-of-a-suspicious.md) _2017-08-27 03:32:29 (Update)_
+2. [Birmingham-Shuttlesworth International Airport in the US city of Birmingham, Alabama is evacuated following the discovery of a suspicious package. ](/news/2011/02/27/birminghamashuttlesworth-international-airport-in-the-us-city-of-birmingham-alabama-is-evacuated-following-the-discovery-of-a-suspicious.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@ BIRMINGHAM,AL (WBRC) - The Birmingham - Shuttlesworth International Airport has 
 3. [A worker at the chief clerk's office (making reference to a will) at the Hugo Black U.S. Federal Courthouse in Birmingham, Alabama shoots himself in the head. ](/news/2012/12/13/a-worker-at-the-chief-clerk-s-office-making-reference-to-a-will-at-the-hugo-black-u-s-federal-courthouse-in-birmingham-alabama-shoots-hi.md) _Context: Birmingham_
 4. [An Uzbek man Ulugbek Kodirov pleads guilty to plotting with the Islamic Movement of Uzbekistan to assassinate President of the United States Barack Obama in a hearing in Birmingham, Alabama. ](/news/2012/02/10/an-uzbek-man-ulugbek-kodirov-pleads-guilty-to-plotting-with-the-islamic-movement-of-uzbekistan-to-assassinate-president-of-the-united-states.md) _Context: Birmingham_
 5. [ Judge Karon O. Bowdre, presiding over the federal trial of Richard M. Scrushy in Birmingham, Alabama, delivers what is called the "Allen charge" to the jury in that case, in the hope of breaking its deadlock and producing a verdict. ](/news/2005/06/3/judge-karon-o-bowdre-presiding-over-the-federal-trial-of-richard-m-scrushy-in-birmingham-alabama-delivers-what-is-called-the-allen-ch.md) _Context: Birmingham_
-
-### Changes:
-
-1. [Birmingham-Shuttlesworth International Airport in the US city of Birmingham, Alabama is evacuated following the discovery of a suspicious package. ](/news/2011/02/27/birmingham-shuttlesworth-international-airport-in-the-us-city-of-birmingham-alabama-is-evacuated-following-the-discovery-of-a-suspicious-pa.md) _2017-08-16 03:32:49 (First version)_
-2. [Birmingham-Shuttlesworth International Airport in the US city of Birmingham, Alabama is evacuated following the discovery of a suspicious package. ](/news/2011/02/27/birmingham-shuttlesworth-international-airport-in-the-us-city-of-birmingham-alabama-is-evacuated-following-the-discovery-of-a-suspicious.md) _2017-08-27 03:32:29 (Update)_
-2. [Birmingham-Shuttlesworth International Airport in the US city of Birmingham, Alabama is evacuated following the discovery of a suspicious package. ](/news/2011/02/27/birminghamashuttlesworth-international-airport-in-the-us-city-of-birmingham-alabama-is-evacuated-following-the-discovery-of-a-suspicious.md) _(Current version)_

@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/06/28/lars-lokke-rasmussen-forms-denmark-s-first-single-party-government-in-33-years-and-rasmussen-himself-becomes-the-first-prime-minister-in-33.html)  [JSON](/news/2015/06/28/lars-lokke-rasmussen-forms-denmark-s-first-single-party-government-in-33-years-and-rasmussen-himself-becomes-the-first-prime-minister-in-33.json)  [XML](/news/2015/06/28/lars-lokke-rasmussen-forms-denmark-s-first-single-party-government-in-33-years-and-rasmussen-himself-becomes-the-first-prime-minister-in-33.xml)  
+
 ### [2015-06-28](/news/2015/06/28/index.md)
 
+##### Danish general election, 2015
 # Lars Lkke Rasmussen forms Denmark's first single-party government in 33 years, and Rasmussen himself becomes the first prime minister in 33 years to serve in two non-consecutive terms; Kristian Jensen becomes the sixth foreign minister since 2010. 
 
 Ten former ministers make a comeback, while seven are making their debut. Løkke Rasmussen unveils Denmark’s new all-Venstre government
 
 
-### Source:
+### Sources:
 
 1. [Copenhagen Post](http://cphpost.dk/news/lokke-rasmussen-unveils-denmarks-new-all-venstre-government.html)
 2. [The Local](http://www.thelocal.dk/20150628/here-is-denmarks-new-government)
 2. [Cover Image](http://cphpost.dk/wp-content/themes/cphpostssb/images/logo.png)
+
+### Changes:
+
+1. [Danish general election, 2015: Lars Lkke Rasmussen forms Denmark's first single-party government in 33 years, and Rasmussen himself becomes the first prime minister in 33 years to serve in two non-consecutive terms; Kristian Jensen becomes the sixth foreign minister since 2010. ](/news/2015/06/28/danish-general-election-2015-lars-lokke-rasmussen-forms-denmark-s-first-single-party-government-in-33-years-and-rasmussen-himself-becomes.md) _2017-08-27 03:42:36 (First version)_
+1. [Lars Lkke Rasmussen forms Denmark's first single-party government in 33 years, and Rasmussen himself becomes the first prime minister in 33 years to serve in two non-consecutive terms; Kristian Jensen becomes the sixth foreign minister since 2010. ](/news/2015/06/28/lars-lokke-rasmussen-forms-denmark-s-first-single-party-government-in-33-years-and-rasmussen-himself-becomes-the-first-prime-minister-in-33.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Ten former ministers make a comeback, while seven are making their debut. Løkke
 3. [The Prime Minister of Denmark Helle Thorning-Schmidt calls an election for June 18. ](/news/2015/05/27/the-prime-minister-of-denmark-helle-thorning-schmidt-calls-an-election-for-june-18.md) _Context: Danish general election, 2015_
 4. [Helle Thorning-Schmidt presents her new coalition government, thereby becoming the 41st and the first female Prime Minister of Denmark. She takes over the office from Lars Lkke Rasmussen. ](/news/2011/10/3/helle-thorning-schmidt-presents-her-new-coalition-government-thereby-becoming-the-41st-and-the-first-female-prime-minister-of-denmark-she.md) _Context: Lars Lkke Rasmussen_
 5. [Danish Prime Minister Lars Lkke Rasmussen calls for Parliamentary elections to be held on September 15 - nearly two months ahead of the scheduled date. ](/news/2011/08/26/danish-prime-minister-lars-lokke-rasmussen-calls-for-parliamentary-elections-to-be-held-on-september-15-nearly-two-months-ahead-of-the-sch.md) _Context: Lars Lkke Rasmussen_
-
-### Changes:
-
-1. [Danish general election, 2015: Lars Lkke Rasmussen forms Denmark's first single-party government in 33 years, and Rasmussen himself becomes the first prime minister in 33 years to serve in two non-consecutive terms; Kristian Jensen becomes the sixth foreign minister since 2010. ](/news/2015/06/28/danish-general-election-2015-lars-lokke-rasmussen-forms-denmark-s-first-single-party-government-in-33-years-and-rasmussen-himself-becomes.md) _2017-08-27 03:42:36 (First version)_
-1. [Lars Lkke Rasmussen forms Denmark's first single-party government in 33 years, and Rasmussen himself becomes the first prime minister in 33 years to serve in two non-consecutive terms; Kristian Jensen becomes the sixth foreign minister since 2010. ](/news/2015/06/28/lars-lokke-rasmussen-forms-denmark-s-first-single-party-government-in-33-years-and-rasmussen-himself-becomes-the-first-prime-minister-in-33.md) _(Current version)_

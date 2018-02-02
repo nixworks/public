@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/18/a-group-headed-by-khalifa-haftar-which-includes-renegade-libyan-general-mokhtar-farnana-launches-an-attack-on-the-parliament-of-libya.html)  [JSON](/news/2014/05/18/a-group-headed-by-khalifa-haftar-which-includes-renegade-libyan-general-mokhtar-farnana-launches-an-attack-on-the-parliament-of-libya.json)  [XML](/news/2014/05/18/a-group-headed-by-khalifa-haftar-which-includes-renegade-libyan-general-mokhtar-farnana-launches-an-attack-on-the-parliament-of-libya.xml)  
+
 ### [2014-05-18](/news/2014/05/18/index.md)
 
+##### Khalifa Haftar
 # A group headed by Khalifa Haftar, which includes renegade Libyan general Mokhtar Farnana, launches an attack on the Parliament of Libya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted2.ap.org/APDEFAULT/3d281c11a96b4ad082fe88aa0db04305/Article_2014-05-18-ML-Libya/id-9e4cb50c5f1b4f5f8a97c3789225ed9e)
 

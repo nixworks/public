@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/11/bolivian-president-evo-morales-abandons-an-event-in-the-south-of-the-country-after-crowds-booed-him-and-threw-dynamite-in-a-protest-over-ris.html)  [JSON](/news/2011/02/11/bolivian-president-evo-morales-abandons-an-event-in-the-south-of-the-country-after-crowds-booed-him-and-threw-dynamite-in-a-protest-over-ris.json)  [XML](/news/2011/02/11/bolivian-president-evo-morales-abandons-an-event-in-the-south-of-the-country-after-crowds-booed-him-and-threw-dynamite-in-a-protest-over-ris.xml)  
+
 ### [2011-02-11](/news/2011/02/11/index.md)
 
+##### Bolivia
 # Bolivian President Evo Morales abandons an event in the south of the country after crowds booed him and threw dynamite in a protest over rising food prices. 
 
 Bolivian President Evo Morales abandons a public event in the face of a food protest by miners throwing dynamite.
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hKQxQLMRfW7GXBWbjCny9tN73FXQ?docId=b5764ed4c5df40f9a335b37f54808d01)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-12427057)

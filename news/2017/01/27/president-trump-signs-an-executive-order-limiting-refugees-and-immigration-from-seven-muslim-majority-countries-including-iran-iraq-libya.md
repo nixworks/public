@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/27/president-trump-signs-an-executive-order-limiti
 
 ### [2017-01-27](/news/2017/01/27/index.md)
 
+##### Presidency of Donald Trump
 # President Trump signs an executive order limiting refugees and immigration from seven Muslim-majority countries, including Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. The order also prioritizes the vetting of Christian refugees of the Syrian Civil War. 
 
  Five Iraqi passengers and one Yemeni were barred from boarding an EgyptAir flight from Cairo to New York on Saturday after President Donald Trump halted the en

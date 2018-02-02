@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/02/21/g-asset-investment-a-private-investment-management-firm-reports-that-it-has-offered-to-buy-a-majority-of-the-equity-of-barnes-noble-or-t.html)  [JSON](/news/2014/02/21/g-asset-investment-a-private-investment-management-firm-reports-that-it-has-offered-to-buy-a-majority-of-the-equity-of-barnes-noble-or-t.json)  [XML](/news/2014/02/21/g-asset-investment-a-private-investment-management-firm-reports-that-it-has-offered-to-buy-a-majority-of-the-equity-of-barnes-noble-or-t.xml)  
+
 ### [2014-02-21](/news/2014/02/21/index.md)
 
+##### Barnes & Noble
 # G Asset Investment, a private investment management firm, reports that it has offered to buy a majority of the equity of Barnes & Noble or to buy its digital books business, Nook. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/02/21/us-barnesandnoble-gasset-idUSBREA1K1R920140221)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140221&t=2&i=844488079&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1K1HWW00)
+1. [Reuters](https://www.reuters.com/article/2014/02/21/us-barnesandnoble-gasset-idUSBREA1K1R920140221)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140221&t=2&i=844488079&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1K1HWW00)
 
 ### Related:
 

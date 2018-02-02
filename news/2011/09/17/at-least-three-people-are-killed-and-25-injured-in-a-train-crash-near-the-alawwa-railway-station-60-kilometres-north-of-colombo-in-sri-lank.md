@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/17/at-least-three-people-are-killed-and-25-injured-in-a-train-crash-near-the-alawwa-railway-station-60-kilometres-north-of-colombo-in-sri-lank.html)  [JSON](/news/2011/09/17/at-least-three-people-are-killed-and-25-injured-in-a-train-crash-near-the-alawwa-railway-station-60-kilometres-north-of-colombo-in-sri-lank.json)  [XML](/news/2011/09/17/at-least-three-people-are-killed-and-25-injured-in-a-train-crash-near-the-alawwa-railway-station-60-kilometres-north-of-colombo-in-sri-lank.xml)  
+
 ### [2011-09-17](/news/2011/09/17/index.md)
 
+##### train crash
 # At least three people are killed and 25 injured in a train crash near the Alawwa railway station, 60 kilometres north of Colombo in Sri Lanka. 
 
 AT LEAST three people are dead and 25 injured in Sri Lanka after a passenger train crashed into another train.
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/world/dead-after-trains-collide/story-fn6sb9br-1226140051491)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/3110ee4a60a0f8d0b7f73f1081634af5)

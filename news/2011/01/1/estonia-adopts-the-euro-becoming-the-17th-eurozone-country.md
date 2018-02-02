@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2011/01/1/estonia-adopts-the-euro-becoming-the-17th-eurozone-country.html)  [JSON](/news/2011/01/1/estonia-adopts-the-euro-becoming-the-17th-eurozone-country.json)  [XML](/news/2011/01/1/estonia-adopts-the-euro-becoming-the-17th-eurozone-country.xml)  
+
 ### [2011-01-1](/news/2011/01/1/index.md)
 
+##### Estonia
 # Estonia adopts the Euro, becoming the 17th Eurozone country.
 
 

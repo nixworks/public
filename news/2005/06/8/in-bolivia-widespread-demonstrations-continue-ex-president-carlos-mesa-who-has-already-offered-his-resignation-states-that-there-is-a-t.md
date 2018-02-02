@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/8/in-bolivia-widespread-demonstrations-continue-ex-president-carlos-mesa-who-has-already-offered-his-resignation-states-that-there-is-a-t.html)  [JSON](/news/2005/06/8/in-bolivia-widespread-demonstrations-continue-ex-president-carlos-mesa-who-has-already-offered-his-resignation-states-that-there-is-a-t.json)  [XML](/news/2005/06/8/in-bolivia-widespread-demonstrations-continue-ex-president-carlos-mesa-who-has-already-offered-his-resignation-states-that-there-is-a-t.xml)  
+
 ### [2005-06-8](/news/2005/06/8/index.md)
 
+##### Bolivia
 #  In Bolivia, widespread demonstrations continue. Ex-president Carlos Mesa, who has already offered his resignation, states that there is a threat of civil war without immediate elections. Congress will decide on Thursday whether to accept the resignation 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4071950.stm)
 2. [CNN](http://edition.cnn.com/2005/WORLD/americas/06/07/bolivia.unrest/)

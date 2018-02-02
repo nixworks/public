@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/27/in-india-gautam-goswami-director-of-flood-relief-in-bihar-is-accused-of-misdirecting-funds-he-denies-any-wrongdoing.html)  [JSON](/news/2005/04/27/in-india-gautam-goswami-director-of-flood-relief-in-bihar-is-accused-of-misdirecting-funds-he-denies-any-wrongdoing.json)  [XML](/news/2005/04/27/in-india-gautam-goswami-director-of-flood-relief-in-bihar-is-accused-of-misdirecting-funds-he-denies-any-wrongdoing.xml)  
+
 ### [2005-04-27](/news/2005/04/27/index.md)
 
+##### India
 #  In India, Gautam Goswami, director of flood relief in Bihar, is accused of misdirecting funds. He denies any wrongdoing. 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4489411.stm)
 2. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=Flood+relief+scam%3A+Buta+clarifies+stand&id=72169)

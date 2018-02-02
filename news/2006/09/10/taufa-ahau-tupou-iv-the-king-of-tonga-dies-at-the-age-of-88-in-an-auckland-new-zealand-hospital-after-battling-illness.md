@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/10/taufa-ahau-tupou-iv-the-king-of-tonga-dies-at-the-age-of-88-in-an-auckland-new-zealand-hospital-after-battling-illness.html)  [JSON](/news/2006/09/10/taufa-ahau-tupou-iv-the-king-of-tonga-dies-at-the-age-of-88-in-an-auckland-new-zealand-hospital-after-battling-illness.json)  [XML](/news/2006/09/10/taufa-ahau-tupou-iv-the-king-of-tonga-dies-at-the-age-of-88-in-an-auckland-new-zealand-hospital-after-battling-illness.xml)  
+
 ### [2006-09-10](/news/2006/09/10/index.md)
 
+##### Taufa'ahau Tupou IV
 #  Taufa'ahau Tupou IV, the King of Tonga, dies at the age of 88 in an Auckland, New Zealand hospital after battling illness. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5333318.stm)
 

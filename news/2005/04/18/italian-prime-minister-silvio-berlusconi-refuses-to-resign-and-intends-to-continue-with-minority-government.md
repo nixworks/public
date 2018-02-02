@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/04/18/italian-prime-minister-silvio-berlusconi-refuses-to-resign-and-intends-to-continue-with-minority-government.html)  [JSON](/news/2005/04/18/italian-prime-minister-silvio-berlusconi-refuses-to-resign-and-intends-to-continue-with-minority-government.json)  [XML](/news/2005/04/18/italian-prime-minister-silvio-berlusconi-refuses-to-resign-and-intends-to-continue-with-minority-government.xml)  
+
 ### [2005-04-18](/news/2005/04/18/index.md)
 
+##### Silvio Berlusconi
 #  Italian prime minister Silvio Berlusconi refuses to resign and intends to continue with minority government. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [AGI](http://www.agi.it/english/news.pl?doc=200504182057-1253-RT1-CRO-0-NF82&page=0&id=agionline-eng.italyonline)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000087&sid=as0D2VNv3s7A&refer=top_world_news)
-3. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8215221)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000087&sid=as0D2VNv3s7A&refer=top_world_news)
+3. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8215221)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

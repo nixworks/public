@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/03/25/the-u-s-international-trade-commission-has-agreed-to-hear-an-appeal-from-kodak-to-an-initial-unfavorable-decision-by-an-administrative-judg.html)  [JSON](/news/2011/03/25/the-u-s-international-trade-commission-has-agreed-to-hear-an-appeal-from-kodak-to-an-initial-unfavorable-decision-by-an-administrative-judg.json)  [XML](/news/2011/03/25/the-u-s-international-trade-commission-has-agreed-to-hear-an-appeal-from-kodak-to-an-initial-unfavorable-decision-by-an-administrative-judg.xml)  
+
 ### [2011-03-25](/news/2011/03/25/index.md)
 
+##### U.S.
 # The U.S. International Trade Commission has agreed to hear an appeal from Kodak to an initial unfavorable decision by an administrative judge on Kodak's claim that Research in Motion and Apple have infringed its patents, in connection with wireless devices equipped with digital cameras. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/26/us-kodak-patent-idUSTRE72O7CH20110326)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/03/26/us-kodak-patent-idUSTRE72O7CH20110326)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

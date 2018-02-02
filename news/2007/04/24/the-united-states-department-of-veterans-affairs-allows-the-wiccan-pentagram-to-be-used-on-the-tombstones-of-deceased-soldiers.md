@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/04/24/the-united-states-department-of-veterans-affairs-allows-the-wiccan-pentagram-to-be-used-on-the-tombstones-of-deceased-soldiers.html)  [JSON](/news/2007/04/24/the-united-states-department-of-veterans-affairs-allows-the-wiccan-pentagram-to-be-used-on-the-tombstones-of-deceased-soldiers.json)  [XML](/news/2007/04/24/the-united-states-department-of-veterans-affairs-allows-the-wiccan-pentagram-to-be-used-on-the-tombstones-of-deceased-soldiers.xml)  
+
 ### [2007-04-24](/news/2007/04/24/index.md)
 
+##### United States Department of Veterans Affairs
 #  The United States Department of Veterans Affairs allows the Wiccan pentagram to be used on the tombstones of deceased soldiers. 
 
 The Department of Veterans Affairs will add the Wiccan pentacle to a list of approved religious symbols.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/04/24/washington/24wiccan.html?_r=1&oref=slogin)
+1. [New York Times](https://www.nytimes.com/2007/04/24/washington/24wiccan.html?_r=1&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

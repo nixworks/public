@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/15/the-2010-united-states-census-shows-1-in-2-people-are-classified-as-low-income-or-poor.html)  [JSON](/news/2011/12/15/the-2010-united-states-census-shows-1-in-2-people-are-classified-as-low-income-or-poor.json)  [XML](/news/2011/12/15/the-2010-united-states-census-shows-1-in-2-people-are-classified-as-low-income-or-poor.xml)  
+
 ### [2011-12-15](/news/2011/12/15/index.md)
 
+##### 2010 Census
 # The 2010 United States Census shows 1 in 2 people are classified as low-income or poor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5gkc3uqGuPnGfO90dElARcCQvgTvA?docId=9576d6a6343c46b1abbd0184a9244305)
 2. [CBS News](http://www.cbsnews.com/8301-201_162-57343397/census-data-half-of-u.s-poor-or-low-income/)

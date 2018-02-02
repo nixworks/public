@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/8/83-prisoners-die-as-a-fire-breaks-out-in-a-prison-in-santiago-chile.html)  [JSON](/news/2010/12/8/83-prisoners-die-as-a-fire-breaks-out-in-a-prison-in-santiago-chile.json)  [XML](/news/2010/12/8/83-prisoners-die-as-a-fire-breaks-out-in-a-prison-in-santiago-chile.xml)  
+
 ### [2010-12-8](/news/2010/12/8/index.md)
 
+##### fire breaks out
 # 83 prisoners die as a fire breaks out in a prison in Santiago, Chile. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2010/dec/08/chile-fire-kills-scores)
 2. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_611772.html)

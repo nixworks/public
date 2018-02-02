@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/18/the-philippines-red-cross-estimates-that-the-death-toll-from-the-floods-caused-by-tropical-storm-washi-has-risen-to-521.html)  [JSON](/news/2011/12/18/the-philippines-red-cross-estimates-that-the-death-toll-from-the-floods-caused-by-tropical-storm-washi-has-risen-to-521.json)  [XML](/news/2011/12/18/the-philippines-red-cross-estimates-that-the-death-toll-from-the-floods-caused-by-tropical-storm-washi-has-risen-to-521.xml)  
+
 ### [2011-12-18](/news/2011/12/18/index.md)
 
+##### Philippines
 # The Philippines Red Cross estimates that the death toll from the floods caused by Tropical Storm Washi has risen to 521. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5g0oLVhVyed1nphyhheF7JP0vueQA?docId=d4ffeb4c724147f1a2a5fd08b65709b6)
 

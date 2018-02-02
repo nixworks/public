@@ -1,23 +1,27 @@
+
+Formats: [HTML](/news/2011/07/3/a-e-hotchner-a-friend-and-collaborator-of-the-nobel-prize-winning-writer-ernest-hemingway-writing-in-the-new-york-times-on-the-50th-an.html)  [JSON](/news/2011/07/3/a-e-hotchner-a-friend-and-collaborator-of-the-nobel-prize-winning-writer-ernest-hemingway-writing-in-the-new-york-times-on-the-50th-an.json)  [XML](/news/2011/07/3/a-e-hotchner-a-friend-and-collaborator-of-the-nobel-prize-winning-writer-ernest-hemingway-writing-in-the-new-york-times-on-the-50th-an.xml)  
+
 ### [2011-07-3](/news/2011/07/3/index.md)
 
+##### A. E. Hotchner
 # A. E. Hotchner, a friend and collaborator of the Nobel Prize-winning writer Ernest Hemingway, writing in "The New York Times" on the 50th anniversary of Hemingway's death, expresses his belief that the J. Edgar Hoover-led Federal Bureau of Investigation's surveillance "substantially contributed to his anguish and his suicide", with Hotchner saying he "regretfully misjudged" Hemingway's fear of the FBI. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Observer](http://www.guardian.co.uk/books/2011/jul/03/fbi-and-ernest-hemingway)
-
-### Related:
-
-1. ["The New York Times" reports its Moscow bureau was targeted this month by hackers, believed to be Russian. While there is no evidence that the hackers were successful, the FBI is investigating. ](/news/2016/08/23/the-new-york-times-reports-its-moscow-bureau-was-targeted-this-month-by-hackers-believed-to-be-russian-while-there-is-no-evidence-that-t.md) _Context: FBI, The New York Times_
-2. [ The "New York Times" reports that the Federal Bureau of Investigation is actively monitoring and gathering intelligence on anti-war protest movements' activities, ostensibly to detect possible terrorist activity. Opponents such as the American Civil Liberties Union criticize the practice as regressionary to the days of J. Edgar Hoover's intense monitoring of private organizations for potential communist links.](/news/2003/11/23/the-new-york-times-reports-that-the-federal-bureau-of-investigation-is-actively-monitoring-and-gathering-intelligence-on-anti-war-protest.md) _Context: FBI, J. Edgar Hoover_
-3. [The Nobel Prize committee awards American Richard Thaler the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel "for his contributions to behavioral economics." His work focuses on the psychology of the human conflict of what we plan for the financial present versus what we plan for the future. ](/news/2017/10/9/the-nobel-prize-committee-awards-american-richard-thaler-the-sveriges-riksbank-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-his.md) _Context: Nobel Prize_
-4. [American film producer Harvey Weinstein (including "Pulp Fiction", "Clerks", "The Crying Game", and "Sex, Lies, and Videotape") answers allegations made by a report in "The New York Times" that he had settled eight sexual harassment claims made over three decades. Multiple Democratic recipients of Weinstein's political donations give the funds to women's charities. ](/news/2017/10/6/american-film-producer-harvey-weinstein-including-pulp-fiction-clerks-the-crying-game-and-sex-lies-and-videotape-answers-alle.md) _Context: The New York Times_
-5. [The Nobel Prize committee awards Americans Rainer Weiss, Barry Barish, and Kip Thorne the Nobel Prize in Physics for their work in the LIGO Scientific Collaboration that discovered gravitational waves. ](/news/2017/10/3/the-nobel-prize-committee-awards-americans-rainer-weiss-barry-barish-and-kip-thorne-the-nobel-prize-in-physics-for-their-work-in-the-ligo.md) _Context: Nobel Prize_
 
 ### Changes:
 
 1. [A. E. Hotchner, a friend and collaborator of the Nobel Prize-winning writer Ernest Hemingway, writing in ''The New York Times'' on the 50th anniversary of Hemingway's death, expresses his belief that the J. Edgar Hoover-led Federal Bureau of Investigation's surveillance "substantially contributed to his anguish and his suicide", with Hotchner saying he "regretfully misjudged" Hemingway's fear of the FBI. ](/news/2011/07/3/a-e-hotchner-a-friend-and-collaborator-of-the-nobel-prize-winning-writer-ernest-hemingway-writing-in-the-new-york-times-on-the-50th.md) _2017-08-25 03:33:40 (First version)_
 1. [A. E. Hotchner, a friend and collaborator of the Nobel Prize-winning writer Ernest Hemingway, writing in "The New York Times" on the 50th anniversary of Hemingway's death, expresses his belief that the J. Edgar Hoover-led Federal Bureau of Investigation's surveillance "substantially contributed to his anguish and his suicide", with Hotchner saying he "regretfully misjudged" Hemingway's fear of the FBI. ](/news/2011/07/3/a-e-hotchner-a-friend-and-collaborator-of-the-nobel-prize-winning-writer-ernest-hemingway-writing-in-the-new-york-times-on-the-50th-an.md) _(Current version)_
+
+### Related:
+
+1. ["The New York Times" reports its Moscow bureau was targeted this month by hackers, believed to be Russian. While there is no evidence that the hackers were successful, the FBI is investigating. ](/news/2016/08/23/the-new-york-times-reports-its-moscow-bureau-was-targeted-this-month-by-hackers-believed-to-be-russian-while-there-is-no-evidence-that-t.md) _Context: FBI, The New York Times_
+2. [ The "New York Times" reports that the Federal Bureau of Investigation is actively monitoring and gathering intelligence on anti-war protest movements' activities, ostensibly to detect possible terrorist activity. Opponents such as the American Civil Liberties Union criticize the practice as regressionary to the days of J. Edgar Hoover's intense monitoring of private organizations for potential communist links.](/news/2003/11/23/the-new-york-times-reports-that-the-federal-bureau-of-investigation-is-actively-monitoring-and-gathering-intelligence-on-anti-war-protest.md) _Context: FBI, J. Edgar Hoover_
+3. ["The New York Times" reports that Special Counsel Robert Mueller subpoenaed Steve Bannon last week to testify before a grand jury. The House Intelligence Committee issues a second subpoena, via powers seldomly used by Congress, following Bannon's testimony today that, while he was willing to answer questions, the White House instructed him not to answer questions related to his White House tenure. ](/news/2018/01/16/the-new-york-times-reports-that-special-counsel-robert-mueller-subpoenaed-steve-bannon-last-week-to-testify-before-a-grand-jury-the-house.md) _Context: The New York Times_
+4. [The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program, permitted by Section 702. Changes to the program will require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. ](/news/2018/01/11/the-united-states-house-of-representatives-passes-a-bill-to-reauthorize-for-a-period-of-six-years-a-key-foreign-intelligence-collection-pr.md) _Context: FBI_
+5. [The Federal Bureau of Investigation arrests Everitt Aaron Jameson, a 25-year-old former Marine, on suspicion of planning a terrorist attack in the Pier 39 area over Christmas.](/news/2017/12/22/the-federal-bureau-of-investigation-arrests-everitt-aaron-jameson-a-25-year-old-former-marine-on-suspicion-of-planning-a-terrorist-attack.md) _Context: FBI_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/28/italian-sisters-francesca-and-elisabetta-grillo-accuse-celebrity-chef-nigella-lawson-and-businessman-charles-saatchi-of-treating-them-as-wo.html)  [JSON](/news/2013/11/28/italian-sisters-francesca-and-elisabetta-grillo-accuse-celebrity-chef-nigella-lawson-and-businessman-charles-saatchi-of-treating-them-as-wo.json)  [XML](/news/2013/11/28/italian-sisters-francesca-and-elisabetta-grillo-accuse-celebrity-chef-nigella-lawson-and-businessman-charles-saatchi-of-treating-them-as-wo.xml)  
+
 ### [2013-11-28](/news/2013/11/28/index.md)
 
+##### Italian
 # Italian sisters Francesca and Elisabetta Grillo accuse celebrity chef Nigella Lawson and businessman Charles Saatchi of treating them as "worse than Filipino slaves". 
 
 The PAs of Nigella Lawson and Charles Saatchi were spending an average of £76,000 a month, a court hears.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-25137624)
 2. [Sydney Morning Herald](http://www.smh.com.au/lifestyle/celebrity/nigella-lawson-personal-assistants-treated-worse-than-filipino-slaves-court-told-20131129-2yeyy.html)

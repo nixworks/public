@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/02/21/six-abu-sayyaf-islamic-militants-including-most-wanted-leader-albader-parad-die-after-coming-into-contact-with-troops-at-the-foot-of-mou.html)  [JSON](/news/2010/02/21/six-abu-sayyaf-islamic-militants-including-most-wanted-leader-albader-parad-die-after-coming-into-contact-with-troops-at-the-foot-of-mou.json)  [XML](/news/2010/02/21/six-abu-sayyaf-islamic-militants-including-most-wanted-leader-albader-parad-die-after-coming-into-contact-with-troops-at-the-foot-of-mou.xml)  
+
 ### [2010-02-21](/news/2010/02/21/index.md)
 
+##### Abu Sayyaf
 # Six Abu Sayyaf Islamic militants, including "most wanted" leader Albader Parad, die after coming into contact with troops at the foot of Mount Tucay in Maimbung, Sulu on Jolo in the Philippines. 
 
 Albader Parad said to be among victims of Philippines army operation in Jolo.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/02/20102217219857969.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8526703.stm)
-3. [Reuters](http://www.reuters.com/article/idUSTRE61K0YU20100221)
+3. [Reuters](https://www.reuters.com/article/idUSTRE61K0YU20100221)
 3. [Cover Image](http://www.aljazeera.com)
 
 ### Related:

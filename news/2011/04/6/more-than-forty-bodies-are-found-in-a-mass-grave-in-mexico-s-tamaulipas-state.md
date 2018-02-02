@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/6/more-than-forty-bodies-are-found-in-a-mass-grave-in-mexico-s-tamaulipas-state.html)  [JSON](/news/2011/04/6/more-than-forty-bodies-are-found-in-a-mass-grave-in-mexico-s-tamaulipas-state.json)  [XML](/news/2011/04/6/more-than-forty-bodies-are-found-in-a-mass-grave-in-mexico-s-tamaulipas-state.xml)  
+
 ### [2011-04-6](/news/2011/04/6/index.md)
 
+##### Mexico
 # More than forty bodies are found in a mass grave in Mexico's Tamaulipas state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Star Tribune](http://www.startribune.com/world/119367749.html)
 

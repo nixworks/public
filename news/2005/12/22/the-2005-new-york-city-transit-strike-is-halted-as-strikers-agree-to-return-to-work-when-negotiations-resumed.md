@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/22/the-2005-new-york-city-transit-strike-is-halted-as-strikers-agree-to-return-to-work-when-negotiations-resumed.html)  [JSON](/news/2005/12/22/the-2005-new-york-city-transit-strike-is-halted-as-strikers-agree-to-return-to-work-when-negotiations-resumed.json)  [XML](/news/2005/12/22/the-2005-new-york-city-transit-strike-is-halted-as-strikers-agree-to-return-to-work-when-negotiations-resumed.xml)  
+
 ### [2005-12-22](/news/2005/12/22/index.md)
 
+##### 2005 New York City transit strike
 #  The 2005 New York City transit strike is halted as strikers agree to return to work when negotiations resumed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4552452.stm)
 

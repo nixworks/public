@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/09/12/a-massive-fire-burns-parts-of-the-boardwalk-in-seaside-park-new-jersey-numerous-decades-old-buildings-are-destroyed.html)  [JSON](/news/2013/09/12/a-massive-fire-burns-parts-of-the-boardwalk-in-seaside-park-new-jersey-numerous-decades-old-buildings-are-destroyed.json)  [XML](/news/2013/09/12/a-massive-fire-burns-parts-of-the-boardwalk-in-seaside-park-new-jersey-numerous-decades-old-buildings-are-destroyed.xml)  
+
 ### [2013-09-12](/news/2013/09/12/index.md)
 
+##### fire
 # A massive fire burns parts of the boardwalk in Seaside Park, New Jersey. Numerous decades-old buildings are destroyed. 
 
-A fire that started at a frozen custard shop Thursday ripped along the boardwalks of Seaside Park and Seaside Heights, N.J., and damaging nearly two dozen businesses along the way.
+Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News}](http://abcnews.go.com/US/wireStory/fire-rages-nj-boardwalk-damaged-sandy-20241297)
-2. [USA Today](http://www.usatoday.com/story/news/nation/2013/09/12/seaside-nj-boardwalk-fire/2806627/)
+2. [USA Today](https://www.usatoday.com/story/news/nation/2013/09/12/seaside-nj-boardwalk-fire/2806627/)
 2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

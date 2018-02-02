@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/29/john-brumby-concedes-defeat-in-the-victorian-election-ted-baillieu-becomes-the-new-premier-of-the-australian-state-of-victoria.html)  [JSON](/news/2010/11/29/john-brumby-concedes-defeat-in-the-victorian-election-ted-baillieu-becomes-the-new-premier-of-the-australian-state-of-victoria.json)  [XML](/news/2010/11/29/john-brumby-concedes-defeat-in-the-victorian-election-ted-baillieu-becomes-the-new-premier-of-the-australian-state-of-victoria.xml)  
+
 ### [2010-11-29](/news/2010/11/29/index.md)
 
+##### John Brumby
 # John Brumby concedes defeat in the Victorian election; Ted Baillieu becomes the new Premier of the Australian state of Victoria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Herald Sun](http://www.heraldsun.com.au/news/special-reports/ted-baillieu-ready-to-plan-liberal-partys-transition-to-power/story-fn5kmqy2-1225962373651)
 

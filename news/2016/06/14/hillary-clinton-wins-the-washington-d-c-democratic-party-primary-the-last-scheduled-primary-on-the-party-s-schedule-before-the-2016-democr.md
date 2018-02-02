@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/14/hillary-clinton-wins-the-washington-d-c-democra
 
 ### [2016-06-14](/news/2016/06/14/index.md)
 
+##### 2016 U.S. presidential election
 # Hillary Clinton wins the Washington D.C. Democratic Party primary, the last scheduled primary on the party's schedule before the 2016 Democratic National Convention in late July. 
 
 The D.C. primary came more than a week after Clinton was declared the presumptive nominee of the Democratic Party.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/12/burma-begins-preparations-for-its-controversial-general-elections-to-be-held-sometime-later-this-year-by-designating-electoral-constituenci.html)  [JSON](/news/2010/08/12/burma-begins-preparations-for-its-controversial-general-elections-to-be-held-sometime-later-this-year-by-designating-electoral-constituenci.json)  [XML](/news/2010/08/12/burma-begins-preparations-for-its-controversial-general-elections-to-be-held-sometime-later-this-year-by-designating-electoral-constituenci.xml)  
+
 ### [2010-08-12](/news/2010/08/12/index.md)
 
+##### Burma
 # Burma begins preparations for its controversial general elections to be held sometime later this year, by designating electoral constituencies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/190757/burma-designates-constituencies-for-rare-election)
 2. [Radio Television Hong Kong](http://www.rthk.org.hk/rthk/news/englishnews/20100813/news_20100813_56_690644.htm?)

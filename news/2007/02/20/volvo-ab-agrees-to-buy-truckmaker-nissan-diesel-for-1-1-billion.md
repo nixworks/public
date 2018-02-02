@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/02/20/volvo-ab-agrees-to-buy-truckmaker-nissan-diesel-for-1-1-billion.html)  [JSON](/news/2007/02/20/volvo-ab-agrees-to-buy-truckmaker-nissan-diesel-for-1-1-billion.json)  [XML](/news/2007/02/20/volvo-ab-agrees-to-buy-truckmaker-nissan-diesel-for-1-1-billion.xml)  
+
 ### [2007-02-20](/news/2007/02/20/index.md)
 
+##### Volvo AB
 #  Volvo AB agrees to buy truckmaker Nissan Diesel for $1.1 billion. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=aa1RWElNSV6M&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=aa1RWElNSV6M&refer=home)
 
 ### Related:
 

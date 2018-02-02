@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/21/heavy-rainfall-flooding-and-landslides-in-the-i
 
 ### [2016-09-21](/news/2016/09/21/index.md)
 
+##### Indonesia
 # Heavy rainfall, flooding, and landslides in the Indonesian province of West Java kill at least ten people and leave three others missing. 
 
 JAKARTA - Ten people have been killed in flash flooding and landslides in Indonesia, an official said Wednesday, with a search ongoing for three others still missing in the disasters on Java island. Torrential downpours triggered flash flooding in Garut in West Java early Wednesday, which quickly rose to around 2 metres (6.5 feet), national disaster agency spokesman Sutopo Purwo Nugroho said in a statement.

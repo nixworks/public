@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/16/the-queen-mary-2-arrives-at-the-port-of-shanghai-making-her-first-port-call-in-china-since-her-maiden-voyage-in-2004.html)  [JSON](/news/2010/02/16/the-queen-mary-2-arrives-at-the-port-of-shanghai-making-her-first-port-call-in-china-since-her-maiden-voyage-in-2004.json)  [XML](/news/2010/02/16/the-queen-mary-2-arrives-at-the-port-of-shanghai-making-her-first-port-call-in-china-since-her-maiden-voyage-in-2004.xml)  
+
 ### [2010-02-16](/news/2010/02/16/index.md)
 
+##### ''Queen Mary 2''
 # The "Queen Mary 2" arrives at the Port of Shanghai, making her first port call in China since her maiden voyage in 2004. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhuanet](http://news.xinhuanet.com/english2010/special/springfestival2010/2010-02/16/c_13176343.htm)
 

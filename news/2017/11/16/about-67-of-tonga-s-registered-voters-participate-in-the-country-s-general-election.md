@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/16/about-67-of-tonga-s-registered-voters-participa
 
 ### [2017-11-16](/news/2017/11/16/index.md)
 
+##### Tongan general election, 2017
 # About 67% of Tonga's registered voters participate in the country's general election. 
 
 Nuku&#039;alofa, Tonga: 67% of registered Tongan voters turned out to cast their votes in the General Election 2017 held on November 16.

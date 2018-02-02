@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/21/a-gas-blast-at-a-coal-mine-in-heilongjiang-province-northeastern-china-kills-42-people-and-traps-66.html)  [JSON](/news/2009/11/21/a-gas-blast-at-a-coal-mine-in-heilongjiang-province-northeastern-china-kills-42-people-and-traps-66.json)  [XML](/news/2009/11/21/a-gas-blast-at-a-coal-mine-in-heilongjiang-province-northeastern-china-kills-42-people-and-traps-66.xml)  
+
 ### [2009-11-21](/news/2009/11/21/index.md)
 
+##### Heilongjiang
 #  A gas blast at a coal mine in Heilongjiang province, northeastern China, kills 42 people and traps 66. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gJkosYGNyNTJ5Ic_Ua1AKy9EoM5QD9C3RVA81)
 2. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8371789.stm)

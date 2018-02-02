@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/10/mortars-hit-the-green-zone-in-baghdad-the-green-zone-has-been-attacked-at-least-80-times-since-march-killing-26.html)  [JSON](/news/2007/07/10/mortars-hit-the-green-zone-in-baghdad-the-green-zone-has-been-attacked-at-least-80-times-since-march-killing-26.json)  [XML](/news/2007/07/10/mortars-hit-the-green-zone-in-baghdad-the-green-zone-has-been-attacked-at-least-80-times-since-march-killing-26.xml)  
+
 ### [2007-07-10](/news/2007/07/10/index.md)
 
+##### Green Zone
 #  Mortars hit the Green Zone in Baghdad. The Green Zone has been attacked at least 80 times since March, killing 26. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2007/07/10/iraq/main3040677.shtml)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2007/05/24/d9fcbd8a-a642-11e2-a3f0-029118418759/image2845458x.jpg)

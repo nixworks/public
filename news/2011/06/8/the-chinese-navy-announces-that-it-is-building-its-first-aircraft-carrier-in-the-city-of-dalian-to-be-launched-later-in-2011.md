@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/8/the-chinese-navy-announces-that-it-is-building-its-first-aircraft-carrier-in-the-city-of-dalian-to-be-launched-later-in-2011.html)  [JSON](/news/2011/06/8/the-chinese-navy-announces-that-it-is-building-its-first-aircraft-carrier-in-the-city-of-dalian-to-be-launched-later-in-2011.json)  [XML](/news/2011/06/8/the-chinese-navy-announces-that-it-is-building-its-first-aircraft-carrier-in-the-city-of-dalian-to-be-launched-later-in-2011.xml)  
+
 ### [2011-06-8](/news/2011/06/8/index.md)
 
+##### China
 # The Chinese Navy announces that it is building its first aircraft carrier in the city of Dalian to be launched later in 2011. 
 
 China has officially confirmed that it is building its first ever aircraft carrier, the centrepiece for an expanding naval force.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13705204)
 1. [Cover Image](http://playlists.bbc.co.uk/news/world-asia-pacific-13705204A/playlist.sxml)

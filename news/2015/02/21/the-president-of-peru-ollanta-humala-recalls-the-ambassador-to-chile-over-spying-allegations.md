@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/02/21/the-president-of-peru-ollanta-humala-recalls-the-ambassador-to-chile-over-spying-allegations.html)  [JSON](/news/2015/02/21/the-president-of-peru-ollanta-humala-recalls-the-ambassador-to-chile-over-spying-allegations.json)  [XML](/news/2015/02/21/the-president-of-peru-ollanta-humala-recalls-the-ambassador-to-chile-over-spying-allegations.xml)  
+
 ### [2015-02-21](/news/2015/02/21/index.md)
 
+##### President
 # The President of Peru Ollanta Humala recalls the ambassador to Chile over spying allegations. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/02/22/us-peru-chile-spying-idUSKBN0LQ02020150222?feedType=RSS&feedName=worldNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/02/22/us-peru-chile-spying-idUSKBN0LQ02020150222?feedType=RSS&feedName=worldNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

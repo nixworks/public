@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/17/daniel-ortega-the-president-of-nicaragua-is-declared-the-winner-of-the-recent-presidential-election-but-opponents-protest-the-results.html)  [JSON](/news/2011/11/17/daniel-ortega-the-president-of-nicaragua-is-declared-the-winner-of-the-recent-presidential-election-but-opponents-protest-the-results.json)  [XML](/news/2011/11/17/daniel-ortega-the-president-of-nicaragua-is-declared-the-winner-of-the-recent-presidential-election-but-opponents-protest-the-results.xml)  
+
 ### [2011-11-17](/news/2011/11/17/index.md)
 
+##### Daniel Ortega
 # Daniel Ortega, the President of Nicaragua, is declared the winner of the recent Presidential election, but opponents protest the results. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/11/16/world/americas/nicaragua-elections/index.html?eref=rss_latest)
 

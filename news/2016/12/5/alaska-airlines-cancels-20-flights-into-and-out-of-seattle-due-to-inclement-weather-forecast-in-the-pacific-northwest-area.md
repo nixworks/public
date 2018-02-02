@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/5/alaska-airlines-cancels-20-flights-into-and-out-
 
 ### [2016-12-5](/news/2016/12/5/index.md)
 
+##### Alaska Airlines
 # Alaska Airlines cancels 20 flights into and out of Seattle due to inclement weather forecast in the Pacific Northwest area. 
 
 

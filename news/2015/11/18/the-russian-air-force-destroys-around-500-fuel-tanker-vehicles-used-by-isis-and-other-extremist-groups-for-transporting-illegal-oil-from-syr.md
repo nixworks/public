@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/11/18/the-russian-air-force-destroys-around-500-fuel-tanker-vehicles-used-by-isis-and-other-extremist-groups-for-transporting-illegal-oil-from-syr.html)  [JSON](/news/2015/11/18/the-russian-air-force-destroys-around-500-fuel-tanker-vehicles-used-by-isis-and-other-extremist-groups-for-transporting-illegal-oil-from-syr.json)  [XML](/news/2015/11/18/the-russian-air-force-destroys-around-500-fuel-tanker-vehicles-used-by-isis-and-other-extremist-groups-for-transporting-illegal-oil-from-syr.xml)  
+
 ### [2015-11-18](/news/2015/11/18/index.md)
 
+##### Syrian Civil War
 # The Russian Air Force destroys around 500 fuel tanker vehicles used by ISIS and other extremist groups for transporting illegal oil from Syria to Iraq. 
 
 Around 500 fuel tanker vehicles transporting illegal oil from Syria to Iraq for processing have been destroyed by Russia’s Air Forces, the General Staff said.
 
 
-### Source:
+### Sources:
 
 1. [RT](https://www.rt.com/news/322614-russian-warplanes-isis-oil-trucks/)
-2. [Reuters](http://www.reuters.com/article/2015/11/18/us-mideast-crisis-syria-ceasefire-idUSKCN0T72VH20151118#TBdBGOqaCeZQ4qWj.97)
+2. [Reuters](https://www.reuters.com/article/2015/11/18/us-mideast-crisis-syria-ceasefire-idUSKCN0T72VH20151118#TBdBGOqaCeZQ4qWj.97)
 2. [Cover Image](https://img.rt.com/files/2015.11/article/564caa55c461880b0e8b45e1.jpg)
 
 ### Related:

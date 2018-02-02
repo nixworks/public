@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/9/iraq-disarmament-crisis-in-an-interview-on-bbc-radio-4-clare-short-a-member-of-tony-blair-s-cabinet-describes-his-stance-on-iraq-as-de.html)  [JSON](/news/2003/03/9/iraq-disarmament-crisis-in-an-interview-on-bbc-radio-4-clare-short-a-member-of-tony-blair-s-cabinet-describes-his-stance-on-iraq-as-de.json)  [XML](/news/2003/03/9/iraq-disarmament-crisis-in-an-interview-on-bbc-radio-4-clare-short-a-member-of-tony-blair-s-cabinet-describes-his-stance-on-iraq-as-de.xml)  
+
 ### [2003-03-9](/news/2003/03/9/index.md)
 
+##### Iraq disarmament crisis
 #  Iraq disarmament crisis: In an interview on BBC Radio 4, Clare Short, a member of Tony Blair's cabinet, describes his stance on Iraq as "deeply reckless", and says she would resign if he committed the UK to war without an unambiguous mandate from the United Nations.
 
 

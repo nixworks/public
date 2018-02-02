@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/11/prime-minister-of-australia-julia-gillard-announces-her-new-cabinet-with-former-pm-kevin-rudd-named-as-the-minister-for-foreign-affairs.html)  [JSON](/news/2010/09/11/prime-minister-of-australia-julia-gillard-announces-her-new-cabinet-with-former-pm-kevin-rudd-named-as-the-minister-for-foreign-affairs.json)  [XML](/news/2010/09/11/prime-minister-of-australia-julia-gillard-announces-her-new-cabinet-with-former-pm-kevin-rudd-named-as-the-minister-for-foreign-affairs.xml)  
+
 ### [2010-09-11](/news/2010/09/11/index.md)
 
+##### Australian Prime Minister
 # Prime Minister of Australia Julia Gillard announces her new Cabinet, with former PM Kevin Rudd named as the Minister for Foreign Affairs. 
 
 Prime Minister Julia Gillard has announced her new-look Cabinet after earlier confirming that former prime minister Kevin Rudd would be given the Foreign Affairs portfolio.
 
 
-### Source:
+### Sources:
 
 1. [ABC Online](http://www.abc.net.au/news/stories/2010/09/11/3009113.htm?section=justin)
 1. [Cover Image](http://www.abc.net.au/news/image/2257014-1x1-700x700.jpg)

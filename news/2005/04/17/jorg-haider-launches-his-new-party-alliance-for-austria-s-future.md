@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/17/jorg-haider-launches-his-new-party-alliance-for-austria-s-future.html)  [JSON](/news/2005/04/17/jorg-haider-launches-his-new-party-alliance-for-austria-s-future.json)  [XML](/news/2005/04/17/jorg-haider-launches-his-new-party-alliance-for-austria-s-future.xml)  
+
 ### [2005-04-17](/news/2005/04/17/index.md)
 
+##### Jrg Haider
 #  Jrg Haider launches his new party, Alliance for Austria's Future. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,1564,1554701,00.html)
 

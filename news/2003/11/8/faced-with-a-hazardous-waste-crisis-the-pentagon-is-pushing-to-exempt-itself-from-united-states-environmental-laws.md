@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/8/faced-with-a-hazardous-waste-crisis-the-pentagon-is-pushing-to-exempt-itself-from-united-states-environmental-laws.html)  [JSON](/news/2003/11/8/faced-with-a-hazardous-waste-crisis-the-pentagon-is-pushing-to-exempt-itself-from-united-states-environmental-laws.json)  [XML](/news/2003/11/8/faced-with-a-hazardous-waste-crisis-the-pentagon-is-pushing-to-exempt-itself-from-united-states-environmental-laws.xml)  
+
 ### [2003-11-8](/news/2003/11/8/index.md)
 
+##### United States military
 #  Faced with a hazardous-waste crisis, The Pentagon is pushing to exempt itself from United States environmental laws.
 
 

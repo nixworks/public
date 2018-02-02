@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/23/vitit-muntarbhorn-united-nations-special-rapporteur-for-north-korea-says-the-country-should-improve-its-abysmal-rights-record-adding-i.html)  [JSON](/news/2009/10/23/vitit-muntarbhorn-united-nations-special-rapporteur-for-north-korea-says-the-country-should-improve-its-abysmal-rights-record-adding-i.json)  [XML](/news/2009/10/23/vitit-muntarbhorn-united-nations-special-rapporteur-for-north-korea-says-the-country-should-improve-its-abysmal-rights-record-adding-i.xml)  
+
 ### [2009-10-23](/news/2009/10/23/index.md)
 
+##### Vitit Muntarbhorn
 #  Vitit Muntarbhorn, United Nations Special Rapporteur for North Korea, says the country should improve its "abysmal" rights record, adding it should provide food to over 8 million citizens. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/10/200910234747328639.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8321670.stm)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/08/6/a-truck-bomb-in-tal-afar-in-northern-iraq-kills-at-least-25-people-and-destroys-10-homes.html)  [JSON](/news/2007/08/6/a-truck-bomb-in-tal-afar-in-northern-iraq-kills-at-least-25-people-and-destroys-10-homes.json)  [XML](/news/2007/08/6/a-truck-bomb-in-tal-afar-in-northern-iraq-kills-at-least-25-people-and-destroys-10-homes.xml)  
+
 ### [2007-08-6](/news/2007/08/6/index.md)
 
+##### truck bomb
 #  A truck bomb in Tal Afar in northern Iraq kills at least 25 people and destroys 10 homes. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSGRA62190420070806?feedType=RSS)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSGRA62190420070806?feedType=RSS)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

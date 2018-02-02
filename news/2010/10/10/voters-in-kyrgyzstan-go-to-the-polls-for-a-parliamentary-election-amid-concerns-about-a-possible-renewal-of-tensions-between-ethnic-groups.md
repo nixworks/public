@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/10/voters-in-kyrgyzstan-go-to-the-polls-for-a-parliamentary-election-amid-concerns-about-a-possible-renewal-of-tensions-between-ethnic-groups.html)  [JSON](/news/2010/10/10/voters-in-kyrgyzstan-go-to-the-polls-for-a-parliamentary-election-amid-concerns-about-a-possible-renewal-of-tensions-between-ethnic-groups.json)  [XML](/news/2010/10/10/voters-in-kyrgyzstan-go-to-the-polls-for-a-parliamentary-election-amid-concerns-about-a-possible-renewal-of-tensions-between-ethnic-groups.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### Kyrgyzstan
 # Voters in Kyrgyzstan go to the polls for a parliamentary election amid concerns about a possible renewal of tensions between ethnic groups. With 50 percent of the vote counted, the Ata-Zhurt party has received the most votes so far but no party is close to achieving a majority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11508349)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11511579)

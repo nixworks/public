@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2013/08/2/an-ammunition-depot-explodes-in-homs-syria-killing-at-least-40-people-and-critically-injuring-many-more.html)  [JSON](/news/2013/08/2/an-ammunition-depot-explodes-in-homs-syria-killing-at-least-40-people-and-critically-injuring-many-more.json)  [XML](/news/2013/08/2/an-ammunition-depot-explodes-in-homs-syria-killing-at-least-40-people-and-critically-injuring-many-more.xml)  
+
 ### [2013-08-2](/news/2013/08/2/index.md)
 
+##### Homs
 # An ammunition depot explodes in Homs, Syria, killing at least 40 people and critically injuring many more. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sentinel Source](http://www.sentinelsource.com/news/national_world/at-least-killed-in-syria-blast/article_4fda87b6-2fe5-5944-be2f-b44b382a4a8f.html)
+
+### Changes:
+
+1. [Syrian Civil War:An ammunition depot explodes in Homs, Syria, killing at least 40 people and critically injuring many more. ](/news/2013/08/2/syrian-civil-war-pan-ammunition-depot-explodes-in-homs-syria-killing-at-least-40-people-and-critically-injuring-many-more.md) _2017-08-25 03:39:05 (First version)_
+2. [Syrian Civil War:: An ammunition depot explodes in Homs, Syria, killing at least 40 people and critically injuring many more. ](/news/2013/08/2/syrian-civil-war-an-ammunition-depot-explodes-in-homs-syria-killing-at-least-40-people-and-critically-injuring-many-more.md) _2017-08-27 03:39:20 (Update)_
+2. [An ammunition depot explodes in Homs, Syria, killing at least 40 people and critically injuring many more. ](/news/2013/08/2/an-ammunition-depot-explodes-in-homs-syria-killing-at-least-40-people-and-critically-injuring-many-more.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [Twin bomb blasts hit the Syrian city of Homs with at least 57 people reportedly killed and more than 100 injured. The Islamic State of Iraq and the Levant claims responsibility. ](/news/2016/02/21/twin-bomb-blasts-hit-the-syrian-city-of-homs-with-at-least-57-people-reportedly-killed-and-more-than-100-injured-the-islamic-state-of-iraq.md) _Context: Homs, Syria_
 4. [At least 32 people are killed and 90 injured following a car bomb and suicide-bomb attack in the al-Zahra district of the Syrian city of Homs. ](/news/2015/12/28/at-least-32-people-are-killed-and-90-injured-following-a-car-bomb-and-suicide-bomb-attack-in-the-al-zahra-district-of-the-syrian-city-of-hom.md) _Context: Homs, Syria_
 5. [Sixteen people are killed and many more injured by a car bomb and a second, delayed explosion near a hospital in Syria's mainly Alawite, government-controlled neighborhood of al-Zahra, east of Homs' old city, the Syrian Observatory for Human Rights reports. The attack comes just five days after the government and rebels agreed on a local ceasefire in the western al-Waer suburb. ](/news/2015/12/12/sixteen-people-are-killed-and-many-more-injured-by-a-car-bomb-and-a-second-delayed-explosion-near-a-hospital-in-syria-s-mainly-alawite-gov.md) _Context: Homs, Syria_
-
-### Changes:
-
-1. [Syrian Civil War:An ammunition depot explodes in Homs, Syria, killing at least 40 people and critically injuring many more. ](/news/2013/08/2/syrian-civil-war-pan-ammunition-depot-explodes-in-homs-syria-killing-at-least-40-people-and-critically-injuring-many-more.md) _2017-08-25 03:39:05 (First version)_
-2. [Syrian Civil War:: An ammunition depot explodes in Homs, Syria, killing at least 40 people and critically injuring many more. ](/news/2013/08/2/syrian-civil-war-an-ammunition-depot-explodes-in-homs-syria-killing-at-least-40-people-and-critically-injuring-many-more.md) _2017-08-27 03:39:20 (Update)_
-2. [An ammunition depot explodes in Homs, Syria, killing at least 40 people and critically injuring many more. ](/news/2013/08/2/an-ammunition-depot-explodes-in-homs-syria-killing-at-least-40-people-and-critically-injuring-many-more.md) _(Current version)_

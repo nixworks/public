@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/the-president-of-colombia-juan-manuel-santos-condemns-a-farc-ambush-that-killed-a-senior-police-officer.html)  [JSON](/news/2011/06/29/the-president-of-colombia-juan-manuel-santos-condemns-a-farc-ambush-that-killed-a-senior-police-officer.json)  [XML](/news/2011/06/29/the-president-of-colombia-juan-manuel-santos-condemns-a-farc-ambush-that-killed-a-senior-police-officer.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### Colombian President
 # The President of Colombia Juan Manuel Santos condemns a FARC ambush that killed a senior police officer. 
 
 Colombian President Juan Manuel Santos condemns an attack by left-wing Farc rebels which has killed a police commander in Antioquia province.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-13967904)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/53770000/gif/_53770053_colombia_antioquia_0611.gif)

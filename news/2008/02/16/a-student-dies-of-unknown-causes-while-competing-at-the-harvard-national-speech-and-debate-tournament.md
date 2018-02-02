@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/16/a-student-dies-of-unknown-causes-while-competing-at-the-harvard-national-speech-and-debate-tournament.html)  [JSON](/news/2008/02/16/a-student-dies-of-unknown-causes-while-competing-at-the-harvard-national-speech-and-debate-tournament.json)  [XML](/news/2008/02/16/a-student-dies-of-unknown-causes-while-competing-at-the-harvard-national-speech-and-debate-tournament.xml)  
+
 ### [2008-02-16](/news/2008/02/16/index.md)
 
+##### Harvard University
 #  A student dies of unknown causes while competing at the Harvard National Speech and Debate Tournament. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://cbs3.com/topstories/Yuriy.Tutko.Holy.2.657501.html)
 

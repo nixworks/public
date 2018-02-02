@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/26/video-footage-emerges-casting-doubt-on-the-integrity-of-the-recent-afghan-parliamentary-election-and-showing-fake-votes-being-filled-in-as-f.html)  [JSON](/news/2010/09/26/video-footage-emerges-casting-doubt-on-the-integrity-of-the-recent-afghan-parliamentary-election-and-showing-fake-votes-being-filled-in-as-f.json)  [XML](/news/2010/09/26/video-footage-emerges-casting-doubt-on-the-integrity-of-the-recent-afghan-parliamentary-election-and-showing-fake-votes-being-filled-in-as-f.xml)  
+
 ### [2010-09-26](/news/2010/09/26/index.md)
 
+##### parliamentary election
 # Video footage emerges casting doubt on the integrity of the recent Afghan parliamentary election and showing fake votes being filled in as fraud police watch on. 
 
 Amateur footage appears to show fake votes being filled in as border police tasked with stopping poll fraud look on.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/09/201092614267602479.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/25/20109258563693580_20.jpg)

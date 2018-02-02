@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/02/16/heavy-snowfall-hits-tokyo-and-other-parts-of-eastern-japan-killing-at-least-12-people-and-disrupting-power-and-airline-flights.html)  [JSON](/news/2014/02/16/heavy-snowfall-hits-tokyo-and-other-parts-of-eastern-japan-killing-at-least-12-people-and-disrupting-power-and-airline-flights.json)  [XML](/news/2014/02/16/heavy-snowfall-hits-tokyo-and-other-parts-of-eastern-japan-killing-at-least-12-people-and-disrupting-power-and-airline-flights.xml)  
+
 ### [2014-02-16](/news/2014/02/16/index.md)
 
+##### Tokyo
 # Heavy snowfall hits Tokyo and other parts of eastern Japan, killing at least 12 people and disrupting power and airline flights. 
 
 Heavy snow hit Tokyo and other parts of eastern Japan over the weekend, leaving 12 people dead, hundreds of thousands of households without electricity, and causing major disruptions to air and ground traffic.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/02/16/us-japan-snow-idUSBREA1F02J20140216?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140216&t=2&i=839989334&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1F0H8Q00)
+1. [Reuters](https://www.reuters.com/article/2014/02/16/us-japan-snow-idUSBREA1F02J20140216?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140216&t=2&i=839989334&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA1F0H8Q00)
 
 ### Related:
 

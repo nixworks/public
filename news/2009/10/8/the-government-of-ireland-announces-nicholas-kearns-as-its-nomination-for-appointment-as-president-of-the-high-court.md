@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/8/the-government-of-ireland-announces-nicholas-kearns-as-its-nomination-for-appointment-as-president-of-the-high-court.html)  [JSON](/news/2009/10/8/the-government-of-ireland-announces-nicholas-kearns-as-its-nomination-for-appointment-as-president-of-the-high-court.json)  [XML](/news/2009/10/8/the-government-of-ireland-announces-nicholas-kearns-as-its-nomination-for-appointment-as-president-of-the-high-court.xml)  
+
 ### [2009-10-8](/news/2009/10/8/index.md)
 
+##### Government of Ireland
 #  The Government of Ireland announces Nicholas Kearns as its nomination for appointment as President of the High Court. 
 
 Mr Justice Nicholas Kearns has been nominated for appointment by the President to the post of President of the High Court, the&hellip;
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/1008/breaking35.html)
 1. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/11/the-duke-of-edinburgh-on-a-trip-to-exeter-devon-with-elizabeth-ii-of-the-united-kingdom-asks-a-female-sea-cadet-if-she-works-at-a-strip-c.html)  [JSON](/news/2010/03/11/the-duke-of-edinburgh-on-a-trip-to-exeter-devon-with-elizabeth-ii-of-the-united-kingdom-asks-a-female-sea-cadet-if-she-works-at-a-strip-c.json)  [XML](/news/2010/03/11/the-duke-of-edinburgh-on-a-trip-to-exeter-devon-with-elizabeth-ii-of-the-united-kingdom-asks-a-female-sea-cadet-if-she-works-at-a-strip-c.xml)  
+
 ### [2010-03-11](/news/2010/03/11/index.md)
 
+##### Duke of Edinburgh
 # The Duke of Edinburgh, on a trip to Exeter, Devon with Elizabeth II of the United Kingdom, asks a female sea cadet if she works at a strip club before concluding that it is "probably too cold for that anyway". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/news/newstopics/theroyalfamily/7423530/Duke-of-Edinburgh-asks-female-sea-cadet-if-she-works-at-a-strip-club.html)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/prince-philip-in-strip-club-gaffe-20100312-q4hy.html)

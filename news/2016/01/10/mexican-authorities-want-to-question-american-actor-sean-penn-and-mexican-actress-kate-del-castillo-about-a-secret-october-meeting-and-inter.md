@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/10/mexican-authorities-want-to-question-american-a
 
 ### [2016-01-10](/news/2016/01/10/index.md)
 
+##### Mexican Drug War
 # Mexican authorities want to question American actor Sean Penn and Mexican actress Kate del Castillo about a secret October meeting and interview with Joaquin Guzman, published by "Rolling Stone" magazine yesterday. Mexico Attorney General Arely Gomez says it was the Penn interview that led authorities to a Guzman hiding place. 
 
 

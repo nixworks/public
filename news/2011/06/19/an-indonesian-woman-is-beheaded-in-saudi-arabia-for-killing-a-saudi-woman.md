@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/19/an-indonesian-woman-is-beheaded-in-saudi-arabia-for-killing-a-saudi-woman.html)  [JSON](/news/2011/06/19/an-indonesian-woman-is-beheaded-in-saudi-arabia-for-killing-a-saudi-woman.json)  [XML](/news/2011/06/19/an-indonesian-woman-is-beheaded-in-saudi-arabia-for-killing-a-saudi-woman.xml)  
+
 ### [2011-06-19](/news/2011/06/19/index.md)
 
+##### Indonesia
 # An Indonesian woman is beheaded in Saudi Arabia for killing a Saudi woman. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2011/06/19/ri-woman-beheaded-saudi-arabia.html)
 

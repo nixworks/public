@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/21/per-wa-stberg-a-member-of-the-swedish-academy-s
 
 ### [2016-10-21](/news/2016/10/21/index.md)
 
+##### Per Wastberg
 # Per Wastberg, a member of the Swedish Academy, says that songwriter and artist Bob Dylan has not yet indicated whether he intends to accept the 2016 Nobel Prize in Literature. 
 
 Singer-songwriter’s failure to respond to phone calls from the Swedish Academy after being awarded the Nobel literature prize ‘unprecedented’

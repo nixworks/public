@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/12/24/a-former-official-of-the-central-bank-of-the-people-s-republic-of-china-states-that-the-people-s-bank-of-china-could-lower-the-country-s-res.html)  [JSON](/news/2011/12/24/a-former-official-of-the-central-bank-of-the-people-s-republic-of-china-states-that-the-people-s-bank-of-china-could-lower-the-country-s-res.json)  [XML](/news/2011/12/24/a-former-official-of-the-central-bank-of-the-people-s-republic-of-china-states-that-the-people-s-bank-of-china-could-lower-the-country-s-res.xml)  
+
 ### [2011-12-24](/news/2011/12/24/index.md)
 
+##### China
 # A former official of the central bank of the People's Republic of China states that the People's Bank of China could lower the country's reserve requirements in 2012. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/25/us-china-reserves-idUSTRE7BO01420111225)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/12/25/us-china-reserves-idUSTRE7BO01420111225)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

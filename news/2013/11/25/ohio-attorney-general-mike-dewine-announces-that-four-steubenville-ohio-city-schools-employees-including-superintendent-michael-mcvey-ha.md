@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/25/ohio-attorney-general-mike-dewine-announces-that-four-steubenville-ohio-city-schools-employees-including-superintendent-michael-mcvey-ha.html)  [JSON](/news/2013/11/25/ohio-attorney-general-mike-dewine-announces-that-four-steubenville-ohio-city-schools-employees-including-superintendent-michael-mcvey-ha.json)  [XML](/news/2013/11/25/ohio-attorney-general-mike-dewine-announces-that-four-steubenville-ohio-city-schools-employees-including-superintendent-michael-mcvey-ha.xml)  
+
 ### [2013-11-25](/news/2013/11/25/index.md)
 
+##### Ohio
 # Ohio Attorney General Mike DeWine announces that four Steubenville, Ohio, City Schools employees, including Superintendent Michael McVey, have been indicted on felony and-or misdemeanor charges (obstruction, making false statements, etc.) relating to the 2012 Steubenville rape case. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/11/25/justice/ohio-steubenville-rape-case/index.html?hpt=hp_t1)
 

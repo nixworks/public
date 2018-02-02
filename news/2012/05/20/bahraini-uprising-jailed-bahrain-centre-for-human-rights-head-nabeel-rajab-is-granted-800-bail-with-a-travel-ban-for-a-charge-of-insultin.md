@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/20/bahraini-uprising-jailed-bahrain-centre-for-human-rights-head-nabeel-rajab-is-granted-800-bail-with-a-travel-ban-for-a-charge-of-insultin.html)  [JSON](/news/2012/05/20/bahraini-uprising-jailed-bahrain-centre-for-human-rights-head-nabeel-rajab-is-granted-800-bail-with-a-travel-ban-for-a-charge-of-insultin.json)  [XML](/news/2012/05/20/bahraini-uprising-jailed-bahrain-centre-for-human-rights-head-nabeel-rajab-is-granted-800-bail-with-a-travel-ban-for-a-charge-of-insultin.xml)  
+
 ### [2012-05-20](/news/2012/05/20/index.md)
 
+##### Bahraini uprising (2011-present)
 # Bahraini uprising: Jailed Bahrain Centre for Human Rights head Nabeel Rajab is granted $800 bail with a travel ban for a charge of "insulting an official authority", though according to his lawyer he is still locked up on a second charge. 
 
 Jailed Nabeel Rajab, head of Bahrain human rights group, granted $800 bail but remains jailed on a second charge.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012520175956728676.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/6//2012569821498621_20.jpg)

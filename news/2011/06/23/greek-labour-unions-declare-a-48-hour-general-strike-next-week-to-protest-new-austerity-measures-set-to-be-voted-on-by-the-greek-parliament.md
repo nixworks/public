@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/23/greek-labour-unions-declare-a-48-hour-general-strike-next-week-to-protest-new-austerity-measures-set-to-be-voted-on-by-the-greek-parliament.html)  [JSON](/news/2011/06/23/greek-labour-unions-declare-a-48-hour-general-strike-next-week-to-protest-new-austerity-measures-set-to-be-voted-on-by-the-greek-parliament.json)  [XML](/news/2011/06/23/greek-labour-unions-declare-a-48-hour-general-strike-next-week-to-protest-new-austerity-measures-set-to-be-voted-on-by-the-greek-parliament.xml)  
+
 ### [2011-06-23](/news/2011/06/23/index.md)
 
+##### Greek labour unions
 # Greek labour unions declare a 48-hour general strike next week to protest new austerity measures set to be voted on by the Greek parliament. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/europe/06/23/greece.strike/index.html)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/europe/06/23/greece.strike/tzvids.greece.strikes.planned.jpg)

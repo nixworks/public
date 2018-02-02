@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/14/the-afghan-ministry-of-defense-reports-as-many-
 
 ### [2017-04-14](/news/2017/04/14/index.md)
 
+##### War in Afghanistan
 # The Afghan Ministry of Defense reports as many as 36 suspected ISIL militants were killed while no civilians were harmed in yesterday's bombing in Nangarhar Province using the so-called "mother of all bombs" (GBU-43). The ministry spokesman added these deaths have not been independently verified. 
 
  Former Afghan president Hamid Karzai accused his successor on Saturday of committing treason by allowing the U.S. military to drop the largest conventional bom

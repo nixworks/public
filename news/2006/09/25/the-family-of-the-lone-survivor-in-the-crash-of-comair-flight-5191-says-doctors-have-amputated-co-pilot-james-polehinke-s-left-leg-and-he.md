@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/25/the-family-of-the-lone-survivor-in-the-crash-of-comair-flight-5191-says-doctors-have-amputated-co-pilot-james-polehinke-s-left-leg-and-he.html)  [JSON](/news/2006/09/25/the-family-of-the-lone-survivor-in-the-crash-of-comair-flight-5191-says-doctors-have-amputated-co-pilot-james-polehinke-s-left-leg-and-he.json)  [XML](/news/2006/09/25/the-family-of-the-lone-survivor-in-the-crash-of-comair-flight-5191-says-doctors-have-amputated-co-pilot-james-polehinke-s-left-leg-and-he.xml)  
+
 ### [2006-09-25](/news/2006/09/25/index.md)
 
+##### Comair Flight 5191
 #  The family of the lone survivor in the crash of Comair Flight 5191 says doctors have amputated co-pilot James Polehinke's left leg, and he has no memory of the crash. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC Lexington](http://www.lex18.com/Global/story.asp?S=5455543&nav=menu203_1_19)
 

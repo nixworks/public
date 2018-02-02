@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/30/former-president-of-indonesia-abdurrahman-wahid-dies-at-the-age-of-69.html)  [JSON](/news/2009/12/30/former-president-of-indonesia-abdurrahman-wahid-dies-at-the-age-of-69.json)  [XML](/news/2009/12/30/former-president-of-indonesia-abdurrahman-wahid-dies-at-the-age-of-69.xml)  
+
 ### [2009-12-30](/news/2009/12/30/index.md)
 
+##### President of Indonesia
 #  Former President of Indonesia Abdurrahman Wahid dies at the age of 69. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8434989.stm)
 2. [Jakarta Globe](http://thejakartaglobe.com/home/former-president-abdurrahman-wahid-dies/350091)

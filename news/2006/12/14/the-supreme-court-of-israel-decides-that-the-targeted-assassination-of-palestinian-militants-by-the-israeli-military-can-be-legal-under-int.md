@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/14/the-supreme-court-of-israel-decides-that-the-targeted-assassination-of-palestinian-militants-by-the-israeli-military-can-be-legal-under-int.html)  [JSON](/news/2006/12/14/the-supreme-court-of-israel-decides-that-the-targeted-assassination-of-palestinian-militants-by-the-israeli-military-can-be-legal-under-int.json)  [XML](/news/2006/12/14/the-supreme-court-of-israel-decides-that-the-targeted-assassination-of-palestinian-militants-by-the-israeli-military-can-be-legal-under-int.xml)  
+
 ### [2006-12-14](/news/2006/12/14/index.md)
 
+##### Supreme Court
 #  The Supreme Court of Israel decides that the targeted assassination of Palestinian militants by the Israeli military can be legal under international law. 
 
 The Israeli military began carrying out targeted killings of Palestinian militants after the breakdown of the Israeli-Palestinian peace process and the subsequent outbreak of violence in the fall of 2000, saying the tactic was the most effective way to stop Palestinian bombers targeting Israeli population centers. In the most widely criticized operation, in July 2002, the air force dropped a 1-ton bomb that killed Salah Shehadeh, a top Hamas operative wanted for masterminding suicide bombings, along with his bodyguard and 13 bystanders, including nine children. The Shehadeh killing led some international human rights groups to call for criminal charges against Israeli officers, including the current chief of staff, Lt. Gen. Dan Halutz. The targeted killings are typically carried out from the air, with helicopter gunships or unmanned drones firing missiles at cars in Palestinian cities, acting on intelligence information from agents and informers on the ground.
 
 
-### Source:
+### Sources:
 
 1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/world/4401484.html)
 1. [Cover Image](http://www.chron.com/img/pages/article/opengraph_default.jpg)

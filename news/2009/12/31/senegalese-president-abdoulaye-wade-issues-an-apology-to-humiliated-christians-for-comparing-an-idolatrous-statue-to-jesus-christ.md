@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/31/senegalese-president-abdoulaye-wade-issues-an-apology-to-humiliated-christians-for-comparing-an-idolatrous-statue-to-jesus-christ.html)  [JSON](/news/2009/12/31/senegalese-president-abdoulaye-wade-issues-an-apology-to-humiliated-christians-for-comparing-an-idolatrous-statue-to-jesus-christ.json)  [XML](/news/2009/12/31/senegalese-president-abdoulaye-wade-issues-an-apology-to-humiliated-christians-for-comparing-an-idolatrous-statue-to-jesus-christ.xml)  
+
 ### [2009-12-31](/news/2009/12/31/index.md)
 
+##### Senegal
 #  Senegalese President Abdoulaye Wade issues an apology to "humiliated" Christians for comparing an "idolatrous" statue to Jesus Christ. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8435805.stm)
 2. [Daily Nation](http://www.nation.co.ke/News/africa/-/1066/833702/-/1251by7z/-/)

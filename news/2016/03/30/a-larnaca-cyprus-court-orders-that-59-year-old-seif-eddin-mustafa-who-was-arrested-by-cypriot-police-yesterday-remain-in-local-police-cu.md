@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/30/a-larnaca-cyprus-court-orders-that-59-year-old-
 
 ### [2016-03-30](/news/2016/03/30/index.md)
 
+##### EgyptAir Flight 181
 # A Larnaca, Cyprus, court orders that 59-year-old Seif Eddin Mustafa, who was arrested by Cypriot police yesterday, remain in local police custody for eight days to assist Cyprus's own investigation. Mustafa faces charges of hijacking, illegal possession of explosives, kidnapping, and threats to commit violence. It's unclear if Mustafa had any explosives; the bomb belt he wore was fake, and officials are waiting for testing results on unidentified liquids found among his possessions. 
 
 LARNACA, Cyprus - First the hijacker said the women could leave. All the children, too. Then the man in the suicide vest agreed that all Egyptians and others from Muslim backgrounds would be allowed to escape from the plane.

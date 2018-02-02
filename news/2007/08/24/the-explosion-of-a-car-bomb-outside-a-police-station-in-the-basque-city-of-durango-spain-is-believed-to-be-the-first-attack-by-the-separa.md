@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/24/the-explosion-of-a-car-bomb-outside-a-police-station-in-the-basque-city-of-durango-spain-is-believed-to-be-the-first-attack-by-the-separa.html)  [JSON](/news/2007/08/24/the-explosion-of-a-car-bomb-outside-a-police-station-in-the-basque-city-of-durango-spain-is-believed-to-be-the-first-attack-by-the-separa.json)  [XML](/news/2007/08/24/the-explosion-of-a-car-bomb-outside-a-police-station-in-the-basque-city-of-durango-spain-is-believed-to-be-the-first-attack-by-the-separa.xml)  
+
 ### [2007-08-24](/news/2007/08/24/index.md)
 
+##### explosion
 #  The explosion of a car bomb outside a police station in the Basque city of Durango, Spain, is believed to be the first attack by the separatist group ETA since it called off a ceasefire in June. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/europe/08/24/spain.explosion.ap/index.html?eref=rss_world)
 

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/10/19/shareholders-from-both-companies-overwhelmingly-approve-aetna-s-acquisition-of-humana-for-37-billion.html)  [JSON](/news/2015/10/19/shareholders-from-both-companies-overwhelmingly-approve-aetna-s-acquisition-of-humana-for-37-billion.json)  [XML](/news/2015/10/19/shareholders-from-both-companies-overwhelmingly-approve-aetna-s-acquisition-of-humana-for-37-billion.xml)  
+
 ### [2015-10-19](/news/2015/10/19/index.md)
 
+##### Aetna
 # Shareholders from both companies overwhelmingly approve Aetna's acquisition of Humana for $37 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Louisville Courier-Journal](http://www.courier-journal.com/story/news/local/2015/10/19/aetna-shareholders-ok-37-billion-humana-deal/74230060/)
-2. [Reuters](http://www.reuters.com/article/2015/10/19/humana-ma-aetna-idUSL3N12J5J120151019)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/2015/10/19/humana-ma-aetna-idUSL3N12J5J120151019)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

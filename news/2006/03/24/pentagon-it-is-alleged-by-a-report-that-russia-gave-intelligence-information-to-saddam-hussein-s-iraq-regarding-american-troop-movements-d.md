@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/24/pentagon-it-is-alleged-by-a-report-that-russia-gave-intelligence-information-to-saddam-hussein-s-iraq-regarding-american-troop-movements-d.html)  [JSON](/news/2006/03/24/pentagon-it-is-alleged-by-a-report-that-russia-gave-intelligence-information-to-saddam-hussein-s-iraq-regarding-american-troop-movements-d.json)  [XML](/news/2006/03/24/pentagon-it-is-alleged-by-a-report-that-russia-gave-intelligence-information-to-saddam-hussein-s-iraq-regarding-american-troop-movements-d.xml)  
+
 ### [2006-03-24](/news/2006/03/24/index.md)
 
+##### United States military
 #  Pentagon: It is alleged by a report that Russia gave intelligence information to Saddam Hussein's Iraq regarding American troop movements during the early stages of the Iraq War. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/newsarticle.aspx?type=politicsNews&storyid=2006-03-24T203341Z_01_N24241162_RTRUKOC_0_US-IRAQ-USA-RUSSIA.xml&rpc=22)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

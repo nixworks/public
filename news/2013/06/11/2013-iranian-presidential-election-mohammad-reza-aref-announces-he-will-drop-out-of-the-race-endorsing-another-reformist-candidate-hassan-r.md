@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/11/2013-iranian-presidential-election-mohammad-reza-aref-announces-he-will-drop-out-of-the-race-endorsing-another-reformist-candidate-hassan-r.html)  [JSON](/news/2013/06/11/2013-iranian-presidential-election-mohammad-reza-aref-announces-he-will-drop-out-of-the-race-endorsing-another-reformist-candidate-hassan-r.json)  [XML](/news/2013/06/11/2013-iranian-presidential-election-mohammad-reza-aref-announces-he-will-drop-out-of-the-race-endorsing-another-reformist-candidate-hassan-r.xml)  
+
 ### [2013-06-11](/news/2013/06/11/index.md)
 
+##### presidential
 # 2013 Iranian presidential election: Mohammad Reza Aref announces he will drop out of the race endorsing another reformist candidate Hassan Rouhani, to give the reform movement a better chance to win the election. 
 
 Mohammad Reza Aref throws supports behind the only centrist candidate in presidential race, who will face-off against 5 conservatives
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://www.cbsnews.com/8301-202_162-57588663/iran-pro-reform-candidate-mohammad-reza-aref-withdraws-from-election-to-boost-centrists-campaign/)
 2. [PressTV](http://www.presstv.ir/detail/2013/06/11/308317/aref-drops-out-of-presidential-race/)

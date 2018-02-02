@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/5/two-militants-one-wearing-a-suicide-vest-kill-two-saudi-arabian-border-guards-and-a-general-near-the-border-with-iraq.html)  [JSON](/news/2015/01/5/two-militants-one-wearing-a-suicide-vest-kill-two-saudi-arabian-border-guards-and-a-general-near-the-border-with-iraq.json)  [XML](/news/2015/01/5/two-militants-one-wearing-a-suicide-vest-kill-two-saudi-arabian-border-guards-and-a-general-near-the-border-with-iraq.xml)  
+
 ### [2015-01-5](/news/2015/01/5/index.md)
 
+##### Saudi Arabia
 # Two militants, one wearing a suicide vest, kill two Saudi Arabian border guards and a general near the border with Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Businessweek](http://www.businessweek.com/news/2015-01-05/saudi-general-two-guards-killed-in-attack-near-iraqi-border)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/3/seven-people-are-killed-and-30-injured-in-explosions-near-a-police-post-in-makhachkala-dagestan-southern-russia.html)  [JSON](/news/2012/05/3/seven-people-are-killed-and-30-injured-in-explosions-near-a-police-post-in-makhachkala-dagestan-southern-russia.json)  [XML](/news/2012/05/3/seven-people-are-killed-and-30-injured-in-explosions-near-a-police-post-in-makhachkala-dagestan-southern-russia.xml)  
+
 ### [2012-05-3](/news/2012/05/3/index.md)
 
+##### Makhachkala
 # Seven people are killed and 30 injured in explosions near a police post in Makhachkala, Dagestan, southern Russia. 
 
 News - Your daily dose of information: European and International latest breaking news, economic news, business news and more. Stay up to date with Euronews.
 
 
-### Source:
+### Sources:
 
 1. [euronews](http://www.euronews.com/newswires/1504350-blasts-in-russias-dagestan-kill-seven-wound-dozens/)
 

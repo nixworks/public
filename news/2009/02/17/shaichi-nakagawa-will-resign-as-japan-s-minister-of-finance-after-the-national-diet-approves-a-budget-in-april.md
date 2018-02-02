@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/17/shaichi-nakagawa-will-resign-as-japan-s-minister-of-finance-after-the-national-diet-approves-a-budget-in-april.html)  [JSON](/news/2009/02/17/shaichi-nakagawa-will-resign-as-japan-s-minister-of-finance-after-the-national-diet-approves-a-budget-in-april.json)  [XML](/news/2009/02/17/shaichi-nakagawa-will-resign-as-japan-s-minister-of-finance-after-the-national-diet-approves-a-budget-in-april.xml)  
+
 ### [2009-02-17](/news/2009/02/17/index.md)
 
+##### Shoichi Nakagawa
 #  Shoichi Nakagawa will resign as Japan's Minister of Finance after the National Diet approves a budget in April. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hlQO-kyvIEyrc0I90V5l0LFN7JTwD96D48980)
 

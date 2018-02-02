@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/23/clarence-house-confirms-that-prince-william-and-catherine-middleton-are-to-be-married-at-westminster-abbey-on-friday-29-april-2011.html)  [JSON](/news/2010/11/23/clarence-house-confirms-that-prince-william-and-catherine-middleton-are-to-be-married-at-westminster-abbey-on-friday-29-april-2011.json)  [XML](/news/2010/11/23/clarence-house-confirms-that-prince-william-and-catherine-middleton-are-to-be-married-at-westminster-abbey-on-friday-29-april-2011.xml)  
+
 ### [2010-11-23](/news/2010/11/23/index.md)
 
+##### Clarence House
 # Clarence House confirms that Prince William and Catherine Middleton are to be married at Westminster Abbey on Friday 29 April 2011. 
 
 Prince William and Kate Middleton will marry on Friday 29 April at Westminster Abbey, Clarence House says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11818049)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

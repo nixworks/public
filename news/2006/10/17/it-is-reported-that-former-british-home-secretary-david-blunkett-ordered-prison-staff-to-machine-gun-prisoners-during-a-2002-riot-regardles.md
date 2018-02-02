@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/17/it-is-reported-that-former-british-home-secretary-david-blunkett-ordered-prison-staff-to-machine-gun-prisoners-during-a-2002-riot-regardles.html)  [JSON](/news/2006/10/17/it-is-reported-that-former-british-home-secretary-david-blunkett-ordered-prison-staff-to-machine-gun-prisoners-during-a-2002-riot-regardles.json)  [XML](/news/2006/10/17/it-is-reported-that-former-british-home-secretary-david-blunkett-ordered-prison-staff-to-machine-gun-prisoners-during-a-2002-riot-regardles.xml)  
+
 ### [2006-10-17](/news/2006/10/17/index.md)
 
+##### UK
 #  It is reported that former British Home Secretary David Blunkett ordered prison staff to machine gun prisoners during a 2002 riot regardless of loss of life. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/6057528.stm)
 

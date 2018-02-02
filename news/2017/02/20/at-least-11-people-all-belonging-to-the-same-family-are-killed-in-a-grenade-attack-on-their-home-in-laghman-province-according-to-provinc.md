@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/20/at-least-11-people-all-belonging-to-the-same-fa
 
 ### [2017-02-20](/news/2017/02/20/index.md)
 
+##### War in Afghanistan (2015-present)
 # At least 11 people, all belonging to the same family, are killed in a grenade attack on their home in Laghman Province, according to provincial officials. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/14/typhoon-soulik-kills-three-people-in-china-s-guangdong-province-after-having-killed-two-people-in-taiwan.html)  [JSON](/news/2013/07/14/typhoon-soulik-kills-three-people-in-china-s-guangdong-province-after-having-killed-two-people-in-taiwan.json)  [XML](/news/2013/07/14/typhoon-soulik-kills-three-people-in-china-s-guangdong-province-after-having-killed-two-people-in-taiwan.xml)  
+
 ### [2013-07-14](/news/2013/07/14/index.md)
 
+##### Typhoon Soulik
 # Typhoon Soulik kills three people in China's Guangdong province after having killed two people in Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-23310512)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68728000/jpg/_68728207_68728206.jpg)

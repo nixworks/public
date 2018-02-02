@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/12/the-three-royal-netherlands-navy-personnel-captured-12-days-ago-by-armed-men-loyal-to-libyan-leader-muammar-gaddafi-are-released-after-negot.html)  [JSON](/news/2011/03/12/the-three-royal-netherlands-navy-personnel-captured-12-days-ago-by-armed-men-loyal-to-libyan-leader-muammar-gaddafi-are-released-after-negot.json)  [XML](/news/2011/03/12/the-three-royal-netherlands-navy-personnel-captured-12-days-ago-by-armed-men-loyal-to-libyan-leader-muammar-gaddafi-are-released-after-negot.xml)  
+
 ### [2011-03-12](/news/2011/03/12/index.md)
 
+##### Royal Netherlands Navy
 # The three Royal Netherlands Navy personnel captured 12 days ago by armed men loyal to Libyan leader Muammar Gaddafi are released after negotiations after Greek Deputy Foreign Minister Dimitris Dollis secured their release and oversaw their evacuation to Athens, Greece. The crew was trying to rescue a Dutch citizen from Libya when armed men captured them. 
 
 Rebel fighters are driven out of the Libyan port of Ras Lanuf after fierce fighting, leaving the key oil town in the hands of forces loyal to Colonel Gaddafi.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://blogs.aljazeera.net/live/africa/libya-live-blog-march-12)
 2. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/03/2011312192359523376.html)
@@ -13,16 +17,16 @@ Rebel fighters are driven out of the Libyan port of Ras Lanuf after fierce fight
 4. [NPR](http://www.npr.org/templates/story/story.php?storyId=134423178)
 4. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
-### Related:
-
-1. [The Dutch Ministry of Defense confirm that three Royal Netherlands Navy personnel are captured by armed men loyal to Muammar Gaddafi during an evacuation operation. "Intensive diplomatic negotiations" are going on between Dutch and Libyan authorities and relatives of the crew are being kept informed. ](/news/2011/03/3/the-dutch-ministry-of-defense-confirm-that-three-royal-netherlands-navy-personnel-are-captured-by-armed-men-loyal-to-muammar-gaddafi-during.md) _Context: Libya, Muammar Gaddafi, Netherlands, Royal Netherlands Navy_
-2. [An ISIL sniper in Sirte, Libya, shoots dead Dutch photographer and war correspondent Jeroen Oerlemans. ](/news/2016/10/2/an-isil-sniper-in-sirte-libya-shoots-dead-dutch-photographer-and-war-correspondent-jeroen-oerlemans.md) _Context: Libya, Netherlands_
-3. [Hannibal Gaddafi, son of Libya's late leader Muammar Gaddafi, who was kidnapped by militants, is released in Baalbek, Lebanon. Gaddafi's abductors said they were seeking information on the fate of Shiite cleric Imam Moussa al-Sadr, who disappeared during a trip to Tripoli in 1978. ](/news/2015/12/11/hannibal-gaddafi-son-of-libya-s-late-leader-muammar-gaddafi-who-was-kidnapped-by-militants-is-released-in-baalbek-lebanon-gaddafi-s-abd.md) _Context: Libya, Muammar Gaddafi_
-4. [A new study shows Greece's six-year austerity program is even affecting prostitution. Gregory Laxos, a sociology professor at the Panteion University in Athens, told the "Times of London" the going rate for sex with a prostitute was 50 euros ($53) when the economic crisis began. Now, it's fallen to as low as two euros ($2.12) for a 30-minute session, or to a cheese pie, a sandwich because they are hungry. ](/news/2015/11/27/a-new-study-shows-greece-s-six-year-austerity-program-is-even-affecting-prostitution-gregory-laxos-a-sociology-professor-at-the-panteion-u.md) _Context: Athens, Greek_
-5. [A bomb blast at the Hellenic Business Federation offices in central Athens, Greece, damages the Cypriot Embassy across the street. While there is yet no claim for responsibility the authorities suspect a domestic guerrilla group set off the blast. ](/news/2015/11/24/a-bomb-blast-at-the-hellenic-business-federation-offices-in-central-athens-greece-damages-the-cypriot-embassy-across-the-street-while-the.md) _Context: Athens, Greek_
-
 ### Changes:
 
 1. [2011 Libyan civil war:The three Royal Netherlands Navy personnel captured 12 days ago by armed men loyal to Libyan leader Muammar Gaddafi are released after negotiations after Greek Deputy Foreign Minister Dimitris Dollis secured their release and oversaw their evacuation to Athens, Greece. The crew was trying to rescue a Dutch citizen from Libya when armed men captured them. ](/news/2011/03/12/2011-libyan-civil-war-pthe-three-royal-netherlands-navy-personnel-captured-12-days-ago-by-armed-men-loyal-to-libyan-leader-muammar-gaddafi-a.md) _2017-08-25 03:32:31 (First version)_
 2. [2011 Libyan civil war:: The three Royal Netherlands Navy personnel captured 12 days ago by armed men loyal to Libyan leader Muammar Gaddafi are released after negotiations after Greek Deputy Foreign Minister Dimitris Dollis secured their release and oversaw their evacuation to Athens, Greece. The crew was trying to rescue a Dutch citizen from Libya when armed men captured them. ](/news/2011/03/12/2011-libyan-civil-war-the-three-royal-netherlands-navy-personnel-captured-12-days-ago-by-armed-men-loyal-to-libyan-leader-muammar-gaddafi.md) _2017-08-27 03:32:39 (Update)_
 2. [The three Royal Netherlands Navy personnel captured 12 days ago by armed men loyal to Libyan leader Muammar Gaddafi are released after negotiations after Greek Deputy Foreign Minister Dimitris Dollis secured their release and oversaw their evacuation to Athens, Greece. The crew was trying to rescue a Dutch citizen from Libya when armed men captured them. ](/news/2011/03/12/the-three-royal-netherlands-navy-personnel-captured-12-days-ago-by-armed-men-loyal-to-libyan-leader-muammar-gaddafi-are-released-after-negot.md) _(Current version)_
+
+### Related:
+
+1. [The Dutch Ministry of Defense confirm that three Royal Netherlands Navy personnel are captured by armed men loyal to Muammar Gaddafi during an evacuation operation. "Intensive diplomatic negotiations" are going on between Dutch and Libyan authorities and relatives of the crew are being kept informed. ](/news/2011/03/3/the-dutch-ministry-of-defense-confirm-that-three-royal-netherlands-navy-personnel-are-captured-by-armed-men-loyal-to-muammar-gaddafi-during.md) _Context: Libya, Muammar Gaddafi, Netherlands, Royal Netherlands Navy_
+2. [The Hellenic Coast Guard seizes the Tanzanian-flagged cargo ship "Andromeda" - allegedly bound for Libya, loaded with 410 tonnes of explosives - in Heraklion, Greece. 102 safety deficiencies are found, and 8 crew members are arrested. ](/news/2018/01/10/the-hellenic-coast-guard-seizes-the-tanzanian-flagged-cargo-ship-andromeda-a-allegedly-bound-for-libya-loaded-with-410-tonnes-of-explos.md) _Context: Greece, Libya_
+3. [Flash floods on the outskirts of the Greek capital Athens kill at least 16 people and injure dozens more after a severe thunderstorm. ](/news/2017/11/15/flash-floods-on-the-outskirts-of-the-greek-capital-athens-kill-at-least-16-people-and-injure-dozens-more-after-a-severe-thunderstorm.md) _Context: Athens, Greece_
+4. [An ISIL sniper in Sirte, Libya, shoots dead Dutch photographer and war correspondent Jeroen Oerlemans. ](/news/2016/10/2/an-isil-sniper-in-sirte-libya-shoots-dead-dutch-photographer-and-war-correspondent-jeroen-oerlemans.md) _Context: Libya, Netherlands_
+5. [Hannibal Gaddafi, son of Libya's late leader Muammar Gaddafi, who was kidnapped by militants, is released in Baalbek, Lebanon. Gaddafi's abductors said they were seeking information on the fate of Shiite cleric Imam Moussa al-Sadr, who disappeared during a trip to Tripoli in 1978. ](/news/2015/12/11/hannibal-gaddafi-son-of-libya-s-late-leader-muammar-gaddafi-who-was-kidnapped-by-militants-is-released-in-baalbek-lebanon-gaddafi-s-abd.md) _Context: Libya, Muammar Gaddafi_

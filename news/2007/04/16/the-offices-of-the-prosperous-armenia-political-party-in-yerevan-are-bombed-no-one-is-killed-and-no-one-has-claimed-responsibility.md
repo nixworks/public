@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/16/the-offices-of-the-prosperous-armenia-political-party-in-yerevan-are-bombed-no-one-is-killed-and-no-one-has-claimed-responsibility.html)  [JSON](/news/2007/04/16/the-offices-of-the-prosperous-armenia-political-party-in-yerevan-are-bombed-no-one-is-killed-and-no-one-has-claimed-responsibility.json)  [XML](/news/2007/04/16/the-offices-of-the-prosperous-armenia-political-party-in-yerevan-are-bombed-no-one-is-killed-and-no-one-has-claimed-responsibility.xml)  
+
 ### [2007-04-16](/news/2007/04/16/index.md)
 
+##### Prosperous Armenia
 #  The offices of the Prosperous Armenia political party in Yerevan are bombed. No one is killed and no one has claimed responsibility. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFE/RL](http://www.rferl.org/featuresarticle/2007/4/DF90E859-DDDA-458A-91FB-0E9DCFEA0CA5.html)
 

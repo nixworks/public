@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/05/23/an-independent-investigation-into-8-2-billion-in-united-states-department-of-defense-spending-in-iraq-as-well-as-aid-to-egypt-and-kuwait.html)  [JSON](/news/2008/05/23/an-independent-investigation-into-8-2-billion-in-united-states-department-of-defense-spending-in-iraq-as-well-as-aid-to-egypt-and-kuwait.json)  [XML](/news/2008/05/23/an-independent-investigation-into-8-2-billion-in-united-states-department-of-defense-spending-in-iraq-as-well-as-aid-to-egypt-and-kuwait.xml)  
+
 ### [2008-05-23](/news/2008/05/23/index.md)
 
+##### U.S. military
 #  An independent investigation into $8.2 billion in United States Department of Defense spending in Iraq, as well as aid to Egypt and Kuwait since 2001 finds that 95% of payments to contractors failed to meet requirements for documentation to determine what was paid for. 
 
 An audit of $8.2 billion spent on contractors in Iraq found that almost none of the payments followed federal rules.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/05/23/world/middleeast/23audit.html)
+1. [The New York Times](https://www.nytimes.com/2008/05/23/world/middleeast/23audit.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

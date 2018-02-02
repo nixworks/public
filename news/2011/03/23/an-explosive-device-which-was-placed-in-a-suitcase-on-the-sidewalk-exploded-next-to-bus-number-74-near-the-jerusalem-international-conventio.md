@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/23/an-explosive-device-which-was-placed-in-a-suitcase-on-the-sidewalk-exploded-next-to-bus-number-74-near-the-jerusalem-international-conventio.html)  [JSON](/news/2011/03/23/an-explosive-device-which-was-placed-in-a-suitcase-on-the-sidewalk-exploded-next-to-bus-number-74-near-the-jerusalem-international-conventio.json)  [XML](/news/2011/03/23/an-explosive-device-which-was-placed-in-a-suitcase-on-the-sidewalk-exploded-next-to-bus-number-74-near-the-jerusalem-international-conventio.xml)  
+
 ### [2011-03-23](/news/2011/03/23/index.md)
 
+##### exploded next to bus number 74
 # An explosive device which was placed in a suitcase on the sidewalk exploded next to bus number 74 near the Jerusalem International Convention Center complex. A woman is killed in the explosion and at least 50 people are injured. 
 
 Bag explodes next to bus stop near Central Bus Station; blast shatters lengthy period of relative quiet; Barkat: Marathon to be run as planned.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/03/201132313166975300.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12836224)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/17/in-vijfhuizen-the-netherlands-exactly-three-yea
 
 ### [2017-07-17](/news/2017/07/17/index.md)
 
+##### Vijfhuizen
 # In Vijfhuizen, the Netherlands, exactly three years after the Malaysia Airlines Flight 17 (MH17) disaster, the National Memorial for the victims is opened in the presence of King Willem-Alexander, Queen Maxima and Prime Minister Mark Rutte. 
 
 

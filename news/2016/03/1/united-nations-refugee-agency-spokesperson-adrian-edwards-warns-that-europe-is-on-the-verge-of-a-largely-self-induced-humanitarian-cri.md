@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/1/united-nations-refugee-agency-spokesperson-adria
 
 ### [2016-03-1](/news/2016/03/1/index.md)
 
+##### European migrant crisis
 # United Nations refugee agency spokesperson Adrian Edwards warns that Europe is on the verge, "... of a largely self-induced humanitarian crisis, ..." if the rapid build-up of migrants continues at the northern borders of an already over-stretched Greece. There are at least 24,000 there now, including 8,500 at Idomeni, the site of yesterday's incident. 
 
 The UN refugee agency (UNHCR) warned on Tuesday that Greece is on the verge of a humanitarian crisis as disunity and inconsistency continue to mar European response plans.

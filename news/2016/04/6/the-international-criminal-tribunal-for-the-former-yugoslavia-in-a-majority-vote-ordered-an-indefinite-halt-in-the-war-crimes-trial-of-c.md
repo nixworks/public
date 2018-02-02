@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/6/the-international-criminal-tribunal-for-the-form
 
 ### [2016-04-6](/news/2016/04/6/index.md)
 
+##### International Criminal Tribunal for the former Yugoslavia
 # The International Criminal Tribunal for the former Yugoslavia, in a majority vote, ordered an "indefinite" halt in the war crimes trial of Croatian Serb rebel leader Goran Hadzic, who is terminally ill with brain cancer and declared "unfit to stand trial." Hadzic was charged with 14 war crimes and crimes against humanity for his role in the 1991-95 war in Croatia. 
 
 

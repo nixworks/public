@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/5/benin-presidential-election-2006-voters-in-benin-go-to-the-polls-to-decide-who-will-succeed-mathieu-kerekou-as-president-results-are-exp.html)  [JSON](/news/2006/03/5/benin-presidential-election-2006-voters-in-benin-go-to-the-polls-to-decide-who-will-succeed-mathieu-kerekou-as-president-results-are-exp.json)  [XML](/news/2006/03/5/benin-presidential-election-2006-voters-in-benin-go-to-the-polls-to-decide-who-will-succeed-mathieu-kerekou-as-president-results-are-exp.xml)  
+
 ### [2006-03-5](/news/2006/03/5/index.md)
 
+##### Benin presidential election, 2006
 #  Benin presidential election, 2006: Voters in Benin go to the polls to decide who will succeed Mathieu Krkou as President. Results are expected to be announced by Wednesday. If no single candidate of the 26 wins an outright majority, a runoff election will take place in two weeks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://za.today.reuters.com/news/newsArticle.aspx?type=topNews&storyID=2006-03-05T132302Z_01_ALL532525_RTRIDST_0_OZATP-BENIN-ELECTION-20060305.XML)
 2. [Scotsman](http://thescotsman.scotsman.com/international.cfm?id=336242006)

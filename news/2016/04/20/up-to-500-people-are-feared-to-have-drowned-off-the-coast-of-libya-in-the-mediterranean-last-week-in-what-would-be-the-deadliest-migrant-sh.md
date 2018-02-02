@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/up-to-500-people-are-feared-to-have-drowned-off
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### European migrant crisis
 # Up to 500 people are feared to have drowned off the coast of Libya in the Mediterranean last week, in what would be the deadliest migrant shipwreck in months. 
 
 Up to 500 people may have drowned after overloaded boat sank in Mediterranean

@@ -1,23 +1,27 @@
+
+Formats: [HTML](/news/2014/09/2/isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.html)  [JSON](/news/2014/09/2/isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.json)  [XML](/news/2014/09/2/isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.xml)  
+
 ### [2014-09-2](/news/2014/09/2/index.md)
 
+##### Syrian Civil War
 # ISIL releases an Internet video showing the beheading of American journalist Steven Sotloff. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/middle_east/syrian-rebels-government-clash-in-golan-heights/2014/09/01/2157cdce-3241-11e4-9f4d-24103cb8b742_story.html?wpisrc=al_national)
-
-### Related:
-
-1. [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md) _Context: ISIL, Syrian Civil War_
-2. [The Islamic State group seizes the Al-Qaryatain town in the central province of Homs in a surprise attack against Syrian government forces. ](/news/2017/10/1/the-islamic-state-group-seizes-the-al-qaryatain-town-in-the-central-province-of-homs-in-a-surprise-attack-against-syrian-government-forces.md) _Context: ISIL, Syrian Civil War_
-3. [The Syrian Army breaks the nine month long siege of the Deir ez-Zor Airport by ISIL militants. ](/news/2017/09/9/the-syrian-army-breaks-the-nine-month-long-siege-of-the-deir-ez-zor-airport-by-isil-militants.md) _Context: ISIL, Syrian Civil War_
-4. [The Syrian Army lifts the 28-month-long siege of Deir ez-Zor by the Islamic State of Iraq and the Levant. ](/news/2017/09/5/the-syrian-army-lifts-the-28-month-long-siege-of-deir-ez-zor-by-the-islamic-state-of-iraq-and-the-levant.md) _Context: ISIL, Syrian Civil War_
-5. [Syrian state television reports the Syrian Army reaches a point 3 kilometers from Deir ez-Zor, a city besieged by the Islamic State of Iraq and the Levant since 2014. ](/news/2017/09/4/syrian-state-television-reports-the-syrian-army-reaches-a-point-3-kilometers-from-deir-ez-zor-a-city-besieged-by-the-islamic-state-of-iraq.md) _Context: ISIL, Syrian Civil War_
+1. [Washington Post](https://www.washingtonpost.com/world/middle_east/syrian-rebels-government-clash-in-golan-heights/2014/09/01/2157cdce-3241-11e4-9f4d-24103cb8b742_story.html?wpisrc=al_national)
 
 ### Changes:
 
 1. [Syrian Civil War: ISIL releases an Internet video showing the beheading of American journalist Steven Sotloff. ](/news/2014/09/2/syrian-civil-war-isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.md) _2017-08-27 03:41:14 (First version)_
 1. [ISIL releases an Internet video showing the beheading of American journalist Steven Sotloff. ](/news/2014/09/2/isil-releases-an-internet-video-showing-the-beheading-of-american-journalist-steven-sotloff.md) _(Current version)_
+
+### Related:
+
+1. [The Syrian Army and its allies capture Abu Kamal from the Islamic State of Iraq and the Levant. ](/news/2017/11/8/the-syrian-army-and-its-allies-capture-abu-kamal-from-the-islamic-state-of-iraq-and-the-levant.md) _Context: ISIL, Syrian Civil War_
+2. [The Syrian Army (SAA) and allies announce the complete liberation of Deir ez-Zor from ISIL. ](/news/2017/11/3/the-syrian-army-saa-and-allies-announce-the-complete-liberation-of-deir-ez-zor-from-isil.md) _Context: ISIL, Syrian Civil War_
+3. [Syrian government troops and allied militia retake Abu Kamal, ISIL's last urban stronghold in Syria. ](/news/2017/11/19/syrian-government-troops-and-allied-militia-retake-abu-kamal-isil-s-last-urban-stronghold-in-syria.md) _Context: ISIL, Syrian Civil War_
+4. [The BBC reveals that a secret deal in mid-October allowed hundreds of ISIL fighters and their families, including some of their "most notorious members", escape from Raqqa in a convoy that was between 6 to 7 km long. The United States government confirms that the deal with ISIL was made and that the evacuations took place. The possibility of a deal was previously reported as early as October 14. ](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-in-mid-october-allowed-hundreds-of-isil-fighters-and-their-families-including-some-of-their-most-notori.md) _Context: ISIL, Syrian Civil War_
+5. [ISIL regains control of Abu Kamal. ](/news/2017/11/11/isil-regains-control-of-abu-kamal.md) _Context: ISIL, Syrian Civil War_

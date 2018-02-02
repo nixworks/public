@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/20/us-war-planes-strike-a-building-in-fallujah-local-sources-say-the-strike-killed-a-family-of-six-including-four-children-the-u-s-militar.html)  [JSON](/news/2004/10/20/us-war-planes-strike-a-building-in-fallujah-local-sources-say-the-strike-killed-a-family-of-six-including-four-children-the-u-s-militar.json)  [XML](/news/2004/10/20/us-war-planes-strike-a-building-in-fallujah-local-sources-say-the-strike-killed-a-family-of-six-including-four-children-the-u-s-militar.xml)  
+
 ### [2004-10-20](/news/2004/10/20/index.md)
 
+##### Fallujah
 #  US war planes strike a building in Fallujah. Local sources say the strike killed a family of six, including four children. The U.S. military, however, denies a family was killed and issues a statement saying that "intelligence sources indicate a known Zarqawi propagandist is passing false reports to the media". (Reuters: 
 
 
 
 
-### Source:
+### Sources:
 
 1. [1](http://reuters.com/newsArticle.jhtml?type=topNews&storyID=6556916)
 2. [2](http://reuters.com/newsArticle.jhtml?type=topNews&storyID=6563061)

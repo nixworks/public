@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/12/11/korean-air-both-national-and-international-has-been-shut-down-due-to-the-strike-going-on-in-korea-the-national-airplane-circulation-has-b.html)  [JSON](/news/2005/12/11/korean-air-both-national-and-international-has-been-shut-down-due-to-the-strike-going-on-in-korea-the-national-airplane-circulation-has-b.json)  [XML](/news/2005/12/11/korean-air-both-national-and-international-has-been-shut-down-due-to-the-strike-going-on-in-korea-the-national-airplane-circulation-has-b.xml)  
+
 ### [2005-12-11](/news/2005/12/11/index.md)
 
+##### Korean Air
 #  Korean Air, both national and international has been shut down due to the strike going on in Korea. The national airplane circulation has been stopped already and the Korean Airline planes that were in a foreign country are returning to Korea.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/27/thousands-of-people-join-protests-against-budget-cuts-in-madrid-and-ask-that-the-government-quit-riot-police-greet-the-demonstrators.html)  [JSON](/news/2012/10/27/thousands-of-people-join-protests-against-budget-cuts-in-madrid-and-ask-that-the-government-quit-riot-police-greet-the-demonstrators.json)  [XML](/news/2012/10/27/thousands-of-people-join-protests-against-budget-cuts-in-madrid-and-ask-that-the-government-quit-riot-police-greet-the-demonstrators.xml)  
+
 ### [2012-10-27](/news/2012/10/27/index.md)
 
+##### Madrid
 # Thousands of people join protests against budget cuts in Madrid and ask that the government quit. Riot police greet the demonstrators. 
 
 Thousands join fresh protests in the Spanish capital, Madrid, angered by budget cuts and calling on the government to quit.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/10/20121027185635884352.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-20113664)

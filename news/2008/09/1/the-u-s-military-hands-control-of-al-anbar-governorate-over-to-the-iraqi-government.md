@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/1/the-u-s-military-hands-control-of-al-anbar-governorate-over-to-the-iraqi-government.html)  [JSON](/news/2008/09/1/the-u-s-military-hands-control-of-al-anbar-governorate-over-to-the-iraqi-government.json)  [XML](/news/2008/09/1/the-u-s-military-hands-control-of-al-anbar-governorate-over-to-the-iraqi-government.xml)  
+
 ### [2008-09-1](/news/2008/09/1/index.md)
 
+##### Military of the United States
 #  The U.S. military hands control of Al Anbar Governorate over to the Iraqi government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/7591111.stm)
 

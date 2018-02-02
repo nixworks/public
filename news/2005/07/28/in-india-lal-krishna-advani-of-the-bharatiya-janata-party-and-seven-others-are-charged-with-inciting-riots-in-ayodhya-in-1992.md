@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/28/in-india-lal-krishna-advani-of-the-bharatiya-janata-party-and-seven-others-are-charged-with-inciting-riots-in-ayodhya-in-1992.html)  [JSON](/news/2005/07/28/in-india-lal-krishna-advani-of-the-bharatiya-janata-party-and-seven-others-are-charged-with-inciting-riots-in-ayodhya-in-1992.json)  [XML](/news/2005/07/28/in-india-lal-krishna-advani-of-the-bharatiya-janata-party-and-seven-others-are-charged-with-inciting-riots-in-ayodhya-in-1992.xml)  
+
 ### [2005-07-28](/news/2005/07/28/index.md)
 
+##### Lal Krishna Advani
 #  In India, Lal Krishna Advani of the Bharatiya Janata Party and seven others are charged with inciting riots in Ayodhya in 1992 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Newindpress](http://www.newindpress.com/NewsItems.asp?ID=IEL20050728024952&Page=L&Title=B+R+E+A+K+I+N+G++++N+E+W+S&Topic=0)
 2. [The Hindu](http://www.hindu.com/thehindu/holnus/000200507281301.htm)

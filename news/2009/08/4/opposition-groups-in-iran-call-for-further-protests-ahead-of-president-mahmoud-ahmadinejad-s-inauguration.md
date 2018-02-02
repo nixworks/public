@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/4/opposition-groups-in-iran-call-for-further-protests-ahead-of-president-mahmoud-ahmadinejad-s-inauguration.html)  [JSON](/news/2009/08/4/opposition-groups-in-iran-call-for-further-protests-ahead-of-president-mahmoud-ahmadinejad-s-inauguration.json)  [XML](/news/2009/08/4/opposition-groups-in-iran-call-for-further-protests-ahead-of-president-mahmoud-ahmadinejad-s-inauguration.xml)  
+
 ### [2009-08-4](/news/2009/08/4/index.md)
 
+##### Iran
 #  Opposition groups in Iran call for further protests ahead of President Mahmoud Ahmadinejad's inauguration. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jGSJEAPs_r2T2wxsL5G3t4z-jajQD99S84080)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/01/4/the-autonomous-region-of-sicily-in-italy-adopts-a-new-flag.html)  [JSON](/news/2000/01/4/the-autonomous-region-of-sicily-in-italy-adopts-a-new-flag.json)  [XML](/news/2000/01/4/the-autonomous-region-of-sicily-in-italy-adopts-a-new-flag.xml)  
+
 ### [2000-01-4](/news/2000/01/4/index.md)
 
+##### Sicily
 # The Autonomous Region of Sicily, in Italy adopts a new flag.
 
 

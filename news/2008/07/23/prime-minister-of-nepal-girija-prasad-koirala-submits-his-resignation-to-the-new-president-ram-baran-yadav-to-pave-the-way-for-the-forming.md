@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/23/prime-minister-of-nepal-girija-prasad-koirala-submits-his-resignation-to-the-new-president-ram-baran-yadav-to-pave-the-way-for-the-forming.html)  [JSON](/news/2008/07/23/prime-minister-of-nepal-girija-prasad-koirala-submits-his-resignation-to-the-new-president-ram-baran-yadav-to-pave-the-way-for-the-forming.json)  [XML](/news/2008/07/23/prime-minister-of-nepal-girija-prasad-koirala-submits-his-resignation-to-the-new-president-ram-baran-yadav-to-pave-the-way-for-the-forming.xml)  
+
 ### [2008-07-23](/news/2008/07/23/index.md)
 
+##### Prime Minister
 #  Prime Minister of Nepal Girija Prasad Koirala submits his resignation to the new President Ram Baran Yadav to pave the way for the forming of new government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Zee News](http://www.zeenews.com/articles.asp?aid=457482&sid=SAS)
 

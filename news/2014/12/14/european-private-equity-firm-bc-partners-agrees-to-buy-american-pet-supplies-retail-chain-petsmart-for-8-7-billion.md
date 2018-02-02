@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/14/european-private-equity-firm-bc-partners-agrees-to-buy-american-pet-supplies-retail-chain-petsmart-for-8-7-billion.html)  [JSON](/news/2014/12/14/european-private-equity-firm-bc-partners-agrees-to-buy-american-pet-supplies-retail-chain-petsmart-for-8-7-billion.json)  [XML](/news/2014/12/14/european-private-equity-firm-bc-partners-agrees-to-buy-american-pet-supplies-retail-chain-petsmart-for-8-7-billion.xml)  
+
 ### [2014-12-14](/news/2014/12/14/index.md)
 
+##### BC Partners
 # European private equity firm BC Partners agrees to buy American pet supplies retail chain PetSmart for $8.7 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times](http://dealbook.nytimes.com/2014/12/14/petsmart-to-sell-itself-to-investor-group-for-8-7-billion/?partner=rss&emc=rss&_r=0)
 

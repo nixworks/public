@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/23/the-organizers-of-the-google-lunar-x-prize-anno
 
 ### [2018-01-23](/news/2018/01/23/index.md)
 
+##### Google Lunar X Prize
 # The organizers of the Google Lunar X Prize announce that the $20 million grand prize for a commercial lunar lander will expire on 31 March 2018 without a winner because none of its five finalist teams would be able to launch a mission before the deadline. 
 
 The foundation running the Google Lunar X Prize said Jan. 23 that the prize for a commercial lunar lander will expire at the end of March without a winner.

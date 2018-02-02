@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/19/new-zealand-expels-an-unnamed-united-states-dip
 
 ### [2017-03-19](/news/2017/03/19/index.md)
 
+##### New Zealand-United States relations
 # New Zealand expels an unnamed United States diplomat after the embassy refused to waive his immunity during a police investigation. 
 
 The staffer was asked to leave after the US embassy refused to allow police to question him.

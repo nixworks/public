@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/27/vassiliki-thanou-christophilou-the-head-of-the-court-of-cassation-is-appointed-as-interim-prime-minister-of-greece-for-the-duration-of-the.html)  [JSON](/news/2015/08/27/vassiliki-thanou-christophilou-the-head-of-the-court-of-cassation-is-appointed-as-interim-prime-minister-of-greece-for-the-duration-of-the.json)  [XML](/news/2015/08/27/vassiliki-thanou-christophilou-the-head-of-the-court-of-cassation-is-appointed-as-interim-prime-minister-of-greece-for-the-duration-of-the.xml)  
+
 ### [2015-08-27](/news/2015/08/27/index.md)
 
+##### Vassiliki Thanou-Christophilou
 # Vassiliki Thanou-Christophilou, the head of the Court of Cassation, is appointed as interim Prime Minister of Greece for the duration of the upcoming election. She is the first woman to hold the post. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Roanoke](http://www.roanoke.com/news/politics/wire/greece-moves-closer-to-formal-announcement-of-election-date/article_b7b47531-46f9-5dad-8be5-4526d710f490.html)
 

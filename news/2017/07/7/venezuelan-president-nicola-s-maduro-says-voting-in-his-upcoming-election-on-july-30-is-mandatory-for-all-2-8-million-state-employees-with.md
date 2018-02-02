@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/7/venezuelan-president-nicola-s-maduro-says-voting
 
 ### [2017-07-7](/news/2017/07/7/index.md)
 
+##### Venezuelan Constitutional Assembly election, 2017
 # Venezuelan President Nicolas Maduro says voting in his upcoming election on July 30 is mandatory for all 2.8 million state employees, with employees who do not vote facing ostracisation. Opponents of the government plan to hold their own unofficial referendum on the Maduro government on July 16. 
 
 With many Venezuelans angry at the government and planning to sit out a July 30 vote for a new superbody assembly, President Nicolas Maduro has ordered all state workers to take part, seeking to avoid an embarrassingly low turnout.

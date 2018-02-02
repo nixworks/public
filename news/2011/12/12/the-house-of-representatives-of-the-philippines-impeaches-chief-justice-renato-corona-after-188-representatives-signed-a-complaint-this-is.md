@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/12/the-house-of-representatives-of-the-philippines-impeaches-chief-justice-renato-corona-after-188-representatives-signed-a-complaint-this-is.html)  [JSON](/news/2011/12/12/the-house-of-representatives-of-the-philippines-impeaches-chief-justice-renato-corona-after-188-representatives-signed-a-complaint-this-is.json)  [XML](/news/2011/12/12/the-house-of-representatives-of-the-philippines-impeaches-chief-justice-renato-corona-after-188-representatives-signed-a-complaint-this-is.xml)  
+
 ### [2011-12-12](/news/2011/12/12/index.md)
 
+##### Philippine lower House
 # The House of Representatives of the Philippines impeaches Chief Justice Renato Corona after 188 representatives signed a complaint. This is the second impeachment passed in the year after the impeachment of Ombudsman Merceditas Gutierrez early in March. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [GMA News.tv](http://www.gmanetwork.com/news/story/241451/news/nation/house-majority-oks-impeach-case-vs-corona-for-senate-trial)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/18/australian-ambassador-to-the-philippines-amanda
 
 ### [2016-04-18](/news/2016/04/18/index.md)
 
+##### Australia-Philippines relations
 # Australian Ambassador to the Philippines Amanda Gorely criticizes Philippine presidential frontrunner Rodrigo Duterte regarding his remarks about the rape of an Australian citizen. 
 
 

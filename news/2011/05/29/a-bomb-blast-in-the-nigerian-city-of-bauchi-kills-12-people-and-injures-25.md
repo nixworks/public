@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/29/a-bomb-blast-in-the-nigerian-city-of-bauchi-kills-12-people-and-injures-25.html)  [JSON](/news/2011/05/29/a-bomb-blast-in-the-nigerian-city-of-bauchi-kills-12-people-and-injures-25.json)  [XML](/news/2011/05/29/a-bomb-blast-in-the-nigerian-city-of-bauchi-kills-12-people-and-injures-25.xml)  
+
 ### [2011-05-29](/news/2011/05/29/index.md)
 
+##### Nigeria
 # A bomb blast in the Nigerian city of Bauchi kills 12 people and injures 25. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via MSNBC](http://www.msnbc.msn.com/id/42723325)
 

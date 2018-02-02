@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/30/windows-vista-goes-on-sale-for-bulk-license-holders-with-home-users-being-able-to-buy-it-on-january-30-2007.html)  [JSON](/news/2006/11/30/windows-vista-goes-on-sale-for-bulk-license-holders-with-home-users-being-able-to-buy-it-on-january-30-2007.json)  [XML](/news/2006/11/30/windows-vista-goes-on-sale-for-bulk-license-holders-with-home-users-being-able-to-buy-it-on-january-30-2007.xml)  
+
 ### [2006-11-30](/news/2006/11/30/index.md)
 
+##### Windows Vista
 #  Windows Vista goes on sale for bulk license holders with home users being able to buy it on January 30, 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/TECH/ptech/11/30/windows.vista.ap/index.html)
 

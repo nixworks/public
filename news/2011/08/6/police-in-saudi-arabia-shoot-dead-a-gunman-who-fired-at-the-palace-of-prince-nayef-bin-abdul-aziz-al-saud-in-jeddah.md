@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/6/police-in-saudi-arabia-shoot-dead-a-gunman-who-fired-at-the-palace-of-prince-nayef-bin-abdul-aziz-al-saud-in-jeddah.html)  [JSON](/news/2011/08/6/police-in-saudi-arabia-shoot-dead-a-gunman-who-fired-at-the-palace-of-prince-nayef-bin-abdul-aziz-al-saud-in-jeddah.json)  [XML](/news/2011/08/6/police-in-saudi-arabia-shoot-dead-a-gunman-who-fired-at-the-palace-of-prince-nayef-bin-abdul-aziz-al-saud-in-jeddah.xml)  
+
 ### [2011-08-6](/news/2011/08/6/index.md)
 
+##### Saudi Arabia
 # Police in Saudi Arabia shoot dead a gunman who fired at the palace of Prince Nayef bin Abdul-Aziz Al Saud in Jeddah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/08/20118641330399788.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/8/6/201186445784734_20.jpg)

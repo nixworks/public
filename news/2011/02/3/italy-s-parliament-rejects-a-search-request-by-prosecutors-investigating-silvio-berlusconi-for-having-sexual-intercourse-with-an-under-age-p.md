@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/3/italy-s-parliament-rejects-a-search-request-by-prosecutors-investigating-silvio-berlusconi-for-having-sexual-intercourse-with-an-under-age-p.html)  [JSON](/news/2011/02/3/italy-s-parliament-rejects-a-search-request-by-prosecutors-investigating-silvio-berlusconi-for-having-sexual-intercourse-with-an-under-age-p.json)  [XML](/news/2011/02/3/italy-s-parliament-rejects-a-search-request-by-prosecutors-investigating-silvio-berlusconi-for-having-sexual-intercourse-with-an-under-age-p.xml)  
+
 ### [2011-02-3](/news/2011/02/3/index.md)
 
+##### Silvio Berlusconi
 # Italy's parliament rejects a search request by prosecutors investigating Silvio Berlusconi for having sexual intercourse with an under-age prostitute. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12361443)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/50977000/jpg/_50977409_011119704-1.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/17/french-mathematician-yves-meyer-wins-the-abel-p
 
 ### [2017-03-17](/news/2017/03/17/index.md)
 
+##### Yves Meyer
 # French mathematician Yves Meyer wins the Abel Prize for his work on the mathematical theory of wavelets. 
 
 Frenchman wins prestigious prize for theory that links maths, information technology and computer science

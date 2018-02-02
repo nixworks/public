@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/1/the-government-of-uganda-and-the-lord-s-resistance-army-rebels-sign-a-second-truce-as-negotiations-restart-in-juba-sudan.html)  [JSON](/news/2006/11/1/the-government-of-uganda-and-the-lord-s-resistance-army-rebels-sign-a-second-truce-as-negotiations-restart-in-juba-sudan.json)  [XML](/news/2006/11/1/the-government-of-uganda-and-the-lord-s-resistance-army-rebels-sign-a-second-truce-as-negotiations-restart-in-juba-sudan.xml)  
+
 ### [2006-11-1](/news/2006/11/1/index.md)
 
+##### Uganda
 #  The government of Uganda and the Lord's Resistance Army rebels sign a second truce as negotiations restart in Juba, Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IRIN](http://irinnews.org/report.asp?ReportID=56146)
 

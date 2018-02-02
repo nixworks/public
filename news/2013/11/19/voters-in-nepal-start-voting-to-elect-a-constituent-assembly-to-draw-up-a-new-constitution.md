@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/11/19/voters-in-nepal-start-voting-to-elect-a-constituent-assembly-to-draw-up-a-new-constitution.html)  [JSON](/news/2013/11/19/voters-in-nepal-start-voting-to-elect-a-constituent-assembly-to-draw-up-a-new-constitution.json)  [XML](/news/2013/11/19/voters-in-nepal-start-voting-to-elect-a-constituent-assembly-to-draw-up-a-new-constitution.xml)  
+
 ### [2013-11-19](/news/2013/11/19/index.md)
 
+##### Nepal
 # Voters in Nepal start voting to elect a Constituent Assembly to draw up a new Constitution. 
 
 Nepalis voted on Tuesday for an assembly that will draft a constitution aimed at ending years of instability but the election may not produce a conclusive result and could leave the country facing more turmoil.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/11/19/us-nepal-election-idUSBRE9AI03X20131119)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20131119&t=2&i=813045053&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AI08WQ00)
+1. [Reuters](https://www.reuters.com/article/2013/11/19/us-nepal-election-idUSBRE9AI03X20131119)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20131119&t=2&i=813045053&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9AI08WQ00)
 
 ### Related:
 

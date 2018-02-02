@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/26/pakistan-s-prime-minister-zafarullah-khan-jamali-resigns.html)  [JSON](/news/2004/06/26/pakistan-s-prime-minister-zafarullah-khan-jamali-resigns.json)  [XML](/news/2004/06/26/pakistan-s-prime-minister-zafarullah-khan-jamali-resigns.xml)  
+
 ### [2004-06-26](/news/2004/06/26/index.md)
 
+##### Pakistan
 #  Pakistan's Prime Minister Zafarullah Khan Jamali resigns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/3842401.stm)
 

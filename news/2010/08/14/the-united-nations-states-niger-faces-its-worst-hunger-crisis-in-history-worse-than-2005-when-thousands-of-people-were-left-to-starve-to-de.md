@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/14/the-united-nations-states-niger-faces-its-worst-hunger-crisis-in-history-worse-than-2005-when-thousands-of-people-were-left-to-starve-to-de.html)  [JSON](/news/2010/08/14/the-united-nations-states-niger-faces-its-worst-hunger-crisis-in-history-worse-than-2005-when-thousands-of-people-were-left-to-starve-to-de.json)  [XML](/news/2010/08/14/the-united-nations-states-niger-faces-its-worst-hunger-crisis-in-history-worse-than-2005-when-thousands-of-people-were-left-to-starve-to-de.xml)  
+
 ### [2010-08-14](/news/2010/08/14/index.md)
 
+##### United Nations
 # The United Nations states Niger faces its worst hunger crisis in history, worse than 2005 when thousands of people were left to starve to death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''San Jose Mercury News](http://www.mercurynews.com/nation-world/ci_15778867?nclick_check=1)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10976093)

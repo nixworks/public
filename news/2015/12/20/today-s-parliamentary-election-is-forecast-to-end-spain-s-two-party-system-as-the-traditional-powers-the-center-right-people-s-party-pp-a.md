@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2015/12/20/today-s-parliamentary-election-is-forecast-to-end-spain-s-two-party-system-as-the-traditional-powers-the-center-right-people-s-party-pp-a.html)  [JSON](/news/2015/12/20/today-s-parliamentary-election-is-forecast-to-end-spain-s-two-party-system-as-the-traditional-powers-the-center-right-people-s-party-pp-a.json)  [XML](/news/2015/12/20/today-s-parliamentary-election-is-forecast-to-end-spain-s-two-party-system-as-the-traditional-powers-the-center-right-people-s-party-pp-a.xml)  
+
 ### [2015-12-20](/news/2015/12/20/index.md)
 
+##### election
 # Today's parliamentary election is forecast to end Spain's two-party system as the traditional powers, the center-right People's Party (PP) and the center-left Socialist Workers' Party (PSOE), are facing real challenges from the anti-austerity Podemos Party and the liberal Ciudadanos party (C's). Analysts expect a high turnout. 
 
 The election on December 20 will be colored by the memories of street protests in May 2011.
 
 
-### Source:
+### Sources:
 
 1. [Newsweek](http://www.newsweek.com/spanish-elections-all-you-need-know-407060)
 2. [Reuters via Huffington Post](http://www.huffingtonpost.com/entry/spain-election-results_5676bcdee4b06fa6887db39c)
 2. [Cover Image](http://s.newsweek.com/sites/www.newsweek.com/files/2015/12/18/1218spainelections.jpg)
+
+### Changes:
+
+1. [Today's parliamentary election is forecast to end Spain's two-party system as the traditional powers, the center-right People's Party (PP) and the center-left Socialist Workers' Party (PSOE), are facing real challenges from the anti-austerity Podemos Party and the liberal Ciudadanos party (C's). Analysts expect a high turnout. ](/news/2015/12/20/today-s-parliamentary-election-is-forecast-to-end-spain-s-two-party-system-as-the-traditional-powers-the-center-right-people-s-party-pp.md) _2017-08-25 03:44:06 (First version)_
+2. [Spanish general election, 2015: Today's parliamentary election is forecast to end Spain's two-party system as the traditional powers, the center-right People's Party (PP) and the center-left Socialist Workers' Party (PSOE), are facing real challenges from the anti-austerity Podemos Party and the liberal Ciudadanos party (C's). Analysts expect a high turnout. ](/news/2015/12/20/spanish-general-election-2015-today-s-parliamentary-election-is-forecast-to-end-spain-s-two-party-system-as-the-traditional-powers-the-ce.md) _2017-08-27 03:44:26 (Update)_
+2. [Today's parliamentary election is forecast to end Spain's two-party system as the traditional powers, the center-right People's Party (PP) and the center-left Socialist Workers' Party (PSOE), are facing real challenges from the anti-austerity Podemos Party and the liberal Ciudadanos party (C's). Analysts expect a high turnout. ](/news/2015/12/20/today-s-parliamentary-election-is-forecast-to-end-spain-s-two-party-system-as-the-traditional-powers-the-center-right-people-s-party-pp-a.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ The election on December 20 will be colored by the memories of street protests i
 3. [Pedro Sanchez, leader of Spain's Spanish Socialist Workers' Party (PSOE) rejects a pact with the ruling People's Party (PP). "We say 'no' to Rajoy and his policies," Sanchez told a news conference after meeting with Spanish Prime Minister Mariano Rajoy. ](/news/2015/12/23/pedro-sa-nchez-leader-of-spain-s-spanish-socialist-workers-party-psoe-rejects-a-pact-with-the-ruling-people-s-party-pp-we-say-no-t.md) _Context: People's Party, Socialist Workers' Party, Spain, election_
 4. [Spanish Prime Minister Mariano Rajoy is punched in the face by a teenager during a People's Party campaign event in the city of Pontevedra. ](/news/2015/12/16/spanish-prime-minister-mariano-rajoy-is-punched-in-the-face-by-a-teenager-during-a-people-s-party-campaign-event-in-the-city-of-pontevedra.md) _Context: People's Party, Spain, election_
 5. [In local and regional elections in Spain, the conservative People's Party performs well, while the ruling Socialist Party suffers heavy losses. ](/news/2011/05/22/in-local-and-regional-elections-in-spain-the-conservative-people-s-party-performs-well-while-the-ruling-socialist-party-suffers-heavy-loss.md) _Context: People's Party, Socialist Workers' Party, Spain_
-
-### Changes:
-
-1. [Today's parliamentary election is forecast to end Spain's two-party system as the traditional powers, the center-right People's Party (PP) and the center-left Socialist Workers' Party (PSOE), are facing real challenges from the anti-austerity Podemos Party and the liberal Ciudadanos party (C's). Analysts expect a high turnout. ](/news/2015/12/20/today-s-parliamentary-election-is-forecast-to-end-spain-s-two-party-system-as-the-traditional-powers-the-center-right-people-s-party-pp.md) _2017-08-25 03:44:06 (First version)_
-2. [Spanish general election, 2015: Today's parliamentary election is forecast to end Spain's two-party system as the traditional powers, the center-right People's Party (PP) and the center-left Socialist Workers' Party (PSOE), are facing real challenges from the anti-austerity Podemos Party and the liberal Ciudadanos party (C's). Analysts expect a high turnout. ](/news/2015/12/20/spanish-general-election-2015-today-s-parliamentary-election-is-forecast-to-end-spain-s-two-party-system-as-the-traditional-powers-the-ce.md) _2017-08-27 03:44:26 (Update)_
-2. [Today's parliamentary election is forecast to end Spain's two-party system as the traditional powers, the center-right People's Party (PP) and the center-left Socialist Workers' Party (PSOE), are facing real challenges from the anti-austerity Podemos Party and the liberal Ciudadanos party (C's). Analysts expect a high turnout. ](/news/2015/12/20/today-s-parliamentary-election-is-forecast-to-end-spain-s-two-party-system-as-the-traditional-powers-the-center-right-people-s-party-pp-a.md) _(Current version)_

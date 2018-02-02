@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2010/09/3/landslides-in-the-village-of-wama-near-baoshan-in-china-kill-at-least-12-people-with-36-missing.html)  [JSON](/news/2010/09/3/landslides-in-the-village-of-wama-near-baoshan-in-china-kill-at-least-12-people-with-36-missing.json)  [XML](/news/2010/09/3/landslides-in-the-village-of-wama-near-baoshan-in-china-kill-at-least-12-people-with-36-missing.xml)  
+
 ### [2010-09-3](/news/2010/09/3/index.md)
 
+##### Landslide
 # Landslides in the village of Wama near Baoshan in China kill at least 12 people with 36 missing. 
 
 Sky News Australia has the top stories in news online from Australia and the rest of the World.
 
 
-### Source:
+### Sources:
 
 1. [Sky News Australia](http://www.skynews.com.au/topstories/article.aspx?id=508532&articleID=1734646)
 1. [Cover Image](http://www.skynews.com.au/content/dam/skynews/default-images/sn-default.jpg/_jcr_content/renditions/skynews.img.1200.1006.jpeg)
 
 ### Related:
 
-1. [A rain-triggered landslide in southern China's Sichuan Province buries between 30-40 people. ](/news/2013/07/10/a-rain-triggered-landslide-in-southern-china-s-sichuan-province-buries-between-30-40-people.md) _Context: China, landslide_
-2. [Floods and landslides caused by a week of heavy rain in the People's Republic of China have killed at least 57 people and made as many as a million people homeless. ](/news/2011/09/20/floods-and-landslides-caused-by-a-week-of-heavy-rain-in-the-people-s-republic-of-china-have-killed-at-least-57-people-and-made-as-many-as-a.md) _Context: China, landslide_
-3. [More than 20 quarry workers are buried by a landslide in Luojiang near the Chinese resort city of Guilin. ](/news/2011/05/9/more-than-20-quarry-workers-are-buried-by-a-landslide-in-luojiang-near-the-chinese-resort-city-of-guilin.md) _Context: China, landslide_
-4. [ Twenty-six people are killed during and 100 others remain missing after a landslide near Chongqing, China. ](/news/2009/06/6/twenty-six-people-are-killed-during-and-100-others-remain-missing-after-a-landslide-near-chongqing-china.md) _Context: China, landslide_
-5. [ A landslide buries approximately 59 people and kills at least two others in Chongqing, China. ](/news/2009/06/5/a-landslide-buries-approximately-59-people-and-kills-at-least-two-others-in-chongqing-china.md) _Context: China, landslide_
+1. [At least 36 people die in a bus crash in China's Shaanxi province. The bus was travelling between Chengdu and Luoyang. ](/news/2017/08/10/at-least-36-people-die-in-a-bus-crash-in-china-s-shaanxi-province-the-bus-was-travelling-between-chengdu-and-luoyang.md) _Context: China_
+2. [An early morning fire in the Chinese city of Changshu in Jiangsu province kills 22 people and injures three. ](/news/2017/07/16/an-early-morning-fire-in-the-chinese-city-of-changshu-in-jiangsu-province-kills-22-people-and-injures-three.md) _Context: China_
+3. [A spokesman for the Taiwan Affairs Office of People's Republic of China says Taiwan is barred from observing this year's World Health Assembly because current President Tsai Ing-wen has not endorsed the Beijing view that both sides belong to a single China under the One-China policy; the spokesman further said that the health of people in Taiwan is not being put at risk by Taiwan's inability to attend. ](/news/2017/05/10/a-spokesman-for-the-taiwan-affairs-office-of-people-s-republic-of-china-says-taiwan-is-barred-from-observing-this-yearas-world-health-asse.md) _Context: China_
+4. [Ten people have died, five are injured and four missing after a bus plunges into a river in China's Guizhou province. ](/news/2017/04/17/ten-people-have-died-five-are-injured-and-four-missing-after-a-bus-plunges-into-a-river-in-china-s-guizhou-province.md) _Context: China_
+5. [People's Republic of China detains Taiwanese political activist Lee Ming-che on suspicion of endangering national security and revokes his wife's travel permit. ](/news/2017/04/10/people-s-republic-of-china-detains-taiwanese-political-activist-lee-ming-che-on-suspicion-of-endangering-national-security-and-revokes-his-w.md) _Context: China_

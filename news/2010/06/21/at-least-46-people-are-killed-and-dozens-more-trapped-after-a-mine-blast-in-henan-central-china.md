@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/21/at-least-46-people-are-killed-and-dozens-more-trapped-after-a-mine-blast-in-henan-central-china.html)  [JSON](/news/2010/06/21/at-least-46-people-are-killed-and-dozens-more-trapped-after-a-mine-blast-in-henan-central-china.json)  [XML](/news/2010/06/21/at-least-46-people-are-killed-and-dozens-more-trapped-after-a-mine-blast-in-henan-central-china.xml)  
+
 ### [2010-06-21](/news/2010/06/21/index.md)
 
+##### Henan
 # At least 46 people are killed and dozens more trapped after a mine blast in Henan, central China. 
 
 Twenty-six rescued after explosion rips through coal mine in Henan province.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/06/201062132254682513.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10151705.stm)

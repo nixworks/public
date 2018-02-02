@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/13/the-bbc-reveals-that-a-secret-deal-in-mid-octob
 
 ### [2017-11-13](/news/2017/11/13/index.md)
 
+##### Syrian Civil War
 # The BBC reveals that a secret deal in mid-October allowed hundreds of ISIL fighters and their families, including some of their "most notorious members", escape from Raqqa in a convoy that was between 6 to 7 km long. The United States government confirms that the deal with ISIL was made and that the evacuations took place. The possibility of a deal was previously reported as early as October 14. 
 
 The BBC has uncovered details of a secret deal that let hundreds of IS fighters – including foreign militants - and their families escape from Raqqa in Syria. In exchange for freeing hostages, a convoy which stretched for miles, was able to leave the city freely - under the gaze of the US and UK-led coalition and Kurdish forces who control the city. 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/6/an-egyptian-army-raid-in-central-sinai-kills-at-
 
 ### [2017-02-6](/news/2017/02/6/index.md)
 
+##### Sinai insurgency
 # An Egyptian Army raid in central Sinai kills at least 14 ISIL militants. 
 
  Egyptian soldiers killed 14 militants and arrested ten others in a raid in central Sinai, the military said on Monday.

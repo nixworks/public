@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/21/pakistan-s-opposition-interrupts-parliament-s-s
 
 ### [2017-04-21](/news/2017/04/21/index.md)
 
+##### Pakistan
 # Pakistan's opposition interrupts Parliament's scheduled session demanding Prime Minister Nawaz Sharif resign during the investigation of his finances, per Thursday's Supreme Court ruling. 
 
  Pakistani opposition party lawmakers tore up the agenda and shouted in a parliament session on Friday as they demanded that Prime Minister Nawaz Sharif step do

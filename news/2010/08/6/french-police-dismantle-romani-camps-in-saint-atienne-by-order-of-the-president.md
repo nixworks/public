@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/6/french-police-dismantle-romani-camps-in-saint-atienne-by-order-of-the-president.html)  [JSON](/news/2010/08/6/french-police-dismantle-romani-camps-in-saint-atienne-by-order-of-the-president.json)  [XML](/news/2010/08/6/french-police-dismantle-romani-camps-in-saint-atienne-by-order-of-the-president.xml)  
+
 ### [2010-08-6](/news/2010/08/6/index.md)
 
+##### France
 # French police dismantle Romani camps in Saint-Etienne by order of the president. 
 
 France begins taking down illegal Roma camps in line with a presidential order, with police dismantling a camp in Saint-Etienne.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10892669)
 2. [Expatica France](http://www.expatica.com/fr/news/local_news/france-sarkozy-s-gypsy-crackdown-begins_88330.html)

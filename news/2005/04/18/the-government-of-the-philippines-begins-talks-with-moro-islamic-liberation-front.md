@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/18/the-government-of-the-philippines-begins-talks-with-moro-islamic-liberation-front.html)  [JSON](/news/2005/04/18/the-government-of-the-philippines-begins-talks-with-moro-islamic-liberation-front.json)  [XML](/news/2005/04/18/the-government-of-the-philippines-begins-talks-with-moro-islamic-liberation-front.xml)  
+
 ### [2005-04-18](/news/2005/04/18/index.md)
 
+##### Moro Islamic Liberation Front
 #  The government of the Philippines begins talks with Moro Islamic Liberation Front. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4455425.stm)
 2. [Manila Times](http://www.manilatimes.net/national/2005/apr/18/yehey/top_stories/20050418top6.html)

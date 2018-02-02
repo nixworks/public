@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/25/the-bbc-world-service-is-to-close-five-of-its-language-services-with-the-loss-of-650-jobs.html)  [JSON](/news/2011/01/25/the-bbc-world-service-is-to-close-five-of-its-language-services-with-the-loss-of-650-jobs.json)  [XML](/news/2011/01/25/the-bbc-world-service-is-to-close-five-of-its-language-services-with-the-loss-of-650-jobs.xml)  
+
 ### [2011-01-25](/news/2011/01/25/index.md)
 
+##### BBC World Service
 # The BBC World Service is to close five of its language services with the loss of 650 jobs. 
 
 BBC World Service is to close five of its language services, with the likely loss of up to 650 jobs, it is understood.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-12277413)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

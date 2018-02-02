@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/1/renewed-violence-erupts-in-the-abyei-region-of-sudan-approximately-70-deaths-are-reported-and-analysts-warn-that-further-conflict-could-th.html)  [JSON](/news/2008/03/1/renewed-violence-erupts-in-the-abyei-region-of-sudan-approximately-70-deaths-are-reported-and-analysts-warn-that-further-conflict-could-th.json)  [XML](/news/2008/03/1/renewed-violence-erupts-in-the-abyei-region-of-sudan-approximately-70-deaths-are-reported-and-analysts-warn-that-further-conflict-could-th.xml)  
+
 ### [2008-03-1](/news/2008/03/1/index.md)
 
+##### Abyei
 #  Renewed violence erupts in the Abyei region of Sudan. Approximately 70 deaths are reported and analysts warn that further conflict could threaten the peace process. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L02440386.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/7/voters-in-iraq-take-part-in-parliamentary-elections-and-a-referendum-on-the-status-of-forces-agreement.html)  [JSON](/news/2010/03/7/voters-in-iraq-take-part-in-parliamentary-elections-and-a-referendum-on-the-status-of-forces-agreement.json)  [XML](/news/2010/03/7/voters-in-iraq-take-part-in-parliamentary-elections-and-a-referendum-on-the-status-of-forces-agreement.xml)  
+
 ### [2010-03-7](/news/2010/03/7/index.md)
 
+##### Iraq
 # Voters in Iraq take part in parliamentary elections and a referendum on the Status of Forces Agreement. 
 
 At least 24 people killed and 50 wounded as voters head to the polls in parliamentary elections.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/03/2010374812200368.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8553929.stm)

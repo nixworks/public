@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/7/the-israeli-air-force-attacks-the-gaza-strip-after-palestinian-militants-fire-two-rockets-into-the-country.html)  [JSON](/news/2009/02/7/the-israeli-air-force-attacks-the-gaza-strip-after-palestinian-militants-fire-two-rockets-into-the-country.json)  [XML](/news/2009/02/7/the-israeli-air-force-attacks-the-gaza-strip-after-palestinian-militants-fire-two-rockets-into-the-country.xml)  
+
 ### [2009-02-7](/news/2009/02/7/index.md)
 
+##### Israel
 #  The Israeli Air Force attacks the Gaza Strip after Palestinian militants fire two rockets into the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://haaretz.com/hasen/spages/1061982.html)
 

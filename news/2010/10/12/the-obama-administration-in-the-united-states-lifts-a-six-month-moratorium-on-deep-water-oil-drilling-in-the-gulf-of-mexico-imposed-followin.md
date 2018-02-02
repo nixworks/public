@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/12/the-obama-administration-in-the-united-states-lifts-a-six-month-moratorium-on-deep-water-oil-drilling-in-the-gulf-of-mexico-imposed-followin.html)  [JSON](/news/2010/10/12/the-obama-administration-in-the-united-states-lifts-a-six-month-moratorium-on-deep-water-oil-drilling-in-the-gulf-of-mexico-imposed-followin.json)  [XML](/news/2010/10/12/the-obama-administration-in-the-united-states-lifts-a-six-month-moratorium-on-deep-water-oil-drilling-in-the-gulf-of-mexico-imposed-followin.xml)  
+
 ### [2010-10-12](/news/2010/10/12/index.md)
 
+##### Obama administration
 # The Obama administration in the United States lifts a six month moratorium on deep water oil drilling in the Gulf of Mexico imposed following the Deepwater Horizon oil spill. 
 
 The Obama administration has lifted a six month moratorium on deep water oil drilling in the Gulf of Mexico.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11528910)
 1. [Cover Image](http://playlists.bbc.co.uk/news/world-us-canada-11528910A/playlist.sxml)

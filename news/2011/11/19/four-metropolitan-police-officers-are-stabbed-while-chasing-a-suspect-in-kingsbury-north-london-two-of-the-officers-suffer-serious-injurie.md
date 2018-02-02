@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/19/four-metropolitan-police-officers-are-stabbed-while-chasing-a-suspect-in-kingsbury-north-london-two-of-the-officers-suffer-serious-injurie.html)  [JSON](/news/2011/11/19/four-metropolitan-police-officers-are-stabbed-while-chasing-a-suspect-in-kingsbury-north-london-two-of-the-officers-suffer-serious-injurie.json)  [XML](/news/2011/11/19/four-metropolitan-police-officers-are-stabbed-while-chasing-a-suspect-in-kingsbury-north-london-two-of-the-officers-suffer-serious-injurie.xml)  
+
 ### [2011-11-19](/news/2011/11/19/index.md)
 
+##### Metropolitan Police Service
 # Four Metropolitan Police officers are stabbed while chasing a suspect in Kingsbury, north London. Two of the officers suffer serious injuries, while a 32-year-old male is arrested for attempted murder. 
 
 Four police officers are stabbed after being called to a disturbance in north-west London.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-london-15803860)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56809000/jpg/_56809974_brent-20111119-00129.jpg)

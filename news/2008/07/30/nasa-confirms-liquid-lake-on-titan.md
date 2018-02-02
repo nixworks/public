@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/30/nasa-confirms-liquid-lake-on-titan.html)  [JSON](/news/2008/07/30/nasa-confirms-liquid-lake-on-titan.json)  [XML](/news/2008/07/30/nasa-confirms-liquid-lake-on-titan.xml)  
+
 ### [2008-07-30](/news/2008/07/30/index.md)
 
+##### NASA
 #  NASA confirms liquid lake on Titan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://www.jpl.nasa.gov/news/news.cfm?release=2008-152)
 

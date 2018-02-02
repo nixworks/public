@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2007/08/1/the-us-house-of-representatives-passes-a-resolution-to-lift-travel-restrictions-on-taiwan-s-president-and-other-high-level-officials-visiti.html)  [JSON](/news/2007/08/1/the-us-house-of-representatives-passes-a-resolution-to-lift-travel-restrictions-on-taiwan-s-president-and-other-high-level-officials-visiti.json)  [XML](/news/2007/08/1/the-us-house-of-representatives-passes-a-resolution-to-lift-travel-restrictions-on-taiwan-s-president-and-other-high-level-officials-visiti.xml)  
+
 ### [2007-08-1](/news/2007/08/1/index.md)
 
+##### House of Representatives
 #  The US House of Representatives passes a resolution to lift travel restrictions on Taiwan's president and other high-level officials visiting the United States. 
 
 The House of Representatives passed a resolution Monday that recommends the lifting of restrictions on Taiwan’s president and other high-level officials visiting the United States.
 
 
-### Source:
+### Sources:
 
 1. [AP via China Post](http://www.chinapost.com.tw/news/2007/08/01/116635/House-resolves.htm)
 1. [Cover Image](http://www.chinapost.com.tw)
 
 ### Related:
 
-1. [Tainan Mayor William Lai Ching-te is appointed as the new Premier by the President of the Republic of China Tsai Ing-wen. ](/news/2017/09/5/tainan-mayor-william-lai-ching-te-is-appointed-as-the-new-premier-by-the-president-of-the-republic-of-china-tsai-ing-wen.md) _Context: Taiwan_
-2. [Google strikes a $1.1bn (GBP822m) deal with Taiwan's HTC to expand its smartphone business. ](/news/2017/09/21/google-strikes-a-1-1bn-agbp822m-deal-with-taiwan-s-htc-to-expand-its-smartphone-business.md) _Context: Taiwan_
-3. [FORMOSAT-5, the first satellite fully designed by Taiwan's National Space Organization, is launched into low-earth orbit by SpaceX's Falcon 9 rocket. ](/news/2017/08/25/formosat-5-the-first-satellite-fully-designed-by-taiwan-s-national-space-organization-is-launched-into-low-earth-orbit-by-spacex-s-falcon.md) _Context: Taiwan_
-4. [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.md) _Context: United States House of Representatives_
-5. [The United States plans to sell Taiwan $1.42 billion in arms, the first such sale under the administration of Donald Trump. ](/news/2017/06/29/the-united-states-plans-to-sell-taiwan-1-42-billion-in-arms-the-first-such-sale-under-the-administration-of-donald-trump.md) _Context: Taiwan_
+1. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _Context: House of Representatives_
+2. [The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program, permitted by Section 702. Changes to the program will require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. ](/news/2018/01/11/the-united-states-house-of-representatives-passes-a-bill-to-reauthorize-for-a-period-of-six-years-a-key-foreign-intelligence-collection-pr.md) _Context: House of Representatives_
+3. [Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations that he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. ](/news/2017/12/8/trent-franks-a-united-states-representative-for-arizona-s-8th-congressional-district-announces-his-immediate-resignation-following-allega.md) _Context: House of Representatives_
+4. [U.S. Representative John Conyers (D-Mich.) steps down amid allegations of sexual harassment. ](/news/2017/12/5/u-s-representative-john-conyers-d-mich-steps-down-amid-allegations-of-sexual-harassment.md) _Context: House of Representatives_
+5. [The United States Senate and House of Representatives pass the Tax Cuts and Jobs Act of 2017, which sends it to United States President Donald Trump for signing. This comes after a previous and different version of this legislation was passed by the House yesterday. The law removes the individual insurance mandate from Obamacare. ](/news/2017/12/20/the-united-states-senate-and-house-of-representatives-pass-the-tax-cuts-and-jobs-act-of-2017-which-sends-it-to-united-states-president-dona.md) _Context: House of Representatives_

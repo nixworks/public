@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/9/chad-and-sudan-resume-diplomatic-relations-as-part-of-the-dakar-accord-the-heads-of-state-of-chad-sudan-and-libya-embrace-in-front-of-a.html)  [JSON](/news/2006/08/9/chad-and-sudan-resume-diplomatic-relations-as-part-of-the-dakar-accord-the-heads-of-state-of-chad-sudan-and-libya-embrace-in-front-of-a.json)  [XML](/news/2006/08/9/chad-and-sudan-resume-diplomatic-relations-as-part-of-the-dakar-accord-the-heads-of-state-of-chad-sudan-and-libya-embrace-in-front-of-a.xml)  
+
 ### [2006-08-9](/news/2006/08/9/index.md)
 
+##### Chad
 #  Chad and Sudan resume diplomatic relations as part of the Dakar accord. The heads of state of Chad, Sudan, and Libya embrace in front of a cheering crowd in N'Djamena. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/4775111.stm)
 

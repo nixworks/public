@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/9/queen-elizabeth-ii-becomes-britain-s-longest-reigning-monarch-63-years-and-seven-months-surpassing-the-record-set-by-queen-victoria-her.html)  [JSON](/news/2015/09/9/queen-elizabeth-ii-becomes-britain-s-longest-reigning-monarch-63-years-and-seven-months-surpassing-the-record-set-by-queen-victoria-her.json)  [XML](/news/2015/09/9/queen-elizabeth-ii-becomes-britain-s-longest-reigning-monarch-63-years-and-seven-months-surpassing-the-record-set-by-queen-victoria-her.xml)  
+
 ### [2015-09-9](/news/2015/09/9/index.md)
 
+##### Elizabeth II
 # Queen Elizabeth II becomes Britain's longest-reigning monarch (63 years and seven months), surpassing the record set by Queen Victoria, her great-great-grandmother. 
 
 Elizabeth, aged 89, surpasses the 63 years her great-great-grandmother Queen Victoria spent on the throne.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera English Online](http://www.aljazeera.com/news/2015/09/queen-elizabeth-uk-longest-reigning-monarch-150909020842759.html)
 2. [BBC](http://www.bbc.com/news/uk-34177107)

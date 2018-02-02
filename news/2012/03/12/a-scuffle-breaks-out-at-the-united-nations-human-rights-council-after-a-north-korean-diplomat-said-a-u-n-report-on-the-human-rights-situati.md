@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/12/a-scuffle-breaks-out-at-the-united-nations-human-rights-council-after-a-north-korean-diplomat-said-a-u-n-report-on-the-human-rights-situati.html)  [JSON](/news/2012/03/12/a-scuffle-breaks-out-at-the-united-nations-human-rights-council-after-a-north-korean-diplomat-said-a-u-n-report-on-the-human-rights-situati.json)  [XML](/news/2012/03/12/a-scuffle-breaks-out-at-the-united-nations-human-rights-council-after-a-north-korean-diplomat-said-a-u-n-report-on-the-human-rights-situati.xml)  
+
 ### [2012-03-12](/news/2012/03/12/index.md)
 
+##### Human Rights Council
 # A scuffle breaks out at the United Nations Human Rights Council after a North Korean diplomat said a U.N. report on the human rights situation in the country had been "fabricated". 
 
 The report covers the period from Sep 2011 to Jan 2012, when it said the situation in N Korea continued to deteriorate.
 
 
-### Source:
+### Sources:
 
 1. [Zee News India](http://zeenews.india.com/news/world/scuffle-after-n-korea-rejects-fabricated-un-rpt_763467.html)
 

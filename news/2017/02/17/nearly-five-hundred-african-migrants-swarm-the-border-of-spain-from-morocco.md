@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/17/nearly-five-hundred-african-migrants-swarm-the-
 
 ### [2017-02-17](/news/2017/02/17/index.md)
 
+##### European migrant crisis
 # Nearly five hundred African migrants swarm the border of Spain from Morocco. 
 
 

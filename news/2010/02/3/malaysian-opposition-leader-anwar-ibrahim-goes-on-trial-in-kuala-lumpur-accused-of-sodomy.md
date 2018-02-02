@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/3/malaysian-opposition-leader-anwar-ibrahim-goes-on-trial-in-kuala-lumpur-accused-of-sodomy.html)  [JSON](/news/2010/02/3/malaysian-opposition-leader-anwar-ibrahim-goes-on-trial-in-kuala-lumpur-accused-of-sodomy.json)  [XML](/news/2010/02/3/malaysian-opposition-leader-anwar-ibrahim-goes-on-trial-in-kuala-lumpur-accused-of-sodomy.xml)  
+
 ### [2010-02-3](/news/2010/02/3/index.md)
 
+##### Malaysia
 # Malaysian opposition leader Anwar Ibrahim goes on trial in Kuala Lumpur, accused of sodomy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jQuZdieobqPfln7WXPjaBjm6kQog)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8495000.stm)

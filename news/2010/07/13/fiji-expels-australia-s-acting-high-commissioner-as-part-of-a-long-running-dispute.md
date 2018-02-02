@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/13/fiji-expels-australia-s-acting-high-commissioner-as-part-of-a-long-running-dispute.html)  [JSON](/news/2010/07/13/fiji-expels-australia-s-acting-high-commissioner-as-part-of-a-long-running-dispute.json)  [XML](/news/2010/07/13/fiji-expels-australia-s-acting-high-commissioner-as-part-of-a-long-running-dispute.xml)  
+
 ### [2010-07-13](/news/2010/07/13/index.md)
 
+##### Fiji
 # Fiji expels Australia's acting High Commissioner as part of a long-running dispute. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10602496.stm)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

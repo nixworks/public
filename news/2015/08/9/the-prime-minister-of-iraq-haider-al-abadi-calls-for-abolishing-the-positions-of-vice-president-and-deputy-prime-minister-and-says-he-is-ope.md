@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/08/9/the-prime-minister-of-iraq-haider-al-abadi-calls-for-abolishing-the-positions-of-vice-president-and-deputy-prime-minister-and-says-he-is-ope.html)  [JSON](/news/2015/08/9/the-prime-minister-of-iraq-haider-al-abadi-calls-for-abolishing-the-positions-of-vice-president-and-deputy-prime-minister-and-says-he-is-ope.json)  [XML](/news/2015/08/9/the-prime-minister-of-iraq-haider-al-abadi-calls-for-abolishing-the-positions-of-vice-president-and-deputy-prime-minister-and-says-he-is-ope.xml)  
+
 ### [2015-08-9](/news/2015/08/9/index.md)
 
+##### Iraq Prime Minister
 # The Prime Minister of Iraq Haider al-Abadi calls for abolishing the positions of Vice President and Deputy Prime Minister and says he is opening graft investigations. The previous vice president Tariq al-Hashimi was sentenced in absentia to death over political murders. 
 
 Iraqi Prime Minister Haidar Al-Abadi, backed by the nation’s top Shiite cleric, vowed to investigate corruption and proposed abolishing key government posts in a move that will test his authority in the fractured country.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-08-09/iraq-s-abadi-abolishes-key-government-posts-vows-to-fight-graft)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2015-08-09/iraq-s-abadi-abolishes-key-government-posts-vows-to-fight-graft)
 1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:

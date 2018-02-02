@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/18/japanese-cabinet-minister-yoshitaka-shinda-visits-the-controversial-yasukuni-shrine-potentially-causing-conflict-with-the-philippines-sout.html)  [JSON](/news/2013/10/18/japanese-cabinet-minister-yoshitaka-shinda-visits-the-controversial-yasukuni-shrine-potentially-causing-conflict-with-the-philippines-sout.json)  [XML](/news/2013/10/18/japanese-cabinet-minister-yoshitaka-shinda-visits-the-controversial-yasukuni-shrine-potentially-causing-conflict-with-the-philippines-sout.xml)  
+
 ### [2013-10-18](/news/2013/10/18/index.md)
 
+##### Yoshitaka Shindo
 # Japanese cabinet minister Yoshitaka Shindo visits the controversial Yasukuni Shrine potentially causing conflict with the Philippines, South Korea and the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iwxgk1E8drx-mrxcM1XMkdnC73ag?docId=8b1ae4e6-c9ae-4de6-9a90-484b464fc652&hl=en)
 

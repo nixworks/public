@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/22/in-the-canadian-province-of-alberta-the-progressive-conservative-party-under-premier-ralph-klein-is-re-elected-to-a-10th-consecutive-term.html)  [JSON](/news/2004/11/22/in-the-canadian-province-of-alberta-the-progressive-conservative-party-under-premier-ralph-klein-is-re-elected-to-a-10th-consecutive-term.json)  [XML](/news/2004/11/22/in-the-canadian-province-of-alberta-the-progressive-conservative-party-under-premier-ralph-klein-is-re-elected-to-a-10th-consecutive-term.xml)  
+
 ### [2004-11-22](/news/2004/11/22/index.md)
 
+##### Alberta
 #  In the Canadian province of Alberta, the Progressive Conservative party under Premier Ralph Klein is re-elected to a 10th consecutive term, and the fourth for Klein. The PCs drop to from 74 to 60 seats in the 83-seat legislature.
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2004/11/23/alberta-election-041123.html)
 2. [Edmonton Journal](http://www.canada.com/edmonton/edmontonjournal/news/albertavotes/story.html?id=2d2409f2-d950-4ab9-b305-af2a0f8c80c4)

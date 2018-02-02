@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2014/08/26/a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.html)  [JSON](/news/2014/08/26/a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.json)  [XML](/news/2014/08/26/a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.xml)  
+
 ### [2014-08-26](/news/2014/08/26/index.md)
 
+##### car bomb
 # A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/08/26/us-iraq-security-blast-idUSKBN0GQ0DV20140826)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20140826&t=2&i=967060780&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7P0G3)
+1. [Reuters](https://www.reuters.com/article/2014/08/26/us-iraq-security-blast-idUSKBN0GQ0DV20140826)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20140826&t=2&i=967060780&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA7P0G3)
+
+### Changes:
+
+1. [Iraqi insurgency (2011-present):A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/iraqi-insurgency-2011apresent-pa-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.md) _2017-08-25 03:40:53 (First version)_
+2. [Iraqi insurgency (2011-present):: A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/iraqi-insurgency-2011-present-a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-2.md) _2017-08-27 03:41:12 (Update)_
+2. [A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [A suicide car bomb kills at least 21 people and wounds more than 32 at the entrance to Al Khalis, northeast of Baghdad. Most died inside their vehicles while waiting to enter the town. ](/news/2016/07/25/a-suicide-car-bomb-kills-at-least-21-people-and-wounds-more-than-32-at-the-entrance-to-al-khalis-northeast-of-baghdad-most-died-inside-the.md) _Context: Baghdad, car bomb_
 4. [A car bombing in southeastern Baghdad kills at least 19 and injures nearly 50 Shi'ite pilgrims. ISIL has claimed responsibility. ](/news/2016/04/30/a-car-bombing-in-southeastern-baghdad-kills-at-least-19-and-injures-nearly-50-shi-ite-pilgrims-isil-has-claimed-responsibility.md) _Context: Baghdad, Shi'ite_
 5. [A car bomb detonates in the parking lot of a Baghdad police station while police attempt to defuse it, killing six officers and injuring another ten. ](/news/2015/08/28/a-car-bomb-detonates-in-the-parking-lot-of-a-baghdad-police-station-while-police-attempt-to-defuse-it-killing-six-officers-and-injuring-ano.md) _Context: Baghdad, car bomb_
-
-### Changes:
-
-1. [Iraqi insurgency (2011-present):A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/iraqi-insurgency-2011apresent-pa-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.md) _2017-08-25 03:40:53 (First version)_
-2. [Iraqi insurgency (2011-present):: A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/iraqi-insurgency-2011-present-a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-2.md) _2017-08-27 03:41:12 (Update)_
-2. [A car bomb explodes in a mainly Shi'ite section of Baghdad, killing at least eight people and wounding 20. ](/news/2014/08/26/a-car-bomb-explodes-in-a-mainly-shi-ite-section-of-baghdad-killing-at-least-eight-people-and-wounding-20.md) _(Current version)_

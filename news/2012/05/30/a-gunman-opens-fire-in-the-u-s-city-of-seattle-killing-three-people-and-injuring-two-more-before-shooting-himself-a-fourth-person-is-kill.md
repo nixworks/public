@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/05/30/a-gunman-opens-fire-in-the-u-s-city-of-seattle-killing-three-people-and-injuring-two-more-before-shooting-himself-a-fourth-person-is-kill.html)  [JSON](/news/2012/05/30/a-gunman-opens-fire-in-the-u-s-city-of-seattle-killing-three-people-and-injuring-two-more-before-shooting-himself-a-fourth-person-is-kill.json)  [XML](/news/2012/05/30/a-gunman-opens-fire-in-the-u-s-city-of-seattle-killing-three-people-and-injuring-two-more-before-shooting-himself-a-fourth-person-is-kill.xml)  
+
 ### [2012-05-30](/news/2012/05/30/index.md)
 
+##### Seattle, Washington
 # A gunman opens fire in the U.S. city of Seattle, killing three people and injuring two more before shooting himself. A fourth person is killed in a separate incident in the city before the suspected gunman in both incidents kills himself. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/national/gunman-kills-2-at-seattle-cafe-wounds-3-police-search-for-suspect-on-the-loose/2012/05/30/gJQAfpvF2U_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/national/gunman-kills-2-at-seattle-cafe-wounds-3-police-search-for-suspect-on-the-loose/2012/05/30/gJQAfpvF2U_story.html)
 2. [King 5](http://www.king5.com/news/local/Triple-shooting-in-northeast-Seattle-155756215.html)
 3. [Seattle Times](http://seattletimes.nwsource.com/html/localnews/2018316552_roosevelt31m.html)
 

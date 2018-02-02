@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/08/15/suffocation-in-the-hold-of-a-boat-in-the-mediterranean-sea-near-the-libyan-coast-kills-at-least-40-migrants.html)  [JSON](/news/2015/08/15/suffocation-in-the-hold-of-a-boat-in-the-mediterranean-sea-near-the-libyan-coast-kills-at-least-40-migrants.json)  [XML](/news/2015/08/15/suffocation-in-the-hold-of-a-boat-in-the-mediterranean-sea-near-the-libyan-coast-kills-at-least-40-migrants.xml)  
+
 ### [2015-08-15](/news/2015/08/15/index.md)
 
+##### Mediterranean Sea
 # Suffocation in the hold of a boat in the Mediterranean Sea near the Libyan coast kills at least 40 migrants. 
 
 At least 40 migrants died after apparently getting trapped and suffocating in the water-logged hold of a fishing boat in the Mediterranean, the Italian navy said on Saturday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/08/15/us-europe-migrants-italy-idUSKCN0QK0A320150815?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150815&t=2&i=1072083487&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7E055)
+1. [Reuters](https://www.reuters.com/article/2015/08/15/us-europe-migrants-italy-idUSKCN0QK0A320150815?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150815&t=2&i=1072083487&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB7E055)
 
 ### Related:
 

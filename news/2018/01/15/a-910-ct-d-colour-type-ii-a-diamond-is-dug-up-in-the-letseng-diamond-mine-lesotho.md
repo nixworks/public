@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/15/a-910-ct-d-colour-type-ii-a-diamond-is-dug-up-i
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
+##### List of largest rough diamonds
 # A 910 ct "D colour Type II A" diamond is dug up in the Letseng diamond mine, Lesotho. 
 
 A 910 carat (ct) diamond recovered at GEM Diamonds&#8217; Letšeng mine in Lesotho could fetch more than $40m and help support the firm&#8217;s under-pressure balance sheet. Shares in GEM gained 13% in early morning trade on the London Stock Exchange. On a 12-month basis, however, the company has lost a fifth of its value. &#8220;We

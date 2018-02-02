@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/21/mount-tongariro-a-volcano-on-the-north-island-of-new-zealand-erupts-for-the-second-time-in-four-months-with-efforts-underway-to-rescue-pe.html)  [JSON](/news/2012/11/21/mount-tongariro-a-volcano-on-the-north-island-of-new-zealand-erupts-for-the-second-time-in-four-months-with-efforts-underway-to-rescue-pe.json)  [XML](/news/2012/11/21/mount-tongariro-a-volcano-on-the-north-island-of-new-zealand-erupts-for-the-second-time-in-four-months-with-efforts-underway-to-rescue-pe.xml)  
+
 ### [2012-11-21](/news/2012/11/21/index.md)
 
+##### Mount Tongariro
 # Mount Tongariro, a volcano on the North Island of New Zealand, erupts for the second time in four months, with efforts underway to rescue people on the Tongariro Alpine Crossing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/world/nz-volcano-mt-tongariro-erupts/story-fndir2ev-1226521131017?from=public_rss)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/c553739455a6bf4b8a242bf8bf788594)

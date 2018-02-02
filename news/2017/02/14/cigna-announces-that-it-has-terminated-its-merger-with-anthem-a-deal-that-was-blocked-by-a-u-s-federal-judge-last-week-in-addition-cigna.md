@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/14/cigna-announces-that-it-has-terminated-its-merg
 
 ### [2017-02-14](/news/2017/02/14/index.md)
 
+##### Cigna
 # Cigna announces that it has terminated its merger with Anthem, a deal that was blocked by a U.S. federal judge last week. In addition, Cigna sues Anthem for the $1.85 billion reverse termination fee, and for more than $13 billion in additional damages. Anthem says Cigna has no right to terminate the merger, a deal which in January was extended to April 30, 2017. 
 
 Simmering tensions between Anthem Inc. and Cigna Corp. exploded Tuesday as Cigna sued to end their $48 billion deal, and Anthem moments later said it would fight to keep the merger alive.

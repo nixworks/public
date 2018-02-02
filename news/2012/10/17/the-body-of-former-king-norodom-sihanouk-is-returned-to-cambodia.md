@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/17/the-body-of-former-king-norodom-sihanouk-is-returned-to-cambodia.html)  [JSON](/news/2012/10/17/the-body-of-former-king-norodom-sihanouk-is-returned-to-cambodia.json)  [XML](/news/2012/10/17/the-body-of-former-king-norodom-sihanouk-is-returned-to-cambodia.xml)  
+
 ### [2012-10-17](/news/2012/10/17/index.md)
 
+##### King Norodom Sihanouk
 # The body of former King Norodom Sihanouk is returned to Cambodia. 
 
 The body of former King Norodom Sihanouk returns to Cambodia, marking the start of a week of mourning.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-19966047)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/63531000/jpg/_63531829_63531828.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/17/a-fire-breaks-out-at-a-hospital-in-the-east-ind
 
 ### [2016-10-17](/news/2016/10/17/index.md)
 
+##### East India
 # A fire breaks out at a hospital in the East Indian city of Bhubaneswar, Odisha, killing at least 20 people. 
 
 

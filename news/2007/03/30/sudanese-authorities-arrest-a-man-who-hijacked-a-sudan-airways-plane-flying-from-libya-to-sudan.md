@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/30/sudanese-authorities-arrest-a-man-who-hijacked-a-sudan-airways-plane-flying-from-libya-to-sudan.html)  [JSON](/news/2007/03/30/sudanese-authorities-arrest-a-man-who-hijacked-a-sudan-airways-plane-flying-from-libya-to-sudan.json)  [XML](/news/2007/03/30/sudanese-authorities-arrest-a-man-who-hijacked-a-sudan-airways-plane-flying-from-libya-to-sudan.xml)  
+
 ### [2007-03-30](/news/2007/03/30/index.md)
 
+##### Sudan
 #  Sudanese authorities arrest a man who hijacked a Sudan Airways plane flying from Libya to Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Boston Globe](http://www.boston.com/news/world/africa/articles/2007/03/30/hijacked_plane_lands_at_khartoum_airport/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/26/chile-s-supreme-court-strips-former-military-ruler-augusto-pinochet-of-his-immunity-from-prosecution-allowing-him-to-be-prosecuted-for-all.html)  [JSON](/news/2004/08/26/chile-s-supreme-court-strips-former-military-ruler-augusto-pinochet-of-his-immunity-from-prosecution-allowing-him-to-be-prosecuted-for-all.json)  [XML](/news/2004/08/26/chile-s-supreme-court-strips-former-military-ruler-augusto-pinochet-of-his-immunity-from-prosecution-allowing-him-to-be-prosecuted-for-all.xml)  
+
 ### [2004-08-26](/news/2004/08/26/index.md)
 
+##### Chile
 #  Chile's Supreme Court strips former military ruler Augusto Pinochet of his immunity from prosecution, allowing him to be prosecuted for alleged crimes including involvement in murder and torture. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/3602630.stm)
 

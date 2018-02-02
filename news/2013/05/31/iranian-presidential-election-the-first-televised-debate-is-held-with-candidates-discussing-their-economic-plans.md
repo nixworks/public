@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/31/iranian-presidential-election-the-first-televised-debate-is-held-with-candidates-discussing-their-economic-plans.html)  [JSON](/news/2013/05/31/iranian-presidential-election-the-first-televised-debate-is-held-with-candidates-discussing-their-economic-plans.json)  [XML](/news/2013/05/31/iranian-presidential-election-the-first-televised-debate-is-held-with-candidates-discussing-their-economic-plans.xml)  
+
 ### [2013-05-31](/news/2013/05/31/index.md)
 
+##### presidential
 # Iranian presidential election: The first televised debate is held with candidates discussing their economic plans. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PressTV](http://www.presstv.ir/detail/2013/05/31/306435/iran-candidates-hold-first-live-debate/)
 2. [Trend](http://en.trend.az/regions/iran/2156516.html)

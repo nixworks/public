@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/01/15/china-may-station-troops-in-north-korea-to-protect-its-investment-projects-and-citizens.html)  [JSON](/news/2011/01/15/china-may-station-troops-in-north-korea-to-protect-its-investment-projects-and-citizens.json)  [XML](/news/2011/01/15/china-may-station-troops-in-north-korea-to-protect-its-investment-projects-and-citizens.xml)  
+
 ### [2011-01-15](/news/2011/01/15/index.md)
 
+##### China
 # China may station troops in North Korea to protect its investment projects and citizens.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail/160227.html)
-2. [Yahoo News](http://news.yahoo.com/s/afp/20110115/wl_asia_afp/nkoreachinaeconomymilitary)
+2. [Yahoo News](https://news.yahoo.com/s/afp/20110115/wl_asia_afp/nkoreachinaeconomymilitary)
 
 ### Related:
 

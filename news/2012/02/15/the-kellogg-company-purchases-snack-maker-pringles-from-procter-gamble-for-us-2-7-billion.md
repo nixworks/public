@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/15/the-kellogg-company-purchases-snack-maker-pringles-from-procter-gamble-for-us-2-7-billion.html)  [JSON](/news/2012/02/15/the-kellogg-company-purchases-snack-maker-pringles-from-procter-gamble-for-us-2-7-billion.json)  [XML](/news/2012/02/15/the-kellogg-company-purchases-snack-maker-pringles-from-procter-gamble-for-us-2-7-billion.xml)  
+
 ### [2012-02-15](/news/2012/02/15/index.md)
 
+##### Kellogg Company
 # The Kellogg Company purchases snack maker Pringles from Procter & Gamble for US$2.7 billion. 
 
 Kellogg to expand in the snacks business by agreeing to buy Pringles from Procter &amp; Gamble for $2.7bn.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-17046698)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58514000/jpg/_58514304_pringle.jpg)

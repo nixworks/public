@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/16/six-people-are-killed-and-eight-are-injured-some-with-life-threatening-injuries-after-a-balcony-collapses-in-berkeley-california-near-th.html)  [JSON](/news/2015/06/16/six-people-are-killed-and-eight-are-injured-some-with-life-threatening-injuries-after-a-balcony-collapses-in-berkeley-california-near-th.json)  [XML](/news/2015/06/16/six-people-are-killed-and-eight-are-injured-some-with-life-threatening-injuries-after-a-balcony-collapses-in-berkeley-california-near-th.xml)  
+
 ### [2015-06-16](/news/2015/06/16/index.md)
 
+##### balcony
 # Six people are killed and eight are injured, some with life-threatening injuries, after a balcony collapses in Berkeley, California, near the campus of the University of California, Berkeley; five of the casualties are students. 
 
 Six people were killed and seven others wounded when a fourth-floor balcony collapsed in Berkeley, California, early Tuesday, police said.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_BERKELEY_BALCONY_COLLAPSE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [NBC News](http://www.nbcnews.com/news/us-news/five-killed-balcony-collapses-fourth-floor-berkeley-n376181)

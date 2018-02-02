@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/11/due-to-lack-of-evidence-a-french-court-drops-a-case-against-former-imf-chief-dominique-strauss-kahn-for-allegedly-running-a-prostitution-ri.html)  [JSON](/news/2013/06/11/due-to-lack-of-evidence-a-french-court-drops-a-case-against-former-imf-chief-dominique-strauss-kahn-for-allegedly-running-a-prostitution-ri.json)  [XML](/news/2013/06/11/due-to-lack-of-evidence-a-french-court-drops-a-case-against-former-imf-chief-dominique-strauss-kahn-for-allegedly-running-a-prostitution-ri.xml)  
+
 ### [2013-06-11](/news/2013/06/11/index.md)
 
+##### French-born
 # Due to lack of evidence, a French court drops a case against former IMF chief Dominique Strauss-Kahn for allegedly running a prostitution ring. 
 
 A French court has dismissed a case against Dominique Strauss-Kahn in relation to an alleged prostitution ring according to France 24. 
 
 
-### Source:
+### Sources:
 
 1. [ITV](http://www.itv.com/news/update/2013-06-11/report-french-court-drops-dominique-strauss-kahn-prostitute-ring-case/)
 1. [Cover Image](http://news-assets.sn.itv.com/image/file/217259/8883f895d0704daf_1370941494_9j-4aaqsk.jpeg)

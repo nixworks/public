@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/8/bahrain-s-king-hamad-bin-isa-al-khalifa-orders-an-end-to-the-emergency-law-imposed-after-anti-government-protests.html)  [JSON](/news/2011/05/8/bahrain-s-king-hamad-bin-isa-al-khalifa-orders-an-end-to-the-emergency-law-imposed-after-anti-government-protests.json)  [XML](/news/2011/05/8/bahrain-s-king-hamad-bin-isa-al-khalifa-orders-an-end-to-the-emergency-law-imposed-after-anti-government-protests.xml)  
+
 ### [2011-05-8](/news/2011/05/8/index.md)
 
+##### Bahrain
 # Bahrain's King Hamad bin Isa Al Khalifa orders an end to the emergency law imposed after anti-government protests. 
 
 Royal decree, due to take effect on June 1, comes as opposition activists appear in a special security court.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/2011581342480276.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/3/18/2011318651355371_20.jpg)

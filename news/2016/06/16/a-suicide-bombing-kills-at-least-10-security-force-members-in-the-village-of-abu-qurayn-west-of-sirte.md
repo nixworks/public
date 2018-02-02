@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/16/a-suicide-bombing-kills-at-least-10-security-fo
 
 ### [2016-06-16](/news/2016/06/16/index.md)
 
+##### Libyan Civil War (2014-present)
 # A suicide bombing kills at least 10 security force members in the village of Abu Qurayn, west of Sirte. 
 
 Suicide car bomb kills 10 members of forces allied to UN-backed government and wounds seven others west of Sirte.

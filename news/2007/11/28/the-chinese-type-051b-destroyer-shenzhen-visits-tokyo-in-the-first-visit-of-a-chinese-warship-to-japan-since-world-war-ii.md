@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/28/the-chinese-type-051b-destroyer-shenzhen-visits-tokyo-in-the-first-visit-of-a-chinese-warship-to-japan-since-world-war-ii.html)  [JSON](/news/2007/11/28/the-chinese-type-051b-destroyer-shenzhen-visits-tokyo-in-the-first-visit-of-a-chinese-warship-to-japan-since-world-war-ii.json)  [XML](/news/2007/11/28/the-chinese-type-051b-destroyer-shenzhen-visits-tokyo-in-the-first-visit-of-a-chinese-warship-to-japan-since-world-war-ii.xml)  
+
 ### [2007-11-28](/news/2007/11/28/index.md)
 
+##### China
 #  The Chinese Type 051B destroyer "Shenzhen" visits Tokyo in the first visit of a Chinese warship to Japan since World War II. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5jC1zO3rH6xWRODUovq0ZM151JTXgD8T6CCP00)
 

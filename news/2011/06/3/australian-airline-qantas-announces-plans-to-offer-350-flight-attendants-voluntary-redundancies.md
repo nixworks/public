@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/3/australian-airline-qantas-announces-plans-to-offer-350-flight-attendants-voluntary-redundancies.html)  [JSON](/news/2011/06/3/australian-airline-qantas-announces-plans-to-offer-350-flight-attendants-voluntary-redundancies.json)  [XML](/news/2011/06/3/australian-airline-qantas-announces-plans-to-offer-350-flight-attendants-voluntary-redundancies.xml)  
+
 ### [2011-06-3](/news/2011/06/3/index.md)
 
+##### Qantas
 # Australian airline Qantas announces plans to offer 350 flight attendants voluntary redundancies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''Courier-Mail](http://www.couriermail.com.au/travel/news/qantas-offers-7000-redundancies-to-cabin-crew/story-e6freqwo-1226068388820)
 

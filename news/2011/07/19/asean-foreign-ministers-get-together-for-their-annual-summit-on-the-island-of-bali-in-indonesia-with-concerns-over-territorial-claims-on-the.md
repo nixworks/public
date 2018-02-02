@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/19/asean-foreign-ministers-get-together-for-their-annual-summit-on-the-island-of-bali-in-indonesia-with-concerns-over-territorial-claims-on-the.html)  [JSON](/news/2011/07/19/asean-foreign-ministers-get-together-for-their-annual-summit-on-the-island-of-bali-in-indonesia-with-concerns-over-territorial-claims-on-the.json)  [XML](/news/2011/07/19/asean-foreign-ministers-get-together-for-their-annual-summit-on-the-island-of-bali-in-indonesia-with-concerns-over-territorial-claims-on-the.xml)  
+
 ### [2011-07-19](/news/2011/07/19/index.md)
 
+##### ASEAN
 # ASEAN foreign ministers get together for their annual summit on the island of Bali in Indonesia with concerns over territorial claims on the South China Sea. 
 
 Indonesian President Susilo Bambang Yudhoyono urges Asian nations to agree on a code of conduct for disputes in the South China Sea, as a regional summit in Bali gets under way.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/asean-ministers-arrive-for-bali-talks-20110719-1hmn6.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14195994)

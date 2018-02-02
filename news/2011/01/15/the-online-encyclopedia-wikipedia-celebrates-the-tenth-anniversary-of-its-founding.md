@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/15/the-online-encyclopedia-wikipedia-celebrates-the-tenth-anniversary-of-its-founding.html)  [JSON](/news/2011/01/15/the-online-encyclopedia-wikipedia-celebrates-the-tenth-anniversary-of-its-founding.json)  [XML](/news/2011/01/15/the-online-encyclopedia-wikipedia-celebrates-the-tenth-anniversary-of-its-founding.xml)  
+
 ### [2011-01-15](/news/2011/01/15/index.md)
 
+##### encyclopedia
 # The online encyclopedia Wikipedia celebrates the tenth anniversary of its founding. 
 
 The online encyclopedia Wikipedia, which gets nearly 400 million unique visitors a month, celebrates its 10th anniversary on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/video/americas/2011/01/2011115193020404217.html)
 2. [CBC](http://www.cbc.ca/technology/story/2011/01/14/technology-wikipedia-anniversary.html)

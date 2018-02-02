@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/14/former-prime-minister-of-bulgaria-sergei-stanishev-is-charged-with-mishandling-classified-documents-he-calls-the-charges-politically-motiv.html)  [JSON](/news/2010/07/14/former-prime-minister-of-bulgaria-sergei-stanishev-is-charged-with-mishandling-classified-documents-he-calls-the-charges-politically-motiv.json)  [XML](/news/2010/07/14/former-prime-minister-of-bulgaria-sergei-stanishev-is-charged-with-mishandling-classified-documents-he-calls-the-charges-politically-motiv.xml)  
+
 ### [2010-07-14](/news/2010/07/14/index.md)
 
+##### Bulgarian Prime Minister
 # Former Prime Minister of Bulgaria Sergei Stanishev is charged with mishandling classified documents: he calls the charges "politically motivated". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-10642450)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

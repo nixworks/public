@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/17/a-pilot-for-skywest-airlines-on-administrative-leave-attempts-to-steal-a-bombardier-crj200-at-st-george-municipal-airport-in-the-u-s-state.html)  [JSON](/news/2012/07/17/a-pilot-for-skywest-airlines-on-administrative-leave-attempts-to-steal-a-bombardier-crj200-at-st-george-municipal-airport-in-the-u-s-state.json)  [XML](/news/2012/07/17/a-pilot-for-skywest-airlines-on-administrative-leave-attempts-to-steal-a-bombardier-crj200-at-st-george-municipal-airport-in-the-u-s-state.xml)  
+
 ### [2012-07-17](/news/2012/07/17/index.md)
 
+##### SkyWest Airlines
 # A pilot for SkyWest Airlines on administrative leave attempts to steal a Bombardier CRJ200 at St. George Municipal Airport in the U.S. state of Utah, killing himself after. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/07/17/justice/utah-plane-incident/index.html?hpt=hp_t1)
 

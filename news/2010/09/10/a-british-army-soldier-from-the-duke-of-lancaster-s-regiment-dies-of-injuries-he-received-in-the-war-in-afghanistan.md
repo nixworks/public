@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/10/a-british-army-soldier-from-the-duke-of-lancaster-s-regiment-dies-of-injuries-he-received-in-the-war-in-afghanistan.html)  [JSON](/news/2010/09/10/a-british-army-soldier-from-the-duke-of-lancaster-s-regiment-dies-of-injuries-he-received-in-the-war-in-afghanistan.json)  [XML](/news/2010/09/10/a-british-army-soldier-from-the-duke-of-lancaster-s-regiment-dies-of-injuries-he-received-in-the-war-in-afghanistan.xml)  
+
 ### [2010-09-10](/news/2010/09/10/index.md)
 
+##### British Army
 # A British Army soldier from the Duke of Lancaster's Regiment dies of injuries he received in the war in Afghanistan. 
 
 A British soldier has died in hospital from injuries he suffered in Afghanistan, the Ministry of Defence says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-11270007)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/6/2011-bahraini-protests-medical-staff-who-treated-anti-government-demonstrators-are-charged-with-attempting-to-overthrow-the-monarchy.html)  [JSON](/news/2011/06/6/2011-bahraini-protests-medical-staff-who-treated-anti-government-demonstrators-are-charged-with-attempting-to-overthrow-the-monarchy.json)  [XML](/news/2011/06/6/2011-bahraini-protests-medical-staff-who-treated-anti-government-demonstrators-are-charged-with-attempting-to-overthrow-the-monarchy.xml)  
+
 ### [2011-06-6](/news/2011/06/6/index.md)
 
+##### 2011 Bahraini protests
 # 2011 Bahraini protests: Medical staff who treated anti-government demonstrators are charged with attempting to overthrow the monarchy. 
 
 Tear gas and rubber bullets reportedly used to break up religious gatherings in villages across the country.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/06/20116674812696776.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/6/201166755647734_20.jpg)

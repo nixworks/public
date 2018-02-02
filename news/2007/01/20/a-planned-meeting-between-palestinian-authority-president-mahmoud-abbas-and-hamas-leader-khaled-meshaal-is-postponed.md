@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/20/a-planned-meeting-between-palestinian-authority-president-mahmoud-abbas-and-hamas-leader-khaled-meshaal-is-postponed.html)  [JSON](/news/2007/01/20/a-planned-meeting-between-palestinian-authority-president-mahmoud-abbas-and-hamas-leader-khaled-meshaal-is-postponed.json)  [XML](/news/2007/01/20/a-planned-meeting-between-palestinian-authority-president-mahmoud-abbas-and-hamas-leader-khaled-meshaal-is-postponed.xml)  
+
 ### [2007-01-20](/news/2007/01/20/index.md)
 
+##### Palestinian Authority
 #  A planned meeting between Palestinian Authority President Mahmoud Abbas and Hamas leader Khaled Meshaal is postponed. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6282867.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2007-01-20T220450Z_01_OWE057883_RTRUKOC_0_US-PALESTINIANS-ABBAS-MESHAAL.xml&WTmodLoc=IntNewsHome_C1_%5bFeed%5d-2)

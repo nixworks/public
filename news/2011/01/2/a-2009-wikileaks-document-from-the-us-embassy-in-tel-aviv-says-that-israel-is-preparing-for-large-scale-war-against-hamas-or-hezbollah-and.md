@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/2/a-2009-wikileaks-document-from-the-us-embassy-in-tel-aviv-says-that-israel-is-preparing-for-large-scale-war-against-hamas-or-hezbollah-and.html)  [JSON](/news/2011/01/2/a-2009-wikileaks-document-from-the-us-embassy-in-tel-aviv-says-that-israel-is-preparing-for-large-scale-war-against-hamas-or-hezbollah-and.json)  [XML](/news/2011/01/2/a-2009-wikileaks-document-from-the-us-embassy-in-tel-aviv-says-that-israel-is-preparing-for-large-scale-war-against-hamas-or-hezbollah-and.xml)  
+
 ### [2011-01-2](/news/2011/01/2/index.md)
 
+##### 250,000 documents
 # A 2009 Wikileaks document from the US embassy in Tel Aviv says that Israel is preparing for large scale war against Hamas or Hezbollah, and quotes the Israeli chief of staff as saying that the Israel Defense Forces must be prepared to stop the firing of rockets on Tel Aviv. 
 
 Leaked US diplomatic cables quote IDF chief as saying army must stop Hamas from firing on Tel Aviv 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20110102-israel-preparing-large-scale-war-cable)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-4007951,00.html)

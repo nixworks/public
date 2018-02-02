@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/29/iranian-born-israeli-politician-shaul-mofaz-is-elected-as-leader-of-the-kadima-party-and-israel-s-leader-of-opposition.html)  [JSON](/news/2012/03/29/iranian-born-israeli-politician-shaul-mofaz-is-elected-as-leader-of-the-kadima-party-and-israel-s-leader-of-opposition.json)  [XML](/news/2012/03/29/iranian-born-israeli-politician-shaul-mofaz-is-elected-as-leader-of-the-kadima-party-and-israel-s-leader-of-opposition.xml)  
+
 ### [2012-03-29](/news/2012/03/29/index.md)
 
+##### Iranian-born
 # Iranian-born Israeli politician Shaul Mofaz is elected as leader of the Kadima party and Israel's leader of opposition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/national/shaul-mofaz-beats-livni-in-kadima-leadership-primaries-1.421130)
 

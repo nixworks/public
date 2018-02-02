@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/2/the-ms-norman-atlantic-ferry-fire-death-toll-rises-to-at-least-eleven-with-as-many-as-19-people-still-unaccounted-for.html)  [JSON](/news/2015/01/2/the-ms-norman-atlantic-ferry-fire-death-toll-rises-to-at-least-eleven-with-as-many-as-19-people-still-unaccounted-for.json)  [XML](/news/2015/01/2/the-ms-norman-atlantic-ferry-fire-death-toll-rises-to-at-least-eleven-with-as-many-as-19-people-still-unaccounted-for.xml)  
+
 ### [2015-01-2](/news/2015/01/2/index.md)
 
+##### MS ''Norman Atlantic''
 # The MS "Norman Atlantic" ferry fire death toll rises to at least eleven with as many as 19 people still unaccounted for. 
 
 Italian firefighters and investigators have boarded the charred Norman Atlantic ferry as they try to find out what caused the deadly blaze and search for more possible bodies.
 
 
-### Source:
+### Sources:
 
 1. [The Independent](http://www.independent.ie/world-news/europe/investigators-board-charred-tragic-ferry-to-search-for-cause-of-deadly-blaze-and-possibly-more-bodies-30878560.html)
 1. [Cover Image](http://www.independent.ie/incoming/article30878559.ece/ALTERNATES/h342/ferry008.jpg)

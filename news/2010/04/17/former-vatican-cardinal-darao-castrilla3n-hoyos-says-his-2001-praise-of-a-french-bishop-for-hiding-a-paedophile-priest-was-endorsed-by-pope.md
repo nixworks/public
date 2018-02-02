@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/04/17/former-vatican-cardinal-darao-castrilla3n-hoyos-says-his-2001-praise-of-a-french-bishop-for-hiding-a-paedophile-priest-was-endorsed-by-pope.html)  [JSON](/news/2010/04/17/former-vatican-cardinal-darao-castrilla3n-hoyos-says-his-2001-praise-of-a-french-bishop-for-hiding-a-paedophile-priest-was-endorsed-by-pope.json)  [XML](/news/2010/04/17/former-vatican-cardinal-darao-castrilla3n-hoyos-says-his-2001-praise-of-a-french-bishop-for-hiding-a-paedophile-priest-was-endorsed-by-pope.xml)  
+
 ### [2010-04-17](/news/2010/04/17/index.md)
 
+##### Dario Castrillon Hoyos
 # Former Vatican Cardinal Dario Castrillon Hoyos says his 2001 praise of a French bishop for hiding a paedophile priest was endorsed by Pope John Paul II. 
 
 A cardinal who congratulated a French bishop for hiding a sexually abusive priest has said he acted with the approval of the late Pope John Paul.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8627429.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0417/abuse.html)
-3. [Reuters](http://www.reuters.com/article/idUSTRE63G1SH20100417)
-4. [The New York Times](http://www.nytimes.com/2010/04/18/world/europe/18pope.html)
+3. [Reuters](https://www.reuters.com/article/idUSTRE63G1SH20100417)
+4. [The New York Times](https://www.nytimes.com/2010/04/18/world/europe/18pope.html)
 5. [The Observer](http://www.guardian.co.uk/world/2010/apr/18/pope-cover-up-aide-took-blame-munich)
 6. [The Times of India](http://timesofindia.indiatimes.com/world/europe/Cardinal-justifies-praise-for-French-bishops-silence-over-abusive-priest/articleshow/5826601.cms)
 6. [Cover Image](https://img.rasset.ie/0002bc2b-1600.jpg)

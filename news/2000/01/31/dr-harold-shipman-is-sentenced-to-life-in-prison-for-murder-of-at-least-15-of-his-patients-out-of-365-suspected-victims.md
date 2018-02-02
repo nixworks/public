@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/01/31/dr-harold-shipman-is-sentenced-to-life-in-prison-for-murder-of-at-least-15-of-his-patients-out-of-365-suspected-victims.html)  [JSON](/news/2000/01/31/dr-harold-shipman-is-sentenced-to-life-in-prison-for-murder-of-at-least-15-of-his-patients-out-of-365-suspected-victims.json)  [XML](/news/2000/01/31/dr-harold-shipman-is-sentenced-to-life-in-prison-for-murder-of-at-least-15-of-his-patients-out-of-365-suspected-victims.xml)  
+
 ### [2000-01-31](/news/2000/01/31/index.md)
 
+##### Dr. Harold Shipman
 # Dr. Harold Shipman is sentenced to life in prison for murder of at least 15 of his patients out of 365 suspected victims.
 
 

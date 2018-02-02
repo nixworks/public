@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/19/in-a-bid-to-end-the-armed-conflict-with-morocco-the-polisario-front-independence-movement-in-western-sahara-frees-its-last-404-moroccan-pr.html)  [JSON](/news/2005/08/19/in-a-bid-to-end-the-armed-conflict-with-morocco-the-polisario-front-independence-movement-in-western-sahara-frees-its-last-404-moroccan-pr.json)  [XML](/news/2005/08/19/in-a-bid-to-end-the-armed-conflict-with-morocco-the-polisario-front-independence-movement-in-western-sahara-frees-its-last-404-moroccan-pr.xml)  
+
 ### [2005-08-19](/news/2005/08/19/index.md)
 
+##### Polisario
 #  In a bid to end the armed conflict with Morocco, the Polisario Front independence movement in Western Sahara frees its last 404 Moroccan prisoners of war, many of them having been held for almost two decades. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4162790.stm)
 2. [Guardian](http://www.guardian.co.uk/international/story/0,3604,1552128,00.html)

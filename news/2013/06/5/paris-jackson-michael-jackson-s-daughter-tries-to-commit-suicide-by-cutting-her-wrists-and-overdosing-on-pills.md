@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/5/paris-jackson-michael-jackson-s-daughter-tries-to-commit-suicide-by-cutting-her-wrists-and-overdosing-on-pills.html)  [JSON](/news/2013/06/5/paris-jackson-michael-jackson-s-daughter-tries-to-commit-suicide-by-cutting-her-wrists-and-overdosing-on-pills.json)  [XML](/news/2013/06/5/paris-jackson-michael-jackson-s-daughter-tries-to-commit-suicide-by-cutting-her-wrists-and-overdosing-on-pills.xml)  
+
 ### [2013-06-5](/news/2013/06/5/index.md)
 
+##### Michael Jackson
 # Paris Jackson, Michael Jackson's daughter, tries to commit suicide by cutting her wrists and overdosing on pills. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN Music Wonderwall](http://wonderwall.msn.com/music/paris-jackson-moves-to-childrens-hospital-after-suicide-attempt-has-been-bonding-with-family-1755134.story)
 

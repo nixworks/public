@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/3/rescuers-enter-a-flooded-mine-in-shanxi-china-to-help-over-153-workers-trapped-there-for-over-a-week.html)  [JSON](/news/2010/04/3/rescuers-enter-a-flooded-mine-in-shanxi-china-to-help-over-153-workers-trapped-there-for-over-a-week.json)  [XML](/news/2010/04/3/rescuers-enter-a-flooded-mine-in-shanxi-china-to-help-over-153-workers-trapped-there-for-over-a-week.xml)  
+
 ### [2010-04-3](/news/2010/04/3/index.md)
 
+##### Shanxi province
 # Rescuers enter a flooded mine in Shanxi, China to help over 153 workers trapped there for over a week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/04/03/china.mine/?hpt=T2)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-04/03/content_9684794.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/2/the-ogaden-national-liberation-front-declares-a-unilateral-ceasefire-so-that-a-united-nations-team-can-investigate-claims-of-human-rights-a.html)  [JSON](/news/2007/09/2/the-ogaden-national-liberation-front-declares-a-unilateral-ceasefire-so-that-a-united-nations-team-can-investigate-claims-of-human-rights-a.json)  [XML](/news/2007/09/2/the-ogaden-national-liberation-front-declares-a-unilateral-ceasefire-so-that-a-united-nations-team-can-investigate-claims-of-human-rights-a.xml)  
+
 ### [2007-09-2](/news/2007/09/2/index.md)
 
+##### Ogaden National Liberation Front
 #  The Ogaden National Liberation Front declares a unilateral ceasefire so that a United Nations team can investigate claims of human rights abuses by the Ethiopian government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/09/02/africa/AF-GEN-Ethiopia-Rebels.php)
 

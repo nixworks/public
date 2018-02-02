@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/19/the-polar-bear-knut-dies-at-the-berlin-zoo.html)  [JSON](/news/2011/03/19/the-polar-bear-knut-dies-at-the-berlin-zoo.json)  [XML](/news/2011/03/19/the-polar-bear-knut-dies-at-the-berlin-zoo.xml)  
+
 ### [2011-03-19](/news/2011/03/19/index.md)
 
+##### polar bear
 # The polar bear Knut dies at the Berlin Zoo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/42166988/ns/world_news-europe/)
 1. [Cover Image](http://media2.s-nbcnews.com/j/MSNBC/Components/Photo/_new/110319-knut-hmed-10a.standard.jpg)

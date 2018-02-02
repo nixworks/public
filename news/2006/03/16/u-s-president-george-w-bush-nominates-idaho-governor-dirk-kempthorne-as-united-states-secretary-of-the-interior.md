@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/16/u-s-president-george-w-bush-nominates-idaho-governor-dirk-kempthorne-as-united-states-secretary-of-the-interior.html)  [JSON](/news/2006/03/16/u-s-president-george-w-bush-nominates-idaho-governor-dirk-kempthorne-as-united-states-secretary-of-the-interior.json)  [XML](/news/2006/03/16/u-s-president-george-w-bush-nominates-idaho-governor-dirk-kempthorne-as-united-states-secretary-of-the-interior.xml)  
+
 ### [2006-03-16](/news/2006/03/16/index.md)
 
+##### George W. Bush
 #  U.S. President George W. Bush nominates Idaho Governor Dirk Kempthorne as United States Secretary of the Interior. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/POLITICS/03/16/kempthorne.bush.ap/index.html)
 

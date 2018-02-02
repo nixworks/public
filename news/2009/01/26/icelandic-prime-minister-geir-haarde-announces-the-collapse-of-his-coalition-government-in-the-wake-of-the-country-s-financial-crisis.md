@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/26/icelandic-prime-minister-geir-haarde-announces-the-collapse-of-his-coalition-government-in-the-wake-of-the-country-s-financial-crisis.html)  [JSON](/news/2009/01/26/icelandic-prime-minister-geir-haarde-announces-the-collapse-of-his-coalition-government-in-the-wake-of-the-country-s-financial-crisis.json)  [XML](/news/2009/01/26/icelandic-prime-minister-geir-haarde-announces-the-collapse-of-his-coalition-government-in-the-wake-of-the-country-s-financial-crisis.xml)  
+
 ### [2009-01-26](/news/2009/01/26/index.md)
 
+##### Iceland
 #  Icelandic Prime Minister Geir Haarde announces the collapse of his coalition government in the wake of the country's financial crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7851415.stm)
 

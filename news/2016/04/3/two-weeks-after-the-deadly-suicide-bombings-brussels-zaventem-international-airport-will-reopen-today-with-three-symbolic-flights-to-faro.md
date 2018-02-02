@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/3/two-weeks-after-the-deadly-suicide-bombings-brus
 
 ### [2016-04-3](/news/2016/04/3/index.md)
 
+##### Aftermath of the 2016 Brussels bombings
 # Two weeks after the deadly suicide bombings, Brussels Zaventem International Airport will reopen today with three symbolic flights to Faro, Athens, and Turin. On Thursday, the airport had said it was "technically ready" to resume partial services, but the opening was held up because police unions threatened to strike unless additional security checks were introduced. 
 
 BRUSSELS, Belgium - Brussels Airport said it will partially reopen on Sunday, 12 days after it was hit by Islamic State suicide blasts, as Belgian prosecutors charged a third suspect with terrorism over a foiled plot to attack France.

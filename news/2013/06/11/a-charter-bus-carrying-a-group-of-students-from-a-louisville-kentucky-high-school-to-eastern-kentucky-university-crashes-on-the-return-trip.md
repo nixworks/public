@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/11/a-charter-bus-carrying-a-group-of-students-from-a-louisville-kentucky-high-school-to-eastern-kentucky-university-crashes-on-the-return-trip.html)  [JSON](/news/2013/06/11/a-charter-bus-carrying-a-group-of-students-from-a-louisville-kentucky-high-school-to-eastern-kentucky-university-crashes-on-the-return-trip.json)  [XML](/news/2013/06/11/a-charter-bus-carrying-a-group-of-students-from-a-louisville-kentucky-high-school-to-eastern-kentucky-university-crashes-on-the-return-trip.xml)  
+
 ### [2013-06-11](/news/2013/06/11/index.md)
 
+##### Louisville, Kentucky
 # A charter bus carrying a group of students from a Louisville, Kentucky high school to Eastern Kentucky University crashes on the return trip to Louisville, injuring 35 people in all. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WDRB](http://www.wdrb.com/story/22577615/charter-bus-in-crash-had-not-been-inspected-in-two-years)
 

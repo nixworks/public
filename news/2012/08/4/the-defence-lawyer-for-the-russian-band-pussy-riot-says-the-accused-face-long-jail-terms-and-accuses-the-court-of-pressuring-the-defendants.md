@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/4/the-defence-lawyer-for-the-russian-band-pussy-riot-says-the-accused-face-long-jail-terms-and-accuses-the-court-of-pressuring-the-defendants.html)  [JSON](/news/2012/08/4/the-defence-lawyer-for-the-russian-band-pussy-riot-says-the-accused-face-long-jail-terms-and-accuses-the-court-of-pressuring-the-defendants.json)  [XML](/news/2012/08/4/the-defence-lawyer-for-the-russian-band-pussy-riot-says-the-accused-face-long-jail-terms-and-accuses-the-court-of-pressuring-the-defendants.xml)  
+
 ### [2012-08-4](/news/2012/08/4/index.md)
 
+##### Russia
 # The defence lawyer for the Russian band Pussy Riot says the accused face long jail terms, and accuses the court of pressuring the defendants and witnesses. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangladesh News 24](http://www.bdnews24.com/details.php?id=229626&cid=1)
 

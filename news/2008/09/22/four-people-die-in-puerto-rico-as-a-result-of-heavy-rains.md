@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/22/four-people-die-in-puerto-rico-as-a-result-of-heavy-rains.html)  [JSON](/news/2008/09/22/four-people-die-in-puerto-rico-as-a-result-of-heavy-rains.json)  [XML](/news/2008/09/22/four-people-die-in-puerto-rico-as-a-result-of-heavy-rains.xml)  
+
 ### [2008-09-22](/news/2008/09/22/index.md)
 
+##### Puerto Rico
 #  Four people die in Puerto Rico as a result of heavy rains. 
 
 Heavy rains drenched Puerto Rico on Monday as a slow-moving tropical disturbance lingered over the U.S. Caribbean territory, killing four people, flooding streets and neighborhoods and forcing public schools to close.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,426163,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

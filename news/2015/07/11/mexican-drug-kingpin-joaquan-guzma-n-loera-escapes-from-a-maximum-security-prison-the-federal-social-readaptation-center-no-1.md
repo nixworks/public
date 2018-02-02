@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/11/mexican-drug-kingpin-joaquan-guzma-n-loera-escapes-from-a-maximum-security-prison-the-federal-social-readaptation-center-no-1.html)  [JSON](/news/2015/07/11/mexican-drug-kingpin-joaquan-guzma-n-loera-escapes-from-a-maximum-security-prison-the-federal-social-readaptation-center-no-1.json)  [XML](/news/2015/07/11/mexican-drug-kingpin-joaquan-guzma-n-loera-escapes-from-a-maximum-security-prison-the-federal-social-readaptation-center-no-1.xml)  
+
 ### [2015-07-11](/news/2015/07/11/index.md)
 
+##### Mexican
 # Mexican drug kingpin Joaquin Guzman Loera escapes from a maximum security prison the Federal Social Readaptation Center No. 1. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/L/LT_MEXICO_DRUG_LORD_ESCAPES?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

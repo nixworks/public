@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/11/president-manny-mori-and-vice-president-alik-alik-are-re-elected-to-a-second-term-in-the-federated-states-of-micronesia.html)  [JSON](/news/2011/05/11/president-manny-mori-and-vice-president-alik-alik-are-re-elected-to-a-second-term-in-the-federated-states-of-micronesia.json)  [XML](/news/2011/05/11/president-manny-mori-and-vice-president-alik-alik-are-re-elected-to-a-second-term-in-the-federated-states-of-micronesia.xml)  
+
 ### [2011-05-11](/news/2011/05/11/index.md)
 
+##### President
 # President Manny Mori and Vice President Alik Alik are re-elected to a second term in the Federated States of Micronesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?cat=1&newsID=109432)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/08/4/alex-rodriguez-of-the-new-york-yankees-becomes-the-seventh-player-in-the-history-of-major-league-baseball-to-hit-600-home-runs.html)  [JSON](/news/2010/08/4/alex-rodriguez-of-the-new-york-yankees-becomes-the-seventh-player-in-the-history-of-major-league-baseball-to-hit-600-home-runs.json)  [XML](/news/2010/08/4/alex-rodriguez-of-the-new-york-yankees-becomes-the-seventh-player-in-the-history-of-major-league-baseball-to-hit-600-home-runs.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### Alex Rodriguez
 # Alex Rodriguez of the New York Yankees becomes the seventh player in the history of Major League Baseball to hit 600 home runs. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2010/08/05/sports/baseball/05yankees.html?_r=1&hp)
+1. [The New York Times](https://www.nytimes.com/2010/08/05/sports/baseball/05yankees.html?_r=1&hp)
 
 ### Related:
 

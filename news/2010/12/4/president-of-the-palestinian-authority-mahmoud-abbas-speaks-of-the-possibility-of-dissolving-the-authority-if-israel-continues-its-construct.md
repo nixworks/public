@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/4/president-of-the-palestinian-authority-mahmoud-abbas-speaks-of-the-possibility-of-dissolving-the-authority-if-israel-continues-its-construct.html)  [JSON](/news/2010/12/4/president-of-the-palestinian-authority-mahmoud-abbas-speaks-of-the-possibility-of-dissolving-the-authority-if-israel-continues-its-construct.json)  [XML](/news/2010/12/4/president-of-the-palestinian-authority-mahmoud-abbas-speaks-of-the-possibility-of-dissolving-the-authority-if-israel-continues-its-construct.xml)  
+
 ### [2010-12-4](/news/2010/12/4/index.md)
 
+##### Mahmoud Abbas
 # President of the Palestinian Authority Mahmoud Abbas speaks of the possibility of dissolving the Authority if Israel continues its construction on occupied Palestinian land in the West Bank, saying there is little point remaining "the president of an authority that doesn't exist". 
 
 President of Palestinian Authority says he may disband his governing body if peace deal with Israel cannot be agreed.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/201012435638356609.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/1/201091144615611371_20.jpg)

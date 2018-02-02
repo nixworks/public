@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/26/prime-minister-mark-rutte-presents-his-third-ca
 
 ### [2017-10-26](/news/2017/10/26/index.md)
 
+##### Politics of the Netherlands
 # Prime Minister Mark Rutte presents his third cabinet. It took a record 225 days of negotiations to form the government composed of VVD, D66, CDA and CU. 
 
 The third consecutive cabinet of Dutch Prime Minister Mark Rutte has been sworn after a record 225 days of negotiations since the March election. His new coalition is set to move the Netherlands further to the right.

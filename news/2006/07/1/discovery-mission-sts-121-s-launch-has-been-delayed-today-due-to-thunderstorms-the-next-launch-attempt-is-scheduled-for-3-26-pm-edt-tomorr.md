@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/1/discovery-mission-sts-121-s-launch-has-been-delayed-today-due-to-thunderstorms-the-next-launch-attempt-is-scheduled-for-3-26-pm-edt-tomorr.html)  [JSON](/news/2006/07/1/discovery-mission-sts-121-s-launch-has-been-delayed-today-due-to-thunderstorms-the-next-launch-attempt-is-scheduled-for-3-26-pm-edt-tomorr.json)  [XML](/news/2006/07/1/discovery-mission-sts-121-s-launch-has-been-delayed-today-due-to-thunderstorms-the-next-launch-attempt-is-scheduled-for-3-26-pm-edt-tomorr.xml)  
+
 ### [2006-07-1](/news/2006/07/1/index.md)
 
+##### Discovery
 #  Discovery Mission STS-121's launch has been delayed today due to thunderstorms. The next launch attempt is scheduled for 3:26 PM EDT tomorrow, although more bad weather is forecast.
 
 NASA&#039;s space shuttle fleet began setting records with its first launch on April 12, 1981 and continued to set high marks of achievement and endurance through 30 years of missions.
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://hosted.ap.org/dynamic/stories/S/SPACE_SHUTTLE?SITE=7219&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2006-07-01-15-51-21)
 2. [NASA](http://www.nasa.gov/mission_pages/shuttle/main/index.html)

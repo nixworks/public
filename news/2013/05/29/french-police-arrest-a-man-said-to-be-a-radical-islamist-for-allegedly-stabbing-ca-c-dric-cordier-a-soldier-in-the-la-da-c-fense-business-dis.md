@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/29/french-police-arrest-a-man-said-to-be-a-radical-islamist-for-allegedly-stabbing-ca-c-dric-cordier-a-soldier-in-the-la-da-c-fense-business-dis.html)  [JSON](/news/2013/05/29/french-police-arrest-a-man-said-to-be-a-radical-islamist-for-allegedly-stabbing-ca-c-dric-cordier-a-soldier-in-the-la-da-c-fense-business-dis.json)  [XML](/news/2013/05/29/french-police-arrest-a-man-said-to-be-a-radical-islamist-for-allegedly-stabbing-ca-c-dric-cordier-a-soldier-in-the-la-da-c-fense-business-dis.xml)  
+
 ### [2013-05-29](/news/2013/05/29/index.md)
 
+##### French police
 # French police arrest a man, said to be a radical Islamist, for allegedly stabbing Cedric Cordier, a soldier in the La Defense business district near Paris. 
 
 Police have arrested a 21-year-old Muslim convert suspected of stabbing a soldier near Paris four days ago in what the authorities fear was an attempt to copy the Woolwich killing. The man, named...
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.thetimes.co.uk/tto/news/world/europe/article3777519.ece)
 

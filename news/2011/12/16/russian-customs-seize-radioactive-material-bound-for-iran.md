@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/16/russian-customs-seize-radioactive-material-bound-for-iran.html)  [JSON](/news/2011/12/16/russian-customs-seize-radioactive-material-bound-for-iran.json)  [XML](/news/2011/12/16/russian-customs-seize-radioactive-material-bound-for-iran.xml)  
+
 ### [2011-12-16](/news/2011/12/16/index.md)
 
+##### Russia
 # Russian customs seize radioactive material bound for Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5hbp1pihrJ5xu_AeXAyhbVQD02TiQ?docId=CNG.ca4a676bb722f822158734e811868afc.db1)
 

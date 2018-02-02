@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/17/a-bp-alaskan-north-slope-oil-well-near-deadhors
 
 ### [2017-04-17](/news/2017/04/17/index.md)
 
+##### BP
 # A BP Alaskan North Slope oil well near Deadhorse Airport, that was leaking oil and natural gas since it was discovered on Friday, is successfully plugged, according to private and government reports. 
 
 

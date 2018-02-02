@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/13/cellulose-plant-conflict-demonstrators-again-block-border-crossings-between-argentina-and-uruguay-after-the-world-bank-announces-its-decis.html)  [JSON](/news/2006/10/13/cellulose-plant-conflict-demonstrators-again-block-border-crossings-between-argentina-and-uruguay-after-the-world-bank-announces-its-decis.json)  [XML](/news/2006/10/13/cellulose-plant-conflict-demonstrators-again-block-border-crossings-between-argentina-and-uruguay-after-the-world-bank-announces-its-decis.xml)  
+
 ### [2006-10-13](/news/2006/10/13/index.md)
 
+##### Cellulose plant conflict
 #  Cellulose plant conflict: Demonstrators again block border crossings between Argentina and Uruguay after the World Bank announces its decision to continue funding the disputed paper mills. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6050542.stm)
 
@@ -13,6 +17,6 @@
 
 1. [Argentina, Brazil and Uruguay agree to close their ports to ships flying the flag of the Falkland Islands at a Mercosur meeting; Argentina and the United Kingdom both claim the islands. ](/news/2011/12/21/argentina-brazil-and-uruguay-agree-to-close-their-ports-to-ships-flying-the-flag-of-the-falkland-islands-at-a-mercosur-meeting-argentina-a.md) _Context: Argentina, Uruguay_
 2. [The International Court of Justice in The Hague rules that Uruguay should have informed Argentina about its plans to build two paper mills on the banks of the River Uruguay, although it allows the one mill which was built to continue operating. ](/news/2010/04/20/the-international-court-of-justice-in-the-hague-rules-that-uruguay-should-have-informed-argentina-about-its-plans-to-build-two-paper-mills-o.md) _Context: Argentina, Uruguay_
-3. [Vice President Raul Sendic of Uruguay resigns amid a graft investigation. ](/news/2017/09/9/vice-president-raaol-sendic-of-uruguay-resigns-amid-a-graft-investigation.md) _Context: Uruguay_
-4. [Italian fugitive and 'Ndrangheta member Rocco Morabito is arrested in Montevideo, Uruguay, after 23 years on the run. He is now expected to be extradited to Italy in the coming months. ](/news/2017/09/4/italian-fugitive-and-ndrangheta-member-rocco-morabito-is-arrested-in-montevideo-uruguay-after-23-years-on-the-run-he-is-now-expected-to.md) _Context: Uruguay_
-5. [A car knocks down the security fences of the Pink House, the Presidential Palace of Argentina, and then stops in front of the building's gate. The authorities reported that the driver of the vehicle had psychiatric disorders and that, in addition, the security personnel present at the time of the incident was separated from his position. It was also learned that this fact took place on 21 June. ](/news/2017/06/29/a-car-knocks-down-the-security-fences-of-the-pink-house-the-presidential-palace-of-argentina-and-then-stops-in-front-of-the-building-s-gat.md) _Context: Argentina_
+3. [ Mauricio Macri, a member of the National Congress of Argentina and president of Boca Juniors, is elected as the Chief of Government of Buenos Aires. ](/news/2018/06/24/mauricio-macri-a-member-of-the-national-congress-of-argentina-and-president-of-boca-juniors-is-elected-as-the-chief-of-government-of-buen.md) _Context: Argentina_
+4. [Voters in Argentina go to the polls to elect half of the members of the Chamber of Deputies and Senate. "Cambiemos", the national government coalition led by president Mauricio Macri, got a clear victory in the four most populated provinces and the city of Buenos Aires. Former president Cristina Fernandez de Kirchner ran for senator of Buenos and ended second, leading the opposition. ](/news/2017/10/22/voters-in-argentina-go-to-the-polls-to-elect-half-of-the-members-of-the-chamber-of-deputies-and-senate-cambiemos-the-national-government.md) _Context: Argentina_
+5. [Parties in Argentina halt their election campaigns due to the appearance of a body thought to be Santiago Maldonado, an indigenous rights activist who disappeared at the beginning of August 2017. ](/news/2017/10/21/parties-in-argentina-halt-their-election-campaigns-due-to-the-appearance-of-a-body-thought-to-be-santiago-maldonado-an-indigenous-rights-ac.md) _Context: Argentina_

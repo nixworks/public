@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/25/commemorations-are-held-in-south-korea-to-mark-the-60th-anniversary-of-the-outbreak-of-the-korean-war.html)  [JSON](/news/2010/06/25/commemorations-are-held-in-south-korea-to-mark-the-60th-anniversary-of-the-outbreak-of-the-korean-war.json)  [XML](/news/2010/06/25/commemorations-are-held-in-south-korea-to-mark-the-60th-anniversary-of-the-outbreak-of-the-korean-war.xml)  
+
 ### [2010-06-25](/news/2010/06/25/index.md)
 
+##### South Korea
 # Commemorations are held in South Korea to mark the 60th anniversary of the outbreak of the Korean War. 
 
 Ceremonies are held in Seoul to mark the 60th anniversary of the outbreak of the Korean War, amid tension on the peninsula.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10410542.stm)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jun/25/korean-war-haven-south-defectors-north)

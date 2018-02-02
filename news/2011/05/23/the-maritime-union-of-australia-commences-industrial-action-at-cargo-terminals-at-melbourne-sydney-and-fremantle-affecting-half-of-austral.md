@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/23/the-maritime-union-of-australia-commences-industrial-action-at-cargo-terminals-at-melbourne-sydney-and-fremantle-affecting-half-of-austral.html)  [JSON](/news/2011/05/23/the-maritime-union-of-australia-commences-industrial-action-at-cargo-terminals-at-melbourne-sydney-and-fremantle-affecting-half-of-austral.json)  [XML](/news/2011/05/23/the-maritime-union-of-australia-commences-industrial-action-at-cargo-terminals-at-melbourne-sydney-and-fremantle-affecting-half-of-austral.xml)  
+
 ### [2011-05-23](/news/2011/05/23/index.md)
 
+##### Maritime Union of Australia
 # The Maritime Union of Australia commences industrial action at cargo terminals at Melbourne, Sydney and Fremantle, affecting half of Australia's maritime trade. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via NineMSN](http://news.ninemsn.com.au/national/8252394/strike-will-see-wharfs-grind-to-a-halt)
 
@@ -13,6 +17,6 @@
 
 1. [Up to 40,000 public sector workers gather in the Australian city of Sydney to protest a wages cap and job cuts in the 2011-12 budget proposed by the Government of the State of New South Wales. ](/news/2011/09/8/up-to-40-000-public-sector-workers-gather-in-the-australian-city-of-sydney-to-protest-a-wages-cap-and-job-cuts-in-the-2011-12-budget-propose.md) _Context: Australia, Sydney_
 2. [Judy Moran, the matriarch of the Australian Moran crime family, is convicted of the murder of her brother-in-law Des Moran in Melbourne, Victoria. ](/news/2011/03/9/judy-moran-the-matriarch-of-the-australian-moran-crime-family-is-convicted-of-the-murder-of-her-brother-in-law-des-moran-in-melbourne-vic.md) _Context: Australia, Melbourne_
-3. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
-4. [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md) _Context: Australia_
-5. [The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-qu.md) _Context: Australia_
+3. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_
+4. [In a world's first, a drone rescues two swimmers off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-swimmers-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-t.md) _Context: Australia_
+5. [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md) _Context: Australia_

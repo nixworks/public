@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/21/somali-pirates-demand-1-5-million-in-ransom-for-the-release-of-a-danish-freighter-and-its-crew.html)  [JSON](/news/2007/07/21/somali-pirates-demand-1-5-million-in-ransom-for-the-release-of-a-danish-freighter-and-its-crew.json)  [XML](/news/2007/07/21/somali-pirates-demand-1-5-million-in-ransom-for-the-release-of-a-danish-freighter-and-its-crew.xml)  
+
 ### [2007-07-21](/news/2007/07/21/index.md)
 
+##### Somalia
 #  Somali pirates demand $1.5 million in ransom for the release of a Danish freighter and its crew. 
 
 Pirates holding a Danish freighter off the Somali coast are demanding a $US1.5 million ($1.7 million) ransom for the release of the ship and its crew, according to a Kenyan maritime official.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/22/1984762.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

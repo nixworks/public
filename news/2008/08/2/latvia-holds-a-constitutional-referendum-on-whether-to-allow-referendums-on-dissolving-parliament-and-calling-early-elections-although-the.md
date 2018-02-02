@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/2/latvia-holds-a-constitutional-referendum-on-whether-to-allow-referendums-on-dissolving-parliament-and-calling-early-elections-although-the.html)  [JSON](/news/2008/08/2/latvia-holds-a-constitutional-referendum-on-whether-to-allow-referendums-on-dissolving-parliament-and-calling-early-elections-although-the.json)  [XML](/news/2008/08/2/latvia-holds-a-constitutional-referendum-on-whether-to-allow-referendums-on-dissolving-parliament-and-calling-early-elections-although-the.xml)  
+
 ### [2008-08-2](/news/2008/08/2/index.md)
 
+##### Latvia
 #  Latvia holds a constitutional referendum on whether to allow referendums on dissolving parliament and calling early elections. Although the vote was invalidated, as turnout did not meet the 50% threshold, the results (96% in favour of the change) are considered likely to press politicians to adopt a similar measure nonetheless. 
 
 A Latvian referendum on whether to give people the right to dismiss parliament outside regular elections failed to win enough backing, but an opposition party said a high turnout showed the legislature should go anyway.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://afp.google.com/article/ALeqM5glLYfLwkvbzbPJScdfqZPHN0851g)
 2. [Reuters](http://uk.reuters.com/article/worldNews/idUKL265890220080802?sp=true)

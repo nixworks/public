@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/17/footage-of-farc-leader-jorge-bricea-o-saying-he-financed-ecuadorian-president-rafael-correa-s-2006-campaign-is-broadcast-on-colombian-telev.html)  [JSON](/news/2009/07/17/footage-of-farc-leader-jorge-bricea-o-saying-he-financed-ecuadorian-president-rafael-correa-s-2006-campaign-is-broadcast-on-colombian-telev.json)  [XML](/news/2009/07/17/footage-of-farc-leader-jorge-bricea-o-saying-he-financed-ecuadorian-president-rafael-correa-s-2006-campaign-is-broadcast-on-colombian-telev.xml)  
+
 ### [2009-07-17](/news/2009/07/17/index.md)
 
+##### FARC
 #  Footage of FARC leader Jorge Briceno saying he financed Ecuadorian President Rafael Correa's 2006 campaign is broadcast on Colombian television. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iy0dXqjlcq6lPRIuTDvX07q7Xa6w)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8157112.stm)

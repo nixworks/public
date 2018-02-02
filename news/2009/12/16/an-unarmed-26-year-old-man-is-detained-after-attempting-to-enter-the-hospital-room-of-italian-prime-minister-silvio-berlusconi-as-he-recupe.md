@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/16/an-unarmed-26-year-old-man-is-detained-after-attempting-to-enter-the-hospital-room-of-italian-prime-minister-silvio-berlusconi-as-he-recupe.html)  [JSON](/news/2009/12/16/an-unarmed-26-year-old-man-is-detained-after-attempting-to-enter-the-hospital-room-of-italian-prime-minister-silvio-berlusconi-as-he-recupe.json)  [XML](/news/2009/12/16/an-unarmed-26-year-old-man-is-detained-after-attempting-to-enter-the-hospital-room-of-italian-prime-minister-silvio-berlusconi-as-he-recupe.xml)  
+
 ### [2009-12-16](/news/2009/12/16/index.md)
 
+##### Italy
 #  An unarmed 26-year-old man is detained after attempting to enter the hospital room of Italian Prime Minister Silvio Berlusconi as he recuperates from the recent assault. 
 
 A young Italian man was overpowered by police guards as he attempted to enter Silvio Berlusconi&#039;s hospital room in the second security scare in a matter of days.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/europe/12/16/italy.berlusconi/)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/6827805/Italian-man-overpowered-as-he-targets-Silvio-Berlusconi.html)

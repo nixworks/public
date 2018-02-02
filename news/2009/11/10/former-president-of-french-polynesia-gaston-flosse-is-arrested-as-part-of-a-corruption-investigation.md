@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/10/former-president-of-french-polynesia-gaston-flosse-is-arrested-as-part-of-a-corruption-investigation.html)  [JSON](/news/2009/11/10/former-president-of-french-polynesia-gaston-flosse-is-arrested-as-part-of-a-corruption-investigation.json)  [XML](/news/2009/11/10/former-president-of-french-polynesia-gaston-flosse-is-arrested-as-part-of-a-corruption-investigation.xml)  
+
 ### [2009-11-10](/news/2009/11/10/index.md)
 
+##### President
 #  Former President of French Polynesia Gaston Flosse is arrested as part of a corruption investigation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand International](http://www.rnzi.com/pages/news.php?op=read&id=50234)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/8/wang-lijun-former-police-chief-of-the-central-chinese-city-of-chongqing-unexpectedly-leaves-his-position-and-goes-to-the-chongqing-u-s-co.html)  [JSON](/news/2012/02/8/wang-lijun-former-police-chief-of-the-central-chinese-city-of-chongqing-unexpectedly-leaves-his-position-and-goes-to-the-chongqing-u-s-co.json)  [XML](/news/2012/02/8/wang-lijun-former-police-chief-of-the-central-chinese-city-of-chongqing-unexpectedly-leaves-his-position-and-goes-to-the-chongqing-u-s-co.xml)  
+
 ### [2012-02-8](/news/2012/02/8/index.md)
 
+##### Wang Lijun
 # Wang Lijun, former police chief of the central Chinese city of Chongqing, unexpectedly leaves his position and goes to the Chongqing U.S. Consulate, sparking rumours of his political downfall. 
 
 A top Chinese policeman in charge of a major crackdown on organised crime goes on leave, amid rumours of an investigation and a bid for asylum.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-china-16940146)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/58373000/jpg/_58373831_013943116-1.jpg)

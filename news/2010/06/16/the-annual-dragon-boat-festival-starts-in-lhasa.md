@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/16/the-annual-dragon-boat-festival-starts-in-lhasa.html)  [JSON](/news/2010/06/16/the-annual-dragon-boat-festival-starts-in-lhasa.json)  [XML](/news/2010/06/16/the-annual-dragon-boat-festival-starts-in-lhasa.xml)  
+
 ### [2010-06-16](/news/2010/06/16/index.md)
 
+##### Dragon Boat Festival
 # The annual Dragon Boat Festival starts in Lhasa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [tibet.cn](http://eng.tibet.cn/09index/xwtt/201006/t20100616_593388.htm)
 

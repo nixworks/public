@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/8/afghan-officials-hang-six-taliban-prisoners.html
 
 ### [2016-05-8](/news/2016/05/8/index.md)
 
+##### War in Afghanistan (2015-present)
 #  Afghan officials hang six Taliban prisoners. 
 
 After a deadly Kabul bombing, the president said he was no longer interested in negotiating with the insurgent group.

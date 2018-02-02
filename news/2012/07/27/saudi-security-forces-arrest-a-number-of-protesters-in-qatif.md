@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/27/saudi-security-forces-arrest-a-number-of-protesters-in-qatif.html)  [JSON](/news/2012/07/27/saudi-security-forces-arrest-a-number-of-protesters-in-qatif.json)  [XML](/news/2012/07/27/saudi-security-forces-arrest-a-number-of-protesters-in-qatif.xml)  
+
 ### [2012-07-27](/news/2012/07/27/index.md)
 
+##### Saudi
 # Saudi security forces arrest a number of protesters in Qatif. 
 
 Security forces detain a number of protesters in eastern Saudi Arabia, after they reportedly demand the release of political detainees.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19012830)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61454000/jpg/_61454281_61454280.jpg)

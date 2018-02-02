@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/5/gujarat-and-maharastra-are-on-high-alert-because
 
 ### [2017-12-5](/news/2017/12/5/index.md)
 
+##### Gujarat
 # Gujarat and Maharastra are on high alert because of Cyclone Ockhi. 
 
 Mumbai rain: Rain started to drench Mumbai on Monday evening as cyclone Ockhi is just 670 kms southwest of the city

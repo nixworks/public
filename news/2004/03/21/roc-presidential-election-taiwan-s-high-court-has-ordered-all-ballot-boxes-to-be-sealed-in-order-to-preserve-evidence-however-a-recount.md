@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/21/roc-presidential-election-taiwan-s-high-court-has-ordered-all-ballot-boxes-to-be-sealed-in-order-to-preserve-evidence-however-a-recount.html)  [JSON](/news/2004/03/21/roc-presidential-election-taiwan-s-high-court-has-ordered-all-ballot-boxes-to-be-sealed-in-order-to-preserve-evidence-however-a-recount.json)  [XML](/news/2004/03/21/roc-presidential-election-taiwan-s-high-court-has-ordered-all-ballot-boxes-to-be-sealed-in-order-to-preserve-evidence-however-a-recount.xml)  
+
 ### [2004-03-21](/news/2004/03/21/index.md)
 
+##### 2004 presidential election
 #  ROC presidential election: Taiwan's High Court has ordered all ballot boxes to be sealed, in order to preserve evidence. However, a recount of votes was not ordered. Various protests are held throughout the island. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://story.news.yahoo.com/news?tmpl=story&u=/ap/20040321/ap_on_re_as/taiwan_election&cid=516&ncid=716)
 

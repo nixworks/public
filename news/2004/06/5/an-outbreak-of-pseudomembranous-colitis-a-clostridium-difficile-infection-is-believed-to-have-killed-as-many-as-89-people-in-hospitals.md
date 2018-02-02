@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/5/an-outbreak-of-pseudomembranous-colitis-a-clostridium-difficile-infection-is-believed-to-have-killed-as-many-as-89-people-in-hospitals.html)  [JSON](/news/2004/06/5/an-outbreak-of-pseudomembranous-colitis-a-clostridium-difficile-infection-is-believed-to-have-killed-as-many-as-89-people-in-hospitals.json)  [XML](/news/2004/06/5/an-outbreak-of-pseudomembranous-colitis-a-clostridium-difficile-infection-is-believed-to-have-killed-as-many-as-89-people-in-hospitals.xml)  
+
 ### [2004-06-5](/news/2004/06/5/index.md)
 
+##### pseudomembranous colitis
 #  An outbreak of pseudomembranous colitis, a "Clostridium difficile" infection, is believed to have killed as many as 89 people in hospitals in Montreal, Quebec and Calgary, Alberta. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/stories/2004/06/04/sci-tech/c_difficile040604)
 

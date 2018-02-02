@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/28/the-trial-of-prime-minister-of-italy-silvio-berlusconi-on-corruption-charges-commences.html)  [JSON](/news/2011/03/28/the-trial-of-prime-minister-of-italy-silvio-berlusconi-on-corruption-charges-commences.json)  [XML](/news/2011/03/28/the-trial-of-prime-minister-of-italy-silvio-berlusconi-on-corruption-charges-commences.xml)  
+
 ### [2011-03-28](/news/2011/03/28/index.md)
 
+##### Italian Prime Minister
 # The trial of Prime Minister of Italy Silvio Berlusconi on corruption charges commences. 
 
 Italian Prime Minister Silvio Berlusconi appears at a Milan court to answer charges of corruption - his first such appearance in more than seven years.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12877250)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

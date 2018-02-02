@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/22/the-municipality-of-north-battleford-saskatchew
 
 ### [2016-07-22](/news/2016/07/22/index.md)
 
+##### North Battleford, Saskatchewan
 # The municipality of North Battleford, Saskatchewan shuts off its main water supply following an oil spill into the North Saskatchewan River the previous day, of up to 250,000 litres, from a pipeline owned by Husky Energy. 
 
 NORTH BATTLEFORD&nbsp;— The Saskatchewan city of North Battleford shut down its water intake plant Friday because of a major pipeline oil spill.

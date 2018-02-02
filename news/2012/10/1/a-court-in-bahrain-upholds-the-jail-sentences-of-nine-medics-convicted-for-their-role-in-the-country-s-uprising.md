@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/10/1/a-court-in-bahrain-upholds-the-jail-sentences-of-nine-medics-convicted-for-their-role-in-the-country-s-uprising.html)  [JSON](/news/2012/10/1/a-court-in-bahrain-upholds-the-jail-sentences-of-nine-medics-convicted-for-their-role-in-the-country-s-uprising.json)  [XML](/news/2012/10/1/a-court-in-bahrain-upholds-the-jail-sentences-of-nine-medics-convicted-for-their-role-in-the-country-s-uprising.xml)  
+
 ### [2012-10-1](/news/2012/10/1/index.md)
 
+##### Bahrain
 # A court in Bahrain upholds the jail sentences of nine medics convicted for their role in the country's uprising. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/10/01/bahrain-medics-idUSL6E8L14U220121001)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/10/01/bahrain-medics-idUSL6E8L14U220121001)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/30/french-senator-charles-pasqua-is-convicted-and-sentenced-on-charges-of-corruption-which-occurred-whilst-he-was-interior-minister-in-the-1990.html)  [JSON](/news/2010/04/30/french-senator-charles-pasqua-is-convicted-and-sentenced-on-charges-of-corruption-which-occurred-whilst-he-was-interior-minister-in-the-1990.json)  [XML](/news/2010/04/30/french-senator-charles-pasqua-is-convicted-and-sentenced-on-charges-of-corruption-which-occurred-whilst-he-was-interior-minister-in-the-1990.xml)  
+
 ### [2010-04-30](/news/2010/04/30/index.md)
 
+##### Charles Pasqua
 # French senator Charles Pasqua is convicted and sentenced on charges of corruption which occurred whilst he was interior minister in the 1990s. 
 
 Former&#x20;interior&#x20;minister&#x20;Charles&#x20;Pasqua&#x20;has&#x20;been&#x20;sentenced&#x20;in&#x20;Paris&#x20;to&#x20;a&#x20;one-year&#x20;suspended&#x20;prison&#x20;sentence&#x20;for&#x20;abuse&#x20;of&#x20;public&#x20;funds&#x20;and&#x20;attempt&#x20;to&#x20;conceal&#x20;evidence&#x20;in&#x20;connection&#x20;with&#x20;a&#x20;public&#x20;organisation&#x20;which&#x20;sells&#x20;police&#x20;equipment&#x20;abroad.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8654464.stm)
 2. [China Post](http://www.chinapost.com.tw/international/europe/2010/05/01/254670/French-ex-interior.htm)

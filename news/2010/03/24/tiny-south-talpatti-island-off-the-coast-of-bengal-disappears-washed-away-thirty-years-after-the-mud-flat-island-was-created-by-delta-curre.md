@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/24/tiny-south-talpatti-island-off-the-coast-of-bengal-disappears-washed-away-thirty-years-after-the-mud-flat-island-was-created-by-delta-curre.html)  [JSON](/news/2010/03/24/tiny-south-talpatti-island-off-the-coast-of-bengal-disappears-washed-away-thirty-years-after-the-mud-flat-island-was-created-by-delta-curre.json)  [XML](/news/2010/03/24/tiny-south-talpatti-island-off-the-coast-of-bengal-disappears-washed-away-thirty-years-after-the-mud-flat-island-was-created-by-delta-curre.xml)  
+
 ### [2010-03-24](/news/2010/03/24/index.md)
 
+##### South Talpatti Island
 # Tiny South Talpatti Island off the coast of Bengal disappears, washed away thirty years after the mud flat island was created by delta currents, ending the Indian and Bangladeshi dispute over the territory. The Calcutta Institute raised fears over more islands, such as the Maldives, going under in the future. 
 
 The New Moore island near the Bay of Bengal is being swallowed by the rising sea, making it one of the earliest instances of a patch of territory ceasing to exist because of global warming.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8584665.stm)
 2. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-disappearing-island25-2010mar25,0,3895432.story)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/31/a-teacher-suffers-scrapes-and-bruises-and-a-14-year-old-boy-is-shot-in-the-back-of-the-neck-and-suffers-a-non-life-threatening-wound-at-luth.html)  [JSON](/news/2013/01/31/a-teacher-suffers-scrapes-and-bruises-and-a-14-year-old-boy-is-shot-in-the-back-of-the-neck-and-suffers-a-non-life-threatening-wound-at-luth.json)  [XML](/news/2013/01/31/a-teacher-suffers-scrapes-and-bruises-and-a-14-year-old-boy-is-shot-in-the-back-of-the-neck-and-suffers-a-non-life-threatening-wound-at-luth.xml)  
+
 ### [2013-01-31](/news/2013/01/31/index.md)
 
+##### Atlanta Public Schools
 # A teacher suffers scrapes and bruises and a 14-year-old boy is shot in the back of the neck and suffers a non-life-threatening wound at Luther Judson Price Middle School, a newer Atlanta Public Schools facility in Atlanta, Georgia, United States. The boy is stable at a hospital and the suspected student was safely disarmed by a resource officer and arrested. 
 
 A 14-year-old is taken to hospital after being shot in the back of the neck outside a school in the city of Atlanta, Georgia, say police.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21286571)
 2. [CBS News](http://www.cbsnews.com/8301-201_162-57566972/two-shot-at-middle-school-in-atlanta/)
@@ -15,8 +19,8 @@ A 14-year-old is taken to hospital after being shot in the back of the neck outs
 
 ### Related:
 
-1. [Surgeons at the Shepherd Center in Atlanta, Georgia inject a spinal cord injury patient with embryonic stem cells in an experiment approved by United States Food and Drug Administration. ](/news/2010/10/11/surgeons-at-the-shepherd-center-in-atlanta-georgia-inject-a-spinal-cord-injury-patient-with-embryonic-stem-cells-in-an-experiment-approved.md) _Context: Atlanta, Georgia, United States_
+1. [Surgeons at the Shepherd Center in Atlanta, Georgia inject a spinal cord injury patient with embryonic stem cells in an experiment approved by United States Food and Drug Administration. ](/news/2010/10/11/surgeons-at-the-shepherd-center-in-atlanta-georgia-inject-a-spinal-cord-injury-patient-with-embryonic-stem-cells-in-an-experiment-approved.md) _Context: Atlanta, Georgia, U.S._
 2. [Campaigning ends and voting begins in the suburbs of Atlanta in the U.S. state of Georgia between Republican Karen Handel and Democratic Jon Ossoff, where Republican Handel wins the election by a narrow margin. ](/news/2017/06/20/campaigning-ends-and-voting-begins-in-the-suburbs-of-atlanta-in-the-u-s-state-of-georgia-between-republican-karen-handel-and-democratic-jon.md) _Context: Atlanta, Georgia_
 3. [Democratic candidates face off with Republican candidates in a primary for a U.S. House seat vacated by Tom Price, now Health and Human Services Secretary, in a suburb of Atlanta, Georgia. ](/news/2017/04/18/democratic-candidates-face-off-with-republican-candidates-in-a-primary-for-a-u-s-house-seat-vacated-by-tom-price-now-health-and-human-serv.md) _Context: Atlanta, Georgia_
 4. [Voting takes place in Atlanta, Georgia, to elect a new Chair of the Democratic National Committee. Candidates include Sally Boynton Brown, Keith Ellison, Jehmu Greene and former United States Secretary of Labor Tom Perez. ](/news/2017/02/25/voting-takes-place-in-atlanta-georgia-to-elect-a-new-chair-of-the-democratic-national-committee-candidates-include-sally-boynton-brown-k.md) _Context: Atlanta, Georgia_
-5. [Severe storms kill at least 11 people and injure 23 in the U.S. state of Georgia. ](/news/2017/01/22/severe-storms-kill-at-least-11-people-and-injure-23-in-the-u-s-state-of-georgia.md) _Context: Georgia, United States_
+5. [Severe storms kill at least 11 people and injure 23 in the U.S. state of Georgia. ](/news/2017/01/22/severe-storms-kill-at-least-11-people-and-injure-23-in-the-u-s-state-of-georgia.md) _Context: Georgia, U.S._

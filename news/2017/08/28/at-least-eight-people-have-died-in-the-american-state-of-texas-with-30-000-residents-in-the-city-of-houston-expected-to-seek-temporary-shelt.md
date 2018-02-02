@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/28/at-least-eight-people-have-died-in-the-american
 
 ### [2017-08-28](/news/2017/08/28/index.md)
 
+##### Hurricane Harvey
 # At least eight people have died in the American state of Texas with 30,000 residents in the city of Houston expected to seek temporary shelter. 
 
 Authorities in Houston expect 30,000 people to be housed in shelters as Tropical Storm Harvey continues to cause widespread flooding.

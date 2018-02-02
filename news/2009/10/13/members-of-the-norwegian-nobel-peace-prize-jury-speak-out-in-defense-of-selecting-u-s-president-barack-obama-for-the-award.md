@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/13/members-of-the-norwegian-nobel-peace-prize-jury-speak-out-in-defense-of-selecting-u-s-president-barack-obama-for-the-award.html)  [JSON](/news/2009/10/13/members-of-the-norwegian-nobel-peace-prize-jury-speak-out-in-defense-of-selecting-u-s-president-barack-obama-for-the-award.json)  [XML](/news/2009/10/13/members-of-the-norwegian-nobel-peace-prize-jury-speak-out-in-defense-of-selecting-u-s-president-barack-obama-for-the-award.xml)  
+
 ### [2009-10-13](/news/2009/10/13/index.md)
 
+##### Norway
 #  Members of the Norwegian Nobel Peace Prize jury speak out in defense of selecting U.S. President Barack Obama for the award. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5irLyPrFK_rtRwMOsfjRBFjGDVZCgD9BAFHMO0)
 

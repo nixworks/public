@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/13/wildfires-in-southern-siberia-russia-kill-at-least-26-people-and-damage-1-300-homes.html)  [JSON](/news/2015/04/13/wildfires-in-southern-siberia-russia-kill-at-least-26-people-and-damage-1-300-homes.json)  [XML](/news/2015/04/13/wildfires-in-southern-siberia-russia-kill-at-least-26-people-and-damage-1-300-homes.xml)  
+
 ### [2015-04-13](/news/2015/04/13/index.md)
 
+##### Wildfires
 # Wildfires in Southern Siberia, Russia kill at least 26 people and damage 1,300 homes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via GMA Network](http://www.gmanetwork.com/news/story/469210/news/world/huge-siberia-wildfires-kill-26)
 

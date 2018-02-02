@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/9/2006-fijian-coup-d-etat-media-reports-that-gunfire-had-been-heard-near-military-barracks-in-suva-have-been-dismissed-as-being-mistaken-ide.html)  [JSON](/news/2006/12/9/2006-fijian-coup-d-etat-media-reports-that-gunfire-had-been-heard-near-military-barracks-in-suva-have-been-dismissed-as-being-mistaken-ide.json)  [XML](/news/2006/12/9/2006-fijian-coup-d-etat-media-reports-that-gunfire-had-been-heard-near-military-barracks-in-suva-have-been-dismissed-as-being-mistaken-ide.xml)  
+
 ### [2006-12-9](/news/2006/12/9/index.md)
 
+##### coup in 2006
 #  2006 Fijian coup d'tat: Media reports that gunfire had been heard near military barracks in Suva have been dismissed as being mistaken identification of a game of cricket. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via OptusNet](http://www.optusnet.com.au/news/story/abc/20061209/13/domestic/1807884.inp)
 

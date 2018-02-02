@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/10/a-helicopter-crashes-in-istanbul-s-ba1-4ya1-4ka
 
 ### [2017-03-10](/news/2017/03/10/index.md)
 
+##### Istanbul
 # A helicopter crashes in Istanbul's Buyukcekmece district, killing at least seven people. 
 
 

@@ -1,7 +1,7 @@
-## [2003-06-24](/news/2003/06/24/index.md)
 
-### [ Six members of the British Royal Military Police are killed, in an attack in Majar al-Kabir, a village near the town of Amarah in Iraq. Eight others are wounded in two separate ambushes.](/news/2003/06/24/six-members-of-the-british-royal-military-police-are-killed-in-an-attack-in-majar-al-kabir-a-village-near-the-town-of-amarah-in-iraq-eig.md)
-_Context: Amarah, Iraq, Majar al-Kabir, Royal Military Police, ambush_
+Formats: [HTML](2003/06/24/index.html)  [JSON](2003/06/24/index.json)  [XML](2003/06/24/index.xml)  
+
+## [2003-06-24](/news/2003/06/24/index.md)
 
 ## [Previous Day...](/news/2003/06/23/index.md)
 

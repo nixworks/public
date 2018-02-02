@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/22/april-2006-nepalese-general-strike-opposition-leaders-in-nepal-reject-king-gyanendra-s-proposals-for-restoring-democracy-thousands-of-pro.html)  [JSON](/news/2006/04/22/april-2006-nepalese-general-strike-opposition-leaders-in-nepal-reject-king-gyanendra-s-proposals-for-restoring-democracy-thousands-of-pro.json)  [XML](/news/2006/04/22/april-2006-nepalese-general-strike-opposition-leaders-in-nepal-reject-king-gyanendra-s-proposals-for-restoring-democracy-thousands-of-pro.xml)  
+
 ### [2006-04-22](/news/2006/04/22/index.md)
 
+##### April 2006 Nepalese general strike
 #  April 2006 Nepalese general strike: Opposition leaders in Nepal reject King Gyanendra's proposals for restoring democracy. Thousands of protesters approaching the Narayanhity Royal Palace in Kathmandu are fired upon by security forces with tear gas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2006/04/22/nepal2206.html)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=topNews&storyID=2006-04-22T125431Z_01_L1969978_RTRUKOC_0_UK-NEPAL.xml)

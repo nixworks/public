@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/7/the-national-assembly-of-vietnam-approves-nguya-
 
 ### [2016-04-7](/news/2016/04/7/index.md)
 
+##### Parliament
 # The National Assembly of Vietnam approves Nguyen Xuan Phuc as the country's new prime minister, succeeding Nguyen TCNYn Dung. 
 
 

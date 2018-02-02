@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/4/several-sudanese-police-are-killed-in-a-battle-with-rebel-justice-and-equality-movement-fighters-in-darfur-the-sudanese-government-claims-t.html)  [JSON](/news/2010/11/4/several-sudanese-police-are-killed-in-a-battle-with-rebel-justice-and-equality-movement-fighters-in-darfur-the-sudanese-government-claims-t.json)  [XML](/news/2010/11/4/several-sudanese-police-are-killed-in-a-battle-with-rebel-justice-and-equality-movement-fighters-in-darfur-the-sudanese-government-claims-t.xml)  
+
 ### [2010-11-4](/news/2010/11/4/index.md)
 
+##### Sudanese police
 # Several Sudanese police are killed in a battle with rebel Justice and Equality Movement fighters in Darfur. The Sudanese government claims that the rebels sustained heavy casualties. 
 
 Rebels have killed several Sudanese policemen in a clash in the troubled western region of Darfur, the Khartoum government says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11691095)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

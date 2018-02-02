@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2015/11/16/nicaragua-deploys-its-military-to-help-close-its-southern-border-in-a-dispute-with-costa-rica-over-the-passage-of-cuban-migrants-on-their-wa.html)  [JSON](/news/2015/11/16/nicaragua-deploys-its-military-to-help-close-its-southern-border-in-a-dispute-with-costa-rica-over-the-passage-of-cuban-migrants-on-their-wa.json)  [XML](/news/2015/11/16/nicaragua-deploys-its-military-to-help-close-its-southern-border-in-a-dispute-with-costa-rica-over-the-passage-of-cuban-migrants-on-their-wa.xml)  
+
 ### [2015-11-16](/news/2015/11/16/index.md)
 
+##### Nicaragua
 # Nicaragua deploys its military to help close its southern border in a dispute with Costa Rica over the passage of Cuban migrants on their way to the United States. Nicaragua's government said Costa Rica's decision to grant seven-day transit visas to 1,200 Cuban migrants who entered the country through Panama, "violated national sovereignty". Nicaraguan troops and riot police fired tear gas at people attempting to enter in what Costa Rica called a "humanitarian crisis". 
 
 Nicaragua dispatched its military and police to help close its southern border in a dispute with Costa Rica over the passage of Cuban migrants on their way to the U.S.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-11-16/cuban-migrant-wave-prompts-nicaraguan-military-to-seal-border)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2015-11-16/cuban-migrant-wave-prompts-nicaraguan-military-to-seal-border)
 1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 
 1. [A 7.6-magnitude earthquake 87 miles west of the Costa Rican capital of San Jos triggers a tsunami alert for the coastlines of Costa Rica, Panama and Nicaragua. ](/news/2012/09/5/a-7-6-magnitude-earthquake-87-miles-west-of-the-costa-rican-capital-of-san-jose-triggers-a-tsunami-alert-for-the-coastlines-of-costa-rica-p.md) _Context: Costa Rica, Nicaragua, Panama_
 2. [A 7.4 magnitude earthquake occurs in the Pacific Ocean off the coast of El Salvador with tsunami warnings in place for Costa Rica, Nicaragua, El Salvador, Honduras, Guatemala, Panama and Mexico. ](/news/2012/08/26/a-7-4-magnitude-earthquake-occurs-in-the-pacific-ocean-off-the-coast-of-el-salvador-with-tsunami-warnings-in-place-for-costa-rica-nicaragua.md) _Context: Costa Rica, Nicaragua, Panama_
-3. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: Nicaragua, United States_
-4. [In Nicaragua, flooding from Tropical Storm Nate, kills at least fifteen people. In Costa Rica, the storm kills at least seven people with fifteen missing. ](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-fifteen-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-fi.md) _Context: Costa Rica, Nicaragua_
-5. [The Trump administration, through the Department of State and Secretary of State Rex Tillerson, expels 15 Cuban diplomats, after pulling half of its own embassy staff from Havana on Sept. 29, due to the alleged failure of Cuba to take appropriate steps to protect American personnel against the mysterious health attacks. ](/news/2017/10/3/the-trump-administration-through-the-department-of-state-and-secretary-of-state-rex-tillerson-expels-15-cuban-diplomats-after-pulling-hal.md) _Context: Cuba, United States_
+3. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: Nicaragua, U.S._
+4. [Tropical Storm Nate heads for the Gulf Coast of the United States after causing dozens of deaths in Central America and severe flooding in the Nicaraguan town of Rivas. ](/news/2017/10/6/tropical-storm-nate-heads-for-the-gulf-coast-of-the-united-states-after-causing-dozens-of-deaths-in-central-america-and-severe-flooding-in-t.md) _Context: Nicaragua, U.S._
+5. [In Nicaragua, flooding from Tropical Storm Nate, kills at least fifteen people. In Costa Rica, the storm kills at least seven people with fifteen missing. ](/news/2017/10/5/in-nicaragua-flooding-from-tropical-storm-nate-kills-at-least-fifteen-people-in-costa-rica-the-storm-kills-at-least-seven-people-with-fi.md) _Context: Costa Rica, Nicaragua_

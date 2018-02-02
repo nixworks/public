@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/28/a-vietnamese-military-bell-uh-1-iroquois-helicopter-crashes-in-southern-ho-chi-minh-city-killing-four-people.html)  [JSON](/news/2015/01/28/a-vietnamese-military-bell-uh-1-iroquois-helicopter-crashes-in-southern-ho-chi-minh-city-killing-four-people.json)  [XML](/news/2015/01/28/a-vietnamese-military-bell-uh-1-iroquois-helicopter-crashes-in-southern-ho-chi-minh-city-killing-four-people.xml)  
+
 ### [2015-01-28](/news/2015/01/28/index.md)
 
+##### Vietnamese
 # A Vietnamese military Bell UH-1 Iroquois helicopter crashes in southern Ho Chi Minh City killing four people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/news/asia/south-east-asia/story/four-killed-vietnam-military-helicopter-crash-army-20150128)
 1. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)

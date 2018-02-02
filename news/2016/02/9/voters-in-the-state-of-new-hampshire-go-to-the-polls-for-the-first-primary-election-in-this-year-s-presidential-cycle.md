@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/9/voters-in-the-state-of-new-hampshire-go-to-the-p
 
 ### [2016-02-9](/news/2016/02/9/index.md)
 
+##### 2016 U.S. presidential election
 # Voters in the state of New Hampshire go to the polls for the first primary election in this year's presidential cycle. 
 
 The New Hampshire primaries will be crucial for both sides of the presidential race. The BBC’s Katty Kay talks about the three things she’ll be watching for on Tuesday night.

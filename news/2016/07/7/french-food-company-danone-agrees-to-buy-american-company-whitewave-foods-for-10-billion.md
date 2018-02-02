@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/7/french-food-company-danone-agrees-to-buy-america
 
 ### [2016-07-7](/news/2016/07/7/index.md)
 
+##### Danone
 # French food company Danone agrees to buy American company WhiteWave Foods for $10 billion. 
 
 The agreement values WhiteWave at $12.5 billion and would increase Danone’s offerings of organic products and plant-based alternatives to milk and yogurt.

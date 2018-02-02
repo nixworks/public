@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/4/the-full-7th-u-s-circuit-court-of-appeals-in-chi
 
 ### [2017-04-4](/news/2017/04/4/index.md)
 
+##### LGBT rights in the United States
 #  The full 7th U.S. Circuit Court of Appeals in Chicago rules (8-3) that the 1964 Civil Rights Act protects LGBT employees from workplace discrimination. 
 
 The ruling is a major victory for LGBTQ community fighting discrimination

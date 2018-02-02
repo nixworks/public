@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/2/the-united-nations-will-send-home-108-of-the-950-sri-lankan-peacekeepers-in-haiti-accusing-them-of-sexual-abuse-including-with-underage-g.html)  [JSON](/news/2007/11/2/the-united-nations-will-send-home-108-of-the-950-sri-lankan-peacekeepers-in-haiti-accusing-them-of-sexual-abuse-including-with-underage-g.json)  [XML](/news/2007/11/2/the-united-nations-will-send-home-108-of-the-950-sri-lankan-peacekeepers-in-haiti-accusing-them-of-sexual-abuse-including-with-underage-g.xml)  
+
 ### [2007-11-2](/news/2007/11/2/index.md)
 
+##### United Nations
 #  The United Nations will send home 108 of the 950 Sri Lankan peacekeepers in Haiti, accusing them of sexual abuse, including with underage girls. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7075866.stm)
 

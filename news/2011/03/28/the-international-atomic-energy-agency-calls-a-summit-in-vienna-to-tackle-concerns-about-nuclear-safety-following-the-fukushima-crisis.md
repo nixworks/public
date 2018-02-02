@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/03/28/the-international-atomic-energy-agency-calls-a-summit-in-vienna-to-tackle-concerns-about-nuclear-safety-following-the-fukushima-crisis.html)  [JSON](/news/2011/03/28/the-international-atomic-energy-agency-calls-a-summit-in-vienna-to-tackle-concerns-about-nuclear-safety-following-the-fukushima-crisis.json)  [XML](/news/2011/03/28/the-international-atomic-energy-agency-calls-a-summit-in-vienna-to-tackle-concerns-about-nuclear-safety-following-the-fukushima-crisis.xml)  
+
 ### [2011-03-28](/news/2011/03/28/index.md)
 
+##### IAEA
 # The International Atomic Energy Agency calls a summit in Vienna to tackle concerns about nuclear safety following the Fukushima crisis. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/03/28/us-japan-nuclear-amano-idUSTRE72R4E320110328)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110328&t=2&i=373336648&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-28T160030Z_01_BTRE72R18CG00_RTROPTP_0_JAPAN-QUAKE-AMANO)
+1. [Reuters](https://www.reuters.com/article/2011/03/28/us-japan-nuclear-amano-idUSTRE72R4E320110328)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110328&t=2&i=373336648&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-03-28T160030Z_01_BTRE72R18CG00_RTROPTP_0_JAPAN-QUAKE-AMANO)
 
 ### Related:
 

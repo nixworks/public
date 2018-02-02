@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/29/haiti-acknowledges-the-immediate-international-assistance-it-received-from-cuba-the-dominican-republic-and-venezuela-following-the-recent-e.html)  [JSON](/news/2010/01/29/haiti-acknowledges-the-immediate-international-assistance-it-received-from-cuba-the-dominican-republic-and-venezuela-following-the-recent-e.json)  [XML](/news/2010/01/29/haiti-acknowledges-the-immediate-international-assistance-it-received-from-cuba-the-dominican-republic-and-venezuela-following-the-recent-e.xml)  
+
 ### [2010-01-29](/news/2010/01/29/index.md)
 
+##### Haiti
 # Haiti acknowledges the immediate international assistance it received from Cuba, the Dominican Republic and Venezuela following the recent earthquake and confirms the death toll has reached 150,000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Granma](http://www.granma.cu/ingles/2010/enero/vier29/Cuba-was-the-first-country.html)
 

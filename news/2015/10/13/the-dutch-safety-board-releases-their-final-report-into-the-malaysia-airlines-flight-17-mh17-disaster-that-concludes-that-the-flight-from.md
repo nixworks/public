@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/13/the-dutch-safety-board-releases-their-final-report-into-the-malaysia-airlines-flight-17-mh17-disaster-that-concludes-that-the-flight-from.html)  [JSON](/news/2015/10/13/the-dutch-safety-board-releases-their-final-report-into-the-malaysia-airlines-flight-17-mh17-disaster-that-concludes-that-the-flight-from.json)  [XML](/news/2015/10/13/the-dutch-safety-board-releases-their-final-report-into-the-malaysia-airlines-flight-17-mh17-disaster-that-concludes-that-the-flight-from.xml)  
+
 ### [2015-10-13](/news/2015/10/13/index.md)
 
+##### Dutch Safety Board
 # The Dutch Safety Board releases their final report into the Malaysia Airlines Flight 17 (MH17) disaster that concludes that the flight from Amsterdam to Kuala Lumpur was shot-down by a Russian-made Buk missile system on 17 July 2014 killing 298 people. 
 
 Dutch safety team&#39;s final report into the downed Malaysian airliner will not place blame for the attack that killed 298.
 
 
-### Source:
+### Sources:
 
 1. [9News](http://www.9news.com.au/world/2015/10/13/20/01/mh17-was-shot-down-by-russian-made-missile-investigation-reveals)
 2. [Al Jazeera](http://www.aljazeera.com/indepth/features/2015/10/mh17-report-answer-questions-151012064226695.html)

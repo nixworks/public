@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2004/10/8/us-president-george-w-bush-and-challenger-senator-john-kerry-meet-at-washington-university-in-st-louis-missouri-for-the-second-of-three.html)  [JSON](/news/2004/10/8/us-president-george-w-bush-and-challenger-senator-john-kerry-meet-at-washington-university-in-st-louis-missouri-for-the-second-of-three.json)  [XML](/news/2004/10/8/us-president-george-w-bush-and-challenger-senator-john-kerry-meet-at-washington-university-in-st-louis-missouri-for-the-second-of-three.xml)  
+
 ### [2004-10-8](/news/2004/10/8/index.md)
 
+##### U.S. President
 #  US President George W. Bush and challenger Senator John Kerry meet at Washington University in St. Louis, Missouri, for the second of three U.S. presidential debates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://story.news.yahoo.com/news?tmpl=story&cid=1504&ncid=1504&e=3&u=/afp/20041009/ts_afp/us_vote_041009074833)
 2. [AP](http://story.news.yahoo.com/news?tmpl=story&u=/ap/20041009/ap_on_el_pr/debate_rdp&cid=694&ncid=716)
 3. [AP](http://www.macon.com/mld/macon/news/politics/9872659.htm)
 4. [BBC](http://news.bbc.co.uk/2/hi/americas/3726478.stm)
-5. [Reuters](http://www.reuters.com/newsArticle.jhtml;?type=topNews&storyID=6457377)
+5. [Reuters](https://www.reuters.com/newsArticle.jhtml;?type=topNews&storyID=6457377)
 6. [WorldNetDaily](http://worldnetdaily.com/news/article.asp?ARTICLE_ID=40843)
 
 ### Related:

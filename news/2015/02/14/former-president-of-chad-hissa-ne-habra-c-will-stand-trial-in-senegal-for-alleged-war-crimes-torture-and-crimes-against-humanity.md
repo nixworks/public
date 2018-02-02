@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/14/former-president-of-chad-hissa-ne-habra-c-will-stand-trial-in-senegal-for-alleged-war-crimes-torture-and-crimes-against-humanity.html)  [JSON](/news/2015/02/14/former-president-of-chad-hissa-ne-habra-c-will-stand-trial-in-senegal-for-alleged-war-crimes-torture-and-crimes-against-humanity.json)  [XML](/news/2015/02/14/former-president-of-chad-hissa-ne-habra-c-will-stand-trial-in-senegal-for-alleged-war-crimes-torture-and-crimes-against-humanity.xml)  
+
 ### [2015-02-14](/news/2015/02/14/index.md)
 
+##### President of Chad
 # Former President of Chad Hissene Habre will stand trial in Senegal for alleged war crimes, torture and crimes against humanity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-africa-31465670)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/81003000/jpg/_81003529_025857549-1.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/15/former-pakistani-prime-minister-nawaz-sharif-is-placed-under-house-arrest-to-prevent-the-pakistani-muslim-league-s-proposed-demonstration-i.html)  [JSON](/news/2009/03/15/former-pakistani-prime-minister-nawaz-sharif-is-placed-under-house-arrest-to-prevent-the-pakistani-muslim-league-s-proposed-demonstration-i.json)  [XML](/news/2009/03/15/former-pakistani-prime-minister-nawaz-sharif-is-placed-under-house-arrest-to-prevent-the-pakistani-muslim-league-s-proposed-demonstration-i.xml)  
+
 ### [2009-03-15](/news/2009/03/15/index.md)
 
+##### Pakistan
 #  Former Pakistani Prime Minister Nawaz Sharif is placed under house arrest to prevent the Pakistani Muslim League's proposed demonstration in Islamabad on March 16. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7944444.stm)
 

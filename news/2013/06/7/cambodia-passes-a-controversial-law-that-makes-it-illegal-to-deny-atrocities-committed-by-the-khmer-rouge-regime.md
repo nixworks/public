@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/7/cambodia-passes-a-controversial-law-that-makes-it-illegal-to-deny-atrocities-committed-by-the-khmer-rouge-regime.html)  [JSON](/news/2013/06/7/cambodia-passes-a-controversial-law-that-makes-it-illegal-to-deny-atrocities-committed-by-the-khmer-rouge-regime.json)  [XML](/news/2013/06/7/cambodia-passes-a-controversial-law-that-makes-it-illegal-to-deny-atrocities-committed-by-the-khmer-rouge-regime.xml)  
+
 ### [2013-06-7](/news/2013/06/7/index.md)
 
+##### Khmer Rouge
 # Cambodia passes a controversial law that makes it illegal to deny atrocities committed by the Khmer Rouge regime. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-22812565)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68031000/jpg/_68031002_68031001.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/16/a-bomb-placed-in-an-elevator-shaft-kills-pro-ru
 
 ### [2016-10-16](/news/2016/10/16/index.md)
 
+##### War in Donbass
 # A bomb placed in an elevator shaft kills Pro-Russian, high-ranking officer of the Donetsk People's Republic's special forces, Arseny Pavlov, also known as "Motorola", in Donetsk. 
 
 A self-made explosive device went off while Arsen Pavlov, known as Motorola, was in an elevator

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/6/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-exit-polls-indicating-that-the-president-of-bolivia-evo-morales-has-won.html)  [JSON](/news/2009/12/6/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-exit-polls-indicating-that-the-president-of-bolivia-evo-morales-has-won.json)  [XML](/news/2009/12/6/voters-in-bolivia-go-to-the-polls-for-a-general-election-with-exit-polls-indicating-that-the-president-of-bolivia-evo-morales-has-won.xml)  
+
 ### [2009-12-6](/news/2009/12/6/index.md)
 
+##### Bolivia
 #  Voters in Bolivia go to the polls for a general election with exit polls indicating that the President of Bolivia Evo Morales has won. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g6zoCgnamCcPJ6woRc2DC-TM7LNw)
 2. [AP via Google](http://www.google.com/hostednews/ap/article/ALeqM5gblaeheHgKvDQHSmSDeqMsjjX0pwD9CE2Q981)

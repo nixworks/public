@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/1/http-www-locusmag-com-2003-news-news0401a-html-baen-locus-online-carries-a-fake-news-story-about-baen-books-signing-deals-with-microsof.html)  [JSON](/news/2003/04/1/http-www-locusmag-com-2003-news-news0401a-html-baen-locus-online-carries-a-fake-news-story-about-baen-books-signing-deals-with-microsof.json)  [XML](/news/2003/04/1/http-www-locusmag-com-2003-news-news0401a-html-baen-locus-online-carries-a-fake-news-story-about-baen-books-signing-deals-with-microsof.xml)  
+
 ### [2003-04-1](/news/2003/04/1/index.md)
 
+##### Baen Books
 #  [http:--www.locusmag.com-2003-News-News0401a.html#baen Locus Online] carries a fake news story about Baen Books signing deals with Microsoft and Coca-Cola for product placement deals in Baen novels.
 
 

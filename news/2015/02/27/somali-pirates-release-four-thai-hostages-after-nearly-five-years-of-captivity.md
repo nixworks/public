@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/02/27/somali-pirates-release-four-thai-hostages-after-nearly-five-years-of-captivity.html)  [JSON](/news/2015/02/27/somali-pirates-release-four-thai-hostages-after-nearly-five-years-of-captivity.json)  [XML](/news/2015/02/27/somali-pirates-release-four-thai-hostages-after-nearly-five-years-of-captivity.xml)  
+
 ### [2015-02-27](/news/2015/02/27/index.md)
 
+##### Somali pirates
 # Somali pirates release four Thai hostages after nearly five years of captivity. 
 
 Somali pirates have freed four Thai nationals seized from a fishing vessel at sea in 2010, ending the longest-running hostage drama in the Horn of Africa state, the United Nations said on Friday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/02/27/us-somalia-piracy-idUSKBN0LV20Q20150227)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/02/27/us-somalia-piracy-idUSKBN0LV20Q20150227)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

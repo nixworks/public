@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/03/24/the-online-encyclopedia-wikipedia-goes-offline-with-users-encountering-navigation-error-messages.html)  [JSON](/news/2010/03/24/the-online-encyclopedia-wikipedia-goes-offline-with-users-encountering-navigation-error-messages.json)  [XML](/news/2010/03/24/the-online-encyclopedia-wikipedia-goes-offline-with-users-encountering-navigation-error-messages.xml)  
+
 ### [2010-03-24](/news/2010/03/24/index.md)
 
+##### Wikipedia
 # The online encyclopedia Wikipedia goes offline, with users encountering navigation error messages. 
 
 Wikipedia, the online encyclopedia, is offline this evening
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://scitech.blogs.cnn.com/2010/03/24/wikipedia-down-after-server-meltdown/)
-2. [PC Magazine](http://www.pcmag.com/article2/0,2817,2361778,00.asp)
+2. [PC Magazine](https://www.pcmag.com/article2/0,2817,2361778,00.asp)
 3. [The Daily Telegraph](http://www.telegraph.co.uk/technology/wikipedia/7514826/Wikipedia-goes-down.html)
 3. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01530/wiki_1530737a.jpg)
 

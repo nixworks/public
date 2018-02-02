@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/10/conflict-in-iraq-two-car-bombs-explode-in-baghdad-killing-at-least-10-people-and-wounding-17-including-a-us-soldier.html)  [JSON](/news/2004/10/10/conflict-in-iraq-two-car-bombs-explode-in-baghdad-killing-at-least-10-people-and-wounding-17-including-a-us-soldier.json)  [XML](/news/2004/10/10/conflict-in-iraq-two-car-bombs-explode-in-baghdad-killing-at-least-10-people-and-wounding-17-including-a-us-soldier.xml)  
+
 ### [2004-10-10](/news/2004/10/10/index.md)
 
+##### rebel-held
 #  Conflict in Iraq: Two car bombs explode in Baghdad, killing at least 10 people and wounding 17, including a US soldier. 
 
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.newsday.com/news/nationworld/wire/sns-ap-iraq-explosions,0,493774.story?coll=sns-ap-nationworld-headlines)
 1. [Cover Image](https://www.newsday.com/img/blog-share-nd.jpg)

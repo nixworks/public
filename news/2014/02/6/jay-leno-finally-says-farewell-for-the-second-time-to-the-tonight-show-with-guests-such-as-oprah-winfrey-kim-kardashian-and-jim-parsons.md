@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/6/jay-leno-finally-says-farewell-for-the-second-time-to-the-tonight-show-with-guests-such-as-oprah-winfrey-kim-kardashian-and-jim-parsons.html)  [JSON](/news/2014/02/6/jay-leno-finally-says-farewell-for-the-second-time-to-the-tonight-show-with-guests-such-as-oprah-winfrey-kim-kardashian-and-jim-parsons.json)  [XML](/news/2014/02/6/jay-leno-finally-says-farewell-for-the-second-time-to-the-tonight-show-with-guests-such-as-oprah-winfrey-kim-kardashian-and-jim-parsons.xml)  
+
 ### [2014-02-6](/news/2014/02/6/index.md)
 
+##### Jay Leno
 # Jay Leno finally says farewell for the second time to "The Tonight Show" with guests such as Oprah Winfrey, Kim Kardashian and Jim Parsons. 
 
 There was a moderate amount of crazy over the course of Leno&apos;s last hour, but it was mostly business as usual, with old friends.
 
 
-### Source:
+### Sources:
 
 1. [ (''Los Angeles Times](http://www.latimes.com/entertainment/tv/showtracker/la-et-st-jay-leno-last-show-review-20140207,0,4281361.story)
 1. [Cover Image](http://www.trbimg.com/img-52f4cc08/turbine/la-et-st-jay-leno-last-show-review-20140207)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/12/floods-and-landslides-in-yaan-ba-i-and-ha2a-ba-
 
 ### [2017-10-12](/news/2017/10/12/index.md)
 
+##### Tropical Depression 23W (2017)
 # Floods and landslides in Yen Bai and Hoa Binh provinces in Vietnam kill at least 54 people with 39 more missing. 
 
 Another 40 people are missing, including a journalist who was swept away after a bridge collapsed.

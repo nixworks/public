@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/11/a-gunman-kills-qassem-m-aqlan-the-yemeni-chief-of-security-employed-at-the-u-s-embassy-in-the-capital-sana-a.html)  [JSON](/news/2012/10/11/a-gunman-kills-qassem-m-aqlan-the-yemeni-chief-of-security-employed-at-the-u-s-embassy-in-the-capital-sana-a.json)  [XML](/news/2012/10/11/a-gunman-kills-qassem-m-aqlan-the-yemeni-chief-of-security-employed-at-the-u-s-embassy-in-the-capital-sana-a.xml)  
+
 ### [2012-10-11](/news/2012/10/11/index.md)
 
+##### Yemen
 # A gunman kills Qassem M. Aqlan, the Yemeni chief of security employed at the U.S. embassy in the capital, Sana'a. 
 
 A Yemeni employee of the US embassy in the capital Sanaa is shot dead in an attack by masked men on a motorbike, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19908088)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/63437000/jpg/_63437877_63437876.jpg)

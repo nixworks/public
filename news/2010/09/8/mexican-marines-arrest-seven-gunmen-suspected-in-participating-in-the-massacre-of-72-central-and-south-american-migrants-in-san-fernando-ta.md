@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/8/mexican-marines-arrest-seven-gunmen-suspected-in-participating-in-the-massacre-of-72-central-and-south-american-migrants-in-san-fernando-ta.html)  [JSON](/news/2010/09/8/mexican-marines-arrest-seven-gunmen-suspected-in-participating-in-the-massacre-of-72-central-and-south-american-migrants-in-san-fernando-ta.json)  [XML](/news/2010/09/8/mexican-marines-arrest-seven-gunmen-suspected-in-participating-in-the-massacre-of-72-central-and-south-american-migrants-in-san-fernando-ta.xml)  
+
 ### [2010-09-8](/news/2010/09/8/index.md)
 
+##### Mexican marines
 # Mexican marines arrest seven gunmen suspected in participating in the massacre of 72 Central and South American migrants in San Fernando, Tamaulipas. 
 
 A government spokesman says Mexican marines have arrested seven gunmen suspected of participating in the massacre of 72 Central and South American migrants near the U.S. border.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2010/09/08/mexican-marines-arrest-seven-suspected-killing-migrants-near-border/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/28/los-alamos-national-laboratory-a-major-u-s-nuclear-weapons-research-facility-is-shut-down-and-is-to-remain-closed-as-fire-fighters-battle.html)  [JSON](/news/2011/06/28/los-alamos-national-laboratory-a-major-u-s-nuclear-weapons-research-facility-is-shut-down-and-is-to-remain-closed-as-fire-fighters-battle.json)  [XML](/news/2011/06/28/los-alamos-national-laboratory-a-major-u-s-nuclear-weapons-research-facility-is-shut-down-and-is-to-remain-closed-as-fire-fighters-battle.xml)  
+
 ### [2011-06-28](/news/2011/06/28/index.md)
 
+##### Los Alamos National Laboratory
 # Los Alamos National Laboratory, a major U.S. nuclear weapons research facility, is shut down and is to remain closed as fire fighters battle a raging wildfire nearby. 
 
 One of the top nuclear weapons research facilities in the US is to remain closed until Thursday as fire fighters battle a raging wildfire.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13937781)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53740000/gif/_53740442_l88ilw0h.gif)

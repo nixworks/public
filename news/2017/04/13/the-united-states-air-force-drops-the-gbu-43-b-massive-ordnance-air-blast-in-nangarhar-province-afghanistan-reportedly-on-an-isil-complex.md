@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/04/13/the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-blast-in-nangarhar-province-afghanistan-reportedly-on-an-isil-complex.html)  [JSON](/news/2017/04/13/the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-blast-in-nangarhar-province-afghanistan-reportedly-on-an-isil-complex.json)  [XML](/news/2017/04/13/the-united-states-air-force-drops-the-gbu-43-b-massive-ordnance-air-blast-in-nangarhar-province-afghanistan-reportedly-on-an-isil-complex.xml)  
+
 ### [2017-04-13](/news/2017/04/13/index.md)
 
+##### War in Afghanistan (2015-present)
 # The United States Air Force drops the GBU-43-B Massive Ordnance Air Blast in Nangarhar Province, Afghanistan, reportedly on an ISIL complex of tunnels and caves. This is the first use of the weapon on the battlefield. 
 
 The US has deployed the largest non-nuclear bomb in its inventory on an ISIS target in a remote part of far northeast Afghanistan.
 
 
-### Source:
+### Sources:
 
 1. [Business Insider](http://www.businessinsider.com/us-moab-mother-of-all-bombs-isis-afghanistan-2017-4)
 1. [Cover Image](http://static2.businessinsider.com/image/58f00d03cf6d8f53008b4685-1190-625/the-us-unleashed-the-mother-of-all-bombs-onto-an-isis-target-in-afghanistan.jpg)

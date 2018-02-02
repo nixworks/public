@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/11/economists-peter-a-diamond-dale-t-mortensen-and-christopher-a-pissarides-win-the-nobel-memorial-prize-in-economic-sciences-for-their-wor.html)  [JSON](/news/2010/10/11/economists-peter-a-diamond-dale-t-mortensen-and-christopher-a-pissarides-win-the-nobel-memorial-prize-in-economic-sciences-for-their-wor.json)  [XML](/news/2010/10/11/economists-peter-a-diamond-dale-t-mortensen-and-christopher-a-pissarides-win-the-nobel-memorial-prize-in-economic-sciences-for-their-wor.xml)  
+
 ### [2010-10-11](/news/2010/10/11/index.md)
 
+##### Economist
 # Economists Peter A. Diamond, Dale T. Mortensen and Christopher A. Pissarides win the Nobel Memorial Prize in Economic Sciences for their work in labor market analysis. 
 
 Two Americans and a British-Cypriot economist won the 2010 Nobel economics prize Monday for developing a theory that helps explain why many people can remain unemployed despite a large number of...
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2010/10/11/win-economics-nobel-job-market-analysis/)
 2. [Nobel Prize](http://nobelprize.org/nobel_prizes/economics/laureates/2010/press.html)

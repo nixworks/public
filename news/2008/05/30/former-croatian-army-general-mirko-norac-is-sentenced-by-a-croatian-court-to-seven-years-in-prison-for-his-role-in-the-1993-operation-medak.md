@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/30/former-croatian-army-general-mirko-norac-is-sentenced-by-a-croatian-court-to-seven-years-in-prison-for-his-role-in-the-1993-operation-medak.html)  [JSON](/news/2008/05/30/former-croatian-army-general-mirko-norac-is-sentenced-by-a-croatian-court-to-seven-years-in-prison-for-his-role-in-the-1993-operation-medak.json)  [XML](/news/2008/05/30/former-croatian-army-general-mirko-norac-is-sentenced-by-a-croatian-court-to-seven-years-in-prison-for-his-role-in-the-1993-operation-medak.xml)  
+
 ### [2008-05-30](/news/2008/05/30/index.md)
 
+##### Croatian Army
 #  Former Croatian Army general Mirko Norac is sentenced by a Croatian court to seven years in prison for his role in the 1993 Operation Medak Pocket; Rahim Ademi is acquitted. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/7427641.stm)
 

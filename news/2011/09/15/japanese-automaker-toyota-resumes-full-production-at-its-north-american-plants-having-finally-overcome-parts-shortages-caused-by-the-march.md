@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/15/japanese-automaker-toyota-resumes-full-production-at-its-north-american-plants-having-finally-overcome-parts-shortages-caused-by-the-march.html)  [JSON](/news/2011/09/15/japanese-automaker-toyota-resumes-full-production-at-its-north-american-plants-having-finally-overcome-parts-shortages-caused-by-the-march.json)  [XML](/news/2011/09/15/japanese-automaker-toyota-resumes-full-production-at-its-north-american-plants-having-finally-overcome-parts-shortages-caused-by-the-march.xml)  
+
 ### [2011-09-15](/news/2011/09/15/index.md)
 
+##### Japan
 # Japanese automaker Toyota resumes full production at its North American plants, having finally overcome parts shortages caused by the March 2011 Tohoku earthquake and tsunami. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg via ''Japan Times](http://search.japantimes.co.jp/cgi-bin/nb20110915n1.html)
 

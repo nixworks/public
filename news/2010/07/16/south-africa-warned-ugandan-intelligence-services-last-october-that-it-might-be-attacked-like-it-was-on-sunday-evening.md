@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/16/south-africa-warned-ugandan-intelligence-services-last-october-that-it-might-be-attacked-like-it-was-on-sunday-evening.html)  [JSON](/news/2010/07/16/south-africa-warned-ugandan-intelligence-services-last-october-that-it-might-be-attacked-like-it-was-on-sunday-evening.json)  [XML](/news/2010/07/16/south-africa-warned-ugandan-intelligence-services-last-october-that-it-might-be-attacked-like-it-was-on-sunday-evening.xml)  
+
 ### [2010-07-16](/news/2010/07/16/index.md)
 
+##### South Africa
 # South Africa warned Ugandan intelligence services last October that it might be attacked like it was on Sunday evening. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/katine/2010/jul/16/uganda-bomb-attack-warning)
 

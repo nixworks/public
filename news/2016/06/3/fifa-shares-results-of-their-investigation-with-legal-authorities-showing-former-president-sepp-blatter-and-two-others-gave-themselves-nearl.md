@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/3/fifa-shares-results-of-their-investigation-with-
 
 ### [2016-06-3](/news/2016/06/3/index.md)
 
+##### 2015 FIFA corruption case
 # FIFA shares results of their investigation with legal authorities showing former president Sepp Blatter and two others gave themselves nearly $80 million over the past five years via annual raises and World Cup bonuses. 
 
 Investigators say a series of contract amendments resulted in payouts of tens of millions of dollars in salary and bonuses to the three executives from 2011 to 2015.

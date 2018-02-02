@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/13/an-explosion-in-vancouver-british-columbia-destroys-a-starbucks-and-taco-del-mar-police-report-arson-originating-in-the-taco-restaurant.html)  [JSON](/news/2008/02/13/an-explosion-in-vancouver-british-columbia-destroys-a-starbucks-and-taco-del-mar-police-report-arson-originating-in-the-taco-restaurant.json)  [XML](/news/2008/02/13/an-explosion-in-vancouver-british-columbia-destroys-a-starbucks-and-taco-del-mar-police-report-arson-originating-in-the-taco-restaurant.xml)  
+
 ### [2008-02-13](/news/2008/02/13/index.md)
 
+##### Vancouver
 #  An explosion in Vancouver, British Columbia destroys a Starbucks and Taco Del Mar. Police report arson, originating in the taco restaurant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press](http://canadianpress.google.com/article/ALeqM5jsi_4FpVFHAA72fSndE70o6sbljQ)
 

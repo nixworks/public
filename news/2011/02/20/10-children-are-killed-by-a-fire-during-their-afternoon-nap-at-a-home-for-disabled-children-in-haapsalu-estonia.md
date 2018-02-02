@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/20/10-children-are-killed-by-a-fire-during-their-afternoon-nap-at-a-home-for-disabled-children-in-haapsalu-estonia.html)  [JSON](/news/2011/02/20/10-children-are-killed-by-a-fire-during-their-afternoon-nap-at-a-home-for-disabled-children-in-haapsalu-estonia.json)  [XML](/news/2011/02/20/10-children-are-killed-by-a-fire-during-their-afternoon-nap-at-a-home-for-disabled-children-in-haapsalu-estonia.xml)  
+
 ### [2011-02-20](/news/2011/02/20/index.md)
 
+##### Haapsalu
 # 10 children are killed by a fire during their afternoon nap at a home for disabled children in Haapsalu, Estonia. 
 
 Ten children are killed by a fire at a home for disabled children in the western Estonian town of Haapsalu.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Guardian](http://www.guardian.co.uk/world/2011/feb/20/estonia-orphanage-fire)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-12519860)

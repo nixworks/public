@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/15/newly-elected-spanish-prime-minister-jose-luis-rodriguez-zapatero-announces-his-government-s-opposition-to-the-invasion-and-continued-occup.html)  [JSON](/news/2004/03/15/newly-elected-spanish-prime-minister-jose-luis-rodriguez-zapatero-announces-his-government-s-opposition-to-the-invasion-and-continued-occup.json)  [XML](/news/2004/03/15/newly-elected-spanish-prime-minister-jose-luis-rodriguez-zapatero-announces-his-government-s-opposition-to-the-invasion-and-continued-occup.xml)  
+
 ### [2004-03-15](/news/2004/03/15/index.md)
 
+##### elected
 #  Newly elected Spanish Prime Minister Jos Luis Rodrguez Zapatero announces his government's opposition to the invasion and continued occupation of Iraq and his intention to withdraw Spanish troops from Iraq by June 30, unless they are part of a U.N. force. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3512144.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/9/in-south-africa-5-3-richter-scale-earthquake-collapses-hartebeestfontein-gold-mine-south-of-johannesburg-and-traps-40-miners-undersground.html)  [JSON](/news/2005/03/9/in-south-africa-5-3-richter-scale-earthquake-collapses-hartebeestfontein-gold-mine-south-of-johannesburg-and-traps-40-miners-undersground.json)  [XML](/news/2005/03/9/in-south-africa-5-3-richter-scale-earthquake-collapses-hartebeestfontein-gold-mine-south-of-johannesburg-and-traps-40-miners-undersground.xml)  
+
 ### [2005-03-9](/news/2005/03/9/index.md)
 
+##### South Africa
 #  In South Africa, 5.3 Richter scale earthquake collapses Hartebeestfontein gold mine south of Johannesburg and traps 40 miners undersground. One miner is killed and 23 injured. Medics and volunteer miners rescue them in a 12-hour rescue operation 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4333307.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=14&click_id=14&art_id=vn20050310065519208C414430)

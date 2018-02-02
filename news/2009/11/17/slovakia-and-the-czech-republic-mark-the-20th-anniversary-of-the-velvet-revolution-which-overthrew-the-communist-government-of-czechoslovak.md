@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/17/slovakia-and-the-czech-republic-mark-the-20th-anniversary-of-the-velvet-revolution-which-overthrew-the-communist-government-of-czechoslovak.html)  [JSON](/news/2009/11/17/slovakia-and-the-czech-republic-mark-the-20th-anniversary-of-the-velvet-revolution-which-overthrew-the-communist-government-of-czechoslovak.json)  [XML](/news/2009/11/17/slovakia-and-the-czech-republic-mark-the-20th-anniversary-of-the-velvet-revolution-which-overthrew-the-communist-government-of-czechoslovak.xml)  
+
 ### [2009-11-17](/news/2009/11/17/index.md)
 
+##### Slovakia
 #  Slovakia and the Czech Republic mark the 20th anniversary of the Velvet Revolution which overthrew the communist government of Czechoslovakia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8363827.stm)
 2. [CNN](http://edition.cnn.com/2009/WORLD/europe/11/17/czech.velvet.revolution.1989/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/12/egyptian-president-mohamed-morsi-fires-mohamad-hussein-tantawi-head-of-the-country-s-armed-forces.html)  [JSON](/news/2012/08/12/egyptian-president-mohamed-morsi-fires-mohamad-hussein-tantawi-head-of-the-country-s-armed-forces.json)  [XML](/news/2012/08/12/egyptian-president-mohamed-morsi-fires-mohamad-hussein-tantawi-head-of-the-country-s-armed-forces.xml)  
+
 ### [2012-08-12](/news/2012/08/12/index.md)
 
+##### Mohamed Morsi
 # Egyptian President Mohamed Morsi fires Mohamad Hussein Tantawi, head of the country's armed forces. 
 
 Thousands gather in Tahrir Square to support move to replace defence minister and army chief by President Mohamed Morsi.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/201281215511142445.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/13/201281381058472734_20.jpg)

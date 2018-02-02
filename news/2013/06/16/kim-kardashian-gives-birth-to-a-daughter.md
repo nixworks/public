@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/06/16/kim-kardashian-gives-birth-to-a-daughter.html)  [JSON](/news/2013/06/16/kim-kardashian-gives-birth-to-a-daughter.json)  [XML](/news/2013/06/16/kim-kardashian-gives-birth-to-a-daughter.xml)  
+
 ### [2013-06-16](/news/2013/06/16/index.md)
 
+##### Kim Kardashian
 # Kim Kardashian gives birth to a daughter. 
 
-Grandma Kris Jenner says the parents are fine and their new addition is a knockout
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/life/people/2013/06/15/kim-kardashian-gives-brth/2388593/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/life/people/2013/06/15/kim-kardashian-gives-brth/2388593/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

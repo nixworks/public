@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/6/one-student-is-killed-and-11-injured-following-shootings-at-a-party-in-youngstown-ohio-two-men-are-later-arrested-in-connection-with-the-i.html)  [JSON](/news/2011/02/6/one-student-is-killed-and-11-injured-following-shootings-at-a-party-in-youngstown-ohio-two-men-are-later-arrested-in-connection-with-the-i.json)  [XML](/news/2011/02/6/one-student-is-killed-and-11-injured-following-shootings-at-a-party-in-youngstown-ohio-two-men-are-later-arrested-in-connection-with-the-i.xml)  
+
 ### [2011-02-6](/news/2011/02/6/index.md)
 
+##### Youngstown
 # One student is killed and 11 injured following shootings at a party in Youngstown, Ohio. Two men are later arrested in connection with the incident. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Lexington Herald-Leader](http://www.kentucky.com/2011/02/06/1625080/police-1-dead-11-shot-at-ohio.html)
 2. [CNN](http://edition.cnn.com/2011/CRIME/02/06/ohio.students.shot/index.html?eref=rss_topstories)

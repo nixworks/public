@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/06/25/the-united-states-supreme-court-strikes-down-a-portion-of-the-voting-rights-act-of-1965.html)  [JSON](/news/2013/06/25/the-united-states-supreme-court-strikes-down-a-portion-of-the-voting-rights-act-of-1965.json)  [XML](/news/2013/06/25/the-united-states-supreme-court-strikes-down-a-portion-of-the-voting-rights-act-of-1965.xml)  
+
 ### [2013-06-25](/news/2013/06/25/index.md)
 
+##### United States Supreme Court
 # The United States Supreme Court strikes down a portion of the Voting Rights Act of 1965. 
 
 Ruling frees states from federal oversight, calling for new way to identify jurisdictions covered
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/politics/supreme-court-stops-use-of-key-part-of-voting-rights-act/2013/06/25/26888528-dda5-11e2-b197-f248b21f94c4_story.html)
+1. [Washington Post](https://www.washingtonpost.com/politics/supreme-court-stops-use-of-key-part-of-voting-rights-act/2013/06/25/26888528-dda5-11e2-b197-f248b21f94c4_story.html)
 
 ### Related:
 

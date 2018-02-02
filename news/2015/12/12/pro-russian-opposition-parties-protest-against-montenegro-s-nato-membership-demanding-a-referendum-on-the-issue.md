@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/12/12/pro-russian-opposition-parties-protest-against-montenegro-s-nato-membership-demanding-a-referendum-on-the-issue.html)  [JSON](/news/2015/12/12/pro-russian-opposition-parties-protest-against-montenegro-s-nato-membership-demanding-a-referendum-on-the-issue.json)  [XML](/news/2015/12/12/pro-russian-opposition-parties-protest-against-montenegro-s-nato-membership-demanding-a-referendum-on-the-issue.xml)  
+
 ### [2015-12-12](/news/2015/12/12/index.md)
 
+##### Russia
 # Pro-Russian opposition parties protest against Montenegro's NATO membership, demanding a referendum on the issue. 
 
 Several thousand supporters of pro-Russian opposition parties protested Saturday against Montenegro&#x27;s NATO membership, demanding a referendum over the issue. &quot;If the referendum is avoided and there is a bid to fraudulently pass the decision (on NATO membership) in parliament, Montenegro will
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo](http://news.yahoo.com/thousands-rally-against-montenegros-nato-membership-223202533.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/GEDeYOsrIlPAaM7Nge9sPw--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/8da2be926d4902b08d5bd35773e8e711a1b5c2ba.jpg)
+1. [AFP via Yahoo](https://news.yahoo.com/thousands-rally-against-montenegros-nato-membership-223202533.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/sS820_REu00VG2VfeGWsBg--~B/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/8da2be926d4902b08d5bd35773e8e711a1b5c2ba.jpg)
 
 ### Related:
 

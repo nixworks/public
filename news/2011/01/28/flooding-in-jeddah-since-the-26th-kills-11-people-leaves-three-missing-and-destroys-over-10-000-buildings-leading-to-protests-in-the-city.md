@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/28/flooding-in-jeddah-since-the-26th-kills-11-people-leaves-three-missing-and-destroys-over-10-000-buildings-leading-to-protests-in-the-city.html)  [JSON](/news/2011/01/28/flooding-in-jeddah-since-the-26th-kills-11-people-leaves-three-missing-and-destroys-over-10-000-buildings-leading-to-protests-in-the-city.json)  [XML](/news/2011/01/28/flooding-in-jeddah-since-the-26th-kills-11-people-leaves-three-missing-and-destroys-over-10-000-buildings-leading-to-protests-in-the-city.xml)  
+
 ### [2011-01-28](/news/2011/01/28/index.md)
 
+##### Jeddah
 # Flooding in Jeddah since the 26th kills 11 people, leaves three missing and destroys over 10,000 buildings, leading to protests in the city over poor infrastructure. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i4_-39fbqAlBiVS5zTYCoFj8oG_A?docId=CNG.1b324d261b1d70e46050b731e6c7d0f3.fc1)
 2. [GMA News](http://www.gmanews.tv/story/211788/filipino-among-fatalities-in-jeddah-floods)

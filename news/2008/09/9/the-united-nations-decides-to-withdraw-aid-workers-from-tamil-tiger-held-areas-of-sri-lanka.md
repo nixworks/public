@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/9/the-united-nations-decides-to-withdraw-aid-workers-from-tamil-tiger-held-areas-of-sri-lanka.html)  [JSON](/news/2008/09/9/the-united-nations-decides-to-withdraw-aid-workers-from-tamil-tiger-held-areas-of-sri-lanka.json)  [XML](/news/2008/09/9/the-united-nations-decides-to-withdraw-aid-workers-from-tamil-tiger-held-areas-of-sri-lanka.xml)  
+
 ### [2008-09-9](/news/2008/09/9/index.md)
 
+##### United Nations
 #  The United Nations decides to withdraw aid workers from Tamil Tiger-held areas of Sri Lanka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7606864.stm)
 

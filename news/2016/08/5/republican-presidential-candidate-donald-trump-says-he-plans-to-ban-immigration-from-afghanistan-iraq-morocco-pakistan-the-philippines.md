@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/5/republican-presidential-candidate-donald-trump-s
 
 ### [2016-08-5](/news/2016/08/5/index.md)
 
+##### 2016 U.S. presidential election
 # Republican presidential candidate Donald Trump says he plans to ban immigration from Afghanistan, Iraq, Morocco, Pakistan, the Philippines, Somalia, Syria, Uzbekistan and Yemen. 
 
 

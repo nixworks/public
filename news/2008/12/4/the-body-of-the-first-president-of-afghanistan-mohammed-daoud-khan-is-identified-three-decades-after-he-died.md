@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/4/the-body-of-the-first-president-of-afghanistan-mohammed-daoud-khan-is-identified-three-decades-after-he-died.html)  [JSON](/news/2008/12/4/the-body-of-the-first-president-of-afghanistan-mohammed-daoud-khan-is-identified-three-decades-after-he-died.json)  [XML](/news/2008/12/4/the-body-of-the-first-president-of-afghanistan-mohammed-daoud-khan-is-identified-three-decades-after-he-died.xml)  
+
 ### [2008-12-4](/news/2008/12/4/index.md)
 
+##### Afghanistan President
 #  The body of the first President of Afghanistan Mohammed Daoud Khan is identified, three decades after he died. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7764852.stm)
 

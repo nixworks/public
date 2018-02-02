@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/21/a-korean-people-s-army-soldier-defects-to-south
 
 ### [2017-12-21](/news/2017/12/21/index.md)
 
+##### Border incidents involving North and South Korea
 # A Korean People's Army soldier defects to South Korea after crossing the Korean Demilitarized Zone (DMZ). South Korean border guards fired warning shots at North Korean troops who approached the Military Demarcation Line, in search of the missing soldier. He is the fourth North Korean soldier to defect this year. 
 
 

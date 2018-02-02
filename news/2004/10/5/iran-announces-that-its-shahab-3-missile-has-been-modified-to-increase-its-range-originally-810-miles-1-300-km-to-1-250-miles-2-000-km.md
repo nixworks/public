@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/10/5/iran-announces-that-its-shahab-3-missile-has-been-modified-to-increase-its-range-originally-810-miles-1-300-km-to-1-250-miles-2-000-km.html)  [JSON](/news/2004/10/5/iran-announces-that-its-shahab-3-missile-has-been-modified-to-increase-its-range-originally-810-miles-1-300-km-to-1-250-miles-2-000-km.json)  [XML](/news/2004/10/5/iran-announces-that-its-shahab-3-missile-has-been-modified-to-increase-its-range-originally-810-miles-1-300-km-to-1-250-miles-2-000-km.xml)  
+
 ### [2004-10-5](/news/2004/10/5/index.md)
 
+##### Iran
 #  Iran announces that its Shahab-3 missile has been modified to increase its range (originally 810 miles (1,300 km)) to 1,250 miles (2,000 km). This puts parts of Europe&mdash;and all of the Middle East&mdash;within range of Iran's missiles for the first time. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6419844)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6419844)
 2. [The Scotsman](http://news.scotsman.com/international.cfm?id=1163352004)
-2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2014/08/30/taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.html)  [JSON](/news/2014/08/30/taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.json)  [XML](/news/2014/08/30/taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.xml)  
+
 ### [2014-08-30](/news/2014/08/30/index.md)
 
+##### Taliban insurgency
 # Taliban insurgents attack the National Directorate of Security building in Jalalabad resulting in at least six deaths. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2014/08/30/world/asia/afghanistan-attack/index.html?eref=edition)
+
+### Changes:
+
+1. [Taliban insurgency: Taliban insurgents attack the National Directorate of Security building in Jalalabad resulting in at least six deaths. ](/news/2014/08/30/taliban-insurgency-taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.md) _2017-08-27 03:41:13 (First version)_
+1. [Taliban insurgents attack the National Directorate of Security building in Jalalabad resulting in at least six deaths. ](/news/2014/08/30/taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [The death toll from yesterday's Taliban attack on the National Directorate of Security in Kabul rises to 64, with 347 others wounded, according to the Afghan Interior Ministry. ](/news/2016/04/20/the-death-toll-from-yesterday-s-taliban-attack-on-the-national-directorate-of-security-in-kabul-rises-to-64-with-347-others-wounded-accord.md) _Context: National Directorate of Security, Taliban_
 4. [The Afghan Taliban releases a statement rejecting peace talks with the government of Afghanistan until foreign forces stop attacking their positions and withdraw from the country. Direct peace talks between the government and the Taliban were expected to take place in Islamabad, Pakistan next week. ](/news/2016/03/5/the-afghan-taliban-releases-a-statement-rejecting-peace-talks-with-the-government-of-afghanistan-until-foreign-forces-stop-attacking-their-p.md) _Context: Taliban, Taliban insurgency_
 5. [Sartaj Aziz, a top foreign affairs adviser for Pakistan, publicly admits for the first time that the Afghan Taliban's leadership is living in the country and that Islamabad has "considerable influence" over them. ](/news/2016/03/3/sartaj-aziz-a-top-foreign-affairs-adviser-for-pakistan-publicly-admits-for-the-first-time-that-the-afghan-taliban-s-leadership-is-living-i.md) _Context: Taliban, Taliban insurgency_
-
-### Changes:
-
-1. [Taliban insurgency: Taliban insurgents attack the National Directorate of Security building in Jalalabad resulting in at least six deaths. ](/news/2014/08/30/taliban-insurgency-taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.md) _2017-08-27 03:41:13 (First version)_
-1. [Taliban insurgents attack the National Directorate of Security building in Jalalabad resulting in at least six deaths. ](/news/2014/08/30/taliban-insurgents-attack-the-national-directorate-of-security-building-in-jalalabad-resulting-in-at-least-six-deaths.md) _(Current version)_

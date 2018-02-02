@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2015/06/23/the-kurdish-people-s-protection-units-ypg-capture-the-military-base-brigade-93-and-enter-the-town-of-ayn-issa-the-first-defense-line-of.html)  [JSON](/news/2015/06/23/the-kurdish-people-s-protection-units-ypg-capture-the-military-base-brigade-93-and-enter-the-town-of-ayn-issa-the-first-defense-line-of.json)  [XML](/news/2015/06/23/the-kurdish-people-s-protection-units-ypg-capture-the-military-base-brigade-93-and-enter-the-town-of-ayn-issa-the-first-defense-line-of.xml)  
+
 ### [2015-06-23](/news/2015/06/23/index.md)
 
+##### Syrian Civil War
 #  The Kurdish People's Protection Units (YPG) capture the military base Brigade 93 and enter the town of Ayn Issa, the first defense line of ISIL north of its de facto capital al-Raqqah.ISIL claims it has started the destruction of the ancient complex of Palmyra. 
 
 Islamic extremists ISIL, who were reported on Sunday to have mined the ancient city of Palmyra in Syria claim they have begun to destroy the ancient
 
 
-### Source:
+### Sources:
 
 1. [euronews](http://www.euronews.com/2015/06/23/isil-claims-destruction-of-palmyra-has-begun/)
 1. [Cover Image](http://static.euronews.com/articles/308630/1000x563_308630.jpg)
 
 ### Related:
 
-1. [Airstrikes by Syrian or Russian warplanes on ISIL's de facto capital Al-Raqqah in northern Syria, leaves at least 39 people dead, according to the Syrian Observatory for Human Rights. Airstrikes on the city of Palmyra and nearby villages are said to have killed at least 18 ISIL militants, as the Syrian Army advance on the city. ](/news/2016/03/19/airstrikes-by-syrian-or-russian-warplanes-on-isil-s-de-facto-capital-al-raqqah-in-northern-syria-leaves-at-least-39-people-dead-according.md) _Context: Al-Raqqah, Palmyra, Syrian Civil War_
-2. [A series of air strikes in Syria's Raqqa province, believed to be carried out by U.S.-led coalition warplanes, leaves at least 32 Islamic State fighters killed and 40 more wounded. The final toll could rise as casualty figures were collected from a single hospital. The jets hit IS headquarters and bases to the north, east, and southeast of provincial capital Raqqa city. ](/news/2015/12/6/a-series-of-air-strikes-in-syria-s-raqqa-province-believed-to-be-carried-out-by-u-s-led-coalition-warplanes-leaves-at-least-32-islamic-st.md) _Context: Al-Raqqah, Military intervention against ISIL, Syrian Civil War_
-3. [The Syrian Observatory for Human Rights reports that at least 50 United States military instructors have deployed to northern Syria from Turkey and Iraq to train Kurdish forces ahead of an assault on ISIL's de facto capital Al-Raqqah. ](/news/2015/11/30/the-syrian-observatory-for-human-rights-reports-that-at-least-50-united-states-military-instructors-have-deployed-to-northern-syria-from-tur.md) _Context: Al-Raqqah, Military intervention against ISIL, Syrian Civil War_
-4. [ YPG led forces capture the strategic town Sarrin from ISIL after a month-long offensive. ](/news/2015/07/27/ypg-led-forces-capture-the-strategic-town-sarrin-from-isil-after-a-month-long-offensive.md) _Context: ISIL, Syrian Civil War, YPG_
-5. [A US citizen fighting alongside Kurdish People's Protection Units (YPG) against ISIL is killed in action near Kobani. ](/news/2015/06/11/a-us-citizen-fighting-alongside-kurdish-people-s-protection-units-ypg-against-isil-is-killed-in-action-near-kobani.md) _Context: ISIL, Military intervention against ISIL, YPG_
+1. [ YPG led forces capture the strategic town Sarrin from ISIL after a month-long offensive. ](/news/2015/07/27/ypg-led-forces-capture-the-strategic-town-sarrin-from-isil-after-a-month-long-offensive.md) _Context: ISIL, Syrian Civil War, YPG_
+2. [A US citizen fighting alongside Kurdish People's Protection Units (YPG) against ISIL is killed in action near Kobani. ](/news/2015/06/11/a-us-citizen-fighting-alongside-kurdish-people-s-protection-units-ypg-against-isil-is-killed-in-action-near-kobani.md) _Context: ISIL, Military intervention against ISIL, YPG_
+3. [The White House confirms Turkish Foreign Minister Mevlut Cavusoglu's announcement that President Donald Trump told Turkish President Recep Tayyip Erdogan that America is preparing to stop supplying weapons to ethnic Kurdish fighters in Syria. ](/news/2017/11/24/the-white-house-confirms-turkish-foreign-minister-mevla1-4t-aavuaoalu-s-announcement-that-president-donald-trump-told-turkish-president-rec.md) _Context: Syrian Civil War, YPG_
+4. [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md) _Context: ISIL, Syrian Civil War_
+5. [The Royal Australian Air Force (RAAF) suspends combat missions against ISIL over Syria, following Russia's threat that it would treat any aircraft from the U.S.-led coalition flying west of the Euphrates as a potential target. ](/news/2017/06/20/the-royal-australian-air-force-raaf-suspends-combat-missions-against-isil-over-syria-following-russia-s-threat-that-it-would-treat-any-ai.md) _Context: Military intervention against ISIL, Syrian Civil War_

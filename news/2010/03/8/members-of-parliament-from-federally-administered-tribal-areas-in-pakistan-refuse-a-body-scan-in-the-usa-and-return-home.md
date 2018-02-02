@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/8/members-of-parliament-from-federally-administered-tribal-areas-in-pakistan-refuse-a-body-scan-in-the-usa-and-return-home.html)  [JSON](/news/2010/03/8/members-of-parliament-from-federally-administered-tribal-areas-in-pakistan-refuse-a-body-scan-in-the-usa-and-return-home.json)  [XML](/news/2010/03/8/members-of-parliament-from-federally-administered-tribal-areas-in-pakistan-refuse-a-body-scan-in-the-usa-and-return-home.xml)  
+
 ### [2010-03-8](/news/2010/03/8/index.md)
 
+##### Federally Administered Tribal Areas
 # Members of Parliament from Federally Administered Tribal Areas in Pakistan refuse a body scan in the USA, and return home. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dawn](http://www.dawn.com/wps/wcm/connect/dawn-content-library/dawn/the-newspaper/front-page/19-fata-lawmakers-refuse-body-scanning-in-us,-fly-home-830-hh-01)
 

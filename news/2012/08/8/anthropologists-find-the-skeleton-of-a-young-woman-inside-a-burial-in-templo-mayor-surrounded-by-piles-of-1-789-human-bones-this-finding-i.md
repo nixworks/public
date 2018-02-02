@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/8/anthropologists-find-the-skeleton-of-a-young-woman-inside-a-burial-in-templo-mayor-surrounded-by-piles-of-1-789-human-bones-this-finding-i.html)  [JSON](/news/2012/08/8/anthropologists-find-the-skeleton-of-a-young-woman-inside-a-burial-in-templo-mayor-surrounded-by-piles-of-1-789-human-bones-this-finding-i.json)  [XML](/news/2012/08/8/anthropologists-find-the-skeleton-of-a-young-woman-inside-a-burial-in-templo-mayor-surrounded-by-piles-of-1-789-human-bones-this-finding-i.xml)  
+
 ### [2012-08-8](/news/2012/08/8/index.md)
 
+##### Templo Mayor
 # Anthropologists find the skeleton of a young woman inside a burial in Templo Mayor, surrounded by piles of 1,789 human bones. This finding is "unprecedented for the Aztec culture." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Huffington Post](http://www.huffingtonpost.com/2012/08/08/mexico-aztec-burial-site-_n_1756126.html)
 

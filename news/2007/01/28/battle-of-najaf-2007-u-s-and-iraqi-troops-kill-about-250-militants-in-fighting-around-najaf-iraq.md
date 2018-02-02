@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/28/battle-of-najaf-2007-u-s-and-iraqi-troops-kill-about-250-militants-in-fighting-around-najaf-iraq.html)  [JSON](/news/2007/01/28/battle-of-najaf-2007-u-s-and-iraqi-troops-kill-about-250-militants-in-fighting-around-najaf-iraq.json)  [XML](/news/2007/01/28/battle-of-najaf-2007-u-s-and-iraqi-troops-kill-about-250-militants-in-fighting-around-najaf-iraq.xml)  
+
 ### [2007-01-28](/news/2007/01/28/index.md)
 
+##### Battle of Najaf (2007)
 #  Battle of Najaf (2007): U.S. and Iraqi troops kill about 250 militants in fighting around Najaf, Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6308365.stm)
 

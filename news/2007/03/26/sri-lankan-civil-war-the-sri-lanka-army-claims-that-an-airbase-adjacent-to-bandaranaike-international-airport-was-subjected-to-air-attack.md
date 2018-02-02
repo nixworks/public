@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/26/sri-lankan-civil-war-the-sri-lanka-army-claims-that-an-airbase-adjacent-to-bandaranaike-international-airport-was-subjected-to-air-attack.html)  [JSON](/news/2007/03/26/sri-lankan-civil-war-the-sri-lanka-army-claims-that-an-airbase-adjacent-to-bandaranaike-international-airport-was-subjected-to-air-attack.json)  [XML](/news/2007/03/26/sri-lankan-civil-war-the-sri-lanka-army-claims-that-an-airbase-adjacent-to-bandaranaike-international-airport-was-subjected-to-air-attack.xml)  
+
 ### [2007-03-26](/news/2007/03/26/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: The Sri Lanka Army claims that an airbase adjacent to Bandaranaike International Airport was subjected to air attack by the Tamil Tigers, making it the first air attack launched by the Tigers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.news.com.au/story/0,20867,21446566-2703,00.html)
 

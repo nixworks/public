@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/12/4/peruvian-born-maria-julia-mantilla-garcia-is-crowned-miss-world.html)  [JSON](/news/2004/12/4/peruvian-born-maria-julia-mantilla-garcia-is-crowned-miss-world.json)  [XML](/news/2004/12/4/peruvian-born-maria-julia-mantilla-garcia-is-crowned-miss-world.xml)  
+
 ### [2004-12-4](/news/2004/12/4/index.md)
 
+##### Mara Julia Mantilla Garca
 #  Peruvian-born Mara Julia Mantilla Garca is crowned Miss World. 
 
-Complete coverage of the entertainment industry, TV, Music, Movies, celebrities, awards shows and more at Reuters.com
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=entertainmentNews&storyID=6995263)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=entertainmentNews&storyID=6995263)
 
 ### Related:
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/10/japan-is-to-freeze-and-confiscate-assets-linked-to-the-removed-iraqi-regime-based-on-a-united-nations-resolution-the-assets-belong-to-form.html)  [JSON](/news/2003/09/10/japan-is-to-freeze-and-confiscate-assets-linked-to-the-removed-iraqi-regime-based-on-a-united-nations-resolution-the-assets-belong-to-form.json)  [XML](/news/2003/09/10/japan-is-to-freeze-and-confiscate-assets-linked-to-the-removed-iraqi-regime-based-on-a-united-nations-resolution-the-assets-belong-to-form.xml)  
+
 ### [2003-09-10](/news/2003/09/10/index.md)
 
+##### Iraq
 #  Japan is to freeze and confiscate assets linked to the removed Iraqi regime based on a United Nations resolution. The assets belong to former Iraqi President Saddam Hussein, his two sons, and 52 other former top officials of the removed regime.
 
 

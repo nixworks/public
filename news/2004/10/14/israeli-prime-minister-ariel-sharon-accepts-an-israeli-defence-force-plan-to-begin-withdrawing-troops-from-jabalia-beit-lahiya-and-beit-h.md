@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/10/14/israeli-prime-minister-ariel-sharon-accepts-an-israeli-defence-force-plan-to-begin-withdrawing-troops-from-jabalia-beit-lahiya-and-beit-h.html)  [JSON](/news/2004/10/14/israeli-prime-minister-ariel-sharon-accepts-an-israeli-defence-force-plan-to-begin-withdrawing-troops-from-jabalia-beit-lahiya-and-beit-h.json)  [XML](/news/2004/10/14/israeli-prime-minister-ariel-sharon-accepts-an-israeli-defence-force-plan-to-begin-withdrawing-troops-from-jabalia-beit-lahiya-and-beit-h.xml)  
+
 ### [2004-10-14](/news/2004/10/14/index.md)
 
+##### Prime Minister
 #  Israeli Prime Minister Ariel Sharon accepts an Israeli Defence Force plan to begin withdrawing troops from Jabalia, Beit Lahiya, and Beit Hanoun in the northern Gaza Strip this weekend. [http:--www.haaretz.com-hasen-spages-489056.html (Haaretz)] About 100,000 Israelis in 100 cities march in a series of demonstrations across Israel opposing their government's proposal to withdraw Israeli settlers from the Gaza Strip and parts of the West Bank.
 
 

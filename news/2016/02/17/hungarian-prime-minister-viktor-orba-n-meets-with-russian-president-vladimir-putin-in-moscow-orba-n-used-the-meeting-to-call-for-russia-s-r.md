@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/17/hungarian-prime-minister-viktor-orba-n-meets-wi
 
 ### [2016-02-17](/news/2016/02/17/index.md)
 
+##### Hungary-Russia relations
 # Hungarian Prime Minister Viktor Orban meets with Russian President Vladimir Putin in Moscow. Orban used the meeting to call for Russia's relations with the EU to "return to normal", saying "We all are interested in normalizing relationship between Russia and Europe" while Putin described Hungary as an "old and faithful partner". 
 
 Hungarian Prime Minister Viktor Orban, on a visit to Moscow, called for better relations between Russia and Europe on Wednesday.

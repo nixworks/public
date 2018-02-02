@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/8/an-oil-pipeline-near-the-syrian-city-of-homs-is-blown-up.html)  [JSON](/news/2011/12/8/an-oil-pipeline-near-the-syrian-city-of-homs-is-blown-up.json)  [XML](/news/2011/12/8/an-oil-pipeline-near-the-syrian-city-of-homs-is-blown-up.xml)  
+
 ### [2011-12-8](/news/2011/12/8/index.md)
 
+##### Syria
 # An oil pipeline near the Syrian city of Homs is blown up. 
 
 A Syrian pipeline carrying oil from the east of the country to a vital refinery in Homs was blown up on Thursday in an act state news described as &#034;terrorism&#034;.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/syria/8942861/Syrian-oil-pipeline-blown-up.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02078/homs-oil_2078585a.jpg)

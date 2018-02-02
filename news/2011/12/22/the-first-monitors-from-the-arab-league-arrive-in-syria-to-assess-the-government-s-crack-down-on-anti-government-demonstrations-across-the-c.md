@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/22/the-first-monitors-from-the-arab-league-arrive-in-syria-to-assess-the-government-s-crack-down-on-anti-government-demonstrations-across-the-c.html)  [JSON](/news/2011/12/22/the-first-monitors-from-the-arab-league-arrive-in-syria-to-assess-the-government-s-crack-down-on-anti-government-demonstrations-across-the-c.json)  [XML](/news/2011/12/22/the-first-monitors-from-the-arab-league-arrive-in-syria-to-assess-the-government-s-crack-down-on-anti-government-demonstrations-across-the-c.xml)  
+
 ### [2011-12-22](/news/2011/12/22/index.md)
 
+##### Arab League
 # The first monitors from the Arab League arrive in Syria to assess the government's crack-down on anti-government demonstrations across the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PA](http://www.google.com/hostednews/ukpress/article/ALeqM5jCo8USUpHKdYozHrMJ5ExzVhnbFg?docId=N0599291324549691575A)
 

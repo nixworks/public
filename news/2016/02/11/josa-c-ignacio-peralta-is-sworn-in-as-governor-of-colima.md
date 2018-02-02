@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/11/josa-c-ignacio-peralta-is-sworn-in-as-governor-
 
 ### [2016-02-11](/news/2016/02/11/index.md)
 
+##### Governor
 # Jose Ignacio Peralta is sworn in as Governor of Colima. 
 
 

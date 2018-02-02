@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/7/international-olympic-committee-ioc-president-jacques-rogge-inspects-the-site-of-the-2014-winter-olympics-in-sochi-russia.html)  [JSON](/news/2010/06/7/international-olympic-committee-ioc-president-jacques-rogge-inspects-the-site-of-the-2014-winter-olympics-in-sochi-russia.json)  [XML](/news/2010/06/7/international-olympic-committee-ioc-president-jacques-rogge-inspects-the-site-of-the-2014-winter-olympics-in-sochi-russia.xml)  
+
 ### [2010-06-7](/news/2010/06/7/index.md)
 
+##### International Olympic Committee
 # International Olympic Committee (IOC) President Jacques Rogge inspects the site of the 2014 Winter Olympics in Sochi, Russia. 
 
 IOC President Jacques Rogge visits the site of the 2014 Winter Olympics in Russia, after officials there reveal costs are soaring.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10257581.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

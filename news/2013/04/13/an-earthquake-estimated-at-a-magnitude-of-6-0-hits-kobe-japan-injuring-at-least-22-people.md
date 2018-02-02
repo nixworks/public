@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/13/an-earthquake-estimated-at-a-magnitude-of-6-0-hits-kobe-japan-injuring-at-least-22-people.html)  [JSON](/news/2013/04/13/an-earthquake-estimated-at-a-magnitude-of-6-0-hits-kobe-japan-injuring-at-least-22-people.json)  [XML](/news/2013/04/13/an-earthquake-estimated-at-a-magnitude-of-6-0-hits-kobe-japan-injuring-at-least-22-people.xml)  
+
 ### [2013-04-13](/news/2013/04/13/index.md)
 
+##### earthquake
 # An earthquake estimated at a magnitude of 6.0 hits Kobe, Japan, injuring at least 22 people. 
 
 A strong earthquake shook Japan on Saturday near the southwestern city of Kobe, leaving 23 people injured, seven of them seriously &mdash; mostly elderly tripping while trying to flee, police said. No one was killed.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Hindu](http://www.thehindu.com/news/international/world/strong-quake-hits-japan/article4613546.ece)
 2. [CBC News](http://www.cbc.ca/news/world/story/2013/04/13/japan-earthquake.html)

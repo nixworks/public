@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/28/raymond-hewlett-a-person-of-interest-in-madeleine-mccann-s-disappearance-gives-the-west-yorkshire-police-a-dna-sample-for-testing.html)  [JSON](/news/2009/05/28/raymond-hewlett-a-person-of-interest-in-madeleine-mccann-s-disappearance-gives-the-west-yorkshire-police-a-dna-sample-for-testing.json)  [XML](/news/2009/05/28/raymond-hewlett-a-person-of-interest-in-madeleine-mccann-s-disappearance-gives-the-west-yorkshire-police-a-dna-sample-for-testing.xml)  
+
 ### [2009-05-28](/news/2009/05/28/index.md)
 
+##### person of interest
 #  Raymond Hewlett, a person of interest in Madeleine McCann's disappearance, gives the West Yorkshire Police a DNA sample for testing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/World-News/Madeleine-McCann-Person-Of-Interest-British-Paedophile-Raymond-Hewlett-Gives-DNA-Sample-To-Police/Article/200905415290795)
 

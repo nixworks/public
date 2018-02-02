@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/17/a-soldier-with-the-nato-led-international-security-assistance-force-isaf-was-killed-in-south-afghanistan.html)  [JSON](/news/2010/09/17/a-soldier-with-the-nato-led-international-security-assistance-force-isaf-was-killed-in-south-afghanistan.json)  [XML](/news/2010/09/17/a-soldier-with-the-nato-led-international-security-assistance-force-isaf-was-killed-in-south-afghanistan.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### International Security Assistance Force
 # A soldier with the NATO-led International Security Assistance Force (ISAF) was killed in South Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://eng.mod.gov.cn/IntlMilitary/2010-09/18/content_4194529.htm)
 

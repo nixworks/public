@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/1/almost-25-000-homes-remain-powerless-after-part-of-northern-ireland-s-electricity-network-is-knocked-out.html)  [JSON](/news/2010/04/1/almost-25-000-homes-remain-powerless-after-part-of-northern-ireland-s-electricity-network-is-knocked-out.json)  [XML](/news/2010/04/1/almost-25-000-homes-remain-powerless-after-part-of-northern-ireland-s-electricity-network-is-knocked-out.xml)  
+
 ### [2010-04-1](/news/2010/04/1/index.md)
 
+##### Northern Ireland
 #  Almost 25,000 homes remain powerless after part of Northern Ireland's electricity network is knocked out. 
 
 Almost 23,000 homes are still without power in Northern Ireland following the extreme weather conditions on Tuesday night.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8598188.stm)
 2. [RTÉ](http://www.rte.ie/news/2010/0401/weather.html)

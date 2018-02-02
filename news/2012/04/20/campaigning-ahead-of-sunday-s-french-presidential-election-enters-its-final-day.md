@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/20/campaigning-ahead-of-sunday-s-french-presidential-election-enters-its-final-day.html)  [JSON](/news/2012/04/20/campaigning-ahead-of-sunday-s-french-presidential-election-enters-its-final-day.json)  [XML](/news/2012/04/20/campaigning-ahead-of-sunday-s-french-presidential-election-enters-its-final-day.xml)  
+
 ### [2012-04-20](/news/2012/04/20/index.md)
 
+##### 2012 presidential election
 # Campaigning ahead of Sunday's French presidential election enters its final day. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17781224)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/59780000/jpg/_59780259_014559471-1.jpg)

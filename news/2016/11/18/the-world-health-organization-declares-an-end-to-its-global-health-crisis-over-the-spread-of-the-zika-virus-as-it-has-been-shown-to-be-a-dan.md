@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/18/the-world-health-organization-declares-an-end-t
 
 ### [2016-11-18](/news/2016/11/18/index.md)
 
+##### Zika virus outbreak
 # The World Health Organization declares an end to its global health crisis over the spread of the Zika virus as it has been shown to be a dangerous mosquito-borne disease like malaria or yellow fever. 
 
 The World Health Organization said it did not consider the crisis over for the mosquito-borne virus.

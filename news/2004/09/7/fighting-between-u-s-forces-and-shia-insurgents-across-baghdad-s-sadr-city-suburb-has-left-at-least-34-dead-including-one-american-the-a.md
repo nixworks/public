@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/7/fighting-between-u-s-forces-and-shia-insurgents-across-baghdad-s-sadr-city-suburb-has-left-at-least-34-dead-including-one-american-the-a.html)  [JSON](/news/2004/09/7/fighting-between-u-s-forces-and-shia-insurgents-across-baghdad-s-sadr-city-suburb-has-left-at-least-34-dead-including-one-american-the-a.json)  [XML](/news/2004/09/7/fighting-between-u-s-forces-and-shia-insurgents-across-baghdad-s-sadr-city-suburb-has-left-at-least-34-dead-including-one-american-the-a.xml)  
+
 ### [2004-09-7](/news/2004/09/7/index.md)
 
+##### Shi'a
 #  Fighting between U.S. forces and Shia insurgents across Baghdad's Sadr City suburb has left at least 34 dead, including one American. The Associated Press reports that this death marks the 1,000th U.S. combat fatality in Iraq. 
 
 U.S.&#160; forces continued Thursday to pound suspected militant strongholds in Fallujah as the presidential candidates sparred over the ever-rising U.S. death toll. 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3633742.stm)
 2. [MSNBC](http://www.msnbc.msn.com/id/5911852/)

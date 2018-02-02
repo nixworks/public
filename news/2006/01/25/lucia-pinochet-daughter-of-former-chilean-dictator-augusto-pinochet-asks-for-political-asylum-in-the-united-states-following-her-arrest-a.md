@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/25/lucia-pinochet-daughter-of-former-chilean-dictator-augusto-pinochet-asks-for-political-asylum-in-the-united-states-following-her-arrest-a.html)  [JSON](/news/2006/01/25/lucia-pinochet-daughter-of-former-chilean-dictator-augusto-pinochet-asks-for-political-asylum-in-the-united-states-following-her-arrest-a.json)  [XML](/news/2006/01/25/lucia-pinochet-daughter-of-former-chilean-dictator-augusto-pinochet-asks-for-political-asylum-in-the-united-states-following-her-arrest-a.xml)  
+
 ### [2006-01-25](/news/2006/01/25/index.md)
 
+##### Lucia Pinochet
 #  Lucia Pinochet, daughter of former Chilean dictator Augusto Pinochet, asks for political asylum in the United States following her arrest at Washington Dulles International Airport on a Chilean arrest warrant for tax evasion. 
 
 Things to do in Miami
 
 
-### Source:
+### Sources:
 
 1. [Miami Herald](http://www.miami.com/mld/miamiherald/news/13713633.htm)
 1. [Cover Image](http://www.miami.com/wp-content/themes/miami/images/sg/img-16x9.png)

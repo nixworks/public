@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/10/the-palestinian-authority-pa-indefinitely-postpones-local-elections-scheduled-for-july-17-no-reason-is-provided.html)  [JSON](/news/2010/06/10/the-palestinian-authority-pa-indefinitely-postpones-local-elections-scheduled-for-july-17-no-reason-is-provided.json)  [XML](/news/2010/06/10/the-palestinian-authority-pa-indefinitely-postpones-local-elections-scheduled-for-july-17-no-reason-is-provided.xml)  
+
 ### [2010-06-10](/news/2010/06/10/index.md)
 
+##### Palestinian Authority
 # The Palestinian Authority (PA) indefinitely postpones local elections scheduled for July 17: no reason is provided. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010610155813954648.html)
 1. [Cover Image](http://www.aljazeera.com)

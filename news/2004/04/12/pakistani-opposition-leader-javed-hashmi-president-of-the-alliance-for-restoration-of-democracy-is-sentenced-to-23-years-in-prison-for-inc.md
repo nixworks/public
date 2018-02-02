@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/12/pakistani-opposition-leader-javed-hashmi-president-of-the-alliance-for-restoration-of-democracy-is-sentenced-to-23-years-in-prison-for-inc.html)  [JSON](/news/2004/04/12/pakistani-opposition-leader-javed-hashmi-president-of-the-alliance-for-restoration-of-democracy-is-sentenced-to-23-years-in-prison-for-inc.json)  [XML](/news/2004/04/12/pakistani-opposition-leader-javed-hashmi-president-of-the-alliance-for-restoration-of-democracy-is-sentenced-to-23-years-in-prison-for-inc.xml)  
+
 ### [2004-04-12](/news/2004/04/12/index.md)
 
+##### Pakistan
 #  Pakistani opposition leader Javed Hashmi, president of the Alliance for Restoration of Democracy is sentenced to 23 years in prison for inciting mutiny and sedition in the armed forces. He distributed a letter critical of Pakistani president Pervez Musharraf. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/in_depth/3619745.stm)
 2. [Hi Pakistan](http://www.hipakistan.com/en/detail.php?newsId=en60978&F_catID=&f_type=source)

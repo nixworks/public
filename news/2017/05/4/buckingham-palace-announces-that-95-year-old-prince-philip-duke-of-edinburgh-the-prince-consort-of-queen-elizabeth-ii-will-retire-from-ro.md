@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/05/4/buckingham-palace-announces-that-95-year-old-prince-philip-duke-of-edinburgh-the-prince-consort-of-queen-elizabeth-ii-will-retire-from-ro.html)  [JSON](/news/2017/05/4/buckingham-palace-announces-that-95-year-old-prince-philip-duke-of-edinburgh-the-prince-consort-of-queen-elizabeth-ii-will-retire-from-ro.json)  [XML](/news/2017/05/4/buckingham-palace-announces-that-95-year-old-prince-philip-duke-of-edinburgh-the-prince-consort-of-queen-elizabeth-ii-will-retire-from-ro.xml)  
+
 ### [2017-05-4](/news/2017/05/4/index.md)
 
+##### Buckingham Palace
 # Buckingham Palace announces that 95-year-old Prince Philip, Duke of Edinburgh, the Prince consort of Queen Elizabeth II, will retire from royal duties in August. 
 
 The 95-year-old royal will stop carrying out public engagements in autumn, Buckingham Palace says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-39802636)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/cpsprodpb/13F87/production/_95899718_mediaitem95899716.jpg)

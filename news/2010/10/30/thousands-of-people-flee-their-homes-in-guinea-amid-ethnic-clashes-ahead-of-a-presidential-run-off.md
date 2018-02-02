@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/30/thousands-of-people-flee-their-homes-in-guinea-amid-ethnic-clashes-ahead-of-a-presidential-run-off.html)  [JSON](/news/2010/10/30/thousands-of-people-flee-their-homes-in-guinea-amid-ethnic-clashes-ahead-of-a-presidential-run-off.json)  [XML](/news/2010/10/30/thousands-of-people-flee-their-homes-in-guinea-amid-ethnic-clashes-ahead-of-a-presidential-run-off.xml)  
+
 ### [2010-10-30](/news/2010/10/30/index.md)
 
+##### Guinea
 # Thousands of people flee their homes in Guinea amid ethnic clashes ahead of a presidential run-off. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/thousands-flee-homes-in-guinea-1.690011)
 

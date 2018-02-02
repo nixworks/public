@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/13/imam-zulqarnain-sakandar-madni-the-spiritual-leader-of-norwegian-muslims-accuses-the-united-states-government-of-masterminding-the-septem.html)  [JSON](/news/2006/09/13/imam-zulqarnain-sakandar-madni-the-spiritual-leader-of-norwegian-muslims-accuses-the-united-states-government-of-masterminding-the-septem.json)  [XML](/news/2006/09/13/imam-zulqarnain-sakandar-madni-the-spiritual-leader-of-norwegian-muslims-accuses-the-united-states-government-of-masterminding-the-septem.xml)  
+
 ### [2006-09-13](/news/2006/09/13/index.md)
 
+##### Imam
 #  Imam Zulqarnain Sakandar Madni, the spiritual leader of Norwegian Muslims, accuses the United States Government of masterminding the September 11 attacks and expresses doubt that Osama bin Laden exists, citing the online documentary "Loose Change". The U.S. embassy in Oslo issues a statement condemning Madni for "spreading false stories to protect terrorists." Mohammad Hamdan, leader of the Islamic Council in Norway, says Madni's views must be put into context and that it is not important "who is behind it, but how we can fight terrorism and live together in peace." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aftenposten](http://www.aftenposten.no/english/local/article1456819.ece)
 

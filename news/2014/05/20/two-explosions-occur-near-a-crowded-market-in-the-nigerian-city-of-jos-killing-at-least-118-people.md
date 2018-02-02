@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/20/two-explosions-occur-near-a-crowded-market-in-the-nigerian-city-of-jos-killing-at-least-118-people.html)  [JSON](/news/2014/05/20/two-explosions-occur-near-a-crowded-market-in-the-nigerian-city-of-jos-killing-at-least-118-people.json)  [XML](/news/2014/05/20/two-explosions-occur-near-a-crowded-market-in-the-nigerian-city-of-jos-killing-at-least-118-people.xml)  
+
 ### [2014-05-20](/news/2014/05/20/index.md)
 
+##### Jos
 # Two explosions occur near a crowded market in the Nigerian city of Jos killing at least 118 people. 
 
 The bodies of at least 118 people have now been recovered from the sites of twin bombings in the central Nigerian city of Jos, officials say.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Yahoo News Singapore](https://sg.news.yahoo.com/nigeria-car-bombing-death-toll-least-118-relief-201927056.html)
 2. [BBC](http://www.bbc.com/news/world-africa-27493940)

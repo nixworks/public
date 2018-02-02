@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/16/june-16-18-tornado-outbreak-begins-twin-ef4-tornadoes-devastate-northeast-nebraska-a-town-particularly-hit-hard-being-pilger-ne-where-a-y.html)  [JSON](/news/2014/06/16/june-16-18-tornado-outbreak-begins-twin-ef4-tornadoes-devastate-northeast-nebraska-a-town-particularly-hit-hard-being-pilger-ne-where-a-y.json)  [XML](/news/2014/06/16/june-16-18-tornado-outbreak-begins-twin-ef4-tornadoes-devastate-northeast-nebraska-a-town-particularly-hit-hard-being-pilger-ne-where-a-y.xml)  
+
 ### [2014-06-16](/news/2014/06/16/index.md)
 
+##### Pilger, NE
 # June 16-18 Tornado Outbreak begins. Twin EF4 tornadoes devastate northeast Nebraska. A town particularly hit hard being Pilger, NE where a young girl is killed. At night several other tornadoes touch down and one of them, an EF3, tears through the southwest portions of Madison, Wisconsin. 
 
 June 16, 17 and 18 will be remembered for their tornadoes in the years to come. The month may still have more activity to send us as well.
 
 
-### Source:
+### Sources:
 
 1. [June 16-18 Tornado Outbreak (www.ustornadoes.com](http://www.ustornadoes.com/2014/06/23/tornado-digest-after-three-big-days-in-june-will-we-finish-the-month-strong/)
 1. [Cover Image](http://www.ustornadoes.com/wp-content/uploads/2014/06/matt-gress-twin-tornadoes.jpg)

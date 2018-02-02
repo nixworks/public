@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/19/five-people-are-killed-and-thousands-of-others-are-affected-following-the-first-tropical-storm-to-hit-mozambique-since-1984.html)  [JSON](/news/2012/01/19/five-people-are-killed-and-thousands-of-others-are-affected-following-the-first-tropical-storm-to-hit-mozambique-since-1984.json)  [XML](/news/2012/01/19/five-people-are-killed-and-thousands-of-others-are-affected-following-the-first-tropical-storm-to-hit-mozambique-since-1984.xml)  
+
 ### [2012-01-19](/news/2012/01/19/index.md)
 
+##### tropical storm
 # Five people are killed and thousands of others are affected following the first tropical storm to hit Mozambique since 1984. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h1DM6P_TTPER4jI4sFePOreUhqJA?docId=CNG.a9b75ab36eba32a9add13741c7ac655a.201)
 

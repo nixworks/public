@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/29/the-united-states-military-says-it-will-shortly
 
 ### [2016-07-29](/news/2016/07/29/index.md)
 
+##### Japan-United States relations
 #  The United States military says it will shortly return 4,000 hectares of its Okinawa military installation, 17 percent of the area it controls, to the Japanese government. 
 
 The United States military said on Friday it was preparing for the biggest land return in Okinawa since 1972, as it faces a surge in opposition to its presence following the arrest of one its civilian contractors for the murder of a local woman.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/27/drinks-firm-gatorade-ends-its-endorsement-deal-with-golfer-tiger-woods-after-his-string-of-extra-marital-affairs.html)  [JSON](/news/2010/02/27/drinks-firm-gatorade-ends-its-endorsement-deal-with-golfer-tiger-woods-after-his-string-of-extra-marital-affairs.json)  [XML](/news/2010/02/27/drinks-firm-gatorade-ends-its-endorsement-deal-with-golfer-tiger-woods-after-his-string-of-extra-marital-affairs.xml)  
+
 ### [2010-02-27](/news/2010/02/27/index.md)
 
+##### Gatorade
 # Drinks firm Gatorade ends its endorsement deal with golfer Tiger Woods after his string of extra-marital affairs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8540167.stm)
 2. [The Times](http://www.timesonline.co.uk/tol/sport/golf/article7043576.ece)

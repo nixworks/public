@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/11/taiwan-s-opposition-leader-tsai-ing-wen-launches-her-presidential-bid.html)  [JSON](/news/2011/03/11/taiwan-s-opposition-leader-tsai-ing-wen-launches-her-presidential-bid.json)  [XML](/news/2011/03/11/taiwan-s-opposition-leader-tsai-ing-wen-launches-her-presidential-bid.xml)  
+
 ### [2011-03-11](/news/2011/03/11/index.md)
 
+##### Taiwan
 # Taiwan's opposition leader Tsai Ing-wen launches her presidential bid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?ID=201103110013&Type=aIPL)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_644019.html)

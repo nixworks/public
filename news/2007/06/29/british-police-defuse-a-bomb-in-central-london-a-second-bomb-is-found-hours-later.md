@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/06/29/british-police-defuse-a-bomb-in-central-london-a-second-bomb-is-found-hours-later.html)  [JSON](/news/2007/06/29/british-police-defuse-a-bomb-in-central-london-a-second-bomb-is-found-hours-later.json)  [XML](/news/2007/06/29/british-police-defuse-a-bomb-in-central-london-a-second-bomb-is-found-hours-later.xml)  
+
 ### [2007-06-29](/news/2007/06/29/index.md)
 
+##### defuse a bomb
 #  British police defuse a bomb in Central London; a second bomb is found hours later. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/WORLD/europe/06/29/london.bomb.reut/index.html?section=cnn_latest)
-2. [The Globe and Mail](http://www.theglobeandmail.com/servlet/story/RTGAM.20070629.wukbomb2_0629/BNStory/International/home)
+2. [The Globe and Mail](https://www.theglobeandmail.com/servlet/story/RTGAM.20070629.wukbomb2_0629/BNStory/International/home)
 
 ### Related:
 

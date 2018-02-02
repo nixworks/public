@@ -1,7 +1,7 @@
-## [2000-10-22](/news/2000/10/22/index.md)
 
-### [ The "Mainichi Shinbun" newspaper exposes Japanese archeologist Shinichi Fujimura as a fraud.](/news/2000/10/22/the-mainichi-shinbun-newspaper-exposes-japanese-archeologist-shinichi-fujimura-as-a-fraud.md)
-_Context: Mainichi Shinbun, Shinichi Fujimura, fraud_
+Formats: [HTML](2000/10/22/index.html)  [JSON](2000/10/22/index.json)  [XML](2000/10/22/index.xml)  
+
+## [2000-10-22](/news/2000/10/22/index.md)
 
 ## [Previous Day...](/news/2000/10/21/index.md)
 

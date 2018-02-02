@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/4/japanese-police-investigate-the-leak-of-classified-anti-terrorism-documents.html)  [JSON](/news/2010/11/4/japanese-police-investigate-the-leak-of-classified-anti-terrorism-documents.json)  [XML](/news/2010/11/4/japanese-police-investigate-the-leak-of-classified-anti-terrorism-documents.xml)  
+
 ### [2010-11-4](/news/2010/11/4/index.md)
 
+##### Japanese police
 # Japanese police investigate the leak of classified anti-terrorism documents. 
 
 The Asahi Shimbun is widely regarded for its journalism as the most respected daily newspaper in Japan. The English version offers selected articles from the vernacular Asahi Shimbun, as well as extensive coverage of cool Japan,focusing on manga, travel and other timely news
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gP103knQ42j4PNYX0FvbZj2M3rdg?docId=CNG.e8b48c4874bff22ac42fef23e4e46678.c1)
 2. [Asahi Shimbun](http://www.asahi.com/english/TKY201011030199.html)

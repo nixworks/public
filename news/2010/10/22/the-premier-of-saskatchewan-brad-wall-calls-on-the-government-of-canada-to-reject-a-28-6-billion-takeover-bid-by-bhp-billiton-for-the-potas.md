@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/10/22/the-premier-of-saskatchewan-brad-wall-calls-on-the-government-of-canada-to-reject-a-28-6-billion-takeover-bid-by-bhp-billiton-for-the-potas.html)  [JSON](/news/2010/10/22/the-premier-of-saskatchewan-brad-wall-calls-on-the-government-of-canada-to-reject-a-28-6-billion-takeover-bid-by-bhp-billiton-for-the-potas.json)  [XML](/news/2010/10/22/the-premier-of-saskatchewan-brad-wall-calls-on-the-government-of-canada-to-reject-a-28-6-billion-takeover-bid-by-bhp-billiton-for-the-potas.xml)  
+
 ### [2010-10-22](/news/2010/10/22/index.md)
 
+##### Premier
 # The Premier of Saskatchewan Brad Wall calls on the Government of Canada to reject a $28.6 billion takeover bid by BHP Billiton for the Potash Corporation of Saskatchewan. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Star](http://www.thestar.com/business/companies/article/878838--reject-potash-takeover-wall-says?bn=1)
+1. [The Star](https://www.thestar.com/business/companies/article/878838--reject-potash-takeover-wall-says?bn=1)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/21/parts-of-the-pakistani-city-of-quetta-observe-a-shutdown-in-response-to-the-killing-of-29-shiite-protesters-on-tuesday.html)  [JSON](/news/2011/09/21/parts-of-the-pakistani-city-of-quetta-observe-a-shutdown-in-response-to-the-killing-of-29-shiite-protesters-on-tuesday.json)  [XML](/news/2011/09/21/parts-of-the-pakistani-city-of-quetta-observe-a-shutdown-in-response-to-the-killing-of-29-shiite-protesters-on-tuesday.xml)  
+
 ### [2011-09-21](/news/2011/09/21/index.md)
 
+##### Pakistan
 # Parts of the Pakistani city of Quetta observe a shutdown in response to the killing of 29 Shiite protesters on Tuesday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Times](http://www.dailytimes.com.pk/default.asp?page=2011%5C09%5C22%5Cstory_22-9-2011_pg7_7)
 1. [Cover Image](http://dailytimes.com.pk/static/uploads/dt.png )

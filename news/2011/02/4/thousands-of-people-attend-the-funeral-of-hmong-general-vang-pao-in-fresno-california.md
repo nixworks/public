@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/4/thousands-of-people-attend-the-funeral-of-hmong-general-vang-pao-in-fresno-california.html)  [JSON](/news/2011/02/4/thousands-of-people-attend-the-funeral-of-hmong-general-vang-pao-in-fresno-california.json)  [XML](/news/2011/02/4/thousands-of-people-attend-the-funeral-of-hmong-general-vang-pao-in-fresno-california.xml)  
+
 ### [2011-02-4](/news/2011/02/4/index.md)
 
+##### Hmong people
 # Thousands of people attend the funeral of Hmong General Vang Pao in Fresno, California. 
 
 They promised a funeral fit for a king. There were to be dignitaries; a long red carpet; thousands of pigs, cows, chickens and ducks to be sacrificed for feasting. It had to be a funeral that...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/local/la-me-vang-pao-20110205,0,1005839.story)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

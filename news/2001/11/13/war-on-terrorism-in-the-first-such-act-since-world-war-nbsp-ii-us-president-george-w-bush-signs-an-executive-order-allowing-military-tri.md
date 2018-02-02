@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/11/13/war-on-terrorism-in-the-first-such-act-since-world-war-nbsp-ii-us-president-george-w-bush-signs-an-executive-order-allowing-military-tri.html)  [JSON](/news/2001/11/13/war-on-terrorism-in-the-first-such-act-since-world-war-nbsp-ii-us-president-george-w-bush-signs-an-executive-order-allowing-military-tri.json)  [XML](/news/2001/11/13/war-on-terrorism-in-the-first-such-act-since-world-war-nbsp-ii-us-president-george-w-bush-signs-an-executive-order-allowing-military-tri.xml)  
+
 ### [2001-11-13](/news/2001/11/13/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: In the first such act since World War&nbsp;II, US President George W. Bush signs an executive order allowing military tribunals against any foreigners suspected of having connections to terrorist acts or planned acts on the United States.
 
 

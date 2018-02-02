@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/5/a-container-ship-runs-aground-on-a-reef-off-the-coast-of-tauranga-new-zealand-causing-a-large-oil-spill-into-the-bay-of-plenty-and-affecti.html)  [JSON](/news/2011/10/5/a-container-ship-runs-aground-on-a-reef-off-the-coast-of-tauranga-new-zealand-causing-a-large-oil-spill-into-the-bay-of-plenty-and-affecti.json)  [XML](/news/2011/10/5/a-container-ship-runs-aground-on-a-reef-off-the-coast-of-tauranga-new-zealand-causing-a-large-oil-spill-into-the-bay-of-plenty-and-affecti.xml)  
+
 ### [2011-10-5](/news/2011/10/5/index.md)
 
+##### Astrolabe Reef
 # A container ship runs aground on a reef off the coast of Tauranga, New Zealand, causing a large oil spill into the Bay of Plenty and affecting wildlife. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Television New Zealand](http://tvnz.co.nz/national-news/leaking-oil-could-spell-environmental-disaster-4454951)
 

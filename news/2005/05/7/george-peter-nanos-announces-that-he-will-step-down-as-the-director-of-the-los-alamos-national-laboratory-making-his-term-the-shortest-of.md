@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/7/george-peter-nanos-announces-that-he-will-step-down-as-the-director-of-the-los-alamos-national-laboratory-making-his-term-the-shortest-of.html)  [JSON](/news/2005/05/7/george-peter-nanos-announces-that-he-will-step-down-as-the-director-of-the-los-alamos-national-laboratory-making-his-term-the-shortest-of.json)  [XML](/news/2005/05/7/george-peter-nanos-announces-that-he-will-step-down-as-the-director-of-the-los-alamos-national-laboratory-making-his-term-the-shortest-of.xml)  
+
 ### [2005-05-7](/news/2005/05/7/index.md)
 
+##### George Peter Nanos
 #  George Peter Nanos announces that he will step down as the director of the Los Alamos National Laboratory, making his term the shortest of any previous director. 
 
 The former Navy admiral hired two years ago to fix security and safety breaches in the nuclear weapons program at Los Alamos National Laboratory resigned Friday, amid continuing tumult and political...
 
 
-### Source:
+### Sources:
 
 1. [LA Times](http://www.latimes.com/news/nationworld/nation/la-na-nanos7may07,1,5284673.story?coll=la-headlines-nation&ctrack=1&cset=true)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

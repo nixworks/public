@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/14/the-prime-minister-of-japan-naoto-kan-calls-on-china-to-release-nobel-peace-prize-winner-liu-xiaobo.html)  [JSON](/news/2010/10/14/the-prime-minister-of-japan-naoto-kan-calls-on-china-to-release-nobel-peace-prize-winner-liu-xiaobo.json)  [XML](/news/2010/10/14/the-prime-minister-of-japan-naoto-kan-calls-on-china-to-release-nobel-peace-prize-winner-liu-xiaobo.xml)  
+
 ### [2010-10-14](/news/2010/10/14/index.md)
 
+##### Prime Minister of Japan
 # The Prime Minister of Japan Naoto Kan calls on China to release Nobel Peace Prize winner Liu Xiaobo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11539333)
 2. [Japan Today](http://www.japantoday.com/category/politics/view/kan-says-freeing-chinese-nobel-winner-desirable)

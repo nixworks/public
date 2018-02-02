@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/01/30/the-prime-minister-of-australia-julia-gillard-announces-that-the-next-federal-election-will-be-held-on-september-14.html)  [JSON](/news/2013/01/30/the-prime-minister-of-australia-julia-gillard-announces-that-the-next-federal-election-will-be-held-on-september-14.json)  [XML](/news/2013/01/30/the-prime-minister-of-australia-julia-gillard-announces-that-the-next-federal-election-will-be-held-on-september-14.xml)  
+
 ### [2013-01-30](/news/2013/01/30/index.md)
 
+##### Australian Prime Minister
 # The Prime Minister of Australia Julia Gillard announces that the next federal election will be held on September 14. 
 
 Australian Prime Minister Julia Gillard calls a general election for 14 September, announcing the vote eight months in advance.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-01-30/julia-gillard-calls-september-14-federal-election/4491118)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-21256429)
-3. [Reuters](http://www.reuters.com/video/2013/01/30/gillard-surprises-with-sept-election-cal?videoId=240840502&videoChannel=1)
+3. [Reuters](https://www.reuters.com/video/2013/01/30/gillard-surprises-with-sept-election-cal?videoId=240840502&videoChannel=1)
 3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65586000/jpg/_65586649_009635769-1.jpg)
 
 ### Related:

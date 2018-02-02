@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/30/the-united-states-department-of-the-treasury-issues-sanctions-to-three-mexican-nationals-linked-to-the-sinaloa-cartel-for-laundering-money-f.html)  [JSON](/news/2013/07/30/the-united-states-department-of-the-treasury-issues-sanctions-to-three-mexican-nationals-linked-to-the-sinaloa-cartel-for-laundering-money-f.json)  [XML](/news/2013/07/30/the-united-states-department-of-the-treasury-issues-sanctions-to-three-mexican-nationals-linked-to-the-sinaloa-cartel-for-laundering-money-f.xml)  
+
 ### [2013-07-30](/news/2013/07/30/index.md)
 
+##### United States Treasury Department
 # The United States Department of the Treasury issues sanctions to three Mexican nationals linked to the Sinaloa Cartel for laundering money for the drug lords Ismael Zambada Garcia and Joaquin Guzman Loera. The Kingpin Act sanctions prohibit Americans to do any kind of business with them. 
 
 The U.S. Treasury Department said Tuesday it placed Kingpin Act sanctions on three people and three businesses linked to a Sinaloa Cartel leader.
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://blogs.wsj.com/riskandcompliance/2013/07/30/treasury-slaps-sanctions-on-a-sinaloa-cartel-linked-notary/)
 1. [Cover Image](http://s.wsj.net/blogs/img/WSJ_Logo_BlackBackground_1200x630social)

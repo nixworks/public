@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/10/burma-s-new-parliament-is-to-convene-on-31-january-for-the-first-time-following-general-elections-last-year.html)  [JSON](/news/2011/01/10/burma-s-new-parliament-is-to-convene-on-31-january-for-the-first-time-following-general-elections-last-year.json)  [XML](/news/2011/01/10/burma-s-new-parliament-is-to-convene-on-31-january-for-the-first-time-following-general-elections-last-year.xml)  
+
 ### [2011-01-10](/news/2011/01/10/index.md)
 
+##### Burma
 # Burma's new parliament is to convene on 31 January for the first time following general elections last year. 
 
 Yangon, Jan 10 (DPA) Myanmars newly elected chambers of parliament are to hold their first session Jan 31 to begin the process of selecting a new...
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gzjbjI0hF3qxq8hq5kPfH3KSgxbw?docId=CNG.be52d05c6ef86cc2c693b368eb0aa63f.791)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12149244)

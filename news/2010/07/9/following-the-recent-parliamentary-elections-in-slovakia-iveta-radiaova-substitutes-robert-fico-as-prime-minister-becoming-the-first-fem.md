@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/07/9/following-the-recent-parliamentary-elections-in-slovakia-iveta-radiaova-substitutes-robert-fico-as-prime-minister-becoming-the-first-fem.html)  [JSON](/news/2010/07/9/following-the-recent-parliamentary-elections-in-slovakia-iveta-radiaova-substitutes-robert-fico-as-prime-minister-becoming-the-first-fem.json)  [XML](/news/2010/07/9/following-the-recent-parliamentary-elections-in-slovakia-iveta-radiaova-substitutes-robert-fico-as-prime-minister-becoming-the-first-fem.xml)  
+
 ### [2010-07-9](/news/2010/07/9/index.md)
 
+##### parliamentary elections
 # Following the recent parliamentary elections in Slovakia, Iveta Radicova substitutes Robert Fico as Prime Minister, becoming the first female incumbent of the post.
 
 

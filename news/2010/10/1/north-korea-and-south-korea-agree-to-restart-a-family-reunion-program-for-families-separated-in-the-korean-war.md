@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/1/north-korea-and-south-korea-agree-to-restart-a-family-reunion-program-for-families-separated-in-the-korean-war.html)  [JSON](/news/2010/10/1/north-korea-and-south-korea-agree-to-restart-a-family-reunion-program-for-families-separated-in-the-korean-war.json)  [XML](/news/2010/10/1/north-korea-and-south-korea-agree-to-restart-a-family-reunion-program-for-families-separated-in-the-korean-war.xml)  
+
 ### [2010-10-1](/news/2010/10/1/index.md)
 
+##### North Korea
 # North Korea and South Korea agree to restart a family reunion program for families separated in the Korean War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gn3RdBYsHx0aAYsnnIGdKhszYw-Q?docId=CNG.27a028ad8f0542cd7177615afc42a4d3.2d1)
 

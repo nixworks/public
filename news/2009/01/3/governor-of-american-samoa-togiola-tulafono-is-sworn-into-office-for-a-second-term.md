@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/3/governor-of-american-samoa-togiola-tulafono-is-sworn-into-office-for-a-second-term.html)  [JSON](/news/2009/01/3/governor-of-american-samoa-togiola-tulafono-is-sworn-into-office-for-a-second-term.json)  [XML](/news/2009/01/3/governor-of-american-samoa-togiola-tulafono-is-sworn-into-office-for-a-second-term.xml)  
+
 ### [2009-01-3](/news/2009/01/3/index.md)
 
+##### Governor
 #  Governor of American Samoa Togiola Tulafono is sworn into office for a second term. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Samoa News](http://www.samoanewsonline.com/viewstory.php?storyid=3101&edition=1231149600)
 

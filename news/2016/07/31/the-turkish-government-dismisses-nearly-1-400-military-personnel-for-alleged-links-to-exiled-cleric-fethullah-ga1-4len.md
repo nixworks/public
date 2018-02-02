@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/31/the-turkish-government-dismisses-nearly-1-400-m
 
 ### [2016-07-31](/news/2016/07/31/index.md)
 
+##### 2016 Turkish purges
 # The Turkish government dismisses nearly 1,400 military personnel for alleged links to exiled cleric Fethullah Gulen. 
 
 Turkey dismissed nearly 1,400 more members of its armed forces and stacked the top military council with government ministers on Sunday, moves designed by President Tayyip Erdogan to put him in full control of the military after a failed coup.

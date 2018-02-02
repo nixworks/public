@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/18/violence-breaks-out-in-dakar-senegal-during-an-anti-government-protest.html)  [JSON](/news/2012/02/18/violence-breaks-out-in-dakar-senegal-during-an-anti-government-protest.json)  [XML](/news/2012/02/18/violence-breaks-out-in-dakar-senegal-during-an-anti-government-protest.xml)  
+
 ### [2012-02-18](/news/2012/02/18/index.md)
 
+##### Dakar
 # Violence breaks out in Dakar, Senegal, during an anti-government protest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/tensions-soar-as-rioters-trash-dakar-1.1237320)
 

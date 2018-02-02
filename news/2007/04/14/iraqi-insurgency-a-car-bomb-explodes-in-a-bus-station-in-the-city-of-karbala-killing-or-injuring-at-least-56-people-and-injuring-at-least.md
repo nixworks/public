@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/14/iraqi-insurgency-a-car-bomb-explodes-in-a-bus-station-in-the-city-of-karbala-killing-or-injuring-at-least-56-people-and-injuring-at-least.html)  [JSON](/news/2007/04/14/iraqi-insurgency-a-car-bomb-explodes-in-a-bus-station-in-the-city-of-karbala-killing-or-injuring-at-least-56-people-and-injuring-at-least.json)  [XML](/news/2007/04/14/iraqi-insurgency-a-car-bomb-explodes-in-a-bus-station-in-the-city-of-karbala-killing-or-injuring-at-least-56-people-and-injuring-at-least.xml)  
+
 ### [2007-04-14](/news/2007/04/14/index.md)
 
+##### Iraqi insurgency
 #  Iraqi insurgency: A car bomb explodes in a bus station in the city of Karbala, killing or injuring at least 56 people and injuring at least 70. At least 10 people die after a suicide bomber explodes a bomb at the Jadiriyah bridge in Baghdad. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AFP via News Limited](http://www.news.com.au/story/0,10117,21557071-2,00.html)
 2. [AP via ABC News](http://abcnews.go.com/International/wireStory?id=3041209)

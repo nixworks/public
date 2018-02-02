@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/1/gambian-president-yahya-jammeh-accuses-the-west-
 
 ### [2017-01-1](/news/2017/01/1/index.md)
 
+##### Foreign relations of the Gambia
 # Gambian President Yahya Jammeh accuses the West African regional bloc, ECOWAS, of "declaring war" after it said it was putting forces on alert in case he refused to step down at the end of his mandate on January 19. 
 
  Gambian leader Yahya Jammeh accused West African regional body ECOWAS of declaring war, after it said it was putting forces on alert in case he refused to step

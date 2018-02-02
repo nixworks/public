@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/5/kim-jong-un-joins-his-father-kim-jong-il-in-observing-korean-people-s-army-confirming-his-status-as-heir-apparent-as-supreme-leader-of-nort.html)  [JSON](/news/2010/10/5/kim-jong-un-joins-his-father-kim-jong-il-in-observing-korean-people-s-army-confirming-his-status-as-heir-apparent-as-supreme-leader-of-nort.json)  [XML](/news/2010/10/5/kim-jong-un-joins-his-father-kim-jong-il-in-observing-korean-people-s-army-confirming-his-status-as-heir-apparent-as-supreme-leader-of-nort.xml)  
+
 ### [2010-10-5](/news/2010/10/5/index.md)
 
+##### Kim Jong-un
 # Kim Jong-un joins his father Kim Jong-il in observing Korean People's Army, confirming his status as heir-apparent as Supreme Leader of North Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hikK9x0PcRa4fyH32zVylFwL_KZgD9ILES9G0?docId=D9ILES9G0)
 

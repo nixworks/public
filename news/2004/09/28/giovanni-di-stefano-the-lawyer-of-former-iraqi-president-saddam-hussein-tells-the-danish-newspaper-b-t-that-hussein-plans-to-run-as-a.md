@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/28/giovanni-di-stefano-the-lawyer-of-former-iraqi-president-saddam-hussein-tells-the-danish-newspaper-b-t-that-hussein-plans-to-run-as-a.html)  [JSON](/news/2004/09/28/giovanni-di-stefano-the-lawyer-of-former-iraqi-president-saddam-hussein-tells-the-danish-newspaper-b-t-that-hussein-plans-to-run-as-a.json)  [XML](/news/2004/09/28/giovanni-di-stefano-the-lawyer-of-former-iraqi-president-saddam-hussein-tells-the-danish-newspaper-b-t-that-hussein-plans-to-run-as-a.xml)  
+
 ### [2004-09-28](/news/2004/09/28/index.md)
 
+##### Giovanni di Stefano
 #  Giovanni di Stefano, the lawyer of former Iraqi President Saddam Hussein, tells the Danish newspaper "B.T." that Hussein plans to run as a candidate in the Iraqi elections scheduled for January 2005. A recent Gallup poll indicated that 42 percent of the Iraqi people want their former leader back. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Zaman, Turkey](http://www.zaman.org/?bl=international&alt=&trh=20040921&hn=12424)
 

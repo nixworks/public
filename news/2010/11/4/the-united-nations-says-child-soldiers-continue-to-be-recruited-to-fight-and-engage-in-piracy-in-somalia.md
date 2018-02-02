@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/4/the-united-nations-says-child-soldiers-continue-to-be-recruited-to-fight-and-engage-in-piracy-in-somalia.html)  [JSON](/news/2010/11/4/the-united-nations-says-child-soldiers-continue-to-be-recruited-to-fight-and-engage-in-piracy-in-somalia.json)  [XML](/news/2010/11/4/the-united-nations-says-child-soldiers-continue-to-be-recruited-to-fight-and-engage-in-piracy-in-somalia.xml)  
+
 ### [2010-11-4](/news/2010/11/4/index.md)
 
+##### United Nations
 # The United Nations says child soldiers continue to be recruited to fight and engage in piracy in Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IRIN](http://www.irinnews.org/Report.aspx?ReportID=90977)
 

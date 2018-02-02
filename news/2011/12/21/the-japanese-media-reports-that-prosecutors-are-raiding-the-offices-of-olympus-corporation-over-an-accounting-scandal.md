@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/12/21/the-japanese-media-reports-that-prosecutors-are-raiding-the-offices-of-olympus-corporation-over-an-accounting-scandal.html)  [JSON](/news/2011/12/21/the-japanese-media-reports-that-prosecutors-are-raiding-the-offices-of-olympus-corporation-over-an-accounting-scandal.json)  [XML](/news/2011/12/21/the-japanese-media-reports-that-prosecutors-are-raiding-the-offices-of-olympus-corporation-over-an-accounting-scandal.xml)  
+
 ### [2011-12-21](/news/2011/12/21/index.md)
 
+##### Japanese
 # The Japanese media reports that prosecutors are raiding the offices of Olympus Corporation over an accounting scandal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/12/21/us-olympus-idUSTRE7BB04P20111221)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20111221&t=2&i=549519788&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BK0BIM00)
+1. [Reuters](https://www.reuters.com/article/2011/12/21/us-olympus-idUSTRE7BB04P20111221)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20111221&t=2&i=549519788&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE7BK0BIM00)
 
 ### Related:
 

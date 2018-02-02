@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/6/mass-protests-against-rising-inflation-continue-in-the-maldives.html)  [JSON](/news/2011/05/6/mass-protests-against-rising-inflation-continue-in-the-maldives.json)  [XML](/news/2011/05/6/mass-protests-against-rising-inflation-continue-in-the-maldives.xml)  
+
 ### [2011-05-6](/news/2011/05/6/index.md)
 
+##### Maldives
 # Mass protests against rising inflation continue in the Maldives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/Anti-inflation-protests-still-on-in-Maldives/Article1-694280.aspx)
 

@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/11/26/at-least-18-people-are-killed-and-over-100-homes-torched-after-boko-haram-militants-attacked-a-village-near-the-commune-of-bosso-in-niger-s.html)  [JSON](/news/2015/11/26/at-least-18-people-are-killed-and-over-100-homes-torched-after-boko-haram-militants-attacked-a-village-near-the-commune-of-bosso-in-niger-s.json)  [XML](/news/2015/11/26/at-least-18-people-are-killed-and-over-100-homes-torched-after-boko-haram-militants-attacked-a-village-near-the-commune-of-bosso-in-niger-s.xml)  
+
 ### [2015-11-26](/news/2015/11/26/index.md)
 
+##### Islamist insurgency in West Africa
 # At least 18 people are killed and over 100 homes torched after Boko Haram militants attacked a village near the commune of Bosso in Niger's southern Diffa Region. 
 
 Eighteen people were killed and 100 homes torched in an attack in the dead of night by Nigeria&#x27;s Boko Haram fighters on a village in southeastern Niger, local authorities told AFP on Thursday. &quot;The toll is 18 dead, 11 hurt, almost 100 homes burned down&quot; in the village of Wogom late Wednesday
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo](http://news.yahoo.com/18-killed-boko-haram-attack-southeast-niger-134025219.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/yuhBGqIvGzdUgTYahM5GPw--/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8181138-1-1-0.jpg)
+1. [AFP via Yahoo](https://news.yahoo.com/18-killed-boko-haram-attack-southeast-niger-134025219.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/atT9BBR_WVrZbeibBgsXMQ--~B/aD02ODI7dz0xMDI0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/http://media.zenfs.com/en_us/News/afp.com/Part-PAR-Par8181138-1-1-0.jpg)
+
+### Changes:
+
+1. [Islamist insurgency in West Africa: At least 18 people are killed and over 100 homes torched after Boko Haram militants attacked a village near the commune of Bosso in Niger's southern Diffa Region. ](/news/2015/11/26/islamist-insurgency-in-west-africa-at-least-18-people-are-killed-and-over-100-homes-torched-after-boko-haram-militants-attacked-a-village-n.md) _2017-08-27 03:44:04 (First version)_
+1. [At least 18 people are killed and over 100 homes torched after Boko Haram militants attacked a village near the commune of Bosso in Niger's southern Diffa Region. ](/news/2015/11/26/at-least-18-people-are-killed-and-over-100-homes-torched-after-boko-haram-militants-attacked-a-village-near-the-commune-of-bosso-in-niger-s.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Eighteen people were killed and 100 homes torched in an attack in the dead of ni
 3. [Clashes near the village of Toumour in Niger's southeast Diffa Region kill at least 30 Boko Haram militants and five Niger Armed Forces soldiers. ](/news/2016/09/14/clashes-near-the-village-of-toumour-in-niger-s-southeast-diffa-region-kill-at-least-30-boko-haram-militants-and-five-niger-armed-forces-sold.md) _Context: Boko Haram, Diffa Region_
 4. [Niger, following attacks by Boko Haram on Bosso and Yebi in the Lake Chad region, extends for three months a state of emergency in Diffa. ](/news/2016/07/30/niger-following-attacks-by-boko-haram-on-bosso-and-yebi-in-the-lake-chad-region-extends-for-three-months-a-state-of-emergency-in-diffa.md) _Context: Boko Haram, Bosso_
 5. [Boko Haram and al-Qaeda kill four security force personnel in two separate attacks in Niger. ](/news/2016/03/18/boko-haram-and-al-qaeda-kill-four-security-force-personnel-in-two-separate-attacks-in-niger.md) _Context: Boko Haram, Niger_
-
-### Changes:
-
-1. [Islamist insurgency in West Africa: At least 18 people are killed and over 100 homes torched after Boko Haram militants attacked a village near the commune of Bosso in Niger's southern Diffa Region. ](/news/2015/11/26/islamist-insurgency-in-west-africa-at-least-18-people-are-killed-and-over-100-homes-torched-after-boko-haram-militants-attacked-a-village-n.md) _2017-08-27 03:44:04 (First version)_
-1. [At least 18 people are killed and over 100 homes torched after Boko Haram militants attacked a village near the commune of Bosso in Niger's southern Diffa Region. ](/news/2015/11/26/at-least-18-people-are-killed-and-over-100-homes-torched-after-boko-haram-militants-attacked-a-village-near-the-commune-of-bosso-in-niger-s.md) _(Current version)_

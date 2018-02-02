@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/16/russia-and-other-ex-soviet-states-meeting-in-kazakhstan-agree-to-set-up-a-joint-task-force-to-tackle-instability-on-their-borders-most-nota.html)  [JSON](/news/2015/10/16/russia-and-other-ex-soviet-states-meeting-in-kazakhstan-agree-to-set-up-a-joint-task-force-to-tackle-instability-on-their-borders-most-nota.json)  [XML](/news/2015/10/16/russia-and-other-ex-soviet-states-meeting-in-kazakhstan-agree-to-set-up-a-joint-task-force-to-tackle-instability-on-their-borders-most-nota.xml)  
+
 ### [2015-10-16](/news/2015/10/16/index.md)
 
+##### Russia
 # Russia and other ex-Soviet states meeting in Kazakhstan agree to set up a joint task force to tackle instability on their borders, most notably from Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2015/10/16/uk-russia-putin-borders-idUKKCN0SA0MW20151016)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

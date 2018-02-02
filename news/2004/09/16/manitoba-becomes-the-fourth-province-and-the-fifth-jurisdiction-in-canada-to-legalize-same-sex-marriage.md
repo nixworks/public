@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/16/manitoba-becomes-the-fourth-province-and-the-fifth-jurisdiction-in-canada-to-legalize-same-sex-marriage.html)  [JSON](/news/2004/09/16/manitoba-becomes-the-fourth-province-and-the-fifth-jurisdiction-in-canada-to-legalize-same-sex-marriage.json)  [XML](/news/2004/09/16/manitoba-becomes-the-fourth-province-and-the-fifth-jurisdiction-in-canada-to-legalize-same-sex-marriage.xml)  
+
 ### [2004-09-16](/news/2004/09/16/index.md)
 
+##### Manitoba
 #  Manitoba becomes the fourth province, and the fifth jurisdiction, in Canada to legalize same-sex marriage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2004/09/16/manitobasamesex040916.html)
 

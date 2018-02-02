@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/1/in-crosby-texas-united-states-of-america-an-oil-well-owned-by-louisiana-oil-gas-co-exploded.html)  [JSON](/news/2005/06/1/in-crosby-texas-united-states-of-america-an-oil-well-owned-by-louisiana-oil-gas-co-exploded.json)  [XML](/news/2005/06/1/in-crosby-texas-united-states-of-america-an-oil-well-owned-by-louisiana-oil-gas-co-exploded.xml)  
+
 ### [2005-06-1](/news/2005/06/1/index.md)
 
+##### Crosby, Texas
 #  In Crosby, Texas, United States of America an oil well owned by Louisiana Oil & Gas Co. exploded. " >" 
 
 

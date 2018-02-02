@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/1/u-s-presidential-debates-instant-response-polls-of-viewers-of-last-night-s-u-s-presidential-debate-show-that-a-majority-of-viewers-tho.html)  [JSON](/news/2004/10/1/u-s-presidential-debates-instant-response-polls-of-viewers-of-last-night-s-u-s-presidential-debate-show-that-a-majority-of-viewers-tho.json)  [XML](/news/2004/10/1/u-s-presidential-debates-instant-response-polls-of-viewers-of-last-night-s-u-s-presidential-debate-show-that-a-majority-of-viewers-tho.xml)  
+
 ### [2004-10-1](/news/2004/10/1/index.md)
 
+##### U.S. presidential debates
 #  U.S. presidential debates: "Instant-response" polls of viewers of last night's U.S. presidential debate show that a majority of viewers thought the challenger, John Kerry, won the contest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3703756.stm)
 2. [CBS](http://www.cbsnews.com/stories/2004/10/01/opinion/polls/main646712.shtml)

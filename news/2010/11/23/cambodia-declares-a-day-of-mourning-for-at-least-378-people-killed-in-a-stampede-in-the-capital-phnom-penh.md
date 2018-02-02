@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/23/cambodia-declares-a-day-of-mourning-for-at-least-378-people-killed-in-a-stampede-in-the-capital-phnom-penh.html)  [JSON](/news/2010/11/23/cambodia-declares-a-day-of-mourning-for-at-least-378-people-killed-in-a-stampede-in-the-capital-phnom-penh.json)  [XML](/news/2010/11/23/cambodia-declares-a-day-of-mourning-for-at-least-378-people-killed-in-a-stampede-in-the-capital-phnom-penh.xml)  
+
 ### [2010-11-23](/news/2010/11/23/index.md)
 
+##### Cambodia
 # Cambodia declares a day of mourning for at least 378 people killed in a stampede in the capital Phnom Penh. 
 
 Families in the Cambodian capital Phnom Penh search morgues and hospitals for relatives after a stampede left hundreds dead or injured.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11817826)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/50108000/jpg/_50108246_50108242.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/16/the-online-shoe-retailer-zappos-reports-that-up-to-24-million-customer-accounts-may-have-been-accessed-by-hackers-and-has-warned-its-custom.html)  [JSON](/news/2012/01/16/the-online-shoe-retailer-zappos-reports-that-up-to-24-million-customer-accounts-may-have-been-accessed-by-hackers-and-has-warned-its-custom.json)  [XML](/news/2012/01/16/the-online-shoe-retailer-zappos-reports-that-up-to-24-million-customer-accounts-may-have-been-accessed-by-hackers-and-has-warned-its-custom.xml)  
+
 ### [2012-01-16](/news/2012/01/16/index.md)
 
+##### Zappos
 # The online shoe retailer Zappos reports that up to 24 million customer accounts may have been accessed by hackers, and has warned its customers to change their passwords. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/technology/2012/jan/16/zappos-database-hit-cyberattack)
 

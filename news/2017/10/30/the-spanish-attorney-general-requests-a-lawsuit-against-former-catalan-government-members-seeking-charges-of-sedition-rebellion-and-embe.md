@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/30/the-spanish-attorney-general-requests-a-lawsuit
 
 ### [2017-10-30](/news/2017/10/30/index.md)
 
+##### 2017 Spanish constitutional crisis
 # The Spanish attorney general requests a lawsuit against (former) Catalan government members, seeking charges of sedition, rebellion and embezzlement. The Catalan parliament is formally dissolved. 
 
 

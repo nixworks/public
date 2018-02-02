@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/10/the-ivory-coast-defers-the-second-round-of-voting-for-the-ivory-presidential-election-to-november-28.html)  [JSON](/news/2010/11/10/the-ivory-coast-defers-the-second-round-of-voting-for-the-ivory-presidential-election-to-november-28.json)  [XML](/news/2010/11/10/the-ivory-coast-defers-the-second-round-of-voting-for-the-ivory-presidential-election-to-november-28.xml)  
+
 ### [2010-11-10](/news/2010/11/10/index.md)
 
+##### Ivory Coast
 # The Ivory Coast defers the second round of voting for the Ivory presidential election to November 28. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/africa/11/10/ivory.coast.runoff/index.html?eref=edition)
 

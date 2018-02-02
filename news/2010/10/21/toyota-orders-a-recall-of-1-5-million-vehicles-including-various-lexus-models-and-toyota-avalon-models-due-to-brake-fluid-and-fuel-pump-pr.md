@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/21/toyota-orders-a-recall-of-1-5-million-vehicles-including-various-lexus-models-and-toyota-avalon-models-due-to-brake-fluid-and-fuel-pump-pr.html)  [JSON](/news/2010/10/21/toyota-orders-a-recall-of-1-5-million-vehicles-including-various-lexus-models-and-toyota-avalon-models-due-to-brake-fluid-and-fuel-pump-pr.json)  [XML](/news/2010/10/21/toyota-orders-a-recall-of-1-5-million-vehicles-including-various-lexus-models-and-toyota-avalon-models-due-to-brake-fluid-and-fuel-pump-pr.xml)  
+
 ### [2010-10-21](/news/2010/10/21/index.md)
 
+##### Toyota
 # Toyota orders a recall of 1.5 million vehicles, including various Lexus models and Toyota Avalon models, due to brake fluid and fuel pump problems. 
 
 Toyota said Thursday it is recalling 1.53 million Lexus, Avalon and other models, mostly in the U.S. and Japan, for brake fluid and fuel pump problems.
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/39773169/ns/business-autos/)
 1. [Cover Image](http://media3.s-nbcnews.com/j/MSNBC/Components/Photo/_new/101021-toyota03-hmed-245a.standard.jpg)

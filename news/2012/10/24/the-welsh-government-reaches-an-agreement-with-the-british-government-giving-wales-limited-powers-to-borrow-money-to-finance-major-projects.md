@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/24/the-welsh-government-reaches-an-agreement-with-the-british-government-giving-wales-limited-powers-to-borrow-money-to-finance-major-projects.html)  [JSON](/news/2012/10/24/the-welsh-government-reaches-an-agreement-with-the-british-government-giving-wales-limited-powers-to-borrow-money-to-finance-major-projects.json)  [XML](/news/2012/10/24/the-welsh-government-reaches-an-agreement-with-the-british-government-giving-wales-limited-powers-to-borrow-money-to-finance-major-projects.xml)  
+
 ### [2012-10-24](/news/2012/10/24/index.md)
 
+##### Welsh government
 # The Welsh government reaches an agreement with the British government giving Wales limited powers to borrow money to finance major projects. 
 
 The Welsh government will be granted limited powers to borrow money, if it can find a new source of income to pay it back.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-wales-politics-20049205)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/61552000/jpg/_61552629_003786117-1.jpg)

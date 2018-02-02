@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/4/footballer-thierry-henry-is-booed-by-his-own-fans-each-time-he-touches-the-ball-in-his-first-game-for-france-since-his-handball-controversy.html)  [JSON](/news/2010/03/4/footballer-thierry-henry-is-booed-by-his-own-fans-each-time-he-touches-the-ball-in-his-first-game-for-france-since-his-handball-controversy.json)  [XML](/news/2010/03/4/footballer-thierry-henry-is-booed-by-his-own-fans-each-time-he-touches-the-ball-in-his-first-game-for-france-since-his-handball-controversy.xml)  
+
 ### [2010-03-4](/news/2010/03/4/index.md)
 
+##### Thierry Henry
 # Footballer Thierry Henry is booed by his own fans each time he touches the ball in his first game for France since his handball controversy against Ireland last November, with his own manager expressing doubt about his recent performances for the first time. 
 
 Read a full match report of the international friendly between France and Spain at the Stade de France, Paris on Wednesday March 3, 2010.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/SPORT/football/03/03/friendlies.france.spain.germany.italy/)
 2. [RTÉ](http://www.rte.ie/sport/soccer/2010/0304/henryt.html)

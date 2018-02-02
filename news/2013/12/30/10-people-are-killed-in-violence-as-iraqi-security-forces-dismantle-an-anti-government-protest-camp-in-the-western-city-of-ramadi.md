@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/30/10-people-are-killed-in-violence-as-iraqi-security-forces-dismantle-an-anti-government-protest-camp-in-the-western-city-of-ramadi.html)  [JSON](/news/2013/12/30/10-people-are-killed-in-violence-as-iraqi-security-forces-dismantle-an-anti-government-protest-camp-in-the-western-city-of-ramadi.json)  [XML](/news/2013/12/30/10-people-are-killed-in-violence-as-iraqi-security-forces-dismantle-an-anti-government-protest-camp-in-the-western-city-of-ramadi.xml)  
+
 ### [2013-12-30](/news/2013/12/30/index.md)
 
+##### Iraq
 # 10 people are killed in violence as Iraqi security forces dismantle an anti-government protest camp in the western city of Ramadi. 
 
 At least 10 people are killed in violence as Iraqi security forces dismantle an anti-government protest camp in the city of Ramadi.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-25548776)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/71999000/jpg/_71999856_71998988.jpg)

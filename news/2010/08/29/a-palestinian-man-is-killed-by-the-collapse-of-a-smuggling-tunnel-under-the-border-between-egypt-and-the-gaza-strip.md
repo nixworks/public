@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/29/a-palestinian-man-is-killed-by-the-collapse-of-a-smuggling-tunnel-under-the-border-between-egypt-and-the-gaza-strip.html)  [JSON](/news/2010/08/29/a-palestinian-man-is-killed-by-the-collapse-of-a-smuggling-tunnel-under-the-border-between-egypt-and-the-gaza-strip.json)  [XML](/news/2010/08/29/a-palestinian-man-is-killed-by-the-collapse-of-a-smuggling-tunnel-under-the-border-between-egypt-and-the-gaza-strip.xml)  
+
 ### [2010-08-29](/news/2010/08/29/index.md)
 
+##### Palestinian
 # A Palestinian man is killed by the collapse of a smuggling tunnel under the border between Egypt and the Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h0NtH-LxOgtbNjssSc4lUEE7PJNg)
 

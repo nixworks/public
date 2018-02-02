@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/16/gholam-reza-aghazadeh-head-of-the-atomic-energy-organization-of-iran-and-vice-president-of-iran-resigns-for-unknown-reasons.html)  [JSON](/news/2009/07/16/gholam-reza-aghazadeh-head-of-the-atomic-energy-organization-of-iran-and-vice-president-of-iran-resigns-for-unknown-reasons.json)  [XML](/news/2009/07/16/gholam-reza-aghazadeh-head-of-the-atomic-energy-organization-of-iran-and-vice-president-of-iran-resigns-for-unknown-reasons.xml)  
+
 ### [2009-07-16](/news/2009/07/16/index.md)
 
+##### Gholam Reza Aghazadeh
 #  Gholam Reza Aghazadeh, head of the Atomic Energy Organization of Iran and Vice President of Iran, resigns for unknown reasons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8153775.stm)
 2. [ISNA](http://isna.ir/ISNA/NewsView.aspx?ID=News-1371331&Lang=E)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/18/two-gunmen-shoot-dead-an-american-working-at-a-language-school-in-the-yemeni-city-of-taez-for-spreading-christianity.html)  [JSON](/news/2012/03/18/two-gunmen-shoot-dead-an-american-working-at-a-language-school-in-the-yemeni-city-of-taez-for-spreading-christianity.json)  [XML](/news/2012/03/18/two-gunmen-shoot-dead-an-american-working-at-a-language-school-in-the-yemeni-city-of-taez-for-spreading-christianity.xml)  
+
 ### [2012-03-18](/news/2012/03/18/index.md)
 
+##### American
 # Two gunmen shoot dead an American working at a language school in the Yemeni city of Taez for spreading Christianity. 
 
 Gunmen on motorbikes kill man believed to have been a language teacher in southern city of Taiz, officials say.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Al-Jazeera](http://www.aljazeera.com/news/middleeast/2012/03/201231873142476900.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/3/18/2012318161234267734_20.jpg)
@@ -13,7 +17,7 @@ Gunmen on motorbikes kill man believed to have been a language teacher in southe
 ### Related:
 
 1. [2011 Yemeni uprising: Thousands of Yemeni protesters march from the city of Taez to the capital Sana'a to demand a trial for outgoing President Ali Abdullah Saleh for alleged crimes against anti-government protesters. ](/news/2011/12/21/2011-yemeni-uprising-thousands-of-yemeni-protesters-march-from-the-city-of-taez-to-the-capital-sana-a-to-demand-a-trial-for-outgoing-presid.md) _Context: Taez, Yemen_
-2. [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md) _Context: Yemen_
-3. [An American UH-60 Black Hawk helicopter on a training mission crashes off the coast of Yemen with six aboard, five of whom have been rescued. The search continues for the other U.S. service member. ](/news/2017/08/25/an-american-uh-60-black-hawk-helicopter-on-a-training-mission-crashes-off-the-coast-of-yemen-with-six-aboard-five-of-whom-have-been-rescued.md) _Context: Yemen_
-4. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Yemen_
-5. [At least 56 African migrants drown in the Red Sea while traveling from the Horn of Africa to Yemen. Human traffickers had forced 300 people aboard two boats into the sea. ](/news/2017/08/11/at-least-56-african-migrants-drown-in-the-red-sea-while-traveling-from-the-horn-of-africa-to-yemen-human-traffickers-had-forced-300-people.md) _Context: Yemen_
+2. [The Southern Transitional Council (STC) takes control of the Yemeni port city of Aden following two days of fierce fighting in the city which has left dozens dead. Yemeni Prime Minister Ahmed Obeid bin Daghr, and members of the President Abdrabbuh Mansur Hadi-led government are confined to the presidential palace which has been surrounded. ](/news/2018/01/30/the-southern-transitional-council-stc-takes-control-of-the-yemeni-port-city-of-aden-following-two-days-of-fierce-fighting-in-the-city-whic.md) _Context: Yemen_
+3. [United Arab Emirates-backed Southern Transitional Council (STC) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-stc-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md) _Context: Yemen_
+4. [After 1,000 days of civil war in Yemen, eight million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-eight-million-people-are-at-risk-of-starvation.md) _Context: Yemen_
+5. [Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran refutes the claim as based on "fabricated" evidence. ](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-nations-accuses-iran-of-violating-the-2015-nuclear-deal-by-allegedly-supplying-the-missile-f.md) _Context: Yemen_

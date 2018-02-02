@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/20/hundreds-of-riot-police-and-maoist-protesters-clash-in-the-nepalese-capital-kathmandu-on-the-first-day-of-a-three-day-general-strike.html)  [JSON](/news/2009/12/20/hundreds-of-riot-police-and-maoist-protesters-clash-in-the-nepalese-capital-kathmandu-on-the-first-day-of-a-three-day-general-strike.json)  [XML](/news/2009/12/20/hundreds-of-riot-police-and-maoist-protesters-clash-in-the-nepalese-capital-kathmandu-on-the-first-day-of-a-three-day-general-strike.xml)  
+
 ### [2009-12-20](/news/2009/12/20/index.md)
 
+##### Nepalese Maoist Party
 #  Hundreds of riot police and Maoist protesters clash in the Nepalese capital Kathmandu on the first day of a three-day general strike. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gcZQrIeohKTI1MpzHlhn5eI4DxTg)
 2. [Kantipur](http://www.ekantipur.com/2009/12/20/top-stories/Maoist-enforced-banda-cripples-life-across-nation-Ministers-vehicle-vandalised/304797/)

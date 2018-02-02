@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2010/04/16/gordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very-good-case-for-his-party-at-last.html)  [JSON](/news/2010/04/16/gordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very-good-case-for-his-party-at-last.json)  [XML](/news/2010/04/16/gordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very-good-case-for-his-party-at-last.xml)  
+
 ### [2010-04-16](/news/2010/04/16/index.md)
 
+##### Gordon Brown
 # Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8624317.stm)
 2. [The Guardian](http://www.guardian.co.uk/politics/2010/apr/16/nick-clegg-guardian-icm-poll-pm)
+
+### Changes:
+
+1. [UK general election countdown:Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. ](/news/2010/04/16/uk-general-election-countdown-pgordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very.md) _2017-08-25 03:27:39 (First version)_
+2. [UK general election countdown:: Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. ](/news/2010/04/16/uk-general-election-countdown-gordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very.md) _2017-08-27 03:27:36 (Update)_
+2. [Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. ](/news/2010/04/16/gordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very-good-case-for-his-party-at-last.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [A protester is arrested for throwing a paint bomb at British Deputy Prime Minister Nick Clegg as he arrives at a Liberal Democrats party meeting in Glasgow. ](/news/2011/08/25/a-protester-is-arrested-for-throwing-a-paint-bomb-at-british-deputy-prime-minister-nick-clegg-as-he-arrives-at-a-liberal-democrats-party-mee.md) _Context: Liberal Democrats, Nick Clegg_
 4. [In a BBC interview British Deputy Prime Minister Nick Clegg promises that the Liberal Democtrats will be "a moderating influence" on the Conservatives and will block planned reforms of the National Health Service unless changes are made to them. ](/news/2011/05/8/in-a-bbc-interview-british-deputy-prime-minister-nick-clegg-promises-that-the-liberal-democtrats-will-be-a-moderating-influence-on-the-con.md) _Context: Liberal Democrats, Nick Clegg_
 5. [British prime minister David Cameron sets out to block his predecessor Gordon Brown's attempt to take the GBP270,000 per year role of head of the International Monetary Fund (IMF). ](/news/2011/04/19/british-prime-minister-david-cameron-sets-out-to-block-his-predecessor-gordon-brown-s-attempt-to-take-the-gbp270-000-per-year-role-of-head-o.md) _Context: David Cameron, Gordon Brown_
-
-### Changes:
-
-1. [UK general election countdown:Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. ](/news/2010/04/16/uk-general-election-countdown-pgordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very.md) _2017-08-25 03:27:39 (First version)_
-2. [UK general election countdown:: Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. ](/news/2010/04/16/uk-general-election-countdown-gordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very.md) _2017-08-27 03:27:36 (Update)_
-2. [Gordon Brown and David Cameron admitted that Nick Clegg, leader of the Liberal Democrats, put forward a very good case for his party at last night's election debate. ](/news/2010/04/16/gordon-brown-and-david-cameron-admitted-that-nick-clegg-leader-of-the-liberal-democrats-put-forward-a-very-good-case-for-his-party-at-last.md) _(Current version)_

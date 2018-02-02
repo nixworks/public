@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/23/human-rights-activists-lawyers-labor-rights-gro
 
 ### [2016-04-23](/news/2016/04/23/index.md)
 
+##### Philippine presidential election, 2016
 # Human rights activists, lawyers, labor rights groups and other advocates endorse Leni Robredo for vice president. 
 
 

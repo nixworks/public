@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2004/12/27/ukrainian-opposition-presidential-candidate-viktor-yushchenko-claims-victory-official-results-may-not-come-out-for-days.html)  [JSON](/news/2004/12/27/ukrainian-opposition-presidential-candidate-viktor-yushchenko-claims-victory-official-results-may-not-come-out-for-days.json)  [XML](/news/2004/12/27/ukrainian-opposition-presidential-candidate-viktor-yushchenko-claims-victory-official-results-may-not-come-out-for-days.xml)  
+
 ### [2004-12-27](/news/2004/12/27/index.md)
 
+##### Ukraine
 #  Ukrainian opposition presidential candidate Viktor Yushchenko claims victory. Official results may not come out for days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4127203.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7181594)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=7181594)
 
 ### Related:
 

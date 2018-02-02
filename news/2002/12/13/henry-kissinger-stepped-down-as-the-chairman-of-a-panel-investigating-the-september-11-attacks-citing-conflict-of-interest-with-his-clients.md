@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/13/henry-kissinger-stepped-down-as-the-chairman-of-a-panel-investigating-the-september-11-attacks-citing-conflict-of-interest-with-his-clients.html)  [JSON](/news/2002/12/13/henry-kissinger-stepped-down-as-the-chairman-of-a-panel-investigating-the-september-11-attacks-citing-conflict-of-interest-with-his-clients.json)  [XML](/news/2002/12/13/henry-kissinger-stepped-down-as-the-chairman-of-a-panel-investigating-the-september-11-attacks-citing-conflict-of-interest-with-his-clients.xml)  
+
 ### [2002-12-13](/news/2002/12/13/index.md)
 
+##### Henry Kissinger
 # Henry Kissinger stepped down as the chairman of a panel investigating the September 11 attacks, citing conflict of interest with his clients. The choice of Kissinger by President George W. Bush.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/21/the-palestinian-militant-group-army-of-islam-fires-rockets-from-gaza-into-southern-israel-in-response-to-the-killing-of-three-of-its-membe.html)  [JSON](/news/2010/12/21/the-palestinian-militant-group-army-of-islam-fires-rockets-from-gaza-into-southern-israel-in-response-to-the-killing-of-three-of-its-membe.json)  [XML](/news/2010/12/21/the-palestinian-militant-group-army-of-islam-fires-rockets-from-gaza-into-southern-israel-in-response-to-the-killing-of-three-of-its-membe.xml)  
+
 ### [2010-12-21](/news/2010/12/21/index.md)
 
+##### Palestinian
 # The Palestinian militant group "Army of Islam" fires rockets from Gaza into southern Israel in response to the killing of three of its members by Israel last month, with one rocket landing close to a kindergarten near Ashkelon, injuring a 14-year-old girl; Israeli jets respond with air strikes in the Gaza Strip, injuring at least two Palestinian militants, Palestinian sources say. 
 
 Israeli jets carry out air strikes in the Gaza Strip, injuring at least two Palestinian militants, amid rising tensions.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010122142226408227.html)
 2. [Arutz Sheva](http://www.israelnationalnews.com/News/news.aspx/141268)

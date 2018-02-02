@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/06/19/six-foreigners-including-two-britons-and-an-american-are-jailed-for-lengthy-terms-in-somalia-after-the-seizure-of-a-plane-containing-3-6-mi.html)  [JSON](/news/2011/06/19/six-foreigners-including-two-britons-and-an-american-are-jailed-for-lengthy-terms-in-somalia-after-the-seizure-of-a-plane-containing-3-6-mi.json)  [XML](/news/2011/06/19/six-foreigners-including-two-britons-and-an-american-are-jailed-for-lengthy-terms-in-somalia-after-the-seizure-of-a-plane-containing-3-6-mi.xml)  
+
 ### [2011-06-19](/news/2011/06/19/index.md)
 
+##### British
 # Six foreigners including two Britons and an American are jailed for lengthy terms in Somalia after the seizure of a plane containing $3.6 million in ransom for pirates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France24](http://www.france24.com/en/20110619-britons-us-citizen-handed-long-jail-terms-somalia#)
 
 ### Related:
 
-1. [Troops in Somalia's region of Puntland free 22 hostages seized by pirates nearly three years ago. ](/news/2012/12/23/troops-in-somalia-s-region-of-puntland-free-22-hostages-seized-by-pirates-nearly-three-years-ago.md) _Context: Somali pirates, Somalia_
-2. [The Somali president urges everyone to donate funds to Somalia to help combat pirates. ](/news/2012/06/27/the-somali-president-urges-everyone-to-donate-funds-to-somalia-to-help-combat-pirates.md) _Context: Somali pirates, Somalia_
-3. [Security forces in Somalia seize two planes carrying ransom money for pirates, and detain six foreigners. ](/news/2011/05/24/security-forces-in-somalia-seize-two-planes-carrying-ransom-money-for-pirates-and-detain-six-foreigners.md) _Context: Somali pirates, Somalia_
-4. [South Korea will fly the bodies of eight Somali pirates killed in a commando raid on a freighter last month from Muscat, Oman, to Mogadishu, Somalia. ](/news/2011/02/16/south-korea-will-fly-the-bodies-of-eight-somali-pirates-killed-in-a-commando-raid-on-a-freighter-last-month-from-muscat-oman-to-mogadishu.md) _Context: Somali pirates, Somalia_
-5. [Somali pirates seize a Thai-flagged ship off the coast of Somalia. ](/news/2010/12/26/somali-pirates-seize-a-thai-flagged-ship-off-the-coast-of-somalia.md) _Context: Somali pirates, Somalia_
+1. [ Maritime Self-Defense Force destroyers "Sazanami" and "Samidare" depart Japan to combat piracy in Somalia. ](/news/2009/03/14/maritime-self-defense-force-destroyers-sazanami-and-samidare-depart-japan-to-combat-piracy-in-somalia.md) _Context: Somalia, pirates_
+2. [ China's People's Liberation Army Navy deploys three warships (two destroyers and one replenishment oiler) to the Gulf of Aden to join the Combined Task Force 150 in fighting Somali piracy. ](/news/2008/12/21/china-s-people-s-liberation-army-navy-deploys-three-warships-two-destroyers-and-one-replenishment-oiler-to-the-gulf-of-aden-to-join-the-c.md) _Context: Somalia, pirates_
+3. [ Saudi Arabia's Royal Navy joins NATO's mission in combating piracy in Somalia. ](/news/2008/11/22/saudi-arabia-s-royal-navy-joins-nato-s-mission-in-combating-piracy-in-somalia.md) _Context: Somalia, pirates_
+4. [ A Ukrainian vessel carrying 30 T-72 tanks is captured by pirates 200 miles off Somalian coast. Russia sends its military ship to combat piracy in Somalia. ](/news/2008/09/26/a-ukrainian-vessel-carrying-30-t-72-tanks-is-captured-by-pirates-200-miles-off-somalian-coast-russia-sends-its-military-ship-to-combat-pir.md) _Context: Somalia, pirates_
+5. [Two Americans and two Canadians are abducted by unknown gunmen in Kaduna State, Nigeria. Two police officers are killed after engaging in a firefight with the abductors. ](/news/2018/01/17/two-americans-and-two-canadians-are-abducted-by-unknown-gunmen-in-kaduna-state-nigeria-two-police-officers-are-killed-after-engaging-in-a.md) _Context: Americans_

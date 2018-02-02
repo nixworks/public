@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/23/a-federal-district-judge-in-a-suit-brought-by-t
 
 ### [2016-06-23](/news/2016/06/23/index.md)
 
+##### 2016 U.S. presidential election
 # A federal district judge, in a suit brought by the American Civil Liberties Union, rules Cleveland's regulations governing protests and marches during next month's Republican National Convention infringe on the right of free expression. Judge James Gwin orders both sides into mediation to begin negotiating new rules with another federal judge overseeing those talks. 
 
 CLEVELAND (AP) — A federal judge on Thursday ruled that Cleveland&#039;s regulations governing protests and marches during next month&#039;s Republican National Convention infringe on the right of free expression and he ordered…

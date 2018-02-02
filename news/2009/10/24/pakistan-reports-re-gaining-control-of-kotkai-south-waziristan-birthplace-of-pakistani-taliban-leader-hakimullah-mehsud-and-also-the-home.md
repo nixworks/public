@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/24/pakistan-reports-re-gaining-control-of-kotkai-south-waziristan-birthplace-of-pakistani-taliban-leader-hakimullah-mehsud-and-also-the-home.html)  [JSON](/news/2009/10/24/pakistan-reports-re-gaining-control-of-kotkai-south-waziristan-birthplace-of-pakistani-taliban-leader-hakimullah-mehsud-and-also-the-home.json)  [XML](/news/2009/10/24/pakistan-reports-re-gaining-control-of-kotkai-south-waziristan-birthplace-of-pakistani-taliban-leader-hakimullah-mehsud-and-also-the-home.xml)  
+
 ### [2009-10-24](/news/2009/10/24/index.md)
 
+##### Pakistan
 #  Pakistan reports re-gaining control of Kotkai, South Waziristan, birthplace of Pakistani Taliban leader Hakimullah Mehsud and also the hometown of the Taliban's master trainer of suicide bombers, Qari Hussain, after a week of fierce fighting with the Taliban. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8323660.stm)
 

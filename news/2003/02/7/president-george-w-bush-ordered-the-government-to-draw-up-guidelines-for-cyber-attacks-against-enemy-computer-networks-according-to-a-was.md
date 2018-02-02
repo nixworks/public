@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/7/president-george-w-bush-ordered-the-government-to-draw-up-guidelines-for-cyber-attacks-against-enemy-computer-networks-according-to-a-was.html)  [JSON](/news/2003/02/7/president-george-w-bush-ordered-the-government-to-draw-up-guidelines-for-cyber-attacks-against-enemy-computer-networks-according-to-a-was.json)  [XML](/news/2003/02/7/president-george-w-bush-ordered-the-government-to-draw-up-guidelines-for-cyber-attacks-against-enemy-computer-networks-according-to-a-was.xml)  
+
 ### [2003-02-7](/news/2003/02/7/index.md)
 
+##### George W. Bush
 #  President George W. Bush ordered the government to draw up guidelines for cyber-attacks against enemy computer networks, according to a Washington Post report. The order is known as National Security Presidential Directive 16.
 
 

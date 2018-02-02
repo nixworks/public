@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/19/allen-stanford-the-chairman-of-stanford-financial-group-is-arrested-after-allegations-of-fraud.html)  [JSON](/news/2009/06/19/allen-stanford-the-chairman-of-stanford-financial-group-is-arrested-after-allegations-of-fraud.json)  [XML](/news/2009/06/19/allen-stanford-the-chairman-of-stanford-financial-group-is-arrested-after-allegations-of-fraud.xml)  
+
 ### [2009-06-19](/news/2009/06/19/index.md)
 
+##### Allen Stanford
 #  Allen Stanford, the chairman of Stanford Financial Group, is arrested after allegations of fraud. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8108520.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/17/rupert-murdoch-tells-staff-at-the-sun-he-will-launch-a-sunday-edition-of-the-newspaper-titled-the-sun-on-sunday-very-soon.html)  [JSON](/news/2012/02/17/rupert-murdoch-tells-staff-at-the-sun-he-will-launch-a-sunday-edition-of-the-newspaper-titled-the-sun-on-sunday-very-soon.json)  [XML](/news/2012/02/17/rupert-murdoch-tells-staff-at-the-sun-he-will-launch-a-sunday-edition-of-the-newspaper-titled-the-sun-on-sunday-very-soon.xml)  
+
 ### [2012-02-17](/news/2012/02/17/index.md)
 
+##### Rupert Murdoch
 # Rupert Murdoch tells staff at "The Sun" he will launch a Sunday edition of the newspaper, titled "The Sun on Sunday" "very soon". 
 
 Rupert Murdoch is to launch new weekend tabloid the Sun on Sunday &quot;very soon&quot; and lifts all staff suspensions.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-17070555)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58570000/jpg/_58570503_aesmrmurdoch40_464.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/21/somali-pirates-captured-a-total-of-three-vessels-in-two-days.html)  [JSON](/news/2008/08/21/somali-pirates-captured-a-total-of-three-vessels-in-two-days.json)  [XML](/news/2008/08/21/somali-pirates-captured-a-total-of-three-vessels-in-two-days.xml)  
+
 ### [2008-08-21](/news/2008/08/21/index.md)
 
+##### Somali
 #  Somali pirates captured a total of three vessels in two days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhuanet](http://news.xinhuanet.com/english/2008-08/21/content_9580469.htm)
 

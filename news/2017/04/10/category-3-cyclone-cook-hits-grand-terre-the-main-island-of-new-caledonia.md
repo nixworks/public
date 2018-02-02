@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/10/category-3-cyclone-cook-hits-grand-terre-the-ma
 
 ### [2017-04-10](/news/2017/04/10/index.md)
 
+##### 2016-17 South Pacific cyclone season
 # Category 3 Cyclone Cook hits Grand Terre, the main island of New Caledonia. 
 
 People in northern parts of New Caledonia are told to stay indoors as Cyclone Cook buffets the French territory.

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/08/6/the-trial-of-major-nidal-malik-hasan-a-former-united-states-army-medical-corps-officer-and-the-gunman-during-the-fort-hood-shooting-begins.html)  [JSON](/news/2013/08/6/the-trial-of-major-nidal-malik-hasan-a-former-united-states-army-medical-corps-officer-and-the-gunman-during-the-fort-hood-shooting-begins.json)  [XML](/news/2013/08/6/the-trial-of-major-nidal-malik-hasan-a-former-united-states-army-medical-corps-officer-and-the-gunman-during-the-fort-hood-shooting-begins.xml)  
+
 ### [2013-08-6](/news/2013/08/6/index.md)
 
+##### Nidal Malik Hasan
 # The trial of Major Nidal Malik Hasan, a former United States Army Medical Corps officer and the Gunman during the Fort Hood shooting, begins. 
 
 Hasan, paralyzed from the waist down after being shot by police, is representing himself.
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/national-security/trial-of-nidal-hasan-accused-fort-hood-gunman-to-begin-tuesday-after-delays/2013/08/06/dae4dfe6-fe9b-11e2-96a8-d3b921c0924a_story.html)
+1. [Washington Post](https://www.washingtonpost.com/world/national-security/trial-of-nidal-hasan-accused-fort-hood-gunman-to-begin-tuesday-after-delays/2013/08/06/dae4dfe6-fe9b-11e2-96a8-d3b921c0924a_story.html)
 
 ### Related:
 

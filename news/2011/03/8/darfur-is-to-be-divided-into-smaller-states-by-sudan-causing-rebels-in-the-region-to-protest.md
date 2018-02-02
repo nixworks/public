@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/8/darfur-is-to-be-divided-into-smaller-states-by-sudan-causing-rebels-in-the-region-to-protest.html)  [JSON](/news/2011/03/8/darfur-is-to-be-divided-into-smaller-states-by-sudan-causing-rebels-in-the-region-to-protest.json)  [XML](/news/2011/03/8/darfur-is-to-be-divided-into-smaller-states-by-sudan-causing-rebels-in-the-region-to-protest.xml)  
+
 ### [2011-03-8](/news/2011/03/8/index.md)
 
+##### Darfur
 # Darfur is to be divided into smaller states by Sudan, causing rebels in the region to protest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7270CL20110308?sp=true)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/21/the-president-of-cameroon-paul-biya-is-declared-the-winner-of-the-cameroonian-presidential-election-held-on-october-6.html)  [JSON](/news/2011/10/21/the-president-of-cameroon-paul-biya-is-declared-the-winner-of-the-cameroonian-presidential-election-held-on-october-6.json)  [XML](/news/2011/10/21/the-president-of-cameroon-paul-biya-is-declared-the-winner-of-the-cameroonian-presidential-election-held-on-october-6.xml)  
+
 ### [2011-10-21](/news/2011/10/21/index.md)
 
+##### President of Cameroon
 # The President of Cameroon Paul Biya is declared the winner of the Cameroonian presidential election held on October 6. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j-WkU9DBrYIwXEL7ZqbgZ4SWrrDA?docId=CNG.372358000fff8eb3e0bd8527f1e55dc5.441)
 

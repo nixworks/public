@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/1/three-namibian-women-sue-the-state-after-they-are-sterilised-without-their-informed-consent-after-being-diagnosed-as-hiv-positive.html)  [JSON](/news/2010/06/1/three-namibian-women-sue-the-state-after-they-are-sterilised-without-their-informed-consent-after-being-diagnosed-as-hiv-positive.json)  [XML](/news/2010/06/1/three-namibian-women-sue-the-state-after-they-are-sterilised-without-their-informed-consent-after-being-diagnosed-as-hiv-positive.xml)  
+
 ### [2010-06-1](/news/2010/06/1/index.md)
 
+##### Namibia
 # Three Namibian women sue the state after they are sterilised without their informed consent after being diagnosed as HIV positive. 
 
 Three women in Namibia are suing the state for allegedly being sterilised without their informed consent after an HIV diagnosis.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10202429.stm)
 2. [UPI](http://www.upi.com/Top_News/International/2010/06/01/HIV-women-sue-over-forced-sterilization/UPI-76661275392988/)

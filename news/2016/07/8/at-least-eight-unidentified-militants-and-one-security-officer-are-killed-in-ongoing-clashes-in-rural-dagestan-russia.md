@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/8/at-least-eight-unidentified-militants-and-one-se
 
 ### [2016-07-8](/news/2016/07/8/index.md)
 
+##### Insurgency in the North Caucasus
 # At least eight unidentified militants and one security officer are killed in ongoing clashes in rural Dagestan, Russia. 
 
 

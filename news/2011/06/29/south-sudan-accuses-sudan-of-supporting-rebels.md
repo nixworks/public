@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/29/south-sudan-accuses-sudan-of-supporting-rebels.html)  [JSON](/news/2011/06/29/south-sudan-accuses-sudan-of-supporting-rebels.json)  [XML](/news/2011/06/29/south-sudan-accuses-sudan-of-supporting-rebels.xml)  
+
 ### [2011-06-29](/news/2011/06/29/index.md)
 
+##### South Sudan
 # South Sudan accuses Sudan of supporting rebels. 
 
 South Sudan claims the North is using rebels to sow chaos ahead of its official secession on July 9.
 
 
-### Source:
+### Sources:
 
 1. [Christian Science Monitor](http://www.csmonitor.com/World/Africa/Africa-Monitor/2011/0629/South-Sudan-accuses-North-of-supporting-rebels)
 1. [Cover Image](http://images.csmonitor.com/csmarchives/2011/06/0629-SOUTH-REBELS.JPG?alias=standard_900x600)

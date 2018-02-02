@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/28/the-prime-minister-of-pakistan-nawaz-sharif-res
 
 ### [2017-07-28](/news/2017/07/28/index.md)
 
+##### Politics of Pakistan
 #  The Prime Minister of Pakistan, Nawaz Sharif resigns after the Supreme Court disqualifies him from holding public office following a verdict that he had been dishonest in not disclosing his employment in the Dubai-based Capital FZE company in his nomination papers. 
 
 &quot;PM failed to disclose his un-withdrawn receivables from Capital FZE, UAE in 2013 nomination papers,&quot; reads SC order. 

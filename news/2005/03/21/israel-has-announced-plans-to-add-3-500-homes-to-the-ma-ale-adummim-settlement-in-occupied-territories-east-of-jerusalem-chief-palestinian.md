@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/21/israel-has-announced-plans-to-add-3-500-homes-to-the-ma-ale-adummim-settlement-in-occupied-territories-east-of-jerusalem-chief-palestinian.html)  [JSON](/news/2005/03/21/israel-has-announced-plans-to-add-3-500-homes-to-the-ma-ale-adummim-settlement-in-occupied-territories-east-of-jerusalem-chief-palestinian.json)  [XML](/news/2005/03/21/israel-has-announced-plans-to-add-3-500-homes-to-the-ma-ale-adummim-settlement-in-occupied-territories-east-of-jerusalem-chief-palestinian.xml)  
+
 ### [2005-03-21](/news/2005/03/21/index.md)
 
+##### Israel
 #  Israel has announced plans to add 3,500 homes to the Ma'ale Adummim settlement in occupied territories east of Jerusalem. Chief Palestinian negotiator Saeb Erekat said this would "sabotage" peace efforts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4367787.stm)
 

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/01/3/remains-of-the-first-plane-taken-to-antarctica-in-1912-are-discovered-by-australian-researchers.html)  [JSON](/news/2010/01/3/remains-of-the-first-plane-taken-to-antarctica-in-1912-are-discovered-by-australian-researchers.json)  [XML](/news/2010/01/3/remains-of-the-first-plane-taken-to-antarctica-in-1912-are-discovered-by-australian-researchers.xml)  
+
 ### [2010-01-3](/news/2010/01/3/index.md)
 
+##### Antarctica
 # Remains of the first plane taken to Antarctica in 1912 are discovered by Australian researchers. 
 
 Remains of the first plane taken to Antarctica, in 1912, have been found by Australian researchers. The Mawson&#039;s Huts Foundation had been searching for the plane, last seen in the mid-1970s, for three summers before stumbling on pieces of it on New Year&#039;s Day.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jGGVUHTTroRFh2o_z_-iNVODgiTg)
 2. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8438211.stm)
-3. [The Independent](http://www.independent.co.uk/news/world/australasia/wreckage-of-1912-plane-in-antarctica-is-discovered-1855944.html)
+3. [The Independent](https://www.independent.co.uk/news/world/australasia/wreckage-of-1912-plane-in-antarctica-is-discovered-1855944.html)
 
 ### Related:
 
@@ -17,4 +21,4 @@ Remains of the first plane taken to Antarctica, in 1912, have been found by Aust
 2. [Australian icebreaker, "Aurora Australis", runs aground in Antarctica with 68 people on board. There are no reports of injuries. The Australian Antarctic Division (AAD) said blizzard conditions are hampering attempts to assess damage. ](/news/2016/02/24/australian-icebreaker-aurora-australis-runs-aground-in-antarctica-with-68-people-on-board-there-are-no-reports-of-injuries-the-austral.md) _Context: Antarctica, Australia_
 3. [The governments of the United States, Australia, New Zealand and the Netherlands protest the start of Japan's whaling season off the coast of Antarctica. ](/news/2011/12/14/the-governments-of-the-united-states-australia-new-zealand-and-the-netherlands-protest-the-start-of-japan-s-whaling-season-off-the-coast-o.md) _Context: Antarctica, Australia_
 4. [French and Australian rescue crews find four French nationals who died in a helicopter crash in Antarctica. ](/news/2010/10/30/french-and-australian-rescue-crews-find-four-french-nationals-who-died-in-a-helicopter-crash-in-antarctica.md) _Context: Antarctica, Australia_
-5. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
+5. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_

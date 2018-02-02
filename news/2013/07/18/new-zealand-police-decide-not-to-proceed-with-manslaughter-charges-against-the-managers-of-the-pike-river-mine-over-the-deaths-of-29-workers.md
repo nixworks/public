@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/18/new-zealand-police-decide-not-to-proceed-with-manslaughter-charges-against-the-managers-of-the-pike-river-mine-over-the-deaths-of-29-workers.html)  [JSON](/news/2013/07/18/new-zealand-police-decide-not-to-proceed-with-manslaughter-charges-against-the-managers-of-the-pike-river-mine-over-the-deaths-of-29-workers.json)  [XML](/news/2013/07/18/new-zealand-police-decide-not-to-proceed-with-manslaughter-charges-against-the-managers-of-the-pike-river-mine-over-the-deaths-of-29-workers.xml)  
+
 ### [2013-07-18](/news/2013/07/18/index.md)
 
+##### New Zealand police
 # New Zealand police decide not to proceed with manslaughter charges against the managers of the Pike River Mine over the deaths of 29 workers in the 2010 Pike River Mine disaster. 
 
 The families of 29 miners killed in a New Zealand pit explosion said Thursday they were gutted by a police decision not to lay manslaughter charges over the 2010 disaster.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Fox News](http://www.foxnews.com/world/2013/07/17/no-manslaughter-charges-over-new-zealand-mine-disaster/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2013/07/17/no-manslaughter-charges-over-new-zealand-mine-disaster/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1422590262399.jpg?ve=1)

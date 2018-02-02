@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2012/03/21/nigerian-army-soldiers-kill-nine-gunmen-suspected-of-belonging-to-the-boko-haram-islamist-group-after-they-attack-a-police-station-and-a-ban.html)  [JSON](/news/2012/03/21/nigerian-army-soldiers-kill-nine-gunmen-suspected-of-belonging-to-the-boko-haram-islamist-group-after-they-attack-a-police-station-and-a-ban.json)  [XML](/news/2012/03/21/nigerian-army-soldiers-kill-nine-gunmen-suspected-of-belonging-to-the-boko-haram-islamist-group-after-they-attack-a-police-station-and-a-ban.xml)  
+
 ### [2012-03-21](/news/2012/03/21/index.md)
 
+##### Nigerian Army
 # Nigerian Army soldiers kill nine gunmen suspected of belonging to the Boko Haram Islamist group after they attack a police station and a bank. 
 
+Nine gunmen suspected of belonging to Nigeria’s Boko Haram Islamist group were shot dead by troops in the northern state of Kano after they attacked a police station and a bank, the military said.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2012-03-21/nigerian-troops-kill-nine-suspected-islamist-gunmen-in-kano-1-.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2012-03-21/nigerian-troops-kill-nine-suspected-islamist-gunmen-in-kano-1-.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

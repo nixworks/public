@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2007/09/9/kevin-everett-of-the-national-football-league-s-buffalo-bills-suffers-a-life-threatening-spinal-cord-injury-in-a-game-against-the-denver-br.html)  [JSON](/news/2007/09/9/kevin-everett-of-the-national-football-league-s-buffalo-bills-suffers-a-life-threatening-spinal-cord-injury-in-a-game-against-the-denver-br.json)  [XML](/news/2007/09/9/kevin-everett-of-the-national-football-league-s-buffalo-bills-suffers-a-life-threatening-spinal-cord-injury-in-a-game-against-the-denver-br.xml)  
+
 ### [2007-09-9](/news/2007/09/9/index.md)
 
-#  Kevin Everett of the National Football League's Buffalo Bills suffers a life-threatening spinal cord injury in a game against the Denver Broncos. The surgeon who operated on him says Monday Everett is unlikely to walk again, assuming he survives. ([http:--sports.yahoo.com-nfl-news;_ylt=Anq3P_Gq2fSSuR_vm9qwb81DubYF?slug=ap-bills-everetthurt&prov=ap&type=lgns AP via Yahoo])
+##### Kevin Everett
+#  Kevin Everett of the National Football League's Buffalo Bills suffers a life-threatening spinal cord injury in a game against the Denver Broncos. The surgeon who operated on him says Monday Everett is unlikely to walk again, assuming he survives. ([https:--sports.yahoo.com-nfl-news;_ylt=Anq3P_Gq2fSSuR_vm9qwb81DubYF?slug=ap-bills-everetthurt&prov=ap&type=lgns AP via Yahoo])
 
 
 

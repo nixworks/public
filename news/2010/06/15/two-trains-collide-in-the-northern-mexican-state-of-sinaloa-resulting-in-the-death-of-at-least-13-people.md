@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/06/15/two-trains-collide-in-the-northern-mexican-state-of-sinaloa-resulting-in-the-death-of-at-least-13-people.html)  [JSON](/news/2010/06/15/two-trains-collide-in-the-northern-mexican-state-of-sinaloa-resulting-in-the-death-of-at-least-13-people.json)  [XML](/news/2010/06/15/two-trains-collide-in-the-northern-mexican-state-of-sinaloa-resulting-in-the-death-of-at-least-13-people.xml)  
+
 ### [2010-06-15](/news/2010/06/15/index.md)
 
+##### Mexico
 # Two trains collide in the northern Mexican state of Sinaloa resulting in the death of at least 13 people. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''USA Today](http://www.usatoday.com/news/world/2010-06-15-Mexico-train_N.htm)
+1. [AP via ''USA Today](https://www.usatoday.com/news/world/2010-06-15-Mexico-train_N.htm)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/7/voters-in-syria-go-to-the-polls-for-parliamentary-elections-as-the-death-tolls-from-the-uprising-continues-to-increase.html)  [JSON](/news/2012/05/7/voters-in-syria-go-to-the-polls-for-parliamentary-elections-as-the-death-tolls-from-the-uprising-continues-to-increase.json)  [XML](/news/2012/05/7/voters-in-syria-go-to-the-polls-for-parliamentary-elections-as-the-death-tolls-from-the-uprising-continues-to-increase.xml)  
+
 ### [2012-05-7](/news/2012/05/7/index.md)
 
+##### Syria
 # Voters in Syria go to the polls for parliamentary elections as the death tolls from the uprising continues to increase. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Arabiya](http://english.alarabiya.net/articles/2012/05/07/212570.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/16/an-ally-of-outgoing-burmese-ruler-general-than-shwe-resigns-two-weeks-into-the-new-parliament.html)  [JSON](/news/2011/02/16/an-ally-of-outgoing-burmese-ruler-general-than-shwe-resigns-two-weeks-into-the-new-parliament.json)  [XML](/news/2011/02/16/an-ally-of-outgoing-burmese-ruler-general-than-shwe-resigns-two-weeks-into-the-new-parliament.xml)  
+
 ### [2011-02-16](/news/2011/02/16/index.md)
 
+##### Burma
 # An ally of outgoing Burmese ruler General Than Shwe resigns two weeks into the new parliament. 
 
 Former army general Tin Aye resigns from the new Burmese parliament, just two weeks into its first session.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12483025)
 2. [Irrawaddy](http://www.irrawaddy.org/highlight.php?art_id=20770)

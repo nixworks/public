@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/10/25/the-oil-refinery-fire-continues-to-burn-out-of-control-in-catano-puerto-rico-two-days-after-the-initial-explosion.html)  [JSON](/news/2009/10/25/the-oil-refinery-fire-continues-to-burn-out-of-control-in-catano-puerto-rico-two-days-after-the-initial-explosion.json)  [XML](/news/2009/10/25/the-oil-refinery-fire-continues-to-burn-out-of-control-in-catano-puerto-rico-two-days-after-the-initial-explosion.xml)  
+
 ### [2009-10-25](/news/2009/10/25/index.md)
 
+##### oil refinery fire
 #  The oil refinery fire continues to burn out of control in Catao, Puerto Rico, two days after the initial explosion. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/10/24/AR2009102401693.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2009/10/24/AR2009102401693.html)
 
 ### Related:
 

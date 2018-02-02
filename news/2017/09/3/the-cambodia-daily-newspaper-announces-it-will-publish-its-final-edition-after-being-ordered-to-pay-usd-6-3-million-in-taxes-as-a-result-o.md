@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/3/the-cambodia-daily-newspaper-announces-it-will-p
 
 ### [2017-09-3](/news/2017/09/3/index.md)
 
+##### Economy of Cambodia
 # The "Cambodia Daily" newspaper announces it will publish its final edition after being ordered to pay USD$6.3 million in taxes as a result of an investigation, initiated by Prime Minister of Cambodia Hun Sen, into private companies operating in Cambodia. 
 
 

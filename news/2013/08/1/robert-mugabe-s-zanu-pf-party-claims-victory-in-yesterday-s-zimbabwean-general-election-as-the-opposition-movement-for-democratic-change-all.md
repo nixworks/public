@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/1/robert-mugabe-s-zanu-pf-party-claims-victory-in-yesterday-s-zimbabwean-general-election-as-the-opposition-movement-for-democratic-change-all.html)  [JSON](/news/2013/08/1/robert-mugabe-s-zanu-pf-party-claims-victory-in-yesterday-s-zimbabwean-general-election-as-the-opposition-movement-for-democratic-change-all.json)  [XML](/news/2013/08/1/robert-mugabe-s-zanu-pf-party-claims-victory-in-yesterday-s-zimbabwean-general-election-as-the-opposition-movement-for-democratic-change-all.xml)  
+
 ### [2013-08-1](/news/2013/08/1/index.md)
 
+##### Robert Mugabe
 # Robert Mugabe's ZANU-PF party claims victory in yesterday's Zimbabwean general election as the opposition Movement for Democratic Change alleges "massive fraud". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/world-news/robert-mugabe-claims-victory-in-zimbabwe-election/story-fndir2ev-1226689733499)
 

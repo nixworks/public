@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/20/an-explosion-in-a-chinese-coal-mine-kills-14.html)  [JSON](/news/2004/12/20/an-explosion-in-a-chinese-coal-mine-kills-14.json)  [XML](/news/2004/12/20/an-explosion-in-a-chinese-coal-mine-kills-14.xml)  
+
 ### [2004-12-20](/news/2004/12/20/index.md)
 
+##### coal
 #  An explosion in a Chinese coal mine kills 14. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4110357.stm)
 2. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=641213)

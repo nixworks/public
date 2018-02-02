@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/1/the-parliament-of-cambodia-plans-to-strip-politi
 
 ### [2016-09-1](/news/2016/09/1/index.md)
 
+##### Parliament
 # The Parliament of Cambodia plans to strip political immunity for opposition politician Thak Lany of the Cambodia National Rescue Party alliance after she criticized Prime Minister Hun Sen. 
 
 The Senate is set to vote today on whether to strip the senatorial immunity of opposition Senator Thak Lany, after the body’s permanent committee yesterday decided to hold a plenary session following a request by the Appeal Court.

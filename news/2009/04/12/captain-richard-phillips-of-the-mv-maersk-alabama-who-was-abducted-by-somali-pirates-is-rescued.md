@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/12/captain-richard-phillips-of-the-mv-maersk-alabama-who-was-abducted-by-somali-pirates-is-rescued.html)  [JSON](/news/2009/04/12/captain-richard-phillips-of-the-mv-maersk-alabama-who-was-abducted-by-somali-pirates-is-rescued.json)  [XML](/news/2009/04/12/captain-richard-phillips-of-the-mv-maersk-alabama-who-was-abducted-by-somali-pirates-is-rescued.xml)  
+
 ### [2009-04-12](/news/2009/04/12/index.md)
 
+##### Captain
 #  Captain Richard Phillips of the MV "Maersk Alabama", who was abducted by Somali pirates, is rescued. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2009/WORLD/africa/04/13/somalia.rescue.breakdown/index.html)
 

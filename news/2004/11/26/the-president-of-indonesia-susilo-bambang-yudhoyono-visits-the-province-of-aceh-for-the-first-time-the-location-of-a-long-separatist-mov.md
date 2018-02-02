@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/26/the-president-of-indonesia-susilo-bambang-yudhoyono-visits-the-province-of-aceh-for-the-first-time-the-location-of-a-long-separatist-mov.html)  [JSON](/news/2004/11/26/the-president-of-indonesia-susilo-bambang-yudhoyono-visits-the-province-of-aceh-for-the-first-time-the-location-of-a-long-separatist-mov.json)  [XML](/news/2004/11/26/the-president-of-indonesia-susilo-bambang-yudhoyono-visits-the-province-of-aceh-for-the-first-time-the-location-of-a-long-separatist-mov.xml)  
+
 ### [2004-11-26](/news/2004/11/26/index.md)
 
+##### President of Indonesia
 #  The President of Indonesia, Susilo Bambang Yudhoyono, visits the province of Aceh for the first time, the location of a long separatist movement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4043969.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/27/two-days-before-the-one-year-anniversary-of-the
 
 ### [2016-04-27](/news/2016/04/27/index.md)
 
+##### Andrew Chan
 # Two days before the one-year anniversary of the execution of Andrew Chan and Myuran Sukumaran, the ringleaders of the Bali Nine, member Michael Czugaj is discovered to be in possession of drugs in prison. 
 
 

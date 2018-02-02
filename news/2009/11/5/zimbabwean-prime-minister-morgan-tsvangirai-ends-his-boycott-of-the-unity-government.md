@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/5/zimbabwean-prime-minister-morgan-tsvangirai-ends-his-boycott-of-the-unity-government.html)  [JSON](/news/2009/11/5/zimbabwean-prime-minister-morgan-tsvangirai-ends-his-boycott-of-the-unity-government.json)  [XML](/news/2009/11/5/zimbabwean-prime-minister-morgan-tsvangirai-ends-his-boycott-of-the-unity-government.xml)  
+
 ### [2009-11-5](/news/2009/11/5/index.md)
 
+##### Zimbabwe
 #  Zimbabwean Prime Minister Morgan Tsvangirai ends his boycott of the unity government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091105225251341C267788)
 2. [Xinhua](http://news.xinhuanet.com/english/2009-11/06/content_12395792.htm)

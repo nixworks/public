@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/15/an-explosion-on-a-tourist-speed-boat-kills-two-
 
 ### [2016-09-15](/news/2016/09/15/index.md)
 
+##### Indonesia
 # An explosion on a tourist speed boat kills two people and injures 20 others shortly after departing from the Indonesian port of Padangbai in Karangasem, Bali. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

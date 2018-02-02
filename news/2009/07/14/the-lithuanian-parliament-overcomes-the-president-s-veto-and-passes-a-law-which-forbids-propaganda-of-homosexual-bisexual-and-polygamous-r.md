@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/07/14/the-lithuanian-parliament-overcomes-the-president-s-veto-and-passes-a-law-which-forbids-propaganda-of-homosexual-bisexual-and-polygamous-r.html)  [JSON](/news/2009/07/14/the-lithuanian-parliament-overcomes-the-president-s-veto-and-passes-a-law-which-forbids-propaganda-of-homosexual-bisexual-and-polygamous-r.json)  [XML](/news/2009/07/14/the-lithuanian-parliament-overcomes-the-president-s-veto-and-passes-a-law-which-forbids-propaganda-of-homosexual-bisexual-and-polygamous-r.xml)  
+
 ### [2009-07-14](/news/2009/07/14/index.md)
 
+##### Lithuanian parliament
 #  The Lithuanian parliament overcomes the President's veto and passes a law which forbids propaganda of homosexual, bisexual and polygamous relations, in order to protect minors from detriment to their development. At the same time the law forbids any mocking and defiance on the basis of sexual orientation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Delfi](http://www.delfi.lt/news/daily/lithuania/article.php?id=23095158)
-2. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2009/07/14/AR2009071401649.html)
+2. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2009/07/14/AR2009071401649.html)
 2. [Cover Image](http://g4.dcdn.lt/images/pix/file23095360_728b04a5c40f52d3f4.jpg)
 
 ### Related:

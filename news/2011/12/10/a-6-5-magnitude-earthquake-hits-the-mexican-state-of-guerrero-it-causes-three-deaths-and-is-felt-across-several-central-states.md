@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/10/a-6-5-magnitude-earthquake-hits-the-mexican-state-of-guerrero-it-causes-three-deaths-and-is-felt-across-several-central-states.html)  [JSON](/news/2011/12/10/a-6-5-magnitude-earthquake-hits-the-mexican-state-of-guerrero-it-causes-three-deaths-and-is-felt-across-several-central-states.json)  [XML](/news/2011/12/10/a-6-5-magnitude-earthquake-hits-the-mexican-state-of-guerrero-it-causes-three-deaths-and-is-felt-across-several-central-states.xml)  
+
 ### [2011-12-10](/news/2011/12/10/index.md)
 
+##### 6.5 magnitude earthquake
 # A 6.5 magnitude earthquake hits the Mexican state of Guerrero. It causes three deaths and is felt across several central states. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CBS News](http://www.cbsnews.com/8301-202_162-57340888/strong-quake-shakes-mexico-city-3-dead/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/10/28/22db732e-a645-11e2-a3f0-029118418759/111028-earthquake-generic.jpg)

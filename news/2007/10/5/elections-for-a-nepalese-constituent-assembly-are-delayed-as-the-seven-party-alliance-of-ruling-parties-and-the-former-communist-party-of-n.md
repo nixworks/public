@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/5/elections-for-a-nepalese-constituent-assembly-are-delayed-as-the-seven-party-alliance-of-ruling-parties-and-the-former-communist-party-of-n.html)  [JSON](/news/2007/10/5/elections-for-a-nepalese-constituent-assembly-are-delayed-as-the-seven-party-alliance-of-ruling-parties-and-the-former-communist-party-of-n.json)  [XML](/news/2007/10/5/elections-for-a-nepalese-constituent-assembly-are-delayed-as-the-seven-party-alliance-of-ruling-parties-and-the-former-communist-party-of-n.xml)  
+
 ### [2007-10-5](/news/2007/10/5/index.md)
 
+##### Elections
 #  Elections for a Nepalese Constituent Assembly are delayed as the Seven Party Alliance of ruling parties and the former Communist Party of Nepal (Maoist) rebels fail to break a deadlock over the republic issue and the voting system to be used. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7029251.stm)
 

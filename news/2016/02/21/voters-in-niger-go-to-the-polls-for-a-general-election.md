@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/21/voters-in-niger-go-to-the-polls-for-a-general-e
 
 ### [2016-02-21](/news/2016/02/21/index.md)
 
+##### Nigerien general election, 2016
 # Voters in Niger go to the polls for a general election. 
 
 The&#x20;stakes&#x20;are&#x20;higher&#x20;than&#x20;ever&#x20;as&#x20;Niger,&#x20;one&#x20;of&#x20;the&#x20;world&#x2019;s&#x20;poorest&#x20;nations,&#x20;heads&#x20;to&#x20;the&#x20;polls&#x20;Sunday&#x20;to&#x20;pick&#x20;a&#x20;new&#x20;leader.&#x20;Whoever&#x20;wins&#x20;the&#x20;ballot&#x20;faces&#x20;the&#x20;dual&#x20;challenge&#x20;of&#x20;fending&#x20;off&#x20;a&#x20;food&#x20;crisis&#x20;alongside&#x20;an&#x20;imminent&#x20;jihadist&#x20;threat.

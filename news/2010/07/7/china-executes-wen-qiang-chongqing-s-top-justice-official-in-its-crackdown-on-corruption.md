@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/7/china-executes-wen-qiang-chongqing-s-top-justice-official-in-its-crackdown-on-corruption.html)  [JSON](/news/2010/07/7/china-executes-wen-qiang-chongqing-s-top-justice-official-in-its-crackdown-on-corruption.json)  [XML](/news/2010/07/7/china-executes-wen-qiang-chongqing-s-top-justice-official-in-its-crackdown-on-corruption.xml)  
+
 ### [2010-07-7](/news/2010/07/7/index.md)
 
+##### Wen Qiang
 # China executes Wen Qiang, Chongqing's top justice official, in its crackdown on corruption. 
 
 China executes the top justice official in Chongqing, as part of a high-profile crackdown on corruption and gang crime.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10535226.stm)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jul/07/china-executes-former-official-corruption)

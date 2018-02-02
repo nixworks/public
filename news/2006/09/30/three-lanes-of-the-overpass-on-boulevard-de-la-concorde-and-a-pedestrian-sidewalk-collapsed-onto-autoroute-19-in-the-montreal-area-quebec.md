@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/30/three-lanes-of-the-overpass-on-boulevard-de-la-concorde-and-a-pedestrian-sidewalk-collapsed-onto-autoroute-19-in-the-montreal-area-quebec.html)  [JSON](/news/2006/09/30/three-lanes-of-the-overpass-on-boulevard-de-la-concorde-and-a-pedestrian-sidewalk-collapsed-onto-autoroute-19-in-the-montreal-area-quebec.json)  [XML](/news/2006/09/30/three-lanes-of-the-overpass-on-boulevard-de-la-concorde-and-a-pedestrian-sidewalk-collapsed-onto-autoroute-19-in-the-montreal-area-quebec.xml)  
+
 ### [2006-09-30](/news/2006/09/30/index.md)
 
+##### Autoroute 19
 #  Three lanes of the overpass on Boulevard de la Concorde and a pedestrian sidewalk collapsed onto Autoroute 19 in the Montreal area, Quebec. Two cars were trapped under, 5 were killed and at least 6 are injured, 2 critically. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [CTV NEWS](http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060930/overpass_collapse_060930/20060930?hub=TopStories)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-09-30T182910Z_01_N30271261_RTRUKOC_0_US-DISASTER-OVERPASS.xml&WTmodLoc=Home-C2-TopNews-newsOne-7)

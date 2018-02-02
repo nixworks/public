@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/15/at-least-four-turkish-army-soldiers-are-killed-
 
 ### [2016-04-15](/news/2016/04/15/index.md)
 
+##### PKK rebellion (2015-present)
 # At least four Turkish Army soldiers are killed and two others are wounded after a roadside bomb hit their vehicle in the southeast Mardin Province. 
 
 Four soldiers were killed and two wounded when a bomb hit a military vehicle traveling in the southeastern Turkish province of Mardin on Friday, security sources said.

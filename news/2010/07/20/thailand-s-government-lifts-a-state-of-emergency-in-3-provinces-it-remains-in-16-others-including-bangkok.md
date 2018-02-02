@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/thailand-s-government-lifts-a-state-of-emergency-in-3-provinces-it-remains-in-16-others-including-bangkok.html)  [JSON](/news/2010/07/20/thailand-s-government-lifts-a-state-of-emergency-in-3-provinces-it-remains-in-16-others-including-bangkok.json)  [XML](/news/2010/07/20/thailand-s-government-lifts-a-state-of-emergency-in-3-provinces-it-remains-in-16-others-including-bangkok.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### Thailand
 # Thailand's government lifts a state of emergency in 3 provinces; it remains in 16 others, including Bangkok. 
 
 State of emergency lifted in three provinces but strict laws remain in much of the country.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/2010720162949305525.html)
 2. [Arab News](http://arabnews.com/world/article87362.ece)

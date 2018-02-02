@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2016/03/31/a-malaysian-court-dismisses-malaysia-airlines-s-bid-to-throw-out-a-lawsuit-filed-by-relatives-of-three-people-who-went-missing-on-flight-370.html)  [JSON](/news/2016/03/31/a-malaysian-court-dismisses-malaysia-airlines-s-bid-to-throw-out-a-lawsuit-filed-by-relatives-of-three-people-who-went-missing-on-flight-370.json)  [XML](/news/2016/03/31/a-malaysian-court-dismisses-malaysia-airlines-s-bid-to-throw-out-a-lawsuit-filed-by-relatives-of-three-people-who-went-missing-on-flight-370.xml)  
+
 ### [2016-03-31](/news/2016/03/31/index.md)
 
+##### Malaysia Airlines Flight 370
 # A Malaysian court dismisses Malaysia Airlines's bid to throw out a lawsuit filed by relatives of three people who went missing on Flight 370. The company argued that the disappearance of MH370 on March 8, 2014, occurred before the company came into existence as Malaysia Airlines Berhad (MAB) on September 1, 2015, and therefore has no liability to relatives. The court ruled MAB's liability would be determined in a trial. 
 
 A court in Malaysia has rejected a bid by Malaysia Airlines to throw out a lawsuit filed by the relatives of three people who went missing on Flight 370.
 
 
-### Source:
+### Sources:
 
 1. [Malay Mail](http://www.themalaymailonline.com/malaysia/article/court-dismisses-malaysia-airlines-bid-to-strike-out-mh370-suit)
 2. [UPI](http://www.upi.com/Top_News/World-News/2016/03/31/MH370-Malaysian-court-refuses-to-throw-out-lawsuit-against-airline/5791459423249/?spt=hts&or=4)
 2. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/5791459423249/2016/1/14594254452654/v2.1/MH370-Malaysian-court-refuses-to-throw-out-lawsuit-against-airline.jpg)
+
+### Changes:
+
+1. [A Malaysian court dismisses Malaysia Airlines's bid to throw out a lawsuit filed by relatives of three people who went missing on Flight 370. The company argued that the disappearance of MH370 on March 8, 2014, occurred before the company came into existence as Malaysia Airlines Berhad (MAB) on September 1, 2015, and therefore has no liability to relatives. The court ruled MAB's liability would be determined in a trial. ](/news/2016/03/31/a-malaysian-court-dismisses-malaysia-airlines-s-bid-to-throw-out-a-lawsuit-filed-by-relatives-of-three-people-who-went-missing-on-flight-37.md) _2017-08-25 03:45:05 (First version)_
+2. [Malaysia Airlines Flight 370: A Malaysian court dismisses Malaysia Airlines's bid to throw out a lawsuit filed by relatives of three people who went missing on Flight 370. The company argued that the disappearance of MH370 on March 8, 2014, occurred before the company came into existence as Malaysia Airlines Berhad (MAB) on September 1, 2015, and therefore has no liability to relatives. The court ruled MAB's liability would be determined in a trial. ](/news/2016/03/31/malaysia-airlines-flight-370-a-malaysian-court-dismisses-malaysia-airlines-s-bid-to-throw-out-a-lawsuit-filed-by-relatives-of-three-people.md) _2017-08-27 03:45:26 (Update)_
+2. [A Malaysian court dismisses Malaysia Airlines's bid to throw out a lawsuit filed by relatives of three people who went missing on Flight 370. The company argued that the disappearance of MH370 on March 8, 2014, occurred before the company came into existence as Malaysia Airlines Berhad (MAB) on September 1, 2015, and therefore has no liability to relatives. The court ruled MAB's liability would be determined in a trial. ](/news/2016/03/31/a-malaysian-court-dismisses-malaysia-airlines-s-bid-to-throw-out-a-lawsuit-filed-by-relatives-of-three-people-who-went-missing-on-flight-370.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ A court in Malaysia has rejected a bid by Malaysia Airlines to throw out a lawsu
 3. [Two brothers whose father was on Malaysia Airlines Flight 370 last year when it disappeared receive compensation from the government of Malaysia and Malaysian Airlines. ](/news/2015/06/2/two-brothers-whose-father-was-on-malaysia-airlines-flight-370-last-year-when-it-disappeared-receive-compensation-from-the-government-of-mala.md) _Context: Malaysia, Malaysia Airlines Flight 370_
 4. [Without recovering any physical evidence, including the data recorders, Malaysia officially declares the loss of Flight 370 over the Indian Ocean an accident meaning that victims families can seek compensation. ](/news/2015/01/29/without-recovering-any-physical-evidence-including-the-data-recorders-malaysia-officially-declares-the-loss-of-flight-370-over-the-indian.md) _Context: Malaysia, Malaysia Airlines Flight 370_
 5. [Malaysia's state investment company Khazanah Nasional announces plans to delist Malaysia Airlines and make it fully state-owned while the business is overhauled. ](/news/2014/08/8/malaysia-s-state-investment-company-khazanah-nasional-announces-plans-to-delist-malaysia-airlines-and-make-it-fully-state-owned-while-the-bu.md) _Context: Malaysia, Malaysia Airlines_
-
-### Changes:
-
-1. [A Malaysian court dismisses Malaysia Airlines's bid to throw out a lawsuit filed by relatives of three people who went missing on Flight 370. The company argued that the disappearance of MH370 on March 8, 2014, occurred before the company came into existence as Malaysia Airlines Berhad (MAB) on September 1, 2015, and therefore has no liability to relatives. The court ruled MAB's liability would be determined in a trial. ](/news/2016/03/31/a-malaysian-court-dismisses-malaysia-airlines-s-bid-to-throw-out-a-lawsuit-filed-by-relatives-of-three-people-who-went-missing-on-flight-37.md) _2017-08-25 03:45:05 (First version)_
-2. [Malaysia Airlines Flight 370: A Malaysian court dismisses Malaysia Airlines's bid to throw out a lawsuit filed by relatives of three people who went missing on Flight 370. The company argued that the disappearance of MH370 on March 8, 2014, occurred before the company came into existence as Malaysia Airlines Berhad (MAB) on September 1, 2015, and therefore has no liability to relatives. The court ruled MAB's liability would be determined in a trial. ](/news/2016/03/31/malaysia-airlines-flight-370-a-malaysian-court-dismisses-malaysia-airlines-s-bid-to-throw-out-a-lawsuit-filed-by-relatives-of-three-people.md) _2017-08-27 03:45:26 (Update)_
-2. [A Malaysian court dismisses Malaysia Airlines's bid to throw out a lawsuit filed by relatives of three people who went missing on Flight 370. The company argued that the disappearance of MH370 on March 8, 2014, occurred before the company came into existence as Malaysia Airlines Berhad (MAB) on September 1, 2015, and therefore has no liability to relatives. The court ruled MAB's liability would be determined in a trial. ](/news/2016/03/31/a-malaysian-court-dismisses-malaysia-airlines-s-bid-to-throw-out-a-lawsuit-filed-by-relatives-of-three-people-who-went-missing-on-flight-370.md) _(Current version)_

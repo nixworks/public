@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/16/in-a-surprise-move-monsanto-company-announce-their-intention-to-quit-the-european-cereal-business-citing-lack-of-success-the-company-has.html)  [JSON](/news/2003/10/16/in-a-surprise-move-monsanto-company-announce-their-intention-to-quit-the-european-cereal-business-citing-lack-of-success-the-company-has.json)  [XML](/news/2003/10/16/in-a-surprise-move-monsanto-company-announce-their-intention-to-quit-the-european-cereal-business-citing-lack-of-success-the-company-has.xml)  
+
 ### [2003-10-16](/news/2003/10/16/index.md)
 
+##### Monsanto Company
 #  In a surprise move, Monsanto Company announce their intention to quit the European cereal business. Citing lack of success, the company has decided to cut costs.
 
 

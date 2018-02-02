@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/25/nine-railway-carriages-of-the-muri-express-derail-in-uttar-pradesh-s-kaushambi-district-killing-one-and-injuring-more-than-100-people.html)  [JSON](/news/2015/05/25/nine-railway-carriages-of-the-muri-express-derail-in-uttar-pradesh-s-kaushambi-district-killing-one-and-injuring-more-than-100-people.json)  [XML](/news/2015/05/25/nine-railway-carriages-of-the-muri-express-derail-in-uttar-pradesh-s-kaushambi-district-killing-one-and-injuring-more-than-100-people.xml)  
+
 ### [2015-05-25](/news/2015/05/25/index.md)
 
+##### Uttar Pradesh
 # Nine railway carriages of the Muri Express derail in Uttar Pradesh's Kaushambi district, killing one and injuring more than 100 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Zee News](http://zeenews.india.com/news/uttar-pradesh/muri-express-derails-in-uttar-pradesh-one-reported-dead_1601187.html)
 

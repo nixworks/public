@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/22/the-un-human-rights-council-has-set-up-an-inquiry-into-human-rights-abuses-in-north-korea-for-the-first-time.html)  [JSON](/news/2013/03/22/the-un-human-rights-council-has-set-up-an-inquiry-into-human-rights-abuses-in-north-korea-for-the-first-time.json)  [XML](/news/2013/03/22/the-un-human-rights-council-has-set-up-an-inquiry-into-human-rights-abuses-in-north-korea-for-the-first-time.xml)  
+
 ### [2013-03-22](/news/2013/03/22/index.md)
 
+##### United Nations
 # The UN human rights council has set up an inquiry into human rights abuses in North Korea for the first time. 
 
 The UN human rights council sets up an inquiry into human rights abuses in North Korea for the first time.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21891299)
 2. [Brookings Institution](http://www.brookings.edu/research/opinions/2013/03/21-north-korea-cohen)

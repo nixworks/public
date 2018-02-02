@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/04/23/seven-people-including-six-police-officers-and-a-civilian-are-killed-and-two-other-officers-are-injured-in-a-shoot-out-with-suspected-gang.html)  [JSON](/news/2010/04/23/seven-people-including-six-police-officers-and-a-civilian-are-killed-and-two-other-officers-are-injured-in-a-shoot-out-with-suspected-gang.json)  [XML](/news/2010/04/23/seven-people-including-six-police-officers-and-a-civilian-are-killed-and-two-other-officers-are-injured-in-a-shoot-out-with-suspected-gang.xml)  
+
 ### [2010-04-23](/news/2010/04/23/index.md)
 
+##### gang
 # Seven people, including six police officers and a civilian, are killed and two other officers are injured in a shoot-out with suspected gang hitmen in Ciudad Juarez. 
 
 Initial reports say they were ambushed in an attack that investigators said might have been a response to an operation the previous day.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8641380.stm)
 2. [CNN](http://edition.cnn.com/2010/WORLD/americas/04/23/juarez.shootout/?hpt=T1)
-3. [The New York Times](http://www.nytimes.com/2010/04/24/world/americas/24mexico.html)
+3. [The New York Times](https://www.nytimes.com/2010/04/24/world/americas/24mexico.html)
 3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

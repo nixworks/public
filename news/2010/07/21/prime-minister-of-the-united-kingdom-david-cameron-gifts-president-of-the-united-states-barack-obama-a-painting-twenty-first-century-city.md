@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/21/prime-minister-of-the-united-kingdom-david-cameron-gifts-president-of-the-united-states-barack-obama-a-painting-twenty-first-century-city.html)  [JSON](/news/2010/07/21/prime-minister-of-the-united-kingdom-david-cameron-gifts-president-of-the-united-states-barack-obama-a-painting-twenty-first-century-city.json)  [XML](/news/2010/07/21/prime-minister-of-the-united-kingdom-david-cameron-gifts-president-of-the-united-states-barack-obama-a-painting-twenty-first-century-city.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### Prime Minister
 # Prime Minister of the United Kingdom David Cameron gifts President of the United States Barack Obama a painting, "Twenty First Century City", by graffiti artist Ben Eine, while Obama gifts Cameron a signed lithograph, "Column with Speed Lines", by Edward Ruscha. 
 
 A painting by a graffiti artist is among the official gifts to Barack Obama from David Cameron on his first trip to Washington as prime minister.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-10710074)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

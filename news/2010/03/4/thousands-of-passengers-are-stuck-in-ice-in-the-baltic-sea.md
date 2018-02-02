@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/4/thousands-of-passengers-are-stuck-in-ice-in-the-baltic-sea.html)  [JSON](/news/2010/03/4/thousands-of-passengers-are-stuck-in-ice-in-the-baltic-sea.json)  [XML](/news/2010/03/4/thousands-of-passengers-are-stuck-in-ice-in-the-baltic-sea.xml)  
+
 ### [2010-03-4](/news/2010/03/4/index.md)
 
+##### Baltic Sea
 # Thousands of passengers are stuck in ice in the Baltic Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8550687.stm)
 2. [CNN](http://www.cnn.com/2010/TRAVEL/03/04/sweden.ice.ships/index.html?eref=rss_mostpopular)

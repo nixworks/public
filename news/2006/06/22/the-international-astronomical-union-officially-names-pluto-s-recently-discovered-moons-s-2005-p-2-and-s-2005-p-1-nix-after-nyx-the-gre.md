@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/22/the-international-astronomical-union-officially-names-pluto-s-recently-discovered-moons-s-2005-p-2-and-s-2005-p-1-nix-after-nyx-the-gre.html)  [JSON](/news/2006/06/22/the-international-astronomical-union-officially-names-pluto-s-recently-discovered-moons-s-2005-p-2-and-s-2005-p-1-nix-after-nyx-the-gre.json)  [XML](/news/2006/06/22/the-international-astronomical-union-officially-names-pluto-s-recently-discovered-moons-s-2005-p-2-and-s-2005-p-1-nix-after-nyx-the-gre.xml)  
+
 ### [2006-06-22](/news/2006/06/22/index.md)
 
+##### International Astronomical Union
 #  The International Astronomical Union officially names Pluto's recently discovered moons, S-2005 P 2 and S-2005 P 1, Nix (after Nyx, the Greek Goddess of Darkness) and Hydra (multi-headed monster from Greek myth) respectively. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Geographic](http://news.nationalgeographic.com/news/2006/06/060623-pluto.html)
 2. [SMH](http://www.smh.com.au/news/science/plutos-moons-finally-get-names/2006/06/22/1150845299808.html)

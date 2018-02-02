@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/16/libya-vietnam-burkina-faso-croatia-and-costa-rica-are-elected-to-the-united-nations-security-council-as-non-permanent-members.html)  [JSON](/news/2007/10/16/libya-vietnam-burkina-faso-croatia-and-costa-rica-are-elected-to-the-united-nations-security-council-as-non-permanent-members.json)  [XML](/news/2007/10/16/libya-vietnam-burkina-faso-croatia-and-costa-rica-are-elected-to-the-united-nations-security-council-as-non-permanent-members.xml)  
+
 ### [2007-10-16](/news/2007/10/16/index.md)
 
+##### Libya
 #  Libya, Vietnam, Burkina Faso, Croatia and Costa Rica are elected to the United Nations Security Council as non-permanent members. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7047627.stm)
 

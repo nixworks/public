@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/02/17/cypriot-president-tassos-papadopoulos-is-eliminated-in-the-first-round-of-the-cypriot-presidential-election.html)  [JSON](/news/2008/02/17/cypriot-president-tassos-papadopoulos-is-eliminated-in-the-first-round-of-the-cypriot-presidential-election.json)  [XML](/news/2008/02/17/cypriot-president-tassos-papadopoulos-is-eliminated-in-the-first-round-of-the-cypriot-presidential-election.xml)  
+
 ### [2008-02-17](/news/2008/02/17/index.md)
 
+##### President
 #  Cypriot President Tassos Papadopoulos is eliminated in the first round of the Cypriot presidential election. 
 
 Cypriot President Tassos Papadopoulos was eliminated in the first round of a presidential election on Sunday, sending two candidates who want talks on reuniting the island to a run-off.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSL1643082220080217)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080217&t=2&i=3185741&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-17T053043Z_01_L16430822_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSL1643082220080217)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080217&t=2&i=3185741&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-02-17T053043Z_01_L16430822_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

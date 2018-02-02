@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/8/saint-john-s-university-football-coach-john-gagliardi-breaks-eddie-robinson-s-record-of-408-career-coaching-victories-to-become-college-foo.html)  [JSON](/news/2003/11/8/saint-john-s-university-football-coach-john-gagliardi-breaks-eddie-robinson-s-record-of-408-career-coaching-victories-to-become-college-foo.json)  [XML](/news/2003/11/8/saint-john-s-university-football-coach-john-gagliardi-breaks-eddie-robinson-s-record-of-408-career-coaching-victories-to-become-college-foo.xml)  
+
 ### [2003-11-8](/news/2003/11/8/index.md)
 
+##### Saint John's University
 #  Saint John's University football coach John Gagliardi breaks Eddie Robinson's record of 408 career coaching victories to become college football's all-time winningest coach with 409 wins.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/8/an-italian-appeals-court-upholds-the-conviction-of-former-prime-minister-silvio-berlusconi-on-tax-fraud-and-sentences-him-to-four-years-in-p.html)  [JSON](/news/2013/05/8/an-italian-appeals-court-upholds-the-conviction-of-former-prime-minister-silvio-berlusconi-on-tax-fraud-and-sentences-him-to-four-years-in-p.json)  [XML](/news/2013/05/8/an-italian-appeals-court-upholds-the-conviction-of-former-prime-minister-silvio-berlusconi-on-tax-fraud-and-sentences-him-to-four-years-in-p.xml)  
+
 ### [2013-05-8](/news/2013/05/8/index.md)
 
+##### Italy
 # An Italian appeals court upholds the conviction of former Prime Minister Silvio Berlusconi on tax fraud and sentences him to four years in prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Macleans Canada](http://www2.macleans.ca/2013/05/08/silvio-berlusconi-loses-tax-fraud-conviction-appeal-sentenced-to-4-years-in-jail/)
 

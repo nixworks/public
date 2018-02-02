@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/07/3/a-vladivostokavia-tupolev-tu-154-jetliner-crashes-on-approach-to-landing-at-irkutsk-russia-killing-145.html)  [JSON](/news/2001/07/3/a-vladivostokavia-tupolev-tu-154-jetliner-crashes-on-approach-to-landing-at-irkutsk-russia-killing-145.json)  [XML](/news/2001/07/3/a-vladivostokavia-tupolev-tu-154-jetliner-crashes-on-approach-to-landing-at-irkutsk-russia-killing-145.xml)  
+
 ### [2001-07-3](/news/2001/07/3/index.md)
 
+##### Tupolev Tu-154
 #  A Vladivostokavia Tupolev Tu-154 jetliner crashes on approach to landing at Irkutsk, Russia, killing 145.
 
 

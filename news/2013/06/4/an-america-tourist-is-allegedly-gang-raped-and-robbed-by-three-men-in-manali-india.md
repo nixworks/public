@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/4/an-america-tourist-is-allegedly-gang-raped-and-robbed-by-three-men-in-manali-india.html)  [JSON](/news/2013/06/4/an-america-tourist-is-allegedly-gang-raped-and-robbed-by-three-men-in-manali-india.json)  [XML](/news/2013/06/4/an-america-tourist-is-allegedly-gang-raped-and-robbed-by-three-men-in-manali-india.xml)  
+
 ### [2013-06-4](/news/2013/06/4/index.md)
 
+##### gang rape
 # An America tourist is allegedly gang raped and robbed by three men in Manali, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/chandigarh/Truckers-gang-rape-US-tourist-in-Manali/articleshow/20436060.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/20430665.cms)

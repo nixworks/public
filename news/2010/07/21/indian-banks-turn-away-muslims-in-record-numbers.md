@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/21/indian-banks-turn-away-muslims-in-record-numbers.html)  [JSON](/news/2010/07/21/indian-banks-turn-away-muslims-in-record-numbers.json)  [XML](/news/2010/07/21/indian-banks-turn-away-muslims-in-record-numbers.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### India
 # Indian banks turn away Muslims in record numbers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-10718243)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

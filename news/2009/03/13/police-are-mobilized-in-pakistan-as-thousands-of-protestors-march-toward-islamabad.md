@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/13/police-are-mobilized-in-pakistan-as-thousands-of-protestors-march-toward-islamabad.html)  [JSON](/news/2009/03/13/police-are-mobilized-in-pakistan-as-thousands-of-protestors-march-toward-islamabad.json)  [XML](/news/2009/03/13/police-are-mobilized-in-pakistan-as-thousands-of-protestors-march-toward-islamabad.xml)  
+
 ### [2009-03-13](/news/2009/03/13/index.md)
 
+##### Pakistani police
 #  Police are mobilized in Pakistan as thousands of protestors march toward Islamabad. 
 
 Police in Pakistan have blocked highways and banned political gatherings in three provinces as thousands of protesters attempt to march to the capital, Islamabad.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2009/03/14/2516187.htm?section=world)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

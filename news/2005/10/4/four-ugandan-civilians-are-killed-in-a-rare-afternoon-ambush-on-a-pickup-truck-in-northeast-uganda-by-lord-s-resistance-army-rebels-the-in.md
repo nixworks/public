@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/4/four-ugandan-civilians-are-killed-in-a-rare-afternoon-ambush-on-a-pickup-truck-in-northeast-uganda-by-lord-s-resistance-army-rebels-the-in.html)  [JSON](/news/2005/10/4/four-ugandan-civilians-are-killed-in-a-rare-afternoon-ambush-on-a-pickup-truck-in-northeast-uganda-by-lord-s-resistance-army-rebels-the-in.json)  [XML](/news/2005/10/4/four-ugandan-civilians-are-killed-in-a-rare-afternoon-ambush-on-a-pickup-truck-in-northeast-uganda-by-lord-s-resistance-army-rebels-the-in.xml)  
+
 ### [2005-10-4](/news/2005/10/4/index.md)
 
+##### Uganda
 #  Four Ugandan civilians are killed in a rare afternoon ambush on a pickup truck in northeast Uganda by Lord's Resistance Army rebels. The insurgents are suspected of shooting the driver and two passengers and killing a fourth with an axe. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/africa/4307558.stm)
 

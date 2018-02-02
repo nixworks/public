@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/07/1/the-president-of-ukraine-petro-poroshenko-states-that-the-ukraine-government-s-forces-will-resume-offensive-operations-against-pro-russian-r.html)  [JSON](/news/2014/07/1/the-president-of-ukraine-petro-poroshenko-states-that-the-ukraine-government-s-forces-will-resume-offensive-operations-against-pro-russian-r.json)  [XML](/news/2014/07/1/the-president-of-ukraine-petro-poroshenko-states-that-the-ukraine-government-s-forces-will-resume-offensive-operations-against-pro-russian-r.xml)  
+
 ### [2014-07-1](/news/2014/07/1/index.md)
 
+##### 2014 pro-Russian conflict in Ukraine
 # The President of Ukraine Petro Poroshenko states that the Ukraine government's forces will resume offensive operations against pro-Russian rebels. 
 
 Ukrainian forces struck at pro-Russian separatist bases in eastern regions with air and artillery strikes on Tuesday after President Petro Poroshenko announced he would not renew a ceasefire but go on the offensive to rid Ukraine of &quot;parasites&quot;.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/07/01/us-ukraine-crisis-idUSKBN0F52OO20140701?feedType=RSS&feedName=topNews)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140701&t=2&i=915491372&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA601OW)
+1. [Reuters](https://www.reuters.com/article/2014/07/01/us-ukraine-crisis-idUSKBN0F52OO20140701?feedType=RSS&feedName=topNews)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20140701&t=2&i=915491372&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA601OW)
+
+### Changes:
+
+1. [2014 pro-Russian conflict in Ukraine: The President of Ukraine Petro Poroshenko states that the Ukraine government's forces will resume offensive operations against pro-Russian rebels. ](/news/2014/07/1/2014-pro-russian-conflict-in-ukraine-the-president-of-ukraine-petro-poroshenko-states-that-the-ukraine-government-s-forces-will-resume-offe.md) _2017-08-27 03:40:55 (First version)_
+1. [The President of Ukraine Petro Poroshenko states that the Ukraine government's forces will resume offensive operations against pro-Russian rebels. ](/news/2014/07/1/the-president-of-ukraine-petro-poroshenko-states-that-the-ukraine-government-s-forces-will-resume-offensive-operations-against-pro-russian-r.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Ukrainian forces struck at pro-Russian separatist bases in eastern regions with 
 3. [Former Secretary General of NATO Anders Fogh Rasmussen is named an advisor for Ukrainian President Petro Poroshenko, a move described by a Russian deputy chairman of the Foreign Affairs Committee as a "hostile gesture". ](/news/2016/05/28/former-secretary-general-of-nato-anders-fogh-rasmussen-is-named-an-advisor-for-ukrainian-president-petro-poroshenko-a-move-described-by-a-r.md) _Context: Petro Poroshenko, Ukrainian President_
 4. [Ukrainian President Petro Poroshenko signs legislation banning all Russian films made after January 1, 2014. The legislation also bans movies produced by Russia after 1991 if they "glorify the work of government bodies" of Russia, citing such movies to be a threat to national security. ](/news/2016/04/21/ukrainian-president-petro-poroshenko-signs-legislation-banning-all-russian-films-made-after-january-1-2014-the-legislation-also-bans-movie.md) _Context: Petro Poroshenko, Ukrainian President_
 5. [The President of Ukraine Petro Poroshenko claims that his forces have repelled an attack on the town of Marinka and captured 12 rebels including one Russian. ](/news/2015/06/6/the-president-of-ukraine-petro-poroshenko-claims-that-his-forces-have-repelled-an-attack-on-the-town-of-marinka-and-captured-12-rebels-inclu.md) _Context: Petro Poroshenko, Ukrainian President_
-
-### Changes:
-
-1. [2014 pro-Russian conflict in Ukraine: The President of Ukraine Petro Poroshenko states that the Ukraine government's forces will resume offensive operations against pro-Russian rebels. ](/news/2014/07/1/2014-pro-russian-conflict-in-ukraine-the-president-of-ukraine-petro-poroshenko-states-that-the-ukraine-government-s-forces-will-resume-offe.md) _2017-08-27 03:40:55 (First version)_
-1. [The President of Ukraine Petro Poroshenko states that the Ukraine government's forces will resume offensive operations against pro-Russian rebels. ](/news/2014/07/1/the-president-of-ukraine-petro-poroshenko-states-that-the-ukraine-government-s-forces-will-resume-offensive-operations-against-pro-russian-r.md) _(Current version)_

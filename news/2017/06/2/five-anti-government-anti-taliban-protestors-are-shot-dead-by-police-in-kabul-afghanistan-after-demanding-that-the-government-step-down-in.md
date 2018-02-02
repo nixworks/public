@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/2/five-anti-government-anti-taliban-protestors-are
 
 ### [2017-06-2](/news/2017/06/2/index.md)
 
+##### War in Afghanistan (2015-present)
 # Five anti-government-anti-Taliban protestors are shot dead by police in Kabul, Afghanistan, after demanding that the government step down in the wake of the May 2017 Kabul attack. 
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/5/sears-holdings-announces-that-108-kmart-and-42-s
 
 ### [2017-01-5](/news/2017/01/5/index.md)
 
+##### Sears Holdings
 # Sears Holdings announces that 108 Kmart and 42 Sears stores will close in the United States in 2017, affecting retailers in 40 states. The company also announced it is selling its trademark Craftsman tool brand to Stanley Black & Decker for $900 million. 
 
 Sears Holdings Corp. agreed to sell its Craftsman tool brand to Stanley Black &amp; Decker Inc. for about $900 million, marking Chief Executive Officer Edward Lampert’s third move in the last two weeks to prop up the beleaguered retailer with fresh sources of funding.

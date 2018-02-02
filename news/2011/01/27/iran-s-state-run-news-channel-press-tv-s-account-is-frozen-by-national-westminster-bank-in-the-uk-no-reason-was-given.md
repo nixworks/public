@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/27/iran-s-state-run-news-channel-press-tv-s-account-is-frozen-by-national-westminster-bank-in-the-uk-no-reason-was-given.html)  [JSON](/news/2011/01/27/iran-s-state-run-news-channel-press-tv-s-account-is-frozen-by-national-westminster-bank-in-the-uk-no-reason-was-given.json)  [XML](/news/2011/01/27/iran-s-state-run-news-channel-press-tv-s-account-is-frozen-by-national-westminster-bank-in-the-uk-no-reason-was-given.xml)  
+
 ### [2011-01-27](/news/2011/01/27/index.md)
 
+##### Iranian state media
 # Iran's state-run news channel Press TV's account is frozen by National Westminster Bank in the UK; no reason was given. (
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g24PklvrgnE7HmfPis3uomNU_PYg?docId=CNG.32ed027d9136847068e1420850fb9209.fe1)
 2. [Zee News](http://www.zeenews.com/news683454.html)

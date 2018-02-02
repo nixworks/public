@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/19/italian-author-and-philosopher-umberto-eco-dies
 
 ### [2016-02-19](/news/2016/02/19/index.md)
 
+##### Umberto Eco
 # Italian author and philosopher Umberto Eco dies at the age of 84. 
 
 The Italian writer and philosopher Umberto Eco, best known for his 1980s novel The Name of the Rose, dies at the age of 84.
@@ -15,5 +16,5 @@ The Italian writer and philosopher Umberto Eco, best known for his 1980s novel T
 
 ### Changes:
 
-1. [American author Harper Lee dies at the age of 89. ](/news/2016/02/19/american-author-harper-lee-dies-at-the-age-of-89.md) _2017-10-17 03:51:51 (First version)_
+1. [American author Harper Lee dies at the age of 89. ](/news/2016/02/19/american-author-harper-lee-dies-at-the-age-of-89.md) _2017-12-03 22:30:11 (First version)_
 1. [Italian author and philosopher Umberto Eco dies at the age of 84. ](/news/2016/02/19/italian-author-and-philosopher-umberto-eco-dies-at-the-age-of-84.md) _(Current version)_

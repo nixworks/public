@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/27/several-people-are-injured-in-the-indian-state-of-jammu-and-kashmir-during-protests-marking-the-anniversary-of-the-arrival-of-indian-forces.html)  [JSON](/news/2010/10/27/several-people-are-injured-in-the-indian-state-of-jammu-and-kashmir-during-protests-marking-the-anniversary-of-the-arrival-of-indian-forces.json)  [XML](/news/2010/10/27/several-people-are-injured-in-the-indian-state-of-jammu-and-kashmir-during-protests-marking-the-anniversary-of-the-arrival-of-indian-forces.xml)  
+
 ### [2010-10-27](/news/2010/10/27/index.md)
 
+##### India
 # Several people are injured in the Indian state of Jammu and Kashmir during protests marking the anniversary of the arrival of Indian forces in the region in 1947. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ioLAeROu740XgOUuXZa4946z8OMA?docId=CNG.eaf403c0224b5d9bbaa8de46acfdce20.1e1)
 2. [Hindustan Times](http://www.hindustantimes.com/Nine-injured-in-Kashmir-clashes/Article1-618649.aspx)

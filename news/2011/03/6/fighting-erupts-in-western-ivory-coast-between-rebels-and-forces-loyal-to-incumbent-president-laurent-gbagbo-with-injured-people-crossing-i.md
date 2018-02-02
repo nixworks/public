@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/6/fighting-erupts-in-western-ivory-coast-between-rebels-and-forces-loyal-to-incumbent-president-laurent-gbagbo-with-injured-people-crossing-i.html)  [JSON](/news/2011/03/6/fighting-erupts-in-western-ivory-coast-between-rebels-and-forces-loyal-to-incumbent-president-laurent-gbagbo-with-injured-people-crossing-i.json)  [XML](/news/2011/03/6/fighting-erupts-in-western-ivory-coast-between-rebels-and-forces-loyal-to-incumbent-president-laurent-gbagbo-with-injured-people-crossing-i.xml)  
+
 ### [2011-03-6](/news/2011/03/6/index.md)
 
+##### Ivory Coast
 # Fighting erupts in western Ivory Coast between rebels and forces loyal to incumbent President Laurent Gbagbo, with injured people crossing into Liberia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE7250AQ20110306)
 

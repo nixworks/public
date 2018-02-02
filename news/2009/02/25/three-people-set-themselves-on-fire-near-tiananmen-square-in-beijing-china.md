@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/25/three-people-set-themselves-on-fire-near-tiananmen-square-in-beijing-china.html)  [JSON](/news/2009/02/25/three-people-set-themselves-on-fire-near-tiananmen-square-in-beijing-china.json)  [XML](/news/2009/02/25/three-people-set-themselves-on-fire-near-tiananmen-square-in-beijing-china.xml)  
+
 ### [2009-02-25](/news/2009/02/25/index.md)
 
+##### sets herself alight
 #  Three people set themselves on fire near Tiananmen Square in Beijing, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/7909569.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/17/tsunami-warnings-are-issued-for-the-pacific-reg
 
 ### [2016-12-17](/news/2016/12/17/index.md)
 
+##### Indonesia
 # Tsunami warnings are issued for the Pacific region, including Indonesia and the Solomon Islands, following a 7.9 magnitude earthquake east of Papua New Guinea. The Pacific Tsunami Warning Center later reports the threat has largely passed. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/5/the-governor-of-the-us-state-of-alabama-robert-bentley-orders-flags-on-state-government-buildings-to-fly-at-half-mast-following-the-death.html)  [JSON](/news/2011/10/5/the-governor-of-the-us-state-of-alabama-robert-bentley-orders-flags-on-state-government-buildings-to-fly-at-half-mast-following-the-death.json)  [XML](/news/2011/10/5/the-governor-of-the-us-state-of-alabama-robert-bentley-orders-flags-on-state-government-buildings-to-fly-at-half-mast-following-the-death.xml)  
+
 ### [2011-10-5](/news/2011/10/5/index.md)
 
+##### Governor of Alabama
 # The Governor of the US state of Alabama, Robert Bentley, orders flags on state government buildings to fly at half-mast following the death of civil rights leader Fred Shuttlesworth. 
 
 The governor called him &quot;a true pioneer for civil rights&quot; and &quot;an Alabama treasure.&quot; 
 
 
-### Source:
+### Sources:
 
 1. [Birmingham News](http://blog.al.com/spotnews/2011/10/alabama_gov_robert_bentley_ord.html)
 1. [Cover Image](//static-stage.advance.net/static/bama/static/img/logos/logo_fb.jpg)

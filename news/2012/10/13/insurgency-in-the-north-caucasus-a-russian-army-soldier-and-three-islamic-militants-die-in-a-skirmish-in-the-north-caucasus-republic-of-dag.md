@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/13/insurgency-in-the-north-caucasus-a-russian-army-soldier-and-three-islamic-militants-die-in-a-skirmish-in-the-north-caucasus-republic-of-dag.html)  [JSON](/news/2012/10/13/insurgency-in-the-north-caucasus-a-russian-army-soldier-and-three-islamic-militants-die-in-a-skirmish-in-the-north-caucasus-republic-of-dag.json)  [XML](/news/2012/10/13/insurgency-in-the-north-caucasus-a-russian-army-soldier-and-three-islamic-militants-die-in-a-skirmish-in-the-north-caucasus-republic-of-dag.xml)  
+
 ### [2012-10-13](/news/2012/10/13/index.md)
 
+##### Insurgency in the North Caucasus
 # Insurgency in the North Caucasus: A Russian army soldier and three Islamic militants die in a skirmish in the North Caucasus republic of Dagestan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA](http://en.ria.ru/russia/20121013/176605738.html)
 

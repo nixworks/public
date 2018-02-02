@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/31/u-s-republican-presidential-nominee-donald-trum
 
 ### [2016-08-31](/news/2016/08/31/index.md)
 
+##### Mexico-United States relations
 # U.S. Republican presidential nominee Donald Trump meets with Mexican President Enrique Pena Nieto in Mexico City after accepting an invitation from him. 
 
 

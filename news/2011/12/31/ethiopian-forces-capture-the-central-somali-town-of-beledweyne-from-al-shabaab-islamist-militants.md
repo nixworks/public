@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/31/ethiopian-forces-capture-the-central-somali-town-of-beledweyne-from-al-shabaab-islamist-militants.html)  [JSON](/news/2011/12/31/ethiopian-forces-capture-the-central-somali-town-of-beledweyne-from-al-shabaab-islamist-militants.json)  [XML](/news/2011/12/31/ethiopian-forces-capture-the-central-somali-town-of-beledweyne-from-al-shabaab-islamist-militants.xml)  
+
 ### [2011-12-31](/news/2011/12/31/index.md)
 
+##### Ethiopia
 # Ethiopian forces capture the central Somali town of Beledweyne from al-Shabaab Islamist militants. 
 
 Ethiopian forces capture the central Somali town of Beledweyne from Islamist militants of al-Shabab.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-16372453)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/56416000/jpg/_56416580_013178632-1.jpg)

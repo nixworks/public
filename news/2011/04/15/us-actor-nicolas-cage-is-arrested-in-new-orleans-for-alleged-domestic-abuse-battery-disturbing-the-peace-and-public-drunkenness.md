@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/15/us-actor-nicolas-cage-is-arrested-in-new-orleans-for-alleged-domestic-abuse-battery-disturbing-the-peace-and-public-drunkenness.html)  [JSON](/news/2011/04/15/us-actor-nicolas-cage-is-arrested-in-new-orleans-for-alleged-domestic-abuse-battery-disturbing-the-peace-and-public-drunkenness.json)  [XML](/news/2011/04/15/us-actor-nicolas-cage-is-arrested-in-new-orleans-for-alleged-domestic-abuse-battery-disturbing-the-peace-and-public-drunkenness.xml)  
+
 ### [2011-04-15](/news/2011/04/15/index.md)
 
+##### Nicolas Cage
 # US actor Nicolas Cage is arrested in New Orleans for alleged domestic abuse battery, disturbing the peace and public drunkenness. 
 
 Actor Nicolas Cage was freed from jail Saturday after an alleged drunken incident on a New Orleans street the night before got him arrested, city police said.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Entertainment_News/2011/04/17/Nicolas-Cage-arrested-in-New-Orleans/UPI-95581303021317/#ixzz1JlIDNDqe)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/i/95581303021317/2011/1/13030464765542/v2.1/Nicolas-Cage-arrested-in-New-Orleans.jpg)

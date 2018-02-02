@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/20/residents-of-greer-a-small-town-in-the-u-s-state-of-arizona-are-allowed-to-return-home-after-the-wallow-fire-is-slowly-brought-under-cont.html)  [JSON](/news/2011/06/20/residents-of-greer-a-small-town-in-the-u-s-state-of-arizona-are-allowed-to-return-home-after-the-wallow-fire-is-slowly-brought-under-cont.json)  [XML](/news/2011/06/20/residents-of-greer-a-small-town-in-the-u-s-state-of-arizona-are-allowed-to-return-home-after-the-wallow-fire-is-slowly-brought-under-cont.xml)  
+
 ### [2011-06-20](/news/2011/06/20/index.md)
 
+##### Greer
 # Residents of Greer, a small town in the U.S. state of Arizona, are allowed to return home after the Wallow Fire is slowly brought under control. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Arizona](http://www.abc15.com/dpp/news/region_northern_az/other/greer-residents-to-return-home-following-wildfire-evacuations)
 

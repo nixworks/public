@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/23/the-uk-tourist-resort-of-blackpool-is-expected-to-benefit-tens-of-millions-of-pounds-described-by-the-tourism-chief-as-unthinkable-fol.html)  [JSON](/news/2010/05/23/the-uk-tourist-resort-of-blackpool-is-expected-to-benefit-tens-of-millions-of-pounds-described-by-the-tourism-chief-as-unthinkable-fol.json)  [XML](/news/2010/05/23/the-uk-tourist-resort-of-blackpool-is-expected-to-benefit-tens-of-millions-of-pounds-described-by-the-tourism-chief-as-unthinkable-fol.xml)  
+
 ### [2010-05-23](/news/2010/05/23/index.md)
 
+##### Blackpool
 # The UK tourist resort of Blackpool is expected to benefit "tens of millions" of pounds, described by the tourism chief as "unthinkable", following the local football club's elevation to the Premier League as an open-top bus tour is announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/lancashire/8699263.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/4/malta-arrests-10-people-over-the-investigative-j
 
 ### [2017-12-4](/news/2017/12/4/index.md)
 
+##### Daphne Caruana Galizia
 # Malta arrests 10 people over the investigative journalist's murder on October 16. 
 
 

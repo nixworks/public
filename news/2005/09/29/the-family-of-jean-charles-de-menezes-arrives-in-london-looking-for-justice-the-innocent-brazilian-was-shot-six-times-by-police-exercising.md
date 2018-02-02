@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/29/the-family-of-jean-charles-de-menezes-arrives-in-london-looking-for-justice-the-innocent-brazilian-was-shot-six-times-by-police-exercising.html)  [JSON](/news/2005/09/29/the-family-of-jean-charles-de-menezes-arrives-in-london-looking-for-justice-the-innocent-brazilian-was-shot-six-times-by-police-exercising.json)  [XML](/news/2005/09/29/the-family-of-jean-charles-de-menezes-arrives-in-london-looking-for-justice-the-innocent-brazilian-was-shot-six-times-by-police-exercising.xml)  
+
 ### [2005-09-29](/news/2005/09/29/index.md)
 
+##### Jean Charles de Menezes
 #  The family of Jean Charles de Menezes arrives in London looking for justice. The innocent Brazilian was shot six times by police exercising a shoot-to-kill policy. Metropolitan Police Commissioner Ian Blair has offered his personal apology for the killing, but this has been rejected by the family. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://www.timesonline.co.uk/article/0,,22989-1799778,00.html)
 1. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)

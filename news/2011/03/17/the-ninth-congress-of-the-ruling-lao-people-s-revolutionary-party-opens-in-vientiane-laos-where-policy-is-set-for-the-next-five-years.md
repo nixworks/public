@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/17/the-ninth-congress-of-the-ruling-lao-people-s-revolutionary-party-opens-in-vientiane-laos-where-policy-is-set-for-the-next-five-years.html)  [JSON](/news/2011/03/17/the-ninth-congress-of-the-ruling-lao-people-s-revolutionary-party-opens-in-vientiane-laos-where-policy-is-set-for-the-next-five-years.json)  [XML](/news/2011/03/17/the-ninth-congress-of-the-ruling-lao-people-s-revolutionary-party-opens-in-vientiane-laos-where-policy-is-set-for-the-next-five-years.xml)  
+
 ### [2011-03-17](/news/2011/03/17/index.md)
 
+##### Lao People's Revolutionary Party
 # The ninth congress of the ruling Lao People's Revolutionary Party opens in Vientiane, Laos, where policy is set for the next five years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Lao News Agency](http://www.kpl.net.la/english/news/edn1.htm)
 2. [The Straits Times](http://www.straitstimes.com/BreakingNews/SEAsia/Story/STIStory_646165.html)

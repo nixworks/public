@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/06/14/mohamed-elbaradei-director-general-of-the-international-atomic-energy-agency-accuses-iran-of-less-than-satisfactory-cooperation-during-t.html)  [JSON](/news/2004/06/14/mohamed-elbaradei-director-general-of-the-international-atomic-energy-agency-accuses-iran-of-less-than-satisfactory-cooperation-during-t.json)  [XML](/news/2004/06/14/mohamed-elbaradei-director-general-of-the-international-atomic-energy-agency-accuses-iran-of-less-than-satisfactory-cooperation-during-t.xml)  
+
 ### [2004-06-14](/news/2004/06/14/index.md)
 
+##### Mohamed ElBaradei
 #  Mohamed ElBaradei, Director General of the International Atomic Energy Agency accuses Iran of "less than satisfactory" cooperation during the IAEA's investigation of its nuclear program. ElBaradei demands "accelerated and proactive cooperation" from Iran, while Iran rejects further restrictions on nuclear programs. 
 
-Iran was accused of &#034;less than satisfactory&#034; cooperation with an investigation of its nuclear activities.
 
 
-### Source:
+
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3803757.stm)
-2. [NYT](http://www.nytimes.com/2004/06/14/international/middleeast/14CND-IRAN.html)
-2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+2. [NYT](https://www.nytimes.com/2004/06/14/international/middleeast/14CND-IRAN.html)
 
 ### Related:
 

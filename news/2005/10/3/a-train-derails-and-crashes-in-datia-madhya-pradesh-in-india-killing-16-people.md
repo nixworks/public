@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/3/a-train-derails-and-crashes-in-datia-madhya-pradesh-in-india-killing-16-people.html)  [JSON](/news/2005/10/3/a-train-derails-and-crashes-in-datia-madhya-pradesh-in-india-killing-16-people.json)  [XML](/news/2005/10/3/a-train-derails-and-crashes-in-datia-madhya-pradesh-in-india-killing-16-people.xml)  
+
 ### [2005-10-3](/news/2005/10/3/index.md)
 
+##### train
 #  A train derails and crashes in Datia, Madhya Pradesh in India, killing 16 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4303536.stm)
 

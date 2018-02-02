@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/25/russia-is-considering-arming-its-baltic-fleet-with-nuclear-warheads-for-the-first-time-since-the-cold-war.html)  [JSON](/news/2008/08/25/russia-is-considering-arming-its-baltic-fleet-with-nuclear-warheads-for-the-first-time-since-the-cold-war.json)  [XML](/news/2008/08/25/russia-is-considering-arming-its-baltic-fleet-with-nuclear-warheads-for-the-first-time-since-the-cold-war.xml)  
+
 ### [2008-08-25](/news/2008/08/25/index.md)
 
+##### Russia
 #  Russia is considering arming its Baltic Fleet with nuclear warheads for the first time since the Cold War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Alfa](http://www.alfa.lt/straipsnis/c85405)
 

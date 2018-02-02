@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/17/the-world-bank-approves-a-us-76-million-loan-for-mozambique.html)  [JSON](/news/2009/07/17/the-world-bank-approves-a-us-76-million-loan-for-mozambique.json)  [XML](/news/2009/07/17/the-world-bank-approves-a-us-76-million-loan-for-mozambique.xml)  
+
 ### [2009-07-17](/news/2009/07/17/index.md)
 
+##### World Bank
 #  The World Bank approves a US$76 million loan for Mozambique. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Africa](http://af.reuters.com/article/topNews/idAFJOE56G0IQ20090717)
 

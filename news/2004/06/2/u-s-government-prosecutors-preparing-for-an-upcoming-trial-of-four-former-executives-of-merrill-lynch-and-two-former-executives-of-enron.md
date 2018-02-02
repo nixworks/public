@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/06/2/u-s-government-prosecutors-preparing-for-an-upcoming-trial-of-four-former-executives-of-merrill-lynch-and-two-former-executives-of-enron.html)  [JSON](/news/2004/06/2/u-s-government-prosecutors-preparing-for-an-upcoming-trial-of-four-former-executives-of-merrill-lynch-and-two-former-executives-of-enron.json)  [XML](/news/2004/06/2/u-s-government-prosecutors-preparing-for-an-upcoming-trial-of-four-former-executives-of-merrill-lynch-and-two-former-executives-of-enron.xml)  
+
 ### [2004-06-2](/news/2004/06/2/index.md)
 
+##### Merrill Lynch
 #  U.S. government prosecutors, preparing for an upcoming trial of four former executives of Merrill Lynch and two former executives of Enron released a document that could prove helpful to the defense--indicating that the intent of the allegedly fraudulent transaction was, at the least, a bit equivocal. Trial begins Monday. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [NYT](http://www.nytimes.com/2004/06/04/business/04ENRON.html?th)
+1. [NYT](https://www.nytimes.com/2004/06/04/business/04ENRON.html?th)
 
 ### Related:
 

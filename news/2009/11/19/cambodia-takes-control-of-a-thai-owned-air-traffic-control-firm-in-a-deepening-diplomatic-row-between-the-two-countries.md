@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/19/cambodia-takes-control-of-a-thai-owned-air-traffic-control-firm-in-a-deepening-diplomatic-row-between-the-two-countries.html)  [JSON](/news/2009/11/19/cambodia-takes-control-of-a-thai-owned-air-traffic-control-firm-in-a-deepening-diplomatic-row-between-the-two-countries.json)  [XML](/news/2009/11/19/cambodia-takes-control-of-a-thai-owned-air-traffic-control-firm-in-a-deepening-diplomatic-row-between-the-two-countries.xml)  
+
 ### [2009-11-19](/news/2009/11/19/index.md)
 
+##### Cambodia
 #  Cambodia takes control of a Thai-owned air traffic control firm in a deepening diplomatic row between the two countries. 
 
 Thai nationals working for a Cambodian air traffic control firm were suspended after one of them was charged with spying, officials said.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8367650.stm)
 2. [Thai News Agency](http://enews.mcot.net/view.php?id=12864)

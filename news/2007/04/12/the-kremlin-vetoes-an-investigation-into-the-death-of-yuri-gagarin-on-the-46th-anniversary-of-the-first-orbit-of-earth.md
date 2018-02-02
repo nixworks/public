@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/12/the-kremlin-vetoes-an-investigation-into-the-death-of-yuri-gagarin-on-the-46th-anniversary-of-the-first-orbit-of-earth.html)  [JSON](/news/2007/04/12/the-kremlin-vetoes-an-investigation-into-the-death-of-yuri-gagarin-on-the-46th-anniversary-of-the-first-orbit-of-earth.json)  [XML](/news/2007/04/12/the-kremlin-vetoes-an-investigation-into-the-death-of-yuri-gagarin-on-the-46th-anniversary-of-the-first-orbit-of-earth.xml)  
+
 ### [2007-04-12](/news/2007/04/12/index.md)
 
+##### Kremlin
 #  The Kremlin vetoes an investigation into the death of Yuri Gagarin on the 46th anniversary of the first orbit of Earth. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Belfast Telegraph](http://www.belfasttelegraph.co.uk/news/world-news/article2442171.ece)
 2. [MOSNEWS](http://www.mosnews.com/news/2007/04/12/gagarininjuiry.shtml)

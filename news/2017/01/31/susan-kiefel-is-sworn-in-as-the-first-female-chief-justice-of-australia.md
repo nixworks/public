@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/31/susan-kiefel-is-sworn-in-as-the-first-female-ch
 
 ### [2017-01-31](/news/2017/01/31/index.md)
 
+##### Susan Kiefel
 # Susan Kiefel is sworn in as the first female Chief Justice of Australia. 
 
 Susan Kiefel is sworn in as Chief Justice of the High Court.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/18/at-least-160-people-are-reported-dead-in-floods-and-landslides-following-days-of-heavy-rain-in-northern-india-and-nepal.html)  [JSON](/news/2014/08/18/at-least-160-people-are-reported-dead-in-floods-and-landslides-following-days-of-heavy-rain-in-northern-india-and-nepal.json)  [XML](/news/2014/08/18/at-least-160-people-are-reported-dead-in-floods-and-landslides-following-days-of-heavy-rain-in-northern-india-and-nepal.xml)  
+
 ### [2014-08-18](/news/2014/08/18/index.md)
 
+##### India
 # At least 160 people are reported dead in floods and landslides following days of heavy rain in northern India and Nepal. 
 
 At least 160 people are reported to have been killed in floods and landslides following days of torrential rain in Nepal and northern India.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-28832474#)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/77002000/jpg/_77002751_77002750.jpg)

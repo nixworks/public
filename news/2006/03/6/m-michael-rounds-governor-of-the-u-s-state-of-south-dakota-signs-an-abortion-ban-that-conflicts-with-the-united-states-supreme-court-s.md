@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/6/m-michael-rounds-governor-of-the-u-s-state-of-south-dakota-signs-an-abortion-ban-that-conflicts-with-the-united-states-supreme-court-s.html)  [JSON](/news/2006/03/6/m-michael-rounds-governor-of-the-u-s-state-of-south-dakota-signs-an-abortion-ban-that-conflicts-with-the-united-states-supreme-court-s.json)  [XML](/news/2006/03/6/m-michael-rounds-governor-of-the-u-s-state-of-south-dakota-signs-an-abortion-ban-that-conflicts-with-the-united-states-supreme-court-s.xml)  
+
 ### [2006-03-6](/news/2006/03/6/index.md)
 
+##### Mike Rounds
 #  M. Michael Rounds, governor of the U.S. State of South Dakota, signs an abortion ban that conflicts with the United States Supreme Court's landmark 1973 "Roe v. Wade" decision. 
 
 Gov. Mike Rounds signed a bill Monday banning almost all abortions in South Dakota, a move designed to directly challenge Roe v. Wade.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/11699703)
 1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Photos/060306/060306_rounds_hsml_12p.standard.jpg)

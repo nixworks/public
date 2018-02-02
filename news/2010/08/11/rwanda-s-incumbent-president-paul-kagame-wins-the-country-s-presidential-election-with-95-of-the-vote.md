@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/11/rwanda-s-incumbent-president-paul-kagame-wins-the-country-s-presidential-election-with-95-of-the-vote.html)  [JSON](/news/2010/08/11/rwanda-s-incumbent-president-paul-kagame-wins-the-country-s-presidential-election-with-95-of-the-vote.json)  [XML](/news/2010/08/11/rwanda-s-incumbent-president-paul-kagame-wins-the-country-s-presidential-election-with-95-of-the-vote.xml)  
+
 ### [2010-08-11](/news/2010/08/11/index.md)
 
+##### Rwanda
 # Rwanda's incumbent President Paul Kagame wins the country's presidential election with 95% of the vote. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jCbGUJcKQz7eP_rmuc6uIGsCkG2g)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10935892)

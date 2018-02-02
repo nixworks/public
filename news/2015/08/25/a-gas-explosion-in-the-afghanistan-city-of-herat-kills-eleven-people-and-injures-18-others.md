@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/25/a-gas-explosion-in-the-afghanistan-city-of-herat-kills-eleven-people-and-injures-18-others.html)  [JSON](/news/2015/08/25/a-gas-explosion-in-the-afghanistan-city-of-herat-kills-eleven-people-and-injures-18-others.json)  [XML](/news/2015/08/25/a-gas-explosion-in-the-afghanistan-city-of-herat-kills-eleven-people-and-injures-18-others.xml)  
+
 ### [2015-08-25](/news/2015/08/25/index.md)
 
+##### Afghanistan
 # A gas explosion in the Afghanistan city of Herat kills eleven people and injures 18 others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Ahram](http://english.ahram.org.eg/News/138790.aspx)
 

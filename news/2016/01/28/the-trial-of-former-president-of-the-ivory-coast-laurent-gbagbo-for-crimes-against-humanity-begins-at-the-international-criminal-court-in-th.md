@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/28/the-trial-of-former-president-of-the-ivory-coas
 
 ### [2016-01-28](/news/2016/01/28/index.md)
 
+##### President of the Ivory Coast
 # The trial of former President of the Ivory Coast Laurent Gbagbo for crimes against humanity begins at the International Criminal Court in The Hague. 
 
 Ivory Coast ex-President Laurent Gbagbo denies charges of crimes against humanity, as his landmark trial opens in The Hague.

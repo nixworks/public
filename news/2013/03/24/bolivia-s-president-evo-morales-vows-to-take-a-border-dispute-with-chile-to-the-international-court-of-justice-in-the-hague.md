@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/24/bolivia-s-president-evo-morales-vows-to-take-a-border-dispute-with-chile-to-the-international-court-of-justice-in-the-hague.html)  [JSON](/news/2013/03/24/bolivia-s-president-evo-morales-vows-to-take-a-border-dispute-with-chile-to-the-international-court-of-justice-in-the-hague.json)  [XML](/news/2013/03/24/bolivia-s-president-evo-morales-vows-to-take-a-border-dispute-with-chile-to-the-international-court-of-justice-in-the-hague.xml)  
+
 ### [2013-03-24](/news/2013/03/24/index.md)
 
+##### Bolivia
 # Bolivia's President Evo Morales vows to take a border dispute with Chile to the International Court of Justice in The Hague. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via GlobalPost](http://www.globalpost.com/dispatch/news/afp/130323/bolivia-vows-take-chile-border-dispute-hague)
 

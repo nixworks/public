@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/10/1/incumbent-president-of-zambia-levy-mwanawasa-is-in-the-lead-in-early-results-in-the-presidential-election-according-to-the-electoral-commi.html)  [JSON](/news/2006/10/1/incumbent-president-of-zambia-levy-mwanawasa-is-in-the-lead-in-early-results-in-the-presidential-election-according-to-the-electoral-commi.json)  [XML](/news/2006/10/1/incumbent-president-of-zambia-levy-mwanawasa-is-in-the-lead-in-early-results-in-the-presidential-election-according-to-the-electoral-commi.xml)  
+
 ### [2006-10-1](/news/2006/10/1/index.md)
 
+##### President
 #  Incumbent President of Zambia Levy Mwanawasa is in the lead in early results in the Presidential election, according to the Electoral Commission of Zambia.
 
 

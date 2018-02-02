@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/12/maryland-state-elections-officials-decertify-th
 
 ### [2016-05-12](/news/2016/05/12/index.md)
 
+##### Baltimore, Maryland, primary election, 2016
 # Maryland state elections officials decertify the results of Baltimore's April 26, 2016, primary election because, for example, the number of ballots cast was hundreds more than the number of voters who checked in at polling places. 
 
 State elections administrator says the number of ballots cast was hundreds more than the number of voters who checked in at polling places.

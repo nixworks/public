@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/10/war-on-terrorism-kuala-lumpur-malaysia-will-amend-its-penal-code-to-punish-not-just-terrorists-but-also-those-who-provide-financial-servi.html)  [JSON](/news/2003/09/10/war-on-terrorism-kuala-lumpur-malaysia-will-amend-its-penal-code-to-punish-not-just-terrorists-but-also-those-who-provide-financial-servi.json)  [XML](/news/2003/09/10/war-on-terrorism-kuala-lumpur-malaysia-will-amend-its-penal-code-to-punish-not-just-terrorists-but-also-those-who-provide-financial-servi.xml)  
+
 ### [2003-09-10](/news/2003/09/10/index.md)
 
+##### War on Terrorism
 #  War on Terrorism: Kuala Lumpur: Malaysia will amend its Penal Code to punish not just terrorists but also those who provide financial services or facilities to them. Changes will penalize those who help terrorists.
 
 

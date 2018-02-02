@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/25/five-indian-paramilitary-soldiers-are-killed-an
 
 ### [2016-06-25](/news/2016/06/25/index.md)
 
+##### Insurgency in Jammu and Kashmir
 # Five Indian paramilitary soldiers are killed and another 20 injured when suspected rebels ambush their convoy in the outskirts of Srinagar in the Indian portion of Kashmir. Two of the attackers are killed by return fire; the others escape. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

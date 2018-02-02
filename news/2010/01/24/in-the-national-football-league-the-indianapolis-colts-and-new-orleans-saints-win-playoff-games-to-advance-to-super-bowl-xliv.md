@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/01/24/in-the-national-football-league-the-indianapolis-colts-and-new-orleans-saints-win-playoff-games-to-advance-to-super-bowl-xliv.html)  [JSON](/news/2010/01/24/in-the-national-football-league-the-indianapolis-colts-and-new-orleans-saints-win-playoff-games-to-advance-to-super-bowl-xliv.json)  [XML](/news/2010/01/24/in-the-national-football-league-the-indianapolis-colts-and-new-orleans-saints-win-playoff-games-to-advance-to-super-bowl-xliv.xml)  
+
 ### [2010-01-24](/news/2010/01/24/index.md)
 
+##### National Football League
 # In the National Football League, the Indianapolis Colts and New Orleans Saints win playoff games to advance to Super Bowl XLIV. 
 
+All the latest Sports News, Scores, Fantasy Games.
 
 
+### Sources:
 
-### Source:
-
-1. [AP](http://sports.yahoo.com/nfl/recap;_ylt=AtZcjnVLtI9S6789X1vyq8w5nYcB?gid=20100124018&prov=ap)
+1. [AP](https://sports.yahoo.com/nfl/recap;_ylt=AtZcjnVLtI9S6789X1vyq8w5nYcB?gid=20100124018&prov=ap)
 
 ### Related:
 

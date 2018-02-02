@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/27/the-people-s-armed-forces-invade-madagascar-s-constitutional-court.html)  [JSON](/news/2009/04/27/the-people-s-armed-forces-invade-madagascar-s-constitutional-court.json)  [XML](/news/2009/04/27/the-people-s-armed-forces-invade-madagascar-s-constitutional-court.xml)  
+
 ### [2009-04-27](/news/2009/04/27/index.md)
 
+##### Madagascan Army
 #  The People's Armed Forces invade Madagascar's constitutional court. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8021362.stm)
 

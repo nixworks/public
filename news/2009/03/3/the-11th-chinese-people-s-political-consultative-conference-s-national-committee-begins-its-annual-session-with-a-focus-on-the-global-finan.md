@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/3/the-11th-chinese-people-s-political-consultative-conference-s-national-committee-begins-its-annual-session-with-a-focus-on-the-global-finan.html)  [JSON](/news/2009/03/3/the-11th-chinese-people-s-political-consultative-conference-s-national-committee-begins-its-annual-session-with-a-focus-on-the-global-finan.json)  [XML](/news/2009/03/3/the-11th-chinese-people-s-political-consultative-conference-s-national-committee-begins-its-annual-session-with-a-focus-on-the-global-finan.xml)  
+
 ### [2009-03-3](/news/2009/03/3/index.md)
 
+##### Chinese People's Political Consultative Conference
 #  The 11th Chinese People's Political Consultative Conference's National Committee begins its annual session with a focus on the global financial crisis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua News](http://news.xinhuanet.com/english/2009-03/02/content_10930801.htm)
 

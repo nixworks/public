@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/1/the-head-of-brazil-s-aids-program-pedro-chequer-says-the-government-will-violate-patents-on-anti-aids-drugs-by-copying-them-citing-unsust.html)  [JSON](/news/2004/12/1/the-head-of-brazil-s-aids-program-pedro-chequer-says-the-government-will-violate-patents-on-anti-aids-drugs-by-copying-them-citing-unsust.json)  [XML](/news/2004/12/1/the-head-of-brazil-s-aids-program-pedro-chequer-says-the-government-will-violate-patents-on-anti-aids-drugs-by-copying-them-citing-unsust.xml)  
+
 ### [2004-12-1](/news/2004/12/1/index.md)
 
+##### AIDS
 # The head of Brazil's AIDS program, Pedro Chequer, says the government will violate patents on anti-AIDS drugs by copying them, citing unsustainable increases in cost. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/health/4059147.stm)
 

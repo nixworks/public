@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/23/ford-motor-company-announces-plans-to-close-14-plants-and-cut-up-to-30-000-jobs-25-of-its-workforce-by-2012.html)  [JSON](/news/2006/01/23/ford-motor-company-announces-plans-to-close-14-plants-and-cut-up-to-30-000-jobs-25-of-its-workforce-by-2012.json)  [XML](/news/2006/01/23/ford-motor-company-announces-plans-to-close-14-plants-and-cut-up-to-30-000-jobs-25-of-its-workforce-by-2012.xml)  
+
 ### [2006-01-23](/news/2006/01/23/index.md)
 
+##### Ford Motor Company
 #  Ford Motor Company announces plans to close 14 plants and cut up to 30,000 jobs (25% of its workforce) by 2012. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Detroit News](http://www.detnews.com/apps/pbcs.dll/article?AID=/20060123/AUTO01/601230407)
 

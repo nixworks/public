@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/3/farhan-jeemis-abdulle-a-somali-journalist-and-well-known-local-reporter-for-radio-daljir-is-shot-and-killed-by-an-unidentified-gunman-in-ga.html)  [JSON](/news/2012/05/3/farhan-jeemis-abdulle-a-somali-journalist-and-well-known-local-reporter-for-radio-daljir-is-shot-and-killed-by-an-unidentified-gunman-in-ga.json)  [XML](/news/2012/05/3/farhan-jeemis-abdulle-a-somali-journalist-and-well-known-local-reporter-for-radio-daljir-is-shot-and-killed-by-an-unidentified-gunman-in-ga.xml)  
+
 ### [2012-05-3](/news/2012/05/3/index.md)
 
+##### Galkayo
 # Farhan Jeemis Abdulle, a Somali journalist and well-known local reporter for Radio Daljir is shot and killed by an unidentified gunman in Galkayo while walking to his home district of Garsor. Puntland authorities arrived on scene to investigate the killing but no arrests have been made. Abdulle is the fifth journalist to be murdered in Somalia this year, and the second in Galkayo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Shabelle Media Network](http://shabelle.net/2012/05/03/gunmen-kill-a-somali-journalist-in-galkayo-town/)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/06/12/mudslides-and-floods-kill-nearly-130-in-bangladesh-rescuers-find-20-more-bodies-buried-under-mud-in-chittagong-bringing-the-total-number.html)  [JSON](/news/2007/06/12/mudslides-and-floods-kill-nearly-130-in-bangladesh-rescuers-find-20-more-bodies-buried-under-mud-in-chittagong-bringing-the-total-number.json)  [XML](/news/2007/06/12/mudslides-and-floods-kill-nearly-130-in-bangladesh-rescuers-find-20-more-bodies-buried-under-mud-in-chittagong-bringing-the-total-number.xml)  
+
 ### [2007-06-12](/news/2007/06/12/index.md)
 
+##### Mudslide
 #  Mudslides and floods kill nearly 130 in Bangladesh. Rescuers find 20 more bodies buried under mud in Chittagong, bringing the total number of flood-related deaths to nearly 130. 
 
 Rescuers found 20 more bodies buried under mud in the Bangladesh port city of Chittagong on Tuesday, officials and witnesses said, taking the total number of flood-related deaths to nearly 130. &quot;So far, at least 102 bodies have been recovered from dozens of homes buried under tonnes of mud following the landslides on Monday,&quot; a rescuer told Reuters by telephone. &quot;The deeper we dig down, there are more corpses.&quot; Disaster management officials said they feared the death toll would climb as a search by troops, firefighters, police and volunteers intensified after the rains eased on Tuesday morning and the water started receding. But heavy rain struck again in the afternoon. &quot;We cannot say when this rescue will end,&quot; a rescuer said. &quot;At the moment it looks unlikely that nature will smile on us soon.&quot; Nearly 10,000 people have so far been evacuated to some 200 shelters in Chittagong, a city of nearly five million. &quot;God is always unkind to us,&quot; said a man at a camp. &quot;We had shifted to the hills in Chittagong from far away places after rivers had swallowed our homes and land,&quot; said Mashiur Rahman, a father of five. &quot;But we are on the run again.&quot; Another two women were buried alive in a landslide in Bandarban hill district, southeast of Chittagong, on Tuesday. A further 10 people were killed by lightning across the country on Tuesday, officials said. Authorities in Chittagong said the flooding was so extensive that survivors were having difficulty finding dry ground to bury the dead, officials said. &quot;(It) looks like a sea of mud as I move around places with strings of homes buried under heaps of clay and debris,&quot; said an army officer helping the rescue operation. Officials and rescuers blamed the landslides partly on residents clearing trees and other vegetation to build homes despite warnings by environmental experts. Fakhruddin Ahmed, head of the army-backed interim government, visited the disaster hit areas and vowed to take action against those responsible for clearing the hills. Road traffic in Chittagong was still severely disrupted, but train services and flights to and from the city have resumed, officials said. Port operations also partially resumed. Rivers burst their banks in other parts of the country. &quot;Nearly one million people living on river islands and in low lying areas have already been marooned in northern and eastern regions of the country,&quot; an official of the disaster management ministry said. Meteorologists said the rains could last for a few more days. (Additional reporting by Nizam Ahmed, Nazimuddin Shyamol and Nurul Islam)
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/homepageCrisis/idUSSP1987._CH_.2400)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20070612&t=2&i=946114&w=&fh=545px&fw=&ll=&pl=&sq=&r=946114)
+1. [Reuters](https://www.reuters.com/article/homepageCrisis/idUSSP1987._CH_.2400)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20070612&t=2&i=946114&w=&fh=545px&fw=&ll=&pl=&sq=&r=946114)
 
 ### Related:
 

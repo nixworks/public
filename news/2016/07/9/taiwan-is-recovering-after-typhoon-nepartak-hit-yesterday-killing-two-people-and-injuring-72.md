@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/9/taiwan-is-recovering-after-typhoon-nepartak-hit-
 
 ### [2016-07-9](/news/2016/07/9/index.md)
 
+##### Typhoon Nepartak (2016)
 # Taiwan is recovering after Typhoon Nepartak hit yesterday killing two people and injuring 72. 
 
 Power is being restored in parts of Taiwan after a powerful typhoon slammed into the island&#039;s eastern coast with ferocious winds and torrential rains, killing two people and injuring 72.

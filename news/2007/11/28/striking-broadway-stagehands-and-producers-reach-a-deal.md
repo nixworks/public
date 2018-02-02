@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/28/striking-broadway-stagehands-and-producers-reach-a-deal.html)  [JSON](/news/2007/11/28/striking-broadway-stagehands-and-producers-reach-a-deal.json)  [XML](/news/2007/11/28/striking-broadway-stagehands-and-producers-reach-a-deal.xml)  
+
 ### [2007-11-28](/news/2007/11/28/index.md)
 
+##### Broadway
 #  Striking Broadway stagehands and producers reach a deal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WABC](http://rds.yahoo.com/_ylt=A0WTTkvkN05HXCkAvhDQtDMD;_ylu=X3oDMTBjZGM1ZGE1BHBvcwM1BHNlYwNzcg--/SIG=12q7cf2ap/EXP=1196394852/**http%3a//abclocal.go.com/wabc/story%3fsection=entertainment%26id=5790928)
 

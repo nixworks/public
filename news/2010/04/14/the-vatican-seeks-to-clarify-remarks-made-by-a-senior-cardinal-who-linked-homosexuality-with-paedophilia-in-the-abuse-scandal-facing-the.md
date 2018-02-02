@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/14/the-vatican-seeks-to-clarify-remarks-made-by-a-senior-cardinal-who-linked-homosexuality-with-paedophilia-in-the-abuse-scandal-facing-the.html)  [JSON](/news/2010/04/14/the-vatican-seeks-to-clarify-remarks-made-by-a-senior-cardinal-who-linked-homosexuality-with-paedophilia-in-the-abuse-scandal-facing-the.json)  [XML](/news/2010/04/14/the-vatican-seeks-to-clarify-remarks-made-by-a-senior-cardinal-who-linked-homosexuality-with-paedophilia-in-the-abuse-scandal-facing-the.xml)  
+
 ### [2010-04-14](/news/2010/04/14/index.md)
 
+##### Holy See
 # The Vatican seeks to "clarify" remarks made by a senior cardinal, who linked homosexuality with paedophilia in the abuse scandal facing the Church. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/europe/8620135.stm)
 

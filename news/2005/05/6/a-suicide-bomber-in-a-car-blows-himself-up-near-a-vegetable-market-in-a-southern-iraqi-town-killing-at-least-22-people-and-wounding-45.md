@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2005/05/6/a-suicide-bomber-in-a-car-blows-himself-up-near-a-vegetable-market-in-a-southern-iraqi-town-killing-at-least-22-people-and-wounding-45.html)  [JSON](/news/2005/05/6/a-suicide-bomber-in-a-car-blows-himself-up-near-a-vegetable-market-in-a-southern-iraqi-town-killing-at-least-22-people-and-wounding-45.json)  [XML](/news/2005/05/6/a-suicide-bomber-in-a-car-blows-himself-up-near-a-vegetable-market-in-a-southern-iraqi-town-killing-at-least-22-people-and-wounding-45.xml)  
+
 ### [2005-05-6](/news/2005/05/6/index.md)
 
+##### suicide bomber
 #  A suicide bomber in a car blows himself up near a vegetable market in a southern Iraqi town, killing at least 22 people and wounding 45. 
 
-Get the latest breaking news and top news headlines at Reuters.com
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8411641)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8411641)
 
 ### Related:
 

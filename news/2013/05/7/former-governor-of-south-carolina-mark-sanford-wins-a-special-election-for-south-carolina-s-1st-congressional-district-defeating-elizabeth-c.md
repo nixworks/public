@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/7/former-governor-of-south-carolina-mark-sanford-wins-a-special-election-for-south-carolina-s-1st-congressional-district-defeating-elizabeth-c.html)  [JSON](/news/2013/05/7/former-governor-of-south-carolina-mark-sanford-wins-a-special-election-for-south-carolina-s-1st-congressional-district-defeating-elizabeth-c.json)  [XML](/news/2013/05/7/former-governor-of-south-carolina-mark-sanford-wins-a-special-election-for-south-carolina-s-1st-congressional-district-defeating-elizabeth-c.xml)  
+
 ### [2013-05-7](/news/2013/05/7/index.md)
 
+##### South Carolina governor
 # Former Governor of South Carolina Mark Sanford wins a special election for South Carolina's 1st congressional district defeating Elizabeth Colbert Busch. 
 
 Updated 11:26pm ET
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://tv.msnbc.com/2013/05/07/mark-sanford-wins-south-carolina-race/)
 1. [Cover Image](http://www.msnbc.com/sites/msnbc/files/styles/ratio--1_91-1--1200x630/public/2013/05/aptopix_1st_district_sc_jpeg-0bf56.jpg?itok=uaOc395i)

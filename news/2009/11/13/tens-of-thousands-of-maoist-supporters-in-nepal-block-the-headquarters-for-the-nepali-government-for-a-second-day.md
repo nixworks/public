@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/13/tens-of-thousands-of-maoist-supporters-in-nepal-block-the-headquarters-for-the-nepali-government-for-a-second-day.html)  [JSON](/news/2009/11/13/tens-of-thousands-of-maoist-supporters-in-nepal-block-the-headquarters-for-the-nepali-government-for-a-second-day.json)  [XML](/news/2009/11/13/tens-of-thousands-of-maoist-supporters-in-nepal-block-the-headquarters-for-the-nepali-government-for-a-second-day.xml)  
+
 ### [2009-11-13](/news/2009/11/13/index.md)
 
+##### Maoist supporters
 #  Tens of thousands of Maoist supporters in Nepal block the headquarters for the Nepali government for a second day. 
 
 Maoist demonstrators blockade government offices in Kathmandu for second day.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iR4gZZbN7vn2vV08Q5EcZW5Sa4zQD9BUHMUG1)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/11/2009111383741301332.html)

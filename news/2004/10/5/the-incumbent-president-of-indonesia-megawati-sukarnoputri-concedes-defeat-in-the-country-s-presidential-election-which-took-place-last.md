@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/5/the-incumbent-president-of-indonesia-megawati-sukarnoputri-concedes-defeat-in-the-country-s-presidential-election-which-took-place-last.html)  [JSON](/news/2004/10/5/the-incumbent-president-of-indonesia-megawati-sukarnoputri-concedes-defeat-in-the-country-s-presidential-election-which-took-place-last.json)  [XML](/news/2004/10/5/the-incumbent-president-of-indonesia-megawati-sukarnoputri-concedes-defeat-in-the-country-s-presidential-election-which-took-place-last.xml)  
+
 ### [2004-10-5](/news/2004/10/5/index.md)
 
+##### President
 #  The incumbent President of Indonesia, Megawati Sukarnoputri, concedes defeat in the country's presidential election, which took place last week. Her successor, Susilo Bambang Yudhoyono, will be inaugurated on October 20. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NEWS.com.au](http://www.news.com.au/common/story_page/0,4057,10987679%255E401,00.html)
 

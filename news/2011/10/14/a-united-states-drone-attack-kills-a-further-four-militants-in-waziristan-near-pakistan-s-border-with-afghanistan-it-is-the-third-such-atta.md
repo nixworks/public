@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/14/a-united-states-drone-attack-kills-a-further-four-militants-in-waziristan-near-pakistan-s-border-with-afghanistan-it-is-the-third-such-atta.html)  [JSON](/news/2011/10/14/a-united-states-drone-attack-kills-a-further-four-militants-in-waziristan-near-pakistan-s-border-with-afghanistan-it-is-the-third-such-atta.json)  [XML](/news/2011/10/14/a-united-states-drone-attack-kills-a-further-four-militants-in-waziristan-near-pakistan-s-border-with-afghanistan-it-is-the-third-such-atta.xml)  
+
 ### [2011-10-14](/news/2011/10/14/index.md)
 
+##### drones launch
 # A United States drone attack kills a further four militants in Waziristan near Pakistan's border with Afghanistan; it is the third such attack in 48 hours. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5h7XHMVxDFqUdBdeVT59glN2PmC0w?docId=CNG.90819ee27cf4a010878467cfb74b4367.881)
 

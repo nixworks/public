@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/16/anti-fascist-protesters-in-the-center-of-riga-latvia-end-up-in-custody-after-trying-to-stop-the-annual-march-of-waffen-ss-veterans-and-yo.html)  [JSON](/news/2005/03/16/anti-fascist-protesters-in-the-center-of-riga-latvia-end-up-in-custody-after-trying-to-stop-the-annual-march-of-waffen-ss-veterans-and-yo.json)  [XML](/news/2005/03/16/anti-fascist-protesters-in-the-center-of-riga-latvia-end-up-in-custody-after-trying-to-stop-the-annual-march-of-waffen-ss-veterans-and-yo.xml)  
+
 ### [2005-03-16](/news/2005/03/16/index.md)
 
+##### Riga
 #  Anti-fascist protesters in the center of Riga, Latvia, end up in custody after trying to stop the annual march of Waffen-SS veterans and young radical nationalists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4353997.stm)
 

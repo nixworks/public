@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/28/the-united-states-coast-guard-plans-a-controlled-burn-to-remove-spilled-oil-in-the-aftermath-of-the-deepwater-horizon-disaster.html)  [JSON](/news/2010/04/28/the-united-states-coast-guard-plans-a-controlled-burn-to-remove-spilled-oil-in-the-aftermath-of-the-deepwater-horizon-disaster.json)  [XML](/news/2010/04/28/the-united-states-coast-guard-plans-a-controlled-burn-to-remove-spilled-oil-in-the-aftermath-of-the-deepwater-horizon-disaster.xml)  
+
 ### [2010-04-28](/news/2010/04/28/index.md)
 
+##### United States Coast Guard
 # The United States Coast Guard plans a controlled burn to remove spilled oil in the aftermath of the Deepwater Horizon disaster. 
 
 The U.S. Coast Guard said Wednesday it scheduled a controlled burn in the Gulf of Mexico to minimize environmental risks of an oil slick coming from the site of the sunken oil rig Deepwater Horizon as concern about the accident mounts.
 
 
-### Source:
+### Sources:
 
 1. [MarketWatch](http://www.marketwatch.com/story/coast-guard-to-burn-oil-spill-as-concerns-mount-2010-04-28?reflink=MW_news_stmp)
 1. [Cover Image](http://mw3.wsj.net/mw5/content/logos/mw_logo_social.png)

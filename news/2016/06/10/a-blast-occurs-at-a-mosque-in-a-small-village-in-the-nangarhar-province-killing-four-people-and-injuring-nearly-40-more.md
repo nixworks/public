@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/10/a-blast-occurs-at-a-mosque-in-a-small-village-i
 
 ### [2016-06-10](/news/2016/06/10/index.md)
 
+##### War in Afghanistan (2015-present)
 # A blast occurs at a mosque in a small village in the Nangarhar Province, killing four people and injuring nearly 40 more. 
 
 

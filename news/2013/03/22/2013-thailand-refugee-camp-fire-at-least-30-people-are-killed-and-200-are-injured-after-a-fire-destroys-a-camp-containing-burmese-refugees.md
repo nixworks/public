@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/03/22/2013-thailand-refugee-camp-fire-at-least-30-people-are-killed-and-200-are-injured-after-a-fire-destroys-a-camp-containing-burmese-refugees.html)  [JSON](/news/2013/03/22/2013-thailand-refugee-camp-fire-at-least-30-people-are-killed-and-200-are-injured-after-a-fire-destroys-a-camp-containing-burmese-refugees.json)  [XML](/news/2013/03/22/2013-thailand-refugee-camp-fire-at-least-30-people-are-killed-and-200-are-injured-after-a-fire-destroys-a-camp-containing-burmese-refugees.xml)  
+
 ### [2013-03-22](/news/2013/03/22/index.md)
 
+##### 2013 Thailand refugee camp fire
 # 2013 Thailand refugee camp fire: At least 30 people are killed and 200 are injured after a fire destroys a camp containing Burmese refugees near Ban Mae, Thailand. 
 
 About 30 people die in a fire at a camp housing Burmese refugees in northern Thailand, local officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-21902299)
-2. [The New York Times](http://www.nytimes.com/2013/03/23/world/asia/thailand-fire-at-refugee-camp.html)
+2. [The New York Times](https://www.nytimes.com/2013/03/23/world/asia/thailand-fire-at-refugee-camp.html)
 2. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/66559000/gif/_66559023_thailand_burma_maehongson_march13.gif)
 
 ### Related:

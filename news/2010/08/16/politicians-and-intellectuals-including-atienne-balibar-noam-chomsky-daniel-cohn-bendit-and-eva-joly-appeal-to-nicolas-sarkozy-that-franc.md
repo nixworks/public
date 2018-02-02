@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/16/politicians-and-intellectuals-including-atienne-balibar-noam-chomsky-daniel-cohn-bendit-and-eva-joly-appeal-to-nicolas-sarkozy-that-franc.html)  [JSON](/news/2010/08/16/politicians-and-intellectuals-including-atienne-balibar-noam-chomsky-daniel-cohn-bendit-and-eva-joly-appeal-to-nicolas-sarkozy-that-franc.json)  [XML](/news/2010/08/16/politicians-and-intellectuals-including-atienne-balibar-noam-chomsky-daniel-cohn-bendit-and-eva-joly-appeal-to-nicolas-sarkozy-that-franc.xml)  
+
 ### [2010-08-16](/news/2010/08/16/index.md)
 
+##### Etienne Balibar
 # Politicians and intellectuals including Etienne Balibar, Noam Chomsky, Daniel Cohn-Bendit and Eva Joly appeal to Nicolas Sarkozy that France repay EUR17 billion it took from Haiti in 1825 after the Haitian Revolution (1791-1804); they say the money is "morally, economically, and legally unassailable" in the aftermath of the January 2010 earthquake. 
 
 A group of intellectuals and politicians calls on France to repay 17bn euros (£14bn) &quot;extorted&quot; from Haiti in the 19th Century.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/08/201081614920360923.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-10988938)

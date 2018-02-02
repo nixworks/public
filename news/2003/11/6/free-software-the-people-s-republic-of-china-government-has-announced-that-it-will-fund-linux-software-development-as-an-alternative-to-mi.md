@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/6/free-software-the-people-s-republic-of-china-government-has-announced-that-it-will-fund-linux-software-development-as-an-alternative-to-mi.html)  [JSON](/news/2003/11/6/free-software-the-people-s-republic-of-china-government-has-announced-that-it-will-fund-linux-software-development-as-an-alternative-to-mi.json)  [XML](/news/2003/11/6/free-software-the-people-s-republic-of-china-government-has-announced-that-it-will-fund-linux-software-development-as-an-alternative-to-mi.xml)  
+
 ### [2003-11-6](/news/2003/11/6/index.md)
 
+##### Free
 #  Free software: The People's Republic of China government has announced that it will fund Linux software development as an alternative to Microsoft's Windows operating system.
 
 

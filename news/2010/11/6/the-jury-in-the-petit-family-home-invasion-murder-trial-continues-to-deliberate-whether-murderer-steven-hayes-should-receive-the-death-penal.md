@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/6/the-jury-in-the-petit-family-home-invasion-murder-trial-continues-to-deliberate-whether-murderer-steven-hayes-should-receive-the-death-penal.html)  [JSON](/news/2010/11/6/the-jury-in-the-petit-family-home-invasion-murder-trial-continues-to-deliberate-whether-murderer-steven-hayes-should-receive-the-death-penal.json)  [XML](/news/2010/11/6/the-jury-in-the-petit-family-home-invasion-murder-trial-continues-to-deliberate-whether-murderer-steven-hayes-should-receive-the-death-penal.xml)  
+
 ### [2010-11-6](/news/2010/11/6/index.md)
 
+##### Petit family home invasion
 # The jury in the Petit family home invasion murder trial continues to deliberate whether murderer Steven Hayes should receive the death penalty or life imprisonment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.cnn.com/2010/CRIME/11/06/connecticut.home.invasion.penalty/index.html?hpt=T2)
 

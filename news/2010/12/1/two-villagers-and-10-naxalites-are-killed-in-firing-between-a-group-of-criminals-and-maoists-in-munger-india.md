@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/1/two-villagers-and-10-naxalites-are-killed-in-firing-between-a-group-of-criminals-and-maoists-in-munger-india.html)  [JSON](/news/2010/12/1/two-villagers-and-10-naxalites-are-killed-in-firing-between-a-group-of-criminals-and-maoists-in-munger-india.json)  [XML](/news/2010/12/1/two-villagers-and-10-naxalites-are-killed-in-firing-between-a-group-of-criminals-and-maoists-in-munger-india.xml)  
+
 ### [2010-12-1](/news/2010/12/1/index.md)
 
+##### Naxalite
 # Two villagers and 10 Naxalites are killed in firing between a group of criminals and Maoists in Munger, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PTI](http://www.ptinews.com/news/1156756_12-killed-in-clash-between-naxalites-and-criminals-)
 

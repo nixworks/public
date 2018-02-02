@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/3/alinghi-beats-emirates-team-new-zealand-in-the-final-race-of-the-2007-america-s-cup-winning-the-regatta-5-2.html)  [JSON](/news/2007/07/3/alinghi-beats-emirates-team-new-zealand-in-the-final-race-of-the-2007-america-s-cup-winning-the-regatta-5-2.json)  [XML](/news/2007/07/3/alinghi-beats-emirates-team-new-zealand-in-the-final-race-of-the-2007-america-s-cup-winning-the-regatta-5-2.xml)  
+
 ### [2007-07-3](/news/2007/07/3/index.md)
 
+##### Alinghi
 #  Alinghi beats Emirates Team New Zealand in the final race of the 2007 America's Cup, winning the regatta 5-2. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NZ Herald](http://www.nzherald.co.nz/event/story.cfm?c_id=531&objectid=10449488)
 

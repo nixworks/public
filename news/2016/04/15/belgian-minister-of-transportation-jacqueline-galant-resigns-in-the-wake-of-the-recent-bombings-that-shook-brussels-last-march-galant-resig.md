@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/15/belgian-minister-of-transportation-jacqueline-g
 
 ### [2016-04-15](/news/2016/04/15/index.md)
 
+##### 2016 Brussels bombings
 # Belgian Minister of Transportation Jacqueline Galant resigns in the wake of the recent bombings that shook Brussels last March. Galant resigned amid accusations her ministry ignored EU criticism of security at Belgium's airports. 
 
 

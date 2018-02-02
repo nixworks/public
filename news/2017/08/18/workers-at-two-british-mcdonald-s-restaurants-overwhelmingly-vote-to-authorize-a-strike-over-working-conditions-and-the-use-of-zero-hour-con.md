@@ -1,11 +1,9 @@
 
-### Formats:
+Formats: [HTML](/news/2017/08/18/workers-at-two-british-mcdonald-s-restaurants-overwhelmingly-vote-to-authorize-a-strike-over-working-conditions-and-the-use-of-zero-hour-con.html)  [JSON](/news/2017/08/18/workers-at-two-british-mcdonald-s-restaurants-overwhelmingly-vote-to-authorize-a-strike-over-working-conditions-and-the-use-of-zero-hour-con.json)  [XML](/news/2017/08/18/workers-at-two-british-mcdonald-s-restaurants-overwhelmingly-vote-to-authorize-a-strike-over-working-conditions-and-the-use-of-zero-hour-con.xml)  
 
-* [HTML](/news/2017/08/18/workers-at-two-british-mcdonald-s-restaurants-overwhelmingly-vote-to-authorize-a-strike-over-working-conditions-and-the-use-of-zero-hour-con.html)
-* [JSON](/news/2017/08/18/workers-at-two-british-mcdonald-s-restaurants-overwhelmingly-vote-to-authorize-a-strike-over-working-conditions-and-the-use-of-zero-hour-con.json)
-* [XML](/news/2017/08/18/workers-at-two-british-mcdonald-s-restaurants-overwhelmingly-vote-to-authorize-a-strike-over-working-conditions-and-the-use-of-zero-hour-con.xml)
 ### [2017-08-18](/news/2017/08/18/index.md)
 
+##### McDonald's restaurants
 # Workers at two British McDonald's restaurants overwhelmingly vote to authorize a strike over working conditions and the use of zero-hour contracts, which would be the first such labor action against the fast-food chain in the U.K. 
 
 Workers at two restaurants in England have voted to strike in what would be the first industrial action taken against the fast-food chain in Britain

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/18/voters-in-mauritania-go-to-the-polls-for-a-presidential-election-its-first-election-since-the-coup-d-etat-last-year.html)  [JSON](/news/2009/07/18/voters-in-mauritania-go-to-the-polls-for-a-presidential-election-its-first-election-since-the-coup-d-etat-last-year.json)  [XML](/news/2009/07/18/voters-in-mauritania-go-to-the-polls-for-a-presidential-election-its-first-election-since-the-coup-d-etat-last-year.xml)  
+
 ### [2009-07-18](/news/2009/07/18/index.md)
 
+##### Mauritanian
 #  Voters in Mauritania go to the polls for a presidential election, its first election since the coup d'tat last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/07/20097187832922408.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8155985.stm)

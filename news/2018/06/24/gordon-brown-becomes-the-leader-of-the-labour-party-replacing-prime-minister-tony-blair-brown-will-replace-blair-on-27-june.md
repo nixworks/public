@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/06/24/gordon-brown-becomes-the-leader-of-the-labour-p
 
 ### [2018-06-24](/news/2018/06/24/index.md)
 
+##### Gordon Brown
 #  Gordon Brown becomes the Leader of the Labour Party, replacing Prime Minister Tony Blair. Brown will replace Blair on 27 June. 
 
 

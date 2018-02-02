@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/18/the-italian-film-caesar-must-die-wins-the-golden-bear-at-the-62nd-berlin-international-film-festival.html)  [JSON](/news/2012/02/18/the-italian-film-caesar-must-die-wins-the-golden-bear-at-the-62nd-berlin-international-film-festival.json)  [XML](/news/2012/02/18/the-italian-film-caesar-must-die-wins-the-golden-bear-at-the-62nd-berlin-international-film-festival.xml)  
+
 ### [2012-02-18](/news/2012/02/18/index.md)
 
+##### Italian
 # The Italian film "Caesar Must Die" wins the Golden Bear at the 62nd Berlin International Film Festival. 
 
 The Italian docudrama shows the staging of Shakespeare’s Julius Ceasar in a maximum security prison in Rome.
 
 
-### Source:
+### Sources:
 
 1. [The Hollywood Reporter](http://www.hollywoodreporter.com/news/berlin-film-festival-winners-caesar-must-die-292587)
 1. [Cover Image](http://cdn5.thr.com/sites/default/files/2012/02/caesar.jpg)

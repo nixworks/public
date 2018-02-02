@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/16/indian-military-officials-announce-that-a-withdrawal-of-troops-will-begin-from-the-indian-administered-part-of-kashmir-during-prime-ministe.html)  [JSON](/news/2004/11/16/indian-military-officials-announce-that-a-withdrawal-of-troops-will-begin-from-the-indian-administered-part-of-kashmir-during-prime-ministe.json)  [XML](/news/2004/11/16/indian-military-officials-announce-that-a-withdrawal-of-troops-will-begin-from-the-indian-administered-part-of-kashmir-during-prime-ministe.xml)  
+
 ### [2004-11-16](/news/2004/11/16/index.md)
 
+##### Kashmir
 #  Indian military officials announce that a withdrawal of troops will begin from the Indian-administered part of Kashmir during Prime Minister Manmohan Singh's first visit to the disputed, Muslim-majority region which sparked two of the Indo-Pakistani Wars and a 15-year separatist movement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4015203.stm)
 2. [Reuters](http://reuters.com/newsArticle.jhtml?type=worldNews&storyID=6829475)

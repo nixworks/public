@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/3/former-u-s-president-bill-clinton-is-paid-500-000-to-give-a-speech-in-honour-of-israeli-president-shimon-peres.html)  [JSON](/news/2013/06/3/former-u-s-president-bill-clinton-is-paid-500-000-to-give-a-speech-in-honour-of-israeli-president-shimon-peres.json)  [XML](/news/2013/06/3/former-u-s-president-bill-clinton-is-paid-500-000-to-give-a-speech-in-honour-of-israeli-president-shimon-peres.xml)  
+
 ### [2013-06-3](/news/2013/06/3/index.md)
 
+##### Bill Clinton
 # Former U.S. president Bill Clinton is paid $500,000 to give a speech in honour of Israeli president Shimon Peres. 
 
 Former US president Bill Clinton has been paid $500,000 for a speech to be given at an event in honour of Israeli President Shimon Peres, sources told X...
 
 
-### Source:
+### Sources:
 
 1. [Khaleej Times](http://www.khaleejtimes.com/kt-article-display-1.asp?xfile=data/international/2013/June/international_June82.xml&section=international)
 2. [Press TV](http://www.presstv.com/detail/2013/06/03/306947/clinton-paid-500000-to-honor-peres/)

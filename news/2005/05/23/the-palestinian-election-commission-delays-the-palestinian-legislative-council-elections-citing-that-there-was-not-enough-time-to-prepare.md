@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/23/the-palestinian-election-commission-delays-the-palestinian-legislative-council-elections-citing-that-there-was-not-enough-time-to-prepare.html)  [JSON](/news/2005/05/23/the-palestinian-election-commission-delays-the-palestinian-legislative-council-elections-citing-that-there-was-not-enough-time-to-prepare.json)  [XML](/news/2005/05/23/the-palestinian-election-commission-delays-the-palestinian-legislative-council-elections-citing-that-there-was-not-enough-time-to-prepare.xml)  
+
 ### [2005-05-23](/news/2005/05/23/index.md)
 
+##### Palestinian Election Commission
 #  The Palestinian Election Commission delays the Palestinian Legislative Council elections, citing that there was not enough time to prepare. Critics of the ruling Fatah party had predicted the delay, and believed it was a way to prevent Hamas, the main opposition party, from gaining power. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/NR/exeres/1F9D51B8-E421-42C3-AD8A-07CD7E1E58DD.htm)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4573247.stm)

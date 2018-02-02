@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/22/nasa-and-the-european-southern-observatory-anno
 
 ### [2017-02-22](/news/2017/02/22/index.md)
 
+##### NASA
 # NASA and the European Southern Observatory announce the discovery of four new Earth-like planets in the Goldilocks zone of the star TRAPPIST-1, in addition to the three discovered there last year. 
 
 And all of them are in the temperate zone. 

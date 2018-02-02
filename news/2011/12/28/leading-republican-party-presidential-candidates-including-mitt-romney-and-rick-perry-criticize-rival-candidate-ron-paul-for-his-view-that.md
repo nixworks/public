@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/28/leading-republican-party-presidential-candidates-including-mitt-romney-and-rick-perry-criticize-rival-candidate-ron-paul-for-his-view-that.html)  [JSON](/news/2011/12/28/leading-republican-party-presidential-candidates-including-mitt-romney-and-rick-perry-criticize-rival-candidate-ron-paul-for-his-view-that.json)  [XML](/news/2011/12/28/leading-republican-party-presidential-candidates-including-mitt-romney-and-rick-perry-criticize-rival-candidate-ron-paul-for-his-view-that.xml)  
+
 ### [2011-12-28](/news/2011/12/28/index.md)
 
+##### Republican candidates
 # Leading Republican Party presidential candidates, including Mitt Romney and Rick Perry, criticize rival candidate Ron Paul for his view that the United States should not act against Iran's suspected nuclear weapons program. 
 
 Republican presidential candidates gang up on rival Ron Paul as a poll gives him the lead in the state of Iowa, which holds the first caucus next week.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16349672)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/57597000/jpg/_57597961_013574680-1.jpg)

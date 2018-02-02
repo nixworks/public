@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/23/forest-fires-in-catalonia-spain-kill-four-people-with-fires-also-in-france-portugal-and-romania.html)  [JSON](/news/2012/07/23/forest-fires-in-catalonia-spain-kill-four-people-with-fires-also-in-france-portugal-and-romania.json)  [XML](/news/2012/07/23/forest-fires-in-catalonia-spain-kill-four-people-with-fires-also-in-france-portugal-and-romania.xml)  
+
 ### [2012-07-23](/news/2012/07/23/index.md)
 
+##### Forest fires in Catalonia, Spain
 # Forest fires in Catalonia, Spain kill four people, with fires also in France, Portugal and Romania. 
 
 A protected forest in Romania&#8217;s Bucegi mountains, at some 1,700 m altitude, has been burning since the middle of July, but it took authorities more than a week to learn about the fire and intervene. Two helicopters from the Interior Minister will try to put out the fire on Monday (July 23), with two more
 
 
-### Source:
+### Sources:
 
 1. [EuroNews](http://www.euronews.com/newswires/1593636-fires-kill-3-rage-on-in-girona-in-northern-spain/)
 2. [Romania Insider](http://www.romania-insider.com/protected-forest-in-romanian-mountains-keeps-burning-while-authorities-struggle-to-put-out-fire/61288/)

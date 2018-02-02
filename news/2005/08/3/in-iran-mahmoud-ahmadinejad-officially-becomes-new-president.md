@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/3/in-iran-mahmoud-ahmadinejad-officially-becomes-new-president.html)  [JSON](/news/2005/08/3/in-iran-mahmoud-ahmadinejad-officially-becomes-new-president.json)  [XML](/news/2005/08/3/in-iran-mahmoud-ahmadinejad-officially-becomes-new-president.xml)  
+
 ### [2005-08-3](/news/2005/08/3/index.md)
 
+##### Mahmoud Ahmadinejad
 #  In Iran, Mahmoud Ahmadinejad officially becomes new president. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [ (IRNA](http://www.irna.ir/en/news/view/line-17/0508030202103521.htm)
 2. [Al-Jazeera](http://english.aljazeera.net/NR/exeres/A14D75CF-E9FC-4E3D-8B10-4DD97A5F24C7.htm)

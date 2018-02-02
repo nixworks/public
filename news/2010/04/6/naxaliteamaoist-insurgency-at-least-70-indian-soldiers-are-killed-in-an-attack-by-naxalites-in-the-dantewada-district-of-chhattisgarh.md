@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2010/04/6/naxaliteamaoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.html)  [JSON](/news/2010/04/6/naxaliteamaoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.json)  [XML](/news/2010/04/6/naxaliteamaoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.xml)  
+
 ### [2010-04-6](/news/2010/04/6/index.md)
 
+##### Naxalite-Maoist insurgency
 # Naxalite-Maoist insurgency: At least 70 Indian soldiers are killed in an attack by Naxalites in the Dantewada district of Chhattisgarh. 
 
 In one of the bloodiest attacks on security forces, Naxals trapped and gunned down 75 personnel during a joint &quot;Operation Green Hunt&quot; offensive against the ultras in the thick forests of Mukrana in Dantewada district. 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5h_lCZKTbGKxncfOoL-5QNNYiUZlwD9ETM9KG0)
 2. [Times of India](http://timesofindia.indiatimes.com/india/More-than-50-killed-as-Maoists-ambush-CRPF-team/articleshow/5765722.cms)
 2. [Cover Image](http://timesofindia.indiatimes.com/photo/5767359.cms)
+
+### Changes:
+
+1. [Naxalite-Maoist insurgency: At least 70 Indian soldiers are killed in an attack by Naxalites in the Dantewada district of Chhattisgarh. ](/news/2010/04/6/naxalite-maoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.md) _2017-08-27 03:27:30 (First version)_
+1. [Naxalite-Maoist insurgency: At least 70 Indian soldiers are killed in an attack by Naxalites in the Dantewada district of Chhattisgarh. ](/news/2010/04/6/naxaliteamaoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ In one of the bloodiest attacks on security forces, Naxals trapped and gunned do
 3. [Two Indian Border Security Force soldiers are killed and four injured in a conflict in the state of Chhattisgarh. ](/news/2016/03/12/two-indian-border-security-force-soldiers-are-killed-and-four-injured-in-a-conflict-in-the-state-of-chhattisgarh.md) _Context: Chhattisgarh, Naxalite-Maoist insurgency_
 4. [Indian police kill at least 12 Naxalite Maoist rebels in a clash in the state of Jharkhand. ](/news/2015/06/9/indian-police-kill-at-least-12-naxalite-maoist-rebels-in-a-clash-in-the-state-of-jharkhand.md) _Context: Naxalite, Naxalite-Maoist insurgency_
 5. [Naxalite Maoists are holding 250 villagers hostage to protest the building of a bridge in India's Chhattisgarh state. ](/news/2015/05/9/naxalite-maoists-are-holding-250-villagers-hostage-to-protest-the-building-of-a-bridge-in-india-s-chhattisgarh-state.md) _Context: Chhattisgarh, Naxalite-Maoist insurgency_
-
-### Changes:
-
-1. [Naxalite-Maoist insurgency: At least 70 Indian soldiers are killed in an attack by Naxalites in the Dantewada district of Chhattisgarh. ](/news/2010/04/6/naxalite-maoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.md) _2017-08-27 03:27:30 (First version)_
-1. [Naxalite-Maoist insurgency: At least 70 Indian soldiers are killed in an attack by Naxalites in the Dantewada district of Chhattisgarh. ](/news/2010/04/6/naxaliteamaoist-insurgency-at-least-70-indian-soldiers-are-killed-in-an-attack-by-naxalites-in-the-dantewada-district-of-chhattisgarh.md) _(Current version)_

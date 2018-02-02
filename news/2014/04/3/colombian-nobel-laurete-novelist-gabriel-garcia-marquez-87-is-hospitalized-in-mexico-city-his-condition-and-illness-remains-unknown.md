@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/3/colombian-nobel-laurete-novelist-gabriel-garcia-marquez-87-is-hospitalized-in-mexico-city-his-condition-and-illness-remains-unknown.html)  [JSON](/news/2014/04/3/colombian-nobel-laurete-novelist-gabriel-garcia-marquez-87-is-hospitalized-in-mexico-city-his-condition-and-illness-remains-unknown.json)  [XML](/news/2014/04/3/colombian-nobel-laurete-novelist-gabriel-garcia-marquez-87-is-hospitalized-in-mexico-city-his-condition-and-illness-remains-unknown.xml)  
+
 ### [2014-04-3](/news/2014/04/3/index.md)
 
+##### Colombian
 # Colombian Nobel laurete novelist Gabriel Garca Mrquez, 87, is hospitalized in Mexico City. His condition and illness remains unknown. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://latino.foxnews.com/latino/lifestyle/2014/04/03/gabriel-garcia-marquez-87-hospitalized-in-mexico/)
 

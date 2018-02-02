@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osha.html)  [JSON](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osha.json)  [XML](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osha.xml)  
+
 ### [2011-03-4](/news/2011/03/4/index.md)
 
+##### Broadway
 # The Broadway production "Spider-Man: Turn Off the Dark" is cited for three serious occupational safety and health violations by the US OSHA. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](http://artsbeat.blogs.nytimes.com/2011/03/04/spider-man-cited-for-federal-safety-violations/?ref=arts)
+
+### Changes:
+
+1. [The Broadway production ''Spider-Man: Turn Off the Dark'' is cited for three serious occupational safety and health violations by the US OSHA. ](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osh.md) _2017-08-25 03:32:25 (First version)_
+1. [The Broadway production "Spider-Man: Turn Off the Dark" is cited for three serious occupational safety and health violations by the US OSHA. ](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osha.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. ["The Lion King" becomes the all-time highest grossing show on Broadway, overtaking "The Phantom of the Opera". ](/news/2012/04/9/the-lion-king-becomes-the-all-time-highest-grossing-show-on-broadway-overtaking-the-phantom-of-the-opera.md) _Context: Broadway_
 4. [ RENT closed on Broadway, leaving it the 7th longest running Broadway show, with its 12-year run, which began in 1996.](/news/2008/09/7/rent-closed-on-broadway-leaving-it-the-7th-longest-running-broadway-show-with-its-12-year-run-which-began-in-1996.md) _Context: Broadway_
 5. [ Striking Broadway stagehands and producers reach a deal. ](/news/2007/11/28/striking-broadway-stagehands-and-producers-reach-a-deal.md) _Context: Broadway_
-
-### Changes:
-
-1. [The Broadway production ''Spider-Man: Turn Off the Dark'' is cited for three serious occupational safety and health violations by the US OSHA. ](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osh.md) _2017-08-25 03:32:25 (First version)_
-1. [The Broadway production "Spider-Man: Turn Off the Dark" is cited for three serious occupational safety and health violations by the US OSHA. ](/news/2011/03/4/the-broadway-production-spider-man-turn-off-the-dark-is-cited-for-three-serious-occupational-safety-and-health-violations-by-the-us-osha.md) _(Current version)_

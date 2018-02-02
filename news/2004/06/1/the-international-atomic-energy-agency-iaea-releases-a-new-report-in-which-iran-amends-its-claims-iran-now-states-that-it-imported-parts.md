@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/1/the-international-atomic-energy-agency-iaea-releases-a-new-report-in-which-iran-amends-its-claims-iran-now-states-that-it-imported-parts.html)  [JSON](/news/2004/06/1/the-international-atomic-energy-agency-iaea-releases-a-new-report-in-which-iran-amends-its-claims-iran-now-states-that-it-imported-parts.json)  [XML](/news/2004/06/1/the-international-atomic-energy-agency-iaea-releases-a-new-report-in-which-iran-amends-its-claims-iran-now-states-that-it-imported-parts.xml)  
+
 ### [2004-06-1](/news/2004/06/1/index.md)
 
+##### IAEA
 #  The International Atomic Energy Agency (IAEA) releases a new report in which Iran amends its claims. Iran now states that it imported parts for centrifuges capable of making bomb-grade uranium that it previously said were made in the country. Highly enriched uranium (weapons grade 36% uranium-235) is found at a Farayand, a site previously unknown to the IAEA. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://reuters.com/newsArticle.jhtml?type=worldNews&storyID=5315392&pageNumber=1)
 

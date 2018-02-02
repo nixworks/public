@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/14/the-united-states-military-states-in-a-report-that-some-aspects-of-the-situation-in-iraq-could-be-described-as-a-civil-war.html)  [JSON](/news/2007/03/14/the-united-states-military-states-in-a-report-that-some-aspects-of-the-situation-in-iraq-could-be-described-as-a-civil-war.json)  [XML](/news/2007/03/14/the-united-states-military-states-in-a-report-that-some-aspects-of-the-situation-in-iraq-could-be-described-as-a-civil-war.xml)  
+
 ### [2007-03-14](/news/2007/03/14/index.md)
 
+##### Iraq
 #  The United States military states in a report that some aspects of the situation in Iraq could be described as a "civil war". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/politics/4631749.html)
 
@@ -13,6 +17,6 @@
 
 1. [ Sixty-eight people have been killed so far today in Baghdad, Iraq. Car bombs and mortar barrages rocked Baghdad streets, as news pundits speculate about the possibility of Iraq becoming embroiled in a full-fledged civil war. ](/news/2006/02/28/sixty-eight-people-have-been-killed-so-far-today-in-baghdad-iraq-car-bombs-and-mortar-barrages-rocked-baghdad-streets-as-news-pundits-sp.md) _Context: Iraq, civil war_
 2. [ Al Askari Mosque bombing: The International Crisis Group releases a report cautioning the international community to plan for the contingency of a civil war in Iraq. At least 250 people have died in violence resulting from the Al Askari Mosque bombing. ](/news/2006/02/26/al-askari-mosque-bombing-the-international-crisis-group-releases-a-report-cautioning-the-international-community-to-plan-for-the-contingen.md) _Context: Iraq, civil war_
-3. [The Iraqi Army and allied paramilitary fighters storm the ISIL-held city of Hawija in the Kirkuk Governorate. Hawija is one of the last remaining ISIL strongholds in Iraq. ](/news/2017/10/4/the-iraqi-army-and-allied-paramilitary-fighters-storm-the-isil-held-city-of-hawija-in-the-kirkuk-governorate-hawija-is-one-of-the-last-rema.md) _Context: Iraq_
-4. [Iraqi forces advance into Kurdish-held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. ](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territory-around-the-city-of-kirkuk-clashes-have-been-reported-in-the-surrounding-cities.md) _Context: Iraq_
-5. [Iraq's federal government halts all international flights to and from Iraqi Kurdistan until Kurdish security forces hand over control of Erbil International Airport and Sulaimaniyah International Airport. The Kurdistan Regional Government (KRG) calls the ban "illegal". ](/news/2017/09/29/iraq-s-federal-government-halts-all-international-flights-to-and-from-iraqi-kurdistan-until-kurdish-security-forces-hand-over-control-of-erb.md) _Context: Iraq_
+3. [President of Turkey Recep Tayyip Erdogan says the Afrin offensive, as announced, is now to turn east, towards Manbij and the border with Iraq. ](/news/2018/01/26/president-of-turkey-recep-tayyip-erdoaan-says-the-afrin-offensive-as-announced-is-now-to-turn-east-towards-manbij-and-the-border-with-ir.md) _Context: Iraq_
+4. [A double suicide bombing kills at least 35 people and injures over 90 in Baghdad, Iraq. ](/news/2018/01/15/a-double-suicide-bombing-kills-at-least-35-people-and-injures-over-90-in-baghdad-iraq.md) _Context: Iraq_
+5. [Iraq announces that its war against Islamic State (IS) is over. The United States Department of State welcomes the end of the "vile occupation" and says that the fight continues. ](/news/2017/12/9/iraq-announces-that-its-war-against-islamic-state-is-is-over-the-united-states-department-of-state-welcomes-the-end-of-the-vile-occupati.md) _Context: Iraq_

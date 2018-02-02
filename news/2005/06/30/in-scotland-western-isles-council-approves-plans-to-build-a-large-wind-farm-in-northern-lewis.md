@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/30/in-scotland-western-isles-council-approves-plans-to-build-a-large-wind-farm-in-northern-lewis.html)  [JSON](/news/2005/06/30/in-scotland-western-isles-council-approves-plans-to-build-a-large-wind-farm-in-northern-lewis.json)  [XML](/news/2005/06/30/in-scotland-western-isles-council-approves-plans-to-build-a-large-wind-farm-in-northern-lewis.xml)  
+
 ### [2005-06-30](/news/2005/06/30/index.md)
 
+##### Western Isles Council
 #  In Scotland, Western Isles Council approves plans to build a large wind farm in northern Lewis
 
 

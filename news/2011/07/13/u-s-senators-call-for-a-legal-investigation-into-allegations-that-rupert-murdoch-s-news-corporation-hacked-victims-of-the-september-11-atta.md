@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/13/u-s-senators-call-for-a-legal-investigation-into-allegations-that-rupert-murdoch-s-news-corporation-hacked-victims-of-the-september-11-atta.html)  [JSON](/news/2011/07/13/u-s-senators-call-for-a-legal-investigation-into-allegations-that-rupert-murdoch-s-news-corporation-hacked-victims-of-the-september-11-atta.json)  [XML](/news/2011/07/13/u-s-senators-call-for-a-legal-investigation-into-allegations-that-rupert-murdoch-s-news-corporation-hacked-victims-of-the-september-11-atta.xml)  
+
 ### [2011-07-13](/news/2011/07/13/index.md)
 
+##### Rupert Murdoch
 # U.S. senators call for a legal investigation into allegations that Rupert Murdoch's News Corporation hacked victims of the September 11 attacks as the phone hacking scandal continues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/jul/13/us-senators-phone-hacking-inquiry)
 

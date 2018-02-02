@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/24/the-abc-news-claims-that-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-under-investigation-for-corruption-but-th.html)  [JSON](/news/2006/05/24/the-abc-news-claims-that-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-under-investigation-for-corruption-but-th.json)  [XML](/news/2006/05/24/the-abc-news-claims-that-speaker-of-the-united-states-house-of-representatives-dennis-hastert-is-under-investigation-for-corruption-but-th.xml)  
+
 ### [2006-05-24](/news/2006/05/24/index.md)
 
+##### U.S. Speaker of the House of Representatives
 #  The ABC News claims that Speaker of the United States House of Representatives Dennis Hastert is under investigation for corruption, but the Justice Department issues a denial. 
 
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Politics/wireStory?id=1999490&CMP=OTC-RSSFeeds0312)
 2. [ABC](http://www.abcnews.go.com/Politics/wireStory?id=2001422)

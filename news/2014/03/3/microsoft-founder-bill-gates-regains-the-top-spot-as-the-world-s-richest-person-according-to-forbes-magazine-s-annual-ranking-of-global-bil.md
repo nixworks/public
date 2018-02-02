@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/3/microsoft-founder-bill-gates-regains-the-top-spot-as-the-world-s-richest-person-according-to-forbes-magazine-s-annual-ranking-of-global-bil.html)  [JSON](/news/2014/03/3/microsoft-founder-bill-gates-regains-the-top-spot-as-the-world-s-richest-person-according-to-forbes-magazine-s-annual-ranking-of-global-bil.json)  [XML](/news/2014/03/3/microsoft-founder-bill-gates-regains-the-top-spot-as-the-world-s-richest-person-according-to-forbes-magazine-s-annual-ranking-of-global-bil.xml)  
+
 ### [2014-03-3](/news/2014/03/3/index.md)
 
+##### Microsoft
 # Microsoft founder Bill Gates regains the top spot as the world's richest person, according to Forbes magazine's annual ranking of global billionaires. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-26420414)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/73335000/jpg/_73335905_f7920375-a42e-4c7b-b00e-c54dec1cca80.jpg)

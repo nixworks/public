@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/1/abu-sayyaf-militants-release-10-indonesians-the-
 
 ### [2016-05-1](/news/2016/05/1/index.md)
 
+##### Moro conflict
 # Abu Sayyaf militants release 10 Indonesians the group had kidnapped from their tugboat and barge on March 28. 
 
 

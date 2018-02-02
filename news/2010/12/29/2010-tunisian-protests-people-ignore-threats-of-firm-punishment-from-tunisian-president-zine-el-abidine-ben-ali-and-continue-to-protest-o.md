@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/29/2010-tunisian-protests-people-ignore-threats-of-firm-punishment-from-tunisian-president-zine-el-abidine-ben-ali-and-continue-to-protest-o.html)  [JSON](/news/2010/12/29/2010-tunisian-protests-people-ignore-threats-of-firm-punishment-from-tunisian-president-zine-el-abidine-ben-ali-and-continue-to-protest-o.json)  [XML](/news/2010/12/29/2010-tunisian-protests-people-ignore-threats-of-firm-punishment-from-tunisian-president-zine-el-abidine-ben-ali-and-continue-to-protest-o.xml)  
+
 ### [2010-12-29](/news/2010/12/29/index.md)
 
+##### protests
 # 2010 Tunisian protests: People ignore threats of "firm" punishment from Tunisian President Zine El Abidine Ben Ali and continue to protest over unemployment and poor living conditions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/12/20101229122733122341.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/29/20101229132451685876_20.jpg)

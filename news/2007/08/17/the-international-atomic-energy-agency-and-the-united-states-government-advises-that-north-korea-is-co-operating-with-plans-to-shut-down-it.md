@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/17/the-international-atomic-energy-agency-and-the-united-states-government-advises-that-north-korea-is-co-operating-with-plans-to-shut-down-it.html)  [JSON](/news/2007/08/17/the-international-atomic-energy-agency-and-the-united-states-government-advises-that-north-korea-is-co-operating-with-plans-to-shut-down-it.json)  [XML](/news/2007/08/17/the-international-atomic-energy-agency-and-the-united-states-government-advises-that-north-korea-is-co-operating-with-plans-to-shut-down-it.xml)  
+
 ### [2007-08-17](/news/2007/08/17/index.md)
 
+##### IAEA
 #  The International Atomic Energy Agency and the United States Government advises that North Korea is co-operating with plans to shut down its nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/17/ap4031395.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2007/08/17/ap4031395.html)
 
 ### Related:
 

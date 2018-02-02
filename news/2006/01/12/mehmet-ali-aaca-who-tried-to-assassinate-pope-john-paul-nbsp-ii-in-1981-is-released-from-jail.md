@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/12/mehmet-ali-aaca-who-tried-to-assassinate-pope-john-paul-nbsp-ii-in-1981-is-released-from-jail.html)  [JSON](/news/2006/01/12/mehmet-ali-aaca-who-tried-to-assassinate-pope-john-paul-nbsp-ii-in-1981-is-released-from-jail.json)  [XML](/news/2006/01/12/mehmet-ali-aaca-who-tried-to-assassinate-pope-john-paul-nbsp-ii-in-1981-is-released-from-jail.xml)  
+
 ### [2006-01-12](/news/2006/01/12/index.md)
 
+##### Mehmet Ali Agca
 #  Mehmet Ali Agca, who tried to assassinate Pope John Paul&nbsp;II in 1981, is released from jail. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4604362.stm)
 

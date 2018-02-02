@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/11/at-least-52-people-are-killed-and-46-wounded-in-a-bus-crash-in-himachal-pradesh-state-of-india.html)  [JSON](/news/2012/08/11/at-least-52-people-are-killed-and-46-wounded-in-a-bus-crash-in-himachal-pradesh-state-of-india.json)  [XML](/news/2012/08/11/at-least-52-people-are-killed-and-46-wounded-in-a-bus-crash-in-himachal-pradesh-state-of-india.xml)  
+
 ### [2012-08-11](/news/2012/08/11/index.md)
 
+##### Himachal Pradesh
 # At least 52 people are killed and 46 wounded in a bus crash in Himachal Pradesh state of India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/India-news/Shimla/HP-52-killed-46-injured-as-bus-falls-into-gorge/Article1-911835.aspx)
 

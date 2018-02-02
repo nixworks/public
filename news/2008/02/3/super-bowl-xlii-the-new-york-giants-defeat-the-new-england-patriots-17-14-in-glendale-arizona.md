@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/3/super-bowl-xlii-the-new-york-giants-defeat-the-new-england-patriots-17-14-in-glendale-arizona.html)  [JSON](/news/2008/02/3/super-bowl-xlii-the-new-york-giants-defeat-the-new-england-patriots-17-14-in-glendale-arizona.json)  [XML](/news/2008/02/3/super-bowl-xlii-the-new-york-giants-defeat-the-new-england-patriots-17-14-in-glendale-arizona.xml)  
+
 ### [2008-02-3](/news/2008/02/3/index.md)
 
+##### Super Bowl XLII
 #  Super Bowl XLII: The New York Giants defeat the New England Patriots 17-14 in Glendale, Arizona. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://sports-ak.espn.go.com/nfl/playoffs07/series?series=nygnwe2007)
 2. [The New York Times](http://fifthdown.blogs.nytimes.com/2008/02/03/open-thread-giants-vs-patriots-2/index.html)

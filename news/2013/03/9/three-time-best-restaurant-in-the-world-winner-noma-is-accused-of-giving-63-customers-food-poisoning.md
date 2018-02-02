@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/9/three-time-best-restaurant-in-the-world-winner-noma-is-accused-of-giving-63-customers-food-poisoning.html)  [JSON](/news/2013/03/9/three-time-best-restaurant-in-the-world-winner-noma-is-accused-of-giving-63-customers-food-poisoning.json)  [XML](/news/2013/03/9/three-time-best-restaurant-in-the-world-winner-noma-is-accused-of-giving-63-customers-food-poisoning.xml)  
+
 ### [2013-03-9](/news/2013/03/9/index.md)
 
+##### "Best Restaurant in the World"
 # Three time "Best Restaurant in the World" winner Noma is accused of giving 63 customers food poisoning. 
 
 Regardless of all the &#034;Please wash hands after using the toilet&#034; in most public restrooms in restaurants, many people still chose to overlook this crucial hygiene step. As a consequence, dirty hands have been found to be the culprit in the recent norovirus outbreak at Noma, an exclusive restaurant in Copenhagen, Denmark, according to food inspectors. 
 
 
-### Source:
+### Sources:
 
 1. [Counsel & Heal](http://www.counselheal.com/articles/4284/20130309/danish-restaurant-charging-440-meal-leaves-63-guests-sick-norovirus.htm)
 1. [Cover Image](http://images.counselheal.com/data/images/full/2806/noma.jpg)

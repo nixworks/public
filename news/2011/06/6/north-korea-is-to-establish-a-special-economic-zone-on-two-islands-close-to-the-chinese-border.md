@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/6/north-korea-is-to-establish-a-special-economic-zone-on-two-islands-close-to-the-chinese-border.html)  [JSON](/news/2011/06/6/north-korea-is-to-establish-a-special-economic-zone-on-two-islands-close-to-the-chinese-border.json)  [XML](/news/2011/06/6/north-korea-is-to-establish-a-special-economic-zone-on-two-islands-close-to-the-chinese-border.xml)  
+
 ### [2011-06-6](/news/2011/06/6/index.md)
 
+##### North Korea
 # North Korea is to establish a special economic zone on two islands close to the Chinese border. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_676840.html)
 

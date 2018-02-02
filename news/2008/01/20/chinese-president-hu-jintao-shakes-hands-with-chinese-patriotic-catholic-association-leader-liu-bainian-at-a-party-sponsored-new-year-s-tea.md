@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/01/20/chinese-president-hu-jintao-shakes-hands-with-chinese-patriotic-catholic-association-leader-liu-bainian-at-a-party-sponsored-new-year-s-tea.html)  [JSON](/news/2008/01/20/chinese-president-hu-jintao-shakes-hands-with-chinese-patriotic-catholic-association-leader-liu-bainian-at-a-party-sponsored-new-year-s-tea.json)  [XML](/news/2008/01/20/chinese-president-hu-jintao-shakes-hands-with-chinese-patriotic-catholic-association-leader-liu-bainian-at-a-party-sponsored-new-year-s-tea.xml)  
+
 ### [2008-01-20](/news/2008/01/20/index.md)
 
+##### Chinese President
 #  Chinese President Hu Jintao shakes hands with Chinese Patriotic Catholic Association leader Liu Bainian at a party-sponsored New Year's tea party. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/01/19/AR2008011902465.html)
+1. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2008/01/19/AR2008011902465.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/22/the-philippine-coast-guard-reports-that-252-pas
 
 ### [2017-12-22](/news/2017/12/22/index.md)
 
+##### Philippine Coast Guard
 # The Philippine Coast Guard reports that 252 passengers and crew have been rescued while five people were killed when a ferry capsized Thursday east of Manila. 
 
 

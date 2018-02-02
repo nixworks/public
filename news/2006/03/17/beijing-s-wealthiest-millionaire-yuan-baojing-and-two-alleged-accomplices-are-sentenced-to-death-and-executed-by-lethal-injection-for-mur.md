@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/03/17/beijing-s-wealthiest-millionaire-yuan-baojing-and-two-alleged-accomplices-are-sentenced-to-death-and-executed-by-lethal-injection-for-mur.html)  [JSON](/news/2006/03/17/beijing-s-wealthiest-millionaire-yuan-baojing-and-two-alleged-accomplices-are-sentenced-to-death-and-executed-by-lethal-injection-for-mur.json)  [XML](/news/2006/03/17/beijing-s-wealthiest-millionaire-yuan-baojing-and-two-alleged-accomplices-are-sentenced-to-death-and-executed-by-lethal-injection-for-mur.xml)  
+
 ### [2006-03-17](/news/2006/03/17/index.md)
 
+##### Beijing
 #  Beijing's wealthiest millionaire, Yuan Baojing, and two alleged accomplices are sentenced to death and executed by lethal injection for murder by a Liaoyang court, making Yuan the wealthiest person to be executed in PRC history. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/03/18/AR2006031800061.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2006/03/18/AR2006031800061.html)
 2. [Xinhuanet](http://news.xinhuanet.com/english/2006-03/18/content_4315137.htm)
 
 ### Related:

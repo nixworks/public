@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/19/most-of-the-employees-of-the-reserve-bank-of-india-that-country-s-central-bank-go-on-strike-demanding-better-pension-benefits-the-rbi-ack.html)  [JSON](/news/2015/11/19/most-of-the-employees-of-the-reserve-bank-of-india-that-country-s-central-bank-go-on-strike-demanding-better-pension-benefits-the-rbi-ack.json)  [XML](/news/2015/11/19/most-of-the-employees-of-the-reserve-bank-of-india-that-country-s-central-bank-go-on-strike-demanding-better-pension-benefits-the-rbi-ack.xml)  
+
 ### [2015-11-19](/news/2015/11/19/index.md)
 
+##### Reserve Bank of India
 # Most of the employees of the Reserve Bank of India, that country's central bank, go on strike demanding better pension benefits. The RBI acknowledges "some interruptions" in its clearing and settlement functions. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/business-34875968)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/6D18/production/_86782972_rbi_1.jpg)

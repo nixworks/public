@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/2/soyuz-tma-18-is-launched-from-the-baikonur-cosmodrome-carrying-three-members-of-the-expedition-23-crew-of-the-international-space-station.html)  [JSON](/news/2010/04/2/soyuz-tma-18-is-launched-from-the-baikonur-cosmodrome-carrying-three-members-of-the-expedition-23-crew-of-the-international-space-station.json)  [XML](/news/2010/04/2/soyuz-tma-18-is-launched-from-the-baikonur-cosmodrome-carrying-three-members-of-the-expedition-23-crew-of-the-international-space-station.xml)  
+
 ### [2010-04-2](/news/2010/04/2/index.md)
 
+##### Soyuz TMA-18
 # Soyuz TMA-18 is launched from the Baikonur Cosmodrome, carrying three members of the Expedition 23 crew of the International Space Station. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/TECH/space/04/02/russia.space.launch/)
 

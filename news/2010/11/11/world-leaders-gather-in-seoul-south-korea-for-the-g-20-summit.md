@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/11/11/world-leaders-gather-in-seoul-south-korea-for-the-g-20-summit.html)  [JSON](/news/2010/11/11/world-leaders-gather-in-seoul-south-korea-for-the-g-20-summit.json)  [XML](/news/2010/11/11/world-leaders-gather-in-seoul-south-korea-for-the-g-20-summit.xml)  
+
 ### [2010-11-11](/news/2010/11/11/index.md)
 
+##### Seoul
 # World leaders gather in Seoul, South Korea, for the G-20 summit. 
 
 World leaders gather in Seoul onThursday and Friday for a Group of 20 summit aimed atsafeguarding the global economic recovery and defusing trade andcurrency tensions.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/11/20101111145320565845.html)
-2. [Reuters](http://www.reuters.com/article/idUSN0911933720101111)
+2. [Reuters](https://www.reuters.com/article/idUSN0911933720101111)
 3. [Yonhap](http://english.yonhapnews.co.kr/national/2010/11/11/96/0301000000AEN20101111009200315F.HTML)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

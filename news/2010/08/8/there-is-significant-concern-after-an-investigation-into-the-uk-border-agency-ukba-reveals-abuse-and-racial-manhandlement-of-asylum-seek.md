@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/8/there-is-significant-concern-after-an-investigation-into-the-uk-border-agency-ukba-reveals-abuse-and-racial-manhandlement-of-asylum-seek.html)  [JSON](/news/2010/08/8/there-is-significant-concern-after-an-investigation-into-the-uk-border-agency-ukba-reveals-abuse-and-racial-manhandlement-of-asylum-seek.json)  [XML](/news/2010/08/8/there-is-significant-concern-after-an-investigation-into-the-uk-border-agency-ukba-reveals-abuse-and-racial-manhandlement-of-asylum-seek.xml)  
+
 ### [2010-08-8](/news/2010/08/8/index.md)
 
+##### UK Border Agency
 # There is "significant concern" after an investigation into the UK Border Agency (UKBA) reveals abuse and racial manhandlement of asylum seekers by staff. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/08/uk-border-agency-investigation-concerns)
 

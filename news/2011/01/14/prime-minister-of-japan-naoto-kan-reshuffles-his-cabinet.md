@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/01/14/prime-minister-of-japan-naoto-kan-reshuffles-his-cabinet.html)  [JSON](/news/2011/01/14/prime-minister-of-japan-naoto-kan-reshuffles-his-cabinet.json)  [XML](/news/2011/01/14/prime-minister-of-japan-naoto-kan-reshuffles-his-cabinet.xml)  
+
 ### [2011-01-14](/news/2011/01/14/index.md)
 
+##### Prime Minister of Japan
 # Prime Minister of Japan Naoto Kan reshuffles his Cabinet. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20110114/ap_on_bi_ge/as_japan_politics)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20110114/ap_on_bi_ge/as_japan_politics)
 2. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/01/13/japan.cabinet/index.html?eref=edition)
 
 ### Related:

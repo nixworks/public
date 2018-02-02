@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/13/kentucky-state-legislator-dan-johnson-who-had-b
 
 ### [2017-12-13](/news/2017/12/13/index.md)
 
+##### 2017 United States political sexual scandals
 # Kentucky state legislator Dan Johnson, who had been accused of sexual assault of a teenager, dies of a gunshot wound, an apparent suicide. 
 
  FRANKFORT, Ky. (AP) — Dan Johnson, a Republican state lawmaker in Kentucky who defiantly denied allegations that he sexually assaulted a teenage girl in the basement of his home, 

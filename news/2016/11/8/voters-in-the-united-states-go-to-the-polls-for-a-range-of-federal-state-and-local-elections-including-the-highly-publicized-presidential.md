@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/8/voters-in-the-united-states-go-to-the-polls-for-
 
 ### [2016-11-8](/news/2016/11/8/index.md)
 
+##### United States elections, 2016
 # Voters in the United States go to the polls for a range of federal, state and local elections, including the highly publicized presidential election between major party nominees Hillary Clinton and Donald Trump. 
 
 Here are the key times to know as we await an outcome from the US election.
@@ -26,7 +27,7 @@ Here are the key times to know as we await an outcome from the US election.
 
 ### Related:
 
-1. [Voters in the U.S. state of New York go to the polls for a primary election with Hillary Clinton and Donald Trump expected to win the respective contests for their parties in that state. ](/news/2016/04/19/voters-in-the-u-s-state-of-new-york-go-to-the-polls-for-a-primary-election-with-hillary-clinton-and-donald-trump-expected-to-win-the-respec.md) _Context: 2016 U.S. presidential election, Donald Trump, Hillary Clinton, United States_
+1. [Voters in the U.S. state of New York go to the polls for a primary election with Hillary Clinton and Donald Trump expected to win the respective contests for their parties in that state. ](/news/2016/04/19/voters-in-the-u-s-state-of-new-york-go-to-the-polls-for-a-primary-election-with-hillary-clinton-and-donald-trump-expected-to-win-the-respec.md) _Context: 2016 U.S. presidential election, Donald Trump, Hillary Clinton, U.S._
 2. [Although he lost the popular vote, Donald Trump, the Republican nominee for the 2016 presidential election, becomes the president-elect of the United States after defeating Hillary Clinton, the Democratic nominee in the electoral college. It is the fifth time in United States history where the winning candidate lost the popular vote, the last such defeat occurring in 2000.The Republican Party retains control of the House and Senate. ](/news/2016/11/9/although-he-lost-the-popular-vote-donald-trump-the-republican-nominee-for-the-2016-presidential-election-becomes-the-president-elect-of-t.md) _Context: 2016 U.S. presidential election, Donald Trump, Hillary Clinton_
 3. [President-elect Donald Trump is declared as the winner in Michigan, causing his electoral college vote to rise to 306. Hillary Clinton's margin in the popular vote rises to over two million. ](/news/2016/11/28/president-elect-donald-trump-is-declared-as-the-winner-in-michigan-causing-his-electoral-college-vote-to-rise-to-306-hillary-clinton-s-mar.md) _Context: 2016 U.S. presidential election, Donald Trump, Hillary Clinton_
 4. [Hillary Clinton and Donald Trump hold the second presidential debate of the 2016 U.S. presidential election at Washington University in St. Louis, Missouri, in a "town meeting" format. ](/news/2016/10/9/hillary-clinton-and-donald-trump-hold-the-second-presidential-debate-of-the-2016-u-s-presidential-election-at-washington-university-in-st.md) _Context: 2016 U.S. presidential election, Donald Trump, Hillary Clinton_

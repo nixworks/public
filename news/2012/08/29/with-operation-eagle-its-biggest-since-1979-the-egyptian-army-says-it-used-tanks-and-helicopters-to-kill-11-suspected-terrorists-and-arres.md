@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/29/with-operation-eagle-its-biggest-since-1979-the-egyptian-army-says-it-used-tanks-and-helicopters-to-kill-11-suspected-terrorists-and-arres.html)  [JSON](/news/2012/08/29/with-operation-eagle-its-biggest-since-1979-the-egyptian-army-says-it-used-tanks-and-helicopters-to-kill-11-suspected-terrorists-and-arres.json)  [XML](/news/2012/08/29/with-operation-eagle-its-biggest-since-1979-the-egyptian-army-says-it-used-tanks-and-helicopters-to-kill-11-suspected-terrorists-and-arres.xml)  
+
 ### [2012-08-29](/news/2012/08/29/index.md)
 
+##### Operation Eagle
 # With Operation Eagle, its biggest since 1979, the Egyptian Army says it used tanks and helicopters to kill 11 suspected terrorists and arrest 23 others in the Sinai, following the attack that killed 16 border guards. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ahram](http://english.ahram.org.eg/NewsContent/1/64/51518/Egypt/Politics-/-terrorist-suspects-arrested,--killed-in-Operation.aspx)
 

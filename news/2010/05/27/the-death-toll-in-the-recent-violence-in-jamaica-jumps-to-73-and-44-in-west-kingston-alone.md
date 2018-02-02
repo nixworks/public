@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/27/the-death-toll-in-the-recent-violence-in-jamaica-jumps-to-73-and-44-in-west-kingston-alone.html)  [JSON](/news/2010/05/27/the-death-toll-in-the-recent-violence-in-jamaica-jumps-to-73-and-44-in-west-kingston-alone.json)  [XML](/news/2010/05/27/the-death-toll-in-the-recent-violence-in-jamaica-jumps-to-73-and-44-in-west-kingston-alone.xml)  
+
 ### [2010-05-27](/news/2010/05/27/index.md)
 
+##### recent violence
 # The death toll in the recent violence in Jamaica jumps to 73, and 44 in west Kingston alone. 
 
 Whereabouts of alleged drug kingpin still unknown as security forces continue hunt.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/05/2010524193557883583.html)
 2. [Montreal Gazette](http://www.montrealgazette.com/news/Jamaica+police+death+toll/3078392/story.html)

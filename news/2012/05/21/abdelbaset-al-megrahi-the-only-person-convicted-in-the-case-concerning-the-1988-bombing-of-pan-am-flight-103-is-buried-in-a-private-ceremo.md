@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/21/abdelbaset-al-megrahi-the-only-person-convicted-in-the-case-concerning-the-1988-bombing-of-pan-am-flight-103-is-buried-in-a-private-ceremo.html)  [JSON](/news/2012/05/21/abdelbaset-al-megrahi-the-only-person-convicted-in-the-case-concerning-the-1988-bombing-of-pan-am-flight-103-is-buried-in-a-private-ceremo.json)  [XML](/news/2012/05/21/abdelbaset-al-megrahi-the-only-person-convicted-in-the-case-concerning-the-1988-bombing-of-pan-am-flight-103-is-buried-in-a-private-ceremo.xml)  
+
 ### [2012-05-21](/news/2012/05/21/index.md)
 
+##### Abdelbaset al-Megrahi
 # Abdelbaset al-Megrahi, the only person convicted in the case concerning the 1988 bombing of Pan Am Flight 103, is buried in a private ceremony in a western suburb of Tripoli, having died of cancer aged 60. 
 
 Lockerbie bomber Abdelbaset al-Megrahi has been buried in a private ceremony in the Libyan capital, Tripoli.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/05/201252113326147579.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-18141647)

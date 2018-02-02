@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/4/adventurer-steve-fossett-is-reported-missing-over-the-nevada-desert.html)  [JSON](/news/2007/09/4/adventurer-steve-fossett-is-reported-missing-over-the-nevada-desert.json)  [XML](/news/2007/09/4/adventurer-steve-fossett-is-reported-missing-over-the-nevada-desert.xml)  
+
 ### [2007-09-4](/news/2007/09/4/index.md)
 
+##### Steve Fossett
 #  Adventurer Steve Fossett is reported missing over the Nevada desert. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/US/09/04/fossett.missing/index.html)
 

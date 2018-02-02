@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/17/the-israeli-government-outlaws-the-northern-branch-of-the-islamic-movement-in-israel-declaring-it-an-illegal-organization-the-northern-b.html)  [JSON](/news/2015/11/17/the-israeli-government-outlaws-the-northern-branch-of-the-islamic-movement-in-israel-declaring-it-an-illegal-organization-the-northern-b.json)  [XML](/news/2015/11/17/the-israeli-government-outlaws-the-northern-branch-of-the-islamic-movement-in-israel-declaring-it-an-illegal-organization-the-northern-b.xml)  
+
 ### [2015-11-17](/news/2015/11/17/index.md)
 
+##### Israel
 # The Israeli government outlaws the northern branch of the Islamic Movement in Israel, declaring it "an illegal organization". The northern branch of the Islamic Movement is led by Raed Salah, who has been convicted in court of numerous activities, including funding Hamas, contacting an Iranian agent, assaulting a police officer, and leading a violent protest. 
 
 Domestic Islamist movement has ties to Hamas and the Egyptian Muslim Brotherhood.
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/Israel-outlaws-northern-branch-of-Islamic-Movement-434343)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=314009)

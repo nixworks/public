@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/24/taag-angola-airlines-grounds-its-boeing-777-planes-following-engine-troubles-with-two-of-its-fleet.html)  [JSON](/news/2010/12/24/taag-angola-airlines-grounds-its-boeing-777-planes-following-engine-troubles-with-two-of-its-fleet.json)  [XML](/news/2010/12/24/taag-angola-airlines-grounds-its-boeing-777-planes-following-engine-troubles-with-two-of-its-fleet.xml)  
+
 ### [2010-12-24](/news/2010/12/24/index.md)
 
+##### TAAG Angola Airlines
 # TAAG Angola Airlines grounds its Boeing 777 planes following engine troubles with two of its fleet. 
 
 The Angolan national airline grounds its fleet of three Boeing 777 aircraft after one of the planes was forced to make an emergency landing.
 
 
-### Source:
+### Sources:
 
 1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/transporte/2010/11/51/Angolan-flag-carrier-suspends-flight-with-777-200-airplanes,bb83ae41-63c8-4ad6-9dc4-c4294e0b4e79.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-12075276)

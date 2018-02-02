@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/08/27/the-standing-committee-of-the-national-people-s-congress-passes-its-first-law-on-the-people-s-armed-police-giving-it-statutory-authority-t.html)  [JSON](/news/2009/08/27/the-standing-committee-of-the-national-people-s-congress-passes-its-first-law-on-the-people-s-armed-police-giving-it-statutory-authority-t.json)  [XML](/news/2009/08/27/the-standing-committee-of-the-national-people-s-congress-passes-its-first-law-on-the-people-s-armed-police-giving-it-statutory-authority-t.xml)  
+
 ### [2009-08-27](/news/2009/08/27/index.md)
 
+##### Standing Committee of the National People's Congress
 #  The Standing Committee of the National People's Congress passes its first law on the People's Armed Police, giving it statutory authority to respond to riots, terrorist attacks or other emergencies. 
 
 The law details the authority of the paramilitary force that played a key role in putting down the riots in the western Xinjiang region last month.
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2009-08/27/content_8625494.htm)
 2. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=126&art_id=nw20090827120336442C411990)
-3. [The New York Times](http://www.nytimes.com/2009/08/28/world/asia/28china.html)
+3. [The New York Times](https://www.nytimes.com/2009/08/28/world/asia/28china.html)
 3. [Cover Image](https://static01.nyt.com/images/2009/08/27/world/27china-75.jpg)
 
 ### Related:

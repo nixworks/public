@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/12/10/hard-rock-band-led-zeppelin-reunites-in-london-s-o2-arena.html)  [JSON](/news/2007/12/10/hard-rock-band-led-zeppelin-reunites-in-london-s-o2-arena.json)  [XML](/news/2007/12/10/hard-rock-band-led-zeppelin-reunites-in-london-s-o2-arena.xml)  
+
 ### [2007-12-10](/news/2007/12/10/index.md)
 
+##### Led Zeppelin
 #  Hard rock band Led Zeppelin reunites in London's O2 Arena.
 
 

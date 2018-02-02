@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/25/colombia-s-farc-guerrillas-kidnap-a-group-of-between-seven-and-ten-holidaymakers-from-a-spa-resort-near-san-rafael-antioquia.html)  [JSON](/news/2004/12/25/colombia-s-farc-guerrillas-kidnap-a-group-of-between-seven-and-ten-holidaymakers-from-a-spa-resort-near-san-rafael-antioquia.json)  [XML](/news/2004/12/25/colombia-s-farc-guerrillas-kidnap-a-group-of-between-seven-and-ten-holidaymakers-from-a-spa-resort-near-san-rafael-antioquia.xml)  
+
 ### [2004-12-25](/news/2004/12/25/index.md)
 
+##### Colombia
 #  Colombia's FARC guerrillas kidnap a group of between seven and ten holidaymakers from a spa resort near San Rafael, Antioquia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4125455.stm)
 

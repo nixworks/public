@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/31/hassan-nasrallah-the-secretary-general-of-hezbollah-says-that-it-has-started-negotiating-with-israel-on-prisoner-exchange.html)  [JSON](/news/2006/10/31/hassan-nasrallah-the-secretary-general-of-hezbollah-says-that-it-has-started-negotiating-with-israel-on-prisoner-exchange.json)  [XML](/news/2006/10/31/hassan-nasrallah-the-secretary-general-of-hezbollah-says-that-it-has-started-negotiating-with-israel-on-prisoner-exchange.xml)  
+
 ### [2006-10-31](/news/2006/10/31/index.md)
 
+##### Hassan Nasrallah
 #  Hassan Nasrallah, the Secretary-General of Hezbollah, says that it has started negotiating with Israel on prisoner exchange. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L31463700.htm)
 

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/04/11/the-president-of-cuba-raul-castro-allows-thousands-of-renters-to-gain-title-to-their-own-houses.html)  [JSON](/news/2008/04/11/the-president-of-cuba-raul-castro-allows-thousands-of-renters-to-gain-title-to-their-own-houses.json)  [XML](/news/2008/04/11/the-president-of-cuba-raul-castro-allows-thousands-of-renters-to-gain-title-to-their-own-houses.xml)  
+
 ### [2008-04-11](/news/2008/04/11/index.md)
 
+##### President
 #  The President of Cuba Ral Castro allows thousands of renters to gain title to their own houses. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [USA Today](http://blogs.usatoday.com/ondeadline/2008/04/raul-castro-to.html)
 
 ### Related:
 
-1. [The President of the United States Barack Obama and the President of Cuba Raul Castro meet at the sidelines of the Summit of the Americas in Panama. This marks the first meeting of the leaders of the two countries since the Cuban Revolution. ](/news/2015/04/11/the-president-of-the-united-states-barack-obama-and-the-president-of-cuba-raul-castro-meet-at-the-sidelines-of-the-summit-of-the-americas-in.md) _Context: President, Raul Castro_
-2. [President of Cuba Ral Castro announces he will not seek another term as president when his current one expires in 2018. He also states he will seek to put term limits and age caps for political offices in Cuba, including the presidency. ](/news/2013/02/25/president-of-cuba-raul-castro-announces-he-will-not-seek-another-term-as-president-when-his-current-one-expires-in-2018-he-also-states-he-w.md) _Context: President, Raul Castro_
-3. [Raul Castro, the President of Cuba, sacks Yadira Garcia Vera as Minister for Basic Industry for "weak control over resources set aside for investment and production.". ](/news/2010/09/19/raul-castro-the-president-of-cuba-sacks-yadira-garcaa-vera-as-minister-for-basic-industry-for-weak-control-over-resources-set-aside-for.md) _Context: President, Raul Castro_
-4. [Cuban President Ral Castro pledges to ease state control of the economy. ](/news/2010/08/2/cuban-president-raul-castro-pledges-to-ease-state-control-of-the-economy.md) _Context: President, Raul Castro_
-5. [ The National Assembly of People's Power unanimously selects Ral Castro to succeed his brother Fidel as President of Cuba. ](/news/2008/02/24/the-national-assembly-of-people-s-power-unanimously-selects-raul-castro-to-succeed-his-brother-fidel-as-president-of-cuba.md) _Context: President, Raul Castro_
+1. [President of Cuba Ral Castro announces he will not seek another term as president when his current one expires in 2018. He also states he will seek to put term limits and age caps for political offices in Cuba, including the presidency. ](/news/2013/02/25/president-of-cuba-raul-castro-announces-he-will-not-seek-another-term-as-president-when-his-current-one-expires-in-2018-he-also-states-he-w.md) _Context: President, Ral Castro_
+2. [Cuban President Ral Castro pledges to ease state control of the economy. ](/news/2010/08/2/cuban-president-raul-castro-pledges-to-ease-state-control-of-the-economy.md) _Context: President, Ral Castro_
+3. [ The National Assembly of People's Power unanimously selects Ral Castro to succeed his brother Fidel as President of Cuba. ](/news/2008/02/24/the-national-assembly-of-people-s-power-unanimously-selects-raul-castro-to-succeed-his-brother-fidel-as-president-of-cuba.md) _Context: President, Ral Castro_
+4. [The Cuban Parliament approves moving the country's municipal elections to March, and the presidential election to April, when President Raul Castro is expected to step down. ](/news/2017/12/21/the-cuban-parliament-approves-moving-the-country-s-municipal-elections-to-march-and-the-presidential-election-to-april-when-president-raao.md) _Context: President_
+5. [Cuba's National Assembly of People's Power approves a law banning commemorative statues of late President Fidel Castro, and the naming of public places after him, in accordance with the wishes of Castro, who died last month. ](/news/2016/12/27/cuba-s-national-assembly-of-people-s-power-approves-a-law-banning-commemorative-statues-of-late-president-fidel-castro-and-the-naming-of-pu.md) _Context: President_

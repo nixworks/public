@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/18/in-ukraine-president-viktor-yushchenko-wants-to-abolish-traffic-police-because-it-is-too-corrupted.html)  [JSON](/news/2005/07/18/in-ukraine-president-viktor-yushchenko-wants-to-abolish-traffic-police-because-it-is-too-corrupted.json)  [XML](/news/2005/07/18/in-ukraine-president-viktor-yushchenko-wants-to-abolish-traffic-police-because-it-is-too-corrupted.xml)  
+
 ### [2005-07-18](/news/2005/07/18/index.md)
 
+##### Ukraine
 #  In Ukraine, president Viktor Yushchenko wants to abolish traffic police because it is too corrupted 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4694199.stm)
 2. [MosNews](http://www.mosnews.com/news/2005/07/18/ukrainegai.shtml)

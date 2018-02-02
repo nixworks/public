@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/5/four-women-accuse-film-and-television-producer-d
 
 ### [2018-01-5](/news/2018/01/5/index.md)
 
+##### Weinstein effect
 # Four women accuse film and television producer, director, and writer Paul Haggis ("Crash" and "Million Dollar Baby") of sexual misconduct including two rapes. 
 
 A civil lawsuit was previously filed against the Oscar-winning filmmaker, prompting three more women to come forward.

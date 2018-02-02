@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/01/1/comparing-planned-united-states-finger-printing-and-photographic-security-controls-on-travelers-from-brazil-and-other-nations-to-nazi-actio.html)  [JSON](/news/2004/01/1/comparing-planned-united-states-finger-printing-and-photographic-security-controls-on-travelers-from-brazil-and-other-nations-to-nazi-actio.json)  [XML](/news/2004/01/1/comparing-planned-united-states-finger-printing-and-photographic-security-controls-on-travelers-from-brazil-and-other-nations-to-nazi-actio.xml)  
+
 ### [2004-01-1](/news/2004/01/1/index.md)
 
+##### Nazism
 #  Comparing planned United States finger-printing and photographic security controls on travelers from Brazil and other nations to Nazi actions, a Brazilian judge orders the fingerprinting of all arriving United States citizens in response. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yahoo](http://story.news.yahoo.com/news?tmpl=story&cid=564&ncid=564&e=1&u=/nm/20040101/ts_nm/brazil_usa_immigration_dc)
 

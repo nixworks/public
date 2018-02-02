@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/30/juan-manuel-santos-the-defense-minister-of-colombia-claims-that-the-military-has-been-infiltrated-by-farc-and-drug-gangs.html)  [JSON](/news/2007/07/30/juan-manuel-santos-the-defense-minister-of-colombia-claims-that-the-military-has-been-infiltrated-by-farc-and-drug-gangs.json)  [XML](/news/2007/07/30/juan-manuel-santos-the-defense-minister-of-colombia-claims-that-the-military-has-been-infiltrated-by-farc-and-drug-gangs.xml)  
+
 ### [2007-07-30](/news/2007/07/30/index.md)
 
+##### Juan Manuel Santos
 #  Juan Manuel Santos, the Defense Minister of Colombia, claims that the military has been infiltrated by FARC and drug gangs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Canada.com](http://www.canada.com/topics/news/world/story.html?id=024cd644-15ac-4657-8385-ec3544aca221&k=97801)
 

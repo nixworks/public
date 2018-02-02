@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/27/mexican-beauty-queen-maraa-susana-flores-ga-mez-crowned-as-2012-woman-of-sinaloa-is-killed-during-a-weekend-shootout-in-sinaloa-mexico.html)  [JSON](/news/2012/11/27/mexican-beauty-queen-maraa-susana-flores-ga-mez-crowned-as-2012-woman-of-sinaloa-is-killed-during-a-weekend-shootout-in-sinaloa-mexico.json)  [XML](/news/2012/11/27/mexican-beauty-queen-maraa-susana-flores-ga-mez-crowned-as-2012-woman-of-sinaloa-is-killed-during-a-weekend-shootout-in-sinaloa-mexico.xml)  
+
 ### [2012-11-27](/news/2012/11/27/index.md)
 
+##### Mexican
 # Mexican beauty queen Maria Susana Flores Gamez, crowned as 2012 Woman of Sinaloa, is killed during a weekend shootout in Sinaloa, Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/11/26/world/americas/mexico-beauty-queen-death)
 

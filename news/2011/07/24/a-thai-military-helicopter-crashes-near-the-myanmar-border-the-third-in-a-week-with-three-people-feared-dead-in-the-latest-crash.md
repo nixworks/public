@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/24/a-thai-military-helicopter-crashes-near-the-myanmar-border-the-third-in-a-week-with-three-people-feared-dead-in-the-latest-crash.html)  [JSON](/news/2011/07/24/a-thai-military-helicopter-crashes-near-the-myanmar-border-the-third-in-a-week-with-three-people-feared-dead-in-the-latest-crash.json)  [XML](/news/2011/07/24/a-thai-military-helicopter-crashes-near-the-myanmar-border-the-third-in-a-week-with-three-people-feared-dead-in-the-latest-crash.xml)  
+
 ### [2011-07-24](/news/2011/07/24/index.md)
 
+##### Thailand
 # A Thai military helicopter crashes near the Myanmar border, the third in a week, with three people feared dead in the latest crash. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/43870208)
 

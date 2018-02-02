@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/13/a-magnitude-6-9-earthquake-strikes-myanmar-396-
 
 ### [2016-04-13](/news/2016/04/13/index.md)
 
+##### April 2016 Myanmar earthquake
 #  A magnitude 6.9 earthquake strikes Myanmar 396 kilometers (246 miles) north of the capital, Naypyidaw, according to the U.S. Geological Survey. 
 
 Large tremor felt in parts of eastern India and Bangladesh; authorities say there were no immediate reports of injuries or damage

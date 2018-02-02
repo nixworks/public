@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/04/20/repeat-polls-for-sri-lanka-s-april-parliamentary-election-are-held-in-nawalapitiya-and-trincomalee-where-ballots-were-annulled-due-to-violen.html)  [JSON](/news/2010/04/20/repeat-polls-for-sri-lanka-s-april-parliamentary-election-are-held-in-nawalapitiya-and-trincomalee-where-ballots-were-annulled-due-to-violen.json)  [XML](/news/2010/04/20/repeat-polls-for-sri-lanka-s-april-parliamentary-election-are-held-in-nawalapitiya-and-trincomalee-where-ballots-were-annulled-due-to-violen.xml)  
+
 ### [2010-04-20](/news/2010/04/20/index.md)
 
+##### Sri Lanka
 # Repeat polls for Sri Lanka's April parliamentary election are held in Nawalapitiya and Trincomalee where ballots were annulled due to violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8631329.stm)
 2. [People's Daily Online](http://english.people.com.cn/90001/90777/90851/6957408.html)
-3. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/20/AR2010042002407.html)
+3. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/04/20/AR2010042002407.html)
 
 ### Related:
 

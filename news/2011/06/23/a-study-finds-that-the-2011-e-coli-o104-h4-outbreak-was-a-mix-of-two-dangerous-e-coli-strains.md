@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/23/a-study-finds-that-the-2011-e-coli-o104-h4-outbreak-was-a-mix-of-two-dangerous-e-coli-strains.html)  [JSON](/news/2011/06/23/a-study-finds-that-the-2011-e-coli-o104-h4-outbreak-was-a-mix-of-two-dangerous-e-coli-strains.json)  [XML](/news/2011/06/23/a-study-finds-that-the-2011-e-coli-o104-h4-outbreak-was-a-mix-of-two-dangerous-e-coli-strains.xml)  
+
 ### [2011-06-23](/news/2011/06/23/index.md)
 
+##### E. coli blamed for 46 deaths
 # A study finds that the 2011 E. coli O104:H4 outbreak was a mix of two dangerous "E. coli" strains. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''USA Today](http://yourlife.usatoday.com/fitness-food/safety/story/2011/06/E-coli-outbreak-caused-by-mix-of-2-deadly-strains/48729896/1)
 

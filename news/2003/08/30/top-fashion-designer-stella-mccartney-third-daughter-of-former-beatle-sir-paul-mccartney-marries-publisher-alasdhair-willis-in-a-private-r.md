@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/30/top-fashion-designer-stella-mccartney-third-daughter-of-former-beatle-sir-paul-mccartney-marries-publisher-alasdhair-willis-in-a-private-r.html)  [JSON](/news/2003/08/30/top-fashion-designer-stella-mccartney-third-daughter-of-former-beatle-sir-paul-mccartney-marries-publisher-alasdhair-willis-in-a-private-r.json)  [XML](/news/2003/08/30/top-fashion-designer-stella-mccartney-third-daughter-of-former-beatle-sir-paul-mccartney-marries-publisher-alasdhair-willis-in-a-private-r.xml)  
+
 ### [2003-08-30](/news/2003/08/30/index.md)
 
+##### Stella McCartney
 #  Top fashion designer Stella McCartney, third daughter of former Beatle Sir Paul McCartney marries publisher Alasdhair Willis in a private Roman Catholic chapel at Mount Stuart House, the stately home of the Marquess of Bute.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/7/at-least-16-miners-are-killed-during-a-fire-at-a-gold-mine-in-zhaoyuan-shandong-in-china-23-others-are-still-trapped-inside.html)  [JSON](/news/2010/08/7/at-least-16-miners-are-killed-during-a-fire-at-a-gold-mine-in-zhaoyuan-shandong-in-china-23-others-are-still-trapped-inside.json)  [XML](/news/2010/08/7/at-least-16-miners-are-killed-during-a-fire-at-a-gold-mine-in-zhaoyuan-shandong-in-china-23-others-are-still-trapped-inside.xml)  
+
 ### [2010-08-7](/news/2010/08/7/index.md)
 
+##### Zhaoyuan
 # At least 16 miners are killed during a fire at a gold mine in Zhaoyuan, Shandong, in China. 23 others are still trapped inside. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/2010871268290842.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-08/07/c_13433884.htm)

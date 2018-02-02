@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/7/japan-s-longest-serving-chief-cabinet-secretary-yasuo-fukuda-resigns-to-take-responsibility-for-not-making-pension-payments.html)  [JSON](/news/2004/05/7/japan-s-longest-serving-chief-cabinet-secretary-yasuo-fukuda-resigns-to-take-responsibility-for-not-making-pension-payments.json)  [XML](/news/2004/05/7/japan-s-longest-serving-chief-cabinet-secretary-yasuo-fukuda-resigns-to-take-responsibility-for-not-making-pension-payments.xml)  
+
 ### [2004-05-7](/news/2004/05/7/index.md)
 
+##### Yasuo Fukuda
 #  Japan's longest-serving chief cabinet secretary, Yasuo Fukuda, resigns to take responsibility for not making pension payments. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/article.cfm?objectID=441EEFF5-552F-4F27-89AE2CCBDF968092&title=Japan%27s%20Cabinet%20Secretary%20Resigns&catOID=45C9C78B-88AD-11D4-A57200A0CC5EE46C&categoryname=Asia%20Pacific)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/05/31/four-people-are-killed-when-two-small-planes-collide-near-phoenix-arizona-u-s.html)  [JSON](/news/2013/05/31/four-people-are-killed-when-two-small-planes-collide-near-phoenix-arizona-u-s.json)  [XML](/news/2013/05/31/four-people-are-killed-when-two-small-planes-collide-near-phoenix-arizona-u-s.xml)  
+
 ### [2013-05-31](/news/2013/05/31/index.md)
 
+##### Phoenix, Arizona
 # Four people are killed when two small planes collide near Phoenix, Arizona, U.S. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/story/news/nation/2013/05/31/phoenix-plane-crash-kills-four-people/2377561/)
+1. [USA Today](https://www.usatoday.com/story/news/nation/2013/05/31/phoenix-plane-crash-kills-four-people/2377561/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

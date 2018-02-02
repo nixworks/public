@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/3/the-death-toll-in-italy-rises-to-21-following-sudden-extreme-spells-of-rain-and-mud-showers-in-messina-and-other-parts-of-sicily-as-the-inj.html)  [JSON](/news/2009/10/3/the-death-toll-in-italy-rises-to-21-following-sudden-extreme-spells-of-rain-and-mud-showers-in-messina-and-other-parts-of-sicily-as-the-inj.json)  [XML](/news/2009/10/3/the-death-toll-in-italy-rises-to-21-following-sudden-extreme-spells-of-rain-and-mud-showers-in-messina-and-other-parts-of-sicily-as-the-inj.xml)  
+
 ### [2009-10-3](/news/2009/10/3/index.md)
 
+##### Italy
 #  The death toll in Italy rises to 21 following sudden extreme spells of rain and mud showers in Messina and other parts of Sicily as the injured total reaches at least eighty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8288629.stm)
 

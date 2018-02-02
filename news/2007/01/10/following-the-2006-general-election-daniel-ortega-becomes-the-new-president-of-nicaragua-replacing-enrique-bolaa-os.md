@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/10/following-the-2006-general-election-daniel-ortega-becomes-the-new-president-of-nicaragua-replacing-enrique-bolaa-os.html)  [JSON](/news/2007/01/10/following-the-2006-general-election-daniel-ortega-becomes-the-new-president-of-nicaragua-replacing-enrique-bolaa-os.json)  [XML](/news/2007/01/10/following-the-2006-general-election-daniel-ortega-becomes-the-new-president-of-nicaragua-replacing-enrique-bolaa-os.xml)  
+
 ### [2007-01-10](/news/2007/01/10/index.md)
 
+##### 2006 general election
 #  Following the 2006 general election, Daniel Ortega becomes the new President of Nicaragua, replacing Enrique Bolanos. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://www.cbsnews.com/stories/2007/01/10/ap/world/mainD8MIAAHG0.shtml)
 

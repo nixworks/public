@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/22/tim-pawlenty-ex-governor-of-minnesota-announces-his-candidacy-for-the-republican-nomination-as-president-of-the-united-states.html)  [JSON](/news/2011/05/22/tim-pawlenty-ex-governor-of-minnesota-announces-his-candidacy-for-the-republican-nomination-as-president-of-the-united-states.json)  [XML](/news/2011/05/22/tim-pawlenty-ex-governor-of-minnesota-announces-his-candidacy-for-the-republican-nomination-as-president-of-the-united-states.xml)  
+
 ### [2011-05-22](/news/2011/05/22/index.md)
 
+##### Tim Pawlenty
 # Tim Pawlenty, ex-Governor of Minnesota, announces his candidacy for the Republican nomination as President of the United States. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Tim Pawlenty](http://www.timpawlenty.com/pages/announcement2012)
 

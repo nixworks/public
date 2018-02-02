@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/31/two-iranian-warships-leave-port-sudan-on-the-red-sea-after-a-four-day-stay.html)  [JSON](/news/2012/10/31/two-iranian-warships-leave-port-sudan-on-the-red-sea-after-a-four-day-stay.json)  [XML](/news/2012/10/31/two-iranian-warships-leave-port-sudan-on-the-red-sea-after-a-four-day-stay.xml)  
+
 ### [2012-10-31](/news/2012/10/31/index.md)
 
+##### Iranian Naval
 # Two Iranian warships leave Port Sudan on the Red Sea, after a four-day stay. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Sudan Tribune](http://www.sudantribune.com/spip.php?article44393)
 

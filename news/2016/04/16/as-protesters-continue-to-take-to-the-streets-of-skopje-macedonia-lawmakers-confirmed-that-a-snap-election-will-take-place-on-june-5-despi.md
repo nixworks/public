@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/16/as-protesters-continue-to-take-to-the-streets-o
 
 ### [2016-04-16](/news/2016/04/16/index.md)
 
+##### Macedonian parliamentary election, 2016
 # As protesters continue to take to the streets of Skopje, Macedonia, lawmakers confirmed that a snap election will take place on June 5 despite the protesters being angry at President Gjorge Ivanov's decision to halt investigations into more than 50 public figures, including top politicians embroiled in a wire-tapping scandal. Zoran Zaev, the main opposition leader, vowed to boycott the election. 
 
 Protests on streets of Skopje for fourth night after Macedonia confirmed 5 June elections as country grapples with crisis

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/13/the-second-case-of-poliomyelitis-in-two-days-is-reported-in-russia-in-russia-s-first-polio-cases-in-15-years-with-the-virus-believed-to-ha.html)  [JSON](/news/2010/05/13/the-second-case-of-poliomyelitis-in-two-days-is-reported-in-russia-in-russia-s-first-polio-cases-in-15-years-with-the-virus-believed-to-ha.json)  [XML](/news/2010/05/13/the-second-case-of-poliomyelitis-in-two-days-is-reported-in-russia-in-russia-s-first-polio-cases-in-15-years-with-the-virus-believed-to-ha.xml)  
+
 ### [2010-05-13](/news/2010/05/13/index.md)
 
+##### polio
 # The second case of poliomyelitis in two days is reported in Russia, in Russia's first polio cases in 15 years, with the virus believed to have come from Tajikistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA](http://en.rian.ru/russia/20100513/159006633.html)
 2. [RT](http://rt.com/prime-time/2010-05-13/poliomyelitis-russia-tajikistan-measures.html)

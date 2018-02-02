@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/8/an-f4-tornado-hits-metro-area-of-oklahoma-city-and-became-the-10th-costliest-tornado-in-united-states-history-no-one-was-killed-but-many.html)  [JSON](/news/2003/05/8/an-f4-tornado-hits-metro-area-of-oklahoma-city-and-became-the-10th-costliest-tornado-in-united-states-history-no-one-was-killed-but-many.json)  [XML](/news/2003/05/8/an-f4-tornado-hits-metro-area-of-oklahoma-city-and-became-the-10th-costliest-tornado-in-united-states-history-no-one-was-killed-but-many.xml)  
+
 ### [2003-05-8](/news/2003/05/8/index.md)
 
+##### Fujita scale
 #  An F4 tornado hits metro area of Oklahoma City, and became the 10th costliest tornado in United States history. No one was killed but many were injured. The tornado followed a path similar to that of the F5 tornado of May 3, 1999.
 
 

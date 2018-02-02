@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/08/1/foxconn-technology-a-computer-assembler-headquartered-in-taiwan-plans-to-add-one-million-robots-to-its-plants-over-the-next-three-years-a.html)  [JSON](/news/2011/08/1/foxconn-technology-a-computer-assembler-headquartered-in-taiwan-plans-to-add-one-million-robots-to-its-plants-over-the-next-three-years-a.json)  [XML](/news/2011/08/1/foxconn-technology-a-computer-assembler-headquartered-in-taiwan-plans-to-add-one-million-robots-to-its-plants-over-the-next-three-years-a.xml)  
+
 ### [2011-08-1](/news/2011/08/1/index.md)
 
+##### Foxconn
 # Foxconn Technology, a computer assembler headquartered in Taiwan, plans to add one million robots to its plants over the next three years, according to a Reuters report. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/08/01/us-foxconn-robots-idUSTRE77016B20110801)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20110801&t=2&i=470425128&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-01T124842Z_01_BTRE7700YSA00_RTROPTP_0_CHINA-LABOUR)
+1. [Reuters](https://www.reuters.com/article/2011/08/01/us-foxconn-robots-idUSTRE77016B20110801)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20110801&t=2&i=470425128&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-08-01T124842Z_01_BTRE7700YSA00_RTROPTP_0_CHINA-LABOUR)
 
 ### Related:
 

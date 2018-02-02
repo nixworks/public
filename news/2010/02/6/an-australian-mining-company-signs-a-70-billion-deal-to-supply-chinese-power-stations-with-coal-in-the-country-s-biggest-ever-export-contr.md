@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/6/an-australian-mining-company-signs-a-70-billion-deal-to-supply-chinese-power-stations-with-coal-in-the-country-s-biggest-ever-export-contr.html)  [JSON](/news/2010/02/6/an-australian-mining-company-signs-a-70-billion-deal-to-supply-chinese-power-stations-with-coal-in-the-country-s-biggest-ever-export-contr.json)  [XML](/news/2010/02/6/an-australian-mining-company-signs-a-70-billion-deal-to-supply-chinese-power-stations-with-coal-in-the-country-s-biggest-ever-export-contr.xml)  
+
 ### [2010-02-6](/news/2010/02/6/index.md)
 
+##### Australia
 # An Australian mining company signs a $70 billion deal to supply Chinese power stations with coal, in the country's biggest ever export contract. 
 
 MINING magnate Clive Palmer has secured Australia&#039;s biggest export deal, with a $70 billion agreement to sell coal to China.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8501777.stm)
 2. [Sydney Morning Herald](http://www.smh.com.au/business/70-billion-export-deal-with-china-20100206-njvz.html)

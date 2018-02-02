@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/4/two-boats-collide-between-kiwa-and-remba-islands-on-lake-victoria-leaving-several-people-dead.html)  [JSON](/news/2015/08/4/two-boats-collide-between-kiwa-and-remba-islands-on-lake-victoria-leaving-several-people-dead.json)  [XML](/news/2015/08/4/two-boats-collide-between-kiwa-and-remba-islands-on-lake-victoria-leaving-several-people-dead.xml)  
+
 ### [2015-08-4](/news/2015/08/4/index.md)
 
+##### Lake Victoria
 # Two boats collide between Kiwa and Remba Islands on Lake Victoria leaving several people dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Nation](http://www.nation.co.ke/news/-/1056/2820274/-/145wrukz/-/index.html)
 

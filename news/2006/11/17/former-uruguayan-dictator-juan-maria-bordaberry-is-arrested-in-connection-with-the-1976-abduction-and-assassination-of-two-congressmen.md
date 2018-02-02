@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/17/former-uruguayan-dictator-juan-maria-bordaberry-is-arrested-in-connection-with-the-1976-abduction-and-assassination-of-two-congressmen.html)  [JSON](/news/2006/11/17/former-uruguayan-dictator-juan-maria-bordaberry-is-arrested-in-connection-with-the-1976-abduction-and-assassination-of-two-congressmen.json)  [XML](/news/2006/11/17/former-uruguayan-dictator-juan-maria-bordaberry-is-arrested-in-connection-with-the-1976-abduction-and-assassination-of-two-congressmen.xml)  
+
 ### [2006-11-17](/news/2006/11/17/index.md)
 
+##### Uruguay
 #  Former Uruguayan dictator Juan Mara Bordaberry is arrested in connection with the 1976 abduction and assassination of two Congressmen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6157418.stm)
 2. [CNN](http://www.cnn.com/2006/WORLD/americas/11/17/uruguay.ap/index.html)

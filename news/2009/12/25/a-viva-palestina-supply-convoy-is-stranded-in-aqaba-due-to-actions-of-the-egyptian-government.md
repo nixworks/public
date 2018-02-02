@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/25/a-viva-palestina-supply-convoy-is-stranded-in-aqaba-due-to-actions-of-the-egyptian-government.html)  [JSON](/news/2009/12/25/a-viva-palestina-supply-convoy-is-stranded-in-aqaba-due-to-actions-of-the-egyptian-government.json)  [XML](/news/2009/12/25/a-viva-palestina-supply-convoy-is-stranded-in-aqaba-due-to-actions-of-the-egyptian-government.xml)  
+
 ### [2009-12-25](/news/2009/12/25/index.md)
 
+##### Viva Palestina
 #  A Viva Palestina supply convoy is stranded in Aqaba due to actions of the Egyptian government. 
 
 UK politician appeals to President Mubarak to let convoy enter Gaza through Red Sea port.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2009/12/20091225145733609177.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/12/22/rape-charges-are-dropped-against-the-three-duke-university-lacrosse-players-who-were-accused-of-raping-a-stripper-in-the-2006-duke-universi.html)  [JSON](/news/2006/12/22/rape-charges-are-dropped-against-the-three-duke-university-lacrosse-players-who-were-accused-of-raping-a-stripper-in-the-2006-duke-universi.json)  [XML](/news/2006/12/22/rape-charges-are-dropped-against-the-three-duke-university-lacrosse-players-who-were-accused-of-raping-a-stripper-in-the-2006-duke-universi.xml)  
+
 ### [2006-12-22](/news/2006/12/22/index.md)
 
+##### Duke University
 #  Rape charges are dropped against the three Duke University lacrosse players who were accused of raping a stripper in the 2006 Duke University lacrosse team scandal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/s/ap/20061223/ap_on_re_us/duke_lacrosse)
+1. [AP](https://news.yahoo.com/s/ap/20061223/ap_on_re_us/duke_lacrosse)
 
 ### Related:
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/8/two-us-paratroopers-are-killed-west-of-baghdad-us-forces-bomb-homes-in-tikrit-following-the-shooting-down-of-a-helicopter-iraqi-and-amer.html)  [JSON](/news/2003/11/8/two-us-paratroopers-are-killed-west-of-baghdad-us-forces-bomb-homes-in-tikrit-following-the-shooting-down-of-a-helicopter-iraqi-and-amer.json)  [XML](/news/2003/11/8/two-us-paratroopers-are-killed-west-of-baghdad-us-forces-bomb-homes-in-tikrit-following-the-shooting-down-of-a-helicopter-iraqi-and-amer.xml)  
+
 ### [2003-11-8](/news/2003/11/8/index.md)
 
+##### Tikrit
 #  Two US paratroopers are killed west of Baghdad. US forces bomb homes in Tikrit, following the shooting down of a helicopter. Iraqi and American rights investigators state to a conference they had identified 260 mass graves containing the bodies of at least 300,000 Iraqis murdered by Saddam's regime. Debate intensifies about the choices the U.S. faces in devising a strategy for Iraq. U.S. Senator John McCain argues that force levels are inadequate. The International Red Cross, which was already planning to reduce staff in Iraq following a deadly attack on its Baghdad headquarters, states it is temporarily closing its Baghdad and Basra offices due to dangerous conditions. A US Army study concludes that Iraqi intelligence was excellent during the conflict (in which their fighting forces collapsed), and probably still is. Much work is still needed to win over hearts-and-minds in Iraq.
 
 

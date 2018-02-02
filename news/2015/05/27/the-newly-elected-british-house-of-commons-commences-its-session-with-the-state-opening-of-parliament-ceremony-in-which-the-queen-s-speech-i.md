@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/27/the-newly-elected-british-house-of-commons-commences-its-session-with-the-state-opening-of-parliament-ceremony-in-which-the-queen-s-speech-i.html)  [JSON](/news/2015/05/27/the-newly-elected-british-house-of-commons-commences-its-session-with-the-state-opening-of-parliament-ceremony-in-which-the-queen-s-speech-i.json)  [XML](/news/2015/05/27/the-newly-elected-british-house-of-commons-commences-its-session-with-the-state-opening-of-parliament-ceremony-in-which-the-queen-s-speech-i.xml)  
+
 ### [2015-05-27](/news/2015/05/27/index.md)
 
+##### newly elected
 # The newly elected British House of Commons commences its session with the State Opening of Parliament ceremony in which the Queen's Speech is delivered. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/uk-politics-32894214)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/83253000/jpg/_83253307_queen.jpg)

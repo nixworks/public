@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/12/cuba-releases-7-political-prisoners-and-sends-them-into-exile-in-spain-the-first-in-a-wave-of-52.html)  [JSON](/news/2010/07/12/cuba-releases-7-political-prisoners-and-sends-them-into-exile-in-spain-the-first-in-a-wave-of-52.json)  [XML](/news/2010/07/12/cuba-releases-7-political-prisoners-and-sends-them-into-exile-in-spain-the-first-in-a-wave-of-52.xml)  
+
 ### [2010-07-12](/news/2010/07/12/index.md)
 
+##### Cuba
 # Cuba releases 7 political prisoners and sends them into exile in Spain, the first in a wave of 52. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5iUXtrV2QU_hugo-6AVuxgVM2n5JQD9GTR8G00)
 

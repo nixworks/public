@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/12/6/republican-jim-demint-announces-that-he-will-resign-from-the-senate-of-the-united-states-in-january-to-lead-the-heritage-foundation.html)  [JSON](/news/2012/12/6/republican-jim-demint-announces-that-he-will-resign-from-the-senate-of-the-united-states-in-january-to-lead-the-heritage-foundation.json)  [XML](/news/2012/12/6/republican-jim-demint-announces-that-he-will-resign-from-the-senate-of-the-united-states-in-january-to-lead-the-heritage-foundation.xml)  
+
 ### [2012-12-6](/news/2012/12/6/index.md)
 
+##### Republican
 # Republican Jim DeMint announces that he will resign from the Senate of the United States in January to lead the Heritage Foundation. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/blogs/post-politics/wp/2012/12/06/jim-demint-leaving-the-senate/)
+1. [Washington Post](https://www.washingtonpost.com/blogs/post-politics/wp/2012/12/06/jim-demint-leaving-the-senate/)
 
 ### Related:
 

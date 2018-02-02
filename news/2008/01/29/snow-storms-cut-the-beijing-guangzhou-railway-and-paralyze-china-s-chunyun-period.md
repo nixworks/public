@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/29/snow-storms-cut-the-beijing-guangzhou-railway-and-paralyze-china-s-chunyun-period.html)  [JSON](/news/2008/01/29/snow-storms-cut-the-beijing-guangzhou-railway-and-paralyze-china-s-chunyun-period.json)  [XML](/news/2008/01/29/snow-storms-cut-the-beijing-guangzhou-railway-and-paralyze-china-s-chunyun-period.xml)  
+
 ### [2008-01-29](/news/2008/01/29/index.md)
 
+##### Beijing-Guangzhou railway
 #  Snow storms cut the Beijing-Guangzhou railway and paralyze China's "Chunyun" period. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/5494135.html)
 

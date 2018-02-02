@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/18/former-chilean-president-augusto-pinochet-has-been-taken-to-hospital-after-suffering-a-stroke.html)  [JSON](/news/2004/12/18/former-chilean-president-augusto-pinochet-has-been-taken-to-hospital-after-suffering-a-stroke.json)  [XML](/news/2004/12/18/former-chilean-president-augusto-pinochet-has-been-taken-to-hospital-after-suffering-a-stroke.xml)  
+
 ### [2004-12-18](/news/2004/12/18/index.md)
 
+##### Chile
 #  Former Chilean President Augusto Pinochet has been taken to hospital after suffering a stroke. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/4108039.stm)
 

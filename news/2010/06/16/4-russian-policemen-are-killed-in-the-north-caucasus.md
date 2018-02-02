@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/16/4-russian-policemen-are-killed-in-the-north-caucasus.html)  [JSON](/news/2010/06/16/4-russian-policemen-are-killed-in-the-north-caucasus.json)  [XML](/news/2010/06/16/4-russian-policemen-are-killed-in-the-north-caucasus.xml)  
+
 ### [2010-06-16](/news/2010/06/16/index.md)
 
+##### North Caucasus
 # 4 Russian policemen are killed in the North Caucasus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-06/16/c_13352900.htm)
 

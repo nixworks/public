@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/7/american-sportscaster-erin-andrews-is-awarded-55
 
 ### [2016-03-7](/news/2016/03/7/index.md)
 
+##### Erin Andrews
 # American sportscaster Erin Andrews is awarded $55 million damages after a stranger, in 2008, secretly recorded her in the nude through a hotel door peephole, and posted the video on the Internet. 
 
 

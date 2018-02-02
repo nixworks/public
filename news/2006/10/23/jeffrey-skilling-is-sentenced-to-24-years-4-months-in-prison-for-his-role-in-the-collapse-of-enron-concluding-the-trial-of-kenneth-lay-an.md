@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/23/jeffrey-skilling-is-sentenced-to-24-years-4-months-in-prison-for-his-role-in-the-collapse-of-enron-concluding-the-trial-of-kenneth-lay-an.html)  [JSON](/news/2006/10/23/jeffrey-skilling-is-sentenced-to-24-years-4-months-in-prison-for-his-role-in-the-collapse-of-enron-concluding-the-trial-of-kenneth-lay-an.json)  [XML](/news/2006/10/23/jeffrey-skilling-is-sentenced-to-24-years-4-months-in-prison-for-his-role-in-the-collapse-of-enron-concluding-the-trial-of-kenneth-lay-an.xml)  
+
 ### [2006-10-23](/news/2006/10/23/index.md)
 
+##### Jeffrey Skilling
 #  Jeffrey Skilling is sentenced to 24 years, 4 months in prison for his role in the collapse of Enron, concluding the Trial of Kenneth Lay and Jeffrey Skilling. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CBS News](http://www.cbsnews.com/stories/2006/10/23/ap/business/mainD8KUIIFO0.shtml)
 

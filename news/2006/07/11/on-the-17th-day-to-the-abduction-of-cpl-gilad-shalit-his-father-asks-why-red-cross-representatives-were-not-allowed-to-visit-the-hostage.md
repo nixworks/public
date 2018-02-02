@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/11/on-the-17th-day-to-the-abduction-of-cpl-gilad-shalit-his-father-asks-why-red-cross-representatives-were-not-allowed-to-visit-the-hostage.html)  [JSON](/news/2006/07/11/on-the-17th-day-to-the-abduction-of-cpl-gilad-shalit-his-father-asks-why-red-cross-representatives-were-not-allowed-to-visit-the-hostage.json)  [XML](/news/2006/07/11/on-the-17th-day-to-the-abduction-of-cpl-gilad-shalit-his-father-asks-why-red-cross-representatives-were-not-allowed-to-visit-the-hostage.xml)  
+
 ### [2006-07-11](/news/2006/07/11/index.md)
 
+##### Gilad Shalit
 #  On the 17th day to the abduction of Cpl. Gilad Shalit, his father asks why Red Cross representatives were not allowed to visit the hostage, as established in the Geneva Conventions. 
 
 17 days after kidnapping of IDF soldier, President Katsav visits family, calls for Gilad’s release. Father Noam Shalit responds to IDF inquiry into incident which found ‘operational failures’: I expect events won’t repeat themselves
 
 
-### Source:
+### Sources:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3274154,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

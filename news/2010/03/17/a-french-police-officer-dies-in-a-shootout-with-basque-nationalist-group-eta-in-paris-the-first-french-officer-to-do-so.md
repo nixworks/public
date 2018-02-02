@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/17/a-french-police-officer-dies-in-a-shootout-with-basque-nationalist-group-eta-in-paris-the-first-french-officer-to-do-so.html)  [JSON](/news/2010/03/17/a-french-police-officer-dies-in-a-shootout-with-basque-nationalist-group-eta-in-paris-the-first-french-officer-to-do-so.json)  [XML](/news/2010/03/17/a-french-police-officer-dies-in-a-shootout-with-basque-nationalist-group-eta-in-paris-the-first-french-officer-to-do-so.xml)  
+
 ### [2010-03-17](/news/2010/03/17/index.md)
 
+##### France
 # A French police officer dies in a shootout with Basque nationalist group ETA in Paris, the first French officer to do so. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/europe/03/17/france.eta.policeman/)
 

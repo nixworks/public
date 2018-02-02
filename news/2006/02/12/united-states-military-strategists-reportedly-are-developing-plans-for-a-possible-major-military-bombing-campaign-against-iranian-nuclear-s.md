@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/12/united-states-military-strategists-reportedly-are-developing-plans-for-a-possible-major-military-bombing-campaign-against-iranian-nuclear-s.html)  [JSON](/news/2006/02/12/united-states-military-strategists-reportedly-are-developing-plans-for-a-possible-major-military-bombing-campaign-against-iranian-nuclear-s.json)  [XML](/news/2006/02/12/united-states-military-strategists-reportedly-are-developing-plans-for-a-possible-major-military-bombing-campaign-against-iranian-nuclear-s.xml)  
+
 ### [2006-02-12](/news/2006/02/12/index.md)
 
+##### nuclear program
 #  United States military strategists reportedly are developing plans for a possible major military bombing campaign against Iranian nuclear sites as a "last resort" in the event that diplomatic efforts fail to convince Iran to voluntarily end what Western governments consider to be efforts at acquiring a nuclear weapon. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/02/12/wiran12.xml&sSheet=/news/2006/02/12/ixnewstop.html)
 

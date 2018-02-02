@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/02/17/christian-worship-leader-and-songwriter-brenton-brown-released-his-first-solo-album-everlasting-god.html)  [JSON](/news/2006/02/17/christian-worship-leader-and-songwriter-brenton-brown-released-his-first-solo-album-everlasting-god.json)  [XML](/news/2006/02/17/christian-worship-leader-and-songwriter-brenton-brown-released-his-first-solo-album-everlasting-god.xml)  
+
 ### [2006-02-17](/news/2006/02/17/index.md)
 
+##### worship leader
 #  Christian worship leader and songwriter Brenton Brown released his first solo album, Everlasting God.
 
 

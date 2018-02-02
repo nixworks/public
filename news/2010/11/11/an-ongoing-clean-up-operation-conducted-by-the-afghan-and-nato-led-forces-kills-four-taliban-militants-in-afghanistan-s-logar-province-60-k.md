@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/11/an-ongoing-clean-up-operation-conducted-by-the-afghan-and-nato-led-forces-kills-four-taliban-militants-in-afghanistan-s-logar-province-60-k.html)  [JSON](/news/2010/11/11/an-ongoing-clean-up-operation-conducted-by-the-afghan-and-nato-led-forces-kills-four-taliban-militants-in-afghanistan-s-logar-province-60-k.json)  [XML](/news/2010/11/11/an-ongoing-clean-up-operation-conducted-by-the-afghan-and-nato-led-forces-kills-four-taliban-militants-in-afghanistan-s-logar-province-60-k.xml)  
+
 ### [2010-11-11](/news/2010/11/11/index.md)
 
+##### Taliban
 # An ongoing clean-up operation conducted by the Afghan and NATO-led forces kills four Taliban militants in Afghanistan's Logar Province, 60 km south of capital city Kabul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People Daily](http://english.peopledaily.com.cn/90001/90777/90851/7196685.html)
 

@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2013/03/18/ghassan-hitto-is-elected-as-the-syrian-national-coalition-s-provisional-prime-minister-he-will-be-tasked-with-forming-a-government-amid-the.html)  [JSON](/news/2013/03/18/ghassan-hitto-is-elected-as-the-syrian-national-coalition-s-provisional-prime-minister-he-will-be-tasked-with-forming-a-government-amid-the.json)  [XML](/news/2013/03/18/ghassan-hitto-is-elected-as-the-syrian-national-coalition-s-provisional-prime-minister-he-will-be-tasked-with-forming-a-government-amid-the.xml)  
+
 ### [2013-03-18](/news/2013/03/18/index.md)
 
+##### Ghassan Hitto
 # Ghassan Hitto is elected as the Syrian National Coalition's provisional Prime Minister. He will be tasked with forming a government amid the Syrian civil war. 
 
-Syria&#39;s opposition coalition has elected Ghassan Hitto to serve as prime minister of its interim government.
+The opposition Syrian National Coalition chose Western-educated former businessman Ghassan Hitto as provisional prime minister in a vote on Tuesday at a meeting in Istanbul.
 
 
-### Source:
+### Sources:
 
-1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/03/18/syrian-opposition-elects-interim-prime-minister/1998061/)
-2. [Reuters](http://www.reuters.com/article/2013/03/19/us-syria-crisis-government-idUSBRE92H14920130319)
-2. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
+1. [AP via ''USA Today](https://www.usatoday.com/story/news/world/2013/03/18/syrian-opposition-elects-interim-prime-minister/1998061/)
+2. [Reuters](https://www.reuters.com/article/2013/03/19/us-syria-crisis-government-idUSBRE92H14920130319)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130319&t=2&i=714098426&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE92H1TWS00)
 
 ### Related:
 
-1. [For the first time since the start of the Syrian civil war, President Bashar al-Assad's government offers to talk with rebels in hopes of a diplomatic solution to the conflict. ](/news/2013/02/25/for-the-first-time-since-the-start-of-the-syrian-civil-war-president-bashar-al-assad-s-government-offers-to-talk-with-rebels-in-hopes-of-a.md) _Context: Syrian Civil War, Syrian National Coalition_
-2. [According to the Syrian Observatory for Human Rights, Russian airstrikes kill at least 14 civilians, including three children, as they cross the Euphrates river near the ISIL-held city of Mayadin in eastern Syria while fleeing the village of Mahkan. ](/news/2017/10/6/according-to-the-syrian-observatory-for-human-rights-russian-airstrikes-kill-at-least-14-civilians-including-three-children-as-they-cross.md) _Context: Syrian Civil War_
-3. [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md) _Context: Syrian Civil War_
-4. [Suspected Russian military jets target makeshift rubber dinghies and boats carrying dozens of families fleeing the town of al-Ashara along the western banks of the Euphrates that lies south of Deir Ezzor city, killing at least 60 civilians. ](/news/2017/10/4/suspected-russian-military-jets-target-makeshift-rubber-dinghies-and-boats-carrying-dozens-of-families-fleeing-the-town-of-al-ashara-along-t.md) _Context: Syrian Civil War_
-5. [ISIL releases video footage of two alleged Russian soldiers it captured. However, Russia denies the claims. ](/news/2017/10/3/isil-releases-video-footage-of-two-alleged-russian-soldiers-it-captured-however-russia-denies-the-claims.md) _Context: Syrian Civil War_
+1. [For the first time since the start of the Syrian civil war, President Bashar al-Assad's government offers to talk with rebels in hopes of a diplomatic solution to the conflict. ](/news/2013/02/25/for-the-first-time-since-the-start-of-the-syrian-civil-war-president-bashar-al-assad-s-government-offers-to-talk-with-rebels-in-hopes-of-a.md) _Context: Syrian National Coalition, Syrian civil war_
+2. [Russia vetoes a French-drafted United Nations Security Council resolution that calls for a ceasefire in Aleppo. China, which had backed Russia's four previous Syria-related vetoes, abstains. ](/news/2016/10/8/russia-vetoes-a-french-drafted-united-nations-security-council-resolution-that-calls-for-a-ceasefire-in-aleppo-china-which-had-backed-russ.md) _Context: Syrian civil war_
+3. [The Obama administration through the U.S. State Department announces the suspension of bilateral talks with Russia about the cessation of hostilities in Syria, as Russia and the Syrian government continue to pursue a military course despite the ceasefire accord. ](/news/2016/10/3/the-obama-administration-through-the-u-s-state-department-announces-the-suspension-of-bilateral-talks-with-russia-about-the-cessation-of-ho.md) _Context: Syrian civil war_
+4. [A suspected female suicide bomber kills at least 20 people at a Kurdish wedding in the Syrian city of Al-Hasakah. ](/news/2016/10/3/a-suspected-female-suicide-bomber-kills-at-least-20-people-at-a-kurdish-wedding-in-the-syrian-city-of-al-hasakah.md) _Context: Syrian civil war_
+5. [Russian and Syrian government attacks on rebel-held east Aleppo kill two people and injure 13 others. The Syrian American Medical Society reports the city's main trauma hospital closes. ](/news/2016/10/1/russian-and-syrian-government-attacks-on-rebel-held-east-aleppo-kill-two-people-and-injure-13-others-the-syrian-american-medical-society-re.md) _Context: Syrian civil war_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/7/somali-pirates-attack-the-french-navy-replenishment-tanker-somme-a631-in-error-believing-it-to-be-a-cargo-ship.html)  [JSON](/news/2009/10/7/somali-pirates-attack-the-french-navy-replenishment-tanker-somme-a631-in-error-believing-it-to-be-a-cargo-ship.json)  [XML](/news/2009/10/7/somali-pirates-attack-the-french-navy-replenishment-tanker-somme-a631-in-error-believing-it-to-be-a-cargo-ship.xml)  
+
 ### [2009-10-7](/news/2009/10/7/index.md)
 
+##### Somalia
 #  Somali pirates attack the French Navy replenishment tanker "Somme" (A631) in error, believing it to be a cargo ship. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8294858.stm)
 2. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article6864367.ece)

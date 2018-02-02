@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/30/twelve-people-are-killed-at-the-state-oil-academy-in-baku-azerbaijan.html)  [JSON](/news/2009/04/30/twelve-people-are-killed-at-the-state-oil-academy-in-baku-azerbaijan.json)  [XML](/news/2009/04/30/twelve-people-are-killed-at-the-state-oil-academy-in-baku-azerbaijan.xml)  
+
 ### [2009-04-30](/news/2009/04/30/index.md)
 
+##### killed
 #  Twelve people are killed at the State Oil Academy in Baku, Azerbaijan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8026194.stm)
 

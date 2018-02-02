@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/23/government-officials-say-that-the-federal-bureau-of-investigation-is-looking-into-possible-fraud-for-mortgage-financing-companies-fannie-ma.html)  [JSON](/news/2008/09/23/government-officials-say-that-the-federal-bureau-of-investigation-is-looking-into-possible-fraud-for-mortgage-financing-companies-fannie-ma.json)  [XML](/news/2008/09/23/government-officials-say-that-the-federal-bureau-of-investigation-is-looking-into-possible-fraud-for-mortgage-financing-companies-fannie-ma.xml)  
+
 ### [2008-09-23](/news/2008/09/23/index.md)
 
+##### FBI
 #  Government officials say that the Federal Bureau of Investigation is looking into possible fraud for mortgage financing companies Fannie Mae and Freddie Mac, Lehman Brothers, and insurer American International Group. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNNMoney](http://money.cnn.com/2008/09/23/news/companies/fbi_finance.ap/index.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/25/china-reopens-tibet-to-foreign-tourists-as-a-ban-imposed-during-the-tibetan-unrest-is-lifted.html)  [JSON](/news/2008/06/25/china-reopens-tibet-to-foreign-tourists-as-a-ban-imposed-during-the-tibetan-unrest-is-lifted.json)  [XML](/news/2008/06/25/china-reopens-tibet-to-foreign-tourists-as-a-ban-imposed-during-the-tibetan-unrest-is-lifted.xml)  
+
 ### [2008-06-25](/news/2008/06/25/index.md)
 
+##### China
 #  China reopens Tibet to foreign tourists as a ban imposed during the Tibetan unrest is lifted. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7472582.stm)
 

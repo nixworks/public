@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/9/the-international-committee-of-the-red-cross-ann
 
 ### [2017-02-9](/news/2017/02/9/index.md)
 
+##### War in Afghanistan (2015-present)
 # The International Committee of the Red Cross announces it will be temporarily halting some of its operations in Afghanistan after gunmen killed six of its workers yesterday. 
 
 Red Cross suspends some activities in Afghanistan after gunmen attacked a convoy in Jowzjan and killed six staff.

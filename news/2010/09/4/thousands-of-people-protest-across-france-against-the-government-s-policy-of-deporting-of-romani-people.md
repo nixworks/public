@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/4/thousands-of-people-protest-across-france-against-the-government-s-policy-of-deporting-of-romani-people.html)  [JSON](/news/2010/09/4/thousands-of-people-protest-across-france-against-the-government-s-policy-of-deporting-of-romani-people.json)  [XML](/news/2010/09/4/thousands-of-people-protest-across-france-against-the-government-s-policy-of-deporting-of-romani-people.xml)  
+
 ### [2010-09-4](/news/2010/09/4/index.md)
 
+##### France
 # Thousands of people protest across France against the government's policy of deporting of Romani people. 
 
 Demonstrations&#x20;are&#x20;planned&#x20;for&#x20;Saturday&#x20;across&#x20;France&#x20;to&#x20;protest&#x20;the&#x20;government&#x2019;s&#x20;recent&#x20;attempt&#x20;to&#x20;link&#x20;immigration&#x20;and&#x20;crime.&#x20;The&#x20;protests&#x20;are&#x20;being&#x20;viewed&#x20;in&#x20;France&#x20;as&#x20;curtain-raiser&#x20;for&#x20;the&#x20;far&#x20;larger&#x20;nationwide&#x20;labour&#x20;strike&#x20;set&#x20;for&#x20;Tuesday.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/europe/2010/09/201094133818605625.html)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11186592)

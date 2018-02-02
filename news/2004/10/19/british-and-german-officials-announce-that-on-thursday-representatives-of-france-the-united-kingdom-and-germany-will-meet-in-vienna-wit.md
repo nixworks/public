@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2004/10/19/british-and-german-officials-announce-that-on-thursday-representatives-of-france-the-united-kingdom-and-germany-will-meet-in-vienna-wit.html)  [JSON](/news/2004/10/19/british-and-german-officials-announce-that-on-thursday-representatives-of-france-the-united-kingdom-and-germany-will-meet-in-vienna-wit.json)  [XML](/news/2004/10/19/british-and-german-officials-announce-that-on-thursday-representatives-of-france-the-united-kingdom-and-germany-will-meet-in-vienna-wit.xml)  
+
 ### [2004-10-19](/news/2004/10/19/index.md)
 
-#  British and German officials announce that, on Thursday, representatives of France, the United Kingdom, and Germany will meet in Vienna with Iranian officials to offer Iran a final chance to halt uranium enrichment plans before proposed U.N. sanctions are imposed. [http:--www.reuters.com-newsArticle.jhtml;jsessionid=KCMAIJ0C0LGQGCRBAEOCFEY?type=topNews&storyID=6544693 (Reuters)] (Link dead as of 22:35, 14 January 2007 (UTC))
+##### Vienna
+#  British and German officials announce that, on Thursday, representatives of France, the United Kingdom, and Germany will meet in Vienna with Iranian officials to offer Iran a final chance to halt uranium enrichment plans before proposed U.N. sanctions are imposed. [https:--www.reuters.com-newsArticle.jhtml;jsessionid=KCMAIJ0C0LGQGCRBAEOCFEY?type=topNews&storyID=6544693 (Reuters)] (Link dead as of 22:35, 14 January 2007 (UTC))
 
 
 

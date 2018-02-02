@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/10/the-head-of-sierra-leone-s-anti-corruption-commission-says-that-29-government-health-officials-will-appear-in-court-on-corruption-charges-fo.html)  [JSON](/news/2013/03/10/the-head-of-sierra-leone-s-anti-corruption-commission-says-that-29-government-health-officials-will-appear-in-court-on-corruption-charges-fo.json)  [XML](/news/2013/03/10/the-head-of-sierra-leone-s-anti-corruption-commission-says-that-29-government-health-officials-will-appear-in-court-on-corruption-charges-fo.xml)  
+
 ### [2013-03-10](/news/2013/03/10/index.md)
 
+##### Sierra Leone
 # The head of Sierra Leone's Anti-corruption Commission says that 29 government health officials will appear in court on corruption charges for having allegedly defrauded the Bill & Melinda Gates Foundation's vaccine programme. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SAPA via News24](http://news24.com/news24/Africa/News/29-charged-with-defrauding-Gates-fund-20130310)
 

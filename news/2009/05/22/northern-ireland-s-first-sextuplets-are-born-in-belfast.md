@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/22/northern-ireland-s-first-sextuplets-are-born-in-belfast.html)  [JSON](/news/2009/05/22/northern-ireland-s-first-sextuplets-are-born-in-belfast.json)  [XML](/news/2009/05/22/northern-ireland-s-first-sextuplets-are-born-in-belfast.xml)  
+
 ### [2009-05-22](/news/2009/05/22/index.md)
 
+##### Northern Ireland
 #  Northern Ireland's first sextuplets are born in Belfast. 
 
 A woman in Northern Ireland has given birth to six babies at the Royal Victoria Hospital.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/northern_ireland/8063956.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0522/sextuplets.html)

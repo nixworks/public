@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/14/seven-are-reported-dead-in-lhasa-tibet-as-protests-turn-violent-protests-began-monday-on-the-anniversary-of-the-failed-1959-tibetan-upris.html)  [JSON](/news/2008/03/14/seven-are-reported-dead-in-lhasa-tibet-as-protests-turn-violent-protests-began-monday-on-the-anniversary-of-the-failed-1959-tibetan-upris.json)  [XML](/news/2008/03/14/seven-are-reported-dead-in-lhasa-tibet-as-protests-turn-violent-protests-began-monday-on-the-anniversary-of-the-failed-1959-tibetan-upris.xml)  
+
 ### [2008-03-14](/news/2008/03/14/index.md)
 
+##### Lhasa
 #  Seven are reported dead in Lhasa, Tibet as protests turn violent. Protests began Monday on the anniversary of the failed 1959 Tibetan uprising with calls for the release of detained Buddhist monks. Other protests followed calling for Tibetan independence and displaying the banned Tibetan national flag. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the ''Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/5621545.html)
 2. [CNN](http://www.cnn.com/2008/WORLD/asiapcf/03/14/tibet.unrest/index.html)

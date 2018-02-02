@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/26/venezuelan-president-nicola-s-maduro-who-previo
 
 ### [2016-04-26](/news/2016/04/26/index.md)
 
+##### President
 # Venezuelan President Nicolas Maduro, who previously gave most of the country's 2.8 million state employees Fridays off through May, announces public workers will also have Wednesdays and Thursdays off for at least two weeks as an energy-saving measure. Full salaries will still be paid despite the two-day week. 
 
 

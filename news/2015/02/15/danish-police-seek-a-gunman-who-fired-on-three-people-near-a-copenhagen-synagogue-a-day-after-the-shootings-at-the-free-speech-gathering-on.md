@@ -1,17 +1,26 @@
+
+Formats: [HTML](/news/2015/02/15/danish-police-seek-a-gunman-who-fired-on-three-people-near-a-copenhagen-synagogue-a-day-after-the-shootings-at-the-free-speech-gathering-on.html)  [JSON](/news/2015/02/15/danish-police-seek-a-gunman-who-fired-on-three-people-near-a-copenhagen-synagogue-a-day-after-the-shootings-at-the-free-speech-gathering-on.json)  [XML](/news/2015/02/15/danish-police-seek-a-gunman-who-fired-on-three-people-near-a-copenhagen-synagogue-a-day-after-the-shootings-at-the-free-speech-gathering-on.xml)  
+
 ### [2015-02-15](/news/2015/02/15/index.md)
 
+##### 2015 Copenhagen shootings
 # Danish Police seek a gunman who fired on three people near a Copenhagen synagogue a day after the shootings at the Free Speech Gathering. One person dies. 
 
 A man shot in the head near a synagogue in central Copenhagen early today died soon afterwards from his injuries, police said. Two police officers were shot in the arms and legs during the incident. The suspect fled on foot.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-31475803#)
-2. [PA via ''The Independent](http://www.independent.co.uk/news/world/europe/copenhagen-synagogue-shooting-three-people-wounded-during-second-incident-in-danish-capital-10046846.html)
+2. [PA via ''The Independent](https://www.independent.co.uk/news/world/europe/copenhagen-synagogue-shooting-three-people-wounded-during-second-incident-in-danish-capital-10046846.html)
 3. [Reuters/AFP via ABC News Australia](http://www.abc.net.au/news/2015-02-15/danish-police-kill-man-in-copenhagen-close-to-earlier-attacks/6107034)
 4. [The Australian](http://www.theaustralian.com.au/news/nation/one-dead-in-copenhagen-terror-attack-on-freedom-of-speech-event/story-e6frg6nf-1227220160707)
 4. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2015/02/14/18/Copenhagen-EPA.jpg)
+
+### Changes:
+
+1. [2015 Copenhagen shootings: Danish Police seek a gunman who fired on three people near a Copenhagen synagogue a day after the shootings at the Free Speech Gathering. One person dies. ](/news/2015/02/15/2015-copenhagen-shootings-danish-police-seek-a-gunman-who-fired-on-three-people-near-a-copenhagen-synagogue-a-day-after-the-shootings-at-th.md) _2017-08-27 03:41:56 (First version)_
+1. [Danish Police seek a gunman who fired on three people near a Copenhagen synagogue a day after the shootings at the Free Speech Gathering. One person dies. ](/news/2015/02/15/danish-police-seek-a-gunman-who-fired-on-three-people-near-a-copenhagen-synagogue-a-day-after-the-shootings-at-the-free-speech-gathering-on.md) _(Current version)_
 
 ### Related:
 
@@ -20,8 +29,3 @@ A man shot in the head near a synagogue in central Copenhagen early today died s
 3. [Four rabbis (three American and one British) are killed, and eight other people wounded in a terrorist attack on a Jerusalem synagogue by two men armed with meat cleavers and guns. The two attackers were killed by police who arrived at the scene. One of the policemen died from his wounds. ](/news/2014/11/18/four-rabbis-three-american-and-one-british-are-killed-and-eight-other-people-wounded-in-a-terrorist-attack-on-a-jerusalem-synagogue-by-tw.md) _Context: synagogue_
 4. [Danish police evacuate part of central Copenhagen after a parked car is found with wires attached to it. ](/news/2013/08/6/danish-police-evacuate-part-of-central-copenhagen-after-a-parked-car-is-found-with-wires-attached-to-it.md) _Context: Copenhagen_
 5. [Archaeologists in Israel discover a mosaic floor depicting the biblical figure of Samson and a Hebrew inscription in an ancient synagogue in the Galilee region. ](/news/2012/07/4/archaeologists-in-israel-discover-a-mosaic-floor-depicting-the-biblical-figure-of-samson-and-a-hebrew-inscription-in-an-ancient-synagogue-in.md) _Context: synagogue_
-
-### Changes:
-
-1. [2015 Copenhagen shootings: Danish Police seek a gunman who fired on three people near a Copenhagen synagogue a day after the shootings at the Free Speech Gathering. One person dies. ](/news/2015/02/15/2015-copenhagen-shootings-danish-police-seek-a-gunman-who-fired-on-three-people-near-a-copenhagen-synagogue-a-day-after-the-shootings-at-th.md) _2017-08-27 03:41:56 (First version)_
-1. [Danish Police seek a gunman who fired on three people near a Copenhagen synagogue a day after the shootings at the Free Speech Gathering. One person dies. ](/news/2015/02/15/danish-police-seek-a-gunman-who-fired-on-three-people-near-a-copenhagen-synagogue-a-day-after-the-shootings-at-the-free-speech-gathering-on.md) _(Current version)_

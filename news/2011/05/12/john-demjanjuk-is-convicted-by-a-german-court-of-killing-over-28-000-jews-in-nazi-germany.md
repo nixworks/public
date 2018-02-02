@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/john-demjanjuk-is-convicted-by-a-german-court-of-killing-over-28-000-jews-in-nazi-germany.html)  [JSON](/news/2011/05/12/john-demjanjuk-is-convicted-by-a-german-court-of-killing-over-28-000-jews-in-nazi-germany.json)  [XML](/news/2011/05/12/john-demjanjuk-is-convicted-by-a-german-court-of-killing-over-28-000-jews-in-nazi-germany.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### John Demjanjuk
 # John Demjanjuk is convicted by a German court of killing over 28,000 Jews in Nazi Germany.
 
 A German court convicts John Demjanjuk of helping to murder more than 28,000 Jews as a Nazi camp guard - but he will be released pending a possible appeal.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12321549)
 2. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,15068941,00.html)

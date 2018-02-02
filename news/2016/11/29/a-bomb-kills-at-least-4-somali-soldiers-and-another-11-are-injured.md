@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/29/a-bomb-kills-at-least-4-somali-soldiers-and-ano
 
 ### [2016-11-29](/news/2016/11/29/index.md)
 
+##### War in Somalia (2009-present)
 # A bomb kills at least 4 Somali soldiers and another 11 are injured. 
 
 Islamist insurgents killed four pro-government Somali soldiers and injured 11 others when a roadside bomb destroyed a military pickup in the north of the country on Tuesday, the military said.

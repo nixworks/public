@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/6/idf-raid-three-demolished-israeli-settlements-and-one-palestinian-neighbourhood-in-the-northern-gaza-strip-to-halt-the-daily-firing-of-qas.html)  [JSON](/news/2006/07/6/idf-raid-three-demolished-israeli-settlements-and-one-palestinian-neighbourhood-in-the-northern-gaza-strip-to-halt-the-daily-firing-of-qas.json)  [XML](/news/2006/07/6/idf-raid-three-demolished-israeli-settlements-and-one-palestinian-neighbourhood-in-the-northern-gaza-strip-to-halt-the-daily-firing-of-qas.xml)  
+
 ### [2006-07-6](/news/2006/07/6/index.md)
 
+##### Israeli Defense Forces
 #  IDF raid three demolished Israeli settlements and one Palestinian neighbourhood in the northern Gaza Strip, to halt the daily firing of Qassam rockets at Israeli towns. One Israeli soldier, more than 20 Palestenian militants and one civilian are killed. 
 
 Father of First Sergeant Yehuda Bassel shot dead in Gaza asks, &#39;why did they endanger my son and not send Air Force?&#39; An hour before he was killed, Yehuda sends text message to his sister, says &#39;we are still in al-Atara. Everything is okay. We already killed three, but don’t tell anyone&#39;
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/735455.html)
 2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?c=JPArticle&cid=1150885922564&pagename=JPost%2FJPArticle%2FShowFull)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/8/merck-agrees-to-buy-superbug-fighter-cubist-pharmaceuticals-for-9-5-billion.html)  [JSON](/news/2014/12/8/merck-agrees-to-buy-superbug-fighter-cubist-pharmaceuticals-for-9-5-billion.json)  [XML](/news/2014/12/8/merck-agrees-to-buy-superbug-fighter-cubist-pharmaceuticals-for-9-5-billion.xml)  
+
 ### [2014-12-8](/news/2014/12/8/index.md)
 
+##### Merck & Co.
 # Merck agrees to buy "superbug"-fighter Cubist Pharmaceuticals for $9.5 billion. 
 
 Merck will buy Cubist Pharmaceuticals in a $9.5 billion deal, giving the major drugmaker an entry into the market for drugs that target so-called superbugs.
 
 
-### Source:
+### Sources:
 
 1. [FOX Business](http://www.foxbusiness.com/industries/2014/12/08/merck-takes-aim-at-superbugs-with-5-billion-cubist-buy/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-business/features/2014/12/08/merck-takes-aim-at-superbugs-with-5-billion-cubist-buy/_jcr_content/image.img.jpg/0/0/1452335870302.jpg?ve=1)

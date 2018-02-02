@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/11/armed-militiamen-also-known-as-the-citizens-for
 
 ### [2016-01-11](/news/2016/01/11/index.md)
 
+##### Occupation of the Malheur National Wildlife Refuge
 # Armed militiamen, also known as the Citizens for Constitutional Freedom, who are occupying the USFWS administered Malheur National Wildlife Refuge in Harney County, Oregon, tear down a part of a fence that they claim was erected by the federal government in order to allow privately owned cattle to graze on the adjacent public land. USFWS condemns the actions through a written statement which states that, "Removing fences, damaging any refuge property, or unauthorized use of equipment would be additional unlawful actions by the illegal occupiers. Any movement of cattle onto the refuge or other activities that are not specifically authorized by [the Fish and Wildlife Service] constitutes trespassing." 
 
 Local support is waning with people in the town of Burns expressing dismay at methods employed by the armed occupation

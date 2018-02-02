@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/22/german-car-manufacturer-bmw-acquires-the-formula-one-team-sauber-petronas-in-the-next-season-the-new-team-will-be-probably-known-as-bmw-sa.html)  [JSON](/news/2005/06/22/german-car-manufacturer-bmw-acquires-the-formula-one-team-sauber-petronas-in-the-next-season-the-new-team-will-be-probably-known-as-bmw-sa.json)  [XML](/news/2005/06/22/german-car-manufacturer-bmw-acquires-the-formula-one-team-sauber-petronas-in-the-next-season-the-new-team-will-be-probably-known-as-bmw-sa.xml)  
+
 ### [2005-06-22](/news/2005/06/22/index.md)
 
+##### BMW
 #  German car manufacturer BMW acquires the Formula One team Sauber Petronas. In the next season the new team will be probably known as BMW Sauber. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/motorsport/formula_one/4118472.stm)
 

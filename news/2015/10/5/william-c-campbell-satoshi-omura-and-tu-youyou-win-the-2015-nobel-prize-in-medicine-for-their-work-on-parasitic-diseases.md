@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/5/william-c-campbell-satoshi-omura-and-tu-youyou-win-the-2015-nobel-prize-in-medicine-for-their-work-on-parasitic-diseases.html)  [JSON](/news/2015/10/5/william-c-campbell-satoshi-omura-and-tu-youyou-win-the-2015-nobel-prize-in-medicine-for-their-work-on-parasitic-diseases.json)  [XML](/news/2015/10/5/william-c-campbell-satoshi-omura-and-tu-youyou-win-the-2015-nobel-prize-in-medicine-for-their-work-on-parasitic-diseases.xml)  
+
 ### [2015-10-5](/news/2015/10/5/index.md)
 
+##### William C. Campbell
 # William C. Campbell, Satoshi Omura, and Tu Youyou win the 2015 Nobel Prize in Medicine for their work on parasitic diseases. 
 
 William Campbell had a eureka moment in 1975 while testing a new medicine for animals.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/N/NOBEL_MEDICINE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [The Washington Post](https://www.washingtonpost.com/national/health-science/trio-wins-nobel-in-medicine-for-work-on-parastic-diseases/2015/10/05/eb983144-6b4a-11e5-b31c-d80d62b53e28_story.html)

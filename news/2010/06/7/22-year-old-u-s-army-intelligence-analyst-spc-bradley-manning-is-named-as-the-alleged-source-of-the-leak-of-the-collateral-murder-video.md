@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2010/06/7/22-year-old-u-s-army-intelligence-analyst-spc-bradley-manning-is-named-as-the-alleged-source-of-the-leak-of-the-collateral-murder-video.html)  [JSON](/news/2010/06/7/22-year-old-u-s-army-intelligence-analyst-spc-bradley-manning-is-named-as-the-alleged-source-of-the-leak-of-the-collateral-murder-video.json)  [XML](/news/2010/06/7/22-year-old-u-s-army-intelligence-analyst-spc-bradley-manning-is-named-as-the-alleged-source-of-the-leak-of-the-collateral-murder-video.xml)  
+
 ### [2010-06-7](/news/2010/06/7/index.md)
 
+##### Collateral murder
 # 22-year-old U.S. Army intelligence analyst, SPC Bradley Manning, is named as the alleged source of the leak of the Collateral murder video, along with the Granai massacre video and other documents, said to be in the possession of Wikileaks. 
 
 A US military analyst is arrested on suspicion of leaking combat video and thousands of classified documents.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/asia_pacific/10254072.stm)
-2. [Wired](http://www.wired.com/threatlevel/2010/06/leak/)
+2. [Wired](https://www.wired.com/threatlevel/2010/06/leak/)
 2. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 
-1. [Swedish prosecutors drop a seven-year sexual assault investigation into WikiLeaks founder Julian Assange. ](/news/2017/05/19/swedish-prosecutors-drop-a-seven-year-sexual-assault-investigation-into-wikileaks-founder-julian-assange.md) _Context: WikiLeaks_
-2. [WikiLeaks releases thousands of documents that it claims provides details of surveillance software used by the United States Central Intelligence Agency. ](/news/2017/03/7/wikileaks-releases-thousands-of-documents-that-it-claims-provides-details-of-surveillance-software-used-by-the-united-states-central-intelli.md) _Context: WikiLeaks_
-3. [The President of the United States Barack Obama commutes the bulk of the sentence for Chelsea Manning for leaking documents to WikiLeaks. Manning will now be released in 2017 instead of 2045. ](/news/2017/01/17/the-president-of-the-united-states-barack-obama-commutes-the-bulk-of-the-sentence-for-chelsea-manning-for-leaking-documents-to-wikileaks-ma.md) _Context: WikiLeaks_
-4. [WikiLeaks releases 500 internal documents and emails allegedly from the American Embassy in Sana'a, Yemen. ](/news/2016/11/25/wikileaks-releases-500-internal-documents-and-emails-allegedly-from-the-american-embassy-in-sana-a-yemen.md) _Context: WikiLeaks_
-5. [Imprisoned former American Army intelligence analyst and transgender person Chelsea Manning, who is serving a 35-year sentence at Fort Leavenworth, will have the military provide the costs of gender reassignment surgery. She was convicted by court-martial in July 2013 of violations of the Espionage Act and other offenses, after disclosing to WikiLeaks nearly three-quarters of a million classified or unclassified but sensitive military and diplomatic documents. ](/news/2016/09/13/imprisoned-former-american-army-intelligence-analyst-and-transgender-person-chelsea-manning-who-is-serving-a-35-year-sentence-at-fort-leave.md) _Context: WikiLeaks_
+1. [Emails released by Wikileaks show that the Democratic National Committee (DNC), led by Debbie Wasserman Schultz, supported the candidacy of Hillary Clinton over Bernie Sanders. ](/news/2016/07/23/emails-released-by-wikileaks-show-that-the-democratic-national-committee-dnc-led-by-debbie-wasserman-schultz-supported-the-candidacy-of.md) _Context: Wikileaks_
+2. [Wikileaks releases U.S. Central Intelligence Agency director John O. Brennan's personal information after the top spy's personal email account was allegedly hacked by a 13-year-old and information sent to Wikileaks. All of the documents predate Brennan's time in the Obama administration and reveal no classified data. Among the information released are Social Security numbers, an incomplete questionnaire for security clearance, and addresses of his family and associates. ](/news/2015/10/21/wikileaks-releases-u-s-central-intelligence-agency-director-john-o-brennan-s-personal-information-after-the-top-spy-s-personal-email-accou.md) _Context: Wikileaks_
+3. [Swedish prosecutors drop some charges against Wikileaks founder Julian Assange as the statute of limitations expire but will continue to investigate rape claims. ](/news/2015/08/13/swedish-prosecutors-drop-some-charges-against-wikileaks-founder-julian-assange-as-the-statute-of-limitations-expire-but-will-continue-to-inv.md) _Context: Wikileaks_
+4. [The President of France Francois Hollande warns that France "will not tolerate" acts that threaten its security following claims by Wikileaks that the United States spied on him and his two predecessors Nicolas Sarkozy and Jacques Chirac between 2006 and 2012. ](/news/2015/06/24/the-president-of-france-franassois-hollande-warns-that-france-will-not-tolerate-acts-that-threaten-its-security-following-claims-by-wikilea.md) _Context: Wikileaks_
+5. [The Swedish Supreme Court rejects a bid from Wikileaks founder Julian Assange to revoke the warrant for his detention in 2010. ](/news/2015/05/11/the-swedish-supreme-court-rejects-a-bid-from-wikileaks-founder-julian-assange-to-revoke-the-warrant-for-his-detention-in-2010.md) _Context: Wikileaks_

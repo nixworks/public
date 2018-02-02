@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/31/the-alaska-volcano-observatory-raises-its-alert-warning-for-the-cleveland-volcano-after-it-starts-forming-a-new-lava-dome-indicating-that-th.html)  [JSON](/news/2012/01/31/the-alaska-volcano-observatory-raises-its-alert-warning-for-the-cleveland-volcano-after-it-starts-forming-a-new-lava-dome-indicating-that-th.json)  [XML](/news/2012/01/31/the-alaska-volcano-observatory-raises-its-alert-warning-for-the-cleveland-volcano-after-it-starts-forming-a-new-lava-dome-indicating-that-th.xml)  
+
 ### [2012-01-31](/news/2012/01/31/index.md)
 
+##### Alaska Volcano Observatory
 # The Alaska Volcano Observatory raises its alert warning for the Cleveland Volcano after it starts forming a new lava dome indicating that the mountain could explode. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/U/US_ALASKA_VOLCANO?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/30/six-people-are-found-dead-after-a-fire-in-a-mobile-home-in-the-american-town-of-clinton-north-carolina.html)  [JSON](/news/2014/08/30/six-people-are-found-dead-after-a-fire-in-a-mobile-home-in-the-american-town-of-clinton-north-carolina.json)  [XML](/news/2014/08/30/six-people-are-found-dead-after-a-fire-in-a-mobile-home-in-the-american-town-of-clinton-north-carolina.xml)  
+
 ### [2014-08-30](/news/2014/08/30/index.md)
 
+##### mobile home
 # Six people are found dead after a fire in a mobile home in the American town of Clinton, North Carolina. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2014/08/30/us/north-carolina-deadly-fire/index.html?eref=edition)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/27/amnesty-international-reports-that-at-least-160
 
 ### [2016-01-27](/news/2016/01/27/index.md)
 
+##### Human rights in Iran
 # Amnesty International reports that at least 160 young Iranians are currently awaiting execution and 73 others have been put to death between 2005 and 2015, which including sentencing girls as young as 9 and boys as young as 15 to death. 
 
 
@@ -19,8 +20,8 @@ Formats: [HTML](/news/2016/01/27/amnesty-international-reports-that-at-least-160
 
 ### Related:
 
-1. [Iranian human rights campaigner Emadeddin Baghi is sentenced to six years in jail after recording an interview for the BBC with reformist cleric Grand Ayatollah Hussein-Ali Montazeri. ](/news/2010/09/22/iranian-human-rights-campaigner-emadeddin-baghi-is-sentenced-to-six-years-in-jail-after-recording-an-interview-for-the-bbc-with-reformist-cl.md) _Context: Human rights in Iran, Iran_
-2. [ There is major outcry in Iran following the death of democracy activist Akbar Mohammadi in Evin Prison. Mohammadi was condemned to death for his role in the 1999 student protests at Tehran University. He had been on a hunger strike for more than a week, protesting the refusal by the Islamic Regime to allow him to seek proper medical treatment for life threatening injuries suffered as a result of torture. Reportedly he was beaten severely by prison guards the night of his death.](/news/2006/08/1/there-is-major-outcry-in-iran-following-the-death-of-democracy-activist-akbar-mohammadi-in-evin-prison-mohammadi-was-condemned-to-death-fo.md) _Context: Human rights in Iran, Iran_
-3. [Saudi Arabia's Crown Prince Mohammad bin Salman accuses Iran of an act of "direct military aggression" by supplying missiles to rebels in Yemen. ](/news/2017/11/7/saudi-arabia-s-crown-prince-mohammad-bin-salman-accuses-iran-of-an-act-of-direct-military-aggression-by-supplying-missiles-to-rebels-in-ye.md) _Context: Iran_
-4. [Sting, Peter Gabriel, Edward Snowden and Ai Weiwei call for president of Amnesty International Turkey Taner Kilic to be released from prison. ](/news/2017/11/24/sting-peter-gabriel-edward-snowden-and-ai-weiwei-call-for-president-of-amnesty-international-turkey-taner-ka-la-ass-to-be-released-from-pri.md) _Context: Amnesty International_
-5. [The death toll from the earthquake in Iraq and Iran exceeds 400 with over 7,000 injured. The death toll is expected to rise further in coming days. ](/news/2017/11/13/the-death-toll-from-the-earthquake-in-iraq-and-iran-exceeds-400-with-over-7-000-injured-the-death-toll-is-expected-to-rise-further-in-comin.md) _Context: Iran_
+1. [ There is major outcry in Iran following the death of democracy activist Akbar Mohammadi in Evin Prison. Mohammadi was condemned to death for his role in the 1999 student protests at Tehran University. He had been on a hunger strike for more than a week, protesting the refusal by the Islamic Regime to allow him to seek proper medical treatment for life threatening injuries suffered as a result of torture. Reportedly he was beaten severely by prison guards the night of his death.](/news/2006/08/1/there-is-major-outcry-in-iran-following-the-death-of-democracy-activist-akbar-mohammadi-in-evin-prison-mohammadi-was-condemned-to-death-fo.md) _Context: Human rights in Iran, Iran_
+2. [Iran enforces a ban on teaching English in elementary schools. ](/news/2018/01/7/iran-enforces-a-ban-on-teaching-english-in-elementary-schools.md) _Context: Iran_
+3. [The U.S. Treasury sanctions five Iranian entities associated with Iran's ballistic missile program. ](/news/2018/01/4/the-u-s-treasury-sanctions-five-iranian-entities-associated-with-iran-s-ballistic-missile-program.md) _Context: Iran_
+4. [U.S. President Donald Trump says he is extending sanctions relief for Iran one last time so Europe and the U.S. can fix the nuclear deal's "terrible flaws". ](/news/2018/01/13/u-s-president-donald-trump-says-he-is-extending-sanctions-relief-for-iran-one-last-time-so-europe-and-the-u-s-can-fix-the-nuclear-deal-s.md) _Context: Iran_
+5. [Iran blocks access to Telegram and Instagram as the largest anti-government protests since 2009 continue. ](/news/2017/12/31/iran-blocks-access-to-telegram-and-instagram-as-the-largest-anti-government-protests-since-2009-continue.md) _Context: Iran_

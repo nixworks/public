@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/30/aloha-airlines-a-hawaii-based-airline-which-operates-inter-island-and-trans-pacific-flights-has-suspended-all-passenger-services-effectiv.html)  [JSON](/news/2008/03/30/aloha-airlines-a-hawaii-based-airline-which-operates-inter-island-and-trans-pacific-flights-has-suspended-all-passenger-services-effectiv.json)  [XML](/news/2008/03/30/aloha-airlines-a-hawaii-based-airline-which-operates-inter-island-and-trans-pacific-flights-has-suspended-all-passenger-services-effectiv.xml)  
+
 ### [2008-03-30](/news/2008/03/30/index.md)
 
+##### Aloha Airlines
 #  Aloha Airlines, a Hawaii based airline which operates inter-island and trans-Pacific flights, has suspended all passenger services effective March 31, 2008, due to bankruptcy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Honolulu Advertiser](http://www.honoluluadvertiser.com/apps/pbcs.dll/article?AID=/20080330/BREAKING01/80330042)
 

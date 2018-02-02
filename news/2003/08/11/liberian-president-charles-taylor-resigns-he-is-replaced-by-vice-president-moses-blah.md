@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/11/liberian-president-charles-taylor-resigns-he-is-replaced-by-vice-president-moses-blah.html)  [JSON](/news/2003/08/11/liberian-president-charles-taylor-resigns-he-is-replaced-by-vice-president-moses-blah.json)  [XML](/news/2003/08/11/liberian-president-charles-taylor-resigns-he-is-replaced-by-vice-president-moses-blah.xml)  
+
 ### [2003-08-11](/news/2003/08/11/index.md)
 
+##### Liberia
 #  Liberian president Charles Taylor resigns. He is replaced by vice-president Moses Blah.
 
 

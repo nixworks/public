@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/03/16/the-federal-reserve-votes-to-keep-interest-rates-unchanged-primarily-since-new-hiring-has-continued-to-lag-in-the-united-states.html)  [JSON](/news/2004/03/16/the-federal-reserve-votes-to-keep-interest-rates-unchanged-primarily-since-new-hiring-has-continued-to-lag-in-the-united-states.json)  [XML](/news/2004/03/16/the-federal-reserve-votes-to-keep-interest-rates-unchanged-primarily-since-new-hiring-has-continued-to-lag-in-the-united-states.xml)  
+
 ### [2004-03-16](/news/2004/03/16/index.md)
 
+##### Federal Reserve
 #  The Federal Reserve votes to keep interest rates unchanged, primarily since new hiring has continued to lag in the United States. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Forbes](http://www.forbes.com/markets/newswire/2004/03/16/rtr1300749.html)
+1. [Forbes](https://www.forbes.com/markets/newswire/2004/03/16/rtr1300749.html)
 
 ### Related:
 

@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2012/01/30/u-s-president-barack-obama-answers-questions-about-the-state-of-the-union-posed-by-citizens-in-the-first-ever-completely-virtual-interview.html)  [JSON](/news/2012/01/30/u-s-president-barack-obama-answers-questions-about-the-state-of-the-union-posed-by-citizens-in-the-first-ever-completely-virtual-interview.json)  [XML](/news/2012/01/30/u-s-president-barack-obama-answers-questions-about-the-state-of-the-union-posed-by-citizens-in-the-first-ever-completely-virtual-interview.xml)  
+
 ### [2012-01-30](/news/2012/01/30/index.md)
 
+##### U.S. President
 # U.S. President Barack Obama answers questions about the State of the Union posed by citizens in the first-ever completely virtual interview from the White House but fails to answer the most popular questions which were related to the controversial topic of marijuana legalization. 
 
 Retired LAPD officer Stephen Downing submitted YouTube&#39;s most popular question for President Barack Obama&#39;s Google Plus hangout on Monday, but Googl
 
 
-### Source:
+### Sources:
 
 1. [Computerworld](http://www.computerworld.com/s/article/9223847/Obama_confronted_on_H_1B_use_during_Google_hangout_)
 2. [Mashable](http://mashable.com/2012/01/31/obama-hangout/)
-3. [Reuters](http://www.reuters.com/article/2012/01/31/idUS61868057620120131)
+3. [Reuters](https://www.reuters.com/article/2012/01/31/idUS61868057620120131)
 4. [The White House](http://www.whitehouse.gov/blog/2012/01/30/president-obama-hangs-out-america)
-4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

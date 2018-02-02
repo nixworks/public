@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/10/nigel-evans-resigns-as-deputy-speaker-of-the-british-house-of-commons-after-being-charged-with-eight-sexual-offences.html)  [JSON](/news/2013/09/10/nigel-evans-resigns-as-deputy-speaker-of-the-british-house-of-commons-after-being-charged-with-eight-sexual-offences.json)  [XML](/news/2013/09/10/nigel-evans-resigns-as-deputy-speaker-of-the-british-house-of-commons-after-being-charged-with-eight-sexual-offences.xml)  
+
 ### [2013-09-10](/news/2013/09/10/index.md)
 
+##### Nigel Evans
 # Nigel Evans resigns as Deputy Speaker of the British House of Commons after being charged with eight sexual offences. 
 
 MP Nigel Evans resigns as Commons Deputy Speaker, after being charged with offences including sexual assault, indecent assault and rape.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-24042797)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69777000/jpg/_69777641_69777278.jpg)

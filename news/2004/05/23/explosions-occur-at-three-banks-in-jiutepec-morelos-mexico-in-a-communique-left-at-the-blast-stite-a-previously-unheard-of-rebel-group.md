@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/05/23/explosions-occur-at-three-banks-in-jiutepec-morelos-mexico-in-a-communique-left-at-the-blast-stite-a-previously-unheard-of-rebel-group.html)  [JSON](/news/2004/05/23/explosions-occur-at-three-banks-in-jiutepec-morelos-mexico-in-a-communique-left-at-the-blast-stite-a-previously-unheard-of-rebel-group.json)  [XML](/news/2004/05/23/explosions-occur-at-three-banks-in-jiutepec-morelos-mexico-in-a-communique-left-at-the-blast-stite-a-previously-unheard-of-rebel-group.xml)  
+
 ### [2004-05-23](/news/2004/05/23/index.md)
 
+##### Jiutepec
 #  Explosions occur at three banks in Jiutepec, Morelos, Mexico. In a communiqu left at the blast stite, a previously unheard-of rebel group called the Comando Jaramillista Morelense 23 de Mayo claims responsibility. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5228376&section=news)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=5228376&section=news)
 
 ### Related:
 

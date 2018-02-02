@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/19/u-s-serviceman-bradley-manning-is-moved-by-officials-to-a-military-prison-in-kansas-amid-increased-international-concerns-about-the-u-s-mi.html)  [JSON](/news/2011/04/19/u-s-serviceman-bradley-manning-is-moved-by-officials-to-a-military-prison-in-kansas-amid-increased-international-concerns-about-the-u-s-mi.json)  [XML](/news/2011/04/19/u-s-serviceman-bradley-manning-is-moved-by-officials-to-a-military-prison-in-kansas-amid-increased-international-concerns-about-the-u-s-mi.xml)  
+
 ### [2011-04-19](/news/2011/04/19/index.md)
 
+##### Bradley Manning
 # U.S. serviceman Bradley Manning is moved by officials to a military prison in Kansas amid increased international concerns about the U.S. military's policy of forcing him to strip naked in his cell and taking away his clothes. 
 
 US soldier Bradley Manning, who is accused of leaking government documents published by Wikileaks, is to be moved to a prison in Kansas.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/04/2011419214725274859.html)
 2. [BBC](http://www.bbc.co.uk/news/world-us-canada-13138050)

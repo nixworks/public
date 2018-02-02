@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/17/a-strong-6-6-magnitude-earthquake-and-a-series-of-aftershocks-occur-off-the-coast-of-honshu-in-japan.html)  [JSON](/news/2011/09/17/a-strong-6-6-magnitude-earthquake-and-a-series-of-aftershocks-occur-off-the-coast-of-honshu-in-japan.json)  [XML](/news/2011/09/17/a-strong-6-6-magnitude-earthquake-and-a-series-of-aftershocks-occur-off-the-coast-of-honshu-in-japan.xml)  
+
 ### [2011-09-17](/news/2011/09/17/index.md)
 
+##### earthquake
 # A strong 6.6 magnitude earthquake and a series of aftershocks occur off the coast of Honshu in Japan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Hindustan Times](http://www.hindustantimes.com/Series-of-quakes-hit-off-Japan-disaster-zone/Article1-746987.aspx)
 

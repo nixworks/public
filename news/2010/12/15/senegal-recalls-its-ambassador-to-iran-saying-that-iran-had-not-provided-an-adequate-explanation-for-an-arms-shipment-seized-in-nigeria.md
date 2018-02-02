@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/15/senegal-recalls-its-ambassador-to-iran-saying-that-iran-had-not-provided-an-adequate-explanation-for-an-arms-shipment-seized-in-nigeria.html)  [JSON](/news/2010/12/15/senegal-recalls-its-ambassador-to-iran-saying-that-iran-had-not-provided-an-adequate-explanation-for-an-arms-shipment-seized-in-nigeria.json)  [XML](/news/2010/12/15/senegal-recalls-its-ambassador-to-iran-saying-that-iran-had-not-provided-an-adequate-explanation-for-an-arms-shipment-seized-in-nigeria.xml)  
+
 ### [2010-12-15](/news/2010/12/15/index.md)
 
+##### Senegal
 # Senegal recalls its ambassador to Iran, saying that Iran had not provided an adequate explanation for an arms shipment seized in Nigeria. 
 
 Senegal recalls its ambassador to Iran after Tehran failed to provide a &quot;satisfactory&quot; explanation for an arms shipment seized in Nigeria in October.
 
 
-### Source:
+### Sources:
 
 1. [Africa News](http://www.africanews.com/site/Senegal_recalls_ambassador_to_Iran/list_messages/36638)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-11998752)

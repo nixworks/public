@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/23/avigdor-liberman-signs-a-coalitionary-agreement-with-israeli-prime-minister-ehud-olmert-to-join-the-cabinet-as-minister-for-strategic-affai.html)  [JSON](/news/2006/10/23/avigdor-liberman-signs-a-coalitionary-agreement-with-israeli-prime-minister-ehud-olmert-to-join-the-cabinet-as-minister-for-strategic-affai.json)  [XML](/news/2006/10/23/avigdor-liberman-signs-a-coalitionary-agreement-with-israeli-prime-minister-ehud-olmert-to-join-the-cabinet-as-minister-for-strategic-affai.xml)  
+
 ### [2006-10-23](/news/2006/10/23/index.md)
 
+##### Avigdor Liberman
 #  Avigdor Liberman signs a coalitionary agreement with Israeli Prime Minister Ehud Olmert to join the cabinet as Minister for Strategic Affairs, a new position. 
 
 Israel Our Home chairman, Olmert sign agreement according to which Lieberman will be charged with establishing policy in respect to Israel&#39;s strategic threats ‘without compromising the authority of other ministers’ 
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3318674,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

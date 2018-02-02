@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/27/blind-dissident-chen-guangcheng-escapes-house-arrest-in-china.html)  [JSON](/news/2012/04/27/blind-dissident-chen-guangcheng-escapes-house-arrest-in-china.json)  [XML](/news/2012/04/27/blind-dissident-chen-guangcheng-escapes-house-arrest-in-china.xml)  
+
 ### [2012-04-27](/news/2012/04/27/index.md)
 
+##### Chen Guangcheng
 # Blind dissident Chen Guangcheng escapes house arrest in China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://blogs.wsj.com/chinarealtime/2012/04/27/where-is-chen-guangcheng/)
 1. [Cover Image](http://si.wsj.net/public/resources/images/AG-AC629_cohen_G_20111102122739.jpg)

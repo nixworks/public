@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/30/typhoon-meari-batters-the-town-of-miyagawa-mie-prefecture-japan-killing-27-and-causing-widespread-flooding-and-significant-damage.html)  [JSON](/news/2004/09/30/typhoon-meari-batters-the-town-of-miyagawa-mie-prefecture-japan-killing-27-and-causing-widespread-flooding-and-significant-damage.json)  [XML](/news/2004/09/30/typhoon-meari-batters-the-town-of-miyagawa-mie-prefecture-japan-killing-27-and-causing-widespread-flooding-and-significant-damage.xml)  
+
 ### [2004-09-30](/news/2004/09/30/index.md)
 
+##### Typhoon Meari
 #  Typhoon Meari batters the town of Miyagawa, Mie Prefecture, Japan, killing 27 and causing widespread flooding and significant damage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/3702566.stm)
 2. [NASA](http://earthobservatory.nasa.gov/NaturalHazards/natural_hazards_v2.php3?img_id=12514)

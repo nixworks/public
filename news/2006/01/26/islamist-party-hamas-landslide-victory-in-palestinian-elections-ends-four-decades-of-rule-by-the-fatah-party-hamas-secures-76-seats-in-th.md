@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/26/islamist-party-hamas-landslide-victory-in-palestinian-elections-ends-four-decades-of-rule-by-the-fatah-party-hamas-secures-76-seats-in-th.html)  [JSON](/news/2006/01/26/islamist-party-hamas-landslide-victory-in-palestinian-elections-ends-four-decades-of-rule-by-the-fatah-party-hamas-secures-76-seats-in-th.json)  [XML](/news/2006/01/26/islamist-party-hamas-landslide-victory-in-palestinian-elections-ends-four-decades-of-rule-by-the-fatah-party-hamas-secures-76-seats-in-th.xml)  
+
 ### [2006-01-26](/news/2006/01/26/index.md)
 
+##### Islamist
 #  Islamist party Hamas' landslide victory in Palestinian elections ends four decades of rule by the Fatah party. Hamas secures 76 seats in the 132-member legislature through parliamentary elections. Prime Minister Ahmed Qurei announces he will resign and Fatah declares it will not join a Hamas-led coalition, although Palestinian President Mahmoud Abbas plans to continue negotiations with Israel through the Palestine Liberation Organization.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4650788.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/675422.html)

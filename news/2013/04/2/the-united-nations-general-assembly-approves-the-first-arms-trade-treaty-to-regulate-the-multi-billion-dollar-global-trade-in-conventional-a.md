@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/2/the-united-nations-general-assembly-approves-the-first-arms-trade-treaty-to-regulate-the-multi-billion-dollar-global-trade-in-conventional-a.html)  [JSON](/news/2013/04/2/the-united-nations-general-assembly-approves-the-first-arms-trade-treaty-to-regulate-the-multi-billion-dollar-global-trade-in-conventional-a.json)  [XML](/news/2013/04/2/the-united-nations-general-assembly-approves-the-first-arms-trade-treaty-to-regulate-the-multi-billion-dollar-global-trade-in-conventional-a.xml)  
+
 ### [2013-04-2](/news/2013/04/2/index.md)
 
+##### United Nations
 # The United Nations General Assembly approves the first Arms Trade Treaty to regulate the multi-billion-dollar global trade in conventional arms with 154 votes in favor, three member states - Iran, North Korea and Syria - against the decision, and 23 abstentions. 
 
 The UN General Assembly adopts a historic treaty to control the trade in conventional arms, voting it through by a huge majority.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-21998394)
 2. [UN News Centre](http://www.un.org/apps/news/story.asp?NewsID=44539)

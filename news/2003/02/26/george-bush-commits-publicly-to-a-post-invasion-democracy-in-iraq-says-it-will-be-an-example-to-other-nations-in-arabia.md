@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/26/george-bush-commits-publicly-to-a-post-invasion-democracy-in-iraq-says-it-will-be-an-example-to-other-nations-in-arabia.html)  [JSON](/news/2003/02/26/george-bush-commits-publicly-to-a-post-invasion-democracy-in-iraq-says-it-will-be-an-example-to-other-nations-in-arabia.json)  [XML](/news/2003/02/26/george-bush-commits-publicly-to-a-post-invasion-democracy-in-iraq-says-it-will-be-an-example-to-other-nations-in-arabia.xml)  
+
 ### [2003-02-26](/news/2003/02/26/index.md)
 
+##### George W. Bush
 #  George Bush commits publicly to a post-invasion democracy in Iraq, says it will be "an example" to other nations in Arabia.
 
 

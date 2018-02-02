@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/11/9/the-latvian-government-effectively-nationalizes-the-country-s-second-largest-bank-parex-acquiring-a-controlling-51-stake-for-the-symboli.html)  [JSON](/news/2008/11/9/the-latvian-government-effectively-nationalizes-the-country-s-second-largest-bank-parex-acquiring-a-controlling-51-stake-for-the-symboli.json)  [XML](/news/2008/11/9/the-latvian-government-effectively-nationalizes-the-country-s-second-largest-bank-parex-acquiring-a-controlling-51-stake-for-the-symboli.xml)  
+
 ### [2008-11-9](/news/2008/11/9/index.md)
 
+##### Latvia
 #  The Latvian government effectively nationalizes the country's second-largest bank, Parex, acquiring a controlling 51% stake for the symbolic sum of just two lati.
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/bondsNews/idUSL860214520081108)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/bondsNews/idUSL860214520081108)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

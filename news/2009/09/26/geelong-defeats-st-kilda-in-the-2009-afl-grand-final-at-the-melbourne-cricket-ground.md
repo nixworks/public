@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/26/geelong-defeats-st-kilda-in-the-2009-afl-grand-final-at-the-melbourne-cricket-ground.html)  [JSON](/news/2009/09/26/geelong-defeats-st-kilda-in-the-2009-afl-grand-final-at-the-melbourne-cricket-ground.json)  [XML](/news/2009/09/26/geelong-defeats-st-kilda-in-the-2009-afl-grand-final-at-the-melbourne-cricket-ground.xml)  
+
 ### [2009-09-26](/news/2009/09/26/index.md)
 
+##### Geelong
 #  Geelong defeats St Kilda in the 2009 AFL Grand Final at the Melbourne Cricket Ground.
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Age](http://www.theage.com.au/realfooty/articles/2009/09/26/1253813654657.html)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/12/an-indonesian-court-convicts-brig-gen-noer-moeis-of-crimes-against-humanity-and-sentences-him-to-five-years-in-prison-for-failing-to-prev.html)  [JSON](/news/2003/03/12/an-indonesian-court-convicts-brig-gen-noer-moeis-of-crimes-against-humanity-and-sentences-him-to-five-years-in-prison-for-failing-to-prev.json)  [XML](/news/2003/03/12/an-indonesian-court-convicts-brig-gen-noer-moeis-of-crimes-against-humanity-and-sentences-him-to-five-years-in-prison-for-failing-to-prev.xml)  
+
 ### [2003-03-12](/news/2003/03/12/index.md)
 
+##### Indonesia
 #  An Indonesian court convicts Brig.-Gen. Noer Moeis of crimes against humanity and sentences him to five years in prison for failing to prevent massacres in East Timor.
 
 

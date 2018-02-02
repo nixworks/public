@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/19/the-people-s-republic-of-china-rejects-an-attempt-by-the-philippines-to-seek-international-arbitration-over-conflicting-claims-to-the-south.html)  [JSON](/news/2013/02/19/the-people-s-republic-of-china-rejects-an-attempt-by-the-philippines-to-seek-international-arbitration-over-conflicting-claims-to-the-south.json)  [XML](/news/2013/02/19/the-people-s-republic-of-china-rejects-an-attempt-by-the-philippines-to-seek-international-arbitration-over-conflicting-claims-to-the-south.xml)  
+
 ### [2013-02-19](/news/2013/02/19/index.md)
 
+##### China
 # The People's Republic of China rejects an attempt by the Philippines to seek international arbitration over conflicting claims to the South China Sea. 
 
  China said Tuesday it has rejected the Philippines’ attempt to seek international arbitration over conflicting claims to territory in the South China Sea.
 
 
-### Source:
+### Sources:
 
 1. [AP via ''The Sydney Morning Herald](http://www.smh.com.au/world/china-rejects-philippine-un-mediation-effort-20130220-2eq94.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/2/e/q/9/j/image.related.articleLeadwide.620x349.2eq94.png/1361311435377.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/13/two-attackers-of-eid-al-adha-prayers-in-an-imam
 
 ### [2016-09-13](/news/2016/09/13/index.md)
 
+##### Terrorist incidents in Pakistan in 2016
 # Two attackers of Eid al-Adha prayers in an Imambargah at Shikapur district, Sindh, injure at least ten people including five policemen. One assailant blew himself up and authorities arrested the other one. 
 
 SHIKARPUR - At least 13 people, including five cops, were injured after one of the two suicide bombers struck the Eid congregation in a Shikarpur mosque, police said Tuesday. The district police sa

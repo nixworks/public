@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2012/06/11/bahraini-uprising-an-11-year-old-child-is-released-after-weeks-in-detention-but-still-faces-being-put-on-trial-for-joining-an-illegal-gat.html)  [JSON](/news/2012/06/11/bahraini-uprising-an-11-year-old-child-is-released-after-weeks-in-detention-but-still-faces-being-put-on-trial-for-joining-an-illegal-gat.json)  [XML](/news/2012/06/11/bahraini-uprising-an-11-year-old-child-is-released-after-weeks-in-detention-but-still-faces-being-put-on-trial-for-joining-an-illegal-gat.xml)  
+
 ### [2012-06-11](/news/2012/06/11/index.md)
 
+##### Bahraini uprising (2011-present)
 # Bahraini uprising: An 11-year-old child is released after weeks in detention, but still faces being put on trial for "joining an illegal gathering". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/06/20126119752562267.html)
 2. [Al-Arabiya](http://english.alarabiya.net/articles/2012/06/11/219861.html)
 2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/11/2012611132448936580_20.jpg)
+
+### Changes:
+
+1. [Arab Spring:Bahraini uprising: An 11-year-old child is released after weeks in detention, but still faces being put on trial for "joining an illegal gathering". ](/news/2012/06/11/arab-spring-pbahraini-uprising-an-11-year-old-child-is-released-after-weeks-in-detention-but-still-faces-being-put-on-trial-for-joining-a.md) _2017-08-25 03:35:51 (First version)_
+2. [Arab Spring:: Bahraini uprising: An 11-year-old child is released after weeks in detention, but still faces being put on trial for "joining an illegal gathering". ](/news/2012/06/11/arab-spring-bahraini-uprising-an-11-year-old-child-is-released-after-weeks-in-detention-but-still-faces-being-put-on-trial-for-joining.md) _2017-08-27 03:36:02 (Update)_
+2. [Bahraini uprising: An 11-year-old child is released after weeks in detention, but still faces being put on trial for "joining an illegal gathering". ](/news/2012/06/11/bahraini-uprising-an-11-year-old-child-is-released-after-weeks-in-detention-but-still-faces-being-put-on-trial-for-joining-an-illegal-gat.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@
 3. [The government of Bahrain defends its decision to impose a ban on all public protests and demonstrations, following calls from Amnesty International to lift the ban immediately as it breaches the rights to free speech and assembly. ](/news/2012/10/31/the-government-of-bahrain-defends-its-decision-to-impose-a-ban-on-all-public-protests-and-demonstrations-following-calls-from-amnesty-inter.md) _Context: Bahraini uprising (2011-present)_
 4. [Bahraini uprising: Anti-government protests are banned and legal action is threatened against those backing the protests. ](/news/2012/10/29/bahraini-uprising-anti-government-protests-are-banned-and-legal-action-is-threatened-against-those-backing-the-protests.md) _Context: Bahraini uprising (2011-present)_
 5. [A court in Bahrain upholds the jail sentences of nine medics convicted for their role in the country's uprising. ](/news/2012/10/1/a-court-in-bahrain-upholds-the-jail-sentences-of-nine-medics-convicted-for-their-role-in-the-country-s-uprising.md) _Context: Bahraini uprising (2011-present)_
-
-### Changes:
-
-1. [Arab Spring:Bahraini uprising: An 11-year-old child is released after weeks in detention, but still faces being put on trial for "joining an illegal gathering". ](/news/2012/06/11/arab-spring-pbahraini-uprising-an-11-year-old-child-is-released-after-weeks-in-detention-but-still-faces-being-put-on-trial-for-joining-a.md) _2017-08-25 03:35:51 (First version)_
-2. [Arab Spring:: Bahraini uprising: An 11-year-old child is released after weeks in detention, but still faces being put on trial for "joining an illegal gathering". ](/news/2012/06/11/arab-spring-bahraini-uprising-an-11-year-old-child-is-released-after-weeks-in-detention-but-still-faces-being-put-on-trial-for-joining.md) _2017-08-27 03:36:02 (Update)_
-2. [Bahraini uprising: An 11-year-old child is released after weeks in detention, but still faces being put on trial for "joining an illegal gathering". ](/news/2012/06/11/bahraini-uprising-an-11-year-old-child-is-released-after-weeks-in-detention-but-still-faces-being-put-on-trial-for-joining-an-illegal-gat.md) _(Current version)_

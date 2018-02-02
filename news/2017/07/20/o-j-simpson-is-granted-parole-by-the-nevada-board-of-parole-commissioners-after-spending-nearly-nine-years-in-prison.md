@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/20/o-j-simpson-is-granted-parole-by-the-nevada-boa
 
 ### [2017-07-20](/news/2017/07/20/index.md)
 
+##### O. J. Simpson robbery case
 # O. J. Simpson is granted parole by the Nevada Board of Parole Commissioners after spending nearly nine years in prison. 
 
 Simpson, who has served nine years, mouthed the words &quot;thank you&quot; as he stood and returned to his cell, where he will remain until fall.

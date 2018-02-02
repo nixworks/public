@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/16/toumba-diakite-an-aide-to-guinea-s-military-leader-moussa-dadis-camara-admits-to-shooting-him-after-the-junta-leader-wanted-him-to-take-re.html)  [JSON](/news/2009/12/16/toumba-diakite-an-aide-to-guinea-s-military-leader-moussa-dadis-camara-admits-to-shooting-him-after-the-junta-leader-wanted-him-to-take-re.json)  [XML](/news/2009/12/16/toumba-diakite-an-aide-to-guinea-s-military-leader-moussa-dadis-camara-admits-to-shooting-him-after-the-junta-leader-wanted-him-to-take-re.xml)  
+
 ### [2009-12-16](/news/2009/12/16/index.md)
 
+##### Toumba Diakite
 #  Toumba Diakite, an aide to Guinea's military leader Moussa Dadis Camara admits to shooting him after the junta leader wanted him to take responsibility for the massacre of opposition protesters in September. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iAVjutFiNxMjNLZd6fFZMANVHAXgD9CKCPOO0)
 2. [Ghana Broadcasting Corporation](http://gbcghana.com/news/30161detail.html)

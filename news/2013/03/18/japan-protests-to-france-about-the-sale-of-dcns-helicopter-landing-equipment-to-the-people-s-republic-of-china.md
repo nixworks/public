@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/18/japan-protests-to-france-about-the-sale-of-dcns-helicopter-landing-equipment-to-the-people-s-republic-of-china.html)  [JSON](/news/2013/03/18/japan-protests-to-france-about-the-sale-of-dcns-helicopter-landing-equipment-to-the-people-s-republic-of-china.json)  [XML](/news/2013/03/18/japan-protests-to-france-about-the-sale-of-dcns-helicopter-landing-equipment-to-the-people-s-republic-of-china.xml)  
+
 ### [2013-03-18](/news/2013/03/18/index.md)
 
+##### Japan
 # Japan protests to France about the sale of DCNS helicopter landing equipment to the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jgjUhYHyL_Azy98UJF4j01rpV-BQ)
 

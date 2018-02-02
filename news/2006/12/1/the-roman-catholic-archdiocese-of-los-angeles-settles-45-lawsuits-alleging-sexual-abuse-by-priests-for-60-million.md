@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/1/the-roman-catholic-archdiocese-of-los-angeles-settles-45-lawsuits-alleging-sexual-abuse-by-priests-for-60-million.html)  [JSON](/news/2006/12/1/the-roman-catholic-archdiocese-of-los-angeles-settles-45-lawsuits-alleging-sexual-abuse-by-priests-for-60-million.json)  [XML](/news/2006/12/1/the-roman-catholic-archdiocese-of-los-angeles-settles-45-lawsuits-alleging-sexual-abuse-by-priests-for-60-million.xml)  
+
 ### [2006-12-1](/news/2006/12/1/index.md)
 
+##### Roman Catholic
 #  The Roman Catholic Archdiocese of Los Angeles settles 45 lawsuits alleging sexual abuse by priests for $60 million. 
 
 Follow the StarTribune for the news, photos and videos from the Twin Cities and beyond.
 
 
-### Source:
+### Sources:
 
 1. [AP via Minneapolis-St Paul Star Tribune](http://www.startribune.com/484/story/847410.html)
 1. [Cover Image](http://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1490813369)

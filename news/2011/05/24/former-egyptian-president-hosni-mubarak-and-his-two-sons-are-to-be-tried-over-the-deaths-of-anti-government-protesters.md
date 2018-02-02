@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/24/former-egyptian-president-hosni-mubarak-and-his-two-sons-are-to-be-tried-over-the-deaths-of-anti-government-protesters.html)  [JSON](/news/2011/05/24/former-egyptian-president-hosni-mubarak-and-his-two-sons-are-to-be-tried-over-the-deaths-of-anti-government-protesters.json)  [XML](/news/2011/05/24/former-egyptian-president-hosni-mubarak-and-his-two-sons-are-to-be-tried-over-the-deaths-of-anti-government-protesters.xml)  
+
 ### [2011-05-24](/news/2011/05/24/index.md)
 
+##### Egypt
 # Former Egyptian President Hosni Mubarak and his two sons are to be tried over the deaths of anti-government protesters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/05/2011524132656755534.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-13527102)

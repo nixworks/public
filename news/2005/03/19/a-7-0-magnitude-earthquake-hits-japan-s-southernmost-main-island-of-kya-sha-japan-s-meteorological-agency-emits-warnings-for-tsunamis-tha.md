@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/19/a-7-0-magnitude-earthquake-hits-japan-s-southernmost-main-island-of-kya-sha-japan-s-meteorological-agency-emits-warnings-for-tsunamis-tha.html)  [JSON](/news/2005/03/19/a-7-0-magnitude-earthquake-hits-japan-s-southernmost-main-island-of-kya-sha-japan-s-meteorological-agency-emits-warnings-for-tsunamis-tha.json)  [XML](/news/2005/03/19/a-7-0-magnitude-earthquake-hits-japan-s-southernmost-main-island-of-kya-sha-japan-s-meteorological-agency-emits-warnings-for-tsunamis-tha.xml)  
+
 ### [2005-03-19](/news/2005/03/19/index.md)
 
+##### magnitude
 #  A 7.0 magnitude earthquake hits Japan's southernmost main island of Kyushu. Japan's Meteorological Agency emits warnings for tsunamis that could hit areas including the coast of Kyushu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WORLD/asiapcf/03/19/quake.japan.reut/index.html)
 

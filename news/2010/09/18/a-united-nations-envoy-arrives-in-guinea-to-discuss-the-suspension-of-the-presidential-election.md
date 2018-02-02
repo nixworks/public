@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/18/a-united-nations-envoy-arrives-in-guinea-to-discuss-the-suspension-of-the-presidential-election.html)  [JSON](/news/2010/09/18/a-united-nations-envoy-arrives-in-guinea-to-discuss-the-suspension-of-the-presidential-election.json)  [XML](/news/2010/09/18/a-united-nations-envoy-arrives-in-guinea-to-discuss-the-suspension-of-the-presidential-election.xml)  
+
 ### [2010-09-18](/news/2010/09/18/index.md)
 
+##### United Nations
 # A United Nations envoy arrives in Guinea to discuss the suspension of the presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jXgzIBCVm-5KN7bO1CgxtQvCGvXg)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/5/the-united-states-department-of-labor-releases-a-report-showing-that-job-growth-all-but-stalled-in-february.html)  [JSON](/news/2004/03/5/the-united-states-department-of-labor-releases-a-report-showing-that-job-growth-all-but-stalled-in-february.json)  [XML](/news/2004/03/5/the-united-states-department-of-labor-releases-a-report-showing-that-job-growth-all-but-stalled-in-february.xml)  
+
 ### [2004-03-5](/news/2004/03/5/index.md)
 
+##### United States Department of Labor
 #  The United States Department of Labor releases a report showing that job growth all but stalled in February. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PBS](http://www.pbs.org/newshour/bb/economy/jan-june04/unemployment_03-05.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/7/warner-bros-television-sacks-actor-charlie-sheen-from-the-cast-of-television-show-two-and-a-half-men.html)  [JSON](/news/2011/03/7/warner-bros-television-sacks-actor-charlie-sheen-from-the-cast-of-television-show-two-and-a-half-men.json)  [XML](/news/2011/03/7/warner-bros-television-sacks-actor-charlie-sheen-from-the-cast-of-television-show-two-and-a-half-men.xml)  
+
 ### [2011-03-7](/news/2011/03/7/index.md)
 
+##### Warner Bros. Television
 # Warner Bros. Television sacks actor Charlie Sheen from the cast of television show "Two and a Half Men". 
 
 Warner Bros. has just fired Charlie Sheen from &quot;Two and a Half Men.&quot;Warner Bros. issued the following statement: &quot;After careful consideration, Warner&hellip;
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Article/201103115947691)
 2. [TMZ](http://www.tmz.com/2011/03/07/charlie-sheen-two-and-a-half-men-tv-fired-letter-warner-bros-television/)

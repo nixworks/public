@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/24/an-iranian-court-clears-mohammad-reza-aghdam-ahmadi-the-intelligence-agent-accused-of-killing-the-iranian-canadian-journalist-zahra-kazemi.html)  [JSON](/news/2004/07/24/an-iranian-court-clears-mohammad-reza-aghdam-ahmadi-the-intelligence-agent-accused-of-killing-the-iranian-canadian-journalist-zahra-kazemi.json)  [XML](/news/2004/07/24/an-iranian-court-clears-mohammad-reza-aghdam-ahmadi-the-intelligence-agent-accused-of-killing-the-iranian-canadian-journalist-zahra-kazemi.xml)  
+
 ### [2004-07-24](/news/2004/07/24/index.md)
 
+##### Iran
 #  An Iranian court clears Mohammad Reza Aghdam-Ahmadi, the intelligence agent accused of killing the Iranian-Canadian journalist Zahra Kazemi, of charges of "semi-intentional murder", stating that the blood money should be paid from the state's treasury. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3923511.stm)
 

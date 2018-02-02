@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/20/campaigning-in-montenegro-s-referendum-on-independence-ends-at-midnight-local-time-with-voting-scheduled-to-begin-the-following-morning.html)  [JSON](/news/2006/05/20/campaigning-in-montenegro-s-referendum-on-independence-ends-at-midnight-local-time-with-voting-scheduled-to-begin-the-following-morning.json)  [XML](/news/2006/05/20/campaigning-in-montenegro-s-referendum-on-independence-ends-at-midnight-local-time-with-voting-scheduled-to-begin-the-following-morning.xml)  
+
 ### [2006-05-20](/news/2006/05/20/index.md)
 
+##### Montenegro
 #  Campaigning in Montenegro's referendum on independence ends at midnight local time, with voting scheduled to begin the following morning. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [B92](http://www.b92.net/english/news/index.php?&nav_category=&nav_id=34988&order=priority&style=headlines)
 2. [EUObserver](http://euobserver.com/9/21661)

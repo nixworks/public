@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/15/china-urges-its-citizens-in-algeria-to-take-extra-care-after-reports-circulate-of-a-militant-group-s-plans-to-avenge-recent-deaths-of-mus.html)  [JSON](/news/2009/07/15/china-urges-its-citizens-in-algeria-to-take-extra-care-after-reports-circulate-of-a-militant-group-s-plans-to-avenge-recent-deaths-of-mus.json)  [XML](/news/2009/07/15/china-urges-its-citizens-in-algeria-to-take-extra-care-after-reports-circulate-of-a-militant-group-s-plans-to-avenge-recent-deaths-of-mus.xml)  
+
 ### [2009-07-15](/news/2009/07/15/index.md)
 
+##### China
 #  China urges its citizens in Algeria to "take extra care" after reports circulate of a militant group's plans to avenge recent deaths of Muslim Uyghurs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8151008.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/24/in-nevada-the-bundy-standoff-continues-politicians-who-had-voiced-support-for-bundy-began-to-distance-themselves-after-the-rancher-controve.html)  [JSON](/news/2014/04/24/in-nevada-the-bundy-standoff-continues-politicians-who-had-voiced-support-for-bundy-began-to-distance-themselves-after-the-rancher-controve.json)  [XML](/news/2014/04/24/in-nevada-the-bundy-standoff-continues-politicians-who-had-voiced-support-for-bundy-began-to-distance-themselves-after-the-rancher-controve.xml)  
+
 ### [2014-04-24](/news/2014/04/24/index.md)
 
+##### Nevada
 # In Nevada the Bundy standoff continues; politicians who had voiced support for Bundy began to distance themselves after the rancher controversially suggested that African Americans might be better off picking cotton as slaves than "under government subsidy". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/politics/2014/04/24/bundy-under-fire/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2014/04/24/bundy-under-fire/_jcr_content/par/featured-media/media-0.img.jpg/0/0/1447088525593.jpg?ve=1)

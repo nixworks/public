@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/9/lawyers-of-former-chadian-president-hissa-ne-hab
 
 ### [2017-01-9](/news/2017/01/9/index.md)
 
+##### Chadian President
 # Lawyers of former Chadian President Hissene Habre, who was convicted of crimes against humanity last May and sentenced to life in prison, appeal the verdict, claiming there were irregularities in the trial and question the credibility of some witnesses. 
 
 Former president’s lawyers claim trial last year contained irregularities and question credibility of some witnesses

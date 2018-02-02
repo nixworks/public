@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/08/12/mahmoud-ahmadinejad-the-president-of-iran-replaces-his-oil-minister-kazem-vaziri-hamaneh-with-gholamhossein-nozari-head-of-the-national.html)  [JSON](/news/2007/08/12/mahmoud-ahmadinejad-the-president-of-iran-replaces-his-oil-minister-kazem-vaziri-hamaneh-with-gholamhossein-nozari-head-of-the-national.json)  [XML](/news/2007/08/12/mahmoud-ahmadinejad-the-president-of-iran-replaces-his-oil-minister-kazem-vaziri-hamaneh-with-gholamhossein-nozari-head-of-the-national.xml)  
+
 ### [2007-08-12](/news/2007/08/12/index.md)
 
+##### Mahmoud Ahmadinejad
 #  Mahmoud Ahmadinejad, the President of Iran, replaces his Oil Minister Kazem Vaziri-Hamaneh with Gholamhossein Nozari, head of the National Iranian Oil Company acting as his deputy. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSBLA26719820070812)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20070812&t=2&i=1285826&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-12T194740Z_01_BLA267198_RTRUKOP_0_PICTURE0)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSBLA26719820070812)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20070812&t=2&i=1285826&w=&fh=545px&fw=&ll=&pl=&sq=&r=2007-08-12T194740Z_01_BLA267198_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

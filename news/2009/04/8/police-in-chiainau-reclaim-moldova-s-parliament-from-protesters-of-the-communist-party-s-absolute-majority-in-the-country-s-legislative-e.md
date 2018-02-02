@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/8/police-in-chiainau-reclaim-moldova-s-parliament-from-protesters-of-the-communist-party-s-absolute-majority-in-the-country-s-legislative-e.html)  [JSON](/news/2009/04/8/police-in-chiainau-reclaim-moldova-s-parliament-from-protesters-of-the-communist-party-s-absolute-majority-in-the-country-s-legislative-e.json)  [XML](/news/2009/04/8/police-in-chiainau-reclaim-moldova-s-parliament-from-protesters-of-the-communist-party-s-absolute-majority-in-the-country-s-legislative-e.xml)  
+
 ### [2009-04-8](/news/2009/04/8/index.md)
 
+##### Police
 #  Police in Chisinau reclaim Moldova's Parliament from protesters of the Communist Party's absolute majority in the country's legislative election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7988893.stm)
 

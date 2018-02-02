@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/19/philippine-president-rodrigo-duterte-signed-the
 
 ### [2017-12-19](/news/2017/12/19/index.md)
 
+##### Taxation in the Philippines
 # Philippine President Rodrigo Duterte signed the Tax Reform for Acceleration and Inclusion (TRAIN) Act. 
 
 President Rodrigo Duterte on Tuesday, December 19, signed into law the P3.8-trillion 2018 national budget, and the first package of the much-awaited tax reform program that seeks to raise P130 billion in revenues to bankroll his administration’s economic agenda. 

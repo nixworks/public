@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/26/iranian-president-mahmoud-ahmadinejad-rejects-u-s-president-barack-obama-s-accusation-about-iran-s-nuclear-program.html)  [JSON](/news/2009/09/26/iranian-president-mahmoud-ahmadinejad-rejects-u-s-president-barack-obama-s-accusation-about-iran-s-nuclear-program.json)  [XML](/news/2009/09/26/iranian-president-mahmoud-ahmadinejad-rejects-u-s-president-barack-obama-s-accusation-about-iran-s-nuclear-program.xml)  
+
 ### [2009-09-26](/news/2009/09/26/index.md)
 
+##### President
 #  Iranian President Mahmoud Ahmadinejad rejects U.S. President Barack Obama's accusation about Iran's nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i6jtny6rOmiwS39lfjbJ2n6ybwuQ)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2009/09/200992653918859243.html)

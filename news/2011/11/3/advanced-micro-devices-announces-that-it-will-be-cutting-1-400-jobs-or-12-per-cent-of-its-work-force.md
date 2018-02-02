@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/3/advanced-micro-devices-announces-that-it-will-be-cutting-1-400-jobs-or-12-per-cent-of-its-work-force.html)  [JSON](/news/2011/11/3/advanced-micro-devices-announces-that-it-will-be-cutting-1-400-jobs-or-12-per-cent-of-its-work-force.json)  [XML](/news/2011/11/3/advanced-micro-devices-announces-that-it-will-be-cutting-1-400-jobs-or-12-per-cent-of-its-work-force.xml)  
+
 ### [2011-11-3](/news/2011/11/3/index.md)
 
+##### Advanced Micro Devices
 # Advanced Micro Devices announces that it will be cutting 1,400 jobs or 12 per cent of its work force. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via News OK](http://newsok.com/advanced-micro-devices-says-it-is-cutting-1400-workers-or-12-percent-amid-weak-pc-market/article/feed/313972?custom_click=headlines_widget)
 

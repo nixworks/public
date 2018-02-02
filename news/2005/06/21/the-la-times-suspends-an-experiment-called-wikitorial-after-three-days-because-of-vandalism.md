@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/21/the-la-times-suspends-an-experiment-called-wikitorial-after-three-days-because-of-vandalism.html)  [JSON](/news/2005/06/21/the-la-times-suspends-an-experiment-called-wikitorial-after-three-days-because-of-vandalism.json)  [XML](/news/2005/06/21/the-la-times-suspends-an-experiment-called-wikitorial-after-three-days-because-of-vandalism.xml)  
+
 ### [2005-06-21](/news/2005/06/21/index.md)
 
+##### LA Times
 #  The LA Times suspends an experiment called "wikitorial" after three days because of vandalism. 
 
 A bold Los Angeles Times experiment in letting readers rewrite the paper&#8217;s editorials lasted all of three days after some users flooded the newspaper&#8217;s Web site with foul language and pornographic photos.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/4114312.stm)
 2. [MSNBC](http://www.msnbc.msn.com/id/8300420)

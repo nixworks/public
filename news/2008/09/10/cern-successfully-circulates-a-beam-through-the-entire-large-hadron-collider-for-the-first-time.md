@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/09/10/cern-successfully-circulates-a-beam-through-the-entire-large-hadron-collider-for-the-first-time.html)  [JSON](/news/2008/09/10/cern-successfully-circulates-a-beam-through-the-entire-large-hadron-collider-for-the-first-time.json)  [XML](/news/2008/09/10/cern-successfully-circulates-a-beam-through-the-entire-large-hadron-collider-for-the-first-time.xml)  
+
 ### [2008-09-10](/news/2008/09/10/index.md)
 
+##### CERN
 #  CERN successfully circulates a beam through the entire Large Hadron Collider for the first time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wired](http://blog.wired.com/wiredscience/2008/09/first-beam-circ.html)
-2. [Wired](http://www.wired.com/science/discoveries/multimedia/2008/09/gallery_cern)
+2. [Wired](https://www.wired.com/science/discoveries/multimedia/2008/09/gallery_cern)
 
 ### Related:
 

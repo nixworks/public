@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/04/12/russia-threatens-to-block-ban-ki-moon-from-serving-a-second-term-as-united-nations-secretary-general-because-of-his-stance-on-kosovo-s-rece.html)  [JSON](/news/2008/04/12/russia-threatens-to-block-ban-ki-moon-from-serving-a-second-term-as-united-nations-secretary-general-because-of-his-stance-on-kosovo-s-rece.json)  [XML](/news/2008/04/12/russia-threatens-to-block-ban-ki-moon-from-serving-a-second-term-as-united-nations-secretary-general-because-of-his-stance-on-kosovo-s-rece.xml)  
+
 ### [2008-04-12](/news/2008/04/12/index.md)
 
+##### Russia
 #  Russia threatens to block Ban Ki Moon from serving a second term as United Nations Secretary-General because of his stance on Kosovo's recent independence. The Kremlin is pressing Ban to ignore, or at least prolong, a proposed 120-day transition period to Kosovo independence from Serbia that expires on 16 June. Renewal of Serbia-Kosovo talks is possible. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Makfax](http://makfax.com.mk/look/novina/article.tpl?IdLanguage=1&IdPublication=2&NrArticle=108461&NrIssue=632&NrSection=20)
 
 ### Related:
 
-1. [Portugal's Antonio Guterres begins his term as United Nations Secretary-General, replacing South Korea's Ban Ki-moon. ](/news/2017/01/1/portugal-s-anta3nio-guterres-begins-his-term-as-united-nations-secretary-general-replacing-south-korea-s-ban-ki-moon.md) _Context: Ban Ki-moon, United Nations Secretary-General_
-2. [Secretary-General Ban Ki-moon has repeatedly called on the DPRK to re-engage in the Six-Party Talks that also involve the Republic of Korea, Japan, China, Russia and the United States. ](/news/2010/02/12/secretary-general-ban-ki-moon-has-repeatedly-called-on-the-dprk-to-re-engage-in-the-six-party-talks-that-also-involve-the-republic-of-korea.md) _Context: Ban Ki-moon, Russia_
-3. [United Nations Secretary-General Ban Ki-moon outlines seven priorities for 2010 and urges a renewed focus on sustainable development, ending poverty, disease and hunger. ](/news/2010/01/11/united-nations-secretary-general-ban-ki-moon-outlines-seven-priorities-for-2010-and-urges-a-renewed-focus-on-sustainable-development-ending.md) _Context: Ban Ki-moon, United Nations Secretary-General_
-4. [ United Nations Secretary-General Ban Ki-moon makes a surprise visit to Afghanistan ahead of the 7 November second round of the presidential election. ](/news/2009/11/2/united-nations-secretary-general-ban-ki-moon-makes-a-surprise-visit-to-afghanistan-ahead-of-the-7-november-second-round-of-the-presidential.md) _Context: Ban Ki-moon, United Nations Secretary-General_
-5. [The United States vetoes a United Nations Security Council resolution aimed at stopping Israeli airstrikes against Gaza. UN Secretary-General Ban Ki-moon and the United Kingdom, European Union, Russia, France, and China all call for a ceasefire. ](/news/2008/12/28/the-united-states-vetoes-a-united-nations-security-council-resolution-aimed-at-stopping-israeli-airstrikes-against-gaza-un-secretary-genera.md) _Context: Ban Ki-moon, Russia_
+1. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_
+2. [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md) _Context: Russia_
+3. [Incumbent Milos Zeman, who opposes immigration and objects to EU sanctions against Russia, is elected to a second term as President of the Czech Republic, after receiving 51.8 percent of the votes in the run-off election over pro-EU challenger Jiri Drahos. ](/news/2018/01/27/incumbent-miloa-zeman-who-opposes-immigration-and-objects-to-eu-sanctions-against-russia-is-elected-to-a-second-term-as-president-of-the.md) _Context: Russia_
+4. [Russia's Ministry of Culture bars the release of the British-French political satire film "The Death of Stalin" in the country after accusing the film of containing "ideological warfare" and "extremist" content. ](/news/2018/01/23/russia-s-ministry-of-culture-bars-the-release-of-the-britishafrench-political-satire-film-the-death-of-stalin-in-the-country-after-accus.md) _Context: Russia_
+5. [Twitter announces it is notifying 677,775 people in the U.S. that they had some contact with the Kremlin-linked troll farm, Internet Research Agency, during the 2016 election period. The count of Russian-linked bot accounts is now 50,258, the company having identified an additional 13,512 bot accounts since its November Congressional briefing. ](/news/2018/01/19/twitter-announces-it-is-notifying-677-775-people-in-the-u-s-that-they-had-some-contact-with-the-kremlin-linked-troll-farm-internet-researc.md) _Context: Russia_

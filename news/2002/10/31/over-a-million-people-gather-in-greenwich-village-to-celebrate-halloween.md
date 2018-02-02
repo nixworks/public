@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/31/over-a-million-people-gather-in-greenwich-village-to-celebrate-halloween.html)  [JSON](/news/2002/10/31/over-a-million-people-gather-in-greenwich-village-to-celebrate-halloween.json)  [XML](/news/2002/10/31/over-a-million-people-gather-in-greenwich-village-to-celebrate-halloween.xml)  
+
 ### [2002-10-31](/news/2002/10/31/index.md)
 
+##### Greenwich Village
 #  Over a million people gather in Greenwich Village to celebrate Halloween.
 
 

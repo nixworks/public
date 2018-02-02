@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/10/23/bbc-director-general-george-entwistle-appears-before-the-house-of-commons-culture-media-and-sport-committee-to-answer-questions-about-the-c.html)  [JSON](/news/2012/10/23/bbc-director-general-george-entwistle-appears-before-the-house-of-commons-culture-media-and-sport-committee-to-answer-questions-about-the-c.json)  [XML](/news/2012/10/23/bbc-director-general-george-entwistle-appears-before-the-house-of-commons-culture-media-and-sport-committee-to-answer-questions-about-the-c.xml)  
+
 ### [2012-10-23](/news/2012/10/23/index.md)
 
+##### Director-General
 # BBC Director-General George Entwistle appears before the House of Commons Culture, Media and Sport Committee to answer questions about the Corporation's handling of allegations of sexual abuse against Jimmy Savile. 
 
 Attitudes inside the BBC towards sexual exploitation of teenage girls have changed since the 1960s, when Jimmy Savile started out as a serial abuser – but not enough, the Director General of the BBC told MPs today.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/home-news/newsnight-should-have-continued-jimmy-savile-report-directorgeneral-george-entwistle-admits-bbc-culture-over-sexual-exploitation-has-changed-too-little-8222484.html)
+1. [The Independent](https://www.independent.co.uk/news/uk/home-news/newsnight-should-have-continued-jimmy-savile-report-directorgeneral-george-entwistle-admits-bbc-culture-over-sexual-exploitation-has-changed-too-little-8222484.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/10/23/12/Entwistle-Savile.jpg)
 
 ### Related:

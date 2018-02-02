@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/16/ten-people-are-injured-following-clashes-between-anti-government-protesters-and-police-in-gabon.html)  [JSON](/news/2012/08/16/ten-people-are-injured-following-clashes-between-anti-government-protesters-and-police-in-gabon.json)  [XML](/news/2012/08/16/ten-people-are-injured-following-clashes-between-anti-government-protesters-and-police-in-gabon.xml)  
+
 ### [2012-08-16](/news/2012/08/16/index.md)
 
+##### Gabon
 # Ten people are injured following clashes between anti-government protesters and police in Gabon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/africa/ten-injured-during-clashes-in-gabon-1.1363300#.UCyQ6qNST_k)
 

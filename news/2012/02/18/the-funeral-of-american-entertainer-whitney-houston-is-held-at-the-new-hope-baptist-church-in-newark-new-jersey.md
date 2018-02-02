@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/02/18/the-funeral-of-american-entertainer-whitney-houston-is-held-at-the-new-hope-baptist-church-in-newark-new-jersey.html)  [JSON](/news/2012/02/18/the-funeral-of-american-entertainer-whitney-houston-is-held-at-the-new-hope-baptist-church-in-newark-new-jersey.json)  [XML](/news/2012/02/18/the-funeral-of-american-entertainer-whitney-houston-is-held-at-the-new-hope-baptist-church-in-newark-new-jersey.xml)  
+
 ### [2012-02-18](/news/2012/02/18/index.md)
 
+##### American
 # The funeral of American entertainer Whitney Houston is held at the New Hope Baptist Church in Newark, New Jersey. 
 
 The New Hope Baptist Church, where pop star Whitney Houston first sang and family and friends will gather on Saturday to pay her a final tribute, sits in a hardscrabble corner of Newark, New Jersey. Its well-maintained red-brick facade seems at odds with the dusty parking lot and derelict housing projects around it.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/18/us-whitneyhouston-hometown-idUSTRE81H02820120218)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120218&t=2&i=572296452&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81H05BD00)
+1. [Reuters](https://www.reuters.com/article/2012/02/18/us-whitneyhouston-hometown-idUSTRE81H02820120218)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120218&t=2&i=572296452&w=&fh=545px&fw=&ll=&pl=&sq=&r=BTRE81H05BD00)
 
 ### Related:
 

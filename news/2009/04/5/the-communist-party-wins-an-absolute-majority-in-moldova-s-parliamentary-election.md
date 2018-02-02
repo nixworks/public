@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/5/the-communist-party-wins-an-absolute-majority-in-moldova-s-parliamentary-election.html)  [JSON](/news/2009/04/5/the-communist-party-wins-an-absolute-majority-in-moldova-s-parliamentary-election.json)  [XML](/news/2009/04/5/the-communist-party-wins-an-absolute-majority-in-moldova-s-parliamentary-election.xml)  
+
 ### [2009-04-5](/news/2009/04/5/index.md)
 
+##### PCRM
 #  The Communist Party wins an absolute majority in Moldova's parliamentary election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iDtTQLd0b-9fJVubK408Ogktlt6w)
 

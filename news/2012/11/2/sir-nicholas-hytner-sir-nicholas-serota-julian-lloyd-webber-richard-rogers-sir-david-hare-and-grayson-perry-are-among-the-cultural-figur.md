@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/2/sir-nicholas-hytner-sir-nicholas-serota-julian-lloyd-webber-richard-rogers-sir-david-hare-and-grayson-perry-are-among-the-cultural-figur.html)  [JSON](/news/2012/11/2/sir-nicholas-hytner-sir-nicholas-serota-julian-lloyd-webber-richard-rogers-sir-david-hare-and-grayson-perry-are-among-the-cultural-figur.json)  [XML](/news/2012/11/2/sir-nicholas-hytner-sir-nicholas-serota-julian-lloyd-webber-richard-rogers-sir-david-hare-and-grayson-perry-are-among-the-cultural-figur.xml)  
+
 ### [2012-11-2](/news/2012/11/2/index.md)
 
+##### Sir Nicholas Hytner
 # Sir Nicholas Hytner, Sir Nicholas Serota, Julian Lloyd Webber, Richard Rogers, Sir David Hare and Grayson Perry are among the cultural figures to criticise the "incredibly shortsighted" policy of excluding creative subjects from the core qualification at 16. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/education/2012/nov/02/arts-leaders-concerns-ebacc-schools)
 

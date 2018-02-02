@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/4/the-international-olympic-committee-elects-sochi-as-the-host-city-for-the-2014-winter-olympics-during-its-session-in-guatemala-city.html)  [JSON](/news/2007/07/4/the-international-olympic-committee-elects-sochi-as-the-host-city-for-the-2014-winter-olympics-during-its-session-in-guatemala-city.json)  [XML](/news/2007/07/4/the-international-olympic-committee-elects-sochi-as-the-host-city-for-the-2014-winter-olympics-during-its-session-in-guatemala-city.xml)  
+
 ### [2007-07-4](/news/2007/07/4/index.md)
 
+##### International Olympic Committee
 #  The International Olympic Committee elects Sochi as the host city for the 2014 Winter Olympics during its session in Guatemala City. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOC](http://olympic.org/uk/news/olympic_news/full_story_uk.asp?id=2221)
 

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/12/10/a-ceremony-is-held-in-norway-to-award-the-nobel-peace-prize-to-chinese-dissident-liu-xiaobo-in-absentia.html)  [JSON](/news/2010/12/10/a-ceremony-is-held-in-norway-to-award-the-nobel-peace-prize-to-chinese-dissident-liu-xiaobo-in-absentia.json)  [XML](/news/2010/12/10/a-ceremony-is-held-in-norway-to-award-the-nobel-peace-prize-to-chinese-dissident-liu-xiaobo-in-absentia.xml)  
+
 ### [2010-12-10](/news/2010/12/10/index.md)
 
+##### winner
 # A ceremony is held in Norway to award the Nobel Peace Prize to Chinese dissident Liu Xiaobo "in absentia". 
 
 Jailed Chinese dissident Liu Xiaobo was awarded the Nobel Peace Prize in a ceremony where he was represented by an empty chair and he dedicated it from prison to the &quot;lost souls&quot; of the 1989 Tiananmen Square crackdown.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/12/201012913925451679.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11966449)
-3. [Reuters](http://www.reuters.com/article/idUSTOE6B106320101210)
+3. [Reuters](https://www.reuters.com/article/idUSTOE6B106320101210)
 3. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20101210&t=2&i=272329408&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-12-10T193637Z_01_BTRE6B91IH600_RTROPTP_0_NOBEL)
 
 ### Related:

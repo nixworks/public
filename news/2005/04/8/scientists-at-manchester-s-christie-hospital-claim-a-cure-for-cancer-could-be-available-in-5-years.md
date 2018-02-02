@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/8/scientists-at-manchester-s-christie-hospital-claim-a-cure-for-cancer-could-be-available-in-5-years.html)  [JSON](/news/2005/04/8/scientists-at-manchester-s-christie-hospital-claim-a-cure-for-cancer-could-be-available-in-5-years.json)  [XML](/news/2005/04/8/scientists-at-manchester-s-christie-hospital-claim-a-cure-for-cancer-could-be-available-in-5-years.xml)  
+
 ### [2005-04-8](/news/2005/04/8/index.md)
 
+##### Manchester
 #  Scientists at Manchester's Christie Hospital claim a cure for cancer could be available in 5 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/low/england/manchester/4423847.stm)
 

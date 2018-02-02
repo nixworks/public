@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/21/bank-of-america-reports-a-loss-of-1-2-billion.html)  [JSON](/news/2011/01/21/bank-of-america-reports-a-loss-of-1-2-billion.json)  [XML](/news/2011/01/21/bank-of-america-reports-a-loss-of-1-2-billion.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### Bank of America
 # Bank of America reports a loss of $1.2 billion. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-12252392)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

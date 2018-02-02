@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/18/chinese-president-hu-jintao-begins-a-four-day-state-visit-to-the-united-states.html)  [JSON](/news/2011/01/18/chinese-president-hu-jintao-begins-a-four-day-state-visit-to-the-united-states.json)  [XML](/news/2011/01/18/chinese-president-hu-jintao-begins-a-four-day-state-visit-to-the-united-states.xml)  
+
 ### [2011-01-18](/news/2011/01/18/index.md)
 
+##### China
 # Chinese President Hu Jintao begins a four-day state visit to the United States. 
 
 Chinese President Hu Jintao kicks off a four-day US visit with a rare private dinner at the White House with President Barack Obama.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/01/2011118204656644593.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12212843)

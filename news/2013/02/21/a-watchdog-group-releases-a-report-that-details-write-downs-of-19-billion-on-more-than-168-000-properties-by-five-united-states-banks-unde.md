@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/21/a-watchdog-group-releases-a-report-that-details-write-downs-of-19-billion-on-more-than-168-000-properties-by-five-united-states-banks-unde.html)  [JSON](/news/2013/02/21/a-watchdog-group-releases-a-report-that-details-write-downs-of-19-billion-on-more-than-168-000-properties-by-five-united-states-banks-unde.json)  [XML](/news/2013/02/21/a-watchdog-group-releases-a-report-that-details-write-downs-of-19-billion-on-more-than-168-000-properties-by-five-united-states-banks-unde.xml)  
+
 ### [2013-02-21](/news/2013/02/21/index.md)
 
+##### Bank of America
 # A watchdog group releases a report that details write-downs of $19 billion on more than 168,000 properties by five United States banks. Under terms of a federal and state settlement of foreclosure-processing violations reached one year ago in March, Bank of America lost the most and had $13.5 billion in homeowner debts written off. The other banks are Citigroup Inc, JPMorgan Chase & Co, Wells Fargo & Co, and Ally Financial Inc. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FoxBusiness](http://www.foxbusiness.com/news/2013/02/21/us-banks-write-down-1-billion-under-settlement/?intcmp=obnetwork)
 

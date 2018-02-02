@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/25/the-sri-lankan-army-captures-mullaitivu-the-tamil-tigers-final-stronghold-in-the-ongoing-civil-war.html)  [JSON](/news/2009/01/25/the-sri-lankan-army-captures-mullaitivu-the-tamil-tigers-final-stronghold-in-the-ongoing-civil-war.json)  [XML](/news/2009/01/25/the-sri-lankan-army-captures-mullaitivu-the-tamil-tigers-final-stronghold-in-the-ongoing-civil-war.xml)  
+
 ### [2009-01-25](/news/2009/01/25/index.md)
 
+##### Sri Lanka
 #  The Sri Lankan Army captures Mullaitivu, the Tamil Tigers' final stronghold in the ongoing Civil War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7849684.stm)
 

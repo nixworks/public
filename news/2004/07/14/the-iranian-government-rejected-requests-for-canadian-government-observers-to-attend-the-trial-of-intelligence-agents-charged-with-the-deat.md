@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/07/14/the-iranian-government-rejected-requests-for-canadian-government-observers-to-attend-the-trial-of-intelligence-agents-charged-with-the-deat.html)  [JSON](/news/2004/07/14/the-iranian-government-rejected-requests-for-canadian-government-observers-to-attend-the-trial-of-intelligence-agents-charged-with-the-deat.json)  [XML](/news/2004/07/14/the-iranian-government-rejected-requests-for-canadian-government-observers-to-attend-the-trial-of-intelligence-agents-charged-with-the-deat.xml)  
+
 ### [2004-07-14](/news/2004/07/14/index.md)
 
+##### Iran
 #  The Iranian government rejected requests for Canadian government observers to attend the trial of intelligence agents charged with the death of Canadian photographer, Zahra Kazemi
 
 

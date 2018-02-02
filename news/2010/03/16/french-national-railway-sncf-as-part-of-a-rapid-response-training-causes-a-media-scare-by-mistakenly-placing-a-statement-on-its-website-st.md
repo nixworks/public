@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/16/french-national-railway-sncf-as-part-of-a-rapid-response-training-causes-a-media-scare-by-mistakenly-placing-a-statement-on-its-website-st.html)  [JSON](/news/2010/03/16/french-national-railway-sncf-as-part-of-a-rapid-response-training-causes-a-media-scare-by-mistakenly-placing-a-statement-on-its-website-st.json)  [XML](/news/2010/03/16/french-national-railway-sncf-as-part-of-a-rapid-response-training-causes-a-media-scare-by-mistakenly-placing-a-statement-on-its-website-st.xml)  
+
 ### [2010-03-16](/news/2010/03/16/index.md)
 
+##### France's national railway company
 # French national railway SNCF, as part of a rapid response training, causes a media scare by mistakenly placing a statement on its website stating that more than 100 people died in a train explosion in Mcon, Burgundy. 
 
 France&#039;s rail operator SNCF caused panic when it wrongly announced on its website that 102 passengers had died in a train explosion.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8570685.stm)
 2. [San Francisco Chronicle](http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2010/03/16/international/i045559D95.DTL)

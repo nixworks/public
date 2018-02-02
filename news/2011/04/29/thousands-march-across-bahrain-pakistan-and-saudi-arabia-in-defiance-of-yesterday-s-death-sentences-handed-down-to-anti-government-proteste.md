@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/29/thousands-march-across-bahrain-pakistan-and-saudi-arabia-in-defiance-of-yesterday-s-death-sentences-handed-down-to-anti-government-proteste.html)  [JSON](/news/2011/04/29/thousands-march-across-bahrain-pakistan-and-saudi-arabia-in-defiance-of-yesterday-s-death-sentences-handed-down-to-anti-government-proteste.json)  [XML](/news/2011/04/29/thousands-march-across-bahrain-pakistan-and-saudi-arabia-in-defiance-of-yesterday-s-death-sentences-handed-down-to-anti-government-proteste.xml)  
+
 ### [2011-04-29](/news/2011/04/29/index.md)
 
+##### Lahore
 # Thousands march across Bahrain, Pakistan and Saudi Arabia in defiance of yesterday's death sentences handed down to anti-government protesters by the ruling Bahraini regime, with people in Lahore (Pakistan) carrying symbolic coffins in solidarity. 
 
 Thousands denounce death sentences for anti-government protesters, and solidarity protests in Saudi Arabia and Pakistan.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/2011429194938853377.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/29/2011429195649408572_20.jpg)

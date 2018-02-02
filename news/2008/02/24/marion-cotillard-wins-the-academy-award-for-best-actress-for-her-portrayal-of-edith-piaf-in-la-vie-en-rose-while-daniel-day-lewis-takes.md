@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2008/02/24/marion-cotillard-wins-the-academy-award-for-best-actress-for-her-portrayal-of-edith-piaf-in-la-vie-en-rose-while-daniel-day-lewis-takes.html)  [JSON](/news/2008/02/24/marion-cotillard-wins-the-academy-award-for-best-actress-for-her-portrayal-of-edith-piaf-in-la-vie-en-rose-while-daniel-day-lewis-takes.json)  [XML](/news/2008/02/24/marion-cotillard-wins-the-academy-award-for-best-actress-for-her-portrayal-of-edith-piaf-in-la-vie-en-rose-while-daniel-day-lewis-takes.xml)  
+
 ### [2008-02-24](/news/2008/02/24/index.md)
 
+##### Marion Cotillard
 #  Marion Cotillard wins the Academy Award for Best Actress for her portrayal of dith Piaf in "La Vie en rose", while Daniel Day-Lewis takes home the Academy Award for Best Actor for his role in "There Will Be Blood". 
 
 No Country For Old Men scoops four awards on the film industry&#039;s night of nights.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2008/02/25/2171912.htm)
 2. [News Limited](http://www.news.com.au/entertainment/story/0,23663,23271119-5011620,00.html)
 2. [Cover Image](http://www.abc.net.au/news/image/1053458-1x1-700x700.jpg)
+
+### Changes:
+
+1. [ 80th Academy Awards: Marion Cotillard wins the Academy Award for Best Actress for her portrayal of dith Piaf in ''La Vie en rose'', while Daniel Day-Lewis takes home the Academy Award for Best Actor for his role in ''There Will Be Blood''. ](/news/2008/02/24/80th-academy-awards-p-marion-cotillard-wins-the-academy-award-for-best-actress-for-her-portrayal-of-edith-piaf-in-la-vie-en-rose-while.md) _2017-08-25 03:21:48 (First version)_
+2. [ 80th Academy Awards:: Marion Cotillard wins the Academy Award for Best Actress for her portrayal of dith Piaf in "La Vie en rose", while Daniel Day-Lewis takes home the Academy Award for Best Actor for his role in "There Will Be Blood". ](/news/2008/02/24/80th-academy-awards-marion-cotillard-wins-the-academy-award-for-best-actress-for-her-portrayal-of-edith-piaf-in-la-vie-en-rose-while-d.md) _2017-08-27 03:21:42 (Update)_
+2. [ Marion Cotillard wins the Academy Award for Best Actress for her portrayal of dith Piaf in "La Vie en rose", while Daniel Day-Lewis takes home the Academy Award for Best Actor for his role in "There Will Be Blood". ](/news/2008/02/24/marion-cotillard-wins-the-academy-award-for-best-actress-for-her-portrayal-of-edith-piaf-in-la-vie-en-rose-while-daniel-day-lewis-takes.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ No Country For Old Men scoops four awards on the film industry&#039;s night of n
 3. [ 78th Academy Awards: "Crash" wins Best Picture, Ang Lee ("Brokeback Mountain") wins Best Director, Reese Witherspoon ("Walk the Line") wins Best Actress, and Philip Seymour Hoffman ("Capote") wins Best Actor. ](/news/2006/03/5/78th-academy-awards-crash-wins-best-picture-ang-lee-brokeback-mountain-wins-best-director-reese-witherspoon-walk-the-line-wins.md) _Context: Academy Award, Academy Award for Best Actor_
 4. [ 76th Academy Awards: "The Lord of the Rings: The Return of the King" wins Best Picture and Director awards and nine others for a total of 11 Academy Awards, a tie for the most ever won by a single film, and the largest sweep ever for a single film, having received 11 nominations. Acting honors were as follows: Best Actor: Sean Penn for "Mystic River", Best Actress: Charlize Theron for "Monster", Best Supporting Actor: Tim Robbins for "Mystic River", Best Supporting Actress: Renee Zellweger for "Cold Mountain". ](/news/2004/02/29/76th-academy-awards-the-lord-of-the-rings-the-return-of-the-king-wins-best-picture-and-director-awards-and-nine-others-for-a-total-of-1.md) _Context: Academy Award, Academy Award for Best Actor_
 5. [British-American Academy Award-winning film actress Olivia de Havilland, one of the last leading movie stars of the Golden Age of Hollywood, celebrates her 100th birthday. ](/news/2016/07/1/britishaamerican-academy-awardawinning-film-actress-olivia-de-havilland-one-of-the-last-leading-movie-stars-of-the-golden-age-of-hollyw.md) _Context: Academy Award_
-
-### Changes:
-
-1. [ 80th Academy Awards: Marion Cotillard wins the Academy Award for Best Actress for her portrayal of dith Piaf in ''La Vie en rose'', while Daniel Day-Lewis takes home the Academy Award for Best Actor for his role in ''There Will Be Blood''. ](/news/2008/02/24/80th-academy-awards-p-marion-cotillard-wins-the-academy-award-for-best-actress-for-her-portrayal-of-edith-piaf-in-la-vie-en-rose-while.md) _2017-08-25 03:21:48 (First version)_
-2. [ 80th Academy Awards:: Marion Cotillard wins the Academy Award for Best Actress for her portrayal of dith Piaf in "La Vie en rose", while Daniel Day-Lewis takes home the Academy Award for Best Actor for his role in "There Will Be Blood". ](/news/2008/02/24/80th-academy-awards-marion-cotillard-wins-the-academy-award-for-best-actress-for-her-portrayal-of-edith-piaf-in-la-vie-en-rose-while-d.md) _2017-08-27 03:21:42 (Update)_
-2. [ Marion Cotillard wins the Academy Award for Best Actress for her portrayal of dith Piaf in "La Vie en rose", while Daniel Day-Lewis takes home the Academy Award for Best Actor for his role in "There Will Be Blood". ](/news/2008/02/24/marion-cotillard-wins-the-academy-award-for-best-actress-for-her-portrayal-of-edith-piaf-in-la-vie-en-rose-while-daniel-day-lewis-takes.md) _(Current version)_

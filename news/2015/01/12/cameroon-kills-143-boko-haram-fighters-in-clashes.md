@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/01/12/cameroon-kills-143-boko-haram-fighters-in-clashes.html)  [JSON](/news/2015/01/12/cameroon-kills-143-boko-haram-fighters-in-clashes.json)  [XML](/news/2015/01/12/cameroon-kills-143-boko-haram-fighters-in-clashes.xml)  
+
 ### [2015-01-12](/news/2015/01/12/index.md)
 
+##### Boko Haram
 # Cameroon kills 143 Boko Haram fighters in clashes. 
 
 At least 143 Boko Haram fighters were killed in an attack on a military camp in Cameroon on Monday, a minister said, adding that it was the heaviest loss sustained by the Nigerian Islamist group in the country.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/01/13/us-nigeria-violence-cameroon-idUSKBN0KM0TD20150113)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/01/13/us-nigeria-violence-cameroon-idUSKBN0KM0TD20150113)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+
+### Changes:
+
+1. [Boko Haram: Cameroon kills 143 Boko Haram fighters in clashes. ](/news/2015/01/12/boko-haram-cameroon-kills-143-boko-haram-fighters-in-clashes.md) _2017-08-27 03:41:46 (First version)_
+1. [Cameroon kills 143 Boko Haram fighters in clashes. ](/news/2015/01/12/cameroon-kills-143-boko-haram-fighters-in-clashes.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ At least 143 Boko Haram fighters were killed in an attack on a military camp in 
 3. [Nigerian President Muhammadu Buhari visits neighboring Cameroon to bolster support for a multinational army to fight Boko Haram. ](/news/2015/07/29/nigerian-president-muhammadu-buhari-visits-neighboring-cameroon-to-bolster-support-for-a-multinational-army-to-fight-boko-haram.md) _Context: Boko Haram, Cameroon_
 4. [Boko Haram militants reportedly raid the Cameroonian town of Fotokol in Cameroon's Far North Region with scores of people killed. ](/news/2015/02/4/boko-haram-militants-reportedly-raid-the-cameroonian-town-of-fotokol-in-cameroon-s-far-north-region-with-scores-of-people-killed.md) _Context: Boko Haram, Cameroon_
 5. [Chadian soldiers kill over 200 Boko Haram fighters in a clash near the town of Garambu, close to Nigeria's border with Cameroon. One Chad Army soldier is killed and nine wounded. ](/news/2015/02/24/chadian-soldiers-kill-over-200-boko-haram-fighters-in-a-clash-near-the-town-of-garambu-close-to-nigeria-s-border-with-cameroon-one-chad-ar.md) _Context: Boko Haram, Cameroon_
-
-### Changes:
-
-1. [Boko Haram: Cameroon kills 143 Boko Haram fighters in clashes. ](/news/2015/01/12/boko-haram-cameroon-kills-143-boko-haram-fighters-in-clashes.md) _2017-08-27 03:41:46 (First version)_
-1. [Cameroon kills 143 Boko Haram fighters in clashes. ](/news/2015/01/12/cameroon-kills-143-boko-haram-fighters-in-clashes.md) _(Current version)_

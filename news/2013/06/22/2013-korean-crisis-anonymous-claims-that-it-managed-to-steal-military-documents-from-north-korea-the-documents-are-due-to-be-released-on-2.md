@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/22/2013-korean-crisis-anonymous-claims-that-it-managed-to-steal-military-documents-from-north-korea-the-documents-are-due-to-be-released-on-2.html)  [JSON](/news/2013/06/22/2013-korean-crisis-anonymous-claims-that-it-managed-to-steal-military-documents-from-north-korea-the-documents-are-due-to-be-released-on-2.json)  [XML](/news/2013/06/22/2013-korean-crisis-anonymous-claims-that-it-managed-to-steal-military-documents-from-north-korea-the-documents-are-due-to-be-released-on-2.xml)  
+
 ### [2013-06-22](/news/2013/06/22/index.md)
 
+##### 2013 Korean crisis
 # 2013 Korean crisis: Anonymous claims that it managed to steal military documents from North Korea. The documents are due to be released on 25 June, the anniversary of the start of the Korean War. 
 
 In the latest salvo in #OpNorthKorea, the hacktivist collective claims it will release the documents on June 25.
 
 
-### Source:
+### Sources:
 
 1. [The Diplomat](http://thediplomat.com/the-editor/2013/06/22/anonymous-we-have-stolen-north-korean-military-documents/)
 1. [Cover Image](http://thediplomat.com/wp-content/uploads/2013/06/1181_5242b5397107b-552x350.jpg)

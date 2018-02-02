@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/05/22/manmohan-singh-is-inaugurated-for-his-second-term-as-prime-minister-of-india.html)  [JSON](/news/2009/05/22/manmohan-singh-is-inaugurated-for-his-second-term-as-prime-minister-of-india.json)  [XML](/news/2009/05/22/manmohan-singh-is-inaugurated-for-his-second-term-as-prime-minister-of-india.xml)  
+
 ### [2009-05-22](/news/2009/05/22/index.md)
 
+##### Manmohan Singh
 #  Manmohan Singh is inaugurated for his second term as Prime Minister of India. 
 
 Indian Prime Minister Manmohan Singh was sworn in on Friday for a second five-year term with expectations his strengthened left-of-center coalition could both reform a slowing economy and help millions of poor.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE54K6LN20090522)
-1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090522&t=2&i=10221201&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-22T133325Z_01_BTRE54K1QC200_RTROPTP_0_INDIA-ELECTION-SINGH)
+1. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE54K6LN20090522)
+1. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20090522&t=2&i=10221201&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-05-22T133325Z_01_BTRE54K1QC200_RTROPTP_0_INDIA-ELECTION-SINGH)
 
 ### Related:
 

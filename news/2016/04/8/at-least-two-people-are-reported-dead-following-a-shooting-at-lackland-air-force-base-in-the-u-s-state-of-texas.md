@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/8/at-least-two-people-are-reported-dead-following-
 
 ### [2016-04-8](/news/2016/04/8/index.md)
 
+##### Lackland Air Force Base
 # At least two people are reported dead following a shooting at Lackland Air Force Base, in the U.S. state of Texas. 
 
 At least two died in a Friday shooting at Lackland Air Force Base in San Antonio, Texas, after reports of an active shooter shutdown the base.

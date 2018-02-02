@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/14/tenerife-s-randomly-beheaded-british-woman-is-named-by-her-family-as-60-year-old-jennifer-mills-westley.html)  [JSON](/news/2011/05/14/tenerife-s-randomly-beheaded-british-woman-is-named-by-her-family-as-60-year-old-jennifer-mills-westley.json)  [XML](/news/2011/05/14/tenerife-s-randomly-beheaded-british-woman-is-named-by-her-family-as-60-year-old-jennifer-mills-westley.xml)  
+
 ### [2011-05-14](/news/2011/05/14/index.md)
 
+##### Tenerife
 # Tenerife's randomly beheaded British woman is named by her family as 60-year-old Jennifer Mills-Westley. 
 
 The British woman stabbed and beheaded in a shop on the Spanish island of Tenerife is named by her family as 60-year-old Jennifer Mills-Westley.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13401045)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/may/14/british-woman-beheaded-tenerife-named)

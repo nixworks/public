@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/16/wen-jiabao-was-elected-premier-of-the-people-s-republic-of-china-by-the-national-people-s-congress-he-replaced-zhu-rongji.html)  [JSON](/news/2003/03/16/wen-jiabao-was-elected-premier-of-the-people-s-republic-of-china-by-the-national-people-s-congress-he-replaced-zhu-rongji.json)  [XML](/news/2003/03/16/wen-jiabao-was-elected-premier-of-the-people-s-republic-of-china-by-the-national-people-s-congress-he-replaced-zhu-rongji.xml)  
+
 ### [2003-03-16](/news/2003/03/16/index.md)
 
+##### Wen Jiabao
 #  Wen Jiabao was elected Premier of the People's Republic of China by the National People's Congress. He replaced Zhu Rongji.
 
 

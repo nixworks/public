@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2012/04/19/anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks-says-he-planned-to-behead-former-norwegian-prime-minister-gro-harlem-bru.html)  [JSON](/news/2012/04/19/anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks-says-he-planned-to-behead-former-norwegian-prime-minister-gro-harlem-bru.json)  [XML](/news/2012/04/19/anders-behring-breivik-the-perpetrator-of-the-2011-norway-attacks-says-he-planned-to-behead-former-norwegian-prime-minister-gro-harlem-bru.xml)  
+
 ### [2012-04-19](/news/2012/04/19/index.md)
 
+##### Anders Behring Breivik
 # Anders Behring Breivik, the perpetrator of the 2011 Norway attacks, says he planned to behead former Norwegian Prime Minister Gro Harlem Brundtland and post the footage on the internet. [http:--www.guardian.co.uk-world-2012-apr-19-breivik-targeted-former-pm-brundtland?newsfeed=true "(The Guardian)"]
 
 

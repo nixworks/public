@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/7/neil-gorsuch-is-confirmed-as-the-113th-justice-o
 
 ### [2017-04-7](/news/2017/04/7/index.md)
 
+##### Neil Gorsuch
 # Neil Gorsuch is confirmed as the 113th justice of the Supreme Court of the United States by a 54-45 vote in the United States Senate after invocation of the "nuclear option". 
 
 

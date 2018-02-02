@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/28/chinese-scientists-announce-the-discovery-of-vampire-gene-tryp-spc.html)  [JSON](/news/2009/07/28/chinese-scientists-announce-the-discovery-of-vampire-gene-tryp-spc.json)  [XML](/news/2009/07/28/chinese-scientists-announce-the-discovery-of-vampire-gene-tryp-spc.xml)  
+
 ### [2009-07-28](/news/2009/07/28/index.md)
 
+##### vampire
 #  Chinese scientists announce the discovery of "vampire gene", Tryp-SPc. 
 
 A group of researchers have found a protein that facilitates the digestion of blood. Now they hope to find ways to eliminate mosquitoes’ thirst for blood as well as fight endemic diseases in the developing world like malaria.
 
 
-### Source:
+### Sources:
 
 1. [AsiaNews](http://www.asianews.it/index.php?l=en&art=15902&size=A)
 1. [Cover Image](http://www.asianews.it/files/img/CINA_zanzara2.jpg)

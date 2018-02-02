@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/14/a-temporary-footbridge-across-the-m1-motorway-in-sandton-near-johannesburg-south-africa-collapses-killing-two-people-and-injuring-23-bot.html)  [JSON](/news/2015/10/14/a-temporary-footbridge-across-the-m1-motorway-in-sandton-near-johannesburg-south-africa-collapses-killing-two-people-and-injuring-23-bot.json)  [XML](/news/2015/10/14/a-temporary-footbridge-across-the-m1-motorway-in-sandton-near-johannesburg-south-africa-collapses-killing-two-people-and-injuring-23-bot.xml)  
+
 ### [2015-10-14](/news/2015/10/14/index.md)
 
+##### Sandton
 # A temporary footbridge across the M1 motorway in Sandton near Johannesburg, South Africa, collapses, killing two people and injuring 23. Both carriageways of the motorway remain closed as rescue work continues. 
 
 Rescuers are still trying to retrieve a body trapped under the collapsed temporary bridge along the M1 highway in Sandton.
 
 
-### Source:
+### Sources:
 
 1. [News24](http://www.news24.com/news24/SouthAfrica/News/Rescuers-still-trying-to-retrieve-body-under-collapsed-bridge-20151014)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/750/d188c885b9054bdea7920acb74bbc2fe.jpg)

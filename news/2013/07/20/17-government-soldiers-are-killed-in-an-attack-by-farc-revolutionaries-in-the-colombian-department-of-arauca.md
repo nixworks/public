@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/20/17-government-soldiers-are-killed-in-an-attack-by-farc-revolutionaries-in-the-colombian-department-of-arauca.html)  [JSON](/news/2013/07/20/17-government-soldiers-are-killed-in-an-attack-by-farc-revolutionaries-in-the-colombian-department-of-arauca.json)  [XML](/news/2013/07/20/17-government-soldiers-are-killed-in-an-attack-by-farc-revolutionaries-in-the-colombian-department-of-arauca.xml)  
+
 ### [2013-07-20](/news/2013/07/20/index.md)
 
+##### an attack
 # 17 government soldiers are killed in an attack by FARC revolutionaries in the Colombian department of Arauca. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-23394408)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/68854000/jpg/_68854282_018211080.jpg)

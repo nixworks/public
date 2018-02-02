@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/15/asiana-airlines-says-they-will-sue-oakland-california-television-station-ktvu-for-defamation-after-the-station-reported-the-wrong-names-of.html)  [JSON](/news/2013/07/15/asiana-airlines-says-they-will-sue-oakland-california-television-station-ktvu-for-defamation-after-the-station-reported-the-wrong-names-of.json)  [XML](/news/2013/07/15/asiana-airlines-says-they-will-sue-oakland-california-television-station-ktvu-for-defamation-after-the-station-reported-the-wrong-names-of.xml)  
+
 ### [2013-07-15](/news/2013/07/15/index.md)
 
+##### Asiana Airlines
 # Asiana Airlines says they will sue Oakland, California television station KTVU for defamation after the station reported the wrong names of the pilots of Asiana Airlines Flight 214. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/07/15/travel/asiana-offensive-names/index.html?hpt=hp_t2)
 

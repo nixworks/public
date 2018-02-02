@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/22/dozens-of-people-are-feared-dead-in-a-landslide-in-the-southern-philippines.html)  [JSON](/news/2011/04/22/dozens-of-people-are-feared-dead-in-a-landslide-in-the-southern-philippines.json)  [XML](/news/2011/04/22/dozens-of-people-are-feared-dead-in-a-landslide-in-the-southern-philippines.xml)  
+
 ### [2011-04-22](/news/2011/04/22/index.md)
 
+##### landslide
 # Dozens of people are feared dead in a landslide in the southern Philippines. 
 
 At least three people are killed and more are missing after a landslide destroyed homes and mining tunnels in the southern Philippines.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13167900)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-04/22/c_13841153.htm)

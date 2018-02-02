@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/16/the-united-nations-is-criticised-after-a-poster-that-made-reference-to-china-s-internet-censorship-by-the-opennet-initiative-at-an-internat.html)  [JSON](/news/2009/11/16/the-united-nations-is-criticised-after-a-poster-that-made-reference-to-china-s-internet-censorship-by-the-opennet-initiative-at-an-internat.json)  [XML](/news/2009/11/16/the-united-nations-is-criticised-after-a-poster-that-made-reference-to-china-s-internet-censorship-by-the-opennet-initiative-at-an-internat.xml)  
+
 ### [2009-11-16](/news/2009/11/16/index.md)
 
+##### United Nations
 #  The United Nations is criticised after a poster that made reference to China's internet censorship by the OpenNet Initiative at an international conference focussed on Internet freedom in Sharm el-Sheik, Egypt, is removed. 
 
 The United Nations is drawing fire after disrupting a meeting of rights activists at its internet governance convention in Egypt.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5h2sbeua-b-jM_2xSM-f4mFsiFFJQD9C0PH4G0)
 2. [BBC](http://news.bbc.co.uk/1/hi/technology/8361849.stm)

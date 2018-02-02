@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/21/belarusian-human-rights-activist-ales-bialiatski-is-freed-from-prison-and-is-received-by-his-wife-and-supporters-in-minsk.html)  [JSON](/news/2014/06/21/belarusian-human-rights-activist-ales-bialiatski-is-freed-from-prison-and-is-received-by-his-wife-and-supporters-in-minsk.json)  [XML](/news/2014/06/21/belarusian-human-rights-activist-ales-bialiatski-is-freed-from-prison-and-is-received-by-his-wife-and-supporters-in-minsk.xml)  
+
 ### [2014-06-21](/news/2014/06/21/index.md)
 
+##### Belarus
 # Belarusian human rights' activist Ales Bialiatski is freed from prison and is received by his wife and supporters in Minsk. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/prominent-belarusian-rights-activist-released/25430324.html)
 

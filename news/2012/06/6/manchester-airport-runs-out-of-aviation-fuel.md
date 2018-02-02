@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/6/manchester-airport-runs-out-of-aviation-fuel.html)  [JSON](/news/2012/06/6/manchester-airport-runs-out-of-aviation-fuel.json)  [XML](/news/2012/06/6/manchester-airport-runs-out-of-aviation-fuel.xml)  
+
 ### [2012-06-6](/news/2012/06/6/index.md)
 
+##### Manchester
 # Manchester Airport runs out of aviation fuel. 
 
 Aviation fuel is sent to Manchester Airport after it ran out of supplies, a spokesman says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-manchester-18344397)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/58224000/jpg/_58224315_airport_planes01.jpg)

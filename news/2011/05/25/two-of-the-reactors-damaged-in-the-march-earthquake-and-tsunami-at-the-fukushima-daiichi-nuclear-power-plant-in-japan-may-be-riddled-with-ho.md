@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/25/two-of-the-reactors-damaged-in-the-march-earthquake-and-tsunami-at-the-fukushima-daiichi-nuclear-power-plant-in-japan-may-be-riddled-with-ho.html)  [JSON](/news/2011/05/25/two-of-the-reactors-damaged-in-the-march-earthquake-and-tsunami-at-the-fukushima-daiichi-nuclear-power-plant-in-japan-may-be-riddled-with-ho.json)  [XML](/news/2011/05/25/two-of-the-reactors-damaged-in-the-march-earthquake-and-tsunami-at-the-fukushima-daiichi-nuclear-power-plant-in-japan-may-be-riddled-with-ho.xml)  
+
 ### [2011-05-25](/news/2011/05/25/index.md)
 
+##### Fukushima Daiichi nuclear disaster
 # Two of the reactors damaged in the March earthquake and tsunami at the Fukushima Daiichi nuclear power plant in Japan may be riddled with holes, according to the facility's owner, Tokyo Electric Power Co. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/05/25/japan.nuclear.report/index.html)
 1. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/05/25/japan.nuclear.report/tzvids.nuclear.plant.air.photo.service.jpg)

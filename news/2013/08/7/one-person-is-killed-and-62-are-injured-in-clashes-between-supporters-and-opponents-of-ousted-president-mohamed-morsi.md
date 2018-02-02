@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/7/one-person-is-killed-and-62-are-injured-in-clashes-between-supporters-and-opponents-of-ousted-president-mohamed-morsi.html)  [JSON](/news/2013/08/7/one-person-is-killed-and-62-are-injured-in-clashes-between-supporters-and-opponents-of-ousted-president-mohamed-morsi.json)  [XML](/news/2013/08/7/one-person-is-killed-and-62-are-injured-in-clashes-between-supporters-and-opponents-of-ousted-president-mohamed-morsi.xml)  
+
 ### [2013-08-7](/news/2013/08/7/index.md)
 
+##### Mohamed Morsi
 # One person is killed and 62 are injured in clashes between supporters and opponents of ousted President Mohamed Morsi 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/world/2013-08/07/c_132610802.htm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/6/the-iraqi-army-bears-down-on-a-strategic-bridge-
 
 ### [2016-12-6](/news/2016/12/6/index.md)
 
+##### Battle of Mosul
 #  The Iraqi Army bears down on a strategic bridge across the Tigris River in Mosul. Fighting is occurring in the Salam neighbourhood less than 1.5 kilometres from the Tigris. 
 
 After weeks of close-quarter combat, Iraqi soldiers aim to sever important ISIL fighter route over the Tigris River. 

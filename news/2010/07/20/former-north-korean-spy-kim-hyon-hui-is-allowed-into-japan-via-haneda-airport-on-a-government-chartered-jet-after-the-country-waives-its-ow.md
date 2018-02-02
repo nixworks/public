@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/20/former-north-korean-spy-kim-hyon-hui-is-allowed-into-japan-via-haneda-airport-on-a-government-chartered-jet-after-the-country-waives-its-ow.html)  [JSON](/news/2010/07/20/former-north-korean-spy-kim-hyon-hui-is-allowed-into-japan-via-haneda-airport-on-a-government-chartered-jet-after-the-country-waives-its-ow.json)  [XML](/news/2010/07/20/former-north-korean-spy-kim-hyon-hui-is-allowed-into-japan-via-haneda-airport-on-a-government-chartered-jet-after-the-country-waives-its-ow.xml)  
+
 ### [2010-07-20](/news/2010/07/20/index.md)
 
+##### North Korea
 # Former North Korean spy Kim Hyon Hui is allowed into Japan via Haneda Airport on a government-chartered jet, after the country waives its own immigration rules. 
 
 A former North Korean spy who blew up a plane killing 115 people is in Japan to meet families of people abducted to North Korea.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10693662)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jul/20/north-korea-spy-japan-abductions)

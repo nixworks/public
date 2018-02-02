@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/26/u-s-congressman-dennis-kucinich-d-ohio-submits-resolution.html)  [JSON](/news/2007/04/26/u-s-congressman-dennis-kucinich-d-ohio-submits-resolution.json)  [XML](/news/2007/04/26/u-s-congressman-dennis-kucinich-d-ohio-submits-resolution.xml)  
+
 ### [2007-04-26](/news/2007/04/26/index.md)
 
+##### U.S. Congress
 #  U.S. Congressman Dennis Kucinich (D-Ohio) submits Resolution 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CBS News](http://www.cbsnews.com/stories/2007/04/25/politics/main2726626.shtml)
 2. [Asia Times](http://www.atimes.com/atimes/Middle_East/ID27Ak04.html)

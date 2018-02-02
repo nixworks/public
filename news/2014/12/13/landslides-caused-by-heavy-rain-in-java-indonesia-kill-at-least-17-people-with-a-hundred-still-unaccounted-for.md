@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/13/landslides-caused-by-heavy-rain-in-java-indonesia-kill-at-least-17-people-with-a-hundred-still-unaccounted-for.html)  [JSON](/news/2014/12/13/landslides-caused-by-heavy-rain-in-java-indonesia-kill-at-least-17-people-with-a-hundred-still-unaccounted-for.json)  [XML](/news/2014/12/13/landslides-caused-by-heavy-rain-in-java-indonesia-kill-at-least-17-people-with-a-hundred-still-unaccounted-for.xml)  
+
 ### [2014-12-13](/news/2014/12/13/index.md)
 
+##### Landslide
 # Landslides caused by heavy rain in Java, Indonesia, kill at least 17 people with a hundred still unaccounted for. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/8-dead-100-missing-in/1527318.html?cid=TWTCNA)
 2. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_LANDSLIDE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)

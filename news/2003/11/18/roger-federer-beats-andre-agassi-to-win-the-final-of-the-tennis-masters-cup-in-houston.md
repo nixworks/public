@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/18/roger-federer-beats-andre-agassi-to-win-the-final-of-the-tennis-masters-cup-in-houston.html)  [JSON](/news/2003/11/18/roger-federer-beats-andre-agassi-to-win-the-final-of-the-tennis-masters-cup-in-houston.json)  [XML](/news/2003/11/18/roger-federer-beats-andre-agassi-to-win-the-final-of-the-tennis-masters-cup-in-houston.xml)  
+
 ### [2003-11-18](/news/2003/11/18/index.md)
 
+##### Roger Federer
 #  Roger Federer beats Andre Agassi to win the final of the tennis Masters Cup in Houston.
 
 

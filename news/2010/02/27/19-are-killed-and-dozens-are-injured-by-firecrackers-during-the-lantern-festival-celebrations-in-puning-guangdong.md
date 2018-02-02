@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/27/19-are-killed-and-dozens-are-injured-by-firecrackers-during-the-lantern-festival-celebrations-in-puning-guangdong.html)  [JSON](/news/2010/02/27/19-are-killed-and-dozens-are-injured-by-firecrackers-during-the-lantern-festival-celebrations-in-puning-guangdong.json)  [XML](/news/2010/02/27/19-are-killed-and-dozens-are-injured-by-firecrackers-during-the-lantern-festival-celebrations-in-puning-guangdong.xml)  
+
 ### [2010-02-27](/news/2010/02/27/index.md)
 
+##### Lantern Festival
 # 19 are killed and dozens are injured by firecrackers during the Lantern Festival celebrations in Puning, Guangdong. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/02/27/china.firecrackers/)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-02/27/content_9513149.htm)

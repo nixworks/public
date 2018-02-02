@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/15/astronomers-announce-the-discovery-of-90377-sedna-a-pluto-like-planetoid-which-is-the-most-distant-individual-object-known-to-orbit-the-su.html)  [JSON](/news/2004/03/15/astronomers-announce-the-discovery-of-90377-sedna-a-pluto-like-planetoid-which-is-the-most-distant-individual-object-known-to-orbit-the-su.json)  [XML](/news/2004/03/15/astronomers-announce-the-discovery-of-90377-sedna-a-pluto-like-planetoid-which-is-the-most-distant-individual-object-known-to-orbit-the-su.xml)  
+
 ### [2004-03-15](/news/2004/03/15/index.md)
 
+##### 90377 Sedna
 #  Astronomers announce the discovery of 90377 Sedna, a Pluto-like planetoid which is the most distant individual object known to orbit the Sun. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/3511678.stm)
 2. [Caltech](http://www.gps.caltech.edu/~mbrown/sedna/)

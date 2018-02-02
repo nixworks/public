@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/16/two-puma-helicopters-crash-near-the-city-of-herat-in-western-afghanistan-killing-spanish-troops.html)  [JSON](/news/2005/08/16/two-puma-helicopters-crash-near-the-city-of-herat-in-western-afghanistan-killing-spanish-troops.json)  [XML](/news/2005/08/16/two-puma-helicopters-crash-near-the-city-of-herat-in-western-afghanistan-killing-spanish-troops.xml)  
+
 ### [2005-08-16](/news/2005/08/16/index.md)
 
+##### Puma helicopters
 #  Two Puma helicopters crash near the city of Herat, in western Afghanistan, killing Spanish troops. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4155916.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/17/president-of-the-united-states-george-w-bush-offers-a-700-million-aid-package-to-tanzania.html)  [JSON](/news/2008/02/17/president-of-the-united-states-george-w-bush-offers-a-700-million-aid-package-to-tanzania.json)  [XML](/news/2008/02/17/president-of-the-united-states-george-w-bush-offers-a-700-million-aid-package-to-tanzania.xml)  
+
 ### [2008-02-17](/news/2008/02/17/index.md)
 
+##### U.S. President
 #  President of the United States George W. Bush offers a $700 million aid package to Tanzania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5jKsz4ko98jM7GN35kK5yGTzHWHQAD8URSTF80)
 

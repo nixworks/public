@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/11/13/2007-pakistani-state-of-emergency-backed-by-hundreds-of-police-officers-the-pakistani-government-again-placed-former-prime-minister-benaz.html)  [JSON](/news/2007/11/13/2007-pakistani-state-of-emergency-backed-by-hundreds-of-police-officers-the-pakistani-government-again-placed-former-prime-minister-benaz.json)  [XML](/news/2007/11/13/2007-pakistani-state-of-emergency-backed-by-hundreds-of-police-officers-the-pakistani-government-again-placed-former-prime-minister-benaz.xml)  
+
 ### [2007-11-13](/news/2007/11/13/index.md)
 
+##### 2007 Pakistani state of emergency
 #  2007 Pakistani state of emergency: Backed by hundreds of police officers, the Pakistani government again placed former Prime Minister Benazir Bhutto under house arrest to prevent a protest against President Pervez Musharraf. 
 
 Benazir Bhutto faces a seven-day detention order if she presses ahead with a planned opposition march.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7091930.stm)
-2. [NYT](http://www.nytimes.com/2007/11/13/world/asia/13pakistan.html?_r=1&ref=asia&oref=slogin)
+2. [NYT](https://www.nytimes.com/2007/11/13/world/asia/13pakistan.html?_r=1&ref=asia&oref=slogin)
 2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

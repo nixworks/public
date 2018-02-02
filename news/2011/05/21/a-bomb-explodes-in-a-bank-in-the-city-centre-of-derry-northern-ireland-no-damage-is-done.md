@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/21/a-bomb-explodes-in-a-bank-in-the-city-centre-of-derry-northern-ireland-no-damage-is-done.html)  [JSON](/news/2011/05/21/a-bomb-explodes-in-a-bank-in-the-city-centre-of-derry-northern-ireland-no-damage-is-done.json)  [XML](/news/2011/05/21/a-bomb-explodes-in-a-bank-in-the-city-centre-of-derry-northern-ireland-no-damage-is-done.xml)  
+
 ### [2011-05-21](/news/2011/05/21/index.md)
 
+##### Derry
 # A bomb explodes in a bank in the city centre of Derry, Northern Ireland; no damage is done. 
 
 A bomb which exploded in a bank in Londonderry was &quot;thrown&quot; into the Santander branch by three masked men.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13485267)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/52882000/jpg/_52882703_sant2.jpg)

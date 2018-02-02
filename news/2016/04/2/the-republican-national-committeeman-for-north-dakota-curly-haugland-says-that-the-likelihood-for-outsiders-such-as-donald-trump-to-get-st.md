@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/2/the-republican-national-committeeman-for-north-d
 
 ### [2016-04-2](/news/2016/04/2/index.md)
 
+##### 2016 U.S. presidential election
 # The Republican National Committeeman for North Dakota, Curly Haugland, says that the likelihood for outsiders such as Donald Trump to get state electoral votes are slim as the party honor its own elders. 
 
 

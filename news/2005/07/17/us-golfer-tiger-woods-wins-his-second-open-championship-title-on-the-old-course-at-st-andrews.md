@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/07/17/us-golfer-tiger-woods-wins-his-second-open-championship-title-on-the-old-course-at-st-andrews.html)  [JSON](/news/2005/07/17/us-golfer-tiger-woods-wins-his-second-open-championship-title-on-the-old-course-at-st-andrews.json)  [XML](/news/2005/07/17/us-golfer-tiger-woods-wins-his-second-open-championship-title-on-the-old-course-at-st-andrews.xml)  
+
 ### [2005-07-17](/news/2005/07/17/index.md)
 
+##### Tiger Woods
 #  US golfer Tiger Woods wins his second Open Championship title on the Old Course at St Andrews.
 
 

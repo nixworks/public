@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/28/france-announces-it-is-likely-to-withdraw-some-of-its-troops-from-afghanistan-in-2011.html)  [JSON](/news/2010/10/28/france-announces-it-is-likely-to-withdraw-some-of-its-troops-from-afghanistan-in-2011.json)  [XML](/news/2010/10/28/france-announces-it-is-likely-to-withdraw-some-of-its-troops-from-afghanistan-in-2011.xml)  
+
 ### [2010-10-28](/news/2010/10/28/index.md)
 
+##### War in Afghanistan
 # France announces it is likely to withdraw some of its troops from Afghanistan in 2011. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/WORLD/europe/10/28/france.troop.withdrawal/)
 

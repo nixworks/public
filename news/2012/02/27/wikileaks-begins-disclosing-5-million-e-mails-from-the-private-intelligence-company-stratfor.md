@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/27/wikileaks-begins-disclosing-5-million-e-mails-from-the-private-intelligence-company-stratfor.html)  [JSON](/news/2012/02/27/wikileaks-begins-disclosing-5-million-e-mails-from-the-private-intelligence-company-stratfor.json)  [XML](/news/2012/02/27/wikileaks-begins-disclosing-5-million-e-mails-from-the-private-intelligence-company-stratfor.xml)  
+
 ### [2012-02-27](/news/2012/02/27/index.md)
 
+##### WikiLeaks
 # WikiLeaks begins disclosing 5 million e-mails from the private intelligence company Stratfor. 
 
 Whistleblowing website WikiLeaks has begun publishing more than 5 million confidential emails from Texas-based intelligence firm Stratfor.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/2012-02-27/wikileaks-begins-publishing-confidential-intelligence-emails/3854838)
 2. [CNN](http://edition.cnn.com/2012/02/26/us/wikileaks-stratfor/)

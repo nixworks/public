@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/27/the-un-refugee-agency-announces-that-over-2000-migrants-from-africa-and-the-middle-east-have-drowned-this-year-while-trying-to-reach-europe.html)  [JSON](/news/2014/08/27/the-un-refugee-agency-announces-that-over-2000-migrants-from-africa-and-the-middle-east-have-drowned-this-year-while-trying-to-reach-europe.json)  [XML](/news/2014/08/27/the-un-refugee-agency-announces-that-over-2000-migrants-from-africa-and-the-middle-east-have-drowned-this-year-while-trying-to-reach-europe.xml)  
+
 ### [2014-08-27](/news/2014/08/27/index.md)
 
+##### United Nations High Commissioner for Refugees
 # The UN Refugee Agency announces that over 2000 migrants from Africa and the Middle East have drowned this year while trying to reach Europe by boat, a record number. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/somaliaNews/idAFL5N0QW3BM20140826)
 

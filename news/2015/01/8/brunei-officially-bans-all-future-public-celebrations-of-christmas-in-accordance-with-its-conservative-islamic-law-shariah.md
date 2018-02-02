@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/8/brunei-officially-bans-all-future-public-celebrations-of-christmas-in-accordance-with-its-conservative-islamic-law-shariah.html)  [JSON](/news/2015/01/8/brunei-officially-bans-all-future-public-celebrations-of-christmas-in-accordance-with-its-conservative-islamic-law-shariah.json)  [XML](/news/2015/01/8/brunei-officially-bans-all-future-public-celebrations-of-christmas-in-accordance-with-its-conservative-islamic-law-shariah.xml)  
+
 ### [2015-01-8](/news/2015/01/8/index.md)
 
+##### Brunei
 # Brunei officially bans all future public celebrations of Christmas, in accordance with its conservative Islamic law Shariah. 
 
 The oil-rich nation has prohibited future public celebrations of Christmas as part of its recently imposed Islamic law, fearing it might lead Muslims in the country &quot;astray.&quot;
 
 
-### Source:
+### Sources:
 
 1. [International Business Times](http://www.ibtimes.com/brunei-officially-bans-future-christmas-celebrations-1777526)
 1. [Cover Image](http://s1.ibtimes.com/sites/www.ibtimes.com/files/2015/01/08/rtr47p68.jpg)

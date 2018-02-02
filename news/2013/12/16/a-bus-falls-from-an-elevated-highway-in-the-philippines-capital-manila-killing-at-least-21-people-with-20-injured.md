@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/16/a-bus-falls-from-an-elevated-highway-in-the-philippines-capital-manila-killing-at-least-21-people-with-20-injured.html)  [JSON](/news/2013/12/16/a-bus-falls-from-an-elevated-highway-in-the-philippines-capital-manila-killing-at-least-21-people-with-20-injured.json)  [XML](/news/2013/12/16/a-bus-falls-from-an-elevated-highway-in-the-philippines-capital-manila-killing-at-least-21-people-with-20-injured.xml)  
+
 ### [2013-12-16](/news/2013/12/16/index.md)
 
+##### falls
 # A bus falls from an elevated highway in the Philippines capital Manila killing at least 21 people with 20 injured. 
 
 Van passing underneath crushed as passenger bus falls from elevated highway in the Philippines leaving at least 22 dead
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/philippines/10519754/Bus-falls-from-elevated-highway-in-Manila-killing-21-and-injuring-20.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02766/philippines_2766572k.jpg)

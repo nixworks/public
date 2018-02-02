@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/19/colombian-president-alvaro-uribe-has-ordered-the-national-army-to-rescue-several-hostages-from-farc-rebels-including-angrid-betancourt.html)  [JSON](/news/2007/05/19/colombian-president-alvaro-uribe-has-ordered-the-national-army-to-rescue-several-hostages-from-farc-rebels-including-angrid-betancourt.json)  [XML](/news/2007/05/19/colombian-president-alvaro-uribe-has-ordered-the-national-army-to-rescue-several-hostages-from-farc-rebels-including-angrid-betancourt.xml)  
+
 ### [2007-05-19](/news/2007/05/19/index.md)
 
+##### Colombian President
 #  Colombian President Alvaro Uribe has ordered the national army to rescue several hostages from FARC rebels, including Ingrid Betancourt, a former senator and presidential candidate. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Brunei Times](http://www.bruneitimes.com.bn/details.php?shape_ID=30538)
 

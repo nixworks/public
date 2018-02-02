@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/21/the-toll-of-homes-destroyed-by-northern-california-wildfires-reaches-1-600.html)  [JSON](/news/2015/09/21/the-toll-of-homes-destroyed-by-northern-california-wildfires-reaches-1-600.json)  [XML](/news/2015/09/21/the-toll-of-homes-destroyed-by-northern-california-wildfires-reaches-1-600.xml)  
+
 ### [2015-09-21](/news/2015/09/21/index.md)
 
+##### 2015 California wildfires
 # The toll of homes destroyed by Northern California wildfires reaches 1,600. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/915237d5e0314f13807625f57fd9a2e6/northern-california-wildfires-destroy-nearly-1600-homes)
 

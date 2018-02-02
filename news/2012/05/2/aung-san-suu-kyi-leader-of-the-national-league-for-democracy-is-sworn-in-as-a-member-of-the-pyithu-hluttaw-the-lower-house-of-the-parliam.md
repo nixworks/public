@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/05/2/aung-san-suu-kyi-leader-of-the-national-league-for-democracy-is-sworn-in-as-a-member-of-the-pyithu-hluttaw-the-lower-house-of-the-parliam.html)  [JSON](/news/2012/05/2/aung-san-suu-kyi-leader-of-the-national-league-for-democracy-is-sworn-in-as-a-member-of-the-pyithu-hluttaw-the-lower-house-of-the-parliam.json)  [XML](/news/2012/05/2/aung-san-suu-kyi-leader-of-the-national-league-for-democracy-is-sworn-in-as-a-member-of-the-pyithu-hluttaw-the-lower-house-of-the-parliam.xml)  
+
 ### [2012-05-2](/news/2012/05/2/index.md)
 
+##### Aung San Suu Kyi
 # Aung San Suu Kyi, leader of the National League for Democracy, is sworn in as a member of the Pyithu Hluttaw, the lower house of the parliament of Burma. 
 
 Pro-democracy leader takes oath to enter parliament, marking historic development for country as reforms continue.
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/asia_pacific/myanmar-set-to-begin-new-political-era-as-suu-kyi-poised-to-be-sworn-in-to-parliament/2012/05/01/gIQAxGEDvT_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia_pacific/myanmar-set-to-begin-new-political-era-as-suu-kyi-poised-to-be-sworn-in-to-parliament/2012/05/01/gIQAxGEDvT_story.html)
 2. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/05/20125213629935697.html)
 2. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/5/2/2012524266934734_20.jpg)
 

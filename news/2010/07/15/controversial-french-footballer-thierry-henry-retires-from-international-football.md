@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/15/controversial-french-footballer-thierry-henry-retires-from-international-football.html)  [JSON](/news/2010/07/15/controversial-french-footballer-thierry-henry-retires-from-international-football.json)  [XML](/news/2010/07/15/controversial-french-footballer-thierry-henry-retires-from-international-football.xml)  
+
 ### [2010-07-15](/news/2010/07/15/index.md)
 
+##### Controversial
 # Controversial French footballer Thierry Henry retires from international football. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/sports/article84936.ece)
 2. [CNN](http://edition.cnn.com/2010/SPORT/football/07/15/football.henry.france.retirement/)

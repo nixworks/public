@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/27/the-body-of-a-missing-northwestern-university-student-a-sophomore-in-the-school-of-engineering-there-is-found-in-wilmette-harbor-on-lake-m.html)  [JSON](/news/2012/09/27/the-body-of-a-missing-northwestern-university-student-a-sophomore-in-the-school-of-engineering-there-is-found-in-wilmette-harbor-on-lake-m.json)  [XML](/news/2012/09/27/the-body-of-a-missing-northwestern-university-student-a-sophomore-in-the-school-of-engineering-there-is-found-in-wilmette-harbor-on-lake-m.xml)  
+
 ### [2012-09-27](/news/2012/09/27/index.md)
 
+##### Northwestern University
 # The body of a missing Northwestern University student, a sophomore in the School of Engineering there, is found in Wilmette Harbor on Lake Michigan; police have thus far found no signs of foul play, but his family believes he had been kidnapped and had offered a $25,000 reward. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Northwestern University](http://www.northwestern.edu/news/breaking-news/)
 

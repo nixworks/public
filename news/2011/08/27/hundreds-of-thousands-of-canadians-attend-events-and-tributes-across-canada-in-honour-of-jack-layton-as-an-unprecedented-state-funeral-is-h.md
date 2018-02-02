@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/27/hundreds-of-thousands-of-canadians-attend-events-and-tributes-across-canada-in-honour-of-jack-layton-as-an-unprecedented-state-funeral-is-h.html)  [JSON](/news/2011/08/27/hundreds-of-thousands-of-canadians-attend-events-and-tributes-across-canada-in-honour-of-jack-layton-as-an-unprecedented-state-funeral-is-h.json)  [XML](/news/2011/08/27/hundreds-of-thousands-of-canadians-attend-events-and-tributes-across-canada-in-honour-of-jack-layton-as-an-unprecedented-state-funeral-is-h.xml)  
+
 ### [2011-08-27](/news/2011/08/27/index.md)
 
+##### Jack Layton
 # Hundreds of thousands of Canadians attend events and tributes across Canada in honour of Jack Layton, as an unprecedented state funeral is held. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/news/Jack_Layton)
 

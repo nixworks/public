@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/30/a-new-railway-station-opens-in-workington-providing-a-link-across-the-river-derwent-after-all-but-one-of-the-bridges-in-the-town-were-put.html)  [JSON](/news/2009/11/30/a-new-railway-station-opens-in-workington-providing-a-link-across-the-river-derwent-after-all-but-one-of-the-bridges-in-the-town-were-put.json)  [XML](/news/2009/11/30/a-new-railway-station-opens-in-workington-providing-a-link-across-the-river-derwent-after-all-but-one-of-the-bridges-in-the-town-were-put.xml)  
+
 ### [2009-11-30](/news/2009/11/30/index.md)
 
+##### new railway station
 #  A new railway station opens in Workington, providing a link across the River Derwent after all but one of the bridges in the town were put out of action by floods. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/cumbria/8385635.stm)
 

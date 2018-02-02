@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/22/in-an-incident-similar-to-the-one-that-occurred-on-july-2-a-palestinian-man-drives-a-backhoe-into-two-vehicles-in-jerusalem-injuring-16.html)  [JSON](/news/2008/07/22/in-an-incident-similar-to-the-one-that-occurred-on-july-2-a-palestinian-man-drives-a-backhoe-into-two-vehicles-in-jerusalem-injuring-16.json)  [XML](/news/2008/07/22/in-an-incident-similar-to-the-one-that-occurred-on-july-2-a-palestinian-man-drives-a-backhoe-into-two-vehicles-in-jerusalem-injuring-16.xml)  
+
 ### [2008-07-22](/news/2008/07/22/index.md)
 
+##### the one that occurred on July 2
 #  In an incident similar to the one that occurred on July 2, a Palestinian man drives a backhoe into two vehicles in Jerusalem, injuring 16, before being shot dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2008/jul/22/israelandthepalestinians.middleeast)
 

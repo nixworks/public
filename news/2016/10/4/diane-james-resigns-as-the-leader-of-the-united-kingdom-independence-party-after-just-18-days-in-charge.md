@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/4/diane-james-resigns-as-the-leader-of-the-united-
 
 ### [2016-10-4](/news/2016/10/4/index.md)
 
+##### Diane James
 # Diane James resigns as the leader of the United Kingdom Independence Party after just 18 days in charge. 
 
 Nigel Farage says he is temporarily at the helm of the party - but insists he won&#039;t take on the &quot;rotten job&quot; permanently.

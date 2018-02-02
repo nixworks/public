@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/29/a-video-from-besieged-eastern-aleppo-s-al-shaar
 
 ### [2016-09-29](/news/2016/09/29/index.md)
 
+##### Syrian Civil War
 # A video from besieged eastern Aleppo's al-Shaar neighborhood emerges showing the moment a young girl, identified as Ghazal Qasim, trapped beneath rubble of a five floor building blown to smithereens by a deadly Assad government's bunker buster bomb attack on September 27, is rescued by the Syrian Civil Defense, better known as the white helmets. 
 
 The footage has emerged as Unicef says 96 children have been killed and 223 have been injured since Friday.

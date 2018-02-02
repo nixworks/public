@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/21/the-inaugural-orwell-day-gets-underway-to-be-followed-by-a-month-long-orwell-season-on-bbc-radio-4-while-politics-and-the-english-languag.html)  [JSON](/news/2013/01/21/the-inaugural-orwell-day-gets-underway-to-be-followed-by-a-month-long-orwell-season-on-bbc-radio-4-while-politics-and-the-english-languag.json)  [XML](/news/2013/01/21/the-inaugural-orwell-day-gets-underway-to-be-followed-by-a-month-long-orwell-season-on-bbc-radio-4-while-politics-and-the-english-languag.xml)  
+
 ### [2013-01-21](/news/2013/01/21/index.md)
 
+##### Orwell Day
 # The inaugural Orwell Day gets underway, to be followed by a month-long Orwell season on BBC Radio 4, while "Politics and the English Language" is to be given away "en masse". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/books/2013/jan/21/george-orwell-day-begins-annual-commemoration)
 

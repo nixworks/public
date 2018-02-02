@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/9/the-lion-king-becomes-the-all-time-highest-grossing-show-on-broadway-overtaking-the-phantom-of-the-opera.html)  [JSON](/news/2012/04/9/the-lion-king-becomes-the-all-time-highest-grossing-show-on-broadway-overtaking-the-phantom-of-the-opera.json)  [XML](/news/2012/04/9/the-lion-king-becomes-the-all-time-highest-grossing-show-on-broadway-overtaking-the-phantom-of-the-opera.xml)  
+
 ### [2012-04-9](/news/2012/04/9/index.md)
 
+##### The Lion King
 # "The Lion King" becomes the all-time highest grossing show on Broadway, overtaking "The Phantom of the Opera". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/AP938d36afa759480986919fbda1d930f8.html)
 

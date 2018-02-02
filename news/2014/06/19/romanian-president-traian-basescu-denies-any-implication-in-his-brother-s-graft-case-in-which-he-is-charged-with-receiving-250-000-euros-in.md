@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/19/romanian-president-traian-basescu-denies-any-implication-in-his-brother-s-graft-case-in-which-he-is-charged-with-receiving-250-000-euros-in.html)  [JSON](/news/2014/06/19/romanian-president-traian-basescu-denies-any-implication-in-his-brother-s-graft-case-in-which-he-is-charged-with-receiving-250-000-euros-in.json)  [XML](/news/2014/06/19/romanian-president-traian-basescu-denies-any-implication-in-his-brother-s-graft-case-in-which-he-is-charged-with-receiving-250-000-euros-in.xml)  
+
 ### [2014-06-19](/news/2014/06/19/index.md)
 
+##### Romania
 # Romanian President Traian Basescu denies any implication in his brother's graft case in which he is charged with receiving 250,000 euros in order to facilitate the release of a well-known incarcerated mobster. Hours after the president's press conference, his brother, Mircea, was arrested for 24h.
 
 Romanian prosecutors said they detained President Traian Basescu’s brother on Thursday for allegedly taking a bribe to help keep an underworld boss out of jail, prompting the prime minister to call for the president’s resignation.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2014/06/19/uk-romania-politics-president-idUKKBN0EU2GC20140619)
 1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20140619&t=2&i=909933327&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA5I0ZY)

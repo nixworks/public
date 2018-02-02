@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/21/the-united-nations-general-assembly-votes-128a9
 
 ### [2017-12-21](/news/2017/12/21/index.md)
 
+##### United Nations General Assembly resolution ES-10/L.22
 # The United Nations General Assembly votes 128-9, with 35 abstentions, in a nonbinding resolution to demand that the United States rescind its December 6th declaration on unilaterally recognizing the holy and contested city of Jerusalem as Israel's capital. 
 
 OTTAWA &mdash; Canada abstained from a contentious United Nations vote Thursday that delivered a resounding rebuke to Donald Trump over his decision to move the U.S. embassy from Tel Aviv to Jerusa…

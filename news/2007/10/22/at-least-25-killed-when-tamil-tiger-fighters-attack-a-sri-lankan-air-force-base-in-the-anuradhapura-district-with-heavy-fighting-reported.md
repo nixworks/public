@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/22/at-least-25-killed-when-tamil-tiger-fighters-attack-a-sri-lankan-air-force-base-in-the-anuradhapura-district-with-heavy-fighting-reported.html)  [JSON](/news/2007/10/22/at-least-25-killed-when-tamil-tiger-fighters-attack-a-sri-lankan-air-force-base-in-the-anuradhapura-district-with-heavy-fighting-reported.json)  [XML](/news/2007/10/22/at-least-25-killed-when-tamil-tiger-fighters-attack-a-sri-lankan-air-force-base-in-the-anuradhapura-district-with-heavy-fighting-reported.xml)  
+
 ### [2007-10-22](/news/2007/10/22/index.md)
 
+##### Tamil Tiger
 #  At least 25 killed when Tamil Tiger fighters attack a Sri Lankan air force base in the Anuradhapura district with heavy fighting reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via News Limited](http://www.news.com.au/heraldsun/story/0,21985,22626374-5005961,00.html)
 

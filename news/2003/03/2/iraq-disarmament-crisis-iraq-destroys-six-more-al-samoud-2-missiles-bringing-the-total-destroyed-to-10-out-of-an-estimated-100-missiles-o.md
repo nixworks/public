@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/2/iraq-disarmament-crisis-iraq-destroys-six-more-al-samoud-2-missiles-bringing-the-total-destroyed-to-10-out-of-an-estimated-100-missiles-o.html)  [JSON](/news/2003/03/2/iraq-disarmament-crisis-iraq-destroys-six-more-al-samoud-2-missiles-bringing-the-total-destroyed-to-10-out-of-an-estimated-100-missiles-o.json)  [XML](/news/2003/03/2/iraq-disarmament-crisis-iraq-destroys-six-more-al-samoud-2-missiles-bringing-the-total-destroyed-to-10-out-of-an-estimated-100-missiles-o.xml)  
+
 ### [2003-03-2](/news/2003/03/2/index.md)
 
+##### Iraq disarmament crisis
 #  Iraq disarmament crisis: Iraq destroys six more Al-Samoud 2 missiles, bringing the total destroyed to 10 out of an estimated 100 missiles ordered eliminated by the U.N. The U.S. continues to dismiss Iraq's actions as "part of its game of deception." Iraq indicates that it may halt destruction of the missiles if the U.S. indicates it will go to war anyway.
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/29/un-special-envoy-anna-tibaijuka-meets-robert-mugabe-in-zimbabwe-discussing-about-a-recent-urban-crackdown-that-has-left-300-000-people-hom.html)  [JSON](/news/2005/06/29/un-special-envoy-anna-tibaijuka-meets-robert-mugabe-in-zimbabwe-discussing-about-a-recent-urban-crackdown-that-has-left-300-000-people-hom.json)  [XML](/news/2005/06/29/un-special-envoy-anna-tibaijuka-meets-robert-mugabe-in-zimbabwe-discussing-about-a-recent-urban-crackdown-that-has-left-300-000-people-hom.xml)  
+
 ### [2005-06-29](/news/2005/06/29/index.md)
 
+##### United Nations
 #  UN special envoy Anna Tibaijuka meets Robert Mugabe in Zimbabwe, discussing about a recent urban crackdown that has left 300.000 people homeless
 
 
@@ -7,8 +11,8 @@
 
 ### Related:
 
-1. [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md) _Context: Robert Mugabe, Zimbabwe_
-2. [Around ten heads of state attend the 17th Non-aligned Movement summit in Isla Margarita, Venezuela, including Evo Morales of Bolivia, Raul Castro of Cuba, Rafael Correa of Ecuador, Hassan Rouhani of Iran, Mahmoud Abbas of the State of Palestine, Robert Mugabe of Zimbabwe, and Venezuela's president Nicolas Maduro. ](/news/2016/09/17/around-ten-heads-of-state-attend-the-17th-non-aligned-movement-summit-in-isla-margarita-venezuela-including-evo-morales-of-bolivia-raaol.md) _Context: Robert Mugabe, Zimbabwe_
-3. [National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in-zimbabwe-following-fea.md) _Context: Robert Mugabe, Zimbabwe_
-4. [Thousands of opposition supporters rally in Harare, Zimbabwe, against President Robert Mugabe and the deteriorating economy. The rally was banned by the police, however, it went ahead after a ruling by the High Court sanctioned the protest. ](/news/2016/04/14/thousands-of-opposition-supporters-rally-in-harare-zimbabwe-against-president-robert-mugabe-and-the-deteriorating-economy-the-rally-was-b.md) _Context: Robert Mugabe, Zimbabwe_
-5. [The president of Zimbabwe, Robert Mugabe, is awarded the Confucius Peace Prize, sometimes characterized as a Chinese alternative to the Nobel Peace Prize. ](/news/2015/10/23/the-president-of-zimbabwe-robert-mugabe-is-awarded-the-confucius-peace-prize-sometimes-characterized-as-a-chinese-alternative-to-the-nobe.md) _Context: Robert Mugabe, Zimbabwe_
+1. [Emmerson Mnangagwa is fired as Vice President by Zimbabwe President Robert Mugabe. The public and the media widely perceives Mugabe's wife Grace as his likely successor after his death with Mnangagwa having been seen as her rival. ](/news/2017/11/6/emmerson-mnangagwa-is-fired-as-vice-president-by-zimbabwe-president-robert-mugabe-the-public-and-the-media-widely-perceives-mugabe-s-wife-g.md) _Context: Robert Mugabe, Zimbabwe_
+2. [Zimbabwe accuses American citizen Martha O'Donovan of trying to overthrow the regime of Robert Mugabe. ](/news/2017/11/3/zimbabwe-accuses-american-citizen-martha-o-donovan-of-trying-to-overthrow-the-regime-of-robert-mugabe.md) _Context: Robert Mugabe, Zimbabwe_
+3. [Zimbabwe president Robert Mugabe fires prosecutor Johannes Tomana. ](/news/2017/06/10/zimbabwe-president-robert-mugabe-fires-prosecutor-johannes-tomana.md) _Context: Robert Mugabe, Zimbabwe_
+4. [Around ten heads of state attend the 17th Non-aligned Movement summit in Isla Margarita, Venezuela, including Evo Morales of Bolivia, Raul Castro of Cuba, Rafael Correa of Ecuador, Hassan Rouhani of Iran, Mahmoud Abbas of the State of Palestine, Robert Mugabe of Zimbabwe, and Venezuela's president Nicolas Maduro. ](/news/2016/09/17/around-ten-heads-of-state-attend-the-17th-non-aligned-movement-summit-in-isla-margarita-venezuela-including-evo-morales-of-bolivia-raaol.md) _Context: Robert Mugabe, Zimbabwe_
+5. [National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in-zimbabwe-following-fea.md) _Context: Robert Mugabe, Zimbabwe_

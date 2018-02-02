@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/18/sudan-and-former-southern-rebels-start-deploying-joint-forces-in-the-troubled-abyei-region-as-part-of-an-agreement.html)  [JSON](/news/2008/06/18/sudan-and-former-southern-rebels-start-deploying-joint-forces-in-the-troubled-abyei-region-as-part-of-an-agreement.json)  [XML](/news/2008/06/18/sudan-and-former-southern-rebels-start-deploying-joint-forces-in-the-troubled-abyei-region-as-part-of-an-agreement.xml)  
+
 ### [2008-06-18](/news/2008/06/18/index.md)
 
+##### Sudan
 #  Sudan and former southern rebels start deploying joint forces in the troubled Abyei region as part of an agreement. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2008/06/18/ap5129983.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2008/06/18/ap5129983.html)
 
 ### Related:
 

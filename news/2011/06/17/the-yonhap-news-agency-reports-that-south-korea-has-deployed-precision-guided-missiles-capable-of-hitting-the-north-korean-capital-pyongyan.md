@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/17/the-yonhap-news-agency-reports-that-south-korea-has-deployed-precision-guided-missiles-capable-of-hitting-the-north-korean-capital-pyongyan.html)  [JSON](/news/2011/06/17/the-yonhap-news-agency-reports-that-south-korea-has-deployed-precision-guided-missiles-capable-of-hitting-the-north-korean-capital-pyongyan.json)  [XML](/news/2011/06/17/the-yonhap-news-agency-reports-that-south-korea-has-deployed-precision-guided-missiles-capable-of-hitting-the-north-korean-capital-pyongyan.xml)  
+
 ### [2011-06-17](/news/2011/06/17/index.md)
 
+##### Yonhap
 # The Yonhap news agency reports that South Korea has deployed precision-guided missiles capable of hitting the North Korean capital, Pyongyang. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap News](http://english.yonhapnews.co.kr/news/2011/06/17/0200000000AEN20110617000900315.HTML)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/11/russia-s-lower-parliament-approves-a-bill-creating-a-list-of-blacklisted-websites-amid-fears-of-censorship.html)  [JSON](/news/2012/07/11/russia-s-lower-parliament-approves-a-bill-creating-a-list-of-blacklisted-websites-amid-fears-of-censorship.json)  [XML](/news/2012/07/11/russia-s-lower-parliament-approves-a-bill-creating-a-list-of-blacklisted-websites-amid-fears-of-censorship.xml)  
+
 ### [2012-07-11](/news/2012/07/11/index.md)
 
+##### Russia
 # Russia's lower parliament approves a bill creating a list of blacklisted websites, amid fears of censorship. 
 
 Russia&#039;s lower house of parliament has passed the bill in its third and final reading, despite criticism of censorship from the country&#039;s most popular websites.
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5geli9TJRqx7ynOCUA01YqHhifOYQ?docId=CNG.b19021ddd4b290dbab6a2135880aa06b.171)
 2. [Russia Today](http://www.rt.com/news/wikipedia-yandex-censorship-bill-936/)

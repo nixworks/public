@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/26/lee-li-lian-of-the-workers-party-wins-punggol-east-by-election-in-singapore-and-becomes-the-next-mp-for-punggol-east-this-was-the-second-s.html)  [JSON](/news/2013/01/26/lee-li-lian-of-the-workers-party-wins-punggol-east-by-election-in-singapore-and-becomes-the-next-mp-for-punggol-east-this-was-the-second-s.json)  [XML](/news/2013/01/26/lee-li-lian-of-the-workers-party-wins-punggol-east-by-election-in-singapore-and-becomes-the-next-mp-for-punggol-east-this-was-the-second-s.xml)  
+
 ### [2013-01-26](/news/2013/01/26/index.md)
 
+##### Lee Li Lian
 # Lee Li Lian of the Workers' Party wins Punggol East by-election in Singapore and becomes the next MP for Punggol East. This was the second Singaporean by-election after less than a year. 
 
 In less than a year, Singapore will have a second by-election, as Prime Minister Lee Hsien Loong has decided to call for a by-election in Punggol East, less than two months after it fell vacant.. Read more at straitstimes.com.
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/breaking-news/singapore/story/punggol-east-election-announced-polling-day-jan-26-20130109)
 1. [Cover Image](http://www.straitstimes.com/sites/all/themes/custom/bootdemo/images/facebook_default_logo.jpg)

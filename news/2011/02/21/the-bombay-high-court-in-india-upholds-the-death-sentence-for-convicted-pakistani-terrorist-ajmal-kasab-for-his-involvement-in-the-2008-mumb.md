@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/21/the-bombay-high-court-in-india-upholds-the-death-sentence-for-convicted-pakistani-terrorist-ajmal-kasab-for-his-involvement-in-the-2008-mumb.html)  [JSON](/news/2011/02/21/the-bombay-high-court-in-india-upholds-the-death-sentence-for-convicted-pakistani-terrorist-ajmal-kasab-for-his-involvement-in-the-2008-mumb.json)  [XML](/news/2011/02/21/the-bombay-high-court-in-india-upholds-the-death-sentence-for-convicted-pakistani-terrorist-ajmal-kasab-for-his-involvement-in-the-2008-mumb.xml)  
+
 ### [2011-02-21](/news/2011/02/21/index.md)
 
+##### Bombay High Court
 # The Bombay High Court in India upholds the death sentence for convicted Pakistani terrorist Ajmal Kasab for his involvement in the 2008 Mumbai attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Kasab-recites-Quran-offers-prayers-in-jail-ahead-of-verdict/articleshow/7537753.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/7538272.cms)

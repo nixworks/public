@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/18/motorola-introduces-the-droid-razr-the-world-s-thinnest-smartphone.html)  [JSON](/news/2011/10/18/motorola-introduces-the-droid-razr-the-world-s-thinnest-smartphone.json)  [XML](/news/2011/10/18/motorola-introduces-the-droid-razr-the-world-s-thinnest-smartphone.xml)  
+
 ### [2011-10-18](/news/2011/10/18/index.md)
 
+##### Motorola
 # Motorola introduces the Droid RAZR, the world's thinnest smartphone. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://gadgetbox.msnbc.msn.com/_news/2011/10/18/8382232-motorola-reveals-droid-razr-worlds-thinnest-smartphone)
 

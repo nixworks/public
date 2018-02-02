@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/22/in-montreal-the-biggest-protest-in-quebec-s-history-sets-out-against-the-government-s-tuition-hikes-and-for-free-access-to-post-secondary-ed.html)  [JSON](/news/2012/03/22/in-montreal-the-biggest-protest-in-quebec-s-history-sets-out-against-the-government-s-tuition-hikes-and-for-free-access-to-post-secondary-ed.json)  [XML](/news/2012/03/22/in-montreal-the-biggest-protest-in-quebec-s-history-sets-out-against-the-government-s-tuition-hikes-and-for-free-access-to-post-secondary-ed.xml)  
+
 ### [2012-03-22](/news/2012/03/22/index.md)
 
+##### Montreal
 # In Montreal the biggest protest in Quebec's history sets out against the government's tuition hikes and for free access to post-secondary education, with more than 200 000 people marching in the streets 
 
 
 
 
-### Source:
+### Sources:
 
 1. ["Huffington Post"](http://www.huffingtonpost.ca/2012/03/23/quebec-student-protests-government-tuition_n_1375560.html)
 1. [Cover Image](http://i.huffpost.com/gen/542671/images/r-MANIFESTATION-ETUDIANTE-600x275.jpg)

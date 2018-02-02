@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/18/a-north-korean-fighter-plane-crashes-in-china-near-the-border-killing-the-pilot-and-possibly-a-second-pilot-bailing-out-pictures-posted-by.html)  [JSON](/news/2010/08/18/a-north-korean-fighter-plane-crashes-in-china-near-the-border-killing-the-pilot-and-possibly-a-second-pilot-bailing-out-pictures-posted-by.json)  [XML](/news/2010/08/18/a-north-korean-fighter-plane-crashes-in-china-near-the-border-killing-the-pilot-and-possibly-a-second-pilot-bailing-out-pictures-posted-by.xml)  
+
 ### [2010-08-18](/news/2010/08/18/index.md)
 
+##### North Korea
 # A North Korean fighter plane crashes in China near the border, killing the pilot and possibly a second pilot bailing out. Pictures posted by local residents show a Soviet plane design which were used in the Korean War. It is suggested to have been a defection attempt. 
 
 A North Korean aircraft, which may be a fighter jet carrying a suspected defector, has crashed in China, according to reports.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11008466)
 2. [Yonhap](http://english.yonhapnews.co.kr/national/2010/08/18/75/0301000000AEN20100818007500315F.HTML)

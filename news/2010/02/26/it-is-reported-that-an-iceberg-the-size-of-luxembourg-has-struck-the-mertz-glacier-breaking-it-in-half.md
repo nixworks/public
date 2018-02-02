@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/26/it-is-reported-that-an-iceberg-the-size-of-luxembourg-has-struck-the-mertz-glacier-breaking-it-in-half.html)  [JSON](/news/2010/02/26/it-is-reported-that-an-iceberg-the-size-of-luxembourg-has-struck-the-mertz-glacier-breaking-it-in-half.json)  [XML](/news/2010/02/26/it-is-reported-that-an-iceberg-the-size-of-luxembourg-has-struck-the-mertz-glacier-breaking-it-in-half.xml)  
+
 ### [2010-02-26](/news/2010/02/26/index.md)
 
+##### iceberg
 # It is reported that an iceberg the size of Luxembourg has struck the Mertz Glacier, breaking it in half. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.salon.com/technology/2010/02/26/as_australia_icebergs/index.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/23/danish-prime-minister-lars-la-kke-rasmussen-carries-out-a-major-cabinet-reshuffling-bringing-in-female-ministers-in-charge-of-defence-and-f.html)  [JSON](/news/2010/02/23/danish-prime-minister-lars-la-kke-rasmussen-carries-out-a-major-cabinet-reshuffling-bringing-in-female-ministers-in-charge-of-defence-and-f.json)  [XML](/news/2010/02/23/danish-prime-minister-lars-la-kke-rasmussen-carries-out-a-major-cabinet-reshuffling-bringing-in-female-ministers-in-charge-of-defence-and-f.xml)  
+
 ### [2010-02-23](/news/2010/02/23/index.md)
 
+##### Denmark
 # Danish Prime Minister Lars Lokke Rasmussen carries out a major cabinet reshuffling, bringing in female ministers in charge of Defence and Foreign Affairs, the first in Denmark's history. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Copenhagen Post](http://www.cphpost.dk/news/politics/90-politics/48322-pm-shakes-up-government-in-response-to-criticism.html)
 

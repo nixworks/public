@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/03/14/queen-elizabeth-officially-opens-london-heathrow-airport-s-new-terminal-5.html)  [JSON](/news/2008/03/14/queen-elizabeth-officially-opens-london-heathrow-airport-s-new-terminal-5.json)  [XML](/news/2008/03/14/queen-elizabeth-officially-opens-london-heathrow-airport-s-new-terminal-5.xml)  
+
 ### [2008-03-14](/news/2008/03/14/index.md)
 
+##### King
 #  Queen Elizabeth officially opens London Heathrow Airport's new Terminal 5. 
 
 The notoriously congested London airport has opened a fifth terminal, at a cost of around $8.7 billion.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/03/15/world/europe/15britain.html)
+1. [The New York Times](https://www.nytimes.com/2008/03/15/world/europe/15britain.html)
 1. [Cover Image](https://static01.nyt.com/images/2008/03/15/world/15britain-span-75.jpg)
 
 ### Related:

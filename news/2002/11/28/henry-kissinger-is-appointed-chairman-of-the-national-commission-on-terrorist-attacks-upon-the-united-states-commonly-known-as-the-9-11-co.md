@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/28/henry-kissinger-is-appointed-chairman-of-the-national-commission-on-terrorist-attacks-upon-the-united-states-commonly-known-as-the-9-11-co.html)  [JSON](/news/2002/11/28/henry-kissinger-is-appointed-chairman-of-the-national-commission-on-terrorist-attacks-upon-the-united-states-commonly-known-as-the-9-11-co.json)  [XML](/news/2002/11/28/henry-kissinger-is-appointed-chairman-of-the-national-commission-on-terrorist-attacks-upon-the-united-states-commonly-known-as-the-9-11-co.xml)  
+
 ### [2002-11-28](/news/2002/11/28/index.md)
 
+##### Henry Kissinger
 #  Henry Kissinger is appointed chairman of the National Commission on Terrorist Attacks Upon the United States, commonly known as the 9-11 Commission.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/16/an-iraqi-general-claims-that-a-suicide-bombing-in-a-shiite-cafe-in-northern-iraq-has-killed-25-people.html)  [JSON](/news/2006/07/16/an-iraqi-general-claims-that-a-suicide-bombing-in-a-shiite-cafe-in-northern-iraq-has-killed-25-people.json)  [XML](/news/2006/07/16/an-iraqi-general-claims-that-a-suicide-bombing-in-a-shiite-cafe-in-northern-iraq-has-killed-25-people.xml)  
+
 ### [2006-07-16](/news/2006/07/16/index.md)
 
+##### Iraq
 #  An Iraqi general claims that a suicide bombing in a Shiite cafe in northern Iraq has killed 25 people. 
 
 Read the latest national and world news on Newsday. All the top stores, latest videos and photo galleries are available at Newsday.com
 
 
-### Source:
+### Sources:
 
 1. [Newsday](http://www.newsday.com/news/nationworld/world/ny-woiraq0717,0,5351222.story?track=rss)
 1. [Cover Image](http://www.newsday.com/img/blog-share-nd.jpg)

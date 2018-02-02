@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/25/the-president-of-ukraine-viktor-yushchenko-calls-for-the-holodomor-to-be-internationally-recognised-as-an-act-of-genocide.html)  [JSON](/news/2005/11/25/the-president-of-ukraine-viktor-yushchenko-calls-for-the-holodomor-to-be-internationally-recognised-as-an-act-of-genocide.json)  [XML](/news/2005/11/25/the-president-of-ukraine-viktor-yushchenko-calls-for-the-holodomor-to-be-internationally-recognised-as-an-act-of-genocide.xml)  
+
 ### [2005-11-25](/news/2005/11/25/index.md)
 
+##### Ukraine
 #  The president of Ukraine, Viktor Yushchenko, calls for the Holodomor to be internationally recognised as an act of genocide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4471256.stm)
 

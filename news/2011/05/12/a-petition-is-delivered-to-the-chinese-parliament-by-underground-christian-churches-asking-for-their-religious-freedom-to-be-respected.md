@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/a-petition-is-delivered-to-the-chinese-parliament-by-underground-christian-churches-asking-for-their-religious-freedom-to-be-respected.html)  [JSON](/news/2011/05/12/a-petition-is-delivered-to-the-chinese-parliament-by-underground-christian-churches-asking-for-their-religious-freedom-to-be-respected.json)  [XML](/news/2011/05/12/a-petition-is-delivered-to-the-chinese-parliament-by-underground-christian-churches-asking-for-their-religious-freedom-to-be-respected.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### China
 # A petition is delivered to the Chinese parliament by underground Christian churches asking for their religious freedom to be respected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5i1qXgurtyj1LIIAv6H_nIrCdipMA?docId=CNG.47a5de9d6ad5e8f83e4966e45176d35c.271)
 

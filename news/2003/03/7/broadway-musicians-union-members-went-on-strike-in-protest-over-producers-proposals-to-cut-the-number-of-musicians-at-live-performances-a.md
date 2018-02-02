@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/7/broadway-musicians-union-members-went-on-strike-in-protest-over-producers-proposals-to-cut-the-number-of-musicians-at-live-performances-a.html)  [JSON](/news/2003/03/7/broadway-musicians-union-members-went-on-strike-in-protest-over-producers-proposals-to-cut-the-number-of-musicians-at-live-performances-a.json)  [XML](/news/2003/03/7/broadway-musicians-union-members-went-on-strike-in-protest-over-producers-proposals-to-cut-the-number-of-musicians-at-live-performances-a.xml)  
+
 ### [2003-03-7](/news/2003/03/7/index.md)
 
+##### Broadway
 #  Broadway musicians union members went on strike in protest over producers' proposals to cut the number of musicians at live performances, and the possibility of using taped or computer based music. All but one of Broadway's musicals (Cabaret) closed as a result.
 
 

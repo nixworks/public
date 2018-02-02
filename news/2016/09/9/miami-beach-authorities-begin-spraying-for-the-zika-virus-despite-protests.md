@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/9/miami-beach-authorities-begin-spraying-for-the-z
 
 ### [2016-09-9](/news/2016/09/9/index.md)
 
+##### 2015-16 Zika virus epidemic
 # Miami Beach authorities begin spraying for the Zika virus despite protests. 
 
 The spraying had been delayed a day after worried and angry residents complained to city officials and organized a small protest outside City Hall.

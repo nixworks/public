@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/10/31/the-bank-of-japan-announces-a-decision-to-buy-more-assets-continuing-an-aggressive-expansion-of-the-money-supply-by-roughly-us-60-billion.html)  [JSON](/news/2014/10/31/the-bank-of-japan-announces-a-decision-to-buy-more-assets-continuing-an-aggressive-expansion-of-the-money-supply-by-roughly-us-60-billion.json)  [XML](/news/2014/10/31/the-bank-of-japan-announces-a-decision-to-buy-more-assets-continuing-an-aggressive-expansion-of-the-money-supply-by-roughly-us-60-billion.xml)  
+
 ### [2014-10-31](/news/2014/10/31/index.md)
 
+##### Bank of Japan
 # The Bank of Japan announces a decision to buy more assets, continuing an aggressive expansion of the money supply, by roughly US$60 billion per month, admitting that it hasn't yet reached its goals on growth. 
 
 The Bank of Japan shocked global financial markets on Friday by expanding its massive stimulus spending in a stark admission that economic growth and inflation have not picked up as much as expected after a sales tax hike in April.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/10/31/us-japan-economy-boj-idUSKBN0IK0B120141031)
-1. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20141031&t=2&i=987789167&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA9U09U)
+1. [Reuters](https://www.reuters.com/article/2014/10/31/us-japan-economy-boj-idUSKBN0IK0B120141031)
+1. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20141031&t=2&i=987789167&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA9U09U)
 
 ### Related:
 

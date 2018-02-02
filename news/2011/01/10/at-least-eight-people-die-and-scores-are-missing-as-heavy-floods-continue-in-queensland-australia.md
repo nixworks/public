@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/10/at-least-eight-people-die-and-scores-are-missing-as-heavy-floods-continue-in-queensland-australia.html)  [JSON](/news/2011/01/10/at-least-eight-people-die-and-scores-are-missing-as-heavy-floods-continue-in-queensland-australia.json)  [XML](/news/2011/01/10/at-least-eight-people-die-and-scores-are-missing-as-heavy-floods-continue-in-queensland-australia.xml)  
+
 ### [2011-01-10](/news/2011/01/10/index.md)
 
+##### floods
 # At least eight people die and scores are missing as heavy floods continue in Queensland, Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Australia](http://www.radioaustralianews.net.au/stories/201101/3110112.htm?desktop)
 2. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-national/eight-dead-11-missing-in-qld-floods-20110111-19lf4.html)

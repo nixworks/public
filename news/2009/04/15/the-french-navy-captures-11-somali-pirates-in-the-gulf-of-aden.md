@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/15/the-french-navy-captures-11-somali-pirates-in-the-gulf-of-aden.html)  [JSON](/news/2009/04/15/the-french-navy-captures-11-somali-pirates-in-the-gulf-of-aden.json)  [XML](/news/2009/04/15/the-french-navy-captures-11-somali-pirates-in-the-gulf-of-aden.xml)  
+
 ### [2009-04-15](/news/2009/04/15/index.md)
 
+##### France
 #  The French Navy captures 11 Somali pirates in the Gulf of Aden. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8000447.stm)
 

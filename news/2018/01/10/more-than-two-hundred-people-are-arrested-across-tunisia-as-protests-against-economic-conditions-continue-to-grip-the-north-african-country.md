@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/10/more-than-two-hundred-people-are-arrested-acros
 
 ### [2018-01-10](/news/2018/01/10/index.md)
 
+##### 2018 Tunisian protests
 # More than two hundred people are arrested across Tunisia as protests against economic conditions continue to grip the North African country. At least 49 police officers have been injured during clashes with protesters. 
 
 At least 10 towns were involved in the protest over a rise in the cost of living.

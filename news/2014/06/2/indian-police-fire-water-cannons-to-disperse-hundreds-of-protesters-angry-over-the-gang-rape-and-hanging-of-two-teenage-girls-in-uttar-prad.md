@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/2/indian-police-fire-water-cannons-to-disperse-hundreds-of-protesters-angry-over-the-gang-rape-and-hanging-of-two-teenage-girls-in-uttar-prad.html)  [JSON](/news/2014/06/2/indian-police-fire-water-cannons-to-disperse-hundreds-of-protesters-angry-over-the-gang-rape-and-hanging-of-two-teenage-girls-in-uttar-prad.json)  [XML](/news/2014/06/2/indian-police-fire-water-cannons-to-disperse-hundreds-of-protesters-angry-over-the-gang-rape-and-hanging-of-two-teenage-girls-in-uttar-prad.xml)  
+
 ### [2014-06-2](/news/2014/06/2/index.md)
 
+##### Indian Police
 # Indian police fire water cannons to disperse hundreds of protesters, angry over the gang-rape and hanging of two teenage girls in Uttar Pradesh, demonstrating outside the office of Chief Minister Akhilesh Yadav. 
 
 Indian police fire water cannons to disperse hundreds of protesters in Uttar Pradesh state where two teenage cousins were gang raped and hanged.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-india-27659446)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75252000/jpg/_75252035_75252034.jpg)

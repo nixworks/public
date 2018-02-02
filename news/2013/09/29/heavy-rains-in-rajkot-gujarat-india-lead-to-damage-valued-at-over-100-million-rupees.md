@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/29/heavy-rains-in-rajkot-gujarat-india-lead-to-damage-valued-at-over-100-million-rupees.html)  [JSON](/news/2013/09/29/heavy-rains-in-rajkot-gujarat-india-lead-to-damage-valued-at-over-100-million-rupees.json)  [XML](/news/2013/09/29/heavy-rains-in-rajkot-gujarat-india-lead-to-damage-valued-at-over-100-million-rupees.xml)  
+
 ### [2013-09-29](/news/2013/09/29/index.md)
 
+##### Rajkot
 # Heavy rains in Rajkot, Gujarat, India, lead to damage valued at over 100 million rupees. 
 
 The city has incurred an estimated loss of Rs 10 crore due to damage caused to roads by rains.
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/city/rajkot/Rajkot-incurs-Rs-10cr-loss-due-to-rains/articleshow/23222953.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)

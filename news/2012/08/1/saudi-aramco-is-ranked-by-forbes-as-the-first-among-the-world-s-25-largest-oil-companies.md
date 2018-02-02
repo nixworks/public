@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/1/saudi-aramco-is-ranked-by-forbes-as-the-first-among-the-world-s-25-largest-oil-companies.html)  [JSON](/news/2012/08/1/saudi-aramco-is-ranked-by-forbes-as-the-first-among-the-world-s-25-largest-oil-companies.json)  [XML](/news/2012/08/1/saudi-aramco-is-ranked-by-forbes-as-the-first-among-the-world-s-25-largest-oil-companies.xml)  
+
 ### [2012-08-1](/news/2012/08/1/index.md)
 
+##### Saudi Aramco
 # Saudi Aramco is ranked by "Forbes" as the first among the world's 25 largest oil companies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Global Financial Network](http://www.equities.com/news/headline-story?dt=2012-08-01&val=329837&cat=material)
 

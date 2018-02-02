@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/20/international-atomic-energy-agency-iaea-director-general-yukiya-amano-heads-for-tehran-to-convince-the-iranian-government-to-co-operate-wi.html)  [JSON](/news/2012/05/20/international-atomic-energy-agency-iaea-director-general-yukiya-amano-heads-for-tehran-to-convince-the-iranian-government-to-co-operate-wi.json)  [XML](/news/2012/05/20/international-atomic-energy-agency-iaea-director-general-yukiya-amano-heads-for-tehran-to-convince-the-iranian-government-to-co-operate-wi.xml)  
+
 ### [2012-05-20](/news/2012/05/20/index.md)
 
+##### IAEA
 # International Atomic Energy Agency (IAEA) director general Yukiya Amano heads for Tehran to convince the Iranian government to co-operate with the agency. 
 
 First IAEA head to visit Tehran since 2009 is expected to seek inspection deal on alleged weapons sites.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/05/2012520155112905959.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-18140539)

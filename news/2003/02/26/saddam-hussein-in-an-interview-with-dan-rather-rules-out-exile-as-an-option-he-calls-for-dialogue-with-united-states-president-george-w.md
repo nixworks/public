@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/26/saddam-hussein-in-an-interview-with-dan-rather-rules-out-exile-as-an-option-he-calls-for-dialogue-with-united-states-president-george-w.html)  [JSON](/news/2003/02/26/saddam-hussein-in-an-interview-with-dan-rather-rules-out-exile-as-an-option-he-calls-for-dialogue-with-united-states-president-george-w.json)  [XML](/news/2003/02/26/saddam-hussein-in-an-interview-with-dan-rather-rules-out-exile-as-an-option-he-calls-for-dialogue-with-united-states-president-george-w.xml)  
+
 ### [2003-02-26](/news/2003/02/26/index.md)
 
+##### Saddam Hussein
 #  Saddam Hussein, in an interview with Dan Rather, rules out exile as an option. He calls for dialogue with United States president George W. Bush, and suggests that the two should engage in a televised debate.
 
 

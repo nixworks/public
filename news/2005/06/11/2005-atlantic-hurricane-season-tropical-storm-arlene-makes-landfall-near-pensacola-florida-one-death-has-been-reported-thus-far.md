@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/11/2005-atlantic-hurricane-season-tropical-storm-arlene-makes-landfall-near-pensacola-florida-one-death-has-been-reported-thus-far.html)  [JSON](/news/2005/06/11/2005-atlantic-hurricane-season-tropical-storm-arlene-makes-landfall-near-pensacola-florida-one-death-has-been-reported-thus-far.json)  [XML](/news/2005/06/11/2005-atlantic-hurricane-season-tropical-storm-arlene-makes-landfall-near-pensacola-florida-one-death-has-been-reported-thus-far.xml)  
+
 ### [2005-06-11](/news/2005/06/11/index.md)
 
+##### 2005 Atlantic hurricane season
 #  2005 Atlantic hurricane season: Tropical Storm Arlene makes landfall near Pensacola, Florida. One death has been reported thus far. 
 
 Get the latest breaking news across the U.S. on ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABCNews](http://abcnews.go.com/US/wireStory?id=839989)
 

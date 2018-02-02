@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/9/pro-beijing-hong-kong-leader-cy-leung-says-he-wi
 
 ### [2016-12-9](/news/2016/12/9/index.md)
 
+##### Beijing
 # Pro-Beijing Hong Kong leader CY Leung says he will quit after his term ends. 
 
 Hong Kong leader CY Leung says he will not seek re-election, citing &quot;stress&quot; on his family.

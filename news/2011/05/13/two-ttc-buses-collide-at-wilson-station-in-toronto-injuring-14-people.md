@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/05/13/two-ttc-buses-collide-at-wilson-station-in-toronto-injuring-14-people.html)  [JSON](/news/2011/05/13/two-ttc-buses-collide-at-wilson-station-in-toronto-injuring-14-people.json)  [XML](/news/2011/05/13/two-ttc-buses-collide-at-wilson-station-in-toronto-injuring-14-people.xml)  
+
 ### [2011-05-13](/news/2011/05/13/index.md)
 
+##### TTC
 # Two TTC buses collide at Wilson Station in Toronto, injuring 14 people. 
 
 A toddler in a stroller and a bus driver were among 14 people who were injured after two TTC buses collided head-on at a ramp at Wilson subway station in northwest Toronto. 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/toronto/story/2011/05/13/ttc-buses-crash312.html)
 2. [Inside Toronto](http://www.insidetoronto.com/news/local/article/1007910--two-ttc-buses-collide-at-station-13-people-sent-to-hospital)
-3. [Toronto Star](http://www.thestar.com/news/transportation/article/990962--14-injured-after-ttc-buses-collide?bn=1)
+3. [Toronto Star](https://www.thestar.com/news/transportation/article/990962--14-injured-after-ttc-buses-collide?bn=1)
 3. [Cover Image](https://i.cbc.ca/1.2025660.1381637638!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-ttc-bus-wilson.jpg)
 
 ### Related:

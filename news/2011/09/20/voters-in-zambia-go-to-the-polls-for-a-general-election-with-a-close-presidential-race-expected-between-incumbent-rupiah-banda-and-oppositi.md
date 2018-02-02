@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/20/voters-in-zambia-go-to-the-polls-for-a-general-election-with-a-close-presidential-race-expected-between-incumbent-rupiah-banda-and-oppositi.html)  [JSON](/news/2011/09/20/voters-in-zambia-go-to-the-polls-for-a-general-election-with-a-close-presidential-race-expected-between-incumbent-rupiah-banda-and-oppositi.json)  [XML](/news/2011/09/20/voters-in-zambia-go-to-the-polls-for-a-general-election-with-a-close-presidential-race-expected-between-incumbent-rupiah-banda-and-oppositi.xml)  
+
 ### [2011-09-20](/news/2011/09/20/index.md)
 
+##### Zambia
 # Voters in Zambia go to the polls for a general election, with a close presidential race expected between incumbent Rupiah Banda and opposition leader Michael Sata. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://blogs.voanews.com/breaking-news/2011/09/20/voting-underway-in-zambian-presidential-election-rematch/)
 

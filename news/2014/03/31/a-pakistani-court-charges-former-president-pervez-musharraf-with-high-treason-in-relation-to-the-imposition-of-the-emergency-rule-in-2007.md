@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/31/a-pakistani-court-charges-former-president-pervez-musharraf-with-high-treason-in-relation-to-the-imposition-of-the-emergency-rule-in-2007.html)  [JSON](/news/2014/03/31/a-pakistani-court-charges-former-president-pervez-musharraf-with-high-treason-in-relation-to-the-imposition-of-the-emergency-rule-in-2007.json)  [XML](/news/2014/03/31/a-pakistani-court-charges-former-president-pervez-musharraf-with-high-treason-in-relation-to-the-imposition-of-the-emergency-rule-in-2007.xml)  
+
 ### [2014-03-31](/news/2014/03/31/index.md)
 
+##### Pakistan
 # A Pakistani court charges former President Pervez Musharraf with high treason in relation to the imposition of the emergency rule in 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-26815518#)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/73917000/jpg/_73917291_72024516.jpg)

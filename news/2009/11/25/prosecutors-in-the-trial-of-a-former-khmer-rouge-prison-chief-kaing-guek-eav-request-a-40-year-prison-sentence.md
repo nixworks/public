@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/25/prosecutors-in-the-trial-of-a-former-khmer-rouge-prison-chief-kaing-guek-eav-request-a-40-year-prison-sentence.html)  [JSON](/news/2009/11/25/prosecutors-in-the-trial-of-a-former-khmer-rouge-prison-chief-kaing-guek-eav-request-a-40-year-prison-sentence.json)  [XML](/news/2009/11/25/prosecutors-in-the-trial-of-a-former-khmer-rouge-prison-chief-kaing-guek-eav-request-a-40-year-prison-sentence.xml)  
+
 ### [2009-11-25](/news/2009/11/25/index.md)
 
+##### Extraordinary Chambers in the Courts of Cambodia
 #  Prosecutors in the trial of a former Khmer Rouge prison chief Kaing Guek Eav request a 40 year prison sentence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gXssZ7V8pKg42hqegCKtdB4TPyZgD9C6ELIO0)
 2. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2009112529735/National-news/khmer-rouge-tribunal-prosecutors-seeking-40-year-prison-term-for-duch.html)

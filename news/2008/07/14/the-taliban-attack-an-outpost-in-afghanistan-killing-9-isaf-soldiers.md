@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2008/07/14/the-taliban-attack-an-outpost-in-afghanistan-killing-9-isaf-soldiers.html)  [JSON](/news/2008/07/14/the-taliban-attack-an-outpost-in-afghanistan-killing-9-isaf-soldiers.json)  [XML](/news/2008/07/14/the-taliban-attack-an-outpost-in-afghanistan-killing-9-isaf-soldiers.xml)  
+
 ### [2008-07-14](/news/2008/07/14/index.md)
 
+##### Taliban
 #  The Taliban attack an outpost in Afghanistan, killing 9 ISAF soldiers. 
 
 A Taliban attack that killed nine U.S. soldiers, the biggest single American loss in Afghanistan since 2005, was a well-planned, complex assault which briefly breached the defenses of an outpost near the Pakistan border.
 
 
-### Source:
+### Sources:
 
 1. [International Herald Tribune](http://www.iht.com/articles/2008/07/13/asia/afghan.php)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSSP8694520080714)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20080714&t=2&i=5158526&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-07-14T163229Z_01_SP86945_RTRUKOP_0_PICTURE0)
+2. [Reuters](https://www.reuters.com/article/worldNews/idUSSP8694520080714)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20080714&t=2&i=5158526&w=&fh=545px&fw=&ll=&pl=&sq=&r=2008-07-14T163229Z_01_SP86945_RTRUKOP_0_PICTURE0)
 
 ### Related:
 

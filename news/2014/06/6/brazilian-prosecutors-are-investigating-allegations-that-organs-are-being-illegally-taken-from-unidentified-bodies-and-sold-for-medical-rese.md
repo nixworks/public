@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/6/brazilian-prosecutors-are-investigating-allegations-that-organs-are-being-illegally-taken-from-unidentified-bodies-and-sold-for-medical-rese.html)  [JSON](/news/2014/06/6/brazilian-prosecutors-are-investigating-allegations-that-organs-are-being-illegally-taken-from-unidentified-bodies-and-sold-for-medical-rese.json)  [XML](/news/2014/06/6/brazilian-prosecutors-are-investigating-allegations-that-organs-are-being-illegally-taken-from-unidentified-bodies-and-sold-for-medical-rese.xml)  
+
 ### [2014-06-6](/news/2014/06/6/index.md)
 
+##### prosecutors
 # Brazilian prosecutors are investigating allegations that organs are being illegally taken from unidentified bodies and sold for medical research. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-27730107)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/75359000/jpg/_75359452_coffins.jpg)

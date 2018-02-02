@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/4/at-least-33-miners-die-in-a-suspected-gas-explosion-at-the-zasyadko-coal-mine-in-rebel-held-donetsk-region-of-ukraine.html)  [JSON](/news/2015/03/4/at-least-33-miners-die-in-a-suspected-gas-explosion-at-the-zasyadko-coal-mine-in-rebel-held-donetsk-region-of-ukraine.json)  [XML](/news/2015/03/4/at-least-33-miners-die-in-a-suspected-gas-explosion-at-the-zasyadko-coal-mine-in-rebel-held-donetsk-region-of-ukraine.xml)  
+
 ### [2015-03-4](/news/2015/03/4/index.md)
 
+##### die in a suspected gas explosion
 # At least 33 miners die in a suspected gas explosion at the Zasyadko coal mine in rebel-held Donetsk region of Ukraine. 
 
 At least 30 miners are feared dead in a suspected methane gas blast at a coal mine in a rebel-held region of eastern Ukraine.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-31725243)
 2. [Reuters via News24](http://www.news24.com/news24/World/News/Thirty-three-miners-killed-in-Ukraine-20150304)

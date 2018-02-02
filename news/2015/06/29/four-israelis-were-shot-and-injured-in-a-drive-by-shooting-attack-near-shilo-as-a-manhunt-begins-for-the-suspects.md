@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/29/four-israelis-were-shot-and-injured-in-a-drive-by-shooting-attack-near-shilo-as-a-manhunt-begins-for-the-suspects.html)  [JSON](/news/2015/06/29/four-israelis-were-shot-and-injured-in-a-drive-by-shooting-attack-near-shilo-as-a-manhunt-begins-for-the-suspects.json)  [XML](/news/2015/06/29/four-israelis-were-shot-and-injured-in-a-drive-by-shooting-attack-near-shilo-as-a-manhunt-begins-for-the-suspects.xml)  
+
 ### [2015-06-29](/news/2015/06/29/index.md)
 
+##### Israeli
 # Four Israelis were shot and injured in a drive-by shooting attack near Shilo, as a manhunt begins for the suspects. 
 
 One seriously wounded, three suffer moderate wounds after coming under fire at the Shvut Rachel Junction in the Binyamin region; this is 6th terror attack in 10 days of Ramadan.
 
 
-### Source:
+### Sources:
 
 1. [YNet](http://www.ynetnews.com/articles/0,7340,L-4674258,00.html)
 1. [Cover Image](http://www.ynetnews.com/PicServer4/2015/06/29/6139237/6139221099099640360no.jpg)

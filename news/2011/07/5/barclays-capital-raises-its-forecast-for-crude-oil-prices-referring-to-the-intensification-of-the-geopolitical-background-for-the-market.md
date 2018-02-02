@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/07/5/barclays-capital-raises-its-forecast-for-crude-oil-prices-referring-to-the-intensification-of-the-geopolitical-background-for-the-market.html)  [JSON](/news/2011/07/5/barclays-capital-raises-its-forecast-for-crude-oil-prices-referring-to-the-intensification-of-the-geopolitical-background-for-the-market.json)  [XML](/news/2011/07/5/barclays-capital-raises-its-forecast-for-crude-oil-prices-referring-to-the-intensification-of-the-geopolitical-background-for-the-market.xml)  
+
 ### [2011-07-5](/news/2011/07/5/index.md)
 
+##### Barclays Capital
 # Barclays Capital raises its forecast for crude oil prices, referring to the "intensification of the geopolitical background" for the market. 
 
 Oil prices rose to their highest in two weeks on Tuesday, aided by a broad rush back into battered commodities at the start of the third quarter and forecasts for a tighter market in the months ahead.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/07/05/us-markets-oil-idUSTRE7592LE20110705)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/07/05/us-markets-oil-idUSTRE7592LE20110705)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

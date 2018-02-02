@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/30/at-least-14-people-are-killed-in-the-indian-cit
 
 ### [2017-08-30](/news/2017/08/30/index.md)
 
+##### South Asian floods
 # At least 14 people are killed in the Indian city of Mumbai as nearly a month's average rainfall fell yesterday during the worst monsoon in years. More than 1,200 people have been killed across India, Nepal and Bangladesh. 
 
 At least five people were killed as heavy monsoon rain deluged India&#39;s financial capital Mumbai, causing transport chaos and forcing schools and many offices to close on Wednesday.

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/03/30/musical-innovator-and-fourteen-time-grammy-award-winning-producer-phil-ramone-dies-at-the-age-of-79.html)  [JSON](/news/2013/03/30/musical-innovator-and-fourteen-time-grammy-award-winning-producer-phil-ramone-dies-at-the-age-of-79.json)  [XML](/news/2013/03/30/musical-innovator-and-fourteen-time-grammy-award-winning-producer-phil-ramone-dies-at-the-age-of-79.xml)  
+
 ### [2013-03-30](/news/2013/03/30/index.md)
 
+##### Grammy Award
 # Musical innovator and fourteen-time Grammy Award winning producer Phil Ramone dies at the age of 79. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/entertainment/music/phil-ramone-grammy-winning-producer-and-musical-innovator-dead-at-72/2013/03/30/1aba452e-995d-11e2-b5b4-b63027b499de_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/entertainment/music/phil-ramone-grammy-winning-producer-and-musical-innovator-dead-at-72/2013/03/30/1aba452e-995d-11e2-b5b4-b63027b499de_story.html)
 
 ### Related:
 

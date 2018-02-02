@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/10/1/the-colorado-rockies-beat-the-san-diego-padres-in-an-extra-innings-tiebreaker-game-to-clinch-a-wild-card-birth-to-the-playoffs.html)  [JSON](/news/2007/10/1/the-colorado-rockies-beat-the-san-diego-padres-in-an-extra-innings-tiebreaker-game-to-clinch-a-wild-card-birth-to-the-playoffs.json)  [XML](/news/2007/10/1/the-colorado-rockies-beat-the-san-diego-padres-in-an-extra-innings-tiebreaker-game-to-clinch-a-wild-card-birth-to-the-playoffs.xml)  
+
 ### [2007-10-1](/news/2007/10/1/index.md)
 
+##### Colorado Rockies
 #  The Colorado Rockies beat The San Diego Padres in an extra-innings tiebreaker game to clinch a wild card birth to the playoffs
 
 

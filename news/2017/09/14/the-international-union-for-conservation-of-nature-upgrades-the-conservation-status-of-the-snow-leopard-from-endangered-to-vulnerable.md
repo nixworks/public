@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/09/14/the-international-union-for-conservation-of-nature-upgrades-the-conservation-status-of-the-snow-leopard-from-endangered-to-vulnerable.html)  [JSON](/news/2017/09/14/the-international-union-for-conservation-of-nature-upgrades-the-conservation-status-of-the-snow-leopard-from-endangered-to-vulnerable.json)  [XML](/news/2017/09/14/the-international-union-for-conservation-of-nature-upgrades-the-conservation-status-of-the-snow-leopard-from-endangered-to-vulnerable.xml)  
+
 ### [2017-09-14](/news/2017/09/14/index.md)
 
+##### Snow leopard
 # The International Union for Conservation of Nature upgrades the conservation status of the snow leopard from endangered to vulnerable. 
 
 Although no longer at imminent risk of extinction, scientists are warning the Himalayan big cat is not out of the woods yet.
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/story/snow-leopard-taken-off-endangered-list-but-still-vulnerable-11035447)
 1. [Cover Image](http://e3.365dm.com/17/09/1600x900/e1c278274702b33d9b2816d9590b34c134129540b7f46dc8307602a553d336df_4100553.jpg?20170914173131)

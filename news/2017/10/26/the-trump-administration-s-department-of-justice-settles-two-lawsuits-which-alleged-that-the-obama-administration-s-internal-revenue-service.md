@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/26/the-trump-administration-s-department-of-justic
 
 ### [2017-10-26](/news/2017/10/26/index.md)
 
+##### IRS targeting controversy
 # The Trump administration's Department of Justice settles two lawsuits which alleged that the Obama administration's Internal Revenue Service targeted conservative groups. 
 
 The government will pay millions of dollars in one settlement with hundreds of conservative groups and admit wrongdoing, though pay no damages, in another.

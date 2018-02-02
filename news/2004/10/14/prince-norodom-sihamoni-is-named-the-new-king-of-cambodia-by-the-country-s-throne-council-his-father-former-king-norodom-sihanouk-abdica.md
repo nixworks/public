@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/14/prince-norodom-sihamoni-is-named-the-new-king-of-cambodia-by-the-country-s-throne-council-his-father-former-king-norodom-sihanouk-abdica.html)  [JSON](/news/2004/10/14/prince-norodom-sihamoni-is-named-the-new-king-of-cambodia-by-the-country-s-throne-council-his-father-former-king-norodom-sihanouk-abdica.json)  [XML](/news/2004/10/14/prince-norodom-sihamoni-is-named-the-new-king-of-cambodia-by-the-country-s-throne-council-his-father-former-king-norodom-sihanouk-abdica.xml)  
+
 ### [2004-10-14](/news/2004/10/14/index.md)
 
+##### Norodom Sihamoni
 #  Prince Norodom Sihamoni is named the new King of Cambodia by the country's Throne Council. His father, former King Norodom Sihanouk, abdicated on October 7. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC News](http://www.cbc.ca/world/story/2004/10/14/cambodia_king041014.html)
 1. [Cover Image](https://i.cbc.ca/1.470050.1431707740!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/default-headline-image-news.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/31/china-relieves-sun-chunlan-of-her-post-as-party-committee-secretary-of-tianjin-china-and-replaces-her-on-an-interim-basis-with-huang-xingg.html)  [JSON](/news/2014/12/31/china-relieves-sun-chunlan-of-her-post-as-party-committee-secretary-of-tianjin-china-and-replaces-her-on-an-interim-basis-with-huang-xingg.json)  [XML](/news/2014/12/31/china-relieves-sun-chunlan-of-her-post-as-party-committee-secretary-of-tianjin-china-and-replaces-her-on-an-interim-basis-with-huang-xingg.xml)  
+
 ### [2014-12-31](/news/2014/12/31/index.md)
 
+##### Sun Chunlan
 # China relieves Sun Chunlan of her post as Party Committee Secretary of Tianjin, China, and replaces her on an interim basis with Huang Xingguo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SCMP](http://www.scmp.com/news/china/article/1671585/confusion-rare-multiple-reshuffle)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/13/a-rough-cut-of-u2-s-new-album-is-stolen-in-nice-france-the-album-is-scheduled-for-release-in-november.html)  [JSON](/news/2004/07/13/a-rough-cut-of-u2-s-new-album-is-stolen-in-nice-france-the-album-is-scheduled-for-release-in-november.json)  [XML](/news/2004/07/13/a-rough-cut-of-u2-s-new-album-is-stolen-in-nice-france-the-album-is-scheduled-for-release-in-november.xml)  
+
 ### [2004-07-13](/news/2004/07/13/index.md)
 
+##### U2
 #  A rough cut of U2's new album is stolen in Nice, France. The album is scheduled for release in November. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/entertainment/music/3899947.stm)
 

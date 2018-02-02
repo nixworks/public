@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/03/28/russia-announces-that-it-will-raise-the-price-ukraine-pays-for-russian-natural-gas-by-80.html)  [JSON](/news/2014/03/28/russia-announces-that-it-will-raise-the-price-ukraine-pays-for-russian-natural-gas-by-80.json)  [XML](/news/2014/03/28/russia-announces-that-it-will-raise-the-price-ukraine-pays-for-russian-natural-gas-by-80.xml)  
+
 ### [2014-03-28](/news/2014/03/28/index.md)
 
+##### Russia
 # Russia announces that it will raise the price Ukraine pays for Russian natural gas by 80%. 
 
 * Russia accounts for 25 pct of Ukrainian exports* Price Ukraine pays for Russian gas to rise 80 pct* Trade issues with Russia could spark so
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/03/28/ukraine-crisis-economy-idUSL5N0MP1VL20140328)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2014/03/28/ukraine-crisis-economy-idUSL5N0MP1VL20140328)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

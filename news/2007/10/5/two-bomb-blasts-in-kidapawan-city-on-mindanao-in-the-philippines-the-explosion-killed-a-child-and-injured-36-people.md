@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/5/two-bomb-blasts-in-kidapawan-city-on-mindanao-in-the-philippines-the-explosion-killed-a-child-and-injured-36-people.html)  [JSON](/news/2007/10/5/two-bomb-blasts-in-kidapawan-city-on-mindanao-in-the-philippines-the-explosion-killed-a-child-and-injured-36-people.json)  [XML](/news/2007/10/5/two-bomb-blasts-in-kidapawan-city-on-mindanao-in-the-philippines-the-explosion-killed-a-child-and-injured-36-people.xml)  
+
 ### [2007-10-5](/news/2007/10/5/index.md)
 
+##### Kidapawan City
 #  Two bomb blasts in Kidapawan City, on Mindanao in the Philippines, the explosion killed a child and injured 36 people. 
 
 In the Southern Philippines a child has been killed and 36 people injured in two bomb blasts in Kidapawan City, on Mindanao island.
 
 
-### Source:
+### Sources:
 
 1. [Radio Australia](http://www.radioaustralia.net.au/news/stories/s2052623.htm)
 

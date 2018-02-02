@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/31/german-global-financial-services-company-deutsche-bank-announces-plans-to-cut-1-900-jobs.html)  [JSON](/news/2012/07/31/german-global-financial-services-company-deutsche-bank-announces-plans-to-cut-1-900-jobs.json)  [XML](/news/2012/07/31/german-global-financial-services-company-deutsche-bank-announces-plans-to-cut-1-900-jobs.xml)  
+
 ### [2012-07-31](/news/2012/07/31/index.md)
 
+##### Deutsche Bank
 # German global financial services company Deutsche Bank announces plans to cut 1,900 jobs. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/31/us-deutschebank-savings-jobs-idUSBRE86U0KL20120731)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120731&t=2&i=636650514&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86U0XAO00)
+1. [Reuters](https://www.reuters.com/article/2012/07/31/us-deutschebank-savings-jobs-idUSBRE86U0KL20120731)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120731&t=2&i=636650514&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86U0XAO00)
 
 ### Related:
 

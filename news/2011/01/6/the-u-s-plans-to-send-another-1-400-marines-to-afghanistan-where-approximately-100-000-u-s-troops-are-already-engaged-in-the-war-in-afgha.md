@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2011/01/6/the-u-s-plans-to-send-another-1-400-marines-to-afghanistan-where-approximately-100-000-u-s-troops-are-already-engaged-in-the-war-in-afgha.html)  [JSON](/news/2011/01/6/the-u-s-plans-to-send-another-1-400-marines-to-afghanistan-where-approximately-100-000-u-s-troops-are-already-engaged-in-the-war-in-afgha.json)  [XML](/news/2011/01/6/the-u-s-plans-to-send-another-1-400-marines-to-afghanistan-where-approximately-100-000-u-s-troops-are-already-engaged-in-the-war-in-afgha.xml)  
+
 ### [2011-01-6](/news/2011/01/6/index.md)
 
+##### U.S.
 # The U.S. plans to send another 1,400 marines to Afghanistan, where approximately 100,000 U.S. troops are already engaged in the War in Afghanistan. 
 
 The United States will temporarily send 1,400 more Marines to Afghanistan in an effort to hold onto fragile security gains, but overall U.S. troop levels will not surpass previously announced limits, the Pentagon said on Thursday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE70518320110106)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110106&t=2&i=297710857&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-06T190750Z_01_BTRE7050K3Y00_RTROPTP_0_AFGHANISTAN)
+1. [Reuters](https://www.reuters.com/article/idUSTRE70518320110106)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110106&t=2&i=297710857&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-01-06T190750Z_01_BTRE7050K3Y00_RTROPTP_0_AFGHANISTAN)
 
 ### Related:
 
-1. [U.S. airstrikes in eastern Afghanistan hit an ISIS radio station and kill 29 militants. ](/news/2016/02/2/u-s-airstrikes-in-eastern-afghanistan-hit-an-isis-radio-station-and-kill-29-militants.md) _Context: Afghanistan, U.S._
-2. [The Afghan government claims that Taliban leader Mohammad Omar died in April 2013 in Pakistan of natural causes. ](/news/2015/07/29/the-afghan-government-claims-that-taliban-leader-mohammad-omar-died-in-april-2013-in-pakistan-of-natural-causes.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
-3. [Camp Bastion, the last remaining British base in Afghanistan, and Camp Leatherneck, an American base next to it, are handed over to the Afghan Government. ](/news/2014/10/26/camp-bastion-the-last-remaining-british-base-in-afghanistan-and-camp-leatherneck-an-american-base-next-to-it-are-handed-over-to-the-afgh.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
-4. [Sergeant Bowe Bergdahl, previously the only United States military prisoner held captive in Afghanistan, is released in exchange for five Taliban prisoners held at Guantanamo Bay. ](/news/2014/05/31/sergeant-bowe-bergdahl-previously-the-only-united-states-military-prisoner-held-captive-in-afghanistan-is-released-in-exchange-for-five-ta.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
-5. [10 people are killed in a camp by insurgents in western Afghanistan. ](/news/2013/08/17/10-people-are-killed-in-a-camp-by-insurgents-in-western-afghanistan.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+1. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+2. [A suicide bombing at a Shi'ite cultural center and news agency in Kabul, Afghanistan, kills 41 people and injures 84 others. ISIL-affiliated Amaq News Agency says this group is responsible. ](/news/2017/12/28/a-suicide-bombing-at-a-shiaite-cultural-center-and-news-agency-in-kabul-afghanistan-kills-41-people-and-injures-84-others-isil-affiliat.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+3. [A suicide bombing in Afghanistan's capital Kabul kills at least 8 civilians and leaves numerous wounded. The Islamic State claims responsibility. ](/news/2017/10/31/a-suicide-bombing-in-afghanistan-s-capital-kabul-kills-at-least-8-civilians-and-leaves-numerous-wounded-the-islamic-state-claims-responsibi.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+4. [U.S. airstrikes in eastern Afghanistan hit an ISIS radio station and kill 29 militants. ](/news/2016/02/2/u-s-airstrikes-in-eastern-afghanistan-hit-an-isis-radio-station-and-kill-29-militants.md) _Context: Afghanistan, U.S._
+5. [The Afghan government claims that Taliban leader Mohammad Omar died in April 2013 in Pakistan of natural causes. ](/news/2015/07/29/the-afghan-government-claims-that-taliban-leader-mohammad-omar-died-in-april-2013-in-pakistan-of-natural-causes.md) _Context: Afghanistan, War in Afghanistan (2001-present)_

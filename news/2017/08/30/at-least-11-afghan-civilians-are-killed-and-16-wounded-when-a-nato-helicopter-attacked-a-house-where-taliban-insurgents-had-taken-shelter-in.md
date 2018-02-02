@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-
 
 ### [2017-08-30](/news/2017/08/30/index.md)
 
+##### War in Afghanistan (2001-present)
 # At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. 
 
 At least 11 Afghan civilians were killed and 16 wounded on Wednesday when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar province, east of the capital, Kabul, the local governor said.

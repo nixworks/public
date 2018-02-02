@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/5/rival-militias-cease-fighting-in-the-town-of-zuwara-in-western-libya-after-the-national-transitional-council-claims-a-ceasefire.html)  [JSON](/news/2012/04/5/rival-militias-cease-fighting-in-the-town-of-zuwara-in-western-libya-after-the-national-transitional-council-claims-a-ceasefire.json)  [XML](/news/2012/04/5/rival-militias-cease-fighting-in-the-town-of-zuwara-in-western-libya-after-the-national-transitional-council-claims-a-ceasefire.xml)  
+
 ### [2012-04-5](/news/2012/04/5/index.md)
 
+##### Zuwara
 # Rival militias cease fighting in the town of Zuwara in western Libya after the National Transitional Council claims a ceasefire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.trust.org/alertnet/news/rival-militias-halt-fighting-in-western-libya/)
 

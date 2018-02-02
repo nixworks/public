@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/17/former-iraqi-minister-ali-hassan-al-majid-also-known-as-chemical-ali-is-sentenced-to-death-for-the-halabja-poison-gas-attack.html)  [JSON](/news/2010/01/17/former-iraqi-minister-ali-hassan-al-majid-also-known-as-chemical-ali-is-sentenced-to-death-for-the-halabja-poison-gas-attack.json)  [XML](/news/2010/01/17/former-iraqi-minister-ali-hassan-al-majid-also-known-as-chemical-ali-is-sentenced-to-death-for-the-halabja-poison-gas-attack.xml)  
+
 ### [2010-01-17](/news/2010/01/17/index.md)
 
+##### Iraq
 # Former Iraqi minister Ali Hassan al-Majid, also known as Chemical Ali, is sentenced to death for the Halabja poison gas attack. 
 
 Saddam aide gets fourth death sentence for gassing of Kurds in Halabja in 1988.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/01/20101177190839368.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/8463955.stm)

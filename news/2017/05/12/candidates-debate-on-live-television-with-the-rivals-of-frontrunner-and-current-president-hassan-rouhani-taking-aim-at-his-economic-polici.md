@@ -1,11 +1,9 @@
 
-### Formats:
+Formats: [HTML](/news/2017/05/12/candidates-debate-on-live-television-with-the-rivals-of-frontrunner-and-current-president-hassan-rouhani-taking-aim-at-his-economic-polici.html)  [JSON](/news/2017/05/12/candidates-debate-on-live-television-with-the-rivals-of-frontrunner-and-current-president-hassan-rouhani-taking-aim-at-his-economic-polici.json)  [XML](/news/2017/05/12/candidates-debate-on-live-television-with-the-rivals-of-frontrunner-and-current-president-hassan-rouhani-taking-aim-at-his-economic-polici.xml)  
 
-* [HTML](/news/2017/05/12/candidates-debate-on-live-television-with-the-rivals-of-frontrunner-and-current-president-hassan-rouhani-taking-aim-at-his-economic-polici.html)
-* [JSON](/news/2017/05/12/candidates-debate-on-live-television-with-the-rivals-of-frontrunner-and-current-president-hassan-rouhani-taking-aim-at-his-economic-polici.json)
-* [XML](/news/2017/05/12/candidates-debate-on-live-television-with-the-rivals-of-frontrunner-and-current-president-hassan-rouhani-taking-aim-at-his-economic-polici.xml)
 ### [2017-05-12](/news/2017/05/12/index.md)
 
+##### re-elected
 # Candidates debate on live television with the rivals of frontrunner and current president, Hassan Rouhani, taking aim at his economic policies. 
 
 Iranian President Hassan Rouhani launched a stinging attack on his main conservative rival in next week’s election, accusing him of unethical management of the nation’s holiest religious site and failing to grasp what’s needed to rebuild the economy.

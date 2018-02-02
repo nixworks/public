@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/20/voters-in-cape-verde-go-to-the-polls-for-an-ele
 
 ### [2016-03-20](/news/2016/03/20/index.md)
 
+##### Cape Verdean parliamentary election, 2016
 # Voters in Cape Verde go to the polls for an election. 
 
 Elections are held in Benin, Cape Verde, Congo, Niger and Zanzibar, while Senegal votes in a referendum on reducing presidential terms.

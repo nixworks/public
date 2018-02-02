@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/17/six-people-are-attacked-with-a-meat-cleaver-before-the-assailant-commits-suicide-at-a-market-in-foshan-china.html)  [JSON](/news/2010/05/17/six-people-are-attacked-with-a-meat-cleaver-before-the-assailant-commits-suicide-at-a-market-in-foshan-china.json)  [XML](/news/2010/05/17/six-people-are-attacked-with-a-meat-cleaver-before-the-assailant-commits-suicide-at-a-market-in-foshan-china.xml)  
+
 ### [2010-05-17](/news/2010/05/17/index.md)
 
+##### suicide
 # Six people are attacked with a meat cleaver before the assailant commits suicide at a market in Foshan, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5i9somIGFbMKtJf51_HeC8LWSBofwD9FOH9UG0)
 2. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/17/china.cleaver.attack/)

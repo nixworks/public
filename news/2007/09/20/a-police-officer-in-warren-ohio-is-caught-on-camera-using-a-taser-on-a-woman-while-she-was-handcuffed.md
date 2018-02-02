@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/20/a-police-officer-in-warren-ohio-is-caught-on-camera-using-a-taser-on-a-woman-while-she-was-handcuffed.html)  [JSON](/news/2007/09/20/a-police-officer-in-warren-ohio-is-caught-on-camera-using-a-taser-on-a-woman-while-she-was-handcuffed.json)  [XML](/news/2007/09/20/a-police-officer-in-warren-ohio-is-caught-on-camera-using-a-taser-on-a-woman-while-she-was-handcuffed.xml)  
+
 ### [2007-09-20](/news/2007/09/20/index.md)
 
+##### Warren
 #  A police officer in Warren, Ohio, is caught on camera using a taser on a woman while she was handcuffed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC7 Chicago](http://abclocal.go.com/wls/story?section=nation_world&id=5667543)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/29/japan-s-securities-and-exchange-surveillance-commission-and-the-tokyo-stock-exchange-investigate-recent-trading-activity-due-to-allegations.html)  [JSON](/news/2010/10/29/japan-s-securities-and-exchange-surveillance-commission-and-the-tokyo-stock-exchange-investigate-recent-trading-activity-due-to-allegations.json)  [XML](/news/2010/10/29/japan-s-securities-and-exchange-surveillance-commission-and-the-tokyo-stock-exchange-investigate-recent-trading-activity-due-to-allegations.xml)  
+
 ### [2010-10-29](/news/2010/10/29/index.md)
 
+##### Japan
 # Japan's Securities and Exchange Surveillance Commission and the Tokyo Stock Exchange investigate recent trading activity due to allegations of insider trading ahead of new share issues by Japanese companies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/OPINION/10/28/tokyo.insider.trading.ft/index.html?eref=edition)
 
@@ -13,6 +17,6 @@
 
 1. [The Tokyo Stock Exchange announces that it is asking for more disclosure from the embattled Japanese camera and imaging equipment manufacturer Olympus, which is facing a stock price collapse following the dismissal of its CEO, Michael Woodford. The TSE cannot at this time confirm violations of any listing requirements by Olympus. ](/news/2011/10/24/the-tokyo-stock-exchange-announces-that-it-is-asking-for-more-disclosure-from-the-embattled-japanese-camera-and-imaging-equipment-manufactur.md) _Context: Japan, Tokyo Stock Exchange_
 2. [ In Japan, former tycoon Yoshiaki Tsutsumi confesses to financial fraud and insider trading. ](/news/2005/06/16/in-japan-former-tycoon-yoshiaki-tsutsumi-confesses-to-financial-fraud-and-insider-trading.md) _Context: Japan, insider trading_
-3. [Japan's third-biggest steelmaker, Kobe Steel, admits to falsification of product data. About four percent of the aluminum and copper products that it shipped from September 2016 to August 2017 were falsely labeled as meeting the specifications requested by 200 customers, including Toyota Motor Corp, Central Japan Railway Company, Mitsubishi Heavy Industries, Mazda Motor Corp, and Subaru Corp. ](/news/2017/10/9/japan-s-third-biggest-steelmaker-kobe-steel-admits-to-falsification-of-product-data-about-four-percent-of-the-aluminum-and-copper-product.md) _Context: Japan_
-4. [The Nobel Committee awards Japanese-born British novelist Kazuo Ishiguro the Nobel Prize in Literature for his "novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world." ](/news/2017/10/5/the-nobel-committee-awards-japanese-born-british-novelist-kazuo-ishiguro-the-nobel-prize-in-literature-for-his-novels-of-great-emotional-fo.md) _Context: Japan_
-5. [Aquatic species from Japan hitched a ride on debris from the 2011 Tohoku earthquake and tsunami and were able to reach the West Coast of the United States alive. ](/news/2017/09/28/aquatic-species-from-japan-hitched-a-ride-on-debris-from-the-2011-tahoku-earthquake-and-tsunami-and-were-able-to-reach-the-west-coast-of-th.md) _Context: Japan_
+3. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_
+4. [The European Union and Japan announce that they concluded negotiations on a trade deal. ](/news/2017/12/8/the-european-union-and-japan-announce-that-they-concluded-negotiations-on-a-trade-deal.md) _Context: Japan_
+5. [A 17-pound (8 kg) CH-53E transport helicopter window lands on school grounds in Okinawa, Japan, marking the second time in less than a week that an American aircraft part has fallen on a school there. Today, a child sustains "minor injuries". The United States Marine Corps apologizes. ](/news/2017/12/13/a-17-pound-8-kg-ch-53e-transport-helicopter-window-lands-on-school-grounds-in-okinawa-japan-marking-the-second-time-in-less-than-a-week.md) _Context: Japan_

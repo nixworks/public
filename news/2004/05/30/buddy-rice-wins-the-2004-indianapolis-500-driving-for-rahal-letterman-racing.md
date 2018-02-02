@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/30/buddy-rice-wins-the-2004-indianapolis-500-driving-for-rahal-letterman-racing.html)  [JSON](/news/2004/05/30/buddy-rice-wins-the-2004-indianapolis-500-driving-for-rahal-letterman-racing.json)  [XML](/news/2004/05/30/buddy-rice-wins-the-2004-indianapolis-500-driving-for-rahal-letterman-racing.xml)  
+
 ### [2004-05-30](/news/2004/05/30/index.md)
 
+##### Buddy Rice
 #  Buddy Rice wins the 2004 Indianapolis 500 driving for Rahal Letterman Racing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sports Illustrated](http://sportsillustrated.cnn.com/2004/racing/05/30/bc.car.irl.indy500.fini.ap/)
 2. [VOA](http://www.voanews.com/article.cfm?objectID=37601F40-66FA-4895-A919F0BFCFC07A8F)

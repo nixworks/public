@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/14/at-least-six-yemeni-militants-are-killed-following-an-air-strike-on-a-police-station-in-the-abyan-governorate-that-the-militants-had-overrun.html)  [JSON](/news/2011/07/14/at-least-six-yemeni-militants-are-killed-following-an-air-strike-on-a-police-station-in-the-abyan-governorate-that-the-militants-had-overrun.json)  [XML](/news/2011/07/14/at-least-six-yemeni-militants-are-killed-following-an-air-strike-on-a-police-station-in-the-abyan-governorate-that-the-militants-had-overrun.xml)  
+
 ### [2011-07-14](/news/2011/07/14/index.md)
 
+##### Yemen
 # At least six Yemeni militants are killed following an air strike on a police station in the Abyan Governorate that the militants had overrun. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://blogs.aljazeera.net/liveblog/yemen-jul-14-2011-2115)
 

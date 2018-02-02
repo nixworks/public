@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/28/a-report-blames-pilot-error-for-the-2007-crash-of-kenya-airways-flight-507-in-cameroon.html)  [JSON](/news/2010/04/28/a-report-blames-pilot-error-for-the-2007-crash-of-kenya-airways-flight-507-in-cameroon.json)  [XML](/news/2010/04/28/a-report-blames-pilot-error-for-the-2007-crash-of-kenya-airways-flight-507-in-cameroon.xml)  
+
 ### [2010-04-28](/news/2010/04/28/index.md)
 
+##### Kenya Airways
 # A report blames pilot error for the 2007 crash of Kenya Airways Flight 507 in Cameroon. 
 
 An investigative report released Wednesday blames pilot error for the 2007 crash in Cameroon of a Kenya Airways flight.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8648806.stm)
 2. [CBC](http://www.cbc.ca/world/story/2010/04/28/kenya-airways-flight-507-report.html)

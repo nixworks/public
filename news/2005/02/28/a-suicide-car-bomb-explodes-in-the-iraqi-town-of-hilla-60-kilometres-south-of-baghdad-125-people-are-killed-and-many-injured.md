@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/28/a-suicide-car-bomb-explodes-in-the-iraqi-town-of-hilla-60-kilometres-south-of-baghdad-125-people-are-killed-and-many-injured.html)  [JSON](/news/2005/02/28/a-suicide-car-bomb-explodes-in-the-iraqi-town-of-hilla-60-kilometres-south-of-baghdad-125-people-are-killed-and-many-injured.json)  [XML](/news/2005/02/28/a-suicide-car-bomb-explodes-in-the-iraqi-town-of-hilla-60-kilometres-south-of-baghdad-125-people-are-killed-and-many-injured.xml)  
+
 ### [2005-02-28](/news/2005/02/28/index.md)
 
+##### suicide car bomb explodes
 #  A suicide car bomb explodes in the Iraqi town of Hilla, 60 kilometres south of Baghdad. 125 people are killed and many injured.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4303629.stm)
 2. [The Guardian](http://www.guardian.co.uk/Iraq/Story/0,2763,1427089,00.html)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/26/eric-gagne-former-three-time-all-star-major-league-baseball-closer-and-2003-nl-cy-young-award-winner-begins-his-mlb-record-streak-of-84-c.html)  [JSON](/news/2002/08/26/eric-gagne-former-three-time-all-star-major-league-baseball-closer-and-2003-nl-cy-young-award-winner-begins-his-mlb-record-streak-of-84-c.json)  [XML](/news/2002/08/26/eric-gagne-former-three-time-all-star-major-league-baseball-closer-and-2003-nl-cy-young-award-winner-begins-his-mlb-record-streak-of-84-c.xml)  
+
 ### [2002-08-26](/news/2002/08/26/index.md)
 
+##### ric Gagn
 #  ric Gagn, former three-time All-Star Major League Baseball closer and 2003 NL Cy Young Award winner, begins his MLB-record streak of 84 consecutive games saved.
 
 

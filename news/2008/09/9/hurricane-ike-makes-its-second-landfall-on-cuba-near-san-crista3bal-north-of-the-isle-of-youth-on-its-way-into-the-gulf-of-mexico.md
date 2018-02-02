@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/9/hurricane-ike-makes-its-second-landfall-on-cuba-near-san-crista3bal-north-of-the-isle-of-youth-on-its-way-into-the-gulf-of-mexico.html)  [JSON](/news/2008/09/9/hurricane-ike-makes-its-second-landfall-on-cuba-near-san-crista3bal-north-of-the-isle-of-youth-on-its-way-into-the-gulf-of-mexico.json)  [XML](/news/2008/09/9/hurricane-ike-makes-its-second-landfall-on-cuba-near-san-crista3bal-north-of-the-isle-of-youth-on-its-way-into-the-gulf-of-mexico.xml)  
+
 ### [2008-09-9](/news/2008/09/9/index.md)
 
+##### Hurricane Ike
 #  Hurricane Ike makes its second landfall on Cuba, near San Cristobal, north of the Isle of Youth, on its way into the Gulf of Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/US/weather/09/09/hurricane.ike/index.html)
 

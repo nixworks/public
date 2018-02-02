@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2014/07/21/a-bus-crashes-into-a-ravine-in-pakistan-s-kashmir-region-killing-16-people-with-37-others-injured.html)  [JSON](/news/2014/07/21/a-bus-crashes-into-a-ravine-in-pakistan-s-kashmir-region-killing-16-people-with-37-others-injured.json)  [XML](/news/2014/07/21/a-bus-crashes-into-a-ravine-in-pakistan-s-kashmir-region-killing-16-people-with-37-others-injured.xml)  
+
 ### [2014-07-21](/news/2014/07/21/index.md)
 
+##### ravine
 # A bus crashes into a ravine in Pakistan's Kashmir region killing 16 people with 37 others injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Global Post](http://www.globalpost.com/dispatch/news/afp/140721/passenger-bus-crash-kills-16-pakistan)
 
 ### Related:
 
-1. [Pakistan accuses eight Indian diplomats of espionage and terrorism amid rising tensions concerning Kashmir. India says it rejects these allegations. The six Pakistani diplomats withdrawn from India last week were reported to have been accused of spying. ](/news/2016/11/3/pakistan-accuses-eight-indian-diplomats-of-espionage-and-terrorism-amid-rising-tensions-concerning-kashmir-india-says-it-rejects-these-alle.md) _Context: Kashmir, Pakistan_
+1. [Pakistan accuses eight Indian diplomats of espionage and terrorism amid rising tensions concerning Kashmir. India said it rejects these allegations. The six Pakistani diplomats withdrawn from India last week were reported to have been accused of spying. ](/news/2016/11/3/pakistan-accuses-eight-indian-diplomats-of-espionage-and-terrorism-amid-rising-tensions-concerning-kashmir-india-said-it-rejects-these-alle.md) _Context: Kashmir, Pakistan_
 2. [Pakistani Chief of Air Staff Sohail Aman warns India not to escalate tensions in the disputed territory of Kashmir under the threat of a full-scale war. British Foreign Secretary Boris Johnson urges both sides to restrain themselves while on a diplomatic mission to Islamabad. ](/news/2016/11/24/pakistani-chief-of-air-staff-sohail-aman-warns-india-not-to-escalate-tensions-in-the-disputed-territory-of-kashmir-under-the-threat-of-a-ful.md) _Context: Kashmir, Pakistan_
 3. [ India and Pakistan each expel a diplomat from the other country as tensions grow over Kashmir. ](/news/2016/10/27/india-and-pakistan-each-expel-a-diplomat-from-the-other-country-as-tensions-grow-over-kashmir.md) _Context: Kashmir, Pakistan_
 4. [At least two Indian soldiers are killed after Pakistani forces opened fire along the de facto border that divides Kashmir between the two countries. ](/news/2015/11/3/at-least-two-indian-soldiers-are-killed-after-pakistani-forces-opened-fire-along-the-de-facto-border-that-divides-kashmir-between-the-two-co.md) _Context: Kashmir, Pakistan_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/15/the-academy-of-motion-picture-arts-and-sciences-changes-the-rules-regarding-the-academy-award-for-best-picture-at-the-84th-academy-awards-a.html)  [JSON](/news/2011/06/15/the-academy-of-motion-picture-arts-and-sciences-changes-the-rules-regarding-the-academy-award-for-best-picture-at-the-84th-academy-awards-a.json)  [XML](/news/2011/06/15/the-academy-of-motion-picture-arts-and-sciences-changes-the-rules-regarding-the-academy-award-for-best-picture-at-the-84th-academy-awards-a.xml)  
+
 ### [2011-06-15](/news/2011/06/15/index.md)
 
+##### Academy of Motion Picture Arts and Sciences
 # The Academy of Motion Picture Arts and Sciences changes the rules regarding the Academy Award for Best Picture at the 84th Academy Awards, allowing anywhere from five to ten nominees, provided that each receives a minimum of 5% of the nominating votes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Variety](http://www.variety.com/article/VR1118038610)
 

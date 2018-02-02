@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/30/the-temple-mount-in-jerusalem-was-closed-to-all-visitors-for-the-first-time-since-2000-following-the-attempted-assassination-of-israeli-act.html)  [JSON](/news/2014/10/30/the-temple-mount-in-jerusalem-was-closed-to-all-visitors-for-the-first-time-since-2000-following-the-attempted-assassination-of-israeli-act.json)  [XML](/news/2014/10/30/the-temple-mount-in-jerusalem-was-closed-to-all-visitors-for-the-first-time-since-2000-following-the-attempted-assassination-of-israeli-act.xml)  
+
 ### [2014-10-30](/news/2014/10/30/index.md)
 
+##### Temple Mount
 # The Temple Mount in Jerusalem was closed to all visitors for the first time since 2000, following the attempted assassination of Israeli activist Yehuda Glick. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/Arab-Israeli-Conflict/PA-chief-Closing-of-Temple-Mount-tantamount-to-declaration-of-war-380259)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=260358)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/04/13/pope-francis-appoints-a-panel-of-nine-high-ranking-prelates-from-around-the-world-to-advise-him-of-the-running-of-the-catholic-church-and-ad.html)  [JSON](/news/2013/04/13/pope-francis-appoints-a-panel-of-nine-high-ranking-prelates-from-around-the-world-to-advise-him-of-the-running-of-the-catholic-church-and-ad.json)  [XML](/news/2013/04/13/pope-francis-appoints-a-panel-of-nine-high-ranking-prelates-from-around-the-world-to-advise-him-of-the-running-of-the-catholic-church-and-ad.xml)  
+
 ### [2013-04-13](/news/2013/04/13/index.md)
 
+##### Pope Francis
 # Pope Francis appoints a panel of nine high-ranking prelates from around the world to advise him of the running of the Catholic Church and advise him on the reform of the Vatican bureaucracy. 
 
-Pope Francis marked his first month as pope on Saturday by naming nine high-ranking prelates from around the globe to a permanent advisory group to help him run the Catholic Church.
 
 
-### Source:
 
-1. [AP via ''USA Today](http://www.usatoday.com/story/news/world/2013/04/13/pope-advisers-vatican-bureaucracy/2079635/)
+### Sources:
+
+1. [AP via ''USA Today](https://www.usatoday.com/story/news/world/2013/04/13/pope-advisers-vatican-bureaucracy/2079635/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

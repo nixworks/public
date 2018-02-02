@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/6/hundreds-of-people-in-afghanistan-demonstrate-against-alleged-mistreatment-and-executions-of-afghan-refugees-in-iran.html)  [JSON](/news/2010/05/6/hundreds-of-people-in-afghanistan-demonstrate-against-alleged-mistreatment-and-executions-of-afghan-refugees-in-iran.json)  [XML](/news/2010/05/6/hundreds-of-people-in-afghanistan-demonstrate-against-alleged-mistreatment-and-executions-of-afghan-refugees-in-iran.xml)  
+
 ### [2010-05-6](/news/2010/05/6/index.md)
 
+##### Afghanistan
 # Hundreds of people in Afghanistan demonstrate against alleged mistreatment and executions of Afghan refugees in Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8664289.stm)
 

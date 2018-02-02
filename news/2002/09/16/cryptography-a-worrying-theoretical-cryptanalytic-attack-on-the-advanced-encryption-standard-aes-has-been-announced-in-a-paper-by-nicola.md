@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/09/16/cryptography-a-worrying-theoretical-cryptanalytic-attack-on-the-advanced-encryption-standard-aes-has-been-announced-in-a-paper-by-nicola.html)  [JSON](/news/2002/09/16/cryptography-a-worrying-theoretical-cryptanalytic-attack-on-the-advanced-encryption-standard-aes-has-been-announced-in-a-paper-by-nicola.json)  [XML](/news/2002/09/16/cryptography-a-worrying-theoretical-cryptanalytic-attack-on-the-advanced-encryption-standard-aes-has-been-announced-in-a-paper-by-nicola.xml)  
+
 ### [2002-09-16](/news/2002/09/16/index.md)
 
+##### Cryptography
 #  Cryptography: A worrying theoretical cryptanalytic attack on the Advanced Encryption Standard (AES) has been announced in a paper by Nicolas Courtois and Josef Pieprzyk entitled "Cryptanalysis of Block Ciphers with Overdefined Systems of Equations". This appears to show a surprising potential theoretical weakness in the AES algorithm.
 
 

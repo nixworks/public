@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/3/at-least-one-person-is-killed-and-six-others-are
 
 ### [2017-07-3](/news/2017/07/3/index.md)
 
+##### Toulouse
 # At least one person is killed and six others are injured in a shooting in the French city of Toulouse. 
 
 AT least one person is dead and six others injured in a shooting in the French city of Toulouse.

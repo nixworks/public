@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/17/a-report-by-the-taiwanese-defense-ministry-stat
 
 ### [2016-02-17](/news/2016/02/17/index.md)
 
+##### Territorial disputes in the South China Sea
 # A report by the Taiwanese Defense Ministry states that China has placed surface-to-air missiles on the disputed Woody Island. Taiwanese President-elect Tsai Ing-wen called on all parties to "exercise self-control based on the principle of peaceful resolution of disputes in the South China Sea," while Harry B. Harris Jr., commander of the US Pacific Fleet, said that such a move would be "a militarization of the South China Sea in ways" that China's President Xi Jinping had pledged not to make. 
 
 Taiwan says China has deployed surface-to-air missiles on a disputed island in the South China Sea, but Beijing says it is an invention of the media.

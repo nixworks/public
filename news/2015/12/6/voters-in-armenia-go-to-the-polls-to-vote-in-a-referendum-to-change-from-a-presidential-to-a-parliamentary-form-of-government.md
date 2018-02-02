@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2015/12/6/voters-in-armenia-go-to-the-polls-to-vote-in-a-referendum-to-change-from-a-presidential-to-a-parliamentary-form-of-government.html)  [JSON](/news/2015/12/6/voters-in-armenia-go-to-the-polls-to-vote-in-a-referendum-to-change-from-a-presidential-to-a-parliamentary-form-of-government.json)  [XML](/news/2015/12/6/voters-in-armenia-go-to-the-polls-to-vote-in-a-referendum-to-change-from-a-presidential-to-a-parliamentary-form-of-government.xml)  
+
 ### [2015-12-6](/news/2015/12/6/index.md)
 
+##### referendum
 # Voters in Armenia go to the polls to vote in a referendum to change from a presidential to a parliamentary form of government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Free Europe/Radio Liberty](http://www.rferl.org/content/armenia-referendum-constitution-sarkisian/27409522.html)
+
+### Changes:
+
+1. [Armenian constitutional referendum, 2015: Voters in Armenia go to the polls to vote in a referendum to change from a presidential to a parliamentary form of government. ](/news/2015/12/6/armenian-constitutional-referendum-2015-voters-in-armenia-go-to-the-polls-to-vote-in-a-referendum-to-change-from-a-presidential-to-a-parli.md) _2017-08-27 03:44:12 (First version)_
+1. [Voters in Armenia go to the polls to vote in a referendum to change from a presidential to a parliamentary form of government. ](/news/2015/12/6/voters-in-armenia-go-to-the-polls-to-vote-in-a-referendum-to-change-from-a-presidential-to-a-parliamentary-form-of-government.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [Authorities declare that the Republican Party, led by President Serzh Sargsyan, wins the Armenia election amid accusations by opposition parties and the Organization for Security and Co-operation in Europe of voting irregularities. ](/news/2017/04/3/authorities-declare-that-the-republican-party-led-by-president-serzh-sargsyan-wins-the-armenia-election-amid-accusations-by-opposition-par.md) _Context: Armenia_
 4. [Armenia and the European Union agree on a new pact to boost ties between the two. It is expected to be signed later this year. This comes after Armenia rejected an Association Agreement in 2013. ](/news/2017/02/27/armenia-and-the-european-union-agree-on-a-new-pact-to-boost-ties-between-the-two-it-is-expected-to-be-signed-later-this-year-this-comes-af.md) _Context: Armenia_
 5. [In a referendum held yesterday in the breakaway state of Nagorno-Karabakh (a region long claimed by both Azerbaijan and Armenia), 87.6% of voters approve changing the country's governance system from semi-presidential to full presidential, therefore abolishing the position of prime minister. ](/news/2017/02/21/in-a-referendum-held-yesterday-in-the-breakaway-state-of-nagorno-karabakh-a-region-long-claimed-by-both-azerbaijan-and-armenia-87-6-of-v.md) _Context: Armenia_
-
-### Changes:
-
-1. [Armenian constitutional referendum, 2015: Voters in Armenia go to the polls to vote in a referendum to change from a presidential to a parliamentary form of government. ](/news/2015/12/6/armenian-constitutional-referendum-2015-voters-in-armenia-go-to-the-polls-to-vote-in-a-referendum-to-change-from-a-presidential-to-a-parli.md) _2017-08-27 03:44:12 (First version)_
-1. [Voters in Armenia go to the polls to vote in a referendum to change from a presidential to a parliamentary form of government. ](/news/2015/12/6/voters-in-armenia-go-to-the-polls-to-vote-in-a-referendum-to-change-from-a-presidential-to-a-parliamentary-form-of-government.md) _(Current version)_

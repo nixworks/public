@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/16/in-richmond-virginia-thousands-of-people-stampede-at-the-richmond-international-raceway-to-obtain-one-of-1000-50-ibooks-being-liquidated.html)  [JSON](/news/2005/08/16/in-richmond-virginia-thousands-of-people-stampede-at-the-richmond-international-raceway-to-obtain-one-of-1000-50-ibooks-being-liquidated.json)  [XML](/news/2005/08/16/in-richmond-virginia-thousands-of-people-stampede-at-the-richmond-international-raceway-to-obtain-one-of-1000-50-ibooks-being-liquidated.xml)  
+
 ### [2005-08-16](/news/2005/08/16/index.md)
 
+##### Richmond, Virginia
 #  In Richmond, Virginia, thousands of people stampede at the Richmond International Raceway to obtain one of 1000 $50 iBooks being liquidated by the Henrico County school district. Seventeen people suffer minor injuries, with four requiring hospital treatment. 
 
 A rush to purchase $50 used laptops turned into a violent stampede Tuesday, with people getting thrown to the pavement, beaten with a folding chair and nearly driven over. 
 
 
-### Source:
+### Sources:
 
 1. [Cincinnati Post](https://web.archive.org/web/20060207094433/http://news.cincypost.com/apps/pbcs.dll/article?AID=/20050817/BIZ/508170346/1001)
 2. [MSNBC](http://msnbc.msn.com/id/8973616/)

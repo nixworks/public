@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/30/the-new-zealand-cabinet-is-reshuffled-with-three-new-ministers-appointed-and-two-leaving-cabinet.html)  [JSON](/news/2007/10/30/the-new-zealand-cabinet-is-reshuffled-with-three-new-ministers-appointed-and-two-leaving-cabinet.json)  [XML](/news/2007/10/30/the-new-zealand-cabinet-is-reshuffled-with-three-new-ministers-appointed-and-two-leaving-cabinet.xml)  
+
 ### [2007-10-30](/news/2007/10/30/index.md)
 
+##### Cabinet Minister
 #  The New Zealand Cabinet is reshuffled, with three new ministers appointed, and two leaving Cabinet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Zealand Herald](http://www.nzherald.co.nz/section/1/story.cfm?c_id=1&objectid=10473176&pnum=0)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/11/18/the-nintendo-gamecube-is-released-in-the-united-states-with-13-launch-titles.html)  [JSON](/news/2001/11/18/the-nintendo-gamecube-is-released-in-the-united-states-with-13-launch-titles.json)  [XML](/news/2001/11/18/the-nintendo-gamecube-is-released-in-the-united-states-with-13-launch-titles.xml)  
+
 ### [2001-11-18](/news/2001/11/18/index.md)
 
+##### Nintendo
 #  The Nintendo GameCube is released in the United States with 13 launch titles.
 
 

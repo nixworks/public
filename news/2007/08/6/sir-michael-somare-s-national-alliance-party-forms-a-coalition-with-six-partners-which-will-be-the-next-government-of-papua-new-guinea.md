@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/6/sir-michael-somare-s-national-alliance-party-forms-a-coalition-with-six-partners-which-will-be-the-next-government-of-papua-new-guinea.html)  [JSON](/news/2007/08/6/sir-michael-somare-s-national-alliance-party-forms-a-coalition-with-six-partners-which-will-be-the-next-government-of-papua-new-guinea.json)  [XML](/news/2007/08/6/sir-michael-somare-s-national-alliance-party-forms-a-coalition-with-six-partners-which-will-be-the-next-government-of-papua-new-guinea.xml)  
+
 ### [2007-08-6](/news/2007/08/6/index.md)
 
+##### Michael Somare
 #  Sir Michael Somare's National Alliance Party forms a coalition with six partners which will be the next government of Papua New Guinea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=34182)
 

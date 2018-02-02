@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/04/1/health-authorities-in-fiji-are-urging-people-to-observe-strict-personal-hygiene-as-the-country-goes-through-a-massive-outbreak-of-conjunctiv.html)  [JSON](/news/2016/04/1/health-authorities-in-fiji-are-urging-people-to-observe-strict-personal-hygiene-as-the-country-goes-through-a-massive-outbreak-of-conjunctiv.json)  [XML](/news/2016/04/1/health-authorities-in-fiji-are-urging-people-to-observe-strict-personal-hygiene-as-the-country-goes-through-a-massive-outbreak-of-conjunctiv.xml)  
+
 ### [2016-04-1](/news/2016/04/1/index.md)
 
+##### Fiji
 # Health authorities in Fiji are urging people to observe strict personal hygiene as the country goes through a massive outbreak of conjunctivitis. In the past 14 days alone the number of cases of the virus in one district of Suva have jumped from 700 to 5000 cases. 
 
 Health authorities in Fiji are urging people to observe strict personal hygiene as the country goes through a massive outbreak of conjunctivitus or Pink Eye. 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.radionz.co.nz/international/programmes/datelinepacific/audio/201795414/fiji-pink-eye-outbreak-sees-5000-cases-in-two-weeks)
 1. [Cover Image](http://www.radionz.co.nz/assets/programmes/icons/355/300_datelinepacific-1400.jpg?1470710242)

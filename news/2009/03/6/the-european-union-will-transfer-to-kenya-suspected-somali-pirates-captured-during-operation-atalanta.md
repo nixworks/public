@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/6/the-european-union-will-transfer-to-kenya-suspected-somali-pirates-captured-during-operation-atalanta.html)  [JSON](/news/2009/03/6/the-european-union-will-transfer-to-kenya-suspected-somali-pirates-captured-during-operation-atalanta.json)  [XML](/news/2009/03/6/the-european-union-will-transfer-to-kenya-suspected-somali-pirates-captured-during-operation-atalanta.xml)  
+
 ### [2009-03-6](/news/2009/03/6/index.md)
 
+##### European Union
 #  The European Union will transfer to Kenya suspected Somali pirates captured during Operation Atalanta. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5j-v7AUrkaJF3bzebuMFdkmoVVLxg)
 

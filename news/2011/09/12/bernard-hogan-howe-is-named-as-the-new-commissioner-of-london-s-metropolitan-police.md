@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/12/bernard-hogan-howe-is-named-as-the-new-commissioner-of-london-s-metropolitan-police.html)  [JSON](/news/2011/09/12/bernard-hogan-howe-is-named-as-the-new-commissioner-of-london-s-metropolitan-police.json)  [XML](/news/2011/09/12/bernard-hogan-howe-is-named-as-the-new-commissioner-of-london-s-metropolitan-police.xml)  
+
 ### [2011-09-12](/news/2011/09/12/index.md)
 
+##### Bernard Hogan-Howe
 # Bernard Hogan-Howe is named as the new Commissioner of London's Metropolitan Police. 
 
 Bernard Hogan-Howe is named as the new commissioner of the Metropolitan Police.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-14888118)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55323000/jpg/_55323929_012891373-1.jpg)

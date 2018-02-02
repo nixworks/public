@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/2/japan-temporarily-recalls-its-ambassador-to-russia-amid-a-dispute-over-a-visit-by-president-dmitry-medvedev-to-the-kuril-islands.html)  [JSON](/news/2010/11/2/japan-temporarily-recalls-its-ambassador-to-russia-amid-a-dispute-over-a-visit-by-president-dmitry-medvedev-to-the-kuril-islands.json)  [XML](/news/2010/11/2/japan-temporarily-recalls-its-ambassador-to-russia-amid-a-dispute-over-a-visit-by-president-dmitry-medvedev-to-the-kuril-islands.xml)  
+
 ### [2010-11-2](/news/2010/11/2/index.md)
 
+##### Japan
 # Japan temporarily recalls its ambassador to Russia amid a dispute over a visit by President Dmitry Medvedev to the Kuril Islands. 
 
 Russian President Dmitry Medvedev is said to be planning to visit more of the disputed Kuril Islands, despite growing anger from Japan.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11671514)
 2. [RIA Novosti](http://en.rian.ru/world/20101102/161177148.html)

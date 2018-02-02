@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/22/pakistan-announces-it-will-send-more-troops-to-bahrain-in-support-of-the-king-of-bahrain-hamad-bin-isa-al-khalifa.html)  [JSON](/news/2011/08/22/pakistan-announces-it-will-send-more-troops-to-bahrain-in-support-of-the-king-of-bahrain-hamad-bin-isa-al-khalifa.json)  [XML](/news/2011/08/22/pakistan-announces-it-will-send-more-troops-to-bahrain-in-support-of-the-king-of-bahrain-hamad-bin-isa-al-khalifa.xml)  
+
 ### [2011-08-22](/news/2011/08/22/index.md)
 
+##### Pakistan
 # Pakistan announces it will send more troops to Bahrain in support of the King of Bahrain Hamad bin Isa Al Khalifa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Nation](http://nation.com.pk/pakistan-news-newspaper-daily-english-online/Politics/22-Aug-2011/Pakistan-to-send-more-troops-to-Bahrain)
 

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/02/24/the-ministry-of-commerce-of-the-people-s-republic-of-china-rejects-tengzhong-s-bid-to-purchase-hummer-from-general-motors.html)  [JSON](/news/2010/02/24/the-ministry-of-commerce-of-the-people-s-republic-of-china-rejects-tengzhong-s-bid-to-purchase-hummer-from-general-motors.json)  [XML](/news/2010/02/24/the-ministry-of-commerce-of-the-people-s-republic-of-china-rejects-tengzhong-s-bid-to-purchase-hummer-from-general-motors.xml)  
+
 ### [2010-02-24](/news/2010/02/24/index.md)
 
+##### Ministry of Commerce
 # The Ministry of Commerce of the People's Republic of China rejects Tengzhong's bid to purchase Hummer from General Motors. 
 
 A deal to sell Hummer stalled as the companies awaited approval from the Chinese government.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2010/02/25/business/25hummer.html?hp)
-2. [Reuters](http://www.reuters.com/article/idUSTRE61N0S120100224)
+1. [New York Times](https://www.nytimes.com/2010/02/25/business/25hummer.html?hp)
+2. [Reuters](https://www.reuters.com/article/idUSTRE61N0S120100224)
 2. [Cover Image](https://static01.nyt.com/images/2010/02/25/automobiles/25hummer-image1/25hummer-image1-thumbStandard.jpg)
 
 ### Related:

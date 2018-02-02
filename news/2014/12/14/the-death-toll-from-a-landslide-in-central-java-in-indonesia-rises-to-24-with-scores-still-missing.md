@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/14/the-death-toll-from-a-landslide-in-central-java-in-indonesia-rises-to-24-with-scores-still-missing.html)  [JSON](/news/2014/12/14/the-death-toll-from-a-landslide-in-central-java-in-indonesia-rises-to-24-with-scores-still-missing.json)  [XML](/news/2014/12/14/the-death-toll-from-a-landslide-in-central-java-in-indonesia-rises-to-24-with-scores-still-missing.xml)  
+
 ### [2014-12-14](/news/2014/12/14/index.md)
 
+##### landslide
 # The death toll from a landslide in central Java in Indonesia rises to 24 with scores still missing. 
 
 Rescuers were hampered by a lack of equipment after the landslide roared down a mountainside and destroyed a remote village.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via NBC News](http://www.nbcnews.com/news/world/scores-missing-indonesia-landslide-death-toll-hits-24-n267681)
 1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2014_50/807426/141213-indonesia-landslide-02_052ee74b82916c9ad25e1e859f60dd19.nbcnews-fp-1200-800.jpg)

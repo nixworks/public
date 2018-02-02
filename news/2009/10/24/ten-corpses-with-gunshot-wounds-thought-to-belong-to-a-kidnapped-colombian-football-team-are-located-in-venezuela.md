@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/24/ten-corpses-with-gunshot-wounds-thought-to-belong-to-a-kidnapped-colombian-football-team-are-located-in-venezuela.html)  [JSON](/news/2009/10/24/ten-corpses-with-gunshot-wounds-thought-to-belong-to-a-kidnapped-colombian-football-team-are-located-in-venezuela.json)  [XML](/news/2009/10/24/ten-corpses-with-gunshot-wounds-thought-to-belong-to-a-kidnapped-colombian-football-team-are-located-in-venezuela.xml)  
+
 ### [2009-10-24](/news/2009/10/24/index.md)
 
+##### corpses with gunshot wounds
 #  Ten corpses with gunshot wounds thought to belong to a kidnapped Colombian football team are located in Venezuela. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8324496.stm)
 2. [Latin American Herald Tribune](http://www.laht.com/article.asp?ArticleId=346064&CategoryId=10717#)

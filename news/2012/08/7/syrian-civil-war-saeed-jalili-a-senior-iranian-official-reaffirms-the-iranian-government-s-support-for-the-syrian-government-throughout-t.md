@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2012/08/7/syrian-civil-war-saeed-jalili-a-senior-iranian-official-reaffirms-the-iranian-government-s-support-for-the-syrian-government-throughout-t.html)  [JSON](/news/2012/08/7/syrian-civil-war-saeed-jalili-a-senior-iranian-official-reaffirms-the-iranian-government-s-support-for-the-syrian-government-throughout-t.json)  [XML](/news/2012/08/7/syrian-civil-war-saeed-jalili-a-senior-iranian-official-reaffirms-the-iranian-government-s-support-for-the-syrian-government-throughout-t.xml)  
+
 ### [2012-08-7](/news/2012/08/7/index.md)
 
+##### Syrian civil war
 # Syrian civil war: Saeed Jalili, a senior Iranian official, reaffirms the Iranian government's support for the Syrian government throughout the crisis. 
 
 Senior Iranian official meets Assad in Damascus as new deaths are reported in Aleppo where troops are battling rebels.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/08/201287142241794676.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/8/7/20128715746629734_20.jpg)
 
 ### Related:
 
-1. [Iran fires medium range ballistic missiles from western Iran to ISIL targets in Deir ez-Zor Governorate, eastern Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-fires-medium-range-ballistic-missiles-from-western-iran-to-isil-targets-in-deir-ez-zor-governorate-eastern-syria-in-retaliation-for-t.md) _Context: Iran, Syria, Syrian Civil War_
-2. [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md) _Context: Iran, Syria, Syrian Civil War_
-3. [ At least 13 Iranian soldiers are killed in a battle with Islamist militants in a village near Aleppo, Syria. This is the largest single day loss for the Iranians since the start of the conflict. ](/news/2016/05/7/at-least-13-iranian-soldiers-are-killed-in-a-battle-with-islamist-militants-in-a-village-near-aleppo-syria-this-is-the-largest-single-day.md) _Context: Iran, Syria, Syrian Civil War_
-4. [Iranian state television says Revolutionary Guard brigadier general, Hossein Hamadani, has been killed on the outskirts of Syria's Aleppo by Islamic State of Iraq and the Levant militants. This is the latest in a string of high-ranking Iranian commanders killed in Iraq and Syria in the last six months. ](/news/2015/10/9/iranian-state-television-says-revolutionary-guard-brigadier-general-hossein-hamadani-has-been-killed-on-the-outskirts-of-syria-s-aleppo-by.md) _Context: Iran, Syria, Syrian Civil War_
-5. [Representatives from about 20 countries meet in Vienna, Austria, seeking a political solution to Syria's four-year civil war that has killed more than 250,000 people, including dozens more today. For the first time Iran is at the table, where diplomats seek peace through a ceasefire plan followed by a transitional government. ](/news/2015/10/30/representatives-from-about-20-countries-meet-in-vienna-austria-seeking-a-political-solution-to-syria-s-four-year-civil-war-that-has-killed.md) _Context: Iran, Syria, Syrian Civil War_
+1. [Iran fires medium range ballistic missiles from western Iran to ISIL targets in Deir ez-Zor Governorate, eastern Syria, in retaliation for the June 7 Tehran attacks. ](/news/2017/06/18/iran-fires-medium-range-ballistic-missiles-from-western-iran-to-isil-targets-in-deir-ez-zor-governorate-eastern-syria-in-retaliation-for-t.md) _Context: Iran, Syria_
+2. [A memorandum is signed by Russia, Iran, and Turkey calling for de-escalation of the Syrian Civil War, although neither the Syrian government nor the Syrian opposition are signatories. ](/news/2017/05/4/a-memorandum-is-signed-by-russia-iran-and-turkey-calling-for-de-escalation-of-the-syrian-civil-war-although-neither-the-syrian-government.md) _Context: Iran, Syria_
+3. [Iraq's Popular Mobilization Forces, assisted by Iran, say they cleared ISIL out of several villages north of Ba'aj on the border with Syria. ](/news/2017/05/29/iraq-s-popular-mobilization-forces-assisted-by-iran-say-they-cleared-isil-out-of-several-villages-north-of-ba-aj-on-the-border-with-syria.md) _Context: Iran, Syria_
+4. [Travelers from Iran, Iraq, Libya, Somalia, Sudan, Syria, and Yemen are blocked from entering the United States as the executive order takes effect. ](/news/2017/01/28/travelers-from-iran-iraq-libya-somalia-sudan-syria-and-yemen-are-blocked-from-entering-the-united-states-as-the-executive-order-takes.md) _Context: Iran, Syria_
+5. [President Trump signs an executive order limiting refugees and immigration from seven Muslim-majority countries, including Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. The order also prioritizes the vetting of Christian refugees of the Syrian Civil War. ](/news/2017/01/27/president-trump-signs-an-executive-order-limiting-refugees-and-immigration-from-seven-muslim-majority-countries-including-iran-iraq-libya.md) _Context: Iran, Syria_

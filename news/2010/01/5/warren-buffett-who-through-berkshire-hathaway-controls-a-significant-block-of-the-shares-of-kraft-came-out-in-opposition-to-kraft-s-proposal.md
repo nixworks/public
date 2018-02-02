@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/01/5/warren-buffett-who-through-berkshire-hathaway-controls-a-significant-block-of-the-shares-of-kraft-came-out-in-opposition-to-kraft-s-proposal.html)  [JSON](/news/2010/01/5/warren-buffett-who-through-berkshire-hathaway-controls-a-significant-block-of-the-shares-of-kraft-came-out-in-opposition-to-kraft-s-proposal.json)  [XML](/news/2010/01/5/warren-buffett-who-through-berkshire-hathaway-controls-a-significant-block-of-the-shares-of-kraft-came-out-in-opposition-to-kraft-s-proposal.xml)  
+
 ### [2010-01-5](/news/2010/01/5/index.md)
 
+##### Warren Buffett
 # Warren Buffett who through Berkshire Hathaway controls a significant block of the shares of Kraft came out in opposition to Kraft's proposal to float 370 million shares in order to fund its bid for the UK based confectioner Cadbury. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/01/05/AR2010010503860.html?wprss=rss_business)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/01/05/AR2010010503860.html?wprss=rss_business)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

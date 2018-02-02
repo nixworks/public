@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/13/erastus-akingbola-former-head-of-the-intercontinental-bank-of-nigeria-is-charged-with-22-counts-of-involvement-in-the-bank-s-near-collapse.html)  [JSON](/news/2010/08/13/erastus-akingbola-former-head-of-the-intercontinental-bank-of-nigeria-is-charged-with-22-counts-of-involvement-in-the-bank-s-near-collapse.json)  [XML](/news/2010/08/13/erastus-akingbola-former-head-of-the-intercontinental-bank-of-nigeria-is-charged-with-22-counts-of-involvement-in-the-bank-s-near-collapse.xml)  
+
 ### [2010-08-13](/news/2010/08/13/index.md)
 
+##### Erastus Akingbola
 # Erastus Akingbola, former head of the Intercontinental Bank of Nigeria, is charged with 22 counts of involvement in the bank's near collapse at a court in Lagos; he denies all counts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-10967219)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

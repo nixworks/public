@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/4/israel-threatens-to-cut-off-electricity-water-and-fuel-supplies-to-the-gaza-strip-for-hours-if-hamas-launches-rocket-attacks.html)  [JSON](/news/2007/09/4/israel-threatens-to-cut-off-electricity-water-and-fuel-supplies-to-the-gaza-strip-for-hours-if-hamas-launches-rocket-attacks.json)  [XML](/news/2007/09/4/israel-threatens-to-cut-off-electricity-water-and-fuel-supplies-to-the-gaza-strip-for-hours-if-hamas-launches-rocket-attacks.xml)  
+
 ### [2007-09-4](/news/2007/09/4/index.md)
 
+##### Israel
 #  Israel threatens to cut off electricity, water and fuel supplies to the Gaza Strip for hours if Hamas launches rocket attacks. 
 
 Israeli Deputy Prime Minister Haim Ramon has threatened to cut electricity, water and fuel supplies into Gaza if militants in the Hamas-ruled territory continue to fire rockets into Israel.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/09/04/2024130.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

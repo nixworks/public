@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/18/most-of-the-wreckage-of-us-airways-flight-1549-is-successfully-recovered-from-the-hudson-river.html)  [JSON](/news/2009/01/18/most-of-the-wreckage-of-us-airways-flight-1549-is-successfully-recovered-from-the-hudson-river.json)  [XML](/news/2009/01/18/most-of-the-wreckage-of-us-airways-flight-1549-is-successfully-recovered-from-the-hudson-river.xml)  
+
 ### [2009-01-18](/news/2009/01/18/index.md)
 
+##### US Airways
 #  Most of the wreckage of US Airways Flight 1549 is successfully recovered from the Hudson River. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/story/0,2933,480434,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

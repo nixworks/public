@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/22/typhoon-megi-kills-7-people-and-leaves-23-missing-after-triggering-landslides-in-taiwan.html)  [JSON](/news/2010/10/22/typhoon-megi-kills-7-people-and-leaves-23-missing-after-triggering-landslides-in-taiwan.json)  [XML](/news/2010/10/22/typhoon-megi-kills-7-people-and-leaves-23-missing-after-triggering-landslides-in-taiwan.xml)  
+
 ### [2010-10-22](/news/2010/10/22/index.md)
 
+##### Typhoon Megi
 # Typhoon Megi kills 7 people and leaves 23 missing after triggering landslides in Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gCZ3eiquCytKrK8-JSeb5K8n1VoA?docId=CNG.2f057538640f1e680daa7203d3609eff.b91)
 2. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aSOC&ID=201010220045)

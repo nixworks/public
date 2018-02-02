@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/11/19/a-suicide-blast-near-the-judicial-complex-in-peshawar-pakistan-kills-at-least-17-people-and-wounds-more-than-30-others.html)  [JSON](/news/2009/11/19/a-suicide-blast-near-the-judicial-complex-in-peshawar-pakistan-kills-at-least-17-people-and-wounds-more-than-30-others.json)  [XML](/news/2009/11/19/a-suicide-blast-near-the-judicial-complex-in-peshawar-pakistan-kills-at-least-17-people-and-wounds-more-than-30-others.xml)  
+
 ### [2009-11-19](/news/2009/11/19/index.md)
 
+##### Peshawar
 #  A suicide blast near the judicial complex in Peshawar, Pakistan, kills at least 17 people and wounds more than 30 others. 
 
 Militants killed 17 outside a courthouse in Peshawar, the seventh attack in two weeks in the city.
 
 
-### Source:
+### Sources:
 
-1. [NY Times](http://www.nytimes.com/2009/11/20/world/asia/20pstan.html?_r=1&ref=global-home)
+1. [NY Times](https://www.nytimes.com/2009/11/20/world/asia/20pstan.html?_r=1&ref=global-home)
 1. [Cover Image](https://static01.nyt.com/images/2009/11/19/world/19cnd-pstan-inline1/thumbStandard.jpg)
 
 ### Related:

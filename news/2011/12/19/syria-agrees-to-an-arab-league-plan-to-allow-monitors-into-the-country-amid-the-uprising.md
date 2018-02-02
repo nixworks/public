@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2011/12/19/syria-agrees-to-an-arab-league-plan-to-allow-monitors-into-the-country-amid-the-uprising.html)  [JSON](/news/2011/12/19/syria-agrees-to-an-arab-league-plan-to-allow-monitors-into-the-country-amid-the-uprising.json)  [XML](/news/2011/12/19/syria-agrees-to-an-arab-league-plan-to-allow-monitors-into-the-country-amid-the-uprising.xml)  
+
 ### [2011-12-19](/news/2011/12/19/index.md)
 
+##### Syria
 # Syria agrees to an Arab League plan to allow monitors into the country amid the uprising. 
 
+Syria agreed to an Arab League proposal that will allow monitors into the country as regional states seek to end the crackdown on protesters that has claimed at least 5,000 lives.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2011-12-19/syria-agrees-to-arab-league-monitoring-plan.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2011-12-19/syria-agrees-to-arab-league-monitoring-plan.html)
+1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

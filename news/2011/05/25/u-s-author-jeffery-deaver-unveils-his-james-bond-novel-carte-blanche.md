@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/25/u-s-author-jeffery-deaver-unveils-his-james-bond-novel-carte-blanche.html)  [JSON](/news/2011/05/25/u-s-author-jeffery-deaver-unveils-his-james-bond-novel-carte-blanche.json)  [XML](/news/2011/05/25/u-s-author-jeffery-deaver-unveils-his-james-bond-novel-carte-blanche.xml)  
+
 ### [2011-05-25](/news/2011/05/25/index.md)
 
+##### United States of America
 # U.S. author Jeffery Deaver unveils his James Bond novel, "Carte Blanche". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-13540943)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52991000/jpg/_52991747_012067993-2.jpg)

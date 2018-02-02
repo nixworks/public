@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/12/8/nintendo-wii-is-released-in-europe.html)  [JSON](/news/2006/12/8/nintendo-wii-is-released-in-europe.json)  [XML](/news/2006/12/8/nintendo-wii-is-released-in-europe.xml)  
+
 ### [2006-12-8](/news/2006/12/8/index.md)
 
+##### Nintendo
 #  Nintendo Wii is released in Europe
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/10/libyan-leader-muammar-al-gaddafi-says-he-will-demand-a-permanent-place-in-the-united-nations-security-council-for-africa-and-compensation-w.html)  [JSON](/news/2009/09/10/libyan-leader-muammar-al-gaddafi-says-he-will-demand-a-permanent-place-in-the-united-nations-security-council-for-africa-and-compensation-w.json)  [XML](/news/2009/09/10/libyan-leader-muammar-al-gaddafi-says-he-will-demand-a-permanent-place-in-the-united-nations-security-council-for-africa-and-compensation-w.xml)  
+
 ### [2009-09-10](/news/2009/09/10/index.md)
 
+##### Libya
 #  Libyan leader Muammar al-Gaddafi says he will demand a permanent place in the United Nations Security Council for Africa and compensation worth 777 trillion dollars for years of colonialism in New York later this month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.int.iol.co.za/index.php?set_id=1&click_id=85&art_id=nw20090910122616406C949734)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/5/pakistani-police-arrest-approximately-50-supporters-of-former-prime-minister-nawaz-sharif-s-pakistan-muslim-league-in-punjab-prior-to-his-r.html)  [JSON](/news/2007/09/5/pakistani-police-arrest-approximately-50-supporters-of-former-prime-minister-nawaz-sharif-s-pakistan-muslim-league-in-punjab-prior-to-his-r.json)  [XML](/news/2007/09/5/pakistani-police-arrest-approximately-50-supporters-of-former-prime-minister-nawaz-sharif-s-pakistan-muslim-league-in-punjab-prior-to-his-r.xml)  
+
 ### [2007-09-5](/news/2007/09/5/index.md)
 
+##### Pakistan
 #  Pakistani police arrest approximately 50 supporters of former Prime Minister Nawaz Sharif's Pakistan Muslim League in Punjab prior to his return to Pakistan next week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://afp.google.com/article/ALeqM5g6rvjWrMFCe81xoT_miawFkwcKJA)
 

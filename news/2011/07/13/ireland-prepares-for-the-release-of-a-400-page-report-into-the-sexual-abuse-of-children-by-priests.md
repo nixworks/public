@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/13/ireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.html)  [JSON](/news/2011/07/13/ireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.json)  [XML](/news/2011/07/13/ireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.xml)  
+
 ### [2011-07-13](/news/2011/07/13/index.md)
 
+##### Irish
 # Ireland prepares for the release of a 400-page report into the sexual abuse of children by priests. 
 
 THE LONG-AWAITED report into the handling of clerical sexual abuse allegations in the Catholic Diocese of Cloyne is to be published&hellip;
 
 
-### Source:
+### Sources:
 
 1. [Irish Examiner](http://www.irishexaminer.com/breakingnews/ireland/ojkfcweycwid/)
 2. [Irish Independent](http://www.independent.ie/national-news/report-on-sex-abuse-to-be-worse-than-ferns-2818576.html)
@@ -15,16 +19,16 @@ THE LONG-AWAITED report into the handling of clerical sexual abuse allegations i
 6. [The Irish Times](http://www.irishtimes.com/newspaper/ireland/2011/0713/1224300654778.html)
 6. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 
-### Related:
-
-1. [Schools and hospitals are closed in Ireland and Northern Ireland as the extratropical cyclone Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-extratropical-cyclone-ophelia-is-forecasted-to-make-landfall-on-the.md) _Context: Ireland_
-2. [The Republic of Ireland announces a referendum on abortion will be held between May and June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-between-may-and-june-2018.md) _Context: Ireland_
-3. [Irish low-cost airline Ryanair cancels 82 Sunday flights as the first step in a six-week program that will eliminate 40 to 50 flights daily to wipe out its crew vacation backlog in order to meet Irish Aviation Authority requirements by the end of this year. ](/news/2017/09/16/irish-low-cost-airline-ryanair-cancels-82-sunday-flights-as-the-first-step-in-a-six-week-program-that-will-eliminate-40-to-50-flights-daily.md) _Context: Ireland_
-4. [A 3 year-old boy is stabbed to death in an incident in the Poddle Park area of Kimmage in Dublin, Ireland. The child's mother, believed to be an Iranian national, is being treated for knife wounds in hospital. ](/news/2017/07/10/a-3-year-old-boy-is-stabbed-to-death-in-an-incident-in-the-poddle-park-area-of-kimmage-in-dublin-ireland-the-child-s-mother-believed-to-b.md) _Context: Ireland_
-5. [Leo Varadkar becomes the new party leader of Fine Gael, after winning 51 of 73 votes in the parliamentary party, and is expected to become Taoiseach (Prime Minister) of Ireland, which would make him the youngest and first openly gay man to be Taoiseach, as well as being the first of half-Indian descent. ](/news/2017/06/2/leo-varadkar-becomes-the-new-party-leader-of-fine-gael-after-winning-51-of-73-votes-in-the-parliamentary-party-and-is-expected-to-become-t.md) _Context: Ireland_
-
 ### Changes:
 
 1. [Sexual abuse scandal in Cloyne diocese:Ireland prepares for the release of a 400-page report into the sexual abuse of children by priests. ](/news/2011/07/13/sexual-abuse-scandal-in-cloyne-diocese-pireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.md) _2017-08-25 03:33:46 (First version)_
 2. [Sexual abuse scandal in Cloyne diocese:: Ireland prepares for the release of a 400-page report into the sexual abuse of children by priests. ](/news/2011/07/13/sexual-abuse-scandal-in-cloyne-diocese-ireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.md) _2017-08-27 03:33:53 (Update)_
 2. [Ireland prepares for the release of a 400-page report into the sexual abuse of children by priests. ](/news/2011/07/13/ireland-prepares-for-the-release-of-a-400-page-report-into-the-sexual-abuse-of-children-by-priests.md) _(Current version)_
+
+### Related:
+
+1. [The European Union and the United Kingdom reach agreement on the first stage of Brexit including the status of the border between the U.K. and Ireland. ](/news/2017/12/8/the-european-union-and-the-united-kingdom-reach-agreement-on-the-first-stage-of-brexit-including-the-status-of-the-border-between-the-u-k-a.md) _Context: Irish_
+2. [Apple Inc. and Ireland agree on an interim deal to put EUR13 billion in an escrow fund for the repayment of back taxes, starting early 2018. Still, both parties refute that the alleged "sweetheart" corporate tax deals were illegal. In 2016, the European Commission found that an unfair advantage of EUR13 billion is to be reimbursed. ](/news/2017/12/4/apple-inc-and-ireland-agree-on-an-interim-deal-to-put-a-13-billion-in-an-escrow-fund-for-the-repayment-of-back-taxes-starting-early-2018.md) _Context: Irish_
+3. [In an effort to avert strikes, the Irish low-cost carrier Ryanair reverses its long-standing policy of refusing to recognize pilots' labour unions. ](/news/2017/12/15/in-an-effort-to-avert-strikes-the-irish-low-cost-carrier-ryanair-reverses-its-long-standing-policy-of-refusing-to-recognize-pilots-labour.md) _Context: Irish_
+4. [Schools and hospitals are closed in Ireland and Northern Ireland as the extratropical cyclone Ophelia is forecasted to make landfall on the island. ](/news/2017/10/16/schools-and-hospitals-are-closed-in-ireland-and-northern-ireland-as-the-extratropical-cyclone-ophelia-is-forecasted-to-make-landfall-on-the.md) _Context: Irish_
+5. [The Republic of Ireland announces a referendum on abortion will be held between May and June 2018. ](/news/2017/09/27/the-republic-of-ireland-announces-a-referendum-on-abortion-will-be-held-between-may-and-june-2018.md) _Context: Irish_

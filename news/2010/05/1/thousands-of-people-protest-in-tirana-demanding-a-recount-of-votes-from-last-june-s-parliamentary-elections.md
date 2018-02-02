@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/1/thousands-of-people-protest-in-tirana-demanding-a-recount-of-votes-from-last-june-s-parliamentary-elections.html)  [JSON](/news/2010/05/1/thousands-of-people-protest-in-tirana-demanding-a-recount-of-votes-from-last-june-s-parliamentary-elections.json)  [XML](/news/2010/05/1/thousands-of-people-protest-in-tirana-demanding-a-recount-of-votes-from-last-june-s-parliamentary-elections.xml)  
+
 ### [2010-05-1](/news/2010/05/1/index.md)
 
+##### Tirana
 # Thousands of people protest in Tirana, demanding a recount of votes from last June's parliamentary elections. 
 
 Opposition socialists plan hunger strike as stalemate over June elections drags on.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/05/201051155657920803.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8655575.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/10/nine-miners-die-and-four-are-still-missing-after-an-accident-at-a-coal-mine-in-donetsk-ukraine.html)  [JSON](/news/2009/06/10/nine-miners-die-and-four-are-still-missing-after-an-accident-at-a-coal-mine-in-donetsk-ukraine.json)  [XML](/news/2009/06/10/nine-miners-die-and-four-are-still-missing-after-an-accident-at-a-coal-mine-in-donetsk-ukraine.xml)  
+
 ### [2009-06-10](/news/2009/06/10/index.md)
 
+##### Donetsk
 #  Nine miners die and four are still missing after an accident at a coal mine in Donetsk, Ukraine. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8091350.stm)
 

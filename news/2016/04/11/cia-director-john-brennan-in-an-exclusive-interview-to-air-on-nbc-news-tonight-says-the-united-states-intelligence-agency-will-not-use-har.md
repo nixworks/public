@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/11/cia-director-john-brennan-in-an-exclusive-inter
 
 ### [2016-04-11](/news/2016/04/11/index.md)
 
+##### Director of the CIA
 # CIA Director John Brennan, in an exclusive interview to air on NBC News tonight, says the United States intelligence agency will not use harsh, enhanced interrogation techniques, including waterboarding, even if ordered by a future president. Presidential candidates Donald Trump and Ted Cruz have discussed using waterboarding if elected. 
 
 CIA Director John Brennan told NBC News his agency will not engage in harsh &#x27;enhanced interrogation&#x27; practices, even if ordered to by a new president.

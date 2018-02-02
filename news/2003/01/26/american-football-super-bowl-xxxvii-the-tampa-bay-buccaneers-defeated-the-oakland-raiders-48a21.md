@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/26/american-football-super-bowl-xxxvii-the-tampa-bay-buccaneers-defeated-the-oakland-raiders-48a21.html)  [JSON](/news/2003/01/26/american-football-super-bowl-xxxvii-the-tampa-bay-buccaneers-defeated-the-oakland-raiders-48a21.json)  [XML](/news/2003/01/26/american-football-super-bowl-xxxvii-the-tampa-bay-buccaneers-defeated-the-oakland-raiders-48a21.xml)  
+
 ### [2003-01-26](/news/2003/01/26/index.md)
 
+##### American football
 #  American football Super Bowl XXXVII: The Tampa Bay Buccaneers defeated the Oakland Raiders, 48-21.
 
 

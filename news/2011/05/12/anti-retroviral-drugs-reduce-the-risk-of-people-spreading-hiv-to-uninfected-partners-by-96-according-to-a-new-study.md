@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/12/anti-retroviral-drugs-reduce-the-risk-of-people-spreading-hiv-to-uninfected-partners-by-96-according-to-a-new-study.html)  [JSON](/news/2011/05/12/anti-retroviral-drugs-reduce-the-risk-of-people-spreading-hiv-to-uninfected-partners-by-96-according-to-a-new-study.json)  [XML](/news/2011/05/12/anti-retroviral-drugs-reduce-the-risk-of-people-spreading-hiv-to-uninfected-partners-by-96-according-to-a-new-study.xml)  
+
 ### [2011-05-12](/news/2011/05/12/index.md)
 
+##### Anti-retroviral drug
 # Anti-retroviral drugs reduce the risk of people spreading HIV to uninfected partners by 96%, according to a new study. 
 
 An HIV-positive person can reduce the risk of spreading the virus to uninfected partners by 96% if they are given anti-retroviral drugs immediately, according to US scientists.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/health-13381292)
 2. [Mail & Guardian](http://mg.co.za/article/2011-05-12-early-treatment-breakthrough-in-hiv-research)

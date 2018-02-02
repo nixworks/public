@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/5/airline-pilots-in-europe-stage-demonstrations-in-several-cities-against-working-hours.html)  [JSON](/news/2009/10/5/airline-pilots-in-europe-stage-demonstrations-in-several-cities-against-working-hours.json)  [XML](/news/2009/10/5/airline-pilots-in-europe-stage-demonstrations-in-several-cities-against-working-hours.xml)  
+
 ### [2009-10-5](/news/2009/10/5/index.md)
 
+##### Europe
 #  Airline pilots in Europe stage demonstrations in several cities against working hours. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/8289953.stm)
 2. [CNN](http://edition.cnn.com/2009/WORLD/europe/10/05/aviation.flying.times.protests/)

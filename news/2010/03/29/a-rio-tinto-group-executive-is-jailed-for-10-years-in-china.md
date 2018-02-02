@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/29/a-rio-tinto-group-executive-is-jailed-for-10-years-in-china.html)  [JSON](/news/2010/03/29/a-rio-tinto-group-executive-is-jailed-for-10-years-in-china.json)  [XML](/news/2010/03/29/a-rio-tinto-group-executive-is-jailed-for-10-years-in-china.xml)  
+
 ### [2010-03-29](/news/2010/03/29/index.md)
 
+##### Rio Tinto
 # A Rio Tinto Group executive is jailed for 10 years in China. 
 
 A Chinese-Australian executive of Rio Tinto has been sentenced to ten years in prison.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0329/riotinto.html)
 1. [Cover Image](https://img.rasset.ie/000324db-1600.jpg)

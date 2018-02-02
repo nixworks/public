@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/16/united-states-presidential-election-2008-a-majority-of-michigan-s-republican-delegates-say-that-they-will-support-john-mccain-following-t.html)  [JSON](/news/2008/02/16/united-states-presidential-election-2008-a-majority-of-michigan-s-republican-delegates-say-that-they-will-support-john-mccain-following-t.json)  [XML](/news/2008/02/16/united-states-presidential-election-2008-a-majority-of-michigan-s-republican-delegates-say-that-they-will-support-john-mccain-following-t.xml)  
+
 ### [2008-02-16](/news/2008/02/16/index.md)
 
+##### 2008
 #  United States presidential election, 2008: A majority of Michigan's Republican delegates say that they will support John McCain following the withdrawal of Michigan primary winner Mitt Romney from the race. McCain has also won the allegiance of a majority of Louisiana delegates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5g8-DEMtAE9q4i4ySQ0eV_qZefmRQD8URLUUO0)
 2. [AP via Google News](http://ap.google.com/article/ALeqM5gUSEb3otSltjMiqOhs0CLj_ma5CAD8URJPSO0)

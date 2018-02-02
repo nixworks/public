@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/13/occupation-of-iraq-a-united-states-army-ah-64-apache-attack-helicopter-is-shot-down-near-the-central-iraqi-town-of-habbaniya-but-is-able.html)  [JSON](/news/2004/01/13/occupation-of-iraq-a-united-states-army-ah-64-apache-attack-helicopter-is-shot-down-near-the-central-iraqi-town-of-habbaniya-but-is-able.json)  [XML](/news/2004/01/13/occupation-of-iraq-a-united-states-army-ah-64-apache-attack-helicopter-is-shot-down-near-the-central-iraqi-town-of-habbaniya-but-is-able.xml)  
+
 ### [2004-01-13](/news/2004/01/13/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: A United States Army] AH-64 Apache attack helicopter is shot down near the central Iraqi town of Habbaniya, but is able to land without casualties.
 
 

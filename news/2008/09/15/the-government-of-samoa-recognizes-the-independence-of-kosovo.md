@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/15/the-government-of-samoa-recognizes-the-independence-of-kosovo.html)  [JSON](/news/2008/09/15/the-government-of-samoa-recognizes-the-independence-of-kosovo.json)  [XML](/news/2008/09/15/the-government-of-samoa-recognizes-the-independence-of-kosovo.xml)  
+
 ### [2008-09-15](/news/2008/09/15/index.md)
 
+##### Samoa
 #  The government of Samoa recognizes the independence of Kosovo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New Kosova Report](http://www.newkosovareport.com/200809151219/Politics/Samoa-recognizes-indepedent-Kosovo.html)
 

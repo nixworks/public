@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/21/the-french-national-assembly-votes-on-dadvsi-right-of-the-author-and-related-rights-in-the-information-society-with-296-votes-for-aga.html)  [JSON](/news/2006/03/21/the-french-national-assembly-votes-on-dadvsi-right-of-the-author-and-related-rights-in-the-information-society-with-296-votes-for-aga.json)  [XML](/news/2006/03/21/the-french-national-assembly-votes-on-dadvsi-right-of-the-author-and-related-rights-in-the-information-society-with-296-votes-for-aga.xml)  
+
 ### [2006-03-21](/news/2006/03/21/index.md)
 
+##### French National Assembly
 #  The French National Assembly votes on "DADVSI" ("Right of the Author and related rights in the information society") with 296 votes for against 193. The DADVSI act implements the 2001 EU Copyright Directive with some modifications. The UMP (right-wing), which has the absolute majority at the National Assembly, voted for, while the left voted against it. MPs of the center-right UDF voted either against the text or abstained themselves. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Le Monde](http://www.lemonde.fr/web/article/0,1-0@2-651865,36-753285,0.html)
 

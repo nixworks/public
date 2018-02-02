@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/9/two-more-bodies-have-been-recovered-at-the-site-of-the-i-35w-mississippi-river-bridge-collapse-in-minneapolis-minnesota.html)  [JSON](/news/2007/08/9/two-more-bodies-have-been-recovered-at-the-site-of-the-i-35w-mississippi-river-bridge-collapse-in-minneapolis-minnesota.json)  [XML](/news/2007/08/9/two-more-bodies-have-been-recovered-at-the-site-of-the-i-35w-mississippi-river-bridge-collapse-in-minneapolis-minnesota.xml)  
+
 ### [2007-08-9](/news/2007/08/9/index.md)
 
+##### I-35W Mississippi River bridge
 #  Two more bodies have been recovered at the site of the I-35W Mississippi River bridge collapse in Minneapolis, Minnesota. 
 
 Authorities said on Thursday that searchers have found the remains of more victims in the wreckage of the bridge collapse in Minneapolis, raising the total death toll so far to at least eight.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/worldNews/idUKN0922355520070810)
 1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070809&t=2&i=1274325&w=&fh=545px&fw=&ll=&pl=&sq=&r=1274325)

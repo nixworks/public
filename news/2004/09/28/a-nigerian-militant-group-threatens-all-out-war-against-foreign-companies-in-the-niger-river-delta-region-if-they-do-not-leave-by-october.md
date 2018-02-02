@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/09/28/a-nigerian-militant-group-threatens-all-out-war-against-foreign-companies-in-the-niger-river-delta-region-if-they-do-not-leave-by-october.html)  [JSON](/news/2004/09/28/a-nigerian-militant-group-threatens-all-out-war-against-foreign-companies-in-the-niger-river-delta-region-if-they-do-not-leave-by-october.json)  [XML](/news/2004/09/28/a-nigerian-militant-group-threatens-all-out-war-against-foreign-companies-in-the-niger-river-delta-region-if-they-do-not-leave-by-october.xml)  
+
 ### [2004-09-28](/news/2004/09/28/index.md)
 
+##### Nigeria
 #  A Nigerian militant group threatens "all-out war" against foreign companies in the Niger River delta region if they do not leave by October. The European oil company Royal Dutch-Shell has already evacuated 254 non-essential workers from the area. (BBC: [http:--news.bbc.co.uk-2-hi-africa-3688582.stm 1], [http:--news.bbc.co.uk-2-hi-africa-3695990.stm 2])
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/16/gay-rights-activists-hack-the-website-of-the-ugandan-prime-minister-over-the-government-s-stance-towards-homosexuality.html)  [JSON](/news/2012/08/16/gay-rights-activists-hack-the-website-of-the-ugandan-prime-minister-over-the-government-s-stance-towards-homosexuality.json)  [XML](/news/2012/08/16/gay-rights-activists-hack-the-website-of-the-ugandan-prime-minister-over-the-government-s-stance-towards-homosexuality.xml)  
+
 ### [2012-08-16](/news/2012/08/16/index.md)
 
+##### LGBT rights
 # Gay rights activists hack the website of the Ugandan prime minister over the government's stance towards homosexuality. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-19281664)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62316000/jpg/_62316220_screengrab464.jpg)

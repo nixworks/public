@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/14/aetna-and-humana-terminate-their-proposed-merge
 
 ### [2017-02-14](/news/2017/02/14/index.md)
 
+##### Aetna
 # Aetna and Humana terminate their proposed merger that had been blocked last month by a U.S. federal judge. Aetna announces it will pay Humana the $1 billion fee for calling off the agreement. 
 
 Aetna and Humana said they have terminated their merger agreement after a U.S. District Court Judge earlier this month ruled against the deal, effectively blocking the combination.

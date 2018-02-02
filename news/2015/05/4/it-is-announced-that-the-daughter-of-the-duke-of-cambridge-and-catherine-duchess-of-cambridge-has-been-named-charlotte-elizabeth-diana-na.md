@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/4/it-is-announced-that-the-daughter-of-the-duke-of-cambridge-and-catherine-duchess-of-cambridge-has-been-named-charlotte-elizabeth-diana-na.html)  [JSON](/news/2015/05/4/it-is-announced-that-the-daughter-of-the-duke-of-cambridge-and-catherine-duchess-of-cambridge-has-been-named-charlotte-elizabeth-diana-na.json)  [XML](/news/2015/05/4/it-is-announced-that-the-daughter-of-the-duke-of-cambridge-and-catherine-duchess-of-cambridge-has-been-named-charlotte-elizabeth-diana-na.xml)  
+
 ### [2015-05-4](/news/2015/05/4/index.md)
 
+##### Duke of Cambridge
 # It is announced that the daughter of the Duke of Cambridge and Catherine, Duchess of Cambridge, has been named Charlotte Elizabeth Diana, named after her grandfather, grandmother, and great grandmother. 
 
 IN A fitting tribute to the “people’s princess”, the Duke and Duchess of Cambridge have named their daughter Charlotte Elizabeth Diana.
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/entertainment/celebrity-life/royal-baby-named-charlotte-elizabeth-diana/story-fnisprwn-1227335326733)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/942e626613f3b55c3c0a47b660b9bc65)

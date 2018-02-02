@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/02/18/tens-of-thousands-of-people-march-peacefully-through-tirana-urging-the-albanian-government-to-resign-due-to-corruption-in-the-sali-berisha-r.html)  [JSON](/news/2011/02/18/tens-of-thousands-of-people-march-peacefully-through-tirana-urging-the-albanian-government-to-resign-due-to-corruption-in-the-sali-berisha-r.json)  [XML](/news/2011/02/18/tens-of-thousands-of-people-march-peacefully-through-tirana-urging-the-albanian-government-to-resign-due-to-corruption-in-the-sali-berisha-r.xml)  
+
 ### [2011-02-18](/news/2011/02/18/index.md)
 
+##### Tirana
 # Tens of thousands of people march peacefully through Tirana urging the Albanian government to resign due to corruption in the Sali Berisha regime. 4 people were killed in a similar demonstration nearly a month ago. 
 
 Tens of thousands of Albanian opposition supporters marched peacefully through the capital, Tirana, on Friday to demand that the government resign over corruption allegations.
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The New York Times](http://www.nytimes.com/2011/02/19/world/europe/19briefs-Albania.html)
+1. [AP via ''The New York Times](https://www.nytimes.com/2011/02/19/world/europe/19briefs-Albania.html)
 2. [CP via Google News](http://www.google.com/hostednews/canadianpress/article/ALeqM5i_q8cjVNtmKGLZ4VTJJA6BNENaUg?docId=5993057)
 3. [Xinhua](http://news.xinhuanet.com/english2010/world/2011-02/19/c_13739103.htm)
 3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)

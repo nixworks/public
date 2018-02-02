@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/13/the-united-states-department-of-defense-drops-charges-against-mohammed-al-qahtani-who-was-suspected-of-being-the-20th-hijacker-in-the-se.html)  [JSON](/news/2008/05/13/the-united-states-department-of-defense-drops-charges-against-mohammed-al-qahtani-who-was-suspected-of-being-the-20th-hijacker-in-the-se.json)  [XML](/news/2008/05/13/the-united-states-department-of-defense-drops-charges-against-mohammed-al-qahtani-who-was-suspected-of-being-the-20th-hijacker-in-the-se.xml)  
+
 ### [2008-05-13](/news/2008/05/13/index.md)
 
+##### U.S. military
 #  The United States Department of Defense drops charges against Mohammed al Qahtani, who was suspected of being the "20th hijacker" in the September 11, 2001 attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/americas/7398953.stm)
 

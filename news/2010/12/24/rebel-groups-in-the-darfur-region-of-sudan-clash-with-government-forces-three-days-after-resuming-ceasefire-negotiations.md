@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/24/rebel-groups-in-the-darfur-region-of-sudan-clash-with-government-forces-three-days-after-resuming-ceasefire-negotiations.html)  [JSON](/news/2010/12/24/rebel-groups-in-the-darfur-region-of-sudan-clash-with-government-forces-three-days-after-resuming-ceasefire-negotiations.json)  [XML](/news/2010/12/24/rebel-groups-in-the-darfur-region-of-sudan-clash-with-government-forces-three-days-after-resuming-ceasefire-negotiations.xml)  
+
 ### [2010-12-24](/news/2010/12/24/index.md)
 
+##### Darfur
 # Rebel groups in the Darfur region of Sudan clash with government forces, three days after resuming ceasefire negotiations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE6BN01M20101224)
 

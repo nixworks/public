@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/28/pope-benedict-xvi-calls-for-greater-openness-in-cuba-during-a-speech-in-revolution-square-havana.html)  [JSON](/news/2012/03/28/pope-benedict-xvi-calls-for-greater-openness-in-cuba-during-a-speech-in-revolution-square-havana.json)  [XML](/news/2012/03/28/pope-benedict-xvi-calls-for-greater-openness-in-cuba-during-a-speech-in-revolution-square-havana.xml)  
+
 ### [2012-03-28](/news/2012/03/28/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI calls for greater openness in Cuba during a speech in Revolution Square, Havana. 
 
 HAVANA &#8212; Pope Benedict XVI on Wednesday concluded his first trip to the Spanish-speaking Americas, launched with a condemnation of Marxism and drug war violence and ending with a forceful plea...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-cuba-pope-mass-20120329,0,5256763.story)
 1. [Cover Image](http://www.latimes.com/media/photo/2012-03/69089501.jpg)

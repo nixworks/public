@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/5/home-secretary-theresa-may-gets-165-votes-after-
 
 ### [2016-07-5](/news/2016/07/5/index.md)
 
+##### Conservative Party (UK) leadership election, 2016
 # Home Secretary Theresa May gets 165 votes after the first ballot of Conservative members of parliament to select a new Leader and the next Prime Minister. Her nearest rival, Minister of State for Energy Andrea Leadsom, picked up 66 votes. Secretary of State for Justice Michael Gove won 48 votes, and Secretary of State for Work and Pensions Stephen Crabb got 34 votes. Former Secretary of State for Defence Liam Fox is eliminated from consideration as he received just 16. Later, Crabb pulled out of the race and endorsed front-runner Theresa May. Fox also endorsed May. 
 
 And then there were three - Theresa May heads the Tory leadership race, as Liam Fox and Stephen Crabb leave the contest.

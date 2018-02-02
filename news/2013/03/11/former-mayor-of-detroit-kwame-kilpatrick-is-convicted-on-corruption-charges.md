@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/11/former-mayor-of-detroit-kwame-kilpatrick-is-convicted-on-corruption-charges.html)  [JSON](/news/2013/03/11/former-mayor-of-detroit-kwame-kilpatrick-is-convicted-on-corruption-charges.json)  [XML](/news/2013/03/11/former-mayor-of-detroit-kwame-kilpatrick-is-convicted-on-corruption-charges.xml)  
+
 ### [2013-03-11](/news/2013/03/11/index.md)
 
+##### Mayor of Detroit
 # Former Mayor of Detroit Kwame Kilpatrick is convicted on corruption charges. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2013/mar/11/kwame-kilpatrick-detroit-guilty-corruption)
 

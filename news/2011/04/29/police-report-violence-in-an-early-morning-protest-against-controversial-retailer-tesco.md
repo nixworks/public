@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/29/police-report-violence-in-an-early-morning-protest-against-controversial-retailer-tesco.html)  [JSON](/news/2011/04/29/police-report-violence-in-an-early-morning-protest-against-controversial-retailer-tesco.json)  [XML](/news/2011/04/29/police-report-violence-in-an-early-morning-protest-against-controversial-retailer-tesco.xml)  
+
 ### [2011-04-29](/news/2011/04/29/index.md)
 
+##### early morning protest
 # Police report violence in an early morning protest against controversial retailer Tesco. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Avon and Somerset Constabulary](http://www.avonandsomerset.police.uk/LocalPages/NewsDetails.aspx?nsid=23252&t=1&lid=1)
 2. [BBC](http://www.bbc.co.uk/news/uk-england-bristol-13234890)

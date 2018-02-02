@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/3/north-korea-announces-plans-to-conduct-a-nuclear-test.html)  [JSON](/news/2006/10/3/north-korea-announces-plans-to-conduct-a-nuclear-test.json)  [XML](/news/2006/10/3/north-korea-announces-plans-to-conduct-a-nuclear-test.xml)  
+
 ### [2006-10-3](/news/2006/10/3/index.md)
 
+##### North Korea
 #  North Korea announces plans to conduct a nuclear test. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/5402018.stm)
 

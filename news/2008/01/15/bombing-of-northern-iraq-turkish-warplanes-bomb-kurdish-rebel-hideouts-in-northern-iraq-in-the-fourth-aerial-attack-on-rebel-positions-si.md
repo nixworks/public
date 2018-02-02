@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/15/bombing-of-northern-iraq-turkish-warplanes-bomb-kurdish-rebel-hideouts-in-northern-iraq-in-the-fourth-aerial-attack-on-rebel-positions-si.html)  [JSON](/news/2008/01/15/bombing-of-northern-iraq-turkish-warplanes-bomb-kurdish-rebel-hideouts-in-northern-iraq-in-the-fourth-aerial-attack-on-rebel-positions-si.json)  [XML](/news/2008/01/15/bombing-of-northern-iraq-turkish-warplanes-bomb-kurdish-rebel-hideouts-in-northern-iraq-in-the-fourth-aerial-attack-on-rebel-positions-si.xml)  
+
 ### [2008-01-15](/news/2008/01/15/index.md)
 
+##### Bombing of northern Iraq
 #  Bombing of northern Iraq: Turkish warplanes bomb Kurdish rebel hideouts in northern Iraq, in the fourth aerial attack on rebel positions since the military launched a bombing campaign on 16 December. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3494582,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/31/yuriko-koike-of-the-liberal-democratic-party-ld
 
 ### [2016-07-31](/news/2016/07/31/index.md)
 
+##### Tokyo, Japan, gubernatorial election, 2016
 # Yuriko Koike, of the Liberal Democratic Party (LDP) but not their preferred candidate, is elected the Tokyo prefecture's first female governor, replacing Yoichi Masuzoe who resigned last month. The former Minister of Defense defeated the LDP-Komeito ruling coalition's Hiroya Masuda and the opposition bloc's Shuntaro Torigoe. Turnout is over 40 percent. 
 
 Former environment minister Yuriko Koike of the Liberal Democratic Party was elected Tokyo governor Sunday, winning a landslide victory to become the capit

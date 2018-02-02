@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/31/flooding-in-gujarat-western-india-kills-at-leas
 
 ### [2017-07-31](/news/2017/07/31/index.md)
 
+##### 2017 Gujarat flood
 # Flooding in Gujarat, Western India, kills at least 213 people with the death toll expected to rise as receding flood waters reveal additional victims. Chief Minister of Gujarat Vijay Rupani says heavy rain had triggered "the worst flood of the century" in the state. 
 
 Authorities race to identify bodies as rescue workers reach new areas and fear monsoon death toll will rise further
@@ -22,6 +23,6 @@ Authorities race to identify bodies as rescue workers reach new areas and fear m
 
 1. [ Following heavy rain in July 2017, the Gujarat state of India was affected by a severe flood resulting in more than 200 deaths.](/news/2017/07/30/following-heavy-rain-in-july-2017-the-gujarat-state-of-india-was-affected-by-a-severe-flood-resulting-in-more-than-200-deaths.md) _Context: 2017 Gujarat flood, Gujarat_
 2. [Gujarat and Maharastra are on high alert because of Cyclone Ockhi. ](/news/2017/12/5/gujarat-and-maharastra-are-on-high-alert-because-of-cyclone-ockhi.md) _Context: Gujarat_
-3. [The Indian state of Gujarat passes a law which makes the slaughter of a cow punishable by life imprisonment. ](/news/2017/03/31/the-indian-state-of-gujarat-passes-a-law-which-makes-the-slaughter-of-a-cow-punishable-by-life-imprisonment.md) _Context: Gujarat_
-4. [The search continues for survivors of a bridge collapse on the Mumbai-Goa highway over the flooded Savitri River in western India. Twenty two people and two buses are believed to be missing. ](/news/2016/08/3/the-search-continues-for-survivors-of-a-bridge-collapse-on-the-mumbai-goa-highway-over-the-flooded-savitri-river-in-western-india-twenty-tw.md) _Context: Western India_
+3. [Thirty-three people are killed and 15 injured as a bus falls 65 feet into the river in Rajasthan, Western India. ](/news/2017/12/23/thirty-three-people-are-killed-and-15-injured-as-a-bus-falls-65-feet-into-the-river-in-rajasthan-western-india.md) _Context: Western India_
+4. [The Indian state of Gujarat passes a law which makes the slaughter of a cow punishable by life imprisonment. ](/news/2017/03/31/the-indian-state-of-gujarat-passes-a-law-which-makes-the-slaughter-of-a-cow-punishable-by-life-imprisonment.md) _Context: Gujarat_
 5. [At least 37 people die in the Indian state of Gujarat after a passenger bus plunges off a bridge over the Purna River. ](/news/2016/02/5/at-least-37-people-die-in-the-indian-state-of-gujarat-after-a-passenger-bus-plunges-off-a-bridge-over-the-purna-river.md) _Context: Gujarat_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/27/pope-francis-in-an-apostolic-letter-done-motu-proprio-latin-on-his-own-initiative-creates-the-secretariat-for-communications-the.html)  [JSON](/news/2015/06/27/pope-francis-in-an-apostolic-letter-done-motu-proprio-latin-on-his-own-initiative-creates-the-secretariat-for-communications-the.json)  [XML](/news/2015/06/27/pope-francis-in-an-apostolic-letter-done-motu-proprio-latin-on-his-own-initiative-creates-the-secretariat-for-communications-the.xml)  
+
 ### [2015-06-27](/news/2015/06/27/index.md)
 
+##### Pope Francis
 # Pope Francis, in an Apostolic Letter, done "Motu Proprio" (Latin: "On his own initiative"), creates the Secretariat for Communications, the second such Secretariat he has created, after the earlier Secretariat for the Economy, as part of a reform of the Roman Curia (Secretariats are the highest level of Curial dicastery, or department). It will incorporate Vatican Information Service (VIS), the News.va and Pope apps, the Vatican Television Center, the Vatican.va website and .va domain name, the L'Osservatore Romano newspaper, the Holy See Press Office, Vatican Radio, and the Pontifical Council for Social Communications. He named the Reverend Monsignor Dario Edoardo Vigano, formerly the Vatican Television Center Director, as the first Prefect. 
 
 The Vatican&rsquo;s nine communications offices will soon be consolidated under the authority of the newly-established Secretariat for Communications, per a Saturday directive of Pope Francis.
 
 
-### Source:
+### Sources:
 
 1. [Catholic News Agency](http://www.catholicnewsagency.com/news/pope-francis-creates-new-secretariat-overseeing-all-vatican-communications-10481/)
 2. [English translation of Vatican's text of the document](http://www.microsofttranslator.com/BV.aspx?ref=IE8Activity&a=http%3A%2F%2Fw2.vatican.va%2Fcontent%2Ffrancesco%2Fit%2Fmotu_proprio%2Fdocuments%2Fpapa-francesco-motu-proprio_20150627_segreteria-comunicazione.html)

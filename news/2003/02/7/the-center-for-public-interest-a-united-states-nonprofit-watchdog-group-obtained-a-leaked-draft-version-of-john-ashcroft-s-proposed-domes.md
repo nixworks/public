@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/7/the-center-for-public-interest-a-united-states-nonprofit-watchdog-group-obtained-a-leaked-draft-version-of-john-ashcroft-s-proposed-domes.html)  [JSON](/news/2003/02/7/the-center-for-public-interest-a-united-states-nonprofit-watchdog-group-obtained-a-leaked-draft-version-of-john-ashcroft-s-proposed-domes.json)  [XML](/news/2003/02/7/the-center-for-public-interest-a-united-states-nonprofit-watchdog-group-obtained-a-leaked-draft-version-of-john-ashcroft-s-proposed-domes.xml)  
+
 ### [2003-02-7](/news/2003/02/7/index.md)
 
+##### Center for Public Interest
 #  The Center for Public Interest, a United States nonprofit watchdog group, obtained a leaked draft version of John Ashcroft's proposed Domestic Security Enhancement Act of 2003, also known as "the Patriot Act II". If enacted, the legislation would grant the United States government unprecedented secret internal surveillance powers and sharply curtail judicial review of such surveillance,
 
 

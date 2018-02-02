@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/18/a-venezuelan-air-force-sukhoi-su-30mkk-crashes-near-the-colombian-border-after-an-illicit-aircraft-probably-linked-to-illicit-drugs-enters.html)  [JSON](/news/2015/09/18/a-venezuelan-air-force-sukhoi-su-30mkk-crashes-near-the-colombian-border-after-an-illicit-aircraft-probably-linked-to-illicit-drugs-enters.json)  [XML](/news/2015/09/18/a-venezuelan-air-force-sukhoi-su-30mkk-crashes-near-the-colombian-border-after-an-illicit-aircraft-probably-linked-to-illicit-drugs-enters.xml)  
+
 ### [2015-09-18](/news/2015/09/18/index.md)
 
+##### Venezuelan Air Force
 # A Venezuelan Air Force Sukhoi Su-30MKK crashes near the Colombian border after an illicit aircraft, probably linked to illicit drugs, enters Venezuelan airspace. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Daily Mail](http://www.dailymail.co.uk/wires/reuters/article-3240239/Venezuela-says-fighter-jet-crashes-entry-illicit-plane.html#ixzz3m8PJStOu)
 

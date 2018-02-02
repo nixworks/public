@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/12/1/the-results-of-the-afghan-parliamentary-election-are-finally-announced.html)  [JSON](/news/2010/12/1/the-results-of-the-afghan-parliamentary-election-are-finally-announced.json)  [XML](/news/2010/12/1/the-results-of-the-afghan-parliamentary-election-are-finally-announced.xml)  
+
 ### [2010-12-1](/news/2010/12/1/index.md)
 
+##### parliamentary election
 # The results of the Afghan parliamentary election are finally announced. 
 
 The results of parliamentary elections in Afghanistan have ushered in uncertainty, deepened skepticism of the government and stirred volatile ethnic fault lines.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2010/12/02/world/asia/02afghan.html?_r=1)
+1. [New York Times](https://www.nytimes.com/2010/12/02/world/asia/02afghan.html?_r=1)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

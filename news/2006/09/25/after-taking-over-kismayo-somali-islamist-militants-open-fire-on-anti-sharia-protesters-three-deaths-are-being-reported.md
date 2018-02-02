@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/25/after-taking-over-kismayo-somali-islamist-militants-open-fire-on-anti-sharia-protesters-three-deaths-are-being-reported.html)  [JSON](/news/2006/09/25/after-taking-over-kismayo-somali-islamist-militants-open-fire-on-anti-sharia-protesters-three-deaths-are-being-reported.json)  [XML](/news/2006/09/25/after-taking-over-kismayo-somali-islamist-militants-open-fire-on-anti-sharia-protesters-three-deaths-are-being-reported.xml)  
+
 ### [2006-09-25](/news/2006/09/25/index.md)
 
+##### Kismayo
 #  After taking over Kismayo, Somali Islamist militants open fire on anti-sharia protesters. Three deaths are being reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/5377626.stm)
 

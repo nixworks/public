@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/8/a-ground-stop-of-all-u-s-airport-based-united-airlines-ual-mainline-flights-following-a-system-wide-network-connectivity-issue-is-lifted.html)  [JSON](/news/2015/07/8/a-ground-stop-of-all-u-s-airport-based-united-airlines-ual-mainline-flights-following-a-system-wide-network-connectivity-issue-is-lifted.json)  [XML](/news/2015/07/8/a-ground-stop-of-all-u-s-airport-based-united-airlines-ual-mainline-flights-following-a-system-wide-network-connectivity-issue-is-lifted.xml)  
+
 ### [2015-07-8](/news/2015/07/8/index.md)
 
+##### United Airlines
 # A ground stop of all U.S. airport-based United Airlines (UAL) mainline flights following a system-wide network connectivity issue is lifted after a 1 hour, 21 minute suspension of morning service. The Federal Aviation Administration (FAA), which is also investigating, says all of United Continental Holdings Inc. regional airlines are now unaffected. This follows a similar issue on June 2, 2015 due to automation problems. 
 
 The grounding of hundreds of United Airlines flights because of a computer glitch marked the latest in a series of airline delays and cancellations in the last few years that experts blame on massive, interconnected computer systems that lack sufficient staff and financial backing.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/business/la-fi-united-flights-grounded-20150708-story.html)
 2. [Reuters, via MSN](http://www.msn.com/en-us/news/us/united-airlines-computers-down-flights-delayed/ar-AAcIdsU)

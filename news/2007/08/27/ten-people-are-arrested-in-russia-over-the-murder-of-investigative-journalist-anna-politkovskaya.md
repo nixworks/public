@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/27/ten-people-are-arrested-in-russia-over-the-murder-of-investigative-journalist-anna-politkovskaya.html)  [JSON](/news/2007/08/27/ten-people-are-arrested-in-russia-over-the-murder-of-investigative-journalist-anna-politkovskaya.json)  [XML](/news/2007/08/27/ten-people-are-arrested-in-russia-over-the-murder-of-investigative-journalist-anna-politkovskaya.xml)  
+
 ### [2007-08-27](/news/2007/08/27/index.md)
 
+##### Russia
 #  Ten people are arrested in Russia over the murder of investigative journalist Anna Politkovskaya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6965253.stm)
 

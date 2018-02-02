@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/5/six-time-u-s-nasa-astronaut-john-young-dies-at-t
 
 ### [2018-01-5](/news/2018/01/5/index.md)
 
+##### NASA astronaut
 # Six-time U.S. NASA astronaut John Young dies at the age of 87. He was the 9th man who walked on the Moon. [http:--amp.timeinc.net-fortune-2018-01-06-astronaut-john-young-dead "(Time Magazine)"]
 
 

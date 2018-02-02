@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2007/10/26/an-explosion-shakes-the-mexican-consulate-in-new-york-city-the-explosion-was-caused-by-two-thrown-hand-grenades-aided-by-additional-explos.html)  [JSON](/news/2007/10/26/an-explosion-shakes-the-mexican-consulate-in-new-york-city-the-explosion-was-caused-by-two-thrown-hand-grenades-aided-by-additional-explos.json)  [XML](/news/2007/10/26/an-explosion-shakes-the-mexican-consulate-in-new-york-city-the-explosion-was-caused-by-two-thrown-hand-grenades-aided-by-additional-explos.xml)  
+
 ### [2007-10-26](/news/2007/10/26/index.md)
 
+##### explosion
 #  An explosion shakes the Mexican consulate in New York City. The explosion was caused by two thrown hand grenades aided by additional explosive material. 7 injuries were reported, with several windows blown out and debris entering the building. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WCBS](http://wcbstv.com/local/mexican.consulate.grenade.2.413390.html)
 
 ### Related:
 
-1. [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md) _Context: Mexico_
-2. [A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. ](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.md) _Context: Mexico_
-3. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
-4. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexico_
-5. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: Mexico_
+1. [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md) _Context: Mexico_
+2. [Eleven people are killed in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the southern state of Guerrero. ](/news/2018/01/7/eleven-people-are-killed-in-la-concepcia3n-mexico-near-the-pacific-coast-resort-of-acapulco-following-violent-clashes-involving-gunmen-a.md) _Context: Mexico_
+3. [Celebrities Alyssa Milano, Michael Moore and Mark Ruffalo organize a "People's State of the Union"-themed concert on Monday in New York City. Common and Andra Day are scheduled to perform. ](/news/2018/01/26/celebrities-alyssa-milano-michael-moore-and-mark-ruffalo-organize-a-people-s-state-of-the-union-themed-concert-on-monday-in-new-york-city.md) _Context: New York City_
+4. [The New York Metropolitan Museum of Art is brought to reply to an online petition signed by thousands of people. The museum refuses to stop displaying a Balthus painting, "Therese revant". ](/news/2017/12/6/the-new-york-metropolitan-museum-of-art-is-brought-to-reply-to-an-online-petition-signed-by-thousands-of-people-the-museum-refuses-to-stop.md) _Context: New York City_
+5. [Ten people are killed and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-are-killed-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md) _Context: Mexico_

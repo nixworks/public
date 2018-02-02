@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/27/syrian-armed-forces-have-captured-the-entire-ha
 
 ### [2016-11-27](/news/2016/11/27/index.md)
 
+##### Aleppo offensive (November 2016)
 # Syrian Armed Forces have captured the entire Hanano district in eastern Aleppo and are working on removing mines and improvised explosive devices from the district, while the rebels blame lack of hospitals for collapsing defences. 
 
 The Syrian army said it had taken control of an important district in rebel-held eastern Aleppo on Saturday after fierce fighting, with rebels blaming intense air strikes and lack of hospitals for their collapsing frontline.

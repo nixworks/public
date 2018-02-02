@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/10/japan-says-it-is-considering-whether-a-pre-emptive-strike-against-north-korea-s-missile-bases-would-be-a-violation-of-its-constitution-thi.html)  [JSON](/news/2006/07/10/japan-says-it-is-considering-whether-a-pre-emptive-strike-against-north-korea-s-missile-bases-would-be-a-violation-of-its-constitution-thi.json)  [XML](/news/2006/07/10/japan-says-it-is-considering-whether-a-pre-emptive-strike-against-north-korea-s-missile-bases-would-be-a-violation-of-its-constitution-thi.xml)  
+
 ### [2006-07-10](/news/2006/07/10/index.md)
 
+##### Japan
 #  Japan says it is considering whether a pre-emptive strike against North Korea's missile bases would be a violation of its constitution. This is ahead of a possible UN vote on sanctions against North Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://hosted.ap.org/dynamic/stories/N/NKOREA_MISSILES?SITE=VABRM&TEMPLATE=DEFAULT&SECTION=HOME)
 

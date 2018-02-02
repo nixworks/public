@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/8/in-pakistan-united-press-international-reports-a-letter-sent-to-members-of-the-opposition-in-pakistan-on-a-military-letterhead-causes-pa.html)  [JSON](/news/2003/11/8/in-pakistan-united-press-international-reports-a-letter-sent-to-members-of-the-opposition-in-pakistan-on-a-military-letterhead-causes-pa.json)  [XML](/news/2003/11/8/in-pakistan-united-press-international-reports-a-letter-sent-to-members-of-the-opposition-in-pakistan-on-a-military-letterhead-causes-pa.xml)  
+
 ### [2003-11-8](/news/2003/11/8/index.md)
 
+##### Pakistan
 #  In Pakistan, "United Press International" reports a letter sent to members of the opposition in Pakistan on a military letterhead causes panic in President Pervez Musharraf's government because it says he "has been imposed on this nation." The letter reportedly states that ""We want to assure the nation that this army belongs to you and to Pakistan&nbsp;... Pervez Musharraf and his clique has been imposed on this nation"".
 
 

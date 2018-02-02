@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/15/the-king-of-bhutan-jigme-singye-wangchuck-abdicates-in-favor-of-his-son-two-years-before-he-had-initially-planned-to-do-so.html)  [JSON](/news/2006/12/15/the-king-of-bhutan-jigme-singye-wangchuck-abdicates-in-favor-of-his-son-two-years-before-he-had-initially-planned-to-do-so.json)  [XML](/news/2006/12/15/the-king-of-bhutan-jigme-singye-wangchuck-abdicates-in-favor-of-his-son-two-years-before-he-had-initially-planned-to-do-so.xml)  
+
 ### [2006-12-15](/news/2006/12/15/index.md)
 
+##### Bhutan
 #  The king of Bhutan, Jigme Singye Wangchuck, abdicates in favor of his son, two years before he had initially planned to do so. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6184349.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/23/the-international-civil-aviation-organization-d
 
 ### [2016-09-23](/news/2016/09/23/index.md)
 
+##### International Civil Aviation Organization
 # The International Civil Aviation Organization denies Taiwan's participation in its triennial assembly in Montreal, Canada. 
 
 A U.N. aviation agency has snubbed Taiwan by not inviting it to its assembly in Canada, the latest sign of pressure China is bringing to bear on the new independence-leaning government of an island it views as a renegade province.

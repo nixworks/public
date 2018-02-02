@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/12/29/snap-elections-are-to-be-called-after-the-hellenic-parliament-fails-to-elect-a-new-greek-president.html)  [JSON](/news/2014/12/29/snap-elections-are-to-be-called-after-the-hellenic-parliament-fails-to-elect-a-new-greek-president.json)  [XML](/news/2014/12/29/snap-elections-are-to-be-called-after-the-hellenic-parliament-fails-to-elect-a-new-greek-president.xml)  
+
 ### [2014-12-29](/news/2014/12/29/index.md)
 
+##### Greek elections
 # Snap elections are to be called after the Hellenic Parliament fails to elect a new Greek president. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/12/29/us-greece-vote-idUSKBN0K60MA20141229)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20141229&t=2&i=1008299082&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABS0E7)
+1. [Reuters](https://www.reuters.com/article/2014/12/29/us-greece-vote-idUSKBN0K60MA20141229)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20141229&t=2&i=1008299082&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEABS0E7)
 
 ### Related:
 

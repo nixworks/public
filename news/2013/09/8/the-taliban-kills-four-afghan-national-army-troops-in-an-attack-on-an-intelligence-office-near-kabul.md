@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2013/09/8/the-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.html)  [JSON](/news/2013/09/8/the-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.json)  [XML](/news/2013/09/8/the-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.xml)  
+
 ### [2013-09-8](/news/2013/09/8/index.md)
 
+##### Taliban
 # The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. 
 
 Taliban militants detonated a car bomb outside an Afghan intelligence office near the capital Sunday and then tried to attack it on foot with guns, officials and the insurgent group said. At least four soldiers guarding the compound were killed and six insurgents died in the assault, officials said.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/world/2013/09/08/taliban-kill-4-afghan-troops-in-attack-on-intel-office/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)
+
+### Changes:
+
+1. [War in Afghanistan (2001-present):The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/war-in-afghanistan-2001apresent-pthe-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md) _2017-08-25 03:39:15 (First version)_
+2. [War in Afghanistan (2001-present):: The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/war-in-afghanistan-2001-present-the-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md) _2017-08-27 03:39:31 (Update)_
+2. [The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/the-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ Taliban militants detonated a car bomb outside an Afghan intelligence office nea
 3. [At least 11 Afghan civilians are killed and 16 wounded when a NATO helicopter attacked a house where Taliban insurgents had taken shelter in Logar Province, east of Kabul. ](/news/2017/08/30/at-least-11-afghan-civilians-are-killed-and-16-wounded-when-a-nato-helicopter-attacked-a-house-where-taliban-insurgents-had-taken-shelter-in.md) _Context: Kabul, Taliban_
 4. [A suicide bomber kills five people at the entrance of a Kabul Bank subsidiary near the Embassy of the United States in Kabul. The Taliban claims their attack targeted soldiers and police withdrawing their salaries. ](/news/2017/08/29/a-suicide-bomber-kills-five-people-at-the-entrance-of-a-kabul-bank-subsidiary-near-the-embassy-of-the-united-states-in-kabul-the-taliban-cl.md) _Context: Kabul, Taliban_
 5. [Taliban militants attack an Afghan National Army base in Shah Wali Kot District, Kandahar Province, killing at least 15 soldiers. ](/news/2017/05/26/taliban-militants-attack-an-afghan-national-army-base-in-shah-wali-kot-district-kandahar-province-killing-at-least-15-soldiers.md) _Context: Afghan National Army, Taliban_
-
-### Changes:
-
-1. [War in Afghanistan (2001-present):The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/war-in-afghanistan-2001apresent-pthe-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md) _2017-08-25 03:39:15 (First version)_
-2. [War in Afghanistan (2001-present):: The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/war-in-afghanistan-2001-present-the-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md) _2017-08-27 03:39:31 (Update)_
-2. [The Taliban kills four Afghan National Army troops in an attack on an intelligence office near Kabul. ](/news/2013/09/8/the-taliban-kills-four-afghan-national-army-troops-in-an-attack-on-an-intelligence-office-near-kabul.md) _(Current version)_

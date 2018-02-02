@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/01/9/grammy-award-winning-pop-music-duo-outkast-reunites.html)  [JSON](/news/2014/01/9/grammy-award-winning-pop-music-duo-outkast-reunites.json)  [XML](/news/2014/01/9/grammy-award-winning-pop-music-duo-outkast-reunites.xml)  
+
 ### [2014-01-9](/news/2014/01/9/index.md)
 
+##### Grammy Award
 # Grammy Award-winning pop music duo OutKast reunites. 
 
-Coachella convinced OutKast and The Replacements to reunite at this year&#39;s festival, which runs over two weekends, in Indio, Calif. Arcade Fire and Muse will also join the headliners. Not bad, not bad at all.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/life/music/2014/01/09/arcade-fire-muse-and-outkast-to-headline-coachella-2014/4387429/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/life/music/2014/01/09/arcade-fire-muse-and-outkast-to-headline-coachella-2014/4387429/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

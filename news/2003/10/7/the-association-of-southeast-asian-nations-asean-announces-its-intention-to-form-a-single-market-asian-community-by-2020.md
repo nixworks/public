@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/7/the-association-of-southeast-asian-nations-asean-announces-its-intention-to-form-a-single-market-asian-community-by-2020.html)  [JSON](/news/2003/10/7/the-association-of-southeast-asian-nations-asean-announces-its-intention-to-form-a-single-market-asian-community-by-2020.json)  [XML](/news/2003/10/7/the-association-of-southeast-asian-nations-asean-announces-its-intention-to-form-a-single-market-asian-community-by-2020.xml)  
+
 ### [2003-10-7](/news/2003/10/7/index.md)
 
+##### Association of Southeast Asian Nations
 #  The Association of Southeast Asian Nations (ASEAN) announces its intention to form a single-market "Asian Community" by 2020.
 
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/05/5/jacques-chirac-wins-the-french-presidential-elections-with-82-21-of-the-vote-to-17-79-for-jean-marie-le-pen-the-turnout-was-79-71-chir.html)  [JSON](/news/2002/05/5/jacques-chirac-wins-the-french-presidential-elections-with-82-21-of-the-vote-to-17-79-for-jean-marie-le-pen-the-turnout-was-79-71-chir.json)  [XML](/news/2002/05/5/jacques-chirac-wins-the-french-presidential-elections-with-82-21-of-the-vote-to-17-79-for-jean-marie-le-pen-the-turnout-was-79-71-chir.xml)  
+
 ### [2002-05-5](/news/2002/05/5/index.md)
 
+##### Jacques Chirac
 #  Jacques Chirac wins the French presidential elections with 82.21% of the vote to 17.79% for Jean-Marie Le Pen, the turnout was 79.71%. Chirac appoints Jean-Pierre Raffarin as his prime minister, replacing Lionel Jospin.
 
 

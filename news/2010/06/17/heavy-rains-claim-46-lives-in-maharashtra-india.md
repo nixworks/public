@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/17/heavy-rains-claim-46-lives-in-maharashtra-india.html)  [JSON](/news/2010/06/17/heavy-rains-claim-46-lives-in-maharashtra-india.json)  [XML](/news/2010/06/17/heavy-rains-claim-46-lives-in-maharashtra-india.xml)  
+
 ### [2010-06-17](/news/2010/06/17/index.md)
 
+##### Maharashtra
 # Heavy rains claim 46 lives in Maharashtra, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindustan Times](http://www.hindustantimes.com/audio-news-video/Heavy-rains-claim-46-lives-in-Maharashtra/Article2-559302.aspx)
 

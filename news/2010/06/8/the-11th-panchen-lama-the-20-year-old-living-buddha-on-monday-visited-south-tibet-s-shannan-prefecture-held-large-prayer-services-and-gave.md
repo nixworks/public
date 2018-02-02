@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/8/the-11th-panchen-lama-the-20-year-old-living-buddha-on-monday-visited-south-tibet-s-shannan-prefecture-held-large-prayer-services-and-gave.html)  [JSON](/news/2010/06/8/the-11th-panchen-lama-the-20-year-old-living-buddha-on-monday-visited-south-tibet-s-shannan-prefecture-held-large-prayer-services-and-gave.json)  [XML](/news/2010/06/8/the-11th-panchen-lama-the-20-year-old-living-buddha-on-monday-visited-south-tibet-s-shannan-prefecture-held-large-prayer-services-and-gave.xml)  
+
 ### [2010-06-8](/news/2010/06/8/index.md)
 
+##### 11th Panchen Lama
 # The 11th Panchen Lama, the 20-year-old living Buddha on Monday visited south Tibet's Shannan Prefecture, held large prayer services and gave head-touch blessings to more than 5,000 local devotees. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chinamil](http://eng.chinamil.com.cn/news-channels/2010-06/08/content_4234854.htm)
 2. [Tibet culture](http://en.tibetculture.net/index/lnews/201006/t20100608_589266.htm)

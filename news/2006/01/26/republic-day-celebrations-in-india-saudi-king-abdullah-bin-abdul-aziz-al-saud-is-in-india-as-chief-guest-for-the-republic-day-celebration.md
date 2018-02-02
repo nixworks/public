@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/26/republic-day-celebrations-in-india-saudi-king-abdullah-bin-abdul-aziz-al-saud-is-in-india-as-chief-guest-for-the-republic-day-celebration.html)  [JSON](/news/2006/01/26/republic-day-celebrations-in-india-saudi-king-abdullah-bin-abdul-aziz-al-saud-is-in-india-as-chief-guest-for-the-republic-day-celebration.json)  [XML](/news/2006/01/26/republic-day-celebrations-in-india-saudi-king-abdullah-bin-abdul-aziz-al-saud-is-in-india-as-chief-guest-for-the-republic-day-celebration.xml)  
+
 ### [2006-01-26](/news/2006/01/26/index.md)
 
+##### Republic Day
 #  Republic Day celebrations in India. Saudi King Abdullah Bin Abdul Aziz Al-Saud is in India as chief guest for the Republic Day celebration. 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/morenews/showmorestory.asp?slug=India+inks+accords+with+Saudi+Arabia&id=84135&category=National)
 1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)

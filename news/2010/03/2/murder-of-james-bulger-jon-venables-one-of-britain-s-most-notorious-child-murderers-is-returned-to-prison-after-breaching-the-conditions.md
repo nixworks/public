@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/2/murder-of-james-bulger-jon-venables-one-of-britain-s-most-notorious-child-murderers-is-returned-to-prison-after-breaching-the-conditions.html)  [JSON](/news/2010/03/2/murder-of-james-bulger-jon-venables-one-of-britain-s-most-notorious-child-murderers-is-returned-to-prison-after-breaching-the-conditions.json)  [XML](/news/2010/03/2/murder-of-james-bulger-jon-venables-one-of-britain-s-most-notorious-child-murderers-is-returned-to-prison-after-breaching-the-conditions.xml)  
+
 ### [2010-03-2](/news/2010/03/2/index.md)
 
+##### Murder of James Bulger
 # Murder of James Bulger: Jon Venables, one of Britain's most notorious child murderers, is returned to prison after breaching the conditions of his release. 
 
 One of the killers of UK toddler James Bulger has been put back behind bars after breaching the conditions of his release from prison.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/merseyside/8546528.stm)
 2. [CNN](http://www.cnn.com/2010/WORLD/europe/03/03/uk.bulger.venables/?hpt=Sbin)

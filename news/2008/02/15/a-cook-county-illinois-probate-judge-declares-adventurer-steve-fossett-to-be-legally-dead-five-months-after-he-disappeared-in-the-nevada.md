@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/15/a-cook-county-illinois-probate-judge-declares-adventurer-steve-fossett-to-be-legally-dead-five-months-after-he-disappeared-in-the-nevada.html)  [JSON](/news/2008/02/15/a-cook-county-illinois-probate-judge-declares-adventurer-steve-fossett-to-be-legally-dead-five-months-after-he-disappeared-in-the-nevada.json)  [XML](/news/2008/02/15/a-cook-county-illinois-probate-judge-declares-adventurer-steve-fossett-to-be-legally-dead-five-months-after-he-disappeared-in-the-nevada.xml)  
+
 ### [2008-02-15](/news/2008/02/15/index.md)
 
+##### Cook County
 #  A Cook County, Illinois, probate judge declares adventurer Steve Fossett to be legally dead five months after he disappeared in the Nevada desert. 
 
 A Cook County probate judge on Friday declared wealthy Chicago adventurer Steve Fossett legally dead almost half a year after a plane he piloted disappeared over the Nevada desert.After a two-hour...
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/chi-steve-fossett-missing_webfeb16,1,1771069.story?ctrack=1&cset=true)
 1. [Cover Image](http://www.trbimg.com/img-5530052e/turbine/chi-default-open-graph-ct-logo/)

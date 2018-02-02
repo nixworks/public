@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2013/02/25/the-centre-left-alliance-italy-common-good-led-by-the-democratic-party-wins-the-italian-general-election-however-the-number-of-seats-will-n.html)  [JSON](/news/2013/02/25/the-centre-left-alliance-italy-common-good-led-by-the-democratic-party-wins-the-italian-general-election-however-the-number-of-seats-will-n.json)  [XML](/news/2013/02/25/the-centre-left-alliance-italy-common-good-led-by-the-democratic-party-wins-the-italian-general-election-however-the-number-of-seats-will-n.xml)  
+
 ### [2013-02-25](/news/2013/02/25/index.md)
 
+##### Italy Common Good
 # The centre-left alliance Italy Common Good led by the Democratic Party wins the Italian general election. However the number of seats will not guarantee the majority in the Senate, paving the way to instability. 
 
 A huge protest vote by Italians enraged by economic hardship and political corruption pushed the country towards deadlock after an election on Monday, with voting projections showing no coalition strong enough to form a government.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-21574116)
 2. [Deutsche Welle](http://www.dw.de/italys-bersani-keen-to-soften-tough-reform-plans/a-16626522)
-3. [Reuters](http://www.reuters.com/article/2013/02/25/uk-italy-vote-idUKBRE91L0N920130225)
+3. [Reuters](https://www.reuters.com/article/2013/02/25/uk-italy-vote-idUKBRE91L0N920130225)
 4. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/europe/italy/9892698/Uncertainty-for-Italy-as-election-exit-polls-show-split-vote.html)
-4. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130225&t=2&i=707360728&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91O1FAF00)
+4. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130225&t=2&i=707360728&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91O1FAF00)
 
 ### Related:
 

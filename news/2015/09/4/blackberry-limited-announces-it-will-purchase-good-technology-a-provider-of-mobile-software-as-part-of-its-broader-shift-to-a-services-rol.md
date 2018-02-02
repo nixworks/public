@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/09/4/blackberry-limited-announces-it-will-purchase-good-technology-a-provider-of-mobile-software-as-part-of-its-broader-shift-to-a-services-rol.html)  [JSON](/news/2015/09/4/blackberry-limited-announces-it-will-purchase-good-technology-a-provider-of-mobile-software-as-part-of-its-broader-shift-to-a-services-rol.json)  [XML](/news/2015/09/4/blackberry-limited-announces-it-will-purchase-good-technology-a-provider-of-mobile-software-as-part-of-its-broader-shift-to-a-services-rol.xml)  
+
 ### [2015-09-4](/news/2015/09/4/index.md)
 
+##### BlackBerry Limited
 # BlackBerry Limited announces it will purchase Good Technology, a provider of mobile software, as part of its broader shift to a services role within the internet of things. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/09/04/us-goodtechnology-m-a-blackberry-idUSKCN0R41C520150904)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150904&t=2&i=1076972075&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB830NO)
+1. [Reuters](https://www.reuters.com/article/2015/09/04/us-goodtechnology-m-a-blackberry-idUSKCN0R41C520150904)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150904&t=2&i=1076972075&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB830NO)
 
 ### Related:
 

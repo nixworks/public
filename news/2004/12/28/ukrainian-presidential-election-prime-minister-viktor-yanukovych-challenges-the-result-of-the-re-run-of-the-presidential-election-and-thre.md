@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/28/ukrainian-presidential-election-prime-minister-viktor-yanukovych-challenges-the-result-of-the-re-run-of-the-presidential-election-and-thre.html)  [JSON](/news/2004/12/28/ukrainian-presidential-election-prime-minister-viktor-yanukovych-challenges-the-result-of-the-re-run-of-the-presidential-election-and-thre.json)  [XML](/news/2004/12/28/ukrainian-presidential-election-prime-minister-viktor-yanukovych-challenges-the-result-of-the-re-run-of-the-presidential-election-and-thre.xml)  
+
 ### [2004-12-28](/news/2004/12/28/index.md)
 
+##### Ukrainian presidential election
 #  Ukrainian presidential election: Prime Minister Viktor Yanukovych challenges the result of the re-run of the presidential election and threatens to take the case to the Supreme Court. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4129347.stm)
 2. [Guardian](http://www.guardian.co.uk/ukraine/story/0,15569,1380269,00.html)

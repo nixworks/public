@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/15/the-australian-council-of-trade-unions-and-australian-workers-union-threatens-to-withdraw-support-for-the-julia-gillard-minority-government.html)  [JSON](/news/2011/04/15/the-australian-council-of-trade-unions-and-australian-workers-union-threatens-to-withdraw-support-for-the-julia-gillard-minority-government.json)  [XML](/news/2011/04/15/the-australian-council-of-trade-unions-and-australian-workers-union-threatens-to-withdraw-support-for-the-julia-gillard-minority-government.xml)  
+
 ### [2011-04-15](/news/2011/04/15/index.md)
 
+##### Australian Council of Trade Unions
 # The Australian Council of Trade Unions and Australian Workers' Union threatens to withdraw support for the Julia Gillard minority government's plans to introduce a carbon tax unless it can be guaranteed that no jobs will be lost. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/energyOilNews/idAFL3E7FF01I20110415)
 

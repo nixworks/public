@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/30/at-least-230-people-have-been-injured-in-clashes-between-opponents-of-prime-minister-of-pakistan-nawaz-sharif-and-police-in-islamabad.html)  [JSON](/news/2014/08/30/at-least-230-people-have-been-injured-in-clashes-between-opponents-of-prime-minister-of-pakistan-nawaz-sharif-and-police-in-islamabad.json)  [XML](/news/2014/08/30/at-least-230-people-have-been-injured-in-clashes-between-opponents-of-prime-minister-of-pakistan-nawaz-sharif-and-police-in-islamabad.xml)  
+
 ### [2014-08-30](/news/2014/08/30/index.md)
 
+##### Prime Minister
 # At least 230 people have been injured in clashes between opponents of Prime Minister of Pakistan Nawaz Sharif and police in Islamabad. 
 
 At least three people have been killed in clashes between police and anti-government protesters in Pakistan.
 
 
-### Source:
+### Sources:
 
 1. [AFP/Reuters via ABC News Australia](http://www.abc.net.au/news/2014-08-31/pressure-mounts-on-pakistan-leader-as-protests-continue/5708250)
 1. [Cover Image](http://www.abc.net.au/news/image/5708262-1x1-700x700.jpg)

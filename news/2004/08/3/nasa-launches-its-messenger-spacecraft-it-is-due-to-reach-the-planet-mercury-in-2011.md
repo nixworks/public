@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/3/nasa-launches-its-messenger-spacecraft-it-is-due-to-reach-the-planet-mercury-in-2011.html)  [JSON](/news/2004/08/3/nasa-launches-its-messenger-spacecraft-it-is-due-to-reach-the-planet-mercury-in-2011.json)  [XML](/news/2004/08/3/nasa-launches-its-messenger-spacecraft-it-is-due-to-reach-the-planet-mercury-in-2011.xml)  
+
 ### [2004-08-3](/news/2004/08/3/index.md)
 
+##### NASA
 #  NASA launches its MESSENGER spacecraft. It is due to reach the planet Mercury in 2011. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [JHUAPL](http://www.jhuapl.edu/newscenter/pressreleases/2004/040803.htm)
 

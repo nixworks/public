@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/14/jocelerme-privert-is-elected-as-the-interim-pre
 
 ### [2016-02-14](/news/2016/02/14/index.md)
 
+##### Jocelerme Privert
 # Jocelerme Privert is elected as the interim President of Haiti pending elections later this year. 
 
 Port-au-Prince (AFP) - Haitian lawmakers early Sunday elected Jocelerme Privert as the troubled country&#x27;s interim president to fill a power vacuum following the departure of Michel Martelly, after a vote to choose his successor was postponed over fears of violence. Privert, 62, a senator and president

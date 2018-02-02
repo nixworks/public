@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/21/four-men-go-on-trial-in-nukue-alofa-charged-with-a-mother-s-manslaughter-in-the-mv-princess-ashika-ferry-disaster.html)  [JSON](/news/2010/07/21/four-men-go-on-trial-in-nukue-alofa-charged-with-a-mother-s-manslaughter-in-the-mv-princess-ashika-ferry-disaster.json)  [XML](/news/2010/07/21/four-men-go-on-trial-in-nukue-alofa-charged-with-a-mother-s-manslaughter-in-the-mv-princess-ashika-ferry-disaster.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### Nuku`alofa
 # Four men go on trial in Nuku`alofa charged with a mother's manslaughter in the MV "Princess Ashika" ferry disaster. 
 
 The manslaughter trial of four men for a death in the Princess Ashika ferry disaster, which killed 74 people, begins.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10708316)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

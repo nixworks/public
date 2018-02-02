@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/09/20/the-us-national-snow-and-ice-data-center-says-the-arctic-ice-cap-size-on-september-16-is-at-season-s-low-with-a-record-low-size-ever-since.html)  [JSON](/news/2012/09/20/the-us-national-snow-and-ice-data-center-says-the-arctic-ice-cap-size-on-september-16-is-at-season-s-low-with-a-record-low-size-ever-since.json)  [XML](/news/2012/09/20/the-us-national-snow-and-ice-data-center-says-the-arctic-ice-cap-size-on-september-16-is-at-season-s-low-with-a-record-low-size-ever-since.xml)  
+
 ### [2012-09-20](/news/2012/09/20/index.md)
 
+##### National Snow and Ice Data Center
 # The US National Snow and Ice Data Center says the Arctic ice cap size on September 16 is at season's low, with a record low size ever since August 26. 
 
 On Sunday, by an area about the size of Texas, Arctic sea ice extent shrunk below the previous record low established September 18, 2007.
 
 
-### Source:
+### Sources:
 
 1. [NSIDC](http://nsidc.org/arcticseaicenews/)
-2. [Washington Post](http://www.washingtonpost.com/blogs/capital-weather-gang/post/arctic-sea-ice-extent-reaches-record-shattering-minimum/2012/09/19/fe373130-027d-11e2-8102-ebee9c66e190_blog.html)
+2. [Washington Post](https://www.washingtonpost.com/blogs/capital-weather-gang/post/arctic-sea-ice-extent-reaches-record-shattering-minimum/2012/09/19/fe373130-027d-11e2-8102-ebee9c66e190_blog.html)
 
 ### Related:
 

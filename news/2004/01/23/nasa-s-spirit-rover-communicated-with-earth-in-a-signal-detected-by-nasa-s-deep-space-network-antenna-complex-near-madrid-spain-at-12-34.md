@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/23/nasa-s-spirit-rover-communicated-with-earth-in-a-signal-detected-by-nasa-s-deep-space-network-antenna-complex-near-madrid-spain-at-12-34.html)  [JSON](/news/2004/01/23/nasa-s-spirit-rover-communicated-with-earth-in-a-signal-detected-by-nasa-s-deep-space-network-antenna-complex-near-madrid-spain-at-12-34.json)  [XML](/news/2004/01/23/nasa-s-spirit-rover-communicated-with-earth-in-a-signal-detected-by-nasa-s-deep-space-network-antenna-complex-near-madrid-spain-at-12-34.xml)  
+
 ### [2004-01-23](/news/2004/01/23/index.md)
 
+##### NASA
 #  NASA's Spirit rover communicated with Earth in a signal detected by NASA's Deep Space Network antenna complex near Madrid, Spain, at 12:34 Universal Time (4:34 am PST) this morning. The transmissions came during a communication window about 90 minutes after Spirit woke up for the morning on Mars. The signal lasted for 10 minutes at a data rate of 10 bits per second. Mission controllers at NASA's Jet Propulsion Laboratory, Pasadena, California, plan to send commands to Spirit seeking additional data from the spacecraft during the subsequent few hours. The flight team for NASA's Spirit received data from the rover in another communication session that began at 13:26 Universal Time (5:26 am PST) and lasted 20 minutes at a data rate of 120 bits per second.
 
 

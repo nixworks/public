@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/18/the-canadian-radio-television-and-telecommunications-commission-crtc-approves-an-application-by-the-american-news-channel-fox-news-for-a.html)  [JSON](/news/2004/11/18/the-canadian-radio-television-and-telecommunications-commission-crtc-approves-an-application-by-the-american-news-channel-fox-news-for-a.json)  [XML](/news/2004/11/18/the-canadian-radio-television-and-telecommunications-commission-crtc-approves-an-application-by-the-american-news-channel-fox-news-for-a.xml)  
+
 ### [2004-11-18](/news/2004/11/18/index.md)
 
+##### Canadian Radio-television and Telecommunications Commission
 #  The Canadian Radio-television and Telecommunications Commission (CRTC) approves an application by the American news channel Fox News for a digital licence. Fox's previous exclusion from the Canadian airwaves had been criticized by some Canadians as being motivated by the network's perceived conservative bias. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/story/2004/11/18/fox_crtc041118.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/28/germany-becomes-the-first-country-to-formalize-its-recognition-of-kosovo-by-renaming-its-diplomatic-office-in-pristina-into-an-embassy.html)  [JSON](/news/2008/02/28/germany-becomes-the-first-country-to-formalize-its-recognition-of-kosovo-by-renaming-its-diplomatic-office-in-pristina-into-an-embassy.json)  [XML](/news/2008/02/28/germany-becomes-the-first-country-to-formalize-its-recognition-of-kosovo-by-renaming-its-diplomatic-office-in-pristina-into-an-embassy.xml)  
+
 ### [2008-02-28](/news/2008/02/28/index.md)
 
+##### Kosovo
 #  Germany becomes the first country to formalize its recognition of Kosovo by renaming its diplomatic office in Pristina into an embassy. 
 
 Germany became Thursday the first country to formalize its recognition of Kosovo by renaming its diplomatic office in Prishtina into an embassy. An inscription reading &quot;Embassy of the Federal Republic of Germany&quot; appeared on the faГ§ade of the German diplomatic mission in the Kosovo capital, ITAR-TASS reported.
 
 
-### Source:
+### Sources:
 
 1. [Novinite, Sofia News Agency](http://www.novinite.com/view_news.php?id=90818)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/24/sixteen-militants-and-eight-indian-army-soldiers-are-killed-in-jammu-and-kashmir-s-kupwara-district.html)  [JSON](/news/2009/03/24/sixteen-militants-and-eight-indian-army-soldiers-are-killed-in-jammu-and-kashmir-s-kupwara-district.json)  [XML](/news/2009/03/24/sixteen-militants-and-eight-indian-army-soldiers-are-killed-in-jammu-and-kashmir-s-kupwara-district.xml)  
+
 ### [2009-03-24](/news/2009/03/24/index.md)
 
+##### militant
 #  Sixteen militants and eight Indian Army soldiers are killed in Jammu and Kashmir's Kupwara District. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/7960557.stm)
 

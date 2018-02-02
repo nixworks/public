@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/20/at-least-50-people-are-killed-and-more-than-150-others-are-injured-in-two-bomb-attacks-near-karbala.html)  [JSON](/news/2011/01/20/at-least-50-people-are-killed-and-more-than-150-others-are-injured-in-two-bomb-attacks-near-karbala.json)  [XML](/news/2011/01/20/at-least-50-people-are-killed-and-more-than-150-others-are-injured-in-two-bomb-attacks-near-karbala.xml)  
+
 ### [2011-01-20](/news/2011/01/20/index.md)
 
+##### Karbala
 # At least 50 people are killed and more than 150 others are injured in two bomb attacks near Karbala. 
 
 Two bombs near the Iraqi city of Karbala kill at least 50 people and wound many others during the Shia commemorations of Arbaeen.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/01/2011120124327958681.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12242407)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/3/former-prime-minister-benazir-bhutto-says-she-will-return-to-pakistan-and-is-considering-contesting-the-next-presidential-election.html)  [JSON](/news/2007/07/3/former-prime-minister-benazir-bhutto-says-she-will-return-to-pakistan-and-is-considering-contesting-the-next-presidential-election.json)  [XML](/news/2007/07/3/former-prime-minister-benazir-bhutto-says-she-will-return-to-pakistan-and-is-considering-contesting-the-next-presidential-election.xml)  
+
 ### [2007-07-3](/news/2007/07/3/index.md)
 
+##### Prime Minister
 #  Former Prime Minister Benazir Bhutto says she will return to Pakistan and is considering contesting the next presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://www.iht.com/articles/ap/2007/07/03/europe/EU-GEN-Britain-Bhutto.php)
 

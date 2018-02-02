@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/10/at-the-2013-crufts-dog-show-soletrader-peek-a-boo-a-petit-basset-griffon-venda-c-en-wins-best-in-show.html)  [JSON](/news/2013/03/10/at-the-2013-crufts-dog-show-soletrader-peek-a-boo-a-petit-basset-griffon-venda-c-en-wins-best-in-show.json)  [XML](/news/2013/03/10/at-the-2013-crufts-dog-show-soletrader-peek-a-boo-a-petit-basset-griffon-venda-c-en-wins-best-in-show.xml)  
+
 ### [2013-03-10](/news/2013/03/10/index.md)
 
+##### Crufts
 # At the 2013 Crufts dog show, Soletrader Peek A Boo, a Petit Basset Griffon Vendeen, wins Best in Show. 
 
 A dog called Jilly, who despite a very ordinary name is a Petit Basset Griffon Vendeen, won the Best in Show title at Crufts tonight, after competing against thousands of other pedigrees to win the...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21737271)
 2. [The Times](http://www.thetimes.co.uk/tto/news/uk/article3710208.ece)

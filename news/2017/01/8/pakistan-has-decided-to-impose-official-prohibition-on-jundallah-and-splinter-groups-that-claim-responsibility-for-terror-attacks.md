@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/8/pakistan-has-decided-to-impose-official-prohibit
 
 ### [2017-01-8](/news/2017/01/8/index.md)
 
+##### Jundallah
 # Pakistan has decided to impose official prohibition on Jundallah and splinter groups that claim responsibility for terror attacks. 
 
 ISLAMABAD: The government has decided to impose a ban on Jundullah and all the terrorist groups that claim responsibility for terror attacks. Sources said that the National Counter Terrorism...

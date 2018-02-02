@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/28/a-c-milan-win-the-2002-2003-final-of-the-uefa-champions-league-by-beating-juventus-3-2-penalty-shootout-at-old-trafford-in-manchester-t.html)  [JSON](/news/2003/05/28/a-c-milan-win-the-2002-2003-final-of-the-uefa-champions-league-by-beating-juventus-3-2-penalty-shootout-at-old-trafford-in-manchester-t.json)  [XML](/news/2003/05/28/a-c-milan-win-the-2002-2003-final-of-the-uefa-champions-league-by-beating-juventus-3-2-penalty-shootout-at-old-trafford-in-manchester-t.xml)  
+
 ### [2003-05-28](/news/2003/05/28/index.md)
 
+##### A.C. Milan
 #  A.C. Milan win the 2002-2003 final of the UEFA Champions League by beating Juventus 3:2 (penalty shootout) at Old Trafford in Manchester. The game had ended 0-0 before the shootout.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/4/the-u-s-justice-department-notifies-north-caroli
 
 ### [2016-05-4](/news/2016/05/4/index.md)
 
+##### North Carolina Public Facilities Privacy & Security Act
 # The U.S. Justice Department notifies North Carolina Governor Pat McCrory that the state's new law which limits restroom access for transgender people violates the U.S. Civil Rights Act, and asks for a response by May 9 whether the state will correct "these violations of Title VII." The Governor's statement in response does not specifically say what the state will do. 
 
 

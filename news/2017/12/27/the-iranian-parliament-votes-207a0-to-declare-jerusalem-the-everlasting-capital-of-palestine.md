@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/27/the-iranian-parliament-votes-207a0-to-declare-j
 
 ### [2017-12-27](/news/2017/12/27/index.md)
 
+##### Positions on Jerusalem
 # The Iranian Parliament votes 207-0 to declare Jerusalem the "everlasting capital" of Palestine. 
 
 Resolution passes unanimously in Tehran parliament, weeks after US president recognizes city as Israel&#039;s capital

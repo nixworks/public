@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/21/katharine-jefferts-schori-the-episcopal-bishop-of-nevada-and-the-new-leader-of-the-episcopal-church-in-the-united-states-of-america-has-s.html)  [JSON](/news/2006/06/21/katharine-jefferts-schori-the-episcopal-bishop-of-nevada-and-the-new-leader-of-the-episcopal-church-in-the-united-states-of-america-has-s.json)  [XML](/news/2006/06/21/katharine-jefferts-schori-the-episcopal-bishop-of-nevada-and-the-new-leader-of-the-episcopal-church-in-the-united-states-of-america-has-s.xml)  
+
 ### [2006-06-21](/news/2006/06/21/index.md)
 
+##### Katharine Jefferts Schori
 #  Katharine Jefferts Schori, the Episcopal bishop of Nevada, and the new leader of the Episcopal Church in the United States of America has said that homosexuality is not a sin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Melbourne Herald Sun](http://www.heraldsun.news.com.au/common/story_page/0,5478,19535812%255E663,00.html)
 

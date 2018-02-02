@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/30/the-rebel-group-the-justice-and-equality-movement-refuses-to-sign-on-to-the-proposed-peace-agreement-in-its-current-form.html)  [JSON](/news/2006/04/30/the-rebel-group-the-justice-and-equality-movement-refuses-to-sign-on-to-the-proposed-peace-agreement-in-its-current-form.json)  [XML](/news/2006/04/30/the-rebel-group-the-justice-and-equality-movement-refuses-to-sign-on-to-the-proposed-peace-agreement-in-its-current-form.xml)  
+
 ### [2006-04-30](/news/2006/04/30/index.md)
 
+##### Justice and Equality Movement
 #  The rebel group the Justice and Equality Movement refuses to sign on to the proposed peace agreement in its current form. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyid=2006-04-30T202340Z_01_L30628083_RTRUKOC_0_US-SUDAN-DARFUR-JEM.xml)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

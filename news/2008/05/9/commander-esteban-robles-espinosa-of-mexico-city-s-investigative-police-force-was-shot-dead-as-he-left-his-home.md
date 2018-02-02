@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/9/commander-esteban-robles-espinosa-of-mexico-city-s-investigative-police-force-was-shot-dead-as-he-left-his-home.html)  [JSON](/news/2008/05/9/commander-esteban-robles-espinosa-of-mexico-city-s-investigative-police-force-was-shot-dead-as-he-left-his-home.json)  [XML](/news/2008/05/9/commander-esteban-robles-espinosa-of-mexico-city-s-investigative-police-force-was-shot-dead-as-he-left-his-home.xml)  
+
 ### [2008-05-9](/news/2008/05/9/index.md)
 
+##### Esteban Robles Espinosa
 #  Commander Esteban Robles Espinosa of Mexico City's investigative police force was shot dead as he left his home. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/WORLD/americas/05/09/mexico.violence/index.html)
 

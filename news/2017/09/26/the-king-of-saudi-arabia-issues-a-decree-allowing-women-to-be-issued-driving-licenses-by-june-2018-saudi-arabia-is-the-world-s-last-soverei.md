@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/26/the-king-of-saudi-arabia-issues-a-decree-allowi
 
 ### [2017-09-26](/news/2017/09/26/index.md)
 
+##### Women's rights in Saudi Arabia
 # The king of Saudi Arabia issues a decree allowing women to be issued driving licenses by June 2018. Saudi Arabia is the world's last sovereign state that does not allow women to drive. 
 
 King Salman ordered the reform in a royal decree delivered on Tuesday night, requesting that drivers’ licences be issued to women who wanted them

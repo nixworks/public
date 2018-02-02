@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2005/03/19/g20-group-of-the-developing-countries-calls-on-rich-nations-to-end-their-farming-subsidies-in-five-years.html)  [JSON](/news/2005/03/19/g20-group-of-the-developing-countries-calls-on-rich-nations-to-end-their-farming-subsidies-in-five-years.json)  [XML](/news/2005/03/19/g20-group-of-the-developing-countries-calls-on-rich-nations-to-end-their-farming-subsidies-in-five-years.xml)  
+
 ### [2005-03-19](/news/2005/03/19/index.md)
 
+##### G20
 #  G20 group of the developing countries calls on rich nations to end their farming subsidies in five years 
 
 Business news & Financial news from Reuters.com.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/4361109.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000086&sid=aoeM4iSNt5X0&refer=latin_america)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000086&sid=aoeM4iSNt5X0&refer=latin_america)
 3. [Business Week](http://www.businessweek.com/ap/financialnews/D88U25K01.htm?campaign_id=apn_home_down)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=7950003&type=businessNews)
-4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml?storyID=7950003&type=businessNews)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

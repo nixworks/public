@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/15/1-600-palestinians-in-israeli-jails-begin-a-liquids-only-diet-which-they-are-describing-as-a-hunger-strike-to-protest-against-their-prison.html)  [JSON](/news/2004/08/15/1-600-palestinians-in-israeli-jails-begin-a-liquids-only-diet-which-they-are-describing-as-a-hunger-strike-to-protest-against-their-prison.json)  [XML](/news/2004/08/15/1-600-palestinians-in-israeli-jails-begin-a-liquids-only-diet-which-they-are-describing-as-a-hunger-strike-to-protest-against-their-prison.xml)  
+
 ### [2004-08-15](/news/2004/08/15/index.md)
 
+##### Palestinians
 #  1,600 Palestinians in Israeli jails begin a liquids-only diet, which they are describing as a hunger strike to protest against their prison conditions. Israeli Internal Security Minister Tzahi Hanegbi comments: "As far as I'm concerned, they can strike for a day, a month, until death." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3567130.stm)
 

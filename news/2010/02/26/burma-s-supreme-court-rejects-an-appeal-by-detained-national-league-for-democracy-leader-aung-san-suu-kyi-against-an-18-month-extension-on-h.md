@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/26/burma-s-supreme-court-rejects-an-appeal-by-detained-national-league-for-democracy-leader-aung-san-suu-kyi-against-an-18-month-extension-on-h.html)  [JSON](/news/2010/02/26/burma-s-supreme-court-rejects-an-appeal-by-detained-national-league-for-democracy-leader-aung-san-suu-kyi-against-an-18-month-extension-on-h.json)  [XML](/news/2010/02/26/burma-s-supreme-court-rejects-an-appeal-by-detained-national-league-for-democracy-leader-aung-san-suu-kyi-against-an-18-month-extension-on-h.xml)  
+
 ### [2010-02-26](/news/2010/02/26/index.md)
 
+##### Burma
 # Burma's Supreme Court rejects an appeal by detained National League for Democracy leader Aung San Suu Kyi against an 18 month extension on her house arrest. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/world/story/2010/02/25/burma-suu-kyi025.html)
 2. [MSN Philippines](http://news.ph.msn.com/regional/article.aspx?cp-documentid=3911539)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/02/20/latvian-prime-minister-ivars-godmanis-and-his-government-resign.html)  [JSON](/news/2009/02/20/latvian-prime-minister-ivars-godmanis-and-his-government-resign.json)  [XML](/news/2009/02/20/latvian-prime-minister-ivars-godmanis-and-his-government-resign.xml)  
+
 ### [2009-02-20](/news/2009/02/20/index.md)
 
+##### Latvia
 #  Latvian Prime Minister Ivars Godmanis and his government resign. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601085&sid=aLBfoSj4H7p0&refer=europe)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601085&sid=aLBfoSj4H7p0&refer=europe)
 
 ### Related:
 

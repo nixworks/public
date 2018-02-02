@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/21/film-director-and-newspaper-columnist-michael-winner-dies-aged-77-in-kensington-london-england.html)  [JSON](/news/2013/01/21/film-director-and-newspaper-columnist-michael-winner-dies-aged-77-in-kensington-london-england.json)  [XML](/news/2013/01/21/film-director-and-newspaper-columnist-michael-winner-dies-aged-77-in-kensington-london-england.xml)  
+
 ### [2013-01-21](/news/2013/01/21/index.md)
 
+##### Film director
 # Film director and newspaper columnist Michael Winner dies aged 77 in Kensington, London, England. 
 
 Film director and newspaper columnist Michael Winner dies, aged 77.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-21123532)
 2. [The Guardian](http://www.guardian.co.uk/culture/2013/jan/21/michael-winner-dead)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/4/the-confirmed-death-toll-from-flooding-in-china-rises-above-1-000.html)  [JSON](/news/2010/08/4/the-confirmed-death-toll-from-flooding-in-china-rises-above-1-000.json)  [XML](/news/2010/08/4/the-confirmed-death-toll-from-flooding-in-china-rises-above-1-000.xml)  
+
 ### [2010-08-4](/news/2010/08/4/index.md)
 
+##### 2010 China floods
 # The confirmed death toll from flooding in China rises above 1,000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5h4WzWeMJ7PKISlH1gvwNg_5weS1wD9HCIU5O0)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/28/mexican-authorities-arrest-army-major-arturo-gonza-lez-rodraguez-for-selling-information-to-the-beltra-n-leyva-drug-cartel.html)  [JSON](/news/2008/12/28/mexican-authorities-arrest-army-major-arturo-gonza-lez-rodraguez-for-selling-information-to-the-beltra-n-leyva-drug-cartel.json)  [XML](/news/2008/12/28/mexican-authorities-arrest-army-major-arturo-gonza-lez-rodraguez-for-selling-information-to-the-beltra-n-leyva-drug-cartel.xml)  
+
 ### [2008-12-28](/news/2008/12/28/index.md)
 
+##### Mexico
 #  Mexican authorities arrest Army Major Arturo Gonzalez Rodriguez for selling information to the Beltran Leyva drug cartel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7801693.stm)
 

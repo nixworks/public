@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/17/robert-lighthizer-sends-a-document-to-u-s-lawma
 
 ### [2017-07-17](/news/2017/07/17/index.md)
 
+##### Foreign trade of the United States
 # Robert Lighthizer sends a document to U.S. lawmakers outlining the Trump Administration's priorities for renegotiating NAFTA, including lower trade deficits and efforts to deter currency manipulation. 
 
 The United States on Monday launched the first salvo in the renegotiation of the 23-year-old North American Free Trade Agreement (NAFTA), saying its top priority for the talks was shrinking the U.S. trade deficit with Canada and Mexico.
@@ -20,8 +21,8 @@ The United States on Monday launched the first salvo in the renegotiation of the
 
 ### Related:
 
-1. [U.S. federal prosecutors subpoena Carl Icahn over his role as an adviser on biofuels in the Trump administration. ](/news/2017/11/8/u-s-federal-prosecutors-subpoena-carl-icahn-over-his-role-as-an-adviser-on-biofuels-in-the-trump-administration.md) _Context: Trump administration_
-2. [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the visa program. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md) _Context: Trump administration_
-3. [The U.S. Senate Budget Committee votes to move the Trump administration's tax bill to the full U.S. Senate. ](/news/2017/11/28/the-u-s-senate-budget-committee-votes-to-move-the-trump-administration-s-tax-bill-to-the-full-u-s-senate.md) _Context: Trump administration_
-4. [Unnamed White House officials believe White House Chief of Staff John F. Kelly's personal cellphone was hacked, possibly since December 2016. Kelly was Secretary of Homeland Security from January 20 to July 31, 2017, when he moved to his current position. ](/news/2017/10/6/unnamed-white-house-officials-believe-white-house-chief-of-staff-john-f-kelly-s-personal-cellphone-was-hacked-possibly-since-december-2016.md) _Context: Trump administration_
-5. [A Trump administration executive order reverses an Obamacare policy which mandated that employers and insurers provide their employees with birth control, regardless of one's "religious beliefs" or "moral convictions". ](/news/2017/10/6/a-trump-administration-executive-order-reverses-an-obamacare-policy-which-mandated-that-employers-and-insurers-provide-their-employees-with.md) _Context: Trump administration_
+1. [United States Attorney General Jeff Sessions intends on stripping the U.S. citizenship of four Somali Americans allegedly abusing the Diversity Immigrant Visa by pretending to be a family. The Trump Administration earlier said it plans to scrap the visa program. ](/news/2017/11/6/united-states-attorney-general-jeff-sessions-intends-on-stripping-the-u-s-citizenship-of-four-somali-americans-allegedly-abusing-the-divers.md) _Context: Trump Administration_
+2. [U.S. President-elect Donald Trump says that Robert Lighthizer will be the country's chief trade negotiator. ](/news/2017/01/3/u-s-president-elect-donald-trump-says-that-robert-lighthizer-will-be-the-country-s-chief-trade-negotiator.md) _Context: Robert Lighthizer_
+3. [A UBS whistle blower is assisting the government of Brazil in its investigation of currency manipulation by global banks, according to a Brazilian paper. ](/news/2015/07/3/a-ubs-whistle-blower-is-assisting-the-government-of-brazil-in-its-investigation-of-currency-manipulation-by-global-banks-according-to-a-bra.md) _Context: currency manipulation_
+4. [The United States trade deficit widens 8.5% during April as growth in imports outpaces growth in exports. ](/news/2013/06/4/the-united-states-trade-deficit-widens-8-5-during-april-as-growth-in-imports-outpaces-growth-in-exports.md) _Context: trade deficit_
+5. [The People's Republic of China records its highest trade deficit in over a decade, indicating a slowing economy. ](/news/2012/03/12/the-people-s-republic-of-china-records-its-highest-trade-deficit-in-over-a-decade-indicating-a-slowing-economy.md) _Context: trade deficit_

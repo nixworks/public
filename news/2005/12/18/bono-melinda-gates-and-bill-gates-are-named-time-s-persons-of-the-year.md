@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/18/bono-melinda-gates-and-bill-gates-are-named-time-s-persons-of-the-year.html)  [JSON](/news/2005/12/18/bono-melinda-gates-and-bill-gates-are-named-time-s-persons-of-the-year.json)  [XML](/news/2005/12/18/bono-melinda-gates-and-bill-gates-are-named-time-s-persons-of-the-year.xml)  
+
 ### [2005-12-18](/news/2005/12/18/index.md)
 
+##### Bono
 #  Bono, Melinda Gates and Bill Gates are named "Time"'s Persons of the Year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/US/12/18/time.poy/index.html)
 

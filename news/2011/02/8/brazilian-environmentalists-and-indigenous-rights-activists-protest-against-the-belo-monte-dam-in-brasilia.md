@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/8/brazilian-environmentalists-and-indigenous-rights-activists-protest-against-the-belo-monte-dam-in-brasilia.html)  [JSON](/news/2011/02/8/brazilian-environmentalists-and-indigenous-rights-activists-protest-against-the-belo-monte-dam-in-brasilia.json)  [XML](/news/2011/02/8/brazilian-environmentalists-and-indigenous-rights-activists-protest-against-the-belo-monte-dam-in-brasilia.xml)  
+
 ### [2011-02-8](/news/2011/02/8/index.md)
 
+##### Brazil
 # Brazilian environmentalists and indigenous rights activists protest against the Belo Monte Dam in Brasilia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/americas/02/08/brazil.dam.protests/index.html?eref=edition)
 
@@ -14,5 +18,5 @@
 1. [Protesters in Brazil hold a violent demonstration against a proposed public spending cap in the capital Brasilia. Police used tear gas and rubber bullets in order to disperse the demonstrators. ](/news/2016/11/29/protesters-in-brazil-hold-a-violent-demonstration-against-a-proposed-public-spending-cap-in-the-capital-brasilia-police-used-tear-gas-and-r.md) _Context: Brasilia, Brazil_
 2. [A Brazilian court suspends the licence for the Belo Monte Dam weeks before it was due to start operating until operator Norte Energia SA and the government of Brazil reorganizes FundacGBPo Nacional do Indio, a protection agency for indigenous Brazilians. ](/news/2016/01/14/a-brazilian-court-suspends-the-licence-for-the-belo-monte-dam-weeks-before-it-was-due-to-start-operating-until-operator-norte-energia-sa-and.md) _Context: Belo Monte Dam, Brazil_
 3. [A Brazilian judge blocks construction of the Belo Monte Dam on the Amazon Basin after it fails to meet environmental requirements. ](/news/2011/02/26/a-brazilian-judge-blocks-construction-of-the-belo-monte-dam-on-the-amazon-basin-after-it-fails-to-meet-environmental-requirements.md) _Context: Belo Monte Dam, Brazil_
-4. [500 Greenpeace environmentalists protest against the awarding of a tender for the controversial Belo Monte hydroelectric project by dumping tonnes of manure at the National Electric Energy Agency's (Agencia Nacional de Energia Eletrica, ANEEL) offices in Brasilia. ](/news/2010/04/21/500-greenpeace-environmentalists-protest-against-the-awarding-of-a-tender-for-the-controversial-belo-monte-hydroelectric-project-by-dumping.md) _Context: Belo Monte Dam, Brasilia_
-5. [In the town of Janauba, Minas Gerais state, Brazil, a recently dismissed security guard set fire to a childcare center, killing at least four children and a teacher and leaving 25 others, mostly children aged four and five, injured. ](/news/2017/10/5/in-the-town-of-janaaoba-minas-gerais-state-brazil-a-recently-dismissed-security-guard-set-fire-to-a-childcare-center-killing-at-least-fo.md) _Context: Brazil_
+4. [The state government of Minas Gerais, Brazil, declares a health emergency in three areas, Belo Horizonte, Itabira and Ponte Nova, over an outbreak of yellow fever. ](/news/2018/01/20/the-state-government-of-minas-gerais-brazil-declares-a-health-emergency-in-three-areas-belo-horizonte-itabira-and-ponte-nova-over-an-ou.md) _Context: Brazil_
+5. [Fifteen people are injured and an infant is killed after a car hits a group of pedestrians near Copacabana Beach in Rio de Janeiro, Brazil. The police report that the driver had an epileptic seizure. ](/news/2018/01/19/fifteen-people-are-injured-and-an-infant-is-killed-after-a-car-hits-a-group-of-pedestrians-near-copacabana-beach-in-rio-de-janeiro-brazil.md) _Context: Brazil_

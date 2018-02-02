@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/15/france-s-sncf-inaugurates-the-lgv-est-route-between-paris-and-strasbourg.html)  [JSON](/news/2007/03/15/france-s-sncf-inaugurates-the-lgv-est-route-between-paris-and-strasbourg.json)  [XML](/news/2007/03/15/france-s-sncf-inaugurates-the-lgv-est-route-between-paris-and-strasbourg.xml)  
+
 ### [2007-03-15](/news/2007/03/15/index.md)
 
+##### France
 #  France's SNCF inaugurates the LGV Est route between Paris and Strasbourg. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6450973.stm)
 

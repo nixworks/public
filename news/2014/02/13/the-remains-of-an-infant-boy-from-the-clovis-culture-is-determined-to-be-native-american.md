@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/13/the-remains-of-an-infant-boy-from-the-clovis-culture-is-determined-to-be-native-american.html)  [JSON](/news/2014/02/13/the-remains-of-an-infant-boy-from-the-clovis-culture-is-determined-to-be-native-american.json)  [XML](/news/2014/02/13/the-remains-of-an-infant-boy-from-the-clovis-culture-is-determined-to-be-native-american.xml)  
+
 ### [2014-02-13](/news/2014/02/13/index.md)
 
+##### Clovis culture
 # The remains of an infant boy from the Clovis culture is determined to be Native American. 
 
 The mysterious Clovis culture, which appeared in North America about 13,000 years ago, appears to be the forerunner of Native Americans throughout the Americas, a study of DNA evidence suggests. Remains from an infant buried more than 12,000 years ago at a Clovis site in modern Montana held the genetic key.
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/2014/02/13/276021092/ancient-dna-ties-native-americans-from-two-continents-to-clovis)
 1. [Cover Image](https://media.npr.org/assets/img/2014/02/12/cover3b_wide-112888e24bf9bc35b11e83a9bd0498e74baee74b.jpg?s=1400)

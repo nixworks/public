@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/7/the-molecule-of-the-year-2010-is-foxm1-as-announced-by-isidro-a-t-savillo-president-ismcbbpr.html)  [JSON](/news/2011/02/7/the-molecule-of-the-year-2010-is-foxm1-as-announced-by-isidro-a-t-savillo-president-ismcbbpr.json)  [XML](/news/2011/02/7/the-molecule-of-the-year-2010-is-foxm1-as-announced-by-isidro-a-t-savillo-president-ismcbbpr.xml)  
+
 ### [2011-02-7](/news/2011/02/7/index.md)
 
+##### Molecule of the Year
 # The Molecule of the Year 2010 is FOXM1 as announced by Isidro A. T. Savillo, President, ISMCBBPR. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Scientist Solutions](http://www.scientistsolutions.com/t17577-announcing+the+molecule+of+the+year+2010.html)
 

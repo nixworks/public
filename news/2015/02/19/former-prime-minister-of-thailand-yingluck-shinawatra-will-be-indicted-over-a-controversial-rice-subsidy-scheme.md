@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/19/former-prime-minister-of-thailand-yingluck-shinawatra-will-be-indicted-over-a-controversial-rice-subsidy-scheme.html)  [JSON](/news/2015/02/19/former-prime-minister-of-thailand-yingluck-shinawatra-will-be-indicted-over-a-controversial-rice-subsidy-scheme.json)  [XML](/news/2015/02/19/former-prime-minister-of-thailand-yingluck-shinawatra-will-be-indicted-over-a-controversial-rice-subsidy-scheme.xml)  
+
 ### [2015-02-19](/news/2015/02/19/index.md)
 
+##### Prime Minister
 # Former Prime Minister of Thailand Yingluck Shinawatra will be indicted over a controversial rice subsidy scheme. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/news/asiapacific/thai-ex-pm-yingluck-to-be/1668710.html)
 

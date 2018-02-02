@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/28/a-shooting-at-an-elementary-school-in-townville
 
 ### [2016-09-28](/news/2016/09/28/index.md)
 
+##### Townville
 # A shooting at an elementary school in Townville, South Carolina, leaves two students and a teacher wounded. Police take the teenage suspect into custody. Authorities find the shooter's father dead. One of the students dies two days later. 
 
 One of the students was in critical condition and the suspected attacker was in custody. The suspect&#x27;s father was found shot to death nearby.

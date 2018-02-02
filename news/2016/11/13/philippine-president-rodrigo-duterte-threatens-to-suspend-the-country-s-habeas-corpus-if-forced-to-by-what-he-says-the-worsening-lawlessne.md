@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/13/philippine-president-rodrigo-duterte-threatens-
 
 ### [2016-11-13](/news/2016/11/13/index.md)
 
+##### Philippine
 # Philippine president Rodrigo Duterte threatens to suspend the country's habeas corpus "if forced to" by what he says the worsening lawlessness in the country. He mentioned in the same speech, the alleged widespread illegal drug trade in the country, the rebellion in Mindanao, and the worsening campaign against the militant Maute group. 
 
 

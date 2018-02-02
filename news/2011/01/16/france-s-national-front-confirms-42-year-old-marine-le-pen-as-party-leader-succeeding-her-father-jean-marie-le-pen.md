@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/16/france-s-national-front-confirms-42-year-old-marine-le-pen-as-party-leader-succeeding-her-father-jean-marie-le-pen.html)  [JSON](/news/2011/01/16/france-s-national-front-confirms-42-year-old-marine-le-pen-as-party-leader-succeeding-her-father-jean-marie-le-pen.json)  [XML](/news/2011/01/16/france-s-national-front-confirms-42-year-old-marine-le-pen-as-party-leader-succeeding-her-father-jean-marie-le-pen.xml)  
+
 ### [2011-01-16](/news/2011/01/16/index.md)
 
+##### France
 # France's National Front confirms 42-year-old Marine Le Pen as party leader, succeeding her father Jean-Marie Le Pen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-12201475)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

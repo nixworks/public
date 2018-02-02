@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/21/an-open-top-sightseeing-bus-with-40-tourists-on-board-is-stoned-in-belfast.html)  [JSON](/news/2009/06/21/an-open-top-sightseeing-bus-with-40-tourists-on-board-is-stoned-in-belfast.json)  [XML](/news/2009/06/21/an-open-top-sightseeing-bus-with-40-tourists-on-board-is-stoned-in-belfast.xml)  
+
 ### [2009-06-21](/news/2009/06/21/index.md)
 
+##### Belfast
 #  An open top sightseeing bus with 40 tourists on board is stoned in Belfast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0621/bus.html)
 

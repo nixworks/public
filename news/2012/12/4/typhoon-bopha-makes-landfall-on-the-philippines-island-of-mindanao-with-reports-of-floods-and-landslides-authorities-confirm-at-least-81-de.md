@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2012/12/4/typhoon-bopha-makes-landfall-on-the-philippines-island-of-mindanao-with-reports-of-floods-and-landslides-authorities-confirm-at-least-81-de.html)  [JSON](/news/2012/12/4/typhoon-bopha-makes-landfall-on-the-philippines-island-of-mindanao-with-reports-of-floods-and-landslides-authorities-confirm-at-least-81-de.json)  [XML](/news/2012/12/4/typhoon-bopha-makes-landfall-on-the-philippines-island-of-mindanao-with-reports-of-floods-and-landslides-authorities-confirm-at-least-81-de.xml)  
+
 ### [2012-12-4](/news/2012/12/4/index.md)
 
+##### Typhoon Bopha
 # Typhoon Bopha makes landfall on the Philippines island of Mindanao with reports of floods and landslides. Authorities confirm at least 81 deaths amid widespread property damage. 
 
 Typhoon Bopha has killed at least 52 people in the Philippines.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2012-12-04/an-philippines-hit-by-typhoon-bopha/4407494)
 2. [AFP via MSN Malaysia](http://news.malaysia.msn.com/regional/typhoon-smashes-into-philippines-1)
 3. [Bangkok Post](http://www.bangkokpost.com/news/world/324516/typhoon-bopha-kills-43-in-philippines)
-4. [Reuters](http://www.reuters.com/article/2012/12/04/us-philippines-typhoon-idUSBRE8B306420121204)
+4. [Reuters](https://www.reuters.com/article/2012/12/04/us-philippines-typhoon-idUSBRE8B306420121204)
 4. [Cover Image](http://www.abc.net.au/news/image/4408490-1x1-700x700.jpg)
 
 ### Related:

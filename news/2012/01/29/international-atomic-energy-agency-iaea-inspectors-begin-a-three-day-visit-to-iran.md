@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/29/international-atomic-energy-agency-iaea-inspectors-begin-a-three-day-visit-to-iran.html)  [JSON](/news/2012/01/29/international-atomic-energy-agency-iaea-inspectors-begin-a-three-day-visit-to-iran.json)  [XML](/news/2012/01/29/international-atomic-energy-agency-iaea-inspectors-begin-a-three-day-visit-to-iran.xml)  
+
 ### [2012-01-29](/news/2012/01/29/index.md)
 
+##### IAEA
 # International Atomic Energy Agency (IAEA) inspectors begin a three-day visit to Iran. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-16778292)
 2. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/UN-nuclear-inspection-under-way-in-Iran/articleshow/11675114.cms)

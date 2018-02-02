@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/04/12/a-15-year-palestinian-boy-was-caught-in-hawara-checkpoint-near-nablus-hiding-five-pipe-bombs-under-his-coat-he-apparently-tried-to-igni.html)  [JSON](/news/2005/04/12/a-15-year-palestinian-boy-was-caught-in-hawara-checkpoint-near-nablus-hiding-five-pipe-bombs-under-his-coat-he-apparently-tried-to-igni.json)  [XML](/news/2005/04/12/a-15-year-palestinian-boy-was-caught-in-hawara-checkpoint-near-nablus-hiding-five-pipe-bombs-under-his-coat-he-apparently-tried-to-igni.xml)  
+
 ### [2005-04-12](/news/2005/04/12/index.md)
 
+##### Palestinian
 #  A 15-year Palestinian boy was caught in Hawara checkpoint (near Nablus), hiding five pipe bombs under his coat. He apparently tried to ignite them with a match when the soldiers apprehended him. Soldiers later pose for photographs with the boy. His brother says he did so in order to study for his high-school matriculation exams in an Israeli prison. 
 
 

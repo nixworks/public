@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/24/canada-northwest-territories-general-election-2003-voters-in-the-nwt-choose-their-new-government-electing-the-independent-members-of-th.html)  [JSON](/news/2003/11/24/canada-northwest-territories-general-election-2003-voters-in-the-nwt-choose-their-new-government-electing-the-independent-members-of-th.json)  [XML](/news/2003/11/24/canada-northwest-territories-general-election-2003-voters-in-the-nwt-choose-their-new-government-electing-the-independent-members-of-th.xml)  
+
 ### [2003-11-24](/news/2003/11/24/index.md)
 
+##### Northwest Territories general election, 2003
 #  Canada, Northwest Territories general election, 2003: Voters in the NWT choose their new government, electing the independent members of their consensus legislature. The premier will be chosen by and among the members on December 10.
 
 

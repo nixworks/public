@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/5/the-court-of-appeal-of-england-and-wales-determines-that-a-merchant-ship-ss-storaa-is-eligible-for-consideration-for-protection-as-a-war.html)  [JSON](/news/2006/10/5/the-court-of-appeal-of-england-and-wales-determines-that-a-merchant-ship-ss-storaa-is-eligible-for-consideration-for-protection-as-a-war.json)  [XML](/news/2006/10/5/the-court-of-appeal-of-england-and-wales-determines-that-a-merchant-ship-ss-storaa-is-eligible-for-consideration-for-protection-as-a-war.xml)  
+
 ### [2006-10-5](/news/2006/10/5/index.md)
 
+##### Britain's Court of Appeal
 #  The Court of Appeal of England and Wales determines that a merchant ship, SS Storaa, is eligible for consideration for protection as a war grave under the Protection of Military Remains Act 1986. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/southern_counties/5409732.stm)
 

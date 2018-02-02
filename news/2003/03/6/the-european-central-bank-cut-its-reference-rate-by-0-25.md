@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/6/the-european-central-bank-cut-its-reference-rate-by-0-25.html)  [JSON](/news/2003/03/6/the-european-central-bank-cut-its-reference-rate-by-0-25.json)  [XML](/news/2003/03/6/the-european-central-bank-cut-its-reference-rate-by-0-25.xml)  
+
 ### [2003-03-6](/news/2003/03/6/index.md)
 
+##### European Central Bank
 #  The European Central Bank cut its reference rate by 0.25%
 
 

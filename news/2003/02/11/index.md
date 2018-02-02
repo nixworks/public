@@ -1,7 +1,7 @@
-## [2003-02-11](/news/2003/02/11/index.md)
 
-### [ The 2002 nominees for the Academy Award ("Oscar") were announced to the public.](/news/2003/02/11/the-2002-nominees-for-the-academy-award-oscar-were-announced-to-the-public.md)
-_Context: Academy Awards_
+Formats: [HTML](2003/02/11/index.html)  [JSON](2003/02/11/index.json)  [XML](2003/02/11/index.xml)  
+
+## [2003-02-11](/news/2003/02/11/index.md)
 
 ## [Previous Day...](/news/2003/02/10/index.md)
 

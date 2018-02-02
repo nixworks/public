@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2005/04/17/the-basque-national-party-of-juan-jose-ibarretxe-wins-regional-elections-in-the-basque-autonomous-region-of-spain-but-votes-to-ehak-the-co.html)  [JSON](/news/2005/04/17/the-basque-national-party-of-juan-jose-ibarretxe-wins-regional-elections-in-the-basque-autonomous-region-of-spain-but-votes-to-ehak-the-co.json)  [XML](/news/2005/04/17/the-basque-national-party-of-juan-jose-ibarretxe-wins-regional-elections-in-the-basque-autonomous-region-of-spain-but-votes-to-ehak-the-co.xml)  
+
 ### [2005-04-17](/news/2005/04/17/index.md)
 
+##### Basque National Party
 #  The Basque National Party of Juan Jos Ibarretxe wins regional elections in the Basque autonomous region of Spain but votes to EHAK, the Communist Party of Basque Lands, denies them majority. EHAK may have gained votes of supporters of banned Herri Batasuna party. Results may threaten Ibarratxe's plans for autonomy. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4453239.stm)
-2. [Bloomberg](http://www.bloomberg.com/apps/news?pid=10000085&sid=aW0rqP4ayfII&refer=europe)
+2. [Bloomberg](https://www.bloomberg.com/apps/news?pid=10000085&sid=aW0rqP4ayfII&refer=europe)
 3. [EITB](http://www.eitb24.com/noticia_en.php?id=53944)
-4. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8203844)
-4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+4. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=8203844)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

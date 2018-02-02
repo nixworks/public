@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/23/conflict-in-iraq-iraqi-army-officials-claim-that-they-along-with-backing-from-u-s-troops-have-killed-at-least-80-insurgents-in-a-raid-on.html)  [JSON](/news/2005/03/23/conflict-in-iraq-iraqi-army-officials-claim-that-they-along-with-backing-from-u-s-troops-have-killed-at-least-80-insurgents-in-a-raid-on.json)  [XML](/news/2005/03/23/conflict-in-iraq-iraqi-army-officials-claim-that-they-along-with-backing-from-u-s-troops-have-killed-at-least-80-insurgents-in-a-raid-on.xml)  
+
 ### [2005-03-23](/news/2005/03/23/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Iraqi Army officials claim that they along with backing from U.S. troops have killed at least 80 insurgents in a raid on a camp near Tikrit. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4374533.stm)
 

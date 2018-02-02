@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/06/17/the-u-n-human-rights-council-issues-its-first-condemnation-of-discrimination-against-gays-lesbians-and-transgender-people.html)  [JSON](/news/2011/06/17/the-u-n-human-rights-council-issues-its-first-condemnation-of-discrimination-against-gays-lesbians-and-transgender-people.json)  [XML](/news/2011/06/17/the-u-n-human-rights-council-issues-its-first-condemnation-of-discrimination-against-gays-lesbians-and-transgender-people.xml)  
+
 ### [2011-06-17](/news/2011/06/17/index.md)
 
+##### U.N. Human Rights Council
 # The U.N. Human Rights Council issues its first condemnation of discrimination against gays, lesbians and transgender people. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2011/06/17/general-un-un-gay-rights_8521614.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2011/06/17/general-un-un-gay-rights_8521614.html)
 
 ### Related:
 

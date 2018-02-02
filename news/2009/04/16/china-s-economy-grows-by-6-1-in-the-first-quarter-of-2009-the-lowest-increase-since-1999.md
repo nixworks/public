@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/16/china-s-economy-grows-by-6-1-in-the-first-quarter-of-2009-the-lowest-increase-since-1999.html)  [JSON](/news/2009/04/16/china-s-economy-grows-by-6-1-in-the-first-quarter-of-2009-the-lowest-increase-since-1999.json)  [XML](/news/2009/04/16/china-s-economy-grows-by-6-1-in-the-first-quarter-of-2009-the-lowest-increase-since-1999.xml)  
+
 ### [2009-04-16](/news/2009/04/16/index.md)
 
+##### China
 #  China's economy grows by 6.1% in the first quarter of 2009, the lowest increase since 1999. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-04/16/content_11193678.htm)
 

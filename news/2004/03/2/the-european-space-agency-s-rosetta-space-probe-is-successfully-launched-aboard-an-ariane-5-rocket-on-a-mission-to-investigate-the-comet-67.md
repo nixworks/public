@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/2/the-european-space-agency-s-rosetta-space-probe-is-successfully-launched-aboard-an-ariane-5-rocket-on-a-mission-to-investigate-the-comet-67.html)  [JSON](/news/2004/03/2/the-european-space-agency-s-rosetta-space-probe-is-successfully-launched-aboard-an-ariane-5-rocket-on-a-mission-to-investigate-the-comet-67.json)  [XML](/news/2004/03/2/the-european-space-agency-s-rosetta-space-probe-is-successfully-launched-aboard-an-ariane-5-rocket-on-a-mission-to-investigate-the-comet-67.xml)  
+
 ### [2004-03-2](/news/2004/03/2/index.md)
 
+##### European Space Agency
 #  The European Space Agency's Rosetta space probe is successfully launched aboard an Ariane 5 rocket on a mission to investigate the comet 67P-Churyumov-Gerasimenko. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/3522535.stm)
 

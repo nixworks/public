@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/26/spanish-court-imprisons-arnaldo-otegi-head-of-herri-batasuna-party-in-the-basque-region-for-having-links-to-eta-batasuna-claims-that-the.html)  [JSON](/news/2005/05/26/spanish-court-imprisons-arnaldo-otegi-head-of-herri-batasuna-party-in-the-basque-region-for-having-links-to-eta-batasuna-claims-that-the.json)  [XML](/news/2005/05/26/spanish-court-imprisons-arnaldo-otegi-head-of-herri-batasuna-party-in-the-basque-region-for-having-links-to-eta-batasuna-claims-that-the.xml)  
+
 ### [2005-05-26](/news/2005/05/26/index.md)
 
+##### Spain
 #  Spanish court imprisons Arnaldo Otegi, head of Herri Batasuna party in the Basque region for having links to ETA. Batasuna claims that the move undermines peace efforts. Otegi is in prison pending ?400.000 bail. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [EITB](http://www.eitb24.com/noticia_en.php?id=63598)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L26344132.htm)

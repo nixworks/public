@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/29/venezuela-freezes-diplomatic-relations-with-colombia-after-a-dispute-over-swedish-weapons-bought-by-venezuela-were-allegedly-found-on-fa.html)  [JSON](/news/2009/07/29/venezuela-freezes-diplomatic-relations-with-colombia-after-a-dispute-over-swedish-weapons-bought-by-venezuela-were-allegedly-found-on-fa.json)  [XML](/news/2009/07/29/venezuela-freezes-diplomatic-relations-with-colombia-after-a-dispute-over-swedish-weapons-bought-by-venezuela-were-allegedly-found-on-fa.xml)  
+
 ### [2009-07-29](/news/2009/07/29/index.md)
 
+##### Venezuela
 #  Venezuela "freezes" diplomatic relations with Colombia, after a dispute over Swedish weapons bought by Venezuela were allegedly found on FARC rebels. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/8173709.stm)
 2. [Colombia Reports](http://colombiareports.com/colombia-news/news/5201-chavez-withdraws-ambassador-from-colombia.html)

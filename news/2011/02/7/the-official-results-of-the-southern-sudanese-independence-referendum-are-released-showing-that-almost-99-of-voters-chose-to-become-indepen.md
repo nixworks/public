@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/7/the-official-results-of-the-southern-sudanese-independence-referendum-are-released-showing-that-almost-99-of-voters-chose-to-become-indepen.html)  [JSON](/news/2011/02/7/the-official-results-of-the-southern-sudanese-independence-referendum-are-released-showing-that-almost-99-of-voters-chose-to-become-indepen.json)  [XML](/news/2011/02/7/the-official-results-of-the-southern-sudanese-independence-referendum-are-released-showing-that-almost-99-of-voters-chose-to-become-indepen.xml)  
+
 ### [2011-02-7](/news/2011/02/7/index.md)
 
+##### Southern Sudanese Independence Referendum
 # The official results of the Southern Sudanese Independence Referendum are released showing that almost 99% of voters chose to become independent. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/feb/07/sudan-referendum-result-confirmed)
 

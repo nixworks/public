@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/2/four-people-are-killed-in-the-crash-of-a-cessna-
 
 ### [2017-01-2](/news/2017/01/2/index.md)
 
+##### Cessna 210
 # Four people are killed in the crash of a Cessna 210 into rugged terrain on Mogollon Rim near Payson, Arizona. The plane had been traveling from Scottsdale, Arizona to Telluride, Colorado. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

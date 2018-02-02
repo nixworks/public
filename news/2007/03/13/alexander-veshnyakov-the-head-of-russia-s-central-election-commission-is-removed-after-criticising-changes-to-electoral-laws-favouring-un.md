@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/13/alexander-veshnyakov-the-head-of-russia-s-central-election-commission-is-removed-after-criticising-changes-to-electoral-laws-favouring-un.html)  [JSON](/news/2007/03/13/alexander-veshnyakov-the-head-of-russia-s-central-election-commission-is-removed-after-criticising-changes-to-electoral-laws-favouring-un.json)  [XML](/news/2007/03/13/alexander-veshnyakov-the-head-of-russia-s-central-election-commission-is-removed-after-criticising-changes-to-electoral-laws-favouring-un.xml)  
+
 ### [2007-03-13](/news/2007/03/13/index.md)
 
+##### Alexander Veshnyakov
 #  Alexander Veshnyakov, the head of Russia's Central Election Commission, is removed after criticising changes to electoral laws favouring United Russia associated with Vladimir Putin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6447419.stm)
 

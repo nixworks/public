@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/1/the-sluice-gates-on-the-three-gorges-dam-in-china-are-closed-starting-the-filling-of-the-reservoir-of-the-world-s-largest-hydroelectric-pr.html)  [JSON](/news/2003/06/1/the-sluice-gates-on-the-three-gorges-dam-in-china-are-closed-starting-the-filling-of-the-reservoir-of-the-world-s-largest-hydroelectric-pr.json)  [XML](/news/2003/06/1/the-sluice-gates-on-the-three-gorges-dam-in-china-are-closed-starting-the-filling-of-the-reservoir-of-the-world-s-largest-hydroelectric-pr.xml)  
+
 ### [2003-06-1](/news/2003/06/1/index.md)
 
+##### Three Gorges Dam
 #  The sluice-gates on the Three Gorges Dam in China are closed, starting the filling of the reservoir of the world's largest hydroelectric project.
 
 

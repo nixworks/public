@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/19/basuki-tjahaja-purnama-is-inaugurated-as-the-governor-of-jakarta-the-first-ethnic-chinese-ever-to-hold-the-post-he-succeeds-joko-widodo-w.html)  [JSON](/news/2014/11/19/basuki-tjahaja-purnama-is-inaugurated-as-the-governor-of-jakarta-the-first-ethnic-chinese-ever-to-hold-the-post-he-succeeds-joko-widodo-w.json)  [XML](/news/2014/11/19/basuki-tjahaja-purnama-is-inaugurated-as-the-governor-of-jakarta-the-first-ethnic-chinese-ever-to-hold-the-post-he-succeeds-joko-widodo-w.xml)  
+
 ### [2014-11-19](/news/2014/11/19/index.md)
 
+##### Basuki Tjahaja Purnama
 # Basuki Tjahaja Purnama is inaugurated as the Governor of Jakarta, the first ethnic Chinese ever to hold the post. He succeeds Joko Widodo, who is now president. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TIME](http://time.com/3594125/indonesia-jakarta-chinese-christian-governor-joko-widodo-jokowi-ahok-basuki-purnama/)
 

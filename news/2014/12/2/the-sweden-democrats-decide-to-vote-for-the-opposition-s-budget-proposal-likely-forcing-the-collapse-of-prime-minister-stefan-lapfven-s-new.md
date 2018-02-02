@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/2/the-sweden-democrats-decide-to-vote-for-the-opposition-s-budget-proposal-likely-forcing-the-collapse-of-prime-minister-stefan-lapfven-s-new.html)  [JSON](/news/2014/12/2/the-sweden-democrats-decide-to-vote-for-the-opposition-s-budget-proposal-likely-forcing-the-collapse-of-prime-minister-stefan-lapfven-s-new.json)  [XML](/news/2014/12/2/the-sweden-democrats-decide-to-vote-for-the-opposition-s-budget-proposal-likely-forcing-the-collapse-of-prime-minister-stefan-lapfven-s-new.xml)  
+
 ### [2014-12-2](/news/2014/12/2/index.md)
 
+##### Sweden Democrats
 # The Sweden Democrats decide to vote for the opposition's budget proposal, likely forcing the collapse of Prime Minister Stefan Lofven's new government that came to power in the September elections. 
 
 Get up to the minute breaking political news and in-depth analysis on ABCNews.com.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Politics/wireStory/swedish-government-faces-crisis-budget-27305573)
 

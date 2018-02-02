@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/04/30/the-united-states-justice-department-opens-a-criminal-investigation-into-alleged-fraud-by-goldman-sachs.html)  [JSON](/news/2010/04/30/the-united-states-justice-department-opens-a-criminal-investigation-into-alleged-fraud-by-goldman-sachs.json)  [XML](/news/2010/04/30/the-united-states-justice-department-opens-a-criminal-investigation-into-alleged-fraud-by-goldman-sachs.xml)  
+
 ### [2010-04-30](/news/2010/04/30/index.md)
 
+##### United States Justice Department
 # The United States Justice Department opens a criminal investigation into alleged fraud by Goldman Sachs. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/04/30/AR2010043001336.html?hpid=topnews)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/04/30/AR2010043001336.html?hpid=topnews)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

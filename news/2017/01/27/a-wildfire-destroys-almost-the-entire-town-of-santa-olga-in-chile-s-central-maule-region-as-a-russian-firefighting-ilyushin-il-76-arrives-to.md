@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/27/a-wildfire-destroys-almost-the-entire-town-of-s
 
 ### [2017-01-27](/news/2017/01/27/index.md)
 
+##### Santa Olga
 # A wildfire destroys almost the entire town of Santa Olga in Chile's central Maule Region as a Russian firefighting Ilyushin Il-76 arrives to help fight the worst wildfire in Chile's modern history. 
 
 More international help is arriving to help Chile deal with its worst wildfire in modern history.
@@ -19,4 +20,4 @@ More international help is arriving to help Chile deal with its worst wildfire i
 2. [At least 8 people are killed when a Russian Ilyushin Il-76 cargo plane bound for Khartoum, Sudan, crashes minutes after take off in a residential area of Karachi, Pakistan. ](/news/2010/11/28/at-least-8-people-are-killed-when-a-russian-ilyushin-il-76-cargo-plane-bound-for-khartoum-sudan-crashes-minutes-after-take-off-in-a-reside.md) _Context: Ilyushin Il-76, Russia_
 3. [Parcel bombs explode at the Mexican, Russian and Swiss embassies in Greece. Similar packages were sent or addressed to the embassies of Belgium, Bulgaria, Chile, Germany and the Netherlands over the past two days. ](/news/2010/11/2/parcel-bombs-explode-at-the-mexican-russian-and-swiss-embassies-in-greece-similar-packages-were-sent-or-addressed-to-the-embassies-of-belg.md) _Context: Chile, Russia_
 4. [ An Ilyushin Il-76 crashes minutes after takeoff from Khartoum International Airport. All four Russian crew were killed. It is the second major air crash in the country this week. ](/news/2008/06/30/an-ilyushin-il-76-crashes-minutes-after-takeoff-from-khartoum-international-airport-all-four-russian-crew-were-killed-it-is-the-second-ma.md) _Context: Ilyushin Il-76, Russia_
-5. [Russia's Minister of Foreign Affairs Sergei Lavrov says that the recognition of Jerusalem as Israel's capital by the United States "runs counter to common sense." ](/news/2017/12/8/russia-s-minister-of-foreign-affairs-sergei-lavrov-says-that-the-recognition-of-jerusalem-as-israel-s-capital-by-the-united-states-runs-cou.md) _Context: Russia_
+5. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_

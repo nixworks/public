@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/25/odeon-dispute-with-disney-the-boycott-of-tim-burton-s-alice-in-wonderland-is-reversed.html)  [JSON](/news/2010/02/25/odeon-dispute-with-disney-the-boycott-of-tim-burton-s-alice-in-wonderland-is-reversed.json)  [XML](/news/2010/02/25/odeon-dispute-with-disney-the-boycott-of-tim-burton-s-alice-in-wonderland-is-reversed.xml)  
+
 ### [2010-02-25](/news/2010/02/25/index.md)
 
+##### Disney
 # Odeon dispute with Disney: The boycott of Tim Burton's "Alice in Wonderland" is reversed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/8536195.stm)
 

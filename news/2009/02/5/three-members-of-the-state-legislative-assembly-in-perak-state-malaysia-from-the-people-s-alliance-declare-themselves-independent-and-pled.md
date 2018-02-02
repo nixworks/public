@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/5/three-members-of-the-state-legislative-assembly-in-perak-state-malaysia-from-the-people-s-alliance-declare-themselves-independent-and-pled.html)  [JSON](/news/2009/02/5/three-members-of-the-state-legislative-assembly-in-perak-state-malaysia-from-the-people-s-alliance-declare-themselves-independent-and-pled.json)  [XML](/news/2009/02/5/three-members-of-the-state-legislative-assembly-in-perak-state-malaysia-from-the-people-s-alliance-declare-themselves-independent-and-pled.xml)  
+
 ### [2009-02-5](/news/2009/02/5/index.md)
 
+##### State Legislative Assembly
 #  Three members of the State Legislative Assembly in Perak state, Malaysia from the People's Alliance declare themselves independent and pledge support for the National Front, sparking a constitutional crisis. 
 
 Frontpage | New Straits Times : Authoritative source for Malaysia latest news on politics, business, sports, world and entertainment
 
 
-### Source:
+### Sources:
 
 1. [New Straits Times](http://www.nst.com.my/Current_News/NST/Thursday/National/2471262/Article/index_html)
 

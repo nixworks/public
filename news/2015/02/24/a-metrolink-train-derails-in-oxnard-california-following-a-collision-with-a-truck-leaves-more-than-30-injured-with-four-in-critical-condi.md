@@ -1,26 +1,30 @@
+
+Formats: [HTML](/news/2015/02/24/a-metrolink-train-derails-in-oxnard-california-following-a-collision-with-a-truck-leaves-more-than-30-injured-with-four-in-critical-condi.html)  [JSON](/news/2015/02/24/a-metrolink-train-derails-in-oxnard-california-following-a-collision-with-a-truck-leaves-more-than-30-injured-with-four-in-critical-condi.json)  [XML](/news/2015/02/24/a-metrolink-train-derails-in-oxnard-california-following-a-collision-with-a-truck-leaves-more-than-30-injured-with-four-in-critical-condi.xml)  
+
 ### [2015-02-24](/news/2015/02/24/index.md)
 
+##### Metrolink
 # A Metrolink train derails in Oxnard, California, following a collision with a truck, leaves more than 30 injured with four in critical condition. 
 
 California Metrolink train derails, injuring 28, including the engineer, officials say. A triage area is set up at the scene.
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-california-trail-derails-30-injured-20150224-story.html#page=1)
 2. [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-california-trail-derails-30-injured-20150224-story.html?track=rss&dlvrit=649324)
 3. [MSN](http://www.msn.com/en-us/news/us/metrolink-train-strikes-truck-in-southern-california/ar-BBhUYOr)
 3. [Cover Image](http://www.trbimg.com/img-54ed4fdf/turbine/la-me-ln-california-trail-derails-30-injured-20150224)
 
-### Related:
-
-1. [ The National Transportation Safety Board reports that a Metrolink engineer sent a text message 22 seconds before the Chatsworth train collision in Los Angeles, California, that killed 25 people. ](/news/2008/10/1/the-national-transportation-safety-board-reports-that-a-metrolink-engineer-sent-a-text-message-22-seconds-before-the-chatsworth-train-colli.md) _Context: California, Metrolink_
-2. [More than a dozen wildfires around Mendocino, Napa, Sonoma, and Yuba counties in California, kill at least ten people, destroy at least 1500 homes and businesses, and force 20 thousand people to evacuate. The Governor of California, Jerry Brown, declares a state of emergency. ](/news/2017/10/9/more-than-a-dozen-wildfires-around-mendocino-napa-sonoma-and-yuba-counties-in-california-kill-at-least-ten-people-destroy-at-least-1500.md) _Context: California_
-3. [Governor Jerry Brown signs legislation to make California a sanctuary state. Next January, this law will prevent police from inquiring about immigration status during routine interactions, and will reduce law enforcement cooperation with U.S. immigration officers. ](/news/2017/10/5/governor-jerry-brown-signs-legislation-to-make-california-a-sanctuary-state-next-january-this-law-will-prevent-police-from-inquiring-about.md) _Context: California_
-4. [Among the property damage from the wildfires in California is the Santa Rosa home of "Peanuts" creator Charles M. Schulz; his widow was evacuated Monday. "Peanuts" featured the characters Snoopy and Charlie Brown. ](/news/2017/10/13/among-the-property-damage-from-the-wildfires-in-california-is-the-santa-rosa-home-of-peanuts-creator-charles-m-schulz-his-widow-was-evac.md) _Context: California_
-5. [ California moves its 2020 presidential primary to March 3, making it fifth in the nominating process after Iowa, New Hampshire, Nevada, and South Carolina. The 2016 primary was held on June 7. ](/news/2017/09/27/california-moves-its-2020-presidential-primary-to-march-3-making-it-fifth-in-the-nominating-process-after-iowa-new-hampshire-nevada-and.md) _Context: California_
-
 ### Changes:
 
 1. [2015 Oxnard train derailment: A Metrolink train derails in Oxnard, California, following a collision with a truck, leaves more than 30 injured with four in critical condition. ](/news/2015/02/24/2015-oxnard-train-derailment-a-metrolink-train-derails-in-oxnard-california-following-a-collision-with-a-truck-leaves-more-than-30-injur.md) _2017-08-27 03:42:00 (First version)_
 1. [A Metrolink train derails in Oxnard, California, following a collision with a truck, leaves more than 30 injured with four in critical condition. ](/news/2015/02/24/a-metrolink-train-derails-in-oxnard-california-following-a-collision-with-a-truck-leaves-more-than-30-injured-with-four-in-critical-condi.md) _(Current version)_
+
+### Related:
+
+1. [ The National Transportation Safety Board reports that a Metrolink engineer sent a text message 22 seconds before the Chatsworth train collision in Los Angeles, California, that killed 25 people. ](/news/2008/10/1/the-national-transportation-safety-board-reports-that-a-metrolink-engineer-sent-a-text-message-22-seconds-before-the-chatsworth-train-colli.md) _Context: California, Metrolink_
+2. [Two 15-year-old students are shot and three others injured at Sal Castro Middle School in Los Angeles, California. A 12-year-old female student is taken into custody. ](/news/2018/02/1/two-15-year-old-students-are-shot-and-three-others-injured-at-sal-castro-middle-school-in-los-angeles-california-a-12-year-old-female-stud.md) _Context: California_
+3. [The cost of the Oroville Dam spill rises to US$870 million. The U.S. state of California continues to hope for federal aid for the project. ](/news/2018/01/26/the-cost-of-the-oroville-dam-spill-rises-to-us-870-million-the-u-s-state-of-california-continues-to-hope-for-federal-aid-for-the-project.md) _Context: California_
+4. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: California_
+5. [California becomes the latest and most-populated state to legalize the recreational use of cannabis. ](/news/2018/01/1/california-becomes-the-latest-and-most-populated-state-to-legalize-the-recreational-use-of-cannabis.md) _Context: California_

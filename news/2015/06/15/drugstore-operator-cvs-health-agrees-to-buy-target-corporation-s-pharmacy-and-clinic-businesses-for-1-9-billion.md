@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/06/15/drugstore-operator-cvs-health-agrees-to-buy-target-corporation-s-pharmacy-and-clinic-businesses-for-1-9-billion.html)  [JSON](/news/2015/06/15/drugstore-operator-cvs-health-agrees-to-buy-target-corporation-s-pharmacy-and-clinic-businesses-for-1-9-billion.json)  [XML](/news/2015/06/15/drugstore-operator-cvs-health-agrees-to-buy-target-corporation-s-pharmacy-and-clinic-businesses-for-1-9-billion.xml)  
+
 ### [2015-06-15](/news/2015/06/15/index.md)
 
+##### CVS Health
 # Drugstore operator CVS Health agrees to buy Target Corporation's pharmacy and clinic businesses for $1.9 billion. 
 
 CVS Health and Target on Monday announced a deal for CVS to acquire Target&#039;s pharmacy and clinic businesses for about $1.9 billion. 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via CNBC](http://www.cnbc.com/id/102752213)
+1. [Reuters via CNBC](https://www.cnbc.com/id/102752213)
 
 ### Related:
 

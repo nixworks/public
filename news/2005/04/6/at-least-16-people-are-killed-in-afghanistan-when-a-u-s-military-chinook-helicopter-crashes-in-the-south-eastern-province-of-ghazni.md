@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/6/at-least-16-people-are-killed-in-afghanistan-when-a-u-s-military-chinook-helicopter-crashes-in-the-south-eastern-province-of-ghazni.html)  [JSON](/news/2005/04/6/at-least-16-people-are-killed-in-afghanistan-when-a-u-s-military-chinook-helicopter-crashes-in-the-south-eastern-province-of-ghazni.json)  [XML](/news/2005/04/6/at-least-16-people-are-killed-in-afghanistan-when-a-u-s-military-chinook-helicopter-crashes-in-the-south-eastern-province-of-ghazni.xml)  
+
 ### [2005-04-6](/news/2005/04/6/index.md)
 
+##### Afghanistan
 #  At least 16 people are killed in Afghanistan when a U.S. military Chinook helicopter crashes in the south-eastern province of Ghazni. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4416683.stm)
 

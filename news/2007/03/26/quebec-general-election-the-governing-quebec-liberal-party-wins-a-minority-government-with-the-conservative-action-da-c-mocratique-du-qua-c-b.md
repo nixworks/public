@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/26/quebec-general-election-the-governing-quebec-liberal-party-wins-a-minority-government-with-the-conservative-action-da-c-mocratique-du-qua-c-b.html)  [JSON](/news/2007/03/26/quebec-general-election-the-governing-quebec-liberal-party-wins-a-minority-government-with-the-conservative-action-da-c-mocratique-du-qua-c-b.json)  [XML](/news/2007/03/26/quebec-general-election-the-governing-quebec-liberal-party-wins-a-minority-government-with-the-conservative-action-da-c-mocratique-du-qua-c-b.xml)  
+
 ### [2007-03-26](/news/2007/03/26/index.md)
 
+##### Quebec general election
 #  Quebec general election: The governing Quebec Liberal Party wins a minority government, with the conservative Action democratique du Quebec a strong second and the separatist Parti Quebecois third. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/quebecvotes2007/story/2007/03/26/qv-liberals20070326.html)
 

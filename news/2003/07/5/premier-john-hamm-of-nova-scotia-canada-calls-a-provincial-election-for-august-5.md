@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/5/premier-john-hamm-of-nova-scotia-canada-calls-a-provincial-election-for-august-5.html)  [JSON](/news/2003/07/5/premier-john-hamm-of-nova-scotia-canada-calls-a-provincial-election-for-august-5.json)  [XML](/news/2003/07/5/premier-john-hamm-of-nova-scotia-canada-calls-a-provincial-election-for-august-5.xml)  
+
 ### [2003-07-5](/news/2003/07/5/index.md)
 
+##### John Hamm
 #  Premier John Hamm of Nova Scotia, Canada, calls a provincial election for August 5.
 
 

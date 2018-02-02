@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/21/gazprom-total-and-statoilhydro-incorporate-the-shtokman-development-company-a-joint-operating-company-to-develop-the-giant-shtokman-gas-f.html)  [JSON](/news/2008/02/21/gazprom-total-and-statoilhydro-incorporate-the-shtokman-development-company-a-joint-operating-company-to-develop-the-giant-shtokman-gas-f.json)  [XML](/news/2008/02/21/gazprom-total-and-statoilhydro-incorporate-the-shtokman-development-company-a-joint-operating-company-to-develop-the-giant-shtokman-gas-f.xml)  
+
 ### [2008-02-21](/news/2008/02/21/index.md)
 
+##### Gazprom
 #  Gazprom, Total and StatoilHydro incorporate the Shtokman Development Company, a joint operating company to develop the giant Shtokman gas field. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/oilRpt/idUKL2182220920080221)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

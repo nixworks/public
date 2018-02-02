@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/2/the-sudanese-government-in-its-first-official-reaction-after-preliminary-results-were-announced-indicating-a-landslide-vote-in-favor-of-sou.html)  [JSON](/news/2011/02/2/the-sudanese-government-in-its-first-official-reaction-after-preliminary-results-were-announced-indicating-a-landslide-vote-in-favor-of-sou.json)  [XML](/news/2011/02/2/the-sudanese-government-in-its-first-official-reaction-after-preliminary-results-were-announced-indicating-a-landslide-vote-in-favor-of-sou.xml)  
+
 ### [2011-02-2](/news/2011/02/2/index.md)
 
+##### Sudanese cabinet
 # The Sudanese government, in its first official reaction after preliminary results were announced indicating a landslide vote in favor of Southern Sudan's independence, agrees to accept the results; Vice-President Ali Osman Taha says the government intends "to pursue a policy of good neighbourly relations with the south". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/world/sudanese-accept-souths-vote-to-secede/story-e6frg6so-1225998343187)
 

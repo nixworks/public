@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/09/16/transocean-the-company-that-leased-the-deepwater-horizon-oil-rig-accuses-bp-of-covering-up-data-about-the-explosion-and-subsequent-oil-spi.html)  [JSON](/news/2010/09/16/transocean-the-company-that-leased-the-deepwater-horizon-oil-rig-accuses-bp-of-covering-up-data-about-the-explosion-and-subsequent-oil-spi.json)  [XML](/news/2010/09/16/transocean-the-company-that-leased-the-deepwater-horizon-oil-rig-accuses-bp-of-covering-up-data-about-the-explosion-and-subsequent-oil-spi.xml)  
+
 ### [2010-09-16](/news/2010/09/16/index.md)
 
+##### Transocean
 # Transocean, the company that leased the Deepwater Horizon oil rig, accuses BP of covering up data about the explosion and subsequent oil spill. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20100819/ts_alt_afp/usoilenvironmentpollutionbpswitzerland)
+1. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20100819/ts_alt_afp/usoilenvironmentpollutionbpswitzerland)
 
 ### Related:
 

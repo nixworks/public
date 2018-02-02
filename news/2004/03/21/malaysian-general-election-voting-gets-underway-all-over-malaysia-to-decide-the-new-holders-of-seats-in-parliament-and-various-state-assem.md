@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/03/21/malaysian-general-election-voting-gets-underway-all-over-malaysia-to-decide-the-new-holders-of-seats-in-parliament-and-various-state-assem.html)  [JSON](/news/2004/03/21/malaysian-general-election-voting-gets-underway-all-over-malaysia-to-decide-the-new-holders-of-seats-in-parliament-and-various-state-assem.json)  [XML](/news/2004/03/21/malaysian-general-election-voting-gets-underway-all-over-malaysia-to-decide-the-new-holders-of-seats-in-parliament-and-various-state-assem.xml)  
+
 ### [2004-03-21](/news/2004/03/21/index.md)
 
+##### Malaysian general election
 #  Malaysian general election: Voting gets underway all over Malaysia to decide the new holders of seats in Parliament and various state assemblies.
 
 

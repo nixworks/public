@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/10/the-first-democratic-election-takes-place-on-the-channel-island-of-sark-a-british-crown-dependency.html)  [JSON](/news/2008/12/10/the-first-democratic-election-takes-place-on-the-channel-island-of-sark-a-british-crown-dependency.json)  [XML](/news/2008/12/10/the-first-democratic-election-takes-place-on-the-channel-island-of-sark-a-british-crown-dependency.xml)  
+
 ### [2008-12-10](/news/2008/12/10/index.md)
 
+##### election
 #  The first democratic election takes place on the Channel Island of Sark, a British crown dependency. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC NEWS](http://news.bbc.co.uk/2/hi/europe/guernsey/7770468.stm)
 

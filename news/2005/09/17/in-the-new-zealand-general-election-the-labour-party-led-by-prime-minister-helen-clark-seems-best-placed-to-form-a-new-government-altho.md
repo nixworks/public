@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/09/17/in-the-new-zealand-general-election-the-labour-party-led-by-prime-minister-helen-clark-seems-best-placed-to-form-a-new-government-altho.html)  [JSON](/news/2005/09/17/in-the-new-zealand-general-election-the-labour-party-led-by-prime-minister-helen-clark-seems-best-placed-to-form-a-new-government-altho.json)  [XML](/news/2005/09/17/in-the-new-zealand-general-election-the-labour-party-led-by-prime-minister-helen-clark-seems-best-placed-to-form-a-new-government-altho.xml)  
+
 ### [2005-09-17](/news/2005/09/17/index.md)
 
+##### count of 'special' votes
 #  In the New Zealand general election, the Labour Party, led by Prime Minister Helen Clark, seems best placed to form a new government. Although the opposition National Party of Dr. Don Brash makes the greatest gains, these are mainly at the expense of minor parties. All the existing minor parties lose seats, with only the new Maori Party making gains. ([http:--www.electionresults.govt.nz-partystatus.html Elections New Zealand])
 
 

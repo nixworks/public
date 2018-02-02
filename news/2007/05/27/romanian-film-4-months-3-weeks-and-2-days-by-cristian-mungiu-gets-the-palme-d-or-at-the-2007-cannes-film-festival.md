@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/05/27/romanian-film-4-months-3-weeks-and-2-days-by-cristian-mungiu-gets-the-palme-d-or-at-the-2007-cannes-film-festival.html)  [JSON](/news/2007/05/27/romanian-film-4-months-3-weeks-and-2-days-by-cristian-mungiu-gets-the-palme-d-or-at-the-2007-cannes-film-festival.json)  [XML](/news/2007/05/27/romanian-film-4-months-3-weeks-and-2-days-by-cristian-mungiu-gets-the-palme-d-or-at-the-2007-cannes-film-festival.xml)  
+
 ### [2007-05-27](/news/2007/05/27/index.md)
 
+##### Romanian
 #  Romanian film "4 Months, 3 Weeks and 2 Days" by Cristian Mungiu gets the Palme d'Or at the 2007 Cannes Film Festival. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Forbes](http://www.forbes.com/feeds/ap/2007/05/27/ap3761944.html)
+1. [Forbes](https://www.forbes.com/feeds/ap/2007/05/27/ap3761944.html)
 
 ### Related:
 

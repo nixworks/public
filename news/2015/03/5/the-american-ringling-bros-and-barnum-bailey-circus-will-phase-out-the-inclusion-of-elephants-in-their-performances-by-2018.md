@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/5/the-american-ringling-bros-and-barnum-bailey-circus-will-phase-out-the-inclusion-of-elephants-in-their-performances-by-2018.html)  [JSON](/news/2015/03/5/the-american-ringling-bros-and-barnum-bailey-circus-will-phase-out-the-inclusion-of-elephants-in-their-performances-by-2018.json)  [XML](/news/2015/03/5/the-american-ringling-bros-and-barnum-bailey-circus-will-phase-out-the-inclusion-of-elephants-in-their-performances-by-2018.xml)  
+
 ### [2015-03-5](/news/2015/03/5/index.md)
 
+##### Ringling Bros. and Barnum & Bailey Circus
 # The American Ringling Bros. and Barnum & Bailey Circus will phase-out the inclusion of elephants in their performances by 2018. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/df575148221544f4adaf3bea2adbb635/apnewsbreak-ringling-bros-eliminating-elephant-acts)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/1/a-south-korean-palm-oil-company-is-accused-of-ca
 
 ### [2016-09-1](/news/2016/09/1/index.md)
 
+##### 2016 Southeast Asian haze
 # A South Korean palm oil company is accused of causing the wildfires in Indonesia. 
 
 Some of the world’s biggest buyers have stopped trading with Korindo after the emergence of footage claiming to show illegal burning in Papua province

@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2005/04/30/in-honduras-six-children-die-in-a-grenade-accident.html)  [JSON](/news/2005/04/30/in-honduras-six-children-die-in-a-grenade-accident.json)  [XML](/news/2005/04/30/in-honduras-six-children-die-in-a-grenade-accident.xml)  
+
 ### [2005-04-30](/news/2005/04/30/index.md)
 
+##### Honduras
 #  In Honduras, six children die in a grenade accident. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?storyID=8351167&type=worldNews)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?storyID=8351167&type=worldNews)
 2. [Scotsman](http://news.scotsman.com/international.cfm?id=463312005)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [Four people, including a pregnant woman, are killed and dozens injured when a rush of fans try to enter an already-at-capacity Tiburcio Caras Andino Stadium before the Honduran Clausura final in Tegucigalpa, Honduras. Police are investigating possible overselling of tickets. ](/news/2017/05/28/four-people-including-a-pregnant-woman-are-killed-and-dozens-injured-when-a-rush-of-fans-try-to-enter-an-already-at-capacity-tiburcio-cari.md) _Context: Honduras_
-2. [A 6.1 magnitude earthquake hits the northwestern coast of Nicaragua not far from the Honduran border. "La Prensa" reports the walls of a church collapsed in the city of Chinandega. There are no immediate reports of casualties. ](/news/2016/06/9/a-6-1-magnitude-earthquake-hits-the-northwestern-coast-of-nicaragua-not-far-from-the-honduran-border-la-prensa-reports-the-walls-of-a-chu.md) _Context: Honduras_
-3. [Gunmen dressed in police uniforms kill at least ten people in the Honduran capital of Tegucigalpa. ](/news/2016/03/5/gunmen-dressed-in-police-uniforms-kill-at-least-ten-people-in-the-honduran-capital-of-tegucigalpa.md) _Context: Honduras_
-4. [El Salvador's murder rate surges by 70% in 2015, an increase that may lead to the Central American nation edging out Honduras as the world's most murderous nation. ](/news/2015/12/29/el-salvador-s-murder-rate-surges-by-70-in-2015-an-increase-that-may-lead-to-the-central-american-nation-edging-out-honduras-as-the-world-s.md) _Context: Honduras_
-5. [An archaeological expedition claims to have found the legendary White City in northeastern Honduras, with artifacts that range in dates from the 11th to 14th century. ](/news/2015/03/3/an-archaeological-expedition-claims-to-have-found-the-legendary-white-city-in-northeastern-honduras-with-artifacts-that-range-in-dates-from.md) _Context: Honduras_
+1. [A magnitude 7.6 earthquake strikes north of Honduras, resulting in tsunami warnings in the Caribbean. ](/news/2018/01/9/a-magnitude-7-6-earthquake-strikes-north-of-honduras-resulting-in-tsunami-warnings-in-the-caribbean.md) _Context: Honduras_
+2. [A man is killed in Stockholm after he picks up a grenade that detonates. According to police, there has been an increased use of hand grenades by criminal groups in the country. ](/news/2018/01/7/a-man-is-killed-in-stockholm-after-he-picks-up-a-grenade-that-detonates-according-to-police-there-has-been-an-increased-use-of-hand-grenad.md) _Context: grenade_
+3. [Six people are killed, including Hilda Hernandez, sister of Honduran President Juan Orlando Hernandez, in a helicopter accident that was headed to Comayagua from Toncontin International Airport in Tegucigalpa. ](/news/2017/12/16/six-people-are-killed-including-hilda-herna-ndez-sister-of-honduran-president-juan-orlando-herna-ndez-in-a-helicopter-accident-that-was-h.md) _Context: Honduras_
+4. [The government of Honduran President Juan Orlando Hernndez, who is seeking re-election, imposes a ten-day curfew after allegations of electoral fraud and calls for an election recount resulted in violent protests across the country. ](/news/2017/12/1/the-government-of-honduran-president-juan-orlando-hernandez-who-is-seeking-re-election-imposes-a-ten-day-curfew-after-allegations-of-elect.md) _Context: Honduras_
+5. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: Honduras_

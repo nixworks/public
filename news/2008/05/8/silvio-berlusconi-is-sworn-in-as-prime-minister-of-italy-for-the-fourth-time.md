@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/8/silvio-berlusconi-is-sworn-in-as-prime-minister-of-italy-for-the-fourth-time.html)  [JSON](/news/2008/05/8/silvio-berlusconi-is-sworn-in-as-prime-minister-of-italy-for-the-fourth-time.json)  [XML](/news/2008/05/8/silvio-berlusconi-is-sworn-in-as-prime-minister-of-italy-for-the-fourth-time.xml)  
+
 ### [2008-05-8](/news/2008/05/8/index.md)
 
+##### Silvio Berlusconi
 #  Silvio Berlusconi is sworn in as Prime Minister of Italy for the fourth time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [EuroNews](http://www.euronews.net/index.php?page=info&article=485635&lng=1)
 

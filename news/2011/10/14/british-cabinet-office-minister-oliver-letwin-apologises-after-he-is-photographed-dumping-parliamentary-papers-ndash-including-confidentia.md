@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/14/british-cabinet-office-minister-oliver-letwin-apologises-after-he-is-photographed-dumping-parliamentary-papers-ndash-including-confidentia.html)  [JSON](/news/2011/10/14/british-cabinet-office-minister-oliver-letwin-apologises-after-he-is-photographed-dumping-parliamentary-papers-ndash-including-confidentia.json)  [XML](/news/2011/10/14/british-cabinet-office-minister-oliver-letwin-apologises-after-he-is-photographed-dumping-parliamentary-papers-ndash-including-confidentia.xml)  
+
 ### [2011-10-14](/news/2011/10/14/index.md)
 
+##### Cabinet Office
 # British Cabinet Office Minister Oliver Letwin apologises after he is photographed dumping Parliamentary papers &ndash; including confidential constituents' letters &ndash; into a public bin in London's St. James's Park. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-15301859)
 1. [Cover Image](http://news.bbcimg.co.uk/media/images/56047000/jpg/_56047160_letwin_pa.jpg)

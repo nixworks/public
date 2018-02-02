@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/07/17/a-bangladesh-war-crimes-tribunal-sentences-ali-ahsan-mohammad-mojaheed-secretary-general-of-the-bangladesh-jamaat-e-islami-political-party.html)  [JSON](/news/2013/07/17/a-bangladesh-war-crimes-tribunal-sentences-ali-ahsan-mohammad-mojaheed-secretary-general-of-the-bangladesh-jamaat-e-islami-political-party.json)  [XML](/news/2013/07/17/a-bangladesh-war-crimes-tribunal-sentences-ali-ahsan-mohammad-mojaheed-secretary-general-of-the-bangladesh-jamaat-e-islami-political-party.xml)  
+
 ### [2013-07-17](/news/2013/07/17/index.md)
 
+##### Bangladesh
 # A Bangladesh war crimes tribunal sentences Ali Ahsan Mohammad Mojaheed, Secretary General of the Bangladesh Jamaat-e-Islami political party, to death for atrocities committed during the Bangladesh Liberation War. 
 
 A Bangladesh war crimes tribunal sentenced a top Islamist politician to death on Wednesday for crimes during a 1971 war of independence, as his supporters clashed with security forces in different parts of the country.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/07/17/us-bangladesh-warcrimes-idUSBRE96G09X20130717)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130717&t=2&i=751594745&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE96G0UPN00)
+1. [Reuters](https://www.reuters.com/article/2013/07/17/us-bangladesh-warcrimes-idUSBRE96G09X20130717)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130717&t=2&i=751594745&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE96G0UPN00)
 
 ### Related:
 

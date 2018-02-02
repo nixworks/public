@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/08/12/the-tunisian-armed-forces-launch-air-strikes-on-islamist-militants-near-the-algerian-border.html)  [JSON](/news/2013/08/12/the-tunisian-armed-forces-launch-air-strikes-on-islamist-militants-near-the-algerian-border.json)  [XML](/news/2013/08/12/the-tunisian-armed-forces-launch-air-strikes-on-islamist-militants-near-the-algerian-border.xml)  
+
 ### [2013-08-12](/news/2013/08/12/index.md)
 
+##### Tunisian soldiers
 # The Tunisian Armed Forces launch air strikes on Islamist militants near the Algerian border. 
 
 Tunisia on Monday carried out air strikes on Islamist militants holed up in the Mount Chaambi area near the Algerian border, an army source said, stepping up a campaign against radical jihadis under pressure from the secular opposition.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/08/12/us-tunisia-army-idUSBRE97B0H320130812)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130812&t=2&i=761143503&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE97B13VI00)
+1. [Reuters](https://www.reuters.com/article/2013/08/12/us-tunisia-army-idUSBRE97B0H320130812)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130812&t=2&i=761143503&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE97B13VI00)
 
 ### Related:
 

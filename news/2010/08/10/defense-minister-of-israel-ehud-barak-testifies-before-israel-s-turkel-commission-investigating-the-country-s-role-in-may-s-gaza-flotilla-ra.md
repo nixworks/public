@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/10/defense-minister-of-israel-ehud-barak-testifies-before-israel-s-turkel-commission-investigating-the-country-s-role-in-may-s-gaza-flotilla-ra.html)  [JSON](/news/2010/08/10/defense-minister-of-israel-ehud-barak-testifies-before-israel-s-turkel-commission-investigating-the-country-s-role-in-may-s-gaza-flotilla-ra.json)  [XML](/news/2010/08/10/defense-minister-of-israel-ehud-barak-testifies-before-israel-s-turkel-commission-investigating-the-country-s-role-in-may-s-gaza-flotilla-ra.xml)  
+
 ### [2010-08-10](/news/2010/08/10/index.md)
 
+##### Defense Minister
 # Defense Minister of Israel Ehud Barak testifies before Israel's Turkel Commission investigating the country's role in May's Gaza flotilla raid, chaired by Israeli judge Jacob Turkel. His prime minister Benjamin Netanyahu yesterday testified that he had left Barak to "co-ordinate" the raid and response "in all of its aspects" while he visited North America. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/Israel/Article.aspx?id=184233)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=140033)

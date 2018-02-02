@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/18/national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-trial-for-violating-house-arrest-begins-in-burma.html)  [JSON](/news/2009/05/18/national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-trial-for-violating-house-arrest-begins-in-burma.json)  [XML](/news/2009/05/18/national-league-for-democracy-general-secretary-aung-san-suu-kyi-s-trial-for-violating-house-arrest-begins-in-burma.xml)  
+
 ### [2009-05-18](/news/2009/05/18/index.md)
 
+##### National League for Democracy
 #  National League for Democracy General Secretary Aung San Suu Kyi's trial for violating house arrest begins in Burma. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8054643.stm)
 

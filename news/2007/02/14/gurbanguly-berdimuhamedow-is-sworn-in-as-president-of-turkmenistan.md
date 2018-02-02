@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/14/gurbanguly-berdimuhamedow-is-sworn-in-as-president-of-turkmenistan.html)  [JSON](/news/2007/02/14/gurbanguly-berdimuhamedow-is-sworn-in-as-president-of-turkmenistan.json)  [XML](/news/2007/02/14/gurbanguly-berdimuhamedow-is-sworn-in-as-president-of-turkmenistan.xml)  
+
 ### [2007-02-14](/news/2007/02/14/index.md)
 
+##### Gurbanguly Berdimuhamedow
 #  Gurbanguly Berdimuhamedow is sworn in as President of Turkmenistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Houston Chronicle](http://www.chron.com/disp/story.mpl/ap/world/4552154.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/14/a-crowded-outdoor-deck-behind-a-popular-miami-area-sports-bar-collapses-during-the-nba-finals-sending-dozens-of-people-into-the-shallow-wat.html)  [JSON](/news/2013/06/14/a-crowded-outdoor-deck-behind-a-popular-miami-area-sports-bar-collapses-during-the-nba-finals-sending-dozens-of-people-into-the-shallow-wat.json)  [XML](/news/2013/06/14/a-crowded-outdoor-deck-behind-a-popular-miami-area-sports-bar-collapses-during-the-nba-finals-sending-dozens-of-people-into-the-shallow-wat.xml)  
+
 ### [2013-06-14](/news/2013/06/14/index.md)
 
+##### Miami
 # A crowded outdoor deck behind a popular Miami-area sports bar collapses during the NBA Finals, sending dozens of people into the shallow waters of Biscayne Bay 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/US-sports-bar-deck-collapses-20130614)
 2. [Miami Herald](http://www.miamiherald.com/2013/06/13/3450248/breaking-deck-collapses-at-shuckers.html)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/8/president-of-ukraine-viktor-yanukovych-signs-a-controversial-law-about-official-status-of-18-languages-including-russian-hungarian-crimea.html)  [JSON](/news/2012/08/8/president-of-ukraine-viktor-yanukovych-signs-a-controversial-law-about-official-status-of-18-languages-including-russian-hungarian-crimea.json)  [XML](/news/2012/08/8/president-of-ukraine-viktor-yanukovych-signs-a-controversial-law-about-official-status-of-18-languages-including-russian-hungarian-crimea.xml)  
+
 ### [2012-08-8](/news/2012/08/8/index.md)
 
+##### Ukrainian President
 # President of Ukraine Viktor Yanukovych signs a controversial law about official status of 18 languages (including Russian, Hungarian, Crimean Tatar language, etc.) as regional and minority languages, allowing officials in Russian-speaking regions of the country to use Russian at public events and in documents. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/world/europe/ukrainian-president-signs-much-criticized-bill-regarding-the-russian-language/2012/08/08/f3c8376a-e16e-11e1-89f7-76e23a982d06_story.html)
+1. [The Washington Post](https://www.washingtonpost.com/world/europe/ukrainian-president-signs-much-criticized-bill-regarding-the-russian-language/2012/08/08/f3c8376a-e16e-11e1-89f7-76e23a982d06_story.html)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/5/ibrahim-rugova-the-president-of-kosovo-has-announced-that-he-has-lung-cancer-but-will-not-be-stepping-down.html)  [JSON](/news/2005/09/5/ibrahim-rugova-the-president-of-kosovo-has-announced-that-he-has-lung-cancer-but-will-not-be-stepping-down.json)  [XML](/news/2005/09/5/ibrahim-rugova-the-president-of-kosovo-has-announced-that-he-has-lung-cancer-but-will-not-be-stepping-down.xml)  
+
 ### [2005-09-5](/news/2005/09/5/index.md)
 
+##### Ibrahim Rugova
 #  Ibrahim Rugova, the President of Kosovo, has announced that he has lung cancer but will not be stepping down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4215422.stm)
 

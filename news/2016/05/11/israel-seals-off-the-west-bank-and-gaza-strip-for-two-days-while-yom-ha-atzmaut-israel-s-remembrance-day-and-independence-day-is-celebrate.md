@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/11/israel-seals-off-the-west-bank-and-gaza-strip-f
 
 ### [2016-05-11](/news/2016/05/11/index.md)
 
+##### Israeli-Palestinian conflict (2015-present)
 # Israel seals off the West Bank and Gaza Strip for two days while Yom Ha'atzmaut (Israel's remembrance day and independence day) is celebrated. 
 
 From Tuesday midnight to Thursday midnight, entry into Israel will be permitted only in humanitarian and health related cases.

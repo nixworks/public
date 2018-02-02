@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/05/8/sony-unveils-its-playstation-3-game-console-and-makes-an-embarrassing-impression-in-its-e3-presentation.html)  [JSON](/news/2006/05/8/sony-unveils-its-playstation-3-game-console-and-makes-an-embarrassing-impression-in-its-e3-presentation.json)  [XML](/news/2006/05/8/sony-unveils-its-playstation-3-game-console-and-makes-an-embarrassing-impression-in-its-e3-presentation.xml)  
+
 ### [2006-05-8](/news/2006/05/8/index.md)
 
+##### PlayStation 3
 #  Sony unveils its PlayStation 3 game console, and makes an embarrassing impression in its E3 presentation.
 
 

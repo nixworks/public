@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/26/romania-offers-neighboring-moldova-a-65-million
 
 ### [2016-01-26](/news/2016/01/26/index.md)
 
+##### Moldova-Romania relations
 # Romania offers neighboring Moldova a $65 million (60 million euros) loan to help stave off economic collapse and keep the former Soviet Republic on a pro-European course, provided the Moldovan government implements major reforms. Government funds were needed to cover more than $1 billion that "disappeared" from three Moldovan banks in November 2014. In the frigid capital Chisinau, 15,000 people from both the pro-European and pro-Russian sides of the political divide, protested on Sunday against the current government and demanded new elections. Prime Minister Pavel Filip, who took office last week, is the country's sixth PM in a year. 
 
 More than 15,000 people demonstrated on Sunday after a new prime minister, Pavel Filip, was named to lead the country’s third government in a year.

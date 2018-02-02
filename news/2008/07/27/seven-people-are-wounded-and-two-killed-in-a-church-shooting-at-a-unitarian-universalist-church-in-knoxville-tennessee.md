@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/07/27/seven-people-are-wounded-and-two-killed-in-a-church-shooting-at-a-unitarian-universalist-church-in-knoxville-tennessee.html)  [JSON](/news/2008/07/27/seven-people-are-wounded-and-two-killed-in-a-church-shooting-at-a-unitarian-universalist-church-in-knoxville-tennessee.json)  [XML](/news/2008/07/27/seven-people-are-wounded-and-two-killed-in-a-church-shooting-at-a-unitarian-universalist-church-in-knoxville-tennessee.xml)  
+
 ### [2008-07-27](/news/2008/07/27/index.md)
 
+##### church shooting
 #  Seven people are wounded and two killed in a church shooting at a Unitarian Universalist church in Knoxville, Tennessee. 
 
 The man accused of killing two people and wounding seven at a church apparently selected the congregation because of its liberal social stance, the city&#39;s police chief said Monday.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/25872864)
 2. [WBIR-TV](http://www.wbir.com/news/breaking/story.aspx?storyid=61322&catid=29)

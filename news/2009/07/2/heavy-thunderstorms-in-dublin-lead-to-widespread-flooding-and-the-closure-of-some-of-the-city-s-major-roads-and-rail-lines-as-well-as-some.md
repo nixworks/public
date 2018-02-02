@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/2/heavy-thunderstorms-in-dublin-lead-to-widespread-flooding-and-the-closure-of-some-of-the-city-s-major-roads-and-rail-lines-as-well-as-some.html)  [JSON](/news/2009/07/2/heavy-thunderstorms-in-dublin-lead-to-widespread-flooding-and-the-closure-of-some-of-the-city-s-major-roads-and-rail-lines-as-well-as-some.json)  [XML](/news/2009/07/2/heavy-thunderstorms-in-dublin-lead-to-widespread-flooding-and-the-closure-of-some-of-the-city-s-major-roads-and-rail-lines-as-well-as-some.xml)  
+
 ### [2009-07-2](/news/2009/07/2/index.md)
 
+##### Dublin
 #  Heavy thunderstorms in Dublin lead to widespread flooding and the closure of some of the city's major roads and rail lines, as well as some evacuations. 
 
 There is extensive flooding in parts of Co Mayo following several hours of torrential rain.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0702/dublin.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0702/breaking3.htm)

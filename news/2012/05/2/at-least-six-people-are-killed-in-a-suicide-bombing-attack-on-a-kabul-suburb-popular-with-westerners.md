@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/05/2/at-least-six-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-suburb-popular-with-westerners.html)  [JSON](/news/2012/05/2/at-least-six-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-suburb-popular-with-westerners.json)  [XML](/news/2012/05/2/at-least-six-people-are-killed-in-a-suicide-bombing-attack-on-a-kabul-suburb-popular-with-westerners.xml)  
+
 ### [2012-05-2](/news/2012/05/2/index.md)
 
+##### suicide bombing
 # At least six people are killed in a suicide bombing attack on a Kabul suburb popular with westerners. 
 
 Suicide bombers attacked a compound housing Westerners in Kabul on Wednesday hours after U.S. President Barack Obama signed a security pact during a short visit to a city that remains vulnerable to a resilient insurgency.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/05/02/us-afghanistan-kabul-blast-idUSBRE84102520120502)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120502&t=2&i=602029554&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8410D6P00)
+1. [Reuters](https://www.reuters.com/article/2012/05/02/us-afghanistan-kabul-blast-idUSBRE84102520120502)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120502&t=2&i=602029554&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8410D6P00)
 
 ### Related:
 

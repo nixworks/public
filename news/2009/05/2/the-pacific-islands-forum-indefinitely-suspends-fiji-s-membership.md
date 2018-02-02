@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/2/the-pacific-islands-forum-indefinitely-suspends-fiji-s-membership.html)  [JSON](/news/2009/05/2/the-pacific-islands-forum-indefinitely-suspends-fiji-s-membership.json)  [XML](/news/2009/05/2/the-pacific-islands-forum-indefinitely-suspends-fiji-s-membership.xml)  
+
 ### [2009-05-2](/news/2009/05/2/index.md)
 
+##### Pacific Islands Forum
 #  The Pacific Islands Forum indefinitely suspends Fiji's membership. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-05/02/content_11297082.htm)
 

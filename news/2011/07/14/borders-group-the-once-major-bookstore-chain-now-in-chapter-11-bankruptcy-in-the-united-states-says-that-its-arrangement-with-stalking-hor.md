@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2011/07/14/borders-group-the-once-major-bookstore-chain-now-in-chapter-11-bankruptcy-in-the-united-states-says-that-its-arrangement-with-stalking-hor.html)  [JSON](/news/2011/07/14/borders-group-the-once-major-bookstore-chain-now-in-chapter-11-bankruptcy-in-the-united-states-says-that-its-arrangement-with-stalking-hor.json)  [XML](/news/2011/07/14/borders-group-the-once-major-bookstore-chain-now-in-chapter-11-bankruptcy-in-the-united-states-says-that-its-arrangement-with-stalking-hor.xml)  
+
 ### [2011-07-14](/news/2011/07/14/index.md)
 
+##### Borders Group
 # Borders Group, the once-major bookstore chain now in chapter 11 bankruptcy in the United States, says that its arrangement with stalking horse bidder Najafi Companies has collapsed, and it will seek a modification of bid procedures. 
 
 Borders Group Inc BGPIQ.PK moved closer to going out of business as a bankruptcy judge approved a plan to liquidate the second-largest U.S. book retailer after a sale to private equity firm Najafi Cos fell apart.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/07/14/us-bordersgroup-idUSTRE76D1SG20110714)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/07/14/us-bordersgroup-idUSTRE76D1SG20110714)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [Toys "R" Us files for Chapter 11 bankruptcy protection in the United States, and also files for bankruptcy in Canada, as it attempts to restructure its debts. ](/news/2017/09/18/toys-r-us-files-for-chapter-11-bankruptcy-protection-in-the-united-states-and-also-files-for-bankruptcy-in-canada-as-it-attempts-to-rest.md) _Context: Bankruptcy in the United States_
-2. [Air carrier PenAir declares Chapter 11 bankruptcy in the United States, and ends service to Denver, Colorado, and Portland, Oregon. ](/news/2017/08/7/air-carrier-penair-declares-chapter-11-bankruptcy-in-the-united-states-and-ends-service-to-denver-colorado-and-portland-oregon.md) _Context: Bankruptcy in the United States_
-3. [Puerto Rico files for the largest "local government" bankruptcy in the United States. ](/news/2017/05/3/puerto-rico-files-for-the-largest-local-government-bankruptcy-in-the-united-states.md) _Context: Bankruptcy in the United States_
-4. [Energy Future Holdings, a Texas electric utility, asks a bankruptcy court in Delaware to confirm a plan that would allow it to exit Chapter 11 after more than two years. ](/news/2016/08/17/energy-future-holdings-a-texas-electric-utility-asks-a-bankruptcy-court-in-delaware-to-confirm-a-plan-that-would-allow-it-to-exit-chapter.md) _Context: Chapter 11_
-5. [Peabody Energy, the largest privately-owned producer of coal in the world headquartered in St. Louis, Missouri, files for bankruptcy court protection due to high debts and a drop in world prices. ](/news/2016/04/13/peabody-energy-the-largest-privately-owned-producer-of-coal-in-the-world-headquartered-in-st-louis-missouri-files-for-bankruptcy-court-p.md) _Context: Bankruptcy in the United States_
+1. [Arch Coal, the second largest coal-mining concern in the United States, files for chapter 11 protection because it has been hit hard by the collapsing market demand for that commodity. ](/news/2016/01/11/arch-coal-the-second-largest-coal-mining-concern-in-the-united-states-files-for-chapter-11-protection-because-it-has-been-hit-hard-by-the.md) _Context: chapter 11_
+2. [TerreStar Networks, a mobile-communications company that has been in bankruptcy since October 2010, picks Dish Network as the stalking horse bidder for an upcoming auction. ](/news/2011/06/15/terrestar-networks-a-mobile-communications-company-that-has-been-in-bankruptcy-since-october-2010-picks-dish-network-as-the-stalking-horse.md) _Context: stalking horse_
+3. [Borders Group, the second largest bookstore chain in the United States, files for bankruptcy with plans to sell at least 200 stores. ](/news/2011/02/16/borders-group-the-second-largest-bookstore-chain-in-the-united-states-files-for-bankruptcy-with-plans-to-sell-at-least-200-stores.md) _Context: Borders Group_
+4. [Executives of the troubled U.S. book retailer Borders meet with publishers to appeal for financing. ](/news/2011/01/13/executives-of-the-troubled-u-s-book-retailer-borders-meet-with-publishers-to-appeal-for-financing.md) _Context: Borders Group_
+5. [ Refco, New York based commodity brokerage, files for chapter 11 (bankruptcy) protection after an 8 day melt-down.](/news/2005/10/17/refco-new-york-based-commodity-brokerage-files-for-chapter-11-bankruptcy-protection-after-an-8-day-melt-down.md) _Context: chapter 11_

@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2009/01/17/north-korea-claims-to-have-weaponized-30-8-kilograms-of-plutonium-enough-for-four-to-five-nuclear-warheads.html)  [JSON](/news/2009/01/17/north-korea-claims-to-have-weaponized-30-8-kilograms-of-plutonium-enough-for-four-to-five-nuclear-warheads.json)  [XML](/news/2009/01/17/north-korea-claims-to-have-weaponized-30-8-kilograms-of-plutonium-enough-for-four-to-five-nuclear-warheads.xml)  
+
 ### [2009-01-17](/news/2009/01/17/index.md)
 
+##### North Korea
 #  North Korea claims to have "weaponized" 30.8 kilograms of plutonium, enough for four to five nuclear warheads. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2009/WORLD/asiapcf/01/17/korea.nuclear/index.html)
 
 ### Related:
 
-1. [ North Korea launches its fifth missile since testing a nuclear weapon on May 25. ](/news/2009/05/27/north-korea-launches-its-fifth-missile-since-testing-a-nuclear-weapon-on-may-25.md) _Context: North Korea, its nuclear weapons program, nuclear weapon_
-2. [North Korea nuclear weapons program: North Korean Vice Foreign Minister Choe Su-hon announces at the UN General Assembly that it has turned plutonium from 8,000 spent fuel rods into nuclear weapons as a deterrent against the U.S. nuclear threat. Six-nation talks on the nuclear issue, which were due to have resumed before October, have been suspended. Analysts believe North Korea has ruled out further talks until after the U.S. presidential election in November. ](/news/2004/09/28/north-korea-nuclear-weapons-program-north-korean-vice-foreign-minister-choe-su-hon-announces-at-the-un-general-assembly-that-it-has-turned.md) _Context: North Korea, nuclear weapon, plutonium_
-3. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: North Korea, nuclear weapon_
-4. [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _Context: North Korea, its nuclear weapons program_
-5. [The United Nations Security Council votes 15-0 to impose sanctions on North Korea for its intercontinental ballistic missile tests. ](/news/2017/08/5/the-united-nations-security-council-votes-15a0-to-impose-sanctions-on-north-korea-for-its-intercontinental-ballistic-missile-tests.md) _Context: North Korea, its nuclear weapons program_
+1. [South Korean President Moon Jae-in, responding to North Korean leader Kim Jong-un's offer during his New Year's Day address, proposes a meeting to discuss the Winter Olympics and North Korea's nuclear program next Tuesday at the border city of Panmunjom. ](/news/2018/01/2/south-korean-president-moon-jae-in-responding-to-north-korean-leader-kim-jong-un-s-offer-during-his-new-yearas-day-address-proposes-a-me.md) _Context: North Korea, North Korea's nuclear program_
+2. [North Korea is building its first operational ballistic missile submarine on an "accelerated schedule," according to the US-Korea Institute of Johns Hopkins School of Advanced International Studies. ](/news/2017/12/27/north-korea-is-building-its-first-operational-ballistic-missile-submarine-on-an-aaccelerated-schedule-a-according-to-the-us-korea-instit.md) _Context: North Korea, North Korea's nuclear program_
+3. [The United Nations Security Council unanimously imposes new sanctions on North Korea that caps refined petroleum product imports to 500,000 barrels a year, a 90 percent cut, and demands the repatriation of North Koreans working abroad within 24 months. ](/news/2017/12/22/the-united-nations-security-council-unanimously-imposes-new-sanctions-on-north-korea-that-caps-refined-petroleum-product-imports-to-500-000.md) _Context: North Korea, North Korea's nuclear program_
+4. [A North Korean defector claims children are being born with deformities near North Korea's nuclear testing site. ](/news/2017/11/7/a-north-korean-defector-claims-children-are-being-born-with-deformities-near-north-korea-s-nuclear-testing-site.md) _Context: North Korea, North Korea's nuclear program_
+5. [U.S. President Donald Trump announces new sanctions on North Korea over its nuclear weapons program. ](/news/2017/09/21/u-s-president-donald-trump-announces-new-sanctions-on-north-korea-over-its-nuclear-weapons-program.md) _Context: North Korea, North Korea's nuclear program_

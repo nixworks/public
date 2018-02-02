@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/16/spanish-politician-gaspar-llamazares-says-the-united-states-s-federal-bureau-of-investigation-fbi-use-of-his-photo-in-its-shameless-digi.html)  [JSON](/news/2010/01/16/spanish-politician-gaspar-llamazares-says-the-united-states-s-federal-bureau-of-investigation-fbi-use-of-his-photo-in-its-shameless-digi.json)  [XML](/news/2010/01/16/spanish-politician-gaspar-llamazares-says-the-united-states-s-federal-bureau-of-investigation-fbi-use-of-his-photo-in-its-shameless-digi.xml)  
+
 ### [2010-01-16](/news/2010/01/16/index.md)
 
+##### Spain
 # Spanish politician Gaspar Llamazares says the United States's Federal Bureau of Investigation (FBI) use of his photo in its "shameless" digital manipulation of Osama Bin Laden for a wanted poster, has left him insecure and worried about travelling to the United States in future. 
 
 The FBI has admitted using a photograph of a bearded Spanish politician as the basis for a mocked-up photofit image showing how Osama Bin Laden might look now.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/8463657.stm)
 2. [Sky News](http://news.sky.com/skynews/Home/World-News/Computer-Image-Of-Osama-Bin-Laden-Spanish-Politician-Gaspar-Llamazares-Unhappy-His-Features-Used/Article/201001315525825?f=rss)
@@ -14,8 +18,8 @@ The FBI has admitted using a photograph of a bearded Spanish politician as the b
 
 ### Related:
 
-1. [Hamza bin Laden, the son of the slain Osama bin Laden, threatens a genocide against the United States to retaliate for his father's killing. ](/news/2016/07/10/hamza-bin-laden-the-son-of-the-slain-osama-bin-laden-threatens-a-genocide-against-the-united-states-to-retaliate-for-his-father-s-killing.md) _Context: Osama bin Laden, United States_
-2. [In the United States, Suffolk County police ask the FBI for more help in their investigation of a possible serial killer who preyed on prostitutes and left their bodies strewn along a Long Island beach in New York. Ten bodies were found along an isolated stretch of the South Shore's Gilgo Beach between December 2010 and April 2011. ](/news/2015/12/10/in-the-united-states-suffolk-county-police-ask-the-fbi-for-more-help-in-their-investigation-of-a-possible-serial-killer-who-preyed-on-prost.md) _Context: FBI, United States_
-3. [The United States FBI foils an alleged plot by white supremacists in Virginia who were planning a reign of terror -- shooting or bombing religious institutions, robbing jewelers and armored cars, purchasing land, stockpiling weapons, and training for the "coming race war." ](/news/2015/11/10/the-united-states-fbi-foils-an-alleged-plot-by-white-supremacists-in-virginia-who-were-planning-a-reign-of-terror-a-shooting-or-bombing-re.md) _Context: FBI, United States_
-4. [Abu Anas al-Libi, a one-time associate of Osama bin Laden, dies in New York, United States, while awaiting trial for allegedly plotting the bombings of the U.S. embassies in Kenya and Tanzania. ](/news/2015/01/2/abu-anas-al-libi-a-one-time-associate-of-osama-bin-laden-dies-in-new-york-united-states-while-awaiting-trial-for-allegedly-plotting-the.md) _Context: Osama bin Laden, United States_
-5. [Sulaiman Abu Ghaith, alleged spokesman for al-Qaeda and said to be the son-in-law of Osama bin Laden, is captured in Jordan and faces criminal charges in the United States. ](/news/2013/03/7/sulaiman-abu-ghaith-alleged-spokesman-for-al-qaeda-and-said-to-be-the-son-in-law-of-osama-bin-laden-is-captured-in-jordan-and-faces-crimin.md) _Context: Osama bin Laden, United States_
+1. [In the United States, Suffolk County police ask the FBI for more help in their investigation of a possible serial killer who preyed on prostitutes and left their bodies strewn along a Long Island beach in New York. Ten bodies were found along an isolated stretch of the South Shore's Gilgo Beach between December 2010 and April 2011. ](/news/2015/12/10/in-the-united-states-suffolk-county-police-ask-the-fbi-for-more-help-in-their-investigation-of-a-possible-serial-killer-who-preyed-on-prost.md) _Context: FBI, U.S._
+2. [The United States FBI foils an alleged plot by white supremacists in Virginia who were planning a reign of terror -- shooting or bombing religious institutions, robbing jewelers and armored cars, purchasing land, stockpiling weapons, and training for the "coming race war." ](/news/2015/11/10/the-united-states-fbi-foils-an-alleged-plot-by-white-supremacists-in-virginia-who-were-planning-a-reign-of-terror-a-shooting-or-bombing-re.md) _Context: FBI, U.S._
+3. [The United States Federal Bureau of Investigation announces that it has arrested 13 members of the Mafia in the city of Philadelphia in relation to an illegal gambling operation. ](/news/2011/06/6/the-united-states-federal-bureau-of-investigation-announces-that-it-has-arrested-13-members-of-the-mafia-in-the-city-of-philadelphia-in-rela.md) _Context: FBI, U.S._
+4. [WikiLeaks reveals that the United States Federal Bureau of Investigation had launched an investigation of a previously unknown group of men believed to be involved in the September 11 attacks. ](/news/2011/02/2/wikileaks-reveals-that-the-united-states-federal-bureau-of-investigation-had-launched-an-investigation-of-a-previously-unknown-group-of-men.md) _Context: FBI, U.S._
+5. [An analysis of the FBI's scientific work in the investigation of the 2001 anthrax attacks on the United States finds that the Bureau overstated the strength of the links to a supply held by Bruce Ivins. ](/news/2011/02/15/an-analysis-of-the-fbi-s-scientific-work-in-the-investigation-of-the-2001-anthrax-attacks-on-the-united-states-finds-that-the-bureau-oversta.md) _Context: FBI, U.S._

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/21/an-arab-residing-in-israel-is-convicted-of-rape-by-deception-and-jailed-for-18-months-for-having-consensual-sexual-intercourse-in-2008-wit.html)  [JSON](/news/2010/07/21/an-arab-residing-in-israel-is-convicted-of-rape-by-deception-and-jailed-for-18-months-for-having-consensual-sexual-intercourse-in-2008-wit.json)  [XML](/news/2010/07/21/an-arab-residing-in-israel-is-convicted-of-rape-by-deception-and-jailed-for-18-months-for-having-consensual-sexual-intercourse-in-2008-wit.xml)  
+
 ### [2010-07-21](/news/2010/07/21/index.md)
 
+##### Arab
 # An Arab residing in Israel is convicted of "rape by deception" and jailed for 18 months for having consensual sexual intercourse in 2008 with an Israeli woman alleged to believe he was Jewish. 
 
 Man sentenced to 18 months in prison after telling an Israeli woman he was Jewish.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/07/201072191017847251.html)
 2. [The Guardian](http://www.guardian.co.uk/world/2010/jul/21/arab-guilty-rape-consensual-sex-jew)

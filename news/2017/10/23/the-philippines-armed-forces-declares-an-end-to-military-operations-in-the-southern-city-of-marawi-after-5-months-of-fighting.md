@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/23/the-philippines-armed-forces-declares-an-end-to-military-operations-in-the-southern-city-of-marawi-after-5-months-of-fighting.html)  [JSON](/news/2017/10/23/the-philippines-armed-forces-declares-an-end-to-military-operations-in-the-southern-city-of-marawi-after-5-months-of-fighting.json)  [XML](/news/2017/10/23/the-philippines-armed-forces-declares-an-end-to-military-operations-in-the-southern-city-of-marawi-after-5-months-of-fighting.xml)  
+
 ### [2017-10-23](/news/2017/10/23/index.md)
 
+##### Battle of Marawi
 # The Philippines Armed Forces declares an end to military operations in the southern city of Marawi after 5 months of fighting. 
 
 

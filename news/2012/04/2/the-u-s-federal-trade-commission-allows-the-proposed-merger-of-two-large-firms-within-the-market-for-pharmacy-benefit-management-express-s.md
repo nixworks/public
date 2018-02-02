@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/2/the-u-s-federal-trade-commission-allows-the-proposed-merger-of-two-large-firms-within-the-market-for-pharmacy-benefit-management-express-s.html)  [JSON](/news/2012/04/2/the-u-s-federal-trade-commission-allows-the-proposed-merger-of-two-large-firms-within-the-market-for-pharmacy-benefit-management-express-s.json)  [XML](/news/2012/04/2/the-u-s-federal-trade-commission-allows-the-proposed-merger-of-two-large-firms-within-the-market-for-pharmacy-benefit-management-express-s.xml)  
+
 ### [2012-04-2](/news/2012/04/2/index.md)
 
+##### U.S. Federal Trade Commission
 # The U.S. Federal Trade Commission allows the proposed merger of two large firms within the market for pharmacy benefit management, Express Scripts and Medco Health Solutions, despite the arguments of many that the degree of concentration that will create in the PBM market will prove unhealthy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [FTC](http://www.ftc.gov/opa/2012/04/medco.shtm)
 

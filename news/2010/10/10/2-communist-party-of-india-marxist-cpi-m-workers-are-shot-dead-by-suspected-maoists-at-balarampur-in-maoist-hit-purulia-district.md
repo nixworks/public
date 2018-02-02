@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/10/2-communist-party-of-india-marxist-cpi-m-workers-are-shot-dead-by-suspected-maoists-at-balarampur-in-maoist-hit-purulia-district.html)  [JSON](/news/2010/10/10/2-communist-party-of-india-marxist-cpi-m-workers-are-shot-dead-by-suspected-maoists-at-balarampur-in-maoist-hit-purulia-district.json)  [XML](/news/2010/10/10/2-communist-party-of-india-marxist-cpi-m-workers-are-shot-dead-by-suspected-maoists-at-balarampur-in-maoist-hit-purulia-district.xml)  
+
 ### [2010-10-10](/news/2010/10/10/index.md)
 
+##### Communist Party of India-Marxist
 # 2 Communist Party of India-Marxist (CPI-M) workers are shot dead by suspected Maoists at Balarampur in Maoist-hit Purulia district. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [India Today](http://indiatoday.intoday.in/site/Story/115830/LATEST%20HEADLINES/naxals-kill-two-cpi%28m%29-workers.html)
 

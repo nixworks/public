@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/1/scientists-discover-three-new-species-of-marsupial-antechinus-in-queensland-australia.html)  [JSON](/news/2013/11/1/scientists-discover-three-new-species-of-marsupial-antechinus-in-queensland-australia.json)  [XML](/news/2013/11/1/scientists-discover-three-new-species-of-marsupial-antechinus-in-queensland-australia.xml)  
+
 ### [2013-11-1](/news/2013/11/1/index.md)
 
+##### Antechinus
 # Scientists discover three new species of marsupial Antechinus in Queensland, Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News.com.Au](http://www.news.com.au/national/queensland/new-species-of-marsupial-antechinus-discovered-by-scientists/story-fnii5v6w-1226751559545)
 

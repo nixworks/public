@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/05/29/prime-minister-viktor-orba-n-winner-of-the-2010-parliamentary-elections-in-hungary-assumes-office.html)  [JSON](/news/2010/05/29/prime-minister-viktor-orba-n-winner-of-the-2010-parliamentary-elections-in-hungary-assumes-office.json)  [XML](/news/2010/05/29/prime-minister-viktor-orba-n-winner-of-the-2010-parliamentary-elections-in-hungary-assumes-office.xml)  
+
 ### [2010-05-29](/news/2010/05/29/index.md)
 
+##### Prime Minister
 # Prime Minister Viktor Orban, winner of the 2010 parliamentary elections in Hungary, assumes office. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSBUS00213720100529)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/idUSBUS00213720100529)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/7/humberto-leal-garcaa-a-mexican-national-is-executed-in-the-us-state-of-texas-despite-concerns-over-whether-the-circumstances-of-his-execu.html)  [JSON](/news/2011/07/7/humberto-leal-garcaa-a-mexican-national-is-executed-in-the-us-state-of-texas-despite-concerns-over-whether-the-circumstances-of-his-execu.json)  [XML](/news/2011/07/7/humberto-leal-garcaa-a-mexican-national-is-executed-in-the-us-state-of-texas-despite-concerns-over-whether-the-circumstances-of-his-execu.xml)  
+
 ### [2011-07-7](/news/2011/07/7/index.md)
 
+##### Mexican
 # Humberto Leal Garcia, a Mexican national, is executed in the US state of Texas despite concerns over whether the circumstances of his execution would breach international law. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-14041953)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53891000/jpg/_53891453_53891452.jpg)

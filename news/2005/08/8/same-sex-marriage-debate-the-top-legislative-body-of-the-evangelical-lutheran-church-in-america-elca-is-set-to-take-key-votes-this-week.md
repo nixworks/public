@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2005/08/8/same-sex-marriage-debate-the-top-legislative-body-of-the-evangelical-lutheran-church-in-america-elca-is-set-to-take-key-votes-this-week.html)  [JSON](/news/2005/08/8/same-sex-marriage-debate-the-top-legislative-body-of-the-evangelical-lutheran-church-in-america-elca-is-set-to-take-key-votes-this-week.json)  [XML](/news/2005/08/8/same-sex-marriage-debate-the-top-legislative-body-of-the-evangelical-lutheran-church-in-america-elca-is-set-to-take-key-votes-this-week.xml)  
+
 ### [2005-08-8](/news/2005/08/8/index.md)
 
+##### gay marriage
 #  Same sex marriage debate: The top legislative body of the Evangelical Lutheran Church in America (ELCA) is set to take key votes this week on ordaining gays and blessing same-sex unions. Conflicts over what the Bible says about homosexuality have been tearing at Protestant denominations for years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP feed in Guardian UK](http://www.guardian.co.uk/worldlatest/story/0,1280,-5196172,00.html)
 2. [Cleveland Plain Dealer](http://www.cleveland.com/living/plaindealer/index.ssf?/base/living/112349356698840.xml&coll=2&thispage=1)
 
 ### Related:
 
-1. [ Two Argentine men become the first gay couple to legally marry in Latin America at a civil ceremony. ](/news/2009/12/28/two-argentine-men-become-the-first-gay-couple-to-legally-marry-in-latin-america-at-a-civil-ceremony.md) _Context: homosexuality, same-sex marriage_
-2. [ Same-sex marriage in the United States: The Wisconsin State Assembly approves state constitution amendment (voted 68-27) to ban same-sex marriages or civil unions, to counter efforts elsewhere to legalize such partnerships. The Kansas House passes, by 88 votes to 36, a proposed amendment. ](/news/2004/03/5/same-sex-marriage-in-the-united-states-the-wisconsin-state-assembly-approves-state-constitution-amendment-voted-68-27-to-ban-same-sex-ma.md) _Context: homosexuality, same-sex marriage_
-3. [ Same-sex marriage in the United States: Oregon's attorney general issues his opinion on same-sex marriage within Oregon. He concludes that current state law prohibits issuing marriage licenses to same-sex couples, but that the Oregon Supreme Court is likely to conclude those statutes violate the state's constitution. The Wisconsin State Senate approves state constitution amendment to ban same-sex marriages or civil unions, to counter efforts elsewhere to legalize such partnerships. ](/news/2004/03/12/same-sex-marriage-in-the-united-states-oregon-s-attorney-general-issues-his-opinion-on-same-sex-marriage-within-oregon-he-concludes-that.md) _Context: homosexuality, same-sex marriage_
-4. [Chilean President Michelle Bachelet sends a bill to Congress for the legalization of same-sex marriage in Chile and adoption by same-sex couples, two years after recognizing civil unions for both same-gender and different-gender couples. ](/news/2017/08/28/chilean-president-michelle-bachelet-sends-a-bill-to-congress-for-the-legalization-of-same-sex-marriage-in-chile-and-adoption-by-same-sex-cou.md) _Context: same-sex marriage_
-5. [A bill allowing same-sex marriage in Malta gets approved by Parliament. ](/news/2017/07/12/a-bill-allowing-same-sex-marriage-in-malta-gets-approved-by-parliament.md) _Context: same-sex marriage_
+1. [German Justice Minister Heiko Maas says he will propose legislation to annul homosexuality convictions, and create a "right to compensation." A 19th-century law outlawed sexual relations between men. Homosexuality was decriminalized in 1969, but the law itself was not rescinded until 1994. ](/news/2016/05/11/german-justice-minister-heiko-maas-says-he-will-propose-legislation-to-annul-homosexuality-convictions-and-create-a-aright-to-compensatio.md) _Context: homosexuality_
+2. [Phil Robertson, featured on the reality show "Duck Dynasty", is suspended by A&E in response to controversial statements about homosexuality made during an interview with "GQ" magazine. ](/news/2013/12/19/phil-robertson-featured-on-the-reality-show-duck-dynasty-is-suspended-by-a-e-in-response-to-controversial-statements-about-homosexuality.md) _Context: homosexuality_
+3. [The Supreme Court of India upholds the primacy of Section 377 of the Indian penal code banning homosexual activities. ](/news/2013/12/11/the-supreme-court-of-india-upholds-the-primacy-of-section-377-of-the-indian-penal-code-banning-homosexual-activities.md) _Context: homosexuality_
+4. [The United States Supreme Court weighs the case of a California constitutional amendment banning same-sex unions, passed after gay marriage became legal there. ](/news/2013/03/26/the-united-states-supreme-court-weighs-the-case-of-a-california-constitutional-amendment-banning-same-sex-unions-passed-after-gay-marriage.md) _Context: same-sex unions_
+5. [Ugandan police release theatre producer David Cecil on bail after charging him in connection with the staging of "The River and the Mountain", a play which references homosexuality. His court date is 18 October, with a two year jail sentence possible. ](/news/2012/09/17/ugandan-police-release-theatre-producer-david-cecil-on-bail-after-charging-him-in-connection-with-the-staging-of-the-river-and-the-mountain.md) _Context: homosexuality_

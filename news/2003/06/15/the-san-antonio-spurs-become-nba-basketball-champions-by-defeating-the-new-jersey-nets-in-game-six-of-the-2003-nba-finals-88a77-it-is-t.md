@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/15/the-san-antonio-spurs-become-nba-basketball-champions-by-defeating-the-new-jersey-nets-in-game-six-of-the-2003-nba-finals-88a77-it-is-t.html)  [JSON](/news/2003/06/15/the-san-antonio-spurs-become-nba-basketball-champions-by-defeating-the-new-jersey-nets-in-game-six-of-the-2003-nba-finals-88a77-it-is-t.json)  [XML](/news/2003/06/15/the-san-antonio-spurs-become-nba-basketball-champions-by-defeating-the-new-jersey-nets-in-game-six-of-the-2003-nba-finals-88a77-it-is-t.xml)  
+
 ### [2003-06-15](/news/2003/06/15/index.md)
 
+##### San Antonio Spurs
 #  The San Antonio Spurs become NBA basketball champions by defeating the New Jersey Nets in game six of the 2003 NBA Finals, 88-77. It is the Spurs second franchise title.
 
 

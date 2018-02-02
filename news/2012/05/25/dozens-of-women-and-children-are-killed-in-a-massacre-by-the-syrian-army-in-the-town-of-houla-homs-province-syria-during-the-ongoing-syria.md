@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/25/dozens-of-women-and-children-are-killed-in-a-massacre-by-the-syrian-army-in-the-town-of-houla-homs-province-syria-during-the-ongoing-syria.html)  [JSON](/news/2012/05/25/dozens-of-women-and-children-are-killed-in-a-massacre-by-the-syrian-army-in-the-town-of-houla-homs-province-syria-during-the-ongoing-syria.json)  [XML](/news/2012/05/25/dozens-of-women-and-children-are-killed-in-a-massacre-by-the-syrian-army-in-the-town-of-houla-homs-province-syria-during-the-ongoing-syria.xml)  
+
 ### [2012-05-25](/news/2012/05/25/index.md)
 
+##### Homs
 # Dozens of women and children are killed in a massacre by the Syrian army in the town of Houla, Homs province, Syria during the ongoing Syrian uprising. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/ap/article/ALeqM5jLa9GhtjwdIwBQqgHhdmbMIm06cQ?docId=0ac6fa5fb46c459b99680172077aea23)
 

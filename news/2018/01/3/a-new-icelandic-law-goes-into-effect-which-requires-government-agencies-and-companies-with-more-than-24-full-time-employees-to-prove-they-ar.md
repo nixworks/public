@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/3/a-new-icelandic-law-goes-into-effect-which-requi
 
 ### [2018-01-3](/news/2018/01/3/index.md)
 
+##### Law of Iceland
 # A new Icelandic law goes into effect which requires government agencies and companies with more than 24 full-time employees to prove they are paying men and women equally, as required by existing legislation. 
 
 The island nation has started to put in place a new law requiring companies with 25 employees or more to show that they pay men and women equally.

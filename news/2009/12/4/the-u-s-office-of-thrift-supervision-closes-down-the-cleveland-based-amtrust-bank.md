@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/4/the-u-s-office-of-thrift-supervision-closes-down-the-cleveland-based-amtrust-bank.html)  [JSON](/news/2009/12/4/the-u-s-office-of-thrift-supervision-closes-down-the-cleveland-based-amtrust-bank.json)  [XML](/news/2009/12/4/the-u-s-office-of-thrift-supervision-closes-down-the-cleveland-based-amtrust-bank.xml)  
+
 ### [2009-12-4](/news/2009/12/4/index.md)
 
+##### Office of Thrift Supervision
 #  The U.S. Office of Thrift Supervision closes down the Cleveland based AmTrust Bank. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dow Jones via NASDAQ](http://www.nasdaq.com/aspx/stock-market-news-story.aspx?storyid=200912041843dowjonesdjonline000731&title=federal-regulators-close-amtrust-bank-in-cleveland)
 1. [Cover Image](http://www.nasdaq.com/images/Q-logo.jpg)

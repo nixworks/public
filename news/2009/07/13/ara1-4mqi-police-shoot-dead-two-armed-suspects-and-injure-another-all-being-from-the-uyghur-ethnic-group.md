@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/13/ara1-4mqi-police-shoot-dead-two-armed-suspects-and-injure-another-all-being-from-the-uyghur-ethnic-group.html)  [JSON](/news/2009/07/13/ara1-4mqi-police-shoot-dead-two-armed-suspects-and-injure-another-all-being-from-the-uyghur-ethnic-group.json)  [XML](/news/2009/07/13/ara1-4mqi-police-shoot-dead-two-armed-suspects-and-injure-another-all-being-from-the-uyghur-ethnic-group.xml)  
+
 ### [2009-07-13](/news/2009/07/13/index.md)
 
+##### Urumqi
 #  Urumqi police shoot dead two armed suspects and injure another, all being from the Uyghur ethnic group. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5j794twyjYyjeOIdsKWwzCUhsgvUAD99DHL600)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8147657.stm)

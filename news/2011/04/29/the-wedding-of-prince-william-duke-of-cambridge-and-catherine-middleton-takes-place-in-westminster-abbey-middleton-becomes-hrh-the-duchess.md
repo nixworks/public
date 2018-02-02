@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/29/the-wedding-of-prince-william-duke-of-cambridge-and-catherine-middleton-takes-place-in-westminster-abbey-middleton-becomes-hrh-the-duchess.html)  [JSON](/news/2011/04/29/the-wedding-of-prince-william-duke-of-cambridge-and-catherine-middleton-takes-place-in-westminster-abbey-middleton-becomes-hrh-the-duchess.json)  [XML](/news/2011/04/29/the-wedding-of-prince-william-duke-of-cambridge-and-catherine-middleton-takes-place-in-westminster-abbey-middleton-becomes-hrh-the-duchess.xml)  
+
 ### [2011-04-29](/news/2011/04/29/index.md)
 
+##### 2011 Royal Wedding
 # The wedding of Prince William, Duke of Cambridge and Catherine Middleton takes place in Westminster Abbey; Middleton becomes HRH The Duchess of Cambridge. Police make at least 18 arrests along the wedding route in London. 
 
 Prince, second in line to throne, marries fiancee in ceremony watched by estimated global audience of two billion.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2011/04/20114297035414865.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-13132410)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/20/the-second-leg-of-the-presidential-debates-was-
 
 ### [2016-03-20](/news/2016/03/20/index.md)
 
+##### Philippine presidential election, 2016
 # The second leg of the presidential debates was held in Cebu City. 
 
 A Philippine presidential debate erupted into heated exchanges Sunday over allegations of corruption, a lack of patriotism and incompetence hurled against

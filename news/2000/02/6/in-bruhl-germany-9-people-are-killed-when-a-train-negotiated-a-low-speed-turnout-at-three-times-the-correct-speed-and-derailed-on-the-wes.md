@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2000/02/6/in-bruhl-germany-9-people-are-killed-when-a-train-negotiated-a-low-speed-turnout-at-three-times-the-correct-speed-and-derailed-on-the-wes.html)  [JSON](/news/2000/02/6/in-bruhl-germany-9-people-are-killed-when-a-train-negotiated-a-low-speed-turnout-at-three-times-the-correct-speed-and-derailed-on-the-wes.json)  [XML](/news/2000/02/6/in-bruhl-germany-9-people-are-killed-when-a-train-negotiated-a-low-speed-turnout-at-three-times-the-correct-speed-and-derailed-on-the-wes.xml)  
+
 ### [2000-02-6](/news/2000/02/6/index.md)
 
+##### Brhl train disaster
 # In Brhl, Germany, 9 people are killed when a train negotiated a low speed turnout at three times the correct speed and derailed, on the West Rhine Railway.
 
 
 
 
-### Related:
-
-1. [The European X-ray free-electron laser is inaugurated in Hamburg, Germany. ](/news/2017/09/3/the-european-x-ray-free-electron-laser-is-inaugurated-in-hamburg-germany.md) _Context: Germany_
-2. [Large portions of Frankfurt, Germany, are evacuated as local authorities work to defuse a bomb left over from a Royal Air Force raid during World War II. The evacuation is the largest to occur in Europe since World War II. ](/news/2017/09/3/large-portions-of-frankfurt-germany-are-evacuated-as-local-authorities-work-to-defuse-a-bomb-left-over-from-a-royal-air-force-raid-during.md) _Context: Germany_
-3. [Voters in Germany go to the polls to elect members of the Bundestag. Chancellor Angela Merkel of the Christian Democratic Union is widely expected to win a fourth term in office. ](/news/2017/09/24/voters-in-germany-go-to-the-polls-to-elect-members-of-the-bundestag-chancellor-angela-merkel-of-the-christian-democratic-union-is-widely-ex.md) _Context: Germany_
-4. [Turkey summons the ambassador of Germany after at least 10,000 people rally in Cologne in support of the referendum. ](/news/2017/09/16/turkey-summons-the-ambassador-of-germany-after-at-least-10-000-people-rally-in-cologne-in-support-of-the-referendum.md) _Context: Germany_
-5. [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md) _Context: Germany_
-
 ### Changes:
 
 1. [Brhl train disaster: In Brhl, Germany, 9 people are killed when a train negotiated a low speed turnout at three times the correct speed and derailed, on the West Rhine Railway.](/news/2000/02/6/bruhl-train-disaster-in-bruhl-germany-9-people-are-killed-when-a-train-negotiated-a-low-speed-turnout-at-three-times-the-correct-speed-an.md) _2017-08-27 03:15:07 (First version)_
 1. [In Brhl, Germany, 9 people are killed when a train negotiated a low speed turnout at three times the correct speed and derailed, on the West Rhine Railway.](/news/2000/02/6/in-bruhl-germany-9-people-are-killed-when-a-train-negotiated-a-low-speed-turnout-at-three-times-the-correct-speed-and-derailed-on-the-wes.md) _(Current version)_
+
+### Related:
+
+1. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: German_
+2. [British, American and German men are among a group of international volunteers who travelled to Afrin to fight against Turkish-led forces in north-west Syria. ](/news/2018/01/24/british-american-and-german-men-are-among-a-group-of-international-volunteers-who-travelled-to-afrin-to-fight-against-turkish-led-forces-in.md) _Context: German_
+3. [A helicopter and a light aircraft collide mid-air close to the Philippsburg Nuclear Power Plant in Germany, killing four people. ](/news/2018/01/23/a-helicopter-and-a-light-aircraft-collide-mid-air-close-to-the-philippsburg-nuclear-power-plant-in-germany-killing-four-people.md) _Context: German_
+4. [German nurse and convicted serial killer Niels Hogel is charged with 97 further counts of murder. ](/news/2018/01/22/german-nurse-and-convicted-serial-killer-niels-hapgel-is-charged-with-97-further-counts-of-murder.md) _Context: German_
+5. [Nine prisoners have escaped from a Berlin, Germany prison over the last five days, with two escaping today. ](/news/2018/01/2/nine-prisoners-have-escaped-from-a-berlin-germany-prison-over-the-last-five-days-with-two-escaping-today.md) _Context: German_

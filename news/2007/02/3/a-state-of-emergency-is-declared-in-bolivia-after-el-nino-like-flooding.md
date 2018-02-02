@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2007/02/3/a-state-of-emergency-is-declared-in-bolivia-after-el-nino-like-flooding.html)  [JSON](/news/2007/02/3/a-state-of-emergency-is-declared-in-bolivia-after-el-nino-like-flooding.json)  [XML](/news/2007/02/3/a-state-of-emergency-is-declared-in-bolivia-after-el-nino-like-flooding.xml)  
+
 ### [2007-02-3](/news/2007/02/3/index.md)
 
+##### emergency rule
 #  A State of Emergency is declared in Bolivia after 'El Nio'-like flooding. 
 
 NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/environment/flood.asp?id=100346&callid=1)
 1. [Cover Image](http://cdn.ndtv.com/static/images/ndtv_default_image_500x500.jpg)
 
 ### Related:
 
-1. [Bolivia declares a state of emergency after approximately 25,000 forest fires spread across the country. ](/news/2010/08/20/bolivia-declares-a-state-of-emergency-after-approximately-25-000-forest-fires-spread-across-the-country.md) _Context: Bolivia, states of emergency_
-2. [A state of emergency is declared in parts of Bolivia and rescue efforts continue in Peru amid heavy rain and floods in the region. ](/news/2010/01/29/a-state-of-emergency-is-declared-in-parts-of-bolivia-and-rescue-efforts-continue-in-peru-amid-heavy-rain-and-floods-in-the-region.md) _Context: Bolivia, states of emergency_
-3. [Brazilian police detain fugitive Italian former left-wing guerrilla and convicted murderer Cesare Battisti, as he was attempting to flee across the border into Bolivia to avoid extradition back to Italy and facing his life sentence prison term for four murders in the 1970s. ](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.md) _Context: Bolivia_
-4. [Hurricane Irma is now a Category 4 hurricane with maximum sustained winds of 130 mph (215 km-h). Hurricane warnings are issued for the Leeward Islands in the Caribbean, which are expected to be affected Tuesday. Rainfalls of up to 10 inches (25 centimeters) are possible. Irma is forecast to strengthen over the next 48 hours. The governors of Puerto Rico and Florida issue states of emergency. ](/news/2017/09/4/hurricane-irma-is-now-a-category-4-hurricane-with-maximum-sustained-winds-of-130-mph-215-km-h-hurricane-warnings-are-issued-for-the-leewa.md) _Context: states of emergency_
-5. [The La Tuna Fire continues to burn in Los Angeles, California, becoming the largest fire in the city's history at around 5,800 acres. Mayor Eric Garcetti declares a state of emergency. ](/news/2017/09/3/the-la-tuna-fire-continues-to-burn-in-los-angeles-california-becoming-the-largest-fire-in-the-city-s-history-at-around-5-800-acres-mayor.md) _Context: states of emergency_
+1. [Brazilian police detain fugitive Italian former left-wing guerrilla and convicted murderer Cesare Battisti, as he was attempting to flee across the border into Bolivia to avoid extradition back to Italy and facing his life sentence prison term for four murders in the 1970s. ](/news/2017/10/4/brazilian-police-detain-fugitive-italian-former-left-wing-guerrilla-and-convicted-murderer-cesare-battisti-as-he-was-attempting-to-flee-acr.md) _Context: Bolivia_
+2. [Bolivia, Ethiopia, Italy, Kazakhstan, and Sweden begin their terms on the United Nations Security Council, replacing Angola, Malaysia, New Zealand, Spain, and Venezuela. ](/news/2017/01/1/bolivia-ethiopia-italy-kazakhstan-and-sweden-begin-their-terms-on-the-united-nations-security-council-replacing-angola-malaysia-new-z.md) _Context: Bolivia_
+3. [Bolivia's aviation authority suspends the operating license of LaMia. Investigation into the crash in Colombia, which killed 71 people, continues. ](/news/2016/12/1/bolivia-s-aviation-authority-suspends-the-operating-license-of-lamia-investigation-into-the-crash-in-colombia-which-killed-71-people-cont.md) _Context: Bolivia_
+4. [Around ten heads of state attend the 17th Non-aligned Movement summit in Isla Margarita, Venezuela, including Evo Morales of Bolivia, Raul Castro of Cuba, Rafael Correa of Ecuador, Hassan Rouhani of Iran, Mahmoud Abbas of the State of Palestine, Robert Mugabe of Zimbabwe, and Venezuela's president Nicolas Maduro. ](/news/2016/09/17/around-ten-heads-of-state-attend-the-17th-non-aligned-movement-summit-in-isla-margarita-venezuela-including-evo-morales-of-bolivia-raaol.md) _Context: Bolivia_
+5. [Bolivia's deputy interior minister, Rodolfo Illanes, is kidnapped and beaten to death by striking miners. ](/news/2016/08/26/bolivia-s-deputy-interior-minister-rodolfo-illanes-is-kidnapped-and-beaten-to-death-by-striking-miners.md) _Context: Bolivia_

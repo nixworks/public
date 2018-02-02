@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/3/disney-announces-that-it-is-ceasing-all-internal-development-at-its-lucasarts-game-division.html)  [JSON](/news/2013/04/3/disney-announces-that-it-is-ceasing-all-internal-development-at-its-lucasarts-game-division.json)  [XML](/news/2013/04/3/disney-announces-that-it-is-ceasing-all-internal-development-at-its-lucasarts-game-division.xml)  
+
 ### [2013-04-3](/news/2013/04/3/index.md)
 
+##### Disney
 # Disney announces that it is ceasing all internal development at its LucasArts game division. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [San Francisco Chronicle](http://www.sfgate.com/technology/article/Disney-ends-LucasArts-game-development-4407769.php)
 1. [Cover Image](http://ww3.hdnux.com/photos/20/66/75/4419402/7/rawImage.jpg)

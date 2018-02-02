@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/15/spacex-returns-to-flight-by-placing-10-iridium-
 
 ### [2017-01-15](/news/2017/01/15/index.md)
 
+##### SpaceX
 # SpaceX returns to flight by placing 10 Iridium NEXT satellites in orbit and successfully recovering the first stage of its Falcon 9 launcher on a droneship. 
 
 

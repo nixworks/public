@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/27/the-death-toll-from-tsunamis-resulting-from-the-indian-ocean-earthquake-is-known-to-be-at-least-20-000-and-possibly-as-high-as-45-000.html)  [JSON](/news/2004/12/27/the-death-toll-from-tsunamis-resulting-from-the-indian-ocean-earthquake-is-known-to-be-at-least-20-000-and-possibly-as-high-as-45-000.json)  [XML](/news/2004/12/27/the-death-toll-from-tsunamis-resulting-from-the-indian-ocean-earthquake-is-known-to-be-at-least-20-000-and-possibly-as-high-as-45-000.xml)  
+
 ### [2004-12-27](/news/2004/12/27/index.md)
 
+##### tsunami
 #  The death toll from tsunamis resulting from the Indian Ocean earthquake is known to be at least 20,000 and possibly as high as 45,000. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4129233.stm)
 2. [Independent Online](http://www.iol.co.za/index.php?set_id=1&click_id=3&art_id=vn20041228090409981C961815)

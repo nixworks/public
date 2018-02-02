@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/3/a-mother-and-two-children-drown-after-their-car-
 
 ### [2017-04-3](/news/2017/04/3/index.md)
 
+##### Cyclone Debbie
 # A mother and two children drown after their car plunges into the flooded Tweed River, raising the death toll to eight people. A ten-year-old girl escapes and alerts authorities. 
 
 A MOTHER and her young son and daughter are believed to have drowned after their car plunged into a flood swollen river in northern NSW this afternoon.

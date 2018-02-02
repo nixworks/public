@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/31/a-dhc-2-beaver-seaplane-crashes-into-the-hawkes
 
 ### [2017-12-31](/news/2017/12/31/index.md)
 
+##### 2017 Sydney Seaplanes crash
 # A DHC-2 Beaver seaplane crashes into the Hawkesbury River near Sydney, killing at least six people. 
 
 The aircraft is totally submerged and casualties reportedly include an 11-year-old boy and four Britons.

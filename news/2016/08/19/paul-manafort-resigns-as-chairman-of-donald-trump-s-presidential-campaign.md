@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/19/paul-manafort-resigns-as-chairman-of-donald-tru
 
 ### [2016-08-19](/news/2016/08/19/index.md)
 
+##### 2016 U.S. presidential election
 # Paul Manafort resigns as chairman of Donald Trump's presidential campaign. 
 
 Republican nominee wishes Manafort ‘success’ after resignation that comes days after Trump brought in Breitbart’s Steve Bannon as new campaign leadership

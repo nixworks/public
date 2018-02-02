@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/2/greek-prime-minister-kostas-karamanlis-announces-that-he-is-to-ask-the-president-to-dissolve-parliament-and-call-a-general-election-for-oct.html)  [JSON](/news/2009/09/2/greek-prime-minister-kostas-karamanlis-announces-that-he-is-to-ask-the-president-to-dissolve-parliament-and-call-a-general-election-for-oct.json)  [XML](/news/2009/09/2/greek-prime-minister-kostas-karamanlis-announces-that-he-is-to-ask-the-president-to-dissolve-parliament-and-call-a-general-election-for-oct.xml)  
+
 ### [2009-09-2](/news/2009/09/2/index.md)
 
+##### Kostas Karamanlis
 #  Greek Prime Minister Kostas Karamanlis announces that he is to ask the president to dissolve parliament and call a general election for October. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/8234843.stm)
 

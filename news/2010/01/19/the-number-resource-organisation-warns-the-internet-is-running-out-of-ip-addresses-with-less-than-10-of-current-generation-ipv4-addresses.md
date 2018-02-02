@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/19/the-number-resource-organisation-warns-the-internet-is-running-out-of-ip-addresses-with-less-than-10-of-current-generation-ipv4-addresses.html)  [JSON](/news/2010/01/19/the-number-resource-organisation-warns-the-internet-is-running-out-of-ip-addresses-with-less-than-10-of-current-generation-ipv4-addresses.json)  [XML](/news/2010/01/19/the-number-resource-organisation-warns-the-internet-is-running-out-of-ip-addresses-with-less-than-10-of-current-generation-ipv4-addresses.xml)  
+
 ### [2010-01-19](/news/2010/01/19/index.md)
 
+##### Number Resource Organisation
 # The Number Resource Organisation warns the Internet is running out of IP addresses, with less than 10% of current-generation IPv4 addresses still available. 
 
 The internet is running out of web addresses, with less than 10 per cent of current-generation IPv4 web addresses still available, warns the Number Resource Organisation
 
 
-### Source:
+### Sources:
 
 1. [Daily Telegraph](http://www.telegraph.co.uk/technology/news/7020917/Grave-consequences-if-web-community-doesnt-switch-to-new-address-protocol.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/01371/fibre-optics_1371289a.jpg)

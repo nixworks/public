@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/09/20/trafigura-oil-trading-firm-agrees-to-pay-more-than-46-million-compensation-to-more-than-30-000-people-in-cote-d-ivoire-who-say-they-were-m.html)  [JSON](/news/2009/09/20/trafigura-oil-trading-firm-agrees-to-pay-more-than-46-million-compensation-to-more-than-30-000-people-in-cote-d-ivoire-who-say-they-were-m.json)  [XML](/news/2009/09/20/trafigura-oil-trading-firm-agrees-to-pay-more-than-46-million-compensation-to-more-than-30-000-people-in-cote-d-ivoire-who-say-they-were-m.xml)  
+
 ### [2009-09-20](/news/2009/09/20/index.md)
 
+##### Trafigura
 #  Trafigura oil trading firm agrees to pay more than $46 million compensation to more than 30,000 people in Cte d'Ivoire who say they were made ill by dumped waste in 2006. 
 
 Ivory Coast residents to give up claims against Trafigura under $50m deal, firm says.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2009/09/2009920132129567154.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8265193.stm)
 3. [France 24](http://www.france24.com/en/20090920-ivory-coast-toxic-waste-dumping-trafigura-reaches-settlement-claims)
-4. [Reuters](http://www.reuters.com/article/latestCrisis/idUSLK593911)
+4. [Reuters](https://www.reuters.com/article/latestCrisis/idUSLK593911)
 5. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/trafigura-settles-over-ivory-coast-toxic-waste-claims-20090920-fwut.html)
 6. [The Times](http://www.timesonline.co.uk/tol/news/world/africa/article6839258.ece)
 6. [Cover Image](http://www.aljazeera.com)

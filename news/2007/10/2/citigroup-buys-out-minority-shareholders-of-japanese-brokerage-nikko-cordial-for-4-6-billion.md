@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/10/2/citigroup-buys-out-minority-shareholders-of-japanese-brokerage-nikko-cordial-for-4-6-billion.html)  [JSON](/news/2007/10/2/citigroup-buys-out-minority-shareholders-of-japanese-brokerage-nikko-cordial-for-4-6-billion.json)  [XML](/news/2007/10/2/citigroup-buys-out-minority-shareholders-of-japanese-brokerage-nikko-cordial-for-4-6-billion.xml)  
+
 ### [2007-10-2](/news/2007/10/2/index.md)
 
+##### Citigroup
 #  Citigroup buys out minority shareholders of Japanese brokerage Nikko Cordial for $4.6 billion. 
 
 Citigroup said it would buy out minority shareholders in scandal-hit Japanese brokerage Nikko Cordial for $4.6 billion, as part of the financial giant&#039;s push into the world&#039;s second-largest economy. 
 
 
-### Source:
+### Sources:
 
-1. [Reuters via CNBC](http://www.cnbc.com/id/21106980)
+1. [Reuters via CNBC](https://www.cnbc.com/id/21106980)
 
 ### Related:
 

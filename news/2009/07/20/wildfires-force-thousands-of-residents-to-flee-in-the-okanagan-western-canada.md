@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2009/07/20/wildfires-force-thousands-of-residents-to-flee-in-the-okanagan-western-canada.html)  [JSON](/news/2009/07/20/wildfires-force-thousands-of-residents-to-flee-in-the-okanagan-western-canada.json)  [XML](/news/2009/07/20/wildfires-force-thousands-of-residents-to-flee-in-the-okanagan-western-canada.xml)  
+
 ### [2009-07-20](/news/2009/07/20/index.md)
 
+##### Wildfire
 #  Wildfires force thousands of residents to flee in the Okanagan, western Canada. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iSWZjOk7wBIVSZtnMt87H1dzxTwQ)
-2. [Toronto Star](http://www.thestar.com/news/canada/article/668944)
+2. [Toronto Star](https://www.thestar.com/news/canada/article/668944)
 
 ### Related:
 
-1. [A mandatory evacuation order for more than 29,000 people remains in place for the Canadian town of Fort McMurray, Alberta, which is threatened by an out of control wildfire. ](/news/2016/05/3/a-mandatory-evacuation-order-for-more-than-29-000-people-remains-in-place-for-the-canadian-town-of-fort-mcmurray-alberta-which-is-threaten.md) _Context: Canada, Wildfire_
-2. [Tens of thousands of people are being evacuated from western Canada as firefighters continue to battle wildfires in Saskatchewan, Alberta and British Columbia. ](/news/2015/07/8/tens-of-thousands-of-people-are-being-evacuated-from-western-canada-as-firefighters-continue-to-battle-wildfires-in-saskatchewan-alberta-an.md) _Context: Canada, Wildfire_
-3. [More than 60 wildfires start in the Canadian province of British Columbia over the weekend leading to several communities declaring a state of emergency. ](/news/2015/07/5/more-than-60-wildfires-start-in-the-canadian-province-of-british-columbia-over-the-weekend-leading-to-several-communities-declaring-a-state.md) _Context: Canada, Wildfire_
-4. [Wildfires continue to rage throughout the western Canadian provinces of Saskatchewan, Alberta and British Columbia. ](/news/2015/07/10/wildfires-continue-to-rage-throughout-the-western-canadian-provinces-of-saskatchewan-alberta-and-british-columbia.md) _Context: Canada, Wildfire_
-5. [A wildfire destroys one third of the Canadian town of Slave Lake, Alberta. ](/news/2011/05/16/a-wildfire-destroys-one-third-of-the-canadian-town-of-slave-lake-alberta.md) _Context: Canada, Wildfire_
+1. [Wildfires continue to rage throughout the western Canadian provinces of Saskatchewan, Alberta and British Columbia. ](/news/2015/07/10/wildfires-continue-to-rage-throughout-the-western-canadian-provinces-of-saskatchewan-alberta-and-british-columbia.md) _Context: Canadian, Wildfire_
+2. [NASA confirms that Scott Tilley, a Canadian amateur astronomer and satellite tracker, has rediscovered NASA's IMAGE (Imager for Magnetopause-to-Aurora Global Exploration) satellite while he was searching for the U.S. government's classified Zuma satellite. NASA engineers will try to analyze the data from the spacecraft to learn more about the state of the spacecraft. ](/news/2018/02/1/nasa-confirms-that-scott-tilley-a-canadian-amateur-astronomer-and-satellite-tracker-has-rediscovered-nasa-s-image-imager-for-magnetopause.md) _Context: Canadian_
+3. [Joshua Boyle, a Canadian man recently rescued from a Taliban linked group, is arrested on 15 charges, including assault, sexual assault, and unlawful confinement. ](/news/2018/01/2/joshua-boyle-a-canadian-man-recently-rescued-from-a-taliban-linked-group-is-arrested-on-15-charges-including-assault-sexual-assault-and.md) _Context: Canadian_
+4. [The United States will end the temporary protected status program (TPS) for more than 300,000 refugees from El Salvador, Haiti, Honduras, and Nicaragua. Many of the refugees have already left for Canada, where it is easier to get asylum. ](/news/2017/11/4/the-united-states-will-end-the-temporary-protected-status-program-tps-for-more-than-300-000-refugees-from-el-salvador-haiti-honduras-an.md) _Context: Canadian_
+5. [Canada's left-leaning New Democratic Party elects Jagmeet Singh its leader. ](/news/2017/10/1/canada-s-left-leaning-new-democratic-party-elects-jagmeet-singh-its-leader.md) _Context: Canadian_

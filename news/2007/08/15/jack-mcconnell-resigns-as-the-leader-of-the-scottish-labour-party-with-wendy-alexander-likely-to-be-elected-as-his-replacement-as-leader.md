@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/15/jack-mcconnell-resigns-as-the-leader-of-the-scottish-labour-party-with-wendy-alexander-likely-to-be-elected-as-his-replacement-as-leader.html)  [JSON](/news/2007/08/15/jack-mcconnell-resigns-as-the-leader-of-the-scottish-labour-party-with-wendy-alexander-likely-to-be-elected-as-his-replacement-as-leader.json)  [XML](/news/2007/08/15/jack-mcconnell-resigns-as-the-leader-of-the-scottish-labour-party-with-wendy-alexander-likely-to-be-elected-as-his-replacement-as-leader.xml)  
+
 ### [2007-08-15](/news/2007/08/15/index.md)
 
+##### Jack McConnell
 #  Jack McConnell resigns as the leader of the Scottish Labour Party with Wendy Alexander likely to be elected as his replacement as leader. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Scotsman](http://news.scotsman.com/index.cfm?id=1294472007)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/1/a-cambodian-court-issues-an-arrest-warrant-for-opposition-leader-sam-rainsy-for-failing-to-turn-up-at-court-over-a-border-dispute-with-vie.html)  [JSON](/news/2010/01/1/a-cambodian-court-issues-an-arrest-warrant-for-opposition-leader-sam-rainsy-for-failing-to-turn-up-at-court-over-a-border-dispute-with-vie.json)  [XML](/news/2010/01/1/a-cambodian-court-issues-an-arrest-warrant-for-opposition-leader-sam-rainsy-for-failing-to-turn-up-at-court-over-a-border-dispute-with-vie.xml)  
+
 ### [2010-01-1](/news/2010/01/1/index.md)
 
+##### Cambodia
 #  A Cambodian court issues an arrest warrant for opposition leader Sam Rainsy, for failing to turn up at court over a border dispute with Vietnam. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8436851.stm)
 2. [Phnom Penh Post](http://www.phnompenhpost.com/index.php/2010010130589/National-news/opposition-leader-repudiates-political-charges-against-him.html)

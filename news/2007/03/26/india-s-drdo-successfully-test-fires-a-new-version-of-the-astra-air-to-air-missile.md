@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/26/india-s-drdo-successfully-test-fires-a-new-version-of-the-astra-air-to-air-missile.html)  [JSON](/news/2007/03/26/india-s-drdo-successfully-test-fires-a-new-version-of-the-astra-air-to-air-missile.json)  [XML](/news/2007/03/26/india-s-drdo-successfully-test-fires-a-new-version-of-the-astra-air-to-air-missile.xml)  
+
 ### [2007-03-26](/news/2007/03/26/index.md)
 
+##### India
 #  India's DRDO successfully test fires a new version of the Astra air-to-air missile. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITAR-TASS](http://www.itar-tass.com/eng/level2.html?NewsID=11371849&PageNum=0)
 2. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1173879169569&pagename=JPost%2FJPArticle%2FShowFull)
@@ -14,7 +18,7 @@
 ### Related:
 
 1. [ India's DRDO successfully tests its nuclear-capable Agni-III, a surface-to-surface ballistic missile with a range of more than 3000 km. ](/news/2007/04/12/india-s-drdo-successfully-tests-its-nuclear-capable-agni-iii-a-surface-to-surface-ballistic-missile-with-a-range-of-more-than-3000-km.md) _Context: DRDO, India_
-2. [Prominent Indian journalist and "Lankesh Patrike" editor Gauri Lankesh is shot dead by unidentified men outside her house in the city of Bengaluru. ](/news/2017/09/5/prominent-indian-journalist-and-lankesh-patrike-editor-gauri-lankesh-is-shot-dead-by-unidentified-men-outside-her-house-in-the-city-of-ben.md) _Context: India_
-3. [Indian Prime Minister Narendra Modi heads to Myanmar for a state visit. ](/news/2017/09/5/indian-prime-minister-narendra-modi-heads-to-myanmar-for-a-state-visit.md) _Context: India_
-4. [At least 22 people are killed and over 30 are seriously injured in a rush hour stampede on a footbridge between the Parel and Elphinstone Road railway stations in the Indian city of Mumbai. ](/news/2017/09/29/at-least-22-people-are-killed-and-over-30-are-seriously-injured-in-a-rush-hour-stampede-on-a-footbridge-between-the-parel-and-elphinstone-ro.md) _Context: India_
-5. [Japan agrees to help with the construction of an Indian bullet train. ](/news/2017/09/14/japan-agrees-to-help-with-the-construction-of-an-indian-bullet-train.md) _Context: India_
+2. [A bus plunges into the Bhairab River after falling off a bridge in Murshidabad district, West Bengal, India, killing at least 36 people. The late response by rescuers to save passengers leads to violence between local residents and police. ](/news/2018/01/29/a-bus-plunges-into-the-bhairab-river-after-falling-off-a-bridge-in-murshidabad-district-west-bengal-india-killing-at-least-36-people-the.md) _Context: India_
+3. [The Indian Space Research Organisation successfully launches India's 100th satellite and 30 other satellites from the Satish Dhawan Space Centre in Sriharikota, Andhra Pradesh. [http:--www.thehindubusinessline.com-news-science-isro-launches-its-100th-satellite-into-space-article10027585.ece "(The Hindu)"]A Delta IV launches NROL-47, a classified U.S. military payload, from Vandenberg Air Force Base, California. It is the last single-core Delta IV to launch from Vandenberg. [https:--spaceflightnow.com-2018-01-13-delta-4-rocket-successfully-lofts-clandestine-nro-satellite-into-orbit-"(Spaceflight Now)"]](/news/2018/01/12/the-indian-space-research-organisation-successfully-launches-indiaas-100th-satellite-and-30-other-satellites-from-the-satish-dhawan-space.md) _Context: India_
+4. [Fifteen countries ask the World Trade Organization a mandate to negotiate binding rules on e-commerce, days after India turned down negotiations. ](/news/2017/12/7/fifteen-countries-ask-the-world-trade-organization-a-mandate-to-negotiate-binding-rules-on-e-commerce-days-after-india-turned-down-negotiat.md) _Context: India_
+5. [At least 15 people are killed in a rooftop restaurant fire in Mumbai, India. ](/news/2017/12/29/at-least-15-people-are-killed-in-a-rooftop-restaurant-fire-in-mumbai-india.md) _Context: India_

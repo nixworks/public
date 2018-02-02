@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/7/a-report-from-the-un-s-high-commissioner-for-human-rights-describes-a-reign-of-terror-imposed-by-government-backed-militias-in-sudan-s-we.html)  [JSON](/news/2004/05/7/a-report-from-the-un-s-high-commissioner-for-human-rights-describes-a-reign-of-terror-imposed-by-government-backed-militias-in-sudan-s-we.json)  [XML](/news/2004/05/7/a-report-from-the-un-s-high-commissioner-for-human-rights-describes-a-reign-of-terror-imposed-by-government-backed-militias-in-sudan-s-we.xml)  
+
 ### [2004-05-7](/news/2004/05/7/index.md)
 
+##### United Nations
 #  A report from the UN's High Commissioner for Human Rights describes a "reign of terror" imposed by government-backed militias in Sudan's western province of Darfur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UN](http://www.un.org/apps/news/story.asp?NewsID=10664&Cr=sudan&Cr1=)
 1. [Cover Image](/News/dh/photos/large/05-07ramcharan-stout.jpg)

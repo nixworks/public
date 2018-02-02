@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/22/at-least-six-people-are-killed-in-shootings-at-
 
 ### [2016-05-22](/news/2016/05/22/index.md)
 
+##### Mexican state
 #  At least six people are killed in shootings at two nightclubs in the Mexican state of Veracruz. 
 
 Mexican authorities say a total of six men were killed in shootings at two nightclubs in the Gulf coast state of Veracruz.

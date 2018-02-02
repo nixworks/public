@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/23/at-least-seven-bodies-are-recovered-following-a-mine-collapse-in-suriname.html)  [JSON](/news/2010/11/23/at-least-seven-bodies-are-recovered-following-a-mine-collapse-in-suriname.json)  [XML](/news/2010/11/23/at-least-seven-bodies-are-recovered-following-a-mine-collapse-in-suriname.xml)  
+
 ### [2010-11-23](/news/2010/11/23/index.md)
 
+##### Suriname
 # At least seven bodies are recovered following a mine collapse in Suriname. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jamaica Observer](http://www.jamaicaobserver.com/news/At-least-7-dead-in-Suriname-mine-collapse_8178749)
 

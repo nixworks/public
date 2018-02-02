@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/27/8-bomb-blasts-rock-the-city-of-patna-in-the-indian-state-of-bihar-killing-5-and-injuring-over-70-people.html)  [JSON](/news/2013/10/27/8-bomb-blasts-rock-the-city-of-patna-in-the-indian-state-of-bihar-killing-5-and-injuring-over-70-people.json)  [XML](/news/2013/10/27/8-bomb-blasts-rock-the-city-of-patna-in-the-indian-state-of-bihar-killing-5-and-injuring-over-70-people.xml)  
+
 ### [2013-10-27](/news/2013/10/27/index.md)
 
+##### Patna
 # 8 bomb blasts rock the city of Patna in the Indian state of Bihar killing 5 and injuring over 70 people.
 
 Eight blasts ripped through Patna on the day Narendra Modi held his Hunkar Rally. Three suspects have been arrested.
 
 
-### Source:
+### Sources:
 
 1. [Firstpost](http://www.firstpost.com/india/patna-blasts-live-eighth-explosion-hits-gandhi-maidan-at-5-10-pm-1196755.html)
 1. [Cover Image](http://s2.firstpost.in/wp-content/uploads/2013/10/Patna_Blast.jpg)

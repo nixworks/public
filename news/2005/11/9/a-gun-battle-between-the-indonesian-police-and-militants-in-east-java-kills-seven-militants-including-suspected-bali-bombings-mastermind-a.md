@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/9/a-gun-battle-between-the-indonesian-police-and-militants-in-east-java-kills-seven-militants-including-suspected-bali-bombings-mastermind-a.html)  [JSON](/news/2005/11/9/a-gun-battle-between-the-indonesian-police-and-militants-in-east-java-kills-seven-militants-including-suspected-bali-bombings-mastermind-a.json)  [XML](/news/2005/11/9/a-gun-battle-between-the-indonesian-police-and-militants-in-east-java-kills-seven-militants-including-suspected-bali-bombings-mastermind-a.xml)  
+
 ### [2005-11-9](/news/2005/11/9/index.md)
 
+##### Indonesia
 #  A gun battle between the Indonesian police and militants in East Java kills seven militants, including suspected Bali bombings mastermind Azahari Husin who is believed to have blown himself up. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-11-09T130538Z_01_HO947092_RTRUKOC_0_UK-SECURITY-INDONESIA-BLASTS.xml)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-11-09T194658Z_01_WRI957901_RTRUKOC_0_UK-SECURITY-INDONESIA-AZAHARI.xml)

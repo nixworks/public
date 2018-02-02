@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/27/the-fifth-tibetan-in-a-week-sets-himself-on-fire-and-dies-in-tibet-in-a-protest-against-chinese-rule.html)  [JSON](/news/2012/10/27/the-fifth-tibetan-in-a-week-sets-himself-on-fire-and-dies-in-tibet-in-a-protest-against-chinese-rule.json)  [XML](/news/2012/10/27/the-fifth-tibetan-in-a-week-sets-himself-on-fire-and-dies-in-tibet-in-a-protest-against-chinese-rule.xml)  
+
 ### [2012-10-27](/news/2012/10/27/index.md)
 
+##### protest
 # The fifth Tibetan in a week sets himself on fire and dies in Tibet in a protest against Chinese rule. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Himalayan Times](http://www.thehimalayantimes.com/fullNews.php?headline=5th+Tibetan+in+week+sets+self+on+fire%26sbquo%3B+dies&NewsID=352068)
 

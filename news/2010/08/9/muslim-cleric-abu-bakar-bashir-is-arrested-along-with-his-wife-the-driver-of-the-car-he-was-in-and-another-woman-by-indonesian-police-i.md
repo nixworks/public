@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/9/muslim-cleric-abu-bakar-bashir-is-arrested-along-with-his-wife-the-driver-of-the-car-he-was-in-and-another-woman-by-indonesian-police-i.html)  [JSON](/news/2010/08/9/muslim-cleric-abu-bakar-bashir-is-arrested-along-with-his-wife-the-driver-of-the-car-he-was-in-and-another-woman-by-indonesian-police-i.json)  [XML](/news/2010/08/9/muslim-cleric-abu-bakar-bashir-is-arrested-along-with-his-wife-the-driver-of-the-car-he-was-in-and-another-woman-by-indonesian-police-i.xml)  
+
 ### [2010-08-9](/news/2010/08/9/index.md)
 
+##### Muslim
 # Muslim cleric Abu Bakar Bashir is arrested - along with his wife, the driver of the car he was in and another woman - by Indonesian police in Ciamis, West Java. 
 
 The controversial Muslim cleric, Abu Bakar Ba’asyir, is arrested in Indonesia on terror charges, accused of links to a militant training camp.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10910310)
 2. [Herald Sun](http://www.heraldsun.com.au/news/world/jemaah-islamiahs-co-founder-abu-bakar-bashir-held-on-terror-links/story-e6frf7lf-1225903026081)

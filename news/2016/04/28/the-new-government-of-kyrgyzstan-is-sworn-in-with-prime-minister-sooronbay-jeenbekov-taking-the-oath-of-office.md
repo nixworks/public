@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/28/the-new-government-of-kyrgyzstan-is-sworn-in-wi
 
 ### [2016-04-28](/news/2016/04/28/index.md)
 
+##### Kyrgyzstan
 # The new government of Kyrgyzstan is sworn in with Prime Minister Sooronbay Jeenbekov taking the oath of office. 
 
 

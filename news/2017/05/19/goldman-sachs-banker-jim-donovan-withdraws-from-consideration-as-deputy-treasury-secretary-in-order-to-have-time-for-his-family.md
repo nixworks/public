@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/19/goldman-sachs-banker-jim-donovan-withdraws-from
 
 ### [2017-05-19](/news/2017/05/19/index.md)
 
+##### Political appointments of Donald Trump
 # Goldman Sachs banker Jim Donovan withdraws from consideration as Deputy Treasury Secretary in order to have time for his family. 
 
 He was expected to play a critical role in helping shape the administration&rsquo;s tax reform policy through Capitol Hill.

@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-haram-controlled-parts-of-the-cou.html)  [JSON](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-haram-controlled-parts-of-the-cou.json)  [XML](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-haram-controlled-parts-of-the-cou.xml)  
+
 ### [2015-02-7](/news/2015/02/7/index.md)
 
+##### Islamist insurgency in Nigeria
 # Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Irish Times](http://www.irishtimes.com/news/world/africa/nigeria-to-postpone-elections-ahead-of-boko-haram-offensive-1.2095524)
 1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.2095523&origw=1440)
+
+### Changes:
+
+1. [Islamist insurgency in Nigeria: Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/islamist-insurgency-in-nigeria-nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-h.md) _2017-08-27 03:41:53 (First version)_
+1. [Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-haram-controlled-parts-of-the-cou.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@
 3. [Cameroon's army, backed by a regional taskforce, has killed at least 100 members of the militant Islamist Boko Haram group and freed 900 people it had held hostage, the west African country's defence ministry has said. Regional taskforce conducts sweep along border with Nigeria. ](/news/2015/12/2/cameroonas-army-backed-by-a-regional-taskforce-has-killed-at-least-100-members-of-the-militant-islamist-boko-haram-group-and-freed-900-p.md) _Context: Boko Haram, Islamist insurgency in Nigeria, Nigeria_
 4. [At least 30 people are killed after Boko Haram militants attack three villages in Nigeria's northeast Borno state. ](/news/2015/12/15/at-least-30-people-are-killed-after-boko-haram-militants-attack-three-villages-in-nigeria-s-northeast-borno-state.md) _Context: Boko Haram, Islamist insurgency in Nigeria, Nigeria_
 5. [Nigeria extends voting in its general election for a second day due to delays and malfunctioning equipment. So far, Boko Haram attacks have killed 43 people. ](/news/2015/03/29/nigeria-extends-voting-in-its-general-election-for-a-second-day-due-to-delays-and-malfunctioning-equipment-so-far-boko-haram-attacks-have.md) _Context: Boko Haram, Nigeria, Nigerian general election, 2015_
-
-### Changes:
-
-1. [Islamist insurgency in Nigeria: Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/islamist-insurgency-in-nigeria-nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-h.md) _2017-08-27 03:41:53 (First version)_
-1. [Nigeria postpones its general election for six weeks to allow its armed forces to take control of the Boko Haram-controlled parts of the country. ](/news/2015/02/7/nigeria-postpones-its-general-election-for-six-weeks-to-allow-its-armed-forces-to-take-control-of-the-boko-haram-controlled-parts-of-the-cou.md) _(Current version)_

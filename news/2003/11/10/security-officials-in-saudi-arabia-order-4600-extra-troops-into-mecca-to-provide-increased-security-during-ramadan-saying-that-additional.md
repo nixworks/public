@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/10/security-officials-in-saudi-arabia-order-4600-extra-troops-into-mecca-to-provide-increased-security-during-ramadan-saying-that-additional.html)  [JSON](/news/2003/11/10/security-officials-in-saudi-arabia-order-4600-extra-troops-into-mecca-to-provide-increased-security-during-ramadan-saying-that-additional.json)  [XML](/news/2003/11/10/security-officials-in-saudi-arabia-order-4600-extra-troops-into-mecca-to-provide-increased-security-during-ramadan-saying-that-additional.xml)  
+
 ### [2003-11-10](/news/2003/11/10/index.md)
 
+##### Saudi Arabia
 #  Security officials in Saudi Arabia order 4600 extra troops into Mecca to provide increased security during Ramadan, saying that additional attacks could occur at any moment.
 
 

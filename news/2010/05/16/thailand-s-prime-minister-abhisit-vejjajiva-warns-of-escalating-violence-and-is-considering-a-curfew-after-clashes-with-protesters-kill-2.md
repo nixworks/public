@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/16/thailand-s-prime-minister-abhisit-vejjajiva-warns-of-escalating-violence-and-is-considering-a-curfew-after-clashes-with-protesters-kill-2.html)  [JSON](/news/2010/05/16/thailand-s-prime-minister-abhisit-vejjajiva-warns-of-escalating-violence-and-is-considering-a-curfew-after-clashes-with-protesters-kill-2.json)  [XML](/news/2010/05/16/thailand-s-prime-minister-abhisit-vejjajiva-warns-of-escalating-violence-and-is-considering-a-curfew-after-clashes-with-protesters-kill-2.xml)  
+
 ### [2010-05-16](/news/2010/05/16/index.md)
 
+##### Thailand
 # Thailand's Prime Minister, Abhisit Vejjajiva, warns of escalating violence, and is considering a curfew after clashes with protesters kill 25 over the last 3 days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/sns-ap-as-thailand-politics,0,2855333.story)
 2. [The Australian](http://www.theaustralian.com.au/news/world/thailand-to-step-up-security-after-16-die-in-clashes/story-e6frg6so-1225867113534)

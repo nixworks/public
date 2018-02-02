@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/18/israel-agrees-to-a-truce-starting-thursday-with-the-hamas-led-government-in-the-gaza-strip.html)  [JSON](/news/2008/06/18/israel-agrees-to-a-truce-starting-thursday-with-the-hamas-led-government-in-the-gaza-strip.json)  [XML](/news/2008/06/18/israel-agrees-to-a-truce-starting-thursday-with-the-hamas-led-government-in-the-gaza-strip.xml)  
+
 ### [2008-06-18](/news/2008/06/18/index.md)
 
+##### Israel
 #  Israel agrees to a truce starting Thursday with the Hamas-led government in the Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7460504.stm)
 

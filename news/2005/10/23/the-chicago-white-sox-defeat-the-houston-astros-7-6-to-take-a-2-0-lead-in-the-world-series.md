@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/10/23/the-chicago-white-sox-defeat-the-houston-astros-7-6-to-take-a-2-0-lead-in-the-world-series.html)  [JSON](/news/2005/10/23/the-chicago-white-sox-defeat-the-houston-astros-7-6-to-take-a-2-0-lead-in-the-world-series.json)  [XML](/news/2005/10/23/the-chicago-white-sox-defeat-the-houston-astros-7-6-to-take-a-2-0-lead-in-the-world-series.xml)  
+
 ### [2005-10-23](/news/2005/10/23/index.md)
 
+##### Chicago White Sox
 #  The Chicago White Sox defeat the Houston Astros 7-6 to take a 2-0 lead in the World Series.
 
 

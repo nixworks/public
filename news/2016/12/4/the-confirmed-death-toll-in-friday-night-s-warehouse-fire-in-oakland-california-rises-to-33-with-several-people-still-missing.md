@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/4/the-confirmed-death-toll-in-friday-night-s-wareh
 
 ### [2016-12-4](/news/2016/12/4/index.md)
 
+##### 2016 Oakland warehouse fire
 # The confirmed death toll in Friday night's warehouse fire in Oakland, California rises to 33 with several people still missing. 
 
 &#x27;That is an astronomical number,&#x27; said Alameda County Sheriff&#x27;s Sgt. Ray Kelly. &#x27;We&#x27;re really starting to get deeper into the building and as we do that we continue to find more victims.&#x27;

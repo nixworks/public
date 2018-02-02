@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/23/england-reclaim-the-ashes-with-a-2-1-series-win-over-australia.html)  [JSON](/news/2009/08/23/england-reclaim-the-ashes-with-a-2-1-series-win-over-australia.json)  [XML](/news/2009/08/23/england-reclaim-the-ashes-with-a-2-1-series-win-over-australia.xml)  
+
 ### [2009-08-23](/news/2009/08/23/index.md)
 
+##### England
 #  England reclaim The Ashes with a 2-1 series win over Australia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/cricket/england/8217035.stm)
 

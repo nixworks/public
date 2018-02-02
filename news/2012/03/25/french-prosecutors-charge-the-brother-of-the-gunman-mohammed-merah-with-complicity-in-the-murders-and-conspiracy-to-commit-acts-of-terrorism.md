@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/25/french-prosecutors-charge-the-brother-of-the-gunman-mohammed-merah-with-complicity-in-the-murders-and-conspiracy-to-commit-acts-of-terrorism.html)  [JSON](/news/2012/03/25/french-prosecutors-charge-the-brother-of-the-gunman-mohammed-merah-with-complicity-in-the-murders-and-conspiracy-to-commit-acts-of-terrorism.json)  [XML](/news/2012/03/25/french-prosecutors-charge-the-brother-of-the-gunman-mohammed-merah-with-complicity-in-the-murders-and-conspiracy-to-commit-acts-of-terrorism.xml)  
+
 ### [2012-03-25](/news/2012/03/25/index.md)
 
+##### 2012 Midi-Pyrenees shootings
 # French prosecutors charge the brother of the gunman Mohammed Merah with complicity in the murders and conspiracy to commit acts of terrorism with regards to the killings of three French paratroopers, a rabbi and three children in Toulouse. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/03/25/world/europe/france-shooting/index.html?hpt=hp_t1)
 

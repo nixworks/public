@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/30/a-bomb-exploding-in-the-parking-lot-of-terminal-4-of-barajas-airport-madrid-spain-killes-two-people-damages-cars-and-buildings.html)  [JSON](/news/2006/12/30/a-bomb-exploding-in-the-parking-lot-of-terminal-4-of-barajas-airport-madrid-spain-killes-two-people-damages-cars-and-buildings.json)  [XML](/news/2006/12/30/a-bomb-exploding-in-the-parking-lot-of-terminal-4-of-barajas-airport-madrid-spain-killes-two-people-damages-cars-and-buildings.xml)  
+
 ### [2006-12-30](/news/2006/12/30/index.md)
 
+##### bomb exploding
 #  A bomb exploding in the parking lot of Terminal 4 of Barajas Airport, Madrid, Spain, killes two people, damages cars and buildings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/europe/12/30/madrid.blast/index.html)
 

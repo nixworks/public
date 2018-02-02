@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/24/a-dozen-camels-are-disqualified-from-a-beauty-p
 
 ### [2018-01-24](/news/2018/01/24/index.md)
 
+##### Culture of Saudi Arabia
 # A dozen camels are disqualified from a beauty pageant at the King Abdulaziz Camel Festival, near Riyadh, after reports in the media about injections with botox. A veterinarian is caught performing plastic surgery to make the camels more attractive. Rules prohibit to change the natural form of participating camels. 
 
 

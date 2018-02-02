@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/10/former-president-of-bangladesh-iajuddin-ahmed-dies-at-the-age-of-81.html)  [JSON](/news/2012/12/10/former-president-of-bangladesh-iajuddin-ahmed-dies-at-the-age-of-81.json)  [XML](/news/2012/12/10/former-president-of-bangladesh-iajuddin-ahmed-dies-at-the-age-of-81.xml)  
+
 ### [2012-12-10](/news/2012/12/10/index.md)
 
+##### President
 # Former President of Bangladesh Iajuddin Ahmed dies at the age of 81. 
 
 Former Bangladesh President Iajuddin Ahmed whose eventful tenure exposed the country to a major political turmoil that ended with the installation of an army backed interim government in 2007 has died in Bangkok.
 
 
-### Source:
+### Sources:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/world/south-asia/Bangladeshs-controversial-ex-President-Iajuddin-Ahmed-passes-away/articleshow/17558510.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/47529300.cms)

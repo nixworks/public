@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/23/the-u-s-state-of-utah-reinstates-the-use-of-execution-by-firing-squad-for-situations-where-lethal-injection-is-not-possible.html)  [JSON](/news/2015/03/23/the-u-s-state-of-utah-reinstates-the-use-of-execution-by-firing-squad-for-situations-where-lethal-injection-is-not-possible.json)  [XML](/news/2015/03/23/the-u-s-state-of-utah-reinstates-the-use-of-execution-by-firing-squad-for-situations-where-lethal-injection-is-not-possible.xml)  
+
 ### [2015-03-23](/news/2015/03/23/index.md)
 
+##### Utah
 # The U.S. state of Utah reinstates the use of execution by firing squad for situations where lethal injection is not possible. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/03/23/us/utah-death-penalty-firing-squad/)
 

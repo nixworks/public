@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/02/9/iran-agrees-to-a-united-nations-plan-to-address-suspicions-that-they-are-working-on-designing-an-atomic-weapon.html)  [JSON](/news/2014/02/9/iran-agrees-to-a-united-nations-plan-to-address-suspicions-that-they-are-working-on-designing-an-atomic-weapon.json)  [XML](/news/2014/02/9/iran-agrees-to-a-united-nations-plan-to-address-suspicions-that-they-are-working-on-designing-an-atomic-weapon.xml)  
+
 ### [2014-02-9](/news/2014/02/9/index.md)
 
+##### Iran
 # Iran agrees to a United Nations plan to address suspicions that they are working on designing an atomic weapon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2014/02/09/iran-nuclear-iaea-idINDEEA1804P20140209)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

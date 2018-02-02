@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/21/at-least-32-people-are-killed-and-another-80-in
 
 ### [2016-11-21](/news/2016/11/21/index.md)
 
+##### War in Afghanistan
 # At least 32 people are killed and another 80 injured in a suicide bombing at a Kabul Shia mosque. ISIL claims responsibility. 
 
 

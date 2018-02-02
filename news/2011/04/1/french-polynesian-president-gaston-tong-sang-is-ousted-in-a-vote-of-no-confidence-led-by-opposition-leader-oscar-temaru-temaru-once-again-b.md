@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/1/french-polynesian-president-gaston-tong-sang-is-ousted-in-a-vote-of-no-confidence-led-by-opposition-leader-oscar-temaru-temaru-once-again-b.html)  [JSON](/news/2011/04/1/french-polynesian-president-gaston-tong-sang-is-ousted-in-a-vote-of-no-confidence-led-by-opposition-leader-oscar-temaru-temaru-once-again-b.json)  [XML](/news/2011/04/1/french-polynesian-president-gaston-tong-sang-is-ousted-in-a-vote-of-no-confidence-led-by-opposition-leader-oscar-temaru-temaru-once-again-b.xml)  
+
 ### [2011-04-1](/news/2011/04/1/index.md)
 
+##### French Polynesian President
 # French Polynesian President Gaston Tong Sang is ousted in a vote of no confidence led by opposition leader Oscar Temaru. Temaru once again becomes President of French Polynesia for the fifth time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=59758)
 

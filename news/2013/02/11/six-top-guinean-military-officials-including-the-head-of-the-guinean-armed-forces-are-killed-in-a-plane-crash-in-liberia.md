@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/02/11/six-top-guinean-military-officials-including-the-head-of-the-guinean-armed-forces-are-killed-in-a-plane-crash-in-liberia.html)  [JSON](/news/2013/02/11/six-top-guinean-military-officials-including-the-head-of-the-guinean-armed-forces-are-killed-in-a-plane-crash-in-liberia.json)  [XML](/news/2013/02/11/six-top-guinean-military-officials-including-the-head-of-the-guinean-armed-forces-are-killed-in-a-plane-crash-in-liberia.xml)  
+
 ### [2013-02-11](/news/2013/02/11/index.md)
 
+##### Guinean military
 # Six top Guinean military officials, including the head of the Guinean armed forces, are killed in a plane crash in Liberia. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/02/11/us-liberia-guinea-crash-idUSBRE91A13D20130211)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130211&t=2&i=703027793&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91A1PF900)
+1. [Reuters](https://www.reuters.com/article/2013/02/11/us-liberia-guinea-crash-idUSBRE91A13D20130211)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130211&t=2&i=703027793&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE91A1PF900)
 
 ### Related:
 

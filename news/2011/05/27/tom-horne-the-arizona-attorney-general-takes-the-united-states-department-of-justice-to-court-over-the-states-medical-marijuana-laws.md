@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/05/27/tom-horne-the-arizona-attorney-general-takes-the-united-states-department-of-justice-to-court-over-the-states-medical-marijuana-laws.html)  [JSON](/news/2011/05/27/tom-horne-the-arizona-attorney-general-takes-the-united-states-department-of-justice-to-court-over-the-states-medical-marijuana-laws.json)  [XML](/news/2011/05/27/tom-horne-the-arizona-attorney-general-takes-the-united-states-department-of-justice-to-court-over-the-states-medical-marijuana-laws.xml)  
+
 ### [2011-05-27](/news/2011/05/27/index.md)
 
+##### Tom Horne
 # Tom Horne, the Arizona Attorney General takes the United States Department of Justice to court over the states medical marijuana laws. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/43200277)
 
 ### Related:
 
-1. [A United States Court of Appeals rules that the Department of Justice, per the Rohrabacher-Farr amendment, cannot spend money to prosecute federal marijuana cases if the defendants comply with state medical marijuana laws. ](/news/2016/08/16/a-united-states-court-of-appeals-rules-that-the-department-of-justice-per-the-rohrabacher-farr-amendment-cannot-spend-money-to-prosecute-f.md) _Context: Department of Justice, Medical marijuana_
-2. [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md) _Context: Department of Justice_
-3. [The U.S. Justice Department announces Roman Seleznev, the son of Russian parliament member Valery Seleznev, pleaded guilty in a $50 million identity theft probe. This past April, Roman Seleznev was sentenced to 27 years in prison on 38 counts of hacking crimes. ](/news/2017/09/8/the-u-s-justice-department-announces-roman-seleznev-the-son-of-russian-parliament-member-valery-seleznev-pleaded-guilty-in-a-50-million.md) _Context: Department of Justice_
-4. [The United States Department of Justice has requested Moscow-based Russian media channel RT America to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-moscow-based-russian-media-channel-rt-america-to-register-as-a-foreign-lobbying-firm-i.md) _Context: Department of Justice_
-5. [The U.S. Justice Department announces internally that it is to start investigating colleges which have admissions policies that are seen as unfair to Asian Americans. ](/news/2017/08/2/the-u-s-justice-department-announces-internally-that-it-is-to-start-investigating-colleges-which-have-admissions-policies-that-are-seen-as.md) _Context: Department of Justice_
+1. [The United States Department of Justice antitrust chief has told AT&T that it must sell off either DirecTV or Turner Broadcasting System (the parent of CNN) in order to complete its acquisition of Time Warner. ([http:--money.cnn.com-2017-11-08-media-att-time-warner-index.html CNN])](/news/2017/11/8/the-united-states-department-of-justice-antitrust-chief-has-told-at-t-that-it-must-sell-off-either-directv-or-turner-broadcasting-system-th.md) _Context: U.S. Justice Department_
+2. [The United States and Russia begin fighting over the extradition of Yevgeniy Nikulin, who was detained in October 2016 in the Czech Republic, after the U.S. Justice Department issued an international arrest warrant for him. However, soon after the U.S. issued its arrest warrant, Russian authorities also sought his extradition. The Russian charge accuses Nikulin of stealing from an online money transfer company back in 2009. ](/news/2017/11/25/the-united-states-and-russia-begin-fighting-over-the-extradition-of-yevgeniy-nikulin-who-was-detained-in-october-2016-in-the-czech-republic.md) _Context: U.S. Justice Department_
+3. [RT America registers with the U.S. Department of Justice as a foreign agent in the United States. ](/news/2017/11/13/rt-america-registers-with-the-u-s-department-of-justice-as-a-foreign-agent-in-the-united-states.md) _Context: U.S. Justice Department_
+4. [The Trump administration, through the Department of Justice, reverses an Obama-era policy which used Title VII of the Civil Rights Act to protect transgender employees from discrimination. ](/news/2017/10/5/the-trump-administration-through-the-department-of-justice-reverses-an-obama-era-policy-which-used-title-vii-of-the-civil-rights-act-to-pr.md) _Context: U.S. Justice Department_
+5. [The Trump administration's Department of Justice settles two lawsuits which alleged that the Obama administration's Internal Revenue Service targeted conservative groups. ](/news/2017/10/26/the-trump-administration-s-department-of-justice-settles-two-lawsuits-which-alleged-that-the-obama-administration-s-internal-revenue-service.md) _Context: U.S. Justice Department_

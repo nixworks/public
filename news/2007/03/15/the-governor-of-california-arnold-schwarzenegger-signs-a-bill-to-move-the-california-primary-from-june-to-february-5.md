@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/15/the-governor-of-california-arnold-schwarzenegger-signs-a-bill-to-move-the-california-primary-from-june-to-february-5.html)  [JSON](/news/2007/03/15/the-governor-of-california-arnold-schwarzenegger-signs-a-bill-to-move-the-california-primary-from-june-to-february-5.json)  [XML](/news/2007/03/15/the-governor-of-california-arnold-schwarzenegger-signs-a-bill-to-move-the-california-primary-from-june-to-february-5.xml)  
+
 ### [2007-03-15](/news/2007/03/15/index.md)
 
+##### Governor of California
 #  The Governor of California Arnold Schwarzenegger signs a bill to move the California primary from June to February 5. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CBS News](http://www.cbsnews.com/stories/2007/03/15/ap/politics/main2573417.shtml)
 

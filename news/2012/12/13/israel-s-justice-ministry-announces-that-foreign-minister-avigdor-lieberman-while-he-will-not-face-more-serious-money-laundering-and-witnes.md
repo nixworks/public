@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/13/israel-s-justice-ministry-announces-that-foreign-minister-avigdor-lieberman-while-he-will-not-face-more-serious-money-laundering-and-witnes.html)  [JSON](/news/2012/12/13/israel-s-justice-ministry-announces-that-foreign-minister-avigdor-lieberman-while-he-will-not-face-more-serious-money-laundering-and-witnes.json)  [XML](/news/2012/12/13/israel-s-justice-ministry-announces-that-foreign-minister-avigdor-lieberman-while-he-will-not-face-more-serious-money-laundering-and-witnes.xml)  
+
 ### [2012-12-13](/news/2012/12/13/index.md)
 
+##### Israel
 # Israel's Justice Ministry announces that Foreign Minister Avigdor Lieberman, while he will not face more serious money laundering and witness tampering corruption charges, will be charged with breach of trust and fraud in connection with illegally obtaining funds from shell companies which occurred prior to his Ministry service. 
 
 Avigdor Lieberman charged with fraud and breach of trust but cleared of more serious offences, including bribery.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2012/12/20121213154413476929.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/12/26/2011122642620527734_20.jpg)

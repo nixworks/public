@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/16/the-pakistan-olympic-association-postpones-its-national-games-in-peshawar-due-to-security-concerns.html)  [JSON](/news/2010/03/16/the-pakistan-olympic-association-postpones-its-national-games-in-peshawar-due-to-security-concerns.json)  [XML](/news/2010/03/16/the-pakistan-olympic-association-postpones-its-national-games-in-peshawar-due-to-security-concerns.xml)  
+
 ### [2010-03-16](/news/2010/03/16/index.md)
 
+##### Pakistan Olympic Association
 # The Pakistan Olympic Association postpones its national games in Peshawar due to security concerns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8571208.stm)
 2. [Reuters](http://uk.reuters.com/article/idUKTRE62F1YP20100316?feedType=RSS&feedName=sportsNews)

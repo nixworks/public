@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/19/at-least-two-people-are-killed-in-the-ivory-coast-after-ivorian-forces-open-fire-on-protesters-urging-the-resignation-of-president-laurent-g.html)  [JSON](/news/2011/02/19/at-least-two-people-are-killed-in-the-ivory-coast-after-ivorian-forces-open-fire-on-protesters-urging-the-resignation-of-president-laurent-g.json)  [XML](/news/2011/02/19/at-least-two-people-are-killed-in-the-ivory-coast-after-ivorian-forces-open-fire-on-protesters-urging-the-resignation-of-president-laurent-g.xml)  
+
 ### [2011-02-19](/news/2011/02/19/index.md)
 
+##### Ivory Coast
 # At least two people are killed in the Ivory Coast after Ivorian forces open fire on protesters urging the resignation of President Laurent Gbagbo. 
 
 At least two people die after Ivorian troops use gunfire and tear gas on protesters calling for President Gbagbo to step down, witnesses say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-12516216)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

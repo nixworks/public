@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/15/a-man-goes-on-a-shooting-spree-in-omaha-nebraska-u-s-killing-two-people-and-wounding-two-others-before-being-fatally-shot-by-police.html)  [JSON](/news/2013/06/15/a-man-goes-on-a-shooting-spree-in-omaha-nebraska-u-s-killing-two-people-and-wounding-two-others-before-being-fatally-shot-by-police.json)  [XML](/news/2013/06/15/a-man-goes-on-a-shooting-spree-in-omaha-nebraska-u-s-killing-two-people-and-wounding-two-others-before-being-fatally-shot-by-police.xml)  
+
 ### [2013-06-15](/news/2013/06/15/index.md)
 
+##### Omaha
 # A man goes on a shooting spree in Omaha, Nebraska, U.S., killing two people and wounding two others, before being fatally shot by police. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/06/15/us/nebraska-violence/index.html)
 

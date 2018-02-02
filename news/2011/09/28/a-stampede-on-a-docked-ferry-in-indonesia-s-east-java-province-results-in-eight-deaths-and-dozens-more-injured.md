@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/28/a-stampede-on-a-docked-ferry-in-indonesia-s-east-java-province-results-in-eight-deaths-and-dozens-more-injured.html)  [JSON](/news/2011/09/28/a-stampede-on-a-docked-ferry-in-indonesia-s-east-java-province-results-in-eight-deaths-and-dozens-more-injured.json)  [XML](/news/2011/09/28/a-stampede-on-a-docked-ferry-in-indonesia-s-east-java-province-results-in-eight-deaths-and-dozens-more-injured.xml)  
+
 ### [2011-09-28](/news/2011/09/28/index.md)
 
+##### stampede
 # A stampede on a docked ferry in Indonesia's East Java province results in eight deaths and dozens more injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TV New Zealand](http://tvnz.co.nz/world-news/indonesian-ferry-stampede-kills-least-eight-4425142)
 

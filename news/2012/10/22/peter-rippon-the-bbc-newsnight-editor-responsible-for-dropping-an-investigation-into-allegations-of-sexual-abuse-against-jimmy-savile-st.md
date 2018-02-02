@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2012/10/22/peter-rippon-the-bbc-newsnight-editor-responsible-for-dropping-an-investigation-into-allegations-of-sexual-abuse-against-jimmy-savile-st.html)  [JSON](/news/2012/10/22/peter-rippon-the-bbc-newsnight-editor-responsible-for-dropping-an-investigation-into-allegations-of-sexual-abuse-against-jimmy-savile-st.json)  [XML](/news/2012/10/22/peter-rippon-the-bbc-newsnight-editor-responsible-for-dropping-an-investigation-into-allegations-of-sexual-abuse-against-jimmy-savile-st.xml)  
+
 ### [2012-10-22](/news/2012/10/22/index.md)
 
+##### Peter Rippon
 # Peter Rippon, the BBC "Newsnight" editor responsible for dropping an investigation into allegations of sexual abuse against Jimmy Savile, steps aside from his role with immediate effect. 
 
 The BBC Director-General, George Entwistle, will be fighting for his career today as MPs demand to know how much he knew about the suppression of a Newsnight investigation into sexual abuse by Jimmy Savile and why he sanctioned tribute programmes to the late BBC presenter.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-20024904)
-2. [The Independent](http://www.independent.co.uk/news/uk/home-news/newsnight-editor-peter-rippon-steps-aside-over-jimmy-savile-claims-8220491.html)
+2. [The Independent](https://www.independent.co.uk/news/uk/home-news/newsnight-editor-peter-rippon-steps-aside-over-jimmy-savile-claims-8220491.html)
 2. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2012/10/22/18/new-splash.jpg)
+
+### Changes:
+
+1. [Peter Rippon, the BBC ''Newsnight'' editor responsible for dropping an investigation into allegations of sexual abuse against Jimmy Savile, steps aside from his role with immediate effect. ](/news/2012/10/22/peter-rippon-the-bbc-newsnight-editor-responsible-for-dropping-an-investigation-into-allegations-of-sexual-abuse-against-jimmy-savile.md) _2017-08-25 03:36:43 (First version)_
+1. [Peter Rippon, the BBC "Newsnight" editor responsible for dropping an investigation into allegations of sexual abuse against Jimmy Savile, steps aside from his role with immediate effect. ](/news/2012/10/22/peter-rippon-the-bbc-newsnight-editor-responsible-for-dropping-an-investigation-into-allegations-of-sexual-abuse-against-jimmy-savile-st.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ The BBC Director-General, George Entwistle, will be fighting for his career toda
 3. [The Metropolitan Police and NSPCC have confirmed 214 separate sexual offences committed by Jimmy Savile over a period of fifty years. ](/news/2013/01/11/the-metropolitan-police-and-nspcc-have-confirmed-214-separate-sexual-offences-committed-by-jimmy-savile-over-a-period-of-fifty-years.md) _Context: Jimmy Savile, Jimmy Savile sexual abuse scandal_
 4. [The family of disgraced disc jockey and television presenter Jimmy Savile makes its first public statement since his reputation was destroyed by a sexual abuse scandal. ](/news/2012/10/27/the-family-of-disgraced-disc-jockey-and-television-presenter-jimmy-savile-makes-its-first-public-statement-since-his-reputation-was-destroye.md) _Context: Jimmy Savile, Jimmy Savile sexual abuse scandal_
 5. [The UK's Director of Public Prosecutions is to review a 2009 decision by the Crown Prosecution Service not to prosecute Jimmy Savile over allegations of sexual abuse. ](/news/2012/10/24/the-uk-s-director-of-public-prosecutions-is-to-review-a-2009-decision-by-the-crown-prosecution-service-not-to-prosecute-jimmy-savile-over-al.md) _Context: Jimmy Savile, Jimmy Savile sexual abuse scandal_
-
-### Changes:
-
-1. [Peter Rippon, the BBC ''Newsnight'' editor responsible for dropping an investigation into allegations of sexual abuse against Jimmy Savile, steps aside from his role with immediate effect. ](/news/2012/10/22/peter-rippon-the-bbc-newsnight-editor-responsible-for-dropping-an-investigation-into-allegations-of-sexual-abuse-against-jimmy-savile.md) _2017-08-25 03:36:43 (First version)_
-1. [Peter Rippon, the BBC "Newsnight" editor responsible for dropping an investigation into allegations of sexual abuse against Jimmy Savile, steps aside from his role with immediate effect. ](/news/2012/10/22/peter-rippon-the-bbc-newsnight-editor-responsible-for-dropping-an-investigation-into-allegations-of-sexual-abuse-against-jimmy-savile-st.md) _(Current version)_

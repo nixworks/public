@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/5/the-trial-of-former-prime-minister-of-iceland-geir-haarde-on-charges-of-negligence-in-relation-to-the-financial-crisis-begins-in-reykjavak.html)  [JSON](/news/2012/03/5/the-trial-of-former-prime-minister-of-iceland-geir-haarde-on-charges-of-negligence-in-relation-to-the-financial-crisis-begins-in-reykjavak.json)  [XML](/news/2012/03/5/the-trial-of-former-prime-minister-of-iceland-geir-haarde-on-charges-of-negligence-in-relation-to-the-financial-crisis-begins-in-reykjavak.xml)  
+
 ### [2012-03-5](/news/2012/03/5/index.md)
 
+##### Prime Minister
 # The trial of former Prime Minister of Iceland Geir Haarde on charges of negligence in relation to the financial crisis begins in Reykjavik. 
 
 The trial of former Icelandic Prime Minister Geir Haarde, on charges of negligence over the 2008 financial crisis, begins in Reykjavik.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17254544)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/58872000/jpg/_58872402_010160325-1.jpg)

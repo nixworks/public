@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/18/at-least-two-people-are-dead-and-one-is-in-critical-condition-after-a-komo-tv-news-helicopter-crashes-near-the-seattle-space-needle-in-seatt.html)  [JSON](/news/2014/03/18/at-least-two-people-are-dead-and-one-is-in-critical-condition-after-a-komo-tv-news-helicopter-crashes-near-the-seattle-space-needle-in-seatt.json)  [XML](/news/2014/03/18/at-least-two-people-are-dead-and-one-is-in-critical-condition-after-a-komo-tv-news-helicopter-crashes-near-the-seattle-space-needle-in-seatt.xml)  
+
 ### [2014-03-18](/news/2014/03/18/index.md)
 
+##### KOMO-TV
 # At least two people are dead and one is in critical condition after a KOMO-TV news helicopter crashes near the Seattle Space Needle in Seattle, Washington. 
 
 The Seattle Fire Department said in addition to the fatalities, a 37-year-old man who managed to free himself from a car at the accident scene was taken to Harborview Medical Center in critical condition. 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Washington Times](http://www.washingtontimes.com/news/2014/mar/18/news-helicopter-crashes-near-seattle-space-needle/)
 1. [Cover Image](http://media.washtimes.com.s3.amazonaws.com/media/image/2014/03/18/news-chopper-crash_lanc1.jpg)

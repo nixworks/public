@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/6/thousands-of-people-protest-in-washington-dc-against-the-proposed-keystone-xl-project.html)  [JSON](/news/2011/11/6/thousands-of-people-protest-in-washington-dc-against-the-proposed-keystone-xl-project.json)  [XML](/news/2011/11/6/thousands-of-people-protest-in-washington-dc-against-the-proposed-keystone-xl-project.xml)  
+
 ### [2011-11-6](/news/2011/11/6/index.md)
 
+##### Washington DC
 # Thousands of people protest in Washington DC against the proposed Keystone XL project. 
 
 Demonstrators circle White House demanding Obama reject Keystone XL pipeline over concerns of drinking water contamination
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/8301-201_162-57319383/thousands-in-d.c-protest-pipeline/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/11/06/b65362af-a643-11e2-a3f0-029118418759/Pipeline_AP111106040269.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/29/former-south-african-president-f-w-de-klerk-cuts-short-his-european-trip-because-of-former-president-nelson-mandela-s-ill-health.html)  [JSON](/news/2013/06/29/former-south-african-president-f-w-de-klerk-cuts-short-his-european-trip-because-of-former-president-nelson-mandela-s-ill-health.json)  [XML](/news/2013/06/29/former-south-african-president-f-w-de-klerk-cuts-short-his-european-trip-because-of-former-president-nelson-mandela-s-ill-health.xml)  
+
 ### [2013-06-29](/news/2013/06/29/index.md)
 
+##### F. W. de Klerk
 # Former South African president F. W. de Klerk cuts short his European trip because of former president Nelson Mandela's ill-health. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [SAPA via News24](http://www.news24.com/news24/SouthAfrica/News/De-Klerk-returns-home-for-Mandela-20130629)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2075/b8bd58044814446b86520d667b7df7a8.jpg)

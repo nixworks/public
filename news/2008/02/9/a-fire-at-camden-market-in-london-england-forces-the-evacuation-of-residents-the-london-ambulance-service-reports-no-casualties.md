@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/9/a-fire-at-camden-market-in-london-england-forces-the-evacuation-of-residents-the-london-ambulance-service-reports-no-casualties.html)  [JSON](/news/2008/02/9/a-fire-at-camden-market-in-london-england-forces-the-evacuation-of-residents-the-london-ambulance-service-reports-no-casualties.json)  [XML](/news/2008/02/9/a-fire-at-camden-market-in-london-england-forces-the-evacuation-of-residents-the-london-ambulance-service-reports-no-casualties.xml)  
+
 ### [2008-02-9](/news/2008/02/9/index.md)
 
+##### Camden Market
 #  A fire at Camden Market in London, England forces the evacuation of residents. The London Ambulance Service reports no casualties. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/uk_news/7237119.stm)
 

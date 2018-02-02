@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/10/27/the-death-toll-from-the-2011-van-earthquake-in-turkey-reaches-523-with-rain-and-snow-making-conditions-worse-for-people-left-homeless-by-th.html)  [JSON](/news/2011/10/27/the-death-toll-from-the-2011-van-earthquake-in-turkey-reaches-523-with-rain-and-snow-making-conditions-worse-for-people-left-homeless-by-th.json)  [XML](/news/2011/10/27/the-death-toll-from-the-2011-van-earthquake-in-turkey-reaches-523-with-rain-and-snow-making-conditions-worse-for-people-left-homeless-by-th.xml)  
+
 ### [2011-10-27](/news/2011/10/27/index.md)
 
+##### 7.1 magnitude earthquake
 # The death toll from the 2011 Van earthquake in Turkey reaches 523, with rain and snow making conditions worse for people left homeless by the earthquake. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Seattle Post-Intelligencer](http://www.seattlepi.com/news/article/Turkey-quake-death-toll-rises-to-523-2238518.php)
 
 ### Related:
 
-1. [A magnitude 5.7 earthquake hits Van, Turkey, leading to the collapse of numerous buildings. The tremor comes in the wake of last month's destructive 7.1 magnitude earthquake. ](/news/2011/11/9/a-magnitude-5-7-earthquake-hits-van-turkey-leading-to-the-collapse-of-numerous-buildings-the-tremor-comes-in-the-wake-of-last-month-s-des.md) _Context: 7.1 magnitude earthquake, Turkey_
-2. [The death toll of eastern Turkey's recent earthquake reaches 366, as emergency services continue to search the rubble of Van for survivors. ](/news/2011/10/25/the-death-toll-of-eastern-turkey-s-recent-earthquake-reaches-366-as-emergency-services-continue-to-search-the-rubble-of-van-for-survivors.md) _Context: 7.1 magnitude earthquake, Turkey_
-3. [The death toll from Turkey's recent earthquake reaches 279, and is expected to increase further as rescue teams search the rubble of the city of Van for survivors. Meanwhile, thousands made homeless by the quake are forced to endure freezing overnight temperatures in the open. ](/news/2011/10/24/the-death-toll-from-turkey-s-recent-earthquake-reaches-279-and-is-expected-to-increase-further-as-rescue-teams-search-the-rubble-of-the-cit.md) _Context: 7.1 magnitude earthquake, Turkey_
-4. [A 7.2-magnitude earthquake rocks the city of Van in eastern Turkey, killing at least 582 people. ](/news/2011/10/23/a-7-2-magnitude-earthquake-rocks-the-city-of-van-in-eastern-turkey-killing-at-least-582-people.md) _Context: 7.1 magnitude earthquake, Turkey_
-5. [The U.S. Mission in Turkey suspends all non-immigration visa services in the country citing security concerns. ](/news/2017/10/8/the-u-s-mission-in-turkey-suspends-all-non-immigration-visa-services-in-the-country-citing-security-concerns.md) _Context: Turkey_
+1. [A magnitude 5.7 earthquake hits Van, Turkey, leading to the collapse of numerous buildings. The tremor comes in the wake of last month's destructive 7.1 magnitude earthquake. ](/news/2011/11/9/a-magnitude-5-7-earthquake-hits-van-turkey-leading-to-the-collapse-of-numerous-buildings-the-tremor-comes-in-the-wake-of-last-month-s-des.md) _Context: 7.1 magnitude earthquake, Turkish_
+2. [The death toll of eastern Turkey's recent earthquake reaches 366, as emergency services continue to search the rubble of Van for survivors. ](/news/2011/10/25/the-death-toll-of-eastern-turkey-s-recent-earthquake-reaches-366-as-emergency-services-continue-to-search-the-rubble-of-van-for-survivors.md) _Context: 7.1 magnitude earthquake, Turkish_
+3. [The death toll from Turkey's recent earthquake reaches 279, and is expected to increase further as rescue teams search the rubble of the city of Van for survivors. Meanwhile, thousands made homeless by the quake are forced to endure freezing overnight temperatures in the open. ](/news/2011/10/24/the-death-toll-from-turkey-s-recent-earthquake-reaches-279-and-is-expected-to-increase-further-as-rescue-teams-search-the-rubble-of-the-cit.md) _Context: 7.1 magnitude earthquake, Turkish_
+4. [A 7.2-magnitude earthquake rocks the city of Van in eastern Turkey, killing at least 582 people. ](/news/2011/10/23/a-7-2-magnitude-earthquake-rocks-the-city-of-van-in-eastern-turkey-killing-at-least-582-people.md) _Context: 7.1 magnitude earthquake, Turkish_
+5. [Turkish airstrikes and shelling heavily damage the ancient Syro-Hittite Ain Dara temple in Syria's Afrin District. The Directorate-General of Antiquities and Museums calls on the international community to pressure Turkey "to prevent the targeting of archaeological and cultural sites". ](/news/2018/01/28/turkish-airstrikes-and-shelling-heavily-damage-the-ancient-syro-hittite-ain-dara-temple-in-syria-s-afrin-district-the-directorate-general-o.md) _Context: Turkish_

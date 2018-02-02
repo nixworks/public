@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/15/president-george-w-bush-warns-that-motorists-will-face-a-pinch-from-rising-costs-caused-by-hurricane-ike.html)  [JSON](/news/2008/09/15/president-george-w-bush-warns-that-motorists-will-face-a-pinch-from-rising-costs-caused-by-hurricane-ike.json)  [XML](/news/2008/09/15/president-george-w-bush-warns-that-motorists-will-face-a-pinch-from-rising-costs-caused-by-hurricane-ike.xml)  
+
 ### [2008-09-15](/news/2008/09/15/index.md)
 
+##### U.S. President
 # President George W. Bush warns that motorists will face a "pinch" from rising costs caused by Hurricane Ike. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,422768,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

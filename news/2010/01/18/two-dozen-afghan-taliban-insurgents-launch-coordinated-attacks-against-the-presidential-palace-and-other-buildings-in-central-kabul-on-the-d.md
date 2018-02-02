@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/01/18/two-dozen-afghan-taliban-insurgents-launch-coordinated-attacks-against-the-presidential-palace-and-other-buildings-in-central-kabul-on-the-d.html)  [JSON](/news/2010/01/18/two-dozen-afghan-taliban-insurgents-launch-coordinated-attacks-against-the-presidential-palace-and-other-buildings-in-central-kabul-on-the-d.json)  [XML](/news/2010/01/18/two-dozen-afghan-taliban-insurgents-launch-coordinated-attacks-against-the-presidential-palace-and-other-buildings-in-central-kabul-on-the-d.xml)  
+
 ### [2010-01-18](/news/2010/01/18/index.md)
 
+##### Afghanistan
 # Two dozen Afghan Taliban insurgents launch coordinated attacks against the presidential palace and other buildings in central Kabul on the day a new government is to be sworn in. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/01/18/AR2010011800724.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/01/18/AR2010011800724.html)
 
 ### Related:
 

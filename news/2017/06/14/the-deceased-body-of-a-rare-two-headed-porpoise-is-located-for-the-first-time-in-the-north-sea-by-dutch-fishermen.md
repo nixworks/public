@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/14/the-deceased-body-of-a-rare-two-headed-porpoise
 
 ### [2017-06-14](/news/2017/06/14/index.md)
 
+##### Two-headed animals
 # The deceased body of a rare two-headed porpoise is located for the first time in the North Sea by Dutch fishermen. 
 
 Fished from a trawl net, Dutch fisherman stumbled upon the extremely rare catch in the North Sea.

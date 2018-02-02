@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/3/three-are-killed-in-indian-navy-air-show-crash-in-hyderabad-india.html)  [JSON](/news/2010/03/3/three-are-killed-in-indian-navy-air-show-crash-in-hyderabad-india.json)  [XML](/news/2010/03/3/three-are-killed-in-indian-navy-air-show-crash-in-hyderabad-india.xml)  
+
 ### [2010-03-3](/news/2010/03/3/index.md)
 
+##### Indian Navy
 # Three are killed in Indian Navy air show crash in Hyderabad, India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8546735.stm)
 2. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/03/03/india.crash/index.html)

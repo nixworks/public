@@ -1,6 +1,10 @@
+
+Formats: [HTML](/news/2005/07/2/the-live-8-concerts-begin-their-globe-spanning-tour-in-tokyo-several-famous-artists-and-musical-groups-are-joining-in-this-effort-to-raise.html)  [JSON](/news/2005/07/2/the-live-8-concerts-begin-their-globe-spanning-tour-in-tokyo-several-famous-artists-and-musical-groups-are-joining-in-this-effort-to-raise.json)  [XML](/news/2005/07/2/the-live-8-concerts-begin-their-globe-spanning-tour-in-tokyo-several-famous-artists-and-musical-groups-are-joining-in-this-effort-to-raise.xml)  
+
 ### [2005-07-2](/news/2005/07/2/index.md)
 
-#  The Live 8 concerts begin their globe-spanning tour in Tokyo. Several famous artists and musical groups are joining in this effort to raise awareness about poverty and AIDS in the leadup to the G8 summit and on the anniversary of the 1985 Live Aid concerts. (Wikinews), [http:--www.wired.com-news-digiwood-0,1412,68069,00.html?tw=rss.TOP (Wired)], [http:--www.theglobeandmail.com-servlet-story-RTGAM.20050702.weight0702-BNStory-Entertainment- (Globe and Mail)], [http:--www.latimes.com-news-politics-la-et-live2jul02,1,7633303.story?coll=la-headlines-politics (LA Times)]. Related information: [http:--www.live8live.com- (Live 8 home page)], ONE Campaign, [http:--music.aol.com- (AOL Music (live webcast))]
+##### Live 8
+#  The Live 8 concerts begin their globe-spanning tour in Tokyo. Several famous artists and musical groups are joining in this effort to raise awareness about poverty and AIDS in the leadup to the G8 summit and on the anniversary of the 1985 Live Aid concerts. (Wikinews), [https:--www.wired.com-news-digiwood-0,1412,68069,00.html?tw=rss.TOP (Wired)], [https:--www.theglobeandmail.com-servlet-story-RTGAM.20050702.weight0702-BNStory-Entertainment- (Globe and Mail)], [http:--www.latimes.com-news-politics-la-et-live2jul02,1,7633303.story?coll=la-headlines-politics (LA Times)]. Related information: [http:--www.live8live.com- (Live 8 home page)], ONE Campaign, [http:--music.aol.com- (AOL Music (live webcast))]
 
 
 

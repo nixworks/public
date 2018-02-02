@@ -1,11 +1,9 @@
 
-### Formats:
+Formats: [HTML](/news/2017/06/8/iranian-intelligence-ministry-releases-the-names-and-other-information-about-the-five-attackers-of-the-day-before.html)  [JSON](/news/2017/06/8/iranian-intelligence-ministry-releases-the-names-and-other-information-about-the-five-attackers-of-the-day-before.json)  [XML](/news/2017/06/8/iranian-intelligence-ministry-releases-the-names-and-other-information-about-the-five-attackers-of-the-day-before.xml)  
 
-* [HTML](/news/2017/06/8/iranian-intelligence-ministry-releases-the-names-and-other-information-about-the-five-attackers-of-the-day-before.html)
-* [JSON](/news/2017/06/8/iranian-intelligence-ministry-releases-the-names-and-other-information-about-the-five-attackers-of-the-day-before.json)
-* [XML](/news/2017/06/8/iranian-intelligence-ministry-releases-the-names-and-other-information-about-the-five-attackers-of-the-day-before.xml)
 ### [2017-06-8](/news/2017/06/8/index.md)
 
+##### Tehran attacks
 # Iranian Intelligence Ministry releases the names and other information about the five attackers of the day before. 
 
 The Iranian Intelligence Ministry has released the names of and other information about the five terrorists who carried out twin attacks in Tehran on Wednesday.

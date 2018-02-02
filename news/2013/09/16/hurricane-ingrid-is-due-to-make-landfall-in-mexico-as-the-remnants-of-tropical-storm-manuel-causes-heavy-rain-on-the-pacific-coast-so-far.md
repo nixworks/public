@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/16/hurricane-ingrid-is-due-to-make-landfall-in-mexico-as-the-remnants-of-tropical-storm-manuel-causes-heavy-rain-on-the-pacific-coast-so-far.html)  [JSON](/news/2013/09/16/hurricane-ingrid-is-due-to-make-landfall-in-mexico-as-the-remnants-of-tropical-storm-manuel-causes-heavy-rain-on-the-pacific-coast-so-far.json)  [XML](/news/2013/09/16/hurricane-ingrid-is-due-to-make-landfall-in-mexico-as-the-remnants-of-tropical-storm-manuel-causes-heavy-rain-on-the-pacific-coast-so-far.xml)  
+
 ### [2013-09-16](/news/2013/09/16/index.md)
 
+##### Hurricane Ingrid
 # Hurricane Ingrid is due to make landfall in Mexico as the remnants of Tropical Storm Manuel causes heavy rain on the Pacific coast. So far, 21 people have died as a result of the two storms including 14 people in Guerrero state. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News America](http://abcnews.go.com/International/wireStory/hurricane-ingrid-ts-manuel-mexico-kill-12-20262130)
 

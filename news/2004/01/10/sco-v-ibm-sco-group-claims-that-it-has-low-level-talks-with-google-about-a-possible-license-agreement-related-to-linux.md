@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/10/sco-v-ibm-sco-group-claims-that-it-has-low-level-talks-with-google-about-a-possible-license-agreement-related-to-linux.html)  [JSON](/news/2004/01/10/sco-v-ibm-sco-group-claims-that-it-has-low-level-talks-with-google-about-a-possible-license-agreement-related-to-linux.json)  [XML](/news/2004/01/10/sco-v-ibm-sco-group-claims-that-it-has-low-level-talks-with-google-about-a-possible-license-agreement-related-to-linux.xml)  
+
 ### [2004-01-10](/news/2004/01/10/index.md)
 
+##### SCO v. IBM
 #  "SCO v. IBM": SCO Group claims that it has "low-level talks" with Google about a possible license agreement related to Linux.
 
 

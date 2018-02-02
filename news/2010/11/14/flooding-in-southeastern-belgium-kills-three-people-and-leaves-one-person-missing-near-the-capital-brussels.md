@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/14/flooding-in-southeastern-belgium-kills-three-people-and-leaves-one-person-missing-near-the-capital-brussels.html)  [JSON](/news/2010/11/14/flooding-in-southeastern-belgium-kills-three-people-and-leaves-one-person-missing-near-the-capital-brussels.json)  [XML](/news/2010/11/14/flooding-in-southeastern-belgium-kills-three-people-and-leaves-one-person-missing-near-the-capital-brussels.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### Belgium
 # Flooding in southeastern Belgium kills three people and leaves one person missing near the capital Brussels. 
 
 Heavy rains battered Belgium at the weekend, causing flooding and mudslides that left at least three people dead as scores of others had to be evacuated, sometimes by boat, reports...
 
 
-### Source:
+### Sources:
 
 1. [Expatica Belgium](http://www.expatica.com/be/news/belgian-news/three-dead-as-rain-batters-belgium_110426.html)
 2. [The Canadian Press](http://www.google.com/hostednews/canadianpress/article/ALeqM5gPlB82E8eFaCD5W1Fr2s5CD-tMoQ?docId=5131138)

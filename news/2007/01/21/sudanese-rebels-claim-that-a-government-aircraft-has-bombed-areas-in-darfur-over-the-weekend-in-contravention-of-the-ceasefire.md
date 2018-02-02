@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/21/sudanese-rebels-claim-that-a-government-aircraft-has-bombed-areas-in-darfur-over-the-weekend-in-contravention-of-the-ceasefire.html)  [JSON](/news/2007/01/21/sudanese-rebels-claim-that-a-government-aircraft-has-bombed-areas-in-darfur-over-the-weekend-in-contravention-of-the-ceasefire.json)  [XML](/news/2007/01/21/sudanese-rebels-claim-that-a-government-aircraft-has-bombed-areas-in-darfur-over-the-weekend-in-contravention-of-the-ceasefire.xml)  
+
 ### [2007-01-21](/news/2007/01/21/index.md)
 
+##### Sudan
 #  Sudanese rebels claim that a government aircraft has bombed areas in Darfur over the weekend in contravention of the ceasefire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6285625.stm)
 

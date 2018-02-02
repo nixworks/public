@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/6/thai-king-vajiralongkorn-signed-into-law-a-new-c
 
 ### [2017-04-6](/news/2017/04/6/index.md)
 
+##### Thailand
 # Thai King Vajiralongkorn signed into law a new Constitution of Thailand that paves the way for democratic reforms while allowing the Royal Thai Army to retain its influential role in Thai politics. 
 
 The move allows for a return to democracy after a 2014 coup, but the military will retain influence.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/10/former-motorsports-executive-max-mosley-loses-his-european-court-of-human-rights-bid-to-force-newspapers-to-warn-people-before-exposing-aspe.html)  [JSON](/news/2011/05/10/former-motorsports-executive-max-mosley-loses-his-european-court-of-human-rights-bid-to-force-newspapers-to-warn-people-before-exposing-aspe.json)  [XML](/news/2011/05/10/former-motorsports-executive-max-mosley-loses-his-european-court-of-human-rights-bid-to-force-newspapers-to-warn-people-before-exposing-aspe.xml)  
+
 ### [2011-05-10](/news/2011/05/10/index.md)
 
+##### Max Mosley
 # Former motorsports executive Max Mosley loses his European Court of Human Rights bid to force newspapers to warn people before exposing aspects of their private lives. 
 
 Ex-motorsports boss Max Mosley loses his European Court of Human Rights attempt to force papers to warn people before exposing their private lives.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13341058)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52638000/jpg/_52638820_011939364-1.jpg)

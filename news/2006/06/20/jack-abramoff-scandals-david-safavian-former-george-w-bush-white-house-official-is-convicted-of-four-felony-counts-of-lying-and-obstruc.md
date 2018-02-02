@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/20/jack-abramoff-scandals-david-safavian-former-george-w-bush-white-house-official-is-convicted-of-four-felony-counts-of-lying-and-obstruc.html)  [JSON](/news/2006/06/20/jack-abramoff-scandals-david-safavian-former-george-w-bush-white-house-official-is-convicted-of-four-felony-counts-of-lying-and-obstruc.json)  [XML](/news/2006/06/20/jack-abramoff-scandals-david-safavian-former-george-w-bush-white-house-official-is-convicted-of-four-felony-counts-of-lying-and-obstruc.xml)  
+
 ### [2006-06-20](/news/2006/06/20/index.md)
 
+##### Jack Abramoff scandals
 #  Jack Abramoff scandals: David Safavian, former George W. Bush White House official, is convicted of four felony counts of lying and obstruction of justice related to his dealings with lobbyist Jack Abramoff. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/POLITICS/06/20/lobbyist.probe.ap/index.html)
 

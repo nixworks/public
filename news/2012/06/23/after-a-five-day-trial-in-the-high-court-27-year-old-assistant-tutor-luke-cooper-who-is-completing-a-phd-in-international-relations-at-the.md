@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/23/after-a-five-day-trial-in-the-high-court-27-year-old-assistant-tutor-luke-cooper-who-is-completing-a-phd-in-international-relations-at-the.html)  [JSON](/news/2012/06/23/after-a-five-day-trial-in-the-high-court-27-year-old-assistant-tutor-luke-cooper-who-is-completing-a-phd-in-international-relations-at-the.json)  [XML](/news/2012/06/23/after-a-five-day-trial-in-the-high-court-27-year-old-assistant-tutor-luke-cooper-who-is-completing-a-phd-in-international-relations-at-the.xml)  
+
 ### [2012-06-23](/news/2012/06/23/index.md)
 
+##### High Court
 # After a five-day trial in the High Court, 27-year-old assistant tutor Luke Cooper, who is completing a PhD in international relations at the University of Sussex, is awarded GBP35,000 over a front page "Evening Standard" article and GBP25,000 over a follow-up piece in the "Daily Mail". These articles threatened his future academic prospects during the November 2010 march against government cuts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press Association via ''The Guardian](http://www.guardian.co.uk/uk/feedarticle/10302854)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/25/a-study-in-the-new-england-journal-of-medicine-reveals-that-trasylol-a-drug-marketed-by-bayer-designed-to-prevent-excessive-blood-loss-du.html)  [JSON](/news/2006/01/25/a-study-in-the-new-england-journal-of-medicine-reveals-that-trasylol-a-drug-marketed-by-bayer-designed-to-prevent-excessive-blood-loss-du.json)  [XML](/news/2006/01/25/a-study-in-the-new-england-journal-of-medicine-reveals-that-trasylol-a-drug-marketed-by-bayer-designed-to-prevent-excessive-blood-loss-du.xml)  
+
 ### [2006-01-25](/news/2006/01/25/index.md)
 
+##### New England Journal of Medicine
 #  A study in the New England Journal of Medicine reveals that Trasylol, a drug marketed by Bayer, designed to prevent excessive blood loss during heart surgery, doubles the risk of kidney failure and stroke. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/business/newsArticle.aspx?type=health&storyID=nL26477467)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

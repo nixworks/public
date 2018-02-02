@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/16/the-travel-ban-for-former-pakistani-president-p
 
 ### [2016-03-16](/news/2016/03/16/index.md)
 
+##### Pakistan
 #  The travel ban for former Pakistani President Pervez Musharraf is lifted by the Supreme Court of Pakistan. Musharraf is currently facing treason charges in Pakistan. 
 
 

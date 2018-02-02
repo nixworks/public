@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/20/the-korea-meteorological-administration-issues-a-heat-wave-warning-for-inland-south-korean-cities-including-seoul-suwon-and-chuncheon.html)  [JSON](/news/2011/06/20/the-korea-meteorological-administration-issues-a-heat-wave-warning-for-inland-south-korean-cities-including-seoul-suwon-and-chuncheon.json)  [XML](/news/2011/06/20/the-korea-meteorological-administration-issues-a-heat-wave-warning-for-inland-south-korean-cities-including-seoul-suwon-and-chuncheon.xml)  
+
 ### [2011-06-20](/news/2011/06/20/index.md)
 
+##### heat wave
 # The Korea Meteorological Administration issues a heat wave warning for inland South Korean cities including Seoul, Suwon and Chuncheon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2011/06/20/46/0200000000AEN20110620004200315F.HTML)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/8/the-italian-senate-votes-in-favor-of-a-dramatic-reduction-of-its-own-size-and-powers-to-challenge-laws-proposed-in-the-lower-house-and-for.html)  [JSON](/news/2014/08/8/the-italian-senate-votes-in-favor-of-a-dramatic-reduction-of-its-own-size-and-powers-to-challenge-laws-proposed-in-the-lower-house-and-for.json)  [XML](/news/2014/08/8/the-italian-senate-votes-in-favor-of-a-dramatic-reduction-of-its-own-size-and-powers-to-challenge-laws-proposed-in-the-lower-house-and-for.xml)  
+
 ### [2014-08-8](/news/2014/08/8/index.md)
 
+##### Italian senate
 # The Italian senate votes in favor of a dramatic reduction of its own size and powers to challenge laws proposed in the lower house, and for turning itself into an unelected body. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-europe-28711499)
 1. [Cover Image](http://newsimg.bbc.co.uk/media/images/67373000/jpg/_67373987_09f1654a-e583-4b5f-bfc4-f05850c6d3ce.jpg)

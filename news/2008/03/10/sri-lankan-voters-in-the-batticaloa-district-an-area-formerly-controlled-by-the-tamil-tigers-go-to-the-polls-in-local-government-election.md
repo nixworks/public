@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/10/sri-lankan-voters-in-the-batticaloa-district-an-area-formerly-controlled-by-the-tamil-tigers-go-to-the-polls-in-local-government-election.html)  [JSON](/news/2008/03/10/sri-lankan-voters-in-the-batticaloa-district-an-area-formerly-controlled-by-the-tamil-tigers-go-to-the-polls-in-local-government-election.json)  [XML](/news/2008/03/10/sri-lankan-voters-in-the-batticaloa-district-an-area-formerly-controlled-by-the-tamil-tigers-go-to-the-polls-in-local-government-election.xml)  
+
 ### [2008-03-10](/news/2008/03/10/index.md)
 
+##### Sri Lanka
 #  Sri Lankan voters in the Batticaloa district, an area formerly controlled by the Tamil Tigers, go to the polls in local government elections for first time in ten years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7286865.stm)
 

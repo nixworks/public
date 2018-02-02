@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/1/billionaire-kirk-kerkorian-sold-off-the-last-of-his-shares-in-general-motors-the-wall-street-journal-reported-it-was-clear-that-kerkorian.html)  [JSON](/news/2006/12/1/billionaire-kirk-kerkorian-sold-off-the-last-of-his-shares-in-general-motors-the-wall-street-journal-reported-it-was-clear-that-kerkorian.json)  [XML](/news/2006/12/1/billionaire-kirk-kerkorian-sold-off-the-last-of-his-shares-in-general-motors-the-wall-street-journal-reported-it-was-clear-that-kerkorian.xml)  
+
 ### [2006-12-1](/news/2006/12/1/index.md)
 
+##### Kirk Kerkorian
 #  Billionaire Kirk Kerkorian sold off the last of his shares in General Motors, the Wall Street Journal reported. It was clear that Kerkorian had sold 14 million shares for $28.75 per share, or about $400 million, slicing his stake to 4.95%. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MSN Money](http://articles.moneycentral.msn.com/Investing/Dispatch/061201markets.aspx)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/10/a-suicide-car-bomber-attacks-a-nato-convoy-in-kandahar-resulting-in-the-death-of-eight-citizens.html)  [JSON](/news/2008/04/10/a-suicide-car-bomber-attacks-a-nato-convoy-in-kandahar-resulting-in-the-death-of-eight-citizens.json)  [XML](/news/2008/04/10/a-suicide-car-bomber-attacks-a-nato-convoy-in-kandahar-resulting-in-the-death-of-eight-citizens.xml)  
+
 ### [2008-04-10](/news/2008/04/10/index.md)
 
+##### suicide bomber
 #  A suicide car bomber attacks a NATO convoy in Kandahar, resulting in the death of eight citizens. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/topNews/idCAISL14488420080410)
 

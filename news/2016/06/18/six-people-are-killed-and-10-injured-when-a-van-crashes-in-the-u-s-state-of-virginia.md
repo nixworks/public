@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/18/six-people-are-killed-and-10-injured-when-a-van
 
 ### [2016-06-18](/news/2016/06/18/index.md)
 
+##### U.S.
 # Six people are killed and 10 injured when a van crashes in the U.S. state of Virginia. 
 
 Six people were killed in Virginia and 10 others hospitalized when the van in which they were riding hit another car and flipped over several times on a highway on Saturday, police said.

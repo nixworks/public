@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/6/u-s-senator-jeff-flake-tells-cuban-officials-the
 
 ### [2018-01-6](/news/2018/01/6/index.md)
 
+##### Cuba-United States relations
 # U.S. Senator Jeff Flake tells Cuban officials there is "no evidence" of a suspected sonic attack on U.S. diplomats at the U.S. embassy in Havana. 
 
 

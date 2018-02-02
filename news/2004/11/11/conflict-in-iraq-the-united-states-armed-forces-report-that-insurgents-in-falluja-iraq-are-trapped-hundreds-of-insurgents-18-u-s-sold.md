@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/11/11/conflict-in-iraq-the-united-states-armed-forces-report-that-insurgents-in-falluja-iraq-are-trapped-hundreds-of-insurgents-18-u-s-sold.html)  [JSON](/news/2004/11/11/conflict-in-iraq-the-united-states-armed-forces-report-that-insurgents-in-falluja-iraq-are-trapped-hundreds-of-insurgents-18-u-s-sold.json)  [XML](/news/2004/11/11/conflict-in-iraq-the-united-states-armed-forces-report-that-insurgents-in-falluja-iraq-are-trapped-hundreds-of-insurgents-18-u-s-sold.xml)  
+
 ### [2004-11-11](/news/2004/11/11/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: The United States Armed Forces report that insurgents in Falluja, Iraq, are trapped. Hundreds of insurgents, 18 U.S. soldiers and five members of the Iraqi security forces have been killed in four days of fighting. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6796559&section=news)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6796559&section=news)
 
 ### Related:
 

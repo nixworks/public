@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/21/ukraine-holds-the-second-vote-in-a-run-off-presidential-election-today-voters-will-decide-between-moscow-oriented-prime-minister-viktor-ya.html)  [JSON](/news/2004/11/21/ukraine-holds-the-second-vote-in-a-run-off-presidential-election-today-voters-will-decide-between-moscow-oriented-prime-minister-viktor-ya.json)  [XML](/news/2004/11/21/ukraine-holds-the-second-vote-in-a-run-off-presidential-election-today-voters-will-decide-between-moscow-oriented-prime-minister-viktor-ya.xml)  
+
 ### [2004-11-21](/news/2004/11/21/index.md)
 
+##### Ukraine
 #  Ukraine holds the second vote in a run-off presidential election today. Voters will decide between Moscow-oriented Prime Minister Viktor Yanukovych and western-leaning reformer Viktor Yushchenko. Observers have expressed concern over possible Russian interference, election abuses, and bias in reporting by the state media. With 74% of vote counted, Yanukovych leads Yushchenko 49-48%. Yushchenko has alleged that massive election fraud has taken place. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4029635.stm)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/4031127.stm)

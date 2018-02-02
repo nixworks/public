@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/16/aircraft-carrier-ins-vikramaditya-is-commissioned-into-the-indian-navy-at-the-russian-shipbuilding-complex-of-sevmash-in-severodvinsk-endin.html)  [JSON](/news/2013/11/16/aircraft-carrier-ins-vikramaditya-is-commissioned-into-the-indian-navy-at-the-russian-shipbuilding-complex-of-sevmash-in-severodvinsk-endin.json)  [XML](/news/2013/11/16/aircraft-carrier-ins-vikramaditya-is-commissioned-into-the-indian-navy-at-the-russian-shipbuilding-complex-of-sevmash-in-severodvinsk-endin.xml)  
+
 ### [2013-11-16](/news/2013/11/16/index.md)
 
+##### INS Vikramaditya
 # Aircraft carrier INS Vikramaditya is commissioned into the Indian Navy at the Russian shipbuilding complex of Sevmash in Severodvinsk, ending a five-year delay to the $2.33 billion project. Russian deputy Prime Minister Dmitry Rogozin and Indian Defense Minister AK Antony attend the handing over ceremony. 
 
 Aircraft carrier INS Vikramaditya was commissioned into the Indian Navy at a Russian shipyard on Saturday, ending a five-year delay to the $2.33 billion project.
 
 
-### Source:
+### Sources:
 
 1. [RT](http://rt.com/news/russia-india-aircraft-carrier-834/)
 2. [Reuters](http://in.reuters.com/article/2013/11/16/russia-india-aircraftcarrier-idINDEE9AF03H20131116)

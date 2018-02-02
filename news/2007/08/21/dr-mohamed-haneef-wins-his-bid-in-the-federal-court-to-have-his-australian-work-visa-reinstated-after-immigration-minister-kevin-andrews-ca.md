@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/21/dr-mohamed-haneef-wins-his-bid-in-the-federal-court-to-have-his-australian-work-visa-reinstated-after-immigration-minister-kevin-andrews-ca.html)  [JSON](/news/2007/08/21/dr-mohamed-haneef-wins-his-bid-in-the-federal-court-to-have-his-australian-work-visa-reinstated-after-immigration-minister-kevin-andrews-ca.json)  [XML](/news/2007/08/21/dr-mohamed-haneef-wins-his-bid-in-the-federal-court-to-have-his-australian-work-visa-reinstated-after-immigration-minister-kevin-andrews-ca.xml)  
+
 ### [2007-08-21](/news/2007/08/21/index.md)
 
+##### Mohamed Haneef
 #  Dr Mohamed Haneef wins his bid in the Federal Court to have his Australian work visa reinstated after Immigration Minister Kevin Andrews canceled it after Dr Haneef was charged with "providing material support to a terrorist organization." [http:--www.abc.net.au-news-stories-2007-08-21-2010804.htm (ABC News Australia)] Andrews later says the Australian government would appeal against the court ruling. 
 
 

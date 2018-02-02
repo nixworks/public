@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/8/there-is-a-near-riot-in-the-beijing-apple-store-as-the-apple-ipad-2-goes-on-sale-in-the-people-s-republic-of-china.html)  [JSON](/news/2011/05/8/there-is-a-near-riot-in-the-beijing-apple-store-as-the-apple-ipad-2-goes-on-sale-in-the-people-s-republic-of-china.json)  [XML](/news/2011/05/8/there-is-a-near-riot-in-the-beijing-apple-store-as-the-apple-ipad-2-goes-on-sale-in-the-people-s-republic-of-china.xml)  
+
 ### [2011-05-8](/news/2011/05/8/index.md)
 
+##### Beijing
 # There is a near riot in the Beijing Apple Store as the Apple iPad 2 goes on sale in the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_666297.html)
 

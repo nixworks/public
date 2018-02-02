@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/7/the-french-cabinet-walks-out-of-the-national-assembly-after-socialist-party-mp-serge-letchimy-accuses-interior-minister-claude-gua-c-ant-of-fl.html)  [JSON](/news/2012/02/7/the-french-cabinet-walks-out-of-the-national-assembly-after-socialist-party-mp-serge-letchimy-accuses-interior-minister-claude-gua-c-ant-of-fl.json)  [XML](/news/2012/02/7/the-french-cabinet-walks-out-of-the-national-assembly-after-socialist-party-mp-serge-letchimy-accuses-interior-minister-claude-gua-c-ant-of-fl.xml)  
+
 ### [2012-02-7](/news/2012/02/7/index.md)
 
+##### government
 # The French Cabinet walks out of the National Assembly after Socialist Party MP Serge Letchimy accuses Interior Minister Claude Gueant of flirting with Nazi ideology in his statement that "not all civilisations are of equal value". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/feb/07/french-cabinet-walkout-parliament)
 

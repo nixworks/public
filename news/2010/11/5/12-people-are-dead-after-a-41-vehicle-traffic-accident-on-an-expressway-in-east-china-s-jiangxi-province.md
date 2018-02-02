@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/5/12-people-are-dead-after-a-41-vehicle-traffic-accident-on-an-expressway-in-east-china-s-jiangxi-province.html)  [JSON](/news/2010/11/5/12-people-are-dead-after-a-41-vehicle-traffic-accident-on-an-expressway-in-east-china-s-jiangxi-province.json)  [XML](/news/2010/11/5/12-people-are-dead-after-a-41-vehicle-traffic-accident-on-an-expressway-in-east-china-s-jiangxi-province.xml)  
+
 ### [2010-11-5](/news/2010/11/5/index.md)
 
+##### East China
 # 12 people are dead after a 41-vehicle traffic accident on an expressway in East China's Jiangxi province. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Shanghai Daily](http://www.shanghaidaily.com/article/?id=453757)
 

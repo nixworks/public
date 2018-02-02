@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/24/two-nasa-astronauts-at-the-international-space-station-complete-a-series-of-spacewalks-to-replace-a-faulty-ammonia-coolant-pump.html)  [JSON](/news/2013/12/24/two-nasa-astronauts-at-the-international-space-station-complete-a-series-of-spacewalks-to-replace-a-faulty-ammonia-coolant-pump.json)  [XML](/news/2013/12/24/two-nasa-astronauts-at-the-international-space-station-complete-a-series-of-spacewalks-to-replace-a-faulty-ammonia-coolant-pump.xml)  
+
 ### [2013-12-24](/news/2013/12/24/index.md)
 
+##### NASA
 # Two NASA astronauts at the International Space Station complete a series of spacewalks to replace a faulty ammonia coolant pump. 
 
 Two space station astronauts popped in a new pump during a rare Christmas Eve spacewalk Tuesday, eager to wrap up urgent repairs to a cooling system.
 
 
-### Source:
+### Sources:
 
 1. [FOX News](http://www.foxnews.com/science/2013/12/24/astronauts-make-rare-christmas-eve-spacewalk/?intcmp=latestnews)
 2. [NASA](http://www.nasa.gov/content/stations-replacement-pump-successfully-restarted/index.html)

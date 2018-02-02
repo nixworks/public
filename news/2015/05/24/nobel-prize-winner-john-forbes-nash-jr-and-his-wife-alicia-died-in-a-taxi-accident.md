@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/24/nobel-prize-winner-john-forbes-nash-jr-and-his-wife-alicia-died-in-a-taxi-accident.html)  [JSON](/news/2015/05/24/nobel-prize-winner-john-forbes-nash-jr-and-his-wife-alicia-died-in-a-taxi-accident.json)  [XML](/news/2015/05/24/nobel-prize-winner-john-forbes-nash-jr-and-his-wife-alicia-died-in-a-taxi-accident.xml)  
+
 ### [2015-05-24](/news/2015/05/24/index.md)
 
+##### Nobel Prize
 # Nobel Prize winner John Forbes Nash, Jr. and his wife Alicia died in a taxi accident. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The New York Times](http://mobile.nytimes.com/2015/05/25/science/john-nash-a-beautiful-mind-subject-and-nobel-winner-dies-at-86.html?referrer)
 

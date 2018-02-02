@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/19/nigel-evans-deputy-speaker-of-the-uk-house-of-commons-is-arrested-on-suspicion-of-three-counts-of-indecent-assault.html)  [JSON](/news/2013/06/19/nigel-evans-deputy-speaker-of-the-uk-house-of-commons-is-arrested-on-suspicion-of-three-counts-of-indecent-assault.json)  [XML](/news/2013/06/19/nigel-evans-deputy-speaker-of-the-uk-house-of-commons-is-arrested-on-suspicion-of-three-counts-of-indecent-assault.xml)  
+
 ### [2013-06-19](/news/2013/06/19/index.md)
 
+##### Nigel Evans
 # Nigel Evans, Deputy Speaker of the UK House of Commons, is arrested on suspicion of three counts of indecent assault. 
 
 Commons Deputy Speaker Nigel Evans says he &quot;refutes all allegations&quot; after he is arrested on suspicion of three counts of indecent assault.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-22968566#TWEET794874)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68260000/jpg/_68260164_68260163.jpg)

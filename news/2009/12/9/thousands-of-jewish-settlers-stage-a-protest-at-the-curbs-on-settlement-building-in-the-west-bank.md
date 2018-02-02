@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/9/thousands-of-jewish-settlers-stage-a-protest-at-the-curbs-on-settlement-building-in-the-west-bank.html)  [JSON](/news/2009/12/9/thousands-of-jewish-settlers-stage-a-protest-at-the-curbs-on-settlement-building-in-the-west-bank.json)  [XML](/news/2009/12/9/thousands-of-jewish-settlers-stage-a-protest-at-the-curbs-on-settlement-building-in-the-west-bank.xml)  
+
 ### [2009-12-9](/news/2009/12/9/index.md)
 
+##### Israel
 #  Thousands of Jewish settlers stage a protest at the curbs on settlement building in the West Bank. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8404850.stm)
 2. [Times of India](http://timesofindia.indiatimes.com/world/middle-east/Thousands-protest-in-Jerusalem-against-Israels-settlement-suspension/articleshow/5320819.cms)

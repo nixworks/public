@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/1/king-gyanendra-of-nepal-swears-in-girija-prasad-koirala-as-the-new-prime-minister-of-nepal-baburam-bhattarai-of-the-cpn-m-which-controls.html)  [JSON](/news/2006/05/1/king-gyanendra-of-nepal-swears-in-girija-prasad-koirala-as-the-new-prime-minister-of-nepal-baburam-bhattarai-of-the-cpn-m-which-controls.json)  [XML](/news/2006/05/1/king-gyanendra-of-nepal-swears-in-girija-prasad-koirala-as-the-new-prime-minister-of-nepal-baburam-bhattarai-of-the-cpn-m-which-controls.xml)  
+
 ### [2006-05-1](/news/2006/05/1/index.md)
 
+##### Gyanendra of Nepal
 #  King Gyanendra of Nepal swears in Girija Prasad Koirala as the new Prime Minister of Nepal. Baburam Bhattarai of the CPN(M) which controls two thirds of the country, states that his party will respect the results of an election to a constituent assembly, so long as these are "free and fair". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4962062.stm)
 

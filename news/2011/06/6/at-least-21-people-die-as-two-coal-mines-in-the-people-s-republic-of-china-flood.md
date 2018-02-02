@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/6/at-least-21-people-die-as-two-coal-mines-in-the-people-s-republic-of-china-flood.html)  [JSON](/news/2011/06/6/at-least-21-people-die-as-two-coal-mines-in-the-people-s-republic-of-china-flood.json)  [XML](/news/2011/06/6/at-least-21-people-die-as-two-coal-mines-in-the-people-s-republic-of-china-flood.xml)  
+
 ### [2011-06-6](/news/2011/06/6/index.md)
 
+##### coal mine
 # At least 21 people die as two coal mines in the People's Republic of China flood. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Inquirer](http://newsinfo.inquirer.net/12593/21-dead-in-china-mine-floods%E2%80%94state-media)
 

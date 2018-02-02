@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/06/29/the-israeli-cabinet-votes-in-favour-of-a-prisoner-swap-with-hezbollah.html)  [JSON](/news/2008/06/29/the-israeli-cabinet-votes-in-favour-of-a-prisoner-swap-with-hezbollah.json)  [XML](/news/2008/06/29/the-israeli-cabinet-votes-in-favour-of-a-prisoner-swap-with-hezbollah.xml)  
+
 ### [2008-06-29](/news/2008/06/29/index.md)
 
+##### Israel
 #  The Israeli cabinet votes in favour of a prisoner swap with Hezbollah. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Forbes](http://www.forbes.com/feeds/ap/2008/06/29/ap5165368.html)
+1. [AP via ''Forbes](https://www.forbes.com/feeds/ap/2008/06/29/ap5165368.html)
 
 ### Related:
 

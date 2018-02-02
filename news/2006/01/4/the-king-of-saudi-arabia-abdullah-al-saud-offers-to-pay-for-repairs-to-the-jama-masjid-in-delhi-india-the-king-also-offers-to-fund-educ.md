@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/4/the-king-of-saudi-arabia-abdullah-al-saud-offers-to-pay-for-repairs-to-the-jama-masjid-in-delhi-india-the-king-also-offers-to-fund-educ.html)  [JSON](/news/2006/01/4/the-king-of-saudi-arabia-abdullah-al-saud-offers-to-pay-for-repairs-to-the-jama-masjid-in-delhi-india-the-king-also-offers-to-fund-educ.json)  [XML](/news/2006/01/4/the-king-of-saudi-arabia-abdullah-al-saud-offers-to-pay-for-repairs-to-the-jama-masjid-in-delhi-india-the-king-also-offers-to-fund-educ.xml)  
+
 ### [2006-01-4](/news/2006/01/4/index.md)
 
+##### King
 #  The King of Saudi Arabia, Abdullah al-Saud, offers to pay for repairs to the Jama Masjid in Delhi, India. The King also offers to fund education in India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4581056.stm)
 

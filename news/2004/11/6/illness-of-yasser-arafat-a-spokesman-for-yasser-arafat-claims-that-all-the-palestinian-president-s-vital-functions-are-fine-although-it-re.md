@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/6/illness-of-yasser-arafat-a-spokesman-for-yasser-arafat-claims-that-all-the-palestinian-president-s-vital-functions-are-fine-although-it-re.html)  [JSON](/news/2004/11/6/illness-of-yasser-arafat-a-spokesman-for-yasser-arafat-claims-that-all-the-palestinian-president-s-vital-functions-are-fine-although-it-re.json)  [XML](/news/2004/11/6/illness-of-yasser-arafat-a-spokesman-for-yasser-arafat-claims-that-all-the-palestinian-president-s-vital-functions-are-fine-although-it-re.xml)  
+
 ### [2004-11-6](/news/2004/11/6/index.md)
 
+##### Illness of Yasser Arafat
 #  Illness of Yasser Arafat: A spokesman for Yasser Arafat claims that all the Palestinian president's vital functions are fine although it remains unclear why Arafat has not regained consciousness and if or when he will. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://story.news.yahoo.com/news?tmpl=story&u=/ap/20041107/ap_on_re_mi_ea/arafat&cid=540&ncid=716)
 2. [The Age](http://www.theage.com.au/news/World/Arafat-stable-not-in-a-coma/2004/11/07/1099781228880.html?oneclick=true)

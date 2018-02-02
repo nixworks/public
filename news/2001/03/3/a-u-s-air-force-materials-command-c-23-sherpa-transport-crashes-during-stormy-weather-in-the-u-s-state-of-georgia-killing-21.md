@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/03/3/a-u-s-air-force-materials-command-c-23-sherpa-transport-crashes-during-stormy-weather-in-the-u-s-state-of-georgia-killing-21.html)  [JSON](/news/2001/03/3/a-u-s-air-force-materials-command-c-23-sherpa-transport-crashes-during-stormy-weather-in-the-u-s-state-of-georgia-killing-21.json)  [XML](/news/2001/03/3/a-u-s-air-force-materials-command-c-23-sherpa-transport-crashes-during-stormy-weather-in-the-u-s-state-of-georgia-killing-21.xml)  
+
 ### [2001-03-3](/news/2001/03/3/index.md)
 
+##### U.S. Air Force
 #  A U.S. Air Force Materials Command C-23 Sherpa transport crashes during stormy weather in the U.S. state of Georgia, killing 21.
 
 

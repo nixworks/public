@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/19/at-least-75-miners-are-dead-after-a-methane-gas-explosion-in-the-ulyanovskaya-coal-mine-in-the-city-of-novokuznetsk-in-the-kemerovo-region.html)  [JSON](/news/2007/03/19/at-least-75-miners-are-dead-after-a-methane-gas-explosion-in-the-ulyanovskaya-coal-mine-in-the-city-of-novokuznetsk-in-the-kemerovo-region.json)  [XML](/news/2007/03/19/at-least-75-miners-are-dead-after-a-methane-gas-explosion-in-the-ulyanovskaya-coal-mine-in-the-city-of-novokuznetsk-in-the-kemerovo-region.xml)  
+
 ### [2007-03-19](/news/2007/03/19/index.md)
 
+##### methane
 #  At least 75 miners are dead after a methane gas explosion in the Ulyanovskaya coal mine in the city of Novokuznetsk in the Kemerovo region of Siberia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/L19453701.htm)
 

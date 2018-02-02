@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/31/the-parliament-of-latvia-selects-valdis-zatlers-as-the-new-president-of-latvia.html)  [JSON](/news/2007/05/31/the-parliament-of-latvia-selects-valdis-zatlers-as-the-new-president-of-latvia.json)  [XML](/news/2007/05/31/the-parliament-of-latvia-selects-valdis-zatlers-as-the-new-president-of-latvia.xml)  
+
 ### [2007-05-31](/news/2007/05/31/index.md)
 
+##### Parliament of Latvia
 #  The Parliament of Latvia selects Valdis Zatlers as the new President of Latvia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/europe/05/31/latvia.president.reut/index.html?eref=rss_word)
 

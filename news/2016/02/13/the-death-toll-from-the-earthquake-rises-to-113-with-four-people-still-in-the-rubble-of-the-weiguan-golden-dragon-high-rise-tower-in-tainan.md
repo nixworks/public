@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/13/the-death-toll-from-the-earthquake-rises-to-113
 
 ### [2016-02-13](/news/2016/02/13/index.md)
 
+##### 2016 Taiwan earthquake
 # The death toll from the earthquake rises to 113 with four people still in the rubble of the Weiguan Golden Dragon high-rise tower in Tainan. 
 
 

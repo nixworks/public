@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/03/13/the-first-match-of-the-2007-cricket-world-cup-between-west-indies-and-pakistan-takes-place-at-sabina-park-in-jamaica-the-west-indies-win.html)  [JSON](/news/2007/03/13/the-first-match-of-the-2007-cricket-world-cup-between-west-indies-and-pakistan-takes-place-at-sabina-park-in-jamaica-the-west-indies-win.json)  [XML](/news/2007/03/13/the-first-match-of-the-2007-cricket-world-cup-between-west-indies-and-pakistan-takes-place-at-sabina-park-in-jamaica-the-west-indies-win.xml)  
+
 ### [2007-03-13](/news/2007/03/13/index.md)
 
+##### 2007 Cricket World Cup
 #  The first match of the 2007 Cricket World Cup, between West Indies and Pakistan, takes place at Sabina Park in Jamaica. The West Indies win by 54 runs.([http:--news.bbc.co.uk-sport1-hi-cricket-6441789.stm BBC])
 
 

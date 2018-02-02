@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/13/a-scandal-erupts-in-argentina-when-a-venezuelan-businessman-is-caught-trying-to-smuggle-800-000-into-the-country-on-a-plane-belonging-to-e.html)  [JSON](/news/2007/08/13/a-scandal-erupts-in-argentina-when-a-venezuelan-businessman-is-caught-trying-to-smuggle-800-000-into-the-country-on-a-plane-belonging-to-e.json)  [XML](/news/2007/08/13/a-scandal-erupts-in-argentina-when-a-venezuelan-businessman-is-caught-trying-to-smuggle-800-000-into-the-country-on-a-plane-belonging-to-e.xml)  
+
 ### [2007-08-13](/news/2007/08/13/index.md)
 
+##### Argentina
 #  A scandal erupts in Argentina when a Venezuelan businessman is caught trying to smuggle $800,000 into the country on a plane belonging to Enarsa, Argentina's government-owned energy company. 
 
 A scandal has left President Néstor Kirchner of Argentina and his wife scrambling to contain any potential damage to her bid to succeed him as president.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2007/08/14/world/americas/14argentina.html?_r=1&ref=world&oref=slogin)
+1. [New York Times](https://www.nytimes.com/2007/08/14/world/americas/14argentina.html?_r=1&ref=world&oref=slogin)
 1. [Cover Image](https://static01.nyt.com/images/2007/08/14/world/14argentina.75.jpg)
 
 ### Related:

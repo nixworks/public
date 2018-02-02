@@ -1,7 +1,7 @@
-## [2002-04-5](/news/2002/04/5/index.md)
 
-### [Layne Staley lead singer and co-lyricist of the rock group Alice In Chains found dead in home.](/news/2002/04/5/layne-staley-lead-singer-and-co-lyricist-of-the-rock-group-alice-in-chains-found-dead-in-home.md)
-_Context: Alice In Chains, Layne Staley_
+Formats: [HTML](2002/04/5/index.html)  [JSON](2002/04/5/index.json)  [XML](2002/04/5/index.xml)  
+
+## [2002-04-5](/news/2002/04/5/index.md)
 
 ## [Previous Day...](/news/2002/04/4/index.md)
 

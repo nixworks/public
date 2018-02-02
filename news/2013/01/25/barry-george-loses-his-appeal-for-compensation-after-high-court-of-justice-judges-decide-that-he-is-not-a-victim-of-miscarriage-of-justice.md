@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/01/25/barry-george-loses-his-appeal-for-compensation-after-high-court-of-justice-judges-decide-that-he-is-not-a-victim-of-miscarriage-of-justice.html)  [JSON](/news/2013/01/25/barry-george-loses-his-appeal-for-compensation-after-high-court-of-justice-judges-decide-that-he-is-not-a-victim-of-miscarriage-of-justice.json)  [XML](/news/2013/01/25/barry-george-loses-his-appeal-for-compensation-after-high-court-of-justice-judges-decide-that-he-is-not-a-victim-of-miscarriage-of-justice.xml)  
+
 ### [2013-01-25](/news/2013/01/25/index.md)
 
+##### Barry George
 # Barry George loses his appeal for compensation after High Court of Justice judges decide that he is not a victim of miscarriage of justice. 
 
 Barry George, who was wrongly convicted of the murder of BBC TV presenter Jill Dando, loses a High Court bid for compensation.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-21195269)
 2. [The Guardian](http://www.guardian.co.uk/uk/2013/jan/25/barry-george-jill-dando-compensation)
-3. [The Independent](http://www.independent.co.uk/news/uk/home-news/eight-years-in-prison-but-barry-george-is-refused-compensation-8467485.html)
+3. [The Independent](https://www.independent.co.uk/news/uk/home-news/eight-years-in-prison-but-barry-george-is-refused-compensation-8467485.html)
 3. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60327000/jpg/_60327759_005945125-1.jpg)
 
 ### Related:

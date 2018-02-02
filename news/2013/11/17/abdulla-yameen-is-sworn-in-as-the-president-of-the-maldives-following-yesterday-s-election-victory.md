@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/17/abdulla-yameen-is-sworn-in-as-the-president-of-the-maldives-following-yesterday-s-election-victory.html)  [JSON](/news/2013/11/17/abdulla-yameen-is-sworn-in-as-the-president-of-the-maldives-following-yesterday-s-election-victory.json)  [XML](/news/2013/11/17/abdulla-yameen-is-sworn-in-as-the-president-of-the-maldives-following-yesterday-s-election-victory.xml)  
+
 ### [2013-11-17](/news/2013/11/17/index.md)
 
+##### Abdulla Yameen
 # Abdulla Yameen is sworn in as the President of the Maldives following yesterday's election victory. 
 
 Abdulla Yameen is to be sworn in as president of the Maldives after a surprise win in the election run-off.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2013-11-17/an-yameen-defeats-former-president-nasheed-in-maldives-run-off-/5097280)
 1. [Cover Image](http://www.abc.net.au/news/image/5097530-1x1-700x700.jpg)

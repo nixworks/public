@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/16/the-president-of-pakistan-pervez-musharraf-has-evoked-outrage-by-suggesting-that-rape-victims-in-pakistan-are-part-of-a-money-making-con.html)  [JSON](/news/2005/09/16/the-president-of-pakistan-pervez-musharraf-has-evoked-outrage-by-suggesting-that-rape-victims-in-pakistan-are-part-of-a-money-making-con.json)  [XML](/news/2005/09/16/the-president-of-pakistan-pervez-musharraf-has-evoked-outrage-by-suggesting-that-rape-victims-in-pakistan-are-part-of-a-money-making-con.xml)  
+
 ### [2005-09-16](/news/2005/09/16/index.md)
 
+##### president
 #  The President of Pakistan, Pervez Musharraf, has evoked outrage by suggesting that rape victims in Pakistan are part of a "money making concern". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4251536.stm)
 

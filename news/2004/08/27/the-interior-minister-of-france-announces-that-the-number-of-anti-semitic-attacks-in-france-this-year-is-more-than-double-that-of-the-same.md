@@ -1,14 +1,17 @@
+
+Formats: [HTML](/news/2004/08/27/the-interior-minister-of-france-announces-that-the-number-of-anti-semitic-attacks-in-france-this-year-is-more-than-double-that-of-the-same.html)  [JSON](/news/2004/08/27/the-interior-minister-of-france-announces-that-the-number-of-anti-semitic-attacks-in-france-this-year-is-more-than-double-that-of-the-same.json)  [XML](/news/2004/08/27/the-interior-minister-of-france-announces-that-the-number-of-anti-semitic-attacks-in-france-this-year-is-more-than-double-that-of-the-same.xml)  
+
 ### [2004-08-27](/news/2004/08/27/index.md)
 
+##### anti-Semitic
 #  The Interior Minister of France announces that the number of anti-Semitic attacks in France this year is more than double that of the same period last year. 
 
-Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6090896&section=news)
-1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+### Sources:
+
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=6090896&section=news)
 
 ### Related:
 

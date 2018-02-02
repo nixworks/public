@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/07/21/in-puerto-rico-25-people-are-seriously-injured-after-a-roof-collapse-in-a-vega-alta-puerto-rico-mall-es-icon.html)  [JSON](/news/2003/07/21/in-puerto-rico-25-people-are-seriously-injured-after-a-roof-collapse-in-a-vega-alta-puerto-rico-mall-es-icon.json)  [XML](/news/2003/07/21/in-puerto-rico-25-people-are-seriously-injured-after-a-roof-collapse-in-a-vega-alta-puerto-rico-mall-es-icon.xml)  
+
 ### [2003-07-21](/news/2003/07/21/index.md)
 
+##### Puerto Rico
 #  In Puerto Rico, 25 people are seriously injured after a roof collapse in a Vega Alta, Puerto Rico mall. {{es icon}}
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/28/at-least-six-people-have-been-killed-and-several-are-missing-following-a-building-collapse-in-the-indian-city-of-thane.html)  [JSON](/news/2015/07/28/at-least-six-people-have-been-killed-and-several-are-missing-following-a-building-collapse-in-the-indian-city-of-thane.json)  [XML](/news/2015/07/28/at-least-six-people-have-been-killed-and-several-are-missing-following-a-building-collapse-in-the-indian-city-of-thane.xml)  
+
 ### [2015-07-28](/news/2015/07/28/index.md)
 
+##### India
 # At least six people have been killed and several are missing following a building collapse in the Indian city of Thane. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/07/29/asia/india-building-collapse/index.html?sr=cnnitw)
 

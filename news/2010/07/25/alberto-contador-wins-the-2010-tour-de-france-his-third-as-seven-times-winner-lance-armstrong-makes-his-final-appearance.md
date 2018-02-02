@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/25/alberto-contador-wins-the-2010-tour-de-france-his-third-as-seven-times-winner-lance-armstrong-makes-his-final-appearance.html)  [JSON](/news/2010/07/25/alberto-contador-wins-the-2010-tour-de-france-his-third-as-seven-times-winner-lance-armstrong-makes-his-final-appearance.json)  [XML](/news/2010/07/25/alberto-contador-wins-the-2010-tour-de-france-his-third-as-seven-times-winner-lance-armstrong-makes-his-final-appearance.xml)  
+
 ### [2010-07-25](/news/2010/07/25/index.md)
 
+##### Alberto Contador
 # Alberto Contador wins the 2010 Tour de France, his third, as seven-times winner Lance Armstrong makes his final appearance. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC Sport](http://news.bbc.co.uk/sport2/hi/other_sports/cycling/8852722.stm)
 

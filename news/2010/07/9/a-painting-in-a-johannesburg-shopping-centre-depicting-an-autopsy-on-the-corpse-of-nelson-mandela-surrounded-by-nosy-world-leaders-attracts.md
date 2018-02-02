@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/9/a-painting-in-a-johannesburg-shopping-centre-depicting-an-autopsy-on-the-corpse-of-nelson-mandela-surrounded-by-nosy-world-leaders-attracts.html)  [JSON](/news/2010/07/9/a-painting-in-a-johannesburg-shopping-centre-depicting-an-autopsy-on-the-corpse-of-nelson-mandela-surrounded-by-nosy-world-leaders-attracts.json)  [XML](/news/2010/07/9/a-painting-in-a-johannesburg-shopping-centre-depicting-an-autopsy-on-the-corpse-of-nelson-mandela-surrounded-by-nosy-world-leaders-attracts.xml)  
+
 ### [2010-07-9](/news/2010/07/9/index.md)
 
+##### Johannesburg
 # A painting in a Johannesburg shopping centre depicting an autopsy on the corpse of Nelson Mandela surrounded by nosy world leaders attracts controversy as the topic of Mandela's eventual death is taboo in South Africa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10567091.stm)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/19/barbados-issues-its-first-offshore-hydrocarbon-exploration-licenses-to-bhp-billiton.html)  [JSON](/news/2009/01/19/barbados-issues-its-first-offshore-hydrocarbon-exploration-licenses-to-bhp-billiton.json)  [XML](/news/2009/01/19/barbados-issues-its-first-offshore-hydrocarbon-exploration-licenses-to-bhp-billiton.xml)  
+
 ### [2009-01-19](/news/2009/01/19/index.md)
 
+##### Barbados
 #  Barbados issues its first offshore hydrocarbon-exploration licenses to BHP Billiton. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Caribbean News Net](http://www.caribbeannetnews.com/news-13615--26-26--.html)
 

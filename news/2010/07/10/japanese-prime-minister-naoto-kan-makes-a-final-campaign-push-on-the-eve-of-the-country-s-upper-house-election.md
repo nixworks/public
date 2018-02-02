@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/10/japanese-prime-minister-naoto-kan-makes-a-final-campaign-push-on-the-eve-of-the-country-s-upper-house-election.html)  [JSON](/news/2010/07/10/japanese-prime-minister-naoto-kan-makes-a-final-campaign-push-on-the-eve-of-the-country-s-upper-house-election.json)  [XML](/news/2010/07/10/japanese-prime-minister-naoto-kan-makes-a-final-campaign-push-on-the-eve-of-the-country-s-upper-house-election.xml)  
+
 ### [2010-07-10](/news/2010/07/10/index.md)
 
+##### Japan
 # Japanese Prime Minister Naoto Kan makes a final campaign push on the eve of the country's Upper House election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Channel NewsAsia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/1068652/1/.html)
 

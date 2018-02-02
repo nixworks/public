@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/05/28/the-wind-that-shakes-the-barley-a-film-by-british-director-ken-loach-is-awarded-the-palme-d-or-at-the-2006-cannes-film-festival.html)  [JSON](/news/2006/05/28/the-wind-that-shakes-the-barley-a-film-by-british-director-ken-loach-is-awarded-the-palme-d-or-at-the-2006-cannes-film-festival.json)  [XML](/news/2006/05/28/the-wind-that-shakes-the-barley-a-film-by-british-director-ken-loach-is-awarded-the-palme-d-or-at-the-2006-cannes-film-festival.xml)  
+
 ### [2006-05-28](/news/2006/05/28/index.md)
 
+##### The Wind That Shakes the Barley
 #  "The Wind That Shakes the Barley", a film by British director Ken Loach, is awarded the Palme d'Or at the 2006 Cannes Film Festival.
 
 

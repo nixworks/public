@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/01/6/the-us-senate-confirms-janet-yellen-as-the-new-chair-of-the-federal-reserve-yellen-will-be-the-first-woman-to-hold-this-post.html)  [JSON](/news/2014/01/6/the-us-senate-confirms-janet-yellen-as-the-new-chair-of-the-federal-reserve-yellen-will-be-the-first-woman-to-hold-this-post.json)  [XML](/news/2014/01/6/the-us-senate-confirms-janet-yellen-as-the-new-chair-of-the-federal-reserve-yellen-will-be-the-first-woman-to-hold-this-post.xml)  
+
 ### [2014-01-6](/news/2014/01/6/index.md)
 
+##### US Senate
 # The US Senate confirms Janet Yellen as the new chair of the Federal Reserve; Yellen will be the first woman to hold this post. 
 
 Central bank veteran will oversee shift out of crisis mode
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/business/economy/janet-yellen-confirmed-as-next-fed-chief/2014/01/06/14b38582-76f2-11e3-8963-b4b654bcc9b2_story.html)
+1. [Washington Post](https://www.washingtonpost.com/business/economy/janet-yellen-confirmed-as-next-fed-chief/2014/01/06/14b38582-76f2-11e3-8963-b4b654bcc9b2_story.html)
 
 ### Related:
 

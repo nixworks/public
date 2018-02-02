@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/12/27/indonesia-s-free-aceh-movement-formally-disbands-its-armed-wing-http-www-alertnet-org-thenews-newsdesk-l12350815-htm-reuters-link-d.html)  [JSON](/news/2005/12/27/indonesia-s-free-aceh-movement-formally-disbands-its-armed-wing-http-www-alertnet-org-thenews-newsdesk-l12350815-htm-reuters-link-d.json)  [XML](/news/2005/12/27/indonesia-s-free-aceh-movement-formally-disbands-its-armed-wing-http-www-alertnet-org-thenews-newsdesk-l12350815-htm-reuters-link-d.xml)  
+
 ### [2005-12-27](/news/2005/12/27/index.md)
 
+##### Indonesia
 #  Indonesia's Free Aceh Movement formally disbands its armed wing. [http:--www.alertnet.org-thenews-newsdesk-L12350815.htm (Reuters)] (Link dead as of 21:18, 14 January 2007 (UTC))
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/25/saudi-arabia-s-interior-ministry-says-five-bord
 
 ### [2016-07-25](/news/2016/07/25/index.md)
 
+##### Conflict in Najran
 # Saudi Arabia's Interior Ministry says five border guards have been killed following clashes with Houthi militants on the border with Yemen. 
 
 

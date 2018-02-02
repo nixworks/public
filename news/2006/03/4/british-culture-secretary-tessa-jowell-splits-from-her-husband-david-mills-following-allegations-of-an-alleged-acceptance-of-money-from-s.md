@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/4/british-culture-secretary-tessa-jowell-splits-from-her-husband-david-mills-following-allegations-of-an-alleged-acceptance-of-money-from-s.html)  [JSON](/news/2006/03/4/british-culture-secretary-tessa-jowell-splits-from-her-husband-david-mills-following-allegations-of-an-alleged-acceptance-of-money-from-s.json)  [XML](/news/2006/03/4/british-culture-secretary-tessa-jowell-splits-from-her-husband-david-mills-following-allegations-of-an-alleged-acceptance-of-money-from-s.xml)  
+
 ### [2006-03-4](/news/2006/03/4/index.md)
 
+##### Tessa Jowell
 #  British Culture Secretary Tessa Jowell splits from her husband, David Mills' following allegations of an alleged acceptance of money from Silvio Berlusconi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/4773468.stm)
 

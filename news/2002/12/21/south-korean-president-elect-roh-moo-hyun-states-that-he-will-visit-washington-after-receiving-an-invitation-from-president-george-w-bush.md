@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/21/south-korean-president-elect-roh-moo-hyun-states-that-he-will-visit-washington-after-receiving-an-invitation-from-president-george-w-bush.html)  [JSON](/news/2002/12/21/south-korean-president-elect-roh-moo-hyun-states-that-he-will-visit-washington-after-receiving-an-invitation-from-president-george-w-bush.json)  [XML](/news/2002/12/21/south-korean-president-elect-roh-moo-hyun-states-that-he-will-visit-washington-after-receiving-an-invitation-from-president-george-w-bush.xml)  
+
 ### [2002-12-21](/news/2002/12/21/index.md)
 
+##### Roh Moo-hyun
 # South Korean President-elect Roh Moo-hyun states that he will visit Washington after receiving an invitation from President George W. Bush. During his campaign, Roh stated he would not visit simply for a White House "photo op."
 
 

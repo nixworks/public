@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/24/around-50-000-people-are-evacuated-as-fires-rag
 
 ### [2016-11-24](/news/2016/11/24/index.md)
 
+##### November 2016 Israel wildfires
 # Around 50,000 people are evacuated as fires rage throughout the Israeli city of Haifa. The Minister of Public Security Gilad Erdan says at least half the fires are to due to arson. 
 
 Tens of thousands of people are evacuated as wildfires sweep into the Israeli city of Haifa.

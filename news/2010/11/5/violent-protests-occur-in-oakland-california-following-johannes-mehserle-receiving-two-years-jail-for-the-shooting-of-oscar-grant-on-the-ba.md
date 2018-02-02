@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2010/11/5/violent-protests-occur-in-oakland-california-following-johannes-mehserle-receiving-two-years-jail-for-the-shooting-of-oscar-grant-on-the-ba.html)  [JSON](/news/2010/11/5/violent-protests-occur-in-oakland-california-following-johannes-mehserle-receiving-two-years-jail-for-the-shooting-of-oscar-grant-on-the-ba.json)  [XML](/news/2010/11/5/violent-protests-occur-in-oakland-california-following-johannes-mehserle-receiving-two-years-jail-for-the-shooting-of-oscar-grant-on-the-ba.xml)  
+
 ### [2010-11-5](/news/2010/11/5/index.md)
 
+##### Oakland, California
 # Violent protests occur in Oakland, California following Johannes Mehserle receiving two years jail for the shooting of Oscar Grant on the Bay Area Rapid Transit system with Oakland police chief Anthony Batts expecting to make 150 arrests. 
 
 Protesters clashed with the police on Friday night after a white former transit police officer was given a two-year sentence for the killing an unarmed black man.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/CRIME/11/06/california.subway.shooting.sentencing/index.html)
-2. [New York Times](http://www.nytimes.com/2010/11/06/us/06transit.html?partner=rss&emc=rss)
+2. [New York Times](https://www.nytimes.com/2010/11/06/us/06transit.html?partner=rss&emc=rss)
 2. [Cover Image](https://static01.nyt.com/images/2010/11/06/us/06transit1_span/06transit1_span-thumbStandard.jpg)
 
 ### Related:

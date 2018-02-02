@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/06/5/royal-canadian-mounted-police-extend-a-national-manhunt-for-a-24-year-old-gunman-who-killed-3-police-officers-and-wounded-2-others-in-a-shoo.html)  [JSON](/news/2014/06/5/royal-canadian-mounted-police-extend-a-national-manhunt-for-a-24-year-old-gunman-who-killed-3-police-officers-and-wounded-2-others-in-a-shoo.json)  [XML](/news/2014/06/5/royal-canadian-mounted-police-extend-a-national-manhunt-for-a-24-year-old-gunman-who-killed-3-police-officers-and-wounded-2-others-in-a-shoo.xml)  
+
 ### [2014-06-5](/news/2014/06/5/index.md)
 
+##### Royal Canadian Mounted Police
 # Royal Canadian Mounted Police extend a national manhunt for a 24-year-old gunman who killed 3 police officers and wounded 2 others in a shootout in Moncton.
 
 Canadian police on Thursday mounted a massive hunt for a 24-year-old gunman they suspect shot dead three officers and wounded two more in the eastern city of Moncton.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/06/05/us-canada-shooting-idUSKBN0EG05T20140605)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20140605&t=2&i=903152402&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA540IQ)
+1. [Reuters](https://www.reuters.com/article/2014/06/05/us-canada-shooting-idUSKBN0EG05T20140605)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20140605&t=2&i=903152402&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA540IQ)
 
 ### Related:
 

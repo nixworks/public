@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/04/11/tom-hurndall-a-british-photojournalist-is-shot-in-the-head-by-an-israeli-sniper-in-rafah-gaza-strip.html)  [JSON](/news/2003/04/11/tom-hurndall-a-british-photojournalist-is-shot-in-the-head-by-an-israeli-sniper-in-rafah-gaza-strip.json)  [XML](/news/2003/04/11/tom-hurndall-a-british-photojournalist-is-shot-in-the-head-by-an-israeli-sniper-in-rafah-gaza-strip.xml)  
+
 ### [2003-04-11](/news/2003/04/11/index.md)
 
+##### Tom Hurndall
 #  Tom Hurndall, a British photojournalist is shot in the head by an Israeli sniper in Rafah, Gaza Strip.
 
 

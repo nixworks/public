@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/06/26/u-s-officials-meet-with-iraqi-insurgents-in-attempt-to-quell-attacks-more-than-30-are-killed-in-series-of-suicide-bombings-across-the-cou.html)  [JSON](/news/2005/06/26/u-s-officials-meet-with-iraqi-insurgents-in-attempt-to-quell-attacks-more-than-30-are-killed-in-series-of-suicide-bombings-across-the-cou.json)  [XML](/news/2005/06/26/u-s-officials-meet-with-iraqi-insurgents-in-attempt-to-quell-attacks-more-than-30-are-killed-in-series-of-suicide-bombings-across-the-cou.xml)  
+
 ### [2005-06-26](/news/2005/06/26/index.md)
 
+##### Iraqi insurgency
 #  U.S. officials meet with Iraqi insurgents in attempt to quell attacks. More than 30 are killed in series of suicide bombings across the country. 
 
 News and opinion from The Times &amp; The Sunday Times
 
 
-### Source:
+### Sources:
 
-1. [NY Times](http://www.nytimes.com/aponline/international/AP-Iraq.html?hp&ex=1119844800&en=bc917a0c5d15385a&ei=5094&partner=homepage)
+1. [NY Times](https://www.nytimes.com/aponline/international/AP-Iraq.html?hp&ex=1119844800&en=bc917a0c5d15385a&ei=5094&partner=homepage)
 2. [The Times](http://www.timesonline.co.uk/article/0,,2089-1669601,00.html)
 2. [Cover Image](/d/778/img/dual-masthead-placeholder-16x9.png)
 

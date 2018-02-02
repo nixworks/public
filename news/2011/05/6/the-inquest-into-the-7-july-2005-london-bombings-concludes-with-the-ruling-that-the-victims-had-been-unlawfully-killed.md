@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/6/the-inquest-into-the-7-july-2005-london-bombings-concludes-with-the-ruling-that-the-victims-had-been-unlawfully-killed.html)  [JSON](/news/2011/05/6/the-inquest-into-the-7-july-2005-london-bombings-concludes-with-the-ruling-that-the-victims-had-been-unlawfully-killed.json)  [XML](/news/2011/05/6/the-inquest-into-the-7-july-2005-london-bombings-concludes-with-the-ruling-that-the-victims-had-been-unlawfully-killed.xml)  
+
 ### [2011-05-6](/news/2011/05/6/index.md)
 
+##### 7 July
 # The inquest into the 7 July 2005 London bombings concludes with the ruling that the victims had been unlawfully killed. 
 
 Delays in the response to the 7/7 bombings did not cause any deaths, a coroner concludes, but there is some criticism for MI5 and the emergency services.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13308371)
 2. [CNN](http://www.cnn.com/2011/WORLD/europe/05/06/uk.terror.verdict/index.html)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/20/portland-trail-blazers-players-golden-state-warriors-players-and-warriors-fans-get-involved-in-a-melee-after-the-trail-blazers-beat-the-wa.html)  [JSON](/news/2002/12/20/portland-trail-blazers-players-golden-state-warriors-players-and-warriors-fans-get-involved-in-a-melee-after-the-trail-blazers-beat-the-wa.json)  [XML](/news/2002/12/20/portland-trail-blazers-players-golden-state-warriors-players-and-warriors-fans-get-involved-in-a-melee-after-the-trail-blazers-beat-the-wa.xml)  
+
 ### [2002-12-20](/news/2002/12/20/index.md)
 
+##### Portland Trail Blazers
 # Portland Trail Blazers players, Golden State Warriors players and Warriors' fans get involved in a melee after the Trail Blazers beat the Warriors, 113-111 in Oakland. It might be the first time in NBA history that a home team's fans attack the visiting team during or after a game.
 
 

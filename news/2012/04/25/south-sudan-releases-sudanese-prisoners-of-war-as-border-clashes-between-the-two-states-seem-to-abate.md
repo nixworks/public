@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/04/25/south-sudan-releases-sudanese-prisoners-of-war-as-border-clashes-between-the-two-states-seem-to-abate.html)  [JSON](/news/2012/04/25/south-sudan-releases-sudanese-prisoners-of-war-as-border-clashes-between-the-two-states-seem-to-abate.json)  [XML](/news/2012/04/25/south-sudan-releases-sudanese-prisoners-of-war-as-border-clashes-between-the-two-states-seem-to-abate.xml)  
+
 ### [2012-04-25](/news/2012/04/25/index.md)
 
+##### South Sudan
 # South Sudan releases Sudanese prisoners of war as border clashes between the two states seem to abate. 
 
 South Sudan freed prisoners of war on Wednesday as clashes appeared to abate between north and south, after cross-border fighting that threatened to tip into all-out war.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/04/25/us-sudan-south-conflict-idUSBRE83O1BA20120425?feedType=RSS&feedName=worldNews)
+1. [Reuters](https://www.reuters.com/article/2012/04/25/us-sudan-south-conflict-idUSBRE83O1BA20120425?feedType=RSS&feedName=worldNews)
 1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120425&t=2&i=599337084&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE83O1R1V00)
 
 ### Related:

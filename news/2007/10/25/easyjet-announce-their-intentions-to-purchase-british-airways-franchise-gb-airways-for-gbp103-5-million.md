@@ -1,9 +1,18 @@
+
+Formats: [HTML](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-british-airways-franchise-gb-airways-for-gbp103-5-million.html)  [JSON](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-british-airways-franchise-gb-airways-for-gbp103-5-million.json)  [XML](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-british-airways-franchise-gb-airways-for-gbp103-5-million.xml)  
+
 ### [2007-10-25](/news/2007/10/25/index.md)
 
+##### EasyJet
 #  EasyJet announce their intentions to purchase British Airways franchise GB Airways for GBP103.5 million
 
 
 
+
+### Changes:
+
+1. [ EasyJet announce their intentions to purchase British Airways franchise GB Airways for 103.5 million](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-british-airways-franchise-gb-airways-for-ps103-5-million.md) _2017-08-25 03:21:16 (First version)_
+1. [ EasyJet announce their intentions to purchase British Airways franchise GB Airways for GBP103.5 million](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-british-airways-franchise-gb-airways-for-gbp103-5-million.md) _(Current version)_
 
 ### Related:
 
@@ -12,8 +21,3 @@
 3. [A 35-year-old Australian man tries to headbutt a pilot over the Atlantic Ocean, causing the diversion of a British Airways transatlantic flight from New York's JFK airport to London City Airport. ](/news/2012/12/19/a-35-year-old-australian-man-tries-to-headbutt-a-pilot-over-the-atlantic-ocean-causing-the-diversion-of-a-british-airways-transatlantic-fli.md) _Context: British Airways_
 4. [The British Government sells the Northern Rock bank &ndash; which was nationalised in 2008 &ndash; to Virgin Money for GBP747m. ](/news/2011/11/17/the-british-government-sells-the-northern-rock-bank-ndash-which-was-nationalised-in-2008-ndash-to-virgin-money-for-agbp747m.md) _Context: GBP_
 5. [Former British Airways software engineer Rajib Karim, of Newcastle upon Tyne, United Kingdom is jailed for 30 years for plotting to blow up a plane. ](/news/2011/03/18/former-british-airways-software-engineer-rajib-karim-of-newcastle-upon-tyne-united-kingdom-is-jailed-for-30-years-for-plotting-to-blow-up.md) _Context: British Airways_
-
-### Changes:
-
-1. [ EasyJet announce their intentions to purchase British Airways franchise GB Airways for 103.5 million](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-british-airways-franchise-gb-airways-for-ps103-5-million.md) _2017-08-25 03:21:16 (First version)_
-1. [ EasyJet announce their intentions to purchase British Airways franchise GB Airways for GBP103.5 million](/news/2007/10/25/easyjet-announce-their-intentions-to-purchase-british-airways-franchise-gb-airways-for-gbp103-5-million.md) _(Current version)_

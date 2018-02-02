@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/7/voters-in-east-timor-go-to-the-polls-for-a-parliamentary-election.html)  [JSON](/news/2012/07/7/voters-in-east-timor-go-to-the-polls-for-a-parliamentary-election.json)  [XML](/news/2012/07/7/voters-in-east-timor-go-to-the-polls-for-a-parliamentary-election.xml)  
+
 ### [2012-07-7](/news/2012/07/7/index.md)
 
+##### East Timor
 # Voters in East Timor go to the polls for a parliamentary election. 
 
 Early results in East Timor&#039;s parliamentary election indicate Xanana Gusmao&#039;s party is likely to win government.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/2012-07-06/an-east-timorese-return-home-ahead-of-vote/4114932)
 1. [Cover Image](http://www.abc.net.au/news/image/4115010-1x1-700x700.jpg)

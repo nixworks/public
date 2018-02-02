@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/11/a-fire-sweeps-through-a-complex-containing-housing-for-foreign-workers-in-manama-bahrain-leaving-13-foreign-nationals-dead.html)  [JSON](/news/2013/01/11/a-fire-sweeps-through-a-complex-containing-housing-for-foreign-workers-in-manama-bahrain-leaving-13-foreign-nationals-dead.json)  [XML](/news/2013/01/11/a-fire-sweeps-through-a-complex-containing-housing-for-foreign-workers-in-manama-bahrain-leaving-13-foreign-nationals-dead.xml)  
+
 ### [2013-01-11](/news/2013/01/11/index.md)
 
+##### fire
 # A fire sweeps through a complex containing housing for foreign workers in Manama, Bahrain, leaving 13 foreign nationals dead. 
 
 A fire at a building housing workers in the Bahraini capital Manama kills 13 people, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-20996229)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/65240000/gif/_65240138_bahrain_manama_0211.gif)

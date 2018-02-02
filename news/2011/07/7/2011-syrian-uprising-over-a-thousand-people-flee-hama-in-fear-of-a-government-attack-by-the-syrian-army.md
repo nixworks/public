@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/7/2011-syrian-uprising-over-a-thousand-people-flee-hama-in-fear-of-a-government-attack-by-the-syrian-army.html)  [JSON](/news/2011/07/7/2011-syrian-uprising-over-a-thousand-people-flee-hama-in-fear-of-a-government-attack-by-the-syrian-army.json)  [XML](/news/2011/07/7/2011-syrian-uprising-over-a-thousand-people-flee-hama-in-fear-of-a-government-attack-by-the-syrian-army.xml)  
+
 ### [2011-07-7](/news/2011/07/7/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Over a thousand people flee Hama in fear of a government attack by the Syrian Army. 
 
 About 1,000 people have fled the city fearing another crackdown on protests, rights group says.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/20117711451884870.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/7/5/201175145256723734_20.jpg)

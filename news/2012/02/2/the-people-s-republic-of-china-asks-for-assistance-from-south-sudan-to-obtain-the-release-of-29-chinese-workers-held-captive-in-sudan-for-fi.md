@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/02/2/the-people-s-republic-of-china-asks-for-assistance-from-south-sudan-to-obtain-the-release-of-29-chinese-workers-held-captive-in-sudan-for-fi.html)  [JSON](/news/2012/02/2/the-people-s-republic-of-china-asks-for-assistance-from-south-sudan-to-obtain-the-release-of-29-chinese-workers-held-captive-in-sudan-for-fi.json)  [XML](/news/2012/02/2/the-people-s-republic-of-china-asks-for-assistance-from-south-sudan-to-obtain-the-release-of-29-chinese-workers-held-captive-in-sudan-for-fi.xml)  
+
 ### [2012-02-2](/news/2012/02/2/index.md)
 
+##### China
 # The People's Republic of China asks for assistance from South Sudan to obtain the release of 29 Chinese workers held captive in Sudan for five days. 
 
 China will press South Sudan for help in securing the release of 29 Chinese workers held captive for five days and may appeal to the African Union and other parties to mediate in negotiations, state media reported on Thursday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/02/02/us-china-sudan-workers-idUSTRE81108G20120202)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/02/02/us-china-sudan-workers-idUSTRE81108G20120202)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

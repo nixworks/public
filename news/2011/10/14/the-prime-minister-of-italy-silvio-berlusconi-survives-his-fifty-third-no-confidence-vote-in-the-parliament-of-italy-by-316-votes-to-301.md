@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/10/14/the-prime-minister-of-italy-silvio-berlusconi-survives-his-fifty-third-no-confidence-vote-in-the-parliament-of-italy-by-316-votes-to-301.html)  [JSON](/news/2011/10/14/the-prime-minister-of-italy-silvio-berlusconi-survives-his-fifty-third-no-confidence-vote-in-the-parliament-of-italy-by-316-votes-to-301.json)  [XML](/news/2011/10/14/the-prime-minister-of-italy-silvio-berlusconi-survives-his-fifty-third-no-confidence-vote-in-the-parliament-of-italy-by-316-votes-to-301.xml)  
+
 ### [2011-10-14](/news/2011/10/14/index.md)
 
+##### Italian Prime Minister
 # The Prime Minister of Italy, Silvio Berlusconi, survives his fifty-third no-confidence vote in the Parliament of Italy by 316 votes to 301. 
 
 The prime minister’s center-right coalition failed to secure a solid majority, making it increasingly difficult for him to pass legislation.
 
 
-### Source:
+### Sources:
 
 1. [International Business Times](http://uk.ibtimes.com/articles/231297/20111014/berlusconi-confidence-vote-win-bunga-bunga-parliament.htm)
-2. [New York Times](http://www.nytimes.com/2011/10/15/world/europe/berlusconi-holds-onto-power-in-italy-but-barely.html)
+2. [New York Times](https://www.nytimes.com/2011/10/15/world/europe/berlusconi-holds-onto-power-in-italy-but-barely.html)
 2. [Cover Image](https://static01.nyt.com/images/2011/10/15/world/15italy-span/15italy-span-thumbStandard.jpg)
 
 ### Related:

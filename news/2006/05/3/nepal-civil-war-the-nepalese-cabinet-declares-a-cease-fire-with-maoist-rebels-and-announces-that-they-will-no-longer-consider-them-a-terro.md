@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/3/nepal-civil-war-the-nepalese-cabinet-declares-a-cease-fire-with-maoist-rebels-and-announces-that-they-will-no-longer-consider-them-a-terro.html)  [JSON](/news/2006/05/3/nepal-civil-war-the-nepalese-cabinet-declares-a-cease-fire-with-maoist-rebels-and-announces-that-they-will-no-longer-consider-them-a-terro.json)  [XML](/news/2006/05/3/nepal-civil-war-the-nepalese-cabinet-declares-a-cease-fire-with-maoist-rebels-and-announces-that-they-will-no-longer-consider-them-a-terro.xml)  
+
 ### [2006-05-3](/news/2006/05/3/index.md)
 
+##### Nepal Civil War
 #  Nepal Civil War: The Nepalese cabinet declares a cease-fire with Maoist rebels and announces that they will no longer consider them a terrorist group. The government urges the rebels to open peace talks. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/4969422.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyid=2006-05-03T153837Z_01_DEL94940_RTRUKOC_0_US-NEPAL.xml)

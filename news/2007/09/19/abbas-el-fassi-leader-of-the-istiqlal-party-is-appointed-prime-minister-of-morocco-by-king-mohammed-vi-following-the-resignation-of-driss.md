@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/09/19/abbas-el-fassi-leader-of-the-istiqlal-party-is-appointed-prime-minister-of-morocco-by-king-mohammed-vi-following-the-resignation-of-driss.html)  [JSON](/news/2007/09/19/abbas-el-fassi-leader-of-the-istiqlal-party-is-appointed-prime-minister-of-morocco-by-king-mohammed-vi-following-the-resignation-of-driss.json)  [XML](/news/2007/09/19/abbas-el-fassi-leader-of-the-istiqlal-party-is-appointed-prime-minister-of-morocco-by-king-mohammed-vi-following-the-resignation-of-driss.xml)  
+
 ### [2007-09-19](/news/2007/09/19/index.md)
 
+##### Abbas El Fassi
 #  Abbas El Fassi, leader of the Istiqlal Party, is appointed Prime Minister of Morocco by King Mohammed VI following the resignation of Driss Jettou and his cabinet.
 
 

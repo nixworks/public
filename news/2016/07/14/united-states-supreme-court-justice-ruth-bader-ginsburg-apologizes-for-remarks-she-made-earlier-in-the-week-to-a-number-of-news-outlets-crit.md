@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/14/united-states-supreme-court-justice-ruth-bader-
 
 ### [2016-07-14](/news/2016/07/14/index.md)
 
+##### United States Supreme Court
 # United States Supreme Court Justice Ruth Bader Ginsburg apologizes for remarks she made earlier in the week to a number of news outlets criticizing presumptive Republican presidential nominee Donald Trump. 
 
 
@@ -15,7 +16,7 @@ Formats: [HTML](/news/2016/07/14/united-states-supreme-court-justice-ruth-bader-
 ### Related:
 
 1. [United States Supreme Court associate justice Ruth Bader Ginsburg turns down a stay to block the December 9 American Airlines-US Airways merger. ](/news/2013/12/7/united-states-supreme-court-associate-justice-ruth-bader-ginsburg-turns-down-a-stay-to-block-the-december-9-american-airlines-us-airways-mer.md) _Context: Ruth Bader Ginsburg, United States Supreme Court_
-2. [Michael Flynn, former U.S. National Security Advisor to President Donald Trump, pleads guilty to one count of making a false statement to the FBI about his contacts with Russian officials. It is also announced that Flynn will cooperate with Robert Mueller's Special Counsel investigation. ](/news/2017/12/1/michael-flynn-former-u-s-national-security-advisor-to-president-donald-trump-pleads-guilty-to-one-count-of-making-a-false-statement-to-th.md) _Context: Donald Trump_
-3. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: Donald Trump_
-4. [U.S. President Donald Trump visits Japan amidst the 2017 North Korea crisis. ](/news/2017/11/6/u-s-president-donald-trump-visits-japan-amidst-the-2017-north-korea-crisis.md) _Context: Donald Trump_
-5. [Refuse Fascism holds protests against U.S. President Donald Trump in several major cities, including New York City, Chicago, and San Francisco. ](/news/2017/11/4/refuse-fascism-holds-protests-against-u-s-president-donald-trump-in-several-major-cities-including-new-york-city-chicago-and-san-francis.md) _Context: Donald Trump_
+2. [Steve Bannon steps down as executive chairman of Breitbart News amid a dispute with U.S. President Donald Trump over comments he made about the Trump family in Michael Wolff's "Fire and Fury". ](/news/2018/01/9/steve-bannon-steps-down-as-executive-chairman-of-breitbart-news-amid-a-dispute-with-u-s-president-donald-trump-over-comments-he-made-about.md) _Context: Donald Trump_
+3. [Twitter, in response to criticism over its handling of U.S. President Donald Trump's account, says it will not block world leaders or remove their controversial tweets. ](/news/2018/01/5/twitter-in-response-to-criticism-over-its-handling-of-u-s-president-donald-trump-s-account-says-it-will-not-block-world-leaders-or-remove.md) _Context: Donald Trump_
+4. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _Context: Donald Trump_
+5. [U.S. President Donald Trump dissolves the voter fraud commission noting the cost to the public of litigating against lawsuits from states objecting to the voter information requested. ](/news/2018/01/3/u-s-president-donald-trump-dissolves-the-voter-fraud-commission-noting-the-cost-to-the-public-of-litigating-against-lawsuits-from-states-ob.md) _Context: Donald Trump_

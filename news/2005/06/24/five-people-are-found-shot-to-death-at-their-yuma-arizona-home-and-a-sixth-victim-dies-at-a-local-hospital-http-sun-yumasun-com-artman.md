@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/24/five-people-are-found-shot-to-death-at-their-yuma-arizona-home-and-a-sixth-victim-dies-at-a-local-hospital-http-sun-yumasun-com-artman.html)  [JSON](/news/2005/06/24/five-people-are-found-shot-to-death-at-their-yuma-arizona-home-and-a-sixth-victim-dies-at-a-local-hospital-http-sun-yumasun-com-artman.json)  [XML](/news/2005/06/24/five-people-are-found-shot-to-death-at-their-yuma-arizona-home-and-a-sixth-victim-dies-at-a-local-hospital-http-sun-yumasun-com-artman.xml)  
+
 ### [2005-06-24](/news/2005/06/24/index.md)
 
+##### Yuma, Arizona
 #  Five people are found shot to death at their Yuma, Arizona home, and a sixth victim dies at a local hospital [http:--sun.yumasun.com-artman-publish-articles-story_17491.php-(Yumasun)]
 
 

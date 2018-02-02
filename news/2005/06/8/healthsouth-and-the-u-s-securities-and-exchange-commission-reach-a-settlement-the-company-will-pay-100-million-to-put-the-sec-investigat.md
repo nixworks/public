@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/06/8/healthsouth-and-the-u-s-securities-and-exchange-commission-reach-a-settlement-the-company-will-pay-100-million-to-put-the-sec-investigat.html)  [JSON](/news/2005/06/8/healthsouth-and-the-u-s-securities-and-exchange-commission-reach-a-settlement-the-company-will-pay-100-million-to-put-the-sec-investigat.json)  [XML](/news/2005/06/8/healthsouth-and-the-u-s-securities-and-exchange-commission-reach-a-settlement-the-company-will-pay-100-million-to-put-the-sec-investigat.xml)  
+
 ### [2005-06-8](/news/2005/06/8/index.md)
 
+##### HealthSouth
 #  HealthSouth and the U.S. Securities and Exchange Commission reach a settlement. The company will pay $100 million to put the SEC investigation behind it.
 
 

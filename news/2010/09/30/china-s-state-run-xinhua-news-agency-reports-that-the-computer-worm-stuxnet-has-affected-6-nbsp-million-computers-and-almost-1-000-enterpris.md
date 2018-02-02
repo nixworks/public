@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/30/china-s-state-run-xinhua-news-agency-reports-that-the-computer-worm-stuxnet-has-affected-6-nbsp-million-computers-and-almost-1-000-enterpris.html)  [JSON](/news/2010/09/30/china-s-state-run-xinhua-news-agency-reports-that-the-computer-worm-stuxnet-has-affected-6-nbsp-million-computers-and-almost-1-000-enterpris.json)  [XML](/news/2010/09/30/china-s-state-run-xinhua-news-agency-reports-that-the-computer-worm-stuxnet-has-affected-6-nbsp-million-computers-and-almost-1-000-enterpris.xml)  
+
 ### [2010-09-30](/news/2010/09/30/index.md)
 
+##### Xinhua
 # China's state-run Xinhua News Agency reports that the computer worm Stuxnet has affected 6&nbsp;million computers and almost 1,000 enterprises in the country. 
 
 The Stuxnet computer worm has wreaked havoc in China, infecting millions of computers around the country, state media reported this week.
 
 
-### Source:
+### Sources:
 
 1. [Economic Times](http://economictimes.indiatimes.com/infotech/internet/Worlds-first-cyber-superweapon-attacks-China/articleshow/6658468.cms)
 2. [Wall Street Journal](http://online.wsj.com/article/BT-CO-20100929-716857.html)

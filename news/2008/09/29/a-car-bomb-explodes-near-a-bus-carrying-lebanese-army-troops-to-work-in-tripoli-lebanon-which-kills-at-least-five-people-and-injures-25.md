@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/29/a-car-bomb-explodes-near-a-bus-carrying-lebanese-army-troops-to-work-in-tripoli-lebanon-which-kills-at-least-five-people-and-injures-25.html)  [JSON](/news/2008/09/29/a-car-bomb-explodes-near-a-bus-carrying-lebanese-army-troops-to-work-in-tripoli-lebanon-which-kills-at-least-five-people-and-injures-25.json)  [XML](/news/2008/09/29/a-car-bomb-explodes-near-a-bus-carrying-lebanese-army-troops-to-work-in-tripoli-lebanon-which-kills-at-least-five-people-and-injures-25.xml)  
+
 ### [2008-09-29](/news/2008/09/29/index.md)
 
+##### car bomb
 #  A car bomb explodes near a bus carrying Lebanese Army troops to work in Tripoli, Lebanon, which kills at least five people and injures 25. 
 
 A car bomb exploded near a military bus carrying troops going to work in northern Lebanon, killing at least five people and injuring 25 others, Lebanese security officials said.
 
 
-### Source:
+### Sources:
 
 1. [AP via Fox News](http://www.foxnews.com/story/0,2933,429465,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/28/tropical-storm-isaac-is-upgraded-to-a-category-1-hurricane-as-the-storm-makes-landfall-along-the-gulf-coast-in-louisiana.html)  [JSON](/news/2012/08/28/tropical-storm-isaac-is-upgraded-to-a-category-1-hurricane-as-the-storm-makes-landfall-along-the-gulf-coast-in-louisiana.json)  [XML](/news/2012/08/28/tropical-storm-isaac-is-upgraded-to-a-category-1-hurricane-as-the-storm-makes-landfall-along-the-gulf-coast-in-louisiana.xml)  
+
 ### [2012-08-28](/news/2012/08/28/index.md)
 
+##### Hurricane Isaac
 # Tropical Storm Isaac is upgraded to a category 1 hurricane as the storm makes landfall along the Gulf Coast in Louisiana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://news.blogs.cnn.com/2012/08/28/isaac-nearing-hurricane-strength/?hpt=hp_t1)
 

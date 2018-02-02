@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/1/guinea-bissau-s-chief-of-staff-and-prime-minister-carlos-domingos-gomes-jaonior-are-seized-as-national-radio-broadcasts-are-replaced-by-m.html)  [JSON](/news/2010/04/1/guinea-bissau-s-chief-of-staff-and-prime-minister-carlos-domingos-gomes-jaonior-are-seized-as-national-radio-broadcasts-are-replaced-by-m.json)  [XML](/news/2010/04/1/guinea-bissau-s-chief-of-staff-and-prime-minister-carlos-domingos-gomes-jaonior-are-seized-as-national-radio-broadcasts-are-replaced-by-m.xml)  
+
 ### [2010-04-1](/news/2010/04/1/index.md)
 
+##### Guinea-Bissau
 #  Guinea-Bissau's chief of staff and Prime Minister Carlos Domingos Gomes Junior are "seized" as national radio broadcasts are replaced by military music. 
 
 Guinea&#x20;Bissau&#x20;Prime&#x20;Minister&#x20;Carlos&#x20;Gomes&#x20;Junior&#x20;was&#x20;arrested&#x20;Thursday&#x20;by&#x20;a&#x20;group&#x20;of&#x20;soldiers&#x20;while&#x20;military&#x20;music&#x20;interrupted&#x20;the&#x20;usual&#x20;broadcasts&#x20;on&#x20;national&#x20;radio.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/20104112510170361.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8599070.stm)

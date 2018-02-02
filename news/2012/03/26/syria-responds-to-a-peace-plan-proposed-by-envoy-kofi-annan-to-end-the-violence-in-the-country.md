@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/26/syria-responds-to-a-peace-plan-proposed-by-envoy-kofi-annan-to-end-the-violence-in-the-country.html)  [JSON](/news/2012/03/26/syria-responds-to-a-peace-plan-proposed-by-envoy-kofi-annan-to-end-the-violence-in-the-country.json)  [XML](/news/2012/03/26/syria-responds-to-a-peace-plan-proposed-by-envoy-kofi-annan-to-end-the-violence-in-the-country.xml)  
+
 ### [2012-03-26](/news/2012/03/26/index.md)
 
+##### Syria
 # Syria responds to a peace plan proposed by envoy Kofi Annan to end the violence in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/news/world/syria-responds-to-annan-peace-plan-1.1264214)
 
@@ -15,4 +19,4 @@
 2. [At least 40 people are reported killed across Syria ahead of the Tuesday deadline for Syrian armed forces to withdraw from cities, as part of a peace plan brokered by U.N.-Arab League special envoy Kofi Annan. ](/news/2012/04/8/at-least-40-people-are-reported-killed-across-syria-ahead-of-the-tuesday-deadline-for-syrian-armed-forces-to-withdraw-from-cities-as-part-o.md) _Context: Kofi Annan, Syria_
 3. [Syrian uprising: United Nations envoy Kofi Annan describes the situation in Syria as bleak, raising concerns about reports indicating that Syrian Army forces are conducting operations against opponents. ](/news/2012/04/25/syrian-uprising-united-nations-envoy-kofi-annan-describes-the-situation-in-syria-as-bleak-raising-concerns-about-reports-indicating-that-s.md) _Context: Kofi Annan, Syria_
 4. [Kofi Annan and a special UN peace envoy meet with President of Russia Dmitry Medvedev to discuss adopting a harder stance on Syria and Bashar al-Assad. ](/news/2012/03/25/kofi-annan-and-a-special-un-peace-envoy-meet-with-president-of-russia-dmitry-medvedev-to-discuss-adopting-a-harder-stance-on-syria-and-basha.md) _Context: Kofi Annan, Syria_
-5. [The Israeli Air Force (IAF) destroys a Syrian S-200 anti-aircraft battery near Damascus after it fired on its aircraft patrolling in Lebanese air space on a reconnaissance mission. ](/news/2017/10/16/the-israeli-air-force-iaf-destroys-a-syrian-s-200-anti-aircraft-battery-near-damascus-after-it-fired-on-its-aircraft-patrolling-in-lebanes.md) _Context: Syria_
+5. [An explosion at the headquarters of the Chechen-led Ajnad al-Kavkaz rebel group in Idlib, Syria, kills at least 23 people, while several people remain unaccounted for, according to the Syrian Observatory for Human Rights. ](/news/2018/01/7/an-explosion-at-the-headquarters-of-the-chechen-led-ajnad-al-kavkaz-rebel-group-in-idlib-syria-kills-at-least-23-people-while-several-peo.md) _Context: Syria_

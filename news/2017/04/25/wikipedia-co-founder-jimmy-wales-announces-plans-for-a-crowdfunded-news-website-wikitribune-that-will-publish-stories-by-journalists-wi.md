@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/25/wikipedia-co-founder-jimmy-wales-announces-plan
 
 ### [2017-04-25](/news/2017/04/25/index.md)
 
+##### Jimmy Wales
 # Wikipedia co-founder Jimmy Wales announces plans for a crowdfunded news website, "Wikitribune", that will publish stories by journalists, with contributions, including fact checking, by volunteers to, among other goals, counter the recent spread of so-called "fake news". 
 
 Jimmy Wales said the new platform, Wikitribune, would be free to read and carry no advertising, instead relying on supporters to fund it.

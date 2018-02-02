@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/10/the-prime-minister-of-ukraine-arseniy-yatsenyuk
 
 ### [2016-04-10](/news/2016/04/10/index.md)
 
+##### Prime Minister of Ukraine
 # The Prime Minister of Ukraine Arseniy Yatsenyuk resigns from office in a televised address. Yatsenyuk said his resignation is to be immediately followed by the formation of a new government. Volodymyr Groysman has taken role as Acting Prime Minister. 
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/02/19/nadezhda-tolokonnikova-and-maria-alyokhina-former-members-of-pussy-riot-are-arrested-and-subsequently-released-after-protesting-during-the.html)  [JSON](/news/2014/02/19/nadezhda-tolokonnikova-and-maria-alyokhina-former-members-of-pussy-riot-are-arrested-and-subsequently-released-after-protesting-during-the.json)  [XML](/news/2014/02/19/nadezhda-tolokonnikova-and-maria-alyokhina-former-members-of-pussy-riot-are-arrested-and-subsequently-released-after-protesting-during-the.xml)  
+
 ### [2014-02-19](/news/2014/02/19/index.md)
 
+##### Nadezhda Tolokonnikova
 # Nadezhda Tolokonnikova and Maria Alyokhina, former members of Pussy Riot, are arrested and subsequently released after protesting during the 2014 Winter Olympics in Sochi. 
 
-Russian human rights activist says 2 members of band have been detained, accused of theft.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/sports/olympics/sochi/2014/02/18/pussy-riot-band-members-detained-sochi-winter-olympics/5573207/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/sports/olympics/sochi/2014/02/18/pussy-riot-band-members-detained-sochi-winter-olympics/5573207/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

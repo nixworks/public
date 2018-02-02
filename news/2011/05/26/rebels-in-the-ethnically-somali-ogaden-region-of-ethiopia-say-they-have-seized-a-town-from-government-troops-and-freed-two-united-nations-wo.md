@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/26/rebels-in-the-ethnically-somali-ogaden-region-of-ethiopia-say-they-have-seized-a-town-from-government-troops-and-freed-two-united-nations-wo.html)  [JSON](/news/2011/05/26/rebels-in-the-ethnically-somali-ogaden-region-of-ethiopia-say-they-have-seized-a-town-from-government-troops-and-freed-two-united-nations-wo.json)  [XML](/news/2011/05/26/rebels-in-the-ethnically-somali-ogaden-region-of-ethiopia-say-they-have-seized-a-town-from-government-troops-and-freed-two-united-nations-wo.xml)  
+
 ### [2011-05-26](/news/2011/05/26/index.md)
 
+##### Somali
 # Rebels in the ethnically Somali Ogaden region of Ethiopia say they have seized a town from government troops and freed two United Nations workers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE74P0ON20110526?sp=true)
 

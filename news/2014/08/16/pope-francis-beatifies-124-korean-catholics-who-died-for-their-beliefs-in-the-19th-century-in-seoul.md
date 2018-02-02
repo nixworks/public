@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2014/08/16/pope-francis-beatifies-124-korean-catholics-who-died-for-their-beliefs-in-the-19th-century-in-seoul.html)  [JSON](/news/2014/08/16/pope-francis-beatifies-124-korean-catholics-who-died-for-their-beliefs-in-the-19th-century-in-seoul.json)  [XML](/news/2014/08/16/pope-francis-beatifies-124-korean-catholics-who-died-for-their-beliefs-in-the-19th-century-in-seoul.xml)  
+
 ### [2014-08-16](/news/2014/08/16/index.md)
 
+##### Pope Francis
 # Pope Francis beatifies 124 Korean Catholics who died for their beliefs in the 19th century in Seoul. 
 
+Hundreds of thousands cheered the pope in downtown Seoul, but not everyone has welcomed him to a country where the church has vied for followers with Protestant groups.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2014/08/17/world/asia/huge-crowds-watch-in-seoul-as-pope-francis-beatifies-korean-catholics.html?partner=rss&emc=rss)
+1. [New York Times](https://www.nytimes.com/2014/08/17/world/asia/huge-crowds-watch-in-seoul-as-pope-francis-beatifies-korean-catholics.html?partner=rss&emc=rss)
+1. [Cover Image](https://static01.nyt.com/images/2014/08/17/world/20140817-KOREA-slide-MKBE/20140817-KOREA-slide-MKBE-videoSixteenByNine1050-v2.jpg)
 
 ### Related:
 

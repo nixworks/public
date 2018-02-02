@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/19/snow-white-and-the-madness-of-truth-displayed-at-a-stockholm-museum-is-again-vandalized-a-russian-jewish-artist-floats-another-image-in.html)  [JSON](/news/2004/01/19/snow-white-and-the-madness-of-truth-displayed-at-a-stockholm-museum-is-again-vandalized-a-russian-jewish-artist-floats-another-image-in.json)  [XML](/news/2004/01/19/snow-white-and-the-madness-of-truth-displayed-at-a-stockholm-museum-is-again-vandalized-a-russian-jewish-artist-floats-another-image-in.xml)  
+
 ### [2004-01-19](/news/2004/01/19/index.md)
 
+##### Snow White and The Madness of Truth
 #  "Snow White and The Madness of Truth" displayed at a Stockholm museum is again vandalized. A Russian-Jewish artist floats another image in the pool, that of Mijailo Mijailovic, the murderer of Swedish foreign minister Anna Lindh.
 
 

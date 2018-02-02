@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/14/slovenia-announces-that-it-will-be-clamping-dow
 
 ### [2016-02-14](/news/2016/02/14/index.md)
 
+##### European migrant crisis
 # Slovenia announces that it will be clamping down on the number of migrants that it will allow to enter the country. 
 
 Slovenia said Sunday it would clamp down on the number of migrants allowed to enter the country, ahead of tougher measures set to be announced by neighbouring Austria later this week to slow down the influx. The two EU member states, which also belong to the passport-free Schengen zone, have become

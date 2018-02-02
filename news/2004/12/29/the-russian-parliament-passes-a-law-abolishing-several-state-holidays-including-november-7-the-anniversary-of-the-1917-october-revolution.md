@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/29/the-russian-parliament-passes-a-law-abolishing-several-state-holidays-including-november-7-the-anniversary-of-the-1917-october-revolution.html)  [JSON](/news/2004/12/29/the-russian-parliament-passes-a-law-abolishing-several-state-holidays-including-november-7-the-anniversary-of-the-1917-october-revolution.json)  [XML](/news/2004/12/29/the-russian-parliament-passes-a-law-abolishing-several-state-holidays-including-november-7-the-anniversary-of-the-1917-october-revolution.xml)  
+
 ### [2004-12-29](/news/2004/12/29/index.md)
 
+##### Federal Assembly
 #  The Russian parliament passes a law abolishing several state holidays, including November 7, the anniversary of the 1917 October Revolution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2004/WORLD/europe/12/27/russia.holiday.ap/index.html)
 

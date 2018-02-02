@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/21/aung-san-suu-kyi-of-burma-obtains-internet-access-at-her-home-in-rangoon-it-is-believed-she-has-never-been-online.html)  [JSON](/news/2011/01/21/aung-san-suu-kyi-of-burma-obtains-internet-access-at-her-home-in-rangoon-it-is-believed-she-has-never-been-online.json)  [XML](/news/2011/01/21/aung-san-suu-kyi-of-burma-obtains-internet-access-at-her-home-in-rangoon-it-is-believed-she-has-never-been-online.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### Aung San Suu Kyi
 # Aung San Suu Kyi of Burma obtains Internet access at her home in Rangoon; it is believed she has never been online. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-12252158)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/50896000/jpg/_50896912_010940577-1.jpg)

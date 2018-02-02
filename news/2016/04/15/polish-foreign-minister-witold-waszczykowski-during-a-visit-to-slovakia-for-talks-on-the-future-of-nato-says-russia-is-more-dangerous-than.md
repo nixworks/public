@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/15/polish-foreign-minister-witold-waszczykowski-du
 
 ### [2016-04-15](/news/2016/04/15/index.md)
 
+##### Poland-Russia relations
 # Polish Foreign Minister Witold Waszczykowski, during a visit to Slovakia for talks on the future of NATO, says Russia is more dangerous than the Islamic State of Iraq and the Levant (ISIL). "By all evidence, Russia's activity is a sort of existential threat because this activity can destroy countries," Waszczykowski told reporters in Bratislava. He described ISIL as a very serious threat but said "it is not an existential threat for Europe". 
 
 Witold Waszczykowski describes Russian activity as an ‘existential threat to Europe’ during a debate on the future of Nato

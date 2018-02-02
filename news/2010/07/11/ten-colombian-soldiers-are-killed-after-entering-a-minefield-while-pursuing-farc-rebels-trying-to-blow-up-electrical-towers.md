@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/11/ten-colombian-soldiers-are-killed-after-entering-a-minefield-while-pursuing-farc-rebels-trying-to-blow-up-electrical-towers.html)  [JSON](/news/2010/07/11/ten-colombian-soldiers-are-killed-after-entering-a-minefield-while-pursuing-farc-rebels-trying-to-blow-up-electrical-towers.json)  [XML](/news/2010/07/11/ten-colombian-soldiers-are-killed-after-entering-a-minefield-while-pursuing-farc-rebels-trying-to-blow-up-electrical-towers.xml)  
+
 ### [2010-07-11](/news/2010/07/11/index.md)
 
+##### Colombia
 # Ten Colombian soldiers are killed after entering a minefield while pursuing FARC rebels trying to blow up electrical towers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/Headlines/Article.aspx?id=181140)
 1. [Cover Image](http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=353023)

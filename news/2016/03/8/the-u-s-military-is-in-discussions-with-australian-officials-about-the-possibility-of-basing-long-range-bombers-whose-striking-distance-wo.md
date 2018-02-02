@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/8/the-u-s-military-is-in-discussions-with-australi
 
 ### [2016-03-8](/news/2016/03/8/index.md)
 
+##### Australia-United States relations
 # The U.S. military is in discussions with Australian officials about the possibility of basing long-range bombers, whose striking distance would include the South China Sea, in Australia. 
 
 The United States is in talks to base long-range bombers in Australia, U.S. defense officials said, within striking distance of the disputed South China Sea, a move that could inflame tensions with China.

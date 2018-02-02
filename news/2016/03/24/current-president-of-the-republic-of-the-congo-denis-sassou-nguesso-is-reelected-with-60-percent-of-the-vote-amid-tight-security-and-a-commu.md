@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2016/03/24/current-president-of-the-republic-of-the-congo-denis-sassou-nguesso-is-reelected-with-60-percent-of-the-vote-amid-tight-security-and-a-commu.html)  [JSON](/news/2016/03/24/current-president-of-the-republic-of-the-congo-denis-sassou-nguesso-is-reelected-with-60-percent-of-the-vote-amid-tight-security-and-a-commu.json)  [XML](/news/2016/03/24/current-president-of-the-republic-of-the-congo-denis-sassou-nguesso-is-reelected-with-60-percent-of-the-vote-amid-tight-security-and-a-commu.xml)  
+
 ### [2016-03-24](/news/2016/03/24/index.md)
 
+##### Republic of the Congo presidential election, 2016
 # Current President of the Republic of the Congo Denis Sassou Nguesso is reelected with 60 percent of the vote amid tight security and a communications blackout. Opposition leaders say that they will not accept the outcome. 
 
 Final poll results released amid tight security and a communications blackout, extending leader&#39;s 32-year rule.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2016/03/congo-president-denis-sassou-nguesso-wins-election-160324040212900.html)
 

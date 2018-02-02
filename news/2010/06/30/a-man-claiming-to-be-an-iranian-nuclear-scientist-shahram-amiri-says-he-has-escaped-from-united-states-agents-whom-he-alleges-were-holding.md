@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/30/a-man-claiming-to-be-an-iranian-nuclear-scientist-shahram-amiri-says-he-has-escaped-from-united-states-agents-whom-he-alleges-were-holding.html)  [JSON](/news/2010/06/30/a-man-claiming-to-be-an-iranian-nuclear-scientist-shahram-amiri-says-he-has-escaped-from-united-states-agents-whom-he-alleges-were-holding.json)  [XML](/news/2010/06/30/a-man-claiming-to-be-an-iranian-nuclear-scientist-shahram-amiri-says-he-has-escaped-from-united-states-agents-whom-he-alleges-were-holding.xml)  
+
 ### [2010-06-30](/news/2010/06/30/index.md)
 
+##### nuclear program
 # A man claiming to be an Iranian nuclear scientist, Shahram Amiri, says he has escaped from United States agents whom he alleges were holding him illegally and calls for help from the Iranian government and human rights agencies. 
 
 A man claiming to be an Iranian nuclear scientist kidnapped by the US says he has escaped from custody, in a video shown on Iranian TV.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gm_0c8fna8QLljNE64F-mvMXRNxAD9GLNFTG0)
 2. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10456502.stm)
@@ -21,16 +25,16 @@ A man claiming to be an Iranian nuclear scientist kidnapped by the US says he ha
 12. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3913403,00.html)
 12. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
-### Related:
-
-1. [Iran confirms it has executed nuclear scientist Shahram Amiri by hanging for treason. Iranian judiciary spokesman Gholam-Hossein Mohseni-Eje'i says Amiri was charged with spying for enemies of the Islamic Republic of Iran and that U.S. officials had been unaware that Iran was monitoring Amiri's efforts for the West. His body was returned to his family with rope marks around his neck. ](/news/2016/08/7/iran-confirms-it-has-executed-nuclear-scientist-shahram-amiri-by-hanging-for-treason-iranian-judiciary-spokesman-gholam-hossein-mohseni-eje.md) _Context: Shahram Amiri, United States, nuclear program_
-2. [Shahram Amiri, a scientist involved in Iran's nuclear program, defects to the United States and begins talking to the Central Intelligence Agency. ](/news/2010/03/31/shahram-amiri-a-scientist-involved-in-iran-s-nuclear-program-defects-to-the-united-states-and-begins-talking-to-the-central-intelligence-a.md) _Context: Shahram Amiri, United States, nuclear program_
-3. [The International Atomic Energy Agency states that Iran has complied with its commitments under the Joint Comprehensive Plan of Action, paving the way for international sanctions to be lifted by the United States and European Union. ](/news/2016/01/16/the-international-atomic-energy-agency-states-that-iran-has-complied-with-its-commitments-under-the-joint-comprehensive-plan-of-action-pavi.md) _Context: United States, nuclear program_
-4. [The United States announces that it will enforce sanctions on more than two dozen companies who assisted Iran with its nuclear program. ](/news/2013/12/12/the-united-states-announces-that-it-will-enforce-sanctions-on-more-than-two-dozen-companies-who-assisted-iran-with-its-nuclear-program.md) _Context: United States, nuclear program_
-5. [Iran and world powers, including the United States, Russia, and China, begin talks about Iran's nuclear program. ](/news/2012/04/14/iran-and-world-powers-including-the-united-states-russia-and-china-begin-talks-about-iran-s-nuclear-program.md) _Context: United States, nuclear program_
-
 ### Changes:
 
 1. [Iran:A man claiming to be an Iranian nuclear scientist, Shahram Amiri, says he has escaped from United States agents whom he alleges were holding him illegally and calls for help from the Iranian government and human rights agencies. ](/news/2010/06/30/iran-pa-man-claiming-to-be-an-iranian-nuclear-scientist-shahram-amiri-says-he-has-escaped-from-united-states-agents-whom-he-alleges-were-h.md) _2017-08-25 03:28:31 (First version)_
 2. [Iran:: A man claiming to be an Iranian nuclear scientist, Shahram Amiri, says he has escaped from United States agents whom he alleges were holding him illegally and calls for help from the Iranian government and human rights agencies. ](/news/2010/06/30/iran-a-man-claiming-to-be-an-iranian-nuclear-scientist-shahram-amiri-says-he-has-escaped-from-united-states-agents-whom-he-alleges-were.md) _2017-08-27 03:28:31 (Update)_
 2. [A man claiming to be an Iranian nuclear scientist, Shahram Amiri, says he has escaped from United States agents whom he alleges were holding him illegally and calls for help from the Iranian government and human rights agencies. ](/news/2010/06/30/a-man-claiming-to-be-an-iranian-nuclear-scientist-shahram-amiri-says-he-has-escaped-from-united-states-agents-whom-he-alleges-were-holding.md) _(Current version)_
+
+### Related:
+
+1. [Iran confirms it has executed nuclear scientist Shahram Amiri by hanging for treason. Iranian judiciary spokesman Gholam-Hossein Mohseni-Eje'i says Amiri was charged with spying for enemies of the Islamic Republic of Iran and that U.S. officials had been unaware that Iran was monitoring Amiri's efforts for the West. His body was returned to his family with rope marks around his neck. ](/news/2016/08/7/iran-confirms-it-has-executed-nuclear-scientist-shahram-amiri-by-hanging-for-treason-iranian-judiciary-spokesman-gholam-hossein-mohseni-eje.md) _Context: Shahram Amiri, U.S., nuclear program_
+2. [The International Atomic Energy Agency states that Iran has complied with its commitments under the Joint Comprehensive Plan of Action, paving the way for international sanctions to be lifted by the United States and European Union. ](/news/2016/01/16/the-international-atomic-energy-agency-states-that-iran-has-complied-with-its-commitments-under-the-joint-comprehensive-plan-of-action-pavi.md) _Context: U.S., nuclear program_
+3. [The United States announces that it will enforce sanctions on more than two dozen companies who assisted Iran with its nuclear program. ](/news/2013/12/12/the-united-states-announces-that-it-will-enforce-sanctions-on-more-than-two-dozen-companies-who-assisted-iran-with-its-nuclear-program.md) _Context: U.S., nuclear program_
+4. [Iran and world powers, including the United States, Russia, and China, begin talks about Iran's nuclear program. ](/news/2012/04/14/iran-and-world-powers-including-the-united-states-russia-and-china-begin-talks-about-iran-s-nuclear-program.md) _Context: U.S., nuclear program_
+5. [The United States, United Kingdom, and Canada impose further sanctions against Iran's nuclear program. ](/news/2011/11/21/the-united-states-united-kingdom-and-canada-impose-further-sanctions-against-iran-s-nuclear-program.md) _Context: U.S., nuclear program_

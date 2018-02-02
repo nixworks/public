@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/24/a-jury-in-the-u-s-state-of-california-rules-that-samsung-electronics-owes-apple-inc-over-us-1-billion-for-patent-infringement.html)  [JSON](/news/2012/08/24/a-jury-in-the-u-s-state-of-california-rules-that-samsung-electronics-owes-apple-inc-over-us-1-billion-for-patent-infringement.json)  [XML](/news/2012/08/24/a-jury-in-the-u-s-state-of-california-rules-that-samsung-electronics-owes-apple-inc-over-us-1-billion-for-patent-infringement.xml)  
+
 ### [2012-08-24](/news/2012/08/24/index.md)
 
+##### California
 # A jury in the U.S. state of California rules that Samsung Electronics owes Apple Inc. over US$1 billion for patent infringement. 
 
 The patent trial of the century is not going well for Samsung; the jury has ruled almost entirely in Apple&amp;#39;s favor, with damages so far totaling a hilarious $1.05 billion. That&amp;#39;s about a quarter of Samsung&amp;#39;s operating profit in Q4 of 2011 (but only a tenth of Apple&amp;#39;s cash on hand), and could have massive repercussions for both it and the industry going forward.
 
 
-### Source:
+### Sources:
 
-1. [Gizmodo](http://gizmodo.com/5937781/samsung-owes-apple-105-billion-in-damages-so-far)
+1. [Gizmodo](https://gizmodo.com/5937781/samsung-owes-apple-105-billion-in-damages-so-far)
 1. [Cover Image](https://i.kinja-img.com/gawker-media/image/upload/s--olxlyaHY--/c_fill,fl_progressive,g_center,h_358,q_80,w_636/17wzz51egmk2wjpg.jpg)
 
 ### Related:

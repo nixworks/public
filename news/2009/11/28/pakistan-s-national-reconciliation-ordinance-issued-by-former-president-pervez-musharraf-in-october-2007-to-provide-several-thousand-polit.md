@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/28/pakistan-s-national-reconciliation-ordinance-issued-by-former-president-pervez-musharraf-in-october-2007-to-provide-several-thousand-polit.html)  [JSON](/news/2009/11/28/pakistan-s-national-reconciliation-ordinance-issued-by-former-president-pervez-musharraf-in-october-2007-to-provide-several-thousand-polit.json)  [XML](/news/2009/11/28/pakistan-s-national-reconciliation-ordinance-issued-by-former-president-pervez-musharraf-in-october-2007-to-provide-several-thousand-polit.xml)  
+
 ### [2009-11-28](/news/2009/11/28/index.md)
 
+##### Pakistan
 #  Pakistan's National Reconciliation Ordinance, issued by former President Pervez Musharraf in October 2007 to provide several thousand politicians (including current President Asif Ali Zardari) amnesty from charges of political corruption, expires. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j36S4F9OudmOMKtFZAL75YCNo00Q)
 2. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/11/28/pakistan.amnesty.zardari/)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/16/amazon-agrees-to-buy-whole-foods-market-for-13-
 
 ### [2017-06-16](/news/2017/06/16/index.md)
 
+##### Amazon.com
 # Amazon agrees to buy Whole Foods Market for $13.7 billion. The takeover deal is expected to be completed in the second half of the year. 
 
 The deal marks the biggest push yet by Amazon into traditional bricks and mortar retailing.

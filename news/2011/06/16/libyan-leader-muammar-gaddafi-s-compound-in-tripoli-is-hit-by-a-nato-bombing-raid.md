@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/16/libyan-leader-muammar-gaddafi-s-compound-in-tripoli-is-hit-by-a-nato-bombing-raid.html)  [JSON](/news/2011/06/16/libyan-leader-muammar-gaddafi-s-compound-in-tripoli-is-hit-by-a-nato-bombing-raid.json)  [XML](/news/2011/06/16/libyan-leader-muammar-gaddafi-s-compound-in-tripoli-is-hit-by-a-nato-bombing-raid.xml)  
+
 ### [2011-06-16](/news/2011/06/16/index.md)
 
+##### Libyan
 # Libyan leader Muammar Gaddafi's compound in Tripoli is hit by a NATO bombing raid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://blogs.aljazeera.net/liveblog/libya-jun-16-2011-0645)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-13787681)

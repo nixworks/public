@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/29/a-powerful-explosion-occurs-in-an-office-building-in-prague-czech-republic-believed-to-have-been-caused-by-natural-gas-injures-35-people.html)  [JSON](/news/2013/04/29/a-powerful-explosion-occurs-in-an-office-building-in-prague-czech-republic-believed-to-have-been-caused-by-natural-gas-injures-35-people.json)  [XML](/news/2013/04/29/a-powerful-explosion-occurs-in-an-office-building-in-prague-czech-republic-believed-to-have-been-caused-by-natural-gas-injures-35-people.xml)  
+
 ### [2013-04-29](/news/2013/04/29/index.md)
 
+##### explosion
 # A powerful explosion occurs in an office building in Prague, Czech Republic, believed to have been caused by natural gas, injures 35 people. Both the nearby Faculty of Arts and Sciences building of Charles University and the National Theater also sustain damage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Vancouver Sun](http://www.vancouversun.com/news/world/Powerful+blast+Czech+capital+damages+downtown+building+injures/8308886/story.html)
 2. [NBC News](http://worldnews.nbcnews.com/_news/2013/04/29/17968426-dozens-injured-others-feared-buried-after-explosion-in-prague?lite)

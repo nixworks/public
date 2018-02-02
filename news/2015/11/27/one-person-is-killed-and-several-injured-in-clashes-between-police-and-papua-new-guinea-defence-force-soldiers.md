@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/27/one-person-is-killed-and-several-injured-in-clashes-between-police-and-papua-new-guinea-defence-force-soldiers.html)  [JSON](/news/2015/11/27/one-person-is-killed-and-several-injured-in-clashes-between-police-and-papua-new-guinea-defence-force-soldiers.json)  [XML](/news/2015/11/27/one-person-is-killed-and-several-injured-in-clashes-between-police-and-papua-new-guinea-defence-force-soldiers.xml)  
+
 ### [2015-11-27](/news/2015/11/27/index.md)
 
+##### Police
 # One person is killed and several injured in clashes between police and Papua New Guinea Defence Force soldiers. 
 
 One person dies and four others are injured in a clashes between Papua New Guinea police and soldiers in Port Moresby.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-11-27/clash-between-png-police-and-military-leaves-one-dead/6981252)
 1. [Cover Image](http://www.abc.net.au/news/image/6982248-1x1-700x700.jpg)

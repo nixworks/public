@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/31/a-4-0-magnitude-earthquake-hits-ohio-with-no-immediate-reports-of-damage.html)  [JSON](/news/2011/12/31/a-4-0-magnitude-earthquake-hits-ohio-with-no-immediate-reports-of-damage.json)  [XML](/news/2011/12/31/a-4-0-magnitude-earthquake-hits-ohio-with-no-immediate-reports-of-damage.xml)  
+
 ### [2011-12-31](/news/2011/12/31/index.md)
 
+##### Ohio
 # A 4.0-magnitude earthquake hits Ohio, with no immediate reports of damage. 
 
 Authorities say a minor earthquake hit in northeast Ohio.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/45835151/ns/us_news-life/)
 1. [Cover Image](http://media1.s-nbcnews.com/i/MSNBC/Components/Interactives/_swf/_shared/msnbc-facebooklike-icon.jpg)

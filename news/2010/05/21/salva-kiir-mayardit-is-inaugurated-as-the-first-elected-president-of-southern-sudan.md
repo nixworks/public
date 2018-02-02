@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/05/21/salva-kiir-mayardit-is-inaugurated-as-the-first-elected-president-of-southern-sudan.html)  [JSON](/news/2010/05/21/salva-kiir-mayardit-is-inaugurated-as-the-first-elected-president-of-southern-sudan.json)  [XML](/news/2010/05/21/salva-kiir-mayardit-is-inaugurated-as-the-first-elected-president-of-southern-sudan.xml)  
+
 ### [2010-05-21](/news/2010/05/21/index.md)
 
+##### Salva Kiir Mayardit
 # Salva Kiir Mayardit is inaugurated as the first elected president of Southern Sudan. 
 
 Following&#x20;last&#x20;month&#x2019;s&#x20;elections,&#x20;when&#x20;he&#x20;was&#x20;elected&#x20;leader&#x20;of&#x20;the&#x20;semi-autonomous&#x20;southern&#x20;region,&#x20;Salva&#x20;Kiir&#x20;&#x28;pictured&#x29;&#x20;was&#x20;sworn&#x20;in&#x20;as&#x20;president&#x20;at&#x20;a&#x20;ceremony&#x20;in&#x20;Juba&#x20;Friday.&#x20;All&#x20;eyes&#x20;now&#x20;are&#x20;on&#x20;a&#x20;referendum&#x20;set&#x20;for&#x20;Jan.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8696881.stm)
 2. [France24](http://www.france24.com/en/20100521-sudan-south-leader-sworn-salva-kiir-president)
-3. [he Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/05/21/AR2010052101898.html)
+3. [he Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/05/21/AR2010052101898.html)
 3. [Cover Image](http://scd.france24.com/en/files/imagecache/home_1024/article/image/sudan-south-m.jpg)
 
 ### Related:

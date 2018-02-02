@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/3/governor-chris-christie-is-caught-sunbathing-wit
 
 ### [2017-07-3](/news/2017/07/3/index.md)
 
+##### Politics of New Jersey
 # Governor Chris Christie is caught sunbathing with his family on a beach he had ordered closed for the fourth of July holiday. The beach was closed to the public amid a state budget crisis. 
 
 

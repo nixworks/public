@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/16/the-new-york-times-reports-that-special-counsel
 
 ### [2018-01-16](/news/2018/01/16/index.md)
 
+##### Special Counsel investigation
 # "The New York Times" reports that Special Counsel Robert Mueller subpoenaed Steve Bannon last week to testify before a grand jury. The House Intelligence Committee issues a second subpoena, via powers seldomly used by Congress, following Bannon's testimony today that, while he was willing to answer questions, the White House instructed him not to answer questions related to his White House tenure. 
 
 A House committee issued a subpoena to the former chief White House strategist after he said the White House asked him not to answer questions about his tenure.

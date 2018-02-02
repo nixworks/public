@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/26/after-many-delays-venezuela-s-electoral-council
 
 ### [2016-04-26](/news/2016/04/26/index.md)
 
+##### Venezuela
 # After many delays, Venezuela's electoral council releases petition sheets to the opposition alliance that wants to initiate a recall referendum against President Nicolas Maduro. Within three days, the petitioners need to collect about 200,000 signatures (1 percent of registered voters) before proceeding to the next step, the collection of 20 million signatures to get the referendum on the ballot. 
 
 CARACAS, Venezuela (AP) — Venezuela&#039;s electoral council on Tuesday took steps to allow opponents of President Nicolas Maduro to try and initiate a recall referendum against the socialist leader. The electoral authority…

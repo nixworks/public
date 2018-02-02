@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/29/the-centers-for-disease-control-and-prevention-
 
 ### [2016-04-29](/news/2016/04/29/index.md)
 
+##### Zika virus outbreak (2015-present)
 #  The Centers for Disease Control and Prevention reports the first Zika virus related death in the United States, an elderly man in Puerto Rico. 
 
 An elderly man from Puerto Rico succumbed after complications from an earlier infection caused by the disease-carrying mosquito.

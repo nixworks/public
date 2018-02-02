@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/7/2011-yemeni-uprising-security-forces-clash-with-rebels-near-the-town-of-zinjibar-with-eight-dead-including-one-soldier.html)  [JSON](/news/2011/07/7/2011-yemeni-uprising-security-forces-clash-with-rebels-near-the-town-of-zinjibar-with-eight-dead-including-one-soldier.json)  [XML](/news/2011/07/7/2011-yemeni-uprising-security-forces-clash-with-rebels-near-the-town-of-zinjibar-with-eight-dead-including-one-soldier.xml)  
+
 ### [2011-07-7](/news/2011/07/7/index.md)
 
+##### 2011 Yemeni uprising
 # 2011 Yemeni uprising: Security forces clash with rebels near the town of Zinjibar with eight dead including one soldier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://blogs.aljazeera.net/liveblog/yemen-jul-7-2011-0328)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/4/former-south-african-president-nelson-mandela-is-now-in-a-permanent-vegetative-state-and-doctors-have-advised-his-family-to-turn-off-his-l.html)  [JSON](/news/2013/07/4/former-south-african-president-nelson-mandela-is-now-in-a-permanent-vegetative-state-and-doctors-have-advised-his-family-to-turn-off-his-l.json)  [XML](/news/2013/07/4/former-south-african-president-nelson-mandela-is-now-in-a-permanent-vegetative-state-and-doctors-have-advised-his-family-to-turn-off-his-l.xml)  
+
 ### [2013-07-4](/news/2013/07/4/index.md)
 
+##### South Africa
 # Former South African President Nelson Mandela is now in a "permanent vegetative state" and doctors have advised his family to turn off his life support machine. 
 
 Doctors treating Nelson Mandela have reportedly said that he is in a &quot;permanent vegetative state&quot; and advised his family to turn off his life support machine.
 
 
-### Source:
+### Sources:
 
 1. [AFP via News24](http://www.news24.com/news24/SouthAfrica/News/Family-advised-to-turn-off-Mandelas-life-support-20130704)
 2. [Sky News](http://news.sky.com/story/1111614/mandela-doctors-said-turn-off-life-support)

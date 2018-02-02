@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/19/forces-loyal-to-guinean-president-alpha-conda-c-repel-an-attack-by-unknown-assailants-on-his-residence-in-conakry.html)  [JSON](/news/2011/07/19/forces-loyal-to-guinean-president-alpha-conda-c-repel-an-attack-by-unknown-assailants-on-his-residence-in-conakry.json)  [XML](/news/2011/07/19/forces-loyal-to-guinean-president-alpha-conda-c-repel-an-attack-by-unknown-assailants-on-his-residence-in-conakry.xml)  
+
 ### [2011-07-19](/news/2011/07/19/index.md)
 
+##### Guinea
 # Forces loyal to Guinean President Alpha Conde repel an attack by unknown assailants on his residence in Conakry. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-14197052)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54141000/jpg/_54141661_012486274-1.jpg)

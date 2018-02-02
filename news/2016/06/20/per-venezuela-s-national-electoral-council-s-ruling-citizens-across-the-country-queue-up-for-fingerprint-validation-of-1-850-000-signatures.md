@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/20/per-venezuela-s-national-electoral-council-s-ru
 
 ### [2016-06-20](/news/2016/06/20/index.md)
 
+##### 2014-16 Venezuelan protests
 # Per Venezuela's National Electoral Council's ruling, citizens across the country queue up for fingerprint validation of 1,850,000 signatures on referendum to recall President Nicolas Maduro. The opposition Democratic Unity Roundtable must validate 197,000 signatures (1 percent of registered voters) by Friday, in this first step of the recall referendum process. 
 
 

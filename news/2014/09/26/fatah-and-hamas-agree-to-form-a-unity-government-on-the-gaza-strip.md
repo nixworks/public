@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/09/26/fatah-and-hamas-agree-to-form-a-unity-government-on-the-gaza-strip.html)  [JSON](/news/2014/09/26/fatah-and-hamas-agree-to-form-a-unity-government-on-the-gaza-strip.json)  [XML](/news/2014/09/26/fatah-and-hamas-agree-to-form-a-unity-government-on-the-gaza-strip.xml)  
+
 ### [2014-09-26](/news/2014/09/26/index.md)
 
+##### Fatah
 # Fatah and Hamas agree to form a unity government on the Gaza Strip. 
 
 A unity government is to take control of the Gaza Strip after a breakthrough in talks between Hamas and Fatah officials in Cairo. The deal could
 
 
-### Source:
+### Sources:
 
 1. [EuroNews](http://www.euronews.com/2014/09/26/fatah-and-hamas-agree-deal-for-return-of-gaza-unity-government/)
 1. [Cover Image](http://static.euronews.com/articles/archive/1000x563_archive.jpg)

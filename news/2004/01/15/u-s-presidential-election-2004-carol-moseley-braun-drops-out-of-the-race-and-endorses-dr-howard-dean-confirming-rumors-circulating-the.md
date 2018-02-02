@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/15/u-s-presidential-election-2004-carol-moseley-braun-drops-out-of-the-race-and-endorses-dr-howard-dean-confirming-rumors-circulating-the.html)  [JSON](/news/2004/01/15/u-s-presidential-election-2004-carol-moseley-braun-drops-out-of-the-race-and-endorses-dr-howard-dean-confirming-rumors-circulating-the.json)  [XML](/news/2004/01/15/u-s-presidential-election-2004-carol-moseley-braun-drops-out-of-the-race-and-endorses-dr-howard-dean-confirming-rumors-circulating-the.xml)  
+
 ### [2004-01-15](/news/2004/01/15/index.md)
 
+##### 2004 U.S. presidential candidate
 #  U.S. presidential election, 2004: Carol Moseley Braun drops out of the race and endorses Dr. Howard Dean, confirming rumors circulating the night before as she taped an appearance on "The Daily Show".
 
 

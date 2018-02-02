@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/22/a-photographer-is-shot-during-violence-in-east-belfast-in-northern-ireland.html)  [JSON](/news/2011/06/22/a-photographer-is-shot-during-violence-in-east-belfast-in-northern-ireland.json)  [XML](/news/2011/06/22/a-photographer-is-shot-during-violence-in-east-belfast-in-northern-ireland.xml)  
+
 ### [2011-06-22](/news/2011/06/22/index.md)
 
+##### Belfast
 # A photographer is shot during violence in east Belfast in Northern Ireland. 
 
 Police believe dissident republicans were responsible for shooting a photographer during trouble in east Belfast on Tuesday night.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-13873307)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/53622000/jpg/_53622265_aptv012271986.jpg)

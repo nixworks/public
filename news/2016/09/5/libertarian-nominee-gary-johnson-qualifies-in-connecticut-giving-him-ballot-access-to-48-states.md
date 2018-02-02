@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/5/libertarian-nominee-gary-johnson-qualifies-in-co
 
 ### [2016-09-5](/news/2016/09/5/index.md)
 
+##### 2016 U.S. presidential election
 # Libertarian nominee Gary Johnson qualifies in Connecticut giving him ballot access to 48 states. 
 
 

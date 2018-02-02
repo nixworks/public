@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/22/american-airlines-announces-it-is-investigating
 
 ### [2017-04-22](/news/2017/04/22/index.md)
 
+##### American Airlines
 # American Airlines announces it is investigating a viral video of an incident on a San Francisco to Dallas flight which shows a male flight attendant upsetting a female passenger, who he had allegedly forcefully taken a baby buggy from, and threatening to fight a male passenger. The American Airlines employee has been suspended. 
 
  American Airlines on Saturday apologized to a female passenger and suspended an employee after a video showing an onboard clash over a baby stroller went viral

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/03/7/rwanda-and-south-africa-each-expel-the-other-s-diplomats-after-armed-men-broke-into-an-exiled-rwandan-critic-s-home-in-johannesburg.html)  [JSON](/news/2014/03/7/rwanda-and-south-africa-each-expel-the-other-s-diplomats-after-armed-men-broke-into-an-exiled-rwandan-critic-s-home-in-johannesburg.json)  [XML](/news/2014/03/7/rwanda-and-south-africa-each-expel-the-other-s-diplomats-after-armed-men-broke-into-an-exiled-rwandan-critic-s-home-in-johannesburg.xml)  
+
 ### [2014-03-7](/news/2014/03/7/index.md)
 
+##### Rwanda
 # Rwanda and South Africa each expel the other's diplomats after armed men broke into an exiled Rwandan critic's home in Johannesburg. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/03/07/us-safrica-rwanda-idUSBREA261BS20140307)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140307&t=2&i=856400298&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA261CQU00)
+1. [Reuters](https://www.reuters.com/article/2014/03/07/us-safrica-rwanda-idUSBREA261BS20140307)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140307&t=2&i=856400298&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBREA261CQU00)
 
 ### Related:
 

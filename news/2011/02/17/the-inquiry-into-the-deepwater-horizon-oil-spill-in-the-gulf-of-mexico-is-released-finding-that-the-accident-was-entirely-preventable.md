@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/17/the-inquiry-into-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico-is-released-finding-that-the-accident-was-entirely-preventable.html)  [JSON](/news/2011/02/17/the-inquiry-into-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico-is-released-finding-that-the-accident-was-entirely-preventable.json)  [XML](/news/2011/02/17/the-inquiry-into-the-deepwater-horizon-oil-spill-in-the-gulf-of-mexico-is-released-finding-that-the-accident-was-entirely-preventable.xml)  
+
 ### [2011-02-17](/news/2011/02/17/index.md)
 
+##### Deepwater Horizon oil spill
 # The inquiry into the Deepwater Horizon oil spill in the Gulf of Mexico is released finding that the accident was entirely preventable. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Oil Spill Commission](http://www.oilspillcommission.gov/chief-counsels-report)
 

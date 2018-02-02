@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2007/08/3/george-w-bush-invites-representatives-of-the-un-and-major-industrialized-and-developing-countries-to-a-conference-to-discuss-a-post-kyoto.html)  [JSON](/news/2007/08/3/george-w-bush-invites-representatives-of-the-un-and-major-industrialized-and-developing-countries-to-a-conference-to-discuss-a-post-kyoto.json)  [XML](/news/2007/08/3/george-w-bush-invites-representatives-of-the-un-and-major-industrialized-and-developing-countries-to-a-conference-to-discuss-a-post-kyoto.xml)  
+
 ### [2007-08-3](/news/2007/08/3/index.md)
 
+##### George W. Bush
 #  George W. Bush invites representatives of the UN and major industrialized and developing countries to a conference to discuss a post-Kyoto agreement on greenhouse gas emissions. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/topNews/idUSWBT00734620070803)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20070803&t=2&i=1242245&w=&fh=545px&fw=&ll=&pl=&sq=&r=1242245)
+1. [Reuters](https://www.reuters.com/article/topNews/idUSWBT00734620070803)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20070803&t=2&i=1242245&w=&fh=545px&fw=&ll=&pl=&sq=&r=1242245)
 
 ### Related:
 

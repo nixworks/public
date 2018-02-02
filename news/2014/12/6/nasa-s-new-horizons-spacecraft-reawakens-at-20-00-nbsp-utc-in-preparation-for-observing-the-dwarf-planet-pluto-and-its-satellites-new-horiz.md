@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/6/nasa-s-new-horizons-spacecraft-reawakens-at-20-00-nbsp-utc-in-preparation-for-observing-the-dwarf-planet-pluto-and-its-satellites-new-horiz.html)  [JSON](/news/2014/12/6/nasa-s-new-horizons-spacecraft-reawakens-at-20-00-nbsp-utc-in-preparation-for-observing-the-dwarf-planet-pluto-and-its-satellites-new-horiz.json)  [XML](/news/2014/12/6/nasa-s-new-horizons-spacecraft-reawakens-at-20-00-nbsp-utc-in-preparation-for-observing-the-dwarf-planet-pluto-and-its-satellites-new-horiz.xml)  
+
 ### [2014-12-6](/news/2014/12/6/index.md)
 
+##### NASA
 # NASA's New Horizons spacecraft reawakens at 20:00&nbsp;UTC in preparation for observing the dwarf planet Pluto and its satellites. New Horizons, launched on January 19, 2006, will begin distant observations on January 15, 2015, culminating with its July 14, 2015 closest approach flyby. 
 
 On December 6th, New Horizons spacecraft awakened from its final electronic hibernation. Seven months from now, it will make the first-ever visit to Pluto.
 
 
-### Source:
+### Sources:
 
 1. [C-Net](http://www.cnet.com/uk/news/nasas-new-horizons-awakens-for-meeting-with-pluto/)
 2. [L.A. Times](http://www.latimes.com/science/sciencenow/la-sci-sn-pluto-new-horizons-hibernation-nasa-20141205-story.html)

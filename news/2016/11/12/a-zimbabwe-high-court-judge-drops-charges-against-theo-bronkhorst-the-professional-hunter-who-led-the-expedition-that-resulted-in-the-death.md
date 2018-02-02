@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/12/a-zimbabwe-high-court-judge-drops-charges-again
 
 ### [2016-11-12](/news/2016/11/12/index.md)
 
+##### Killing of Cecil the lion
 # A Zimbabwe high court judge drops charges against Theo Bronkhorst, the professional hunter who led the expedition that resulted in the death of the lion named Cecil, because the prosecutor's filing was not properly constituted, and was "too vague to enable (the defendant) to mount a proper defense." 
 
 A high court in Zimbabwe dropped charges against a professional hunter who led the expedition that killed Cecil the lion in 2015.

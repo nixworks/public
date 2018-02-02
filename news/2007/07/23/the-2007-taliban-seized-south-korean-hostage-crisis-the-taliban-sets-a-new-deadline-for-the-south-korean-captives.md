@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/23/the-2007-taliban-seized-south-korean-hostage-crisis-the-taliban-sets-a-new-deadline-for-the-south-korean-captives.html)  [JSON](/news/2007/07/23/the-2007-taliban-seized-south-korean-hostage-crisis-the-taliban-sets-a-new-deadline-for-the-south-korean-captives.json)  [XML](/news/2007/07/23/the-2007-taliban-seized-south-korean-hostage-crisis-the-taliban-sets-a-new-deadline-for-the-south-korean-captives.xml)  
+
 ### [2007-07-23](/news/2007/07/23/index.md)
 
+##### release 23 of its captured fighters
 #  The 2007 Taliban-seized South Korean hostage crisis: The Taliban sets a new deadline for the South Korean captives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6911228.stm)
 

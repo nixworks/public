@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/27/israel-defence-forces-withdraw-from-the-west-bank-town-of-nablus-three-days-after-a-raid-to-arrest-suspected-militants.html)  [JSON](/news/2007/02/27/israel-defence-forces-withdraw-from-the-west-bank-town-of-nablus-three-days-after-a-raid-to-arrest-suspected-militants.json)  [XML](/news/2007/02/27/israel-defence-forces-withdraw-from-the-west-bank-town-of-nablus-three-days-after-a-raid-to-arrest-suspected-militants.xml)  
+
 ### [2007-02-27](/news/2007/02/27/index.md)
 
+##### Israel Defence Forces
 #  Israel Defence Forces withdraw from the West Bank town of Nablus, three days after a raid to arrest suspected militants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200702/s1858669.htm)
 

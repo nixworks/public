@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/22/the-prime-minister-of-nepal-girija-prasad-koirala-and-maoist-guerilla-leader-prachanda-sign-a-peace-treaty-ending-11-years-of-civil-war-in.html)  [JSON](/news/2006/11/22/the-prime-minister-of-nepal-girija-prasad-koirala-and-maoist-guerilla-leader-prachanda-sign-a-peace-treaty-ending-11-years-of-civil-war-in.json)  [XML](/news/2006/11/22/the-prime-minister-of-nepal-girija-prasad-koirala-and-maoist-guerilla-leader-prachanda-sign-a-peace-treaty-ending-11-years-of-civil-war-in.xml)  
+
 ### [2006-11-22](/news/2006/11/22/index.md)
 
+##### Prime Minister
 #  The Prime Minister of Nepal Girija Prasad Koirala and Maoist guerilla leader Prachanda sign a peace treaty ending 11 years of civil war in Nepal. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/news/world/peace-deal-marks-ends-of-nepal-civil-war/2006/11/22/1163871454411.html?page=fullpage#contentSwap1)
 

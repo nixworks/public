@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/03/25/the-world-health-organisation-estimates-that-air-pollution-contributed-to-seven-million-deaths-in-2012.html)  [JSON](/news/2014/03/25/the-world-health-organisation-estimates-that-air-pollution-contributed-to-seven-million-deaths-in-2012.json)  [XML](/news/2014/03/25/the-world-health-organisation-estimates-that-air-pollution-contributed-to-seven-million-deaths-in-2012.xml)  
+
 ### [2014-03-25](/news/2014/03/25/index.md)
 
+##### World Health Organisation
 # The World Health Organisation estimates that air pollution contributed to seven million deaths in 2012. 
 
 The biggest pollution-related killers were heart disease, stroke, pulmonary disease and lung cancer
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/asia/china/10720549/Air-pollution-killed-seven-million-people-in-2012-WHO.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02842/potd-tiannanmen-sq_2842668k.jpg)

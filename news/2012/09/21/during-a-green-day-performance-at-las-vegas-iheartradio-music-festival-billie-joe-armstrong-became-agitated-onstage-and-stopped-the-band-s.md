@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2012/09/21/during-a-green-day-performance-at-las-vegas-iheartradio-music-festival-billie-joe-armstrong-became-agitated-onstage-and-stopped-the-band-s.html)  [JSON](/news/2012/09/21/during-a-green-day-performance-at-las-vegas-iheartradio-music-festival-billie-joe-armstrong-became-agitated-onstage-and-stopped-the-band-s.json)  [XML](/news/2012/09/21/during-a-green-day-performance-at-las-vegas-iheartradio-music-festival-billie-joe-armstrong-became-agitated-onstage-and-stopped-the-band-s.xml)  
+
 ### [2012-09-21](/news/2012/09/21/index.md)
 
+##### Green Day
 # During a Green Day performance at Las Vegas' IHeartRadio music festival, Billie Joe Armstrong became agitated onstage and stopped the band's set midway through their performance. In an expletive-filled rant, Armstrong criticized the event's promoters for allegedly cutting short the band's performance before smashing his guitar and storming off stage.
 
 

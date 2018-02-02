@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/12/1/miss-world-pageant-held-in-london-s-millennium-dome-priyanka-chopra-wins-the-title.html)  [JSON](/news/2000/12/1/miss-world-pageant-held-in-london-s-millennium-dome-priyanka-chopra-wins-the-title.json)  [XML](/news/2000/12/1/miss-world-pageant-held-in-london-s-millennium-dome-priyanka-chopra-wins-the-title.xml)  
+
 ### [2000-12-1](/news/2000/12/1/index.md)
 
+##### Miss World
 #  Miss World pageant held in London's Millennium Dome. Priyanka Chopra wins the title.
 
 

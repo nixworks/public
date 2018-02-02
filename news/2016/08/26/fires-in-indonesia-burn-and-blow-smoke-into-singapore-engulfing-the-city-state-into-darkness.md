@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/26/fires-in-indonesia-burn-and-blow-smoke-into-sin
 
 ### [2016-08-26](/news/2016/08/26/index.md)
 
+##### Southeast Asian haze
 # Fires in Indonesia burn and blow smoke into Singapore, engulfing the city-state into darkness. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

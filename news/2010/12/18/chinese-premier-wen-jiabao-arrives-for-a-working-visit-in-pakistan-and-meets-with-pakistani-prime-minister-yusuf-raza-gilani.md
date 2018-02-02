@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/18/chinese-premier-wen-jiabao-arrives-for-a-working-visit-in-pakistan-and-meets-with-pakistani-prime-minister-yusuf-raza-gilani.html)  [JSON](/news/2010/12/18/chinese-premier-wen-jiabao-arrives-for-a-working-visit-in-pakistan-and-meets-with-pakistani-prime-minister-yusuf-raza-gilani.json)  [XML](/news/2010/12/18/chinese-premier-wen-jiabao-arrives-for-a-working-visit-in-pakistan-and-meets-with-pakistani-prime-minister-yusuf-raza-gilani.xml)  
+
 ### [2010-12-18](/news/2010/12/18/index.md)
 
+##### China
 # Chinese Premier Wen Jiabao arrives for a working visit in Pakistan and meets with Pakistani Prime Minister Yusuf Raza Gilani. 
 
 Pakistan rolled out the red carpet for its all-weather friend China on Friday as Chinese Premier Wen Jiabao landed here from India without making any reference detrimental to Islamabad as has been won
 
 
-### Source:
+### Sources:
 
 1. [The Hindu](http://www.thehindu.com/news/article959171.ece)
 1. [Cover Image](http://www.thehindu.com/static/theme/default/base/img/og-image.jpg)

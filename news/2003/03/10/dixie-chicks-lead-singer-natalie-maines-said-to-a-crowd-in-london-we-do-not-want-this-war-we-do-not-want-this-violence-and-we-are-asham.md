@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/10/dixie-chicks-lead-singer-natalie-maines-said-to-a-crowd-in-london-we-do-not-want-this-war-we-do-not-want-this-violence-and-we-are-asham.html)  [JSON](/news/2003/03/10/dixie-chicks-lead-singer-natalie-maines-said-to-a-crowd-in-london-we-do-not-want-this-war-we-do-not-want-this-violence-and-we-are-asham.json)  [XML](/news/2003/03/10/dixie-chicks-lead-singer-natalie-maines-said-to-a-crowd-in-london-we-do-not-want-this-war-we-do-not-want-this-violence-and-we-are-asham.xml)  
+
 ### [2003-03-10](/news/2003/03/10/index.md)
 
+##### Dixie Chicks
 #  Dixie Chicks lead singer Natalie Maines said to a crowd in London: "We do not want this war, we do not want this violence, and we are ashamed that the President of the United States is from Texas.
 
 

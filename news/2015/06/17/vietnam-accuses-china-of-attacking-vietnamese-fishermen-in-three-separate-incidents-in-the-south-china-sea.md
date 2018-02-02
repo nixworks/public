@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/17/vietnam-accuses-china-of-attacking-vietnamese-fishermen-in-three-separate-incidents-in-the-south-china-sea.html)  [JSON](/news/2015/06/17/vietnam-accuses-china-of-attacking-vietnamese-fishermen-in-three-separate-incidents-in-the-south-china-sea.json)  [XML](/news/2015/06/17/vietnam-accuses-china-of-attacking-vietnamese-fishermen-in-three-separate-incidents-in-the-south-china-sea.xml)  
+
 ### [2015-06-17](/news/2015/06/17/index.md)
 
+##### Vietnam
 # Vietnam accuses China of attacking Vietnamese fishermen in three separate incidents in the South China Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/6fc60ea1da114e948ae298f6417c5a1e/vietnam-accuses-china-attacking-its-fishermen)
 

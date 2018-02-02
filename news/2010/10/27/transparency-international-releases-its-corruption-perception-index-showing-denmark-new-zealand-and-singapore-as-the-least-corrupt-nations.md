@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/27/transparency-international-releases-its-corruption-perception-index-showing-denmark-new-zealand-and-singapore-as-the-least-corrupt-nations.html)  [JSON](/news/2010/10/27/transparency-international-releases-its-corruption-perception-index-showing-denmark-new-zealand-and-singapore-as-the-least-corrupt-nations.json)  [XML](/news/2010/10/27/transparency-international-releases-its-corruption-perception-index-showing-denmark-new-zealand-and-singapore-as-the-least-corrupt-nations.xml)  
+
 ### [2010-10-27](/news/2010/10/27/index.md)
 
+##### Transparency International
 # Transparency International releases its Corruption Perception Index showing Denmark, New Zealand and Singapore as the least corrupt nations and Somalia as the most corrupt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/europe/10/26/global.corruption.survey/index.html?eref=edition)
 

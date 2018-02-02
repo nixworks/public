@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/14/the-liberal-democrats-send-out-a-four-step-manifesto-plan-to-hardwire-fairness-into-british-society-leader-nick-clegg-says-his-policies.html)  [JSON](/news/2010/04/14/the-liberal-democrats-send-out-a-four-step-manifesto-plan-to-hardwire-fairness-into-british-society-leader-nick-clegg-says-his-policies.json)  [XML](/news/2010/04/14/the-liberal-democrats-send-out-a-four-step-manifesto-plan-to-hardwire-fairness-into-british-society-leader-nick-clegg-says-his-policies.xml)  
+
 ### [2010-04-14](/news/2010/04/14/index.md)
 
+##### Liberal Democrats
 # The Liberal Democrats send out a "four step" manifesto plan to "hardwire fairness into British society". Leader Nick Clegg says his policies, including raising the state pension and a tax cut for low and middle earners, combined "hope and credibility". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8618779.stm)
 

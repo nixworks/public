@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/09/16/pkk-attacks-kill-five-turkish-police-officers-in-the-southeastern-mardin-and-hakkac-ri-provinces-the-turkish-army-claims-to-have-killed-nine.html)  [JSON](/news/2015/09/16/pkk-attacks-kill-five-turkish-police-officers-in-the-southeastern-mardin-and-hakkac-ri-provinces-the-turkish-army-claims-to-have-killed-nine.json)  [XML](/news/2015/09/16/pkk-attacks-kill-five-turkish-police-officers-in-the-southeastern-mardin-and-hakkac-ri-provinces-the-turkish-army-claims-to-have-killed-nine.xml)  
+
 ### [2015-09-16](/news/2015/09/16/index.md)
 
+##### Turkey-PKK conflict
 # PKK attacks kill five Turkish police officers in the southeastern Mardin and Hakkari provinces. The Turkish Army claims to have killed nine militants. 
 
 Kurdistan Workers Party (PKK) militants kill three Turkish police officers overnight in a bomb attack on their armored vehicle as they traveled along a highway in southeast Turkey, security sources say
 
 
-### Source:
+### Sources:
 
 1. [Daily Sabah](http://www.dailysabah.com/nation/2015/09/16/5-police-officers-killed-by-pkk-terrorists-in-southeastern-turkey)
 2. [Reuters via ''Daily Star](http://www.dailystar.com.lb/News/Middle-East/2015/Sep-16/315432-pkk-bomb-attack-clashes-kill-12-in-southeast-turkey-sources.ashx)
 2. [Cover Image](http://www.dailystar.com.lb//dailystar/Pictures/2015/09/16/454497_img650x420_img650x420_crop.jpg)
+
+### Changes:
+
+1. [Turkey-PKK conflict: PKK attacks kill five Turkish police officers in the southeastern Mardin and Hakkari provinces. The Turkish Army claims to have killed nine militants. ](/news/2015/09/16/turkey-pkk-conflict-pkk-attacks-kill-five-turkish-police-officers-in-the-southeastern-mardin-and-hakkac-ri-provinces-the-turkish-army-cla.md) _2017-08-27 03:43:04 (First version)_
+1. [PKK attacks kill five Turkish police officers in the southeastern Mardin and Hakkari provinces. The Turkish Army claims to have killed nine militants. ](/news/2015/09/16/pkk-attacks-kill-five-turkish-police-officers-in-the-southeastern-mardin-and-hakkac-ri-provinces-the-turkish-army-claims-to-have-killed-nine.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Kurdistan Workers Party (PKK) militants kill three Turkish police officers overn
 3. [Two police officers are gunned down by suspected PKK militants on the streets of Adana, southern Turkey. ](/news/2015/09/29/two-police-officers-are-gunned-down-by-suspected-pkk-militants-on-the-streets-of-adana-southern-turkey.md) _Context: PKK, Turkey-PKK conflict, Turkish police_
 4. [Turkish police headquarters in Midyat and Cinar, Diyarbakir, are hit by car bombs, killing six people and injuring 39. No group has claimed responsibility but the government accuses PKK rebels of carrying out the attack. ](/news/2016/01/14/turkish-police-headquarters-in-midyat-and-aa-nar-diyarbaka-r-are-hit-by-car-bombs-killing-six-people-and-injuring-39-no-group-has-claim.md) _Context: Turkey-PKK conflict, Turkish police_
 5. [Turkish security forces backed up by tanks and combat helicopters launch a large-scale operation against PKK militants in the mainly Kurdish town of Silvan, which has been under a punishing curfew for nine days. At least five people are killed in the fighting, including a Turkish soldier. ](/news/2015/11/11/turkish-security-forces-backed-up-by-tanks-and-combat-helicopters-launch-a-large-scale-operation-against-pkk-militants-in-the-mainly-kurdish.md) _Context: PKK, Turkey-PKK conflict_
-
-### Changes:
-
-1. [Turkey-PKK conflict: PKK attacks kill five Turkish police officers in the southeastern Mardin and Hakkari provinces. The Turkish Army claims to have killed nine militants. ](/news/2015/09/16/turkey-pkk-conflict-pkk-attacks-kill-five-turkish-police-officers-in-the-southeastern-mardin-and-hakkac-ri-provinces-the-turkish-army-cla.md) _2017-08-27 03:43:04 (First version)_
-1. [PKK attacks kill five Turkish police officers in the southeastern Mardin and Hakkari provinces. The Turkish Army claims to have killed nine militants. ](/news/2015/09/16/pkk-attacks-kill-five-turkish-police-officers-in-the-southeastern-mardin-and-hakkac-ri-provinces-the-turkish-army-claims-to-have-killed-nine.md) _(Current version)_

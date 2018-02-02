@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/31/armenian-politician-paruyr-hayrikyan-is-shot-in-his-right-clavicle-and-taken-to-a-hospital-in-yerevan-armenia-during-his-bid-for-the-presi.html)  [JSON](/news/2013/01/31/armenian-politician-paruyr-hayrikyan-is-shot-in-his-right-clavicle-and-taken-to-a-hospital-in-yerevan-armenia-during-his-bid-for-the-presi.json)  [XML](/news/2013/01/31/armenian-politician-paruyr-hayrikyan-is-shot-in-his-right-clavicle-and-taken-to-a-hospital-in-yerevan-armenia-during-his-bid-for-the-presi.xml)  
+
 ### [2013-01-31](/news/2013/01/31/index.md)
 
+##### Paruyr Hayrikyan
 # Armenian politician Paruyr Hayrikyan is shot in his right clavicle and taken to a hospital in Yerevan, Armenia, during his bid for the presidency. 
 
 Armenian presidential candidate and leader of the Armenian Self-Determination Movement Paruyr Hayrikian was shot on Tpagrichneri Avenue, shortly before midnight Friday.
 
 
-### Source:
+### Sources:
 
 1. [Asbarez](http://asbarez.com/108019/breaking-news-hayrikian-shot-taken-to-hospital/)
 

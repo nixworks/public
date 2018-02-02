@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/26/in-the-city-of-munich-germany-the-spd-and-greens-who-have-a-city-hall-majority-decide-in-separate-meetings-to-migrate-14-000-city-owne.html)  [JSON](/news/2003/05/26/in-the-city-of-munich-germany-the-spd-and-greens-who-have-a-city-hall-majority-decide-in-separate-meetings-to-migrate-14-000-city-owne.json)  [XML](/news/2003/05/26/in-the-city-of-munich-germany-the-spd-and-greens-who-have-a-city-hall-majority-decide-in-separate-meetings-to-migrate-14-000-city-owne.xml)  
+
 ### [2003-05-26](/news/2003/05/26/index.md)
 
+##### Munich
 #  In the city of Munich (Germany), the SPD and Greens, who have a city hall majority, decide in separate meetings to migrate 14,000 city-owned Windows NT PC workstations to the SUSE Linux operating system. In spite of personal meetings with Microsoft CEO Steve Ballmer and substantial rebates offered on a Microsoft solution, Munich now becomes the largest German city to migrate all of its client PCs to Linux. As an office suite, OpenOffice.org will be used.
 
 

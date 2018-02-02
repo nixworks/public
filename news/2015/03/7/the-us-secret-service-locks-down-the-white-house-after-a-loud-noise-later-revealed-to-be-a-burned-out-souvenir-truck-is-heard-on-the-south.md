@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2015/03/7/the-us-secret-service-locks-down-the-white-house-after-a-loud-noise-later-revealed-to-be-a-burned-out-souvenir-truck-is-heard-on-the-south.html)  [JSON](/news/2015/03/7/the-us-secret-service-locks-down-the-white-house-after-a-loud-noise-later-revealed-to-be-a-burned-out-souvenir-truck-is-heard-on-the-south.json)  [XML](/news/2015/03/7/the-us-secret-service-locks-down-the-white-house-after-a-loud-noise-later-revealed-to-be-a-burned-out-souvenir-truck-is-heard-on-the-south.xml)  
+
 ### [2015-03-7](/news/2015/03/7/index.md)
 
+##### United States Secret Service
 # The US Secret Service locks down the White House after a loud noise (later revealed to be a burned-out souvenir truck) is heard on the South Lawn, moments before U.S. President Barack Obama and his family were due to take off by helicopter. He and his family were not yet on the South Lawn when the noise was heard. 
 
 A security lockdown at the White House triggered by a loud bang just as President Barack Obama was due to leave was caused by a souvenir truck catching fire in a nearby street, the Secret Service said on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via MSN](http://www.msn.com/en-us/news/politics/white-house-on-lockdown-after-loud-bang-pool-report/ar-AA9uIzo)
-2. [Reuters](http://www.reuters.com/article/2015/03/08/us-usa-securtity-obama-idUSKBN0M30LX20150308)
-2. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150308&t=2&i=1030428035&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB27007)
+2. [Reuters](https://www.reuters.com/article/2015/03/08/us-usa-securtity-obama-idUSKBN0M30LX20150308)
+2. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150308&t=2&i=1030428035&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB27007)
 
 ### Related:
 

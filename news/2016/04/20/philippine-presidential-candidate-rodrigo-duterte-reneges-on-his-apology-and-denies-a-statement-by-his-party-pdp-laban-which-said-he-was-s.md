@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/20/philippine-presidential-candidate-rodrigo-duter
 
 ### [2016-04-20](/news/2016/04/20/index.md)
 
+##### Philippine presidential election, 2016
 # Philippine presidential candidate Rodrigo Duterte reneges on his apology and denies a statement by his party, PDP-Laban, which said he was sorry for his rape comments. 
 
 

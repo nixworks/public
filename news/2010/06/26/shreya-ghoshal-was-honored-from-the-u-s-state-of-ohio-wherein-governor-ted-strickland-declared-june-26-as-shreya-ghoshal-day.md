@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/26/shreya-ghoshal-was-honored-from-the-u-s-state-of-ohio-wherein-governor-ted-strickland-declared-june-26-as-shreya-ghoshal-day.html)  [JSON](/news/2010/06/26/shreya-ghoshal-was-honored-from-the-u-s-state-of-ohio-wherein-governor-ted-strickland-declared-june-26-as-shreya-ghoshal-day.json)  [XML](/news/2010/06/26/shreya-ghoshal-was-honored-from-the-u-s-state-of-ohio-wherein-governor-ted-strickland-declared-june-26-as-shreya-ghoshal-day.xml)  
+
 ### [2010-06-26](/news/2010/06/26/index.md)
 
+##### Shreya Ghoshal
 # Shreya Ghoshal was honored from the U.S. state of Ohio, wherein governor Ted Strickland declared June 26 as "Shreya Ghoshal Day". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [[[IMDb](http://www.imdb.com/news/ni3051125)
 

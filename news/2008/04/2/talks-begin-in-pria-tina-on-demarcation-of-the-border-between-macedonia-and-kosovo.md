@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/2/talks-begin-in-pria-tina-on-demarcation-of-the-border-between-macedonia-and-kosovo.html)  [JSON](/news/2008/04/2/talks-begin-in-pria-tina-on-demarcation-of-the-border-between-macedonia-and-kosovo.json)  [XML](/news/2008/04/2/talks-begin-in-pria-tina-on-demarcation-of-the-border-between-macedonia-and-kosovo.xml)  
+
 ### [2008-04-2](/news/2008/04/2/index.md)
 
+##### Pristina
 #  Talks begin in Pristina on demarcation of the border between Macedonia and Kosovo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [B-92](http://www.b92.net/eng/news/politics-article.php?yyyy=2008&mm=04&dd=02&nav_id=49022)
 

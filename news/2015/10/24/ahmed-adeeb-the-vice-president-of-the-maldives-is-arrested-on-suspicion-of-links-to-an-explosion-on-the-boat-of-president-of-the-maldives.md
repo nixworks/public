@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/24/ahmed-adeeb-the-vice-president-of-the-maldives-is-arrested-on-suspicion-of-links-to-an-explosion-on-the-boat-of-president-of-the-maldives.html)  [JSON](/news/2015/10/24/ahmed-adeeb-the-vice-president-of-the-maldives-is-arrested-on-suspicion-of-links-to-an-explosion-on-the-boat-of-president-of-the-maldives.json)  [XML](/news/2015/10/24/ahmed-adeeb-the-vice-president-of-the-maldives-is-arrested-on-suspicion-of-links-to-an-explosion-on-the-boat-of-president-of-the-maldives.xml)  
+
 ### [2015-10-24](/news/2015/10/24/index.md)
 
+##### Ahmed Adeeb
 # Ahmed Adeeb, the Vice President of the Maldives, is arrested on suspicion of links to an explosion on the boat of President of the Maldives Abdulla Yameen last month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Washington Post](https://www.washingtonpost.com/world/asia_pacific/maldives-police-arrest-vp-over-blast-on-presidents-boat/2015/10/24/2722357a-7a23-11e5-a5e2-40d6b2ad18dd_story.html)
 

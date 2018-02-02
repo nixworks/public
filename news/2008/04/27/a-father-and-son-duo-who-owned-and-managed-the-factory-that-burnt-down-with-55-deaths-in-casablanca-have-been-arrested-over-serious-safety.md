@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/27/a-father-and-son-duo-who-owned-and-managed-the-factory-that-burnt-down-with-55-deaths-in-casablanca-have-been-arrested-over-serious-safety.html)  [JSON](/news/2008/04/27/a-father-and-son-duo-who-owned-and-managed-the-factory-that-burnt-down-with-55-deaths-in-casablanca-have-been-arrested-over-serious-safety.json)  [XML](/news/2008/04/27/a-father-and-son-duo-who-owned-and-managed-the-factory-that-burnt-down-with-55-deaths-in-casablanca-have-been-arrested-over-serious-safety.xml)  
+
 ### [2008-04-27](/news/2008/04/27/index.md)
 
+##### Casablanca
 #  A father-and-son duo who owned and managed the factory that burnt down with 55 deaths in Casablanca have been arrested over serious safety violations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5izpBR14kMPISjA2KtSENoPnzWqKQ)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/14/dolly-the-sheep-the-world-s-first-cloned-mammal-was-euthanized-well-short-of-her-natural-lifespan-because-of-a-progressive-lung-disease.html)  [JSON](/news/2003/02/14/dolly-the-sheep-the-world-s-first-cloned-mammal-was-euthanized-well-short-of-her-natural-lifespan-because-of-a-progressive-lung-disease.json)  [XML](/news/2003/02/14/dolly-the-sheep-the-world-s-first-cloned-mammal-was-euthanized-well-short-of-her-natural-lifespan-because-of-a-progressive-lung-disease.xml)  
+
 ### [2003-02-14](/news/2003/02/14/index.md)
 
+##### Dolly the sheep
 #  Dolly the sheep, the world's first cloned mammal, was euthanized well short of her natural lifespan because of a progressive lung disease.
 
 

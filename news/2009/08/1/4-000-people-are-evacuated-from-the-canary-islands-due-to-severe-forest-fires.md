@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/1/4-000-people-are-evacuated-from-the-canary-islands-due-to-severe-forest-fires.html)  [JSON](/news/2009/08/1/4-000-people-are-evacuated-from-the-canary-islands-due-to-severe-forest-fires.json)  [XML](/news/2009/08/1/4-000-people-are-evacuated-from-the-canary-islands-due-to-severe-forest-fires.xml)  
+
 ### [2009-08-1](/news/2009/08/1/index.md)
 
+##### Canary Islands'
 #  4,000 people are evacuated from the Canary Islands due to severe forest fires. 
 
 4,000 people have been evacuated from their homes on one of Spain&#39;s Canary Islands due to severe forest fires.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2009/0801/spain.html)
 1. [Cover Image](https://img.rasset.ie/00027c12-1600.jpg)

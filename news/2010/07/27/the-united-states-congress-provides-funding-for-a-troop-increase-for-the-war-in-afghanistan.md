@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2010/07/27/the-united-states-congress-provides-funding-for-a-troop-increase-for-the-war-in-afghanistan.html)  [JSON](/news/2010/07/27/the-united-states-congress-provides-funding-for-a-troop-increase-for-the-war-in-afghanistan.json)  [XML](/news/2010/07/27/the-united-states-congress-provides-funding-for-a-troop-increase-for-the-war-in-afghanistan.xml)  
+
 ### [2010-07-27](/news/2010/07/27/index.md)
 
+##### lawmakers
 # The United States Congress provides funding for a troop increase for the War in Afghanistan. 
 
 The Congress on Tuesday gave President Barack Obama long-delayed funding for his troop increase in Afghanistan despite opposition from many fellow Democrats, while Obama played down the gravity of leaked war documents.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE66O1G220100728)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20100728&t=2&i=165259071&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-07-28T002415Z_01_BTRE66P1PPM00_RTROPTP_0_AFGHANISTAN-WIKILEAKS-BRITAIN)
+1. [Reuters](https://www.reuters.com/article/idUSTRE66O1G220100728)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20100728&t=2&i=165259071&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-07-28T002415Z_01_BTRE66P1PPM00_RTROPTP_0_AFGHANISTAN-WIKILEAKS-BRITAIN)
 
 ### Related:
 
-1. [U.S. Secretary of State Clinton notifies Congress of her intent to include the Haqqani network on the government's terror list. An attache at the Embassy of Pakistan in Washington dismisses the decision as an "internal matter" of the United States and reaffirms Pakistan's commitment to "combating extremism and terrorism." Haqqani senior commanders say the decision will not help in bringing peace to Afghanistan. ](/news/2012/09/7/u-s-secretary-of-state-clinton-notifies-congress-of-her-intent-to-include-the-haqqani-network-on-the-government-s-terror-list-an-attacha-c.md) _Context: United States Congress, War in Afghanistan (2001-present)_
-2. [The U.S. military is sending M1 Abrams tanks to Afghanistan for the first time in the nine-year war in Afghanistan. ](/news/2010/11/19/the-u-s-military-is-sending-m1-abrams-tanks-to-afghanistan-for-the-first-time-in-the-nine-year-war-in-afghanistan.md) _Context: United States military personnel, War in Afghanistan (2001-present)_
-3. [7 American soldiers are killed in fighting in Afghanistan over the weekend. ](/news/2010/08/29/7-american-soldiers-are-killed-in-fighting-in-afghanistan-over-the-weekend.md) _Context: United States military personnel, War in Afghanistan (2001-present)_
-4. [ United States President Barack Obama authorizes the deployment of 12,000 more soldiers into the Afghanistan War. ](/news/2009/02/17/united-states-president-barack-obama-authorizes-the-deployment-of-12-000-more-soldiers-into-the-afghanistan-war.md) _Context: United States military personnel, War in Afghanistan (2001-present)_
-5. [U.S. President Donald Trump chooses not to certify that Iran complies with the 2015 agreement. The United States Congress now has 60 days to decide whether to lift the sanctions relief, possibly breaching the agreement. ](/news/2017/10/13/u-s-president-donald-trump-chooses-not-to-certify-that-iran-complies-with-the-2015-agreement-the-united-states-congress-now-has-60-days-to.md) _Context: United States Congress_
+1. [U.S. Secretary of State Clinton notifies Congress of her intent to include the Haqqani network on the government's terror list. An attache at the Embassy of Pakistan in Washington dismisses the decision as an "internal matter" of the United States and reaffirms Pakistan's commitment to "combating extremism and terrorism." Haqqani senior commanders say the decision will not help in bringing peace to Afghanistan. ](/news/2012/09/7/u-s-secretary-of-state-clinton-notifies-congress-of-her-intent-to-include-the-haqqani-network-on-the-government-s-terror-list-an-attacha-c.md) _Context: War in Afghanistan (2001-present), lawmakers_
+2. [ United States President Barack Obama authorizes the deployment of 12,000 more soldiers into the Afghanistan War. ](/news/2009/02/17/united-states-president-barack-obama-authorizes-the-deployment-of-12-000-more-soldiers-into-the-afghanistan-war.md) _Context: United States military personnel, War in Afghanistan (2001-present)_
+3. [An Amtrak train carrying Republican lawmakers to a retreat in West Virginia collides with a garbage truck in Crozet, Virginia. At least one person dies and one person is seriously injured. The White House states that there are no serious injuries among members of Congress or their staff. ](/news/2018/01/31/an-amtrak-train-carrying-republican-lawmakers-to-a-retreat-in-west-virginia-collides-with-a-garbage-truck-in-crozet-virginia-at-least-one.md) _Context: lawmakers_
+4. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: War in Afghanistan (2001-present)_
+5. [Two bills are unanimously approved by the Florida House and Senate Committees that propose moving the state permanently to Daylight Saving Time (UTC[?]04:00), and shifting most of the Panhandle west of a line from eastern Jackson County to northern Gulf County - which currently lies within the southern boundary of the Central Time Zone (UTC[?]05:00) - to the Eastern Time Zone, in alignment with the remainder of Florida's 67 counties. If passed by the state legislature, any changes would need to be approved by the Department of Transportation and Congress. ](/news/2018/01/25/two-bills-are-unanimously-approved-by-the-florida-house-and-senate-committees-that-propose-moving-the-state-permanently-to-daylight-saving-t.md) _Context: lawmakers_

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/11/23/a-highway-traffic-accident-in-the-mexican-state-of-puebla-kills-20-people-and-injures-at-least-15-others.html)  [JSON](/news/2015/11/23/a-highway-traffic-accident-in-the-mexican-state-of-puebla-kills-20-people-and-injures-at-least-15-others.json)  [XML](/news/2015/11/23/a-highway-traffic-accident-in-the-mexican-state-of-puebla-kills-20-people-and-injures-at-least-15-others.xml)  
+
 ### [2015-11-23](/news/2015/11/23/index.md)
 
+##### Puebla
 # A highway traffic accident in the Mexican state of Puebla kills 20 people and injures at least 15 others. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/11/23/us-mexico-accident-idUSKBN0TC1HH20151123#kYGyKEvE2XWAXZbb.97)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/11/23/us-mexico-accident-idUSKBN0TC1HH20151123#kYGyKEvE2XWAXZbb.97)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

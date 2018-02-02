@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2006/04/23/parliamentary-elections-in-hungary-the-hungarian-socialist-party-wins-with-a-plurality-of-the-votes-and-will-therefore-continue-to-govern.html)  [JSON](/news/2006/04/23/parliamentary-elections-in-hungary-the-hungarian-socialist-party-wins-with-a-plurality-of-the-votes-and-will-therefore-continue-to-govern.json)  [XML](/news/2006/04/23/parliamentary-elections-in-hungary-the-hungarian-socialist-party-wins-with-a-plurality-of-the-votes-and-will-therefore-continue-to-govern.xml)  
+
 ### [2006-04-23](/news/2006/04/23/index.md)
 
+##### Parliamentary elections
 #  Parliamentary elections in Hungary: The Hungarian Socialist Party wins with a plurality of the votes and will therefore continue to govern in coalition with the Alliance of Free Democrats; it also becomes the first re-elected government of Hungary since the end of the Cold War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4935474.stm)
-2. [Washington Post/Reuters](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300158.html)
-3. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300581.html)
+2. [Washington Post/Reuters](https://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300158.html)
+3. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2006/04/23/AR2006042300581.html)
 3. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

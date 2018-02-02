@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/8/the-ellen-degeneres-show-premiered-on-nbc-hosted-by-comedian-and-entertainer-ellen-degeneres-and-originally-filmed-in-studio-11-at-nbc-stu.html)  [JSON](/news/2003/09/8/the-ellen-degeneres-show-premiered-on-nbc-hosted-by-comedian-and-entertainer-ellen-degeneres-and-originally-filmed-in-studio-11-at-nbc-stu.json)  [XML](/news/2003/09/8/the-ellen-degeneres-show-premiered-on-nbc-hosted-by-comedian-and-entertainer-ellen-degeneres-and-originally-filmed-in-studio-11-at-nbc-stu.xml)  
+
 ### [2003-09-8](/news/2003/09/8/index.md)
 
+##### The Ellen DeGeneres Show
 #  The Ellen DeGeneres Show premiered on NBC. Hosted by comedian and entertainer Ellen DeGeneres and originally filmed in Studio 11 at NBC Studios in Burbank, California, The successful television program has won 31 day-time Emmy Awards and is scheduled to remain on air to at least the 2013-2014 season.
 
 

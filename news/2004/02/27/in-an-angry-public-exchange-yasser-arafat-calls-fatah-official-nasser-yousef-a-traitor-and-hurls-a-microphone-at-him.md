@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/27/in-an-angry-public-exchange-yasser-arafat-calls-fatah-official-nasser-yousef-a-traitor-and-hurls-a-microphone-at-him.html)  [JSON](/news/2004/02/27/in-an-angry-public-exchange-yasser-arafat-calls-fatah-official-nasser-yousef-a-traitor-and-hurls-a-microphone-at-him.json)  [XML](/news/2004/02/27/in-an-angry-public-exchange-yasser-arafat-calls-fatah-official-nasser-yousef-a-traitor-and-hurls-a-microphone-at-him.xml)  
+
 ### [2004-02-27](/news/2004/02/27/index.md)
 
+##### Yasser Arafat
 #  In an angry public exchange, Yasser Arafat calls Fatah official Nasser Yousef a "traitor" and hurls a microphone at him. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Bawaba](http://www.albawaba.com/news/index.php3?sid=271360&lang=e&dir=news)
 2. [Maariv](http://www.maarivintl.com/index.cfm?fuseaction=article&articleID=3719)

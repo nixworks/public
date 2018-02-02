@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/26/several-earthquakes-over-the-weekend-centered-below-mount-st-helens-in-the-u-s-state-of-washington-prompt-scientists-to-issue-a-rare-warn.html)  [JSON](/news/2004/09/26/several-earthquakes-over-the-weekend-centered-below-mount-st-helens-in-the-u-s-state-of-washington-prompt-scientists-to-issue-a-rare-warn.json)  [XML](/news/2004/09/26/several-earthquakes-over-the-weekend-centered-below-mount-st-helens-in-the-u-s-state-of-washington-prompt-scientists-to-issue-a-rare-warn.xml)  
+
 ### [2004-09-26](/news/2004/09/26/index.md)
 
+##### earthquake
 #  Several earthquakes over the weekend centered below Mount St. Helens in the U.S. state of Washington prompt scientists to issue a rare warning that the volcano could erupt soon. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [USGS/CVO](http://vulcan.wr.usgs.gov/Volcanoes/Cascades/CurrentActivity/current_updates.html)
 
@@ -15,4 +19,4 @@
 2. [ A very high plume of ash and steam is seen coming from the direction of active volcano Mount St. Helens in the U.S. state of Washington. The plume is visible as far away as Portland, Oregon. (Wikinews) ](/news/2005/03/8/a-very-high-plume-of-ash-and-steam-is-seen-coming-from-the-direction-of-active-volcano-mount-st-helens-in-the-u-s-state-of-washington-th.md) _Context: Mount St. Helens, Washington_
 3. [ The Shiveluch volcano on Russia's Kamchatka Peninsula erupts, causing a large earthquake and producing a 6500 ft plume of hot ash. ](/news/2004/12/28/the-shiveluch-volcano-on-russia-s-kamchatka-peninsula-erupts-causing-a-large-earthquake-and-producing-a-6500-ft-plume-of-hot-ash.md) _Context: earthquake, volcano_
 4. [ Mount St. Helens in the U.S. state of Washington awakens, with a minor eruption of steam, smoke, and ash. ](/news/2004/10/1/mount-st-helens-in-the-u-s-state-of-washington-awakens-with-a-minor-eruption-of-steam-smoke-and-ash.md) _Context: Mount St. Helens, Washington_
-5. [A 6.3 magnitude earthquake is detected near the Punggye-ri Nuclear Test Site in Kilju County, North Korea, after North Korea tests its sixth and most powerful nuclear weapon to date. North Korean state media claims the country tested a hydrogen bomb that can be fitted on an ICBM. ](/news/2017/09/3/a-6-3-magnitude-earthquake-is-detected-near-the-punggye-ri-nuclear-test-site-in-kilju-county-north-korea-after-north-korea-tests-its-sixth.md) _Context: earthquake_
+5. [All residents are evacuated, 500 of them to the nearby island of Blup Blup, while the once-dormant Kadovar volcano in the Schouten Islands, Papua New Guinea, erupts for the first known time, sending an ash cloud 2.1 km above sea level. ](/news/2018/01/8/all-residents-are-evacuated-500-of-them-to-the-nearby-island-of-blup-blup-while-the-once-dormant-kadovar-volcano-in-the-schouten-islands.md) _Context: volcano_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/12/nine-people-are-thought-to-have-been-killed-and-30-others-are-injured-some-seriously-after-a-landslide-caused-a-train-to-derail-in-merano.html)  [JSON](/news/2010/04/12/nine-people-are-thought-to-have-been-killed-and-30-others-are-injured-some-seriously-after-a-landslide-caused-a-train-to-derail-in-merano.json)  [XML](/news/2010/04/12/nine-people-are-thought-to-have-been-killed-and-30-others-are-injured-some-seriously-after-a-landslide-caused-a-train-to-derail-in-merano.xml)  
+
 ### [2010-04-12](/news/2010/04/12/index.md)
 
+##### caused a train to derail
 # Nine people are thought to have been killed and 30 others are injured, some seriously, after a landslide caused a train to derail in Merano, near the Austrian border with Italy. 
 
 At least nine people killed as train crashes near northern town of Merano.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/04/201041210231888995.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/europe/8615002.stm)

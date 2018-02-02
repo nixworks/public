@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/03/14/rock-and-roll-musicians-including-dr-john-darlene-love-neil-diamond-alice-cooper-and-tom-waits-are-inducted-in-the-rock-and-roll-hall-of.html)  [JSON](/news/2011/03/14/rock-and-roll-musicians-including-dr-john-darlene-love-neil-diamond-alice-cooper-and-tom-waits-are-inducted-in-the-rock-and-roll-hall-of.json)  [XML](/news/2011/03/14/rock-and-roll-musicians-including-dr-john-darlene-love-neil-diamond-alice-cooper-and-tom-waits-are-inducted-in-the-rock-and-roll-hall-of.xml)  
+
 ### [2011-03-14](/news/2011/03/14/index.md)
 
+##### Rock and roll
 # Rock and roll musicians including Dr. John, Darlene Love, Neil Diamond, Alice Cooper and Tom Waits are inducted in the Rock and Roll Hall of Fame. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20110315/ap_on_en_mu/us_rock_hall)
+1. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20110315/ap_on_en_mu/us_rock_hall)
 
 ### Related:
 

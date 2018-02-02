@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/19/the-international-atomic-energy-agency-receives-an-invitation-from-north-korea-to-visit.html)  [JSON](/news/2012/03/19/the-international-atomic-energy-agency-receives-an-invitation-from-north-korea-to-visit.json)  [XML](/news/2012/03/19/the-international-atomic-energy-agency-receives-an-invitation-from-north-korea-to-visit.xml)  
+
 ### [2012-03-19](/news/2012/03/19/index.md)
 
+##### IAEA
 # The International Atomic Energy Agency receives an invitation from North Korea to visit. 
 
 The United Nations nuclear watchdog says it received an invitation from North Korea to visit.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2012/03/201231920231346831.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/20/201162012111287734_20.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/24/former-democratic-it-shared-employee-imran-awan
 
 ### [2017-07-24](/news/2017/07/24/index.md)
 
+##### Imran Awan
 # Former Democratic IT shared employee Imran Awan is arrested on charges of bank fraud at the Washington Dulles International Airport. 
 
 

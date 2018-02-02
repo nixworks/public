@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/6/gunmen-kill-13-people-near-the-town-of-ziguincho
 
 ### [2018-01-6](/news/2018/01/6/index.md)
 
+##### Casamance conflict
 # Gunmen kill 13 people near the town of Ziguinchor, Senegal. 
 
 Gunmen&#x20;killed&#x20;at&#x20;least&#x20;13&#x20;people&#x20;Saturday&#x20;in&#x20;Senegal&#x20;who&#x20;were&#x20;gathering&#x20;firewood&#x20;in&#x20;the&#x20;forest,&#x20;the&#x20;military&#x20;said.

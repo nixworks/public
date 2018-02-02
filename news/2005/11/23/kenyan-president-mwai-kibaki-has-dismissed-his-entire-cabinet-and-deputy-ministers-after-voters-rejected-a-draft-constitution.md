@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/23/kenyan-president-mwai-kibaki-has-dismissed-his-entire-cabinet-and-deputy-ministers-after-voters-rejected-a-draft-constitution.html)  [JSON](/news/2005/11/23/kenyan-president-mwai-kibaki-has-dismissed-his-entire-cabinet-and-deputy-ministers-after-voters-rejected-a-draft-constitution.json)  [XML](/news/2005/11/23/kenyan-president-mwai-kibaki-has-dismissed-his-entire-cabinet-and-deputy-ministers-after-voters-rejected-a-draft-constitution.xml)  
+
 ### [2005-11-23](/news/2005/11/23/index.md)
 
+##### Kenya
 #  Kenyan President Mwai Kibaki has dismissed his entire cabinet and deputy ministers after voters rejected a draft constitution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/4463262.stm)
 2. [Reuters](http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-11-23T162355Z_01_WRI359012_RTRUKOC_0_UK-KENYA-REFERENDUM.xml)

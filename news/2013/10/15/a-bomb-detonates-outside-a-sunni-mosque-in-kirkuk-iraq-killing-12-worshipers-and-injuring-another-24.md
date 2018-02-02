@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2013/10/15/a-bomb-detonates-outside-a-sunni-mosque-in-kirkuk-iraq-killing-12-worshipers-and-injuring-another-24.html)  [JSON](/news/2013/10/15/a-bomb-detonates-outside-a-sunni-mosque-in-kirkuk-iraq-killing-12-worshipers-and-injuring-another-24.json)  [XML](/news/2013/10/15/a-bomb-detonates-outside-a-sunni-mosque-in-kirkuk-iraq-killing-12-worshipers-and-injuring-another-24.xml)  
+
 ### [2013-10-15](/news/2013/10/15/index.md)
 
+##### Sunni Muslim
 # A bomb detonates outside a Sunni mosque in Kirkuk, Iraq, killing 12 worshipers and injuring another 24. 
 
 Bomb targets crowd of Sunni worshippers coming out of a mosque in northern Iraq 
 
 
-### Source:
+### Sources:
 
 1. [The Irish Times](http://www.irishtimes.com/news/world/middle-east/at-least-12-dead-in-iraq-bomb-attack-1.1561427)
 1. [Cover Image](http://www.irishtimes.com/image-creator/?id=1.1561426&origw=960)
+
+### Changes:
+
+1. [Iraqi insurgency (post-U.S. withdrawal):A bomb detonates outside a Sunni mosque in Kirkuk, Iraq, killing 12 worshipers and injuring another 24. ](/news/2013/10/15/iraqi-insurgency-post-u-s-withdrawal-pa-bomb-detonates-outside-a-sunni-mosque-in-kirkuk-iraq-killing-12-worshipers-and-injuring-another.md) _2017-08-25 03:39:23 (First version)_
+2. [Iraqi insurgency (post-U.S. withdrawal):: A bomb detonates outside a Sunni mosque in Kirkuk, Iraq, killing 12 worshipers and injuring another 24. ](/news/2013/10/15/iraqi-insurgency-post-u-s-withdrawal-a-bomb-detonates-outside-a-sunni-mosque-in-kirkuk-iraq-killing-12-worshipers-and-injuring-anothe.md) _2017-08-27 03:39:40 (Update)_
+2. [A bomb detonates outside a Sunni mosque in Kirkuk, Iraq, killing 12 worshipers and injuring another 24. ](/news/2013/10/15/a-bomb-detonates-outside-a-sunni-mosque-in-kirkuk-iraq-killing-12-worshipers-and-injuring-another-24.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@ Bomb targets crowd of Sunni worshippers coming out of a mosque in northern Iraq
 3. [Islamic State militants attack two gas facilities northwest of Kirkuk in northern Iraq, killing at least five people and wounding six policemen. Three assailants detonated their explosive vests and a fourth was killed in clash with security forces. ](/news/2016/07/31/islamic-state-militants-attack-two-gas-facilities-northwest-of-kirkuk-in-northern-iraq-killing-at-least-five-people-and-wounding-six-police.md) _Context: Iraq, Kirkuk_
 4. [President Barack Obama authorizes up to 450 additional troops in Iraq to train Sunni forces. ](/news/2015/06/10/president-barack-obama-authorizes-up-to-450-additional-troops-in-iraq-to-train-sunni-forces.md) _Context: Iraq, Sunni Muslim_
 5. [A balloting station on the outskirts of Kirkuk, Iraq, is attacked by militants, leaving 10 people dead. ](/news/2014/04/22/a-balloting-station-on-the-outskirts-of-kirkuk-iraq-is-attacked-by-militants-leaving-10-people-dead.md) _Context: Iraq, Kirkuk_
-
-### Changes:
-
-1. [Iraqi insurgency (post-U.S. withdrawal):A bomb detonates outside a Sunni mosque in Kirkuk, Iraq, killing 12 worshipers and injuring another 24. ](/news/2013/10/15/iraqi-insurgency-post-u-s-withdrawal-pa-bomb-detonates-outside-a-sunni-mosque-in-kirkuk-iraq-killing-12-worshipers-and-injuring-another.md) _2017-08-25 03:39:23 (First version)_
-2. [Iraqi insurgency (post-U.S. withdrawal):: A bomb detonates outside a Sunni mosque in Kirkuk, Iraq, killing 12 worshipers and injuring another 24. ](/news/2013/10/15/iraqi-insurgency-post-u-s-withdrawal-a-bomb-detonates-outside-a-sunni-mosque-in-kirkuk-iraq-killing-12-worshipers-and-injuring-anothe.md) _2017-08-27 03:39:40 (Update)_
-2. [A bomb detonates outside a Sunni mosque in Kirkuk, Iraq, killing 12 worshipers and injuring another 24. ](/news/2013/10/15/a-bomb-detonates-outside-a-sunni-mosque-in-kirkuk-iraq-killing-12-worshipers-and-injuring-another-24.md) _(Current version)_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/7/president-of-afghanistan-hamid-karzai-opens-a-new-terminal-at-kabul-international-airport.html)  [JSON](/news/2008/11/7/president-of-afghanistan-hamid-karzai-opens-a-new-terminal-at-kabul-international-airport.json)  [XML](/news/2008/11/7/president-of-afghanistan-hamid-karzai-opens-a-new-terminal-at-kabul-international-airport.xml)  
+
 ### [2008-11-7](/news/2008/11/7/index.md)
 
+##### Afghanistan President
 #  President of Afghanistan Hamid Karzai opens a new terminal at Kabul International Airport. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7713796.stm)
 

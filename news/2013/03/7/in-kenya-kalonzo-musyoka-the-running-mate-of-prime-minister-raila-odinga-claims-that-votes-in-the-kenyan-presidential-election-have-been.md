@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/7/in-kenya-kalonzo-musyoka-the-running-mate-of-prime-minister-raila-odinga-claims-that-votes-in-the-kenyan-presidential-election-have-been.html)  [JSON](/news/2013/03/7/in-kenya-kalonzo-musyoka-the-running-mate-of-prime-minister-raila-odinga-claims-that-votes-in-the-kenyan-presidential-election-have-been.json)  [XML](/news/2013/03/7/in-kenya-kalonzo-musyoka-the-running-mate-of-prime-minister-raila-odinga-claims-that-votes-in-the-kenyan-presidential-election-have-been.xml)  
+
 ### [2013-03-7](/news/2013/03/7/index.md)
 
+##### Kenya
 # In Kenya, Kalonzo Musyoka, the running mate of Prime Minister Raila Odinga, claims that votes in the Kenyan presidential election have been doctored. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-21698069)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/66249000/jpg/_66249279_bakllotafp.jpg)

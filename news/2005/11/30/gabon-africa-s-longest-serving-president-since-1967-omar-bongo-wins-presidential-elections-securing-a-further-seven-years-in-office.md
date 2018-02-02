@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/30/gabon-africa-s-longest-serving-president-since-1967-omar-bongo-wins-presidential-elections-securing-a-further-seven-years-in-office.html)  [JSON](/news/2005/11/30/gabon-africa-s-longest-serving-president-since-1967-omar-bongo-wins-presidential-elections-securing-a-further-seven-years-in-office.json)  [XML](/news/2005/11/30/gabon-africa-s-longest-serving-president-since-1967-omar-bongo-wins-presidential-elections-securing-a-further-seven-years-in-office.xml)  
+
 ### [2005-11-30](/news/2005/11/30/index.md)
 
+##### Gabon
 #  Gabon: Africa's longest serving president (since 1967), Omar Bongo, wins presidential elections, securing a further seven years in office. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/IRIN/deb437c5c0e267fe05d75fc2e9ea90f2.htm)
 

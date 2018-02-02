@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/04/7/a-7-1-magnitude-earthquake-strikes-off-the-coast-of-northern-honshu-resulting-in-two-deaths-and-100-injuries.html)  [JSON](/news/2011/04/7/a-7-1-magnitude-earthquake-strikes-off-the-coast-of-northern-honshu-resulting-in-two-deaths-and-100-injuries.json)  [XML](/news/2011/04/7/a-7-1-magnitude-earthquake-strikes-off-the-coast-of-northern-honshu-resulting-in-two-deaths-and-100-injuries.xml)  
+
 ### [2011-04-7](/news/2011/04/7/index.md)
 
+##### 7.1 magnitude earthquake
 # A 7.1 magnitude earthquake strikes off the coast of northern Honshu resulting in two deaths and 100 injuries. 
 
 An aftershock in Japan has killed two people, including a 63-year-old woman whose respirator failed when the power was knocked out.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/two-killed-100-hurt-in-japan-aftershock-20110408-1d6yj.html)
-2. [USGS](http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0002ksa.php)
+2. [USGS](https://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0002ksa.php)
 2. [Cover Image](http://images.smh.com.au/2011/08/09/2545355/facebook-thumb-smh.png)
 
 ### Related:

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/01/9/the-venezuelan-supreme-tribunal-of-justice-rules-that-the-latest-inauguration-of-president-hugo-cha-vez-can-be-deferred-while-his-recovery-c.html)  [JSON](/news/2013/01/9/the-venezuelan-supreme-tribunal-of-justice-rules-that-the-latest-inauguration-of-president-hugo-cha-vez-can-be-deferred-while-his-recovery-c.json)  [XML](/news/2013/01/9/the-venezuelan-supreme-tribunal-of-justice-rules-that-the-latest-inauguration-of-president-hugo-cha-vez-can-be-deferred-while-his-recovery-c.xml)  
+
 ### [2013-01-9](/news/2013/01/9/index.md)
 
+##### Venezuela
 # The Venezuelan Supreme Tribunal of Justice rules that the latest inauguration of President Hugo Chavez can be deferred while his recovery continues from a cancer operation. 
 
 Venezuelan President Hugo Chavez remained on his sickbed in Cuba on Thursday while supporters planned to rally in his honor on the day he should have been sworn in for a new six-year term in the South American OPEC nation.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/01/10/us-venezuela-chavez-idUSBRE9080WP20130110)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130110&t=2&i=692682939&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9081BYT00)
+1. [Reuters](https://www.reuters.com/article/2013/01/10/us-venezuela-chavez-idUSBRE9080WP20130110)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130110&t=2&i=692682939&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9081BYT00)
 
 ### Related:
 

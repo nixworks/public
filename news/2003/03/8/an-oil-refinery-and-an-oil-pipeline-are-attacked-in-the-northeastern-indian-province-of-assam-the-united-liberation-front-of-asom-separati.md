@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/8/an-oil-refinery-and-an-oil-pipeline-are-attacked-in-the-northeastern-indian-province-of-assam-the-united-liberation-front-of-asom-separati.html)  [JSON](/news/2003/03/8/an-oil-refinery-and-an-oil-pipeline-are-attacked-in-the-northeastern-indian-province-of-assam-the-united-liberation-front-of-asom-separati.json)  [XML](/news/2003/03/8/an-oil-refinery-and-an-oil-pipeline-are-attacked-in-the-northeastern-indian-province-of-assam-the-united-liberation-front-of-asom-separati.xml)  
+
 ### [2003-03-8](/news/2003/03/8/index.md)
 
+##### oil refinery
 #  An oil refinery and an oil pipeline are attacked in the northeastern Indian province of Assam. The United Liberation Front of Asom separatist group claims responsibility and according to regional newspapers threatens more such attacks.
 
 

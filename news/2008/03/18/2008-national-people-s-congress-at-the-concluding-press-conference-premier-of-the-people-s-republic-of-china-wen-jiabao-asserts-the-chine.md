@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/18/2008-national-people-s-congress-at-the-concluding-press-conference-premier-of-the-people-s-republic-of-china-wen-jiabao-asserts-the-chine.html)  [JSON](/news/2008/03/18/2008-national-people-s-congress-at-the-concluding-press-conference-premier-of-the-people-s-republic-of-china-wen-jiabao-asserts-the-chine.json)  [XML](/news/2008/03/18/2008-national-people-s-congress-at-the-concluding-press-conference-premier-of-the-people-s-republic-of-china-wen-jiabao-asserts-the-chine.xml)  
+
 ### [2008-03-18](/news/2008/03/18/index.md)
 
+##### 2008 National People's Congress
 #  2008 National People's Congress: At the concluding press conference, Premier of the People's Republic of China Wen Jiabao asserts the Chinese government exercised restraint in suppressing the 2008 unrest in Tibet. Wen also accused the Dalai Lama of inciting the protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5h5Z6bJwtN_roGSIUQiQnfbf2NkhgD8VFJ65G0)
 2. [Xinhua](http://news.xinhuanet.com/english/2008-03/18/content_7814350.htm)

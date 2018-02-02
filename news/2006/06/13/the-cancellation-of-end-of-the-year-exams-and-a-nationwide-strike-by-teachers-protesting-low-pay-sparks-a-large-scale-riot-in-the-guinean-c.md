@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/13/the-cancellation-of-end-of-the-year-exams-and-a-nationwide-strike-by-teachers-protesting-low-pay-sparks-a-large-scale-riot-in-the-guinean-c.html)  [JSON](/news/2006/06/13/the-cancellation-of-end-of-the-year-exams-and-a-nationwide-strike-by-teachers-protesting-low-pay-sparks-a-large-scale-riot-in-the-guinean-c.json)  [XML](/news/2006/06/13/the-cancellation-of-end-of-the-year-exams-and-a-nationwide-strike-by-teachers-protesting-low-pay-sparks-a-large-scale-riot-in-the-guinean-c.xml)  
+
 ### [2006-06-13](/news/2006/06/13/index.md)
 
+##### Guinea
 #  The cancellation of end-of-the-year exams and a nationwide strike by teachers protesting low pay sparks a large scale riot in the Guinean capital of Conakry. 16 people are killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/WORLD/africa/06/13/guinea.protests.ap/index.html?section=cnn_latest)
 

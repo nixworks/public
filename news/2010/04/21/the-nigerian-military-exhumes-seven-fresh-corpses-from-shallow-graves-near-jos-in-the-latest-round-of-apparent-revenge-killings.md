@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/21/the-nigerian-military-exhumes-seven-fresh-corpses-from-shallow-graves-near-jos-in-the-latest-round-of-apparent-revenge-killings.html)  [JSON](/news/2010/04/21/the-nigerian-military-exhumes-seven-fresh-corpses-from-shallow-graves-near-jos-in-the-latest-round-of-apparent-revenge-killings.json)  [XML](/news/2010/04/21/the-nigerian-military-exhumes-seven-fresh-corpses-from-shallow-graves-near-jos-in-the-latest-round-of-apparent-revenge-killings.xml)  
+
 ### [2010-04-21](/news/2010/04/21/index.md)
 
+##### Nigeria
 # The Nigerian military exhumes seven fresh corpses from shallow graves near Jos in the latest round of apparent revenge killings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8634515.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/26/a-17-year-old-american-boy-grant-acord-is-arrested-and-charged-with-attempted-aggravated-murder-for-planning-to-blow-up-his-school-west-a.html)  [JSON](/news/2013/05/26/a-17-year-old-american-boy-grant-acord-is-arrested-and-charged-with-attempted-aggravated-murder-for-planning-to-blow-up-his-school-west-a.json)  [XML](/news/2013/05/26/a-17-year-old-american-boy-grant-acord-is-arrested-and-charged-with-attempted-aggravated-murder-for-planning-to-blow-up-his-school-west-a.xml)  
+
 ### [2013-05-26](/news/2013/05/26/index.md)
 
+##### attempted murder
 # A 17-year-old American boy, Grant Acord, is arrested and charged with attempted aggravated murder for planning to blow up his school, West Albany High School, in Albany, Oregon. Six explosives were found in his bedroom. 
 
 A US teenager who intended to blow up his school will be charged with attempted aggravated murder after six bombs were found in his bedroom.
 
 
-### Source:
+### Sources:
 
 1. [AP via News24](http://www.news24.com/news24/World/News/US-school-attack-foiled-20130526)
 2. [CNN](http://edition.cnn.com/2013/05/26/justice/oregon-teen-bomb-plot/index.html?hpt=hp_t3)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/11/2/the-journal-science-publishes.html)  [JSON](/news/2006/11/2/the-journal-science-publishes.json)  [XML](/news/2006/11/2/the-journal-science-publishes.xml)  
+
 ### [2006-11-2](/news/2006/11/2/index.md)
 
+##### Science
 #  The journal "Science" publishes 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2006/11/02/AR2006110200913.html)
+1. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2006/11/02/AR2006110200913.html)
 2. [a study by B. Worm ''et al.](http://www.sciencemag.org/cgi/content/abstract/sci;314/5800/787)
 2. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 

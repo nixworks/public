@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/7/shanghai-mayor-han-zheng-leading-a-delegation-with-a-presence-from-some-50-companies-visits-taiwan-for-investment-talks.html)  [JSON](/news/2010/04/7/shanghai-mayor-han-zheng-leading-a-delegation-with-a-presence-from-some-50-companies-visits-taiwan-for-investment-talks.json)  [XML](/news/2010/04/7/shanghai-mayor-han-zheng-leading-a-delegation-with-a-presence-from-some-50-companies-visits-taiwan-for-investment-talks.xml)  
+
 ### [2010-04-7](/news/2010/04/7/index.md)
 
+##### Han Zheng
 # Shanghai mayor Han Zheng, leading a delegation with a presence from some 50 companies, visits Taiwan for investment talks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201004070029)
 1. [Cover Image](http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/2010040700291.jpg)

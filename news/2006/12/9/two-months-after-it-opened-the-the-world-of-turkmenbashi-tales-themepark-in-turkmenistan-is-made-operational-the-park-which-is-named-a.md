@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/12/9/two-months-after-it-opened-the-the-world-of-turkmenbashi-tales-themepark-in-turkmenistan-is-made-operational-the-park-which-is-named-a.html)  [JSON](/news/2006/12/9/two-months-after-it-opened-the-the-world-of-turkmenbashi-tales-themepark-in-turkmenistan-is-made-operational-the-park-which-is-named-a.json)  [XML](/news/2006/12/9/two-months-after-it-opened-the-the-world-of-turkmenbashi-tales-themepark-in-turkmenistan-is-made-operational-the-park-which-is-named-a.xml)  
+
 ### [2006-12-9](/news/2006/12/9/index.md)
 
+##### Turkmenistan
 #  Two months after it opened, the "The World of Turkmenbashi Tales" themepark in Turkmenistan is made operational. The park, which is named after the Turkmenbashi, Saparmurat Niyazov, is expected to attract more children now that the rides work and all libraries have been closed. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/offbeat/2006-12-08-turkmen_x.htm?csp=34)
+1. [USA Today](https://www.usatoday.com/news/offbeat/2006-12-08-turkmen_x.htm?csp=34)
 
 ### Related:
 

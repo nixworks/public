@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/11/eleven-women-have-died-and-at-least-twenty-are-in-a-critical-condition-after-undergoing-sterilization-surgery-in-bilaspur-chhattisgarh-as.html)  [JSON](/news/2014/11/11/eleven-women-have-died-and-at-least-twenty-are-in-a-critical-condition-after-undergoing-sterilization-surgery-in-bilaspur-chhattisgarh-as.json)  [XML](/news/2014/11/11/eleven-women-have-died-and-at-least-twenty-are-in-a-critical-condition-after-undergoing-sterilization-surgery-in-bilaspur-chhattisgarh-as.xml)  
+
 ### [2014-11-11](/news/2014/11/11/index.md)
 
+##### sterilization
 # Eleven women have died and at least twenty are in a critical condition after undergoing sterilization surgery in Bilaspur, Chhattisgarh, as part of India's state-run mass sterilization campaign. 
 
 Eleven women die after botched sterilisation surgery at a remote village in central India, re-igniting fears about state-run family planning campaigns.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-india-29999874)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/78913000/gif/_78913525_villagersindex.gif)

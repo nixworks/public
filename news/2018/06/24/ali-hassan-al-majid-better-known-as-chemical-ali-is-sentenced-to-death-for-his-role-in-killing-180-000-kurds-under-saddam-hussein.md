@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/06/24/ali-hassan-al-majid-better-known-as-chemical-al
 
 ### [2018-06-24](/news/2018/06/24/index.md)
 
+##### Ali Hassan al-Majid
 #  Ali Hassan al-Majid, better known as "Chemical Ali," is sentenced to death for his role in killing 180,000 Kurds under Saddam Hussein. 
 
 Relatives of the victims of the man known as Chemical Ali are calling for him to be executed at one of the villages where he committed his crimes.

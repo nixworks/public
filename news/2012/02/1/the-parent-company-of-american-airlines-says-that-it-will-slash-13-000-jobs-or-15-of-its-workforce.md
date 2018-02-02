@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/1/the-parent-company-of-american-airlines-says-that-it-will-slash-13-000-jobs-or-15-of-its-workforce.html)  [JSON](/news/2012/02/1/the-parent-company-of-american-airlines-says-that-it-will-slash-13-000-jobs-or-15-of-its-workforce.json)  [XML](/news/2012/02/1/the-parent-company-of-american-airlines-says-that-it-will-slash-13-000-jobs-or-15-of-its-workforce.xml)  
+
 ### [2012-02-1](/news/2012/02/1/index.md)
 
+##### American Airlines
 # The parent company of American Airlines says that it will slash 13,000 jobs or 15% of its workforce. 
 
 The loss-making parent company of American Airlines says it will shed 13,000 jobs - around 15% of its workforce.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-16847278)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54162000/jpg/_54162755_002917445-1.jpg)

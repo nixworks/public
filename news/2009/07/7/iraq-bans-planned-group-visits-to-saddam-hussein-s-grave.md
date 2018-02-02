@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/7/iraq-bans-planned-group-visits-to-saddam-hussein-s-grave.html)  [JSON](/news/2009/07/7/iraq-bans-planned-group-visits-to-saddam-hussein-s-grave.json)  [XML](/news/2009/07/7/iraq-bans-planned-group-visits-to-saddam-hussein-s-grave.xml)  
+
 ### [2009-07-7](/news/2009/07/7/index.md)
 
+##### Iraq
 #  Iraq bans planned group visits to Saddam Hussein's grave. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/8138166.stm)
 

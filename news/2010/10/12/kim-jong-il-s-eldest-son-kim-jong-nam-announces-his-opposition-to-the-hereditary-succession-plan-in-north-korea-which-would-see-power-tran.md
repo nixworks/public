@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/12/kim-jong-il-s-eldest-son-kim-jong-nam-announces-his-opposition-to-the-hereditary-succession-plan-in-north-korea-which-would-see-power-tran.html)  [JSON](/news/2010/10/12/kim-jong-il-s-eldest-son-kim-jong-nam-announces-his-opposition-to-the-hereditary-succession-plan-in-north-korea-which-would-see-power-tran.json)  [XML](/news/2010/10/12/kim-jong-il-s-eldest-son-kim-jong-nam-announces-his-opposition-to-the-hereditary-succession-plan-in-north-korea-which-would-see-power-tran.xml)  
+
 ### [2010-10-12](/news/2010/10/12/index.md)
 
+##### Kim Jong-il
 # Kim Jong-il's eldest son, Kim Jong-nam, announces his opposition to the hereditary succession plan in North Korea which would see power transferred to his younger brother Kim Jong-un. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5j0kZX2R1LzOXsS2FKkUiOaxKB_JQD9IQ3KP00?docId=D9IQ3KP00)
 2. [Korea Herald](http://www.koreaherald.com/national/Detail.jsp?newsMLId=20101012000687)

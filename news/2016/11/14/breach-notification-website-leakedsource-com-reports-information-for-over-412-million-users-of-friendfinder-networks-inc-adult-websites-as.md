@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/14/breach-notification-website-leakedsource-com-re
 
 ### [2016-11-14](/news/2016/11/14/index.md)
 
+##### FriendFinder Networks Inc.
 # Breach notification website LeakedSource.com reports information for over 412 million users of FriendFinder Networks Inc. adult websites, as well as records from Penthouse.com, were compromised last month in the largest hack of the year. This attack potentially exposes 10 times the number in 2015's hack of infidelity website Ashley Madison. 
 
 Login credentials for over 412 million users of adult websites run by California-based FriendFinder Networks Inc. were compromised last month in the largest hack of 2016, according to breach notification website LeakedSource.com.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/27/the-president-of-indonesia-susilo-bambang-yudhoyono-meets-with-the-prime-minister-of-australia-john-howard-to-discuss-security-issues-and-t.html)  [JSON](/news/2007/07/27/the-president-of-indonesia-susilo-bambang-yudhoyono-meets-with-the-prime-minister-of-australia-john-howard-to-discuss-security-issues-and-t.json)  [XML](/news/2007/07/27/the-president-of-indonesia-susilo-bambang-yudhoyono-meets-with-the-prime-minister-of-australia-john-howard-to-discuss-security-issues-and-t.xml)  
+
 ### [2007-07-27](/news/2007/07/27/index.md)
 
+##### President of Indonesia
 #  The President of Indonesia Susilo Bambang Yudhoyono meets with the Prime Minister of Australia John Howard to discuss security issues and the possibility of a bilateral free trade agreement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://abc.net.au/news/stories/2007/07/27/1989980.htm)
 

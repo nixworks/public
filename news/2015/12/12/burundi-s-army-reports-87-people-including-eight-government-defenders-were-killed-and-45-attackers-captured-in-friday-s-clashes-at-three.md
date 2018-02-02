@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2015/12/12/burundi-s-army-reports-87-people-including-eight-government-defenders-were-killed-and-45-attackers-captured-in-friday-s-clashes-at-three.html)  [JSON](/news/2015/12/12/burundi-s-army-reports-87-people-including-eight-government-defenders-were-killed-and-45-attackers-captured-in-friday-s-clashes-at-three.json)  [XML](/news/2015/12/12/burundi-s-army-reports-87-people-including-eight-government-defenders-were-killed-and-45-attackers-captured-in-friday-s-clashes-at-three.xml)  
+
 ### [2015-12-12](/news/2015/12/12/index.md)
 
+##### 2015 Burundian unrest
 # Burundi's army reports 87 people, including eight government defenders, were killed, and 45 attackers captured in Friday's clashes at three military sites in Bujumbura. Police have not identified the gunmen. Witnesses report some of the victims' arms were tied behind their backs while others were killed at close range. This was the worst violence since this spring's attempted coup d'etat. One of the generals behind the failed coup says his rebel group still wants to oust the president. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Global Post](http://www.globalpost.com/article/6704225/2015/12/12/87-killed-burundi-clashes)
-2. [Reuters](http://www.reuters.com/article/us-burundi-unrest-idUSKBN0TV08D20151212#AAyzzFziOmv2hi3U.97)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151212&t=2&i=1101844146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBB06H)
+2. [Reuters](https://www.reuters.com/article/us-burundi-unrest-idUSKBN0TV08D20151212#AAyzzFziOmv2hi3U.97)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20151212&t=2&i=1101844146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEBBB06H)
+
+### Changes:
+
+1. [2015 Burundian unrest: Burundi's army reports 87 people, including eight government defenders, were killed, and 45 attackers captured in Friday's clashes at three military sites in Bujumbura. Police have not identified the gunmen. Witnesses report some of the victims' arms were tied behind their backs while others were killed at close range. This was the worst violence since this spring's attempted coup d'etat. One of the generals behind the failed coup says his rebel group still wants to oust the president. ](/news/2015/12/12/2015-burundian-unrest-burundi-s-army-reports-87-people-including-eight-government-defenders-were-killed-and-45-attackers-captured-in-fri.md) _2017-08-27 03:44:19 (First version)_
+1. [Burundi's army reports 87 people, including eight government defenders, were killed, and 45 attackers captured in Friday's clashes at three military sites in Bujumbura. Police have not identified the gunmen. Witnesses report some of the victims' arms were tied behind their backs while others were killed at close range. This was the worst violence since this spring's attempted coup d'etat. One of the generals behind the failed coup says his rebel group still wants to oust the president. ](/news/2015/12/12/burundi-s-army-reports-87-people-including-eight-government-defenders-were-killed-and-45-attackers-captured-in-friday-s-clashes-at-three.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@
 3. [Burundi's army repels attacks on military barracks in the capital, Bujumbura, in the worst violence since this spring's unrest that developed after President Pierre Nkurunziza decided to seek a third term in office. According to an army spokesman, at least 12 gunmen are killed and 20 captured. Reports that at least five soldiers have been killed are denied by the army, which says the soldiers were wounded. Two southern sites, a police station and an army camp, were also attacked, with no report on casualties. Kenya Airways and RwandAir cancels its flights to Bujumbura. ](/news/2015/12/11/burundias-army-repels-attacks-on-military-barracks-in-the-capital-bujumbura-in-the-worst-violence-since-this-spring-s-unrest-that-develo.md) _Context: 2015 Burundian unrest, Bujumbura, Burundian Army_
 4. [Burundi's army chief General Prime Niyongabo survives an assassination attempt after armed men attacked his motorcade on a busy road in the capital, Bujumbura. Six people are killed in the attack. ](/news/2015/09/11/burundi-s-army-chief-general-prime-niyongabo-survives-an-assassination-attempt-after-armed-men-attacked-his-motorcade-on-a-busy-road-in-the.md) _Context: 2015 Burundian unrest, Bujumbura, Burundi_
 5. [A gunman shoots dead Burundi's environment minister Emmanuel Niyonkuru in the nation's capital, Bujumbura. ](/news/2017/01/1/a-gunman-shoots-dead-burundi-s-environment-minister-emmanuel-niyonkuru-in-the-nation-s-capital-bujumbura.md) _Context: Bujumbura, Burundi_
-
-### Changes:
-
-1. [2015 Burundian unrest: Burundi's army reports 87 people, including eight government defenders, were killed, and 45 attackers captured in Friday's clashes at three military sites in Bujumbura. Police have not identified the gunmen. Witnesses report some of the victims' arms were tied behind their backs while others were killed at close range. This was the worst violence since this spring's attempted coup d'etat. One of the generals behind the failed coup says his rebel group still wants to oust the president. ](/news/2015/12/12/2015-burundian-unrest-burundi-s-army-reports-87-people-including-eight-government-defenders-were-killed-and-45-attackers-captured-in-fri.md) _2017-08-27 03:44:19 (First version)_
-1. [Burundi's army reports 87 people, including eight government defenders, were killed, and 45 attackers captured in Friday's clashes at three military sites in Bujumbura. Police have not identified the gunmen. Witnesses report some of the victims' arms were tied behind their backs while others were killed at close range. This was the worst violence since this spring's attempted coup d'etat. One of the generals behind the failed coup says his rebel group still wants to oust the president. ](/news/2015/12/12/burundi-s-army-reports-87-people-including-eight-government-defenders-were-killed-and-45-attackers-captured-in-friday-s-clashes-at-three.md) _(Current version)_

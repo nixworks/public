@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/20/the-shortlist-for-the-orange-prize-for-fiction-is-announced.html)  [JSON](/news/2010/04/20/the-shortlist-for-the-orange-prize-for-fiction-is-announced.json)  [XML](/news/2010/04/20/the-shortlist-for-the-orange-prize-for-fiction-is-announced.xml)  
+
 ### [2010-04-20](/news/2010/04/20/index.md)
 
+##### Orange Prize for Fiction
 # The shortlist for the Orange Prize for Fiction is announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/arts_and_culture/8631600.stm)
 

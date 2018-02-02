@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/22/taiwan-shows-a-documentary-on-uyghur-leader-rebiya-kadeer-as-the-website-of-the-kaoshiung-film-festival-is-hacked.html)  [JSON](/news/2009/09/22/taiwan-shows-a-documentary-on-uyghur-leader-rebiya-kadeer-as-the-website-of-the-kaoshiung-film-festival-is-hacked.json)  [XML](/news/2009/09/22/taiwan-shows-a-documentary-on-uyghur-leader-rebiya-kadeer-as-the-website-of-the-kaoshiung-film-festival-is-hacked.xml)  
+
 ### [2009-09-22](/news/2009/09/22/index.md)
 
+##### Taiwan
 #  Taiwan shows a documentary on Uyghur leader Rebiya Kadeer, as the website of the Kaoshiung Film Festival is hacked. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Central News Agency](http://english.cna.com.tw/ReadNews/Detail.aspx?pSearchDate=&pNewsID=200909220037&pType1=PD&pType0=xPDCS&pTypeSel=0)
 2. [China Daily](http://www.chinadaily.com.cn/china/2009-09/22/content_8719448.htm)

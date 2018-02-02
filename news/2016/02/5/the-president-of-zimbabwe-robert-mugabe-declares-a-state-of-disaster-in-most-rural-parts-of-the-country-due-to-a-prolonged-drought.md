@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/5/the-president-of-zimbabwe-robert-mugabe-declares
 
 ### [2016-02-5](/news/2016/02/5/index.md)
 
+##### President of Zimbabwe
 # The President of Zimbabwe Robert Mugabe declares a state of disaster in most rural parts of the country due to a prolonged drought. 
 
 

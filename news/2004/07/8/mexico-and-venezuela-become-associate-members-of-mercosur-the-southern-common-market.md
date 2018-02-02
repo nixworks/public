@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/07/8/mexico-and-venezuela-become-associate-members-of-mercosur-the-southern-common-market.html)  [JSON](/news/2004/07/8/mexico-and-venezuela-become-associate-members-of-mercosur-the-southern-common-market.json)  [XML](/news/2004/07/8/mexico-and-venezuela-become-associate-members-of-mercosur-the-southern-common-market.xml)  
+
 ### [2004-07-8](/news/2004/07/8/index.md)
 
+##### Mexico
 #  Mexico and Venezuela become associate members of Mercosur (the Southern Common Market). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/americas/3878817.stm)
 

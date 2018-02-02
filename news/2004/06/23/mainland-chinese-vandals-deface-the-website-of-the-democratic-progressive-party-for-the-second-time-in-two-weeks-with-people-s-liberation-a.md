@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/23/mainland-chinese-vandals-deface-the-website-of-the-democratic-progressive-party-for-the-second-time-in-two-weeks-with-people-s-liberation-a.html)  [JSON](/news/2004/06/23/mainland-chinese-vandals-deface-the-website-of-the-democratic-progressive-party-for-the-second-time-in-two-weeks-with-people-s-liberation-a.json)  [XML](/news/2004/06/23/mainland-chinese-vandals-deface-the-website-of-the-democratic-progressive-party-for-the-second-time-in-two-weeks-with-people-s-liberation-a.xml)  
+
 ### [2004-06-23](/news/2004/06/23/index.md)
 
+##### mainland China
 #  Mainland Chinese vandals deface the website of the Democratic Progressive Party for the second time in two weeks with People's Liberation Army propaganda. 
 
 TheINQUIRER publishes daily news, reviews on the latest gadgets and devices, and INQdepth articles for tech buffs and hobbyists.
 
 
-### Source:
+### Sources:
 
 1. [Inquirer](http://www.theinquirer.net/?article=16753)
 2. [TaipeiTimes](http://www.taipeitimes.com/News/taiwan/archives/2004/06/23/2003176179)

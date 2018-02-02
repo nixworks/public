@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/15/the-prime-minister-of-israel-benjamin-netanyahu-forms-a-coalition-between-his-likud-party-and-the-centrist-yesh-atid-rightist-jewish-home-a.html)  [JSON](/news/2013/03/15/the-prime-minister-of-israel-benjamin-netanyahu-forms-a-coalition-between-his-likud-party-and-the-centrist-yesh-atid-rightist-jewish-home-a.json)  [XML](/news/2013/03/15/the-prime-minister-of-israel-benjamin-netanyahu-forms-a-coalition-between-his-likud-party-and-the-centrist-yesh-atid-rightist-jewish-home-a.xml)  
+
 ### [2013-03-15](/news/2013/03/15/index.md)
 
+##### Israeli Prime Minister
 # The Prime Minister of Israel Benjamin Netanyahu forms a coalition between his Likud party and the Centrist Yesh Atid, rightist Jewish Home and leftist Hatnuah parties. 
 
 Benjamin Netanyahu signed a coalition pact with upstart political movements to ensure Israel has a new government in time for Barack Obama&#039;s first visit to the country as US president next week.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/worldnews/middleeast/israel/9933618/Israel-government-formed-in-time-for-Barack-Obama-visit.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02511/Netanyahu-deal_2511098k.jpg)

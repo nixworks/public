@@ -1,15 +1,24 @@
+
+Formats: [HTML](/news/2016/03/26/chile-confirms-its-first-case-of-sexually-transmitted-zika-virus-the-case-involves-a-46-year-old-woman-whose-partner-was-infected-while-in.html)  [JSON](/news/2016/03/26/chile-confirms-its-first-case-of-sexually-transmitted-zika-virus-the-case-involves-a-46-year-old-woman-whose-partner-was-infected-while-in.json)  [XML](/news/2016/03/26/chile-confirms-its-first-case-of-sexually-transmitted-zika-virus-the-case-involves-a-46-year-old-woman-whose-partner-was-infected-while-in.xml)  
+
 ### [2016-03-26](/news/2016/03/26/index.md)
 
+##### Zika virus outbreak
 # Chile confirms its first case of sexually transmitted Zika virus. The case involves a 46-year-old woman whose partner was infected while in Haiti. 
 
 Chile has confirmed its first case of the Zika virus having been sexually transmitted, the health ministry said in a statement on its website on Saturday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/us-health-zika-chile-idUSKCN0WT00Q)
+1. [Reuters](https://www.reuters.com/article/us-health-zika-chile-idUSKCN0WT00Q)
 2. [UPI](http://www.upi.com/Health_News/2016/03/26/Women-shouldnt-attempt-conception-for-2-months-after-Zika-exposure-CDC/7911459026299/?spt=hs&or=hn)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20160327&t=2&i=1128100342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2Q00C)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20160327&t=2&i=1128100342&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEC2Q00C)
+
+### Changes:
+
+1. [Zika virus outbreak: Chile confirms its first case of sexually transmitted Zika virus. The case involves a 46-year-old woman whose partner was infected while in Haiti. ](/news/2016/03/26/zika-virus-outbreak-chile-confirms-its-first-case-of-sexually-transmitted-zika-virus-the-case-involves-a-46-year-old-woman-whose-partner-w.md) _2017-08-27 03:45:23 (First version)_
+1. [Chile confirms its first case of sexually transmitted Zika virus. The case involves a 46-year-old woman whose partner was infected while in Haiti. ](/news/2016/03/26/chile-confirms-its-first-case-of-sexually-transmitted-zika-virus-the-case-involves-a-46-year-old-woman-whose-partner-was-infected-while-in.md) _(Current version)_
 
 ### Related:
 
@@ -18,8 +27,3 @@ Chile has confirmed its first case of the Zika virus having been sexually transm
 3. [ Cuban officials announce they have detected the first case of the Zika virus transmitted inside the country: a 21-year-old Havana woman who had not traveled abroad. Cuba has reported a handful of travel-associated Zika cases, all believed imported from Venezuela. ](/news/2016/03/16/cuban-officials-announce-they-have-detected-the-first-case-of-the-zika-virus-transmitted-inside-the-country-a-21-year-old-havana-woman-who.md) _Context: Zika virus, Zika virus outbreak_
 4. [The Polynesian state of Tonga declares a Zika virus epidemic with two confirmed cases and 265 suspected cases. ](/news/2016/02/4/the-polynesian-state-of-tonga-declares-a-zika-virus-epidemic-with-two-confirmed-cases-and-265-suspected-cases.md) _Context: Zika virus, Zika virus outbreak_
 5. [The first case of the Zika virus has been diagnosed in South Africa. ](/news/2016/02/19/the-first-case-of-the-zika-virus-has-been-diagnosed-in-south-africa.md) _Context: Zika virus, Zika virus outbreak_
-
-### Changes:
-
-1. [Zika virus outbreak: Chile confirms its first case of sexually transmitted Zika virus. The case involves a 46-year-old woman whose partner was infected while in Haiti. ](/news/2016/03/26/zika-virus-outbreak-chile-confirms-its-first-case-of-sexually-transmitted-zika-virus-the-case-involves-a-46-year-old-woman-whose-partner-w.md) _2017-08-27 03:45:23 (First version)_
-1. [Chile confirms its first case of sexually transmitted Zika virus. The case involves a 46-year-old woman whose partner was infected while in Haiti. ](/news/2016/03/26/chile-confirms-its-first-case-of-sexually-transmitted-zika-virus-the-case-involves-a-46-year-old-woman-whose-partner-was-infected-while-in.md) _(Current version)_

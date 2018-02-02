@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/26/alleged-agrigento-mafia-boss-giuseppe-falsone-is-arrested-in-marseille-in-the-south-of-france-after-spending-10-years-on-the-run.html)  [JSON](/news/2010/06/26/alleged-agrigento-mafia-boss-giuseppe-falsone-is-arrested-in-marseille-in-the-south-of-france-after-spending-10-years-on-the-run.json)  [XML](/news/2010/06/26/alleged-agrigento-mafia-boss-giuseppe-falsone-is-arrested-in-marseille-in-the-south-of-france-after-spending-10-years-on-the-run.xml)  
+
 ### [2010-06-26](/news/2010/06/26/index.md)
 
+##### Agrigento
 # Alleged Agrigento mafia boss Giuseppe Falsone is arrested in Marseille in the south of France after spending 10 years on the run. 
 
 A top Italian mafia boss is arrested in the south of France after spending 10 years on the run, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/europe/10426393.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

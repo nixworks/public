@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/6/virgin-trains-is-awarded-a-23-month-franchise-to-run-the-uk-s-west-coast-main-line-until-9-november-2014.html)  [JSON](/news/2012/12/6/virgin-trains-is-awarded-a-23-month-franchise-to-run-the-uk-s-west-coast-main-line-until-9-november-2014.json)  [XML](/news/2012/12/6/virgin-trains-is-awarded-a-23-month-franchise-to-run-the-uk-s-west-coast-main-line-until-9-november-2014.xml)  
+
 ### [2012-12-6](/news/2012/12/6/index.md)
 
+##### Virgin Trains
 # Virgin Trains is awarded a 23-month franchise to run the UK's West Coast Main Line until 9 November 2014. 
 
 A report into the collapse of the £5bn West Coast Mainline franchise deal blames a &quot;damning failure&quot; by the Department for Transport - hours after it was announced Virgin Trains will run the service for another 23 months.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-20620787)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/64598000/jpg/_64598041_jzgddekn.jpg)

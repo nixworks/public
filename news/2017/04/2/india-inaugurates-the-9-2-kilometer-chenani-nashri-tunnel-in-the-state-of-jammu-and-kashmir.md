@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/2/india-inaugurates-the-9-2-kilometer-chenani-nash
 
 ### [2017-04-2](/news/2017/04/2/index.md)
 
+##### India
 # India inaugurates the 9.2-kilometer Chenani-Nashri Tunnel, in the state of Jammu and Kashmir. 
 
 Prime Minister Narendra Modi today championed the newly-inaugurated Chenani-Nashri tunnel in Jammu and Kashmir as a symbol of development which will ensure the progress of the state in social and economic spheres.

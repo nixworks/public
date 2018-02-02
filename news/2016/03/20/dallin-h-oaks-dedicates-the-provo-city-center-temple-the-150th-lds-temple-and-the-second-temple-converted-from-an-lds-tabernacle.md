@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/20/dallin-h-oaks-dedicates-the-provo-city-center-t
 
 ### [2016-03-20](/news/2016/03/20/index.md)
 
+##### The Church of Jesus Christ of Latter-day Saints in Utah
 # Dallin H. Oaks dedicates the Provo City Center Temple, the 150th LDS temple and the second temple converted from an LDS tabernacle. 
 
 

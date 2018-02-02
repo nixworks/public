@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/15/a-palestinian-fatah-gunman-infiltrates-the-golan-heights-from-syria-and-attacks-an-idf-outpost-near-the-border-the-outpost-commander-manag.html)  [JSON](/news/2005/04/15/a-palestinian-fatah-gunman-infiltrates-the-golan-heights-from-syria-and-attacks-an-idf-outpost-near-the-border-the-outpost-commander-manag.json)  [XML](/news/2005/04/15/a-palestinian-fatah-gunman-infiltrates-the-golan-heights-from-syria-and-attacks-an-idf-outpost-near-the-border-the-outpost-commander-manag.xml)  
+
 ### [2005-04-15](/news/2005/04/15/index.md)
 
+##### Palestinian
 #  A Palestinian Fatah gunman infiltrates the Golan Heights from Syria and attacks an IDF outpost near the border. The outpost commander manages to disarm the gunman and arrest him. The IDF will investigate how the 21-year-old man, draped in a Palestinian flag, managed to penetrate so deep without being detected earlier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4448233.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/565532.html)

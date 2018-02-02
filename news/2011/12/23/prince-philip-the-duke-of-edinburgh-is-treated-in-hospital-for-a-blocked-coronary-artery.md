@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/23/prince-philip-the-duke-of-edinburgh-is-treated-in-hospital-for-a-blocked-coronary-artery.html)  [JSON](/news/2011/12/23/prince-philip-the-duke-of-edinburgh-is-treated-in-hospital-for-a-blocked-coronary-artery.json)  [XML](/news/2011/12/23/prince-philip-the-duke-of-edinburgh-is-treated-in-hospital-for-a-blocked-coronary-artery.xml)  
+
 ### [2011-12-23](/news/2011/12/23/index.md)
 
+##### Prince Philip, Duke of Edinburgh
 # Prince Philip, the Duke of Edinburgh, is treated in hospital for a blocked coronary artery. 
 
 The Duke of Edinburgh receives treatment for a blocked coronary artery after suffering chest pains, Buckingham Palace says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-16323794)
 2. [CNN](http://www.cnn.com/2011/12/23/world/europe/uk-prince-philip/index.html?hpt=hp_t2)

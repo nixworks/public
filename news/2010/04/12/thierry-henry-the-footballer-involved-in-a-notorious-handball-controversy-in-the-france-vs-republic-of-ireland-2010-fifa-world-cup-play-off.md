@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/12/thierry-henry-the-footballer-involved-in-a-notorious-handball-controversy-in-the-france-vs-republic-of-ireland-2010-fifa-world-cup-play-off.html)  [JSON](/news/2010/04/12/thierry-henry-the-footballer-involved-in-a-notorious-handball-controversy-in-the-france-vs-republic-of-ireland-2010-fifa-world-cup-play-off.json)  [XML](/news/2010/04/12/thierry-henry-the-footballer-involved-in-a-notorious-handball-controversy-in-the-france-vs-republic-of-ireland-2010-fifa-world-cup-play-off.xml)  
+
 ### [2010-04-12](/news/2010/04/12/index.md)
 
+##### Thierry Henry
 # Thierry Henry, the footballer involved in a notorious handball controversy in the France vs Republic of Ireland 2010 FIFA World Cup play-off in November 2009, is not assured of playing for his team in the 2010 FIFA World Cup, according to his manager Raymond Domenech on French television show "Canal Football Club". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ESPN](http://soccernet.espn.go.com/world-cup/story/_/id/769996/ce/uk/&cc=5739)
 2. [Metro](http://www.metro.co.uk/sport/football/821371-thierry-henry-may-miss-world-cup-if-he-doesnt-play-regularly-for-barcelona)

@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2013/05/13/iranian-man-azim-aghajani-is-convicted-in-nigeria-of-attempting-to-smuggle-weapons-to-the-gambia-he-is-sentenced-to-five-years-imprisonment.html)  [JSON](/news/2013/05/13/iranian-man-azim-aghajani-is-convicted-in-nigeria-of-attempting-to-smuggle-weapons-to-the-gambia-he-is-sentenced-to-five-years-imprisonment.json)  [XML](/news/2013/05/13/iranian-man-azim-aghajani-is-convicted-in-nigeria-of-attempting-to-smuggle-weapons-to-the-gambia-he-is-sentenced-to-five-years-imprisonment.xml)  
+
 ### [2013-05-13](/news/2013/05/13/index.md)
 
+##### Iranian
 # Iranian man Azim Aghajani is convicted in Nigeria of attempting to smuggle weapons to The Gambia. He is sentenced to five years imprisonment. 
 
 An Iranian man and his Nigerian accomplice are found guilty of smuggling weapons into Lagos and sentenced to five years in prison by a Nigerian court.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-22515062)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/67578000/jpg/_67578721_afg.jpg)
 
 ### Related:
 
-1. [Gunmen attack the Ogba Zoo in Benin City, Nigeria, killing three police officers and abduct the zoo's director. There is no information on who the gunmen and abductors are, or whether they have made any demands. ](/news/2017/09/25/gunmen-attack-the-ogba-zoo-in-benin-city-nigeria-killing-three-police-officers-and-abduct-the-zoo-s-director-there-is-no-information-on-w.md) _Context: Nigeria_
-2. [Gunmen kill 11 worshipers in St Phillip's Catholic Church in the town of Ozubulu in Nigeria's Anambra State. ](/news/2017/08/6/gunmen-kill-11-worshipers-in-st-phillip-s-catholic-church-in-the-town-of-ozubulu-in-nigeria-s-anambra-state.md) _Context: Nigeria_
-3. [Three suicide bombers kill 27 people and wound 83 near Maiduguri, Nigeria. ](/news/2017/08/15/three-suicide-bombers-kill-27-people-and-wound-83-near-maiduguri-nigeria.md) _Context: Nigeria_
-4. [Boko Haram insurgents ambush an oil exploration team in the Magumeri area of Borno State, Nigeria, killing at least 69 people. ](/news/2017/07/30/boko-haram-insurgents-ambush-an-oil-exploration-team-in-the-magumeri-area-of-borno-state-nigeria-killing-at-least-69-people.md) _Context: Nigeria_
-5. [Maryam Mirzakhani, the first woman and first Iranian to win the Fields Medal in mathematics, dies at 40 of breast cancer. ](/news/2017/07/15/maryam-mirzakhani-the-first-woman-and-first-iranian-to-win-the-fields-medal-in-mathematics-dies-at-40-of-breast-cancer.md) _Context: Iranian_
+1. [A suicide bomber attacks a mosque in Gamboru, Nigeria, killing 11 people. ](/news/2018/01/3/a-suicide-bomber-attacks-a-mosque-in-gamboru-nigeria-killing-11-people.md) _Context: Nigeria_
+2. [Two Americans and two Canadians are abducted by unknown gunmen in Kaduna State, Nigeria. Two police officers are killed after engaging in a firefight with the abductors. ](/news/2018/01/17/two-americans-and-two-canadians-are-abducted-by-unknown-gunmen-in-kaduna-state-nigeria-two-police-officers-are-killed-after-engaging-in-a.md) _Context: Nigeria_
+3. [Suspected Boko Haram suicide bombers kill 12 people and injure 48 others, in Maiduguri, Nigeria. ](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-people-and-injure-48-others-in-maiduguri-nigeria.md) _Context: Nigeria_
+4. [Nigerian Shia Islamic Movement leader, Ibrahim Zakzaky, who is detained at an unknown location without charges since December 2015, makes a short public appearance, his first in two years, being allowed to see his doctor. ](/news/2018/01/13/nigerian-shia-islamic-movement-leader-ibrahim-zakzaky-who-is-detained-at-an-unknown-location-without-charges-since-december-2015-makes-a.md) _Context: Nigeria_
+5. [An estimated 50 people are killed when a suicide bomber attacks a mosque during morning prayers in Mubi, Nigeria. ](/news/2017/11/21/an-estimated-50-people-are-killed-when-a-suicide-bomber-attacks-a-mosque-during-morning-prayers-in-mubi-nigeria.md) _Context: Nigeria_

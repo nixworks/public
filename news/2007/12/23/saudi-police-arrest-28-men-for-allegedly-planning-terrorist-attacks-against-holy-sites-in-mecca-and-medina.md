@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/23/saudi-police-arrest-28-men-for-allegedly-planning-terrorist-attacks-against-holy-sites-in-mecca-and-medina.html)  [JSON](/news/2007/12/23/saudi-police-arrest-28-men-for-allegedly-planning-terrorist-attacks-against-holy-sites-in-mecca-and-medina.json)  [XML](/news/2007/12/23/saudi-police-arrest-28-men-for-allegedly-planning-terrorist-attacks-against-holy-sites-in-mecca-and-medina.xml)  
+
 ### [2007-12-23](/news/2007/12/23/index.md)
 
+##### Saudi Arabia
 #  Saudi police arrest 28 men for allegedly planning terrorist attacks against holy sites in Mecca and Medina. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CNN](http://edition.cnn.com/2007/WORLD/meast/12/23/saudi.arrests.ap/index.html)
 

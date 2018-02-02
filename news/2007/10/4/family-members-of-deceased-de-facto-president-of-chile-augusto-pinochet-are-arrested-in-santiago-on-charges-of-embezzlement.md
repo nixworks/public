@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/4/family-members-of-deceased-de-facto-president-of-chile-augusto-pinochet-are-arrested-in-santiago-on-charges-of-embezzlement.html)  [JSON](/news/2007/10/4/family-members-of-deceased-de-facto-president-of-chile-augusto-pinochet-are-arrested-in-santiago-on-charges-of-embezzlement.json)  [XML](/news/2007/10/4/family-members-of-deceased-de-facto-president-of-chile-augusto-pinochet-are-arrested-in-santiago-on-charges-of-embezzlement.xml)  
+
 ### [2007-10-4](/news/2007/10/4/index.md)
 
+##### Chile
 #  Family members of deceased "de facto" president of Chile Augusto Pinochet are arrested in Santiago on charges of embezzlement. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/7028503.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/30/a-military-transport-plane-crashes-after-take-o
 
 ### [2017-09-30](/news/2017/09/30/index.md)
 
+##### 2017 disasters in DR Congo
 # A military transport plane crashes after take-off from N'djili Airport in Kinshasa, Democratic Republic of the Congo, killing all 12 Russian crew members. 
 
 

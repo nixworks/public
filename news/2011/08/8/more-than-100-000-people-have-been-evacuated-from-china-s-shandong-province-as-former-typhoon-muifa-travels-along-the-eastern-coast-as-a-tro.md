@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/8/more-than-100-000-people-have-been-evacuated-from-china-s-shandong-province-as-former-typhoon-muifa-travels-along-the-eastern-coast-as-a-tro.html)  [JSON](/news/2011/08/8/more-than-100-000-people-have-been-evacuated-from-china-s-shandong-province-as-former-typhoon-muifa-travels-along-the-eastern-coast-as-a-tro.json)  [XML](/news/2011/08/8/more-than-100-000-people-have-been-evacuated-from-china-s-shandong-province-as-former-typhoon-muifa-travels-along-the-eastern-coast-as-a-tro.xml)  
+
 ### [2011-08-8](/news/2011/08/8/index.md)
 
+##### China
 # More than 100,000 people have been evacuated from China's Shandong Province as former Typhoon Muifa travels along the eastern coast as a tropical storm. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/china/2011-08/08/c_131035718.htm)
 

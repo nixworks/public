@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/4/daniel-barenboim-a-conductor-and-pianist-and-supporter-of-palestinian-rights-holds-a-peace-concert-in-the-gaza-strip.html)  [JSON](/news/2011/05/4/daniel-barenboim-a-conductor-and-pianist-and-supporter-of-palestinian-rights-holds-a-peace-concert-in-the-gaza-strip.json)  [XML](/news/2011/05/4/daniel-barenboim-a-conductor-and-pianist-and-supporter-of-palestinian-rights-holds-a-peace-concert-in-the-gaza-strip.xml)  
+
 ### [2011-05-4](/news/2011/05/4/index.md)
 
+##### Daniel Barenboim
 # Daniel Barenboim, a conductor and pianist and "supporter of Palestinian rights", holds a "Peace Concert" in the Gaza Strip. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,15047709,00.html)
 2. [The Jerusalem Post](http://www.jpost.com/LandedPages/SearchResults.aspx?q=barenboim)

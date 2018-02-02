@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/24/the-u-s-food-and-drug-administration-issues-a-warning-to-physicians-regarding-dangerous-adverse-reactions-to-the-drug-remicade-which-is-u.html)  [JSON](/news/2004/08/24/the-u-s-food-and-drug-administration-issues-a-warning-to-physicians-regarding-dangerous-adverse-reactions-to-the-drug-remicade-which-is-u.json)  [XML](/news/2004/08/24/the-u-s-food-and-drug-administration-issues-a-warning-to-physicians-regarding-dangerous-adverse-reactions-to-the-drug-remicade-which-is-u.xml)  
+
 ### [2004-08-24](/news/2004/08/24/index.md)
 
+##### Food and Drug Administration
 #  The U.S. Food and Drug Administration issues a warning to physicians regarding dangerous adverse reactions to the drug Remicade, which is used to treat rheumatoid arthritis and Crohn's Disease. Doctors are warned to screen patients for blood irregularities and to closely monitor blood cell counts. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/worldlatest/story/0,1280,-4448660,00.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/26/the-islamist-militant-group-fatah-al-islam-seeks-to-extract-its-wounded-from-the-nahr-al-bared-palestinian-refugee-camp.html)  [JSON](/news/2007/08/26/the-islamist-militant-group-fatah-al-islam-seeks-to-extract-its-wounded-from-the-nahr-al-bared-palestinian-refugee-camp.json)  [XML](/news/2007/08/26/the-islamist-militant-group-fatah-al-islam-seeks-to-extract-its-wounded-from-the-nahr-al-bared-palestinian-refugee-camp.xml)  
+
 ### [2007-08-26](/news/2007/08/26/index.md)
 
+##### Islamist
 #  The Islamist militant group Fatah al-Islam seeks to extract its wounded from the Nahr al-Bared Palestinian refugee camp. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters Alertnet](http://www.alertnet.org/thenews/newsdesk/L26617070.htm)
 

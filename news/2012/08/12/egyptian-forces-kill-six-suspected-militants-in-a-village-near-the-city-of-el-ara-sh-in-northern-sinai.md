@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/12/egyptian-forces-kill-six-suspected-militants-in-a-village-near-the-city-of-el-ara-sh-in-northern-sinai.html)  [JSON](/news/2012/08/12/egyptian-forces-kill-six-suspected-militants-in-a-village-near-the-city-of-el-ara-sh-in-northern-sinai.json)  [XML](/news/2012/08/12/egyptian-forces-kill-six-suspected-militants-in-a-village-near-the-city-of-el-ara-sh-in-northern-sinai.xml)  
+
 ### [2012-08-12](/news/2012/08/12/index.md)
 
+##### Egyptian forces
 # Egyptian forces kill six suspected militants in a village near the city of el-Arish in northern Sinai. 
 
 At least six gunmen are killed by the Egyptian army in the Sinai peninsula during an offensive against suspected Islamist militants, security officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-19232094)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62220000/jpg/_62220671_62220670.jpg)

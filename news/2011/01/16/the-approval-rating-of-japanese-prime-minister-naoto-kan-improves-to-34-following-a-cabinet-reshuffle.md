@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/16/the-approval-rating-of-japanese-prime-minister-naoto-kan-improves-to-34-following-a-cabinet-reshuffle.html)  [JSON](/news/2011/01/16/the-approval-rating-of-japanese-prime-minister-naoto-kan-improves-to-34-following-a-cabinet-reshuffle.json)  [XML](/news/2011/01/16/the-approval-rating-of-japanese-prime-minister-naoto-kan-improves-to-34-following-a-cabinet-reshuffle.xml)  
+
 ### [2011-01-16](/news/2011/01/16/index.md)
 
+##### Japan
 # The approval rating of Japanese Prime Minister Naoto Kan improves to 34% following a cabinet reshuffle. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iihKMTMTzvlonCH80l5RiCF40OLw?docId=CNG.a694aad25f7218a1040371556827843b.251)
 2. [Daily Yomiuri](http://www.yomiuri.co.jp/dy/national/T110116002288.htm)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/26/the-house-of-commons-saw-the-largest-rebellion-by-mps-from-any-governing-party-in-britain-for-at-least-100-years-122-mps-from-the-ruling-l.html)  [JSON](/news/2003/02/26/the-house-of-commons-saw-the-largest-rebellion-by-mps-from-any-governing-party-in-britain-for-at-least-100-years-122-mps-from-the-ruling-l.json)  [XML](/news/2003/02/26/the-house-of-commons-saw-the-largest-rebellion-by-mps-from-any-governing-party-in-britain-for-at-least-100-years-122-mps-from-the-ruling-l.xml)  
+
 ### [2003-02-26](/news/2003/02/26/index.md)
 
+##### United Kingdom House of Commons
 #  The House of Commons saw the largest rebellion by MPs from any governing party in Britain for at least 100 years. 122 MPs from the ruling Labour party were among 199 from all parties who voted to add the phrase ""[This House] finds the case for military action against Iraq as yet unproven"" to a government motion. The motion itself endorsed UN Security Council Resolution 1441 and supported ""... the Government's continuing efforts in the UN to disarm Iraq of its weapons of mass destruction.""
 
 

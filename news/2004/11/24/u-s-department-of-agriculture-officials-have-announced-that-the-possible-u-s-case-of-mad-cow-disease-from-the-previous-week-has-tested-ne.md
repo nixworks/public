@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/24/u-s-department-of-agriculture-officials-have-announced-that-the-possible-u-s-case-of-mad-cow-disease-from-the-previous-week-has-tested-ne.html)  [JSON](/news/2004/11/24/u-s-department-of-agriculture-officials-have-announced-that-the-possible-u-s-case-of-mad-cow-disease-from-the-previous-week-has-tested-ne.json)  [XML](/news/2004/11/24/u-s-department-of-agriculture-officials-have-announced-that-the-possible-u-s-case-of-mad-cow-disease-from-the-previous-week-has-tested-ne.xml)  
+
 ### [2004-11-24](/news/2004/11/24/index.md)
 
+##### U.S. Department of Agriculture
 #  U.S. Department of Agriculture officials have announced that the possible U.S. case of mad cow disease from the previous week has tested negative twice in tests run by the National Veterinary Services Laboratory. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sac. Bee](http://www.sacbee.com/content/business/story/11551940p-12450633c.html)
 2. [Wisc. Ag.](http://www.wisconsinagconnection.com/story-national.cfm?Id=1228&yr=2004)

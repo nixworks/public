@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/17/a-1-3-mile-tunnel-representing-the-latest-major-piece-of-boston-massachusetts-big-dig-opened-connecting-the-massachusetts-turnpike-to.html)  [JSON](/news/2003/01/17/a-1-3-mile-tunnel-representing-the-latest-major-piece-of-boston-massachusetts-big-dig-opened-connecting-the-massachusetts-turnpike-to.json)  [XML](/news/2003/01/17/a-1-3-mile-tunnel-representing-the-latest-major-piece-of-boston-massachusetts-big-dig-opened-connecting-the-massachusetts-turnpike-to.xml)  
+
 ### [2003-01-17](/news/2003/01/17/index.md)
 
+##### Boston, Massachusetts
 #  A 1.3-mile tunnel, representing the latest major piece of Boston, Massachusetts' Big Dig, opened, connecting the Massachusetts Turnpike to Logan International Airport. The tunnel reduced the trip from downtown Boston from 45 minutes in traffic to 8 minutes. The next phase, taking the elevated Interstate 93 and putting it underground, should be finished by early 2004.
 
 

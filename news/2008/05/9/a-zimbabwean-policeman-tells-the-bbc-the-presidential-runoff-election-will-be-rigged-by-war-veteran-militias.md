@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/9/a-zimbabwean-policeman-tells-the-bbc-the-presidential-runoff-election-will-be-rigged-by-war-veteran-militias.html)  [JSON](/news/2008/05/9/a-zimbabwean-policeman-tells-the-bbc-the-presidential-runoff-election-will-be-rigged-by-war-veteran-militias.json)  [XML](/news/2008/05/9/a-zimbabwean-policeman-tells-the-bbc-the-presidential-runoff-election-will-be-rigged-by-war-veteran-militias.xml)  
+
 ### [2008-05-9](/news/2008/05/9/index.md)
 
+##### Zimbabwe
 #  A Zimbabwean policeman tells the BBC the presidential runoff election will be rigged by war veteran militias. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7391688.stm)
 

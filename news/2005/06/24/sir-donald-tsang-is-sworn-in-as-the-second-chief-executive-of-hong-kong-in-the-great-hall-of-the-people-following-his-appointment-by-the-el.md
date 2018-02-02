@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/24/sir-donald-tsang-is-sworn-in-as-the-second-chief-executive-of-hong-kong-in-the-great-hall-of-the-people-following-his-appointment-by-the-el.html)  [JSON](/news/2005/06/24/sir-donald-tsang-is-sworn-in-as-the-second-chief-executive-of-hong-kong-in-the-great-hall-of-the-people-following-his-appointment-by-the-el.json)  [XML](/news/2005/06/24/sir-donald-tsang-is-sworn-in-as-the-second-chief-executive-of-hong-kong-in-the-great-hall-of-the-people-following-his-appointment-by-the-el.xml)  
+
 ### [2005-06-24](/news/2005/06/24/index.md)
 
+##### Donald Tsang
 #  Sir Donald Tsang is sworn in as the second Chief Executive of Hong Kong in the Great Hall of the People following his appointment by the Election Committee. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4617835.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/8/an-ethnic-armenian-soldier-dies-in-overnight-cla
 
 ### [2016-04-8](/news/2016/04/8/index.md)
 
+##### 2016 Armenian-Azerbaijani clashes
 # An ethnic Armenian soldier dies in overnight clashes. 
 
 

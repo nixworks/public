@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/6/the-u-s-securities-and-exchange-commission-hosts-a-roundtable-in-which-experts-and-the-representatives-of-affected-industries-discuss-the-c.html)  [JSON](/news/2013/02/6/the-u-s-securities-and-exchange-commission-hosts-a-roundtable-in-which-experts-and-the-representatives-of-affected-industries-discuss-the-c.json)  [XML](/news/2013/02/6/the-u-s-securities-and-exchange-commission-hosts-a-roundtable-in-which-experts-and-the-representatives-of-affected-industries-discuss-the-c.xml)  
+
 ### [2013-02-6](/news/2013/02/6/index.md)
 
+##### U.S.
 # The U.S. Securities and Exchange Commission hosts a roundtable in which experts and the representatives of affected industries discuss the consequences that decimalisation has had on the market for equity in the U.S., especially regarding small caps. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Themis Trading](http://blog.themistrading.com/our-take-on-the-sec-decimalization-roundtable/)
 

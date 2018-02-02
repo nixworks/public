@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/17/burma-begins-to-release-thousands-of-prisoners-in-a-general-amnesty-though-few-political-prisoners-are-released.html)  [JSON](/news/2011/05/17/burma-begins-to-release-thousands-of-prisoners-in-a-general-amnesty-though-few-political-prisoners-are-released.json)  [XML](/news/2011/05/17/burma-begins-to-release-thousands-of-prisoners-in-a-general-amnesty-though-few-political-prisoners-are-released.xml)  
+
 ### [2011-05-17](/news/2011/05/17/index.md)
 
+##### Burma
 # Burma begins to release thousands of prisoners in a general amnesty, though few political prisoners are released. 
 
 Burma begins freeing thousands of prisoners and reducing sentences under an amnesty, but rights groups say few political prisoners are being released.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia-pacific/2011/05/2011517181542379456.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13421084)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/29/philippine-forces-continue-to-battle-maute-mili
 
 ### [2017-05-29](/news/2017/05/29/index.md)
 
+##### Marawi crisis
 # Philippine forces continue to battle Maute militants for the city of Marawi. 
 
 

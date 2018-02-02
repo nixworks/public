@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/23/protesters-besiege-the-parliament-of-bulgaria-in-sofia-amid-major-anti-government-rallies.html)  [JSON](/news/2013/07/23/protesters-besiege-the-parliament-of-bulgaria-in-sofia-amid-major-anti-government-rallies.json)  [XML](/news/2013/07/23/protesters-besiege-the-parliament-of-bulgaria-in-sofia-amid-major-anti-government-rallies.xml)  
+
 ### [2013-07-23](/news/2013/07/23/index.md)
 
+##### Parliament of Bulgaria
 # Protesters besiege the Parliament of Bulgaria in Sofia amid major anti-government rallies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Chicago Tribune](http://my.chicagotribune.com/#section/-1/article/p2p-76769338/)
 

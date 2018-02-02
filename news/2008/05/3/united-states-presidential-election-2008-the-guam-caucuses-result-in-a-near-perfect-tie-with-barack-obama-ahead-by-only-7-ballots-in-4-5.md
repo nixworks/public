@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2008/05/3/united-states-presidential-election-2008-the-guam-caucuses-result-in-a-near-perfect-tie-with-barack-obama-ahead-by-only-7-ballots-in-4-5.html)  [JSON](/news/2008/05/3/united-states-presidential-election-2008-the-guam-caucuses-result-in-a-near-perfect-tie-with-barack-obama-ahead-by-only-7-ballots-in-4-5.json)  [XML](/news/2008/05/3/united-states-presidential-election-2008-the-guam-caucuses-result-in-a-near-perfect-tie-with-barack-obama-ahead-by-only-7-ballots-in-4-5.xml)  
+
 ### [2008-05-3](/news/2008/05/3/index.md)
 
+##### 2008
 #  United States presidential election, 2008: The Guam caucuses result in a near-perfect tie, with Barack Obama ahead by only 7 ballots in 4,521. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5g8-DEMtAE9q4i4ySQ0eV_qZefmRQD90EFJ7O1)
-2. [AP via Yahoo! News](http://news.yahoo.com/s/ap/20080503/ap_on_el_pr/guam_caucuses)
+2. [AP via Yahoo! News](https://news.yahoo.com/s/ap/20080503/ap_on_el_pr/guam_caucuses)
 
 ### Related:
 

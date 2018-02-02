@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/8/police-in-dublin-remove-the-occupy-dame-street-camp-during-an-overnight-raid.html)  [JSON](/news/2012/03/8/police-in-dublin-remove-the-occupy-dame-street-camp-during-an-overnight-raid.json)  [XML](/news/2012/03/8/police-in-dublin-remove-the-occupy-dame-street-camp-during-an-overnight-raid.xml)  
+
 ### [2012-03-8](/news/2012/03/8/index.md)
 
+##### Dublin
 # Police in Dublin remove the Occupy Dame Street camp during an overnight raid. 
 
 About 70 Occupy Dame street campaigners, whose camp outside the Central Bank was dismantled by garda&iacute; in the early hours of the&hellip;
 
 
-### Source:
+### Sources:
 
 1. [RTE](http://www.rte.ie/news/2012/0308/occupy.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2012/0308/breaking5.html)

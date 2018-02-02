@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/28/22-people-are-killed-41-are-injured-and-seven-are-missing-after-heavy-rain-and-floods-in-sichuan.html)  [JSON](/news/2009/07/28/22-people-are-killed-41-are-injured-and-seven-are-missing-after-heavy-rain-and-floods-in-sichuan.json)  [XML](/news/2009/07/28/22-people-are-killed-41-are-injured-and-seven-are-missing-after-heavy-rain-and-floods-in-sichuan.xml)  
+
 ### [2009-07-28](/news/2009/07/28/index.md)
 
+##### Sichuan
 #  22 people are killed, 41 are injured and seven are missing after heavy rain and floods in Sichuan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2009-07/28/content_8481691.htm)
 

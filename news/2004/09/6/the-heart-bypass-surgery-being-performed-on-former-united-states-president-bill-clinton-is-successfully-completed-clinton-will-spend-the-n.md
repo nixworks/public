@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/6/the-heart-bypass-surgery-being-performed-on-former-united-states-president-bill-clinton-is-successfully-completed-clinton-will-spend-the-n.html)  [JSON](/news/2004/09/6/the-heart-bypass-surgery-being-performed-on-former-united-states-president-bill-clinton-is-successfully-completed-clinton-will-spend-the-n.json)  [XML](/news/2004/09/6/the-heart-bypass-surgery-being-performed-on-former-united-states-president-bill-clinton-is-successfully-completed-clinton-will-spend-the-n.xml)  
+
 ### [2004-09-6](/news/2004/09/6/index.md)
 
+##### heart bypass
 #  The heart bypass surgery being performed on former United States President Bill Clinton is successfully completed. Clinton will spend the night in the intensive care unit of New York-Presbyterian Hospital before being moved to the general care unit tomorrow. Full recovery from the surgery could take a month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/ALLPOLITICS/09/06/clinton.bypass/index.html)
 

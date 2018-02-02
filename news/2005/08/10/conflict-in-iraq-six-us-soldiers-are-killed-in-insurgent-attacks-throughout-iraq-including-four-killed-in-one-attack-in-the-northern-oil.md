@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/10/conflict-in-iraq-six-us-soldiers-are-killed-in-insurgent-attacks-throughout-iraq-including-four-killed-in-one-attack-in-the-northern-oil.html)  [JSON](/news/2005/08/10/conflict-in-iraq-six-us-soldiers-are-killed-in-insurgent-attacks-throughout-iraq-including-four-killed-in-one-attack-in-the-northern-oil.json)  [XML](/news/2005/08/10/conflict-in-iraq-six-us-soldiers-are-killed-in-insurgent-attacks-throughout-iraq-including-four-killed-in-one-attack-in-the-northern-oil.xml)  
+
 ### [2005-08-10](/news/2005/08/10/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Six US soldiers are killed in insurgent attacks throughout Iraq, including four killed in one attack in the northern oil-producing Kurdish town of Baiji, bringing the total US military death toll in Iraq to 1,841. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4137362.stm)
 2. [CNN](http://www.cnn.com/2005/WORLD/meast/08/10/iraq.main/index.html)

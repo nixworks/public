@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/28/the-seventh-republican-party-presidential-debat
 
 ### [2016-01-28](/news/2016/01/28/index.md)
 
+##### Republican Party presidential debates, 2016
 # The seventh Republican Party presidential debate, the second hosted by Fox News, and the final debate before voting begins with the Iowa caucuses on February 1, is held in Des Moines, Iowa. The seven candidates featuring in the primetime debate were Jeb Bush, Ben Carson, Chris Christie, Ted Cruz, John Kasich, Rand Paul and Marco Rubio. Donald Trump, the current front-runner in the polls, was also invited to the primetime debate but opted to boycott the debate and instead hosted a town hall with charitable proceeds going to veterans groups. 
 
 Tensions between Republican presidential hopefuls Ted Cruz and Marco Rubio erupted over immigration and more Thursday night during the Fox News/Google debate, as the campaigns tried to put aside their battles with front-runner Donald Trump.

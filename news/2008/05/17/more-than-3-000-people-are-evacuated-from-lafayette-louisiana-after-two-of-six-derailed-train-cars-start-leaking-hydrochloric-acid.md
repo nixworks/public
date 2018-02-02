@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/17/more-than-3-000-people-are-evacuated-from-lafayette-louisiana-after-two-of-six-derailed-train-cars-start-leaking-hydrochloric-acid.html)  [JSON](/news/2008/05/17/more-than-3-000-people-are-evacuated-from-lafayette-louisiana-after-two-of-six-derailed-train-cars-start-leaking-hydrochloric-acid.json)  [XML](/news/2008/05/17/more-than-3-000-people-are-evacuated-from-lafayette-louisiana-after-two-of-six-derailed-train-cars-start-leaking-hydrochloric-acid.xml)  
+
 ### [2008-05-17](/news/2008/05/17/index.md)
 
+##### Lafayette, Louisiana
 #  More than 3,000 people are evacuated from Lafayette, Louisiana, after two of six derailed train cars start leaking hydrochloric acid. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Guardian](http://www.guardian.co.uk/world/feedarticle/7522940)
 2. [CNN](http://edition.cnn.com/2008/US/05/17/louisiana.derail/)

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/03/19/the-government-of-iraq-seeks-custody-of-former-vice-president-taha-yassin-ramadan-so-he-can-be-hanged-at-dawn-tomorrow-after-having-been-re.html)  [JSON](/news/2007/03/19/the-government-of-iraq-seeks-custody-of-former-vice-president-taha-yassin-ramadan-so-he-can-be-hanged-at-dawn-tomorrow-after-having-been-re.json)  [XML](/news/2007/03/19/the-government-of-iraq-seeks-custody-of-former-vice-president-taha-yassin-ramadan-so-he-can-be-hanged-at-dawn-tomorrow-after-having-been-re.xml)  
+
 ### [2007-03-19](/news/2007/03/19/index.md)
 
+##### Iraq
 #  The government of Iraq seeks custody of former Vice President Taha Yassin Ramadan so he can be hanged at dawn tomorrow after having been recently sentenced to death for his role in killing 148 Shiites in 1982. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/03/19/AR2007031901083.html)
+1. [Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2007/03/19/AR2007031901083.html)
 1. [Cover Image](http://media3.washingtonpost.com/wp-srv/images/twp-50x50.jpg)
 
 ### Related:

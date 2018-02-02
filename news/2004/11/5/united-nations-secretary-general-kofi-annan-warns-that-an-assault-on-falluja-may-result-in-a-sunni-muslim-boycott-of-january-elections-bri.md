@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/5/united-nations-secretary-general-kofi-annan-warns-that-an-assault-on-falluja-may-result-in-a-sunni-muslim-boycott-of-january-elections-bri.html)  [JSON](/news/2004/11/5/united-nations-secretary-general-kofi-annan-warns-that-an-assault-on-falluja-may-result-in-a-sunni-muslim-boycott-of-january-elections-bri.json)  [XML](/news/2004/11/5/united-nations-secretary-general-kofi-annan-warns-that-an-assault-on-falluja-may-result-in-a-sunni-muslim-boycott-of-january-elections-bri.xml)  
+
 ### [2004-11-5](/news/2004/11/5/index.md)
 
+##### United Nations
 #  United Nations Secretary General Kofi Annan warns that an assault on Falluja may result in a Sunni Muslim boycott of January elections. British ambassador to Iraq Jones Parry states: "You can't have an area the size of Falluja operating as a base for terrorism." Iraqi Interim Prime Minister Iyad Allawi describes Annan's letter as confused and unclear. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3985493.stm)
 2. [Reuters](http://reuters.com/newsArticle.jhtml?type=topNews&storyID=6731581&section=news)

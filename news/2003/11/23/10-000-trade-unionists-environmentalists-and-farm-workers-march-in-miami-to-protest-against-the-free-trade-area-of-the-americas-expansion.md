@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/23/10-000-trade-unionists-environmentalists-and-farm-workers-march-in-miami-to-protest-against-the-free-trade-area-of-the-americas-expansion.html)  [JSON](/news/2003/11/23/10-000-trade-unionists-environmentalists-and-farm-workers-march-in-miami-to-protest-against-the-free-trade-area-of-the-americas-expansion.json)  [XML](/news/2003/11/23/10-000-trade-unionists-environmentalists-and-farm-workers-march-in-miami-to-protest-against-the-free-trade-area-of-the-americas-expansion.xml)  
+
 ### [2003-11-23](/news/2003/11/23/index.md)
 
+##### Miami
 #  10,000 trade unionists, environmentalists, and farm workers march in Miami to protest against the Free Trade Area of the Americas expansion meeting. Other street protests erupt into violent confrontations with police several times throughout the day. Protester sources indicate upwards of 250 protesters incarcerated, along with reports of physical and sexual assault while in custody. Other demonstrations take place in cities throughout the Americas.
 
 

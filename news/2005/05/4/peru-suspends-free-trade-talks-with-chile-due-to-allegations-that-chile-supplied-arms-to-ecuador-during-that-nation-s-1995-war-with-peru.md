@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/4/peru-suspends-free-trade-talks-with-chile-due-to-allegations-that-chile-supplied-arms-to-ecuador-during-that-nation-s-1995-war-with-peru.html)  [JSON](/news/2005/05/4/peru-suspends-free-trade-talks-with-chile-due-to-allegations-that-chile-supplied-arms-to-ecuador-during-that-nation-s-1995-war-with-peru.json)  [XML](/news/2005/05/4/peru-suspends-free-trade-talks-with-chile-due-to-allegations-that-chile-supplied-arms-to-ecuador-during-that-nation-s-1995-war-with-peru.xml)  
+
 ### [2005-05-4](/news/2005/05/4/index.md)
 
+##### Peru
 #  Peru suspends free trade talks with Chile due to allegations that Chile supplied arms to Ecuador during that nation's 1995 war with Peru. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4511699.stm)
 

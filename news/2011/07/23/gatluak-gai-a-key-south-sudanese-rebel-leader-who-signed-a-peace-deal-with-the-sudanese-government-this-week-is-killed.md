@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/23/gatluak-gai-a-key-south-sudanese-rebel-leader-who-signed-a-peace-deal-with-the-sudanese-government-this-week-is-killed.html)  [JSON](/news/2011/07/23/gatluak-gai-a-key-south-sudanese-rebel-leader-who-signed-a-peace-deal-with-the-sudanese-government-this-week-is-killed.json)  [XML](/news/2011/07/23/gatluak-gai-a-key-south-sudanese-rebel-leader-who-signed-a-peace-deal-with-the-sudanese-government-this-week-is-killed.xml)  
+
 ### [2011-07-23](/news/2011/07/23/index.md)
 
+##### Gatluak Gai
 # Gatluak Gai, a key South Sudanese rebel leader who signed a peace deal with the Sudanese government this week, is killed. 
 
 South Sudan rebel leader Col Gatluak Gai is killed, a week after he agreed to a ceasefire with the newly independent government.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-14261525)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/54229000/jpg/_54229509_012414230-1.jpg)

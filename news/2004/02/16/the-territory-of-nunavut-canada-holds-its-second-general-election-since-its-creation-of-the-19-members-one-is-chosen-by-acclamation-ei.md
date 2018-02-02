@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/16/the-territory-of-nunavut-canada-holds-its-second-general-election-since-its-creation-of-the-19-members-one-is-chosen-by-acclamation-ei.html)  [JSON](/news/2004/02/16/the-territory-of-nunavut-canada-holds-its-second-general-election-since-its-creation-of-the-19-members-one-is-chosen-by-acclamation-ei.json)  [XML](/news/2004/02/16/the-territory-of-nunavut-canada-holds-its-second-general-election-since-its-creation-of-the-19-members-one-is-chosen-by-acclamation-ei.xml)  
+
 ### [2004-02-16](/news/2004/02/16/index.md)
 
+##### Nunavut
 #  The territory of Nunavut, Canada, holds its second general election since its creation. Of the 19 members, one is chosen by acclamation. Eight members of the previous government are returned to office, and five are defeated. The members will elect a premier on March 5.
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/01/25/israeli-prime-minister-benjamin-netanyahu-attends-the-opening-of-an-exhibition-of-auschwitz-concentration-camp-blueprints-in-yad-vashem.html)  [JSON](/news/2010/01/25/israeli-prime-minister-benjamin-netanyahu-attends-the-opening-of-an-exhibition-of-auschwitz-concentration-camp-blueprints-in-yad-vashem.json)  [XML](/news/2010/01/25/israeli-prime-minister-benjamin-netanyahu-attends-the-opening-of-an-exhibition-of-auschwitz-concentration-camp-blueprints-in-yad-vashem.xml)  
+
 ### [2010-01-25](/news/2010/01/25/index.md)
 
+##### Israel
 # Israeli Prime Minister Benjamin Netanyahu attends the opening of an exhibition of Auschwitz concentration camp blueprints in Yad Vashem. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [The Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2010/01/24/AR2010012401507.html)
+1. [The Washington Post](https://www.washingtonpost.com/wp-dyn/content/article/2010/01/24/AR2010012401507.html)
 
 ### Related:
 

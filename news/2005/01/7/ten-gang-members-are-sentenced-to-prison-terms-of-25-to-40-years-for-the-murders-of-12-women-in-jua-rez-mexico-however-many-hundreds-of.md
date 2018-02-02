@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/7/ten-gang-members-are-sentenced-to-prison-terms-of-25-to-40-years-for-the-murders-of-12-women-in-jua-rez-mexico-however-many-hundreds-of.html)  [JSON](/news/2005/01/7/ten-gang-members-are-sentenced-to-prison-terms-of-25-to-40-years-for-the-murders-of-12-women-in-jua-rez-mexico-however-many-hundreds-of.json)  [XML](/news/2005/01/7/ten-gang-members-are-sentenced-to-prison-terms-of-25-to-40-years-for-the-murders-of-12-women-in-jua-rez-mexico-however-many-hundreds-of.xml)  
+
 ### [2005-01-7](/news/2005/01/7/index.md)
 
+##### Ciudad Juarez
 #  Ten gang members are sentenced to prison terms of 25 to 40 years for the murders of 12 women in Juarez, Mexico; however, many hundreds of the deaths in Ciudad Juarez remain unsolved. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4155551.stm)
 

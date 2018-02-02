@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/17/70-films-from-23-countries-and-territorries-will-be-shown-during-the-first-vietnam-international-film-festival-opening-in-hanoi.html)  [JSON](/news/2010/10/17/70-films-from-23-countries-and-territorries-will-be-shown-during-the-first-vietnam-international-film-festival-opening-in-hanoi.json)  [XML](/news/2010/10/17/70-films-from-23-countries-and-territorries-will-be-shown-during-the-first-vietnam-international-film-festival-opening-in-hanoi.xml)  
+
 ### [2010-10-17](/news/2010/10/17/index.md)
 
+##### Vietnam International Film Festival
 # 70 films from 23 countries and territorries will be shown during the first Vietnam International Film Festival opening in Hanoi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Vietnamnet](http://english.vietnamnet.vn/en/arts-entertainment/443/first-int-l-film-festival-opens-in-hanoi.html)
 

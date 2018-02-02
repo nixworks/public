@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/1/officials-in-comoros-confirm-that-one-passenger-from-yemenia-flight-626-a-14-year-old-girl-has-been-found-alive.html)  [JSON](/news/2009/07/1/officials-in-comoros-confirm-that-one-passenger-from-yemenia-flight-626-a-14-year-old-girl-has-been-found-alive.json)  [XML](/news/2009/07/1/officials-in-comoros-confirm-that-one-passenger-from-yemenia-flight-626-a-14-year-old-girl-has-been-found-alive.xml)  
+
 ### [2009-07-1](/news/2009/07/1/index.md)
 
+##### Comoros
 #  Officials in Comoros confirm that one passenger from Yemenia Flight 626, a 14-year-old girl, has been found alive. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8127812.stm)
 

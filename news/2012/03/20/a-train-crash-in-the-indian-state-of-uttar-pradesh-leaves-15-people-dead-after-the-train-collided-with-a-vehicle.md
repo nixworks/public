@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/20/a-train-crash-in-the-indian-state-of-uttar-pradesh-leaves-15-people-dead-after-the-train-collided-with-a-vehicle.html)  [JSON](/news/2012/03/20/a-train-crash-in-the-indian-state-of-uttar-pradesh-leaves-15-people-dead-after-the-train-collided-with-a-vehicle.json)  [XML](/news/2012/03/20/a-train-crash-in-the-indian-state-of-uttar-pradesh-leaves-15-people-dead-after-the-train-collided-with-a-vehicle.xml)  
+
 ### [2012-03-20](/news/2012/03/20/index.md)
 
+##### Indian state
 # A train crash in the Indian state of Uttar Pradesh leaves 15 people dead after the train collided with a vehicle. 
 
 At least 15 people die after a train hits a vehicle carrying passengers at a level crossing in the north Indian state of Uttar Pradesh, officials say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-17441349)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/59184000/jpg/_59184323_59184322.jpg)

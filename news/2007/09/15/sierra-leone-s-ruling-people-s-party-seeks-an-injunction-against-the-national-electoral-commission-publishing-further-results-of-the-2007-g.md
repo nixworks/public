@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/15/sierra-leone-s-ruling-people-s-party-seeks-an-injunction-against-the-national-electoral-commission-publishing-further-results-of-the-2007-g.html)  [JSON](/news/2007/09/15/sierra-leone-s-ruling-people-s-party-seeks-an-injunction-against-the-national-electoral-commission-publishing-further-results-of-the-2007-g.json)  [XML](/news/2007/09/15/sierra-leone-s-ruling-people-s-party-seeks-an-injunction-against-the-national-electoral-commission-publishing-further-results-of-the-2007-g.xml)  
+
 ### [2007-09-15](/news/2007/09/15/index.md)
 
+##### Sierra Leone
 #  Sierra Leone's ruling People's Party seeks an injunction against the National Electoral Commission publishing further results of the 2007 general election with results published so far showing Opposition candidate for president Ernest Bai Koroma in the lead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [[(BBC](http://news.bbc.co.uk/2/hi/africa/6997095.stm)
 

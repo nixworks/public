@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/15/a-pegasus-rocket-successfully-deploys-the-cygns
 
 ### [2016-12-15](/news/2016/12/15/index.md)
 
+##### Pegasus
 # A Pegasus rocket successfully deploys the CYGNSS hurricane observation satellite constellation for NASA. 
 
 NASA’s Cyclone Global Navigation Satellite System (CYGNSS) mission will improve hurricane forecasting by making measurements of ocean surface winds in and near the eye wall of tropical cyclones, typhoons and hurricanes throughout their life cycle.

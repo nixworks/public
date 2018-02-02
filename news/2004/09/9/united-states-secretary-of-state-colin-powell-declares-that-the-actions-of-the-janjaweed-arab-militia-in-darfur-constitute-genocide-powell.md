@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/9/united-states-secretary-of-state-colin-powell-declares-that-the-actions-of-the-janjaweed-arab-militia-in-darfur-constitute-genocide-powell.html)  [JSON](/news/2004/09/9/united-states-secretary-of-state-colin-powell-declares-that-the-actions-of-the-janjaweed-arab-militia-in-darfur-constitute-genocide-powell.json)  [XML](/news/2004/09/9/united-states-secretary-of-state-colin-powell-declares-that-the-actions-of-the-janjaweed-arab-militia-in-darfur-constitute-genocide-powell.xml)  
+
 ### [2004-09-9](/news/2004/09/9/index.md)
 
+##### United States Secretary of State
 #  United States Secretary of State Colin Powell declares that the actions of the Janjaweed Arab militia in Darfur constitute genocide. Powell holds the government of Sudan responsible. Up to 50,000 ethnic Africans have been killed and 2.2 million displaced into refugee camps in neighboring Chad by ethnic Arab militias. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/3641820.stm)
 2. [CNN](http://www.cnn.com/2004/WORLD/africa/09/09/sudan.powell/index.html)

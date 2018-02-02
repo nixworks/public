@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/10/25/microsoft-releases-windows-xp.html)  [JSON](/news/2001/10/25/microsoft-releases-windows-xp.json)  [XML](/news/2001/10/25/microsoft-releases-windows-xp.xml)  
+
 ### [2001-10-25](/news/2001/10/25/index.md)
 
+##### Windows XP
 #  Microsoft releases Windows XP.
 
 

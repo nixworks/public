@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/28/a-court-in-the-seychelles-sentences-ten-somali-pirates-to-20-years-in-prison.html)  [JSON](/news/2011/02/28/a-court-in-the-seychelles-sentences-ten-somali-pirates-to-20-years-in-prison.json)  [XML](/news/2011/02/28/a-court-in-the-seychelles-sentences-ten-somali-pirates-to-20-years-in-prison.xml)  
+
 ### [2011-02-28](/news/2011/02/28/index.md)
 
+##### Seychelles
 # A court in the Seychelles sentences ten Somali pirates to 20 years in prison. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE71R0DM20110228)
 

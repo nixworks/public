@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2010/09/26/the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-into-the-gaza-flotilla-raid-carried-out-by-i.html)  [JSON](/news/2010/09/26/the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-into-the-gaza-flotilla-raid-carried-out-by-i.json)  [XML](/news/2010/09/26/the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-into-the-gaza-flotilla-raid-carried-out-by-i.xml)  
+
 ### [2010-09-26](/news/2010/09/26/index.md)
 
+##### Human Rights Council
 # The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [JTA](http://www.jta.org/news/article/2010/09/26/2741044/unhcr-flotilla-report-says-israel-broke-international-law)
 2. [The Jordan Times](http://www.jordantimes.com/?news=30363)
+
+### Changes:
+
+1. [UNHRC report into the Gaza flotilla raid:The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/unhrc-report-into-the-gaza-flotilla-raid-pthe-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-in.md) _2017-08-25 03:30:14 (First version)_
+2. [UNHRC report into the Gaza flotilla raid:: The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/unhrc-report-into-the-gaza-flotilla-raid-the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-i.md) _2017-08-27 03:30:17 (Update)_
+2. [The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-into-the-gaza-flotilla-raid-carried-out-by-i.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [Israel's Prime Minister Benjamin Netanyahu apologizes to his Turkish counterpart Recep Tayyip Erdogan for the death of nine activists during a flotilla raid in Gaza in 2010 and offers compensation for their families. ](/news/2013/03/22/israel-s-prime-minister-benjamin-netanyahu-apologizes-to-his-turkish-counterpart-recep-tayyip-erdoaan-for-the-death-of-nine-activists-durin.md) _Context: Gaza flotilla raid, Israel_
 4. [Israel's State Comptroller criticises prime minister Benjamin Netanyahu's decision-making during the 2010 Gaza flotilla raid. ](/news/2012/06/13/israel-s-state-comptroller-criticises-prime-minister-benjamin-netanyahu-s-decision-making-during-the-2010-gaza-flotilla-raid.md) _Context: Gaza flotilla raid, Israel_
 5. [Israeli lawmakers dedicate a session of parliament to possible commemorations of the Armenian genocide, now that relations with Turkey have deteriorated since Israel killed nine Turks in international waters of the Mediterranean Sea in 2010. ](/news/2012/06/12/israeli-lawmakers-dedicate-a-session-of-parliament-to-possible-commemorations-of-the-armenian-genocide-now-that-relations-with-turkey-have.md) _Context: Gaza flotilla raid, Israel_
-
-### Changes:
-
-1. [UNHRC report into the Gaza flotilla raid:The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/unhrc-report-into-the-gaza-flotilla-raid-pthe-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-in.md) _2017-08-25 03:30:14 (First version)_
-2. [UNHRC report into the Gaza flotilla raid:: The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/unhrc-report-into-the-gaza-flotilla-raid-the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-i.md) _2017-08-27 03:30:17 (Update)_
-2. [The 57-member United Nations Human Rights Council is to investigate the facts found by a report into the Gaza flotilla raid carried out by Israel earlier this year. ](/news/2010/09/26/the-57-member-united-nations-human-rights-council-is-to-investigate-the-facts-found-by-a-report-into-the-gaza-flotilla-raid-carried-out-by-i.md) _(Current version)_

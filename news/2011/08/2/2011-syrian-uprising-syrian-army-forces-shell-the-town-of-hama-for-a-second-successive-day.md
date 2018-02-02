@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/2/2011-syrian-uprising-syrian-army-forces-shell-the-town-of-hama-for-a-second-successive-day.html)  [JSON](/news/2011/08/2/2011-syrian-uprising-syrian-army-forces-shell-the-town-of-hama-for-a-second-successive-day.json)  [XML](/news/2011/08/2/2011-syrian-uprising-syrian-army-forces-shell-the-town-of-hama-for-a-second-successive-day.xml)  
+
 ### [2011-08-2](/news/2011/08/2/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Syrian Army forces shell the town of Hama for a second successive day. 
 
 Syrian forces are pushing towards the centre of the city of Hama as they continue an offensive in which scores of people have died.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14368183)
 1. [Cover Image](http://playlists.bbc.co.uk/news/world-middle-east-14368183A/playlist.sxml)

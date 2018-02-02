@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2005/03/4/former-interior-minister-of-ukraine-yuri-kravchenko-is-found-dead-in-his-country-house-in-an-apparent-suicide-he-had-been-linked-to-the.html)  [JSON](/news/2005/03/4/former-interior-minister-of-ukraine-yuri-kravchenko-is-found-dead-in-his-country-house-in-an-apparent-suicide-he-had-been-linked-to-the.json)  [XML](/news/2005/03/4/former-interior-minister-of-ukraine-yuri-kravchenko-is-found-dead-in-his-country-house-in-an-apparent-suicide-he-had-been-linked-to-the.xml)  
+
 ### [2005-03-4](/news/2005/03/4/index.md)
 
+##### Ukraine
 #  Former interior minister of Ukraine, Yuri Kravchenko, is found dead in his country house, in an apparent suicide. He had been linked to the murder of journalist Georgiy Gongadze and was due to give evidence. 
 
 Find late breaking world news from every corner of the globe at Reuters.com, your online source for international news coverage.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4317377.stm)
-2. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7806729)
+2. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=worldNews&storyID=7806729)
 3. [Scotsman](http://news.scotsman.com/latest.cfm?id=4207459)
-3. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

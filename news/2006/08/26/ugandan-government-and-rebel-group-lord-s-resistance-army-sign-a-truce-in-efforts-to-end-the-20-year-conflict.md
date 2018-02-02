@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/26/ugandan-government-and-rebel-group-lord-s-resistance-army-sign-a-truce-in-efforts-to-end-the-20-year-conflict.html)  [JSON](/news/2006/08/26/ugandan-government-and-rebel-group-lord-s-resistance-army-sign-a-truce-in-efforts-to-end-the-20-year-conflict.json)  [XML](/news/2006/08/26/ugandan-government-and-rebel-group-lord-s-resistance-army-sign-a-truce-in-efforts-to-end-the-20-year-conflict.xml)  
+
 ### [2006-08-26](/news/2006/08/26/index.md)
 
+##### Uganda
 #  Ugandan government and rebel group Lord's Resistance Army sign a truce, in efforts to end the 20-year conflict. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/5288776.stm)
 

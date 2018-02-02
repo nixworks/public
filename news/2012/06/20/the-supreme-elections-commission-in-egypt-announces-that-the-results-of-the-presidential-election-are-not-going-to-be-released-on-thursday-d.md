@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/06/20/the-supreme-elections-commission-in-egypt-announces-that-the-results-of-the-presidential-election-are-not-going-to-be-released-on-thursday-d.html)  [JSON](/news/2012/06/20/the-supreme-elections-commission-in-egypt-announces-that-the-results-of-the-presidential-election-are-not-going-to-be-released-on-thursday-d.json)  [XML](/news/2012/06/20/the-supreme-elections-commission-in-egypt-announces-that-the-results-of-the-presidential-election-are-not-going-to-be-released-on-thursday-d.xml)  
+
 ### [2012-06-20](/news/2012/06/20/index.md)
 
+##### presidential election
 # The Supreme Elections Commission in Egypt announces that the results of the presidential election are not going to be released on Thursday due to complaints by rival candidates. 
 
 Authorities gave no new date for the announcement of the winner of the presidential election.
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/world/story/2012-06-20/egypt-election/55715816/1?csp=34news)
+1. [USA Today](https://www.usatoday.com/news/world/story/2012-06-20/egypt-election/55715816/1?csp=34news)
 1. [Cover Image](http://i.usatoday.net/news/_photos/2012/06/20/Egypt-president-announcement-delayed-2L1N9B6C-x.jpg)
 
 ### Related:

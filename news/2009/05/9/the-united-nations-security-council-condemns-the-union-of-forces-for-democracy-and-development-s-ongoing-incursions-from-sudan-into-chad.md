@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/9/the-united-nations-security-council-condemns-the-union-of-forces-for-democracy-and-development-s-ongoing-incursions-from-sudan-into-chad.html)  [JSON](/news/2009/05/9/the-united-nations-security-council-condemns-the-union-of-forces-for-democracy-and-development-s-ongoing-incursions-from-sudan-into-chad.json)  [XML](/news/2009/05/9/the-united-nations-security-council-condemns-the-union-of-forces-for-democracy-and-development-s-ongoing-incursions-from-sudan-into-chad.xml)  
+
 ### [2009-05-9](/news/2009/05/9/index.md)
 
+##### United Nations
 #  The United Nations Security Council condemns the Union of Forces for Democracy and Development's ongoing incursions from Sudan into Chad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France24](http://www.france24.com/en/20090509-un-slams-rebel-attacks-eastern-chad-assault-military-security-council)
 2. [UN News](http://www.un.org/News/Press/docs/2009/sc9654.doc.htm)

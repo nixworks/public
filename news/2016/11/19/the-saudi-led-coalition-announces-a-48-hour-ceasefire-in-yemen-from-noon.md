@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/19/the-saudi-led-coalition-announces-a-48-hour-cea
 
 ### [2016-11-19](/news/2016/11/19/index.md)
 
+##### Yemeni Civil War (2015-present)
 # The Saudi-led coalition announces a 48 hour ceasefire in Yemen from noon. 
 
 Cairo (AP) -- The Saudi-led military coalition declared a 48-hour ceasefire in Yemen on Saturday, on the condition that Shiite rebels abide by it and allow humanitarian assistance into besieged cities, particularly the city of Taiz.

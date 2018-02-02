@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/27/scottish-serial-murderer-robert-black-is-convicted-of-the-1981-murder-of-northern-irish-schoolgirl-jennifer-cardy.html)  [JSON](/news/2011/10/27/scottish-serial-murderer-robert-black-is-convicted-of-the-1981-murder-of-northern-irish-schoolgirl-jennifer-cardy.json)  [XML](/news/2011/10/27/scottish-serial-murderer-robert-black-is-convicted-of-the-1981-murder-of-northern-irish-schoolgirl-jennifer-cardy.xml)  
+
 ### [2011-10-27](/news/2011/10/27/index.md)
 
+##### serial murderer
 # Scottish serial murderer Robert Black is convicted of the 1981 murder of Northern Irish schoolgirl Jennifer Cardy. 
 
 Child killer Robert Black has been found guilty of murdering Jennifer Cardy in Ballinderry, County Antrim, 30 years ago.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-15445986)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/55524000/jpg/_55524304_jennifercardy.jpg)

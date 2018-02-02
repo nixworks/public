@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/16/three-blasts-rocked-southern-afghanistan-s-restive-city-of-kandahar-killing-at-least-four-people-and-injuring-two-others.html)  [JSON](/news/2010/10/16/three-blasts-rocked-southern-afghanistan-s-restive-city-of-kandahar-killing-at-least-four-people-and-injuring-two-others.json)  [XML](/news/2010/10/16/three-blasts-rocked-southern-afghanistan-s-restive-city-of-kandahar-killing-at-least-four-people-and-injuring-two-others.xml)  
+
 ### [2010-10-16](/news/2010/10/16/index.md)
 
+##### Kandahar
 # Three blasts rocked southern Afghanistan's restive city of Kandahar, killing at least four people and injuring two others. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/16/c_13560769.htm)
 

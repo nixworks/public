@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/1/about-one-thousand-houses-in-manila-s-tondo-dist
 
 ### [2016-01-1](/news/2016/01/1/index.md)
 
+##### Manila
 # About one thousand houses in Manila's Tondo district in the Philippines are set ablaze following New Year's Eve firecracker festivities that left one dead and 380 others injured. 
 
 

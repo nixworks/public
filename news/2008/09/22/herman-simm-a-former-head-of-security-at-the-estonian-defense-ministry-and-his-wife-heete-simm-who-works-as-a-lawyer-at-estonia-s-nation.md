@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/22/herman-simm-a-former-head-of-security-at-the-estonian-defense-ministry-and-his-wife-heete-simm-who-works-as-a-lawyer-at-estonia-s-nation.html)  [JSON](/news/2008/09/22/herman-simm-a-former-head-of-security-at-the-estonian-defense-ministry-and-his-wife-heete-simm-who-works-as-a-lawyer-at-estonia-s-nation.json)  [XML](/news/2008/09/22/herman-simm-a-former-head-of-security-at-the-estonian-defense-ministry-and-his-wife-heete-simm-who-works-as-a-lawyer-at-estonia-s-nation.xml)  
+
 ### [2008-09-22](/news/2008/09/22/index.md)
 
+##### Herman Simm
 #  Herman Simm, a former head of security at the Estonian Defense Ministry, and his wife Heete Simm, who works as a lawyer at Estonia's National Police Board, are arrested on suspicion of spying for Russia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The International Herald Tribune](http://www.iht.com/articles/ap/2008/09/22/europe/EU-Estonia-Spy-Suspects.php)
 

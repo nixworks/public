@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/17/suspected-boko-haram-suicide-bombers-kill-12-pe
 
 ### [2018-01-17](/news/2018/01/17/index.md)
 
+##### Boko Haram insurgency
 # Suspected Boko Haram suicide bombers kill 12 people and injure 48 others, in Maiduguri, Nigeria. 
 
 Suspected Boko Haram suicide bombers killed 12 people and injured 48 others in an attack on Wednesday on the northeastern Nigerian city of Maiduguri, officials from the State Emergency Management Agency (SEMA) for Borno said.

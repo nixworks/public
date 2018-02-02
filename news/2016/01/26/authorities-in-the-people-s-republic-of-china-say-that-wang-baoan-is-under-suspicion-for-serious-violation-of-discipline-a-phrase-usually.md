@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/26/authorities-in-the-people-s-republic-of-china-s
 
 ### [2016-01-26](/news/2016/01/26/index.md)
 
+##### China
 # Authorities in the People's Republic of China say that Wang Baoan is under suspicion for "serious violation of discipline" (a phrase usually associated with corruption charges) as the head of that country's powerful National Bureau of Statistics. 
 
 

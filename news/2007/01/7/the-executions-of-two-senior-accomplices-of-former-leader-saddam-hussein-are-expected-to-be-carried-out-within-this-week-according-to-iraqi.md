@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/01/7/the-executions-of-two-senior-accomplices-of-former-leader-saddam-hussein-are-expected-to-be-carried-out-within-this-week-according-to-iraqi.html)  [JSON](/news/2007/01/7/the-executions-of-two-senior-accomplices-of-former-leader-saddam-hussein-are-expected-to-be-carried-out-within-this-week-according-to-iraqi.json)  [XML](/news/2007/01/7/the-executions-of-two-senior-accomplices-of-former-leader-saddam-hussein-are-expected-to-be-carried-out-within-this-week-according-to-iraqi.xml)  
+
 ### [2007-01-7](/news/2007/01/7/index.md)
 
+##### Saddam Hussein
 #  The executions of two senior accomplices of former leader Saddam Hussein are expected to be carried out within this week according to Iraqi officials. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6239199.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/30/israeli-police-arrest-hamas-mp-mohammed-abu-teir-for-breaking-a-law-by-staying-within-the-borders-of-the-state-of-israel-after-being-ordered.html)  [JSON](/news/2010/06/30/israeli-police-arrest-hamas-mp-mohammed-abu-teir-for-breaking-a-law-by-staying-within-the-borders-of-the-state-of-israel-after-being-ordered.json)  [XML](/news/2010/06/30/israeli-police-arrest-hamas-mp-mohammed-abu-teir-for-breaking-a-law-by-staying-within-the-borders-of-the-state-of-israel-after-being-ordered.xml)  
+
 ### [2010-06-30](/news/2010/06/30/index.md)
 
+##### Israel
 # Israeli police arrest Hamas MP Mohammed Abu Teir for breaking a law by staying within the borders of the state of Israel after being ordered to leave Jerusalem. 
 
 Palestinian held after failing to comply with order to leave occupied Jerusalem.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/middleeast/2010/06/2010630165417403499.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=132859&sectionid=351020202)

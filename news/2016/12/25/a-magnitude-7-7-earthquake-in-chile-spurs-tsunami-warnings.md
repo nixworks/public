@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/25/a-magnitude-7-7-earthquake-in-chile-spurs-tsuna
 
 ### [2016-12-25](/news/2016/12/25/index.md)
 
+##### 2016 Chiloe earthquake
 # A magnitude 7.7 earthquake in Chile spurs tsunami warnings. 
 
 A tsunami alert issued after a powerful earthquake off the coast of Chile has now been lifted.

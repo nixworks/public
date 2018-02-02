@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/14/south-korea-and-the-people-s-republic-of-china-
 
 ### [2016-01-14](/news/2016/01/14/index.md)
 
+##### nuclear test
 # South Korea and the People's Republic of China will hold talks to develop a joint response to last week's North Korean nuclear test. 
 
 

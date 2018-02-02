@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/7/in-sweden-some-15-500-skiers-compete-in-the-80th-installment-of-vasaloppet-the-oldest-and-longest-cross-country-ski-race-in-the-world-nor.html)  [JSON](/news/2004/03/7/in-sweden-some-15-500-skiers-compete-in-the-80th-installment-of-vasaloppet-the-oldest-and-longest-cross-country-ski-race-in-the-world-nor.json)  [XML](/news/2004/03/7/in-sweden-some-15-500-skiers-compete-in-the-80th-installment-of-vasaloppet-the-oldest-and-longest-cross-country-ski-race-in-the-world-nor.xml)  
+
 ### [2004-03-7](/news/2004/03/7/index.md)
 
+##### Vasaloppet
 #  In Sweden some 15,500 skiers compete in the 80th installment of Vasaloppet, the oldest and longest cross-country ski race in the world. Norwegian Anders Aukland wins. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sports Illustrated](http://sportsillustrated.cnn.com/2004/more/03/07/bc.eu.spt.ski.cross.vasaloppet.ap/index.html)
 2. [Vasaloppet press release](http://www.vasaloppet.se/wps/VasaCMS/generated/resources.Nyheter/nyheter/en/Pressreleaser/332.html)

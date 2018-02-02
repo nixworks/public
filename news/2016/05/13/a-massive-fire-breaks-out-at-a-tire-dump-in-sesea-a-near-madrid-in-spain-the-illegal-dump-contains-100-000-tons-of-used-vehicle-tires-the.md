@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/13/a-massive-fire-breaks-out-at-a-tire-dump-in-ses
 
 ### [2016-05-13](/news/2016/05/13/index.md)
 
+##### tire dump
 # A massive fire breaks out at a tire dump in Sesena, near Madrid in Spain. The illegal dump contains 100,000 tons of used vehicle tires. The smoke from the fire is visible for at least 30km. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com

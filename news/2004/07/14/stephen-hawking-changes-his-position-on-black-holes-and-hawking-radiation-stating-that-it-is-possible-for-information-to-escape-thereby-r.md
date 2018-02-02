@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/07/14/stephen-hawking-changes-his-position-on-black-holes-and-hawking-radiation-stating-that-it-is-possible-for-information-to-escape-thereby-r.html)  [JSON](/news/2004/07/14/stephen-hawking-changes-his-position-on-black-holes-and-hawking-radiation-stating-that-it-is-possible-for-information-to-escape-thereby-r.json)  [XML](/news/2004/07/14/stephen-hawking-changes-his-position-on-black-holes-and-hawking-radiation-stating-that-it-is-possible-for-information-to-escape-thereby-r.xml)  
+
 ### [2004-07-14](/news/2004/07/14/index.md)
 
+##### Stephen Hawking
 #  Stephen Hawking changes his position on black holes and Hawking radiation, stating that it is possible for information to escape, thereby reinforcing a central tenet of quantum physics. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [New Scientist](http://www.newscientist.com/news/news.jsp?id=ns99996151)
+1. [New Scientist](https://www.newscientist.com/news/news.jsp?id=ns99996151)
 
 ### Related:
 

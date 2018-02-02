@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/11/10/200-000-canadian-college-and-university-students-vote-in-favour-of-boycotting-classes-in-quebec-thousands-are-expected-to-participate-in-a.html)  [JSON](/news/2011/11/10/200-000-canadian-college-and-university-students-vote-in-favour-of-boycotting-classes-in-quebec-thousands-are-expected-to-participate-in-a.json)  [XML](/news/2011/11/10/200-000-canadian-college-and-university-students-vote-in-favour-of-boycotting-classes-in-quebec-thousands-are-expected-to-participate-in-a.xml)  
+
 ### [2011-11-10](/news/2011/11/10/index.md)
 
+##### Canadian
 # 200,000 Canadian college and university students vote in favour of boycotting classes in Quebec. Thousands are expected to participate in a protest march against tuition fee increases in Montreal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Canadian Press via ''The Globe and Mail](http://www.theglobeandmail.com/news/national/up-to-200000-quebec-students-stage-massive-protest-over-tuition-hikes/article2232146/)
-1. [Cover Image](http://static.theglobeandmail.ca/2c7/incoming/article904370.ece/ALTERNATES/w620/que-students)
+1. [Canadian Press via ''The Globe and Mail](https://www.theglobeandmail.com/news/national/up-to-200000-quebec-students-stage-massive-protest-over-tuition-hikes/article2232146/)
+1. [Cover Image](https://beta.theglobeandmail.com/resizer/nh4EjuAjZzQxkqD_MdB-7az6U1k=/1200x0/arc-anglerfish-tgam-prod-tgam.s3.amazonaws.com/public/A2IG7LXMRZERJGV2DNVROPZIZA)
 
 ### Related:
 

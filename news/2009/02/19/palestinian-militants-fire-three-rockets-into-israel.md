@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/19/palestinian-militants-fire-three-rockets-into-israel.html)  [JSON](/news/2009/02/19/palestinian-militants-fire-three-rockets-into-israel.json)  [XML](/news/2009/02/19/palestinian-militants-fire-three-rockets-into-israel.xml)  
+
 ### [2009-02-19](/news/2009/02/19/index.md)
 
+##### Palestinian
 #  Palestinian militants fire three rockets into Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1233304828993&pagename=JPost%2FJPArticle%2FShowFull)
 

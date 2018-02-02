@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/12/a-giant-iceberg-covering-approximately-6000-km2
 
 ### [2017-07-12](/news/2017/07/12/index.md)
 
+##### Larsen Ice Shelf
 # A giant iceberg covering approximately 6000 km2 breaks away from the Larsen C Ice Shelf in Antarctica. 
 
 A block of ice a quarter the size of Wales calves from the eastern side of the Antarctic Peninsula.

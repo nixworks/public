@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/25/a-journalist-from-cnn-is-shot-and-killed-in-the-philippines-the-27th-journalist-murdered-during-the-administration-of-benigno-aquino-iii.html)  [JSON](/news/2015/06/25/a-journalist-from-cnn-is-shot-and-killed-in-the-philippines-the-27th-journalist-murdered-during-the-administration-of-benigno-aquino-iii.json)  [XML](/news/2015/06/25/a-journalist-from-cnn-is-shot-and-killed-in-the-philippines-the-27th-journalist-murdered-during-the-administration-of-benigno-aquino-iii.xml)  
+
 ### [2015-06-25](/news/2015/06/25/index.md)
 
+##### CNN
 # A journalist from CNN is shot and killed in the Philippines, the 27th journalist murdered during the administration of Benigno Aquino III. 
 
 (UPDATED) Jonathan Oldan will be the 27th journalist to be killed under the Aquino administration, if his death is proven to be work-related, says the National Union of Journalists of the Philippines
 
 
-### Source:
+### Sources:
 
 1. [Rappler](http://www.rappler.com/nation/97407-cnn-ph-cameraman-killed-cavite)
 1. [Cover Image](https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/6C3F1B34B3654EFE8D55B0D3580B3033/driver-assistant-cameraman-cavite-20150625-copy.jpg)

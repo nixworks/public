@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/3/according-to-united-nations-officials-as-many-as-4-000-people-could-be-buried-under-the-rubble-in-the-aftermath-of-the-devastating-earthqu.html)  [JSON](/news/2009/10/3/according-to-united-nations-officials-as-many-as-4-000-people-could-be-buried-under-the-rubble-in-the-aftermath-of-the-devastating-earthqu.json)  [XML](/news/2009/10/3/according-to-united-nations-officials-as-many-as-4-000-people-could-be-buried-under-the-rubble-in-the-aftermath-of-the-devastating-earthqu.xml)  
+
 ### [2009-10-3](/news/2009/10/3/index.md)
 
+##### United Nations
 #  According to United Nations officials, as many as 4,000 people could be buried under the rubble in the aftermath of the devastating earthquakes in Indonesia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/asiapcf/10/03/indonesia.earthquake/index.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=107715&sectionid=351020406)

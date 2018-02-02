@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/17/the-governments-of-papua-new-guinea-and-austral
 
 ### [2016-08-17](/news/2016/08/17/index.md)
 
+##### Papua New Guinea
 # The governments of Papua New Guinea and Australia confirm that the Manus Regional Processing Centre will close following a ruling by the Supreme Court of Papua New Guinea. 
 
 Immigration Minister Peter Dutton confirms Australia will work with Papua New Guinea to close the Manus Island detention centre.

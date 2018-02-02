@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/29/kyrgyz-president-kurmanbek-bakiyev-will-address-the-supreme-council-on-30-december-2006-in-an-effort-to-compromise-on-proposed-amendments-t.html)  [JSON](/news/2006/12/29/kyrgyz-president-kurmanbek-bakiyev-will-address-the-supreme-council-on-30-december-2006-in-an-effort-to-compromise-on-proposed-amendments-t.json)  [XML](/news/2006/12/29/kyrgyz-president-kurmanbek-bakiyev-will-address-the-supreme-council-on-30-december-2006-in-an-effort-to-compromise-on-proposed-amendments-t.xml)  
+
 ### [2006-12-29](/news/2006/12/29/index.md)
 
+##### Kyrgyz President
 #  Kyrgyz President Kurmanbek Bakiyev will address the Supreme Council on 30 December 2006 in an effort to compromise on proposed amendments to the constitution. Several Parliamentarians warn that Kyrgyzstan is on the verge of civil war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RadioFreeEurope/RadioLiberty](http://www.rferl.org/featuresarticle/2006/12/a75c6fdf-15ad-460d-8952-16bef52e3bf1.html)
 

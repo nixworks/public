@@ -1,21 +1,25 @@
+
+Formats: [HTML](/news/2011/01/10/iranian-human-rights-lawyer-nasrin-sotoudeh-is-sentenced-to-11-years-in-prison-and-banned-from-practicing-law-or-traveling-for-20-years-fra.html)  [JSON](/news/2011/01/10/iranian-human-rights-lawyer-nasrin-sotoudeh-is-sentenced-to-11-years-in-prison-and-banned-from-practicing-law-or-traveling-for-20-years-fra.json)  [XML](/news/2011/01/10/iranian-human-rights-lawyer-nasrin-sotoudeh-is-sentenced-to-11-years-in-prison-and-banned-from-practicing-law-or-traveling-for-20-years-fra.xml)  
+
 ### [2011-01-10](/news/2011/01/10/index.md)
 
+##### Iranian human-rights
 # Iranian human-rights lawyer Nasrin Sotoudeh is sentenced to 11 years in prison and banned from practicing law or traveling for 20 years; France condemns the punishment as "deeply shocking" and called for the release of Sotoudeh and another activist, Shiva Nazar-Ahari, who was sentenced to four years in prison and 74 lashes. 
 
 Nasrin Sotoudeh, a female human rights lawyer, has been sentenced to 11 years in jail for crimes that include “activities against national security” and “propaganda against the regime.”
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://latimesblogs.latimes.com/babylonbeyond/2011/01/iran-activist-lawyer-human-rights-nasrin-sotoudeh.html)
 2. [Reuters](http://ca.reuters.com/article/topNews/idCATRE70934Q20110110)
-3. [The New York Times](http://www.nytimes.com/2011/01/11/world/middleeast/11tehran.html?_r=1)
+3. [The New York Times](https://www.nytimes.com/2011/01/11/world/middleeast/11tehran.html?_r=1)
 3. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 
-1. [Nine female political prisoners, including Iranian human rights lawyer Nasrin Sotoudeh, begin a hunger strike to protest their conditions in Tehran's Evin prison. ](/news/2012/11/1/nine-female-political-prisoners-including-iranian-human-rights-lawyer-nasrin-sotoudeh-begin-a-hunger-strike-to-protest-their-conditions-in.md) _Context: Iranian human rights, Nasrin Sotoudeh_
-2. [The United States urges Iran to halt executions after the hanging of a Dutch-Iranian woman, Zahra Bahrami, accused of being drug smuggler; the U.S. State Department expresses concern that Iran "continues to deny its citizens their human rights" and that cases, trials, and sentences continue to proceed "without transparency and the due process rights enshrined in Iran's own constitution." ](/news/2011/02/1/the-united-states-urges-iran-to-halt-executions-after-the-hanging-of-a-dutch-iranian-woman-zahra-bahrami-accused-of-being-drug-smuggler-t.md) _Context: Iranian human rights, halt executions_
-3. [A knife-wielding man at Saint Charles train station in Marseille, France, kills two women. Police kill the suspect and are treating the attack as a terrorist incident. ISIL claims responsibility. ](/news/2017/10/1/a-knife-wielding-man-at-saint-charles-train-station-in-marseille-france-kills-two-women-police-kill-the-suspect-and-are-treating-the-atta.md) _Context: France_
-4. [The opposition movement in Venezuela seeks help from France. ](/news/2017/09/4/the-opposition-movement-in-venezuela-seeks-help-from-france.md) _Context: France_
-5. [A crowd surge collapses a barrier during a soccer match at Stade de la Licorne in Amiens, France, injuring twenty-nine people, five of them seriously. ](/news/2017/09/30/a-crowd-surge-collapses-a-barrier-during-a-soccer-match-at-stade-de-la-licorne-in-amiens-france-injuring-twenty-nine-people-five-of-them.md) _Context: France_
+1. [During a session of the United Nations Security Council, the United States repeat its "unapologetic" support for the ongoing Iranian protests. Russia denounces the "veiled [U.S.] attempt to use the current moment to continue to undermine" the JCPOA. France calls to "be wary of any attempt to exploit this crisis for personal ends". ](/news/2018/01/5/during-a-session-of-the-united-nations-security-council-the-united-states-repeat-its-unapologetic-support-for-the-ongoing-iranian-protest.md) _Context: France_
+2. [Winter storm Eleanor moves from the British Isles to continental Europe with one dead in France as well as injuries and material losses in Germany, Netherlands and Switzerland. ](/news/2018/01/3/winter-storm-eleanor-moves-from-the-british-isles-to-continental-europe-with-one-dead-in-france-as-well-as-injuries-and-material-losses-in-g.md) _Context: France_
+3. [Paris Zoological Park, France, is evacuated and closed after dozens of baboons escape their enclosure. ](/news/2018/01/26/paris-zoological-park-france-is-evacuated-and-closed-after-dozens-of-baboons-escape-their-enclosure.md) _Context: France_
+4. [France's Foreign Minister Jean-Yves Le Drian calls for an emergency meeting of the United Nations Security Council to address the Turkish incursion into Northern Syria's Afrin Region. The UNSC will convene on Monday. ](/news/2018/01/21/france-s-foreign-minister-jean-yves-le-drian-calls-for-an-emergency-meeting-of-the-united-nations-security-council-to-address-the-turkish-in.md) _Context: France_
+5. [A spokesperson for Prime Minister Theresa May says the government has seen no plans for Foreign Secretary Boris Johnson's idea of building a road bridge across the English Channel between France and the United Kingdom. ](/news/2018/01/19/a-spokesperson-for-prime-minister-theresa-may-says-the-government-has-seen-no-plans-for-foreign-secretary-boris-johnson-s-idea-of-building-a.md) _Context: France_

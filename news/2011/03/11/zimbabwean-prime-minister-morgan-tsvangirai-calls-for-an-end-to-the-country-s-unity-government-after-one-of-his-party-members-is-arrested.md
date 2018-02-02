@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/11/zimbabwean-prime-minister-morgan-tsvangirai-calls-for-an-end-to-the-country-s-unity-government-after-one-of-his-party-members-is-arrested.html)  [JSON](/news/2011/03/11/zimbabwean-prime-minister-morgan-tsvangirai-calls-for-an-end-to-the-country-s-unity-government-after-one-of-his-party-members-is-arrested.json)  [XML](/news/2011/03/11/zimbabwean-prime-minister-morgan-tsvangirai-calls-for-an-end-to-the-country-s-unity-government-after-one-of-his-party-members-is-arrested.xml)  
+
 ### [2011-03-11](/news/2011/03/11/index.md)
 
+##### Zimbabwe
 # Zimbabwean Prime Minister Morgan Tsvangirai calls for an end to the country's unity government after one of his party members is arrested. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica.com](http://allafrica.com/stories/201103110370.html)
 

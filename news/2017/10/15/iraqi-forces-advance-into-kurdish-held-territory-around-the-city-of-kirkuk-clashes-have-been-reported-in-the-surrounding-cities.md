@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/15/iraqi-forces-advance-into-kurdish-held-territor
 
 ### [2017-10-15](/news/2017/10/15/index.md)
 
+##### 2017 Iraqi-Kurdish conflict
 # Iraqi forces advance into Kurdish-held territory around the city of Kirkuk. Clashes have been reported in the surrounding cities. 
 
 Iraqi forces began moving at midnight on Sunday toward oil fields and an important air base held by Kurdish forces near the oil-rich city of Kirkuk, Iraqi and Kurdish officials said.

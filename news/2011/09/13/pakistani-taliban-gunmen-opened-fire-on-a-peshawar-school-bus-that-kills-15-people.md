@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/13/pakistani-taliban-gunmen-opened-fire-on-a-peshawar-school-bus-that-kills-15-people.html)  [JSON](/news/2011/09/13/pakistani-taliban-gunmen-opened-fire-on-a-peshawar-school-bus-that-kills-15-people.json)  [XML](/news/2011/09/13/pakistani-taliban-gunmen-opened-fire-on-a-peshawar-school-bus-that-kills-15-people.xml)  
+
 ### [2011-09-13](/news/2011/09/13/index.md)
 
+##### Pakistan
 # Pakistani Taliban gunmen opened fire on a Peshawar school bus that kills 15 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2011/sep/13/pakistan-gunmen-open-fire-school-bus)
 

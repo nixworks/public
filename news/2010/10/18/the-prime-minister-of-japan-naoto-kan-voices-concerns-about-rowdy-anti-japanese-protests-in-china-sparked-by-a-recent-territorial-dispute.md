@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/10/18/the-prime-minister-of-japan-naoto-kan-voices-concerns-about-rowdy-anti-japanese-protests-in-china-sparked-by-a-recent-territorial-dispute.html)  [JSON](/news/2010/10/18/the-prime-minister-of-japan-naoto-kan-voices-concerns-about-rowdy-anti-japanese-protests-in-china-sparked-by-a-recent-territorial-dispute.json)  [XML](/news/2010/10/18/the-prime-minister-of-japan-naoto-kan-voices-concerns-about-rowdy-anti-japanese-protests-in-china-sparked-by-a-recent-territorial-dispute.xml)  
+
 ### [2010-10-18](/news/2010/10/18/index.md)
 
+##### Prime Minister of Japan
 # The Prime Minister of Japan Naoto Kan voices concerns about rowdy anti-Japanese protests in China, sparked by a recent territorial dispute. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/s/afp/20101018/wl_afp/japanchinadiplomacydispute)
+1. [AFP via Yahoo! News](https://news.yahoo.com/s/afp/20101018/wl_afp/japanchinadiplomacydispute)
 2. [Japan Today](http://www.japantoday.com/category/politics/view/kan-calls-for-calm-after-weekend-of-anti-japan-protests-in-china)
 
 ### Related:

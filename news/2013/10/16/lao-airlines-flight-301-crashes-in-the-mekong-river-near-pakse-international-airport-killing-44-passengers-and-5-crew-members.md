@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/16/lao-airlines-flight-301-crashes-in-the-mekong-river-near-pakse-international-airport-killing-44-passengers-and-5-crew-members.html)  [JSON](/news/2013/10/16/lao-airlines-flight-301-crashes-in-the-mekong-river-near-pakse-international-airport-killing-44-passengers-and-5-crew-members.json)  [XML](/news/2013/10/16/lao-airlines-flight-301-crashes-in-the-mekong-river-near-pakse-international-airport-killing-44-passengers-and-5-crew-members.xml)  
+
 ### [2013-10-16](/news/2013/10/16/index.md)
 
+##### Lao Airlines Flight 301
 # Lao Airlines Flight 301 crashes in the Mekong River near Pakse International Airport, killing 44 passengers and 5 crew members. 
 
 Dozens of people including foreign nationals are killed in Laos as a plane crashes into the Mekong River in bad weather.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-24554128)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/70521000/jpg/_70521045_70521044.jpg)

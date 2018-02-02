@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/20/osama-bin-laden-calls-on-the-people-of-pakistan-to-rise-up-in-a-holy-war-and-overthrow-president-pervez-musharraf.html)  [JSON](/news/2007/09/20/osama-bin-laden-calls-on-the-people-of-pakistan-to-rise-up-in-a-holy-war-and-overthrow-president-pervez-musharraf.json)  [XML](/news/2007/09/20/osama-bin-laden-calls-on-the-people-of-pakistan-to-rise-up-in-a-holy-war-and-overthrow-president-pervez-musharraf.xml)  
+
 ### [2007-09-20](/news/2007/09/20/index.md)
 
+##### Osama bin Laden
 #  Osama bin Laden calls on the people of Pakistan to rise up in a "holy war" and overthrow President Pervez Musharraf. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7005140.stm)
 

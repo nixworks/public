@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/01/5/milan-bandia-mayor-of-zagreb-tries-to-bribe-a-police-officer-after-causing-a-car-accident-while-driving-under-the-influence-of-alcohol-t.html)  [JSON](/news/2002/01/5/milan-bandia-mayor-of-zagreb-tries-to-bribe-a-police-officer-after-causing-a-car-accident-while-driving-under-the-influence-of-alcohol-t.json)  [XML](/news/2002/01/5/milan-bandia-mayor-of-zagreb-tries-to-bribe-a-police-officer-after-causing-a-car-accident-while-driving-under-the-influence-of-alcohol-t.xml)  
+
 ### [2002-01-5](/news/2002/01/5/index.md)
 
+##### Milan Bandic
 #  Milan Bandic, mayor of Zagreb tries to bribe a police officer after causing a car accident while driving under the influence of alcohol. This will lead to his resignation and a three-year-long hiatus in his mayor term
 
 

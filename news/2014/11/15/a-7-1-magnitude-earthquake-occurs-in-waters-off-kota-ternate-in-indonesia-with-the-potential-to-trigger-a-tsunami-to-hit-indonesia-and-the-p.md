@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/15/a-7-1-magnitude-earthquake-occurs-in-waters-off-kota-ternate-in-indonesia-with-the-potential-to-trigger-a-tsunami-to-hit-indonesia-and-the-p.html)  [JSON](/news/2014/11/15/a-7-1-magnitude-earthquake-occurs-in-waters-off-kota-ternate-in-indonesia-with-the-potential-to-trigger-a-tsunami-to-hit-indonesia-and-the-p.json)  [XML](/news/2014/11/15/a-7-1-magnitude-earthquake-occurs-in-waters-off-kota-ternate-in-indonesia-with-the-potential-to-trigger-a-tsunami-to-hit-indonesia-and-the-p.xml)  
+
 ### [2014-11-15](/news/2014/11/15/index.md)
 
+##### Kota Ternate
 # A 7.1 magnitude earthquake occurs in waters off Kota Ternate in Indonesia with the potential to trigger a tsunami to hit Indonesia and the Philippines. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_INDONESIA_EARTHQUAKE?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 2. [NOAA](http://ptwc.weather.gov/text.php?id=pacific.TSUPAC.2014.11.15.0435)

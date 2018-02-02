@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/22/in-angola-at-least-96-people-have-died-of-marburg-virus.html)  [JSON](/news/2005/03/22/in-angola-at-least-96-people-have-died-of-marburg-virus.json)  [XML](/news/2005/03/22/in-angola-at-least-96-people-have-died-of-marburg-virus.xml)  
+
 ### [2005-03-22](/news/2005/03/22/index.md)
 
+##### Angola
 #  In Angola, at least 96 people have died of Marburg virus. 
 
 (CIDRAP News) – An unidentified hemorrhagic fever appears to be targeting children younger than 5 in an outbreak in the African country of Angola. At least 39 people are believed to have died of the suspected hemorrhagic fever syndrome in the northern province of Uige between January and mid-March, the World Health Organization (WHO) announced on Mar 17.
 
 
-### Source:
+### Sources:
 
 1. [CIDRAP](http://www.cidrap.umn.edu/cidrap/content/bt/vhf/news/mar2205fever.html)
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1680038,00.html)

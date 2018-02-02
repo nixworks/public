@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/26/dr-sami-al-arian-was-terminated-from-his-teaching-position-at-the-university-of-south-florida-usf-president-judy-genshaft-indicated-that.html)  [JSON](/news/2003/02/26/dr-sami-al-arian-was-terminated-from-his-teaching-position-at-the-university-of-south-florida-usf-president-judy-genshaft-indicated-that.json)  [XML](/news/2003/02/26/dr-sami-al-arian-was-terminated-from-his-teaching-position-at-the-university-of-south-florida-usf-president-judy-genshaft-indicated-that.xml)  
+
 ### [2003-02-26](/news/2003/02/26/index.md)
 
+##### Sami Al-Arian
 #  Dr. Sami Al-Arian was terminated from his teaching position at the University of South Florida. USF President Judy Genshaft indicated that Dr. Al-Arian's non-academic activities created a conflict of interest with the University, and also cited items from Al-Arian's 50-count indictment. A representative from the American Association of University Professors indicated that the AAUP does not feel that due process was followed in Al-Arian's case, and that the organization will likely formally censure USF at its June meeting.
 
 

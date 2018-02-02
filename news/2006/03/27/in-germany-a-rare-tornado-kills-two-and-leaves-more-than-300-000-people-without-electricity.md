@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/27/in-germany-a-rare-tornado-kills-two-and-leaves-more-than-300-000-people-without-electricity.html)  [JSON](/news/2006/03/27/in-germany-a-rare-tornado-kills-two-and-leaves-more-than-300-000-people-without-electricity.json)  [XML](/news/2006/03/27/in-germany-a-rare-tornado-kills-two-and-leaves-more-than-300-000-people-without-electricity.xml)  
+
 ### [2006-03-27](/news/2006/03/27/index.md)
 
+##### tornado
 #  In Germany, a rare tornado kills two and leaves more than 300,000 people without electricity. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NDR Television Germany](http://www1.ndr.de/ndr_pages_std/0,2570,OID2439852,00.html)
 

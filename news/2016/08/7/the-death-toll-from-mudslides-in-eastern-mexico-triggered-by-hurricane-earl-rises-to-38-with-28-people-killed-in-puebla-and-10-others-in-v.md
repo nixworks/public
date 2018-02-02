@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/7/the-death-toll-from-mudslides-in-eastern-mexico-
 
 ### [2016-08-7](/news/2016/08/7/index.md)
 
+##### 2016 Atlantic hurricane season
 # The death toll from mudslides in Eastern Mexico triggered by Hurricane Earl rises to 38, with 28 people killed in Puebla, and 10 others in Veracruz. 
 
 Mudslides triggered by intense rainfall in eastern Mexico killed 40 people at the weekend as saturated hillsides collapsed onto modest homes in the wake of now-dissipated Tropical Storm Earl.

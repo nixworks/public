@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2005/11/5/pope-benedict-xvi-prepares-to-enact-new-rules-restricting-homosexual-men-from-entering-the-seminary-claiming-that-the-action-will-help-to.html)  [JSON](/news/2005/11/5/pope-benedict-xvi-prepares-to-enact-new-rules-restricting-homosexual-men-from-entering-the-seminary-claiming-that-the-action-will-help-to.json)  [XML](/news/2005/11/5/pope-benedict-xvi-prepares-to-enact-new-rules-restricting-homosexual-men-from-entering-the-seminary-claiming-that-the-action-will-help-to.xml)  
+
 ### [2005-11-5](/news/2005/11/5/index.md)
 
+##### Pope Benedict XVI
 #  Pope Benedict XVI prepares to enact new rules restricting homosexual men from entering the seminary, claiming that the action will help to curb the Roman Catholic Church sex abuse scandal. In response, Gene Robinson, the first openly gay U.S. ordained Episcopalian bishop, calls it "an act of violence that needs to be confronted." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/newsitems/200511/s1498743.htm)
 2. [Gazette-Times](http://www.gazettetimes.com/articles/2005/10/21/news/religion/satrel03.txt)
-3. [Yahoo](http://news.yahoo.com/s/afp/20051105/ts_alt_afp/britainusvaticanpope_051105211201)
+3. [Yahoo](https://news.yahoo.com/s/afp/20051105/ts_alt_afp/britainusvaticanpope_051105211201)
 
 ### Related:
 

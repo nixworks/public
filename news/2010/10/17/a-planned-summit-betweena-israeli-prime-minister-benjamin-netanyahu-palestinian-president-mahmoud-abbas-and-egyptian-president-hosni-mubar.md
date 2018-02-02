@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/17/a-planned-summit-betweena-israeli-prime-minister-benjamin-netanyahu-palestinian-president-mahmoud-abbas-and-egyptian-president-hosni-mubar.html)  [JSON](/news/2010/10/17/a-planned-summit-betweena-israeli-prime-minister-benjamin-netanyahu-palestinian-president-mahmoud-abbas-and-egyptian-president-hosni-mubar.json)  [XML](/news/2010/10/17/a-planned-summit-betweena-israeli-prime-minister-benjamin-netanyahu-palestinian-president-mahmoud-abbas-and-egyptian-president-hosni-mubar.xml)  
+
 ### [2010-10-17](/news/2010/10/17/index.md)
 
+##### Benjamin Netanyahu
 # A planned summit between Israeli Prime Minister Benjamin Netanyahu, Palestinian president Mahmoud Abbas, and Egyptian President Hosni Mubarak scheduled for October 21 in Paris is postponed amidst Palestinian ojections to a decision by Israel to construct 240 housing units in east Jerusalem
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5gAgSWT9aD8E48Fbr31en19rc-dlg?docId=CNG.8b21ca4f0fe5ded152fb7235fcbc6338.ee1)
 

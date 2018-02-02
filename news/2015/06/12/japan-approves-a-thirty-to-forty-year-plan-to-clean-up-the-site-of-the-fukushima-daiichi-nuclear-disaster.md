@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/12/japan-approves-a-thirty-to-forty-year-plan-to-clean-up-the-site-of-the-fukushima-daiichi-nuclear-disaster.html)  [JSON](/news/2015/06/12/japan-approves-a-thirty-to-forty-year-plan-to-clean-up-the-site-of-the-fukushima-daiichi-nuclear-disaster.json)  [XML](/news/2015/06/12/japan-approves-a-thirty-to-forty-year-plan-to-clean-up-the-site-of-the-fukushima-daiichi-nuclear-disaster.xml)  
+
 ### [2015-06-12](/news/2015/06/12/index.md)
 
+##### Japan
 # Japan approves a thirty-to-forty year plan to clean up the site of the Fukushima Daiichi nuclear disaster. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/56a565a2548748179f0daad10efa814d/japan-oks-40-year-fukushima-cleanup-plan-despite-unknowns)
 

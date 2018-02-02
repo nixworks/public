@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/14/supporters-of-23-year-old-bradley-manning-including-a-member-of-the-legal-advocacy-team-criticise-the-white-house-for-its-thuggish-behavi.html)  [JSON](/news/2011/02/14/supporters-of-23-year-old-bradley-manning-including-a-member-of-the-legal-advocacy-team-criticise-the-white-house-for-its-thuggish-behavi.json)  [XML](/news/2011/02/14/supporters-of-23-year-old-bradley-manning-including-a-member-of-the-legal-advocacy-team-criticise-the-white-house-for-its-thuggish-behavi.xml)  
+
 ### [2011-02-14](/news/2011/02/14/index.md)
 
+##### Bradley Manning
 # Supporters of 23-year-old Bradley Manning, including a member of the legal advocacy team, criticise the White House for its "thuggish behaviour" and "torture" in trying to break the soldier by pressuring him to implicate Julian Assange in the alleged theft of 250,000 documents the U.S. government wished to keep secret. 
 
 Supporters of the man charged with stealing 250,000 classified US documents published by WikiLeaks say the White House is trying to break the young soldier.
 
 
-### Source:
+### Sources:
 
 1. [ABC News and Current Affairs](http://www.abc.net.au/news/stories/2011/02/14/3137816.htm?section=world)
 1. [Cover Image](http://www.abc.net.au/news/image/894608-1x1-700x700.jpg)

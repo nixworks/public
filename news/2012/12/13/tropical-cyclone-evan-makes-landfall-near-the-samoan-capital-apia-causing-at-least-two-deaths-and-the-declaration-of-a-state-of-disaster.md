@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/13/tropical-cyclone-evan-makes-landfall-near-the-samoan-capital-apia-causing-at-least-two-deaths-and-the-declaration-of-a-state-of-disaster.html)  [JSON](/news/2012/12/13/tropical-cyclone-evan-makes-landfall-near-the-samoan-capital-apia-causing-at-least-two-deaths-and-the-declaration-of-a-state-of-disaster.json)  [XML](/news/2012/12/13/tropical-cyclone-evan-makes-landfall-near-the-samoan-capital-apia-causing-at-least-two-deaths-and-the-declaration-of-a-state-of-disaster.xml)  
+
 ### [2012-12-13](/news/2012/12/13/index.md)
 
+##### Tropical
 # Tropical Cyclone Evan makes landfall near the Samoan capital Apia causing at least two deaths and the declaration of a state of disaster. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC Australia via Yahoo!](http://au.news.yahoo.com/a/-/latest/15623964/sea-surge-as-tropical-cyclone-evan-hits-samoa/)
 2. [AFP via SBS](http://www.sbs.com.au/news/article/1720493/Three-die-as-Cyclone-Evan-devastates-Samoa)

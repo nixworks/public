@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/07/17/crowds-gather-outside-the-jail-in-orange-county-florida-for-the-release-of-casey-anthony-who-was-recently-cleared-of-murdering-her-daughter.html)  [JSON](/news/2011/07/17/crowds-gather-outside-the-jail-in-orange-county-florida-for-the-release-of-casey-anthony-who-was-recently-cleared-of-murdering-her-daughter.json)  [XML](/news/2011/07/17/crowds-gather-outside-the-jail-in-orange-county-florida-for-the-release-of-casey-anthony-who-was-recently-cleared-of-murdering-her-daughter.xml)  
+
 ### [2011-07-17](/news/2011/07/17/index.md)
 
+##### Orange County, Florida
 # Crowds gather outside the jail in Orange County, Florida for the release of Casey Anthony who was recently cleared of murdering her daughter Caylee. 
 
 Fox 5 NY, New York News, Breaking News, weather, sports, traffic, entertainment
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.myfoxny.com/dpp/news/protesters-and-media-gather-outside-florida-jail-ahead-of-casey-anthonys-release-20110716-ncx)
-2. [Reuters](http://www.reuters.com/article/2011/07/17/us-crime-anthony-idUSTRE76E4NJ20110717?feedType=RSS&feedName=topNews)
+2. [Reuters](https://www.reuters.com/article/2011/07/17/us-crime-anthony-idUSTRE76E4NJ20110717?feedType=RSS&feedName=topNews)
 2. [Cover Image](http://static.lakana.com/lakana-fox-global/theme/images/wnyw/placeholder-4x3.jpg)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/11/the-marie-stopes-organisation-is-to-open-the-first-private-clinic-to-offer-abortions-to-women-in-northern-ireland-from-18-october.html)  [JSON](/news/2012/10/11/the-marie-stopes-organisation-is-to-open-the-first-private-clinic-to-offer-abortions-to-women-in-northern-ireland-from-18-october.json)  [XML](/news/2012/10/11/the-marie-stopes-organisation-is-to-open-the-first-private-clinic-to-offer-abortions-to-women-in-northern-ireland-from-18-october.xml)  
+
 ### [2012-10-11](/news/2012/10/11/index.md)
 
+##### Marie Stopes
 # The Marie Stopes organisation is to open the first private clinic to offer abortions to women in Northern Ireland from 18 October. 
 
 The first private clinic to offer abortions to women in Northern Ireland is due to open next week, but pro-life campaigners say they will fight to have it shut down.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-19902778)
 2. [RTÉ](http://www.rte.ie/news/2012/1011/marie-stopes-abortion-belfast.html)

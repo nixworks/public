@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/7/a-gang-shoots-down-a-police-helicopter-near-apat
 
 ### [2016-09-7](/news/2016/09/7/index.md)
 
+##### Mexican Drug War
 # A gang shoots down a police helicopter near Apatzingan, Michoacan, killing four people. The police had been conducting an operation against criminal groups and drug cartels. 
 
 A gang brought down a helicopter during a police operation in Mexico&#39;s troubled western state of Michoacan on Tuesday, killing the pilot and three officers, the governor said.

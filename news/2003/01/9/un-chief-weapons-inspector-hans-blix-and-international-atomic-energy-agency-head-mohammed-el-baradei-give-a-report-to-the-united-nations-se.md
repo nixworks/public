@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/9/un-chief-weapons-inspector-hans-blix-and-international-atomic-energy-agency-head-mohammed-el-baradei-give-a-report-to-the-united-nations-se.html)  [JSON](/news/2003/01/9/un-chief-weapons-inspector-hans-blix-and-international-atomic-energy-agency-head-mohammed-el-baradei-give-a-report-to-the-united-nations-se.json)  [XML](/news/2003/01/9/un-chief-weapons-inspector-hans-blix-and-international-atomic-energy-agency-head-mohammed-el-baradei-give-a-report-to-the-united-nations-se.xml)  
+
 ### [2003-01-9](/news/2003/01/9/index.md)
 
+##### Hans Blix
 #  UN Chief Weapons Inspector Hans Blix and International Atomic Energy Agency head Mohammed El Baradei give a report to the United Nations Security Council. They say that progress on the search for weapons of mass destruction in Iraq is "inching forward" but that a more "pro-active" stance is required from the Iraqi government.
 
 

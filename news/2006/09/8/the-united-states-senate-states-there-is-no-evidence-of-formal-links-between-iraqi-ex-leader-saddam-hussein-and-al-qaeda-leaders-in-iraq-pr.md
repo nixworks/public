@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/8/the-united-states-senate-states-there-is-no-evidence-of-formal-links-between-iraqi-ex-leader-saddam-hussein-and-al-qaeda-leaders-in-iraq-pr.html)  [JSON](/news/2006/09/8/the-united-states-senate-states-there-is-no-evidence-of-formal-links-between-iraqi-ex-leader-saddam-hussein-and-al-qaeda-leaders-in-iraq-pr.json)  [XML](/news/2006/09/8/the-united-states-senate-states-there-is-no-evidence-of-formal-links-between-iraqi-ex-leader-saddam-hussein-and-al-qaeda-leaders-in-iraq-pr.xml)  
+
 ### [2006-09-8](/news/2006/09/8/index.md)
 
+##### United States Senate
 #  The United States Senate states there is no evidence of formal links between Iraqi ex-leader Saddam Hussein and al-Qaeda leaders in Iraq prior to the 2003 Iraq War. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/5328592.stm)
 

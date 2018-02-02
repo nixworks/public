@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/12/mayor-of-san-francisco-ed-lee-dies-of-an-appare
 
 ### [2017-12-12](/news/2017/12/12/index.md)
 
+##### Government of San Francisco
 # Mayor of San Francisco Ed Lee dies of an apparent heart attack. Supervisor London Breed becomes acting Mayor. 
 
 

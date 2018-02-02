@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/05/10/united-states-presidential-election-2008-illinois-senator-barack-obama-takes-the-lead-in-support-from-superdelegates-to-the-democratic-na.html)  [JSON](/news/2008/05/10/united-states-presidential-election-2008-illinois-senator-barack-obama-takes-the-lead-in-support-from-superdelegates-to-the-democratic-na.json)  [XML](/news/2008/05/10/united-states-presidential-election-2008-illinois-senator-barack-obama-takes-the-lead-in-support-from-superdelegates-to-the-democratic-na.xml)  
+
 ### [2008-05-10](/news/2008/05/10/index.md)
 
+##### 2008
 #  United States presidential election, 2008: Illinois Senator Barack Obama takes the lead in support from superdelegates to the Democratic National Convention 
 
 Hillary Rodham Clinton’s trump card began slipping from her grasp, and her speeches took a more conciliatory tone.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2008/05/10/us/politics/10clinton.html)
+1. [The New York Times](https://www.nytimes.com/2008/05/10/us/politics/10clinton.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

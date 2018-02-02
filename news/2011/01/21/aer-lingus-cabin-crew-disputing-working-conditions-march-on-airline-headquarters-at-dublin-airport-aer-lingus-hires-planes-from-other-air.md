@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/21/aer-lingus-cabin-crew-disputing-working-conditions-march-on-airline-headquarters-at-dublin-airport-aer-lingus-hires-planes-from-other-air.html)  [JSON](/news/2011/01/21/aer-lingus-cabin-crew-disputing-working-conditions-march-on-airline-headquarters-at-dublin-airport-aer-lingus-hires-planes-from-other-air.json)  [XML](/news/2011/01/21/aer-lingus-cabin-crew-disputing-working-conditions-march-on-airline-headquarters-at-dublin-airport-aer-lingus-hires-planes-from-other-air.xml)  
+
 ### [2011-01-21](/news/2011/01/21/index.md)
 
+##### Aer Lingus
 # Aer Lingus cabin crew, disputing working conditions, march on airline headquarters at Dublin Airport; Aer Lingus hires planes from other airlines and threatens to sack its workers. 
 
 Aer Lingus has said it expects to operate its full schedule over the weekend, despite the cabin crew dispute.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2011/0121/aerlingus.html)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2011/0121/breaking5.html)

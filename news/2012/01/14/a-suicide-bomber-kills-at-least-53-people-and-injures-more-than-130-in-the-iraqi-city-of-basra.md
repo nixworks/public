@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/14/a-suicide-bomber-kills-at-least-53-people-and-injures-more-than-130-in-the-iraqi-city-of-basra.html)  [JSON](/news/2012/01/14/a-suicide-bomber-kills-at-least-53-people-and-injures-more-than-130-in-the-iraqi-city-of-basra.json)  [XML](/news/2012/01/14/a-suicide-bomber-kills-at-least-53-people-and-injures-more-than-130-in-the-iraqi-city-of-basra.xml)  
+
 ### [2012-01-14](/news/2012/01/14/index.md)
 
+##### suicide bomber
 # A suicide bomber kills at least 53 people and injures more than 130 in the Iraqi city of Basra. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/01/14/world/meast/iraq-violence/index.html?hpt=hp_t3)
 

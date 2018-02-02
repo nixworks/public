@@ -1,16 +1,26 @@
+
+Formats: [HTML](/news/2010/04/11/president-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.html)  [JSON](/news/2010/04/11/president-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.json)  [XML](/news/2010/04/11/president-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.xml)  
+
 ### [2010-04-11](/news/2010/04/11/index.md)
 
+##### President
 # President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/04/201041118011606548.html)
 2. [Press TV](http://www.presstv.ir/detail.aspx?id=123046&sectionid=3510212)
 3. [Press TV](http://www.presstv.ir/detail.aspx?id=123050&sectionid=351020104)
 3. [Cover Image](http://www.aljazeera.com)
+
+### Changes:
+
+1. [Iran:President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/iran-ppresident-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md) _2017-08-25 03:27:36 (First version)_
+2. [Iran:: President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/iran-president-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md) _2017-08-27 03:27:33 (Update)_
+2. [President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/president-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md) _(Current version)_
 
 ### Related:
 
@@ -19,9 +29,3 @@
 3. [ In Iran, the hardline Mayor of Tehran, Mahmoud Ahmadinejad, wins Friday's run-off election for the nation's presidency with 62% of the vote. ](/news/2005/06/25/in-iran-the-hardline-mayor-of-tehran-mahmoud-ahmadinejad-wins-friday-s-run-off-election-for-the-nation-s-presidency-with-62-of-the-vote.md) _Context: Mahmoud Ahmadinejad, President, Tehran_
 4. [Former Iranian President Mahmoud Ahmadinejad faces sentences on seven verdicts of misusing billions of dollars in government funds while in office, the Supreme Audit Court public prosecutor said. If confirmed, Ahmadinejad will be barred from public office for seven years. ](/news/2017/07/30/former-iranian-president-mahmoud-ahmadinejad-faces-sentences-on-seven-verdicts-of-misusing-billions-of-dollars-in-government-funds-while-in.md) _Context: Mahmoud Ahmadinejad, President_
 5. [Former Iranian President Mahmoud Ahmadinejad registers to run in next month's election for a non-consecutive third term, according to state media. ](/news/2017/04/12/former-iranian-president-mahmoud-ahmadinejad-registers-to-run-in-next-month-s-election-for-a-non-consecutive-third-term-according-to-state.md) _Context: Mahmoud Ahmadinejad, President_
-
-### Changes:
-
-1. [Iran:President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/iran-ppresident-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md) _2017-08-25 03:27:36 (First version)_
-2. [Iran:: President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/iran-president-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md) _2017-08-27 03:27:33 (Update)_
-2. [President of Iran Mahmoud Ahmadinejad plans to relocate millions of Tehranians as the city is threatened by earthquakes. ](/news/2010/04/11/president-of-iran-mahmoud-ahmadinejad-plans-to-relocate-millions-of-tehranians-as-the-city-is-threatened-by-earthquakes.md) _(Current version)_

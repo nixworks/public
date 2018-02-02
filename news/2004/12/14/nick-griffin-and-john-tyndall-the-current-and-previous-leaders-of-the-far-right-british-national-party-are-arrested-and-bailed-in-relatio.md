@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/14/nick-griffin-and-john-tyndall-the-current-and-previous-leaders-of-the-far-right-british-national-party-are-arrested-and-bailed-in-relatio.html)  [JSON](/news/2004/12/14/nick-griffin-and-john-tyndall-the-current-and-previous-leaders-of-the-far-right-british-national-party-are-arrested-and-bailed-in-relatio.json)  [XML](/news/2004/12/14/nick-griffin-and-john-tyndall-the-current-and-previous-leaders-of-the-far-right-british-national-party-are-arrested-and-bailed-in-relatio.xml)  
+
 ### [2004-12-14](/news/2004/12/14/index.md)
 
+##### Nick Griffin
 #  Nick Griffin and John Tyndall, the current and previous leaders of the far-right British National Party, are arrested and bailed in relation to investigations by British police into suspicion of incitement to racial hatred. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/england/west_yorkshire/4094275.stm)
 
@@ -15,4 +19,4 @@
 2. [ In a change of policy, the British Broadcasting Corporation controversially gives a platform on "Question Time" to the far right British National Party (BNP) leader Nick Griffin. ](/news/2009/10/22/in-a-change-of-policy-the-british-broadcasting-corporation-controversially-gives-a-platform-on-question-time-to-the-far-right-british-na.md) _Context: British National Party, Nick Griffin_
 3. [ Nick Griffin, the leader of the British National Party, is pelted with eggs by protestors and forced to abandon a press conference. ](/news/2009/06/9/nick-griffin-the-leader-of-the-british-national-party-is-pelted-with-eggs-by-protestors-and-forced-to-abandon-a-press-conference.md) _Context: British National Party, Nick Griffin_
 4. [ Nick Griffin, the leader of the British National Party, and activist Mark Collett are cleared of inciting racial hatred after a retrial at Leeds Crown Court. ](/news/2006/11/10/nick-griffin-the-leader-of-the-british-national-party-and-activist-mark-collett-are-cleared-of-inciting-racial-hatred-after-a-retrial-at.md) _Context: British National Party, Nick Griffin_
-5. [A man suspected of a shooting at the New River Community College in Christiansburg, Virginia, United States, is charged with multiple counts of malicious wounding and use of a firearm during the commission of a felony, and held without bail. ](/news/2013/04/13/a-man-suspected-of-a-shooting-at-the-new-river-community-college-in-christiansburg-virginia-united-states-is-charged-with-multiple-counts.md) _Context: bail_
+5. [The U.S. state of Alaska eliminates the posting of bail in criminal cases, replacing it with a points-based system, rating the defendant on their previous criminal history, their danger to the public, and their probability of showing up to court hearings. ](/news/2018/01/1/the-u-s-state-of-alaska-eliminates-the-posting-of-bail-in-criminal-cases-replacing-it-with-a-points-based-system-rating-the-defendant-on.md) _Context: bail_

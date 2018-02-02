@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/05/17/sri-lankan-troops-capture-the-town-of-palampiddi-junction-from-the-liberation-tigers-of-tamil-eelam-killing-at-least-34-rebel-troops.html)  [JSON](/news/2008/05/17/sri-lankan-troops-capture-the-town-of-palampiddi-junction-from-the-liberation-tigers-of-tamil-eelam-killing-at-least-34-rebel-troops.json)  [XML](/news/2008/05/17/sri-lankan-troops-capture-the-town-of-palampiddi-junction-from-the-liberation-tigers-of-tamil-eelam-killing-at-least-34-rebel-troops.xml)  
+
 ### [2008-05-17](/news/2008/05/17/index.md)
 
+##### Sri Lanka
 #  Sri Lankan troops capture the town of Palampiddi Junction from the Liberation Tigers of Tamil Eelam killing at least 34 rebel troops. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601080&sid=aBDNdD32BH_g&refer=asia)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601080&sid=aBDNdD32BH_g&refer=asia)
 
 ### Related:
 

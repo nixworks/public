@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/30/a-court-in-thailand-jails-79-pro-government-yellow-shirt-protesters-for-storming-a-state-television-station-two-years-ago.html)  [JSON](/news/2010/12/30/a-court-in-thailand-jails-79-pro-government-yellow-shirt-protesters-for-storming-a-state-television-station-two-years-ago.json)  [XML](/news/2010/12/30/a-court-in-thailand-jails-79-pro-government-yellow-shirt-protesters-for-storming-a-state-television-station-two-years-ago.xml)  
+
 ### [2010-12-30](/news/2010/12/30/index.md)
 
+##### Thailand
 # A court in Thailand jails 79 pro-government "yellow shirt" protesters for storming a state television station two years ago. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/breakingnews/213814/yellow-shirts-get-jail-terms-for-nbt-raid)
 2. [CTV](http://www.ctv.ca/CTVNews/World/20101230/thai-court-convicts-yellow-shirt-protesters-101230/)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/26/the-anaheim-angels-force-a-decisive-seventh-game-with-the-san-francisco-giants-in-the-2002-world-series-with-a-dramatic-late-inning-rally-f.html)  [JSON](/news/2002/10/26/the-anaheim-angels-force-a-decisive-seventh-game-with-the-san-francisco-giants-in-the-2002-world-series-with-a-dramatic-late-inning-rally-f.json)  [XML](/news/2002/10/26/the-anaheim-angels-force-a-decisive-seventh-game-with-the-san-francisco-giants-in-the-2002-world-series-with-a-dramatic-late-inning-rally-f.xml)  
+
 ### [2002-10-26](/news/2002/10/26/index.md)
 
+##### Anaheim Angels
 #  The Anaheim Angels force a decisive seventh game with the San Francisco Giants in the 2002 World Series with a dramatic late-inning rally from 5-0 to win 6-5.
 
 

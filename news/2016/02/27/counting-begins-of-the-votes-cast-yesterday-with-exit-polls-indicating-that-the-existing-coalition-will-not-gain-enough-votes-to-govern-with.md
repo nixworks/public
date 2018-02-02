@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/27/counting-begins-of-the-votes-cast-yesterday-wit
 
 ### [2016-02-27](/news/2016/02/27/index.md)
 
+##### Irish general election, 2016
 # Counting begins of the votes cast yesterday with exit polls indicating that the existing coalition will not gain enough votes to govern without reaching a deal with other parties. 
 
 

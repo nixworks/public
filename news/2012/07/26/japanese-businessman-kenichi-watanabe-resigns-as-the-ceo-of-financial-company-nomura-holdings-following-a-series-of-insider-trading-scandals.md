@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/07/26/japanese-businessman-kenichi-watanabe-resigns-as-the-ceo-of-financial-company-nomura-holdings-following-a-series-of-insider-trading-scandals.html)  [JSON](/news/2012/07/26/japanese-businessman-kenichi-watanabe-resigns-as-the-ceo-of-financial-company-nomura-holdings-following-a-series-of-insider-trading-scandals.json)  [XML](/news/2012/07/26/japanese-businessman-kenichi-watanabe-resigns-as-the-ceo-of-financial-company-nomura-holdings-following-a-series-of-insider-trading-scandals.xml)  
+
 ### [2012-07-26](/news/2012/07/26/index.md)
 
+##### Japanese
 # Japanese businessman Kenichi Watanabe resigns as the CEO of financial company Nomura Holdings following a series of insider trading scandals. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/07/26/us-nomura-ceo-idUSBRE86P03S20120726)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120726&t=2&i=634544885&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86P0U9R00)
+1. [Reuters](https://www.reuters.com/article/2012/07/26/us-nomura-ceo-idUSBRE86P03S20120726)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120726&t=2&i=634544885&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE86P0U9R00)
 
 ### Related:
 

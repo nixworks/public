@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/7/peter-jennings-long-time-anchor-of-abc-world-news-tonight-has-died-from-lung-cancer-at-the-age-of-67.html)  [JSON](/news/2005/08/7/peter-jennings-long-time-anchor-of-abc-world-news-tonight-has-died-from-lung-cancer-at-the-age-of-67.json)  [XML](/news/2005/08/7/peter-jennings-long-time-anchor-of-abc-world-news-tonight-has-died-from-lung-cancer-at-the-age-of-67.xml)  
+
 ### [2005-08-7](/news/2005/08/7/index.md)
 
+##### Peter Jennings
 #  Peter Jennings, long-time anchor of "ABC World News Tonight", has died from lung cancer at the age of 67. 
 
 ABC News Anchor Peter Jennings died today at his home in New York City. He was 67. On April 5, Jennings announced he had been diagnosed with lung cancer. He is survived by his wife, Kayce Freed, his two children, Elizabeth, 25, and Christopher, 23, and his sister, Sarah Jennings. &quot;Peter died with...
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/story?id=1015438)
 

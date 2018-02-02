@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/4/the-african-union-suspends-mauritania-from-the-group-after-the-recent-coup.html)  [JSON](/news/2005/08/4/the-african-union-suspends-mauritania-from-the-group-after-the-recent-coup.json)  [XML](/news/2005/08/4/the-african-union-suspends-mauritania-from-the-group-after-the-recent-coup.xml)  
+
 ### [2005-08-4](/news/2005/08/4/index.md)
 
+##### African Union
 #  The African Union suspends Mauritania from the group after the recent coup. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L04702265.htm)
 

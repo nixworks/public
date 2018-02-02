@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/11/liberation-tigers-of-tamil-eelam-rebels-overrun-the-irukkulampiddi-sri-lankan-navy-outpost-killing-at-least-10-sailors.html)  [JSON](/news/2008/06/11/liberation-tigers-of-tamil-eelam-rebels-overrun-the-irukkulampiddi-sri-lankan-navy-outpost-killing-at-least-10-sailors.json)  [XML](/news/2008/06/11/liberation-tigers-of-tamil-eelam-rebels-overrun-the-irukkulampiddi-sri-lankan-navy-outpost-killing-at-least-10-sailors.xml)  
+
 ### [2008-06-11](/news/2008/06/11/index.md)
 
+##### LTTE
 #  Liberation Tigers of Tamil Eelam rebels overrun the Irukkulampiddi Sri Lankan Navy outpost killing at least 10 sailors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5gH1GyuGeJWdOxrWqlZIktZEj7oSg)
 

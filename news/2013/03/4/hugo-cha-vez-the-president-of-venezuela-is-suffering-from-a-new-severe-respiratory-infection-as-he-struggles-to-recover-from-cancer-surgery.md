@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/03/4/hugo-cha-vez-the-president-of-venezuela-is-suffering-from-a-new-severe-respiratory-infection-as-he-struggles-to-recover-from-cancer-surgery.html)  [JSON](/news/2013/03/4/hugo-cha-vez-the-president-of-venezuela-is-suffering-from-a-new-severe-respiratory-infection-as-he-struggles-to-recover-from-cancer-surgery.json)  [XML](/news/2013/03/4/hugo-cha-vez-the-president-of-venezuela-is-suffering-from-a-new-severe-respiratory-infection-as-he-struggles-to-recover-from-cancer-surgery.xml)  
+
 ### [2013-03-4](/news/2013/03/4/index.md)
 
+##### Hugo Chavez
 # Hugo Chavez, the President of Venezuela is suffering from a new severe respiratory infection as he struggles to recover from cancer surgery conducted in Cuba. 
 
 Venezuelan President Hugo Chavez died on Tuesday after a two-year battle with cancer, ending 14 years of tumultuous rule that made the socialist leader a hero for the poor but a hate figure to his opponents.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/03/05/us-venezuela-chavez-idUSBRE92405420130305)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130305&t=2&i=709939287&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9241PUS00)
+1. [Reuters](https://www.reuters.com/article/2013/03/05/us-venezuela-chavez-idUSBRE92405420130305)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130305&t=2&i=709939287&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE9241PUS00)
 
 ### Related:
 

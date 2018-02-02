@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/2/mel-gibson-is-charged-with-misdemeanor-drunken-driving-and-related-offences.html)  [JSON](/news/2006/08/2/mel-gibson-is-charged-with-misdemeanor-drunken-driving-and-related-offences.json)  [XML](/news/2006/08/2/mel-gibson-is-charged-with-misdemeanor-drunken-driving-and-related-offences.xml)  
+
 ### [2006-08-2](/news/2006/08/2/index.md)
 
+##### Mel Gibson
 #  Mel Gibson is charged with misdemeanor drunken driving and related offences. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/LAW/08/02/gibson.ap.ap/index.html?section=cnn_latest)
 

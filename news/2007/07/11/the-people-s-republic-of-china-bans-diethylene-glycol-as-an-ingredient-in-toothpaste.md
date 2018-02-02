@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/11/the-people-s-republic-of-china-bans-diethylene-glycol-as-an-ingredient-in-toothpaste.html)  [JSON](/news/2007/07/11/the-people-s-republic-of-china-bans-diethylene-glycol-as-an-ingredient-in-toothpaste.json)  [XML](/news/2007/07/11/the-people-s-republic-of-china-bans-diethylene-glycol-as-an-ingredient-in-toothpaste.xml)  
+
 ### [2007-07-11](/news/2007/07/11/index.md)
 
+##### China
 #  The People's Republic of China bans diethylene glycol as an ingredient in toothpaste. 
 
 China has banned the use in toothpaste of a chemical linked to the recall of Chinese made products across the globe as it tries to reassure consumers its good are safe.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/healthNews/idUKPEK9287220070712)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

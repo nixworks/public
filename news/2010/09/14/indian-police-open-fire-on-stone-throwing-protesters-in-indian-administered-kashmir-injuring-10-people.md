@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/indian-police-open-fire-on-stone-throwing-protesters-in-indian-administered-kashmir-injuring-10-people.html)  [JSON](/news/2010/09/14/indian-police-open-fire-on-stone-throwing-protesters-in-indian-administered-kashmir-injuring-10-people.json)  [XML](/news/2010/09/14/indian-police-open-fire-on-stone-throwing-protesters-in-indian-administered-kashmir-injuring-10-people.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Indian-administered Kashmir
 # Indian police open fire on stone-throwing protesters in Indian-administered Kashmir, injuring 10 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h5AsF9dF9Pvg6PpdctOx8HdPab7g)
 

@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2013/09/16/the-singaporean-container-ship-sima-sapphire-collides-and-sinks-a-vietnamese-fishing-vessel-about-50-nautical-miles-to-the-south-of-va-c-ng.html)  [JSON](/news/2013/09/16/the-singaporean-container-ship-sima-sapphire-collides-and-sinks-a-vietnamese-fishing-vessel-about-50-nautical-miles-to-the-south-of-va-c-ng.json)  [XML](/news/2013/09/16/the-singaporean-container-ship-sima-sapphire-collides-and-sinks-a-vietnamese-fishing-vessel-about-50-nautical-miles-to-the-south-of-va-c-ng.xml)  
+
 ### [2013-09-16](/news/2013/09/16/index.md)
 
+##### Singapore
 # The Singaporean container ship "Sima Sapphire" collides and sinks a Vietnamese fishing vessel about 50 nautical miles to the south of Vung Tau, leaving one dead. 
 
 Vietnamese port authorities confirmed that early Monday morning a cargo ship transiting to Malaysia collided with a fishing vessel with 16 fishermen
 
 
-### Source:
+### Sources:
 
 1. [The Maritime Executive](http://www.maritime-executive.com/article/Ship-Collision-Leaves-1-Dead-7-Missing-Off-Vietnam-2013-09-16/)
 1. [Cover Image](http://maritime-executive.com/media/images/article/archive/sima-sapphire-singapore.jpg)
+
+### Changes:
+
+1. [The Singaporean container ship ''Sima Sapphire'' collides and sinks a Vietnamese fishing vessel about 50 nautical miles to the south of Vung Tau, leaving one dead. ](/news/2013/09/16/the-singaporean-container-ship-sima-sapphire-collides-and-sinks-a-vietnamese-fishing-vessel-about-50-nautical-miles-to-the-south-of-va-c-n.md) _2017-08-25 03:39:17 (First version)_
+1. [The Singaporean container ship "Sima Sapphire" collides and sinks a Vietnamese fishing vessel about 50 nautical miles to the south of Vung Tau, leaving one dead. ](/news/2013/09/16/the-singaporean-container-ship-sima-sapphire-collides-and-sinks-a-vietnamese-fishing-vessel-about-50-nautical-miles-to-the-south-of-va-c-ng.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Vietnamese port authorities confirmed that early Monday morning a cargo ship tra
 3. [Singapore, Vietnam, Indonesia and Hong Kong ban poultry imports from the Australian state of Victoria while Japan bans imports from the whole of Australia following an outbreak of a low pathogenic form of the avian influenza (separate from the potentially deadly H5N1 strain).](/news/2012/02/1/singapore-vietnam-indonesia-and-hong-kong-ban-poultry-imports-from-the-australian-state-of-victoria-while-japan-bans-imports-from-the-whol.md) _Context: Singapore, Vietnam_
 4. [ The World Health Organization announces that SARS has peaked in all affected countries except the People's Republic of China. These countries include Canada, Singapore, and Vietnam, as well as Hong Kong. [http:--www.globeandmail.com-servlet-story-RTGAM.20030428.wsars0428-BNStory-International ]date=September 2015 ](/news/2003/04/28/the-world-health-organization-announces-that-sars-has-peaked-in-all-affected-countries-except-the-people-s-republic-of-china-these-countri.md) _Context: Singapore, Vietnam_
 5. [ SARS: The World Health Organization recommended that passengers flying from places where SARS outbreaks have occurred should be screened before being allowed on flights. These places included China, Hong Kong, Singapore, Vietnam, and the city of Toronto.](/news/2003/03/27/sars-the-world-health-organization-recommended-that-passengers-flying-from-places-where-sars-outbreaks-have-occurred-should-be-screened-be.md) _Context: Singapore, Vietnam_
-
-### Changes:
-
-1. [The Singaporean container ship ''Sima Sapphire'' collides and sinks a Vietnamese fishing vessel about 50 nautical miles to the south of Vung Tau, leaving one dead. ](/news/2013/09/16/the-singaporean-container-ship-sima-sapphire-collides-and-sinks-a-vietnamese-fishing-vessel-about-50-nautical-miles-to-the-south-of-va-c-n.md) _2017-08-25 03:39:17 (First version)_
-1. [The Singaporean container ship "Sima Sapphire" collides and sinks a Vietnamese fishing vessel about 50 nautical miles to the south of Vung Tau, leaving one dead. ](/news/2013/09/16/the-singaporean-container-ship-sima-sapphire-collides-and-sinks-a-vietnamese-fishing-vessel-about-50-nautical-miles-to-the-south-of-va-c-ng.md) _(Current version)_

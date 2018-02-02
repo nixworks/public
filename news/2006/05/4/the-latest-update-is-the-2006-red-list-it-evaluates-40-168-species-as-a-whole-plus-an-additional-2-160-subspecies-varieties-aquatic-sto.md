@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/05/4/the-latest-update-is-the-2006-red-list-it-evaluates-40-168-species-as-a-whole-plus-an-additional-2-160-subspecies-varieties-aquatic-sto.html)  [JSON](/news/2006/05/4/the-latest-update-is-the-2006-red-list-it-evaluates-40-168-species-as-a-whole-plus-an-additional-2-160-subspecies-varieties-aquatic-sto.json)  [XML](/news/2006/05/4/the-latest-update-is-the-2006-red-list-it-evaluates-40-168-species-as-a-whole-plus-an-additional-2-160-subspecies-varieties-aquatic-sto.xml)  
+
 ### [2006-05-4](/news/2006/05/4/index.md)
 
+##### 2006
 #  The latest update is the 2006 Red List. It evaluates 40,168 species as a whole, plus an additional 2,160 subspecies, varieties, aquatic stocks, and subpopulations.
 
 

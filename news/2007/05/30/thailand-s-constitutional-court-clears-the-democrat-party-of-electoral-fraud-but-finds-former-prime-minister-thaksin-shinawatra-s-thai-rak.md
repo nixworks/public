@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/30/thailand-s-constitutional-court-clears-the-democrat-party-of-electoral-fraud-but-finds-former-prime-minister-thaksin-shinawatra-s-thai-rak.html)  [JSON](/news/2007/05/30/thailand-s-constitutional-court-clears-the-democrat-party-of-electoral-fraud-but-finds-former-prime-minister-thaksin-shinawatra-s-thai-rak.json)  [XML](/news/2007/05/30/thailand-s-constitutional-court-clears-the-democrat-party-of-electoral-fraud-but-finds-former-prime-minister-thaksin-shinawatra-s-thai-rak.xml)  
+
 ### [2007-05-30](/news/2007/05/30/index.md)
 
+##### Thailand
 #  Thailand's Constitutional Court clears the Democrat Party of electoral fraud, but finds former Prime Minister Thaksin Shinawatra's Thai Rak Thai party guilty of bribery and rules it must be disbanded. 
 
 Thai judges ordered the party of ousted Prime Minister Thaksin Shinawatra disbanded on Wednesday after it was found guilty of breaking election laws.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6704083.stm)
 2. [Reuters](http://uk.reuters.com/article/worldNews/idUKBKK23310420070530)

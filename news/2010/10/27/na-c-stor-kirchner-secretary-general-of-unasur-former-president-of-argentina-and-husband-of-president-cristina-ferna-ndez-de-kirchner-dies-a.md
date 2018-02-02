@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/27/na-c-stor-kirchner-secretary-general-of-unasur-former-president-of-argentina-and-husband-of-president-cristina-ferna-ndez-de-kirchner-dies-a.html)  [JSON](/news/2010/10/27/na-c-stor-kirchner-secretary-general-of-unasur-former-president-of-argentina-and-husband-of-president-cristina-ferna-ndez-de-kirchner-dies-a.json)  [XML](/news/2010/10/27/na-c-stor-kirchner-secretary-general-of-unasur-former-president-of-argentina-and-husband-of-president-cristina-ferna-ndez-de-kirchner-dies-a.xml)  
+
 ### [2010-10-27](/news/2010/10/27/index.md)
 
+##### Nestor Kirchner
 # Nestor Kirchner, Secretary General of UNASUR, former President of Argentina and husband of President Cristina Fernandez de Kirchner dies at his home in El Calafate, Santa Cruz Province, with three days of mourning declared. 
 
 Three days of mourning have been declared in Argentina after former president Nestor Kirchner died of a heart attack.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2010/10/28/3050557.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/2314078-1x1-700x700.jpg)

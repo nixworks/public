@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2007/08/27/taliban-rebels-release-5-more-south-koreans-they-are-keeping-hostage-since-july.html)  [JSON](/news/2007/08/27/taliban-rebels-release-5-more-south-koreans-they-are-keeping-hostage-since-july.json)  [XML](/news/2007/08/27/taliban-rebels-release-5-more-south-koreans-they-are-keeping-hostage-since-july.xml)  
+
 ### [2007-08-27](/news/2007/08/27/index.md)
 
+##### Taliban
 #  Taliban rebels release 5 more South Koreans they are keeping hostage since July. 
 
 

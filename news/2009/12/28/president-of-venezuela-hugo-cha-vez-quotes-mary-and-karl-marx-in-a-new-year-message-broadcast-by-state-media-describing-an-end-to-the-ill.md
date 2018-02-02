@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/12/28/president-of-venezuela-hugo-cha-vez-quotes-mary-and-karl-marx-in-a-new-year-message-broadcast-by-state-media-describing-an-end-to-the-ill.html)  [JSON](/news/2009/12/28/president-of-venezuela-hugo-cha-vez-quotes-mary-and-karl-marx-in-a-new-year-message-broadcast-by-state-media-describing-an-end-to-the-ill.json)  [XML](/news/2009/12/28/president-of-venezuela-hugo-cha-vez-quotes-mary-and-karl-marx-in-a-new-year-message-broadcast-by-state-media-describing-an-end-to-the-ill.xml)  
+
 ### [2009-12-28](/news/2009/12/28/index.md)
 
+##### Venezuelan President
 #  President of Venezuela Hugo Chavez quotes Mary and Karl Marx in a New Year message broadcast by state media, describing an end to the "illusion" of Barack Obama and predicting a global ecological disaster. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE5BR2CD20091228)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20091228&t=2&i=37767342&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-12-28T173321Z_01_BTRE5BR1CSJ00_RTROPTP_0_VENEZUELA)
+1. [Reuters](https://www.reuters.com/article/idUSTRE5BR2CD20091228)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20091228&t=2&i=37767342&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-12-28T173321Z_01_BTRE5BR1CSJ00_RTROPTP_0_VENEZUELA)
 
 ### Related:
 

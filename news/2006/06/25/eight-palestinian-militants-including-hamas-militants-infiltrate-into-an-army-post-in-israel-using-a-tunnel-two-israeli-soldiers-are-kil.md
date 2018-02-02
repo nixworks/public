@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/06/25/eight-palestinian-militants-including-hamas-militants-infiltrate-into-an-army-post-in-israel-using-a-tunnel-two-israeli-soldiers-are-kil.html)  [JSON](/news/2006/06/25/eight-palestinian-militants-including-hamas-militants-infiltrate-into-an-army-post-in-israel-using-a-tunnel-two-israeli-soldiers-are-kil.json)  [XML](/news/2006/06/25/eight-palestinian-militants-including-hamas-militants-infiltrate-into-an-army-post-in-israel-using-a-tunnel-two-israeli-soldiers-are-kil.xml)  
+
 ### [2006-06-25](/news/2006/06/25/index.md)
 
+##### Palestinian
 #  Eight Palestinian militants, including Hamas militants, infiltrate into an army post in Israel using a tunnel. Two Israeli soldiers are killed, one kidnapped and three wounded in the attack, in which at least two Palestinian militants die. Israeli PM vows a fierce military response to the attack once the soldier, Gilad Shalit, is returned. Two infantry brigades and supporting armoured regiments are deployed along the Gaza Strip border, in preparation for a major offensive.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5119402.stm)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/730994.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/2/at-least-40-people-are-killed-during-a-forest-fire-near-haifa-in-israel.html)  [JSON](/news/2010/12/2/at-least-40-people-are-killed-during-a-forest-fire-near-haifa-in-israel.json)  [XML](/news/2010/12/2/at-least-40-people-are-killed-during-a-forest-fire-near-haifa-in-israel.xml)  
+
 ### [2010-12-2](/news/2010/12/2/index.md)
 
+##### Haifa
 # At least 40 people are killed during a forest fire near Haifa in Israel. 
 
 About 40 people - mostly prison guards - are killed in a massive forest fire out of control near Haifa in northern Israel, police say.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/2010122151727717538.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-11901750)

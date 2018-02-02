@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/9/recently-resigned-zambian-defence-minister-george-mpombo-a-critic-of-president-rupiah-banda-is-imprisoned-for-60-days-due-to-a-bounced-che.html)  [JSON](/news/2010/08/9/recently-resigned-zambian-defence-minister-george-mpombo-a-critic-of-president-rupiah-banda-is-imprisoned-for-60-days-due-to-a-bounced-che.json)  [XML](/news/2010/08/9/recently-resigned-zambian-defence-minister-george-mpombo-a-critic-of-president-rupiah-banda-is-imprisoned-for-60-days-due-to-a-bounced-che.xml)  
+
 ### [2010-08-9](/news/2010/08/9/index.md)
 
+##### Zambia
 # Recently resigned Zambian Defence Minister George Mpombo, a critic of President Rupiah Banda, is imprisoned for 60 days due to a bounced cheque. 
 
 Jailed Zambian MP George Mpombo complains that prisoners in the country get no breakfast.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10918290)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

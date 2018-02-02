@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/10/gale-norton-has-announced-her-resignation-as-united-states-secretary-of-the-interior-effective-march-31-2006.html)  [JSON](/news/2006/03/10/gale-norton-has-announced-her-resignation-as-united-states-secretary-of-the-interior-effective-march-31-2006.json)  [XML](/news/2006/03/10/gale-norton-has-announced-her-resignation-as-united-states-secretary-of-the-interior-effective-march-31-2006.xml)  
+
 ### [2006-03-10](/news/2006/03/10/index.md)
 
+##### Gale Norton
 #  Gale Norton has announced her resignation as United States Secretary of the Interior, effective March 31, 2006. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2006/POLITICS/03/10/norton/index.html?section=cnn_latest)
 

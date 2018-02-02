@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/14/at-least-seven-afghan-border-guards-are-detained-by-iran-after-crossing-their-mutual-border.html)  [JSON](/news/2010/10/14/at-least-seven-afghan-border-guards-are-detained-by-iran-after-crossing-their-mutual-border.json)  [XML](/news/2010/10/14/at-least-seven-afghan-border-guards-are-detained-by-iran-after-crossing-their-mutual-border.xml)  
+
 ### [2010-10-14](/news/2010/10/14/index.md)
 
+##### Afghanistan
 # At least seven Afghan border guards are detained by Iran after crossing their mutual border. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fars News Agency](http://english.farsnews.com/newstext.php?nn=8907220601)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/15/c_13557956.htm)

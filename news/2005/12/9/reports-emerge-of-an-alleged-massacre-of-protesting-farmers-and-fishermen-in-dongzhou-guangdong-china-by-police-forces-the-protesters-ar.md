@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/9/reports-emerge-of-an-alleged-massacre-of-protesting-farmers-and-fishermen-in-dongzhou-guangdong-china-by-police-forces-the-protesters-ar.html)  [JSON](/news/2005/12/9/reports-emerge-of-an-alleged-massacre-of-protesting-farmers-and-fishermen-in-dongzhou-guangdong-china-by-police-forces-the-protesters-ar.json)  [XML](/news/2005/12/9/reports-emerge-of-an-alleged-massacre-of-protesting-farmers-and-fishermen-in-dongzhou-guangdong-china-by-police-forces-the-protesters-ar.xml)  
+
 ### [2005-12-9](/news/2005/12/9/index.md)
 
+##### massacres
 #  Reports emerge of an alleged massacre of protesting farmers and fishermen in Dongzhou, Guangdong, China by police forces. The protesters are believed to be upset with government plans to build a new power plant in the area and infill part of the bay. The death toll, pegged at 20, is the worst act of violence by Chinese security forces since the Tiananmen Square protests of 1989. The town is reportedly still sealed off by government forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4517706.stm)
 2. [IHT](http://www.iht.com/articles/2005/12/09/news/china.php)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/12/according-to-a-poll-published-in-the-israeli-daily-maariv-half-of-israelis-distrust-their-prime-minister-ariel-sharon-http-www-reuters.html)  [JSON](/news/2003/12/12/according-to-a-poll-published-in-the-israeli-daily-maariv-half-of-israelis-distrust-their-prime-minister-ariel-sharon-http-www-reuters.json)  [XML](/news/2003/12/12/according-to-a-poll-published-in-the-israeli-daily-maariv-half-of-israelis-distrust-their-prime-minister-ariel-sharon-http-www-reuters.xml)  
+
 ### [2003-12-12](/news/2003/12/12/index.md)
 
+##### Israel
 # According to a poll published in the Israeli daily Maariv, half of Israelis distrust their Prime Minister Ariel Sharon. [http:--www.reuters.co.uk-newsPackageArticle.jhtml?type=worldNews&storyID=421224&section=news]
 
 

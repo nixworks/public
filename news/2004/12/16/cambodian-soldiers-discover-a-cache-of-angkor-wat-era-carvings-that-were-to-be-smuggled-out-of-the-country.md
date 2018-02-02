@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/16/cambodian-soldiers-discover-a-cache-of-angkor-wat-era-carvings-that-were-to-be-smuggled-out-of-the-country.html)  [JSON](/news/2004/12/16/cambodian-soldiers-discover-a-cache-of-angkor-wat-era-carvings-that-were-to-be-smuggled-out-of-the-country.json)  [XML](/news/2004/12/16/cambodian-soldiers-discover-a-cache-of-angkor-wat-era-carvings-that-were-to-be-smuggled-out-of-the-country.xml)  
+
 ### [2004-12-16](/news/2004/12/16/index.md)
 
+##### Cambodia
 #  Cambodian soldiers discover a cache of Angkor Wat-era carvings that were to be smuggled out of the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.co.uk/newsArticle.jhtml?type=worldNews&storyID=639468)
 

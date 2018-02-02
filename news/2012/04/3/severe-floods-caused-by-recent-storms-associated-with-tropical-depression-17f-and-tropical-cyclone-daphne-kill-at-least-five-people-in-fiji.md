@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/3/severe-floods-caused-by-recent-storms-associated-with-tropical-depression-17f-and-tropical-cyclone-daphne-kill-at-least-five-people-in-fiji.html)  [JSON](/news/2012/04/3/severe-floods-caused-by-recent-storms-associated-with-tropical-depression-17f-and-tropical-cyclone-daphne-kill-at-least-five-people-in-fiji.json)  [XML](/news/2012/04/3/severe-floods-caused-by-recent-storms-associated-with-tropical-depression-17f-and-tropical-cyclone-daphne-kill-at-least-five-people-in-fiji.xml)  
+
 ### [2012-04-3](/news/2012/04/3/index.md)
 
+##### Tropical Depression 17F and Tropical Cyclone Daphne
 # Severe floods caused by recent storms associated with Tropical Depression 17F and Tropical Cyclone Daphne kill at least five people in Fiji and leave 8,000 people in evacuation centres. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2012/04/02/world/asia/fiji-floods/index.html?eref=edition)
 

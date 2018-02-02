@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/15/one-person-is-brain-dead-and-five-people-are-cr
 
 ### [2016-01-15](/news/2016/01/15/index.md)
 
+##### BIA 10-2474
 # One person is brain dead and five people are critically ill in Rennes, France, from a clinical trial of an experimental drug made by Portuguese drug company Bial. The six men, aged 28 to 49, had been in good health prior to the start of this test. All trials on the drug are suspended. 
 
 Ninety people took some dosage of experimental drug being tested for Portuguese pharmaceutical company Bial

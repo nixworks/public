@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/11/hurricane-igor-reaches-category-1-in-the-atlantic-ocean.html)  [JSON](/news/2010/09/11/hurricane-igor-reaches-category-1-in-the-atlantic-ocean.json)  [XML](/news/2010/09/11/hurricane-igor-reaches-category-1-in-the-atlantic-ocean.xml)  
+
 ### [2010-09-11](/news/2010/09/11/index.md)
 
+##### 2010 Atlantic hurricane season
 # Hurricane Igor reaches Category 1 in the Atlantic Ocean. 
 
 Big-shouldered Hurricane Igor kept getting stronger Sunday night, pumping out sustained winds of 150 mph far out in the Atlantic, U.S. storm watchers said.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/US/2010/09/12/Igor-attains-hurricane-status/UPI-98921284271128/)
 

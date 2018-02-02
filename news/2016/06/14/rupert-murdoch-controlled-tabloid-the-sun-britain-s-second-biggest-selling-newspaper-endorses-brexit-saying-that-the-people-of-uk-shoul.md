@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/14/rupert-murdoch-controlled-tabloid-the-sun-brita
 
 ### [2016-06-14](/news/2016/06/14/index.md)
 
+##### European Union membership referendum
 # Rupert Murdoch-controlled tabloid "The Sun", Britain's second biggest selling newspaper, endorses Brexit, saying that the people of UK should "Take back control and BeLeave in Britain". 
 
 For almost 40 years, Rupert Murdoch’s newspaper has fought against European integration, so its call for a Leave vote is the culmination of its campaign

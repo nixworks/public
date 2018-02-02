@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/6/at-least-ten-people-including-government-minister-jeyaraj-fernandopulle-are-killed-in-an-explosion-near-colombo-sri-lanka.html)  [JSON](/news/2008/04/6/at-least-ten-people-including-government-minister-jeyaraj-fernandopulle-are-killed-in-an-explosion-near-colombo-sri-lanka.json)  [XML](/news/2008/04/6/at-least-ten-people-including-government-minister-jeyaraj-fernandopulle-are-killed-in-an-explosion-near-colombo-sri-lanka.xml)  
+
 ### [2008-04-6](/news/2008/04/6/index.md)
 
+##### Jeyaraj Fernandopulle
 #  At least ten people including Government minister Jeyaraj Fernandopulle are killed in an explosion near Colombo, Sri Lanka. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/south_asia/7332952.stm)
 

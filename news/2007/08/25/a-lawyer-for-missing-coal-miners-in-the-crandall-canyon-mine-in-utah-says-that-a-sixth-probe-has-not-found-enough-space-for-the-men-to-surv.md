@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/25/a-lawyer-for-missing-coal-miners-in-the-crandall-canyon-mine-in-utah-says-that-a-sixth-probe-has-not-found-enough-space-for-the-men-to-surv.html)  [JSON](/news/2007/08/25/a-lawyer-for-missing-coal-miners-in-the-crandall-canyon-mine-in-utah-says-that-a-sixth-probe-has-not-found-enough-space-for-the-men-to-surv.json)  [XML](/news/2007/08/25/a-lawyer-for-missing-coal-miners-in-the-crandall-canyon-mine-in-utah-says-that-a-sixth-probe-has-not-found-enough-space-for-the-men-to-surv.xml)  
+
 ### [2007-08-25](/news/2007/08/25/index.md)
 
+##### coal mine
 #  A lawyer for missing coal miners in the Crandall Canyon mine in Utah says that a sixth probe has not found enough space for the men to survive. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via AZ Central](http://www.azcentral.com/news/articles/0825mine-ON.html)
 

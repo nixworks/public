@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/30/chelsea-f-c-defeat-everton-f-c-to-win-the-2009-fa-cup-final.html)  [JSON](/news/2009/05/30/chelsea-f-c-defeat-everton-f-c-to-win-the-2009-fa-cup-final.json)  [XML](/news/2009/05/30/chelsea-f-c-defeat-everton-f-c-to-win-the-2009-fa-cup-final.xml)  
+
 ### [2009-05-30](/news/2009/05/30/index.md)
 
+##### Chelsea F.C.
 #  Chelsea F.C. defeat Everton F.C. to win the 2009 FA Cup Final. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport1/hi/football/fa_cup/8060989.stm)
 

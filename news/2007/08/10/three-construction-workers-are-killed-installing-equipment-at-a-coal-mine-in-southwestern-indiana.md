@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/10/three-construction-workers-are-killed-installing-equipment-at-a-coal-mine-in-southwestern-indiana.html)  [JSON](/news/2007/08/10/three-construction-workers-are-killed-installing-equipment-at-a-coal-mine-in-southwestern-indiana.json)  [XML](/news/2007/08/10/three-construction-workers-are-killed-installing-equipment-at-a-coal-mine-in-southwestern-indiana.xml)  
+
 ### [2007-08-10](/news/2007/08/10/index.md)
 
+##### coal mine
 #  Three construction workers are killed installing equipment at a coal mine in southwestern Indiana. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2007/US/08/10/indiana.mine.deaths/index.html?eref=rss_us)
 

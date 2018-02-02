@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/21/iain-banks-posts-an-update-on-his-cancer-battle-for-the-first-time-since-announcing-his-impending-death.html)  [JSON](/news/2013/05/21/iain-banks-posts-an-update-on-his-cancer-battle-for-the-first-time-since-announcing-his-impending-death.json)  [XML](/news/2013/05/21/iain-banks-posts-an-update-on-his-cancer-battle-for-the-first-time-since-announcing-his-impending-death.xml)  
+
 ### [2013-05-21](/news/2013/05/21/index.md)
 
+##### Iain Banks
 # Iain Banks posts an update on his cancer battle for the first time since announcing his impending death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/books/2013/may/21/iain-banks-updates-fans-cancer)
 

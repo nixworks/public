@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/24/a-senior-israeli-source-says-that-israel-may-have-to-go-it-alone-saying-that-the-iranian-response-to-a-package-of-incentives-to-halt-its.html)  [JSON](/news/2006/08/24/a-senior-israeli-source-says-that-israel-may-have-to-go-it-alone-saying-that-the-iranian-response-to-a-package-of-incentives-to-halt-its.json)  [XML](/news/2006/08/24/a-senior-israeli-source-says-that-israel-may-have-to-go-it-alone-saying-that-the-iranian-response-to-a-package-of-incentives-to-halt-its.xml)  
+
 ### [2006-08-24](/news/2006/08/24/index.md)
 
+##### Israel
 #  A senior Israeli source says that Israel "may have to go it alone," saying that the Iranian response to a package of incentives to halt its uranium enrichment was just to "gain time," and said that Iran had "flipped the world the bird." 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Jerusalem Post](http://www.jpost.com/servlet/Satellite?cid=1154525933028&pagename=JPost%2FJPArticle%2FShowFull)
 

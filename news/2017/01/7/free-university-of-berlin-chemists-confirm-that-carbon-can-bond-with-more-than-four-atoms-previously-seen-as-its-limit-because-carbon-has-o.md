@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/7/free-university-of-berlin-chemists-confirm-that-
 
 ### [2017-01-7](/news/2017/01/7/index.md)
 
+##### Free University of Berlin
 # Free University of Berlin chemists confirm that carbon can bond with more than four atoms, previously seen as its limit because carbon has only four shareable electrons. The researchers used X-rays to, for the first time, map the molecule -- a carbon atom bonded to six other carbon atoms. 
 
 This molecule doesn&#039;t play by the rules.

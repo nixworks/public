@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/10/the-sister-of-filipino-actress-maritoni-fernand
 
 ### [2016-09-10](/news/2016/09/10/index.md)
 
+##### drug crackdown
 # The sister of Filipino actress Maritoni Fernandez and daughter of British hereditary peer Antony Moynihan, 3rd Baron Moynihan is shot dead in a suburb of Manila. Through deliberate evidence left at the scene, the perpetrator's motive appears to be an implication that Moynihan had been a drug dealer. 
 
 Ma. Aurora Moynihan, an alleged drug pusher to celebrities, was the sister of actress Maritoni Fernandez 

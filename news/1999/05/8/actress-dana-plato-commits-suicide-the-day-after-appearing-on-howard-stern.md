@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/05/8/actress-dana-plato-commits-suicide-the-day-after-appearing-on-howard-stern.html)  [JSON](/news/1999/05/8/actress-dana-plato-commits-suicide-the-day-after-appearing-on-howard-stern.json)  [XML](/news/1999/05/8/actress-dana-plato-commits-suicide-the-day-after-appearing-on-howard-stern.xml)  
+
 ### [1999-05-8](/news/1999/05/8/index.md)
 
+##### Dana Plato
 #  Actress Dana Plato commits suicide the day after appearing on Howard Stern.
 
 

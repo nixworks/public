@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/9/taiwan-says-it-will-end-restrictions-on-philippine-workers-imposed-after-a-row-over-the-deportation-of-14-taiwanese-to-mainland-china.html)  [JSON](/news/2011/03/9/taiwan-says-it-will-end-restrictions-on-philippine-workers-imposed-after-a-row-over-the-deportation-of-14-taiwanese-to-mainland-china.json)  [XML](/news/2011/03/9/taiwan-says-it-will-end-restrictions-on-philippine-workers-imposed-after-a-row-over-the-deportation-of-14-taiwanese-to-mainland-china.xml)  
+
 ### [2011-03-9](/news/2011/03/9/index.md)
 
+##### Taiwan
 # Taiwan says it will end restrictions on Philippine workers imposed after a row over the deportation of 14 Taiwanese to mainland China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_643257.html)
 

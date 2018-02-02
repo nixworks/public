@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/27/seven-members-of-the-militia-who-occupied-the-w
 
 ### [2016-10-27](/news/2016/10/27/index.md)
 
+##### Occupation of the Malheur National Wildlife Refuge
 #  Seven members of the militia who occupied the wildlife refuge, including the leader Ammon Bundy, was acquitted of all federal charges related to the takeover. 
 
 Ammon and Ryan Bundy and five of their followers faced federal felony charges stemming from the six-week takeover in January.

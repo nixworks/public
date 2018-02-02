@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/26/former-british-prime-minister-sir-edward-heath-is-flown-home-from-his-holiday-in-salzburg-austria-to-receive-treatment-in-london-for-pulm.html)  [JSON](/news/2003/08/26/former-british-prime-minister-sir-edward-heath-is-flown-home-from-his-holiday-in-salzburg-austria-to-receive-treatment-in-london-for-pulm.json)  [XML](/news/2003/08/26/former-british-prime-minister-sir-edward-heath-is-flown-home-from-his-holiday-in-salzburg-austria-to-receive-treatment-in-london-for-pulm.xml)  
+
 ### [2003-08-26](/news/2003/08/26/index.md)
 
+##### Edward Heath
 #  Former British Prime Minister Sir Edward Heath is flown home from his holiday in Salzburg, Austria, to receive treatment in London for pulmonary embolism.
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/6/armed-men-dressed-as-soldiers-apparently-led-by-
 
 ### [2017-08-6](/news/2017/08/6/index.md)
 
+##### democratic opposition
 # Armed men dressed as soldiers, apparently led by former National Guard captain Juan Carlos Caguaripano, attack a Venezuelan Army base near Valencia, Carabobo, declaring themselves in rebellion against the National Constituent Assembly and President Nicolas Maduro. At least two people are killed. 
 
 Army chief says ‘peace has triumphed’, though TV footage is inconclusive, after video released showing group of armed men calling for rebellion

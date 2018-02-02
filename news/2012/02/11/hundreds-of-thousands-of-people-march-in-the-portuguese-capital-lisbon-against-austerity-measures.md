@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/11/hundreds-of-thousands-of-people-march-in-the-portuguese-capital-lisbon-against-austerity-measures.html)  [JSON](/news/2012/02/11/hundreds-of-thousands-of-people-march-in-the-portuguese-capital-lisbon-against-austerity-measures.json)  [XML](/news/2012/02/11/hundreds-of-thousands-of-people-march-in-the-portuguese-capital-lisbon-against-austerity-measures.xml)  
+
 ### [2012-02-11](/news/2012/02/11/index.md)
 
+##### Lisbon
 # Hundreds of thousands of people march in the Portuguese capital Lisbon against austerity measures. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iHGTgC77ZN3NnIyUHnt6q0VEVsLA?docId=CNG.298ed147731872d4e6278091cab9c895.741)
 

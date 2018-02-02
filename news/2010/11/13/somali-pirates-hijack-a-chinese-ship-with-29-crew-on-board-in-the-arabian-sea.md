@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/13/somali-pirates-hijack-a-chinese-ship-with-29-crew-on-board-in-the-arabian-sea.html)  [JSON](/news/2010/11/13/somali-pirates-hijack-a-chinese-ship-with-29-crew-on-board-in-the-arabian-sea.json)  [XML](/news/2010/11/13/somali-pirates-hijack-a-chinese-ship-with-29-crew-on-board-in-the-arabian-sea.xml)  
+
 ### [2010-11-13](/news/2010/11/13/index.md)
 
+##### China
 # Somali pirates hijack a Chinese ship with 29 crew on board in the Arabian Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Shanghai Daily](http://www.shanghaidaily.com/article/?id=454504&type=National)
 2. [Times of India](http://timesofindia.indiatimes.com/world/rest-of-world/Somali-pirates-hijack-ship-with-29-Chinese-crew-/articleshow/6921013.cms)

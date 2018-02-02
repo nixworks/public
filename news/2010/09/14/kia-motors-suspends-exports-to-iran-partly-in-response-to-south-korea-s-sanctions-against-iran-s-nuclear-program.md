@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/14/kia-motors-suspends-exports-to-iran-partly-in-response-to-south-korea-s-sanctions-against-iran-s-nuclear-program.html)  [JSON](/news/2010/09/14/kia-motors-suspends-exports-to-iran-partly-in-response-to-south-korea-s-sanctions-against-iran-s-nuclear-program.json)  [XML](/news/2010/09/14/kia-motors-suspends-exports-to-iran-partly-in-response-to-south-korea-s-sanctions-against-iran-s-nuclear-program.xml)  
+
 ### [2010-09-14](/news/2010/09/14/index.md)
 
+##### Kia
 # Kia Motors suspends exports to Iran partly in response to South Korea's sanctions against Iran's nuclear program. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google](http://www.google.com/hostednews/afp/article/ALeqM5jh7hOESRUp2HNS4XkMXCjmbMKjSw)
 

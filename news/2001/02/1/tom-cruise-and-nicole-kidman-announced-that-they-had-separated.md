@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/02/1/tom-cruise-and-nicole-kidman-announced-that-they-had-separated.html)  [JSON](/news/2001/02/1/tom-cruise-and-nicole-kidman-announced-that-they-had-separated.json)  [XML](/news/2001/02/1/tom-cruise-and-nicole-kidman-announced-that-they-had-separated.xml)  
+
 ### [2001-02-1](/news/2001/02/1/index.md)
 
+##### Tom Cruise
 #  Tom Cruise and Nicole Kidman announced that they had separated.
 
 

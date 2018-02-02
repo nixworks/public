@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/6/in-spain-the-basque-separatist-group-eta-detonate-seven-bombs-in-bars-cafes-and-town-squares-across-the-country-the-cities-attacked-are-l.html)  [JSON](/news/2004/12/6/in-spain-the-basque-separatist-group-eta-detonate-seven-bombs-in-bars-cafes-and-town-squares-across-the-country-the-cities-attacked-are-l.json)  [XML](/news/2004/12/6/in-spain-the-basque-separatist-group-eta-detonate-seven-bombs-in-bars-cafes-and-town-squares-across-the-country-the-cities-attacked-are-l.xml)  
+
 ### [2004-12-6](/news/2004/12/6/index.md)
 
+##### Basque
 #  In Spain the Basque separatist group ETA detonate seven bombs in bars, cafes and town squares across the country. The cities attacked are Len, vila, Santillana del Mar, Ciudad Real, Mlaga, Valladolid, and Alicante. All the attacks were preceded by warnings and nobody was seriously hurt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4072313.stm)
 

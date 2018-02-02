@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/11/the-scottish-parliament-meets-for-the-first-time-since-the-victory-of-the-scottish-national-party-in-the-recent-general-election.html)  [JSON](/news/2011/05/11/the-scottish-parliament-meets-for-the-first-time-since-the-victory-of-the-scottish-national-party-in-the-recent-general-election.json)  [XML](/news/2011/05/11/the-scottish-parliament-meets-for-the-first-time-since-the-victory-of-the-scottish-national-party-in-the-recent-general-election.xml)  
+
 ### [2011-05-11](/news/2011/05/11/index.md)
 
+##### Scottish Parliament
 # The Scottish Parliament meets for the first time since the victory of the Scottish National Party in the recent general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-13351212)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52656000/jpg/_52656499_011946033-1.jpg)

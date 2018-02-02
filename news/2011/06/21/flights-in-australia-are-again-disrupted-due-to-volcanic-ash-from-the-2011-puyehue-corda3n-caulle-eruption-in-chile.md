@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/21/flights-in-australia-are-again-disrupted-due-to-volcanic-ash-from-the-2011-puyehue-corda3n-caulle-eruption-in-chile.html)  [JSON](/news/2011/06/21/flights-in-australia-are-again-disrupted-due-to-volcanic-ash-from-the-2011-puyehue-corda3n-caulle-eruption-in-chile.json)  [XML](/news/2011/06/21/flights-in-australia-are-again-disrupted-due-to-volcanic-ash-from-the-2011-puyehue-corda3n-caulle-eruption-in-chile.xml)  
+
 ### [2011-06-21](/news/2011/06/21/index.md)
 
+##### Australia
 # Flights in Australia are again disrupted due to volcanic ash from the 2011 Puyehue-Cordon Caulle eruption in Chile. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WA Today](http://www.watoday.com.au/travel/travel-news/ash-cloud-causes-flight-chaos--again-20110621-1gcef.html)
 

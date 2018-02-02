@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/9/an-uprising-in-the-burmese-town-of-taunggok-about-200-km-northwest-of-yangon-results-in-arrests.html)  [JSON](/news/2008/08/9/an-uprising-in-the-burmese-town-of-taunggok-about-200-km-northwest-of-yangon-results-in-arrests.json)  [XML](/news/2008/08/9/an-uprising-in-the-burmese-town-of-taunggok-about-200-km-northwest-of-yangon-results-in-arrests.xml)  
+
 ### [2008-08-9](/news/2008/08/9/index.md)
 
+##### Burma
 #  An uprising in the Burmese town of Taunggok, about 200 km northwest of Yangon, results in arrests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7548770.stm)
 

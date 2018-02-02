@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/01/28/the-astrophysical-journal-publishes-research-from-the-university-of-rochester-and-the-university-of-leiden-announcing-the-discovery-of-eit.html)  [JSON](/news/2015/01/28/the-astrophysical-journal-publishes-research-from-the-university-of-rochester-and-the-university-of-leiden-announcing-the-discovery-of-eit.json)  [XML](/news/2015/01/28/the-astrophysical-journal-publishes-research-from-the-university-of-rochester-and-the-university-of-leiden-announcing-the-discovery-of-eit.xml)  
+
 ### [2015-01-28](/news/2015/01/28/index.md)
 
+##### The Astrophysical Journal
 # "The Astrophysical Journal" publishes research from the University of Rochester and the University of Leiden announcing the discovery of either a brown dwarf substellar object or a gas giant exoplanet titled J1407b. The object is the first known nonstar to have a super ring system. 
 
 Astronomers say they have found the first-ever ringed planet beyond our Solar System.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/2015-01-29/faraway-planet-j1407b-is-lord-of-the-rings/6053418)
 1. [Cover Image](http://www.abc.net.au/news/image/6053416-1x1-700x700.jpg)
+
+### Changes:
+
+1. [''The Astrophysical Journal'' publishes research from the University of Rochester and the University of Leiden announcing the discovery of either a brown dwarf substellar object or a gas giant exoplanet titled J1407b. The object is the first known nonstar to have a super ring system. ](/news/2015/01/28/the-astrophysical-journal-publishes-research-from-the-university-of-rochester-and-the-university-of-leiden-announcing-the-discovery-of-e.md) _2017-08-25 03:41:32 (First version)_
+1. ["The Astrophysical Journal" publishes research from the University of Rochester and the University of Leiden announcing the discovery of either a brown dwarf substellar object or a gas giant exoplanet titled J1407b. The object is the first known nonstar to have a super ring system. ](/news/2015/01/28/the-astrophysical-journal-publishes-research-from-the-university-of-rochester-and-the-university-of-leiden-announcing-the-discovery-of-eit.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Astronomers say they have found the first-ever ringed planet beyond our Solar Sy
 3. [Researchers report in the journal Nature the discovery of three potentially habitable, Earth-like exoplanets orbiting TRAPPIST-1, an ultracool dwarf star 40 light-years away in the constellation Aquarius. ](/news/2016/05/2/researchers-report-in-the-journal-nature-the-discovery-of-three-potentially-habitable-earth-like-exoplanets-orbiting-trappist-1-an-ultraco.md) _Context: exoplanet_
 4. [Astronomers' study reveals the surface of exoplanet 55 Cancri e has a 2500degC liquid face, constantly facing its star 55 Cancri, while the other side is relatively colder and solid. ](/news/2016/03/31/astronomers-study-reveals-the-surface-of-exoplanet-55-cancri-e-has-a-2500adegc-liquid-face-constantly-facing-its-star-55-cancri-while-the-o.md) _Context: exoplanet_
 5. [NASA scientists announce the discovery of Kepler-452b, the first near-Earth sized exoplanet discovered orbiting the habitable zone of a Sun-like star. ](/news/2015/07/23/nasa-scientists-announce-the-discovery-of-kepler-452b-the-first-near-earth-sized-exoplanet-discovered-orbiting-the-habitable-zone-of-a-sun.md) _Context: exoplanet_
-
-### Changes:
-
-1. [''The Astrophysical Journal'' publishes research from the University of Rochester and the University of Leiden announcing the discovery of either a brown dwarf substellar object or a gas giant exoplanet titled J1407b. The object is the first known nonstar to have a super ring system. ](/news/2015/01/28/the-astrophysical-journal-publishes-research-from-the-university-of-rochester-and-the-university-of-leiden-announcing-the-discovery-of-e.md) _2017-08-25 03:41:32 (First version)_
-1. ["The Astrophysical Journal" publishes research from the University of Rochester and the University of Leiden announcing the discovery of either a brown dwarf substellar object or a gas giant exoplanet titled J1407b. The object is the first known nonstar to have a super ring system. ](/news/2015/01/28/the-astrophysical-journal-publishes-research-from-the-university-of-rochester-and-the-university-of-leiden-announcing-the-discovery-of-eit.md) _(Current version)_

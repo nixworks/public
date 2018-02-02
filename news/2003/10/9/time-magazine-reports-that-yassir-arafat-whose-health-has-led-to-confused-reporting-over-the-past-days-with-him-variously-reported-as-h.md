@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/9/time-magazine-reports-that-yassir-arafat-whose-health-has-led-to-confused-reporting-over-the-past-days-with-him-variously-reported-as-h.html)  [JSON](/news/2003/10/9/time-magazine-reports-that-yassir-arafat-whose-health-has-led-to-confused-reporting-over-the-past-days-with-him-variously-reported-as-h.json)  [XML](/news/2003/10/9/time-magazine-reports-that-yassir-arafat-whose-health-has-led-to-confused-reporting-over-the-past-days-with-him-variously-reported-as-h.xml)  
+
 ### [2003-10-9](/news/2003/10/9/index.md)
 
+##### Yassir Arafat
 #  "Time" magazine reports that Yassir Arafat, whose health has led to confused reporting over the past days, with him variously reported as having had flu and having had a heart attack, in actuality has stomach cancer.
 
 

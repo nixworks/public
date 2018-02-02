@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/2/prince-philip-duke-of-edinburgh-retires-from-pub
 
 ### [2017-08-2](/news/2017/08/2/index.md)
 
+##### British royal consorts
 # Prince Philip, Duke of Edinburgh, retires from public appearances at the age of 96, after having completed 22,219 solo engagements since 1952. [http:--www.abc.net.au-news-2017-08-03-prince-philip-queen-elizabeth-royal-husband-retires-8769254 ("ABC News (Australia)")]
 
 

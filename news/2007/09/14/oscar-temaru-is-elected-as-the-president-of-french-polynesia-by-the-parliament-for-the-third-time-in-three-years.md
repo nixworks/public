@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/14/oscar-temaru-is-elected-as-the-president-of-french-polynesia-by-the-parliament-for-the-third-time-in-three-years.html)  [JSON](/news/2007/09/14/oscar-temaru-is-elected-as-the-president-of-french-polynesia-by-the-parliament-for-the-third-time-in-three-years.json)  [XML](/news/2007/09/14/oscar-temaru-is-elected-as-the-president-of-french-polynesia-by-the-parliament-for-the-third-time-in-three-years.xml)  
+
 ### [2007-09-14](/news/2007/09/14/index.md)
 
+##### Oscar Temaru
 #  Oscar Temaru is elected as the President of French Polynesia by the Parliament for the third time in three years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/09/14/asia/AS-POL-French-Polynesia-President.php)
 

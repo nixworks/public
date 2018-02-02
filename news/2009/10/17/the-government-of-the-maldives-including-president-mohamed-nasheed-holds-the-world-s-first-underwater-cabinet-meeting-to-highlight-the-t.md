@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/17/the-government-of-the-maldives-including-president-mohamed-nasheed-holds-the-world-s-first-underwater-cabinet-meeting-to-highlight-the-t.html)  [JSON](/news/2009/10/17/the-government-of-the-maldives-including-president-mohamed-nasheed-holds-the-world-s-first-underwater-cabinet-meeting-to-highlight-the-t.json)  [XML](/news/2009/10/17/the-government-of-the-maldives-including-president-mohamed-nasheed-holds-the-world-s-first-underwater-cabinet-meeting-to-highlight-the-t.xml)  
+
 ### [2009-10-17](/news/2009/10/17/index.md)
 
+##### his party
 #  The government of the Maldives, including President Mohamed Nasheed, holds the world's first underwater Cabinet meeting, to highlight the threat of global warming. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/south_asia/8311838.stm)
 2. [Miadhu News](http://www.miadhu.com.mv/2009/10/local-news/maldives-makes-history-in-holding-first-under-sea-cabinet-meeting/)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/20/former-polly-peck-tycoon-asil-nadir-is-found-guilty-on-three-counts-of-stealing-millions-of-pounds-from-his-company-by-a-jury-at-london-s-ol.html)  [JSON](/news/2012/08/20/former-polly-peck-tycoon-asil-nadir-is-found-guilty-on-three-counts-of-stealing-millions-of-pounds-from-his-company-by-a-jury-at-london-s-ol.json)  [XML](/news/2012/08/20/former-polly-peck-tycoon-asil-nadir-is-found-guilty-on-three-counts-of-stealing-millions-of-pounds-from-his-company-by-a-jury-at-london-s-ol.xml)  
+
 ### [2012-08-20](/news/2012/08/20/index.md)
 
+##### Polly Peck
 # Former Polly Peck tycoon Asil Nadir is found guilty on three counts of stealing millions of pounds from his company by a jury at London's Old Bailey. 
 
 Former tycoon Asil Nadir is found guilty of three counts of stealing millions from his company Polly Peck before fleeing the country two decades ago.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-19323202)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62386000/jpg/_62386964_015751903-1.jpg)

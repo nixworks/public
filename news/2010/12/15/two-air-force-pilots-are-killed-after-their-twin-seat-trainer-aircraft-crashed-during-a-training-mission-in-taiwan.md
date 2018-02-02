@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/15/two-air-force-pilots-are-killed-after-their-twin-seat-trainer-aircraft-crashed-during-a-training-mission-in-taiwan.html)  [JSON](/news/2010/12/15/two-air-force-pilots-are-killed-after-their-twin-seat-trainer-aircraft-crashed-during-a-training-mission-in-taiwan.json)  [XML](/news/2010/12/15/two-air-force-pilots-are-killed-after-their-twin-seat-trainer-aircraft-crashed-during-a-training-mission-in-taiwan.xml)  
+
 ### [2010-12-15](/news/2010/12/15/index.md)
 
+##### Air Force
 # Two Air Force pilots are killed after their twin-seat trainer aircraft crashed during a training mission in Taiwan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Focus Taiwan](http://focustaiwan.tw/ShowNews/WebNews_Detail.aspx?Type=aALL&ID=201012150020)
 2. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_614123.html)

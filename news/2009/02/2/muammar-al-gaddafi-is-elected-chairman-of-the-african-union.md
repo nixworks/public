@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2009/02/2/muammar-al-gaddafi-is-elected-chairman-of-the-african-union.html)  [JSON](/news/2009/02/2/muammar-al-gaddafi-is-elected-chairman-of-the-african-union.json)  [XML](/news/2009/02/2/muammar-al-gaddafi-is-elected-chairman-of-the-african-union.xml)  
+
 ### [2009-02-2](/news/2009/02/2/index.md)
 
+##### Muammar al-Gaddafi
 #  Muammar al-Gaddafi is elected Chairman of the African Union. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/latestCrisis/idUSL2274823)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/latestCrisis/idUSL2274823)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

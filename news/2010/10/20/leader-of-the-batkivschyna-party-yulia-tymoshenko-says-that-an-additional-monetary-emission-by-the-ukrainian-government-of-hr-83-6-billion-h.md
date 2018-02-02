@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/20/leader-of-the-batkivschyna-party-yulia-tymoshenko-says-that-an-additional-monetary-emission-by-the-ukrainian-government-of-hr-83-6-billion-h.html)  [JSON](/news/2010/10/20/leader-of-the-batkivschyna-party-yulia-tymoshenko-says-that-an-additional-monetary-emission-by-the-ukrainian-government-of-hr-83-6-billion-h.json)  [XML](/news/2010/10/20/leader-of-the-batkivschyna-party-yulia-tymoshenko-says-that-an-additional-monetary-emission-by-the-ukrainian-government-of-hr-83-6-billion-h.xml)  
+
 ### [2010-10-20](/news/2010/10/20/index.md)
 
+##### Batkivschyna
 # Leader of the Batkivschyna party Yulia Tymoshenko says that an additional monetary emission by the Ukrainian government of Hr 83.6 billion has already translated into growth in consumer prices. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Kyiv Post](http://www.kyivpost.com/news/business/bus_general/detail/86995/#ixzz14grUKuVG)
 

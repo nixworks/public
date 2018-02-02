@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/19/sri-lanka-lifts-a-ban-on-a-united-nations-war-crimes-panel-visiting-the-country.html)  [JSON](/news/2010/12/19/sri-lanka-lifts-a-ban-on-a-united-nations-war-crimes-panel-visiting-the-country.json)  [XML](/news/2010/12/19/sri-lanka-lifts-a-ban-on-a-united-nations-war-crimes-panel-visiting-the-country.xml)  
+
 ### [2010-12-19](/news/2010/12/19/index.md)
 
+##### Sri Lanka
 # Sri Lanka lifts a ban on a United Nations war crimes panel visiting the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/worldNews/idAFTRE6BI0F320101219?sp=true)
 2. [The Hindu](http://www.thehindu.com/news/international/article961373.ece)

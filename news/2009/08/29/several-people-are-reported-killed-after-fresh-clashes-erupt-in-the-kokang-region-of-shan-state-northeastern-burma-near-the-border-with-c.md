@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/29/several-people-are-reported-killed-after-fresh-clashes-erupt-in-the-kokang-region-of-shan-state-northeastern-burma-near-the-border-with-c.html)  [JSON](/news/2009/08/29/several-people-are-reported-killed-after-fresh-clashes-erupt-in-the-kokang-region-of-shan-state-northeastern-burma-near-the-border-with-c.json)  [XML](/news/2009/08/29/several-people-are-reported-killed-after-fresh-clashes-erupt-in-the-kokang-region-of-shan-state-northeastern-burma-near-the-border-with-c.xml)  
+
 ### [2009-08-29](/news/2009/08/29/index.md)
 
+##### fresh clashes
 #  Several people are reported killed after fresh clashes erupt in the Kokang region of Shan State, northeastern Burma, near the border with China. A bomb is also thrown across the border. 
 
 Clashes between military and Shan state militia force thousands to flee to China.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5gaS4NOB2jmkI6M2kJJ3-QBnOfEWQ)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2009/08/200982954251542273.html)

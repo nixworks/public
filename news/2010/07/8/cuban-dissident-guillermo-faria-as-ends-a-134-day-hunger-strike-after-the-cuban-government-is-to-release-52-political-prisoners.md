@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/8/cuban-dissident-guillermo-faria-as-ends-a-134-day-hunger-strike-after-the-cuban-government-is-to-release-52-political-prisoners.html)  [JSON](/news/2010/07/8/cuban-dissident-guillermo-faria-as-ends-a-134-day-hunger-strike-after-the-cuban-government-is-to-release-52-political-prisoners.json)  [XML](/news/2010/07/8/cuban-dissident-guillermo-faria-as-ends-a-134-day-hunger-strike-after-the-cuban-government-is-to-release-52-political-prisoners.xml)  
+
 ### [2010-07-8](/news/2010/07/8/index.md)
 
+##### Cuba
 # Cuban dissident Guillermo Farinas ends a 134 day hunger strike after the Cuban government is to release 52 political prisoners. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5iUXtrV2QU_hugo-6AVuxgVM2n5JQD9GR30JO0)
 2. [CNN](http://edition.cnn.com/2010/WORLD/americas/07/08/cuba.political.prisoners/?fbid=Dxrzb6Q-4_O)

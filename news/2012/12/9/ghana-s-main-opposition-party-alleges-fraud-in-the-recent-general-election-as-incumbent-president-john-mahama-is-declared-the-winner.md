@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/9/ghana-s-main-opposition-party-alleges-fraud-in-the-recent-general-election-as-incumbent-president-john-mahama-is-declared-the-winner.html)  [JSON](/news/2012/12/9/ghana-s-main-opposition-party-alleges-fraud-in-the-recent-general-election-as-incumbent-president-john-mahama-is-declared-the-winner.json)  [XML](/news/2012/12/9/ghana-s-main-opposition-party-alleges-fraud-in-the-recent-general-election-as-incumbent-president-john-mahama-is-declared-the-winner.xml)  
+
 ### [2012-12-9](/news/2012/12/9/index.md)
 
+##### Ghana
 # Ghana's main opposition party alleges fraud in the recent general election as incumbent President John Mahama is declared the winner. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/12/201212916445930897.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-20661599)

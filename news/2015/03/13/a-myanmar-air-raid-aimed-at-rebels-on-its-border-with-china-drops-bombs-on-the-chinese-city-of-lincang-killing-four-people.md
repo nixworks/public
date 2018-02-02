@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2015/03/13/a-myanmar-air-raid-aimed-at-rebels-on-its-border-with-china-drops-bombs-on-the-chinese-city-of-lincang-killing-four-people.html)  [JSON](/news/2015/03/13/a-myanmar-air-raid-aimed-at-rebels-on-its-border-with-china-drops-bombs-on-the-chinese-city-of-lincang-killing-four-people.json)  [XML](/news/2015/03/13/a-myanmar-air-raid-aimed-at-rebels-on-its-border-with-china-drops-bombs-on-the-chinese-city-of-lincang-killing-four-people.xml)  
+
 ### [2015-03-13](/news/2015/03/13/index.md)
 
+##### Myanmar
 # A Myanmar air raid aimed at rebels on its border with China drops bombs on the Chinese city of Lincang killing four people. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2015/03/13/world/asia/ap-as-china-myanmar.html)
+1. [AP via ''The New York Times](https://www.nytimes.com/aponline/2015/03/13/world/asia/ap-as-china-myanmar.html)
 
 ### Related:
 
-1. [The People's Republic of China claims that the Golden Triangle regions of Laos, Myanmar and Thailand are the source of most of its imports of heroin and methamphetamine. The region has been known for drug cultivation for centuries. ](/news/2015/06/24/the-people-s-republic-of-china-claims-that-the-golden-triangle-regions-of-laos-myanmar-and-thailand-are-the-source-of-most-of-its-imports-o.md) _Context: China, Myanmar_
-2. [Myanmar drug lord and convicted murderer Naw Kham is executed by lethal injection in Kunming, Yunnan Province, China. ](/news/2013/03/1/myanmar-drug-lord-and-convicted-murderer-naw-kham-is-executed-by-lethal-injection-in-kunming-yunnan-province-china.md) _Context: China, Myanmar_
-3. [ A 6.4 magnitude earthquake strikes southern China near the Myanmar and Laos borders, causing casualties. ](/news/2007/06/3/a-6-4-magnitude-earthquake-strikes-southern-china-near-the-myanmar-and-laos-borders-causing-casualties.md) _Context: China, Myanmar_
-4. [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md) _Context: Myanmar_
-5. [An Indian Air Force Mi-17 helicopter ferrying military officials crashes in Tawang, Arunachal Pradesh, a remote mountain region near the border with China, killing all seven personnel on board. ](/news/2017/10/6/an-indian-air-force-mi-17-helicopter-ferrying-military-officials-crashes-in-tawang-arunachal-pradesh-a-remote-mountain-region-near-the-bor.md) _Context: China_
+1. [Chinese delegates visiting the Burmese capital of Naypyidaw propose a three-phase plan to resolve the conflict in Myanmar's Rakhine State. The governments of Myanmar and Bangladesh expressed support for the plan, which included repatriating refugees that have fled from violence in Rakhine State. ](/news/2017/11/19/chinese-delegates-visiting-the-burmese-capital-of-naypyidaw-propose-a-three-phase-plan-to-resolve-the-conflict-in-myanmar-s-rakhine-state-t.md) _Context: Chinese, Myanmar_
+2. [The People's Republic of China claims that the Golden Triangle regions of Laos, Myanmar and Thailand are the source of most of its imports of heroin and methamphetamine. The region has been known for drug cultivation for centuries. ](/news/2015/06/24/the-people-s-republic-of-china-claims-that-the-golden-triangle-regions-of-laos-myanmar-and-thailand-are-the-source-of-most-of-its-imports-o.md) _Context: Chinese, Myanmar_
+3. [Myanmar drug lord and convicted murderer Naw Kham is executed by lethal injection in Kunming, Yunnan Province, China. ](/news/2013/03/1/myanmar-drug-lord-and-convicted-murderer-naw-kham-is-executed-by-lethal-injection-in-kunming-yunnan-province-china.md) _Context: Chinese, Myanmar_
+4. [ A 6.4 magnitude earthquake strikes southern China near the Myanmar and Laos borders, causing casualties. ](/news/2007/06/3/a-6-4-magnitude-earthquake-strikes-southern-china-near-the-myanmar-and-laos-borders-causing-casualties.md) _Context: Chinese, Myanmar_
+5. [Sanchi is still ablaze this morning and it continues to leak oil. Chinese officials mention the danger of explosion and sinking. ](/news/2018/01/8/sanchi-is-still-ablaze-this-morning-and-it-continues-to-leak-oil-chinese-officials-mention-the-danger-of-explosion-and-sinking.md) _Context: Chinese_

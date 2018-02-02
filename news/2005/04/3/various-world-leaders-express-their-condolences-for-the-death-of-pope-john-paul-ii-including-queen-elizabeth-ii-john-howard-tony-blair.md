@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/3/various-world-leaders-express-their-condolences-for-the-death-of-pope-john-paul-ii-including-queen-elizabeth-ii-john-howard-tony-blair.html)  [JSON](/news/2005/04/3/various-world-leaders-express-their-condolences-for-the-death-of-pope-john-paul-ii-including-queen-elizabeth-ii-john-howard-tony-blair.json)  [XML](/news/2005/04/3/various-world-leaders-express-their-condolences-for-the-death-of-pope-john-paul-ii-including-queen-elizabeth-ii-john-howard-tony-blair.xml)  
+
 ### [2005-04-3](/news/2005/04/3/index.md)
 
+##### Pope John Paul II
 #  Various world leaders express their condolences for the death of Pope John Paul II, including Queen Elizabeth II, John Howard, Tony Blair, George W. Bush, Carlo Azeglio Ciampi and Lawrence Gonzi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFR](http://afr.com/articles/2005/04/04/1112489383753.html)
 

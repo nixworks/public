@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/08/25/died-aaliyah-contemporary-r-b-and-pop-singer-dies-in-a-plane-crash-at-the-age-of-22.html)  [JSON](/news/2001/08/25/died-aaliyah-contemporary-r-b-and-pop-singer-dies-in-a-plane-crash-at-the-age-of-22.json)  [XML](/news/2001/08/25/died-aaliyah-contemporary-r-b-and-pop-singer-dies-in-a-plane-crash-at-the-age-of-22.xml)  
+
 ### [2001-08-25](/news/2001/08/25/index.md)
 
+##### Aaliyah
 #  Died: Aaliyah, contemporary R&B and pop singer, dies in a plane crash at the age of 22.
 
 

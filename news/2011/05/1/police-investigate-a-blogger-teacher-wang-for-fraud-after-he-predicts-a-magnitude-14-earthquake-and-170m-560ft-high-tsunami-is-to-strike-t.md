@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/1/police-investigate-a-blogger-teacher-wang-for-fraud-after-he-predicts-a-magnitude-14-earthquake-and-170m-560ft-high-tsunami-is-to-strike-t.html)  [JSON](/news/2011/05/1/police-investigate-a-blogger-teacher-wang-for-fraud-after-he-predicts-a-magnitude-14-earthquake-and-170m-560ft-high-tsunami-is-to-strike-t.json)  [XML](/news/2011/05/1/police-investigate-a-blogger-teacher-wang-for-fraud-after-he-predicts-a-magnitude-14-earthquake-and-170m-560ft-high-tsunami-is-to-strike-t.xml)  
+
 ### [2011-05-1](/news/2011/05/1/index.md)
 
+##### blog
 # Police investigate a blogger Teacher Wang for fraud after he predicts a magnitude-14 earthquake and 170m (560ft) high tsunami is to strike Taiwan on 11 May, toppling the Taipei 101 skyscraper and Presidential Office building. The prediction is removed from the internet. 
 
 Police in Taiwan investigate a self-proclaimed prophet whose doomsday warnings on a blog have caused panic.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-13253512)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52440000/jpg/_52440641_011848298-1.jpg)

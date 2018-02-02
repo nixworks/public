@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/26/at-least-20-people-die-as-an-indian-military-helicopter-trying-to-rescue-victims-of-the-floods-in-the-himalayan-state-of-uttarakhand-crashes.html)  [JSON](/news/2013/06/26/at-least-20-people-die-as-an-indian-military-helicopter-trying-to-rescue-victims-of-the-floods-in-the-himalayan-state-of-uttarakhand-crashes.json)  [XML](/news/2013/06/26/at-least-20-people-die-as-an-indian-military-helicopter-trying-to-rescue-victims-of-the-floods-in-the-himalayan-state-of-uttarakhand-crashes.xml)  
+
 ### [2013-06-26](/news/2013/06/26/index.md)
 
+##### India
 # At least 20 people die as an Indian military helicopter trying to rescue victims of the floods in the Himalayan state of Uttarakhand crashes, killing all on board. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/breaking-news/world/india-floods-helicopter-crash-kills-8/story-e6frfkui-1226669888481)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

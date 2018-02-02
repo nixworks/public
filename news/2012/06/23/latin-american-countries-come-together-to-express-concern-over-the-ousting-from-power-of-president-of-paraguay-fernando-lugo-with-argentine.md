@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/23/latin-american-countries-come-together-to-express-concern-over-the-ousting-from-power-of-president-of-paraguay-fernando-lugo-with-argentine.html)  [JSON](/news/2012/06/23/latin-american-countries-come-together-to-express-concern-over-the-ousting-from-power-of-president-of-paraguay-fernando-lugo-with-argentine.json)  [XML](/news/2012/06/23/latin-american-countries-come-together-to-express-concern-over-the-ousting-from-power-of-president-of-paraguay-fernando-lugo-with-argentine.xml)  
+
 ### [2012-06-23](/news/2012/06/23/index.md)
 
+##### Paraguayan President
 # Latin American countries come together to express concern over the ousting from power of President of Paraguay Fernando Lugo, with Argentine President Cristina Fernndez de Kirchner, Ecuadorian President Rafael Correa and Venezuelan President Hugo Chvez vowing not to recognise the government of the newly-installed Paraguayan leader. 
 
 Heads of three regional countries say they will not recognise new government after President Fernando Lugo was ousted.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/06/201262383641605671.html)
 2. [BBC](http://www.bbc.co.uk/news/world-latin-america-18564206)

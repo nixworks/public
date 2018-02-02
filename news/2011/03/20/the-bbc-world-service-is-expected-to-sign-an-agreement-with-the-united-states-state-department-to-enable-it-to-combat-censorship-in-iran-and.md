@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/20/the-bbc-world-service-is-expected-to-sign-an-agreement-with-the-united-states-state-department-to-enable-it-to-combat-censorship-in-iran-and.html)  [JSON](/news/2011/03/20/the-bbc-world-service-is-expected-to-sign-an-agreement-with-the-united-states-state-department-to-enable-it-to-combat-censorship-in-iran-and.json)  [XML](/news/2011/03/20/the-bbc-world-service-is-expected-to-sign-an-agreement-with-the-united-states-state-department-to-enable-it-to-combat-censorship-in-iran-and.xml)  
+
 ### [2011-03-20](/news/2011/03/20/index.md)
 
+##### BBC World Service
 # The BBC World Service is expected to sign an agreement with the United States State Department to enable it to combat censorship in Iran and the People's Republic of China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/media/2011/mar/20/bbc-world-service-us-funding)
 

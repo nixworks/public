@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/07/27/guerilla-mortar-fire-directed-at-the-green-zone-in-baghdad-strikes-the-nearby-neighborhood-of-salhiya-killing-an-iraqi-garbage-collector.html)  [JSON](/news/2004/07/27/guerilla-mortar-fire-directed-at-the-green-zone-in-baghdad-strikes-the-nearby-neighborhood-of-salhiya-killing-an-iraqi-garbage-collector.json)  [XML](/news/2004/07/27/guerilla-mortar-fire-directed-at-the-green-zone-in-baghdad-strikes-the-nearby-neighborhood-of-salhiya-killing-an-iraqi-garbage-collector.xml)  
+
 ### [2004-07-27](/news/2004/07/27/index.md)
 
+##### Green Zone
 #  Guerilla mortar fire, directed at the Green Zone in Baghdad, strikes the nearby neighborhood of Salhiya, killing an Iraqi garbage collector, wounding another, and injuring 15 U.S. soldiers. Dr. Qassem el-Obaidi, assistant director of Mahmudiya hospital, is assassinated in Mahmudiya, 25 miles south of Baghdad. A suicide bomber launches a failed attack in Baquba, north of Baghdad, killing himself but inflicting no other casualties. The Jordanian company Daoud and Partners decides to withdraw from Iraq, so as to secure the release of two Jordanian hostages.
 
 

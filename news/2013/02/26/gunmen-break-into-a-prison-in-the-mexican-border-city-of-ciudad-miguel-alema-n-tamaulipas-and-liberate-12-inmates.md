@@ -1,13 +1,23 @@
+
+Formats: [HTML](/news/2013/02/26/gunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.html)  [JSON](/news/2013/02/26/gunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.json)  [XML](/news/2013/02/26/gunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.xml)  
+
 ### [2013-02-26](/news/2013/02/26/index.md)
 
+##### Mexico
 # Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KRGV](http://www.krgv.com/news/commando-frees-12-from-miguel-aleman-prison/)
+
+### Changes:
+
+1. [Mexican Drug War:Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. ](/news/2013/02/26/mexican-drug-war-pgunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.md) _2017-08-25 03:37:40 (First version)_
+2. [Mexican Drug War:: Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. ](/news/2013/02/26/mexican-drug-war-gunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.md) _2017-08-27 03:37:50 (Update)_
+2. [Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. ](/news/2013/02/26/gunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.md) _(Current version)_
 
 ### Related:
 
@@ -16,9 +26,3 @@
 3. [More than forty bodies are found in a mass grave in Mexico's Tamaulipas state. ](/news/2011/04/6/more-than-forty-bodies-are-found-in-a-mass-grave-in-mexico-s-tamaulipas-state.md) _Context: Mexico, Tamaulipas_
 4. [Mexico says 10 suspected drug gang members were killed in shootout with soldiers in Valle Hermoso, Tamaulipas. ](/news/2011/01/22/mexico-says-10-suspected-drug-gang-members-were-killed-in-shootout-with-soldiers-in-valle-hermoso-tamaulipas.md) _Context: Mexico, Tamaulipas_
 5. [At least 71 prisoners escape from jail in the Mexican city of Reynosa, Tamaulipas, across the U.S. border from McAllen, Texas. ](/news/2010/09/10/at-least-71-prisoners-escape-from-jail-in-the-mexican-city-of-reynosa-tamaulipas-across-the-u-s-border-from-mcallen-texas.md) _Context: Mexico, Tamaulipas_
-
-### Changes:
-
-1. [Mexican Drug War:Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. ](/news/2013/02/26/mexican-drug-war-pgunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.md) _2017-08-25 03:37:40 (First version)_
-2. [Mexican Drug War:: Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. ](/news/2013/02/26/mexican-drug-war-gunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.md) _2017-08-27 03:37:50 (Update)_
-2. [Gunmen break into a prison in the Mexican border city of Ciudad Miguel Aleman, Tamaulipas, and liberate 12 inmates. ](/news/2013/02/26/gunmen-break-into-a-prison-in-the-mexican-border-city-of-ciudad-miguel-alema-n-tamaulipas-and-liberate-12-inmates.md) _(Current version)_

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/07/23/recent-celebrity-deaths-chaim-potok-novelist-dies-of-cancer-at-age-73.html)  [JSON](/news/2002/07/23/recent-celebrity-deaths-chaim-potok-novelist-dies-of-cancer-at-age-73.json)  [XML](/news/2002/07/23/recent-celebrity-deaths-chaim-potok-novelist-dies-of-cancer-at-age-73.xml)  
+
 ### [2002-07-23](/news/2002/07/23/index.md)
 
+##### Recent celebrity deaths
 # Recent celebrity deaths: Chaim Potok, novelist dies of cancer at age 73.
 
 

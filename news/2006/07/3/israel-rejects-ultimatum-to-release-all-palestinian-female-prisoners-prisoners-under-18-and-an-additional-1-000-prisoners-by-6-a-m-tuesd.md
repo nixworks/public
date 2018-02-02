@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/3/israel-rejects-ultimatum-to-release-all-palestinian-female-prisoners-prisoners-under-18-and-an-additional-1-000-prisoners-by-6-a-m-tuesd.html)  [JSON](/news/2006/07/3/israel-rejects-ultimatum-to-release-all-palestinian-female-prisoners-prisoners-under-18-and-an-additional-1-000-prisoners-by-6-a-m-tuesd.json)  [XML](/news/2006/07/3/israel-rejects-ultimatum-to-release-all-palestinian-female-prisoners-prisoners-under-18-and-an-additional-1-000-prisoners-by-6-a-m-tuesd.xml)  
+
 ### [2006-07-3](/news/2006/07/3/index.md)
 
+##### Israel
 #  Israel rejects ultimatum to release all Palestinian female prisoners, prisoners under 18, and an additional 1,000 prisoners by 6 A.M. Tuesday, in exchange for information on its kidnapped soldier Gilad Shalit. Defense Minister of Israel Amir Peretz calls Syrian President Bashar Assad to "open his eyes, because he is responsible". 
 
 Russian Foreign Minister Lavrov urges Palestinians to stop attacks on Israeli cities, pushes for Israeli restraint during meeting with Israeli counterpart Livni. Livni says Russia can have important role in talks over kidnapped soldier&#39;s release 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/hasen/spages/733789.html)
 2. [Haaretz](http://www.haaretz.com/hasen/spages/734055.html)

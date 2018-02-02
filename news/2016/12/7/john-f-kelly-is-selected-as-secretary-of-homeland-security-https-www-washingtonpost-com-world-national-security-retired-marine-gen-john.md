@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/7/john-f-kelly-is-selected-as-secretary-of-homelan
 
 ### [2016-12-7](/news/2016/12/7/index.md)
 
+##### Presidential transition of Donald Trump
 # John F. Kelly is selected as Secretary of Homeland Security. [https:--www.washingtonpost.com-world-national-security-retired-marine-gen-john-f-kelly-picked-to-head-department-of-homeland-security-2016-12-07-165472f2-bbe6-11e6-94ac-3d324840106c_story.html?hpid=hp_hp-top-table-main_kelly-1140a%3Ahomepage%2Fstory ("The Washington Post")]Linda McMahon is selected as Administrator of the Scott Pruitt is selected as Administrator of the Environmental Protection Agency
 
 

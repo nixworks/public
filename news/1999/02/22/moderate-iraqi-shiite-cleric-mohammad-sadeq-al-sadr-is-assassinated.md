@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/1999/02/22/moderate-iraqi-shiite-cleric-mohammad-sadeq-al-sadr-is-assassinated.html)  [JSON](/news/1999/02/22/moderate-iraqi-shiite-cleric-mohammad-sadeq-al-sadr-is-assassinated.json)  [XML](/news/1999/02/22/moderate-iraqi-shiite-cleric-mohammad-sadeq-al-sadr-is-assassinated.xml)  
+
 ### [1999-02-22](/news/1999/02/22/index.md)
 
+##### Iraq
 #  Moderate Iraqi Shiite cleric Mohammad Sadeq al-Sadr is assassinated. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/1999/02/22/world/assassination-of-shiite-cleric-threatens-further-iraqi-unrest.html)
+1. [New York Times](https://www.nytimes.com/1999/02/22/world/assassination-of-shiite-cleric-threatens-further-iraqi-unrest.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

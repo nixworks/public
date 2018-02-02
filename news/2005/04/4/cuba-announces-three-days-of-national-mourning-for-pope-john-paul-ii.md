@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/4/cuba-announces-three-days-of-national-mourning-for-pope-john-paul-ii.html)  [JSON](/news/2005/04/4/cuba-announces-three-days-of-national-mourning-for-pope-john-paul-ii.json)  [XML](/news/2005/04/4/cuba-announces-three-days-of-national-mourning-for-pope-john-paul-ii.xml)  
+
 ### [2005-04-4](/news/2005/04/4/index.md)
 
+##### Cuba
 #  Cuba announces three days of national mourning for Pope John Paul II. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4408197.stm)
 

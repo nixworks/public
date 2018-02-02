@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/16/voters-in-the-dominican-republic-go-to-the-polls-to-elect-a-new-president-with-79-of-the-vote-counted-former-president-leonel-fernandez.html)  [JSON](/news/2004/05/16/voters-in-the-dominican-republic-go-to-the-polls-to-elect-a-new-president-with-79-of-the-vote-counted-former-president-leonel-fernandez.json)  [XML](/news/2004/05/16/voters-in-the-dominican-republic-go-to-the-polls-to-elect-a-new-president-with-79-of-the-vote-counted-former-president-leonel-fernandez.xml)  
+
 ### [2004-05-16](/news/2004/05/16/index.md)
 
+##### Dominican Republic
 #  Voters in the Dominican Republic go to the polls to elect a new president; with 79% of the vote counted, former president Leonel Fernndez is declared the winner. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3718541.stm)
 

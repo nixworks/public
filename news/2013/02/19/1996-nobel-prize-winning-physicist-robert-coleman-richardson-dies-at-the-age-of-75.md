@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/02/19/1996-nobel-prize-winning-physicist-robert-coleman-richardson-dies-at-the-age-of-75.html)  [JSON](/news/2013/02/19/1996-nobel-prize-winning-physicist-robert-coleman-richardson-dies-at-the-age-of-75.json)  [XML](/news/2013/02/19/1996-nobel-prize-winning-physicist-robert-coleman-richardson-dies-at-the-age-of-75.xml)  
+
 ### [2013-02-19](/news/2013/02/19/index.md)
 
+##### Nobel Prize
 # 1996 Nobel Prize winning physicist Robert Coleman Richardson dies at the age of 75. 
 
 Dr. Richardson’s prize-winning work involved cooling helium to liquid form, a breakthrough that has enabled research into a variety of scientific problems.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2013/02/22/science/robert-c-richardson-nobel-winning-physicist-dies-at-75.html)
+1. [The New York Times](https://www.nytimes.com/2013/02/22/science/robert-c-richardson-nobel-winning-physicist-dies-at-75.html)
 1. [Cover Image](https://static01.nyt.com/images/2013/02/22/us/RICHARDSON-obit/RICHARDSON-obit-superJumbo.jpg)
 
 ### Related:

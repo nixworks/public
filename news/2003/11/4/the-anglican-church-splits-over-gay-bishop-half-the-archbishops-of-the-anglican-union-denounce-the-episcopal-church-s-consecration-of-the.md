@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/4/the-anglican-church-splits-over-gay-bishop-half-the-archbishops-of-the-anglican-union-denounce-the-episcopal-church-s-consecration-of-the.html)  [JSON](/news/2003/11/4/the-anglican-church-splits-over-gay-bishop-half-the-archbishops-of-the-anglican-union-denounce-the-episcopal-church-s-consecration-of-the.json)  [XML](/news/2003/11/4/the-anglican-church-splits-over-gay-bishop-half-the-archbishops-of-the-anglican-union-denounce-the-episcopal-church-s-consecration-of-the.xml)  
+
 ### [2003-11-4](/news/2003/11/4/index.md)
 
+##### Anglican Church
 #  The Anglican Church splits over gay bishop. Half the archbishops of the Anglican union denounce the Episcopal Church's consecration of the world's first openly gay, Gene Robinson, non-celibate bishop and vowed not to recognize the appointment.
 
 

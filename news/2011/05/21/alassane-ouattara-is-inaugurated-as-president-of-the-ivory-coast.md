@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/21/alassane-ouattara-is-inaugurated-as-president-of-the-ivory-coast.html)  [JSON](/news/2011/05/21/alassane-ouattara-is-inaugurated-as-president-of-the-ivory-coast.json)  [XML](/news/2011/05/21/alassane-ouattara-is-inaugurated-as-president-of-the-ivory-coast.xml)  
+
 ### [2011-05-21](/news/2011/05/21/index.md)
 
+##### Alassane Ouattara
 # Alassane Ouattara is inaugurated as President of the Ivory Coast. 
 
 Ivory Coast stages an inauguration ceremony for President Alassane Ouattara after months of violence and political turmoil.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2011/05/201152111547236688.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-13482188)

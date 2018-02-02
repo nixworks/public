@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/4/five-people-including-an-18-month-old-baby-are-m
 
 ### [2016-03-4](/news/2016/03/4/index.md)
 
+##### Indonesia
 # Five people, including an 18-month-old baby, are missing from an Indonesian ferryboat traveling from Bali to East Java that sank in the Bali Strait; 76 people have been rescued. 
 
 

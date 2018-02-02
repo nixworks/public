@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/9/indonesian-president-susilo-bambang-yudhoyono-arrives-in-canberra-for-his-symbolic-three-day-visit-to-australia.html)  [JSON](/news/2010/03/9/indonesian-president-susilo-bambang-yudhoyono-arrives-in-canberra-for-his-symbolic-three-day-visit-to-australia.json)  [XML](/news/2010/03/9/indonesian-president-susilo-bambang-yudhoyono-arrives-in-canberra-for-his-symbolic-three-day-visit-to-australia.xml)  
+
 ### [2010-03-9](/news/2010/03/9/index.md)
 
+##### Indonesia
 # Indonesian President Susilo Bambang Yudhoyono arrives in Canberra for his "symbolic" three-day visit to Australia. 
 
 Indonesian president Susilo Bambang Yudhoyono arrives in Australia for talks on free trade and people smuggling.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2010/03/09/2840124.htm?section=justin)
 2. [The Age](http://www.theage.com.au/opinion/editorial/sby-visit-shows-need-for-closer-partnership-20100308-psm7.html)

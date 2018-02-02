@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/1/arab-league-sponsored-talks-between-the-somali-transitional-government-and-the-islamic-court-union-are-postponed-indefinitely-after-the-lat.html)  [JSON](/news/2006/11/1/arab-league-sponsored-talks-between-the-somali-transitional-government-and-the-islamic-court-union-are-postponed-indefinitely-after-the-lat.json)  [XML](/news/2006/11/1/arab-league-sponsored-talks-between-the-somali-transitional-government-and-the-islamic-court-union-are-postponed-indefinitely-after-the-lat.xml)  
+
 ### [2006-11-1](/news/2006/11/1/index.md)
 
+##### Arab League
 #  Arab League-sponsored talks between the Somali transitional government and the Islamic Court Union are postponed indefinitely after the latter seek a delay. A Somali Minister says that war appears likely. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyID=2006-11-01T194456Z_01_L01218795_RTRUKOC_0_US-SOMALIA.xml&WTmodLoc=IntNewsHome_C1_%5BFeed%5D-7)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/03/20/unidentified-gunmen-assassinate-sheikh-daud-ali-hasan-a-senior-commander-of-the-al-shabab-militant-group-in-the-southern-city-of-kismayo-s.html)  [JSON](/news/2010/03/20/unidentified-gunmen-assassinate-sheikh-daud-ali-hasan-a-senior-commander-of-the-al-shabab-militant-group-in-the-southern-city-of-kismayo-s.json)  [XML](/news/2010/03/20/unidentified-gunmen-assassinate-sheikh-daud-ali-hasan-a-senior-commander-of-the-al-shabab-militant-group-in-the-southern-city-of-kismayo-s.xml)  
+
 ### [2010-03-20](/news/2010/03/20/index.md)
 
+##### Sheikh Daud Ali Hasan
 # Unidentified gunmen assassinate Sheikh Daud Ali Hasan, a senior commander of the Al-Shabab militant group in the southern city of Kismayo, Somalia. 
 
 A senior official of Somali insurgent group al Shabaab was shot dead on Friday in a rare assassination in the southern port of Kismayu, which is tightly controlled by the al Qaeda-linked rebels.
 
 
-### Source:
+### Sources:
 
 1. [African Press Agency](http://www.apanews.net/apa.php?page=show_article_eng&id_article=120488)
-2. [Reuters](http://www.reuters.com/article/idUSTRE62J0MJ20100320)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/idUSTRE62J0MJ20100320)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

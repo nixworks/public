@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/21/shanghai-hangzhou-high-speed-railway-makes-trial-operation.html)  [JSON](/news/2010/10/21/shanghai-hangzhou-high-speed-railway-makes-trial-operation.json)  [XML](/news/2010/10/21/shanghai-hangzhou-high-speed-railway-makes-trial-operation.xml)  
+
 ### [2010-10-21](/news/2010/10/21/index.md)
 
+##### Shanghai-Hangzhou
 # Shanghai-Hangzhou High-Speed Railway makes trial operation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China](http://www.china.org.cn/travel/2010-10/21/content_21171822_6.htm)
 

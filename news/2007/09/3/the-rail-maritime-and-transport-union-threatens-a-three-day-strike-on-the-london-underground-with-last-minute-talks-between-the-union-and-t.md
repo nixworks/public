@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/3/the-rail-maritime-and-transport-union-threatens-a-three-day-strike-on-the-london-underground-with-last-minute-talks-between-the-union-and-t.html)  [JSON](/news/2007/09/3/the-rail-maritime-and-transport-union-threatens-a-three-day-strike-on-the-london-underground-with-last-minute-talks-between-the-union-and-t.json)  [XML](/news/2007/09/3/the-rail-maritime-and-transport-union-threatens-a-three-day-strike-on-the-london-underground-with-last-minute-talks-between-the-union-and-t.xml)  
+
 ### [2007-09-3](/news/2007/09/3/index.md)
 
+##### Rail Maritime and Transport Union
 #  The Rail Maritime and Transport Union threatens a three day strike on the London Underground with last minute talks between the union and Transport for London failing to prevent this outcome. 
 
 Latest breaking news, including politics, crime and celebrity. Find stories, updates and expert opinion.
 
 
-### Source:
+### Sources:
 
 1. [Telegraph](http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/09/04/ntube104.xml)
 

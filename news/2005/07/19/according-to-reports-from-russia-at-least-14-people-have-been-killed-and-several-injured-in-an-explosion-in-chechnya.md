@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/19/according-to-reports-from-russia-at-least-14-people-have-been-killed-and-several-injured-in-an-explosion-in-chechnya.html)  [JSON](/news/2005/07/19/according-to-reports-from-russia-at-least-14-people-have-been-killed-and-several-injured-in-an-explosion-in-chechnya.json)  [XML](/news/2005/07/19/according-to-reports-from-russia-at-least-14-people-have-been-killed-and-several-injured-in-an-explosion-in-chechnya.xml)  
+
 ### [2005-07-19](/news/2005/07/19/index.md)
 
+##### Russia
 #  According to reports from Russia, at least 14 people have been killed and several injured in an explosion in Chechnya. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4696539.stm)
 

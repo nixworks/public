@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/3/a-car-bomb-explodes-in-derry-northern-ireland-injuring-no-one.html)  [JSON](/news/2010/08/3/a-car-bomb-explodes-in-derry-northern-ireland-injuring-no-one.json)  [XML](/news/2010/08/3/a-car-bomb-explodes-in-derry-northern-ireland-injuring-no-one.xml)  
+
 ### [2010-08-3](/news/2010/08/3/index.md)
 
+##### Derry
 # A car bomb explodes in Derry, Northern Ireland, injuring no one. 
 
 Derry&#39;s most senior police officer has said lives could have been lost in this morning&#39;s car bomb attack in the city.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2010/0803/derry.html)
 2. [The Guardian](http://www.guardian.co.uk/uk/2010/aug/03/derry-officials-denounce-bomb-attack)

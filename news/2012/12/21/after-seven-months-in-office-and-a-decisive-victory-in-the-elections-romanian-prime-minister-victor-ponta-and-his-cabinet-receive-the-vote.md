@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/21/after-seven-months-in-office-and-a-decisive-victory-in-the-elections-romanian-prime-minister-victor-ponta-and-his-cabinet-receive-the-vote.html)  [JSON](/news/2012/12/21/after-seven-months-in-office-and-a-decisive-victory-in-the-elections-romanian-prime-minister-victor-ponta-and-his-cabinet-receive-the-vote.json)  [XML](/news/2012/12/21/after-seven-months-in-office-and-a-decisive-victory-in-the-elections-romanian-prime-minister-victor-ponta-and-his-cabinet-receive-the-vote.xml)  
+
 ### [2012-12-21](/news/2012/12/21/index.md)
 
+##### Romania
 # After seven months in office and a decisive victory in the elections, Romanian Prime Minister Victor Ponta and his cabinet receive the vote of confidence from Parliament with 402 votes in favor and 120 against. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2012/12/21/romanian-parliament-approves-new-center-left-government/)
 1. [Cover Image](http://a57.foxnews.com/images.foxnews.com/content/fox-news/world/2012/12/21/romanian-parliament-approves-new-center-left-government/_jcr_content/par/featured-media/media-2.img.jpg/0/0/1449150750988.jpg?ve=1)

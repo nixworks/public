@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2015/06/3/pro-russian-separatists-launch-an-offensive-to-take-marinka-ukraine-5-kilometers-from-the-separatist-capital-of-donetsk-at-least-19-peopl.html)  [JSON](/news/2015/06/3/pro-russian-separatists-launch-an-offensive-to-take-marinka-ukraine-5-kilometers-from-the-separatist-capital-of-donetsk-at-least-19-peopl.json)  [XML](/news/2015/06/3/pro-russian-separatists-launch-an-offensive-to-take-marinka-ukraine-5-kilometers-from-the-separatist-capital-of-donetsk-at-least-19-peopl.xml)  
+
 ### [2015-06-3](/news/2015/06/3/index.md)
 
+##### War in Donbass
 # Pro-Russian separatists launch an offensive to take Marinka, Ukraine, 5 kilometers from the separatist capital of Donetsk. At least 19 people have died in fighting. Ukrainian sources claimed at least 10 tanks took part in the battle. 
 
+Fighting broke out Wednesday between rebels and Ukrainian soldiers on the outskirts of the city of Donetsk, threatening an already fragile cease-fire.
 
 
-
-### Source:
+### Sources:
 
 1. [AFP via Yahoo! News](https://in.news.yahoo.com/ukrainian-army-accuses-rebels-launching-132643578.html)
-2. [New York Times](http://www.nytimes.com/2015/06/04/world/europe/eastern-ukraine-fighting-breaks-out-near-donetsk.html?module=WatchingPortal&region=c-column-middle-span-region&pgType=Homepage&action=click&mediaId=wide&state=standard&contentPlacement=2&version=internal&contentCollection=www.nytimes.com&contentId=http%3A%2F%2Fwww.nytimes.com%2F2015%2F06%2F04%2Fworld%2Feurope%2Feastern-ukraine-fighting-breaks-out-near-donetsk.html&eventName=Watching-article-click)
+2. [New York Times](https://www.nytimes.com/2015/06/04/world/europe/eastern-ukraine-fighting-breaks-out-near-donetsk.html?module=WatchingPortal&region=c-column-middle-span-region&pgType=Homepage&action=click&mediaId=wide&state=standard&contentPlacement=2&version=internal&contentCollection=www.nytimes.com&contentId=http%3A%2F%2Fwww.nytimes.com%2F2015%2F06%2F04%2Fworld%2Feurope%2Feastern-ukraine-fighting-breaks-out-near-donetsk.html&eventName=Watching-article-click)
+2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
+
+### Changes:
+
+1. [War in Donbass: Pro-Russian separatists launch an offensive to take Marinka, Ukraine, 5 kilometers from the separatist capital of Donetsk. At least 19 people have died in fighting. Ukrainian sources claimed at least 10 tanks took part in the battle. ](/news/2015/06/3/war-in-donbass-pro-russian-separatists-launch-an-offensive-to-take-marinka-ukraine-5-kilometers-from-the-separatist-capital-of-donetsk-a.md) _2017-08-27 03:42:28 (First version)_
+1. [Pro-Russian separatists launch an offensive to take Marinka, Ukraine, 5 kilometers from the separatist capital of Donetsk. At least 19 people have died in fighting. Ukrainian sources claimed at least 10 tanks took part in the battle. ](/news/2015/06/3/pro-russian-separatists-launch-an-offensive-to-take-marinka-ukraine-5-kilometers-from-the-separatist-capital-of-donetsk-at-least-19-peopl.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +27,3 @@
 3. [Ukraine sues Russia at the International Court of Justice, accusing the latter of being engaged in acts of "terrorism" and "discrimination" in eastern Ukraine and Crimea. ](/news/2017/01/16/ukraine-sues-russia-at-the-international-court-of-justice-accusing-the-latter-of-being-engaged-in-acts-of-terrorism-and-discrimination.md) _Context: Russia, War in Donbass_
 4. [The European Union extends its main Ukraine-related economic sanctions against Russia for six months until mid-2017. ](/news/2016/12/15/the-european-union-extends-its-main-ukraine-related-economic-sanctions-against-russia-for-six-months-until-mid-2017.md) _Context: Russia, War in Donbass_
 5. [German Chancellor Angela Merkel invites the presidents of Russia, Ukraine, and France to meet tomorrow in Berlin to discuss peace efforts in eastern Ukraine. ](/news/2016/10/18/german-chancellor-angela-merkel-invites-the-presidents-of-russia-ukraine-and-france-to-meet-tomorrow-in-berlin-to-discuss-peace-efforts-in.md) _Context: Russia, War in Donbass_
-
-### Changes:
-
-1. [War in Donbass: Pro-Russian separatists launch an offensive to take Marinka, Ukraine, 5 kilometers from the separatist capital of Donetsk. At least 19 people have died in fighting. Ukrainian sources claimed at least 10 tanks took part in the battle. ](/news/2015/06/3/war-in-donbass-pro-russian-separatists-launch-an-offensive-to-take-marinka-ukraine-5-kilometers-from-the-separatist-capital-of-donetsk-a.md) _2017-08-27 03:42:28 (First version)_
-1. [Pro-Russian separatists launch an offensive to take Marinka, Ukraine, 5 kilometers from the separatist capital of Donetsk. At least 19 people have died in fighting. Ukrainian sources claimed at least 10 tanks took part in the battle. ](/news/2015/06/3/pro-russian-separatists-launch-an-offensive-to-take-marinka-ukraine-5-kilometers-from-the-separatist-capital-of-donetsk-at-least-19-peopl.md) _(Current version)_

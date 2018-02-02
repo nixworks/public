@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/29/the-last-oldsmobile-is-produced-in-lansing-michigan.html)  [JSON](/news/2004/04/29/the-last-oldsmobile-is-produced-in-lansing-michigan.json)  [XML](/news/2004/04/29/the-last-oldsmobile-is-produced-in-lansing-michigan.xml)  
+
 ### [2004-04-29](/news/2004/04/29/index.md)
 
+##### Oldsmobile
 #  The last Oldsmobile is produced in Lansing, Michigan 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://money.cnn.com/2004/04/29/pf/autos/olds_dead/)
 

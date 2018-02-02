@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2011/02/14/the-cabinet-of-the-palestinian-authority-resigns-today-with-the-prime-minister-salam-fayyad-to-choose-a-new-ministry.html)  [JSON](/news/2011/02/14/the-cabinet-of-the-palestinian-authority-resigns-today-with-the-prime-minister-salam-fayyad-to-choose-a-new-ministry.json)  [XML](/news/2011/02/14/the-cabinet-of-the-palestinian-authority-resigns-today-with-the-prime-minister-salam-fayyad-to-choose-a-new-ministry.xml)  
+
 ### [2011-02-14](/news/2011/02/14/index.md)
 
+##### Palestinian Authority
 # The Cabinet of the Palestinian Authority resigns today with the Prime Minister Salam Fayyad to choose a new ministry. 
 
 The Palestinian cabinet will tender resignations Monday after which Prime Minister Salam Fayyad will select new ministers at the request of President Mahmoud Abbas, political sources said.
 
 
-### Source:
+### Sources:
 
 1. [AP via Palm Beach Post](http://www.palmbeachpost.com/news/world/palestinian-authority-cabinet-resigns-1252292.html)
 2. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/02/2011213204323828560.html)
 3. [BBC](http://www.bbc.co.uk/news/world-middle-east-12445001)
-4. [Reuters](http://www.reuters.com/article/2011/02/13/us-palestinians-reshuffle-idUSTRE71C21020110213)
-4. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110213&t=2&i=336314044&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-13T200718Z_01_BTRE71C1JWB00_RTROPTP_0_PALESTINIANS-ELECTION)
+4. [Reuters](https://www.reuters.com/article/2011/02/13/us-palestinians-reshuffle-idUSTRE71C21020110213)
+4. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110213&t=2&i=336314044&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-02-13T200718Z_01_BTRE71C1JWB00_RTROPTP_0_PALESTINIANS-ELECTION)
 
 ### Related:
 

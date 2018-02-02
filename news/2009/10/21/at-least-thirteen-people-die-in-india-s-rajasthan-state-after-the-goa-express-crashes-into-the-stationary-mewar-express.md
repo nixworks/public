@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/21/at-least-thirteen-people-die-in-india-s-rajasthan-state-after-the-goa-express-crashes-into-the-stationary-mewar-express.html)  [JSON](/news/2009/10/21/at-least-thirteen-people-die-in-india-s-rajasthan-state-after-the-goa-express-crashes-into-the-stationary-mewar-express.json)  [XML](/news/2009/10/21/at-least-thirteen-people-die-in-india-s-rajasthan-state-after-the-goa-express-crashes-into-the-stationary-mewar-express.xml)  
+
 ### [2009-10-21](/news/2009/10/21/index.md)
 
+##### India
 #  At least thirteen people die in India's Rajasthan state after the Goa Express crashes into the stationary Mewar Express. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://mazakaro.com/)
 

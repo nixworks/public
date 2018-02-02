@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/19/colombian-farc-offer-to-release-kevin-scott-sutay-an-american-soldier-captured-last-month.html)  [JSON](/news/2013/07/19/colombian-farc-offer-to-release-kevin-scott-sutay-an-american-soldier-captured-last-month.json)  [XML](/news/2013/07/19/colombian-farc-offer-to-release-kevin-scott-sutay-an-american-soldier-captured-last-month.xml)  
+
 ### [2013-07-19](/news/2013/07/19/index.md)
 
+##### Colombia
 # Colombian FARC offer to release Kevin Scott Sutay, an American soldier captured last month. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20130720-farc-rebels-say-captured-us-soldier-offer-release)
 

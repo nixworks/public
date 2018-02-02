@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/15/rebekah-brooks-the-former-chief-executive-of-news-international-and-her-husband-charlie-brooks-are-charged-with-perverting-the-course-of-j.html)  [JSON](/news/2012/05/15/rebekah-brooks-the-former-chief-executive-of-news-international-and-her-husband-charlie-brooks-are-charged-with-perverting-the-course-of-j.json)  [XML](/news/2012/05/15/rebekah-brooks-the-former-chief-executive-of-news-international-and-her-husband-charlie-brooks-are-charged-with-perverting-the-course-of-j.xml)  
+
 ### [2012-05-15](/news/2012/05/15/index.md)
 
+##### Rebekah Brooks
 # Rebekah Brooks, the former chief executive of News International, and her husband Charlie Brooks are charged with perverting the course of justice in relation to the alleged destruction of evidence associated with the News International phone hacking scandal. 
 
 Rebekah Brooks, the former News International chief executive, has been charged over the alleged destruction of evidence relating to phone-hacking.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/05/20125159273599626.html)
 2. [The Daily Telegraph](http://www.telegraph.co.uk/news/uknews/phone-hacking/9266529/Phone-hacking-Rebekah-Brooks-will-be-charged-with-perverting-course-of-justice.html)

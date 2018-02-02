@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/17/a-bombing-occurs-in-the-chelsea-neighborhood-of
 
 ### [2016-09-17](/news/2016/09/17/index.md)
 
+##### 2016 New York and New Jersey bombings
 # A bombing occurs in the Chelsea neighborhood of Manhattan injuring 29 people. 
 
 An explosion caused by what the authorities believe was a homemade bomb injured at least 29 people in the Chelsea neighborhood. A second explosive device was later found four blocks away.

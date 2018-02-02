@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/4/a-plane-crash-near-fox-glacier-in-the-south-island-of-new-zealand-is-believed-to-have-killed-9-people.html)  [JSON](/news/2010/09/4/a-plane-crash-near-fox-glacier-in-the-south-island-of-new-zealand-is-believed-to-have-killed-9-people.json)  [XML](/news/2010/09/4/a-plane-crash-near-fox-glacier-in-the-south-island-of-new-zealand-is-believed-to-have-killed-9-people.xml)  
+
 ### [2010-09-4](/news/2010/09/4/index.md)
 
+##### Fox Glacier
 # A plane crash near Fox Glacier in the South Island of New Zealand is believed to have killed 9 people. 
 
 Police in New Zealand name nine people, including four foreigners, who died when a light aircraft crashed after taking off from Fox Glacier on Saturday.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Online](http://www.abc.net.au/news/stories/2010/09/04/3002625.htm)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11186173)

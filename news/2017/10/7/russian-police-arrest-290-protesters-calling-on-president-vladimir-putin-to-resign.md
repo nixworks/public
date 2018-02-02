@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/10/7/russian-police-arrest-290-protesters-calling-on-president-vladimir-putin-to-resign.html)  [JSON](/news/2017/10/7/russian-police-arrest-290-protesters-calling-on-president-vladimir-putin-to-resign.json)  [XML](/news/2017/10/7/russian-police-arrest-290-protesters-calling-on-president-vladimir-putin-to-resign.xml)  
+
 ### [2017-10-7](/news/2017/10/7/index.md)
 
+##### 2017 Russian protests
 # Russian police arrest 290 protesters calling on President Vladimir Putin to resign. 
 
 Police detained more than 200 opposition activists on Saturday for taking part in a wave of anti-Kremlin protests across Russia in support of jailed opposition leader Alexei Navalny, ahead of a presidential election in March, a monitoring group reported.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2017/10/08/europe/russia-protest-navalny-putin/index.html)
 2. [Reuters](https://www.reuters.com/article/us-russia-opposition-navalny-protests/on-putins-birthday-opposition-activists-protest-call-for-him-to-quit-idUSKBN1CC0ES)
@@ -13,8 +17,8 @@ Police detained more than 200 opposition activists on Saturday for taking part i
 
 ### Related:
 
-1. [King Salman of Saudi Arabia visits Russian President Vladimir Putin in the Moscow Kremlin. They discuss oil prices and the Syrian Civil War. ](/news/2017/10/5/king-salman-of-saudi-arabia-visits-russian-president-vladimir-putin-in-the-moscow-kremlin-they-discuss-oil-prices-and-the-syrian-civil-war.md) _Context: Vladimir Putin_
-2. [Russian president Vladimir Putin signs decree to implement UNSC sanctions on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-unsc-sanctions-on-north-korea.md) _Context: Vladimir Putin_
-3. [Russian President Vladimir Putin dismisses Nizhny Novgorod Oblast governor Valery Shantsev from his post, the second governor to lose his job in a week after Putin dismissed Samara Oblast governor Nikolay Merkushkin the day before. The dismissals come amid speculation that governors of several federal subjects will resign in anticipation of presidential elections in 2018. ](/news/2017/09/26/russian-president-vladimir-putin-dismisses-nizhny-novgorod-oblast-governor-valery-shantsev-from-his-post-the-second-governor-to-lose-his-jo.md) _Context: Vladimir Putin_
-4. [U.S. President Donald Trump says he and Russian President Vladimir Putin "discussed forming an impenetrable cyber security unit so that election hacking, and many other negative things, will be guarded and safe." Trump later says he does not think this will happen. ](/news/2017/07/9/u-s-president-donald-trump-says-he-and-russian-president-vladimir-putin-discussed-forming-an-impenetrable-cyber-security-unit-so-that-elec.md) _Context: Vladimir Putin_
-5. [Leaders from the Group of Twenty come together at the G20 summit in Hamburg, Germany, including United States President Donald Trump who is set to meet with President of Russia Vladimir Putin. ](/news/2017/07/7/leaders-from-the-group-of-twenty-come-together-at-the-g20-summit-in-hamburg-germany-including-united-states-president-donald-trump-who-is.md) _Context: Vladimir Putin_
+1. [At least 260 people have been arrested while protesting against Vladimir Putin in Moscow while people in five other cities are also detained. The protests were organized by the Artpodgotovka movement founded by Vyacheslav Maltsev. ](/news/2017/11/5/at-least-260-people-have-been-arrested-while-protesting-against-vladimir-putin-in-moscow-while-people-in-five-other-cities-are-also-detained.md) _Context: 2017 Russian protests, Vladimir Putin_
+2. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Vladimir Putin_
+3. [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md) _Context: Vladimir Putin_
+4. [President Vladimir Putin declares victory over the Islamic State terror group across both banks of the river Euphrates. ](/news/2017/12/6/president-vladimir-putin-declares-victory-over-the-islamic-state-terror-group-across-both-banks-of-the-river-euphrates.md) _Context: Vladimir Putin_
+5. [President Vladimir Putin announces his participation in the 2018 presidential election. ](/news/2017/12/6/president-vladimir-putin-announces-his-participation-in-the-2018-presidential-election.md) _Context: Vladimir Putin_

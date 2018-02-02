@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/26/a-qassam-rocket-fired-at-the-israeli-kibbutz-sa-ad-lands-near-a-preschool-no-injuries-are-reported.html)  [JSON](/news/2005/12/26/a-qassam-rocket-fired-at-the-israeli-kibbutz-sa-ad-lands-near-a-preschool-no-injuries-are-reported.json)  [XML](/news/2005/12/26/a-qassam-rocket-fired-at-the-israeli-kibbutz-sa-ad-lands-near-a-preschool-no-injuries-are-reported.xml)  
+
 ### [2005-12-26](/news/2005/12/26/index.md)
 
+##### Qassam rocket
 #  A Qassam rocket fired at the Israeli kibbutz Sa'ad lands near a preschool. No injuries are reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-3190485,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

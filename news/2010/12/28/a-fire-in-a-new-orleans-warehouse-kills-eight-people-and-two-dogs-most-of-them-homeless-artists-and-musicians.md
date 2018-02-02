@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/12/28/a-fire-in-a-new-orleans-warehouse-kills-eight-people-and-two-dogs-most-of-them-homeless-artists-and-musicians.html)  [JSON](/news/2010/12/28/a-fire-in-a-new-orleans-warehouse-kills-eight-people-and-two-dogs-most-of-them-homeless-artists-and-musicians.json)  [XML](/news/2010/12/28/a-fire-in-a-new-orleans-warehouse-kills-eight-people-and-two-dogs-most-of-them-homeless-artists-and-musicians.xml)  
+
 ### [2010-12-28](/news/2010/12/28/index.md)
 
+##### New Orleans
 # A fire in a New Orleans warehouse kills eight people and two dogs, most of them homeless artists and musicians.
 
 

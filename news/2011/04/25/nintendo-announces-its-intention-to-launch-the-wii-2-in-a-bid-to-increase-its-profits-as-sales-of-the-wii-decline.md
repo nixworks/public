@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/25/nintendo-announces-its-intention-to-launch-the-wii-2-in-a-bid-to-increase-its-profits-as-sales-of-the-wii-decline.html)  [JSON](/news/2011/04/25/nintendo-announces-its-intention-to-launch-the-wii-2-in-a-bid-to-increase-its-profits-as-sales-of-the-wii-decline.json)  [XML](/news/2011/04/25/nintendo-announces-its-intention-to-launch-the-wii-2-in-a-bid-to-increase-its-profits-as-sales-of-the-wii-decline.xml)  
+
 ### [2011-04-25](/news/2011/04/25/index.md)
 
+##### Nintendo
 # Nintendo announces its intention to launch the Wii 2 in a bid to increase its profits as sales of the Wii decline. 
 
 Nintendo has announced it will launch a new version of its Wii games console as sales of the original machine decline.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/technology-13186597)
 2. [Reuters via IOL](http://www.iol.co.za/business/business-news/nintendo-to-launch-new-wii-to-arrest-profit-fall-1.1060979)

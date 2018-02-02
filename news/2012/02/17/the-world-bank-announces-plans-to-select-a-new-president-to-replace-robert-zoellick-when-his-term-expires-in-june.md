@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/17/the-world-bank-announces-plans-to-select-a-new-president-to-replace-robert-zoellick-when-his-term-expires-in-june.html)  [JSON](/news/2012/02/17/the-world-bank-announces-plans-to-select-a-new-president-to-replace-robert-zoellick-when-his-term-expires-in-june.json)  [XML](/news/2012/02/17/the-world-bank-announces-plans-to-select-a-new-president-to-replace-robert-zoellick-when-his-term-expires-in-june.xml)  
+
 ### [2012-02-17](/news/2012/02/17/index.md)
 
+##### World Bank
 # The World Bank announces plans to select a new President to replace Robert Zoellick when his term expires in June. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Boston Globe](http://www.boston.com/business/articles/2012/02/17/world_bank_sets_plan_to_pick_zoellicks_successor/)
 

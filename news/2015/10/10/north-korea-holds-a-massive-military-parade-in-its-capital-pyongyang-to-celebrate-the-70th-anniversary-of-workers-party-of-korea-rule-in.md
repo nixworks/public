@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/10/north-korea-holds-a-massive-military-parade-in-its-capital-pyongyang-to-celebrate-the-70th-anniversary-of-workers-party-of-korea-rule-in.html)  [JSON](/news/2015/10/10/north-korea-holds-a-massive-military-parade-in-its-capital-pyongyang-to-celebrate-the-70th-anniversary-of-workers-party-of-korea-rule-in.json)  [XML](/news/2015/10/10/north-korea-holds-a-massive-military-parade-in-its-capital-pyongyang-to-celebrate-the-70th-anniversary-of-workers-party-of-korea-rule-in.xml)  
+
 ### [2015-10-10](/news/2015/10/10/index.md)
 
+##### North Korea
 # North Korea holds a massive military parade in its capital, Pyongyang, to celebrate the 70th anniversary of Workers' Party of Korea rule in the country. Liu Yunshan, the highest-ranking Chinese official to visit North Korea in three years, attends the parade. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-34493672)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/174AD/production/_86050459_700e94e6-fb92-45b9-9bf3-5371fd689108.jpg)

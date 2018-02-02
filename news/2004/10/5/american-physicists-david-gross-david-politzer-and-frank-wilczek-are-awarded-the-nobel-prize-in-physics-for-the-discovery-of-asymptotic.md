@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/5/american-physicists-david-gross-david-politzer-and-frank-wilczek-are-awarded-the-nobel-prize-in-physics-for-the-discovery-of-asymptotic.html)  [JSON](/news/2004/10/5/american-physicists-david-gross-david-politzer-and-frank-wilczek-are-awarded-the-nobel-prize-in-physics-for-the-discovery-of-asymptotic.json)  [XML](/news/2004/10/5/american-physicists-david-gross-david-politzer-and-frank-wilczek-are-awarded-the-nobel-prize-in-physics-for-the-discovery-of-asymptotic.xml)  
+
 ### [2004-10-5](/news/2004/10/5/index.md)
 
+##### physicists
 #  American physicists David Gross, David Politzer, and Frank Wilczek are awarded the Nobel Prize in Physics for "the discovery of asymptotic freedom in the theory of the strong interaction". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nobel Prize](http://nobelprize.org/physics/laureates/2004/)
 

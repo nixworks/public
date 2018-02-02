@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/17/at-least-16-palestinian-pilgrims-are-killed-whe
 
 ### [2016-03-17](/news/2016/03/17/index.md)
 
+##### Palestinians
 # At least 16 Palestinian pilgrims are killed when the bus they were traveling to Saudi Arabia on overturns in southern Jordan. 
 
 

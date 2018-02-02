@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/19/a-double-bombing-in-the-city-of-kirkuk-in-northern-iraq-kills-27-people-and-injures-dozens.html)  [JSON](/news/2011/05/19/a-double-bombing-in-the-city-of-kirkuk-in-northern-iraq-kills-27-people-and-injures-dozens.json)  [XML](/news/2011/05/19/a-double-bombing-in-the-city-of-kirkuk-in-northern-iraq-kills-27-people-and-injures-dozens.xml)  
+
 ### [2011-05-19](/news/2011/05/19/index.md)
 
+##### Kirkuk
 # A double bombing in the city of Kirkuk in northern Iraq kills 27 people and injures dozens. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nationworld/world/la-fg-iraq-bombing-20110520,0,6719256.story)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/5/special-prayers-are-said-at-the-tomb-of-mother-teresa-at-her-tomb-in-calcutta-in-honour-of-the-tenth-anniversary-of-her-death.html)  [JSON](/news/2007/09/5/special-prayers-are-said-at-the-tomb-of-mother-teresa-at-her-tomb-in-calcutta-in-honour-of-the-tenth-anniversary-of-her-death.json)  [XML](/news/2007/09/5/special-prayers-are-said-at-the-tomb-of-mother-teresa-at-her-tomb-in-calcutta-in-honour-of-the-tenth-anniversary-of-her-death.xml)  
+
 ### [2007-09-5](/news/2007/09/5/index.md)
 
+##### Mother Teresa
 #  Special prayers are said at the tomb of Mother Teresa at her tomb in Calcutta in honour of the tenth anniversary of her death. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6979228.stm)
 

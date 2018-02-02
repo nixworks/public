@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/21/france-and-algeria-sign-an-agreement-that-could-lead-to-french-nuclear-power-technology-being-employed-in-algerian-reactors.html)  [JSON](/news/2008/06/21/france-and-algeria-sign-an-agreement-that-could-lead-to-french-nuclear-power-technology-being-employed-in-algerian-reactors.json)  [XML](/news/2008/06/21/france-and-algeria-sign-an-agreement-that-could-lead-to-french-nuclear-power-technology-being-employed-in-algerian-reactors.xml)  
+
 ### [2008-06-21](/news/2008/06/21/index.md)
 
+##### France
 #  France and Algeria sign an agreement that could lead to French nuclear power technology being employed in Algerian reactors. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7467438.stm)
 

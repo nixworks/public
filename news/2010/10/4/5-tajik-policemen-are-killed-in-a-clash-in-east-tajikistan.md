@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/4/5-tajik-policemen-are-killed-in-a-clash-in-east-tajikistan.html)  [JSON](/news/2010/10/4/5-tajik-policemen-are-killed-in-a-clash-in-east-tajikistan.json)  [XML](/news/2010/10/4/5-tajik-policemen-are-killed-in-a-clash-in-east-tajikistan.xml)  
+
 ### [2010-10-4](/news/2010/10/4/index.md)
 
+##### Tajikistan
 # 5 Tajik policemen are killed in a clash in East Tajikistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/04/c_13542447.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/9/voters-in-rwanda-go-to-the-polls-for-the-presidential-election.html)  [JSON](/news/2010/08/9/voters-in-rwanda-go-to-the-polls-for-the-presidential-election.json)  [XML](/news/2010/08/9/voters-in-rwanda-go-to-the-polls-for-the-presidential-election.xml)  
+
 ### [2010-08-9](/news/2010/08/9/index.md)
 
+##### Rwanda
 # Voters in Rwanda go to the polls for the presidential election. 
 
 Paul Kagame expected to be re-elected president as opposition claims intimidation.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/africa/2010/08/20108943239684905.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-10908087)

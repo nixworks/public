@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/08/18/four-egyptian-army-soldiers-are-injured-in-a-raid-on-militants-in-the-sinai-peninsula.html)  [JSON](/news/2012/08/18/four-egyptian-army-soldiers-are-injured-in-a-raid-on-militants-in-the-sinai-peninsula.json)  [XML](/news/2012/08/18/four-egyptian-army-soldiers-are-injured-in-a-raid-on-militants-in-the-sinai-peninsula.xml)  
+
 ### [2012-08-18](/news/2012/08/18/index.md)
 
+##### Egyptian Army
 # Four Egyptian Army soldiers are injured in a raid on militants in the Sinai Peninsula. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/middle_east/officials-4-egyptian-troops-wounded-in-sinai-after-raid-on-suspected-militants/2012/08/18/9ca292b6-e91e-11e1-9739-eef99c5fb285_story.html)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/middle_east/officials-4-egyptian-troops-wounded-in-sinai-after-raid-on-suspected-militants/2012/08/18/9ca292b6-e91e-11e1-9739-eef99c5fb285_story.html)
 
 ### Related:
 

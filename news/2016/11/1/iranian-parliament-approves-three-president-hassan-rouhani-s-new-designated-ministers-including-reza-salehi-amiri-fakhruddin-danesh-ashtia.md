@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2016/11/1/iranian-parliament-approves-three-president-hassan-rouhani-s-new-designated-ministers-including-reza-salehi-amiri-fakhruddin-danesh-ashtia.html)  [JSON](/news/2016/11/1/iranian-parliament-approves-three-president-hassan-rouhani-s-new-designated-ministers-including-reza-salehi-amiri-fakhruddin-danesh-ashtia.json)  [XML](/news/2016/11/1/iranian-parliament-approves-three-president-hassan-rouhani-s-new-designated-ministers-including-reza-salehi-amiri-fakhruddin-danesh-ashtia.xml)  
+
 ### [2016-11-1](/news/2016/11/1/index.md)
 
+##### MPs
 # Iranian parliament approves three President Hassan Rouhani's new designated ministers, including Reza Salehi Amiri, Fakhruddin Danesh-Ashtiani and Masoud Soltanifar as culture, education and sports ministers respectively. 
 
 Iranian lawmakers approved three new ministers on Tuesday, signaling support for changes in the cabinet of pragmatist President Hassan Rouhani seven months before a presidential election.
 
 
-### Source:
+### Sources:
 
 1. [PressTV](http://www.presstv.ir/Detail/2016/11/01/491659/Iran-Parliament-Hassan-Rouhani-Massoud-Soltanifar-Fakhroddin-Ahmadi-Danesh-Ashtiani-Reza-Salehi-Amiri)
-2. [Reuters](http://www.reuters.com/article/us-iran-politics-cabinet-idUSKBN12W4AJ?feedType=RSS&feedName=worldNews)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20161101&t=2&i=1159834233&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECA02I3)
+2. [Reuters](https://www.reuters.com/article/us-iran-politics-cabinet-idUSKBN12W4AJ?feedType=RSS&feedName=worldNews)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20161101&t=2&i=1159834233&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPECA02I3)
 
 ### Related:
 

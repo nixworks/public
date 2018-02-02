@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/3/evo-morales-said-that-gonzalo-sa-nchez-de-lozada-president-of-bolivia-may-be-preparing-a-coup-in-spanish.html)  [JSON](/news/2003/10/3/evo-morales-said-that-gonzalo-sa-nchez-de-lozada-president-of-bolivia-may-be-preparing-a-coup-in-spanish.json)  [XML](/news/2003/10/3/evo-morales-said-that-gonzalo-sa-nchez-de-lozada-president-of-bolivia-may-be-preparing-a-coup-in-spanish.xml)  
+
 ### [2003-10-3](/news/2003/10/3/index.md)
 
+##### Evo Morales
 #  Evo Morales said that Gonzalo Sanchez de Lozada, president of Bolivia, may be preparing a coup. (in Spanish)
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/07/30/cook-islands-prime-minister-jim-marurai-fires-foreign-minister-wilkie-rasmussen-accusing-him-of-plotting-to-topple-the-government.html)  [JSON](/news/2009/07/30/cook-islands-prime-minister-jim-marurai-fires-foreign-minister-wilkie-rasmussen-accusing-him-of-plotting-to-topple-the-government.json)  [XML](/news/2009/07/30/cook-islands-prime-minister-jim-marurai-fires-foreign-minister-wilkie-rasmussen-accusing-him-of-plotting-to-topple-the-government.xml)  
+
 ### [2009-07-30](/news/2009/07/30/index.md)
 
+##### Cook Islands
 #  Cook Islands Prime Minister Jim Marurai fires Foreign Minister Wilkie Rasmussen, accusing him of plotting to topple the government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=48074)
 

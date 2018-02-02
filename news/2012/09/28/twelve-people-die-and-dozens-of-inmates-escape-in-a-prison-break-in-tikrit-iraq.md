@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/28/twelve-people-die-and-dozens-of-inmates-escape-in-a-prison-break-in-tikrit-iraq.html)  [JSON](/news/2012/09/28/twelve-people-die-and-dozens-of-inmates-escape-in-a-prison-break-in-tikrit-iraq.json)  [XML](/news/2012/09/28/twelve-people-die-and-dozens-of-inmates-escape-in-a-prison-break-in-tikrit-iraq.xml)  
+
 ### [2012-09-28](/news/2012/09/28/index.md)
 
+##### Tikrit
 # Twelve people die and dozens of inmates escape in a prison break in Tikrit, Iraq. 
 
 Dozens of inmates, including some terror suspects, seize weapons from store room and escape from Iraqi prison after hours of fighting with guards
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://www.cbsnews.com/8301-202_162-57522128/al-qaeda-suspects-among-dozens-of-escapees-in-deadly-iraq-prison-break/)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2014/03/05/6732c520-3370-400f-900a-273f656490d4/whats-in-the-news-coverart-1400x1400.jpg)

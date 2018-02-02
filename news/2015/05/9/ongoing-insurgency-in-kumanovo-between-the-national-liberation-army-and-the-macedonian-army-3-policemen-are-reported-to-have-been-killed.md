@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/9/ongoing-insurgency-in-kumanovo-between-the-national-liberation-army-and-the-macedonian-army-3-policemen-are-reported-to-have-been-killed.html)  [JSON](/news/2015/05/9/ongoing-insurgency-in-kumanovo-between-the-national-liberation-army-and-the-macedonian-army-3-policemen-are-reported-to-have-been-killed.json)  [XML](/news/2015/05/9/ongoing-insurgency-in-kumanovo-between-the-national-liberation-army-and-the-macedonian-army-3-policemen-are-reported-to-have-been-killed.xml)  
+
 ### [2015-05-9](/news/2015/05/9/index.md)
 
+##### Ongoing insurgency
 # Ongoing insurgency in Kumanovo between the National Liberation Army and the Macedonian army. 3 policemen are reported to have been killed. 
 
 Smoke, explosions and gunfire filled the streets of Kumanovo Saturday as Macedonian police fought a &quot;well-trained terrorist group.&quot;
 
 
-### Source:
+### Sources:
 
 1. [CNN/N1INFO](http://ba.n1info.com/a41123/Svijet/Regija/Napad-na-policajce-u-Makedoniji.html)
 2. [International Business Times](http://www.ibtimes.com/macedonia-terror-operation-police-fighting-street-street-foreign-group-1915510)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/20/kyrgyzstan-s-parliament-revokes-an-agreement-wi
 
 ### [2016-01-20](/news/2016/01/20/index.md)
 
+##### Kyrgyzstan
 # Kyrgyzstan's parliament revokes an agreement with Russia to construct hydropower plants, officially ending a deal that in reality was going nowhere, due to the "unfavorable economic situation" in Russia. 
 
 

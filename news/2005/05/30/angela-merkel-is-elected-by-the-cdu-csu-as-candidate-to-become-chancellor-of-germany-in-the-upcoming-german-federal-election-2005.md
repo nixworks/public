@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/30/angela-merkel-is-elected-by-the-cdu-csu-as-candidate-to-become-chancellor-of-germany-in-the-upcoming-german-federal-election-2005.html)  [JSON](/news/2005/05/30/angela-merkel-is-elected-by-the-cdu-csu-as-candidate-to-become-chancellor-of-germany-in-the-upcoming-german-federal-election-2005.json)  [XML](/news/2005/05/30/angela-merkel-is-elected-by-the-cdu-csu-as-candidate-to-become-chancellor-of-germany-in-the-upcoming-german-federal-election-2005.xml)  
+
 ### [2005-05-30](/news/2005/05/30/index.md)
 
+##### Angela Merkel
 #  Angela Merkel is elected by the CDU-CSU as candidate to become Chancellor of Germany in the upcoming German federal election, 2005. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Spiegel online, German](http://www.spiegel.de/politik/deutschland/0,1518,358169,00.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/14/thousands-of-people-protest-in-spain-against-a-raid-by-moroccan-authorities-in-a-camp-in-the-disputed-western-sahara.html)  [JSON](/news/2010/11/14/thousands-of-people-protest-in-spain-against-a-raid-by-moroccan-authorities-in-a-camp-in-the-disputed-western-sahara.json)  [XML](/news/2010/11/14/thousands-of-people-protest-in-spain-against-a-raid-by-moroccan-authorities-in-a-camp-in-the-disputed-western-sahara.xml)  
+
 ### [2010-11-14](/news/2010/11/14/index.md)
 
+##### Spain
 # Thousands of people protest in Spain against a raid by Moroccan authorities in a camp in the disputed Western Sahara. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/africa/2010/10/45/Thousands-Demonsrate-Against-Moroccan-Raid-Madrid,fab38b4d-c692-45dd-b7cd-8a62f26952f7.html)
 2. [CNN](http://edition.cnn.com/2010/WORLD/europe/11/14/spain.morocco.protests/)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/9/enron-corporation-former-assistant-treasurer-lea-fastow-and-wife-of-andrew-fastow-failed-to-respond-to-a-plea-agreement-by-the-deadline.html)  [JSON](/news/2004/01/9/enron-corporation-former-assistant-treasurer-lea-fastow-and-wife-of-andrew-fastow-failed-to-respond-to-a-plea-agreement-by-the-deadline.json)  [XML](/news/2004/01/9/enron-corporation-former-assistant-treasurer-lea-fastow-and-wife-of-andrew-fastow-failed-to-respond-to-a-plea-agreement-by-the-deadline.xml)  
+
 ### [2004-01-9](/news/2004/01/9/index.md)
 
+##### Enron Corporation
 #  Enron Corporation: Former Assistant Treasurer Lea Fastow and wife of Andrew Fastow, failed to respond to a plea agreement by the deadline. The offer would have allowed her to plead guilty in federal court to lesser charges and serve five months in return for her testimony. Her trial for conspiracy to commit wire fraud, money laundering, and tax evasion is scheduled to start February 10.
 
 

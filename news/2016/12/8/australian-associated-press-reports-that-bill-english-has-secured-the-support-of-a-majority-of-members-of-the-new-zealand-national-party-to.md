@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/8/australian-associated-press-reports-that-bill-en
 
 ### [2016-12-8](/news/2016/12/8/index.md)
 
+##### New Zealand National Party leadership election, 2016
 # Australian Associated Press reports that Bill English has secured the support of a majority of members of the New Zealand National Party to succeed John Key as the Prime Minister of New Zealand. 
 
 NZ Finance Minister Bill English is set to be appointed prime minister after two challengers withdrew.

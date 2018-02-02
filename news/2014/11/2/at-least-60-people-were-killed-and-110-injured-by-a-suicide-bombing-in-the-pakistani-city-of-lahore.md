@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/11/2/at-least-60-people-were-killed-and-110-injured-by-a-suicide-bombing-in-the-pakistani-city-of-lahore.html)  [JSON](/news/2014/11/2/at-least-60-people-were-killed-and-110-injured-by-a-suicide-bombing-in-the-pakistani-city-of-lahore.json)  [XML](/news/2014/11/2/at-least-60-people-were-killed-and-110-injured-by-a-suicide-bombing-in-the-pakistani-city-of-lahore.xml)  
+
 ### [2014-11-2](/news/2014/11/2/index.md)
 
+##### a suicide bombing
 # At least 60 people were killed and 110 injured by a suicide bombing in the Pakistani city of Lahore. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2014/11/02/world/asia/pakistan-lahore-parade-border-explosion/index.html?eref=edition)
 

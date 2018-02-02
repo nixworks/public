@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2009/10/18/yemen-claims-to-have-killed-18-shia-rebels-in-fighting-in-the-north-of-the-country.html)  [JSON](/news/2009/10/18/yemen-claims-to-have-killed-18-shia-rebels-in-fighting-in-the-north-of-the-country.json)  [XML](/news/2009/10/18/yemen-claims-to-have-killed-18-shia-rebels-in-fighting-in-the-north-of-the-country.xml)  
+
 ### [2009-10-18](/news/2009/10/18/index.md)
 
+##### Yemen
 #  Yemen claims to have killed 18 Shia rebels in fighting in the north of the country.
 
 

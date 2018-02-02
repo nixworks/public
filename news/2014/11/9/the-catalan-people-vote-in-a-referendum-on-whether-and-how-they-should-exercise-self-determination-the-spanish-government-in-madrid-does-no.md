@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2014/11/9/the-catalan-people-vote-in-a-referendum-on-whether-and-how-they-should-exercise-self-determination-the-spanish-government-in-madrid-does-no.html)  [JSON](/news/2014/11/9/the-catalan-people-vote-in-a-referendum-on-whether-and-how-they-should-exercise-self-determination-the-spanish-government-in-madrid-does-no.json)  [XML](/news/2014/11/9/the-catalan-people-vote-in-a-referendum-on-whether-and-how-they-should-exercise-self-determination-the-spanish-government-in-madrid-does-no.xml)  
+
 ### [2014-11-9](/news/2014/11/9/index.md)
 
+##### Catalan people
 # The Catalan people vote in a referendum on whether and how they should exercise self-determination. The Spanish government in Madrid does not recognise the authority of the vote. [http:--www.bbc.com-news-world-europe-29974635 (BBC) ]
 
 

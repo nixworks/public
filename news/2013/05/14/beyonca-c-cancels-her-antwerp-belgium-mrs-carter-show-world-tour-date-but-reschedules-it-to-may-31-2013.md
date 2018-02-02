@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2013/05/14/beyonca-c-cancels-her-antwerp-belgium-mrs-carter-show-world-tour-date-but-reschedules-it-to-may-31-2013.html)  [JSON](/news/2013/05/14/beyonca-c-cancels-her-antwerp-belgium-mrs-carter-show-world-tour-date-but-reschedules-it-to-may-31-2013.json)  [XML](/news/2013/05/14/beyonca-c-cancels-her-antwerp-belgium-mrs-carter-show-world-tour-date-but-reschedules-it-to-may-31-2013.xml)  
+
 ### [2013-05-14](/news/2013/05/14/index.md)
 
+##### Beyonce
 # Beyonce cancels her Antwerp, Belgium Mrs. Carter Show World Tour date. But reschedules it to May 31, 2013.
 
 

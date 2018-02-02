@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/26/after-being-incarcerated-without-trial-for-almost-three-years-the-four-british-detainees-at-guantanamo-bay-moazzam-begg-feroz-abbasi-ma.html)  [JSON](/news/2005/01/26/after-being-incarcerated-without-trial-for-almost-three-years-the-four-british-detainees-at-guantanamo-bay-moazzam-begg-feroz-abbasi-ma.json)  [XML](/news/2005/01/26/after-being-incarcerated-without-trial-for-almost-three-years-the-four-british-detainees-at-guantanamo-bay-moazzam-begg-feroz-abbasi-ma.xml)  
+
 ### [2005-01-26](/news/2005/01/26/index.md)
 
+##### Moazzam Begg
 #  After being incarcerated without trial for almost three years, the four British detainees at Guantanamo Bay, Moazzam Begg, Feroz Abbasi, Martin Mubanga and Richard Belmar, are free to go home, having been released without charge by the UK government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/4210815.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/16/venezuelan-president-hugo-cha-vez-arrives-back-in-cuba-for-chemotherapy-treatment.html)  [JSON](/news/2011/07/16/venezuelan-president-hugo-cha-vez-arrives-back-in-cuba-for-chemotherapy-treatment.json)  [XML](/news/2011/07/16/venezuelan-president-hugo-cha-vez-arrives-back-in-cuba-for-chemotherapy-treatment.xml)  
+
 ### [2011-07-16](/news/2011/07/16/index.md)
 
+##### Venezuela
 # Venezuelan President Hugo Chavez arrives back in Cuba for chemotherapy treatment. 
 
 Venezuelan President Hugh Chavez says he will go to Cuba Saturday to undergo chemotherapy treatment for a cancer he had removed earlier.
 
 
-### Source:
+### Sources:
 
 1. [UPI](http://www.upi.com/Top_News/World-News/2011/07/16/Chavez-back-in-Cuba-for-chemotherapy/UPI-71351310830179/)
 1. [Cover Image](http://cdnph.upi.com/sv/ph/og/upi/71351310830179/2011/1/a21c9e2f3712a183cea203634cb7838f/v2.1/Chavez-back-in-Cuba-for-chemotherapy.jpg)

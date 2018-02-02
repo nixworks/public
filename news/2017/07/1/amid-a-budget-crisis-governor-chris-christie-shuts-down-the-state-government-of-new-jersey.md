@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/1/amid-a-budget-crisis-governor-chris-christie-shu
 
 ### [2017-07-1](/news/2017/07/1/index.md)
 
+##### Politics of New Jersey
 # Amid a budget crisis, Governor Chris Christie shuts down the state government of New Jersey. 
 
 

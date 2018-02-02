@@ -1,16 +1,25 @@
+
+Formats: [HTML](/news/2015/08/28/interim-prime-minister-of-greece-vassiliki-thanou-christophilou-the-country-s-first-female-prime-minister-was-sworn-in-thursday-the-pm-na.html)  [JSON](/news/2015/08/28/interim-prime-minister-of-greece-vassiliki-thanou-christophilou-the-country-s-first-female-prime-minister-was-sworn-in-thursday-the-pm-na.json)  [XML](/news/2015/08/28/interim-prime-minister-of-greece-vassiliki-thanou-christophilou-the-country-s-first-female-prime-minister-was-sworn-in-thursday-the-pm-na.xml)  
+
 ### [2015-08-28](/news/2015/08/28/index.md)
 
+##### Greek government-debt crisis
 # Interim Prime Minister of Greece Vassiliki Thanou-Christophilou, the country's first female prime minister, was sworn in Thursday. The PM named her caretaker government cabinet that will oversee implementation of austerity measures required by the latest debt bailout with Eurogroup. Elections, required after Alexis Tsipras resigned last week, are scheduled for September 20, 2015, the third time Greeks will be going to the polls this year. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The New York Times](http://www.nytimes.com/aponline/2015/08/28/world/europe/ap-eu-greece-election.html)
+1. [AP via ''The New York Times](https://www.nytimes.com/aponline/2015/08/28/world/europe/ap-eu-greece-election.html)
 2. [CTV News](http://www.ctvnews.ca/world/early-greek-polls-show-tsipras-popularity-tanked-1.2537374)
 3. [The Irish Examiner](http://www.irishexaminer.com/world/greek-caretaker-government-sworn-in-ahead-of-elections-350874.html)
 3. [Cover Image](https://www.ctvnews.ca/polopoly_fs/1.2523756.1440796759!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
+
+### Changes:
+
+1. [Greek government-debt crisis: Interim Prime Minister of Greece Vassiliki Thanou-Christophilou, the country's first female prime minister, was sworn in Thursday. The PM named her caretaker government cabinet that will oversee implementation of austerity measures required by the latest debt bailout with Eurogroup. Elections, required after Alexis Tsipras resigned last week, are scheduled for September 20, 2015, the third time Greeks will be going to the polls this year. ](/news/2015/08/28/greek-government-debt-crisis-interim-prime-minister-of-greece-vassiliki-thanou-christophilou-the-country-s-first-female-prime-minister-wa.md) _2017-08-27 03:42:55 (First version)_
+1. [Interim Prime Minister of Greece Vassiliki Thanou-Christophilou, the country's first female prime minister, was sworn in Thursday. The PM named her caretaker government cabinet that will oversee implementation of austerity measures required by the latest debt bailout with Eurogroup. Elections, required after Alexis Tsipras resigned last week, are scheduled for September 20, 2015, the third time Greeks will be going to the polls this year. ](/news/2015/08/28/interim-prime-minister-of-greece-vassiliki-thanou-christophilou-the-country-s-first-female-prime-minister-was-sworn-in-thursday-the-pm-na.md) _(Current version)_
 
 ### Related:
 
@@ -19,8 +28,3 @@
 3. [Vassiliki Thanou-Christophilou, the head of the Court of Cassation, is appointed as interim Prime Minister of Greece for the duration of the upcoming election. She is the first woman to hold the post. ](/news/2015/08/27/vassiliki-thanou-christophilou-the-head-of-the-court-of-cassation-is-appointed-as-interim-prime-minister-of-greece-for-the-duration-of-the.md) _Context: Greek Prime Minister, Vassiliki Thanou-Christophilou_
 4. [The Prime Minister of Greece, Alexis Tsipras, announces his resignation and calls a new election for September 20. ](/news/2015/08/20/the-prime-minister-of-greece-alexis-tsipras-announces-his-resignation-and-calls-a-new-election-for-september-20.md) _Context: Alexis Tsipras, Greek Prime Minister_
 5. [The Prime Minister of Greece Alexis Tsipras says that Greece will hold a referendum on a bailout deal with creditors on July 5. ](/news/2015/06/26/the-prime-minister-of-greece-alexis-tsipras-says-that-greece-will-hold-a-referendum-on-a-bailout-deal-with-creditors-on-july-5.md) _Context: Alexis Tsipras, Greek Prime Minister_
-
-### Changes:
-
-1. [Greek government-debt crisis: Interim Prime Minister of Greece Vassiliki Thanou-Christophilou, the country's first female prime minister, was sworn in Thursday. The PM named her caretaker government cabinet that will oversee implementation of austerity measures required by the latest debt bailout with Eurogroup. Elections, required after Alexis Tsipras resigned last week, are scheduled for September 20, 2015, the third time Greeks will be going to the polls this year. ](/news/2015/08/28/greek-government-debt-crisis-interim-prime-minister-of-greece-vassiliki-thanou-christophilou-the-country-s-first-female-prime-minister-wa.md) _2017-08-27 03:42:55 (First version)_
-1. [Interim Prime Minister of Greece Vassiliki Thanou-Christophilou, the country's first female prime minister, was sworn in Thursday. The PM named her caretaker government cabinet that will oversee implementation of austerity measures required by the latest debt bailout with Eurogroup. Elections, required after Alexis Tsipras resigned last week, are scheduled for September 20, 2015, the third time Greeks will be going to the polls this year. ](/news/2015/08/28/interim-prime-minister-of-greece-vassiliki-thanou-christophilou-the-country-s-first-female-prime-minister-was-sworn-in-thursday-the-pm-na.md) _(Current version)_

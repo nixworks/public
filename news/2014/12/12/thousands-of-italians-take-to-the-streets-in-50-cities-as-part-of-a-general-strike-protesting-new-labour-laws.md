@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/12/thousands-of-italians-take-to-the-streets-in-50-cities-as-part-of-a-general-strike-protesting-new-labour-laws.html)  [JSON](/news/2014/12/12/thousands-of-italians-take-to-the-streets-in-50-cities-as-part-of-a-general-strike-protesting-new-labour-laws.json)  [XML](/news/2014/12/12/thousands-of-italians-take-to-the-streets-in-50-cities-as-part-of-a-general-strike-protesting-new-labour-laws.xml)  
+
 ### [2014-12-12](/news/2014/12/12/index.md)
 
+##### Italian
 # Thousands of Italians take to the streets in 50 cities as part of a general strike protesting new labour laws. 
 
 Thousands of Italians take to the streets to join a general strike against the government&#039;s labour law reforms.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-12-13/thousands-protest-against-italian-government/5965086)
 1. [Cover Image](http://www.abc.net.au/news/image/5965108-1x1-700x700.jpg)

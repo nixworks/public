@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/20/speed-skater-catriona-le-may-doan-won-the-lou-marsh-trophy-given-annually-to-canada-s-outstanding-athlete-she-edgted-out-dallas-mavericks.html)  [JSON](/news/2002/12/20/speed-skater-catriona-le-may-doan-won-the-lou-marsh-trophy-given-annually-to-canada-s-outstanding-athlete-she-edgted-out-dallas-mavericks.json)  [XML](/news/2002/12/20/speed-skater-catriona-le-may-doan-won-the-lou-marsh-trophy-given-annually-to-canada-s-outstanding-athlete-she-edgted-out-dallas-mavericks.xml)  
+
 ### [2002-12-20](/news/2002/12/20/index.md)
 
+##### skates
 # Speed skater Catriona Le May Doan won the Lou Marsh Trophy, given annually to Canada's outstanding athlete. She edgted out Dallas Mavericks guard Steve Nash.
 
 

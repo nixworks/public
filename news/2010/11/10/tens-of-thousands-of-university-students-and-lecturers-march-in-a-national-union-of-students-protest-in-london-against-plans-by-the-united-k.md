@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/10/tens-of-thousands-of-university-students-and-lecturers-march-in-a-national-union-of-students-protest-in-london-against-plans-by-the-united-k.html)  [JSON](/news/2010/11/10/tens-of-thousands-of-university-students-and-lecturers-march-in-a-national-union-of-students-protest-in-london-against-plans-by-the-united-k.json)  [XML](/news/2010/11/10/tens-of-thousands-of-university-students-and-lecturers-march-in-a-national-union-of-students-protest-in-london-against-plans-by-the-united-k.xml)  
+
 ### [2010-11-10](/news/2010/11/10/index.md)
 
+##### university student
 # Tens of thousands of university students and lecturers march in a National Union of Students protest in London against plans by the United Kingdom government to raise tuition fees to GBP9,000 per year in England. Violence occurs later with the building hosting the Conservative Party's campaign headquarters trashed by riots in the day 
 
 Thousands of students and lecturers are arriving in London for a rally against plans to almost treble tuition fees in England.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/education-11719929)
 2. [The Guardian](http://www.guardian.co.uk/education/2010/nov/10/student-fees-protest-conservative-hq)

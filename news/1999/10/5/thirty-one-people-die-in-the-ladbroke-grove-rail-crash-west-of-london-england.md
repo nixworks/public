@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/10/5/thirty-one-people-die-in-the-ladbroke-grove-rail-crash-west-of-london-england.html)  [JSON](/news/1999/10/5/thirty-one-people-die-in-the-ladbroke-grove-rail-crash-west-of-london-england.json)  [XML](/news/1999/10/5/thirty-one-people-die-in-the-ladbroke-grove-rail-crash-west-of-london-england.xml)  
+
 ### [1999-10-5](/news/1999/10/5/index.md)
 
+##### Ladbroke Grove rail crash
 #  Thirty-one people die in the Ladbroke Grove rail crash, west of London, England.
 
 

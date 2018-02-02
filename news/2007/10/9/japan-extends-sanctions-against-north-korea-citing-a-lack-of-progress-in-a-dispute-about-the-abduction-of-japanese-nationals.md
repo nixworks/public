@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/9/japan-extends-sanctions-against-north-korea-citing-a-lack-of-progress-in-a-dispute-about-the-abduction-of-japanese-nationals.html)  [JSON](/news/2007/10/9/japan-extends-sanctions-against-north-korea-citing-a-lack-of-progress-in-a-dispute-about-the-abduction-of-japanese-nationals.json)  [XML](/news/2007/10/9/japan-extends-sanctions-against-north-korea-citing-a-lack-of-progress-in-a-dispute-about-the-abduction-of-japanese-nationals.xml)  
+
 ### [2007-10-9](/news/2007/10/9/index.md)
 
+##### Japan
 #  Japan extends sanctions against North Korea, citing a lack of progress in a dispute about the abduction of Japanese nationals. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/7034954.stm)
 

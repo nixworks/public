@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/28/north-dakota-governor-jack-dalrymple-issues-an-
 
 ### [2016-11-28](/news/2016/11/28/index.md)
 
+##### Dakota Access Pipeline protests
 # North Dakota Governor Jack Dalrymple issues an executive order which expels thousands of Native American and environmental protesters who are camped on the federal property that is near the site of the oil pipeline project which they oppose, saying that the "emergency evacuation" is necessary to protect them from harsh winter conditions. 
 
 The estimated 2 to 3,000 protesters camped out in Cannon Ball, North Dakota, to protest the controversial Dakota Access pipeline must immediately evacuate, North Dakota Gov. Jack Dalrymple declared Monday night. Dalrymple said the camp&#x27;s semi-permanent shelters were not &quot;suitable for winter habitation&quot; in accordance with state building codes.

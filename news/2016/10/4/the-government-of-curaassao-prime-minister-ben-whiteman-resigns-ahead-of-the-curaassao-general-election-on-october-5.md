@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/4/the-government-of-curaassao-prime-minister-ben-w
 
 ### [2016-10-4](/news/2016/10/4/index.md)
 
+##### Curacao
 # The government of Curacao Prime Minister Ben Whiteman resigns ahead of the Curacao general election on October 5. 
 
 WILLEMSTAD - Prime Minister Dr. Bernhard Whiteman today submitted the resignation of his cabinet to Governor Lucille George-Wout. That is the tradition on the eve of new elections. Until a new government takes office, the government-Whiteman remains in caretaker form. The Cabinet which tendered its resignation this morning is the second cabinet that bore the&hellip;

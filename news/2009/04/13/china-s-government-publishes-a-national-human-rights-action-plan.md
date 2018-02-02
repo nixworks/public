@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/13/china-s-government-publishes-a-national-human-rights-action-plan.html)  [JSON](/news/2009/04/13/china-s-government-publishes-a-national-human-rights-action-plan.json)  [XML](/news/2009/04/13/china-s-government-publishes-a-national-human-rights-action-plan.xml)  
+
 ### [2009-04-13](/news/2009/04/13/index.md)
 
+##### China
 #  China's government publishes a National Human Rights Action Plan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2009-04/13/content_11177311.htm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/30/the-president-of-cameroon-paul-biya-sacks-prime-minister-ephraim-inoni-and-appoints-philemon-yang-to-the-role.html)  [JSON](/news/2009/06/30/the-president-of-cameroon-paul-biya-sacks-prime-minister-ephraim-inoni-and-appoints-philemon-yang-to-the-role.json)  [XML](/news/2009/06/30/the-president-of-cameroon-paul-biya-sacks-prime-minister-ephraim-inoni-and-appoints-philemon-yang-to-the-role.xml)  
+
 ### [2009-06-30](/news/2009/06/30/index.md)
 
+##### President of Cameroon
 #  The President of Cameroon Paul Biya sacks Prime Minister Ephraim Inoni and appoints Philemon Yang to the role. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5h4Ib05FRASnWQ2dXDwus6TZEh6PQD9959AVG0)
 

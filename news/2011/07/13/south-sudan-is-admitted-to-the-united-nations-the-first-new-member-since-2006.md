@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/13/south-sudan-is-admitted-to-the-united-nations-the-first-new-member-since-2006.html)  [JSON](/news/2011/07/13/south-sudan-is-admitted-to-the-united-nations-the-first-new-member-since-2006.json)  [XML](/news/2011/07/13/south-sudan-is-admitted-to-the-united-nations-the-first-new-member-since-2006.xml)  
+
 ### [2011-07-13](/news/2011/07/13/index.md)
 
+##### South Sudan
 # South Sudan is admitted to the United Nations, the first new member since 2006. 
 
 The United Nations General Assembly votes unanimously to accept South Sudan as its 193rd member.
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://www.bbc.co.uk/news/world-africa-14151390)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54076000/jpg/_54076735_012451391-1.jpg)

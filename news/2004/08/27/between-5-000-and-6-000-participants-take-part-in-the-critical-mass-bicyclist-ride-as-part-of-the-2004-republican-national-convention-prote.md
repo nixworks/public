@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/27/between-5-000-and-6-000-participants-take-part-in-the-critical-mass-bicyclist-ride-as-part-of-the-2004-republican-national-convention-prote.html)  [JSON](/news/2004/08/27/between-5-000-and-6-000-participants-take-part-in-the-critical-mass-bicyclist-ride-as-part-of-the-2004-republican-national-convention-prote.json)  [XML](/news/2004/08/27/between-5-000-and-6-000-participants-take-part-in-the-critical-mass-bicyclist-ride-as-part-of-the-2004-republican-national-convention-prote.xml)  
+
 ### [2004-08-27](/news/2004/08/27/index.md)
 
+##### Critical Mass
 #  Between 5,000 and 6,000 participants take part in the Critical Mass bicyclist ride as part of the 2004 Republican National Convention protest activity. The monthly NYC Critical Mass ride usually attracts about 1500 riders. Police eventually arrested 264 people for deliberately blockading roads during the event. This is the first time the NYPD made any significant arrests of Critical Mass participants. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NYC-IMC](http://nyc.indymedia.org/feature/display/104892/index.php)
 

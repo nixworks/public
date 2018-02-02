@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/12/kuwait-sentences-two-people-to-death-for-spying
 
 ### [2016-01-12](/news/2016/01/12/index.md)
 
+##### Kuwait
 # Kuwait sentences two people to death for spying for Iran and Hezbollah. 
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/27/film-director-roman-polanski-is-arrested-in-zurich-on-a-31-year-old-us-arrest-warrant.html)  [JSON](/news/2009/09/27/film-director-roman-polanski-is-arrested-in-zurich-on-a-31-year-old-us-arrest-warrant.json)  [XML](/news/2009/09/27/film-director-roman-polanski-is-arrested-in-zurich-on-a-31-year-old-us-arrest-warrant.xml)  
+
 ### [2009-09-27](/news/2009/09/27/index.md)
 
+##### Roman Polanski
 #  Film director Roman Polanski is arrested in Zurich on a 31-year-old US arrest warrant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Angola Press](http://www.portalangop.co.ao/motix/en_us/noticias/internacional/2009/8/39/Roman-Polanski-held-Zurich,81730528-edaa-4033-8393-f39d6f6825d8.html)
 2. [BBC](http://news.bbc.co.uk/1/hi/entertainment/8277176.stm)

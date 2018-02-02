@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/7/severe-flooding-on-the-japanese-island-of-kyushu
 
 ### [2017-07-7](/news/2017/07/7/index.md)
 
+##### 2017 Pacific typhoon season
 # Severe flooding on the Japanese island of Kyushu has caused seven deaths with twenty people unaccounted for. 
 
 At least seven people are dead and many are missing as the floods on the island of Kyushu continue.

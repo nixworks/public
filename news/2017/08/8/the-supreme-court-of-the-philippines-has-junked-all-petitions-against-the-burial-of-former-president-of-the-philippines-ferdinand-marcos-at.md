@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/8/the-supreme-court-of-the-philippines-has-junked-
 
 ### [2017-08-8](/news/2017/08/8/index.md)
 
+##### Burial of Ferdinand Marcos
 # The Supreme Court of the Philippines has junked all petitions against the burial of former President of the Philippines Ferdinand Marcos at the Libingan ng mga Bayani, re-affirming its earlier ruling on 8 November 2016. 
 
 

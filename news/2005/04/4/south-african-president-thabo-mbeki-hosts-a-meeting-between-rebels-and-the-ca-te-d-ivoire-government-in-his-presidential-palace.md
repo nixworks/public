@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/4/south-african-president-thabo-mbeki-hosts-a-meeting-between-rebels-and-the-ca-te-d-ivoire-government-in-his-presidential-palace.html)  [JSON](/news/2005/04/4/south-african-president-thabo-mbeki-hosts-a-meeting-between-rebels-and-the-ca-te-d-ivoire-government-in-his-presidential-palace.json)  [XML](/news/2005/04/4/south-african-president-thabo-mbeki-hosts-a-meeting-between-rebels-and-the-ca-te-d-ivoire-government-in-his-presidential-palace.xml)  
+
 ### [2005-04-4](/news/2005/04/4/index.md)
 
+##### South Africa
 #  South African president Thabo Mbeki hosts a meeting between rebels and the Cote d'Ivoire government in his presidential palace. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=86&art_id=vn20050404065153507C190642)
 2. [News24](http://www.news24.com/News24/Africa/News/0,,2-11-1447_1685042,00.html)

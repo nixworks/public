@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/19/governor-antonio-fazio-of-bank-of-italy-resigns-after-having-been-officially-put-under-investigation-for-insider-trading-and-following-he.html)  [JSON](/news/2005/12/19/governor-antonio-fazio-of-bank-of-italy-resigns-after-having-been-officially-put-under-investigation-for-insider-trading-and-following-he.json)  [XML](/news/2005/12/19/governor-antonio-fazio-of-bank-of-italy-resigns-after-having-been-officially-put-under-investigation-for-insider-trading-and-following-he.xml)  
+
 ### [2005-12-19](/news/2005/12/19/index.md)
 
+##### Antonio Fazio
 #  Governor Antonio Fazio of Bank of Italy resigns, after having been officially put under investigation for insider trading, and following heavy pressure from both government and opposition. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/4543012.stm)
 

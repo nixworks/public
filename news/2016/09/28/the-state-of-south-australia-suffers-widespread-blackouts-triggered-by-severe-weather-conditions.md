@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/28/the-state-of-south-australia-suffers-widespread
 
 ### [2016-09-28](/news/2016/09/28/index.md)
 
+##### South Australia
 # The state of South Australia suffers widespread blackouts triggered by severe weather conditions. 
 
 South Australians are preparing for one of the most extreme weather systems to hit the state in recent decades.

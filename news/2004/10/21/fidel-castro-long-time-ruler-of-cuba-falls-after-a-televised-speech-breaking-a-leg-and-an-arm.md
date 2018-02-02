@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/21/fidel-castro-long-time-ruler-of-cuba-falls-after-a-televised-speech-breaking-a-leg-and-an-arm.html)  [JSON](/news/2004/10/21/fidel-castro-long-time-ruler-of-cuba-falls-after-a-televised-speech-breaking-a-leg-and-an-arm.json)  [XML](/news/2004/10/21/fidel-castro-long-time-ruler-of-cuba-falls-after-a-televised-speech-breaking-a-leg-and-an-arm.xml)  
+
 ### [2004-10-21](/news/2004/10/21/index.md)
 
+##### Fidel Castro
 #  Fidel Castro, long-time ruler of Cuba, falls after a televised speech, breaking a leg and an arm. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3761748.stm)
 

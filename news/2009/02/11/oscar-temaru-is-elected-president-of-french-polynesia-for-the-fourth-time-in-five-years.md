@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/11/oscar-temaru-is-elected-president-of-french-polynesia-for-the-fourth-time-in-five-years.html)  [JSON](/news/2009/02/11/oscar-temaru-is-elected-president-of-french-polynesia-for-the-fourth-time-in-five-years.json)  [XML](/news/2009/02/11/oscar-temaru-is-elected-president-of-french-polynesia-for-the-fourth-time-in-five-years.xml)  
+
 ### [2009-02-11](/news/2009/02/11/index.md)
 
+##### Oscar Temaru
 #  Oscar Temaru is elected President of French Polynesia for the fourth time in five years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNZI](http://www.rnzi.com/pages/news.php?op=read&id=44774)
 

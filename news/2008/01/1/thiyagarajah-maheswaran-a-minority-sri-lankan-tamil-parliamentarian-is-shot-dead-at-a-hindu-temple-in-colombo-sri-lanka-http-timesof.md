@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2008/01/1/thiyagarajah-maheswaran-a-minority-sri-lankan-tamil-parliamentarian-is-shot-dead-at-a-hindu-temple-in-colombo-sri-lanka-http-timesof.html)  [JSON](/news/2008/01/1/thiyagarajah-maheswaran-a-minority-sri-lankan-tamil-parliamentarian-is-shot-dead-at-a-hindu-temple-in-colombo-sri-lanka-http-timesof.json)  [XML](/news/2008/01/1/thiyagarajah-maheswaran-a-minority-sri-lankan-tamil-parliamentarian-is-shot-dead-at-a-hindu-temple-in-colombo-sri-lanka-http-timesof.xml)  
+
 ### [2008-01-1](/news/2008/01/1/index.md)
 
+##### Thiyagarajah Maheswaran
 #  Thiyagarajah Maheswaran, a minority Sri Lankan Tamil parliamentarian, is shot dead at a Hindu temple in Colombo, Sri Lanka.([http:--timesofindia.indiatimes.com-Sri_Lankan_Tamil_MP_shot_dead_at_Hindu_temple_in_Colombo-articleshow-2666314.cms Times of India])
 
 

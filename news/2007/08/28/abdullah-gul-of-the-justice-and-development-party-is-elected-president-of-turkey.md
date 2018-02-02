@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/28/abdullah-gul-of-the-justice-and-development-party-is-elected-president-of-turkey.html)  [JSON](/news/2007/08/28/abdullah-gul-of-the-justice-and-development-party-is-elected-president-of-turkey.json)  [XML](/news/2007/08/28/abdullah-gul-of-the-justice-and-development-party-is-elected-president-of-turkey.xml)  
+
 ### [2007-08-28](/news/2007/08/28/index.md)
 
+##### Abdullah Gl
 #  Abdullah Gl of the Justice and Development Party is elected President of Turkey. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/6966216.stm)
 

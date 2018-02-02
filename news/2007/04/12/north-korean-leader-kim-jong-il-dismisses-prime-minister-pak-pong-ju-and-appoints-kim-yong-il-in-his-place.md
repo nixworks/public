@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/12/north-korean-leader-kim-jong-il-dismisses-prime-minister-pak-pong-ju-and-appoints-kim-yong-il-in-his-place.html)  [JSON](/news/2007/04/12/north-korean-leader-kim-jong-il-dismisses-prime-minister-pak-pong-ju-and-appoints-kim-yong-il-in-his-place.json)  [XML](/news/2007/04/12/north-korean-leader-kim-jong-il-dismisses-prime-minister-pak-pong-ju-and-appoints-kim-yong-il-in-his-place.xml)  
+
 ### [2007-04-12](/news/2007/04/12/index.md)
 
+##### North Korea
 #  North Korean leader Kim Jong-il dismisses Prime Minister Pak Pong-ju and appoints Kim Yong-il in his place. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [KCNA](http://www.kcna.co.jp/item/2007/200704/news04/12.htm#1)
 2. [News Limited](http://www.news.com.au/story/0,10117,21544515-2,00.html)

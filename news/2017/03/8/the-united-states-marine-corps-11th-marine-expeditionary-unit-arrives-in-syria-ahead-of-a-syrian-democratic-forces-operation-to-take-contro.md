@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/8/the-united-states-marine-corps-11th-marine-exped
 
 ### [2017-03-8](/news/2017/03/8/index.md)
 
+##### Syrian Civil War
 # The United States Marine Corps' 11th Marine Expeditionary Unit arrives in Syria ahead of a Syrian Democratic Forces operation to take control of ISIL's de facto capital of Raqqa. 
 
 The deployment marks a new escalation in the war in Syria.

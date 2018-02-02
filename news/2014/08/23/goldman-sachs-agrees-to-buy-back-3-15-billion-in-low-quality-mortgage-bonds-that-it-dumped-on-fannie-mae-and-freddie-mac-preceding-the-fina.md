@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/23/goldman-sachs-agrees-to-buy-back-3-15-billion-in-low-quality-mortgage-bonds-that-it-dumped-on-fannie-mae-and-freddie-mac-preceding-the-fina.html)  [JSON](/news/2014/08/23/goldman-sachs-agrees-to-buy-back-3-15-billion-in-low-quality-mortgage-bonds-that-it-dumped-on-fannie-mae-and-freddie-mac-preceding-the-fina.json)  [XML](/news/2014/08/23/goldman-sachs-agrees-to-buy-back-3-15-billion-in-low-quality-mortgage-bonds-that-it-dumped-on-fannie-mae-and-freddie-mac-preceding-the-fina.xml)  
+
 ### [2014-08-23](/news/2014/08/23/index.md)
 
+##### Goldman Sachs
 # Goldman Sachs agrees to buy back $3.15 billion in low quality mortgage bonds that it dumped on Fannie Mae and Freddie Mac preceding the financial crisis of 2007-08. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [New York Times](http://dealbook.nytimes.com/2014/08/22/goldman-to-pay-3-15-billion-to-settle-mortgage-claims/?_php=true&_type=blogs&_r=0)
 

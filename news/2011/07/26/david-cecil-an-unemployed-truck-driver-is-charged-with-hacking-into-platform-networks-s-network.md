@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/26/david-cecil-an-unemployed-truck-driver-is-charged-with-hacking-into-platform-networks-s-network.html)  [JSON](/news/2011/07/26/david-cecil-an-unemployed-truck-driver-is-charged-with-hacking-into-platform-networks-s-network.json)  [XML](/news/2011/07/26/david-cecil-an-unemployed-truck-driver-is-charged-with-hacking-into-platform-networks-s-network.xml)  
+
 ### [2011-07-26](/news/2011/07/26/index.md)
 
+##### hacking
 # David Cecil, an unemployed truck driver, is charged with hacking into Platform Networks's network. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2011/07/26/ap/asia/main20083884.shtml)
 2. [Kansas City Star](http://www.kansascity.com/2011/07/26/3038902/man-charged-with-hacking-into.html)

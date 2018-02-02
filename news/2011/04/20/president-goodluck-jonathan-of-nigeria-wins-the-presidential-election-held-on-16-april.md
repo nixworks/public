@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/20/president-goodluck-jonathan-of-nigeria-wins-the-presidential-election-held-on-16-april.html)  [JSON](/news/2011/04/20/president-goodluck-jonathan-of-nigeria-wins-the-presidential-election-held-on-16-april.json)  [XML](/news/2011/04/20/president-goodluck-jonathan-of-nigeria-wins-the-presidential-election-held-on-16-april.xml)  
+
 ### [2011-04-20](/news/2011/04/20/index.md)
 
+##### President
 # President Goodluck Jonathan of Nigeria wins the presidential election held on 16 April. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [This Day Live](http://www.thisdaylive.com/articles/it-s-official-jonathan-declared-president-elect/89905/)
 

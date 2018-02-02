@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/2/the-republic-of-china-allows-financial-investment-from-mainland-china-for-the-first-time-since-1949.html)  [JSON](/news/2009/05/2/the-republic-of-china-allows-financial-investment-from-mainland-china-for-the-first-time-since-1949.json)  [XML](/news/2009/05/2/the-republic-of-china-allows-financial-investment-from-mainland-china-for-the-first-time-since-1949.xml)  
+
 ### [2009-05-2](/news/2009/05/2/index.md)
 
+##### Taiwan
 #  The Republic of China allows financial investment from mainland China for the first time since 1949. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times](http://business.timesonline.co.uk/tol/business/economics/article6199775.ece)
 

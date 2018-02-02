@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/24/imprisoned-u-s-serviceman-bradley-manning-s-civilian-lawyer-argues-the-u-s-government-is-deliberately-attempting-to-prevent-his-client-fro.html)  [JSON](/news/2012/06/24/imprisoned-u-s-serviceman-bradley-manning-s-civilian-lawyer-argues-the-u-s-government-is-deliberately-attempting-to-prevent-his-client-fro.json)  [XML](/news/2012/06/24/imprisoned-u-s-serviceman-bradley-manning-s-civilian-lawyer-argues-the-u-s-government-is-deliberately-attempting-to-prevent-his-client-fro.xml)  
+
 ### [2012-06-24](/news/2012/06/24/index.md)
 
+##### Bradley Manning
 # Imprisoned U.S. serviceman Bradley Manning's civilian lawyer argues the U.S. government is deliberately attempting to prevent his client from receiving a fair trial. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/jun/24/bradley-manning-lawyers-accuse-prosecutors)
 

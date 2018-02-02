@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/24/retail-chain-jc-penney-announces-plans-to-close
 
 ### [2017-02-24](/news/2017/02/24/index.md)
 
+##### JC Penney
 # Retail chain JC Penney announces plans to close between 130 and 140 stores, as well as 2 distribution centers, amid sagging store sales. 
 
 In January, J.C. Penney CEO Marvin Ellison said the department store chain was getting ready to downsize its fleet.

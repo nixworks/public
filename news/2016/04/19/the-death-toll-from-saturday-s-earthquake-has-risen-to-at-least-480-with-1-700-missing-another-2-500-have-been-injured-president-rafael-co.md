@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/19/the-death-toll-from-saturday-s-earthquake-has-r
 
 ### [2016-04-19](/news/2016/04/19/index.md)
 
+##### earthquake
 # The death toll from Saturday's earthquake has risen to at least 480 with 1,700 missing. Another 2,500 have been injured. President Rafael Correa states it is the worst disaster in Ecuador in seven decades, and the reconstruction will have a "huge economic impact" on the country. 
 
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/12/researchers-from-konkoly-observatory-in-budapes
 
 ### [2016-05-12](/news/2016/05/12/index.md)
 
+##### Konkoly Observatory
 # Researchers from Konkoly Observatory in Budapest, Hungary, reveal that (225088) 2007 OR10 is the third largest dwarf planet in the solar system. 
 
 
@@ -21,7 +22,7 @@ Formats: [HTML](/news/2016/05/12/researchers-from-konkoly-observatory-in-budapes
 ### Related:
 
 1. [The Momentum Movement holds a pro-EU, anti-Russia march attended by approximately 10,000 in Budapest, Hungary, chanting "Europe, not Moscow" in support of the EU and against Prime Minister Viktor Orban. ](/news/2017/05/1/the-momentum-movement-holds-a-pro-eu-anti-russia-march-attended-by-approximately-10-000-in-budapest-hungary-chanting-aeurope-not-mosco.md) _Context: Budapest, Hungary_
-2. [Astronomers announce the discovery of V774104, the most distant object yet found in the solar system, a dwarf planet orbiting at three times the distance of Pluto. ](/news/2015/11/11/astronomers-announce-the-discovery-of-v774104-the-most-distant-object-yet-found-in-the-solar-system-a-dwarf-planet-orbiting-at-three-times.md) _Context: Solar System, dwarf planet_
+2. [Astronomers announce the discovery of V774104, the most distant object yet found in the solar system, a dwarf planet orbiting at three times the distance of Pluto. ](/news/2015/11/11/astronomers-announce-the-discovery-of-v774104-the-most-distant-object-yet-found-in-the-solar-system-a-dwarf-planet-orbiting-at-three-times.md) _Context: dwarf planet, solar system_
 3. [Three people are killed in a stampede at a three-storey nightclub in the Hungarian capital Budapest. ](/news/2011/01/16/three-people-are-killed-in-a-stampede-at-a-three-storey-nightclub-in-the-hungarian-capital-budapest.md) _Context: Budapest, Hungary_
-4. [ The International Astronomical Union classifies Haumea as the fifth dwarf planet in the Solar System and names it after the Hawaiian goddess of childbirth and fertility. ](/news/2008/09/17/the-international-astronomical-union-classifies-haumea-as-the-fifth-dwarf-planet-in-the-solar-system-and-names-it-after-the-hawaiian-goddes.md) _Context: Solar System, dwarf planet_
-5. [ Hungarian police use water cannon and tear gas to disperse a crowd of anti-government protestors in Budapest. ](/news/2007/03/15/hungarian-police-use-water-cannon-and-tear-gas-to-disperse-a-crowd-of-anti-government-protestors-in-budapest.md) _Context: Budapest, Hungary_
+4. [ Hungarian police use water cannon and tear gas to disperse a crowd of anti-government protestors in Budapest. ](/news/2007/03/15/hungarian-police-use-water-cannon-and-tear-gas-to-disperse-a-crowd-of-anti-government-protestors-in-budapest.md) _Context: Budapest, Hungary_
+5. [ 2006 protests in Hungary: demonstrations continue in Hungary peacefully to enforce the resignation of the Gyurcsny-government. The demonstrators expressed their regret on the vandalism done at the Hungarian Television's headquarters last night. In the meantime, farmers announced that they will close roads in the countryside and around Budapest. ](/news/2006/09/19/2006-protests-in-hungary-demonstrations-continue-in-hungary-peacefully-to-enforce-the-resignation-of-the-gyurcsany-government-the-demonst.md) _Context: Budapest, Hungary_

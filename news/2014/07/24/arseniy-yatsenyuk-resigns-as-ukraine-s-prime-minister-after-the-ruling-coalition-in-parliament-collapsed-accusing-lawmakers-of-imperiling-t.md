@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/07/24/arseniy-yatsenyuk-resigns-as-ukraine-s-prime-minister-after-the-ruling-coalition-in-parliament-collapsed-accusing-lawmakers-of-imperiling-t.html)  [JSON](/news/2014/07/24/arseniy-yatsenyuk-resigns-as-ukraine-s-prime-minister-after-the-ruling-coalition-in-parliament-collapsed-accusing-lawmakers-of-imperiling-t.json)  [XML](/news/2014/07/24/arseniy-yatsenyuk-resigns-as-ukraine-s-prime-minister-after-the-ruling-coalition-in-parliament-collapsed-accusing-lawmakers-of-imperiling-t.xml)  
+
 ### [2014-07-24](/news/2014/07/24/index.md)
 
+##### Arseniy Yatsenyuk
 # Arseniy Yatsenyuk resigns as Ukraine's Prime minister after the ruling coalition in parliament collapsed, accusing lawmakers of imperiling the nation by putting politics above urgent needs during wartime. 
 
 Ukraine says two warplanes downed Wednesday were out of reach of shoulder-fired missiles.
 
 
-### Source:
+### Sources:
 
-1. [Washington Post](http://www.washingtonpost.com/world/intense-battles-continue-in-eastern-ukraineaustralia-to-send-police-to-guard-crash-site/2014/07/24/2c6bc1c0-1315-11e4-8936-26932bcfd6ed_story.html)
+1. [Washington Post](https://www.washingtonpost.com/world/intense-battles-continue-in-eastern-ukraineaustralia-to-send-police-to-guard-crash-site/2014/07/24/2c6bc1c0-1315-11e4-8936-26932bcfd6ed_story.html)
 
 ### Related:
 

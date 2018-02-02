@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/05/8/thousands-of-people-march-in-mexico-city-to-protest-the-38-000-people-that-have-died-in-drug-related-violence-since-the-beginning-of-the-mex.html)  [JSON](/news/2011/05/8/thousands-of-people-march-in-mexico-city-to-protest-the-38-000-people-that-have-died-in-drug-related-violence-since-the-beginning-of-the-mex.json)  [XML](/news/2011/05/8/thousands-of-people-march-in-mexico-city-to-protest-the-38-000-people-that-have-died-in-drug-related-violence-since-the-beginning-of-the-mex.xml)  
+
 ### [2011-05-8](/news/2011/05/8/index.md)
 
+##### Mexico City
 # Thousands of people march in Mexico City to protest the 38,000 people that have died in drug-related violence since the beginning of the Mexican Drug War in 2006. 
 
 Thousands of Mexicans on Sunday marched into the capital city to protest the wave of killing that has claimed 38,000 lives since President Felipe Calderon launched his war on drug gangs in late 2006.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/05/08/us-mexico-march-idUSTRE74729020110508)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20110508&t=2&i=408187960&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-08T191151Z_01_BTRE7471HBV00_RTROPTP_0_MEXICO)
+1. [Reuters](https://www.reuters.com/article/2011/05/08/us-mexico-march-idUSTRE74729020110508)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20110508&t=2&i=408187960&w=&fh=545px&fw=&ll=&pl=&sq=&r=2011-05-08T191151Z_01_BTRE7471HBV00_RTROPTP_0_MEXICO)
 
 ### Related:
 

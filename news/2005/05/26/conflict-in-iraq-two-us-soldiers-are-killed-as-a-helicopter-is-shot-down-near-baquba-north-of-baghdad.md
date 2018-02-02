@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/26/conflict-in-iraq-two-us-soldiers-are-killed-as-a-helicopter-is-shot-down-near-baquba-north-of-baghdad.html)  [JSON](/news/2005/05/26/conflict-in-iraq-two-us-soldiers-are-killed-as-a-helicopter-is-shot-down-near-baquba-north-of-baghdad.json)  [XML](/news/2005/05/26/conflict-in-iraq-two-us-soldiers-are-killed-as-a-helicopter-is-shot-down-near-baquba-north-of-baghdad.xml)  
+
 ### [2005-05-26](/news/2005/05/26/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Two US Soldiers are killed as a helicopter is shot down near Baquba, North of Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4585169.stm)
 

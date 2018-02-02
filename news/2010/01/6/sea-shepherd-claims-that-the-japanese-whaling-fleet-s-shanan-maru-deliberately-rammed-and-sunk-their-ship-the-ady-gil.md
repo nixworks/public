@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/6/sea-shepherd-claims-that-the-japanese-whaling-fleet-s-shanan-maru-deliberately-rammed-and-sunk-their-ship-the-ady-gil.html)  [JSON](/news/2010/01/6/sea-shepherd-claims-that-the-japanese-whaling-fleet-s-shanan-maru-deliberately-rammed-and-sunk-their-ship-the-ady-gil.json)  [XML](/news/2010/01/6/sea-shepherd-claims-that-the-japanese-whaling-fleet-s-shanan-maru-deliberately-rammed-and-sunk-their-ship-the-ady-gil.xml)  
+
 ### [2010-01-6](/news/2010/01/6/index.md)
 
+##### Sea Shepherd
 # Sea Shepherd claims that the Japanese whaling fleet's "Shonan Maru" deliberately rammed and sunk their ship, the "Ady Gil".
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5j2jlXp3kBCu-OIBIbAwYzBWrLyzg)
 2. [euronews](http://www.euronews.net/2010/01/06/anti-whalers-say-protest-boat-sunk-by-japanese/)

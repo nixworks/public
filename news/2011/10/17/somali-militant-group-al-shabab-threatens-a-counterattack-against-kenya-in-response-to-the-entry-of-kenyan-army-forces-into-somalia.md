@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/17/somali-militant-group-al-shabab-threatens-a-counterattack-against-kenya-in-response-to-the-entry-of-kenyan-army-forces-into-somalia.html)  [JSON](/news/2011/10/17/somali-militant-group-al-shabab-threatens-a-counterattack-against-kenya-in-response-to-the-entry-of-kenyan-army-forces-into-somalia.json)  [XML](/news/2011/10/17/somali-militant-group-al-shabab-threatens-a-counterattack-against-kenya-in-response-to-the-entry-of-kenyan-army-forces-into-somalia.xml)  
+
 ### [2011-10-17](/news/2011/10/17/index.md)
 
+##### Somalia
 # Somali militant group Al-Shabab threatens a counterattack against Kenya in response to the entry of Kenyan Army forces into Somalia. 
 
 Warning comes after hundreds of Kenyan troops crossed into Somalia to pursue al-Shabab fighters.
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://english.aljazeera.net/news/africa/2011/10/20111017171543493140.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/8/31/201183112149417790_20.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/18/nato-forces-claim-to-have-foiled-a-plot-to-attack-an-international-donor-conference-in-kabul-due-to-feature-leaders-from-more-than-60-nation.html)  [JSON](/news/2010/07/18/nato-forces-claim-to-have-foiled-a-plot-to-attack-an-international-donor-conference-in-kabul-due-to-feature-leaders-from-more-than-60-nation.json)  [XML](/news/2010/07/18/nato-forces-claim-to-have-foiled-a-plot-to-attack-an-international-donor-conference-in-kabul-due-to-feature-leaders-from-more-than-60-nation.xml)  
+
 ### [2010-07-18](/news/2010/07/18/index.md)
 
+##### NATO
 # NATO forces claim to have foiled a plot to attack an international donor conference in Kabul due to feature leaders from more than 60 nations. 
 
 Suspects arrested ahead of donor meeting set to lay out security handover to Afghan forces.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/201071823137256406.html)
 1. [Cover Image](http://www.aljazeera.com)

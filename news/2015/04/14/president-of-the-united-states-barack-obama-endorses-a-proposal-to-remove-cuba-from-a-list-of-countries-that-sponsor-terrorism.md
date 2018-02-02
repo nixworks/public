@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2015/04/14/president-of-the-united-states-barack-obama-endorses-a-proposal-to-remove-cuba-from-a-list-of-countries-that-sponsor-terrorism.html)  [JSON](/news/2015/04/14/president-of-the-united-states-barack-obama-endorses-a-proposal-to-remove-cuba-from-a-list-of-countries-that-sponsor-terrorism.json)  [XML](/news/2015/04/14/president-of-the-united-states-barack-obama-endorses-a-proposal-to-remove-cuba-from-a-list-of-countries-that-sponsor-terrorism.xml)  
+
 ### [2015-04-14](/news/2015/04/14/index.md)
 
+##### U.S. President
 # President of the United States Barack Obama endorses a proposal to remove Cuba from a list of countries that sponsor terrorism. 
 
+President Obama intends to remove Cuba from the government’s list of nations that sponsor terrorism, eliminating a major obstacle to the restoration of diplomatic relations after decades of hostilities.
 
 
+### Sources:
 
-### Source:
-
-1. [New York Times](http://www.nytimes.com/2015/04/15/world/americas/obama-cuba-remove-from-state-terror-list.html)
+1. [New York Times](https://www.nytimes.com/2015/04/15/world/americas/obama-cuba-remove-from-state-terror-list.html)
+1. [Cover Image](https://static01.nyt.com/images/2015/04/15/world/15CUBA-WEB/15CUBA-WEB-facebookJumbo-v2.jpg)
 
 ### Related:
 

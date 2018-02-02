@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/4/protesters-storm-the-state-security-intelligence-building-in-alexandria-egypt-after-police-officers-had-previously-fired-on-the-crowd.html)  [JSON](/news/2011/03/4/protesters-storm-the-state-security-intelligence-building-in-alexandria-egypt-after-police-officers-had-previously-fired-on-the-crowd.json)  [XML](/news/2011/03/4/protesters-storm-the-state-security-intelligence-building-in-alexandria-egypt-after-police-officers-had-previously-fired-on-the-crowd.xml)  
+
 ### [2011-03-4](/news/2011/03/4/index.md)
 
+##### Protesters
 # Protesters storm the State Security Intelligence building in Alexandria, Egypt after police officers had previously fired on the crowd. 
 
 Protesters in Alexandria enter state security headquarters, saying officers destroyed documents to cover up past abuses.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net//news/middleeast/2011/03/201134228359128.html)
 2. [BBC](http://www.bbc.co.uk/news/world-middle-east-12654714)

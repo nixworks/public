@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/9/montenegro-and-macedonia-recognize-kosovo-bringing-the-total-number-of-united-nations-members-recognising-kosovo-to-fifty.html)  [JSON](/news/2008/10/9/montenegro-and-macedonia-recognize-kosovo-bringing-the-total-number-of-united-nations-members-recognising-kosovo-to-fifty.json)  [XML](/news/2008/10/9/montenegro-and-macedonia-recognize-kosovo-bringing-the-total-number-of-united-nations-members-recognising-kosovo-to-fifty.xml)  
+
 ### [2008-10-9](/news/2008/10/9/index.md)
 
+##### Montenegro
 #  Montenegro and Macedonia recognize Kosovo, bringing the total number of United Nations members recognising Kosovo to fifty. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [International Herald Tribune](http://www.iht.com/articles/ap/2008/10/09/europe/EU-Montenegro-Kosovo-Serbia.php)
 

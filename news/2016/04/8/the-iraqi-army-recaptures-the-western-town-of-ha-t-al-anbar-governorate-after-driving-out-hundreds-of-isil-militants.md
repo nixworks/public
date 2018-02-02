@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/8/the-iraqi-army-recaptures-the-western-town-of-ha
 
 ### [2016-04-8](/news/2016/04/8/index.md)
 
+##### Iraqi Civil War (2014-present)
 # The Iraqi Army recaptures the western town of Hit, Al Anbar Governorate, after driving out hundreds of ISIL militants. 
 
 Iraqi forces backed by U.S.-led coalition air strikes reached the center of the western town of Hit, dislodging Islamic State militants and evacuating thousands of civilians, state television said on Friday.

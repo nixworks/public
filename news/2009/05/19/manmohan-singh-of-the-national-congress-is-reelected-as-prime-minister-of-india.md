@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/19/manmohan-singh-of-the-national-congress-is-reelected-as-prime-minister-of-india.html)  [JSON](/news/2009/05/19/manmohan-singh-of-the-national-congress-is-reelected-as-prime-minister-of-india.json)  [XML](/news/2009/05/19/manmohan-singh-of-the-national-congress-is-reelected-as-prime-minister-of-india.xml)  
+
 ### [2009-05-19](/news/2009/05/19/index.md)
 
+##### Manmohan Singh
 #  Manmohan Singh of the National Congress is reelected as Prime Minister of India. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5iDWXHBMTp0meYXRxgeACjBoUE7_Q)
 

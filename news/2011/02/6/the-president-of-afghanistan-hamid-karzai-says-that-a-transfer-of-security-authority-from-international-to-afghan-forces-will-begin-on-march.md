@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/02/6/the-president-of-afghanistan-hamid-karzai-says-that-a-transfer-of-security-authority-from-international-to-afghan-forces-will-begin-on-march.html)  [JSON](/news/2011/02/6/the-president-of-afghanistan-hamid-karzai-says-that-a-transfer-of-security-authority-from-international-to-afghan-forces-will-begin-on-march.json)  [XML](/news/2011/02/6/the-president-of-afghanistan-hamid-karzai-says-that-a-transfer-of-security-authority-from-international-to-afghan-forces-will-begin-on-march.xml)  
+
 ### [2011-02-6](/news/2011/02/6/index.md)
 
+##### Afghanistan President
 # The President of Afghanistan Hamid Karzai says that a transfer of security authority from international to Afghan forces will begin on March 21. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2011/WORLD/asiapcf/02/06/afghanistan.security/index.html?eref=edition)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/4/english-computer-scientist-sir-timothy-john-bern
 
 ### [2017-04-4](/news/2017/04/4/index.md)
 
+##### Sir Timothy John Berners-Lee
 #  English computer scientist Sir Timothy John Berners-Lee is awarded the 2016 A.M. Turing Award for inventing the World Wide Web, the first web browser, and the protocols and algorithms that allow the Web to scale. 
 
 
@@ -18,4 +19,4 @@ Formats: [HTML](/news/2017/04/4/english-computer-scientist-sir-timothy-john-bern
 2. [ Tim Berners-Lee issues an apology for the unnecessary "--" in URLs he designed for the World Wide Web. ](/news/2009/10/14/tim-berners-lee-issues-an-apology-for-the-unnecessary-in-urls-he-designed-for-the-world-wide-web.md) _Context: Sir Timothy John Berners-Lee, World Wide Web_
 3. [ Shuji Nakamura is awarded the 2nd Millennium Technology Prize for his work on blue and white LEDs. The first recipient of the award was Tim Berners-Lee, developer of the World Wide Web. ](/news/2006/09/8/shuji-nakamura-is-awarded-the-2nd-millennium-technology-prize-for-his-work-on-blue-and-white-leds-the-first-recipient-of-the-award-was-tim.md) _Context: Sir Timothy John Berners-Lee, World Wide Web_
 4. [The Association for Computing Machinery awards the 2015 A.M. Turing Award to Whitfield Diffie and Martin Hellman for the invention of public-key cryptography and digital signatures which revolutionized computer security. ](/news/2016/03/1/the-association-for-computing-machinery-awards-the-2015-a-m-turing-award-to-whitfield-diffie-and-martin-hellman-for-the-invention-of-public.md) _Context: 2016 A.M. Turing Award_
-5. [The United States Federal Communications Commission rejects privacy advocacy group Consumer Watchdog's petition to make it illegal for Internet companies like Google, Facebook and ad providers to ignore "Do Not Track" browser settings. ](/news/2015/11/6/the-united-states-federal-communications-commission-rejects-privacy-advocacy-group-consumer-watchdog-s-petition-to-make-it-illegal-for-inter.md) _Context: web browser_
+5. [Google vice president Sundar Pichai officially claims that Google Chrome is the most used web browser in the world. ](/news/2012/06/28/google-vice-president-sundar-pichai-officially-claims-that-google-chrome-is-the-most-used-web-browser-in-the-world.md) _Context: web browser_

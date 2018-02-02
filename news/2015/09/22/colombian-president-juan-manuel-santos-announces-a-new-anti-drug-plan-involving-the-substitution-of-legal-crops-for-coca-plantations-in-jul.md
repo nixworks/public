@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/22/colombian-president-juan-manuel-santos-announces-a-new-anti-drug-plan-involving-the-substitution-of-legal-crops-for-coca-plantations-in-jul.html)  [JSON](/news/2015/09/22/colombian-president-juan-manuel-santos-announces-a-new-anti-drug-plan-involving-the-substitution-of-legal-crops-for-coca-plantations-in-jul.json)  [XML](/news/2015/09/22/colombian-president-juan-manuel-santos-announces-a-new-anti-drug-plan-involving-the-substitution-of-legal-crops-for-coca-plantations-in-jul.xml)  
+
 ### [2015-09-22](/news/2015/09/22/index.md)
 
+##### Colombian President
 # Colombian President Juan Manuel Santos announces a new anti-drug plan involving the substitution of legal crops for coca plantations. In July, the National Narcotics Council suspended the United States-backed aerial spraying of the crop after the World Health Organization reclassified glyphosate, the herbicide used, as a probable carcinogen. 
 
 Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [AP via ABC News](http://abcnews.go.com/International/wireStory/colombia-revamps-drug-policy-us-eradication-program-ends-33955811)
 2. [COHA](http://www.coha.org/a-new-challenge-for-the-santos-administration-colombias-end-to-the-aerial-coca-eradication-program/)

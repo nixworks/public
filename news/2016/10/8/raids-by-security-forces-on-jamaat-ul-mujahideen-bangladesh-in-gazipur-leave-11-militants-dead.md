@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/8/raids-by-security-forces-on-jamaat-ul-mujahideen
 
 ### [2016-10-8](/news/2016/10/8/index.md)
 
+##### Terrorism in Bangladesh
 # Raids by security forces on Jamaat-ul-Mujahideen Bangladesh in Gazipur leave 11 militants dead. 
 
 Bangladeshi security officials have killed 11 suspected militants of the banned Jamaat-ul-Mujahideen Bangladesh (JMB) in three separate raids as the country reinforced its...

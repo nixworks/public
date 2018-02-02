@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/6/ron-prosor-is-appointed-israel-s-ambassador-to-the-united-nations.html)  [JSON](/news/2011/03/6/ron-prosor-is-appointed-israel-s-ambassador-to-the-united-nations.json)  [XML](/news/2011/03/6/ron-prosor-is-appointed-israel-s-ambassador-to-the-united-nations.xml)  
+
 ### [2011-03-6](/news/2011/03/6/index.md)
 
+##### Ron Prosor
 # Ron Prosor is appointed Israel's ambassador to the United Nations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/diplomacy-defense/ron-prosor-named-israel-s-new-ambassador-to-the-un-1.347464)
 2. [Ynetnews](http://www.ynetnews.com/articles/0,7340,L-4038215,00.html)

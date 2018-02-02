@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/15/a-group-of-californians-criticize-their-state-g
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
+##### Partition and secession in California
 # A group of Californians criticize their state government and declare their desire to form a new U.S. state called New California. 
 
 

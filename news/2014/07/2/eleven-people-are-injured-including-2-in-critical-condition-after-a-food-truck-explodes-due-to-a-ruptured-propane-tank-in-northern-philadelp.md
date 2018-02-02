@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/07/2/eleven-people-are-injured-including-2-in-critical-condition-after-a-food-truck-explodes-due-to-a-ruptured-propane-tank-in-northern-philadelp.html)  [JSON](/news/2014/07/2/eleven-people-are-injured-including-2-in-critical-condition-after-a-food-truck-explodes-due-to-a-ruptured-propane-tank-in-northern-philadelp.json)  [XML](/news/2014/07/2/eleven-people-are-injured-including-2-in-critical-condition-after-a-food-truck-explodes-due-to-a-ruptured-propane-tank-in-northern-philadelp.xml)  
+
 ### [2014-07-2](/news/2014/07/2/index.md)
 
+##### food truck
 # Eleven people are injured including 2 in critical condition after a food truck explodes due to a ruptured propane tank in northern Philadelphia. 
 
 A propane tank on a food truck in Philadelphia exploded into a fireball, critically injuring a mother and daughter and sending at least nine others to the hospital, police said.
 
 
-### Source:
+### Sources:
 
 1. [FOX](http://www.foxnews.com/us/2014/07/01/12-people-injured-after-food-truck-explodes-in-philadelphia/)
 1. [Cover Image](http://a57.foxnews.com/media2.foxnews.com/thumbnails/i/070214/0/0/070214_foodtruck_explosion_640.jpg?ve=1)

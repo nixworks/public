@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/11/9/the-union-solidarity-and-development-party-is-predicting-a-sweeping-victory-in-the-burmese-general-election-which-overseas-observers-have-ca.html)  [JSON](/news/2010/11/9/the-union-solidarity-and-development-party-is-predicting-a-sweeping-victory-in-the-burmese-general-election-which-overseas-observers-have-ca.json)  [XML](/news/2010/11/9/the-union-solidarity-and-development-party-is-predicting-a-sweeping-victory-in-the-burmese-general-election-which-overseas-observers-have-ca.xml)  
+
 ### [2010-11-9](/news/2010/11/9/index.md)
 
+##### Union Solidarity and Development Party
 # The Union Solidarity and Development Party is predicting a sweeping victory in the Burmese general election which overseas observers have called a sham. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6A600V20101109)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6A600V20101109)
 1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20101107&t=2&i=243671588&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-11-07T140141Z_01_BTRE6A612YY00_RTROPTP_0_MYANMAR-ELECTION)
 
 ### Related:

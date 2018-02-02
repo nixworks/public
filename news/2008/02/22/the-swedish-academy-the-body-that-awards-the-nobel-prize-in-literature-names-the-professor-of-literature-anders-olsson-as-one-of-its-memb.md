@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/22/the-swedish-academy-the-body-that-awards-the-nobel-prize-in-literature-names-the-professor-of-literature-anders-olsson-as-one-of-its-memb.html)  [JSON](/news/2008/02/22/the-swedish-academy-the-body-that-awards-the-nobel-prize-in-literature-names-the-professor-of-literature-anders-olsson-as-one-of-its-memb.json)  [XML](/news/2008/02/22/the-swedish-academy-the-body-that-awards-the-nobel-prize-in-literature-names-the-professor-of-literature-anders-olsson-as-one-of-its-memb.xml)  
+
 ### [2008-02-22](/news/2008/02/22/index.md)
 
+##### Swedish Academy
 #  The Swedish Academy, the body that awards the Nobel Prize in Literature, names the professor of literature Anders Olsson as one of its members to succeed poet and writer Lars Forssell, who died in July 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dagens Nyheter](http://www.dn.se/DNet/jsp/polopoly.jsp?d=1058&a=745419)
 

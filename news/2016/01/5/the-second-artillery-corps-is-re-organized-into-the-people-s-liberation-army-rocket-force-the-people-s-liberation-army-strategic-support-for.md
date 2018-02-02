@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/5/the-second-artillery-corps-is-re-organized-into-
 
 ### [2016-01-5](/news/2016/01/5/index.md)
 
+##### People's Liberation Army Rocket Force
 # The Second Artillery Corps is re-organized into the People's Liberation Army Rocket Force.The People's Liberation Army Strategic Support Force is founded, with Gao Jin as its inaugural commander and Liu Fulian as Political Commissar.The Ground Force is re-organized under the People's Liberation Army Ground Force Command, under commander Li Zuocheng. 
 
 

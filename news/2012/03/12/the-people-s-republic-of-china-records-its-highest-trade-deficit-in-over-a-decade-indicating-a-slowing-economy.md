@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/03/12/the-people-s-republic-of-china-records-its-highest-trade-deficit-in-over-a-decade-indicating-a-slowing-economy.html)  [JSON](/news/2012/03/12/the-people-s-republic-of-china-records-its-highest-trade-deficit-in-over-a-decade-indicating-a-slowing-economy.json)  [XML](/news/2012/03/12/the-people-s-republic-of-china-records-its-highest-trade-deficit-in-over-a-decade-indicating-a-slowing-economy.xml)  
+
 ### [2012-03-12](/news/2012/03/12/index.md)
 
+##### China
 # The People's Republic of China records its highest trade deficit in over a decade, indicating a slowing economy. 
 
 Oil prices fell on Monday on concerns about slowing growth in China and recession in Italy, along with reduced fears of immediate supply disruption because of tensions with Iran.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/03/12/us-markets-oil-idUSBRE82B04920120312)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120312&t=2&i=581382799&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82B09NT00)
+1. [Reuters](https://www.reuters.com/article/2012/03/12/us-markets-oil-idUSBRE82B04920120312)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120312&t=2&i=581382799&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE82B09NT00)
 
 ### Related:
 

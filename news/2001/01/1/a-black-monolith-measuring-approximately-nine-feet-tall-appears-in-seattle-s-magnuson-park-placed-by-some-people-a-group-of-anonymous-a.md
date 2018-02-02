@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/01/1/a-black-monolith-measuring-approximately-nine-feet-tall-appears-in-seattle-s-magnuson-park-placed-by-some-people-a-group-of-anonymous-a.html)  [JSON](/news/2001/01/1/a-black-monolith-measuring-approximately-nine-feet-tall-appears-in-seattle-s-magnuson-park-placed-by-some-people-a-group-of-anonymous-a.json)  [XML](/news/2001/01/1/a-black-monolith-measuring-approximately-nine-feet-tall-appears-in-seattle-s-magnuson-park-placed-by-some-people-a-group-of-anonymous-a.xml)  
+
 ### [2001-01-1](/news/2001/01/1/index.md)
 
+##### A black monolith
 #  A black monolith measuring approximately nine feet tall appears in Seattle's Magnuson Park, placed by "Some People", a group of anonymous artists; the monolith is in reference to the movie "2001: A Space Odyssey".
 
 

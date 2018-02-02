@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/12/japan-and-the-philippines-are-on-alert-for-the-north-korean-rocket-launch-over-the-next-few-days.html)  [JSON](/news/2012/04/12/japan-and-the-philippines-are-on-alert-for-the-north-korean-rocket-launch-over-the-next-few-days.json)  [XML](/news/2012/04/12/japan-and-the-philippines-are-on-alert-for-the-north-korean-rocket-launch-over-the-next-few-days.xml)  
+
 ### [2012-04-12](/news/2012/04/12/index.md)
 
+##### Japan
 # Japan and the Philippines are on alert for the North Korean rocket launch over the next few days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5jrt5j1lrKoTCSszOCHp20Y5a8m9Q?docId=CNG.72095befc510e5593f85b40d9dd460a3.541)
 

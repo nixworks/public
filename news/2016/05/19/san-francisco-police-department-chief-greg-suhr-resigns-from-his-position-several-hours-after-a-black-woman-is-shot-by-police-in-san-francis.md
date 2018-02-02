@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/19/san-francisco-police-department-chief-greg-suhr
 
 ### [2016-05-19](/news/2016/05/19/index.md)
 
+##### San Francisco Police Department
 # San Francisco Police Department Chief Greg Suhr resigns from his position several hours after a black woman is shot by police in San Francisco. 
 
 San Francisco&#39;s police chief has resigned at the request of the mayor hours after an officer fatally shot a young black woman who was reportedly driving a stolen car and amid other racial issues.

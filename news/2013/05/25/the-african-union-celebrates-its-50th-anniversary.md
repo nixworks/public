@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/25/the-african-union-celebrates-its-50th-anniversary.html)  [JSON](/news/2013/05/25/the-african-union-celebrates-its-50th-anniversary.json)  [XML](/news/2013/05/25/the-african-union-celebrates-its-50th-anniversary.xml)  
+
 ### [2013-05-25](/news/2013/05/25/index.md)
 
+##### African Union
 # The African Union celebrates its 50th anniversary. 
 
 African leaders have opened extravagant celebrations for the 50th jubilee of the continental bloc, with Africa&#39;s myriad problems set aside for a day to mark the progress that has been made. 
 
 
-### Source:
+### Sources:
 
 1. [News 24](http://www.news24.com/Africa/News/AU-opens-50th-anniversary-celebrations-20130525)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2064/e9013ce6b1af48039a5f79c6404023e2.jpg)

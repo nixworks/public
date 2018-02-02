@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/21/the-supreme-court-of-canada-in-a-5a4-decision-rules-in-a-case-between-u-s-biotechnology-firm-monsanto-company-and-farmer-percy-schmeis.html)  [JSON](/news/2004/05/21/the-supreme-court-of-canada-in-a-5a4-decision-rules-in-a-case-between-u-s-biotechnology-firm-monsanto-company-and-farmer-percy-schmeis.json)  [XML](/news/2004/05/21/the-supreme-court-of-canada-in-a-5a4-decision-rules-in-a-case-between-u-s-biotechnology-firm-monsanto-company-and-farmer-percy-schmeis.xml)  
+
 ### [2004-05-21](/news/2004/05/21/index.md)
 
+##### Supreme Court of Canada
 #  The Supreme Court of Canada, in a 5-4 decision, rules in a case between U.S. biotechnology firm Monsanto Company and farmer Percy Schmeiser that Monsanto holds a patent on the Roundup Ready gene inserted in its canola seed and can control the use of the plant. The court previously decided that a higher life form, the Harvard mouse, could not be patented. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/stories/2004/05/21/canada/schmeiser_monsanto040521)
 

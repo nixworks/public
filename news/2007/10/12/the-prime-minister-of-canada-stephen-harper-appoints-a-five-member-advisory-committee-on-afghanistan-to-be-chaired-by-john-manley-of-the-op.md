@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/12/the-prime-minister-of-canada-stephen-harper-appoints-a-five-member-advisory-committee-on-afghanistan-to-be-chaired-by-john-manley-of-the-op.html)  [JSON](/news/2007/10/12/the-prime-minister-of-canada-stephen-harper-appoints-a-five-member-advisory-committee-on-afghanistan-to-be-chaired-by-john-manley-of-the-op.json)  [XML](/news/2007/10/12/the-prime-minister-of-canada-stephen-harper-appoints-a-five-member-advisory-committee-on-afghanistan-to-be-chaired-by-john-manley-of-the-op.xml)  
+
 ### [2007-10-12](/news/2007/10/12/index.md)
 
+##### Prime Minister of Canada
 #  The Prime Minister of Canada Stephen Harper appoints a five-member advisory committee on Afghanistan to be chaired by John Manley of the opposition Liberal Party of Canada. 
 
 The Prime Minister of Canada has appointed a member of the opposition Liberal Party to set up an advisory committee on Afghanistan.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2007/10/13/2058777.htm)
 1. [Cover Image](http://www.abc.net.au/news/linkableblob/6072216/data/abc-news-data.jpg)

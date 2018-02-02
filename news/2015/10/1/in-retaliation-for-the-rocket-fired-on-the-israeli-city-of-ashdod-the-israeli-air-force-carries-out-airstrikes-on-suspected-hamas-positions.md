@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2015/10/1/in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-suspected-hamas-positions.html)  [JSON](/news/2015/10/1/in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-suspected-hamas-positions.json)  [XML](/news/2015/10/1/in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-suspected-hamas-positions.xml)  
+
 ### [2015-10-1](/news/2015/10/1/index.md)
 
+##### Gaza-Israel conflict
 # In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The News Hub](https://www.the-newshub.com/general/israeli-airplanes-bomb-gaza)
+
+### Changes:
+
+1. [Gaza-Israel conflict: In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. ](/news/2015/10/1/gaza-israel-conflict-in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-s.md) _2017-08-27 03:43:12 (First version)_
+1. [In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. ](/news/2015/10/1/in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-suspected-hamas-positions.md) _(Current version)_
 
 ### Related:
 
@@ -16,8 +25,3 @@
 3. [At least one rocket is intercepted over Ashdod by Israel's Iron Dome missile defense system, and is believed to have come from the Gaza Strip. ](/news/2015/09/29/at-least-one-rocket-is-intercepted-over-ashdod-by-israel-s-iron-dome-missile-defense-system-and-is-believed-to-have-come-from-the-gaza-stri.md) _Context: Ashdod, Gaza Strip, Gaza-Israel conflict_
 4. [In retaliation to a rocket attack on Southern Israel, Israel Defence Forces destroy a Hamas weapons manufacturing facility located within the Gaza Strip. ](/news/2015/08/27/in-retaliation-to-a-rocket-attack-on-southern-israel-israel-defence-forces-destroy-a-hamas-weapons-manufacturing-facility-located-within-th.md) _Context: Gaza Strip, Gaza-Israel conflict, Hamas_
 5. [Several rockets were fired from Gaza at Israel and exploded near the cities of Ashdod, Netivot and Ashkelon causing no casualties. The IDF retaliated with airstrikes against empty Hamas training camps in Gaza. ](/news/2015/06/4/several-rockets-were-fired-from-gaza-at-israel-and-exploded-near-the-cities-of-ashdod-netivot-and-ashkelon-causing-no-casualties-the-idf-r.md) _Context: Ashdod, Gaza Strip, Hamas_
-
-### Changes:
-
-1. [Gaza-Israel conflict: In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. ](/news/2015/10/1/gaza-israel-conflict-in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-s.md) _2017-08-27 03:43:12 (First version)_
-1. [In retaliation for the rocket fired on the Israeli city of Ashdod, the Israeli Air Force carries out airstrikes on suspected Hamas positions in Gaza. No casualties are reported. ](/news/2015/10/1/in-retaliation-for-the-rocket-fired-on-the-israeli-city-of-ashdod-the-israeli-air-force-carries-out-airstrikes-on-suspected-hamas-positions.md) _(Current version)_

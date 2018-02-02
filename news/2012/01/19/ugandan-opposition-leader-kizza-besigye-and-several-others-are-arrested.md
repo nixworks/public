@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/19/ugandan-opposition-leader-kizza-besigye-and-several-others-are-arrested.html)  [JSON](/news/2012/01/19/ugandan-opposition-leader-kizza-besigye-and-several-others-are-arrested.json)  [XML](/news/2012/01/19/ugandan-opposition-leader-kizza-besigye-and-several-others-are-arrested.xml)  
+
 ### [2012-01-19](/news/2012/01/19/index.md)
 
+##### Uganda
 # Ugandan opposition leader Kizza Besigye and several others are arrested. 
 
 Kizza Besigye detained by police, along with several allies, ahead of planned anti-government protests in Kampala.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2012/01/2012119174533518784.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/1/19/201211917524747734_20.jpg)

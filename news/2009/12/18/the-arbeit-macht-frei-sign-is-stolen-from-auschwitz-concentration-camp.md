@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/18/the-arbeit-macht-frei-sign-is-stolen-from-auschwitz-concentration-camp.html)  [JSON](/news/2009/12/18/the-arbeit-macht-frei-sign-is-stolen-from-auschwitz-concentration-camp.json)  [XML](/news/2009/12/18/the-arbeit-macht-frei-sign-is-stolen-from-auschwitz-concentration-camp.xml)  
+
 ### [2009-12-18](/news/2009/12/18/index.md)
 
+##### Arbeit macht frei
 #  The "Arbeit macht frei" sign is stolen from Auschwitz concentration camp. 
 
 Thieves have stolen the infamous &#39;Arbeit macht frei&#39; sign at the entrance to the Nazi concentration camp in Auschwitz.
 
 
-### Source:
+### Sources:
 
 1. [Deutsche Welle](http://www.dw-world.de/dw/article/0,,5034155,00.html)
 2. [JTA](http://jta.org/news/article/2009/12/18/1009801/arbeit-macht-frei-sign-stolen-from-auschwitz)

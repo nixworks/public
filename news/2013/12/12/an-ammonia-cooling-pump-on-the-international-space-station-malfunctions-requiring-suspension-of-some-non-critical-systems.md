@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/12/an-ammonia-cooling-pump-on-the-international-space-station-malfunctions-requiring-suspension-of-some-non-critical-systems.html)  [JSON](/news/2013/12/12/an-ammonia-cooling-pump-on-the-international-space-station-malfunctions-requiring-suspension-of-some-non-critical-systems.json)  [XML](/news/2013/12/12/an-ammonia-cooling-pump-on-the-international-space-station-malfunctions-requiring-suspension-of-some-non-critical-systems.xml)  
+
 ### [2013-12-12](/news/2013/12/12/index.md)
 
+##### International Space Station
 # An ammonia cooling pump on the International Space Station malfunctions, requiring suspension of some non-critical systems. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/12/11/us/international-space-station-cooling-problem/)
 

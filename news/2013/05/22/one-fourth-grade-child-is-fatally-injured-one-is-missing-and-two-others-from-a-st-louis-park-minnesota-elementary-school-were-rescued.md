@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/22/one-fourth-grade-child-is-fatally-injured-one-is-missing-and-two-others-from-a-st-louis-park-minnesota-elementary-school-were-rescued.html)  [JSON](/news/2013/05/22/one-fourth-grade-child-is-fatally-injured-one-is-missing-and-two-others-from-a-st-louis-park-minnesota-elementary-school-were-rescued.json)  [XML](/news/2013/05/22/one-fourth-grade-child-is-fatally-injured-one-is-missing-and-two-others-from-a-st-louis-park-minnesota-elementary-school-were-rescued.xml)  
+
 ### [2013-05-22](/news/2013/05/22/index.md)
 
+##### St. Louis Park, Minnesota
 # One fourth-grade child is fatally injured, one is missing, and two others (from a St. Louis Park, Minnesota elementary school) were rescued by firefighters, after a gravel slide at St. Paul, Minnesota's Lilydale Regional Park, near the Mississippi River. The rescue effort was suspended for the night, after conditions got worse. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC](http://usnews.nbcnews.com/_news/2013/05/23/18441754-one-child-missing-one-killed-in-minnesota-field-trip-landslide?lite)
 

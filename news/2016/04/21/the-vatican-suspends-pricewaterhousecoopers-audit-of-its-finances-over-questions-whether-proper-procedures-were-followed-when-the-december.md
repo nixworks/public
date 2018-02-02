@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/21/the-vatican-suspends-pricewaterhousecoopers-aud
 
 ### [2016-04-21](/news/2016/04/21/index.md)
 
+##### Holy See
 # The Vatican suspends PricewaterhouseCoopers' audit of its finances over questions whether proper procedures were followed when the December 2015 contract, reportedly worth $3 million, was enacted. Analysts say this move exposes the rift between the church's old guard and supporters of financial reform, and raises questions about the Catholic Church's commitment to cleaning up its finances. 
 
 The Vatican suspended an audit of its finances by PricewaterhouseCoopers (PwC), it said on Thursday, a decision sources said was taken to determine if there were irregularities in the contract.

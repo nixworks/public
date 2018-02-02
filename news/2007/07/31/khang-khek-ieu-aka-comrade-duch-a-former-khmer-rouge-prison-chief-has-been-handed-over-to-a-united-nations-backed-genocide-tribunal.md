@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/31/khang-khek-ieu-aka-comrade-duch-a-former-khmer-rouge-prison-chief-has-been-handed-over-to-a-united-nations-backed-genocide-tribunal.html)  [JSON](/news/2007/07/31/khang-khek-ieu-aka-comrade-duch-a-former-khmer-rouge-prison-chief-has-been-handed-over-to-a-united-nations-backed-genocide-tribunal.json)  [XML](/news/2007/07/31/khang-khek-ieu-aka-comrade-duch-a-former-khmer-rouge-prison-chief-has-been-handed-over-to-a-united-nations-backed-genocide-tribunal.xml)  
+
 ### [2007-07-31](/news/2007/07/31/index.md)
 
+##### Khang Khek Ieu
 #  Khang Khek Ieu aka Comrade Duch, a former Khmer Rouge prison chief, has been handed over to a United Nations backed genocide tribunal. 
 
 A former Khmer Rouge prison chief has been handed over to the UN-backed tribunal in Cambodia, becoming the first suspect to be detained by the court, officials said.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ABC News Australia](http://www.abc.net.au/news/stories/2007/07/31/1992859.htm)
 1. [Cover Image](http://www.abc.net.au/news/image/2500774-1x1-700x700.jpg)

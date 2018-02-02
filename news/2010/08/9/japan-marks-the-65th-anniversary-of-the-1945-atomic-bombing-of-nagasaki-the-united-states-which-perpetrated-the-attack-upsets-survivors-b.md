@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/9/japan-marks-the-65th-anniversary-of-the-1945-atomic-bombing-of-nagasaki-the-united-states-which-perpetrated-the-attack-upsets-survivors-b.html)  [JSON](/news/2010/08/9/japan-marks-the-65th-anniversary-of-the-1945-atomic-bombing-of-nagasaki-the-united-states-which-perpetrated-the-attack-upsets-survivors-b.json)  [XML](/news/2010/08/9/japan-marks-the-65th-anniversary-of-the-1945-atomic-bombing-of-nagasaki-the-united-states-which-perpetrated-the-attack-upsets-survivors-b.xml)  
+
 ### [2010-08-9](/news/2010/08/9/index.md)
 
+##### Japan
 # Japan marks the 65th anniversary of the 1945 atomic bombing of Nagasaki. The United States, which perpetrated the attack, upsets survivors by not sending an ambassador due to "scheduling reasons" this time, though France and the UK send representatives for the first time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-10914914)
 2. [China Daily](http://www.chinadaily.com.cn/cndy/2010-08/10/content_11126057.htm)
@@ -19,4 +23,4 @@
 2. [A South Korean court rules that South Korea is not obliged to pay compensation to its nationals who were victims of the Atomic bombings of Hiroshima and Nagasaki who have not been compensated by Japan. ](/news/2015/06/26/a-south-korean-court-rules-that-south-korea-is-not-obliged-to-pay-compensation-to-its-nationals-who-were-victims-of-the-atomic-bombings-of-h.md) _Context: Japan, dropped_
 3. [The BBC apologises after offending the sensibilities of Japanese viewers by broadcasting jokes targeting Tsutomu Yamaguchi, who survived both atomic bomb attacks carried out by the United States on Hiroshima and Nagasaki in 1945. ](/news/2011/01/23/the-bbc-apologises-after-offending-the-sensibilities-of-japanese-viewers-by-broadcasting-jokes-targeting-tsutomu-yamaguchi-who-survived-bot.md) _Context: Japan, Nagasaki_
 4. [ Japan marks the 62nd anniversary of the atomic bombing of Hiroshima. ](/news/2007/08/6/japan-marks-the-62nd-anniversary-of-the-atomic-bombing-of-hiroshima.md) _Context: Japan, dropped_
-5. [ Japan's Minister for Defense Fumio Kyuma resigns over comments he made about the atomic bombings of Hiroshima and Nagasaki on the weekend. ](/news/2007/07/3/japan-s-minister-for-defense-fumio-kyuma-resigns-over-comments-he-made-about-the-atomic-bombings-of-hiroshima-and-nagasaki-on-the-weekend.md) _Context: Japan, dropped_
+5. [Eleven people are killed in a fire at a Japanese residential facility for people in financial difficulty. ](/news/2018/02/1/eleven-people-are-killed-in-a-fire-at-a-japanese-residential-facility-for-people-in-financial-difficulty.md) _Context: Japan_

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/12/south-africa-exhumes-the-bodies-of-two-people-whose-deaths-may-be-tied-to-winnie-madikizela-mandela-ex-wife-of-nelson-mandela.html)  [JSON](/news/2013/03/12/south-africa-exhumes-the-bodies-of-two-people-whose-deaths-may-be-tied-to-winnie-madikizela-mandela-ex-wife-of-nelson-mandela.json)  [XML](/news/2013/03/12/south-africa-exhumes-the-bodies-of-two-people-whose-deaths-may-be-tied-to-winnie-madikizela-mandela-ex-wife-of-nelson-mandela.xml)  
+
 ### [2013-03-12](/news/2013/03/12/index.md)
 
+##### South Africa
 # South Africa exhumes the bodies of two people whose deaths may be tied to Winnie Madikizela-Mandela, ex-wife of Nelson Mandela. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business Week](http://www.businessweek.com/news/2013-03-12/south-africa-exhumes-bodies-in-case-linked-to-mandela-s-ex-wife)
 

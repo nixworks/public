@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2016/03/28/taliban-fighters-fire-explosives-at-afghanistan-s-parliament-while-it-is-in-session-members-of-parliament-said-no-one-was-wounded-while-a.html)  [JSON](/news/2016/03/28/taliban-fighters-fire-explosives-at-afghanistan-s-parliament-while-it-is-in-session-members-of-parliament-said-no-one-was-wounded-while-a.json)  [XML](/news/2016/03/28/taliban-fighters-fire-explosives-at-afghanistan-s-parliament-while-it-is-in-session-members-of-parliament-said-no-one-was-wounded-while-a.xml)  
+
 ### [2016-03-28](/news/2016/03/28/index.md)
 
+##### War in Afghanistan (2015-present)
 #  Taliban fighters fire explosives at Afghanistan's Parliament while it is in session. Members of Parliament said no one was wounded while a Taliban spokesperson claims it caused heavy casualities. 
 
 Members of Parliament say no one was hurt, contradicting Taliban spokesman who claimed the raid caused heavy casualties.

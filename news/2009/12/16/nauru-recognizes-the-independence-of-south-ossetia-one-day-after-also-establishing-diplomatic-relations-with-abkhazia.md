@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/16/nauru-recognizes-the-independence-of-south-ossetia-one-day-after-also-establishing-diplomatic-relations-with-abkhazia.html)  [JSON](/news/2009/12/16/nauru-recognizes-the-independence-of-south-ossetia-one-day-after-also-establishing-diplomatic-relations-with-abkhazia.json)  [XML](/news/2009/12/16/nauru-recognizes-the-independence-of-south-ossetia-one-day-after-also-establishing-diplomatic-relations-with-abkhazia.xml)  
+
 ### [2009-12-16](/news/2009/12/16/index.md)
 
+##### Nauru
 #  Nauru recognizes the independence of South Ossetia, one day after also establishing diplomatic relations with Abkhazia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Moscow Times](http://www.themoscowtimes.com/news/article/south-ossetia-wins-naurus-recognition/396293.html)
 

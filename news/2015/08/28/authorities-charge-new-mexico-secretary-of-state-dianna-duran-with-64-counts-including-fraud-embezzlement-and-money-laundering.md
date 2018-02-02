@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/28/authorities-charge-new-mexico-secretary-of-state-dianna-duran-with-64-counts-including-fraud-embezzlement-and-money-laundering.html)  [JSON](/news/2015/08/28/authorities-charge-new-mexico-secretary-of-state-dianna-duran-with-64-counts-including-fraud-embezzlement-and-money-laundering.json)  [XML](/news/2015/08/28/authorities-charge-new-mexico-secretary-of-state-dianna-duran-with-64-counts-including-fraud-embezzlement-and-money-laundering.xml)  
+
 ### [2015-08-28](/news/2015/08/28/index.md)
 
+##### New Mexico Secretary of State
 # Authorities charge New Mexico Secretary of State Dianna Duran with 64 counts including fraud, embezzlement, and money laundering. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Albuquerque Journal](http://www.abqjournal.com/635916/news/ag-charges-secretary-of-state-duran-with-converting-campaign-funds-to-personal-use.html)
 

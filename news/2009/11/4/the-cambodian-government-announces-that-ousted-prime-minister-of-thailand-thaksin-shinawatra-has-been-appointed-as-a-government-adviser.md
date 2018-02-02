@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/4/the-cambodian-government-announces-that-ousted-prime-minister-of-thailand-thaksin-shinawatra-has-been-appointed-as-a-government-adviser.html)  [JSON](/news/2009/11/4/the-cambodian-government-announces-that-ousted-prime-minister-of-thailand-thaksin-shinawatra-has-been-appointed-as-a-government-adviser.json)  [XML](/news/2009/11/4/the-cambodian-government-announces-that-ousted-prime-minister-of-thailand-thaksin-shinawatra-has-been-appointed-as-a-government-adviser.xml)  
+
 ### [2009-11-4](/news/2009/11/4/index.md)
 
+##### Cambodia
 #  The Cambodian government announces that ousted Prime Minister of Thailand Thaksin Shinawatra has been appointed as a government adviser. 
 
 Taiwan News Online Taiwan News is one of the most widely visited English-language portals for news about Taiwan, offering the outside world a revealing look at all things Taiwan
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jMl9e69gzzklJuyKIAb3waHXeigA)
 2. [Taiwan News](http://www.etaiwannews.com/etn/news_content.php?id=1099688&lang=eng_news)

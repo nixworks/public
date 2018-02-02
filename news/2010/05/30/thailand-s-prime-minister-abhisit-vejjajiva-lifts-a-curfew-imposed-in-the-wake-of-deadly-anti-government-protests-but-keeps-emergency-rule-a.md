@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/30/thailand-s-prime-minister-abhisit-vejjajiva-lifts-a-curfew-imposed-in-the-wake-of-deadly-anti-government-protests-but-keeps-emergency-rule-a.html)  [JSON](/news/2010/05/30/thailand-s-prime-minister-abhisit-vejjajiva-lifts-a-curfew-imposed-in-the-wake-of-deadly-anti-government-protests-but-keeps-emergency-rule-a.json)  [XML](/news/2010/05/30/thailand-s-prime-minister-abhisit-vejjajiva-lifts-a-curfew-imposed-in-the-wake-of-deadly-anti-government-protests-but-keeps-emergency-rule-a.xml)  
+
 ### [2010-05-30](/news/2010/05/30/index.md)
 
+##### Thailand
 # Thailand's Prime Minister Abhisit Vejjajiva lifts a curfew imposed in the wake of deadly anti-government protests but keeps emergency rule after two months of rallies by "Red Shirt" demonstrators paralyzed Bangkok and left almost 90 people dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/05/30/thailand.protests/index.html)
 2. [The Australian](http://www.theaustralian.com.au/news/world/thailand-seems-back-to-normal-says-pm/story-e6frg6so-1225873216699)

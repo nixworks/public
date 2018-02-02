@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/10/1/the-discovery-of-inkayacu-an-extinct-genus-of-prehistoric-penguin-that-lived-in-the-late-eocene-period-is-announced.html)  [JSON](/news/2010/10/1/the-discovery-of-inkayacu-an-extinct-genus-of-prehistoric-penguin-that-lived-in-the-late-eocene-period-is-announced.json)  [XML](/news/2010/10/1/the-discovery-of-inkayacu-an-extinct-genus-of-prehistoric-penguin-that-lived-in-the-late-eocene-period-is-announced.xml)  
+
 ### [2010-10-1](/news/2010/10/1/index.md)
 
+##### Inkayacu
 # The discovery of "Inkayacu", an extinct genus of prehistoric penguin that lived in the Late Eocene period, is announced. 
 
 Researchers say imprints left by the large bird, which lived in Peru more than 36 million years ago, contain evidence that its feathers were mostly reddish brown and shades of gray.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2010/10/01/science/01penguin.html)
+1. [The New York Times](https://www.nytimes.com/2010/10/01/science/01penguin.html)
 1. [Cover Image](https://static01.nyt.com/images/2010/10/01/science/01penguin1/01penguin1-thumbStandard.jpg)
 
 ### Related:

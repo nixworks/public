@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/24/the-bank-of-america-announces-that-it-will-lay-off-3-000-staff-following-an-announcement-of-a-significant-decline-in-earnings-in-the-third.html)  [JSON](/news/2007/10/24/the-bank-of-america-announces-that-it-will-lay-off-3-000-staff-following-an-announcement-of-a-significant-decline-in-earnings-in-the-third.json)  [XML](/news/2007/10/24/the-bank-of-america-announces-that-it-will-lay-off-3-000-staff-following-an-announcement-of-a-significant-decline-in-earnings-in-the-third.xml)  
+
 ### [2007-10-24](/news/2007/10/24/index.md)
 
+##### Bank of America
 #  The Bank of America announces that it will lay off 3,000 staff following an announcement of a significant decline in earnings in the third quarter. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NYT](http://dealbook.blogs.nytimes.com/2007/10/24/3000-layoffs-today-more-tomorrow/index.html?ex=1351051200&en=796cfdfc136265fd&ei=5088&partner=rssnyt&emc=rss)
 

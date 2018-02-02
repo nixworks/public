@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/20/us-secretary-of-state-condoleezza-rice-arrives-in-beijing-for-the-last-leg-of-her-six-country-asian-trip-rice-met-with-president-hu-jintao.html)  [JSON](/news/2005/03/20/us-secretary-of-state-condoleezza-rice-arrives-in-beijing-for-the-last-leg-of-her-six-country-asian-trip-rice-met-with-president-hu-jintao.json)  [XML](/news/2005/03/20/us-secretary-of-state-condoleezza-rice-arrives-in-beijing-for-the-last-leg-of-her-six-country-asian-trip-rice-met-with-president-hu-jintao.xml)  
+
 ### [2005-03-20](/news/2005/03/20/index.md)
 
+##### United States Secretary of State
 #  US Secretary of State Condoleezza Rice arrives in Beijing for the last leg of her six-country Asian trip. Rice met with President Hu Jintao and Premier Wen Jiabao; talks about North Korea nuclear missiles program and Taiwan are on the top of the agenda. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2005/WORLD/asiapcf/03/20/rice.china/)
 2. [China Daily](http://www.chinadaily.com.cn/english/doc/2005-03/21/content_426672.htm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/16/gabon-signs-agreements-with-several-asian-companies-designed-to-make-it-rely-less-on-its-oil.html)  [JSON](/news/2010/08/16/gabon-signs-agreements-with-several-asian-companies-designed-to-make-it-rely-less-on-its-oil.json)  [XML](/news/2010/08/16/gabon-signs-agreements-with-several-asian-companies-designed-to-make-it-rely-less-on-its-oil.xml)  
+
 ### [2010-08-16](/news/2010/08/16/index.md)
 
+##### Gabon
 # Gabon signs agreements with several Asian companies designed to make it rely less on its oil. 
 
 Gabon signs deals to diversify its economy in an attempt to be less reliant on its dwindling oil reserves.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-10985014)
 2. [Financial Times](http://www.ft.com/cms/s/806d4102-a8b8-11df-86dd-00144feabdc0,Authorised=false.html?_i_location=http%3A%2F%2Fwww.ft.com%2Fcms%2Fs%2F0%2F806d4102-a8b8-11df-86dd-00144feabdc0.html%3Fftcamp%3Drss&_i_referer=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Fbusiness-10985014&ftcamp=rss)

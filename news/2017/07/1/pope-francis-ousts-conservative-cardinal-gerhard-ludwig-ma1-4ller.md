@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/1/pope-francis-ousts-conservative-cardinal-gerhard
 
 ### [2017-07-1](/news/2017/07/1/index.md)
 
+##### Politics of Vatican City
 # Pope Francis ousts conservative cardinal Gerhard Ludwig Muller. 
 
 Francis declined to renew Cardinal Gerhard Ludwig Müller’s mandate to lead the Congregation for the Doctrine of the Faith.

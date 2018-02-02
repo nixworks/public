@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2013/08/14/american-networking-equipment-cisco-systems-announces-plans-to-cut-4000-jobs.html)  [JSON](/news/2013/08/14/american-networking-equipment-cisco-systems-announces-plans-to-cut-4000-jobs.json)  [XML](/news/2013/08/14/american-networking-equipment-cisco-systems-announces-plans-to-cut-4000-jobs.xml)  
+
 ### [2013-08-14](/news/2013/08/14/index.md)
 
+##### networking equipment
 # American networking equipment Cisco Systems announces plans to cut 4000 jobs. 
 
 Network equipment maker Cisco Systems Inc is cutting 4,000 jobs, or 5 percent of its workforce, as it makes a fresh attempt to reduce costs and refocus on growth areas in the face of uncertain demand for its networking equipment.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2013/08/14/indian-naval-submarine-sinks-catches-fire/)
-2. [Reuters](http://www.reuters.com/article/2013/08/15/us-cisco-results-idUSBRE97D16W20130815)
-2. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130815&t=2&i=763868456&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE97D1K9700)
+2. [Reuters](https://www.reuters.com/article/2013/08/15/us-cisco-results-idUSBRE97D16W20130815)
+2. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130815&t=2&i=763868456&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE97D1K9700)
 
 ### Related:
 

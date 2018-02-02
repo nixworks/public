@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/31/singapore-s-governing-people-s-action-party-endorses-lee-hsien-loong-current-deputy-prime-minister-and-son-of-former-prime-minister-lee-ku.html)  [JSON](/news/2004/05/31/singapore-s-governing-people-s-action-party-endorses-lee-hsien-loong-current-deputy-prime-minister-and-son-of-former-prime-minister-lee-ku.json)  [XML](/news/2004/05/31/singapore-s-governing-people-s-action-party-endorses-lee-hsien-loong-current-deputy-prime-minister-and-son-of-former-prime-minister-lee-ku.xml)  
+
 ### [2004-05-31](/news/2004/05/31/index.md)
 
+##### Singapore
 #  Singapore's governing People's Action Party endorses Lee Hsien Loong, current deputy prime minister and son of former Prime Minister Lee Kuan Yew, as the next prime minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/3763397.stm)
 

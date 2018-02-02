@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/22/the-campaign-period-officially-ends-french-citi
 
 ### [2017-04-22](/news/2017/04/22/index.md)
 
+##### 2017 French presidential election
 # The campaign period officially ends. French citizens living overseas begin voting a day ahead of when the polls open in France. Final opinion polling gives Emmanuel Macron a slight lead over Marine Le Pen. Francois Fillon and Jean-Luc Melenchon are close behind. 
 
 The final hours of campaigning for the French presidential elections have been overshadowed by the shooting of police in central Paris. A tightly-contested first round is expected among the four main candidates.

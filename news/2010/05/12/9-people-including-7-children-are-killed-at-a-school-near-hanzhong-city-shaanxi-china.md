@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/12/9-people-including-7-children-are-killed-at-a-school-near-hanzhong-city-shaanxi-china.html)  [JSON](/news/2010/05/12/9-people-including-7-children-are-killed-at-a-school-near-hanzhong-city-shaanxi-china.json)  [XML](/news/2010/05/12/9-people-including-7-children-are-killed-at-a-school-near-hanzhong-city-shaanxi-china.xml)  
+
 ### [2010-05-12](/news/2010/05/12/index.md)
 
+##### Hanzhong
 # 9 people, including 7 children, are killed at a school near Hanzhong city, Shaanxi, China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.google.com/hostednews/ap/article/ALeqM5gbb3SvwJW0F1Te35LxNwJDk2UBnQD9FL5ROG0)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-05/12/c_13289975.htm)

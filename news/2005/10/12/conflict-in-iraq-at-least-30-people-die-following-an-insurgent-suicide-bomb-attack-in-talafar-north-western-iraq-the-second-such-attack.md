@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/12/conflict-in-iraq-at-least-30-people-die-following-an-insurgent-suicide-bomb-attack-in-talafar-north-western-iraq-the-second-such-attack.html)  [JSON](/news/2005/10/12/conflict-in-iraq-at-least-30-people-die-following-an-insurgent-suicide-bomb-attack-in-talafar-north-western-iraq-the-second-such-attack.json)  [XML](/news/2005/10/12/conflict-in-iraq-at-least-30-people-die-following-an-insurgent-suicide-bomb-attack-in-talafar-north-western-iraq-the-second-such-attack.xml)  
+
 ### [2005-10-12](/news/2005/10/12/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: At least 30 people die following an insurgent suicide bomb attack in Talafar, North Western Iraq, the second such attack in as many days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4334690.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/17/30-members-of-the-ladies-in-white-opposition-movement-in-cuba-are-arrested-at-a-demonstration-in-the-capital-havana.html)  [JSON](/news/2010/03/17/30-members-of-the-ladies-in-white-opposition-movement-in-cuba-are-arrested-at-a-demonstration-in-the-capital-havana.json)  [XML](/news/2010/03/17/30-members-of-the-ladies-in-white-opposition-movement-in-cuba-are-arrested-at-a-demonstration-in-the-capital-havana.xml)  
+
 ### [2010-03-17](/news/2010/03/17/index.md)
 
+##### Ladies in White
 # 30 members of the "Ladies in White" opposition movement in Cuba are arrested at a demonstration in the capital Havana. 
 
 Female relatives of dissidents heckled during march outside Havana, then removed in buses.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i3ZMMMiCI6SNVTHfaSflxU1AuDng)
 2. [Al Jazeera](http://english.aljazeera.net/news/americas/2010/03/2010317185732764932.html)

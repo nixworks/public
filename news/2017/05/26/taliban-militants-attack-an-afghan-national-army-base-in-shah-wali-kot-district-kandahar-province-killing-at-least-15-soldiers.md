@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/05/26/taliban-militants-attack-an-afghan-national-arm
 
 ### [2017-05-26](/news/2017/05/26/index.md)
 
+##### War in Afghanistan (2015-present)
 # Taliban militants attack an Afghan National Army base in Shah Wali Kot District, Kandahar Province, killing at least 15 soldiers. 
 
 The attack comes days after the militants stormed another military base in the same area.

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/04/26/japanese-powerbroker-ichira-ozawa-of-the-ruling-democratic-party-is-cleared-of-charges-of-breaking-fundraising-laws.html)  [JSON](/news/2012/04/26/japanese-powerbroker-ichira-ozawa-of-the-ruling-democratic-party-is-cleared-of-charges-of-breaking-fundraising-laws.json)  [XML](/news/2012/04/26/japanese-powerbroker-ichira-ozawa-of-the-ruling-democratic-party-is-cleared-of-charges-of-breaking-fundraising-laws.xml)  
+
 ### [2012-04-26](/news/2012/04/26/index.md)
 
+##### Ichiro Ozawa
 # Japanese powerbroker Ichiro Ozawa of the ruling Democratic Party is cleared of charges of breaking fundraising laws. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/04/26/japan-politics-ozawa-idUST9E8EM02I20120426)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/04/26/japan-politics-ozawa-idUST9E8EM02I20120426)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

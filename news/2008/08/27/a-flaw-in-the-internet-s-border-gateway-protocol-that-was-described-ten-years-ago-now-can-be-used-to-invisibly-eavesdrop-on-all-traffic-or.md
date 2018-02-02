@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/08/27/a-flaw-in-the-internet-s-border-gateway-protocol-that-was-described-ten-years-ago-now-can-be-used-to-invisibly-eavesdrop-on-all-traffic-or.html)  [JSON](/news/2008/08/27/a-flaw-in-the-internet-s-border-gateway-protocol-that-was-described-ten-years-ago-now-can-be-used-to-invisibly-eavesdrop-on-all-traffic-or.json)  [XML](/news/2008/08/27/a-flaw-in-the-internet-s-border-gateway-protocol-that-was-described-ten-years-ago-now-can-be-used-to-invisibly-eavesdrop-on-all-traffic-or.xml)  
+
 ### [2008-08-27](/news/2008/08/27/index.md)
 
+##### internet
 #  A flaw in the internet's Border Gateway Protocol that was described ten years ago now "can be used to invisibly eavesdrop on all traffic originating from a particular set of IP blocks." 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Ars Technica](http://arstechnica.com/news.ars/post/20080827-inherent-security-flaw-poses-risk-to-internet-users.html)
+1. [Ars Technica](https://arstechnica.com/news.ars/post/20080827-inherent-security-flaw-poses-risk-to-internet-users.html)
 
 ### Related:
 
-1. [Google and Cuba forge a deal about better access to the Internet for the island. ](/news/2016/12/13/google-and-cuba-forge-a-deal-about-better-access-to-the-internet-for-the-island.md) _Context: Internet_
-2. [The Obama administration through the United States Department of Commerce transfers oversight of the technical management of the Internet by the Internet Corporation for Assigned Names and Numbers to an international consortium of stakeholders. ](/news/2016/10/1/the-obama-administration-through-the-united-states-department-of-commerce-transfers-oversight-of-the-technical-management-of-the-internet-by.md) _Context: Internet_
-3. [National "Stay Away" protests, organized over the Internet via the WhatsApp social messaging platform, take place in Zimbabwe, following fears of an economic collapse amid calls for President Robert Mugabe's resignation.](/news/2016/07/6/national-stay-away-protests-organized-over-the-internet-via-the-whatsapp-social-messaging-platform-take-place-in-zimbabwe-following-fea.md) _Context: Internet_
-4. [Goldman Sachs, the American multinational investment banking firm, launches an FDIC-insured, Internet-based savings bank. The Wall Street institution, whose investment banking account minimums are in the millions, sets a minimum deposit of $1 dollar for GSBank.com. ](/news/2016/04/25/goldman-sachs-the-american-multinational-investment-banking-firm-launches-an-fdic-insured-internet-based-savings-bank-the-wall-street-in.md) _Context: Internet_
-5. [American sportscaster Erin Andrews is awarded $55 million damages after a stranger, in 2008, secretly recorded her in the nude through a hotel door peephole, and posted the video on the Internet. ](/news/2016/03/7/american-sportscaster-erin-andrews-is-awarded-55-million-damages-after-a-stranger-in-2008-secretly-recorded-her-in-the-nude-through-a-hot.md) _Context: Internet_
+1. [Shirley Sherrod, an employee of the United States Department of Agriculture, resigns after a video on the internet surfaced showing her apparently making racist remarks regarding the foreclosure of a farm owned by a white farmer. ](/news/2010/07/20/shirley-sherrod-an-employee-of-the-united-states-department-of-agriculture-resigns-after-a-video-on-the-internet-surfaced-showing-her-appa.md) _Context: internet_
+2. [The Islamic State of Iraq posts a statement on the internet claiming responsibility for Sunday's triple bombings in Baghdad which killed at least 40 people and affected some foreign embassies but denies involvement in Tuesday's six bombings which killed 35 people in Shia areas. ](/news/2010/04/9/the-islamic-state-of-iraq-posts-a-statement-on-the-internet-claiming-responsibility-for-sunday-s-triple-bombings-in-baghdad-which-killed-at.md) _Context: internet_
+3. [ About 800 pages of the earliest surviving Christian Bible are displayed on the internet. ](/news/2009/07/6/about-800-pages-of-the-earliest-surviving-christian-bible-are-displayed-on-the-internet.md) _Context: internet_
+4. [ The SEACOM high speed internet link to East Africa goes live. ](/news/2009/07/23/the-seacom-high-speed-internet-link-to-east-africa-goes-live.md) _Context: internet_
+5. [ Microsoft Corporation released version 7 of its Internet Explorer internet browser software.](/news/2006/10/18/microsoft-corporation-released-version-7-of-its-internet-explorer-internet-browser-software.md) _Context: internet_

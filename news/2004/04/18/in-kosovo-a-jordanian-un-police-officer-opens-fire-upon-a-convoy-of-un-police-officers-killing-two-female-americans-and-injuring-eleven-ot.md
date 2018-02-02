@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/04/18/in-kosovo-a-jordanian-un-police-officer-opens-fire-upon-a-convoy-of-un-police-officers-killing-two-female-americans-and-injuring-eleven-ot.html)  [JSON](/news/2004/04/18/in-kosovo-a-jordanian-un-police-officer-opens-fire-upon-a-convoy-of-un-police-officers-killing-two-female-americans-and-injuring-eleven-ot.json)  [XML](/news/2004/04/18/in-kosovo-a-jordanian-un-police-officer-opens-fire-upon-a-convoy-of-un-police-officers-killing-two-female-americans-and-injuring-eleven-ot.xml)  
+
 ### [2004-04-18](/news/2004/04/18/index.md)
 
+##### Kosovo
 #  In Kosovo, a Jordanian UN police officer opens fire upon a convoy of UN police officers killing two female Americans and injuring eleven others. The attack reportedly stemmed from an argument between American and Jordanian UN police over Iraq policies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/3637033.stm)
 

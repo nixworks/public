@@ -1,13 +1,18 @@
+
+Formats: [HTML](/news/2010/12/18/the-united-states-senate-repeals-don-t-ask-don-t-tell-by-a-vote-of-65-35-the-bill-will-now-be-sent-to-president-barack-obama-to-be-signed.html)  [JSON](/news/2010/12/18/the-united-states-senate-repeals-don-t-ask-don-t-tell-by-a-vote-of-65-35-the-bill-will-now-be-sent-to-president-barack-obama-to-be-signed.json)  [XML](/news/2010/12/18/the-united-states-senate-repeals-don-t-ask-don-t-tell-by-a-vote-of-65-35-the-bill-will-now-be-sent-to-president-barack-obama-to-be-signed.xml)  
+
 ### [2010-12-18](/news/2010/12/18/index.md)
 
+##### United States Senate
 # The United States Senate repeals "Don't Ask Don't Tell" by a vote of 65-35. The bill will now be sent to President Barack Obama to be signed. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2010/12/19/us/politics/19cong.html?_r=1&hp)
+1. [New York Times](https://www.nytimes.com/2010/12/19/us/politics/19cong.html?_r=1&hp)
+1. [Cover Image](http://graphics8.nytimes.com/images/2010/12/19/us/19cong2_span/19cong2-thumbStandard.jpg)
 
 ### Related:
 

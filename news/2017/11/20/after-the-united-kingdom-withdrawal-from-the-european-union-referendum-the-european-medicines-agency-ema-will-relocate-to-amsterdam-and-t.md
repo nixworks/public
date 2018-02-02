@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/20/after-the-united-kingdom-withdrawal-from-the-eu
 
 ### [2017-11-20](/news/2017/11/20/index.md)
 
+##### Brexit negotiations
 # After the United Kingdom withdrawal from the European Union referendum, the European Medicines Agency (EMA) will relocate to Amsterdam and the European Banking Authority (EBA) to Paris from London. 
 
 

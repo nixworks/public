@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/26/for-the-first-time-in-his-26-year-papacy-pope-john-paul-ii-who-is-ill-will-not-bless-the-faithful-at-the-weekly-angelus-prayer-service-a.html)  [JSON](/news/2005/02/26/for-the-first-time-in-his-26-year-papacy-pope-john-paul-ii-who-is-ill-will-not-bless-the-faithful-at-the-weekly-angelus-prayer-service-a.json)  [XML](/news/2005/02/26/for-the-first-time-in-his-26-year-papacy-pope-john-paul-ii-who-is-ill-will-not-bless-the-faithful-at-the-weekly-angelus-prayer-service-a.xml)  
+
 ### [2005-02-26](/news/2005/02/26/index.md)
 
+##### Pope John Paul II
 #  For the first time in his 26-year papacy, Pope John Paul II, who is ill, will not bless the faithful at the weekly Angelus prayer service and will instead follow the service from his hospital room. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Calcutta Telegraph](http://www.telegraphindia.com/1050227/asp/foreign/story_4430844.asp)
 2. [Reuters](http://olympics.reuters.com/newsArticle.jhtml?type=topNews&storyID=7748114)

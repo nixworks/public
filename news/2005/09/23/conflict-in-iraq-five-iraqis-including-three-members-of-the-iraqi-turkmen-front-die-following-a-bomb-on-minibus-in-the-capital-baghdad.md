@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/23/conflict-in-iraq-five-iraqis-including-three-members-of-the-iraqi-turkmen-front-die-following-a-bomb-on-minibus-in-the-capital-baghdad.html)  [JSON](/news/2005/09/23/conflict-in-iraq-five-iraqis-including-three-members-of-the-iraqi-turkmen-front-die-following-a-bomb-on-minibus-in-the-capital-baghdad.json)  [XML](/news/2005/09/23/conflict-in-iraq-five-iraqis-including-three-members-of-the-iraqi-turkmen-front-die-following-a-bomb-on-minibus-in-the-capital-baghdad.xml)  
+
 ### [2005-09-23](/news/2005/09/23/index.md)
 
+##### Conflict in Iraq
 #  Conflict in Iraq: Five Iraqis, including three members of the Iraqi Turkmen Front, die following a bomb on minibus in the capital Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4274862.stm)
 

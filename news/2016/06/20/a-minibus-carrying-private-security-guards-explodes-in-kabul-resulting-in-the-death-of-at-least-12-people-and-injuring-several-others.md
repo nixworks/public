@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/20/a-minibus-carrying-private-security-guards-expl
 
 ### [2016-06-20](/news/2016/06/20/index.md)
 
+##### War in Afghanistan (2015-present)
 # A minibus carrying private security guards explodes in Kabul resulting in the death of at least 12 people and injuring several others. 
 
 The guards, who were from Nepal, were in their way to work in the Banaee area of the capital, police told NBC News.

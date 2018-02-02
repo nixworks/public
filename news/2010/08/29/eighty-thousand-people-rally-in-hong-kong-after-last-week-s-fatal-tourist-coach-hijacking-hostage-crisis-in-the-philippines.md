@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/08/29/eighty-thousand-people-rally-in-hong-kong-after-last-week-s-fatal-tourist-coach-hijacking-hostage-crisis-in-the-philippines.html)  [JSON](/news/2010/08/29/eighty-thousand-people-rally-in-hong-kong-after-last-week-s-fatal-tourist-coach-hijacking-hostage-crisis-in-the-philippines.json)  [XML](/news/2010/08/29/eighty-thousand-people-rally-in-hong-kong-after-last-week-s-fatal-tourist-coach-hijacking-hostage-crisis-in-the-philippines.xml)  
+
 ### [2010-08-29](/news/2010/08/29/index.md)
 
+##### Hong Kong
 # Eighty thousand people rally in Hong Kong after last week's fatal tourist coach hijacking hostage crisis in the Philippines. 
 
 Grief and anger at the killing of eight Hong Kong tourists in a bus siege in Manila spilled over yesterday at a march where demonstrators condemned the Philippines authorities for bungling the rescue operation.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/08/20108298392181971.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11123869)
 3. [Bangkok Post](http://www.bangkokpost.com/breakingnews/193588/thousands-march-in-hong-kong-over-manila-bloodbath)
-4. [The Independent](http://www.independent.co.uk/news/world/asia/hong-kong-in-bitter-mourning-for-manila-bus-killers-victims-2065490.html)
+4. [The Independent](https://www.independent.co.uk/news/world/asia/hong-kong-in-bitter-mourning-for-manila-bus-killers-victims-2065490.html)
 4. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2010/08/29/19/442083.bin)
 
 ### Related:

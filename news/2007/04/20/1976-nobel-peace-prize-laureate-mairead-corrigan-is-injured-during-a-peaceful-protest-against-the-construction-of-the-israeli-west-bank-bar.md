@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/20/1976-nobel-peace-prize-laureate-mairead-corrigan-is-injured-during-a-peaceful-protest-against-the-construction-of-the-israeli-west-bank-bar.html)  [JSON](/news/2007/04/20/1976-nobel-peace-prize-laureate-mairead-corrigan-is-injured-during-a-peaceful-protest-against-the-construction-of-the-israeli-west-bank-bar.json)  [XML](/news/2007/04/20/1976-nobel-peace-prize-laureate-mairead-corrigan-is-injured-during-a-peaceful-protest-against-the-construction-of-the-israeli-west-bank-bar.xml)  
+
 ### [2007-04-20](/news/2007/04/20/index.md)
 
+##### Nobel Peace Prize
 #  1976 Nobel Peace Prize Laureate Mairead Corrigan is injured during a peaceful protest against the construction of the Israeli West Bank barrier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Indymedia](http://www.indymedia.ie/article/82119)
 

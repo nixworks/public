@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/14/ugandan-opposition-leader-kizza-besigye-the-main-challenger-to-president-yoweri-museveni-in-the-first-multi-party-elections-since-1986-is.html)  [JSON](/news/2005/11/14/ugandan-opposition-leader-kizza-besigye-the-main-challenger-to-president-yoweri-museveni-in-the-first-multi-party-elections-since-1986-is.json)  [XML](/news/2005/11/14/ugandan-opposition-leader-kizza-besigye-the-main-challenger-to-president-yoweri-museveni-in-the-first-multi-party-elections-since-1986-is.xml)  
+
 ### [2005-11-14](/news/2005/11/14/index.md)
 
+##### Uganda
 #  Ugandan opposition leader Kizza Besigye, the main challenger to President Yoweri Museveni in the first multi-party elections since 1986, is arrested by the police. This has sparked off riots. He is accused of having links to the rebel groups People's Redemption Army and Lord's Resistance Army. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4435490.stm)
 2. [Reuters](http://za.today.reuters.com/news/NewsArticle.aspx?type=topNews&storyID=2005-11-14T131155Z_01_BAN442217_RTRIDST_0_OZATP-UGANDA-POLITICIAN-20051114.XML)

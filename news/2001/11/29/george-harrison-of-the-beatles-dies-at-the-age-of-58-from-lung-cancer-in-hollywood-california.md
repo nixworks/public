@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/11/29/george-harrison-of-the-beatles-dies-at-the-age-of-58-from-lung-cancer-in-hollywood-california.html)  [JSON](/news/2001/11/29/george-harrison-of-the-beatles-dies-at-the-age-of-58-from-lung-cancer-in-hollywood-california.json)  [XML](/news/2001/11/29/george-harrison-of-the-beatles-dies-at-the-age-of-58-from-lung-cancer-in-hollywood-california.xml)  
+
 ### [2001-11-29](/news/2001/11/29/index.md)
 
+##### George Harrison
 #  George Harrison of the Beatles dies at the age of 58 from lung cancer in Hollywood, California.
 
 

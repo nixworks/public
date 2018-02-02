@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/18/u-s-radio-preacher-brother-stair-host-of-the-ov
 
 ### [2017-12-18](/news/2017/12/18/index.md)
 
+##### Weinstein effect
 # U.S. radio preacher Brother Stair (host of "The Overcomer Ministry") is arrested on seven charges of sexual assault and one county of burglary. 
 
 Colleton County Sheriff’s Office personnel arrived at the Overcomer Ministry at 12680 Augusta Highway early Monday morning to take Ralph G. Stair, the leader of the religious compound, into custody on eight criminal charges. Lt. Tyger Benton, public information officer of the Colleton County Sherif
@@ -22,7 +23,8 @@ Colleton County Sheriff’s Office personnel arrived at the Overcomer Ministry a
 
 ### Related:
 
-1. [The "Silence Breakers", including those involved in the #MeToo movement, are named "Time" magazine's 2017 Time Person of the Year. ](/news/2017/12/6/the-silence-breakers-including-those-involved-in-the-metoo-movement-are-named-time-magazine-s-2017-time-person-of-the-year.md) _Context: Weinstein effect_
-2. [American producer Russell Simmons announces his resignation from his companies after a sexual assault allegation was made by screenwriter Jenny Lumet against him. ](/news/2017/11/30/american-producer-russell-simmons-announces-his-resignation-from-his-companies-after-a-sexual-assault-allegation-was-made-by-screenwriter-je.md) _Context: Weinstein effect_
-3. [NBC News announces that it has terminated their employment of Matt Lauer after a female employee filed a complaint about him conducting "inappropriate sexual behavior in the workplace". ](/news/2017/11/29/nbc-news-announces-that-it-has-terminated-their-employment-of-matt-lauer-after-a-female-employee-filed-a-complaint-about-him-conducting-ina.md) _Context: Weinstein effect_
-4. [Charlie Rose is suspended as host of "Charlie Rose" and anchor of "CBS This Morning" after allegations of sexual harassment and obscene phone calls and was later fired by the following day. ](/news/2017/11/20/charlie-rose-is-suspended-as-host-of-charlie-rose-and-anchor-of-cbs-this-morning-after-allegations-of-sexual-harassment-and-obscene-phon.md) _Context: Weinstein effect_
+1. [Trond Giske announces his permanent resignation as deputy leader of Norway's Labour Party after several sexual assault accusations. He also gives up his position in the Norwegian parliament's finance committee. ](/news/2018/01/7/trond-giske-announces-his-permanent-resignation-as-deputy-leader-of-norway-s-labour-party-after-several-sexual-assault-accusations-he-also.md) _Context: Weinstein effect_
+2. [Four women accuse film and television producer, director, and writer Paul Haggis ("Crash" and "Million Dollar Baby") of sexual misconduct including two rapes. ](/news/2018/01/5/four-women-accuse-film-and-television-producer-director-and-writer-paul-haggis-crash-and-million-dollar-baby-of-sexual-misconduct-in.md) _Context: Weinstein effect_
+3. [In the United States, billionaire Steve Wynn, best known for his casino hotels and resorts, resigns as Republican National Committee finance chair following sexual harassment reports, including a $7.5 million settlement with a former worker at his Las Vegas resort. ](/news/2018/01/27/in-the-united-states-billionaire-steve-wynn-best-known-for-his-casino-hotels-and-resorts-resigns-as-republican-national-committee-finance.md) _Context: Weinstein effect_
+4. [Vice Media suspends two of its top executives as it investigates allegations made against them. ](/news/2018/01/2/vice-media-suspends-two-of-its-top-executives-as-it-investigates-allegations-made-against-them.md) _Context: Weinstein effect_
+5. [Twitter posts disseminate claims that actor Kirk Douglas (aged 101) had been accused in the past of having sexually assaulted actress Natalie Wood when she was 16 years old (1954). ](/news/2018/01/11/twitter-posts-disseminate-claims-that-actor-kirk-douglas-aged-101-had-been-accused-in-the-past-of-having-sexually-assaulted-actress-natali.md) _Context: Weinstein effect_

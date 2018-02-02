@@ -1,14 +1,24 @@
+
+Formats: [HTML](/news/2013/12/15/the-last-australian-combat-troops-leave-afghanistan.html)  [JSON](/news/2013/12/15/the-last-australian-combat-troops-leave-afghanistan.json)  [XML](/news/2013/12/15/the-last-australian-combat-troops-leave-afghanistan.xml)  
+
 ### [2013-12-15](/news/2013/12/15/index.md)
 
+##### Australia
 # The last Australian combat troops leave Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-25396091)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/62567000/jpg/_62567724_75898283.jpg)
+
+### Changes:
+
+1. [War in Afghanistan (2001-present):The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/war-in-afghanistan-2001-present-pthe-last-australian-combat-troops-leave-afghanistan.md) _2017-08-25 03:39:42 (First version)_
+2. [War in Afghanistan (2001-present):: The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/war-in-afghanistan-2001-present-the-last-australian-combat-troops-leave-afghanistan.md) _2017-08-27 03:39:59 (Update)_
+2. [The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/the-last-australian-combat-troops-leave-afghanistan.md) _(Current version)_
 
 ### Related:
 
@@ -17,9 +27,3 @@
 3. [43 Afghan migrants on their way to Australia are detained by Indonesian authorities. ](/news/2011/03/31/43-afghan-migrants-on-their-way-to-australia-are-detained-by-indonesian-authorities.md) _Context: Afghanistan, Australia_
 4. [Australian SAS Corporal Ben Roberts-Smith is awarded the Victoria Cross for gallantry in action in the offensive in the Shah Wali Kot region in Afghanistan in June 2010. ](/news/2011/01/23/australian-sas-corporal-ben-roberts-smith-is-awarded-the-victoria-cross-for-gallantry-in-action-in-the-offensive-in-the-shah-wali-kot-region.md) _Context: Afghanistan, Australia_
 5. [92 Afghan asylum seekers escape from the Northern Immigration Detention Centre in Darwin, Australia as part of a protest with four people being hospitalised due to dehydration. ](/news/2010/09/1/92-afghan-asylum-seekers-escape-from-the-northern-immigration-detention-centre-in-darwin-australia-as-part-of-a-protest-with-four-people-be.md) _Context: Afghanistan, Australia_
-
-### Changes:
-
-1. [War in Afghanistan (2001-present):The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/war-in-afghanistan-2001-present-pthe-last-australian-combat-troops-leave-afghanistan.md) _2017-08-25 03:39:42 (First version)_
-2. [War in Afghanistan (2001-present):: The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/war-in-afghanistan-2001-present-the-last-australian-combat-troops-leave-afghanistan.md) _2017-08-27 03:39:59 (Update)_
-2. [The last Australian combat troops leave Afghanistan. ](/news/2013/12/15/the-last-australian-combat-troops-leave-afghanistan.md) _(Current version)_

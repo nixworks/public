@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/30/fair-work-australia-orders-the-australian-airline-qantas-and-its-unions-to-reach-an-agreement-within-21-days-meaning-that-services-will-resu.html)  [JSON](/news/2011/10/30/fair-work-australia-orders-the-australian-airline-qantas-and-its-unions-to-reach-an-agreement-within-21-days-meaning-that-services-will-resu.json)  [XML](/news/2011/10/30/fair-work-australia-orders-the-australian-airline-qantas-and-its-unions-to-reach-an-agreement-within-21-days-meaning-that-services-will-resu.xml)  
+
 ### [2011-10-30](/news/2011/10/30/index.md)
 
+##### Fair Work Australia
 # Fair Work Australia orders the Australian airline Qantas and its unions to reach an agreement within 21 days meaning that services will resume on Monday. 
 
 QANTAS CEO Alan Joyce says the Federal Government was warned the airline was in crisis weeks ahead of the grounding of the fleet.
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/breaking-news/national/qantas-customers-only-winners-joyce/story-e6frfku9-1226181107185)
 1. [Cover Image](http://resources.news.com.au/cs/newscomau/images/placeholders/story-thumb-large.jpg)

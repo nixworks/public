@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/17/christian-wulff-the-president-of-germany-resigns-over-a-corruption-scandal.html)  [JSON](/news/2012/02/17/christian-wulff-the-president-of-germany-resigns-over-a-corruption-scandal.json)  [XML](/news/2012/02/17/christian-wulff-the-president-of-germany-resigns-over-a-corruption-scandal.xml)  
+
 ### [2012-02-17](/news/2012/02/17/index.md)
 
+##### Christian Wulff
 # Christian Wulff, the President of Germany, resigns over a corruption scandal. 
 
 German President Christian Wulff announces his resignation, after prosecutors called for his immunity to be lifted over corruption allegations.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17072479)
 2. [Reuters](http://uk.reuters.com/article/2012/02/17/uk-germany-president-idUKTRE81G0H720120217)

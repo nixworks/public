@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/18/china-has-recorded-its-sixth-death-from-the-avian-flu-virus-according-to-a-report-on-the-chinese-health-ministry-s-web-site.html)  [JSON](/news/2006/01/18/china-has-recorded-its-sixth-death-from-the-avian-flu-virus-according-to-a-report-on-the-chinese-health-ministry-s-web-site.json)  [XML](/news/2006/01/18/china-has-recorded-its-sixth-death-from-the-avian-flu-virus-according-to-a-report-on-the-chinese-health-ministry-s-web-site.xml)  
+
 ### [2006-01-18](/news/2006/01/18/index.md)
 
+##### bird flu
 #  China has recorded its sixth death from the avian flu virus, according to a report on the Chinese Health Ministry's Web site. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2006/HEALTH/01/18/birdflu.wrap/index.html)
 

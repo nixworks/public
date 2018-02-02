@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/23/bill-frist-was-voted-to-succeed-trent-lott-as-united-states-senate-majority-leader.html)  [JSON](/news/2002/12/23/bill-frist-was-voted-to-succeed-trent-lott-as-united-states-senate-majority-leader.json)  [XML](/news/2002/12/23/bill-frist-was-voted-to-succeed-trent-lott-as-united-states-senate-majority-leader.xml)  
+
 ### [2002-12-23](/news/2002/12/23/index.md)
 
+##### Bill Frist
 # Bill Frist was voted to succeed Trent Lott as United States Senate Majority Leader. 
 
 

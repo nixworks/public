@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/20/robert-kaplan-head-of-the-federal-reserve-bank-
 
 ### [2017-06-20](/news/2017/06/20/index.md)
 
+##### Economy of the United States
 # Robert Kaplan, head of the Federal Reserve Bank of Dallas, says that low bond yields suggest sluggish growth ahead for the economy of the United States. 
 
 With yields on U.S. 10-year Treasuries as low as they are, the Federal Reserve needs to be careful about raising U.S. interest rates further, Dallas Federal Reserve President Robert Kaplan said on Tuesday.

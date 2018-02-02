@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/25/severe-tropical-cyclone-rusty-intensifies-to-category-2-status-with-concerns-that-it-may-intensify-further-before-crossing-the-west-australi.html)  [JSON](/news/2013/02/25/severe-tropical-cyclone-rusty-intensifies-to-category-2-status-with-concerns-that-it-may-intensify-further-before-crossing-the-west-australi.json)  [XML](/news/2013/02/25/severe-tropical-cyclone-rusty-intensifies-to-category-2-status-with-concerns-that-it-may-intensify-further-before-crossing-the-west-australi.xml)  
+
 ### [2013-02-25](/news/2013/02/25/index.md)
 
+##### Severe Tropical Cyclone Rusty
 # Severe Tropical Cyclone Rusty intensifies to Category 2 status with concerns that it may intensify further before crossing the West Australian coast later this week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via ''The Australian](http://www.theaustralian.com.au/news/cyclone-warning-for-coastal-wa/story-e6frg6n6-1226584443907)
 

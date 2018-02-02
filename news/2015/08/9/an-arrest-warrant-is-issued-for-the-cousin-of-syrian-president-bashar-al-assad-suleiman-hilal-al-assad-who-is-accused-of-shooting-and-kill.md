@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/9/an-arrest-warrant-is-issued-for-the-cousin-of-syrian-president-bashar-al-assad-suleiman-hilal-al-assad-who-is-accused-of-shooting-and-kill.html)  [JSON](/news/2015/08/9/an-arrest-warrant-is-issued-for-the-cousin-of-syrian-president-bashar-al-assad-suleiman-hilal-al-assad-who-is-accused-of-shooting-and-kill.json)  [XML](/news/2015/08/9/an-arrest-warrant-is-issued-for-the-cousin-of-syrian-president-bashar-al-assad-suleiman-hilal-al-assad-who-is-accused-of-shooting-and-kill.xml)  
+
 ### [2015-08-9](/news/2015/08/9/index.md)
 
+##### Syria
 # An arrest warrant is issued for the cousin of Syrian President Bashar al-Assad, Suleiman Hilal Al-Assad, who is accused of shooting and killing Colonel Hassan Al-Sheikh of the Syrian Armed Forces at what can be described as a traffic dispute. 
 
 Dozens&#x20;of&#x20;Syrians&#x20;staged&#x20;a&#x20;rare&#x20;protest&#x20;in&#x20;the&#x20;coastal&#x20;city&#x20;of&#x20;Latakia&#x20;Saturday&#x20;night,&#x20;calling&#x20;for&#x20;the&#x20;execution&#x20;of&#x20;a&#x20;relative&#x20;of&#x20;President&#x20;Bashar&#x20;al-Assad&#x20;who&#x20;has&#x20;been&#x20;accused&#x20;of&#x20;killing&#x20;an&#x20;army&#x20;officer&#x20;over&#x20;a&#x20;traffic&#x20;dispute,&#x20;monitors&#x20;said.
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/20150809-syria-protesters-road-rage-assad-relative-accused-civil-war-alawite-latakia)
 2. [The News Hub](https://www.the-newshub.com/international/close-cousin-of-syrian-president-will-be-arrested-for-the-murder)

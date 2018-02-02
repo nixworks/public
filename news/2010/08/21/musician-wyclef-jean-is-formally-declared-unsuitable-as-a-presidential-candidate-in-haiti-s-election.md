@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/21/musician-wyclef-jean-is-formally-declared-unsuitable-as-a-presidential-candidate-in-haiti-s-election.html)  [JSON](/news/2010/08/21/musician-wyclef-jean-is-formally-declared-unsuitable-as-a-presidential-candidate-in-haiti-s-election.json)  [XML](/news/2010/08/21/musician-wyclef-jean-is-formally-declared-unsuitable-as-a-presidential-candidate-in-haiti-s-election.xml)  
+
 ### [2010-08-21](/news/2010/08/21/index.md)
 
+##### Wyclef Jean
 # Musician Wyclef Jean is formally declared unsuitable as a presidential candidate in Haiti's election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/20108211031447758.html)
 2. [BBC](http://www.bbc.co.uk/news/entertainment-arts-11034608)

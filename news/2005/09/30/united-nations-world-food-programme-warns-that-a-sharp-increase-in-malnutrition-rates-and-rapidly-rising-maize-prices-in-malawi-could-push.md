@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/30/united-nations-world-food-programme-warns-that-a-sharp-increase-in-malnutrition-rates-and-rapidly-rising-maize-prices-in-malawi-could-push.html)  [JSON](/news/2005/09/30/united-nations-world-food-programme-warns-that-a-sharp-increase-in-malnutrition-rates-and-rapidly-rising-maize-prices-in-malawi-could-push.json)  [XML](/news/2005/09/30/united-nations-world-food-programme-warns-that-a-sharp-increase-in-malnutrition-rates-and-rapidly-rising-maize-prices-in-malawi-could-push.xml)  
+
 ### [2005-09-30](/news/2005/09/30/index.md)
 
+##### United Nations
 #  United Nations World Food Programme warns that a sharp increase in malnutrition rates and rapidly rising maize prices in Malawi could push the number of vulnerable people in need of food aid up to five million. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.alertnet.org/thenews/newsdesk/IRIN/674fd22d87c7281b2f5364625ed502f4.htm)
 

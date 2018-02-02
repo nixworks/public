@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/31/australia-suspends-exports-of-live-cattle-to-11-indonesian-abattoirs-following-exposure-of-abuses-on-abc-television-s-four-corners.html)  [JSON](/news/2011/05/31/australia-suspends-exports-of-live-cattle-to-11-indonesian-abattoirs-following-exposure-of-abuses-on-abc-television-s-four-corners.json)  [XML](/news/2011/05/31/australia-suspends-exports-of-live-cattle-to-11-indonesian-abattoirs-following-exposure-of-abuses-on-abc-television-s-four-corners.xml)  
+
 ### [2011-05-31](/news/2011/05/31/index.md)
 
+##### Australia
 # Australia suspends exports of live cattle to 11 Indonesian abattoirs following exposure of abuses on ABC Television's "Four Corners". 
 
 Live cattle exports to 11 Indonesian abattoirs investigated by the ABC&#039;s Four Corners program will be suspended.
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/stories/2011/05/31/3231665.htm?section=world)
 1. [Cover Image](http://www.abc.net.au/news/image/2737912-1x1-700x700.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/27/the-estimate-of-the-number-of-dead-in-the-bam-earthquake-increases-to-40-000-according-to-the-provincial-governor-iran-has-refused-earthq.html)  [JSON](/news/2003/12/27/the-estimate-of-the-number-of-dead-in-the-bam-earthquake-increases-to-40-000-according-to-the-provincial-governor-iran-has-refused-earthq.json)  [XML](/news/2003/12/27/the-estimate-of-the-number-of-dead-in-the-bam-earthquake-increases-to-40-000-according-to-the-provincial-governor-iran-has-refused-earthq.xml)  
+
 ### [2003-12-27](/news/2003/12/27/index.md)
 
+##### Bam
 #  The estimate of the number of dead in the Bam earthquake increases to 40,000, according to the provincial governor. Iran has refused earthquake aid from Israel.[http:--news.independent.co.uk-world-middle_east-story.jsp?story=476263]
 
 

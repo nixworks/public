@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2011/11/14/three-french-aid-workers-with-triangle-generation-humanitaire-kidnapped-in-yemen-in-may-are-freed.html)  [JSON](/news/2011/11/14/three-french-aid-workers-with-triangle-generation-humanitaire-kidnapped-in-yemen-in-may-are-freed.json)  [XML](/news/2011/11/14/three-french-aid-workers-with-triangle-generation-humanitaire-kidnapped-in-yemen-in-may-are-freed.xml)  
+
 ### [2011-11-14](/news/2011/11/14/index.md)
 
+##### French-born
 # Three French aid workers with Triangle Generation Humanitaire kidnapped in Yemen in May are freed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://hosted.ap.org/dynamic/stories/E/EU_FRANCE_YEMEN_HOSTAGES?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2011-11-14-00-36-15)
 
 ### Related:
 
 1. [Three French foreign aid workers disappear in Yemen's Hadramout province. ](/news/2011/05/29/three-french-foreign-aid-workers-disappear-in-yemen-s-hadramout-province.md) _Context: French-born, Yemen_
-2. [Houthi forces claim to have shot down a U.S. MQ-9 Reaper drone over the Yemeni capital Sana'a. Footage released by Saba News Agency appears to show crowds gathering around the wreckage of an aircraft. ](/news/2017/10/1/houthi-forces-claim-to-have-shot-down-a-u-s-mq-9-reaper-drone-over-the-yemeni-capital-sana-a-footage-released-by-saba-news-agency-appears.md) _Context: Yemen_
-3. [Denmark's Prince Henrik announces he won't be buried next to Queen Margrethe II in the Roskilde Cathedral where Danish royals have been buried since 1559. The 83-year-old, French-born Henrik has been dissatisfied with his non-equal role as Prince consort. The 77-year old Margrethe, who had a specially designed sarcophagus made for the couple, accepts Henrik's decision, according to a royal house spokeswoman. ](/news/2017/08/4/denmark-s-prince-henrik-announces-he-won-t-be-buried-next-to-queen-margrethe-ii-in-the-roskilde-cathedral-where-danish-royals-have-been-buri.md) _Context: French-born_
-4. [An American UH-60 Black Hawk helicopter on a training mission crashes off the coast of Yemen with six aboard, five of whom have been rescued. The search continues for the other U.S. service member. ](/news/2017/08/25/an-american-uh-60-black-hawk-helicopter-on-a-training-mission-crashes-off-the-coast-of-yemen-with-six-aboard-five-of-whom-have-been-rescued.md) _Context: Yemen_
-5. [At least 35 people are killed in an air strike that hit a hotel near a Houthi-run checkpoint north of the Yemeni capital Sanaa. ](/news/2017/08/23/at-least-35-people-are-killed-in-an-air-strike-that-hit-a-hotel-near-a-houthi-run-checkpoint-north-of-the-yemeni-capital-sanaa.md) _Context: Yemen_
+2. [The Southern Transitional Council (STC) takes control of the Yemeni port city of Aden following two days of fierce fighting in the city which has left dozens dead. Yemeni Prime Minister Ahmed Obeid bin Daghr, and members of the President Abdrabbuh Mansur Hadi-led government are confined to the presidential palace which has been surrounded. ](/news/2018/01/30/the-southern-transitional-council-stc-takes-control-of-the-yemeni-port-city-of-aden-following-two-days-of-fierce-fighting-in-the-city-whic.md) _Context: Yemen_
+3. [United Arab Emirates-backed Southern Transitional Council (STC) fighters seize control of government buildings in the southern Yemeni city of Aden, after clashing with forces loyal to President Abdrabbuh Mansur Hadi. At least 10 people are reportedly killed and 30 wounded. Yemeni Prime Minister Ahmed Obeid bin Daghr accuses the separatists of mounting a coup. ](/news/2018/01/28/united-arab-emirates-backed-southern-transitional-council-stc-fighters-seize-control-of-government-buildings-in-the-southern-yemeni-city-o.md) _Context: Yemen_
+4. [After 1,000 days of civil war in Yemen, eight million people are at risk of starvation. ](/news/2017/12/22/after-1-000-days-of-civil-war-in-yemen-eight-million-people-are-at-risk-of-starvation.md) _Context: Yemen_
+5. [Nikki Haley, the U.S. Ambassador to the United Nations, accuses Iran of violating the 2015 nuclear deal by allegedly supplying the missile fired last month on Saudi Arabia from Yemen. Iran refutes the claim as based on "fabricated" evidence. ](/news/2017/12/14/nikki-haley-the-u-s-ambassador-to-the-united-nations-accuses-iran-of-violating-the-2015-nuclear-deal-by-allegedly-supplying-the-missile-f.md) _Context: Yemen_

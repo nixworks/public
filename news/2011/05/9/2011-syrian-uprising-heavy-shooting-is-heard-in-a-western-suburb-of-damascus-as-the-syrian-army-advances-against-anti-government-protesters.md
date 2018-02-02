@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/9/2011-syrian-uprising-heavy-shooting-is-heard-in-a-western-suburb-of-damascus-as-the-syrian-army-advances-against-anti-government-protesters.html)  [JSON](/news/2011/05/9/2011-syrian-uprising-heavy-shooting-is-heard-in-a-western-suburb-of-damascus-as-the-syrian-army-advances-against-anti-government-protesters.json)  [XML](/news/2011/05/9/2011-syrian-uprising-heavy-shooting-is-heard-in-a-western-suburb-of-damascus-as-the-syrian-army-advances-against-anti-government-protesters.xml)  
+
 ### [2011-05-9](/news/2011/05/9/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: Heavy shooting is heard in a western suburb of Damascus as the Syrian Army advances against anti-government protesters. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-13330069)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/52612000/jpg/_52612687_011928766-1.jpg)

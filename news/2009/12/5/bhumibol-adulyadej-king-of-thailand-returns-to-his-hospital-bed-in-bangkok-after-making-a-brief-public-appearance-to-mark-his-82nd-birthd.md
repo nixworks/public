@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/5/bhumibol-adulyadej-king-of-thailand-returns-to-his-hospital-bed-in-bangkok-after-making-a-brief-public-appearance-to-mark-his-82nd-birthd.html)  [JSON](/news/2009/12/5/bhumibol-adulyadej-king-of-thailand-returns-to-his-hospital-bed-in-bangkok-after-making-a-brief-public-appearance-to-mark-his-82nd-birthd.json)  [XML](/news/2009/12/5/bhumibol-adulyadej-king-of-thailand-returns-to-his-hospital-bed-in-bangkok-after-making-a-brief-public-appearance-to-mark-his-82nd-birthd.xml)  
+
 ### [2009-12-5](/news/2009/12/5/index.md)
 
+##### Bhumibol Adulyadej
 #  Bhumibol Adulyadej, King of Thailand, returns to his hospital bed in Bangkok after making a brief public appearance to mark his 82nd birthday. 
 
 Thailand&#39;s king has returned to a Bangkok hospital, after making a brief public appearance at ceremony held to mark his 82nd birthday.
 
 
-### Source:
+### Sources:
 
 1. [BERNAMA](http://www.bernama.com/bernama/v5/newsgeneral.php?id=460193)
 2. [RTÉ](http://www.rte.ie/news/2009/1205/thailand.html)

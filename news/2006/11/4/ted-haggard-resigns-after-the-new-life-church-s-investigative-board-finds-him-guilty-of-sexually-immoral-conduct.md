@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/4/ted-haggard-resigns-after-the-new-life-church-s-investigative-board-finds-him-guilty-of-sexually-immoral-conduct.html)  [JSON](/news/2006/11/4/ted-haggard-resigns-after-the-new-life-church-s-investigative-board-finds-him-guilty-of-sexually-immoral-conduct.json)  [XML](/news/2006/11/4/ted-haggard-resigns-after-the-new-life-church-s-investigative-board-finds-him-guilty-of-sexually-immoral-conduct.xml)  
+
 ### [2006-11-4](/news/2006/11/4/index.md)
 
+##### Ted Haggard
 #  Ted Haggard resigns after the New Life Church's investigative board finds him guilty of "sexually immoral conduct". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via WCBS](http://wcbstv.com/topstories/topstories_story_308171611.html)
 

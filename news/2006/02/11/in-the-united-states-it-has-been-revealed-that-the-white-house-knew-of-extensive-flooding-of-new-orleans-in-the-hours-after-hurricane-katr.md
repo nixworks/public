@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/11/in-the-united-states-it-has-been-revealed-that-the-white-house-knew-of-extensive-flooding-of-new-orleans-in-the-hours-after-hurricane-katr.html)  [JSON](/news/2006/02/11/in-the-united-states-it-has-been-revealed-that-the-white-house-knew-of-extensive-flooding-of-new-orleans-in-the-hours-after-hurricane-katr.json)  [XML](/news/2006/02/11/in-the-united-states-it-has-been-revealed-that-the-white-house-knew-of-extensive-flooding-of-new-orleans-in-the-hours-after-hurricane-katr.xml)  
+
 ### [2006-02-11](/news/2006/02/11/index.md)
 
+##### White House
 #  In the United States, it has been revealed that the White House knew of extensive flooding of New Orleans in the hours after Hurricane Katrina struck last August. Michael Brown, the former head of the Federal Emergency Management Agency (FEMA), told a Senate Committee that he informed the White House of the seriousness of the situation at a time when even the media were not fully aware of the extent of the flooding. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/am/content/2006/s1567631.htm)
 

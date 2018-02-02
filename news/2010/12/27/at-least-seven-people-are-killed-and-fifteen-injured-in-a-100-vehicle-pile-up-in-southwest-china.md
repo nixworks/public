@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/27/at-least-seven-people-are-killed-and-fifteen-injured-in-a-100-vehicle-pile-up-in-southwest-china.html)  [JSON](/news/2010/12/27/at-least-seven-people-are-killed-and-fifteen-injured-in-a-100-vehicle-pile-up-in-southwest-china.json)  [XML](/news/2010/12/27/at-least-seven-people-are-killed-and-fifteen-injured-in-a-100-vehicle-pile-up-in-southwest-china.xml)  
+
 ### [2010-12-27](/news/2010/12/27/index.md)
 
+##### China
 # At least seven people are killed and fifteen injured in a 100-vehicle pile up in southwest China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/12/27/china.traffic.collision/)
 2. [NDTV](http://www.ndtv.com/article/world/over-100-vehicle-pile-up-kills-7-in-china-75139)

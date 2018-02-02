@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/24/at-the-united-russia-congress-prime-minister-vladimir-putin-accepts-president-dmitry-medvedev-s-proposal-to-run-in-the-2012-russian-preside.html)  [JSON](/news/2011/09/24/at-the-united-russia-congress-prime-minister-vladimir-putin-accepts-president-dmitry-medvedev-s-proposal-to-run-in-the-2012-russian-preside.json)  [XML](/news/2011/09/24/at-the-united-russia-congress-prime-minister-vladimir-putin-accepts-president-dmitry-medvedev-s-proposal-to-run-in-the-2012-russian-preside.xml)  
+
 ### [2011-09-24](/news/2011/09/24/index.md)
 
+##### United Russia
 # At the United Russia Congress, Prime Minister Vladimir Putin accepts President Dmitry Medvedev's proposal to run in the 2012 Russian presidential election. 
 
 Russian Prime Minister Vladimir Putin announces he has accepted a proposal to run for president next year, all but guaranteeing his return to the Kremlin.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-15045816)
 2. [RIA Novosti](http://en.rian.ru/russia/)

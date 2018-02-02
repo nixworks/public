@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/17/at-least-three-baton-rouge-police-department-of
 
 ### [2016-07-17](/news/2016/07/17/index.md)
 
+##### 2016 shooting of Baton Rouge police officers
 # At least three Baton Rouge Police Department officers are shot dead and several others are wounded by a gunman in Baton Rouge, Louisiana. 
 
 Three US police officers have been killed and three injured in a shooting in the southern city of Baton Rouge, officials say.

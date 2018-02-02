@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/30/in-spain-a-bomb-explodes-at-a-hotel-in-the-southwest-town-denia-injuring-one-police-officials-say-the-detonation-occurred-after-a-telepho.html)  [JSON](/news/2005/01/30/in-spain-a-bomb-explodes-at-a-hotel-in-the-southwest-town-denia-injuring-one-police-officials-say-the-detonation-occurred-after-a-telepho.json)  [XML](/news/2005/01/30/in-spain-a-bomb-explodes-at-a-hotel-in-the-southwest-town-denia-injuring-one-police-officials-say-the-detonation-occurred-after-a-telepho.xml)  
+
 ### [2005-01-30](/news/2005/01/30/index.md)
 
+##### Spain
 #  In Spain, a bomb explodes at a hotel in the southwest town Denia injuring one. Police officials say the detonation occurred after a telephone warning from the Basque ETA group. Spanish parliament is scheduled to debate and vote on a Basque plan for independence from Spain in two days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/4220605.stm)
 

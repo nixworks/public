@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/12/30/tiki-barber-rushes-for-234-yards-in-his-final-game-in-the-nfl-this-is-a-record-for-the-most-rushing-yards-in-a-running-backs-last-game-an.html)  [JSON](/news/2006/12/30/tiki-barber-rushes-for-234-yards-in-his-final-game-in-the-nfl-this-is-a-record-for-the-most-rushing-yards-in-a-running-backs-last-game-an.json)  [XML](/news/2006/12/30/tiki-barber-rushes-for-234-yards-in-his-final-game-in-the-nfl-this-is-a-record-for-the-most-rushing-yards-in-a-running-backs-last-game-an.xml)  
+
 ### [2006-12-30](/news/2006/12/30/index.md)
 
+##### Tiki Barber
 #  Tiki Barber rushes for 234 yards in his final game in the NFL. This is a record for the most rushing yards in a running backs last game, and a New York Giants team record for the most rushing yards in a game.
 
 

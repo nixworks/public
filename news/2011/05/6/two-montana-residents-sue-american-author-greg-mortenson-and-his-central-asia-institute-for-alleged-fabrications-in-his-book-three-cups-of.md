@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/6/two-montana-residents-sue-american-author-greg-mortenson-and-his-central-asia-institute-for-alleged-fabrications-in-his-book-three-cups-of.html)  [JSON](/news/2011/05/6/two-montana-residents-sue-american-author-greg-mortenson-and-his-central-asia-institute-for-alleged-fabrications-in-his-book-three-cups-of.json)  [XML](/news/2011/05/6/two-montana-residents-sue-american-author-greg-mortenson-and-his-central-asia-institute-for-alleged-fabrications-in-his-book-three-cups-of.xml)  
+
 ### [2011-05-6](/news/2011/05/6/index.md)
 
+##### Montana
 # Two Montana residents sue American author Greg Mortenson and his Central Asia Institute for alleged fabrications in his book "Three Cups of Tea". 
 
 Lawsuit alleges Greg Mortenson, his charity committed fraud by inducing 2 lawmakers to donate, buy book
 
 
-### Source:
+### Sources:
 
 1. [AP via CBS News](http://www.cbsnews.com/stories/2011/05/06/national/main20060580.shtml#ixzz1Lbg9OOqA)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/04/20/5185e795-a644-11e2-a3f0-029118418759/Greg-Mortenson_110420.jpg)

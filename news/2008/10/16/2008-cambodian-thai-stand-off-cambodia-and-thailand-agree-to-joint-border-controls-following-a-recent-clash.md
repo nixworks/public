@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/16/2008-cambodian-thai-stand-off-cambodia-and-thailand-agree-to-joint-border-controls-following-a-recent-clash.html)  [JSON](/news/2008/10/16/2008-cambodian-thai-stand-off-cambodia-and-thailand-agree-to-joint-border-controls-following-a-recent-clash.json)  [XML](/news/2008/10/16/2008-cambodian-thai-stand-off-cambodia-and-thailand-agree-to-joint-border-controls-following-a-recent-clash.xml)  
+
 ### [2008-10-16](/news/2008/10/16/index.md)
 
+##### exchange gunfire
 #  2008 Cambodian-Thai stand-off: Cambodia and Thailand agree to joint border controls following a recent clash. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via the Sydney Morning Herald](http://news.smh.com.au/world/cambodians-thais-agree-to-joint-patrols-20081017-52ia.html)
 

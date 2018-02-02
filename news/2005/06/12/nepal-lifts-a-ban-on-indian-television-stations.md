@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/12/nepal-lifts-a-ban-on-indian-television-stations.html)  [JSON](/news/2005/06/12/nepal-lifts-a-ban-on-indian-television-stations.json)  [XML](/news/2005/06/12/nepal-lifts-a-ban-on-indian-television-stations.xml)  
+
 ### [2005-06-12](/news/2005/06/12/index.md)
 
+##### Nepal
 #  Nepal lifts a ban on Indian television stations. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4085140.stm)
 2. [Deepika](http://www.deepikaglobal.com/ENG4_sub.asp?ccode=ENG4&newscode=107293)

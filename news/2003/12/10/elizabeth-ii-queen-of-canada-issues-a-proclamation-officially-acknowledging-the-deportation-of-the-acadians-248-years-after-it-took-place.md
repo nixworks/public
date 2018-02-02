@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/12/10/elizabeth-ii-queen-of-canada-issues-a-proclamation-officially-acknowledging-the-deportation-of-the-acadians-248-years-after-it-took-place.html)  [JSON](/news/2003/12/10/elizabeth-ii-queen-of-canada-issues-a-proclamation-officially-acknowledging-the-deportation-of-the-acadians-248-years-after-it-took-place.json)  [XML](/news/2003/12/10/elizabeth-ii-queen-of-canada-issues-a-proclamation-officially-acknowledging-the-deportation-of-the-acadians-248-years-after-it-took-place.xml)  
+
 ### [2003-12-10](/news/2003/12/10/index.md)
 
+##### Queen Elizabeth
 # Elizabeth II, Queen of Canada, issues a proclamation officially acknowledging the deportation of the Acadians, 248 years after it took place. The proclamation is delivered by Heritage Minister Sheila Copps, who is of Acadian descent. [http:--www.cbc.ca-stories-2003-12-10-acadian031210]
 
 

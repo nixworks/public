@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/5/wang-lijun-the-former-vice-mayor-and-police-chief-of-chongqing-faces-charges-of-abuse-of-power-bribe-taking-defection-and-bending-the-l.html)  [JSON](/news/2012/09/5/wang-lijun-the-former-vice-mayor-and-police-chief-of-chongqing-faces-charges-of-abuse-of-power-bribe-taking-defection-and-bending-the-l.json)  [XML](/news/2012/09/5/wang-lijun-the-former-vice-mayor-and-police-chief-of-chongqing-faces-charges-of-abuse-of-power-bribe-taking-defection-and-bending-the-l.xml)  
+
 ### [2012-09-5](/news/2012/09/5/index.md)
 
+##### Wang Lijun
 # Wang Lijun, the former vice mayor and police chief of Chongqing, faces charges of abuse of power, bribe-taking, defection, and bending the law for personal gain. The Chengdu city prosecutor says Wang has tried to cover up Gu Kailai's murder of businessman Neil Heywood. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/china/2012-09/05/c_131830163.htm)
 

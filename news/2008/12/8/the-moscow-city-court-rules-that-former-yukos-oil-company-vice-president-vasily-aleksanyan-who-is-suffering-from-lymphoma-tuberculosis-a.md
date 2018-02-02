@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/8/the-moscow-city-court-rules-that-former-yukos-oil-company-vice-president-vasily-aleksanyan-who-is-suffering-from-lymphoma-tuberculosis-a.html)  [JSON](/news/2008/12/8/the-moscow-city-court-rules-that-former-yukos-oil-company-vice-president-vasily-aleksanyan-who-is-suffering-from-lymphoma-tuberculosis-a.json)  [XML](/news/2008/12/8/the-moscow-city-court-rules-that-former-yukos-oil-company-vice-president-vasily-aleksanyan-who-is-suffering-from-lymphoma-tuberculosis-a.xml)  
+
 ### [2008-12-8](/news/2008/12/8/index.md)
 
+##### Moscow
 #  The Moscow City Court rules that former Yukos Oil Company vice president Vasily Aleksanyan, who is suffering from lymphoma, tuberculosis, and AIDS, will be freed on bail of 50 million rubles (US$1.78 million). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Moscow Times](http://www.moscowtimes.ru/article/600/42/372993.htm)
 1. [Cover Image](http://moscowtimes.org/img/logo-big.png)
@@ -14,6 +18,6 @@
 
 1. [ The United States House of Representatives votes to provide $50 billion over five years to fight AIDS, tuberculosis and malaria in Africa and other third world areas. ](/news/2008/04/2/the-united-states-house-of-representatives-votes-to-provide-50-billion-over-five-years-to-fight-aids-tuberculosis-and-malaria-in-africa-a.md) _Context: AIDS, tuberculosis_
 2. [ WTO deal to allow poor countries to bypass drug patents and import cheap copies to treat AIDS, malaria and tuberculosis.](/news/2003/08/30/wto-deal-to-allow-poor-countries-to-bypass-drug-patents-and-import-cheap-copies-to-treat-aids-malaria-and-tuberculosis.md) _Context: AIDS, tuberculosis_
-3. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Moscow_
-4. [Russian opposition leader and hopeful presidential candidate Alexei Navalny is sentenced in Moscow to 20 days detention for organizing unauthorized public meetings. This is Navalny's third jail term this year. ](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-days-detention-for-organizing-unaut.md) _Context: Moscow_
-5. [The United States Department of Justice has requested Moscow-based Russian media channel RT America to register as a foreign lobbying firm in the United States. ](/news/2017/09/12/the-united-states-department-of-justice-has-requested-moscow-based-russian-media-channel-rt-america-to-register-as-a-foreign-lobbying-firm-i.md) _Context: Moscow_
+3. [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md) _Context: Moscow_
+4. [The U.S. state of Alaska eliminates the posting of bail in criminal cases, replacing it with a points-based system, rating the defendant on their previous criminal history, their danger to the public, and their probability of showing up to court hearings. ](/news/2018/01/1/the-u-s-state-of-alaska-eliminates-the-posting-of-bail-in-criminal-cases-replacing-it-with-a-points-based-system-rating-the-defendant-on.md) _Context: bail_
+5. [A public transport bus crashes into Slavyansky Bulvar subway station entrance in Moscow, Russia, killing four and injuring eleven. ](/news/2017/12/25/a-public-transport-bus-crashes-into-slavyansky-bulvar-subway-station-entrance-in-moscow-russia-killing-four-and-injuring-eleven.md) _Context: Moscow_

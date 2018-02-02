@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/20/both-paul-ryan-and-tom-perez-plan-to-campaign-f
 
 ### [2017-04-20](/news/2017/04/20/index.md)
 
+##### Georgia's 6th congressional district special election, 2017
 # Both Paul Ryan and Tom Perez plan to campaign for the local candidates Karen Handel and Jon Ossoff respectively. 
 
 Ryan will reportedly stump alongside Republican Karen Handel sometime in the next few weeks.

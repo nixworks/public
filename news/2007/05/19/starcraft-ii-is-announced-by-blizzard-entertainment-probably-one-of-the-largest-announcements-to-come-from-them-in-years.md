@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/05/19/starcraft-ii-is-announced-by-blizzard-entertainment-probably-one-of-the-largest-announcements-to-come-from-them-in-years.html)  [JSON](/news/2007/05/19/starcraft-ii-is-announced-by-blizzard-entertainment-probably-one-of-the-largest-announcements-to-come-from-them-in-years.json)  [XML](/news/2007/05/19/starcraft-ii-is-announced-by-blizzard-entertainment-probably-one-of-the-largest-announcements-to-come-from-them-in-years.xml)  
+
 ### [2007-05-19](/news/2007/05/19/index.md)
 
+##### Starcraft II
 #  Starcraft II is announced by Blizzard Entertainment, probably one of the largest announcements to come from them in years. 
 
 Everyone&#039;s expecting something big from Blizzard&#039;s Worldwide Invitational in Seoul, South Korea this weekend, partially because of what the Team Liquid forums have been up to. What precisely will be said is still unclear, as Blizzard has yet to disclose anything concrete. Of course there&#039;s been plenty of speculation, with StarCraft 2 leading the pack of possible titles to be announced.
 
 
-### Source:
+### Sources:
 
 1. [IGN](http://pc.ign.com/articles/788/788627p1.html)
 1. [Cover Image](http://ps3media.ign.com/ps3/image/object/069/069045/starcraft_wol_ce_esrb.jpg)

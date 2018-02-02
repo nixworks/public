@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/25/in-an-open-letter-ralph-nader-warns-canadians-against-voting-for-the-conservative-party-in-the-federal-election-on-june-28-2004.html)  [JSON](/news/2004/06/25/in-an-open-letter-ralph-nader-warns-canadians-against-voting-for-the-conservative-party-in-the-federal-election-on-june-28-2004.json)  [XML](/news/2004/06/25/in-an-open-letter-ralph-nader-warns-canadians-against-voting-for-the-conservative-party-in-the-federal-election-on-june-28-2004.xml)  
+
 ### [2004-06-25](/news/2004/06/25/index.md)
 
+##### Ralph Nader
 #  In an open letter, Ralph Nader warns Canadians against voting for the Conservative Party in the federal election on June 28, 2004. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/stories/2004/06/25/canada/newnader_canada040625)
 

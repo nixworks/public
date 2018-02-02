@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/27/peter-james-bethune-a-new-zealand-anti-whaling-campaigner-pleads-guilty-to-four-charges-over-his-alleged-attacks-on-the-japanese-whaling-v.html)  [JSON](/news/2010/05/27/peter-james-bethune-a-new-zealand-anti-whaling-campaigner-pleads-guilty-to-four-charges-over-his-alleged-attacks-on-the-japanese-whaling-v.json)  [XML](/news/2010/05/27/peter-james-bethune-a-new-zealand-anti-whaling-campaigner-pleads-guilty-to-four-charges-over-his-alleged-attacks-on-the-japanese-whaling-v.xml)  
+
 ### [2010-05-27](/news/2010/05/27/index.md)
 
+##### Peter James Bethune
 # Peter James Bethune, a New Zealand anti-whaling campaigner, pleads guilty to four charges over his alleged attacks on the Japanese whaling vessel MV "Shonan Maru 2" in February. 
 
 New Zealand anti-whaling activist Peter Bethune has pleaded guilty to four charges but denied a charge of assault.
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://www.abc.net.au/news/stories/2010/05/27/2910900.htm?section=world)
 2. [Radio New Zealand](http://www.radionz.co.nz/news/stories/2010/05/27/124804c6ab9e)

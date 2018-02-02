@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/02/25/vice-president-of-indonesia-jusuf-kalla-states-that-he-was-pleased-with-the-progress-of-talks-with-free-aceh-movement-in-finland-governm.html)  [JSON](/news/2005/02/25/vice-president-of-indonesia-jusuf-kalla-states-that-he-was-pleased-with-the-progress-of-talks-with-free-aceh-movement-in-finland-governm.json)  [XML](/news/2005/02/25/vice-president-of-indonesia-jusuf-kalla-states-that-he-was-pleased-with-the-progress-of-talks-with-free-aceh-movement-in-finland-governm.xml)  
+
 ### [2005-02-25](/news/2005/02/25/index.md)
 
+##### Indonesia
 #  Vice President of Indonesia, Jusuf Kalla, states that he was pleased with the progress of talks with Free Aceh Movement in Finland. Government still opposes independence 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4293791.stm)
 2. [Jakarta Post](http://www.thejakartapost.com/detailheadlines.asp?fileid=20050225.A01&irec=3)

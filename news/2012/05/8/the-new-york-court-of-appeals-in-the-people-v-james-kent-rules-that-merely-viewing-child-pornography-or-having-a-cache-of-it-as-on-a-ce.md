@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/8/the-new-york-court-of-appeals-in-the-people-v-james-kent-rules-that-merely-viewing-child-pornography-or-having-a-cache-of-it-as-on-a-ce.html)  [JSON](/news/2012/05/8/the-new-york-court-of-appeals-in-the-people-v-james-kent-rules-that-merely-viewing-child-pornography-or-having-a-cache-of-it-as-on-a-ce.json)  [XML](/news/2012/05/8/the-new-york-court-of-appeals-in-the-people-v-james-kent-rules-that-merely-viewing-child-pornography-or-having-a-cache-of-it-as-on-a-ce.xml)  
+
 ### [2012-05-8](/news/2012/05/8/index.md)
 
+##### New York Court of Appeals
 # The New York Court of Appeals, in The People v. James Kent, rules that merely viewing child pornography (or having a cache of it, as on a cell phone), despite its offensiveness, is not in itself illegal in the state, so long as one is not aware of the cache or did not download the images ono a drive in order to view them; state legislators have stated they will work to close those loopholes through formulation of legislation. Distribution, production, and purposeful possession would still be illegal.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Huffington Post](http://www.huffingtonpost.com/2012/05/10/child-pornography-legal-new-york-porn-possession-james-kent_n_1505916.html?icid=maing-grid7%7Cmain5%7Cdl19%7Csec3_lnk2%26pLid%3D159477)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/15/two-suicide-bombers-belonging-to-the-tehreek-i-taliban-pakistan-splinter-group-jamaat-ul-ahrar-blow-themselves-up-in-twin-bomb-attacks-on-tw.html)  [JSON](/news/2015/03/15/two-suicide-bombers-belonging-to-the-tehreek-i-taliban-pakistan-splinter-group-jamaat-ul-ahrar-blow-themselves-up-in-twin-bomb-attacks-on-tw.json)  [XML](/news/2015/03/15/two-suicide-bombers-belonging-to-the-tehreek-i-taliban-pakistan-splinter-group-jamaat-ul-ahrar-blow-themselves-up-in-twin-bomb-attacks-on-tw.xml)  
+
 ### [2015-03-15](/news/2015/03/15/index.md)
 
+##### Tehreek-i-Taliban Pakistan
 # Two suicide bombers belonging to the Tehreek-i-Taliban Pakistan splinter group Jamaat-ul-Ahrar blow themselves up in twin bomb attacks on two churches in the Pakistani city of Lahore, killing at least fourteen people with 70 more injured. 
 
 At least 14 people dead and dozens wounded in twin bombing targeting two churches in Lahore, police say.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/2015/03/lahore-churches-hit-deadly-bomb-attacks-150315074103093.html)
 2. [The News Pakistan](http://www.thenews.com.pk/article-178233-Four-killed,-20-injured-as-blasts-target-Lahore-Church-)

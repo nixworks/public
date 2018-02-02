@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/03/7/zimbabwean-prime-minister-morgan-tsvangirai-flies-to-botswana-for-medical-treatment-following-a-car-accident-in-harare-in-which-his-wife-wa.html)  [JSON](/news/2009/03/7/zimbabwean-prime-minister-morgan-tsvangirai-flies-to-botswana-for-medical-treatment-following-a-car-accident-in-harare-in-which-his-wife-wa.json)  [XML](/news/2009/03/7/zimbabwean-prime-minister-morgan-tsvangirai-flies-to-botswana-for-medical-treatment-following-a-car-accident-in-harare-in-which-his-wife-wa.xml)  
+
 ### [2009-03-7](/news/2009/03/7/index.md)
 
+##### Zimbabwe
 #  Zimbabwean Prime Minister Morgan Tsvangirai flies to Botswana for medical treatment following a car accident in Harare in which his wife was killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/7930475.stm)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/1/a-united-nations-human-rights-commission-in-sout
 
 ### [2016-12-1](/news/2016/12/1/index.md)
 
+##### Ethnic violence in South Sudan (2011-present)
 # A United Nations human rights commission in South Sudan claims a "steady process of ethnic cleansing is underway" in the war-torn nation. 
 
 Fighting between government and rebels has seen deliberate starvation, gang rape, and the burning of villages.

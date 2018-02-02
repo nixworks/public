@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/12/zimbabwe-releases-60-south-african-mercenaries-that-were-linked-to-an-alleged-coup-attempt-in-the-equatorial-guinea-last-year.html)  [JSON](/news/2005/05/12/zimbabwe-releases-60-south-african-mercenaries-that-were-linked-to-an-alleged-coup-attempt-in-the-equatorial-guinea-last-year.json)  [XML](/news/2005/05/12/zimbabwe-releases-60-south-african-mercenaries-that-were-linked-to-an-alleged-coup-attempt-in-the-equatorial-guinea-last-year.xml)  
+
 ### [2005-05-12](/news/2005/05/12/index.md)
 
+##### Zimbabwe
 #  Zimbabwe releases 60 South African mercenaries that were linked to an alleged coup attempt in the Equatorial Guinea last year. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4538707.stm)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=qw1115874186468B256)

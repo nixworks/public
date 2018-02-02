@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/6/guinea-withdraws-ambassadors-from-30-countries-worldwide.html)  [JSON](/news/2009/05/6/guinea-withdraws-ambassadors-from-30-countries-worldwide.json)  [XML](/news/2009/05/6/guinea-withdraws-ambassadors-from-30-countries-worldwide.xml)  
+
 ### [2009-05-6](/news/2009/05/6/index.md)
 
+##### Guinea
 #  Guinea withdraws ambassadors from 30 countries worldwide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Seattle Times](http://seattletimes.nwsource.com/html/nationworld/2009182141_apafguinea.html)
 

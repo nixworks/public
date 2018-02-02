@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2009/07/17/ghana-is-set-to-receive-a-us-600-million-three-year-loan-from-the-international-monetary-fund.html)  [JSON](/news/2009/07/17/ghana-is-set-to-receive-a-us-600-million-three-year-loan-from-the-international-monetary-fund.json)  [XML](/news/2009/07/17/ghana-is-set-to-receive-a-us-600-million-three-year-loan-from-the-international-monetary-fund.xml)  
+
 ### [2009-07-17](/news/2009/07/17/index.md)
 
+##### Ghana
 #  Ghana is set to receive a US$600 million three-year loan from the International Monetary Fund. 
 
 Ghana will receive around$1.1 billion in resources from the International Monetary Fund,as the country tries to reduce its widening budget deficit, asenior IMF official said on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8155374.stm)
-2. [Reuters](http://www.reuters.com/article/marketsNews/idUSN1642325820090716)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Reuters](https://www.reuters.com/article/marketsNews/idUSN1642325820090716)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

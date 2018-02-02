@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/26/the-sultan-of-terengganu-sultan-mizan-zainal-abidin-is-formally-installed-as-the-13th-yang-di-pertuan-agong-of-malaysia.html)  [JSON](/news/2007/04/26/the-sultan-of-terengganu-sultan-mizan-zainal-abidin-is-formally-installed-as-the-13th-yang-di-pertuan-agong-of-malaysia.json)  [XML](/news/2007/04/26/the-sultan-of-terengganu-sultan-mizan-zainal-abidin-is-formally-installed-as-the-13th-yang-di-pertuan-agong-of-malaysia.xml)  
+
 ### [2007-04-26](/news/2007/04/26/index.md)
 
+##### Sultan of Terengganu
 #  The Sultan of Terengganu, Sultan Mizan Zainal Abidin, is formally installed as the 13th Yang di-Pertuan Agong of Malaysia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/6594325.stm)
 2. [The Star](http://thestar.com.my/news/story.asp?file=/2007/4/26/nation/20070426110201&sec=nation)

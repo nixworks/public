@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/3/around-180-million-people-are-claimed-to-be-stri
 
 ### [2016-09-3](/news/2016/09/3/index.md)
 
+##### Indian general strike of 2016
 # Around 180 million people are claimed to be striking in India against Prime Minister Narendra Modi's economic privatization plans. The strike is allegedly the largest in human history. 
 
 Thousands of state-run banks, government offices and factories shut as workers rally against Modi&#39;s economic policies.

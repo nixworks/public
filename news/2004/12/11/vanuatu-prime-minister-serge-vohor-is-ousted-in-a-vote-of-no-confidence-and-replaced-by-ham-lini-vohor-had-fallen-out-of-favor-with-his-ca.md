@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/12/11/vanuatu-prime-minister-serge-vohor-is-ousted-in-a-vote-of-no-confidence-and-replaced-by-ham-lini-vohor-had-fallen-out-of-favor-with-his-ca.html)  [JSON](/news/2004/12/11/vanuatu-prime-minister-serge-vohor-is-ousted-in-a-vote-of-no-confidence-and-replaced-by-ham-lini-vohor-had-fallen-out-of-favor-with-his-ca.json)  [XML](/news/2004/12/11/vanuatu-prime-minister-serge-vohor-is-ousted-in-a-vote-of-no-confidence-and-replaced-by-ham-lini-vohor-had-fallen-out-of-favor-with-his-ca.xml)  
+
 ### [2004-12-11](/news/2004/12/11/index.md)
 
+##### Vanuatu
 #  Vanuatu Prime Minister Serge Vohor is ousted in a vote of no-confidence and replaced by Ham Lini. Vohor had fallen out of favor with his cabinet after he unilaterally travelled to Taipei and established diplomatic relations with the Taiwan. The Vanuatu Council of Ministers voted to void the decision and continue relations with the People's Republic of China.
 
 

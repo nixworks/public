@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/13/a-belfast-telegraph-opinion-poll-in-northern-ireland-in-the-run-up-to-the-northern-ireland-assembly-elections-predicts-that-the-ulster-un.html)  [JSON](/news/2003/11/13/a-belfast-telegraph-opinion-poll-in-northern-ireland-in-the-run-up-to-the-northern-ireland-assembly-elections-predicts-that-the-ulster-un.json)  [XML](/news/2003/11/13/a-belfast-telegraph-opinion-poll-in-northern-ireland-in-the-run-up-to-the-northern-ireland-assembly-elections-predicts-that-the-ulster-un.xml)  
+
 ### [2003-11-13](/news/2003/11/13/index.md)
 
+##### opinion poll
 #  A "Belfast Telegraph" opinion poll in Northern Ireland in the run up to the Northern Ireland Assembly elections predicts that the Ulster Unionist Party will remain the largest unionist party, defeating the Democratic Unionist Party, while the nationalist Social Democratic and Labour Party, contrary to many expectations, will outpoll Sinn Fin. At the start of the campaign, many commentators had predicted that both the DUP and Sinn Fin would topple their rivals.
 
 

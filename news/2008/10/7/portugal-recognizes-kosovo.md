@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/7/portugal-recognizes-kosovo.html)  [JSON](/news/2008/10/7/portugal-recognizes-kosovo.json)  [XML](/news/2008/10/7/portugal-recognizes-kosovo.xml)  
+
 ### [2008-10-7](/news/2008/10/7/index.md)
 
+##### Portugal
 #  Portugal recognizes Kosovo.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BalkanInsight](http://www.balkaninsight.com/en/main/news/13803/)
 1. [Cover Image](http://www.balkaninsight.com/en/file/show/Images/Banners/BI-FB.png)

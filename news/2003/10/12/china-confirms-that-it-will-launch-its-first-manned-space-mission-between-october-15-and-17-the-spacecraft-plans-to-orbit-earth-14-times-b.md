@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/12/china-confirms-that-it-will-launch-its-first-manned-space-mission-between-october-15-and-17-the-spacecraft-plans-to-orbit-earth-14-times-b.html)  [JSON](/news/2003/10/12/china-confirms-that-it-will-launch-its-first-manned-space-mission-between-october-15-and-17-the-spacecraft-plans-to-orbit-earth-14-times-b.json)  [XML](/news/2003/10/12/china-confirms-that-it-will-launch-its-first-manned-space-mission-between-october-15-and-17-the-spacecraft-plans-to-orbit-earth-14-times-b.xml)  
+
 ### [2003-10-12](/news/2003/10/12/index.md)
 
+##### manned space mission
 #  China confirms that it will launch its first manned space mission between October 15 and 17. The spacecraft plans to orbit Earth 14 times before landing in an undisclosed location. (See Shenzhou 5)
 
 

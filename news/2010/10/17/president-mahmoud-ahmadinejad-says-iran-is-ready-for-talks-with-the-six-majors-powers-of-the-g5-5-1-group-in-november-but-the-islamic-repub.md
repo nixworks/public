@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/17/president-mahmoud-ahmadinejad-says-iran-is-ready-for-talks-with-the-six-majors-powers-of-the-g5-5-1-group-in-november-but-the-islamic-repub.html)  [JSON](/news/2010/10/17/president-mahmoud-ahmadinejad-says-iran-is-ready-for-talks-with-the-six-majors-powers-of-the-g5-5-1-group-in-november-but-the-islamic-repub.json)  [XML](/news/2010/10/17/president-mahmoud-ahmadinejad-says-iran-is-ready-for-talks-with-the-six-majors-powers-of-the-g5-5-1-group-in-november-but-the-islamic-repub.xml)  
+
 ### [2010-10-17](/news/2010/10/17/index.md)
 
+##### Mahmoud Ahmadinejad
 # President Mahmoud Ahmadinejad says Iran is ready for talks with the six majors powers of the G5 5+1 group in November, but the Islamic Republic's previous conditions for holding talks should be met. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IRNA](http://www.irna.ir/ENNewsShow.aspx?NID=30025109)
 2. [Iran Daily](http://www.iran-daily.com/#)

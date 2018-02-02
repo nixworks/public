@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.html)  [JSON](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.json)  [XML](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.xml)  
+
 ### [2014-05-23](/news/2014/05/23/index.md)
 
+##### Syrian Civil War
 # Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. 
 
 BEIRUT - In the first attack to target a campaign event, a mortar shell slammed into a tent packed with supporters of President Bashar Assad, killing 39 people and wounding 205 others, Syrian state TV said Friday. The shelling underscored deep fears in government strongholds that rebels will escalate attacks in an attempt to disrupt the balloting.
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press via ''Penicton Herald](http://www.pentictonherald.ca/news/world_news/article_1b99dff1-efb8-582d-9f0b-e216a3e8b7b7.html)
 1. [Cover Image](http://pentictonherald.com/content/tncms/live/global/resources/images/_site/og_image.jpg)
+
+### Changes:
+
+1. [Syrian Civil War: Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-civil-war-syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md) _2017-08-27 03:40:44 (First version)_
+1. [Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ BEIRUT - In the first attack to target a campaign event, a mortar shell slammed 
 3. [Russia expands its military presence in Syria with an additional airbase that can accommodate fixed-winged military aircraft. The U.S. Department of Defense also confirms that Russia added S-400 surface-to-air missiles to its Syrian stockpile and armed its military aircraft with air-to-air missiles. According to Military Times, "A Pentagon spokesman expressed concern" these moves indicate Russia's commitment to aiding the embattled Assad regime as opposed to combating ISIL. No Syrian opposition groups including ISIL have combat-ready aircraft that require air-to-air missiles. ](/news/2015/12/2/russia-expands-its-military-presence-in-syria-with-an-additional-airbase-that-can-accommodate-fixed-winged-military-aircraft-the-u-s-depar.md) _Context: Bashar al-Assad, Syria, Syrian Civil War_
 4. [Syrian President Bashar al-Assad says reforms in Syria are unlikely until all of the government's armed opponents are vanquished. The country will continue to send representatives to peace negotiations sponsored by Moscow, but rule out negotiations with the Western-backed groups opposing his government. ](/news/2015/10/4/syrian-president-bashar-al-assad-says-reforms-in-syria-are-unlikely-until-all-of-the-governmentas-armed-opponents-are-vanquished-the-coun.md) _Context: Bashar al-Assad, Syria, Syrian Civil War_
 5. [U.N. Secretary-General Ban Ki-moon says new talks aimed to help end Syria's war shouldn't be held up by wrangling over whether President Bashar Assad stays or goes. ](/news/2015/10/31/u-n-secretary-general-ban-ki-moon-says-new-talks-aimed-to-help-end-syria-s-war-shouldn-t-be-held-up-by-wrangling-over-whether-president-bas.md) _Context: Bashar al-Assad, Syria, Syrian Civil War_
-
-### Changes:
-
-1. [Syrian Civil War: Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-civil-war-syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md) _2017-08-27 03:40:44 (First version)_
-1. [Syrian TV reports that 39 people have been killed and 205 injured as a result of a mortar attack on a pro-Assad rally. ](/news/2014/05/23/syrian-tv-reports-that-39-people-have-been-killed-and-205-injured-as-a-result-of-a-mortar-attack-on-a-pro-assad-rally.md) _(Current version)_

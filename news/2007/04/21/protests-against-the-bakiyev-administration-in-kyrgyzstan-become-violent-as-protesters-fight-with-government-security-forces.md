@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/21/protests-against-the-bakiyev-administration-in-kyrgyzstan-become-violent-as-protesters-fight-with-government-security-forces.html)  [JSON](/news/2007/04/21/protests-against-the-bakiyev-administration-in-kyrgyzstan-become-violent-as-protesters-fight-with-government-security-forces.json)  [XML](/news/2007/04/21/protests-against-the-bakiyev-administration-in-kyrgyzstan-become-violent-as-protesters-fight-with-government-security-forces.xml)  
+
 ### [2007-04-21](/news/2007/04/21/index.md)
 
+##### Kurmanbek Bakiyev
 #  Protests against the Bakiyev administration in Kyrgyzstan become violent as protesters fight with government security forces. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RFE/RL](http://www.rferl.org/featuresarticle/2007/04/39d043c7-e636-4a16-a81a-afeffdbc6e0d.html)
 

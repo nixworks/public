@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/04/23/the-prime-minister-of-france-manuel-valls-claims-that-five-terrorist-attacks-have-been-foiled-in-france-in-recent-months.html)  [JSON](/news/2015/04/23/the-prime-minister-of-france-manuel-valls-claims-that-five-terrorist-attacks-have-been-foiled-in-france-in-recent-months.json)  [XML](/news/2015/04/23/the-prime-minister-of-france-manuel-valls-claims-that-five-terrorist-attacks-have-been-foiled-in-france-in-recent-months.xml)  
+
 ### [2015-04-23](/news/2015/04/23/index.md)
 
+##### Prime Minister
 # The Prime Minister of France Manuel Valls claims that five terrorist attacks have been "foiled" in France in recent months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/breaking/20150423-five-terror-attacks-have-been-foiled-france-recent-months-says-french-prime-minister-manuel-valls/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20150423_0847&ns_linkname=20150423_breaking_news&ns_fee=0&f24_member_id=1080960490882)
 

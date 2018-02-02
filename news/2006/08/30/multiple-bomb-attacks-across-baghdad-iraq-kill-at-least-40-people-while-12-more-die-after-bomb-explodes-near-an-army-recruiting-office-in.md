@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/08/30/multiple-bomb-attacks-across-baghdad-iraq-kill-at-least-40-people-while-12-more-die-after-bomb-explodes-near-an-army-recruiting-office-in.html)  [JSON](/news/2006/08/30/multiple-bomb-attacks-across-baghdad-iraq-kill-at-least-40-people-while-12-more-die-after-bomb-explodes-near-an-army-recruiting-office-in.json)  [XML](/news/2006/08/30/multiple-bomb-attacks-across-baghdad-iraq-kill-at-least-40-people-while-12-more-die-after-bomb-explodes-near-an-army-recruiting-office-in.xml)  
+
 ### [2006-08-30](/news/2006/08/30/index.md)
 
+##### Baghdad
 #  Multiple bomb attacks across Baghdad, Iraq kill at least 40 people while 12 more die after bomb explodes near an army recruiting office in Hilla. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/5297384.stm)
 

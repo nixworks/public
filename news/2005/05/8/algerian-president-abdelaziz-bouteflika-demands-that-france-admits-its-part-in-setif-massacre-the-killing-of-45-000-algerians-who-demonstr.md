@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/8/algerian-president-abdelaziz-bouteflika-demands-that-france-admits-its-part-in-setif-massacre-the-killing-of-45-000-algerians-who-demonstr.html)  [JSON](/news/2005/05/8/algerian-president-abdelaziz-bouteflika-demands-that-france-admits-its-part-in-setif-massacre-the-killing-of-45-000-algerians-who-demonstr.json)  [XML](/news/2005/05/8/algerian-president-abdelaziz-bouteflika-demands-that-france-admits-its-part-in-setif-massacre-the-killing-of-45-000-algerians-who-demonstr.xml)  
+
 ### [2005-05-8](/news/2005/05/8/index.md)
 
+##### Algeria
 #  Algerian president Abdelaziz Bouteflika demands that France admits its part in Stif massacre, the killing of 45,000 Algerians who demonstrated for independence on May 8 1945 when Europe celebrated the defeat of Nazi Germany. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC](http://abcnews.go.com/International/wireStory?id=739463)
 2. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L08468008.htm)

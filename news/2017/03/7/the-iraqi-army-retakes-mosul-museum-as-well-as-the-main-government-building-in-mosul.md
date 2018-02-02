@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/03/7/the-iraqi-army-retakes-mosul-museum-as-well-as-t
 
 ### [2017-03-7](/news/2017/03/7/index.md)
 
+##### Iraqi Civil War (2014-present)
 # The Iraqi Army retakes Mosul Museum as well as the main government building in Mosul. 
 
  Iraqi forces on Tuesday recaptured the main government building in Mosul, the central bank branch and the museum where three years ago the militants filmed the

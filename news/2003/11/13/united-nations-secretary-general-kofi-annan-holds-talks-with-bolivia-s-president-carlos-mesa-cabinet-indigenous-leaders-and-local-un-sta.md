@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/13/united-nations-secretary-general-kofi-annan-holds-talks-with-bolivia-s-president-carlos-mesa-cabinet-indigenous-leaders-and-local-un-sta.html)  [JSON](/news/2003/11/13/united-nations-secretary-general-kofi-annan-holds-talks-with-bolivia-s-president-carlos-mesa-cabinet-indigenous-leaders-and-local-un-sta.json)  [XML](/news/2003/11/13/united-nations-secretary-general-kofi-annan-holds-talks-with-bolivia-s-president-carlos-mesa-cabinet-indigenous-leaders-and-local-un-sta.xml)  
+
 ### [2003-11-13](/news/2003/11/13/index.md)
 
+##### United Nations Secretary-General
 #  United Nations Secretary-General Kofi Annan holds talks with Bolivia's President Carlos Mesa, Cabinet, indigenous leaders, and local UN staff during the final leg of his South American tour. The visit came several weeks after the tumultuous Bolivian Gas War forced the previous president out of office.
 
 

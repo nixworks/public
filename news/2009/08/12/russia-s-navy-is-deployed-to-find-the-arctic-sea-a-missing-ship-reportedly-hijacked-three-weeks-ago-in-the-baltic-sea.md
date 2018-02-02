@@ -1,13 +1,22 @@
+
+Formats: [HTML](/news/2009/08/12/russia-s-navy-is-deployed-to-find-the-arctic-sea-a-missing-ship-reportedly-hijacked-three-weeks-ago-in-the-baltic-sea.html)  [JSON](/news/2009/08/12/russia-s-navy-is-deployed-to-find-the-arctic-sea-a-missing-ship-reportedly-hijacked-three-weeks-ago-in-the-baltic-sea.json)  [XML](/news/2009/08/12/russia-s-navy-is-deployed-to-find-the-arctic-sea-a-missing-ship-reportedly-hijacked-three-weeks-ago-in-the-baltic-sea.xml)  
+
 ### [2009-08-12](/news/2009/08/12/index.md)
 
+##### Russia
 #  Russia's navy is deployed to find the Arctic Sea, a missing ship reportedly hijacked three weeks ago in the Baltic Sea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/europe/8197248.stm)
+
+### Changes:
+
+1. [ Russia's navy is deployed to find the {{MV|Arctic Sea}}, a missing ship reportedly hijacked three weeks ago in the Baltic Sea. ](/news/2009/08/12/russia-s-navy-is-deployed-to-find-the-mv-arctic-sea-a-missing-ship-reportedly-hijacked-three-weeks-ago-in-the-baltic-sea.md) _2017-05-01 03:26:42 (First version)_
+1. [ Russia's navy is deployed to find the Arctic Sea, a missing ship reportedly hijacked three weeks ago in the Baltic Sea. ](/news/2009/08/12/russia-s-navy-is-deployed-to-find-the-arctic-sea-a-missing-ship-reportedly-hijacked-three-weeks-ago-in-the-baltic-sea.md) _(Current version)_
 
 ### Related:
 
@@ -15,9 +24,4 @@
 2. [A Russian Su-27 jet intercepts a United States Air Force RC-135 reconnaissance plane while in international airspace over the Baltic Sea. U.S. Secretary of State John Kerry says, "We condemn this kind of behavior. It is reckless. It is provocative. It is dangerous." ](/news/2016/04/17/a-russian-su-27-jet-intercepts-a-united-states-air-force-rc-135-reconnaissance-plane-while-in-international-airspace-over-the-baltic-sea-u.md) _Context: Baltic Sea, Russia_
 3. [A United States Air Force Boeing RC-135 reconnaissance aircraft was intercepted and threatened by a Russian Sukhoi Su-27 fighter jet in international airspace over the Baltic Sea on Thursday (April 14), according to the United States European Command (EUCOM). ](/news/2016/04/16/a-united-states-air-force-boeing-rc-135-reconnaissance-aircraft-was-intercepted-and-threatened-by-a-russian-sukhoi-su-27-fighter-jet-in-inte.md) _Context: Baltic Sea, Russia_
 4. [NATO intercepts Russian jets over the Baltic Sea while Sweden's six-day search for a possibly damaged Russian Navy submarine continues. ](/news/2014/10/22/nato-intercepts-russian-jets-over-the-baltic-sea-while-sweden-s-six-day-search-for-a-possibly-damaged-russian-navy-submarine-continues.md) _Context: Baltic Sea, Russia_
-5. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Russia_
-
-### Changes:
-
-1. [ Russia's navy is deployed to find the {{MV|Arctic Sea}}, a missing ship reportedly hijacked three weeks ago in the Baltic Sea. ](/news/2009/08/12/russia-s-navy-is-deployed-to-find-the-mv-arctic-sea-a-missing-ship-reportedly-hijacked-three-weeks-ago-in-the-baltic-sea.md) _2017-05-01 03:26:42 (First version)_
-1. [ Russia's navy is deployed to find the Arctic Sea, a missing ship reportedly hijacked three weeks ago in the Baltic Sea. ](/news/2009/08/12/russia-s-navy-is-deployed-to-find-the-arctic-sea-a-missing-ship-reportedly-hijacked-three-weeks-ago-in-the-baltic-sea.md) _(Current version)_
+5. [Reports about the publication on January 29 by the United States of a list of Russian politicians and oligarchs that the U.S. government was required by CAATSA to draw up surface. Russian President Vladimir Putin says that the list, on which he is not included, is an "unfriendly act" that complicates ties between the two countries. ](/news/2018/01/30/reports-about-the-publication-on-january-29-by-the-united-states-of-a-list-of-russian-politicians-and-oligarchs-that-the-u-s-government-was.md) _Context: Russia_

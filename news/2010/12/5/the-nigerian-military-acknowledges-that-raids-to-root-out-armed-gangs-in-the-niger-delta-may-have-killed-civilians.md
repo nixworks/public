@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/5/the-nigerian-military-acknowledges-that-raids-to-root-out-armed-gangs-in-the-niger-delta-may-have-killed-civilians.html)  [JSON](/news/2010/12/5/the-nigerian-military-acknowledges-that-raids-to-root-out-armed-gangs-in-the-niger-delta-may-have-killed-civilians.json)  [XML](/news/2010/12/5/the-nigerian-military-acknowledges-that-raids-to-root-out-armed-gangs-in-the-niger-delta-may-have-killed-civilians.xml)  
+
 ### [2010-12-5](/news/2010/12/5/index.md)
 
+##### Nigerian
 # The Nigerian military acknowledges that raids to root out armed gangs in the Niger Delta may have killed civilians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5jObAfUq00aYzWa_N1lPgHl3rASgw?docId=CNG.300799038873fcbfc322eddd94cc181d.251)
 2. [CNN](http://edition.cnn.com/2010/WORLD/africa/12/05/nigeria.offensive/)

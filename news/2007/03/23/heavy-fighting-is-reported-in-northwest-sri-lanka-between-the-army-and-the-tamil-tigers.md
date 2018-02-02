@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/23/heavy-fighting-is-reported-in-northwest-sri-lanka-between-the-army-and-the-tamil-tigers.html)  [JSON](/news/2007/03/23/heavy-fighting-is-reported-in-northwest-sri-lanka-between-the-army-and-the-tamil-tigers.json)  [XML](/news/2007/03/23/heavy-fighting-is-reported-in-northwest-sri-lanka-between-the-army-and-the-tamil-tigers.xml)  
+
 ### [2007-03-23](/news/2007/03/23/index.md)
 
+##### Sri Lanka
 #  Heavy fighting is reported in northwest Sri Lanka between the Army and the Tamil Tigers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6483405.stm)
 

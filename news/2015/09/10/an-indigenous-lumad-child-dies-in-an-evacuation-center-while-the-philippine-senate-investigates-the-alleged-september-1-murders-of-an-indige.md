@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/09/10/an-indigenous-lumad-child-dies-in-an-evacuation-center-while-the-philippine-senate-investigates-the-alleged-september-1-murders-of-an-indige.html)  [JSON](/news/2015/09/10/an-indigenous-lumad-child-dies-in-an-evacuation-center-while-the-philippine-senate-investigates-the-alleged-september-1-murders-of-an-indige.json)  [XML](/news/2015/09/10/an-indigenous-lumad-child-dies-in-an-evacuation-center-while-the-philippine-senate-investigates-the-alleged-september-1-murders-of-an-indige.xml)  
+
 ### [2015-09-10](/news/2015/09/10/index.md)
 
+##### Lumad
 # An indigenous Lumad child dies in an evacuation center while the Philippine Senate investigates the alleged September 1 murders of an indigenous Lumad family and the alleged rape of an indigenous Manobo girl by soldiers and militiamen of the Philippine Army. 
 
 The communist rebellion lives in the so-called Timber and Mining Corridor of the Philippines, where guerrillas easily find allies among residents because of their battlecry to keep big business away from ancestral domains
 
 
-### Source:
+### Sources:
 
 1. [Mindanao News](http://www.mindanews.com/top-stories/2015/09/09/4-year-old-lumad-bakwit-dies-house-senate-urge-probe-on-lumad-killings/)
 2. [Philippine Daily Inquirer](http://newsinfo.inquirer.net/720733/4-year-old-girl-who-fled-from-surigao-sur-fighting-dies-of-asthma)

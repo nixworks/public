@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/01/26/an-earthquake-hits-gujarat-india-killing-more-than-69-000-people.html)  [JSON](/news/2001/01/26/an-earthquake-hits-gujarat-india-killing-more-than-69-000-people.json)  [XML](/news/2001/01/26/an-earthquake-hits-gujarat-india-killing-more-than-69-000-people.xml)  
+
 ### [2001-01-26](/news/2001/01/26/index.md)
 
+##### earthquake
 #  An earthquake hits Gujarat, India, killing more than 69,000 people.
 
 

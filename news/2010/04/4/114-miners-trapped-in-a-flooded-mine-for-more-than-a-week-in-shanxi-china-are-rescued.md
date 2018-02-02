@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/04/4/114-miners-trapped-in-a-flooded-mine-for-more-than-a-week-in-shanxi-china-are-rescued.html)  [JSON](/news/2010/04/4/114-miners-trapped-in-a-flooded-mine-for-more-than-a-week-in-shanxi-china-are-rescued.json)  [XML](/news/2010/04/4/114-miners-trapped-in-a-flooded-mine-for-more-than-a-week-in-shanxi-china-are-rescued.xml)  
+
 ### [2010-04-4](/news/2010/04/4/index.md)
 
+##### death toll in Wangjialing coal mine's flood
 # 114 miners trapped in a flooded mine for more than a week in Shanxi, China, are rescued. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://www.nytimes.com/aponline/2010/04/05/world/AP-AS-China-Mine-Flood.html)
+1. [AP](https://www.nytimes.com/aponline/2010/04/05/world/AP-AS-China-Mine-Flood.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-04/05/c_13237300.htm)
 
 ### Related:

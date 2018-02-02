@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/10/the-thai-army-is-sent-to-reinforce-positions-along-thailand-s-border-with-burma-after-an-influx-of-karen-refugees-following-a-burmese-army.html)  [JSON](/news/2009/06/10/the-thai-army-is-sent-to-reinforce-positions-along-thailand-s-border-with-burma-after-an-influx-of-karen-refugees-following-a-burmese-army.json)  [XML](/news/2009/06/10/the-thai-army-is-sent-to-reinforce-positions-along-thailand-s-border-with-burma-after-an-influx-of-karen-refugees-following-a-burmese-army.xml)  
+
 ### [2009-06-10](/news/2009/06/10/index.md)
 
+##### Thailand
 #  The Thai army is sent to reinforce positions along Thailand's border with Burma after an influx of Karen refugees following a Burmese army offensive in Karen state. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8093180.stm)
 

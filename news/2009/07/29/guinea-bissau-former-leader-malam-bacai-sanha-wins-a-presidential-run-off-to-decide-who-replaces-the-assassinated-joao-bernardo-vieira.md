@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2009/07/29/guinea-bissau-former-leader-malam-bacai-sanha-wins-a-presidential-run-off-to-decide-who-replaces-the-assassinated-joao-bernardo-vieira.html)  [JSON](/news/2009/07/29/guinea-bissau-former-leader-malam-bacai-sanha-wins-a-presidential-run-off-to-decide-who-replaces-the-assassinated-joao-bernardo-vieira.json)  [XML](/news/2009/07/29/guinea-bissau-former-leader-malam-bacai-sanha-wins-a-presidential-run-off-to-decide-who-replaces-the-assassinated-joao-bernardo-vieira.xml)  
+
 ### [2009-07-29](/news/2009/07/29/index.md)
 
+##### Guinea-Bissau
 #  Guinea-Bissau former leader Malam Bacai Sanh wins a presidential run-off to decide who replaces the assassinated Joo Bernardo Vieira. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8174747.stm)
 
 ### Related:
 
-1. [ Guinea-Bissau presidential election, 2005: Guinea-Bissau votes in a second round of presidential elections. Candidates are the ruling party candidate Malam Bacai Sanh and former military ruler Joo Bernardo Vieira. Results are expected next week ](/news/2005/07/24/guinea-bissau-presidential-election-2005-guinea-bissau-votes-in-a-second-round-of-presidential-elections-candidates-are-the-ruling-party.md) _Context: Guinea-Bissau, Joo Bernardo Vieira, Malam Bacai Sanha_
-2. [Voters in Guinea-Bissau go to the polls for a presidential election following the death of President Malam Bacai Sanha in January. ](/news/2012/03/18/voters-in-guinea-bissau-go-to-the-polls-for-a-presidential-election-following-the-death-of-president-malam-bacai-sanha-in-january.md) _Context: Guinea-Bissau, Malam Bacai Sanha_
-3. [President Malam Bacai Sanh of Guinea-Bissau dies at the age of 64 while undergoing treatment for an unknown ailment in Paris. ](/news/2012/01/9/president-malam-bacai-sanha-of-guinea-bissau-dies-at-the-age-of-64-while-undergoing-treatment-for-an-unknown-ailment-in-paris.md) _Context: Guinea-Bissau, Malam Bacai Sanha_
-4. [ Voters in Guinea-Bissau take part in a runoff presidential election between Kumba Iala and Malam Bacai Sanha. ](/news/2009/07/26/voters-in-guinea-bissau-take-part-in-a-runoff-presidential-election-between-kumba-iala-and-malam-bacai-sanha.md) _Context: Guinea-Bissau, Malam Bacai Sanha_
-5. [ A presidential election takes place in Guinea-Bissau following the death of former President Joo Bernardo Vieira. ](/news/2009/06/28/a-presidential-election-takes-place-in-guinea-bissau-following-the-death-of-former-president-joao-bernardo-vieira.md) _Context: Guinea-Bissau, Joo Bernardo Vieira_
+1. [ Guinea-Bissau presidential election, 2005: Guinea-Bissau votes in a second round of presidential elections. Candidates are the ruling party candidate Malam Bacai Sanh and former military ruler Joo Bernardo Vieira. Results are expected next week ](/news/2005/07/24/guinea-bissau-presidential-election-2005-guinea-bissau-votes-in-a-second-round-of-presidential-elections-candidates-are-the-ruling-party.md) _Context: Guinea-Bissau, Joo Bernardo Vieira, Malam Bacai Sanh_
+2. [President Malam Bacai Sanh of Guinea-Bissau dies at the age of 64 while undergoing treatment for an unknown ailment in Paris. ](/news/2012/01/9/president-malam-bacai-sanha-of-guinea-bissau-dies-at-the-age-of-64-while-undergoing-treatment-for-an-unknown-ailment-in-paris.md) _Context: Guinea-Bissau, Malam Bacai Sanh_
+3. [ A presidential election takes place in Guinea-Bissau following the death of former President Joo Bernardo Vieira. ](/news/2009/06/28/a-presidential-election-takes-place-in-guinea-bissau-following-the-death-of-former-president-joao-bernardo-vieira.md) _Context: Guinea-Bissau, Joo Bernardo Vieira_
+4. [ President Joo Bernardo Vieira of Guinea-Bissau is assassinated in Bissau. ](/news/2009/03/2/president-joao-bernardo-vieira-of-guinea-bissau-is-assassinated-in-bissau.md) _Context: Guinea-Bissau, Joo Bernardo Vieira_
+5. [ Guinea-Bissau's president, Joo Bernardo Vieira, announces the dissolution of the government headed by his rival Prime Minister Carlos Gomes Junior. ](/news/2005/10/31/guinea-bissau-s-president-joao-bernardo-vieira-announces-the-dissolution-of-the-government-headed-by-his-rival-prime-minister-carlos-gome.md) _Context: Guinea-Bissau, Joo Bernardo Vieira_

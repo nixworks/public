@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/1/kenyan-authorities-say-the-death-toll-from-frida
 
 ### [2016-05-1](/news/2016/05/1/index.md)
 
+##### Kenya
 # Kenyan authorities say the death toll from Friday's collapsed "eight-story" residential building in Nairobi has risen to 20, with 73 people missing. Rescuers continue searching for survivors. The building had been declared unfit for human habitation by the country's National Construction Authority, but remained standing. "Note": the building was originally reported as six stories; flooding had sunk the ground and first floors. 
 
 NAIROBI, Kenya (AP) — Kenyan rescuers continued searching for survivors Sunday of a residential building in a low income area that collapsed Friday, as officials said the death toll has risen to 20 and 73 people remain…

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/17/terrorists-again-fired-on-children-in-goraa3-4devac-near-pec-this-time-while-they-were-in-the-center-of-the-village-no-children-were-injur.html)  [JSON](/news/2003/08/17/terrorists-again-fired-on-children-in-goraa3-4devac-near-pec-this-time-while-they-were-in-the-center-of-the-village-no-children-were-injur.json)  [XML](/news/2003/08/17/terrorists-again-fired-on-children-in-goraa3-4devac-near-pec-this-time-while-they-were-in-the-center-of-the-village-no-children-were-injur.xml)  
+
 ### [2003-08-17](/news/2003/08/17/index.md)
 
+##### Gorazdevac
 #  Terrorists again fired on children in Gorazdevac, near Pec, this time while they were in the center of the village. No children were injured in this incident, just four days since the last.
 
 

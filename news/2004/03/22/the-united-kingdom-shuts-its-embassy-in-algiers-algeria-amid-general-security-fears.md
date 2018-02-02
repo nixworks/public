@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/22/the-united-kingdom-shuts-its-embassy-in-algiers-algeria-amid-general-security-fears.html)  [JSON](/news/2004/03/22/the-united-kingdom-shuts-its-embassy-in-algiers-algeria-amid-general-security-fears.json)  [XML](/news/2004/03/22/the-united-kingdom-shuts-its-embassy-in-algiers-algeria-amid-general-security-fears.xml)  
+
 ### [2004-03-22](/news/2004/03/22/index.md)
 
+##### Algiers
 #  The United Kingdom shuts its embassy in Algiers, Algeria, amid general security fears. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/3555877.stm)
 2. [CNN](http://www.cnn.com/2004/WORLD/africa/03/21/algeria.embassy/index.html)

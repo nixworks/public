@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/19/peruvian-president-alan-garcaa-swears-in-rosario-ferna-ndez-as-prime-minister-after-the-sudden-resignation-of-josa-c-antonio-chang.html)  [JSON](/news/2011/03/19/peruvian-president-alan-garcaa-swears-in-rosario-ferna-ndez-as-prime-minister-after-the-sudden-resignation-of-josa-c-antonio-chang.json)  [XML](/news/2011/03/19/peruvian-president-alan-garcaa-swears-in-rosario-ferna-ndez-as-prime-minister-after-the-sudden-resignation-of-josa-c-antonio-chang.xml)  
+
 ### [2011-03-19](/news/2011/03/19/index.md)
 
+##### Peru
 # Peruvian President Alan Garcia swears in Rosario Fernandez as Prime Minister, after the sudden resignation of Jose Antonio Chang. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Andina](http://www.andina.com.pe/Ingles/Noticia.aspx?Id=gyK2DAZtSU0=)
 2. [BBC](http://www.bbc.co.uk/mundo/ultimas_noticias/2011/03/110319_ultnot_peru_rosario_fernandez_lav.shtml)

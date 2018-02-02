@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/07/13/an-explosion-in-kabul-afghanistan-kills-a-police-chief-and-injures-four-others-the-taliban-are-the-suspected-culprits-of-the-attack.html)  [JSON](/news/2009/07/13/an-explosion-in-kabul-afghanistan-kills-a-police-chief-and-injures-four-others-the-taliban-are-the-suspected-culprits-of-the-attack.json)  [XML](/news/2009/07/13/an-explosion-in-kabul-afghanistan-kills-a-police-chief-and-injures-four-others-the-taliban-are-the-suspected-culprits-of-the-attack.xml)  
+
 ### [2009-07-13](/news/2009/07/13/index.md)
 
+##### Kabul
 #  An explosion in Kabul, Afghanistan, kills a police chief and injures four others. The Taliban are the suspected culprits of the attack. 
 
 The police chief of a district south of Kabul that the Americans had sought to make a Taliban-free model of safety and security was killed in a roadside blast.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2009/07/14/world/asia/14afghan.html)
+1. [The New York Times](https://www.nytimes.com/2009/07/14/world/asia/14afghan.html)
 1. [Cover Image](https://static01.nyt.com/images/2009/07/14/world/14afghan_75.jpg)
 
 ### Related:

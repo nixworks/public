@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/17/sweden-s-center-right-opposition-alliance-alliance-for-sweden-declares-victory-after-nearly-complete-official-election-results-showed-it-na.html)  [JSON](/news/2006/09/17/sweden-s-center-right-opposition-alliance-alliance-for-sweden-declares-victory-after-nearly-complete-official-election-results-showed-it-na.json)  [XML](/news/2006/09/17/sweden-s-center-right-opposition-alliance-alliance-for-sweden-declares-victory-after-nearly-complete-official-election-results-showed-it-na.xml)  
+
 ### [2006-09-17](/news/2006/09/17/index.md)
 
+##### Alliance for Sweden
 #  Sweden's center-right opposition alliance Alliance for Sweden declares victory after nearly complete official election results showed it narrowly defeating the governing Swedish Social Democratic Party. The Prime Minister of Sweden, Gran Persson, conceded defeat. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory?id=2455832&CMP=OTC-RSSFeeds0312)
 

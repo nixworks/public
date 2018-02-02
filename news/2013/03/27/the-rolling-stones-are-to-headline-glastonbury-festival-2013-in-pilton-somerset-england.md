@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/03/27/the-rolling-stones-are-to-headline-glastonbury-festival-2013-in-pilton-somerset-england.html)  [JSON](/news/2013/03/27/the-rolling-stones-are-to-headline-glastonbury-festival-2013-in-pilton-somerset-england.json)  [XML](/news/2013/03/27/the-rolling-stones-are-to-headline-glastonbury-festival-2013-in-pilton-somerset-england.xml)  
+
 ### [2013-03-27](/news/2013/03/27/index.md)
 
+##### The Rolling Stones
 # The Rolling Stones are to headline Glastonbury Festival 2013 in Pilton, Somerset, England. 
 
 As the Rolling Stones confirm they will headline Glastonbury for the first time in 2013, Neil McCormick looks at why it took them so long.
 
 
-### Source:
+### Sources:
 
 1. [The Daily Telegraph](http://www.telegraph.co.uk/culture/glastonbury/9957693/Rolling-Stones-at-Glastonbury-2013-The-Stones-need-this-festival-and-it-needs-them.html)
 2. [The Guardian](http://www.guardian.co.uk/music/2013/mar/27/rolling-stones-headline-glastonbury-2013)

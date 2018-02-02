@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/20/chester-bennington-lead-vocalist-of-linkin-park
 
 ### [2017-07-20](/news/2017/07/20/index.md)
 
+##### Chester Bennington
 # Chester Bennington, lead vocalist of Linkin Park, dies at his home in the Los Angeles suburb of Palos Verdes Estates, California. 
 
 

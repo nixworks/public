@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/26/incumbent-president-rafael-correa-claims-victory-in-ecuador-s-general-election.html)  [JSON](/news/2009/04/26/incumbent-president-rafael-correa-claims-victory-in-ecuador-s-general-election.json)  [XML](/news/2009/04/26/incumbent-president-rafael-correa-claims-victory-in-ecuador-s-general-election.xml)  
+
 ### [2009-04-26](/news/2009/04/26/index.md)
 
+##### re-election
 #  Incumbent President Rafael Correa claims victory in Ecuador's general election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2009/WORLD/americas/04/26/ecuador.election/index.html)
 

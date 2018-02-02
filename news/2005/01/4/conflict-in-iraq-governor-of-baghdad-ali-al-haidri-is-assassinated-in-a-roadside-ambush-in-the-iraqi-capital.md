@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/01/4/conflict-in-iraq-governor-of-baghdad-ali-al-haidri-is-assassinated-in-a-roadside-ambush-in-the-iraqi-capital.html)  [JSON](/news/2005/01/4/conflict-in-iraq-governor-of-baghdad-ali-al-haidri-is-assassinated-in-a-roadside-ambush-in-the-iraqi-capital.json)  [XML](/news/2005/01/4/conflict-in-iraq-governor-of-baghdad-ali-al-haidri-is-assassinated-in-a-roadside-ambush-in-the-iraqi-capital.xml)  
+
 ### [2005-01-4](/news/2005/01/4/index.md)
 
+##### Iraq War
 #  Conflict in Iraq: Governor of Baghdad Ali al-Haidri is assassinated in a roadside ambush in the Iraqi capital. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/4144511.stm)
 

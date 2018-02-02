@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/9/burma-s-military-junta-announces-the-first-law-relating-to-the-2010-general-election-concerning-the-election-commission.html)  [JSON](/news/2010/03/9/burma-s-military-junta-announces-the-first-law-relating-to-the-2010-general-election-concerning-the-election-commission.json)  [XML](/news/2010/03/9/burma-s-military-junta-announces-the-first-law-relating-to-the-2010-general-election-concerning-the-election-commission.xml)  
+
 ### [2010-03-9](/news/2010/03/9/index.md)
 
+##### Burma
 # Burma's military junta announces the first law relating to the 2010 general election, concerning the election commission. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/03/2010394417778884.html)
 2. [Bangkok Post](http://www.bangkokpost.com/news/asia/170876/burma-junta-to-appoint-electoral-body)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/11/kyrgyzstan-s-interim-government-considers-arresting-and-charging-president-kurmanbek-bakiyev-for-the-deaths-of-81-people-in-riots-earlier-th.html)  [JSON](/news/2010/04/11/kyrgyzstan-s-interim-government-considers-arresting-and-charging-president-kurmanbek-bakiyev-for-the-deaths-of-81-people-in-riots-earlier-th.json)  [XML](/news/2010/04/11/kyrgyzstan-s-interim-government-considers-arresting-and-charging-president-kurmanbek-bakiyev-for-the-deaths-of-81-people-in-riots-earlier-th.xml)  
+
 ### [2010-04-11](/news/2010/04/11/index.md)
 
+##### Kyrgyzstan
 # Kyrgyzstan's interim government considers arresting and charging President Kurmanbek Bakiyev for the deaths of 81 people in riots earlier this week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5g3WcMZg434GxpT2e2PFulX7oTCGg)
 2. [Al Jazeera](http://english.aljazeera.net/news/asia/2010/04/2010410163952637877.html)

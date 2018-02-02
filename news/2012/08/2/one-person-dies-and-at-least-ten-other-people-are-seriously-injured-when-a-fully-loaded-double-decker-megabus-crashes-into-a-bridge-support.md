@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/2/one-person-dies-and-at-least-ten-other-people-are-seriously-injured-when-a-fully-loaded-double-decker-megabus-crashes-into-a-bridge-support.html)  [JSON](/news/2012/08/2/one-person-dies-and-at-least-ten-other-people-are-seriously-injured-when-a-fully-loaded-double-decker-megabus-crashes-into-a-bridge-support.json)  [XML](/news/2012/08/2/one-person-dies-and-at-least-ten-other-people-are-seriously-injured-when-a-fully-loaded-double-decker-megabus-crashes-into-a-bridge-support.xml)  
+
 ### [2012-08-2](/news/2012/08/2/index.md)
 
+##### Megabus
 # One person dies and at least ten other people are seriously injured when a fully loaded double-decker Megabus crashes into a bridge support on Interstate 55 in Illinois, ten miles north of Litchfield.
 
 
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://usnews.nbcnews.com/_news/2012/08/02/13089488-woman-killed-as-double-decker-bus-crashes-into-illinois-bridge?lite)
 2. [St.Louis Post-Dispatch](http://www.stltoday.com/news/local/illinois/dead-at-least-seriously-hurt-in-megabus-crash-near-litchfield/article_ca34bd4e-dcd5-11e1-82ea-001a4bcf6878.html)

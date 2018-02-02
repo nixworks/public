@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/10/20/the-prime-minister-of-thailand-yingluck-shinawatra-admits-that-it-is-impossible-to-protect-all-of-the-capital-bangkok-from-ongoing-nationw.html)  [JSON](/news/2011/10/20/the-prime-minister-of-thailand-yingluck-shinawatra-admits-that-it-is-impossible-to-protect-all-of-the-capital-bangkok-from-ongoing-nationw.json)  [XML](/news/2011/10/20/the-prime-minister-of-thailand-yingluck-shinawatra-admits-that-it-is-impossible-to-protect-all-of-the-capital-bangkok-from-ongoing-nationw.xml)  
+
 ### [2011-10-20](/news/2011/10/20/index.md)
 
+##### Prime Minister
 # The Prime Minister of Thailand, Yingluck Shinawatra, admits that it is impossible to protect all of the capital Bangkok from ongoing nationwide flooding, describing the floods as a "national crisis". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Thai Visa](http://www.thaivisa.com/forum/topic/506532-thai-pm-says-floods-in-parts-of-bangkok-inevitable/)
 1. [Cover Image](//assets.thaivisa.com/forum/uploads/monthly_2017_03/fb_500x500.png.2b53918dab89853d2d408998f3ce620b.png)

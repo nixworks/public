@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/1/president-saparmurat-niyazov-of-turkmenistan-orders-the-closure-of-all-the-hospitals-in-the-country-except-those-in-the-capital-ashgabat.html)  [JSON](/news/2005/03/1/president-saparmurat-niyazov-of-turkmenistan-orders-the-closure-of-all-the-hospitals-in-the-country-except-those-in-the-capital-ashgabat.json)  [XML](/news/2005/03/1/president-saparmurat-niyazov-of-turkmenistan-orders-the-closure-of-all-the-hospitals-in-the-country-except-those-in-the-capital-ashgabat.xml)  
+
 ### [2005-03-1](/news/2005/03/1/index.md)
 
+##### Saparmurat Niyazov
 #  President Saparmurat Niyazov of Turkmenistan orders the closure of all the hospitals in the country except those in the capital, Ashgabat. He also orders the closure of all rural libraries, as he believes that village Turkmen do not read. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4307583.stm)
 

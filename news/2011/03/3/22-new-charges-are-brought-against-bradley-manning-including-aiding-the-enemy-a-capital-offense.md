@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/3/22-new-charges-are-brought-against-bradley-manning-including-aiding-the-enemy-a-capital-offense.html)  [JSON](/news/2011/03/3/22-new-charges-are-brought-against-bradley-manning-including-aiding-the-enemy-a-capital-offense.json)  [XML](/news/2011/03/3/22-new-charges-are-brought-against-bradley-manning-including-aiding-the-enemy-a-capital-offense.xml)  
+
 ### [2011-03-3](/news/2011/03/3/index.md)
 
+##### Bradley Manning
 # 22 new charges are brought against Bradley Manning, including aiding the enemy, a capital offense. 
 
 The US Army charges a soldier held in connection with the leak of US government documents published by Wikileaks with 22 extra counts.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-12628983)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

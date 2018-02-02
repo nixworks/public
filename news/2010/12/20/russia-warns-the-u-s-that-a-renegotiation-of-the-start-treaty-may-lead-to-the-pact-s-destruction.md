@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/20/russia-warns-the-u-s-that-a-renegotiation-of-the-start-treaty-may-lead-to-the-pact-s-destruction.html)  [JSON](/news/2010/12/20/russia-warns-the-u-s-that-a-renegotiation-of-the-start-treaty-may-lead-to-the-pact-s-destruction.json)  [XML](/news/2010/12/20/russia-warns-the-u-s-that-a-renegotiation-of-the-start-treaty-may-lead-to-the-pact-s-destruction.xml)  
+
 ### [2010-12-20](/news/2010/12/20/index.md)
 
+##### Russia
 # Russia warns the U.S. that a renegotiation of the Start treaty may lead to the pact's destruction. 
 
 The Russian foreign minister warns US lawmakers that any change to the new nuclear arms treaty between the two countries could destroy the pact.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-12042584)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

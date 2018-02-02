@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/09/15/jamaican-violet-mosse-brown-the-world-s-oldest-person-dies-in-montego-bay-at-age-117.html)  [JSON](/news/2017/09/15/jamaican-violet-mosse-brown-the-world-s-oldest-person-dies-in-montego-bay-at-age-117.json)  [XML](/news/2017/09/15/jamaican-violet-mosse-brown-the-world-s-oldest-person-dies-in-montego-bay-at-age-117.xml)  
+
 ### [2017-09-15](/news/2017/09/15/index.md)
 
+##### Oldest living people
 # Jamaican Violet Mosse-Brown, the world's oldest person, dies in Montego Bay at age 117. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [UPI](https://www.upi.com/Top_News/World-News/2017/09/16/Violet-Mosse-Brown-worlds-oldest-person-dead-at-117/4731505583191/)
 1. [Cover Image](https://cdnph.upi.com/sv/ph/og/i/4731505583191/2017/1/15055839187296/v2.1/Violet-Mosse-Brown-worlds-oldest-person-dead-at-117.jpg)

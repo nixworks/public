@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/17/275-united-states-military-personnel-are-deployed-to-iraq-to-provide-extra-protection-for-the-american-embassy-in-baghdad.html)  [JSON](/news/2014/06/17/275-united-states-military-personnel-are-deployed-to-iraq-to-provide-extra-protection-for-the-american-embassy-in-baghdad.json)  [XML](/news/2014/06/17/275-united-states-military-personnel-are-deployed-to-iraq-to-provide-extra-protection-for-the-american-embassy-in-baghdad.xml)  
+
 ### [2014-06-17](/news/2014/06/17/index.md)
 
+##### United States military personnel
 # 275 United States Military personnel are deployed to Iraq to provide extra protection for the American embassy in Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://www.skynews.com.au/news/top-stories/2014/06/17/us-to-send-275-military-personnel-to-iraq.html)
 

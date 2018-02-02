@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/5/nawaz-sharif-is-sworn-in-as-the-prime-minister-of-pakistan-and-calls-for-an-end-to-u-s-drone-attacks.html)  [JSON](/news/2013/06/5/nawaz-sharif-is-sworn-in-as-the-prime-minister-of-pakistan-and-calls-for-an-end-to-u-s-drone-attacks.json)  [XML](/news/2013/06/5/nawaz-sharif-is-sworn-in-as-the-prime-minister-of-pakistan-and-calls-for-an-end-to-u-s-drone-attacks.xml)  
+
 ### [2013-06-5](/news/2013/06/5/index.md)
 
+##### Nawaz Sharif
 # Nawaz Sharif is sworn in as the Prime Minister of Pakistan and calls for an end to U.S. drone attacks. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/asia/2013/06/2013658436429285.html)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-22779669)

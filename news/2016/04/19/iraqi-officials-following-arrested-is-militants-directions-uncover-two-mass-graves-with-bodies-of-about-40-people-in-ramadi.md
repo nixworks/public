@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/19/iraqi-officials-following-arrested-is-militants
 
 ### [2016-04-19](/news/2016/04/19/index.md)
 
+##### Iraqi Civil War
 # Iraqi officials, following arrested IS militants' directions, uncover two mass graves with bodies of about 40 people in Ramadi. 
 
 Iraqi officials say police have unearthed two mass graves in the western city of Ramadi, with bodies of about 40 people killed by Islamic State militants.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/13/according-to-a-united-nations-assistance-missio
 
 ### [2017-02-13](/news/2017/02/13/index.md)
 
+##### War in Afghanistan (2015-present)
 # According to a United Nations Assistance Mission in Afghanistan inquiry, 18 civilians in Helmand Province were killed in coalition air raids last Thursday and Friday, with locals and Afghan officials claiming that the death toll is higher. 
 
 

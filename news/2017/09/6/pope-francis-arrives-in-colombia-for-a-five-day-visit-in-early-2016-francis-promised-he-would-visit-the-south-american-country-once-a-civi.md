@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/09/6/pope-francis-arrives-in-colombia-for-a-five-day-
 
 ### [2017-09-6](/news/2017/09/6/index.md)
 
+##### Pastoral visits of Pope Francis
 # Pope Francis arrives in Colombia for a five-day visit. In early 2016, Francis promised he would visit the South American country once a civil war peace agreement was in place. 
 
 Pope Francis is due to travel to Colombia today for a five day visit. He will be the third Pope to visit Colombia, i...
@@ -25,4 +26,4 @@ Pope Francis is due to travel to Colombia today for a five day visit. He will be
 2. [Pope Francis, responding to FARC rebel leader Rodrigo Londono's open letter asking for forgiveness for the suffering the group had inflicted on the country during his talk in Villavicencio, urges Colombians skeptical of the peace deal to be open to reconciliation. ](/news/2017/09/8/pope-francis-responding-to-farc-rebel-leader-rodrigo-londoa-o-s-open-letter-asking-for-forgiveness-for-the-suffering-the-group-had-inflicte.md) _Context: Pope Francis, lasting peace_
 3. [The Colombian government and FARC rebels sign a new peace deal after the failure of the original one. ](/news/2016/11/24/the-colombian-government-and-farc-rebels-sign-a-new-peace-deal-after-the-failure-of-the-original-one.md) _Context: Colombia, lasting peace_
 4. [Colombian President Juan Manuel Santos and FARC guerrilla leader Rodrigo Londono, also known as Timochenko, sign a peace accord in Cartagena, ending the longest running armed conflict in the Western Hemisphere. The final agreement will be submitted to popular ratification in a referendum on October 2.](/news/2016/09/26/colombian-president-juan-manuel-santos-and-farc-guerrilla-leader-rodrigo-londoa-o-also-known-as-timochenko-sign-a-peace-accord-in-cartagen.md) _Context: Colombia, lasting peace_
-5. [Pope Francis ends his six-day trip to Myanmar and Bangladesh by visiting the Rohingya refugees in Dhaka. ](/news/2017/12/2/pope-francis-ends-his-six-day-trip-to-myanmar-and-bangladesh-by-visiting-the-rohingya-refugees-in-dhaka.md) _Context: Pope Francis_
+5. [ A roadside bomb hits a United Nations Interim Force in Lebanon patrol, killing six Spanish-speaking peacekeepers (three of whom were Colombian) and injuring two others. ](/news/2018/06/24/a-roadside-bomb-hits-a-united-nations-interim-force-in-lebanon-patrol-killing-six-spanish-speaking-peacekeepers-three-of-whom-were-colomb.md) _Context: Colombia_

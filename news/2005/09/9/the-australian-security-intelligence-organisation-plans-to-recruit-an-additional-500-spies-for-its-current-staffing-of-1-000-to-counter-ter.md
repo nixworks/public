@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/9/the-australian-security-intelligence-organisation-plans-to-recruit-an-additional-500-spies-for-its-current-staffing-of-1-000-to-counter-ter.html)  [JSON](/news/2005/09/9/the-australian-security-intelligence-organisation-plans-to-recruit-an-additional-500-spies-for-its-current-staffing-of-1-000-to-counter-ter.json)  [XML](/news/2005/09/9/the-australian-security-intelligence-organisation-plans-to-recruit-an-additional-500-spies-for-its-current-staffing-of-1-000-to-counter-ter.xml)  
+
 ### [2005-09-9](/news/2005/09/9/index.md)
 
+##### Australian Security Intelligence Organisation
 #  The Australian Security Intelligence Organisation plans to recruit an additional 500 spies for its current staffing of 1,000 to counter terrorism. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,16551843%255E601,00.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/18/the-high-court-of-england-and-wales-rules-that-a-seven-year-old-boy-with-a-brain-tumour-should-undergo-surgery-against-his-mother-s-wishes.html)  [JSON](/news/2012/12/18/the-high-court-of-england-and-wales-rules-that-a-seven-year-old-boy-with-a-brain-tumour-should-undergo-surgery-against-his-mother-s-wishes.json)  [XML](/news/2012/12/18/the-high-court-of-england-and-wales-rules-that-a-seven-year-old-boy-with-a-brain-tumour-should-undergo-surgery-against-his-mother-s-wishes.xml)  
+
 ### [2012-12-18](/news/2012/12/18/index.md)
 
+##### High Court of England and Wales
 # The High Court of England and Wales rules that a seven-year-old boy with a brain tumour should undergo surgery against his mother's wishes. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-england-20769155)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64835000/jpg/_64835223_64829152.jpg)

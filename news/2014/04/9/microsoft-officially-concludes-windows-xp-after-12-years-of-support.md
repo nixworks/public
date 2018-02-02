@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/9/microsoft-officially-concludes-windows-xp-after-12-years-of-support.html)  [JSON](/news/2014/04/9/microsoft-officially-concludes-windows-xp-after-12-years-of-support.json)  [XML](/news/2014/04/9/microsoft-officially-concludes-windows-xp-after-12-years-of-support.xml)  
+
 ### [2014-04-9](/news/2014/04/9/index.md)
 
+##### Microsoft
 # Microsoft officially concludes Windows XP after 12 years of support. 
 
 Windows XP still runs on millions of computers out there. Here&#039;s what to do if you own one of them.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Morning Herald](http://www.smh.com.au/digital-life/computers/how-to-upgrade-from-windows-xp-20140409-zqs4w.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/h/v/l/1/z/image.related.thumbnail.320x214.zqs4w.png/1407735324061.jpg)

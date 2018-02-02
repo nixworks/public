@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/2/journalists-in-the-indian-state-of-manipur-refuse-to-put-out-newspapers-as-a-protest-against-threats-from-rebel-groups.html)  [JSON](/news/2007/08/2/journalists-in-the-indian-state-of-manipur-refuse-to-put-out-newspapers-as-a-protest-against-threats-from-rebel-groups.json)  [XML](/news/2007/08/2/journalists-in-the-indian-state-of-manipur-refuse-to-put-out-newspapers-as-a-protest-against-threats-from-rebel-groups.xml)  
+
 ### [2007-08-2](/news/2007/08/2/index.md)
 
+##### Journalist
 #  Journalists in the Indian state of Manipur refuse to put out newspapers as a protest against threats from rebel groups. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/6927193.stm)
 

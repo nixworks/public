@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/15/the-prime-minister-of-new-zealand-john-key-announces-a-cut-of-2000-positions-in-the-public-service.html)  [JSON](/news/2012/03/15/the-prime-minister-of-new-zealand-john-key-announces-a-cut-of-2000-positions-in-the-public-service.json)  [XML](/news/2012/03/15/the-prime-minister-of-new-zealand-john-key-announces-a-cut-of-2000-positions-in-the-public-service.xml)  
+
 ### [2012-03-15](/news/2012/03/15/index.md)
 
+##### Prime Minister
 # The Prime Minister of New Zealand John Key announces a cut of 2000 positions in the public service. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TV New Zealand](http://tvnz.co.nz/politics-news/new-super-ministry-announced-john-key-4779270)
 

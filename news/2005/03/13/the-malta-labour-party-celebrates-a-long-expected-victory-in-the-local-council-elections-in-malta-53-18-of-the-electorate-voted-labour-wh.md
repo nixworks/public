@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/13/the-malta-labour-party-celebrates-a-long-expected-victory-in-the-local-council-elections-in-malta-53-18-of-the-electorate-voted-labour-wh.html)  [JSON](/news/2005/03/13/the-malta-labour-party-celebrates-a-long-expected-victory-in-the-local-council-elections-in-malta-53-18-of-the-electorate-voted-labour-wh.json)  [XML](/news/2005/03/13/the-malta-labour-party-celebrates-a-long-expected-victory-in-the-local-council-elections-in-malta-53-18-of-the-electorate-voted-labour-wh.xml)  
+
 ### [2005-03-13](/news/2005/03/13/index.md)
 
+##### Malta Labour Party
 #  The Malta Labour Party celebrates a long expected victory in the Local Council Elections in Malta. 53.18% of the electorate voted Labour whereas 44.6% voted for the Partit Nazzjonalista. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [di-ve](http://www.di-ve.com/dive/portal/portal.jhtml?id=174740)
 

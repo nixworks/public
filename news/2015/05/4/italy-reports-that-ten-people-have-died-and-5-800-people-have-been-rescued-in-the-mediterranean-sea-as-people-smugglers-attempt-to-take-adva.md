@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/4/italy-reports-that-ten-people-have-died-and-5-800-people-have-been-rescued-in-the-mediterranean-sea-as-people-smugglers-attempt-to-take-adva.html)  [JSON](/news/2015/05/4/italy-reports-that-ten-people-have-died-and-5-800-people-have-been-rescued-in-the-mediterranean-sea-as-people-smugglers-attempt-to-take-adva.json)  [XML](/news/2015/05/4/italy-reports-that-ten-people-have-died-and-5-800-people-have-been-rescued-in-the-mediterranean-sea-as-people-smugglers-attempt-to-take-adva.xml)  
+
 ### [2015-05-4](/news/2015/05/4/index.md)
 
+##### Italy
 # Italy reports that ten people have died and 5,800 people have been rescued in the Mediterranean Sea as people smugglers attempt to take advantage of calmer waters. 
 
 Around 7,000 migrants were rescued from overcrowded boats crossing the Mediterranean to Europe over the weekend and on Monday, including a woman who gave birth to a baby girl on an Italian navy ship, the coast guard said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2015/05/04/uk-europe-migrants-italy-idUKKBN0NO07820150504)
 1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150504&t=2&i=1045576641&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB430CL)

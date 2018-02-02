@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/17/occupation-of-iraq-four-us-troops-and-at-least-two-police-officers-are-killed-in-an-ambush-in-karbala-and-another-incident-in-iraq.html)  [JSON](/news/2003/10/17/occupation-of-iraq-four-us-troops-and-at-least-two-police-officers-are-killed-in-an-ambush-in-karbala-and-another-incident-in-iraq.json)  [XML](/news/2003/10/17/occupation-of-iraq-four-us-troops-and-at-least-two-police-officers-are-killed-in-an-ambush-in-karbala-and-another-incident-in-iraq.xml)  
+
 ### [2003-10-17](/news/2003/10/17/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: Four US troops and at least two police officers are killed in an ambush in Karbala and another incident in Iraq.
 
 

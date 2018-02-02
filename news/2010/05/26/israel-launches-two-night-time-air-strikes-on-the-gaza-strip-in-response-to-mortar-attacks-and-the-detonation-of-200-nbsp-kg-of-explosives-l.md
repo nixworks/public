@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/26/israel-launches-two-night-time-air-strikes-on-the-gaza-strip-in-response-to-mortar-attacks-and-the-detonation-of-200-nbsp-kg-of-explosives-l.html)  [JSON](/news/2010/05/26/israel-launches-two-night-time-air-strikes-on-the-gaza-strip-in-response-to-mortar-attacks-and-the-detonation-of-200-nbsp-kg-of-explosives-l.json)  [XML](/news/2010/05/26/israel-launches-two-night-time-air-strikes-on-the-gaza-strip-in-response-to-mortar-attacks-and-the-detonation-of-200-nbsp-kg-of-explosives-l.xml)  
+
 ### [2010-05-26](/news/2010/05/26/index.md)
 
+##### Israel
 # Israel launches two night-time air strikes on the Gaza Strip in response to mortar attacks and the detonation of 200&nbsp;kg of explosives laden on a donkey-cart next to the border fence. 
 
 Israeli jets launch a night time bombing raid on the Gaza strip injuring several people.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/middle_east/10160892.stm)
 2. [The Jerusalem Post](http://www.jpost.com/MiddleEast/Article.aspx?id=176452)

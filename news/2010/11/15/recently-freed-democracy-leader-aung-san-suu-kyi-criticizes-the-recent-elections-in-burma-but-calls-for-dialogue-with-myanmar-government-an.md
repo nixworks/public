@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2010/11/15/recently-freed-democracy-leader-aung-san-suu-kyi-criticizes-the-recent-elections-in-burma-but-calls-for-dialogue-with-myanmar-government-an.html)  [JSON](/news/2010/11/15/recently-freed-democracy-leader-aung-san-suu-kyi-criticizes-the-recent-elections-in-burma-but-calls-for-dialogue-with-myanmar-government-an.json)  [XML](/news/2010/11/15/recently-freed-democracy-leader-aung-san-suu-kyi-criticizes-the-recent-elections-in-burma-but-calls-for-dialogue-with-myanmar-government-an.xml)  
+
 ### [2010-11-15](/news/2010/11/15/index.md)
 
+##### Aung San Suu Kyi
 # Recently freed democracy leader Aung San Suu Kyi criticizes the recent elections in Burma, but calls for dialogue with Myanmar government and pledges to keep working toward restoring democracy and improving human rights in Myanmar. [http:--edition.cnn.com-2010-WORLD-asiapcf-11-15-myanmar.suu.kyi- (CNN)] [http:--www.theaustralian.com.au-news-world-aung-san-suu-kyi-vows-to-probe-burmese-election-rorts-story-e6frg6so-1225954027125 ("The Australian") ]
 
 

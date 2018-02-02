@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/29/belgium-strike-of-the-buses-metros-and-tramways-of-the-brussels-public-transport-company-stib-mivb-buses-of-de-lijn-however-worked.html)  [JSON](/news/2004/10/29/belgium-strike-of-the-buses-metros-and-tramways-of-the-brussels-public-transport-company-stib-mivb-buses-of-de-lijn-however-worked.json)  [XML](/news/2004/10/29/belgium-strike-of-the-buses-metros-and-tramways-of-the-brussels-public-transport-company-stib-mivb-buses-of-de-lijn-however-worked.xml)  
+
 ### [2004-10-29](/news/2004/10/29/index.md)
 
+##### Belgium
 #  Belgium: Strike of the buses, metros and tramways of the Brussels public transport company STIB-MIVB. Buses of De Lijn however worked. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Expatica.com](http://www.expatica.com/source/site_article.asp?subchannel_id=48&story_id=13323&name=STIB+strike+over+passenger+violence)
 2. [Xinhua](http://news.xinhuanet.com/english/2004-10/22/content_2126422.htm)

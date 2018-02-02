@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/7/iran-banned-advertising-of-us-products-and-an-iranian-believing-a-sorcerer-had-made-him-invisible-tried-to-rob-a-bank-in-tehran.html)  [JSON](/news/2002/11/7/iran-banned-advertising-of-us-products-and-an-iranian-believing-a-sorcerer-had-made-him-invisible-tried-to-rob-a-bank-in-tehran.json)  [XML](/news/2002/11/7/iran-banned-advertising-of-us-products-and-an-iranian-believing-a-sorcerer-had-made-him-invisible-tried-to-rob-a-bank-in-tehran.xml)  
+
 ### [2002-11-7](/news/2002/11/7/index.md)
 
+##### Iran
 # Iran banned advertising of US products and an Iranian, believing a sorcerer had made him invisible, tried to rob a bank in Tehran.
 
 

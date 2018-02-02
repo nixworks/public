@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/01/31/internet-failure-affects-parts-of-asia-and-africa-after-two-undersea-cables-sea-me-we-4-and-flag-are-damaged.html)  [JSON](/news/2008/01/31/internet-failure-affects-parts-of-asia-and-africa-after-two-undersea-cables-sea-me-we-4-and-flag-are-damaged.json)  [XML](/news/2008/01/31/internet-failure-affects-parts-of-asia-and-africa-after-two-undersea-cables-sea-me-we-4-and-flag-are-damaged.xml)  
+
 ### [2008-01-31](/news/2008/01/31/index.md)
 
+##### Internet
 #  Internet failure affects parts of Asia and Africa after two undersea cables, SEA-ME-WE 4 and FLAG, are damaged. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2008/WORLD/meast/01/31/dubai.outage/index.html)
 

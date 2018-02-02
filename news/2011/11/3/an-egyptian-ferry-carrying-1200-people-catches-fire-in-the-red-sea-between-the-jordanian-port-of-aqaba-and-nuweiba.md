@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/3/an-egyptian-ferry-carrying-1200-people-catches-fire-in-the-red-sea-between-the-jordanian-port-of-aqaba-and-nuweiba.html)  [JSON](/news/2011/11/3/an-egyptian-ferry-carrying-1200-people-catches-fire-in-the-red-sea-between-the-jordanian-port-of-aqaba-and-nuweiba.json)  [XML](/news/2011/11/3/an-egyptian-ferry-carrying-1200-people-catches-fire-in-the-red-sea-between-the-jordanian-port-of-aqaba-and-nuweiba.xml)  
+
 ### [2011-11-3](/news/2011/11/3/index.md)
 
+##### Egypt
 # An Egyptian ferry carrying 1200 people catches fire in the Red Sea between the Jordanian port of Aqaba and Nuweiba. 
 
 More than 1,200 passengers are evacuated from a ferry that caught fire in the Red Sea, and one Jordanian reportedly dies after jumping overboard.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-15571187)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/56457000/jpg/_56457947_56457946.jpg)

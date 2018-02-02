@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/4/president-of-senegal-abdoulaye-wade-announces-in-a-televised-address-marking-50-years-of-independence-that-his-country-is-to-resume-control.html)  [JSON](/news/2010/04/4/president-of-senegal-abdoulaye-wade-announces-in-a-televised-address-marking-50-years-of-independence-that-his-country-is-to-resume-control.json)  [XML](/news/2010/04/4/president-of-senegal-abdoulaye-wade-announces-in-a-televised-address-marking-50-years-of-independence-that-his-country-is-to-resume-control.xml)  
+
 ### [2010-04-4](/news/2010/04/4/index.md)
 
+##### President
 # President of Senegal Abdoulaye Wade announces in a televised address marking 50 years of independence that his country is to resume control of all military bases held by former colonial power France. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/04/20104420421951266.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/africa/8602409.stm)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/31/the-shanghai-world-expo-in-china-ends.html)  [JSON](/news/2010/10/31/the-shanghai-world-expo-in-china-ends.json)  [XML](/news/2010/10/31/the-shanghai-world-expo-in-china-ends.xml)  
+
 ### [2010-10-31](/news/2010/10/31/index.md)
 
+##### Shanghai World Expo
 # The Shanghai World Expo in China ends. 
 
 Shanghai bids farewell to the World Expo, a six-month extravaganza which drew 72m visitors and which China branded as &quot;splendid&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11660298)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-10/31/content_11481447.htm)

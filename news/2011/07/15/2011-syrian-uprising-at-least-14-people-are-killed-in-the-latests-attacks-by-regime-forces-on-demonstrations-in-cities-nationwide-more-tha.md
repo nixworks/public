@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/15/2011-syrian-uprising-at-least-14-people-are-killed-in-the-latests-attacks-by-regime-forces-on-demonstrations-in-cities-nationwide-more-tha.html)  [JSON](/news/2011/07/15/2011-syrian-uprising-at-least-14-people-are-killed-in-the-latests-attacks-by-regime-forces-on-demonstrations-in-cities-nationwide-more-tha.json)  [XML](/news/2011/07/15/2011-syrian-uprising-at-least-14-people-are-killed-in-the-latests-attacks-by-regime-forces-on-demonstrations-in-cities-nationwide-more-tha.xml)  
+
 ### [2011-07-15](/news/2011/07/15/index.md)
 
+##### 2011 Syrian uprising
 # 2011 Syrian uprising: At least 14 people are killed in the latests attacks by regime forces on demonstrations in cities nationwide. More than 10,000 people are held in prisons by the regime. The demonstrations are reported to be among the largest yet in the ongoing effort to topple the government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-14168199)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/54090000/jpg/_54090480_012457631-1.jpg)

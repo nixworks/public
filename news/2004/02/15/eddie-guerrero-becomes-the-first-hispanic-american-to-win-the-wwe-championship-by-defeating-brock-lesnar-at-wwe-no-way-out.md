@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/15/eddie-guerrero-becomes-the-first-hispanic-american-to-win-the-wwe-championship-by-defeating-brock-lesnar-at-wwe-no-way-out.html)  [JSON](/news/2004/02/15/eddie-guerrero-becomes-the-first-hispanic-american-to-win-the-wwe-championship-by-defeating-brock-lesnar-at-wwe-no-way-out.json)  [XML](/news/2004/02/15/eddie-guerrero-becomes-the-first-hispanic-american-to-win-the-wwe-championship-by-defeating-brock-lesnar-at-wwe-no-way-out.xml)  
+
 ### [2004-02-15](/news/2004/02/15/index.md)
 
+##### Eddie Guerrero
 #  Eddie Guerrero becomes the first Hispanic-American to win the WWE Championship by defeating Brock Lesnar at WWE No Way Out.
 
 

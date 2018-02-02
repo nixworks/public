@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/27/north-korea-is-building-its-first-operational-b
 
 ### [2017-12-27](/news/2017/12/27/index.md)
 
+##### North Korea's nuclear program
 # North Korea is building its first operational ballistic missile submarine on an "accelerated schedule," according to the US-Korea Institute of Johns Hopkins School of Advanced International Studies. 
 
 One nuclear sub might not be that worrisome to the US and its allies. But by diversifying its nuclear program with surprising speed, North Korea may be moving toward a multi-prong effort to protect the existing regime.

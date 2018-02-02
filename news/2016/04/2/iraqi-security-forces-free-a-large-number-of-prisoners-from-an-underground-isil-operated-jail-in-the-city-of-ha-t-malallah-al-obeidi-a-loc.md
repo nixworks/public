@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/2/iraqi-security-forces-free-a-large-number-of-pri
 
 ### [2016-04-2](/news/2016/04/2/index.md)
 
+##### Iraqi Civil War (2014-present)
 # Iraqi security forces free a large number of prisoners from an underground ISIL-operated jail in the city of Hit. Malallah al-Obeidi, a local official in the Al Anbar Governorate, put the number of freed prisoners at around 1,500, saying most of them were civilians. 
 
 

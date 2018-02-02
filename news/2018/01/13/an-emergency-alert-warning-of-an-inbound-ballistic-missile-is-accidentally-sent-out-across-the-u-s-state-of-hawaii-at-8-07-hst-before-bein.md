@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/13/an-emergency-alert-warning-of-an-inbound-ballis
 
 ### [2018-01-13](/news/2018/01/13/index.md)
 
+##### 2018 Hawaii false missile alert
 # An emergency alert warning of an inbound ballistic missile is accidentally sent out across the U.S. state of Hawaii at 8:07 HST, before being cleared as a false alarm 38 minutes later. This event caused panic and disruptions across the state on the archipelago inhabited by roughly 1.7 million people. 
 
 The erroneous alert warning of a ballistic missile strike was not corrected for about 18 minutes.

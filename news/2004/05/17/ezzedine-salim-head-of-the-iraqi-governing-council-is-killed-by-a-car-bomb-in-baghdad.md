@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/05/17/ezzedine-salim-head-of-the-iraqi-governing-council-is-killed-by-a-car-bomb-in-baghdad.html)  [JSON](/news/2004/05/17/ezzedine-salim-head-of-the-iraqi-governing-council-is-killed-by-a-car-bomb-in-baghdad.json)  [XML](/news/2004/05/17/ezzedine-salim-head-of-the-iraqi-governing-council-is-killed-by-a-car-bomb-in-baghdad.xml)  
+
 ### [2004-05-17](/news/2004/05/17/index.md)
 
+##### Ezzedine Salim
 #  Ezzedine Salim, head of the Iraqi Governing Council, is killed by a car bomb in Baghdad.
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3720161.stm)
 

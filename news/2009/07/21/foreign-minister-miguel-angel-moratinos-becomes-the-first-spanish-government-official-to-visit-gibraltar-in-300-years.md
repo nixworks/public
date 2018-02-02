@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/07/21/foreign-minister-miguel-angel-moratinos-becomes-the-first-spanish-government-official-to-visit-gibraltar-in-300-years.html)  [JSON](/news/2009/07/21/foreign-minister-miguel-angel-moratinos-becomes-the-first-spanish-government-official-to-visit-gibraltar-in-300-years.json)  [XML](/news/2009/07/21/foreign-minister-miguel-angel-moratinos-becomes-the-first-spanish-government-official-to-visit-gibraltar-in-300-years.xml)  
+
 ### [2009-07-21](/news/2009/07/21/index.md)
 
+##### Foreign Minister
 #  Foreign Minister Miguel ngel Moratinos becomes the first Spanish government official to visit Gibraltar in 300 years. 
 
 The visit was part of continuing talks between Spain, Britain and Gibraltar aimed at easing the flow of people, goods and communications between the tiny British enclave and Spain.
 
 
-### Source:
+### Sources:
 
-1. [The New York Times](http://www.nytimes.com/2009/07/22/world/europe/22gibraltar.html?ref=global-home)
+1. [The New York Times](https://www.nytimes.com/2009/07/22/world/europe/22gibraltar.html?ref=global-home)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

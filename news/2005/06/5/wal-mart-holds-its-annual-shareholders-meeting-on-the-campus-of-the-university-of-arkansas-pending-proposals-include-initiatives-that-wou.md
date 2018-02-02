@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/06/5/wal-mart-holds-its-annual-shareholders-meeting-on-the-campus-of-the-university-of-arkansas-pending-proposals-include-initiatives-that-wou.html)  [JSON](/news/2005/06/5/wal-mart-holds-its-annual-shareholders-meeting-on-the-campus-of-the-university-of-arkansas-pending-proposals-include-initiatives-that-wou.json)  [XML](/news/2005/06/5/wal-mart-holds-its-annual-shareholders-meeting-on-the-campus-of-the-university-of-arkansas-pending-proposals-include-initiatives-that-wou.xml)  
+
 ### [2005-06-5](/news/2005/06/5/index.md)
 
+##### Wal-Mart
 #  Wal-Mart holds its annual shareholders' meeting on the campus of the University of Arkansas. Pending proposals include initiatives that would affect how Wal-Mart's board is selected and that would require a break-down of stock options by sex and race, and those addressing other issues. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [WLNS News](http://www.wlns.com/Global/story.asp?S=3432757&nav=0RbQafYo)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/17/richard-grasso-chairman-of-the-new-york-stock-exchange-resigns-amid-criticism-of-his-140-million-compensation-package-and-the-fact-that.html)  [JSON](/news/2003/09/17/richard-grasso-chairman-of-the-new-york-stock-exchange-resigns-amid-criticism-of-his-140-million-compensation-package-and-the-fact-that.json)  [XML](/news/2003/09/17/richard-grasso-chairman-of-the-new-york-stock-exchange-resigns-amid-criticism-of-his-140-million-compensation-package-and-the-fact-that.xml)  
+
 ### [2003-09-17](/news/2003/09/17/index.md)
 
+##### Richard Grasso
 #  Richard Grasso, chairman of the New York Stock Exchange, resigns amid criticism of his $140 million compensation package and the fact that the compensation was approved without input from the exchange's board of directors.
 
 

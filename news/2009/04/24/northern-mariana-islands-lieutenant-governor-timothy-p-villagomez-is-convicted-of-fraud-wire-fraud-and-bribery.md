@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/24/northern-mariana-islands-lieutenant-governor-timothy-p-villagomez-is-convicted-of-fraud-wire-fraud-and-bribery.html)  [JSON](/news/2009/04/24/northern-mariana-islands-lieutenant-governor-timothy-p-villagomez-is-convicted-of-fraud-wire-fraud-and-bribery.json)  [XML](/news/2009/04/24/northern-mariana-islands-lieutenant-governor-timothy-p-villagomez-is-convicted-of-fraud-wire-fraud-and-bribery.xml)  
+
 ### [2009-04-24](/news/2009/04/24/index.md)
 
+##### Northern Mariana Islands
 #  Northern Mariana Islands Lieutenant Governor Timothy P. Villagomez is convicted of fraud, wire fraud, and bribery. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Saipan Tribune](http://www.saipantribune.com/newsstory.aspx?newsID=89717&cat=1)
 

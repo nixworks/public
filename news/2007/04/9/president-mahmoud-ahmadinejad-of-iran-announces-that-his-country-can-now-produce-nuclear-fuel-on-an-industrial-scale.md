@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/9/president-mahmoud-ahmadinejad-of-iran-announces-that-his-country-can-now-produce-nuclear-fuel-on-an-industrial-scale.html)  [JSON](/news/2007/04/9/president-mahmoud-ahmadinejad-of-iran-announces-that-his-country-can-now-produce-nuclear-fuel-on-an-industrial-scale.json)  [XML](/news/2007/04/9/president-mahmoud-ahmadinejad-of-iran-announces-that-his-country-can-now-produce-nuclear-fuel-on-an-industrial-scale.xml)  
+
 ### [2007-04-9](/news/2007/04/9/index.md)
 
+##### President
 #  President Mahmoud Ahmadinejad of Iran announces that his country can now produce nuclear fuel on an industrial scale. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6538957.stm)
 2. [CNN](http://edition.cnn.com/2007/WORLD/meast/04/09/iran.ahmadinejad/index.html?eref=rss_world)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/10/indonesia-s-mount-sinabung-eruption-resumes-spewing-gas-leading-to-the-evacuation-of-3-000-nearby-residents.html)  [JSON](/news/2015/06/10/indonesia-s-mount-sinabung-eruption-resumes-spewing-gas-leading-to-the-evacuation-of-3-000-nearby-residents.json)  [XML](/news/2015/06/10/indonesia-s-mount-sinabung-eruption-resumes-spewing-gas-leading-to-the-evacuation-of-3-000-nearby-residents.xml)  
+
 ### [2015-06-10](/news/2015/06/10/index.md)
 
+##### Indonesia
 # Indonesia's Mount Sinabung eruption resumes spewing gas leading to the evacuation of 3,000 nearby residents. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP and AP via ''Economic Times](http://economictimes.indiatimes.com/slideshows/nation-world/indonesias-mount-sinabung-spews-volcanic-lava/slideshow/47610394.cms)
 1. [Cover Image](http://img.etimg.com/thumb/msid-47610394,width-672,resizemode-4/slideshows/nation-world/indonesias-mount-sinabung-spews-volcanic-lava.jpg)

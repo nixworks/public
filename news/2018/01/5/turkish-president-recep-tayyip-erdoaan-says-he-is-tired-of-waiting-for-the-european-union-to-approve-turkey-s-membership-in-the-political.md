@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/5/turkish-president-recep-tayyip-erdoaan-says-he-i
 
 ### [2018-01-5](/news/2018/01/5/index.md)
 
+##### Accession of Turkey to the European Union
 # Turkish President Recep Tayyip Erdogan says he is "tired" of waiting for the European Union to approve Turkey's membership in the political union. 
 
 At&#x20;a&#x20;press&#x20;conference&#x20;with&#x20;Turkish&#x20;President&#x20;in&#x20;Paris,&#x20;Emmanuel&#x20;Macron&#x20;said&#x20;Friday&#x20;that&#x20;political&#x20;developments&#x20;in&#x20;Turkey&#x20;were&#x20;blocking&#x20;the&#x20;country&#x27;s&#x20;EU&#x20;accession&#x20;bid,&#x20;suggesting&#x20;a&#x20;&quot;partnership&quot;&#x20;instead&#x20;of&#x20;full&#x20;membership.

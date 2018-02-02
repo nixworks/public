@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/11/taiwan-evacuates-2-000-tourists-as-it-prepares-for-typhoon-soulik-expected-later-this-week.html)  [JSON](/news/2013/07/11/taiwan-evacuates-2-000-tourists-as-it-prepares-for-typhoon-soulik-expected-later-this-week.json)  [XML](/news/2013/07/11/taiwan-evacuates-2-000-tourists-as-it-prepares-for-typhoon-soulik-expected-later-this-week.xml)  
+
 ### [2013-07-11](/news/2013/07/11/index.md)
 
+##### Taiwan
 # Taiwan evacuates 2,000 tourists as it prepares for Typhoon Soulik expected later this week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20130711-taiwan-evacuates-2000-tourists-super-typhoon-looms)
 

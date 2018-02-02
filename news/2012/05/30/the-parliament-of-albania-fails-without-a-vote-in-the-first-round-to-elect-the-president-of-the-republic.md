@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2012/05/30/the-parliament-of-albania-fails-without-a-vote-in-the-first-round-to-elect-the-president-of-the-republic.html)  [JSON](/news/2012/05/30/the-parliament-of-albania-fails-without-a-vote-in-the-first-round-to-elect-the-president-of-the-republic.json)  [XML](/news/2012/05/30/the-parliament-of-albania-fails-without-a-vote-in-the-first-round-to-elect-the-president-of-the-republic.xml)  
+
 ### [2012-05-30](/news/2012/05/30/index.md)
 
+##### parliament
 # The Parliament of Albania fails without a vote in the first round to elect the President of the republic. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/05/30/us-albania-president-idUSBRE84T0LG20120530)
+1. [Reuters](https://www.reuters.com/article/2012/05/30/us-albania-president-idUSBRE84T0LG20120530)
 2. [Top Channel](http://www.top-channel.tv/english/artikull.php?id=5960)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

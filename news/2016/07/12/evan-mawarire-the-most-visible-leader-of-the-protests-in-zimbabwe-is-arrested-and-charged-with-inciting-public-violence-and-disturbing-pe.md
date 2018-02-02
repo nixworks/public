@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/12/evan-mawarire-the-most-visible-leader-of-the-pr
 
 ### [2016-07-12](/news/2016/07/12/index.md)
 
+##### 2016 Zimbabwe protests
 # Evan Mawarire, the most visible leader of the protests in Zimbabwe, is arrested and charged with "inciting public violence and disturbing peace." 
 
 

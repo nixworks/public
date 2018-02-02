@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/07/18/in-baltimore-maryland-a-60-car-train-derailment-occurs-in-a-tunnel-sparking-a-fire-that-will-last-days-and-virtually-shut-down-downtown-b.html)  [JSON](/news/2001/07/18/in-baltimore-maryland-a-60-car-train-derailment-occurs-in-a-tunnel-sparking-a-fire-that-will-last-days-and-virtually-shut-down-downtown-b.json)  [XML](/news/2001/07/18/in-baltimore-maryland-a-60-car-train-derailment-occurs-in-a-tunnel-sparking-a-fire-that-will-last-days-and-virtually-shut-down-downtown-b.xml)  
+
 ### [2001-07-18](/news/2001/07/18/index.md)
 
+##### Baltimore, Maryland
 #  In Baltimore, Maryland, a 60-car train derailment occurs in a tunnel sparking a fire that will last days and virtually shut down downtown Baltimore (see Howard Street Tunnel fire).
 
 

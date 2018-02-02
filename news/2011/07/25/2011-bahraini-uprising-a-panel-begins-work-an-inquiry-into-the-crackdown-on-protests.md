@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/25/2011-bahraini-uprising-a-panel-begins-work-an-inquiry-into-the-crackdown-on-protests.html)  [JSON](/news/2011/07/25/2011-bahraini-uprising-a-panel-begins-work-an-inquiry-into-the-crackdown-on-protests.json)  [XML](/news/2011/07/25/2011-bahraini-uprising-a-panel-begins-work-an-inquiry-into-the-crackdown-on-protests.xml)  
+
 ### [2011-07-25](/news/2011/07/25/index.md)
 
+##### 2011 Bahraini uprising
 # 2011 Bahraini uprising: A panel begins work an inquiry into the crackdown on protests. 
 
 Fact-finding mission, appointed by the king, begins inquiry into the crackdown that left more than 30 people dead.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/07/2011724141550450985.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/6/1/201161232739909734_20.jpg)

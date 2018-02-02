@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/30/doron-grossman-the-israeli-ambassador-to-ethiopia-is-to-be-flown-back-to-israel-after-receiving-a-critical-head-injury-following-an-appar.html)  [JSON](/news/2005/03/30/doron-grossman-the-israeli-ambassador-to-ethiopia-is-to-be-flown-back-to-israel-after-receiving-a-critical-head-injury-following-an-appar.json)  [XML](/news/2005/03/30/doron-grossman-the-israeli-ambassador-to-ethiopia-is-to-be-flown-back-to-israel-after-receiving-a-critical-head-injury-following-an-appar.xml)  
+
 ### [2005-03-30](/news/2005/03/30/index.md)
 
+##### Doron Grossman
 #  Doron Grossman, the Israeli ambassador to Ethiopia, is to be flown back to Israel after receiving a critical head injury following an apparent failed suicide attempt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4393643.stm)
 

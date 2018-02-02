@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/21/former-president-of-south-africa-nelson-mandela-denies-writing-a-foreword-praising-republic-of-the-congo-president-denis-sassou-nguesso-s-b.html)  [JSON](/news/2009/10/21/former-president-of-south-africa-nelson-mandela-denies-writing-a-foreword-praising-republic-of-the-congo-president-denis-sassou-nguesso-s-b.json)  [XML](/news/2009/10/21/former-president-of-south-africa-nelson-mandela-denies-writing-a-foreword-praising-republic-of-the-congo-president-denis-sassou-nguesso-s-b.xml)  
+
 ### [2009-10-21](/news/2009/10/21/index.md)
 
+##### President
 #  Former President of South Africa Nelson Mandela denies writing a foreword praising Republic of the Congo President Denis Sassou Nguesso's biography, "Straight Speaking for Africa". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=13&art_id=vn20091021040225801C515304)
 2. [The Guardian](http://www.guardian.co.uk/world/2009/oct/21/nelson-mandela-book-foreword-row)

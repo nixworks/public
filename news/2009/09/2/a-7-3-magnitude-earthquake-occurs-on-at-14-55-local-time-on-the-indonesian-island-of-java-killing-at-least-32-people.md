@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2009/09/2/a-7-3-magnitude-earthquake-occurs-on-at-14-55-local-time-on-the-indonesian-island-of-java-killing-at-least-32-people.html)  [JSON](/news/2009/09/2/a-7-3-magnitude-earthquake-occurs-on-at-14-55-local-time-on-the-indonesian-island-of-java-killing-at-least-32-people.json)  [XML](/news/2009/09/2/a-7-3-magnitude-earthquake-occurs-on-at-14-55-local-time-on-the-indonesian-island-of-java-killing-at-least-32-people.xml)  
+
 ### [2009-09-2](/news/2009/09/2/index.md)
 
+##### 2009 Java earthquake
 #  A 7.3 magnitude earthquake occurs on at 14:55 local time on the Indonesian island of Java, killing at least 32 people. 
 
 The death toll from a powerful earthquake in Indonesia, which killed at least 42 people and forced thousands to flee buildings, is likely to rise, government agencies said early on Thursday morning.
 
 
-### Source:
+### Sources:
 
 1. [Jakarta Post](http://www.thejakartapost.com/news/2009/09/02/73-magnitude-jolts-w-java-may-lead-tsunami.html)
-2. [Reuters](http://www.reuters.com/article/worldNews/idUSTRE5811ZL20090902)
-3. [Yahoo News](http://news.yahoo.com/s/ap/20090902/ap_on_re_as/as_indonesia_earthquake)
-3. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20090902&t=2&i=11451932&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-02T214511Z_01_BTRE5811OFF00_RTROPTP_0_INDONESIA-QUAKE)
+2. [Reuters](https://www.reuters.com/article/worldNews/idUSTRE5811ZL20090902)
+3. [Yahoo News](https://news.yahoo.com/s/ap/20090902/ap_on_re_as/as_indonesia_earthquake)
+3. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20090902&t=2&i=11451932&w=&fh=545px&fw=&ll=&pl=&sq=&r=2009-09-02T214511Z_01_BTRE5811OFF00_RTROPTP_0_INDONESIA-QUAKE)
 
 ### Related:
 

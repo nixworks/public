@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/30/buckingham-palace-announces-the-birth-of-queen-elizabeth-ii-s-first-great-grandchild-born-to-peter-phillips-and-his-wife-autumn.html)  [JSON](/news/2010/12/30/buckingham-palace-announces-the-birth-of-queen-elizabeth-ii-s-first-great-grandchild-born-to-peter-phillips-and-his-wife-autumn.json)  [XML](/news/2010/12/30/buckingham-palace-announces-the-birth-of-queen-elizabeth-ii-s-first-great-grandchild-born-to-peter-phillips-and-his-wife-autumn.xml)  
+
 ### [2010-12-30](/news/2010/12/30/index.md)
 
+##### Buckingham Palace
 # Buckingham Palace announces the birth of Queen Elizabeth II's first great-grandchild, born to Peter Phillips and his wife Autumn. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-12093479)
 1. [Cover Image](https://ichef-1.bbci.co.uk/news/1024/media/images/44536000/jpg/_44536487_breaking_splash_466x260.jpg)

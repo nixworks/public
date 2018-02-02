@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/2/the-united-nations-working-group-on-arbitrary-detention-calls-on-china-to-release-liu-xiaobo-and-his-wife.html)  [JSON](/news/2011/08/2/the-united-nations-working-group-on-arbitrary-detention-calls-on-china-to-release-liu-xiaobo-and-his-wife.json)  [XML](/news/2011/08/2/the-united-nations-working-group-on-arbitrary-detention-calls-on-china-to-release-liu-xiaobo-and-his-wife.xml)  
+
 ### [2011-08-2](/news/2011/08/2/index.md)
 
+##### United Nations
 # The United Nations Working Group on Arbitrary Detention calls on China to release Liu Xiaobo and his wife. 
 
 A UN panel of independent legal experts calls on China to free Nobel Peace laureate Liu Xiaobo and his wife and pay them compensation.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-14369723)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/54377000/jpg/_54377640_liu_afp.jpg)

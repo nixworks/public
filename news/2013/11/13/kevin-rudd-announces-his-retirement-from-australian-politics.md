@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/13/kevin-rudd-announces-his-retirement-from-australian-politics.html)  [JSON](/news/2013/11/13/kevin-rudd-announces-his-retirement-from-australian-politics.json)  [XML](/news/2013/11/13/kevin-rudd-announces-his-retirement-from-australian-politics.xml)  
+
 ### [2013-11-13](/news/2013/11/13/index.md)
 
+##### Kevin Rudd
 # Kevin Rudd announces his retirement from Australian politics. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Herald Sun](http://www.heraldsun.com.au/news/national/emotional-kevin-rudd-resigns-from-parliament/story-fni0xqrb-1226759294219)
 

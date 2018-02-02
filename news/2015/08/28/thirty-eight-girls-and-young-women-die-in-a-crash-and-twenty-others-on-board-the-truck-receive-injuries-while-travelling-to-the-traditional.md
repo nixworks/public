@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/08/28/thirty-eight-girls-and-young-women-die-in-a-crash-and-twenty-others-on-board-the-truck-receive-injuries-while-travelling-to-the-traditional.html)  [JSON](/news/2015/08/28/thirty-eight-girls-and-young-women-die-in-a-crash-and-twenty-others-on-board-the-truck-receive-injuries-while-travelling-to-the-traditional.json)  [XML](/news/2015/08/28/thirty-eight-girls-and-young-women-die-in-a-crash-and-twenty-others-on-board-the-truck-receive-injuries-while-travelling-to-the-traditional.xml)  
+
 ### [2015-08-28](/news/2015/08/28/index.md)
 
+##### Umhlanga
 # Thirty-eight girls and young women die in a crash and twenty others on board the truck receive injuries while travelling to the traditional Umhlanga ceremony in Swaziland. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AF_SWAZILAND_CRASH?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT)
 

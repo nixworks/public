@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/30/two-mortuary-staff-in-shandong-are-arrested-after-21-baby-corpses-are-found-in-a-river.html)  [JSON](/news/2010/03/30/two-mortuary-staff-in-shandong-are-arrested-after-21-baby-corpses-are-found-in-a-river.json)  [XML](/news/2010/03/30/two-mortuary-staff-in-shandong-are-arrested-after-21-baby-corpses-are-found-in-a-river.xml)  
+
 ### [2010-03-30](/news/2010/03/30/index.md)
 
+##### Shandong
 # Two mortuary staff in Shandong are arrested after 21 baby corpses are found in a river. 
 
 TWO senior hospital staff and two mortuary workers have been fired in eastern China after the bodies of at least 21 babies and foetuses were found in a river.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2010/WORLD/asiapcf/03/30/china.babies.bodies/)
 2. [China Daily](http://www.chinadaily.com.cn/photo/2010-03/30/content_9662611.htm)

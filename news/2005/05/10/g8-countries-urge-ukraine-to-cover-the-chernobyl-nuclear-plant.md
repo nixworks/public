@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2005/05/10/g8-countries-urge-ukraine-to-cover-the-chernobyl-nuclear-plant.html)  [JSON](/news/2005/05/10/g8-countries-urge-ukraine-to-cover-the-chernobyl-nuclear-plant.json)  [XML](/news/2005/05/10/g8-countries-urge-ukraine-to-cover-the-chernobyl-nuclear-plant.xml)  
+
 ### [2005-05-10](/news/2005/05/10/index.md)
 
+##### Group of Eight
 #  G8 countries urge Ukraine to cover the Chernobyl nuclear plant. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters AlertNet](http://www.alertnet.org/thenews/newsdesk/L10266788.htm)
 
 ### Related:
 
 1. [ Western countries pledge funds to Ukraine so the country can cover the Chernobyl nuclear reactor. ](/news/2005/05/12/western-countries-pledge-funds-to-ukraine-so-the-country-can-cover-the-chernobyl-nuclear-reactor.md) _Context: Chernobyl, Ukraine_
-2. [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md) _Context: Ukraine_
-3. [The International Institute for Strategic Studies releases a report arguing that North Korea has acquired a high-performance liquid-propellant engine for its missile program, probably from illicit networks in Russia and Ukraine, likely produced by Yuzhmash facilities. Ukraine denies the allegations. ](/news/2017/08/14/the-international-institute-for-strategic-studies-releases-a-report-arguing-that-north-korea-has-acquired-a-high-performance-liquid-propella.md) _Context: Ukraine_
-4. [Ukraine's domestic intelligence service, the SBU, reports that the March 2017 explosions at Balakliia military base in Eastern Ukraine were caused by a drone carrying a ZMG-1 thermite grenade. The explosions resulted in 1 death and 5 injuries. ](/news/2017/07/27/ukraine-s-domestic-intelligence-service-the-sbu-reports-that-the-march-2017-explosions-at-balakliia-military-base-in-eastern-ukraine-were.md) _Context: Ukraine_
-5. [Kurt Volker, U.S. special representative for Ukraine, says in a BBC News interview that the White House is considering arming Ukrainian government forces fighting Pro-Russian militants with defensive weapons. ](/news/2017/07/25/kurt-volker-u-s-special-representative-for-ukraine-says-in-a-bbc-news-interview-that-the-white-house-is-considering-arming-ukrainian-gove.md) _Context: Ukraine_
+2. [A man strapped with explosives takes 11 people hostage in Kharkiv, Ukraine. The Ukrainian police free all the hostages and arrest the man. ](/news/2017/12/30/a-man-strapped-with-explosives-takes-11-people-hostage-in-kharkiv-ukraine-the-ukrainian-police-free-all-the-hostages-and-arrest-the-man.md) _Context: Ukraine_
+3. [Ukraine exchanges hundreds of prisoners with the Donetsk People's Republic and Luhansk People's Republic. ](/news/2017/12/27/ukraine-exchanges-hundreds-of-prisoners-with-the-donetsk-people-s-republic-and-luhansk-people-s-republic.md) _Context: Ukraine_
+4. [Security researchers report on the outbreak of the ransomware nicknamed Bad Rabbit, which has affected computer networks throughout the world, with Russia and Ukraine being the worst affected. ](/news/2017/10/24/security-researchers-report-on-the-outbreak-of-the-ransomware-nicknamed-bad-rabbit-which-has-affected-computer-networks-throughout-the-worl.md) _Context: Ukraine_
+5. [Eleven anti-corruption protestors are detained in Kiev, Ukraine, where police attempted to enter a protestor camp near the parliament building. ](/news/2017/10/18/eleven-anti-corruption-protestors-are-detained-in-kiev-ukraine-where-police-attempted-to-enter-a-protestor-camp-near-the-parliament-buildi.md) _Context: Ukraine_

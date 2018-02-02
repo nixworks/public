@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/10/china-posts-a-trade-deficit-for-the-first-time-since-march-2010-amid-slowing-exports.html)  [JSON](/news/2011/03/10/china-posts-a-trade-deficit-for-the-first-time-since-march-2010-amid-slowing-exports.json)  [XML](/news/2011/03/10/china-posts-a-trade-deficit-for-the-first-time-since-march-2010-amid-slowing-exports.xml)  
+
 ### [2011-03-10](/news/2011/03/10/index.md)
 
+##### China
 # China posts a trade deficit for the first time since March 2010, amid slowing exports. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-12688877)
 2. [Shanghai Daily](http://www.shanghaidaily.com/article/?id=465887&type=Business)

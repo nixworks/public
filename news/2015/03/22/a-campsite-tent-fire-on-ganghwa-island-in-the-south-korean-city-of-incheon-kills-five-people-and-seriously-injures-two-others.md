@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/03/22/a-campsite-tent-fire-on-ganghwa-island-in-the-south-korean-city-of-incheon-kills-five-people-and-seriously-injures-two-others.html)  [JSON](/news/2015/03/22/a-campsite-tent-fire-on-ganghwa-island-in-the-south-korean-city-of-incheon-kills-five-people-and-seriously-injures-two-others.json)  [XML](/news/2015/03/22/a-campsite-tent-fire-on-ganghwa-island-in-the-south-korean-city-of-incheon-kills-five-people-and-seriously-injures-two-others.xml)  
+
 ### [2015-03-22](/news/2015/03/22/index.md)
 
+##### Ganghwa Island
 # A campsite tent fire on Ganghwa Island in the South Korean city of Incheon kills five people and seriously injures two others. 
 
  Five people including three children died and two others were seriously injured in a tent fire at a camping site in Incheon, a port city west of Seoul, early Sunday, police and fire officials said. The fire broke out around 2:13 a.m. at a tent set up at a camping ground close to a beach on Ganghwa Island of Incheon, according to the officials. Three of the killed were family members, they said.
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2015/03/22/0200000000AEN20150322000200320.html?input=www.tweeter.com)
 
@@ -15,4 +19,4 @@
 2. [A fuel freighter, the "Doola No. 3", explodes near the South Korean port city of Incheon, killing at least three crew members. ](/news/2012/01/15/a-fuel-freighter-the-doola-no-3-explodes-near-the-south-korean-port-city-of-incheon-killing-at-least-three-crew-members.md) _Context: Incheon, South Korea_
 3. [A corporal in the Republic of Korea Marine Corps goes on a killing spree while on duty at a guard post on South Korea's Ganghwa Island, killing 3 people and injuring 2 others. ](/news/2011/07/4/a-corporal-in-the-republic-of-korea-marine-corps-goes-on-a-killing-spree-while-on-duty-at-a-guard-post-on-south-korea-s-ganghwa-island-kill.md) _Context: Ganghwa Island, South Korea_
 4. [ The Olympic Council of Asia chooses Incheon, South Korea over New Delhi, India, to host the 2014 Asian Games. ](/news/2007/04/17/the-olympic-council-of-asia-chooses-incheon-south-korea-over-new-delhi-india-to-host-the-2014-asian-games.md) _Context: Incheon, South Korea_
-5. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: South Korea_
+5. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: South Korea_

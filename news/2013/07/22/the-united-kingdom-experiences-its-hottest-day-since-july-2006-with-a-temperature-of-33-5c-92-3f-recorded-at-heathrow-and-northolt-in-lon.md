@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/22/the-united-kingdom-experiences-its-hottest-day-since-july-2006-with-a-temperature-of-33-5c-92-3f-recorded-at-heathrow-and-northolt-in-lon.html)  [JSON](/news/2013/07/22/the-united-kingdom-experiences-its-hottest-day-since-july-2006-with-a-temperature-of-33-5c-92-3f-recorded-at-heathrow-and-northolt-in-lon.json)  [XML](/news/2013/07/22/the-united-kingdom-experiences-its-hottest-day-since-july-2006-with-a-temperature-of-33-5c-92-3f-recorded-at-heathrow-and-northolt-in-lon.xml)  
+
 ### [2013-07-22](/news/2013/07/22/index.md)
 
+##### Heathrow
 # The United Kingdom experiences its hottest day since July 2006, with a temperature of 33.5C (92.3F) recorded at Heathrow and Northolt in London. 
 
 The UK records its hottest day since July 2006 as the heatwave continues, but thunderstorms are expected later, BBC forecasters say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-23408504)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/68885000/jpg/_68885076_018727416.jpg)

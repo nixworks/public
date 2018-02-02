@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/21/legislative-elections-in-macau-attract-a-higher-turnout-than-usual-and-strengthen-the-democratic-minority.html)  [JSON](/news/2009/09/21/legislative-elections-in-macau-attract-a-higher-turnout-than-usual-and-strengthen-the-democratic-minority.json)  [XML](/news/2009/09/21/legislative-elections-in-macau-attract-a-higher-turnout-than-usual-and-strengthen-the-democratic-minority.xml)  
+
 ### [2009-09-21](/news/2009/09/21/index.md)
 
+##### Legislative elections
 #  Legislative elections in Macau attract a higher turnout than usual and strengthen the democratic minority. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/8266060.stm)
 2. [Radio Australia News](http://www.radioaustralianews.net.au/stories/200909/2691926.htm?desktop)

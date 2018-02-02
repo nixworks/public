@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/2/japanese-media-reports-that-electronics-company-sharp-corporation-plans-to-cut-5-000-positions-worldwide.html)  [JSON](/news/2012/08/2/japanese-media-reports-that-electronics-company-sharp-corporation-plans-to-cut-5-000-positions-worldwide.json)  [XML](/news/2012/08/2/japanese-media-reports-that-electronics-company-sharp-corporation-plans-to-cut-5-000-positions-worldwide.xml)  
+
 ### [2012-08-2](/news/2012/08/2/index.md)
 
+##### Japanese
 # Japanese media reports that electronics company Sharp Corporation plans to cut 5,000 positions worldwide. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via France 24](http://www.france24.com/en/20120802-sharp-cut-5000-jobs-first-1950-reports)
 

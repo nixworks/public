@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/3/bagatur-is-named-the-acting-chairman-of-inner-mongolia-succeeding-yang-jing-who-is-the-new-minister-in-charge-of-the-state-ethnic-affairs.html)  [JSON](/news/2008/04/3/bagatur-is-named-the-acting-chairman-of-inner-mongolia-succeeding-yang-jing-who-is-the-new-minister-in-charge-of-the-state-ethnic-affairs.json)  [XML](/news/2008/04/3/bagatur-is-named-the-acting-chairman-of-inner-mongolia-succeeding-yang-jing-who-is-the-new-minister-in-charge-of-the-state-ethnic-affairs.xml)  
+
 ### [2008-04-3](/news/2008/04/3/index.md)
 
+##### Bagatur
 #  Bagatur is named the acting Chairman of Inner Mongolia, succeeding Yang Jing, who is the new minister in charge of the State Ethnic Affairs Commission.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/2008-04/03/content_7913676.htm)
 

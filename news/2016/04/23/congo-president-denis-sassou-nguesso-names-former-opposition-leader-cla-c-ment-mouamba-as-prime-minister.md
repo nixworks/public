@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/23/congo-president-denis-sassou-nguesso-names-form
 
 ### [2016-04-23](/news/2016/04/23/index.md)
 
+##### Congo President
 # Congo President Denis Sassou Nguesso names former opposition leader Clement Mouamba as prime minister. 
 
 

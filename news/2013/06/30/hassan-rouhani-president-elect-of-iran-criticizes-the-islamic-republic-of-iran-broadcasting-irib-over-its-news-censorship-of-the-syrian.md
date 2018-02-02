@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/30/hassan-rouhani-president-elect-of-iran-criticizes-the-islamic-republic-of-iran-broadcasting-irib-over-its-news-censorship-of-the-syrian.html)  [JSON](/news/2013/06/30/hassan-rouhani-president-elect-of-iran-criticizes-the-islamic-republic-of-iran-broadcasting-irib-over-its-news-censorship-of-the-syrian.json)  [XML](/news/2013/06/30/hassan-rouhani-president-elect-of-iran-criticizes-the-islamic-republic-of-iran-broadcasting-irib-over-its-news-censorship-of-the-syrian.xml)  
+
 ### [2013-06-30](/news/2013/06/30/index.md)
 
+##### Hassan Rouhani
 # Hassan Rouhani, President-elect of Iran, criticizes the Islamic Republic of Iran Broadcasting (IRIB) over its news censorship of the Syrian civil war and the 2009-10 election protests. He also says Iran needs a cautious approach in its foreign policy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/middleeast/2013/06/2013629143045554318.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2013/6/15/2013615164852969734_20.jpg)

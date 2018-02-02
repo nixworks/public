@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2015/04/11/banca-monte-dei-paschi-di-siena-the-beneficiary-of-a-controversial-bail-out-from-the-bank-of-italy-in-2013-admits-that-its-exposure-to-nomu.html)  [JSON](/news/2015/04/11/banca-monte-dei-paschi-di-siena-the-beneficiary-of-a-controversial-bail-out-from-the-bank-of-italy-in-2013-admits-that-its-exposure-to-nomu.json)  [XML](/news/2015/04/11/banca-monte-dei-paschi-di-siena-the-beneficiary-of-a-controversial-bail-out-from-the-bank-of-italy-in-2013-admits-that-its-exposure-to-nomu.xml)  
+
 ### [2015-04-11](/news/2015/04/11/index.md)
 
+##### Banca Monte dei Paschi di Siena
 # Banca Monte dei Paschi di Siena, the beneficiary of a controversial bail-out from the Bank of Italy in 2013 admits that its exposure to Nomura Holdings is greater than the regulatory limit. 
 
 Banca Monte dei Paschi di Siena SpA said its exposure to Nomura Holdings Inc exceeds the 25 percent limit on total capital imposed by regulators after losses last year reduced capital levels.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-04-11/monte-paschi-exposure-to-nomura-exceeds-regulatory-capital-limit)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2015-04-11/monte-paschi-exposure-to-nomura-exceeds-regulatory-capital-limit)
 1. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:

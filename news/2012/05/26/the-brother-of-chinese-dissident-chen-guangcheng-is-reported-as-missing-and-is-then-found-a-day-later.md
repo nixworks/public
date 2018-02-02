@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/05/26/the-brother-of-chinese-dissident-chen-guangcheng-is-reported-as-missing-and-is-then-found-a-day-later.html)  [JSON](/news/2012/05/26/the-brother-of-chinese-dissident-chen-guangcheng-is-reported-as-missing-and-is-then-found-a-day-later.json)  [XML](/news/2012/05/26/the-brother-of-chinese-dissident-chen-guangcheng-is-reported-as-missing-and-is-then-found-a-day-later.xml)  
+
 ### [2012-05-26](/news/2012/05/26/index.md)
 
+##### Chinese
 # The brother of Chinese dissident Chen Guangcheng is reported as missing, and is then found a day later. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/05/26/us-china-dissident-brother-idUSBRE84P04520120526)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120526&t=2&i=611859068&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE84P0MKQ00)
+1. [Reuters](https://www.reuters.com/article/2012/05/26/us-china-dissident-brother-idUSBRE84P04520120526)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120526&t=2&i=611859068&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE84P0MKQ00)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/26/a-bomb-detonates-on-a-bus-carrying-egyptian-military-conscripts-in-arish-injuring-18.html)  [JSON](/news/2015/07/26/a-bomb-detonates-on-a-bus-carrying-egyptian-military-conscripts-in-arish-injuring-18.json)  [XML](/news/2015/07/26/a-bomb-detonates-on-a-bus-carrying-egyptian-military-conscripts-in-arish-injuring-18.xml)  
+
 ### [2015-07-26](/news/2015/07/26/index.md)
 
+##### Egypt
 # A bomb detonates on a bus carrying Egyptian military conscripts in Arish, injuring 18. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily News Egypt](http://www.dailynewsegypt.com/2015/07/26/18-soldiers-injured-in-al-arish-bomb-explosion/)
 

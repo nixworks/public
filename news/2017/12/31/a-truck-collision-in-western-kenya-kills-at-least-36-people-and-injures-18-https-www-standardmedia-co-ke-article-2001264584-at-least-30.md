@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/31/a-truck-collision-in-western-kenya-kills-at-lea
 
 ### [2017-12-31](/news/2017/12/31/index.md)
 
+##### Kenya
 # A truck collision in western Kenya kills at least 36 people and injures 18. [https:--www.standardmedia.co.ke-article-2001264584-at-least-30-dead-18-hurt-in-migaa-bus-truck-collision "(The Standard)"]
 
 

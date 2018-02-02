@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/21/voters-in-comoros-go-to-the-polls-for-a-preside
 
 ### [2016-02-21](/news/2016/02/21/index.md)
 
+##### Comorian presidential election, 2016
 # Voters in Comoros go to the polls for a presidential election with 25 candidates standing. 
 
 The country has had more than 20 coups or attempts at seizing power since it gained independence from France in 1975

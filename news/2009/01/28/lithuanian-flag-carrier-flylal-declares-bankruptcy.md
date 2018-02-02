@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/28/lithuanian-flag-carrier-flylal-declares-bankruptcy.html)  [JSON](/news/2009/01/28/lithuanian-flag-carrier-flylal-declares-bankruptcy.json)  [XML](/news/2009/01/28/lithuanian-flag-carrier-flylal-declares-bankruptcy.xml)  
+
 ### [2009-01-28](/news/2009/01/28/index.md)
 
+##### Lithuania
 #  Lithuanian flag carrier FlyLAL declares bankruptcy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Baltic Times](http://www.baltictimes.com/news/articles/22204/)
 

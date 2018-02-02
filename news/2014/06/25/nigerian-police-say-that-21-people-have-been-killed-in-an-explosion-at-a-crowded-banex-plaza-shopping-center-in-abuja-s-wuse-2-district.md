@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/25/nigerian-police-say-that-21-people-have-been-killed-in-an-explosion-at-a-crowded-banex-plaza-shopping-center-in-abuja-s-wuse-2-district.html)  [JSON](/news/2014/06/25/nigerian-police-say-that-21-people-have-been-killed-in-an-explosion-at-a-crowded-banex-plaza-shopping-center-in-abuja-s-wuse-2-district.json)  [XML](/news/2014/06/25/nigerian-police-say-that-21-people-have-been-killed-in-an-explosion-at-a-crowded-banex-plaza-shopping-center-in-abuja-s-wuse-2-district.xml)  
+
 ### [2014-06-25](/news/2014/06/25/index.md)
 
+##### Nigeria
 # Nigerian police say that 21 people have been killed in an explosion at a crowded Banex Plaza shopping center in Abuja's Wuse 2 district. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Voice of America](http://www.voanews.com/content/explosion-targets-nigerian-shopping-center/1944730.html)
 

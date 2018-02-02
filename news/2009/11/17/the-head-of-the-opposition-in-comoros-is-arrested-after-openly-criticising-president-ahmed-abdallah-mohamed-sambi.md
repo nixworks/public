@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/11/17/the-head-of-the-opposition-in-comoros-is-arrested-after-openly-criticising-president-ahmed-abdallah-mohamed-sambi.html)  [JSON](/news/2009/11/17/the-head-of-the-opposition-in-comoros-is-arrested-after-openly-criticising-president-ahmed-abdallah-mohamed-sambi.json)  [XML](/news/2009/11/17/the-head-of-the-opposition-in-comoros-is-arrested-after-openly-criticising-president-ahmed-abdallah-mohamed-sambi.xml)  
+
 ### [2009-11-17](/news/2009/11/17/index.md)
 
+##### Comoros
 #  The head of the opposition in Comoros is arrested after openly criticising President Ahmed Abdallah Mohamed Sambi. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=68&art_id=nw20091117164435919C256653)
 

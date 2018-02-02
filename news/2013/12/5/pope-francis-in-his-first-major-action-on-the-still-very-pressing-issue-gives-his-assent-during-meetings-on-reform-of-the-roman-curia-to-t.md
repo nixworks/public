@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/5/pope-francis-in-his-first-major-action-on-the-still-very-pressing-issue-gives-his-assent-during-meetings-on-reform-of-the-roman-curia-to-t.html)  [JSON](/news/2013/12/5/pope-francis-in-his-first-major-action-on-the-still-very-pressing-issue-gives-his-assent-during-meetings-on-reform-of-the-roman-curia-to-t.json)  [XML](/news/2013/12/5/pope-francis-in-his-first-major-action-on-the-still-very-pressing-issue-gives-his-assent-during-meetings-on-reform-of-the-roman-curia-to-t.xml)  
+
 ### [2013-12-5](/news/2013/12/5/index.md)
 
+##### Pope Francis
 # Pope Francis, in his first major action on the still very pressing issue, gives his assent during meetings on reform of the Roman Curia to the creation of a permanent expert-member Pontifical Commission which would advise the Catholic Church on how to deal with cases of the sin and crime of sex abuse of minors by those in Church ministries (as of now, it would not be able to take corrective action against lax Bishops; dioceses and then the Congregation for the Doctrine of the Faith are in charge of laicizing abusive clerics). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Catholic News Service](http://www.catholicnews.com/data/stories/cns/1305105.htm)
 

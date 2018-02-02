@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/14/syrian-president-bashar-al-assad-forms-a-new-government-with-adel-safar-confirmed-as-new-prime-minister-and-orders-the-release-of-protester.html)  [JSON](/news/2011/04/14/syrian-president-bashar-al-assad-forms-a-new-government-with-adel-safar-confirmed-as-new-prime-minister-and-orders-the-release-of-protester.json)  [XML](/news/2011/04/14/syrian-president-bashar-al-assad-forms-a-new-government-with-adel-safar-confirmed-as-new-prime-minister-and-orders-the-release-of-protester.xml)  
+
 ### [2011-04-14](/news/2011/04/14/index.md)
 
+##### Syria
 # Syrian President Bashar al-Assad forms a new government with Adel Safar confirmed as new Prime Minister, and orders the release of protesters detained over past couple of weeks.
 
 Adel Safar confirmed as new prime minister as president orders release of protesters detained over past couple of weeks.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2011/04/201141414535764169.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2011/4/3/20114311447112876_20.jpg)

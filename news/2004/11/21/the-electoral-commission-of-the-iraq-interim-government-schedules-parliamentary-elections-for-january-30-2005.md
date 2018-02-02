@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/21/the-electoral-commission-of-the-iraq-interim-government-schedules-parliamentary-elections-for-january-30-2005.html)  [JSON](/news/2004/11/21/the-electoral-commission-of-the-iraq-interim-government-schedules-parliamentary-elections-for-january-30-2005.json)  [XML](/news/2004/11/21/the-electoral-commission-of-the-iraq-interim-government-schedules-parliamentary-elections-for-january-30-2005.xml)  
+
 ### [2004-11-21](/news/2004/11/21/index.md)
 
+##### Iraq interim government
 #  The Electoral Commission of the Iraq interim government schedules parliamentary elections for January 30, 2005. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://www.reuters.co.uk/newsPackageArticle.jhtml?type=topNews&storyID=624862&section=news)
 

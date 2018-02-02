@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/24/fifteen-latin-american-parliaments-pass-simultaneous-resolutions-demanding-that-the-captive-israeli-soldier-gilad-shalit-held-incommunicado.html)  [JSON](/news/2010/10/24/fifteen-latin-american-parliaments-pass-simultaneous-resolutions-demanding-that-the-captive-israeli-soldier-gilad-shalit-held-incommunicado.json)  [XML](/news/2010/10/24/fifteen-latin-american-parliaments-pass-simultaneous-resolutions-demanding-that-the-captive-israeli-soldier-gilad-shalit-held-incommunicado.xml)  
+
 ### [2010-10-24](/news/2010/10/24/index.md)
 
+##### Latin America
 # Fifteen Latin American parliaments pass simultaneous resolutions demanding that the captive Israeli soldier Gilad Shalit, held incommunicado for over four years by Hamas, be released. 
 
 Fifteen Latin American parliaments pass resolutions demanding Hamas-held soldier be released following work by Brazil-based non-profit NGO AMISRAEL. &#39;It is very touching to see that the matter of my son is no longer just an Israeli problem,&#39; Noam Shalit says
 
 
-### Source:
+### Sources:
 
 1. [The Jerusalem Post](http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=192521)
 2. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3973896,00.html)

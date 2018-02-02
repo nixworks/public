@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/14/protests-occur-in-several-american-cities-following-the-acquittal-of-george-zimmerman-in-relation-to-the-shooting-of-trayvon-martin.html)  [JSON](/news/2013/07/14/protests-occur-in-several-american-cities-following-the-acquittal-of-george-zimmerman-in-relation-to-the-shooting-of-trayvon-martin.json)  [XML](/news/2013/07/14/protests-occur-in-several-american-cities-following-the-acquittal-of-george-zimmerman-in-relation-to-the-shooting-of-trayvon-martin.xml)  
+
 ### [2013-07-14](/news/2013/07/14/index.md)
 
+##### American
 # Protests occur in several American cities following the acquittal of George Zimmerman in relation to the shooting of Trayvon Martin. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via News Limited](http://www.news.com.au/world-news/angry-protests-follow-george-zimmerman-acquittal-over-the-death-of-trayvon-martin/story-fndir2ev-1226679311787)
 1. [Cover Image](http://cdn.newsapi.com.au/image/v1/df06bcdf3f9dd7b775fbaa03b080ab2f)

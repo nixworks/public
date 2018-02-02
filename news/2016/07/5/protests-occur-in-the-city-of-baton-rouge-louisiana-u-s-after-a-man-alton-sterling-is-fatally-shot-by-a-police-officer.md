@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/5/protests-occur-in-the-city-of-baton-rouge-louisi
 
 ### [2016-07-5](/news/2016/07/5/index.md)
 
+##### Baton Rouge, Louisiana
 # Protests occur in the city of Baton Rouge, Louisiana, U.S., after a man, Alton Sterling is fatally shot by a police officer. 
 
 Two officers on administrative leave after man was shot ‘four to six times’ in chest and back after altercation with police outside convenience store

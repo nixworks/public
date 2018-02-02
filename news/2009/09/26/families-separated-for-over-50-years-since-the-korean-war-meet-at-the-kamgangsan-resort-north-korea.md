@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/26/families-separated-for-over-50-years-since-the-korean-war-meet-at-the-kamgangsan-resort-north-korea.html)  [JSON](/news/2009/09/26/families-separated-for-over-50-years-since-the-korean-war-meet-at-the-kamgangsan-resort-north-korea.json)  [XML](/news/2009/09/26/families-separated-for-over-50-years-since-the-korean-war-meet-at-the-kamgangsan-resort-north-korea.xml)  
+
 ### [2009-09-26](/news/2009/09/26/index.md)
 
+##### Korean War
 #  Families separated for over 50 years since the Korean War meet at the Kumgangsan resort, North Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jTg7x7snBEMQtr6aJWU_5ZAPbwkgD9AUV7V00)
 2. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8276063.stm)

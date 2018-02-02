@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/01/7/scotland-yard-confirms-that-they-are-investigati
 
 ### [2016-01-7](/news/2016/01/7/index.md)
 
+##### Metropolitan Police Service
 # Scotland Yard confirms that they are investigating a triple murder in relation to the death of British actress Sian Blake and her two sons after the discovery of their dead bodies on Tuesday. 
 
 FORMER EastEnders actress Sian Blake and her two young sons, Zachary and Amon, died as a result of head and neck injuries, police say.

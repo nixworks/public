@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/23/democratic-republic-of-congo-s-chief-prosecutor-issues-an-arrest-warrant-for-senator-jean-pierre-bemba-who-has-sought-refuge-in-the-south-a.html)  [JSON](/news/2007/03/23/democratic-republic-of-congo-s-chief-prosecutor-issues-an-arrest-warrant-for-senator-jean-pierre-bemba-who-has-sought-refuge-in-the-south-a.json)  [XML](/news/2007/03/23/democratic-republic-of-congo-s-chief-prosecutor-issues-an-arrest-warrant-for-senator-jean-pierre-bemba-who-has-sought-refuge-in-the-south-a.xml)  
+
 ### [2007-03-23](/news/2007/03/23/index.md)
 
+##### Democratic Republic of Congo
 #  Democratic Republic of Congo's chief prosecutor issues an arrest warrant for Senator Jean-Pierre Bemba who has sought refuge in the South African embassy as fighting continues in Kinshasa. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via IHT](http://www.iht.com/articles/ap/2007/03/23/africa/AF-GEN-Congo-Fighting.php)
 

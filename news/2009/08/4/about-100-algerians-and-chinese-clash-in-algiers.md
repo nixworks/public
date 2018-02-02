@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/4/about-100-algerians-and-chinese-clash-in-algiers.html)  [JSON](/news/2009/08/4/about-100-algerians-and-chinese-clash-in-algiers.json)  [XML](/news/2009/08/4/about-100-algerians-and-chinese-clash-in-algiers.xml)  
+
 ### [2009-08-4](/news/2009/08/4/index.md)
 
+##### Algeria
 #  About 100 Algerians and Chinese clash in Algiers. 
 
 * Locals say about 100 people involved in fight, three hurt * Official figures say 35,000 Chinese work in Algeria * High unemployment fuel
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8184499.stm)
 2. [Reuters India](http://in.reuters.com/article/oilRpt/idINL46583820090804)

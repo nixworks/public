@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/05/14/carlos-menem-quits-the-argentinian-presidential-race-fellow-peronist-nestor-kirchner-is-consequently-expected-to-win.html)  [JSON](/news/2003/05/14/carlos-menem-quits-the-argentinian-presidential-race-fellow-peronist-nestor-kirchner-is-consequently-expected-to-win.json)  [XML](/news/2003/05/14/carlos-menem-quits-the-argentinian-presidential-race-fellow-peronist-nestor-kirchner-is-consequently-expected-to-win.xml)  
+
 ### [2003-05-14](/news/2003/05/14/index.md)
 
+##### Carlos Menem
 #  Carlos Menem quits the Argentinian presidential race; fellow Peronist Nstor Kirchner is consequently expected to win.
 
 

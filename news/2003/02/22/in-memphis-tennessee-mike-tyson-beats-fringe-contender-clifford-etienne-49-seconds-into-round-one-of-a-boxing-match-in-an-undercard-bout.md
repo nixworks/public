@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/22/in-memphis-tennessee-mike-tyson-beats-fringe-contender-clifford-etienne-49-seconds-into-round-one-of-a-boxing-match-in-an-undercard-bout.html)  [JSON](/news/2003/02/22/in-memphis-tennessee-mike-tyson-beats-fringe-contender-clifford-etienne-49-seconds-into-round-one-of-a-boxing-match-in-an-undercard-bout.json)  [XML](/news/2003/02/22/in-memphis-tennessee-mike-tyson-beats-fringe-contender-clifford-etienne-49-seconds-into-round-one-of-a-boxing-match-in-an-undercard-bout.xml)  
+
 ### [2003-02-22](/news/2003/02/22/index.md)
 
+##### Memphis, Tennessee
 #  In Memphis, Tennessee, Mike Tyson beats fringe contender Clifford Etienne 49 seconds into round one of a boxing match. In an undercard bout, controversial former skater Tonya Harding loses a four round decision in her women's professional boxing debut.
 
 

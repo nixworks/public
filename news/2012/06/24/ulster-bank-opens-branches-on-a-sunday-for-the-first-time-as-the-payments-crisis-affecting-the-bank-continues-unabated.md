@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/24/ulster-bank-opens-branches-on-a-sunday-for-the-first-time-as-the-payments-crisis-affecting-the-bank-continues-unabated.html)  [JSON](/news/2012/06/24/ulster-bank-opens-branches-on-a-sunday-for-the-first-time-as-the-payments-crisis-affecting-the-bank-continues-unabated.json)  [XML](/news/2012/06/24/ulster-bank-opens-branches-on-a-sunday-for-the-first-time-as-the-payments-crisis-affecting-the-bank-continues-unabated.xml)  
+
 ### [2012-06-24](/news/2012/06/24/index.md)
 
+##### Ulster Bank
 # Ulster Bank opens branches on a Sunday for the first time as the payments crisis affecting the bank continues unabated. 
 
 Ulster Bank is to open 20 branches on a Sunday for the first time, to help customers whose accounts have stopped working because of a technical fault.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-18568705)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/57829000/jpg/_57829073_ulsterbankderry.jpg)

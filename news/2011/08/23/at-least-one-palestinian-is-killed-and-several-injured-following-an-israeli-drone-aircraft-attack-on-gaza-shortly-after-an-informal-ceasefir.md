@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/23/at-least-one-palestinian-is-killed-and-several-injured-following-an-israeli-drone-aircraft-attack-on-gaza-shortly-after-an-informal-ceasefir.html)  [JSON](/news/2011/08/23/at-least-one-palestinian-is-killed-and-several-injured-following-an-israeli-drone-aircraft-attack-on-gaza-shortly-after-an-informal-ceasefir.json)  [XML](/news/2011/08/23/at-least-one-palestinian-is-killed-and-several-injured-following-an-israeli-drone-aircraft-attack-on-gaza-shortly-after-an-informal-ceasefir.xml)  
+
 ### [2011-08-23](/news/2011/08/23/index.md)
 
+##### Palestinian
 # At least one Palestinian is killed and several injured following an Israeli drone aircraft attack on Gaza shortly after an informal ceasefire was reached. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al-Jazeera](http://blogs.aljazeera.net/liveblog/gaza-aug-24-2011-0156)
 

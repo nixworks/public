@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/10/opec-announces-it-will-cut-oil-production-by-500-000-barrels-a-day-prices-rise-accordingly.html)  [JSON](/news/2008/09/10/opec-announces-it-will-cut-oil-production-by-500-000-barrels-a-day-prices-rise-accordingly.json)  [XML](/news/2008/09/10/opec-announces-it-will-cut-oil-production-by-500-000-barrels-a-day-prices-rise-accordingly.xml)  
+
 ### [2008-09-10](/news/2008/09/10/index.md)
 
+##### OPEC
 #  OPEC announces it will cut oil production by 500,000 barrels a day; prices rise accordingly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5i5TtajgUpSm7KY5jf-lCJGHBB-tAD933LA780)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/24/indonesia-restricts-the-exports-of-coal-to-the-
 
 ### [2016-06-24](/news/2016/06/24/index.md)
 
+##### Indonesia-Philippines relations
 # Indonesia restricts the exports of coal to the Philippines after the abduction of Indonesian sailors by the Abu Sayyaf. 
 
 Indonesia said on Friday a halt on coal shipments to the Philippines will remain in place until Manila can secure its waters after seven Indonesian sailors were kidnapped, the latest in a string of abductions.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/1/three-judges-are-shot-dead-at-a-court-in-hunan-china-the-gunman-later-kills-himself.html)  [JSON](/news/2010/06/1/three-judges-are-shot-dead-at-a-court-in-hunan-china-the-gunman-later-kills-himself.json)  [XML](/news/2010/06/1/three-judges-are-shot-dead-at-a-court-in-hunan-china-the-gunman-later-kills-himself.xml)  
+
 ### [2010-06-1](/news/2010/06/1/index.md)
 
+##### Hunan
 # Three judges are shot dead at a court in Hunan, China; the gunman later kills himself. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10201292.stm)
 2. [China Daily](http://www.chinadaily.com.cn/china/2010-06/01/content_9917460.htm)

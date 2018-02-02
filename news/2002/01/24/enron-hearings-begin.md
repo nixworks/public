@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/01/24/enron-hearings-begin.html)  [JSON](/news/2002/01/24/enron-hearings-begin.json)  [XML](/news/2002/01/24/enron-hearings-begin.xml)  
+
 ### [2002-01-24](/news/2002/01/24/index.md)
 
+##### Enron
 # Enron hearings begin.
 
 

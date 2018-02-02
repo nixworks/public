@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/4/suspected-kurdistan-workers-party-pkk-militants-
 
 ### [2016-05-4](/news/2016/05/4/index.md)
 
+##### Kurdish-Turkish conflict (2015-present)
 # Suspected Kurdistan Workers' Party (PKK) militants launch a car bomb attack on a military installation in Turkey, killing one soldier; Turkey's army destroyes PKK targets in air strikes and kills more than 20. 
 
 

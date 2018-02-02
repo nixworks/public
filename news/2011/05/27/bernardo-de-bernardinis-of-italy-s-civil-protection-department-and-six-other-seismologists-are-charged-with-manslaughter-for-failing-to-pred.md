@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/27/bernardo-de-bernardinis-of-italy-s-civil-protection-department-and-six-other-seismologists-are-charged-with-manslaughter-for-failing-to-pred.html)  [JSON](/news/2011/05/27/bernardo-de-bernardinis-of-italy-s-civil-protection-department-and-six-other-seismologists-are-charged-with-manslaughter-for-failing-to-pred.json)  [XML](/news/2011/05/27/bernardo-de-bernardinis-of-italy-s-civil-protection-department-and-six-other-seismologists-are-charged-with-manslaughter-for-failing-to-pred.xml)  
+
 ### [2011-05-27](/news/2011/05/27/index.md)
 
+##### Bernardo De Bernardinis
 # Bernardo De Bernardinis of Italy's Civil Protection Department and six other seismologists are charged with manslaughter for failing to predict the 2009 L'Aquila earthquake that struck the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS News](http://www.cbsnews.com/stories/2011/05/27/scitech/main20066827.shtml)
 1. [Cover Image](http://cbsnews1.cbsistatic.com/hub/i/2011/05/27/fc12c912-a644-11e2-a3f0-029118418759/seis.jpg)

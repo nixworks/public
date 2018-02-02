@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2011/06/4/tens-of-thousands-of-people-gather-in-hong-kong-to-remember-the-victims-of-the-1989-tiananmen-square-protests.html)  [JSON](/news/2011/06/4/tens-of-thousands-of-people-gather-in-hong-kong-to-remember-the-victims-of-the-1989-tiananmen-square-protests.json)  [XML](/news/2011/06/4/tens-of-thousands-of-people-gather-in-hong-kong-to-remember-the-victims-of-the-1989-tiananmen-square-protests.xml)  
+
 ### [2011-06-4](/news/2011/06/4/index.md)
 
+##### 1989 Tiananmen Square protests
 # Tens of thousands of people gather in Hong Kong to remember the victims of the 1989 Tiananmen Square protests. 
 
 Tens of thousands gathered Saturday night in Hong Kong to commemorate the 1989 Tiananmen Square massacre.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/asiapcf/06/04/china.tiananmen.vigil/index.html)
 2. [Japan Today](http://www.japantoday.com/category/world/view/more-than-150000-in-hk-commemorate-tiananmen-massacre)
 3. [Times of India](http://timesofindia.indiatimes.com/world/china/Thousands-in-Hong-Kong-mark-Tiananmen-crackdown/articleshow/8726782.cms)
-4. [Washington Post](http://www.washingtonpost.com/world/asia-pacific/hong-kong-remembers-tiananmen-as-beijing-cracks-down/2011/06/04/AG4UG0IH_story.html)
+4. [Washington Post](https://www.washingtonpost.com/world/asia-pacific/hong-kong-remembers-tiananmen-as-beijing-cracks-down/2011/06/04/AG4UG0IH_story.html)
 4. [Cover Image](http://i.cdn.turner.com/cnn/2011/WORLD/asiapcf/06/04/china.tiananmen.vigil/tzvids.vigil.afp.gi.jpg)
 
 ### Related:

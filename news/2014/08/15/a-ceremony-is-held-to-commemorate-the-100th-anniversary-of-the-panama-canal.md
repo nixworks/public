@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/15/a-ceremony-is-held-to-commemorate-the-100th-anniversary-of-the-panama-canal.html)  [JSON](/news/2014/08/15/a-ceremony-is-held-to-commemorate-the-100th-anniversary-of-the-panama-canal.json)  [XML](/news/2014/08/15/a-ceremony-is-held-to-commemorate-the-100th-anniversary-of-the-panama-canal.xml)  
+
 ### [2014-08-15](/news/2014/08/15/index.md)
 
+##### Panama Canal
 # A ceremony is held to commemorate the 100th anniversary of the Panama Canal. 
 
 Katy Watson takes a close-up look at the Panama Canal, 100 years after it officially opened.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-28794485#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/76950000/jpg/_76950948_76950946.jpg)

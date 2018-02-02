@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/11/france-condemns-as-unacceptable-remarks-made-by-former-cuban-leader-fidel-castro-expressing-sympathy-with-the-romani-migrants-it-is-trying.html)  [JSON](/news/2010/09/11/france-condemns-as-unacceptable-remarks-made-by-former-cuban-leader-fidel-castro-expressing-sympathy-with-the-romani-migrants-it-is-trying.json)  [XML](/news/2010/09/11/france-condemns-as-unacceptable-remarks-made-by-former-cuban-leader-fidel-castro-expressing-sympathy-with-the-romani-migrants-it-is-trying.xml)  
+
 ### [2010-09-11](/news/2010/09/11/index.md)
 
+##### France
 # France condemns as "unacceptable" remarks made by former Cuban leader Fidel Castro expressing sympathy with the Romani migrants it is trying to rid itself of. 
 
 France says a remark by Fidel Castro that its treatment of Roma migrants amounts to a &quot;racial holocaust&quot; is unacceptable.
 
 
-### Source:
+### Sources:
 
 1. [AFP via France24](http://www.france24.com/en/20100911-castro-provokes-french-anger-calling-roma-expulsions-holocaust)
 2. [BBC](http://www.bbc.co.uk/news/world-europe-11271064)

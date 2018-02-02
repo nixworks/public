@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/11/al-qaeda-organization-in-the-islamic-maghreb-claims-responsibility-for-two-simultaneous-bombings-in-algiers-algeria-causing-at-least-62-d.html)  [JSON](/news/2007/12/11/al-qaeda-organization-in-the-islamic-maghreb-claims-responsibility-for-two-simultaneous-bombings-in-algiers-algeria-causing-at-least-62-d.json)  [XML](/news/2007/12/11/al-qaeda-organization-in-the-islamic-maghreb-claims-responsibility-for-two-simultaneous-bombings-in-algiers-algeria-causing-at-least-62-d.xml)  
+
 ### [2007-12-11](/news/2007/12/11/index.md)
 
+##### Al Qaeda in the Islamic Maghreb
 #  Al-Qaeda Organization in the Islamic Maghreb claims responsibility for two simultaneous bombings in Algiers, Algeria, causing at least 62 deaths and more injuries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2007/WORLD/africa/12/11/algeria.blast/index.html)
 

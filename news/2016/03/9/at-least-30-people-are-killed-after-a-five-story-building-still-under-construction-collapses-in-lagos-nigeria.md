@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/9/at-least-30-people-are-killed-after-a-five-story
 
 ### [2016-03-9](/news/2016/03/9/index.md)
 
+##### Lagos
 # At least 30 people are killed after a five-story building still under construction collapses in Lagos, Nigeria. 
 
 

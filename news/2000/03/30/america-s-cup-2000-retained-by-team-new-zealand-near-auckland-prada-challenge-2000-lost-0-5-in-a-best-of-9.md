@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/03/30/america-s-cup-2000-retained-by-team-new-zealand-near-auckland-prada-challenge-2000-lost-0-5-in-a-best-of-9.html)  [JSON](/news/2000/03/30/america-s-cup-2000-retained-by-team-new-zealand-near-auckland-prada-challenge-2000-lost-0-5-in-a-best-of-9.json)  [XML](/news/2000/03/30/america-s-cup-2000-retained-by-team-new-zealand-near-auckland-prada-challenge-2000-lost-0-5-in-a-best-of-9.xml)  
+
 ### [2000-03-30](/news/2000/03/30/index.md)
 
+##### America's Cup
 #  America's Cup 2000 retained by Team New Zealand near Auckland. Prada Challenge 2000 lost 0-5 in a "best-of-9".
 
 

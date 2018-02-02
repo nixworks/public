@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/4/the-20th-asean-summit-meeting-in-phnom-penh-cambodia-calls-for-sanctions-to-be-lifted-against-myanmar-or-burma-following-recent-by-electio.html)  [JSON](/news/2012/04/4/the-20th-asean-summit-meeting-in-phnom-penh-cambodia-calls-for-sanctions-to-be-lifted-against-myanmar-or-burma-following-recent-by-electio.json)  [XML](/news/2012/04/4/the-20th-asean-summit-meeting-in-phnom-penh-cambodia-calls-for-sanctions-to-be-lifted-against-myanmar-or-burma-following-recent-by-electio.xml)  
+
 ### [2012-04-4](/news/2012/04/4/index.md)
 
+##### ASEAN Summit
 # The 20th ASEAN Summit meeting in Phnom Penh, Cambodia, calls for sanctions to be lifted against Myanmar or Burma following recent by-elections. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Today Online](http://www.todayonline.com/World/EDC120404-0000073/ASEAN-calls-for-lifting-of-Myanmar-sanctions)
 

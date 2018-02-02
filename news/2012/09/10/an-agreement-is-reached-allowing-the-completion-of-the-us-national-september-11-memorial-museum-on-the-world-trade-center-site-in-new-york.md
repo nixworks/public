@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/10/an-agreement-is-reached-allowing-the-completion-of-the-us-national-september-11-memorial-museum-on-the-world-trade-center-site-in-new-york.html)  [JSON](/news/2012/09/10/an-agreement-is-reached-allowing-the-completion-of-the-us-national-september-11-memorial-museum-on-the-world-trade-center-site-in-new-york.json)  [XML](/news/2012/09/10/an-agreement-is-reached-allowing-the-completion-of-the-us-national-september-11-memorial-museum-on-the-world-trade-center-site-in-new-york.xml)  
+
 ### [2012-09-10](/news/2012/09/10/index.md)
 
+##### National September 11 Memorial & Museum
 # An agreement is reached allowing the completion of the US National September 11 Memorial & Museum on the World Trade Center site in New York City. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Seattle PI](http://www.seattlepi.com/news/article/Agreement-reached-for-Sept-11-museum-s-completion-3854471.php)
 

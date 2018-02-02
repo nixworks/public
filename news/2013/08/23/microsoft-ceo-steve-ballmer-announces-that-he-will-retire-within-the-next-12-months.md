@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/08/23/microsoft-ceo-steve-ballmer-announces-that-he-will-retire-within-the-next-12-months.html)  [JSON](/news/2013/08/23/microsoft-ceo-steve-ballmer-announces-that-he-will-retire-within-the-next-12-months.json)  [XML](/news/2013/08/23/microsoft-ceo-steve-ballmer-announces-that-he-will-retire-within-the-next-12-months.xml)  
+
 ### [2013-08-23](/news/2013/08/23/index.md)
 
+##### Microsoft
 # Microsoft CEO Steve Ballmer announces that he will retire within the next 12 months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424127887324165204579030611858818656.html)
 

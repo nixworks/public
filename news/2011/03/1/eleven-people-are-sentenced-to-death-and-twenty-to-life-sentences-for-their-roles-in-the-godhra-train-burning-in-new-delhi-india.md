@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/1/eleven-people-are-sentenced-to-death-and-twenty-to-life-sentences-for-their-roles-in-the-godhra-train-burning-in-new-delhi-india.html)  [JSON](/news/2011/03/1/eleven-people-are-sentenced-to-death-and-twenty-to-life-sentences-for-their-roles-in-the-godhra-train-burning-in-new-delhi-india.json)  [XML](/news/2011/03/1/eleven-people-are-sentenced-to-death-and-twenty-to-life-sentences-for-their-roles-in-the-godhra-train-burning-in-new-delhi-india.xml)  
+
 ### [2011-03-1](/news/2011/03/1/index.md)
 
+##### life sentence
 # Eleven people are sentenced to death and twenty to life sentences for their roles in the Godhra train burning in New Delhi, India. 
 
 31 people were convicted and 63 others, including the main accused Maulvi Umarji, were acquitted by a special court on February 22. 
 
 
-### Source:
+### Sources:
 
 1. [Times of India](http://timesofindia.indiatimes.com/india/Death-for-11-life-sentence-for-20-in-Godhra-train-burning-case/articleshow/7600059.cms)
 1. [Cover Image](http://timesofindia.indiatimes.com/photo/7600195.cms)

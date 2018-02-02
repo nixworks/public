@@ -1,25 +1,29 @@
+
+Formats: [HTML](/news/2012/08/20/afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan-early-in-2013.html)  [JSON](/news/2012/08/20/afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan-early-in-2013.json)  [XML](/news/2012/08/20/afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan-early-in-2013.xml)  
+
 ### [2012-08-20](/news/2012/08/20/index.md)
 
+##### War in Afghanistan (2001-present)
 # Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The Washington Post](http://www.washingtonpost.com/world/asia_pacific/new-zealand-announces-earlier-exit-from-afghanistan-pm-says-not-prompted-by-recent-deaths/2012/08/19/bb3348c4-ea72-11e1-866f-60a00f604425_story.html?wprss=rss_social-world-headlines)
+1. [AP via ''The Washington Post](https://www.washingtonpost.com/world/asia_pacific/new-zealand-announces-earlier-exit-from-afghanistan-pm-says-not-prompted-by-recent-deaths/2012/08/19/bb3348c4-ea72-11e1-866f-60a00f604425_story.html?wprss=rss_social-world-headlines)
 2. [Al Arabiya](http://english.alarabiya.net/articles/2012/08/20/233225.html)
-
-### Related:
-
-1. [The Prime Minister of New Zealand John Key announces that a second New Zealand Special Air Service soldier has died in fighting in Afghanistan. ](/news/2011/09/28/the-prime-minister-of-new-zealand-john-key-announces-that-a-second-new-zealand-special-air-service-soldier-has-died-in-fighting-in-afghanist.md) _Context: Afghanistan, John Key, Prime Minister_
-2. [Australian Associated Press reports that Bill English has secured the support of a majority of members of the New Zealand National Party to succeed John Key as the Prime Minister of New Zealand. ](/news/2016/12/8/australian-associated-press-reports-that-bill-english-has-secured-the-support-of-a-majority-of-members-of-the-new-zealand-national-party-to.md) _Context: John Key, Prime Minister_
-3. [John Key resigns as the Prime Minister of New Zealand and leader of the National Party after 8 years as PM and 10 years as party leader due to personal reasons. ](/news/2016/12/5/john-key-resigns-as-the-prime-minister-of-new-zealand-and-leader-of-the-national-party-after-8-years-as-pm-and-10-years-as-party-leader-due.md) _Context: John Key, Prime Minister_
-4. [New Zealand Prime Minister John Key visits Fiji, the first time a Kiwi leader has done so since the 2006 coup d'etat. Key is hoping to improve relations between the two countries though it's clear their political tensions don't have easy solutions. ](/news/2016/06/9/new-zealand-prime-minister-john-key-visits-fiji-the-first-time-a-kiwi-leader-has-done-so-since-the-2006-coup-d-a-c-tat-key-is-hoping-to-impr.md) _Context: John Key, Prime Minister_
-5. [New Zealand Prime Minister John Key settles a defamation case with freelance cameraman Bradley Ambrose, acknowledging comments he made about the man caused him professional and personal harm. ](/news/2016/03/21/new-zealand-prime-minister-john-key-settles-a-defamation-case-with-freelance-cameraman-bradley-ambrose-acknowledging-comments-he-made-about.md) _Context: John Key, Prime Minister_
 
 ### Changes:
 
 1. [War on Terror:Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/war-on-terror-pafghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan.md) _2017-08-25 03:36:18 (First version)_
 2. [War on Terror:: Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/war-on-terror-afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanista.md) _2017-08-27 03:36:29 (Update)_
 2. [Afghanistan: John Key, the Prime Minister of New Zealand, announces that the Government will withdraw forces from Afghanistan early in 2013. ](/news/2012/08/20/afghanistan-john-key-the-prime-minister-of-new-zealand-announces-that-the-government-will-withdraw-forces-from-afghanistan-early-in-2013.md) _(Current version)_
+
+### Related:
+
+1. [The Prime Minister of New Zealand John Key announces that a second New Zealand Special Air Service soldier has died in fighting in Afghanistan. ](/news/2011/09/28/the-prime-minister-of-new-zealand-john-key-announces-that-a-second-new-zealand-special-air-service-soldier-has-died-in-fighting-in-afghanist.md) _Context: Afghanistan, John Key, Prime Minister_
+2. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+3. [A suicide bombing at a Shi'ite cultural center and news agency in Kabul, Afghanistan, kills 41 people and injures 84 others. ISIL-affiliated Amaq News Agency says this group is responsible. ](/news/2017/12/28/a-suicide-bombing-at-a-shiaite-cultural-center-and-news-agency-in-kabul-afghanistan-kills-41-people-and-injures-84-others-isil-affiliat.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+4. [A suicide bombing in Afghanistan's capital Kabul kills at least 8 civilians and leaves numerous wounded. The Islamic State claims responsibility. ](/news/2017/10/31/a-suicide-bombing-in-afghanistan-s-capital-kabul-kills-at-least-8-civilians-and-leaves-numerous-wounded-the-islamic-state-claims-responsibi.md) _Context: Afghanistan, War in Afghanistan (2001-present)_
+5. [Australian Associated Press reports that Bill English has secured the support of a majority of members of the New Zealand National Party to succeed John Key as the Prime Minister of New Zealand. ](/news/2016/12/8/australian-associated-press-reports-that-bill-english-has-secured-the-support-of-a-majority-of-members-of-the-new-zealand-national-party-to.md) _Context: John Key, Prime Minister_

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/8/pope-francis-issues-amoris-laetitia-or-the-joy-o
 
 ### [2016-04-8](/news/2016/04/8/index.md)
 
+##### Pope Francis
 # Pope Francis issues "Amoris Laetitia" or the Joy of Love, a document on the Roman Catholic approach to love, sex, marriage and family life. 
 
 VATICAN CITY (AP) — In a sweeping document on family life that opened a door to divorced and civilly remarried Catholics, Pope Francis insisted Friday that church doctrine cannot be the final word in answering tricky moral…

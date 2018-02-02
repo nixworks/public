@@ -1,20 +1,24 @@
+
+Formats: [HTML](/news/2012/07/9/thousands-of-computer-users-around-the-world-lose-internet-access-as-a-result-of-the-expiration-of-a-federal-bureau-of-investigation-tempora.html)  [JSON](/news/2012/07/9/thousands-of-computer-users-around-the-world-lose-internet-access-as-a-result-of-the-expiration-of-a-federal-bureau-of-investigation-tempora.json)  [XML](/news/2012/07/9/thousands-of-computer-users-around-the-world-lose-internet-access-as-a-result-of-the-expiration-of-a-federal-bureau-of-investigation-tempora.xml)  
+
 ### [2012-07-9](/news/2012/07/9/index.md)
 
+##### Internet
 # Thousands of computer users around the world lose Internet access as a result of the expiration of a Federal Bureau of Investigation temporary fix to the Internet Doomsday virus. 
 
 Thousands of computer users may be without Internet access Monday after a deadline expired for a temporary fix to a malicious software scam shut down by the FBI last year. What is it? Millions of computers were infected with the so-called &quot;Internet Doomsday&quot; virus used in the hacking scam,
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/technology/2012/jul/09/dnschanger-malware?newsfeed=true)
-2. [Yahoo! News](http://news.yahoo.com/blogs/lookout/blackout-monday-dns-changer-know-155840354.html)
+2. [Yahoo! News](https://news.yahoo.com/blogs/lookout/blackout-monday-dns-changer-know-155840354.html)
 2. [Cover Image](https://s.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png)
 
 ### Related:
 
 1. [ The U.S. Federal Bureau of Investigation is probing an Internet leak of the upcoming film "X-Men Origins: Wolverine". ](/news/2009/04/2/the-u-s-federal-bureau-of-investigation-is-probing-an-internet-leak-of-the-upcoming-film-x-men-origins-wolverine.md) _Context: FBI, Internet_
-2. [The U.S. State Department removes all families of employees and nonessential personnel from Cuba following apparent sonic attacks that injured 21 personnel on the island. Cuba denies any involvement and has authorized the FBI to travel to the island to help the ongoing investigation into the causes. ](/news/2017/09/29/the-u-s-state-department-removes-all-families-of-employees-and-nonessential-personnel-from-cuba-following-apparent-sonic-attacks-that-injur.md) _Context: FBI_
-3. [Both the FBI and NSD declare that they possess no records indicating that Trump Tower in New York City, New York was wiretapped earlier in March. ](/news/2017/09/2/both-the-fbi-and-nsd-declare-that-they-possess-no-records-indicating-that-trump-tower-in-new-york-city-new-york-was-wiretapped-earlier-in-m.md) _Context: FBI_
-4. [A woman is killed aboard the "Emerald Princess" cruise ship as it sails to a port of call in Juneau, Alaska, U.S. The passengers are detained while the FBI investigates. Authorities suspect the incident is related to domestic violence. ](/news/2017/07/26/a-woman-is-killed-aboard-the-emerald-princess-cruise-ship-as-it-sails-to-a-port-of-call-in-juneau-alaska-u-s-the-passengers-are-detaine.md) _Context: FBI_
-5. [United States president Donald Trump announces lawyer Christopher A. Wray as his nominee to be director of the Federal Bureau of Investigation. ](/news/2017/06/7/united-states-president-donald-trump-announces-lawyer-christopher-a-wray-as-his-nominee-to-be-director-of-the-federal-bureau-of-investigati.md) _Context: FBI_
+2. [The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program, permitted by Section 702. Changes to the program will require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. ](/news/2018/01/11/the-united-states-house-of-representatives-passes-a-bill-to-reauthorize-for-a-period-of-six-years-a-key-foreign-intelligence-collection-pr.md) _Context: FBI_
+3. [The Federal Bureau of Investigation arrests Everitt Aaron Jameson, a 25-year-old former Marine, on suspicion of planning a terrorist attack in the Pier 39 area over Christmas.](/news/2017/12/22/the-federal-bureau-of-investigation-arrests-everitt-aaron-jameson-a-25-year-old-former-marine-on-suspicion-of-planning-a-terrorist-attack.md) _Context: FBI_
+4. [Michael Flynn, former U.S. National Security Advisor to President Donald Trump, pleads guilty to one count of making a false statement to the FBI about his contacts with Russian officials. It is also announced that Flynn will cooperate with Robert Mueller's Special Counsel investigation. ](/news/2017/12/1/michael-flynn-former-u-s-national-security-advisor-to-president-donald-trump-pleads-guilty-to-one-count-of-making-a-false-statement-to-th.md) _Context: FBI_
+5. [Paul Manafort and Rick Gates surrender to the FBI after both are indicted on multiple charges stemming from the investigation into the Donald Trump presidential campaign's possible associations with the Russian government. The two men--who respectively served as manager and deputy manager of the campaign from March to August 2016--are being charged on twelve counts, which include conspiracy against the U.S., money laundering and failing to register as foreign agents. ](/news/2017/10/30/paul-manafort-and-rick-gates-surrender-to-the-fbi-after-both-are-indicted-on-multiple-charges-stemming-from-the-investigation-into-the-donal.md) _Context: FBI_

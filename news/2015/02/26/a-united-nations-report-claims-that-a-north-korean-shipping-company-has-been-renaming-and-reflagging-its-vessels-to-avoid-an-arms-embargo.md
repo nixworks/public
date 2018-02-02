@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/02/26/a-united-nations-report-claims-that-a-north-korean-shipping-company-has-been-renaming-and-reflagging-its-vessels-to-avoid-an-arms-embargo.html)  [JSON](/news/2015/02/26/a-united-nations-report-claims-that-a-north-korean-shipping-company-has-been-renaming-and-reflagging-its-vessels-to-avoid-an-arms-embargo.json)  [XML](/news/2015/02/26/a-united-nations-report-claims-that-a-north-korean-shipping-company-has-been-renaming-and-reflagging-its-vessels-to-avoid-an-arms-embargo.xml)  
+
 ### [2015-02-26](/news/2015/02/26/index.md)
 
+##### United Nations
 # A United Nations report claims that a North Korean shipping company has been renaming and reflagging its vessels to avoid an arms embargo. 
 
 A North Korean shipping company has renamed and reflagged its vessels in an attempt to get around sanctions, a UN report says.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-asia-31635564)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/69531000/jpg/_69531949_a7bad521-37ac-4e74-848b-ac406f6375d3.jpg)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/10/19/siev-x-sinks-en-route-to-christmas-island.html)  [JSON](/news/2001/10/19/siev-x-sinks-en-route-to-christmas-island.json)  [XML](/news/2001/10/19/siev-x-sinks-en-route-to-christmas-island.xml)  
+
 ### [2001-10-19](/news/2001/10/19/index.md)
 
+##### SIEV-X
 #  SIEV-X sinks en route to Christmas Island.
 
 

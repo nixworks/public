@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/20/research-by-the-university-of-central-florida-indicates-a-common-uv-filtering-compound-oxybenzone-found-in-sunscreen-lotion-is-killing-cor.html)  [JSON](/news/2015/10/20/research-by-the-university-of-central-florida-indicates-a-common-uv-filtering-compound-oxybenzone-found-in-sunscreen-lotion-is-killing-cor.json)  [XML](/news/2015/10/20/research-by-the-university-of-central-florida-indicates-a-common-uv-filtering-compound-oxybenzone-found-in-sunscreen-lotion-is-killing-cor.xml)  
+
 ### [2015-10-20](/news/2015/10/20/index.md)
 
+##### University of Central Florida
 # Research by the University of Central Florida indicates a common UV-filtering compound, oxybenzone, found in sunscreen lotion is killing coral, especially among reefs frequented by recreational divers and snorkelers. 
 
 Scientists at the University of Central Florida suggest a common UV-filtering compound found in sunscreen is damaging and killing coral.
 
 
-### Source:
+### Sources:
 
 1. [Time](http://time.com/4082272/coral-reefs-sunscreen-oxybenzone/)
 2. [UPI](http://www.upi.com/Science_News/2015/10/20/Sunscreen-chemicals-may-be-killing-coral-reefs-popular-with-tourists/1721445351385/?spt=hts&or=4)

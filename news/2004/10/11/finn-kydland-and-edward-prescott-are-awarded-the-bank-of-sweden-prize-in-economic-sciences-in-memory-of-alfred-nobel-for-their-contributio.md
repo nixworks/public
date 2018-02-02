@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/11/finn-kydland-and-edward-prescott-are-awarded-the-bank-of-sweden-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-their-contributio.html)  [JSON](/news/2004/10/11/finn-kydland-and-edward-prescott-are-awarded-the-bank-of-sweden-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-their-contributio.json)  [XML](/news/2004/10/11/finn-kydland-and-edward-prescott-are-awarded-the-bank-of-sweden-prize-in-economic-sciences-in-memory-of-alfred-nobel-for-their-contributio.xml)  
+
 ### [2004-10-11](/news/2004/10/11/index.md)
 
+##### Finn Kydland
 #  Finn Kydland and Edward Prescott are awarded the Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel for "their contributions to dynamic macroeconomics: the time consistency of economic policy and the driving forces behind business cycles". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Nobel Foundation](http://nobelprize.org/economics/laureates/2004/)
 

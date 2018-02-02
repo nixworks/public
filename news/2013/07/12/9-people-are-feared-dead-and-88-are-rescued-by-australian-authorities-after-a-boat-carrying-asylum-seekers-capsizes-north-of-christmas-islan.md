@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/12/9-people-are-feared-dead-and-88-are-rescued-by-australian-authorities-after-a-boat-carrying-asylum-seekers-capsizes-north-of-christmas-islan.html)  [JSON](/news/2013/07/12/9-people-are-feared-dead-and-88-are-rescued-by-australian-authorities-after-a-boat-carrying-asylum-seekers-capsizes-north-of-christmas-islan.json)  [XML](/news/2013/07/12/9-people-are-feared-dead-and-88-are-rescued-by-australian-authorities-after-a-boat-carrying-asylum-seekers-capsizes-north-of-christmas-islan.xml)  
+
 ### [2013-07-12](/news/2013/07/12/index.md)
 
+##### Australian
 # 9 people are feared dead and 88 are rescued by Australian authorities after a boat carrying asylum seekers capsizes north of Christmas Island. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Australian](http://www.theaustralian.com.au/news/eight-feared-dead-in-asylum-boat-capsize-as-survivors-get-to-christmas-island/story-e6frg6n6-1226678850496)
 

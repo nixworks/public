@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/05/16/the-gulf-drug-cartel-liberates-59-inmates-from-a-prison-in-zacatecas-mexico.html)  [JSON](/news/2009/05/16/the-gulf-drug-cartel-liberates-59-inmates-from-a-prison-in-zacatecas-mexico.json)  [XML](/news/2009/05/16/the-gulf-drug-cartel-liberates-59-inmates-from-a-prison-in-zacatecas-mexico.xml)  
+
 ### [2009-05-16](/news/2009/05/16/index.md)
 
+##### Gulf Cartel
 #  The Gulf drug cartel liberates 59 inmates from a prison in Zacatecas, Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via Yahoo! Xtra](http://nz.news.yahoo.com/a/-/world/5572716/suspected-drug-gang-frees-59-from-mexico-prison/)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/11/18/the-film-version-of-harry-potter-and-the-goblet-of-fire-is-released-in-the-uk-and-usa.html)  [JSON](/news/2005/11/18/the-film-version-of-harry-potter-and-the-goblet-of-fire-is-released-in-the-uk-and-usa.json)  [XML](/news/2005/11/18/the-film-version-of-harry-potter-and-the-goblet-of-fire-is-released-in-the-uk-and-usa.xml)  
+
 ### [2005-11-18](/news/2005/11/18/index.md)
 
+##### Harry Potter and the Goblet of Fire
 #  The film version of "Harry Potter and the Goblet of Fire" is released in the UK and USA.
 
 

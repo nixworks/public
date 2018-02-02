@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/10/20/the-concert-for-new-york-city-a-celebration-of-the-strength-resilience-and-pride-of-new-york-and-america-is-held-featuring-performance.html)  [JSON](/news/2001/10/20/the-concert-for-new-york-city-a-celebration-of-the-strength-resilience-and-pride-of-new-york-and-america-is-held-featuring-performance.json)  [XML](/news/2001/10/20/the-concert-for-new-york-city-a-celebration-of-the-strength-resilience-and-pride-of-new-york-and-america-is-held-featuring-performance.xml)  
+
 ### [2001-10-20](/news/2001/10/20/index.md)
 
+##### The Concert for New York City: a celebration of the strength, resilience, and pride of New York and America
 #  "The Concert for New York City: a celebration of the strength, resilience, and pride of New York and America" is held featuring performances by The Who, Paul McCartney, David Bowie, Billy Joel, Destiny's Child, Eric Clapton, Adam Sandler, Bon Jovi, Elton John and many more.
 
 

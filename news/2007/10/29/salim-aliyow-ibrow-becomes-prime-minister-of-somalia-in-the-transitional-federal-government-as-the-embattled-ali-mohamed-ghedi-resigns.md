@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/29/salim-aliyow-ibrow-becomes-prime-minister-of-somalia-in-the-transitional-federal-government-as-the-embattled-ali-mohamed-ghedi-resigns.html)  [JSON](/news/2007/10/29/salim-aliyow-ibrow-becomes-prime-minister-of-somalia-in-the-transitional-federal-government-as-the-embattled-ali-mohamed-ghedi-resigns.json)  [XML](/news/2007/10/29/salim-aliyow-ibrow-becomes-prime-minister-of-somalia-in-the-transitional-federal-government-as-the-embattled-ali-mohamed-ghedi-resigns.xml)  
+
 ### [2007-10-29](/news/2007/10/29/index.md)
 
+##### Salim Aliyow Ibrow
 #  Salim Aliyow Ibrow becomes Prime Minister of Somalia in the Transitional Federal Government as the embattled Ali Mohamed Ghedi resigns. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7067053.stm)
 

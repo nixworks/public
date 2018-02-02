@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/04/29/the-u-s-food-and-drug-administration-fda-approves-provenge-sipuleucel-t-the-first-vaccine-approved-to-treat-cancer-for-men-with-adv.html)  [JSON](/news/2010/04/29/the-u-s-food-and-drug-administration-fda-approves-provenge-sipuleucel-t-the-first-vaccine-approved-to-treat-cancer-for-men-with-adv.json)  [XML](/news/2010/04/29/the-u-s-food-and-drug-administration-fda-approves-provenge-sipuleucel-t-the-first-vaccine-approved-to-treat-cancer-for-men-with-adv.xml)  
+
 ### [2010-04-29](/news/2010/04/29/index.md)
 
+##### Food and Drug Administration
 # The U.S. Food and Drug Administration (FDA) approves Provenge (sipuleucel-T), the first "vaccine" approved to treat cancer, for men with advanced prostate cancer. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [USA Today](http://www.usatoday.com/news/health/2010-04-30-prostatevaccine30_ST_N.htm?csp=34)
+1. [USA Today](https://www.usatoday.com/news/health/2010-04-30-prostatevaccine30_ST_N.htm?csp=34)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/24/miyeegombyn-enkhbold-is-chosen-as-the-new-prime-minister-of-mongolia-by-the-state-great-khural.html)  [JSON](/news/2006/01/24/miyeegombyn-enkhbold-is-chosen-as-the-new-prime-minister-of-mongolia-by-the-state-great-khural.json)  [XML](/news/2006/01/24/miyeegombyn-enkhbold-is-chosen-as-the-new-prime-minister-of-mongolia-by-the-state-great-khural.xml)  
+
 ### [2006-01-24](/news/2006/01/24/index.md)
 
+##### Miyeegombyn Enkhbold
 #  Miyeegombyn Enkhbold is chosen as the new Prime Minister of Mongolia by the State Great Khural. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/low/world/asia-pacific/4645678.stm)
 

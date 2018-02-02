@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/11/20/a-fire-in-a-marketplace-in-guatemala-city-kills-at-least-fifteen-people-the-fire-started-from-a-cigarette-in-a-fireworks-stall.html)  [JSON](/news/2006/11/20/a-fire-in-a-marketplace-in-guatemala-city-kills-at-least-fifteen-people-the-fire-started-from-a-cigarette-in-a-fireworks-stall.json)  [XML](/news/2006/11/20/a-fire-in-a-marketplace-in-guatemala-city-kills-at-least-fifteen-people-the-fire-started-from-a-cigarette-in-a-fireworks-stall.xml)  
+
 ### [2006-11-20](/news/2006/11/20/index.md)
 
+##### Guatemala City
 #  A fire in a marketplace in Guatemala City kills at least fifteen people. The fire started from a cigarette in a fireworks stall. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6167662.stm)
 

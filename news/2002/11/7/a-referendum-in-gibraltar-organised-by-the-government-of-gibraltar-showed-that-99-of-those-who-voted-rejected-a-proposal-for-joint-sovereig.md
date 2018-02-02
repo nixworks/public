@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/7/a-referendum-in-gibraltar-organised-by-the-government-of-gibraltar-showed-that-99-of-those-who-voted-rejected-a-proposal-for-joint-sovereig.html)  [JSON](/news/2002/11/7/a-referendum-in-gibraltar-organised-by-the-government-of-gibraltar-showed-that-99-of-those-who-voted-rejected-a-proposal-for-joint-sovereig.json)  [XML](/news/2002/11/7/a-referendum-in-gibraltar-organised-by-the-government-of-gibraltar-showed-that-99-of-those-who-voted-rejected-a-proposal-for-joint-sovereig.xml)  
+
 ### [2002-11-7](/news/2002/11/7/index.md)
 
+##### referendum
 # A referendum in Gibraltar organised by the Government of Gibraltar showed that 99% of those who voted rejected a proposal for joint sovereignty with Spain The turnout for the referendum was 88%.
 
 

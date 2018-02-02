@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/21/the-new-york-yankees-beat-the-baltimore-orioles-7-3-at-their-last-home-game-at-yankee-stadium-this-is-the-last-time-the-new-york-yankees.html)  [JSON](/news/2008/09/21/the-new-york-yankees-beat-the-baltimore-orioles-7-3-at-their-last-home-game-at-yankee-stadium-this-is-the-last-time-the-new-york-yankees.json)  [XML](/news/2008/09/21/the-new-york-yankees-beat-the-baltimore-orioles-7-3-at-their-last-home-game-at-yankee-stadium-this-is-the-last-time-the-new-york-yankees.xml)  
+
 ### [2008-09-21](/news/2008/09/21/index.md)
 
+##### The New York Yankees
 #  The New York Yankees beat The Baltimore Orioles, 7-3, at their last home game at Yankee Stadium. This is the last time the New York Yankees play at Yankee Stadium before moving to the New Yankee Stadium across the street. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yankees.com](http://newyork.yankees.mlb.com/news/wrap.jsp?ymd=20080921&content_id=3525626&vkey=wrapup2005&fext=.jsp&team=home&c_id=nyy)
 1. [Cover Image](http://newyork.yankees.mlb.com/mlb/images/team_logos/social_media/og_1200x630_image/nyy_1200x630.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/10/15/nicola-sturgeon-will-succeed-alex-salmond-as-leader-of-the-scottish-national-party-and-first-minister-of-scotland-after-she-was-the-only-can.html)  [JSON](/news/2014/10/15/nicola-sturgeon-will-succeed-alex-salmond-as-leader-of-the-scottish-national-party-and-first-minister-of-scotland-after-she-was-the-only-can.json)  [XML](/news/2014/10/15/nicola-sturgeon-will-succeed-alex-salmond-as-leader-of-the-scottish-national-party-and-first-minister-of-scotland-after-she-was-the-only-can.xml)  
+
 ### [2014-10-15](/news/2014/10/15/index.md)
 
+##### Nicola Sturgeon
 # Nicola Sturgeon will succeed Alex Salmond as leader of the Scottish National Party and First Minister of Scotland after she was the only candidate to put their name forward in the party's leadership election. 
 
 Nicola Sturgeon will succeed Alex Salmond as SNP leader and first minister, after becoming the only person to put her name forward for the job.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-scotland-scotland-politics-29618913)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/78230000/jpg/_78230534_hi024337145.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/6/at-least-25-people-are-killed-and-at-least-three-others-are-trapped-in-a-mine-fire-in-xiangtan-county-in-hunan.html)  [JSON](/news/2010/01/6/at-least-25-people-are-killed-and-at-least-three-others-are-trapped-in-a-mine-fire-in-xiangtan-county-in-hunan.json)  [XML](/news/2010/01/6/at-least-25-people-are-killed-and-at-least-three-others-are-trapped-in-a-mine-fire-in-xiangtan-county-in-hunan.xml)  
+
 ### [2010-01-6](/news/2010/01/6/index.md)
 
+##### Xiangtan County
 # At least 25 people are killed and at least three others are trapped in a mine fire in Xiangtan County in Hunan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press TV](http://www.presstv.ir/detail.aspx?id=115519&sectionid=351020404)
 2. [Reuters Africa](http://af.reuters.com/article/worldNews/idAFTRE6050YX20100106)

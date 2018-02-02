@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/20/some-protesters-of-the-inauguration-smash-windo
 
 ### [2017-01-20](/news/2017/01/20/index.md)
 
+##### Inauguration of Donald Trump protests
 # Some protesters of the inauguration smash windows, damage cars, and clash with the police. Six police officers and at least one civilian are injured. DC police say 217 protesters have been arrested. 
 
 

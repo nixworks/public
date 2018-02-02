@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/15/the-movement-for-the-emancipation-of-the-niger-delta-frees-two-italian-oilworkers-that-it-took-captive-last-year-in-nigeria.html)  [JSON](/news/2007/03/15/the-movement-for-the-emancipation-of-the-niger-delta-frees-two-italian-oilworkers-that-it-took-captive-last-year-in-nigeria.json)  [XML](/news/2007/03/15/the-movement-for-the-emancipation-of-the-niger-delta-frees-two-italian-oilworkers-that-it-took-captive-last-year-in-nigeria.xml)  
+
 ### [2007-03-15](/news/2007/03/15/index.md)
 
+##### Movement for the Emancipation of the Niger Delta
 #  The Movement for the Emancipation of the Niger Delta frees two Italian oilworkers that it took captive last year in Nigeria. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via CNN](http://edition.cnn.com/2007/WORLD/africa/03/15/nigeria.hostages.reut/)
 

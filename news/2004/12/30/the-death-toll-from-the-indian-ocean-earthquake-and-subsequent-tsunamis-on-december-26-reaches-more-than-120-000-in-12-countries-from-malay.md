@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/12/30/the-death-toll-from-the-indian-ocean-earthquake-and-subsequent-tsunamis-on-december-26-reaches-more-than-120-000-in-12-countries-from-malay.html)  [JSON](/news/2004/12/30/the-death-toll-from-the-indian-ocean-earthquake-and-subsequent-tsunamis-on-december-26-reaches-more-than-120-000-in-12-countries-from-malay.json)  [XML](/news/2004/12/30/the-death-toll-from-the-indian-ocean-earthquake-and-subsequent-tsunamis-on-december-26-reaches-more-than-120-000-in-12-countries-from-malay.xml)  
+
 ### [2004-12-30](/news/2004/12/30/index.md)
 
+##### 2004 Indian Ocean earthquake
 #  The death toll from the Indian Ocean earthquake and subsequent tsunamis on December 26 reaches more than 120,000 in 12 countries from Malaysia to Somalia; the Norwegian newspaper "Verdens Gang" reports a current total of 115,982 deaths. The Malaysian News Agency reports the death toll in Sumatra may exceed 400,000. According to the WHO, as many as five million people are at risk, with little water, food or shelter.
 
 

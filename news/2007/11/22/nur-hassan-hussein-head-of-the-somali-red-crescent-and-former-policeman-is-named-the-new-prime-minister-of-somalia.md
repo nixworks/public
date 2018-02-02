@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/22/nur-hassan-hussein-head-of-the-somali-red-crescent-and-former-policeman-is-named-the-new-prime-minister-of-somalia.html)  [JSON](/news/2007/11/22/nur-hassan-hussein-head-of-the-somali-red-crescent-and-former-policeman-is-named-the-new-prime-minister-of-somalia.json)  [XML](/news/2007/11/22/nur-hassan-hussein-head-of-the-somali-red-crescent-and-former-policeman-is-named-the-new-prime-minister-of-somalia.xml)  
+
 ### [2007-11-22](/news/2007/11/22/index.md)
 
+##### Nur Hassan Hussein
 #  Nur Hassan Hussein, head of the Somali Red Crescent and former policeman, is named the new Prime Minister of Somalia. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7106966.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/15/president-of-romania-traian-basescu-nominates-emil-boc-president-of-the-democratic-liberal-party-as-prime-minister.html)  [JSON](/news/2008/12/15/president-of-romania-traian-basescu-nominates-emil-boc-president-of-the-democratic-liberal-party-as-prime-minister.json)  [XML](/news/2008/12/15/president-of-romania-traian-basescu-nominates-emil-boc-president-of-the-democratic-liberal-party-as-prime-minister.xml)  
+
 ### [2008-12-15](/news/2008/12/15/index.md)
 
+##### President
 #  President of Romania Traian Basescu nominates Emil Boc, President of the Democratic Liberal Party, as Prime Minister. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/7784051.stm)
 2. [Xinhua](http://news.xinhuanet.com/english/2008-12/15/content_10509300.htm)

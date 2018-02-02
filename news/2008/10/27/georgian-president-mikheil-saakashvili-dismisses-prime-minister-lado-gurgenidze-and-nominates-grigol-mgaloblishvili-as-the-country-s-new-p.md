@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2008/10/27/georgian-president-mikheil-saakashvili-dismisses-prime-minister-lado-gurgenidze-and-nominates-grigol-mgaloblishvili-as-the-country-s-new-p.html)  [JSON](/news/2008/10/27/georgian-president-mikheil-saakashvili-dismisses-prime-minister-lado-gurgenidze-and-nominates-grigol-mgaloblishvili-as-the-country-s-new-p.json)  [XML](/news/2008/10/27/georgian-president-mikheil-saakashvili-dismisses-prime-minister-lado-gurgenidze-and-nominates-grigol-mgaloblishvili-as-the-country-s-new-p.xml)  
+
 ### [2008-10-27](/news/2008/10/27/index.md)
 
+##### Mikheil Saakashvili
 #  Georgian President Mikheil Saakashvili dismisses Prime Minister Lado Gurgenidze, and nominates Grigol Mgaloblishvili as the country's new prime minister, following the 2008 South Ossetian war. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://afp.google.com/article/ALeqM5hlWJq4WUY0kWd9TSwlR_EqpS8FdA)
 
 ### Related:
 
-1. [The OSCE titles the parliamentary election in Georgia as "fair and free". Partial results show a majority of votes for Georgian Dream. President Saakashvili concedes that his party, United National Movement, will move to opposition. Bidzina Ivanishvili is expected to become prime minister, and after legislative changes next year, also head of state. ](/news/2012/10/2/the-osce-titles-the-parliamentary-election-in-georgia-as-fair-and-free-partial-results-show-a-majority-of-votes-for-georgian-dream-presi.md) _Context: Saakashvili_
-2. [Mikheil Saakashvili's ruling United National Movement party and Bidzina Ivanishvili's new party Georgian Dream are expected to be the main contenders in the Georgian parliamentary elections. ](/news/2012/10/1/mikheil-saakashvili-s-ruling-united-national-movement-party-and-bidzina-ivanishvili-s-new-party-georgian-dream-are-expected-to-be-the-main-c.md) _Context: Saakashvili_
-3. [President of Georgia Mikheil Saakashvili names Interior Minister Vano Merabishvili as the country's new Prime Minister. ](/news/2012/06/30/president-of-georgia-mikheil-saakashvili-names-interior-minister-vano-merabishvili-as-the-country-s-new-prime-minister.md) _Context: Saakashvili_
-4. [Thousands of people rally in Tbilisi calling for the ousting of President Mikheil Saakashvili's regime. ](/news/2012/05/27/thousands-of-people-rally-in-tbilisi-calling-for-the-ousting-of-president-mikheil-saakashvili-s-regime.md) _Context: Saakashvili_
-5. [President Nicolas Sarkozy defends his plans to sell up to four French warships to Russia, despite concerns raised by his Georgian counterpart Mikheil Saakashvili during talks taking place a few days before a visit to Paris of Russian Prime Minister Vladimir Putin. ](/news/2010/06/9/president-nicolas-sarkozy-defends-his-plans-to-sell-up-to-four-french-warships-to-russia-despite-concerns-raised-by-his-georgian-counterpar.md) _Context: Saakashvili_
+1. [Mikheil Saakashvili is arrested again by the National Police of Ukraine. He was on the run since December 5. He has been leading anti-corruption rallies against Petro Poroshenko. ](/news/2017/12/8/mikheil-saakashvili-is-arrested-again-by-the-national-police-of-ukraine-he-was-on-the-run-since-december-5-he-has-been-leading-anti-corrup.md) _Context: Mikheil Saakashvili_
+2. [Police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless opposition leader Mikheil Saakashvili. A police source says police are preparing a special operation and will be unleashed "in the near future". ](/news/2017/12/6/police-raid-the-wrong-tent-of-an-activist-camp-in-kiev-and-fail-to-arrest-the-stateless-opposition-leader-mikheil-saakashvili-a-police-sour.md) _Context: Mikheil Saakashvili_
+3. [As police arrive at the stateless Mikheil Saakashvili's house in Kiev to detain him, Saakashvili goes up on the roof to protest verbally. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. Finally the supporters free him out of the van. Bespeeching the cameras again, he rails against corruption, against Petro Poroshenko and urges Ukrainians to "be afraid of nothing". ](/news/2017/12/5/as-police-arrive-at-the-stateless-mikheil-saakashvili-s-house-in-kiev-to-detain-him-saakashvili-goes-up-on-the-roof-to-protest-verbally-po.md) _Context: Mikheil Saakashvili_
+4. [Several hundred people take part in clashes between Ukrainian police and anti-Petro Poroshenko protesters (led by opposition leader Mikheil Saakashvili) demanding the president's resignation at the October Palace in Kiev. ](/news/2017/12/17/several-hundred-people-take-part-in-clashes-between-ukrainian-police-and-anti-petro-poroshenko-protesters-led-by-opposition-leader-mikheil.md) _Context: Mikheil Saakashvili_
+5. [Ukrainian opposition leader Mikheil Saakashvili is freed from detention following Judge Larysa Tsokol's dismissal of prosecutors' house arrest request. ](/news/2017/12/11/ukrainian-opposition-leader-mikheil-saakashvili-is-freed-from-detention-following-judge-larysa-tsokol-s-dismissal-of-prosecutorsa-house-ar.md) _Context: Mikheil Saakashvili_

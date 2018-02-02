@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/01/22/nominees-for-the-81st-academy-awards-are-announced.html)  [JSON](/news/2009/01/22/nominees-for-the-81st-academy-awards-are-announced.json)  [XML](/news/2009/01/22/nominees-for-the-81st-academy-awards-are-announced.xml)  
+
 ### [2009-01-22](/news/2009/01/22/index.md)
 
+##### Nominees
 #  Nominees for the 81st Academy Awards are announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/entertainment/7842438.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/27/over-30-are-injured-in-a-bomb-blast-on-a-ferry-at-lamitan-basilan-philippines-a-stronghold-of-the-abu-sayyaf-group.html)  [JSON](/news/2005/08/27/over-30-are-injured-in-a-bomb-blast-on-a-ferry-at-lamitan-basilan-philippines-a-stronghold-of-the-abu-sayyaf-group.json)  [XML](/news/2005/08/27/over-30-are-injured-in-a-bomb-blast-on-a-ferry-at-lamitan-basilan-philippines-a-stronghold-of-the-abu-sayyaf-group.xml)  
+
 ### [2005-08-27](/news/2005/08/27/index.md)
 
+##### Lamitan, Basilan
 #  Over 30 are injured in a bomb blast on a ferry at Lamitan, Basilan, Philippines, a stronghold of the Abu Sayyaf group. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4192102.stm)
 

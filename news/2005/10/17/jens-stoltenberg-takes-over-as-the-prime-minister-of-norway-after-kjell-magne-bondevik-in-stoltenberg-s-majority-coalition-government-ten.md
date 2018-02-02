@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/17/jens-stoltenberg-takes-over-as-the-prime-minister-of-norway-after-kjell-magne-bondevik-in-stoltenberg-s-majority-coalition-government-ten.html)  [JSON](/news/2005/10/17/jens-stoltenberg-takes-over-as-the-prime-minister-of-norway-after-kjell-magne-bondevik-in-stoltenberg-s-majority-coalition-government-ten.json)  [XML](/news/2005/10/17/jens-stoltenberg-takes-over-as-the-prime-minister-of-norway-after-kjell-magne-bondevik-in-stoltenberg-s-majority-coalition-government-ten.xml)  
+
 ### [2005-10-17](/news/2005/10/17/index.md)
 
+##### Jens Stoltenberg
 #  Jens Stoltenberg takes over as the Prime Minister of Norway after Kjell Magne Bondevik. In Stoltenberg's majority coalition government, ten ministers represent the PMs own party, the Norwegian Labour Party (Ap), five come from the Socialist Left Party (SV), and four from the Centre Party (Sp). Nine of the nineteen ministers are women. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aftenposten](http://www.aftenposten.no/english/local/article1136131.ece)
 

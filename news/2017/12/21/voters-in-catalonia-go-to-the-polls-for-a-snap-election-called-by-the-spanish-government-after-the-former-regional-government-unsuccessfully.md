@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/21/voters-in-catalonia-go-to-the-polls-for-a-snap-
 
 ### [2017-12-21](/news/2017/12/21/index.md)
 
+##### Spanish constitutional crisis
 # Voters in Catalonia go to the polls for a snap election called by the Spanish government after the former regional government unsuccessfully declared independence. 
 
 Separatist and pro-Spanish parties in Catalonia contest a snap regional election called by Madrid.

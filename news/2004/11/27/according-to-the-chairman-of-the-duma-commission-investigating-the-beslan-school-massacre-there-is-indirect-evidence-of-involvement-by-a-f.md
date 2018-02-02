@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/11/27/according-to-the-chairman-of-the-duma-commission-investigating-the-beslan-school-massacre-there-is-indirect-evidence-of-involvement-by-a-f.html)  [JSON](/news/2004/11/27/according-to-the-chairman-of-the-duma-commission-investigating-the-beslan-school-massacre-there-is-indirect-evidence-of-involvement-by-a-f.json)  [XML](/news/2004/11/27/according-to-the-chairman-of-the-duma-commission-investigating-the-beslan-school-massacre-there-is-indirect-evidence-of-involvement-by-a-f.xml)  
+
 ### [2004-11-27](/news/2004/11/27/index.md)
 
+##### Duma
 #  According to the chairman of the Duma commission investigating the Beslan school massacre, there is indirect evidence of involvement by a foreign intelligence agency; however, the agency remains unnamed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Interfax](http://www.interfax.ru/e/B/0/28.html?id_issue=10725087)
 1. [Cover Image](http://www.interfax.ru/img/interfax_icon_300.png)

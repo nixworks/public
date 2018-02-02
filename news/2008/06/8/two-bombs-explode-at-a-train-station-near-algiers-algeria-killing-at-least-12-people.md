@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/8/two-bombs-explode-at-a-train-station-near-algiers-algeria-killing-at-least-12-people.html)  [JSON](/news/2008/06/8/two-bombs-explode-at-a-train-station-near-algiers-algeria-killing-at-least-12-people.json)  [XML](/news/2008/06/8/two-bombs-explode-at-a-train-station-near-algiers-algeria-killing-at-least-12-people.xml)  
+
 ### [2008-06-8](/news/2008/06/8/index.md)
 
+##### Two bombs explode
 #  Two bombs explode at a train station near Algiers, Algeria, killing at least 12 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7443053.stm)
 

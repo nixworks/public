@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/17/one-unamid-peacekeeper-is-killed-and-three-are-wounded-during-an-ambush-in-hashaba-sudan.html)  [JSON](/news/2012/10/17/one-unamid-peacekeeper-is-killed-and-three-are-wounded-during-an-ambush-in-hashaba-sudan.json)  [XML](/news/2012/10/17/one-unamid-peacekeeper-is-killed-and-three-are-wounded-during-an-ambush-in-hashaba-sudan.xml)  
+
 ### [2012-10-17](/news/2012/10/17/index.md)
 
+##### UNAMID
 # One UNAMID peacekeeper is killed and three are wounded during an ambush in Hashaba, Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5ji2PQhxDJDIAeO4tgYNxUY3JFMOQ?docId=CNG.c87c030182d8aa078508c64fcad776ba.1a1)
 

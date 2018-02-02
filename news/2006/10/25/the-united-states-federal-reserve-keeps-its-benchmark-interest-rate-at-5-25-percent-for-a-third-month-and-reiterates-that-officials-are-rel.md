@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/25/the-united-states-federal-reserve-keeps-its-benchmark-interest-rate-at-5-25-percent-for-a-third-month-and-reiterates-that-officials-are-rel.html)  [JSON](/news/2006/10/25/the-united-states-federal-reserve-keeps-its-benchmark-interest-rate-at-5-25-percent-for-a-third-month-and-reiterates-that-officials-are-rel.json)  [XML](/news/2006/10/25/the-united-states-federal-reserve-keeps-its-benchmark-interest-rate-at-5-25-percent-for-a-third-month-and-reiterates-that-officials-are-rel.xml)  
+
 ### [2006-10-25](/news/2006/10/25/index.md)
 
+##### United States Federal Reserve
 #  The United States Federal Reserve keeps its benchmark interest rate at 5.25 percent for a third month and reiterates that officials are relying on lower energy prices and slowing growth to reduce inflation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bloomberg](http://quote.bloomberg.com/apps/news?pid=20601087&sid=atyghznUOVX0)
 

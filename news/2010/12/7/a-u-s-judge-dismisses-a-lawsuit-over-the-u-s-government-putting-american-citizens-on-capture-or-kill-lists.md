@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/7/a-u-s-judge-dismisses-a-lawsuit-over-the-u-s-government-putting-american-citizens-on-capture-or-kill-lists.html)  [JSON](/news/2010/12/7/a-u-s-judge-dismisses-a-lawsuit-over-the-u-s-government-putting-american-citizens-on-capture-or-kill-lists.json)  [XML](/news/2010/12/7/a-u-s-judge-dismisses-a-lawsuit-over-the-u-s-government-putting-american-citizens-on-capture-or-kill-lists.xml)  
+
 ### [2010-12-7](/news/2010/12/7/index.md)
 
+##### U.S.
 # A U.S. judge dismisses a lawsuit over the U.S. government putting American citizens on "capture or kill" lists. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-11941292)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/48333000/gif/_48333888_bn-448x252.gif)

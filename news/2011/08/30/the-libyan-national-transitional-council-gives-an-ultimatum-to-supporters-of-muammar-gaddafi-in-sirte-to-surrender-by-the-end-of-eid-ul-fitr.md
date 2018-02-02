@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/30/the-libyan-national-transitional-council-gives-an-ultimatum-to-supporters-of-muammar-gaddafi-in-sirte-to-surrender-by-the-end-of-eid-ul-fitr.html)  [JSON](/news/2011/08/30/the-libyan-national-transitional-council-gives-an-ultimatum-to-supporters-of-muammar-gaddafi-in-sirte-to-surrender-by-the-end-of-eid-ul-fitr.json)  [XML](/news/2011/08/30/the-libyan-national-transitional-council-gives-an-ultimatum-to-supporters-of-muammar-gaddafi-in-sirte-to-surrender-by-the-end-of-eid-ul-fitr.xml)  
+
 ### [2011-08-30](/news/2011/08/30/index.md)
 
+##### Libya
 # The Libyan National Transitional Council gives an ultimatum to supporters of Muammar Gaddafi in Sirte to surrender by the end of Eid ul-Fitr on Saturday. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Scotsman](http://www.scotsman.com/news/Give-up-your-guns-or.6828175.jp)
 

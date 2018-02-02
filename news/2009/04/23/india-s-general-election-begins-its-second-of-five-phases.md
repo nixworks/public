@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/04/23/india-s-general-election-begins-its-second-of-five-phases.html)  [JSON](/news/2009/04/23/india-s-general-election-begins-its-second-of-five-phases.json)  [XML](/news/2009/04/23/india-s-general-election-begins-its-second-of-five-phases.xml)  
+
 ### [2009-04-23](/news/2009/04/23/index.md)
 
+##### India
 #  India's general election begins its second of five phases. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/8013039.stm)
 

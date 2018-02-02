@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/11/11/record-rains-cause-flooding-in-sri-lanka-leaving-36-000-families-in-the-western-provinces-homeless-and-leaving-the-parliament-of-sri-lanka-i.html)  [JSON](/news/2010/11/11/record-rains-cause-flooding-in-sri-lanka-leaving-36-000-families-in-the-western-provinces-homeless-and-leaving-the-parliament-of-sri-lanka-i.json)  [XML](/news/2010/11/11/record-rains-cause-flooding-in-sri-lanka-leaving-36-000-families-in-the-western-provinces-homeless-and-leaving-the-parliament-of-sri-lanka-i.xml)  
+
 ### [2010-11-11](/news/2010/11/11/index.md)
 
+##### flood
 # Record rains cause flooding in Sri Lanka leaving 36,000 families in the western provinces homeless and leaving the Parliament of Sri Lanka in Colombo under four feet of water. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2010/WORLD/asiapcf/11/11/sri.lanka.floods/index.html?eref=edition)
 

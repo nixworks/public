@@ -1,14 +1,23 @@
+
+Formats: [HTML](/news/2015/07/6/an-air-strike-by-the-saudi-led-coalition-on-the-southern-port-city-of-aden-kills-at-least-30-people-it-is-unclear-how-many-of-the-dead-are.html)  [JSON](/news/2015/07/6/an-air-strike-by-the-saudi-led-coalition-on-the-southern-port-city-of-aden-kills-at-least-30-people-it-is-unclear-how-many-of-the-dead-are.json)  [XML](/news/2015/07/6/an-air-strike-by-the-saudi-led-coalition-on-the-southern-port-city-of-aden-kills-at-least-30-people-it-is-unclear-how-many-of-the-dead-are.xml)  
+
 ### [2015-07-6](/news/2015/07/6/index.md)
 
+##### Yemeni Civil War (2015)
 # An air-strike by the Saudi-led coalition on the southern port city of Aden kills at least 30 people. It is unclear how many of the dead are civilians or Houthi rebels. 
 
 Saudi-led coalition bombers strike a suburb of the southern Yemen port city of Aden, killing at least 30 people, witnesses there say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-middle-east-33408473)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/12CA8/production/_84086967_84086962.jpg)
+
+### Changes:
+
+1. [Yemeni Civil War (2015): An air-strike by the Saudi-led coalition on the southern port city of Aden kills at least 30 people. It is unclear how many of the dead are civilians or Houthi rebels. ](/news/2015/07/6/yemeni-civil-war-2015-an-air-strike-by-the-saudi-led-coalition-on-the-southern-port-city-of-aden-kills-at-least-30-people-it-is-unclear.md) _2017-08-27 03:42:39 (First version)_
+1. [An air-strike by the Saudi-led coalition on the southern port city of Aden kills at least 30 people. It is unclear how many of the dead are civilians or Houthi rebels. ](/news/2015/07/6/an-air-strike-by-the-saudi-led-coalition-on-the-southern-port-city-of-aden-kills-at-least-30-people-it-is-unclear-how-many-of-the-dead-are.md) _(Current version)_
 
 ### Related:
 
@@ -17,8 +26,3 @@ Saudi-led coalition bombers strike a suburb of the southern Yemen port city of A
 3. [Houthi forces regain several positions across southern Yemen after launching a fresh offensive against loyalist and coalition forces. In Lahij province, which borders Aden, Houthi forces are now positioned on a hill overlooking the strategic Al Anad Air Base, which houses Sudanese forces. The Houthis also retook the Damt District in the Dhale province after besieging it for hours, at least 16 people were killed in the clashes. ](/news/2015/11/8/houthi-forces-regain-several-positions-across-southern-yemen-after-launching-a-fresh-offensive-against-loyalist-and-coalition-forces-in-lah.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen, Yemeni Civil War (2015)_
 4. [Government forces and their allies, including troops from a Saudi Arabian-led coalition, capture the town of Sirwah, the last outpost of Houthi militants in the key Marib province. ](/news/2015/10/8/government-forces-and-their-allies-including-troops-from-a-saudi-arabian-led-coalition-capture-the-town-of-sirwah-the-last-outpost-of-hou.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen, Yemeni Civil War (2015)_
 5. [A hotel where Vice President of Yemen and Prime Minister Khaled Bahah was staying in Aden which was also being used as a de facto military base by Arab coalition forces is hit by multiple explosions killing at least 15 coalition soldiers. Although the Houthis were first suspected and accused of being behind the attack, the Islamic State of Iraq and the Levant has since claimed responsibility, marking the first attack on Arab coalition forces in Yemen by the extremist group. ](/news/2015/10/6/a-hotel-where-vice-president-of-yemen-and-prime-minister-khaled-bahah-was-staying-in-aden-which-was-also-being-used-as-a-de-facto-military-b.md) _Context: Houthi, Saudi Arabian-led intervention in Yemen, Yemeni Civil War (2015)_
-
-### Changes:
-
-1. [Yemeni Civil War (2015): An air-strike by the Saudi-led coalition on the southern port city of Aden kills at least 30 people. It is unclear how many of the dead are civilians or Houthi rebels. ](/news/2015/07/6/yemeni-civil-war-2015-an-air-strike-by-the-saudi-led-coalition-on-the-southern-port-city-of-aden-kills-at-least-30-people-it-is-unclear.md) _2017-08-27 03:42:39 (First version)_
-1. [An air-strike by the Saudi-led coalition on the southern port city of Aden kills at least 30 people. It is unclear how many of the dead are civilians or Houthi rebels. ](/news/2015/07/6/an-air-strike-by-the-saudi-led-coalition-on-the-southern-port-city-of-aden-kills-at-least-30-people-it-is-unclear-how-many-of-the-dead-are.md) _(Current version)_

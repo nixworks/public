@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/18/increasing-numbers-of-women-from-saudi-arabia-are-running-away-from-home-studies-by-the-international-muslim-organization-for-women-and-fam.html)  [JSON](/news/2010/04/18/increasing-numbers-of-women-from-saudi-arabia-are-running-away-from-home-studies-by-the-international-muslim-organization-for-women-and-fam.json)  [XML](/news/2010/04/18/increasing-numbers-of-women-from-saudi-arabia-are-running-away-from-home-studies-by-the-international-muslim-organization-for-women-and-fam.xml)  
+
 ### [2010-04-18](/news/2010/04/18/index.md)
 
+##### Saudi Arabia
 # Increasing numbers of women from Saudi Arabia are running away from home, studies by the International Muslim Organization for Women and Family (IMOWF) in Jeddah say. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Arab News](http://arabnews.com/saudiarabia/article44675.ece)
 

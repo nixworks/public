@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/27/dozens-of-dead-bodies-are-found-at-the-abu-salim-hospital-in-tripoli-which-had-been-abandoned-by-medical-staff-earlier-in-the-week-when-it-c.html)  [JSON](/news/2011/08/27/dozens-of-dead-bodies-are-found-at-the-abu-salim-hospital-in-tripoli-which-had-been-abandoned-by-medical-staff-earlier-in-the-week-when-it-c.json)  [XML](/news/2011/08/27/dozens-of-dead-bodies-are-found-at-the-abu-salim-hospital-in-tripoli-which-had-been-abandoned-by-medical-staff-earlier-in-the-week-when-it-c.xml)  
+
 ### [2011-08-27](/news/2011/08/27/index.md)
 
+##### Abu Salim
 # Dozens of dead bodies are found at the Abu Salim Hospital in Tripoli which had been abandoned by medical staff earlier in the week when it came under heavy gunfire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NPR](http://www.npr.org/2011/08/26/139977272/grim-situation-in-abu-salim-hospital-in-libya)
 1. [Cover Image](https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400)

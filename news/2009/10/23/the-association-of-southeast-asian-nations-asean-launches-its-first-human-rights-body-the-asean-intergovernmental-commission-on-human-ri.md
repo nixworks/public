@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/23/the-association-of-southeast-asian-nations-asean-launches-its-first-human-rights-body-the-asean-intergovernmental-commission-on-human-ri.html)  [JSON](/news/2009/10/23/the-association-of-southeast-asian-nations-asean-launches-its-first-human-rights-body-the-asean-intergovernmental-commission-on-human-ri.json)  [XML](/news/2009/10/23/the-association-of-southeast-asian-nations-asean-launches-its-first-human-rights-body-the-asean-intergovernmental-commission-on-human-ri.xml)  
+
 ### [2009-10-23](/news/2009/10/23/index.md)
 
+##### Association of Southeast Asian Nations
 #  The Association of Southeast Asian Nations (ASEAN) launches its first human rights body, the ASEAN Intergovernmental Commission on Human Rights (AICHR). 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5jKGSctnevG9LndlMcz4Twj6Kt4jwD9BGN5JO0)
 2. [Thai News Agency](http://enews.mcot.net/view.php?id=12431)

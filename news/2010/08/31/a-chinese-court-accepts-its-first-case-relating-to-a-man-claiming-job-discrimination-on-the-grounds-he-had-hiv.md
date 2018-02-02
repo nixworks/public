@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/31/a-chinese-court-accepts-its-first-case-relating-to-a-man-claiming-job-discrimination-on-the-grounds-he-had-hiv.html)  [JSON](/news/2010/08/31/a-chinese-court-accepts-its-first-case-relating-to-a-man-claiming-job-discrimination-on-the-grounds-he-had-hiv.json)  [XML](/news/2010/08/31/a-chinese-court-accepts-its-first-case-relating-to-a-man-claiming-job-discrimination-on-the-grounds-he-had-hiv.xml)  
+
 ### [2010-08-31](/news/2010/08/31/index.md)
 
+##### China
 # A Chinese court accepts its first case relating to a man claiming job discrimination on the grounds he had HIV. 
 
 A Chinese court for the first time accepts a case from a man alleging employment discrimination because he has HIV, state media says.
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5h9ULGc5JHZhbRO8qWRN94gK8HEEA)
 2. [BBC](http://www.bbc.co.uk/news/world-asia-pacific-11139607)

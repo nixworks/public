@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/06/4/mexican-drug-war-gunmen-kill-11-people-at-a-rehabilitation-clinic-in-the-city-of-torreon-coahuila.html)  [JSON](/news/2012/06/4/mexican-drug-war-gunmen-kill-11-people-at-a-rehabilitation-clinic-in-the-city-of-torreon-coahuila.json)  [XML](/news/2012/06/4/mexican-drug-war-gunmen-kill-11-people-at-a-rehabilitation-clinic-in-the-city-of-torreon-coahuila.xml)  
+
 ### [2012-06-4](/news/2012/06/4/index.md)
 
+##### Mexican Drug War
 # Mexican Drug War: gunmen kill 11 people at a rehabilitation clinic in the city of Torren, Coahuila. 
 
 Armed gunmen burst into a drug rehabilitation clinic in northern Mexico late on Sunday, leaving 11 people dead and at least 8 wounded almost a year to the day after a similar fatal attack nearby.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/06/04/us-mexico-drugs-idUSBRE85307820120604)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20120604&t=2&i=614928231&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8530M2B00)
+1. [Reuters](https://www.reuters.com/article/2012/06/04/us-mexico-drugs-idUSBRE85307820120604)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20120604&t=2&i=614928231&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE8530M2B00)
 
 ### Related:
 

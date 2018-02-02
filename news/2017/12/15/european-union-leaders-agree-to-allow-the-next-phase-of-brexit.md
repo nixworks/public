@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/12/15/european-union-leaders-agree-to-allow-the-next-
 
 ### [2017-12-15](/news/2017/12/15/index.md)
 
+##### Brexit
 # European Union leaders agree to allow the next phase of Brexit. 
 
 

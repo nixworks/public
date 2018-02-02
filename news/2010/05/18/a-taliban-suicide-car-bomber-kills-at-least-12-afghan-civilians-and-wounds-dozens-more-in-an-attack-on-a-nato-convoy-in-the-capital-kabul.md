@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/18/a-taliban-suicide-car-bomber-kills-at-least-12-afghan-civilians-and-wounds-dozens-more-in-an-attack-on-a-nato-convoy-in-the-capital-kabul.html)  [JSON](/news/2010/05/18/a-taliban-suicide-car-bomber-kills-at-least-12-afghan-civilians-and-wounds-dozens-more-in-an-attack-on-a-nato-convoy-in-the-capital-kabul.json)  [XML](/news/2010/05/18/a-taliban-suicide-car-bomber-kills-at-least-12-afghan-civilians-and-wounds-dozens-more-in-an-attack-on-a-nato-convoy-in-the-capital-kabul.xml)  
+
 ### [2010-05-18](/news/2010/05/18/index.md)
 
+##### Taliban
 # A Taliban suicide car bomber kills at least 12 Afghan civilians and wounds dozens more in an attack on a NATO convoy in the capital, Kabul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TVNZ](http://tvnz.co.nz/world-news/suicide-attacker-kills-12-in-kabul-3556880)
 

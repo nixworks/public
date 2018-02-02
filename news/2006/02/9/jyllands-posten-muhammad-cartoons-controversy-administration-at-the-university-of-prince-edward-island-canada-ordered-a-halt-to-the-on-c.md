@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/9/jyllands-posten-muhammad-cartoons-controversy-administration-at-the-university-of-prince-edward-island-canada-ordered-a-halt-to-the-on-c.html)  [JSON](/news/2006/02/9/jyllands-posten-muhammad-cartoons-controversy-administration-at-the-university-of-prince-edward-island-canada-ordered-a-halt-to-the-on-c.json)  [XML](/news/2006/02/9/jyllands-posten-muhammad-cartoons-controversy-administration-at-the-university-of-prince-edward-island-canada-ordered-a-halt-to-the-on-c.xml)  
+
 ### [2006-02-9](/news/2006/02/9/index.md)
 
+##### Jyllands-Posten Muhammad cartoons controversy
 #  Jyllands-Posten Muhammad cartoons controversy: administration at the University of Prince Edward Island, Canada, ordered a halt to the on-campus distribution of the student newspaper Cadre after the cartoons were re-printed in the newspaper. Campus authorities also attempted to seize all 2,000 copies of the edition containing the cartoons. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/pei/story/pei-apology060213.html)
 

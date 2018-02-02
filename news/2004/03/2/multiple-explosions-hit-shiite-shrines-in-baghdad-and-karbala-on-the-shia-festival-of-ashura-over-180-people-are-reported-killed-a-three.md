@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/2/multiple-explosions-hit-shiite-shrines-in-baghdad-and-karbala-on-the-shia-festival-of-ashura-over-180-people-are-reported-killed-a-three.html)  [JSON](/news/2004/03/2/multiple-explosions-hit-shiite-shrines-in-baghdad-and-karbala-on-the-shia-festival-of-ashura-over-180-people-are-reported-killed-a-three.json)  [XML](/news/2004/03/2/multiple-explosions-hit-shiite-shrines-in-baghdad-and-karbala-on-the-shia-festival-of-ashura-over-180-people-are-reported-killed-a-three.xml)  
+
 ### [2004-03-2](/news/2004/03/2/index.md)
 
+##### Baghdad
 #  Multiple explosions hit Shiite shrines in Baghdad and Karbala on the Shia festival of Ashura. Over 180 people are reported killed. A three-day-long period of national mourning is announced. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/middle_east/3524589.stm)
 

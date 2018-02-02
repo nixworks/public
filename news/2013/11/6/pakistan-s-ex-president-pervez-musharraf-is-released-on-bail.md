@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/6/pakistan-s-ex-president-pervez-musharraf-is-released-on-bail.html)  [JSON](/news/2013/11/6/pakistan-s-ex-president-pervez-musharraf-is-released-on-bail.json)  [XML](/news/2013/11/6/pakistan-s-ex-president-pervez-musharraf-is-released-on-bail.xml)  
+
 ### [2013-11-6](/news/2013/11/6/index.md)
 
+##### Pervez Musharraf
 # Pakistan's ex-president Pervez Musharraf is released on bail. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/english/photo/2013-11/07/c_132865674.htm)
 

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/05/25/the-american-family-association-a-christian-group-ends-its-nine-year-boycott-of-the-walt-disney-company-but-continues-to-boycott-kmart-an.html)  [JSON](/news/2005/05/25/the-american-family-association-a-christian-group-ends-its-nine-year-boycott-of-the-walt-disney-company-but-continues-to-boycott-kmart-an.json)  [XML](/news/2005/05/25/the-american-family-association-a-christian-group-ends-its-nine-year-boycott-of-the-walt-disney-company-but-continues-to-boycott-kmart-an.xml)  
+
 ### [2005-05-25](/news/2005/05/25/index.md)
 
+##### American Family Association
 #  The American Family Association, a Christian group, ends its nine-year boycott of the Walt Disney Company but continues to boycott Kmart and Abercrombie & Fitch and the book "One of the Guys" by Robert Clark Young. [http:--www.newsday.com-news-nationworld-nation-orl-asecdisney25052505may25,0,822280.story?coll=ny-leadnationalnews-headlines]
 
 

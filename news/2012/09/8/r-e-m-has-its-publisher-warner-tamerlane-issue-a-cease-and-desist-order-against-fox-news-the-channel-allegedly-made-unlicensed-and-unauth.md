@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/09/8/r-e-m-has-its-publisher-warner-tamerlane-issue-a-cease-and-desist-order-against-fox-news-the-channel-allegedly-made-unlicensed-and-unauth.html)  [JSON](/news/2012/09/8/r-e-m-has-its-publisher-warner-tamerlane-issue-a-cease-and-desist-order-against-fox-news-the-channel-allegedly-made-unlicensed-and-unauth.json)  [XML](/news/2012/09/8/r-e-m-has-its-publisher-warner-tamerlane-issue-a-cease-and-desist-order-against-fox-news-the-channel-allegedly-made-unlicensed-and-unauth.xml)  
+
 ### [2012-09-8](/news/2012/09/8/index.md)
 
+##### R.E.M.
 # R.E.M. has its publisher Warner-Tamerlane issue a cease and desist order against Fox News. The channel allegedly made "unlicensed and unauthorized" use of their song "Losing My Religion" in coverage of the Democratic National Convention. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Rolling Stone](http://www.rollingstone.com/music/news/r-e-m-issue-cease-and-desist-to-fox-news-20120907)
+1. [Rolling Stone](https://www.rollingstone.com/music/news/r-e-m-issue-cease-and-desist-to-fox-news-20120907)
 1. [Cover Image](http://img.wennermedia.com/social/rs-6984-20120907-stipe-624x420-1347037564.jpg)
 
 ### Related:

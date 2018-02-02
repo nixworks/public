@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/3/european-energy-companies-gaz-de-france-and-suez-agree-to-merge-in-what-would-be-a-privatisation-of-the-french-state-owned-gaz-de-france.html)  [JSON](/news/2007/09/3/european-energy-companies-gaz-de-france-and-suez-agree-to-merge-in-what-would-be-a-privatisation-of-the-french-state-owned-gaz-de-france.json)  [XML](/news/2007/09/3/european-energy-companies-gaz-de-france-and-suez-agree-to-merge-in-what-would-be-a-privatisation-of-the-french-state-owned-gaz-de-france.xml)  
+
 ### [2007-09-3](/news/2007/09/3/index.md)
 
+##### Europe
 #  European energy companies Gaz de France and Suez agree to merge in what would be a privatisation of the French state-owned Gaz de France. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/money/main.jhtml?xml=/money/2007/09/03/bcngaz103.xml)
 

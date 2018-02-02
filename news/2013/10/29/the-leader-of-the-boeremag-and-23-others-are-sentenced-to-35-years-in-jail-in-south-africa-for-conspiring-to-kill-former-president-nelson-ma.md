@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/29/the-leader-of-the-boeremag-and-23-others-are-sentenced-to-35-years-in-jail-in-south-africa-for-conspiring-to-kill-former-president-nelson-ma.html)  [JSON](/news/2013/10/29/the-leader-of-the-boeremag-and-23-others-are-sentenced-to-35-years-in-jail-in-south-africa-for-conspiring-to-kill-former-president-nelson-ma.json)  [XML](/news/2013/10/29/the-leader-of-the-boeremag-and-23-others-are-sentenced-to-35-years-in-jail-in-south-africa-for-conspiring-to-kill-former-president-nelson-ma.xml)  
+
 ### [2013-10-29](/news/2013/10/29/index.md)
 
+##### Boeremag
 # The leader of the Boeremag and 23 others are sentenced to 35 years in jail in South Africa for conspiring to kill former president Nelson Mandela. 
 
 The government has welcomed the sentences handed down to the Boeremag members convicted of high treason.
 
 
-### Source:
+### Sources:
 
 1. [News24](http://www.news24.com/SouthAfrica/News/Govt-welcomes-Boeremag-sentencing-20131029)
 1. [Cover Image](http://cdn.24.co.za/files/Cms/General/d/2572/e07e00f44dd549fcbab000efd813a1b9.jpg)

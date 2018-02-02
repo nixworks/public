@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/03/15/hu-jintao-is-elected-president-of-the-people-s-republic-of-china-by-the-national-people-s-congress-by-a-vote-of-2-937-to-4-with-three-abste.html)  [JSON](/news/2003/03/15/hu-jintao-is-elected-president-of-the-people-s-republic-of-china-by-the-national-people-s-congress-by-a-vote-of-2-937-to-4-with-three-abste.json)  [XML](/news/2003/03/15/hu-jintao-is-elected-president-of-the-people-s-republic-of-china-by-the-national-people-s-congress-by-a-vote-of-2-937-to-4-with-three-abste.xml)  
+
 ### [2003-03-15](/news/2003/03/15/index.md)
 
+##### Hu Jintao
 #  Hu Jintao is elected President of the People's Republic of China by the National People's Congress by a vote of 2,937 to 4 with three abstentions. His predecessor, Jiang Zemin, steps down after serving the maximum of two five-year terms.
 
 

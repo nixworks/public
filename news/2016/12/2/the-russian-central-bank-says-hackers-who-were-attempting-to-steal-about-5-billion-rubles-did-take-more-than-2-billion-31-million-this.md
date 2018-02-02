@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/2/the-russian-central-bank-says-hackers-who-were-a
 
 ### [2016-12-2](/news/2016/12/2/index.md)
 
+##### Russian Central Bank
 # The Russian Central Bank says hackers, who were attempting to steal about 5 billion rubles, did take more than 2 billion ($31 million) this year from member bank accounts. 
 
 (This December 2 story corrects to show the 2 billion rubles is combined amount stolen from accounts in central bank and commercial banks, not from central bank alone; clarifies that the figures are total stolen in cyberattacks for the year to date)

@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/05/23/kansas-city-missouri-wrestler-owen-hart-blue-blazer-falls-78-feet-24-m-to-his-death-while-being-lowered-into-a-world-wrestling-federa.html)  [JSON](/news/1999/05/23/kansas-city-missouri-wrestler-owen-hart-blue-blazer-falls-78-feet-24-m-to-his-death-while-being-lowered-into-a-world-wrestling-federa.json)  [XML](/news/1999/05/23/kansas-city-missouri-wrestler-owen-hart-blue-blazer-falls-78-feet-24-m-to-his-death-while-being-lowered-into-a-world-wrestling-federa.xml)  
+
 ### [1999-05-23](/news/1999/05/23/index.md)
 
+##### Kansas City
 #  Kansas City, Missouri, wrestler Owen Hart (Blue Blazer) falls 78 feet (24 m) to his death while being lowered into a World Wrestling Federation ring during WWF Over the Edge.
 
 

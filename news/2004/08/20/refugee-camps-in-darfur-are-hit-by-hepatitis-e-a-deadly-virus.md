@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/20/refugee-camps-in-darfur-are-hit-by-hepatitis-e-a-deadly-virus.html)  [JSON](/news/2004/08/20/refugee-camps-in-darfur-are-hit-by-hepatitis-e-a-deadly-virus.json)  [XML](/news/2004/08/20/refugee-camps-in-darfur-are-hit-by-hepatitis-e-a-deadly-virus.xml)  
+
 ### [2004-08-20](/news/2004/08/20/index.md)
 
+##### Darfur
 #  Refugee camps in Darfur are hit by hepatitis E, a deadly virus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica.com](http://allafrica.com/stories/200408200071.html)
 

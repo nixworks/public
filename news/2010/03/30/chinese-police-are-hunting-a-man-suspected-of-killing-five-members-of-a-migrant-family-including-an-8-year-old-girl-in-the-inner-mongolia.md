@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/30/chinese-police-are-hunting-a-man-suspected-of-killing-five-members-of-a-migrant-family-including-an-8-year-old-girl-in-the-inner-mongolia.html)  [JSON](/news/2010/03/30/chinese-police-are-hunting-a-man-suspected-of-killing-five-members-of-a-migrant-family-including-an-8-year-old-girl-in-the-inner-mongolia.json)  [XML](/news/2010/03/30/chinese-police-are-hunting-a-man-suspected-of-killing-five-members-of-a-migrant-family-including-an-8-year-old-girl-in-the-inner-mongolia.xml)  
+
 ### [2010-03-30](/news/2010/03/30/index.md)
 
+##### China
 # Chinese police are hunting a man suspected of killing five members of a migrant family, including an 8-year-old girl, in the Inner Mongolia Autonomous Region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [People's Daily](http://english.peopledaily.com.cn/90001/90776/90882/6934753.html)
 

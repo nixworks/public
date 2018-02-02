@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/25/portions-of-south-and-southeast-texas-south-of-i-10-had-their-first-white-christmas-ever-as-snow-was-recorded-falling-from-brownsville-to-b.html)  [JSON](/news/2004/12/25/portions-of-south-and-southeast-texas-south-of-i-10-had-their-first-white-christmas-ever-as-snow-was-recorded-falling-from-brownsville-to-b.json)  [XML](/news/2004/12/25/portions-of-south-and-southeast-texas-south-of-i-10-had-their-first-white-christmas-ever-as-snow-was-recorded-falling-from-brownsville-to-b.xml)  
+
 ### [2004-12-25](/news/2004/12/25/index.md)
 
+##### South
 #  Portions of South and Southeast Texas south of I-10 had their first White Christmas ever as snow was recorded falling from Brownsville to Beaumont with as much as 13 in in Brazoria. The snowfall began on Christmas Eve as a deep layer of below freezing (below 32&nbsp;degF-0&nbsp;degC) temperatures settled across the region after the passing of an Arctic cold front and an upper level low pressure system crossed the region and dumped snow in its wake. Very little snow fell north of I-10 because of the lack of moisture further from the coast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [National Weather Service](http://www.srh.noaa.gov/hgx/projects/xmasevesnow04.htm)
 

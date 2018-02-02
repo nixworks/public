@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2007/08/8/a-british-army-helicopter-crashes-near-the-catterick-garrison-army-base-in-yorkshire-causing-at-least-two-deaths.html)  [JSON](/news/2007/08/8/a-british-army-helicopter-crashes-near-the-catterick-garrison-army-base-in-yorkshire-causing-at-least-two-deaths.json)  [XML](/news/2007/08/8/a-british-army-helicopter-crashes-near-the-catterick-garrison-army-base-in-yorkshire-causing-at-least-two-deaths.xml)  
+
 ### [2007-08-8](/news/2007/08/8/index.md)
 
+##### British Army
 #  A British Army helicopter crashes near the Catterick Garrison army base in Yorkshire causing at least two deaths. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via Forbes](http://www.forbes.com/feeds/ap/2007/08/08/ap4001455.html)
+1. [AP via Forbes](https://www.forbes.com/feeds/ap/2007/08/08/ap4001455.html)
 2. [BBC](http://news.bbc.co.uk/2/hi/uk_news/6937953.stm)
 
 ### Related:

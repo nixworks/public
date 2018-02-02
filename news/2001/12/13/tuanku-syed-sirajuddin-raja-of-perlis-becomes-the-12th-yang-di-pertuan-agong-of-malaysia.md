@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2001/12/13/tuanku-syed-sirajuddin-raja-of-perlis-becomes-the-12th-yang-di-pertuan-agong-of-malaysia.html)  [JSON](/news/2001/12/13/tuanku-syed-sirajuddin-raja-of-perlis-becomes-the-12th-yang-di-pertuan-agong-of-malaysia.json)  [XML](/news/2001/12/13/tuanku-syed-sirajuddin-raja-of-perlis-becomes-the-12th-yang-di-pertuan-agong-of-malaysia.xml)  
+
 ### [2001-12-13](/news/2001/12/13/index.md)
 
+##### Tuanku Syed Sirajuddin
 #  Tuanku Syed Sirajuddin, Raja of Perlis becomes the 12th Yang di-Pertuan Agong of Malaysia
 
 

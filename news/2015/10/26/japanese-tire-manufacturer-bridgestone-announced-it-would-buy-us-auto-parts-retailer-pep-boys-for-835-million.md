@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/10/26/japanese-tire-manufacturer-bridgestone-announced-it-would-buy-us-auto-parts-retailer-pep-boys-for-835-million.html)  [JSON](/news/2015/10/26/japanese-tire-manufacturer-bridgestone-announced-it-would-buy-us-auto-parts-retailer-pep-boys-for-835-million.json)  [XML](/news/2015/10/26/japanese-tire-manufacturer-bridgestone-announced-it-would-buy-us-auto-parts-retailer-pep-boys-for-835-million.xml)  
+
 ### [2015-10-26](/news/2015/10/26/index.md)
 
+##### Bridgestone
 # Japanese tire manufacturer Bridgestone announced it would buy US auto parts retailer Pep Boys for $835 million. 
 
 The following bids, mergers, acquisitionsand disposals were reported by 1400 GMT on Monday:
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/10/26/deals-day-idUSL3N12Q3NW20151026)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2015/10/26/deals-day-idUSL3N12Q3NW20151026)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

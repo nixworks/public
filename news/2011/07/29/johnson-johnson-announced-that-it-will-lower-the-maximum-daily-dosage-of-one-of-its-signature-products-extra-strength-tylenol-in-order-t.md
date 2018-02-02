@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/07/29/johnson-johnson-announced-that-it-will-lower-the-maximum-daily-dosage-of-one-of-its-signature-products-extra-strength-tylenol-in-order-t.html)  [JSON](/news/2011/07/29/johnson-johnson-announced-that-it-will-lower-the-maximum-daily-dosage-of-one-of-its-signature-products-extra-strength-tylenol-in-order-t.json)  [XML](/news/2011/07/29/johnson-johnson-announced-that-it-will-lower-the-maximum-daily-dosage-of-one-of-its-signature-products-extra-strength-tylenol-in-order-t.xml)  
+
 ### [2011-07-29](/news/2011/07/29/index.md)
 
+##### Johnson & Johnson
 # Johnson & Johnson announced that it will lower the maximum daily dosage of one of its signature products, Extra Strength Tylenol, in order to reduce the risk of liver damage. 
 
 Johnson &amp; Johnson will lower the maximum daily dose for Extra Strength Tylenol to reduce risk of overdose, McNeil Consumer Healthcare announced on Thursday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2011/07/29/us-tylenol-idUSTRE76S52220110729)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2011/07/29/us-tylenol-idUSTRE76S52220110729)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

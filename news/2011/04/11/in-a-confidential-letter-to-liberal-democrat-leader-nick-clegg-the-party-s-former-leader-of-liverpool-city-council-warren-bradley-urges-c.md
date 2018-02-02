@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/04/11/in-a-confidential-letter-to-liberal-democrat-leader-nick-clegg-the-party-s-former-leader-of-liverpool-city-council-warren-bradley-urges-c.html)  [JSON](/news/2011/04/11/in-a-confidential-letter-to-liberal-democrat-leader-nick-clegg-the-party-s-former-leader-of-liverpool-city-council-warren-bradley-urges-c.json)  [XML](/news/2011/04/11/in-a-confidential-letter-to-liberal-democrat-leader-nick-clegg-the-party-s-former-leader-of-liverpool-city-council-warren-bradley-urges-c.xml)  
+
 ### [2011-04-11](/news/2011/04/11/index.md)
 
+##### Liberal Democrats
 # In a confidential letter to Liberal Democrat leader Nick Clegg, the party's former leader of Liverpool City Council, Warren Bradley, urges Clegg to pull out of the coalition government before the Lib Dems "disappears into the annals of history". 
 
 The Lib Dem former leader of Liverpool City Council urges Nick Clegg to pull out of coalition government or risk destroying the party, in an e-mail seen by the BBC.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-politics-13043023)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

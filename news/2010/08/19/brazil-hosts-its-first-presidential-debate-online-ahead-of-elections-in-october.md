@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/19/brazil-hosts-its-first-presidential-debate-online-ahead-of-elections-in-october.html)  [JSON](/news/2010/08/19/brazil-hosts-its-first-presidential-debate-online-ahead-of-elections-in-october.json)  [XML](/news/2010/08/19/brazil-hosts-its-first-presidential-debate-online-ahead-of-elections-in-october.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### Brazil
 # Brazil hosts its first presidential debate online, ahead of elections in October. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11023564)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

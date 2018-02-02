@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/01/5/the-world-food-programme-suspends-its-operations-in-southern-somalia-due-to-rising-instability-in-the-region.html)  [JSON](/news/2010/01/5/the-world-food-programme-suspends-its-operations-in-southern-somalia-due-to-rising-instability-in-the-region.json)  [XML](/news/2010/01/5/the-world-food-programme-suspends-its-operations-in-southern-somalia-due-to-rising-instability-in-the-region.xml)  
+
 ### [2010-01-5](/news/2010/01/5/index.md)
 
+##### World Food Programme
 # The World Food Programme suspends its operations in southern Somalia due to rising instability in the region. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601116&sid=aVArE8ziT6Hk)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601116&sid=aVArE8ziT6Hk)
 2. [Xinhua](http://news.xinhuanet.com/english/2010-01/05/content_12759809.htm)
 
 ### Related:

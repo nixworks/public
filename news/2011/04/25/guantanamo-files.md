@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2011/04/25/guantanamo-files.html)  [JSON](/news/2011/04/25/guantanamo-files.json)  [XML](/news/2011/04/25/guantanamo-files.xml)  
+
 ### [2011-04-25](/news/2011/04/25/index.md)
 
+##### Guantanamo Files
 # Guantanamo Files: 
 
 Top-secret files detailing the interrogations of more than 700 suspects at the Guantanamo Bay detention camp have been obtained by the whistle-blowing website WikiLeaks.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/americas/2011/04/201142561524783918.html)
-2. [The Globe and Mail](http://www.theglobeandmail.com/news/world/wikileaks-unearths-case-of-al-qaeda-double-agent-who-duped-canadians/article1997237/)
+2. [The Globe and Mail](https://www.theglobeandmail.com/news/world/wikileaks-unearths-case-of-al-qaeda-double-agent-who-duped-canadians/article1997237/)
 3. [The Guardian](http://www.guardian.co.uk/world/2011/apr/25/guantanamo-files-casio-wristwatch-alqaida)
 4. [The Guardian](http://www.guardian.co.uk/world/2011/apr/25/guantanamo-files-china-interrogated-prisoners)
 5. [The Guardian](http://www.guardian.co.uk/world/2011/apr/25/guantanamo-files-framed-author-mannan)

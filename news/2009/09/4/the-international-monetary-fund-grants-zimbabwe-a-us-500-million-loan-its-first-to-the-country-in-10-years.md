@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/4/the-international-monetary-fund-grants-zimbabwe-a-us-500-million-loan-its-first-to-the-country-in-10-years.html)  [JSON](/news/2009/09/4/the-international-monetary-fund-grants-zimbabwe-a-us-500-million-loan-its-first-to-the-country-in-10-years.json)  [XML](/news/2009/09/4/the-international-monetary-fund-grants-zimbabwe-a-us-500-million-loan-its-first-to-the-country-in-10-years.xml)  
+
 ### [2009-09-4](/news/2009/09/4/index.md)
 
+##### International Monetary Fund
 #  The International Monetary Fund grants Zimbabwe a US$ 500 million loan, its first to the country in 10 years. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Business Day](http://www.businessday.co.za/articles/Content.aspx?id=80568)
 2. [The Herald](http://www1.herald.co.zw/inside.aspx?sectid=9574&cat=1)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/25/china-jails-tibetan-environmentalist-karma-samdrup-on-charges-of-stealing-from-tombs.html)  [JSON](/news/2010/06/25/china-jails-tibetan-environmentalist-karma-samdrup-on-charges-of-stealing-from-tombs.json)  [XML](/news/2010/06/25/china-jails-tibetan-environmentalist-karma-samdrup-on-charges-of-stealing-from-tombs.xml)  
+
 ### [2010-06-25](/news/2010/06/25/index.md)
 
+##### China
 # China jails Tibetan environmentalist Karma Samdrup on charges of stealing from tombs. 
 
 A Chinese court jails Tibetan environmentalist Karma Samdrup for 15 years on charges of robbing tombs and dealing in looted relics.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia_pacific/10414092.stm)
 2. [Reuters Africa](http://af.reuters.com/article/oddlyEnoughNews/idAFTRE65O2M720100625?sp=true)

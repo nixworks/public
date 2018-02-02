@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/23/the-united-nations-describes-the-humanitarian-situation-caused-by-the-2010-pakistan-floods-as-critical.html)  [JSON](/news/2010/08/23/the-united-nations-describes-the-humanitarian-situation-caused-by-the-2010-pakistan-floods-as-critical.json)  [XML](/news/2010/08/23/the-united-nations-describes-the-humanitarian-situation-caused-by-the-2010-pakistan-floods-as-critical.xml)  
+
 ### [2010-08-23](/news/2010/08/23/index.md)
 
+##### United Nations
 # The United Nations describes the humanitarian situation caused by the 2010 Pakistan floods as critical. 
 
 Officials from Pakistan hold talks with the International Monetary Fund to discuss its $11bn loan package in the wake of the devastating floods.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-south-asia-11060119)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

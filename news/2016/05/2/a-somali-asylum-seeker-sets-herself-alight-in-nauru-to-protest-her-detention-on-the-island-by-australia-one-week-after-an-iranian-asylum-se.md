@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/05/2/a-somali-asylum-seeker-sets-herself-alight-in-na
 
 ### [2016-05-2](/news/2016/05/2/index.md)
 
+##### Somalia
 # A Somali asylum seeker sets herself alight in Nauru to protest her detention on the island by Australia, one week after an Iranian asylum seeker did the same thing. 
 
 A Somali woman seeking asylum in Australia has set herself on fire in protest at her detention at a centre on the island of Nauru.

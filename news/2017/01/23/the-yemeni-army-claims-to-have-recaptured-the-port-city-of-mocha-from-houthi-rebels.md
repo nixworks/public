@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/23/the-yemeni-army-claims-to-have-recaptured-the-p
 
 ### [2017-01-23](/news/2017/01/23/index.md)
 
+##### Yemeni Civil War
 # The Yemeni Army claims to have recaptured the port city of Mocha from Houthi rebels. 
 
 Army forces enter southwestern port city of Mokha, as dozens of families flee ongoing clashes and bombardments.

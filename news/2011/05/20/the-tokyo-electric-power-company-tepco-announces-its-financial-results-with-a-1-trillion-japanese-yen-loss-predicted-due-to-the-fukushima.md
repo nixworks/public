@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2011/05/20/the-tokyo-electric-power-company-tepco-announces-its-financial-results-with-a-1-trillion-japanese-yen-loss-predicted-due-to-the-fukushima.html)  [JSON](/news/2011/05/20/the-tokyo-electric-power-company-tepco-announces-its-financial-results-with-a-1-trillion-japanese-yen-loss-predicted-due-to-the-fukushima.json)  [XML](/news/2011/05/20/the-tokyo-electric-power-company-tepco-announces-its-financial-results-with-a-1-trillion-japanese-yen-loss-predicted-due-to-the-fukushima.xml)  
+
 ### [2011-05-20](/news/2011/05/20/index.md)
 
+##### Tokyo Electric Power Company
 # The Tokyo Electric Power Company (TEPCO) announces its financial results, with a 1 trillion Japanese yen loss predicted due to the Fukushima I nuclear accidents and the resignation of Masataka Shimizu as president of the utility following Japan's highest ever annual loss. 
 
 Tokyo Electric Power Co is likely to book about a 1 trillion yen ($12.3 billion) netloss for its fiscal year that ended in March due to losses fromthe accident at its Fukushima Daiichi nuclear plant, Japanesemedia reported on Friday.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo News](http://news.yahoo.com/s/ap/20110520/ap_on_bi_ge/as_japan_earthquake_tepco)
-2. [Reuters](http://www.reuters.com/article/2011/05/19/tepco-idUSTKV00646420110519)
-2. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [AP via Yahoo News](https://news.yahoo.com/s/ap/20110520/ap_on_bi_ge/as_japan_earthquake_tepco)
+2. [Reuters](https://www.reuters.com/article/2011/05/19/tepco-idUSTKV00646420110519)
+2. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

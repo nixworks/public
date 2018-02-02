@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/17/american-businessman-jacob-ostreicher-escapes-bolivia-two-years-after-being-imprisoned-without-charge.html)  [JSON](/news/2013/12/17/american-businessman-jacob-ostreicher-escapes-bolivia-two-years-after-being-imprisoned-without-charge.json)  [XML](/news/2013/12/17/american-businessman-jacob-ostreicher-escapes-bolivia-two-years-after-being-imprisoned-without-charge.xml)  
+
 ### [2013-12-17](/news/2013/12/17/index.md)
 
+##### Jacob Ostreicher
 # American businessman Jacob Ostreicher escapes Bolivia two years after being imprisoned without charge. 
 
 An American businessman detained in Bolivia without charge for more than two years has escaped back to the US, officials in both countries say.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-25419829)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/71799000/jpg/_71799854_ostreicher.jpg)

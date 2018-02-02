@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/25/kenyan-president-daniel-arap-moi-dissolved-the-country-s-parliament-officially-starting-the-campaign-for-one-of-the-african-great-lakes-co.html)  [JSON](/news/2002/10/25/kenyan-president-daniel-arap-moi-dissolved-the-country-s-parliament-officially-starting-the-campaign-for-one-of-the-african-great-lakes-co.json)  [XML](/news/2002/10/25/kenyan-president-daniel-arap-moi-dissolved-the-country-s-parliament-officially-starting-the-campaign-for-one-of-the-african-great-lakes-co.xml)  
+
 ### [2002-10-25](/news/2002/10/25/index.md)
 
+##### Kenya
 #  Kenyan President Daniel arap Moi dissolved the country's Parliament, officially starting the campaign for one of the African Great Lakes country's most competitive general elections and closing his tenure as one of Africa's longest ruling leaders. 
 
 
@@ -10,5 +14,5 @@
 1. [Kenya awards compensation in a landmark ruling to civilians tortured by police during Daniel arap Moi's time in power in the 1980s. ](/news/2010/07/21/kenya-awards-compensation-in-a-landmark-ruling-to-civilians-tortured-by-police-during-daniel-arap-moi-s-time-in-power-in-the-1980s.md) _Context: Daniel arap Moi, Kenya_
 2. [ Ex-president of Kenya and chairman of KANU party, Daniel arap Moi, is due to step down. His successor will be Uhuru Kenyatta, son of Jomo Kenyatta. ](/news/2005/02/1/ex-president-of-kenya-and-chairman-of-kanu-party-daniel-arap-moi-is-due-to-step-down-his-successor-will-be-uhuru-kenyatta-son-of-jomo-k.md) _Context: Daniel arap Moi, Kenya_
 3. [The Kenyan electoral commission confirms that the opposition National Rainbow Coalition (NARC) has won landslide victories over the ruling KANU party in Friday's elections, ending 40 years of single party rule and 24 years of rule by Daniel arap Moi. The NARC's presidential candidate, Mwai Kibaki, led by more than 30 percentage points over the KANU's official candidate.](/news/2002/12/29/the-kenyan-electoral-commission-confirms-that-the-opposition-national-rainbow-coalition-narc-has-won-landslide-victories-over-the-ruling-k.md) _Context: Daniel arap Moi, Kenya_
-4. [In an unprecedented move, Kenya's presidential aspirant, Raila Odinga, pulls out of a repeat presidential election just 15 days before the election. This action comes after the supreme court nullified the elections run on August 8 as being unconstitutional. ](/news/2017/10/10/in-an-unprecedented-move-kenya-s-presidential-aspirant-raila-odinga-pulls-out-of-a-repeat-presidential-election-just-15-days-before-the-e.md) _Context: Kenya_
-5. [Seven schoolgirls are killed and ten hospitalised after a fire at the Moi Girls School in Nairobi, Kenya. ](/news/2017/09/2/seven-schoolgirls-are-killed-and-ten-hospitalised-after-a-fire-at-the-moi-girls-school-in-nairobi-kenya.md) _Context: Kenya_
+4. [A truck collision in western Kenya kills at least 36 people and injures 18. [https:--www.standardmedia.co.ke-article-2001264584-at-least-30-dead-18-hurt-in-migaa-bus-truck-collision "(The Standard)"]](/news/2017/12/31/a-truck-collision-in-western-kenya-kills-at-least-36-people-and-injures-18-https-www-standardmedia-co-ke-article-2001264584-at-least-30.md) _Context: Kenya_
+5. [Voters in Kenya go to the polls following the annulment of the results in the Kenyan general election. The President of Kenya Uhuru Kenyatta wins with a 98% majority following an opposition boycott. ](/news/2017/10/26/voters-in-kenya-go-to-the-polls-following-the-annulment-of-the-results-in-the-kenyan-general-election-the-president-of-kenya-uhuru-kenyatta.md) _Context: Kenya_

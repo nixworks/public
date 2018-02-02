@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/01/13/executives-of-the-troubled-u-s-book-retailer-borders-meet-with-publishers-to-appeal-for-financing.html)  [JSON](/news/2011/01/13/executives-of-the-troubled-u-s-book-retailer-borders-meet-with-publishers-to-appeal-for-financing.json)  [XML](/news/2011/01/13/executives-of-the-troubled-u-s-book-retailer-borders-meet-with-publishers-to-appeal-for-financing.xml)  
+
 ### [2011-01-13](/news/2011/01/13/index.md)
 
+##### Borders Group
 # Executives of the troubled U.S. book retailer Borders meet with publishers to appeal for financing. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [TheStreet.com](http://www.thestreet.com/story/10973470/1/borders-stock-surges-on-potential-financing.html?cm_ven=GOOGLEN)
 

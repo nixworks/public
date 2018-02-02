@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2010/12/20/the-european-central-bank-worries-about-its-ability-to-provide-further-financial-assistance-to-eurozone-members-due-to-flawed-legislation.html)  [JSON](/news/2010/12/20/the-european-central-bank-worries-about-its-ability-to-provide-further-financial-assistance-to-eurozone-members-due-to-flawed-legislation.json)  [XML](/news/2010/12/20/the-european-central-bank-worries-about-its-ability-to-provide-further-financial-assistance-to-eurozone-members-due-to-flawed-legislation.xml)  
+
 ### [2010-12-20](/news/2010/12/20/index.md)
 
+##### European Central Bank
 # The European Central Bank worries about its ability to provide further financial assistance to eurozone members due to flawed legislation. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-12036433)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)
 
 ### Related:
 
-1. [A Reuters poll of economic forecasters finds that they are more worried about deflation across the Eurozone than is the ECB. ](/news/2014/02/13/a-reuters-poll-of-economic-forecasters-finds-that-they-are-more-worried-about-deflation-across-the-eurozone-than-is-the-ecb.md) _Context: European Central Bank, Eurozone_
-2. [Eurozone interest rates are raised to 1.25 per cent from the record low of 1 per cent by the European Central Bank (ECB) amid concerns this could cause problems for countries such as Portugal and the Republic of Ireland. ](/news/2011/04/7/eurozone-interest-rates-are-raised-to-1-25-per-cent-from-the-record-low-of-1-per-cent-by-the-european-central-bank-ecb-amid-concerns-this.md) _Context: European Central Bank, Eurozone_
-3. [ The Central Bank reduces the Eurozone's interest rate to 1% and implements EUR60 billion of quantitative easing. ](/news/2009/05/7/the-central-bank-reduces-the-eurozone-s-interest-rate-to-1-and-implements-a-60-billion-of-quantitative-easing.md) _Context: European Central Bank, Eurozone_
-4. [ The European Central Bank increases interest rates in the Eurozone to 4.25 per cent to tackle inflation. ](/news/2008/07/3/the-european-central-bank-increases-interest-rates-in-the-eurozone-to-4-25-per-cent-to-tackle-inflation.md) _Context: European Central Bank, Eurozone_
-5. [ The European Central Bank raises Euro base interest rates by 0.25% to 2.5%. The move affects the 12 members of the Eurozone. ](/news/2006/03/2/the-european-central-bank-raises-euro-base-interest-rates-by-0-25-to-2-5-the-move-affects-the-12-members-of-the-eurozone.md) _Context: European Central Bank, Eurozone_
+1. [The Bank of Italy says in a statement that the country's treasury will have to put up around 6.6 billion euros to rescue Monte dei Paschi given the European Central Bank's estimate of Monte dei Paschi's capital shortfall. ](/news/2016/12/29/the-bank-of-italy-says-in-a-statement-that-the-country-s-treasury-will-have-to-put-up-around-6-6-billion-euros-to-rescue-monte-dei-paschi-gi.md) _Context: European Central Bank_
+2. [The European Central Bank reinstates the waiver that enables Greek banks to use the country's bonds as collateral for regular loans, for the first time in more than a year. ](/news/2016/06/22/the-european-central-bank-reinstates-the-waiver-that-enables-greek-banks-to-use-the-country-s-bonds-as-collateral-for-regular-loans-for-the.md) _Context: European Central Bank_
+3. [A member of the board of the Bundesbank in Germany says that the European Central Bank ought to crack down on the political practice, in EU's member states, by which banks that are no longer viable are nonetheless kept in business, as so-called Zombie banks. ](/news/2016/04/18/a-member-of-the-board-of-the-bundesbank-in-germany-says-that-the-european-central-bank-ought-to-crack-down-on-the-political-practice-in-eu.md) _Context: European Central Bank_
+4. [The new 20 euro note, the third in the Europa series, enters into circulation today. The European Central Bank says the banknote has a "refreshed look and more vibrant colours," and includes a new kind of security feature: a "portrait window" near the top of the hologram stripe which becomes transparent when seen against the light. ](/news/2015/11/25/the-new-20-euro-note-the-third-in-the-europa-series-enters-into-circulation-today-the-european-central-bank-says-the-banknote-has-a-are.md) _Context: European Central Bank_
+5. [Mario Draghi, head of the European Central Bank, tells the European parliament in prepared testimony that the outlook for inflation is "weakening." The comment was taken to suggest the ECB will soon take a more stimulative stance on interest rates or money quantity. ](/news/2015/11/12/mario-draghi-head-of-the-european-central-bank-tells-the-european-parliament-in-prepared-testimony-that-the-outlook-for-inflation-is-weak.md) _Context: European Central Bank_

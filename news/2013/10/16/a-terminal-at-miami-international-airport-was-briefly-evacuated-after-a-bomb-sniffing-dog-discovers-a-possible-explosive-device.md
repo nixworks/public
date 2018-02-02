@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/10/16/a-terminal-at-miami-international-airport-was-briefly-evacuated-after-a-bomb-sniffing-dog-discovers-a-possible-explosive-device.html)  [JSON](/news/2013/10/16/a-terminal-at-miami-international-airport-was-briefly-evacuated-after-a-bomb-sniffing-dog-discovers-a-possible-explosive-device.json)  [XML](/news/2013/10/16/a-terminal-at-miami-international-airport-was-briefly-evacuated-after-a-bomb-sniffing-dog-discovers-a-possible-explosive-device.xml)  
+
 ### [2013-10-16](/news/2013/10/16/index.md)
 
+##### Miami International Airport
 # A terminal at Miami International Airport was briefly evacuated after a bomb-sniffing dog discovers "a possible explosive device". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Miami Herald](http://www.miamiherald.com/2013/10/16/3692652/bomb-scare-evacuating-concourse.html)
 1. [Cover Image](http://www.miamiherald.com/static/images/miamiherald/facebook.jpg)

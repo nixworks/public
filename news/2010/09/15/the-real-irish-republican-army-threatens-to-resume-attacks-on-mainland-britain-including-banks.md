@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/15/the-real-irish-republican-army-threatens-to-resume-attacks-on-mainland-britain-including-banks.html)  [JSON](/news/2010/09/15/the-real-irish-republican-army-threatens-to-resume-attacks-on-mainland-britain-including-banks.json)  [XML](/news/2010/09/15/the-real-irish-republican-army-threatens-to-resume-attacks-on-mainland-britain-including-banks.xml)  
+
 ### [2010-09-15](/news/2010/09/15/index.md)
 
+##### Real Irish Republican Army
 # The Real Irish Republican Army threatens to resume attacks on Mainland Britain including banks. 
 
 Dissident Northern Ireland republican group warns it will step up campaign of violence with bankers seen as new target.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/europe/2010/09/2010915112756408739.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/9/15/2010915112624217734_20.jpg)

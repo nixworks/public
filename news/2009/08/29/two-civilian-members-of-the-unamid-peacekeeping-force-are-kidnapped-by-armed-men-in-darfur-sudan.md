@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/29/two-civilian-members-of-the-unamid-peacekeeping-force-are-kidnapped-by-armed-men-in-darfur-sudan.html)  [JSON](/news/2009/08/29/two-civilian-members-of-the-unamid-peacekeeping-force-are-kidnapped-by-armed-men-in-darfur-sudan.json)  [XML](/news/2009/08/29/two-civilian-members-of-the-unamid-peacekeeping-force-are-kidnapped-by-armed-men-in-darfur-sudan.xml)  
+
 ### [2009-08-29](/news/2009/08/29/index.md)
 
+##### peacekeeping mission
 #  Two civilian members of the UNAMID peacekeeping force are kidnapped by armed men in Darfur, Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/africa/8228354.stm)
 

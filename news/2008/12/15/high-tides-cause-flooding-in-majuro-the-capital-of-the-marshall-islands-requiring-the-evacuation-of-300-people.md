@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/15/high-tides-cause-flooding-in-majuro-the-capital-of-the-marshall-islands-requiring-the-evacuation-of-300-people.html)  [JSON](/news/2008/12/15/high-tides-cause-flooding-in-majuro-the-capital-of-the-marshall-islands-requiring-the-evacuation-of-300-people.json)  [XML](/news/2008/12/15/high-tides-cause-flooding-in-majuro-the-capital-of-the-marshall-islands-requiring-the-evacuation-of-300-people.xml)  
+
 ### [2008-12-15](/news/2008/12/15/index.md)
 
+##### Majuro
 #  High tides cause flooding in Majuro, the capital of the Marshall Islands, requiring the evacuation of 300 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=43713)
 

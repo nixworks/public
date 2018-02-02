@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/22/basque-separatist-group-eta-announce-a-permanent-ceasefire-to-their-38-year-campaign-for-independence-from-spain-which-has-cost-over-800-l.html)  [JSON](/news/2006/03/22/basque-separatist-group-eta-announce-a-permanent-ceasefire-to-their-38-year-campaign-for-independence-from-spain-which-has-cost-over-800-l.json)  [XML](/news/2006/03/22/basque-separatist-group-eta-announce-a-permanent-ceasefire-to-their-38-year-campaign-for-independence-from-spain-which-has-cost-over-800-l.xml)  
+
 ### [2006-03-22](/news/2006/03/22/index.md)
 
+##### Basque
 #  Basque separatist group ETA announce a permanent ceasefire to their 38-year campaign for independence from Spain, which has cost over 800 lives. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/europe/4832672.stm)
 

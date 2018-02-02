@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/08/31/roman-abramovich-the-owner-of-chelsea-fc-wins-his-legal-action-against-fellow-russian-oligarch-boris-berezovsky.html)  [JSON](/news/2012/08/31/roman-abramovich-the-owner-of-chelsea-fc-wins-his-legal-action-against-fellow-russian-oligarch-boris-berezovsky.json)  [XML](/news/2012/08/31/roman-abramovich-the-owner-of-chelsea-fc-wins-his-legal-action-against-fellow-russian-oligarch-boris-berezovsky.xml)  
+
 ### [2012-08-31](/news/2012/08/31/index.md)
 
+##### Roman Abramovich
 # Roman Abramovich, the owner of Chelsea FC, wins his legal action against fellow Russian oligarch Boris Berezovsky. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/aug/31/roman-abramovich-court-boris-berezovsky?newsfeed=true)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2006/01/30/china-and-russia-agree-to-refer-iran-to-the-united-nations-security-council-for-its-nuclear-program-in-march-2006.html)  [JSON](/news/2006/01/30/china-and-russia-agree-to-refer-iran-to-the-united-nations-security-council-for-its-nuclear-program-in-march-2006.json)  [XML](/news/2006/01/30/china-and-russia-agree-to-refer-iran-to-the-united-nations-security-council-for-its-nuclear-program-in-march-2006.xml)  
+
 ### [2006-01-30](/news/2006/01/30/index.md)
 
+##### Iran
 #  China and Russia agree to refer Iran to the United Nations Security Council for its nuclear program in March 2006. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://news.yahoo.com/s/ap/20060131/ap_on_re_mi_ea/iran_nuclear)
+1. [Reuters](https://news.yahoo.com/s/ap/20060131/ap_on_re_mi_ea/iran_nuclear)
 
 ### Related:
 

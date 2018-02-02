@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2010/01/11/thousands-of-supporters-of-former-thai-prime-minister-thaksin-shinawatra-gather-outside-the-home-of-a-royal-adviser-accused-of-involvement-i.html)  [JSON](/news/2010/01/11/thousands-of-supporters-of-former-thai-prime-minister-thaksin-shinawatra-gather-outside-the-home-of-a-royal-adviser-accused-of-involvement-i.json)  [XML](/news/2010/01/11/thousands-of-supporters-of-former-thai-prime-minister-thaksin-shinawatra-gather-outside-the-home-of-a-royal-adviser-accused-of-involvement-i.xml)  
+
 ### [2010-01-11](/news/2010/01/11/index.md)
 
+##### red shirt
 # Thousands of supporters of former Thai Prime Minister Thaksin Shinawatra gather outside the home of a royal adviser accused of involvement in the 2006 coup that ousted the Prime Minister. 
 
 Thousands of supporters of former premier Thaksin Shinawatra rallied on Monday outside the rural home of a royal adviser they accuse of involvement in the 2006 coup that toppled the billionaire.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/asia-pacific/2010/01/201011194949662661.html)
-2. [Reuters](http://www.reuters.com/article/idUSTRE60A13F20100111)
+2. [Reuters](https://www.reuters.com/article/idUSTRE60A13F20100111)
 3. [Thai News Agency](http://enews.mcot.net/view.php?id=13652)
-3. [Cover Image](http://s4.reutersmedia.net/resources/r/?m=02&d=20100111&t=2&i=43847961&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-11T091245Z_01_BTRE60A0PLG00_RTROPTP_0_THAILAND-POLITICS)
+3. [Cover Image](https://s4.reutersmedia.net/resources/r/?m=02&d=20100111&t=2&i=43847961&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-01-11T091245Z_01_BTRE60A0PLG00_RTROPTP_0_THAILAND-POLITICS)
 
 ### Related:
 

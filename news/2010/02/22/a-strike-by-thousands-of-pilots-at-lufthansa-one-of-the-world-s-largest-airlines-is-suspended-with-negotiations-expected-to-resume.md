@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/22/a-strike-by-thousands-of-pilots-at-lufthansa-one-of-the-world-s-largest-airlines-is-suspended-with-negotiations-expected-to-resume.html)  [JSON](/news/2010/02/22/a-strike-by-thousands-of-pilots-at-lufthansa-one-of-the-world-s-largest-airlines-is-suspended-with-negotiations-expected-to-resume.json)  [XML](/news/2010/02/22/a-strike-by-thousands-of-pilots-at-lufthansa-one-of-the-world-s-largest-airlines-is-suspended-with-negotiations-expected-to-resume.xml)  
+
 ### [2010-02-22](/news/2010/02/22/index.md)
 
+##### Lufthansa
 # A strike by thousands of pilots at Lufthansa, one of the world's largest airlines, is suspended with negotiations expected to resume. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/business/8529352.stm)
 

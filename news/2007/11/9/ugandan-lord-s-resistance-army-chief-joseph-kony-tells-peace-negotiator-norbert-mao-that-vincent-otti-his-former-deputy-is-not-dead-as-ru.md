@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/9/ugandan-lord-s-resistance-army-chief-joseph-kony-tells-peace-negotiator-norbert-mao-that-vincent-otti-his-former-deputy-is-not-dead-as-ru.html)  [JSON](/news/2007/11/9/ugandan-lord-s-resistance-army-chief-joseph-kony-tells-peace-negotiator-norbert-mao-that-vincent-otti-his-former-deputy-is-not-dead-as-ru.json)  [XML](/news/2007/11/9/ugandan-lord-s-resistance-army-chief-joseph-kony-tells-peace-negotiator-norbert-mao-that-vincent-otti-his-former-deputy-is-not-dead-as-ru.xml)  
+
 ### [2007-11-9](/news/2007/11/9/index.md)
 
+##### Uganda
 #  Ugandan Lord's Resistance Army chief Joseph Kony tells peace negotiator Norbert Mao that Vincent Otti, his former deputy, is not dead as rumored, but is under house arrest for espionage. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7086480.stm)
 

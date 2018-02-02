@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/09/6/four-people-died-and-27-were-wounded-following-an-explosion-in-gaza-city-at-the-home-of-nidal-farhat-a-senior-hamas-member.html)  [JSON](/news/2005/09/6/four-people-died-and-27-were-wounded-following-an-explosion-in-gaza-city-at-the-home-of-nidal-farhat-a-senior-hamas-member.json)  [XML](/news/2005/09/6/four-people-died-and-27-were-wounded-following-an-explosion-in-gaza-city-at-the-home-of-nidal-farhat-a-senior-hamas-member.xml)  
+
 ### [2005-09-6](/news/2005/09/6/index.md)
 
+##### Gaza
 #  Four people died and 27 were wounded following an explosion in Gaza City at the home of Nidal Farhat, a senior Hamas member.
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz & AP](http://www.haaretz.com/hasen/spages/621342.html)
 

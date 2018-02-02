@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/12/8/research-linking-the-spread-of-the-aids-virus-with-malarial-infections-in-africa-is-published-in-science.html)  [JSON](/news/2006/12/8/research-linking-the-spread-of-the-aids-virus-with-malarial-infections-in-africa-is-published-in-science.json)  [XML](/news/2006/12/8/research-linking-the-spread-of-the-aids-virus-with-malarial-infections-in-africa-is-published-in-science.xml)  
+
 ### [2006-12-8](/news/2006/12/8/index.md)
 
+##### AIDS
 #  Research linking the spread of the AIDS virus with malarial infections in Africa is published in "Science". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/6220072.stm)
 

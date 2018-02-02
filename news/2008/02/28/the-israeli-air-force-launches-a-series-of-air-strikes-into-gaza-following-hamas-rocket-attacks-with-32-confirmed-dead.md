@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/28/the-israeli-air-force-launches-a-series-of-air-strikes-into-gaza-following-hamas-rocket-attacks-with-32-confirmed-dead.html)  [JSON](/news/2008/02/28/the-israeli-air-force-launches-a-series-of-air-strikes-into-gaza-following-hamas-rocket-attacks-with-32-confirmed-dead.json)  [XML](/news/2008/02/28/the-israeli-air-force-launches-a-series-of-air-strikes-into-gaza-following-hamas-rocket-attacks-with-32-confirmed-dead.xml)  
+
 ### [2008-02-28](/news/2008/02/28/index.md)
 
+##### Israeli Air Force
 #  The Israeli Air Force launches a series of air strikes into Gaza following Hamas rocket attacks, with 32 confirmed dead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/middle_east/7270300.stm)
 

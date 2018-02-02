@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/19/the-u-s-coast-guard-begins-investigating-a-reported-oil-spill-in-the-gulf-of-mexico.html)  [JSON](/news/2011/03/19/the-u-s-coast-guard-begins-investigating-a-reported-oil-spill-in-the-gulf-of-mexico.json)  [XML](/news/2011/03/19/the-u-s-coast-guard-begins-investigating-a-reported-oil-spill-in-the-gulf-of-mexico.xml)  
+
 ### [2011-03-19](/news/2011/03/19/index.md)
 
+##### U.S. Coast Guard
 # The U.S. Coast Guard begins investigating a reported oil spill in the Gulf of Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704021504576211440860187916.html?mod=googlenews_wsj)
 

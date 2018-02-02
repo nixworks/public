@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/06/16/a-warrant-is-issued-for-the-arrest-of-peter-o-neill-prime-minister-of-papua-new-guinea-in-relation-to-a-fraud-case-related-to-alleged-paym.html)  [JSON](/news/2014/06/16/a-warrant-is-issued-for-the-arrest-of-peter-o-neill-prime-minister-of-papua-new-guinea-in-relation-to-a-fraud-case-related-to-alleged-paym.json)  [XML](/news/2014/06/16/a-warrant-is-issued-for-the-arrest-of-peter-o-neill-prime-minister-of-papua-new-guinea-in-relation-to-a-fraud-case-related-to-alleged-paym.xml)  
+
 ### [2014-06-16](/news/2014/06/16/index.md)
 
+##### warrant
 # A warrant is issued for the arrest of Peter O'Neill, Prime Minister of Papua New Guinea, in relation to a fraud case related to alleged payment of millions of dollars in illegal payments to a law firm. The Supreme Court of Papua New Guinea later stays the warrant. 
 
 PNG&#039;s anti-corruption body issues an arrest warrant for Prime Minister Peter O&#039;Neill in relation to a fraud case.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2014-06-16/arrest-warrant-for-papua-new-guinea-prime-minister2c-peter-/5526748)
 2. [The Australian](http://www.theaustralian.com.au/news/world/png-court-blocks-arrest-of-prime-minister-peter-oneill/story-e6frg6so-1226956845720)

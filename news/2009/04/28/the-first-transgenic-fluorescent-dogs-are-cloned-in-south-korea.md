@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2009/04/28/the-first-transgenic-fluorescent-dogs-are-cloned-in-south-korea.html)  [JSON](/news/2009/04/28/the-first-transgenic-fluorescent-dogs-are-cloned-in-south-korea.json)  [XML](/news/2009/04/28/the-first-transgenic-fluorescent-dogs-are-cloned-in-south-korea.xml)  
+
 ### [2009-04-28](/news/2009/04/28/index.md)
 
+##### Genetically modified organism
 #  The first transgenic, fluorescent dogs are cloned in South Korea. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5hCXfMGiIv1DFnF2FK00QZHfC7yfgD97RH4Q80)
 
 ### Related:
 
-1. [ South Korean cloning scientist Hwang Woo-Suk is convicted of fraud over his stem cell research. ](/news/2009/10/26/south-korean-cloning-scientist-hwang-woo-suk-is-convicted-of-fraud-over-his-stem-cell-research.md) _Context: South Korea, cloning_
-2. [ Cloning scientist Hwang Woo-Suk is indicted for fraud, embezzlement and violation of bioethics law in a scandal in South Korea over his faked stem cell research. ](/news/2006/05/12/cloning-scientist-hwang-woo-suk-is-indicted-for-fraud-embezzlement-and-violation-of-bioethics-law-in-a-scandal-in-south-korea-over-his-fak.md) _Context: South Korea, cloning_
-3. [ Scientists in Seoul National University, South Korea, have cloned a dog named Snuppy ](/news/2005/08/4/scientists-in-seoul-national-university-south-korea-have-cloned-a-dog-named-snuppy.md) _Context: South Korea, cloning_
-4. [ British scientists at University of Newcastle announce that they have cloned human embryos for stem cells. Also, a team of South Korean scientists at Seoul National University state they have cloned the first embryonic cells customized to individual patients. ](/news/2005/05/19/british-scientists-at-university-of-newcastle-announce-that-they-have-cloned-human-embryos-for-stem-cells-also-a-team-of-south-korean-sci.md) _Context: South Korea, cloning_
-5. [ South Korean scientists announce the world's first successfully cloned human embryo.](/news/2004/02/12/south-korean-scientists-announce-the-world-s-first-successfully-cloned-human-embryo.md) _Context: South Korea, cloning_
+1. [ Cloning scientist Hwang Woo-Suk is indicted for fraud, embezzlement and violation of bioethics law in a scandal in South Korea over his faked stem cell research. ](/news/2006/05/12/cloning-scientist-hwang-woo-suk-is-indicted-for-fraud-embezzlement-and-violation-of-bioethics-law-in-a-scandal-in-south-korea-over-his-fak.md) _Context: South Korea, cloned_
+2. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: South Korea_
+3. [A fire breaks out in a hospital in Miryang, South Korea, killing at least 37 people and injuring over 130 others. ](/news/2018/01/26/a-fire-breaks-out-in-a-hospital-in-miryang-south-korea-killing-at-least-37-people-and-injuring-over-130-others.md) _Context: South Korea_
+4. [The South Korean Ministry of Unification announces that both North Korea and South Korea will march together under the Korean Unification Flag during the opening ceremony of the 2018 Winter Olympics. ](/news/2018/01/17/the-south-korean-ministry-of-unification-announces-that-both-north-korea-and-south-korea-will-march-together-under-the-korean-unification-fl.md) _Context: South Korea_
+5. [The South Korean Ministry of Justice announces that it is a preparing a bill to ban cryptocurrency trading through exchanges. ](/news/2018/01/11/the-south-korean-ministry-of-justice-announces-that-it-is-a-preparing-a-bill-to-ban-cryptocurrency-trading-through-exchanges.md) _Context: South Korea_

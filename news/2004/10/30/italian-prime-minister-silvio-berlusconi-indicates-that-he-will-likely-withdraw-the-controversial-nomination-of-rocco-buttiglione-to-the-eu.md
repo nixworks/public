@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/30/italian-prime-minister-silvio-berlusconi-indicates-that-he-will-likely-withdraw-the-controversial-nomination-of-rocco-buttiglione-to-the-eu.html)  [JSON](/news/2004/10/30/italian-prime-minister-silvio-berlusconi-indicates-that-he-will-likely-withdraw-the-controversial-nomination-of-rocco-buttiglione-to-the-eu.json)  [XML](/news/2004/10/30/italian-prime-minister-silvio-berlusconi-indicates-that-he-will-likely-withdraw-the-controversial-nomination-of-rocco-buttiglione-to-the-eu.xml)  
+
 ### [2004-10-30](/news/2004/10/30/index.md)
 
+##### Silvio Berlusconi
 #  Italian Prime Minister Silvio Berlusconi indicates that he will likely withdraw the controversial nomination of Rocco Buttiglione to the European Union Commission which caused deadlock in the European Parliament this week. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3966983.stm)
 

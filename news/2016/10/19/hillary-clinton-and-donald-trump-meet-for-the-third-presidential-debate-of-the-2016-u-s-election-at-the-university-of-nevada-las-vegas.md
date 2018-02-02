@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/10/19/hillary-clinton-and-donald-trump-meet-for-the-t
 
 ### [2016-10-19](/news/2016/10/19/index.md)
 
+##### 2016 U.S. presidential election
 # Hillary Clinton and Donald Trump meet for the third presidential debate of the 2016 U.S. election at the University of Nevada, Las Vegas. 
 
 Hillary Clinton and Donald Trump will square off for the third and final time in Las Vegas tonight for what has been dubbed &quot;Fight Night&quot;.

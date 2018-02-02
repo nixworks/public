@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/12/ethiopian-famine-meles-zenawi-the-prime-minister-of-ethiopia-is-reported-as-saying-that-the-famine-that-threatens-his-country-could-be-wo.html)  [JSON](/news/2002/11/12/ethiopian-famine-meles-zenawi-the-prime-minister-of-ethiopia-is-reported-as-saying-that-the-famine-that-threatens-his-country-could-be-wo.json)  [XML](/news/2002/11/12/ethiopian-famine-meles-zenawi-the-prime-minister-of-ethiopia-is-reported-as-saying-that-the-famine-that-threatens-his-country-could-be-wo.xml)  
+
 ### [2002-11-12](/news/2002/11/12/index.md)
 
+##### Ethiopian famine
 #  Ethiopian famine: Meles Zenawi, the Prime Minister of Ethiopia is reported as saying that the famine that threatens his country could be worse than the 1984 famine. He is reported as saying that "if that was a nightmare, this will be too ghastly to contemplate", and has appealed for famine relief for Ethiopia.
 
 

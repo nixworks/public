@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/26/the-city-of-stockton-california-s-mediation-with-creditors-fails-forcing-the-city-to-declare-bankruptcy-making-it-the-largest-in-the-u-s.html)  [JSON](/news/2012/06/26/the-city-of-stockton-california-s-mediation-with-creditors-fails-forcing-the-city-to-declare-bankruptcy-making-it-the-largest-in-the-u-s.json)  [XML](/news/2012/06/26/the-city-of-stockton-california-s-mediation-with-creditors-fails-forcing-the-city-to-declare-bankruptcy-making-it-the-largest-in-the-u-s.xml)  
+
 ### [2012-06-26](/news/2012/06/26/index.md)
 
+##### Stockton, California
 # The city of Stockton, California's mediation with creditors fails, forcing the city to declare bankruptcy, making it the largest in the U.S. to do so. 
 
 Stockton set to become the largest American city ever to declare bankruptcy.
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/politics/2012/06/26/stockton-set-to-become-largest-us-city-to-declare-bankruptcy/)
 1. [Cover Image](http://a57.foxnews.com/video.foxbusiness.com/thumbnails/040612/640/360/0/0/040612_fb_stockton3.jpg?ve=1)

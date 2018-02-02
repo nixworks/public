@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/12/28/a-vietnamese-court-sentences-a-former-dissident-army-officer-tran-anh-kim-to-five-years-in-prison-on-charges-of-subverting-the-government.html)  [JSON](/news/2009/12/28/a-vietnamese-court-sentences-a-former-dissident-army-officer-tran-anh-kim-to-five-years-in-prison-on-charges-of-subverting-the-government.json)  [XML](/news/2009/12/28/a-vietnamese-court-sentences-a-former-dissident-army-officer-tran-anh-kim-to-five-years-in-prison-on-charges-of-subverting-the-government.xml)  
+
 ### [2009-12-28](/news/2009/12/28/index.md)
 
+##### Vietnam
 #  A Vietnamese court sentences a former dissident army officer, Tran Anh Kim, to five years in prison on charges of subverting the government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5hd-bobbIzZyQFFzKAzXSEFcdr_PQ)
 2. [VOV News.vn](http://english.vovnews.vn/Home/Antistate-instigator-receives-harsh-sentence/200912/111276.vov)

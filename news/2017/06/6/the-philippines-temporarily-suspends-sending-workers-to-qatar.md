@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/6/the-philippines-temporarily-suspends-sending-wor
 
 ### [2017-06-6](/news/2017/06/6/index.md)
 
+##### 2017 Qatar diplomatic crisis
 # The Philippines temporarily suspends sending workers to Qatar. 
 
 The Philippines has partially lifted the ban on overseas Filipino workers (OFWs) going to Qatar

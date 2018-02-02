@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/13/scientists-claim-that-there-is-a-visible-link-between-the-loss-of-biodiversity-and-the-disappearance-of-endangered-languages-and-cultures.html)  [JSON](/news/2012/05/13/scientists-claim-that-there-is-a-visible-link-between-the-loss-of-biodiversity-and-the-disappearance-of-endangered-languages-and-cultures.json)  [XML](/news/2012/05/13/scientists-claim-that-there-is-a-visible-link-between-the-loss-of-biodiversity-and-the-disappearance-of-endangered-languages-and-cultures.xml)  
+
 ### [2012-05-13](/news/2012/05/13/index.md)
 
+##### biodiversity
 # Scientists claim that there is a visible link between the loss of biodiversity and the disappearance of endangered languages and cultures. 
 
 A study by US researchers highlights a link between the loss of biologically rich areas and a decline in linguistic and cultural diversity.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/science-environment-18020636)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60156000/jpg/_60156771_brazil_tribesman_ap.jpg)

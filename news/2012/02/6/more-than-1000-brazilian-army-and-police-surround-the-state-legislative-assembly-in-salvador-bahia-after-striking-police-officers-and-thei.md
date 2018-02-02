@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/6/more-than-1000-brazilian-army-and-police-surround-the-state-legislative-assembly-in-salvador-bahia-after-striking-police-officers-and-thei.html)  [JSON](/news/2012/02/6/more-than-1000-brazilian-army-and-police-surround-the-state-legislative-assembly-in-salvador-bahia-after-striking-police-officers-and-thei.json)  [XML](/news/2012/02/6/more-than-1000-brazilian-army-and-police-surround-the-state-legislative-assembly-in-salvador-bahia-after-striking-police-officers-and-thei.xml)  
+
 ### [2012-02-6](/news/2012/02/6/index.md)
 
+##### Brazilian Army
 # More than 1000 Brazilian Army and police surround the state Legislative Assembly in Salvador, Bahia, after striking police officers and their families occupy it. 
 
 State governor says issue can be resolved through negotiations after state legislature is taken over in Salvador city.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/02/20122623827930552.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/2/6/201226231710552734_20.jpg)

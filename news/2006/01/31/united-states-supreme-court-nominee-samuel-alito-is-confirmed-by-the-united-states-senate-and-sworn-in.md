@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/01/31/united-states-supreme-court-nominee-samuel-alito-is-confirmed-by-the-united-states-senate-and-sworn-in.html)  [JSON](/news/2006/01/31/united-states-supreme-court-nominee-samuel-alito-is-confirmed-by-the-united-states-senate-and-sworn-in.json)  [XML](/news/2006/01/31/united-states-supreme-court-nominee-samuel-alito-is-confirmed-by-the-united-states-senate-and-sworn-in.xml)  
+
 ### [2006-01-31](/news/2006/01/31/index.md)
 
+##### United States Supreme Court
 #  United States Supreme Court nominee Samuel Alito is confirmed by the United States Senate and sworn in.
 
 
@@ -8,7 +12,7 @@
 ### Related:
 
 1. [ Sonia Sotomayor is confirmed by the United States Senate as Associate Justice of the United States Supreme Court, replacing David Souter. ](/news/2009/08/6/sonia-sotomayor-is-confirmed-by-the-united-states-senate-as-associate-justice-of-the-united-states-supreme-court-replacing-david-souter.md) _Context: United States Senate, United States Supreme Court_
-2. [The United States Senate, in a 92-5 vote, confirms Christopher A. Wray as Director of the Federal Bureau of Investigation. ](/news/2017/08/1/the-united-states-senate-in-a-92a5-vote-confirms-christopher-a-wray-as-director-of-the-federal-bureau-of-investigation.md) _Context: United States Senate_
-3. [The American Health Care Act of 2017, an attempt to repeal the Patient Protection and Affordable Care Act, fails passage in the United States Senate. ](/news/2017/07/28/the-american-health-care-act-of-2017-an-attempt-to-repeal-the-patient-protection-and-affordable-care-act-fails-passage-in-the-united-state.md) _Context: United States Senate_
-4. [The United States Senate rejects "repeal only" propositions of the Patient Protection and Affordable Care Act. United States President Donald Trump lashes out at Republican Senator Lisa Murkowski, who voted against the proposal. ](/news/2017/07/26/the-united-states-senate-rejects-repeal-only-propositions-of-the-patient-protection-and-affordable-care-act-united-states-president-donal.md) _Context: United States Senate_
-5. [The U.S. Senate votes to open debate on repealing and possibly replacing Obamacare. ](/news/2017/07/25/the-u-s-senate-votes-to-open-debate-on-repealing-and-possibly-replacing-obamacare.md) _Context: United States Senate_
+2. [Two new Democratic senators&mdash;Doug Jones of Alabama and Tina Smith of Minnesota&mdash;are sworn in, bringing the Republican majority down to 51&ndash;49. ](/news/2018/01/3/two-new-democratic-senators-mdash-doug-jones-of-alabama-and-tina-smith-of-minnesota-mdash-are-sworn-in-bringing-the-republican-majority-dow.md) _Context: United States Senate_
+3. [The United States Senate confirms Jerome Powell as chairman of the Federal Reserve Bank with 84 votes for and 13 against. ](/news/2018/01/23/the-united-states-senate-confirms-jerome-powell-as-chairman-of-the-federal-reserve-bank-with-84-votes-for-and-13-against.md) _Context: United States Senate_
+4. [The United States Senate reaches an agreement to reopen federal agencies through to February 8. A bill is working its way through the legislative process. The first Senate vote was 81-18. ](/news/2018/01/22/the-united-states-senate-reaches-an-agreement-to-reopen-federal-agencies-through-to-february-8-a-bill-is-working-its-way-through-the-legisl.md) _Context: United States Senate_
+5. [ The United States federal government shuts down after the United States Senate fails to pass a budget bill. ](/news/2018/01/20/the-united-states-federal-government-shuts-down-after-the-united-states-senate-fails-to-pass-a-budget-bill.md) _Context: United States Senate_

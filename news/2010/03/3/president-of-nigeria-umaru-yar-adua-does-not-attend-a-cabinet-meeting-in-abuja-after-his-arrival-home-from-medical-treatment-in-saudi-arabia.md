@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/3/president-of-nigeria-umaru-yar-adua-does-not-attend-a-cabinet-meeting-in-abuja-after-his-arrival-home-from-medical-treatment-in-saudi-arabia.html)  [JSON](/news/2010/03/3/president-of-nigeria-umaru-yar-adua-does-not-attend-a-cabinet-meeting-in-abuja-after-his-arrival-home-from-medical-treatment-in-saudi-arabia.json)  [XML](/news/2010/03/3/president-of-nigeria-umaru-yar-adua-does-not-attend-a-cabinet-meeting-in-abuja-after-his-arrival-home-from-medical-treatment-in-saudi-arabia.xml)  
+
 ### [2010-03-3](/news/2010/03/3/index.md)
 
+##### President
 # President of Nigeria Umaru Yar'Adua does not attend a cabinet meeting in Abuja after his arrival home from medical treatment in Saudi Arabia. Acting President Goodluck Jonathan chairs instead. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/africa/2010/03/2010331685559487.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/19/the-oxford-dictionary-of-english-adds-new-words-and-phrases-to-the-language-including-vuvuzela-carbon-capture-and-storage-toxic-debt-and-q.html)  [JSON](/news/2010/08/19/the-oxford-dictionary-of-english-adds-new-words-and-phrases-to-the-language-including-vuvuzela-carbon-capture-and-storage-toxic-debt-and-q.json)  [XML](/news/2010/08/19/the-oxford-dictionary-of-english-adds-new-words-and-phrases-to-the-language-including-vuvuzela-carbon-capture-and-storage-toxic-debt-and-q.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### Oxford Dictionary of English
 # The Oxford Dictionary of English adds new words and phrases to the language including vuvuzela, carbon capture and storage, toxic debt and quantitative easing. 
 
 The brightly coloured plastic vuvuzela has achieved its own form of immortality by being included in the latest edition of the Oxford Dictionary of English.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Online](http://www.abc.net.au/news/stories/2010/08/19/2987714.htm?section=world)
 1. [Cover Image](http://www.abc.net.au/news/image/911834-1x1-700x700.jpg)

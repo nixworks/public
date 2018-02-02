@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/10/a-palestinian-girl-is-critically-wounded-when-a-qassam-rocket-launched-by-palestenian-militants-hits-her-home-in-the-gaza-strip.html)  [JSON](/news/2006/07/10/a-palestinian-girl-is-critically-wounded-when-a-qassam-rocket-launched-by-palestenian-militants-hits-her-home-in-the-gaza-strip.json)  [XML](/news/2006/07/10/a-palestinian-girl-is-critically-wounded-when-a-qassam-rocket-launched-by-palestenian-militants-hits-her-home-in-the-gaza-strip.xml)  
+
 ### [2006-07-10](/news/2006/07/10/index.md)
 
+##### Palestinian
 #  A Palestinian girl is critically wounded when a Qassam rocket launched by Palestenian militants hits her home in the Gaza Strip. 
 
 Sources in Gaza Strip say 10-year-old girl was critically wounded by rocket that hit her Beit Lahiya home, add that gunmen aimed errant rocket towards Israel
 
 
-### Source:
+### Sources:
 
 1. [Ynet](http://www.ynetnews.com/articles/0,7340,L-3273540,00.html)
 1. [Cover Image](http://www.ynetnews.com/images/default_EynetLogo200_200.jpg)

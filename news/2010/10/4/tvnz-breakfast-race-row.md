@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/4/tvnz-breakfast-race-row.html)  [JSON](/news/2010/10/4/tvnz-breakfast-race-row.json)  [XML](/news/2010/10/4/tvnz-breakfast-race-row.xml)  
+
 ### [2010-10-4](/news/2010/10/4/index.md)
 
+##### TVNZ
 # TVNZ "Breakfast" race row: 
 
 Latest breaking news articles, photos, video, blogs, reviews, analysis, opinion and reader comment from New Zealand and around the World - NZ Herald
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''The Age](http://news.theage.com.au/breaking-news-world/broadcaster-stirs-race-row-new-zealand-20101004-163yn.html)
 2. [The New Zealand Herald](http://www.nzherald.co.nz/personalities/news/article.cfm?c_id=72&objectid=10678060)

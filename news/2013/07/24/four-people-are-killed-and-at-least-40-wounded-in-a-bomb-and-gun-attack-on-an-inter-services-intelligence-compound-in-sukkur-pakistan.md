@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/07/24/four-people-are-killed-and-at-least-40-wounded-in-a-bomb-and-gun-attack-on-an-inter-services-intelligence-compound-in-sukkur-pakistan.html)  [JSON](/news/2013/07/24/four-people-are-killed-and-at-least-40-wounded-in-a-bomb-and-gun-attack-on-an-inter-services-intelligence-compound-in-sukkur-pakistan.json)  [XML](/news/2013/07/24/four-people-are-killed-and-at-least-40-wounded-in-a-bomb-and-gun-attack-on-an-inter-services-intelligence-compound-in-sukkur-pakistan.xml)  
+
 ### [2013-07-24](/news/2013/07/24/index.md)
 
+##### Inter-Services Intelligence
 # Four people are killed and at least 40 wounded in a bomb and gun attack on an Inter-Services Intelligence compound in Sukkur, Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2013/07/24/uk-pakistan-attack-idUKBRE96N0W620130724)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

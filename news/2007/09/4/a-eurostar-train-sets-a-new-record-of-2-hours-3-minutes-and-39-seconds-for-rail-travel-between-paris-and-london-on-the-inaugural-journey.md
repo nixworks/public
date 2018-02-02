@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/4/a-eurostar-train-sets-a-new-record-of-2-hours-3-minutes-and-39-seconds-for-rail-travel-between-paris-and-london-on-the-inaugural-journey.html)  [JSON](/news/2007/09/4/a-eurostar-train-sets-a-new-record-of-2-hours-3-minutes-and-39-seconds-for-rail-travel-between-paris-and-london-on-the-inaugural-journey.json)  [XML](/news/2007/09/4/a-eurostar-train-sets-a-new-record-of-2-hours-3-minutes-and-39-seconds-for-rail-travel-between-paris-and-london-on-the-inaugural-journey.xml)  
+
 ### [2007-09-4](/news/2007/09/4/index.md)
 
+##### Eurostar
 #  A Eurostar train sets a new record of 2 hours, 3 minutes and 39 seconds for rail travel between Paris and London, on the inaugural journey from Gare du Nord to St Pancras International on the new High Speed 1 line. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/6977211.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/31/the-cabinet-of-japan-approves-a-bill-to-put-a-40-year-cap-on-the-life-of-nuclear-reactors-following-the-fukushima-daiichi-nuclear-disaster.html)  [JSON](/news/2012/01/31/the-cabinet-of-japan-approves-a-bill-to-put-a-40-year-cap-on-the-life-of-nuclear-reactors-following-the-fukushima-daiichi-nuclear-disaster.json)  [XML](/news/2012/01/31/the-cabinet-of-japan-approves-a-bill-to-put-a-40-year-cap-on-the-life-of-nuclear-reactors-following-the-fukushima-daiichi-nuclear-disaster.xml)  
+
 ### [2012-01-31](/news/2012/01/31/index.md)
 
+##### Japan
 # The Cabinet of Japan approves a bill to put a 40-year cap on the life of nuclear reactors following the Fukushima Daiichi nuclear disaster. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://hosted.ap.org/dynamic/stories/A/AS_JAPAN_NUCLEAR?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2012-01-30-21-51-35)
 

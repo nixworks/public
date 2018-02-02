@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/2/the-reserve-bank-of-australia-cuts-interest-rates-by-100-basis-points-to-4-25.html)  [JSON](/news/2008/12/2/the-reserve-bank-of-australia-cuts-interest-rates-by-100-basis-points-to-4-25.json)  [XML](/news/2008/12/2/the-reserve-bank-of-australia-cuts-interest-rates-by-100-basis-points-to-4-25.xml)  
+
 ### [2008-12-2](/news/2008/12/2/index.md)
 
+##### Reserve Bank of Australia
 #  The Reserve Bank of Australia cuts interest rates by 100 basis points to 4.25%. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/business/money/story/0,28323,24739833-5016110,00.html?referrer=email)
 

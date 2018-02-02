@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/2/the-united-states-lifts-its-ban-on-electronics-i
 
 ### [2017-07-2](/news/2017/07/2/index.md)
 
+##### 2017 electronics ban
 # The United States lifts its ban on electronics in the cabin of flights from Abu Dhabi to the U.S. 
 
 The United States has lifted a ban on laptops in cabins on flights from Abu Dhabi to the United States, saying Etihad Airways had put in place required tighter security measures.

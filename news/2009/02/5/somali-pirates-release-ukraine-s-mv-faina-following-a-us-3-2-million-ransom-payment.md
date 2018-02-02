@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/5/somali-pirates-release-ukraine-s-mv-faina-following-a-us-3-2-million-ransom-payment.html)  [JSON](/news/2009/02/5/somali-pirates-release-ukraine-s-mv-faina-following-a-us-3-2-million-ransom-payment.json)  [XML](/news/2009/02/5/somali-pirates-release-ukraine-s-mv-faina-following-a-us-3-2-million-ransom-payment.xml)  
+
 ### [2009-02-5](/news/2009/02/5/index.md)
 
+##### Somalia
 #  Somali pirates release Ukraine's MV "Faina" following a US$3.2-million ransom payment. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7871510.stm)
 

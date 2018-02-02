@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/14/a-couple-in-perris-california-is-arrested-for-a
 
 ### [2018-01-14](/news/2018/01/14/index.md)
 
+##### Turpin case
 # A couple in Perris, California is arrested for allegedly holding captive and abusing their 13 children. 
 
 The mother was &quot;perplexed&quot; when officers came to rescue the malnourished children, say police.

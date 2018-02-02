@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/9/sco-v-ibm-linux-lawsuit-aduva-inc-a-linux-developing-company-releases-this-week-a-tool-to-allow-companies-to-replace-any-offending-li.html)  [JSON](/news/2003/08/9/sco-v-ibm-linux-lawsuit-aduva-inc-a-linux-developing-company-releases-this-week-a-tool-to-allow-companies-to-replace-any-offending-li.json)  [XML](/news/2003/08/9/sco-v-ibm-linux-lawsuit-aduva-inc-a-linux-developing-company-releases-this-week-a-tool-to-allow-companies-to-replace-any-offending-li.xml)  
+
 ### [2003-08-9](/news/2003/08/9/index.md)
 
+##### SCO v. IBM
 #  SCO v. IBM Linux lawsuit: Aduva, Inc., a Linux developing company, releases this week a tool to allow companies to replace any offending Linux code, if it exists, with code that does not infringe on SCO's intellectual property rights. It is unknown how this tool will work, as SCO has not disclosed which code it considers infringing.
 
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/12/9/former-prime-minister-of-the-republic-of-macedonia-vlado-buakovski-is-sentenced-to-three-and-a-half-years-in-jail-for-abuse-of-power.html)  [JSON](/news/2008/12/9/former-prime-minister-of-the-republic-of-macedonia-vlado-buakovski-is-sentenced-to-three-and-a-half-years-in-jail-for-abuse-of-power.json)  [XML](/news/2008/12/9/former-prime-minister-of-the-republic-of-macedonia-vlado-buakovski-is-sentenced-to-three-and-a-half-years-in-jail-for-abuse-of-power.xml)  
+
 ### [2008-12-9](/news/2008/12/9/index.md)
 
+##### Prime Minister
 #  Former Prime Minister of the Republic of Macedonia Vlado Buckovski is sentenced to three and a half years in jail for abuse of power. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Forbes](http://www.forbes.com/afxnewslimited/feeds/afx/2008/12/09/afx5798976.html)
+1. [Forbes](https://www.forbes.com/afxnewslimited/feeds/afx/2008/12/09/afx5798976.html)
 
 ### Related:
 

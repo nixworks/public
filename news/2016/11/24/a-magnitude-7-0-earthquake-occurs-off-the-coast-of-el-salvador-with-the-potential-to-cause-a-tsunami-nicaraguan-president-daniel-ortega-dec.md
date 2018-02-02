@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/24/a-magnitude-7-0-earthquake-occurs-off-the-coast
 
 ### [2016-11-24](/news/2016/11/24/index.md)
 
+##### earthquake
 # A magnitude 7.0 earthquake occurs off the coast of El Salvador with the potential to cause a tsunami. Nicaraguan President Daniel Ortega declares a state of emergency because of the quake and Hurricane Otto. 
 
 By Nelson Renteria SAN SALVADOR (Reuters) - A strong earthquake off the Pacific Coast of Central America shook the region on Thursday just as a hurricane barreled into the Caribbean coasts of Nicaragua and Costa Rica, but there were no immediate reports of any quake damage. Emergency services in El

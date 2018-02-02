@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/24/former-uk-prime-minister-margaret-thatcher-is-reported-to-be-a-lot-brighter-following-her-hospitalisation-with-the-influenza-that-disrupte.html)  [JSON](/news/2010/10/24/former-uk-prime-minister-margaret-thatcher-is-reported-to-be-a-lot-brighter-following-her-hospitalisation-with-the-influenza-that-disrupte.json)  [XML](/news/2010/10/24/former-uk-prime-minister-margaret-thatcher-is-reported-to-be-a-lot-brighter-following-her-hospitalisation-with-the-influenza-that-disrupte.xml)  
+
 ### [2010-10-24](/news/2010/10/24/index.md)
 
+##### Margaret Thatcher
 # Former UK Prime Minister Margaret Thatcher is reported to be a "lot brighter" following her hospitalisation with the influenza that disrupted her 85th birthday reception. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Press Association](http://www.guardian.co.uk/uk/feedarticle/9326302)
 

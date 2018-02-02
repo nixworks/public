@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/11/17/sri-lankan-presidential-election-2005-sri-lanka-holds-its-presidential-election-to-appoint-the-fifth-executive-president-the-election-wa.html)  [JSON](/news/2005/11/17/sri-lankan-presidential-election-2005-sri-lanka-holds-its-presidential-election-to-appoint-the-fifth-executive-president-the-election-wa.json)  [XML](/news/2005/11/17/sri-lankan-presidential-election-2005-sri-lanka-holds-its-presidential-election-to-appoint-the-fifth-executive-president-the-election-wa.xml)  
+
 ### [2005-11-17](/news/2005/11/17/index.md)
 
+##### Sri Lankan presidential election, 2005
 #  Sri Lankan presidential election, 2005: Sri Lanka holds its presidential election to appoint the fifth executive president. The election was conducted peacefully despite a few minor incidents. Prime Minister Mahinda Rajapaksa defeats former Prime Minister Ranil Wickremesinghe in the election. 
 
 Amidst boycott by Tamils, Lanka elected Marxist-backed PM Mahinda Rajapakse as its Prez.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://today.reuters.com/news/NewsArticle.aspx?type=worldNews&storyID=2005-11-18T085521Z_01_SCH766819_RTRUKOC_0_US-SRILANKA-ELECTION.xml)
 2. [Times of India](http://timesofindia.indiatimes.com/articleshow/1300558.cms)

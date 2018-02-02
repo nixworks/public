@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/10/15/the-international-criminal-court-opens-an-investigation-into-the-suppression-of-an-opposition-protest-in-guinea-in-which-dozens-of-people.html)  [JSON](/news/2009/10/15/the-international-criminal-court-opens-an-investigation-into-the-suppression-of-an-opposition-protest-in-guinea-in-which-dozens-of-people.json)  [XML](/news/2009/10/15/the-international-criminal-court-opens-an-investigation-into-the-suppression-of-an-opposition-protest-in-guinea-in-which-dozens-of-people.xml)  
+
 ### [2009-10-15](/news/2009/10/15/index.md)
 
+##### ICC
 #  The International Criminal Court opens an investigation into the suppression of an opposition protest in Guinea, in which dozens of people were killed. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press](http://www.google.com/hostednews/ap/article/ALeqM5hqUQPNqFhQ3XVTS-4bOE-nY47h8QD9BBF7T00)
 

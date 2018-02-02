@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/12/9/died-daniel-wretstrom-17-swedish-white-power-skinhead-musician-killed-in-a-brawl-url-http-www-expo-se-index_1-php-pg-http-3a-www.html)  [JSON](/news/2000/12/9/died-daniel-wretstrom-17-swedish-white-power-skinhead-musician-killed-in-a-brawl-url-http-www-expo-se-index_1-php-pg-http-3a-www.json)  [XML](/news/2000/12/9/died-daniel-wretstrom-17-swedish-white-power-skinhead-musician-killed-in-a-brawl-url-http-www-expo-se-index_1-php-pg-http-3a-www.xml)  
+
 ### [2000-12-9](/news/2000/12/9/index.md)
 
+##### Daniel Wretstrm
 # "'Died:"' Daniel Wretstrm, 17, Swedish white power skinhead musician (killed in a brawl) url=http:--www.expo.se-index_1.php?pg=http%3A--www.expo.se-www-1_892.html : Mordet, marschen, martyrskapet .se 
 
 

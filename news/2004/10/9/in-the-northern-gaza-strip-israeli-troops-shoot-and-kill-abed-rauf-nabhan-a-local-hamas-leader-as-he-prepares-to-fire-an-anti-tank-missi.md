@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/9/in-the-northern-gaza-strip-israeli-troops-shoot-and-kill-abed-rauf-nabhan-a-local-hamas-leader-as-he-prepares-to-fire-an-anti-tank-missi.html)  [JSON](/news/2004/10/9/in-the-northern-gaza-strip-israeli-troops-shoot-and-kill-abed-rauf-nabhan-a-local-hamas-leader-as-he-prepares-to-fire-an-anti-tank-missi.json)  [XML](/news/2004/10/9/in-the-northern-gaza-strip-israeli-troops-shoot-and-kill-abed-rauf-nabhan-a-local-hamas-leader-as-he-prepares-to-fire-an-anti-tank-missi.xml)  
+
 ### [2004-10-9](/news/2004/10/9/index.md)
 
+##### Gaza Strip
 #  In the northern Gaza Strip, Israeli troops shoot and kill Abed Rauf Nabhan, a local Hamas leader, as he prepares to fire an anti-tank missile at Israeli tanks in Jebaliya. The Israeli military says that Nabhan was responsible for a rocket attack that killed two Israeli children in Sderot on Sukkot eve. 
 
 Get the latest international news and world events from Asia, Europe, the Middle East, and more. See world news photos and videos at ABCNews.com
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/International/wireStory?id=152070)
 2. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3728800.stm)

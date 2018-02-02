@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/04/11/the-death-toll-in-clashes-between-anti-government-protesters-and-thai-troops-in-the-capital-bangkok-rises-to-at-least-20-people.html)  [JSON](/news/2010/04/11/the-death-toll-in-clashes-between-anti-government-protesters-and-thai-troops-in-the-capital-bangkok-rises-to-at-least-20-people.json)  [XML](/news/2010/04/11/the-death-toll-in-clashes-between-anti-government-protesters-and-thai-troops-in-the-capital-bangkok-rises-to-at-least-20-people.xml)  
+
 ### [2010-04-11](/news/2010/04/11/index.md)
 
+##### 2010 Thai political protests
 # The death toll in clashes between anti-government protesters and Thai troops in the capital Bangkok rises to at least 20 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/world/asia-pacific/8612783.stm)
 2. [Thai News Agency](http://www.mcot.net/cfcustom/cache_page/43443.cfm)

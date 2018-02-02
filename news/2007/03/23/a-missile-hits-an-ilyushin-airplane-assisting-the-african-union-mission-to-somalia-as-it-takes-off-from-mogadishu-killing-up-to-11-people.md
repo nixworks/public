@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/23/a-missile-hits-an-ilyushin-airplane-assisting-the-african-union-mission-to-somalia-as-it-takes-off-from-mogadishu-killing-up-to-11-people.html)  [JSON](/news/2007/03/23/a-missile-hits-an-ilyushin-airplane-assisting-the-african-union-mission-to-somalia-as-it-takes-off-from-mogadishu-killing-up-to-11-people.json)  [XML](/news/2007/03/23/a-missile-hits-an-ilyushin-airplane-assisting-the-african-union-mission-to-somalia-as-it-takes-off-from-mogadishu-killing-up-to-11-people.xml)  
+
 ### [2007-03-23](/news/2007/03/23/index.md)
 
+##### missile hits an Ilyushin airplane
 #  A missile hits an Ilyushin airplane assisting the African Union Mission to Somalia as it takes off from Mogadishu, killing up to 11 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ABC Australia](http://www.abc.net.au/news/newsitems/200703/s1880381.htm)
 

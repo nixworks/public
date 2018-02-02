@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/08/6/pacific-islands-forum-leaders-call-for-assistance-for-nauru-to-prevent-the-emergence-of-another-failed-state.html)  [JSON](/news/2004/08/6/pacific-islands-forum-leaders-call-for-assistance-for-nauru-to-prevent-the-emergence-of-another-failed-state.json)  [XML](/news/2004/08/6/pacific-islands-forum-leaders-call-for-assistance-for-nauru-to-prevent-the-emergence-of-another-failed-state.xml)  
+
 ### [2004-08-6](/news/2004/08/6/index.md)
 
+##### Pacific Islands Forum
 #  Pacific Islands Forum leaders call for assistance for Nauru to prevent the emergence of another "failed state". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Age](http://www.theage.com.au/articles/2004/08/07/1091732142765.html)
 

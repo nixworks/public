@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/20/american-actor-michael-jace-is-arrested-in-relation-to-the-shooting-death-of-his-wife-in-los-angeles.html)  [JSON](/news/2014/05/20/american-actor-michael-jace-is-arrested-in-relation-to-the-shooting-death-of-his-wife-in-los-angeles.json)  [XML](/news/2014/05/20/american-actor-michael-jace-is-arrested-in-relation-to-the-shooting-death-of-his-wife-in-los-angeles.xml)  
+
 ### [2014-05-20](/news/2014/05/20/index.md)
 
+##### Michael Jace
 # American actor Michael Jace is arrested in relation to the shooting death of his wife in Los Angeles. 
 
 Actor Michael Jace, who played a Los Angeles police officer in the FX drama The Shield, has been arrested in the shooting death of his wife, police said.
 
 
-### Source:
+### Sources:
 
 1. [AFP via ''Melbourne Age](http://www.theage.com.au/lifestyle/celebrity/michael-jace-star-of-the-shield-arrested-after-shooting-death-of-his-wife-in-los-angeles-20140520-zrj90.html)
 1. [Cover Image](http://www.theage.com.au/content/dam/images/3/8/m/y/o/image.related.articleLeadwide.620x349.zrj90.png/1400629238017.jpg)

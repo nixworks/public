@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/02/24/reports-of-the-results-of-a-study-of-vaxgen-s-experimental-aids-vaccine-show-little-effect-on-the-spread-of-aids-in-the-overall-experimenta.html)  [JSON](/news/2003/02/24/reports-of-the-results-of-a-study-of-vaxgen-s-experimental-aids-vaccine-show-little-effect-on-the-spread-of-aids-in-the-overall-experimenta.json)  [XML](/news/2003/02/24/reports-of-the-results-of-a-study-of-vaxgen-s-experimental-aids-vaccine-show-little-effect-on-the-spread-of-aids-in-the-overall-experimenta.xml)  
+
 ### [2003-02-24](/news/2003/02/24/index.md)
 
+##### VaxGen
 #  Reports of the results of a study of VaxGen's experimental AIDS vaccine show little effect on the spread of AIDS in the overall experimental group. However, there are possible signs of partial resistance to HIV infection in the subgroup of subjects of African and Asian ethnic origin.
 
 

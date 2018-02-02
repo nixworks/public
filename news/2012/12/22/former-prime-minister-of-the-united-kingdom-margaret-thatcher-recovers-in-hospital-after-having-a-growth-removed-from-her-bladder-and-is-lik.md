@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/22/former-prime-minister-of-the-united-kingdom-margaret-thatcher-recovers-in-hospital-after-having-a-growth-removed-from-her-bladder-and-is-lik.html)  [JSON](/news/2012/12/22/former-prime-minister-of-the-united-kingdom-margaret-thatcher-recovers-in-hospital-after-having-a-growth-removed-from-her-bladder-and-is-lik.json)  [XML](/news/2012/12/22/former-prime-minister-of-the-united-kingdom-margaret-thatcher-recovers-in-hospital-after-having-a-growth-removed-from-her-bladder-and-is-lik.xml)  
+
 ### [2012-12-22](/news/2012/12/22/index.md)
 
+##### Prime Minister
 # Former Prime Minister of the United Kingdom Margaret Thatcher recovers in hospital after having a growth removed from her bladder and is likely to remain in hospital over the Christmas period. 
 
 Former UK prime minister Margaret Thatcher is recovering in hospital after having a growth removed from her bladder.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/europe/2012/12/2012122251711402952.html)
 2. [BBC](http://www.bbc.co.uk/news/uk-20820887)

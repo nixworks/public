@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/11/13/the-south-asian-association-for-regional-cooperation-agrees-at-its-summit-to-admit-afghanistan-as-a-member-and-to-accord-china-and-japan-o.html)  [JSON](/news/2005/11/13/the-south-asian-association-for-regional-cooperation-agrees-at-its-summit-to-admit-afghanistan-as-a-member-and-to-accord-china-and-japan-o.json)  [XML](/news/2005/11/13/the-south-asian-association-for-regional-cooperation-agrees-at-its-summit-to-admit-afghanistan-as-a-member-and-to-accord-china-and-japan-o.xml)  
+
 ### [2005-11-13](/news/2005/11/13/index.md)
 
+##### South Asian Association for Regional Cooperation
 #  The South Asian Association for Regional Cooperation agrees at its summit to admit Afghanistan as a member, and to accord China and Japan observer status.
 
 

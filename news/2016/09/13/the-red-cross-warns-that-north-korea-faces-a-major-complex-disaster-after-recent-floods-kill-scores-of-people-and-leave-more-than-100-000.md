@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/13/the-red-cross-warns-that-north-korea-faces-a-ma
 
 ### [2016-09-13](/news/2016/09/13/index.md)
 
+##### 2016 North Korean floods
 # The Red Cross warns that North Korea faces a "major, complex disaster" after recent floods kill scores of people and leave more than 100,000 homeless. 
 
 The Red Cross says flooding in North Korea has killed scores and left more than 100,000 homeless.

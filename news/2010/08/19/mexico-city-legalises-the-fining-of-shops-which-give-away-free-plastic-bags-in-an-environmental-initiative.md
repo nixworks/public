@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/19/mexico-city-legalises-the-fining-of-shops-which-give-away-free-plastic-bags-in-an-environmental-initiative.html)  [JSON](/news/2010/08/19/mexico-city-legalises-the-fining-of-shops-which-give-away-free-plastic-bags-in-an-environmental-initiative.json)  [XML](/news/2010/08/19/mexico-city-legalises-the-fining-of-shops-which-give-away-free-plastic-bags-in-an-environmental-initiative.xml)  
+
 ### [2010-08-19](/news/2010/08/19/index.md)
 
+##### Mexico City
 # Mexico City legalises the fining of shops which give away free plastic bags in an environmental initiative. 
 
 A new law comes into effect in Mexico City giving the authorities the power to fine shops which give away free plastic bags.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11032252)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

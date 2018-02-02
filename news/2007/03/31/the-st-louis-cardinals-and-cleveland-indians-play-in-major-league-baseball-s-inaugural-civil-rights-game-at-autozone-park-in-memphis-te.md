@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/03/31/the-st-louis-cardinals-and-cleveland-indians-play-in-major-league-baseball-s-inaugural-civil-rights-game-at-autozone-park-in-memphis-te.html)  [JSON](/news/2007/03/31/the-st-louis-cardinals-and-cleveland-indians-play-in-major-league-baseball-s-inaugural-civil-rights-game-at-autozone-park-in-memphis-te.json)  [XML](/news/2007/03/31/the-st-louis-cardinals-and-cleveland-indians-play-in-major-league-baseball-s-inaugural-civil-rights-game-at-autozone-park-in-memphis-te.xml)  
+
 ### [2007-03-31](/news/2007/03/31/index.md)
 
+##### St. Louis Cardinals
 #  The St. Louis Cardinals and Cleveland Indians play in Major League Baseball's inaugural "Civil Rights Game" at AutoZone Park in Memphis, Tennessee, instituted to honor the history of civil rights in the United States. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [MLB](http://mlb.mlb.com/mlb/events/civil_rights_game/y2007/)
 1. [Cover Image](http://mlb.mlb.com/mlb/images/team_logos/social_media/og_1200x630_image/mlb_1200x630.jpg)

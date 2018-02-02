@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/11/1/the-london-metropolitan-police-is-found-guilty-of-violations-of-health-and-safety-law-over-the-shooting-of-jean-charles-de-menezes-on-the-l.html)  [JSON](/news/2007/11/1/the-london-metropolitan-police-is-found-guilty-of-violations-of-health-and-safety-law-over-the-shooting-of-jean-charles-de-menezes-on-the-l.json)  [XML](/news/2007/11/1/the-london-metropolitan-police-is-found-guilty-of-violations-of-health-and-safety-law-over-the-shooting-of-jean-charles-de-menezes-on-the-l.xml)  
+
 ### [2007-11-1](/news/2007/11/1/index.md)
 
+##### Metropolitan Police
 #  The London Metropolitan Police is found guilty of violations of Health and Safety law over the shooting of Jean Charles de Menezes on the London Underground in July 2005, and is fined GBP175,000 and ordered to pay GBP385,000 in legal costs. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk/7069796.stm)
 2. [Sky News](http://news.sky.com/skynews/article/0,,70131-1291146,00.html)

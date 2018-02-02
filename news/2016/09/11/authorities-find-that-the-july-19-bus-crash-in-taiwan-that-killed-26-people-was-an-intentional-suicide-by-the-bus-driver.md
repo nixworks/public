@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/11/authorities-find-that-the-july-19-bus-crash-in-
 
 ### [2016-09-11](/news/2016/09/11/index.md)
 
+##### 2016 Taoyuan bus crash
 # Authorities find that the July 19 bus crash in Taiwan that killed 26 people was an intentional suicide by the bus driver. 
 
 

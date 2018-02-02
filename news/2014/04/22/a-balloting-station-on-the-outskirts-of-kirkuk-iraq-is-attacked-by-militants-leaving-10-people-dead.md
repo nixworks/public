@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/04/22/a-balloting-station-on-the-outskirts-of-kirkuk-iraq-is-attacked-by-militants-leaving-10-people-dead.html)  [JSON](/news/2014/04/22/a-balloting-station-on-the-outskirts-of-kirkuk-iraq-is-attacked-by-militants-leaving-10-people-dead.json)  [XML](/news/2014/04/22/a-balloting-station-on-the-outskirts-of-kirkuk-iraq-is-attacked-by-militants-leaving-10-people-dead.xml)  
+
 ### [2014-04-22](/news/2014/04/22/index.md)
 
+##### Kirkuk
 # A balloting station on the outskirts of Kirkuk, Iraq, is attacked by militants, leaving 10 people dead. 
 
 BAGHDAD (AP) — Militants wearing military uniforms carried out an overnight attack against a balloting center in a remote area of the country&#x27;s north and killed 10 guards, a senior police official said on Tuesday.
 
 
-### Source:
+### Sources:
 
-1. [AP via Yahoo! News](http://news.yahoo.com/militants-attack-balloting-center-iraq-kill-10-094602474.html)
-1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/TOgv.VSFNvSYiHvc7sxbFg--/aD0yNDc4O3c9MzYxNjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/bef337edc73b100f520f6a7067001a8c.jpg)
+1. [AP via Yahoo! News](https://news.yahoo.com/militants-attack-balloting-center-iraq-kill-10-094602474.html)
+1. [Cover Image](https://s.yimg.com/uu/api/res/1.2/7VvDNLdIeYahXwvF0a43PQ--~B/aD0yNDc4O3c9MzYxNjtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en_us/News/ap_webfeeds/bef337edc73b100f520f6a7067001a8c.jpg)
 
 ### Related:
 

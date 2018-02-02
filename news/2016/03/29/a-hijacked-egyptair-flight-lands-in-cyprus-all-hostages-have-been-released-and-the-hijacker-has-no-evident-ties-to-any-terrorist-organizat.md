@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/29/a-hijacked-egyptair-flight-lands-in-cyprus-all-
 
 ### [2016-03-29](/news/2016/03/29/index.md)
 
+##### EgyptAir Flight 181
 # A hijacked EgyptAir flight lands in Cyprus. All hostages have been released, and the hijacker has no evident ties to any terrorist organizations. 
 
 Plane originally travelling from Alexandria to Cairo lands at Larnaca airport in Cyprus with 55 passengers on board

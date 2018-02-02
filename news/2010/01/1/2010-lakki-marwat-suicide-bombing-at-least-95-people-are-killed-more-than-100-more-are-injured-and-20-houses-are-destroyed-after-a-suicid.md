@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/1/2010-lakki-marwat-suicide-bombing-at-least-95-people-are-killed-more-than-100-more-are-injured-and-20-houses-are-destroyed-after-a-suicid.html)  [JSON](/news/2010/01/1/2010-lakki-marwat-suicide-bombing-at-least-95-people-are-killed-more-than-100-more-are-injured-and-20-houses-are-destroyed-after-a-suicid.json)  [XML](/news/2010/01/1/2010-lakki-marwat-suicide-bombing-at-least-95-people-are-killed-more-than-100-more-are-injured-and-20-houses-are-destroyed-after-a-suicid.xml)  
+
 ### [2010-01-1](/news/2010/01/1/index.md)
 
+##### 2010 Lakki Marwat suicide bombing
 #  2010 Lakki Marwat suicide bombing: At least 95 people are killed, more than 100 more are injured and 20 houses are destroyed after a suicide bomber blows himself up at a volleyball game in Lakki Marwat, northwest Pakistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/south_asia/8437114.stm)
 2. [Express India](http://www.expressindia.com/latest-news/Several-killed-in-Pak-attack/562195/)

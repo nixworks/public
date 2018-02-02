@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/04/10/sally-jewell-is-confirmed-as-the-new-united-states-secretary-of-the-interior.html)  [JSON](/news/2013/04/10/sally-jewell-is-confirmed-as-the-new-united-states-secretary-of-the-interior.json)  [XML](/news/2013/04/10/sally-jewell-is-confirmed-as-the-new-united-states-secretary-of-the-interior.xml)  
+
 ### [2013-04-10](/news/2013/04/10/index.md)
 
+##### Sally Jewell
 # Sally Jewell is confirmed as the new United States Secretary of the Interior. 
 
 The Senate voted 87 to 11 Wednesday to confirm Sally Jewell, chief executive of the outdoor retailer REI, as interior secretary.
 
 
-### Source:
+### Sources:
 
-1. [AP via ''The New York Times](http://www.nytimes.com/2013/04/11/us/politics/jewell-confirmed-as-interior-secretary.html)
+1. [AP via ''The New York Times](https://www.nytimes.com/2013/04/11/us/politics/jewell-confirmed-as-interior-secretary.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

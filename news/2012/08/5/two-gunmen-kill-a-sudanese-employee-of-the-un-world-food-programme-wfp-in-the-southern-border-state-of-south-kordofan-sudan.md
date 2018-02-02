@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2012/08/5/two-gunmen-kill-a-sudanese-employee-of-the-un-world-food-programme-wfp-in-the-southern-border-state-of-south-kordofan-sudan.html)  [JSON](/news/2012/08/5/two-gunmen-kill-a-sudanese-employee-of-the-un-world-food-programme-wfp-in-the-southern-border-state-of-south-kordofan-sudan.json)  [XML](/news/2012/08/5/two-gunmen-kill-a-sudanese-employee-of-the-un-world-food-programme-wfp-in-the-southern-border-state-of-south-kordofan-sudan.xml)  
+
 ### [2012-08-5](/news/2012/08/5/index.md)
 
+##### UN World Food Programme (WFP)
 # Two gunmen kill a Sudanese employee of the UN World Food Programme (WFP) in the southern border state of South Kordofan, Sudan. 
 
 Unknown gunmen killed a Sudanese employee of the U.N. World Food Programme (WFP) in the southern border state of South Kordofan where the army is fighting an insurgency, the WFP said on Sunday.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2012/08/05/us-sudan-un-idUSBRE87404J20120805)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/2012/08/05/us-sudan-un-idUSBRE87404J20120805)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/21/two-trains-are-involved-in-a-head-on-collision-near-sloterdijk-west-of-amsterdam-the-netherlands-injuring-at-least-117-with-56-serious-i.html)  [JSON](/news/2012/04/21/two-trains-are-involved-in-a-head-on-collision-near-sloterdijk-west-of-amsterdam-the-netherlands-injuring-at-least-117-with-56-serious-i.json)  [XML](/news/2012/04/21/two-trains-are-involved-in-a-head-on-collision-near-sloterdijk-west-of-amsterdam-the-netherlands-injuring-at-least-117-with-56-serious-i.xml)  
+
 ### [2012-04-21](/news/2012/04/21/index.md)
 
+##### head-on collision
 # Two trains are involved in a head-on collision near Sloterdijk, west of Amsterdam, the Netherlands, injuring at least 117, with 56 serious injuries. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-europe-17799940)
 2. [Channel Asia News](http://www.channelnewsasia.com/stories/afp_world_business/view/1196717/1/.html)

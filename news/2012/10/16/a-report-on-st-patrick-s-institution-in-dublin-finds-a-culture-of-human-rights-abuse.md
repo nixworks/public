@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/10/16/a-report-on-st-patrick-s-institution-in-dublin-finds-a-culture-of-human-rights-abuse.html)  [JSON](/news/2012/10/16/a-report-on-st-patrick-s-institution-in-dublin-finds-a-culture-of-human-rights-abuse.json)  [XML](/news/2012/10/16/a-report-on-st-patrick-s-institution-in-dublin-finds-a-culture-of-human-rights-abuse.xml)  
+
 ### [2012-10-16](/news/2012/10/16/index.md)
 
+##### St. Patrick's Institution
 # A report on St. Patrick's Institution in Dublin finds a culture of human rights abuse. 
 
 A damning report on St Patrick&#39;s Institution in Dublin has found a culture that led to the human rights of some children and young adults being either ignored or violated.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ](http://www.rte.ie/news/2012/1016/human-rights-of-st-pats-prisoners-violated.html)
 1. [Cover Image](https://img.rasset.ie/0006856f-1600.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/03/8/a-gunman-kills-one-person-and-injures-seven-others-before-himself-being-shot-dead-at-the-university-of-pittsburgh-medical-center-s-western-p.html)  [JSON](/news/2012/03/8/a-gunman-kills-one-person-and-injures-seven-others-before-himself-being-shot-dead-at-the-university-of-pittsburgh-medical-center-s-western-p.json)  [XML](/news/2012/03/8/a-gunman-kills-one-person-and-injures-seven-others-before-himself-being-shot-dead-at-the-university-of-pittsburgh-medical-center-s-western-p.xml)  
+
 ### [2012-03-8](/news/2012/03/8/index.md)
 
+##### University of Pittsburgh Medical Center
 # A gunman kills one person and injures seven others before himself being shot dead at the University of Pittsburgh Medical Center's Western Psychiatric Institute & Clinic in Pittsburgh, Pennsylvania. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2012/03/08/justice/pennsylvania-shooting/index.html?hpt=hp_t3)
 

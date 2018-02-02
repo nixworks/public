@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/31/a-mass-grave-containing-between-20-and-25-bodies-is-found-in-an-abandoned-mine-near-taxco-guerrero-in-mexico.html)  [JSON](/news/2010/05/31/a-mass-grave-containing-between-20-and-25-bodies-is-found-in-an-abandoned-mine-near-taxco-guerrero-in-mexico.json)  [XML](/news/2010/05/31/a-mass-grave-containing-between-20-and-25-bodies-is-found-in-an-abandoned-mine-near-taxco-guerrero-in-mexico.xml)  
+
 ### [2010-05-31](/news/2010/05/31/index.md)
 
+##### mass grave
 # A mass grave containing between 20 and 25 bodies is found in an abandoned mine near Taxco, Guerrero, in Mexico. 
 
 Police discover up to 25 bodies thrown down a ventilation shaft in an abandoned mine in southern Mexico.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/latin_america/10197425.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

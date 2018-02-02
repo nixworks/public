@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/28/comcast-s-nbcuniversal-acquires-dreamworks-anim
 
 ### [2016-04-28](/news/2016/04/28/index.md)
 
+##### Comcast
 # Comcast's NBCUniversal acquires Dreamworks Animation for $3.8 billion. 
 
 

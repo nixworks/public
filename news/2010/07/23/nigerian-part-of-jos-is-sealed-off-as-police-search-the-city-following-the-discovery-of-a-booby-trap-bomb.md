@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/23/nigerian-part-of-jos-is-sealed-off-as-police-search-the-city-following-the-discovery-of-a-booby-trap-bomb.html)  [JSON](/news/2010/07/23/nigerian-part-of-jos-is-sealed-off-as-police-search-the-city-following-the-discovery-of-a-booby-trap-bomb.json)  [XML](/news/2010/07/23/nigerian-part-of-jos-is-sealed-off-as-police-search-the-city-following-the-discovery-of-a-booby-trap-bomb.xml)  
+
 ### [2010-07-23](/news/2010/07/23/index.md)
 
+##### Nigeria
 # Nigerian part of Jos is sealed off as police search the city following the discovery of a booby-trap bomb. 
 
 Nigerian police are searching the troubled city of Jos after a booby-trap bomb was found in a house abandoned during recent clashes.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10741784)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

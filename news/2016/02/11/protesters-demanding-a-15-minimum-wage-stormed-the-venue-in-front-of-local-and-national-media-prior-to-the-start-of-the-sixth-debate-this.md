@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/11/protesters-demanding-a-15-minimum-wage-stormed-
 
 ### [2016-02-11](/news/2016/02/11/index.md)
 
+##### Democratic Party presidential debates, 2016
 # Protesters demanding a $15 minimum wage stormed the venue in front of local and national media prior to the start of the sixth debate, this one between Hillary Clinton and Bernie Sanders in Milwaukee, Wisconsin. 
 
 Protesters demanding a $15 minimum wage stormed in to the debate center before the Democratic Party debate at the University of Wisconsin.

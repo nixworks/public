@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/8/hundreds-of-workers-continue-a-strike-in-southern-china-for-a-fifth-day-amid-a-labour-dispute.html)  [JSON](/news/2011/12/8/hundreds-of-workers-continue-a-strike-in-southern-china-for-a-fifth-day-amid-a-labour-dispute.json)  [XML](/news/2011/12/8/hundreds-of-workers-continue-a-strike-in-southern-china-for-a-fifth-day-amid-a-labour-dispute.xml)  
+
 ### [2011-12-8](/news/2011/12/8/index.md)
 
+##### China
 # Hundreds of workers continue a strike in southern China for a fifth day amid a labour dispute. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Straits Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_742690.html)
 

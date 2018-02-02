@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/30/the-molecule-of-the-year-2011-is-bmp7-as-announced-by-isidro-a-t-savillo-president-ismcbbpr.html)  [JSON](/news/2012/06/30/the-molecule-of-the-year-2011-is-bmp7-as-announced-by-isidro-a-t-savillo-president-ismcbbpr.json)  [XML](/news/2012/06/30/the-molecule-of-the-year-2011-is-bmp7-as-announced-by-isidro-a-t-savillo-president-ismcbbpr.xml)  
+
 ### [2012-06-30](/news/2012/06/30/index.md)
 
+##### Molecule of the Year
 # The Molecule of the Year 2011 is BMP7 as announced by Isidro A. T. Savillo, President, ISMCBBPR. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (''Scientist Solutions](http://www.scientistsolutions.com/t23427-announcing+ismcbbpr_s+molecule+of+the+year+2011.html)
 

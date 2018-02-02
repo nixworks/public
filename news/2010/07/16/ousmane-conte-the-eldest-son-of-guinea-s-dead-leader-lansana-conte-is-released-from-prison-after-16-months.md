@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/16/ousmane-conte-the-eldest-son-of-guinea-s-dead-leader-lansana-conte-is-released-from-prison-after-16-months.html)  [JSON](/news/2010/07/16/ousmane-conte-the-eldest-son-of-guinea-s-dead-leader-lansana-conte-is-released-from-prison-after-16-months.json)  [XML](/news/2010/07/16/ousmane-conte-the-eldest-son-of-guinea-s-dead-leader-lansana-conte-is-released-from-prison-after-16-months.xml)  
+
 ### [2010-07-16](/news/2010/07/16/index.md)
 
+##### Ousmane Cont
 # Ousmane Cont, the eldest son of Guinea's dead leader Lansana Cont, is released from prison after 16 months. 
 
 Guinea has released the son of former president Lansana Conte, held for the past 17 months on accusations of narcotics trafficking.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-10660853)
 2. [News24.com](http://www.news24.com/Africa/News/Guinea-frees-ex-leaders-son-20100715)

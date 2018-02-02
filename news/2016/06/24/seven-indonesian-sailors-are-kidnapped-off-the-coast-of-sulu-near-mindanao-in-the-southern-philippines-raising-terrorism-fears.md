@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/24/seven-indonesian-sailors-are-kidnapped-off-the-
 
 ### [2016-06-24](/news/2016/06/24/index.md)
 
+##### Moro conflict
 # Seven Indonesian sailors are kidnapped off the coast of Sulu near Mindanao in the southern Philippines raising terrorism fears. 
 
 

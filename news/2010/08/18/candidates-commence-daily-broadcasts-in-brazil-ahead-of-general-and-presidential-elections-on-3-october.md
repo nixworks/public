@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/18/candidates-commence-daily-broadcasts-in-brazil-ahead-of-general-and-presidential-elections-on-3-october.html)  [JSON](/news/2010/08/18/candidates-commence-daily-broadcasts-in-brazil-ahead-of-general-and-presidential-elections-on-3-october.json)  [XML](/news/2010/08/18/candidates-commence-daily-broadcasts-in-brazil-ahead-of-general-and-presidential-elections-on-3-october.xml)  
+
 ### [2010-08-18](/news/2010/08/18/index.md)
 
+##### Brazil
 # Candidates commence daily broadcasts in Brazil ahead of general and presidential elections on 3 October. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11008240)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

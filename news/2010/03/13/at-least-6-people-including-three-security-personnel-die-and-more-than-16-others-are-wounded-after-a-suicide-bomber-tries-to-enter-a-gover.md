@@ -1,15 +1,19 @@
+
+Formats: [HTML](/news/2010/03/13/at-least-6-people-including-three-security-personnel-die-and-more-than-16-others-are-wounded-after-a-suicide-bomber-tries-to-enter-a-gover.html)  [JSON](/news/2010/03/13/at-least-6-people-including-three-security-personnel-die-and-more-than-16-others-are-wounded-after-a-suicide-bomber-tries-to-enter-a-gover.json)  [XML](/news/2010/03/13/at-least-6-people-including-three-security-personnel-die-and-more-than-16-others-are-wounded-after-a-suicide-bomber-tries-to-enter-a-gover.xml)  
+
 ### [2010-03-13](/news/2010/03/13/index.md)
 
+##### Swat, Pakistan
 # At least 6 people, including three security personnel, die and more than 16 others are wounded after a suicide bomber tries to enter a government building, is stopped by police and detonates himself in Swat, Pakistan. 
 
 A Taliban suicide bomber targeting security forces killed at least 11 people on Saturday, Pakistani police said, part of a renewed push against the state after one of the biggest security crackdowns in years.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/idUSTRE6230HI20100313)
+1. [Reuters](https://www.reuters.com/article/idUSTRE6230HI20100313)
 2. [The Sydney Morning Herald](http://news.smh.com.au/breaking-news-world/at-least-6-killed-in-pakistan-suicide-attack-police-20100313-q4ws.html)
-2. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20100313&t=2&i=75149753&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-13T101037Z_01_BTRE62C0S9W00_RTROPTP_0_PAKISTAN-VIOLENCE)
+2. [Cover Image](https://s2.reutersmedia.net/resources/r/?m=02&d=20100313&t=2&i=75149753&w=&fh=545px&fw=&ll=&pl=&sq=&r=2010-03-13T101037Z_01_BTRE62C0S9W00_RTROPTP_0_PAKISTAN-VIOLENCE)
 
 ### Related:
 

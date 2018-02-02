@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/03/2/the-united-states-military-files-new-charges-against-private-bradley-manning-in-relation-to-the-leak-of-the-wikileaks-cables.html)  [JSON](/news/2011/03/2/the-united-states-military-files-new-charges-against-private-bradley-manning-in-relation-to-the-leak-of-the-wikileaks-cables.json)  [XML](/news/2011/03/2/the-united-states-military-files-new-charges-against-private-bradley-manning-in-relation-to-the-leak-of-the-wikileaks-cables.xml)  
+
 ### [2011-03-2](/news/2011/03/2/index.md)
 
+##### United States military
 # The United States military files new charges against Private Bradley Manning in relation to the leak of the WikiLeaks cables. 
 
 The US military has brought 22 new charges against the junior soldier accused of leaking hundreds of thousands of sensitive US government documents that were published by WikiLeaks.
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/stories/2011/03/03/3153767.htm?section=justin)
 1. [Cover Image](http://www.abc.net.au/news/image/894608-1x1-700x700.jpg)

@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2013/04/22/the-u-s-international-trade-commission-sides-with-apple-against-a-claim-by-google-that-apple-s-popular-iphones-violate-a-google-patent.html)  [JSON](/news/2013/04/22/the-u-s-international-trade-commission-sides-with-apple-against-a-claim-by-google-that-apple-s-popular-iphones-violate-a-google-patent.json)  [XML](/news/2013/04/22/the-u-s-international-trade-commission-sides-with-apple-against-a-claim-by-google-that-apple-s-popular-iphones-violate-a-google-patent.xml)  
+
 ### [2013-04-22](/news/2013/04/22/index.md)
 
+##### U.S.
 # The U.S. International Trade Commission sides with Apple against a claim by Google that Apple's popular iPhones violate a Google patent. 
 
 Apple Inc scored a win on Monday when the U.S. International Trade Commission ruled that it did not violate a Google patent to make the popular iPhones.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2013/04/22/us-apple-google-patent-idUSBRE93L17Y20130422)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20130422&t=2&i=724898211&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93L1NAV00)
+1. [Reuters](https://www.reuters.com/article/2013/04/22/us-apple-google-patent-idUSBRE93L17Y20130422)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20130422&t=2&i=724898211&w=&fh=545px&fw=&ll=&pl=&sq=&r=CBRE93L1NAV00)
 
 ### Related:
 

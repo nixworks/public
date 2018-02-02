@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/13/the-geminids-meteor-shower-reaches-its-peak-this-weekend.html)  [JSON](/news/2014/12/13/the-geminids-meteor-shower-reaches-its-peak-this-weekend.json)  [XML](/news/2014/12/13/the-geminids-meteor-shower-reaches-its-peak-this-weekend.xml)  
+
 ### [2014-12-13](/news/2014/12/13/index.md)
 
+##### Geminids
 # The Geminids meteor shower reaches its peak this weekend. 
 
 The 2014 Geminids peak over the next few days, and it&#8217;s likely to be a particularly beautiful display. Can&#8217;t get to a city-light-free spot? Watch &#8217;em online!
 
 
-### Source:
+### Sources:
 
 1. [Boing Boing](http://boingboing.net/2014/12/12/geminid-meteor-showers-peak-th.html)
 1. [Cover Image](http://media.boingboing.net/wp-content/uploads/2014/12/Geminids_Art_725x572.jpg)

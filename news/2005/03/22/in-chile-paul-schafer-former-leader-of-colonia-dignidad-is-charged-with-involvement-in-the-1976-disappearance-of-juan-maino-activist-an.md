@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/22/in-chile-paul-schafer-former-leader-of-colonia-dignidad-is-charged-with-involvement-in-the-1976-disappearance-of-juan-maino-activist-an.html)  [JSON](/news/2005/03/22/in-chile-paul-schafer-former-leader-of-colonia-dignidad-is-charged-with-involvement-in-the-1976-disappearance-of-juan-maino-activist-an.json)  [XML](/news/2005/03/22/in-chile-paul-schafer-former-leader-of-colonia-dignidad-is-charged-with-involvement-in-the-1976-disappearance-of-juan-maino-activist-an.xml)  
+
 ### [2005-03-22](/news/2005/03/22/index.md)
 
+##### Chile
 #  In Chile, Paul Schfer, former leader of Colonia Dignidad, is charged with involvement in the 1976 disappearance of Juan Maino, activist and opponent of the regime of Augusto Pinochet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/4370607.stm)
 2. [Prensa Latina](http://www.plenglish.com/article.asp?ID=%7BBE959FFE-B0E8-4A11-B6E0-C54BC95D2E80%7D&language=EN)

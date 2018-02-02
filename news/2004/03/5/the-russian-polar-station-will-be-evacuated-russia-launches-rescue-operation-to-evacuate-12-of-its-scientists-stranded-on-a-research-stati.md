@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/5/the-russian-polar-station-will-be-evacuated-russia-launches-rescue-operation-to-evacuate-12-of-its-scientists-stranded-on-a-research-stati.html)  [JSON](/news/2004/03/5/the-russian-polar-station-will-be-evacuated-russia-launches-rescue-operation-to-evacuate-12-of-its-scientists-stranded-on-a-research-stati.json)  [XML](/news/2004/03/5/the-russian-polar-station-will-be-evacuated-russia-launches-rescue-operation-to-evacuate-12-of-its-scientists-stranded-on-a-research-stati.xml)  
+
 ### [2004-03-5](/news/2004/03/5/index.md)
 
+##### scientist
 #  The Russian polar station will be evacuated. Russia launches rescue operation to evacuate 12 of its scientists stranded on a research station (which partially sank) near the North Pole. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/europe/3535383.stm)
 2. [Pravda](http://newsfromrussia.com/main/2004/03/05/52656.html)

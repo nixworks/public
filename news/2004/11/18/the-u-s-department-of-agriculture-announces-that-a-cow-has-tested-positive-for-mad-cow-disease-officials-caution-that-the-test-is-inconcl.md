@@ -1,15 +1,18 @@
+
+Formats: [HTML](/news/2004/11/18/the-u-s-department-of-agriculture-announces-that-a-cow-has-tested-positive-for-mad-cow-disease-officials-caution-that-the-test-is-inconcl.html)  [JSON](/news/2004/11/18/the-u-s-department-of-agriculture-announces-that-a-cow-has-tested-positive-for-mad-cow-disease-officials-caution-that-the-test-is-inconcl.json)  [XML](/news/2004/11/18/the-u-s-department-of-agriculture-announces-that-a-cow-has-tested-positive-for-mad-cow-disease-officials-caution-that-the-test-is-inconcl.xml)  
+
 ### [2004-11-18](/news/2004/11/18/index.md)
 
+##### U.S. Department of Agriculture
 #  The U.S. Department of Agriculture announces that a cow has tested positive for mad cow disease. Officials caution that the test is inconclusive until confirmed at a lab in Ames, Iowa, but if confirmed, it will be the second case in the U.S. The agency says the disease has not entered the food chain. 
 
-Agriculture Dept reports possible new case of mad cow disease has been found in United States; agency says brain of cow tested positive three times on rapid test for presence of prions, misfolded proteins that cause disease; department considers rapid test inconclusive; results await confirmation by more complex tests; food safety expert who frequently criticizes testing program says results made it almost certain that cow was infected (M)
 
 
-### Source:
 
-1. [NY Times](http://www.nytimes.com/2004/11/19/health/19cow.html)
+### Sources:
+
+1. [NY Times](https://www.nytimes.com/2004/11/19/health/19cow.html)
 2. [Tech News World](http://www.technewsworld.com/story/Second-Case-of-Mad-Cow-Disease-in-US-38269.html)
-2. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:
 

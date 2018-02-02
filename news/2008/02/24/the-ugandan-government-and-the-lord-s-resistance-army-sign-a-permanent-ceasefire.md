@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/24/the-ugandan-government-and-the-lord-s-resistance-army-sign-a-permanent-ceasefire.html)  [JSON](/news/2008/02/24/the-ugandan-government-and-the-lord-s-resistance-army-sign-a-permanent-ceasefire.json)  [XML](/news/2008/02/24/the-ugandan-government-and-the-lord-s-resistance-army-sign-a-permanent-ceasefire.xml)  
+
 ### [2008-02-24](/news/2008/02/24/index.md)
 
+##### Uganda
 #  The Ugandan government and the Lord's Resistance Army sign a permanent ceasefire. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/africa/7260798.stm)
 

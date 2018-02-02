@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/08/10/the-interim-government-in-honduras-agrees-to-accept-a-delegation-from-the-organization-of-american-states-to-help-solve-the-political-crisi.html)  [JSON](/news/2009/08/10/the-interim-government-in-honduras-agrees-to-accept-a-delegation-from-the-organization-of-american-states-to-help-solve-the-political-crisi.json)  [XML](/news/2009/08/10/the-interim-government-in-honduras-agrees-to-accept-a-delegation-from-the-organization-of-american-states-to-help-solve-the-political-crisi.xml)  
+
 ### [2009-08-10](/news/2009/08/10/index.md)
 
+##### Honduras
 #  The interim government in Honduras agrees to accept a delegation from the Organization of American States to help solve the political crisis in the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ (AFP](http://www.google.com/hostednews/afp/article/ALeqM5g4IDuPuUbAW5czFgCZWicQpMRDMA)
 2. [CNN](http://edition.cnn.com/2009/WORLD/americas/08/10/honduras.oas/)

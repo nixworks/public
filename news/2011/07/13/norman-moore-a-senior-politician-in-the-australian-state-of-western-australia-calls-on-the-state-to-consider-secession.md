@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/13/norman-moore-a-senior-politician-in-the-australian-state-of-western-australia-calls-on-the-state-to-consider-secession.html)  [JSON](/news/2011/07/13/norman-moore-a-senior-politician-in-the-australian-state-of-western-australia-calls-on-the-state-to-consider-secession.json)  [XML](/news/2011/07/13/norman-moore-a-senior-politician-in-the-australian-state-of-western-australia-calls-on-the-state-to-consider-secession.xml)  
+
 ### [2011-07-13](/news/2011/07/13/index.md)
 
+##### Norman Moore
 # Norman Moore, a senior politician in the Australian state of Western Australia, calls on the state to consider secession. 
 
 Premier Colin Barnett has refused to back a call from one of his most senior ministers for Western Australia to consider seceding from the nation over the carbon tax and Minerals Resource Rent Tax.
 
 
-### Source:
+### Sources:
 
 1. [Western Australia Today](http://www.watoday.com.au/wa-news/senior-wa-minister-endorses-secession-to-address-broken-federal-system-20110713-1hd2n.html)
 1. [Cover Image](http://www.watoday.com.au/content/dam/images/1/h/d/2/4/image.related.articleLeadwide.620x349.1hd2n.png/1310545033367.jpg)

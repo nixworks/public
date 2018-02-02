@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/15/jamaican-authorities-impose-a-new-curfew-on-kingston.html)  [JSON](/news/2010/08/15/jamaican-authorities-impose-a-new-curfew-on-kingston.json)  [XML](/news/2010/08/15/jamaican-authorities-impose-a-new-curfew-on-kingston.xml)  
+
 ### [2010-08-15](/news/2010/08/15/index.md)
 
+##### Jamaica
 # Jamaican authorities impose a new curfew on Kingston. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/americas/2010/08/2010814221723417708.html)
 1. [Cover Image](http://www.aljazeera.com)

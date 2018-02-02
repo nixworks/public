@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/09/18/international-atomic-energy-agency-iranian-officials-give-signals-that-they-do-not-intend-to-comply-with-a-resolution-passed-by-the-united.html)  [JSON](/news/2003/09/18/international-atomic-energy-agency-iranian-officials-give-signals-that-they-do-not-intend-to-comply-with-a-resolution-passed-by-the-united.json)  [XML](/news/2003/09/18/international-atomic-energy-agency-iranian-officials-give-signals-that-they-do-not-intend-to-comply-with-a-resolution-passed-by-the-united.xml)  
+
 ### [2003-09-18](/news/2003/09/18/index.md)
 
+##### IAEA
 #  International Atomic Energy Agency: Iranian officials give signals that they do not intend to comply with a resolution passed by the United Nations's nuclear watchdog giving Tehran until the end of next month to come clean on its atomic programme. Parliamentary speaker Mehdi Karrubi, a close ally of President Mohammad Khatami, said the IAEA resolution was "political" and that "the Iranian people will not accept giving in to the logic of force."
 
 

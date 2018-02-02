@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/27/the-opposition-australian-labor-party-defeats-t
 
 ### [2016-08-27](/news/2016/08/27/index.md)
 
+##### Northern Territory general election, 2016
 #  The opposition Australian Labor Party defeats the governing Country Liberal Party in a landslide, reducing the CLP to just two seats. 
 
 Outgoing chief minister Adam Giles delivers a succinct obituary for his one-term government, which had its 2012 16-seat win cut to two seats

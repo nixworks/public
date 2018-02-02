@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/5/in-portland-oregon-a-local-election-to-establish-a-pud-that-would-investigate-public-ownership-of-portland-general-electric-failed-when-6.html)  [JSON](/news/2003/11/5/in-portland-oregon-a-local-election-to-establish-a-pud-that-would-investigate-public-ownership-of-portland-general-electric-failed-when-6.json)  [XML](/news/2003/11/5/in-portland-oregon-a-local-election-to-establish-a-pud-that-would-investigate-public-ownership-of-portland-general-electric-failed-when-6.xml)  
+
 ### [2003-11-5](/news/2003/11/5/index.md)
 
+##### Portland, Oregon
 #  In Portland, Oregon, a local election to establish a PUD that would investigate public ownership of Portland General Electric failed when 69% of the voters voted against the measure. Both Portland General Electric, an Enron subsidiary, and PacifiCorp, a subsidiary of Scottish Power contributed $1.9 million to fight the measure.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/03/18/proposed-international-trade-bans-on-polar-bears-and-bluefin-tuna-are-rejected-by-the-convention-on-international-trade-in-endangered-specie.html)  [JSON](/news/2010/03/18/proposed-international-trade-bans-on-polar-bears-and-bluefin-tuna-are-rejected-by-the-convention-on-international-trade-in-endangered-specie.json)  [XML](/news/2010/03/18/proposed-international-trade-bans-on-polar-bears-and-bluefin-tuna-are-rejected-by-the-convention-on-international-trade-in-endangered-specie.xml)  
+
 ### [2010-03-18](/news/2010/03/18/index.md)
 
+##### polar bear
 # Proposed international trade bans on polar bears and bluefin tuna are rejected by the Convention on International Trade in Endangered Species of Wild Fauna and Flora. 
 
 Proposed international trade bans on polar bears and Atlantic bluefin tuna failed to pass on Thursday at a 175-nation meeting aimed at protecting endangered species.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/sci/tech/8574775.stm)
 2. [Global Times](http://world.globaltimes.cn/europe/2010-03/514257.html)

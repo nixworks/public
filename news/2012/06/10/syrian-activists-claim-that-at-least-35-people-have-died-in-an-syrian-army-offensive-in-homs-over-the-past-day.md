@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/10/syrian-activists-claim-that-at-least-35-people-have-died-in-an-syrian-army-offensive-in-homs-over-the-past-day.html)  [JSON](/news/2012/06/10/syrian-activists-claim-that-at-least-35-people-have-died-in-an-syrian-army-offensive-in-homs-over-the-past-day.json)  [XML](/news/2012/06/10/syrian-activists-claim-that-at-least-35-people-have-died-in-an-syrian-army-offensive-in-homs-over-the-past-day.xml)  
+
 ### [2012-06-10](/news/2012/06/10/index.md)
 
+##### Syria
 # Syrian activists claim that at least 35 people have died in an Syrian Army offensive in Homs over the past day. 
 
 At least 35 people were killed in Syrian army bombardment over the last 24 hours in a renewed assault to regain control of the rural province of Homs, the epicentre of the revolt against President Bashar al-Assad, opposition activists said on Sunday.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://in.reuters.com/article/2012/06/10/syria-crisis-homs-idINDEE85904920120610)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)

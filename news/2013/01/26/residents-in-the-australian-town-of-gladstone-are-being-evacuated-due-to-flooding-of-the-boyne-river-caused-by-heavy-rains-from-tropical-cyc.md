@@ -1,25 +1,29 @@
+
+Formats: [HTML](/news/2013/01/26/residents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heavy-rains-from-tropical-cyc.html)  [JSON](/news/2013/01/26/residents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heavy-rains-from-tropical-cyc.json)  [XML](/news/2013/01/26/residents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heavy-rains-from-tropical-cyc.xml)  
+
 ### [2013-01-26](/news/2013/01/26/index.md)
 
+##### Australia
 # Residents in the Australian town of Gladstone are being evacuated due to flooding of the Boyne River caused by heavy rains from Tropical Cyclone Oswald. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via NZ Yahoo!](http://nz.sports.yahoo.com/news/gladstone-homes-risk-flooding-222020683.html)
 2. [Courier Mail](http://www.couriermail.com.au/news/queensland/southeast-queensland-expecting-up-to-300mm-of-rain-over-the-weekend-after-weather-causes-havoc-in-central-queensland/story-e6freoof-1226562163334)
-
-### Related:
-
-1. [Heavy rain caused by former Tropical Cyclone Oswald continues to cause significant flooding in the Australian state of Queensland with the capital Brisbane amongst those affected. ](/news/2013/01/27/heavy-rain-caused-by-former-tropical-cyclone-oswald-continues-to-cause-significant-flooding-in-the-australian-state-of-queensland-with-the-c.md) _Context: Australia, Tropical Cyclone Oswald_
-2. [Tropical cyclone Oswald makes landfall in Queensland, Australia, and causes widespread flooding. ](/news/2013/01/25/tropical-cyclone-oswald-makes-landfall-in-queensland-australia-and-causes-widespread-flooding.md) _Context: Australia, Tropical Cyclone Oswald_
-3. [Last year a hacker stole non-classified information about Australia's Joint Strike Fighter program and other military hardware after breaching the network of a defense contractor. ](/news/2017/10/11/last-year-a-hacker-stole-non-classified-information-about-australiaas-joint-strike-fighter-program-and-other-military-hardware-after-breac.md) _Context: Australia_
-4. [Australia and East Timor settle a dispute between the two countries in the Timor Sea. ](/news/2017/09/2/australia-and-east-timor-settle-a-dispute-between-the-two-countries-in-the-timor-sea.md) _Context: Australia_
-5. [The search for three members of the United States Marines Corps lost in a MV-22 Osprey crash in Shoalwater Bay in the Australian state of Queensland is called off. ](/news/2017/08/6/the-search-for-three-members-of-the-united-states-marines-corps-lost-in-a-mv-22-osprey-crash-in-shoalwater-bay-in-the-australian-state-of-qu.md) _Context: Australia_
 
 ### Changes:
 
 1. [2013 Queensland floods:Residents in the Australian town of Gladstone are being evacuated due to flooding of the Boyne River caused by heavy rains from Tropical Cyclone Oswald. ](/news/2013/01/26/2013-queensland-floods-presidents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heavy.md) _2017-08-25 03:37:20 (First version)_
 2. [2013 Queensland floods:: Residents in the Australian town of Gladstone are being evacuated due to flooding of the Boyne River caused by heavy rains from Tropical Cyclone Oswald. ](/news/2013/01/26/2013-queensland-floods-residents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heav.md) _2017-08-27 03:37:31 (Update)_
 2. [Residents in the Australian town of Gladstone are being evacuated due to flooding of the Boyne River caused by heavy rains from Tropical Cyclone Oswald. ](/news/2013/01/26/residents-in-the-australian-town-of-gladstone-are-being-evacuated-due-to-flooding-of-the-boyne-river-caused-by-heavy-rains-from-tropical-cyc.md) _(Current version)_
+
+### Related:
+
+1. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Australia_
+2. [In a world's first, a drone rescues two swimmers off the coast of Lennox Head, New South Wales in Australia by dropping a safety device to them. John Barilaro, the Deputy Premier of New South Wales, praises the rescue as historic. ](/news/2018/01/18/in-a-world-s-first-a-drone-rescues-two-swimmers-off-the-coast-of-lennox-head-new-south-wales-in-australia-by-dropping-a-safety-device-to-t.md) _Context: Australia_
+3. [The Parliament of Australia votes to make same-sex marriage legal in Australia. ](/news/2017/12/7/the-parliament-of-australia-votes-to-make-same-sex-marriage-legal-in-australia.md) _Context: Australia_
+4. [A large number of fireworks accidentally go off in a barge at a New Year's Day show in Terrigal, NSW, Australia, causing thousands to be evacuated from the beach by police and the two people on the barge to suffer minor injuries. ](/news/2017/12/31/a-large-number-of-fireworks-accidentally-go-off-in-a-barge-at-a-new-year-s-day-show-in-terrigal-nsw-australia-causing-thousands-to-be-eva.md) _Context: Australia_
+5. [Nineteen people are injured after a car crashes into pedestrians at the corner of Flinders Street and Elizabeth Street in Melbourne, Australia. The driver is arrested. Victoria Police believe that the incident was a "deliberate act" but not terrorism-related. ](/news/2017/12/21/nineteen-people-are-injured-after-a-car-crashes-into-pedestrians-at-the-corner-of-flinders-street-and-elizabeth-street-in-melbourne-austral.md) _Context: Australia_

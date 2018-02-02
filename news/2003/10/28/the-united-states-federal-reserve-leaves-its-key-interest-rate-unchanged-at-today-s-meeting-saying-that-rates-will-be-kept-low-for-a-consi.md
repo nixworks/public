@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/10/28/the-united-states-federal-reserve-leaves-its-key-interest-rate-unchanged-at-today-s-meeting-saying-that-rates-will-be-kept-low-for-a-consi.html)  [JSON](/news/2003/10/28/the-united-states-federal-reserve-leaves-its-key-interest-rate-unchanged-at-today-s-meeting-saying-that-rates-will-be-kept-low-for-a-consi.json)  [XML](/news/2003/10/28/the-united-states-federal-reserve-leaves-its-key-interest-rate-unchanged-at-today-s-meeting-saying-that-rates-will-be-kept-low-for-a-consi.xml)  
+
 ### [2003-10-28](/news/2003/10/28/index.md)
 
+##### Federal Reserve
 #  The United States Federal Reserve leaves its key interest rate unchanged at today's meeting, saying that rates will be kept low for a considerable period.
 
 

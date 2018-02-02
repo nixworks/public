@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/08/18/voters-in-the-maldives-go-to-the-polls-in-a-constitutional-referendum-to-decide-between-a-presidential-or-parliamentary-system-of-governmen.html)  [JSON](/news/2007/08/18/voters-in-the-maldives-go-to-the-polls-in-a-constitutional-referendum-to-decide-between-a-presidential-or-parliamentary-system-of-governmen.json)  [XML](/news/2007/08/18/voters-in-the-maldives-go-to-the-polls-in-a-constitutional-referendum-to-decide-between-a-presidential-or-parliamentary-system-of-governmen.xml)  
+
 ### [2007-08-18](/news/2007/08/18/index.md)
 
+##### Maldives
 #  Voters in the Maldives go to the polls in a constitutional referendum to decide between a presidential or parliamentary system of government. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/convergence/ndtv/story.aspx?id=NEWEN20070023058)
 

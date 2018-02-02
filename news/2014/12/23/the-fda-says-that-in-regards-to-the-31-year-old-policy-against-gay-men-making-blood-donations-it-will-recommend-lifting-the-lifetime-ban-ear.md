@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/23/the-fda-says-that-in-regards-to-the-31-year-old-policy-against-gay-men-making-blood-donations-it-will-recommend-lifting-the-lifetime-ban-ear.html)  [JSON](/news/2014/12/23/the-fda-says-that-in-regards-to-the-31-year-old-policy-against-gay-men-making-blood-donations-it-will-recommend-lifting-the-lifetime-ban-ear.json)  [XML](/news/2014/12/23/the-fda-says-that-in-regards-to-the-31-year-old-policy-against-gay-men-making-blood-donations-it-will-recommend-lifting-the-lifetime-ban-ear.xml)  
+
 ### [2014-12-23](/news/2014/12/23/index.md)
 
+##### Food and Drug Administration
 # The FDA says that in regards to the 31-year-old policy against gay men making blood donations it will recommend lifting the lifetime ban early next year, replacing it with a policy barring donations from men who have had sex with another man in the previous 12 months. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://bigstory.ap.org/article/c2680506d7a1448a928bf77ca4654a46/fda-ease-ban-blood-donations-gay-men)
 

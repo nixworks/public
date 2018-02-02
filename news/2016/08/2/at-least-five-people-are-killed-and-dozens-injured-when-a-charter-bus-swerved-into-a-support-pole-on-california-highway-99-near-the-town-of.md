@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/2/at-least-five-people-are-killed-and-dozens-injur
 
 ### [2016-08-2](/news/2016/08/2/index.md)
 
+##### California Highway 99
 # At least five people are killed and dozens injured when a charter bus swerved into a support pole on California Highway 99 near the town of Livingston in Merced County. The bus was headed to Pasco, Washington. 
 
 The charter bus swerved into a support pole, apparently at full speed, and trapped some of the injured in their seats for hours.

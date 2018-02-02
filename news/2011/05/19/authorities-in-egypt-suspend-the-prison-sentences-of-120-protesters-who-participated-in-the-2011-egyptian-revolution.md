@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/19/authorities-in-egypt-suspend-the-prison-sentences-of-120-protesters-who-participated-in-the-2011-egyptian-revolution.html)  [JSON](/news/2011/05/19/authorities-in-egypt-suspend-the-prison-sentences-of-120-protesters-who-participated-in-the-2011-egyptian-revolution.json)  [XML](/news/2011/05/19/authorities-in-egypt-suspend-the-prison-sentences-of-120-protesters-who-participated-in-the-2011-egyptian-revolution.xml)  
+
 ### [2011-05-19](/news/2011/05/19/index.md)
 
+##### Egypt
 # Authorities in Egypt suspend the prison sentences of 120 protesters who participated in the 2011 Egyptian revolution. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CTV](http://edmonton.ctv.ca/servlet/an/local/CTVNews/20110519/egypt-military-suspends-protesters-sentences-110519/20110519/?hub=EdmontonHome)
 

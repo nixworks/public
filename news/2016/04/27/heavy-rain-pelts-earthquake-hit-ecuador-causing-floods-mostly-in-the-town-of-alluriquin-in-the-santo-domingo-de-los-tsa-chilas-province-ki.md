@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/27/heavy-rain-pelts-earthquake-hit-ecuador-causing
 
 ### [2016-04-27](/news/2016/04/27/index.md)
 
+##### earthquake
 # Heavy rain pelts earthquake-hit Ecuador causing floods, mostly in the town of Alluriquin in the Santo Domingo de los Tsachilas Province, killing at least four people and injuring several more. About 300 people have been affected by the floods after a local river burst its banks, engulfing the town with water. 
 
 Torrential downpours cause flooding in the Parish of Alluriquin, affecting hundreds of people.

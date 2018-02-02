@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/14/the-us-15th-most-wanted-fugitive-vincent-walters-is-apprehended-in-cancaon-mexico.html)  [JSON](/news/2012/07/14/the-us-15th-most-wanted-fugitive-vincent-walters-is-apprehended-in-cancaon-mexico.json)  [XML](/news/2012/07/14/the-us-15th-most-wanted-fugitive-vincent-walters-is-apprehended-in-cancaon-mexico.xml)  
+
 ### [2012-07-14](/news/2012/07/14/index.md)
 
+##### 15th most wanted fugitive
 # The US' 15th most wanted fugitive, Vincent Walters, is apprehended in Cancun, Mexico. 
 
 After 24 years of searching, authorities in San Diego located and apprehended their fifteenth most wanted fugitive.
 
 
-### Source:
+### Sources:
 
 1. [NBC San Diego](http://www.nbcsandiego.com/news/local/15th-Most-Wanted-Fugitives-Captured-in-Mexico-162429526.html)
 1. [Cover Image](http://media.nbcsandiego.com/images/1200*675/FugitiveCaught_0713+copy.jpg)

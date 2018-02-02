@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/12/17/police-in-west-java-indonesia-say-that-they-have-found-nine-home-made-bombs-on-a-bus-during-a-security-operation.html)  [JSON](/news/2004/12/17/police-in-west-java-indonesia-say-that-they-have-found-nine-home-made-bombs-on-a-bus-during-a-security-operation.json)  [XML](/news/2004/12/17/police-in-west-java-indonesia-say-that-they-have-found-nine-home-made-bombs-on-a-bus-during-a-security-operation.xml)  
+
 ### [2004-12-17](/news/2004/12/17/index.md)
 
+##### West Java
 #  Police in West Java, Indonesia, say that they have found nine home-made bombs on a bus during a security operation. 
 
 Channel NewsAsia - Breaking News, Asia-Pacific news coverage from Channel NewsAsia featuring Business, World, Sport, Entertainment, Technology, Health, Lifestyle and Live Streaming.
 
 
-### Source:
+### Sources:
 
 1. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/122768/1/.html)
 2. [Jakarta Post](http://www.thejakartapost.com/detaillatestnews.asp?fileid=20041217124541&irec=4)

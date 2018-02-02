@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/05/1/darfur-conflict-the-african-union-extends-the-deadline-for-a-peace-deal-by-48-hours.html)  [JSON](/news/2006/05/1/darfur-conflict-the-african-union-extends-the-deadline-for-a-peace-deal-by-48-hours.json)  [XML](/news/2006/05/1/darfur-conflict-the-african-union-extends-the-deadline-for-a-peace-deal-by-48-hours.xml)  
+
 ### [2006-05-1](/news/2006/05/1/index.md)
 
+##### Darfur conflict
 #  Darfur conflict: The African Union extends the deadline for a peace deal by 48 hours. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4961342.stm)
 2. [Reuters](http://today.reuters.com/news/articlenews.aspx?type=worldNews&storyid=2006-05-01T012354Z_01_L29362184_RTRUKOC_0_US-SUDAN-DARFUR.xml)

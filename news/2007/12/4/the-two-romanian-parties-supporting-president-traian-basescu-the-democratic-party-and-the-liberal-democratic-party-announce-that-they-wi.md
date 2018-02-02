@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/12/4/the-two-romanian-parties-supporting-president-traian-basescu-the-democratic-party-and-the-liberal-democratic-party-announce-that-they-wi.html)  [JSON](/news/2007/12/4/the-two-romanian-parties-supporting-president-traian-basescu-the-democratic-party-and-the-liberal-democratic-party-announce-that-they-wi.json)  [XML](/news/2007/12/4/the-two-romanian-parties-supporting-president-traian-basescu-the-democratic-party-and-the-liberal-democratic-party-announce-that-they-wi.xml)  
+
 ### [2007-12-4](/news/2007/12/4/index.md)
 
+##### Romania
 #  The two Romanian parties supporting President Traian Basescu, the Democratic Party and the Liberal Democratic Party, announce that they will merge to form the Democratic Liberal Party in January 2008. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Earth Times](http://www.earthtimes.org/articles/show/152563.html)
 

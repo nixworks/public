@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/9/the-texas-senate-approves-legislation-containing-an-amendment-allowing-university-students-in-the-us-state-of-texas-to-carry-handguns-on-cam.html)  [JSON](/news/2011/05/9/the-texas-senate-approves-legislation-containing-an-amendment-allowing-university-students-in-the-us-state-of-texas-to-carry-handguns-on-cam.json)  [XML](/news/2011/05/9/the-texas-senate-approves-legislation-containing-an-amendment-allowing-university-students-in-the-us-state-of-texas-to-carry-handguns-on-cam.xml)  
+
 ### [2011-05-9](/news/2011/05/9/index.md)
 
+##### Texas Senate
 # The Texas Senate approves legislation containing an amendment allowing university students in the US state of Texas to carry handguns on campus. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Dallas Morning News](http://trailblazersblog.dallasnews.com/archives/2011/05/senate-approves-handguns-on-ca.html)
 

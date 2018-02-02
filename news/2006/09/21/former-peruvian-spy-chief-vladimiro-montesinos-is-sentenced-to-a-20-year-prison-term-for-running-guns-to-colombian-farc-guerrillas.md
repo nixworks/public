@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/21/former-peruvian-spy-chief-vladimiro-montesinos-is-sentenced-to-a-20-year-prison-term-for-running-guns-to-colombian-farc-guerrillas.html)  [JSON](/news/2006/09/21/former-peruvian-spy-chief-vladimiro-montesinos-is-sentenced-to-a-20-year-prison-term-for-running-guns-to-colombian-farc-guerrillas.json)  [XML](/news/2006/09/21/former-peruvian-spy-chief-vladimiro-montesinos-is-sentenced-to-a-20-year-prison-term-for-running-guns-to-colombian-farc-guerrillas.xml)  
+
 ### [2006-09-21](/news/2006/09/21/index.md)
 
+##### Peru
 #  Former Peruvian spy chief Vladimiro Montesinos is sentenced to a 20-year prison term for running guns to Colombian FARC guerrillas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/5369982.stm)
 

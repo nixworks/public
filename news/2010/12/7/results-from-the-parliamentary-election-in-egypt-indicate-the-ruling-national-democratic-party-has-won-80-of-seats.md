@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/7/results-from-the-parliamentary-election-in-egypt-indicate-the-ruling-national-democratic-party-has-won-80-of-seats.html)  [JSON](/news/2010/12/7/results-from-the-parliamentary-election-in-egypt-indicate-the-ruling-national-democratic-party-has-won-80-of-seats.json)  [XML](/news/2010/12/7/results-from-the-parliamentary-election-in-egypt-indicate-the-ruling-national-democratic-party-has-won-80-of-seats.xml)  
+
 ### [2010-12-7](/news/2010/12/7/index.md)
 
+##### Egyptian parliamentary elections
 # Results from the parliamentary election in Egypt indicate the ruling National Democratic Party has won 80% of seats. 
 
 Results indicate ruling party takes 80 per cent of parliament seats, which the opposition parties denounce as rigged.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://english.aljazeera.net/news/middleeast/2010/12/201012713823950829.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2010/12/7/20101272194144580_20.jpg)

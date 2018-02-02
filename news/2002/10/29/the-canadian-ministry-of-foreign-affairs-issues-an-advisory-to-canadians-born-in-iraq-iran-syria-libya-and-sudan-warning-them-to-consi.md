@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/10/29/the-canadian-ministry-of-foreign-affairs-issues-an-advisory-to-canadians-born-in-iraq-iran-syria-libya-and-sudan-warning-them-to-consi.html)  [JSON](/news/2002/10/29/the-canadian-ministry-of-foreign-affairs-issues-an-advisory-to-canadians-born-in-iraq-iran-syria-libya-and-sudan-warning-them-to-consi.json)  [XML](/news/2002/10/29/the-canadian-ministry-of-foreign-affairs-issues-an-advisory-to-canadians-born-in-iraq-iran-syria-libya-and-sudan-warning-them-to-consi.xml)  
+
 ### [2002-10-29](/news/2002/10/29/index.md)
 
+##### Iraq
 #  The Canadian ministry of foreign affairs issues an advisory to Canadians born in Iraq, Iran, Syria, Libya, and Sudan warning them to "consider carefully" whether to go to the United States for "any reason". This follows a US law requiring photos and fingerprints of Canadian citizens born in those countries upon entering the US, as well as the deportation to Syria of Maher Arar, a Canadian citizen. The American ambassador, Paul Cellucci, later assures the Canadian government that all Canadian passport holders will be treated equally; however, further incidents attributed to racial profiling take place.
 
 

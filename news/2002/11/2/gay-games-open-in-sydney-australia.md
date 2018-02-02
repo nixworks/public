@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/11/2/gay-games-open-in-sydney-australia.html)  [JSON](/news/2002/11/2/gay-games-open-in-sydney-australia.json)  [XML](/news/2002/11/2/gay-games-open-in-sydney-australia.xml)  
+
 ### [2002-11-2](/news/2002/11/2/index.md)
 
+##### Gay Games
 #  Gay Games open in Sydney, Australia.
 
 

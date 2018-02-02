@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/29/the-ruling-democratic-party-of-japan-selects-a-replacement-for-naoto-kan-as-party-leader-and-prime-minister-of-japan-with-current-minister-o.html)  [JSON](/news/2011/08/29/the-ruling-democratic-party-of-japan-selects-a-replacement-for-naoto-kan-as-party-leader-and-prime-minister-of-japan-with-current-minister-o.json)  [XML](/news/2011/08/29/the-ruling-democratic-party-of-japan-selects-a-replacement-for-naoto-kan-as-party-leader-and-prime-minister-of-japan-with-current-minister-o.xml)  
+
 ### [2011-08-29](/news/2011/08/29/index.md)
 
+##### Democratic Party
 # The ruling Democratic Party of Japan selects a replacement for Naoto Kan as party leader and Prime Minister of Japan with current Minister of Finance Yoshihiko Noda winning the ballot. 
 
 Five aspiring prime ministers re each making 15-minute remarks before the ruling Democratic Party of Japan before voting is expected to begin at noon.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://ca.reuters.com/article/topNews/idCATRE77R0CS20110829)
 2. [The Australian](http://www.theaustralian.com.au/news/world/leadership-ballot-seals-yoshiko-noda-as-new-pm-for-japan/story-e6frg6so-1226124639570)

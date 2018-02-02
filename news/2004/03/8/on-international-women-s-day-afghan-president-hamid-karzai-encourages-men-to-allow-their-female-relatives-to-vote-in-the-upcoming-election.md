@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/03/8/on-international-women-s-day-afghan-president-hamid-karzai-encourages-men-to-allow-their-female-relatives-to-vote-in-the-upcoming-election.html)  [JSON](/news/2004/03/8/on-international-women-s-day-afghan-president-hamid-karzai-encourages-men-to-allow-their-female-relatives-to-vote-in-the-upcoming-election.json)  [XML](/news/2004/03/8/on-international-women-s-day-afghan-president-hamid-karzai-encourages-men-to-allow-their-female-relatives-to-vote-in-the-upcoming-election.xml)  
+
 ### [2004-03-8](/news/2004/03/8/index.md)
 
+##### International Women's Day
 #  On International Women's Day, Afghan President Hamid Karzai encourages men to allow their female relatives to vote in the upcoming election, but also suggests that they control those votes. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Toronto Star](http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1078744310270&call_pageid=968332188492&col=968705899037)
+1. [Toronto Star](https://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Layout/Article_Type1&c=Article&cid=1078744310270&call_pageid=968332188492&col=968705899037)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/3/voters-in-the-u-s-state-of-iowa-go-to-the-polls-for-electoral-caucuses-with-mitt-romney-defeating-rick-santorum-by-8-votes-in-the-republic.html)  [JSON](/news/2012/01/3/voters-in-the-u-s-state-of-iowa-go-to-the-polls-for-electoral-caucuses-with-mitt-romney-defeating-rick-santorum-by-8-votes-in-the-republic.json)  [XML](/news/2012/01/3/voters-in-the-u-s-state-of-iowa-go-to-the-polls-for-electoral-caucuses-with-mitt-romney-defeating-rick-santorum-by-8-votes-in-the-republic.xml)  
+
 ### [2012-01-3](/news/2012/01/3/index.md)
 
+##### U.S. state
 # Voters in the U.S. state of Iowa go to the polls for electoral caucuses, with Mitt Romney defeating Rick Santorum by 8 votes in the Republican Party contest, and Ron Paul following in third place. 
 
 Rick Santorum&rsquo;s supporters eyed the TV screen, watched the returns roll in - and they still couldn&rsquo;t quite believe it. &ldquo;This is beyond my wildest dreams, &ldquo; exclaimed...
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-16388354)
 2. [Los Angeles Times](http://www.latimes.com/news/politics/la-pn-santorum-supporters-watch-iowa-caucus-returns-in-disbelief-20120103,0,4892267.story)

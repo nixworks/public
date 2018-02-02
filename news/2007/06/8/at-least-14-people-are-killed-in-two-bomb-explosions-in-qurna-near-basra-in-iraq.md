@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/8/at-least-14-people-are-killed-in-two-bomb-explosions-in-qurna-near-basra-in-iraq.html)  [JSON](/news/2007/06/8/at-least-14-people-are-killed-in-two-bomb-explosions-in-qurna-near-basra-in-iraq.json)  [XML](/news/2007/06/8/at-least-14-people-are-killed-in-two-bomb-explosions-in-qurna-near-basra-in-iraq.xml)  
+
 ### [2007-06-8](/news/2007/06/8/index.md)
 
+##### bomb
 #  At least 14 people are killed in two bomb explosions in Qurna near Basra in Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6732999.stm)
 

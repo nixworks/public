@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/03/31/marburg-virus-death-toll-in-angola-rises-to-127.html)  [JSON](/news/2005/03/31/marburg-virus-death-toll-in-angola-rises-to-127.json)  [XML](/news/2005/03/31/marburg-virus-death-toll-in-angola-rises-to-127.xml)  
+
 ### [2005-03-31](/news/2005/03/31/index.md)
 
+##### Marburg virus
 #  Marburg virus death toll in Angola rises to 127 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AllAfrica](http://allafrica.com/stories/200503310608.html)
 2. [IOL](http://www.iol.co.za/index.php?set_id=1&click_id=84&art_id=qw1112275801430B252)

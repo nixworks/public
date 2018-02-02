@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/28/hillary-clinton-accepts-her-party-s-nomination-
 
 ### [2016-07-28](/news/2016/07/28/index.md)
 
+##### 2016 Democratic National Convention
 # Hillary Clinton accepts her party's nomination as the candidate for this year's presidential election. 
 
 Mrs. Clinton urged voters to unite against the divisive policy ideas and combative politics of Donald J. Trump.

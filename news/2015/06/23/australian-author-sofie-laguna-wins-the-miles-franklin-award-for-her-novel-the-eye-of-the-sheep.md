@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/23/australian-author-sofie-laguna-wins-the-miles-franklin-award-for-her-novel-the-eye-of-the-sheep.html)  [JSON](/news/2015/06/23/australian-author-sofie-laguna-wins-the-miles-franklin-award-for-her-novel-the-eye-of-the-sheep.json)  [XML](/news/2015/06/23/australian-author-sofie-laguna-wins-the-miles-franklin-award-for-her-novel-the-eye-of-the-sheep.xml)  
+
 ### [2015-06-23](/news/2015/06/23/index.md)
 
+##### Australian
 # Australian author Sofie Laguna wins the Miles Franklin Award for her novel "The Eye of the Sheep". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News Australia](http://www.abc.net.au/news/2015-06-23/sofie-laguna-wins-miles-franklin-literary-award/6568424)
 1. [Cover Image](http://www.abc.net.au/news/image/6568500-1x1-700x700.jpg)

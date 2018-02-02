@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/11/8/a-1-year-old-from-london-with-acute-lymphoblastic-leukemia-who-had-undergone-myriads-of-unsuccessful-treatments-since-she-was-14-weeks-old-i.html)  [JSON](/news/2015/11/8/a-1-year-old-from-london-with-acute-lymphoblastic-leukemia-who-had-undergone-myriads-of-unsuccessful-treatments-since-she-was-14-weeks-old-i.json)  [XML](/news/2015/11/8/a-1-year-old-from-london-with-acute-lymphoblastic-leukemia-who-had-undergone-myriads-of-unsuccessful-treatments-since-she-was-14-weeks-old-i.xml)  
+
 ### [2015-11-8](/news/2015/11/8/index.md)
 
+##### London
 # A 1-year-old from London with acute lymphoblastic leukemia who had undergone myriads of unsuccessful treatments since she was 14 weeks old is in remission thanks to gene-editing technology, used for just the second time, that allowed her to receive modified immune cells from another person. 
 
 Five months ago, Layla Richards&apos;s parents were told that their infant daughter was about to die.
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/learning/easy/758976/miracle-treatment-saves-baby-cancer-victim)
 2. [Chicago Tribune](http://www.chicagotribune.com/news/nationworld/ct-leukemia-cell-treatment-20151106-story.html)
@@ -14,8 +18,8 @@ Five months ago, Layla Richards&apos;s parents were told that their infant daugh
 
 ### Related:
 
-1. [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver but later released him. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md) _Context: London_
-2. [The New York Police Department and London's Metropolitan Police Service open investigations into alleged sexual assault allegations against the American film producer Harvey Weinstein. ](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.md) _Context: London_
-3. [The journal "Protein & Cell" publishes Sun Yat-sen University research describing the use of gene therapy in the removal of a version of the inherited blood disorder beta-thalassemia from an artificially-created nuclear transfer-type of cloning-model system of human oocytes. Collectively, this study demonstrated the feasibility of curing this and a range of other inherited diseases using the same genome editing technology of CRISPR. ](/news/2017/09/29/the-journal-protein-cell-publishes-sun-yat-sen-university-research-describing-the-use-of-gene-therapy-in-the-removal-of-a-version-of-the.md) _Context: genome editing_
-4. [Kulsoom Nawaz Sharif, wife of ousted former Prime Minister Nawaz Sharif, defeats the opposition party's Yasmin Rashid in the by-election for Nawaz Sharif's National Assembly seat. Kulsoom, represented by her daughter and proxy Maryam, is being treated in London for cancer. ](/news/2017/09/17/kulsoom-nawaz-sharif-wife-of-ousted-former-prime-minister-nawaz-sharif-defeats-the-opposition-party-s-yasmin-rashid-in-the-by-election-for.md) _Context: London_
-5. [A fire at the 79-story Dubai Torch Tower in the United Arab Emirates, which forced nighttime evacuations, was under control in a few hours with no serious injuries immediately reported. The building's exterior was still being renovated from a fire in February, 2015, which investigators had blamed, at least in part, to flammable siding, echoing the findings of this past June's Grenfell Tower fire in London. ](/news/2017/08/4/a-fire-at-the-79-story-dubai-torch-tower-in-the-united-arab-emirates-which-forced-nighttime-evacuations-was-under-control-in-a-few-hours-w.md) _Context: London_
+1. [Senior politicians express outrage after an investigative report by the "Financial Times" on groping practices at a Dorchester hotel charity gala held by the London-based Presidents Club old boy network. Boris Johnson and Mark Carney both deny knowing that their lunch or tea time was sold as lots in the club's charitable auction. ](/news/2018/01/24/senior-politicians-express-outrage-after-an-investigative-report-by-the-financial-times-on-groping-practices-at-a-dorchester-hotel-charity.md) _Context: London_
+2. [It is revealed that Ecuador granted citizenship to Julian Assange. Ecuador granted him asylum in August 2012 and he has remained in the Embassy of Ecuador in London avoiding extradition to Sweden on rape charges. Subsequently, Swedish authorities dropped the charges in May 2017. ](/news/2018/01/11/it-is-revealed-that-ecuador-granted-citizenship-to-julian-assange-ecuador-granted-him-asylum-in-august-2012-and-he-has-remained-in-the-emba.md) _Context: London_
+3. [After the United Kingdom withdrawal from the European Union referendum, the European Medicines Agency (EMA) will relocate to Amsterdam and the European Banking Authority (EBA) to Paris from London. ](/news/2017/11/20/after-the-united-kingdom-withdrawal-from-the-european-union-referendum-the-european-medicines-agency-ema-will-relocate-to-amsterdam-and-t.md) _Context: London_
+4. [A car mounts the pedestrian sidewalk near the Natural History Museum on Exhibition Road, and injures 11 people. London police believe the incident is not terror related. They arrested the driver but later released him. ](/news/2017/10/7/a-car-mounts-the-pedestrian-sidewalk-near-the-natural-history-museum-on-exhibition-road-and-injures-11-people-london-police-believe-the-in.md) _Context: London_
+5. [The New York Police Department and London's Metropolitan Police Service open investigations into alleged sexual assault allegations against the American film producer Harvey Weinstein. ](/news/2017/10/12/the-new-york-police-department-and-london-s-metropolitan-police-service-open-investigations-into-alleged-sexual-assault-allegations-against.md) _Context: London_

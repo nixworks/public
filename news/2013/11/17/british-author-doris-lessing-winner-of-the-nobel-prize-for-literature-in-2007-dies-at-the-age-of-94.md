@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/11/17/british-author-doris-lessing-winner-of-the-nobel-prize-for-literature-in-2007-dies-at-the-age-of-94.html)  [JSON](/news/2013/11/17/british-author-doris-lessing-winner-of-the-nobel-prize-for-literature-in-2007-dies-at-the-age-of-94.json)  [XML](/news/2013/11/17/british-author-doris-lessing-winner-of-the-nobel-prize-for-literature-in-2007-dies-at-the-age-of-94.xml)  
+
 ### [2013-11-17](/news/2013/11/17/index.md)
 
+##### Doris Lessing
 # British author Doris Lessing, winner of the Nobel Prize for Literature in 2007, dies at the age of 94. 
 
 Doris Lessing, the Nobel Laureate author of The Golden Notebook and The Grass is Singing, has died aged 94.
 
 
-### Source:
+### Sources:
 
-1. [The Independent](http://www.independent.co.uk/news/uk/home-news/british-nobel-laureate-author-doris-lessing-dies-aged-94-8945343.html)
+1. [The Independent](https://www.independent.co.uk/news/uk/home-news/british-nobel-laureate-author-doris-lessing-dies-aged-94-8945343.html)
 1. [Cover Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/11/17/15/doris-lessing-getty.jpg)
 
 ### Related:

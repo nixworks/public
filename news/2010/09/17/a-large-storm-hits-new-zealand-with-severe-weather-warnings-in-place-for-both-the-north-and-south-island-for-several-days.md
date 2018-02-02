@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/17/a-large-storm-hits-new-zealand-with-severe-weather-warnings-in-place-for-both-the-north-and-south-island-for-several-days.html)  [JSON](/news/2010/09/17/a-large-storm-hits-new-zealand-with-severe-weather-warnings-in-place-for-both-the-north-and-south-island-for-several-days.json)  [XML](/news/2010/09/17/a-large-storm-hits-new-zealand-with-severe-weather-warnings-in-place-for-both-the-north-and-south-island-for-several-days.xml)  
+
 ### [2010-09-17](/news/2010/09/17/index.md)
 
+##### New Zealand
 # A large storm hits New Zealand with severe weather warnings in place for both the North and South Island for several days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AAP via Bigpond News](http://bigpondnews.com/articles/World/2010/09/17/NZ_braces_for_Aussie-sized_storm_514529.html)
 2. [MSN NZ](http://news.msn.co.nz/article/7963009/gigantic-storm-hits-new-zealand)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/10/2/osce-observers-who-are-monitoring-a-ceasefire-in-eastern-ukraine-between-the-ukrainian-military-and-pro-russian-rebels-reported-the-presenc.html)  [JSON](/news/2015/10/2/osce-observers-who-are-monitoring-a-ceasefire-in-eastern-ukraine-between-the-ukrainian-military-and-pro-russian-rebels-reported-the-presenc.json)  [XML](/news/2015/10/2/osce-observers-who-are-monitoring-a-ceasefire-in-eastern-ukraine-between-the-ukrainian-military-and-pro-russian-rebels-reported-the-presenc.xml)  
+
 ### [2015-10-2](/news/2015/10/2/index.md)
 
+##### War in Donbass
 # OSCE observers who are monitoring a ceasefire in eastern Ukraine between the Ukrainian military and pro-Russian rebels, reported the presence of a new Russian weapons system in rebel-held territory this week, the 'TOS-1 Buratino' is a thermobaric multiple rocket launcher system which can destroy several city blocks in one strike and cause indiscriminate damage. Only Russia produces the system and it was not exported to Ukraine before the conflict broke out. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2015/10/02/uk-ukraine-crisis-russia-idUKKCN0RW0UP20151002)
 1. [Cover Image](http://s2.reutersmedia.net/resources/r/?m=02&d=20151002&t=2&i=1084012365&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEB910QE)

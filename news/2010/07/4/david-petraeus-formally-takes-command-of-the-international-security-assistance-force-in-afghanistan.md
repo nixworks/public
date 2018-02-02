@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/4/david-petraeus-formally-takes-command-of-the-international-security-assistance-force-in-afghanistan.html)  [JSON](/news/2010/07/4/david-petraeus-formally-takes-command-of-the-international-security-assistance-force-in-afghanistan.json)  [XML](/news/2010/07/4/david-petraeus-formally-takes-command-of-the-international-security-assistance-force-in-afghanistan.xml)  
+
 ### [2010-07-4](/news/2010/07/4/index.md)
 
+##### David Petraeus
 # David Petraeus formally takes command of the International Security Assistance Force in Afghanistan. 
 
 American Gen. David Petraeus formally assumes command of the 130,000-strong international force in Afghanistan.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/south_asia/10500419.stm)
 2. [CBC](http://www.cbc.ca/world/story/2010/07/03/petraeus-afghanistan.html)

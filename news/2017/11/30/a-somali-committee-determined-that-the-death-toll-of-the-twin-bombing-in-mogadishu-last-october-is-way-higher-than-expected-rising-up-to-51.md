@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/30/a-somali-committee-determined-that-the-death-to
 
 ### [2017-11-30](/news/2017/11/30/index.md)
 
+##### 14 October 2017 Mogadishu bombings
 # A Somali committee determined that the death toll of the twin bombing in Mogadishu last October is way higher than expected, rising up to 512. This makes the attack the third-deadliest terrorist attack worldwide. 
 
 More than 500 people were killed in twin bomb blasts in Mogadishu in October, a Somali committee looking into the attack said on Thursday, raising the death toll from at least 358.

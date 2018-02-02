@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/19/an-agreement-is-reached-between-mongolian-gover
 
 ### [2017-02-19](/news/2017/02/19/index.md)
 
+##### Mongolia's economy
 # An agreement is reached between Mongolian government representatives and the International Monetary Fund and other international partners on a three-year, $5.5 billion economic stabilization package. 
 
  Mongolia has agreed with the International Monetary Fund and other partners for a $5.5 billion economic stabilization package, according to a statement from th

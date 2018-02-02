@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/01/21/the-river-thames-whale-dies-during-a-rescue-attempt.html)  [JSON](/news/2006/01/21/the-river-thames-whale-dies-during-a-rescue-attempt.json)  [XML](/news/2006/01/21/the-river-thames-whale-dies-during-a-rescue-attempt.xml)  
+
 ### [2006-01-21](/news/2006/01/21/index.md)
 
+##### River Thames whale
 #  The "River Thames whale" dies during a rescue attempt. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/england/london/4635874.stm)
 

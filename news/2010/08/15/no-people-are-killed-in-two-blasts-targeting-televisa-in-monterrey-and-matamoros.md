@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/08/15/no-people-are-killed-in-two-blasts-targeting-televisa-in-monterrey-and-matamoros.html)  [JSON](/news/2010/08/15/no-people-are-killed-in-two-blasts-targeting-televisa-in-monterrey-and-matamoros.json)  [XML](/news/2010/08/15/no-people-are-killed-in-two-blasts-targeting-televisa-in-monterrey-and-matamoros.xml)  
+
 ### [2010-08-15](/news/2010/08/15/index.md)
 
+##### Televisa
 # No people are killed in two blasts targeting Televisa in Monterrey and Matamoros. 
 
 Mexican television network Televisa is targeted in explosive attacks in two different cities.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-10982203)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

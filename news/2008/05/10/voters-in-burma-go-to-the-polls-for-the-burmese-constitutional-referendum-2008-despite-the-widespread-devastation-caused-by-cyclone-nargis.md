@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/10/voters-in-burma-go-to-the-polls-for-the-burmese-constitutional-referendum-2008-despite-the-widespread-devastation-caused-by-cyclone-nargis.html)  [JSON](/news/2008/05/10/voters-in-burma-go-to-the-polls-for-the-burmese-constitutional-referendum-2008-despite-the-widespread-devastation-caused-by-cyclone-nargis.json)  [XML](/news/2008/05/10/voters-in-burma-go-to-the-polls-for-the-burmese-constitutional-referendum-2008-despite-the-widespread-devastation-caused-by-cyclone-nargis.xml)  
+
 ### [2008-05-10](/news/2008/05/10/index.md)
 
+##### Burma
 #  Voters in Burma go to the polls for the Burmese constitutional referendum, 2008 despite the widespread devastation caused by Cyclone Nargis with widespread concerns about the legitimacy of the process. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7393058.stm)
 

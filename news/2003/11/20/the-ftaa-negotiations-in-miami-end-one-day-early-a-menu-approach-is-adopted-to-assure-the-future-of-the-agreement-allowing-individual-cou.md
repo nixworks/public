@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/20/the-ftaa-negotiations-in-miami-end-one-day-early-a-menu-approach-is-adopted-to-assure-the-future-of-the-agreement-allowing-individual-cou.html)  [JSON](/news/2003/11/20/the-ftaa-negotiations-in-miami-end-one-day-early-a-menu-approach-is-adopted-to-assure-the-future-of-the-agreement-allowing-individual-cou.json)  [XML](/news/2003/11/20/the-ftaa-negotiations-in-miami-end-one-day-early-a-menu-approach-is-adopted-to-assure-the-future-of-the-agreement-allowing-individual-cou.xml)  
+
 ### [2003-11-20](/news/2003/11/20/index.md)
 
+##### FTAA
 #  The FTAA negotiations in Miami end one day early; a menu approach is adopted to assure the future of the agreement, allowing individual countries to opt out of controversial or unacceptable provisions. Between 10,000 and 25,000 protestors demonstrate outside the conference center; the police use rubber bullets, and over 100 people are arrested.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/02/21/singapore-is-elected-by-the-international-olympic-committee-as-the-first-city-to-host-the-youth-olympic-games-in-2010.html)  [JSON](/news/2008/02/21/singapore-is-elected-by-the-international-olympic-committee-as-the-first-city-to-host-the-youth-olympic-games-in-2010.json)  [XML](/news/2008/02/21/singapore-is-elected-by-the-international-olympic-committee-as-the-first-city-to-host-the-youth-olympic-games-in-2010.xml)  
+
 ### [2008-02-21](/news/2008/02/21/index.md)
 
+##### Singapore
 #  Singapore is elected by the International Olympic Committee as the first city to host the Youth Olympic Games in 2010. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [IOC](http://www.olympic.org/uk/news/olympic_news/full_story_uk.asp?id=2491)
 

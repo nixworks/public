@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/11/30/president-elect-donald-trump-announces-that-his
 
 ### [2016-11-30](/news/2016/11/30/index.md)
 
+##### Presidential transition of Donald Trump
 # President-elect Donald Trump announces that his team has made a deal with Carrier Corporation that would save around 1,000 jobs at an Indiana factory. Carrier had planned to move production from a key factory in that state to Nuevo Leon, Mexico. 
 
 Reversing a plan the president-elect had assailed, the company will keep roughly half of the 2,000 manufacturing jobs in Indiana that it was to shift to Mexico.

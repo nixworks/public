@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/04/24/the-pentagon-is-to-set-up-the-defense-clandestine-service-is-intended-to-focus-on-the-challenges-posed-to-u-s-interests-by-countries-such-a.html)  [JSON](/news/2012/04/24/the-pentagon-is-to-set-up-the-defense-clandestine-service-is-intended-to-focus-on-the-challenges-posed-to-u-s-interests-by-countries-such-a.json)  [XML](/news/2012/04/24/the-pentagon-is-to-set-up-the-defense-clandestine-service-is-intended-to-focus-on-the-challenges-posed-to-u-s-interests-by-countries-such-a.xml)  
+
 ### [2012-04-24](/news/2012/04/24/index.md)
 
+##### United States military
 # The Pentagon is to set up the Defense Clandestine Service is intended to focus on the challenges posed to U.S. interests by countries such as Iran, North Korea and China. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/apr/24/pentagon-new-spy-agency)
 

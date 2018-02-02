@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/01/8/fast-food-restaurant-chain-wendy-s-founder-dave-thomas-dies-at-69.html)  [JSON](/news/2002/01/8/fast-food-restaurant-chain-wendy-s-founder-dave-thomas-dies-at-69.json)  [XML](/news/2002/01/8/fast-food-restaurant-chain-wendy-s-founder-dave-thomas-dies-at-69.xml)  
+
 ### [2002-01-8](/news/2002/01/8/index.md)
 
+##### Wendy's
 # Fast-food restaurant chain Wendy's founder Dave Thomas dies at 69.
 
 

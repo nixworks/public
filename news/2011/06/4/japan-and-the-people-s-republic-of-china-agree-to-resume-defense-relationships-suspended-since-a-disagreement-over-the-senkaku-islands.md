@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/4/japan-and-the-people-s-republic-of-china-agree-to-resume-defense-relationships-suspended-since-a-disagreement-over-the-senkaku-islands.html)  [JSON](/news/2011/06/4/japan-and-the-people-s-republic-of-china-agree-to-resume-defense-relationships-suspended-since-a-disagreement-over-the-senkaku-islands.json)  [XML](/news/2011/06/4/japan-and-the-people-s-republic-of-china-agree-to-resume-defense-relationships-suspended-since-a-disagreement-over-the-senkaku-islands.xml)  
+
 ### [2011-06-4](/news/2011/06/4/index.md)
 
+##### Senkaku Islands
 # Japan and the People's Republic of China agree to resume defense relationships suspended since a disagreement over the Senkaku Islands. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [NHK World](http://www3.nhk.or.jp/daily/english/04_30.html)
 

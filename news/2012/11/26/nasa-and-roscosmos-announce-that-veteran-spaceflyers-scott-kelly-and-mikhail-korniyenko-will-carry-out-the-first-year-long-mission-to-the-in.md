@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/26/nasa-and-roscosmos-announce-that-veteran-spaceflyers-scott-kelly-and-mikhail-korniyenko-will-carry-out-the-first-year-long-mission-to-the-in.html)  [JSON](/news/2012/11/26/nasa-and-roscosmos-announce-that-veteran-spaceflyers-scott-kelly-and-mikhail-korniyenko-will-carry-out-the-first-year-long-mission-to-the-in.json)  [XML](/news/2012/11/26/nasa-and-roscosmos-announce-that-veteran-spaceflyers-scott-kelly-and-mikhail-korniyenko-will-carry-out-the-first-year-long-mission-to-the-in.xml)  
+
 ### [2012-11-26](/news/2012/11/26/index.md)
 
+##### NASA
 # NASA and Roscosmos announce that veteran spaceflyers Scott Kelly and Mikhail Korniyenko will carry out the first year-long mission to the International Space Station in 2015. 
 
 NASA, the Russian Federal Space Agency (Roscosmos), and their international partners have selected two veteran spacefarers for a one-year mission aboard the International Space Station in 2015.
 
 
-### Source:
+### Sources:
 
 1. [NASA](http://www.nasa.gov/home/hqnews/2012/nov/HQ_12-406_ISS_1-Year_Crew.html)
 1. [Cover Image](http://www.nasa.gov/sites/default/files/thumbnails/image/s132-e-007808.jpg)

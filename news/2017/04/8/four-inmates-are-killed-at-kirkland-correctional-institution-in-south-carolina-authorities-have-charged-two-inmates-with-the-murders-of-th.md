@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/04/8/four-inmates-are-killed-at-kirkland-correctional-institution-in-south-carolina-authorities-have-charged-two-inmates-with-the-murders-of-th.html)  [JSON](/news/2017/04/8/four-inmates-are-killed-at-kirkland-correctional-institution-in-south-carolina-authorities-have-charged-two-inmates-with-the-murders-of-th.json)  [XML](/news/2017/04/8/four-inmates-are-killed-at-kirkland-correctional-institution-in-south-carolina-authorities-have-charged-two-inmates-with-the-murders-of-th.xml)  
+
 ### [2017-04-8](/news/2017/04/8/index.md)
 
+##### Kirkland Correctional Institution
 #  Four inmates are killed at Kirkland Correctional Institution in South Carolina. Authorities have charged two inmates with the murders of the four men. 
 
 Two inmates at Kirkland Correctional Institution lured the four inmates to a cell, where they were strangled, according to arrest warrants.
 
 
-### Source:
+### Sources:
 
 1. [NBC News](http://www.nbcnews.com/news/us-news/authorities-4-inmates-found-dead-south-carolina-prison-n744076)
 1. [Cover Image](https://media2.s-nbcnews.com/j/newscms/2017_14/1958996/denver_jordan_simmons_37633-jpg-4352a_54fe8db25e3db0080104cb1405a04a47.nbcnews-fp-1200-800.jpg)

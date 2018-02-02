@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/8/shuji-nakamura-is-awarded-the-2nd-millennium-technology-prize-for-his-work-on-blue-and-white-leds-the-first-recipient-of-the-award-was-tim.html)  [JSON](/news/2006/09/8/shuji-nakamura-is-awarded-the-2nd-millennium-technology-prize-for-his-work-on-blue-and-white-leds-the-first-recipient-of-the-award-was-tim.json)  [XML](/news/2006/09/8/shuji-nakamura-is-awarded-the-2nd-millennium-technology-prize-for-his-work-on-blue-and-white-leds-the-first-recipient-of-the-award-was-tim.xml)  
+
 ### [2006-09-8](/news/2006/09/8/index.md)
 
+##### Shuji Nakamura
 #  Shuji Nakamura is awarded the 2nd Millennium Technology Prize for his work on blue and white LEDs. The first recipient of the award was Tim Berners-Lee, developer of the World Wide Web. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/technology/5328446.stm)
 

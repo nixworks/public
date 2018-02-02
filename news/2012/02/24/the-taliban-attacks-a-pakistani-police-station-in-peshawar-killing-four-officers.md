@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/24/the-taliban-attacks-a-pakistani-police-station-in-peshawar-killing-four-officers.html)  [JSON](/news/2012/02/24/the-taliban-attacks-a-pakistani-police-station-in-peshawar-killing-four-officers.json)  [XML](/news/2012/02/24/the-taliban-attacks-a-pakistani-police-station-in-peshawar-killing-four-officers.xml)  
+
 ### [2012-02-24](/news/2012/02/24/index.md)
 
+##### Taliban
 # The Taliban attacks a Pakistani police station in Peshawar killing four officers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Newsday](http://www.newsday.com/news/nation/taliban-attack-pakistan-police-station-killing-4-1.3551721)
 

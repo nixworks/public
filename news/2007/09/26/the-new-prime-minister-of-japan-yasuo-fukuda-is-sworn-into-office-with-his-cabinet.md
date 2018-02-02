@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/09/26/the-new-prime-minister-of-japan-yasuo-fukuda-is-sworn-into-office-with-his-cabinet.html)  [JSON](/news/2007/09/26/the-new-prime-minister-of-japan-yasuo-fukuda-is-sworn-into-office-with-his-cabinet.json)  [XML](/news/2007/09/26/the-new-prime-minister-of-japan-yasuo-fukuda-is-sworn-into-office-with-his-cabinet.xml)  
+
 ### [2007-09-26](/news/2007/09/26/index.md)
 
+##### Prime Minister of Japan
 #  The new Prime Minister of Japan Yasuo Fukuda is sworn into office with his Cabinet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://afp.google.com/article/ALeqM5gaS0jVvQ21oNesvraLnJ80IHg-9g)
 

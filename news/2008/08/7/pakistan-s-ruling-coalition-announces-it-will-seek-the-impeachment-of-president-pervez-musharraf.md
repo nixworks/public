@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/08/7/pakistan-s-ruling-coalition-announces-it-will-seek-the-impeachment-of-president-pervez-musharraf.html)  [JSON](/news/2008/08/7/pakistan-s-ruling-coalition-announces-it-will-seek-the-impeachment-of-president-pervez-musharraf.json)  [XML](/news/2008/08/7/pakistan-s-ruling-coalition-announces-it-will-seek-the-impeachment-of-president-pervez-musharraf.xml)  
+
 ### [2008-08-7](/news/2008/08/7/index.md)
 
+##### seek the impeachment
 #  Pakistan's ruling coalition announces it will seek the impeachment of President Pervez Musharraf. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://ap.google.com/article/ALeqM5iWe152N60O8rfHfthVTBaXBeBs3wD92DGE7O0)
 

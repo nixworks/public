@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/3/in-malaysia-medical-experts-gather-in-a-bird-flu-conference-in-kuala-lumpur.html)  [JSON](/news/2005/07/3/in-malaysia-medical-experts-gather-in-a-bird-flu-conference-in-kuala-lumpur.json)  [XML](/news/2005/07/3/in-malaysia-medical-experts-gather-in-a-bird-flu-conference-in-kuala-lumpur.xml)  
+
 ### [2005-07-3](/news/2005/07/3/index.md)
 
+##### Malaysia
 #  In Malaysia, medical experts gather in a bird flu conference in Kuala Lumpur. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/asia-pacific/4647485.stm)
 2. [Channel News Asia](http://www.channelnewsasia.com/stories/afp_asiapacific/view/155916/1/.html)

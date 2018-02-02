@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/03/3/the-eleventh-republican-party-presidential-debat
 
 ### [2016-03-3](/news/2016/03/3/index.md)
 
+##### Republican Party presidential debates, 2016
 # The eleventh Republican Party presidential debate of the election cycle takes place at the Fox Theatre in downtown Detroit, Michigan, airing live on Fox News Channel. The debate features four Republican candidates, Donald Trump, Ted Cruz, Marco Rubio and John Kasich. Ben Carson was also invited to the debate but he said that he would not be attending. An estimated 16.9 million viewers watched the debate, 5.5 million of them adults aged 25-54, making it the most watched debate since December 2015. 
 
 The Republican presidential primary debates, hosted by Fox News, held at The Fox Theater in Detroit, Michigan.

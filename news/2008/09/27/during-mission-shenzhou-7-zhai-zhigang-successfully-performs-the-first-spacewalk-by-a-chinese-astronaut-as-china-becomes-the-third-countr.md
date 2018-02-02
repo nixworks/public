@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/09/27/during-mission-shenzhou-7-zhai-zhigang-successfully-performs-the-first-spacewalk-by-a-chinese-astronaut-as-china-becomes-the-third-countr.html)  [JSON](/news/2008/09/27/during-mission-shenzhou-7-zhai-zhigang-successfully-performs-the-first-spacewalk-by-a-chinese-astronaut-as-china-becomes-the-third-countr.json)  [XML](/news/2008/09/27/during-mission-shenzhou-7-zhai-zhigang-successfully-performs-the-first-spacewalk-by-a-chinese-astronaut-as-china-becomes-the-third-countr.xml)  
+
 ### [2008-09-27](/news/2008/09/27/index.md)
 
+##### Shenzhou 7
 #  During mission Shenzhou 7, Zhai Zhigang successfully performs the first spacewalk by a Chinese astronaut, as China becomes the third country to carry out extra-vehicular activity independently. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://scitech.blogs.cnn.com/)
 

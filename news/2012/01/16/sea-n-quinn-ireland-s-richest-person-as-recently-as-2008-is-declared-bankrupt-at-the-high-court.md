@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/01/16/sea-n-quinn-ireland-s-richest-person-as-recently-as-2008-is-declared-bankrupt-at-the-high-court.html)  [JSON](/news/2012/01/16/sea-n-quinn-ireland-s-richest-person-as-recently-as-2008-is-declared-bankrupt-at-the-high-court.json)  [XML](/news/2012/01/16/sea-n-quinn-ireland-s-richest-person-as-recently-as-2008-is-declared-bankrupt-at-the-high-court.xml)  
+
 ### [2012-01-16](/news/2012/01/16/index.md)
 
+##### Sean Quinn
 # Sean Quinn, Ireland's richest person as recently as 2008, is declared bankrupt at the High Court. 
 
 Seán Quinn who was declared bankrupt by the High Court today has accused IBRC, formerly Anglo Irish Bank, of pursuing a vendetta against him and his family.
 
 
-### Source:
+### Sources:
 
 1. [RTÉ News](http://www.rte.ie/news/2012/0116/quinns.html)
 1. [Cover Image](https://img.rasset.ie/000568d0-1600.jpg)

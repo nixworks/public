@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/09/4/nasa-scientists-advise-the-33-miners-trapped-in-chile-to-regulate-sleeping-patterns-boost-intake-of-vitamin-d-and-take-exercise.html)  [JSON](/news/2010/09/4/nasa-scientists-advise-the-33-miners-trapped-in-chile-to-regulate-sleeping-patterns-boost-intake-of-vitamin-d-and-take-exercise.json)  [XML](/news/2010/09/4/nasa-scientists-advise-the-33-miners-trapped-in-chile-to-regulate-sleeping-patterns-boost-intake-of-vitamin-d-and-take-exercise.xml)  
+
 ### [2010-09-4](/news/2010/09/4/index.md)
 
+##### NASA
 # NASA scientists advise the 33 miners trapped in Chile to regulate sleeping patterns, boost intake of Vitamin D and take exercise. 
 
 Scientists from the US space agency Nasa advise the trapped Chilean miners to exercise and regulate their day and night sleep patterns.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-11186430)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

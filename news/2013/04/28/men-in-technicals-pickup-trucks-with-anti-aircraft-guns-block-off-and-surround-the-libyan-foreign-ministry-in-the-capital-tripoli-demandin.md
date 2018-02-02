@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/04/28/men-in-technicals-pickup-trucks-with-anti-aircraft-guns-block-off-and-surround-the-libyan-foreign-ministry-in-the-capital-tripoli-demandin.html)  [JSON](/news/2013/04/28/men-in-technicals-pickup-trucks-with-anti-aircraft-guns-block-off-and-surround-the-libyan-foreign-ministry-in-the-capital-tripoli-demandin.json)  [XML](/news/2013/04/28/men-in-technicals-pickup-trucks-with-anti-aircraft-guns-block-off-and-surround-the-libyan-foreign-ministry-in-the-capital-tripoli-demandin.xml)  
+
 ### [2013-04-28](/news/2013/04/28/index.md)
 
+##### technicals
 # Men in technicals, pickup trucks with anti-aircraft guns, block off and surround the Libyan foreign ministry in the capital Tripoli demanding a ban on Gaddafi-era officials working in the government 
 
 At least 20 vehicles loaded with anti-aircraft guns block road as 200 armed men demand removal of Gaddafi-era staff.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/africa/2013/04/2013428102159904364.html)
 2. [BBC](http://www.bbc.co.uk/news/world-africa-22331562)

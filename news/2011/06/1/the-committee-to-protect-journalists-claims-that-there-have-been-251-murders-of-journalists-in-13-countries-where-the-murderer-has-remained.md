@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/1/the-committee-to-protect-journalists-claims-that-there-have-been-251-murders-of-journalists-in-13-countries-where-the-murderer-has-remained.html)  [JSON](/news/2011/06/1/the-committee-to-protect-journalists-claims-that-there-have-been-251-murders-of-journalists-in-13-countries-where-the-murderer-has-remained.json)  [XML](/news/2011/06/1/the-committee-to-protect-journalists-claims-that-there-have-been-251-murders-of-journalists-in-13-countries-where-the-murderer-has-remained.xml)  
+
 ### [2011-06-1](/news/2011/06/1/index.md)
 
+##### Committee to Protect Journalists
 # The Committee to Protect Journalists claims that there have been 251 murders of journalists in 13 countries where the murderer has remained unpunished in the past decade with Iraq, Somalia, the Philippines and Sri Lanka being considered the worst environments for journalists. 
 
 More than 251 journalists in 13 countries were killed &quot;with impunity&quot; in the past decade, the Committee to Protect Journalists reports.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-us-canada-13611500)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/53090000/jpg/_53090217_journomurderedafp-casket464x261.jpg)

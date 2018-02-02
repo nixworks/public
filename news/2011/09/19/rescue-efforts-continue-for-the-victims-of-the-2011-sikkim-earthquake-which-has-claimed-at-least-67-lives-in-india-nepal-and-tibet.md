@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/19/rescue-efforts-continue-for-the-victims-of-the-2011-sikkim-earthquake-which-has-claimed-at-least-67-lives-in-india-nepal-and-tibet.html)  [JSON](/news/2011/09/19/rescue-efforts-continue-for-the-victims-of-the-2011-sikkim-earthquake-which-has-claimed-at-least-67-lives-in-india-nepal-and-tibet.json)  [XML](/news/2011/09/19/rescue-efforts-continue-for-the-victims-of-the-2011-sikkim-earthquake-which-has-claimed-at-least-67-lives-in-india-nepal-and-tibet.xml)  
+
 ### [2011-09-19](/news/2011/09/19/index.md)
 
+##### 2011 Sikkim earthquake
 # Rescue efforts continue for the victims of the 2011 Sikkim earthquake, which has claimed at least 67 lives in India, Nepal and Tibet. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/2011-09-20/himalayan-quake-ground-zero/2907444/?site=melbourne)
 1. [Cover Image](http://www.abc.net.au/news/image/2907456-1x1-700x700.jpg)

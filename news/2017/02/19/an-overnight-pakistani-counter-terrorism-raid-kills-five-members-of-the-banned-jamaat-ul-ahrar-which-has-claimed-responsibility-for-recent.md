@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/02/19/an-overnight-pakistani-counter-terrorism-raid-k
 
 ### [2017-02-19](/news/2017/02/19/index.md)
 
+##### War in North-West Pakistan
 # An overnight Pakistani counter-terrorism raid kills five members of the banned Jamaat-ul-Ahrar, which has claimed responsibility for recent deadly terrorist attacks. Four militants escaped. 
 
 MULTAN, Pakistan (AP) — Pakistani police say that counter-terrorism forces killed five militants in an overnight raid and seized weapons and explosives from their hideout. Nayab Haider, a spokesman for the counter-terrorism…

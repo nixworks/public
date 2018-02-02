@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/03/5/u-s-republican-presidential-nominee-john-mccain-is-endorsed-by-president-george-w-bush.html)  [JSON](/news/2008/03/5/u-s-republican-presidential-nominee-john-mccain-is-endorsed-by-president-george-w-bush.json)  [XML](/news/2008/03/5/u-s-republican-presidential-nominee-john-mccain-is-endorsed-by-president-george-w-bush.xml)  
+
 ### [2008-03-5](/news/2008/03/5/index.md)
 
+##### Republican
 #  U.S. Republican presidential nominee John McCain is endorsed by President George W. Bush. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/Politics/Vote2008/story?id=4392520&page=1)
 

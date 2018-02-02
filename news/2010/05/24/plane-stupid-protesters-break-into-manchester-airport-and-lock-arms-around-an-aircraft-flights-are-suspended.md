@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/05/24/plane-stupid-protesters-break-into-manchester-airport-and-lock-arms-around-an-aircraft-flights-are-suspended.html)  [JSON](/news/2010/05/24/plane-stupid-protesters-break-into-manchester-airport-and-lock-arms-around-an-aircraft-flights-are-suspended.json)  [XML](/news/2010/05/24/plane-stupid-protesters-break-into-manchester-airport-and-lock-arms-around-an-aircraft-flights-are-suspended.xml)  
+
 ### [2010-05-24](/news/2010/05/24/index.md)
 
+##### Plane Stupid
 # Plane Stupid protesters break into Manchester Airport and lock arms around an aircraft. Flights are suspended. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Sky News](http://news.sky.com/skynews/Home/UK-News/Manchester-Airport-Hit-By-Climate-Protests-Plane-Stupid-Group-Breaks-Through-Fence/Article/201005415637222?lpos=UK_News_News_Your_Way_Region_3&lid=NewsYourWay_ARTICLE_15637222_Manchester_Airport_Hit_By_Climate_Protests%3A_Plane_Stupid_Group_Breaks_Through_Fence)
 

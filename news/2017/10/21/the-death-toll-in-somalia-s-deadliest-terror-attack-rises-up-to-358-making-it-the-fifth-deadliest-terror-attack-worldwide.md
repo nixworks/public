@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/10/21/the-death-toll-in-somalia-s-deadliest-terror-at
 
 ### [2017-10-21](/news/2017/10/21/index.md)
 
+##### War in Somalia
 # The death toll in Somalia's deadliest terror attack rises up to 358, making it the fifth-deadliest terror attack worldwide. 
 
 

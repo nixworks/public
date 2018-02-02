@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/09/30/at-least-three-people-are-killed-by-u-s-air-raids-on-the-insurgent-held-city-of-fallujah-locals-say-civilians-are-among-the-dead-but-the.html)  [JSON](/news/2004/09/30/at-least-three-people-are-killed-by-u-s-air-raids-on-the-insurgent-held-city-of-fallujah-locals-say-civilians-are-among-the-dead-but-the.json)  [XML](/news/2004/09/30/at-least-three-people-are-killed-by-u-s-air-raids-on-the-insurgent-held-city-of-fallujah-locals-say-civilians-are-among-the-dead-but-the.xml)  
+
 ### [2004-09-30](/news/2004/09/30/index.md)
 
+##### Conflict in Iraq
 #  At least three people are killed by U.S. air raids on the insurgent held city of Fallujah. Locals say civilians are among the dead, but the U.S. maintains they struck a safe house of the Jordanian militant Abu Musab al-Zarqawi. Just outside Baghdad, a rocket fired at a US military support base killed one coalition soldier. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/3702710.stm)
 2. [Financial Times](http://news.ft.com/cms/s/3d40c9a2-1242-11d9-863e-00000e2511c8.html)

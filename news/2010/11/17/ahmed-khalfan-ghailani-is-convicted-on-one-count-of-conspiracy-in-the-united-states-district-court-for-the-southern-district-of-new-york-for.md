@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2010/11/17/ahmed-khalfan-ghailani-is-convicted-on-one-count-of-conspiracy-in-the-united-states-district-court-for-the-southern-district-of-new-york-for.html)  [JSON](/news/2010/11/17/ahmed-khalfan-ghailani-is-convicted-on-one-count-of-conspiracy-in-the-united-states-district-court-for-the-southern-district-of-new-york-for.json)  [XML](/news/2010/11/17/ahmed-khalfan-ghailani-is-convicted-on-one-count-of-conspiracy-in-the-united-states-district-court-for-the-southern-district-of-new-york-for.xml)  
+
 ### [2010-11-17](/news/2010/11/17/index.md)
 
+##### Ahmed Khalfan Ghailani
 # Ahmed Khalfan Ghailani is convicted on one count of conspiracy in the United States District Court for the Southern District of New York for his role in the 1998 United States embassy bombings in Tanzania and Kenya. 
 
 The first former Guantánamo detainee tried in a civilian court was acquitted of all but one charge in the bombings of American Embassies in Kenya and Tanzania.
 
 
-### Source:
+### Sources:
 
-1. [New York Times](http://www.nytimes.com/2010/11/18/nyregion/18ghailani.html)
+1. [New York Times](https://www.nytimes.com/2010/11/18/nyregion/18ghailani.html)
 1. [Cover Image](https://static01.nyt.com/images/icons/t_logo_291_black.png)
 
 ### Related:

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/10/1/the-national-transportation-safety-board-reports-that-a-metrolink-engineer-sent-a-text-message-22-seconds-before-the-chatsworth-train-colli.html)  [JSON](/news/2008/10/1/the-national-transportation-safety-board-reports-that-a-metrolink-engineer-sent-a-text-message-22-seconds-before-the-chatsworth-train-colli.json)  [XML](/news/2008/10/1/the-national-transportation-safety-board-reports-that-a-metrolink-engineer-sent-a-text-message-22-seconds-before-the-chatsworth-train-colli.xml)  
+
 ### [2008-10-1](/news/2008/10/1/index.md)
 
+##### NTSB
 #  The National Transportation Safety Board reports that a Metrolink engineer sent a text message 22 seconds before the Chatsworth train collision in Los Angeles, California, that killed 25 people. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBS](http://cbs2.com/local/Robert.Sanchez.Text.2.830304.html)
 

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/20/iraqi-security-forces-along-with-shi-ite-volunt
 
 ### [2017-08-20](/news/2017/08/20/index.md)
 
+##### Iraqi Civil War
 # Iraqi security forces, along with Shi'ite volunteers and Kurdish Peshmerga fighters, launch a ground offensive to take the city of Tal Afar back from Islamic State of Iraq and the Levant militants. The city has been isolated from the rest of the ISIL-held territory since the recent Mosul liberation. 
 
 Iraqi security forces launched an offensive to take back the city of Tal Afar on Sunday, their next objective in the U.S.-backed campaign to defeat Islamic State militants, Prime Minister Haider al-Abadi said.

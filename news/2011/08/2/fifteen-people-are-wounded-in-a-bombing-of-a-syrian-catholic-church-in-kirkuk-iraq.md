@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2011/08/2/fifteen-people-are-wounded-in-a-bombing-of-a-syrian-catholic-church-in-kirkuk-iraq.html)  [JSON](/news/2011/08/2/fifteen-people-are-wounded-in-a-bombing-of-a-syrian-catholic-church-in-kirkuk-iraq.json)  [XML](/news/2011/08/2/fifteen-people-are-wounded-in-a-bombing-of-a-syrian-catholic-church-in-kirkuk-iraq.xml)  
+
 ### [2011-08-2](/news/2011/08/2/index.md)
 
+##### Syrian Catholic Church
 # Fifteen people are wounded in a bombing of a Syrian Catholic Church in Kirkuk, Iraq. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AFP via Yahoo! News](http://news.yahoo.com/car-bomb-kirkuk-church-wounds-15-064335671.html)
+1. [AFP via Yahoo! News](https://news.yahoo.com/car-bomb-kirkuk-church-wounds-15-064335671.html)
 
 ### Related:
 

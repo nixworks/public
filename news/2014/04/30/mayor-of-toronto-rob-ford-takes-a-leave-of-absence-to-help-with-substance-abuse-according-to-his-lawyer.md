@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/04/30/mayor-of-toronto-rob-ford-takes-a-leave-of-absence-to-help-with-substance-abuse-according-to-his-lawyer.html)  [JSON](/news/2014/04/30/mayor-of-toronto-rob-ford-takes-a-leave-of-absence-to-help-with-substance-abuse-according-to-his-lawyer.json)  [XML](/news/2014/04/30/mayor-of-toronto-rob-ford-takes-a-leave-of-absence-to-help-with-substance-abuse-according-to-his-lawyer.xml)  
+
 ### [2014-04-30](/news/2014/04/30/index.md)
 
+##### mayor
 # Mayor of Toronto Rob Ford takes a leave of absence to help with substance abuse, according to his lawyer. 
 
 Toronto Mayor Rob Ford is taking a leave of absence to seek help for substance abuse amid reports that two new recordings have surfaced &mdash; one of unruly behaviour, the other of apparent drug use.
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/toronto/rob-ford-taking-leave-of-absence-lawyer-says-1.2627832)
 1. [Cover Image](https://i.cbc.ca/1.2628159.1403620088!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/rob-ford.jpg)

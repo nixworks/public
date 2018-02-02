@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/06/1/philippine-defense-secretary-delfin-lorenzana-an
 
 ### [2017-06-1](/news/2017/06/1/index.md)
 
+##### Marawi crisis
 # Philippine Defense Secretary Delfin Lorenzana announces the deaths of ten soldiers in Marawi as a result of a "friendly fire" airstrike. 
 
 The accident happened in the city of Marawi where Islamists have clashed with the army.

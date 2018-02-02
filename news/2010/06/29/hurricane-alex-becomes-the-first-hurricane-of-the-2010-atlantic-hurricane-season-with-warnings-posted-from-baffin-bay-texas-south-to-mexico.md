@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/29/hurricane-alex-becomes-the-first-hurricane-of-the-2010-atlantic-hurricane-season-with-warnings-posted-from-baffin-bay-texas-south-to-mexico.html)  [JSON](/news/2010/06/29/hurricane-alex-becomes-the-first-hurricane-of-the-2010-atlantic-hurricane-season-with-warnings-posted-from-baffin-bay-texas-south-to-mexico.json)  [XML](/news/2010/06/29/hurricane-alex-becomes-the-first-hurricane-of-the-2010-atlantic-hurricane-season-with-warnings-posted-from-baffin-bay-texas-south-to-mexico.xml)  
+
 ### [2010-06-29](/news/2010/06/29/index.md)
 
+##### Hurricane Alex
 # Hurricane Alex becomes the first hurricane of the 2010 Atlantic hurricane season with warnings posted from Baffin Bay, Texas south to Mexico. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Canadian Press via Amherst Daily News](http://www.amherstdaily.com/Canada---World/Society/2010-06-29/article-1433590/Gulf-storm-strengthens-to-hurricane%3B-Alex-taking-aim-at-Mexico-Texas-border,-far-from-spill/1)
 

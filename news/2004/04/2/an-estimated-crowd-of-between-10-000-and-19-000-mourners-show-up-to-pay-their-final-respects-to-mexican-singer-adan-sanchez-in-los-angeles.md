@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2004/04/2/an-estimated-crowd-of-between-10-000-and-19-000-mourners-show-up-to-pay-their-final-respects-to-mexican-singer-adan-sanchez-in-los-angeles.html)  [JSON](/news/2004/04/2/an-estimated-crowd-of-between-10-000-and-19-000-mourners-show-up-to-pay-their-final-respects-to-mexican-singer-adan-sanchez-in-los-angeles.json)  [XML](/news/2004/04/2/an-estimated-crowd-of-between-10-000-and-19-000-mourners-show-up-to-pay-their-final-respects-to-mexican-singer-adan-sanchez-in-los-angeles.xml)  
+
 ### [2004-04-2](/news/2004/04/2/index.md)
 
+##### Mexico
 #  An estimated crowd of between 10,000 and 19,000 mourners show up to pay their final respects to Mexican singer Adn Snchez in Los Angeles. Many in the crowd turn violent, jumping onto the van carrying the singer's body. Some are injured, and police and emergency rescue intervention is required. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Baltimore Sun](http://www.baltimoresun.com/entertainment/custom/wire/sns-ap-sanchez-rowdy-mourners,0,3638356.story?coll=sns-ap-entertainment-headlines)
 
 ### Related:
 
-1. [A Mexican military Bell 412 model helicopter crashes northeast of the town of El Salto in the mountainous state of Durango, seriously injuring one military member aboard and likely killing seven others. ](/news/2017/10/6/a-mexican-military-bell-412-model-helicopter-crashes-northeast-of-the-town-of-el-salto-in-the-mountainous-state-of-durango-seriously-injuri.md) _Context: Mexico_
-2. [A riot at Cadereyta Jimenez prison located outside the city of Monterrey, Nuevo Leon, Mexico, kills at least 13 people. ](/news/2017/10/10/a-riot-at-cadereyta-jima-c-nez-prison-located-outside-the-city-of-monterrey-nuevo-leon-mexico-kills-at-least-13-people.md) _Context: Mexico_
-3. [The death toll in the earthquake that struck the Chiapas region of Mexico rises to 90. ](/news/2017/09/9/the-death-toll-in-the-earthquake-that-struck-the-chiapas-region-of-mexico-rises-to-90.md) _Context: Mexico_
-4. [Tsunami waves are reported in Mexico from the earthquake late yesterday with the biggest wave measuring 2.3 feet. ](/news/2017/09/8/tsunami-waves-are-reported-in-mexico-from-the-earthquake-late-yesterday-with-the-biggest-wave-measuring-2-3-feet.md) _Context: Mexico_
-5. [Mexico expels the ambassador of North Korea in the country over the recent nuclear weapons testing. ](/news/2017/09/7/mexico-expels-the-ambassador-of-north-korea-in-the-country-over-the-recent-nuclear-weapons-testing.md) _Context: Mexico_
+1. [United States Secretary of State Rex Tillerson arrives in Mexico to meet with President Pena Nieto and Foreign Secretary Luis Videgaray. ](/news/2018/02/1/united-states-secretary-of-state-rex-tillerson-arrives-in-mexico-to-meet-with-president-pea-a-nieto-and-foreign-secretary-luis-videgaray.md) _Context: Mexico_
+2. [Eleven people are killed in La Concepcion, Mexico, near the Pacific coast resort of Acapulco, following violent clashes involving gunmen, a community police force, and state police in the southern state of Guerrero. ](/news/2018/01/7/eleven-people-are-killed-in-la-concepcia3n-mexico-near-the-pacific-coast-resort-of-acapulco-following-violent-clashes-involving-gunmen-a.md) _Context: Mexico_
+3. [Ten people are killed and two are injured in a car crash near Acapulco, Mexico. ](/news/2017/12/30/ten-people-are-killed-and-two-are-injured-in-a-car-crash-near-acapulco-mexico.md) _Context: Mexico_
+4. [A tour bus crash in Mexico leaves at least 12 people dead and 18 injured. The cause of the crash is under investigation. ](/news/2017/12/19/a-tour-bus-crash-in-mexico-leaves-at-least-12-people-dead-and-18-injured-the-cause-of-the-crash-is-under-investigation.md) _Context: Mexico_
+5. [Popocatpetl volcano continues to erupt in Mexico. ](/news/2017/11/26/popocatepetl-volcano-continues-to-erupt-in-mexico.md) _Context: Mexico_

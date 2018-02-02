@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/15/the-congress-of-colombia-approves-a-law-aimed-at-facilitating-peace-talks-between-the-government-and-guerrilla-groups.html)  [JSON](/news/2012/06/15/the-congress-of-colombia-approves-a-law-aimed-at-facilitating-peace-talks-between-the-government-and-guerrilla-groups.json)  [XML](/news/2012/06/15/the-congress-of-colombia-approves-a-law-aimed-at-facilitating-peace-talks-between-the-government-and-guerrilla-groups.xml)  
+
 ### [2012-06-15](/news/2012/06/15/index.md)
 
+##### Congress of Colombia
 # The Congress of Colombia approves a law aimed at facilitating peace talks between the government and guerrilla groups. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-latin-america-18454007)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60924000/jpg/_60924477_015041668-1.jpg)

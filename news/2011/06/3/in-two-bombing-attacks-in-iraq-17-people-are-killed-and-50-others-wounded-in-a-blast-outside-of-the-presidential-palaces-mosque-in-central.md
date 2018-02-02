@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/3/in-two-bombing-attacks-in-iraq-17-people-are-killed-and-50-others-wounded-in-a-blast-outside-of-the-presidential-palaces-mosque-in-central.html)  [JSON](/news/2011/06/3/in-two-bombing-attacks-in-iraq-17-people-are-killed-and-50-others-wounded-in-a-blast-outside-of-the-presidential-palaces-mosque-in-central.json)  [XML](/news/2011/06/3/in-two-bombing-attacks-in-iraq-17-people-are-killed-and-50-others-wounded-in-a-blast-outside-of-the-presidential-palaces-mosque-in-central.xml)  
+
 ### [2011-06-3](/news/2011/06/3/index.md)
 
+##### Iraq
 # In two bombing attacks in Iraq, 17 people are killed and 50 others wounded in a blast outside of the Presidential Palaces Mosque in central Tikrit, Iraq; and later by a suicide bomber in a Tikrit hospital treating the wounded from the first attack, killing six people and injuring ten at the hospital. 
 
 Seventeen people were killed and 50 others wounded in a blast from a container full of explosives left outside of the Presidential Palaces Mosque in central Tikrit, Iraq, officials told CNN.
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2011/WORLD/meast/06/03/iraq.violence/index.html)
 1. [Cover Image](http://i.cdn.turner.com/cnn/.element/img/3.0/newsscanner/no_image_cnn_90x51.jpg)

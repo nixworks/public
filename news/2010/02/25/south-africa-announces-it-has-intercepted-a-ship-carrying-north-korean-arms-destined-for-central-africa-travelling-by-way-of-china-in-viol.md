@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/25/south-africa-announces-it-has-intercepted-a-ship-carrying-north-korean-arms-destined-for-central-africa-travelling-by-way-of-china-in-viol.html)  [JSON](/news/2010/02/25/south-africa-announces-it-has-intercepted-a-ship-carrying-north-korean-arms-destined-for-central-africa-travelling-by-way-of-china-in-viol.json)  [XML](/news/2010/02/25/south-africa-announces-it-has-intercepted-a-ship-carrying-north-korean-arms-destined-for-central-africa-travelling-by-way-of-china-in-viol.xml)  
+
 ### [2010-02-25](/news/2010/02/25/index.md)
 
+##### South Africa
 # South Africa announces it has intercepted a ship carrying North Korean arms destined for central Africa, travelling by way of China, in violation of Security Council Resolution 1874. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Bangkok Post](http://www.bangkokpost.com/news/asia/169703/china-probes-path-of-seized-north-korea-arms)
 2. [Wall Street Journal](http://online.wsj.com/article/SB10001424052748704479404575087411640791960.html?mod=WSJ_latestheadlines)

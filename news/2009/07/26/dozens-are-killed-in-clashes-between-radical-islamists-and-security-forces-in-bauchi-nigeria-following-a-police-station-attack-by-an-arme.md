@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2009/07/26/dozens-are-killed-in-clashes-between-radical-islamists-and-security-forces-in-bauchi-nigeria-following-a-police-station-attack-by-an-arme.html)  [JSON](/news/2009/07/26/dozens-are-killed-in-clashes-between-radical-islamists-and-security-forces-in-bauchi-nigeria-following-a-police-station-attack-by-an-arme.json)  [XML](/news/2009/07/26/dozens-are-killed-in-clashes-between-radical-islamists-and-security-forces-in-bauchi-nigeria-following-a-police-station-attack-by-an-arme.xml)  
+
 ### [2009-07-26](/news/2009/07/26/index.md)
 
+##### alive when captured
 #  Dozens are killed in clashes between radical Islamists and security forces in Bauchi, Nigeria, following a police station attack by an armed gang in retaliation for the arrests of their leaders. 
 
 More than 50 Nigerians were killed today in clashes between security forces and militants in the northeastern city of Bauchi, &hellip;
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/newsMaps/idUSTRE56P0MA20090726)
+1. [Reuters](https://www.reuters.com/article/newsMaps/idUSTRE56P0MA20090726)
 2. [The Irish Times](http://www.irishtimes.com/newspaper/breaking/2009/0726/breaking18.htm)
 2. [Cover Image](http://www.irishtimes.com/assets/images/favicons/irishtimes.png)
 

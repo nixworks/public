@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/3/more-than-800-people-have-been-wounded-and-84-killed-in-the-violence-which-erupted-in-sudan-after-ex-rebel-southern-leader-john-garang-died.html)  [JSON](/news/2005/08/3/more-than-800-people-have-been-wounded-and-84-killed-in-the-violence-which-erupted-in-sudan-after-ex-rebel-southern-leader-john-garang-died.json)  [XML](/news/2005/08/3/more-than-800-people-have-been-wounded-and-84-killed-in-the-violence-which-erupted-in-sudan-after-ex-rebel-southern-leader-john-garang-died.xml)  
+
 ### [2005-08-3](/news/2005/08/3/index.md)
 
+##### Sudan
 #  More than 800 people have been wounded and 84 killed in the violence which erupted in Sudan after ex-rebel southern leader John Garang died in a helicopter crash. 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/4741149.stm)
 2. [Reuters](http://today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2005-08-03T143312Z_01_L032832_RTRIDST_0_INTERNATIONAL-SUDAN-DC.XML)

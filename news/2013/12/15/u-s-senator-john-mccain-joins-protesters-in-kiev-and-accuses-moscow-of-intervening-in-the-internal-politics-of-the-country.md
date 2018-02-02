@@ -1,24 +1,28 @@
+
+Formats: [HTML](/news/2013/12/15/u-s-senator-john-mccain-joins-protesters-in-kiev-and-accuses-moscow-of-intervening-in-the-internal-politics-of-the-country.html)  [JSON](/news/2013/12/15/u-s-senator-john-mccain-joins-protesters-in-kiev-and-accuses-moscow-of-intervening-in-the-internal-politics-of-the-country.json)  [XML](/news/2013/12/15/u-s-senator-john-mccain-joins-protesters-in-kiev-and-accuses-moscow-of-intervening-in-the-internal-politics-of-the-country.xml)  
+
 ### [2013-12-15](/news/2013/12/15/index.md)
 
+##### John McCain
 # U.S. Senator John McCain joins protesters in Kiev and accuses Moscow of intervening in the internal politics of the country. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2013/12/15/world/europe/ukraine-protests/)
-
-### Related:
-
-1. [Viktor Yanukovych and Dmitry Medvedev agree to extend the lease between Kiev and Moscow that allows Russia's Black Sea Fleet to be stationed in Ukraine in return for cheaper gas until 2042. ](/news/2010/04/21/viktor-yanukovych-and-dmitry-medvedev-agree-to-extend-the-lease-between-kiev-and-moscow-that-allows-russia-s-black-sea-fleet-to-be-stationed.md) _Context: Kiev, Moscow_
-2. [A fire at the Sindika Trade Center, a construction materials shopping center in the northwestern edge of Moscow, Russia, forces the evacuation of at least 3000 people. ](/news/2017/10/9/a-fire-at-the-sindika-trade-center-a-construction-materials-shopping-center-in-the-northwestern-edge-of-moscow-russia-forces-the-evacuati.md) _Context: Moscow_
-3. [Russian opposition leader and hopeful presidential candidate Alexei Navalny is sentenced in Moscow to 20 days detention for organizing unauthorized public meetings. This is Navalny's third jail term this year. ](/news/2017/10/2/russian-opposition-leader-and-hopeful-presidential-candidate-alexei-navalny-is-sentenced-in-moscow-to-20-days-detention-for-organizing-unaut.md) _Context: Moscow_
-4. [U.S. President Donald Trump waives the Jones Act for Puerto Rico after he first disallowed additional aid, citing shipping industry business interests. Senator John McCain says the Jones Act makes prices for food, water, and other emergency supplies too high in Puerto Rico. ](/news/2017/09/28/u-s-president-donald-trump-waives-the-jones-act-for-puerto-rico-after-he-first-disallowed-additional-aid-citing-shipping-industry-business.md) _Context: John McCain_
-5. [Thirty thousand people are evacuated from Kalynivka, Ukraine, following an explosion in an ammunition dump 180 km southwest of Kiev. The Government of Ukraine blames sabotage. ](/news/2017/09/27/thirty-thousand-people-are-evacuated-from-kalynivka-ukraine-following-an-explosion-in-an-ammunition-dump-180-km-southwest-of-kiev-the-gov.md) _Context: Kiev_
 
 ### Changes:
 
 1. [Euromaidan:U.S. Senator John McCain joins protesters in Kiev and accuses Moscow of intervening in the internal politics of the country. ](/news/2013/12/15/euromaidan-pu-s-senator-john-mccain-joins-protesters-in-kiev-and-accuses-moscow-of-intervening-in-the-internal-politics-of-the-country.md) _2017-08-25 03:39:42 (First version)_
 2. [Euromaidan:: U.S. Senator John McCain joins protesters in Kiev and accuses Moscow of intervening in the internal politics of the country. ](/news/2013/12/15/euromaidan-u-s-senator-john-mccain-joins-protesters-in-kiev-and-accuses-moscow-of-intervening-in-the-internal-politics-of-the-country.md) _2017-08-27 03:39:59 (Update)_
 2. [U.S. Senator John McCain joins protesters in Kiev and accuses Moscow of intervening in the internal politics of the country. ](/news/2013/12/15/u-s-senator-john-mccain-joins-protesters-in-kiev-and-accuses-moscow-of-intervening-in-the-internal-politics-of-the-country.md) _(Current version)_
+
+### Related:
+
+1. [Viktor Yanukovych and Dmitry Medvedev agree to extend the lease between Kiev and Moscow that allows Russia's Black Sea Fleet to be stationed in Ukraine in return for cheaper gas until 2042. ](/news/2010/04/21/viktor-yanukovych-and-dmitry-medvedev-agree-to-extend-the-lease-between-kiev-and-moscow-that-allows-russia-s-black-sea-fleet-to-be-stationed.md) _Context: Kiev, Moscow_
+2. [Russian opposition politician Alexei Navalny is arrested by police at a protest rally in Moscow. His arrest comes shortly after police raid the headquarters of his unregistered Progress Party in an apparent attempt to disrupt online broadcasts of opposition rallies against Vladimir Putin, while police say they were looking for a bomb. Navalny is released from police custody without charge late Sunday but needs to appear in court later. ](/news/2018/01/28/russian-opposition-politician-alexei-navalny-is-arrested-by-police-at-a-protest-rally-in-moscow-his-arrest-comes-shortly-after-police-raid.md) _Context: Moscow_
+3. [Police raid the wrong tent of an activist camp in Kiev and fail to arrest the stateless opposition leader Mikheil Saakashvili. A police source says police are preparing a special operation and will be unleashed "in the near future". ](/news/2017/12/6/police-raid-the-wrong-tent-of-an-activist-camp-in-kiev-and-fail-to-arrest-the-stateless-opposition-leader-mikheil-saakashvili-a-police-sour.md) _Context: Kiev_
+4. [As police arrive at the stateless Mikheil Saakashvili's house in Kiev to detain him, Saakashvili goes up on the roof to protest verbally. Police then detain him and try to take him away in a blue minivan while hundreds of people block the street. Finally the supporters free him out of the van. Bespeeching the cameras again, he rails against corruption, against Petro Poroshenko and urges Ukrainians to "be afraid of nothing". ](/news/2017/12/5/as-police-arrive-at-the-stateless-mikheil-saakashvili-s-house-in-kiev-to-detain-him-saakashvili-goes-up-on-the-roof-to-protest-verbally-po.md) _Context: Kiev_
+5. [Several thousand opposition supporters demonstrate in central Kiev, calling for the parliament to adopt legislation on presidential impeachment. ](/news/2017/12/3/several-thousand-opposition-supporters-demonstrate-in-central-kiev-calling-for-the-parliament-to-adopt-legislation-on-presidential-impeachm.md) _Context: Kiev_

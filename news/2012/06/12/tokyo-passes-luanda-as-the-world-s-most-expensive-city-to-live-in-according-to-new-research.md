@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/12/tokyo-passes-luanda-as-the-world-s-most-expensive-city-to-live-in-according-to-new-research.html)  [JSON](/news/2012/06/12/tokyo-passes-luanda-as-the-world-s-most-expensive-city-to-live-in-according-to-new-research.json)  [XML](/news/2012/06/12/tokyo-passes-luanda-as-the-world-s-most-expensive-city-to-live-in-according-to-new-research.xml)  
+
 ### [2012-06-12](/news/2012/06/12/index.md)
 
+##### Tokyo
 # Tokyo passes Luanda as the world's most expensive city to live in, according to new research. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-18398005)
 1. [Cover Image](http://ichef-1.bbci.co.uk/news/1024/media/images/60835000/jpg/_60835103_141358981.jpg)

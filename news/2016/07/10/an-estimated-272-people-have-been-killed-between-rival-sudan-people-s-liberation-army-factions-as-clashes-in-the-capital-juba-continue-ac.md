@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/07/10/an-estimated-272-people-have-been-killed-betwee
 
 ### [2016-07-10](/news/2016/07/10/index.md)
 
+##### South Sudanese Civil War
 # An estimated 272 people have been killed between rival Sudan People's Liberation Army factions as clashes in the capital, Juba, continue. According to a spokesman for rebel leader and Vice President Riek Machar, South Sudan is "back to war" despite a peace deal being reached last April. 
 
 South Sudan is &quot;back to war&quot;, a spokesman for the vice-president tells the BBC, as rival factions clash and hundreds are reported killed.

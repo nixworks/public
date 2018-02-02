@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/2/a-british-soldier-has-been-killed-in-an-explosion-while-on-patrol-in-nahr-e-saraj-district-of-helmand-province-in-afghanistan.html)  [JSON](/news/2010/10/2/a-british-soldier-has-been-killed-in-an-explosion-while-on-patrol-in-nahr-e-saraj-district-of-helmand-province-in-afghanistan.json)  [XML](/news/2010/10/2/a-british-soldier-has-been-killed-in-an-explosion-while-on-patrol-in-nahr-e-saraj-district-of-helmand-province-in-afghanistan.xml)  
+
 ### [2010-10-2](/news/2010/10/2/index.md)
 
+##### Nahr-e Saraj
 # A British soldier has been killed in an explosion while on patrol in Nahr-e Saraj District of Helmand Province in Afghanistan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Google via AP](http://www.google.com/hostednews/ukpress/article/ALeqM5h-Jrw7sgwEiFA9g3g02LT6I9NXHw?docId=N0054781286095662179A)
 2. [Xinhua](http://news.xinhuanet.com/english2010/world/2010-10/03/c_13540993.htm)

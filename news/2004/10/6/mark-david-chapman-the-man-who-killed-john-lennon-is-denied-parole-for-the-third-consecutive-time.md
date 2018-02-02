@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/10/6/mark-david-chapman-the-man-who-killed-john-lennon-is-denied-parole-for-the-third-consecutive-time.html)  [JSON](/news/2004/10/6/mark-david-chapman-the-man-who-killed-john-lennon-is-denied-parole-for-the-third-consecutive-time.json)  [XML](/news/2004/10/6/mark-david-chapman-the-man-who-killed-john-lennon-is-denied-parole-for-the-third-consecutive-time.xml)  
+
 ### [2004-10-6](/news/2004/10/6/index.md)
 
+##### Mark David Chapman
 #  Mark David Chapman, the man who killed John Lennon, is denied parole for the third consecutive time. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/entertainment/3718144.stm)
 

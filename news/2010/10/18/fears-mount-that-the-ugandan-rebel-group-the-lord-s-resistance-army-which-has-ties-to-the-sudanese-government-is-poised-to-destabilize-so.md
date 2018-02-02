@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/18/fears-mount-that-the-ugandan-rebel-group-the-lord-s-resistance-army-which-has-ties-to-the-sudanese-government-is-poised-to-destabilize-so.html)  [JSON](/news/2010/10/18/fears-mount-that-the-ugandan-rebel-group-the-lord-s-resistance-army-which-has-ties-to-the-sudanese-government-is-poised-to-destabilize-so.json)  [XML](/news/2010/10/18/fears-mount-that-the-ugandan-rebel-group-the-lord-s-resistance-army-which-has-ties-to-the-sudanese-government-is-poised-to-destabilize-so.xml)  
+
 ### [2010-10-18](/news/2010/10/18/index.md)
 
+##### Uganda
 # Fears mount that the Ugandan rebel group, the Lord's Resistance Army, which has ties to the Sudanese government, is poised to destabilize South Sudan as it prepares for a referendum on independence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [VOA](http://www.voanews.com/english/news/africa/Ugandan-Rebels-Threaten-Southern-Sudans-Referendum--105191669.html)
 

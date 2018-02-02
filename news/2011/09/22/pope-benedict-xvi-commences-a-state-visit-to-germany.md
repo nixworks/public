@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/22/pope-benedict-xvi-commences-a-state-visit-to-germany.html)  [JSON](/news/2011/09/22/pope-benedict-xvi-commences-a-state-visit-to-germany.json)  [XML](/news/2011/09/22/pope-benedict-xvi-commences-a-state-visit-to-germany.xml)  
+
 ### [2011-09-22](/news/2011/09/22/index.md)
 
+##### Pope Benedict XVI
 # Pope Benedict XVI commences a state visit to Germany. 
 
 Pope Benedict XVI faces a clamour for change as he heads to Germany for his first state visit, with calls for reform on many fronts &ndash; from recognising gays to ordaining women to the priesthood.
 
 
-### Source:
+### Sources:
 
 1. [The Telegraph](http://www.telegraph.co.uk/news/religion/8779609/Pope-visit-German-speaking-Catholics-want-reform-from-Rome.html)
 1. [Cover Image](http://i.telegraph.co.uk/multimedia/archive/02005/popeSUM_2005065a.jpg)

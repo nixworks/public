@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/16/egyptian-prime-minister-hesham-qandil-makes-a-visit-to-gaza-city-in-hopes-of-lulling-the-ongoing-conflict-between-israel-and-hamas.html)  [JSON](/news/2012/11/16/egyptian-prime-minister-hesham-qandil-makes-a-visit-to-gaza-city-in-hopes-of-lulling-the-ongoing-conflict-between-israel-and-hamas.json)  [XML](/news/2012/11/16/egyptian-prime-minister-hesham-qandil-makes-a-visit-to-gaza-city-in-hopes-of-lulling-the-ongoing-conflict-between-israel-and-hamas.xml)  
+
 ### [2012-11-16](/news/2012/11/16/index.md)
 
+##### Egypt
 # Egyptian Prime Minister Hesham Qandil makes a visit to Gaza City in hopes of lulling the ongoing conflict between Israel and Hamas. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/world/worldnow/la-fg-egytptian-officials-gaza-visit-fails-to-bring-lull-in-violence-20121116,0,7952084.story)
 1. [Cover Image](http://www.trbimg.com/img-50a660f8/turbine/la-fg-egytptian-officials-gaza-visit-fails-to--001/600)

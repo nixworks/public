@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/10/a-series-of-strong-thunderstorms-track-through-southern-quebec-causing-heavy-damage-south-of-montreal-and-leaving-over-250-000-people-out.html)  [JSON](/news/2008/06/10/a-series-of-strong-thunderstorms-track-through-southern-quebec-causing-heavy-damage-south-of-montreal-and-leaving-over-250-000-people-out.json)  [XML](/news/2008/06/10/a-series-of-strong-thunderstorms-track-through-southern-quebec-causing-heavy-damage-south-of-montreal-and-leaving-over-250-000-people-out.xml)  
+
 ### [2008-06-10](/news/2008/06/10/index.md)
 
+##### thunderstorm
 #  A series of strong thunderstorms track through Southern Quebec, causing heavy damage south of Montreal and leaving over 250,000 people out of electricity. Champlain Bridge is closed for several hours after a wind gust causes over a half-dozen semi-trailer to tip on their side. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/canada/montreal/story/2008/06/10/qc-weather0610.html)
 2. [SRC](http://www.radio-canada.ca/nouvelles/National/2008/06/10/005-meteo-orage-alerte.shtml)

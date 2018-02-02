@@ -3,6 +3,7 @@ Formats: [HTML](/news/2018/01/15/the-nephew-of-assassinated-egyptian-president-m
 
 ### [2018-01-15](/news/2018/01/15/index.md)
 
+##### Politics of Egypt
 # The nephew of assassinated Egyptian president Mohamed Anwar al-Sadat announces that he will not run in March's presidential election, blaming an environment of fear surrounding the vote. 
 
 Mohamed Anwar al-Sadat says he doubts there will be genuine competition and indicates he may wait until 2022
@@ -20,7 +21,7 @@ Mohamed Anwar al-Sadat says he doubts there will be genuine competition and indi
 
 ### Related:
 
-1. [The former Prime Minister of Egypt, 76-year-old Ahmed Shafik, retracts his candidacy for the upcoming presidential elections. ](/news/2018/01/7/the-former-prime-minister-of-egypt-76-year-old-ahmed-shafik-retracts-his-candidacy-for-the-upcoming-presidential-elections.md) _Context: March's presidential election, Politics of Egypt_
-2. [The Parliament of Egypt approves, with a two-thirds majority in favour, extending the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-extending-the-nationwide-state-of-emergency-for-a-further-three-mont.md) _Context: Politics of Egypt_
-3. [Egypt's military deposes President Mohamed Morsi, and installs Adly Mansour, the head of the Supreme Constitutional Court, as the country's new interim leader. ](/news/2013/07/3/egypt-s-military-deposes-president-mohamed-morsi-and-installs-adly-mansour-the-head-of-the-supreme-constitutional-court-as-the-country-s.md) _Context: Egyptian president_
-4. [Egyptian officials deny that newly elected Egyptian President Mohammed Morsi will visit Iran to attend a conference. ](/news/2012/07/4/egyptian-officials-deny-that-newly-elected-egyptian-president-mohammed-morsi-will-visit-iran-to-attend-a-conference.md) _Context: Egyptian president_
+1. [The former Prime Minister of Egypt, 76-year-old Ahmed Shafik, retracts his candidacy for the upcoming presidential elections. ](/news/2018/01/7/the-former-prime-minister-of-egypt-76-year-old-ahmed-shafik-retracts-his-candidacy-for-the-upcoming-presidential-elections.md) _Context: 2018 presidential election, Politics of Egypt_
+2. [Minutes before the registration deadline, a second candidate, Moussa Mostafa Moussa, fulfills paperwork to participate in the 2018 presidential election. Leading opposition members called for a boycott, saying that a wave of repression has cleared the field of challengers to President Abdel Fattah el-Sisi. ](/news/2018/01/29/minutes-before-the-registration-deadline-a-second-candidate-moussa-mostafa-moussa-fulfills-paperwork-to-participate-in-the-2018-president.md) _Context: 2018 presidential election, Politics of Egypt_
+3. [The Parliament of Egypt approves, with a two-thirds majority in favour, extending the nationwide state of emergency for a further three months, starting January 13. ](/news/2018/01/9/the-parliament-of-egypt-approves-with-a-two-thirds-majority-in-favour-extending-the-nationwide-state-of-emergency-for-a-further-three-mont.md) _Context: Politics of Egypt_
+4. [Egypt's military deposes President Mohamed Morsi, and installs Adly Mansour, the head of the Supreme Constitutional Court, as the country's new interim leader. ](/news/2013/07/3/egypt-s-military-deposes-president-mohamed-morsi-and-installs-adly-mansour-the-head-of-the-supreme-constitutional-court-as-the-country-s.md) _Context: Egyptian president_

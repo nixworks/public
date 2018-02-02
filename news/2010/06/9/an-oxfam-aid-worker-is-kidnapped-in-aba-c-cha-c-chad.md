@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/9/an-oxfam-aid-worker-is-kidnapped-in-aba-c-cha-c-chad.html)  [JSON](/news/2010/06/9/an-oxfam-aid-worker-is-kidnapped-in-aba-c-cha-c-chad.json)  [XML](/news/2010/06/9/an-oxfam-aid-worker-is-kidnapped-in-aba-c-cha-c-chad.xml)  
+
 ### [2010-06-9](/news/2010/06/9/index.md)
 
+##### Oxfam
 # An Oxfam aid worker is kidnapped in Abeche, Chad. 
 
 An aid worker in Chad with the UK charity Oxfam has been kidnapped, the interior ministry confirms.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/world/africa/10276019.stm)
 1. [Cover Image](http://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1)

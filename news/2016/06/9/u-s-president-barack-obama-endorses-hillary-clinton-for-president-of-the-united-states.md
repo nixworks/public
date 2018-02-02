@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/06/9/u-s-president-barack-obama-endorses-hillary-clin
 
 ### [2016-06-9](/news/2016/06/9/index.md)
 
+##### 2016 United States presidential election
 # U.S. President Barack Obama endorses Hillary Clinton for President of the United States. 
 
 Clinton has widely been viewed as Obama’s preferred candidate throughout the 2016 race.

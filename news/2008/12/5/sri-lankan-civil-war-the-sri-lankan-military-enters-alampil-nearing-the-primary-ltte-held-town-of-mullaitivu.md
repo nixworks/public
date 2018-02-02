@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/12/5/sri-lankan-civil-war-the-sri-lankan-military-enters-alampil-nearing-the-primary-ltte-held-town-of-mullaitivu.html)  [JSON](/news/2008/12/5/sri-lankan-civil-war-the-sri-lankan-military-enters-alampil-nearing-the-primary-ltte-held-town-of-mullaitivu.json)  [XML](/news/2008/12/5/sri-lankan-civil-war-the-sri-lankan-military-enters-alampil-nearing-the-primary-ltte-held-town-of-mullaitivu.xml)  
+
 ### [2008-12-5](/news/2008/12/5/index.md)
 
+##### Sri Lankan Civil War
 #  Sri Lankan Civil War: the Sri Lankan military enters Alampil, nearing the primary LTTE-held town of Mullaitivu. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7766378.stm)
 

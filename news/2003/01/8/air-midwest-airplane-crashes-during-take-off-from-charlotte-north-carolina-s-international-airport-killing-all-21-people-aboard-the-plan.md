@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/01/8/air-midwest-airplane-crashes-during-take-off-from-charlotte-north-carolina-s-international-airport-killing-all-21-people-aboard-the-plan.html)  [JSON](/news/2003/01/8/air-midwest-airplane-crashes-during-take-off-from-charlotte-north-carolina-s-international-airport-killing-all-21-people-aboard-the-plan.json)  [XML](/news/2003/01/8/air-midwest-airplane-crashes-during-take-off-from-charlotte-north-carolina-s-international-airport-killing-all-21-people-aboard-the-plan.xml)  
+
 ### [2003-01-8](/news/2003/01/8/index.md)
 
+##### Air Midwest
 #  Air Midwest airplane crashes during take off from Charlotte, North Carolina's international airport, killing all 21 people aboard. The plane, headed to Greer, South Carolina, was not able to maintain altitude after take-off, crashing onto a US Airways plane hangar. In another crash, in Turkey, at least 74 of the 77 people on board died when a plane of the Turkish Airlines company, crashed while attempting an emergency landing at the Diyarbakir airport.
 
 

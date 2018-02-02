@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/08/9/at-least-14-people-are-killed-after-saudi-led-co
 
 ### [2016-08-9](/news/2016/08/9/index.md)
 
+##### Saudi Arabian-led intervention in Yemen
 # At least 14 people are killed after Saudi-led coalition airstrikes hit a food factory in Yemen's capital Sana'a. The airstrikes come just days after the suspension of inconclusive peace talks in Kuwait. 
 
 Bombing of potato factory in the capital Sana’a comes just days after the collapse of UN-brokered peace talks

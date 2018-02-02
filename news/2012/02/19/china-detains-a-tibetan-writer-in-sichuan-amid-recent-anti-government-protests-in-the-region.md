@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/19/china-detains-a-tibetan-writer-in-sichuan-amid-recent-anti-government-protests-in-the-region.html)  [JSON](/news/2012/02/19/china-detains-a-tibetan-writer-in-sichuan-amid-recent-anti-government-protests-in-the-region.json)  [XML](/news/2012/02/19/china-detains-a-tibetan-writer-in-sichuan-amid-recent-anti-government-protests-in-the-region.xml)  
+
 ### [2012-02-19](/news/2012/02/19/index.md)
 
+##### Tibet
 # China detains a Tibetan writer in Sichuan amid recent anti-government protests in the region. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Times of India](http://timesofindia.indiatimes.com/world/china/Tibetan-writer-detained-in-China-crackdown/articleshow/11948051.cms)
 

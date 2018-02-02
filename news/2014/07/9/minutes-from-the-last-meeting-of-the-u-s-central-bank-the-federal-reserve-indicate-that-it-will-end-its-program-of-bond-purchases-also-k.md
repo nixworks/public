@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2014/07/9/minutes-from-the-last-meeting-of-the-u-s-central-bank-the-federal-reserve-indicate-that-it-will-end-its-program-of-bond-purchases-also-k.html)  [JSON](/news/2014/07/9/minutes-from-the-last-meeting-of-the-u-s-central-bank-the-federal-reserve-indicate-that-it-will-end-its-program-of-bond-purchases-also-k.json)  [XML](/news/2014/07/9/minutes-from-the-last-meeting-of-the-u-s-central-bank-the-federal-reserve-indicate-that-it-will-end-its-program-of-bond-purchases-also-k.xml)  
+
 ### [2014-07-9](/news/2014/07/9/index.md)
 
+##### central bank
 # Minutes from the last meeting of the U.S. central bank, the Federal Reserve, indicate that it will end its program of bond purchases, also known as quantitative easing, this October. 
 
 Stocks finished higher on Wednesday, rebounding from a sharp two-day selloff, after minutes from the last Federal Reserve meeting showed policymakers have started to detail how the central bank will end its easy monetary policy.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/07/09/us-markets-stocks-idUSKBN0FD14H20140709)
-1. [Cover Image](http://s1.reutersmedia.net/resources/r/?m=02&d=20140708&t=2&i=924513150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA670O0)
+1. [Reuters](https://www.reuters.com/article/2014/07/09/us-markets-stocks-idUSKBN0FD14H20140709)
+1. [Cover Image](https://s1.reutersmedia.net/resources/r/?m=02&d=20140708&t=2&i=924513150&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEA670O0)
 
 ### Related:
 

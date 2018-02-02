@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/04/28/indonesia-malaysia-and-the-philippines-agree-on
 
 ### [2016-04-28](/news/2016/04/28/index.md)
 
+##### Moro conflict
 # Indonesia, Malaysia, and the Philippines agree on joint naval patrols after an increase of kidnappings by the Abu Sayyaf militants. 
 
 Indonesia will gather with Malaysian and Philippine officials in the capital next month to coordinate a joint patrol and intensify maritime security as a response to the increasing threats happening in the region&#39;s key trade sea lanes, an official said on Thursday.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/16/singer-p-nk-is-hospitalised-without-serious-injury-after-falling-out-of-a-harness-and-colliding-with-a-barricade-during-a-concert-in-nurembe.html)  [JSON](/news/2010/07/16/singer-p-nk-is-hospitalised-without-serious-injury-after-falling-out-of-a-harness-and-colliding-with-a-barricade-during-a-concert-in-nurembe.json)  [XML](/news/2010/07/16/singer-p-nk-is-hospitalised-without-serious-injury-after-falling-out-of-a-harness-and-colliding-with-a-barricade-during-a-concert-in-nurembe.xml)  
+
 ### [2010-07-16](/news/2010/07/16/index.md)
 
+##### P!nk
 # Singer P!nk is hospitalised without serious injury after falling out of a harness and colliding with a barricade during a concert in Nuremberg. 
 
 Vowing to handle the allegations of nepotism in government he has been hearing about recently, President Donald Trump appointed his daughter and her husband Jared Kushner to investigate.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/entertainment-arts-10659180)
 2. [CBC News](http://www.cbc.ca/arts/music/story/2010/07/16/pink-harness-concert-stunt.html)

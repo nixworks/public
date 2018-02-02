@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2008/10/9/head-of-international-monetary-fund-says-the-us-financial-crisis-threatens-to-send-the-world-into-a-recession-imf-releases-world-economic.html)  [JSON](/news/2008/10/9/head-of-international-monetary-fund-says-the-us-financial-crisis-threatens-to-send-the-world-into-a-recession-imf-releases-world-economic.json)  [XML](/news/2008/10/9/head-of-international-monetary-fund-says-the-us-financial-crisis-threatens-to-send-the-world-into-a-recession-imf-releases-world-economic.xml)  
+
 ### [2008-10-9](/news/2008/10/9/index.md)
 
+##### International Monetary Fund
 #  Head of International Monetary Fund says the US financial crisis threatens to send the world into a recession. IMF releases World Economic Outlook report with gloomy projections for the global financial system. 
 
 A late-day decline again pushed the markets down sharply, with the Dow falling more than 600 points a year to the day after hitting its record high.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/apps/news?pid=20601087&sid=ah7rLJahTxyA&refer=home)
+1. [Bloomberg](https://www.bloomberg.com/apps/news?pid=20601087&sid=ah7rLJahTxyA&refer=home)
 2. [Deutsche Welle](http://www.dw-world.de/dw/function/0,2145,12215_cid_3703262,00.html)
-3. [Forbes](http://www.forbes.com/feeds/ap/2008/10/08/ap5524908.html)
-4. [New York Times](http://www.nytimes.com/2008/10/10/business/10markets.html?_r=1&hp&oref=slogin)
+3. [Forbes](https://www.forbes.com/feeds/ap/2008/10/08/ap5524908.html)
+4. [New York Times](https://www.nytimes.com/2008/10/10/business/10markets.html?_r=1&hp&oref=slogin)
 5. [ekathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_economy_1_09/10/2008_101124)
 6. [ekathimerini](http://www.ekathimerini.com/4dcgi/_w_articles_economy_1_09/10/2008_101125)
 6. [Cover Image](https://static01.nyt.com/images/2008/10/10/business/10markets01-75.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/1/five-european-presidents-and-the-president-of-the-european-commission-cancel-visits-to-ukraine-over-the-treatment-of-the-former-prime-minist.html)  [JSON](/news/2012/05/1/five-european-presidents-and-the-president-of-the-european-commission-cancel-visits-to-ukraine-over-the-treatment-of-the-former-prime-minist.json)  [XML](/news/2012/05/1/five-european-presidents-and-the-president-of-the-european-commission-cancel-visits-to-ukraine-over-the-treatment-of-the-former-prime-minist.xml)  
+
 ### [2012-05-1](/news/2012/05/1/index.md)
 
+##### President of the European Commission
 # Five European presidents and the President of the European Commission cancel visits to Ukraine over the treatment of the former prime minister Yulia Tymoshenko. 
 
 Ukraine is facing growing isolation as five presidents and the EU Commission cancel visits over suspected maltreatment of Yulia Tymoshenko, its jailed former prime minister.
 
 
-### Source:
+### Sources:
 
 1. [The Sydney Morning Herald](http://www.smh.com.au/world/ukraine-rebuffed-over-jailed-leader-20120501-1xx3k.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/x/r/r/9/image.related.articleLeadwide.620x349.1xx3k.png/1335891600000.jpg)

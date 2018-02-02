@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/5/thai-authorities-take-steps-to-hold-peace-talks-with-two-muslim-insurgencies-the-patani-united-liberation-organisation-pulo-and-bersatu.html)  [JSON](/news/2006/10/5/thai-authorities-take-steps-to-hold-peace-talks-with-two-muslim-insurgencies-the-patani-united-liberation-organisation-pulo-and-bersatu.json)  [XML](/news/2006/10/5/thai-authorities-take-steps-to-hold-peace-talks-with-two-muslim-insurgencies-the-patani-united-liberation-organisation-pulo-and-bersatu.xml)  
+
 ### [2006-10-5](/news/2006/10/5/index.md)
 
+##### Patani United Liberation Organisation
 #  Thai authorities take steps to hold peace talks with two Muslim insurgencies, the Patani United Liberation Organisation (PULO) and Bersatu, who are fighting the Government in the Muslim-majority southern provinces of Thailand. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [News Limited](http://www.news.com.au/story/0,10117,20529226-1702,00.html?from=public_rss)
 

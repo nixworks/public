@@ -1,17 +1,21 @@
+
+Formats: [HTML](/news/2007/08/27/michael-vick-former-national-football-league-star-arrived-in-us-federal-circuit-court-in-richmond-virginia-and-pleads-guilty-to-federal.html)  [JSON](/news/2007/08/27/michael-vick-former-national-football-league-star-arrived-in-us-federal-circuit-court-in-richmond-virginia-and-pleads-guilty-to-federal.json)  [XML](/news/2007/08/27/michael-vick-former-national-football-league-star-arrived-in-us-federal-circuit-court-in-richmond-virginia-and-pleads-guilty-to-federal.xml)  
+
 ### [2007-08-27](/news/2007/08/27/index.md)
 
+##### Michael Vick
 #  Michael Vick, former National Football League star, arrived in US Federal Circuit Court in Richmond, Virginia and pleads guilty to federal dogfighting charges and then issues a public apology at the Omni Richmond Hotel. Sentencing by U.S. District Judge Henry E. Hudson will be in December 2007. 
 
 U.S. football star Michael Vick publicly apologized on Monday after pleading guilty in a dogfighting case that will almost certainly land him in jail and prompted his suspension from the sport.
 
 
-### Source:
+### Sources:
 
 1. [LA times](http://www.latimes.com/news/printedition/asection/la-sp-vick28aug28,1,5261596.story?coll=la-news-a_section)
 2. [Newsday.com](http://www.newsday.com/sports/football/ny-spvick285349181aug28,0,569200.story)
-3. [Reuters](http://www.reuters.com/article/newsOne/idUSN2745516320070827)
-4. [USA Today transcript of apology](http://www.usatoday.com/sports/football/2007-08-27-2672656486_x.htm)
-4. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+3. [Reuters](https://www.reuters.com/article/newsOne/idUSN2745516320070827)
+4. [USA Today transcript of apology](https://www.usatoday.com/sports/football/2007-08-27-2672656486_x.htm)
+4. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/12/3/the-israeli-parliament-the-knesset-votes-to-dissolve-the-government-and-hold-early-election-on-march-17.html)  [JSON](/news/2014/12/3/the-israeli-parliament-the-knesset-votes-to-dissolve-the-government-and-hold-early-election-on-march-17.json)  [XML](/news/2014/12/3/the-israeli-parliament-the-knesset-votes-to-dissolve-the-government-and-hold-early-election-on-march-17.xml)  
+
 ### [2014-12-3](/news/2014/12/3/index.md)
 
+##### Israel
 # The Israeli parliament- the Knesset votes to dissolve the government and hold early election on March 17. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Haaretz](http://www.haaretz.com/news/national/.premium-1.629714#!)
 

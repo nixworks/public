@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/02/20/louise-arbour-is-nominated-by-kofi-annan-to-serve-as-the-next-united-nations-high-commissioner-for-human-rights-arbour-currently-a-justic.html)  [JSON](/news/2004/02/20/louise-arbour-is-nominated-by-kofi-annan-to-serve-as-the-next-united-nations-high-commissioner-for-human-rights-arbour-currently-a-justic.json)  [XML](/news/2004/02/20/louise-arbour-is-nominated-by-kofi-annan-to-serve-as-the-next-united-nations-high-commissioner-for-human-rights-arbour-currently-a-justic.xml)  
+
 ### [2004-02-20](/news/2004/02/20/index.md)
 
+##### Louise Arbour
 #  Louise Arbour is nominated by Kofi Annan to serve as the next United Nations High Commissioner for Human Rights. Arbour, currently a justice of the Supreme Court of Canada, will replace the late Sergio Vieira de Mello, pending ratification by the General Assembly. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/stories/2004/02/20/arbour_UN040219)
 2. [UN](http://www.un.org/apps/news/story.asp?NewsID=9836&Cr=human&Cr1=rights)

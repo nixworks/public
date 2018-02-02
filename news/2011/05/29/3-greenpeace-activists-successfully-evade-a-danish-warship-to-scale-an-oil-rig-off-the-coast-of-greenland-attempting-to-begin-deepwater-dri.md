@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/05/29/3-greenpeace-activists-successfully-evade-a-danish-warship-to-scale-an-oil-rig-off-the-coast-of-greenland-attempting-to-begin-deepwater-dri.html)  [JSON](/news/2011/05/29/3-greenpeace-activists-successfully-evade-a-danish-warship-to-scale-an-oil-rig-off-the-coast-of-greenland-attempting-to-begin-deepwater-dri.json)  [XML](/news/2011/05/29/3-greenpeace-activists-successfully-evade-a-danish-warship-to-scale-an-oil-rig-off-the-coast-of-greenland-attempting-to-begin-deepwater-dri.xml)  
+
 ### [2011-05-29](/news/2011/05/29/index.md)
 
+##### Greenpeace India's
 # 3 Greenpeace activists successfully evade a Danish warship to scale an oil rig off the coast of Greenland, attempting to begin deepwater drilling in the arctic. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Irish Independent](http://www.independent.ie/breaking-news/world-news/greenpeace-activists-scale-oil-rig-2660826.html)
 1. [Cover Image](http://www.independent.ie/migration_catalog/article25227921.ece/ALTERNATES/h342/N0742301306670130902A_1)

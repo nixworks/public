@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/05/25/reginald-chua-hijacks-philippine-airlines-flight-812-an-airbus-a330-301-with-290-other-people-on-board-just-before-landing-at-ninoy-aquino.html)  [JSON](/news/2000/05/25/reginald-chua-hijacks-philippine-airlines-flight-812-an-airbus-a330-301-with-290-other-people-on-board-just-before-landing-at-ninoy-aquino.json)  [XML](/news/2000/05/25/reginald-chua-hijacks-philippine-airlines-flight-812-an-airbus-a330-301-with-290-other-people-on-board-just-before-landing-at-ninoy-aquino.xml)  
+
 ### [2000-05-25](/news/2000/05/25/index.md)
 
+##### Philippine Airlines Flight 812
 # Reginald Chua hijacks Philippine Airlines Flight 812, an Airbus A330-301 with 290 other people on board, just before landing at Ninoy Aquino International Airport near Manila, Philippines. He demands the passengers place their valuables in a bag, and then attempts to jump from the plane via the rear door using a homemade parachute, but panics and instead clings to the door; a male flight attendant then pushes him from the door and he falls from the plane over, Antipolo, Rizal. His body is found three days later near Llabac in Real, Quezon.
 
 

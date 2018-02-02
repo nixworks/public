@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/02/19/it-is-reported-that-billionaire-philip-anschutz-is-purchasing-the-san-francisco-examiner-for-an-estimated-20-million.html)  [JSON](/news/2004/02/19/it-is-reported-that-billionaire-philip-anschutz-is-purchasing-the-san-francisco-examiner-for-an-estimated-20-million.json)  [XML](/news/2004/02/19/it-is-reported-that-billionaire-philip-anschutz-is-purchasing-the-san-francisco-examiner-for-an-estimated-20-million.xml)  
+
 ### [2004-02-19](/news/2004/02/19/index.md)
 
+##### Philip Anschutz
 #  It is reported that billionaire Philip Anschutz is purchasing the "San Francisco Examiner" for an estimated $20 million.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/06/5/romania-s-national-anticorruption-directorate-announces-that-it-is-investigating-the-prime-minister-victor-ponta-for-alleged-money-launderin.html)  [JSON](/news/2015/06/5/romania-s-national-anticorruption-directorate-announces-that-it-is-investigating-the-prime-minister-victor-ponta-for-alleged-money-launderin.json)  [XML](/news/2015/06/5/romania-s-national-anticorruption-directorate-announces-that-it-is-investigating-the-prime-minister-victor-ponta-for-alleged-money-launderin.xml)  
+
 ### [2015-06-5](/news/2015/06/5/index.md)
 
+##### Romania
 # Romania's National Anticorruption Directorate announces that it is investigating the Prime Minister Victor Ponta for alleged money laundering, forgery and corruption. Ponta denies the allegations and is refusing to stand down. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://edition.cnn.com/2015/06/05/europe/romania-prime-minister-corruption-investigation/)
 

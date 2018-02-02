@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/04/27/nepal-civil-war-maoist-insurgents-in-nepal-responding-to-a-demand-by-the-newly-appointed-prime-minister-girija-prasad-koirala-announce-a.html)  [JSON](/news/2006/04/27/nepal-civil-war-maoist-insurgents-in-nepal-responding-to-a-demand-by-the-newly-appointed-prime-minister-girija-prasad-koirala-announce-a.json)  [XML](/news/2006/04/27/nepal-civil-war-maoist-insurgents-in-nepal-responding-to-a-demand-by-the-newly-appointed-prime-minister-girija-prasad-koirala-announce-a.xml)  
+
 ### [2006-04-27](/news/2006/04/27/index.md)
 
+##### Nepal Civil War
 #  Nepal Civil War: Maoist insurgents in Nepal, responding to a demand by the newly appointed prime minister Girija Prasad Koirala, announce a unilateral three-month truce. Kathmandu gradually resumes normality after weeks of pro-democracy protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4949066.stm)
 2. [VoA](http://voanews.com/english/nepal-ceasfire.cfm)

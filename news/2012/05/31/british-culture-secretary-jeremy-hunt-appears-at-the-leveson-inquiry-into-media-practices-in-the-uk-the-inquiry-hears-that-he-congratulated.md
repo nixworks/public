@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/31/british-culture-secretary-jeremy-hunt-appears-at-the-leveson-inquiry-into-media-practices-in-the-uk-the-inquiry-hears-that-he-congratulated.html)  [JSON](/news/2012/05/31/british-culture-secretary-jeremy-hunt-appears-at-the-leveson-inquiry-into-media-practices-in-the-uk-the-inquiry-hears-that-he-congratulated.json)  [XML](/news/2012/05/31/british-culture-secretary-jeremy-hunt-appears-at-the-leveson-inquiry-into-media-practices-in-the-uk-the-inquiry-hears-that-he-congratulated.xml)  
+
 ### [2012-05-31](/news/2012/05/31/index.md)
 
+##### Secretary of State for Culture, Media and Sport
 # British Culture Secretary Jeremy Hunt appears at the Leveson Inquiry into media practices in the UK. The inquiry hears that he congratulated James Murdoch on the progress of News Corporation's takeover bid for BSkyB just hours before he was charged with overseeing it, but acted impartially once he took on the role. Prime Minister David Cameron says he will not order an inquiry into Hunt's ministerial conduct. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-18286371)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/60610000/jpg/_60610058_jex_1422078_de36-1.jpg)

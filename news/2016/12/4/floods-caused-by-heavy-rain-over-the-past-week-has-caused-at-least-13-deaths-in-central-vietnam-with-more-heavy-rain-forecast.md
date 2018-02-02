@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/4/floods-caused-by-heavy-rain-over-the-past-week-h
 
 ### [2016-12-4](/news/2016/12/4/index.md)
 
+##### Vietnam
 # Floods caused by heavy rain over the past week has caused at least 13 deaths in central Vietnam with more heavy rain forecast. 
 
 Floods brought by torrential rain since late November have killed at least 13 people in central Vietnam while more heavy rain is expected in coming days, the government and state media said on Sunday.

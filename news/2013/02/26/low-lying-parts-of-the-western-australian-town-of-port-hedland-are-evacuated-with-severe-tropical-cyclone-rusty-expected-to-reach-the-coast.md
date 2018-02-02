@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/02/26/low-lying-parts-of-the-western-australian-town-of-port-hedland-are-evacuated-with-severe-tropical-cyclone-rusty-expected-to-reach-the-coast.html)  [JSON](/news/2013/02/26/low-lying-parts-of-the-western-australian-town-of-port-hedland-are-evacuated-with-severe-tropical-cyclone-rusty-expected-to-reach-the-coast.json)  [XML](/news/2013/02/26/low-lying-parts-of-the-western-australian-town-of-port-hedland-are-evacuated-with-severe-tropical-cyclone-rusty-expected-to-reach-the-coast.xml)  
+
 ### [2013-02-26](/news/2013/02/26/index.md)
 
+##### Western Australia
 # Low-lying parts of the Western Australian town of Port Hedland are evacuated with Severe Tropical Cyclone Rusty expected to reach the coast tomorrow. 
 
 The weather bureau is warning of phenomenal rainfall as a red alert places parts of the Pilbara in lockdown with Tropical Cyclone Rusty bearing down.
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS News](http://www.sbs.com.au/news/article/1741030/Cyclone-puts-Port-Hedland-on-red-alert)
 2. [ABC News Australia](http://www.abc.net.au/news/2013-02-26/pilbara-residents-nervously-monitoring-cyclone-rusty/4539804)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/04/26/nauruan-elections-are-held-after-the-dissolution-of-parliament-on-april-18.html)  [JSON](/news/2008/04/26/nauruan-elections-are-held-after-the-dissolution-of-parliament-on-april-18.json)  [XML](/news/2008/04/26/nauruan-elections-are-held-after-the-dissolution-of-parliament-on-april-18.xml)  
+
 ### [2008-04-26](/news/2008/04/26/index.md)
 
+##### Nauruan elections
 #  Nauruan elections are held after the dissolution of Parliament on April 18. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio New Zealand](http://www.rnzi.com/pages/news.php?op=read&id=39386)
 

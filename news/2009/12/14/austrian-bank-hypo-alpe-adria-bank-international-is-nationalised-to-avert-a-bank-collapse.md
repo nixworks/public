@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2009/12/14/austrian-bank-hypo-alpe-adria-bank-international-is-nationalised-to-avert-a-bank-collapse.html)  [JSON](/news/2009/12/14/austrian-bank-hypo-alpe-adria-bank-international-is-nationalised-to-avert-a-bank-collapse.json)  [XML](/news/2009/12/14/austrian-bank-hypo-alpe-adria-bank-international-is-nationalised-to-avert-a-bank-collapse.xml)  
+
 ### [2009-12-14](/news/2009/12/14/index.md)
 
+##### Austria
 #  Austrian bank Hypo Alpe-Adria-Bank International is nationalised to avert a bank collapse. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/hotStocksNews/idUSWEA535020091214)
-1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+1. [Reuters](https://www.reuters.com/article/hotStocksNews/idUSWEA535020091214)
+1. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 
-1. [Voters in Austria go to the polls to elect a new National Council. ](/news/2017/10/15/voters-in-austria-go-to-the-polls-to-elect-a-new-national-council.md) _Context: Austria_
-2. [Five people were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg. ](/news/2017/08/27/five-people-were-killed-and-one-seriously-injured-after-a-mountain-accident-on-sunday-in-the-austrian-state-of-salzburg.md) _Context: Austria_
-3. [An avalanche kills four skiers in Tyrol, Austria. ](/news/2017/03/15/an-avalanche-kills-four-skiers-in-tyrol-austria.md) _Context: Austria_
-4. [An Austrian court grants a United States request to extradite Ukrainian businessman Dmytro Firtash. U.S. officials accuse Firtash of being involved in a scandal where he allegedly paid US$18.5 million in bribes for a permit to mine titanium in India, something Firtash denies. ](/news/2017/02/21/an-austrian-court-grants-a-united-states-request-to-extradite-ukrainian-businessman-dmytro-firtash-u-s-officials-accuse-firtash-of-being-i.md) _Context: Austria_
-5. [Austria agrees to ban the full-face veil (burqa and niqab) in public spaces, part of a larger deal struck by the center-left Social Democratic Party and the center-right Austrian People's Party to avoid the collapse of the ruling coalition government. ](/news/2017/01/31/austria-agrees-to-ban-the-full-face-veil-burqa-and-niqab-in-public-spaces-part-of-a-larger-deal-struck-by-the-center-left-social-democra.md) _Context: Austria_
+1. [Austria's Constitutional Court rules that the government cannot discriminate against same-sex couples' right to marry. ](/news/2017/12/5/austria-s-constitutional-court-rules-that-the-government-cannot-discriminate-against-same-sex-couples-right-to-marry.md) _Context: Austria_
+2. [Sebastian Kurz becomes the new Chancellor of Austria and a new government is inaugurated. ](/news/2017/12/18/sebastian-kurz-becomes-the-new-chancellor-of-austria-and-a-new-government-is-inaugurated.md) _Context: Austria_
+3. [Voters in Austria go to the polls to elect a new National Council. ](/news/2017/10/15/voters-in-austria-go-to-the-polls-to-elect-a-new-national-council.md) _Context: Austria_
+4. [Five people were killed and one seriously injured after a mountain accident on Sunday in the Austrian state of Salzburg. ](/news/2017/08/27/five-people-were-killed-and-one-seriously-injured-after-a-mountain-accident-on-sunday-in-the-austrian-state-of-salzburg.md) _Context: Austria_
+5. [An avalanche kills four skiers in Tyrol, Austria. ](/news/2017/03/15/an-avalanche-kills-four-skiers-in-tyrol-austria.md) _Context: Austria_

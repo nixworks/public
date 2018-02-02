@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/9/joshua-komisarjevsky-found-guilty-of-the-cheshire-connecticut-home-invasion-murders-is-sentenced-to-death-by-lethal-injection.html)  [JSON](/news/2011/12/9/joshua-komisarjevsky-found-guilty-of-the-cheshire-connecticut-home-invasion-murders-is-sentenced-to-death-by-lethal-injection.json)  [XML](/news/2011/12/9/joshua-komisarjevsky-found-guilty-of-the-cheshire-connecticut-home-invasion-murders-is-sentenced-to-death-by-lethal-injection.xml)  
+
 ### [2011-12-9](/news/2011/12/9/index.md)
 
+##### Cheshire, Connecticut home invasion murders
 # Joshua Komisarjevsky, found guilty of the Cheshire, Connecticut home invasion murders, is sentenced to death by lethal injection. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://abcnews.go.com/US/petit-home-invasion-sentenc-death/story?id=15097270#.TuJzjTs9gZM)
 

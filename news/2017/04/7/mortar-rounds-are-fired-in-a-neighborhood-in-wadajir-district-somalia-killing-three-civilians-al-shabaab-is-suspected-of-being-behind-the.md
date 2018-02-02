@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/7/mortar-rounds-are-fired-in-a-neighborhood-in-wad
 
 ### [2017-04-7](/news/2017/04/7/index.md)
 
+##### War in Somalia (2009-present)
 # Mortar rounds are fired in a neighborhood in Wadajir District, Somalia, killing three civilians. Al-Shabaab is suspected of being behind the attack. 
 
  Mortar shells fired into homes in the Somali capital of Mogadishu has killed three people and wounded five, police and ambulance services said on Friday, a day

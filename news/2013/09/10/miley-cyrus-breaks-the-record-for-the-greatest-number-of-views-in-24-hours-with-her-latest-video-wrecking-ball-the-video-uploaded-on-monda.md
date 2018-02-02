@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/09/10/miley-cyrus-breaks-the-record-for-the-greatest-number-of-views-in-24-hours-with-her-latest-video-wrecking-ball-the-video-uploaded-on-monda.html)  [JSON](/news/2013/09/10/miley-cyrus-breaks-the-record-for-the-greatest-number-of-views-in-24-hours-with-her-latest-video-wrecking-ball-the-video-uploaded-on-monda.json)  [XML](/news/2013/09/10/miley-cyrus-breaks-the-record-for-the-greatest-number-of-views-in-24-hours-with-her-latest-video-wrecking-ball-the-video-uploaded-on-monda.xml)  
+
 ### [2013-09-10](/news/2013/09/10/index.md)
 
+##### Miley Cyrus
 # Miley Cyrus breaks the record for the greatest number of views in 24 hours with her latest video Wrecking Ball. The video, uploaded on Monday, has 19.3 million views after a single day, and many people complain about this video. This has been her second record, and the third Vevo record video to become a frequent target for negative comments, the others being Stupid Hoe by Nicki Minaj and We Can't Stop by Miley Cyrus, the latter record set earlier this year.
 
 Singer&#39;s provocative clip beats One Direction&#39;s Best Song Ever video with 19 million views in 24 hours
 
 
-### Source:
+### Sources:
 
 1. [E online](http://www.eonline.com/news/457154/miley-cyrus-wrecking-ball-breaks-record-for-vevo-s-most-viewed-video)
 1. [Cover Image](http://akns-images.eonline.com/eol_images/Entire_Site/201389/rs_300x300-130909110127-600.miley-cyrus-wrecking-ball-video.ls.9913.jpg?downsize=600:*&crop=600:315;left,top)

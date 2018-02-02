@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/14/the-british-house-of-commons-votes-by-384-to-184-on-a-conscience-vote-to-implement-a-full-smoking-ban-in-all-enclosed-public-places-in-en.html)  [JSON](/news/2006/02/14/the-british-house-of-commons-votes-by-384-to-184-on-a-conscience-vote-to-implement-a-full-smoking-ban-in-all-enclosed-public-places-in-en.json)  [XML](/news/2006/02/14/the-british-house-of-commons-votes-by-384-to-184-on-a-conscience-vote-to-implement-a-full-smoking-ban-in-all-enclosed-public-places-in-en.xml)  
+
 ### [2006-02-14](/news/2006/02/14/index.md)
 
+##### British House of Commons
 #  The British House of Commons votes by 384 to 184, on a conscience vote, to implement a full smoking ban in all enclosed public places in England from summer 2007. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/1/hi/uk_politics/4709258.stm)
 

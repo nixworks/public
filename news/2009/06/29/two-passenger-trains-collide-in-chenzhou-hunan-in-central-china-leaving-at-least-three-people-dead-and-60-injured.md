@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/29/two-passenger-trains-collide-in-chenzhou-hunan-in-central-china-leaving-at-least-three-people-dead-and-60-injured.html)  [JSON](/news/2009/06/29/two-passenger-trains-collide-in-chenzhou-hunan-in-central-china-leaving-at-least-three-people-dead-and-60-injured.json)  [XML](/news/2009/06/29/two-passenger-trains-collide-in-chenzhou-hunan-in-central-china-leaving-at-least-three-people-dead-and-60-injured.xml)  
+
 ### [2009-06-29](/news/2009/06/29/index.md)
 
+##### collide
 #  Two passenger trains collide in Chenzhou, Hunan in central China, leaving at least three people dead and 60 injured. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Xinhua](http://news.xinhuanet.com/photo/2009-06/29/content_11616509.htm)
 

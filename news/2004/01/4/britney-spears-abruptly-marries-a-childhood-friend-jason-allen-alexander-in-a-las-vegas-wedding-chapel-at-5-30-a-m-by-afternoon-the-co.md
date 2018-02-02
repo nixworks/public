@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/01/4/britney-spears-abruptly-marries-a-childhood-friend-jason-allen-alexander-in-a-las-vegas-wedding-chapel-at-5-30-a-m-by-afternoon-the-co.html)  [JSON](/news/2004/01/4/britney-spears-abruptly-marries-a-childhood-friend-jason-allen-alexander-in-a-las-vegas-wedding-chapel-at-5-30-a-m-by-afternoon-the-co.json)  [XML](/news/2004/01/4/britney-spears-abruptly-marries-a-childhood-friend-jason-allen-alexander-in-a-las-vegas-wedding-chapel-at-5-30-a-m-by-afternoon-the-co.xml)  
+
 ### [2004-01-4](/news/2004/01/4/index.md)
 
+##### Britney Spears
 #  Britney Spears abruptly marries a childhood friend, Jason Allen Alexander, in a Las Vegas wedding chapel at 5:30 a.m.; by afternoon, the couple have arranged an annulment, which is expected to be made official when the courts reopen on Monday.
 
 

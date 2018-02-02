@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/11/the-organisation-for-the-prohibition-of-chemical-weapons-confirmed-the-destruction-of-the-entire-chemical-weapons-stockpile-in-albania.html)  [JSON](/news/2007/07/11/the-organisation-for-the-prohibition-of-chemical-weapons-confirmed-the-destruction-of-the-entire-chemical-weapons-stockpile-in-albania.json)  [XML](/news/2007/07/11/the-organisation-for-the-prohibition-of-chemical-weapons-confirmed-the-destruction-of-the-entire-chemical-weapons-stockpile-in-albania.xml)  
+
 ### [2007-07-11](/news/2007/07/11/index.md)
 
+##### Organisation for the Prohibition of Chemical Weapons
 #  The Organisation for the Prohibition of Chemical Weapons confirmed the destruction of the entire chemical weapons stockpile in Albania.
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.iht.com/articles/ap/2007/07/13/europe/EU-GEN-Netherlands-Albania-Chemical-Weapons.php)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/10/6/pervez-musharraf-wins-the-pakistani-presidential-election-in-unofficial-results-the-announcement-of-the-official-result-will-be-withheld-u.html)  [JSON](/news/2007/10/6/pervez-musharraf-wins-the-pakistani-presidential-election-in-unofficial-results-the-announcement-of-the-official-result-will-be-withheld-u.json)  [XML](/news/2007/10/6/pervez-musharraf-wins-the-pakistani-presidential-election-in-unofficial-results-the-announcement-of-the-official-result-will-be-withheld-u.xml)  
+
 ### [2007-10-6](/news/2007/10/6/index.md)
 
+##### Pervez Musharraf
 #  Pervez Musharraf wins the Pakistani Presidential Election in unofficial results. The announcement of the official result will be withheld until a Supreme Court verdict is made on the legality of his candidacy. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/7031070.stm)
 

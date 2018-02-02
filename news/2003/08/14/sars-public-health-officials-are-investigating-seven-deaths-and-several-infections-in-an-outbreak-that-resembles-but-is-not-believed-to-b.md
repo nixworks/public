@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/08/14/sars-public-health-officials-are-investigating-seven-deaths-and-several-infections-in-an-outbreak-that-resembles-but-is-not-believed-to-b.html)  [JSON](/news/2003/08/14/sars-public-health-officials-are-investigating-seven-deaths-and-several-infections-in-an-outbreak-that-resembles-but-is-not-believed-to-b.json)  [XML](/news/2003/08/14/sars-public-health-officials-are-investigating-seven-deaths-and-several-infections-in-an-outbreak-that-resembles-but-is-not-believed-to-b.xml)  
+
 ### [2003-08-14](/news/2003/08/14/index.md)
 
+##### SARS
 #  SARS: Public health officials are investigating seven deaths and several infections in an outbreak that resembles, but is not believed to be, SARS in a nursing home in Surrey, British Columbia (a suburb of Vancouver). However, until more is known about the disease, the home will be treated as a SARS site for safety's sake. 
 
 

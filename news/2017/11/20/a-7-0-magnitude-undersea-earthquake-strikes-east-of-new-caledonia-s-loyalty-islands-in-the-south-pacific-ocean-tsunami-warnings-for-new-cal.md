@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/20/a-7-0-magnitude-undersea-earthquake-strikes-eas
 
 ### [2017-11-20](/news/2017/11/20/index.md)
 
+##### Earthquakes in 2017
 # A 7.0 magnitude undersea earthquake strikes east of New Caledonia's Loyalty Islands in the South Pacific Ocean. Tsunami warnings for New Caledonia and Vanuatu are cancelled. There are no immediate reports of damage. 
 
 

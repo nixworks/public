@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/18/japanese-history-textbooks-controversy-sino-japanese-relations-worsen-after-a-meeting-between-chinese-state-councilor-tang-jiaxuan-foreig.html)  [JSON](/news/2005/04/18/japanese-history-textbooks-controversy-sino-japanese-relations-worsen-after-a-meeting-between-chinese-state-councilor-tang-jiaxuan-foreig.json)  [XML](/news/2005/04/18/japanese-history-textbooks-controversy-sino-japanese-relations-worsen-after-a-meeting-between-chinese-state-councilor-tang-jiaxuan-foreig.xml)  
+
 ### [2005-04-18](/news/2005/04/18/index.md)
 
+##### Japanese history textbooks controversy
 #  Japanese history textbooks controversy: Sino-Japanese relations worsen after a meeting between Chinese State Councilor Tang Jiaxuan, Foreign Minister Li Zhaoxing, and Japanese Foreign Minister Nobutaka Machimura in Beijing. China continues to refuse an apology for the increasing number of anti-Japanese protests, and further accuses Japan for handling the issues of history and Taiwan "incorrectly". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Radio Australia](http://www.abc.net.au/ra/news/stories/s1348218.htm)
 

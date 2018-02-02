@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/10/the-gadhafi-foundation-announces-a-deal-has-been-reached-with-families-of-more-than-400-children-infected-with-hiv-in-the-case-of-five-bulg.html)  [JSON](/news/2007/07/10/the-gadhafi-foundation-announces-a-deal-has-been-reached-with-families-of-more-than-400-children-infected-with-hiv-in-the-case-of-five-bulg.json)  [XML](/news/2007/07/10/the-gadhafi-foundation-announces-a-deal-has-been-reached-with-families-of-more-than-400-children-infected-with-hiv-in-the-case-of-five-bulg.xml)  
+
 ### [2007-07-10](/news/2007/07/10/index.md)
 
+##### Muammar al-Gaddafi
 #  The Gadhafi Foundation announces a deal has been reached with families of more than 400 children infected with HIV in the case of five Bulgarian nurses and a Palestinian doctor. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via the Guardian](http://www.guardian.co.uk/worldlatest/story/0,,-6770462,00.html)
 

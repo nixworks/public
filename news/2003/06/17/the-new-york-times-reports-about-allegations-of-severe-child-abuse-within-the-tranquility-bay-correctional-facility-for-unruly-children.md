@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/06/17/the-new-york-times-reports-about-allegations-of-severe-child-abuse-within-the-tranquility-bay-correctional-facility-for-unruly-children.html)  [JSON](/news/2003/06/17/the-new-york-times-reports-about-allegations-of-severe-child-abuse-within-the-tranquility-bay-correctional-facility-for-unruly-children.json)  [XML](/news/2003/06/17/the-new-york-times-reports-about-allegations-of-severe-child-abuse-within-the-tranquility-bay-correctional-facility-for-unruly-children.xml)  
+
 ### [2003-06-17](/news/2003/06/17/index.md)
 
+##### New York Times
 #  The "New York Times" reports about allegations of severe child abuse within the "Tranquility Bay" correctional facility for unruly children, run by the Utah-based World Wide Association of Specialty Programs and Schools.
 
 

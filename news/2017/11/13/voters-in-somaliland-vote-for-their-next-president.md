@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/13/voters-in-somaliland-vote-for-their-next-presid
 
 ### [2017-11-13](/news/2017/11/13/index.md)
 
+##### Somaliland general election, 2017
 # Voters in Somaliland vote for their next president. 
 
 HARGEISA - Voters across Somaliland went to the polls on Monday, November 13th, to elect the next and 5th President of the Republic of Somaliland. All three presidential candidates, Musa Bihi Abdi (Kulmiye), Abdirahman Mohamed Abdullahi Irro (Waddani), and Faisal Ali Waraabe (UCID), casted their

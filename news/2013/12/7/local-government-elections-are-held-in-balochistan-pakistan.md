@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/12/7/local-government-elections-are-held-in-balochistan-pakistan.html)  [JSON](/news/2013/12/7/local-government-elections-are-held-in-balochistan-pakistan.json)  [XML](/news/2013/12/7/local-government-elections-are-held-in-balochistan-pakistan.xml)  
+
 ### [2013-12-7](/news/2013/12/7/index.md)
 
+##### Balochistan
 # Local government elections are held in Balochistan, Pakistan. 
 
 Amid tight security, polling for local bodies&rsquo; elections was held largely in peaceful manner in Balochistan. 
 
 
-### Source:
+### Sources:
 
 1. [Dawn News](http://www.dawn.com/news/1061223/balochistan-votes-peacefully-in-local-bodies-polls)
 1. [Cover Image](http://i.dawn.com/medium/2013/12/52a3dafb18b61.jpg)

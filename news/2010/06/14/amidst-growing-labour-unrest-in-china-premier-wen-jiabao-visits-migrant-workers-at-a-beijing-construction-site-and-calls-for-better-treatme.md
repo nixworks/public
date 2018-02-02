@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/06/14/amidst-growing-labour-unrest-in-china-premier-wen-jiabao-visits-migrant-workers-at-a-beijing-construction-site-and-calls-for-better-treatme.html)  [JSON](/news/2010/06/14/amidst-growing-labour-unrest-in-china-premier-wen-jiabao-visits-migrant-workers-at-a-beijing-construction-site-and-calls-for-better-treatme.json)  [XML](/news/2010/06/14/amidst-growing-labour-unrest-in-china-premier-wen-jiabao-visits-migrant-workers-at-a-beijing-construction-site-and-calls-for-better-treatme.xml)  
+
 ### [2010-06-14](/news/2010/06/14/index.md)
 
+##### labour unrest in China
 # Amidst growing labour unrest in China, Premier Wen Jiabao visits migrant workers at a Beijing construction site and calls for better treatment for the country's migrant workers. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Strait Times](http://www.straitstimes.com/BreakingNews/Asia/Story/STIStory_540539.html)
 2. [Xinhua](http://news.xinhuanet.com/english2010/china/2010-06/15/c_13350414.htm)

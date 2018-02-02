@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/12/2/scientists-in-gabon-and-the-republic-of-congo-discover-that-three-species-of-fruit-bat-serve-as-animal-reservoirs-for-the-ebola-virus-the.html)  [JSON](/news/2005/12/2/scientists-in-gabon-and-the-republic-of-congo-discover-that-three-species-of-fruit-bat-serve-as-animal-reservoirs-for-the-ebola-virus-the.json)  [XML](/news/2005/12/2/scientists-in-gabon-and-the-republic-of-congo-discover-that-three-species-of-fruit-bat-serve-as-animal-reservoirs-for-the-ebola-virus-the.xml)  
+
 ### [2005-12-2](/news/2005/12/2/index.md)
 
+##### Gabon
 #  Scientists in Gabon and the Republic of Congo discover that three species of fruit bat serve as animal reservoirs for the Ebola virus. The virus probably first spread from animal to human in 1976 by local hunters eating the bats. 
 
 Researchers working in Gabon and Congo have identified three species of fruit bat as the long-sought reservoirs of one of the deadliest known human pathogens, the Ebola virus.The team tested more...
 
 
-### Source:
+### Sources:
 
 1. [LA Times](http://www.latimes.com/news/nationworld/world/la-sci-ebola1dec01,1,6862086.story?ctrack=1&cset=true)
 2. [Nature](http://www.nature.com/nature/journal/v438/n7068/edsumm/e051201-07.html)

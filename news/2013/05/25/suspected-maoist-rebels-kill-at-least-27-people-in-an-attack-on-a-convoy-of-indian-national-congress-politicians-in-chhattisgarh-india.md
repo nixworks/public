@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/05/25/suspected-maoist-rebels-kill-at-least-27-people-in-an-attack-on-a-convoy-of-indian-national-congress-politicians-in-chhattisgarh-india.html)  [JSON](/news/2013/05/25/suspected-maoist-rebels-kill-at-least-27-people-in-an-attack-on-a-convoy-of-indian-national-congress-politicians-in-chhattisgarh-india.json)  [XML](/news/2013/05/25/suspected-maoist-rebels-kill-at-least-27-people-in-an-attack-on-a-convoy-of-indian-national-congress-politicians-in-chhattisgarh-india.xml)  
+
 ### [2013-05-25](/news/2013/05/25/index.md)
 
+##### Naxalite
 # Suspected Maoist rebels kill at least 27 people in an attack on a convoy of Indian National Congress politicians in Chhattisgarh, India. 
 
 Around 250 Naxals in civilian clothes struck a convoy of Congress leaders during the party&#039;s Parivartan Rally in Chhattisgarh&#039;s Jagdalpur on Saturday, killing at least 30 people, including state Congress chief Nand Kumar Patel and senior party leader Mahendra Karma.
 
 
-### Source:
+### Sources:
 
 1. [NDTV](http://www.ndtv.com/article/india/chhattisgarh-naxal-attack-top-state-congress-leaders-among-25-killed-371402)
 2. [The Times of India](http://timesofindia.indiatimes.com/india/Salwa-Judum-architect-Mahendra-Karma-among-several-Cong-leaders-killed-in-Maoist-attack/articleshow/20267026.cms)

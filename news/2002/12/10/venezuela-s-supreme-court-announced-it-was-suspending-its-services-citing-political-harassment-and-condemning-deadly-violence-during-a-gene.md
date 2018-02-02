@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/12/10/venezuela-s-supreme-court-announced-it-was-suspending-its-services-citing-political-harassment-and-condemning-deadly-violence-during-a-gene.html)  [JSON](/news/2002/12/10/venezuela-s-supreme-court-announced-it-was-suspending-its-services-citing-political-harassment-and-condemning-deadly-violence-during-a-gene.json)  [XML](/news/2002/12/10/venezuela-s-supreme-court-announced-it-was-suspending-its-services-citing-political-harassment-and-condemning-deadly-violence-during-a-gene.xml)  
+
 ### [2002-12-10](/news/2002/12/10/index.md)
 
+##### Venezuela
 # Venezuela's Supreme Court announced it was suspending its services, citing political harassment and condemning deadly violence during a general strike by opponents of President Hugo Chvez.
 
 

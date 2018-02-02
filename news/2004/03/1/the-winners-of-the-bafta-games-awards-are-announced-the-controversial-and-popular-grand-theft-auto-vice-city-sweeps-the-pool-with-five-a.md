@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/1/the-winners-of-the-bafta-games-awards-are-announced-the-controversial-and-popular-grand-theft-auto-vice-city-sweeps-the-pool-with-five-a.html)  [JSON](/news/2004/03/1/the-winners-of-the-bafta-games-awards-are-announced-the-controversial-and-popular-grand-theft-auto-vice-city-sweeps-the-pool-with-five-a.json)  [XML](/news/2004/03/1/the-winners-of-the-bafta-games-awards-are-announced-the-controversial-and-popular-grand-theft-auto-vice-city-sweeps-the-pool-with-five-a.xml)  
+
 ### [2004-03-1](/news/2004/03/1/index.md)
 
+##### British Academy of Film and Television Arts
 #  The winners of the BAFTA Games Awards are announced. The controversial and popular Grand Theft Auto: Vice City sweeps the pool, with five awards. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Digit Magazine](http://www.digitmag.co.uk/news/index.cfm?fuseaction=displaynews&NewsID=3814&Page=1&pagePos=2)
 

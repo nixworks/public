@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/01/25/belgium-supports-a-plan-by-dutch-minister-lilia
 
 ### [2017-01-25](/news/2017/01/25/index.md)
 
+##### Women's rights
 # Belgium supports a plan by Dutch minister Lilianne Ploumen to launch a fund compensating worldwide for the United States' newly-reinstated Mexico City policy. 
 
 
@@ -21,7 +22,7 @@ Formats: [HTML](/news/2017/01/25/belgium-supports-a-plan-by-dutch-minister-lilia
 
 ### Related:
 
-1. [U.S. President Donald Trump issues executive orders to withdraw the United States from the Trans-Pacific Partnership, and reinstates the Mexico City Policy, a policy banning U.S. aid to foreign organizations that use funds from other sources to perform or discuss abortions, which Barack Obama scrapped in 2009. ](/news/2017/01/23/u-s-president-donald-trump-issues-executive-orders-to-withdraw-the-united-states-from-the-trans-pacific-partnership-and-reinstates-the-mex.md) _Context: Mexico City policy, U.S._
+1. [Belgium and the Netherlands, by swapping 48 acres of land, agree that one section of their border is now the center of the Meuse River. This is expected to fix a police jurisdiction problem. ](/news/2018/01/5/belgium-and-the-netherlands-by-swapping-48-acres-of-land-agree-that-one-section-of-their-border-is-now-the-center-of-the-meuse-river-this.md) _Context: Belgium, Netherlands_
 2. [Diplomats from Germany, France, Italy, the Netherlands, Belgium, and Luxembourg meet in Berlin to discuss the consequences of the United Kingdom voting to leave the European Union. ](/news/2016/06/25/diplomats-from-germany-france-italy-the-netherlands-belgium-and-luxembourg-meet-in-berlin-to-discuss-the-consequences-of-the-united-kin.md) _Context: Belgium, Netherlands_
 3. [Myanmar tops the 2015 Charities Aid Foundation's World Giving Index which measures each country's charitable behavior. Individuals indicate whether they have donated money, volunteered, or helped a stranger in the past month. The United States, which tied with Myanmar last year, is second, followed by New Zealand, Canada, Australia, the United Kingdom, the Netherlands, Sri Lanka, Ireland, and Malaysia. ](/news/2015/11/10/myanmar-tops-the-2015-charities-aid-foundation-s-world-giving-index-which-measures-each-country-s-charitable-behavior-individuals-indicate.md) _Context: Netherlands, U.S._
 4. [The United States has snooped on the Netherlands since 1946, according to files published in NRC Handelsblad. ](/news/2013/11/22/the-united-states-has-snooped-on-the-netherlands-since-1946-according-to-files-published-in-nrc-handelsblad.md) _Context: Netherlands, U.S._

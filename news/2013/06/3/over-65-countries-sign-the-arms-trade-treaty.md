@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2013/06/3/over-65-countries-sign-the-arms-trade-treaty.html)  [JSON](/news/2013/06/3/over-65-countries-sign-the-arms-trade-treaty.json)  [XML](/news/2013/06/3/over-65-countries-sign-the-arms-trade-treaty.xml)  
+
 ### [2013-06-3](/news/2013/06/3/index.md)
 
+##### Arms Trade Treaty
 # Over 65 countries sign the Arms Trade Treaty. 
 
-More than 65 countries signed a landmark treaty Monday regulating the multibillion-dollar global arms trade Monday and the United States announced it will sign soon.
 
 
-### Source:
 
-1. [USA Today](http://www.usatoday.com/story/news/world/2013/06/03/arms-trade-treaty-united-nations/2386271/)
+### Sources:
+
+1. [USA Today](https://www.usatoday.com/story/news/world/2013/06/03/arms-trade-treaty-united-nations/2386271/)
 1. [Cover Image](https://www.gannett-cdn.com/GDContent/applogos/usatoday.png)
 
 ### Related:

@@ -1,19 +1,23 @@
+
+Formats: [HTML](/news/2010/07/29/the-site-institute-a-terrorist-monitoring-organisation-states-that-the-al-qaeda-affiliated-islamic-state-of-iraq-has-claimed-responsibilit.html)  [JSON](/news/2010/07/29/the-site-institute-a-terrorist-monitoring-organisation-states-that-the-al-qaeda-affiliated-islamic-state-of-iraq-has-claimed-responsibilit.json)  [XML](/news/2010/07/29/the-site-institute-a-terrorist-monitoring-organisation-states-that-the-al-qaeda-affiliated-islamic-state-of-iraq-has-claimed-responsibilit.xml)  
+
 ### [2010-07-29](/news/2010/07/29/index.md)
 
+##### SITE Institute
 # The SITE Institute, a terrorist-monitoring organisation, states that the al-Qaeda affiliated Islamic State of Iraq has claimed responsibility for a deadly attack on the offices of Al-Arabiya Television in Baghdad that killed four people and injured at least 10. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5iPzA2do-W3C-sh9ISFyOws0KRijQ)
 2. [Middle East News](http://www.alarabiya.net/articles/2010/07/26/114859.html)
 
 ### Related:
 
-1. [ The "pre-election offensive" against the Iraqi resistance continues in the rebel-held city of Fallujah, with air-strikes killing at least 16, including women and children. Joint U.S.-Iraqi forces say that they are targeting Jordanian militant Abu Musab al-Zarqawi, who is linked to al-Qaeda. The U.S. military says it is investigating an incident that occurred September 12 in Baghdad in which five people, including an "al-Arabiya" journalist broadcasting live, were killed in a helicopter attack. ](/news/2004/09/13/the-pre-election-offensive-against-the-iraqi-resistance-continues-in-the-rebel-held-city-of-fallujah-with-air-strikes-killing-at-least-1.md) _Context: Al Arabiya, Baghdad, al-Qaeda_
-2. [Tariq al-Hashimi rejects the charges leading to his death sentence in Baghdad on Sunday. He, being a Sunni, claims to be a "target" of Shiite prime minister Nouri al-Maliki. He refuses to return to Iraq for an appeal as long as, according to him, the judicial system is "corrupt". He claims to put the verdict "on his chest as a medal". Al-Qaeda says "black days" are ahead. The reaction of Iraqi people on the street generally welcomes a fair rule of law but is wary of political influencing and sectarianism. ](/news/2012/09/10/tariq-al-hashimi-rejects-the-charges-leading-to-his-death-sentence-in-baghdad-on-sunday-he-being-a-sunni-claims-to-be-a-target-of-shiit.md) _Context: Baghdad, al-Qaeda_
-3. [The Islamic State of Iraq posts a statement on the internet claiming responsibility for Sunday's triple bombings in Baghdad which killed at least 40 people and affected some foreign embassies but denies involvement in Tuesday's six bombings which killed 35 people in Shia areas. ](/news/2010/04/9/the-islamic-state-of-iraq-posts-a-statement-on-the-internet-claiming-responsibility-for-sunday-s-triple-bombings-in-baghdad-which-killed-at.md) _Context: Baghdad, Islamic State of Iraq_
-4. [ Sixteen members of al-Qaeda, five of whom have been sentenced to death, are at large after escaping from prison north of Baghdad. ](/news/2009/09/24/sixteen-members-of-al-qaeda-five-of-whom-have-been-sentenced-to-death-are-at-large-after-escaping-from-prison-north-of-baghdad.md) _Context: Baghdad, al-Qaeda_
-5. [ Ayman al-Zawahiri, number two leader of al Qaeda, questions Abu Ayyub al-Masri's ability to lead al Qaeda in Iraq, and accuses that organization's umbrella group, the Islamic State of Iraq, of lying to the media about its activities. ](/news/2008/09/11/ayman-al-zawahiri-number-two-leader-of-al-qaeda-questions-abu-ayyub-al-masri-s-ability-to-lead-al-qaeda-in-iraq-and-accuses-that-organiz.md) _Context: Islamic State of Iraq, al-Qaeda_
+1. [The Islamic State of Iraq posts a statement on the internet claiming responsibility for Sunday's triple bombings in Baghdad which killed at least 40 people and affected some foreign embassies but denies involvement in Tuesday's six bombings which killed 35 people in Shia areas. ](/news/2010/04/9/the-islamic-state-of-iraq-posts-a-statement-on-the-internet-claiming-responsibility-for-sunday-s-triple-bombings-in-baghdad-which-killed-at.md) _Context: Baghdad, Islamic State of Iraq_
+2. [ Sixteen members of al-Qaeda, five of whom have been sentenced to death, are at large after escaping from prison north of Baghdad. ](/news/2009/09/24/sixteen-members-of-al-qaeda-five-of-whom-have-been-sentenced-to-death-are-at-large-after-escaping-from-prison-north-of-baghdad.md) _Context: Baghdad, al-Qaeda_
+3. [ Iraq War: Abu Omar al-Baghdadi, leader of the insurgency group the Islamic State of Iraq, is captured in Baghdad. ](/news/2007/03/9/iraq-war-abu-omar-al-baghdadi-leader-of-the-insurgency-group-the-islamic-state-of-iraq-is-captured-in-baghdad.md) _Context: Baghdad, Islamic State of Iraq_
+4. [ 47 factory workers are forced off buses and shot at Nahrawan, near Baghdad. About 50 bullet-riddled bodies are found in Baghdad overnight. Al-Arabiya TV reporter Atwar Bahjat and her two crew are killed in Samarra. At least 11 people are abducted from jail in Basra by gunmen dressed as police, and shot. One person is killed in a Sunni mosque in Baquba, where a bomb targeting an Iraqi army patrol also kills 12 people. ](/news/2006/02/23/47-factory-workers-are-forced-off-buses-and-shot-at-nahrawan-near-baghdad-about-50-bullet-riddled-bodies-are-found-in-baghdad-overnight.md) _Context: Al-Arabiya, Baghdad_
+5. [ Conflict in Afghanistan: Al-Arabiya television broadcasts video footage shot by al-Qaeda which appears to show the downing of a US Chinook helicopter in Afghanistan. ](/news/2005/08/5/conflict-in-afghanistan-al-arabiya-television-broadcasts-video-footage-shot-by-al-qaeda-which-appears-to-show-the-downing-of-a-us-chinook.md) _Context: Al-Arabiya, al-Qaeda_

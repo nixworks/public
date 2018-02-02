@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/3/prime-minister-of-thailand-abhisit-vejjajiva-probes-the-deaths-of-eight-soldiers-over-two-days.html)  [JSON](/news/2010/07/3/prime-minister-of-thailand-abhisit-vejjajiva-probes-the-deaths-of-eight-soldiers-over-two-days.json)  [XML](/news/2010/07/3/prime-minister-of-thailand-abhisit-vejjajiva-probes-the-deaths-of-eight-soldiers-over-two-days.xml)  
+
 ### [2010-07-3](/news/2010/07/3/index.md)
 
+##### Prime Minister
 # Prime Minister of Thailand Abhisit Vejjajiva probes the deaths of eight soldiers over two days. 
 
 Abhisit Vejjajiva orders investigation after eight soldiers killed in two days.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia-pacific/2010/07/20107341458143137.html)
 1. [Cover Image](http://www.aljazeera.com)

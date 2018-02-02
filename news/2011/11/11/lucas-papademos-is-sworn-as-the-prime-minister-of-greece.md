@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/11/lucas-papademos-is-sworn-as-the-prime-minister-of-greece.html)  [JSON](/news/2011/11/11/lucas-papademos-is-sworn-as-the-prime-minister-of-greece.json)  [XML](/news/2011/11/11/lucas-papademos-is-sworn-as-the-prime-minister-of-greece.xml)  
+
 ### [2011-11-11](/news/2011/11/11/index.md)
 
+##### Lucas Papademos
 # Lucas Papademos is sworn as the Prime Minister of Greece. 
 
 Italy&#039;s parliament on Friday began rushing through austerity measures demanded by the European Union to avert a euro zone meltdown and Washington ratcheted up pressure for more dramatic action from the currency bloc.
 
 
-### Source:
+### Sources:
 
 1. [Reuters via ''Sydney Morning Herald](http://www.smh.com.au/business/italy-passes-austerity-law-as-greek-pm-sworn-in-20111112-1nci7.html)
 1. [Cover Image](http://images.smh.com.au/2014/02/12/5155383/FAIRFAX-logo.jpg)

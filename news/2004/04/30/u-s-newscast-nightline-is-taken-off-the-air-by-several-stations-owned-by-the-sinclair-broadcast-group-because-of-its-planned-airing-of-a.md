@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/04/30/u-s-newscast-nightline-is-taken-off-the-air-by-several-stations-owned-by-the-sinclair-broadcast-group-because-of-its-planned-airing-of-a.html)  [JSON](/news/2004/04/30/u-s-newscast-nightline-is-taken-off-the-air-by-several-stations-owned-by-the-sinclair-broadcast-group-because-of-its-planned-airing-of-a.json)  [XML](/news/2004/04/30/u-s-newscast-nightline-is-taken-off-the-air-by-several-stations-owned-by-the-sinclair-broadcast-group-because-of-its-planned-airing-of-a.xml)  
+
 ### [2004-04-30](/news/2004/04/30/index.md)
 
+##### Nightline
 #  U.S. newscast "Nightline" is taken off the air by several stations owned by the Sinclair Broadcast Group because of its planned airing of a list of U.S. soldiers killed in Iraq. Sinclair claims it is a political ploy, while network ABC says it is meant as "an expression of respect which simply seeks to honor those who have laid down their lives for this country.
 
 

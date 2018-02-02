@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/07/15/pabst-brewing-company-announces-plans-to-brew-again-at-their-historic-brewery-located-in-milwaukee.html)  [JSON](/news/2015/07/15/pabst-brewing-company-announces-plans-to-brew-again-at-their-historic-brewery-located-in-milwaukee.json)  [XML](/news/2015/07/15/pabst-brewing-company-announces-plans-to-brew-again-at-their-historic-brewery-located-in-milwaukee.xml)  
+
 ### [2015-07-15](/news/2015/07/15/index.md)
 
+##### Pabst Brewing Company
 #  Pabst Brewing Company announces plans to brew again at their historic brewery located in Milwaukee. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [JS](http://www.jsonline.com/business/pabst-will-brew-beer-again-in-milwaukee-at-site-of-historic-brewery-b99537547z1-315341321.html)
 1. [Cover Image](http://media.jrn.com/images/b99537547z.1_20150715230322_000_g67brp4s.1-1.jpg)

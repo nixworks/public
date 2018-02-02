@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2000/03/20/jamil-abdullah-al-amin-a-former-black-panther-is-captured-after-a-gun-battle-that-left-a-sheriff-s-deputy-dead.html)  [JSON](/news/2000/03/20/jamil-abdullah-al-amin-a-former-black-panther-is-captured-after-a-gun-battle-that-left-a-sheriff-s-deputy-dead.json)  [XML](/news/2000/03/20/jamil-abdullah-al-amin-a-former-black-panther-is-captured-after-a-gun-battle-that-left-a-sheriff-s-deputy-dead.xml)  
+
 ### [2000-03-20](/news/2000/03/20/index.md)
 
+##### Jamil Abdullah Al-Amin
 #  Jamil Abdullah Al-Amin, a former Black Panther, is captured after a gun battle that left a sheriff's deputy dead.
 
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/06/17/over-100-romanians-flee-their-homes-in-belfast-after-being-attacked.html)  [JSON](/news/2009/06/17/over-100-romanians-flee-their-homes-in-belfast-after-being-attacked.json)  [XML](/news/2009/06/17/over-100-romanians-flee-their-homes-in-belfast-after-being-attacked.xml)  
+
 ### [2009-06-17](/news/2009/06/17/index.md)
 
+##### Romanians
 #  Over 100 Romanians flee their homes in Belfast after being attacked. 
 
 Martin McGuinness has described racist attacks on a group of Romanian families in Belfast as a &#39;totally shameful episode&#39;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8104498.stm)
 2. [RTÉ](http://www.rte.ie/news/2009/0617/racism.html)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/06/1/the-palestinian-army-of-islam-militant-group-posts-a-video-of-the-bbc-s-kidnapped-middle-east-correspondent-alan-johnston-on-a-website.html)  [JSON](/news/2007/06/1/the-palestinian-army-of-islam-militant-group-posts-a-video-of-the-bbc-s-kidnapped-middle-east-correspondent-alan-johnston-on-a-website.json)  [XML](/news/2007/06/1/the-palestinian-army-of-islam-militant-group-posts-a-video-of-the-bbc-s-kidnapped-middle-east-correspondent-alan-johnston-on-a-website.xml)  
+
 ### [2007-06-1](/news/2007/06/1/index.md)
 
+##### Palestinian Army of Islam
 #  The Palestinian Army of Islam militant group posts a video of the BBC's kidnapped Middle East correspondent, Alan Johnston, on a website. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ITV](http://www.itv.com/news/index_1dc6f448063bad8b15b7b3c5b1c3c45f.html)
 

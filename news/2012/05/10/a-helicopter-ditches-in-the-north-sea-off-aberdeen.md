@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/05/10/a-helicopter-ditches-in-the-north-sea-off-aberdeen.html)  [JSON](/news/2012/05/10/a-helicopter-ditches-in-the-north-sea-off-aberdeen.json)  [XML](/news/2012/05/10/a-helicopter-ditches-in-the-north-sea-off-aberdeen.xml)  
+
 ### [2012-05-10](/news/2012/05/10/index.md)
 
+##### North Sea
 # A helicopter ditches in the North Sea off Aberdeen. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Guardian](http://www.guardian.co.uk/world/2012/may/10/helicopter-ditches-north-sea-oil-workers)
 

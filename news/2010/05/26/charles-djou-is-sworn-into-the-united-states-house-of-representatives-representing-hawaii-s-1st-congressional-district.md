@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2010/05/26/charles-djou-is-sworn-into-the-united-states-house-of-representatives-representing-hawaii-s-1st-congressional-district.html)  [JSON](/news/2010/05/26/charles-djou-is-sworn-into-the-united-states-house-of-representatives-representing-hawaii-s-1st-congressional-district.json)  [XML](/news/2010/05/26/charles-djou-is-sworn-into-the-united-states-house-of-representatives-representing-hawaii-s-1st-congressional-district.xml)  
+
 ### [2010-05-26](/news/2010/05/26/index.md)
 
+##### Charles Djou
 # Charles Djou is sworn into the United States House of Representatives, representing Hawaii's 1st congressional district. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://congress.blogs.foxnews.com/2010/05/25/djou-sworn-in-as-us-representative/)
 
 ### Related:
 
-1. [A United States Army Combat Aviation Brigade UH-60 Black Hawk helicopter crashes off the coast of Hawaii, with five people on board. A United States Coast Guard-led search for the missing is underway. ](/news/2017/08/16/a-united-states-army-combat-aviation-brigade-uh-60-black-hawk-helicopter-crashes-off-the-coast-of-hawaii-with-five-people-on-board-a-unite.md) _Context: Hawaii_
-2. [A request by the state of Hawaii to issue an order blocking President Donald Trump's Executive Order 13780 is rejected in the United States Court of Appeals for the Ninth Circuit. ](/news/2017/07/7/a-request-by-the-state-of-hawaii-to-issue-an-order-blocking-president-donald-trump-s-executive-order-13780-is-rejected-in-the-united-states.md) _Context: Hawaii_
-3. [At least three people are killed and two hospitalized, one in serious condition, from a fire in a condominium tower in the U.S. city of Honolulu, Hawaii. An unknown number of residents are reportedly still trapped in their apartments. ](/news/2017/07/14/at-least-three-people-are-killed-and-two-hospitalized-one-in-serious-condition-from-a-fire-in-a-condominium-tower-in-the-u-s-city-of-hono.md) _Context: Hawaii_
-4. [The United States House of Representatives pass a bill ending Dodd-Frank regulations. The bill now goes to the Senate where it is expected to not go through. ](/news/2017/06/8/the-united-states-house-of-representatives-pass-a-bill-ending-doddafrank-regulations-the-bill-now-goes-to-the-senate-where-it-is-expected.md) _Context: United States House of Representatives_
-5. [The state of Hawaii becomes the first state to enact a law, to document sea level rise and set strategies to reduce greenhouse gas emissions, that aligns the state's goals with the Paris climate accord. Governor David Ige says the islands are seeing the impacts of climate change first-hand. ](/news/2017/06/8/the-state-of-hawaii-becomes-the-first-state-to-enact-a-law-to-document-sea-level-rise-and-set-strategies-to-reduce-greenhouse-gas-emissions.md) _Context: Hawaii_
+1. [U.S. President Donald Trump delivers his first State of the Union Address to the 115th United States Congress in the chamber of the House of Representatives.](/news/2018/01/30/u-s-president-donald-trump-delivers-his-first-state-of-the-union-address-to-the-115th-united-states-congress-in-the-chamber-of-the-house-of.md) _Context: House of Representatives_
+2. [An emergency alert warning of an inbound ballistic missile is accidentally sent out across the U.S. state of Hawaii at 8:07 HST, before being cleared as a false alarm 38 minutes later. This event caused panic and disruptions across the state on the archipelago inhabited by roughly 1.7 million people. ](/news/2018/01/13/an-emergency-alert-warning-of-an-inbound-ballistic-missile-is-accidentally-sent-out-across-the-u-s-state-of-hawaii-at-8-07-hst-before-bein.md) _Context: Hawaii_
+3. [The United States House of Representatives passes a bill to reauthorize, for a period of six years, a key foreign intelligence collection program, permitted by Section 702. Changes to the program will require the FBI to get a probable cause warrant if it wants to view the contents of Americans' communications swept up in the process. ](/news/2018/01/11/the-united-states-house-of-representatives-passes-a-bill-to-reauthorize-for-a-period-of-six-years-a-key-foreign-intelligence-collection-pr.md) _Context: House of Representatives_
+4. [Trent Franks, a United States representative for Arizona's 8th congressional district, announces his immediate resignation, following allegations that he asked a female staffer to be a surrogate mother for him. Franks previously announced that he would resign from Congress in January 2018. ](/news/2017/12/8/trent-franks-a-united-states-representative-for-arizona-s-8th-congressional-district-announces-his-immediate-resignation-following-allega.md) _Context: House of Representatives_
+5. [U.S. Representative John Conyers (D-Mich.) steps down amid allegations of sexual harassment. ](/news/2017/12/5/u-s-representative-john-conyers-d-mich-steps-down-amid-allegations-of-sexual-harassment.md) _Context: House of Representatives_

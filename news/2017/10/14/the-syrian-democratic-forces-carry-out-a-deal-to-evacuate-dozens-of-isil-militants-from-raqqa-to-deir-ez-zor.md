@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2017/10/14/the-syrian-democratic-forces-carry-out-a-deal-to-evacuate-dozens-of-isil-militants-from-raqqa-to-deir-ez-zor.html)  [JSON](/news/2017/10/14/the-syrian-democratic-forces-carry-out-a-deal-to-evacuate-dozens-of-isil-militants-from-raqqa-to-deir-ez-zor.json)  [XML](/news/2017/10/14/the-syrian-democratic-forces-carry-out-a-deal-to-evacuate-dozens-of-isil-militants-from-raqqa-to-deir-ez-zor.xml)  
+
 ### [2017-10-14](/news/2017/10/14/index.md)
 
+##### Battle of Raqqa (2017)
 # The Syrian Democratic Forces carry out a deal to evacuate dozens of ISIL militants from Raqqa to Deir ez-Zor. 
 
 

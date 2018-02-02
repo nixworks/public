@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/15/four-u-s-baptist-missionaries-working-on-a-water-purification-project-are-killed-in-a-drive-by-shooting-in-the-northern-iraqi-city-of-mosu.html)  [JSON](/news/2004/03/15/four-u-s-baptist-missionaries-working-on-a-water-purification-project-are-killed-in-a-drive-by-shooting-in-the-northern-iraqi-city-of-mosu.json)  [XML](/news/2004/03/15/four-u-s-baptist-missionaries-working-on-a-water-purification-project-are-killed-in-a-drive-by-shooting-in-the-northern-iraqi-city-of-mosu.xml)  
+
 ### [2004-03-15](/news/2004/03/15/index.md)
 
+##### Baptist church
 #  Four U.S. Baptist missionaries working on a water purification project are killed in a drive-by shooting in the northern Iraqi city of Mosul. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2004/WORLD/meast/03/16/iraq.main/index.html)
 

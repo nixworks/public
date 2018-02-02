@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/06/7/the-national-assembly-of-the-republic-of-china-approves-a-package-of-amendments-to-the-constitution-of-the-republic-of-china-to-halve-the-n.html)  [JSON](/news/2005/06/7/the-national-assembly-of-the-republic-of-china-approves-a-package-of-amendments-to-the-constitution-of-the-republic-of-china-to-halve-the-n.json)  [XML](/news/2005/06/7/the-national-assembly-of-the-republic-of-china-approves-a-package-of-amendments-to-the-constitution-of-the-republic-of-china-to-halve-the-n.xml)  
+
 ### [2005-06-7](/news/2005/06/7/index.md)
 
+##### National Assembly of the Republic of China
 #  The National Assembly of the Republic of China approves a package of amendments to the Constitution of the Republic of China to halve the number of seats in the Legislative Yuan and abolish itself.
 
 Democratic Progressive Party (DPP) Chairman Su Tseng-chang (蘇貞昌) said yesterday that the second phase of constitutional reform that President Chen Shui-bian (陳水扁) has vowed to pursue -- which he says will create a new constitution suited to Taiwan by 2008 -- will commence as soon as the National Assembly approves a first round of constitutional amendments today.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8712780)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml?type=topNews&storyID=8712780)
 2. [Taipei Times](http://www.taipeitimes.com/News/front/archives/2005/06/07/2003258257)
 3. [TaiwanNews](http://www.etaiwannews.com/Editorial/2005/06/07/1118113122.htm)
 3. [Cover Image](http://www.taipeitimes.com/images/logo.gif)

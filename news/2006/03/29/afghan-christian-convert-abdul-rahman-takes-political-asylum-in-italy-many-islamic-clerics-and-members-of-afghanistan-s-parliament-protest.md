@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/29/afghan-christian-convert-abdul-rahman-takes-political-asylum-in-italy-many-islamic-clerics-and-members-of-afghanistan-s-parliament-protest.html)  [JSON](/news/2006/03/29/afghan-christian-convert-abdul-rahman-takes-political-asylum-in-italy-many-islamic-clerics-and-members-of-afghanistan-s-parliament-protest.json)  [XML](/news/2006/03/29/afghan-christian-convert-abdul-rahman-takes-political-asylum-in-italy-many-islamic-clerics-and-members-of-afghanistan-s-parliament-protest.xml)  
+
 ### [2006-03-29](/news/2006/03/29/index.md)
 
+##### Afghanistan
 #  Afghan Christian convert Abdul Rahman takes political asylum in Italy. Many Islamic clerics and members of Afghanistan's parliament protest his release. 
 
 An Afghan Christian convert who had faced the death penalty for abandoning Islam has arrived in Italy where he has been granted asylum, Italian Premier Silvio Berlusconi said Wednesday. 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/south_asia/4856748.stm)
 2. [MSNBC](http://msnbc.msn.com/id/12063255/)
@@ -14,7 +18,7 @@ An Afghan Christian convert who had faced the death penalty for abandoning Islam
 ### Related:
 
 1. [ Officials in Afghanistan say that Abdul Rahman may be released soon, although the case may have only been temporarily dropped to gather more evidence. ](/news/2006/03/26/officials-in-afghanistan-say-that-abdul-rahman-may-be-released-soon-although-the-case-may-have-only-been-temporarily-dropped-to-gather-mor.md) _Context: Abdul Rahman, Afghanistan_
-2. [A refugee boat en route to Bangladesh from Myanmar capsizes, resulting in at least 12 deaths. ](/news/2017/10/8/a-refugee-boat-en-route-to-bangladesh-from-myanmar-capsizes-resulting-in-at-least-12-deaths.md) _Context: refugee_
-3. [Pakistani forces rescue Canadian Joshua Boyle, American Caitlan Coleman, and their family, in the Kurram Valley. The family had been kidnapped by the Taliban nearly five years ago in Afghanistan's Wardak Province. ](/news/2017/10/12/pakistani-forces-rescue-canadian-joshua-boyle-american-caitlan-coleman-and-their-family-in-the-kurram-valley-the-family-had-been-kidnapp.md) _Context: Afghanistan_
-4. [A suicide bombing occurs at a checkpoint near the Kabul International Cricket Stadium in Kabul, Afghanistan, killing at least three people and injuring five. ](/news/2017/09/13/a-suicide-bombing-occurs-at-a-checkpoint-near-the-kabul-international-cricket-stadium-in-kabul-afghanistan-killing-at-least-three-people-a.md) _Context: Afghanistan_
-5. [The U.S. Supreme Court rules that the Trump administration can block international refugees from entering the United States. ](/news/2017/09/12/the-u-s-supreme-court-rules-that-the-trump-administration-can-block-international-refugees-from-entering-the-united-states.md) _Context: refugee_
+2. [A BBC study finds that, October 2017 lc=y, the Taliban presently maintains control of or has some territorial presence in 70% of Afghanistan, with full control of 14 districts (totaling 4% of the country) and demonstrating an open physical militant presence in 263 others (encompassing the remaining 66% of the group's occupied territory). ](/news/2018/01/31/a-bbc-study-finds-that-october-2017-lc-y-the-taliban-presently-maintains-control-of-or-has-some-territorial-presence-in-70-of-afghanistan.md) _Context: Afghanistan_
+3. [Researchers note that in November 2017, Strava, which processes data from apps and Internet of Things devices such as Fitbit, accidentally revealed the locations of alleged United States military bases overseas, including in Afghanistan, Djibouti and Syria. ](/news/2018/01/28/researchers-note-that-in-november-2017-strava-which-processes-data-from-apps-and-internet-of-things-devices-such-as-fitbit-accidentally-r.md) _Context: Afghanistan_
+4. [A suicide bomber in an ambulance packed with explosives kills at least 102 people and wounds 158 outside a hospital in Kabul, Afghanistan. ](/news/2018/01/27/a-suicide-bomber-in-an-ambulance-packed-with-explosives-kills-at-least-102-people-and-wounds-158-outside-a-hospital-in-kabul-afghanistan.md) _Context: Afghanistan_
+5. [Six insurgents kill at least 18 people, including 4 Afghans and 14 foreigners, in a 13-hour gun battle. The Afghan Interior Ministry says that the siege ended when the last gunman was shot dead. NATO reports that "no foreign troops" died. The Taliban claim that they sent five suicide bombers armed with hand grenades and AK-47 assault rifles. The Afghan government blames the attack on the Pakistan-based Haqqani network. ](/news/2018/01/21/six-insurgents-kill-at-least-18-people-including-4-afghans-and-14-foreigners-in-a-13-hour-gun-battle-the-afghan-interior-ministry-says-th.md) _Context: Afghanistan_

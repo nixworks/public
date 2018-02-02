@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/12/10/in-the-philippines-demonstrators-call-for-presi
 
 ### [2016-12-10](/news/2016/12/10/index.md)
 
+##### Human Rights Day
 # In the Philippines, demonstrators call for President Rodrigo Duterte to address extrajudicial killings linked to the Philippine Drug War, ongoing military operations against communist rebels, and the controversial burial of Ferdinand Marcos in the Heroes' Cemetery. An effigy of Marcos was made as a centerpiece of the protest. 
 
 

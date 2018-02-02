@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/07/11/in-kyrgyzstan-acting-president-kurmanbek-bakiev-wins-presidential-elections-with-89-support-so-far.html)  [JSON](/news/2005/07/11/in-kyrgyzstan-acting-president-kurmanbek-bakiev-wins-presidential-elections-with-89-support-so-far.json)  [XML](/news/2005/07/11/in-kyrgyzstan-acting-president-kurmanbek-bakiev-wins-presidential-elections-with-89-support-so-far.xml)  
+
 ### [2005-07-11](/news/2005/07/11/index.md)
 
+##### Kyrgyzstan
 #  In Kyrgyzstan, acting president Kurmanbek Bakiev wins presidential elections with 89% support so far 
 
 Reuters.com brings you the latest news from around the world, covering breaking news in markets, business, politics, entertainment, technology, video and pictures.
 
 
-### Source:
+### Sources:
 
 1. [IHT](http://iht.com/articles/2005/07/11/asia/web.0711kyrgyz.php)
 2. [Reuters](http://today.reuters.com/news/newsArticle.aspx?type=worldNews&storyID=2005-07-10T191401Z_01_N10403387_RTRIDST_0_INTERNATIONAL-KYRGYZSTAN-DC.XML)

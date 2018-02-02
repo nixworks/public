@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/01/17/california-governor-jerry-brown-declares-a-drought-emergency-and-asks-residents-of-the-state-to-voluntarily-conserve-water.html)  [JSON](/news/2014/01/17/california-governor-jerry-brown-declares-a-drought-emergency-and-asks-residents-of-the-state-to-voluntarily-conserve-water.json)  [XML](/news/2014/01/17/california-governor-jerry-brown-declares-a-drought-emergency-and-asks-residents-of-the-state-to-voluntarily-conserve-water.xml)  
+
 ### [2014-01-17](/news/2014/01/17/index.md)
 
+##### California
 # California Governor Jerry Brown declares a drought emergency and asks residents of the state to voluntarily conserve water. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/local/political/la-me-pc-jerry-brown-declares-drought-emergency-in-california-20140117,0,3244744.story)
 1. [Cover Image](http://www.trbimg.com/img-52d9b2ba/turbine/la-me-pc-jerry-brown-declares-drought-emergency-in-california-20140117)

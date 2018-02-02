@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/20/at-least-35-people-have-died-and-up-to-340-000-are-affected-by-flooding-after-months-of-heavy-rain-in-bolivia-the-eastern-departments-of-s.html)  [JSON](/news/2007/02/20/at-least-35-people-have-died-and-up-to-340-000-are-affected-by-flooding-after-months-of-heavy-rain-in-bolivia-the-eastern-departments-of-s.json)  [XML](/news/2007/02/20/at-least-35-people-have-died-and-up-to-340-000-are-affected-by-flooding-after-months-of-heavy-rain-in-bolivia-the-eastern-departments-of-s.xml)  
+
 ### [2007-02-20](/news/2007/02/20/index.md)
 
+##### flooding
 #  At least 35 people have died and up to 340,000 are affected by flooding after months of heavy rain in Bolivia. The eastern departments of Santa Cruz and Beni are the worst affected. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/6380331.stm)
 

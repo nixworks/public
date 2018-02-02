@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2002/08/22/government-of-canada-jean-chretien-the-prime-minister-of-canada-announces-he-will-step-down-in-february-2004.html)  [JSON](/news/2002/08/22/government-of-canada-jean-chretien-the-prime-minister-of-canada-announces-he-will-step-down-in-february-2004.json)  [XML](/news/2002/08/22/government-of-canada-jean-chretien-the-prime-minister-of-canada-announces-he-will-step-down-in-february-2004.xml)  
+
 ### [2002-08-22](/news/2002/08/22/index.md)
 
+##### Canadian government
 #  Government of Canada: Jean Chrtien, the Prime Minister of Canada, announces he will step down in February 2004.
 
 

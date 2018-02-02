@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2012/04/2/pal-schmitt-resigns-as-president-of-hungary-after-his-doctorate-is-revoked-in-a-plagiarism-scandal.html)  [JSON](/news/2012/04/2/pal-schmitt-resigns-as-president-of-hungary-after-his-doctorate-is-revoked-in-a-plagiarism-scandal.json)  [XML](/news/2012/04/2/pal-schmitt-resigns-as-president-of-hungary-after-his-doctorate-is-revoked-in-a-plagiarism-scandal.xml)  
+
 ### [2012-04-2](/news/2012/04/2/index.md)
 
+##### Pl Schmitt
 # Pl Schmitt resigns as President of Hungary after his doctorate is revoked in a plagiarism scandal. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP via ''Washington Post](http://www.washingtonpost.com/world/europe/hungarian-president-pal-schmitt-resigns-after-losing-doctorate-in-plagiarism-scandal/2012/04/02/gIQABopbqS_story.html)
+1. [AP via ''Washington Post](https://www.washingtonpost.com/world/europe/hungarian-president-pal-schmitt-resigns-after-losing-doctorate-in-plagiarism-scandal/2012/04/02/gIQABopbqS_story.html)
 
 ### Related:
 

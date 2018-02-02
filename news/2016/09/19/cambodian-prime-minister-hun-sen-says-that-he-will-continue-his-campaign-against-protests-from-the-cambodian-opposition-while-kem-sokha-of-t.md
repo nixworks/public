@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/19/cambodian-prime-minister-hun-sen-says-that-he-w
 
 ### [2016-09-19](/news/2016/09/19/index.md)
 
+##### Cambodia
 # Cambodian prime minister Hun Sen says that he will continue his campaign against protests from the Cambodian opposition while Kem Sokha of the Cambodian National Rescue Party vows to remain as their leader. 
 
 For the last four months, a few unusual items have been added to Kem Sokha&#039;s corner at party headquarters — a mattress instead of a desk and a treadmill for exercise.

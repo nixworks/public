@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/12/12/malian-interim-president-dioncounda-traora-c-appoints-django-sissoko-to-be-a-new-acting-prime-minister-after-his-predecessor-cheick-modibo-d.html)  [JSON](/news/2012/12/12/malian-interim-president-dioncounda-traora-c-appoints-django-sissoko-to-be-a-new-acting-prime-minister-after-his-predecessor-cheick-modibo-d.json)  [XML](/news/2012/12/12/malian-interim-president-dioncounda-traora-c-appoints-django-sissoko-to-be-a-new-acting-prime-minister-after-his-predecessor-cheick-modibo-d.xml)  
+
 ### [2012-12-12](/news/2012/12/12/index.md)
 
+##### Mali
 # Malian interim President Dioncounda Traore appoints Django Sissoko to be a new Acting Prime Minister, after his predecessor Cheick Modibo Diarra was forced to resign by leaders of the 2012 coup d'etat. 
 
 Malian President Diouncounda Traore appoints a new prime minister, less than 24 hours after his predecessor was forced to resign by the military.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-20687562)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/64705000/jpg/_64705085_malireuters.jpg)

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/12/a-7-3-magnitude-earthquake-strikes-near-halabja
 
 ### [2017-11-12](/news/2017/11/12/index.md)
 
+##### 2017 Iran-Iraq earthquake
 # A 7.3 magnitude earthquake strikes near Halabja, Iraq, killing at least 145 people and injuring more than 850 with structural damage reported in both Iraq and Iran. 
 
 A strong earthquake hit large parts of northern Iraq and the capital Baghdad on Sunday, and also caused damage in villages across the border in Iran where state TV said at least six people had been killed.

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/09/30/the-supreme-court-of-canada-rules-in-a-9-0-decision-that-insite-a-safe-injection-site-in-vancouver-can-remain-open.html)  [JSON](/news/2011/09/30/the-supreme-court-of-canada-rules-in-a-9-0-decision-that-insite-a-safe-injection-site-in-vancouver-can-remain-open.json)  [XML](/news/2011/09/30/the-supreme-court-of-canada-rules-in-a-9-0-decision-that-insite-a-safe-injection-site-in-vancouver-can-remain-open.xml)  
+
 ### [2011-09-30](/news/2011/09/30/index.md)
 
+##### Supreme Court of Canada
 # The Supreme Court of Canada rules in a 9-0 decision that Insite, a safe injection site in Vancouver, can remain open. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/news/canada/british-columbia/story/2011/09/29/bc-insite-supreme-court-ruling-advancer.html)
 1. [Cover Image](https://i.cbc.ca/1.1952485.1381385704!/httpImage/image.jpg_gen/derivatives/16x9_1180/hi-scoc-01362583-852.jpg)

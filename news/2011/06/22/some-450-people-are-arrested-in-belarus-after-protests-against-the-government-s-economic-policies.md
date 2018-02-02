@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/22/some-450-people-are-arrested-in-belarus-after-protests-against-the-government-s-economic-policies.html)  [JSON](/news/2011/06/22/some-450-people-are-arrested-in-belarus-after-protests-against-the-government-s-economic-policies.json)  [XML](/news/2011/06/22/some-450-people-are-arrested-in-belarus-after-protests-against-the-government-s-economic-policies.xml)  
+
 ### [2011-06-22](/news/2011/06/22/index.md)
 
+##### Belarus
 # Some 450 people are arrested in Belarus after protests against the Government's economic policies. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RIA Novosti](http://en.rian.ru/world/20110623/164779418.html)
 

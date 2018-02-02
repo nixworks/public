@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/23/hundreds-of-people-demonstrate-against-next-week-s-visit-of-elizabeth-ii-to-belfast.html)  [JSON](/news/2012/06/23/hundreds-of-people-demonstrate-against-next-week-s-visit-of-elizabeth-ii-to-belfast.json)  [XML](/news/2012/06/23/hundreds-of-people-demonstrate-against-next-week-s-visit-of-elizabeth-ii-to-belfast.xml)  
+
 ### [2012-06-23](/news/2012/06/23/index.md)
 
+##### Elizabeth II
 # Hundreds of people demonstrate against next week's visit of Elizabeth II to Belfast. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-northern-ireland-18565737)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/61098000/jpg/_61098585_dissidentprotest.jpg)

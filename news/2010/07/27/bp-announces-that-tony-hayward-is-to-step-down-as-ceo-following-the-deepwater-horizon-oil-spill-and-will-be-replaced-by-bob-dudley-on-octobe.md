@@ -1,14 +1,19 @@
+
+Formats: [HTML](/news/2010/07/27/bp-announces-that-tony-hayward-is-to-step-down-as-ceo-following-the-deepwater-horizon-oil-spill-and-will-be-replaced-by-bob-dudley-on-octobe.html)  [JSON](/news/2010/07/27/bp-announces-that-tony-hayward-is-to-step-down-as-ceo-following-the-deepwater-horizon-oil-spill-and-will-be-replaced-by-bob-dudley-on-octobe.json)  [XML](/news/2010/07/27/bp-announces-that-tony-hayward-is-to-step-down-as-ceo-following-the-deepwater-horizon-oil-spill-and-will-be-replaced-by-bob-dudley-on-octobe.xml)  
+
 ### [2010-07-27](/news/2010/07/27/index.md)
 
+##### BP
 # BP announces that Tony Hayward is to step down as CEO following the Deepwater Horizon oil spill and will be replaced by Bob Dudley on October 1st. 
 
+BP Plc appointed U.S.-born Robert Dudley as chief executive officer and pledged to accelerate asset sales to as much as $30 billion after the Gulf of Mexico oil spill led to a record loss.
 
 
+### Sources:
 
-### Source:
-
-1. [Bloomberg](http://www.bloomberg.com/news/2010-07-27/bp-reports-record-quarterly-loss-on-oil-spill-as-dudley-replaces-hayward.html)
+1. [Bloomberg](https://www.bloomberg.com/news/2010-07-27/bp-reports-record-quarterly-loss-on-oil-spill-as-dudley-replaces-hayward.html)
 2. [TV New Zealand](http://tvnz.co.nz/world-news/bp-ceo-tony-hayward-has-stepped-down-3675696)
+2. [Cover Image](https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg)
 
 ### Related:
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/01/6/three-soldiers-are-killed-and-11-wounded-in-a-bomb-attack-in-pakistan-administered-kashmir.html)  [JSON](/news/2010/01/6/three-soldiers-are-killed-and-11-wounded-in-a-bomb-attack-in-pakistan-administered-kashmir.json)  [XML](/news/2010/01/6/three-soldiers-are-killed-and-11-wounded-in-a-bomb-attack-in-pakistan-administered-kashmir.xml)  
+
 ### [2010-01-6](/news/2010/01/6/index.md)
 
+##### Pakistan-administered Kashmir
 # Three soldiers are killed and 11 wounded in a bomb attack in Pakistan-administered Kashmir. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Associated Press of Pakistan](http://www.app.com.pk/en_/index.php?option=com_content&task=view&id=93295&Itemid=1)
 2. [Press Trust of India](http://www.ptinews.com/news/454916_Three-soldiers-killed--11-hurt-in-suicide-attack-in-PoK)

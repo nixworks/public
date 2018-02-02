@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/05/26/the-wildlife-conservation-society-estimates-that-poachers-have-killed-half-of-mozambique-s-elephants-in-the-past-five-years.html)  [JSON](/news/2015/05/26/the-wildlife-conservation-society-estimates-that-poachers-have-killed-half-of-mozambique-s-elephants-in-the-past-five-years.json)  [XML](/news/2015/05/26/the-wildlife-conservation-society-estimates-that-poachers-have-killed-half-of-mozambique-s-elephants-in-the-past-five-years.xml)  
+
 ### [2015-05-26](/news/2015/05/26/index.md)
 
+##### Wildlife Conservation Society
 # The Wildlife Conservation Society estimates that poachers have killed half of Mozambique's elephants in the past five years. 
 
 MAPUTO, May 26 - Poachers have killed nearly half of Mozambique&#039;s elephants for their ivory in the past five years, the US based Wildlife Conservation Soci - Kenya breaking news | Kenya news today | Capitalfm.co.ke
 
 
-### Source:
+### Sources:
 
 1. [AFP via CapitalFM](http://www.capitalfm.co.ke/news/2015/05/poachers-kill-half-mozambiques-elephants-in-5-years/)
 1. [Cover Image](http://www.capitalfm.co.ke/news/files/2015/05/ELEPHANTS1.jpg)

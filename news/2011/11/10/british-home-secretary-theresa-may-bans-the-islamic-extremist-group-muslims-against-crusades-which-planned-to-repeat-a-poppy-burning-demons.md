@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/11/10/british-home-secretary-theresa-may-bans-the-islamic-extremist-group-muslims-against-crusades-which-planned-to-repeat-a-poppy-burning-demons.html)  [JSON](/news/2011/11/10/british-home-secretary-theresa-may-bans-the-islamic-extremist-group-muslims-against-crusades-which-planned-to-repeat-a-poppy-burning-demons.json)  [XML](/news/2011/11/10/british-home-secretary-theresa-may-bans-the-islamic-extremist-group-muslims-against-crusades-which-planned-to-repeat-a-poppy-burning-demons.xml)  
+
 ### [2011-11-10](/news/2011/11/10/index.md)
 
+##### Home Secretary
 # British Home Secretary Theresa May bans the Islamic extremist group Muslims Against Crusades, which planned to repeat a poppy-burning demonstration held on Remembrance Day in 2010. 
 
 Home Secretary Theresa May is banning Muslims Against Crusades, a group planning an anti-Armistice Day protest.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-15678275)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/51606000/jpg/_51606885_331dc631-6340-4cda-ae6e-bda544b28681.jpg)

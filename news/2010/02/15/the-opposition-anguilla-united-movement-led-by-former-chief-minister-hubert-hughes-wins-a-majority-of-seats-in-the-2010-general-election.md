@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/02/15/the-opposition-anguilla-united-movement-led-by-former-chief-minister-hubert-hughes-wins-a-majority-of-seats-in-the-2010-general-election.html)  [JSON](/news/2010/02/15/the-opposition-anguilla-united-movement-led-by-former-chief-minister-hubert-hughes-wins-a-majority-of-seats-in-the-2010-general-election.json)  [XML](/news/2010/02/15/the-opposition-anguilla-united-movement-led-by-former-chief-minister-hubert-hughes-wins-a-majority-of-seats-in-the-2010-general-election.xml)  
+
 ### [2010-02-15](/news/2010/02/15/index.md)
 
+##### Anguilla United Movement
 # The opposition Anguilla United Movement, led by former Chief Minister Hubert Hughes, wins a majority of seats in the 2010 general election, defeating the governing Anguilla United Front. 
 
 (The Valley, Anguilla) The Island of Anguilla, having suffered a serious economic crunch under the Anguilla United Front, under the leadership of former Chief Minister Osbourne Fleming and former Minister of Finance Victor Banks, on February 15, completely rejected the party. The Anguilla United Movement
 
 
-### Source:
+### Sources:
 
 1. [Anguilla News](http://www.anguillanews.com/enews/news/local/3278.html)
 1. [Cover Image](http://www.anguillanews.com/enews//files/electoralmap_961879676.jpg)

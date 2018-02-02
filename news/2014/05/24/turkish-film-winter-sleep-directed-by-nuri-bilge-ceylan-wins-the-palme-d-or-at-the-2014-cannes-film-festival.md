@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/05/24/turkish-film-winter-sleep-directed-by-nuri-bilge-ceylan-wins-the-palme-d-or-at-the-2014-cannes-film-festival.html)  [JSON](/news/2014/05/24/turkish-film-winter-sleep-directed-by-nuri-bilge-ceylan-wins-the-palme-d-or-at-the-2014-cannes-film-festival.json)  [XML](/news/2014/05/24/turkish-film-winter-sleep-directed-by-nuri-bilge-ceylan-wins-the-palme-d-or-at-the-2014-cannes-film-festival.xml)  
+
 ### [2014-05-24](/news/2014/05/24/index.md)
 
+##### Winter Sleep
 # Turkish film "Winter Sleep" directed by Nuri Bilge Ceylan wins the Palme d'Or at the 2014 Cannes Film Festival. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [France 24](http://www.france24.com/en/breaking/20140524-turkish-film-winter-sleep-nuri-bilge-ceylan-wins-palme-dor-cannes-2014/?ns_campaign=al_en&ns_mchannel=email_marketing&ns_source=AL_20140524_2014&ns_linkname=20140524_breaking_news&ns_fee=0&f24_member_id=1080960490882)
 

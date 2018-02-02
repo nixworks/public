@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/06/25/fernando-lugo-the-deposed-president-of-paraguay-rallies-allies-at-home-and-abroad-and-creates-a-parallel-cabinet-intent-on-returning-to-p.html)  [JSON](/news/2012/06/25/fernando-lugo-the-deposed-president-of-paraguay-rallies-allies-at-home-and-abroad-and-creates-a-parallel-cabinet-intent-on-returning-to-p.json)  [XML](/news/2012/06/25/fernando-lugo-the-deposed-president-of-paraguay-rallies-allies-at-home-and-abroad-and-creates-a-parallel-cabinet-intent-on-returning-to-p.xml)  
+
 ### [2012-06-25](/news/2012/06/25/index.md)
 
+##### Fernando Lugo
 # Fernando Lugo, the deposed President of Paraguay, rallies allies at home and abroad, and creates a parallel cabinet intent on returning to power. 
 
 Deposed president rallies allies at home and abroad to force congress to reverse a vote to remove him.
 
 
-### Source:
+### Sources:
 
 1. [Al Jazeera](http://www.aljazeera.com/news/americas/2012/06/2012625154445739355.html)
 1. [Cover Image](http://www.aljazeera.com/mritems/Images/2012/6/24/2012624191033782734_20.jpg)

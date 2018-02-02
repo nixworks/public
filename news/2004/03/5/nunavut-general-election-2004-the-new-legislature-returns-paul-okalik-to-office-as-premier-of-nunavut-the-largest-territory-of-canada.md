@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/03/5/nunavut-general-election-2004-the-new-legislature-returns-paul-okalik-to-office-as-premier-of-nunavut-the-largest-territory-of-canada.html)  [JSON](/news/2004/03/5/nunavut-general-election-2004-the-new-legislature-returns-paul-okalik-to-office-as-premier-of-nunavut-the-largest-territory-of-canada.json)  [XML](/news/2004/03/5/nunavut-general-election-2004-the-new-legislature-returns-paul-okalik-to-office-as-premier-of-nunavut-the-largest-territory-of-canada.xml)  
+
 ### [2004-03-5](/news/2004/03/5/index.md)
 
+##### Nunavut general election, 2004
 #  Nunavut general election, 2004: the new legislature returns Paul Okalik to office as premier of Nunavut, the largest territory of Canada. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/stories/2004/03/05/canada/nunavut_premier040305)
 

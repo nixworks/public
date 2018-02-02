@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2014/07/4/a-20-year-old-man-is-arrested-and-charged-with-murder-and-attempted-murder-in-connection-with-a-june-28-shooting-that-occurred-at-bourbon-st.html)  [JSON](/news/2014/07/4/a-20-year-old-man-is-arrested-and-charged-with-murder-and-attempted-murder-in-connection-with-a-june-28-shooting-that-occurred-at-bourbon-st.json)  [XML](/news/2014/07/4/a-20-year-old-man-is-arrested-and-charged-with-murder-and-attempted-murder-in-connection-with-a-june-28-shooting-that-occurred-at-bourbon-st.xml)  
+
 ### [2014-07-4](/news/2014/07/4/index.md)
 
+##### Bourbon Street
 # A 20-year-old man is arrested and charged with murder and attempted murder in connection with a June 28 shooting that occurred at Bourbon Street in New Orleans, Louisiana, U.S., which killed one person and wounded 8 others. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Yahoo News](http://news.yahoo.com/suspect-arrested-bourbon-st-shootings-225440218.html)
+1. [Yahoo News](https://news.yahoo.com/suspect-arrested-bourbon-st-shootings-225440218.html)
 
 ### Related:
 

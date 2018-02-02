@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/10/17/north-korea-says-the-united-nations-effectively-declared-war-on-the-country-when-it-imposed-sanctions-through-united-nations-security-counc.html)  [JSON](/news/2006/10/17/north-korea-says-the-united-nations-effectively-declared-war-on-the-country-when-it-imposed-sanctions-through-united-nations-security-counc.json)  [XML](/news/2006/10/17/north-korea-says-the-united-nations-effectively-declared-war-on-the-country-when-it-imposed-sanctions-through-united-nations-security-counc.xml)  
+
 ### [2006-10-17](/news/2006/10/17/index.md)
 
+##### North Korea
 #  North Korea says the United Nations effectively declared war on the country when it imposed sanctions through United Nations Security Council Resolution 1718 in response to North Korea's nuclear test. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via CBS](http://cbs3.com/national/topstories_story_290022639.html)
 

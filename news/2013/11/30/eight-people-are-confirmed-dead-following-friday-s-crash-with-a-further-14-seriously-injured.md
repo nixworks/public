@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/11/30/eight-people-are-confirmed-dead-following-friday-s-crash-with-a-further-14-seriously-injured.html)  [JSON](/news/2013/11/30/eight-people-are-confirmed-dead-following-friday-s-crash-with-a-further-14-seriously-injured.json)  [XML](/news/2013/11/30/eight-people-are-confirmed-dead-following-friday-s-crash-with-a-further-14-seriously-injured.xml)  
+
 ### [2013-11-30](/news/2013/11/30/index.md)
 
+##### 
 # Eight people are confirmed dead following Friday's crash, with a further 14 seriously injured. 
 
 Three of the dead were the crew of the aircraft and five others were in the building - as rescuers search for any more survivors.
 
 
-### Source:
+### Sources:
 
 1. [Channel 4 News](http://www.channel4.com/news/glasgow-helicopter-crash-numerous-casualties)
 2. [Sky News](http://news.sky.com/story/1175912/helicopter-crashes-into-glasgow-pub-eight-die)

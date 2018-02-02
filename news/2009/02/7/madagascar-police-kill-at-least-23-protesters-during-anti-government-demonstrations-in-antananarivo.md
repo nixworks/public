@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/02/7/madagascar-police-kill-at-least-23-protesters-during-anti-government-demonstrations-in-antananarivo.html)  [JSON](/news/2009/02/7/madagascar-police-kill-at-least-23-protesters-during-anti-government-demonstrations-in-antananarivo.json)  [XML](/news/2009/02/7/madagascar-police-kill-at-least-23-protesters-during-anti-government-demonstrations-in-antananarivo.xml)  
+
 ### [2009-02-7](/news/2009/02/7/index.md)
 
+##### Madagascar
 #  Madagascar police kill at least 23 protesters during anti-government demonstrations in Antananarivo. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/7876543.stm)
 

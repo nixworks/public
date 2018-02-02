@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/25/gunmen-attack-prominent-syrian-political-cartoonist-ali-farzat-beating-him-badly-and-breaking-both-of-his-hands-with-the-beating-believed.html)  [JSON](/news/2011/08/25/gunmen-attack-prominent-syrian-political-cartoonist-ali-farzat-beating-him-badly-and-breaking-both-of-his-hands-with-the-beating-believed.json)  [XML](/news/2011/08/25/gunmen-attack-prominent-syrian-political-cartoonist-ali-farzat-beating-him-badly-and-breaking-both-of-his-hands-with-the-beating-believed.xml)  
+
 ### [2011-08-25](/news/2011/08/25/index.md)
 
+##### Syria
 # Gunmen attack prominent Syrian political cartoonist Ali Farzat, beating him badly and breaking both of his hands, with the beating believed to be related to cartoons critical of President of Syria Bashar Assad and his family. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via ''Boston Globe](http://www.boston.com/news/world/middleeast/articles/2011/08/26/syrian_artist_ali_ferzat_gets_hands_broken_by_gunmen/)
 

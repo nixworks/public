@@ -1,25 +1,29 @@
+
+Formats: [HTML](/news/2013/10/28/three-egyptian-policemen-are-killed-by-masked-men-in-an-attack-at-a-checkpoint-in-the-nile-delta-city-of-mansoura.html)  [JSON](/news/2013/10/28/three-egyptian-policemen-are-killed-by-masked-men-in-an-attack-at-a-checkpoint-in-the-nile-delta-city-of-mansoura.json)  [XML](/news/2013/10/28/three-egyptian-policemen-are-killed-by-masked-men-in-an-attack-at-a-checkpoint-in-the-nile-delta-city-of-mansoura.xml)  
+
 ### [2013-10-28](/news/2013/10/28/index.md)
 
+##### Egypt
 # Three Egyptian policemen are killed by masked men in an attack at a checkpoint in the Nile Delta city of Mansoura. 
 
 Three Egyptian policemen were killed on Monday when masked men attacked a checkpoint in the Nile Delta city of Mansoura, security sources said.
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://uk.reuters.com/article/2013/10/28/uk-egypt-attack-idUKBRE99R0C320131028)
 1. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
-
-### Related:
-
-1. [A bomb explodes at a police station in the Egyptian city of Mansoura, the capital of the Dakahlia Governorate, killing at least one person and injuring 17. ](/news/2013/07/24/a-bomb-explodes-at-a-police-station-in-the-egyptian-city-of-mansoura-the-capital-of-the-dakahlia-governorate-killing-at-least-one-person-a.md) _Context: Egypt, Mansoura_
-2. [ At least 18 factory workers are killed when their bus collides with a truck in the Nile Delta, Egypt. ](/news/2009/06/8/at-least-18-factory-workers-are-killed-when-their-bus-collides-with-a-truck-in-the-nile-delta-egypt.md) _Context: Egypt, Nile delta_
-3. [Thirty-thousand North Korean rocket propelled grenades are seized off the coast of Egypt by American forces after being purchased by Egyptian business executives for $23 million (EGBP406 million-W20 billion). ](/news/2017/10/2/thirty-thousand-north-korean-rocket-propelled-grenades-are-seized-off-the-coast-of-egypt-by-american-forces-after-being-purchased-by-egyptia.md) _Context: Egypt_
-4. [Palestinian factions, Hamas and Fatah, sign a unity deal in Cairo, that is also publicly supported by the governments of Egypt and Saudi Arabia. The Fatah-controlled Palestinian National Authority (PNA), along with Israel, currently govern the West Bank. According to the signatories of the deal, the PNA will take administrative control of the Gaza Strip, and, along with Hamas, police its borders. The signatories consider the agreement a first step, and, if productive, plan to meet next month to address the remaining issues. The government of Israel opposes any involvement by Hamas in a Palestinian government. ](/news/2017/10/12/palestinian-factions-hamas-and-fatah-sign-a-unity-deal-in-cairo-that-is-also-publicly-supported-by-the-governments-of-egypt-and-saudi-ara.md) _Context: Egypt_
-5. [Egypt announces the discovery of a tomb in Luxor belonging to a royal goldsmith who lived more than 3,500 years ago in the 18th Dynasty. ](/news/2017/09/9/egypt-announces-the-discovery-of-a-tomb-in-luxor-belonging-to-a-royal-goldsmith-who-lived-more-than-3-500-years-ago-in-the-18th-dynasty.md) _Context: Egypt_
 
 ### Changes:
 
 1. [Islamist protests in Egypt (July 2013-present):Three Egyptian policemen are killed by masked men in an attack at a checkpoint in the Nile Delta city of Mansoura. ](/news/2013/10/28/islamist-protests-in-egypt-july-2013apresent-pthree-egyptian-policemen-are-killed-by-masked-men-in-an-attack-at-a-checkpoint-in-the-nile.md) _2017-08-25 03:39:26 (First version)_
 2. [Islamist protests in Egypt (July 2013-present):: Three Egyptian policemen are killed by masked men in an attack at a checkpoint in the Nile Delta city of Mansoura. ](/news/2013/10/28/islamist-protests-in-egypt-july-2013-present-three-egyptian-policemen-are-killed-by-masked-men-in-an-attack-at-a-checkpoint-in-the-nil.md) _2017-08-27 03:39:44 (Update)_
 2. [Three Egyptian policemen are killed by masked men in an attack at a checkpoint in the Nile Delta city of Mansoura. ](/news/2013/10/28/three-egyptian-policemen-are-killed-by-masked-men-in-an-attack-at-a-checkpoint-in-the-nile-delta-city-of-mansoura.md) _(Current version)_
+
+### Related:
+
+1. [A bomb explodes at a police station in the Egyptian city of Mansoura, the capital of the Dakahlia Governorate, killing at least one person and injuring 17. ](/news/2013/07/24/a-bomb-explodes-at-a-police-station-in-the-egyptian-city-of-mansoura-the-capital-of-the-dakahlia-governorate-killing-at-least-one-person-a.md) _Context: Egypt, Mansoura_
+2. [ At least 18 factory workers are killed when their bus collides with a truck in the Nile Delta, Egypt. ](/news/2009/06/8/at-least-18-factory-workers-are-killed-when-their-bus-collides-with-a-truck-in-the-nile-delta-egypt.md) _Context: Egypt, Nile Delta_
+3. [A hot air balloon crashes due to strong winds in Egypt's Luxor Governorate. A tourist from Australia is killed and 12 other tourists are injured. The Egypt Aviation Authority says there were 20 passengers on the balloon. ](/news/2018/01/5/a-hot-air-balloon-crashes-due-to-strong-winds-in-egypt-s-luxor-governorate-a-tourist-from-australia-is-killed-and-12-other-tourists-are-inj.md) _Context: Egypt_
+4. [Archaeologists in Egypt display items, including figurines, masks and a mummy, from one of two previously unexplored tombs, Kampp 150 and Kampp 161, in the ancient Nile city of Luxor. ](/news/2017/12/9/archaeologists-in-egypt-display-items-including-figurines-masks-and-a-mummy-from-one-of-two-previously-unexplored-tombs-kampp-150-and-ka.md) _Context: Egypt_
+5. [The lawyer of Ahmed Shafiq, a candidate for the spring 2018 presidential elections in Egypt, says she met him in a hotel room in Cairo following his arrest the day before in Dubai, U.A.E., after saying earlier today that his family didn't know his whereabouts. ](/news/2017/12/3/the-lawyer-of-ahmed-shafiq-a-candidate-for-the-spring-2018-presidential-elections-in-egypt-says-she-met-him-in-a-hotel-room-in-cairo-follo.md) _Context: Egypt_

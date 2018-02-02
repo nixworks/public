@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/3/russian-authorities-arrest-more-than-100-gay-men
 
 ### [2017-04-3](/news/2017/04/3/index.md)
 
+##### LGBT rights in Russia
 # Russian authorities arrest more than 100 gay men in Chechnya, including television personalities and religious figures, for "nontraditional sexual orientation." The "Novaya Gazeta" newspaper reported that three of the arrested men have been killed, while others reportedly were released for family honor killing. Chechen Republic leader Ramzan Kadyrov's spokesperson said this report contains "absolute lies and disinformation" since there are no homosexuals in Chechnya. 
 
 Russian newspaper says it has evidence that at least three men have been killed in ‘prophylactic sweep’ in Chechnya

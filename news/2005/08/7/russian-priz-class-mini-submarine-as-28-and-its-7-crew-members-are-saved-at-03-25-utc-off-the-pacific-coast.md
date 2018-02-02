@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/7/russian-priz-class-mini-submarine-as-28-and-its-7-crew-members-are-saved-at-03-25-utc-off-the-pacific-coast.html)  [JSON](/news/2005/08/7/russian-priz-class-mini-submarine-as-28-and-its-7-crew-members-are-saved-at-03-25-utc-off-the-pacific-coast.json)  [XML](/news/2005/08/7/russian-priz-class-mini-submarine-as-28-and-its-7-crew-members-are-saved-at-03-25-utc-off-the-pacific-coast.xml)  
+
 ### [2005-08-7](/news/2005/08/7/index.md)
 
+##### Priz class
 #  Russian Priz class mini-submarine AS-28 and its 7 crew members are saved at 03:25 UTC off the Pacific coast 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Guardian](http://www.guardian.co.uk/uklatest/story/0,1271,-5195476,00.html)
 2. [RIAN - in Russian](http://www.rian.ru/trend/escape_bathyscaphe_050805)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/11/9/huda-bin-abdul-haq-imam-samudra-and-amrozi-bin-nurhasyim-are-executed-by-firing-squad-on-kambangan-island-in-indonesia-for-their-involvem.html)  [JSON](/news/2008/11/9/huda-bin-abdul-haq-imam-samudra-and-amrozi-bin-nurhasyim-are-executed-by-firing-squad-on-kambangan-island-in-indonesia-for-their-involvem.json)  [XML](/news/2008/11/9/huda-bin-abdul-haq-imam-samudra-and-amrozi-bin-nurhasyim-are-executed-by-firing-squad-on-kambangan-island-in-indonesia-for-their-involvem.xml)  
+
 ### [2008-11-9](/news/2008/11/9/index.md)
 
+##### Huda bin Abdul Haq
 #  Huda bin Abdul Haq, Imam Samudra, and Amrozi bin Nurhasyim are executed by firing squad on Kambangan Island in Indonesia for their involvement in the 2002 Bali bombings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/1/hi/world/asia-pacific/7717819.stm)
 

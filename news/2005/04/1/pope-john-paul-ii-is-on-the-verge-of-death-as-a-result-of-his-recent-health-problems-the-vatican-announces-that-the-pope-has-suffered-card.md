@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/04/1/pope-john-paul-ii-is-on-the-verge-of-death-as-a-result-of-his-recent-health-problems-the-vatican-announces-that-the-pope-has-suffered-card.html)  [JSON](/news/2005/04/1/pope-john-paul-ii-is-on-the-verge-of-death-as-a-result-of-his-recent-health-problems-the-vatican-announces-that-the-pope-has-suffered-card.json)  [XML](/news/2005/04/1/pope-john-paul-ii-is-on-the-verge-of-death-as-a-result-of-his-recent-health-problems-the-vatican-announces-that-the-pope-has-suffered-card.xml)  
+
 ### [2005-04-1](/news/2005/04/1/index.md)
 
+##### Pope
 #  Pope John Paul II is on the verge of death as a result of his recent health problems. The Vatican announces that the pope has suffered cardiovascular collapse and septic shock. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://www.cnn.com/2005/WORLD/europe/04/01/pope.health.chronology/index.html)
 2. [Reuters](http://reuters.com/newsArticle.jhtml;jsessionid=KD0W50ASN23AYCRBAEKSFFA?type=topNews&storyID=8064930)

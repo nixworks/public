@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/10/gabon-bars-opposition-leaders-from-leaving-the-country-following-recent-riots-over-claims-of-fraud-in-the-2009-presidential-election.html)  [JSON](/news/2009/09/10/gabon-bars-opposition-leaders-from-leaving-the-country-following-recent-riots-over-claims-of-fraud-in-the-2009-presidential-election.json)  [XML](/news/2009/09/10/gabon-bars-opposition-leaders-from-leaving-the-country-following-recent-riots-over-claims-of-fraud-in-the-2009-presidential-election.xml)  
+
 ### [2009-09-10](/news/2009/09/10/index.md)
 
+##### Gabon
 #  Gabon bars opposition leaders from leaving the country following recent riots over claims of fraud in the 2009 presidential election. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/africa/8247830.stm)
 

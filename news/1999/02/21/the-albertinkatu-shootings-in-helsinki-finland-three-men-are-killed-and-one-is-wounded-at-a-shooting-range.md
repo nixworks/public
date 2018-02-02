@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/02/21/the-albertinkatu-shootings-in-helsinki-finland-three-men-are-killed-and-one-is-wounded-at-a-shooting-range.html)  [JSON](/news/1999/02/21/the-albertinkatu-shootings-in-helsinki-finland-three-men-are-killed-and-one-is-wounded-at-a-shooting-range.json)  [XML](/news/1999/02/21/the-albertinkatu-shootings-in-helsinki-finland-three-men-are-killed-and-one-is-wounded-at-a-shooting-range.xml)  
+
 ### [1999-02-21](/news/1999/02/21/index.md)
 
+##### Helsinki
 #  The Albertinkatu shootings in Helsinki, Finland: Three men are killed and one is wounded at a shooting range.
 
 

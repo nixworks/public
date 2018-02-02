@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/04/20/the-supreme-court-of-russia-labels-jehovah-s-wi
 
 ### [2017-04-20](/news/2017/04/20/index.md)
 
+##### Supreme Court of Russia
 # The Supreme Court of Russia labels Jehovah's Witnesses as "extremists", effectively banning the religion. 
 
 Russia has banned Jehovah&#039;s Witnesses after the Supreme Court ruled the Christian sect to be an “extremist” group. “The Supreme Court has ruled to sustain the claim of Russia&#039;s ministry of justice and deem the &#039;Administrative Centre of Jehovah&#039;s Witnesses in Russia&#039; organisation extremist, eliminate it and ban its activity in Russia,” said judge Yuri Ivanenko.

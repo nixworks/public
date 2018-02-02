@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/6/chinese-president-hu-jintao-begins-a-landmark-five-day-state-visit-to-japan.html)  [JSON](/news/2008/05/6/chinese-president-hu-jintao-begins-a-landmark-five-day-state-visit-to-japan.json)  [XML](/news/2008/05/6/chinese-president-hu-jintao-begins-a-landmark-five-day-state-visit-to-japan.xml)  
+
 ### [2008-05-6](/news/2008/05/6/index.md)
 
+##### China
 #  Chinese President Hu Jintao begins a landmark five-day state visit to Japan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC News](http://news.bbc.co.uk/2/hi/asia-pacific/7384749.stm)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/10/10/the-royal-swedish-academy-of-sciences-awards-thomas-schelling-and-robert-aumann-the-2005-nobel-prize-in-economics-for-having-enhanced-our.html)  [JSON](/news/2005/10/10/the-royal-swedish-academy-of-sciences-awards-thomas-schelling-and-robert-aumann-the-2005-nobel-prize-in-economics-for-having-enhanced-our.json)  [XML](/news/2005/10/10/the-royal-swedish-academy-of-sciences-awards-thomas-schelling-and-robert-aumann-the-2005-nobel-prize-in-economics-for-having-enhanced-our.xml)  
+
 ### [2005-10-10](/news/2005/10/10/index.md)
 
+##### Royal Swedish Academy of Sciences
 #  The Royal Swedish Academy of Sciences awards Thomas Schelling and Robert Aumann the 2005 Nobel Prize in Economics, "for having enhanced our understanding of conflict and cooperation through game-theory analysis". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [nobelprize.org](http://nobelprize.org/economics/laureates/2005/index.html)
 

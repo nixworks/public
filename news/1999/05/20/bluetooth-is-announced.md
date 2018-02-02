@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/1999/05/20/bluetooth-is-announced.html)  [JSON](/news/1999/05/20/bluetooth-is-announced.json)  [XML](/news/1999/05/20/bluetooth-is-announced.xml)  
+
 ### [1999-05-20](/news/1999/05/20/index.md)
 
+##### Bluetooth
 #  Bluetooth is announced.
 
 

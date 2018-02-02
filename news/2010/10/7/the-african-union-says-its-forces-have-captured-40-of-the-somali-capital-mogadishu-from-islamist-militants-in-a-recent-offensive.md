@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/7/the-african-union-says-its-forces-have-captured-40-of-the-somali-capital-mogadishu-from-islamist-militants-in-a-recent-offensive.html)  [JSON](/news/2010/10/7/the-african-union-says-its-forces-have-captured-40-of-the-somali-capital-mogadishu-from-islamist-militants-in-a-recent-offensive.json)  [XML](/news/2010/10/7/the-african-union-says-its-forces-have-captured-40-of-the-somali-capital-mogadishu-from-islamist-militants-in-a-recent-offensive.xml)  
+
 ### [2010-10-7](/news/2010/10/7/index.md)
 
+##### African Union
 # The African Union says its forces have captured 40% of the Somali capital Mogadishu from Islamist militants in a recent offensive. 
 
 The African Union says its troops are now in control of more than 40% of the Somali capital, as splits are reported in the main Islamist group.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-africa-11495226)
 2. [News24](http://www.news24.com/Africa/News/AU-troops-claim-gains-over-Shabaab-20101007)

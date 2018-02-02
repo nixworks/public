@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2005/08/22/in-tennis-maria-sharapova-becomes-the-first-russian-woman-to-reach-world-number-one-replacing-injured-american-lindsay-davenport-at-the-to.html)  [JSON](/news/2005/08/22/in-tennis-maria-sharapova-becomes-the-first-russian-woman-to-reach-world-number-one-replacing-injured-american-lindsay-davenport-at-the-to.json)  [XML](/news/2005/08/22/in-tennis-maria-sharapova-becomes-the-first-russian-woman-to-reach-world-number-one-replacing-injured-american-lindsay-davenport-at-the-to.xml)  
+
 ### [2005-08-22](/news/2005/08/22/index.md)
 
+##### tennis
 #  In tennis, Maria Sharapova becomes the first Russian woman to reach world number one replacing injured American Lindsay Davenport at the top of the WTA rankings. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/sport2/hi/tennis/4147644.stm)
-2. [Yahoo! News](http://sports.yahoo.com/ten/news?slug=reu-sharapovadc)
+2. [Yahoo! News](https://sports.yahoo.com/ten/news?slug=reu-sharapovadc)
 
 ### Related:
 

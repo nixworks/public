@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/15/many-countries-celebrate-the-60th-anniversary-of-the-victory-in-the-pacific-and-the-end-of-world-war-ii-beijing-holds-an-arts-performance.html)  [JSON](/news/2005/08/15/many-countries-celebrate-the-60th-anniversary-of-the-victory-in-the-pacific-and-the-end-of-world-war-ii-beijing-holds-an-arts-performance.json)  [XML](/news/2005/08/15/many-countries-celebrate-the-60th-anniversary-of-the-victory-in-the-pacific-and-the-end-of-world-war-ii-beijing-holds-an-arts-performance.xml)  
+
 ### [2005-08-15](/news/2005/08/15/index.md)
 
+##### Victory over Japan Day
 #  Many countries celebrate the 60th Anniversary of the Victory in the Pacific and the end of World War II. Beijing holds an arts performance gala. In Japan, in a large-scale ceremony led by the Emperor Akihito, Prime Minister Junichiro Koizumi apologizes for people's suffering Japan caused during World War II. The ceremony was met with scattered protests. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC China](http://news.bbc.co.uk/chinese/simp/hi/newsid_4150000/newsid_4152100/4152122.stm)
 2. [Xinhua](http://www.gx.xinhuanet.com/dtzx/2005-08/15/content_4885879.htm)

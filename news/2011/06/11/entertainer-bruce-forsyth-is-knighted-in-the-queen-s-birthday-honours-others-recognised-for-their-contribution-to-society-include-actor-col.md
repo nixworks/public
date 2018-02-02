@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/06/11/entertainer-bruce-forsyth-is-knighted-in-the-queen-s-birthday-honours-others-recognised-for-their-contribution-to-society-include-actor-col.html)  [JSON](/news/2011/06/11/entertainer-bruce-forsyth-is-knighted-in-the-queen-s-birthday-honours-others-recognised-for-their-contribution-to-society-include-actor-col.json)  [XML](/news/2011/06/11/entertainer-bruce-forsyth-is-knighted-in-the-queen-s-birthday-honours-others-recognised-for-their-contribution-to-society-include-actor-col.xml)  
+
 ### [2011-06-11](/news/2011/06/11/index.md)
 
+##### Bruce Forsyth
 # Entertainer Bruce Forsyth is knighted in the Queen's Birthday Honours. Others recognised for their contribution to society include actor Colin Firth, and the team which secured England's Ashes victory over Australia. 
 
 Entertainment legend Bruce Forsyth is knighted in a list which also recognises Oscar winner Colin Firth, the Ashes heroes and hundreds of &quot;unsung heroes&quot;.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/uk-13728375)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/media/images/53362000/jpg/_53362236_012196274-1.jpg)

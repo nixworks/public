@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/05/27/the-federal-court-of-australia-rejects-an-attempt-from.html)  [JSON](/news/2005/05/27/the-federal-court-of-australia-rejects-an-attempt-from.json)  [XML](/news/2005/05/27/the-federal-court-of-australia-rejects-an-attempt-from.xml)  
+
 ### [2005-05-27](/news/2005/05/27/index.md)
 
+##### Federal Court of Australia
 #  The Federal Court of Australia rejects an attempt from 
 
 
 
 
-### Source:
+### Sources:
 
 1. [ABC News](http://www.abc.net.au/news/newsitems/200505/s1378479.htm)
 2. [Humane Society International](http://www.hsi.org.au/)

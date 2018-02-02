@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2004/12/10/a-riot-forms-in-puerto-rico-between-members-of-the-pip-the-fupi-the-socialist-party-and-members-of-the-police-in-front-of-the-federal-cou.html)  [JSON](/news/2004/12/10/a-riot-forms-in-puerto-rico-between-members-of-the-pip-the-fupi-the-socialist-party-and-members-of-the-police-in-front-of-the-federal-cou.json)  [XML](/news/2004/12/10/a-riot-forms-in-puerto-rico-between-members-of-the-pip-the-fupi-the-socialist-party-and-members-of-the-police-in-front-of-the-federal-cou.xml)  
+
 ### [2004-12-10](/news/2004/12/10/index.md)
 
+##### riot
 #  A riot forms in Puerto Rico between members of the PIP, the FUPI, the Socialist party and members of the police in front of the federal courthouse, where PIP and PNP backers had gathered two days before the outcome of the 2004 Puerto Rican elections was to be decided by a judge. Several people, including seven policemen, are severely injured. [http:--vocero.com-noticia.asp?n=50165&d=12-11-2004 ("El Vocero"] {{es icon}}
 
 

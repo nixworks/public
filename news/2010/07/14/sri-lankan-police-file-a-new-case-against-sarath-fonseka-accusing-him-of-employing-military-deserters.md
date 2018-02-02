@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/07/14/sri-lankan-police-file-a-new-case-against-sarath-fonseka-accusing-him-of-employing-military-deserters.html)  [JSON](/news/2010/07/14/sri-lankan-police-file-a-new-case-against-sarath-fonseka-accusing-him-of-employing-military-deserters.json)  [XML](/news/2010/07/14/sri-lankan-police-file-a-new-case-against-sarath-fonseka-accusing-him-of-employing-military-deserters.xml)  
+
 ### [2010-07-14](/news/2010/07/14/index.md)
 
+##### Sri Lanka
 # Sri Lankan police file a new case against Sarath Fonseka accusing him of employing military deserters. 
 
 Defeated opposition candidate accused of employing army deserters in run-up to vote.
 
 
-### Source:
+### Sources:
 
 1. [Aljazeera](http://english.aljazeera.net/news/asia/2010/07/20107145210410411.html)
 1. [Cover Image](http://www.aljazeera.com)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/09/14/the-campus-buildings-of-the-university-of-texas-at-austin-and-north-dakota-state-university-are-evacuated-due-to-bomb-threats.html)  [JSON](/news/2012/09/14/the-campus-buildings-of-the-university-of-texas-at-austin-and-north-dakota-state-university-are-evacuated-due-to-bomb-threats.json)  [XML](/news/2012/09/14/the-campus-buildings-of-the-university-of-texas-at-austin-and-north-dakota-state-university-are-evacuated-due-to-bomb-threats.xml)  
+
 ### [2012-09-14](/news/2012/09/14/index.md)
 
+##### University of Texas at Austin
 # The campus buildings of the University of Texas at Austin and North Dakota State University are evacuated due to bomb threats. 
 
 UT-Austin and North Dakota State reopen after bomb threats prompted each to evacuate campus buildings.
 
 
-### Source:
+### Sources:
 
 1. [USA Today](http://content.usatoday.com/communities/ondeadline/post/2012/09/14/university-of-texas-emergency-threat-evacatuion/70000347/1#.UFNO3LJgLWY)
 1. [Cover Image](http://www.gannett-cdn.com/media/USATODAY/ondeadline/2012/09/14/AP_Campus_Bomb_Threats-x-wide-community.jpg)

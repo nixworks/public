@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/5/three-people-die-in-colombia-after-contracting-t
 
 ### [2016-02-5](/news/2016/02/5/index.md)
 
+##### Zika virus outbreak in the Americas (2015-present)
 # Three people die in Colombia after contracting the Zika virus and developing Guillain-Barre syndrome. 
 
 Colombia said Friday that three people had died after contracting the Zika virus and developing a rare nerve disorder called Guillain-Barre, the first time health officials have directly blamed the mosquito-borne disease for causing deaths

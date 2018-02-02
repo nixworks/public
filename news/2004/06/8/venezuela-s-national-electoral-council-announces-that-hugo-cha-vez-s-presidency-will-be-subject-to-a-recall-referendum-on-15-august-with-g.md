@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2004/06/8/venezuela-s-national-electoral-council-announces-that-hugo-cha-vez-s-presidency-will-be-subject-to-a-recall-referendum-on-15-august-with-g.html)  [JSON](/news/2004/06/8/venezuela-s-national-electoral-council-announces-that-hugo-cha-vez-s-presidency-will-be-subject-to-a-recall-referendum-on-15-august-with-g.json)  [XML](/news/2004/06/8/venezuela-s-national-electoral-council-announces-that-hugo-cha-vez-s-presidency-will-be-subject-to-a-recall-referendum-on-15-august-with-g.xml)  
+
 ### [2004-06-8](/news/2004/06/8/index.md)
 
+##### Venezuela
 #  Venezuela's National Electoral Council announces that Hugo Chavez's presidency will be subject to a recall referendum on 15 August, with general elections to follow within 30 days if the vote goes against the president. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/americas/3789219.stm)
 

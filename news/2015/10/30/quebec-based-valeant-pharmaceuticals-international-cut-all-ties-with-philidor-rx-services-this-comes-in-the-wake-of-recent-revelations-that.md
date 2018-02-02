@@ -1,16 +1,20 @@
+
+Formats: [HTML](/news/2015/10/30/quebec-based-valeant-pharmaceuticals-international-cut-all-ties-with-philidor-rx-services-this-comes-in-the-wake-of-recent-revelations-that.html)  [JSON](/news/2015/10/30/quebec-based-valeant-pharmaceuticals-international-cut-all-ties-with-philidor-rx-services-this-comes-in-the-wake-of-recent-revelations-that.json)  [XML](/news/2015/10/30/quebec-based-valeant-pharmaceuticals-international-cut-all-ties-with-philidor-rx-services-this-comes-in-the-wake-of-recent-revelations-that.xml)  
+
 ### [2015-10-30](/news/2015/10/30/index.md)
 
+##### Quebec
 # Quebec-based Valeant Pharmaceuticals International cut all ties with Philidor Rx Services. This comes in the wake of recent revelations that Valeant was looking to acquire Philidor, a relationship that raised questions from various quarters. Valeant is the subject of U.S. federal investigations. 
 
-By Michael Flaherty and Caroline Humer(Reuters)...
+The drug maker had been criticized for recommending Philidor Rx Services because it discouraged the prescription of less-expensive medicines.
 
 
-### Source:
+### Sources:
 
-1. [Bloomberg](http://www.bloomberg.com/news/articles/2015-10-29/philidor-said-to-modify-prescriptions-to-boost-valeant-sales)
-2. [New York Times](http://www.nytimes.com/2015/10/31/business/valeant-pharmaceuticals-philidor.html?ref=business)
+1. [Bloomberg](https://www.bloomberg.com/news/articles/2015-10-29/philidor-said-to-modify-prescriptions-to-boost-valeant-sales)
+2. [New York Times](https://www.nytimes.com/2015/10/31/business/valeant-pharmaceuticals-philidor.html?ref=business)
 3. [Reuters via Business Insider](http://www.businessinsider.com/r-cvs-express-scripts-drop-valeants-philidor-stock-dives-2015-10)
-3. [Cover Image](http://static3.businessinsider.com/image/55d5591d5afbd3b1788b456b-1190-625/cvs-express-scripts-drop-valeants-philidor-stock-dives.jpg)
+3. [Cover Image](https://static01.nyt.com/images/2015/10/27/business/27valeant/27valeant-facebookJumbo.jpg)
 
 ### Related:
 

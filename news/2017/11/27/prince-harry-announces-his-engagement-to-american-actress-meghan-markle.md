@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/11/27/prince-harry-announces-his-engagement-to-americ
 
 ### [2017-11-27](/news/2017/11/27/index.md)
 
+##### Wedding of Prince Harry and Meghan Markle
 # Prince Harry announces his engagement to American actress Meghan Markle. 
 
 Los Angeles-born actress Meghan Markle is a divorcee and three years older than Prince Harry, an ex-party boy who served in Afghanistan with the British army.

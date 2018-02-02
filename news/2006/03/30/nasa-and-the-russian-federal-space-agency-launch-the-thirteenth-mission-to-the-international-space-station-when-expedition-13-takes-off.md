@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/03/30/nasa-and-the-russian-federal-space-agency-launch-the-thirteenth-mission-to-the-international-space-station-when-expedition-13-takes-off.html)  [JSON](/news/2006/03/30/nasa-and-the-russian-federal-space-agency-launch-the-thirteenth-mission-to-the-international-space-station-when-expedition-13-takes-off.json)  [XML](/news/2006/03/30/nasa-and-the-russian-federal-space-agency-launch-the-thirteenth-mission-to-the-international-space-station-when-expedition-13-takes-off.xml)  
+
 ### [2006-03-30](/news/2006/03/30/index.md)
 
+##### NASA
 #  NASA and the Russian Federal Space Agency launch the thirteenth mission to the International Space Station when "Expedition 13" takes off. On board is Marcos Pontes, the first Brazilian in space. 
 
 A Russian-American crew and Brazil&#8217;s first astronaut flew into orbit Thursday onboard a Russian rocket bringing them on a two-day trip to the international space station.
 
 
-### Source:
+### Sources:
 
 1. [MSNBC](http://www.msnbc.msn.com/id/12072500/)
 1. [Cover Image](http://media1.s-nbcnews.com/j/msnbc/Components/Video/060329/n_nasa_soyuzlaunch_060329.standard.jpg)

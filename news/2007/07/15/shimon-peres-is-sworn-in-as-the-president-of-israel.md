@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/07/15/shimon-peres-is-sworn-in-as-the-president-of-israel.html)  [JSON](/news/2007/07/15/shimon-peres-is-sworn-in-as-the-president-of-israel.json)  [XML](/news/2007/07/15/shimon-peres-is-sworn-in-as-the-president-of-israel.xml)  
+
 ### [2007-07-15](/news/2007/07/15/index.md)
 
+##### Shimon Peres
 #  Shimon Peres is sworn in as the President of Israel. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters via News Limited](http://www.news.com.au/story/0,10117,22081272-401,00.html)
 

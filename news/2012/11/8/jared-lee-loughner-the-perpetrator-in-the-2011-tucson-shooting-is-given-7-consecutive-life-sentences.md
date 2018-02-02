@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/11/8/jared-lee-loughner-the-perpetrator-in-the-2011-tucson-shooting-is-given-7-consecutive-life-sentences.html)  [JSON](/news/2012/11/8/jared-lee-loughner-the-perpetrator-in-the-2011-tucson-shooting-is-given-7-consecutive-life-sentences.json)  [XML](/news/2012/11/8/jared-lee-loughner-the-perpetrator-in-the-2011-tucson-shooting-is-given-7-consecutive-life-sentences.xml)  
+
 ### [2012-11-8](/news/2012/11/8/index.md)
 
+##### Jared Lee Loughner
 # Jared Lee Loughner, the perpetrator in the 2011 Tucson shooting, is given 7 consecutive life sentences. 
 
 Jared Lee Loughner, who shot former Rep. Gabrielle Giffords in the head, killed six and wounded 12 others in a 2011 Tucson rampage, was sentenced to life in prison without parole after listening to...
 
 
-### Source:
+### Sources:
 
 1. [Los Angeles Times](http://www.latimes.com/news/nation/nationnow/la-na-nn-jared-loughner-life-in-prison-20121108,0,878153.story)
 1. [Cover Image](http://latimesblogs.latimes.com/fb.jpg)

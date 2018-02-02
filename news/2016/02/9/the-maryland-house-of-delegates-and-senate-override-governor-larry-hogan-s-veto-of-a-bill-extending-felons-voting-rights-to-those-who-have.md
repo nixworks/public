@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/9/the-maryland-house-of-delegates-and-senate-overr
 
 ### [2016-02-9](/news/2016/02/9/index.md)
 
+##### Maryland House of Delegates
 # The Maryland House of Delegates and Senate override Governor Larry Hogan's veto of a bill extending felons' voting rights to those who have not completed the terms of their probation or parole. The law goes into effect March 10, 2016. 
 
 

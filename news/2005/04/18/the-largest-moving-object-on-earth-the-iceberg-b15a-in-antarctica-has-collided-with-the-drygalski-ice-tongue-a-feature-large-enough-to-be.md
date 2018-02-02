@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2005/04/18/the-largest-moving-object-on-earth-the-iceberg-b15a-in-antarctica-has-collided-with-the-drygalski-ice-tongue-a-feature-large-enough-to-be.html)  [JSON](/news/2005/04/18/the-largest-moving-object-on-earth-the-iceberg-b15a-in-antarctica-has-collided-with-the-drygalski-ice-tongue-a-feature-large-enough-to-be.json)  [XML](/news/2005/04/18/the-largest-moving-object-on-earth-the-iceberg-b15a-in-antarctica-has-collided-with-the-drygalski-ice-tongue-a-feature-large-enough-to-be.xml)  
+
 ### [2005-04-18](/news/2005/04/18/index.md)
 
+##### iceberg
 #  The largest moving object on Earth, the iceberg B15A in Antarctica has collided with the Drygalski ice tongue, a feature large enough to be included in Antarctic maps. During the collision, a five-kilometre-long section of the ice tongue was broken off. [http:--www.esa.int-esaEO-SEMEGLW797E_index_0.html (ESA)] [http:--story.news.yahoo.com-news?tmpl=story&cid=624&ncid=624&e=6&u=-ap-20050420-ap_on_sc-iceberg_glacier_crash (AP)] (Link dead as of 04:02, 16 January 2007 (UTC))
 
 

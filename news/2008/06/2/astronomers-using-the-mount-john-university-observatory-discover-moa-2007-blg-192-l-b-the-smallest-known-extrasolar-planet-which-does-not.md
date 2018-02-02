@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/06/2/astronomers-using-the-mount-john-university-observatory-discover-moa-2007-blg-192-l-b-the-smallest-known-extrasolar-planet-which-does-not.html)  [JSON](/news/2008/06/2/astronomers-using-the-mount-john-university-observatory-discover-moa-2007-blg-192-l-b-the-smallest-known-extrasolar-planet-which-does-not.json)  [XML](/news/2008/06/2/astronomers-using-the-mount-john-university-observatory-discover-moa-2007-blg-192-l-b-the-smallest-known-extrasolar-planet-which-does-not.xml)  
+
 ### [2008-06-2](/news/2008/06/2/index.md)
 
+##### Mount John University Observatory
 #  Astronomers using the Mount John University Observatory discover MOA-2007-BLG-192-L b, the smallest known extrasolar planet which does not orbit a pulsar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [PhysOrg.com](http://www.physorg.com/news131631686.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/06/8/sudanese-president-omar-al-bashir-orders-the-closure-of-oil-pipelines-coming-from-south-sudan.html)  [JSON](/news/2013/06/8/sudanese-president-omar-al-bashir-orders-the-closure-of-oil-pipelines-coming-from-south-sudan.json)  [XML](/news/2013/06/8/sudanese-president-omar-al-bashir-orders-the-closure-of-oil-pipelines-coming-from-south-sudan.xml)  
+
 ### [2013-06-8](/news/2013/06/8/index.md)
 
+##### Sudan
 # Sudanese president Omar al-Bashir orders the closure of oil pipelines coming from South Sudan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Fox News](http://www.foxnews.com/world/2013/06/08/sudan-president-orders-closure-pipelines-carrying-oil-from-south-sudan/)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

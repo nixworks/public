@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2009/09/20/toni-collette-wins-the-emmy-for-outstanding-lead-actress-in-a-comedy-series-for-playing-tara-gregson-on-united-states-of-tara.html)  [JSON](/news/2009/09/20/toni-collette-wins-the-emmy-for-outstanding-lead-actress-in-a-comedy-series-for-playing-tara-gregson-on-united-states-of-tara.json)  [XML](/news/2009/09/20/toni-collette-wins-the-emmy-for-outstanding-lead-actress-in-a-comedy-series-for-playing-tara-gregson-on-united-states-of-tara.xml)  
+
 ### [2009-09-20](/news/2009/09/20/index.md)
 
+##### 61st Primetime Emmy Awards
 #  Toni Collette wins the Emmy for Outstanding Lead Actress in a Comedy Series for playing Tara Gregson on "United States of Tara". 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gI11Yfjmko2nALepNs-3drv3PccQD9ARETQ00)
 2. [AP via Google News](http://www.google.com/hostednews/ap/article/ALeqM5gdZYquCkhax758t3m92KQpgt3LKQD9ARCN2O1)

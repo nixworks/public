@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/29/a-helicopter-crashes-into-a-building-in-panama-city-killing-the-director-general-of-the-carabiniers-of-chile-and-several-civilians.html)  [JSON](/news/2008/05/29/a-helicopter-crashes-into-a-building-in-panama-city-killing-the-director-general-of-the-carabiniers-of-chile-and-several-civilians.json)  [XML](/news/2008/05/29/a-helicopter-crashes-into-a-building-in-panama-city-killing-the-director-general-of-the-carabiniers-of-chile-and-several-civilians.xml)  
+
 ### [2008-05-29](/news/2008/05/29/index.md)
 
+##### Panama City
 #  A helicopter crashes into a building in Panama City, killing the Director-general of the Carabiniers of Chile and several civilians. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AP via MSNBC](http://www.msnbc.msn.com/id/24880598/)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/5/iranian-president-mahmoud-ahmadinejad-will-present-a-herbal-treatment-for-aids-that-the-iranian-government-says-is-effective-in-helping-pat.html)  [JSON](/news/2007/02/5/iranian-president-mahmoud-ahmadinejad-will-present-a-herbal-treatment-for-aids-that-the-iranian-government-says-is-effective-in-helping-pat.json)  [XML](/news/2007/02/5/iranian-president-mahmoud-ahmadinejad-will-present-a-herbal-treatment-for-aids-that-the-iranian-government-says-is-effective-in-helping-pat.xml)  
+
 ### [2007-02-5](/news/2007/02/5/index.md)
 
+##### President
 #  Iranian President Mahmoud Ahmadinejad will present a herbal treatment for AIDS that the Iranian government says is effective in helping patients to cure their symptoms. 
 
 Iran was set to make fantastic claims on the anniversary of the Islamic Revolution, including finding an herbal cure for AIDS, an Israeli news agency reported Sunday.
 
 
-### Source:
+### Sources:
 
 1. [Fox](http://www.foxnews.com/story/0,2933,250281,00.html)
 1. [Cover Image](http://www.foxnews.com/content/dam/fox-news/logo/og-fn-foxnews.jpg)

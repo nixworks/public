@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/20/up-to-80-people-including-soldiers-are-arrested-in-guinea-after-a-failed-assassination-attempt-on-president-alpha-conda-c-on-19-july.html)  [JSON](/news/2011/07/20/up-to-80-people-including-soldiers-are-arrested-in-guinea-after-a-failed-assassination-attempt-on-president-alpha-conda-c-on-19-july.json)  [XML](/news/2011/07/20/up-to-80-people-including-soldiers-are-arrested-in-guinea-after-a-failed-assassination-attempt-on-president-alpha-conda-c-on-19-july.xml)  
+
 ### [2011-07-20](/news/2011/07/20/index.md)
 
+##### Guinea
 # Up to 80 people, including soldiers, are arrested in Guinea after a failed assassination attempt on President Alpha Conde on 19 July. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Reuters](http://af.reuters.com/article/topNews/idAFJOE76J0M920110720?sp=true)
 

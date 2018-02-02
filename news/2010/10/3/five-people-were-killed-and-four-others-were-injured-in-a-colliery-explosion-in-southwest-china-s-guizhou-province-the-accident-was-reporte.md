@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/10/3/five-people-were-killed-and-four-others-were-injured-in-a-colliery-explosion-in-southwest-china-s-guizhou-province-the-accident-was-reporte.html)  [JSON](/news/2010/10/3/five-people-were-killed-and-four-others-were-injured-in-a-colliery-explosion-in-southwest-china-s-guizhou-province-the-accident-was-reporte.json)  [XML](/news/2010/10/3/five-people-were-killed-and-four-others-were-injured-in-a-colliery-explosion-in-southwest-china-s-guizhou-province-the-accident-was-reporte.xml)  
+
 ### [2010-10-3](/news/2010/10/3/index.md)
 
+##### Guizhou
 # Five people were killed and four others were injured in a colliery explosion in southwest China's Guizhou Province. The accident was reported at Huanghegou pit in Xixiu District of Anshun City. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [China Daily](http://www.chinadaily.com.cn/china/2010-10/04/content_11376521.htm)
 

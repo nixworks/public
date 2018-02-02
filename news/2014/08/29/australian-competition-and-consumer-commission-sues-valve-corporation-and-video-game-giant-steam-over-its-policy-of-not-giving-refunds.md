@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2014/08/29/australian-competition-and-consumer-commission-sues-valve-corporation-and-video-game-giant-steam-over-its-policy-of-not-giving-refunds.html)  [JSON](/news/2014/08/29/australian-competition-and-consumer-commission-sues-valve-corporation-and-video-game-giant-steam-over-its-policy-of-not-giving-refunds.json)  [XML](/news/2014/08/29/australian-competition-and-consumer-commission-sues-valve-corporation-and-video-game-giant-steam-over-its-policy-of-not-giving-refunds.xml)  
+
 ### [2014-08-29](/news/2014/08/29/index.md)
 
+##### Australian Competition and Consumer Commission
 # Australian Competition and Consumer Commission sues Valve Corporation and video game giant Steam over its policy of not giving refunds. 
 
 The Australian consumer watchdog is suing the US company behind the wildly popular online video games distribution platform Steam, alleging it misled Australian consumers about their rights and refused to give refunds.
 
 
-### Source:
+### Sources:
 
 1. [Sydney Herald Sun](http://www.smh.com.au/digital-life/games/accc-sues-us-video-games-giant-valve-20140829-109w0y.html)
 1. [Cover Image](http://www.smh.com.au/content/dam/images/1/0/9/w/b/h/image.related.articleLeadwide.620x349.109w0y.png/1409444352731.png)

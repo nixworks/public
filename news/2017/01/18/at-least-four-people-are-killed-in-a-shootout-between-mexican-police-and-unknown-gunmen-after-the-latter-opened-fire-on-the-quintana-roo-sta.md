@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2017/01/18/at-least-four-people-are-killed-in-a-shootout-between-mexican-police-and-unknown-gunmen-after-the-latter-opened-fire-on-the-quintana-roo-sta.html)  [JSON](/news/2017/01/18/at-least-four-people-are-killed-in-a-shootout-between-mexican-police-and-unknown-gunmen-after-the-latter-opened-fire-on-the-quintana-roo-sta.json)  [XML](/news/2017/01/18/at-least-four-people-are-killed-in-a-shootout-between-mexican-police-and-unknown-gunmen-after-the-latter-opened-fire-on-the-quintana-roo-sta.xml)  
+
 ### [2017-01-18](/news/2017/01/18/index.md)
 
+##### Mexican Police
 # At least four people are killed in a shootout between Mexican Police and unknown gunmen after the latter opened fire on the Quintana Roo state attorneys' office in Cancun. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.com/news/world-latin-america-38661590)
 1. [Cover Image](http://ichef.bbci.co.uk/news/1024/cpsprodpb/1779A/production/_93645169_593184f1-0c06-4234-ac51-a2be7d6c13f4.jpg)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/4/islamist-parties-win-the-first-stage-of-the-egyptian-parliamentary-election-with-the-muslim-brotherhood-aligned-freedom-and-justice-party-f.html)  [JSON](/news/2011/12/4/islamist-parties-win-the-first-stage-of-the-egyptian-parliamentary-election-with-the-muslim-brotherhood-aligned-freedom-and-justice-party-f.json)  [XML](/news/2011/12/4/islamist-parties-win-the-first-stage-of-the-egyptian-parliamentary-election-with-the-muslim-brotherhood-aligned-freedom-and-justice-party-f.xml)  
+
 ### [2011-12-4](/news/2011/12/4/index.md)
 
+##### Islamists
 # Islamist parties win the first stage of the Egyptian parliamentary election, with the Muslim Brotherhood-aligned Freedom and Justice Party first at 37% of the vote, and the more hardline Salafi Al Nour Party in second place with 24% of the vote. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP](http://www.google.com/hostednews/afp/article/ALeqM5i_QFtCVr0qnaEmSjS04MSLZ-TSnA?docId=CNG.5b3137d37ca033f82d1946db0c21911c.5e1)
 

@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/05/31/memorial-day-president-bush-honors-the-united-states-war-dead-of-past-conflicts-and-says-that-two-terror-regimes-are-gone-forever-in-i.html)  [JSON](/news/2004/05/31/memorial-day-president-bush-honors-the-united-states-war-dead-of-past-conflicts-and-says-that-two-terror-regimes-are-gone-forever-in-i.json)  [XML](/news/2004/05/31/memorial-day-president-bush-honors-the-united-states-war-dead-of-past-conflicts-and-says-that-two-terror-regimes-are-gone-forever-in-i.xml)  
+
 ### [2004-05-31](/news/2004/05/31/index.md)
 
+##### Memorial Day
 #  Memorial Day: President Bush honors the United States' war dead of past conflicts, and says that "two terror regimes are gone forever" in Iraq and Afghanistan as US deaths there climb to 1,000. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml;jsessionid=PWFWWE32DXIDQCRBAEKSFFA?type=topNews&storyID=5303803)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml;jsessionid=PWFWWE32DXIDQCRBAEKSFFA?type=topNews&storyID=5303803)
 
 ### Related:
 

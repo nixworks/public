@@ -1,18 +1,22 @@
+
+Formats: [HTML](/news/2013/01/16/boeing-787-aircraft-are-grounded-worldwide-over-concerns-about-the-safety-of-their-lithium-ion-batteries.html)  [JSON](/news/2013/01/16/boeing-787-aircraft-are-grounded-worldwide-over-concerns-about-the-safety-of-their-lithium-ion-batteries.json)  [XML](/news/2013/01/16/boeing-787-aircraft-are-grounded-worldwide-over-concerns-about-the-safety-of-their-lithium-ion-batteries.xml)  
+
 ### [2013-01-16](/news/2013/01/16/index.md)
 
+##### Boeing 787
 # Boeing 787 aircraft are grounded worldwide over concerns about the safety of their lithium-ion batteries. 
 
 European safety regulatorswill follow the United States in ordering the grounding ofBoeing 787 Dreamliners amid battery safety concerns, aspokesman said early on Thursday.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/business-21054089)
 2. [NBC](http://www.nbcnews.com/business/faa-grounds-all-boeing-787s-over-safety-concerns-1B7991426)
-3. [Reuters](http://www.reuters.com/article/2013/01/17/boeing-787-easa-idUSL6N0AM0E020130117)
-4. [The New York Times](http://www.nytimes.com/2013/01/17/business/faa-orders-grounding-of-us-operated-boeing-787s.html)
+3. [Reuters](https://www.reuters.com/article/2013/01/17/boeing-787-easa-idUSL6N0AM0E020130117)
+4. [The New York Times](https://www.nytimes.com/2013/01/17/business/faa-orders-grounding-of-us-operated-boeing-787s.html)
 5. [Time](http://business.time.com/2013/01/17/lithium-batteries-central-to-boeings-787-woes/)
-5. [Cover Image](http://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
+5. [Cover Image](https://s4.reutersmedia.net/resources_v2/images/rcom-default.png)
 
 ### Related:
 

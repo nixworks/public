@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/07/29/the-prime-minister-of-south-korea-kim-hwang-sik-calls-for-an-overhaul-of-disaster-management-following-the-death-of-59-people-in-floods-an.html)  [JSON](/news/2011/07/29/the-prime-minister-of-south-korea-kim-hwang-sik-calls-for-an-overhaul-of-disaster-management-following-the-death-of-59-people-in-floods-an.json)  [XML](/news/2011/07/29/the-prime-minister-of-south-korea-kim-hwang-sik-calls-for-an-overhaul-of-disaster-management-following-the-death-of-59-people-in-floods-an.xml)  
+
 ### [2011-07-29](/news/2011/07/29/index.md)
 
+##### Prime Minister
 # The Prime Minister of South Korea, Kim Hwang-sik, calls for an overhaul of disaster management following the death of 59 people in floods and landslides caused by heavy rain in recent days. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Yonhap](http://english.yonhapnews.co.kr/news/2011/07/29/0200000000AEN20110729003200315.HTML)
 
@@ -15,4 +19,4 @@
 2. [ South Korea's cabinet, led by Prime Minister Han Seung-soo, offers to resign following widespread protests at decisions to resume US beef imports in South Korea. ](/news/2008/06/10/south-korea-s-cabinet-led-by-prime-minister-han-seung-soo-offers-to-resign-following-widespread-protests-at-decisions-to-resume-us-beef-i.md) _Context: Prime Minister, South Korea_
 3. [ President Roh Moo-hyun nominates Han Myung-Sook to become the South Korea's first woman prime minister. ](/news/2006/03/24/president-roh-moo-hyun-nominates-han-myung-sook-to-become-the-south-korea-s-first-woman-prime-minister.md) _Context: Prime Minister, South Korea_
 4. [ The parliament of South Korea votes to impeach President Roh Moo-hyun, saying he "breached election rules" by calling for support for the Uri Party. Prime Minister Goh Kun will run the country until the Constitutional Court rules on the issue. Roh's supporters dismiss the move as a power play to influence the upcoming April elections. Thousands protest in support of Roh. ](/news/2004/03/12/the-parliament-of-south-korea-votes-to-impeach-president-roh-moo-hyun-saying-he-breached-election-rules-by-calling-for-support-for-the-u.md) _Context: Prime Minister, South Korea_
-5. [A South Korean lawmaker claims that in 2016, North Korean hackers stole classified military documents detailing joint operations between the South Korean and United States military forces in the event of war with North Korea. ](/news/2017/10/10/a-south-korean-lawmaker-claims-that-in-2016-north-korean-hackers-stole-classified-military-documents-detailing-joint-operations-between-the.md) _Context: South Korea_
+5. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: South Korea_

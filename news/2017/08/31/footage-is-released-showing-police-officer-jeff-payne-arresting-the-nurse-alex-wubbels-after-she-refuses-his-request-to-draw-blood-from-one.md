@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/31/footage-is-released-showing-police-officer-jeff
 
 ### [2017-08-31](/news/2017/08/31/index.md)
 
+##### 2017 University of Utah Hospital incident
 # Footage is released showing police officer Jeff Payne arresting the nurse Alex Wubbels after she refuses his request to draw blood from one of her patients. 
 
 A nurse says she was assaulted and illegally arrested by a Salt Lake City police detective for following a hospital policy that does not allow blood draws from unconscious patients.

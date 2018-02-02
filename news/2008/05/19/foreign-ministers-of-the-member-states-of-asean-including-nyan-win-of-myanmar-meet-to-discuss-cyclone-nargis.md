@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2008/05/19/foreign-ministers-of-the-member-states-of-asean-including-nyan-win-of-myanmar-meet-to-discuss-cyclone-nargis.html)  [JSON](/news/2008/05/19/foreign-ministers-of-the-member-states-of-asean-including-nyan-win-of-myanmar-meet-to-discuss-cyclone-nargis.json)  [XML](/news/2008/05/19/foreign-ministers-of-the-member-states-of-asean-including-nyan-win-of-myanmar-meet-to-discuss-cyclone-nargis.xml)  
+
 ### [2008-05-19](/news/2008/05/19/index.md)
 
+##### Foreign Minister
 #  Foreign Ministers of the member states of ASEAN including Nyan Win of Myanmar meet to discuss Cyclone Nargis. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Wall Street Journal](http://online.wsj.com/article/SB121111732918001565.html)
 

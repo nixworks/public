@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2005/12/17/a-group-of-over-40-people-dressed-in-santa-claus-costumes-go-on-a-rampage-through-downtown-auckland-new-zealand-robbing-stores-and-assa.html)  [JSON](/news/2005/12/17/a-group-of-over-40-people-dressed-in-santa-claus-costumes-go-on-a-rampage-through-downtown-auckland-new-zealand-robbing-stores-and-assa.json)  [XML](/news/2005/12/17/a-group-of-over-40-people-dressed-in-santa-claus-costumes-go-on-a-rampage-through-downtown-auckland-new-zealand-robbing-stores-and-assa.xml)  
+
 ### [2005-12-17](/news/2005/12/17/index.md)
 
+##### Santa Claus
 #  A group of over 40 people, dressed in Santa Claus costumes, go on a rampage through downtown Auckland, New Zealand, robbing stores and assaulting security guards. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [AP](http://news.yahoo.com/s/ap/20051218/ap_on_re_au_an/new_zealand_drunken_santas;_ylt=Ap0PC2RsXUwkyTlIG1BpwN2s0NUE;_ylu=X3oDMTA3b2NibDltBHNlYwM3MTY-)
+1. [AP](https://news.yahoo.com/s/ap/20051218/ap_on_re_au_an/new_zealand_drunken_santas;_ylt=Ap0PC2RsXUwkyTlIG1BpwN2s0NUE;_ylu=X3oDMTA3b2NibDltBHNlYwM3MTY-)
 
 ### Related:
 

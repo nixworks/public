@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/07/3/three-female-isil-suicide-bombers-kill-15-people
 
 ### [2017-07-3](/news/2017/07/3/index.md)
 
+##### Battle of Mosul
 # Three female ISIL suicide bombers kill 15 people and injure five in three separate incidents over the last two days as the fight for Mosul winds down. 
 
 Two suicide bombings against Iraqi soldiers follow three other attacks by women

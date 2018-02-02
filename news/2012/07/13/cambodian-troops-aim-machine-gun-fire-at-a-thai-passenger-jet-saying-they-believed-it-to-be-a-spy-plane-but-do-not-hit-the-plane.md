@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/07/13/cambodian-troops-aim-machine-gun-fire-at-a-thai-passenger-jet-saying-they-believed-it-to-be-a-spy-plane-but-do-not-hit-the-plane.html)  [JSON](/news/2012/07/13/cambodian-troops-aim-machine-gun-fire-at-a-thai-passenger-jet-saying-they-believed-it-to-be-a-spy-plane-but-do-not-hit-the-plane.json)  [XML](/news/2012/07/13/cambodian-troops-aim-machine-gun-fire-at-a-thai-passenger-jet-saying-they-believed-it-to-be-a-spy-plane-but-do-not-hit-the-plane.xml)  
+
 ### [2012-07-13](/news/2012/07/13/index.md)
 
+##### Cambodia
 # Cambodian troops aim machine gun fire at a Thai passenger jet, saying they believed it to be a spy plane, but do not hit the plane. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [RNW](http://www.rnw.nl/english/bulletin/cambodian-troops-fire-passenger-jet-thai-army)
 

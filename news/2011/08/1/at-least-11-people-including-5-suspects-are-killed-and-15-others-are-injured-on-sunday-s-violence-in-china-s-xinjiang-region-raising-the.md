@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/08/1/at-least-11-people-including-5-suspects-are-killed-and-15-others-are-injured-on-sunday-s-violence-in-china-s-xinjiang-region-raising-the.html)  [JSON](/news/2011/08/1/at-least-11-people-including-5-suspects-are-killed-and-15-others-are-injured-on-sunday-s-violence-in-china-s-xinjiang-region-raising-the.json)  [XML](/news/2011/08/1/at-least-11-people-including-5-suspects-are-killed-and-15-others-are-injured-on-sunday-s-violence-in-china-s-xinjiang-region-raising-the.xml)  
+
 ### [2011-08-1](/news/2011/08/1/index.md)
 
+##### recent unrest
 # At least 11 people, including 5 suspects, are killed and 15 others are injured on Sunday's violence in China's Xinjiang region, raising the death toll to 20 over the weekend attacks in Kashgar. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CRI](http://english.cri.cn/6909/2011/08/01/1781s651239.htm)
 2. [The Guardian](http://www.guardian.co.uk/world/2011/jul/31/china-knife-attack-several-dead)

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/11/burmese-protest-leader-u-gambira-is-released-by-authorities-in-yangon-after-being-held-overnight.html)  [JSON](/news/2012/02/11/burmese-protest-leader-u-gambira-is-released-by-authorities-in-yangon-after-being-held-overnight.json)  [XML](/news/2012/02/11/burmese-protest-leader-u-gambira-is-released-by-authorities-in-yangon-after-being-held-overnight.xml)  
+
 ### [2012-02-11](/news/2012/02/11/index.md)
 
+##### Burma
 # Burmese protest leader U Gambira is released by authorities in Yangon after being held overnight. 
 
 Burmese monk Shin Gambira, one of the leaders of anti-government protests in 2007, is released by authorities after briefly being detained.
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://www.bbc.co.uk/news/world-asia-16994366)
 1. [Cover Image](https://ichef.bbci.co.uk/news/1024/media/images/58446000/jpg/_58446853_013962975-1.jpg)

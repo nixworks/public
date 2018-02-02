@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2006/11/19/nintendo-releases-its-7th-generation-video-game-console-in-north-america-with-21-launch-titles-the-wii.html)  [JSON](/news/2006/11/19/nintendo-releases-its-7th-generation-video-game-console-in-north-america-with-21-launch-titles-the-wii.json)  [XML](/news/2006/11/19/nintendo-releases-its-7th-generation-video-game-console-in-north-america-with-21-launch-titles-the-wii.xml)  
+
 ### [2006-11-19](/news/2006/11/19/index.md)
 
+##### Nintendo
 #  Nintendo releases its 7th generation video game console in North America with 21 launch titles, the Wii. 
 
 

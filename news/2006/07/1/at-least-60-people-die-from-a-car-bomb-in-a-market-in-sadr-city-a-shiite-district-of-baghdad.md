@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/07/1/at-least-60-people-die-from-a-car-bomb-in-a-market-in-sadr-city-a-shiite-district-of-baghdad.html)  [JSON](/news/2006/07/1/at-least-60-people-die-from-a-car-bomb-in-a-market-in-sadr-city-a-shiite-district-of-baghdad.json)  [XML](/news/2006/07/1/at-least-60-people-die-from-a-car-bomb-in-a-market-in-sadr-city-a-shiite-district-of-baghdad.xml)  
+
 ### [2006-07-1](/news/2006/07/1/index.md)
 
+##### Sadr City
 #  At least 60 people die from a car bomb in a market in Sadr City, a Shiite district of Baghdad. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Turkish Press](http://www.turkishpress.com/news.asp?id=131363)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/02/10/the-2006-winter-olympics-open-in-turin-italy-with-the-opening-ceremony-at-the-stadio-olimpico-it-is-the-20th-winter-games-and-the-second.html)  [JSON](/news/2006/02/10/the-2006-winter-olympics-open-in-turin-italy-with-the-opening-ceremony-at-the-stadio-olimpico-it-is-the-20th-winter-games-and-the-second.json)  [XML](/news/2006/02/10/the-2006-winter-olympics-open-in-turin-italy-with-the-opening-ceremony-at-the-stadio-olimpico-it-is-the-20th-winter-games-and-the-second.xml)  
+
 ### [2006-02-10](/news/2006/02/10/index.md)
 
+##### 2006 Winter Olympics
 #  The 2006 Winter Olympics open in Turin, Italy, with the opening ceremony at the Stadio Olimpico. It is the 20th winter games and the second hosted by an Italian city. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CBC](http://www.cbc.ca/olympics/stories/headlines.shtml?/story/olympics/national/2006/02/09/Sports/turinopening060209.html)
 

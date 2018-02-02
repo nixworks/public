@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2010/12/8/a-cheetah-is-captured-roaming-the-streets-in-the-emirate-of-sharjah.html)  [JSON](/news/2010/12/8/a-cheetah-is-captured-roaming-the-streets-in-the-emirate-of-sharjah.json)  [XML](/news/2010/12/8/a-cheetah-is-captured-roaming-the-streets-in-the-emirate-of-sharjah.xml)  
+
 ### [2010-12-8](/news/2010/12/8/index.md)
 
+##### cheetah
 # A cheetah is captured roaming the streets in the emirate of Sharjah. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [The Straits Times](http://www.straitstimes.com/BreakingNews/World/Story/STIStory_611654.html)
 

@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/02/3/iraq-war-at-least-135-people-are-killed-and-226-injured-in-a-truck-bombing-in-baghdad.html)  [JSON](/news/2007/02/3/iraq-war-at-least-135-people-are-killed-and-226-injured-in-a-truck-bombing-in-baghdad.json)  [XML](/news/2007/02/3/iraq-war-at-least-135-people-are-killed-and-226-injured-in-a-truck-bombing-in-baghdad.xml)  
+
 ### [2007-02-3](/news/2007/02/3/index.md)
 
+##### Iraq War
 #  Iraq War: at least 135 people are killed and 226 injured in a truck bombing in Baghdad 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/6327057.stm)
 

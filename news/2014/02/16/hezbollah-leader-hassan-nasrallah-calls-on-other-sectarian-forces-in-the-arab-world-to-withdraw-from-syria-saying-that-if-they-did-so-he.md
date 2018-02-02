@@ -1,15 +1,25 @@
+
+Formats: [HTML](/news/2014/02/16/hezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that-if-they-did-so-he.html)  [JSON](/news/2014/02/16/hezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that-if-they-did-so-he.json)  [XML](/news/2014/02/16/hezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that-if-they-did-so-he.xml)  
+
 ### [2014-02-16](/news/2014/02/16/index.md)
 
+##### Hezbollah
 # Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." 
 
 Poriya Hospital in Tiberias treats child with shrapnel wounds, the latest of hundreds of victims of conflict given medical care in Israel
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2014/02/16/us-syria-crisis-hezbollah-lebanon-idUSBREA1F0US20140216)
+1. [Reuters](https://www.reuters.com/article/2014/02/16/us-syria-crisis-hezbollah-lebanon-idUSBREA1F0US20140216)
 2. [The Times of Israel](http://www.timesofisrael.com/five-year-old-syrian-boy-rushed-to-israeli-hospital)
 2. [Cover Image](http://cdn.timesofisrael.com/uploads/2013/06/pic.jpg)
+
+### Changes:
+
+1. [Syrian Civil War:Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." ](/news/2014/02/16/syrian-civil-war-phezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that.md) _2017-08-25 03:40:03 (First version)_
+2. [Syrian Civil War:: Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." ](/news/2014/02/16/syrian-civil-war-hezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that.md) _2017-08-27 03:40:21 (Update)_
+2. [Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." ](/news/2014/02/16/hezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that-if-they-did-so-he.md) _(Current version)_
 
 ### Related:
 
@@ -18,9 +28,3 @@ Poriya Hospital in Tiberias treats child with shrapnel wounds, the latest of hun
 3. [In response to several Israeli airstrikes against suspected Hezbollah-related targets inside Syria, Syrian president Bashar al-Assad has threatened wider war with the State of Israel, stating its intention to fire Scud missiles, and specifically target the Israeli city of Haifa. Israel responded by stating that any such actions by the Assad regime, or attacks on its aircraft, will cause Israel to "annihilate" Syrian air defense systems. ](/news/2017/03/25/in-response-to-several-israeli-airstrikes-against-suspected-hezbollah-related-targets-inside-syria-syrian-president-bashar-al-assad-has-thr.md) _Context: Hezbollah, Syria_
 4. [The Israeli Air Force resumes bombing against suspected Hezbollah-related targets in Syria, with a fourth round of bombings occurring near military sites near Damascus. ](/news/2017/03/22/the-israeli-air-force-resumes-bombing-against-suspected-hezbollah-related-targets-in-syria-with-a-fourth-round-of-bombings-occurring-near-m.md) _Context: Hezbollah, Syria_
 5. [The Israeli Air Force launches several airstrikes on targets inside Syria, and for the first time, publicly claims responsibility. Syrian air defenses responded by launching missiles at the aircraft, and thereupon Israeli Arrow 3 missiles were launched in response to the counter-offensive. Israel stated that it was targeting suspected weapons shipments to Hezbollah in Lebanon, adding that the Israeli military will keep intervening until they believe such shipments have ceased. According to the Syrian Army, four Israeli jets entered its airspace and struck targets near Palmyra. ](/news/2017/03/17/the-israeli-air-force-launches-several-airstrikes-on-targets-inside-syria-and-for-the-first-time-publicly-claims-responsibility-syrian-ai.md) _Context: Hezbollah, Syria_
-
-### Changes:
-
-1. [Syrian Civil War:Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." ](/news/2014/02/16/syrian-civil-war-phezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that.md) _2017-08-25 03:40:03 (First version)_
-2. [Syrian Civil War:: Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." ](/news/2014/02/16/syrian-civil-war-hezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that.md) _2017-08-27 03:40:21 (Update)_
-2. [Hezbollah leader, Hassan Nasrallah, calls on other sectarian forces in the Arab world to withdraw from Syria, saying that if they did so, Hezbollah would also "not remain in Syria either." ](/news/2014/02/16/hezbollah-leader-hassan-nasrallah-calls-on-other-sectarian-forces-in-the-arab-world-to-withdraw-from-syria-saying-that-if-they-did-so-he.md) _(Current version)_

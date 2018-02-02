@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2007/04/3/the-14th-annual-summit-of-the-south-asian-association-for-regional-cooperation-saarc-begins-in-new-delhi-india-and-afghanistan-becomes.html)  [JSON](/news/2007/04/3/the-14th-annual-summit-of-the-south-asian-association-for-regional-cooperation-saarc-begins-in-new-delhi-india-and-afghanistan-becomes.json)  [XML](/news/2007/04/3/the-14th-annual-summit-of-the-south-asian-association-for-regional-cooperation-saarc-begins-in-new-delhi-india-and-afghanistan-becomes.xml)  
+
 ### [2007-04-3](/news/2007/04/3/index.md)
 
+##### South Asian Association for Regional Cooperation
 #  The 14th annual summit of the South Asian Association for Regional Cooperation (SAARC) begins in New Delhi, India, and Afghanistan becomes its 8th member. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Hindu](http://www.hindu.com/2007/04/04/stories/2007040408811200.htm)
 2. [IHT](http://www.iht.com/articles/2007/04/03/news/summit.php)

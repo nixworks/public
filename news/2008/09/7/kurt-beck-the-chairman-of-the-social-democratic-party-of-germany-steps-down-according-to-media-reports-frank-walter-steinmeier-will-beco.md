@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/09/7/kurt-beck-the-chairman-of-the-social-democratic-party-of-germany-steps-down-according-to-media-reports-frank-walter-steinmeier-will-beco.html)  [JSON](/news/2008/09/7/kurt-beck-the-chairman-of-the-social-democratic-party-of-germany-steps-down-according-to-media-reports-frank-walter-steinmeier-will-beco.json)  [XML](/news/2008/09/7/kurt-beck-the-chairman-of-the-social-democratic-party-of-germany-steps-down-according-to-media-reports-frank-walter-steinmeier-will-beco.xml)  
+
 ### [2008-09-7](/news/2008/09/7/index.md)
 
+##### Kurt Beck
 #  Kurt Beck, the chairman of the Social Democratic Party of Germany steps down. According to media reports, Frank Walter Steinmeier will become the candidate for Chancellor of Germany in the 2009 elections. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [ARD German](http://www.tagesschau.de/inland/spd356.html)
+1. [ARD German](https://www.tagesschau.de/inland/spd356.html)
 1. [Cover Image](http://www.tagesschau.de/multimedia/bilder/tagesschauapp104~_v-grossfrei16x9.jpg)
 
 ### Related:
@@ -16,4 +20,4 @@
 2. [ After two months of negotiations, Angela Merkel is elected the first female Chancellor of Germany by a coalition of the CDU-CSU and SPD delegates in the Bundestag. ](/news/2005/11/22/after-two-months-of-negotiations-angela-merkel-is-elected-the-first-female-chancellor-of-germany-by-a-coalition-of-the-cdu-csu-and-spd-del.md) _Context: Chancellor, SPD_
 3. [ Germany: Conferences of the CDU, CSU and SPD approve a coalition deal that will see Angela Merkel become Chancellor on November 22. ](/news/2005/11/14/germany-conferences-of-the-cdu-csu-and-spd-approve-a-coalition-deal-that-will-see-angela-merkel-become-chancellor-on-november-22.md) _Context: Chancellor, SPD_
 4. [ Gerhard Schroder announces his intention to resign from his post as chairman of the Social Democratic Party but to continue as Chancellor of Germany.](/news/2004/02/6/gerhard-schrapder-announces-his-intention-to-resign-from-his-post-as-chairman-of-the-social-democratic-party-but-to-continue-as-chancellor.md) _Context: Chancellor, SPD_
-5. [Voters in the German state of North Rhine-Westphalia head to the polls, with the media suggesting a victory for Angela Merkel's CDU over the SPD, who have lead the state for all but five years since 1966. ](/news/2017/05/14/voters-in-the-german-state-of-north-rhine-westphalia-head-to-the-polls-with-the-media-suggesting-a-victory-for-angela-merkel-s-cdu-over-the.md) _Context: SPD_
+5. [The CDU-CSU (Christian Democrats) and SPD (Social Democrats) agree on a blueprint for formal negotiations on a new "grand coalition" government after the September 2017 federal election. ](/news/2018/01/12/the-cdu-csu-christian-democrats-and-spd-social-democrats-agree-on-a-blueprint-for-formal-negotiations-on-a-new-grand-coalition-governm.md) _Context: SPD_

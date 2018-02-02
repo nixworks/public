@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2011/12/13/at-least-5-000-people-are-now-estimated-to-have-been-killed-in-syria-s-uprising-amid-continuing-violence.html)  [JSON](/news/2011/12/13/at-least-5-000-people-are-now-estimated-to-have-been-killed-in-syria-s-uprising-amid-continuing-violence.json)  [XML](/news/2011/12/13/at-least-5-000-people-are-now-estimated-to-have-been-killed-in-syria-s-uprising-amid-continuing-violence.xml)  
+
 ### [2011-12-13](/news/2011/12/13/index.md)
 
+##### Syria
 # At least 5,000 people are now estimated to have been killed in Syria's uprising, amid continuing violence. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [Daily Nation Kenya](http://www.nation.co.ke/News/world/Syrian+defectors+hit+back+as+death+toll+tops+5000/-/1068/1288802/-/wp57qcz/-/)
 

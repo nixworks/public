@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2005/08/8/iran-resumes-its-nuclear-programme-at-its-uranium-facility-near-the-city-of-isfahan.html)  [JSON](/news/2005/08/8/iran-resumes-its-nuclear-programme-at-its-uranium-facility-near-the-city-of-isfahan.json)  [XML](/news/2005/08/8/iran-resumes-its-nuclear-programme-at-its-uranium-facility-near-the-city-of-isfahan.xml)  
+
 ### [2005-08-8](/news/2005/08/8/index.md)
 
+##### Iran
 #  Iran resumes its nuclear programme at its uranium facility near the city of Isfahan. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [BBC](http://news.bbc.co.uk/2/hi/middle_east/4131706.stm)
 2. [Guardian](http://www.guardian.co.uk/iran/story/0,12858,1545023,00.html)

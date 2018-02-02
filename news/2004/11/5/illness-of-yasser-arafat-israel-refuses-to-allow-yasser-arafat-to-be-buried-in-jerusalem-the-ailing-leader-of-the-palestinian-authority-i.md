@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2004/11/5/illness-of-yasser-arafat-israel-refuses-to-allow-yasser-arafat-to-be-buried-in-jerusalem-the-ailing-leader-of-the-palestinian-authority-i.html)  [JSON](/news/2004/11/5/illness-of-yasser-arafat-israel-refuses-to-allow-yasser-arafat-to-be-buried-in-jerusalem-the-ailing-leader-of-the-palestinian-authority-i.json)  [XML](/news/2004/11/5/illness-of-yasser-arafat-israel-refuses-to-allow-yasser-arafat-to-be-buried-in-jerusalem-the-ailing-leader-of-the-palestinian-authority-i.xml)  
+
 ### [2004-11-5](/news/2004/11/5/index.md)
 
+##### Illness of Yasser Arafat
 #  Illness of Yasser Arafat: Israel refuses to allow Yasser Arafat to be buried in Jerusalem. The ailing leader of the Palestinian Authority is still in a coma, which might be reversible; an aide rejects reports that Arafat is "brain dead". Palestinians claim they will only trust a successor who is "determined and steadfast on the fundamental Palestinian rights", some say who is less willing to compromise. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/newsArticle.jhtml;jsessionid=G5EKT0PFITMBICRBAEKSFFA?type=worldNews&storyID=6730716&section=news)
+1. [Reuters](https://www.reuters.com/newsArticle.jhtml;jsessionid=G5EKT0PFITMBICRBAEKSFFA?type=worldNews&storyID=6730716&section=news)
 
 ### Related:
 

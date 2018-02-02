@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2013/01/9/u-s-secretary-of-labor-hilda-solis-announces-her-resignation-from-the-position-and-is-expected-to-step-down-some-time-around-the-president.html)  [JSON](/news/2013/01/9/u-s-secretary-of-labor-hilda-solis-announces-her-resignation-from-the-position-and-is-expected-to-step-down-some-time-around-the-president.json)  [XML](/news/2013/01/9/u-s-secretary-of-labor-hilda-solis-announces-her-resignation-from-the-position-and-is-expected-to-step-down-some-time-around-the-president.xml)  
+
 ### [2013-01-9](/news/2013/01/9/index.md)
 
+##### United States Secretary of Labor
 # U.S. Secretary of Labor Hilda Solis announces her resignation from the position, and is expected to step down some time around the presidential inauguration in late January. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [CNN](http://politicalticker.blogs.cnn.com/2013/01/09/labor-secretary-hilda-solis-resigns/)
 

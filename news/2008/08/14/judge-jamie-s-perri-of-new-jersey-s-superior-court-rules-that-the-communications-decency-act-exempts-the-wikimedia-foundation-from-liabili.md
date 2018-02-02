@@ -1,13 +1,17 @@
+
+Formats: [HTML](/news/2008/08/14/judge-jamie-s-perri-of-new-jersey-s-superior-court-rules-that-the-communications-decency-act-exempts-the-wikimedia-foundation-from-liabili.html)  [JSON](/news/2008/08/14/judge-jamie-s-perri-of-new-jersey-s-superior-court-rules-that-the-communications-decency-act-exempts-the-wikimedia-foundation-from-liabili.json)  [XML](/news/2008/08/14/judge-jamie-s-perri-of-new-jersey-s-superior-court-rules-that-the-communications-decency-act-exempts-the-wikimedia-foundation-from-liabili.xml)  
+
 ### [2008-08-14](/news/2008/08/14/index.md)
 
+##### New Jersey
 #  Judge Jamie S. Perri of New Jersey's Superior Court rules that the Communications Decency Act exempts the Wikimedia Foundation from liability in a defamation suit filed by literary agent Barbara Bauer. 
 
 
 
 
-### Source:
+### Sources:
 
-1. [Ars Technica](http://arstechnica.com/news.ars/post/20080813-judge-puts-defamation-lawsuit-against-wikipedia-to-the-sword.html)
+1. [Ars Technica](https://arstechnica.com/news.ars/post/20080813-judge-puts-defamation-lawsuit-against-wikipedia-to-the-sword.html)
 
 ### Related:
 

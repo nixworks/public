@@ -1,14 +1,18 @@
+
+Formats: [HTML](/news/2015/01/9/the-people-s-republic-of-china-plans-to-soon-permit-the-online-sale-of-prescription-drugs.html)  [JSON](/news/2015/01/9/the-people-s-republic-of-china-plans-to-soon-permit-the-online-sale-of-prescription-drugs.json)  [XML](/news/2015/01/9/the-people-s-republic-of-china-plans-to-soon-permit-the-online-sale-of-prescription-drugs.xml)  
+
 ### [2015-01-9](/news/2015/01/9/index.md)
 
+##### China
 # The People's Republic of China plans to soon permit the online sale of prescription drugs. 
 
 China will allow online sales of prescription drugs as early as this month, a policy that will open up an over 1 trillion yuan ($161 billion) market to online pharmacy operators like Alibaba Group Holding Ltd and Wal-Mart Stores Inc.
 
 
-### Source:
+### Sources:
 
-1. [Reuters](http://www.reuters.com/article/2015/01/09/us-china-pharmaceuticals-idUSKBN0KI0Y220150109)
-1. [Cover Image](http://s3.reutersmedia.net/resources/r/?m=02&d=20150109&t=2&i=1014971661&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB080GK)
+1. [Reuters](https://www.reuters.com/article/2015/01/09/us-china-pharmaceuticals-idUSKBN0KI0Y220150109)
+1. [Cover Image](https://s3.reutersmedia.net/resources/r/?m=02&d=20150109&t=2&i=1014971661&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEB080GK)
 
 ### Related:
 

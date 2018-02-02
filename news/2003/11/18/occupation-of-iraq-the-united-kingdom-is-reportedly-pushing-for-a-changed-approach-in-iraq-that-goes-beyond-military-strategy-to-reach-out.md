@@ -1,5 +1,9 @@
+
+Formats: [HTML](/news/2003/11/18/occupation-of-iraq-the-united-kingdom-is-reportedly-pushing-for-a-changed-approach-in-iraq-that-goes-beyond-military-strategy-to-reach-out.html)  [JSON](/news/2003/11/18/occupation-of-iraq-the-united-kingdom-is-reportedly-pushing-for-a-changed-approach-in-iraq-that-goes-beyond-military-strategy-to-reach-out.json)  [XML](/news/2003/11/18/occupation-of-iraq-the-united-kingdom-is-reportedly-pushing-for-a-changed-approach-in-iraq-that-goes-beyond-military-strategy-to-reach-out.xml)  
+
 ### [2003-11-18](/news/2003/11/18/index.md)
 
+##### Occupation of Iraq
 #  Occupation of Iraq: The United Kingdom is reportedly pushing for a changed approach in Iraq that goes beyond military strategy to reach out to the Iraqi people and the country's neighbours.
 
 

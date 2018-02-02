@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2015/01/10/a-suicide-bomb-attack-on-a-shiite-mosque-in-rawalpindi-pakistan-kills-at-least-seven-people-militants-linked-to-the-taliban-and-al-qaeda.html)  [JSON](/news/2015/01/10/a-suicide-bomb-attack-on-a-shiite-mosque-in-rawalpindi-pakistan-kills-at-least-seven-people-militants-linked-to-the-taliban-and-al-qaeda.json)  [XML](/news/2015/01/10/a-suicide-bomb-attack-on-a-shiite-mosque-in-rawalpindi-pakistan-kills-at-least-seven-people-militants-linked-to-the-taliban-and-al-qaeda.xml)  
+
 ### [2015-01-10](/news/2015/01/10/index.md)
 
+##### suicide bomb
 # A suicide bomb attack on a Shiite mosque in Rawalpindi, Pakistan, kills at least seven people. Militants linked to the Taliban and al-Qaeda have previously attacked the country's Shiite minority. 
 
 The Jamat-ul-Ahrar faction of the Pakistani Taliban has claimed responsibility for an apparent suicide attack on a Shi&#039;ite mosque in Rawalpindi.
 
 
-### Source:
+### Sources:
 
 1. [AAP via SBS News](http://www.sbs.com.au/news/article/2015/01/10/suicide-blast-kills-seven-pakistan)
 1. [Cover Image](http://www.sbs.com.au/news/sites/sbs.com.au.news/files/pakistan_blast_090115_aap.jpg)

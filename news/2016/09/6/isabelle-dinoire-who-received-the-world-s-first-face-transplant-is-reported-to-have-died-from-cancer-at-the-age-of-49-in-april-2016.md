@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/09/6/isabelle-dinoire-who-received-the-world-s-first-
 
 ### [2016-09-6](/news/2016/09/6/index.md)
 
+##### Isabelle Dinoire
 # Isabelle Dinoire, who received the world's first face transplant, is reported to have died from cancer at the age of 49 in April 2016. 
 
 The first-ever person to receive a face transplant, Frenchwoman Isabelle Dinoire, dies of cancer 11 years after her pioneering surgery.

@@ -3,6 +3,7 @@ Formats: [HTML](/news/2017/08/25/the-cabinet-of-japan-imposes-sanctions-on-vario
 
 ### [2017-08-25](/news/2017/08/25/index.md)
 
+##### Sanctions against North Korea
 # The Cabinet of Japan imposes sanctions on various companies in China and Namibia for their business relations with North Korea. 
 
 The Cabinet approves new unilateral Japanese sanctions on firms and individuals from China, Namibia and North Korea over Pyongyang’s weapons programs.
@@ -15,8 +16,8 @@ The Cabinet approves new unilateral Japanese sanctions on firms and individuals 
 
 ### Related:
 
-1. [Russian president Vladimir Putin signs decree to implement U.N. resolution sanctioning on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-u-n-resolution-sanctioning-on-north-korea.md) _Context: North Korea, Sanctions against North Korea_
-2. [China's Ministry of Commerce suspends all coal imports from North Korea until the end of 2017, as part of international sanctions against North Korea over its ballistic missile program. ](/news/2017/02/18/china-s-ministry-of-commerce-suspends-all-coal-imports-from-north-korea-until-the-end-of-2017-as-part-of-international-sanctions-against-no.md) _Context: North Korea, Sanctions against North Korea_
-3. [An Institute for Science and International Security study indicates that (between March 2014 and September 2017) a total of 49 countries violated United Nations sanctions against North Korea to varying degrees. ](/news/2017/12/6/an-institute-for-science-and-international-security-study-indicates-that-between-march-2014-and-september-2017-a-total-of-49-countries-vio.md) _Context: Sanctions against North Korea_
-4. [U.S. President Donald Trump visits South Korea amidst a crisis with North Korea. ](/news/2017/11/7/u-s-president-donald-trump-visits-south-korea-amidst-a-crisis-with-north-korea.md) _Context: North Korea_
-5. [A North Korean defector claims children are being born with deformities near North Korea's nuclear testing site. ](/news/2017/11/7/a-north-korean-defector-claims-children-are-being-born-with-deformities-near-north-korea-s-nuclear-testing-site.md) _Context: North Korea_
+1. [Australian Federal Police arrest naturalized North Korean Chan Han Choi for violating UN and Australian sanctions by acting as an economic agent for North Korea. ](/news/2017/12/17/australian-federal-police-arrest-naturalized-north-korean-chan-han-choi-for-violating-un-and-australian-sanctions-by-acting-as-an-economic-a.md) _Context: North Korea, Sanctions against North Korea_
+2. [Russian president Vladimir Putin signs decree to implement U.N. resolution sanctioning on North Korea. ](/news/2017/10/16/russian-president-vladimir-putin-signs-decree-to-implement-u-n-resolution-sanctioning-on-north-korea.md) _Context: North Korea, Sanctions against North Korea_
+3. [China's Ministry of Commerce suspends all coal imports from North Korea until the end of 2017, as part of international sanctions against North Korea over its ballistic missile program. ](/news/2017/02/18/china-s-ministry-of-commerce-suspends-all-coal-imports-from-north-korea-until-the-end-of-2017-as-part-of-international-sanctions-against-no.md) _Context: North Korea, Sanctions against North Korea_
+4. [North Korea accepts South Korea's proposal for official talks, and will meet on January 9 to discuss North Korea's possible involvement with the 2018 Winter Olympics in South Korea. These are the first high-level talks between the Koreas in more than two years. ](/news/2018/01/4/north-korea-accepts-south-korea-s-proposal-for-official-talks-and-will-meet-on-january-9-to-discuss-north-korea-s-possible-involvement-with.md) _Context: North Korea_
+5. [The Bulletin of the Atomic Scientists moves the Doomsday Clock thirty seconds forward, to two minutes before midnight, the closest setting since 1953. The journal cites the closer approach to the point of hypothetical global catastrophe to the failure of world leaders to deal with looming threats of nuclear war (particularly, tensions involving the North Korean nuclear program) and climate change. ](/news/2018/01/25/the-bulletin-of-the-atomic-scientists-moves-the-doomsday-clock-thirty-seconds-forward-to-two-minutes-before-midnight-the-closest-setting-s.md) _Context: North Korea_

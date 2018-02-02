@@ -3,6 +3,7 @@ Formats: [HTML](/news/2016/02/24/the-death-toll-in-fiji-rises-to-42-and-is-expec
 
 ### [2016-02-24](/news/2016/02/24/index.md)
 
+##### 2015-16 South Pacific cyclone season
 # The death toll in Fiji rises to 42 and is expected to rise further as relief teams reach remote islands. 
 
 Cyclone Winston death toll hits 42, with reports entire villages have been wiped out on some remote islands.

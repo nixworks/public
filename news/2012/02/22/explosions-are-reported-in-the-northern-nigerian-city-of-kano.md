@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2012/02/22/explosions-are-reported-in-the-northern-nigerian-city-of-kano.html)  [JSON](/news/2012/02/22/explosions-are-reported-in-the-northern-nigerian-city-of-kano.json)  [XML](/news/2012/02/22/explosions-are-reported-in-the-northern-nigerian-city-of-kano.xml)  
+
 ### [2012-02-22](/news/2012/02/22/index.md)
 
+##### Nigeria
 # Explosions are reported in the northern Nigerian city of Kano. 
 
 
 
 
-### Source:
+### Sources:
 
 1. [AFP via Google News](http://www.google.com/hostednews/afp/article/ALeqM5h2WQqAspc1PP8LglNxXfY0m8Qjbg?docId=CNG.5d7fd7adf415ebd3fa94200a9d4c657f.451)
 

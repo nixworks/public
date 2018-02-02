@@ -1,11 +1,15 @@
+
+Formats: [HTML](/news/2006/09/30/a-brazilian-air-force-search-and-rescue-team-locates-the-wreckage-of-gol-transportes-aa-c-reos-flight-1907-near-the-town-of-peixoto-de-azeved.html)  [JSON](/news/2006/09/30/a-brazilian-air-force-search-and-rescue-team-locates-the-wreckage-of-gol-transportes-aa-c-reos-flight-1907-near-the-town-of-peixoto-de-azeved.json)  [XML](/news/2006/09/30/a-brazilian-air-force-search-and-rescue-team-locates-the-wreckage-of-gol-transportes-aa-c-reos-flight-1907-near-the-town-of-peixoto-de-azeved.xml)  
+
 ### [2006-09-30](/news/2006/09/30/index.md)
 
+##### Air Force
 #  A Brazilian Air Force search and rescue team locates the wreckage of Gol Transportes Aereos Flight 1907 near the town of Peixoto de Azevedo, in northern Mato Grosso state. The Boeing 737-800 disappeared from radar after allegedly colliding in mid-air with an Embraer Legacy 600 executive jet. There are no reports on survivors. 
 
 Prosecutors could charge two American pilots of an executive jet with manslaughter following the high-altitude collision with a Brazilian jetliner that apparently led to a crash that killed all 155 people aboard, federal police said Wednesday.
 
 
-### Source:
+### Sources:
 
 1. [AP](http://www.msnbc.msn.com/id/15067143/)
 2. [Globo, Portuguese](http://g1.globo.com/Noticias/Brasil/0,,AA1291906-5598,00.html)
